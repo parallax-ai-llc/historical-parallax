@@ -1,0 +1,74 @@
+name: Collect Historical Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      person_id:
+        description: 'Specific person ID to collect (optional)'
+        required: false
+        type: string
+      collect_all:
+        description: 'Collect all uncollected persons'
+        required: false
+        type: boolean
+        default: false
+
+env:
+  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run data collector
+        id: collect
+        run: |
+          cd data-collector
+          node collect.js
+        continue-on-error: true
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'feat: Add new historical article data'
+          title: '[Auto] New Historical Article Data'
+          branch: auto/data-collection-${{ github.run_number }}
+          delete-branch: true
+
+      - name: Summary
+        run: |
+          echo "## Data Collection Summary" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.changes.outputs.has_changes }}" = "true" ]; then
+            echo "New data collected and PR created" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "No new data to collect" >> $GITHUB_STEP_SUMMARY
+          fi
