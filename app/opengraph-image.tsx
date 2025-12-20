@@ -6,10 +6,14 @@ export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
 export default async function Image() {
-  // Cormorant Garamond 폰트 로드
-  const fontData = await fetch(
-    "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjornFLsS6V7w.woff"
-  ).then((res) => res.arrayBuffer());
+  // Cormorant Garamond 폰트 로드 (Google Fonts CSS에서 woff2 URL 추출)
+  const fontCss = await fetch(
+    "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap",
+    { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } }
+  ).then((res) => res.text());
+
+  const fontUrl = fontCss.match(/src: url\(([^)]+)\)/)?.[1];
+  const fontData = await fetch(fontUrl!).then((res) => res.arrayBuffer());
 
   return new ImageResponse(
     (
