@@ -19,7 +19,7 @@ export default function HomePage() {
       .then((res) => res.json())
       .then((data) => {
         setSearchItems(data);
-        setRecentArticles(data.slice(0, 5));
+        setRecentArticles(data.slice(0, 10));
       })
       .catch(() => {
         setSearchItems([]);
