@@ -113,7 +113,7 @@ The article must exceed 1000 lines - be comprehensive and detailed.`;
 
     // Use web search tools for diverse sources - extended timeout for comprehensive articles
     const { stdout } = await execAsync(
-      `cat "${tempPromptPath}" | claude --print --dangerously-skip-permissions --model sonnet --allowedTools "WebSearch,WebFetch"`,
+      `cat "${tempPromptPath}" | claude --print --dangerously-skip-permissions --model sonnet --allowedTools WebSearch,WebFetch`,
       {
         encoding: 'utf-8',
         maxBuffer: 100 * 1024 * 1024, // 100MB buffer for large articles
