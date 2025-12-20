@@ -103,9 +103,9 @@ Output ONLY the markdown content, starting with the frontmatter (---).`;
 
     console.log(`[START] ${person.name}`);
 
-    // Use ultrathink mode for deeper research
+    // Use web search tools for diverse sources
     const { stdout } = await execAsync(
-      `cat "${tempPromptPath}" | claude --print --dangerously-skip-permissions --model sonnet`,
+      `cat "${tempPromptPath}" | claude --print --dangerously-skip-permissions --model sonnet --allowedTools "WebSearch,WebFetch"`,
       {
         encoding: 'utf-8',
         maxBuffer: 50 * 1024 * 1024,
