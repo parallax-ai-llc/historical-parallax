@@ -17,13 +17,27 @@ export async function generateMetadata({ params }: ArticlePageProps) {
 
   if (!article) {
     return {
-      title: "Not Found - Historical Parallax",
+      title: "Not Found",
     };
   }
 
+  const { name, nationality, birth, death } = article.meta;
+  const lifespan = birth ? `${birth}${death ? ` – ${death}` : ""}` : "";
+  const description = `${name}${nationality ? ` (${nationality})` : ""}${lifespan ? ` ${lifespan}` : ""} - Explore multiple perspectives on this historical figure.`;
+
   return {
-    title: `${article.meta.name} - Historical Parallax`,
-    description: `${article.meta.name} - ${article.meta.nationality || "Historical Figure"}`,
+    title: name,
+    description,
+    openGraph: {
+      title: name,
+      description,
+      type: "article",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: name,
+      description,
+    },
   };
 }
 

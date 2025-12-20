@@ -1,6 +1,7 @@
 {
-  "name": "My App",
-  "short_name": "App",
+  "name": "Historical Parallax",
+  "short_name": "Parallax",
+  "description": "Explore historical figures from multiple perspectives",
   "icons": [
     {
       "src": "/favicon-192x192.png",
@@ -15,7 +16,9 @@
       "purpose": "any maskable"
     }
   ],
-  "theme_color": "#4f46e5",
+  "theme_color": "#0a0a0a",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
 }
