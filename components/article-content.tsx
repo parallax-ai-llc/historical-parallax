@@ -80,17 +80,20 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
       <div
         className="prose prose-neutral dark:prose-invert max-w-none
           prose-headings:font-serif prose-headings:scroll-mt-20
-          prose-h2:text-2xl prose-h2:font-semibold prose-h2:mt-8 prose-h2:mb-4
-          prose-h3:text-xl prose-h3:font-medium prose-h3:mt-6 prose-h3:mb-3
+          prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-border
+          prose-h3:text-lg prose-h3:font-semibold prose-h3:mt-6 prose-h3:mb-3 prose-h3:text-muted-foreground
+          prose-h4:text-base prose-h4:font-medium prose-h4:mt-4 prose-h4:mb-2
           prose-p:leading-7 prose-p:mb-4
           prose-a:text-primary prose-a:no-underline hover:prose-a:underline
           prose-table:my-6 prose-table:w-full
-          prose-th:border prose-th:border-border prose-th:p-2 prose-th:bg-muted
+          prose-th:border prose-th:border-border prose-th:p-2 prose-th:bg-muted prose-th:font-semibold
           prose-td:border prose-td:border-border prose-td:p-2
-          prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:pl-4 prose-blockquote:italic
+          prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:bg-muted/30 prose-blockquote:py-2
           prose-ul:my-4 prose-ul:list-disc prose-ul:pl-6
           prose-ol:my-4 prose-ol:list-decimal prose-ol:pl-6
-          prose-li:my-1"
+          prose-li:my-1
+          prose-strong:font-semibold prose-strong:text-foreground
+          prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm"
         dangerouslySetInnerHTML={{ __html: content }}
       />
 

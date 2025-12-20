@@ -57,3 +57,37 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Markdown article heading styles */
+.prose h2 {
+  position: relative;
+}
+
+.prose h2::before {
+  content: "";
+  position: absolute;
+  left: -1rem;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: hsl(var(--primary));
+  border-radius: 2px;
+}
+
+.prose h3 {
+  position: relative;
+  padding-left: 0.75rem;
+}
+
+.prose h3::before {
+  content: "›";
+  position: absolute;
+  left: 0;
+  color: hsl(var(--muted-foreground));
+}
+
+/* Command dialog focus fix */
+[cmdk-input]:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}

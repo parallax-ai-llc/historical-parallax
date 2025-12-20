@@ -81,13 +81,12 @@ async function generateArticle(person) {
   const prompt = promptTemplate
     .replace(/\{\{id\}\}/g, person.id)
     .replace(/\{\{name\}\}/g, person.name)
-    .replace(/\{\{nameKo\}\}/g, person.nameKo)
     .replace(/\{\{nationality\}\}/g, person.nationality);
 
   const fullPrompt = `
 ${prompt}
 
-Now generate a complete article for ${person.name} (${person.nameKo}) following the exact format above.
+Now generate a complete article for ${person.name} following the exact format above.
 Make sure to:
 1. Research thoroughly and provide accurate information
 2. Include both positive and negative perspectives with citations
