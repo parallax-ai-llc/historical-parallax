@@ -1,7 +1,7 @@
 {
   "metadata": {
     "description": "Historical Parallax - Person list for data collection",
-    "lastUpdated": "2024-12-20"
+    "lastUpdated": "2025-12-20"
   },
   "persons": [
     {
@@ -26,7 +26,7 @@
       "id": "mao-zedong",
       "name": "Mao Zedong",
       "nationality": "China",
-      "collected": false
+      "collected": true
     },
     {
       "id": "churchill-winston",

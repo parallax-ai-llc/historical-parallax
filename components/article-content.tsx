@@ -90,7 +90,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
 
       {/* Image */}
       {meta.image && (
-        <div className="mb-8 overflow-hidden rounded-lg border">
+        <div className="mb-8">
           <Image
             src={meta.image}
             alt={meta.name}
