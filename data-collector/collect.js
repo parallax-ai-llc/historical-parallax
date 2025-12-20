@@ -25,7 +25,7 @@ const PERSON_LIST_PATH = path.join(DATA_DIR, 'person-list.json');
 const PROMPT_PATH = path.join(DATA_DIR, 'prompts', 'article-prompt.md');
 
 // Config
-const DEFAULT_PARALLEL_LIMIT = 5;
+const DEFAULT_PARALLEL_LIMIT = 3; // Reduced for comprehensive articles
 
 // Ensure directories exist
 if (!fs.existsSync(ARTICLES_DIR)) {
@@ -85,14 +85,22 @@ async function generateArticle(person) {
 
   const fullPrompt = `${prompt}
 
-Now generate a complete article for ${person.name} following the exact format above.
-Make sure to:
-1. Research thoroughly and provide accurate information
-2. Include both positive and negative perspectives with citations
-3. Use real, verifiable sources
-4. Get the Wikimedia Commons image URL
+IMPORTANT INSTRUCTIONS FOR ${person.name}:
 
-Output ONLY the markdown content, starting with the frontmatter (---).`;
+1. Use WebSearch tool extensively to research this person from multiple angles
+2. The article MUST be at least 1000 lines of markdown
+3. Include 13+ main sections with 3-5 subsections each
+4. Each subsection needs 200-500 words of detailed content
+5. Include 100+ references from diverse sources (academic, news, books, archives)
+6. Search for: biography, achievements, controversies, 2024-2025 news, quotes, legacy
+7. Include a timeline with 20+ key dates
+8. Include 5-10 famous quotes with context
+9. Balance positive and negative perspectives equally
+
+DO NOT rely primarily on Wikipedia. Use BBC, NYT, academic sources, books, etc.
+
+Output ONLY the markdown content, starting with the frontmatter (---).
+The article must exceed 1000 lines - be comprehensive and detailed.`;
 
   const outputPath = path.join(ARTICLES_DIR, `${person.id}.md`);
   const tempPromptPath = path.join(DATA_DIR, `.temp-prompt-${person.id}.txt`);
@@ -103,13 +111,13 @@ Output ONLY the markdown content, starting with the frontmatter (---).`;
 
     console.log(`[START] ${person.name}`);
 
-    // Use web search tools for diverse sources
+    // Use web search tools for diverse sources - extended timeout for comprehensive articles
     const { stdout } = await execAsync(
       `cat "${tempPromptPath}" | claude --print --dangerously-skip-permissions --model sonnet --allowedTools "WebSearch,WebFetch"`,
       {
         encoding: 'utf-8',
-        maxBuffer: 50 * 1024 * 1024,
-        timeout: 900000, // 15 minutes
+        maxBuffer: 100 * 1024 * 1024, // 100MB buffer for large articles
+        timeout: 1800000, // 30 minutes for 1000+ line articles
         cwd: DATA_DIR,
         shell: true
       }
