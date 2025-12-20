@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# data collector (managed separately in tool-factory)
+/data-collector
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
