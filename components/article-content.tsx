@@ -27,15 +27,36 @@ interface ArticleContentProps {
   content: string;
 }
 
+function processContent(html: string): { mainContent: string; references: string } {
+  // Split content at References section
+  const refMatch = html.match(/<h2[^>]*id="references"[^>]*>.*?<\/h2>/i);
+  const refHeadingMatch = html.match(/<h2[^>]*>References<\/h2>/i);
+
+  let splitPoint = refMatch || refHeadingMatch;
+
+  if (splitPoint) {
+    const index = html.indexOf(splitPoint[0]);
+    return {
+      mainContent: html.substring(0, index),
+      references: html.substring(index)
+    };
+  }
+
+  return { mainContent: html, references: '' };
+}
+
 export function ArticleContent({ meta, content }: ArticleContentProps) {
+  const { mainContent, references } = processContent(content);
+
   return (
     <article className="flex-1 min-w-0">
-      <div className="mb-6">
-        <p className="text-sm text-muted-foreground mb-2">
+      {/* Header */}
+      <div className="mb-8">
+        <p className="text-sm text-muted-foreground mb-3">
           Last updated: {meta.lastUpdated || "Unknown"}
         </p>
 
-        <h1 className="font-serif text-4xl font-bold tracking-tight mb-4">
+        <h1 className="font-serif text-4xl md:text-5xl font-bold tracking-tight mb-4">
           {meta.name}
         </h1>
 
@@ -43,18 +64,22 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
           {meta.birth && (
             <span>
               {meta.birth}
-              {meta.death ? ` - ${meta.death}` : " - Present"}
+              {meta.death ? ` – ${meta.death}` : " – Present"}
             </span>
           )}
-          {meta.nationality && <span>{meta.nationality}</span>}
+          {meta.nationality && (
+            <span className="px-2 py-0.5 bg-secondary rounded">
+              {meta.nationality}
+            </span>
+          )}
         </div>
 
         {meta.occupation && meta.occupation.length > 0 && (
-          <div className="flex flex-wrap gap-2 mt-3">
+          <div className="flex flex-wrap gap-2 mt-4">
             {meta.occupation.map((occ) => (
               <span
                 key={occ}
-                className="inline-flex items-center rounded-full bg-secondary px-2.5 py-0.5 text-xs font-medium text-secondary-foreground"
+                className="inline-flex items-center rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary"
               >
                 {occ}
               </span>
@@ -63,52 +88,52 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
         )}
       </div>
 
+      {/* Image */}
       {meta.image && (
-        <div className="mb-6 overflow-hidden">
+        <div className="mb-8 overflow-hidden rounded-lg border">
           <Image
             src={meta.image}
             alt={meta.name}
-            width={300}
-            height={400}
+            width={320}
+            height={420}
             className="object-cover"
           />
         </div>
       )}
 
-      <Separator className="my-6" />
+      <Separator className="my-8" />
 
+      {/* Main Content */}
       <div
-        className="prose prose-neutral dark:prose-invert max-w-none
-          prose-headings:font-serif prose-headings:scroll-mt-20
-          prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-border
-          prose-h3:text-lg prose-h3:font-semibold prose-h3:mt-6 prose-h3:mb-3 prose-h3:text-muted-foreground
-          prose-h4:text-base prose-h4:font-medium prose-h4:mt-4 prose-h4:mb-2
-          prose-p:leading-7 prose-p:mb-4
-          prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-          prose-table:my-6 prose-table:w-full
-          prose-th:border prose-th:border-border prose-th:p-2 prose-th:bg-muted prose-th:font-semibold
-          prose-td:border prose-td:border-border prose-td:p-2
-          prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:bg-muted/30 prose-blockquote:py-2
-          prose-ul:my-4 prose-ul:list-disc prose-ul:pl-6
-          prose-ol:my-4 prose-ol:list-decimal prose-ol:pl-6
-          prose-li:my-1
-          prose-strong:font-semibold prose-strong:text-foreground
-          prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm"
-        dangerouslySetInnerHTML={{ __html: content }}
+        className="article-content"
+        dangerouslySetInnerHTML={{ __html: mainContent }}
       />
 
+      {/* References Section */}
+      {references && (
+        <div className="mt-12 pt-8 border-t-2 border-border">
+          <div className="bg-muted/30 rounded-lg p-6">
+            <div
+              className="article-content references-section"
+              dangerouslySetInnerHTML={{ __html: references }}
+            />
+          </div>
+        </div>
+      )}
+
+      {/* External Links */}
       {meta.socialLinks && Object.keys(meta.socialLinks).length > 0 && (
         <>
-          <Separator className="my-6" />
-          <div className="space-y-2">
+          <Separator className="my-8" />
+          <div className="space-y-3">
             <h3 className="font-serif text-lg font-semibold">External Links</h3>
-            <div className="flex flex-wrap gap-3">
+            <div className="flex flex-wrap gap-4">
               {meta.socialLinks.wikipedia && (
                 <Link
                   href={meta.socialLinks.wikipedia}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground"
+                  className="inline-flex items-center gap-1.5 text-sm text-[hsl(210,100%,50%)] hover:text-[hsl(210,100%,40%)] dark:text-[hsl(210,100%,65%)] dark:hover:text-[hsl(210,100%,75%)] transition-colors"
                 >
                   <ExternalLink className="h-4 w-4" />
                   Wikipedia
@@ -119,7 +144,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
                   href={meta.socialLinks.twitter}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground"
+                  className="inline-flex items-center gap-1.5 text-sm text-[hsl(210,100%,50%)] hover:text-[hsl(210,100%,40%)] dark:text-[hsl(210,100%,65%)] dark:hover:text-[hsl(210,100%,75%)] transition-colors"
                 >
                   <ExternalLink className="h-4 w-4" />
                   Twitter
@@ -130,7 +155,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
                   href={meta.socialLinks.official}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground"
+                  className="inline-flex items-center gap-1.5 text-sm text-[hsl(210,100%,50%)] hover:text-[hsl(210,100%,40%)] dark:text-[hsl(210,100%,65%)] dark:hover:text-[hsl(210,100%,75%)] transition-colors"
                 >
                   <ExternalLink className="h-4 w-4" />
                   Official

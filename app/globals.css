@@ -24,6 +24,7 @@
     --input: 0 0% 89.8%;
     --ring: 0 0% 3.9%;
     --radius: 0.5rem;
+    --link: 210 100% 50%;
   }
 
   .dark {
@@ -46,6 +47,7 @@
     --border: 0 0% 14.9%;
     --input: 0 0% 14.9%;
     --ring: 0 0% 83.1%;
+    --link: 210 100% 65%;
   }
 }
 
@@ -58,31 +60,202 @@
   }
 }
 
-/* Markdown article heading styles */
-.prose h2 {
-  position: relative;
+/* ========================================
+   Article Prose Styles
+   ======================================== */
+
+.article-content {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: hsl(var(--foreground));
 }
 
-.prose h2::before {
-  content: "";
-  position: absolute;
-  left: -1rem;
-  top: 0;
-  bottom: 0;
-  width: 4px;
-  background: hsl(var(--primary));
-  border-radius: 2px;
+/* Headings */
+.article-content h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid hsl(var(--border));
+  color: hsl(var(--foreground));
+  font-family: var(--font-playfair), serif;
 }
 
-.prose h3 {
-  position: relative;
-  padding-left: 0.75rem;
+.article-content h3 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid hsl(var(--border) / 0.5);
+  color: hsl(var(--foreground));
+  font-family: var(--font-playfair), serif;
 }
 
-.prose h3::before {
-  content: "›";
-  position: absolute;
-  left: 0;
+.article-content h4 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: hsl(var(--muted-foreground));
+}
+
+/* Paragraphs */
+.article-content p {
+  margin-bottom: 1.25rem;
+  line-height: 1.85;
+}
+
+/* Links - Light Blue */
+.article-content a {
+  color: hsl(var(--link));
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.article-content a:hover {
+  text-decoration: underline;
+  color: hsl(210 100% 40%);
+}
+
+.dark .article-content a:hover {
+  color: hsl(210 100% 75%);
+}
+
+/* Lists */
+.article-content ul,
+.article-content ol {
+  margin: 1.25rem 0;
+  padding-left: 1.75rem;
+}
+
+.article-content ul {
+  list-style-type: disc;
+}
+
+.article-content ol {
+  list-style-type: decimal;
+}
+
+.article-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.article-content li::marker {
+  color: hsl(var(--muted-foreground));
+}
+
+/* Strong / Bold */
+.article-content strong {
+  font-weight: 600;
+  color: hsl(var(--foreground));
+}
+
+/* Tables */
+.article-content table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: 0.925rem;
+}
+
+.article-content th,
+.article-content td {
+  padding: 0.75rem 1rem;
+  border: 1px solid hsl(var(--border));
+  text-align: left;
+}
+
+.article-content th {
+  background: hsl(var(--muted));
+  font-weight: 600;
+}
+
+.article-content tr:hover {
+  background: hsl(var(--muted) / 0.5);
+}
+
+/* Blockquotes */
+.article-content blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid hsl(var(--link));
+  background: hsl(var(--muted) / 0.3);
+  font-style: italic;
+  color: hsl(var(--muted-foreground));
+}
+
+/* Code */
+.article-content code {
+  background: hsl(var(--muted));
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+
+/* Horizontal Rule */
+.article-content hr {
+  margin: 2.5rem 0;
+  border: none;
+  border-top: 1px solid hsl(var(--border));
+}
+
+/* ========================================
+   References Section - Special Styling
+   ======================================== */
+
+.article-content h2#references,
+.article-content h2:has(+ p a[href^="#"]),
+.article-content h2:last-of-type {
+  margin-top: 4rem;
+}
+
+/* Footnote references in text */
+.article-content sup {
+  font-size: 0.75rem;
+}
+
+.article-content sup a {
+  color: hsl(var(--link));
+  font-weight: 500;
+}
+
+/* References list styling */
+.article-content p:has(a[href^="#"]):has(sup),
+.article-content .footnotes,
+.article-content section.footnotes {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid hsl(var(--border));
+}
+
+/* Reference items [^1]: style */
+.article-content p:last-child a[href^="http"],
+.article-content p:nth-last-child(-n+15) {
+  font-size: 0.9rem;
+}
+
+/* References section container */
+.references-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid hsl(var(--border));
+  background: hsl(var(--muted) / 0.2);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.references-section h2 {
+  margin-top: 0 !important;
+  font-size: 1.5rem;
+}
+
+.references-section p {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
   color: hsl(var(--muted-foreground));
 }
 
@@ -90,4 +263,10 @@
 [cmdk-input]:focus {
   outline: none !important;
   box-shadow: none !important;
+}
+
+/* Image styling */
+.article-content img {
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
 }
