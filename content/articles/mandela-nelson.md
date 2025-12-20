@@ -1,11 +1,10 @@
 ---
 id: "mandela-nelson"
 name: "Nelson Rolihlahla Mandela"
-nameKo: "넬슨 롤리랄라 만델라"
 birth: "1918-07-18"
 death: "2013-12-05"
 nationality: "South Africa"
-occupation: ["정치인", "인권운동가", "변호사", "대통령"]
+occupation: ["Politician", "Human rights activist", "Lawyer", "President"]
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/440px-Nelson_Mandela_1994.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nelson_Mandela"
@@ -15,89 +14,89 @@ lastUpdated: "2024-12-20"
 
 ## Summary
 
-넬슨 롤리랄라 만델라(Nelson Rolihlahla Mandela, 1918-2013)는 남아프리카 공화국의 인권운동가이자 정치인으로, 아파르트헤이트(인종차별 정책)에 맞서 싸운 투쟁의 상징이다. 27년간의 수감 생활 후 1994년 남아공 최초의 흑인 대통령으로 선출되었다.
+Nelson Rolihlahla Mandela (1918-2013) was a South African human rights activist and politician who became the symbol of the struggle against apartheid (racial segregation policies). After 27 years of imprisonment, he was elected as South Africa's first Black president in 1994.
 
-## Early Life (초기 삶)
+## Early Life
 
-만델라는 1918년 7월 18일 동부 케이프 주 음베조의 템부족 왕가에서 태어났다. 그의 아버지 가들라 헨리 만델라는 템부족의 족장 고문이었다. [^1]
+Mandela was born on July 18, 1918, in Mvezo, Eastern Cape, into the Thembu royal family. His father, Gadla Henry Mandela, was an advisor to the Thembu chief. [^1]
 
-"롤리랄라"라는 이름은 코사어로 "문제를 일으키는 자"라는 뜻이다. "넬슨"이라는 영어 이름은 초등학교 선생님이 지어준 것이다. [^2]
+The name "Rolihlahla" means "troublemaker" in Xhosa. The English name "Nelson" was given to him by his elementary school teacher. [^2]
 
-### 교육
+### Education
 
-- 포트 헤어 대학교에서 법학 수학
-- 1942년 요하네스버그로 이주, 비트바테르스란트 대학교에서 법학 학위 취득
-- 1952년 올리버 탬보와 함께 남아공 최초의 흑인 법률 사무소 개설
+- Studied law at Fort Hare University
+- 1942: Moved to Johannesburg, earned law degree at University of the Witwatersrand
+- 1952: Opened South Africa's first Black law firm with Oliver Tambo
 
-## Middle Years (중기 삶)
+## Middle Years
 
-### 정치 활동의 시작 (1944-1962)
+### Beginning of Political Activity (1944-1962)
 
-1944년 만델라는 아프리카 민족회의(ANC)에 가입하고 청년동맹을 공동 창설했다. [^3]
+In 1944, Mandela joined the African National Congress (ANC) and co-founded the Youth League. [^3]
 
-주요 활동:
-- **1952년 불복종 운동**: 아파르트헤이트 법에 대한 대규모 시민 불복종
-- **1955년 자유헌장 채택**: 비인종차별적 민주주의 남아공의 비전 제시
-- **1960년 샤프빌 학살**: 평화 시위대에 대한 경찰 발포로 69명 사망
-- **1961년 움콘토 웨 시즈웨 창설**: ANC의 무장 조직 설립
+Major activities:
+- **1952 Defiance Campaign**: Large-scale civil disobedience against apartheid laws
+- **1955 Freedom Charter Adoption**: Presented a vision of a non-racial democratic South Africa
+- **1960 Sharpeville Massacre**: Police fired on peaceful protesters, killing 69 people
+- **1961 Founding of Umkhonto we Sizwe**: Established the armed wing of the ANC
 
-### 투옥과 수감 생활 (1962-1990)
+### Imprisonment (1962-1990)
 
-1962년 체포된 만델라는 1964년 리보니아 재판에서 종신형을 선고받았다. 그는 로벤 섬을 포함한 여러 교도소에서 27년간 수감되었다. [^4]
+Arrested in 1962, Mandela was sentenced to life imprisonment at the Rivonia Trial in 1964. He was imprisoned for 27 years in various prisons including Robben Island. [^4]
 
-수감 중에도 만델라는 국제적인 반아파르트헤이트 운동의 상징이 되었다. "Free Mandela" 캠페인은 전 세계로 확산되었다.
+Even while imprisoned, Mandela became a symbol of the international anti-apartheid movement. The "Free Mandela" campaign spread worldwide.
 
-## Later Life (말년)
+## Later Life
 
-### 석방과 대통령 취임 (1990-1999)
+### Release and Presidency (1990-1999)
 
-1990년 2월 11일, F.W. 드 클레르크 대통령의 결정으로 만델라는 석방되었다. [^5]
+On February 11, 1990, Mandela was released following President F.W. de Klerk's decision. [^5]
 
-- **1993년**: 드 클레르크와 함께 노벨 평화상 수상
-- **1994년**: 남아공 최초의 민주 선거에서 승리, 대통령 취임
-- **1994-1999년**: 대통령 재임 기간 동안 인종 화해와 국가 통합에 주력
+- **1993**: Awarded the Nobel Peace Prize jointly with de Klerk
+- **1994**: Won South Africa's first democratic election, became President
+- **1994-1999**: During his presidency, focused on racial reconciliation and national unity
 
-### 은퇴 후 (1999-2013)
+### Retirement (1999-2013)
 
-대통령직에서 물러난 후에도 만델라는 에이즈 퇴치, 교육, 평화 활동에 헌신했다. 2013년 12월 5일, 95세의 나이로 요하네스버그에서 서거했다. [^6]
+After stepping down from the presidency, Mandela continued to dedicate himself to AIDS awareness, education, and peace activities. He passed away on December 5, 2013, at the age of 95 in Johannesburg. [^6]
 
-## Positive Perspectives (긍정 평가)
+## Positive Perspectives
 
-- **인종 화해의 상징**: 27년간의 투옥에도 불구하고 복수가 아닌 화해를 선택하여 남아공의 평화적 전환을 이끌었다. [^7]
-- **민주주의의 아버지**: 남아공 최초의 민주 선거와 민주 헌법 제정에 기여했다.
-- **인권의 아이콘**: 전 세계 인권 운동과 자유를 위한 투쟁의 상징이 되었다.
-- **진실화해위원회**: 과거 인권 침해에 대한 진실 규명과 화해를 추구하는 혁신적 모델을 제시했다.
-- **노벨 평화상**: 아파르트헤이트 종식과 평화적 전환에 기여한 공로를 인정받았다. [^8]
+- **Symbol of Racial Reconciliation**: Despite 27 years of imprisonment, he chose reconciliation over revenge, leading South Africa's peaceful transition. [^7]
+- **Father of Democracy**: Contributed to South Africa's first democratic elections and the establishment of a democratic constitution.
+- **Icon of Human Rights**: Became a global symbol of human rights movements and the fight for freedom.
+- **Truth and Reconciliation Commission**: Presented an innovative model for pursuing truth and reconciliation regarding past human rights abuses.
+- **Nobel Peace Prize**: Recognized for his contribution to ending apartheid and achieving peaceful transition. [^8]
 
-## Negative Perspectives (부정 평가)
+## Negative Perspectives
 
-- **무장 투쟁 옹호**: ANC의 무장 조직 움콘토 웨 시즈웨를 창설하고 이끈 점에 대한 비판이 있다. [^9]
-- **경제적 불평등 지속**: 대통령 재임 기간 동안 경제적 불평등 해소에 실패했다는 비판이 있다.
-- **ANC의 부패**: 그가 이끈 ANC가 이후 부패와 비효율의 상징이 되었다.
-- **공산주의와의 연대**: 냉전 시기 공산당 및 소련과의 연대에 대한 서방의 비판이 있었다.
-- **인권 문제에 대한 선택적 접근**: 쿠바의 카스트로, 리비아의 카다피 등 독재자들과의 우호 관계에 대한 비판이 있다. [^10]
+- **Advocacy of Armed Struggle**: Criticized for founding and leading Umkhonto we Sizwe, the armed wing of the ANC. [^9]
+- **Persistent Economic Inequality**: Criticized for failing to address economic inequality during his presidency.
+- **ANC Corruption**: The ANC he led later became associated with corruption and inefficiency.
+- **Alliance with Communism**: Western criticism existed during the Cold War for his alliance with the Communist Party and Soviet Union.
+- **Selective Approach to Human Rights**: Criticized for friendly relations with dictators such as Cuba's Castro and Libya's Gaddafi. [^10]
 
 ## Recent News
 
-- 2023년 7월: 만델라 탄생 105주년 기념, 유엔 '넬슨 만델라 국제의 날' 행사
-- 2023년 12월: 서거 10주기 추모 행사
-- 2022년: 만델라 재단, 교육 및 청소년 리더십 프로그램 확대
+- July 2023: Mandela's 105th birthday celebration, UN 'Nelson Mandela International Day' events
+- December 2023: 10th anniversary memorial services
+- 2022: Mandela Foundation expands education and youth leadership programs
 
 ## Career Timeline
 
-| 연도 | 사건 |
+| Year | Event |
 |------|------|
-| 1918 | 음베조에서 출생 |
-| 1944 | ANC 청년동맹 공동 창설 |
-| 1952 | 첫 번째 흑인 법률 사무소 개설 |
-| 1961 | 움콘토 웨 시즈웨 창설 |
-| 1962 | 체포 |
-| 1964 | 종신형 선고 |
-| 1990 | 석방 |
-| 1993 | 노벨 평화상 수상 |
-| 1994 | 대통령 취임 |
-| 1999 | 대통령직 퇴임 |
-| 2013 | 서거 |
+| 1918 | Born in Mvezo |
+| 1944 | Co-founded ANC Youth League |
+| 1952 | Opened first Black law firm |
+| 1961 | Founded Umkhonto we Sizwe |
+| 1962 | Arrested |
+| 1964 | Sentenced to life imprisonment |
+| 1990 | Released |
+| 1993 | Awarded Nobel Peace Prize |
+| 1994 | Inaugurated as President |
+| 1999 | Retired from presidency |
+| 2013 | Passed away |
 
 ## References
 

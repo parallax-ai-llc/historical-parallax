@@ -17,13 +17,13 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Historical Parallax",
-  description: "다양한 관점에서 바라보는 역사적 인물과 사건",
-  keywords: ["역사", "인물", "정치", "평가", "백과사전"],
+  description: "Explore historical figures and events from multiple perspectives",
+  keywords: ["history", "figures", "politics", "biography", "encyclopedia"],
   openGraph: {
     title: "Historical Parallax",
-    description: "다양한 관점에서 바라보는 역사적 인물과 사건",
+    description: "Explore historical figures and events from multiple perspectives",
     type: "website",
-    locale: "ko_KR",
+    locale: "en_US",
   },
 };
 
@@ -33,7 +33,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ko" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning>
       <body className={`${playfair.variable} ${inter.variable} font-sans antialiased`}>
         <ThemeProvider
           attribute="class"

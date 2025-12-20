@@ -9,7 +9,6 @@ import { Separator } from "@/components/ui/separator";
 export interface ArticleMeta {
   id: string;
   name: string;
-  nameKo?: string;
   birth?: string;
   death?: string;
   nationality?: string;
@@ -36,13 +35,9 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
           Last updated: {meta.lastUpdated || "Unknown"}
         </p>
 
-        <h1 className="font-serif text-4xl font-bold tracking-tight mb-2">
+        <h1 className="font-serif text-4xl font-bold tracking-tight mb-4">
           {meta.name}
         </h1>
-
-        {meta.nameKo && (
-          <p className="text-xl text-muted-foreground mb-4">{meta.nameKo}</p>
-        )}
 
         <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
           {meta.birth && (
@@ -69,7 +64,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
       </div>
 
       {meta.image && (
-        <div className="mb-6 overflow-hidden rounded-lg border">
+        <div className="mb-6 overflow-hidden">
           <Image
             src={meta.image}
             alt={meta.name}

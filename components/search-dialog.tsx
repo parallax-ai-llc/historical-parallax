@@ -15,7 +15,6 @@ import {
 export interface SearchItem {
   id: string;
   name: string;
-  nameKo?: string;
   nationality?: string;
   summary?: string;
 }
@@ -37,7 +36,6 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
     return items.filter(
       (item) =>
         item.name.toLowerCase().includes(lowerSearch) ||
-        item.nameKo?.toLowerCase().includes(lowerSearch) ||
         item.nationality?.toLowerCase().includes(lowerSearch)
     ).slice(0, 10);
   }, [items, search]);
@@ -78,14 +76,7 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
               className="cursor-pointer"
             >
               <Search className="mr-2 h-4 w-4" />
-              <div className="flex flex-col">
-                <span className="font-medium">{item.name}</span>
-                {item.nameKo && (
-                  <span className="text-sm text-muted-foreground">
-                    {item.nameKo}
-                  </span>
-                )}
-              </div>
+              <span className="font-medium">{item.name}</span>
               {item.nationality && (
                 <span className="ml-auto text-xs text-muted-foreground">
                   {item.nationality}

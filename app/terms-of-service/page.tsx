@@ -4,7 +4,7 @@ import { Footer } from "@/components/footer";
 
 export const metadata = {
   title: "Terms of Service - Historical Parallax",
-  description: "Historical Parallax 이용약관",
+  description: "Terms of Service for Historical Parallax",
 };
 
 export default function TermsOfServicePage() {

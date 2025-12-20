@@ -23,9 +23,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
 
   return {
     title: `${article.meta.name} - Historical Parallax`,
-    description: article.meta.nameKo
-      ? `${article.meta.name} (${article.meta.nameKo})`
-      : article.meta.name,
+    description: `${article.meta.name} - ${article.meta.nationality || "Historical Figure"}`,
   };
 }
 

@@ -8,7 +8,6 @@ import remarkGfm from "remark-gfm";
 export interface ArticleMeta {
   id: string;
   name: string;
-  nameKo?: string;
   birth?: string;
   death?: string;
   nationality?: string;
@@ -68,7 +67,6 @@ export function getAllArticles(): ArticleMeta[] {
         return {
           id,
           name: data.name || id,
-          nameKo: data.nameKo,
           birth: data.birth,
           death: data.death,
           nationality: data.nationality,
@@ -140,7 +138,6 @@ export async function getArticle(id: string): Promise<Article | null> {
     const meta: ArticleMeta = {
       id,
       name: data.name || id,
-      nameKo: data.nameKo,
       birth: data.birth,
       death: data.death,
       nationality: data.nationality,

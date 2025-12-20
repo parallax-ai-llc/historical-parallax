@@ -1,11 +1,10 @@
 ---
 id: "park-chunghee"
 name: "Park Chung-hee"
-nameKo: "박정희"
 birth: "1917-11-14"
 death: "1979-10-26"
 nationality: "South Korea"
-occupation: ["군인", "정치인", "대통령"]
+occupation: ["Military officer", "Politician", "President"]
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Park_Chung-hee_1963%27s.png/440px-Park_Chung-hee_1963%27s.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Chung-hee"
@@ -14,99 +13,99 @@ lastUpdated: "2024-12-20"
 
 ## Summary
 
-박정희(朴正熙, 1917-1979)는 대한민국의 군인 출신 정치인으로, 1961년 5.16 군사정변을 통해 집권하여 1979년 암살될 때까지 18년간 대통령직을 수행했다. 한국의 급속한 경제성장을 이끈 지도자로 평가받는 동시에, 권위주의적 통치와 인권 탄압으로 비판받는 논쟁적 인물이다.
+Park Chung-hee (1917-1979) was a South Korean politician and former military officer who seized power through the May 16 military coup in 1961 and served as president until his assassination in 1979, a total of 18 years. He is recognized as the leader who drove Korea's rapid economic growth while also being criticized for authoritarian rule and human rights violations, making him a controversial figure.
 
-## Early Life (초기 삶)
+## Early Life
 
-박정희는 1917년 11월 14일 경상북도 선산군(현 구미시)의 가난한 농가에서 태어났다. 7남매 중 막내였으며, 어려운 가정 환경 속에서 성장했다. [^1]
+Park Chung-hee was born on November 14, 1917, in Seonsan-gun (now Gumi City), North Gyeongsang Province, into a poor farming family. He was the youngest of seven siblings and grew up in difficult family circumstances. [^1]
 
-대구사범학교를 졸업한 후 문경 서부초등학교에서 교사로 근무했다. 이후 만주국 군관학교에 입학하여 군인의 길을 걷기 시작했다. [^2]
+After graduating from Daegu Normal School, he worked as a teacher at Mungyeong Seobuk Elementary School. He later entered the Manchukuo Military Academy and began his military career. [^2]
 
-### 교육 및 초기 경력
+### Education and Early Career
 
-- 1932-1937: 대구사범학교 졸업
-- 1937-1940: 초등학교 교사
-- 1940-1942: 만주국 군관학교
-- 1944-1945: 일본 육군사관학교
+- 1932-1937: Graduated from Daegu Normal School
+- 1937-1940: Elementary school teacher
+- 1940-1942: Manchukuo Military Academy
+- 1944-1945: Imperial Japanese Army Academy
 
-## Middle Years (중기 삶)
+## Middle Years
 
-### 해방 후 군 경력 (1945-1961)
+### Post-Liberation Military Career (1945-1961)
 
-해방 후 박정희는 조선국방경비대에 입대했다. 1948년 여수·순천 사건 당시 남로당 활동 연루로 사형선고를 받았으나, 동료들을 밀고하는 조건으로 감형받았다. [^3]
+After liberation, Park joined the Korean Constabulary (predecessor of the ROK Army). In 1948, during the Yeosu-Suncheon Rebellion, he was sentenced to death for involvement with the South Korean Workers' Party but received a commuted sentence by providing information about fellow members. [^3]
 
-한국전쟁 중 준장으로 진급하며 군 내에서 입지를 다졌다.
+During the Korean War, he was promoted to brigadier general, strengthening his position within the military.
 
-### 5.16 군사정변과 집권 (1961-1963)
+### May 16 Military Coup and Rise to Power (1961-1963)
 
-1961년 5월 16일, 박정희는 군사정변을 일으켜 장면 정부를 전복시켰다. 국가재건최고회의 의장으로서 군정을 실시한 후, 1963년 대통령 선거에 출마하여 당선되었다. [^4]
+On May 16, 1961, Park led a military coup that overthrew the Chang Myon government. As Chairman of the Supreme Council for National Reconstruction, he implemented military rule, then ran for president in 1963 and won. [^4]
 
-### 경제개발과 권위주의 (1963-1979)
+### Economic Development and Authoritarianism (1963-1979)
 
-대통령 재임 기간 동안 경제개발 5개년 계획을 추진하여 한국 경제의 급속한 성장을 이끌었다.
+During his presidency, he pursued Five-Year Economic Development Plans that led to Korea's rapid economic growth.
 
-주요 정책:
-- **1962년**: 제1차 경제개발 5개년 계획 시작
-- **1965년**: 한일 국교정상화
-- **1970년**: 새마을운동 시작
-- **1972년**: 유신헌법 선포, 영구집권 기반 마련
-- **1973년**: 중화학공업 육성 정책
+Major policies:
+- **1962**: First Five-Year Economic Development Plan began
+- **1965**: Normalization of Korea-Japan relations
+- **1970**: Saemaeul (New Village) Movement began
+- **1972**: Yushin Constitution proclaimed, establishing foundation for permanent rule
+- **1973**: Heavy and Chemical Industry Development Policy
 
-## Later Life (말년)
+## Later Life
 
-1970년대 후반, 박정희 정권은 내외적 압력에 직면했다. YH 사건, 부마항쟁 등 민주화 요구가 거세졌다. [^5]
+In the late 1970s, the Park regime faced internal and external pressures. The YH Trading Company incident and the Bu-Ma Democratic Uprising intensified demands for democratization. [^5]
 
-1979년 10월 26일, 중앙정보부장 김재규에 의해 암살당했다. 이 사건은 '10.26 사태'로 불린다. [^6]
+On October 26, 1979, Park was assassinated by KCIA Director Kim Jae-gyu. This event is known as the "10.26 Incident." [^6]
 
-## Positive Perspectives (긍정 평가)
+## Positive Perspectives
 
-- **경제 근대화의 아버지**: 한국을 농업국가에서 산업국가로 전환시킨 경제개발의 주역으로 평가받는다. [^7]
-- **한강의 기적**: 세계 최빈국 중 하나였던 한국을 급속한 경제성장으로 이끌었다.
-- **수출주도 성장**: 수출 중심의 경제정책을 통해 한국 경제의 기반을 마련했다.
-- **새마을운동**: 농촌 근대화와 국민의식 개혁에 기여했다.
-- **고속도로와 인프라**: 경부고속도로 건설 등 국가 인프라 구축에 기여했다.
-- **자주국방**: 방위산업 육성과 자주국방 역량 강화에 힘썼다. [^8]
+- **Father of Economic Modernization**: Recognized as the key figure who transformed Korea from an agricultural nation to an industrial nation through economic development. [^7]
+- **Miracle on the Han River**: Led Korea, once one of the world's poorest countries, through rapid economic growth.
+- **Export-Led Growth**: Established the foundation of the Korean economy through export-oriented economic policies.
+- **Saemaeul Movement**: Contributed to rural modernization and reform of national consciousness.
+- **Highways and Infrastructure**: Contributed to national infrastructure construction, including the Gyeongbu Expressway.
+- **Self-Reliant Defense**: Worked to strengthen defense industry development and self-reliant national defense capabilities. [^8]
 
-## Negative Perspectives (부정 평가)
+## Negative Perspectives
 
-- **민주주의 탄압**: 유신헌법을 통해 영구집권을 도모하고 기본권을 제한했다. [^9]
-- **인권 탄압**: 긴급조치를 통해 정치적 반대세력을 탄압하고, 고문과 불법 구금이 자행되었다.
-- **언론 통제**: 언론 자유를 억압하고 정부 비판을 금지했다.
-- **친일 경력**: 만주군 장교로 복무한 친일 경력에 대한 비판이 있다. [^10]
-- **한일협정 비판**: 1965년 한일협정에서 일본에 유리한 조건으로 타결했다는 비판이 있다.
-- **빈부격차 확대**: 경제성장 과정에서 재벌 중심 경제구조와 빈부격차가 확대되었다.
-- **노동권 탄압**: 저임금 정책과 노동운동 탄압으로 노동자 권익이 희생되었다. [^11]
+- **Suppression of Democracy**: Sought permanent rule through the Yushin Constitution and restricted basic rights. [^9]
+- **Human Rights Violations**: Suppressed political opposition through Emergency Measures, with torture and illegal detention occurring.
+- **Media Control**: Suppressed freedom of the press and prohibited criticism of the government.
+- **Pro-Japanese Background**: Criticized for his pro-Japanese history, including service as a Manchukuo Army officer. [^10]
+- **Korea-Japan Treaty Criticism**: Criticized for concluding the 1965 Korea-Japan Treaty on terms favorable to Japan.
+- **Widening Wealth Gap**: The chaebol-centered economic structure and wealth gap expanded during economic development.
+- **Labor Rights Suppression**: Workers' rights were sacrificed through low-wage policies and suppression of labor movements. [^11]
 
 ## Recent News
 
-- 2024년: 박정희 대통령 기념관 건립 논란 계속
-- 2023년: 5.16 군사정변 관련 자료 추가 공개
-- 2022년: 박정희 관련 역사 교과서 서술 논쟁
+- 2024: Ongoing controversy over construction of Park Chung-hee memorial
+- 2023: Additional materials related to May 16 coup released
+- 2022: Debates over Park Chung-hee's portrayal in history textbooks
 
 ## Career Timeline
 
-| 연도 | 사건 |
+| Year | Event |
 |------|------|
-| 1917 | 경북 선산 출생 |
-| 1940 | 만주국 군관학교 입학 |
-| 1948 | 남로당 연루 사건 |
-| 1961 | 5.16 군사정변 |
-| 1963 | 제5대 대통령 취임 |
-| 1965 | 한일 국교정상화 |
-| 1970 | 새마을운동 시작 |
-| 1972 | 유신헌법 선포 |
-| 1979 | 10.26 암살 서거 |
+| 1917 | Born in Seonsan, North Gyeongsang |
+| 1940 | Entered Manchukuo Military Academy |
+| 1948 | South Korean Workers' Party involvement case |
+| 1961 | May 16 Military Coup |
+| 1963 | Inaugurated as 5th President |
+| 1965 | Korea-Japan diplomatic normalization |
+| 1970 | Saemaeul Movement began |
+| 1972 | Yushin Constitution proclaimed |
+| 1979 | Assassinated on October 26 |
 
 ## References
 
-[^1]: 조갑제. "박정희 평전" (1992)
-[^2]: 전인권. "박정희 평전: 한국 현대사를 넘어선 한 인간의 삶" (2006)
-[^3]: 한홍구. "대한민국사" (2003)
-[^4]: 김정렴. "한국경제정책 30년사" (1990)
-[^5]: 유시민. "나의 한국현대사" (2014)
-[^6]: 중앙일보 특별취재팀. "10.26 그날" (1989)
-[^7]: 이한구. "한국재벌형성사" (1999)
+[^1]: Cho, Gap-je. "Park Chung-hee Biography" (1992)
+[^2]: Chun, In-kwon. "Park Chung-hee: A Life Beyond Modern Korean History" (2006)
+[^3]: Han, Hong-gu. "History of the Republic of Korea" (2003)
+[^4]: Kim, Chung-yum. "30 Years of Korean Economic Policy" (1990)
+[^5]: Ryu, Si-min. "My Modern Korean History" (2014)
+[^6]: JoongAng Ilbo Special Coverage Team. "October 26, That Day" (1989)
+[^7]: Lee, Han-gu. "History of Korean Chaebol Formation" (1999)
 [^8]: Woo, Jung-en. "Race to the Swift: State and Finance in Korean Industrialization" (1991)
-[^9]: 서중석. "한국현대사" (2011)
-[^10]: 임종국. "친일파 99인" (1993)
-[^11]: 구해근. "한국 노동계급의 형성" (2002)
+[^9]: Seo, Jung-seok. "Modern Korean History" (2011)
+[^10]: Im, Jong-guk. "99 Pro-Japanese Collaborators" (1993)
+[^11]: Koo, Hae-geun. "Korean Workers: The Culture and Politics of Class Formation" (2001)

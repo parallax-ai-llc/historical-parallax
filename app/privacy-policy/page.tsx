@@ -4,7 +4,7 @@ import { Footer } from "@/components/footer";
 
 export const metadata = {
   title: "Privacy Policy - Historical Parallax",
-  description: "Historical Parallax 개인정보 처리방침",
+  description: "Privacy Policy for Historical Parallax",
 };
 
 export default function PrivacyPolicyPage() {

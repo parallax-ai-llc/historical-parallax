@@ -1,89 +1,87 @@
 # Historical Parallax - Data Collector
 
-이 디렉토리는 Claude Code를 활용하여 역사적/정치적 인물에 대한 데이터를 자동으로 수집하는 스크립트를 포함합니다.
+This directory contains scripts that use Claude Code to automatically collect data about historical/political figures.
 
-## 구조
+## Structure
 
 ```
 data-collector/
-├── collect.js          # 메인 수집 스크립트
-├── person-list.json    # 수집 대상 인물 목록
+├── collect.js          # Main collection script
+├── person-list.json    # List of persons to collect
 ├── prompts/
-│   └── article-prompt.md   # Claude에게 전달할 프롬프트 템플릿
+│   └── article-prompt.md   # Prompt template for Claude
 └── README.md
 ```
 
-## 사전 요구사항
+## Prerequisites
 
-1. **Claude Code CLI 설치**
+1. **Install Claude Code CLI**
    ```bash
    npm install -g @anthropic-ai/claude-code
    ```
 
-2. **API 키 설정**
+2. **Set API Key**
    ```bash
    export ANTHROPIC_API_KEY=your-api-key
    ```
 
-## 사용법
+## Usage
 
-### 다음 미수집 인물 처리
+### Process Next Uncollected Person
 ```bash
 node collect.js
 ```
 
-### 특정 인물 처리
+### Process Specific Person
 ```bash
 node collect.js --id=gandhi-mohandas
 ```
 
-### 모든 미수집 인물 처리
+### Process All Uncollected Persons
 ```bash
 node collect.js --all
 ```
 
-## 새 인물 추가하기
+## Adding New Persons
 
-`person-list.json` 파일에 새 인물을 추가합니다:
+Add new persons to `person-list.json`:
 
 ```json
 {
   "id": "unique-id",
   "name": "Full Name in English",
-  "nameKo": "한국어 이름",
   "nationality": "Country",
   "collected": false
 }
 ```
 
-## GitHub Actions 자동화
+## GitHub Actions Automation
 
-이 저장소는 GitHub Actions를 통해 매일 자동으로 데이터를 수집합니다.
+This repository automatically collects data daily through GitHub Actions.
 
-### 워크플로우 설정
+### Workflow Setup
 
-1. GitHub 저장소 Settings > Secrets에서 `ANTHROPIC_API_KEY` 추가
-2. Actions 탭에서 워크플로우 활성화
+1. Add `ANTHROPIC_API_KEY` in GitHub repository Settings > Secrets
+2. Enable workflow in the Actions tab
 
-### 수동 실행
+### Manual Execution
 
-Actions 탭에서 "Collect Historical Data" 워크플로우를 수동으로 실행할 수 있습니다:
-- 특정 인물 ID 지정 가능
-- "Collect all" 옵션으로 모든 미수집 인물 처리 가능
+You can manually run the "Collect Historical Data" workflow from the Actions tab:
+- Specify a particular person ID
+- Use "Collect all" option to process all uncollected persons
 
-## 데이터 형식
+## Data Format
 
-생성되는 Markdown 파일은 다음 형식을 따릅니다:
+Generated Markdown files follow this format:
 
 ```markdown
 ---
 id: "person-id"
 name: "Full Name"
-nameKo: "한국어 이름"
 birth: "YYYY-MM-DD"
 death: "YYYY-MM-DD"
 nationality: "Country"
-occupation: ["직업1", "직업2"]
+occupation: ["Occupation1", "Occupation2"]
 image: "Wikimedia Commons URL"
 socialLinks:
   wikipedia: "URL"
@@ -93,19 +91,19 @@ lastUpdated: "YYYY-MM-DD"
 ## Summary
 ...
 
-## Early Life (초기 삶)
+## Early Life
 ...
 
-## Middle Years (중기 삶)
+## Middle Years
 ...
 
-## Later Life (말년)
+## Later Life
 ...
 
-## Positive Perspectives (긍정 평가)
+## Positive Perspectives
 ...
 
-## Negative Perspectives (부정 평가)
+## Negative Perspectives
 ...
 
 ## Recent News
@@ -118,9 +116,9 @@ lastUpdated: "YYYY-MM-DD"
 ...
 ```
 
-## 주의사항
+## Important Notes
 
-- API 비용이 발생할 수 있습니다
-- 생성된 콘텐츠는 반드시 사람이 검토해야 합니다
-- 출처 정보의 정확성을 확인하세요
-- Wikimedia Commons 이미지 라이선스를 준수하세요
+- API costs may apply
+- Generated content must be reviewed by a human
+- Verify source information for accuracy
+- Comply with Wikimedia Commons image licenses

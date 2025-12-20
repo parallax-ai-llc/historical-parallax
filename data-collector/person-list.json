@@ -1,146 +1,126 @@
 {
   "metadata": {
-    "description": "Historical Parallax - 데이터 수집 대상 인물 리스트",
+    "description": "Historical Parallax - Person list for data collection",
     "lastUpdated": "2024-12-20"
   },
   "persons": [
     {
       "id": "gandhi-mohandas",
       "name": "Mohandas Karamchand Gandhi",
-      "nameKo": "모한다스 카람찬드 간디",
       "nationality": "India",
       "collected": true
     },
     {
       "id": "mandela-nelson",
       "name": "Nelson Rolihlahla Mandela",
-      "nameKo": "넬슨 롤리랄라 만델라",
       "nationality": "South Africa",
       "collected": true
     },
     {
       "id": "park-chunghee",
       "name": "Park Chung-hee",
-      "nameKo": "박정희",
       "nationality": "South Korea",
       "collected": true
     },
     {
       "id": "mao-zedong",
       "name": "Mao Zedong",
-      "nameKo": "마오쩌둥",
       "nationality": "China",
       "collected": false
     },
     {
       "id": "churchill-winston",
       "name": "Winston Churchill",
-      "nameKo": "윈스턴 처칠",
       "nationality": "United Kingdom",
       "collected": false
     },
     {
       "id": "stalin-joseph",
       "name": "Joseph Stalin",
-      "nameKo": "이오시프 스탈린",
       "nationality": "Soviet Union",
       "collected": false
     },
     {
       "id": "roosevelt-franklin",
       "name": "Franklin D. Roosevelt",
-      "nameKo": "프랭클린 D. 루스벨트",
       "nationality": "United States",
       "collected": false
     },
     {
       "id": "lincoln-abraham",
       "name": "Abraham Lincoln",
-      "nameKo": "에이브러햄 링컨",
       "nationality": "United States",
       "collected": false
     },
     {
       "id": "napoleon-bonaparte",
       "name": "Napoleon Bonaparte",
-      "nameKo": "나폴레옹 보나파르트",
       "nationality": "France",
       "collected": false
     },
     {
       "id": "caesar-julius",
       "name": "Julius Caesar",
-      "nameKo": "율리우스 카이사르",
       "nationality": "Roman Empire",
       "collected": false
     },
     {
       "id": "cleopatra-vii",
       "name": "Cleopatra VII",
-      "nameKo": "클레오파트라 7세",
       "nationality": "Egypt",
       "collected": false
     },
     {
       "id": "alexander-great",
       "name": "Alexander the Great",
-      "nameKo": "알렉산드로스 대왕",
       "nationality": "Macedonia",
       "collected": false
     },
     {
       "id": "genghis-khan",
       "name": "Genghis Khan",
-      "nameKo": "칭기즈 칸",
       "nationality": "Mongolia",
       "collected": false
     },
     {
       "id": "king-martin-luther",
       "name": "Martin Luther King Jr.",
-      "nameKo": "마틴 루터 킹 주니어",
       "nationality": "United States",
       "collected": false
     },
     {
       "id": "thatcher-margaret",
       "name": "Margaret Thatcher",
-      "nameKo": "마거릿 대처",
       "nationality": "United Kingdom",
       "collected": false
     },
     {
       "id": "putin-vladimir",
       "name": "Vladimir Putin",
-      "nameKo": "블라디미르 푸틴",
       "nationality": "Russia",
       "collected": false
     },
     {
       "id": "xi-jinping",
       "name": "Xi Jinping",
-      "nameKo": "시진핑",
       "nationality": "China",
       "collected": false
     },
     {
       "id": "kim-ilsung",
       "name": "Kim Il-sung",
-      "nameKo": "김일성",
       "nationality": "North Korea",
       "collected": false
     },
     {
       "id": "castro-fidel",
       "name": "Fidel Castro",
-      "nameKo": "피델 카스트로",
       "nationality": "Cuba",
       "collected": false
     },
     {
       "id": "che-guevara",
       "name": "Che Guevara",
-      "nameKo": "체 게바라",
       "nationality": "Argentina",
       "collected": false
     }
