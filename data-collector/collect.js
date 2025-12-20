@@ -1,17 +1,21 @@
 #!/usr/bin/env node
 
 /**
- * Historical Parallax - Data Collector (Local Only)
+ * Historical Parallax - Data Collector (Parallel Processing)
  *
  * Usage:
  *   node collect.js                    # Process next uncollected person
  *   node collect.js --id=gandhi        # Process specific person by ID
- *   node collect.js --all              # Process all uncollected persons
+ *   node collect.js --all              # Process all uncollected persons (parallel)
+ *   node collect.js --parallel=5       # Set parallel limit (default: 5)
  */
 
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const { exec, execSync } = require('child_process');
+const { promisify } = require('util');
+
+const execAsync = promisify(exec);
 
 // Paths
 const DATA_DIR = __dirname;
@@ -19,12 +23,9 @@ const PROJECT_DIR = path.join(__dirname, '..');
 const ARTICLES_DIR = path.join(PROJECT_DIR, 'content', 'articles');
 const PERSON_LIST_PATH = path.join(DATA_DIR, 'person-list.json');
 const PROMPT_PATH = path.join(DATA_DIR, 'prompts', 'article-prompt.md');
-const TEMP_PROMPT_PATH = path.join(DATA_DIR, '.temp-prompt.txt');
 
-// Counters
-let processedCount = 0;
-let totalProcessed = 0;
-const COMMIT_BATCH_SIZE = 100;
+// Config
+const DEFAULT_PARALLEL_LIMIT = 5;
 
 // Ensure directories exist
 if (!fs.existsSync(ARTICLES_DIR)) {
@@ -43,6 +44,15 @@ function savePersonList(data) {
 
 function loadPromptTemplate() {
   return fs.readFileSync(PROMPT_PATH, 'utf-8');
+}
+
+function markPersonCollected(personId) {
+  const data = loadPersonList();
+  const personIndex = data.persons.findIndex(p => p.id === personId);
+  if (personIndex !== -1) {
+    data.persons[personIndex].collected = true;
+    savePersonList(data);
+  }
 }
 
 function commitAndPush(count) {
@@ -65,7 +75,7 @@ function commitAndPush(count) {
   }
 }
 
-function generateArticle(person) {
+async function generateArticle(person) {
   const promptTemplate = loadPromptTemplate();
 
   const prompt = promptTemplate
@@ -84,76 +94,79 @@ Make sure to:
 
 Output ONLY the markdown content, starting with the frontmatter (---).`;
 
-  console.log(`\nGenerating article for: ${person.name}`);
-  console.log('This may take a few minutes...\n');
-
   const outputPath = path.join(ARTICLES_DIR, `${person.id}.md`);
+  const tempPromptPath = path.join(DATA_DIR, `.temp-prompt-${person.id}.txt`);
 
   try {
     // Write prompt to temp file
-    fs.writeFileSync(TEMP_PROMPT_PATH, fullPrompt, 'utf-8');
+    fs.writeFileSync(tempPromptPath, fullPrompt, 'utf-8');
 
-    // Read from file and pipe to claude
-    const output = execSync(
-      `cat "${TEMP_PROMPT_PATH}" | claude --print --dangerously-skip-permissions`,
+    console.log(`[START] ${person.name}`);
+
+    // Use ultrathink mode for deeper research
+    const { stdout } = await execAsync(
+      `cat "${tempPromptPath}" | claude --print --dangerously-skip-permissions --model sonnet`,
       {
         encoding: 'utf-8',
-        maxBuffer: 10 * 1024 * 1024,
-        timeout: 600000,
+        maxBuffer: 50 * 1024 * 1024,
+        timeout: 900000, // 15 minutes
         cwd: DATA_DIR,
         shell: true
       }
     );
 
-    console.log(output);
-
-    if (output.includes('---')) {
-      const markdownMatch = output.match(/---[\s\S]*$/);
+    if (stdout.includes('---')) {
+      const markdownMatch = stdout.match(/---[\s\S]*$/);
       if (markdownMatch) {
         fs.writeFileSync(outputPath, markdownMatch[0].trim());
-        console.log(`\nArticle saved to: ${outputPath}`);
-        return true;
+        console.log(`[DONE] ${person.name} -> ${person.id}.md`);
+        return { success: true, person };
       }
     }
 
-    console.error('Failed to extract markdown from output');
-    return false;
+    console.error(`[FAIL] ${person.name}: Could not extract markdown`);
+    return { success: false, person, error: 'No markdown found' };
 
   } catch (error) {
-    console.error('Error running claude:', error.message);
-    return false;
+    console.error(`[FAIL] ${person.name}: ${error.message}`);
+    return { success: false, person, error: error.message };
   } finally {
     // Clean up temp file
-    if (fs.existsSync(TEMP_PROMPT_PATH)) {
-      fs.unlinkSync(TEMP_PROMPT_PATH);
+    if (fs.existsSync(tempPromptPath)) {
+      fs.unlinkSync(tempPromptPath);
     }
   }
 }
 
-function processPerson(person) {
-  const success = generateArticle(person);
+async function processInParallel(persons, parallelLimit) {
+  const results = [];
 
-  if (success) {
-    const data = loadPersonList();
-    const personIndex = data.persons.findIndex(p => p.id === person.id);
-    if (personIndex !== -1) {
-      data.persons[personIndex].collected = true;
-      savePersonList(data);
+  // Process in batches
+  for (let i = 0; i < persons.length; i += parallelLimit) {
+    const batch = persons.slice(i, i + parallelLimit);
+
+    console.log(`\n${'='.repeat(50)}`);
+    console.log(`Processing batch ${Math.floor(i / parallelLimit) + 1}/${Math.ceil(persons.length / parallelLimit)}`);
+    console.log(`Persons: ${batch.map(p => p.name).join(', ')}`);
+    console.log('='.repeat(50));
+
+    const batchPromises = batch.map(person => generateArticle(person));
+    const batchResults = await Promise.all(batchPromises);
+
+    // Mark successful ones as collected
+    for (const result of batchResults) {
+      if (result.success) {
+        markPersonCollected(result.person.id);
+      }
+      results.push(result);
     }
 
-    console.log(`\n✓ Successfully processed: ${person.name}`);
-    processedCount++;
-    totalProcessed++;
-
-    if (processedCount >= COMMIT_BATCH_SIZE) {
-      commitAndPush(processedCount);
-      processedCount = 0;
-    }
-  } else {
-    console.error(`\n✗ Failed to process: ${person.name}`);
+    // Show batch summary
+    const successCount = batchResults.filter(r => r.success).length;
+    console.log(`\nBatch complete: ${successCount}/${batch.length} successful`);
   }
 
-  return success;
+  return results;
 }
 
 function getNextUncollected() {
@@ -176,44 +189,81 @@ async function main() {
 
   const options = {
     all: args.includes('--all'),
-    id: args.find(a => a.startsWith('--id='))?.split('=')[1]
+    id: args.find(a => a.startsWith('--id='))?.split('=')[1],
+    parallel: parseInt(args.find(a => a.startsWith('--parallel='))?.split('=')[1]) || DEFAULT_PARALLEL_LIMIT
   };
 
   console.log('='.repeat(50));
   console.log('Historical Parallax - Data Collector');
+  console.log(`Mode: ${options.all ? 'Parallel' : 'Single'} | Parallel Limit: ${options.parallel}`);
   console.log('='.repeat(50));
 
   if (options.id) {
+    // Single person by ID
     const person = getPersonById(options.id);
     if (!person) {
       console.error(`Person not found: ${options.id}`);
       process.exit(1);
     }
-    processPerson(person);
+    const result = await generateArticle(person);
+    if (result.success) {
+      markPersonCollected(person.id);
+      console.log(`\n✓ Successfully processed: ${person.name}`);
+    }
   } else if (options.all) {
+    // All uncollected - parallel processing
     const uncollected = getAllUncollected();
-    console.log(`\nProcessing ${uncollected.length} uncollected persons...`);
-    console.log(`Will commit every ${COMMIT_BATCH_SIZE} articles\n`);
 
-    for (const person of uncollected) {
-      processPerson(person);
-      await new Promise(resolve => setTimeout(resolve, 3000));
+    if (uncollected.length === 0) {
+      console.log('\nAll persons have been collected!');
+      return;
     }
 
-    if (processedCount > 0) {
-      commitAndPush(processedCount);
+    console.log(`\nProcessing ${uncollected.length} uncollected persons...`);
+    console.log(`Parallel limit: ${options.parallel}`);
+
+    const startTime = Date.now();
+    const results = await processInParallel(uncollected, options.parallel);
+    const endTime = Date.now();
+
+    const successCount = results.filter(r => r.success).length;
+    const failCount = results.filter(r => !r.success).length;
+
+    console.log('\n' + '='.repeat(50));
+    console.log('COLLECTION SUMMARY');
+    console.log('='.repeat(50));
+    console.log(`Total: ${results.length}`);
+    console.log(`Success: ${successCount}`);
+    console.log(`Failed: ${failCount}`);
+    console.log(`Time: ${((endTime - startTime) / 1000 / 60).toFixed(2)} minutes`);
+
+    if (failCount > 0) {
+      console.log('\nFailed persons:');
+      results.filter(r => !r.success).forEach(r => {
+        console.log(`  - ${r.person.name}: ${r.error}`);
+      });
+    }
+
+    // Commit all at once
+    if (successCount > 0) {
+      commitAndPush(successCount);
     }
   } else {
+    // Next uncollected
     const person = getNextUncollected();
     if (!person) {
       console.log('\nAll persons have been collected!');
       return;
     }
-    processPerson(person);
+    const result = await generateArticle(person);
+    if (result.success) {
+      markPersonCollected(person.id);
+      console.log(`\n✓ Successfully processed: ${person.name}`);
+    }
   }
 
   console.log('\n' + '='.repeat(50));
-  console.log(`Collection complete! Total processed: ${totalProcessed}`);
+  console.log('Collection complete!');
   console.log('='.repeat(50));
 }
 
