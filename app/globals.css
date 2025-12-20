@@ -55,6 +55,7 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }
@@ -217,11 +218,20 @@
 /* Footnote references in text */
 .article-content sup {
   font-size: 0.75rem;
+  margin-left: 0.125rem;
 }
 
 .article-content sup a {
   color: hsl(var(--link));
   font-weight: 500;
+}
+
+.article-content sup a::before {
+  content: "[";
+}
+
+.article-content sup a::after {
+  content: "]";
 }
 
 /* References section container - remove all borders inside */
