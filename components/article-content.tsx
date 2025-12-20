@@ -1,10 +1,8 @@
-"use client";
 
-import * as React from "react";
-import Image from "next/image";
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
+import { ArticleImage } from "./article-image";
 
 export interface ArticleMeta {
   id: string;
@@ -90,19 +88,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
 
       {/* Image */}
       {meta.image && (
-        <div className="mb-8">
-          <Image
-            src={meta.image}
-            alt={meta.name}
-            width={320}
-            height={420}
-            className="object-cover rounded-lg"
-            unoptimized
-            onError={(e) => {
-              e.currentTarget.style.display = 'none';
-            }}
-          />
-        </div>
+        <ArticleImage src={meta.image} alt={meta.name} />
       )}
 
       <Separator className="my-8" />

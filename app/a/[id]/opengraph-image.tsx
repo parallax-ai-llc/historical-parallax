@@ -5,6 +5,9 @@ export const alt = "Historical Parallax";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
+// ISR: Revalidate every 24 hours (86400 seconds)
+export const revalidate = 86400;
+
 export async function generateStaticParams() {
   const ids = getAllArticleIds();
   return ids.map((id) => ({ id }));
