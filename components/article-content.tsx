@@ -102,12 +102,10 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
       {/* References Section */}
       {references && (
         <div className="mt-12 pt-8 border-t-2 border-border">
-          <div className="bg-muted/30 rounded-lg p-6">
-            <div
-              className="article-content references-section"
-              dangerouslySetInnerHTML={{ __html: references }}
-            />
-          </div>
+          <div
+            className="article-content references-section"
+            dangerouslySetInnerHTML={{ __html: references }}
+          />
         </div>
       )}
 

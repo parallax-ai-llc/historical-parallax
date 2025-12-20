@@ -63,7 +63,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   return (
     <div className="flex min-h-screen flex-col">
       <ClientInteractions searchIndex={searchIndex} editUrl={editUrl}>
-        <div className="container flex flex-1 gap-8 py-8">
+        <div className="mx-auto max-w-[1400px] flex flex-1 gap-8 py-8 px-4 md:px-6">
           {/* Sidebar TOC - client component for scroll tracking */}
           <SidebarToc items={article.toc} articleTitle={article.meta.name} />
 
