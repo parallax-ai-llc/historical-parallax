@@ -7,10 +7,16 @@ import { ArticleImage } from "./article-image";
 export interface ArticleMeta {
   id: string;
   name: string;
+  // Biographical content
   birth?: string;
   death?: string;
   nationality?: string;
   occupation?: string[];
+  // Historical event content
+  date?: string;
+  location?: string;
+  category?: string[];
+  // Common fields
   image?: string;
   socialLinks?: {
     wikipedia?: string;
@@ -23,6 +29,26 @@ export interface ArticleMeta {
 interface ArticleContentProps {
   meta: ArticleMeta;
   content: string;
+}
+
+// Check if article is a historical event (has date/location) or biographical (has birth)
+function isHistoricalEvent(meta: ArticleMeta): boolean {
+  return !!(meta.date || meta.location) && !meta.birth;
+}
+
+// Format date for display - handles both ISO dates and simple year formats
+function formatDate(dateStr: string): string {
+  // If it looks like an ISO date (YYYY-MM-DD)
+  if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric'
+    });
+  }
+  // Return as-is for other formats
+  return dateStr;
 }
 
 function processContent(html: string): { mainContent: string; references: string } {
@@ -45,6 +71,7 @@ function processContent(html: string): { mainContent: string; references: string
 
 export function ArticleContent({ meta, content }: ArticleContentProps) {
   const { mainContent, references } = processContent(content);
+  const isEvent = isHistoricalEvent(meta);
 
   return (
     <article className="flex-1 min-w-0">
@@ -59,19 +86,34 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
         </h1>
 
         <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
+          {/* Biographical: birth/death dates */}
           {meta.birth && (
             <span>
               {meta.birth}
               {meta.death ? ` – ${meta.death}` : " – Present"}
             </span>
           )}
+          {/* Historical Event: event date */}
+          {isEvent && meta.date && (
+            <span className="font-medium">
+              {formatDate(meta.date)}
+            </span>
+          )}
+          {/* Biographical: nationality */}
           {meta.nationality && (
             <span className="px-2 py-0.5 bg-secondary rounded">
               {meta.nationality}
             </span>
           )}
+          {/* Historical Event: location */}
+          {isEvent && meta.location && (
+            <span className="px-2 py-0.5 bg-secondary rounded">
+              📍 {meta.location}
+            </span>
+          )}
         </div>
 
+        {/* Biographical: occupation tags */}
         {meta.occupation && meta.occupation.length > 0 && (
           <div className="flex flex-wrap gap-2 mt-4">
             {meta.occupation.map((occ) => (
@@ -80,6 +122,20 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
                 className="inline-flex items-center rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary"
               >
                 {occ}
+              </span>
+            ))}
+          </div>
+        )}
+
+        {/* Historical Event: category tags */}
+        {isEvent && meta.category && meta.category.length > 0 && (
+          <div className="flex flex-wrap gap-2 mt-4">
+            {meta.category.map((cat) => (
+              <span
+                key={cat}
+                className="inline-flex items-center rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary"
+              >
+                {cat}
               </span>
             ))}
           </div>

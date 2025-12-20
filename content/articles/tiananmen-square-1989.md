@@ -4,7 +4,7 @@ name: "Tiananmen Square Protests of 1989"
 date: "1989-06-04"
 location: "Beijing, China"
 category: ["Historical Event", "Pro-Democracy Movement", "Political Protest", "Government Crackdown"]
-image: "https://upload.wikimedia.org/wikipedia/en/d/d8/Tiananmen_Square_protests_-_Goddess_of_Democracy.jpg"
+image: "https://upload.wikimedia.org/wikipedia/en/d/dd/Tank_Man_%28Tiananmen_Square_protester%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre"
 lastUpdated: "2025-12-21"
