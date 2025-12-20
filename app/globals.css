@@ -211,12 +211,6 @@
    References Section - Special Styling
    ======================================== */
 
-.article-content h2#references,
-.article-content h2:has(+ p a[href^="#"]),
-.article-content h2:last-of-type {
-  margin-top: 4rem;
-}
-
 /* Footnote references in text */
 .article-content sup {
   font-size: 0.75rem;
@@ -227,26 +221,8 @@
   font-weight: 500;
 }
 
-/* References list styling */
-.article-content p:has(a[href^="#"]):has(sup),
-.article-content .footnotes,
-.article-content section.footnotes {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 2px solid hsl(var(--border));
-}
-
-/* Reference items [^1]: style */
-.article-content p:last-child a[href^="http"],
-.article-content p:nth-last-child(-n+15) {
-  font-size: 0.9rem;
-}
-
-/* References section container */
+/* References section container - remove all borders inside */
 .references-section {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 2px solid hsl(var(--border));
   background: hsl(var(--muted) / 0.2);
   padding: 1.5rem;
   border-radius: 0.5rem;
@@ -254,7 +230,15 @@
 
 .references-section h2 {
   margin-top: 0 !important;
+  padding-bottom: 0 !important;
+  border-bottom: none !important;
   font-size: 1.5rem;
+}
+
+.references-section h3,
+.references-section h4 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
 }
 
 .references-section p {
@@ -262,6 +246,10 @@
   line-height: 1.6;
   margin-bottom: 0.5rem;
   color: hsl(var(--muted-foreground));
+}
+
+.references-section a {
+  word-break: break-all;
 }
 
 /* Command dialog focus fix */
