@@ -1,7 +1,8 @@
 "use client";
 
 import * as React from "react";
-import { Search } from "lucide-react";
+import Link from "next/link";
+import { Search, GitPullRequest } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { SearchDialog, SearchItem } from "@/components/search-dialog";
 import { RecentArticles, RecentArticle } from "@/components/recent-articles";
@@ -29,6 +30,12 @@ export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
       <header className="absolute right-4 top-4 z-50 flex items-center gap-2">
+        <Button variant="outline" size="sm" asChild>
+          <Link href="/contribute">
+            <GitPullRequest className="mr-2 h-4 w-4" />
+            Contribute
+          </Link>
+        </Button>
         <ThemeToggle />
       </header>
 

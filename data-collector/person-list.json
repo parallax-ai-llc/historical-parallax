@@ -32,7 +32,7 @@
       "id": "churchill-winston",
       "name": "Winston Churchill",
       "nationality": "United Kingdom",
-      "collected": false
+      "collected": true
     },
     {
       "id": "stalin-joseph",

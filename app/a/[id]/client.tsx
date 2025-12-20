@@ -7,6 +7,8 @@ import { SidebarToc, TocItem } from "@/components/sidebar-toc";
 import { ArticleContent, ArticleMeta } from "@/components/article-content";
 import { Footer } from "@/components/footer";
 
+const GITHUB_REPO = "https://github.com/joshephan/historical-parallax";
+
 interface Article {
   meta: ArticleMeta;
   content: string;
@@ -20,10 +22,11 @@ interface ArticlePageClientProps {
 
 export function ArticlePageClient({ article, searchIndex }: ArticlePageClientProps) {
   const [searchOpen, setSearchOpen] = React.useState(false);
+  const editUrl = `${GITHUB_REPO}/edit/main/content/articles/${article.meta.id}.md`;
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Header onSearchClick={() => setSearchOpen(true)} />
+      <Header onSearchClick={() => setSearchOpen(true)} editUrl={editUrl} />
 
       <div className="container flex flex-1 gap-8 py-8">
         <SidebarToc items={article.toc} articleTitle={article.meta.name} />
