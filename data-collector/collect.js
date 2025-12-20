@@ -1,16 +1,13 @@
 #!/usr/bin/env node
 
 /**
- * Historical Parallax - Data Collector
- *
- * This script uses Claude Code CLI to generate article content
- * for historical/political figures.
+ * Historical Parallax - Data Collector (Local Only)
  *
  * Usage:
  *   node collect.js                    # Process next uncollected person
  *   node collect.js --id=gandhi        # Process specific person by ID
  *   node collect.js --all              # Process all uncollected persons
- *   node collect.js --discover         # Discover and add new persons
+ *   node collect.js --batch=100        # Process in batches of 100
  */
 
 const fs = require('fs');
@@ -19,9 +16,15 @@ const { execSync, spawn } = require('child_process');
 
 // Paths
 const DATA_DIR = __dirname;
-const ARTICLES_DIR = path.join(__dirname, '..', 'content', 'articles');
+const PROJECT_DIR = path.join(__dirname, '..');
+const ARTICLES_DIR = path.join(PROJECT_DIR, 'content', 'articles');
 const PERSON_LIST_PATH = path.join(DATA_DIR, 'person-list.json');
 const PROMPT_PATH = path.join(DATA_DIR, 'prompts', 'article-prompt.md');
+
+// Counters
+let processedCount = 0;
+let totalProcessed = 0;
+const COMMIT_BATCH_SIZE = 100;
 
 // Ensure directories exist
 if (!fs.existsSync(ARTICLES_DIR)) {
@@ -52,23 +55,26 @@ function loadPromptTemplate() {
 }
 
 /**
- * Get Wikimedia Commons image URL for a person
+ * Git commit and push
  */
-async function getWikimediaImage(name) {
+function commitAndPush(count) {
   try {
-    const searchUrl = `https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(name + ' portrait')}&srnamespace=6&format=json`;
+    console.log(`\n${'='.repeat(50)}`);
+    console.log(`Committing ${count} articles...`);
+    console.log('='.repeat(50));
 
-    const response = await fetch(searchUrl);
-    const data = await response.json();
+    process.chdir(PROJECT_DIR);
 
-    if (data.query?.search?.length > 0) {
-      const fileName = data.query.search[0].title.replace('File:', '');
-      return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(fileName)}?width=440`;
-    }
+    execSync('git add -A', { stdio: 'inherit' });
+    execSync(`git commit -m "feat: Add ${count} historical articles"`, { stdio: 'inherit' });
+    execSync('git push', { stdio: 'inherit' });
+
+    console.log(`Successfully pushed ${count} articles\n`);
+    return true;
   } catch (error) {
-    console.error('Error fetching Wikimedia image:', error.message);
+    console.error('Git operation failed:', error.message);
+    return false;
   }
-  return null;
 }
 
 /**
@@ -77,7 +83,6 @@ async function getWikimediaImage(name) {
 async function generateArticle(person) {
   const promptTemplate = loadPromptTemplate();
 
-  // Replace placeholders in prompt
   const prompt = promptTemplate
     .replace(/\{\{id\}\}/g, person.id)
     .replace(/\{\{name\}\}/g, person.name)
@@ -102,7 +107,6 @@ Output ONLY the markdown content, starting with the frontmatter (---).
   return new Promise((resolve, reject) => {
     const outputPath = path.join(ARTICLES_DIR, `${person.id}.md`);
 
-    // Use claude-code CLI with the prompt
     const claude = spawn('claude', [
       '-p', fullPrompt,
       '--output-format', 'text'
@@ -125,7 +129,6 @@ Output ONLY the markdown content, starting with the frontmatter (---).
 
     claude.on('close', (code) => {
       if (code === 0 && output.includes('---')) {
-        // Extract markdown content (between first --- and end)
         const markdownMatch = output.match(/---[\s\S]*$/);
         if (markdownMatch) {
           fs.writeFileSync(outputPath, markdownMatch[0].trim());
@@ -161,6 +164,15 @@ async function processPerson(person) {
     }
 
     console.log(`\n✓ Successfully processed: ${person.name}`);
+    processedCount++;
+    totalProcessed++;
+
+    // Commit and push every COMMIT_BATCH_SIZE articles
+    if (processedCount >= COMMIT_BATCH_SIZE) {
+      commitAndPush(processedCount);
+      processedCount = 0;
+    }
+
     return true;
   } catch (error) {
     console.error(`\n✗ Error processing ${person.name}:`, error.message);
@@ -198,25 +210,17 @@ function getPersonById(id) {
 async function main() {
   const args = process.argv.slice(2);
 
-  // Parse arguments
   const options = {
     all: args.includes('--all'),
-    discover: args.includes('--discover'),
-    id: args.find(a => a.startsWith('--id='))?.split('=')[1]
+    id: args.find(a => a.startsWith('--id='))?.split('=')[1],
+    batch: parseInt(args.find(a => a.startsWith('--batch='))?.split('=')[1]) || COMMIT_BATCH_SIZE
   };
 
   console.log('='.repeat(50));
   console.log('Historical Parallax - Data Collector');
   console.log('='.repeat(50));
 
-  if (options.discover) {
-    console.log('\nDiscovery mode is not yet implemented.');
-    console.log('Add new persons manually to person-list.json');
-    return;
-  }
-
   if (options.id) {
-    // Process specific person
     const person = getPersonById(options.id);
     if (!person) {
       console.error(`Person not found: ${options.id}`);
@@ -224,17 +228,21 @@ async function main() {
     }
     await processPerson(person);
   } else if (options.all) {
-    // Process all uncollected
     const uncollected = getAllUncollected();
     console.log(`\nProcessing ${uncollected.length} uncollected persons...`);
+    console.log(`Will commit every ${COMMIT_BATCH_SIZE} articles\n`);
 
     for (const person of uncollected) {
       await processPerson(person);
-      // Wait between requests to avoid rate limiting
-      await new Promise(resolve => setTimeout(resolve, 5000));
+      // Wait between requests
+      await new Promise(resolve => setTimeout(resolve, 3000));
+    }
+
+    // Commit remaining
+    if (processedCount > 0) {
+      commitAndPush(processedCount);
     }
   } else {
-    // Process next uncollected
     const person = getNextUncollected();
     if (!person) {
       console.log('\nAll persons have been collected!');
@@ -244,7 +252,7 @@ async function main() {
   }
 
   console.log('\n' + '='.repeat(50));
-  console.log('Collection complete!');
+  console.log(`Collection complete! Total processed: ${totalProcessed}`);
   console.log('='.repeat(50));
 }
 
