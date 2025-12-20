@@ -30,7 +30,7 @@ function processContent(html: string): { mainContent: string; references: string
   const refMatch = html.match(/<h2[^>]*id="references"[^>]*>.*?<\/h2>/i);
   const refHeadingMatch = html.match(/<h2[^>]*>References<\/h2>/i);
 
-  let splitPoint = refMatch || refHeadingMatch;
+  const splitPoint = refMatch || refHeadingMatch;
 
   if (splitPoint) {
     const index = html.indexOf(splitPoint[0]);

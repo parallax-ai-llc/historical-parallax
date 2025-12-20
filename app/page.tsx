@@ -45,7 +45,7 @@ export default function HomePage() {
             Historical Parallax
           </h1>
           <p className="text-muted-foreground text-sm md:text-base italic">
-            "Every history creates a parallax"
+            &ldquo;Every history creates a parallax&rdquo;
           </p>
 
           <Button
