@@ -17,9 +17,9 @@ export default async function Image({ params }: { params: Promise<{ id: string }
   const { id } = await params;
   const article = await getArticle(id);
 
-  // Cormorant Garamond 폰트 로드
+  // Inter 폰트 로드 (더 안정적인 URL 사용)
   const fontData = await fetch(
-    "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjornFLsS6V7w.woff"
+    new URL("https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZs.woff2")
   ).then((res) => res.arrayBuffer());
 
   const name = article?.meta.name || "Historical Figure";
@@ -38,7 +38,7 @@ export default async function Image({ params }: { params: Promise<{ id: string }
           flexDirection: "column",
           backgroundColor: "#0a0a0a",
           padding: "60px 80px",
-          fontFamily: "Cormorant Garamond",
+          fontFamily: "Inter",
         }}
       >
         <div
