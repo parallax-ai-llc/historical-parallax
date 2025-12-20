@@ -96,7 +96,11 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
             alt={meta.name}
             width={320}
             height={420}
-            className="object-cover"
+            className="object-cover rounded-lg"
+            unoptimized
+            onError={(e) => {
+              e.currentTarget.style.display = 'none';
+            }}
           />
         </div>
       )}

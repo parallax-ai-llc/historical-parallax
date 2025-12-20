@@ -72,10 +72,13 @@
 
 /* Headings */
 .article-content h1,
-.article-content h2,
+.article-content h2 {
+  font-family: var(--font-serif), serif;
+}
+
 .article-content h3,
 .article-content h4 {
-  font-family: var(--font-serif), serif;
+  font-family: inherit;
 }
 
 .article-content h2 {
