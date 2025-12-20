@@ -44,6 +44,9 @@ export default function HomePage() {
           <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl">
             Historical Parallax
           </h1>
+          <p className="text-muted-foreground text-sm md:text-base italic">
+            "Every history creates a parallax"
+          </p>
 
           <Button
             variant="outline"
