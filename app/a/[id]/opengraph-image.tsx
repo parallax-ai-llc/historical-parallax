@@ -17,6 +17,11 @@ export default async function Image({ params }: { params: Promise<{ id: string }
   const { id } = await params;
   const article = await getArticle(id);
 
+  // Cormorant Garamond 폰트 로드
+  const fontData = await fetch(
+    "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjornFLsS6V7w.woff"
+  ).then((res) => res.arrayBuffer());
+
   const name = article?.meta.name || "Historical Figure";
   const nationality = article?.meta.nationality || "";
   const birth = article?.meta.birth || "";
@@ -33,6 +38,7 @@ export default async function Image({ params }: { params: Promise<{ id: string }
           flexDirection: "column",
           backgroundColor: "#0a0a0a",
           padding: "60px 80px",
+          fontFamily: "Cormorant Garamond",
         }}
       >
         <div
@@ -104,6 +110,16 @@ export default async function Image({ params }: { params: Promise<{ id: string }
         </div>
       </div>
     ),
-    { ...size }
+    {
+      ...size,
+      fonts: [
+        {
+          name: "Cormorant Garamond",
+          data: fontData,
+          style: "normal",
+          weight: 700,
+        },
+      ],
+    }
   );
 }

@@ -6,6 +6,11 @@ export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
 export default async function Image() {
+  // Cormorant Garamond 폰트 로드
+  const fontData = await fetch(
+    "https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjornFLsS6V7w.woff"
+  ).then((res) => res.arrayBuffer());
+
   return new ImageResponse(
     (
       <div
@@ -17,7 +22,7 @@ export default async function Image() {
           alignItems: "center",
           justifyContent: "center",
           backgroundColor: "#0a0a0a",
-          fontFamily: "serif",
+          fontFamily: "Cormorant Garamond",
         }}
       >
         <div
@@ -36,10 +41,20 @@ export default async function Image() {
             color: "#888",
           }}
         >
-          Explore historical figures from multiple perspectives
+          Every history creates a parallax
         </div>
       </div>
     ),
-    { ...size }
+    {
+      ...size,
+      fonts: [
+        {
+          name: "Cormorant Garamond",
+          data: fontData,
+          style: "normal",
+          weight: 700,
+        },
+      ],
+    }
   );
 }
