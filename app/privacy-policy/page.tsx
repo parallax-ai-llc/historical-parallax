@@ -23,7 +23,7 @@ export default function PrivacyPolicyPage() {
       </header>
 
       <main className="container flex-1 py-12">
-        <article className="prose prose-neutral dark:prose-invert mx-auto max-w-3xl">
+        <article className="prose mx-auto max-w-3xl">
           <h1 className="font-serif">Privacy Policy</h1>
 
           <p className="lead">

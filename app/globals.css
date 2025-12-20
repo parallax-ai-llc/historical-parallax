@@ -71,6 +71,13 @@
 }
 
 /* Headings */
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4 {
+  font-family: var(--font-serif), serif;
+}
+
 .article-content h2 {
   font-size: 1.75rem;
   font-weight: 700;
@@ -79,7 +86,6 @@
   padding-bottom: 0.75rem;
   border-bottom: 1px solid hsl(var(--border));
   color: hsl(var(--foreground));
-  font-family: var(--font-playfair), serif;
 }
 
 .article-content h3 {
@@ -90,7 +96,6 @@
   padding-bottom: 0.5rem;
   border-bottom: 1px solid hsl(var(--border) / 0.5);
   color: hsl(var(--foreground));
-  font-family: var(--font-playfair), serif;
 }
 
 .article-content h4 {
@@ -269,4 +274,77 @@
 .article-content img {
   border-radius: 0.5rem;
   margin: 1.5rem 0;
+}
+
+/* ========================================
+   Prose Styles (Terms, Privacy pages)
+   ======================================== */
+
+.prose {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: hsl(var(--foreground));
+}
+
+.prose h1 {
+  font-family: var(--font-serif), serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: hsl(var(--foreground));
+}
+
+.prose h2 {
+  font-family: var(--font-serif), serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid hsl(var(--border));
+  color: hsl(var(--foreground));
+}
+
+.prose p {
+  margin-bottom: 1.25rem;
+  line-height: 1.85;
+}
+
+.prose .lead {
+  font-size: 1.125rem;
+  color: hsl(var(--muted-foreground));
+  margin-bottom: 2rem;
+}
+
+.prose ul,
+.prose ol {
+  margin: 1.25rem 0;
+  padding-left: 1.75rem;
+}
+
+.prose ul {
+  list-style-type: disc;
+}
+
+.prose ol {
+  list-style-type: decimal;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.prose li::marker {
+  color: hsl(var(--muted-foreground));
+}
+
+.prose a {
+  color: hsl(var(--link));
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.prose a:hover {
+  text-decoration: underline;
 }
