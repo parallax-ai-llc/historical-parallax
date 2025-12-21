@@ -85,7 +85,7 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700"
           rel="stylesheet"
         />
         {/* INP 최적화: 분석 스크립트는 worker에서 로드 */}

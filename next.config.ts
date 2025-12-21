@@ -52,26 +52,11 @@ const nextConfig: NextConfig = {
             key: "Referrer-Policy",
             value: "strict-origin-when-cross-origin",
           },
-          // 캐싱 헤더 (정적 자산)
-          {
-            key: "Cache-Control",
-            value: "public, max-age=86400, immutable",
-          },
-        ],
-      },
-      // 폰트 캐싱
-      {
-        source: "/fonts/:path*",
-        headers: [
-          {
-            key: "Cache-Control",
-            value: "public, max-age=31536000, immutable",
-          },
         ],
       },
       // HTML 페이지는 revalidation 허용
       {
-        source: "/((?!_next|api|fonts).*)",
+        source: "/((?!_next|api).*)",
         headers: [
           {
             key: "Cache-Control",
@@ -84,4 +69,3 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
-
