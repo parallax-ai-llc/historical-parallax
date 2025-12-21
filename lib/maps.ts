@@ -9,6 +9,7 @@ import coldWarLocations from "@/lib/json/cold-war-locations.json";
 import europeMonarchsLocations from "@/lib/json/europe-monarchs-locations.json";
 import foundingFathersLocations from "@/lib/json/founding-fathers-locations.json";
 import leaders21stLocations from "@/lib/json/leaders-21st-locations.json";
+import epsteinNetworkLocations from "@/lib/json/epstein-network-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -27,6 +28,7 @@ const mapData: Record<string, UfoLocation[]> = {
   "europe-monarchs": europeMonarchsLocations as UfoLocation[],
   "founding-fathers": foundingFathersLocations as UfoLocation[],
   "21st-century-leaders": leaders21stLocations as UfoLocation[],
+  "epstein-network": epsteinNetworkLocations as UfoLocation[],
 };
 
 export function getMapLocations(mapId: string, articles: ArticleMeta[]): UfoLocation[] {
@@ -88,5 +90,10 @@ export const MAP_CATEGORIES = [
     id: "21st-century-leaders",
     name: "21st Century Leaders",
     description: "World leaders shaping the modern geopolitical landscape.",
+  },
+  {
+    id: "epstein-network",
+    name: "Epstein Network",
+    description: "Key figures connected to Jeffrey Epstein and the sex trafficking scandal.",
   },
 ];

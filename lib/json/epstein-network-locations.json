@@ -1,0 +1,13 @@
+[
+  {"id": "jeffrey-epstein", "name": "Jeffrey Epstein (New York)", "coordinates": [-73.9712, 40.7831]},
+  {"id": "ghislaine-maxwell", "name": "Ghislaine Maxwell (London)", "coordinates": [-0.1278, 51.5074]},
+  {"id": "epstein-2008-plea-deal", "name": "2008 Plea Deal (Palm Beach)", "coordinates": [-80.0533, 26.7056]},
+  {"id": "epstein-arrest-2019", "name": "2019 Arrest (Teterboro, NJ)", "coordinates": [-74.0608, 40.8501]},
+  {"id": "epstein-death-2019", "name": "Death in Custody (Manhattan)", "coordinates": [-74.0060, 40.7128]},
+  {"id": "prince-andrew", "name": "Prince Andrew (London)", "coordinates": [-0.1419, 51.5014]},
+  {"id": "bill-clinton", "name": "Bill Clinton (Little Rock)", "coordinates": [-92.2896, 34.7465]},
+  {"id": "donald-trump", "name": "Donald Trump (New York)", "coordinates": [-73.9654, 40.7829]},
+  {"id": "bill-gates", "name": "Bill Gates (Seattle)", "coordinates": [-122.3321, 47.6062]},
+  {"id": "alan-dershowitz", "name": "Alan Dershowitz (Cambridge)", "coordinates": [-71.1167, 42.3736]},
+  {"id": "les-wexner", "name": "Les Wexner (Columbus, OH)", "coordinates": [-82.9988, 39.9612]}
+]
