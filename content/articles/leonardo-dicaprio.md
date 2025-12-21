@@ -14,107 +14,337 @@ Leonardo Wilhelm DiCaprio is an American actor and film producer, widely regarde
 
 ---
 
-## Background and Career
+## Early Life and Acting Career
 
-### Early Life and Breakthrough
+### Childhood in Los Angeles (1974-1990)
 
 Born November 11, 1974, in Los Angeles, California:
 
-**Child Actor**:
-- Began acting in commercials and TV
-- "Growing Pains" (1991-1992)
-- Early film roles in "Critters 3" and "Poison Ivy"
+**Family Background**:
+- Father: George DiCaprio, underground comic book artist and distributor
+- Mother: Irmelin Indenbirken, German immigrant and legal secretary
+- Parents divorced when he was one year old
+- Raised by mother in Echo Park, Los Angeles
+- Exposed to art, culture, and creativity from childhood
 
-**Breakout Role**:
-- "This Boy's Life" (1993) with Robert De Niro
-- "What's Eating Gilbert Grape" (1993) - First Oscar nomination at 19
-- Critical acclaim as talented young actor
+**Early Interests**:
+- Named after Leonardo da Vinci (mother felt him kick while viewing da Vinci painting)
+- Attended Seeds Elementary School and John Marshall High School
+- Started acting in commercials at age 14
 
-### Superstardom
+### Early Career (1990-1993)
 
-DiCaprio became one of Hollywood's biggest stars:
+**Television Work**:
+- Commercial appearances (Matchbox cars, etc.)
+- "Parenthood" TV series (1990)
+- "Growing Pains" (1991-1992) - recurring role as Luke Brower
+- Educational programs
 
-**"Romeo + Juliet"** (1996):
-- Modern Shakespeare adaptation
-- Teen idol status
-- Massive global following
+**First Film Roles**:
+- "Critters 3" (1991) - Direct-to-video horror
+- "Poison Ivy" (1992) - Small role
 
-**"Titanic"** (1997):
-- Highest-grossing film of all time (then)
-- Global phenomenon
-- Became world's biggest movie star
-- Cultural icon
+### Breakthrough Years (1993-1996)
 
-**Continued Success**:
-- "Catch Me If You Can" (2002)
+**"This Boy's Life"** (1993):
+- Co-starred with Robert De Niro
+- Played abused stepson
+- Critical acclaim for mature performance at 18
+- Demonstrated dramatic range
+
+**"What's Eating Gilbert Grape"** (1993):
+- Played Arnie Grape, developmentally disabled teenager
+- **First Academy Award nomination** (Best Supporting Actor, age 19)
+- Widely praised for sensitive, committed performance
+- Lost to Tommy Lee Jones ("The Fugitive")
+
+**"The Basketball Diaries"** (1995):
+- Played troubled teen Jim Carroll
+- Drug addiction and descent portrayed
+- Showed willingness to take dark roles
+
+**"The Quick and the Dead"** (1995):
+- Western directed by Sam Raimi
+- Supporting role alongside Sharon Stone, Gene Hackman
+
+**"Total Eclipse"** (1995):
+- Played poet Arthur Rimbaud
+- Explored controversial sexuality themes
+- Independent film
+
+---
+
+## Superstardom
+
+### "Romeo + Juliet" (1996)
+
+**Baz Luhrmann's Modern Adaptation**:
+- Shakespeare's text in contemporary setting
+- Miami Beach gang warfare
+- Co-starred with Claire Danes
+
+**Cultural Impact**:
+- Teen idol phenomenon
+- Massive global following especially among young women
+- "Leo-mania" began
+- Made Shakespeare accessible to new generation
+
+**Box Office**: $147 million worldwide
+
+### "Titanic" (1997): Global Phenomenon
+
+**James Cameron's Epic**:
+- Played Jack Dawson, poor artist
+- Romance with Rose (Kate Winslet)
+- Based on real 1912 disaster
+
+**Unprecedented Success**:
+- **Highest-grossing film of all time** (held record 12 years)
+- $2.2 billion worldwide
+- Won 11 Academy Awards (tied record)
+- DiCaprio NOT nominated (controversial snub)
+
+**Cultural Phenomenon**:
+- "King of the World" became catchphrase
+- Became world's biggest movie star overnight
+- Mobbed by fans globally
+- Face on magazine covers worldwide
+
+**Impact on DiCaprio**:
+- Struggled with sudden mega-fame
+- Sought more serious, challenging roles
+- Avoided romantic leads for years
+- Focused on working with great directors
+
+---
+
+## Building Credibility
+
+### Choosing Prestige Over Commerce
+
+After "Titanic," DiCaprio deliberately chose artistic films:
+
+**"The Man in the Iron Mask"** (1998):
+- Dual role as Louis XIV / Philippe
+- $180 million worldwide
+
+**"The Beach"** (2000):
+- Directed by Danny Boyle
+- Backpacker in Thailand
+- Mixed reviews but showed range
+
+**"Catch Me If You Can"** (2002):
+- Directed by Steven Spielberg
+- Played real con artist Frank Abagnale Jr.
+- Showed comedic timing
+- $352 million worldwide
+- Golden Globe nomination
+
+###Martin Scorsese Collaboration Begins
+
+**"Gangs of New York"** (2002):
+- First Scorsese collaboration
+- 19th century New York gang warfare
+- Co-starred Daniel Day-Lewis, Cameron Diaz
+- Intensive method acting and historical research
+- Oscar nomination for Best Picture
+
+**"The Aviator"** (2004):
+- Played Howard Hughes
+- Chronicled rise and mental decline
+- **Second Oscar nomination** (Best Actor)
+- Won Golden Globe
+- $213 million worldwide
+- Showcased dramatic range
+
+**"The Departed"** (2006):
+- Boston crime thriller
+- Ensemble cast (Matt Damon, Jack Nicholson, Mark Wahlberg)
+- Won Best Picture Oscar
+- DiCaprio's third nomination (Supporting Actor)
+- $291 million worldwide
+- Scorsese finally won Best Director
+
+**"Shutter Island"** (2010):
+- Psychological thriller
+- 1950s mental institution
+- Twist ending
+- $294 million worldwide
+
+**"The Wolf of Wall Street"** (2013):
+- Played real stockbroker Jordan Belfort
+- Outrageous excess and debauchery
+- Physical comedy and drama
+- **Fifth Oscar nomination** (Best Actor)
+- Controversy over glorifying bad behavior
+- $392 million worldwide
+
+**"Killers of the Flower Moon"** (2023):
+- Osage murders in 1920s Oklahoma
+- Sixth Scorsese collaboration
+- Oscar nomination
+
+---
+
+## Other Major Collaborations
+
+### With Christopher Nolan
+
+**"Inception"** (2010):
+- Mind-bending heist in dreams
+- Original screenplay
+- Critical and commercial smash
+- $839 million worldwide
+- Cemented DiCaprio as action star who can handle complex narratives
+
+### With Quentin Tarantino
+
+**"Django Unchained"** (2012):
+- Played sadistic plantation owner Calvin Candie
+- Rare villain role
+- Memorable performance
+- Supporting role
+
+**"Once Upon a Time in Hollywood"** (2019):
+- Fading TV star in 1969 Los Angeles
+- Bromance with Brad Pitt
+- **Seventh Oscar nomination** (Best Actor)
+- $374 million worldwide
+
+### With Alejandro Iñárritu
+
+**"The Revenant"** (2015):
+- Frontiersman Hugh Glass surviving brutal bear attack
+- Filmed in harsh conditions
+- Method acting in freezing temperatures
+- Eating raw bison liver
+- **First Oscar win** (Best Actor, sixth nomination)
+- Also won BAFTA, Golden Globe
+- $533 million worldwide
+
+---
+
+## Acting Style and Reputation
+
+### Commitment to Roles
+
+**Method Approach**:
+- Extensive research for historical figures
+- Physical transformation when needed
+- Stays in character between takes
+- Seeks authenticity
+
+**Range**:
+- From romantic leads to villains
+- Comedy to intense drama
+- Period pieces to contemporary
+- Action to psychological thrillers
+
+### Director Relationships
+
+**Frequent Collaborators**:
+- Martin Scorsese: 6 films
+- Christopher Nolan: 1 film (Inception)
+- Quentin Tarantino: 2 films
+- Alejandro Iñárritu: 1 film (The Revenant)
+- Sam Mendes, Clint Eastwood, Ridley Scott, others
+
+**Selective**:
+- Turns down more roles than accepts
+- Prioritizes director over commercial potential
+- Willing to take pay cuts for artistic projects
+
+### Oscar Journey
+
+**Six Nominations Before Win**:
+1. "What's Eating Gilbert Grape" (1994) - Supporting
+2. "The Aviator" (2005) - Lead
+3. "Blood Diamond" (2007) - Lead
+4. "The Wolf of Wall Street" (2014) - Lead
+5. "The Revenant" (2016) - **WIN**
+
+**"Leo Doesn't Have an Oscar" Meme**:
+- Internet obsession with his losses
+- Each loss became cultural moment
+- Made win (2016) even more celebrated
+
+---
+
+## Production Work
+
+### Appian Way Productions
+
+**Founded 2001**:
+- Named after ancient Roman road
+- Produces films and documentaries
+- Focus on environmental themes
+
+**Notable Productions**:
 - "The Aviator" (2004)
-- "Blood Diamond" (2006)
-- "Inception" (2010)
 - "The Wolf of Wall Street" (2013)
-- "The Revenant" (2015) - Won Oscar for Best Actor
-
-### Frequent Collaborations
-
-Known for working with top directors:
-
-**Martin Scorsese**: 6 films together
-**Christopher Nolan**: "Inception"
-**Quentin Tarantino**: "Django Unchained," "Once Upon a Time in Hollywood"
-**Alejandro Iñárritu**: "The Revenant"
+- "Before the Flood" (2016)
+- "Ice on Fire" (2019)
+- Environmental documentaries
 
 ---
 
 ## Environmental Activism
 
-### Leonardo DiCaprio Foundation
+### Leonardo DiCaprio Foundation (1998)
 
-Founded in 1998, focused on:
+Founded in 1998, focused on environmental causes:
 
-**Environmental Causes**:
-- Climate change awareness
+**Mission Areas**:
+- Climate change awareness and action
 - Wildlife conservation
-- Ocean conservation
-- Indigenous rights
+- Ocean and forest conservation
+- Indigenous rights protection
 
-**Funding**:
-- Over $100 million in grants
-- Support for 200+ projects
-- 50+ countries
+**Funding Impact**:
+- Over $100 million in grants awarded
+- Supported 200+ projects
+- Work in 50+ countries
+- Focus on high-impact, science-based solutions
 
-### Climate Advocacy
+### Climate Advocacy and Leadership
 
-DiCaprio became leading celebrity voice on climate:
-
-**UN Messenger of Peace** (2014):
-- Climate change focus
-- Spoke at UN Climate Summit
-- Advocated for Paris Agreement
+**UN Messenger of Peace** (2014-present):
+- Designated with focus on climate change
+- Spoke at UN Climate Summit (2014)
+- Addressed world leaders directly
+- Advocated for Paris Climate Agreement
 
 **"Before the Flood"** (2016):
 - Documentary on climate change
-- Executive producer and narrator
-- Distributed for free to maximize impact
+- DiCaprio as narrator and interviewer
+- Met with scientists, activists, world leaders
+- Distributed for free to maximize reach
+- Won Emmy
 
-**Continued Activism**:
-- Regular speeches and appearances
-- Funding for environmental projects
-- Using platform for awareness
+**"Ice on Fire"** (2019):
+- Climate solutions documentary
+- Focused on innovative technologies
 
-### Criticism
+**Regular Activism**:
+- Speeches at Davos, UN, other forums
+- Funds climate research
+- Invests in sustainable companies  
+- Uses platform to raise awareness
 
-Despite advocacy, faced criticism:
+### Criticism and Defense
 
-**Personal Carbon Footprint**:
-- Private jet travel
+**"Hypocrite" Accusations**:
+- Private jet travel for film work and activism
 - Yacht vacations
-- Large homes
-- "Do as I say, not as I do" accusations
+- Multiple homes
+- Large carbon footprint for wealthy lifestyle
 
-**Defense**:
-- Carbon offsets purchased
-- Necessary for global reach
-- Overall positive impact
-- Raises awareness effectively
+**DiCaprio's Response**:
+- Purchases carbon offsets
+- Invests in clean energy
+- Electric vehicles
+- Argues reach and impact justify travel
+- "Do what I say AND what I'm trying to do, not my every action"
 
 ---
 
