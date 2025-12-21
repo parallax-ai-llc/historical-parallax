@@ -43,10 +43,10 @@ export default function HomePage() {
 
       <main className="flex flex-1 flex-col items-center justify-center px-4">
         <div className="w-full max-w-xl space-y-8 text-center">
-          <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl">
+          <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em]">
             Historical Parallax
           </h1>
-          <p className="text-muted-foreground text-sm md:text-base italic">
+          <p className="text-muted-foreground text-sm md:text-base italic leading-relaxed min-h-[1.625em]">
             &ldquo;Every history creates a parallax&rdquo;
           </p>
 
