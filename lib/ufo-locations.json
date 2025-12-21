@@ -1,0 +1,162 @@
+[
+    {
+        "id": "roswell-incident-1947",
+        "name": "Roswell Incident",
+        "coordinates": [
+            -104.5230,
+            33.3943
+        ]
+    },
+    {
+        "id": "varginha-incident-1996",
+        "name": "Varginha Incident",
+        "coordinates": [
+            -45.4308,
+            -21.5516
+        ]
+    },
+    {
+        "id": "rendlesham-forest-incident-1980",
+        "name": "Rendlesham Forest Incident",
+        "coordinates": [
+            1.4390,
+            52.0837
+        ]
+    },
+    {
+        "id": "phoenix-lights-1997",
+        "name": "Phoenix Lights",
+        "coordinates": [
+            -112.0740,
+            33.4484
+        ]
+    },
+    {
+        "id": "ariel-school-incident-1994",
+        "name": "Ariel School Incident",
+        "coordinates": [
+            31.2294,
+            -17.8878
+        ]
+    },
+    {
+        "id": "uss-nimitz-tic-tac-incident-2004",
+        "name": "USS Nimitz (Tic Tac)",
+        "coordinates": [
+            -117.8282,
+            32.2217
+        ]
+    },
+    {
+        "id": "belgian-ufo-wave-1989",
+        "name": "Belgian UFO Wave",
+        "coordinates": [
+            6.0333,
+            50.6333
+        ]
+    },
+    {
+        "id": "travis-walton-abduction-1975",
+        "name": "Travis Walton Abduction",
+        "coordinates": [
+            -110.5833,
+            34.3327
+        ]
+    },
+    {
+        "id": "voronezh-incident-1989",
+        "name": "Voronezh Incident",
+        "coordinates": [
+            39.2003,
+            51.6683
+        ]
+    },
+    {
+        "id": "nuremberg-celestial-phenomenon-1561",
+        "name": "Nuremberg Phenomenon",
+        "coordinates": [
+            11.0767,
+            49.4521
+        ]
+    },
+    {
+        "id": "betty-and-barney-hill-abduction-1961",
+        "name": "Betty & Barney Hill",
+        "coordinates": [
+            -71.6933,
+            44.0833
+        ]
+    },
+    {
+        "id": "battle-of-los-angeles-1942",
+        "name": "Battle of Los Angeles",
+        "coordinates": [
+            -118.2437,
+            34.0522
+        ]
+    },
+    {
+        "id": "washington-dc-ufo-incident-1952",
+        "name": "Washington D.C. Incident",
+        "coordinates": [
+            -77.0369,
+            38.9072
+        ]
+    },
+    {
+        "id": "kecksburg-ufo-incident-1965",
+        "name": "Kecksburg Incident",
+        "coordinates": [
+            -79.4678,
+            40.1847
+        ]
+    },
+    {
+        "id": "tehran-ufo-incident-1976",
+        "name": "Tehran Incident",
+        "coordinates": [
+            51.3890,
+            35.6892
+        ]
+    },
+    {
+        "id": "westall-ufo-incident-1966",
+        "name": "Westall Incident",
+        "coordinates": [
+            145.1270,
+            -37.9350
+        ]
+    },
+    {
+        "id": "socorro-landing-1964",
+        "name": "Socorro Landing",
+        "coordinates": [
+            -106.8914,
+            34.0584
+        ]
+    },
+    {
+        "id": "pascagoula-abduction-1973",
+        "name": "Pascagoula Abduction",
+        "coordinates": [
+            -88.5561,
+            30.3658
+        ]
+    },
+    {
+        "id": "miracle-of-the-sun-1917",
+        "name": "Miracle of the Sun",
+        "coordinates": [
+            -8.6731,
+            39.6172
+        ]
+    },
+    {
+        "id": "tunguska-event-1908",
+        "name": "Tunguska Event",
+        "coordinates": [
+            101.9360,
+            60.9170
+        ]
+    }
+]

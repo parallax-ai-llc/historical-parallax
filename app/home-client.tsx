@@ -36,6 +36,13 @@ export function HomeClient({ articles }: HomeClientProps) {
           <GitPullRequest className="h-4 w-4" />
           Contribute
         </a>
+        <a
+          href="/ufo-map"
+          className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
+          title="Project Blue Map"
+        >
+          <span className="text-xl leading-none" role="img" aria-label="ufo">🛸</span>
+        </a>
         <ThemeToggle />
       </header>
 
