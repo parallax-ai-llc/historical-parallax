@@ -6,6 +6,11 @@
   {"id": "david-sacks", "name": "David Sacks (San Francisco)", "coordinates": [-122.4194, 37.7749]},
   {"id": "roelof-botha", "name": "Roelof Botha (Menlo Park)", "coordinates": [-122.1817, 37.4530]},
   {"id": "steve-chen", "name": "Steve Chen (San Bruno)", "coordinates": [-122.4111, 37.6249]},
+  {"id": "chad-hurley", "name": "Chad Hurley (San Francisco)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "jawed-karim", "name": "Jawed Karim (Palo Alto)", "coordinates": [-122.1430, 37.4419]},
   {"id": "jeremy-stoppelman", "name": "Jeremy Stoppelman (San Francisco)", "coordinates": [-122.4194, 37.7749]},
-  {"id": "keith-rabois", "name": "Keith Rabois (Miami)", "coordinates": [-80.1918, 25.7617]}
+  {"id": "keith-rabois", "name": "Keith Rabois (Miami)", "coordinates": [-80.1918, 25.7617]},
+  {"id": "luke-nosek", "name": "Luke Nosek (San Francisco)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "ken-howery", "name": "Ken Howery (Austin)", "coordinates": [-97.7431, 30.2672]}
 ]
+
