@@ -1,7 +1,6 @@
 "use client";
 
 import * as React from "react";
-import Link from "next/link";
 import { Search, Pencil } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
@@ -52,7 +51,7 @@ function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
       role="banner"
     >
       <div className="flex h-14 items-center justify-between px-4 md:px-6">
-        <Link
+        <a
           href="/"
           className="flex items-center gap-2 rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
           aria-label="Historical Parallax - Go to home page"
@@ -60,7 +59,7 @@ function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
           <span className="font-serif text-xl font-semibold tracking-tight font-bold">
             Historical Parallax
           </span>
-        </Link>
+        </a>
 
         <nav aria-label="Main navigation" className="flex items-center gap-2">
           <Button
