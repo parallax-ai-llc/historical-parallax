@@ -78,9 +78,9 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
-        {/* INP 최적화: 분석 스크립트는 worker에서 로드 */}
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5WB8XPRPT" strategy="worker" />
-        <Script id="google-analytics" strategy="worker">
+        {/* Google Analytics */}
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5WB8XPRPT" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
