@@ -7,7 +7,7 @@ export const metadata = {
   description: "Learn how to contribute to Historical Parallax by creating or editing articles.",
 };
 
-const GITHUB_REPO = "https://github.com/joshephan/historical-parallax";
+const GITHUB_REPO = "https://github.com/parallax-ai-llc/historical-parallax";
 
 export default function ContributePage() {
   return (
@@ -82,7 +82,7 @@ export default function ContributePage() {
               <div className="space-y-2 min-w-0 flex-1">
                 <h3 className="font-semibold">Clone Your Fork</h3>
                 <pre className="p-3 rounded-lg bg-muted overflow-x-auto text-sm max-w-full">
-                  <code>git clone https://github.com/YOUR_USERNAME/historical-parallax.git</code>
+                  <code>git clone https://github.com/parallax-ai-llc/historical-parallax.git</code>
                 </pre>
               </div>
             </div>

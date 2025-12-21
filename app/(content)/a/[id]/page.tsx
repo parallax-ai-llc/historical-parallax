@@ -3,7 +3,7 @@ import { getArticle, getAllArticleIds } from "@/lib/articles";
 import { SidebarToc } from "@/components/sidebar-toc";
 import { ArticleContent } from "@/components/article-content";
 
-const GITHUB_REPO = "https://github.com/joshephan/historical-parallax";
+const GITHUB_REPO = "https://github.com/parallax-ai-llc/historical-parallax";
 
 // ISR disabled for dev testing (set to 86400 for production)
 export const revalidate = 0;
