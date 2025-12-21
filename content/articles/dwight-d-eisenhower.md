@@ -4,7 +4,8 @@ name: "Dwight D. Eisenhower"
 birth: "1890-10-14"
 death: "1969-03-28"
 nationality: "United States"
-occupation: ["Military General", "34th President of the United States", "Supreme Commander of Allied Forces"]
+occupation:
+  ["Military General", "34th President of the United States", "Supreme Commander of Allied Forces"]
 image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
@@ -181,36 +182,36 @@ Stephen Ambrose, Eisenhower's most prominent biographer, while generally admirin
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1890 | Born October 14 in Denison, Texas |
-| 1892 | Family moves to Abilene, Kansas |
-| 1911 | Enters United States Military Academy at West Point |
-| 1915 | Graduates from West Point, commissioned as second lieutenant |
-| 1916 | Marries Mamie Doud on July 1 |
-| 1918 | Commands tank training center at Camp Colt during World War I |
-| 1921 | First son, Doud Dwight, dies of scarlet fever at age three |
-| 1922 | Second son, John Sheldon Doud Eisenhower, is born |
-| 1933 | Begins service as aide to General Douglas MacArthur |
-| 1935 | Accompanies MacArthur to the Philippines |
-| 1941 | Promoted to brigadier general; serves as chief of staff of Third Army |
-| 1942 | Named commander of U.S. forces in Europe; promoted to lieutenant general; commands Operation Torch invasion of North Africa |
-| 1943 | Promoted to four-star general; commands invasions of Sicily and Italy; appointed Supreme Commander Allied Expeditionary Force |
-| 1944 | Leads D-Day invasion of Normandy on June 6; promoted to five-star General of the Army |
-| 1945 | Accepts German surrender ending World War II in Europe; appointed Army Chief of Staff |
-| 1948 | Retires from active duty; becomes President of Columbia University |
-| 1950 | Appointed Supreme Commander of NATO forces |
-| 1952 | Resigns from Army; wins Republican presidential nomination; defeats Adlai Stevenson in presidential election |
-| 1953 | Inaugurated as 34th President; Korean War armistice signed in July |
-| 1954 | Brown v. Board of Education decided; Senate censures Joseph McCarthy |
-| 1955 | Suffers serious heart attack in September; attends Geneva Summit with Soviet leaders |
-| 1956 | Federal-Aid Highway Act signed; Suez Crisis; Hungarian Revolution; defeats Stevenson in reelection campaign |
+| Year | Event                                                                                                                                                   |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1890 | Born October 14 in Denison, Texas                                                                                                                       |
+| 1892 | Family moves to Abilene, Kansas                                                                                                                         |
+| 1911 | Enters United States Military Academy at West Point                                                                                                     |
+| 1915 | Graduates from West Point, commissioned as second lieutenant                                                                                            |
+| 1916 | Marries Mamie Doud on July 1                                                                                                                            |
+| 1918 | Commands tank training center at Camp Colt during World War I                                                                                           |
+| 1921 | First son, Doud Dwight, dies of scarlet fever at age three                                                                                              |
+| 1922 | Second son, John Sheldon Doud Eisenhower, is born                                                                                                       |
+| 1933 | Begins service as aide to General Douglas MacArthur                                                                                                     |
+| 1935 | Accompanies MacArthur to the Philippines                                                                                                                |
+| 1941 | Promoted to brigadier general; serves as chief of staff of Third Army                                                                                   |
+| 1942 | Named commander of U.S. forces in Europe; promoted to lieutenant general; commands Operation Torch invasion of North Africa                             |
+| 1943 | Promoted to four-star general; commands invasions of Sicily and Italy; appointed Supreme Commander Allied Expeditionary Force                           |
+| 1944 | Leads D-Day invasion of Normandy on June 6; promoted to five-star General of the Army                                                                   |
+| 1945 | Accepts German surrender ending World War II in Europe; appointed Army Chief of Staff                                                                   |
+| 1948 | Retires from active duty; becomes President of Columbia University                                                                                      |
+| 1950 | Appointed Supreme Commander of NATO forces                                                                                                              |
+| 1952 | Resigns from Army; wins Republican presidential nomination; defeats Adlai Stevenson in presidential election                                            |
+| 1953 | Inaugurated as 34th President; Korean War armistice signed in July                                                                                      |
+| 1954 | Brown v. Board of Education decided; Senate censures Joseph McCarthy                                                                                    |
+| 1955 | Suffers serious heart attack in September; attends Geneva Summit with Soviet leaders                                                                    |
+| 1956 | Federal-Aid Highway Act signed; Suez Crisis; Hungarian Revolution; defeats Stevenson in reelection campaign                                             |
 | 1957 | Eisenhower Doctrine announced; sends federal troops to enforce desegregation in Little Rock; suffers stroke in November; Signs Civil Rights Act of 1957 |
-| 1958 | Creates NASA; National Defense Education Act signed |
-| 1959 | Alaska and Hawaii admitted as states; hosts Nikita Khrushchev at Camp David |
-| 1960 | U-2 spy plane shot down over Soviet Union; Signs Civil Rights Act of 1960; delivers farewell address warning of military-industrial complex |
-| 1961 | Leaves office on January 20; retires to Gettysburg farm |
-| 1969 | Dies March 28 at Walter Reed Army Medical Center at age 78 |
+| 1958 | Creates NASA; National Defense Education Act signed                                                                                                     |
+| 1959 | Alaska and Hawaii admitted as states; hosts Nikita Khrushchev at Camp David                                                                             |
+| 1960 | U-2 spy plane shot down over Soviet Union; Signs Civil Rights Act of 1960; delivers farewell address warning of military-industrial complex             |
+| 1961 | Leaves office on January 20; retires to Gettysburg farm                                                                                                 |
+| 1969 | Dies March 28 at Walter Reed Army Medical Center at age 78                                                                                              |
 
 ---
 
@@ -234,68 +235,132 @@ Stephen Ambrose, Eisenhower's most prominent biographer, while generally admirin
 
 ## References
 
-[^1]: Stephen E. Ambrose, *Eisenhower: Soldier and President* (New York: Simon & Schuster, 1990), 23-27.
-[^2]: Jean Edward Smith, *Eisenhower in War and Peace* (New York: Random House, 2012), 8-15.
-[^3]: Michael Korda, *Ike: An American Hero* (New York: Harper, 2007), 31-33.
-[^4]: Carlo D'Este, *Eisenhower: A Soldier's Life* (New York: Henry Holt, 2002), 54-58.
-[^5]: Geoffrey Perret, *Eisenhower* (New York: Random House, 1999), 45-47.
-[^6]: Ambrose, *Eisenhower: Soldier and President*, 45-48.
-[^7]: Smith, *Eisenhower in War and Peace*, 105-125.
-[^8]: William B. Pickett, *Eisenhower Decides to Run: Presidential Politics and Cold War Strategy* (Chicago: Ivan R. Dee, 2000), 15-18.
-[^9]: D'Este, *Eisenhower: A Soldier's Life*, 287-295.
-[^10]: Rick Atkinson, *An Army at Dawn: The War in North Africa, 1942-1943* (New York: Henry Holt, 2002), 156-189.
-[^11]: Smith, *Eisenhower in War and Peace*, 289-292.
-[^12]: Cornelius Ryan, *The Longest Day* (New York: Simon & Schuster, 1959), 78-82.
-[^13]: Max Hastings, *Overlord: D-Day and the Battle for Normandy* (New York: Simon & Schuster, 1984), 44-52.
-[^14]: Russell F. Weigley, *Eisenhower's Lieutenants: The Campaign of France and Germany, 1944-1945* (Bloomington: Indiana University Press, 1981), 321-347.
-[^15]: Tom Lewis, *Divided Highways: Building the Interstate Highways, Transforming American Life* (New York: Viking, 1997), 89-115.
-[^16]: Dan McNichol, *The Roads that Built America: The Incredible Story of the U.S. Interstate System* (New York: Sterling, 2006), 72-88.
-[^17]: Herbert Stein, *The Fiscal Revolution in America* (Chicago: University of Chicago Press, 1969), 289-315.
+[^1]: Stephen E. Ambrose, _Eisenhower: Soldier and President_ (New York: Simon & Schuster, 1990), 23-27.
+
+[^2]: Jean Edward Smith, _Eisenhower in War and Peace_ (New York: Random House, 2012), 8-15.
+
+[^3]: Michael Korda, _Ike: An American Hero_ (New York: Harper, 2007), 31-33.
+
+[^4]: Carlo D'Este, _Eisenhower: A Soldier's Life_ (New York: Henry Holt, 2002), 54-58.
+
+[^5]: Geoffrey Perret, _Eisenhower_ (New York: Random House, 1999), 45-47.
+
+[^6]: Ambrose, _Eisenhower: Soldier and President_, 45-48.
+
+[^7]: Smith, _Eisenhower in War and Peace_, 105-125.
+
+[^8]: William B. Pickett, _Eisenhower Decides to Run: Presidential Politics and Cold War Strategy_ (Chicago: Ivan R. Dee, 2000), 15-18.
+
+[^9]: D'Este, _Eisenhower: A Soldier's Life_, 287-295.
+
+[^10]: Rick Atkinson, _An Army at Dawn: The War in North Africa, 1942-1943_ (New York: Henry Holt, 2002), 156-189.
+
+[^11]: Smith, _Eisenhower in War and Peace_, 289-292.
+
+[^12]: Cornelius Ryan, _The Longest Day_ (New York: Simon & Schuster, 1959), 78-82.
+
+[^13]: Max Hastings, _Overlord: D-Day and the Battle for Normandy_ (New York: Simon & Schuster, 1984), 44-52.
+
+[^14]: Russell F. Weigley, _Eisenhower's Lieutenants: The Campaign of France and Germany, 1944-1945_ (Bloomington: Indiana University Press, 1981), 321-347.
+
+[^15]: Tom Lewis, _Divided Highways: Building the Interstate Highways, Transforming American Life_ (New York: Viking, 1997), 89-115.
+
+[^16]: Dan McNichol, _The Roads that Built America: The Incredible Story of the U.S. Interstate System_ (New York: Sterling, 2006), 72-88.
+
+[^17]: Herbert Stein, _The Fiscal Revolution in America_ (Chicago: University of Chicago Press, 1969), 289-315.
+
 [^18]: Letter from Eisenhower to Edgar Newton Eisenhower, November 8, 1954, Eisenhower Presidential Library.
-[^19]: William Stueck, *The Korean War: An International History* (Princeton: Princeton University Press, 1995), 298-312.
-[^20]: Evan Thomas, *Ike's Bluff: President Eisenhower's Secret Battle to Save the World* (New York: Little, Brown, 2012), 123-145.
-[^21]: Walter A. McDougall, *...The Heavens and the Earth: A Political History of the Space Age* (New York: Basic Books, 1985), 141-176.
-[^22]: Roger D. Launius, *NASA: A History of the U.S. Civil Space Program* (Malabar, FL: Krieger Publishing, 1994), 23-35.
-[^23]: Taylor Branch, *Parting the Waters: America in the King Years, 1954-63* (New York: Simon & Schuster, 1988), 222-224.
-[^24]: David A. Nichols, *A Matter of Justice: Eisenhower and the Beginning of the Civil Rights Revolution* (New York: Simon & Schuster, 2007), 176-198.
-[^25]: Michael S. Mayer, "With Much Deliberation and Some Speed: Eisenhower and the Brown Decision," *Journal of Southern History* 52, no. 1 (1986): 43-76.
-[^26]: Robert Fredrick Burk, *The Eisenhower Administration and Black Civil Rights* (Knoxville: University of Tennessee Press, 1984), 204-221.
-[^27]: Stephen Kinzer, *All the Shah's Men: An American Coup and the Roots of Middle East Terror* (Hoboken: John Wiley & Sons, 2003), 158-187.
-[^28]: Stephen Schlesinger and Stephen Kinzer, *Bitter Fruit: The Story of the American Coup in Guatemala* (Cambridge: Harvard University Press, 1982), 142-167.
-[^29]: Michael R. Beschloss, *Mayday: Eisenhower, Khrushchev, and the U-2 Affair* (New York: Harper & Row, 1986), 242-289.
-[^30]: Thomas, *Ike's Bluff*, 378-392.
-[^31]: Dwight D. Eisenhower, "Farewell Address," January 17, 1961, *Public Papers of the Presidents*.
-[^32]: Saki Dockrill, *Eisenhower's New-Look National Security Policy, 1953-61* (London: Macmillan, 1996), 87-112.
-[^33]: David L. Anderson, *Trapped by Success: The Eisenhower Administration and Vietnam, 1953-1961* (New York: Columbia University Press, 1991), 72-95.
-[^34]: Fredrik Logevall, *Embers of War: The Fall of an Empire and the Making of America's Vietnam* (New York: Random House, 2012), 587-603.
-[^35]: Susan Eisenhower, *Mrs. Ike: Memories and Reflections on the Life of Mamie Eisenhower* (New York: Farrar, Straus and Giroux, 1996), 89-121.
-[^36]: Smith, *Eisenhower in War and Peace*, 81-83.
-[^37]: Fred I. Greenstein, *The Hidden-Hand Presidency: Eisenhower as Leader* (New York: Basic Books, 1982), 57-62.
-[^38]: Clarence G. Lasby, *Eisenhower's Heart Attack: How Ike Beat Heart Disease and Held On to the Presidency* (Lawrence: University Press of Kansas, 1997), 34-67.
-[^39]: Kay Summersby Morgan, *Past Forgetting: My Love Affair with Dwight D. Eisenhower* (New York: Simon & Schuster, 1976); contested in Ambrose, *Eisenhower: Soldier and President*, 158-161.
-[^40]: Ambrose, *Eisenhower: Soldier and President*, 585-587.
-[^41]: Greenstein, *The Hidden-Hand Presidency*, 1-7.
-[^42]: Melanie Billings-Yun, *Decision Against War: Eisenhower and Dien Bien Phu, 1954* (New York: Columbia University Press, 1988), 156-172.
-[^43]: Earl Swift, *The Big Roads: The Untold Story of the Engineers, Visionaries, and Trailblazers Who Created the American Superhighways* (Boston: Houghton Mifflin Harcourt, 2011), 201-223.
-[^44]: James Ledbetter, *Unwarranted Influence: Dwight D. Eisenhower and the Military-Industrial Complex* (New Haven: Yale University Press, 2011), 1-9.
-[^45]: William I. Hitchcock, *The Age of Eisenhower: America and the World in the 1950s* (New York: Simon & Schuster, 2018), 632-645.
-[^46]: Andrew J. Goodpaster, "Coalition Leadership: Eisenhower and the Atlantic Alliance," in *Generals in International Politics: NATO's Supreme Allied Commander, Europe*, ed. Robert S. Jordan (Lexington: University Press of Kentucky, 1987), 15-28.
+
+[^19]: William Stueck, _The Korean War: An International History_ (Princeton: Princeton University Press, 1995), 298-312.
+
+[^20]: Evan Thomas, _Ike's Bluff: President Eisenhower's Secret Battle to Save the World_ (New York: Little, Brown, 2012), 123-145.
+
+[^21]: Walter A. McDougall, _...The Heavens and the Earth: A Political History of the Space Age_ (New York: Basic Books, 1985), 141-176.
+
+[^22]: Roger D. Launius, _NASA: A History of the U.S. Civil Space Program_ (Malabar, FL: Krieger Publishing, 1994), 23-35.
+
+[^23]: Taylor Branch, _Parting the Waters: America in the King Years, 1954-63_ (New York: Simon & Schuster, 1988), 222-224.
+
+[^24]: David A. Nichols, _A Matter of Justice: Eisenhower and the Beginning of the Civil Rights Revolution_ (New York: Simon & Schuster, 2007), 176-198.
+
+[^25]: Michael S. Mayer, "With Much Deliberation and Some Speed: Eisenhower and the Brown Decision," _Journal of Southern History_ 52, no. 1 (1986): 43-76.
+
+[^26]: Robert Fredrick Burk, _The Eisenhower Administration and Black Civil Rights_ (Knoxville: University of Tennessee Press, 1984), 204-221.
+
+[^27]: Stephen Kinzer, _All the Shah's Men: An American Coup and the Roots of Middle East Terror_ (Hoboken: John Wiley & Sons, 2003), 158-187.
+
+[^28]: Stephen Schlesinger and Stephen Kinzer, _Bitter Fruit: The Story of the American Coup in Guatemala_ (Cambridge: Harvard University Press, 1982), 142-167.
+
+[^29]: Michael R. Beschloss, _Mayday: Eisenhower, Khrushchev, and the U-2 Affair_ (New York: Harper & Row, 1986), 242-289.
+
+[^30]: Thomas, _Ike's Bluff_, 378-392.
+
+[^31]: Dwight D. Eisenhower, "Farewell Address," January 17, 1961, _Public Papers of the Presidents_.
+
+[^32]: Saki Dockrill, _Eisenhower's New-Look National Security Policy, 1953-61_ (London: Macmillan, 1996), 87-112.
+
+[^33]: David L. Anderson, _Trapped by Success: The Eisenhower Administration and Vietnam, 1953-1961_ (New York: Columbia University Press, 1991), 72-95.
+
+[^34]: Fredrik Logevall, _Embers of War: The Fall of an Empire and the Making of America's Vietnam_ (New York: Random House, 2012), 587-603.
+
+[^35]: Susan Eisenhower, _Mrs. Ike: Memories and Reflections on the Life of Mamie Eisenhower_ (New York: Farrar, Straus and Giroux, 1996), 89-121.
+
+[^36]: Smith, _Eisenhower in War and Peace_, 81-83.
+
+[^37]: Fred I. Greenstein, _The Hidden-Hand Presidency: Eisenhower as Leader_ (New York: Basic Books, 1982), 57-62.
+
+[^38]: Clarence G. Lasby, _Eisenhower's Heart Attack: How Ike Beat Heart Disease and Held On to the Presidency_ (Lawrence: University Press of Kansas, 1997), 34-67.
+
+[^39]: Kay Summersby Morgan, _Past Forgetting: My Love Affair with Dwight D. Eisenhower_ (New York: Simon & Schuster, 1976); contested in Ambrose, _Eisenhower: Soldier and President_, 158-161.
+
+[^40]: Ambrose, _Eisenhower: Soldier and President_, 585-587.
+
+[^41]: Greenstein, _The Hidden-Hand Presidency_, 1-7.
+
+[^42]: Melanie Billings-Yun, _Decision Against War: Eisenhower and Dien Bien Phu, 1954_ (New York: Columbia University Press, 1988), 156-172.
+
+[^43]: Earl Swift, _The Big Roads: The Untold Story of the Engineers, Visionaries, and Trailblazers Who Created the American Superhighways_ (Boston: Houghton Mifflin Harcourt, 2011), 201-223.
+
+[^44]: James Ledbetter, _Unwarranted Influence: Dwight D. Eisenhower and the Military-Industrial Complex_ (New Haven: Yale University Press, 2011), 1-9.
+
+[^45]: William I. Hitchcock, _The Age of Eisenhower: America and the World in the 1950s_ (New York: Simon & Schuster, 2018), 632-645.
+
+[^46]: Andrew J. Goodpaster, "Coalition Leadership: Eisenhower and the Atlantic Alliance," in _Generals in International Politics: NATO's Supreme Allied Commander, Europe_, ed. Robert S. Jordan (Lexington: University Press of Kentucky, 1987), 15-28.
+
 [^47]: C-SPAN Presidential Historians Survey 2021 ranked Eisenhower 5th overall among U.S. presidents.
-[^48]: Greenstein, *The Hidden-Hand Presidency*, 58-88.
-[^49]: Iwan W. Morgan, *Eisenhower versus 'The Spenders': The Eisenhower Administration, the Democrats and the Budget, 1953-60* (London: Pinter, 1990), 187-201.
-[^50]: D'Este, *Eisenhower: A Soldier's Life*, 629-645.
-[^51]: Robert R. Bowie and Richard H. Immerman, *Waging Peace: How Eisenhower Shaped an Enduring Cold War Strategy* (New York: Oxford University Press, 1998), 245-267.
-[^52]: Thomas, *Ike's Bluff*, 412-421.
-[^53]: Harvard Sitkoff, *The Struggle for Black Equality, 1954-1992* (New York: Hill and Wang, 1993), 28-35.
-[^54]: Howard Zinn, *A People's History of the United States* (New York: Harper & Row, 1980), 424-428.
-[^55]: Nigel Hamilton, *Monty: Final Years of the Field-Marshal, 1944-1976* (New York: McGraw-Hill, 1987), 178-195.
-[^56]: John Kenneth Galbraith, *The Affluent Society* (Boston: Houghton Mifflin, 1958), 251-268.
-[^57]: Nichols, *A Matter of Justice*, 8-17.
-[^58]: Ambrose, *Eisenhower: Soldier and President*, 407-412.
+
+[^48]: Greenstein, _The Hidden-Hand Presidency_, 58-88.
+
+[^49]: Iwan W. Morgan, _Eisenhower versus 'The Spenders': The Eisenhower Administration, the Democrats and the Budget, 1953-60_ (London: Pinter, 1990), 187-201.
+
+[^50]: D'Este, _Eisenhower: A Soldier's Life_, 629-645.
+
+[^51]: Robert R. Bowie and Richard H. Immerman, _Waging Peace: How Eisenhower Shaped an Enduring Cold War Strategy_ (New York: Oxford University Press, 1998), 245-267.
+
+[^52]: Thomas, _Ike's Bluff_, 412-421.
+
+[^53]: Harvard Sitkoff, _The Struggle for Black Equality, 1954-1992_ (New York: Hill and Wang, 1993), 28-35.
+
+[^54]: Howard Zinn, _A People's History of the United States_ (New York: Harper & Row, 1980), 424-428.
+
+[^55]: Nigel Hamilton, _Monty: Final Years of the Field-Marshal, 1944-1976_ (New York: McGraw-Hill, 1987), 178-195.
+
+[^56]: John Kenneth Galbraith, _The Affluent Society_ (Boston: Houghton Mifflin, 1958), 251-268.
+
+[^57]: Nichols, _A Matter of Justice_, 8-17.
+
+[^58]: Ambrose, _Eisenhower: Soldier and President_, 407-412.
+
 [^59]: Richard Nixon, "Remarks at a Dinner Honoring Dwight D. Eisenhower," October 14, 1960.
+
 [^60]: Dwight D. Eisenhower, Speech in Ottawa, Canada, January 10, 1946.
+
 [^61]: Eisenhower, "Farewell Address," January 17, 1961.
-[^62]: Dwight D. Eisenhower, cited in *The New York Times*, May 10, 1965.
+
+[^62]: Dwight D. Eisenhower, cited in _The New York Times_, May 10, 1965.
+
 [^63]: Dwight D. Eisenhower, "The Chance for Peace," Address to the American Society of Newspaper Editors, April 16, 1953.
+
 [^64]: Dwight D. Eisenhower, "Inaugural Address," January 20, 1953.
+
 [^65]: Dwight D. Eisenhower, Speech at Dartmouth College, June 14, 1953.

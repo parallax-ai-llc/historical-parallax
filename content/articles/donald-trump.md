@@ -3,7 +3,14 @@ id: "donald-trump"
 name: "Donald Trump"
 birth: "1946-06-14"
 nationality: "United States"
-occupation: ["Businessman", "Real Estate Developer", "Television Personality", "Politician", "45th and 47th President of the United States"]
+occupation:
+  [
+    "Businessman",
+    "Real Estate Developer",
+    "Television Personality",
+    "Politician",
+    "45th and 47th President of the United States",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Donald_Trump"
@@ -150,34 +157,34 @@ The transformation of the Republican Party into "the Party of Trump" concerns sc
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1946 | Born June 14 in Queens, New York City |
-| 1964 | Begins studies at Fordham University |
-| 1966 | Transfers to Wharton School, University of Pennsylvania |
-| 1968 | Graduates with B.S. in Economics; joins father's real estate business |
-| 1974 | Becomes president of Trump Organization |
-| 1977 | Marries Ivana Zelníčková; son Donald Jr. born |
-| 1981 | Daughter Ivanka born |
-| 1983 | Trump Tower opens on Fifth Avenue |
-| 1984 | Son Eric born |
-| 1987 | Publishes "The Art of the Deal" |
-| 1992 | Divorces Ivana Trump |
-| 1993 | Daughter Tiffany born; marries Marla Maples |
-| 1999 | Divorces Marla Maples |
-| 2004 | "The Apprentice" premieres on NBC |
-| 2005 | Marries Melania Knauss |
-| 2006 | Son Barron born |
-| 2015 | Announces presidential candidacy on June 16 |
-| 2016 | Elected 45th President of the United States |
-| 2017 | Inaugurated January 20; appoints Neil Gorsuch to Supreme Court |
-| 2018 | Appoints Brett Kavanaugh to Supreme Court; begins China trade war |
-| 2019 | Impeached by House on December 18 for abuse of power and obstruction of Congress |
+| Year | Event                                                                                                                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1946 | Born June 14 in Queens, New York City                                                                                                                              |
+| 1964 | Begins studies at Fordham University                                                                                                                               |
+| 1966 | Transfers to Wharton School, University of Pennsylvania                                                                                                            |
+| 1968 | Graduates with B.S. in Economics; joins father's real estate business                                                                                              |
+| 1974 | Becomes president of Trump Organization                                                                                                                            |
+| 1977 | Marries Ivana Zelníčková; son Donald Jr. born                                                                                                                      |
+| 1981 | Daughter Ivanka born                                                                                                                                               |
+| 1983 | Trump Tower opens on Fifth Avenue                                                                                                                                  |
+| 1984 | Son Eric born                                                                                                                                                      |
+| 1987 | Publishes "The Art of the Deal"                                                                                                                                    |
+| 1992 | Divorces Ivana Trump                                                                                                                                               |
+| 1993 | Daughter Tiffany born; marries Marla Maples                                                                                                                        |
+| 1999 | Divorces Marla Maples                                                                                                                                              |
+| 2004 | "The Apprentice" premieres on NBC                                                                                                                                  |
+| 2005 | Marries Melania Knauss                                                                                                                                             |
+| 2006 | Son Barron born                                                                                                                                                    |
+| 2015 | Announces presidential candidacy on June 16                                                                                                                        |
+| 2016 | Elected 45th President of the United States                                                                                                                        |
+| 2017 | Inaugurated January 20; appoints Neil Gorsuch to Supreme Court                                                                                                     |
+| 2018 | Appoints Brett Kavanaugh to Supreme Court; begins China trade war                                                                                                  |
+| 2019 | Impeached by House on December 18 for abuse of power and obstruction of Congress                                                                                   |
 | 2020 | Acquitted by Senate February 5; appoints Amy Coney Barrett to Supreme Court; brokers Abraham Accords; loses reelection to Joe Biden; launches Operation Warp Speed |
-| 2021 | January 6 Capitol attack; impeached second time; leaves office January 20 |
-| 2023 | Indicted in four criminal cases (federal and state) |
-| 2024 | Convicted on 34 felony counts in New York; elected 47th President |
-| 2025 | Inaugurated for second term January 20; pardons all January 6 defendants |
+| 2021 | January 6 Capitol attack; impeached second time; leaves office January 20                                                                                          |
+| 2023 | Indicted in four criminal cases (federal and state)                                                                                                                |
+| 2024 | Convicted on 34 felony counts in New York; elected 47th President                                                                                                  |
+| 2025 | Inaugurated for second term January 20; pardons all January 6 defendants                                                                                           |
 
 ---
 
@@ -198,189 +205,375 @@ The transformation of the Republican Party into "the Party of Trump" concerns sc
 ## References
 
 [^1]: [Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)
+
 [^2]: [Donald Trump: Presidency, Family, Education | HISTORY](https://www.history.com/articles/donald-trump)
+
 [^3]: [How America Changed During Donald Trump's Presidency](https://www.pewresearch.org/politics/2021/01/29/how-america-changed-during-donald-trumps-presidency/)
+
 [^4]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^5]: [Early life and education of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_education_of_Donald_Trump)
+
 [^6]: [Donald Trump | Birthday, Age, Education, Biography, Impeachments, & Military Parade | Britannica](https://www.britannica.com/biography/Donald-Trump)
+
 [^7]: [Donald Trump: Life Before the Presidency | Miller Center](https://millercenter.org/president/trump/life-presidency)
+
 [^8]: [Donald J. Trump - White House Historical Association](https://www.whitehousehistory.org/bios/donald-j-trump)
+
 [^9]: [Donald Trump: Biography, U.S. President, Businessman](https://www.biography.com/political-figures/donald-trump)
+
 [^10]: [Early life and education of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_education_of_Donald_Trump)
+
 [^11]: [Donald Trump | National Geographic Kids](https://kids.nationalgeographic.com/history/article/donald-trump)
+
 [^12]: [Donald Trump: Life Before the Presidency | Miller Center](https://millercenter.org/president/trump/life-presidency)
+
 [^13]: [Early life and education of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_education_of_Donald_Trump)
+
 [^14]: [Donald J. Trump | The White House](https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/donald-j-trump/)
+
 [^15]: [Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)
+
 [^16]: [President Donald J. Trump | Donald J. Trump Presidential Library](https://www.trumplibrary.gov/trumps/president-donald-j-trump)
+
 [^17]: [Donald Trump: Life Before the Presidency | Miller Center](https://millercenter.org/president/trump/life-presidency)
+
 [^18]: [Business career of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump)
+
 [^19]: [The Trump Organization - Wikipedia](https://en.wikipedia.org/wiki/The_Trump_Organization)
+
 [^20]: [Donald Trump: Life Before the Presidency | Miller Center](https://millercenter.org/president/trump/life-presidency)
+
 [^21]: [Timeline & History | The Trump Organization](https://www.trump.com/timeline)
+
 [^22]: [Business career of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump)
+
 [^23]: [The Trump Organization - Wikipedia](https://en.wikipedia.org/wiki/The_Trump_Organization)
+
 [^24]: [Business career of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump)
+
 [^25]: [Trump's Property: A Comprehensive Overview Of Donald Trump's Real Estate Ventures](https://marineagronomy.org/newserx/48713-trump-amp-039-s-property-a-comprehensive-overview-of-donald-trump-amp-039-s-real-estate-ventures)
+
 [^26]: [Business career of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump)
+
 [^27]: [Donald Trump Business Career: From Real Estate to Global Brand Empire](https://www.factualamerica.com/trump-talk/tracing-the-entrepreneurial-journey-of-donald-trump)
+
 [^28]: [Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)
+
 [^29]: [Donald Trump: Biography, U.S. President, Businessman](https://www.biography.com/political-figures/donald-trump)
+
 [^30]: [Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)
+
 [^31]: [Donald Trump - Businessman, Politics, 2016 Election | Britannica](https://www.britannica.com/biography/Donald-Trump/Presidential-election-of-2016)
+
 [^32]: [Donald Trump 2016 presidential campaign - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump_2016_presidential_campaign)
+
 [^33]: [United States Presidential Election of 2016 | History, Candidates, & Facts | Britannica](https://www.britannica.com/topic/United-States-presidential-election-of-2016)
+
 [^34]: [Donald Trump presidential campaign, 2016 - Ballotpedia](https://ballotpedia.org/Donald_Trump_presidential_campaign,_2016)
+
 [^35]: [Donald Trump 2016 presidential campaign - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump_2016_presidential_campaign)
+
 [^36]: [First presidency of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/First_presidency_of_Donald_Trump)
+
 [^37]: [United States Presidential Election of 2016 | History, Candidates, & Facts | Britannica](https://www.britannica.com/topic/United-States-presidential-election-of-2016)
+
 [^38]: [How America Changed During Donald Trump's Presidency](https://www.pewresearch.org/politics/2021/01/29/how-america-changed-during-donald-trumps-presidency/)
+
 [^39]: [United States - Trump Presidency, Policies, America | Britannica](https://www.britannica.com/place/United-States/The-Donald-Trump-administration)
+
 [^40]: [Trump Administration Accomplishments](https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/)
+
 [^41]: [Trump Tariffs: The Economic Impact of the Trump Trade War](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/)
+
 [^42]: [Trump Administration Accomplishments](https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/)
+
 [^43]: [President Trump's lasting legacy | International Bar Association](https://www.ibanet.org/article/702c2a73-11cd-46a6-b238-f95c303dbe9e)
+
 [^44]: [List of federal judges appointed by Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_judges_appointed_by_Donald_Trump)
+
 [^45]: [How Trump's judge appointments compare with other presidents | Pew Research Center](https://www.pewresearch.org/short-reads/2021/01/13/how-trump-compares-with-other-recent-presidents-in-appointing-federal-judges/)
+
 [^46]: [List of federal judges appointed by Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_judges_appointed_by_Donald_Trump)
+
 [^47]: [The 19th Explains: How Trump has shaped federal courts and what we can expect next](https://19thnews.org/2025/01/trump-judges-federal-judiciary/)
+
 [^48]: [Foreign policy of the first Trump administration - Wikipedia](https://en.wikipedia.org/wiki/Foreign_policy_of_the_first_Trump_administration)
+
 [^49]: [The Abraham Accords - United States Department of State](https://2017-2021.state.gov/the-abraham-accords/)
+
 [^50]: [Abraham Accords - Wikipedia](https://en.wikipedia.org/wiki/Abraham_Accords)
+
 [^51]: [Trump's Foreign Policy: Key Decisions and Global Impact](https://www.ceotodaymagazine.com/2025/01/a-comprehensive-overview-of-donald-trumps-foreign-policy-key-actions-and-controversies/)
+
 [^52]: [United States - Trump Presidency, Policies, America | Britannica](https://www.britannica.com/place/United-States/The-Donald-Trump-administration)
+
 [^53]: [Trump Administration Accomplishments](https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/)
+
 [^54]: [First presidency of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/First_presidency_of_Donald_Trump)
+
 [^55]: [Operation Warp Speed - Wikipedia](https://en.wikipedia.org/wiki/Operation_Warp_Speed)
+
 [^56]: [Remarks by President Trump at the Operation Warp Speed Vaccine Summit](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-operation-warp-speed-vaccine-summit/)
+
 [^57]: [Effectiveness of COVID-19 Vaccines Under Operation Warp Speed - NAM](https://nam.edu/news-and-insights/statement-on-effectiveness-of-covid-19-vaccines-under-operation-warp-speed/)
+
 [^58]: [U.S. federal government response to the COVID-19 pandemic - Wikipedia](https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic)
+
 [^59]: [China–United States trade war - Wikipedia](https://en.wikipedia.org/wiki/China–United_States_trade_war)
+
 [^60]: [Trump Tariffs: The Economic Impact of the Trump Trade War](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/)
+
 [^61]: [Tariffs in the first Trump administration - Wikipedia](https://en.wikipedia.org/wiki/Tariffs_in_the_first_Trump_administration)
+
 [^62]: [China–United States trade war - Wikipedia](https://en.wikipedia.org/wiki/China–United_States_trade_war)
+
 [^63]: [First presidency of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/First_presidency_of_Donald_Trump)
+
 [^64]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^65]: [Trump Administration Accomplishments](https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/)
+
 [^66]: [How America Changed During Donald Trump's Presidency](https://www.pewresearch.org/politics/2021/01/29/how-america-changed-during-donald-trumps-presidency/)
+
 [^67]: [Efforts to impeach Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Efforts_to_impeach_Donald_Trump)
+
 [^68]: [First impeachment of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/First_impeachment_of_Donald_Trump)
+
 [^69]: [First impeachment of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/First_impeachment_of_Donald_Trump)
+
 [^70]: [January 6 United States Capitol attack - Wikipedia](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
+
 [^71]: [January 6 U.S. Capitol Attack | Background, Events, Criminal Charges, & Facts | Britannica](https://www.britannica.com/event/January-6-U-S-Capitol-attack)
+
 [^72]: [Transcript Of Trump's Speech At Rally Before Capitol Riot : NPR](https://www.npr.org/2021/02/10/966396848/read-trumps-jan-6-speech-a-key-part-of-impeachment-trial)
+
 [^73]: [January 6 United States Capitol attack - Wikipedia](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
+
 [^74]: [Efforts to impeach Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Efforts_to_impeach_Donald_Trump)
+
 [^75]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^76]: [2024 United States presidential election - Wikipedia](https://en.wikipedia.org/wiki/2024_United_States_presidential_election)
+
 [^77]: [The January 6 Attack on the U.S. Capitol - American Oversight](https://americanoversight.org/investigation/the-january-6-attack-on-the-u-s-capitol/)
+
 [^78]: [Trump 'lit that fire' of Capitol insurrection, Jan 6 Committee report says](https://www.pbs.org/newshour/politics/trump-lit-that-fire-of-capitol-insurrection-jan-6-committee-report-says)
+
 [^79]: [Indictments against Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump)
+
 [^80]: [Donald Trump indictments, 2023-2025 - Ballotpedia](https://ballotpedia.org/Donald_Trump_indictments,_2023-2025)
+
 [^81]: [Donald Trump indictments, 2023-2025 - Ballotpedia](https://ballotpedia.org/Donald_Trump_indictments,_2023-2025)
+
 [^82]: [The Criminal Trials of Donald Trump | Lawfare](https://www.lawfaremedia.org/projects-series/archived-projects/the-trump-trials)
+
 [^83]: [Donald Trump indictments, 2023-2025 - Ballotpedia](https://ballotpedia.org/Donald_Trump_indictments,_2023-2025)
+
 [^84]: [Public image of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Public_image_of_Donald_Trump)
+
 [^85]: [Trump and the language of insurrection | BrandeisNOW](https://www.brandeis.edu/now/2021/january/trump-language-capitol-riot-mcintosh.html)
+
 [^86]: [Public image of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Public_image_of_Donald_Trump)
+
 [^87]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^88]: [Business career of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump)
+
 [^89]: [The Trump Organization - Wikipedia](https://en.wikipedia.org/wiki/The_Trump_Organization)
+
 [^90]: [Business career of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump)
+
 [^91]: [The Trump Organization - Wikipedia](https://en.wikipedia.org/wiki/The_Trump_Organization)
+
 [^92]: [U.S. federal government response to the COVID-19 pandemic - Wikipedia](https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic)
+
 [^93]: [Coronavirus Response – The White House](https://trumpwhitehouse.archives.gov/issues/coronavirus/)
+
 [^94]: [U.S. federal government response to the COVID-19 pandemic - Wikipedia](https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic)
+
 [^95]: [Operation Warp Speed Was One of Trump's Biggest Achievements. Then Came RFK Jr. and Vaccine Skeptics](https://www.usnews.com/news/health-news/articles/2025-09-05/operation-warp-speed-was-one-of-trumps-biggest-achievements-then-came-rfk-jr-and-vaccine-skeptics)
+
 [^96]: [Trump family - Wikipedia](https://en.wikipedia.org/wiki/Trump_family)
+
 [^97]: [Family of Donald Trump](https://en.wikipedia.org/wiki/Family_of_Donald_Trump)
+
 [^98]: [Donald Trump: Family Life | Miller Center](https://millercenter.org/president/trump/family-life)
+
 [^99]: [Donald Trump is a dad of 5, grandfather of 11: What to know about his family - Good Morning America](https://www.goodmorningamerica.com/family/story/donald-trump-kids-grandchildren-112162844)
+
 [^100]: [Trump family - Wikipedia](https://en.wikipedia.org/wiki/Trump_family)
+
 [^101]: [Family of Donald Trump](https://en.wikipedia.org/wiki/Family_of_Donald_Trump)
+
 [^102]: [Trump family - Wikipedia](https://en.wikipedia.org/wiki/Trump_family)
+
 [^103]: [Learn more about Donald Trump's 5 children: Donald Jr., Ivanka, Eric, Tiffany and Barron](https://www.today.com/parents/celebrity/donald-trump-kids-rcna152803)
+
 [^104]: [Melania Trump - Wikipedia](https://en.wikipedia.org/wiki/Melania_Trump)
+
 [^105]: [First Lady Melania Trump](https://www.whitehouse.gov/administration/melania-trump/)
+
 [^106]: [Donald Trump: Family Life | Miller Center](https://millercenter.org/president/trump/family-life)
+
 [^107]: [Family of Donald Trump](https://en.wikipedia.org/wiki/Family_of_Donald_Trump)
+
 [^108]: [How old is Melania Trump? A look at the Trump family | FOX 5 DC](https://www.fox5dc.com/news/how-old-is-melania-trump-look-trump-family-2025)
+
 [^109]: [Donald Trump is a dad of 5, grandfather of 11: What to know about his family - Good Morning America](https://www.goodmorningamerica.com/family/story/donald-trump-kids-grandchildren-112162844)
+
 [^110]: [Donald Trump is a dad of 5, grandfather of 11: What to know about his family - Good Morning America](https://www.goodmorningamerica.com/family/story/donald-trump-kids-grandchildren-112162844)
+
 [^111]: [Public image of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Public_image_of_Donald_Trump)
+
 [^112]: [Donald Trump: Biography, U.S. President, Businessman](https://www.biography.com/political-figures/donald-trump)
+
 [^113]: [Trump family - Wikipedia](https://en.wikipedia.org/wiki/Trump_family)
+
 [^114]: [Donald Trump: Family Life | Miller Center](https://millercenter.org/president/trump/family-life)
+
 [^115]: [Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)
+
 [^116]: [Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)
+
 [^117]: [First presidency of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/First_presidency_of_Donald_Trump)
+
 [^118]: [Family of Donald Trump](https://en.wikipedia.org/wiki/Family_of_Donald_Trump)
+
 [^119]: [Learn more about Donald Trump's 5 children: Donald Jr., Ivanka, Eric, Tiffany and Barron](https://www.today.com/parents/celebrity/donald-trump-kids-rcna152803)
+
 [^120]: [First presidency of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/First_presidency_of_Donald_Trump)
+
 [^121]: [Ten Historians Assess the Trump Presidency](https://www.americanheritage.com/ten-historians-assess-trump-presidency-and-recent-crisis)
+
 [^122]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^123]: [President Trump's lasting legacy | International Bar Association](https://www.ibanet.org/article/702c2a73-11cd-46a6-b238-f95c303dbe9e)
+
 [^124]: [List of federal judges appointed by Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_judges_appointed_by_Donald_Trump)
+
 [^125]: [The 19th Explains: How Trump has shaped federal courts and what we can expect next](https://19thnews.org/2025/01/trump-judges-federal-judiciary/)
+
 [^126]: [President Trump's lasting legacy | International Bar Association](https://www.ibanet.org/article/702c2a73-11cd-46a6-b238-f95c303dbe9e)
+
 [^127]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^128]: [How Trump won a second term as president in 2024 : NPR](https://www.npr.org/2024/11/06/g-s1-33007/how-trump-won-policies)
+
 [^129]: [Trump's legacy: shattering 200 years of American politics | Al Majalla](https://en.majalla.com/node/327728/politics/trump%E2%80%99s-legacy-shattering-200-years-american-politics)
+
 [^130]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^131]: [Trump's Legacy: The Long-term Risks to American Democracy](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1673&context=facultyarticles)
+
 [^132]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^133]: [The Presidency of Donald J. Trump: A First Historical Assessment | Department of History](https://history.princeton.edu/about/publications/presidency-donald-j-trump-first-historical-assessment)
+
 [^134]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^135]: [Public image of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Public_image_of_Donald_Trump)
+
 [^136]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^137]: [The Presidency of Donald J. Trump: A First Historical Assessment | Department of History](https://history.princeton.edu/about/publications/presidency-donald-j-trump-first-historical-assessment)
+
 [^138]: [Foreign policy of the first Trump administration - Wikipedia](https://en.wikipedia.org/wiki/Foreign_policy_of_the_first_Trump_administration)
+
 [^139]: [Trump's Foreign Policy: Impact And Analysis](https://dear.ie/blog/trumps-foreign-policy-impact-and)
+
 [^140]: [Donald Trump Is Assessed by Historians](https://foreignpolicy.com/2022/04/03/trump-presidency-history-journalism-legacy-zelizer/)
+
 [^141]: [The Abraham Accords - United States Department of State](https://2017-2021.state.gov/the-abraham-accords/)
+
 [^142]: [Donald Trump wins 2nd term in historic return to White House - ABC News](https://abcnews.go.com/Politics/donald-trump-wins-2nd-term-historic-return-white/story?id=115358710)
+
 [^143]: [How Donald Trump Won the 2024 Election | TIME](https://time.com/7172052/how-donald-trump-won-2024/)
+
 [^144]: [Second presidency of Donald Trump - Wikipedia](https://en.wikipedia.org/wiki/Second_presidency_of_Donald_Trump)
+
 [^145]: [Trump's Legacy: The Long-term Risks to American Democracy](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1673&context=facultyarticles)
+
 [^146]: [The Presidency of Donald J. Trump: A First Historical Assessment | Department of History](https://history.princeton.edu/about/publications/presidency-donald-j-trump-first-historical-assessment)
+
 [^147]: [US Congress certifies Donald Trump's victory in 2024 presidential election | Politics News | Al Jazeera](https://www.aljazeera.com/news/2025/1/6/us-congress-certifies-donald-trumps-victory-in-2024-presidential-election)
+
 [^148]: [Trump's Legacy: The Long-term Risks to American Democracy](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1673&context=facultyarticles)
+
 [^149]: [Ten Historians Assess the Trump Presidency](https://www.americanheritage.com/ten-historians-assess-trump-presidency-and-recent-crisis)
+
 [^150]: [President Trump's lasting legacy | International Bar Association](https://www.ibanet.org/article/702c2a73-11cd-46a6-b238-f95c303dbe9e)
+
 [^151]: [The 19th Explains: How Trump has shaped federal courts and what we can expect next](https://19thnews.org/2025/01/trump-judges-federal-judiciary/)
+
 [^152]: [Trump Administration Accomplishments](https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/)
+
 [^153]: [Trump Tariffs: The Economic Impact of the Trump Trade War](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/)
+
 [^154]: [Trump Administration Accomplishments](https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/)
+
 [^155]: [Operation Warp Speed - Wikipedia](https://en.wikipedia.org/wiki/Operation_Warp_Speed)
+
 [^156]: [Effectiveness of COVID-19 Vaccines Under Operation Warp Speed - NAM](https://nam.edu/news-and-insights/statement-on-effectiveness-of-covid-19-vaccines-under-operation-warp-speed/)
+
 [^157]: [Operation Warp Speed Was One of Trump's Biggest Achievements. Then Came RFK Jr. and Vaccine Skeptics](https://www.usnews.com/news/health-news/articles/2025-09-05/operation-warp-speed-was-one-of-trumps-biggest-achievements-then-came-rfk-jr-and-vaccine-skeptics)
+
 [^158]: [The Abraham Accords - United States Department of State](https://2017-2021.state.gov/the-abraham-accords/)
+
 [^159]: [Abraham Accords - Wikipedia](https://en.wikipedia.org/wiki/Abraham_Accords)
+
 [^160]: [What's Next for the Abraham Accords Under President Trump? | AJC](https://www.ajc.org/news/podcast/whats-next-for-the-abraham-accords-under-president-trump)
+
 [^161]: [How Trump won a second term as president in 2024 : NPR](https://www.npr.org/2024/11/06/g-s1-33007/how-trump-won-policies)
+
 [^162]: [The Presidency of Donald J. Trump | Princeton University Press](https://press.princeton.edu/books/paperback/9780691228945/the-presidency-of-donald-j-trump)
+
 [^163]: [Donald Trump wins 2nd term in historic return to White House - ABC News](https://abcnews.go.com/Politics/donald-trump-wins-2nd-term-historic-return-white/story?id=115358710)
+
 [^164]: [Trump's Legacy: The Long-term Risks to American Democracy](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1673&context=facultyarticles)
+
 [^165]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^166]: [The Presidency of Donald J. Trump: A First Historical Assessment | Department of History](https://history.princeton.edu/about/publications/presidency-donald-j-trump-first-historical-assessment)
+
 [^167]: [January 6 United States Capitol attack - Wikipedia](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
+
 [^168]: [Trump 'lit that fire' of Capitol insurrection, Jan 6 Committee report says](https://www.pbs.org/newshour/politics/trump-lit-that-fire-of-capitol-insurrection-jan-6-committee-report-says)
+
 [^169]: ["Trump has called all patriots": 210 Jan. 6th criminal defendants say Trump incited them - CREW](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-incited-january-6-defendants/)
+
 [^170]: [January 6 United States Capitol attack - Wikipedia](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
+
 [^171]: [The Presidency of Donald J. Trump | Princeton University Press](https://press.princeton.edu/books/paperback/9780691228945/the-presidency-of-donald-j-trump)
+
 [^172]: [Donald Trump Is Assessed by Historians](https://foreignpolicy.com/2022/04/03/trump-presidency-history-journalism-legacy-zelizer/)
+
 [^173]: [Trump's Foreign Policy: Impact And Analysis](https://dear.ie/blog/trumps-foreign-policy-impact-and)
+
 [^174]: [The first academic volume on the presidency of Donald J. Trump, reviewed.](https://slate.com/news-and-politics/2022/04/presidency-of-donald-j-trump-a-first-historical-assessment-reviewed.html)
+
 [^175]: [The Presidency of Donald J. Trump: A First Historical Assessment | Department of History](https://history.princeton.edu/about/publications/presidency-donald-j-trump-first-historical-assessment)
+
 [^176]: [Trump and the language of insurrection | BrandeisNOW](https://www.brandeis.edu/now/2021/january/trump-language-capitol-riot-mcintosh.html)
+
 [^177]: [U.S. federal government response to the COVID-19 pandemic - Wikipedia](https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic)
+
 [^178]: [Coronavirus Response – The White House](https://trumpwhitehouse.archives.gov/issues/coronavirus/)
+
 [^179]: [U.S. federal government response to the COVID-19 pandemic - Wikipedia](https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic)
+
 [^180]: [Donald Trump: Impact and Legacy | Miller Center](https://millercenter.org/president/trump/impact-and-legacy)
+
 [^181]: [Trump's legacy: shattering 200 years of American politics | Al Majalla](https://en.majalla.com/node/327728/politics/trump%E2%80%99s-legacy-shattering-200-years-american-politics)
+
 [^182]: [Trump's Legacy: The Long-term Risks to American Democracy](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1673&context=facultyarticles)
+
 [^183]: [Read Donald Trump's 'America First' Foreign Policy Speech | TIME](https://time.com/4309786/read-donald-trumps-america-first-foreign-policy-speech/)
+
 [^184]: [Donald Trump Quotes - BrainyQuote](https://www.brainyquote.com/authors/donald-trump-quotes)
+
 [^185]: [Transcript Of Trump's Speech At Rally Before Capitol Riot : NPR](https://www.npr.org/2021/02/10/966396848/read-trumps-jan-6-speech-a-key-part-of-impeachment-trial)
+
 [^186]: [100 Donald Trump Quotes: Insightful, Controversial, and Unforgettable Words from the 45th and 47th President](https://www.finestofthefine.com/post/donald-trump-quotes)
+
 [^187]: [Top 10 Donald Trump Quotes - BrainyQuote](https://www.brainyquote.com/lists/authors/top-10-donald-trump-quotes)

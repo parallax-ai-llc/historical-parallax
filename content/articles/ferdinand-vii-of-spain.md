@@ -127,32 +127,32 @@ One historian summarized Ferdinand VII as having "the reputation of being the wo
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1784 | Born October 14 at El Escorial Palace, Spain |
-| 1802 | Married first wife, Maria Antonia of Naples and Sicily |
-| 1807 | Implicated in El Escorial Conspiracy against Manuel de Godoy |
-| 1808 | Mutiny of Aranjuez; father Charles IV abdicates in his favor (March 19) |
-| 1808 | Forced to abdicate at Bayonne by Napoleon (May 6) |
-| 1808 | Spanish people proclaim him king in absentia (August 24); Peninsular War begins |
-| 1808-1813 | Imprisoned at Château de Valençay, France |
-| 1812 | Liberal Constitution of Cádiz promulgated in his absence |
-| 1813 | Treaty of Valençay signed; Napoleon recognizes him as King of Spain (December 11) |
-| 1814 | Returns to Spain (March 22) |
-| 1814 | Abolishes Constitution of 1812 and restores absolutism (May 4) |
-| 1814 | Restores Spanish Inquisition (July 1) |
-| 1816 | Married second wife, Maria Isabel of Portugal |
-| 1819 | Married third wife, Maria Josepha Amalia of Saxony |
-| 1820 | Riego's revolt forces restoration of Constitution; Liberal Triennium begins (January-March) |
-| 1823 | French invasion by Hundred Thousand Sons of Saint Louis (April) |
-| 1823 | Absolutism restored; Ominous Decade begins (October 1) |
-| 1823 | General Rafael del Riego executed (November 7) |
-| 1824 | Issues deceptive "general pardon" decree (May 11) |
-| 1825 | Guerrilla hero El Empecinado executed (August 19) |
-| 1829 | Married fourth wife, Maria Christina of the Two Sicilies (December 12) |
-| 1830 | Issues Pragmatic Sanction allowing female succession (March 29) |
-| 1830 | Daughter Isabella II born (October 10) |
-| 1833 | Died September 29 in Madrid; First Carlist War begins |
+| Year      | Event                                                                                       |
+| --------- | ------------------------------------------------------------------------------------------- |
+| 1784      | Born October 14 at El Escorial Palace, Spain                                                |
+| 1802      | Married first wife, Maria Antonia of Naples and Sicily                                      |
+| 1807      | Implicated in El Escorial Conspiracy against Manuel de Godoy                                |
+| 1808      | Mutiny of Aranjuez; father Charles IV abdicates in his favor (March 19)                     |
+| 1808      | Forced to abdicate at Bayonne by Napoleon (May 6)                                           |
+| 1808      | Spanish people proclaim him king in absentia (August 24); Peninsular War begins             |
+| 1808-1813 | Imprisoned at Château de Valençay, France                                                   |
+| 1812      | Liberal Constitution of Cádiz promulgated in his absence                                    |
+| 1813      | Treaty of Valençay signed; Napoleon recognizes him as King of Spain (December 11)           |
+| 1814      | Returns to Spain (March 22)                                                                 |
+| 1814      | Abolishes Constitution of 1812 and restores absolutism (May 4)                              |
+| 1814      | Restores Spanish Inquisition (July 1)                                                       |
+| 1816      | Married second wife, Maria Isabel of Portugal                                               |
+| 1819      | Married third wife, Maria Josepha Amalia of Saxony                                          |
+| 1820      | Riego's revolt forces restoration of Constitution; Liberal Triennium begins (January-March) |
+| 1823      | French invasion by Hundred Thousand Sons of Saint Louis (April)                             |
+| 1823      | Absolutism restored; Ominous Decade begins (October 1)                                      |
+| 1823      | General Rafael del Riego executed (November 7)                                              |
+| 1824      | Issues deceptive "general pardon" decree (May 11)                                           |
+| 1825      | Guerrilla hero El Empecinado executed (August 19)                                           |
+| 1829      | Married fourth wife, Maria Christina of the Two Sicilies (December 12)                      |
+| 1830      | Issues Pragmatic Sanction allowing female succession (March 29)                             |
+| 1830      | Daughter Isabella II born (October 10)                                                      |
+| 1833      | Died September 29 in Madrid; First Carlist War begins                                       |
 
 ---
 
@@ -171,96 +171,189 @@ One historian summarized Ferdinand VII as having "the reputation of being the wo
 ## References
 
 [^1]: [Ferdinand VII - Wikipedia](https://en.wikipedia.org/wiki/Ferdinand_VII)
+
 [^2]: [Ferdinand VII of Spain | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Ferdinand_VII_of_Spain)
+
 [^3]: [Ferdinand Vii | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/ferdinand-vii)
+
 [^4]: [Ferdinand VII of Spain (1784–1833) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/ferdinand-vii-spain-1784-1833)
+
 [^5]: [Ferdinand VII | King of Spain, Imprisonment by Napoleon, Reinstatement | Britannica](https://www.britannica.com/biography/Ferdinand-VII)
+
 [^6]: [King Ferdinand VII of Spain | Unofficial Royalty](https://www.unofficialroyalty.com/king-ferdinand-vii-of-spain/)
+
 [^7]: [Ferdinand VII - King of Spain](https://www.napoleon-empire.org/en/personalities/ferdinand_VII.php)
+
 [^8]: [Juan Escoiquiz - Wikipedia](https://en.wikipedia.org/wiki/Juan_Escoiquiz)
+
 [^9]: [Ferdinand VII - La Galería de las Colecciones Reales](https://www.galeriadelascoleccionesreales.es/en/monarch/ferdinand-vii/42180d6f-1b0d-20a9-98ae-4eca7541c410)
-[^10]: [Ferdinand VII of Spain _ AcademiaLab](https://academia-lab.com/encyclopedia/ferdinand-vii-of-spain/)
+
+[^10]: [Ferdinand VII of Spain \_ AcademiaLab](https://academia-lab.com/encyclopedia/ferdinand-vii-of-spain/)
+
 [^11]: [Ferdinand VII of Spain: Biography - Maestrovirtuale.com](https://maestrovirtuale.com/en/fernando-vii-of-spain-biography/)
+
 [^12]: [Ferdinand of Bourbon, Prince of Asturias | Heirs to the Throne Project](http://heirstothethrone-project.net/?page_id=1583)
+
 [^13]: [Tumult of Aranjuez - Wikipedia](https://en.wikipedia.org/wiki/Tumult_of_Aranjuez)
+
 [^14]: [Revolt of Aranjuez | Spanish history | Britannica](https://www.britannica.com/topic/Revolt-of-Aranjuez)
+
 [^15]: [Mutiny of Aranjuez - Alchetron, The Free Social Encyclopedia](https://alchetron.com/Mutiny-of-Aranjuez)
+
 [^16]: [Tumult of Aranjuez](https://grokipedia.com/page/Tumult_of_Aranjuez)
+
 [^17]: [Abdication in Spain | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/abdication-in-spain/)
+
 [^18]: [Abdications of Bayonne - Wikipedia](https://en.wikipedia.org/wiki/Abdications_of_Bayonne)
+
 [^19]: [Peninsular War - Wikipedia](https://en.wikipedia.org/wiki/Peninsular_War)
+
 [^20]: [Reign of Ferdinand VII of Spain - Wikipedia](https://en.wikipedia.org/wiki/Reign_of_Ferdinand_VII_of_Spain)
+
 [^21]: [Treaty of Valençay - Wikipedia](https://en.wikipedia.org/wiki/Treaty_of_Valen%C3%A7ay)
+
 [^22]: [Peninsular War - World History Encyclopedia](https://www.worldhistory.org/Peninsular_War/)
+
 [^23]: [Peninsular War | Encyclopedia.com](https://www.encyclopedia.com/history/modern-europe/wars-and-battles/peninsular-war)
+
 [^24]: [Ferdinand VII of Spain - Abdication and Restoration](https://www.primidi.com/ferdinand_vii_of_spain/abdication_and_restoration)
+
 [^25]: [UsefulNotes / Ferdinand VII - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/FerdinandVII)
+
 [^26]: [December 11 1813: Treaty of Valençay | pastnow](https://pastnow.wordpress.com/2013/12/11/december-11-1813-treaty-of-valencay/)
+
 [^27]: [Treaty of Valençay: Background, Causes and Consequences - Maestrovirtuale.com](https://maestrovirtuale.com/en/Valencay-Treaty--Background--Causes-and-Consequences/)
+
 [^28]: [Treaty of Valençay | Historical Atlas of Europe (11 December 1813) | Omniatlas](https://omniatlas.com/maps/europe/18131211/)
+
 [^29]: [Spanish Constitution of 1812 - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1812)
+
 [^30]: [The Absolutism Restoration Process of Ferdinand VII - Ministerio de Cultura](https://www.cultura.gob.es/en/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/las-independencias-iberoamericanas/tercera-fase-1814-1820/restauracion-absolutista.html)
+
 [^31]: [Ferdinand VII's Reign: Absolutism, Liberalism, and Crisis in Spain - Student Notes](https://www.student-notes.net/ferdinand-viis-reign-absolutism-liberalism-and-crisis-in-spain/)
+
 [^32]: [Spain, Constitution of 1812 | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/spain-constitution-1812)
+
 [^33]: [A brief history of Spain - Part 16, Ferdinand VII (1808, 1814 – 1843)](https://inspain.news/a-brief-history-of-spain-part-16-ferdinand-vii-1808-1814-1843/)
+
 [^34]: [Spanish Inquisition - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Inquisition)
+
 [^35]: [Spanish Inquisition - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Spanish_Inquisition)
-[^36]: [History of Spain (1808–1874) - Wikipedia](https://en.wikipedia.org/wiki/History_of_Spain_(1808–1874))
+
+[^36]: [History of Spain (1808–1874) - Wikipedia](<https://en.wikipedia.org/wiki/History_of_Spain_(1808–1874)>)
+
 [^37]: [Década Ominosa (Ominous Decade) (1823-1833) - Ministerio de Cultura](https://www.cultura.gob.es/en/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/las-independencias-iberoamericanas/cuarta-fase-1820-1830/decada-ominosa-1823-1833.html)
+
 [^38]: [Ominous Decade - Wikipedia](https://en.wikipedia.org/wiki/Ominous_Decade)
+
 [^39]: [Trienio Liberal - Wikipedia](https://en.wikipedia.org/wiki/Trienio_Liberal)
+
 [^40]: [The reign of Fernando VII | Liberalism and Nationalism (1789-1871)](https://centros.edu.xunta.gal/espazoAbalar/aulavirtual/pluginfile.php/711/mod_imscp/content/3/the_reign_of_fernando_vii.html)
+
 [^41]: [Ferdinand VII of Spain - Revolt](https://www.liquisearch.com/ferdinand_vii_of_spain/revolt)
+
 [^42]: [Ferdinand VII - Italian Masterpieces](https://www.ngv.vic.gov.au/italianmasterpieces/about/patronage/patron-data/ferdinand-vii.html)
+
 [^43]: [200 years since Riego's fall, liberal icon - thediplomatinspain.com](https://thediplomatinspain.com/en/2023/01/05/200-years-since-riegos-fall-liberal-icon-in-the-hundred-thousand-sons-of-st-louis-land/)
+
 [^44]: [Trienio Liberal (Liberal Triennium) (1820-1823) - Ministerio de Cultura](https://www.cultura.gob.es/en/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/las-independencias-iberoamericanas/cuarta-fase-1820-1830/trienio-liberal-1820-1823.html)
+
 [^45]: [History of Spain (1814-1873) - Liberal Triennium (1820–1823)](https://www.liquisearch.com/history_of_spain_1814-1873/liberal_triennium_1820–1823)
+
 [^46]: [The Liberal Triennium 1820-1823](https://onwar.com/data/spain1820.html)
+
 [^47]: [Trienio Liberal](https://grokipedia.com/page/Trienio_Liberal)
+
 [^48]: [Research Query: Ferdinand VII during the Trienio Liberal, 1820-1823 | H-Net](https://networks.h-net.org/node/25321/discussions/63794/research-query-ferdinand-vii-during-trienio-liberal-1820-1823)
+
 [^49]: [1820 The Spanish Reconquest is Aborted - War and Nation](https://research.kent.ac.uk/warandnation/1820-the-spanish-reconquest-is-aborted/)
+
 [^50]: [Spanish American Wars of Independence](https://www.spanishwars.net/19th-century-spanish-american-wars-of-independence.html)
+
 [^51]: [The Spanish Army and the Loss of America, 1810-1824 | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/48/4/586/157921/The-Spanish-Army-and-the-Loss-of-America-1810-1824)
+
 [^52]: [History of Latin America - Independence, Revolutions, Nations | Britannica](https://www.britannica.com/place/Latin-America/The-independence-of-Latin-America)
+
 [^53]: [The independence of Latin American nations](https://baripedia.org/wiki/The_independence_of_Latin_American_nations)
+
 [^54]: [Spain and the Latin American Wars of Independence | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/61/2/209/148736/Spain-and-the-Latin-American-Wars-of-Independence)
+
 [^55]: [Statewide Dual Credit World History - OER Commons](https://oercommons.org/courseware/lesson/87920/student-old/)
+
 [^56]: [The independence of Latin American countries - History of Spain](https://historyofspain.es/en/the-independence-of-latin-american-countries/)
+
 [^57]: [Pragmatic Sanction of King Ferdinand VII | Britannica](https://www.britannica.com/topic/Pragmatic-Sanction-of-King-Ferdinand-VII)
+
 [^58]: [Maria Christina of the Two Sicilies - Wikipedia](https://en.wikipedia.org/wiki/Maria_Christina_of_the_Two_Sicilies)
+
 [^59]: [Maria Christina of the Two Sicilies](https://grokipedia.com/page/Maria_Christina_of_the_Two_Sicilies)
+
 [^60]: [Maria Christina of the Two Sicilies, Queen of Spain | Unofficial Royalty](https://www.unofficialroyalty.com/maria-christina-of-the-two-sicilies-queen-of-spain/)
+
 [^61]: [King Fernando VII and Wives | The Royal Forums](https://www.theroyalforums.com/threads/king-fernando-vii-and-wives-queens-maria-antonia-isabel-josepha-maria-cristina.15803/)
+
 [^62]: [Ferdinand VII Of Spain Biography - The Famous People](https://www.thefamouspeople.com/profiles/ferdinand-vii-of-spain-8944.php)
+
 [^63]: [The Four Wives of Ferdinand VII - napoleon.org](https://www.napoleon.org/en/magazine/press-review/the-four-wives-of-ferdinand-vii-in-spanish/)
+
 [^64]: [Ferdinand VII of Spain | Detailed Pedia](https://www.detailedpedia.com/wiki-Ferdinand_VII)
+
 [^65]: [Isabella II (1830–1904) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/isabella-ii-1830-1904)
+
 [^66]: [Carlist Wars | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/carlist-wars)
+
 [^67]: [Carlist Wars - Wikipedia](https://en.wikipedia.org/wiki/Carlist_Wars)
+
 [^68]: [Carlist Wars Unsettle Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/carlist-wars-unsettle-spain)
+
 [^69]: [First Carlist War - Spanish Wars](https://www.spanishwars.net/19th-century-first-carlist-war.html)
+
 [^70]: [First Carlist War - Wikipedia](https://en.wikipedia.org/wiki/First_Carlist_War)
+
 [^71]: [Carlist Civil Wars](https://www.heritage-history.com/index.php?c=resources&s=war-dir&f=wars_carlist)
+
 [^72]: [Isabella II - Wikipedia](https://en.wikipedia.org/wiki/Isabella_II)
+
 [^73]: [Carlism - Wikipedia](https://en.wikipedia.org/wiki/Carlism)
+
 [^74]: [The Felon King: Ferdinand VII in British Print Culture (1814–1833) | Bulletin of Spanish Studies](https://www.tandfonline.com/doi/abs/10.1080/14753820.2019.1633797)
+
 [^75]: [Ferdinand VII, King of Spain | Monarchies Wiki | Fandom](https://monarchies.fandom.com/wiki/Ferdinand_VII,_King_of_Spain)
+
 [^76]: [Ferdinand VII: The Desired King Turned Despot | Inspired America](https://www.inspiredamericahq.com/ferdinand-vii-the-desired-king-turned-despot)
+
 [^77]: [Ferdinand VII, Spain's Most Despicable King](https://www.factinate.com/people/facts-about-ferdinand-vii)
+
 [^78]: [Ferdinand VII of Spain](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=ferdinand7s)
+
 [^79]: [Ferdinand VII - Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095814710)
+
 [^80]: [Hundred Thousand Sons of Saint Louis - Wikipedia](https://en.wikipedia.org/wiki/Hundred_Thousand_Sons_of_Saint_Louis)
+
 [^81]: [Hundred Thousand Sons of Saint Louis | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Hundred_Thousand_Sons_of_Saint_Louis)
+
 [^82]: [The 1823 French Invasion of Spain - Shannon Selin](https://shannonselin.com/2015/09/1823-french-invasion-of-spain/)
+
 [^83]: [Franco-Spanish War 1823](https://onwar.com/data/francespain1823.html)
+
 [^84]: [200th anniversary of the Hundred Thousand Sons of St. Louis - thediplomatinspain.com](https://thediplomatinspain.com/en/2023/04/07/200th-anniversary-of-the-entry-of-the-hundred-thousand-sons-of-st-louis-into-spain/)
+
 [^85]: [Hundred Thousand Sons of Saint Louis | Historica Wiki | Fandom](https://historica.fandom.com/wiki/Hundred_Thousand_Sons_of_Saint_Louis)
+
 [^86]: [Hundred Thousand Sons of Saint Louis](https://wikideck.com/Hundred_Thousand_Sons_of_Saint_Louis)
+
 [^87]: [Hundred Thousand Sons of Saint Louis - Alchetron](https://alchetron.com/Hundred-Thousand-Sons-of-Saint-Louis)
+
 [^88]: [Portrait of Ferdinand VII - Goya - Museo Nacional Thyssen-Bornemisza](https://www.museothyssen.org/en/collection/artists/goya-francisco/portrait-ferdinand-vii)
+
 [^89]: [Portrait of King Ferdinand VII - Google Arts & Culture](https://artsandculture.google.com/asset/portrait-of-king-ferdinand-vii-retrato-del-rey-fernando-vii-francisco-de-goya-y-lucientes/YQE10YHik1LRqQ?hl=en)
+
 [^90]: [Portrait of King Ferdinand VII of Spain, 1815 - Alamy](https://www.alamy.com/portrait-of-king-ferdinand-vii-of-spain-1815-artist-goya-francisco-image60437083.html)
+
 [^91]: [Ferdinand VII at an Encampment - Museo Nacional del Prado](https://www.museodelprado.es/en/the-collection/art-work/ferdinand-vii-at-an-encampment/eb432c33-5391-4e84-b55f-14281c36d416)
+
 [^92]: [Portrait of Ferdinand VII, 1814 - WikiArt.org](https://www.wikiart.org/en/francisco-goya/portrait-of-ferdinand-vii-1814)
+
 [^93]: [Portrait of Ferdinand VII, 1814 by Francisco Goya](https://www.franciscogoya.com/portrait-of-ferdinand-vii.jsp)
+
 [^94]: [Ferdinand VII of Spain by Francisco de Goya](https://www.thehistoryofart.org/francisco-de-goya/portrait-of-ferdinand-vii-of-spain/)

@@ -127,28 +127,28 @@ Carter's leadership style, characterized by an obsessive attention to detail—h
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1924 | Born October 1 in Plains, Georgia |
-| 1946 | Graduated from U.S. Naval Academy; married Rosalynn Smith on July 7 |
-| 1946-1953 | Served in U.S. Navy, qualified for submarine duty, worked under Admiral Rickover in nuclear program |
-| 1953 | Left Navy following father's death; returned to Plains to run family peanut business |
-| 1962 | Elected to Georgia State Senate |
-| 1966 | Lost first gubernatorial campaign; became born-again Christian |
-| 1970 | Elected Governor of Georgia |
-| 1971 | Inaugurated as Georgia Governor; declared "the time for racial discrimination is over" |
-| 1974 | Announced presidential candidacy on December 12 |
-| 1976 | Won Democratic nomination; defeated Gerald Ford in presidential election |
-| 1977 | Inaugurated as 39th President; created Department of Energy |
-| 1978 | Brokered Camp David Accords between Egypt and Israel; signed Airline Deregulation Act |
-| 1979 | Egypt-Israel Peace Treaty signed March 26; Iranian hostage crisis began November 4; delivered "Crisis of Confidence" speech July 15 |
-| 1980 | Announced Olympic boycott; failed rescue mission Operation Eagle Claw; defeated by Ronald Reagan in landslide |
-| 1981 | Left office January 20; hostages released same day |
-| 1982 | Founded Carter Center with Rosalynn |
-| 1984 | Began volunteering with Habitat for Humanity |
-| 2002 | Awarded Nobel Peace Prize |
-| 2023 | Rosalynn Carter died November 19 |
-| 2024 | Died December 29 at age 100 in Plains, Georgia |
+| Year      | Event                                                                                                                               |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1924      | Born October 1 in Plains, Georgia                                                                                                   |
+| 1946      | Graduated from U.S. Naval Academy; married Rosalynn Smith on July 7                                                                 |
+| 1946-1953 | Served in U.S. Navy, qualified for submarine duty, worked under Admiral Rickover in nuclear program                                 |
+| 1953      | Left Navy following father's death; returned to Plains to run family peanut business                                                |
+| 1962      | Elected to Georgia State Senate                                                                                                     |
+| 1966      | Lost first gubernatorial campaign; became born-again Christian                                                                      |
+| 1970      | Elected Governor of Georgia                                                                                                         |
+| 1971      | Inaugurated as Georgia Governor; declared "the time for racial discrimination is over"                                              |
+| 1974      | Announced presidential candidacy on December 12                                                                                     |
+| 1976      | Won Democratic nomination; defeated Gerald Ford in presidential election                                                            |
+| 1977      | Inaugurated as 39th President; created Department of Energy                                                                         |
+| 1978      | Brokered Camp David Accords between Egypt and Israel; signed Airline Deregulation Act                                               |
+| 1979      | Egypt-Israel Peace Treaty signed March 26; Iranian hostage crisis began November 4; delivered "Crisis of Confidence" speech July 15 |
+| 1980      | Announced Olympic boycott; failed rescue mission Operation Eagle Claw; defeated by Ronald Reagan in landslide                       |
+| 1981      | Left office January 20; hostages released same day                                                                                  |
+| 1982      | Founded Carter Center with Rosalynn                                                                                                 |
+| 1984      | Began volunteering with Habitat for Humanity                                                                                        |
+| 2002      | Awarded Nobel Peace Prize                                                                                                           |
+| 2023      | Rosalynn Carter died November 19                                                                                                    |
+| 2024      | Died December 29 at age 100 in Plains, Georgia                                                                                      |
 
 ---
 
@@ -171,123 +171,243 @@ Carter's leadership style, characterized by an obsessive attention to detail—h
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Jimmy_Carter
+
 [^2]: https://www.nobelprize.org/prizes/peace/2002/carter/biographical/
+
 [^3]: https://www.nps.gov/jica/learn/historyculture/early-life.htm
+
 [^4]: https://guides.libraries.emory.edu/c.php?g=1355520&p=10007972
+
 [^5]: https://en.wikipedia.org/wiki/Jimmy_Carter
+
 [^6]: https://www.nps.gov/jica/learn/historyculture/early-life.htm
+
 [^7]: https://guides.libraries.emory.edu/c.php?g=1355520&p=10007972
+
 [^8]: https://guides.libraries.emory.edu/c.php?g=1355520&p=10007972
+
 [^9]: https://www.warhistoryonline.com/featured/jimmy-carter-us-navy.html
+
 [^10]: https://guides.libraries.emory.edu/c.php?g=1355520&p=10007972
+
 [^11]: https://www.ibiblio.org/lia/president/CarterLibrary/GeneralMaterials/Biographies/JimmyCarter-bio.html
+
 [^12]: https://www.ibiblio.org/lia/president/CarterLibrary/GeneralMaterials/Biographies/JimmyCarter-bio.html
+
 [^13]: https://www.history.navy.mil/browse-by-topic/people/presidents/carter.html
+
 [^14]: https://millercenter.org/president/carter/life-before-the-presidency
+
 [^15]: https://millercenter.org/president/carter/life-before-the-presidency
+
 [^16]: https://www.georgiaencyclopedia.org/articles/government-politics/jimmy-carter/
+
 [^17]: https://www.britannica.com/biography/Jimmy-Carter
+
 [^18]: https://www.shortform.com/blog/jimmy-carter-civil-rights/
+
 [^19]: https://www.georgiaencyclopedia.org/articles/government-politics/jimmy-carter/
+
 [^20]: https://millercenter.org/president/carter/life-before-the-presidency
+
 [^21]: https://georgiarecorder.com/2025/01/10/carter-ushered-in-new-era-of-race-relations-after-georgias-long-racially-segregated-history/
+
 [^22]: https://millercenter.org/president/carter/life-before-the-presidency
+
 [^23]: https://www.thenation.com/article/politics/jimmy-carter-obituary/
+
 [^24]: https://www.britannica.com/biography/Jimmy-Carter
+
 [^25]: https://www.britannica.com/biography/Jimmy-Carter
+
 [^26]: https://www.smithsonianmag.com/history/interview-playboy-magazine-nearly-torpedoed-jimmy-carters-presidential-campaign-180975576/
+
 [^27]: https://www.usip.org/publications/2025/01/jimmy-carter-and-unfinished-business-camp-david-accords
+
 [^28]: https://history.state.gov/milestones/1977-1980/camp-david
+
 [^29]: https://history.state.gov/milestones/1977-1980/camp-david
+
 [^30]: https://www.jimmycarterlibrary.gov/research/additional-resources/camp-david-accords/thirteen-days-after-twenty-five-years
+
 [^31]: https://www.history.com/articles/jimmy-carter-camp-david-accords-egypt-israel
+
 [^32]: https://www.brookings.edu/articles/the-legacy-of-president-jimmy-carter/
+
 [^33]: https://www.theregreview.org/2023/03/06/dudley-jimmy-carter-the-great-deregulator/
+
 [^34]: https://enotrans.org/article/jimmy-carter-1977-1981-transformational-deregulation-of-americas-transportation-system-and-more/
+
 [^35]: https://en.wikipedia.org/wiki/Airline_Deregulation_Act
+
 [^36]: https://en.wikipedia.org/wiki/Motor_Carrier_Act_of_1980
+
 [^37]: https://viewfromthewing.com/jimmy-carters-farewell-airline-deregulation-craft-beer-and-delta-handshakes-that-shaped-a-legacy/
+
 [^38]: https://www.theeditors.com/p/carters-greatest-achievement-was-deregulation-airlines-energy-trucking-beer
+
 [^39]: https://www.theregreview.org/2023/03/06/dudley-jimmy-carter-the-great-deregulator/
+
 [^40]: https://www.energy.gov/fecm/our-history
+
 [^41]: https://en.wikipedia.org/wiki/United_States_Department_of_Education
+
 [^42]: https://www.npr.org/2024/12/30/nx-s1-5243252/former-president-jimmy-carter-put-human-rights-at-the-center-of-foreign-policy
+
 [^43]: https://www.fpri.org/article/2023/03/jimmy-carter-and-the-torture-chamber-of-latin-america-examining-a-human-rights-legacy/
+
 [^44]: https://millercenter.org/president/jimmy-carter/foreign-affairs
+
 [^45]: https://en.wikipedia.org/wiki/Torrijos–Carter_Treaties
+
 [^46]: https://history.state.gov/milestones/1977-1980/panama-canal
+
 [^47]: https://millercenter.org/president/carter/foreign-affairs
+
 [^48]: https://en.wikipedia.org/wiki/Foreign_policy_of_the_Jimmy_Carter_administration
+
 [^49]: https://billofrightsinstitute.org/essays/jimmy-carter-and-the-iran-hostage-crisis
+
 [^50]: https://commons.lib.jmu.edu/cgi/viewcontent.cgi?httpsredir=1&article=1029&context=mhr
+
 [^51]: https://en.wikipedia.org/wiki/Iran_hostage_crisis
+
 [^52]: https://www.rferl.org/a/jimmy-carter-whose-presidency-was-marred-by-iran-hostage-crisis-dies-at-100/33257164.html
+
 [^53]: https://billofrightsinstitute.org/essays/jimmy-carter-and-the-iran-hostage-crisis
+
 [^54]: https://en.wikipedia.org/wiki/Operation_Eagle_Claw
+
 [^55]: https://billofrightsinstitute.org/essays/jimmy-carter-and-the-iran-hostage-crisis
+
 [^56]: https://en.wikipedia.org/wiki/Iran_hostage_crisis
+
 [^57]: https://www.billofrightsinstitute.org/essays/jimmy-carter-and-the-malaise-speech
+
 [^58]: https://en.wikipedia.org/wiki/Presidency_of_Jimmy_Carter
+
 [^59]: https://inflationdata.com/articles/misery-index/
+
 [^60]: https://inflationdata.com/articles/misery-index/
+
 [^61]: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1033&context=econfacpub
+
 [^62]: https://www.dol.gov/general/aboutdol/history/dolchp08
+
 [^63]: https://www.dol.gov/general/aboutdol/history/dolchp08
+
 [^64]: https://www.billofrightsinstitute.org/essays/jimmy-carter-and-the-malaise-speech
+
 [^65]: https://courses.lumenlearning.com/wm-ushistory2/chapter/jimmy-carter-in-the-aftermath-of-the-storm/
+
 [^66]: https://www.npr.org/transcripts/1222640179
+
 [^67]: https://www.biography.com/political-figures/jimmy-carter-1980-olympics-moscow-boycott
+
 [^68]: https://www.history.com/this-day-in-history/carter-announces-olympic-boycott
+
 [^69]: https://en.wikipedia.org/wiki/1980_Summer_Olympics_boycott
+
 [^70]: https://en.wikipedia.org/wiki/1980_Summer_Olympics_boycott
+
 [^71]: https://www.swimmingworldmagazine.com/news/when-the-moscow-boycott-short-circuited-olympic-dreams/
+
 [^72]: https://en.wikipedia.org/wiki/1980_Summer_Olympics_boycott
+
 [^73]: https://www.wabe.org/carter-reflected-on-1980-olympic-boycott-a-bad-decision/
+
 [^74]: https://www.biography.com/political-figures/jimmy-rosalynn-carter-love-story
+
 [^75]: https://www.npr.org/2023/11/20/1214151967/rosalynn-jimmy-carter-marriage-77-years
+
 [^76]: https://www.biography.com/political-figures/jimmy-rosalynn-carter-love-story
+
 [^77]: https://www.townandcountrymag.com/society/politics/a43045118/jimmy-carter-rosalynn-love-story/
+
 [^78]: https://www.npr.org/2023/11/20/1214151967/rosalynn-jimmy-carter-marriage-77-years
+
 [^79]: https://www.nbc.com/nbc-insider/about-jimmy-carter-family-wife-kids
+
 [^80]: https://www.atlantanewsfirst.com/2025/01/04/heirs-history-jimmy-rosalynn-carter-led-huge-family/
+
 [^81]: https://en.wikipedia.org/wiki/Rosalynn_Carter
+
 [^82]: https://www.britannica.com/biography/Jimmy_Carter
+
 [^83]: https://news.gallup.com/opinion/polling-matters/472772/jimmy-carter-challenge-identifying-evangelicals.aspx
+
 [^84]: https://www.baptist.org.uk/Articles/704193/Jimmy_Carter_a.aspx
+
 [^85]: https://religiondispatches.org/dont-call-him-evangelical-how-to-remember-jimmy-carters-faith-and-how-not-to/
+
 [^86]: https://www.newscentermaine.com/article/news/nation-world/jimmy-carter-baptist-faith-religion/507-6bb7ac4e-ae9f-4d81-948b-43b7d49bfcfc
+
 [^87]: https://en.wikipedia.org/wiki/1980_United_States_presidential_election
+
 [^88]: https://www.britannica.com/event/United-States-presidential-election-of-1980
+
 [^89]: https://www.aljazeera.com/news/2021/10/1/jimmy-carter-legacy-seems-to-improve-with-age
+
 [^90]: https://www.gmu.edu/news/2024-12/remembering-former-president-jimmy-carter-statesman-humanitarian-and-peacemaker
+
 [^91]: https://ht.usembassy.gov/jimmy-carter-was-a-u-s-president-a-u-s-navy-veteran-a-nobel-peace-prize-laureate-and-a-humanitarian-who-dedicated-his-life-to-promoting-peace/
+
 [^92]: https://www.habitat.org/carter-work-project
+
 [^93]: https://en.wikipedia.org/wiki/Jimmy_&_Rosalynn_Carter_Work_Project
+
 [^94]: https://www.cbsnews.com/news/jimmy-carter-habitat-for-humanity-history-the-carter-work-project/
+
 [^95]: https://www.nobelprize.org/prizes/peace/2002/carter/biographical/
+
 [^96]: https://www.live5news.com/2025/10/11/this-day-history-oct-11-2002-jimmy-carter-wins-nobel-peace-prize/
+
 [^97]: https://www.georgiawritershalloffame.org/honorees/jimmy-carter
+
 [^98]: https://www.georgiawritershalloffame.org/honorees/jimmy-carter
+
 [^99]: https://www.cbsnews.com/news/remembering-jimmy-carter-39th-president-united-states-nobel-peace-prize/
+
 [^100]: https://www.britannica.com/biography/Jimmy-Carter/Life-after-the-presidency
+
 [^101]: https://today.tamu.edu/2023/03/09/how-will-we-remember-jimmy-carter/
+
 [^102]: https://www.washingtonpost.com/politics/2024/12/30/jimmy-carter-presidency/
+
 [^103]: https://www.brookings.edu/articles/the-legacy-of-president-jimmy-carter/
+
 [^104]: https://penntoday.upenn.edu/news/jimmy-carter-remembered
+
 [^105]: https://freedomandprosperity.org/2022/blog/big-government/jimmy-carters-stellar-record-on-transportation-deregulation/
+
 [^106]: https://www.voanews.com/a/at-100-former-president-jimmy-carter-s-legacy-reevaluated-/7804367.html
+
 [^107]: https://millercenter.org/president/carter/impact-and-legacy
+
 [^108]: https://www.britannica.com/event/United-States-presidential-election-of-1980
+
 [^109]: https://en.wikipedia.org/wiki/1980_United_States_elections
+
 [^110]: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1033&context=econfacpub
+
 [^111]: https://en.wikipedia.org/wiki/Operation_Eagle_Claw
+
 [^112]: https://www.fpri.org/article/2023/03/jimmy-carter-and-the-torture-chamber-of-latin-america-examining-a-human-rights-legacy/
+
 [^113]: https://millercenter.org/president/carter/impact-and-legacy
+
 [^114]: https://www.billofrightsinstitute.org/essays/jimmy-carter-and-the-malaise-speech
+
 [^115]: https://en.wikipedia.org/wiki/1980_United_States_presidential_election
+
 [^116]: https://www.life.com/history/jimmy-carter-governor-inauguration-discrimination/
+
 [^117]: https://www.today.com/life/quotes/jimmy-carter-quotes-rcna186622
+
 [^118]: https://www.ebsco.com/research-starters/religion-and-philosophy/jimmy-carter-admits-committing-adultery-his-heart
+
 [^119]: https://www.billofrightsinstitute.org/essays/jimmy-carter-and-the-malaise-speech
+
 [^120]: https://www.today.com/life/quotes/jimmy-carter-quotes-rcna186622
+
 [^121]: https://www.npr.org/2023/11/20/1214151967/rosalynn-jimmy-carter-marriage-77-years

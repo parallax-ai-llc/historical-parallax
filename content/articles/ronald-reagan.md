@@ -177,38 +177,38 @@ Ultimately, scholars note that Reagan benefited from lowered expectations after 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1911 | Born February 6 in Tampico, Illinois |
-| 1932 | Graduated from Eureka College |
-| 1937 | Signed contract with Warner Brothers, began film career |
-| 1940 | Married Jane Wyman |
-| 1947 | Elected president of Screen Actors Guild |
-| 1949 | Divorced Jane Wyman |
-| 1952 | Married Nancy Davis |
-| 1954 | Began hosting General Electric Theater and working as GE spokesman |
-| 1962 | Officially switched from Democratic to Republican Party |
-| 1964 | Delivered "A Time for Choosing" speech supporting Barry Goldwater |
-| 1966 | Elected Governor of California |
-| 1970 | Re-elected Governor of California |
-| 1976 | Narrowly lost Republican presidential nomination to Gerald Ford |
+| Year | Event                                                               |
+| ---- | ------------------------------------------------------------------- |
+| 1911 | Born February 6 in Tampico, Illinois                                |
+| 1932 | Graduated from Eureka College                                       |
+| 1937 | Signed contract with Warner Brothers, began film career             |
+| 1940 | Married Jane Wyman                                                  |
+| 1947 | Elected president of Screen Actors Guild                            |
+| 1949 | Divorced Jane Wyman                                                 |
+| 1952 | Married Nancy Davis                                                 |
+| 1954 | Began hosting General Electric Theater and working as GE spokesman  |
+| 1962 | Officially switched from Democratic to Republican Party             |
+| 1964 | Delivered "A Time for Choosing" speech supporting Barry Goldwater   |
+| 1966 | Elected Governor of California                                      |
+| 1970 | Re-elected Governor of California                                   |
+| 1976 | Narrowly lost Republican presidential nomination to Gerald Ford     |
 | 1980 | Elected 40th President of the United States, defeating Jimmy Carter |
-| 1981 | Survived assassination attempt by John Hinckley Jr. (March 30) |
-| 1981 | Fired 11,345 striking air traffic controllers (August) |
-| 1981 | Signed Economic Recovery Tax Act, major tax cut |
-| 1983 | Announced Strategic Defense Initiative ("Star Wars") |
-| 1983 | Called Soviet Union "evil empire" in speech |
-| 1983 | 241 U.S. servicemen killed in Beirut barracks bombing |
-| 1983 | Ordered invasion of Grenada |
-| 1984 | Re-elected in landslide, winning 49 states |
-| 1985 | First meeting with Soviet leader Mikhail Gorbachev in Geneva |
-| 1986 | Iran-Contra scandal revealed (November) |
-| 1986 | Signed Tax Reform Act |
-| 1987 | "Tear down this wall" speech in Berlin (June 12) |
-| 1987 | Signed INF Treaty with Soviet Union |
-| 1989 | Left office, succeeded by George H.W. Bush |
-| 1994 | Announced Alzheimer's disease diagnosis (November 5) |
-| 2004 | Died June 5 in Los Angeles at age 93 |
+| 1981 | Survived assassination attempt by John Hinckley Jr. (March 30)      |
+| 1981 | Fired 11,345 striking air traffic controllers (August)              |
+| 1981 | Signed Economic Recovery Tax Act, major tax cut                     |
+| 1983 | Announced Strategic Defense Initiative ("Star Wars")                |
+| 1983 | Called Soviet Union "evil empire" in speech                         |
+| 1983 | 241 U.S. servicemen killed in Beirut barracks bombing               |
+| 1983 | Ordered invasion of Grenada                                         |
+| 1984 | Re-elected in landslide, winning 49 states                          |
+| 1985 | First meeting with Soviet leader Mikhail Gorbachev in Geneva        |
+| 1986 | Iran-Contra scandal revealed (November)                             |
+| 1986 | Signed Tax Reform Act                                               |
+| 1987 | "Tear down this wall" speech in Berlin (June 12)                    |
+| 1987 | Signed INF Treaty with Soviet Union                                 |
+| 1989 | Left office, succeeded by George H.W. Bush                          |
+| 1994 | Announced Alzheimer's disease diagnosis (November 5)                |
+| 2004 | Died June 5 in Los Angeles at age 93                                |
 
 ---
 
@@ -246,275 +246,275 @@ Reagan's poignant farewell to public life demonstrated his continuing gift for e
 
 ## References
 
-[^1]: Cannon, Lou. *President Reagan: The Role of a Lifetime*. New York: PublicAffairs, 2000, pp. 21-24.
+[^1]: Cannon, Lou. _President Reagan: The Role of a Lifetime_. New York: PublicAffairs, 2000, pp. 21-24.
 
-[^2]: Reagan, Ronald. *An American Life: The Autobiography*. New York: Simon & Schuster, 1990, pp. 19-22.
+[^2]: Reagan, Ronald. _An American Life: The Autobiography_. New York: Simon & Schuster, 1990, pp. 19-22.
 
-[^3]: Brands, H.W. *Reagan: The Life*. New York: Doubleday, 2015, pp. 8-12.
+[^3]: Brands, H.W. _Reagan: The Life_. New York: Doubleday, 2015, pp. 8-12.
 
-[^4]: Morris, Edmund. *Dutch: A Memoir of Ronald Reagan*. New York: Random House, 1999, pp. 35-38.
+[^4]: Morris, Edmund. _Dutch: A Memoir of Ronald Reagan_. New York: Random House, 1999, pp. 35-38.
 
-[^5]: Cannon, Lou. *President Reagan: The Role of a Lifetime*, pp. 29-31.
+[^5]: Cannon, Lou. _President Reagan: The Role of a Lifetime_, pp. 29-31.
 
-[^6]: D'Souza, Dinesh. *Ronald Reagan: How an Ordinary Man Became an Extraordinary Leader*. New York: Free Press, 1997, pp. 23-26.
+[^6]: D'Souza, Dinesh. _Ronald Reagan: How an Ordinary Man Became an Extraordinary Leader_. New York: Free Press, 1997, pp. 23-26.
 
-[^7]: Brands, H.W. *Reagan: The Life*, pp. 18-22.
+[^7]: Brands, H.W. _Reagan: The Life_, pp. 18-22.
 
-[^8]: Reagan, Ronald. *An American Life*, pp. 65-68.
+[^8]: Reagan, Ronald. _An American Life_, pp. 65-68.
 
-[^9]: Morris, Edmund. *Dutch: A Memoir of Ronald Reagan*, pp. 89-93.
+[^9]: Morris, Edmund. _Dutch: A Memoir of Ronald Reagan_, pp. 89-93.
 
-[^10]: Vaughn, Stephen. *Ronald Reagan in Hollywood: Movies and Politics*. Cambridge: Cambridge University Press, 1994, pp. 42-45.
+[^10]: Vaughn, Stephen. _Ronald Reagan in Hollywood: Movies and Politics_. Cambridge: Cambridge University Press, 1994, pp. 42-45.
 
-[^11]: Rogin, Michael. *Ronald Reagan, the Movie and Other Episodes in Political Demonology*. Berkeley: University of California Press, 1987, pp. 1-3.
+[^11]: Rogin, Michael. _Ronald Reagan, the Movie and Other Episodes in Political Demonology_. Berkeley: University of California Press, 1987, pp. 1-3.
 
-[^12]: Reagan, Ronald. *Where's the Rest of Me?* New York: Duell, Sloan and Pearce, 1965.
+[^12]: Reagan, Ronald. _Where's the Rest of Me?_ New York: Duell, Sloan and Pearce, 1965.
 
-[^13]: Vaughn, Stephen. *Ronald Reagan in Hollywood*, pp. 152-156.
+[^13]: Vaughn, Stephen. _Ronald Reagan in Hollywood_, pp. 152-156.
 
-[^14]: Ceplair, Larry and Steven Englund. *The Inquisition in Hollywood: Politics in the Film Community, 1930-1960*. Berkeley: University of California Press, 1983, pp. 360-365.
+[^14]: Ceplair, Larry and Steven Englund. _The Inquisition in Hollywood: Politics in the Film Community, 1930-1960_. Berkeley: University of California Press, 1983, pp. 360-365.
 
-[^15]: Reagan, Nancy with William Novak. *My Turn: The Memoirs of Nancy Reagan*. New York: Random House, 1989, pp. 91-95.
+[^15]: Reagan, Nancy with William Novak. _My Turn: The Memoirs of Nancy Reagan_. New York: Random House, 1989, pp. 91-95.
 
-[^16]: Brands, H.W. *Reagan: The Life*, pp. 98-103.
+[^16]: Brands, H.W. _Reagan: The Life_, pp. 98-103.
 
-[^17]: Edwards, Lee. *The Essential Ronald Reagan: A Profile in Courage, Justice, and Wisdom*. Lanham: Rowman & Littlefield, 2005, p. 45.
+[^17]: Edwards, Lee. _The Essential Ronald Reagan: A Profile in Courage, Justice, and Wisdom_. Lanham: Rowman & Littlefield, 2005, p. 45.
 
-[^18]: White, F. Clifton and William J. Gill. *Why Reagan Won: A Narrative History of the Conservative Movement 1964-1981*. Chicago: Regnery Gateway, 1981, pp. 15-20.
+[^18]: White, F. Clifton and William J. Gill. _Why Reagan Won: A Narrative History of the Conservative Movement 1964-1981_. Chicago: Regnery Gateway, 1981, pp. 15-20.
 
-[^19]: Cannon, Lou. *Governor Reagan: His Rise to Power*. New York: PublicAffairs, 2003, pp. 134-142.
+[^19]: Cannon, Lou. _Governor Reagan: His Rise to Power_. New York: PublicAffairs, 2003, pp. 134-142.
 
-[^20]: Dallek, Matthew. *The Right Moment: Ronald Reagan's First Victory and the Decisive Turning Point in American Politics*. New York: Free Press, 2000, pp. 198-205.
+[^20]: Dallek, Matthew. _The Right Moment: Ronald Reagan's First Victory and the Decisive Turning Point in American Politics_. New York: Free Press, 2000, pp. 198-205.
 
-[^21]: Cannon, Lou. *Governor Reagan*, pp. 278-285, 312-318.
+[^21]: Cannon, Lou. _Governor Reagan_, pp. 278-285, 312-318.
 
-[^22]: Niskanen, William A. *Reaganomics: An Insider's Account of the Policies and the People*. New York: Oxford University Press, 1988, pp. 8-12.
+[^22]: Niskanen, William A. _Reaganomics: An Insider's Account of the Policies and the People_. New York: Oxford University Press, 1988, pp. 8-12.
 
-[^23]: Steuerle, C. Eugene. *The Tax Decade: How Taxes Came to Dominate the Public Agenda*. Washington: Urban Institute Press, 1992, pp. 78-85.
+[^23]: Steuerle, C. Eugene. _The Tax Decade: How Taxes Came to Dominate the Public Agenda_. Washington: Urban Institute Press, 1992, pp. 78-85.
 
-[^24]: Feldstein, Martin, ed. *American Economic Policy in the 1980s*. Chicago: University of Chicago Press, 1994, pp. 15-22.
+[^24]: Feldstein, Martin, ed. _American Economic Policy in the 1980s_. Chicago: University of Chicago Press, 1994, pp. 15-22.
 
-[^25]: Eisner, Marc Allen. *Regulatory Politics in Transition*. Baltimore: Johns Hopkins University Press, 2000, pp. 145-152.
+[^25]: Eisner, Marc Allen. _Regulatory Politics in Transition_. Baltimore: Johns Hopkins University Press, 2000, pp. 145-152.
 
-[^26]: McCartin, Joseph A. *Collision Course: Ronald Reagan, the Air Traffic Controllers, and the Strike That Changed America*. New York: Oxford University Press, 2011, pp. 298-310.
+[^26]: McCartin, Joseph A. _Collision Course: Ronald Reagan, the Air Traffic Controllers, and the Strike That Changed America_. New York: Oxford University Press, 2011, pp. 298-310.
 
-[^27]: Fantasia, Rick and Kim Voss. *Hard Work: Remaking the American Labor Movement*. Berkeley: University of California Press, 2004, pp. 132-138.
+[^27]: Fantasia, Rick and Kim Voss. _Hard Work: Remaking the American Labor Movement_. Berkeley: University of California Press, 2004, pp. 132-138.
 
-[^28]: Gaddis, John Lewis. *The Cold War: A New History*. New York: Penguin Press, 2005, pp. 223-227.
+[^28]: Gaddis, John Lewis. _The Cold War: A New History_. New York: Penguin Press, 2005, pp. 223-227.
 
-[^29]: FitzGerald, Frances. *Way Out There in the Blue: Reagan, Star Wars and the End of the Cold War*. New York: Simon & Schuster, 2000, pp. 22-25.
+[^29]: FitzGerald, Frances. _Way Out There in the Blue: Reagan, Star Wars and the End of the Cold War_. New York: Simon & Schuster, 2000, pp. 22-25.
 
-[^30]: FitzGerald, Frances. *Way Out There in the Blue*, pp. 19-21, 138-145.
+[^30]: FitzGerald, Frances. _Way Out There in the Blue_, pp. 19-21, 138-145.
 
-[^31]: Lettow, Paul. *Ronald Reagan and His Quest to Abolish Nuclear Weapons*. New York: Random House, 2005, pp. 115-122.
+[^31]: Lettow, Paul. _Ronald Reagan and His Quest to Abolish Nuclear Weapons_. New York: Random House, 2005, pp. 115-122.
 
-[^32]: Matlock, Jack F. *Reagan and Gorbachev: How the Cold War Ended*. New York: Random House, 2004, pp. 298-312.
+[^32]: Matlock, Jack F. _Reagan and Gorbachev: How the Cold War Ended_. New York: Random House, 2004, pp. 298-312.
 
-[^33]: Ratnesar, Romesh. *Tear Down This Wall: A City, a President, and the Speech that Ended the Cold War*. New York: Simon & Schuster, 2009, pp. 165-178.
+[^33]: Ratnesar, Romesh. _Tear Down This Wall: A City, a President, and the Speech that Ended the Cold War_. New York: Simon & Schuster, 2009, pp. 165-178.
 
-[^34]: Gaddis, John Lewis. *The Cold War*, pp. 227-232.
+[^34]: Gaddis, John Lewis. _The Cold War_, pp. 227-232.
 
-[^35]: Wilentz, Sean. *The Age of Reagan: A History, 1974-2008*. New York: Harper, 2008, pp. 156-162.
+[^35]: Wilentz, Sean. _The Age of Reagan: A History, 1974-2008_. New York: Harper, 2008, pp. 156-162.
 
-[^36]: Critchlow, Donald T. *The Conservative Ascendancy: How the Republican Right Rose to Power in Modern America*. Lawrence: University Press of Kansas, 2011, pp. 178-185.
+[^36]: Critchlow, Donald T. _The Conservative Ascendancy: How the Republican Right Rose to Power in Modern America_. Lawrence: University Press of Kansas, 2011, pp. 178-185.
 
-[^37]: Edsall, Thomas Byrne and Mary D. Edsall. *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics*. New York: W.W. Norton, 1991, pp. 182-189.
+[^37]: Edsall, Thomas Byrne and Mary D. Edsall. _Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics_. New York: W.W. Norton, 1991, pp. 182-189.
 
-[^38]: Yalof, David Alistair. *Pursuit of Justices: Presidential Politics and the Selection of Supreme Court Nominees*. Chicago: University of Chicago Press, 1999, pp. 128-145.
+[^38]: Yalof, David Alistair. _Pursuit of Justices: Presidential Politics and the Selection of Supreme Court Nominees_. Chicago: University of Chicago Press, 1999, pp. 128-145.
 
-[^39]: Smith, James A. *The Idea Brokers: Think Tanks and the Rise of the New Policy Elite*. New York: Free Press, 1991, pp. 198-205.
+[^39]: Smith, James A. _The Idea Brokers: Think Tanks and the Rise of the New Policy Elite_. New York: Free Press, 1991, pp. 198-205.
 
-[^40]: Light, Paul C. *Artful Work: The Politics of Social Security Reform*. New York: Random House, 1985, pp. 178-195.
+[^40]: Light, Paul C. _Artful Work: The Politics of Social Security Reform_. New York: Random House, 1985, pp. 178-195.
 
-[^41]: Ventry, Dennis J. "The Collision of Tax and Welfare Politics: The Political History of the Earned Income Tax Credit." *National Tax Journal* 53, no. 4 (2000): 983-1026.
+[^41]: Ventry, Dennis J. "The Collision of Tax and Welfare Politics: The Political History of the Earned Income Tax Credit." _National Tax Journal_ 53, no. 4 (2000): 983-1026.
 
-[^42]: Birnbaum, Jeffrey H. and Alan S. Murray. *Showdown at Gucci Gulch: Lawmakers, Lobbyists, and the Unlikely Triumph of Tax Reform*. New York: Random House, 1987, pp. 289-298.
+[^42]: Birnbaum, Jeffrey H. and Alan S. Murray. _Showdown at Gucci Gulch: Lawmakers, Lobbyists, and the Unlikely Triumph of Tax Reform_. New York: Random House, 1987, pp. 289-298.
 
-[^43]: Massie, Robert Kinloch. *Loosing the Bonds: The United States and South Africa in the Apartheid Years*. New York: Doubleday, 1997, pp. 578-594.
+[^43]: Massie, Robert Kinloch. _Loosing the Bonds: The United States and South Africa in the Apartheid Years_. New York: Doubleday, 1997, pp. 578-594.
 
-[^44]: Walsh, Lawrence E. *Firewall: The Iran-Contra Conspiracy and Cover-Up*. New York: W.W. Norton, 1997, pp. 1-8.
+[^44]: Walsh, Lawrence E. _Firewall: The Iran-Contra Conspiracy and Cover-Up_. New York: W.W. Norton, 1997, pp. 1-8.
 
-[^45]: Kornbluh, Peter and Malcolm Byrne, eds. *The Iran-Contra Scandal: The Declassified History*. New York: New Press, 1993, pp. xxi-xxviii.
+[^45]: Kornbluh, Peter and Malcolm Byrne, eds. _The Iran-Contra Scandal: The Declassified History_. New York: New Press, 1993, pp. xxi-xxviii.
 
-[^46]: Walsh, Lawrence E. *Firewall*, pp. 511-518.
+[^46]: Walsh, Lawrence E. _Firewall_, pp. 511-518.
 
-[^47]: Draper, Theodore. *A Very Thin Line: The Iran-Contra Affairs*. New York: Hill and Wang, 1991, pp. 568-575.
+[^47]: Draper, Theodore. _A Very Thin Line: The Iran-Contra Affairs_. New York: Hill and Wang, 1991, pp. 568-575.
 
-[^48]: Tower Commission. *The Tower Commission Report*. New York: Bantam Books, 1987, pp. 79-82.
+[^48]: Tower Commission. _The Tower Commission Report_. New York: Bantam Books, 1987, pp. 79-82.
 
-[^49]: Phillips, Kevin. *The Politics of Rich and Poor: Wealth and the American Electorate in the Reagan Aftermath*. New York: Random House, 1990, pp. 10-18, 87-94.
+[^49]: Phillips, Kevin. _The Politics of Rich and Poor: Wealth and the American Electorate in the Reagan Aftermath_. New York: Random House, 1990, pp. 10-18, 87-94.
 
-[^50]: Hopper, Kim and Jim Baumohl. "Redefining the Cursed Word: A Historical Interpretation of American Homelessness." In *Homelessness in America*, edited by Jim Baumohl, 3-14. Phoenix: Oryx Press, 1996.
+[^50]: Hopper, Kim and Jim Baumohl. "Redefining the Cursed Word: A Historical Interpretation of American Homelessness." In _Homelessness in America_, edited by Jim Baumohl, 3-14. Phoenix: Oryx Press, 1996.
 
-[^51]: Friedman, Benjamin M. *Day of Reckoning: The Consequences of American Economic Policy Under Reagan and After*. New York: Random House, 1988, pp. 127-135.
+[^51]: Friedman, Benjamin M. _Day of Reckoning: The Consequences of American Economic Policy Under Reagan and After_. New York: Random House, 1988, pp. 127-135.
 
-[^52]: Krugman, Paul. *Peddling Prosperity: Economic Sense and Nonsense in the Age of Diminished Expectations*. New York: W.W. Norton, 1994, pp. 89-97.
+[^52]: Krugman, Paul. _Peddling Prosperity: Economic Sense and Nonsense in the Age of Diminished Expectations_. New York: W.W. Norton, 1994, pp. 89-97.
 
-[^53]: White, Lawrence J. *The S&L Debacle: Public Policy Lessons for Bank and Thrift Regulation*. New York: Oxford University Press, 1991, pp. 75-89.
+[^53]: White, Lawrence J. _The S&L Debacle: Public Policy Lessons for Bank and Thrift Regulation_. New York: Oxford University Press, 1991, pp. 75-89.
 
-[^54]: Shilts, Randy. *And the Band Played On: Politics, People, and the AIDS Epidemic*. New York: St. Martin's Press, 1987, pp. 596-603.
+[^54]: Shilts, Randy. _And the Band Played On: Politics, People, and the AIDS Epidemic_. New York: St. Martin's Press, 1987, pp. 596-603.
 
-[^55]: Koop, C. Everett. *Koop: The Memoirs of America's Family Doctor*. New York: Random House, 1991, pp. 198-212.
+[^55]: Koop, C. Everett. _Koop: The Memoirs of America's Family Doctor_. New York: Random House, 1991, pp. 198-212.
 
-[^56]: Brier, Jennifer. *Infectious Ideas: U.S. Political Response to the AIDS Crisis*. Chapel Hill: University of North Carolina Press, 2009, pp. 112-118.
+[^56]: Brier, Jennifer. _Infectious Ideas: U.S. Political Response to the AIDS Crisis_. Chapel Hill: University of North Carolina Press, 2009, pp. 112-118.
 
-[^57]: Shilts, Randy. *And the Band Played On*, pp. 311-318.
+[^57]: Shilts, Randy. _And the Band Played On_, pp. 311-318.
 
-[^58]: Edsall, Thomas Byrne and Mary D. Edsall. *Chain Reaction*, pp. 147-154.
+[^58]: Edsall, Thomas Byrne and Mary D. Edsall. _Chain Reaction_, pp. 147-154.
 
-[^59]: Herbert, Bob. "Righting Reagan's Wrongs?" *New York Times*, November 13, 2007.
+[^59]: Herbert, Bob. "Righting Reagan's Wrongs?" _New York Times_, November 13, 2007.
 
-[^60]: Landy, Marc and Martin A. Levin, eds. *The New Politics of Public Policy*. Baltimore: Johns Hopkins University Press, 1995, pp. 234-241.
+[^60]: Landy, Marc and Martin A. Levin, eds. _The New Politics of Public Policy_. Baltimore: Johns Hopkins University Press, 1995, pp. 234-241.
 
-[^61]: Massie, Robert Kinloch. *Loosing the Bonds*, pp. 615-623.
+[^61]: Massie, Robert Kinloch. _Loosing the Bonds_, pp. 615-623.
 
-[^62]: Gilens, Martin. *Why Americans Hate Welfare: Race, Media, and the Politics of Antipoverty Policy*. Chicago: University of Chicago Press, 1999, pp. 132-139.
+[^62]: Gilens, Martin. _Why Americans Hate Welfare: Race, Media, and the Politics of Antipoverty Policy_. Chicago: University of Chicago Press, 1999, pp. 132-139.
 
-[^63]: LeoGrande, William M. *Our Own Backyard: The United States in Central America, 1977-1992*. Chapel Hill: University of North Carolina Press, 1998, pp. 378-395.
+[^63]: LeoGrande, William M. _Our Own Backyard: The United States in Central America, 1977-1992_. Chapel Hill: University of North Carolina Press, 1998, pp. 378-395.
 
-[^64]: Pastor, Robert A. *Condemned to Repetition: The United States and Nicaragua*. Princeton: Princeton University Press, 1987, pp. 234-241.
+[^64]: Pastor, Robert A. _Condemned to Repetition: The United States and Nicaragua_. Princeton: Princeton University Press, 1987, pp. 234-241.
 
-[^65]: Coll, Steve. *Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden, from the Soviet Invasion to September 10, 2001*. New York: Penguin Press, 2004, pp. 63-71.
+[^65]: Coll, Steve. _Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden, from the Soviet Invasion to September 10, 2001_. New York: Penguin Press, 2004, pp. 63-71.
 
-[^66]: Cole, Ronald H. *Operation Urgent Fury: The Planning and Execution of Joint Operations in Grenada*. Washington: Joint History Office, 1997, pp. 67-75.
+[^66]: Cole, Ronald H. _Operation Urgent Fury: The Planning and Execution of Joint Operations in Grenada_. Washington: Joint History Office, 1997, pp. 67-75.
 
-[^67]: Kornbluh, Peter. "Nicaragua." In *Exporting Democracy: The United States and Latin America*, edited by Abraham F. Lowenthal, 325-351. Baltimore: Johns Hopkins University Press, 1991.
+[^67]: Kornbluh, Peter. "Nicaragua." In _Exporting Democracy: The United States and Latin America_, edited by Abraham F. Lowenthal, 325-351. Baltimore: Johns Hopkins University Press, 1991.
 
-[^68]: Reagan, Ronald. *An American Life*, pp. 93-95, 112-115.
+[^68]: Reagan, Ronald. _An American Life_, pp. 93-95, 112-115.
 
-[^69]: Leamer, Laurence. *Make-Believe: The Story of Nancy & Ronald Reagan*. New York: Harper & Row, 1983, pp. 132-138.
+[^69]: Leamer, Laurence. _Make-Believe: The Story of Nancy & Ronald Reagan_. New York: Harper & Row, 1983, pp. 132-138.
 
-[^70]: Reagan, Nancy. *My Turn*, pp. 91-106.
+[^70]: Reagan, Nancy. _My Turn_, pp. 91-106.
 
-[^71]: Regan, Donald T. *For the Record: From Wall Street to Washington*. San Diego: Harcourt Brace Jovanovich, 1988, pp. 3-8, 291-299.
+[^71]: Regan, Donald T. _For the Record: From Wall Street to Washington_. San Diego: Harcourt Brace Jovanovich, 1988, pp. 3-8, 291-299.
 
-[^72]: Davis, Patti. *The Way I See It: An Autobiography*. New York: G.P. Putnam's Sons, 1992, pp. 78-85.
+[^72]: Davis, Patti. _The Way I See It: An Autobiography_. New York: G.P. Putnam's Sons, 1992, pp. 78-85.
 
-[^73]: Davis, Patti. *The Way I See It*, pp. 178-195.
+[^73]: Davis, Patti. _The Way I See It_, pp. 178-195.
 
-[^74]: Reagan, Michael. *On the Outside Looking In*. New York: Zebra Books, 1988, pp. 198-210.
+[^74]: Reagan, Michael. _On the Outside Looking In_. New York: Zebra Books, 1988, pp. 198-210.
 
-[^75]: Colacello, Bob. *Ronnie and Nancy: Their Path to the White House, 1911-1980*. New York: Warner Books, 2004, pp. 445-452.
+[^75]: Colacello, Bob. _Ronnie and Nancy: Their Path to the White House, 1911-1980_. New York: Warner Books, 2004, pp. 445-452.
 
-[^76]: Cannon, Lou. *President Reagan: The Role of a Lifetime*, pp. 742-748.
+[^76]: Cannon, Lou. _President Reagan: The Role of a Lifetime_, pp. 742-748.
 
-[^77]: Massing, Michael. *The Fix*. New York: Simon & Schuster, 1998, pp. 145-152.
+[^77]: Massing, Michael. _The Fix_. New York: Simon & Schuster, 1998, pp. 145-152.
 
-[^78]: Regan, Donald T. *For the Record*, pp. 3-8, 323-331.
+[^78]: Regan, Donald T. _For the Record_, pp. 3-8, 323-331.
 
-[^79]: Reeves, Richard. *President Reagan: The Triumph of Imagination*. New York: Simon & Schuster, 2005, pp. xv-xx.
+[^79]: Reeves, Richard. _President Reagan: The Triumph of Imagination_. New York: Simon & Schuster, 2005, pp. xv-xx.
 
-[^80]: Cannon, Lou. *President Reagan: The Role of a Lifetime*, pp. 398-401.
+[^80]: Cannon, Lou. _President Reagan: The Role of a Lifetime_, pp. 398-401.
 
-[^81]: Morris, Edmund. *Dutch*, pp. 661-668.
+[^81]: Morris, Edmund. _Dutch_, pp. 661-668.
 
-[^82]: Wills, Garry. *Reagan's America: Innocents at Home*. Garden City, NY: Doubleday, 1987, pp. 3-8.
+[^82]: Wills, Garry. _Reagan's America: Innocents at Home_. Garden City, NY: Doubleday, 1987, pp. 3-8.
 
-[^83]: Noonan, Peggy. *What I Saw at the Revolution: A Political Life in the Reagan Era*. New York: Random House, 1990, pp. 68-75.
+[^83]: Noonan, Peggy. _What I Saw at the Revolution: A Political Life in the Reagan Era_. New York: Random House, 1990, pp. 68-75.
 
-[^84]: Cannon, Lou. *President Reagan: The Role of a Lifetime*, pp. 95-100.
+[^84]: Cannon, Lou. _President Reagan: The Role of a Lifetime_, pp. 95-100.
 
 [^85]: Reagan, Ronald. "Letter to the American People," November 5, 1994. Ronald Reagan Presidential Library.
 
-[^86]: Cannon, Lou. "Ronald Reagan Dies at 93." *Washington Post*, June 6, 2004.
+[^86]: Cannon, Lou. "Ronald Reagan Dies at 93." _Washington Post_, June 6, 2004.
 
-[^87]: Von Drehle, David and Jo Becker. "Reagan Hailed As Leader For 'The Ages.'" *Washington Post*, June 12, 2004.
+[^87]: Von Drehle, David and Jo Becker. "Reagan Hailed As Leader For 'The Ages.'" _Washington Post_, June 12, 2004.
 
-[^88]: Wilentz, Sean. *The Age of Reagan*, pp. 1-5.
+[^88]: Wilentz, Sean. _The Age of Reagan_, pp. 1-5.
 
-[^89]: Troy, Gil. *Morning in America: How Ronald Reagan Invented the 1980s*. Princeton: Princeton University Press, 2005, pp. 3-8.
+[^89]: Troy, Gil. _Morning in America: How Ronald Reagan Invented the 1980s_. Princeton: Princeton University Press, 2005, pp. 3-8.
 
-[^90]: Patterson, James T. *Restless Giant: The United States from Watergate to Bush v. Gore*. New York: Oxford University Press, 2005, p. 157.
+[^90]: Patterson, James T. _Restless Giant: The United States from Watergate to Bush v. Gore_. New York: Oxford University Press, 2005, p. 157.
 
-[^91]: Schaller, Michael. *Reckoning with Reagan: America and Its President in the 1980s*. New York: Oxford University Press, 1992, pp. 45-52.
+[^91]: Schaller, Michael. _Reckoning with Reagan: America and Its President in the 1980s_. New York: Oxford University Press, 1992, pp. 45-52.
 
-[^92]: Brownlee, W. Elliot and C. Eugene Steuerle. "Taxation." In *The Reagan Presidency: Pragmatic Conservatism and Its Legacies*, edited by W. Elliot Brownlee and Hugh Davis Graham, 155-181. Lawrence: University Press of Kansas, 2003.
+[^92]: Brownlee, W. Elliot and C. Eugene Steuerle. "Taxation." In _The Reagan Presidency: Pragmatic Conservatism and Its Legacies_, edited by W. Elliot Brownlee and Hugh Davis Graham, 155-181. Lawrence: University Press of Kansas, 2003.
 
-[^93]: Hacker, Jacob S. and Paul Pierson. *Winner-Take-All Politics: How Washington Made the Rich Richer—and Turned Its Back on the Middle Class*. New York: Simon & Schuster, 2010, pp. 189-196.
+[^93]: Hacker, Jacob S. and Paul Pierson. _Winner-Take-All Politics: How Washington Made the Rich Richer—and Turned Its Back on the Middle Class_. New York: Simon & Schuster, 2010, pp. 189-196.
 
-[^94]: Friedman, Benjamin M. *Day of Reckoning*, pp. 289-298.
+[^94]: Friedman, Benjamin M. _Day of Reckoning_, pp. 289-298.
 
-[^95]: Melvyn P. Leffler. *For the Soul of Mankind: The United States, the Soviet Union, and the Cold War*. New York: Hill and Wang, 2007, pp. 441-453.
+[^95]: Melvyn P. Leffler. _For the Soul of Mankind: The United States, the Soviet Union, and the Cold War_. New York: Hill and Wang, 2007, pp. 441-453.
 
-[^96]: Service, Robert. *The End of the Cold War: 1985-1991*. New York: PublicAffairs, 2015, pp. 512-520.
+[^96]: Service, Robert. _The End of the Cold War: 1985-1991_. New York: PublicAffairs, 2015, pp. 512-520.
 
-[^97]: O'Brien, David M. *Storm Center: The Supreme Court in American Politics*, 10th ed. New York: W.W. Norton, 2014, pp. 67-74.
+[^97]: O'Brien, David M. _Storm Center: The Supreme Court in American Politics_, 10th ed. New York: W.W. Norton, 2014, pp. 67-74.
 
-[^98]: Edwards, Lee. *The Conservative Revolution: The Movement That Remade America*. New York: Free Press, 1999, pp. 289-298.
+[^98]: Edwards, Lee. _The Conservative Revolution: The Movement That Remade America_. New York: Free Press, 1999, pp. 289-298.
 
-[^99]: Himmelstein, Jerome L. *To the Right: The Transformation of American Conservatism*. Berkeley: University of California Press, 1990, pp. 97-105.
+[^99]: Himmelstein, Jerome L. _To the Right: The Transformation of American Conservatism_. Berkeley: University of California Press, 1990, pp. 97-105.
 
-[^100]: Martin, William. *With God on Our Side: The Rise of the Religious Right in America*. New York: Broadway Books, 1996, pp. 218-225.
+[^100]: Martin, William. _With God on Our Side: The Rise of the Religious Right in America_. New York: Broadway Books, 1996, pp. 218-225.
 
-[^101]: Wilentz, Sean. *The Age of Reagan*, pp. 233-241.
+[^101]: Wilentz, Sean. _The Age of Reagan_, pp. 233-241.
 
-[^102]: Quadagno, Jill. *The Color of Welfare: How Racism Undermined the War on Poverty*. New York: Oxford University Press, 1994, pp. 178-185.
+[^102]: Quadagno, Jill. _The Color of Welfare: How Racism Undermined the War on Poverty_. New York: Oxford University Press, 1994, pp. 178-185.
 
-[^103]: Pemberton, William E. *Exit with Honor: The Life and Presidency of Ronald Reagan*. Armonk, NY: M.E. Sharpe, 1998, pp. 207-215.
+[^103]: Pemberton, William E. _Exit with Honor: The Life and Presidency of Ronald Reagan_. Armonk, NY: M.E. Sharpe, 1998, pp. 207-215.
 
-[^104]: Brinkley, Douglas. *The Unfinished Presidency: Jimmy Carter's Journey Beyond the White House*. New York: Viking, 1998, p. 67.
+[^104]: Brinkley, Douglas. _The Unfinished Presidency: Jimmy Carter's Journey Beyond the White House_. New York: Viking, 1998, p. 67.
 
-[^105]: Will, George F. "How Reagan Changed America." *Newsweek*, January 9, 2006.
+[^105]: Will, George F. "How Reagan Changed America." _Newsweek_, January 9, 2006.
 
-[^106]: Gaddis, John Lewis. *Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War*, rev. ed. New York: Oxford University Press, 2005, pp. 353-379.
+[^106]: Gaddis, John Lewis. _Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War_, rev. ed. New York: Oxford University Press, 2005, pp. 353-379.
 
-[^107]: Gaddis, John Lewis. *The Cold War*, pp. 227-237.
+[^107]: Gaddis, John Lewis. _The Cold War_, pp. 227-237.
 
-[^108]: Reeves, Richard. *President Reagan: The Triumph of Imagination*, p. xviii.
+[^108]: Reeves, Richard. _President Reagan: The Triumph of Imagination_, p. xviii.
 
-[^109]: Anderson, Martin. *Revolution: The Reagan Legacy*, expanded ed. Stanford: Hoover Institution Press, 1990, pp. 145-178.
+[^109]: Anderson, Martin. _Revolution: The Reagan Legacy_, expanded ed. Stanford: Hoover Institution Press, 1990, pp. 145-178.
 
 [^110]: Economic Report of the President. Washington: Government Printing Office, 1989, pp. 306-307.
 
-[^111]: Brands, H.W. *Reagan: The Life*, pp. 678-685.
+[^111]: Brands, H.W. _Reagan: The Life_, pp. 678-685.
 
-[^112]: Nash, George H. *The Conservative Intellectual Movement in America Since 1945*. Wilmington: ISI Books, 1996, pp. 334-341.
+[^112]: Nash, George H. _The Conservative Intellectual Movement in America Since 1945_. Wilmington: ISI Books, 1996, pp. 334-341.
 
-[^113]: Cannon, Lou. *President Reagan: The Role of a Lifetime*, pp. 193-204.
+[^113]: Cannon, Lou. _President Reagan: The Role of a Lifetime_, pp. 193-204.
 
-[^114]: Busch, Andrew E. *Reagan's Victory: The Presidential Election of 1980 and the Rise of the Right*. Lawrence: University Press of Kansas, 2005, pp. 156-163.
+[^114]: Busch, Andrew E. _Reagan's Victory: The Presidential Election of 1980 and the Rise of the Right_. Lawrence: University Press of Kansas, 2005, pp. 156-163.
 
-[^115]: Farrell, John A. *Tip O'Neill and the Democratic Century*. Boston: Little, Brown, 2001, pp. 598-612.
+[^115]: Farrell, John A. _Tip O'Neill and the Democratic Century_. Boston: Little, Brown, 2001, pp. 598-612.
 
-[^116]: Wilentz, Sean. "The Worst President in History?" *Rolling Stone*, May 4, 2006.
+[^116]: Wilentz, Sean. "The Worst President in History?" _Rolling Stone_, May 4, 2006.
 
-[^117]: Sabato, Larry J. *Feeding Frenzy: Attack Journalism and American Politics*, updated ed. Baltimore: Lanahan Publishers, 2000, p. 143.
+[^117]: Sabato, Larry J. _Feeding Frenzy: Attack Journalism and American Politics_, updated ed. Baltimore: Lanahan Publishers, 2000, p. 143.
 
-[^118]: Krugman, Paul. *Peddling Prosperity*, pp. 89-115.
+[^118]: Krugman, Paul. _Peddling Prosperity_, pp. 89-115.
 
-[^119]: Mishel, Lawrence, Jared Bernstein, and John Schmitt. *The State of Working America 1998-99*. Ithaca: Cornell University Press, 1999, pp. 56-62.
+[^119]: Mishel, Lawrence, Jared Bernstein, and John Schmitt. _The State of Working America 1998-99_. Ithaca: Cornell University Press, 1999, pp. 56-62.
 
-[^120]: Stiglitz, Joseph E. *The Roaring Nineties: A New History of the World's Most Prosperous Decade*. New York: W.W. Norton, 2003, pp. 98-105.
+[^120]: Stiglitz, Joseph E. _The Roaring Nineties: A New History of the World's Most Prosperous Decade_. New York: W.W. Norton, 2003, pp. 98-105.
 
-[^121]: Wills, Garry. *Reagan's America*, pp. 381-387.
+[^121]: Wills, Garry. _Reagan's America_, pp. 381-387.
 
-[^122]: Wills, Garry. "Mr. Magoo Remembers." *New York Review of Books*, December 20, 1990.
+[^122]: Wills, Garry. "Mr. Magoo Remembers." _New York Review of Books_, December 20, 1990.
 
-[^123]: Dyson, Michael Eric. *Tears We Cannot Stop: A Sermon to White America*. New York: St. Martin's Press, 2017, pp. 89-93.
+[^123]: Dyson, Michael Eric. _Tears We Cannot Stop: A Sermon to White America_. New York: St. Martin's Press, 2017, pp. 89-93.
 
-[^124]: Gilens, Martin. *Why Americans Hate Welfare*, pp. 102-132.
+[^124]: Gilens, Martin. _Why Americans Hate Welfare_, pp. 102-132.
 
-[^125]: LeoGrande, William M. *Our Own Backyard*, pp. 565-578.
+[^125]: LeoGrande, William M. _Our Own Backyard_, pp. 565-578.
 
-[^126]: Grandin, Greg. *Empire's Workshop: Latin America, the United States, and the Rise of the New Imperialism*. New York: Metropolitan Books, 2006, pp. 89-107.
+[^126]: Grandin, Greg. _Empire's Workshop: Latin America, the United States, and the Rise of the New Imperialism_. New York: Metropolitan Books, 2006, pp. 89-107.
 
-[^127]: Evangelista, Matthew. "Stalin's Revenge: Institutional Barriers to Internationalization in the Soviet Union." In *Internationalization and Domestic Politics*, edited by Robert O. Keohane and Helen V. Milner, 159-185. Cambridge: Cambridge University Press, 1996.
+[^127]: Evangelista, Matthew. "Stalin's Revenge: Institutional Barriers to Internationalization in the Soviet Union." In _Internationalization and Domestic Politics_, edited by Robert O. Keohane and Helen V. Milner, 159-185. Cambridge: Cambridge University Press, 1996.
 
-[^128]: Mann, James. *The Rebellion of Ronald Reagan: A History of the End of the Cold War*. New York: Viking, 2009, pp. 67-78.
+[^128]: Mann, James. _The Rebellion of Ronald Reagan: A History of the End of the Cold War_. New York: Viking, 2009, pp. 67-78.
 
-[^129]: Brier, Jennifer. *Infectious Ideas*, pp. 187-195.
+[^129]: Brier, Jennifer. _Infectious Ideas_, pp. 187-195.
 
-[^130]: Shilts, Randy. *And the Band Played On*, pp. 596-611.
+[^130]: Shilts, Randy. _And the Band Played On_, pp. 596-611.
 
-[^131]: Greider, William. *Secrets of the Temple: How the Federal Reserve Runs the Country*. New York: Simon & Schuster, 1987, pp. 456-478.
+[^131]: Greider, William. _Secrets of the Temple: How the Federal Reserve Runs the Country_. New York: Simon & Schuster, 1987, pp. 456-478.
 
-[^132]: Schaller, Michael. *Reckoning with Reagan*, pp. 163-171.
+[^132]: Schaller, Michael. _Reckoning with Reagan_, pp. 163-171.
 
 [^133]: Reagan, Ronald. "Inaugural Address," January 20, 1981. Public Papers of the Presidents.
 
 [^134]: Reagan, Ronald. "Remarks at the Brandenburg Gate," June 12, 1987. Ronald Reagan Presidential Library.
 
-[^135]: Cannon, Lou. *President Reagan: The Role of a Lifetime*, p. 400.
+[^135]: Cannon, Lou. _President Reagan: The Role of a Lifetime_, p. 400.
 
 [^136]: Reagan, Ronald. "Press Conference," August 12, 1986. Public Papers of the Presidents.
 

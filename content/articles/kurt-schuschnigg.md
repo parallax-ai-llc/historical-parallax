@@ -125,30 +125,30 @@ Critics also point to the fundamental contradiction in Schuschnigg's position: w
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1897 | Born on December 14 in Riva del Garda, Austria-Hungary |
-| 1915-1919 | Served in World War I, taken prisoner on Italian Front |
-| 1922 | Received doctorate in law from University of Innsbruck |
-| 1924 | Married Herma Masera |
-| 1926 | Son Kurt born |
-| 1927 | Elected to Nationalrat, youngest parliamentary deputy |
-| 1932 | Appointed Minister of Justice under Chancellor Buresch |
-| 1933 | Also became Minister of Education under Dollfuss |
-| 1934 | Ordered execution of eight socialist insurgents in February; Became Chancellor on July 29 following Dollfuss's assassination |
-| 1935 | Wife Herma died in automobile accident on July 13 |
-| 1936 | Signed agreement with Hitler in July, released July Putsch conspirators |
-| 1938 | Met Hitler at Berchtesgaden on February 12; Married Vera Czernin by proxy; Announced plebiscite on March 9; Resigned on March 11; Placed under house arrest on March 12 during Anschluss |
-| 1938-1945 | Imprisoned in Gestapo headquarters, Sachsenhausen, and Dachau concentration camps |
-| 1941 | Daughter Maria Dolores Elisabeth born during captivity |
-| 1945 | Liberated by American troops on May 4 |
-| 1947 | Emigrated to United States with family |
-| 1948 | Began teaching at Saint Louis University |
-| 1956 | Became United States citizen |
-| 1959 | Second wife Vera died of cancer in September |
-| 1967 | Retired from Saint Louis University, received Fleur-de-Lis Award |
-| 1967 | Returned to Austria, settled in Mutters near Innsbruck |
-| 1977 | Died on November 18 in Mutters, Austria |
+| Year      | Event                                                                                                                                                                                    |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1897      | Born on December 14 in Riva del Garda, Austria-Hungary                                                                                                                                   |
+| 1915-1919 | Served in World War I, taken prisoner on Italian Front                                                                                                                                   |
+| 1922      | Received doctorate in law from University of Innsbruck                                                                                                                                   |
+| 1924      | Married Herma Masera                                                                                                                                                                     |
+| 1926      | Son Kurt born                                                                                                                                                                            |
+| 1927      | Elected to Nationalrat, youngest parliamentary deputy                                                                                                                                    |
+| 1932      | Appointed Minister of Justice under Chancellor Buresch                                                                                                                                   |
+| 1933      | Also became Minister of Education under Dollfuss                                                                                                                                         |
+| 1934      | Ordered execution of eight socialist insurgents in February; Became Chancellor on July 29 following Dollfuss's assassination                                                             |
+| 1935      | Wife Herma died in automobile accident on July 13                                                                                                                                        |
+| 1936      | Signed agreement with Hitler in July, released July Putsch conspirators                                                                                                                  |
+| 1938      | Met Hitler at Berchtesgaden on February 12; Married Vera Czernin by proxy; Announced plebiscite on March 9; Resigned on March 11; Placed under house arrest on March 12 during Anschluss |
+| 1938-1945 | Imprisoned in Gestapo headquarters, Sachsenhausen, and Dachau concentration camps                                                                                                        |
+| 1941      | Daughter Maria Dolores Elisabeth born during captivity                                                                                                                                   |
+| 1945      | Liberated by American troops on May 4                                                                                                                                                    |
+| 1947      | Emigrated to United States with family                                                                                                                                                   |
+| 1948      | Began teaching at Saint Louis University                                                                                                                                                 |
+| 1956      | Became United States citizen                                                                                                                                                             |
+| 1959      | Second wife Vera died of cancer in September                                                                                                                                             |
+| 1967      | Retired from Saint Louis University, received Fleur-de-Lis Award                                                                                                                         |
+| 1967      | Returned to Austria, settled in Mutters near Innsbruck                                                                                                                                   |
+| 1977      | Died on November 18 in Mutters, Austria                                                                                                                                                  |
 
 ---
 
@@ -169,85 +169,167 @@ Critics also point to the fundamental contradiction in Schuschnigg's position: w
 ## References
 
 [^1]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^2]: [Kurt von Schuschnigg | Austrian politics, Anschluss, Nazi Germany | Britannica](https://www.britannica.com/biography/Kurt-von-Schuschnigg)
+
 [^3]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^4]: [Schuschnigg, Kurt | ArchivesSpace Public Interface](https://archives.slu.edu/agents/people/383)
+
 [^5]: [Kurt Von Schuschnigg | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/kurt-von-schuschnigg)
+
 [^6]: [Kurt von Schuschnigg : Nazi Germany](https://spartacus-educational.com/GERschuschnigg.htm)
+
 [^7]: [Schuschnigg, Kurt | ArchivesSpace Public Interface](https://archives.slu.edu/agents/people/383)
+
 [^8]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^9]: [Kurt von Schuschnigg biography. Federal Chancellor of Austria](https://biographs.org/kurt-von-schuschnigg)
+
 [^10]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^11]: [Kurt von Schuschnigg | Austrian politics, Anschluss, Nazi Germany | Britannica](https://www.britannica.com/biography/Kurt-von-Schuschnigg)
+
 [^12]: [Kurt Schuschnigg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Kurt_Schuschnigg)
+
 [^13]: [Kurt von Schuschnigg biography. Federal Chancellor of Austria](https://biographs.org/kurt-von-schuschnigg)
+
 [^14]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^15]: [Kurt Schuschnigg | gedenkort.at](https://gedenkort.at/en/persons/8883020c-143a-5602-a1a6-02a8d3a0b540)
+
 [^16]: [Kurt Schuschnigg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Kurt_Schuschnigg)
+
 [^17]: [July Putsch - Wikipedia](https://en.wikipedia.org/wiki/July_Putsch)
+
 [^18]: [Kurt Schuschnigg](https://grokipedia.com/page/Kurt_Schuschnigg)
+
 [^19]: [Kurt von Schuschnigg biography. Federal Chancellor of Austria](https://biographs.org/kurt-von-schuschnigg)
+
 [^20]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^21]: [Kurt Schuschnigg: The 15th Chancellor of Austria and His Historical Le](https://dayhist.com/persons/kurt-schuschnigg-historical-legacy)
+
 [^22]: [1934 to 1938: Ständestaat in the Name of "God, the Almighty"](https://www.wien.gv.at/english/history/commemoration/staendestaat.html)
+
 [^23]: [Federal State of Austria - Wikipedia](https://en.wikipedia.org/wiki/Federal_State_of_Austria)
-[^24]: [Fatherland Front (Austria) - Wikipedia](https://en.wikipedia.org/wiki/Fatherland_Front_(Austria))
+
+[^24]: [Fatherland Front (Austria) - Wikipedia](<https://en.wikipedia.org/wiki/Fatherland_Front_(Austria)>)
+
 [^25]: [Austrofascism - Wikipedia](https://en.wikipedia.org/wiki/Austrofascism)
+
 [^26]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^27]: [Otto and Austrofascism | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/otto-and-austrofascism)
+
 [^28]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^29]: [Nazi Territorial Aggression: The Anschluss | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/nazi-territorial-aggression-the-anschluss)
-[^30]: [Fatherland Front (Austria) - Wikipedia](https://en.wikipedia.org/wiki/Fatherland_Front_(Austria))
+
+[^30]: [Fatherland Front (Austria) - Wikipedia](<https://en.wikipedia.org/wiki/Fatherland_Front_(Austria)>)
+
 [^31]: [Kurt Schuschnigg: The 15th Chancellor of Austria and His Historical Le](https://dayhist.com/persons/kurt-schuschnigg-historical-legacy)
+
 [^32]: [Austria - Authoritarianism, Dollfuss, Schuschnigg | Britannica](https://www.britannica.com/place/Austria/Authoritarianism-Dollfuss-and-Schuschnigg)
+
 [^33]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^34]: [Federal State of Austria - Wikipedia](https://en.wikipedia.org/wiki/Federal_State_of_Austria)
+
 [^35]: [1934 to 1938: Ständestaat in the Name of "God, the Almighty"](https://www.wien.gv.at/english/history/commemoration/staendestaat.html)
-[^36]: [Fatherland Front (Austria) - Wikipedia](https://en.wikipedia.org/wiki/Fatherland_Front_(Austria))
+
+[^36]: [Fatherland Front (Austria) - Wikipedia](<https://en.wikipedia.org/wiki/Fatherland_Front_(Austria)>)
+
 [^37]: [Kurt von Schuschnigg | Austrian politics, Anschluss, Nazi Germany | Britannica](https://www.britannica.com/biography/Kurt-von-Schuschnigg)
-[^38]: [Fatherland Front (Austria) - Wikipedia](https://en.wikipedia.org/wiki/Fatherland_Front_(Austria))
+
+[^38]: [Fatherland Front (Austria) - Wikipedia](<https://en.wikipedia.org/wiki/Fatherland_Front_(Austria)>)
+
 [^39]: [How Austrian Chancellor Kurt Schuschnigg Survived Nazi Captivity](https://muse.jhu.edu/article/895797/summary)
+
 [^40]: [Kurt Schuschnigg: The 15th Chancellor of Austria and His Historical Le](https://dayhist.com/persons/kurt-schuschnigg-historical-legacy)
+
 [^41]: [Schuschnigg, Kurt | ArchivesSpace Public Interface](https://archives.slu.edu/agents/people/383)
+
 [^42]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^43]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^44]: [Schuschnigg, Kurt | ArchivesSpace Public Interface](https://archives.slu.edu/agents/people/383)
+
 [^45]: [How Austrian Chancellor Kurt Schuschnigg Survived Nazi Captivity](https://muse.jhu.edu/article/895797/summary)
+
 [^46]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^47]: [Schuschnigg, Kurt | ArchivesSpace Public Interface](https://archives.slu.edu/agents/people/383)
+
 [^48]: [Tradition of Scholarly Ambassadors of Austria in St. Louis — New Austrian](https://www.austrianinformation.org/winter-2009/tradition-of-scholarly-ambassadors-of-austria-in-st-louis.html)
+
 [^49]: [Kurt Schuschnigg: The 15th Chancellor of Austria and His Historical Le](https://dayhist.com/persons/kurt-schuschnigg-historical-legacy)
+
 [^50]: [Tradition of Scholarly Ambassadors of Austria in St. Louis — New Austrian](https://www.austrianinformation.org/winter-2009/tradition-of-scholarly-ambassadors-of-austria-in-st-louis.html)
+
 [^51]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^52]: [Kurt Schuschnigg - Alchetron, The Free Social Encyclopedia](https://alchetron.com/Kurt-Schuschnigg)
+
 [^53]: [My Austria. By Kurt Schuschnigg | Oxford Academic](https://academic.oup.com/ahr/article-abstract/44/4/912/69407)
+
 [^54]: [Kurt von Schuschnigg (Author of Austrian Requiem)](https://www.goodreads.com/author/show/1714078.Kurt_von_Schuschnigg)
+
 [^55]: [Kurt von Schuschnigg Books | List of books by author Kurt von Schuschnigg](https://www.thriftbooks.com/a/kurt-schuschnigg/552885/)
+
 [^56]: [Kurt Schuschnigg: The 15th Chancellor of Austria and His Historical Le](https://dayhist.com/persons/kurt-schuschnigg-historical-legacy)
+
 [^57]: [The Coming of the Dollfuss-Schuschnigg Regime and the Stages of its Development | SpringerLink](https://link.springer.com/chapter/10.1057/9781137384416_6)
+
 [^58]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^59]: [Listen to Austria Capitulates to Hitler | HISTORY Channel](https://www.history.com/speeches/austria-capitulates-to-hitler)
+
 [^60]: [Prison Elite: How Austrian Chancellor Kurt Schuschnigg Survived Nazi Captivity on JSTOR](https://www.jstor.org/stable/10.3138/j.ctv1s5nxg5)
+
 [^61]: [How Austrian Chancellor Kurt Schuschnigg Survived Nazi Captivity](https://muse.jhu.edu/article/895797/summary)
+
 [^62]: [Federal State of Austria - Wikipedia](https://en.wikipedia.org/wiki/Federal_State_of_Austria)
+
 [^63]: [Austrofascism - Wikipedia](https://en.wikipedia.org/wiki/Austrofascism)
+
 [^64]: [Kurt Schuschnigg Quotes (9 quotes) | Quotes of famous people](https://quotepark.com/authors/kurt-schuschnigg/)
+
 [^65]: [Events - November1938.at](https://november1938.at/en/events/)
+
 [^66]: [Tradition of Scholarly Ambassadors of Austria in St. Louis — New Austrian](https://www.austrianinformation.org/winter-2009/tradition-of-scholarly-ambassadors-of-austria-in-st-louis.html)
+
 [^67]: [Schuschnigg, Kurt | ArchivesSpace Public Interface](https://archives.slu.edu/agents/people/383)
+
 [^68]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^69]: [Kurt Schuschnigg | gedenkort.at](https://gedenkort.at/en/persons/8883020c-143a-5602-a1a6-02a8d3a0b540)
+
 [^70]: [Federal State of Austria - Wikipedia](https://en.wikipedia.org/wiki/Federal_State_of_Austria)
+
 [^71]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^72]: [Austria - Authoritarianism, Dollfuss, Schuschnigg | Britannica](https://www.britannica.com/place/Austria/Authoritarianism-Dollfuss-and-Schuschnigg)
+
 [^73]: [How Austrian Chancellor Kurt Schuschnigg Survived Nazi Captivity](https://muse.jhu.edu/article/895797/summary)
+
 [^74]: [Kurt Schuschnigg: The 15th Chancellor of Austria and His Historical Le](https://dayhist.com/persons/kurt-schuschnigg-historical-legacy)
+
 [^75]: [1934 to 1938: Ständestaat in the Name of "God, the Almighty"](https://www.wien.gv.at/english/history/commemoration/staendestaat.html)
-[^76]: [Fatherland Front (Austria) - Wikipedia](https://en.wikipedia.org/wiki/Fatherland_Front_(Austria))
+
+[^76]: [Fatherland Front (Austria) - Wikipedia](<https://en.wikipedia.org/wiki/Fatherland_Front_(Austria)>)
+
 [^77]: [Austrofascism - Wikipedia](https://en.wikipedia.org/wiki/Austrofascism)
+
 [^78]: [Kurt Schuschnigg: The 15th Chancellor of Austria and His Historical Le](https://dayhist.com/persons/kurt-schuschnigg-historical-legacy)
+
 [^79]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^80]: [Kurt Schuschnigg Quotes (9 quotes) | Quotes of famous people](https://quotepark.com/authors/kurt-schuschnigg/)
+
 [^81]: [Events - November1938.at](https://november1938.at/en/events/)
+
 [^82]: [Kurt Schuschnigg - Wikipedia](https://en.wikipedia.org/wiki/Kurt_Schuschnigg)
+
 [^83]: [Listen to Austria Capitulates to Hitler | HISTORY Channel](https://www.history.com/speeches/austria-capitulates-to-hitler)

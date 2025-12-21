@@ -135,22 +135,22 @@ The challenge facing historians is balancing these perspectives. As one scholar 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 634 BCE | Born in Chaldea, southeastern Babylonia |
-| 607/606 BCE | Commands army alongside father Nabopolassar in northern Assyria |
-| 605 BCE | Defeats Egyptian army at Battle of Carchemish |
-| 605 BCE | Succeeds to throne following death of Nabopolassar (August 16) |
-| 604-603 BCE | Conquers the Levant; Judah becomes Babylonian vassal state |
-| 601 BCE | Failed invasion of Egypt; heavy casualties on both sides |
-| 598-597 BCE | First siege and conquest of Jerusalem (March 16, 597 BCE) |
-| 597 BCE | First deportation of Jews to Babylon (approximately 7,000 people) |
-| 589 BCE | Begins second siege of Jerusalem (January) |
-| 587/586 BCE | Destroys Jerusalem and Solomon's Temple; Kingdom of Judah ends |
-| 586 BCE | Second major deportation of Jews to Babylon |
-| 582 BCE | Third deportation of Jews to Babylon |
-| c. 575 BCE | Construction of Ishtar Gate and major temple restorations |
-| 562 BCE | Dies in Babylon; succeeded by son Amel-Marduk (Evil-Merodach) |
+| Year        | Event                                                             |
+| ----------- | ----------------------------------------------------------------- |
+| c. 634 BCE  | Born in Chaldea, southeastern Babylonia                           |
+| 607/606 BCE | Commands army alongside father Nabopolassar in northern Assyria   |
+| 605 BCE     | Defeats Egyptian army at Battle of Carchemish                     |
+| 605 BCE     | Succeeds to throne following death of Nabopolassar (August 16)    |
+| 604-603 BCE | Conquers the Levant; Judah becomes Babylonian vassal state        |
+| 601 BCE     | Failed invasion of Egypt; heavy casualties on both sides          |
+| 598-597 BCE | First siege and conquest of Jerusalem (March 16, 597 BCE)         |
+| 597 BCE     | First deportation of Jews to Babylon (approximately 7,000 people) |
+| 589 BCE     | Begins second siege of Jerusalem (January)                        |
+| 587/586 BCE | Destroys Jerusalem and Solomon's Temple; Kingdom of Judah ends    |
+| 586 BCE     | Second major deportation of Jews to Babylon                       |
+| 582 BCE     | Third deportation of Jews to Babylon                              |
+| c. 575 BCE  | Construction of Ishtar Gate and major temple restorations         |
+| 562 BCE     | Dies in Babylon; succeeded by son Amel-Marduk (Evil-Merodach)     |
 
 ---
 
@@ -169,70 +169,137 @@ The challenge facing historians is balancing these perspectives. As one scholar 
 ## References
 
 [^1]: Britannica. "Nebuchadnezzar II | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Nebuchadnezzar-II
+
 [^2]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^3]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^4]: Wikipedia. "Babylonian captivity." https://en.wikipedia.org/wiki/Babylonian_captivity
+
 [^5]: Study.com. "King Nebuchadnezzar | Biography, Achievements & Facts." https://study.com/academy/lesson/king-nebuchadnezzar-biography-facts-achievements.html
+
 [^6]: Ancient Origins. "The Magnificent Projects of Nebuchadnezzar II, the Bible's Greatest Villain." https://www.ancient-origins.net/history-famous-people/magnificent-projects-king-nebuchadnezzar-ii-003609
+
 [^7]: Ducksters. "Ancient Mesopotamia: Biography of Nebuchadnezzar II." https://www.ducksters.com/history/mesopotamia/nebuchadnezzar_ii.php
+
 [^8]: Britannica. "Nebuchadnezzar II | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Nebuchadnezzar-II
+
 [^9]: Study.com. "King Nebuchadnezzar | Biography, Achievements & Facts." https://study.com/academy/lesson/king-nebuchadnezzar-biography-facts-achievements.html
+
 [^10]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^11]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^12]: Wikipedia. "Battle of Carchemish." https://en.wikipedia.org/wiki/Battle_of_Carchemish
+
 [^13]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^14]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^15]: New World Encyclopedia. "Nebuchadrezzar II." https://www.newworldencyclopedia.org/entry/Nebuchadrezzar_II
+
 [^16]: EBSCO Research Starters. "Nebuchadnezzar II." https://www.ebsco.com/research-starters/history/nebuchadnezzar-ii
+
 [^17]: Britannica. "Nebuchadnezzar II | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Nebuchadnezzar-II
+
 [^18]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^19]: New World Encyclopedia. "Nebuchadrezzar II." https://www.newworldencyclopedia.org/entry/Nebuchadrezzar_II
+
 [^20]: Britannica. "Nebuchadnezzar II | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Nebuchadnezzar-II
+
 [^21]: World History Edu. "History and Major Accomplishments of Nebuchadnezzar II." https://worldhistoryedu.com/history-and-major-accomplishments-of-nebuchadnezzar-ii-why-he-built-the-hanging-gardens-of-babylon/
+
 [^22]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^23]: World History Edu. "History and Major Accomplishments of Nebuchadnezzar II." https://worldhistoryedu.com/history-and-major-accomplishments-of-nebuchadnezzar-ii-why-he-built-the-hanging-gardens-of-babylon/
+
 [^24]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^25]: TheCollector. "The Hanging Gardens of Babylon: The Elusive Ancient Wonder." https://www.thecollector.com/hanging-gardens-babylon/
+
 [^26]: Wikipedia. "Hanging Gardens of Babylon." https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon
+
 [^27]: TheCollector. "Why the Hanging Gardens of Babylon Are History's Most Elusive Wonder." https://www.thecollector.com/hanging-gardens-of-babylon/
+
 [^28]: World History Edu. "The Siege of Jerusalem by Nebuchadnezzar II." https://worldhistoryedu.com/the-siege-of-jerusalem-by-nebuchadnezzar-ii/
+
 [^29]: Wikipedia. "Siege of Jerusalem (587 BC)." https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC)
+
 [^30]: Bible Odyssey. "Nebuchadnezzar." https://www.bibleodyssey.org/articles/nebuchadnezzar/
+
 [^31]: New World Encyclopedia. "Babylonian Exile." https://www.newworldencyclopedia.org/entry/Babylonian_Exile
+
 [^32]: Wikipedia. "Siege of Jerusalem (587 BC)." https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC)
+
 [^33]: Britannica. "Babylonian Captivity." https://www.britannica.com/event/Babylonian-Captivity
+
 [^34]: Wikipedia. "Babylonian captivity." https://en.wikipedia.org/wiki/Babylonian_captivity
+
 [^35]: New World Encyclopedia. "Babylonian Exile." https://www.newworldencyclopedia.org/entry/Babylonian_Exile
+
 [^36]: DailyHistory.org. "How Did Nebuchadnezzar Impact Ancient Near Eastern History." https://www.dailyhistory.org/How_Did_Nebuchadnezzar_Impact_Ancient_Near_Eastern_History
+
 [^37]: Medium. "Nebuchadnezzar as a Symbol of Collective Trauma." https://joshuakrug.medium.com/nebuchadnezzar-as-a-symbol-of-collective-trauma-the-portrayal-of-an-ancient-babylonian-king-in-6ee9d0e8c0b2
+
 [^38]: DailyHistory.org. "How Did Nebuchadnezzar Impact Ancient Near Eastern History." https://www.dailyhistory.org/How_Did_Nebuchadnezzar_Impact_Ancient_Near_Eastern_History
+
 [^39]: Wikipedia. "Siege of Jerusalem (587 BC)." https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC)
+
 [^40]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^41]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^42]: Livius. "Nebuchadnezzar II." https://www.livius.org/articles/person/nebuchadnezzar-ii/
+
 [^43]: Britannica. "Nebuchadnezzar II | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Nebuchadnezzar-II
+
 [^44]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^45]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^46]: Wikipedia. "Nebuchadnezzar II." https://en.wikipedia.org/wiki/Nebuchadnezzar_II
+
 [^47]: Biography.com. "Nebuchadnezzar II - Babylon, Wife & Religion." https://www.biography.com/political-figures/nebuchadnezzar-ii
+
 [^48]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^49]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^50]: EBSCO Research Starters. "Nebuchadnezzar II." https://www.ebsco.com/research-starters/history/nebuchadnezzar-ii
+
 [^51]: World History Edu. "History and Major Accomplishments of Nebuchadnezzar II." https://worldhistoryedu.com/history-and-major-accomplishments-of-nebuchadnezzar-ii-why-he-built-the-hanging-gardens-of-babylon/
+
 [^52]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^53]: DailyHistory.org. "How Did Nebuchadnezzar Impact Ancient Near Eastern History." https://www.dailyhistory.org/How_Did_Nebuchadnezzar_Impact_Ancient_Near_Eastern_History
+
 [^54]: World History Edu. "History and Major Accomplishments of Nebuchadnezzar II." https://worldhistoryedu.com/history-and-major-accomplishments-of-nebuchadnezzar-ii-why-he-built-the-hanging-gardens-of-babylon/
+
 [^55]: DailyHistory.org. "How Did Nebuchadnezzar Impact Ancient Near Eastern History." https://www.dailyhistory.org/How_Did_Nebuchadnezzar_Impact_Ancient_Near_Eastern_History
+
 [^56]: DailyHistory.org. "How Did Nebuchadnezzar Impact Ancient Near Eastern History." https://www.dailyhistory.org/How_Did_Nebuchadnezzar_Impact_Ancient_Near_Eastern_History
+
 [^57]: World History Edu. "History and Major Accomplishments of Nebuchadnezzar II." https://worldhistoryedu.com/history-and-major-accomplishments-of-nebuchadnezzar-ii-why-he-built-the-hanging-gardens-of-babylon/
+
 [^58]: EBSCO Research Starters. "Nebuchadnezzar II." https://www.ebsco.com/research-starters/history/nebuchadnezzar-ii
+
 [^59]: Medium. "Nebuchadnezzar as a Symbol of Collective Trauma." https://joshuakrug.medium.com/nebuchadnezzar-as-a-symbol-of-collective-trauma-the-portrayal-of-an-ancient-babylonian-king-in-6ee9d0e8c0b2
+
 [^60]: Medium. "Nebuchadnezzar as a Symbol of Collective Trauma." https://joshuakrug.medium.com/nebuchadnezzar-as-a-symbol-of-collective-trauma-the-portrayal-of-an-ancient-babylonian-king-in-6ee9d0e8c0b2
+
 [^61]: Medium. "Nebuchadnezzar as a Symbol of Collective Trauma." https://joshuakrug.medium.com/nebuchadnezzar-as-a-symbol-of-collective-trauma-the-portrayal-of-an-ancient-babylonian-king-in-6ee9d0e8c0b2
+
 [^62]: DailyHistory.org. "How Did Nebuchadnezzar Impact Ancient Near Eastern History." https://www.dailyhistory.org/How_Did_Nebuchadnezzar_Impact_Ancient_Near_Eastern_History
+
 [^63]: Wikipedia. "Siege of Jerusalem (587 BC)." https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC)
+
 [^64]: EBSCO Research Starters. "Nebuchadnezzar II." https://www.ebsco.com/research-starters/history/nebuchadnezzar-ii
+
 [^65]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^66]: World History Encyclopedia. "Nebuchadnezzar II." https://www.worldhistory.org/Nebuchadnezzar_II/
+
 [^67]: Bible Study Tools. "Daniel 4:28-37." https://www.biblestudytools.com/daniel/passage/?q=daniel+4:28-37
+
 [^68]: Bible Hub. "Daniel 4:37." https://biblehub.com/daniel/4-37.htm

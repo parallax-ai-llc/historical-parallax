@@ -96,4 +96,3 @@ export function SidebarToc({ items, activeId, articleTitle }: SidebarTocProps) {
     </aside>
   );
 }
-

@@ -139,24 +139,24 @@ Finally, some critics argue that the Zapata myth has been politically harmful, p
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1879 | Born on August 8 in Anenecuilco, Morelos, Mexico |
-| 1897 | Father Gabriel Zapata dies; Emiliano inherits responsibility for family lands |
-| 1906 | Attends meeting of peasant leaders in Cuautla discussing land rights |
-| 1909 | Elected president of the village council of Anenecuilco in September |
-| 1910 | Mexican Revolution begins in November; Zapata organizes armed peasants in Morelos |
-| 1911 | Zapata's forces capture several towns; Porfirio Díaz resigns in May; Zapata meets with President Madero but refuses to disarm |
-| 1911 | Issues the Plan de Ayala on November 28, declaring Madero a traitor and demanding land reform |
-| 1913 | Victoriano Huerta overthrows Madero in February; Zapata continues fighting against Huerta's dictatorship |
-| 1914 | Huerta defeated; Zapata allies with Pancho Villa against Carranza's Constitutionalist government |
-| 1914 | Meets Pancho Villa at Xochimilco in December; Zapatista and Villista forces briefly occupy Mexico City |
-| 1915 | Constitutionalist forces under Álvaro Obregón defeat Villa; Carranza's government consolidates power |
-| 1916-18 | Zapatista forces conduct guerrilla warfare against Constitutionalist army in Morelos |
-| 1917 | Mexican Constitution promulgated with Article 27 providing legal basis for land reform |
-| 1919 | Lured into ambush and assassinated at Hacienda de Chinameca on April 10 |
-| 1920 | Carranza government overthrown; new government begins honoring Zapata's memory |
-| 1994 | Zapatista Army of National Liberation (EZLN) emerges in Chiapas, adopting Zapata's name and legacy |
+| Year    | Event                                                                                                                         |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1879    | Born on August 8 in Anenecuilco, Morelos, Mexico                                                                              |
+| 1897    | Father Gabriel Zapata dies; Emiliano inherits responsibility for family lands                                                 |
+| 1906    | Attends meeting of peasant leaders in Cuautla discussing land rights                                                          |
+| 1909    | Elected president of the village council of Anenecuilco in September                                                          |
+| 1910    | Mexican Revolution begins in November; Zapata organizes armed peasants in Morelos                                             |
+| 1911    | Zapata's forces capture several towns; Porfirio Díaz resigns in May; Zapata meets with President Madero but refuses to disarm |
+| 1911    | Issues the Plan de Ayala on November 28, declaring Madero a traitor and demanding land reform                                 |
+| 1913    | Victoriano Huerta overthrows Madero in February; Zapata continues fighting against Huerta's dictatorship                      |
+| 1914    | Huerta defeated; Zapata allies with Pancho Villa against Carranza's Constitutionalist government                              |
+| 1914    | Meets Pancho Villa at Xochimilco in December; Zapatista and Villista forces briefly occupy Mexico City                        |
+| 1915    | Constitutionalist forces under Álvaro Obregón defeat Villa; Carranza's government consolidates power                          |
+| 1916-18 | Zapatista forces conduct guerrilla warfare against Constitutionalist army in Morelos                                          |
+| 1917    | Mexican Constitution promulgated with Article 27 providing legal basis for land reform                                        |
+| 1919    | Lured into ambush and assassinated at Hacienda de Chinameca on April 10                                                       |
+| 1920    | Carranza government overthrown; new government begins honoring Zapata's memory                                                |
+| 1994    | Zapatista Army of National Liberation (EZLN) emerges in Chiapas, adopting Zapata's name and legacy                            |
 
 ---
 
@@ -176,91 +176,178 @@ Finally, some critics argue that the Zapata myth has been politically harmful, p
 
 ## References
 
-[^1]: Womack, John Jr. *Zapata and the Mexican Revolution*. New York: Vintage Books, 1968.
-[^2]: Brunk, Samuel. *Emiliano Zapata: Revolution and Betrayal in Mexico*. University of New Mexico Press, 1995.
-[^3]: McLynn, Frank. *Villa and Zapata: A History of the Mexican Revolution*. Basic Books, 2000.
-[^4]: Hart, John M. *Revolutionary Mexico: The Coming and Process of the Mexican Revolution*. University of California Press, 1987.
-[^5]: Katz, Friedrich. *The Life and Times of Pancho Villa*. Stanford University Press, 1998.
-[^6]: Knight, Alan. *The Mexican Revolution, Volume 1: Porfirians, Liberals and Peasants*. Cambridge University Press, 1986.
-[^7]: Womack, John Jr. "The Mexican Revolution, 1910-1920." In *Mexico Since Independence*, edited by Leslie Bethell. Cambridge University Press, 1991.
-[^8]: Brunk, Samuel. "The Sad Situation of Civilians and Soldiers: The Banditry of Zapatismo in the Mexican Revolution." *American Historical Review* 101, no. 2 (1996): 331-353.
-[^9]: Warman, Arturo. "We Come to Object": The Peasants of Morelos and the National State*. Johns Hopkins University Press, 1980.
-[^10]: Joseph, Gilbert M., and Daniel Nugent, eds. *Everyday Forms of State Formation: Revolution and the Negotiation of Rule in Modern Mexico*. Duke University Press, 1994.
-[^11]: Womack, *Zapata and the Mexican Revolution*, 393-404 (Plan de Ayala text and analysis).
-[^12]: Knight, Alan. *The Mexican Revolution, Volume 2: Counter-revolution and Reconstruction*. Cambridge University Press, 1986.
-[^13]: Gilly, Adolfo. *The Mexican Revolution: A People's History*. New Press, 2005.
-[^14]: Wolf, Eric R. *Peasant Wars of the Twentieth Century*. University of Oklahoma Press, 1969.
-[^15]: Katz, Friedrich, ed. *Riot, Rebellion, and Revolution: Rural Social Conflict in Mexico*. Princeton University Press, 1988.
-[^16]: Vanderwood, Paul J. *Disorder and Progress: Bandits, Police, and Mexican Development*. Scholarly Resources, 1992.
-[^17]: Warman, *"We Come to Object"*, 81-134.
-[^18]: Sanderson, Steven E. *Agrarian Populism and the Mexican State: The Struggle for Land in Sonora*. University of California Press, 1981.
-[^19]: Tutino, John. *From Insurrection to Revolution in Mexico: Social Bases of Agrarian Violence, 1750-1940*. Princeton University Press, 1986.
-[^20]: Benjamin, Thomas, and Mark Wasserman, eds. *Provinces of the Revolution: Essays on Regional Mexican History, 1910-1929*. University of New Mexico Press, 1990.
-[^21]: McLynn, *Villa and Zapata*, 245-267.
-[^22]: Brunk, *Emiliano Zapata: Revolution and Betrayal*, 134-156.
-[^23]: Gilly, *The Mexican Revolution*, 187-215.
-[^24]: Wolf, *Peasant Wars of the Twentieth Century*, 3-48.
-[^25]: Knight, *The Mexican Revolution, Volume 2*, 318-342.
-[^26]: Cumberland, Charles C. *Mexican Revolution: The Constitutionalist Years*. University of Texas Press, 1972.
-[^27]: Brunk, Samuel. "Remembering Emiliano Zapata: Three Moments in the Posthumous Career of the Martyr of Chinameca." *Hispanic American Historical Review* 78, no. 3 (1998): 457-490.
-[^28]: Womack, *Zapata and the Mexican Revolution*, 228-245.
-[^29]: Knight, Alan. "The Mexican Revolution: Bourgeois? Nationalist? Or Just a 'Great Rebellion'?" *Bulletin of Latin American Research* 4, no. 2 (1985): 1-37.
-[^30]: Hart, *Revolutionary Mexico*, 283-301.
-[^31]: Katz, Friedrich. "Pancho Villa and the Attack on Columbus, New Mexico." *American Historical Review* 83, no. 1 (1978): 101-130.
-[^32]: Vanderwood, *Disorder and Progress*, 145-178.
-[^33]: Córdova, Arnaldo. *La ideología de la Revolución Mexicana*. Mexico City: Ediciones Era, 1973.
-[^34]: Knight, *The Mexican Revolution, Volume 2*, 298-317.
-[^35]: Krauze, Enrique. *Mexico: Biography of Power*. New York: HarperCollins, 1997.
-[^36]: Brunk, *Emiliano Zapata: Revolution and Betrayal*, 89-112.
-[^37]: Katz, *The Life and Times of Pancho Villa*, 456-489.
-[^38]: Knight, *The Mexican Revolution, Volume 2*, 234-256.
-[^39]: Tannenbaum, Frank. *The Mexican Agrarian Revolution*. Washington: Brookings Institution, 1930.
-[^40]: Simpson, Eyler N. *The Ejido: Mexico's Way Out*. University of North Carolina Press, 1937.
-[^41]: Salas, Elizabeth. *Soldaderas in the Mexican Military: Myth and History*. University of Texas Press, 1990.
-[^42]: Soto, Shirlene Ann. *The Emergence of the Modern Mexican Woman*. Denver: Arden Press, 1990.
-[^43]: Womack, *Zapata and the Mexican Revolution*, 147-152.
-[^44]: Brunk, *Emiliano Zapata: Revolution and Betrayal*, 67-73.
-[^45]: McLynn, *Villa and Zapata*, 178-184.
-[^46]: Pinchón, Edgcumb. *Zapata the Unconquerable*. New York: Doubleday, 1941.
-[^47]: Womack, *Zapata and the Mexican Revolution*, 8-12.
-[^48]: Brunk, *Emiliano Zapata: Revolution and Betrayal*, 23-29.
-[^49]: Warman, *"We Come to Object"*, 54-80.
-[^50]: Womack, *Zapata and the Mexican Revolution*, 228-245.
-[^51]: Brunk, *Emiliano Zapata: Revolution and Betrayal*, 134-156.
-[^52]: McLynn, *Villa and Zapata*, 312-328.
-[^53]: Brunk, Samuel. "The Mortal Remains of Emiliano Zapata." In *Death, Dismemberment, and Memory: Body Politics in Latin America*, edited by Lyman L. Johnson, 141-178. University of New Mexico Press, 2004.
-[^54]: Womack, *Zapata and the Mexican Revolution*, 323-338.
-[^55]: Cornelius, Wayne A., and Ann L. Craig. *The Mexican Political System in Transition*. Center for U.S.-Mexican Studies, 1991.
-[^56]: Hamilton, Nora. *The Limits of State Autonomy: Post-Revolutionary Mexico*. Princeton University Press, 1982.
-[^57]: O'Malley, Ilene V. *The Myth of the Revolution: Hero Cults and the Institutionalization of the Mexican State, 1920-1940*. Greenwood Press, 1986.
+[^1]: Womack, John Jr. _Zapata and the Mexican Revolution_. New York: Vintage Books, 1968.
+
+[^2]: Brunk, Samuel. _Emiliano Zapata: Revolution and Betrayal in Mexico_. University of New Mexico Press, 1995.
+
+[^3]: McLynn, Frank. _Villa and Zapata: A History of the Mexican Revolution_. Basic Books, 2000.
+
+[^4]: Hart, John M. _Revolutionary Mexico: The Coming and Process of the Mexican Revolution_. University of California Press, 1987.
+
+[^5]: Katz, Friedrich. _The Life and Times of Pancho Villa_. Stanford University Press, 1998.
+
+[^6]: Knight, Alan. _The Mexican Revolution, Volume 1: Porfirians, Liberals and Peasants_. Cambridge University Press, 1986.
+
+[^7]: Womack, John Jr. "The Mexican Revolution, 1910-1920." In _Mexico Since Independence_, edited by Leslie Bethell. Cambridge University Press, 1991.
+
+[^8]: Brunk, Samuel. "The Sad Situation of Civilians and Soldiers: The Banditry of Zapatismo in the Mexican Revolution." _American Historical Review_ 101, no. 2 (1996): 331-353.
+
+[^9]: Warman, Arturo. "We Come to Object": The Peasants of Morelos and the National State\*. Johns Hopkins University Press, 1980.
+
+[^10]: Joseph, Gilbert M., and Daniel Nugent, eds. _Everyday Forms of State Formation: Revolution and the Negotiation of Rule in Modern Mexico_. Duke University Press, 1994.
+
+[^11]: Womack, _Zapata and the Mexican Revolution_, 393-404 (Plan de Ayala text and analysis).
+
+[^12]: Knight, Alan. _The Mexican Revolution, Volume 2: Counter-revolution and Reconstruction_. Cambridge University Press, 1986.
+
+[^13]: Gilly, Adolfo. _The Mexican Revolution: A People's History_. New Press, 2005.
+
+[^14]: Wolf, Eric R. _Peasant Wars of the Twentieth Century_. University of Oklahoma Press, 1969.
+
+[^15]: Katz, Friedrich, ed. _Riot, Rebellion, and Revolution: Rural Social Conflict in Mexico_. Princeton University Press, 1988.
+
+[^16]: Vanderwood, Paul J. _Disorder and Progress: Bandits, Police, and Mexican Development_. Scholarly Resources, 1992.
+
+[^17]: Warman, _"We Come to Object"_, 81-134.
+
+[^18]: Sanderson, Steven E. _Agrarian Populism and the Mexican State: The Struggle for Land in Sonora_. University of California Press, 1981.
+
+[^19]: Tutino, John. _From Insurrection to Revolution in Mexico: Social Bases of Agrarian Violence, 1750-1940_. Princeton University Press, 1986.
+
+[^20]: Benjamin, Thomas, and Mark Wasserman, eds. _Provinces of the Revolution: Essays on Regional Mexican History, 1910-1929_. University of New Mexico Press, 1990.
+
+[^21]: McLynn, _Villa and Zapata_, 245-267.
+
+[^22]: Brunk, _Emiliano Zapata: Revolution and Betrayal_, 134-156.
+
+[^23]: Gilly, _The Mexican Revolution_, 187-215.
+
+[^24]: Wolf, _Peasant Wars of the Twentieth Century_, 3-48.
+
+[^25]: Knight, _The Mexican Revolution, Volume 2_, 318-342.
+
+[^26]: Cumberland, Charles C. _Mexican Revolution: The Constitutionalist Years_. University of Texas Press, 1972.
+
+[^27]: Brunk, Samuel. "Remembering Emiliano Zapata: Three Moments in the Posthumous Career of the Martyr of Chinameca." _Hispanic American Historical Review_ 78, no. 3 (1998): 457-490.
+
+[^28]: Womack, _Zapata and the Mexican Revolution_, 228-245.
+
+[^29]: Knight, Alan. "The Mexican Revolution: Bourgeois? Nationalist? Or Just a 'Great Rebellion'?" _Bulletin of Latin American Research_ 4, no. 2 (1985): 1-37.
+
+[^30]: Hart, _Revolutionary Mexico_, 283-301.
+
+[^31]: Katz, Friedrich. "Pancho Villa and the Attack on Columbus, New Mexico." _American Historical Review_ 83, no. 1 (1978): 101-130.
+
+[^32]: Vanderwood, _Disorder and Progress_, 145-178.
+
+[^33]: Córdova, Arnaldo. _La ideología de la Revolución Mexicana_. Mexico City: Ediciones Era, 1973.
+
+[^34]: Knight, _The Mexican Revolution, Volume 2_, 298-317.
+
+[^35]: Krauze, Enrique. _Mexico: Biography of Power_. New York: HarperCollins, 1997.
+
+[^36]: Brunk, _Emiliano Zapata: Revolution and Betrayal_, 89-112.
+
+[^37]: Katz, _The Life and Times of Pancho Villa_, 456-489.
+
+[^38]: Knight, _The Mexican Revolution, Volume 2_, 234-256.
+
+[^39]: Tannenbaum, Frank. _The Mexican Agrarian Revolution_. Washington: Brookings Institution, 1930.
+
+[^40]: Simpson, Eyler N. _The Ejido: Mexico's Way Out_. University of North Carolina Press, 1937.
+
+[^41]: Salas, Elizabeth. _Soldaderas in the Mexican Military: Myth and History_. University of Texas Press, 1990.
+
+[^42]: Soto, Shirlene Ann. _The Emergence of the Modern Mexican Woman_. Denver: Arden Press, 1990.
+
+[^43]: Womack, _Zapata and the Mexican Revolution_, 147-152.
+
+[^44]: Brunk, _Emiliano Zapata: Revolution and Betrayal_, 67-73.
+
+[^45]: McLynn, _Villa and Zapata_, 178-184.
+
+[^46]: Pinchón, Edgcumb. _Zapata the Unconquerable_. New York: Doubleday, 1941.
+
+[^47]: Womack, _Zapata and the Mexican Revolution_, 8-12.
+
+[^48]: Brunk, _Emiliano Zapata: Revolution and Betrayal_, 23-29.
+
+[^49]: Warman, _"We Come to Object"_, 54-80.
+
+[^50]: Womack, _Zapata and the Mexican Revolution_, 228-245.
+
+[^51]: Brunk, _Emiliano Zapata: Revolution and Betrayal_, 134-156.
+
+[^52]: McLynn, _Villa and Zapata_, 312-328.
+
+[^53]: Brunk, Samuel. "The Mortal Remains of Emiliano Zapata." In _Death, Dismemberment, and Memory: Body Politics in Latin America_, edited by Lyman L. Johnson, 141-178. University of New Mexico Press, 2004.
+
+[^54]: Womack, _Zapata and the Mexican Revolution_, 323-338.
+
+[^55]: Cornelius, Wayne A., and Ann L. Craig. _The Mexican Political System in Transition_. Center for U.S.-Mexican Studies, 1991.
+
+[^56]: Hamilton, Nora. _The Limits of State Autonomy: Post-Revolutionary Mexico_. Princeton University Press, 1982.
+
+[^57]: O'Malley, Ilene V. _The Myth of the Revolution: Hero Cults and the Institutionalization of the Mexican State, 1920-1940_. Greenwood Press, 1986.
+
 [^58]: Brunk, "Remembering Emiliano Zapata," 457-490.
-[^59]: Harvey, Neil. *The Chiapas Rebellion: The Struggle for Land and Democracy*. Duke University Press, 1998.
-[^60]: Rus, Jan, Rosalva Aída Hernández Castillo, and Shannan L. Mattiace, eds. *Mayan Lives, Mayan Utopias: The Indigenous Peoples of Chiapas and the Zapatista Rebellion*. Rowman & Littlefield, 2003.
-[^61]: Wolf, *Peasant Wars of the Twentieth Century*, 3-48.
-[^62]: Carr, Barry. "Marxism and Anarchism in the Formation of the Mexican Communist Party, 1910-19." *Hispanic American Historical Review* 63, no. 2 (1983): 277-305.
-[^63]: Vaughan, Mary Kay, and Stephen E. Lewis, eds. *The Eagle and the Virgin: Nation and Cultural Revolution in Mexico, 1920-1940*. Duke University Press, 2006.
+
+[^59]: Harvey, Neil. _The Chiapas Rebellion: The Struggle for Land and Democracy_. Duke University Press, 1998.
+
+[^60]: Rus, Jan, Rosalva Aída Hernández Castillo, and Shannan L. Mattiace, eds. _Mayan Lives, Mayan Utopias: The Indigenous Peoples of Chiapas and the Zapatista Rebellion_. Rowman & Littlefield, 2003.
+
+[^61]: Wolf, _Peasant Wars of the Twentieth Century_, 3-48.
+
+[^62]: Carr, Barry. "Marxism and Anarchism in the Formation of the Mexican Communist Party, 1910-19." _Hispanic American Historical Review_ 63, no. 2 (1983): 277-305.
+
+[^63]: Vaughan, Mary Kay, and Stephen E. Lewis, eds. _The Eagle and the Virgin: Nation and Cultural Revolution in Mexico, 1920-1940_. Duke University Press, 2006.
+
 [^64]: Brunk, "Remembering Emiliano Zapata," 457-490.
-[^65]: Womack, John Jr. "The Mexican Economy during the Revolution, 1910-1920: Historiography and Analysis." *Marxist Perspectives* 1, no. 4 (1978): 80-123.
-[^66]: Knight, Alan. "Interpreting the Mexican Revolution." *Texas Papers on Mexico*, Pre-publication working paper, Mexican Center, Institute of Latin American Studies, University of Texas at Austin, 1989.
-[^67]: Womack, *Zapata and the Mexican Revolution*, 393-404.
+
+[^65]: Womack, John Jr. "The Mexican Economy during the Revolution, 1910-1920: Historiography and Analysis." _Marxist Perspectives_ 1, no. 4 (1978): 80-123.
+
+[^66]: Knight, Alan. "Interpreting the Mexican Revolution." _Texas Papers on Mexico_, Pre-publication working paper, Mexican Center, Institute of Latin American Studies, University of Texas at Austin, 1989.
+
+[^67]: Womack, _Zapata and the Mexican Revolution_, 393-404.
+
 [^68]: Womack, John Jr. "The Mexican Revolution, 1910-1920," 79-153.
-[^69]: Gilly, *The Mexican Revolution*, 187-215.
-[^70]: Bartra, Armando. *Los herederos de Zapata: Movimientos campesinos posrevolucionarios en México*. Mexico City: Ediciones Era, 1985.
-[^71]: Wolf, *Peasant Wars of the Twentieth Century*, 3-48.
-[^72]: Wolf, Eric R. "Aspects of Group Relations in a Complex Society: Mexico." *American Anthropologist* 58, no. 6 (1956): 1065-1078.
-[^73]: Brunk, *Emiliano Zapata: Revolution and Betrayal*, 134-156.
-[^74]: Warman, *"We Come to Object"*, 81-134.
-[^75]: Nash, June. "The Reassertion of Indigenous Identity: Mayan Responses to State Intervention in Chiapas, Mexico." *Latin American Research Review* 30, no. 3 (1995): 7-41.
-[^76]: Harvey, *The Chiapas Rebellion*, 45-78.
-[^77]: Knight, *The Mexican Revolution, Volume 1*, 298-342.
+
+[^69]: Gilly, _The Mexican Revolution_, 187-215.
+
+[^70]: Bartra, Armando. _Los herederos de Zapata: Movimientos campesinos posrevolucionarios en México_. Mexico City: Ediciones Era, 1985.
+
+[^71]: Wolf, _Peasant Wars of the Twentieth Century_, 3-48.
+
+[^72]: Wolf, Eric R. "Aspects of Group Relations in a Complex Society: Mexico." _American Anthropologist_ 58, no. 6 (1956): 1065-1078.
+
+[^73]: Brunk, _Emiliano Zapata: Revolution and Betrayal_, 134-156.
+
+[^74]: Warman, _"We Come to Object"_, 81-134.
+
+[^75]: Nash, June. "The Reassertion of Indigenous Identity: Mayan Responses to State Intervention in Chiapas, Mexico." _Latin American Research Review_ 30, no. 3 (1995): 7-41.
+
+[^76]: Harvey, _The Chiapas Rebellion_, 45-78.
+
+[^77]: Knight, _The Mexican Revolution, Volume 1_, 298-342.
+
 [^78]: Knight, "The Mexican Revolution: Bourgeois? Nationalist? Or Just a 'Great Rebellion'?" 1-37.
-[^79]: Katz, Friedrich. "Introduction." In *Riot, Rebellion, and Revolution*, 3-21.
-[^80]: Knight, *The Mexican Revolution, Volume 2*, 318-342.
-[^81]: Krauze, *Mexico: Biography of Power*, 267-289.
-[^82]: Krauze, Enrique. "Emiliano Zapata: El amor a la tierra." In *Biografía del poder: Caudillos de la Revolución Mexicana (1910-1940)*. Mexico City: Tusquets Editores, 1997.
-[^83]: Gonzales, Michael J. *The Mexican Revolution, 1910-1940*. University of New Mexico Press, 2002.
-[^84]: Knight, *The Mexican Revolution, Volume 2*, 234-256.
-[^85]: Córdova, *La ideología de la Revolución Mexicana*, 134-178.
-[^86]: Meyer, Jean. *The Cristero Rebellion: The Mexican People Between Church and State, 1926-1929*. Cambridge University Press, 1976.
-[^87]: O'Malley, *The Myth of the Revolution*, 67-94.
-[^88]: Benjamin, Thomas. *La Revolución: Mexico's Great Revolution as Memory, Myth, and History*. University of Texas Press, 2000.
+
+[^79]: Katz, Friedrich. "Introduction." In _Riot, Rebellion, and Revolution_, 3-21.
+
+[^80]: Knight, _The Mexican Revolution, Volume 2_, 318-342.
+
+[^81]: Krauze, _Mexico: Biography of Power_, 267-289.
+
+[^82]: Krauze, Enrique. "Emiliano Zapata: El amor a la tierra." In _Biografía del poder: Caudillos de la Revolución Mexicana (1910-1940)_. Mexico City: Tusquets Editores, 1997.
+
+[^83]: Gonzales, Michael J. _The Mexican Revolution, 1910-1940_. University of New Mexico Press, 2002.
+
+[^84]: Knight, _The Mexican Revolution, Volume 2_, 234-256.
+
+[^85]: Córdova, _La ideología de la Revolución Mexicana_, 134-178.
+
+[^86]: Meyer, Jean. _The Cristero Rebellion: The Mexican People Between Church and State, 1926-1929_. Cambridge University Press, 1976.
+
+[^87]: O'Malley, _The Myth of the Revolution_, 67-94.
+
+[^88]: Benjamin, Thomas. _La Revolución: Mexico's Great Revolution as Memory, Myth, and History_. University of Texas Press, 2000.

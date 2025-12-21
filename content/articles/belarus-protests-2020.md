@@ -37,6 +37,7 @@ Unlike other post-Soviet autocrats, Lukashenko relied less on personal wealth ac
 ### Pre-2020 Opposition
 
 Previous challenges to Lukashenko largely failed:
+
 - **2006:** Election protests ("Jeans Revolution") crushed
 - **2010:** Post-election crackdown; hundreds arrested
 - **2017:** Tax protests; rare but limited
@@ -54,6 +55,7 @@ Lukashenko dismissed COVID-19 as "psychosis," recommending vodka and saunas. His
 ### Pre-Election Crackdowns
 
 Lukashenko's main potential rivals were eliminated before the vote:
+
 - **Siarhei Tsikhanouski:** Popular blogger; arrested in May 2020
 - **Viktar Babaryka:** Banker; arrested in June 2020
 - **Valery Tsepkalo:** Tech entrepreneur; fled before arrest
@@ -61,6 +63,7 @@ Lukashenko's main potential rivals were eliminated before the vote:
 ### Sviatlana Tsikhanouskaya
 
 When her husband was arrested, Tsikhanouskaya registered as a candidate:
+
 - 37-year-old English teacher; no political background
 - United with campaigns of Babaryka and Tsepkalo
 - Campaigned as three women (with Maria Kalesnikava and Veranika Tsepkala)
@@ -79,6 +82,7 @@ Official results: Lukashenko 80.1%; Tsikhanouskaya 10.1%
 ### First Wave (August 9-12)
 
 After polls closed:
+
 - Spontaneous protests erupted in Minsk and cities
 - Security forces used stun grenades, rubber bullets, tear gas
 - Nearly 7,000 arrested in first three days
@@ -89,6 +93,7 @@ After polls closed:
 **August 16:** Up to 200,000+ marched in Minsk ("March for Freedom")—unprecedented
 
 **Key features:**
+
 - White-red-white flags (pre-Soviet symbols)
 - Peaceful, family atmosphere
 - Women's marches every Saturday
@@ -111,6 +116,7 @@ After polls closed:
 ### Initial Brutality
 
 In the first days post-election:
+
 - Mass arrests (7,000+)
 - Systematic torture: beatings, electric shocks, stress positions, sexual violence
 - Detention centers overwhelmed
@@ -120,6 +126,7 @@ In the first days post-election:
 ### Escalation
 
 Despite initial shock, protests continued; regime intensified response:
+
 - Mass trials
 - Targeting of leaders
 - Media crackdowns
@@ -130,6 +137,7 @@ Despite initial shock, protests continued; regime intensified response:
 ### Long-Term Repression
 
 Scale of political repression:
+
 - **50,000+** detained for political reasons (since August 2020)
 - **1,200+** political prisoners (as of 2024)
 - **7,400+** politically motivated convictions
@@ -142,12 +150,14 @@ Scale of political repression:
 ## Death Toll and Casualties
 
 **Direct protest deaths:** At least 7-10 confirmed, including:
+
 - Aliaksandr Taraikouski (shot August 10)
 - Aliaksandr Vikhor (died after detention)
 - Henadz Shutau (shot August 11)
 - Raman Bandarenka (beaten, died November 12)
 
 **Deaths in custody:** Multiple, including:
+
 - Vitold Ashurak
 - Mikalai Klimovich
 - Ales Pushkin
@@ -162,21 +172,21 @@ Scale of political repression:
 
 ### Opposition
 
-| Name | Role |
-|------|------|
+| Name                     | Role                                    |
+| ------------------------ | --------------------------------------- |
 | Sviatlana Tsikhanouskaya | Opposition leader; in exile (Lithuania) |
-| Maria Kalesnikava | Campaign leader; imprisoned (11 years) |
-| Viktar Babaryka | Banker/candidate; imprisoned (14 years) |
-| Siarhei Tsikhanouski | Blogger; imprisoned (18 years) |
-| Ales Bialiatski | Nobel Peace Prize laureate; imprisoned |
+| Maria Kalesnikava        | Campaign leader; imprisoned (11 years)  |
+| Viktar Babaryka          | Banker/candidate; imprisoned (14 years) |
+| Siarhei Tsikhanouski     | Blogger; imprisoned (18 years)          |
+| Ales Bialiatski          | Nobel Peace Prize laureate; imprisoned  |
 
 ### Regime
 
-| Name | Role |
-|------|------|
-| Alexander Lukashenko | President since 1994 |
-| KGB/OMON | Security forces; led crackdown |
-| Vladimir Putin | Russian support crucial for survival |
+| Name                 | Role                                 |
+| -------------------- | ------------------------------------ |
+| Alexander Lukashenko | President since 1994                 |
+| KGB/OMON             | Security forces; led crackdown       |
+| Vladimir Putin       | Russian support crucial for survival |
 
 ---
 
@@ -255,43 +265,62 @@ Scale of political repression:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| May 2020 | Siarhei Tsikhanouski arrested |
-| June 2020 | Viktar Babaryka arrested |
-| July 2020 | Sviatlana Tsikhanouskaya registers |
-| August 9, 2020 | Election; immediate protests |
-| August 10-12, 2020 | 7,000+ arrested; widespread torture |
-| August 16, 2020 | 200,000+ march in Minsk |
-| August 2020 | Tsikhanouskaya exiled to Lithuania |
-| September 2020 | Maria Kalesnikava arrested |
-| November 12, 2020 | Raman Bandarenka killed |
-| May 2021 | Ryanair flight forced down; journalist arrested |
-| 2022 | Belarus allows Russian invasion of Ukraine from its territory |
-| 2024 | 1,200+ political prisoners remain |
-| December 2025 | 123 political prisoners released |
+| Date               | Event                                                         |
+| ------------------ | ------------------------------------------------------------- |
+| May 2020           | Siarhei Tsikhanouski arrested                                 |
+| June 2020          | Viktar Babaryka arrested                                      |
+| July 2020          | Sviatlana Tsikhanouskaya registers                            |
+| August 9, 2020     | Election; immediate protests                                  |
+| August 10-12, 2020 | 7,000+ arrested; widespread torture                           |
+| August 16, 2020    | 200,000+ march in Minsk                                       |
+| August 2020        | Tsikhanouskaya exiled to Lithuania                            |
+| September 2020     | Maria Kalesnikava arrested                                    |
+| November 12, 2020  | Raman Bandarenka killed                                       |
+| May 2021           | Ryanair flight forced down; journalist arrested               |
+| 2022               | Belarus allows Russian invasion of Ukraine from its territory |
+| 2024               | 1,200+ political prisoners remain                             |
+| December 2025      | 123 political prisoners released                              |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2020-2021 Belarusian Protests](https://en.wikipedia.org/wiki/2020%E2%80%932021_Belarusian_protests)
+
 [^2]: [AP News - Tsikhanouskaya](https://apnews.com/article/belarus-tsikhanouskaya-election-2020)
+
 [^3]: [HRW - Systematic Torture](https://www.hrw.org/report/2020/09/belarus-torture)
+
 [^4]: [IISS - Lukashenko's Belarus](https://www.iiss.org/publications/belarus-2020)
+
 [^5]: [Wikipedia - Previous Elections](https://en.wikipedia.org/wiki/Belarusian_presidential_elections)
+
 [^6]: [Community of Democracies - Background](https://community-democracies.org/belarus/)
+
 [^7]: [Wikipedia - Sviatlana Tsikhanouskaya](https://en.wikipedia.org/wiki/Sviatlana_Tsikhanouskaya)
+
 [^8]: [PBS - Election Fraud](https://www.pbs.org/newshour/world/belarus-election-fraud)
+
 [^9]: [HRW - First Days](https://www.hrw.org/news/2020/08/belarus-first-days)
+
 [^10]: [The Guardian - Protests](https://www.theguardian.com/world/2020/aug/16/belarus-protests)
+
 [^11]: [Georgetown - Analysis](https://berkleycenter.georgetown.edu/responses/belarus-2020)
+
 [^12]: [Amnesty - Torture](https://www.amnesty.org/en/latest/news/2020/belarus-torture/)
+
 [^13]: [Wikipedia - Deaths](https://en.wikipedia.org/wiki/2020%E2%80%932021_Belarusian_protests#Deaths)
+
 [^14]: [VOA News - Political Prisoners](https://www.voanews.com/a/belarus-political-prisoners/)
+
 [^15]: [RFE/RL - Detention](https://www.rferl.org/a/belarus-detention-statistics/)
+
 [^16]: [Straits Times - Russia Support](https://www.straitstimes.com/world/europe/putin-backs-lukashenko)
+
 [^17]: [New Belarus Vision - Analysis](https://newbelarus.vision/election-analysis/)
+
 [^18]: [LA Times - Aftermath](https://www.latimes.com/world-nation/belarus-aftermath/)
+
 [^19]: [Meduza - Releases](https://meduza.io/en/feature/2025/12/belarus-prisoner-release)
+
 [^20]: [UC Press - Belarus Ukraine](https://www.ucpress.edu/book/belarus-after-2020)

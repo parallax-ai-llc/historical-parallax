@@ -13,7 +13,7 @@ lastUpdated: "2025-12-21"
 
 ## Summary
 
-Liu Bei (161–223 CE) was a pivotal warlord and political leader during the tumultuous final decades of the Eastern Han Dynasty and the subsequent Three Kingdoms period in ancient China. Rising from humble origins as a mat-weaver and sandal-seller, he eventually established himself as the founding emperor of the Shu Han state, claiming legitimacy as a distant descendant of the Han imperial family. His life and career have been heavily romanticized in Chinese literature, particularly in the 14th-century historical novel *Romance of the Three Kingdoms*, which portrays him as a virtuous and benevolent ruler committed to restoring the Han Dynasty. Liu Bei's enduring legacy rests on his reputation for righteousness, his famous sworn brotherhood with Guan Yu and Zhang Fei, and his role as one of the three major powers competing for control of China during one of its most legendary historical periods.
+Liu Bei (161–223 CE) was a pivotal warlord and political leader during the tumultuous final decades of the Eastern Han Dynasty and the subsequent Three Kingdoms period in ancient China. Rising from humble origins as a mat-weaver and sandal-seller, he eventually established himself as the founding emperor of the Shu Han state, claiming legitimacy as a distant descendant of the Han imperial family. His life and career have been heavily romanticized in Chinese literature, particularly in the 14th-century historical novel _Romance of the Three Kingdoms_, which portrays him as a virtuous and benevolent ruler committed to restoring the Han Dynasty. Liu Bei's enduring legacy rests on his reputation for righteousness, his famous sworn brotherhood with Guan Yu and Zhang Fei, and his role as one of the three major powers competing for control of China during one of its most legendary historical periods.
 
 ---
 
@@ -21,7 +21,7 @@ Liu Bei (161–223 CE) was a pivotal warlord and political leader during the tum
 
 Liu Bei was born in 161 CE in Zhuo County, Zhuo Commandery (in present-day Hebei Province), during the reign of Emperor Huan of the Eastern Han Dynasty[^1]. According to traditional accounts, he was a descendant of Liu Sheng, a prince of the Western Han Dynasty and son of Emperor Jing, though this lineage placed him so far removed from the imperial succession that his family had long since fallen into poverty[^2]. His father, Liu Hong, died when Liu Bei was young, leaving him and his mother to survive through humble means—selling straw sandals and weaving mats for a living[^3].
 
-Despite his impoverished circumstances, Liu Bei received an education under Lu Zhi, a renowned Confucian scholar who would later become an important official and military commander[^4]. This education gave Liu Bei exposure to classical learning and administrative principles, though historical sources suggest he was more interested in military pursuits and chivalrous ideals than scholarly endeavors[^5]. According to the *Records of the Three Kingdoms* (*Sanguozhi*), Liu Bei was described as a man of few words who treated others with respect and showed little emotion on his face, attracting a following of young men despite his poverty[^6].
+Despite his impoverished circumstances, Liu Bei received an education under Lu Zhi, a renowned Confucian scholar who would later become an important official and military commander[^4]. This education gave Liu Bei exposure to classical learning and administrative principles, though historical sources suggest he was more interested in military pursuits and chivalrous ideals than scholarly endeavors[^5]. According to the _Records of the Three Kingdoms_ (_Sanguozhi_), Liu Bei was described as a man of few words who treated others with respect and showed little emotion on his face, attracting a following of young men despite his poverty[^6].
 
 The formative event of Liu Bei's early life was the outbreak of the Yellow Turban Rebellion in 184 CE, a massive peasant uprising that threatened to topple the already weakening Han Dynasty[^7]. Responding to the government's call for volunteers to suppress the rebels, Liu Bei organized a small military force with financial backing from two local merchants[^8]. It was during this period that he formed his legendary sworn brotherhood with Guan Yu and Zhang Fei, two warriors who would become his most trusted generals and closest companions[^9]. The famous "Oath of the Peach Garden," though likely a later literary embellishment, symbolizes their commitment to mutual loyalty and their shared goal of restoring order to the empire[^10].
 
@@ -53,7 +53,7 @@ Under Liu Bei's rule, the Shu Han state implemented effective administrative sys
 
 Liu Bei's military achievements, while mixed in their ultimate results, included several notable victories. His participation in the alliance that defeated Cao Cao at Red Cliffs prevented the unification of China under Wei control and established the three-way division of power that defined the era[^39]. His conquest of Yi Province demonstrated both military capability and strategic patience, as he carefully cultivated relationships within the province before making his move[^40]. The capture of Hanzhong in 219 CE marked his greatest military triumph, securing a crucial buffer zone against northern invasion and validating his status as a major power[^41].
 
-Beyond military and political accomplishments, Liu Bei's greatest achievement may have been his success in cultivating a powerful personal image and legend. Historical sources consistently emphasize his ability to inspire loyalty and devotion among his followers, even during periods of defeat and hardship[^42]. The *Records of the Three Kingdoms* notes numerous instances of Liu Bei's officers and soldiers refusing to abandon him despite opportunities to serve more successful warlords[^43]. This personal charisma and the loyalty it generated became a crucial asset, allowing him to recover from repeated setbacks that would have ended the careers of less compelling leaders[^44].
+Beyond military and political accomplishments, Liu Bei's greatest achievement may have been his success in cultivating a powerful personal image and legend. Historical sources consistently emphasize his ability to inspire loyalty and devotion among his followers, even during periods of defeat and hardship[^42]. The _Records of the Three Kingdoms_ notes numerous instances of Liu Bei's officers and soldiers refusing to abandon him despite opportunities to serve more successful warlords[^43]. This personal charisma and the loyalty it generated became a crucial asset, allowing him to recover from repeated setbacks that would have ended the careers of less compelling leaders[^44].
 
 Liu Bei's patronage of Confucian scholars and his public commitment to restoring the Han Dynasty created an ideological foundation for his state that resonated with contemporary political culture[^45]. While other warlords explicitly rejected Han legitimacy or paid it mere lip service, Liu Bei maintained a consistent rhetorical commitment to restoration, appealing to those who viewed the Han Dynasty's collapse as a civilizational crisis requiring rectification[^46]. This ideological positioning, though it did not prevent his state's eventual defeat, helped establish the narrative framework through which later generations would understand the Three Kingdoms period[^47].
 
@@ -67,15 +67,15 @@ Liu Bei's ability to maintain the crucial alliance with Sun Quan for extended pe
 
 Despite his generally positive historical reputation, Liu Bei's career included numerous controversial actions and decisions that historians have debated for centuries. The most significant criticism concerns his betrayal of Liu Zhang, the governor of Yi Province who had invited Liu Bei to help defend against external threats[^52]. After accepting Liu Zhang's hospitality and support, Liu Bei turned against his benefactor and seized control of the province through military force[^53]. This act of treachery contradicts the image of Liu Bei as a paragon of Confucian virtue and loyalty, revealing a ruthless pragmatism that characterized many of his strategic decisions[^54].
 
-Contemporary sources and later historians have questioned the sincerity of Liu Bei's claim to restore the Han Dynasty. Chen Shou, the author of the *Records of the Three Kingdoms* and a former Shu Han official, subtly criticizes Liu Bei's actions while maintaining a generally favorable portrayal[^55]. Modern historians have noted that Liu Bei's establishment of an independent imperial regime in 221 CE, while rhetorically framed as continuing the Han Dynasty, effectively represented the creation of a new dynasty competing for control of China[^56]. His actions often prioritized personal power accumulation over genuine restoration of Han authority[^57].
+Contemporary sources and later historians have questioned the sincerity of Liu Bei's claim to restore the Han Dynasty. Chen Shou, the author of the _Records of the Three Kingdoms_ and a former Shu Han official, subtly criticizes Liu Bei's actions while maintaining a generally favorable portrayal[^55]. Modern historians have noted that Liu Bei's establishment of an independent imperial regime in 221 CE, while rhetorically framed as continuing the Han Dynasty, effectively represented the creation of a new dynasty competing for control of China[^56]. His actions often prioritized personal power accumulation over genuine restoration of Han authority[^57].
 
 Liu Bei's decision to launch a massive military campaign against Sun Quan in 221-222 CE to avenge Guan Yu's death stands as his greatest strategic blunder and has generated substantial historical criticism[^58]. Despite warnings from his advisors, including Zhuge Liang and Zhao Yun, Liu Bei committed the bulk of his military forces to an invasion of Sun Quan's territory, culminating in the catastrophic Battle of Xiaoting (also called the Battle of Yiling)[^59]. The campaign resulted in devastating losses, including the destruction of most of Shu Han's main army and the deaths of numerous experienced generals[^60]. This disastrous defeat, driven primarily by Liu Bei's emotional desire for revenge rather than strategic calculation, permanently weakened Shu Han and eliminated any realistic possibility of unifying China[^61].
 
-Historical sources suggest Liu Bei could be cruel and ruthless when politically convenient. The *Sanguozhi* records instances where Liu Bei ordered executions and engaged in violence that contradicted his cultivated image of benevolence[^62]. His treatment of rivals and potential threats within his own territories demonstrated the same hard-edged pragmatism common to other warlords of his era, despite his reputation for virtue[^63].
+Historical sources suggest Liu Bei could be cruel and ruthless when politically convenient. The _Sanguozhi_ records instances where Liu Bei ordered executions and engaged in violence that contradicted his cultivated image of benevolence[^62]. His treatment of rivals and potential threats within his own territories demonstrated the same hard-edged pragmatism common to other warlords of his era, despite his reputation for virtue[^63].
 
 Critics have also pointed to Liu Bei's frequent territorial losses and military defeats throughout his career as evidence of limited strategic and tactical ability[^64]. Before the conquest of Yi Province, Liu Bei's career was characterized by repeated failures to maintain independent power bases, often requiring him to seek refuge under other warlords[^65]. While his supporters attribute these setbacks to unfavorable circumstances and superior enemy forces, critics argue they reflect genuine limitations in Liu Bei's military capabilities[^66].
 
-Some historians have questioned whether Liu Bei's personal qualities were truly as exceptional as traditional accounts suggest, arguing that much of his positive reputation derives from literary embellishment rather than historical fact[^67]. The *Romance of the Three Kingdoms*, written over a millennium after Liu Bei's death, significantly amplified and exaggerated his virtues while minimizing his flaws, creating a semi-mythological figure that may bear limited resemblance to the historical individual[^68].
+Some historians have questioned whether Liu Bei's personal qualities were truly as exceptional as traditional accounts suggest, arguing that much of his positive reputation derives from literary embellishment rather than historical fact[^67]. The _Romance of the Three Kingdoms_, written over a millennium after Liu Bei's death, significantly amplified and exaggerated his virtues while minimizing his flaws, creating a semi-mythological figure that may bear limited resemblance to the historical individual[^68].
 
 The allocation of offices and rewards in Liu Bei's regime has also drawn criticism for favoring those from his home region and longtime followers over more qualified candidates from Yi Province and other newly acquired territories[^69]. This favoritism created tensions within his administration and may have limited the regime's effectiveness and stability[^70].
 
@@ -87,7 +87,7 @@ Historical sources provide limited but intriguing details about Liu Bei's person
 
 Liu Bei's principal empress was Lady Gan, who bore his first son Liu Shan, though she died before Liu Bei proclaimed himself emperor[^75]. After her death, Lady Wu became empress and was known for her virtue and adherence to proper protocol[^76]. These marriages reflected both personal preference and political necessity, as marriage alliances were crucial tools of statecraft during the Three Kingdoms period[^77].
 
-Contemporary descriptions of Liu Bei's physical appearance have become famous in Chinese cultural memory. The *Records of the Three Kingdoms* describes him as having arms long enough that when standing, his hands reached below his knees, and ears so large he could see them by turning his head—features interpreted as auspicious signs of imperial destiny[^78]. While these descriptions likely contain elements of embellishment meant to portray Liu Bei as physically remarkable, they established iconic visual characteristics that persisted in artistic representations for centuries[^79].
+Contemporary descriptions of Liu Bei's physical appearance have become famous in Chinese cultural memory. The _Records of the Three Kingdoms_ describes him as having arms long enough that when standing, his hands reached below his knees, and ears so large he could see them by turning his head—features interpreted as auspicious signs of imperial destiny[^78]. While these descriptions likely contain elements of embellishment meant to portray Liu Bei as physically remarkable, they established iconic visual characteristics that persisted in artistic representations for centuries[^79].
 
 Liu Bei's personality, as portrayed in historical sources, combined accessibility with carefully maintained emotional control. He was known for weeping easily, particularly when parting with allies or confronting setbacks, a characteristic that demonstrated emotional engagement while potentially serving as a calculated political tool to display his humanity and sincerity[^80]. His ability to remain calm and composed in most situations, showing little emotion on his face, contrasted with these displays of tears and created an image of depth and complexity[^81].
 
@@ -103,11 +103,11 @@ His relationships with his sons, particularly Liu Shan who succeeded him as empe
 
 Liu Bei's legacy extends far beyond his actual historical achievements, making him one of the most culturally significant figures in Chinese civilization. His image as a virtuous, benevolent ruler committed to righteousness became an archetype of ideal leadership in Chinese political culture, influencing how subsequent generations understood the relationship between moral character and political legitimacy[^88]. The Confucian values he purportedly embodied—loyalty, benevolence, righteousness, and humility—made him a model figure in traditional Chinese ethics and political philosophy[^89].
 
-The *Romance of the Three Kingdoms*, written by Luo Guanzhong in the 14th century, transformed Liu Bei from a historical figure into a legendary hero[^90]. This novel, one of the Four Great Classical Novels of Chinese literature, shaped popular understanding of the Three Kingdoms period for centuries and remains enormously influential in Chinese-speaking communities worldwide[^91]. The novel's portrayal of Liu Bei as the embodiment of virtue, contrasted with Cao Cao's cunning and Sun Quan's opportunism, created a moral framework that dominated cultural interpretations of the era[^92].
+The _Romance of the Three Kingdoms_, written by Luo Guanzhong in the 14th century, transformed Liu Bei from a historical figure into a legendary hero[^90]. This novel, one of the Four Great Classical Novels of Chinese literature, shaped popular understanding of the Three Kingdoms period for centuries and remains enormously influential in Chinese-speaking communities worldwide[^91]. The novel's portrayal of Liu Bei as the embodiment of virtue, contrasted with Cao Cao's cunning and Sun Quan's opportunism, created a moral framework that dominated cultural interpretations of the era[^92].
 
-Liu Bei's influence extends throughout East Asian popular culture, appearing in countless adaptations including operas, television series, films, video games, and other media[^93]. The story of the Three Kingdoms, with Liu Bei as a central protagonist, has been adapted and reinterpreted continuously for over seven centuries, making these characters and narratives among the most widely known in Chinese cultural history[^94]. Modern video game franchises like *Dynasty Warriors* and *Romance of the Three Kingdoms* have introduced Liu Bei and his contemporaries to global audiences, extending his cultural influence beyond traditional Chinese cultural spheres[^95].
+Liu Bei's influence extends throughout East Asian popular culture, appearing in countless adaptations including operas, television series, films, video games, and other media[^93]. The story of the Three Kingdoms, with Liu Bei as a central protagonist, has been adapted and reinterpreted continuously for over seven centuries, making these characters and narratives among the most widely known in Chinese cultural history[^94]. Modern video game franchises like _Dynasty Warriors_ and _Romance of the Three Kingdoms_ have introduced Liu Bei and his contemporaries to global audiences, extending his cultural influence beyond traditional Chinese cultural spheres[^95].
 
-In political discourse, Liu Bei has been invoked as both a positive and negative example by various Chinese political movements and leaders. Traditional Confucian scholars praised him as an exemplar of virtue in leadership, while revolutionaries and reformers sometimes criticized him as representing failed traditionalism[^96]. During the Cultural Revolution, Liu Bei and the *Romance of the Three Kingdoms* were subject to political reinterpretation, with some interpretations criticizing the novel's "feudal ideology" while others found revolutionary lessons in its narratives of struggle and resistance[^97].
+In political discourse, Liu Bei has been invoked as both a positive and negative example by various Chinese political movements and leaders. Traditional Confucian scholars praised him as an exemplar of virtue in leadership, while revolutionaries and reformers sometimes criticized him as representing failed traditionalism[^96]. During the Cultural Revolution, Liu Bei and the _Romance of the Three Kingdoms_ were subject to political reinterpretation, with some interpretations criticizing the novel's "feudal ideology" while others found revolutionary lessons in its narratives of struggle and resistance[^97].
 
 The concept of the "Peach Garden Oath" attributed to Liu Bei, Guan Yu, and Zhang Fei became a powerful symbol of loyalty, brotherhood, and honorable alliance in Chinese culture[^98]. This oath, while likely a later literary invention rather than historical fact, influenced how Chinese culture understood personal loyalty and created a model for sworn brotherhoods that was emulated by various organizations, including secret societies and fraternal groups[^99].
 
@@ -123,9 +123,9 @@ The Shu Han state he founded survived until 263 CE, outlasting Liu Bei himself b
 
 ### Positive Views
 
-Historians and scholars who view Liu Bei favorably emphasize his exceptional personal qualities and moral character as distinguishing features in an era dominated by ruthless warlords. Chen Shou, despite his occasional subtle criticisms, overall portrays Liu Bei positively in the *Records of the Three Kingdoms*, describing him as magnanimous, skilled at treating people well, and possessing the demeanor of a true leader[^106]. Chen Shou particularly emphasizes Liu Bei's ability to recognize and employ talented individuals, suggesting this capacity for identifying capable advisors and generals was his greatest strength[^107].
+Historians and scholars who view Liu Bei favorably emphasize his exceptional personal qualities and moral character as distinguishing features in an era dominated by ruthless warlords. Chen Shou, despite his occasional subtle criticisms, overall portrays Liu Bei positively in the _Records of the Three Kingdoms_, describing him as magnanimous, skilled at treating people well, and possessing the demeanor of a true leader[^106]. Chen Shou particularly emphasizes Liu Bei's ability to recognize and employ talented individuals, suggesting this capacity for identifying capable advisors and generals was his greatest strength[^107].
 
-Pei Songzhi, the 5th-century commentator on the *Records of the Three Kingdoms*, defends Liu Bei against various criticisms, arguing that his actions must be understood within the context of his era's political necessities[^108]. Pei argues that Liu Bei's seizure of Yi Province, while morally questionable, was strategically essential for survival and that Liu Bei showed considerable restraint compared to other warlords who committed far worse atrocities[^109].
+Pei Songzhi, the 5th-century commentator on the _Records of the Three Kingdoms_, defends Liu Bei against various criticisms, arguing that his actions must be understood within the context of his era's political necessities[^108]. Pei argues that Liu Bei's seizure of Yi Province, while morally questionable, was strategically essential for survival and that Liu Bei showed considerable restraint compared to other warlords who committed far worse atrocities[^109].
 
 Traditional Confucian scholars have long praised Liu Bei as exemplifying the principle that virtue, rather than mere military force, constitutes the foundation of legitimate rule[^110]. His humble origins and rise to imperial status through personal merit rather than inherited privilege made him an appealing figure for those who believed in social mobility and the importance of character over birth[^111]. The Ming Dynasty scholar Li Zhi argued that Liu Bei's sincerity and genuine benevolence were authentic rather than calculated, pointing to his consistent behavior across decades as evidence of true virtue rather than political performance[^112].
 
@@ -145,7 +145,7 @@ Critics emphasize Liu Bei's betrayal of Liu Zhang as revealing his true characte
 
 The catastrophic Xiaoting campaign has been cited as evidence of Liu Bei's fundamental unfitness for supreme command[^127]. Critics note that he ignored sound advice from experienced generals, allowed personal emotion to override strategic judgment, and made basic tactical errors that competent commanders would have avoided[^128]. The campaign's disastrous outcome permanently crippled Shu Han's military capability and eliminated any realistic possibility of fulfilling Liu Bei's stated goal of restoring the Han Dynasty, making it an act of spectacular strategic malpractice[^129].
 
-Some scholars argue that Liu Bei's reputation for virtue and benevolence derives almost entirely from literary embellishment rather than historical reality[^130]. They point out that primary historical sources contain limited concrete evidence of exceptional moral behavior, with most stories of Liu Bei's virtue appearing in later, less reliable accounts or in the obviously fictionalized *Romance of the Three Kingdoms*[^131]. These critics suggest that Liu Bei was merely average in moral terms for his era, neither notably better nor worse than other major warlords[^132].
+Some scholars argue that Liu Bei's reputation for virtue and benevolence derives almost entirely from literary embellishment rather than historical reality[^130]. They point out that primary historical sources contain limited concrete evidence of exceptional moral behavior, with most stories of Liu Bei's virtue appearing in later, less reliable accounts or in the obviously fictionalized _Romance of the Three Kingdoms_[^131]. These critics suggest that Liu Bei was merely average in moral terms for his era, neither notably better nor worse than other major warlords[^132].
 
 Historians critical of Liu Bei's military abilities note his consistently poor record in independent command before acquiring Yi Province[^133]. They argue that his eventual success owed far more to talented subordinates like Zhuge Liang and his generals than to his own capabilities[^134]. Some suggest that Liu Bei's primary skill was in cultivating a personal image that attracted talented followers, while his actual strategic and tactical judgment was mediocre at best[^135].
 
@@ -159,29 +159,29 @@ Some historians argue that Liu Bei's legacy has been disproportionately positive
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 161 | Born in Zhuo County, Zhuo Commandery (modern Hebei Province) |
-| 184 | Participated in campaigns against the Yellow Turban Rebellion; formed sworn brotherhood with Guan Yu and Zhang Fei |
-| 190s | Served under various warlords including Gongsun Zan; gained control of Pingyuan County |
-| 201 | Sought refuge with Liu Biao in Jing Province after military defeats |
-| 207 | Recruited Zhuge Liang as chief advisor after three visits to his cottage |
-| 208 | Allied with Sun Quan and participated in the decisive Battle of Red Cliffs against Cao Cao |
-| 209-211 | Secured control over portions of Jing Province |
-| 212-214 | Conquered Yi Province (Sichuan), betraying his host Liu Zhang |
-| 215 | Resolved territorial disputes with Sun Quan through negotiated settlement |
-| 219 | Captured Hanzhong from Cao Cao; proclaimed himself "King of Hanzhong" |
-| 219 | Guan Yu captured and executed by Sun Quan's forces; Jing Province lost |
-| 220 | Cao Pi established Wei Dynasty, ending the Han Dynasty |
-| 221 | Proclaimed himself Emperor of Shu Han |
-| 221-222 | Launched disastrous military campaign against Sun Quan; suffered catastrophic defeat at Battle of Xiaoting |
-| 223 | Died at Baidicheng (White Emperor City) at age 62; succeeded by son Liu Shan |
+| Year    | Event                                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 161     | Born in Zhuo County, Zhuo Commandery (modern Hebei Province)                                                       |
+| 184     | Participated in campaigns against the Yellow Turban Rebellion; formed sworn brotherhood with Guan Yu and Zhang Fei |
+| 190s    | Served under various warlords including Gongsun Zan; gained control of Pingyuan County                             |
+| 201     | Sought refuge with Liu Biao in Jing Province after military defeats                                                |
+| 207     | Recruited Zhuge Liang as chief advisor after three visits to his cottage                                           |
+| 208     | Allied with Sun Quan and participated in the decisive Battle of Red Cliffs against Cao Cao                         |
+| 209-211 | Secured control over portions of Jing Province                                                                     |
+| 212-214 | Conquered Yi Province (Sichuan), betraying his host Liu Zhang                                                      |
+| 215     | Resolved territorial disputes with Sun Quan through negotiated settlement                                          |
+| 219     | Captured Hanzhong from Cao Cao; proclaimed himself "King of Hanzhong"                                              |
+| 219     | Guan Yu captured and executed by Sun Quan's forces; Jing Province lost                                             |
+| 220     | Cao Pi established Wei Dynasty, ending the Han Dynasty                                                             |
+| 221     | Proclaimed himself Emperor of Shu Han                                                                              |
+| 221-222 | Launched disastrous military campaign against Sun Quan; suffered catastrophic defeat at Battle of Xiaoting         |
+| 223     | Died at Baidicheng (White Emperor City) at age 62; succeeded by son Liu Shan                                       |
 
 ---
 
 ## Famous Quotes
 
-> "Brothers are like one's hands and feet; wives and children are like clothing. One may mend torn clothing; if hands and feet are severed, how can they be reattached?" - Attributed to Liu Bei in *Romance of the Three Kingdoms*, though likely apocryphal, expressing his prioritization of loyalty to sworn brothers[^143]
+> "Brothers are like one's hands and feet; wives and children are like clothing. One may mend torn clothing; if hands and feet are severed, how can they be reattached?" - Attributed to Liu Bei in _Romance of the Three Kingdoms_, though likely apocryphal, expressing his prioritization of loyalty to sworn brothers[^143]
 
 > "Do not fail to commit good acts just because they are small; do not engage in evil acts just because they are small." - Deathbed advice to his son Liu Shan, emphasizing the importance of consistent virtue in both small and large matters[^144]
 
@@ -195,165 +195,165 @@ Some historians argue that Liu Bei's legacy has been disproportionately positive
 
 ## References
 
-[^1]: Chen Shou, *Records of the Three Kingdoms* (*Sanguozhi*), "Biography of the First Ruler" (first ruler referring to Liu Bei as founding emperor of Shu Han), 3rd century CE.
+[^1]: Chen Shou, _Records of the Three Kingdoms_ (_Sanguozhi_), "Biography of the First Ruler" (first ruler referring to Liu Bei as founding emperor of Shu Han), 3rd century CE.
 
-[^2]: Rafe de Crespigny, *A Biographical Dictionary of Later Han to the Three Kingdoms* (Leiden: Brill, 2007), 524-530.
+[^2]: Rafe de Crespigny, _A Biographical Dictionary of Later Han to the Three Kingdoms_ (Leiden: Brill, 2007), 524-530.
 
-[^3]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^3]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
-[^4]: de Crespigny, *Biographical Dictionary*, 525.
+[^4]: de Crespigny, _Biographical Dictionary_, 525.
 
-[^5]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^5]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^6]: Ibid.
 
-[^7]: Rafe de Crespigny, *Fire Over Luoyang: A History of the Later Han Dynasty 23-220 AD* (Leiden: Brill, 2016), 345-367.
+[^7]: Rafe de Crespigny, _Fire Over Luoyang: A History of the Later Han Dynasty 23-220 AD_ (Leiden: Brill, 2016), 345-367.
 
-[^8]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^8]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^9]: Ibid.
 
-[^10]: Luo Guanzhong, *Romance of the Three Kingdoms*, trans. C.H. Brewitt-Taylor (Tokyo: Tuttle, 1959), Chapter 1. Note: The Peach Garden Oath as detailed in the novel likely embellishes or invents details not in historical sources.
+[^10]: Luo Guanzhong, _Romance of the Three Kingdoms_, trans. C.H. Brewitt-Taylor (Tokyo: Tuttle, 1959), Chapter 1. Note: The Peach Garden Oath as detailed in the novel likely embellishes or invents details not in historical sources.
 
-[^11]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^11]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^12]: Ibid.
 
-[^13]: de Crespigny, *Biographical Dictionary*, 526.
+[^13]: de Crespigny, _Biographical Dictionary_, 526.
 
-[^14]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^14]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
-[^15]: Rafe de Crespigny, *Imperial Warlord: A Biography of Cao Cao 155-220 AD* (Leiden: Brill, 2010), 189-234.
+[^15]: Rafe de Crespigny, _Imperial Warlord: A Biography of Cao Cao 155-220 AD_ (Leiden: Brill, 2010), 189-234.
 
-[^16]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^16]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
-[^17]: de Crespigny, *Biographical Dictionary*, 527.
+[^17]: de Crespigny, _Biographical Dictionary_, 527.
 
-[^18]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhuge Liang."
+[^18]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhuge Liang."
 
 [^19]: Ibid.
 
 [^20]: Ibid.
 
-[^21]: Rafe de Crespigny, *Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu* (Canberra: Australian National University, 1990), 234-267.
+[^21]: Rafe de Crespigny, _Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu_ (Canberra: Australian National University, 1990), 234-267.
 
-[^22]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^22]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^23]: Ibid.
 
-[^24]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhou Yu"; de Crespigny, *Imperial Warlord*, 267-289.
+[^24]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhou Yu"; de Crespigny, _Imperial Warlord_, 267-289.
 
-[^25]: de Crespigny, *Imperial Warlord*, 278-285.
+[^25]: de Crespigny, _Imperial Warlord_, 278-285.
 
 [^26]: Ibid., 285-289.
 
-[^27]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^27]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^28]: Ibid.
 
-[^29]: de Crespigny, *Biographical Dictionary*, 528.
+[^29]: de Crespigny, _Biographical Dictionary_, 528.
 
-[^30]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^30]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^31]: Ibid.
 
-[^32]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Guan Yu."
+[^32]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Guan Yu."
 
-[^33]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^33]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^34]: Ibid.
 
-[^35]: Howard L. Goodman, "Ts'ao P'i Transcendent: The Political Culture of Dynasty-Founding in China at the End of the Han," in *Asia Major*, Third Series, Vol. 2, No. 1 (1989): 69-133.
+[^35]: Howard L. Goodman, "Ts'ao P'i Transcendent: The Political Culture of Dynasty-Founding in China at the End of the Han," in _Asia Major_, Third Series, Vol. 2, No. 1 (1989): 69-133.
 
-[^36]: Hans Bielenstein, "Wang Mang, the Restoration of the Han Dynasty, and Later Han," in *The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 B.C.–A.D. 220*, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 223-290.
+[^36]: Hans Bielenstein, "Wang Mang, the Restoration of the Han Dynasty, and Later Han," in _The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 B.C.–A.D. 220_, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 223-290.
 
-[^37]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhuge Liang."
+[^37]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhuge Liang."
 
-[^38]: de Crespigny, *Biographical Dictionary*, various entries on Shu Han officials.
+[^38]: de Crespigny, _Biographical Dictionary_, various entries on Shu Han officials.
 
-[^39]: de Crespigny, *Imperial Warlord*, 285-289.
+[^39]: de Crespigny, _Imperial Warlord_, 285-289.
 
-[^40]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^40]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^41]: Ibid.
 
 [^42]: Ibid.
 
-[^43]: Pei Songzhi's commentary on Chen Shou, *Records of the Three Kingdoms*, various passages.
+[^43]: Pei Songzhi's commentary on Chen Shou, _Records of the Three Kingdoms_, various passages.
 
-[^44]: de Crespigny, *Biographical Dictionary*, 529.
+[^44]: de Crespigny, _Biographical Dictionary_, 529.
 
-[^45]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^45]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^46]: Goodman, "Ts'ao P'i Transcendent," 95-110.
 
-[^47]: Andrew Chittick, *Patronage and Community in Medieval China: The Xiangyang Garrison, 400-600* (Albany: SUNY Press, 2009), 45-78.
+[^47]: Andrew Chittick, _Patronage and Community in Medieval China: The Xiangyang Garrison, 400-600_ (Albany: SUNY Press, 2009), 45-78.
 
-[^48]: Terry Kleeman, *Great Perfection: Religion and Ethnicity in a Chinese Millennial Kingdom* (Honolulu: University of Hawaii Press, 1998), 56-89.
+[^48]: Terry Kleeman, _Great Perfection: Religion and Ethnicity in a Chinese Millennial Kingdom_ (Honolulu: University of Hawaii Press, 1998), 56-89.
 
-[^49]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhuge Liang."
+[^49]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhuge Liang."
 
-[^50]: de Crespigny, *Generals of the South*, 267-298.
+[^50]: de Crespigny, _Generals of the South_, 267-298.
 
 [^51]: Ibid.
 
-[^52]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler" and "Biography of Liu Zhang."
+[^52]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler" and "Biography of Liu Zhang."
 
 [^53]: Ibid.
 
-[^54]: Achim Mittag, "Historiography and Identity: The Case of Liu Bei of Shu-Han (161-223)," in *East Asian History* 37 (2011): 45-68.
+[^54]: Achim Mittag, "Historiography and Identity: The Case of Liu Bei of Shu-Han (161-223)," in _East Asian History_ 37 (2011): 45-68.
 
-[^55]: Chen Shou, *Records of the Three Kingdoms*, subtle criticisms noted in Pei Songzhi's commentary.
+[^55]: Chen Shou, _Records of the Three Kingdoms_, subtle criticisms noted in Pei Songzhi's commentary.
 
 [^56]: Goodman, "Ts'ao P'i Transcendent," 105-115.
 
 [^57]: Mittag, "Historiography and Identity," 52-58.
 
-[^58]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^58]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^59]: Ibid.
 
-[^60]: Ibid.; de Crespigny, *Generals of the South*, 334-356.
+[^60]: Ibid.; de Crespigny, _Generals of the South_, 334-356.
 
-[^61]: de Crespigny, *Biographical Dictionary*, 529.
+[^61]: de Crespigny, _Biographical Dictionary_, 529.
 
-[^62]: Chen Shou, *Records of the Three Kingdoms*, various passages.
+[^62]: Chen Shou, _Records of the Three Kingdoms_, various passages.
 
 [^63]: Mittag, "Historiography and Identity," 55-59.
 
-[^64]: de Crespigny, *Biographical Dictionary*, 526-527.
+[^64]: de Crespigny, _Biographical Dictionary_, 526-527.
 
-[^65]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^65]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
-[^66]: Achim Mittag, "Liu Bei: The Making of a Hero in Chinese Popular Culture," in *Oriens Extremus* 42 (2000): 178-195.
+[^66]: Achim Mittag, "Liu Bei: The Making of a Hero in Chinese Popular Culture," in _Oriens Extremus_ 42 (2000): 178-195.
 
 [^67]: Mittag, "Liu Bei: The Making of a Hero," 180-185.
 
-[^68]: Luo Guanzhong, *Romance of the Three Kingdoms*; C.H. Brewitt-Taylor, "Introduction" to *Romance of the Three Kingdoms* (Tokyo: Tuttle, 1959), i-xxiv.
+[^68]: Luo Guanzhong, _Romance of the Three Kingdoms_; C.H. Brewitt-Taylor, "Introduction" to _Romance of the Three Kingdoms_ (Tokyo: Tuttle, 1959), i-xxiv.
 
-[^69]: Chen Shou, *Records of the Three Kingdoms*, various biographies of Shu Han officials.
+[^69]: Chen Shou, _Records of the Three Kingdoms_, various biographies of Shu Han officials.
 
-[^70]: Kleeman, *Great Perfection*, 67-78.
+[^70]: Kleeman, _Great Perfection_, 67-78.
 
-[^71]: Chen Shou, *Records of the Three Kingdoms*, "Biographies of Empresses and Imperial Consorts."
+[^71]: Chen Shou, _Records of the Three Kingdoms_, "Biographies of Empresses and Imperial Consorts."
 
 [^72]: Ibid.
 
-[^73]: Ibid.; de Crespigny, *Generals of the South*, 278-289.
+[^73]: Ibid.; de Crespigny, _Generals of the South_, 278-289.
 
-[^74]: Chen Shou, *Records of the Three Kingdoms*, "Biographies of Empresses and Imperial Consorts."
+[^74]: Chen Shou, _Records of the Three Kingdoms_, "Biographies of Empresses and Imperial Consorts."
 
 [^75]: Ibid.
 
 [^76]: Ibid.
 
-[^77]: Patricia Buckley Ebrey, *Women and the Family in Chinese History* (London: Routledge, 2003), 45-67.
+[^77]: Patricia Buckley Ebrey, _Women and the Family in Chinese History_ (London: Routledge, 2003), 45-67.
 
-[^78]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^78]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^79]: Mittag, "Liu Bei: The Making of a Hero," 186-189.
 
-[^80]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^80]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^81]: Ibid.
 
@@ -361,95 +361,95 @@ Some historians argue that Liu Bei's legacy has been disproportionately positive
 
 [^83]: Ibid.; Pei Songzhi's commentary.
 
-[^84]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^84]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^85]: Ibid.
 
 [^86]: Mittag, "Historiography and Identity," 54-56.
 
-[^87]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler" and "Biography of Zhuge Liang."
+[^87]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler" and "Biography of Zhuge Liang."
 
-[^88]: John K. Fairbank, ed., *The Chinese World Order: Traditional China's Foreign Relations* (Cambridge: Harvard University Press, 1968), 12-45.
+[^88]: John K. Fairbank, ed., _The Chinese World Order: Traditional China's Foreign Relations_ (Cambridge: Harvard University Press, 1968), 12-45.
 
-[^89]: Wing-tsit Chan, *A Source Book in Chinese Philosophy* (Princeton: Princeton University Press, 1963), 89-134.
+[^89]: Wing-tsit Chan, _A Source Book in Chinese Philosophy_ (Princeton: Princeton University Press, 1963), 89-134.
 
-[^90]: Luo Guanzhong, *Romance of the Three Kingdoms*.
+[^90]: Luo Guanzhong, _Romance of the Three Kingdoms_.
 
-[^91]: Andrew H. Plaks, *The Four Masterworks of the Ming Novel* (Princeton: Princeton University Press, 1987), 361-480.
+[^91]: Andrew H. Plaks, _The Four Masterworks of the Ming Novel_ (Princeton: Princeton University Press, 1987), 361-480.
 
 [^92]: Ibid., 395-425.
 
-[^93]: Daniel Bernardi and Juliet Kaarbo, "Dynasty Warriors and the Aesthetics of Chinese History in Video Games," in *Reconstruction: Studies in Contemporary Culture* 14.1 (2014).
+[^93]: Daniel Bernardi and Juliet Kaarbo, "Dynasty Warriors and the Aesthetics of Chinese History in Video Games," in _Reconstruction: Studies in Contemporary Culture_ 14.1 (2014).
 
-[^94]: Plaks, *Four Masterworks*, 361-480.
+[^94]: Plaks, _Four Masterworks_, 361-480.
 
-[^95]: Koei Corporation, *Romance of the Three Kingdoms* video game series (1985-present); Omega Force, *Dynasty Warriors* video game series (1997-present).
+[^95]: Koei Corporation, _Romance of the Three Kingdoms_ video game series (1985-present); Omega Force, _Dynasty Warriors_ video game series (1997-present).
 
 [^96]: Mittag, "Historiography and Identity," 60-65.
 
 [^97]: Ibid., 63-65.
 
-[^98]: Luo Guanzhong, *Romance of the Three Kingdoms*, Chapter 1.
+[^98]: Luo Guanzhong, _Romance of the Three Kingdoms_, Chapter 1.
 
-[^99]: David Ownby, *Brotherhoods and Secret Societies in Early and Mid-Qing China* (Stanford: Stanford University Press, 1996), 45-78.
+[^99]: David Ownby, _Brotherhoods and Secret Societies in Early and Mid-Qing China_ (Stanford: Stanford University Press, 1996), 45-78.
 
-[^100]: C.K. Yang, *Religion in Chinese Society* (Berkeley: University of California Press, 1961), 145-167.
+[^100]: C.K. Yang, _Religion in Chinese Society_ (Berkeley: University of California Press, 1961), 145-167.
 
 [^101]: Ibid.
 
-[^102]: Ralph D. Sawyer, *Fire and Water: The Art of Incendiary and Aquatic Warfare in China* (Boulder: Westview Press, 2004), 234-267.
+[^102]: Ralph D. Sawyer, _Fire and Water: The Art of Incendiary and Aquatic Warfare in China_ (Boulder: Westview Press, 2004), 234-267.
 
-[^103]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^103]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
-[^104]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the Later Ruler" (Liu Shan).
+[^104]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the Later Ruler" (Liu Shan).
 
 [^105]: Mittag, "Liu Bei: The Making of a Hero," 188-192.
 
-[^106]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^106]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^107]: Ibid.
 
-[^108]: Pei Songzhi's commentary on Chen Shou, *Records of the Three Kingdoms*.
+[^108]: Pei Songzhi's commentary on Chen Shou, _Records of the Three Kingdoms_.
 
 [^109]: Ibid.
 
-[^110]: Chan, *Source Book in Chinese Philosophy*, 115-128.
+[^110]: Chan, _Source Book in Chinese Philosophy_, 115-128.
 
-[^111]: Wm. Theodore de Bary and Irene Bloom, eds., *Sources of Chinese Tradition, Volume 1* (New York: Columbia University Press, 1999), 267-345.
+[^111]: Wm. Theodore de Bary and Irene Bloom, eds., _Sources of Chinese Tradition, Volume 1_ (New York: Columbia University Press, 1999), 267-345.
 
-[^112]: Li Zhi, *A Book to Burn and a Book to Keep (Hidden)*, trans. Rivi Handler-Spitz, Pauline Lee, and Haun Saussy (New York: Columbia University Press, 2016), various passages on Three Kingdoms figures.
+[^112]: Li Zhi, _A Book to Burn and a Book to Keep (Hidden)_, trans. Rivi Handler-Spitz, Pauline Lee, and Haun Saussy (New York: Columbia University Press, 2016), various passages on Three Kingdoms figures.
 
-[^113]: de Crespigny, *Biographical Dictionary*, 524-530.
+[^113]: de Crespigny, _Biographical Dictionary_, 524-530.
 
 [^114]: Ibid., 528-529.
 
 [^115]: Ibid., 527-529.
 
-[^116]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the Later Ruler."
+[^116]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the Later Ruler."
 
-[^117]: de Crespigny, *Biographical Dictionary*, 528.
+[^117]: de Crespigny, _Biographical Dictionary_, 528.
 
-[^118]: de Crespigny, *Generals of the South*, 267-298.
+[^118]: de Crespigny, _Generals of the South_, 267-298.
 
-[^119]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhuge Liang."
+[^119]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhuge Liang."
 
 [^120]: Mittag, "Historiography and Identity," 65-67.
 
 [^121]: Ibid.
 
-[^122]: Yoshikawa Eiji, *Three Kingdoms* (Tokyo: Kodansha International, 1991), translator's notes and commentary.
+[^122]: Yoshikawa Eiji, _Three Kingdoms_ (Tokyo: Kodansha International, 1991), translator's notes and commentary.
 
 [^123]: Mittag, "Historiography and Identity," 48-50.
 
-[^124]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Liu Zhang."
+[^124]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Liu Zhang."
 
 [^125]: Mittag, "Historiography and Identity," 55-57.
 
 [^126]: Ibid., 56.
 
-[^127]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^127]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
-[^128]: de Crespigny, *Generals of the South*, 345-356.
+[^128]: de Crespigny, _Generals of the South_, 345-356.
 
 [^129]: Ibid.
 
@@ -459,13 +459,13 @@ Some historians argue that Liu Bei's legacy has been disproportionately positive
 
 [^132]: Ibid., 190-192.
 
-[^133]: de Crespigny, *Biographical Dictionary*, 526-527.
+[^133]: de Crespigny, _Biographical Dictionary_, 526-527.
 
-[^134]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhuge Liang."
+[^134]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhuge Liang."
 
 [^135]: Mittag, "Historiography and Identity," 57-59.
 
-[^136]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhuge Liang."
+[^136]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhuge Liang."
 
 [^137]: Ibid.
 
@@ -479,12 +479,12 @@ Some historians argue that Liu Bei's legacy has been disproportionately positive
 
 [^142]: Ibid.
 
-[^143]: Luo Guanzhong, *Romance of the Three Kingdoms*, Chapter 15.
+[^143]: Luo Guanzhong, _Romance of the Three Kingdoms_, Chapter 15.
 
-[^144]: Chen Shou, *Records of the Three Kingdoms*, "Biography of the First Ruler."
+[^144]: Chen Shou, _Records of the Three Kingdoms_, "Biography of the First Ruler."
 
 [^145]: Ibid.
 
-[^146]: Ibid.; Pei Songzhi's commentary quoting *Shu Ji* (Records of Shu).
+[^146]: Ibid.; Pei Songzhi's commentary quoting _Shu Ji_ (Records of Shu).
 
-[^147]: Chen Shou, *Records of the Three Kingdoms*, "Biography of Zhuge Liang"; attributed saying from various historical sources.
+[^147]: Chen Shou, _Records of the Three Kingdoms_, "Biography of Zhuge Liang"; attributed saying from various historical sources.

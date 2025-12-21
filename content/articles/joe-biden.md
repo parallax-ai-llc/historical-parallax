@@ -186,41 +186,41 @@ The perception that Biden may have contributed to Trump's return to power—by r
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1942 | Born November 20 in Scranton, Pennsylvania |
-| 1953 | Family moves from Scranton to Delaware |
-| 1961 | Graduates from Archmere Academy |
-| 1965 | Earns B.A. from University of Delaware |
-| 1966 | Marries Neilia Hunter |
-| 1968 | Graduates from Syracuse University College of Law |
-| 1970 | Elected to New Castle County Council |
-| 1972 | Elected to U.S. Senate at age 29 |
-| 1972 | Wife Neilia and daughter Naomi killed in car accident |
-| 1973 | Sworn into Senate at sons' hospital bedsides |
-| 1977 | Marries Jill Jacobs |
-| 1981 | Daughter Ashley Biden born |
-| 1987 | First presidential campaign; withdraws after plagiarism controversy |
-| 1988 | Undergoes surgery for brain aneurysms |
-| 1994 | Violence Against Women Act becomes law |
-| 1994 | Crime Bill (Violent Crime Control and Law Enforcement Act) signed into law |
-| 2007-2009 | Chairman of Senate Foreign Relations Committee |
-| 2008 | Second presidential campaign; selected as Obama's running mate |
-| 2009 | Becomes 47th Vice President of the United States |
-| 2013 | Son Beau diagnosed with brain cancer |
-| 2015 | Son Beau dies from brain cancer at age 46 |
-| 2017 | Completes second term as Vice President |
-| 2020 | Wins Democratic presidential nomination |
-| 2020 | Defeats Donald Trump in presidential election |
-| 2021 | Inaugurated as 46th President at age 78 |
-| 2021 | Signs American Rescue Plan Act ($1.9 trillion COVID relief) |
-| 2021 | Afghanistan withdrawal and fall of Kabul |
-| 2021 | Signs Infrastructure Investment and Jobs Act |
-| 2022 | Signs CHIPS and Science Act |
-| 2022 | Signs Inflation Reduction Act |
-| 2024 | Son Hunter convicted on federal gun charges |
-| 2024 | Withdraws from presidential re-election campaign |
-| 2025 | Completes presidential term |
+| Year      | Event                                                                      |
+| --------- | -------------------------------------------------------------------------- |
+| 1942      | Born November 20 in Scranton, Pennsylvania                                 |
+| 1953      | Family moves from Scranton to Delaware                                     |
+| 1961      | Graduates from Archmere Academy                                            |
+| 1965      | Earns B.A. from University of Delaware                                     |
+| 1966      | Marries Neilia Hunter                                                      |
+| 1968      | Graduates from Syracuse University College of Law                          |
+| 1970      | Elected to New Castle County Council                                       |
+| 1972      | Elected to U.S. Senate at age 29                                           |
+| 1972      | Wife Neilia and daughter Naomi killed in car accident                      |
+| 1973      | Sworn into Senate at sons' hospital bedsides                               |
+| 1977      | Marries Jill Jacobs                                                        |
+| 1981      | Daughter Ashley Biden born                                                 |
+| 1987      | First presidential campaign; withdraws after plagiarism controversy        |
+| 1988      | Undergoes surgery for brain aneurysms                                      |
+| 1994      | Violence Against Women Act becomes law                                     |
+| 1994      | Crime Bill (Violent Crime Control and Law Enforcement Act) signed into law |
+| 2007-2009 | Chairman of Senate Foreign Relations Committee                             |
+| 2008      | Second presidential campaign; selected as Obama's running mate             |
+| 2009      | Becomes 47th Vice President of the United States                           |
+| 2013      | Son Beau diagnosed with brain cancer                                       |
+| 2015      | Son Beau dies from brain cancer at age 46                                  |
+| 2017      | Completes second term as Vice President                                    |
+| 2020      | Wins Democratic presidential nomination                                    |
+| 2020      | Defeats Donald Trump in presidential election                              |
+| 2021      | Inaugurated as 46th President at age 78                                    |
+| 2021      | Signs American Rescue Plan Act ($1.9 trillion COVID relief)                |
+| 2021      | Afghanistan withdrawal and fall of Kabul                                   |
+| 2021      | Signs Infrastructure Investment and Jobs Act                               |
+| 2022      | Signs CHIPS and Science Act                                                |
+| 2022      | Signs Inflation Reduction Act                                              |
+| 2024      | Son Hunter convicted on federal gun charges                                |
+| 2024      | Withdraws from presidential re-election campaign                           |
+| 2025      | Completes presidential term                                                |
 
 ---
 
@@ -247,189 +247,375 @@ The perception that Biden may have contributed to Trump's return to power—by r
 ## References
 
 [^1]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^2]: [Vice presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Vice_presidency_of_Joe_Biden)
+
 [^3]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^4]: [Joe Biden | Biography, Family, Policies, & Facts | Britannica](https://www.britannica.com/biography/Joe-Biden)
+
 [^5]: [Early life and career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_career_of_Joe_Biden)
+
 [^6]: [Family of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Joe_Biden)
+
 [^7]: [Joe Biden: Life Before the Presidency | Miller Center](https://millercenter.org/president/biden/life-before-the-presidency)
+
 [^8]: [Joe Biden: Biography, Former U.S. President, Politician](https://www.biography.com/political-figures/joe-biden)
+
 [^9]: [Joseph R. Biden Jr. - White House Historical Association](https://www.whitehousehistory.org/bios/joseph-r-biden-jr)
+
 [^10]: [Joe Biden: Life in Brief | Miller Center](https://millercenter.org/president/biden/life-in-brief)
+
 [^11]: [Joe Biden facts and photos | National Geographic Kids](https://kids.nationalgeographic.com/history/article/joe-biden)
+
 [^12]: [Joe Biden: Life Before the Presidency | Miller Center](https://millercenter.org/president/biden/life-before-the-presidency)
+
 [^13]: [Early life and career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_career_of_Joe_Biden)
+
 [^14]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^15]: [Biography of President Joseph Biden for Kids](https://www.ducksters.com/biography/uspresidents/josephbiden.php)
+
 [^16]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^17]: [Joe Biden: Life Before the Presidency | Miller Center](https://millercenter.org/president/biden/life-before-the-presidency)
+
 [^18]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^19]: [Joe Biden: Family Life | Miller Center](https://millercenter.org/president/biden/family-life)
+
 [^20]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^21]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^22]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^23]: [BIDEN, JOSEPH ROBINETTE (JOE), JR., A Senator ...](https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=b000444)
+
 [^24]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^25]: [Joe Biden: Life Before the Presidency | Miller Center](https://millercenter.org/president/biden/life-before-the-presidency)
+
 [^26]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^27]: [Biden Pays Tribute to First Wife and Baby Daughter Who Died in 1972 Crash - Newsweek](https://www.newsweek.com/joe-biden-tributes-late-wife-baby-daughter-1972-crash-2002989)
+
 [^28]: [Joe Biden's kids: All about Beau, Hunter, Naomi and Ashley](https://www.today.com/parents/family/joe-biden-kids-rcna153363)
+
 [^29]: [Family of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Joe_Biden)
+
 [^30]: [Joe Biden: Life Before the Presidency | Miller Center](https://millercenter.org/president/biden/life-before-the-presidency)
+
 [^31]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^32]: [Joe Biden: Life Before the Presidency | Miller Center](https://millercenter.org/president/biden/life-before-the-presidency)
+
 [^33]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^34]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^35]: [United States Senate career of Joe Biden | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/social-sciences-and-humanities/united-states-senate-career-joe-biden)
+
 [^36]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^37]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^38]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^39]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^40]: [Joe Biden | Biography, Family, Policies, & Facts | Britannica](https://www.britannica.com/biography/Joe-Biden)
+
 [^41]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^42]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^43]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^44]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^45]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^46]: [Joe Biden: Life Before the Presidency | Miller Center](https://millercenter.org/president/biden/life-before-the-presidency)
+
 [^47]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^48]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^49]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^50]: [Joseph Biden | Miller Center](https://millercenter.org/president/obama/essays/biden-2009-vicepresident)
+
 [^51]: [Vice presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Vice_presidency_of_Joe_Biden)
+
 [^52]: [Vice presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Vice_presidency_of_Joe_Biden)
+
 [^53]: [Vice President Joe Biden | The White House](https://obamawhitehouse.archives.gov/vp)
+
 [^54]: [Vice presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Vice_presidency_of_Joe_Biden)
+
 [^55]: [Joseph Biden | Miller Center](https://millercenter.org/president/obama/essays/biden-2009-vicepresident)
+
 [^56]: [Vice presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Vice_presidency_of_Joe_Biden)
+
 [^57]: [Vice President Joe Biden | The White House](https://obamawhitehouse.archives.gov/vp)
+
 [^58]: [Vice presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Vice_presidency_of_Joe_Biden)
+
 [^59]: [Vice presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Vice_presidency_of_Joe_Biden)
+
 [^60]: [Vice President Joe Biden | The White House](https://obamawhitehouse.archives.gov/vp)
+
 [^61]: [Joseph Biden | Miller Center](https://millercenter.org/president/obama/essays/biden-2009-vicepresident)
+
 [^62]: [Joe Biden 2020 presidential campaign - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden_2020_presidential_campaign)
+
 [^63]: [Joe Biden 2020 presidential campaign - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden_2020_presidential_campaign)
+
 [^64]: [2020 United States presidential election - Wikipedia](https://en.wikipedia.org/wiki/2020_United_States_presidential_election)
+
 [^65]: [2020 United States presidential election - Wikipedia](https://en.wikipedia.org/wiki/2020_United_States_presidential_election)
+
 [^66]: [New 2020 voter data: How Biden won, how Trump kept the race close, and what it tells us about the future | Brookings](https://www.brookings.edu/articles/new-2020-voter-data-how-biden-won-how-trump-kept-the-race-close-and-what-it-tells-us-about-the-future/)
+
 [^67]: [Joe Biden Wins 2020 Presidential Election: How He Did It | TIME](https://time.com/5907674/joe-biden-wins-2020-election/)
+
 [^68]: [Here's what Biden and Democrats have gotten done over the last 2 years : NPR](https://www.npr.org/2023/01/01/1143149435/despite-infighting-its-been-a-surprisingly-productive-2-years-for-democrats)
+
 [^69]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^70]: [FACT SHEET: The Biden-Harris Administration Record | The American Presidency Project](https://www.presidency.ucsb.edu/documents/fact-sheet-the-biden-harris-administration-record)
+
 [^71]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^72]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^73]: [The Biden-Harris Record | The White House](https://bidenwhitehouse.archives.gov/therecord/)
+
 [^74]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^75]: [FACT SHEET: The Biden-Harris Administration Record | The American Presidency Project](https://www.presidency.ucsb.edu/documents/fact-sheet-the-biden-harris-administration-record)
+
 [^76]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^77]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^78]: [Biden's five biggest legislative accomplishments](https://www.washingtonexaminer.com/news/white-house/3266660/biden-five-biggest-legislative-accomplishments/)
+
 [^79]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^80]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^81]: [FACT SHEET: The Biden-Harris Administration Record | The American Presidency Project](https://www.presidency.ucsb.edu/documents/fact-sheet-the-biden-harris-administration-record)
+
 [^82]: [FACT SHEET: The Biden-Harris Administration Record | The American Presidency Project](https://www.presidency.ucsb.edu/documents/fact-sheet-the-biden-harris-administration-record)
+
 [^83]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^84]: [2 years on, Afghanistan withdrawal continues to cast pall on Biden administration: ANALYSIS - ABC News](https://abcnews.go.com/Politics/2-years-withdrawal-afghanistan-continues-cast-pall-biden/story?id=102837216)
+
 [^85]: [There's Bipartisan Backlash To How Biden Handled The Withdrawal From Afghanistan : NPR](https://www.npr.org/2021/08/16/1028081817/congressional-reaction-to-bidens-afghanistan-withdrawal-has-been-scathing)
+
 [^86]: [Republican-led probe blames Biden for chaotic Afghanistan withdrawal | Taliban News | Al Jazeera](https://www.aljazeera.com/news/2024/9/9/republican-led-probe-blames-biden-for-chaotic-afghanistan-withdrawal)
+
 [^87]: [GOP report on Afghanistan withdrawal faults Biden and could add fuel to presidential debate](https://www.npr.org/2024/09/08/nx-s1-5105345/afghanistan-withdrawal-congress-report-trump-biden-harris)
+
 [^88]: [Republican-led probe blames Biden for chaotic Afghanistan withdrawal | Taliban News | Al Jazeera](https://www.aljazeera.com/news/2024/9/9/republican-led-probe-blames-biden-for-chaotic-afghanistan-withdrawal)
+
 [^89]: [Biden officials 'watered down' warnings about crumbling security before Afghan withdrawal, new House GOP report says](https://www.nbcnews.com/investigations/biden-officials-warnings-crumbling-security-afghan-withdrawal-rcna170121)
+
 [^90]: [There's Bipartisan Backlash To How Biden Handled The Withdrawal From Afghanistan : NPR](https://www.npr.org/2021/08/16/1028081817/congressional-reaction-to-bidens-afghanistan-withdrawal-has-been-scathing)
+
 [^91]: [House GOP blames Biden for chaotic Afghan exit while ignoring Trump administration's role | PBS News](https://www.pbs.org/newshour/show/house-gop-blames-biden-for-chaotic-afghan-exit-while-ignoring-trump-administrations-role)
+
 [^92]: [2 years on, Afghanistan withdrawal continues to cast pall on Biden administration: ANALYSIS - ABC News](https://abcnews.go.com/Politics/2-years-withdrawal-afghanistan-continues-cast-pall-biden/story?id=102837216)
+
 [^93]: [Hunter Biden: a timeline of controversies and legal battles | LiveNOW from FOX](https://www.livenowfox.com/news/hunter-biden-timeline-controversies-legal-battles)
+
 [^94]: [Timeline: Hunter Biden granted pardon after legal, political scrutiny - ABC News](https://abcnews.go.com/US/timeline-hunter-biden-legal-political-scrutiny/story?id=102293605/)
+
 [^95]: [What to know about the Hunter Biden investigations - ABC News](https://abcnews.go.com/US/hunter-biden-congressional-scrutiny--doj-charges/story?id=97201254)
+
 [^96]: [What to know about the Hunter Biden investigations - ABC News](https://abcnews.go.com/US/hunter-biden-congressional-scrutiny--doj-charges/story?id=97201254)
+
 [^97]: [United States House Oversight Committee investigation into the Biden family - Wikipedia](https://en.wikipedia.org/wiki/United_States_House_Oversight_Committee_investigation_into_the_Biden_family)
+
 [^98]: [Analysis: The Hunter Biden scandal vortex is growing again | CNN Politics](https://www.cnn.com/2023/05/11/politics/hunter-biden-investigations-what-matters/index.html)
+
 [^99]: [Hunter Biden, Burisma, and Corruption: The Impact on U.S.](https://www.finance.senate.gov/imo/media/doc/HSGAC%20-%20Finance%20Joint%20Report%202020.09.23.pdf)
+
 [^100]: [United States House Oversight Committee investigation into the Biden family - Wikipedia](https://en.wikipedia.org/wiki/United_States_House_Oversight_Committee_investigation_into_the_Biden_family)
+
 [^101]: [Timeline: Hunter Biden granted pardon after legal, political scrutiny - ABC News](https://abcnews.go.com/US/timeline-hunter-biden-legal-political-scrutiny/story?id=102293605/)
+
 [^102]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^103]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^104]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^105]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^106]: [US Senate career of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Joe_Biden)
+
 [^107]: [Joe Biden 2020 presidential campaign - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden_2020_presidential_campaign)
+
 [^108]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^109]: [What might President Biden's legacy be? - CBS News](https://www.cbsnews.com/news/what-might-president-bidens-legacy-be/)
+
 [^110]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^111]: [In a life defined by tragedy, Biden the 'fighter' faces his latest test | CNN Politics](https://www.cnn.com/2025/05/19/politics/biden-cancer-tragedy-loss)
+
 [^112]: [Family of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Joe_Biden)
+
 [^113]: [Joe Biden's kids: All about Beau, Hunter, Naomi and Ashley](https://www.today.com/parents/family/joe-biden-kids-rcna153363)
+
 [^114]: [Biden Pays Tribute to First Wife and Baby Daughter Who Died in 1972 Crash - Newsweek](https://www.newsweek.com/joe-biden-tributes-late-wife-baby-daughter-1972-crash-2002989)
+
 [^115]: [Joe Biden: Family Life | Miller Center](https://millercenter.org/president/biden/family-life)
+
 [^116]: [Jill Biden - Wikipedia](https://en.wikipedia.org/wiki/Jill_Biden)
+
 [^117]: [Joe Biden: Family Life | Miller Center](https://millercenter.org/president/biden/family-life)
+
 [^118]: [Family of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Joe_Biden)
+
 [^119]: [Jill Biden - Wikipedia](https://en.wikipedia.org/wiki/Jill_Biden)
+
 [^120]: [Family of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Joe_Biden)
+
 [^121]: [Joe Biden's kids: All about Beau, Hunter, Naomi and Ashley](https://www.today.com/parents/family/joe-biden-kids-rcna153363)
+
 [^122]: [Who Are Joe Biden's Children—Hunter, Ashley, Beau, And Naomi?](https://www.womenshealthmag.com/life/a32389803/joe-biden-children/)
+
 [^123]: [Jill Biden - Wikipedia](https://en.wikipedia.org/wiki/Jill_Biden)
+
 [^124]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^125]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^126]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^127]: [Joe Biden: Family Life | Miller Center](https://millercenter.org/president/biden/family-life)
+
 [^128]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^129]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^130]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^131]: [Who Are Joe Biden's Kids and Grandkids? - Joe Biden's Family](https://www.harpersbazaar.com/celebrity/latest/a33661848/joe-biden-children-grandchildren/)
+
 [^132]: [Family of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Joe_Biden)
+
 [^133]: [Family of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Joe_Biden)
+
 [^134]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^135]: ['Subsumed into the story of Trump': How future historians may view Joe Biden | Courthouse News Service](https://www.courthousenews.com/subsumed-into-the-story-of-trump-how-future-historians-may-view-joe-biden/)
+
 [^136]: [The Presidency of Joseph R. Biden: A First Historical Assessment](https://www.amazon.com/Presidency-Joseph-Biden-Historical-Assessment/dp/0691274789)
+
 [^137]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^138]: [Joe Biden's legacy: four successes and four failures | University of Portsmouth](https://www.port.ac.uk/news-events-and-blogs/blogs/security-and-risk/joe-bidens-legacy-four-successes-and-four-failures)
+
 [^139]: [Americans Think History Will Rate Biden Presidency Negatively](https://news.gallup.com/poll/654878/americans-think-history-rate-biden-presidency-negatively.aspx)
+
 [^140]: [Americans Think History Will Rate Biden Presidency Negatively](https://news.gallup.com/poll/654878/americans-think-history-rate-biden-presidency-negatively.aspx)
+
 [^141]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^142]: ['Subsumed into the story of Trump': How future historians may view Joe Biden | Courthouse News Service](https://www.courthousenews.com/subsumed-into-the-story-of-trump-how-future-historians-may-view-joe-biden/)
+
 [^143]: ['Subsumed into the story of Trump': How future historians may view Joe Biden | Courthouse News Service](https://www.courthousenews.com/subsumed-into-the-story-of-trump-how-future-historians-may-view-joe-biden/)
+
 [^144]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^145]: [Opinion | There's a reason is Biden is leaving the White House with two wildly different legacies](https://www.msnbc.com/opinion/msnbc-opinion/biden-presidential-record-legacy-rcna184617)
+
 [^146]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^147]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^148]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^149]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^150]: [Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden)
+
 [^151]: [Joe Biden's legacy: four successes and four failures | University of Portsmouth](https://www.port.ac.uk/news-events-and-blogs/blogs/security-and-risk/joe-bidens-legacy-four-successes-and-four-failures)
+
 [^152]: [2 years on, Afghanistan withdrawal continues to cast pall on Biden administration: ANALYSIS - ABC News](https://abcnews.go.com/Politics/2-years-withdrawal-afghanistan-continues-cast-pall-biden/story?id=102837216)
+
 [^153]: [What might President Biden's legacy be? - CBS News](https://www.cbsnews.com/news/what-might-president-bidens-legacy-be/)
+
 [^154]: [Here's what Biden and Democrats have gotten done over the last 2 years : NPR](https://www.npr.org/2023/01/01/1143149435/despite-infighting-its-been-a-surprisingly-productive-2-years-for-democrats)
+
 [^155]: [The Presidency of Joseph R. Biden: A First Historical Assessment](https://www.amazon.com/Presidency-Joseph-Biden-Historical-Assessment/dp/0691274789)
+
 [^156]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^157]: [FACT SHEET: The Biden-Harris Administration Record | The American Presidency Project](https://www.presidency.ucsb.edu/documents/fact-sheet-the-biden-harris-administration-record)
+
 [^158]: [Joe Biden's legacy: four successes and four failures | University of Portsmouth](https://www.port.ac.uk/news-events-and-blogs/blogs/security-and-risk/joe-bidens-legacy-four-successes-and-four-failures)
+
 [^159]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^160]: [FACT SHEET: The Biden-Harris Administration Record | The American Presidency Project](https://www.presidency.ucsb.edu/documents/fact-sheet-the-biden-harris-administration-record)
+
 [^161]: [The Biden-Harris Record | The White House](https://bidenwhitehouse.archives.gov/therecord/)
+
 [^162]: [FACT SHEET: The Biden-Harris Administration Record | The American Presidency Project](https://www.presidency.ucsb.edu/documents/fact-sheet-the-biden-harris-administration-record)
+
 [^163]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^164]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^165]: [Joe Biden 2020 presidential campaign - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden_2020_presidential_campaign)
+
 [^166]: [Blame Joe Biden for the Afghanistan Disaster. No One Else. | The Heritage Foundation](https://www.heritage.org/defense/commentary/blame-joe-biden-the-afghanistan-disaster-no-one-else)
+
 [^167]: [Biden was wrong on Afghanistan | Brookings](https://www.brookings.edu/articles/biden-was-wrong-on-afghanistan/)
+
 [^168]: [Blame Joe Biden for the Afghanistan Disaster. No One Else. | The Heritage Foundation](https://www.heritage.org/defense/commentary/blame-joe-biden-the-afghanistan-disaster-no-one-else)
+
 [^169]: [Joe Biden's Six Biggest Blunders That Tarnished His Legacy - Newsweek](https://www.newsweek.com/joe-biden-biggest-blunders-mistakes-white-house-legacy-2016765)
+
 [^170]: [Joe Biden's Six Biggest Blunders That Tarnished His Legacy - Newsweek](https://www.newsweek.com/joe-biden-biggest-blunders-mistakes-white-house-legacy-2016765)
+
 [^171]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^172]: [Presidency of Joe Biden - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)
+
 [^173]: [What might President Biden's legacy be? - CBS News](https://www.cbsnews.com/news/what-might-president-bidens-legacy-be/)
+
 [^174]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^175]: [Biden's legacy: Historians weigh in on how the 46th president will be remembered - ABC News](https://abcnews.go.com/Politics/bidens-legacy-historians-weigh-46th-president-remembered/story?id=117625468)
+
 [^176]: [What might President Biden's legacy be? - CBS News](https://www.cbsnews.com/news/what-might-president-bidens-legacy-be/)
+
 [^177]: [Opinion | There's a reason is Biden is leaving the White House with two wildly different legacies](https://www.msnbc.com/opinion/msnbc-opinion/biden-presidential-record-legacy-rcna184617)
+
 [^178]: [Biden's historical legacy is one of failure](https://thehill.com/opinion/campaign/5075285-trumps-victory-made-bidens-historical-legacy-one-of-failure/)
+
 [^179]: [Biden's historical legacy is one of failure](https://thehill.com/opinion/campaign/5075285-trumps-victory-made-bidens-historical-legacy-one-of-failure/)
+
 [^180]: [Joe Biden 2020 presidential campaign - Wikipedia](https://en.wikipedia.org/wiki/Joe_Biden_2020_presidential_campaign)
+
 [^181]: [Joe Biden Quotes - BrainyQuote](https://www.brainyquote.com/authors/joe-biden-quotes)
+
 [^182]: [Top 10 Joe Biden Quotes - BrainyQuote](https://www.brainyquote.com/lists/authors/top-10-joe-biden-quotes)
+
 [^183]: [Joe Biden Quotes (Author of Promise Me, Dad)](https://www.goodreads.com/author/quotes/614246.Joe_Biden)
+
 [^184]: [Best Joe Biden Quotes - The Texas Horn](https://thetexashorn.com/2022/09/27/best-joe-biden-quotes/)
+
 [^185]: [13 Key Quotes From President Joe Biden's First Speech to Congress](https://www.globalcitizen.org/en/content/joe-biden-address-to-congress-quotes/)
+
 [^186]: [13 Key Quotes From President Joe Biden's First Speech to Congress](https://www.globalcitizen.org/en/content/joe-biden-address-to-congress-quotes/)
+
 [^187]: [13 Key Quotes From President Joe Biden's First Speech to Congress](https://www.globalcitizen.org/en/content/joe-biden-address-to-congress-quotes/)

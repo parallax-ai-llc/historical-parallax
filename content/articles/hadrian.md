@@ -81,7 +81,7 @@ Following the revolt's suppression, Hadrian prohibited Jews from entering Jerusa
 
 The Historia Augusta, while unreliable in many details, describes Hadrian as "variable, changeable, and manifold" in character, prone to jealousy of talented individuals, and capable of both great generosity and petty cruelty[^53]. He reportedly ordered the execution of several prominent individuals during his reign, including the architect Apollodorus of Damascus, allegedly because the architect had criticized Hadrian's designs[^54].
 
-**Relationship with Antinous**: Hadrian's relationship with Antinous, a young man from Bithynia, became controversial both in his lifetime and afterward[^55]. When Antinous drowned in the Nile in 130 CE under mysterious circumstances, Hadrian's grief was extraordinary: he founded the city of Antinoöpolis at the death site, deified Antinous, and commissioned hundreds of statues and monuments throughout the empire[^56]. 
+**Relationship with Antinous**: Hadrian's relationship with Antinous, a young man from Bithynia, became controversial both in his lifetime and afterward[^55]. When Antinous drowned in the Nile in 130 CE under mysterious circumstances, Hadrian's grief was extraordinary: he founded the city of Antinoöpolis at the death site, deified Antinous, and commissioned hundreds of statues and monuments throughout the empire[^56].
 
 While same-sex relationships were not unusual in Greco-Roman culture, the intensity of Hadrian's public mourning and the religious cult he established were unprecedented for an emperor's male lover[^57]. Critics, both ancient and modern, have questioned whether Hadrian's devotion crossed appropriate boundaries, with some suggesting the relationship represented an abuse of imperial power over a younger, lower-status individual[^58].
 
@@ -171,31 +171,31 @@ Economic historians point out that Hadrian's extensive building projects and tra
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 76 | Born January 24 in Italica, Hispania (or possibly Rome) |
-| 86 | Father dies; becomes ward of Trajan and Acilius Attianus |
-| 94-95 | Serves as military tribune on Danube frontier |
-| 100 | Marries Vibia Sabina, grandniece of Emperor Trajan |
-| 101-106 | Serves in Trajan's Dacian Wars, commands legion |
-| 107 | Governor of Lower Pannonia |
-| 108 | Consul for first time |
-| 114-117 | Governor of Syria during Trajan's Parthian campaign |
-| 117 | Becomes Roman Emperor upon Trajan's death (August 11) |
-| 117 | Executes four senior senators; withdraws from Mesopotamia |
-| 118-128 | Rebuilds the Pantheon in Rome |
-| 121-125 | First major tour: visits Britain, Gaul, Germania, Danube provinces |
-| 122 | Construction of Hadrian's Wall in Britain begins |
-| 123 | Meets Antinous in Bithynia |
-| 125-128 | Resides primarily in Italy; builds Villa at Tivoli |
-| 128-132 | Second major tour: visits North Africa, Greece, Asia Minor, Syria, Egypt |
-| 130 | Antinous drowns in the Nile (October); founds Antinoöpolis |
-| 131 | Dedicates Temple of Olympian Zeus in Athens; announces plan to rebuild Jerusalem as Aelia Capitolina |
-| 132-136 | Bar Kokhba Revolt in Judea; devastating war results in massive casualties |
-| 136 | Revolt suppressed; Judea renamed Syria Palaestina |
-| 136 | Adopts Lucius Aelius Caesar as heir |
-| 138 | Aelius dies (January 1); adopts Antoninus Pius with conditions for future succession |
-| 138 | Dies July 10 at Baiae; succeeded by Antoninus Pius |
+| Year    | Event                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------- |
+| 76      | Born January 24 in Italica, Hispania (or possibly Rome)                                              |
+| 86      | Father dies; becomes ward of Trajan and Acilius Attianus                                             |
+| 94-95   | Serves as military tribune on Danube frontier                                                        |
+| 100     | Marries Vibia Sabina, grandniece of Emperor Trajan                                                   |
+| 101-106 | Serves in Trajan's Dacian Wars, commands legion                                                      |
+| 107     | Governor of Lower Pannonia                                                                           |
+| 108     | Consul for first time                                                                                |
+| 114-117 | Governor of Syria during Trajan's Parthian campaign                                                  |
+| 117     | Becomes Roman Emperor upon Trajan's death (August 11)                                                |
+| 117     | Executes four senior senators; withdraws from Mesopotamia                                            |
+| 118-128 | Rebuilds the Pantheon in Rome                                                                        |
+| 121-125 | First major tour: visits Britain, Gaul, Germania, Danube provinces                                   |
+| 122     | Construction of Hadrian's Wall in Britain begins                                                     |
+| 123     | Meets Antinous in Bithynia                                                                           |
+| 125-128 | Resides primarily in Italy; builds Villa at Tivoli                                                   |
+| 128-132 | Second major tour: visits North Africa, Greece, Asia Minor, Syria, Egypt                             |
+| 130     | Antinous drowns in the Nile (October); founds Antinoöpolis                                           |
+| 131     | Dedicates Temple of Olympian Zeus in Athens; announces plan to rebuild Jerusalem as Aelia Capitolina |
+| 132-136 | Bar Kokhba Revolt in Judea; devastating war results in massive casualties                            |
+| 136     | Revolt suppressed; Judea renamed Syria Palaestina                                                    |
+| 136     | Adopts Lucius Aelius Caesar as heir                                                                  |
+| 138     | Aelius dies (January 1); adopts Antoninus Pius with conditions for future succession                 |
+| 138     | Dies July 10 at Baiae; succeeded by Antoninus Pius                                                   |
 
 ---
 
@@ -215,143 +215,282 @@ Economic historians point out that Hadrian's extensive building projects and tra
 
 ## References
 
-[^1]: Anthony R. Birley, *Hadrian: The Restless Emperor* (London: Routledge, 1997), 9-11.
-[^2]: Historia Augusta, *Life of Hadrian* 1.2-3; Birley, *Hadrian*, 12-13.
-[^3]: Cassius Dio, *Roman History* 69.1.2; Birley, *Hadrian*, 14-15.
-[^4]: Historia Augusta, *Life of Hadrian* 1.5; Elizabeth Speller, *Following Hadrian* (Oxford: Oxford University Press, 2003), 23-24.
-[^5]: Birley, *Hadrian*, 16-20.
-[^6]: Historia Augusta, *Life of Hadrian* 2.1; Speller, *Following Hadrian*, 26-27.
-[^7]: Thorsten Opper, *Hadrian: Empire and Conflict* (Cambridge: Harvard University Press, 2008), 27-30.
-[^8]: Birley, *Hadrian*, 29-32.
-[^9]: Historia Augusta, *Life of Hadrian* 2.10; Opper, *Hadrian*, 32-33.
-[^10]: Birley, *Hadrian*, 38-45.
-[^11]: Cassius Dio, *Roman History* 68.9; Birley, *Hadrian*, 46-50.
-[^12]: Birley, *Hadrian*, 54-58.
-[^13]: Historia Augusta, *Life of Hadrian* 4.1; Opper, *Hadrian*, 40-42.
-[^14]: Birley, *Hadrian*, 77-82.
-[^15]: Historia Augusta, *Life of Hadrian* 4.6-7.
-[^16]: Cassius Dio, *Roman History* 69.1.1-4; Birley, *Hadrian*, 79-80.
-[^17]: Historia Augusta, *Life of Hadrian* 7.1-2; Cassius Dio, *Roman History* 69.2.5-6.
-[^18]: Opper, *Hadrian*, 54-56.
-[^19]: Birley, *Hadrian*, 87-90.
-[^20]: Historia Augusta, *Life of Hadrian* 5.3; Adrian Goldsworthy, *Pax Romana: War, Peace and Conquest in the Roman World* (New Haven: Yale University Press, 2016), 312-315.
-[^21]: David J. Breeze and Brian Dobson, *Hadrian's Wall*, 4th ed. (London: Penguin, 2000), 27-45.
-[^22]: Breeze and Dobson, *Hadrian's Wall*, 58-72.
-[^23]: William L. MacDonald, *The Pantheon: Design, Meaning, and Progeny* (Cambridge: Harvard University Press, 1976), 58-62.
-[^24]: MacDonald, *The Pantheon*, 94-98.
-[^25]: Opper, *Hadrian*, 142-165.
-[^26]: William L. MacDonald and John A. Pinto, *Hadrian's Villa and Its Legacy* (New Haven: Yale University Press, 1995), 1-15.
-[^27]: Birley, *Hadrian*, 159-162.
-[^28]: Opper, *Hadrian*, 112-118.
-[^29]: Tony Honoré, *Emperors and Lawyers*, 2nd ed. (Oxford: Oxford University Press, 1994), 28-31.
-[^30]: Birley, *Hadrian*, 165-170.
-[^31]: Historia Augusta, *Life of Hadrian* 11-14; Speller, *Following Hadrian*, 95-248.
-[^32]: Birley, *Hadrian*, 170-230.
-[^33]: Opper, *Hadrian*, 119-128.
-[^34]: Simon Goldhill, *Being Greek Under Rome: Cultural Identity, the Second Sophistic and the Development of Empire* (Cambridge: Cambridge University Press, 2001), 12-15.
-[^35]: Goldsworthy, *Pax Romana*, 318-322.
-[^36]: Historia Augusta, *Life of Hadrian* 10.2-8; Birley, *Hadrian*, 140-145.
-[^37]: Goldsworthy, *Pax Romana*, 324-327.
-[^38]: Goldhill, *Being Greek Under Rome*, 10-18.
-[^39]: Historia Augusta, *Life of Hadrian* 13.1; Birley, *Hadrian*, 204-210.
-[^40]: Birley, *Hadrian*, 290-295.
-[^41]: Cassius Dio, *Roman History* 69.2.5-6; Birley, *Hadrian*, 95-97.
-[^42]: Opper, *Hadrian*, 54-56.
-[^43]: Cassius Dio, *Roman History* 69.12-14; Birley, *Hadrian*, 271-282.
-[^44]: Historia Augusta, *Life of Hadrian* 14.2; Martin Goodman, *Rome and Jerusalem: The Clash of Ancient Civilizations* (London: Allen Lane, 2007), 470-474.
-[^45]: Goodman, *Rome and Jerusalem*, 476-478; debate summarized in Opper, *Hadrian*, 182-184.
-[^46]: Cassius Dio, *Roman History* 69.14.1-2.
-[^47]: Cassius Dio, *Roman History* 69.14.1.
-[^48]: Historia Augusta, *Life of Hadrian* 14.4.
-[^49]: Goodman, *Rome and Jerusalem*, 488-492.
-[^50]: Seth Schwartz, *Imperialism and Jewish Society, 200 B.C.E. to 640 C.E.* (Princeton: Princeton University Press, 2001), 103-105.
-[^51]: Birley, *Hadrian*, 157-159.
-[^52]: Historia Augusta, *Life of Hadrian* 14-15; Cassius Dio, *Roman History* 69.3-4.
-[^53]: Historia Augusta, *Life of Hadrian* 14.11.
-[^54]: Cassius Dio, *Roman History* 69.4.1-5; though this story is disputed by modern scholars.
-[^55]: Lambert Royakkers, *Hadrian's Favourite: The Story of Antinous* (Kibworth Beauchamp: Matador, 2015), 45-67.
-[^56]: Historia Augusta, *Life of Hadrian* 14.5-7; Birley, *Hadrian*, 247-257.
-[^57]: Royakkers, *Hadrian's Favourite*, 155-170.
-[^58]: Opper, *Hadrian*, 169-178.
-[^59]: Birley, *Hadrian*, 234-237.
-[^60]: Goldsworthy, *Pax Romana*, 315-317.
-[^61]: Historia Augusta, *Life of Hadrian* 11.3; Birley, *Hadrian*, 41-42.
-[^62]: Historia Augusta, *Life of Hadrian* 11.3.
-[^63]: Birley, *Hadrian*, 302-303.
-[^64]: Historia Augusta, *Life of Hadrian* 14-16; Opper, *Hadrian*, 20-26.
-[^65]: MacDonald and Pinto, *Hadrian's Villa*, 16-22.
-[^66]: Cassius Dio, *Roman History* 69.3.1-4.2.
-[^67]: Opper, *Hadrian*, 99-102.
-[^68]: Historia Augusta, *Life of Hadrian* 2.1; Birley, *Hadrian*, 20-21.
-[^69]: Royakkers, *Hadrian's Favourite*, 45-50; exact age debated.
-[^70]: Historia Augusta, *Life of Hadrian* 14.5; Birley, *Hadrian*, 247-248.
-[^71]: Royakkers, *Hadrian's Favourite*, 129-145.
-[^72]: Caroline Vout, *Power and Eroticism in Imperial Rome* (Cambridge: Cambridge University Press, 2007), 93-98.
-[^73]: Opper, *Hadrian*, 169-170.
-[^74]: Birley, *Hadrian*, 299-301.
-[^75]: Historia Augusta, *Life of Hadrian* 23-25.
-[^76]: Historia Augusta, *Life of Hadrian* 25.1-7.
-[^77]: Historia Augusta, *Life of Hadrian* 23.15-16; Birley, *Hadrian*, 295-297.
-[^78]: Historia Augusta, *Life of Hadrian* 24.1; Birley, *Hadrian*, 300-302.
-[^79]: Historia Augusta, *Life of Hadrian* 25.5-6; Birley, *Hadrian*, 306-308.
-[^80]: Historia Augusta, *Life of Hadrian* 25.9; translation from Birley, *Hadrian*, 307.
-[^81]: Historia Augusta, *Life of Hadrian* 27.1-4.
-[^82]: Goldsworthy, *Pax Romana*, 328-332.
-[^83]: Opper, *Hadrian*, 202-208.
-[^84]: MacDonald, *The Pantheon*, 102-126.
+[^1]: Anthony R. Birley, _Hadrian: The Restless Emperor_ (London: Routledge, 1997), 9-11.
+
+[^2]: Historia Augusta, _Life of Hadrian_ 1.2-3; Birley, _Hadrian_, 12-13.
+
+[^3]: Cassius Dio, _Roman History_ 69.1.2; Birley, _Hadrian_, 14-15.
+
+[^4]: Historia Augusta, _Life of Hadrian_ 1.5; Elizabeth Speller, _Following Hadrian_ (Oxford: Oxford University Press, 2003), 23-24.
+
+[^5]: Birley, _Hadrian_, 16-20.
+
+[^6]: Historia Augusta, _Life of Hadrian_ 2.1; Speller, _Following Hadrian_, 26-27.
+
+[^7]: Thorsten Opper, _Hadrian: Empire and Conflict_ (Cambridge: Harvard University Press, 2008), 27-30.
+
+[^8]: Birley, _Hadrian_, 29-32.
+
+[^9]: Historia Augusta, _Life of Hadrian_ 2.10; Opper, _Hadrian_, 32-33.
+
+[^10]: Birley, _Hadrian_, 38-45.
+
+[^11]: Cassius Dio, _Roman History_ 68.9; Birley, _Hadrian_, 46-50.
+
+[^12]: Birley, _Hadrian_, 54-58.
+
+[^13]: Historia Augusta, _Life of Hadrian_ 4.1; Opper, _Hadrian_, 40-42.
+
+[^14]: Birley, _Hadrian_, 77-82.
+
+[^15]: Historia Augusta, _Life of Hadrian_ 4.6-7.
+
+[^16]: Cassius Dio, _Roman History_ 69.1.1-4; Birley, _Hadrian_, 79-80.
+
+[^17]: Historia Augusta, _Life of Hadrian_ 7.1-2; Cassius Dio, _Roman History_ 69.2.5-6.
+
+[^18]: Opper, _Hadrian_, 54-56.
+
+[^19]: Birley, _Hadrian_, 87-90.
+
+[^20]: Historia Augusta, _Life of Hadrian_ 5.3; Adrian Goldsworthy, _Pax Romana: War, Peace and Conquest in the Roman World_ (New Haven: Yale University Press, 2016), 312-315.
+
+[^21]: David J. Breeze and Brian Dobson, _Hadrian's Wall_, 4th ed. (London: Penguin, 2000), 27-45.
+
+[^22]: Breeze and Dobson, _Hadrian's Wall_, 58-72.
+
+[^23]: William L. MacDonald, _The Pantheon: Design, Meaning, and Progeny_ (Cambridge: Harvard University Press, 1976), 58-62.
+
+[^24]: MacDonald, _The Pantheon_, 94-98.
+
+[^25]: Opper, _Hadrian_, 142-165.
+
+[^26]: William L. MacDonald and John A. Pinto, _Hadrian's Villa and Its Legacy_ (New Haven: Yale University Press, 1995), 1-15.
+
+[^27]: Birley, _Hadrian_, 159-162.
+
+[^28]: Opper, _Hadrian_, 112-118.
+
+[^29]: Tony Honoré, _Emperors and Lawyers_, 2nd ed. (Oxford: Oxford University Press, 1994), 28-31.
+
+[^30]: Birley, _Hadrian_, 165-170.
+
+[^31]: Historia Augusta, _Life of Hadrian_ 11-14; Speller, _Following Hadrian_, 95-248.
+
+[^32]: Birley, _Hadrian_, 170-230.
+
+[^33]: Opper, _Hadrian_, 119-128.
+
+[^34]: Simon Goldhill, _Being Greek Under Rome: Cultural Identity, the Second Sophistic and the Development of Empire_ (Cambridge: Cambridge University Press, 2001), 12-15.
+
+[^35]: Goldsworthy, _Pax Romana_, 318-322.
+
+[^36]: Historia Augusta, _Life of Hadrian_ 10.2-8; Birley, _Hadrian_, 140-145.
+
+[^37]: Goldsworthy, _Pax Romana_, 324-327.
+
+[^38]: Goldhill, _Being Greek Under Rome_, 10-18.
+
+[^39]: Historia Augusta, _Life of Hadrian_ 13.1; Birley, _Hadrian_, 204-210.
+
+[^40]: Birley, _Hadrian_, 290-295.
+
+[^41]: Cassius Dio, _Roman History_ 69.2.5-6; Birley, _Hadrian_, 95-97.
+
+[^42]: Opper, _Hadrian_, 54-56.
+
+[^43]: Cassius Dio, _Roman History_ 69.12-14; Birley, _Hadrian_, 271-282.
+
+[^44]: Historia Augusta, _Life of Hadrian_ 14.2; Martin Goodman, _Rome and Jerusalem: The Clash of Ancient Civilizations_ (London: Allen Lane, 2007), 470-474.
+
+[^45]: Goodman, _Rome and Jerusalem_, 476-478; debate summarized in Opper, _Hadrian_, 182-184.
+
+[^46]: Cassius Dio, _Roman History_ 69.14.1-2.
+
+[^47]: Cassius Dio, _Roman History_ 69.14.1.
+
+[^48]: Historia Augusta, _Life of Hadrian_ 14.4.
+
+[^49]: Goodman, _Rome and Jerusalem_, 488-492.
+
+[^50]: Seth Schwartz, _Imperialism and Jewish Society, 200 B.C.E. to 640 C.E._ (Princeton: Princeton University Press, 2001), 103-105.
+
+[^51]: Birley, _Hadrian_, 157-159.
+
+[^52]: Historia Augusta, _Life of Hadrian_ 14-15; Cassius Dio, _Roman History_ 69.3-4.
+
+[^53]: Historia Augusta, _Life of Hadrian_ 14.11.
+
+[^54]: Cassius Dio, _Roman History_ 69.4.1-5; though this story is disputed by modern scholars.
+
+[^55]: Lambert Royakkers, _Hadrian's Favourite: The Story of Antinous_ (Kibworth Beauchamp: Matador, 2015), 45-67.
+
+[^56]: Historia Augusta, _Life of Hadrian_ 14.5-7; Birley, _Hadrian_, 247-257.
+
+[^57]: Royakkers, _Hadrian's Favourite_, 155-170.
+
+[^58]: Opper, _Hadrian_, 169-178.
+
+[^59]: Birley, _Hadrian_, 234-237.
+
+[^60]: Goldsworthy, _Pax Romana_, 315-317.
+
+[^61]: Historia Augusta, _Life of Hadrian_ 11.3; Birley, _Hadrian_, 41-42.
+
+[^62]: Historia Augusta, _Life of Hadrian_ 11.3.
+
+[^63]: Birley, _Hadrian_, 302-303.
+
+[^64]: Historia Augusta, _Life of Hadrian_ 14-16; Opper, _Hadrian_, 20-26.
+
+[^65]: MacDonald and Pinto, _Hadrian's Villa_, 16-22.
+
+[^66]: Cassius Dio, _Roman History_ 69.3.1-4.2.
+
+[^67]: Opper, _Hadrian_, 99-102.
+
+[^68]: Historia Augusta, _Life of Hadrian_ 2.1; Birley, _Hadrian_, 20-21.
+
+[^69]: Royakkers, _Hadrian's Favourite_, 45-50; exact age debated.
+
+[^70]: Historia Augusta, _Life of Hadrian_ 14.5; Birley, _Hadrian_, 247-248.
+
+[^71]: Royakkers, _Hadrian's Favourite_, 129-145.
+
+[^72]: Caroline Vout, _Power and Eroticism in Imperial Rome_ (Cambridge: Cambridge University Press, 2007), 93-98.
+
+[^73]: Opper, _Hadrian_, 169-170.
+
+[^74]: Birley, _Hadrian_, 299-301.
+
+[^75]: Historia Augusta, _Life of Hadrian_ 23-25.
+
+[^76]: Historia Augusta, _Life of Hadrian_ 25.1-7.
+
+[^77]: Historia Augusta, _Life of Hadrian_ 23.15-16; Birley, _Hadrian_, 295-297.
+
+[^78]: Historia Augusta, _Life of Hadrian_ 24.1; Birley, _Hadrian_, 300-302.
+
+[^79]: Historia Augusta, _Life of Hadrian_ 25.5-6; Birley, _Hadrian_, 306-308.
+
+[^80]: Historia Augusta, _Life of Hadrian_ 25.9; translation from Birley, _Hadrian_, 307.
+
+[^81]: Historia Augusta, _Life of Hadrian_ 27.1-4.
+
+[^82]: Goldsworthy, _Pax Romana_, 328-332.
+
+[^83]: Opper, _Hadrian_, 202-208.
+
+[^84]: MacDonald, _The Pantheon_, 102-126.
+
 [^85]: UNESCO World Heritage Centre, "Frontiers of the Roman Empire - Hadrian's Wall," https://whc.unesco.org/en/list/430.
-[^86]: MacDonald and Pinto, *Hadrian's Villa*, 308-342.
-[^87]: Peter Garnsey and Richard Saller, *The Roman Empire: Economy, Society and Culture* (Berkeley: University of California Press, 1987), 20-22.
-[^88]: Honoré, *Emperors and Lawyers*, 28-36.
-[^89]: Opper, *Hadrian*, 116-118.
-[^90]: Goldhill, *Being Greek Under Rome*, 1-25.
-[^91]: Goldhill, *Being Greek Under Rome*, 12-18.
-[^92]: Birley, *Hadrian*, 204-215.
-[^93]: Goldsworthy, *Pax Romana*, 324-328.
-[^94]: Edward N. Luttwak, *The Grand Strategy of the Roman Empire* (Baltimore: Johns Hopkins University Press, 1976), 61-126.
-[^95]: Vout, *Power and Eroticism*, 90-110.
-[^96]: Royakkers, *Hadrian's Favourite*, 171-189.
-[^97]: Birley, *Hadrian*, 290-295.
-[^98]: Opper, *Hadrian*, 210-212.
-[^99]: MacDonald and Pinto, *Hadrian's Villa*, 308-320.
-[^100]: Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, vol. 1 (1776), chapter 3.
-[^101]: Mary Beard, *SPQR: A History of Ancient Rome* (New York: Liveright, 2015), 434-438.
-[^102]: Marguerite Yourcenar, *Memoirs of Hadrian* (1951; trans. Grace Frick, New York: Farrar, Straus and Giroux, 1954).
-[^103]: Speller, *Following Hadrian*, 6-9.
-[^104]: Gibbon, *Decline and Fall*, vol. 1, chapter 3.
-[^105]: Birley, *Hadrian*, 309-312.
-[^106]: Gibbon, *Decline and Fall*, vol. 1, chapter 3.
-[^107]: Birley, *Hadrian*, 1.
-[^108]: Birley, *Hadrian*, 309-310.
-[^109]: MacDonald and Pinto, *Hadrian's Villa*, 2.
-[^110]: MacDonald, *The Pantheon*, 94-98.
-[^111]: Goldsworthy, *Pax Romana*, 312-328.
-[^112]: Goldsworthy, *Pax Romana*, 314-315.
-[^113]: Goldhill, *Being Greek Under Rome*, 12-18.
-[^114]: Goldhill, *Being Greek Under Rome*, 271-280.
-[^115]: Royakkers, *Hadrian's Favourite*, 190-208.
-[^116]: Royakkers, *Hadrian's Favourite*, 45-67.
-[^117]: This represents a minority scholarly position; see discussion in Birley, *Hadrian*, 271-282.
-[^118]: Discussed and critiqued in Goodman, *Rome and Jerusalem*, 470-492.
-[^119]: Cassius Dio, *Roman History* 69.2-4.
-[^120]: Birley, *Hadrian*, 2-5.
-[^121]: Goodman, *Rome and Jerusalem*, 470-492.
-[^122]: Goodman, *Rome and Jerusalem*, 488-492.
-[^123]: Schwartz, *Imperialism and Jewish Society*, 103-105.
-[^124]: Schwartz, *Imperialism and Jewish Society*, 105-110.
-[^125]: This argument discussed in Luttwak, *Grand Strategy*, 61-68.
-[^126]: Goldsworthy, *Pax Romana*, 315-317.
-[^127]: Beard, *SPQR*, 436-437.
-[^128]: Opper, *Hadrian*, 20-26.
-[^129]: Discussed in Birley, *Hadrian*, 302-303.
-[^130]: Historia Augusta, *Life of Hadrian* 11.3; scholarly debate in Birley, *Hadrian*, 303.
-[^131]: Birley, *Hadrian*, 41-42, 302-303.
-[^132]: Opper, *Hadrian*, 176-178.
-[^133]: Opper, *Hadrian*, 169-178.
-[^134]: Birley, *Hadrian*, 234-237.
-[^135]: Opper, *Hadrian*, 126-128.
-[^136]: Historia Augusta, *Life of Hadrian* 25.9; various translations exist.
-[^137]: Reported in Birley, *Hadrian*, 87; original source uncertain.
-[^138]: Attributed in various ancient sources; see Opper, *Hadrian*, 26.
-[^139]: From Hadrian's lost writings, quoted in various later sources; see Birley, *Hadrian*, 293.
-[^140]: Reflected in inscriptions and ancient sources; see Birley, *Hadrian*, 206.
+
+[^86]: MacDonald and Pinto, _Hadrian's Villa_, 308-342.
+
+[^87]: Peter Garnsey and Richard Saller, _The Roman Empire: Economy, Society and Culture_ (Berkeley: University of California Press, 1987), 20-22.
+
+[^88]: Honoré, _Emperors and Lawyers_, 28-36.
+
+[^89]: Opper, _Hadrian_, 116-118.
+
+[^90]: Goldhill, _Being Greek Under Rome_, 1-25.
+
+[^91]: Goldhill, _Being Greek Under Rome_, 12-18.
+
+[^92]: Birley, _Hadrian_, 204-215.
+
+[^93]: Goldsworthy, _Pax Romana_, 324-328.
+
+[^94]: Edward N. Luttwak, _The Grand Strategy of the Roman Empire_ (Baltimore: Johns Hopkins University Press, 1976), 61-126.
+
+[^95]: Vout, _Power and Eroticism_, 90-110.
+
+[^96]: Royakkers, _Hadrian's Favourite_, 171-189.
+
+[^97]: Birley, _Hadrian_, 290-295.
+
+[^98]: Opper, _Hadrian_, 210-212.
+
+[^99]: MacDonald and Pinto, _Hadrian's Villa_, 308-320.
+
+[^100]: Edward Gibbon, _The History of the Decline and Fall of the Roman Empire_, vol. 1 (1776), chapter 3.
+
+[^101]: Mary Beard, _SPQR: A History of Ancient Rome_ (New York: Liveright, 2015), 434-438.
+
+[^102]: Marguerite Yourcenar, _Memoirs of Hadrian_ (1951; trans. Grace Frick, New York: Farrar, Straus and Giroux, 1954).
+
+[^103]: Speller, _Following Hadrian_, 6-9.
+
+[^104]: Gibbon, _Decline and Fall_, vol. 1, chapter 3.
+
+[^105]: Birley, _Hadrian_, 309-312.
+
+[^106]: Gibbon, _Decline and Fall_, vol. 1, chapter 3.
+
+[^107]: Birley, _Hadrian_, 1.
+
+[^108]: Birley, _Hadrian_, 309-310.
+
+[^109]: MacDonald and Pinto, _Hadrian's Villa_, 2.
+
+[^110]: MacDonald, _The Pantheon_, 94-98.
+
+[^111]: Goldsworthy, _Pax Romana_, 312-328.
+
+[^112]: Goldsworthy, _Pax Romana_, 314-315.
+
+[^113]: Goldhill, _Being Greek Under Rome_, 12-18.
+
+[^114]: Goldhill, _Being Greek Under Rome_, 271-280.
+
+[^115]: Royakkers, _Hadrian's Favourite_, 190-208.
+
+[^116]: Royakkers, _Hadrian's Favourite_, 45-67.
+
+[^117]: This represents a minority scholarly position; see discussion in Birley, _Hadrian_, 271-282.
+
+[^118]: Discussed and critiqued in Goodman, _Rome and Jerusalem_, 470-492.
+
+[^119]: Cassius Dio, _Roman History_ 69.2-4.
+
+[^120]: Birley, _Hadrian_, 2-5.
+
+[^121]: Goodman, _Rome and Jerusalem_, 470-492.
+
+[^122]: Goodman, _Rome and Jerusalem_, 488-492.
+
+[^123]: Schwartz, _Imperialism and Jewish Society_, 103-105.
+
+[^124]: Schwartz, _Imperialism and Jewish Society_, 105-110.
+
+[^125]: This argument discussed in Luttwak, _Grand Strategy_, 61-68.
+
+[^126]: Goldsworthy, _Pax Romana_, 315-317.
+
+[^127]: Beard, _SPQR_, 436-437.
+
+[^128]: Opper, _Hadrian_, 20-26.
+
+[^129]: Discussed in Birley, _Hadrian_, 302-303.
+
+[^130]: Historia Augusta, _Life of Hadrian_ 11.3; scholarly debate in Birley, _Hadrian_, 303.
+
+[^131]: Birley, _Hadrian_, 41-42, 302-303.
+
+[^132]: Opper, _Hadrian_, 176-178.
+
+[^133]: Opper, _Hadrian_, 169-178.
+
+[^134]: Birley, _Hadrian_, 234-237.
+
+[^135]: Opper, _Hadrian_, 126-128.
+
+[^136]: Historia Augusta, _Life of Hadrian_ 25.9; various translations exist.
+
+[^137]: Reported in Birley, _Hadrian_, 87; original source uncertain.
+
+[^138]: Attributed in various ancient sources; see Opper, _Hadrian_, 26.
+
+[^139]: From Hadrian's lost writings, quoted in various later sources; see Birley, _Hadrian_, 293.
+
+[^140]: Reflected in inscriptions and ancient sources; see Birley, _Hadrian_, 206.

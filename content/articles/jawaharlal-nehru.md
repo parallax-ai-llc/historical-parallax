@@ -69,7 +69,7 @@ Nehru laid the foundation of modern India by creating institutions of scientific
 
 ### Non-Aligned Movement and Foreign Policy
 
-In foreign affairs, Nehru led the establishment of the Non-Aligned Movement, a group of nations that refused membership in either of the two main ideological blocs of the Cold War[^40]. The movement was devised by Nehru and other leaders of newly independent Third World countries to "guard" their independence "in face of complex international situation demanding allegiance to either of the two warring superpowers"[^41]. 
+In foreign affairs, Nehru led the establishment of the Non-Aligned Movement, a group of nations that refused membership in either of the two main ideological blocs of the Cold War[^40]. The movement was devised by Nehru and other leaders of newly independent Third World countries to "guard" their independence "in face of complex international situation demanding allegiance to either of the two warring superpowers"[^41].
 
 The term "non-alignment" was coined by V.K. Krishna Menon in his speech at the United Nations in 1953 and was popularized by Nehru during his 1954 speech in Colombo, Sri Lanka, where he described the Panchsheel (Five Principles of Peaceful Coexistence) to guide Sino-Indian relations[^42]. These five principles were: mutual respect for each other's territorial integrity and sovereignty; mutual non-aggression; mutual non-interference in domestic affairs; equality and mutual benefit; and peaceful co-existence[^43]. These principles would later become the basis of the Non-Aligned Movement and influenced international relations during the Cold War era.
 
@@ -173,31 +173,31 @@ Conservative and nationalist critics argue that Nehru's secularism was actually 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1889 | Born on November 14 in Allahabad, British India |
-| 1905 | Enrolled at Harrow School in England |
-| 1907 | Entered Trinity College, Cambridge |
-| 1910 | Graduated from Cambridge with honours in natural science |
-| 1912 | Qualified as barrister from Inner Temple, London; returned to India |
-| 1916 | Married Kamala Kaul; met Mahatma Gandhi at Lucknow Congress |
-| 1917 | Birth of daughter Indira Priyadarshini |
-| 1919 | Joined Indian National Congress actively following Jallianwala Bagh massacre |
+| Year | Event                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 1889 | Born on November 14 in Allahabad, British India                                              |
+| 1905 | Enrolled at Harrow School in England                                                         |
+| 1907 | Entered Trinity College, Cambridge                                                           |
+| 1910 | Graduated from Cambridge with honours in natural science                                     |
+| 1912 | Qualified as barrister from Inner Temple, London; returned to India                          |
+| 1916 | Married Kamala Kaul; met Mahatma Gandhi at Lucknow Congress                                  |
+| 1917 | Birth of daughter Indira Priyadarshini                                                       |
+| 1919 | Joined Indian National Congress actively following Jallianwala Bagh massacre                 |
 | 1929 | Elected President of Indian National Congress; declared Purna Swaraj (complete independence) |
-| 1930 | Led Salt March campaigns; first of nine imprisonments |
-| 1936 | Death of wife Kamala Nehru from tuberculosis |
-| 1942 | Imprisoned at Ahmednagar Fort; wrote "The Discovery of India" |
-| 1946 | Elected President of Indian National Congress; formed interim government |
-| 1947 | Delivered "Tryst with Destiny" speech; became first Prime Minister of India on August 15 |
-| 1947 | Kashmir accession and first India-Pakistan war |
-| 1950 | India became a Republic; Nehru continued as Prime Minister |
-| 1951 | Launched First Five-Year Plan |
-| 1954 | Signed Panchsheel Agreement with China |
-| 1955 | Attended Bandung Conference; helped establish Non-Aligned Movement |
-| 1956 | Adopted Hindu Code Bills reforming Hindu personal law |
-| 1959 | Appointed daughter Indira Gandhi as Congress President |
-| 1962 | Sino-Indian War; suffered humiliating military defeat |
-| 1964 | Died on May 27 from heart attack in New Delhi |
+| 1930 | Led Salt March campaigns; first of nine imprisonments                                        |
+| 1936 | Death of wife Kamala Nehru from tuberculosis                                                 |
+| 1942 | Imprisoned at Ahmednagar Fort; wrote "The Discovery of India"                                |
+| 1946 | Elected President of Indian National Congress; formed interim government                     |
+| 1947 | Delivered "Tryst with Destiny" speech; became first Prime Minister of India on August 15     |
+| 1947 | Kashmir accession and first India-Pakistan war                                               |
+| 1950 | India became a Republic; Nehru continued as Prime Minister                                   |
+| 1951 | Launched First Five-Year Plan                                                                |
+| 1954 | Signed Panchsheel Agreement with China                                                       |
+| 1955 | Attended Bandung Conference; helped establish Non-Aligned Movement                           |
+| 1956 | Adopted Hindu Code Bills reforming Hindu personal law                                        |
+| 1959 | Appointed daughter Indira Gandhi as Congress President                                       |
+| 1962 | Sino-Indian War; suffered humiliating military defeat                                        |
+| 1964 | Died on May 27 from heart attack in New Delhi                                                |
 
 ---
 
@@ -218,118 +218,233 @@ Conservative and nationalist critics argue that Nehru's secularism was actually 
 ## References
 
 [^1]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^2]: [Jawaharlal Nehru | Biography, Significance, Family, Wife, Daughter, Death, & Children's Day | Britannica](https://www.britannica.com/biography/Jawaharlal-Nehru)
+
 [^3]: [Jawaharlal Nehru Biography, Early Life, Education, Career And Death](https://www.pw.live/banking/exams/jawaharlal-nehru)
+
 [^4]: [Launching Into the Lasting (Controversial) Legacy of Nehru - Fair Observer](https://www.fairobserver.com/world-news/india-news/launching-into-the-lasting-controversial-legacy-of-nehru/)
+
 [^5]: [Jawaharlal Nehru Biography: Life, Achievements and Facts](https://www.vedantu.com/biography/jawaharlal-nehru-biography)
+
 [^6]: [Jawaharlal Nehru Memorial Fund](https://www.jnmf.in/chrono.html)
+
 [^7]: [Shri Jawaharlal Nehru | Prime Minister of India](https://www.pmindia.gov.in/en/former_pm/shri-jawaharlal-nehru/)
+
 [^8]: [Nehru, Jawaharlal | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/nehru-jawaharlal)
+
 [^9]: [Jawahar Lal Nehru Biography, Early Life, Political Journey, Death, Legacy](https://www.studyiq.com/articles/jawahar-lal-nehru-biography/)
+
 [^10]: [Jawaharlal Nehru Biography: Early Life, Family, Education and Political Journey](https://unacademy.com/content/general-awareness/jawaharlal-nehru-biography/)
+
 [^11]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^12]: [Jawaharlal Nehru | Biography, Significance, Family, Wife, Daughter, Death, & Children's Day | Britannica](https://www.britannica.com/biography/Jawaharlal_Nehru)
+
 [^13]: [Jawaharlal Nehru Biography, Early Life, Education, Career And Death](https://www.pw.live/banking/exams/jawaharlal-nehru)
+
 [^14]: [Jawaharlal Nehru Memorial Fund](https://www.jnmf.in/chrono.html)
+
 [^15]: [Jawaharlal Nehru Biography: Life, Achievements and Facts](https://www.vedantu.com/biography/jawaharlal-nehru-biography)
+
 [^16]: [Jawaharlal Nehru - Indian Independence, Congress Leader, Freedom Fighter | Britannica](https://www.britannica.com/biography/Jawaharlal-Nehru/Struggle-for-Indian-independence)
+
 [^17]: [Indian National Congress - Wikipedia](https://en.wikipedia.org/wiki/Indian_National_Congress)
+
 [^18]: [Jawaharlal Nehru 1 (1889-1964)](https://www-tc.pbs.org/wgbh/commandingheights/shared/pdf/prof_jawaharlalnehru.pdf)
+
 [^19]: [Jawaharlal Nehru summary | Britannica](https://www.britannica.com/summary/Jawaharlal-Nehru)
+
 [^20]: [Jawaharlal Nehru Memorial Fund](https://www.jnmf.in/chrono.html)
+
 [^21]: [Jawaharlal Nehru — Never Such Innocence](https://www.neversuchinnocence.com/jawaharlal-nehru-partition-of-british-india)
+
 [^22]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^23]: [Indian Independence Movement | History, Summary, Timeline, Causes, & Facts | Britannica](https://www.britannica.com/topic/Indian-Independence-Movement)
+
 [^24]: [Jawaharlal Nehru Memorial Fund](https://www.jnmf.in/chrono.html)
+
 [^25]: [Jawaharlal Nehru - Indian Independence, Congress Leader, Freedom Fighter | Britannica](https://www.britannica.com/biography/Jawaharlal-Nehru/Struggle-for-Indian-independence)
+
 [^26]: [Partition & Independence | The Story of India - Photo Gallery | PBS](https://www.pbs.org/thestoryofindia/gallery/photos/24.html)
+
 [^27]: [Jawaharlal Nehru | Biography, Significance, Family, Wife, Daughter, Death, & Children's Day | Britannica](https://www.britannica.com/biography/Jawaharlal-Nehru)
+
 [^28]: [Tryst with Destiny - Wikipedia](https://en.wikipedia.org/wiki/Tryst_with_Destiny)
+
 [^29]: [Jawaharlal Nehru Quotes (Author of The Discovery of India)](https://www.goodreads.com/author/quotes/89095.Jawaharlal_Nehru)
+
 [^30]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^31]: [Jawaharlal Nehru - Indian Independence, Non-Alignment, Socialism | Britannica](https://www.britannica.com/biography/Jawaharlal-Nehru/Achievements-as-prime-minister)
+
 [^32]: [Prime Minister Jawaharlal Nehru (U.S. National Park Service)](https://www.nps.gov/people/prime-minister-nehru.htm)
+
 [^33]: [Jawaharlal Nehru: A Troubled Legacy](https://www.thenehru.org/2021/06/jawaharlal-nehru-troubled-legacy.html)
+
 [^34]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^35]: [Jawaharlal Nehru: A Troubled Legacy](https://www.thenehru.org/2021/06/jawaharlal-nehru-troubled-legacy.html)
+
 [^36]: [PANDIT JAWAHARLAL NEHRU](https://inc.in/our-inspiration/pandit-jawaharlal-nehru)
+
 [^37]: [Jawaharlal Nehru: The Architect of Modern India](https://www.nextias.com/blog/jawaharlal-nehru/)
+
 [^38]: [Jawaharlal Nehru - Indian Independence, Non-Alignment, Socialism | Britannica](https://www.britannica.com/biography/Jawaharlal-Nehru/Achievements-as-prime-minister)
+
 [^39]: [Pandit Jawaharlal Nehru as the Architect of Modern India](https://www.drishtiias.com/daily-updates/daily-news-analysis/pandit-jawaharlal-nehru-as-the-architect-of-modern-india)
+
 [^40]: [India and the Non-Aligned Movement - Wikipedia](https://en.wikipedia.org/wiki/India_and_the_Non-Aligned_Movement)
+
 [^41]: [Nehru and Non-alignment - Mainstream Weekly](https://www.mainstreamweekly.net/article1399.html)
+
 [^42]: [Jawaharlal Nehru Biography: Know About His Life, Career, Achievements and Legacy](https://currentaffairs.adda247.com/jawaharlal-nehru-biography/)
+
 [^43]: [Jawaharlal Nehru, Architect of Modern India, Death, Foreign Policy](https://vajiramandravi.com/upsc-exam/jawaharlal-nehru/)
+
 [^44]: [Nehru and Non-alignment - Mainstream Weekly](https://www.mainstreamweekly.net/article1399.html)
+
 [^45]: [6 Controversial 'Mistakes' India's 1st PM Jawaharlal Nehru Is Often Accused Of Committing | News | Zee News](https://zeenews.india.com/photos/india/six-controversial-blunders-that-jawahar-lal-nehru-is-often-criticised-for-2698039)
+
 [^46]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^47]: [How India is Paying the Price for Nehru's Strategic Blunders](https://stophindudvesha.org/how-india-is-paying-the-price-for-nehrus-strategic-blunders/)
+
 [^48]: [6 Controversial 'Mistakes' India's 1st PM Jawaharlal Nehru Is Often Accused Of Committing | News | Zee News](https://zeenews.india.com/photos/india/six-controversial-blunders-that-jawahar-lal-nehru-is-often-criticised-for-2698039)
+
 [^49]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^50]: [Inviting an Invasion: Jawaharlal Nehru's Tibetan Blunder](https://www.dharmadispatch.in/commentary/inviting-an-invasion-jawaharlal-nehrus-tibetan-blunder)
+
 [^51]: [( The Great Indian Prime Minister ) Nehru and the China-Tibet blunder! – Central Tibetan Administration](https://tibet.net/the-great-indian-prime-minister-nehru-and-the-china-tibet-blunder/)
+
 [^52]: [Inviting an Invasion: Jawaharlal Nehru's Tibetan Blunder](https://www.dharmadispatch.in/commentary/inviting-an-invasion-jawaharlal-nehrus-tibetan-blunder)
+
 [^53]: [( The Great Indian Prime Minister ) Nehru and the China-Tibet blunder! – Central Tibetan Administration](https://tibet.net/the-great-indian-prime-minister-nehru-and-the-china-tibet-blunder/)
+
 [^54]: [The Darker Side of Jawaharlal Nehru: Why He Should Have Stepped Down as Prime Minister | by GOPI TRINADH MADDIKUNTA | Medium](https://medium.com/@trinadh7341/the-darker-side-of-jawaharlal-nehru-why-he-should-have-stepped-down-as-prime-minister-c72603a6d2c4)
+
 [^55]: [India-China Dispute: Nehru's Himalayan Blunder](https://swarajyamag.com/world/india-china-dispute-nehrus-himalayan-blunder)
+
 [^56]: [Himalayan Blunders by Jawaharlal Nehru that hurt India to this day](https://www.opindia.com/2021/11/jawaharlal-nehru-blunders-independent-india-first-prime-minister/)
+
 [^57]: [Launching Into the Lasting (Controversial) Legacy of Nehru - Fair Observer](https://www.fairobserver.com/world-news/india-news/launching-into-the-lasting-controversial-legacy-of-nehru/)
+
 [^58]: [6 Controversial 'Mistakes' India's 1st PM Jawaharlal Nehru Is Often Accused Of Committing](https://zeenews.india.com/photos/india/six-controversial-blunders-that-jawahar-lal-nehru-is-often-criticised-for-2698039/amp)
+
 [^59]: [How India is Paying the Price for Nehru's Strategic Blunders](https://stophindudvesha.org/how-india-is-paying-the-price-for-nehrus-strategic-blunders/)
+
 [^60]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^61]: [Launching Into the Lasting (Controversial) Legacy of Nehru - Fair Observer](https://www.fairobserver.com/world-news/india-news/launching-into-the-lasting-controversial-legacy-of-nehru/)
+
 [^62]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^63]: [6 Controversial 'Mistakes' India's 1st PM Jawaharlal Nehru Is Often Accused Of Committing | News | Zee News](https://zeenews.india.com/photos/india/six-controversial-blunders-that-jawahar-lal-nehru-is-often-criticised-for-2698039)
+
 [^64]: [Nehru–Gandhi family - Wikipedia](https://en.wikipedia.org/wiki/Nehru–Gandhi_family)
+
 [^65]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^66]: [Kamala Nehru - Wikipedia](https://en.wikipedia.org/wiki/Kamala_Nehru)
+
 [^67]: [Kamala Nehru - Wikipedia](https://en.wikipedia.org/wiki/Kamala_Nehru)
+
 [^68]: [Jawaharlal Nehru - Death, Wife & Family](https://www.biography.com/political-figures/jawaharlal-nehru)
+
 [^69]: [Jawaharlal Nehru | Biography, Significance, Family, Wife, Daughter, Death, & Children's Day | Britannica](https://www.britannica.com/biography/Jawaharlal-Nehru)
+
 [^70]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^71]: [Indira Gandhi's Iconic Interview: My Father, Pt. Nehru Was Not My Mentor, I Was A Standard Mom, More](https://www.bollywoodshaadis.com/articles/indira-gandhi-interview-father-jawaharlal-nehru-was-not-her-mentor-husband-feroze-death-55679)
+
 [^72]: [Nehru–Gandhi family - Wikipedia](https://en.wikipedia.org/wiki/Nehru–Gandhi_family)
+
 [^73]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^74]: [Jawaharlal Nehru Biography - Early Life, Family Tree, Speech & Death | Infinity Learn](https://infinitylearn.com/surge/biography/jawaharlal-nehru-biography/)
+
 [^75]: [The Discovery of India Quotes by Jawaharlal Nehru](https://www.goodreads.com/work/quotes/148752-the-discovery-of-india)
+
 [^76]: [Jawaharlal Nehru: Architect of Modern India and His Legacy](https://mindbrews.in/jawaharlal-nehru-a-legacy-of-leadership-and-controversy/)
+
 [^77]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^78]: [Prime Minister Jawaharlal Nehru (U.S. National Park Service)](https://www.nps.gov/people/prime-minister-nehru.htm)
+
 [^79]: [(PDF) Leading in a Nascent Nation: Critical analysis of Jawaharlal Nehru's leadership from 1947-1957](https://www.researchgate.net/publication/374750424_Leading_in_a_Nascent_Nation_Critical_analysis_of_Jawaharlal_Nehru's_leadership_from_1947-1957)
+
 [^80]: [Jawaharlal Nehru: Life and Legacy](https://globhistory.org/en/country/djavaharlal_neru)
+
 [^81]: [Jawaharlal Nehru: A Guiding Force in Our Past, Present, and Future](https://www.thenehru.org/2024/02/jawaharlal-nehru-guiding-force-in-our.html)
+
 [^82]: [Pandit Jawaharlal Nehru as the Architect of Modern India](https://www.drishtiias.com/daily-updates/daily-news-analysis/pandit-jawaharlal-nehru-as-the-architect-of-modern-india)
+
 [^83]: [Jawaharlal Nehru: The Architect of Modern India](https://www.nextias.com/blog/jawaharlal-nehru/)
+
 [^84]: [Launching Into the Lasting (Controversial) Legacy of Nehru - Fair Observer](https://www.fairobserver.com/world-news/india-news/launching-into-the-lasting-controversial-legacy-of-nehru/)
+
 [^85]: [How India is Paying the Price for Nehru's Strategic Blunders](https://stophindudvesha.org/how-india-is-paying-the-price-for-nehrus-strategic-blunders/)
+
 [^86]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^87]: [Launching Into the Lasting (Controversial) Legacy of Nehru - Fair Observer](https://www.fairobserver.com/world-news/india-news/launching-into-the-lasting-controversial-legacy-of-nehru/)
+
 [^88]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^89]: [Nehru–Gandhi family - Wikipedia](https://en.wikipedia.org/wiki/Nehru–Gandhi_family)
+
 [^90]: [Jawaharlal Nehru: Architect of Modern India and His Legacy](https://mindbrews.in/jawaharlal-nehru-a-legacy-of-leadership-and-controversy/)
+
 [^91]: [The Discovery of India Quotes by Jawaharlal Nehru](https://www.goodreads.com/work/quotes/148752-the-discovery-of-india)
+
 [^92]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^93]: [Jawaharlal Nehru: A Troubled Legacy](https://www.thenehru.org/2021/06/jawaharlal-nehru-troubled-legacy.html)
+
 [^94]: [(PDF) Leading in a Nascent Nation: Critical analysis of Jawaharlal Nehru's leadership from 1947-1957](https://www.researchgate.net/publication/374750424_Leading_in_a_Nascent_Nation_Critical_analysis_of_Jawaharlal_Nehru's_leadership_from_1947-1957)
+
 [^95]: [Jawaharlal Nehru: A Troubled Legacy](https://www.thenehru.org/2021/06/jawaharlal-nehru-troubled-legacy.html)
+
 [^96]: [Nehru and Non-alignment - Mainstream Weekly](https://www.mainstreamweekly.net/article1399.html)
+
 [^97]: [India and the Non-Aligned Movement - Wikipedia](https://en.wikipedia.org/wiki/India_and_the_Non-Aligned_Movement)
+
 [^98]: [The Discovery of India Quotes by Jawaharlal Nehru](https://www.goodreads.com/work/quotes/148752-the-discovery-of-india)
+
 [^99]: [6 Controversial 'Mistakes' India's 1st PM Jawaharlal Nehru Is Often Accused Of Committing | News | Zee News](https://zeenews.india.com/photos/india/six-controversial-blunders-that-jawahar-lal-nehru-is-often-criticised-for-2698039)
+
 [^100]: [How India is Paying the Price for Nehru's Strategic Blunders](https://stophindudvesha.org/how-india-is-paying-the-price-for-nehrus-strategic-blunders/)
+
 [^101]: [Inviting an Invasion: Jawaharlal Nehru's Tibetan Blunder](https://www.dharmadispatch.in/commentary/inviting-an-invasion-jawaharlal-nehrus-tibetan-blunder)
+
 [^102]: [( The Great Indian Prime Minister ) Nehru and the China-Tibet blunder! – Central Tibetan Administration](https://tibet.net/the-great-indian-prime-minister-nehru-and-the-china-tibet-blunder/)
+
 [^103]: [The Darker Side of Jawaharlal Nehru: Why He Should Have Stepped Down as Prime Minister | by GOPI TRINADH MADDIKUNTA | Medium](https://medium.com/@trinadh7341/the-darker-side-of-jawaharlal-nehru-why-he-should-have-stepped-down-as-prime-minister-c72603a6d2c4)
+
 [^104]: [Launching Into the Lasting (Controversial) Legacy of Nehru - Fair Observer](https://www.fairobserver.com/world-news/india-news/launching-into-the-lasting-controversial-legacy-of-nehru/)
+
 [^105]: [Jawaharlal Nehru - Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal_Nehru)
+
 [^106]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^107]: [Launching Into the Lasting (Controversial) Legacy of Nehru - Fair Observer](https://www.fairobserver.com/world-news/india-news/launching-into-the-lasting-controversial-legacy-of-nehru/)
+
 [^108]: [Fallacies of Nehru: From Kashmir to China to promoting dynastic politics, the nation continues to pay the price](https://organiser.org/2024/05/27/239509/bharat/fallacies-of-nehru-from-kashmir-to-china-to-promoting-dynastic-politics-the-nation-continues-to-pay-the-price/)
+
 [^109]: [6 Controversial 'Mistakes' India's 1st PM Jawaharlal Nehru Is Often Accused Of Committing | News | Zee News](https://zeenews.india.com/photos/india/six-controversial-blunders-that-jawahar-lal-nehru-is-often-criticised-for-2698039)
+
 [^110]: [Jawaharlal Nehru: A Troubled Legacy](https://www.thenehru.org/2021/06/jawaharlal-nehru-troubled-legacy.html)
+
 [^111]: [Himalayan Blunders by Jawaharlal Nehru that hurt India to this day](https://www.opindia.com/2021/11/jawaharlal-nehru-blunders-independent-india-first-prime-minister/)
+
 [^112]: [Tryst with Destiny - Wikipedia](https://en.wikipedia.org/wiki/Tryst_with_Destiny)
+
 [^113]: [The Discovery of India Quotes by Jawaharlal Nehru](https://www.goodreads.com/work/quotes/148752-the-discovery-of-india)
+
 [^114]: [20 of the Best Quotes By Jawaharlal Nehru | Quoteikon](https://www.quoteikon.com/jawaharlal-nehru-quotes.html)
+
 [^115]: [Jawaharlal Nehru Quotes (Author of The Discovery of India)](https://www.goodreads.com/author/quotes/89095.Jawaharlal_Nehru)
+
 [^116]: [TOP 25 QUOTES BY JAWAHARLAL NEHRU (of 141) | A-Z Quotes](https://www.azquotes.com/author/10713-Jawaharlal_Nehru)

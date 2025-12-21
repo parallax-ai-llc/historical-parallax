@@ -153,35 +153,35 @@ More broadly, some assessments conclude that despite forty years in high politic
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1932 | Born November 29 in Paris, France |
-| 1954 | Graduated from Institut d'Études Politiques de Paris |
-| 1956 | Married Bernadette Chodron de Courcel on March 16 |
-| 1956-57 | Served as officer in French army in Algeria |
-| 1959 | Graduated from École Nationale d'Administration |
-| 1962 | Appointed head of personal staff to Prime Minister Georges Pompidou |
-| 1967 | Elected to National Assembly representing Corrèze |
-| 1967 | Appointed Minister of Social Affairs |
-| 1972-74 | Served as Minister of Agriculture |
-| 1974 | Appointed Minister of the Interior |
-| 1974-76 | Served as Prime Minister under President Valéry Giscard d'Estaing |
-| 1976 | Founded Rally for the Republic (RPR) party |
-| 1977 | Elected Mayor of Paris |
-| 1981 | Unsuccessful run for president (eliminated in first round) |
-| 1986-88 | Served as Prime Minister during first cohabitation |
-| 1988 | Unsuccessful run for president (lost to François Mitterrand) |
-| 1995 | Elected President of France on May 7 |
-| 1995 | Acknowledged France's role in Holocaust deportations |
-| 1995-96 | Authorized nuclear tests in South Pacific |
-| 2000 | Constitutional reform reduced presidential term to five years |
-| 2002 | Re-elected President with 82.2% of vote against Jean-Marie Le Pen |
-| 2003 | Led opposition to U.S.-led invasion of Iraq |
-| 2004 | Signed law banning religious symbols in public schools |
-| 2005 | Suffered stroke |
-| 2007 | Left office on May 16; succeeded by Nicolas Sarkozy |
-| 2011 | Convicted of corruption on December 14; given suspended sentence |
-| 2019 | Died September 26 in Paris at age 86 |
+| Year    | Event                                                               |
+| ------- | ------------------------------------------------------------------- |
+| 1932    | Born November 29 in Paris, France                                   |
+| 1954    | Graduated from Institut d'Études Politiques de Paris                |
+| 1956    | Married Bernadette Chodron de Courcel on March 16                   |
+| 1956-57 | Served as officer in French army in Algeria                         |
+| 1959    | Graduated from École Nationale d'Administration                     |
+| 1962    | Appointed head of personal staff to Prime Minister Georges Pompidou |
+| 1967    | Elected to National Assembly representing Corrèze                   |
+| 1967    | Appointed Minister of Social Affairs                                |
+| 1972-74 | Served as Minister of Agriculture                                   |
+| 1974    | Appointed Minister of the Interior                                  |
+| 1974-76 | Served as Prime Minister under President Valéry Giscard d'Estaing   |
+| 1976    | Founded Rally for the Republic (RPR) party                          |
+| 1977    | Elected Mayor of Paris                                              |
+| 1981    | Unsuccessful run for president (eliminated in first round)          |
+| 1986-88 | Served as Prime Minister during first cohabitation                  |
+| 1988    | Unsuccessful run for president (lost to François Mitterrand)        |
+| 1995    | Elected President of France on May 7                                |
+| 1995    | Acknowledged France's role in Holocaust deportations                |
+| 1995-96 | Authorized nuclear tests in South Pacific                           |
+| 2000    | Constitutional reform reduced presidential term to five years       |
+| 2002    | Re-elected President with 82.2% of vote against Jean-Marie Le Pen   |
+| 2003    | Led opposition to U.S.-led invasion of Iraq                         |
+| 2004    | Signed law banning religious symbols in public schools              |
+| 2005    | Suffered stroke                                                     |
+| 2007    | Left office on May 16; succeeded by Nicolas Sarkozy                 |
+| 2011    | Convicted of corruption on December 14; given suspended sentence    |
+| 2019    | Died September 26 in Paris at age 86                                |
 
 ---
 
@@ -206,59 +206,115 @@ More broadly, some assessments conclude that despite forty years in high politic
 ## References
 
 [^1]: [Jacques Chirac - Wikipedia](https://en.wikipedia.org/wiki/Jacques_Chirac)
+
 [^2]: [Jacques Chirac | Biography & Facts | Britannica](https://www.britannica.com/biography/Jacques-Chirac)
+
 [^3]: [Jacques Chirac, French President Who Opposed U.S. Iraq War, Is Dead At 86 : NPR](https://www.npr.org/2019/09/26/764561501/jacques-chirac-french-president-who-opposed-u-s-iraq-war-is-dead-at-86)
+
 [^4]: [Former French President Jacques Chirac Convicted on Corruption Charges | TIME.com](https://world.time.com/2011/12/15/former-french-president-jacques-chirac-convicted-on-corruption-charges/)
+
 [^5]: [Jacques Chirac - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Jacques_Chirac)
+
 [^6]: [Jacques Chirac Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/jacques-chirac-112.php)
+
 [^7]: [Bernadette Chirac - Wikipedia](https://en.wikipedia.org/wiki/Bernadette_Chirac)
+
 [^8]: [Jacques and Bernadette Chirac Love story - Steemit](https://steemit.com/love/@sobiakanwal/jacques-and-bernadette-chirac-love-story)
+
 [^9]: [Jacques Chirac, 1932-2019: a political bulldozer](https://theconversation.com/jacques-chirac-1932-2019-a-political-bulldozer-69653)
+
 [^10]: [The World of Jacques Chirac - FRANCE 24](https://webdoc.france24.com/jacques-chirac-president-france-africa-usa/)
+
 [^11]: [Jacques Chirac | Élysée](https://www.elysee.fr/en/jacques-chirac)
+
 [^12]: [Jacques Chirac - Students | Britannica Kids | Homework Help](https://kids.britannica.com/students/article/Jacques-Chirac/310678)
+
 [^13]: [Jacques Chirac, Forty Years of Political Life | Institut Montaigne](https://www.institutmontaigne.org/en/expressions/jacques-chirac-forty-years-political-life)
+
 [^14]: [Jacques Chirac | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/politics-and-government/jacques-chirac)
+
 [^15]: [Jacques Chirac summary | Britannica](https://www.britannica.com/summary/Jacques-Chirac)
+
 [^16]: [Jacques Chirac's second term as President of France - Wikipedia](https://en.wikipedia.org/wiki/Jacques_Chirac's_second_term_as_President_of_France)
+
 [^17]: [Jacques Chirac, former France president who opposed Iraq invasion, dies at 86 | PBS News](https://www.pbs.org/newshour/world/jacques-chirac-former-france-president-who-opposed-iraq-invasion-dies-at-86)
+
 [^18]: [Jacques Chirac, flamboyant French president who opposed U.S. invasion of Iraq, dies at 86 - The Washington Post](https://www.washingtonpost.com/local/obituaries/jacques-chirac-flamboyant-french-president-who-opposed-us-invasion-of-iraq-dies-at-86/2019/09/26/5f209d5e-e045-11e9-be96-6adb81821e90_story.html)
+
 [^19]: [When Chirac opposed war in Iraq - France 24](https://www.france24.com/en/20190926-when-chirac-opposed-war-in-iraq)
+
 [^20]: [Jacques Chirac's Iraq War Opposition - Brut](https://brut.media/us/international/jacques-chirac-s-iraq-war-opposition-04fab682-ce7c-4646-9cd3-0560b1653e4a)
+
 [^21]: [What Is Jacques Chirac's Legacy in the Middle East? | Carnegie Endowment for International Peace](https://carnegieendowment.org/middle-east/diwan/2019/10/what-is-jacques-chiracs-legacy-in-the-middle-east?lang=en)
+
 [^22]: [Jacques Chirac: what legacy for the late French president?](https://theconversation.com/jacques-chirac-what-legacy-for-the-late-french-president-69938)
+
 [^23]: [Jacques Chirac (1932–2019), former president of France](https://www.legacy.com/news/celebrity-deaths/jacques-chirac-1932-2019-former-president-of-france/)
+
 [^24]: [Passing of Jacques Chirac - France ONU](https://onu.delegfrance.org/Death-of-Jacques-Chirac)
+
 [^25]: [French ex-President Jacques Chirac dead at 86 - World Socialist Web Site](https://www.wsws.org/en/articles/2019/09/30/chir-s30.html)
+
 [^26]: [Jacques Chirac in quotes - France 24](https://www.france24.com/en/20190926-jacques-chirac-in-quotes)
+
 [^27]: [Corruption scandals in the Paris region - Wikipedia](https://en.wikipedia.org/wiki/Corruption_scandals_in_the_Paris_region)
+
 [^28]: [Former president Chirac convicted in corruption trial - France 24](https://www.france24.com/en/20111215-chirac-france-trial-corruption-president-mayor-france-embezzlement-guilty)
+
 [^29]: [French ex-president Chirac convicted of corruption - The Washington Post](https://www.washingtonpost.com/world/french-ex-president-chirac-convicted-of-corruption/2011/12/15/gIQAfp97vO_story.html)
+
 [^30]: [Jacques Chirac Fast Facts | CNN](https://www.cnn.com/2013/01/21/europe/jacques-chirac-fast-facts)
+
 [^31]: [Jacques Chirac, former French president, found guilty of corruption - The World from PRX](https://theworld.org/stories/2016/07/31/jacques-chirac-former-french-president-found-guilty-corruption)
+
 [^32]: [Chirac's landmark corruption trial - France 24](https://www.france24.com/en/20190926-chirac-s-landmark-corruption-trial)
+
 [^33]: [Corruption scandals in the Paris region - Wikipedia](https://en.wikipedia.org/wiki/Corruption_scandals_in_the_Paris_region)
+
 [^34]: [Former president Chirac convicted in corruption trial - France 24](https://www.france24.com/en/20111215-chirac-france-trial-corruption-president-mayor-france-embezzlement-guilty)
+
 [^35]: [Jacques Chirac | Biography & Facts | Britannica](https://www.britannica.com/biography/Jacques-Chirac)
+
 [^36]: [Family tree of Bernadette CHIRAC - Geneastar](https://en.geneastar.org/genealogy/courcel/bernadette-chirac)
+
 [^37]: [Jacques Chirac - Wikipedia](https://en.wikipedia.org/wiki/Jacques_Chirac)
+
 [^38]: [Behind Chirac's six-decade marriage, a litany of affairs - France 24](https://www.france24.com/en/20190926-behind-chirac-s-six-decade-marriage-a-litany-of-affairs)
+
 [^39]: ['The President's Wife' Looks Back at the Great Woman Behind Jacques Chirac - Frenchly](https://frenchly.us/the-presidents-wife-looks-back-at-the-great-woman-behind-jacques-chirac/)
+
 [^40]: [Bernadette Chirac Biography: Age, Net Worth, Family & Career - Mabumbe](https://mabumbe.com/people/bernadette-chirac-biography-age-net-worth-family-career/)
+
 [^41]: [Behind Chirac's six-decade marriage, a litany of affairs - France 24](https://www.france24.com/en/20190926-behind-chirac-s-six-decade-marriage-a-litany-of-affairs)
+
 [^42]: [The World of Jacques Chirac - FRANCE 24](https://webdoc.france24.com/jacques-chirac-president-france-africa-usa/)
+
 [^43]: [Jacques Chirac (1932–2019), former president of France](https://www.legacy.com/news/celebrity-deaths/jacques-chirac-1932-2019-former-president-of-france/)
+
 [^44]: [Jacques Chirac, French President Who Opposed U.S. Iraq War, Is Dead At 86 : NPR](https://www.npr.org/2019/09/26/764561501/jacques-chirac-french-president-who-opposed-u-s-iraq-war-is-dead-at-86)
+
 [^45]: [Jacques Chirac: what legacy for the late French president?](https://theconversation.com/jacques-chirac-what-legacy-for-the-late-french-president-69938)
+
 [^46]: [Jacques Chirac, 1932-2019: a political bulldozer](https://theconversation.com/jacques-chirac-1932-2019-a-political-bulldozer-69653)
+
 [^47]: [French ex-President Jacques Chirac dead at 86 - World Socialist Web Site](https://www.wsws.org/en/articles/2019/09/30/chir-s30.html)
+
 [^48]: [Jacques Chirac: what legacy for the late French president?](https://theconversation.com/jacques-chirac-what-legacy-for-the-late-french-president-69938)
+
 [^49]: [Jacques Chirac Represented Cynical Corruption on the Iraq War, Not Restraint | American Enterprise Institute - AEI](https://www.aei.org/op-eds/jacques-chirac-represented-cynical-corruption-on-the-iraq-war-not-restraint/)
+
 [^50]: [Jacques Chirac, Forty Years of Political Life | Institut Montaigne](https://www.institutmontaigne.org/en/expressions/jacques-chirac-forty-years-political-life)
+
 [^51]: [Jacques Chirac, 1932-2019: a political bulldozer](https://theconversation.com/jacques-chirac-1932-2019-a-political-bulldozer-69653)
+
 [^52]: [Jacques Chirac: what legacy for the late French president?](https://theconversation.com/jacques-chirac-what-legacy-for-the-late-french-president-69938)
+
 [^53]: [French ex-President Jacques Chirac dead at 86 - World Socialist Web Site](https://www.wsws.org/en/articles/2019/09/30/chir-s30.html)
+
 [^54]: [TOP 25 QUOTES BY JACQUES CHIRAC | A-Z Quotes](https://www.azquotes.com/author/2822-Jacques_Chirac)
+
 [^55]: [Jacques Chirac Quotes - BrainyQuote](https://www.brainyquote.com/authors/jacques-chirac-quotes)
+
 [^56]: [Jacques Chirac - Wikiquote](https://en.wikiquote.org/wiki/Jacques_Chirac)
+
 [^57]: ['Does Maggie Thatcher want my balls on a plate?': Jacques Chirac's most famous quotes](https://www.thelocal.fr/20190926/jacques-chirac-in-quotes/)

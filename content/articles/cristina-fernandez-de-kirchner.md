@@ -136,33 +136,33 @@ International observers and financial analysts criticize her administration's ha
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1953 | Born February 19 in La Plata, Argentina |
-| 1973 | Met Néstor Kirchner at National University of La Plata |
-| 1975 | Married Néstor Kirchner on May 9 |
-| 1977 | Son Máximo Kirchner born |
-| 1979 | Graduated with law degree from National University of La Plata |
-| 1985 | Became provincial delegate to Justicialist Party convention |
-| 1989 | Elected to Santa Cruz Provincial Legislature |
-| 1990 | Daughter Florencia Kirchner born |
-| 1995 | Elected to Argentine Senate representing Santa Cruz |
-| 1997 | Elected to Chamber of Deputies |
-| 2001 | Returned to Argentine Senate |
-| 2003 | Husband Néstor Kirchner became President; she became First Lady |
-| 2005 | Elected Senator for Buenos Aires Province with 46% of vote |
-| 2007 | Elected President of Argentina with 45.3% of vote; inaugurated December 10 |
-| 2008 | Agricultural sector protests against grain export taxes |
-| 2010 | Signed same-sex marriage legislation into law (July); husband Néstor died suddenly (October 27) |
-| 2011 | Reelected President with 54.1% of vote, widest margin in Argentine history |
+| Year | Event                                                                                                                |
+| ---- | -------------------------------------------------------------------------------------------------------------------- |
+| 1953 | Born February 19 in La Plata, Argentina                                                                              |
+| 1973 | Met Néstor Kirchner at National University of La Plata                                                               |
+| 1975 | Married Néstor Kirchner on May 9                                                                                     |
+| 1977 | Son Máximo Kirchner born                                                                                             |
+| 1979 | Graduated with law degree from National University of La Plata                                                       |
+| 1985 | Became provincial delegate to Justicialist Party convention                                                          |
+| 1989 | Elected to Santa Cruz Provincial Legislature                                                                         |
+| 1990 | Daughter Florencia Kirchner born                                                                                     |
+| 1995 | Elected to Argentine Senate representing Santa Cruz                                                                  |
+| 1997 | Elected to Chamber of Deputies                                                                                       |
+| 2001 | Returned to Argentine Senate                                                                                         |
+| 2003 | Husband Néstor Kirchner became President; she became First Lady                                                      |
+| 2005 | Elected Senator for Buenos Aires Province with 46% of vote                                                           |
+| 2007 | Elected President of Argentina with 45.3% of vote; inaugurated December 10                                           |
+| 2008 | Agricultural sector protests against grain export taxes                                                              |
+| 2010 | Signed same-sex marriage legislation into law (July); husband Néstor died suddenly (October 27)                      |
+| 2011 | Reelected President with 54.1% of vote, widest margin in Argentine history                                           |
 | 2012 | Renationalized YPF oil company; signed transgender rights legislation; medical leave for misdiagnosed thyroid cancer |
-| 2013 | Underwent surgery to remove brain blood clot (October) |
-| 2015 | Presidential term ended December 10; succeeded by Mauricio Macri |
-| 2019 | Elected Vice President; inaugurated December 10 |
-| 2022 | Convicted of corruption and sentenced to six years in prison with lifetime ban from public office (December) |
-| 2023 | Vice presidential term ended December 10; succeeded by Victoria Villarruel |
-| 2024 | Became president of Justicialist Party; conviction upheld by federal appeals court (November) |
-| 2025 | Supreme Court upheld corruption conviction (June) |
+| 2013 | Underwent surgery to remove brain blood clot (October)                                                               |
+| 2015 | Presidential term ended December 10; succeeded by Mauricio Macri                                                     |
+| 2019 | Elected Vice President; inaugurated December 10                                                                      |
+| 2022 | Convicted of corruption and sentenced to six years in prison with lifetime ban from public office (December)         |
+| 2023 | Vice presidential term ended December 10; succeeded by Victoria Villarruel                                           |
+| 2024 | Became president of Justicialist Party; conviction upheld by federal appeals court (November)                        |
+| 2025 | Supreme Court upheld corruption conviction (June)                                                                    |
 
 ---
 
@@ -185,86 +185,169 @@ International observers and financial analysts criticize her administration's ha
 ## References
 
 [^1]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^2]: https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^3]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^4]: https://en.wikipedia.org/wiki/Presidency_of_Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^5]: https://www.npr.org/2025/06/10/nx-s1-5429794/argentinas-top-court-upholds-cristina-fernandez-de-kirchners-corruption-conviction
+
 [^6]: https://www.aljazeera.com/news/2025/6/11/argentinas-top-court-upholds-fernandez-de-kirchners-prison-sentence
+
 [^7]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^8]: https://www.thefamouspeople.com/profiles/cristina-fernndez-de-kirchner-7219.php
+
 [^9]: https://www.thefamouspeople.com/profiles/cristina-fernndez-de-kirchner-7219.php
+
 [^10]: https://www.newworldencyclopedia.org/entry/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^11]: https://www.thefamouspeople.com/profiles/cristina-fernndez-de-kirchner-7219.php
+
 [^12]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^13]: https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^14]: https://www.newworldencyclopedia.org/entry/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^15]: https://www.thefamouspeople.com/profiles/cristina-fernndez-de-kirchner-7219.php
+
 [^16]: https://kids.kiddle.co/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^17]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^18]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^19]: https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^20]: https://www.newworldencyclopedia.org/entry/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^21]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^22]: https://awpc.cattcenter.iastate.edu/directory/cristina-fernandez-de-kirchner/
+
 [^23]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^24]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^25]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^26]: https://en.wikipedia.org/wiki/Presidency_of_Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^27]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^28]: https://en.wikipedia.org/wiki/Presidency_of_Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^29]: https://en.wikipedia.org/wiki/Presidency_of_Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^30]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^31]: https://kids.britannica.com/students/article/Cristina-Fern%C3%A1ndez-de-Kirchner/471049
+
 [^32]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^33]: https://www.npr.org/2025/06/10/nx-s1-5429794/argentinas-top-court-upholds-cristina-fernandez-de-kirchners-corruption-conviction
+
 [^34]: https://www.aljazeera.com/news/2025/6/11/argentinas-top-court-upholds-fernandez-de-kirchners-prison-sentence
+
 [^35]: https://www.npr.org/2025/06/10/nx-s1-5429794/argentinas-top-court-upholds-cristina-fernandez-de-kirchners-corruption-conviction
+
 [^36]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^37]: https://www.npr.org/2025/06/10/nx-s1-5429794/argentinas-top-court-upholds-cristina-fernandez-de-kirchners-corruption-conviction
+
 [^38]: https://www.occrp.org/en/news/former-argentine-president-nearly-90-others-go-on-trial-in-major-corruption-case
+
 [^39]: https://batimes.com.ar/news/argentina/court-revisits-drivers-bribery-testimony-in-cuadernos-corruption-trial.phtml
+
 [^40]: https://batimes.com.ar/news/argentina/ex-president-cristina-fernandez-de-kirchner-was-main-recipient-of-bribes-allege-cuadernos-prosecutors.phtml
+
 [^41]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^42]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^43]: https://www.aljazeera.com/news/2025/6/11/argentinas-top-court-upholds-fernandez-de-kirchners-prison-sentence
+
 [^44]: https://www.aljazeera.com/news/2023/6/5/argentinian-judge-dismisses-corruption-case-against-vp-kirchner
+
 [^45]: https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^46]: https://kids.kiddle.co/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^47]: https://www.newworldencyclopedia.org/entry/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^48]: https://www.newworldencyclopedia.org/entry/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^49]: https://www.newworldencyclopedia.org/entry/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^50]: https://kids.britannica.com/students/article/Cristina-Fern%C3%A1ndez-de-Kirchner/471049
+
 [^51]: https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^52]: https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^53]: https://www.thefamouspeople.com/profiles/cristina-fernndez-de-kirchner-7219.php
+
 [^54]: https://www.numberanalytics.com/blog/kirchner-era-politics-legacy
+
 [^55]: https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^56]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^57]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^58]: https://en.wikipedia.org/wiki/Presidency_of_Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^59]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^60]: https://www.npr.org/2025/06/10/nx-s1-5429794/argentinas-top-court-upholds-cristina-fernandez-de-kirchners-corruption-conviction
+
 [^61]: https://www.aljazeera.com/news/2025/6/11/argentinas-top-court-upholds-fernandez-de-kirchners-prison-sentence
+
 [^62]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^63]: https://www.numberanalytics.com/blog/kirchner-era-politics-legacy
+
 [^64]: https://www.npr.org/2025/06/10/nx-s1-5429794/argentinas-top-court-upholds-cristina-fernandez-de-kirchners-corruption-conviction
+
 [^65]: https://www.aljazeera.com/news/2025/6/11/argentinas-top-court-upholds-fernandez-de-kirchners-prison-sentence
+
 [^66]: https://en.wikipedia.org/wiki/Presidency_of_Cristina_Fern%C3%A1ndez_de_Kirchner
+
 [^67]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^68]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^69]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^70]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^71]: https://kids.britannica.com/students/article/Cristina-Fern%C3%A1ndez-de-Kirchner/471049
+
 [^72]: https://www.numberanalytics.com/blog/kirchner-era-politics-legacy
+
 [^73]: https://www.numberanalytics.com/blog/cristina-fernandez-de-kirchner-legacy
+
 [^74]: https://www.npr.org/2025/06/10/nx-s1-5429794/argentinas-top-court-upholds-cristina-fernandez-de-kirchners-corruption-conviction
+
 [^75]: https://www.aljazeera.com/news/2025/6/11/argentinas-top-court-upholds-fernandez-de-kirchners-prison-sentence
+
 [^76]: https://www.aljazeera.com/news/2025/6/11/argentinas-top-court-upholds-fernandez-de-kirchners-prison-sentence
+
 [^77]: https://www.ebsco.com/research-starters/womens-studies-and-feminism/cristina-fernandez-de-kirchner
+
 [^78]: https://www.britannica.com/biography/Cristina-Fernandez-de-Kirchner
+
 [^79]: https://cristina.com.ar/discursos-frases-cristina-fernandez-de-kirchner/
+
 [^80]: https://cristina.com.ar/discursos-frases-cristina-fernandez-de-kirchner/
+
 [^81]: https://cristina.com.ar/discursos-frases-cristina-fernandez-de-kirchner/
+
 [^82]: https://www.azquotes.com/author/20070-Cristina_Fernandez_de_Kirchner
+
 [^83]: https://www.azquotes.com/author/20070-Cristina_Fernandez_de_Kirchner
+
 [^84]: https://www.batimes.com.ar/news/argentina/cristinas-key-quotes-ex-president-speaks-out-before-supreme-court-ruling.phtml

@@ -131,30 +131,30 @@ Feminist and LGBTQ+ advocates criticize Kishida for failing to advance social pr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1957 | Born in Tokyo, Japan on July 29 |
-| 1963 | Moved to New York City, attended elementary school in the United States |
-| 1982 | Graduated from Waseda University with a law degree |
-| 1982 | Joined the Long-Term Credit Bank of Japan |
-| 1987 | Left banking to work as political secretary |
-| 1993 | Elected to House of Representatives for Hiroshima 1st district |
-| 2007 | Appointed Minister for Okinawa and Northern Territories Affairs |
-| 2008 | Became Minister of State for Consumer Affairs and Food Safety |
-| 2012 | Appointed Foreign Minister under Prime Minister Shinzō Abe |
-| 2015 | Negotiated controversial Japan-South Korea agreement on comfort women |
-| 2017 | Left position as Foreign Minister after record tenure |
-| 2020 | Lost LDP leadership election to Yoshihide Suga |
-| 2021 | Won LDP leadership election on September 29 |
-| 2021 | Became Prime Minister of Japan on October 4 |
-| 2022 | Former PM Shinzō Abe assassinated, leading to Unification Church scandal |
-| 2022 | Approved historic defense policy reforms in December |
-| 2023 | Hosted G7 Summit in Hiroshima in May |
+| Year | Event                                                                     |
+| ---- | ------------------------------------------------------------------------- |
+| 1957 | Born in Tokyo, Japan on July 29                                           |
+| 1963 | Moved to New York City, attended elementary school in the United States   |
+| 1982 | Graduated from Waseda University with a law degree                        |
+| 1982 | Joined the Long-Term Credit Bank of Japan                                 |
+| 1987 | Left banking to work as political secretary                               |
+| 1993 | Elected to House of Representatives for Hiroshima 1st district            |
+| 2007 | Appointed Minister for Okinawa and Northern Territories Affairs           |
+| 2008 | Became Minister of State for Consumer Affairs and Food Safety             |
+| 2012 | Appointed Foreign Minister under Prime Minister Shinzō Abe                |
+| 2015 | Negotiated controversial Japan-South Korea agreement on comfort women     |
+| 2017 | Left position as Foreign Minister after record tenure                     |
+| 2020 | Lost LDP leadership election to Yoshihide Suga                            |
+| 2021 | Won LDP leadership election on September 29                               |
+| 2021 | Became Prime Minister of Japan on October 4                               |
+| 2022 | Former PM Shinzō Abe assassinated, leading to Unification Church scandal  |
+| 2022 | Approved historic defense policy reforms in December                      |
+| 2023 | Hosted G7 Summit in Hiroshima in May                                      |
 | 2023 | Government sought dissolution order against Unification Church in October |
-| 2023 | Political funding scandals emerged involving LDP factions |
-| 2024 | Approval ratings collapsed to below 20% |
-| 2024 | Announced resignation as LDP leader on August 14 |
-| 2024 | Stepped down as Prime Minister on October 1 |
+| 2023 | Political funding scandals emerged involving LDP factions                 |
+| 2024 | Approval ratings collapsed to below 20%                                   |
+| 2024 | Announced resignation as LDP leader on August 14                          |
+| 2024 | Stepped down as Prime Minister on October 1                               |
 
 ---
 
@@ -174,93 +174,93 @@ Feminist and LGBTQ+ advocates criticize Kishida for failing to advance social pr
 
 ## References
 
-[^1]: Osaki, Tomohiro. "Fumio Kishida: From Political Dynasty to Japan's Top Job." *The Japan Times*, October 3, 2021.
+[^1]: Osaki, Tomohiro. "Fumio Kishida: From Political Dynasty to Japan's Top Job." _The Japan Times_, October 3, 2021.
 
-[^2]: Reynolds, Isabel. "Kishida's New York Childhood Shaped His Worldview." *Bloomberg News*, September 30, 2021.
+[^2]: Reynolds, Isabel. "Kishida's New York Childhood Shaped His Worldview." _Bloomberg News_, September 30, 2021.
 
-[^3]: "Profile: Fumio Kishida." *Waseda University Alumni Association*, 2021.
+[^3]: "Profile: Fumio Kishida." _Waseda University Alumni Association_, 2021.
 
-[^4]: Kawanaka, Takeshi. "The Making of a Japanese Prime Minister: Kishida's Path to Power." *Asian Political Science Review*, Vol. 15, No. 4, 2021.
+[^4]: Kawanaka, Takeshi. "The Making of a Japanese Prime Minister: Kishida's Path to Power." _Asian Political Science Review_, Vol. 15, No. 4, 2021.
 
-[^5]: Mulgan, Aurelia George. "Japan's 1993 Political Earthquake and Its Long-Term Impact." *Pacific Affairs*, Vol. 86, No. 2, 2013.
+[^5]: Mulgan, Aurelia George. "Japan's 1993 Political Earthquake and Its Long-Term Impact." _Pacific Affairs_, Vol. 86, No. 2, 2013.
 
-[^6]: Shinoda, Tomohito. "Factional Politics in the LDP: Understanding Kishida's Rise." *Japanese Journal of Political Science*, Vol. 22, No. 3, 2021.
+[^6]: Shinoda, Tomohito. "Factional Politics in the LDP: Understanding Kishida's Rise." _Japanese Journal of Political Science_, Vol. 22, No. 3, 2021.
 
-[^7]: Przystup, James. "Kishida as Foreign Minister: An Assessment." *Institute for National Strategic Studies*, National Defense University, 2017.
+[^7]: Przystup, James. "Kishida as Foreign Minister: An Assessment." _Institute for National Strategic Studies_, National Defense University, 2017.
 
-[^8]: Rich, Motoko and Inoue, Makiko. "Fumio Kishida Wins Vote to Become Japan's Next Prime Minister." *The New York Times*, September 29, 2021.
+[^8]: Rich, Motoko and Inoue, Makiko. "Fumio Kishida Wins Vote to Become Japan's Next Prime Minister." _The New York Times_, September 29, 2021.
 
-[^9]: Yoshino, Toshihiro. "Understanding Kishida's 'New Capitalism': Rhetoric and Reality." *Tokyo Foundation for Policy Research*, November 2021.
+[^9]: Yoshino, Toshihiro. "Understanding Kishida's 'New Capitalism': Rhetoric and Reality." _Tokyo Foundation for Policy Research_, November 2021.
 
-[^10]: Inagaki, Kana. "Japan's Wage Growth Hits 30-Year High in 2023 Negotiations." *Financial Times*, March 15, 2023.
+[^10]: Inagaki, Kana. "Japan's Wage Growth Hits 30-Year High in 2023 Negotiations." _Financial Times_, March 15, 2023.
 
-[^11]: Panda, Ankit. "Japan's New National Security Strategy: A Historic Shift." *The Diplomat*, December 20, 2022.
+[^11]: Panda, Ankit. "Japan's New National Security Strategy: A Historic Shift." _The Diplomat_, December 20, 2022.
 
 [^12]: "Joint Leaders' Statement: United States-Japan Partnership." White House Press Release, April 10, 2023.
 
-[^13]: Pant, Harsh V. "Japan's Quad Diplomacy Under Kishida." *Observer Research Foundation*, August 2022.
+[^13]: Pant, Harsh V. "Japan's Quad Diplomacy Under Kishida." _Observer Research Foundation_, August 2022.
 
-[^14]: Ward, Alex. "The Contradiction at the Heart of Kishida's Nuclear Agenda." *Politico*, May 19, 2023.
+[^14]: Ward, Alex. "The Contradiction at the Heart of Kishida's Nuclear Agenda." _Politico_, May 19, 2023.
 
-[^15]: Kajimoto, Tetsushi. "Japan Tourism Surges After Border Reopening." *Reuters*, November 16, 2022.
+[^15]: Kajimoto, Tetsushi. "Japan Tourism Surges After Border Reopening." _Reuters_, November 16, 2022.
 
-[^16]: Harding, Robin. "Shinzo Abe Killing Exposes LDP Links to Unification Church." *Financial Times*, July 14, 2022.
+[^16]: Harding, Robin. "Shinzo Abe Killing Exposes LDP Links to Unification Church." _Financial Times_, July 14, 2022.
 
-[^17]: McCurry, Justin. "Japan Moves to Disband Unification Church Over Financial Exploitation." *The Guardian*, October 13, 2023.
+[^17]: McCurry, Justin. "Japan Moves to Disband Unification Church Over Financial Exploitation." _The Guardian_, October 13, 2023.
 
-[^18]: Yamaguchi, Mari. "Political Funding Scandal Rocks Japan's Ruling Party." *Associated Press*, December 18, 2023.
+[^18]: Yamaguchi, Mari. "Political Funding Scandal Rocks Japan's Ruling Party." _Associated Press_, December 18, 2023.
 
-[^19]: "Kishida Cabinet Approval Rating Falls to 17%, Lowest Ever for LDP PM." *Kyodo News*, July 8, 2024.
+[^19]: "Kishida Cabinet Approval Rating Falls to 17%, Lowest Ever for LDP PM." _Kyodo News_, July 8, 2024.
 
-[^20]: Miura, Kaoru. "The Weak Yen Dilemma: Winners and Losers in Kishida's Japan." *Nikkei Asia*, June 22, 2023.
+[^20]: Miura, Kaoru. "The Weak Yen Dilemma: Winners and Losers in Kishida's Japan." _Nikkei Asia_, June 22, 2023.
 
-[^21]: Kingston, Jeff. "Japan's Dangerous Defense Buildup." *The Asia-Pacific Journal: Japan Focus*, Vol. 21, Issue 1, January 2023.
+[^21]: Kingston, Jeff. "Japan's Dangerous Defense Buildup." _The Asia-Pacific Journal: Japan Focus_, Vol. 21, Issue 1, January 2023.
 
-[^22]: Adelstein, Jake. "Kishida's Broken Promises on LGBTQ Rights." *The Daily Beast*, February 8, 2023.
+[^22]: Adelstein, Jake. "Kishida's Broken Promises on LGBTQ Rights." _The Daily Beast_, February 8, 2023.
 
-[^23]: "Yuko Kishida: Japan's Understated First Lady." *Asahi Shimbun*, November 5, 2021.
+[^23]: "Yuko Kishida: Japan's Understated First Lady." _Asahi Shimbun_, November 5, 2021.
 
-[^24]: Endo, Masahisa. "Kishida's Leadership Style: Consensus or Indecision?" *Japanese Political Studies*, Vol. 23, No. 2, 2022.
+[^24]: Endo, Masahisa. "Kishida's Leadership Style: Consensus or Indecision?" _Japanese Political Studies_, Vol. 23, No. 2, 2022.
 
-[^25]: Interview with Fumio Kishida. *Bungei Shunju* magazine, October 2021 issue.
+[^25]: Interview with Fumio Kishida. _Bungei Shunju_ magazine, October 2021 issue.
 
-[^26]: Kimura, Takeshi. "The Hiroshima Paradox: Kishida's Peace Advocacy and Military Expansion." *Critical Asian Studies*, Vol. 55, No. 3, 2023.
+[^26]: Kimura, Takeshi. "The Hiroshima Paradox: Kishida's Peace Advocacy and Military Expansion." _Critical Asian Studies_, Vol. 55, No. 3, 2023.
 
-[^27]: Tanaka, Reiji. "The Bland Politics of Fumio Kishida." *Tokyo Review*, April 2022.
+[^27]: Tanaka, Reiji. "The Bland Politics of Fumio Kishida." _Tokyo Review_, April 2022.
 
-[^28]: Hughes, Christopher W. "Japan's Defense Transformation Under Kishida: Historical Significance." *International Affairs*, Vol. 99, No. 4, 2023.
+[^28]: Hughes, Christopher W. "Japan's Defense Transformation Under Kishida: Historical Significance." _International Affairs_, Vol. 99, No. 4, 2023.
 
-[^29]: Katz, Richard. "Why Kishida's Economic Reforms Fell Short." *Foreign Affairs*, September 15, 2024.
+[^29]: Katz, Richard. "Why Kishida's Economic Reforms Fell Short." _Foreign Affairs_, September 15, 2024.
 
-[^30]: Krauss, Ellis S. "Japan's Persistent Political Corruption Problem." *Journal of Japanese Studies*, Vol. 50, No. 2, 2024.
+[^30]: Krauss, Ellis S. "Japan's Persistent Political Corruption Problem." _Journal of Japanese Studies_, Vol. 50, No. 2, 2024.
 
-[^31]: Snyder, Scott A. "The Kishida-Yoon Breakthrough in Japan-South Korea Relations." *Council on Foreign Relations*, March 2023.
+[^31]: Snyder, Scott A. "The Kishida-Yoon Breakthrough in Japan-South Korea Relations." _Council on Foreign Relations_, March 2023.
 
-[^32]: Noble, Gregory W. "Short-Termism in Japanese Politics: The Kishida Case." *Asian Survey*, Vol. 64, No. 5, 2024.
+[^32]: Noble, Gregory W. "Short-Termism in Japanese Politics: The Kishida Case." _Asian Survey_, Vol. 64, No. 5, 2024.
 
-[^33]: Nakano, Koichi. "Assessing the Kishida Years: Transition Without Transformation." *Social Science Japan Journal*, Vol. 27, No. 2, 2024.
+[^33]: Nakano, Koichi. "Assessing the Kishida Years: Transition Without Transformation." _Social Science Japan Journal_, Vol. 27, No. 2, 2024.
 
-[^34]: Green, Michael J. "Kishida's Strategic Diplomacy in the Indo-Pacific." *Center for Strategic and International Studies*, May 2023.
+[^34]: Green, Michael J. "Kishida's Strategic Diplomacy in the Indo-Pacific." _Center for Strategic and International Studies_, May 2023.
 
-[^35]: Vogel, Steven K. "Japan's Wage Growth Breakthrough: Policy Lessons." *Journal of East Asian Studies*, Vol. 23, No. 3, 2023.
+[^35]: Vogel, Steven K. "Japan's Wage Growth Breakthrough: Policy Lessons." _Journal of East Asian Studies_, Vol. 23, No. 3, 2023.
 
-[^36]: Reed, Steven R. "Managing Factional Politics: How Kishida Maintained LDP Unity." *Party Politics*, Vol. 29, No. 6, 2023.
+[^36]: Reed, Steven R. "Managing Factional Politics: How Kishida Maintained LDP Unity." _Party Politics_, Vol. 29, No. 6, 2023.
 
-[^37]: Cha, Victor D. "The Kishida-Yoon Partnership and Regional Security." *The Washington Quarterly*, Vol. 46, No. 2, 2023.
+[^37]: Cha, Victor D. "The Kishida-Yoon Partnership and Regional Security." _The Washington Quarterly_, Vol. 46, No. 2, 2023.
 
-[^38]: Tannenwald, Nina. "Nuclear Disarmament Advocacy in an Age of Rearmament: The Kishida Approach." *International Security*, Vol. 48, No. 1, 2023.
+[^38]: Tannenwald, Nina. "Nuclear Disarmament Advocacy in an Age of Rearmament: The Kishida Approach." _International Security_, Vol. 48, No. 1, 2023.
 
-[^39]: Sakai, Naoko. "Kishida's Betrayal of Japan's Peace Constitution." *Critical Asian Studies*, Vol. 55, No. 1, 2023.
+[^39]: Sakai, Naoko. "Kishida's Betrayal of Japan's Peace Constitution." _Critical Asian Studies_, Vol. 55, No. 1, 2023.
 
-[^40]: Watanabe, Hiroshi. "New Capitalism or Old Wine in New Bottles?" *Japan Economic Review*, Vol. 74, No. 3, 2023.
+[^40]: Watanabe, Hiroshi. "New Capitalism or Old Wine in New Bottles?" _Japan Economic Review_, Vol. 74, No. 3, 2023.
 
-[^41]: Scheiner, Ethan. "The Failed Promise of Political Reform Under Kishida." *Comparative Political Studies*, Vol. 57, No. 4, 2024.
+[^41]: Scheiner, Ethan. "The Failed Promise of Political Reform Under Kishida." _Comparative Political Studies_, Vol. 57, No. 4, 2024.
 
-[^42]: Sato, Seizaburo. "Kishida's Lack of Vision: A Conservative Critique." *Chuo Koron*, May 2024 issue.
+[^42]: Sato, Seizaburo. "Kishida's Lack of Vision: A Conservative Critique." _Chuo Koron_, May 2024 issue.
 
-[^43]: Breslin, Shaun. "Japan's China Policy Under Kishida: Missed Opportunities for Engagement." *The Pacific Review*, Vol. 37, No. 2, 2024.
+[^43]: Breslin, Shaun. "Japan's China Policy Under Kishida: Missed Opportunities for Engagement." _The Pacific Review_, Vol. 37, No. 2, 2024.
 
-[^44]: Macnaughtan, Helen. "Gender Equality and LGBTQ Rights: Kishida's Regressive Record." *Asian Studies Review*, Vol. 48, No. 1, 2024.
+[^44]: Macnaughtan, Helen. "Gender Equality and LGBTQ Rights: Kishida's Regressive Record." _Asian Studies Review_, Vol. 48, No. 1, 2024.
 
 [^45]: Kishida, Fumio. Policy Speech to the Diet, October 8, 2021. Official translation, Prime Minister's Office of Japan.
 

@@ -165,28 +165,28 @@ Ultimately, historians judge Buchanan against the standard set by his successor.
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1791 | Born April 23 in Cove Gap, Pennsylvania |
-| 1809 | Graduated from Dickinson College with honors |
-| 1812 | Admitted to the Pennsylvania bar; began law practice in Lancaster |
-| 1814 | Elected to Pennsylvania House of Representatives |
-| 1819 | Engagement to Ann Coleman; her death December 9 |
-| 1821 | Elected to U.S. House of Representatives |
-| 1832 | Appointed Minister to Russia by President Andrew Jackson |
-| 1834 | Elected to U.S. Senate |
-| 1845 | Appointed Secretary of State by President James K. Polk |
-| 1846 | Negotiated Oregon Treaty with Great Britain |
-| 1853 | Appointed Minister to Great Britain by President Franklin Pierce |
-| 1854 | Co-authored the Ostend Manifesto regarding Cuba |
-| 1856 | Elected 15th President of the United States |
-| 1857 | Inaugurated March 4; Dred Scott decision announced March 6; supported Lecompton Constitution |
-| 1858 | Minnesota and Lecompton crisis; laying of first transatlantic telegraph cable |
-| 1859 | Oregon admitted to Union |
-| 1860 | Abraham Lincoln elected president November 6; South Carolina seceded December 20 |
+| Year | Event                                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------------------- |
+| 1791 | Born April 23 in Cove Gap, Pennsylvania                                                                           |
+| 1809 | Graduated from Dickinson College with honors                                                                      |
+| 1812 | Admitted to the Pennsylvania bar; began law practice in Lancaster                                                 |
+| 1814 | Elected to Pennsylvania House of Representatives                                                                  |
+| 1819 | Engagement to Ann Coleman; her death December 9                                                                   |
+| 1821 | Elected to U.S. House of Representatives                                                                          |
+| 1832 | Appointed Minister to Russia by President Andrew Jackson                                                          |
+| 1834 | Elected to U.S. Senate                                                                                            |
+| 1845 | Appointed Secretary of State by President James K. Polk                                                           |
+| 1846 | Negotiated Oregon Treaty with Great Britain                                                                       |
+| 1853 | Appointed Minister to Great Britain by President Franklin Pierce                                                  |
+| 1854 | Co-authored the Ostend Manifesto regarding Cuba                                                                   |
+| 1856 | Elected 15th President of the United States                                                                       |
+| 1857 | Inaugurated March 4; Dred Scott decision announced March 6; supported Lecompton Constitution                      |
+| 1858 | Minnesota and Lecompton crisis; laying of first transatlantic telegraph cable                                     |
+| 1859 | Oregon admitted to Union                                                                                          |
+| 1860 | Abraham Lincoln elected president November 6; South Carolina seceded December 20                                  |
 | 1861 | Six more states seceded by February; Buchanan left office March 4; Fort Sumter attacked April 12; Civil War began |
-| 1866 | Published "Mr. Buchanan's Administration on the Eve of the Rebellion" |
-| 1868 | Died June 1 at Wheatland, Pennsylvania, at age 77 |
+| 1866 | Published "Mr. Buchanan's Administration on the Eve of the Rebellion"                                             |
+| 1868 | Died June 1 at Wheatland, Pennsylvania, at age 77                                                                 |
 
 ---
 
@@ -225,82 +225,161 @@ Context: An ironic statement given that Buchanan's leadership elicited division 
 ## References
 
 [^1]: [James Buchanan - Wikipedia](https://en.wikipedia.org/wiki/James_Buchanan)
+
 [^2]: [James Buchanan | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/James_Buchanan-president-of-United-States)
+
 [^3]: [James Buchanan: Life Before the Presidency | Miller Center](https://millercenter.org/president/buchanan/life-before-the-presidency)
+
 [^4]: [James Buchanan | Pennsylvania Center for the Book](https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/bios/buchanan__james)
+
 [^5]: [James Buchanan - White House Historical Association](https://www.whitehousehistory.org/bios/james-buchanan)
+
 [^6]: [James Buchanan - Presidency, Facts & Political Party](https://www.biography.com/political-figures/james-buchanan)
+
 [^7]: [James Buchanan](https://www.history.com/topics/us-presidents/james-buchanan)
+
 [^8]: [Learn more about James Buchanan 15th U. S. President](https://www.mercersburginn.com/learn-more-about-james-buchanan-15th-u-s-president/)
+
 [^9]: [James Buchanan, 15th President, Foreign Minister, Soldier](https://www.americanhistorycentral.com/entries/james-buchanan/)
+
 [^10]: [Presidency of James Buchanan - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_James_Buchanan)
+
 [^11]: [James Buchanan - People - Department History - Office of the Historian](https://history.state.gov/departmenthistory/people/buchanan-james)
+
 [^12]: [James Buchanan papers 0091](https://www2.hsp.org/collections/manuscripts/b/Buchanan0091.html)
+
 [^13]: [James Buchanan, Secretary of State 1845-49 – History 282 US Diplomatic History](https://blogs.dickinson.edu/hist-282pinsker/2019/03/04/james-buchanan-secretary-of-state-1845-49/)
+
 [^14]: [Buchanan, James (1791–1868) | Encyclopedia.com](https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/buchanan-james-1791-1868)
+
 [^15]: [James Buchanan | Smithsonian Institution](https://www.si.edu/object/james-buchanan:npg_NPG.65.48)
+
 [^16]: [James Buchanan](https://www2.tulane.edu/~sumter/Buchanan.html)
+
 [^17]: [James Buchanan - 15th President, Sectionalism, Compromise | Britannica](https://www.britannica.com/biography/James-Buchanan-president-of-United-States/Presidency)
+
 [^18]: [James Buchanan papers - Philadelphia Area Archives](https://findingaids.library.upenn.edu/records/HSP_PHI.0091)
+
 [^19]: [James Buchanan | American Battlefield Trust](https://www.battlefields.org/learn/biographies/james-buchanan)
+
 [^20]: [James Buchanan's troubled legacy as President | Constitution Center](https://constitutioncenter.org/blog/james-buchanan-why-is-he-considered-americas-worst-president)
+
 [^21]: [History of Buchanan's Birthplace State Park | Department of Conservation and Natural Resources| Commonwealth of Pennsylvania](https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/buchanans-birthplace-state-park/history)
+
 [^22]: [President James Buchanan | Biography, Career & Accomplishments | Study.com](https://study.com/academy/lesson/president-buchanan-facts-lesson-quiz.html)
+
 [^23]: [Buchanan, James | Civil War on the Western Border](https://civilwaronthewesternborder.org/encyclopedia/buchanan-james)
+
 [^24]: [James Buchanan - Key Events | Miller Center](https://millercenter.org/president/james-buchanan/key-events)
+
 [^25]: [University Press of Florida: James Buchanan and the Coming of the Civil War](https://upf.com/book.asp?id=9780813060996)
+
 [^26]: [James Buchanan: Impact and Legacy | Miller Center](https://millercenter.org/president/buchanan/impact-and-legacy)
+
 [^27]: [How President Buchanan Deepened Divisions Over Slavery Before the Civil War | HISTORY](https://www.history.com/articles/james-buchanan-slavery-civil-war-worst-president)
+
 [^28]: [James Buchanan: Domestic Affairs | Miller Center](https://millercenter.org/president/buchanan/domestic-affairs)
+
 [^29]: [James Buchanan, Dred Scott decision, Supreme Court, slavery, legal precedent, civil rights](https://billofrightsinstitute.org/e-lessons/james-buchanan-and-the-dred-scott-decision)
+
 [^30]: [Handout A: James Buchanan and the Dred Scott Decision | Bill of Rights Institute](https://billofrightsinstitute.org/activities/handout-a-james-buchanan-and-the-dred-scott-decision)
+
 [^31]: [Dred Scott v. Sandford - Wikipedia](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford)
+
 [^32]: [The Dred Scott Decision and Sectional Strife | US History I (OS Collection)](https://courses.lumenlearning.com/suny-ushistory1os2xmaster/chapter/the-dred-scott-decision-and-sectional-strife/)
+
 [^33]: [Kansas History James Buchanan and the Lecompton Constitution](https://www.trumanlibrary.gov/sites/default/files/Truman%20Library%20-%20Buchanan%20-%20Reading%20Packet.pdf)
+
 [^34]: [The Kansas-Nebraska Act and Bleeding Kansas | Teach US History](https://www.teachushistory.org/kansas-nebraska-act-bleeding-kansas)
+
 [^35]: [Dred Scott v. Sandford (1857) | Civil War on the Western Border](https://civilwaronthewesternborder.org/encyclopedia/dred-scott-v-sandford-1857)
+
 [^36]: [HIST 119 - Lecture 8 - Dred Scott, Bleeding Kansas, and the Impending Crisis of the Union, 1855-58 | Open Yale Courses](https://oyc.yale.edu/history/hist-119/lecture-8)
+
 [^37]: [Symposium: 150th Anniversary of the Dred Scott Decision](https://law.utexas.edu/faculty/uploads/publication_files/dred.pdf)
+
 [^38]: [James Buchanan: How he currently trends as the worst President ever | Constitution Center](https://constitutioncenter.org/blog/james-buchanan-how-he-currently-trends-as-the-worst-president-ever)
+
 [^39]: [Worst. President. Ever.: James Buchanan, the POTUS Rating Game, and the Legacy of the Least of the Lesser Presidents: Strauss, Robert: 9781493024834: Amazon.com: Books](https://www.amazon.com/Worst-President-Ever-Buchanan-Presidents/dp/1493024833)
+
 [^40]: [University of Connecticut OpenCommons@UConn Honors Scholar Theses](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1336&context=srhonors_theses)
+
 [^41]: [The Worst. President. Ever. James Buchanan, the POTUS Rating Game, and the Legacy of the Least of the Lesser Presidents by Robert Strauss](https://www.publishersweekly.com/9781493024834)
+
 [^42]: [The Lost Love Of A Bachelor President (Dec 55,Vol:7 Issue:1)](https://www.americanheritage.com/lost-love-bachelor-president)
+
 [^43]: [The 175-Year History of Speculating About President James Buchanan's Bachelorhood](https://www.smithsonianmag.com/history/175-year-history-examining-bachelor-president-james-buchanans-close-friendship-william-rufus-king-180972992/)
+
 [^44]: [[Column] Our town: A love story lost in time - LebTown](https://lebtown.com/2020/06/09/column-our-town-a-love-story-lost-in-time/)
+
 [^45]: [Our Queer President - Stanford University](http://lindholm.jp/chinf_buc.html)
+
 [^46]: [Buchanan Dying: Analysis of Major Characters | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/literature-and-writing/buchanan-dying-analysis-major-characters)
+
 [^47]: [Mr. Buchanan, Our Gay President](https://stephenlindholm.com/buchanan_gay_president.html)
+
 [^48]: [The polite omissions of James Buchanan's Wheatland tour - Jason Cochran](https://jasoncochran.com/2014/01/04/the-polite-omissions-of-james-buchanans-wheatland-tour/)
+
 [^49]: [Family tree of James BUCHANAN - Geneastar](https://en.geneastar.org/genealogy/jamesbuchananj/james-buchanan)
+
 [^50]: [James Buchanan](https://grokipedia.com/page/James_Buchanan)
+
 [^51]: [TOP 17 QUOTES BY JAMES BUCHANAN | A-Z Quotes](https://www.azquotes.com/author/2107-James_Buchanan)
+
 [^52]: [James Buchanan Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-buchanan-quotes)
+
 [^53]: [14 Mind-Blowing Quotes By James Buchanan](https://www.wisdomly.net/james-buchanan-3268.php)
+
 [^54]: [30 Best James M Buchanan Quotes With Image | Bookey](https://www.bookey.app/quote-author/james-m-buchanan)
+
 [^55]: [Inaugural Address | The American Presidency Project](https://www.presidency.ucsb.edu/documents/inaugural-address-33)
+
 [^56]: [James Buchanan - Wikiquote](https://en.wikiquote.org/wiki/James_Buchanan)
+
 [^57]: [James M. Buchanan Quotes (Author of The Calculus of Consent)](https://www.goodreads.com/author/quotes/86476.James_M_Buchanan)
-[^58]: [James Buchanan Quotes ***](https://www.presidential-power.org/quotes-by-presidents/james-buchanan-quotes.htm)
+
+[^58]: [James Buchanan Quotes \*\*\*](https://www.presidential-power.org/quotes-by-presidents/james-buchanan-quotes.htm)
+
 [^59]: [James Buchanan (1791-1868), American President; Economist, inspiring quotations, biography, related authors and quotes, and quotes about at Quote.org](https://quote.org/author/james_buchanan)
+
 [^60]: [James Buchanan Quotes (Author of Mr. Buchanan's Administration On The Eve Of The Rebellion)](https://www.goodreads.com/author/quotes/15096447.James_Buchanan)
+
 [^61]: [Worst. President. Ever. : James Buchanan, the POTUS rating game, and the legacy of the least of the lesser presidents](https://boulder.marmot.org/Record/.b25360589)
+
 [^62]: [Amazon.com: Worst. President. Ever.: James Buchanan, the POTUS Rating Game, and the Legacy of the Least of the Lesser Presidents: 9781493030590: Strauss, Robert: Books](https://www.amazon.com/Worst-President-Ever-Buchanan-Presidents/dp/1493030590)
+
 [^63]: George Buchanan (diplomat) - Wikipedia. Note: While this article is about a different person (British diplomat), it was returned in search results.
+
 [^64]: Klein, Philip S. "President James Buchanan: A Biography." Pennsylvania State University Press, 1962.
+
 [^65]: Potter, David M. "The Impending Crisis: 1848-1861." Harper & Row, 1976.
+
 [^66]: Stampp, Kenneth M. "America in 1857: A Nation on the Brink." Oxford University Press, 1990.
+
 [^67]: McPherson, James M. "Battle Cry of Freedom: The Civil War Era." Oxford University Press, 1988.
+
 [^68]: Finkelman, Paul. "Supreme Injustice: Slavery in the Nation's Highest Court." Harvard University Press, 2018.
+
 [^69]: Holt, Michael F. "The Political Crisis of the 1850s." W.W. Norton & Company, 1978.
+
 [^70]: Strauss, Robert. "Worst. President. Ever.: James Buchanan, the POTUS Rating Game, and the Legacy of the Least of the Lesser Presidents." Lyons Press, 2016.
+
 [^71]: Nevins, Allan. "The Emergence of Lincoln." Charles Scribner's Sons, 1950.
+
 [^72]: Birkner, Michael J., ed. "James Buchanan and the Political Crisis of the 1850s." Susquehanna University Press, 1996.
+
 [^73]: Baker, Jean H. "James Buchanan." Times Books, 2004.
+
 [^74]: Gienapp, William E. "The Origins of the Republican Party, 1852-1856." Oxford University Press, 1987.
+
 [^75]: Freehling, William W. "The Road to Disunion: Secessionists Triumphant, 1854-1861." Oxford University Press, 2007.
+
 [^76]: Cooper, William J. "The South and the Politics of Slavery, 1828-1856." Louisiana State University Press, 1978.
+
 [^77]: Etcheson, Nicole. "Bleeding Kansas: Contested Liberty in the Civil War Era." University Press of Kansas, 2004.
+
 [^78]: Fehrenbacher, Don E. "The Dred Scott Case: Its Significance in American Law and Politics." Oxford University Press, 1978.
+
 [^79]: Oates, Stephen B. "With Malice Toward None: A Life of Abraham Lincoln." Harper & Row, 1977.
+
 [^80]: Goodwin, Doris Kearns. "Team of Rivals: The Political Genius of Abraham Lincoln." Simon & Schuster, 2005.

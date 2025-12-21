@@ -153,28 +153,28 @@ Some Egyptologists question the reliability of Hatshepsut's own propaganda, part
 
 ## Timeline
 
-| Year (BCE) | Event |
-|------------|-------|
-| c. 1507 | Birth of Hatshepsut to Pharaoh Thutmose I and Queen Ahmose |
-| c. 1493 | Marriage to half-brother Thutmose II upon his accession to the throne |
-| c. 1492 | Death of Thutmose I; Thutmose II becomes pharaoh with Hatshepsut as Great Royal Wife |
-| c. 1490 | Birth of daughter Neferure |
-| c. 1479 | Death of Thutmose II; Hatshepsut becomes regent for young Thutmose III |
-| c. 1473 | Hatshepsut assumes pharaonic titles and begins ruling as king |
-| c. 1470 | Major building projects begin at Karnak and Deir el-Bahari |
-| c. 1470 | Expedition to the Land of Punt commissioned and successfully completed |
-| c. 1468 | Erection of obelisks at Karnak Temple |
-| c. 1465 | Completion of the Red Chapel at Karnak |
-| c. 1462 | Neferure disappears from historical records (probable death) |
-| c. 1462 | Senenmut disappears from historical records (probable death) |
-| c. 1460 | Continued building and restoration projects throughout Egypt |
-| c. 1458 | Death of Hatshepsut; Thutmose III becomes sole ruler |
-| c. 1458-1425 | Thutmose III conducts extensive military campaigns throughout the Near East |
-| c. 1438 | Beginning of systematic erasure of Hatshepsut's images and cartouches |
-| 1822 | Jean-François Champollion deciphers hieroglyphics, enabling study of her reign |
-| 1903 | Howard Carter discovers tomb KV20, possibly Hatshepsut's original burial place |
-| 1927 | Herbert Winlock's excavations at Deir el-Bahari reveal extensive information about her reign |
-| 2007 | Egyptian authorities announce possible identification of Hatshepsut's mummy |
+| Year (BCE)   | Event                                                                                        |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| c. 1507      | Birth of Hatshepsut to Pharaoh Thutmose I and Queen Ahmose                                   |
+| c. 1493      | Marriage to half-brother Thutmose II upon his accession to the throne                        |
+| c. 1492      | Death of Thutmose I; Thutmose II becomes pharaoh with Hatshepsut as Great Royal Wife         |
+| c. 1490      | Birth of daughter Neferure                                                                   |
+| c. 1479      | Death of Thutmose II; Hatshepsut becomes regent for young Thutmose III                       |
+| c. 1473      | Hatshepsut assumes pharaonic titles and begins ruling as king                                |
+| c. 1470      | Major building projects begin at Karnak and Deir el-Bahari                                   |
+| c. 1470      | Expedition to the Land of Punt commissioned and successfully completed                       |
+| c. 1468      | Erection of obelisks at Karnak Temple                                                        |
+| c. 1465      | Completion of the Red Chapel at Karnak                                                       |
+| c. 1462      | Neferure disappears from historical records (probable death)                                 |
+| c. 1462      | Senenmut disappears from historical records (probable death)                                 |
+| c. 1460      | Continued building and restoration projects throughout Egypt                                 |
+| c. 1458      | Death of Hatshepsut; Thutmose III becomes sole ruler                                         |
+| c. 1458-1425 | Thutmose III conducts extensive military campaigns throughout the Near East                  |
+| c. 1438      | Beginning of systematic erasure of Hatshepsut's images and cartouches                        |
+| 1822         | Jean-François Champollion deciphers hieroglyphics, enabling study of her reign               |
+| 1903         | Howard Carter discovers tomb KV20, possibly Hatshepsut's original burial place               |
+| 1927         | Herbert Winlock's excavations at Deir el-Bahari reveal extensive information about her reign |
+| 2007         | Egyptian authorities announce possible identification of Hatshepsut's mummy                  |
 
 ---
 
@@ -204,131 +204,258 @@ From her coronation inscriptions, this statement asserts her divine right to rul
 
 ## References
 
-[^1]: Tyldesley, Joyce. *Hatshepsut: The Female Pharaoh*. Viking, 1996, pp. 23-25.
-[^2]: Robins, Gay. *Women in Ancient Egypt*. Harvard University Press, 1993, p. 45.
-[^3]: Gardiner, Alan. *Egyptian Grammar*. 3rd ed., Griffith Institute, 1957, p. 71.
-[^4]: Roehrig, Catharine H., et al., editors. *Hatshepsut: From Queen to Pharaoh*. Metropolitan Museum of Art, 2005, pp. 8-10.
-[^5]: Redford, Donald B. *History and Chronology of the Eighteenth Dynasty of Egypt*. University of Toronto Press, 1967, pp. 57-60.
-[^6]: Dodson, Aidan, and Dyan Hilton. *The Complete Royal Families of Ancient Egypt*. Thames & Hudson, 2004, p. 129.
-[^7]: Tyldesley, Joyce. *Hatshepsut: The Female Pharaoh*. Viking, 1996, pp. 34-37.
-[^8]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, edited by Catharine H. Roehrig et al., Metropolitan Museum of Art, 2005, pp. 267-269.
-[^9]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." *The Oxford History of Ancient Egypt*, edited by Ian Shaw, Oxford University Press, 2000, pp. 207-208.
-[^10]: Redford, Donald B. *History and Chronology of the Eighteenth Dynasty of Egypt*. University of Toronto Press, 1967, p. 63.
-[^11]: Robins, Gay. "Women and the Kingship of Egypt." *Women in Ancient Egypt*, Harvard University Press, 1993, pp. 44-48.
-[^12]: Tefnin, Roland. "Image and History: Reflections on the Representation of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 149-150.
-[^13]: Tyldesley, Joyce. *Hatshepsut: The Female Pharaoh*. Viking, 1996, pp. 96-101.
-[^14]: von Beckerath, Jürgen. *Handbuch der ägyptischen Königsnamen*. Deutscher Kunstverlag, 1999, pp. 124-125.
-[^15]: Tefnin, Roland. "Image and History: Reflections on the Representation of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 151-155.
-[^16]: Murnane, William J. "The Kingship of the Nineteenth Dynasty: A Study in the Resilience of an Institution." *Ancient Egyptian Kingship*, edited by David O'Connor and David P. Silverman, Brill, 1995, pp. 185-186.
-[^17]: Cooney, Kara. *The Woman Who Would Be King: Hatshepsut's Rise to Power in Ancient Egypt*. Crown, 2014, pp. 122-135.
-[^18]: Robins, Gay. *Women in Ancient Egypt*. Harvard University Press, 1993, pp. 46-47.
-[^19]: Naville, Édouard. *The Temple of Deir el Bahari*. Egypt Exploration Fund, 1894-1908, Vol. 2, plates 46-55.
-[^20]: Redford, Donald B. "The Coregency of Tuthmosis III and Amenophis II." *Journal of Egyptian Archaeology* 51, 1965, pp. 107-122.
-[^21]: Dorman, Peter F. *The Monuments of Senenmut: Problems in Historical Methodology*. Kegan Paul International, 1988, pp. 25-47.
-[^22]: Naville, Édouard. *The Temple of Deir el Bahari*, Vol. 3. Egypt Exploration Fund, 1898, pp. 12-15.
+[^1]: Tyldesley, Joyce. _Hatshepsut: The Female Pharaoh_. Viking, 1996, pp. 23-25.
+
+[^2]: Robins, Gay. _Women in Ancient Egypt_. Harvard University Press, 1993, p. 45.
+
+[^3]: Gardiner, Alan. _Egyptian Grammar_. 3rd ed., Griffith Institute, 1957, p. 71.
+
+[^4]: Roehrig, Catharine H., et al., editors. _Hatshepsut: From Queen to Pharaoh_. Metropolitan Museum of Art, 2005, pp. 8-10.
+
+[^5]: Redford, Donald B. _History and Chronology of the Eighteenth Dynasty of Egypt_. University of Toronto Press, 1967, pp. 57-60.
+
+[^6]: Dodson, Aidan, and Dyan Hilton. _The Complete Royal Families of Ancient Egypt_. Thames & Hudson, 2004, p. 129.
+
+[^7]: Tyldesley, Joyce. _Hatshepsut: The Female Pharaoh_. Viking, 1996, pp. 34-37.
+
+[^8]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, edited by Catharine H. Roehrig et al., Metropolitan Museum of Art, 2005, pp. 267-269.
+
+[^9]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." _The Oxford History of Ancient Egypt_, edited by Ian Shaw, Oxford University Press, 2000, pp. 207-208.
+
+[^10]: Redford, Donald B. _History and Chronology of the Eighteenth Dynasty of Egypt_. University of Toronto Press, 1967, p. 63.
+
+[^11]: Robins, Gay. "Women and the Kingship of Egypt." _Women in Ancient Egypt_, Harvard University Press, 1993, pp. 44-48.
+
+[^12]: Tefnin, Roland. "Image and History: Reflections on the Representation of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 149-150.
+
+[^13]: Tyldesley, Joyce. _Hatshepsut: The Female Pharaoh_. Viking, 1996, pp. 96-101.
+
+[^14]: von Beckerath, Jürgen. _Handbuch der ägyptischen Königsnamen_. Deutscher Kunstverlag, 1999, pp. 124-125.
+
+[^15]: Tefnin, Roland. "Image and History: Reflections on the Representation of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 151-155.
+
+[^16]: Murnane, William J. "The Kingship of the Nineteenth Dynasty: A Study in the Resilience of an Institution." _Ancient Egyptian Kingship_, edited by David O'Connor and David P. Silverman, Brill, 1995, pp. 185-186.
+
+[^17]: Cooney, Kara. _The Woman Who Would Be King: Hatshepsut's Rise to Power in Ancient Egypt_. Crown, 2014, pp. 122-135.
+
+[^18]: Robins, Gay. _Women in Ancient Egypt_. Harvard University Press, 1993, pp. 46-47.
+
+[^19]: Naville, Édouard. _The Temple of Deir el Bahari_. Egypt Exploration Fund, 1894-1908, Vol. 2, plates 46-55.
+
+[^20]: Redford, Donald B. "The Coregency of Tuthmosis III and Amenophis II." _Journal of Egyptian Archaeology_ 51, 1965, pp. 107-122.
+
+[^21]: Dorman, Peter F. _The Monuments of Senenmut: Problems in Historical Methodology_. Kegan Paul International, 1988, pp. 25-47.
+
+[^22]: Naville, Édouard. _The Temple of Deir el Bahari_, Vol. 3. Egypt Exploration Fund, 1898, pp. 12-15.
+
 [^23]: Roehrig, Catharine H. "The Eighteenth Dynasty Titles Royal Nurse, Royal Tutor, and Foster Brother/Sister of the Lord of the Two Lands." PhD dissertation, University of California, Berkeley, 1990, pp. 234-240.
-[^24]: Grimal, Nicolas. *A History of Ancient Egypt*. Translated by Ian Shaw, Blackwell, 1992, pp. 217-220.
-[^25]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." *The Oxford History of Ancient Egypt*, edited by Ian Shaw, Oxford University Press, 2000, pp. 208-212.
-[^26]: Naville, Édouard. *The Temple of Deir el Bahari*, Vol. 3. Egypt Exploration Fund, 1898, plates 69-86.
-[^27]: Kitchen, Kenneth A. "Punt and How to Get There." *Orientalia* 40, 1971, pp. 184-207.
-[^28]: Meeks, Dimitri. "Locating Punt." *Mysterious Lands*, edited by David O'Connor and Stephen Quirke, UCL Press, 2003, pp. 53-80.
-[^29]: Bradbury, Louise. "Reflections on Traveling to 'God's Land' and Punt in the Middle Kingdom." *Journal of the American Research Center in Egypt* 25, 1988, pp. 127-156.
-[^30]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, p. 270.
-[^31]: Arnold, Dieter. "The Temple of Hatshepsut at Deir el-Bahari." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 135-145.
-[^32]: Wysocki, Zygmunt. "The Temple of Queen Hatshepsut at Deir el Bahari: The Raising of the Structure in View of Architectural Studies." *Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo* 42, 1986, pp. 213-237.
-[^33]: Karkowski, Janusz. "The Decoration of the Temple of Hatshepsut at Deir el-Bahari." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 173-176.
-[^34]: Burgos, Franck, and François Larché. *La chapelle Rouge: Le sanctuaire de barque d'Hatshepsout*. Éditions Recherche sur les Civilisations, 2006, pp. 45-52.
-[^35]: Lacau, Pierre, and Henri Chevrier. *Une chapelle d'Hatshepsout à Karnak*. Institut français d'archéologie orientale, 1977, pp. 89-112.
-[^36]: Bell, Lanny. "Luxor Temple and the Cult of the Royal Ka." *Journal of Near Eastern Studies* 44.4, 1985, pp. 251-294.
-[^37]: Spalinger, Anthony J. "Some Notes on the Battle of Megiddo and Reflections on Egyptian Military Writing." *Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo* 30, 1974, pp. 221-229.
-[^38]: Redford, Donald B. *The Wars in Syria and Palestine of Thutmose III*. Brill, 2003, pp. 12-15.
-[^39]: Cooney, Kara. *The Woman Who Would Be King*. Crown, 2014, pp. 178-195.
-[^40]: Beit-Arieh, Itzhaq. "Serabit el-Khadim: New Metallurgical and Chronological Aspects." *Levant* 17, 1985, pp. 89-116.
-[^41]: Shaw, Ian. "Balancing the Odds: Raw Material Procurement and Preparatory Processing." *Ancient Egyptian Materials and Technology*, edited by Paul T. Nicholson and Ian Shaw, Cambridge University Press, 2000, pp. 78-93.
-[^42]: Helck, Wolfgang. "Die Ritualszenen auf der Umfassungsmauer Ramses' II. in Karnak." *Ägyptologische Abhandlungen* 18, 1968, pp. 34-45.
-[^43]: Bell, Lanny. "The New Kingdom 'Divine' Temple: The Example of Luxor." *Temples of Ancient Egypt*, edited by Byron E. Shafer, Cornell University Press, 1997, pp. 127-184.
-[^44]: Tyldesley, Joyce. *Hatshepsut: The Female Pharaoh*. Viking, 1996, pp. 214-228.
-[^45]: Robins, Gay. *Women in Ancient Egypt*. Harvard University Press, 1993, p. 47.
-[^46]: Winlock, Herbert E. "The Egyptian Expedition 1925-1927." *Bulletin of the Metropolitan Museum of Art* 23.2, 1928, pp. 3-32.
-[^47]: Nims, Charles F. "The Date of the Dishonoring of Hatshepsut." *Zeitschrift für Ägyptische Sprache und Altertumskunde* 93, 1966, pp. 97-100.
-[^48]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 267-281.
-[^49]: Nims, Charles F. "The Date of the Dishonoring of Hatshepsut." *Zeitschrift für Ägyptische Sprache und Altertumskunde* 93, 1966, pp. 99-100.
-[^50]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 273-278.
-[^51]: Redford, Donald B. "The Coregency of Tuthmosis III and Amenophis II." *Journal of Egyptian Archaeology* 51, 1965, pp. 117-119.
-[^52]: Ratié, Suzanne. *La reine Hatchepsout: sources et problèmes*. Brill, 1979, pp. 267-289.
-[^53]: Spalinger, Anthony J. "Thutmose III: Chronology and Conquest." *The Bulletin of the American Schools of Oriental Research* 221, 1976, pp. 33-56.
-[^54]: Dorman, Peter F. *The Monuments of Senenmut: Problems in Historical Methodology*. Kegan Paul International, 1988, pp. 152-166.
-[^55]: Manniche, Lise. "The So-Called Scenes of Daily Life in the Private Tombs of the Eighteenth Dynasty: An Overview." *The Unbroken Reed: Studies in the Culture and Heritage of Ancient Egypt in Honour of A.F. Shore*, edited by Christopher Eyre et al., Egypt Exploration Society, 1994, pp. 42-45.
-[^56]: Murnane, William J. *The Road to Kadesh: A Historical Interpretation of the Battle Reliefs of King Sety I at Karnak*. 2nd ed., University of Chicago Press, 1990, pp. 8-10.
-[^57]: Redford, Donald B. *The Wars in Syria and Palestine of Thutmose III*. Brill, 2003, pp. 18-22.
-[^58]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." *The Oxford History of Ancient Egypt*, edited by Ian Shaw, Oxford University Press, 2000, p. 211.
-[^59]: Montserrat, Dominic. "Hatshepsut and the Mask of Gender." *Studies in Egyptology Presented to Miriam Lichtheim*, edited by Sarah Israelit-Groll, vol. 2, Magnes Press, 1990, pp. 749-763.
-[^60]: Roth, Ann Macy. "Models of Authority: Hatshepsut's Predecessors in Power." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 9-14.
-[^61]: Tefnin, Roland. "Image and History: Reflections on the Representation of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 157-158.
-[^62]: Tyldesley, Joyce. *Hatshepsut: The Female Pharaoh*. Viking, 1996, pp. 152-169.
-[^63]: Robins, Gay. "Royal Marriage in the New Kingdom." *Acta Orientalia* 36, 1974, pp. 9-21.
+
+[^24]: Grimal, Nicolas. _A History of Ancient Egypt_. Translated by Ian Shaw, Blackwell, 1992, pp. 217-220.
+
+[^25]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." _The Oxford History of Ancient Egypt_, edited by Ian Shaw, Oxford University Press, 2000, pp. 208-212.
+
+[^26]: Naville, Édouard. _The Temple of Deir el Bahari_, Vol. 3. Egypt Exploration Fund, 1898, plates 69-86.
+
+[^27]: Kitchen, Kenneth A. "Punt and How to Get There." _Orientalia_ 40, 1971, pp. 184-207.
+
+[^28]: Meeks, Dimitri. "Locating Punt." _Mysterious Lands_, edited by David O'Connor and Stephen Quirke, UCL Press, 2003, pp. 53-80.
+
+[^29]: Bradbury, Louise. "Reflections on Traveling to 'God's Land' and Punt in the Middle Kingdom." _Journal of the American Research Center in Egypt_ 25, 1988, pp. 127-156.
+
+[^30]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, p. 270.
+
+[^31]: Arnold, Dieter. "The Temple of Hatshepsut at Deir el-Bahari." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 135-145.
+
+[^32]: Wysocki, Zygmunt. "The Temple of Queen Hatshepsut at Deir el Bahari: The Raising of the Structure in View of Architectural Studies." _Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo_ 42, 1986, pp. 213-237.
+
+[^33]: Karkowski, Janusz. "The Decoration of the Temple of Hatshepsut at Deir el-Bahari." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 173-176.
+
+[^34]: Burgos, Franck, and François Larché. _La chapelle Rouge: Le sanctuaire de barque d'Hatshepsout_. Éditions Recherche sur les Civilisations, 2006, pp. 45-52.
+
+[^35]: Lacau, Pierre, and Henri Chevrier. _Une chapelle d'Hatshepsout à Karnak_. Institut français d'archéologie orientale, 1977, pp. 89-112.
+
+[^36]: Bell, Lanny. "Luxor Temple and the Cult of the Royal Ka." _Journal of Near Eastern Studies_ 44.4, 1985, pp. 251-294.
+
+[^37]: Spalinger, Anthony J. "Some Notes on the Battle of Megiddo and Reflections on Egyptian Military Writing." _Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo_ 30, 1974, pp. 221-229.
+
+[^38]: Redford, Donald B. _The Wars in Syria and Palestine of Thutmose III_. Brill, 2003, pp. 12-15.
+
+[^39]: Cooney, Kara. _The Woman Who Would Be King_. Crown, 2014, pp. 178-195.
+
+[^40]: Beit-Arieh, Itzhaq. "Serabit el-Khadim: New Metallurgical and Chronological Aspects." _Levant_ 17, 1985, pp. 89-116.
+
+[^41]: Shaw, Ian. "Balancing the Odds: Raw Material Procurement and Preparatory Processing." _Ancient Egyptian Materials and Technology_, edited by Paul T. Nicholson and Ian Shaw, Cambridge University Press, 2000, pp. 78-93.
+
+[^42]: Helck, Wolfgang. "Die Ritualszenen auf der Umfassungsmauer Ramses' II. in Karnak." _Ägyptologische Abhandlungen_ 18, 1968, pp. 34-45.
+
+[^43]: Bell, Lanny. "The New Kingdom 'Divine' Temple: The Example of Luxor." _Temples of Ancient Egypt_, edited by Byron E. Shafer, Cornell University Press, 1997, pp. 127-184.
+
+[^44]: Tyldesley, Joyce. _Hatshepsut: The Female Pharaoh_. Viking, 1996, pp. 214-228.
+
+[^45]: Robins, Gay. _Women in Ancient Egypt_. Harvard University Press, 1993, p. 47.
+
+[^46]: Winlock, Herbert E. "The Egyptian Expedition 1925-1927." _Bulletin of the Metropolitan Museum of Art_ 23.2, 1928, pp. 3-32.
+
+[^47]: Nims, Charles F. "The Date of the Dishonoring of Hatshepsut." _Zeitschrift für Ägyptische Sprache und Altertumskunde_ 93, 1966, pp. 97-100.
+
+[^48]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 267-281.
+
+[^49]: Nims, Charles F. "The Date of the Dishonoring of Hatshepsut." _Zeitschrift für Ägyptische Sprache und Altertumskunde_ 93, 1966, pp. 99-100.
+
+[^50]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 273-278.
+
+[^51]: Redford, Donald B. "The Coregency of Tuthmosis III and Amenophis II." _Journal of Egyptian Archaeology_ 51, 1965, pp. 117-119.
+
+[^52]: Ratié, Suzanne. _La reine Hatchepsout: sources et problèmes_. Brill, 1979, pp. 267-289.
+
+[^53]: Spalinger, Anthony J. "Thutmose III: Chronology and Conquest." _The Bulletin of the American Schools of Oriental Research_ 221, 1976, pp. 33-56.
+
+[^54]: Dorman, Peter F. _The Monuments of Senenmut: Problems in Historical Methodology_. Kegan Paul International, 1988, pp. 152-166.
+
+[^55]: Manniche, Lise. "The So-Called Scenes of Daily Life in the Private Tombs of the Eighteenth Dynasty: An Overview." _The Unbroken Reed: Studies in the Culture and Heritage of Ancient Egypt in Honour of A.F. Shore_, edited by Christopher Eyre et al., Egypt Exploration Society, 1994, pp. 42-45.
+
+[^56]: Murnane, William J. _The Road to Kadesh: A Historical Interpretation of the Battle Reliefs of King Sety I at Karnak_. 2nd ed., University of Chicago Press, 1990, pp. 8-10.
+
+[^57]: Redford, Donald B. _The Wars in Syria and Palestine of Thutmose III_. Brill, 2003, pp. 18-22.
+
+[^58]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." _The Oxford History of Ancient Egypt_, edited by Ian Shaw, Oxford University Press, 2000, p. 211.
+
+[^59]: Montserrat, Dominic. "Hatshepsut and the Mask of Gender." _Studies in Egyptology Presented to Miriam Lichtheim_, edited by Sarah Israelit-Groll, vol. 2, Magnes Press, 1990, pp. 749-763.
+
+[^60]: Roth, Ann Macy. "Models of Authority: Hatshepsut's Predecessors in Power." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 9-14.
+
+[^61]: Tefnin, Roland. "Image and History: Reflections on the Representation of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 157-158.
+
+[^62]: Tyldesley, Joyce. _Hatshepsut: The Female Pharaoh_. Viking, 1996, pp. 152-169.
+
+[^63]: Robins, Gay. "Royal Marriage in the New Kingdom." _Acta Orientalia_ 36, 1974, pp. 9-21.
+
 [^64]: Roehrig, Catharine H. "The Eighteenth Dynasty Titles Royal Nurse, Royal Tutor, and Foster Brother/Sister of the Lord of the Two Lands." PhD dissertation, University of California, Berkeley, 1990, pp. 245-260.
-[^65]: Gitton, Michel. *L'épouse du dieu Ahmes Néfertary*. Centre de recherches d'histoire et de philologie, 1975, pp. 89-102.
-[^66]: Dorman, Peter F. *The Monuments of Senenmut*. Kegan Paul International, 1988, pp. 141-148.
-[^67]: Redford, Donald B. *History and Chronology of the Eighteenth Dynasty of Egypt*. University of Toronto Press, 1967, pp. 63-85.
-[^68]: Bryan, Betsy M. "Administration in the Reign of Thutmose III." *Thutmose III: A New Biography*, edited by Eric H. Cline and David O'Connor, University of Michigan Press, 2006, pp. 69-122.
-[^69]: Spalinger, Anthony J. "Coregencies and Egyptian Chronology." *Studien zur altägyptischen Kultur* 5, 1977, pp. 119-134.
-[^70]: Dorman, Peter F. *The Monuments of Senenmut*. Kegan Paul International, 1988, pp. 45-78, 152-166.
-[^71]: Manniche, Lise. "Some Aspects of Ancient Egyptian Sexual Life." *Acta Orientalia* 38, 1977, pp. 11-23.
-[^72]: Dorman, Peter F. *The Monuments of Senenmut*. Kegan Paul International, 1988, pp. 141-148.
-[^73]: Hawass, Zahi, et al. "Ancestry and Pathology in King Tutankhamun's Family." *Journal of the American Medical Association* 303.7, 2010, pp. 638-647.
-[^74]: Marchant, Jo. "Has Hatshepsut's Mummy Been Found?" *New Scientist*, June 2007, pp. 8-9.
-[^75]: Ikram, Salima. "Hatshepsut's Mummy: A Commentary." *KMT: A Modern Journal of Ancient Egypt* 18.3, 2007, pp. 32-37.
-[^76]: Breasted, James Henry. *Ancient Records of Egypt: Historical Documents*. Vol. 2, University of Chicago Press, 1906, sections 190-374.
-[^77]: Cooney, Kara. *The Woman Who Would Be King*. Crown, 2014, pp. 267-285.
-[^78]: Tyldesley, Joyce. *Hatshepsut: The Female Pharaoh*. Viking, 1996, pp. 214-228.
-[^79]: Robins, Gay. *Women in Ancient Egypt*. Harvard University Press, 1993, pp. 44-56.
-[^80]: Redford, Donald B. *The Wars in Syria and Palestine of Thutmose III*. Brill, 2003, pp. 23-45.
-[^81]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 273-278.
-[^82]: Nims, Charles F. "The Date of the Dishonoring of Hatshepsut." *Zeitschrift für Ägyptische Sprache und Altertumskunde* 93, 1966, pp. 97-100.
-[^83]: Redford, Donald B. *Pharaonic King-Lists, Annals and Day-Books: A Contribution to the Study of the Egyptian Sense of History*. Benben Publications, 1986, pp. 78-89.
-[^84]: Waddell, W.G., translator. *Manetho*. Loeb Classical Library, Harvard University Press, 1940, pp. 56-61.
-[^85]: Herodotus. *The Histories*. Translated by Aubrey de Sélincourt, Penguin Classics, 1954, Book 2.
-[^86]: Wilkinson, John Gardner. *The Manners and Customs of the Ancient Egyptians*. 3 vols., John Murray, 1837, vol. 1, pp. 245-248.
-[^87]: Lepsius, Carl Richard. *Denkmäler aus Aegypten und Aethiopien*. Nicolaische Buchhandlung, 1849-1859, Vol. 3, plates 12-35.
-[^88]: Winlock, Herbert E. "The Egyptian Expedition 1925-1927." *Bulletin of the Metropolitan Museum of Art* 23.2, 1928, pp. 3-32.
-[^89]: Hayes, William C. "Royal Sarcophagi of the XVIII Dynasty." *Princeton Monographs in Art and Archaeology* 19, 1935, pp. 67-89.
-[^90]: Cooney, Kara. *The Woman Who Would Be King*. Crown, 2014, pp. 289-305.
-[^91]: Roehrig, Catharine H., et al., editors. *Hatshepsut: From Queen to Pharaoh*. Metropolitan Museum of Art, 2005.
-[^92]: Arnold, Dieter. "The Temple of Hatshepsut at Deir el-Bahari." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 135-145.
-[^93]: Szafrański, Zbigniew E. "The Hatshepsut Temple Project: Season 2014/2015." *Polish Archaeology in the Mediterranean* 24, 2015, pp. 321-338.
-[^94]: Golvin, Jean-Claude, and Jean-Claude Goyon. *Les bâtisseurs de Karnak*. Presses du CNRS, 1987, pp. 78-82.
-[^95]: Hawass, Zahi. "Discovering Egypt's Powerful Queens." *National Geographic*, February 2009, pp. 88-111.
-[^96]: "Egypt Says Mummy Likely That of Famous Queen." *Associated Press*, June 27, 2007.
+
+[^65]: Gitton, Michel. _L'épouse du dieu Ahmes Néfertary_. Centre de recherches d'histoire et de philologie, 1975, pp. 89-102.
+
+[^66]: Dorman, Peter F. _The Monuments of Senenmut_. Kegan Paul International, 1988, pp. 141-148.
+
+[^67]: Redford, Donald B. _History and Chronology of the Eighteenth Dynasty of Egypt_. University of Toronto Press, 1967, pp. 63-85.
+
+[^68]: Bryan, Betsy M. "Administration in the Reign of Thutmose III." _Thutmose III: A New Biography_, edited by Eric H. Cline and David O'Connor, University of Michigan Press, 2006, pp. 69-122.
+
+[^69]: Spalinger, Anthony J. "Coregencies and Egyptian Chronology." _Studien zur altägyptischen Kultur_ 5, 1977, pp. 119-134.
+
+[^70]: Dorman, Peter F. _The Monuments of Senenmut_. Kegan Paul International, 1988, pp. 45-78, 152-166.
+
+[^71]: Manniche, Lise. "Some Aspects of Ancient Egyptian Sexual Life." _Acta Orientalia_ 38, 1977, pp. 11-23.
+
+[^72]: Dorman, Peter F. _The Monuments of Senenmut_. Kegan Paul International, 1988, pp. 141-148.
+
+[^73]: Hawass, Zahi, et al. "Ancestry and Pathology in King Tutankhamun's Family." _Journal of the American Medical Association_ 303.7, 2010, pp. 638-647.
+
+[^74]: Marchant, Jo. "Has Hatshepsut's Mummy Been Found?" _New Scientist_, June 2007, pp. 8-9.
+
+[^75]: Ikram, Salima. "Hatshepsut's Mummy: A Commentary." _KMT: A Modern Journal of Ancient Egypt_ 18.3, 2007, pp. 32-37.
+
+[^76]: Breasted, James Henry. _Ancient Records of Egypt: Historical Documents_. Vol. 2, University of Chicago Press, 1906, sections 190-374.
+
+[^77]: Cooney, Kara. _The Woman Who Would Be King_. Crown, 2014, pp. 267-285.
+
+[^78]: Tyldesley, Joyce. _Hatshepsut: The Female Pharaoh_. Viking, 1996, pp. 214-228.
+
+[^79]: Robins, Gay. _Women in Ancient Egypt_. Harvard University Press, 1993, pp. 44-56.
+
+[^80]: Redford, Donald B. _The Wars in Syria and Palestine of Thutmose III_. Brill, 2003, pp. 23-45.
+
+[^81]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 273-278.
+
+[^82]: Nims, Charles F. "The Date of the Dishonoring of Hatshepsut." _Zeitschrift für Ägyptische Sprache und Altertumskunde_ 93, 1966, pp. 97-100.
+
+[^83]: Redford, Donald B. _Pharaonic King-Lists, Annals and Day-Books: A Contribution to the Study of the Egyptian Sense of History_. Benben Publications, 1986, pp. 78-89.
+
+[^84]: Waddell, W.G., translator. _Manetho_. Loeb Classical Library, Harvard University Press, 1940, pp. 56-61.
+
+[^85]: Herodotus. _The Histories_. Translated by Aubrey de Sélincourt, Penguin Classics, 1954, Book 2.
+
+[^86]: Wilkinson, John Gardner. _The Manners and Customs of the Ancient Egyptians_. 3 vols., John Murray, 1837, vol. 1, pp. 245-248.
+
+[^87]: Lepsius, Carl Richard. _Denkmäler aus Aegypten und Aethiopien_. Nicolaische Buchhandlung, 1849-1859, Vol. 3, plates 12-35.
+
+[^88]: Winlock, Herbert E. "The Egyptian Expedition 1925-1927." _Bulletin of the Metropolitan Museum of Art_ 23.2, 1928, pp. 3-32.
+
+[^89]: Hayes, William C. "Royal Sarcophagi of the XVIII Dynasty." _Princeton Monographs in Art and Archaeology_ 19, 1935, pp. 67-89.
+
+[^90]: Cooney, Kara. _The Woman Who Would Be King_. Crown, 2014, pp. 289-305.
+
+[^91]: Roehrig, Catharine H., et al., editors. _Hatshepsut: From Queen to Pharaoh_. Metropolitan Museum of Art, 2005.
+
+[^92]: Arnold, Dieter. "The Temple of Hatshepsut at Deir el-Bahari." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 135-145.
+
+[^93]: Szafrański, Zbigniew E. "The Hatshepsut Temple Project: Season 2014/2015." _Polish Archaeology in the Mediterranean_ 24, 2015, pp. 321-338.
+
+[^94]: Golvin, Jean-Claude, and Jean-Claude Goyon. _Les bâtisseurs de Karnak_. Presses du CNRS, 1987, pp. 78-82.
+
+[^95]: Hawass, Zahi. "Discovering Egypt's Powerful Queens." _National Geographic_, February 2009, pp. 88-111.
+
+[^96]: "Egypt Says Mummy Likely That of Famous Queen." _Associated Press_, June 27, 2007.
+
 [^97]: Digital Karnak Project. University of California, Los Angeles, https://dlib.etc.ucla.edu/projects/Karnak/. Accessed 12 Dec. 2025.
-[^98]: Galán, José M., Betsy M. Bryan, and Peter F. Dorman, editors. *Creativity and Innovation in the Reign of Hatshepsut*. University of Chicago Oriental Institute, 2014.
-[^99]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." *The Oxford History of Ancient Egypt*, edited by Ian Shaw, Oxford University Press, 2000, pp. 207-264.
-[^100]: Tyldesley, Joyce. *Hatshepsut: The Female Pharaoh*. Viking, 1996, p. 1.
-[^101]: Roehrig, Catharine H. "Woman + King = Sphinx." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 6-7.
-[^102]: Roehrig, Catharine H., et al., editors. *Hatshepsut: From Queen to Pharaoh*. Metropolitan Museum of Art, 2005, p. 3.
-[^103]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." *The Oxford History of Ancient Egypt*, edited by Ian Shaw, Oxford University Press, 2000, pp. 208-212.
-[^104]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, p. 270.
-[^105]: Arnold, Dieter. "The Temple of Hatshepsut at Deir el-Bahari." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 135-145.
-[^106]: Karkowski, Janusz. "The Decoration of the Temple of Hatshepsut at Deir el-Bahari." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 173-195.
-[^107]: Cooney, Kara. *The Woman Who Would Be King*. Crown, 2014, pp. 1-15.
-[^108]: Robins, Gay. *Women in Ancient Egypt*. Harvard University Press, 1993, pp. 21-56.
-[^109]: Robins, Gay. "Women and the Kingship of Egypt." *Women in Ancient Egypt*, Harvard University Press, 1993, p. 48.
-[^110]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 279-281.
-[^111]: Ratié, Suzanne. *La reine Hatchepsout: sources et problèmes*. Brill, 1979, pp. 267-312.
-[^112]: Redford, Donald B. "The Coregency of Tuthmosis III and Amenophis II." *Journal of Egyptian Archaeology* 51, 1965, pp. 107-122.
-[^113]: Ratié, Suzanne. *La reine Hatchepsout: sources et problèmes*. Brill, 1979, pp. 289-298.
-[^114]: Murnane, William J. *The Road to Kadesh*. 2nd ed., University of Chicago Press, 1990, p. 9.
-[^115]: Redford, Donald B. *The Wars in Syria and Palestine of Thutmose III*. Brill, 2003, pp. 18-22.
-[^116]: Roth, Ann Macy. "Models of Authority: Hatshepsut's Predecessors in Power." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, p. 13.
-[^117]: Montserrat, Dominic. "Hatshepsut and the Mask of Gender." *Studies in Egyptology Presented to Miriam Lichtheim*, edited by Sarah Israelit-Groll, vol. 2, Magnes Press, 1990, pp. 755-758.
-[^118]: Dorman, Peter F. *The Monuments of Senenmut*. Kegan Paul International, 1988, pp. 152-166.
-[^119]: Manniche, Lise. "Some Aspects of Ancient Egyptian Sexual Life." *Acta Orientalia* 38, 1977, pp. 15-18.
+
+[^98]: Galán, José M., Betsy M. Bryan, and Peter F. Dorman, editors. _Creativity and Innovation in the Reign of Hatshepsut_. University of Chicago Oriental Institute, 2014.
+
+[^99]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." _The Oxford History of Ancient Egypt_, edited by Ian Shaw, Oxford University Press, 2000, pp. 207-264.
+
+[^100]: Tyldesley, Joyce. _Hatshepsut: The Female Pharaoh_. Viking, 1996, p. 1.
+
+[^101]: Roehrig, Catharine H. "Woman + King = Sphinx." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 6-7.
+
+[^102]: Roehrig, Catharine H., et al., editors. _Hatshepsut: From Queen to Pharaoh_. Metropolitan Museum of Art, 2005, p. 3.
+
+[^103]: Bryan, Betsy M. "The 18th Dynasty before the Amarna Period." _The Oxford History of Ancient Egypt_, edited by Ian Shaw, Oxford University Press, 2000, pp. 208-212.
+
+[^104]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, p. 270.
+
+[^105]: Arnold, Dieter. "The Temple of Hatshepsut at Deir el-Bahari." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 135-145.
+
+[^106]: Karkowski, Janusz. "The Decoration of the Temple of Hatshepsut at Deir el-Bahari." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 173-195.
+
+[^107]: Cooney, Kara. _The Woman Who Would Be King_. Crown, 2014, pp. 1-15.
+
+[^108]: Robins, Gay. _Women in Ancient Egypt_. Harvard University Press, 1993, pp. 21-56.
+
+[^109]: Robins, Gay. "Women and the Kingship of Egypt." _Women in Ancient Egypt_, Harvard University Press, 1993, p. 48.
+
+[^110]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 279-281.
+
+[^111]: Ratié, Suzanne. _La reine Hatchepsout: sources et problèmes_. Brill, 1979, pp. 267-312.
+
+[^112]: Redford, Donald B. "The Coregency of Tuthmosis III and Amenophis II." _Journal of Egyptian Archaeology_ 51, 1965, pp. 107-122.
+
+[^113]: Ratié, Suzanne. _La reine Hatchepsout: sources et problèmes_. Brill, 1979, pp. 289-298.
+
+[^114]: Murnane, William J. _The Road to Kadesh_. 2nd ed., University of Chicago Press, 1990, p. 9.
+
+[^115]: Redford, Donald B. _The Wars in Syria and Palestine of Thutmose III_. Brill, 2003, pp. 18-22.
+
+[^116]: Roth, Ann Macy. "Models of Authority: Hatshepsut's Predecessors in Power." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, p. 13.
+
+[^117]: Montserrat, Dominic. "Hatshepsut and the Mask of Gender." _Studies in Egyptology Presented to Miriam Lichtheim_, edited by Sarah Israelit-Groll, vol. 2, Magnes Press, 1990, pp. 755-758.
+
+[^118]: Dorman, Peter F. _The Monuments of Senenmut_. Kegan Paul International, 1988, pp. 152-166.
+
+[^119]: Manniche, Lise. "Some Aspects of Ancient Egyptian Sexual Life." _Acta Orientalia_ 38, 1977, pp. 15-18.
+
 [^120]: Roehrig, Catharine H. "The Eighteenth Dynasty Titles Royal Nurse, Royal Tutor, and Foster Brother/Sister of the Lord of the Two Lands." PhD dissertation, University of California, Berkeley, 1990, pp. 256-260.
-[^121]: Dorman, Peter F. "The Proscription of Hatshepsut." *Hatshepsut: From Queen to Pharaoh*, Metropolitan Museum of Art, 2005, pp. 276-278.
-[^122]: Bryan, Betsy M. "Administration in the Reign of Thutmose III." *Thutmose III: A New Biography*, edited by Eric H. Cline and David O'Connor, University of Michigan Press, 2006, p. 73.
-[^123]: Hornung, Erik. "The Pharaoh." *Ancient Egyptian Kingship*, edited by David O'Connor and David P. Silverman, Brill, 1995, pp. 283-297.
-[^124]: Naville, Édouard. *The Temple of Deir el Bahari*, Vol. 2. Egypt Exploration Fund, 1897, plate 55.
-[^125]: Breasted, James Henry. *Ancient Records of Egypt: Historical Documents*. Vol. 2, University of Chicago Press, 1906, section 303.
-[^126]: Burgos, Franck, and François Larché. *La chapelle Rouge: Le sanctuaire de barque d'Hatshepsout*. Éditions Recherche sur les Civilisations, 2006, inscription 127.
-[^127]: Breasted, James Henry. *Ancient Records of Egypt: Historical Documents*. Vol. 2, University of Chicago Press, 1906, section 227.
-[^128]: Sethe, Kurt. *Urkunden der 18. Dynastie*. Vol. 4, J.C. Hinrichs, 1906, section 261.
+
+[^121]: Dorman, Peter F. "The Proscription of Hatshepsut." _Hatshepsut: From Queen to Pharaoh_, Metropolitan Museum of Art, 2005, pp. 276-278.
+
+[^122]: Bryan, Betsy M. "Administration in the Reign of Thutmose III." _Thutmose III: A New Biography_, edited by Eric H. Cline and David O'Connor, University of Michigan Press, 2006, p. 73.
+
+[^123]: Hornung, Erik. "The Pharaoh." _Ancient Egyptian Kingship_, edited by David O'Connor and David P. Silverman, Brill, 1995, pp. 283-297.
+
+[^124]: Naville, Édouard. _The Temple of Deir el Bahari_, Vol. 2. Egypt Exploration Fund, 1897, plate 55.
+
+[^125]: Breasted, James Henry. _Ancient Records of Egypt: Historical Documents_. Vol. 2, University of Chicago Press, 1906, section 303.
+
+[^126]: Burgos, Franck, and François Larché. _La chapelle Rouge: Le sanctuaire de barque d'Hatshepsout_. Éditions Recherche sur les Civilisations, 2006, inscription 127.
+
+[^127]: Breasted, James Henry. _Ancient Records of Egypt: Historical Documents_. Vol. 2, University of Chicago Press, 1906, section 227.
+
+[^128]: Sethe, Kurt. _Urkunden der 18. Dynastie_. Vol. 4, J.C. Hinrichs, 1906, section 261.

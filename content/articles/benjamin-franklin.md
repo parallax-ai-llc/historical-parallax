@@ -4,7 +4,8 @@ name: "Benjamin Franklin"
 birth: "1706-01-17"
 death: "1790-04-17"
 nationality: "United States"
-occupation: ["Founding Father", "Scientist", "Inventor", "Diplomat", "Writer", "Publisher", "Politician"]
+occupation:
+  ["Founding Father", "Scientist", "Inventor", "Diplomat", "Writer", "Publisher", "Politician"]
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/BenFranklin1706-1790.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Benjamin_Franklin"
@@ -163,179 +164,299 @@ Environmental historians have argued that Franklin's emphasis on technological m
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1706 | Born January 17 in Boston, Massachusetts, the fifteenth of seventeen children |
-| 1718 | Apprenticed to his brother James, a printer |
-| 1722 | Begins writing essays under pseudonym "Silence Dogood" for the New-England Courant |
-| 1723 | Runs away from Boston to Philadelphia at age seventeen |
-| 1724 | Travels to London expecting support from Governor Keith; works in London printing houses |
-| 1726 | Returns to Philadelphia; begins working as a printer |
-| 1728 | Establishes his own printing business with Hugh Meredith |
-| 1729 | Purchases the Pennsylvania Gazette newspaper |
-| 1730 | Enters common-law marriage with Deborah Read; brings illegitimate son William into household |
-| 1731 | Founds Library Company of Philadelphia, America's first lending library |
-| 1732 | Begins publishing Poor Richard's Almanack; son Francis Folger born |
-| 1736 | Son Francis dies of smallpox at age four; organizes Union Fire Company |
-| 1743 | Daughter Sarah born; founds American Philosophical Society |
-| 1748 | Retires from printing business to focus on science and public service |
-| 1751 | Elected to Pennsylvania Assembly; publishes "Experiments and Observations on Electricity" |
-| 1752 | Conducts famous kite experiment demonstrating electrical nature of lightning |
-| 1753 | Appointed Deputy Postmaster General for the colonies; receives honorary degrees |
-| 1754 | Proposes Albany Plan of Union at Albany Congress |
-| 1757 | Travels to London as Pennsylvania Assembly's agent; begins extended stay |
-| 1762 | Returns briefly to Philadelphia |
-| 1764 | Returns to London as colonial agent; stays until 1775 |
-| 1774 | Wife Deborah dies in Philadelphia while Franklin remains in London |
-| 1775 | Returns to Philadelphia as Revolutionary War begins; elected to Continental Congress |
-| 1776 | Serves on committee to draft Declaration of Independence; sent to France as diplomat |
-| 1778 | Negotiates Treaty of Alliance with France, securing crucial French support for Revolution |
-| 1783 | Helps negotiate Treaty of Paris, ending Revolutionary War and securing independence |
-| 1785 | Returns to Philadelphia after nine years in France |
+| Year | Event                                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------------------- |
+| 1706 | Born January 17 in Boston, Massachusetts, the fifteenth of seventeen children                                     |
+| 1718 | Apprenticed to his brother James, a printer                                                                       |
+| 1722 | Begins writing essays under pseudonym "Silence Dogood" for the New-England Courant                                |
+| 1723 | Runs away from Boston to Philadelphia at age seventeen                                                            |
+| 1724 | Travels to London expecting support from Governor Keith; works in London printing houses                          |
+| 1726 | Returns to Philadelphia; begins working as a printer                                                              |
+| 1728 | Establishes his own printing business with Hugh Meredith                                                          |
+| 1729 | Purchases the Pennsylvania Gazette newspaper                                                                      |
+| 1730 | Enters common-law marriage with Deborah Read; brings illegitimate son William into household                      |
+| 1731 | Founds Library Company of Philadelphia, America's first lending library                                           |
+| 1732 | Begins publishing Poor Richard's Almanack; son Francis Folger born                                                |
+| 1736 | Son Francis dies of smallpox at age four; organizes Union Fire Company                                            |
+| 1743 | Daughter Sarah born; founds American Philosophical Society                                                        |
+| 1748 | Retires from printing business to focus on science and public service                                             |
+| 1751 | Elected to Pennsylvania Assembly; publishes "Experiments and Observations on Electricity"                         |
+| 1752 | Conducts famous kite experiment demonstrating electrical nature of lightning                                      |
+| 1753 | Appointed Deputy Postmaster General for the colonies; receives honorary degrees                                   |
+| 1754 | Proposes Albany Plan of Union at Albany Congress                                                                  |
+| 1757 | Travels to London as Pennsylvania Assembly's agent; begins extended stay                                          |
+| 1762 | Returns briefly to Philadelphia                                                                                   |
+| 1764 | Returns to London as colonial agent; stays until 1775                                                             |
+| 1774 | Wife Deborah dies in Philadelphia while Franklin remains in London                                                |
+| 1775 | Returns to Philadelphia as Revolutionary War begins; elected to Continental Congress                              |
+| 1776 | Serves on committee to draft Declaration of Independence; sent to France as diplomat                              |
+| 1778 | Negotiates Treaty of Alliance with France, securing crucial French support for Revolution                         |
+| 1783 | Helps negotiate Treaty of Paris, ending Revolutionary War and securing independence                               |
+| 1785 | Returns to Philadelphia after nine years in France                                                                |
 | 1787 | Serves as Pennsylvania delegate to Constitutional Convention; becomes president of Pennsylvania Abolition Society |
-| 1788 | Retires from public life due to declining health |
-| 1790 | Dies April 17 in Philadelphia at age eighty-four; approximately 20,000 attend funeral |
+| 1788 | Retires from public life due to declining health                                                                  |
+| 1790 | Dies April 17 in Philadelphia at age eighty-four; approximately 20,000 attend funeral                             |
 
 ---
 
 ## Famous Quotes
 
 > "Early to bed and early to rise makes a man healthy, wealthy, and wise."
+
 - From Poor Richard's Almanack (1735), one of Franklin's most famous maxims promoting industry and temperance, though he later admitted he rarely followed this advice himself.[^108]
 
 > "Tell me and I forget, teach me and I may remember, involve me and I learn."
+
 - Reflects Franklin's pedagogical philosophy emphasizing active learning and practical experience over rote memorization, consistent with his Enlightenment values.[^109]
 
 > "In this world nothing can be said to be certain, except death and taxes."
+
 - Written in a 1789 letter to Jean-Baptiste Le Roy, this quote has become one of the most frequently cited observations about the inevitabilities of life.[^110]
 
 > "We must, indeed, all hang together or, most assuredly, we shall all hang separately."
+
 - Allegedly spoken at the signing of the Declaration of Independence, expressing the unified commitment required for rebellion against Britain, though the quote's authenticity is disputed.[^111]
 
 > "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety."
+
 - From a 1755 letter to the Pennsylvania Assembly, frequently cited in debates about civil liberties and security, though often taken out of its original context regarding taxation disputes.[^112]
 
 > "An investment in knowledge pays the best interest."
+
 - Reflects Franklin's lifelong commitment to education and self-improvement, consistent with his founding of libraries, educational institutions, and learned societies.[^113]
 
 > "By failing to prepare, you are preparing to fail."
+
 - Captures Franklin's practical wisdom about planning and foresight, values he emphasized in his business and civic endeavors.[^114]
 
 ---
 
 ## References
 
-[^1]: Isaacson, Walter. *Benjamin Franklin: An American Life*. Simon & Schuster, 2003, pp. 15-17.
-[^2]: Wood, Gordon S. *The Americanization of Benjamin Franklin*. Penguin Press, 2004, pp. 22-24.
-[^3]: Franklin, Benjamin. *The Autobiography of Benjamin Franklin*. Dover Publications, 1996 [1791], pp. 18-20.
-[^4]: Morgan, Edmund S. *Benjamin Franklin*. Yale University Press, 2002, pp. 8-12.
-[^5]: Isaacson, *Benjamin Franklin*, pp. 38-42.
-[^6]: Lemay, J.A. Leo. *The Life of Benjamin Franklin, Volume 2: Printer and Publisher, 1730-1747*. University of Pennsylvania Press, 2006, pp. 94-98.
-[^7]: Wood, *The Americanization of Benjamin Franklin*, pp. 42-43.
-[^8]: Franklin, Benjamin. *Poor Richard's Almanack*. Peter Pauper Press, 1983 [1732-1758].
-[^9]: Morgan, *Benjamin Franklin*, pp. 27-29.
-[^10]: Wolf, Edwin. "The Library Company of Philadelphia." *The Pennsylvania Magazine of History and Biography* 87, no. 3 (1963): 257-272.
-[^11]: Isaacson, *Benjamin Franklin*, pp. 93-94.
-[^12]: Gegenheimer, Albert Frank. *William Smith: Educator and Churchman, 1727-1803*. University of Pennsylvania Press, 1943, pp. 45-52.
-[^13]: Williams, William H. *America's First Hospital: The Pennsylvania Hospital, 1751-1841*. Wayne State University Press, 1976, pp. 18-22.
-[^14]: Wood, *The Americanization of Benjamin Franklin*, pp. 56-58.
-[^15]: Shannon, Timothy J. "The Albany Congress of 1754." *New York History* 82, no. 3 (2001): 261-280.
-[^16]: Cohen, I. Bernard. *Benjamin Franklin's Science*. Harvard University Press, 1990, pp. 55-71.
-[^17]: Cohen, I. Bernard. "The Two Hundredth Anniversary of Benjamin Franklin's Two Lightning Experiments and the Introduction of the Lightning Rod." *Proceedings of the American Philosophical Society* 96, no. 3 (1952): 331-366.
-[^18]: Heilbron, J.L. *Electricity in the 17th and 18th Centuries*. University of California Press, 1979, pp. 330-344.
-[^19]: Cohen, *Benjamin Franklin's Science*, pp. 28-32.
-[^20]: Ilardi, Vincent. *Renaissance Vision from Spectacles to Telescopes*. American Philosophical Society, 2007, pp. 225-227.
-[^21]: Richardson, Philip L. "Benjamin Franklin and Timothy Folger's First Printed Chart of the Gulf Stream." *Science* 207, no. 4431 (1980): 643-645.
-[^22]: Schiff, Stacy. *A Great Improvisation: Franklin, France, and the Birth of America*. Henry Holt, 2005, pp. 1-15.
-[^23]: Lopez, Claude-Anne. *Mon Cher Papa: Franklin and the Ladies of Paris*. Yale University Press, 1990, pp. 8-12.
-[^24]: Dull, Jonathan R. *A Diplomatic History of the American Revolution*. Yale University Press, 1985, pp. 89-103.
-[^25]: Morris, Richard B. *The Peacemakers: The Great Powers and American Independence*. Harper & Row, 1965, pp. 310-358.
-[^26]: Schiff, *A Great Improvisation*, pp. 380-395.
-[^27]: Maier, Pauline. *American Scripture: Making the Declaration of Independence*. Knopf, 1997, pp. 99-105.
-[^28]: Beeman, Richard. *Plain, Honest Men: The Making of the American Constitution*. Random House, 2009, pp. 78-82.
-[^29]: Farrand, Max, ed. *The Records of the Federal Convention of 1787*. Vol. 2. Yale University Press, 1966, pp. 641-643.
-[^30]: Lemay, J.A. Leo, ed. *Benjamin Franklin's Autobiography: A Norton Critical Edition*. W.W. Norton, 1986, pp. vii-xv.
-[^31]: Bushman, Richard L. "On the Uses of Psychology: Conflict and Conciliation in Benjamin Franklin." *History and Theory* 5, no. 3 (1966): 225-240.
-[^32]: Lemay, J.A. Leo. *The Canon of Benjamin Franklin, 1722-1776*. University of Delaware Press, 1986, pp. 298-305.
-[^33]: Nash, Gary B. "Franklin and Slavery." *Proceedings of the American Philosophical Society* 150, no. 4 (2006): 618-635.
+[^1]: Isaacson, Walter. _Benjamin Franklin: An American Life_. Simon & Schuster, 2003, pp. 15-17.
+
+[^2]: Wood, Gordon S. _The Americanization of Benjamin Franklin_. Penguin Press, 2004, pp. 22-24.
+
+[^3]: Franklin, Benjamin. _The Autobiography of Benjamin Franklin_. Dover Publications, 1996 [1791], pp. 18-20.
+
+[^4]: Morgan, Edmund S. _Benjamin Franklin_. Yale University Press, 2002, pp. 8-12.
+
+[^5]: Isaacson, _Benjamin Franklin_, pp. 38-42.
+
+[^6]: Lemay, J.A. Leo. _The Life of Benjamin Franklin, Volume 2: Printer and Publisher, 1730-1747_. University of Pennsylvania Press, 2006, pp. 94-98.
+
+[^7]: Wood, _The Americanization of Benjamin Franklin_, pp. 42-43.
+
+[^8]: Franklin, Benjamin. _Poor Richard's Almanack_. Peter Pauper Press, 1983 [1732-1758].
+
+[^9]: Morgan, _Benjamin Franklin_, pp. 27-29.
+
+[^10]: Wolf, Edwin. "The Library Company of Philadelphia." _The Pennsylvania Magazine of History and Biography_ 87, no. 3 (1963): 257-272.
+
+[^11]: Isaacson, _Benjamin Franklin_, pp. 93-94.
+
+[^12]: Gegenheimer, Albert Frank. _William Smith: Educator and Churchman, 1727-1803_. University of Pennsylvania Press, 1943, pp. 45-52.
+
+[^13]: Williams, William H. _America's First Hospital: The Pennsylvania Hospital, 1751-1841_. Wayne State University Press, 1976, pp. 18-22.
+
+[^14]: Wood, _The Americanization of Benjamin Franklin_, pp. 56-58.
+
+[^15]: Shannon, Timothy J. "The Albany Congress of 1754." _New York History_ 82, no. 3 (2001): 261-280.
+
+[^16]: Cohen, I. Bernard. _Benjamin Franklin's Science_. Harvard University Press, 1990, pp. 55-71.
+
+[^17]: Cohen, I. Bernard. "The Two Hundredth Anniversary of Benjamin Franklin's Two Lightning Experiments and the Introduction of the Lightning Rod." _Proceedings of the American Philosophical Society_ 96, no. 3 (1952): 331-366.
+
+[^18]: Heilbron, J.L. _Electricity in the 17th and 18th Centuries_. University of California Press, 1979, pp. 330-344.
+
+[^19]: Cohen, _Benjamin Franklin's Science_, pp. 28-32.
+
+[^20]: Ilardi, Vincent. _Renaissance Vision from Spectacles to Telescopes_. American Philosophical Society, 2007, pp. 225-227.
+
+[^21]: Richardson, Philip L. "Benjamin Franklin and Timothy Folger's First Printed Chart of the Gulf Stream." _Science_ 207, no. 4431 (1980): 643-645.
+
+[^22]: Schiff, Stacy. _A Great Improvisation: Franklin, France, and the Birth of America_. Henry Holt, 2005, pp. 1-15.
+
+[^23]: Lopez, Claude-Anne. _Mon Cher Papa: Franklin and the Ladies of Paris_. Yale University Press, 1990, pp. 8-12.
+
+[^24]: Dull, Jonathan R. _A Diplomatic History of the American Revolution_. Yale University Press, 1985, pp. 89-103.
+
+[^25]: Morris, Richard B. _The Peacemakers: The Great Powers and American Independence_. Harper & Row, 1965, pp. 310-358.
+
+[^26]: Schiff, _A Great Improvisation_, pp. 380-395.
+
+[^27]: Maier, Pauline. _American Scripture: Making the Declaration of Independence_. Knopf, 1997, pp. 99-105.
+
+[^28]: Beeman, Richard. _Plain, Honest Men: The Making of the American Constitution_. Random House, 2009, pp. 78-82.
+
+[^29]: Farrand, Max, ed. _The Records of the Federal Convention of 1787_. Vol. 2. Yale University Press, 1966, pp. 641-643.
+
+[^30]: Lemay, J.A. Leo, ed. _Benjamin Franklin's Autobiography: A Norton Critical Edition_. W.W. Norton, 1986, pp. vii-xv.
+
+[^31]: Bushman, Richard L. "On the Uses of Psychology: Conflict and Conciliation in Benjamin Franklin." _History and Theory_ 5, no. 3 (1966): 225-240.
+
+[^32]: Lemay, J.A. Leo. _The Canon of Benjamin Franklin, 1722-1776_. University of Delaware Press, 1986, pp. 298-305.
+
+[^33]: Nash, Gary B. "Franklin and Slavery." _Proceedings of the American Philosophical Society_ 150, no. 4 (2006): 618-635.
+
 [^34]: Nash, "Franklin and Slavery," pp. 628-632.
-[^35]: Waldstreicher, David. *Runaway America: Benjamin Franklin, Slavery, and the American Revolution*. Hill and Wang, 2004, pp. 217-226.
-[^36]: Shechtman, Morris M. "The Father and Son: A Study of the Relationship Between Benjamin Franklin and William Franklin." *Pennsylvania History* 35, no. 1 (1968): 1-18.
-[^37]: Skemp, Sheila L. *The Making of a Patriot: Benjamin Franklin at the Cockpit*. Oxford University Press, 2012, pp. 178-185.
-[^38]: Lopez, Claude-Anne, and Eugenia W. Herbert. *The Private Franklin: The Man and His Family*. W.W. Norton, 1975, pp. 89-108.
-[^39]: Isaacson, *Benjamin Franklin*, pp. 218-224.
-[^40]: Skemp, Sheila L. *William Franklin: Son of a Patriot, Servant of a King*. Oxford University Press, 1990, pp. 3-12.
-[^41]: Lopez, *Mon Cher Papa*, pp. 54-78, 201-225.
-[^42]: Ferling, John. *John Adams: A Life*. University of Tennessee Press, 1992, pp. 165-170.
-[^43]: McCullough, David. *John Adams*. Simon & Schuster, 2001, pp. 210-215.
-[^44]: Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. Translated by Talcott Parsons. Routledge, 1992 [1905], pp. 48-52.
-[^45]: Lawrence, D.H. *Studies in Classic American Literature*. Thomas Seltzer, 1923, pp. 13-31.
-[^46]: Lopez and Herbert, *The Private Franklin*, pp. 11-17.
-[^47]: Isaacson, *Benjamin Franklin*, pp. 72-74.
-[^48]: Franklin, *Autobiography*, pp. 92-93.
-[^49]: Skemp, *Benjamin Franklin at the Cockpit*, pp. 45-48.
-[^50]: Lopez and Herbert, *The Private Franklin*, pp. 24-29.
-[^51]: Morgan, *Benjamin Franklin*, pp. 122-125.
-[^52]: Labaree, Leonard W., et al., eds. *The Papers of Benjamin Franklin*. Vol. 15. Yale University Press, 1972, pp. 45-47, 183-185.
-[^53]: Schiff, *A Great Improvisation*, pp. 28-35.
-[^54]: Lopez, *Mon Cher Papa*, pp. 98-115, 248-267.
-[^55]: Wood, *The Americanization of Benjamin Franklin*, pp. 128-135.
-[^56]: Franklin, *Autobiography*, pp. 78-85.
-[^57]: Franklin, Benjamin. "To the Royal Academy of Farting" [c. 1781]. In *Benjamin Franklin's Letters to the Press*, edited by Verner W. Crane. University of North Carolina Press, 1950, pp. 189-191.
-[^58]: Isaacson, *Benjamin Franklin*, pp. 446-448.
-[^59]: Morgan, *Benjamin Franklin*, pp. 313-314.
-[^60]: Wood, *The Americanization of Benjamin Franklin*, pp. 1-8.
-[^61]: Uman, Martin A., and E. Philip Krider. "Natural and Artificially Initiated Lightning." *Science* 246, no. 4929 (1989): 457-464.
-[^62]: Cohen, *Benjamin Franklin's Science*, pp. 115-120.
-[^63]: Carter, Edward C., II. "One Grand Pursuit: A Brief History of the American Philosophical Society's First 250 Years, 1743-1993." *Proceedings of the American Philosophical Society* 137, no. 1 (1993): 1-25.
-[^64]: Brands, H.W. *The First American: The Life and Times of Benjamin Franklin*. Doubleday, 2000, pp. 285-292.
-[^65]: Dull, *A Diplomatic History of the American Revolution*, pp. 140-145.
-[^66]: Schiff, *A Great Improvisation*, pp. 405-410.
-[^67]: Kamrath, Mark L., and Sharon M. Harris, eds. *Periodical Literature in Eighteenth-Century America*. University of Tennessee Press, 2005, pp. 89-102.
-[^68]: Ferguson, Robert A. "The Autobiography of Benjamin Franklin." In *The Cambridge Companion to Benjamin Franklin*, edited by Carla Mulford. Cambridge University Press, 2008, pp. 113-125.
-[^69]: Mihm, Stephen. "Franklin on the $100 Bill: A History." *Bloomberg View*, April 23, 2013.
-[^70]: Isaacson, *Benjamin Franklin*, pp. 481-483.
-[^71]: Aldridge, Alfred Owen. *Franklin and His French Contemporaries*. New York University Press, 1957, pp. 234-245.
-[^72]: Gay, Peter. *The Enlightenment: An Interpretation*. Vol. 2. W.W. Norton, 1969, pp. 556-561.
-[^73]: Waldstreicher, *Runaway America*, pp. 234-241.
-[^74]: Lawrence, *Studies in Classic American Literature*, pp. 28-31.
-[^75]: Isaacson, *Benjamin Franklin*, pp. 475-480.
-[^76]: Wood, *The Americanization of Benjamin Franklin*, pp. 238-244.
-[^77]: Isaacson, *Benjamin Franklin*, p. 2.
-[^78]: Isaacson, *Benjamin Franklin*, pp. 7-10.
-[^79]: Wood, *The Americanization of Benjamin Franklin*, pp. 11-18.
-[^80]: Wood, *The Americanization of Benjamin Franklin*, pp. 234-238.
-[^81]: Morgan, *Benjamin Franklin*, pp. 72-88.
-[^82]: Cohen, *Benjamin Franklin's Science*, pp. 1-8.
-[^83]: Schiff, *A Great Improvisation*, pp. 7-9.
-[^84]: Dull, *A Diplomatic History of the American Revolution*, pp. 98-105.
-[^85]: Taylor, Alan. *American Revolutions: A Continental History, 1750-1804*. W.W. Norton, 2016, pp. 156-160.
-[^86]: Taylor, *American Revolutions*, pp. 298-302.
+
+[^35]: Waldstreicher, David. _Runaway America: Benjamin Franklin, Slavery, and the American Revolution_. Hill and Wang, 2004, pp. 217-226.
+
+[^36]: Shechtman, Morris M. "The Father and Son: A Study of the Relationship Between Benjamin Franklin and William Franklin." _Pennsylvania History_ 35, no. 1 (1968): 1-18.
+
+[^37]: Skemp, Sheila L. _The Making of a Patriot: Benjamin Franklin at the Cockpit_. Oxford University Press, 2012, pp. 178-185.
+
+[^38]: Lopez, Claude-Anne, and Eugenia W. Herbert. _The Private Franklin: The Man and His Family_. W.W. Norton, 1975, pp. 89-108.
+
+[^39]: Isaacson, _Benjamin Franklin_, pp. 218-224.
+
+[^40]: Skemp, Sheila L. _William Franklin: Son of a Patriot, Servant of a King_. Oxford University Press, 1990, pp. 3-12.
+
+[^41]: Lopez, _Mon Cher Papa_, pp. 54-78, 201-225.
+
+[^42]: Ferling, John. _John Adams: A Life_. University of Tennessee Press, 1992, pp. 165-170.
+
+[^43]: McCullough, David. _John Adams_. Simon & Schuster, 2001, pp. 210-215.
+
+[^44]: Weber, Max. _The Protestant Ethic and the Spirit of Capitalism_. Translated by Talcott Parsons. Routledge, 1992 [1905], pp. 48-52.
+
+[^45]: Lawrence, D.H. _Studies in Classic American Literature_. Thomas Seltzer, 1923, pp. 13-31.
+
+[^46]: Lopez and Herbert, _The Private Franklin_, pp. 11-17.
+
+[^47]: Isaacson, _Benjamin Franklin_, pp. 72-74.
+
+[^48]: Franklin, _Autobiography_, pp. 92-93.
+
+[^49]: Skemp, _Benjamin Franklin at the Cockpit_, pp. 45-48.
+
+[^50]: Lopez and Herbert, _The Private Franklin_, pp. 24-29.
+
+[^51]: Morgan, _Benjamin Franklin_, pp. 122-125.
+
+[^52]: Labaree, Leonard W., et al., eds. _The Papers of Benjamin Franklin_. Vol. 15. Yale University Press, 1972, pp. 45-47, 183-185.
+
+[^53]: Schiff, _A Great Improvisation_, pp. 28-35.
+
+[^54]: Lopez, _Mon Cher Papa_, pp. 98-115, 248-267.
+
+[^55]: Wood, _The Americanization of Benjamin Franklin_, pp. 128-135.
+
+[^56]: Franklin, _Autobiography_, pp. 78-85.
+
+[^57]: Franklin, Benjamin. "To the Royal Academy of Farting" [c. 1781]. In _Benjamin Franklin's Letters to the Press_, edited by Verner W. Crane. University of North Carolina Press, 1950, pp. 189-191.
+
+[^58]: Isaacson, _Benjamin Franklin_, pp. 446-448.
+
+[^59]: Morgan, _Benjamin Franklin_, pp. 313-314.
+
+[^60]: Wood, _The Americanization of Benjamin Franklin_, pp. 1-8.
+
+[^61]: Uman, Martin A., and E. Philip Krider. "Natural and Artificially Initiated Lightning." _Science_ 246, no. 4929 (1989): 457-464.
+
+[^62]: Cohen, _Benjamin Franklin's Science_, pp. 115-120.
+
+[^63]: Carter, Edward C., II. "One Grand Pursuit: A Brief History of the American Philosophical Society's First 250 Years, 1743-1993." _Proceedings of the American Philosophical Society_ 137, no. 1 (1993): 1-25.
+
+[^64]: Brands, H.W. _The First American: The Life and Times of Benjamin Franklin_. Doubleday, 2000, pp. 285-292.
+
+[^65]: Dull, _A Diplomatic History of the American Revolution_, pp. 140-145.
+
+[^66]: Schiff, _A Great Improvisation_, pp. 405-410.
+
+[^67]: Kamrath, Mark L., and Sharon M. Harris, eds. _Periodical Literature in Eighteenth-Century America_. University of Tennessee Press, 2005, pp. 89-102.
+
+[^68]: Ferguson, Robert A. "The Autobiography of Benjamin Franklin." In _The Cambridge Companion to Benjamin Franklin_, edited by Carla Mulford. Cambridge University Press, 2008, pp. 113-125.
+
+[^69]: Mihm, Stephen. "Franklin on the $100 Bill: A History." _Bloomberg View_, April 23, 2013.
+
+[^70]: Isaacson, _Benjamin Franklin_, pp. 481-483.
+
+[^71]: Aldridge, Alfred Owen. _Franklin and His French Contemporaries_. New York University Press, 1957, pp. 234-245.
+
+[^72]: Gay, Peter. _The Enlightenment: An Interpretation_. Vol. 2. W.W. Norton, 1969, pp. 556-561.
+
+[^73]: Waldstreicher, _Runaway America_, pp. 234-241.
+
+[^74]: Lawrence, _Studies in Classic American Literature_, pp. 28-31.
+
+[^75]: Isaacson, _Benjamin Franklin_, pp. 475-480.
+
+[^76]: Wood, _The Americanization of Benjamin Franklin_, pp. 238-244.
+
+[^77]: Isaacson, _Benjamin Franklin_, p. 2.
+
+[^78]: Isaacson, _Benjamin Franklin_, pp. 7-10.
+
+[^79]: Wood, _The Americanization of Benjamin Franklin_, pp. 11-18.
+
+[^80]: Wood, _The Americanization of Benjamin Franklin_, pp. 234-238.
+
+[^81]: Morgan, _Benjamin Franklin_, pp. 72-88.
+
+[^82]: Cohen, _Benjamin Franklin's Science_, pp. 1-8.
+
+[^83]: Schiff, _A Great Improvisation_, pp. 7-9.
+
+[^84]: Dull, _A Diplomatic History of the American Revolution_, pp. 98-105.
+
+[^85]: Taylor, Alan. _American Revolutions: A Continental History, 1750-1804_. W.W. Norton, 2016, pp. 156-160.
+
+[^86]: Taylor, _American Revolutions_, pp. 298-302.
+
 [^87]: Ferguson, "The Autobiography of Benjamin Franklin," pp. 113-115.
-[^88]: Lemay, ed., *Benjamin Franklin's Autobiography*, pp. ix-xiii.
-[^89]: Benkler, Yochai. *The Wealth of Networks*. Yale University Press, 2006, pp. 334-336.
-[^90]: Putnam, Robert D. *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster, 2000, pp. 89-92.
-[^91]: Cohen, *Benjamin Franklin's Science*, pp. 225-230.
-[^92]: Lawrence, *Studies in Classic American Literature*, pp. 13-19.
-[^93]: Lawrence, *Studies in Classic American Literature*, pp. 23-28.
+
+[^88]: Lemay, ed., _Benjamin Franklin's Autobiography_, pp. ix-xiii.
+
+[^89]: Benkler, Yochai. _The Wealth of Networks_. Yale University Press, 2006, pp. 334-336.
+
+[^90]: Putnam, Robert D. _Bowling Alone: The Collapse and Revival of American Community_. Simon & Schuster, 2000, pp. 89-92.
+
+[^91]: Cohen, _Benjamin Franklin's Science_, pp. 225-230.
+
+[^92]: Lawrence, _Studies in Classic American Literature_, pp. 13-19.
+
+[^93]: Lawrence, _Studies in Classic American Literature_, pp. 23-28.
+
 [^94]: Nash, "Franklin and Slavery," pp. 618-625.
+
 [^95]: Nash, "Franklin and Slavery," pp. 620-623.
-[^96]: Lyons, Clare A. *Sex Among the Rabble: An Intimate History of Gender and Power in the Age of Revolution, Philadelphia, 1730-1830*. University of North Carolina Press, 2006, pp. 187-192.
-[^97]: Lopez, *Mon Cher Papa*, pp. 268-275.
-[^98]: Ferling, *John Adams*, pp. 168-172.
-[^99]: McCullough, *John Adams*, pp. 213-218.
-[^100]: Wyllie, Irvin G. *The Self-Made Man in America*. Rutgers University Press, 1954, pp. 8-14.
-[^101]: Zuckerman, Michael. "The Selling of the Self: From Franklin to Gatsby." In *Literacy in Historical Perspective*, edited by Daniel P. Resnick. Library of Congress, 1983, pp. 265-282.
-[^102]: Beeman, *Plain, Honest Men*, pp. 79-82.
-[^103]: Beeman, Richard. "The Autobiography of Benjamin Franklin as a Work of Literature." In *Reappraising Benjamin Franklin*, edited by J.A. Leo Lemay. University of Delaware Press, 1993, pp. 412-425.
-[^104]: Merrell, James H. *Into the American Woods: Negotiators on the Pennsylvania Frontier*. W.W. Norton, 1999, pp. 267-275.
+
+[^96]: Lyons, Clare A. _Sex Among the Rabble: An Intimate History of Gender and Power in the Age of Revolution, Philadelphia, 1730-1830_. University of North Carolina Press, 2006, pp. 187-192.
+
+[^97]: Lopez, _Mon Cher Papa_, pp. 268-275.
+
+[^98]: Ferling, _John Adams_, pp. 168-172.
+
+[^99]: McCullough, _John Adams_, pp. 213-218.
+
+[^100]: Wyllie, Irvin G. _The Self-Made Man in America_. Rutgers University Press, 1954, pp. 8-14.
+
+[^101]: Zuckerman, Michael. "The Selling of the Self: From Franklin to Gatsby." In _Literacy in Historical Perspective_, edited by Daniel P. Resnick. Library of Congress, 1983, pp. 265-282.
+
+[^102]: Beeman, _Plain, Honest Men_, pp. 79-82.
+
+[^103]: Beeman, Richard. "The Autobiography of Benjamin Franklin as a Work of Literature." In _Reappraising Benjamin Franklin_, edited by J.A. Leo Lemay. University of Delaware Press, 1993, pp. 412-425.
+
+[^104]: Merrell, James H. _Into the American Woods: Negotiators on the Pennsylvania Frontier_. W.W. Norton, 1999, pp. 267-275.
+
 [^105]: Shannon, "The Albany Congress of 1754," pp. 270-275.
-[^106]: Worster, Donald. *Nature's Economy: A History of Ecological Ideas*. Cambridge University Press, 1994, pp. 56-60.
-[^107]: Merchant, Carolyn. *The Death of Nature: Women, Ecology, and the Scientific Revolution*. Harper & Row, 1980, pp. 234-238.
-[^108]: Franklin, *Poor Richard's Almanack* (1735).
-[^109]: Labaree, et al., eds., *The Papers of Benjamin Franklin*, Vol. 9, pp. 242-243.
-[^110]: Franklin, Benjamin. Letter to Jean-Baptiste Le Roy, November 13, 1789. In *The Papers of Benjamin Franklin*, Vol. 37, edited by Ellen R. Cohn, et al. Yale University Press, 2003, p. 262.
-[^111]: Farrand, ed., *The Records of the Federal Convention of 1787*, Vol. 2, p. 88n.
-[^112]: Labaree, et al., eds., *The Papers of Benjamin Franklin*, Vol. 6. Yale University Press, 1963, p. 238.
-[^113]: Franklin, *Poor Richard's Almanack* (1748).
-[^114]: Franklin, *Poor Richard's Almanack* (1746).
+
+[^106]: Worster, Donald. _Nature's Economy: A History of Ecological Ideas_. Cambridge University Press, 1994, pp. 56-60.
+
+[^107]: Merchant, Carolyn. _The Death of Nature: Women, Ecology, and the Scientific Revolution_. Harper & Row, 1980, pp. 234-238.
+
+[^108]: Franklin, _Poor Richard's Almanack_ (1735).
+
+[^109]: Labaree, et al., eds., _The Papers of Benjamin Franklin_, Vol. 9, pp. 242-243.
+
+[^110]: Franklin, Benjamin. Letter to Jean-Baptiste Le Roy, November 13, 1789. In _The Papers of Benjamin Franklin_, Vol. 37, edited by Ellen R. Cohn, et al. Yale University Press, 2003, p. 262.
+
+[^111]: Farrand, ed., _The Records of the Federal Convention of 1787_, Vol. 2, p. 88n.
+
+[^112]: Labaree, et al., eds., _The Papers of Benjamin Franklin_, Vol. 6. Yale University Press, 1963, p. 238.
+
+[^113]: Franklin, _Poor Richard's Almanack_ (1748).
+
+[^114]: Franklin, _Poor Richard's Almanack_ (1746).

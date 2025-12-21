@@ -123,31 +123,31 @@ Many Russians simply view Yeltsin as a weak and ineffective leader who was manip
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1931 | Born February 1 in Butka, Sverdlovsk Oblast |
+| Year | Event                                                                      |
+| ---- | -------------------------------------------------------------------------- |
+| 1931 | Born February 1 in Butka, Sverdlovsk Oblast                                |
 | 1955 | Graduated from Ural Polytechnic Institute with degree in civil engineering |
-| 1961 | Joined the Communist Party of the Soviet Union |
-| 1976 | Appointed First Secretary of Sverdlovsk Regional Committee |
-| 1985 | Brought to Moscow by Gorbachev; appointed Moscow party chief |
-| 1987 | Removed from Moscow party position after criticizing slow pace of reform |
-| 1989 | Elected to Congress of People's Deputies with 89% of vote |
-| 1990 | Elected Chairman of Russian Supreme Soviet (May 29) |
-| 1991 | Won Russia's first presidential election with 57% (June 12) |
-| 1991 | Stood on tank to resist August coup attempt (August 19) |
-| 1991 | Signed Belavezha Accords dissolving Soviet Union (December 8) |
-| 1991 | Became President of independent Russian Federation (December 25) |
-| 1992 | Launched shock therapy economic reforms (January 2) |
-| 1993 | Dissolved parliament, leading to armed conflict (September-October) |
-| 1993 | Ordered shelling of parliament building (October 4) |
+| 1961 | Joined the Communist Party of the Soviet Union                             |
+| 1976 | Appointed First Secretary of Sverdlovsk Regional Committee                 |
+| 1985 | Brought to Moscow by Gorbachev; appointed Moscow party chief               |
+| 1987 | Removed from Moscow party position after criticizing slow pace of reform   |
+| 1989 | Elected to Congress of People's Deputies with 89% of vote                  |
+| 1990 | Elected Chairman of Russian Supreme Soviet (May 29)                        |
+| 1991 | Won Russia's first presidential election with 57% (June 12)                |
+| 1991 | Stood on tank to resist August coup attempt (August 19)                    |
+| 1991 | Signed Belavezha Accords dissolving Soviet Union (December 8)              |
+| 1991 | Became President of independent Russian Federation (December 25)           |
+| 1992 | Launched shock therapy economic reforms (January 2)                        |
+| 1993 | Dissolved parliament, leading to armed conflict (September-October)        |
+| 1993 | Ordered shelling of parliament building (October 4)                        |
 | 1993 | New constitution adopted granting strong presidential powers (December 12) |
-| 1994 | Launched First Chechen War (December 11) |
-| 1996 | Suffered major heart attack but won reelection (June-July) |
-| 1996 | Underwent quintuple bypass surgery (November 5) |
-| 1996 | Chechnya peace deal signed, ending First Chechen War (August) |
-| 1998 | Russian financial crisis; ruble collapsed (August 17) |
-| 1999 | Resigned presidency, appointing Putin as successor (December 31) |
-| 2007 | Died April 23 in Moscow from heart failure |
+| 1994 | Launched First Chechen War (December 11)                                   |
+| 1996 | Suffered major heart attack but won reelection (June-July)                 |
+| 1996 | Underwent quintuple bypass surgery (November 5)                            |
+| 1996 | Chechnya peace deal signed, ending First Chechen War (August)              |
+| 1998 | Russian financial crisis; ruble collapsed (August 17)                      |
+| 1999 | Resigned presidency, appointing Putin as successor (December 31)           |
+| 2007 | Died April 23 in Moscow from heart failure                                 |
 
 ---
 
@@ -169,115 +169,226 @@ Many Russians simply view Yeltsin as a weak and ineffective leader who was manip
 
 ## References
 
-[^1]: Aron, Leon. *Yeltsin: A Revolutionary Life*. New York: St. Martin's Press, 2000, p. 3.
-[^2]: Colton, Timothy J. *Yeltsin: A Life*. New York: Basic Books, 2008, pp. 15-17.
-[^3]: Aron, *Yeltsin: A Revolutionary Life*, p. 45.
-[^4]: Yeltsin, Boris. *Against the Grain: An Autobiography*. New York: Summit Books, 1990, p. 23.
-[^5]: Colton, *Yeltsin: A Life*, pp. 28-29.
-[^6]: Aron, *Yeltsin: A Revolutionary Life*, p. 25.
-[^7]: Colton, *Yeltsin: A Life*, p. 35.
-[^8]: Aron, *Yeltsin: A Revolutionary Life*, pp. 32-40.
-[^9]: Colton, *Yeltsin: A Life*, p. 52.
-[^10]: Aron, *Yeltsin: A Revolutionary Life*, p. 56.
-[^11]: Colton, *Yeltsin: A Life*, pp. 85-90.
-[^12]: Massie, Suzanne. "The Palace of the Ipatiev." *The New York Times*, July 23, 1993.
-[^13]: Aron, *Yeltsin: A Revolutionary Life*, p. 123.
-[^14]: Gorbachev, Mikhail. *Memoirs*. New York: Doubleday, 1996, p. 237.
-[^15]: Colton, *Yeltsin: A Life*, pp. 135-142.
-[^16]: Aron, *Yeltsin: A Revolutionary Life*, pp. 154-160.
-[^17]: Morrison, John. *Boris Yeltsin: From Bolshevik to Democrat*. New York: Dutton, 1991, pp. 87-92.
-[^18]: Gorbachev, *Memoirs*, pp. 240-242.
-[^19]: Colton, *Yeltsin: A Life*, pp. 165-170.
-[^20]: Aron, *Yeltsin: A Revolutionary Life*, p. 285.
-[^21]: Colton, *Yeltsin: A Life*, p. 197.
-[^22]: Sakwa, Richard. *Russian Politics and Society*. 4th ed. London: Routledge, 2008, p. 28.
-[^23]: Remnick, David. *Lenin's Tomb: The Last Days of the Soviet Empire*. New York: Random House, 1993, pp. 445-490.
-[^24]: Aron, *Yeltsin: A Revolutionary Life*, pp. 425-430.
-[^25]: "Defiant Yeltsin Rallies Opposition." *The New York Times*, August 20, 1991.
-[^26]: Colton, *Yeltsin: A Life*, pp. 225-235.
-[^27]: Remnick, *Lenin's Tomb*, pp. 495-510.
-[^28]: Shen, Raphael. *The Restructuring of Romania's Economy: A Paradigm of Flexibility and Adaptability*. Westport: Praeger, 1997, p. 142.
-[^29]: "End of Soviet Union: Text of Gorbachev's Farewell Address." *The New York Times*, December 26, 1991.
-[^30]: Aslund, Anders. *Russia's Capitalist Revolution: Why Market Reform Succeeded and Democracy Failed*. Washington: Peterson Institute, 2007, pp. 54-58.
-[^31]: Gaidar, Yegor. *Collapse of an Empire: Lessons for Modern Russia*. Washington: Brookings Institution, 2007, p. 234.
-[^32]: Aslund, *Russia's Capitalist Revolution*, pp. 82-95.
-[^33]: Hoffman, David. *The Oligarchs: Wealth and Power in the New Russia*. New York: PublicAffairs, 2002, pp. 185-220.
-[^34]: Sakwa, *Russian Politics and Society*, pp. 46-52.
+[^1]: Aron, Leon. _Yeltsin: A Revolutionary Life_. New York: St. Martin's Press, 2000, p. 3.
+
+[^2]: Colton, Timothy J. _Yeltsin: A Life_. New York: Basic Books, 2008, pp. 15-17.
+
+[^3]: Aron, _Yeltsin: A Revolutionary Life_, p. 45.
+
+[^4]: Yeltsin, Boris. _Against the Grain: An Autobiography_. New York: Summit Books, 1990, p. 23.
+
+[^5]: Colton, _Yeltsin: A Life_, pp. 28-29.
+
+[^6]: Aron, _Yeltsin: A Revolutionary Life_, p. 25.
+
+[^7]: Colton, _Yeltsin: A Life_, p. 35.
+
+[^8]: Aron, _Yeltsin: A Revolutionary Life_, pp. 32-40.
+
+[^9]: Colton, _Yeltsin: A Life_, p. 52.
+
+[^10]: Aron, _Yeltsin: A Revolutionary Life_, p. 56.
+
+[^11]: Colton, _Yeltsin: A Life_, pp. 85-90.
+
+[^12]: Massie, Suzanne. "The Palace of the Ipatiev." _The New York Times_, July 23, 1993.
+
+[^13]: Aron, _Yeltsin: A Revolutionary Life_, p. 123.
+
+[^14]: Gorbachev, Mikhail. _Memoirs_. New York: Doubleday, 1996, p. 237.
+
+[^15]: Colton, _Yeltsin: A Life_, pp. 135-142.
+
+[^16]: Aron, _Yeltsin: A Revolutionary Life_, pp. 154-160.
+
+[^17]: Morrison, John. _Boris Yeltsin: From Bolshevik to Democrat_. New York: Dutton, 1991, pp. 87-92.
+
+[^18]: Gorbachev, _Memoirs_, pp. 240-242.
+
+[^19]: Colton, _Yeltsin: A Life_, pp. 165-170.
+
+[^20]: Aron, _Yeltsin: A Revolutionary Life_, p. 285.
+
+[^21]: Colton, _Yeltsin: A Life_, p. 197.
+
+[^22]: Sakwa, Richard. _Russian Politics and Society_. 4th ed. London: Routledge, 2008, p. 28.
+
+[^23]: Remnick, David. _Lenin's Tomb: The Last Days of the Soviet Empire_. New York: Random House, 1993, pp. 445-490.
+
+[^24]: Aron, _Yeltsin: A Revolutionary Life_, pp. 425-430.
+
+[^25]: "Defiant Yeltsin Rallies Opposition." _The New York Times_, August 20, 1991.
+
+[^26]: Colton, _Yeltsin: A Life_, pp. 225-235.
+
+[^27]: Remnick, _Lenin's Tomb_, pp. 495-510.
+
+[^28]: Shen, Raphael. _The Restructuring of Romania's Economy: A Paradigm of Flexibility and Adaptability_. Westport: Praeger, 1997, p. 142.
+
+[^29]: "End of Soviet Union: Text of Gorbachev's Farewell Address." _The New York Times_, December 26, 1991.
+
+[^30]: Aslund, Anders. _Russia's Capitalist Revolution: Why Market Reform Succeeded and Democracy Failed_. Washington: Peterson Institute, 2007, pp. 54-58.
+
+[^31]: Gaidar, Yegor. _Collapse of an Empire: Lessons for Modern Russia_. Washington: Brookings Institution, 2007, p. 234.
+
+[^32]: Aslund, _Russia's Capitalist Revolution_, pp. 82-95.
+
+[^33]: Hoffman, David. _The Oligarchs: Wealth and Power in the New Russia_. New York: PublicAffairs, 2002, pp. 185-220.
+
+[^34]: Sakwa, _Russian Politics and Society_, pp. 46-52.
+
 [^35]: Constitution of the Russian Federation, adopted December 12, 1993, Chapter 2.
-[^36]: McFaul, Michael. *Russia's Unfinished Revolution: Political Change from Gorbachev to Putin*. Ithaca: Cornell University Press, 2001, pp. 245-280.
-[^37]: Talbott, Strobe. *The Russia Hand: A Memoir of Presidential Diplomacy*. New York: Random House, 2002, pp. 45-62.
-[^38]: Goldgeier, James M., and Michael McFaul. *Power and Purpose: U.S. Policy Toward Russia After the Cold War*. Washington: Brookings Institution, 2003, pp. 87-115.
-[^39]: Clinton, Bill. *My Life*. New York: Alfred A. Knopf, 2004, pp. 510-512, 685-688.
-[^40]: Suny, Ronald Grigor. *The Soviet Experiment: Russia, the USSR, and the Successor States*. New York: Oxford University Press, 1998, pp. 486-490.
-[^41]: Cohen, Stephen F. *Failed Crusade: America and the Tragedy of Post-Communist Russia*. New York: W.W. Norton, 2000, pp. 45-78.
-[^42]: Stiglitz, Joseph. *Globalization and Its Discontents*. New York: W.W. Norton, 2002, pp. 133-165.
-[^43]: Milanovic, Branko. *Income, Inequality, and Poverty During the Transition from Planned to Market Economy*. Washington: World Bank, 1998, p. 68.
-[^44]: Shkolnikov, Vladimir, et al. "Mortality Reversal in Russia: The Story So Far." *Hygiea Internationalis* 4, no. 1 (2004): 29-80.
-[^45]: Hoffman, *The Oligarchs*, pp. 285-334.
-[^46]: Freeland, Chrystia. *Sale of the Century: Russia's Wild Ride from Communism to Capitalism*. New York: Crown Business, 2000, pp. 169-198.
-[^47]: Goldman, Marshall I. *The Piratization of Russia: Russian Reform Goes Awry*. London: Routledge, 2003.
-[^48]: Lieven, Anatol. *Chechnya: Tombstone of Russian Power*. New Haven: Yale University Press, 1998, pp. 82-106.
-[^49]: Politkovskaya, Anna. *A Small Corner of Hell: Dispatches from Chechnya*. Chicago: University of Chicago Press, 2003, pp. 12-15.
-[^50]: Gall, Carlotta, and Thomas de Waal. *Chechnya: Calamity in the Caucasus*. New York: New York University Press, 1998, pp. 195-245.
-[^51]: Evangelista, Matthew. *The Chechen Wars: Will Russia Go the Way of the Soviet Union?* Washington: Brookings Institution, 2002, pp. 45-72.
-[^52]: Huskey, Eugene. "The State-Legal Administration and the Politics of Redundancy." *Post-Soviet Affairs* 11, no. 2 (1995): 115-143.
-[^53]: Dunlop, John B. *Russia Confronts Chechnya: Roots of a Separatist Conflict*. Cambridge: Cambridge University Press, 1998, p. 189.
-[^54]: McFaul, *Russia's Unfinished Revolution*, pp. 216-225.
-[^55]: Fish, M. Steven. *Democracy Derailed in Russia: The Failure of Open Politics*. Cambridge: Cambridge University Press, 2005, pp. 154-178.
-[^56]: Colton, *Yeltsin: A Life*, pp. 348-351, 410-412.
-[^57]: Aron, *Yeltsin: A Revolutionary Life*, pp. 651-685.
-[^58]: Hoffman, *The Oligarchs*, pp. 388-420.
-[^59]: Kryshtanovskaya, Olga, and Stephen White. "Putin's Militocracy." *Post-Soviet Affairs* 19, no. 4 (2003): 289-306.
-[^60]: Colton, *Yeltsin: A Life*, p. 44.
-[^61]: "Naina Yeltsina, Russia's Former First Lady." *The Moscow Times*, January 15, 2015.
-[^62]: Colton, *Yeltsin: A Life*, p. 46.
-[^63]: Hoffman, *The Oligarchs*, pp. 401-405.
-[^64]: Aron, *Yeltsin: A Revolutionary Life*, pp. 8-15.
-[^65]: Colton, *Yeltsin: A Life*, pp. 253-258.
-[^66]: Yeltsin, Boris. *The Struggle for Russia*. New York: Times Books, 1994, pp. 156-160.
-[^67]: Aron, *Yeltsin: A Revolutionary Life*, p. 784.
-[^68]: Colton, *Yeltsin: A Life*, pp. 348-351.
-[^69]: "Yeltsin Has Heart Surgery." *The Washington Post*, November 6, 1996.
-[^70]: McFaul, *Russia's Unfinished Revolution*, pp. 298-302.
-[^71]: Aron, *Yeltsin: A Revolutionary Life*, pp. 425-430.
-[^72]: Plokhy, Serhii. *The Last Empire: The Final Days of the Soviet Union*. New York: Basic Books, 2014, pp. 285-320.
-[^73]: "Yeltsin Buries Czar, Pleading for Reconciliation." *The New York Times*, July 18, 1998.
-[^74]: Aron, *Yeltsin: A Revolutionary Life*, pp. 801-810.
-[^75]: "Yeltsin Center Opens in Yekaterinburg." *Radio Free Europe/Radio Liberty*, November 25, 2015.
+
+[^36]: McFaul, Michael. _Russia's Unfinished Revolution: Political Change from Gorbachev to Putin_. Ithaca: Cornell University Press, 2001, pp. 245-280.
+
+[^37]: Talbott, Strobe. _The Russia Hand: A Memoir of Presidential Diplomacy_. New York: Random House, 2002, pp. 45-62.
+
+[^38]: Goldgeier, James M., and Michael McFaul. _Power and Purpose: U.S. Policy Toward Russia After the Cold War_. Washington: Brookings Institution, 2003, pp. 87-115.
+
+[^39]: Clinton, Bill. _My Life_. New York: Alfred A. Knopf, 2004, pp. 510-512, 685-688.
+
+[^40]: Suny, Ronald Grigor. _The Soviet Experiment: Russia, the USSR, and the Successor States_. New York: Oxford University Press, 1998, pp. 486-490.
+
+[^41]: Cohen, Stephen F. _Failed Crusade: America and the Tragedy of Post-Communist Russia_. New York: W.W. Norton, 2000, pp. 45-78.
+
+[^42]: Stiglitz, Joseph. _Globalization and Its Discontents_. New York: W.W. Norton, 2002, pp. 133-165.
+
+[^43]: Milanovic, Branko. _Income, Inequality, and Poverty During the Transition from Planned to Market Economy_. Washington: World Bank, 1998, p. 68.
+
+[^44]: Shkolnikov, Vladimir, et al. "Mortality Reversal in Russia: The Story So Far." _Hygiea Internationalis_ 4, no. 1 (2004): 29-80.
+
+[^45]: Hoffman, _The Oligarchs_, pp. 285-334.
+
+[^46]: Freeland, Chrystia. _Sale of the Century: Russia's Wild Ride from Communism to Capitalism_. New York: Crown Business, 2000, pp. 169-198.
+
+[^47]: Goldman, Marshall I. _The Piratization of Russia: Russian Reform Goes Awry_. London: Routledge, 2003.
+
+[^48]: Lieven, Anatol. _Chechnya: Tombstone of Russian Power_. New Haven: Yale University Press, 1998, pp. 82-106.
+
+[^49]: Politkovskaya, Anna. _A Small Corner of Hell: Dispatches from Chechnya_. Chicago: University of Chicago Press, 2003, pp. 12-15.
+
+[^50]: Gall, Carlotta, and Thomas de Waal. _Chechnya: Calamity in the Caucasus_. New York: New York University Press, 1998, pp. 195-245.
+
+[^51]: Evangelista, Matthew. _The Chechen Wars: Will Russia Go the Way of the Soviet Union?_ Washington: Brookings Institution, 2002, pp. 45-72.
+
+[^52]: Huskey, Eugene. "The State-Legal Administration and the Politics of Redundancy." _Post-Soviet Affairs_ 11, no. 2 (1995): 115-143.
+
+[^53]: Dunlop, John B. _Russia Confronts Chechnya: Roots of a Separatist Conflict_. Cambridge: Cambridge University Press, 1998, p. 189.
+
+[^54]: McFaul, _Russia's Unfinished Revolution_, pp. 216-225.
+
+[^55]: Fish, M. Steven. _Democracy Derailed in Russia: The Failure of Open Politics_. Cambridge: Cambridge University Press, 2005, pp. 154-178.
+
+[^56]: Colton, _Yeltsin: A Life_, pp. 348-351, 410-412.
+
+[^57]: Aron, _Yeltsin: A Revolutionary Life_, pp. 651-685.
+
+[^58]: Hoffman, _The Oligarchs_, pp. 388-420.
+
+[^59]: Kryshtanovskaya, Olga, and Stephen White. "Putin's Militocracy." _Post-Soviet Affairs_ 19, no. 4 (2003): 289-306.
+
+[^60]: Colton, _Yeltsin: A Life_, p. 44.
+
+[^61]: "Naina Yeltsina, Russia's Former First Lady." _The Moscow Times_, January 15, 2015.
+
+[^62]: Colton, _Yeltsin: A Life_, p. 46.
+
+[^63]: Hoffman, _The Oligarchs_, pp. 401-405.
+
+[^64]: Aron, _Yeltsin: A Revolutionary Life_, pp. 8-15.
+
+[^65]: Colton, _Yeltsin: A Life_, pp. 253-258.
+
+[^66]: Yeltsin, Boris. _The Struggle for Russia_. New York: Times Books, 1994, pp. 156-160.
+
+[^67]: Aron, _Yeltsin: A Revolutionary Life_, p. 784.
+
+[^68]: Colton, _Yeltsin: A Life_, pp. 348-351.
+
+[^69]: "Yeltsin Has Heart Surgery." _The Washington Post_, November 6, 1996.
+
+[^70]: McFaul, _Russia's Unfinished Revolution_, pp. 298-302.
+
+[^71]: Aron, _Yeltsin: A Revolutionary Life_, pp. 425-430.
+
+[^72]: Plokhy, Serhii. _The Last Empire: The Final Days of the Soviet Union_. New York: Basic Books, 2014, pp. 285-320.
+
+[^73]: "Yeltsin Buries Czar, Pleading for Reconciliation." _The New York Times_, July 18, 1998.
+
+[^74]: Aron, _Yeltsin: A Revolutionary Life_, pp. 801-810.
+
+[^75]: "Yeltsin Center Opens in Yekaterinburg." _Radio Free Europe/Radio Liberty_, November 25, 2015.
+
 [^76]: Levada Center. "Russian Public Opinion 2017." Moscow: Levada Analytical Center, 2018, pp. 45-52.
-[^77]: Cohen, *Failed Crusade*, pp. 18-44.
+
+[^77]: Cohen, _Failed Crusade_, pp. 18-44.
+
 [^78]: Putin, Vladimir. "Annual Address to the Federal Assembly." April 25, 2005.
+
 [^79]: Yeltsin, Boris. "Resignation Address." December 31, 1999.
-[^80]: Gessen, Masha. *The Man Without a Face: The Unlikely Rise of Vladimir Putin*. New York: Riverhead Books, 2012.
-[^81]: McFaul, Michael. "The Putin Doctrine." *The Washington Post*, February 5, 2022.
-[^82]: Fish, *Democracy Derailed in Russia*, pp. 235-260.
-[^83]: Talbott, *The Russia Hand*, pp. 397-415.
-[^84]: Clinton, *My Life*, pp. 685-688.
-[^85]: Remnick, David. "Watching the Eclipse." *The New Yorker*, August 11, 2014.
-[^86]: McFaul, *Russia's Unfinished Revolution*, pp. 342-350.
-[^87]: Alexeyeva, Lyudmila, and Paul Goldberg. *The Thaw Generation: Coming of Age in the Post-Stalin Era*. Pittsburgh: University of Pittsburgh Press, 1993, pp. 285-290.
-[^88]: Aron, *Yeltsin: A Revolutionary Life*, p. 808.
-[^89]: Aslund, *Russia's Capitalist Revolution*, pp. 278-285.
-[^90]: McFaul, Michael. "Yeltsin's Revolution." *The Washington Post*, April 24, 2007.
-[^91]: Sakwa, *Russian Politics and Society*, pp. 82-88.
-[^92]: Treisman, Daniel. "Russia's Billionaires." *American Economic Review* 106, no. 5 (2016): 236-241.
-[^93]: Clinton, *My Life*, p. 512.
-[^94]: Kohl, Helmut. *Memoirs 1982-1990*. Munich: Droemer, 2005, p. 1043.
-[^95]: Gaidar, *Collapse of an Empire*, pp. 280-295.
-[^96]: "Lyudmila Alexeyeva Interview." *Novaya Gazeta*, December 5, 2013.
-[^97]: Cohen, *Failed Crusade*, p. 45.
-[^98]: Cohen, Stephen F. "The New American Cold War." *The Nation*, July 10, 2006.
+
+[^80]: Gessen, Masha. _The Man Without a Face: The Unlikely Rise of Vladimir Putin_. New York: Riverhead Books, 2012.
+
+[^81]: McFaul, Michael. "The Putin Doctrine." _The Washington Post_, February 5, 2022.
+
+[^82]: Fish, _Democracy Derailed in Russia_, pp. 235-260.
+
+[^83]: Talbott, _The Russia Hand_, pp. 397-415.
+
+[^84]: Clinton, _My Life_, pp. 685-688.
+
+[^85]: Remnick, David. "Watching the Eclipse." _The New Yorker_, August 11, 2014.
+
+[^86]: McFaul, _Russia's Unfinished Revolution_, pp. 342-350.
+
+[^87]: Alexeyeva, Lyudmila, and Paul Goldberg. _The Thaw Generation: Coming of Age in the Post-Stalin Era_. Pittsburgh: University of Pittsburgh Press, 1993, pp. 285-290.
+
+[^88]: Aron, _Yeltsin: A Revolutionary Life_, p. 808.
+
+[^89]: Aslund, _Russia's Capitalist Revolution_, pp. 278-285.
+
+[^90]: McFaul, Michael. "Yeltsin's Revolution." _The Washington Post_, April 24, 2007.
+
+[^91]: Sakwa, _Russian Politics and Society_, pp. 82-88.
+
+[^92]: Treisman, Daniel. "Russia's Billionaires." _American Economic Review_ 106, no. 5 (2016): 236-241.
+
+[^93]: Clinton, _My Life_, p. 512.
+
+[^94]: Kohl, Helmut. _Memoirs 1982-1990_. Munich: Droemer, 2005, p. 1043.
+
+[^95]: Gaidar, _Collapse of an Empire_, pp. 280-295.
+
+[^96]: "Lyudmila Alexeyeva Interview." _Novaya Gazeta_, December 5, 2013.
+
+[^97]: Cohen, _Failed Crusade_, p. 45.
+
+[^98]: Cohen, Stephen F. "The New American Cold War." _The Nation_, July 10, 2006.
+
 [^99]: Zyuganov, Gennady. "Russia and the Modern World." Speech to Communist Party congress, 2001.
+
 [^100]: Levada Center. "Russian Public Opinion 2017," pp. 48-50.
-[^101]: Gessen, *The Man Without a Face*, pp. 85-92.
-[^102]: McFaul, *Russia's Unfinished Revolution*, p. 315.
-[^103]: Politkovskaya, *A Small Corner of Hell*, pp. 8-15.
-[^104]: Human Rights Watch. *"Russia: Civilians Suffer in Chechen War."* February 1995.
+
+[^101]: Gessen, _The Man Without a Face_, pp. 85-92.
+
+[^102]: McFaul, _Russia's Unfinished Revolution_, p. 315.
+
+[^103]: Politkovskaya, _A Small Corner of Hell_, pp. 8-15.
+
+[^104]: Human Rights Watch. _"Russia: Civilians Suffer in Chechen War."_ February 1995.
+
 [^105]: Levada Center. "Russian Public Opinion 2017," p. 51.
-[^106]: Shevtsova, Lilia. *Yeltsin's Russia: Myths and Reality*. Washington: Carnegie Endowment, 1999, pp. 285-298.
-[^107]: "Yeltsin Defies Coup Plotters." *BBC News*, August 19, 1991.
-[^108]: Yeltsin, *Against the Grain*, p. 15.
+
+[^106]: Shevtsova, Lilia. _Yeltsin's Russia: Myths and Reality_. Washington: Carnegie Endowment, 1999, pp. 285-298.
+
+[^107]: "Yeltsin Defies Coup Plotters." _BBC News_, August 19, 1991.
+
+[^108]: Yeltsin, _Against the Grain_, p. 15.
+
 [^109]: Interview with David Frost, BBC, March 1992.
+
 [^110]: Speech at Conference on Security and Cooperation in Europe, December 5, 1994.
-[^111]: "Text of Yeltsin's Resignation Speech." *The New York Times*, December 31, 1999.
-[^112]: "Yeltsin Buries Czar, Pleading for Reconciliation." *The New York Times*, July 18, 1998.
+
+[^111]: "Text of Yeltsin's Resignation Speech." _The New York Times_, December 31, 1999.
+
+[^112]: "Yeltsin Buries Czar, Pleading for Reconciliation." _The New York Times_, July 18, 1998.

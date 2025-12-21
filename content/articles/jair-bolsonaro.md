@@ -150,26 +150,26 @@ Economists critical of Bolsonaro note that despite the pension reform, his admin
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1955 | Born March 21 in Glicério, São Paulo, Brazil |
-| 1973 | Entered Brazilian Army Preparatory School |
-| 1977 | Graduated from Military Academy of Agulhas Negras |
-| 1986 | Published article criticizing military salaries; briefly imprisoned |
-| 1988 | Elected as city councilor in Rio de Janeiro |
-| 1990 | Elected to federal Chamber of Deputies |
-| 2016 | Voted for impeachment of President Dilma Rousseff |
-| 2017 | Joined Social Liberal Party (PSL) |
-| 2018 | Stabbed during campaign rally (September 6) |
-| 2018 | Elected President of Brazil (October 28) |
-| 2019 | Inaugurated as 38th President of Brazil (January 1) |
-| 2019 | Pension reform approved by Congress (October) |
-| 2020 | COVID-19 pandemic begins in Brazil; Bolsonaro tests positive (July) |
-| 2021 | Brazilian Senate launches investigation into pandemic response |
-| 2022 | Lost presidential election to Lula da Silva (October 30) |
-| 2022 | Left office; departed to Florida, United States (December 30) |
-| 2023 | Supporters storm government buildings in Brasília (January 8) |
-| 2023 | Barred from running for office until 2030 by electoral court (June) |
+| Year | Event                                                                  |
+| ---- | ---------------------------------------------------------------------- |
+| 1955 | Born March 21 in Glicério, São Paulo, Brazil                           |
+| 1973 | Entered Brazilian Army Preparatory School                              |
+| 1977 | Graduated from Military Academy of Agulhas Negras                      |
+| 1986 | Published article criticizing military salaries; briefly imprisoned    |
+| 1988 | Elected as city councilor in Rio de Janeiro                            |
+| 1990 | Elected to federal Chamber of Deputies                                 |
+| 2016 | Voted for impeachment of President Dilma Rousseff                      |
+| 2017 | Joined Social Liberal Party (PSL)                                      |
+| 2018 | Stabbed during campaign rally (September 6)                            |
+| 2018 | Elected President of Brazil (October 28)                               |
+| 2019 | Inaugurated as 38th President of Brazil (January 1)                    |
+| 2019 | Pension reform approved by Congress (October)                          |
+| 2020 | COVID-19 pandemic begins in Brazil; Bolsonaro tests positive (July)    |
+| 2021 | Brazilian Senate launches investigation into pandemic response         |
+| 2022 | Lost presidential election to Lula da Silva (October 30)               |
+| 2022 | Left office; departed to Florida, United States (December 30)          |
+| 2023 | Supporters storm government buildings in Brasília (January 8)          |
+| 2023 | Barred from running for office until 2030 by electoral court (June)    |
 | 2024 | Federal police recommend criminal charges for attempted coup (ongoing) |
 
 ---

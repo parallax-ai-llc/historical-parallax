@@ -135,29 +135,29 @@ Scholarly critics note the contradiction between Vajpayee's personal moderate te
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1924 | Born on December 25 in Gwalior, Madhya Pradesh |
-| 1942 | Joined the Quit India Movement as a student activist |
-| 1947 | Became a full-time pracharak (volunteer) of the Rashtriya Swayamsevak Sangh |
-| 1951 | Joined the Bharatiya Jana Sangh (BJS) |
-| 1957 | First elected to the Lok Sabha from Balrampur constituency |
-| 1968 | Became president of the Bharatiya Jana Sangh |
-| 1975-1977 | Imprisoned during the Emergency; wrote "Kaidi Kavirai Ki Kundalian" |
-| 1977 | Appointed Minister of External Affairs in the Janata Party government |
-| 1980 | Co-founded the Bharatiya Janata Party; became its first president |
-| 1992 | Awarded Padma Vibhushan; Babri Masjid demolished on December 6 |
-| 1996 | Became Prime Minister for 13 days (May 16 - June 1) |
-| 1998 | Became Prime Minister again (March 19, 1998 - April 1999); conducted Pokhran-II nuclear tests in May |
-| 1999 | Traveled to Pakistan on Delhi-Lahore Bus; signed Lahore Declaration; Kargil War; re-elected for full term (October 13, 1999) |
-| 2000 | Hosted U.S. President Bill Clinton's state visit to India |
-| 2002 | Gujarat riots occurred; advised CM Modi to follow "raj dharma" |
-| 2003 | Launched Pravasi Bharatiya Samman and Overseas Citizenship initiative |
-| 2004 | Lost general elections; retired from active politics |
-| 2009 | Withdrew from public life due to declining health |
-| 2014 | Birthday declared as Good Governance Day by Modi government |
-| 2015 | Awarded Bharat Ratna, India's highest civilian honor |
-| 2018 | Died on August 16 at AIIMS, New Delhi, aged 93 |
+| Year      | Event                                                                                                                        |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1924      | Born on December 25 in Gwalior, Madhya Pradesh                                                                               |
+| 1942      | Joined the Quit India Movement as a student activist                                                                         |
+| 1947      | Became a full-time pracharak (volunteer) of the Rashtriya Swayamsevak Sangh                                                  |
+| 1951      | Joined the Bharatiya Jana Sangh (BJS)                                                                                        |
+| 1957      | First elected to the Lok Sabha from Balrampur constituency                                                                   |
+| 1968      | Became president of the Bharatiya Jana Sangh                                                                                 |
+| 1975-1977 | Imprisoned during the Emergency; wrote "Kaidi Kavirai Ki Kundalian"                                                          |
+| 1977      | Appointed Minister of External Affairs in the Janata Party government                                                        |
+| 1980      | Co-founded the Bharatiya Janata Party; became its first president                                                            |
+| 1992      | Awarded Padma Vibhushan; Babri Masjid demolished on December 6                                                               |
+| 1996      | Became Prime Minister for 13 days (May 16 - June 1)                                                                          |
+| 1998      | Became Prime Minister again (March 19, 1998 - April 1999); conducted Pokhran-II nuclear tests in May                         |
+| 1999      | Traveled to Pakistan on Delhi-Lahore Bus; signed Lahore Declaration; Kargil War; re-elected for full term (October 13, 1999) |
+| 2000      | Hosted U.S. President Bill Clinton's state visit to India                                                                    |
+| 2002      | Gujarat riots occurred; advised CM Modi to follow "raj dharma"                                                               |
+| 2003      | Launched Pravasi Bharatiya Samman and Overseas Citizenship initiative                                                        |
+| 2004      | Lost general elections; retired from active politics                                                                         |
+| 2009      | Withdrew from public life due to declining health                                                                            |
+| 2014      | Birthday declared as Good Governance Day by Modi government                                                                  |
+| 2015      | Awarded Bharat Ratna, India's highest civilian honor                                                                         |
+| 2018      | Died on August 16 at AIIMS, New Delhi, aged 93                                                                               |
 
 ---
 
@@ -182,112 +182,221 @@ Scholarly critics note the contradiction between Vajpayee's personal moderate te
 ## References
 
 [^1]: Britannica. "Atal Bihari Vajpayee | Indian Politician, BJP, Nuclear Tests, & Death." https://www.britannica.com/biography/Atal-Bihari-Vajpayee
+
 [^2]: Wikipedia. "Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee
+
 [^3]: BJP Official Website. "Shri Atal Bihari Vajpayee." https://www.bjp.org/shri-atal-bihari-vajpayee-56
+
 [^4]: PMIndia. "Shri Atal Bihari Vajpayee | Prime Minister of India." https://www.pmindia.gov.in/en/former_pm/shri-atal-bihari-vajpayee-2/
+
 [^5]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^6]: StudyIQ. "Atal Bihari Vajpayee Death Anniversary, Biography and Achievements." https://www.studyiq.com/articles/atal-bihari-vajpayee/
+
 [^7]: Elections.in. "Atal Bihari Vajpayee Biography - Age, Education, Family, Political Life." https://www.elections.in/political-leaders/atal-bihari-vajpayee.html
+
 [^8]: Vedantu. "Atal Bihari Vajpayee Biography - Life, Contributions and Achievements." https://www.vedantu.com/biography/atal-bihari-vajpayee-biography
+
 [^9]: Maps of India. "Atal Bihari Vajpayee: Biography, Early Days in Politics, Criticism & Awards." https://www.mapsofindia.com/who-is-who/government-politics/atal-bihari-vajpayee.html
+
 [^10]: BJP Gujarat. "Atal Bihari Vajpayee – BJP | Bharatiya Janata Party." https://bjpgujarat.org/atal-bihari-vajpayee/
+
 [^11]: Business Standard. "Who is Atal Bihari Vajpayee, Political Career, Bharat Ratna Award." https://www.business-standard.com/about/who-is-atal-bihari-vajpayee
+
 [^12]: KUEY Journal. "Atal Bihari Vajpayee Early Life, Political Career And..." https://kuey.net/index.php/kuey/article/download/8387/6285/16221
+
 [^13]: Rekhta. "All writings of Atal Bihari Vajpayee." https://www.rekhta.org/poets/atal-bihari-vajpayee/all
+
 [^14]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^15]: Wikipedia. "Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee
+
 [^16]: Britannica Kids. "Atal Bihari Vajpayee - Students | Homework Help." https://kids.britannica.com/students/article/Atal-Bihari-Vajpayee/313969
+
 [^17]: NextIAS. "Atal Bihari Vajpayee: A Statesman, Poet & Visionary Leader." https://www.nextias.com/blog/atal-bihari-vajpayee/
+
 [^18]: Archive PMO. "Former Prime Minister of India - Shri Atal Bihari Vajpayee." https://archivepmo.nic.in/abv/pmsprofile.php
+
 [^19]: Business Standard. "Atal Bihari Vajpayee, who liberally peppered his speeches with poetry." https://www.business-standard.com/article/politics/atal-bihari-vajpayee-who-liberally-peppered-his-speeches-with-poetry-118081601462_1.html
+
 [^20]: BJP Official Website. "Shri Atal Bihari Vajpayee." https://www.bjp.org/shri-atal-bihari-vajpayee-56
+
 [^21]: Vedantu. "List of Books and Poems by Atal Bihari Vajpayee." https://www.vedantu.com/general-knowledge/list-of-books-and-poetries-of-atal-bihari-vajpayee
+
 [^22]: Scribd. "Atal Bihari Vajpayee Kavita Sangraha | PDF." https://www.scribd.com/doc/15272285/Atal-Bihari-Vajpayee-Kavita-Sangraha
+
 [^23]: Wikipedia. "Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee
+
 [^24]: Britannica. "Atal Bihari Vajpayee | Indian Politician, BJP, Nuclear Tests, & Death." https://www.britannica.com/biography/Atal-Bihari-Vajpayee
+
 [^25]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^26]: PMIndia. "Shri Atal Bihari Vajpayee | Prime Minister of India." https://www.pmindia.gov.in/en/former_pm/shri-atal-bihari-vajpayee-2/
+
 [^27]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^28]: NextIAS. "Atal Bihari Vajpayee: A Statesman, Poet & Visionary Leader." https://www.nextias.com/blog/atal-bihari-vajpayee/
+
 [^29]: Britannica. "Atal Bihari Vajpayee | Indian Politician, BJP, Nuclear Tests, & Death." https://www.britannica.com/biography/Atal-Bihari-Vajpayee
+
 [^30]: Business Standard. "Who is Atal Bihari Vajpayee, Political Career, Bharat Ratna Award." https://www.business-standard.com/about/who-is-atal-bihari-vajpayee
+
 [^31]: NextIAS. "Atal Bihari Vajpayee: A Statesman, Poet & Visionary Leader." https://www.nextias.com/blog/atal-bihari-vajpayee/
+
 [^32]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^33]: PMIndia. "Shri Atal Bihari Vajpayee | Prime Minister of India." https://www.pmindia.gov.in/en/former_pm/shri-atal-bihari-vajpayee-2/
+
 [^34]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^35]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^36]: PMIndia. "Shri Atal Bihari Vajpayee | Prime Minister of India." https://www.pmindia.gov.in/en/former_pm/shri-atal-bihari-vajpayee-2/
+
 [^37]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^38]: The Tribune. "Babri Masjid to Gujarat riots, Vajpayee rose above ideology to speak his mind." https://www.tribuneindia.com/news/archive/nation/babri-masjid-to-gujarat-riots-vajpayee-rose-above-ideology-to-speak-his-mind-637929
+
 [^39]: The Wire. "Atal Bihari Vajpayee in 1992: 'What Happened on December 6 at Ayodhya Should Not Have Happened at All.'" https://m.thewire.in/article/communalism/atal-bihari-vajpayee-interview-ayodhya-1992
+
 [^40]: The Tribune. "Babri Masjid to Gujarat riots, Vajpayee rose above ideology to speak his mind." https://www.tribuneindia.com/news/archive/nation/babri-masjid-to-gujarat-riots-vajpayee-rose-above-ideology-to-speak-his-mind-637929
+
 [^41]: The Wire. "Atal Bihari Vajpayee in 1992: 'What Happened on December 6 at Ayodhya Should Not Have Happened at All.'" https://m.thewire.in/article/communalism/atal-bihari-vajpayee-interview-ayodhya-1992
+
 [^42]: ThePrint. "Babri to n-bomb, Atal Bihari Vajpayee was a man of twists and turns." https://theprint.in/theprint-profile/babri-to-n-bomb-atal-behari-vajpayee-was-a-man-of-twists-and-turns/2721966/
+
 [^43]: MythBuster. "The Other Side Of Atal Bihari Vajpayee." https://mythbusterx.wordpress.com/2020/05/25/the-other-side-of-atal-bihari-vajpayee/
+
 [^44]: The Tribune. "Babri Masjid to Gujarat riots, Vajpayee rose above ideology to speak his mind." https://www.tribuneindia.com/news/archive/nation/babri-masjid-to-gujarat-riots-vajpayee-rose-above-ideology-to-speak-his-mind-637929
+
 [^45]: MythBuster. "The Other Side Of Atal Bihari Vajpayee." https://mythbusterx.wordpress.com/2020/05/25/the-other-side-of-atal-bihari-vajpayee/
+
 [^46]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^47]: The Wire. "Mapping Atal Bihari Vajpayee's Public, Private and a Bit of Secret Life." https://m.thewire.in/article/books/mapping-atal-bihari-vajpayees-public-private-and-a-bit-of-secret-life
+
 [^48]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^49]: MythBuster. "The Other Side Of Atal Bihari Vajpayee." https://mythbusterx.wordpress.com/2020/05/25/the-other-side-of-atal-bihari-vajpayee/
+
 [^50]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^51]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^52]: The Wire. "Mapping Atal Bihari Vajpayee's Public, Private and a Bit of Secret Life." https://m.thewire.in/article/books/mapping-atal-bihari-vajpayees-public-private-and-a-bit-of-secret-life
+
 [^53]: The Wire. "Mapping Atal Bihari Vajpayee's Public, Private and a Bit of Secret Life." https://m.thewire.in/article/books/mapping-atal-bihari-vajpayees-public-private-and-a-bit-of-secret-life
+
 [^54]: India.com. "Maut se Than Gayi!: The Poet-Politician, Who Changed the Fabric of Indian Politics, Loses to Death." https://www.india.com/news/india/maut-se-than-gayi-the-poet-politician-who-changed-the-fabric-of-indian-politics-loses-to-death-3232415/
+
 [^55]: The Wire. "Mapping Atal Bihari Vajpayee's Public, Private and a Bit of Secret Life." https://m.thewire.in/article/books/mapping-atal-bihari-vajpayees-public-private-and-a-bit-of-secret-life
+
 [^56]: Vedantu. "List of Books and Poems by Atal Bihari Vajpayee." https://www.vedantu.com/general-knowledge/list-of-books-and-poetries-of-atal-bihari-vajpayee
+
 [^57]: The Quint. "Atal Bihari Vajpayee Death: Poetry in My Heart, Sangh in My Soul." https://www.thequint.com/news/politics/atal-bihari-vajpayee-passes-away-obituary
+
 [^58]: Business Standard. "Atal Bihari Vajpayee, who liberally peppered his speeches with poetry." https://www.business-standard.com/article/politics/atal-bihari-vajpayee-who-liberally-peppered-his-speeches-with-poetry-118081601462_1.html
+
 [^59]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^60]: Wikipedia. "Death and state funeral of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Atal_Bihari_Vajpayee
+
 [^61]: StudyIQ. "Atal Bihari Vajpayee Death Anniversary, Biography and Achievements." https://www.studyiq.com/articles/atal-bihari-vajpayee/
+
 [^62]: India.com. "Maut se Than Gayi!: The Poet-Politician, Who Changed the Fabric of Indian Politics, Loses to Death." https://www.india.com/news/india/maut-se-than-gayi-the-poet-politician-who-changed-the-fabric-of-indian-politics-loses-to-death-3232415/
+
 [^63]: The Tribune. "Babri Masjid to Gujarat riots, Vajpayee rose above ideology to speak his mind." https://www.tribuneindia.com/news/archive/nation/babri-masjid-to-gujarat-riots-vajpayee-rose-above-ideology-to-speak-his-mind-637929
+
 [^64]: Wikipedia. "Death and state funeral of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Atal_Bihari_Vajpayee
+
 [^65]: New World Encyclopedia. "Atal Bihari Vajpayee." https://www.newworldencyclopedia.org/entry/Atal_Bihari_Vajpayee
+
 [^66]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^67]: NextIAS. "Atal Bihari Vajpayee: A Statesman, Poet & Visionary Leader." https://www.nextias.com/blog/atal-bihari-vajpayee/
+
 [^68]: Britannica. "Atal Bihari Vajpayee | Indian Politician, BJP, Nuclear Tests, & Death." https://www.britannica.com/biography/Atal-Bihari-Vajpayee
+
 [^69]: PMIndia. "Shri Atal Bihari Vajpayee | Prime Minister of India." https://www.pmindia.gov.in/en/former_pm/shri-atal-bihari-vajpayee-2/
+
 [^70]: StudyIQ. "Atal Bihari Vajpayee Death Anniversary, Biography and Achievements." https://www.studyiq.com/articles/atal-bihari-vajpayee/
+
 [^71]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^72]: NextIAS. "Atal Bihari Vajpayee: A Statesman, Poet & Visionary Leader." https://www.nextias.com/blog/atal-bihari-vajpayee/
+
 [^73]: Wikipedia. "Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee
+
 [^74]: Business Standard. "Atal Bihari Vajpayee death anniversary; Know about his life, achievements." https://www.business-standard.com/india-news/atal-bihari-vajpayee-death-anniversary-know-about-his-life-achievements-124081601209_1.html
+
 [^75]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^76]: StudyIQ. "Atal Bihari Vajpayee Death Anniversary, Biography and Achievements." https://www.studyiq.com/articles/atal-bihari-vajpayee/
+
 [^77]: Wikipedia. "Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee
+
 [^78]: New World Encyclopedia. "Atal Bihari Vajpayee." https://www.newworldencyclopedia.org/entry/Atal_Bihari_Vajpayee
+
 [^79]: India Kishaan. "Atal Bihari Vajpayee Biography – Life, Leadership & Achievements." https://indiakishaan.com/politics/atal-bihari-vajpayee-biography
+
 [^80]: PMIndia. "Shri Atal Bihari Vajpayee | Prime Minister of India." https://www.pmindia.gov.in/en/former_pm/shri-atal-bihari-vajpayee-2/
+
 [^81]: The Tribune. "Babri Masjid to Gujarat riots, Vajpayee rose above ideology to speak his mind." https://www.tribuneindia.com/news/archive/nation/babri-masjid-to-gujarat-riots-vajpayee-rose-above-ideology-to-speak-his-mind-637929
+
 [^82]: The Tribune. "Babri Masjid to Gujarat riots, Vajpayee rose above ideology to speak his mind." https://www.tribuneindia.com/news/archive/nation/babri-masjid-to-gujarat-riots-vajpayee-rose-above-ideology-to-speak-his-mind-637929
+
 [^83]: Wikipedia. "Premiership of Atal Bihari Vajpayee." https://en.wikipedia.org/wiki/Premiership_of_Atal_Bihari_Vajpayee
+
 [^84]: NextIAS. "Atal Bihari Vajpayee: A Statesman, Poet & Visionary Leader." https://www.nextias.com/blog/atal-bihari-vajpayee/
+
 [^85]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^86]: Library of Congress. "Atal Bihari Vajpayee -- Hindi Poet: The South Asian Literary Recordings Project." https://www.loc.gov/acq/ovop/delhi/salrp/atalbiharivajpayee.html
+
 [^87]: BrainyQuote. "Atal Bihari Vajpayee Quotes." https://www.brainyquote.com/authors/atal-bihari-vajpayee-quotes
+
 [^88]: Library of Congress. "Atal Bihari Vajpayee -- Hindi Poet: The South Asian Literary Recordings Project." https://www.loc.gov/acq/ovop/delhi/salrp/atalbiharivajpayee.html
+
 [^89]: Business Standard. "Atal Bihari Vajpayee, who liberally peppered his speeches with poetry." https://www.business-standard.com/article/politics/atal-bihari-vajpayee-who-liberally-peppered-his-speeches-with-poetry-118081601462_1.html
+
 [^90]: India TV. "12 iconic quotes by Atal Bihari Vajpayee on his 95th birth anniversary." https://www.indiatvnews.com/news/india/atal-bihari-vajpaayee-95th-birth-aniversary-iconic-quotes-573671
+
 [^91]: The Wire. "Mapping Atal Bihari Vajpayee's Public, Private and a Bit of Secret Life." https://m.thewire.in/article/books/mapping-atal-bihari-vajpayees-public-private-and-a-bit-of-secret-life
+
 [^92]: ThePrint. "Babri to n-bomb, Atal Bihari Vajpayee was a man of twists and turns." https://theprint.in/theprint-profile/babri-to-n-bomb-atal-behari-vajpayee-was-a-man-of-twists-and-turns/2721966/
+
 [^93]: MythBuster. "The Other Side Of Atal Bihari Vajpayee." https://mythbusterx.wordpress.com/2020/05/25/the-other-side-of-atal-bihari-vajpayee/
+
 [^94]: The Wire. "Mapping Atal Bihari Vajpayee's Public, Private and a Bit of Secret Life." https://m.thewire.in/article/books/mapping-atal-bihari-vajpayees-public-private-and-a-bit-of-secret-life
+
 [^95]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^96]: World Socialist Web Site. "India's ruling party abetted communal carnage in Gujarat." https://www.wsws.org/en/articles/2002/03/ind-m05.html
+
 [^97]: PWOnlyIAS. "Atal Bihari Vajpayee Biography: Life, PM Tenure, Achievements, Legacy." https://pwonlyias.com/atal-bihari-vajpayee-biography/
+
 [^98]: MythBuster. "The Other Side Of Atal Bihari Vajpayee." https://mythbusterx.wordpress.com/2020/05/25/the-other-side-of-atal-bihari-vajpayee/
+
 [^99]: MythBuster. "The Other Side Of Atal Bihari Vajpayee." https://mythbusterx.wordpress.com/2020/05/25/the-other-side-of-atal-bihari-vajpayee/
+
 [^100]: National Herald India. "The significance of Atal Bihari Vajpayee." https://www.nationalheraldindia.com/obituary/the-significance-of-atal-bihari-vajpayee-2
+
 [^101]: National Herald India. "The significance of Atal Bihari Vajpayee." https://www.nationalheraldindia.com/obituary/the-significance-of-atal-bihari-vajpayee-2
+
 [^102]: The Wire. "Mapping Atal Bihari Vajpayee's Public, Private and a Bit of Secret Life." https://m.thewire.in/article/books/mapping-atal-bihari-vajpayees-public-private-and-a-bit-of-secret-life
+
 [^103]: The Tribune. "Babri Masjid to Gujarat riots, Vajpayee rose above ideology to speak his mind." https://www.tribuneindia.com/news/archive/nation/babri-masjid-to-gujarat-riots-vajpayee-rose-above-ideology-to-speak-his-mind-637929
+
 [^104]: ETV Bharat. "Atal Bihari Vajpayee Jayanti: 10 Inspiring Quotes By The Former Prime Minister Of India." https://www.etvbharat.com/en/!lifestyle/atal-bihari-vajpayee-jayanti-10-inspiring-quotes-for-daily-motivation-enn24122501833
+
 [^105]: India TV. "12 iconic quotes by Atal Bihari Vajpayee on his 95th birth anniversary." https://www.indiatvnews.com/news/india/atal-bihari-vajpaayee-95th-birth-aniversary-iconic-quotes-573671
+
 [^106]: BrainyQuote. "Atal Bihari Vajpayee Quotes." https://www.brainyquote.com/authors/atal-bihari-vajpayee-quotes
+
 [^107]: The Better India. "10 Profound Quotes That Reveal the Wordsmith in Atal Bihari Vajpayee on His 92nd Birthday." https://thebetterindia.com/79520/atal-bihari-vajpayee-quotes-92nd-birthday/
+
 [^108]: The Better India. "10 Profound Quotes That Reveal the Wordsmith in Atal Bihari Vajpayee on His 92nd Birthday." https://thebetterindia.com/79520/atal-bihari-vajpayee-quotes-92nd-birthday/
+
 [^109]: ETV Bharat. "Atal Bihari Vajpayee Jayanti: 10 Inspiring Quotes By The Former Prime Minister Of India." https://www.etvbharat.com/en/!lifestyle/atal-bihari-vajpayee-jayanti-10-inspiring-quotes-for-daily-motivation-enn24122501833
+
 [^110]: ETV Bharat. "Atal Bihari Vajpayee Jayanti: 10 Inspiring Quotes By The Former Prime Minister Of India." https://www.etvbharat.com/en/!lifestyle/atal-bihari-vajpayee-jayanti-10-inspiring-quotes-for-daily-motivation-enn24122501833

@@ -149,26 +149,26 @@ The appropriation of Charles's memory by modern far-right, white nationalist, an
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 688 | Birth of Charles Martel, illegitimate son of Pepin of Herstal and Alpaida |
-| 714 | Death of Pepin of Herstal; Charles imprisoned by his stepmother Plectrude |
-| 715 | Charles escapes prison; acclaimed as Mayor of Palace of Austrasia; civil war begins |
-| 716 | Victory over Neustrians at Battle of Amblève near Liège |
-| 717 | Decisive victory at Battle of Vinchy near Cambrai on March 21 |
-| 718 | Consolidates control over Neustria; raids Saxon territories to Weser River |
-| 719 | Defeats Raganfrid at Soissons; becomes sole Mayor of Palace for reunified Francia |
-| 723 | Provides protection to St. Boniface for missionary work in Germany |
-| 725 | Marries Swanhild, Bavarian princess (second wife) |
-| 731 | Invades Aquitaine twice, forcing Duke Odo to submit |
-| 732 | Victory over Umayyad forces at Battle of Tours (October 10); earns sobriquet "Martel" (the Hammer) |
-| 733 | Begins campaigns in Burgundy; occupies Lyon |
-| 735 | Death of Duke Odo of Aquitaine; Charles extends control over region |
-| 736 | First campaign into Septimania against Muslim forces |
-| 737 | Completes conquest of Burgundy and Provence; no longer appoints Merovingian king |
-| 738 | Forces Saxons of Westphalia to submit and pay tribute |
-| 739 | Second campaign into Septimania; Pope Gregory III seeks his aid against Lombards (Charles refuses) |
-| 741 | Dies at Quierzy-sur-Oise on October 22; divides kingdom between sons Pepin and Carloman |
+| Year   | Event                                                                                              |
+| ------ | -------------------------------------------------------------------------------------------------- |
+| c. 688 | Birth of Charles Martel, illegitimate son of Pepin of Herstal and Alpaida                          |
+| 714    | Death of Pepin of Herstal; Charles imprisoned by his stepmother Plectrude                          |
+| 715    | Charles escapes prison; acclaimed as Mayor of Palace of Austrasia; civil war begins                |
+| 716    | Victory over Neustrians at Battle of Amblève near Liège                                            |
+| 717    | Decisive victory at Battle of Vinchy near Cambrai on March 21                                      |
+| 718    | Consolidates control over Neustria; raids Saxon territories to Weser River                         |
+| 719    | Defeats Raganfrid at Soissons; becomes sole Mayor of Palace for reunified Francia                  |
+| 723    | Provides protection to St. Boniface for missionary work in Germany                                 |
+| 725    | Marries Swanhild, Bavarian princess (second wife)                                                  |
+| 731    | Invades Aquitaine twice, forcing Duke Odo to submit                                                |
+| 732    | Victory over Umayyad forces at Battle of Tours (October 10); earns sobriquet "Martel" (the Hammer) |
+| 733    | Begins campaigns in Burgundy; occupies Lyon                                                        |
+| 735    | Death of Duke Odo of Aquitaine; Charles extends control over region                                |
+| 736    | First campaign into Septimania against Muslim forces                                               |
+| 737    | Completes conquest of Burgundy and Provence; no longer appoints Merovingian king                   |
+| 738    | Forces Saxons of Westphalia to submit and pay tribute                                              |
+| 739    | Second campaign into Septimania; Pope Gregory III seeks his aid against Lombards (Charles refuses) |
+| 741    | Dies at Quierzy-sur-Oise on October 22; divides kingdom between sons Pepin and Carloman            |
 
 ---
 
@@ -187,147 +187,291 @@ The appropriation of Charles's memory by modern far-right, white nationalist, an
 ## References
 
 [^1]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^2]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^3]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^4]: Carolingian Dynasty - World History Encyclopedia. https://www.worldhistory.org/Carolingian_Dynasty/
+
 [^5]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^6]: Britannica. "Charles Martel summary." https://www.britannica.com/summary/Charles-Martel
+
 [^7]: Mayor of the Palace - Wikipedia. https://en.wikipedia.org/wiki/Mayor_of_the_palace
+
 [^8]: Heritage History. "Charles Martel." https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=martel
+
 [^9]: History Medieval. "Medieval History – Charles Martel: Defender of the Faith." https://historymedieval.com/charles-martel-defender-of-the-faith/
+
 [^10]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^11]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^12]: Study.com. "Charles Martel & the Battle of Tours | Biography & Legacy - Lesson." https://study.com/learn/lesson/charles-martel.html
+
 [^13]: History Hit. "Charles Martel: A Heroic Leader of Medieval Europe." https://www.historyhit.com/who-was-charles-martel/
+
 [^14]: Medieval Reporter. "Charles Martel: The Powerful Prince Who Beat Jihad." https://medievalreporter.com/charles-martel/
+
 [^15]: Encyclopedia.com. "Charles Martel." https://www.encyclopedia.com/people/history/french-history-biographies/charles-martel
+
 [^16]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^17]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^18]: History Skills. "Charles Martel and the defense of Europe at the Battle of Tours." https://www.historyskills.com/classroom/ancient-history/charles-martel/
+
 [^19]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^20]: The Famous People. "Charles Martel Biography – Facts, Childhood, Family Life, Achievements & Timeline." https://www.thefamouspeople.com/profiles/charles-martel-36864.php
+
 [^21]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^22]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^23]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^24]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^25]: Study.com. "Charles Martel & the Battle of Tours | Biography & Legacy." https://study.com/learn/lesson/charles-martel.html
+
 [^26]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^27]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^28]: Lumen Learning. "Charles Martel and Pepin the Short | Western Civilization." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/charles-martel-and-pepin-the-short/
+
 [^29]: History Hit. "Charles Martel: A Heroic Leader of Medieval Europe." https://www.historyhit.com/who-was-charles-martel/
+
 [^30]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^31]: Britannica. "Battle of Tours | Facts, History, & Importance." https://www.britannica.com/event/Battle-of-Tours-732
+
 [^32]: EBSCO Research. "Battle of Tours | Research Starters." https://www.ebsco.com/research-starters/military-history-and-science/battle-tours
+
 [^33]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^34]: The Latin Library. "Battle of Tours (732 A.D.)." https://www.thelatinlibrary.com/imperialism/notes/tours.html
+
 [^35]: Battle Merchant. "The Battle of Tours 732: How Charles Martel Saved Europe from Islamic Expansion." https://www.battlemerchant.com/en/blog/the-battle-of-tours-732-how-charles-martel-saved-europe-from-islamic-expansion
+
 [^36]: History Collection. "Here's How Charles 'the Hammer' Martel Saved Europe From a Muslim Invasion in 732 AD." https://historycollection.com/heres-charles-hammer-martel-saved-europe-muslim-invasion-732-ad/
+
 [^37]: Warfare History Network. "Charles The Hammer At Tours." https://warfarehistorynetwork.com/article/charles-the-hammer-at-tours/
+
 [^38]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^39]: World History Encyclopedia. "The Legacy of Charles Martel & the Battle of Tours." https://www.worldhistory.org/article/1809/the-legacy-of-charles-martel--the-battle-of-tours/
+
 [^40]: Study.com. "Charles Martel & the Battle of Tours | Biography & Legacy." https://study.com/learn/lesson/charles-martel.html
+
 [^41]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^42]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^43]: Britannica. "Battle of Tours | Facts, History, & Importance." https://www.britannica.com/event/Battle-of-Tours-732
+
 [^44]: The Latin Library. "Battle of Tours (732 A.D.)." https://www.thelatinlibrary.com/imperialism/notes/tours.html
+
 [^45]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^46]: History Tools. "Charles Martel: The Hammer of the Franks Who Forged Medieval Europe." https://www.historytools.org/stories/charles-martel-the-hammer-of-the-franks-who-forged-medieval-europe
+
 [^47]: Saber and Scroll. "Charles Martel Turns South: The Hammer's Campaigns in Southern France 733-737." https://saberandscroll.scholasticahq.com/api/v1/articles/28714-charles-martel-turns-south-the-hammer-s-campaigns-in-southern-france-733-737.pdf
+
 [^48]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^49]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^50]: History Tools. "Charles Martel: The Hammer of the Franks Who Forged Medieval Europe." https://www.historytools.org/stories/charles-martel-the-hammer-of-the-franks-who-forged-medieval-europe
+
 [^51]: Military Wiki. "Charles Martel." https://military-history.fandom.com/wiki/Charles_Martel
+
 [^52]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^53]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^54]: History Skills. "Charles Martel and the defense of Europe at the Battle of Tours." https://www.historyskills.com/classroom/ancient-history/charles-martel/
+
 [^55]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^56]: Fiveable. "Charles 'The Hammer' Martel Definition - AP World History: Modern Key Term." https://fiveable.me/key-terms/ap-world/charles-the-hammer-martel
+
 [^57]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^58]: History Medieval. "Medieval History – Charles Martel: Defender of the Faith." https://historymedieval.com/charles-martel-defender-of-the-faith/
+
 [^59]: Birmiss. "Karl Martell: a brief biography, reforms and activities. The military reform of Charles Martel." https://en.birmiss.com/karl-martell-a-brief-biography-reforms-and-activities-the-military-reform-of-charles-martel/
+
 [^60]: Feudal Hierarchy Explained | Illuminating Facts. https://illuminatingfacts.com/feudal-hierarchy-explained/
+
 [^61]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^62]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^63]: EWTN. "Charles Martel." https://www.ewtn.com/catholicism/library/charles-martel-10509
+
 [^64]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^65]: Encyclopedia.com. "Charles Martel." https://www.encyclopedia.com/people/history/french-history-biographies/charles-martel
+
 [^66]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^67]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^68]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^69]: EWTN. "Charles Martel." https://www.ewtn.com/catholicism/library/charles-martel-10509
+
 [^70]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^71]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^72]: Encyclopedia.com. "Charles Martel." https://www.encyclopedia.com/people/history/french-history-biographies/charles-martel
+
 [^73]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^74]: EBSCO Research. "Battle of Tours | Research Starters." https://www.ebsco.com/research-starters/military-history-and-science/battle-tours
+
 [^75]: History Medieval. "Medieval History – Charles Martel: Defender of the Faith." https://historymedieval.com/charles-martel-defender-of-the-faith/
+
 [^76]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^77]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^78]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^79]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^80]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^81]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^82]: War on the Rocks. "The Sword and the Swastika: How a Medieval Warlord Became a Fascist Icon." https://warontherocks.com/2016/11/the-sword-and-the-swastika-how-a-medieval-warlord-became-a-fascist-icon/
+
 [^83]: Cambridge Forecast Group Blog. "CHARLES MARTEL AND THE ROOTS OF ISLAMOPHOBIA." https://cambridgeforecast.wordpress.com/2006/10/01/charles-martel-the-roots-of-islamophobia/
+
 [^84]: War on the Rocks. "The Sword and the Swastika: How a Medieval Warlord Became a Fascist Icon." https://warontherocks.com/2016/11/the-sword-and-the-swastika-how-a-medieval-warlord-became-a-fascist-icon/
+
 [^85]: Cambridge Forecast Group Blog. "CHARLES MARTEL AND THE ROOTS OF ISLAMOPHOBIA." https://cambridgeforecast.wordpress.com/2006/10/01/charles-martel-the-roots-of-islamophobia/
+
 [^86]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^87]: Geni. "Charles 'Martel', Mayor of the Palace (676 - 741)." https://www.geni.com/people/Charles-Martel/288390320120001964
+
 [^88]: Rootsweb. "Family of Charles + MARTEL and Rotrude + of AUSTRASIA." http://freepages.rootsweb.com/~dearbornboutwell/genealogy/fam733.html
+
 [^89]: The Famous People. "Charles Martel Biography – Facts, Childhood, Family Life, Achievements & Timeline." https://www.thefamouspeople.com/profiles/charles-martel-36864.php
+
 [^90]: Familypedia. "Charles Martel (686-741)." https://familypedia.fandom.com/wiki/Charles_Martel_(686-741)
+
 [^91]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^92]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^93]: History Hit. "Charles Martel: A Heroic Leader of Medieval Europe." https://www.historyhit.com/who-was-charles-martel/
+
 [^94]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^95]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^96]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^97]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^98]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^99]: History Medieval. "Medieval History – Charles Martel: Defender of the Faith." https://historymedieval.com/charles-martel-defender-of-the-faith/
+
 [^100]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^101]: Lumen Learning. "Charles Martel and Pepin the Short | Western Civilization." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/charles-martel-and-pepin-the-short/
+
 [^102]: Wikipedia. "Pepin the Short." https://en.wikipedia.org/wiki/Pepin_the_Short
+
 [^103]: Carolingian Dynasty - World History Encyclopedia. https://www.worldhistory.org/Carolingian_Dynasty/
+
 [^104]: Wikipedia. "Charlemagne." https://en.wikipedia.org/wiki/Charlemagne
+
 [^105]: History Tools. "Charles Martel: The Hammer of the Franks Who Forged Medieval Europe." https://www.historytools.org/stories/charles-martel-the-hammer-of-the-franks-who-forged-medieval-europe
+
 [^106]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^107]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^108]: Fiveable. "Charles 'The Hammer' Martel Definition - AP World History: Modern Key Term." https://fiveable.me/key-terms/ap-world/charles-the-hammer-martel
+
 [^109]: Battle Merchant. "The Battle of Tours 732: How Charles Martel Saved Europe from Islamic Expansion." https://www.battlemerchant.com/en/blog/the-battle-of-tours-732-how-charles-martel-saved-europe-from-islamic-expansion
+
 [^110]: World History Encyclopedia. "The Legacy of Charles Martel & the Battle of Tours." https://www.worldhistory.org/article/1809/the-legacy-of-charles-martel--the-battle-of-tours/
+
 [^111]: Quote.org. "Charles Martel." https://quote.org/author/charles_martel
+
 [^112]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^113]: ScienceDirect. "The Carolingians, the Church, and the medieval constitution." https://www.sciencedirect.com/science/article/abs/pii/S0362331918301113
+
 [^114]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^115]: History Hit. "Charles Martel: A Heroic Leader of Medieval Europe." https://www.historyhit.com/who-was-charles-martel/
+
 [^116]: The Latin Library. "Battle of Tours (732 A.D.)." https://www.thelatinlibrary.com/imperialism/notes/tours.html
+
 [^117]: Britannica. "Battle of Tours | Facts, History, & Importance." https://www.britannica.com/event/Battle-of-Tours-732
+
 [^118]: History Tools. "Charles Martel: The Hammer of the Franks Who Forged Medieval Europe." https://www.historytools.org/stories/charles-martel-the-hammer-of-the-franks-who-forged-medieval-europe
+
 [^119]: EBSCO Research. "Charles Martel | Research Starters." https://www.ebsco.com/research-starters/biography/charles-martel
+
 [^120]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^121]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^122]: EWTN. "Charles Martel." https://www.ewtn.com/catholicism/library/charles-martel-10509
+
 [^123]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^124]: Warfare History Network. "Charles The Hammer At Tours." https://warfarehistorynetwork.com/article/charles-the-hammer-at-tours/
+
 [^125]: The Warrior Index. "Charles Martel — The Hammer Who Stopped an Empire at the Battle of Tours." https://www.thewarriorindex.com/warriors/charlesmartel
+
 [^126]: Birmiss. "Karl Martell: a brief biography, reforms and activities. The military reform of Charles Martel." https://en.birmiss.com/karl-martell-a-brief-biography-reforms-and-activities-the-military-reform-of-charles-martel/
+
 [^127]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^128]: History Medieval. "Medieval History – Charles Martel: Defender of the Faith." https://historymedieval.com/charles-martel-defender-of-the-faith/
+
 [^129]: EBSCO Research. "Battle of Tours | Research Starters." https://www.ebsco.com/research-starters/military-history-and-science/battle-tours
+
 [^130]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^131]: Encyclopedia.com. "Charles Martel." https://www.encyclopedia.com/people/history/french-history-biographies/charles-martel
+
 [^132]: CATHOLIC ENCYCLOPEDIA. "Charles Martel." https://www.newadvent.org/cathen/03629a.htm
+
 [^133]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^134]: Encyclopedia.com. "Charles Martel." https://www.encyclopedia.com/people/history/french-history-biographies/charles-martel
+
 [^135]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^136]: Wikipedia. "Charles Martel." https://en.wikipedia.org/wiki/Charles_Martel
+
 [^137]: Britannica. "Charles Martel | Biography, Accomplishments, & Facts." https://www.britannica.com/biography/Charles-Martel
+
 [^138]: History Skills. "Charles Martel and the defense of Europe at the Battle of Tours." https://www.historyskills.com/classroom/ancient-history/charles-martel/
+
 [^139]: War on the Rocks. "The Sword and the Swastika: How a Medieval Warlord Became a Fascist Icon." https://warontherocks.com/2016/11/the-sword-and-the-swastika-how-a-medieval-warlord-became-a-fascist-icon/
+
 [^140]: Cambridge Forecast Group Blog. "CHARLES MARTEL AND THE ROOTS OF ISLAMOPHOBIA." https://cambridgeforecast.wordpress.com/2006/10/01/charles-martel-the-roots-of-islamophobia/
+
 [^141]: Battle of Tours - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Tours
+
 [^142]: Quote.org. "Charles Martel - Do not march or precipitate your attack. The..." https://quote.org/quote/do-not-march-or-precipitate-your-attack-637336
+
 [^143]: Quote.org. "Charles Martel." https://quote.org/author/charles_martel
+
 [^144]: Warfare History Network. "Charles The Hammer At Tours." https://warfarehistorynetwork.com/article/charles-the-hammer-at-tours/
+
 [^145]: EWTN. "Charles Martel." https://www.ewtn.com/catholicism/library/charles-martel-10509

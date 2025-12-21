@@ -61,6 +61,7 @@ Who fired the missiles remains disputed—RPF or Hutu extremists—but the event
 ### Day One: April 7, 1994
 
 **Within hours:**
+
 - Presidential Guard and Interahamwe militia activated
 - Roadblocks set up across Kigali
 - Lists of targets distributed
@@ -72,18 +73,21 @@ Who fired the missiles remains disputed—RPF or Hutu extremists—but the event
 ### The Mechanism of Murder
 
 **Radio Télévision Libre des Mille Collines (RTLM):**
+
 - Called Tutsis "inyenzi" (cockroaches) and "inzoka" (snakes)
 - Broadcast names and addresses of targets
 - Encouraged Hutus to "cut down the tall trees"
 - Promised that Tutsi property could be seized by killers
 
 **Interahamwe ("Those Who Attack Together"):**
+
 - Youth militia trained for months
 - Estimated 30,000 members
 - Distributed machetes, clubs, and firearms
 - Set up roadblocks checking identity cards
 
 **Church complicity:**
+
 - Many churches became killing sites
 - Priests and nuns in some cases betrayed those seeking sanctuary
 - Nyamata Church: 10,000 murdered
@@ -92,6 +96,7 @@ Who fired the missiles remains disputed—RPF or Hutu extremists—but the event
 ### Methods
 
 The genocide was carried out primarily with:
+
 - **Machetes** (most common)
 - **Clubs with nails (masus)**
 - **Agricultural tools**
@@ -103,6 +108,7 @@ Bullets were expensive; machetes were cheap. The intimacy of the killing—face 
 ### Sexual Violence
 
 Rape was systematically used as a weapon:
+
 - **250,000-500,000 women raped**
 - Many deliberately infected with HIV
 - Sexual violence as "ethnic weapon"—children born of rape would be "Hutu"
@@ -111,6 +117,7 @@ Rape was systematically used as a weapon:
 ### International Failure
 
 **United Nations:**
+
 - UNAMIR (UN peacekeeping mission) had 2,500 troops
 - Commander Romeo Dallaire warned of impending genocide months in advance
 - After 10 Belgian peacekeepers killed, Belgium withdrew
@@ -118,11 +125,13 @@ Rape was systematically used as a weapon:
 - Dallaire begged for reinforcements; was refused
 
 **United States:**
+
 - Clinton administration avoided word "genocide" (which would trigger obligation under 1948 Convention)
 - Officials used euphemism "acts of genocide"
 - No significant intervention
 
 **France:**
+
 - Had supported Habyarimana regime for years
 - Trained and armed government forces
 - "Operation Turquoise" in June—ostensibly humanitarian, but allowed génocidaires to escape to DRC
@@ -134,11 +143,13 @@ Rape was systematically used as a weapon:
 ## Death Toll
 
 **Estimates vary:**
+
 - Conservative scholarly estimate: 500,000-662,000 Tutsi victims
 - Rwandan government figure: over 1,000,000 total
 - Approximately **75% of all Tutsis in Rwanda were killed**
 
 **Additional casualties:**
+
 - 10,000+ Twa (third ethnic group)
 - 10,000-30,000 moderate Hutus
 - 2 million refugees fled the country
@@ -150,31 +161,31 @@ Rape was systematically used as a weapon:
 
 ### Architects of Genocide
 
-| Name | Role |
-|------|------|
-| Théoneste Bagosora | Colonel; "architect" of genocide |
-| Ferdinand Nahimana | Director of RTLM; hate radio |
-| Jean Kambanda | Interim Prime Minister during genocide |
-| Interahamwe | Primary militia force |
+| Name               | Role                                   |
+| ------------------ | -------------------------------------- |
+| Théoneste Bagosora | Colonel; "architect" of genocide       |
+| Ferdinand Nahimana | Director of RTLM; hate radio           |
+| Jean Kambanda      | Interim Prime Minister during genocide |
+| Interahamwe        | Primary militia force                  |
 
 ### Victims
 
-| Name | Significance |
-|------|--------------|
-| Agathe Uwilingiyimana | Moderate Hutu PM; first targeted victim |
-| 10 Belgian peacekeepers | Murdered on Day 1 |
+| Name                    | Significance                            |
+| ----------------------- | --------------------------------------- |
+| Agathe Uwilingiyimana   | Moderate Hutu PM; first targeted victim |
+| 10 Belgian peacekeepers | Murdered on Day 1                       |
 
 ### Witnesses/Interveners
 
-| Name | Role |
-|------|------|
-| Romeo Dallaire | Canadian general; UN commander; tried to warn world |
+| Name              | Role                                                                    |
+| ----------------- | ----------------------------------------------------------------------- |
+| Romeo Dallaire    | Canadian general; UN commander; tried to warn world                     |
 | Paul Rusesabagina | Hotel manager who sheltered 1,268 refugees (depicted in "Hotel Rwanda") |
 
 ### RPF Leadership
 
-| Name | Role |
-|------|------|
+| Name        | Role                                           |
+| ----------- | ---------------------------------------------- |
 | Paul Kagame | RPF commander; ended genocide; later president |
 
 ---
@@ -208,12 +219,14 @@ As RPF advanced, 2 million Hutus fled—many fearing RPF retribution, others gui
 ### Justice
 
 **International Criminal Tribunal for Rwanda (ICTR):**
+
 - Established by UN in November 1994
 - Prosecuted senior leaders
 - First international conviction for genocide since Nuremberg
 - Jean Kambanda: first head of government convicted of genocide
 
 **Gacaca Courts:**
+
 - Traditional community justice adapted for mass prosecutions
 - 1.2 million suspects—far too many for conventional trials
 - Emphasis on confession, truth-telling, reconciliation
@@ -224,6 +237,7 @@ As RPF advanced, 2 million Hutus fled—many fearing RPF retribution, others gui
 ### Reconciliation
 
 Rwanda pursued a controversial path:
+
 - **Ethnic identity abolished:** No more Hutu, Tutsi, Twa on ID cards
 - **Narrative control:** Government-imposed unity ideology
 - **Economic development:** Remarkable growth under Kagame
@@ -232,6 +246,7 @@ Rwanda pursued a controversial path:
 ### Regional Consequences
 
 The genocide had devastating effects beyond Rwanda:
+
 - **First Congo War (1996-1997):** RPF-backed forces invaded Zaire
 - **Second Congo War (1998-2003):** "Africa's World War"—5 million dead
 - **Ongoing instability:** Eastern DRC remains contested; Hutu militias active
@@ -286,44 +301,63 @@ Similar dynamics would recur in Srebrenica (1995), Darfur (2003-2004), and elsew
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1926 | Belgians introduce ethnic identity cards |
-| 1959-1962 | Hutu Revolution; Tutsi massacres and exile |
-| October 1990 | RPF invasion begins civil war |
-| August 1993 | Arusha Accords signed |
-| April 6, 1994 | Presidential plane shot down |
-| April 7, 1994 | Genocide begins; PM Uwilingiyimana murdered |
-| April 21, 1994 | UN reduces peacekeeping force to 270 |
-| April-July 1994 | 100 days of genocide |
-| July 4, 1994 | RPF captures Kigali |
-| July 18, 1994 | Ceasefire declared; genocide ends |
-| November 1994 | ICTR established |
-| 1998 | Jean Kambanda sentenced to life |
-| 2002-2012 | Gacaca courts process 1.2 million cases |
-| 2024 | 30th anniversary of genocide |
+| Date            | Event                                       |
+| --------------- | ------------------------------------------- |
+| 1926            | Belgians introduce ethnic identity cards    |
+| 1959-1962       | Hutu Revolution; Tutsi massacres and exile  |
+| October 1990    | RPF invasion begins civil war               |
+| August 1993     | Arusha Accords signed                       |
+| April 6, 1994   | Presidential plane shot down                |
+| April 7, 1994   | Genocide begins; PM Uwilingiyimana murdered |
+| April 21, 1994  | UN reduces peacekeeping force to 270        |
+| April-July 1994 | 100 days of genocide                        |
+| July 4, 1994    | RPF captures Kigali                         |
+| July 18, 1994   | Ceasefire declared; genocide ends           |
+| November 1994   | ICTR established                            |
+| 1998            | Jean Kambanda sentenced to life             |
+| 2002-2012       | Gacaca courts process 1.2 million cases     |
+| 2024            | 30th anniversary of genocide                |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Rwandan genocide](https://en.wikipedia.org/wiki/Rwandan_genocide)
+
 [^2]: [Britannica - Rwanda genocide of 1994](https://www.britannica.com/event/Rwanda-genocide-of-1994)
+
 [^3]: [UN - Rwanda Genocide](https://www.un.org/en/preventgenocide/rwanda/)
+
 [^4]: [Holocaust Memorial Day Trust - Background](https://www.hmd.org.uk/learn-about-the-holocaust-and-genocides/the-genocide-in-rwanda/)
+
 [^5]: [Montreal Holocaust Museum - Origins](https://museeholocauste.ca/en/resources-training/the-1994-tutsi-genocide-in-rwanda/)
+
 [^6]: [World Vision - Rwanda overview](https://www.worldvision.org/refugees-news-stories/rwandan-genocide-facts)
+
 [^7]: [USHMM - Plane assassination](https://www.ushmm.org/genocide-prevention/countries/rwanda/)
+
 [^8]: [PBS - Timeline](https://www.pbs.org/wgbh/pages/frontline/shows/rwanda/etc/cron.html)
+
 [^9]: [The Guardian - 100 days](https://www.theguardian.com/world/2024/apr/06/rwandan-genocide-30-years-on-100-days)
+
 [^10]: [University of Minnesota - Detailed account](https://www.law.umn.edu/library/genocidestudies/rwanda/)
+
 [^11]: [Human Rights Watch - Sexual violence](https://www.hrw.org/reports/1996/Rwanda.htm)
+
 [^12]: [ReliefWeb - International failure](https://reliefweb.int/report/rwanda/rwanda-genocide-1994/)
+
 [^13]: [Columbia University - Death toll research](https://www.columbia.edu/~js322/rwandadeaths.html)
+
 [^14]: [Wikipedia - End of genocide](https://en.wikipedia.org/wiki/Rwandan_Civil_War)
+
 [^15]: [Cairn - Refugee crisis](https://www.cairn.info/rwanda-genocide/)
+
 [^16]: [ICTR - Justice proceedings](https://unictr.irmct.org/)
+
 [^17]: [HRW - Reconciliation critique](https://www.hrw.org/world-report/rwanda/)
+
 [^18]: [Council on Foreign Relations - Regional impact](https://www.cfr.org/backgrounder/rwandan-genocide/)
+
 [^19]: [Genocide Watch - Lessons](https://www.genocidewatch.com/countries/rwanda/)
+
 [^20]: [United Nations - Never Again](https://www.un.org/en/observances/genocide-prevention-day/)

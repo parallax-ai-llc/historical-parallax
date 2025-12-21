@@ -165,30 +165,30 @@ Some indigenous scholars and activists have noted the irony that Hidalgo, despit
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1753 | Born on May 8 at Hacienda de Corralejo, Guanajuato |
-| 1768 | Enrolled at Colegio de San Nicolás Obispo in Valladolid |
-| 1770 | Entered Royal and Pontifical University of Mexico |
-| 1773 | Received bachelor's degree in theology and philosophy |
-| 1778 | Ordained as Catholic priest |
-| 1790 | Appointed rector of Colegio de San Nicolás |
-| 1792 | Forced to resign as rector due to allegations of misconduct |
-| 1803 | Assigned as parish priest to Dolores, Guanajuato |
-| 1810 | Joined independence conspiracy based in Querétaro |
+| Year | Event                                                                          |
+| ---- | ------------------------------------------------------------------------------ |
+| 1753 | Born on May 8 at Hacienda de Corralejo, Guanajuato                             |
+| 1768 | Enrolled at Colegio de San Nicolás Obispo in Valladolid                        |
+| 1770 | Entered Royal and Pontifical University of Mexico                              |
+| 1773 | Received bachelor's degree in theology and philosophy                          |
+| 1778 | Ordained as Catholic priest                                                    |
+| 1790 | Appointed rector of Colegio de San Nicolás                                     |
+| 1792 | Forced to resign as rector due to allegations of misconduct                    |
+| 1803 | Assigned as parish priest to Dolores, Guanajuato                               |
+| 1810 | Joined independence conspiracy based in Querétaro                              |
 | 1810 | Issued Grito de Dolores on September 16, beginning Mexican War of Independence |
-| 1810 | Captured Guanajuato on September 28 |
-| 1810 | Victory at Monte de las Cruces on October 30 |
-| 1810 | Retreated from Mexico City in November |
-| 1810 | Issued decree abolishing slavery on December 6 in Guadalajara |
-| 1811 | Defeated at Bridge of Calderón on January 17 |
-| 1811 | Stripped of military command by Allende in March |
-| 1811 | Captured at Wells of Baján on March 21 |
-| 1811 | Tried by Inquisition and military tribunal in Chihuahua |
-| 1811 | Defrocked by Catholic Church in July |
-| 1811 | Executed by firing squad on July 30 in Chihuahua |
-| 1811 | Head displayed on Alhóndiga de Granaditas until 1821 |
-| 1824 | Dolores renamed Dolores Hidalgo in his honor |
+| 1810 | Captured Guanajuato on September 28                                            |
+| 1810 | Victory at Monte de las Cruces on October 30                                   |
+| 1810 | Retreated from Mexico City in November                                         |
+| 1810 | Issued decree abolishing slavery on December 6 in Guadalajara                  |
+| 1811 | Defeated at Bridge of Calderón on January 17                                   |
+| 1811 | Stripped of military command by Allende in March                               |
+| 1811 | Captured at Wells of Baján on March 21                                         |
+| 1811 | Tried by Inquisition and military tribunal in Chihuahua                        |
+| 1811 | Defrocked by Catholic Church in July                                           |
+| 1811 | Executed by firing squad on July 30 in Chihuahua                               |
+| 1811 | Head displayed on Alhóndiga de Granaditas until 1821                           |
+| 1824 | Dolores renamed Dolores Hidalgo in his honor                                   |
 
 ---
 

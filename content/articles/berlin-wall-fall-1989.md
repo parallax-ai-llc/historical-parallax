@@ -78,10 +78,12 @@ East Germans began leaving through Hungary:
 Starting September 4, 1989, peaceful protests grew:
 
 **Origins:**
+
 - Peace prayers at Nikolaikirche (Church of St. Nicholas) in Leipzig
 - Small initial protests after services
 
 **Growth:**
+
 - September 25: 8,000 protesters
 - October 2: 20,000
 - October 9: 70,000—crucial turning point
@@ -116,6 +118,7 @@ The regulations were meant to take effect the next morning. Schabowski's confusi
 ### The Wall Opens
 
 **Evening, November 9:**
+
 - West German television broadcast Schabowski's statement
 - East Berliners gathered at checkpoints, demanding passage
 - Border guards had no clear orders; leadership unreachable
@@ -139,27 +142,27 @@ That night and the following days:
 
 ### East Germany
 
-| Name | Role |
-|------|------|
-| Erich Honecker | GDR leader until October 1989; hardliner |
-| Egon Krenz | Successor to Honecker; oversaw Wall opening |
-| Günter Schabowski | Politburo spokesman; made fateful announcement |
-| Harald Jäger | Border guard commander; opened Bornholmer checkpoint |
+| Name              | Role                                                 |
+| ----------------- | ---------------------------------------------------- |
+| Erich Honecker    | GDR leader until October 1989; hardliner             |
+| Egon Krenz        | Successor to Honecker; oversaw Wall opening          |
+| Günter Schabowski | Politburo spokesman; made fateful announcement       |
+| Harald Jäger      | Border guard commander; opened Bornholmer checkpoint |
 
 ### Civil Society/Church
 
-| Name | Role |
-|------|------|
-| Christian Führer | Pastor; led Nikolaikirche peace prayers |
-| Leipzig demonstrators | Citizens who filled the streets |
+| Name                  | Role                                    |
+| --------------------- | --------------------------------------- |
+| Christian Führer      | Pastor; led Nikolaikirche peace prayers |
+| Leipzig demonstrators | Citizens who filled the streets         |
 
 ### External Powers
 
-| Name | Role |
-|------|------|
-| Mikhail Gorbachev | Soviet leader; refused to intervene |
-| Helmut Kohl | West German Chancellor; managed reunification |
-| George H.W. Bush | US President; supported reunification |
+| Name              | Role                                          |
+| ----------------- | --------------------------------------------- |
+| Mikhail Gorbachev | Soviet leader; refused to intervene           |
+| Helmut Kohl       | West German Chancellor; managed reunification |
+| George H.W. Bush  | US President; supported reunification         |
 
 ---
 
@@ -170,6 +173,7 @@ That night and the following days:
 **The entire GDR Peaceful Revolution (autumn 1989):** No significant casualties.
 
 **Berlin Wall era (1961-1989):**
+
 - At least 140 people killed trying to escape
 - Some estimates higher (900+, including all East German border deaths)
 - Peter Fechter (1962), shot and left to bleed at Wall, became symbol[^14]
@@ -184,6 +188,7 @@ That night and the following days:
 **October 3, 1990:** German reunification—East Germany dissolved into Federal Republic
 
 **Process:**
+
 - East German states joined West German constitutional order
 - D-Mark extended to East Germany
 - Property claims, legal transitions managed[^15]
@@ -254,44 +259,65 @@ Reunification proved costly:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| August 13, 1961 | Berlin Wall construction begins |
-| 1971 | Honecker becomes GDR leader |
-| 1985 | Gorbachev becomes Soviet leader |
-| May 1989 | Hungary begins dismantling border fence |
-| September 4, 1989 | Leipzig Monday demonstrations begin |
-| October 9, 1989 | 70,000 march in Leipzig (no crackdown) |
-| October 18, 1989 | Honecker forced to resign |
-| November 4, 1989 | 500,000+ at Alexanderplatz demonstration |
-| November 9, 1989 | Schabowski press conference; Wall opens |
-| March 18, 1990 | First free East German elections |
-| October 3, 1990 | German reunification |
-| December 1991 | Soviet Union dissolves |
+| Date              | Event                                    |
+| ----------------- | ---------------------------------------- |
+| August 13, 1961   | Berlin Wall construction begins          |
+| 1971              | Honecker becomes GDR leader              |
+| 1985              | Gorbachev becomes Soviet leader          |
+| May 1989          | Hungary begins dismantling border fence  |
+| September 4, 1989 | Leipzig Monday demonstrations begin      |
+| October 9, 1989   | 70,000 march in Leipzig (no crackdown)   |
+| October 18, 1989  | Honecker forced to resign                |
+| November 4, 1989  | 500,000+ at Alexanderplatz demonstration |
+| November 9, 1989  | Schabowski press conference; Wall opens  |
+| March 18, 1990    | First free East German elections         |
+| October 3, 1990   | German reunification                     |
+| December 1991     | Soviet Union dissolves                   |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Fall of the Berlin Wall](https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall)
+
 [^2]: [Wikipedia - Peaceful Revolution](https://en.wikipedia.org/wiki/Peaceful_Revolution)
+
 [^3]: [State Department - Berlin Wall](https://www.state.gov/fall-of-the-berlin-wall/)
+
 [^4]: [EBSCO - German Division](https://www.ebscohost.com/academic/cold-war-germany/)
+
 [^5]: [IWM - Berlin Wall](https://www.iwm.org.uk/history/the-berlin-wall)
+
 [^6]: [Britannica - Erich Honecker](https://www.britannica.com/biography/Erich-Honecker)
+
 [^7]: [Wikipedia - Mikhail Gorbachev](https://en.wikipedia.org/wiki/Mikhail_Gorbachev)
+
 [^8]: [Swarthmore - East German Revolution](https://nvdatabase.swarthmore.edu/content/east-german-1989)
+
 [^9]: [Leipzig.de - Monday Demonstrations](https://www.leipzig.de/monday-demonstrations/)
+
 [^10]: [Wikipedia - Alexanderplatz Demo](https://en.wikipedia.org/wiki/Alexanderplatz_demonstration)
+
 [^11]: [Walled-in-Berlin - Schabowski](https://walled-in-berlin.com/schabowski-press-conference/)
+
 [^12]: [World History Commons - Wall Falls](https://worldhistorycommons.org/berlin-wall-fall)
+
 [^13]: [CBS News - Wall Falls](https://www.cbsnews.com/news/berlin-wall-fall-anniversary/)
+
 [^14]: [Wikipedia - Berlin Wall Deaths](https://en.wikipedia.org/wiki/Deaths_at_the_Berlin_Wall)
+
 [^15]: [Wikipedia - German Reunification](https://en.wikipedia.org/wiki/German_reunification)
+
 [^16]: [YIRA - Reunification Challenges](https://www.yira.org/german-reunification/)
+
 [^17]: [Lumen Learning - Cold War End](https://courses.lumenlearning.com/suny-hccc-worldhistory/cold-war-end/)
+
 [^18]: [Time - Gorbachev](https://time.com/gorbachev-berlin-wall/)
+
 [^19]: [AP News - Wall Anniversary](https://apnews.com/article/berlin-wall-fall-1989)
+
 [^20]: [Inkstick Media - Reunification](https://inkstickmedia.com/german-reunification/)
+
 [^21]: [Deutschland Museum - Reunification](https://deutschlandmuseum.de/reunification/)
+
 [^22]: [UMass - Peaceful Revolution](https://www.umass.edu/history/peaceful-revolution-1989/)

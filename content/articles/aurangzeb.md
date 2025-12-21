@@ -119,30 +119,30 @@ Most damningly, critics argue that Aurangzeb's policies set in motion the declin
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1618 | Born on November 3 in Dahod, Gujarat |
-| 1634 | Begins military training at age 16 |
-| 1636 | Appointed Viceroy of the Deccan |
-| 1645 | Serves as Governor of Gujarat |
-| 1647 | Returns to Deccan as governor |
+| Year | Event                                                           |
+| ---- | --------------------------------------------------------------- |
+| 1618 | Born on November 3 in Dahod, Gujarat                            |
+| 1634 | Begins military training at age 16                              |
+| 1636 | Appointed Viceroy of the Deccan                                 |
+| 1645 | Serves as Governor of Gujarat                                   |
+| 1647 | Returns to Deccan as governor                                   |
 | 1652 | Dismissed from Deccan governorship due to conflicts with father |
-| 1657 | Shah Jahan falls ill; succession war begins (September 6) |
-| 1658 | Defeats Dara Shikoh at Battle of Dharmat (April) |
-| 1658 | Decisive victory at Battle of Samugarh (May 30) |
-| 1658 | Imprisons father Shah Jahan in Agra Fort |
-| 1658 | Formally crowned Mughal Emperor (July 31) |
-| 1659 | Defeats Shah Shuja at Battle of Khajwa (January 5) |
-| 1659 | Orders execution of Dara Shikoh (August) |
-| 1661 | Orders execution of Murad Bakhsh |
-| 1666 | Shah Jahan dies in captivity |
-| 1679 | Reimpositions jizya tax on non-Muslims |
-| 1680 | Shivaji dies; Maratha resistance continues |
-| 1681 | Prince Akbar rebels with Maratha support |
-| 1686 | Conquers Bijapur Sultanate |
-| 1687 | Conquers Golconda Sultanate |
-| 1689 | Empire reaches maximum territorial extent |
-| 1707 | Dies on March 3 in Ahmednagar at age 88 |
+| 1657 | Shah Jahan falls ill; succession war begins (September 6)       |
+| 1658 | Defeats Dara Shikoh at Battle of Dharmat (April)                |
+| 1658 | Decisive victory at Battle of Samugarh (May 30)                 |
+| 1658 | Imprisons father Shah Jahan in Agra Fort                        |
+| 1658 | Formally crowned Mughal Emperor (July 31)                       |
+| 1659 | Defeats Shah Shuja at Battle of Khajwa (January 5)              |
+| 1659 | Orders execution of Dara Shikoh (August)                        |
+| 1661 | Orders execution of Murad Bakhsh                                |
+| 1666 | Shah Jahan dies in captivity                                    |
+| 1679 | Reimpositions jizya tax on non-Muslims                          |
+| 1680 | Shivaji dies; Maratha resistance continues                      |
+| 1681 | Prince Akbar rebels with Maratha support                        |
+| 1686 | Conquers Bijapur Sultanate                                      |
+| 1687 | Conquers Golconda Sultanate                                     |
+| 1689 | Empire reaches maximum territorial extent                       |
+| 1707 | Dies on March 3 in Ahmednagar at age 88                         |
 
 ---
 
@@ -161,73 +161,143 @@ Most damningly, critics argue that Aurangzeb's policies set in motion the declin
 ## References
 
 [^1]: [Aurangzeb - Wikipedia](https://en.wikipedia.org/wiki/Aurangzeb)
+
 [^2]: [Aurangzeb | Biography, Accomplishments, History, Family, & Facts | Britannica](https://www.britannica.com/biography/Aurangzeb)
+
 [^3]: [Aurangzeb: Mughal Emperor | Origins](https://origins.osu.edu/read/aurangzeb-mughal-emperor)
+
 [^4]: [Aurangzeb | Stanford University Press](https://www.sup.org/books/history/aurangzeb)
+
 [^5]: [Birth of Mughal Emperor Aurangzeb - This Day in History](https://testbook.com/important-days/birth-of-mughal-emperor-aurangzeb-on-november-3-1618)
+
 [^6]: [Life and reign of Aurangzeb | Britannica](https://www.britannica.com/summary/Aurangzeb)
+
 [^7]: [Learn Aurangzeb facts for kids](https://kids.kiddle.co/Aurangzeb)
+
 [^8]: [Aurangzeb Biography - Birth, Rule, Legacy, Death, and FAQs](https://www.vedantu.com/biography/aurangzeb-biography)
+
 [^9]: [Aurangzeb](https://www.albalagh.net/kids/history/aurangzeb.shtml)
+
 [^10]: [Aurangzeb: Chapter 1 | Stanford University Press](https://www.sup.org/books/history/aurangzeb/excerpt/chapter-1)
+
 [^11]: [The Life and Times of Mughal Emperor Aurangzeb: a Comprehensive Guide](https://unacademy.com/content/nda/study-material/indian-history/the-life-and-times-of-mughal-emperor-aurangzeb-a-comprehensive-guide/)
+
 [^12]: [Aurangzeb: Reign & Policies | Vaia](https://www.vaia.com/en-us/explanations/history/the-mughal-empire/aurangzeb/)
+
 [^13]: [Early Life of Aurangzeb](https://byjus.com/free-ias-prep/aurangzeb/)
+
 [^14]: [Reign of Aurangzeb | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/reign-aurangzeb)
+
 [^15]: [Aurangzeb Biography](https://byjus.com/free-ias-prep/this-day-in-history-nov3/)
-[^16]: [Mughal war of succession (1658–1659) - Wikipedia](https://en.wikipedia.org/wiki/Mughal_war_of_succession_(1658–1659))
+
+[^16]: [Mughal war of succession (1658–1659) - Wikipedia](<https://en.wikipedia.org/wiki/Mughal_war_of_succession_(1658–1659)>)
+
 [^17]: [War of Succession by Shahjahan's Sons: Aurangzeb and Dara Shikoh](https://selfstudyhistory.com/2015/09/05/war-of-succession-by-shahjahans-sons-aurangzeb-and-dara-shikoh/)
+
 [^18]: [Mogul Wars of Succession | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/mogul-wars-succession)
+
 [^19]: [Controversial Mughal Emperor Aurangzeb & Mughal Wars of Succession | Ancient Origins](https://www.ancient-origins.net/history-famous-people/mughal-emperor-aurangzeb-0017100)
+
 [^20]: [Aurangzeb's War of Succession | HISTORY FOR EXAM](https://www.historyforexam.com/2018/11/aurangzebs-war-of-succession.html)
+
 [^21]: [Dara Shikoh finally lost the war of succession to Aurangzeb](https://testbook.com/question-answer/dara-shikoh-finally-lost-the-war-of-succession-to--5f606ca5bcd8aaad8def23f2)
+
 [^22]: [Battle of Jajau | Mughal-Maratha, Aurangzeb, Shivaji | Britannica](https://www.britannica.com/event/Battle-of-Jajau)
+
 [^23]: [Aurangzeb came to power after winning the war of succession](https://www.toppr.com/ask/question/aurangzeb-came-to-power-after-winning-the-war-of-succession-and-by-defeating-his-three/)
+
 [^24]: [India - Aurangzeb, Mughal Empire, Subcontinent | Britannica](https://www.britannica.com/place/India/Aurangzeb)
+
 [^25]: [Aurangzeb: Life, Reign and Death - World History Edu](https://worldhistoryedu.com/aurangzeb-life-reign-and-death/)
+
 [^26]: [Aurangzeb: A Political History | MANAS](https://southasia.ucla.edu/history-politics/mughals-and-medieval/aurangzeb/)
+
 [^27]: [Aurangzeb | Empire, Achievements & Failures - Lesson | Study.com](https://study.com/academy/lesson/mughal-emperor-aurangzeb-history-empire.html)
+
 [^28]: [Aurangzeb: Life, Politics and Achievements – Outlines of Indian history](https://ebooks.inflibnet.ac.in/icp01/chapter/aurangzeb-life-politics-achievements/)
+
 [^29]: [Aurangzeb Biography: History, Family, Military Leader & Death](https://infinitylearn.com/surge/biography/aurangzeb-biography/)
+
 [^30]: [Aurangzeb Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/aurangzeb-6753.php)
+
 [^31]: [A Short Note On Aurangzeb](https://unacademy.com/content/upsc/study-material/medieval-india/aurangzeb/)
+
 [^32]: [Religious Policy of Aurangzeb: A Detailed Analysis](https://learnpro.in/religious-policy-of-aurangzeb/)
+
 [^33]: [Exploring State and Religion under Aurangzeb](https://juniperpublishers.com/gjaa/pdf/GJAA.MS.ID.555686.pdf)
+
 [^34]: [Religious Policy of Aurangzeb - Medieval Indian History Notes](https://prepp.in/news/e-492-religious-policy-of-aurangzeb-medieval-indian-history-notes)
+
 [^35]: [Aurangzeb and Austerity](https://thefridaytimes.com/01-Nov-2019/aurangzeb-and-austerity)
+
 [^36]: [A Short Study On The Religious Policies Of Aurangzeb](https://unacademy.com/content/upsc/study-material/medieval-india/the-religious-policies-of-aurangzeb/)
+
 [^37]: [Aurangzeb's Religious Policies: Jizya, Temples, and Music](https://www.studocu.com/in/document/university-of-delhi/ba-hons-history/aurangzebs-religious-policy-towards-jizya-temples-and-music/126356407)
+
 [^38]: [Some Controversial and Discriminatory Measures of Aurangzeb](https://rezavisblastfromthepast.co.in/2021/10/08/some-controversial-and-discriminatory-measures-of-aurangzeb-music-ban-imposition-of-jizya-and-attitude-towards-temples/)
+
 [^39]: [Aurangzeb, Akbar, and the Communalization of History | MANAS](https://southasia.ucla.edu/history-politics/mughals-and-medieval/aurangzeb/communalization-of-history/)
+
 [^40]: [Aurangzeb's Policies on Jizya, Temples, and Music: A Historical Analysis](https://www.studocu.com/en-us/document/creighton-university/ba-honours-history/aurangzebs-policies-on-jizya-temples-and-music-a-historical-analysis/127593424)
+
 [^41]: [Aurangzeb's Religious Policy](https://www.hansrajcollege.ac.in/hCPanel/uploads/elearning/elearning_document/Aurangzebs_Religious_Policy.pdf)
+
 [^42]: [Aurangzeb: Dispelling Myths about Religious Intolerance](https://khambayswordswordswords.blog/2020/04/03/aurangzeb-dispelling-myths-about-religious-intolerance/)
+
 [^43]: [Dilras Banu Begum - Wikipedia](https://en.wikipedia.org/wiki/Dilras_Banu_Begum)
+
 [^44]: [Aurangzeb: All you need to know about the family tree](https://www.news9live.com/knowledge/aurangzeb-all-you-need-to-know-about-the-family-tree-of-last-powerful-mughal-emperor-2171313)
+
 [^45]: [Aurangzeb: The Life and Legacy of India's Most Controversial King](https://www.sup.org/books/title/?id=28067)
+
 [^46]: [Aurangzeb in SearchWorks catalog](https://searchworks.stanford.edu/view/12083750)
+
 [^47]: [Aurangzeb - Reading Religion](https://readingreligion.org/9781503602571/aurangzeb/)
+
 [^48]: [Aurangzeb: Table of Contents | Stanford University Press](https://www.sup.org/books/history/aurangzeb/excerpt/table-contents)
+
 [^49]: [The great Aurangzeb is everybody's least favourite Mughal | Aeon Essays](https://aeon.co/essays/the-great-aurangzeb-is-everybodys-least-favourite-mughal)
+
 [^50]: [Unravelling the Myth: Exploring State and Religion under Aurangzeb](https://juniperpublishers.com/gjaa/GJAA.MS.ID.555686.php)
+
 [^51]: [Aurangzeb as a 'tolerant tyrant'](https://indiafacts.org/aurangzeb-tolerant-tyrant-case-secular-historiography/)
+
 [^52]: [TOP 7 QUOTES BY AURANGZEB | A-Z Quotes](https://www.azquotes.com/author/23834-Aurangzeb)
+
 [^53]: [Aurangzeb - Wikiquote](https://en.wikiquote.org/wiki/Aurangzeb)
+
 [^54]: [Aurangzeb Quotes by Audrey Truschke](https://www.goodreads.com/work/quotes/55322933-aurangzeb-the-man-and-the-myth)
+
 [^55]: [Famous Quotes from Aurangzeb: The Man and the Myth](https://mdredwanhossain6333.wordpress.com/2023/07/10/famous-quotes-from-aurangzeb-the-man-and-the-myth-by-audrey-truschke/)
+
 [^56]: [Aurangzeb Quotes (65 quotes)](https://quotepark.com/authors/aurangzeb/)
+
 [^57]: [Aurangzeb Quotes - QuotesCosmos](https://www.quotescosmos.com/people/Aurangzeb.html)
+
 [^58]: [Do you know any of Aurangzeb's famous quotes? - Quora](https://www.quora.com/Do-you-know-any-of-Aurangzebs-famous-quotes)
+
 [^59]: [Aurangzeb Quotes - Lib Quotes](https://libquotes.com/aurangzeb)
+
 [^60]: [Top 50 AURANGZEB quotes and sayings](https://www.inspiringquotes.us/author/2893-aurangzeb)
+
 [^61]: [6+ Aurangzeb Quotes and Sayings - QUOTLR](https://quotlr.com/author/aurangzeb)
+
 [^62]: [Category:Aurangzeb - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Aurangzeb)
+
 [^63]: [Aurangzeb - Wikidata](https://www.wikidata.org/wiki/Q485547)
+
 [^64]: [464 Emperor Aurangzeb Stock Photos - Getty Images](https://www.gettyimages.com/photos/emperor-aurangzeb)
+
 [^65]: [Portrait of Emperor Alamgir (Aurangzeb) | Cleveland Museum of Art](https://www.clevelandart.org/art/1944.498)
+
 [^66]: [35 Paintings of aurangzeb Images: PICRYL](https://picryl.com/topics/paintings+of+aurangzeb)
+
 [^67]: [Portrait of the Emperor Aurangzeb - The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/450610)
+
 [^68]: [Image Search - Aurangzeb - Granger](https://granger.com/images-of-aurangzeb.html)
+
 [^69]: [Aurangzeb – The Indian Portrait](https://theindianportrait.com/artwork/aurangzeb/)
+
 [^70]: [Muslim-perspectives Book Review](https://www.muslim-perspectives.com/images/articles/Aurangzeb-The-Life-and-Legacy-of-Indias-Most-Controversial-King-Book-Review4112.pdf)
+
 [^71]: [Aurangzeb](https://incois.gov.in/Tutor/science+society/lectures/illustrations/lecture14/aurangzeb.html)

@@ -259,27 +259,27 @@ Recent scholarship increasingly emphasizes that the historical Cyrus remains fun
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 600 BCE | Birth of Cyrus in Anshan or Media, son of Cambyses I and Mandane[^257] |
-| 559 BCE | Cyrus succeeds his father as King of Anshan[^258] |
-| 553 BCE | Cyrus rebels against his Median overlord Astyages, beginning three years of war[^259] |
-| 550 BCE | Cyrus defeats Astyages and conquers the Median Empire; founds Pasargadae[^260] |
-| c. 547 BCE | Croesus of Lydia invades Persian territory, initiating conflict[^261] |
-| 547/546 BCE | Battle of Thymbra; Cyrus defeats Croesus and conquers Lydia[^262] |
-| 546 BCE | Sardis, the Lydian capital, falls to Cyrus; Persian control extends to Ionian Greek cities[^263] |
-| c. 545-540 BCE | Consolidation campaigns in eastern Iranian plateau and Central Asia[^264] |
-| 544 BCE | Foundation of Cyropolis on the Iaxartes River[^265] |
-| 539 BCE | Persian forces defeat Babylonian army at Battle of Opis in October[^266] |
-| October 12, 539 BCE | Persian army enters Babylon; end of Neo-Babylonian Empire[^267] |
-| 539 BCE | Creation of the Cyrus Cylinder describing Cyrus's conquest of Babylon[^268] |
-| 538 BCE | Death of Cyrus's wife Cassandane; six days of mourning in Babylonia (March 21-26)[^269] |
-| 538/537 BCE | Cyrus issues decree allowing Jews to return from Babylonian exile[^270] |
-| 537 BCE | Jewish exiles begin returning to Judea; reconstruction of Second Temple begins[^271] |
-| c. 530 BCE | Cyrus campaigns against the Massagetae in Central Asia[^272] |
-| 530 BCE | Cyrus killed in battle against Massagetae forces led by Queen Tomyris[^273] |
-| 530 BCE | Cyrus's body returned to Pasargadae and interred in tomb[^274] |
-| 530 BCE | Cambyses II succeeds Cyrus as King of Persia[^275] |
+| Year                | Event                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------------ |
+| c. 600 BCE          | Birth of Cyrus in Anshan or Media, son of Cambyses I and Mandane[^257]                           |
+| 559 BCE             | Cyrus succeeds his father as King of Anshan[^258]                                                |
+| 553 BCE             | Cyrus rebels against his Median overlord Astyages, beginning three years of war[^259]            |
+| 550 BCE             | Cyrus defeats Astyages and conquers the Median Empire; founds Pasargadae[^260]                   |
+| c. 547 BCE          | Croesus of Lydia invades Persian territory, initiating conflict[^261]                            |
+| 547/546 BCE         | Battle of Thymbra; Cyrus defeats Croesus and conquers Lydia[^262]                                |
+| 546 BCE             | Sardis, the Lydian capital, falls to Cyrus; Persian control extends to Ionian Greek cities[^263] |
+| c. 545-540 BCE      | Consolidation campaigns in eastern Iranian plateau and Central Asia[^264]                        |
+| 544 BCE             | Foundation of Cyropolis on the Iaxartes River[^265]                                              |
+| 539 BCE             | Persian forces defeat Babylonian army at Battle of Opis in October[^266]                         |
+| October 12, 539 BCE | Persian army enters Babylon; end of Neo-Babylonian Empire[^267]                                  |
+| 539 BCE             | Creation of the Cyrus Cylinder describing Cyrus's conquest of Babylon[^268]                      |
+| 538 BCE             | Death of Cyrus's wife Cassandane; six days of mourning in Babylonia (March 21-26)[^269]          |
+| 538/537 BCE         | Cyrus issues decree allowing Jews to return from Babylonian exile[^270]                          |
+| 537 BCE             | Jewish exiles begin returning to Judea; reconstruction of Second Temple begins[^271]             |
+| c. 530 BCE          | Cyrus campaigns against the Massagetae in Central Asia[^272]                                     |
+| 530 BCE             | Cyrus killed in battle against Massagetae forces led by Queen Tomyris[^273]                      |
+| 530 BCE             | Cyrus's body returned to Pasargadae and interred in tomb[^274]                                   |
+| 530 BCE             | Cambyses II succeeds Cyrus as King of Persia[^275]                                               |
 
 ---
 
@@ -287,305 +287,584 @@ Recent scholarship increasingly emphasizes that the historical Cyrus remains fun
 
 > "O man, whoever you are and wherever you come from, for I know you will come, I am Cyrus who won the Persians their empire. Do not therefore begrudge me this bit of earth that covers my bones."
 
-*Epitaph on Cyrus's tomb at Pasargadae, as recorded by ancient sources[^276]*
+_Epitaph on Cyrus's tomb at Pasargadae, as recorded by ancient sources[^276]_
 
 > "I am Cyrus, king of the world, great king, mighty king, king of Babylon, king of the land of Sumer and Akkad, king of the four quarters."
 
-*Inscription from the Cyrus Cylinder (c. 539 BCE)[^277]*
+_Inscription from the Cyrus Cylinder (c. 539 BCE)[^277]_
 
 > "May all the gods whom I settled in their sacred centers ask daily of Bêl and Nâbu that my days be long and may they intercede for my welfare... The people of Babylon blessed my kingship, and I settled all the lands in peaceful abodes."
 
-*From the Cyrus Cylinder, describing his governance of Babylon[^278]*
+_From the Cyrus Cylinder, describing his governance of Babylon[^278]_
 
 > "Whenever you can, act as a liberator. Freedom, dignity, wealth—these three together constitute the greatest happiness of humanity. When you give them all the help your arm can render, there you will be loved."
 
-*Attributed to Cyrus in Xenophon's Cyropaedia[^279]*
+_Attributed to Cyrus in Xenophon's Cyropaedia[^279]_
 
 > "Diversity in counsel, unity in command."
 
-*Leadership principle attributed to Cyrus[^280]*
+_Leadership principle attributed to Cyrus[^280]_
 
 ---
 
 ## References
 
 [^1]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^2]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^3]: [Cyrus the Great in the Bible - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible)
+
 [^4]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^5]: [Cyrus the Great Biography - The Famous People](https://www.thefamouspeople.com/profiles/cyrus-the-great-11377.php)
+
 [^6]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^7]: [Cyrus the Great | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great)
+
 [^8]: [CYRUS iii. Cyrus II The Great - Encyclopaedia Iranica](https://www.iranicaonline.org/articles/cyrus-iii/)
+
 [^9]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^10]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^11]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^12]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^13]: [Ancient Mesopotamia: Biography of Cyrus the Great - Ducksters](https://www.ducksters.com/history/mesopotamia/cyrus_the_great.php)
+
 [^14]: [Cyrus the Great - Heritage History](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=cyrus1)
+
 [^15]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^16]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^17]: [Cyrus the Great Biography - The Famous People](https://www.thefamouspeople.com/profiles/cyrus-the-great-11377.php)
+
 [^18]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^19]: [Cyrus II summary | Britannica](https://www.britannica.com/summary/Cyrus-the-Great)
+
 [^20]: [The Rise of Cyrus the Great - Aspects of History](https://aspectsofhistory.com/the-rise-of-cyrus-the-great/)
+
 [^21]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^22]: [Cyrus The Great: The Architect Of The Persian Empire - Surf Iran](https://surfiran.com/mag/cyrus-the-great/)
+
 [^23]: [The Rise of Cyrus the Great - Aspects of History](https://aspectsofhistory.com/the-rise-of-cyrus-the-great/)
+
 [^24]: [How Cyrus the Great Founded the Persian Empire - TheCollector](https://www.thecollector.com/cyrus-great-founded-persian-empire-conquered-lydia/)
+
 [^25]: [Cyrus the Great: Biography, Achievements, Conquests - Ancient Mysteries](https://ancientmysteries.org/cyrus-the-great/)
+
 [^26]: [Cyrus the Great Timeline - Totally History](https://totallyhistory.com/cyrus-the-great-timeline/)
+
 [^27]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^28]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^29]: [Cyrus the Great Timeline - Have Fun With History](https://www.havefunwithhistory.com/cyrus-the-great-timeline/)
+
 [^30]: [Timeline: Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/timeline/Cyrus_the_Great/)
+
 [^31]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^32]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^33]: [How Cyrus the Great Founded the Persian Empire - TheCollector](https://www.thecollector.com/cyrus-great-founded-persian-empire-conquered-lydia/)
+
 [^34]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^35]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^36]: [Ruthless Facts About Cyrus The Great - Factinate](https://www.factinate.com/people/cyrus-the-great)
+
 [^37]: [How Cyrus the Great Founded the Persian Empire - TheCollector](https://www.thecollector.com/cyrus-great-founded-persian-empire-conquered-lydia/)
+
 [^38]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^39]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^40]: [Cyrus the Great: Biography, Achievements, Conquests - Ancient Mysteries](https://ancientmysteries.org/cyrus-the-great/)
+
 [^41]: [Cyrus the Great Timeline - Totally History](https://totallyhistory.com/cyrus-the-great-timeline/)
+
 [^42]: [How Cyrus the Great Founded the Persian Empire - TheCollector](https://www.thecollector.com/cyrus-great-founded-persian-empire-conquered-lydia/)
+
 [^43]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^44]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^45]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^46]: [The Fall of Babylon - Alabama Gazette](https://www.alabamagazette.com/story/2025/10/12/history/the-fall-of-babylon-cyrus-the-greats-conquest-in-539-bc-how-persias-army-changed-the-course-of-ancient-histor/8501.html)
+
 [^47]: [Cyrus the Great - Livius: Cyrus Takes Babylon](https://www.livius.org/articles/person/cyrus-the-great/cyrus-takes-babylon/)
+
 [^48]: [Fall of Babylon - Wikipedia](https://en.wikipedia.org/wiki/Fall_of_Babylon)
+
 [^49]: [Cyrus the Great | Portraits From the Past - JW.org](https://www.jw.org/en/library/magazines/g201305/cyrus-the-great/)
+
 [^50]: [Cyrus the Great Timeline - Totally History](https://totallyhistory.com/cyrus-the-great-timeline/)
+
 [^51]: [The Fall of Babylon - Alabama Gazette](https://www.alabamagazette.com/story/2025/10/12/history/the-fall-of-babylon-cyrus-the-greats-conquest-in-539-bc-how-persias-army-changed-the-course-of-ancient-histor/8501.html)
+
 [^52]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^53]: [Cyrus the Great: 10 Major Accomplishments - World History Edu](https://worldhistoryedu.com/cyrus-the-great-10-major-accomplishments/)
+
 [^54]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^55]: [Cyrus the Great: Biography, Achievements, Conquests - Ancient Mysteries](https://ancientmysteries.org/cyrus-the-great/)
+
 [^56]: [Cyrus The Great: Fascinating Facts & Accomplishments | TheCollector](https://www.thecollector.com/cyrus-the-great/)
+
 [^57]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^58]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^59]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^60]: [Cyrus The Great: The Architect Of The Persian Empire - Surf Iran](https://surfiran.com/mag/cyrus-the-great/)
+
 [^61]: [Cyrus the Great: 10 Major Accomplishments - World History Edu](https://worldhistoryedu.com/cyrus-the-great-10-major-accomplishments/)
+
 [^62]: [Cyrus the Great: Biography, Achievements, Conquests - Ancient Mysteries](https://ancientmysteries.org/cyrus-the-great/)
+
 [^63]: [Cyrus the Great: 10 Major Accomplishments - World History Edu](https://worldhistoryedu.com/cyrus-the-great-10-major-accomplishments/)
+
 [^64]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^65]: [Cyrus The Great: Fascinating Facts & Accomplishments | TheCollector](https://www.thecollector.com/cyrus-the-great/)
+
 [^66]: [Cyrus the Great: History's most merciful conqueror? | National Geographic](https://www.nationalgeographic.com/culture/article/cyrus-the-great)
+
 [^67]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^68]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^69]: [Cyrus the Great in the Bible - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible)
+
 [^70]: [Cyrus the Great | Portraits From the Past - JW.org](https://www.jw.org/en/library/magazines/g201305/cyrus-the-great/)
+
 [^71]: [The Death and Legacy of Cyrus the Great - Bible Archaeology](https://biblearchaeology.org/research/chronological-categories/babylonian-exile-persian-period/5165-the-death-and-legacy-of-cyrus-the-great)
+
 [^72]: [Cyrus the Great in the Bible - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible)
+
 [^73]: [Cyrus The Great and The Bible - Amazing Bible Timeline](https://amazingbibletimeline.com/blog/cyrus-the-great-and-the-bible/)
+
 [^74]: [Cyrus Cylinder - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_Cylinder)
+
 [^75]: [The Cyrus Cylinder and Ancient Proclamation of Human Rights | Ancient Origins](https://www.ancient-origins.net/artifacts-ancient-writings/cyrus-cylinder-002311)
+
 [^76]: [Cyrus the Great - Livius: Cyrus Takes Babylon](https://www.livius.org/articles/person/cyrus-the-great/cyrus-takes-babylon/)
+
 [^77]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^78]: [Replica of "Edict of Cyrus" | United Nations Gifts](https://www.un.org/ungifts/replica-edict-cyrus)
+
 [^79]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^80]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^81]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^82]: [The Earliest Declaration of Human Rights - Ingenia History](https://www.ingeniahistory.com/post/cyrus-cylinder)
+
 [^83]: [Cyrus The Great: The Architect Of The Persian Empire - Surf Iran](https://surfiran.com/mag/cyrus-the-great/)
+
 [^84]: [Timeline: Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/timeline/Cyrus_the_Great/)
+
 [^85]: [Cyrus The Great: Fascinating Facts & Accomplishments | TheCollector](https://www.thecollector.com/cyrus-the-great/)
+
 [^86]: [Cyrus the Great: 10 Major Accomplishments - World History Edu](https://worldhistoryedu.com/cyrus-the-great-10-major-accomplishments/)
+
 [^87]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^88]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^89]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^90]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^91]: [Cyrus the Great: Biography, Achievements, Conquests - Ancient Mysteries](https://ancientmysteries.org/cyrus-the-great/)
+
 [^92]: [Cyrus The Great: The Architect Of The Persian Empire - Surf Iran](https://surfiran.com/mag/cyrus-the-great/)
+
 [^93]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^94]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^95]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^96]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^97]: [Cyrus the Great: Biography, Achievements, Conquests - Ancient Mysteries](https://ancientmysteries.org/cyrus-the-great/)
+
 [^98]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^99]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^100]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^101]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^102]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^103]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^104]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^105]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^106]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^107]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^108]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^109]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^110]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^111]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^112]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^113]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^114]: [Ruthless Facts About Cyrus The Great - Factinate](https://www.factinate.com/people/cyrus-the-great)
+
 [^115]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^116]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^117]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^118]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^119]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^120]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^121]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^122]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^123]: [The Cyrus Cylinder, Eleanor Roosevelt & Universal Declaration of Human Rights](https://www.kavehfarrokh.com/ancient-prehistory-651-a-d/achaemenids/the-cyrus-cylinder-eleanor-roosevelt-the-universal-declaration-of-human-rights/)
+
 [^124]: [Replica of "Edict of Cyrus" | United Nations Gifts](https://www.un.org/ungifts/replica-edict-cyrus)
+
 [^125]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^126]: [Cyrus Cylinder - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_Cylinder)
+
 [^127]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^128]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^129]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^130]: [Cyrus the Great - Livius: Cyrus Takes Babylon](https://www.livius.org/articles/person/cyrus-the-great/cyrus-takes-babylon/)
+
 [^131]: [Cyrus the Great in the Bible - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible)
+
 [^132]: [The Cyrus Declaration in Ezra Chapter One - Yoel Halevi](https://www.patreon.com/posts/cyrus-in-ezra-143238961)
+
 [^133]: [The Cyrus Declaration in Ezra Chapter One - Yoel Halevi](https://www.patreon.com/posts/cyrus-in-ezra-143238961)
+
 [^134]: [Is there a bad side to Cyrus the Great? - Quora](https://www.quora.com/Is-there-a-bad-side-to-Cyrus-the-Great)
+
 [^135]: [Cyrus the Great Timeline - Totally History](https://totallyhistory.com/cyrus-the-great-timeline/)
+
 [^136]: [Ruthless Facts About Cyrus The Great - Factinate](https://www.factinate.com/people/cyrus-the-great)
+
 [^137]: [The Death and Legacy of Cyrus the Great - Bible Archaeology](https://biblearchaeology.org/research/chronological-categories/babylonian-exile-persian-period/5165-the-death-and-legacy-of-cyrus-the-great)
+
 [^138]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^139]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^140]: [The Death and Legacy of Cyrus the Great - Bible Archaeology](https://biblearchaeology.org/research/chronological-categories/babylonian-exile-persian-period/5165-the-death-and-legacy-of-cyrus-the-great)
+
 [^141]: [Is there a bad side to Cyrus the Great? - Quora](https://www.quora.com/Is-there-a-bad-side-to-Cyrus-the-Great)
+
 [^142]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^143]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^144]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^145]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^146]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^147]: [Cyrus the Great Biography - The Famous People](https://www.thefamouspeople.com/profiles/cyrus-the-great-11377.php)
+
 [^148]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^149]: [Cassandane - Wikipedia](https://en.wikipedia.org/wiki/Cassandane)
+
 [^150]: [Cassandane Shahbanu - History of Royal Women](https://www.historyofroyalwomen.com/cassandane-shahbanu/cassandane-shahbanu-the-second-queen-to-king-cyrus-the-great-of-the-persian-empire/)
+
 [^151]: [Cassandane - Wikipedia](https://en.wikipedia.org/wiki/Cassandane)
+
 [^152]: [Cassandane - Wikipedia](https://en.wikipedia.org/wiki/Cassandane)
+
 [^153]: [Cyrus the Great Biography - The Famous People](https://www.thefamouspeople.com/profiles/cyrus-the-great-11377.php)
+
 [^154]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^155]: [Cassandane Shahbanu - History of Royal Women](https://www.historyofroyalwomen.com/cassandane-shahbanu/cassandane-shahbanu-the-second-queen-to-king-cyrus-the-great-of-the-persian-empire/)
+
 [^156]: [Cyrus the Great Biography - The Famous People](https://www.thefamouspeople.com/profiles/cyrus-the-great-11377.php)
+
 [^157]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^158]: [Cyrus the Great Biography - The Famous People](https://www.thefamouspeople.com/profiles/cyrus-the-great-11377.php)
+
 [^159]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^160]: [Cassandane - Wikipedia](https://en.wikipedia.org/wiki/Cassandane)
+
 [^161]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^162]: [Cassandane Shahbanu - History of Royal Women](https://www.historyofroyalwomen.com/cassandane-shahbanu/cassandane-shahbanu-the-second-queen-to-king-cyrus-the-great-of-the-persian-empire/)
+
 [^163]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^164]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^165]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^166]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^167]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^168]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^169]: [Cyrus The Great: The Architect Of The Persian Empire - Surf Iran](https://surfiran.com/mag/cyrus-the-great/)
+
 [^170]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^171]: [Cyrus the Great Biography - The Famous People](https://www.thefamouspeople.com/profiles/cyrus-the-great-11377.php)
+
 [^172]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^173]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^174]: [TOP 14 QUOTES BY CYRUS THE GREAT | A-Z Quotes](https://www.azquotes.com/author/38628-Cyrus_the_Great)
+
 [^175]: [Cyrus the Great - Wikiquote](https://en.wikiquote.org/wiki/Cyrus_the_Great)
+
 [^176]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^177]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^178]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^179]: [CYRUS THE GREAT - PAAIA](https://paaia.org/about-us/past-projects/cyrus-cylinder-tour/cyrus-the-great)
+
 [^180]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^181]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^182]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^183]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^184]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^185]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^186]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^187]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^188]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^189]: [Cyrus the Great in the Bible - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible)
+
 [^190]: [The Death and Legacy of Cyrus the Great - Bible Archaeology](https://biblearchaeology.org/research/chronological-categories/babylonian-exile-persian-period/5165-the-death-and-legacy-of-cyrus-the-great)
+
 [^191]: [Cyrus The Great and The Bible - Amazing Bible Timeline](https://amazingbibletimeline.com/blog/cyrus-the-great-and-the-bible/)
+
 [^192]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^193]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^194]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^195]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^196]: [Cyrus the Great: 10 Major Accomplishments - World History Edu](https://worldhistoryedu.com/cyrus-the-great-10-major-accomplishments/)
+
 [^197]: [How is the legacy of Cyrus the Great viewed by modern Iranians? - Quora](https://www.quora.com/How-is-the-legacy-of-Cyrus-the-Great-viewed-by-modern-Iranians-Do-most-view-him-as-with-reverence-controversy-or-simply-indifference)
+
 [^198]: [The Cyrus Cylinder, Eleanor Roosevelt & Universal Declaration of Human Rights](https://www.kavehfarrokh.com/ancient-prehistory-651-a-d/achaemenids/the-cyrus-cylinder-eleanor-roosevelt-the-universal-declaration-of-human-rights/)
+
 [^199]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^200]: [Cyrus the Great: History's most merciful conqueror? | National Geographic](https://www.nationalgeographic.com/culture/article/cyrus-the-great)
+
 [^201]: [History of Natural Law & Basic Freedoms - United for Human Rights](https://www.humanrights.com/what-are-human-rights/brief-history/)
+
 [^202]: [Replica of "Edict of Cyrus" | United Nations Gifts](https://www.un.org/ungifts/replica-edict-cyrus)
+
 [^203]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^204]: [Cyrus the Great: 10 Major Accomplishments - World History Edu](https://worldhistoryedu.com/cyrus-the-great-10-major-accomplishments/)
+
 [^205]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^206]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^207]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^208]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^209]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^210]: [CYRUS THE GREAT - PAAIA](https://paaia.org/about-us/past-projects/cyrus-cylinder-tour/cyrus-the-great)
+
 [^211]: [Cyrus the Great: History's most merciful conqueror? | National Geographic](https://www.nationalgeographic.com/culture/article/cyrus-the-great)
+
 [^212]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^213]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^214]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^215]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^216]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^217]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^218]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^219]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^220]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^221]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^222]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^223]: [Cyrus the Great: History's most merciful conqueror? | National Geographic](https://www.nationalgeographic.com/culture/article/cyrus-the-great)
+
 [^224]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^225]: [Cyrus the Great in the Bible - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible)
+
 [^226]: [The Later Legacy of Cyrus the Great - The Metropolitan Museum of Art](https://www.metmuseum.org/perspectives/cyrus-the-great)
+
 [^227]: [Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/Cyrus_the_Great/)
+
 [^228]: [Cyrus the Great and the Persian Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/cyrus-great-and-persian-empire)
+
 [^229]: [How Cyrus the Great Turned Ancient Persia Into a Superpower | HISTORY](https://www.history.com/articles/cyrus-the-great-persian-empire-iran)
+
 [^230]: [Cyrus the Great: 10 Major Accomplishments - World History Edu](https://worldhistoryedu.com/cyrus-the-great-10-major-accomplishments/)
+
 [^231]: [Cyrus the Great: History's most merciful conqueror? | National Geographic](https://www.nationalgeographic.com/culture/article/cyrus-the-great)
+
 [^232]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^233]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^234]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^235]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^236]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^237]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^238]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^239]: [The story behind the Cyrus Cylinder | Al Jazeera](https://www.aljazeera.com/features/2013/4/25/the-story-behind-the-cyrus-cylinder)
+
 [^240]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^241]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^242]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^243]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^244]: [Cyrus the Great – Conqueror or Human Rights Activist? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/cyrus-0013282)
+
 [^245]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^246]: [Was Cyrus the Great really a tolerant conqueror? | National Geographic](https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible)
+
 [^247]: [Ruthless Facts About Cyrus The Great - Factinate](https://www.factinate.com/people/cyrus-the-great)
+
 [^248]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^249]: [Cyrus the Great in the Bible - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible)
+
 [^250]: [Cyrus the Great and Religious Tolerance - Tolerance.Tavaana](https://tolerance.tavaana.org/en/cyrus-the-great-and-religious-tolerance/)
+
 [^251]: [The Death and Legacy of Cyrus the Great - Bible Archaeology](https://biblearchaeology.org/research/chronological-categories/babylonian-exile-persian-period/5165-the-death-and-legacy-of-cyrus-the-great)
+
 [^252]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^253]: [Is there a bad side to Cyrus the Great? - Quora](https://www.quora.com/Is-there-a-bad-side-to-Cyrus-the-Great)
+
 [^254]: [Cyrus the Mythical - Eastern Illinois University](https://www.eiu.edu/historia/Cyrus%20the%20Mythical.pdf)
+
 [^255]: [Cyrus the Great - Livius](https://www.livius.org/articles/person/cyrus-the-great/)
+
 [^256]: [Cyrus - Biblical Studies - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0302.xml)
+
 [^257]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^258]: [Cyrus II summary | Britannica](https://www.britannica.com/summary/Cyrus-the-Great)
+
 [^259]: [The Rise of Cyrus the Great - Aspects of History](https://aspectsofhistory.com/the-rise-of-cyrus-the-great/)
+
 [^260]: [Timeline: Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/timeline/Cyrus_the_Great/)
+
 [^261]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^262]: [Cyrus the Great Timeline - Totally History](https://totallyhistory.com/cyrus-the-great-timeline/)
+
 [^263]: [How Cyrus the Great Founded the Persian Empire - TheCollector](https://www.thecollector.com/cyrus-great-founded-persian-empire-conquered-lydia/)
+
 [^264]: [Cyrus the Great's Conquests - World History Encyclopedia](https://www.worldhistory.org/article/2022/cyrus-the-greats-conquests/)
+
 [^265]: [Timeline: Cyrus the Great - World History Encyclopedia](https://www.worldhistory.org/timeline/Cyrus_the_Great/)
+
 [^266]: [Cyrus the Great Timeline - Totally History](https://totallyhistory.com/cyrus-the-great-timeline/)
+
 [^267]: [The Fall of Babylon - Alabama Gazette](https://www.alabamagazette.com/story/2025/10/12/history/the-fall-of-babylon-cyrus-the-greats-conquest-in-539-bc-how-persias-army-changed-the-course-of-ancient-histor/8501.html)
+
 [^268]: [Cyrus Cylinder - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_Cylinder)
+
 [^269]: [Cassandane - Wikipedia](https://en.wikipedia.org/wiki/Cassandane)
+
 [^270]: [Cyrus the Great | Portraits From the Past - JW.org](https://www.jw.org/en/library/magazines/g201305/cyrus-the-great/)
+
 [^271]: [Cyrus The Great and The Bible - Amazing Bible Timeline](https://amazingbibletimeline.com/blog/cyrus-the-great-and-the-bible/)
+
 [^272]: [The Death and Legacy of Cyrus the Great - Bible Archaeology](https://biblearchaeology.org/research/chronological-categories/babylonian-exile-persian-period/5165-the-death-and-legacy-of-cyrus-the-great)
+
 [^273]: [Cyrus the Great Timeline - Totally History](https://totallyhistory.com/cyrus-the-great-timeline/)
+
 [^274]: [Cyrus the Great | Biography & Facts | Britannica](https://www.britannica.com/biography/Cyrus-the-Great)
+
 [^275]: [Cyrus the Great - Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+
 [^276]: [TOP 14 QUOTES BY CYRUS THE GREAT | A-Z Quotes](https://www.azquotes.com/author/38628-Cyrus_the_Great)
+
 [^277]: [Cyrus the Great - Wikiquote](https://en.wikiquote.org/wiki/Cyrus_the_Great)
+
 [^278]: [Cyrus the Great Quotes - Goodreads](https://www.goodreads.com/author/quotes/5160866.Cyrus_the_Great)
+
 [^279]: [Cyrus the Great 10 Most Famous Quotes - Totally History](https://totallyhistory.com/cyrus-the-great-quotes/)
+
 [^280]: [Cyrus the Great (4 Sourced Quotes) - Lib Quotes](https://libquotes.com/cyrus-the-great)

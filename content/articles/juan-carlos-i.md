@@ -118,27 +118,27 @@ Spain's Prime Minister Pedro Sánchez called the revelations about Juan Carlos "
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1938 | Born on January 5 in Rome, Italy, during royal family's exile |
-| 1948 | Returned to Spain to begin education under Franco's supervision |
-| 1955 | Entered General Military Academy at Zaragoza |
-| 1960 | Began studying law and political economy at Complutense University of Madrid |
-| 1962 | Married Princess Sophia of Greece and Denmark on May 14 |
-| 1963 | Daughter Elena born |
-| 1965 | Daughter Cristina born |
-| 1968 | Son Felipe born (future King Felipe VI) |
-| 1969 | Designated as Franco's successor with title "Prince of Spain" on July 22 |
-| 1975 | Became King of Spain on November 22, two days after Franco's death |
-| 1976 | Appointed Adolfo Suárez as Prime Minister, initiating democratic reforms |
-| 1977 | Spain held first democratic elections since 1936 |
-| 1981 | Defended democracy during 23-F coup attempt on February 23 |
-| 1982 | Spain joined NATO |
-| 1986 | Spain joined European Economic Community |
+| Year | Event                                                                                                       |
+| ---- | ----------------------------------------------------------------------------------------------------------- |
+| 1938 | Born on January 5 in Rome, Italy, during royal family's exile                                               |
+| 1948 | Returned to Spain to begin education under Franco's supervision                                             |
+| 1955 | Entered General Military Academy at Zaragoza                                                                |
+| 1960 | Began studying law and political economy at Complutense University of Madrid                                |
+| 1962 | Married Princess Sophia of Greece and Denmark on May 14                                                     |
+| 1963 | Daughter Elena born                                                                                         |
+| 1965 | Daughter Cristina born                                                                                      |
+| 1968 | Son Felipe born (future King Felipe VI)                                                                     |
+| 1969 | Designated as Franco's successor with title "Prince of Spain" on July 22                                    |
+| 1975 | Became King of Spain on November 22, two days after Franco's death                                          |
+| 1976 | Appointed Adolfo Suárez as Prime Minister, initiating democratic reforms                                    |
+| 1977 | Spain held first democratic elections since 1936                                                            |
+| 1981 | Defended democracy during 23-F coup attempt on February 23                                                  |
+| 1982 | Spain joined NATO                                                                                           |
+| 1986 | Spain joined European Economic Community                                                                    |
 | 2012 | Botswana elephant hunting scandal exposed in April; relationship with Corinna zu Sayn-Wittgenstein revealed |
-| 2014 | Abdicated throne on June 19 in favor of son Felipe VI |
-| 2020 | Went into self-imposed exile in Abu Dhabi in August amid corruption investigations |
-| 2025 | Published memoir "Reconciliation" acknowledging mistakes |
+| 2014 | Abdicated throne on June 19 in favor of son Felipe VI                                                       |
+| 2020 | Went into self-imposed exile in Abu Dhabi in August amid corruption investigations                          |
+| 2025 | Published memoir "Reconciliation" acknowledging mistakes                                                    |
 
 ---
 
@@ -159,117 +159,231 @@ Spain's Prime Minister Pedro Sánchez called the revelations about Juan Carlos "
 ## References
 
 [^1]: [Juan Carlos I - Wikipedia](https://en.wikipedia.org/wiki/Juan_Carlos_I)
+
 [^2]: [Spanish transition to democracy - Wikipedia](https://en.wikipedia.org/wiki/Spanish_transition_to_democracy)
+
 [^3]: [1981 Spanish coup attempt - Wikipedia](https://en.wikipedia.org/wiki/1981_Spanish_coup_attempt)
+
 [^4]: [The Saudis, King Juan Carlos I and a shady railroad deal - TRT World](https://www.trtworld.com/magazine/the-saudis-king-juan-carlos-i-and-a-shady-railroad-deal-37190)
+
 [^5]: [Open Season On Spain's King After Luxe Hunting Trip - NPR](https://www.npr.org/2012/04/20/150979685/open-season-on-spains-king-after-luxe-hunting-trip)
+
 [^6]: [Juan Carlos, Spain's former king, leaving country amid corruption allegations - NBC News](https://www.nbcnews.com/news/world/juan-carlos-spain-s-former-king-leaving-country-amid-corruption-n1235730)
+
 [^7]: [Juan Carlos | Biography & Facts | Britannica](https://www.britannica.com/biography/Juan-Carlos)
+
 [^8]: [Juan Carlos I | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/juan-carlos-i)
+
 [^9]: [Juan Carlos I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/juan-carlos-i)
+
 [^10]: [Juan Carlos I Biography - TheFamousPeople](https://www.thefamouspeople.com/profiles/juan-carlos-3932.php)
+
 [^11]: [Juan Carlos I of Spain - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Juan_Carlos_I_of_Spain)
+
 [^12]: [Juan Carlos I summary | Britannica](https://www.britannica.com/summary/Juan-Carlos)
+
 [^13]: [Juan Carlos I - Students | Britannica Kids](https://kids.britannica.com/students/article/Juan-Carlos-I/275190)
+
 [^14]: [Carlos, Juan I (b. 1938) | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/carlos-juan-i-b-1938)
+
 [^15]: [Francoist Spain - Wikipedia](https://en.wikipedia.org/wiki/Francoist_Spain)
+
 [^16]: [Juan Carlos I, the King who oversaw transition from dictatorship to democracy in Spain - Catalan News](https://www.catalannews.com/politics/item/juan-carlos-i-the-king-who-oversaw-transition-from-dictatorship-to-democracy-in-spain)
+
 [^17]: [Reign of Juan Carlos I - Wikipedia](https://en.wikipedia.org/wiki/Reign_of_Juan_Carlos_I)
+
 [^18]: [Spain's ex-King Juan Carlos: From hero of democracy to tainted exile - Euronews](https://www.euronews.com/2020/08/04/spain-s-ex-king-juan-carlos-from-hero-of-democracy-to-tainted-exile)
+
 [^19]: [Project MUSE - Spain's Transition to Democracy](https://muse.jhu.edu/article/30436/summary)
+
 [^20]: [Timeline of King Juan Carlos I | Timepath](https://timepath.org/juan-carlos)
+
 [^21]: [The Spanish king who set, then saved, democracy - CS Monitor](https://www.csmonitor.com/Commentary/the-monitors-view/2019/0604/The-Spanish-king-who-set-then-saved-democracy)
+
 [^22]: [Rise and Fall of Spain's Juan Carlos I - Town & Country](https://www.townandcountrymag.com/society/money-and-power/a40798411/juan-carlos-i-of-spain-royal-family-history/)
+
 [^23]: [Juan Carlos I Age, Net Worth, Biography & Legacy - Mabumbe](https://mabumbe.com/people/juan-carlos-i-age-net-worth-biography-legacy/)
+
 [^24]: [InicioS.M. el Rey Don Juan Carlos - Biography - Casa Real](https://www.casareal.es/EN/FamiliaReal/rey/Paginas/rey_biografia.aspx)
+
 [^25]: [Using relationship management to legitimate the monarchy - Redalyc](https://www.redalyc.org/journal/687/68753898003/html/)
+
 [^26]: [History Matters - Juan Carlos I's Investiture As King Of Spain](https://historymatters.sites.sheffield.ac.uk/blog-archive/2018/all-tied-up-juan-carlos-is-investiture-as-king-of-spain-22-november-19)
+
 [^27]: [23-F: THE COUP ATTEMPT IN SPAIN - Google Arts & Culture](https://artsandculture.google.com/story/DAUhL99EpxTNLA)
+
 [^28]: [23-F: remembering the 1981 Spanish coup attempt - Marxist](https://marxist.com/23-f-remembering-the-1981-spanish-coup-attempt.htm)
+
 [^29]: [1981 Spanish coup d'état attempt facts for kids - Kiddle](https://kids.kiddle.co/1981_Spanish_coup_d'%C3%A9tat_attempt)
+
 [^30]: [The night that saved the king - Delayed Gratification](https://www.slow-journalism.com/from-the-archive/the-night-that-saved-the-king)
+
 [^31]: [Spain marks 40 years since failed coup attempt - Anadolu Agency](https://www.aa.com.tr/en/europe/spain-marks-40-years-since-failed-coup-attempt/2154865)
+
 [^32]: [The Attempted Coup d'État in Spain on February 23, 1981 - History Snacks](https://historysnacks.io/event/Snr6tJl3/)
+
 [^33]: [The Spanish king who set, then saved, democracy - CS Monitor](https://www.csmonitor.com/Commentary/the-monitors-view/2019/0604/The-Spanish-king-who-set-then-saved-democracy)
+
 [^34]: [Juan Carlos I - Wikipedia](https://en.wikipedia.org/wiki/Juan_Carlos_I)
+
 [^35]: [Juan Carlos I - Council of Europe Speech 1979](http://www.assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=106)
+
 [^36]: [Speech by H.M. King Juan Carlos I at UNESCO, 1983](https://unesdoc.unesco.org/ark:/48223/pf0000057377)
+
 [^37]: [Spain's exiled king recounts history, scandals in wistful memoir - CBS19](https://www.cbs19news.com/spains-exiled-king-recounts-history-scandals-in-wistful-memoir/article_7ba11833-b88e-5356-9431-a3ec6bd80b9d.html)
+
 [^38]: [Spanish king under fire for elephant hunting trip - France 24](https://www.france24.com/en/20120416-spain-king-juan-carlos-elephant-hunting-spree-botswana-hip-replacement)
+
 [^39]: [Spanish king has surgery after hunting accident - CBC News](https://www.cbc.ca/news/world/spanish-king-has-surgery-after-hunting-accident-1.1142317)
+
 [^40]: [King Juan Carlos I Fast Facts - CNN](https://www.cnn.com/world/europe/king-juan-carlos-i-fast-facts)
+
 [^41]: [Open Season On Spain's King After Luxe Hunting Trip - NPR](https://www.npr.org/2012/04/20/150979685/open-season-on-spains-king-after-luxe-hunting-trip)
+
 [^42]: [SPAIN: Animal rights activists condemn King Juan Carlos - Reuters](https://reuters.screenocean.com/record/717352)
+
 [^43]: [Spain: King Juan Carlos Comes Under Fire for Elephant Hunt - TIME](https://content.time.com/time/specials/packages/article/0,28804,2111975_2111976_2112130,00.html)
+
 [^44]: [Spain: Dead Elephant Marked the Beginning of the End for Spain's King - TIME](https://time.com/2808963/spain-king-elephant-abdication/)
+
 [^45]: [Corinna zu Sayn-Wittgenstein-Sayn - Wikipedia](https://en.wikipedia.org/wiki/Corinna_zu_Sayn-Wittgenstein-Sayn)
+
 [^46]: [King Juan Carlos' ex-mistress opens up about the affair - Fox News](https://www.foxnews.com/entertainment/king-juan-carlos-former-mistress-affair-ballistic)
+
 [^47]: [Corinna and The King - Podcast - Apple Podcasts](https://podcasts.apple.com/us/podcast/corinna-and-the-king/id1652078238)
+
 [^48]: [The Spanish king, a Saudi 'gift', and a Swiss probe - Catalan News](https://www.catalannews.com/politics/item/the-spanish-king-a-saudi-gift-and-a-swiss-probe)
+
 [^49]: [Saudi US$ 100 million "gift" investigated by Swiss prosecutor - MercoPress](https://en.mercopress.com/2021/03/16/saudi-us-100-million-gift-to-spain-s-juan-carlos-i-investigated-by-swiss-prosecutor)
+
 [^50]: [Did The Former King Of Spain Receive A $100 Million "Donation" - Celebrity Net Worth](https://www.celebritynetworth.com/articles/celebrity/did-the-former-king-of-spain-receive-a-100-million-donation-from-the-king-of-saudi-arabia-and-later-gift-77-million-to-a-former-lover/)
+
 [^51]: [The Saudis, King Juan Carlos I and a shady railroad deal - TRT World](https://www.trtworld.com/magazine/the-saudis-king-juan-carlos-i-and-a-shady-railroad-deal-37190)
+
 [^52]: [Spain Will Probe Whether Ex-King Took Kickbacks From Saudi Arabia - OCCRP](https://www.occrp.org/en/daily/12503-spain-will-probe-whether-ex-king-took-kickbacks-from-saudi-arabia)
+
 [^53]: [King Juan Carlos allegedly received $100m in commissions - ARA](https://en.ara.cat/misc/king-juan-carlos-commissions-mecca_1_1187600.html)
+
 [^54]: [Spain's former king Juan Carlos to be investigated by Supreme Court - SCMP](https://www.scmp.com/news/world/europe/article/3088113/spains-former-king-juan-carlos-be-investigated-supreme-court-over)
+
 [^55]: [Juan Carlos I defends legacy but regrets 'weaknesses' in new memoir - Euronews](https://www.euronews.com/culture/2025/10/30/regrets-and-reconciliation-spains-emeritus-king-juan-carlos-shares-respect-for-franco-in-m)
+
 [^56]: [The Spanish Royal Family Tree - Town & Country](https://www.townandcountrymag.com/society/tradition/a42678955/spanish-royal-family-tree/)
+
 [^57]: [Spain's King Felipe VI renounces his inheritance from his father - CNN](https://www.cnn.com/2020/03/17/europe/spain-king-felipe-inheritance-scli-intl/index.html)
+
 [^58]: [Spain's former king to leave the country amid corruption claims - Al Jazeera](https://www.aljazeera.com/news/2020/8/3/spains-former-king-to-leave-the-country-amid-corruption-claims)
+
 [^59]: [Wedding of King Juan Carlos of Spain and Princess Sophia of Greece - Unofficial Royalty](https://www.unofficialroyalty.com/wedding-of-juan-carlos-of-spain-and-sophia-of-greece/)
+
 [^60]: [Wedding of Prince Juan Carlos and Princess Sophia - Wikipedia](https://en.wikipedia.org/wiki/Wedding_of_Prince_Juan_Carlos_and_Princess_Sophia)
+
 [^61]: [Queen Sofía of Spain - Wikipedia](https://en.wikipedia.org/wiki/Queen_Sof%C3%ADa_of_Spain)
+
 [^62]: [Wedding of Juan Carlos of Spain and Sofia of Greece, 1962 - Royal Watcher](https://royalwatcherblog.com/2017/05/14/wedding-of-juan-carlos-of-spain-and-sofia-of-greece-1962/)
+
 [^63]: [Queen Sofía of Spain - Grokipedia](https://grokipedia.com/page/Queen_Sof%C3%ADa_of_Spain)
+
 [^64]: [Royal Wedding Rewind: Juan Carlos and Sofia of Spain - Royal Central](https://royalcentral.co.uk/features/royal-wedding-rewind-juan-carlos-and-sofia-of-spain-142214/)
+
 [^65]: [Prince Juan Carlos of Spain & Princess Sofia of Greece 1962 - The Royal Forums](https://www.theroyalforums.com/threads/prince-juan-carlos-of-spain-princess-sofia-of-greece-1962.155/)
+
 [^66]: [Accession to the Throne – Spain - Unofficial Royalty](https://www.unofficialroyalty.com/spain-accession-to-the-throne/)
+
 [^67]: [King Juan Carlos I Fast Facts - KESQ](https://kesq.com/news/national-world/cnn-world/2025/12/16/king-juan-carlos-i-fast-facts-3/)
+
 [^68]: [King Juan Carlos' ex-mistress was initially 'afraid of the retaliation' - Fox News](https://www.foxnews.com/entertainment/king-juan-carlos-ex-mistress-true-royalty-tv-documentary)
+
 [^69]: [Spanish ex-king's lover due to testify in defamation trial - Irish Times](https://www.irishtimes.com/news/world/europe/spanish-ex-king-s-lover-due-to-testify-in-defamation-trial-1.4458558)
+
 [^70]: [Former lover Corinna warns that Juan Carlos I has "hundreds of accounts" - El Nacional](https://www.elnacional.cat/en/news/juan-carlos-corinna-bank-accounts-bbc_531747_102.html)
+
 [^71]: [Spain's disgraced former king Juan Carlos to sue ex-lover - Spain in English](https://www.spainenglish.com/2025/04/10/spain-disgraced-former-king-juan-carlos-to-sue-ex-lover-for-defamation/)
+
 [^72]: [Spain's ex-king Juan Carlos, under investigation, says he is leaving - Euronews](https://www.euronews.com/2020/08/03/spain-s-ex-king-juan-carlos-under-investigation-for-corruption-says-he-is-leaving-the-coun)
+
 [^73]: [BREAKING: King Juan Carlos leaves country in exile - Royal Central](https://royalcentral.co.uk/europe/spain/breaking-king-juan-carlos-of-spain-leaves-country-in-exile-amid-corruption-scandal-145971/)
+
 [^74]: [Juan Carlos I: the best King that Spain has ever had - Metaphore](https://metaphoremagazine.com/juan-carlos-i-the-best-king-that-spain-has-ever-had/)
+
 [^75]: [Former Spanish King Juan Carlos Goes into Exile - Democracy Now](https://www.democracynow.org/2020/8/4/headlines/former_spanish_king_juan_carlos_goes_into_exile_over_corruption_scandal)
+
 [^76]: [Using relationship management to legitimate the monarchy - Redalyc](https://www.redalyc.org/journal/687/68753898003/html/)
+
 [^77]: [Juan Carlos I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/juan-carlos-i)
+
 [^78]: [Remarks of President Reagan and King Juan Carlos I - Reagan Library](https://www.reaganlibrary.gov/archives/speech/remarks-president-and-king-juan-carlos-i-spain-following-their-meetings)
+
 [^79]: [Juan Carlos I - Wikipedia](https://en.wikipedia.org/wiki/Juan_Carlos_I)
+
 [^80]: [Spain's Former King Has Fled, But His Cronyism Remains - Jacobin](https://jacobin.com/2020/08/monarchism-spain-king-corruption)
+
 [^81]: [Disgraced former king Juan Carlos I exiles himself from Spain - El Nacional](https://www.elnacional.cat/en/politics/disgraced-former-king-juan-carlos-announces-is-exiling-himself-from-spain_527730_102.html)
+
 [^82]: [Spain: Dead Elephant Marked the Beginning of the End - TIME](https://time.com/2808963/spain-king-elephant-abdication/)
+
 [^83]: [Abdication of Juan Carlos I - Wikipedia](https://en.wikipedia.org/wiki/Abdication_of_Juan_Carlos_I)
+
 [^84]: [Felipe VI becomes king of Spain after Juan Carlos I abdicates - HISTORY](https://www.history.com/this-day-in-history/felipe-iv-king-of-spain-juan-carlos)
+
 [^85]: [Spain's King Juan Carlos abdicates - France 24](https://www.france24.com/en/20140602-spain-king-juan-carlos-abdicate-rajoy)
+
 [^86]: [Felipe VI - Wikipedia](https://en.wikipedia.org/wiki/Felipe_VI)
+
 [^87]: [Factbox-Juan Carlos memoir chronicles chequered life - AL-Monitor](https://www.al-monitor.com/originals/2025/11/factbox-juan-carlos-memoir-chronicles-chequered-life-former-spanish-king)
+
 [^88]: ['Explanations of what?': former Spanish king ends 4-day trip - Catalan News](https://www.catalannews.com/politics/item/explanations-of-what-former-spanish-king-ends-4-day-trip-from-uae)
+
 [^89]: [Former king of Spain wants to appeal after losing UK High Court fight - Irish Examiner](https://www.irishexaminer.com/world/arid-40839764.html)
+
 [^90]: [Project MUSE - Spain's Transition to Democracy](https://muse.jhu.edu/article/30436/summary)
+
 [^91]: [The Kings' Speeches: Juan Carlos I and Felipe VI - LinkedIn](https://www.linkedin.com/pulse/kings-speeches-juan-carlos-i-felipe-vi-charles-fleming)
+
 [^92]: [The Kings' Speeches: Juan Carlos I and Felipe VI - Expression Impression Blog](https://expressionimpressionblog.wordpress.com/2017/10/23/the-kings-speeches-juan-carlos-i-and-felipe-vi/)
+
 [^93]: [Juan Carlos I - Wikipedia](https://en.wikipedia.org/wiki/Juan_Carlos_I)
+
 [^94]: [23-F: THE COUP ATTEMPT IN SPAIN - Google Arts & Culture](https://artsandculture.google.com/story/DAUhL99EpxTNLA)
+
 [^95]: [Using relationship management to legitimate the monarchy - Redalyc](https://www.redalyc.org/journal/687/68753898003/html/)
+
 [^96]: [Juan Carlos I - Council of Europe Speech 1979](http://www.assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=106)
+
 [^97]: [Speech by H.M. King Juan Carlos I at UNESCO, 1983](https://unesdoc.unesco.org/ark:/48223/pf0000057377)
+
 [^98]: [Remarks at the Welcoming Ceremony for King Juan Carlos I - American Presidency Project](https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-king-juan-carlos-i-spain-0)
+
 [^99]: [Juan Carlos I: the best King that Spain has ever had - Metaphore](https://metaphoremagazine.com/juan-carlos-i-the-best-king-that-spain-has-ever-had/)
+
 [^100]: [Spain's Former King Has Fled, But His Cronyism Remains - Jacobin](https://jacobin.com/2020/08/monarchism-spain-king-corruption)
+
 [^101]: [23-F: remembering the 1981 Spanish coup attempt - Marxist](https://marxist.com/23-f-remembering-the-1981-spanish-coup-attempt.htm)
+
 [^102]: [Spain's King Juan Carlos supported 1981 coup attempt - WSWS](https://www.wsws.org/en/articles/2012/02/king-f14.html)
+
 [^103]: [The failed 1981 coup: the foundational myth under scrutiny - Catalan News](https://www.catalannews.com/politics/item/the-failed-1981-coup-the-foundational-myth-of-spain-s-democracy-increasingly-under-scrutiny)
+
 [^104]: [Spain's Former King Has Fled, But His Cronyism Remains - Jacobin](https://jacobin.com/2020/08/monarchism-spain-king-corruption)
+
 [^105]: [The Spanish king, a Saudi 'gift', and a Swiss probe - Catalan News](https://www.catalannews.com/politics/item/the-spanish-king-a-saudi-gift-and-a-swiss-probe)
+
 [^106]: [Former lover Corinna warns Juan Carlos has "hundreds of accounts" - El Nacional](https://www.elnacional.cat/en/news/juan-carlos-corinna-bank-accounts-bbc_531747_102.html)
+
 [^107]: [Juan Carlos I, the King who oversaw transition from dictatorship - Catalan News](https://www.catalannews.com/politics/item/juan-carlos-i-the-king-who-oversaw-transition-from-dictatorship-to-democracy-in-spain)
+
 [^108]: [The failed 1981 coup: the foundational myth under scrutiny - Catalan News](https://www.catalannews.com/politics/item/the-failed-1981-coup-the-foundational-myth-of-spain-s-democracy-increasingly-under-scrutiny)
+
 [^109]: [Spain's former king to leave the country amid corruption claims - Al Jazeera](https://www.aljazeera.com/news/2020/8/3/spains-former-king-to-leave-the-country-amid-corruption-claims)
+
 [^110]: [Spain's King Felipe VI renounces his inheritance from his father - CNN](https://www.cnn.com/2020/03/17/europe/spain-king-felipe-inheritance-scli-intl/index.html)
+
 [^111]: [History Matters - Juan Carlos I's Investiture As King Of Spain](https://historymatters.sites.sheffield.ac.uk/blog-archive/2018/all-tied-up-juan-carlos-is-investiture-as-king-of-spain-22-november-19)
+
 [^112]: [Open Season On Spain's King After Luxe Hunting Trip - NPR](https://www.npr.org/2012/04/20/150979685/open-season-on-spains-king-after-luxe-hunting-trip)
+
 [^113]: [The night that saved the king - Delayed Gratification](https://www.slow-journalism.com/from-the-archive/the-night-that-saved-the-king)
+
 [^114]: [Speech by H.M. King Juan Carlos I at UNESCO, 1983](https://unesdoc.unesco.org/ark:/48223/pf0000057377)
+
 [^115]: [Juan Carlos I - Council of Europe Speech 1979](http://www.assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=106)

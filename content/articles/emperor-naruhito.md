@@ -164,31 +164,31 @@ Younger Japanese citizens increasingly express indifference toward the imperial 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1960 | Born on February 23 in Tokyo Imperial Palace |
-| 1982 | Graduated from Gakushuin University with degree in history |
-| 1983 | Began studies at Merton College, Oxford (first imperial heir to study abroad) |
-| 1985 | Completed Oxford research on Thames River transportation |
-| 1987 | Visited Nepal, sparking lifelong commitment to water conservation |
-| 1988 | Completed first part of doctorate at Gakushuin University |
-| 1989 | Father Akihito became emperor; Naruhito became heir apparent |
-| 1991 | Formally invested as Crown Prince of Japan on his 31st birthday |
-| 1993 | Married Masako Owada on June 9 |
-| 1999 | Wife Masako suffered miscarriage |
-| 2001 | Daughter Princess Aiko born on December 1 |
-| 2003 | Served as president of third World Water Forum |
+| Year | Event                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------------- |
+| 1960 | Born on February 23 in Tokyo Imperial Palace                                                    |
+| 1982 | Graduated from Gakushuin University with degree in history                                      |
+| 1983 | Began studies at Merton College, Oxford (first imperial heir to study abroad)                   |
+| 1985 | Completed Oxford research on Thames River transportation                                        |
+| 1987 | Visited Nepal, sparking lifelong commitment to water conservation                               |
+| 1988 | Completed first part of doctorate at Gakushuin University                                       |
+| 1989 | Father Akihito became emperor; Naruhito became heir apparent                                    |
+| 1991 | Formally invested as Crown Prince of Japan on his 31st birthday                                 |
+| 1993 | Married Masako Owada on June 9                                                                  |
+| 1999 | Wife Masako suffered miscarriage                                                                |
+| 2001 | Daughter Princess Aiko born on December 1                                                       |
+| 2003 | Served as president of third World Water Forum                                                  |
 | 2004 | Wife diagnosed with adjustment disorder; Naruhito publicly criticized Imperial Household Agency |
-| 2007 | Appointed honorary president of UN Secretary General's Advisory Board on Water and Sanitation |
-| 2012 | Temporarily assumed father's duties during Emperor Akihito's heart surgery recovery |
-| 2015 | Concluded service on UN Advisory Board on Water and Sanitation |
-| 2017 | Government announced Emperor Akihito would abdicate on April 30, 2019 |
-| 2019 | Became 126th Emperor of Japan on May 1, beginning Reiwa era |
-| 2019 | Official enthronement ceremony held on October 22 |
-| 2020 | Brother Crown Prince Akishino formally declared heir to throne on November 8 |
-| 2020 | Addressed COVID-19 pandemic, calling for collective resilience |
-| 2021 | Delivered speech at war memorial emphasizing peace and remorse |
-| 2025 | Delivered speech in English on AI at Science and Technology forum in Kyoto |
+| 2007 | Appointed honorary president of UN Secretary General's Advisory Board on Water and Sanitation   |
+| 2012 | Temporarily assumed father's duties during Emperor Akihito's heart surgery recovery             |
+| 2015 | Concluded service on UN Advisory Board on Water and Sanitation                                  |
+| 2017 | Government announced Emperor Akihito would abdicate on April 30, 2019                           |
+| 2019 | Became 126th Emperor of Japan on May 1, beginning Reiwa era                                     |
+| 2019 | Official enthronement ceremony held on October 22                                               |
+| 2020 | Brother Crown Prince Akishino formally declared heir to throne on November 8                    |
+| 2020 | Addressed COVID-19 pandemic, calling for collective resilience                                  |
+| 2021 | Delivered speech at war memorial emphasizing peace and remorse                                  |
+| 2025 | Delivered speech in English on AI at Science and Technology forum in Kyoto                      |
 
 ---
 
@@ -209,95 +209,187 @@ Younger Japanese citizens increasingly express indifference toward the imperial 
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Naruhito
+
 [^2]: https://www.britannica.com/biography/Naruhito
+
 [^3]: https://theconversation.com/japans-new-emperor-is-a-modern-multilingual-environmentalist-109922
+
 [^4]: https://www.cnn.com/2019/04/29/asia/naruhito-fast-facts/index.html
+
 [^5]: https://www.kunaicho.go.jp/e-about/history/history02.html
+
 [^6]: https://www.thefamouspeople.com/profiles/naruhito-9714.php
+
 [^7]: https://kids.britannica.com/students/article/Naruhito/629876
+
 [^8]: https://simple.wikipedia.org/wiki/Naruhito
+
 [^9]: https://biographs.org/naruhito
+
 [^10]: https://www.findingdulcinea.com/emperor-of-japan/
+
 [^11]: https://www.tokyoweekender.com/japan-life/news-and-opinion/10-things-might-not-know-emperor-naruhito/
+
 [^12]: https://time.com/5561852/japan-new-emperor-naruhito-reiwa/
+
 [^13]: https://www.wral.com/story/emperor-naruhito-fast-facts/21860489/
+
 [^14]: https://the-world-of-royalty.fandom.com/wiki/Emperor_Naruhito_of_Japan
+
 [^15]: https://kazukonishimura.com/the-undying-love-naruhito-and-masako/
+
 [^16]: https://www.unofficialroyalty.com/wedding-of-crown-prince-naruhito-of-japan-and-masako-owada/
+
 [^17]: https://en.wikipedia.org/wiki/Empress_Masako
+
 [^18]: https://www.britannica.com/biography/Masako
+
 [^19]: https://www.scmp.com/magazines/style/celebrity/article/3039214/how-japans-empress-masako-overcame-pressures-throne-5
+
 [^20]: https://www.washingtonpost.com/history/2019/05/01/harvards-royal-touch-how-post-covered-empress-masakos-transition-royal-life/
+
 [^21]: https://en.wikipedia.org/wiki/2019_Japanese_imperial_transition
+
 [^22]: https://www.kanpai-japan.com/lifestyle/reiwa-new-imperial-era-emperor-naruhito
+
 [^23]: https://www.hagatna.us.emb-japan.go.jp/itprtop_en/b_000205.html
+
 [^24]: https://www.newsweek.com/prince-naruhito-japans-next-emperor-environmentalist-1403646
+
 [^25]: https://www.asiamediacentre.org.nz/news/10-things-to-know-about-japans-new-emperor-naruhito
+
 [^26]: https://umbc.edu/stories/japans-next-emperor-is-a-modern-multilingual-environmentalist/
+
 [^27]: https://theconversation.com/japans-new-emperor-is-a-modern-multilingual-environmentalist-109922
+
 [^28]: https://asia.nikkei.com/spotlight/japan-s-reiwa-era/always-wishing-for-happiness-transcript-of-japanese-emperor-naruhito-s-proclamation
+
 [^29]: https://asia.nikkei.com/spotlight/japan-s-reiwa-era/always-wishing-for-happiness-transcript-of-japanese-emperor-naruhito-s-proclamation
+
 [^30]: https://www.nippon.com/en/in-depth/d00612/
+
 [^31]: https://en.wikiquote.org/wiki/Naruhito
+
 [^32]: https://ias.pku.edu.cn/en/docs//2020-11/a79da13c853e40098c90fe1586f046d4.pdf
+
 [^33]: https://www.nippon.com/en/japan-topics/c06105/meet-the-new-imperial-family.html
+
 [^34]: https://www.presidency.ucsb.edu/documents/statement-the-enthronement-emperor-naruhito-japan
+
 [^35]: https://www.japantimes.co.jp/news/2025/10/06/japan/emperor-speech-kyoto-science-forum/
+
 [^36]: https://en.wikipedia.org/wiki/Japanese_imperial_succession_debate
+
 [^37]: https://theconversation.com/japans-looming-imperial-crisis-why-its-time-to-open-the-succession-to-female-heirs-233795
+
 [^38]: https://en.wikipedia.org/wiki/Naruhito
+
 [^39]: https://theconversation.com/japans-looming-imperial-crisis-why-its-time-to-open-the-succession-to-female-heirs-233795
+
 [^40]: https://theconversation.com/japans-looming-imperial-crisis-why-its-time-to-open-the-succession-to-female-heirs-233795
+
 [^41]: https://en.wikipedia.org/wiki/Controversies_regarding_the_role_of_the_Emperor_of_Japan
+
 [^42]: https://time.com/5705838/japan-emperor-naruhito-enthronement-what-to-know/
+
 [^43]: https://www.thedailybeast.com/japan-has-a-new-emperor-naruhito-and-a-new-era-but-a-dark-future-under-shinzo-abe/
+
 [^44]: https://www.tandfonline.com/doi/full/10.1080/18692729.2021.1921330
+
 [^45]: https://www.tandfonline.com/doi/full/10.1080/18692729.2021.1921330
+
 [^46]: https://japambience.com/article/emperor-system/
+
 [^47]: https://japambience.com/article/emperor-system/
+
 [^48]: https://www.washingtonpost.com/history/2019/05/01/harvards-royal-touch-how-post-covered-empress-masakos-transition-royal-life/
+
 [^49]: https://grokipedia.com/page/Empress_Masako
+
 [^50]: https://en.wikipedia.org/wiki/Empress_Masako
+
 [^51]: https://kazukonishimura.com/the-undying-love-naruhito-and-masako/
+
 [^52]: https://www.unofficialroyalty.com/wedding-of-crown-prince-naruhito-of-japan-and-masako-owada/
+
 [^53]: https://www.washingtonpost.com/history/2019/05/01/harvards-royal-touch-how-post-covered-empress-masakos-transition-royal-life/
+
 [^54]: https://www.britannica.com/biography/Masako
+
 [^55]: https://www.scmp.com/magazines/style/celebrity/article/3039214/how-japans-empress-masako-overcame-pressures-throne-5
+
 [^56]: https://www.washingtonpost.com/history/2019/05/01/harvards-royal-touch-how-post-covered-empress-masakos-transition-royal-life/
+
 [^57]: https://www.nippon.com/en/japan-topics/c06105/meet-the-new-imperial-family.html
+
 [^58]: https://en.wikipedia.org/wiki/Japanese_imperial_succession_debate
+
 [^59]: https://www.thefamouspeople.com/profiles/naruhito-9714.php
+
 [^60]: https://www.tokyoweekender.com/japan-life/news-and-opinion/10-things-might-not-know-emperor-naruhito/
+
 [^61]: https://theconversation.com/japans-new-emperor-is-a-modern-multilingual-environmentalist-109922
+
 [^62]: https://www.nippon.com/en/japan-topics/c06105/meet-the-new-imperial-family.html
+
 [^63]: https://www.wral.com/story/emperor-naruhito-fast-facts/21860489/
+
 [^64]: https://theconversation.com/japans-new-emperor-is-a-modern-multilingual-environmentalist-109922
+
 [^65]: https://asia.nikkei.com/spotlight/japan-s-reiwa-era/always-wishing-for-happiness-transcript-of-japanese-emperor-naruhito-s-proclamation
+
 [^66]: https://www.theglobalist.com/japan-emperor-naruhito-shinzo-abe-militarism/
+
 [^67]: https://ias.pku.edu.cn/en/docs//2020-11/a79da13c853e40098c90fe1586f046d4.pdf
+
 [^68]: https://theconversation.com/japans-looming-imperial-crisis-why-its-time-to-open-the-succession-to-female-heirs-233795
+
 [^69]: https://www.bu.edu/articles/2019/how-the-japanese-imperial-family-the-worlds-oldest-royal-line-transcends-time/
+
 [^70]: https://www.kanpai-japan.com/lifestyle/reiwa-new-imperial-era-emperor-naruhito
+
 [^71]: https://ias.pku.edu.cn/en/docs//2020-11/a79da13c853e40098c90fe1586f046d4.pdf
+
 [^72]: https://theconversation.com/japans-looming-imperial-crisis-why-its-time-to-open-the-succession-to-female-heirs-233795
+
 [^73]: https://www.nippon.com/en/in-depth/d00612/
+
 [^74]: https://en.wikiquote.org/wiki/Naruhito
+
 [^75]: https://umbc.edu/stories/japans-next-emperor-is-a-modern-multilingual-environmentalist/
+
 [^76]: https://asia.nikkei.com/spotlight/japan-s-reiwa-era/always-wishing-for-happiness-transcript-of-japanese-emperor-naruhito-s-proclamation
+
 [^77]: https://www.washingtonpost.com/history/2019/05/01/harvards-royal-touch-how-post-covered-empress-masakos-transition-royal-life/
+
 [^78]: https://ias.pku.edu.cn/en/docs//2020-11/a79da13c853e40098c90fe1586f046d4.pdf
+
 [^79]: https://www.bu.edu/articles/2019/how-the-japanese-imperial-family-the-worlds-oldest-royal-line-transcends-time/
+
 [^80]: https://www.japantimes.co.jp/news/2025/10/06/japan/emperor-speech-kyoto-science-forum/
+
 [^81]: https://japambience.com/article/emperor-system/
+
 [^82]: https://www.tandfonline.com/doi/full/10.1080/18692729.2021.1921330
+
 [^83]: https://www.thedailybeast.com/japan-has-a-new-emperor-naruhito-and-a-new-era-but-a-dark-future-under-shinzo-abe/
+
 [^84]: https://en.wikipedia.org/wiki/Japanese_imperial_succession_debate
+
 [^85]: https://theconversation.com/japans-new-emperor-is-a-modern-multilingual-environmentalist-109922
+
 [^86]: https://en.wikipedia.org/wiki/Controversies_regarding_the_role_of_the_Emperor_of_Japan
+
 [^87]: https://time.com/5705838/japan-emperor-naruhito-enthronement-what-to-know/
+
 [^88]: https://japambience.com/article/emperor-system/
+
 [^89]: https://asia.nikkei.com/spotlight/japan-s-reiwa-era/always-wishing-for-happiness-transcript-of-japanese-emperor-naruhito-s-proclamation
+
 [^90]: https://en.wikiquote.org/wiki/Naruhito
+
 [^91]: https://www.nippon.com/en/in-depth/d00612/
+
 [^92]: https://quotepark.com/authors/naruhito/
+
 [^93]: https://www.quotes.net/authors/Emperor+Naruhito

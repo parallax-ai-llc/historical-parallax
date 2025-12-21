@@ -127,28 +127,28 @@ His failure to ensure competent succession represents perhaps his gravest politi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 958 | Born in Constantinople to Emperor Romanos II and Empress Theophano |
-| 960 | Crowned co-emperor by his father at age two (April 22) |
-| 963 | Father Romanos II dies; Nikephoros II Phokas becomes regent-emperor |
-| 969 | Nikephoros II assassinated; John I Tzimiskes becomes emperor |
-| 976 | John I Tzimiskes dies; Basil becomes senior emperor (January 10) |
-| 976 | Rebellion of Bardas Skleros begins |
-| 979 | Bardas Phokas defeats Bardas Skleros (March 24) |
-| 985 | Basil Lekapenos removed from power; Basil achieves full control |
-| 986 | Disastrous defeat at Trajan's Gate against Bulgarian forces |
-| 987 | Bardas Phokas rebels against Basil |
-| 988 | Alliance with Vladimir I of Kiev; formation of Varangian Guard |
-| 989 | Death of Bardas Phokas; surrender of Bardas Skleros; end of civil wars |
-| 996 | Issues legal decree limiting aristocratic property rights (January) |
-| 1000 | Begins systematic conquest of Bulgaria; ten-year truce with Fatimid Caliphate |
-| 1001 | Recaptures Vodena, Verrhoia, and Servia from Bulgaria |
-| 1002 | Introduces allelengyon tax targeting wealthy landowners |
-| 1014 | Decisive victory at Battle of Kleidion; orders mass blinding of 15,000 Bulgarian prisoners (July 29) |
-| 1018 | Final conquest and annexation of Bulgaria |
-| 1021-22 | Successful campaigns in Armenia; captures Vaspurkan |
-| 1025 | Dies while preparing expedition to reconquer Sicily (December 15) |
+| Year    | Event                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------- |
+| 958     | Born in Constantinople to Emperor Romanos II and Empress Theophano                                   |
+| 960     | Crowned co-emperor by his father at age two (April 22)                                               |
+| 963     | Father Romanos II dies; Nikephoros II Phokas becomes regent-emperor                                  |
+| 969     | Nikephoros II assassinated; John I Tzimiskes becomes emperor                                         |
+| 976     | John I Tzimiskes dies; Basil becomes senior emperor (January 10)                                     |
+| 976     | Rebellion of Bardas Skleros begins                                                                   |
+| 979     | Bardas Phokas defeats Bardas Skleros (March 24)                                                      |
+| 985     | Basil Lekapenos removed from power; Basil achieves full control                                      |
+| 986     | Disastrous defeat at Trajan's Gate against Bulgarian forces                                          |
+| 987     | Bardas Phokas rebels against Basil                                                                   |
+| 988     | Alliance with Vladimir I of Kiev; formation of Varangian Guard                                       |
+| 989     | Death of Bardas Phokas; surrender of Bardas Skleros; end of civil wars                               |
+| 996     | Issues legal decree limiting aristocratic property rights (January)                                  |
+| 1000    | Begins systematic conquest of Bulgaria; ten-year truce with Fatimid Caliphate                        |
+| 1001    | Recaptures Vodena, Verrhoia, and Servia from Bulgaria                                                |
+| 1002    | Introduces allelengyon tax targeting wealthy landowners                                              |
+| 1014    | Decisive victory at Battle of Kleidion; orders mass blinding of 15,000 Bulgarian prisoners (July 29) |
+| 1018    | Final conquest and annexation of Bulgaria                                                            |
+| 1021-22 | Successful campaigns in Armenia; captures Vaspurkan                                                  |
+| 1025    | Dies while preparing expedition to reconquer Sicily (December 15)                                    |
 
 ---
 
@@ -165,141 +165,279 @@ His failure to ensure competent succession represents perhaps his gravest politi
 ## References
 
 [^1]: Britannica. "Basil II | Byzantine Emperor & Military Strategist." https://www.britannica.com/biography/Basil-II
+
 [^2]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^3]: TheCollector. "What Made Basil II One of Byzantium's Greatest Emperors?" https://www.thecollector.com/basil-ii-byzantine-emperor/
+
 [^4]: Medium. "The Brutal Blinding of Bulgarians by Basil II of Byzantium." https://medium.com/frame-of-reference/the-brutal-blinding-of-bulgarians-by-basil-ii-of-byzantium-9c384ac67e3d
+
 [^5]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^6]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^7]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^8]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^9]: TheCollector. "What Made Basil II One of Byzantium's Greatest Emperors?" https://www.thecollector.com/basil-ii-byzantine-emperor/
+
 [^10]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^11]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^12]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^13]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^14]: Hall of Ancient Warriors. "Basil II: The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/basil-ii-the-bulgar-slayer/
+
 [^15]: Dumbarton Oaks. "Theophano (963)." https://www.doaks.org/resources/online-exhibits/gods-regents-on-earth-a-thousand-years-of-byzantine-imperial-seals/rulers-of-byzantium/theophano-959201369
+
 [^16]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^17]: Wikipedia. "Nikephoros II Phokas." https://en.wikipedia.org/wiki/Nikephoros_II_Phokas
+
 [^18]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^19]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^20]: Dumbarton Oaks. "Basil II (976–1025)." https://www.doaks.org/resources/online-exhibits/gods-regents-on-earth-a-thousand-years-of-byzantine-imperial-seals/rulers-of-byzantium/basil-ii-976-1025
+
 [^21]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^22]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^23]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^24]: Dumbarton Oaks. "Basil II (976–1025)." https://www.doaks.org/resources/online-exhibits/gods-regents-on-earth-a-thousand-years-of-byzantine-imperial-seals/rulers-of-byzantium/basil-ii-976-1025
+
 [^25]: Wikipedia. "Bardas Skleros." https://en.wikipedia.org/wiki/Bardas_Skleros
+
 [^26]: Hall of Ancient Warriors. "Basil II: The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/basil-ii-the-bulgar-slayer/
+
 [^27]: Wikipedia. "Rebellion of Bardas Phokas the Younger." https://en.wikipedia.org/wiki/Rebellion_of_Bardas_Phokas_the_Younger
+
 [^28]: Wikipedia. "Bardas Skleros." https://en.wikipedia.org/wiki/Bardas_Skleros
+
 [^29]: Hall of Ancient Warriors. "Basil II: The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/basil-ii-the-bulgar-slayer/
+
 [^30]: Wikipedia. "Rebellion of Bardas Phokas the Younger." https://en.wikipedia.org/wiki/Rebellion_of_Bardas_Phokas_the_Younger
+
 [^31]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^32]: Wikipedia. "Varangian Guard." https://en.wikipedia.org/wiki/Varangian_Guard
+
 [^33]: Wikipedia. "Rebellion of Bardas Phokas the Younger." https://en.wikipedia.org/wiki/Rebellion_of_Bardas_Phokas_the_Younger
+
 [^34]: Dumbarton Oaks. "Basil II (976–1025)." https://www.doaks.org/resources/online-exhibits/gods-regents-on-earth-a-thousand-years-of-byzantine-imperial-seals/rulers-of-byzantium/basil-ii-976-1025
+
 [^35]: Quora. "Sclerus's advice to Emperor Basil II on how to prevent uprisings/rivals for powers." https://www.quora.com/Scleruss-advice-to-Emperor-Basil-II-on-how-to-prevent-uprisings-rivals-for-powers-why-does-he-say-Admit-no-woman-to-the-imperial-councils-and-how-is-it-related-to-preventing-uprisings
+
 [^36]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^37]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^38]: Britannica. "Basil II | Byzantine Emperor & Military Strategist." https://www.britannica.com/biography/Basil-II
+
 [^39]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^40]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^41]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^42]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^43]: Wikipedia. "Battle of Kleidion." https://en.wikipedia.org/wiki/Battle_of_Kleidion
+
 [^44]: GreekReporter. "Basil II: The Bulgar Slayer, Emperor of the Byzantine Empire." https://greekreporter.com/2024/12/28/emperor-basil-bulgar-slayer-byzantine-empire/
+
 [^45]: Wikipedia. "Battle of Kleidion." https://en.wikipedia.org/wiki/Battle_of_Kleidion
+
 [^46]: History Explained. "Basil II and the Battle of Kleidion: The Brutal Tactics of the Bulgar-Slayer." https://historyexplained.org/basil-ii-and-the-battle-of-kleidion-the-brutal-tactics-of-the-bulgar-slayer/
+
 [^47]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^48]: Roman Emperors DIR. "Basil II." https://roman-emperors.sites.luc.edu/basilii.htm
+
 [^49]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^50]: Roman Emperors DIR. "Basil II." https://roman-emperors.sites.luc.edu/basilii.htm
+
 [^51]: Britannica. "Basil II | Byzantine Emperor & Military Strategist." https://www.britannica.com/biography/Basil-II
+
 [^52]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^53]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^54]: Britannica. "Basil II | Byzantine Emperor & Military Strategist." https://www.britannica.com/biography/Basil-II
+
 [^55]: TheCollector. "What Made Basil II One of Byzantium's Greatest Emperors?" https://www.thecollector.com/basil-ii-byzantine-emperor/
+
 [^56]: GreekReporter. "Basil II: The Bulgar Slayer, Emperor of the Byzantine Empire." https://greekreporter.com/2024/12/28/emperor-basil-bulgar-slayer-byzantine-empire/
+
 [^57]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^58]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^59]: EBSCO Research Starters. "Reign of Basil II." https://www.ebsco.com/research-starters/history/reign-basil-ii
+
 [^60]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^61]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^62]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^63]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^64]: Wikipedia. "Varangian Guard." https://en.wikipedia.org/wiki/Varangian_Guard
+
 [^65]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^66]: GreekReporter. "Basil II: The Bulgar Slayer, Emperor of the Byzantine Empire." https://greekreporter.com/2024/12/28/emperor-basil-bulgar-slayer-byzantine-empire/
+
 [^67]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^68]: Medium. "The Brutal Blinding of Bulgarians by Basil II of Byzantium." https://medium.com/frame-of-reference/the-brutal-blinding-of-bulgarians-by-basil-ii-of-byzantium-9c384ac67e3d
+
 [^69]: Oxford Academic. "Basil II the Bulgar-slayer and the Blinding of 15,000 Bulgarians in 1014." https://academic.oup.com/book/32546/chapter/270317545
+
 [^70]: Medievalists.net. "Did Basil II the Bulgar-slayer' blind 15,000 prisoners?" https://www.medievalists.net/2022/08/basil-ii-bulgar-slayer-blind-15000-prisoners/
+
 [^71]: Oxford Academic. "Basil II the Bulgar-slayer and the Blinding of 15,000 Bulgarians in 1014." https://academic.oup.com/book/32546/chapter/270317545
+
 [^72]: Medievalists.net. "Did Basil II the Bulgar-slayer' blind 15,000 prisoners?" https://www.medievalists.net/2022/08/basil-ii-bulgar-slayer-blind-15000-prisoners/
+
 [^73]: History Explained. "Basil II and the Battle of Kleidion: The Brutal Tactics of the Bulgar-Slayer." https://historyexplained.org/basil-ii-and-the-battle-of-kleidion-the-brutal-tactics-of-the-bulgar-slayer/
+
 [^74]: Wikipedia. "Battle of Kleidion." https://en.wikipedia.org/wiki/Battle_of_Kleidion
+
 [^75]: History Explained. "Basil II and the Battle of Kleidion: The Brutal Tactics of the Bulgar-Slayer." https://historyexplained.org/basil-ii-and-the-battle-of-kleidion-the-brutal-tactics-of-the-bulgar-slayer/
+
 [^76]: GreekReporter. "The Byzantine Emperor Who Blinded 15,000 Soldiers." https://greekreporter.com/2025/08/12/byzantine-emperor-blinded-soldiers/
+
 [^77]: History Explained. "Basil II and the Battle of Kleidion: The Brutal Tactics of the Bulgar-Slayer." https://historyexplained.org/basil-ii-and-the-battle-of-kleidion-the-brutal-tactics-of-the-bulgar-slayer/
+
 [^78]: GreekReporter. "Basil II: The Bulgar Slayer, Emperor of the Byzantine Empire." https://greekreporter.com/2024/12/28/emperor-basil-bulgar-slayer-byzantine-empire/
+
 [^79]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^80]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^81]: Roman Emperors DIR. "Basil II." https://roman-emperors.sites.luc.edu/basilii.htm
+
 [^82]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^83]: Hall of Ancient Warriors. "Basil II: The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/basil-ii-the-bulgar-slayer/
+
 [^84]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^85]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^86]: Quora. "Why didn't Byzantine Emperor Basil II ever marry?" https://www.quora.com/Why-didnt-Byzantine-Emperor-Basil-II-ever-marry
+
 [^87]: The Byzantium Blogger. "10 Surprising Facts About Basil II." https://byzantium-blogger.blog/2024/04/15/10-surprising-facts-about-basil-ii/
+
 [^88]: Quora. "Why didn't Byzantine Emperor Basil II ever marry?" https://www.quora.com/Why-didnt-Byzantine-Emperor-Basil-II-ever-marry
+
 [^89]: Quora. "Sclerus's advice to Emperor Basil II on how to prevent uprisings/rivals for powers." https://www.quora.com/Scleruss-advice-to-Emperor-Basil-II-on-how-to-prevent-uprisings-rivals-for-powers-why-does-he-say-Admit-no-woman-to-the-imperial-councils-and-how-is-it-related-to-preventing-uprisings
+
 [^90]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^91]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^92]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^93]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^94]: The Byzantium Blogger. "10 Surprising Facts About Basil II." https://byzantium-blogger.blog/2024/04/15/10-surprising-facts-about-basil-ii/
+
 [^95]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^96]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^97]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^98]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^99]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^100]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^101]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^102]: GreekReporter. "Basil II: The Bulgar Slayer, Emperor of the Byzantine Empire." https://greekreporter.com/2024/12/28/emperor-basil-bulgar-slayer-byzantine-empire/
+
 [^103]: World History Encyclopedia. "Basil II." https://www.worldhistory.org/Basil_II/
+
 [^104]: Britannica. "Basil II | Byzantine Emperor & Military Strategist." https://www.britannica.com/biography/Basil-II
+
 [^105]: Roman Emperors DIR. "Basil II." https://roman-emperors.sites.luc.edu/basilii.htm
+
 [^106]: Dumbarton Oaks. "Basil II (976–1025)." https://www.doaks.org/resources/online-exhibits/gods-regents-on-earth-a-thousand-years-of-byzantine-imperial-seals/rulers-of-byzantium/basil-ii-976-1025
+
 [^107]: Hall of Ancient Warriors. "Basil II: The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/basil-ii-the-bulgar-slayer/
+
 [^108]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^109]: GreekReporter. "Basil II: The Bulgar Slayer, Emperor of the Byzantine Empire." https://greekreporter.com/2024/12/28/emperor-basil-bulgar-slayer-byzantine-empire/
+
 [^110]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^111]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^112]: Hall of Ancient Warriors. "Basil II: The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/basil-ii-the-bulgar-slayer/
+
 [^113]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^114]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^115]: GreekReporter. "Basil II: The Bulgar Slayer, Emperor of the Byzantine Empire." https://greekreporter.com/2024/12/28/emperor-basil-bulgar-slayer-byzantine-empire/
+
 [^116]: Medium. "Basil II and his legacy: A study in the reign of the Bulgar-Slayer emperor." https://medium.com/@christoss200/basil-ii-and-his-legacy-a-study-in-the-reign-of-the-bulgar-slayer-emperor-753b8c23c49d
+
 [^117]: Wikipedia. "Epitaph on the tomb of Basil II." https://en.wikipedia.org/wiki/Epitaph_on_the_tomb_of_Basil_II
+
 [^118]: Wikipedia. "Epitaph on the tomb of Basil II." https://en.wikipedia.org/wiki/Epitaph_on_the_tomb_of_Basil_II
+
 [^119]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^120]: Oxford University Press. "Basil II and the Governance of Empire (976-1025) - Catherine Holmes." https://global.oup.com/academic/product/basil-ii-and-the-governance-of-empire-976-1025-9780199279685
+
 [^121]: Roman Emperors DIR. "Basil II." https://roman-emperors.sites.luc.edu/basilii.htm
+
 [^122]: Dumbarton Oaks. "Basil II (976–1025)." https://www.doaks.org/resources/online-exhibits/gods-regents-on-earth-a-thousand-years-of-byzantine-imperial-seals/rulers-of-byzantium/basil-ii-976-1025
+
 [^123]: TheCollector. "What Made Basil II One of Byzantium's Greatest Emperors?" https://www.thecollector.com/basil-ii-byzantine-emperor/
+
 [^124]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^125]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^126]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^127]: Medium. "The Brutal Blinding of Bulgarians by Basil II of Byzantium." https://medium.com/frame-of-reference/the-brutal-blinding-of-bulgarians-by-basil-ii-of-byzantium-9c384ac67e3d
+
 [^128]: Oxford Academic. "Basil II the Bulgar-slayer and the Blinding of 15,000 Bulgarians in 1014." https://academic.oup.com/book/32546/chapter/270317545
+
 [^129]: History Explained. "Basil II and the Battle of Kleidion: The Brutal Tactics of the Bulgar-Slayer." https://historyexplained.org/basil-ii-and-the-battle-of-kleidion-the-brutal-tactics-of-the-bulgar-slayer/
+
 [^130]: Roman Emperors DIR. "Basil II." https://roman-emperors.sites.luc.edu/basilii.htm
+
 [^131]: Hall of Ancient Warriors. "Who Was Basil II? The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/who-was-basil-ii-the-bulgar-slayer/
+
 [^132]: Roman Emperors DIR. "Basil II." https://roman-emperors.sites.luc.edu/basilii.htm
+
 [^133]: Hall of Ancient Warriors. "Basil II: The Bulgar Slayer and the Greatest Byzantine Emperor." https://hallofancientwarriors.com/basil-ii-the-bulgar-slayer/
+
 [^134]: Wikipedia. "Basil II." https://en.wikipedia.org/wiki/Basil_II
+
 [^135]: Encyclopedia.com. "Basil II." https://www.encyclopedia.com/people/history/ancient-history-late-roman-and-byzantine-biographies/basil-ii
+
 [^136]: Ancient History Sites. "Basil II Porphyrogenitus: Byzantine Emperor and Military Leader." https://www.ancient-history-sites.com/byzantine/emperors/basil-ii/
+
 [^137]: Wikipedia. "Epitaph on the tomb of Basil II." https://en.wikipedia.org/wiki/Epitaph_on_the_tomb_of_Basil_II
+
 [^138]: Wikipedia. "Epitaph on the tomb of Basil II." https://en.wikipedia.org/wiki/Epitaph_on_the_tomb_of_Basil_II
+
 [^139]: Quora. "Sclerus's advice to Emperor Basil II on how to prevent uprisings/rivals for powers." https://www.quora.com/Scleruss-advice-to-Emperor-Basil-II-on-how-to-prevent-uprisings-rivals-for-powers-why-does-he-say-Admit-no-woman-to-the-imperial-councils-and-how-is-it-related-to-preventing-uprisings

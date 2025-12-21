@@ -27,6 +27,7 @@ The revolution defied Cold War logic. It was not communist, not Western liberal,
 **Reza Shah (r. 1925-1941):** Founded the Pahlavi dynasty; modernized Iran; forced to abdicate by British and Soviets in WWII.
 
 **Mohammad Reza Shah (r. 1941-1979):**
+
 - Restored to power in 1953 CIA/MI6-backed coup after nationalizing oil
 - "White Revolution" (1963): Land reform, women's suffrage, literacy corps
 - Modernization alongside severe repression
@@ -36,6 +37,7 @@ The revolution defied Cold War logic. It was not communist, not Western liberal,
 ### SAVAK
 
 Iran's secret police (1957-1979):
+
 - Established with US and Israeli support
 - Extensive surveillance network
 - Torture, imprisonment, execution of dissidents
@@ -76,6 +78,7 @@ By the 1970s, discontent was widespread:
 **Summer 1978:** Protests spread to major cities; Cinema Rex fire in Abadan (400+ killed) blamed on regime
 
 **September 8, 1978 - "Black Friday":**
+
 - Martial law declared
 - Army fired on demonstrators in Jaleh Square, Tehran
 - ~94-100 killed (opposition claimed thousands)
@@ -84,6 +87,7 @@ By the 1970s, discontent was widespread:
 ### The Fall
 
 **October-December 1978:**
+
 - General strikes paralyzed economy
 - Oil workers' strike cut exports
 - Bazaars closed
@@ -100,6 +104,7 @@ By the 1970s, discontent was widespread:
 ## Death Toll
 
 **During the revolution (1978-1979):**
+
 - Historians estimate 532-2,781 deaths
 - Iranian government later claimed 2,000-3,000 "martyrs"
 - Khomeini claimed 60,000 (considered propagandistic exaggeration)
@@ -114,30 +119,30 @@ By the 1970s, discontent was widespread:
 
 ### Revolutionary Leadership
 
-| Name | Role |
-|------|------|
-| Ayatollah Ruhollah Khomeini | Supreme Leader; architect of Islamic Republic |
-| Mehdi Bazargan | First Prime Minister of revolutionary government |
-| Abolhassan Banisadr | First elected President (later exiled) |
-| Ali Khamenei | Cleric; later Supreme Leader (1989-present) |
+| Name                        | Role                                             |
+| --------------------------- | ------------------------------------------------ |
+| Ayatollah Ruhollah Khomeini | Supreme Leader; architect of Islamic Republic    |
+| Mehdi Bazargan              | First Prime Minister of revolutionary government |
+| Abolhassan Banisadr         | First elected President (later exiled)           |
+| Ali Khamenei                | Cleric; later Supreme Leader (1989-present)      |
 
 ### Pahlavi Regime
 
-| Name | Role |
-|------|------|
+| Name                       | Role                                                |
+| -------------------------- | --------------------------------------------------- |
 | Mohammad Reza Shah Pahlavi | Shah of Iran; fled January 1979; died in exile 1980 |
-| Farah Diba | Empress |
-| General Gholam Ali Oveisi | "Butcher of Tehran"; martial law commander |
-| SAVAK | Secret police |
+| Farah Diba                 | Empress                                             |
+| General Gholam Ali Oveisi  | "Butcher of Tehran"; martial law commander          |
+| SAVAK                      | Secret police                                       |
 
 ### Other Opposition
 
-| Name/Group | Role |
-|------------|------|
-| Tudeh Party | Communist party |
-| Mojahedin-e Khalq (MEK) | Islamic-Marxist group |
-| National Front | Liberal nationalists |
-| Bazaar merchants | Economic backbone of protests |
+| Name/Group              | Role                          |
+| ----------------------- | ----------------------------- |
+| Tudeh Party             | Communist party               |
+| Mojahedin-e Khalq (MEK) | Islamic-Marxist group         |
+| National Front          | Liberal nationalists          |
+| Bazaar merchants        | Economic backbone of protests |
 
 ---
 
@@ -177,6 +182,7 @@ Result: 98.2% voted "Yes" (opposition boycotted)
 ### Hostage Crisis (1979-1981)
 
 **November 4, 1979:** Students seized US Embassy in Tehran
+
 - 52 Americans held hostage for 444 days
 - Demanded Shah's extradition (he was in US for cancer treatment)
 - Damaged US-Iran relations permanently
@@ -239,42 +245,56 @@ Result: 98.2% voted "Yes" (opposition boycotted)
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1941 | Mohammad Reza Shah takes throne |
-| 1953 | CIA-backed coup restores Shah |
-| 1963 | White Revolution; Khomeini opposition begins |
-| 1964 | Khomeini exiled |
-| January 1978 | Protests begin in Qom |
-| September 8, 1978 | "Black Friday" - Jaleh Square massacre |
-| October-December 1978 | General strikes paralyze country |
-| January 16, 1979 | Shah leaves Iran |
-| February 1, 1979 | Khomeini returns |
-| February 11, 1979 | Monarchy falls |
-| April 1, 1979 | Referendum establishes Islamic Republic |
-| November 4, 1979 | Hostage crisis begins |
-| December 1979 | Constitution approved |
-| September 1980 | Iran-Iraq War begins |
-| July 27, 1980 | Shah dies in exile |
-| January 1981 | Hostages released |
-| 1988 | Iran-Iraq War ends |
+| Date                  | Event                                        |
+| --------------------- | -------------------------------------------- |
+| 1941                  | Mohammad Reza Shah takes throne              |
+| 1953                  | CIA-backed coup restores Shah                |
+| 1963                  | White Revolution; Khomeini opposition begins |
+| 1964                  | Khomeini exiled                              |
+| January 1978          | Protests begin in Qom                        |
+| September 8, 1978     | "Black Friday" - Jaleh Square massacre       |
+| October-December 1978 | General strikes paralyze country             |
+| January 16, 1979      | Shah leaves Iran                             |
+| February 1, 1979      | Khomeini returns                             |
+| February 11, 1979     | Monarchy falls                               |
+| April 1, 1979         | Referendum establishes Islamic Republic      |
+| November 4, 1979      | Hostage crisis begins                        |
+| December 1979         | Constitution approved                        |
+| September 1980        | Iran-Iraq War begins                         |
+| July 27, 1980         | Shah dies in exile                           |
+| January 1981          | Hostages released                            |
+| 1988                  | Iran-Iraq War ends                           |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Iranian Revolution](https://en.wikipedia.org/wiki/Iranian_Revolution)
+
 [^2]: [Britannica - Iranian Revolution](https://www.britannica.com/event/Iranian-Revolution)
-[^3]: [Wikipedia - Black Friday](https://en.wikipedia.org/wiki/Black_Friday_(1978))
+
+[^3]: [Wikipedia - Black Friday](<https://en.wikipedia.org/wiki/Black_Friday_(1978)>)
+
 [^4]: [Britannica - Mohammad Reza Shah](https://www.britannica.com/biography/Mohammad-Reza-Shah-Pahlavi)
+
 [^5]: [Wikipedia - SAVAK](https://en.wikipedia.org/wiki/SAVAK)
+
 [^6]: [Swarthmore - Revolution Database](https://nvdatabase.swarthmore.edu/content/iranian-revolution-1977-1979)
+
 [^7]: [Brookings - Revolution Timeline](https://www.brookings.edu/articles/iran-revolution-1979/)
+
 [^8]: [USIP - Revolution](https://www.usip.org/publications/iranian-revolution)
+
 [^9]: [Study.com - Death Toll](https://study.com/academy/lesson/iranian-revolution-casualties/)
+
 [^10]: [Britannica - Khomeini](https://www.britannica.com/biography/Ruhollah-Khomeini)
+
 [^11]: [History.com - Hostage Crisis](https://www.history.com/topics/middle-east/iran-hostage-crisis)
+
 [^12]: [Iran Chamber - Revolution](https://www.iranchamber.com/history/islamic_revolution/)
+
 [^13]: [ICNC - Nonviolent Conflict](https://www.nonviolent-conflict.org/iranian-revolution/)
+
 [^14]: [Lumen Learning - Revolution](https://courses.lumenlearning.com/boundless-worldhistory/iranian-revolution/)
+
 [^15]: [AP News - Revolution Legacy](https://apnews.com/article/iran-revolution-1979-anniversary)

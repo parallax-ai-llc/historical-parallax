@@ -189,164 +189,267 @@ The Columbus raid and the San Ysabel massacre are cited by critics as evidence o
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1878 | Born José Doroteo Arango Arámbula on June 5 at Hacienda de Río Grande, Durango |
-| 1890 | Father dies; becomes head of household at age 12 |
-| 1894 | Allegedly kills hacienda owner Agustín López Negrete; flees to Sierra Madre as outlaw |
-| 1903 | Adopts name "Francisco 'Pancho' Villa" after killing army officer |
-| 1910 | Joins Francisco I. Madero's revolutionary movement against Porfirio Díaz |
-| 1910 | Captures San Andrés, Chihuahua, his first revolutionary victory |
-| 1911 | Participates in capture of Ciudad Juárez; Díaz resigns and flees Mexico |
-| 1911 | Marries María Luz Corral on May 29 |
-| 1912 | Sentenced to death by General Victoriano Huerta; sentence commuted by Madero |
-| 1913 | Madero overthrown and murdered by Huerta in February; Villa escapes prison |
-| 1913 | Returns from United States; forms División del Norte |
-| 1913 | Becomes provisional governor of Chihuahua (December 1913-January 1914) |
-| 1914 | Victories at Ciudad Juárez, Tierra Blanca, Chihuahua, Ojinaga, Torreón, and Zacatecas |
-| 1914 | Huerta defeated and flees Mexico in July |
-| 1914 | Convention of Aguascalientes (October-November); allies with Emiliano Zapata |
-| 1914 | Villa and Zapata meet in Xochimilco on December 4 |
-| 1914 | Villa and Zapata enter Mexico City on December 6 with 60,000 troops |
+| Year | Event                                                                                    |
+| ---- | ---------------------------------------------------------------------------------------- |
+| 1878 | Born José Doroteo Arango Arámbula on June 5 at Hacienda de Río Grande, Durango           |
+| 1890 | Father dies; becomes head of household at age 12                                         |
+| 1894 | Allegedly kills hacienda owner Agustín López Negrete; flees to Sierra Madre as outlaw    |
+| 1903 | Adopts name "Francisco 'Pancho' Villa" after killing army officer                        |
+| 1910 | Joins Francisco I. Madero's revolutionary movement against Porfirio Díaz                 |
+| 1910 | Captures San Andrés, Chihuahua, his first revolutionary victory                          |
+| 1911 | Participates in capture of Ciudad Juárez; Díaz resigns and flees Mexico                  |
+| 1911 | Marries María Luz Corral on May 29                                                       |
+| 1912 | Sentenced to death by General Victoriano Huerta; sentence commuted by Madero             |
+| 1913 | Madero overthrown and murdered by Huerta in February; Villa escapes prison               |
+| 1913 | Returns from United States; forms División del Norte                                     |
+| 1913 | Becomes provisional governor of Chihuahua (December 1913-January 1914)                   |
+| 1914 | Victories at Ciudad Juárez, Tierra Blanca, Chihuahua, Ojinaga, Torreón, and Zacatecas    |
+| 1914 | Huerta defeated and flees Mexico in July                                                 |
+| 1914 | Convention of Aguascalientes (October-November); allies with Emiliano Zapata             |
+| 1914 | Villa and Zapata meet in Xochimilco on December 4                                        |
+| 1914 | Villa and Zapata enter Mexico City on December 6 with 60,000 troops                      |
 | 1915 | Suffers decisive defeats at Battle of Celaya (April 6-7 and April 15-16) against Obregón |
-| 1916 | San Ysabel massacre of 18 American miners on January 10 |
-| 1916 | Columbus, New Mexico raid on March 9; kills 18 Americans |
-| 1916 | U.S. Punitive Expedition under General Pershing enters Mexico on March 15 |
-| 1917 | Punitive Expedition withdrawn in February without capturing Villa |
-| 1920 | Negotiates peace settlement with President Adolfo de la Huerta on July 28 |
-| 1920 | Granted hacienda at Canutillo, Durango; retires from revolution |
-| 1923 | Assassinated in Parral, Chihuahua on July 20 in ambush |
+| 1916 | San Ysabel massacre of 18 American miners on January 10                                  |
+| 1916 | Columbus, New Mexico raid on March 9; kills 18 Americans                                 |
+| 1916 | U.S. Punitive Expedition under General Pershing enters Mexico on March 15                |
+| 1917 | Punitive Expedition withdrawn in February without capturing Villa                        |
+| 1920 | Negotiates peace settlement with President Adolfo de la Huerta on July 28                |
+| 1920 | Granted hacienda at Canutillo, Durango; retires from revolution                          |
+| 1923 | Assassinated in Parral, Chihuahua on July 20 in ambush                                   |
 
 ---
 
 ## Famous Quotes
 
 > "My sole ambition is to rid Mexico of the class that has oppressed her and given the people a chance to know what real liberty means. And if I could bring that about today by giving up my life, I would do it gladly."
-— Villa's declaration of revolutionary purpose[^98]
+> — Villa's declaration of revolutionary purpose[^98]
 
 > "Don't let it end like this. Tell them I said something."
-— Reportedly Villa's last words before death[^99]
+> — Reportedly Villa's last words before death[^99]
 
 > "I am not an educated man. I never had an opportunity to learn anything except how to fight."
-— Villa on his lack of formal education[^100]
+> — Villa on his lack of formal education[^100]
 
 > "I, Pancho Villa, was a loyal man that destiny brought into the world to fight for the good of the poor and that I will never betray nor forget my duty."
-— Villa on his mission and loyalty[^101]
+> — Villa on his mission and loyalty[^101]
 
 > "The country must be governed by someone who really loves his people and his land, who shares wealth and progress. I have all that, only that I am ignorant."
-— Villa on leadership and governance[^102]
+> — Villa on leadership and governance[^102]
 
 > "Companions of arms and lords. Do not believe that the one who is going to speak to them is a philosopher, I am a man of people, but you will understand that these men when they speak, speak with the heart."
-— Villa addressing his followers[^103]
+> — Villa addressing his followers[^103]
 
 > "Armies are the greatest supports of tyranny. There can be no dictator without his army."
-— Villa on military power and dictatorship[^104]
+> — Villa on military power and dictatorship[^104]
 
 ---
 
 ## References
 
 [^1]: "Pancho Villa," Britannica, https://www.britannica.com/biography/Pancho-Villa-Mexican-revolutionary
+
 [^2]: "Pancho Villa - Movie, Death & Mexican Revolution," Biography, https://www.biography.com/military-figures/pancho-villa
+
 [^3]: "Pancho Villa," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa
+
 [^4]: "Francisco Pancho Villa of Mexico," San José State University, https://www.sjsu.edu/faculty/watkins/villa.htm
+
 [^5]: "José Doroteo (Arango) Villa (1878-1923)," WikiTree, https://www.wikitree.com/wiki/Arango-53
+
 [^6]: "Pancho Villa: From Bandit to Revolutionary General," Explaining History Podcast, https://explaininghistory.org/2025/08/08/pancho-villa-from-bandit-to-revolutionary-general/
+
 [^7]: "Pancho Villa," Research Starters, EBSCO, https://www.ebsco.com/research-starters/history/pancho-villa
+
 [^8]: "Pancho Villa," Noble Bandits, ASU, http://noblebandits.asu.edu/Bio/Villa.html
+
 [^9]: "The Secret Family of Pancho Villa: An Oral History," Center for Big Bend Studies, https://cbbs.sulross.edu/cbbs-publication/pancho-villa/
+
 [^10]: "Francisco Villa: The Life and Legacy of a Mexican Revolutionary," TSHA, https://www.tshaonline.org/handbook/entries/villa-francisco-pancho
+
 [^11]: "Introduction - Pancho Villa," Library of Congress, https://guides.loc.gov/chronicling-america-pancho-villa
+
 [^12]: "Francisco 'Pancho' Villa," UC Berkeley Library, https://exhibits.lib.berkeley.edu/spotlight/viva/feature/francisco-pancho-villa
+
 [^13]: "Pancho Villa," Kids Britannica, https://kids.britannica.com/kids/article/Pancho-Villa/390097
+
 [^14]: "Revolutionary Hero," University of Texas, https://www.laits.utexas.edu/jaime/jrn/cwp/pvg/revolutionary.html
+
 [^15]: "Pancho Villa: From Bandit to Revolutionary General," Explaining History Podcast, https://explaininghistory.org/2025/08/08/pancho-villa-from-bandit-to-revolutionary-general/
+
 [^16]: "Pancho Villa," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa
+
 [^17]: "25 Famous Pancho Villa Quotes," Spanish Mama, https://spanishmama.com/pancho-villa-quotes-in-spanish-and-english/
+
 [^18]: "Revolutionary Hero," University of Texas, https://www.laits.utexas.edu/jaime/jrn/cwp/pvg/revolutionary.html
+
 [^19]: "Pancho Villa," Britannica, https://www.britannica.com/biography/Pancho-Villa-Mexican-revolutionary
+
 [^20]: "Francisco 'Pancho' Villa: The Mexican Revolutionary," EPCC Library, https://epcc.libguides.com/c.php?g=754275&p=10532498
+
 [^21]: "División del Norte," Wikipedia, https://en.wikipedia.org/wiki/Divisi%C3%B3n_del_Norte
+
 [^22]: "Francisco (Pancho) Villa," New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Francisco_(Pancho)_Villa
+
 [^23]: "Division del Norte," The Mexican Revolution, https://themexicanrevolution1910.weebly.com/division-del-norte-divison-of-the-north.html
+
 [^24]: "Revolutionary Hero," University of Texas, https://www.laits.utexas.edu/jaime/jrn/cwp/pvg/revolutionary.html
+
 [^25]: "Pancho Villa Led Northern Forces in Revolution," EPCC Library, https://epcc.libguides.com/c.php?g=754275&p=5406096
+
 [^26]: "Villa, Francisco 'Pancho' (1878–1923)," Encyclopedia.com, https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/villa-francisco-pancho-1878-1923
+
 [^27]: "Villa, Francisco 'Pancho' (1878–1923)," Encyclopedia.com, https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/villa-francisco-pancho-1878-1923
+
 [^28]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^29]: "Pancho Villa, Man And Legend," Puerto Vallarta, https://www.puertovallarta.net/fast-facts/pancho-villa/
+
 [^30]: "Who Was Pancho Villa?" Expat Insurance, https://www.expatinsurance.com/articles/who-was-pancho-villa
+
 [^31]: "Pancho Villa," Biography, History & Quotes, Study.com, https://study.com/learn/lesson/pancho-villa-quotes-history.html
+
 [^32]: "Civil War: Conventionist Viewpoint," Library of Congress, https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/civil-war-conventionist-view.html
+
 [^33]: "Pancho Villa, re-evaluated," MexConnect, https://www.mexconnect.com/articles/659-pancho-villa-re-evaluated/
+
 [^34]: "Pancho Villa," Research Starters, EBSCO, https://www.ebsco.com/research-starters/history/pancho-villa
+
 [^35]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^36]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^37]: "Pancho Villa," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa
+
 [^38]: "The Legacy of Pancho Villa: Hero or Villain?" Mexico Historico, https://www.mexicohistorico.com/paginas/The-Legacy-of-Pancho-Villa--Hero-or-Villain-.html
+
 [^39]: "Pancho Villa," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa
+
 [^40]: "Was Pancho Villa a good guy or a bad guy?" History Forum, https://historum.com/t/was-pancho-villa-a-good-guy-or-a-bad-guy.67063/
+
 [^41]: "Francisco 'Pancho' Villa's attack on Columbus," Historic Village of Columbus, https://historicvillageofcolumbus.org/francisco-pancho-villas-attack-on-columbus/index.html
+
 [^42]: "Villa's Raid on Columbus, New Mexico," Huachuca Illustrated, https://net.lib.byu.edu/estu/wwi/comment/huachuca/hi1-12.htm
+
 [^43]: "Battle of Columbus (1916)," Wikipedia, https://en.wikipedia.org/wiki/Battle_of_Columbus_(1916)
+
 [^44]: "March 9, 1916: Pancho Villa and the Villista Raid on Columbus," The History Reader, https://www.thehistoryreader.com/historical-figures/march-91916-pancho-villa-villista-raid-columbus/
+
 [^45]: "Pancho Villa: The Attack on Columbus, New Mexico," University of Texas, https://www.laits.utexas.edu/jaime/jrn/cwp/pvg/columbus.html
+
 [^46]: "Francisco 'Pancho' Villa's attack on Columbus," Historic Village of Columbus, https://historicvillageofcolumbus.org/francisco-pancho-villas-attack-on-columbus/index.html
+
 [^47]: "March 9, 1916: Pancho Villa and the Villista Raid on Columbus," The History Reader, https://www.thehistoryreader.com/historical-figures/march-91916-pancho-villa-villista-raid-columbus/
+
 [^48]: "Pancho Villa attacks Columbus, New Mexico," History.com, https://www.history.com/this-day-in-history/march-9/pancho-villa-attacks-columbus-new-mexico
+
 [^49]: "Pancho Villa Expedition," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa_Expedition
+
 [^50]: "General Pershing's Mexican Expedition," Smithsonian, https://americanhistory.si.edu/explore/stories/general-pershings-mexican-expedition-capture-pancho-villa-predates-his-world-war-i
+
 [^51]: "Villa, Francisco 'Pancho' (1878–1923)," Encyclopedia.com, https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/villa-francisco-pancho-1878-1923
+
 [^52]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^53]: "The Legacy of Pancho Villa: Hero or Villain?" Mexico Historico, https://www.mexicohistorico.com/paginas/The-Legacy-of-Pancho-Villa--Hero-or-Villain-.html
+
 [^54]: "Pancho Villa's Women," Mexico Unexplained, https://mexicounexplained.com/pancho-villas-women/
+
 [^55]: "Pancho Villa," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa
+
 [^56]: "Pancho Villa's Women," Mexico Unexplained, https://mexicounexplained.com/pancho-villas-women/
+
 [^57]: "Pancho Villa," Geni.com, https://www.geni.com/people/Pancho-Villa/6000000033274999967
+
 [^58]: "The Secret Family of Pancho Villa: An Oral History," Center for Big Bend Studies, https://cbbs.sulross.edu/cbbs-publication/pancho-villa/
+
 [^59]: "Pancho Villa," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa
+
 [^60]: "Pancho Villa," Geni.com, https://www.geni.com/people/Pancho-Villa/6000000033274999967
+
 [^61]: "Pancho Villa's Women," Mexico Unexplained, https://mexicounexplained.com/pancho-villas-women/
+
 [^62]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^63]: "Pancho Villa," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa
+
 [^64]: "Pancho Villa Quotes," BrainyQuote, https://www.brainyquote.com/authors/pancho-villa-quotes
+
 [^65]: "Revolutionary Hero," University of Texas, https://www.laits.utexas.edu/jaime/jrn/cwp/pvg/revolutionary.html
+
 [^66]: "Pancho Villa," Research Starters, EBSCO, https://www.ebsco.com/research-starters/history/pancho-villa
+
 [^67]: "The Legacy of Pancho Villa: Revolutionary Leader and Folk Hero," Lemon8, https://www.lemon8-app.com/@history9137/7448123659643896363?region=us
+
 [^68]: "The Ballad of Pancho Villa," PBS American Experience, https://www.pbs.org/wgbh/americanexperience/features/ballad-pancho-villa/
+
 [^69]: "Pancho Villa," University of Texas, https://www.laits.utexas.edu/jaime/jrn/cwp/pvg/legends.html
+
 [^70]: "Big Idea: Pancho Villa in History, Pop Culture, and Collective Memory," Humanities Kansas, https://www.humanitieskansas.org/get-involved/kansas-stories/the-big-idea/big-idea-pancho-villa-in-history-pop-culture-and-collective-memory
+
 [^71]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^72]: "The Legacy of Pancho Villa in Mexican History," Mexico Historico, https://www.mexicohistorico.com/paginas/The-Legacy-of-Pancho-Villa-in-Mexican-History.html
+
 [^73]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^74]: "The Life and Times of Pancho Villa," Stanford University Press, https://www.sup.org/books/history/life-and-times-pancho-villa
+
 [^75]: "The Life and Times of Pancho Villa," Stanford University Press, https://www.sup.org/books/history/life-and-times-pancho-villa
+
 [^76]: "The Legacy of Pancho Villa in Mexican History," Mexico Historico, https://www.mexicohistorico.com/paginas/The-Legacy-of-Pancho-Villa-in-Mexican-History.html
+
 [^77]: "Pancho Villa," Research Starters, EBSCO, https://www.ebsco.com/research-starters/history/pancho-villa
+
 [^78]: "Pancho Villa in popular culture," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa_in_popular_culture
+
 [^79]: "The life of general Villa: Pancho Villa as himself," Morelia Film Festival, https://moreliafilmfest.com/en/la-vida-del-general-villa-pancho-villa-como-el-mismo
+
 [^80]: "Pancho Villa (film)," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa_(film)
+
 [^81]: "The Films of Pancho Villa," True West Magazine, https://www.truewestmagazine.com/article/the-films-of-pancho-villa/
+
 [^82]: "9 Surprising Facts About Mexican Revolutionary Pancho Villa," HowStuffWorks, https://history.howstuffworks.com/historical-figures/pancho-villa.htm
+
 [^83]: "The Life and Times of Pancho Villa," Stanford University Press, https://www.sup.org/books/history/life-and-times-pancho-villa
+
 [^84]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^85]: "Pancho Villa," Research Starters, EBSCO, https://www.ebsco.com/research-starters/history/pancho-villa
+
 [^86]: "Pancho Villa," Biography, History & Quotes, Study.com, https://study.com/learn/lesson/pancho-villa-quotes-history.html
+
 [^87]: "Pancho Villa," Research Starters, EBSCO, https://www.ebsco.com/research-starters/history/pancho-villa
+
 [^88]: "The Legacy of Pancho Villa: Revolutionary Leader and Folk Hero," Lemon8, https://www.lemon8-app.com/@history9137/7448123659643896363?region=us
+
 [^89]: "Division del Norte," The Mexican Revolution, https://themexicanrevolution1910.weebly.com/division-del-norte-divison-of-the-north.html
+
 [^90]: "Villa, Francisco 'Pancho' (1878–1923)," Encyclopedia.com, https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/villa-francisco-pancho-1878-1923
+
 [^91]: "Villa, Francisco 'Pancho' (1878–1923)," Encyclopedia.com, https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/villa-francisco-pancho-1878-1923
+
 [^92]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^93]: "Is it time to reevaluate the legacy of Pancho Villa?" National Geographic, https://www.nationalgeographic.com/history/article/pancho-villa-mexican-revolution
+
 [^94]: "The Legacy of Pancho Villa: Hero or Villain?" Mexico Historico, https://www.mexicohistorico.com/paginas/The-Legacy-of-Pancho-Villa--Hero-or-Villain-.html
+
 [^95]: "Was Pancho Villa a good guy or a bad guy?" History Forum, https://historum.com/t/was-pancho-villa-a-good-guy-or-a-bad-guy.67063/
+
 [^96]: "The Legacy of Pancho Villa: Hero or Villain?" Mexico Historico, https://www.mexicohistorico.com/paginas/The-Legacy-of-Pancho-Villa--Hero-or-Villain-.html
+
 [^97]: "Pancho Villa Expedition," Wikipedia, https://en.wikipedia.org/wiki/Pancho_Villa_Expedition
+
 [^98]: "25 Famous Pancho Villa Quotes," Spanish Mama, https://spanishmama.com/pancho-villa-quotes-in-spanish-and-english/
+
 [^99]: "Pancho Villa Quotes," BrainyQuote, https://www.brainyquote.com/authors/pancho-villa-quotes
+
 [^100]: "Pancho Villa Quotes," BrainyQuote, https://www.brainyquote.com/authors/pancho-villa-quotes
+
 [^101]: "20 Pancho Villa Quotes About Revolution and Leadership," Everyday Power, https://everydaypower.com/pancho-villa-quotes/
+
 [^102]: "30 Best Pancho Villa Quotes With Image," Bookey, https://www.bookey.app/quote-author/pancho-villa
+
 [^103]: "30 Best Pancho Villa Quotes With Image," Bookey, https://www.bookey.app/quote-author/pancho-villa
+
 [^104]: "Pancho Villa Quotes," BrainyQuote, https://www.brainyquote.com/authors/pancho-villa-quotes

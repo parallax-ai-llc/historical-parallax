@@ -177,29 +177,29 @@ Scholars focusing on Byzantine decline argue that Leo's reign, despite its immed
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 685 | Birth in Germanikeia, Syria |
-| c. 705 | Family relocated to Thrace by Justinian II |
-| 713-715 | Serves as military commander under Anastasius II |
-| c. 715 | Appointed strategos of Anatolikon theme |
-| March 717 | Marches on Constantinople, Theodosius III abdicates |
-| March 25, 717 | Crowned Byzantine Emperor |
-| August 717 | Massive Umayyad siege of Constantinople begins |
-| Winter 717-718 | Harsh winter decimates Arab besieging army |
-| Spring 718 | Bulgar Khan Tervel attacks Arabs from rear |
-| August 718 | Arab siege lifted after catastrophic losses |
-| 720 | Defeats Arab invasion of Anatolia |
-| 726 | Issues first iconoclastic edict; promulgates Ecloga law code |
-| 727 | Pope Gregory II condemns iconoclasm |
-| 730 | Issues comprehensive decree ordering destruction of icons |
-| 730 | Patriarch Germanos I forced to resign, replaced by Anastasios |
-| 731 | Pope Gregory III excommunicates Leo |
-| 732 | Transfers southern Italian, Sicilian, and Illyrian dioceses from Rome to Constantinople |
-| 740 | Major victory over Arabs at Battle of Akroinon |
-| June 18, 741 | Dies in Constantinople |
-| 741 | Succeeded by son Constantine V |
-| 741-743 | Usurpation attempt by son-in-law Artabasdos |
+| Year           | Event                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------- |
+| c. 685         | Birth in Germanikeia, Syria                                                             |
+| c. 705         | Family relocated to Thrace by Justinian II                                              |
+| 713-715        | Serves as military commander under Anastasius II                                        |
+| c. 715         | Appointed strategos of Anatolikon theme                                                 |
+| March 717      | Marches on Constantinople, Theodosius III abdicates                                     |
+| March 25, 717  | Crowned Byzantine Emperor                                                               |
+| August 717     | Massive Umayyad siege of Constantinople begins                                          |
+| Winter 717-718 | Harsh winter decimates Arab besieging army                                              |
+| Spring 718     | Bulgar Khan Tervel attacks Arabs from rear                                              |
+| August 718     | Arab siege lifted after catastrophic losses                                             |
+| 720            | Defeats Arab invasion of Anatolia                                                       |
+| 726            | Issues first iconoclastic edict; promulgates Ecloga law code                            |
+| 727            | Pope Gregory II condemns iconoclasm                                                     |
+| 730            | Issues comprehensive decree ordering destruction of icons                               |
+| 730            | Patriarch Germanos I forced to resign, replaced by Anastasios                           |
+| 731            | Pope Gregory III excommunicates Leo                                                     |
+| 732            | Transfers southern Italian, Sicilian, and Illyrian dioceses from Rome to Constantinople |
+| 740            | Major victory over Arabs at Battle of Akroinon                                          |
+| June 18, 741   | Dies in Constantinople                                                                  |
+| 741            | Succeeded by son Constantine V                                                          |
+| 741-743        | Usurpation attempt by son-in-law Artabasdos                                             |
 
 ---
 
@@ -229,162 +229,320 @@ Context: From the preface to the Ecloga, explaining Leo's legal reforms and the 
 
 ## References
 
-[^1]: Treadgold, Warren. *A History of the Byzantine State and Society*. Stanford University Press, 1997, pp. 347-348.
-[^2]: Ostrogorsky, George. *History of the Byzantine State*. Rutgers University Press, 1969, p. 154.
-[^3]: Norwich, John Julius. *Byzantium: The Early Centuries*. Viking, 1989, p. 342.
-[^4]: Haldon, John. *Byzantium in the Seventh Century: The Transformation of a Culture*. Cambridge University Press, 1997, p. 89.
-[^5]: Theophanes the Confessor. *The Chronicle of Theophanes Confessor*. Trans. Cyril Mango and Roger Scott. Oxford University Press, 1997, p. 391.
-[^6]: Brubaker, Leslie and John Haldon. *Byzantium in the Iconoclast Era, c. 680-850: A History*. Cambridge University Press, 2011, p. 89.
-[^7]: Kaegi, Walter E. *Heraclius: Emperor of Byzantium*. Cambridge University Press, 2003, p. 276.
-[^8]: Herrin, Judith. *Byzantium: The Surprising Life of a Medieval Empire*. Princeton University Press, 2007, p. 98.
-[^9]: Greatrex, Geoffrey and Samuel Lieu. *The Roman Eastern Frontier and the Persian Wars, Part II: AD 363-630*. Routledge, 2002, p. 234.
-[^10]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 91.
-[^11]: Treadgold, *A History of the Byzantine State and Society*, p. 348.
-[^12]: Kaegi, Walter E. *Byzantium and the Early Islamic Conquests*. Cambridge University Press, 1992, p. 267.
-[^13]: Haldon, John. *Warfare, State and Society in the Byzantine World, 565-1204*. Routledge, 1999, p. 78.
-[^14]: Kennedy, Hugh. *The Great Arab Conquests*. Da Capo Press, 2007, pp. 312-315.
-[^15]: Norwich, *Byzantium: The Early Centuries*, p. 343.
-[^16]: Ostrogorsky, *History of the Byzantine State*, p. 155.
-[^17]: Theophanes, *Chronicle*, p. 392.
-[^18]: Treadgold, *A History of the Byzantine State and Society*, p. 349.
-[^19]: Whittow, Mark. *The Making of Byzantium, 600-1025*. University of California Press, 1996, p. 156.
-[^20]: Nicolle, David. *The Great Islamic Conquests AD 632-750*. Osprey Publishing, 2009, p. 78.
-[^21]: Norwich, *Byzantium: The Early Centuries*, p. 344.
-[^22]: Haldon, John. "'Greek Fire' Revisited: Recent and Current Research." In *Byzantine Style, Religion and Civilization: In Honour of Sir Steven Runciman*, ed. Elizabeth Jeffreys. Cambridge University Press, 2006, pp. 290-325.
-[^23]: Treadgold, Warren. *Byzantium and Its Army, 284-1081*. Stanford University Press, 1995, p. 78.
-[^24]: Norwich, *Byzantium: The Early Centuries*, p. 345.
-[^25]: Kennedy, *The Great Arab Conquests*, p. 318.
-[^26]: Nicolle, *The Great Islamic Conquests*, p. 79.
-[^27]: Haldon, *Warfare, State and Society*, p. 80.
-[^28]: Pryor, John H. and Elizabeth M. Jeffreys. *The Age of the ΔΡΟΜΩΝ: The Byzantine Navy ca. 500-1204*. Brill, 2006, p. 156.
-[^29]: Theophanes, *Chronicle*, p. 397.
-[^30]: Luttwak, Edward N. *The Grand Strategy of the Byzantine Empire*. Harvard University Press, 2009, p. 278.
-[^31]: Runciman, Steven. *A History of the First Bulgarian Empire*. G. Bell and Sons, 1930, p. 45.
-[^32]: Treadgold, *A History of the Byzantine State and Society*, p. 351.
-[^33]: Theophanes, *Chronicle*, p. 398.
-[^34]: Kennedy, *The Great Arab Conquests*, p. 321.
-[^35]: Haldon, *Warfare, State and Society*, p. 82.
-[^36]: Whittow, *The Making of Byzantium*, p. 159.
-[^37]: Treadgold, *Byzantium and Its Army*, p. 82.
-[^38]: Kaegi, *Byzantium and the Early Islamic Conquests*, p. 272.
-[^39]: Luttwak, *The Grand Strategy of the Byzantine Empire*, p. 281.
-[^40]: Treadgold, *A History of the Byzantine State and Society*, p. 353.
-[^41]: Humphreys, M. T. G. *Law, Power, and Imperial Ideology in the Iconoclast Era, c. 680-850*. Oxford University Press, 2015, p. 67.
-[^42]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 124.
-[^43]: Troianos, Spyros. "Byzantine Canon Law." In *The History of Byzantine and Eastern Canon Law to 1500*, ed. Wilfried Hartmann and Kenneth Pennington. Catholic University of America Press, 2012, pp. 115-169.
-[^44]: Laiou, Angeliki E. "The Role of Women in Byzantine Society." *Jahrbuch der Österreichischen Byzantinistik* 31, no. 1 (1981): 233-260.
-[^45]: Humphreys, *Law, Power, and Imperial Ideology*, p. 71.
-[^46]: Hendy, Michael F. *Studies in the Byzantine Monetary Economy, c. 300-1450*. Cambridge University Press, 1985, p. 234.
-[^47]: Whittow, *The Making of Byzantium*, p. 162.
-[^48]: Hendy, *Studies in the Byzantine Monetary Economy*, p. 238.
-[^49]: Brubaker, Leslie. *Inventing Byzantine Iconoclasm*. Bristol Classical Press, 2012, p. 34.
-[^50]: Theophanes, *Chronicle*, p. 404.
-[^51]: Grabar, André. *L'Iconoclasme Byzantin: Le dossier archéologique*. Flammarion, 1984, p. 89.
-[^52]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 137.
-[^53]: Gero, Stephen. *Byzantine Iconoclasm during the Reign of Leo III*. Peeters Publishers, 1973, p. 78.
-[^54]: Theophanes, *Chronicle*, p. 409.
-[^55]: Ostrogorsky, *History of the Byzantine State*, p. 162.
-[^56]: Noble, Thomas F. X. *Images, Iconoclasm, and the Carolingians*. University of Pennsylvania Press, 2009, p. 87.
-[^57]: Brubaker, *Inventing Byzantine Iconoclasm*, p. 45.
-[^58]: Cormack, Robin. *Writing in Gold: Byzantine Society and Its Icons*. Oxford University Press, 1985, p. 112.
-[^59]: Grabar, *L'Iconoclasme Byzantin*, p. 124.
-[^60]: Gero, *Byzantine Iconoclasm during the Reign of Leo III*, p. 145.
-[^61]: Morris, Rosemary. *Monks and Laymen in Byzantium, 843-1118*. Cambridge University Press, 1995, p. 34.
-[^62]: Theophanes, *Chronicle*, p. 410.
-[^63]: Mango, Cyril. "Historical Introduction." In *Iconoclasm*, ed. Anthony Bryer and Judith Herrin. Centre for Byzantine Studies, 1977, pp. 1-6.
-[^64]: Theophanes, *Chronicle*, pp. 404-420.
-[^65]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 156.
-[^66]: Noble, *Images, Iconoclasm, and the Carolingians*, p. 91.
-[^67]: Ekonomou, Andrew J. *Byzantine Rome and the Greek Popes*. Lexington Books, 2007, p. 267.
-[^68]: Noble, Thomas F. X. *The Republic of St. Peter: The Birth of the Papal State, 680-825*. University of Pennsylvania Press, 1984, p. 89.
-[^69]: Ekonomou, *Byzantine Rome and the Greek Popes*, p. 271.
-[^70]: Herrin, Judith. *The Formation of Christendom*. Princeton University Press, 1987, p. 412.
-[^71]: Ostrogorsky, *History of the Byzantine State*, p. 165.
-[^72]: Gero, *Byzantine Iconoclasm during the Reign of Leo III*, p. 167.
-[^73]: Dagron, Gilbert. *Emperor and Priest: The Imperial Office in Byzantium*. Trans. Jean Birrell. Cambridge University Press, 2003, p. 178.
-[^74]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 167.
-[^75]: Humphreys, *Law, Power, and Imperial Ideology*, p. 89.
-[^76]: Mango, Cyril. *Byzantine Architecture*. Electa, 1986, p. 156.
-[^77]: Cormack, *Writing in Gold*, p. 118.
-[^78]: Grabar, *L'Iconoclasme Byzantin*, p. 189.
-[^79]: Herrin, *Byzantium: The Surprising Life of a Medieval Empire*, p. 105.
-[^80]: Pelikan, Jaroslav. *The Christian Tradition: A History of the Development of Doctrine, Vol. 2: The Spirit of Eastern Christendom (600-1700)*. University of Chicago Press, 1974, p. 112.
-[^81]: Garland, Lynda. *Byzantine Empresses: Women and Power in Byzantium, AD 527-1204*. Routledge, 1999, p. 89.
-[^82]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 92.
-[^83]: Treadgold, *A History of the Byzantine State and Society*, p. 354.
-[^84]: Ostrogorsky, *History of the Byzantine State*, p. 156.
-[^85]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 93.
-[^86]: Treadgold, *A History of the Byzantine State and Society*, p. 358.
-[^87]: Norwich, *Byzantium: The Early Centuries*, p. 352.
-[^88]: Haldon, *Warfare, State and Society*, p. 84.
-[^89]: Gero, *Byzantine Iconoclasm during the Reign of Leo III*, p. 178.
-[^90]: Brubaker, *Inventing Byzantine Iconoclasm*, p. 67.
-[^91]: Theophanes, *Chronicle*, p. 405.
-[^92]: Pelikan, *The Spirit of Eastern Christendom*, p. 115.
-[^93]: Dagron, Gilbert. "Urban Economy, Seventh-Twelfth Centuries." In *The Economic History of Byzantium*, ed. Angeliki E. Laiou. Dumbarton Oaks, 2002, pp. 453-478.
-[^94]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 171.
-[^95]: Haldon, *Warfare, State and Society*, p. 86.
-[^96]: McCormick, Michael. *Eternal Victory: Triumphal Rulership in Late Antiquity, Byzantium and the Early Medieval West*. Cambridge University Press, 1986, p. 234.
-[^97]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 95.
-[^98]: Treadgold, *A History of the Byzantine State and Society*, p. 356.
-[^99]: Norwich, *Byzantium: The Early Centuries*, p. 355.
-[^100]: Luttwak, *The Grand Strategy of the Byzantine Empire*, p. 285.
-[^101]: Whittow, *The Making of Byzantium*, p. 167.
-[^102]: Treadgold, *A History of the Byzantine State and Society*, p. 361.
-[^103]: Haldon, *Warfare, State and Society*, p. 88.
-[^104]: Humphreys, *Law, Power, and Imperial Ideology*, p. 74.
-[^105]: Whittow, *The Making of Byzantium*, p. 165.
-[^106]: Hendy, *Studies in the Byzantine Monetary Economy*, p. 242.
-[^107]: Brubaker, *Inventing Byzantine Iconoclasm*, p. 89.
-[^108]: Pelikan, *The Spirit of Eastern Christendom*, p. 118.
-[^109]: Meyendorff, John. *Imperial Unity and Christian Divisions: The Church 450-680 AD*. St. Vladimir's Seminary Press, 1989, p. 378.
-[^110]: Grabar, *L'Iconoclasme Byzantin*, p. 234.
-[^111]: Cormack, *Writing in Gold*, p. 145.
-[^112]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 289.
-[^113]: Gero, *Byzantine Iconoclasm during the Reign of Leo III*, p. 234.
-[^114]: Herrin, *Byzantium: The Surprising Life of a Medieval Empire*, p. 112.
-[^115]: Whittow, *The Making of Byzantium*, p. 171.
-[^116]: Kaldellis, Anthony. *Hellenism in Byzantium: The Transformations of Greek Identity and the Reception of the Classical Tradition*. Cambridge University Press, 2007, p. 234.
-[^117]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 295.
+[^1]: Treadgold, Warren. _A History of the Byzantine State and Society_. Stanford University Press, 1997, pp. 347-348.
+
+[^2]: Ostrogorsky, George. _History of the Byzantine State_. Rutgers University Press, 1969, p. 154.
+
+[^3]: Norwich, John Julius. _Byzantium: The Early Centuries_. Viking, 1989, p. 342.
+
+[^4]: Haldon, John. _Byzantium in the Seventh Century: The Transformation of a Culture_. Cambridge University Press, 1997, p. 89.
+
+[^5]: Theophanes the Confessor. _The Chronicle of Theophanes Confessor_. Trans. Cyril Mango and Roger Scott. Oxford University Press, 1997, p. 391.
+
+[^6]: Brubaker, Leslie and John Haldon. _Byzantium in the Iconoclast Era, c. 680-850: A History_. Cambridge University Press, 2011, p. 89.
+
+[^7]: Kaegi, Walter E. _Heraclius: Emperor of Byzantium_. Cambridge University Press, 2003, p. 276.
+
+[^8]: Herrin, Judith. _Byzantium: The Surprising Life of a Medieval Empire_. Princeton University Press, 2007, p. 98.
+
+[^9]: Greatrex, Geoffrey and Samuel Lieu. _The Roman Eastern Frontier and the Persian Wars, Part II: AD 363-630_. Routledge, 2002, p. 234.
+
+[^10]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 91.
+
+[^11]: Treadgold, _A History of the Byzantine State and Society_, p. 348.
+
+[^12]: Kaegi, Walter E. _Byzantium and the Early Islamic Conquests_. Cambridge University Press, 1992, p. 267.
+
+[^13]: Haldon, John. _Warfare, State and Society in the Byzantine World, 565-1204_. Routledge, 1999, p. 78.
+
+[^14]: Kennedy, Hugh. _The Great Arab Conquests_. Da Capo Press, 2007, pp. 312-315.
+
+[^15]: Norwich, _Byzantium: The Early Centuries_, p. 343.
+
+[^16]: Ostrogorsky, _History of the Byzantine State_, p. 155.
+
+[^17]: Theophanes, _Chronicle_, p. 392.
+
+[^18]: Treadgold, _A History of the Byzantine State and Society_, p. 349.
+
+[^19]: Whittow, Mark. _The Making of Byzantium, 600-1025_. University of California Press, 1996, p. 156.
+
+[^20]: Nicolle, David. _The Great Islamic Conquests AD 632-750_. Osprey Publishing, 2009, p. 78.
+
+[^21]: Norwich, _Byzantium: The Early Centuries_, p. 344.
+
+[^22]: Haldon, John. "'Greek Fire' Revisited: Recent and Current Research." In _Byzantine Style, Religion and Civilization: In Honour of Sir Steven Runciman_, ed. Elizabeth Jeffreys. Cambridge University Press, 2006, pp. 290-325.
+
+[^23]: Treadgold, Warren. _Byzantium and Its Army, 284-1081_. Stanford University Press, 1995, p. 78.
+
+[^24]: Norwich, _Byzantium: The Early Centuries_, p. 345.
+
+[^25]: Kennedy, _The Great Arab Conquests_, p. 318.
+
+[^26]: Nicolle, _The Great Islamic Conquests_, p. 79.
+
+[^27]: Haldon, _Warfare, State and Society_, p. 80.
+
+[^28]: Pryor, John H. and Elizabeth M. Jeffreys. _The Age of the ΔΡΟΜΩΝ: The Byzantine Navy ca. 500-1204_. Brill, 2006, p. 156.
+
+[^29]: Theophanes, _Chronicle_, p. 397.
+
+[^30]: Luttwak, Edward N. _The Grand Strategy of the Byzantine Empire_. Harvard University Press, 2009, p. 278.
+
+[^31]: Runciman, Steven. _A History of the First Bulgarian Empire_. G. Bell and Sons, 1930, p. 45.
+
+[^32]: Treadgold, _A History of the Byzantine State and Society_, p. 351.
+
+[^33]: Theophanes, _Chronicle_, p. 398.
+
+[^34]: Kennedy, _The Great Arab Conquests_, p. 321.
+
+[^35]: Haldon, _Warfare, State and Society_, p. 82.
+
+[^36]: Whittow, _The Making of Byzantium_, p. 159.
+
+[^37]: Treadgold, _Byzantium and Its Army_, p. 82.
+
+[^38]: Kaegi, _Byzantium and the Early Islamic Conquests_, p. 272.
+
+[^39]: Luttwak, _The Grand Strategy of the Byzantine Empire_, p. 281.
+
+[^40]: Treadgold, _A History of the Byzantine State and Society_, p. 353.
+
+[^41]: Humphreys, M. T. G. _Law, Power, and Imperial Ideology in the Iconoclast Era, c. 680-850_. Oxford University Press, 2015, p. 67.
+
+[^42]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 124.
+
+[^43]: Troianos, Spyros. "Byzantine Canon Law." In _The History of Byzantine and Eastern Canon Law to 1500_, ed. Wilfried Hartmann and Kenneth Pennington. Catholic University of America Press, 2012, pp. 115-169.
+
+[^44]: Laiou, Angeliki E. "The Role of Women in Byzantine Society." _Jahrbuch der Österreichischen Byzantinistik_ 31, no. 1 (1981): 233-260.
+
+[^45]: Humphreys, _Law, Power, and Imperial Ideology_, p. 71.
+
+[^46]: Hendy, Michael F. _Studies in the Byzantine Monetary Economy, c. 300-1450_. Cambridge University Press, 1985, p. 234.
+
+[^47]: Whittow, _The Making of Byzantium_, p. 162.
+
+[^48]: Hendy, _Studies in the Byzantine Monetary Economy_, p. 238.
+
+[^49]: Brubaker, Leslie. _Inventing Byzantine Iconoclasm_. Bristol Classical Press, 2012, p. 34.
+
+[^50]: Theophanes, _Chronicle_, p. 404.
+
+[^51]: Grabar, André. _L'Iconoclasme Byzantin: Le dossier archéologique_. Flammarion, 1984, p. 89.
+
+[^52]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 137.
+
+[^53]: Gero, Stephen. _Byzantine Iconoclasm during the Reign of Leo III_. Peeters Publishers, 1973, p. 78.
+
+[^54]: Theophanes, _Chronicle_, p. 409.
+
+[^55]: Ostrogorsky, _History of the Byzantine State_, p. 162.
+
+[^56]: Noble, Thomas F. X. _Images, Iconoclasm, and the Carolingians_. University of Pennsylvania Press, 2009, p. 87.
+
+[^57]: Brubaker, _Inventing Byzantine Iconoclasm_, p. 45.
+
+[^58]: Cormack, Robin. _Writing in Gold: Byzantine Society and Its Icons_. Oxford University Press, 1985, p. 112.
+
+[^59]: Grabar, _L'Iconoclasme Byzantin_, p. 124.
+
+[^60]: Gero, _Byzantine Iconoclasm during the Reign of Leo III_, p. 145.
+
+[^61]: Morris, Rosemary. _Monks and Laymen in Byzantium, 843-1118_. Cambridge University Press, 1995, p. 34.
+
+[^62]: Theophanes, _Chronicle_, p. 410.
+
+[^63]: Mango, Cyril. "Historical Introduction." In _Iconoclasm_, ed. Anthony Bryer and Judith Herrin. Centre for Byzantine Studies, 1977, pp. 1-6.
+
+[^64]: Theophanes, _Chronicle_, pp. 404-420.
+
+[^65]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 156.
+
+[^66]: Noble, _Images, Iconoclasm, and the Carolingians_, p. 91.
+
+[^67]: Ekonomou, Andrew J. _Byzantine Rome and the Greek Popes_. Lexington Books, 2007, p. 267.
+
+[^68]: Noble, Thomas F. X. _The Republic of St. Peter: The Birth of the Papal State, 680-825_. University of Pennsylvania Press, 1984, p. 89.
+
+[^69]: Ekonomou, _Byzantine Rome and the Greek Popes_, p. 271.
+
+[^70]: Herrin, Judith. _The Formation of Christendom_. Princeton University Press, 1987, p. 412.
+
+[^71]: Ostrogorsky, _History of the Byzantine State_, p. 165.
+
+[^72]: Gero, _Byzantine Iconoclasm during the Reign of Leo III_, p. 167.
+
+[^73]: Dagron, Gilbert. _Emperor and Priest: The Imperial Office in Byzantium_. Trans. Jean Birrell. Cambridge University Press, 2003, p. 178.
+
+[^74]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 167.
+
+[^75]: Humphreys, _Law, Power, and Imperial Ideology_, p. 89.
+
+[^76]: Mango, Cyril. _Byzantine Architecture_. Electa, 1986, p. 156.
+
+[^77]: Cormack, _Writing in Gold_, p. 118.
+
+[^78]: Grabar, _L'Iconoclasme Byzantin_, p. 189.
+
+[^79]: Herrin, _Byzantium: The Surprising Life of a Medieval Empire_, p. 105.
+
+[^80]: Pelikan, Jaroslav. _The Christian Tradition: A History of the Development of Doctrine, Vol. 2: The Spirit of Eastern Christendom (600-1700)_. University of Chicago Press, 1974, p. 112.
+
+[^81]: Garland, Lynda. _Byzantine Empresses: Women and Power in Byzantium, AD 527-1204_. Routledge, 1999, p. 89.
+
+[^82]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 92.
+
+[^83]: Treadgold, _A History of the Byzantine State and Society_, p. 354.
+
+[^84]: Ostrogorsky, _History of the Byzantine State_, p. 156.
+
+[^85]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 93.
+
+[^86]: Treadgold, _A History of the Byzantine State and Society_, p. 358.
+
+[^87]: Norwich, _Byzantium: The Early Centuries_, p. 352.
+
+[^88]: Haldon, _Warfare, State and Society_, p. 84.
+
+[^89]: Gero, _Byzantine Iconoclasm during the Reign of Leo III_, p. 178.
+
+[^90]: Brubaker, _Inventing Byzantine Iconoclasm_, p. 67.
+
+[^91]: Theophanes, _Chronicle_, p. 405.
+
+[^92]: Pelikan, _The Spirit of Eastern Christendom_, p. 115.
+
+[^93]: Dagron, Gilbert. "Urban Economy, Seventh-Twelfth Centuries." In _The Economic History of Byzantium_, ed. Angeliki E. Laiou. Dumbarton Oaks, 2002, pp. 453-478.
+
+[^94]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 171.
+
+[^95]: Haldon, _Warfare, State and Society_, p. 86.
+
+[^96]: McCormick, Michael. _Eternal Victory: Triumphal Rulership in Late Antiquity, Byzantium and the Early Medieval West_. Cambridge University Press, 1986, p. 234.
+
+[^97]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 95.
+
+[^98]: Treadgold, _A History of the Byzantine State and Society_, p. 356.
+
+[^99]: Norwich, _Byzantium: The Early Centuries_, p. 355.
+
+[^100]: Luttwak, _The Grand Strategy of the Byzantine Empire_, p. 285.
+
+[^101]: Whittow, _The Making of Byzantium_, p. 167.
+
+[^102]: Treadgold, _A History of the Byzantine State and Society_, p. 361.
+
+[^103]: Haldon, _Warfare, State and Society_, p. 88.
+
+[^104]: Humphreys, _Law, Power, and Imperial Ideology_, p. 74.
+
+[^105]: Whittow, _The Making of Byzantium_, p. 165.
+
+[^106]: Hendy, _Studies in the Byzantine Monetary Economy_, p. 242.
+
+[^107]: Brubaker, _Inventing Byzantine Iconoclasm_, p. 89.
+
+[^108]: Pelikan, _The Spirit of Eastern Christendom_, p. 118.
+
+[^109]: Meyendorff, John. _Imperial Unity and Christian Divisions: The Church 450-680 AD_. St. Vladimir's Seminary Press, 1989, p. 378.
+
+[^110]: Grabar, _L'Iconoclasme Byzantin_, p. 234.
+
+[^111]: Cormack, _Writing in Gold_, p. 145.
+
+[^112]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 289.
+
+[^113]: Gero, _Byzantine Iconoclasm during the Reign of Leo III_, p. 234.
+
+[^114]: Herrin, _Byzantium: The Surprising Life of a Medieval Empire_, p. 112.
+
+[^115]: Whittow, _The Making of Byzantium_, p. 171.
+
+[^116]: Kaldellis, Anthony. _Hellenism in Byzantium: The Transformations of Greek Identity and the Reception of the Classical Tradition_. Cambridge University Press, 2007, p. 234.
+
+[^117]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 295.
+
 [^118]: Mango, "Historical Introduction," p. 4.
-[^119]: Theophanes, *Chronicle*, pp. 404-420.
-[^120]: Brubaker, *Inventing Byzantine Iconoclasm*, p. 12.
-[^121]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 3.
-[^122]: Treadgold, *A History of the Byzantine State and Society*, p. 357.
-[^123]: Norwich, *Byzantium: The Early Centuries*, p. 356.
-[^124]: Kennedy, *The Great Arab Conquests*, p. 323.
-[^125]: Haldon, *Warfare, State and Society*, p. 91.
-[^126]: Whittow, *The Making of Byzantium*, p. 168.
-[^127]: Treadgold, *Byzantium and Its Army*, p. 89.
-[^128]: Humphreys, *Law, Power, and Imperial Ideology*, p. 76.
-[^129]: Gero, *Byzantine Iconoclasm during the Reign of Leo III*, p. 245.
-[^130]: Morris, *Monks and Laymen in Byzantium*, p. 38.
-[^131]: Hendy, *Studies in the Byzantine Monetary Economy*, p. 245.
-[^132]: Luttwak, *The Grand Strategy of the Byzantine Empire*, p. 287.
-[^133]: Haldon, *Warfare, State and Society*, p. 93.
-[^134]: Whittow, *The Making of Byzantium*, p. 172.
-[^135]: Kaldellis, *Hellenism in Byzantium*, p. 241.
-[^136]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 298.
-[^137]: Herrin, *Byzantium: The Surprising Life of a Medieval Empire*, p. 115.
-[^138]: Pelikan, *The Spirit of Eastern Christendom*, p. 121.
-[^139]: Brubaker, *Inventing Byzantine Iconoclasm*, p. 95.
-[^140]: Grabar, *L'Iconoclasme Byzantin*, p. 267.
-[^141]: Cormack, *Writing in Gold*, p. 152.
-[^142]: Mango, *Byzantine Architecture*, p. 162.
-[^143]: Dagron, *Emperor and Priest*, p. 185.
-[^144]: Pelikan, *The Spirit of Eastern Christendom*, p. 124.
-[^145]: Noble, *Images, Iconoclasm, and the Carolingians*, p. 98.
-[^146]: Herrin, *Byzantium: The Surprising Life of a Medieval Empire*, p. 118.
-[^147]: Brubaker and Haldon, *Byzantium in the Iconoclast Era*, p. 302.
-[^148]: Pryor and Jeffreys, *The Age of the ΔΡΟΜΩΝ*, p. 162.
-[^149]: Treadgold, *A History of the Byzantine State and Society*, p. 359.
-[^150]: Haldon, *Warfare, State and Society*, p. 95.
-[^151]: Dagron, *Emperor and Priest*, p. 189.
-[^152]: Ostrogorsky, *History of the Byzantine State*, p. 171.
-[^153]: Herrin, *The Formation of Christendom*, p. 421.
-[^154]: Kaldellis, *Hellenism in Byzantium*, p. 248.
-[^155]: Gero, *Byzantine Iconoclasm during the Reign of Leo III*, p. 189.
-[^156]: Dagron, *Emperor and Priest*, p. 179.
-[^157]: Norwich, *Byzantium: The Early Centuries*, p. 345.
-[^158]: Morris, *Monks and Laymen in Byzantium*, p. 39.
-[^159]: Humphreys, *Law, Power, and Imperial Ideology*, p. 68.
+
+[^119]: Theophanes, _Chronicle_, pp. 404-420.
+
+[^120]: Brubaker, _Inventing Byzantine Iconoclasm_, p. 12.
+
+[^121]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 3.
+
+[^122]: Treadgold, _A History of the Byzantine State and Society_, p. 357.
+
+[^123]: Norwich, _Byzantium: The Early Centuries_, p. 356.
+
+[^124]: Kennedy, _The Great Arab Conquests_, p. 323.
+
+[^125]: Haldon, _Warfare, State and Society_, p. 91.
+
+[^126]: Whittow, _The Making of Byzantium_, p. 168.
+
+[^127]: Treadgold, _Byzantium and Its Army_, p. 89.
+
+[^128]: Humphreys, _Law, Power, and Imperial Ideology_, p. 76.
+
+[^129]: Gero, _Byzantine Iconoclasm during the Reign of Leo III_, p. 245.
+
+[^130]: Morris, _Monks and Laymen in Byzantium_, p. 38.
+
+[^131]: Hendy, _Studies in the Byzantine Monetary Economy_, p. 245.
+
+[^132]: Luttwak, _The Grand Strategy of the Byzantine Empire_, p. 287.
+
+[^133]: Haldon, _Warfare, State and Society_, p. 93.
+
+[^134]: Whittow, _The Making of Byzantium_, p. 172.
+
+[^135]: Kaldellis, _Hellenism in Byzantium_, p. 241.
+
+[^136]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 298.
+
+[^137]: Herrin, _Byzantium: The Surprising Life of a Medieval Empire_, p. 115.
+
+[^138]: Pelikan, _The Spirit of Eastern Christendom_, p. 121.
+
+[^139]: Brubaker, _Inventing Byzantine Iconoclasm_, p. 95.
+
+[^140]: Grabar, _L'Iconoclasme Byzantin_, p. 267.
+
+[^141]: Cormack, _Writing in Gold_, p. 152.
+
+[^142]: Mango, _Byzantine Architecture_, p. 162.
+
+[^143]: Dagron, _Emperor and Priest_, p. 185.
+
+[^144]: Pelikan, _The Spirit of Eastern Christendom_, p. 124.
+
+[^145]: Noble, _Images, Iconoclasm, and the Carolingians_, p. 98.
+
+[^146]: Herrin, _Byzantium: The Surprising Life of a Medieval Empire_, p. 118.
+
+[^147]: Brubaker and Haldon, _Byzantium in the Iconoclast Era_, p. 302.
+
+[^148]: Pryor and Jeffreys, _The Age of the ΔΡΟΜΩΝ_, p. 162.
+
+[^149]: Treadgold, _A History of the Byzantine State and Society_, p. 359.
+
+[^150]: Haldon, _Warfare, State and Society_, p. 95.
+
+[^151]: Dagron, _Emperor and Priest_, p. 189.
+
+[^152]: Ostrogorsky, _History of the Byzantine State_, p. 171.
+
+[^153]: Herrin, _The Formation of Christendom_, p. 421.
+
+[^154]: Kaldellis, _Hellenism in Byzantium_, p. 248.
+
+[^155]: Gero, _Byzantine Iconoclasm during the Reign of Leo III_, p. 189.
+
+[^156]: Dagron, _Emperor and Priest_, p. 179.
+
+[^157]: Norwich, _Byzantium: The Early Centuries_, p. 345.
+
+[^158]: Morris, _Monks and Laymen in Byzantium_, p. 39.
+
+[^159]: Humphreys, _Law, Power, and Imperial Ideology_, p. 68.

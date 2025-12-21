@@ -133,32 +133,32 @@ Feminist historians have criticized George's treatment of women, particularly hi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1738 | Born June 4 at Norfolk House, London |
-| 1751 | Became heir apparent following his father's death |
-| 1760 | Ascended to the throne on October 25 upon death of George II |
-| 1761 | Married Princess Charlotte of Mecklenburg-Strelitz on September 8 |
-| 1761 | Crowned King at Westminster Abbey on September 22 |
-| 1762 | Appointed Earl of Bute as Prime Minister |
-| 1763 | Treaty of Paris ended Seven Years' War, expanding British Empire |
-| 1765 | Stamp Act imposed on American colonies, sparking resistance |
-| 1768 | Founded the Royal Academy of Arts |
-| 1770 | Lord North became Prime Minister, beginning 12-year ministry |
-| 1773 | Boston Tea Party marked escalation of colonial crisis |
-| 1775 | American Revolutionary War began with battles of Lexington and Concord |
-| 1776 | American Declaration of Independence declared George a tyrant |
-| 1781 | British defeat at Yorktown effectively ended American war |
-| 1783 | Treaty of Paris recognized American independence |
-| 1788 | First serious bout of mental illness; Regency Crisis |
-| 1789 | Recovered from illness; French Revolution began |
-| 1793 | Britain entered war against Revolutionary France |
-| 1801 | Act of Union created United Kingdom of Great Britain and Ireland |
-| 1804 | Suffered another episode of mental illness |
+| Year | Event                                                                          |
+| ---- | ------------------------------------------------------------------------------ |
+| 1738 | Born June 4 at Norfolk House, London                                           |
+| 1751 | Became heir apparent following his father's death                              |
+| 1760 | Ascended to the throne on October 25 upon death of George II                   |
+| 1761 | Married Princess Charlotte of Mecklenburg-Strelitz on September 8              |
+| 1761 | Crowned King at Westminster Abbey on September 22                              |
+| 1762 | Appointed Earl of Bute as Prime Minister                                       |
+| 1763 | Treaty of Paris ended Seven Years' War, expanding British Empire               |
+| 1765 | Stamp Act imposed on American colonies, sparking resistance                    |
+| 1768 | Founded the Royal Academy of Arts                                              |
+| 1770 | Lord North became Prime Minister, beginning 12-year ministry                   |
+| 1773 | Boston Tea Party marked escalation of colonial crisis                          |
+| 1775 | American Revolutionary War began with battles of Lexington and Concord         |
+| 1776 | American Declaration of Independence declared George a tyrant                  |
+| 1781 | British defeat at Yorktown effectively ended American war                      |
+| 1783 | Treaty of Paris recognized American independence                               |
+| 1788 | First serious bout of mental illness; Regency Crisis                           |
+| 1789 | Recovered from illness; French Revolution began                                |
+| 1793 | Britain entered war against Revolutionary France                               |
+| 1801 | Act of Union created United Kingdom of Great Britain and Ireland               |
+| 1804 | Suffered another episode of mental illness                                     |
 | 1810 | Final descent into permanent mental illness following death of Princess Amelia |
-| 1811 | Prince of Wales became Prince Regent |
-| 1815 | Battle of Waterloo; final defeat of Napoleon |
-| 1820 | Died January 29 at Windsor Castle, aged 81 |
+| 1811 | Prince of Wales became Prince Regent                                           |
+| 1815 | Battle of Waterloo; final defeat of Napoleon                                   |
+| 1820 | Died January 29 at Windsor Castle, aged 81                                     |
 
 ---
 
@@ -180,113 +180,222 @@ Feminist historians have criticized George's treatment of women, particularly hi
 
 ## References
 
-[^1]: Black, Jeremy. *George III: America's Last King*. Yale University Press, 2006, pp. 3-7.
-[^2]: Brooke, John. *King George III*. Constable, 1972, pp. 25-31.
-[^3]: Hibbert, Christopher. *George III: A Personal History*. Basic Books, 1998, pp. 12-18.
-[^4]: Black, *George III: America's Last King*, pp. 15-22.
-[^5]: Brooke, *King George III*, pp. 33-36.
-[^6]: Hibbert, *George III: A Personal History*, pp. 19-21.
-[^7]: Black, *George III: America's Last King*, pp. 18-20.
-[^8]: Brooke, *King George III*, pp. 28-30.
-[^9]: Hibbert, *George III: A Personal History*, pp. 22-27.
-[^10]: Black, *George III: America's Last King*, pp. 45-48.
-[^11]: Brooke, *King George III*, pp. 67-72.
-[^12]: Hibbert, *George III: A Personal History*, pp. 41-45.
-[^13]: Black, *George III: America's Last King*, pp. 52-58.
-[^14]: Brooke, *King George III*, pp. 75-82.
-[^15]: Hibbert, *George III: A Personal History*, pp. 48-53.
-[^16]: Black, *George III: America's Last King*, pp. 65-74.
-[^17]: Brooke, *King George III*, pp. 95-112.
-[^18]: Anderson, Fred. *Crucible of War: The Seven Years' War and the Fate of Empire in British North America*. Knopf, 2000, pp. 503-524.
-[^19]: Hibbert, *George III: A Personal History*, pp. 38-40, 56-62.
-[^20]: Black, *George III: America's Last King*, pp. 83-87.
-[^21]: Brooke, *King George III*, pp. 142-148.
-[^22]: Porter, Roy. *English Society in the Eighteenth Century*. Penguin, 1982, pp. 112-145.
-[^23]: Ashton, T.S. *The Industrial Revolution, 1760-1830*. Oxford University Press, 1948, pp. 1-23.
-[^24]: Marshall, P.J. *The Making and Unmaking of Empires: Britain, India, and America c.1750-1783*. Oxford University Press, 2005, pp. 87-134.
-[^25]: Williams, Glyndwr. *The Death of Captain Cook: A Hero Made and Unmade*. Harvard University Press, 2008, pp. 23-45.
-[^26]: Black, *George III: America's Last King*, pp. 198-205.
-[^27]: Schroeder, Paul. *The Transformation of European Politics, 1763-1848*. Oxford University Press, 1994, pp. 421-478.
-[^28]: Brooke, *King George III*, pp. 332-357.
-[^29]: Hibbert, *George III: A Personal History*, pp. 156-162.
-[^30]: Harris, Michael. *A Passion for Books: The King George III Collection*. British Library, 2004, pp. 1-15.
-[^31]: Solkin, David. *Art in Britain, 1660-1815*. Yale University Press, 2015, pp. 234-247.
-[^32]: Hoskin, Michael. *The Herschel Partnership: As Viewed by Caroline*. Science History Publications, 2003, pp. 67-82.
-[^33]: Bartlett, Thomas. *Ireland: A History*. Cambridge University Press, 2010, pp. 234-256.
-[^34]: Ehrman, John. *The Younger Pitt: The Consuming Struggle*. Constable, 1996, pp. 431-459.
-[^35]: Hibbert, *George III: A Personal History*, pp. 164-171.
-[^36]: Black, *George III: America's Last King*, pp. 206-213.
-[^37]: Brooke, *King George III*, pp. 271-278.
-[^38]: Maier, Pauline. *American Scripture: Making the Declaration of Independence*. Knopf, 1997, pp. 97-123.
+[^1]: Black, Jeremy. _George III: America's Last King_. Yale University Press, 2006, pp. 3-7.
+
+[^2]: Brooke, John. _King George III_. Constable, 1972, pp. 25-31.
+
+[^3]: Hibbert, Christopher. _George III: A Personal History_. Basic Books, 1998, pp. 12-18.
+
+[^4]: Black, _George III: America's Last King_, pp. 15-22.
+
+[^5]: Brooke, _King George III_, pp. 33-36.
+
+[^6]: Hibbert, _George III: A Personal History_, pp. 19-21.
+
+[^7]: Black, _George III: America's Last King_, pp. 18-20.
+
+[^8]: Brooke, _King George III_, pp. 28-30.
+
+[^9]: Hibbert, _George III: A Personal History_, pp. 22-27.
+
+[^10]: Black, _George III: America's Last King_, pp. 45-48.
+
+[^11]: Brooke, _King George III_, pp. 67-72.
+
+[^12]: Hibbert, _George III: A Personal History_, pp. 41-45.
+
+[^13]: Black, _George III: America's Last King_, pp. 52-58.
+
+[^14]: Brooke, _King George III_, pp. 75-82.
+
+[^15]: Hibbert, _George III: A Personal History_, pp. 48-53.
+
+[^16]: Black, _George III: America's Last King_, pp. 65-74.
+
+[^17]: Brooke, _King George III_, pp. 95-112.
+
+[^18]: Anderson, Fred. _Crucible of War: The Seven Years' War and the Fate of Empire in British North America_. Knopf, 2000, pp. 503-524.
+
+[^19]: Hibbert, _George III: A Personal History_, pp. 38-40, 56-62.
+
+[^20]: Black, _George III: America's Last King_, pp. 83-87.
+
+[^21]: Brooke, _King George III_, pp. 142-148.
+
+[^22]: Porter, Roy. _English Society in the Eighteenth Century_. Penguin, 1982, pp. 112-145.
+
+[^23]: Ashton, T.S. _The Industrial Revolution, 1760-1830_. Oxford University Press, 1948, pp. 1-23.
+
+[^24]: Marshall, P.J. _The Making and Unmaking of Empires: Britain, India, and America c.1750-1783_. Oxford University Press, 2005, pp. 87-134.
+
+[^25]: Williams, Glyndwr. _The Death of Captain Cook: A Hero Made and Unmade_. Harvard University Press, 2008, pp. 23-45.
+
+[^26]: Black, _George III: America's Last King_, pp. 198-205.
+
+[^27]: Schroeder, Paul. _The Transformation of European Politics, 1763-1848_. Oxford University Press, 1994, pp. 421-478.
+
+[^28]: Brooke, _King George III_, pp. 332-357.
+
+[^29]: Hibbert, _George III: A Personal History_, pp. 156-162.
+
+[^30]: Harris, Michael. _A Passion for Books: The King George III Collection_. British Library, 2004, pp. 1-15.
+
+[^31]: Solkin, David. _Art in Britain, 1660-1815_. Yale University Press, 2015, pp. 234-247.
+
+[^32]: Hoskin, Michael. _The Herschel Partnership: As Viewed by Caroline_. Science History Publications, 2003, pp. 67-82.
+
+[^33]: Bartlett, Thomas. _Ireland: A History_. Cambridge University Press, 2010, pp. 234-256.
+
+[^34]: Ehrman, John. _The Younger Pitt: The Consuming Struggle_. Constable, 1996, pp. 431-459.
+
+[^35]: Hibbert, _George III: A Personal History_, pp. 164-171.
+
+[^36]: Black, _George III: America's Last King_, pp. 206-213.
+
+[^37]: Brooke, _King George III_, pp. 271-278.
+
+[^38]: Maier, Pauline. _American Scripture: Making the Declaration of Independence_. Knopf, 1997, pp. 97-123.
+
 [^39]: The Declaration of Independence. National Archives, 1776.
-[^40]: O'Shaughnessy, Andrew Jackson. *The Men Who Lost America: British Leadership, the American Revolution, and the Fate of the Empire*. Yale University Press, 2013, pp. 98-134.
-[^41]: Conway, Stephen. *The War of American Independence, 1775-1783*. Edward Arnold, 1995, pp. 78-102.
-[^42]: Black, *George III: America's Last King*, pp. 234-237.
-[^43]: Greene, Jack P. *Constitutional Origins of the American Revolution*. Cambridge University Press, 2011, pp. 167-189.
-[^44]: Mitchell, L.G. *Charles James Fox*. Oxford University Press, 1992, pp. 87-112.
-[^45]: Cannon, John. *The Fox-North Coalition: Crisis of the Constitution, 1782-4*. Cambridge University Press, 1969, pp. 145-178.
-[^46]: Bartlett, *Ireland: A History*, pp. 267-273.
-[^47]: Brooke, *King George III*, pp. 367-372.
-[^48]: Hibbert, *George III: A Personal History*, pp. 267-289.
-[^49]: Parry, E.A. *The Regency Crisis and the Whigs, 1788-9*. Cambridge University Press, 1963, pp. 34-67.
-[^50]: Macalpine, Ida and Richard Hunter. *George III and the Mad-Business*. Pimlico, 1991, pp. 1-45.
-[^51]: Hibbert, *George III: A Personal History*, pp. 38-40.
-[^52]: Black, *George III: America's Last King*, pp. 83-87.
-[^53]: Brooke, *King George III*, pp. 289-295.
-[^54]: Hibbert, *George III: A Personal History*, pp. 172-185.
-[^55]: Smith, E.A. *George IV*. Yale University Press, 1999, pp. 23-56.
-[^56]: Hibbert, Christopher. *George IV*. Harper & Row, 1973, pp. 34-52.
-[^57]: Black, *George III: America's Last King*, pp. 214-218.
-[^58]: Brooke, *King George III*, pp. 279-283.
-[^59]: Hibbert, *George III: A Personal History*, pp. 163-164.
-[^60]: Black, *George III: America's Last King*, pp. 88-92.
-[^61]: Brooke, *King George III*, pp. 284-288.
-[^62]: Hibbert, *George III: A Personal History*, pp. 145-152.
-[^63]: Macalpine and Hunter, *George III and the Mad-Business*, pp. 67-134.
-[^64]: Peters, Timothy J. and Allan Beveridge. "The Madness of King George III: A Psychiatric Re-assessment." *History of Psychiatry* 21, no. 1 (2010): 20-37.
-[^65]: Hibbert, *George III: A Personal History*, pp. 279-285.
-[^66]: Brooke, *King George III*, pp. 383-389.
-[^67]: Maier, *American Scripture*, pp. 154-167.
-[^68]: O'Shaughnessy, *The Men Who Lost America*, pp. 312-334.
-[^69]: Black, *George III: America's Last King*, pp. 421-435.
-[^70]: Colley, Linda. *Britons: Forging the Nation, 1707-1837*. Yale University Press, 1992, pp. 195-236.
-[^71]: Cannon, John. *Parliamentary Reform, 1640-1832*. Cambridge University Press, 1973, pp. 89-123.
-[^72]: Brooke, *King George III*, pp. 395-403.
-[^73]: Black, *George III: America's Last King*, pp. 438-445.
-[^74]: Harris, *A Passion for Books*, pp. 125-142.
-[^75]: Black, *George III: America's Last King*, pp. 205-213.
-[^76]: Bennett, Alan. *The Madness of George III*. Faber and Faber, 1992.
+
+[^40]: O'Shaughnessy, Andrew Jackson. _The Men Who Lost America: British Leadership, the American Revolution, and the Fate of the Empire_. Yale University Press, 2013, pp. 98-134.
+
+[^41]: Conway, Stephen. _The War of American Independence, 1775-1783_. Edward Arnold, 1995, pp. 78-102.
+
+[^42]: Black, _George III: America's Last King_, pp. 234-237.
+
+[^43]: Greene, Jack P. _Constitutional Origins of the American Revolution_. Cambridge University Press, 2011, pp. 167-189.
+
+[^44]: Mitchell, L.G. _Charles James Fox_. Oxford University Press, 1992, pp. 87-112.
+
+[^45]: Cannon, John. _The Fox-North Coalition: Crisis of the Constitution, 1782-4_. Cambridge University Press, 1969, pp. 145-178.
+
+[^46]: Bartlett, _Ireland: A History_, pp. 267-273.
+
+[^47]: Brooke, _King George III_, pp. 367-372.
+
+[^48]: Hibbert, _George III: A Personal History_, pp. 267-289.
+
+[^49]: Parry, E.A. _The Regency Crisis and the Whigs, 1788-9_. Cambridge University Press, 1963, pp. 34-67.
+
+[^50]: Macalpine, Ida and Richard Hunter. _George III and the Mad-Business_. Pimlico, 1991, pp. 1-45.
+
+[^51]: Hibbert, _George III: A Personal History_, pp. 38-40.
+
+[^52]: Black, _George III: America's Last King_, pp. 83-87.
+
+[^53]: Brooke, _King George III_, pp. 289-295.
+
+[^54]: Hibbert, _George III: A Personal History_, pp. 172-185.
+
+[^55]: Smith, E.A. _George IV_. Yale University Press, 1999, pp. 23-56.
+
+[^56]: Hibbert, Christopher. _George IV_. Harper & Row, 1973, pp. 34-52.
+
+[^57]: Black, _George III: America's Last King_, pp. 214-218.
+
+[^58]: Brooke, _King George III_, pp. 279-283.
+
+[^59]: Hibbert, _George III: A Personal History_, pp. 163-164.
+
+[^60]: Black, _George III: America's Last King_, pp. 88-92.
+
+[^61]: Brooke, _King George III_, pp. 284-288.
+
+[^62]: Hibbert, _George III: A Personal History_, pp. 145-152.
+
+[^63]: Macalpine and Hunter, _George III and the Mad-Business_, pp. 67-134.
+
+[^64]: Peters, Timothy J. and Allan Beveridge. "The Madness of King George III: A Psychiatric Re-assessment." _History of Psychiatry_ 21, no. 1 (2010): 20-37.
+
+[^65]: Hibbert, _George III: A Personal History_, pp. 279-285.
+
+[^66]: Brooke, _King George III_, pp. 383-389.
+
+[^67]: Maier, _American Scripture_, pp. 154-167.
+
+[^68]: O'Shaughnessy, _The Men Who Lost America_, pp. 312-334.
+
+[^69]: Black, _George III: America's Last King_, pp. 421-435.
+
+[^70]: Colley, Linda. _Britons: Forging the Nation, 1707-1837_. Yale University Press, 1992, pp. 195-236.
+
+[^71]: Cannon, John. _Parliamentary Reform, 1640-1832_. Cambridge University Press, 1973, pp. 89-123.
+
+[^72]: Brooke, _King George III_, pp. 395-403.
+
+[^73]: Black, _George III: America's Last King_, pp. 438-445.
+
+[^74]: Harris, _A Passion for Books_, pp. 125-142.
+
+[^75]: Black, _George III: America's Last King_, pp. 205-213.
+
+[^76]: Bennett, Alan. _The Madness of George III_. Faber and Faber, 1992.
+
 [^77]: Peters and Beveridge, "The Madness of King George III," pp. 34-37.
-[^78]: Porter, *English Society in the Eighteenth Century*, pp. 312-356.
-[^79]: Black, *George III: America's Last King*, pp. 446-452.
-[^80]: Brooke, *King George III*, p. 404.
+
+[^78]: Porter, _English Society in the Eighteenth Century_, pp. 312-356.
+
+[^79]: Black, _George III: America's Last King_, pp. 446-452.
+
+[^80]: Brooke, _King George III_, p. 404.
+
 [^81]: Ibid., pp. 395-404.
-[^82]: Roberts, Andrew. "George III Has Had a Very Unfair Press." *The Spectator*, October 2006.
+
+[^82]: Roberts, Andrew. "George III Has Had a Very Unfair Press." _The Spectator_, October 2006.
+
 [^83]: Ibid.
-[^84]: Black, *George III: America's Last King*, pp. 52-78.
+
+[^84]: Black, _George III: America's Last King_, pp. 52-78.
+
 [^85]: Ibid., pp. 425-430.
+
 [^86]: Ibid., pp. 234-245.
-[^87]: Brooke, *King George III*, pp. 223-237.
-[^88]: McCullough, David. *John Adams*. Simon & Schuster, 2001, pp. 356-359.
-[^89]: Solkin, *Art in Britain, 1660-1815*, pp. 234-247.
-[^90]: Black, *George III: America's Last King*, pp. 206-213.
-[^91]: Colley, *Britons*, pp. 221-228.
-[^92]: Namier, Lewis. *The Structure of Politics at the Accession of George III*. Macmillan, 1929, pp. 1-34.
-[^93]: Butterfield, Herbert. *George III and the Historians*. Collins, 1957, pp. 45-89.
-[^94]: Colley, *Britons*, pp. 207-215.
-[^95]: Mitchell, *Charles James Fox*, pp. 87-112.
-[^96]: O'Shaughnessy, *The Men Who Lost America*, pp. 98-134.
-[^97]: Black, *George III: America's Last King*, pp. 234-237.
-[^98]: Countryman, Edward. *The American Revolution*. Hill and Wang, 2003, pp. 87-102.
-[^99]: Bartlett, *Ireland: A History*, pp. 267-273.
+
+[^87]: Brooke, _King George III_, pp. 223-237.
+
+[^88]: McCullough, David. _John Adams_. Simon & Schuster, 2001, pp. 356-359.
+
+[^89]: Solkin, _Art in Britain, 1660-1815_, pp. 234-247.
+
+[^90]: Black, _George III: America's Last King_, pp. 206-213.
+
+[^91]: Colley, _Britons_, pp. 221-228.
+
+[^92]: Namier, Lewis. _The Structure of Politics at the Accession of George III_. Macmillan, 1929, pp. 1-34.
+
+[^93]: Butterfield, Herbert. _George III and the Historians_. Collins, 1957, pp. 45-89.
+
+[^94]: Colley, _Britons_, pp. 207-215.
+
+[^95]: Mitchell, _Charles James Fox_, pp. 87-112.
+
+[^96]: O'Shaughnessy, _The Men Who Lost America_, pp. 98-134.
+
+[^97]: Black, _George III: America's Last King_, pp. 234-237.
+
+[^98]: Countryman, Edward. _The American Revolution_. Hill and Wang, 2003, pp. 87-102.
+
+[^99]: Bartlett, _Ireland: A History_, pp. 267-273.
+
 [^100]: Ibid., pp. 278-291.
-[^101]: Macalpine and Hunter, *George III and the Mad-Business*, pp. 234-267.
-[^102]: Parry, *The Regency Crisis and the Whigs*, pp. 145-178.
-[^103]: Tillyard, Stella. *A Royal Affair: George III and His Troublesome Siblings*. Random House, 2006, pp. 267-289.
-[^104]: Hibbert, *George III: A Personal History*, pp. 321-334.
-[^105]: Cobbett, William. *Parliamentary History of England*. Vol. 15, 1760-1765, p. 989.
-[^106]: Hibbert, *George III: A Personal History*, p. 154.
-[^107]: Black, *George III: America's Last King*, p. 236.
-[^108]: Burney, Fanny. *Diary and Letters of Madame d'Arblay*. Vol. 2, edited by Charlotte Barrett. Macmillan, 1904, p. 387.
-[^109]: Brooke, *King George III*, p. 98.
-[^110]: Macalpine and Hunter, *George III and the Mad-Business*, p. 142.
+
+[^101]: Macalpine and Hunter, _George III and the Mad-Business_, pp. 234-267.
+
+[^102]: Parry, _The Regency Crisis and the Whigs_, pp. 145-178.
+
+[^103]: Tillyard, Stella. _A Royal Affair: George III and His Troublesome Siblings_. Random House, 2006, pp. 267-289.
+
+[^104]: Hibbert, _George III: A Personal History_, pp. 321-334.
+
+[^105]: Cobbett, William. _Parliamentary History of England_. Vol. 15, 1760-1765, p. 989.
+
+[^106]: Hibbert, _George III: A Personal History_, p. 154.
+
+[^107]: Black, _George III: America's Last King_, p. 236.
+
+[^108]: Burney, Fanny. _Diary and Letters of Madame d'Arblay_. Vol. 2, edited by Charlotte Barrett. Macmillan, 1904, p. 387.
+
+[^109]: Brooke, _King George III_, p. 98.
+
+[^110]: Macalpine and Hunter, _George III and the Mad-Business_, p. 142.

@@ -121,41 +121,41 @@ Critics also argue that while Executive Order 9981 was symbolically important, T
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1884 | Born on May 8 in Lamar, Missouri |
-| 1901 | Graduated from Independence High School |
-| 1906 | Returned to Grandview to manage family farm |
-| 1917 | Entered military service in World War I |
-| 1918 | Served as artillery captain in France; war ended November 11 |
-| 1919 | Married Bess Wallace on June 28 |
-| 1922 | Elected judge of Jackson County Court |
-| 1924 | Daughter Margaret born |
-| 1934 | Elected to U.S. Senate |
-| 1935 | Took oath as U.S. Senator in January |
-| 1941 | Became chairman of Senate Special Committee (Truman Committee) |
-| 1944 | Nominated for Vice President at Democratic National Convention |
-| 1945 | Sworn in as Vice President on January 20 |
-| 1945 | Became 33rd President on April 12 upon Roosevelt's death |
-| 1945 | Germany surrendered (V-E Day) on May 8 |
-| 1945 | Attended Potsdam Conference, July-August |
-| 1945 | Atomic bomb dropped on Hiroshima on August 6 |
-| 1945 | Atomic bomb dropped on Nagasaki on August 9 |
-| 1945 | Japan surrendered (V-J Day) on August 14 |
-| 1947 | Announced Truman Doctrine on March 12 |
-| 1947 | Addressed NAACP, first president to do so |
-| 1948 | Signed Economic Assistance Act (Marshall Plan) on April 3 |
+| Year | Event                                                             |
+| ---- | ----------------------------------------------------------------- |
+| 1884 | Born on May 8 in Lamar, Missouri                                  |
+| 1901 | Graduated from Independence High School                           |
+| 1906 | Returned to Grandview to manage family farm                       |
+| 1917 | Entered military service in World War I                           |
+| 1918 | Served as artillery captain in France; war ended November 11      |
+| 1919 | Married Bess Wallace on June 28                                   |
+| 1922 | Elected judge of Jackson County Court                             |
+| 1924 | Daughter Margaret born                                            |
+| 1934 | Elected to U.S. Senate                                            |
+| 1935 | Took oath as U.S. Senator in January                              |
+| 1941 | Became chairman of Senate Special Committee (Truman Committee)    |
+| 1944 | Nominated for Vice President at Democratic National Convention    |
+| 1945 | Sworn in as Vice President on January 20                          |
+| 1945 | Became 33rd President on April 12 upon Roosevelt's death          |
+| 1945 | Germany surrendered (V-E Day) on May 8                            |
+| 1945 | Attended Potsdam Conference, July-August                          |
+| 1945 | Atomic bomb dropped on Hiroshima on August 6                      |
+| 1945 | Atomic bomb dropped on Nagasaki on August 9                       |
+| 1945 | Japan surrendered (V-J Day) on August 14                          |
+| 1947 | Announced Truman Doctrine on March 12                             |
+| 1947 | Addressed NAACP, first president to do so                         |
+| 1948 | Signed Economic Assistance Act (Marshall Plan) on April 3         |
 | 1948 | Issued Executive Order 9981 desegregating armed forces on July 26 |
-| 1948 | Won presidential election on November 2, defeating Thomas Dewey |
-| 1949 | Inaugurated for second term on January 20 |
-| 1949 | Announced Fair Deal program on January 5 |
-| 1949 | Signed North Atlantic Treaty (NATO) on August 24 |
-| 1949 | Signed Housing Act on July 15 |
-| 1950 | Korean War began in June; ordered U.S. intervention |
-| 1950 | Signed Social Security Act expansion |
-| 1951 | Fired General Douglas MacArthur on April 11 |
-| 1953 | Left office on January 20; returned to Missouri |
-| 1972 | Died on December 26 in Kansas City, Missouri |
+| 1948 | Won presidential election on November 2, defeating Thomas Dewey   |
+| 1949 | Inaugurated for second term on January 20                         |
+| 1949 | Announced Fair Deal program on January 5                          |
+| 1949 | Signed North Atlantic Treaty (NATO) on August 24                  |
+| 1949 | Signed Housing Act on July 15                                     |
+| 1950 | Korean War began in June; ordered U.S. intervention               |
+| 1950 | Signed Social Security Act expansion                              |
+| 1951 | Fired General Douglas MacArthur on April 11                       |
+| 1953 | Left office on January 20; returned to Missouri                   |
+| 1972 | Died on December 26 in Kansas City, Missouri                      |
 
 ---
 
@@ -176,108 +176,213 @@ Critics also argue that while Executive Order 9981 was symbolically important, T
 ## References
 
 [^1]: [Miller Center - Harry S. Truman: Life Before the Presidency](https://millercenter.org/president/truman/life-before-the-presidency)
+
 [^2]: [Study.com - Harry S. Truman Education & Early Life](https://study.com/learn/lesson/harry-s-truman-education-early-life.html)
+
 [^3]: [Truman Library - Biographical Sketch: Harry S. Truman](https://www.trumanlibrary.gov/education/trivia/biographical-sketch-harry-truman)
+
 [^4]: [Wikipedia - Harry S. Truman](https://en.wikipedia.org/wiki/Harry_S._Truman)
+
 [^5]: [Britannica - Harry S. Truman Biography](https://www.britannica.com/biography/Harry-S-Truman)
+
 [^6]: [Truman Library - Truman's School Years](https://www.trumanlibrary.gov/education/student-resources/trumans-youth/school-years)
+
 [^7]: [National Archives - Harry Truman's History Lessons](https://www.archives.gov/publications/prologue/2009/spring/truman-history.html)
+
 [^8]: [Britannica Kids - Harry S. Truman](https://kids.britannica.com/kids/article/Harry-S-Truman/345529)
+
 [^9]: [National Archives - A Boy Who Would Be President](https://www.archives.gov/publications/prologue/2004/fall/truman-school)
+
 [^10]: [SHSMO Historic Missourians - Harry S. Truman](https://historicmissourians.shsmo.org/harry-truman/)
+
 [^11]: [Miller Center - Harry S. Truman: Life Before the Presidency](https://millercenter.org/president/truman/life-before-the-presidency)
+
 [^12]: [Miller Center - Harry S. Truman: Life Before the Presidency](https://millercenter.org/president/truman/life-before-the-presidency)
+
 [^13]: [U.S. Senate - Harry S. Truman](https://www.senate.gov/artandhistory/history/minute/Harry_S_Truman.htm)
+
 [^14]: [Britannica - Harry S. Truman](https://www.britannica.com/biography/Harry-S-Truman)
+
 [^15]: [Truman Library Institute - Truman Timeline](https://www.trumanlibraryinstitute.org/truman/timeline/)
+
 [^16]: [NPS - The Wallace Family and the Truman Family](https://www.nps.gov/articles/000/the-wallace-family-and-the-truman-family.htm)
+
 [^17]: [Miller Center - Harry S. Truman: Life Before the Presidency](https://millercenter.org/president/truman/life-before-the-presidency)
+
 [^18]: [Ballotpedia - Harry S. Truman](https://ballotpedia.org/Harry_S._Truman)
+
 [^19]: [Truman Library - Biographical Sketch: Harry S. Truman](https://www.trumanlibrary.gov/education/trivia/biographical-sketch-harry-truman)
+
 [^20]: [Miller Center - Harry S. Truman: Life Before the Presidency](https://millercenter.org/president/truman/life-before-the-presidency)
+
 [^21]: [Truman Library Institute - Truman Timeline](https://www.trumanlibraryinstitute.org/truman/timeline/)
+
 [^22]: [Truman Library Institute - Truman Timeline](https://www.trumanlibraryinstitute.org/truman/timeline/)
+
 [^23]: [Truman Library - Biographical Sketch: Harry S. Truman](https://www.trumanlibrary.gov/education/trivia/biographical-sketch-harry-truman)
+
 [^24]: [Miller Center - Harry S. Truman Key Events](https://millercenter.org/president/harry-s-truman/key-events)
+
 [^25]: [Wikipedia - Timeline of the Harry S. Truman presidency](https://en.wikipedia.org/wiki/Timeline_of_the_Harry_S._Truman_presidency)
+
 [^26]: [Miller Center - Harry S. Truman Key Events](https://millercenter.org/president/harry-s-truman/key-events)
+
 [^27]: [Truman Library - Decision to Drop the Atomic Bomb](https://www.trumanlibrary.gov/education/presidential-inquiries/decision-drop-atomic-bomb)
+
 [^28]: [Wikipedia - Timeline of the Harry S. Truman presidency](https://en.wikipedia.org/wiki/Timeline_of_the_Harry_S._Truman_presidency)
+
 [^29]: [Miller Center - Harry S. Truman: Foreign Affairs](https://millercenter.org/president/truman/foreign-affairs)
+
 [^30]: [Wikipedia - Truman Doctrine](https://en.wikipedia.org/wiki/Truman_Doctrine)
+
 [^31]: [HISTORY - President Harry Truman signs Marshall Plan](https://www.history.com/this-day-in-history/april-3/president-harry-truman-signs-marshall-plan)
+
 [^32]: [HISTORY - The Marshall Plan: Definition, Date & Cold War](https://www.history.com/topics/world-war-ii/marshall-plan-1)
+
 [^33]: [Truman Little White House - President Truman and NATO History](https://www.trumanlittlewhitehouse.org/president-truman-nato-history)
+
 [^34]: [State Department - North Atlantic Treaty Organization (NATO), 1949](https://history.state.gov/milestones/1945-1952/nato)
+
 [^35]: [Wikipedia - Foreign policy of the Harry S. Truman administration](https://en.wikipedia.org/wiki/Foreign_policy_of_the_Harry_S._Truman_administration)
+
 [^36]: [Miller Center - Harry S. Truman Key Events](https://millercenter.org/president/harry-s-truman/key-events)
+
 [^37]: [Wikipedia - Fair Deal](https://en.wikipedia.org/wiki/Fair_Deal)
+
 [^38]: [Study.com - Truman's Fair Deal](https://study.com/learn/lesson/the-fair-deal-truman-policy.html)
+
 [^39]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^40]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^41]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^42]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^43]: [Wikipedia - Executive Order 9981](https://en.wikipedia.org/wiki/Executive_Order_9981)
+
 [^44]: [National Archives - Executive Order 9981: Desegregation of the Armed Forces](https://www.archives.gov/milestone-documents/executive-order-9981)
+
 [^45]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^46]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^47]: [Wikipedia - Executive Order 9981](https://en.wikipedia.org/wiki/Executive_Order_9981)
+
 [^48]: [Study.com - Truman's Executive Order 9981](https://study.com/academy/lesson/harry-trumans-executive-order-9981-definition-summary-significance.html)
+
 [^49]: [Wikipedia - Harry S. Truman 1948 presidential campaign](https://en.wikipedia.org/wiki/Harry_S._Truman_1948_presidential_campaign)
+
 [^50]: [Britannica - United States presidential election of 1948](https://www.britannica.com/event/United-States-presidential-election-of-1948/The-campaign)
+
 [^51]: [Constitution Center - Looking back at the Truman beats Dewey upset](https://constitutioncenter.org/blog/behind-the-biggest-upset-in-presidential-history-truman-beats-dewey)
+
 [^52]: [HISTORY - Dewey Defeats Truman: The Election Upset Behind the Photo](https://www.history.com/articles/dewey-defeats-truman-election-headline-gaffe)
+
 [^53]: [NPS - Harry Truman's Decision to Use the Atomic Bomb](https://www.nps.gov/articles/trumanatomicbomb.htm)
+
 [^54]: [Mises Institute - Harry Truman and the Atomic Bomb](https://mises.org/mises-daily/harry-truman-and-atomic-bomb)
+
 [^55]: [Britannica - The decision to use the atomic bomb](https://www.britannica.com/topic/Trumans-decision-to-use-the-bomb-712569)
+
 [^56]: [Truman Library - Decision to Drop the Atomic Bomb](https://www.trumanlibrary.gov/education/presidential-inquiries/decision-drop-atomic-bomb)
+
 [^57]: [Truman Library - Was Truman's Decision Justified?](https://www.trumanlibrary.gov/education/lesson-plans/was-trumans-decision-drop-bomb-end-war-pacific-justified-or-not)
+
 [^58]: [Bill of Rights Institute - Truman intervenes in Korea](https://www.billofrightsinstitute.org/essays/truman-intervenes-in-korea)
+
 [^59]: [Truman Library - The United Nations in Korea](https://www.trumanlibrary.gov/education/presidential-inquiries/united-nations-korea)
+
 [^60]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^61]: [Truman Library - The Firing of MacArthur](https://www.trumanlibrary.gov/education/presidential-inquiries/firing-macarthur)
+
 [^62]: [AEI - Why Truman Fired MacArthur](https://www.aei.org/articles/why-truman-fired-macarthur/)
+
 [^63]: [HISTORY - President Truman relieves General MacArthur](https://www.history.com/this-day-in-history/april-11/truman-relieves-macarthur-of-duties-in-korea)
+
 [^64]: [Gallup - Americans Divided on Truman Firing MacArthur](https://news.gallup.com/vault/208481/gallup-vault-americans-divided-truman-firing-macarthur.aspx)
+
 [^65]: [Smithsonian Magazine - The Redacted Testimony That Fully Explains Why General MacArthur Was Fired](https://www.smithsonianmag.com/history/redacted-testimony-fully-explains-why-general-macarthur-was-fired-180960622/)
+
 [^66]: [U.S. Senate - Constitutional Crisis Averted](https://www.senate.gov/artandhistory/history/minute/Constitutional_Crisis_Averted.htm)
+
 [^67]: [History Net - Why Did Truman Fire MacArthur?](https://www.historynet.com/truman-fires-macarthur/)
+
 [^68]: [U.S. House of Representatives - President Harry S. Truman's Fair Deal proposal](https://history.house.gov/Historical-Highlights/1901-1950/President-Harry-S--Truman-s-Fair-Deal-proposal-to-a-Joint-Session-of-Congress/)
+
 [^69]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^70]: [Study.com - Truman's Fair Deal](https://study.com/learn/lesson/the-fair-deal-truman-policy.html)
+
 [^71]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^72]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^73]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^74]: [H-Net - Harry Truman and Civil Rights](https://www.h-net.org/reviews/showrev.php?id=6354)
+
 [^75]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^76]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^77]: [Truman Library Institute - Truman Timeline](https://www.trumanlibraryinstitute.org/truman/timeline/)
+
 [^78]: [NPS - The Wallace Family and the Truman Family](https://www.nps.gov/articles/000/the-wallace-family-and-the-truman-family.htm)
+
 [^79]: [Wikipedia - Bess Truman](https://en.wikipedia.org/wiki/Bess_Truman)
+
 [^80]: [Britannica - Bess Truman](https://www.britannica.com/biography/Bess-Truman)
+
 [^81]: [NPS - The Wallace Family and the Truman Family](https://www.nps.gov/articles/000/the-wallace-family-and-the-truman-family.htm)
+
 [^82]: [NPS - The Wallace Family and the Truman Family](https://www.nps.gov/articles/000/the-wallace-family-and-the-truman-family.htm)
+
 [^83]: [Truman Library - Dear Bess](https://www.trumanlibrary.gov/education/presidential-inquiries/dear-bess)
+
 [^84]: [Miller Center - Bess Truman](https://millercenter.org/president/truman/essays/truman-1945-firstlady)
+
 [^85]: [Truman Library - Papers of Harry S. Truman Pertaining to Family, Business, and Personal Affairs](https://www.trumanlibrary.gov/library/truman-papers/papers-harry-s-truman-pertaining-family-business-and-personal-affairs)
+
 [^86]: [ArchiveGrid - Harry S. Truman letters to Bess Wallace and Margaret Truman](https://researchworks.oclc.org/archivegrid/collection/data/744660190)
+
 [^87]: [Truman Library - The Buck Stops Here Desk sign](https://www.trumanlibrary.gov/education/trivia/buck-stops-here-sign)
+
 [^88]: [Google Arts & Culture - The Buck Stops Here](https://artsandculture.google.com/story/the-buck-stops-here-u-s-national-archives/_wWRD9NkonH0JA?hl=en)
+
 [^89]: [Shmoop - President can't pass the buck](https://www.shmoop.com/quotes/president-cant-pass-the-buck.html)
+
 [^90]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^91]: [USA History Timeline - The Legacy of Harry S. Truman](https://www.usahistorytimeline.com/pages/the-legacy-of-harry-s-truman-leadership-decision-making-and-controversy-97b72966.php)
+
 [^92]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^93]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^94]: [USA History Timeline - The Legacy of Harry S. Truman](https://www.usahistorytimeline.com/pages/the-legacy-of-harry-s-truman-leadership-decision-making-and-controversy-97b72966.php)
+
 [^95]: [National Archives - Executive Order 9981: Desegregation of the Armed Forces](https://www.archives.gov/milestone-documents/executive-order-9981)
+
 [^96]: [Study.com - Truman's Fair Deal](https://study.com/learn/lesson/the-fair-deal-truman-policy.html)
+
 [^97]: [High Speed History - Understanding the Truman Doctrine](https://highspeedhistory.com/2025/01/15/understanding-the-truman-doctrine-a-turning-point-in-american-foreign-policy/)
+
 [^98]: [Bill of Rights Institute - Truman Fires General Douglas MacArthur](https://billofrightsinstitute.org/essays/truman-fires-general-douglas-macarthur)
+
 [^99]: [Military.com - Why President Truman Fired the Most Prestigious American General](https://www.military.com/history/why-president-truman-fired-most-prestigious-american-general-of-his-time.html)
+
 [^100]: [Smithsonian Magazine - The Redacted Testimony That Fully Explains Why General MacArthur Was Fired](https://www.smithsonianmag.com/history/redacted-testimony-fully-explains-why-general-macarthur-was-fired-180960622/)
+
 [^101]: [Study.com - Truman's Executive Order 9981](https://study.com/academy/lesson/harry-trumans-executive-order-9981-definition-summary-significance.html)
+
 [^102]: [Britannica - The decision to use the atomic bomb](https://www.britannica.com/topic/Trumans-decision-to-use-the-bomb-712569)
+
 [^103]: [Bulletin of the Atomic Scientists - Truman never ordered the use of the atomic bombs](https://thebulletin.org/2025/08/truman-never-ordered-the-use-of-the-atomic-bombs-but-he-did-order-atomic-bombings-to-be-stopped/)
+
 [^104]: [Miller Center - Harry S. Truman: Domestic Affairs](https://millercenter.org/president/truman/domestic-affairs)
+
 [^105]: [Miller Center - Harry S. Truman: Impact and Legacy](https://millercenter.org/president/truman/impact-and-legacy)
+
 [^106]: [Truman Library - The Buck Stops Here Desk sign](https://www.trumanlibrary.gov/education/trivia/buck-stops-here-sign)

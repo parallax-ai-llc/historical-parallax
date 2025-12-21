@@ -291,27 +291,27 @@ Lincoln consistently ranks at or near the top of scholarly and popular assessmen
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1809 | Born February 12 in Hodgenville, Kentucky |
-| 1816 | Family moves to Indiana |
-| 1818 | Mother Nancy Hanks Lincoln dies |
-| 1830 | Family moves to Illinois; Lincoln begins independent life |
-| 1832 | Volunteers in Black Hawk War; elected captain of militia company; loses Illinois General Assembly election |
-| 1834 | Elected to Illinois General Assembly as a Whig |
-| 1837 | Admitted to Illinois bar; moves to Springfield |
-| 1842 | Marries Mary Todd on November 4 |
-| 1843 | Son Robert Todd Lincoln born |
-| 1846 | Son Edward "Eddie" Baker Lincoln born; Lincoln elected to U.S. House of Representatives |
-| 1850 | Son Eddie dies; son William Wallace "Willie" Lincoln born |
-| 1853 | Son Thomas "Tad" Lincoln born |
-| 1854 | Kansas-Nebraska Act reignites Lincoln's political engagement |
-| 1858 | Lincoln-Douglas debates; loses Senate election |
-| 1860 | Elected 16th President of the United States |
-| 1861 | Civil War begins April 12 with Confederate attack on Fort Sumter; Lincoln inaugurated March 4 |
-| 1862 | Son Willie dies February 20; Homestead Act and Pacific Railway Act signed; Battle of Antietam September 17; preliminary Emancipation Proclamation issued September 22 |
-| 1863 | Emancipation Proclamation takes effect January 1; Gettysburg Address delivered November 19; Dakota executions December 26 |
-| 1864 | Ulysses S. Grant appointed commanding general; Lincoln reelected November 8 |
+| Year | Event                                                                                                                                                                           |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1809 | Born February 12 in Hodgenville, Kentucky                                                                                                                                       |
+| 1816 | Family moves to Indiana                                                                                                                                                         |
+| 1818 | Mother Nancy Hanks Lincoln dies                                                                                                                                                 |
+| 1830 | Family moves to Illinois; Lincoln begins independent life                                                                                                                       |
+| 1832 | Volunteers in Black Hawk War; elected captain of militia company; loses Illinois General Assembly election                                                                      |
+| 1834 | Elected to Illinois General Assembly as a Whig                                                                                                                                  |
+| 1837 | Admitted to Illinois bar; moves to Springfield                                                                                                                                  |
+| 1842 | Marries Mary Todd on November 4                                                                                                                                                 |
+| 1843 | Son Robert Todd Lincoln born                                                                                                                                                    |
+| 1846 | Son Edward "Eddie" Baker Lincoln born; Lincoln elected to U.S. House of Representatives                                                                                         |
+| 1850 | Son Eddie dies; son William Wallace "Willie" Lincoln born                                                                                                                       |
+| 1853 | Son Thomas "Tad" Lincoln born                                                                                                                                                   |
+| 1854 | Kansas-Nebraska Act reignites Lincoln's political engagement                                                                                                                    |
+| 1858 | Lincoln-Douglas debates; loses Senate election                                                                                                                                  |
+| 1860 | Elected 16th President of the United States                                                                                                                                     |
+| 1861 | Civil War begins April 12 with Confederate attack on Fort Sumter; Lincoln inaugurated March 4                                                                                   |
+| 1862 | Son Willie dies February 20; Homestead Act and Pacific Railway Act signed; Battle of Antietam September 17; preliminary Emancipation Proclamation issued September 22           |
+| 1863 | Emancipation Proclamation takes effect January 1; Gettysburg Address delivered November 19; Dakota executions December 26                                                       |
+| 1864 | Ulysses S. Grant appointed commanding general; Lincoln reelected November 8                                                                                                     |
 | 1865 | Congress passes Thirteenth Amendment January 31; Second Inaugural Address March 4; Richmond falls April 3; Lee surrenders April 9; Lincoln shot April 14; Lincoln dies April 15 |
 
 ---
@@ -351,173 +351,343 @@ Lincoln consistently ranks at or near the top of scholarly and popular assessmen
 ## References
 
 [^1]: History.com, "Abraham Lincoln's Frontier Childhood Was Filled With Hardship" (2024). https://www.history.com/articles/abraham-lincoln-childhood-facts
+
 [^2]: Britannica, "Abraham Lincoln | Biography, Childhood, Quotes, Death, & Facts" (2024). https://www.britannica.com/biography/Abraham-Lincoln
+
 [^3]: Library of Congress, "Young Lincoln - With Malice Toward None: The Abraham Lincoln Bicentennial Exhibition" (2024). https://www.loc.gov/exhibits/lincoln/young-lincoln.html
+
 [^4]: Miller Center, "Abraham Lincoln: Life Before the Presidency" (2024). https://millercenter.org/president/lincoln/life-before-the-presidency
+
 [^5]: Wikipedia, "Early life and career of Abraham Lincoln" (2024). https://en.wikipedia.org/wiki/Early_life_and_career_of_Abraham_Lincoln
+
 [^6]: Abraham Lincoln Historical Society, "Early Life" (2024). http://www.abraham-lincoln-history.org/early-life/
+
 [^7]: American Battlefield Trust, "Abraham Lincoln" (2024). https://www.battlefields.org/learn/biographies/abraham-lincoln
+
 [^8]: LaRue County Kentucky, "History of The Lincolns" (2024). https://laruecountyky.gov/county-history-the-lincolns/
+
 [^9]: Library of Congress, "Practicing Law - With Malice Toward None" (2024). https://www.loc.gov/exhibits/lincoln/practicing-law.html
+
 [^10]: Abraham Lincoln Historical Society, "Abraham Lincoln Law Career" (2024). http://www.abraham-lincoln-history.org/abraham-lincoln-lawyer/
+
 [^11]: Britannica, "Abraham Lincoln - Prairie Lawyer, Legal Career in Illinois, Herndon" (2024). https://www.britannica.com/biography/Abraham-Lincoln/Prairie-lawyer
+
 [^12]: Miller Center, "Abraham Lincoln: Foreign Affairs" (2024). https://millercenter.org/president/lincoln/foreign-affairs
+
 [^13]: Abraham Lincoln's Classroom, "Abraham Lincoln and Foreign Affairs" (2024). https://www.abrahamlincolnsclassroom.org/abraham-lincoln-in-depth/abraham-lincoln-and-foreign-affairs/index.html
+
 [^14]: Britannica, "Abraham Lincoln | Achievements" (2024). https://www.britannica.com/summary/Abraham-Lincolns-Achievements
+
 [^15]: Abraham Lincoln's Classroom, "Abraham Lincoln and Mary Todd Lincoln" (2024). https://www.abrahamlincolnsclassroom.org/abraham-lincolns-contemporaries/abraham-lincoln-and-mary-todd-lincoln/index.html
+
 [^16]: American Battlefield Trust, "Mary Todd Lincoln" (2024). https://www.battlefields.org/learn/biographies/mary-todd-lincoln
+
 [^17]: Journal of the Abraham Lincoln Association, "William H. Herndon and Mary Todd Lincoln" (2024). https://quod.lib.umich.edu/j/jala/2629860.0022.203/
+
 [^18]: Wikipedia, "Lincoln–Douglas debates" (2024). https://en.wikipedia.org/wiki/Lincoln–Douglas_debates
+
 [^19]: Britannica, "Lincoln-Douglas debates | Summary, Dates, Significance, & Facts" (2024). https://www.britannica.com/event/Lincoln-Douglas-debates
+
 [^20]: American Battlefield Trust, "Lincoln-Douglas Debates" (2024). https://www.battlefields.org/learn/articles/lincoln-douglas-debates
+
 [^21]: Gilder Lehrman Institute, "Lincoln, Douglas, and Their Historic Debates" (2024). https://www.gilderlehrman.org/history-resources/online-exhibitions/lincoln-douglas-and-their-historic-debates
+
 [^22]: National Park Service, "The Lincoln-Douglas Debates of 1858 - Lincoln Home" (2024). https://www.nps.gov/liho/learn/historyculture/debates.htm
+
 [^23]: USHistory.org, "The Lincoln-Douglas Debates" (2024). https://www.ushistory.org/us/32b.asp
+
 [^24]: Hertog Foundation, "The Political Thought of Abraham Lincoln" (2024). https://hertogfoundation.org/resources/the-political-thought-of-abraham-lincoln
+
 [^25]: Ripon Society, "Why Lincoln was a Republican" (2024). https://riponsociety.org/article/why-lincoln-was-a-republican/
+
 [^26]: Abraham Lincoln's Classroom, "Abraham Lincoln's Values and Philosophy" (2024). https://www.abrahamlincolnsclassroom.org/abraham-lincoln-in-depth/abraham-lincolns-values-and-philosophy/
+
 [^27]: Britannica, "What were Abraham Lincoln's politics?" (2024). https://www.britannica.com/question/What-were-Abraham-Lincolns-politics
+
 [^28]: Bill of Rights Institute, "Abraham Lincoln's Political Philosophy with Lucas Morel" (2024). https://billofrightsinstitute.org/videos/abraham-lincolns-political-philosophy-with-lucas-morel-bri-scholar-talks
+
 [^29]: Lithub, "President Lincoln's Republican Party Was the Original Party of Big Government" (2024). https://lithub.com/president-lincolns-republican-party-was-the-original-party-of-big-government/
+
 [^30]: Smithsonian Magazine, "Lincoln's Contested Legacy" (2024). https://www.smithsonianmag.com/history/lincolns-contested-legacy-44978351/
+
 [^31]: Journal of the Abraham Lincoln Association, "Lincoln and the Problem of Race: A Decade of Interpretations" (2024). https://quod.lib.umich.edu/cgi/t/text/idx/j/jala/2629860.0002.104/
+
 [^32]: Gettysburg College, "Reexamining the Racial Record of Abraham Lincoln" (2024). https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1009&context=cwfac
+
 [^33]: History.com, "Abraham Lincoln's Most Enduring Speeches and Quotes" (2024). https://www.history.com/articles/abraham-lincoln-famous-quotes-speeches
+
 [^34]: Abraham Lincoln Online, "The Gettysburg Address by Abraham Lincoln" (2024). https://www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm
+
 [^35]: American Battlefield Trust, "Abraham Lincoln's Gettysburg Address" (2024). https://www.battlefields.org/learn/augmented-reality/abraham-lincolns-gettysburg-address
+
 [^36]: Miller Center, "Abraham Lincoln - Key Events" (2024). https://millercenter.org/president/abraham-lincoln/key-events
+
 [^37]: Wikipedia, "Presidency of Abraham Lincoln" (2024). https://en.wikipedia.org/wiki/Presidency_of_Abraham_Lincoln
+
 [^38]: Library of Congress, "Abraham Lincoln's Presidency | Civil War and Reconstruction" (2024). https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/civil-war-and-reconstruction-1861-1877/lincoln/
+
 [^39]: Federal Reserve Bank of Minneapolis, "1862: Legislation that shaped the West" (2024). https://www.minneapolisfed.org/article/2007/1862-legislation-that-shaped-the-west
+
 [^40]: National Archives, "The Homestead Act of 1862" (2024). https://www.archives.gov/education/lessons/homestead-act
+
 [^41]: PBS SoCal, "What Changed When Abraham Lincoln Signed the Homestead and Pacific Railroad Acts? Everything" (2024). https://www.pbssocal.org/redefine/what-changed-when-abraham-lincoln-signed-the-homestead-and-pacific-railroad-acts-everything
+
 [^42]: Essential Civil War Curriculum, "Blueprint for Modern America: Homestead Act, Pacific Railroad Act, 1862 Banking Act" (2024). https://www.essentialcivilwarcurriculum.com/blueprint-for-modern-america.html
+
 [^43]: Abraham Lincoln's Classroom, "Abraham Lincoln and the Tariff" (2024). https://www.abrahamlincolnsclassroom.org/abraham-lincoln-in-depth/abraham-lincoln-and-the-tariff/
+
 [^44]: Journal of the Abraham Lincoln Association, "Lincoln's Economics and the American Dream: A Reappraisal" (2024). https://quod.lib.umich.edu/j/jala/2629860.0022.106/
+
 [^45]: National Archives, "Emancipation Proclamation (1863)" (2024). https://www.archives.gov/milestone-documents/emancipation-proclamation
+
 [^46]: Library of Congress, "Abraham Lincoln and Emancipation" (2024). https://www.loc.gov/collections/abraham-lincoln-papers/articles-and-essays/abraham-lincoln-and-emancipation/
+
 [^47]: History.com, "Emancipation Proclamation - Definition, Dates & Summary" (2024). https://www.history.com/articles/emancipation-proclamation
+
 [^48]: Miller Center, "Abraham Lincoln: Foreign Affairs" (2024). https://millercenter.org/president/lincoln/foreign-affairs
+
 [^49]: Abraham Lincoln Historical Society, "Foreign Relations and the Trent Affair" (2024). http://www.abraham-lincoln-history.org/foreign-relations-and-the-trent-affair/
+
 [^50]: Foreign Policy Research Institute, "Abraham Lincoln and American Destiny in a Divided World" (2018). https://www.fpri.org/article/2018/02/american-destiny-divided-world/
+
 [^51]: Library of Congress, "A Team of Rivals - With Malice Toward None" (2024). https://www.loc.gov/exhibits/lincoln/a-team-of-rivals.html
+
 [^52]: National Archives, "An Extraordinary President and His Remarkable Cabinet" (2006). https://www.archives.gov/publications/prologue/2006/spring/interview.html
+
 [^53]: Wikipedia, "Team of Rivals" (2024). https://en.wikipedia.org/wiki/Team_of_Rivals
+
 [^54]: History.com, "President Lincoln's suspension of habeas corpus is challenged | May 28, 1861" (2024). https://www.history.com/this-day-in-history/may-28/lincolns-suspension-of-habeas-corpus-is-challenged
+
 [^55]: Constitution Center, "Lincoln and Taney's great writ showdown" (2024). https://constitutioncenter.org/blog/lincoln-and-taneys-great-writ-showdown
+
 [^56]: U.S. News, "Revoking Civil Liberties: Lincoln's Constitutional Dilemma" (2009). https://www.usnews.com/news/history/articles/2009/02/10/revoking-civil-liberties-lincolns-constitutional-dilemma
+
 [^57]: Journal of the Abraham Lincoln Association, "Lincoln's Suspension of the Writ of Habeas Corpus" (2024). https://quod.lib.umich.edu/j/jala/2629860.0029.205/
+
 [^58]: The Heritage Foundation, "Abraham Lincoln and Civil Liberties in Wartime" (2024). https://www.heritage.org/defense/report/abraham-lincoln-and-civil-liberties-wartime
+
 [^59]: Learn Liberty, "King Lincoln: When Abraham Suspended Habeas Corpus" (2024). https://www.learnliberty.org/blog/king-lincoln-when-abraham-suspended-habeas-corpus/
+
 [^60]: Abraham Lincoln's Classroom, "Abraham Lincoln as Commander in Chief" (2024). https://www.abrahamlincolnsclassroom.org/abraham-lincoln-in-depth/abraham-lincoln-as-commander-in-chief/index.html
+
 [^61]: Library of Congress, "Lincoln as Commander in Chief - With Malice Toward None" (2024). https://www.loc.gov/exhibits/lincoln/lincoln-as-commander-in-chief.html
+
 [^62]: Smithsonian Magazine, "Lincoln as Commander in Chief" (2024). https://www.smithsonianmag.com/history/lincoln-as-commander-in-chief-131322819/
+
 [^63]: Wikipedia, "Copperhead (politics)" (2024). https://en.wikipedia.org/wiki/Copperhead_(politics)
+
 [^64]: Journal of the Abraham Lincoln Association, "Lincoln's Critics: The Copperheads" (2024). https://quod.lib.umich.edu/j/jala/2629860.0032.105/
+
 [^65]: Essential Civil War Curriculum, "Copperheads" (2024). https://www.essentialcivilwarcurriculum.com/copperheads.html
+
 [^66]: Britannica, "Copperhead | American Civil War Politics & Ideology" (2024). https://www.britannica.com/topic/Copperhead-American-political-faction
+
 [^67]: Mises Institute, "Lincoln's New Deal" (2024). https://mises.org/mises-wire/lincolns-new-deal
+
 [^68]: Current Pub, "Abraham Lincoln's Economic Hinge" (2024). https://currentpub.com/2024/02/12/abraham-lincolns-economic-hinge/
+
 [^69]: Wikipedia, "Assassination of Abraham Lincoln" (2024). https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln
+
 [^70]: Britannica, "Assassination of Abraham Lincoln | Summary, Conspirators, Trial, Impact, & Facts" (2024). https://www.britannica.com/event/assassination-of-Abraham-Lincoln
+
 [^71]: Ford's Theatre, "Lincoln's Assassination" (2024). https://fords.org/lincolns-assassination/
+
 [^72]: Wikipedia, "Mary Todd Lincoln" (2024). https://en.wikipedia.org/wiki/Mary_Todd_Lincoln
+
 [^73]: Women & the American Story, "Life Story: Mary Todd Lincoln (1818-1882)" (2024). https://wams.nyhistory.org/a-nation-divided/civil-war/mary-todd-lincoln/
+
 [^74]: Mary Todd Lincoln House, "Biography of Mary Todd Lincoln" (2024). https://www.mtlhouse.org/biography
+
 [^75]: Bill of Rights Institute, "Clement Vallandigham and Constitutionalism" (2024). https://billofrightsinstitute.org/essays/clement-vallandigham-and-constitutionalism
+
 [^76]: Britannica, "The Copperheads | Government Resistance to the Civil War & Abraham Lincoln" (2024). https://www.britannica.com/video/Copperhead-opposition-dissension-Pres-cabinet-rear-Abraham/-155036
+
 [^77]: Encyclopedia.com, "Copperheads" (2024). https://www.encyclopedia.com/history/united-states-and-canada/us-history/copperheads
+
 [^78]: Wikipedia, "Ann Rutledge" (2024). https://en.wikipedia.org/wiki/Ann_Rutledge
+
 [^79]: Journal of the Abraham Lincoln Association, "Abraham Lincoln and Ann Rutledge" (2024). https://quod.lib.umich.edu/j/jala/2629860.0011.104/
+
 [^80]: History Cooperative, "Ann Rutledge: Abraham Lincoln's First True Love?" (2024). https://historycooperative.org/ann-rutledge-and-abraham-lincoln/
+
 [^81]: Wikipedia, "Robert Todd Lincoln" (2024). https://en.wikipedia.org/wiki/Robert_Todd_Lincoln
+
 [^82]: Abraham Lincoln Historical Society, "Children" (2024). http://www.abraham-lincoln-history.org/children/
+
 [^83]: National Park Service, "The Lincoln Family - Lincoln Home" (2024). https://www.nps.gov/liho/learn/historyculture/the-lincoln-family.htm
+
 [^84]: Wikipedia, "Health of Abraham Lincoln" (2024). https://en.wikipedia.org/wiki/Health_of_Abraham_Lincoln
+
 [^85]: Boston University, "POV: What We Can Learn from Abraham Lincoln's Struggle with Depression" (2023). https://www.bu.edu/articles/2023/lincoln-struggled-depression-what-we-can-learn/
+
 [^86]: PMC, "Lincoln's Melancholy: A Book Review" (2024). https://pmc.ncbi.nlm.nih.gov/articles/PMC3036550/
+
 [^87]: University of Cincinnati, "Fox News: What historians know about Abraham Lincoln's struggle with 'melancholy'" (2024). https://www.uc.edu/news/articles/2024/02/fox-news--what-historians-know-about-abraham-lincolns-struggle-with-melancholy.html
+
 [^88]: NAMI Montana, "Mental Health in History: Abraham Lincoln" (2024). https://www.namimt.org/news/mental-health-in-history-abraham-lincoln
+
 [^89]: NPR, "Exploring Abraham Lincoln's 'Melancholy'" (2005). https://www.npr.org/2005/10/26/4976127/exploring-abraham-lincolns-melancholy
+
 [^90]: Wikipedia, "Religious views of Abraham Lincoln" (2024). https://en.wikipedia.org/wiki/Religious_views_of_Abraham_Lincoln
+
 [^91]: Christian History Magazine, "The Puzzling Faith of Abraham Lincoln" (2024). https://christianhistoryinstitute.org/magazine/article/puzzling-faith-of-lincoln/
+
 [^92]: History.com, "Was Abraham Lincoln an Atheist?" (2024). https://www.history.com/articles/abraham-lincoln-religion-christian-atheist
+
 [^93]: Wikipedia, "Abraham Lincoln's second inaugural address" (2024). https://en.wikipedia.org/wiki/Abraham_Lincoln's_second_inaugural_address
+
 [^94]: National Park Service, "With Malice Toward None...: Lincoln's Second Inaugural Address" (2024). https://www.nps.gov/articles/000/-with-malice-toward-none-lincoln-s-second-inaugural.htm
+
 [^95]: Library of Congress, "Abraham Lincoln's Second Inauguration: Scenes from March 4, 1865" (2025). https://blogs.loc.gov/manuscripts/2025/01/abraham-lincolns-second-inauguration-scenes-from-march-4-1865/
+
 [^96]: History.com, "Abraham Lincoln's Assassination - Timeline, Facts & Aftermath" (2024). https://www.history.com/articles/abraham-lincoln-assassination
+
 [^97]: Ford's Theatre, "Manhunt for Booth" (2024). https://fords.org/lincolns-assassination/investigating-the-assassination/manhunt-for-booth/
+
 [^98]: Wikipedia, "John Wilkes Booth" (2024). https://en.wikipedia.org/wiki/John_Wilkes_Booth
+
 [^99]: Ford's Theatre, "Investigating the Assassination" (2024). https://fords.org/lincolns-assassination/investigating-the-assassination/
+
 [^100]: Google Arts & Culture, "The Lincoln Assassination" (2024). https://artsandculture.google.com/story/the-lincoln-assassination-fords-theatre/DQUR9Mh5nGISLg?hl=en
+
 [^101]: Ford's Theatre, "Ford's Theatre – Where Abraham Lincoln's legacy lives" (2024). https://fords.org/
+
 [^102]: Miller Center, "Abraham Lincoln: Impact and Legacy" (2024). https://millercenter.org/president/lincoln/impact-and-legacy
+
 [^103]: Ford's Theatre, "Lincoln's Legacy" (2024). https://fords.org/lincolns-assassination/impact-on-a-nation/lincolns-legacy/
+
 [^104]: NEH-Edsitement, "Lincoln's Enduring Legacy" (2024). https://edsitement.neh.gov/closer-readings/lincolns-enduring-legacy
+
 [^105]: University of Houston, "New Survey of Scholars Finds Lincoln Remains America's Greatest President" (February 2024). https://www.uh.edu/news-events/stories/2024/february/02152024-presidential-greatness-survey.php
+
 [^106]: Lincolnian, "Historians Rank Abraham Lincoln #1 in Presidential Leadership" (2024). https://www.lincolnian.org/post/historians-rank-abraham-lincoln-1-in-presidential-leadership
+
 [^107]: Statista, "U.S. Presidents: ranking by historians 2021" (2024). https://www.statista.com/statistics/1123920/us-presidents-historian-ranking/
+
 [^108]: National Park Service, "What is President Abraham Lincoln's Greatest Legacy? - Homestead" (2024). https://www.nps.gov/home/learn/news/licolns-legacy.htm
+
 [^109]: Journal of the Abraham Lincoln Association, "Lincoln's Legacy of Justice and Equality of Opportunity" (2024). https://quod.lib.umich.edu/j/jala/2629860.0037.103/
+
 [^110]: Gale, "Reflect on Abraham Lincoln's Legacy With Gale In Context: Biography" (2024). https://blog.gale.com/reflect-on-abraham-lincolns-legacy-with-gale-in-context-biography/
+
 [^111]: Jack Miller Center, "Abraham Lincoln and the Preservation of the Union" (2024). https://www.jackmillercenter.org/our-work/resources/abraham-lincoln-preservation-union
+
 [^112]: Smithsonian Magazine, "Lincoln's Contested Legacy" (2024). https://www.smithsonianmag.com/history/lincolns-contested-legacy-44978351/
+
 [^113]: GW Museum, "Lincoln's Legacy: An Unfinished Symphony" (2024). https://evolutiondc.museum.gwu.edu/lincoln-bday-post/
+
 [^114]: The Heritage Foundation, "Abraham Lincoln and Civil Liberties in Wartime" (2024). https://www.heritage.org/defense/report/abraham-lincoln-and-civil-liberties-wartime
+
 [^115]: Journal of the Abraham Lincoln Association, "Lincoln's Suspension of the Writ of Habeas Corpus: An Historical and Constitutional Analysis" (2024). https://quod.lib.umich.edu/j/jala/2629860.0029.205/
+
 [^116]: Slate, "Lincoln's suspension of habeas corpus" (2001). https://slate.com/news-and-politics/2001/11/lincoln-s-suspension-of-habeas-corpus.html
+
 [^117]: Smithsonian Magazine, "Lincoln's Contested Legacy" (2024). https://www.smithsonianmag.com/history/lincolns-contested-legacy-44978351/
+
 [^118]: Journal of the Abraham Lincoln Association, "Lincoln and the Problem of Race: A Decade of Interpretations" (2024). https://quod.lib.umich.edu/cgi/t/text/idx/j/jala/2629860.0002.104/
+
 [^119]: Gettysburg College, "Reexamining the Racial Record of Abraham Lincoln" (2024). https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1009&context=cwfac
+
 [^120]: University of Illinois Springfield, "Abraham Lincoln Overrules Death Sentence for 264 Dakota Indians" (2024). https://www.uis.edu/news/abraham-lincoln-overrules-death-sentence-264-dakota-indians-convicted-murder-andor-rape
+
 [^121]: Death Penalty Information Center, "The Largest Mass Execution in US History" (2024). https://deathpenaltyinfo.org/stories/the-largest-mass-execution-in-us-history
+
 [^122]: Zinn Education Project, "Dec. 26, 1862: Mass Execution of Dakota Indians" (2024). https://www.zinnedproject.org/news/tdih/execution-dakota/
+
 [^123]: Wikipedia, "History of U.S. foreign policy, 1861–1897" (2024). https://en.wikipedia.org/wiki/History_of_U.S._foreign_policy,_1861–1897
+
 [^124]: Journal of the Abraham Lincoln Association, "Lincoln, Seward, and US Foreign Relations in the Civil War Era" (2024). https://journals.publishing.umich.edu/jala/article/id/1917/
+
 [^125]: New Republic, "Lincoln's Foreign Policy" (2024). https://newrepublic.com/article/74433/lincolns-foreign-policy
+
 [^126]: Smithsonian Magazine, "Lincoln's Contested Legacy" (2024). https://www.smithsonianmag.com/history/lincolns-contested-legacy-44978351/
+
 [^127]: Gettysburg College, "A Historiographical Approach to Emancipation and Lincoln" (2024). https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1014&context=glihist
+
 [^128]: Elon University, "Reinterpreting Lincoln" (2024). https://www.elon.edu/u/academics/first-year-writing/writing-contest/2022-2023-journal/reinterpreting-lincoln/
+
 [^129]: Miller Center, "Abraham Lincoln: Impact and Legacy" (2024). https://millercenter.org/president/lincoln/impact-and-legacy
+
 [^130]: Jack Miller Center, "Abraham Lincoln and the Preservation of the Union" (2024). https://www.jackmillercenter.org/our-work/resources/abraham-lincoln-preservation-union
+
 [^131]: Journal of the Abraham Lincoln Association, "Lincoln's Legacy of Justice and Equality of Opportunity" (2024). https://quod.lib.umich.edu/j/jala/2629860.0037.103/
+
 [^132]: National Archives, "The Homestead Act of 1862" (2024). https://www.archives.gov/education/lessons/homestead-act
+
 [^133]: Federal Reserve Bank of Minneapolis, "1862: Legislation that shaped the West" (2024). https://www.minneapolisfed.org/article/2007/1862-legislation-that-shaped-the-west
+
 [^134]: Essential Civil War Curriculum, "Blueprint for Modern America" (2024). https://www.essentialcivilwarcurriculum.com/blueprint-for-modern-america.html
+
 [^135]: Wikipedia, "Lincoln (film)" (2024). https://en.wikipedia.org/wiki/Lincoln_(film)
+
 [^136]: IMDb, "Lincoln (2012)" (2024). https://www.imdb.com/title/tt0443272
+
 [^137]: Screen Rant, "How Daniel Day-Lewis Transformed Into Lincoln For Spielberg's Movie" (2024). https://screenrant.com/lincoln-movie-daniel-day-lewis-transformation-explained/
+
 [^138]: Wikipedia, "List of memorials to Abraham Lincoln" (2024). https://en.wikipedia.org/wiki/List_of_memorials_to_Abraham_Lincoln
+
 [^139]: National Postal Museum, "Mount Rushmore" (2024). https://postalmuseum.si.edu/exhibition/lincoln-from-postmaster-to-president-lincolns-assassination/mount-rushmore
+
 [^140]: Wikipedia, "Lincoln Memorial" (2024). https://en.wikipedia.org/wiki/Lincoln_Memorial
+
 [^141]: Smithsonian Magazine, "Lincoln's Contested Legacy" (2024). https://www.smithsonianmag.com/history/lincolns-contested-legacy-44978351/
+
 [^142]: Civil Discourse, "Sculpting the Lincoln Image: The Lincoln Memorial and Mount Rushmore in Popular Memory" (2015). http://civildiscourse-historyblog.com/blog/2015/2/6/sculpting-the-lincoln-image-the-lincoln-memorial-and-mount-rushmore-in-popular-memory
+
 [^143]: Deseret News, "32 Abraham Lincoln memorials in America and around the world" (2015). https://www.deseret.com/2015/4/15/20760000/32-abraham-lincoln-memorials-in-america-and-around-the-world/
+
 [^144]: TimeandDate.com, "Lincoln's Birthday 2025 in the United States" (2024). https://www.timeanddate.com/holidays/us/lincolns-birthday
+
 [^145]: President Lincoln's Cottage, "July 2024 Newsletter" (2024). https://www.lincolncottage.org/july-2024-newsletter/
+
 [^146]: Hingham Historical Society, "Lincoln Day – February 8, 2025" (2024). https://hinghamhistorical.org/lincoln-day/
+
 [^147]: University of Houston, "New Survey of Scholars Finds Lincoln Remains America's Greatest President" (February 2024). https://www.uh.edu/news-events/stories/2024/february/02152024-presidential-greatness-survey.php
+
 [^148]: Lincolnian, "Historians Rank Abraham Lincoln #1 in Presidential Leadership" (2024). https://www.lincolnian.org/post/historians-rank-abraham-lincoln-1-in-presidential-leadership
+
 [^149]: Siena Research Institute, "American Presidents: Greatest and Worst" (2022). https://scri.siena.edu/2022/06/22/american-presidents-greatest-and-worst/
+
 [^150]: President Lincoln's Cottage, "July 2024 Newsletter" (2024). https://www.lincolncottage.org/july-2024-newsletter/
+
 [^151]: National Park Service, "Lincoln's Birthday - Wikipedia" (2024). https://en.wikipedia.org/wiki/Lincoln's_Birthday
+
 [^152]: Guidely, "Abraham Lincoln's Birthday 2025, 12th February History, Theme" (2025). https://guidely.in/blog/abraham-lincoln-birthday
+
 [^153]: NPR, "Biden vs. Trump is not a close call in historians' Presidents Day survey" (February 2024). https://www.npr.org/2024/02/19/1232447088/historians-presidents-survey-trump-last-biden-14th
+
 [^154]: Fox News, "New presidential rankings place Obama in top 10, Reagan and Trump below Biden" (2024). https://www.foxnews.com/us/new-presidential-rankings-place-obama-top-10-reagan-trump-below-biden
+
 [^155]: Factually, "Fact Check: Who is considered the best US president by historians?" (2024). https://factually.co/fact-checks/politics/best-us-president-historians-ranking-32b857
+
 [^156]: Wikipedia, "Historical rankings of presidents of the United States" (2024). https://en.wikipedia.org/wiki/Historical_rankings_of_presidents_of_the_United_States
+
 [^157]: C-SPAN, "2021 C-SPAN Presidential Historians Survey" (2021). https://www.c-span.org/presidentsurvey2021/
+
 [^158]: Siena Research Institute, "US Presidents Study Historical Rankings" (2024). https://scri.siena.edu/us-presidents-study-historical-rankings/
+
 [^159]: Miller Center, "Abraham Lincoln: Impact and Legacy" (2024). https://millercenter.org/president/lincoln/impact-and-legacy
+
 [^160]: Jack Miller Center, "Abraham Lincoln and the Preservation of the Union" (2024). https://www.jackmillercenter.org/our-work/resources/abraham-lincoln-preservation-union
+
 [^161]: Foreign Policy Research Institute, "Abraham Lincoln and American Destiny in a Divided World" (2018). https://www.fpri.org/article/2018/02/american-destiny-divided-world/
+
 [^162]: University of Houston, "New Survey of Scholars Finds Lincoln Remains America's Greatest President" (February 2024). https://www.uh.edu/news-events/stories/2024/february/02152024-presidential-greatness-survey.php
+
 [^163]: Lincolnian, "Historians Rank Abraham Lincoln #1 in Presidential Leadership" (2024). https://www.lincolnian.org/post/historians-rank-abraham-lincoln-1-in-presidential-leadership
+
 [^164]: Siena Research Institute, "American Presidents: Greatest and Worst" (2022). https://scri.siena.edu/2022/06/22/american-presidents-greatest-and-worst/
+
 [^165]: Abraham Lincoln Online, "Lincoln Speeches - House Divided Speech" (2024). https://www.abrahamlincolnonline.org/lincoln/speeches/house.htm
+
 [^166]: Abraham Lincoln Online, "The Gettysburg Address by Abraham Lincoln" (2024). https://www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm
+
 [^167]: National Park Service, "Lincoln's Second Inaugural Address - Lincoln Memorial" (2024). https://www.nps.gov/linc/learn/historyculture/lincoln-second-inaugural.htm
+
 [^168]: Library of Congress, "Abraham Lincoln and Emancipation" (2024). https://www.loc.gov/collections/abraham-lincoln-papers/articles-and-essays/abraham-lincoln-and-emancipation/
+
 [^169]: Abraham Lincoln Online, "Quotes by Abraham Lincoln" (2024). https://www.abrahamlincolnonline.org/lincoln/speeches/quotes.htm
+
 [^170]: Abraham Lincoln Presidential Library and Museum, "Lincoln's most famous words" (2024). https://presidentlincoln.illinois.gov/News/93/Lincolns-most-famous-words/news-detail/
+
 [^171]: Abraham Lincoln Online, "Quotes by Abraham Lincoln" (2024). https://www.abrahamlincolnonline.org/lincoln/speeches/quotes.htm

@@ -57,9 +57,9 @@ This shocking defeat represented one of the first major victories of commoner in
 
 ### Conflict with the Papacy and the Avignon Papacy
 
-Perhaps Philip's most historically consequential achievement—or transgression, depending on perspective—was his successful challenge to papal supremacy and the subsequent relocation of the papacy to Avignon[^38]. The conflict began in 1296 when Philip sought to tax the French clergy to finance his military campaigns, prompting Pope Boniface VIII to issue the bull *Clericis laicos* forbidding lay taxation of clergy without papal approval[^39]. Though Boniface temporarily relented in 1297, new tensions erupted in 1301 when Philip arrested Bernard Saisset, Bishop of Pamiers, as a suspected traitor[^40].
+Perhaps Philip's most historically consequential achievement—or transgression, depending on perspective—was his successful challenge to papal supremacy and the subsequent relocation of the papacy to Avignon[^38]. The conflict began in 1296 when Philip sought to tax the French clergy to finance his military campaigns, prompting Pope Boniface VIII to issue the bull _Clericis laicos_ forbidding lay taxation of clergy without papal approval[^39]. Though Boniface temporarily relented in 1297, new tensions erupted in 1301 when Philip arrested Bernard Saisset, Bishop of Pamiers, as a suspected traitor[^40].
 
-Boniface, emboldened by the triumphant papal jubilee of 1300, demanded Saisset's release and summoned French clergy to Rome to discuss the king's governance, ultimately issuing the bull *Unam sanctam* declaring universal papal supremacy over temporal rulers[^41]. Philip's response demonstrated his ruthless approach to opposition: his advisor Guillaume de Nogaret led an armed force to Anagni and seized Pope Boniface on September 7, 1303[^42]. Though townsmen freed Boniface two days later, the elderly pope died the following month, having been saved from appearing before a council to answer Philip's charges of heresy and misconduct[^43].
+Boniface, emboldened by the triumphant papal jubilee of 1300, demanded Saisset's release and summoned French clergy to Rome to discuss the king's governance, ultimately issuing the bull _Unam sanctam_ declaring universal papal supremacy over temporal rulers[^41]. Philip's response demonstrated his ruthless approach to opposition: his advisor Guillaume de Nogaret led an armed force to Anagni and seized Pope Boniface on September 7, 1303[^42]. Though townsmen freed Boniface two days later, the elderly pope died the following month, having been saved from appearing before a council to answer Philip's charges of heresy and misconduct[^43].
 
 In 1305, a French archbishop named Bertrand de Got was elected as Pope Clement V in a decision Philip likely influenced significantly[^44]. Clement proved far more amenable to Philip's demands, relocating the papal court from Rome to France in 1305 and permanently to Avignon in 1309, initiating what became known as the "Babylonian Captivity" of the papacy that would last nearly seventy years[^45]. This subordination of the papacy to French royal interests represented an unprecedented assertion of secular authority over the church and marked a fundamental shift in the medieval balance between spiritual and temporal power[^46].
 
@@ -71,15 +71,15 @@ In 1305, a French archbishop named Bertrand de Got was elected as Pope Clement V
 
 The most notorious episode of Philip's reign remains his brutal suppression of the Knights Templar, an action that has stained his historical reputation for seven centuries[^47]. The Knights Templar, originally founded to protect Christian pilgrims in the Holy Land, had evolved by the late thirteenth century into a powerful banking and commercial organization, and Philip found himself substantially indebted to the Order[^48]. On Friday, October 13, 1307, in a coordinated operation that has entered historical legend, Philip had numerous Templars across France arrested simultaneously, including Grand Master Jacques de Molay[^49].
 
-The arrested Templars were charged with heresy, idolatry, and sodomy—accusations almost certainly fabricated to justify the suppression[^50]. Under torture, many Templars were forced to confess to these false charges, providing Philip with the pretext to confiscate the Order's vast wealth[^51]. Philip pressured Pope Clement V to act, and in November 1307 the pope issued the bull *Pastoralis praeeminentiae* ordering the arrest of Templars throughout Europe, followed by the bull *Vox in excelso* on March 22, 1312, which formally suppressed the entire Order[^52].
+The arrested Templars were charged with heresy, idolatry, and sodomy—accusations almost certainly fabricated to justify the suppression[^50]. Under torture, many Templars were forced to confess to these false charges, providing Philip with the pretext to confiscate the Order's vast wealth[^51]. Philip pressured Pope Clement V to act, and in November 1307 the pope issued the bull _Pastoralis praeeminentiae_ ordering the arrest of Templars throughout Europe, followed by the bull _Vox in excelso_ on March 22, 1312, which formally suppressed the entire Order[^52].
 
 The financial motivation behind Philip's action appears undeniable, as he confiscated enormous sums from the Templars in "compensation" for the costs of the proceedings, gaining substantial financial advantage despite Clement V's attempts to protect Templar interests[^53]. In March 1314, Jacques de Molay and other Templar leaders were burned alive in Paris[^54]. According to legend, de Molay cursed both Philip and Clement from the flames, summoning them to appear before God's judgment within a year—a curse that appeared fulfilled when Clement died in April 1314 and Philip in November of the same year[^55]. Whether motivated by financial desperation, political consolidation, or genuine religious concerns, Philip's destruction of the Templars remains one of medieval history's most controversial episodes[^56].
 
 ### Currency Debasement and Financial Manipulation
 
-Philip's desperate need for revenue led him to implement financial policies that earned him the derisive nickname "the Counterfeiter King"[^57]. Beginning in 1295, Philip and his finance minister Étienne Barbette systematically debased French currency, producing coins with significantly less precious metal content than their official value demanded[^58]. The *gros tournois*, which contained the equivalent of 3.95 grams of silver when Philip took the throne in 1285, had been reduced to just 1.35 grams of silver by 1303—a devaluation of approximately 66%[^59].
+Philip's desperate need for revenue led him to implement financial policies that earned him the derisive nickname "the Counterfeiter King"[^57]. Beginning in 1295, Philip and his finance minister Étienne Barbette systematically debased French currency, producing coins with significantly less precious metal content than their official value demanded[^58]. The _gros tournois_, which contained the equivalent of 3.95 grams of silver when Philip took the throne in 1285, had been reduced to just 1.35 grams of silver by 1303—a devaluation of approximately 66%[^59].
 
-Most insidiously, Philip employed chemical processes to make debased silver coins appear to have higher silver content than they actually contained, deliberately deceiving his subjects about the true value of the currency[^60]. By 1302, *denier* coins contained just one-third as much silver as before Philip's reign began[^61]. These manipulations generated short-term revenue through seigniorage (the profit from producing currency) but caused severe economic disruption, inflation, and loss of confidence in French currency[^62].
+Most insidiously, Philip employed chemical processes to make debased silver coins appear to have higher silver content than they actually contained, deliberately deceiving his subjects about the true value of the currency[^60]. By 1302, _denier_ coins contained just one-third as much silver as before Philip's reign began[^61]. These manipulations generated short-term revenue through seigniorage (the profit from producing currency) but caused severe economic disruption, inflation, and loss of confidence in French currency[^62].
 
 Following the humiliating defeat at the Battle of the Golden Spurs in 1302, the currency depreciated by 37% in fifteen months, forcing the government to order officials and subjects to surrender their silver vessels for minting into coins while levying new taxes to address the deficit[^63]. Philip imposed the first general taxes in French history, inflated the currency relentlessly, and abused judicial procedures to extort large fines from clergy, barons, and towns[^64]. These policies may have provided temporary fiscal relief, but they severely damaged the French economy and the social contract between monarch and subjects.
 
@@ -153,180 +153,304 @@ The catastrophic succession crisis resulting from the rapid deaths of Philip's t
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1268 | Born at Fontainebleau (April-June) to Philip III and Isabella of Aragon |
-| 1270 | Grandfather Louis IX dies on Crusade; father becomes King Philip III |
-| 1271 | Mother Isabella dies after fall from horse |
-| 1276 | Elder brother Louis dies; Philip becomes heir apparent at age 8 |
-| 1284 | Marries Joan I of Navarre (August 16); becomes King of Navarre and Count of Champagne |
-| 1285 | Father Philip III dies (October); Philip becomes King of France at age 17 |
-| 1286 | Coronation at Reims Cathedral (January 6) |
-| 1289 | Birth of first surviving son, Louis (future Louis X) |
-| 1291 | Birth of second son, Philip (future Philip V) |
-| 1294 | Birth of third son, Charles (future Charles IV); Anglo-French War begins |
-| 1295 | Birth of daughter Isabella (future Queen of England); begins currency debasement |
-| 1296 | Pope Boniface VIII issues bull *Clericis laicos* forbidding taxation of clergy |
-| 1297 | Franco-Flemish War begins; French victory at Battle of Furnes (August 20) |
-| 1300 | Papal jubilee year strengthens Pope Boniface VIII's confidence |
-| 1301 | Arrests Bernard Saisset, Bishop of Pamiers; conflict with papacy escalates |
-| 1302 | Convenes first Estates General; Humiliating defeat at Battle of the Golden Spurs (July 11); Pope issues bull *Unam sanctam* |
-| 1303 | Guillaume de Nogaret seizes Pope Boniface VIII at Anagni (September 7); Pope dies following month; Anglo-French War ends |
-| 1304 | French victory at Battle of Mons-en-Pévèle (August 18) |
-| 1305 | Wife Joan I of Navarre dies; refuses to remarry; Bertrand de Got elected Pope Clement V; Papal court moves to France; Franco-Flemish War ends with harsh treaty gaining Lille, Douai, Béthune |
-| 1306 | Expels all Jews from France (July 22); confiscates Jewish property |
-| 1307 | Orders mass arrest of Knights Templar in France (Friday, October 13); Pope issues *Pastoralis praeeminentiae* ordering Templar arrests throughout Europe |
-| 1309 | Papacy permanently relocated to Avignon, beginning "Babylonian Captivity" |
-| 1312 | Pope Clement V issues *Vox in excelso* suppressing Knights Templar (March 22); Philip acquires Lyon for France |
-| 1313 | Tour de Nesle affair scandalizes royal family; daughters-in-law accused of adultery |
+| Year | Event                                                                                                                                                                                                                              |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1268 | Born at Fontainebleau (April-June) to Philip III and Isabella of Aragon                                                                                                                                                            |
+| 1270 | Grandfather Louis IX dies on Crusade; father becomes King Philip III                                                                                                                                                               |
+| 1271 | Mother Isabella dies after fall from horse                                                                                                                                                                                         |
+| 1276 | Elder brother Louis dies; Philip becomes heir apparent at age 8                                                                                                                                                                    |
+| 1284 | Marries Joan I of Navarre (August 16); becomes King of Navarre and Count of Champagne                                                                                                                                              |
+| 1285 | Father Philip III dies (October); Philip becomes King of France at age 17                                                                                                                                                          |
+| 1286 | Coronation at Reims Cathedral (January 6)                                                                                                                                                                                          |
+| 1289 | Birth of first surviving son, Louis (future Louis X)                                                                                                                                                                               |
+| 1291 | Birth of second son, Philip (future Philip V)                                                                                                                                                                                      |
+| 1294 | Birth of third son, Charles (future Charles IV); Anglo-French War begins                                                                                                                                                           |
+| 1295 | Birth of daughter Isabella (future Queen of England); begins currency debasement                                                                                                                                                   |
+| 1296 | Pope Boniface VIII issues bull _Clericis laicos_ forbidding taxation of clergy                                                                                                                                                     |
+| 1297 | Franco-Flemish War begins; French victory at Battle of Furnes (August 20)                                                                                                                                                          |
+| 1300 | Papal jubilee year strengthens Pope Boniface VIII's confidence                                                                                                                                                                     |
+| 1301 | Arrests Bernard Saisset, Bishop of Pamiers; conflict with papacy escalates                                                                                                                                                         |
+| 1302 | Convenes first Estates General; Humiliating defeat at Battle of the Golden Spurs (July 11); Pope issues bull _Unam sanctam_                                                                                                        |
+| 1303 | Guillaume de Nogaret seizes Pope Boniface VIII at Anagni (September 7); Pope dies following month; Anglo-French War ends                                                                                                           |
+| 1304 | French victory at Battle of Mons-en-Pévèle (August 18)                                                                                                                                                                             |
+| 1305 | Wife Joan I of Navarre dies; refuses to remarry; Bertrand de Got elected Pope Clement V; Papal court moves to France; Franco-Flemish War ends with harsh treaty gaining Lille, Douai, Béthune                                      |
+| 1306 | Expels all Jews from France (July 22); confiscates Jewish property                                                                                                                                                                 |
+| 1307 | Orders mass arrest of Knights Templar in France (Friday, October 13); Pope issues _Pastoralis praeeminentiae_ ordering Templar arrests throughout Europe                                                                           |
+| 1309 | Papacy permanently relocated to Avignon, beginning "Babylonian Captivity"                                                                                                                                                          |
+| 1312 | Pope Clement V issues _Vox in excelso_ suppressing Knights Templar (March 22); Philip acquires Lyon for France                                                                                                                     |
+| 1313 | Tour de Nesle affair scandalizes royal family; daughters-in-law accused of adultery                                                                                                                                                |
 | 1314 | Jacques de Molay and Templar leaders burned at stake (March); allegedly curses Philip and Clement; Pope Clement V dies (April 20); Philip suffers stroke while hunting at Pont-Sainte-Maxence; dies at Fontainebleau (November 29) |
 
 ---
 
 ## Famous Quotes
 
-> "If some among them are innocent, it is expedient that they should be assayed like gold in the furnace, and purged by proper judicial examination." 
+> "If some among them are innocent, it is expedient that they should be assayed like gold in the furnace, and purged by proper judicial examination."
 
-*—Philip IV in a royal letter opening the inquiry into the Knights Templar, October 1307. This statement reveals Philip's willingness to sacrifice innocent individuals in his pursuit of the Templars' wealth, justifying collective punishment through metaphor of purification.*[^122]
+_—Philip IV in a royal letter opening the inquiry into the Knights Templar, October 1307. This statement reveals Philip's willingness to sacrifice innocent individuals in his pursuit of the Templars' wealth, justifying collective punishment through metaphor of purification._[^122]
 
 > "Under his reign France was great and the French wretched."
 
-*—Maurice Druon, French historian, capturing the fundamental paradox of Philip IV's legacy: the strengthening of royal power and French territorial extent achieved through policies that inflicted severe hardship on the French people.*[^123]
+_—Maurice Druon, French historian, capturing the fundamental paradox of Philip IV's legacy: the strengthening of royal power and French territorial extent achieved through policies that inflicted severe hardship on the French people._[^123]
 
 > "God knows that they are innocent; their deaths are unjust. A curse will come upon those responsible. God will avenge us."
 
-*—Attributed to Jacques de Molay from the flames, March 1314 (legendary account). Whether historically authentic or not, this curse became legendary when both Pope Clement V and King Philip IV died within months of the Grand Master's execution.*[^124]
+_—Attributed to Jacques de Molay from the flames, March 1314 (legendary account). Whether historically authentic or not, this curse became legendary when both Pope Clement V and King Philip IV died within months of the Grand Master's execution._[^124]
 
 > "Women do not succeed in the kingdom of France."
 
-*—Principle established by the Estates-General in 1317 following the succession crisis after Louis X's death. While formalized after Philip's death, this principle emerged from the succession difficulties his sons faced and would be invoked again in 1328 to bar Edward III of England's claim through his mother Isabella, Philip's daughter.*[^125]
+_—Principle established by the Estates-General in 1317 following the succession crisis after Louis X's death. While formalized after Philip's death, this principle emerged from the succession difficulties his sons faced and would be invoked again in 1328 to bar Edward III of England's claim through his mother Isabella, Philip's daughter._[^125]
 
 ---
 
 ## References
 
 [^1]: Britannica, "Philip IV | Biography, Facts, & Accomplishments," https://www.britannica.com/biography/Philip-IV-king-of-France
+
 [^2]: World History Edu, "Philip IV of France: History, Facts and Major Accomplishments," https://worldhistoryedu.com/philip-iv-of-france-history-facts-and-major-accomplishments/
+
 [^3]: TheCollector, "Philip IV, the Iron King of France," https://www.thecollector.com/philip-iv-france-iron-king/
+
 [^4]: Encyclopedia.com, "Philip IV, King of France," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/philip-iv-king-france
+
 [^5]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^6]: The Famous People, "Philip IV Of France Biography," https://www.thefamouspeople.com/profiles/philip-iv-of-france-37733.php
+
 [^7]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^8]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^9]: Study.com, "Philip IV of France: Biography & Legacies," https://study.com/academy/lesson/philip-iv-france-biography-legacies.html
+
 [^10]: EBSCO Research, "Philip IV the Fair," https://www.ebsco.com/research-starters/biography/philip-iv-fair
+
 [^11]: Britannica, "Philip IV | Biography, Facts, & Accomplishments," https://www.britannica.com/biography/Philip-IV-king-of-France
+
 [^12]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^13]: TheCollector, "Philip IV, the Iron King of France," https://www.thecollector.com/philip-iv-france-iron-king/
+
 [^14]: Britannica, "Philip IV | Biography, Facts, & Accomplishments," https://www.britannica.com/biography/Philip-IV-king-of-France
+
 [^15]: World History Edu, "Philip IV of France: History, Facts and Major Accomplishments," https://worldhistoryedu.com/philip-iv-of-france-history-facts-and-major-accomplishments/
+
 [^16]: EBSCO Research, "Philip IV the Fair," https://www.ebsco.com/research-starters/biography/philip-iv-fair
+
 [^17]: Wikipedia, "Joan I of Navarre," https://en.wikipedia.org/wiki/Joan_I_of_Navarre
+
 [^18]: Britannica, "Joan I | Facts & Biography," https://www.britannica.com/biography/Joan-I-queen-of-France
+
 [^19]: The Famous People, "Joan I Of Navarre Biography," https://www.thefamouspeople.com/profiles/joan-i-of-navarre-39176.php
+
 [^20]: Britannica, "Philip IV | Biography, Facts, & Accomplishments," https://www.britannica.com/biography/Philip-IV-king-of-France
+
 [^21]: EBSCO Research, "Philip IV the Fair," https://www.ebsco.com/research-starters/biography/philip-iv-fair
+
 [^22]: Wikipedia, "Estates General (France)," https://en.wikipedia.org/wiki/Estates_General_(France)
+
 [^23]: Fiveable, "Philip IV - European History – 1000 to 1500," https://library.fiveable.me/key-terms/europe-1000-1500/philip-iv
+
 [^24]: EBSCO Research, "Philip IV the Fair," https://www.ebsco.com/research-starters/biography/philip-iv-fair
+
 [^25]: World History Edu, "Philip IV of France: History, Facts and Major Accomplishments," https://worldhistoryedu.com/philip-iv-of-france-history-facts-and-major-accomplishments/
+
 [^26]: Encyclopedia.com, "Philip IV, King of France," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/philip-iv-king-france
+
 [^27]: Grokipedia, "Estates General (France)," https://grokipedia.com/page/Estates_General_(France)
+
 [^28]: Britannica, "Philip IV | Biography, Facts, & Accomplishments," https://www.britannica.com/biography/Philip-IV-king-of-France
+
 [^29]: Britannica, "Philip IV | Biography, Facts, & Accomplishments," https://www.britannica.com/biography/Philip-IV-king-of-France
+
 [^30]: World History Edu, "Philip IV of France: History, Facts and Major Accomplishments," https://worldhistoryedu.com/philip-iv-of-france-history-facts-and-major-accomplishments/
+
 [^31]: Wikipedia, "Franco-Flemish War," https://en.wikipedia.org/wiki/Franco-Flemish_War
+
 [^32]: Wikipedia, "Franco-Flemish War," https://en.wikipedia.org/wiki/Franco-Flemish_War
+
 [^33]: Wikipedia, "Battle of the Golden Spurs," https://en.wikipedia.org/wiki/Battle_of_the_Golden_Spurs
+
 [^34]: Warfare History Network, "Battle of Courtrai: Revenge Of The Flemish Lion," https://warfarehistorynetwork.com/article/revenge-of-the-flemish-lion/
+
 [^35]: Grokipedia, "Battle of Mons-en-Pévèle," https://grokipedia.com/page/Battle_of_Mons-en-P%C3%A9v%C3%A8le
+
 [^36]: Wikipedia, "Franco-Flemish War," https://en.wikipedia.org/wiki/Franco-Flemish_War
+
 [^37]: World History Edu, "Philip IV of France: History, Facts and Major Accomplishments," https://worldhistoryedu.com/philip-iv-of-france-history-facts-and-major-accomplishments/
+
 [^38]: Wikipedia, "Avignon Papacy," https://en.wikipedia.org/wiki/Avignon_Papacy
+
 [^39]: Britannica, "Philip IV - Papal Conflict, France, Pope," https://www.britannica.com/biography/Philip-IV-king-of-France/Conflict-with-the-papacy
+
 [^40]: Britannica, "Philip IV - Papal Conflict, France, Pope," https://www.britannica.com/biography/Philip-IV-king-of-France/Conflict-with-the-papacy
+
 [^41]: Britannica, "Philip IV - Papal Conflict, France, Pope," https://www.britannica.com/biography/Philip-IV-king-of-France/Conflict-with-the-papacy
+
 [^42]: HISTORY, "In 1303 the French King Sent Goons to Attack and Kidnap the Pope," https://www.history.com/articles/french-king-kidnapping-pope-philip-iv-boniface-vii
+
 [^43]: Britannica, "Philip IV - Papal Conflict, France, Pope," https://www.britannica.com/biography/Philip-IV-king-of-France/Conflict-with-the-papacy
+
 [^44]: Wikipedia, "Avignon Papacy," https://en.wikipedia.org/wiki/Avignon_Papacy
+
 [^45]: Wikipedia, "Avignon Papacy," https://en.wikipedia.org/wiki/Avignon_Papacy
+
 [^46]: Fort Saint-André, "The conflict between Philip le Bel and Pope Bonifacio VIII," https://www.fort-saint-andre.fr/en/discover/the-conflict-between-philip-le-bel-and-pope-bonifacio-viii
+
 [^47]: Templar Blog, "King Philip IV of France: The King Who Ended the Knights Templar," https://templarblog.com/blogs/the-heroes-and-enemies-of-the-knights-templar/king-philip-iv-of-france-the-king-who-ended-the-knights-templar
+
 [^48]: Wikipedia, "Trials of the Knights Templar," https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar
+
 [^49]: History Today, "Knights Templar Arrested in France," https://www.historytoday.com/archive/knights-templar-arrested-france
+
 [^50]: Wikipedia, "Trials of the Knights Templar," https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar
+
 [^51]: Knights Templar Order, "Knights Templar Persecution," https://knightstemplarorder.org/templar-order/templar-persecution/
+
 [^52]: Wikipedia, "Trials of the Knights Templar," https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar
+
 [^53]: Britannica, "Philip IV - Papal Conflict, France, Pope," https://www.britannica.com/biography/Philip-IV-king-of-France/Conflict-with-the-papacy
+
 [^54]: TemplarsNow, "October 13, 1307 - the Templars' demise remembered and retold," https://www.templarsnow.com/2020/10/october-13-1307-templars-demise.html
+
 [^55]: Ancient Origins, "The Powerful Curse of Jacques de Molay," https://www.ancient-origins.net/history-famous-people/curse-jacques-de-molay-templars-005431
+
 [^56]: Study.com, "Philip IV of France: Biography & Legacies," https://study.com/academy/lesson/philip-iv-france-biography-legacies.html
+
 [^57]: Tontine Coffee-House, "Philip IV, the Counterfeiter King," https://tontinecoffeehouse.com/2020/11/30/philip-iv-the-counterfeiter-king/
+
 [^58]: LinkedIn, "TCH: Philip IV, the Counterfeiter King," https://www.linkedin.com/pulse/tch-philip-iv-counterfeiter-king-daniel-dematos
+
 [^59]: Tontine Coffee-House, "Philip IV, the Counterfeiter King," https://tontinecoffeehouse.com/2020/11/30/philip-iv-the-counterfeiter-king/
+
 [^60]: Tontine Coffee-House, "Philip IV, the Counterfeiter King," https://tontinecoffeehouse.com/2020/11/30/philip-iv-the-counterfeiter-king/
+
 [^61]: Tontine Coffee-House, "Philip IV, the Counterfeiter King," https://tontinecoffeehouse.com/2020/11/30/philip-iv-the-counterfeiter-king/
+
 [^62]: LinkedIn, "TCH: Philip IV, the Counterfeiter King," https://www.linkedin.com/pulse/tch-philip-iv-counterfeiter-king-daniel-dematos
+
 [^63]: Tontine Coffee-House, "Philip IV, the Counterfeiter King," https://tontinecoffeehouse.com/2020/11/30/philip-iv-the-counterfeiter-king/
+
 [^64]: Big Site of History, "Philip the Fair, 1285-1314," https://bigsiteofhistory.com/philip-the-fair-1285-1314-the-beginnings-of-the-secular-state/
+
 [^65]: Haaretz, "1306: King Philip 'The Fair' Expels All France's Jews," https://www.haaretz.com/jewish/2016-07-22/ty-article/.premium/1306-king-philip-expels-all-frances-jews/0000017f-e6b0-dea7-adff-f7fba8f40000
+
 [^66]: Haaretz, "1306: King Philip 'The Fair' Expels All France's Jews," https://www.haaretz.com/jewish/2016-07-22/ty-article/.premium/1306-king-philip-expels-all-frances-jews/0000017f-e6b0-dea7-adff-f7fba8f40000
+
 [^67]: University of Toronto Economics, "The Expulsion of the Jews from France in 1306: a Modern Fiscal Analysis," https://www.economics.utoronto.ca/public/workingPapers/tecipa-209-1.pdf
+
 [^68]: Haaretz, "1306: King Philip 'The Fair' Expels All France's Jews," https://www.haaretz.com/jewish/2016-07-22/ty-article/.premium/1306-king-philip-expels-all-frances-jews/0000017f-e6b0-dea7-adff-f7fba8f40000
+
 [^69]: Haaretz, "1306: King Philip 'The Fair' Expels All France's Jews," https://www.haaretz.com/jewish/2016-07-22/ty-article/.premium/1306-king-philip-expels-all-frances-jews/0000017f-e6b0-dea7-adff-f7fba8f40000
+
 [^70]: Haaretz, "1306: King Philip 'The Fair' Expels All France's Jews," https://www.haaretz.com/jewish/2016-07-22/ty-article/.premium/1306-king-philip-expels-all-frances-jews/0000017f-e6b0-dea7-adff-f7fba8f40000
+
 [^71]: TimeRef, "Medieval and Middle Ages History Timelines - Philippe IV," https://www.timeref.com/people/philippe_iv_the_fair_king_of_france_1285_1314.htm
+
 [^72]: MAHJ, "Jews in France in the Middle Ages," https://www.mahj.org/en/permanent-collection/2-jews-france-middle-ages
+
 [^73]: Academia.edu, "The Expulsion of the Jews in 1306 and the Construction of a French Royal Theocracy," https://www.academia.edu/3755106/_The_Expulsion_of_the_Jews_in_1306_and_the_Construction_of_a_French_Royal_Theocracy_presentation_at_the_Central_European_University_conference_Religious_and_Ethnic_Identities_in_the_Process_of_Expulsion_and_Diaspora_Abstract
+
 [^74]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^75]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^76]: Wikipedia, "Joan I of Navarre," https://en.wikipedia.org/wiki/Joan_I_of_Navarre
+
 [^77]: Britannica, "Joan I | Facts & Biography," https://www.britannica.com/biography/Joan-I-queen-of-France
+
 [^78]: The Famous People, "Joan I Of Navarre Biography," https://www.thefamouspeople.com/profiles/joan-i-of-navarre-39176.php
+
 [^79]: The Famous People, "Joan I Of Navarre Biography," https://www.thefamouspeople.com/profiles/joan-i-of-navarre-39176.php
+
 [^80]: The Famous People, "Joan I Of Navarre Biography," https://www.thefamouspeople.com/profiles/joan-i-of-navarre-39176.php
+
 [^81]: World History Encyclopedia, "Joan I of Navarre: Queen Consort of France," https://www.worldhistory.org/Joan_I_of_Navarre/
+
 [^82]: RootsWeb, "Family of Philip IV + and Joan I + of NAVARRE," https://freepages.rootsweb.com/~dearbornboutwell/genealogy/fam4530.html
+
 [^83]: RootsWeb, "Family of Philip IV + and Joan I + of NAVARRE," https://freepages.rootsweb.com/~dearbornboutwell/genealogy/fam4530.html
+
 [^84]: Wikipedia, "Joan I of Navarre," https://en.wikipedia.org/wiki/Joan_I_of_Navarre
+
 [^85]: The Famous People, "Joan I Of Navarre Biography," https://www.thefamouspeople.com/profiles/joan-i-of-navarre-39176.php
+
 [^86]: The Famous People, "Joan I Of Navarre Biography," https://www.thefamouspeople.com/profiles/joan-i-of-navarre-39176.php
+
 [^87]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^88]: Encyclopedia.com, "Philip IV, King of France," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/philip-iv-king-france
+
 [^89]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^90]: New World Encyclopedia, "Philip IV The Fair," https://www.newworldencyclopedia.org/entry/Philip_IV_The_Fair
+
 [^91]: Ancient Origins, "The Powerful Curse of Jacques de Molay," https://www.ancient-origins.net/history-famous-people/curse-jacques-de-molay-templars-005431
+
 [^92]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^93]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^94]: Wikipedia, "Hundred Years' War," https://en.wikipedia.org/wiki/Hundred_Years'_War
+
 [^95]: Wikipedia, "Hundred Years' War," https://en.wikipedia.org/wiki/Hundred_Years'_War
+
 [^96]: Ancient Origins, "The Powerful Curse of Jacques de Molay," https://www.ancient-origins.net/history-famous-people/curse-jacques-de-molay-templars-005431
+
 [^97]: World History Edu, "Philip IV of France: History, Facts and Major Accomplishments," https://worldhistoryedu.com/philip-iv-of-france-history-facts-and-major-accomplishments/
+
 [^98]: Wikipedia, "Estates General (France)," https://en.wikipedia.org/wiki/Estates_General_(France)
+
 [^99]: Wikipedia, "Avignon Papacy," https://en.wikipedia.org/wiki/Avignon_Papacy
+
 [^100]: Fort Saint-André, "The conflict between Philip le Bel and Pope Bonifacio VIII," https://www.fort-saint-andre.fr/en/discover/the-conflict-between-philip-le-bel-and-pope-bonifacio-viii
+
 [^101]: EBSCO Research, "Philip IV the Fair," https://www.ebsco.com/research-starters/biography/philip-iv-fair
+
 [^102]: EBSCO Research, "Philip IV the Fair," https://www.ebsco.com/research-starters/biography/philip-iv-fair
+
 [^103]: World History Edu, "Philip IV of France: History, Facts and Major Accomplishments," https://worldhistoryedu.com/philip-iv-of-france-history-facts-and-major-accomplishments/
+
 [^104]: Wikipedia, "Estates General (France)," https://en.wikipedia.org/wiki/Estates_General_(France)
+
 [^105]: Encyclopedia.com, "Philip IV, King of France," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/philip-iv-king-france
+
 [^106]: Encyclopedia.com, "Philip IV, King of France," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/philip-iv-king-france
+
 [^107]: Britannica, "Philip IV - France, War, Taxes," https://www.britannica.com/biography/Philip-IV-king-of-France/Last-years
+
 [^108]: Britannica, "Philip IV - France, War, Taxes," https://www.britannica.com/biography/Philip-IV-king-of-France/Last-years
+
 [^109]: Encyclopedia.com, "Philip IV, King of France," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/philip-iv-king-france
+
 [^110]: Wikipedia, "Trials of the Knights Templar," https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar
+
 [^111]: Templar Blog, "King Philip IV of France: The King Who Ended the Knights Templar," https://templarblog.com/blogs/the-heroes-and-enemies-of-the-knights-templar/king-philip-iv-of-france-the-king-who-ended-the-knights-templar
+
 [^112]: Tontine Coffee-House, "Philip IV, the Counterfeiter King," https://tontinecoffeehouse.com/2020/11/30/philip-iv-the-counterfeiter-king/
+
 [^113]: LinkedIn, "TCH: Philip IV, the Counterfeiter King," https://www.linkedin.com/pulse/tch-philip-iv-counterfeiter-king-daniel-dematos
+
 [^114]: Big Site of History, "Philip the Fair, 1285-1314," https://bigsiteofhistory.com/philip-the-fair-1285-1314-the-beginnings-of-the-secular-state/
+
 [^115]: Haaretz, "1306: King Philip 'The Fair' Expels All France's Jews," https://www.haaretz.com/jewish/2016-07-22/ty-article/.premium/1306-king-philip-expels-all-frances-jews/0000017f-e6b0-dea7-adff-f7fba8f40000
+
 [^116]: University of Toronto Economics, "The Expulsion of the Jews from France in 1306: a Modern Fiscal Analysis," https://www.economics.utoronto.ca/public/workingPapers/tecipa-209-1.pdf
+
 [^117]: Britannica, "Philip IV - France, War, Taxes," https://www.britannica.com/biography/Philip-IV-king-of-France/Last-years
+
 [^118]: EBSCO Research, "Philip IV the Fair," https://www.ebsco.com/research-starters/biography/philip-iv-fair
+
 [^119]: Wikiquote, "Philip IV of France," https://en.wikiquote.org/wiki/Philip_IV_of_France
+
 [^120]: Wikipedia, "Philip IV of France," https://en.wikipedia.org/wiki/Philip_IV_of_France
+
 [^121]: Britannica, "Philip IV - France, War, Taxes," https://www.britannica.com/biography/Philip-IV-king-of-France/Last-years
+
 [^122]: Wikiquote, "Philip IV of France," https://en.wikiquote.org/wiki/Philip_IV_of_France
+
 [^123]: Wikiquote, "Philip IV of France," https://en.wikiquote.org/wiki/Philip_IV_of_France
+
 [^124]: Wikipedia, "Jacques de Molay," https://en.wikipedia.org/wiki/Jacques_de_Molay
+
 [^125]: Wikipedia, "Hundred Years' War," https://en.wikipedia.org/wiki/Hundred_Years'_War

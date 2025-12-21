@@ -143,27 +143,27 @@ Some critics argue that Tanaka's populist style and contempt for institutional n
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1918 | Born May 4 in Futada, Niigata Prefecture |
-| 1933 | Left Niigata for Tokyo at age 15 |
-| 1936 | Founded Tanaka Civil Engineering and Construction |
-| 1942 | Married Hana Sakamoto |
-| 1946 | Elected to House of Representatives at age 28 |
-| 1957 | Became Minister of Posts and Telecommunications at age 39 |
-| 1962 | Appointed Minister of Finance (first term) |
-| 1965 | Ended first term as Finance Minister |
-| 1968 | Appointed Minister of Finance (second term) |
-| 1971 | Became Minister of International Trade and Industry |
+| Year | Event                                                                            |
+| ---- | -------------------------------------------------------------------------------- |
+| 1918 | Born May 4 in Futada, Niigata Prefecture                                         |
+| 1933 | Left Niigata for Tokyo at age 15                                                 |
+| 1936 | Founded Tanaka Civil Engineering and Construction                                |
+| 1942 | Married Hana Sakamoto                                                            |
+| 1946 | Elected to House of Representatives at age 28                                    |
+| 1957 | Became Minister of Posts and Telecommunications at age 39                        |
+| 1962 | Appointed Minister of Finance (first term)                                       |
+| 1965 | Ended first term as Finance Minister                                             |
+| 1968 | Appointed Minister of Finance (second term)                                      |
+| 1971 | Became Minister of International Trade and Industry                              |
 | 1972 | Published "Building a New Japan: A Plan for Remodeling the Japanese Archipelago" |
-| 1972 | Elected Prime Minister of Japan in July |
-| 1972 | Normalized diplomatic relations with People's Republic of China in September |
-| 1974 | Resigned as Prime Minister in December amid financial scandals |
-| 1976 | Arrested in July in connection with Lockheed bribery scandal |
-| 1983 | Convicted of bribery and sentenced to four years in prison |
-| 1985 | Suffered debilitating stroke |
-| 1987 | Final appeal of Lockheed conviction rejected by Supreme Court |
-| 1993 | Died December 16 at age 75 |
+| 1972 | Elected Prime Minister of Japan in July                                          |
+| 1972 | Normalized diplomatic relations with People's Republic of China in September     |
+| 1974 | Resigned as Prime Minister in December amid financial scandals                   |
+| 1976 | Arrested in July in connection with Lockheed bribery scandal                     |
+| 1983 | Convicted of bribery and sentenced to four years in prison                       |
+| 1985 | Suffered debilitating stroke                                                     |
+| 1987 | Final appeal of Lockheed conviction rejected by Supreme Court                    |
+| 1993 | Died December 16 at age 75                                                       |
 
 ---
 
@@ -193,105 +193,206 @@ Tanaka's emphasis on concrete deliverables over ideological purity reflected his
 
 ## References
 
-[^1]: Curtis, Gerald L. *The Logic of Japanese Politics: Leaders, Institutions, and the Limits of Change*. Columbia University Press, 1999.
-[^2]: Schlesinger, Jacob M. *Shadow Shoguns: The Rise and Fall of Japan's Postwar Political Machine*. Stanford University Press, 1999.
-[^3]: Hunziker, Steven and Ikuro Kamimura. *Kakuei Tanaka: A Political Biography of Modern Japan*. Stanford University Press, 1996.
+[^1]: Curtis, Gerald L. _The Logic of Japanese Politics: Leaders, Institutions, and the Limits of Change_. Columbia University Press, 1999.
+
+[^2]: Schlesinger, Jacob M. _Shadow Shoguns: The Rise and Fall of Japan's Postwar Political Machine_. Stanford University Press, 1999.
+
+[^3]: Hunziker, Steven and Ikuro Kamimura. _Kakuei Tanaka: A Political Biography of Modern Japan_. Stanford University Press, 1996.
+
 [^4]: "Kakuei Tanaka." Encyclopaedia Britannica. https://www.britannica.com/biography/Tanaka-Kakuei
-[^5]: Johnson, Chalmers. "Tanaka Kakuei, Structural Corruption, and the Advent of Machine Politics in Japan." *Journal of Japanese Studies*, vol. 12, no. 1, 1986.
-[^6]: Tachibana, Takashi. *Tanaka Kakuei Kenkyu* (Research on Kakuei Tanaka). Kodansha, 1976.
-[^7]: Hayao, Kenji. *The Japanese Prime Minister and Public Policy*. University of Pittsburgh Press, 1993.
+
+[^5]: Johnson, Chalmers. "Tanaka Kakuei, Structural Corruption, and the Advent of Machine Politics in Japan." _Journal of Japanese Studies_, vol. 12, no. 1, 1986.
+
+[^6]: Tachibana, Takashi. _Tanaka Kakuei Kenkyu_ (Research on Kakuei Tanaka). Kodansha, 1976.
+
+[^7]: Hayao, Kenji. _The Japanese Prime Minister and Public Policy_. University of Pittsburgh Press, 1993.
+
 [^8]: "Kakuei Tanaka: The Shadow Shogun." BBC News, December 16, 2013.
-[^9]: Curtis, Gerald L. *The Japanese Way of Politics*. Columbia University Press, 1988.
-[^10]: Kohno, Masaru. *Japan's Postwar Party Politics*. Princeton University Press, 1997.
-[^11]: Pempel, T.J. "The Unbundling of 'Japan Inc.': The Changing Dynamics of Japanese Policy Formation." *Journal of Japanese Studies*, vol. 13, no. 2, 1987.
-[^12]: Stockwin, J.A.A. *Governing Japan: Divided Politics in a Major Economy*. Blackwell Publishing, 1999.
-[^13]: Ramseyer, J. Mark and Frances M. Rosenbluth. *Japan's Political Marketplace*. Harvard University Press, 1993.
-[^14]: Krauss, Ellis S. and Robert J. Pekkanen. *The Rise and Fall of Japan's LDP*. Cornell University Press, 2011.
-[^15]: Tanaka, Kakuei. *Building a New Japan: A Plan for Remodeling the Japanese Archipelago*. Simul Press, 1972.
-[^16]: "Japan's Plan to Remake Itself." *The New York Times*, September 10, 1972.
-[^17]: McCormack, Gavan. *The Emptiness of Japanese Affluence*. M.E. Sharpe, 1996.
-[^18]: "Tanaka Wins Leadership of Japan's Ruling Party." *Los Angeles Times*, July 6, 1972.
-[^19]: Fukui, Haruhiro. "Tanaka Goes to Peking: A Case Study in Foreign Policymaking." *T. J. Pempel, ed., Policymaking in Contemporary Japan*. Cornell University Press, 1977.
-[^20]: Ogata, Sadako. *Normalization with China: A Comparative Study of U.S. and Japanese Processes*. Institute of East Asian Studies, 1988.
-[^21]: "Japan and China Agree to Establish Diplomatic Ties." *The Washington Post*, September 30, 1972.
-[^22]: Howe, Christopher. "Japan's Opening to China." *Pacific Affairs*, vol. 46, no. 1, 1973.
-[^23]: Samuels, Richard J. *Machiavelli's Children: Leaders and Their Legacies in Italy and Japan*. Cornell University Press, 2003.
-[^24]: "The Shinkansen Revolution." *Japan Times*, November 15, 1982.
-[^25]: Nishiyama, Takehiko. "The Development of High-Speed Railways in Japan." *Japan Railway & Transport Review*, no. 48, 2007.
-[^26]: Woodall, Brian. *Japan Under Construction: Corruption, Politics, and Public Works*. University of California Press, 1996.
-[^27]: Patrick, Hugh and Henry Rosovsky, eds. *Asia's New Giant: How the Japanese Economy Works*. Brookings Institution, 1976.
-[^28]: Sato, Seizaburo and Tetsuhisa Matsuzaki. "Faction Politics and the LDP." *Japanese Journal of Political Science*, vol. 7, no. 3, 1986.
-[^29]: Mulgan, Aurelia George. *The Politics of Agriculture in Japan*. Routledge, 2000.
-[^30]: Campbell, John Creighton. *How Policies Change: The Japanese Government and the Aging Society*. Princeton University Press, 1992.
-[^31]: Shinkawa, Toshimitsu. "The Politics of Welfare State Expansion in Japan." *Research Institute of International Relations, Ritsumeikan University*, 1993.
-[^32]: Mitchell, Richard H. *Political Bribery in Japan*. University of Hawaii Press, 1996.
-[^33]: Bouissou, Jean-Marie. "Political Corruption in Japan: The Dark Side of an Economic Success." *Crime, Law and Social Change*, vol. 25, no. 3, 1996.
-[^34]: "Former Japanese Premier Tanaka Arrested in Lockheed Scandal." *The New York Times*, July 27, 1976.
-[^35]: Jacoby, Sanford M. *The Embedded Corporation: Corporate Governance and Employment Relations in Japan and the United States*. Princeton University Press, 2005.
-[^36]: U.S. Senate Committee on Foreign Relations. *The Lockheed Bribery Scandal*. U.S. Government Printing Office, 1976.
-[^37]: "Tanaka Guilty in Lockheed Case." *The Guardian*, October 12, 1983.
-[^38]: Johnson, Chalmers. *Japan: Who Governs? The Rise of the Developmental State*. W.W. Norton, 1995.
-[^39]: Reed, Steven R. "Political Corruption in Japan." *International Social Science Journal*, vol. 48, no. 149, 1996.
-[^40]: van Wolferen, Karel. *The Enigma of Japanese Power*. Knopf, 1989.
-[^41]: Hartcher, Peter. *The Ministry: How Japan's Most Powerful Institution Endangers World Markets*. Harvard Business School Press, 1998.
-[^42]: Pharr, Susan J. and Ellis S. Krauss, eds. *Media and Politics in Japan*. University of Hawaii Press, 1996.
-[^43]: Kerr, Alex. *Dogs and Demons: Tales from the Dark Side of Japan*. Hill and Wang, 2001.
-[^44]: "Land Speculation Fever Grips Japan." *Financial Times*, June 23, 1973.
-[^45]: Noguchi, Yukio. "The 'Bubble' and Economic Policies in the 1980s." *Journal of Japanese Studies*, vol. 20, no. 2, 1994.
-[^46]: Calder, Kent E. *Crisis and Compensation: Public Policy and Political Stability in Japan*. Princeton University Press, 1988.
-[^47]: McCormack, Gavan. *The Emptiness of Japanese Affluence: Revised Edition*. Routledge, 2001.
-[^48]: Pyle, Kenneth B. *Japan Rising: The Resurgence of Japanese Power and Purpose*. PublicAffairs, 2007.
-[^49]: Kato, Junko. *The Problem of Bureaucratic Rationality*. Princeton University Press, 1994.
-[^50]: "Tanaka Makiko: Following in Father's Footsteps." *Asahi Shimbun*, April 8, 2001.
-[^51]: Hunziker and Kamimura, *Kakuei Tanaka*, Chapter 2.
-[^52]: Molony, Barbara. "Japan's 1986 Equal Employment Opportunity Law and the Changing Discourse on Gender." *Signs*, vol. 20, no. 2, 1995.
-[^53]: "Makiko Tanaka Dismissed as Foreign Minister." *Japan Times*, January 30, 2002.
-[^54]: Schlesinger, *Shadow Shoguns*, pp. 134-137.
-[^55]: Curtis, *The Logic of Japanese Politics*, pp. 89-92.
-[^56]: "The Man with the Computer Brain." *Time Magazine*, July 17, 1972.
-[^57]: Tachibana, *Tanaka Kakuei Kenkyu*, Chapter 5.
-[^58]: "In Tanaka's District, Loyalty Runs Deep." *The New York Times*, October 15, 1983.
-[^59]: "Former Japanese Premier Kakuei Tanaka Dies at 75." *Los Angeles Times*, December 17, 1993.
-[^60]: "Tanaka's Death Marks End of Era in Japanese Politics." *Washington Post*, December 17, 1993.
-[^61]: Samuels, *Machiavelli's Children*, pp. 178-215.
-[^62]: Pempel, T.J. *Regime Shift: Comparative Dynamics of the Japanese Political Economy*. Cornell University Press, 1998.
-[^63]: Fukui, Haruhiro and Shigeko N. Fukai. "Pork Barrel Politics, Networks, and Local Economic Development in Contemporary Japan." *Asian Survey*, vol. 36, no. 3, 1996.
-[^64]: Scheiner, Ethan. *Democracy Without Competition in Japan*. Cambridge University Press, 2006.
-[^65]: Otake, Hideo. "Forces for Political Reform: The Liberal Democratic Party's Young Reformers and Ozawa Ichiro." *Journal of Japanese Studies*, vol. 22, no. 2, 1996.
+
+[^9]: Curtis, Gerald L. _The Japanese Way of Politics_. Columbia University Press, 1988.
+
+[^10]: Kohno, Masaru. _Japan's Postwar Party Politics_. Princeton University Press, 1997.
+
+[^11]: Pempel, T.J. "The Unbundling of 'Japan Inc.': The Changing Dynamics of Japanese Policy Formation." _Journal of Japanese Studies_, vol. 13, no. 2, 1987.
+
+[^12]: Stockwin, J.A.A. _Governing Japan: Divided Politics in a Major Economy_. Blackwell Publishing, 1999.
+
+[^13]: Ramseyer, J. Mark and Frances M. Rosenbluth. _Japan's Political Marketplace_. Harvard University Press, 1993.
+
+[^14]: Krauss, Ellis S. and Robert J. Pekkanen. _The Rise and Fall of Japan's LDP_. Cornell University Press, 2011.
+
+[^15]: Tanaka, Kakuei. _Building a New Japan: A Plan for Remodeling the Japanese Archipelago_. Simul Press, 1972.
+
+[^16]: "Japan's Plan to Remake Itself." _The New York Times_, September 10, 1972.
+
+[^17]: McCormack, Gavan. _The Emptiness of Japanese Affluence_. M.E. Sharpe, 1996.
+
+[^18]: "Tanaka Wins Leadership of Japan's Ruling Party." _Los Angeles Times_, July 6, 1972.
+
+[^19]: Fukui, Haruhiro. "Tanaka Goes to Peking: A Case Study in Foreign Policymaking." _T. J. Pempel, ed., Policymaking in Contemporary Japan_. Cornell University Press, 1977.
+
+[^20]: Ogata, Sadako. _Normalization with China: A Comparative Study of U.S. and Japanese Processes_. Institute of East Asian Studies, 1988.
+
+[^21]: "Japan and China Agree to Establish Diplomatic Ties." _The Washington Post_, September 30, 1972.
+
+[^22]: Howe, Christopher. "Japan's Opening to China." _Pacific Affairs_, vol. 46, no. 1, 1973.
+
+[^23]: Samuels, Richard J. _Machiavelli's Children: Leaders and Their Legacies in Italy and Japan_. Cornell University Press, 2003.
+
+[^24]: "The Shinkansen Revolution." _Japan Times_, November 15, 1982.
+
+[^25]: Nishiyama, Takehiko. "The Development of High-Speed Railways in Japan." _Japan Railway & Transport Review_, no. 48, 2007.
+
+[^26]: Woodall, Brian. _Japan Under Construction: Corruption, Politics, and Public Works_. University of California Press, 1996.
+
+[^27]: Patrick, Hugh and Henry Rosovsky, eds. _Asia's New Giant: How the Japanese Economy Works_. Brookings Institution, 1976.
+
+[^28]: Sato, Seizaburo and Tetsuhisa Matsuzaki. "Faction Politics and the LDP." _Japanese Journal of Political Science_, vol. 7, no. 3, 1986.
+
+[^29]: Mulgan, Aurelia George. _The Politics of Agriculture in Japan_. Routledge, 2000.
+
+[^30]: Campbell, John Creighton. _How Policies Change: The Japanese Government and the Aging Society_. Princeton University Press, 1992.
+
+[^31]: Shinkawa, Toshimitsu. "The Politics of Welfare State Expansion in Japan." _Research Institute of International Relations, Ritsumeikan University_, 1993.
+
+[^32]: Mitchell, Richard H. _Political Bribery in Japan_. University of Hawaii Press, 1996.
+
+[^33]: Bouissou, Jean-Marie. "Political Corruption in Japan: The Dark Side of an Economic Success." _Crime, Law and Social Change_, vol. 25, no. 3, 1996.
+
+[^34]: "Former Japanese Premier Tanaka Arrested in Lockheed Scandal." _The New York Times_, July 27, 1976.
+
+[^35]: Jacoby, Sanford M. _The Embedded Corporation: Corporate Governance and Employment Relations in Japan and the United States_. Princeton University Press, 2005.
+
+[^36]: U.S. Senate Committee on Foreign Relations. _The Lockheed Bribery Scandal_. U.S. Government Printing Office, 1976.
+
+[^37]: "Tanaka Guilty in Lockheed Case." _The Guardian_, October 12, 1983.
+
+[^38]: Johnson, Chalmers. _Japan: Who Governs? The Rise of the Developmental State_. W.W. Norton, 1995.
+
+[^39]: Reed, Steven R. "Political Corruption in Japan." _International Social Science Journal_, vol. 48, no. 149, 1996.
+
+[^40]: van Wolferen, Karel. _The Enigma of Japanese Power_. Knopf, 1989.
+
+[^41]: Hartcher, Peter. _The Ministry: How Japan's Most Powerful Institution Endangers World Markets_. Harvard Business School Press, 1998.
+
+[^42]: Pharr, Susan J. and Ellis S. Krauss, eds. _Media and Politics in Japan_. University of Hawaii Press, 1996.
+
+[^43]: Kerr, Alex. _Dogs and Demons: Tales from the Dark Side of Japan_. Hill and Wang, 2001.
+
+[^44]: "Land Speculation Fever Grips Japan." _Financial Times_, June 23, 1973.
+
+[^45]: Noguchi, Yukio. "The 'Bubble' and Economic Policies in the 1980s." _Journal of Japanese Studies_, vol. 20, no. 2, 1994.
+
+[^46]: Calder, Kent E. _Crisis and Compensation: Public Policy and Political Stability in Japan_. Princeton University Press, 1988.
+
+[^47]: McCormack, Gavan. _The Emptiness of Japanese Affluence: Revised Edition_. Routledge, 2001.
+
+[^48]: Pyle, Kenneth B. _Japan Rising: The Resurgence of Japanese Power and Purpose_. PublicAffairs, 2007.
+
+[^49]: Kato, Junko. _The Problem of Bureaucratic Rationality_. Princeton University Press, 1994.
+
+[^50]: "Tanaka Makiko: Following in Father's Footsteps." _Asahi Shimbun_, April 8, 2001.
+
+[^51]: Hunziker and Kamimura, _Kakuei Tanaka_, Chapter 2.
+
+[^52]: Molony, Barbara. "Japan's 1986 Equal Employment Opportunity Law and the Changing Discourse on Gender." _Signs_, vol. 20, no. 2, 1995.
+
+[^53]: "Makiko Tanaka Dismissed as Foreign Minister." _Japan Times_, January 30, 2002.
+
+[^54]: Schlesinger, _Shadow Shoguns_, pp. 134-137.
+
+[^55]: Curtis, _The Logic of Japanese Politics_, pp. 89-92.
+
+[^56]: "The Man with the Computer Brain." _Time Magazine_, July 17, 1972.
+
+[^57]: Tachibana, _Tanaka Kakuei Kenkyu_, Chapter 5.
+
+[^58]: "In Tanaka's District, Loyalty Runs Deep." _The New York Times_, October 15, 1983.
+
+[^59]: "Former Japanese Premier Kakuei Tanaka Dies at 75." _Los Angeles Times_, December 17, 1993.
+
+[^60]: "Tanaka's Death Marks End of Era in Japanese Politics." _Washington Post_, December 17, 1993.
+
+[^61]: Samuels, _Machiavelli's Children_, pp. 178-215.
+
+[^62]: Pempel, T.J. _Regime Shift: Comparative Dynamics of the Japanese Political Economy_. Cornell University Press, 1998.
+
+[^63]: Fukui, Haruhiro and Shigeko N. Fukai. "Pork Barrel Politics, Networks, and Local Economic Development in Contemporary Japan." _Asian Survey_, vol. 36, no. 3, 1996.
+
+[^64]: Scheiner, Ethan. _Democracy Without Competition in Japan_. Cambridge University Press, 2006.
+
+[^65]: Otake, Hideo. "Forces for Political Reform: The Liberal Democratic Party's Young Reformers and Ozawa Ichiro." _Journal of Japanese Studies_, vol. 22, no. 2, 1996.
+
 [^66]: Nishiyama, "The Development of High-Speed Railways in Japan."
-[^67]: Sorensen, Andre. *The Making of Urban Japan*. Routledge, 2002.
-[^68]: Vogel, Ezra F. *China and Japan: Facing History*. Belknap Press, 2019.
-[^69]: Iriye, Akira. *Across the Pacific: An Inner History of American-East Asian Relations*. Harcourt, Brace & World, 1967.
-[^70]: Mitchell, *Political Bribery in Japan*, pp. 156-189.
+
+[^67]: Sorensen, Andre. _The Making of Urban Japan_. Routledge, 2002.
+
+[^68]: Vogel, Ezra F. _China and Japan: Facing History_. Belknap Press, 2019.
+
+[^69]: Iriye, Akira. _Across the Pacific: An Inner History of American-East Asian Relations_. Harcourt, Brace & World, 1967.
+
+[^70]: Mitchell, _Political Bribery in Japan_, pp. 156-189.
+
 [^71]: Reed, "Political Corruption in Japan."
-[^72]: Kabashima, Ikuo and Gill Steel. *Changing Politics in Japan*. Cornell University Press, 2010.
-[^73]: Tamamoto, Masaru. "The Uncertainty of the Commons: The Transformation of Japanese Society." *World Policy Journal*, vol. 20, no. 3, 2003.
-[^74]: Lincoln, Edward J. *Arthritic Japan: The Slow Pace of Economic Reform*. Brookings Institution Press, 2001.
-[^75]: Katz, Richard. *Japan, the System That Soured*. M.E. Sharpe, 1998.
-[^76]: Johnson, *Japan: Who Governs?*, pp. 212-215.
-[^77]: Nakasone, Yasuhiro. *Seiji to Jinsei* (Politics and Life). Kodansha, 1992.
-[^78]: Rose, Caroline. *Sino-Japanese Relations: Facing the Past, Looking to the Future?*. Routledge, 2005.
-[^79]: Sorensen, *The Making of Urban Japan*, Chapter 6.
-[^80]: Samuels, *Machiavelli's Children*, pp. 189-195.
-[^81]: Kohno, *Japan's Postwar Party Politics*, pp. 134-156.
-[^82]: Scheiner, *Democracy Without Competition in Japan*, pp. 78-89.
-[^83]: Ohmae, Kenichi. *The Mind of the Strategist*. McGraw-Hill, 1982.
-[^84]: "In Niigata, Tanaka's Legacy Lives On." *Yomiuri Shimbun*, May 4, 2018.
-[^85]: Hunziker and Kamimura, *Kakuei Tanaka*, Epilogue.
-[^86]: Inoguchi, Takashi. "The Political Economy of Conservative Resurgence under Recession." *The Political Economy of Japan, Volume 2*. Stanford University Press, 1988.
-[^87]: van Wolferen, *The Enigma of Japanese Power*, pp. 113-128.
-[^88]: Pharr and Krauss, *Media and Politics in Japan*, Chapter 7.
-[^89]: Woodall, *Japan Under Construction*, pp. 67-89.
-[^90]: McCormack, *The Emptiness of Japanese Affluence*, pp. 25-74.
-[^91]: Krauss and Pekkanen, *The Rise and Fall of Japan's LDP*, Chapter 4.
-[^92]: Reed, Steven R. *Japanese Electoral Politics*. Routledge, 2009.
-[^93]: Diamond, Jared. *Collapse: How Societies Choose to Fail or Succeed*. Viking, 2005.
-[^94]: Kerr, *Dogs and Demons*, pp. 31-78.
-[^95]: Mulgan, Aurelia George. *Japan's Failed Revolution: Koizumi and the Politics of Economic Reform*. Asia Pacific Press, 2002.
-[^96]: Mulgan, *The Politics of Agriculture in Japan*, Chapter 3.
-[^97]: Kabashima and Steel, *Changing Politics in Japan*, pp. 45-67.
-[^98]: Schlesinger, *Shadow Shoguns*, p. 142.
-[^99]: Curtis, *The Logic of Japanese Politics*, p. 91.
-[^100]: "The Man with the Computer Brain," *Time Magazine*.
-[^101]: Tachibana, *Tanaka Kakuei Kenkyu*, p. 234.
-[^102]: Hunziker and Kamimura, *Kakuei Tanaka*, p. 167.
+
+[^72]: Kabashima, Ikuo and Gill Steel. _Changing Politics in Japan_. Cornell University Press, 2010.
+
+[^73]: Tamamoto, Masaru. "The Uncertainty of the Commons: The Transformation of Japanese Society." _World Policy Journal_, vol. 20, no. 3, 2003.
+
+[^74]: Lincoln, Edward J. _Arthritic Japan: The Slow Pace of Economic Reform_. Brookings Institution Press, 2001.
+
+[^75]: Katz, Richard. _Japan, the System That Soured_. M.E. Sharpe, 1998.
+
+[^76]: Johnson, _Japan: Who Governs?_, pp. 212-215.
+
+[^77]: Nakasone, Yasuhiro. _Seiji to Jinsei_ (Politics and Life). Kodansha, 1992.
+
+[^78]: Rose, Caroline. _Sino-Japanese Relations: Facing the Past, Looking to the Future?_. Routledge, 2005.
+
+[^79]: Sorensen, _The Making of Urban Japan_, Chapter 6.
+
+[^80]: Samuels, _Machiavelli's Children_, pp. 189-195.
+
+[^81]: Kohno, _Japan's Postwar Party Politics_, pp. 134-156.
+
+[^82]: Scheiner, _Democracy Without Competition in Japan_, pp. 78-89.
+
+[^83]: Ohmae, Kenichi. _The Mind of the Strategist_. McGraw-Hill, 1982.
+
+[^84]: "In Niigata, Tanaka's Legacy Lives On." _Yomiuri Shimbun_, May 4, 2018.
+
+[^85]: Hunziker and Kamimura, _Kakuei Tanaka_, Epilogue.
+
+[^86]: Inoguchi, Takashi. "The Political Economy of Conservative Resurgence under Recession." _The Political Economy of Japan, Volume 2_. Stanford University Press, 1988.
+
+[^87]: van Wolferen, _The Enigma of Japanese Power_, pp. 113-128.
+
+[^88]: Pharr and Krauss, _Media and Politics in Japan_, Chapter 7.
+
+[^89]: Woodall, _Japan Under Construction_, pp. 67-89.
+
+[^90]: McCormack, _The Emptiness of Japanese Affluence_, pp. 25-74.
+
+[^91]: Krauss and Pekkanen, _The Rise and Fall of Japan's LDP_, Chapter 4.
+
+[^92]: Reed, Steven R. _Japanese Electoral Politics_. Routledge, 2009.
+
+[^93]: Diamond, Jared. _Collapse: How Societies Choose to Fail or Succeed_. Viking, 2005.
+
+[^94]: Kerr, _Dogs and Demons_, pp. 31-78.
+
+[^95]: Mulgan, Aurelia George. _Japan's Failed Revolution: Koizumi and the Politics of Economic Reform_. Asia Pacific Press, 2002.
+
+[^96]: Mulgan, _The Politics of Agriculture in Japan_, Chapter 3.
+
+[^97]: Kabashima and Steel, _Changing Politics in Japan_, pp. 45-67.
+
+[^98]: Schlesinger, _Shadow Shoguns_, p. 142.
+
+[^99]: Curtis, _The Logic of Japanese Politics_, p. 91.
+
+[^100]: "The Man with the Computer Brain," _Time Magazine_.
+
+[^101]: Tachibana, _Tanaka Kakuei Kenkyu_, p. 234.
+
+[^102]: Hunziker and Kamimura, _Kakuei Tanaka_, p. 167.

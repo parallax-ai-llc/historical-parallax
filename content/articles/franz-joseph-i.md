@@ -167,31 +167,31 @@ The scholarly consensus recognizes Franz Joseph as a deeply complex and ultimate
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1830 | Born August 18 at Schönbrunn Palace, Vienna |
-| 1836 | Count Heinrich Bombelles assumes responsibility for his education |
-| 1843 | Appointed Colonel-Inhaber of Dragoon Regiment No. 3 on his 13th birthday |
-| 1848 | Fights on Italian Front in May; proclaimed Emperor of Austria on December 2 at age 18 |
-| 1849 | Hungarian Revolution crushed with Russian assistance; grants constitution |
-| 1851 | Revokes constitution with the 'Silvesterpatent' |
-| 1853 | Survives assassination attempt by Hungarian journeyman tailor János Libényi |
-| 1854 | Marries Elisabeth of Bavaria (age 15) on April 24 |
-| 1855 | Birth of first daughter Sophie Friederike |
-| 1856 | Birth of daughter Gisela |
-| 1857 | Death of daughter Sophie at age 2 |
-| 1858 | Birth of heir Crown Prince Rudolf |
-| 1859 | Defeated at Battle of Solferino; loses most of Lombardy in Second Italian War of Independence |
-| 1866 | Suffers annihilating defeat by Prussia at Königgrätz; loses Venice; ceases to be President of German Confederation |
+| Year | Event                                                                                                                            |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1830 | Born August 18 at Schönbrunn Palace, Vienna                                                                                      |
+| 1836 | Count Heinrich Bombelles assumes responsibility for his education                                                                |
+| 1843 | Appointed Colonel-Inhaber of Dragoon Regiment No. 3 on his 13th birthday                                                         |
+| 1848 | Fights on Italian Front in May; proclaimed Emperor of Austria on December 2 at age 18                                            |
+| 1849 | Hungarian Revolution crushed with Russian assistance; grants constitution                                                        |
+| 1851 | Revokes constitution with the 'Silvesterpatent'                                                                                  |
+| 1853 | Survives assassination attempt by Hungarian journeyman tailor János Libényi                                                      |
+| 1854 | Marries Elisabeth of Bavaria (age 15) on April 24                                                                                |
+| 1855 | Birth of first daughter Sophie Friederike                                                                                        |
+| 1856 | Birth of daughter Gisela                                                                                                         |
+| 1857 | Death of daughter Sophie at age 2                                                                                                |
+| 1858 | Birth of heir Crown Prince Rudolf                                                                                                |
+| 1859 | Defeated at Battle of Solferino; loses most of Lombardy in Second Italian War of Independence                                    |
+| 1866 | Suffers annihilating defeat by Prussia at Königgrätz; loses Venice; ceases to be President of German Confederation               |
 | 1867 | Austro-Hungarian Compromise creates Dual Monarchy; crowned King of Hungary June 8; brother Maximilian executed in Mexico June 19 |
-| 1868 | Birth of daughter Marie Valerie; Emperor Franz Joseph Railway inaugurates first section |
-| 1878 | Austria-Hungary granted administrative control over Bosnia-Herzegovina at Congress of Berlin |
-| 1879 | Forms alliance with Prussian-led Germany |
-| 1889 | Crown Prince Rudolf dies at Mayerling January 30 |
-| 1898 | Wife Empress Elisabeth assassinated in Geneva September 10 |
-| 1908 | Formally annexes Bosnia-Herzegovina, precipitating Bosnian Crisis |
-| 1914 | Archduke Franz Ferdinand assassinated June 28; declares war on Serbia July 28; declares war on Russia August 6 |
-| 1916 | Dies November 21 at Schönbrunn Palace at age 86; funeral November 30 |
+| 1868 | Birth of daughter Marie Valerie; Emperor Franz Joseph Railway inaugurates first section                                          |
+| 1878 | Austria-Hungary granted administrative control over Bosnia-Herzegovina at Congress of Berlin                                     |
+| 1879 | Forms alliance with Prussian-led Germany                                                                                         |
+| 1889 | Crown Prince Rudolf dies at Mayerling January 30                                                                                 |
+| 1898 | Wife Empress Elisabeth assassinated in Geneva September 10                                                                       |
+| 1908 | Formally annexes Bosnia-Herzegovina, precipitating Bosnian Crisis                                                                |
+| 1914 | Archduke Franz Ferdinand assassinated June 28; declares war on Serbia July 28; declares war on Russia August 6                   |
+| 1916 | Dies November 21 at Schönbrunn Palace at age 86; funeral November 30                                                             |
 
 ---
 
@@ -218,164 +218,325 @@ The scholarly consensus recognizes Franz Joseph as a deeply complex and ultimate
 ## References
 
 [^1]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^2]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^3]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^4]: [Franz Joseph I - Jewish Virtual Library](https://www.jewishvirtuallibrary.org/franz-joseph-i)
+
 [^5]: [Franz Joseph I of Austria | Unofficial Royalty](https://www.unofficialroyalty.com/franz-joseph-i-emperor-of-austria/)
+
 [^6]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^7]: [Franz Joseph: childhood and upbringing | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-childhood-and-upbringing)
+
 [^8]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I)
+
 [^9]: [Franz Joseph: childhood and upbringing | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-childhood-and-upbringing)
+
 [^10]: [Franz Joseph: childhood and upbringing | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-childhood-and-upbringing)
+
 [^11]: [Franz Joseph I Of Austria Biography - The Famous People](https://www.thefamouspeople.com/profiles/franz-joseph-i-of-austria-37450.php)
+
 [^12]: [Franz Joseph I Of Austria Biography - The Famous People](https://www.thefamouspeople.com/profiles/franz-joseph-i-of-austria-37450.php)
+
 [^13]: [Franz Joseph I Of Austria Biography - The Famous People](https://www.thefamouspeople.com/profiles/franz-joseph-i-of-austria-37450.php)
+
 [^14]: [Franz Joseph: childhood and upbringing | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-childhood-and-upbringing)
+
 [^15]: [Franz Joseph: childhood and upbringing | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-childhood-and-upbringing)
+
 [^16]: [Franz Joseph: childhood and upbringing | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-childhood-and-upbringing)
+
 [^17]: [Franz Joseph: childhood and upbringing | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-childhood-and-upbringing)
+
 [^18]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^19]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^20]: [Emperor Franz Joseph of Austria and the Hungarian Revolution of 1848 | European Royal History](https://europeanroyalhistory.wordpress.com/2022/12/05/emperor-franz-joseph-of-austria-and-the-hungarian-revolution-of-1848/)
+
 [^21]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^22]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^23]: [December 2, 1848: Archduke Franz Joseph of Austria Succeeds to the Throne | European Royal History](https://europeanroyalhistory.wordpress.com/2022/12/02/december-2-1848-archduke-franz-joseph-of-austria-succeeds-to-the-throne-of-the-austrian-empire/)
+
 [^24]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^25]: [Emperor Franz Joseph of Austria and the Hungarian Revolution of 1848 | European Royal History](https://europeanroyalhistory.wordpress.com/2022/12/05/emperor-franz-joseph-of-austria-and-the-hungarian-revolution-of-1848/)
+
 [^26]: [Emperor Franz Joseph of Austria and the Hungarian Revolution of 1848 | European Royal History](https://europeanroyalhistory.wordpress.com/2022/12/05/emperor-franz-joseph-of-austria-and-the-hungarian-revolution-of-1848/)
+
 [^27]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^28]: [Franz Joseph - Hungarian Compromise, Dual Monarchy | Britannica](https://www.britannica.com/biography/Franz-Joseph/The-Hungarian-compromise-and-the-dual-monarchy)
+
 [^29]: [The Austro-Hungarian Dual Monarchy: the coronation of the Hungarian royal couple | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/austro-hungarian-dual-monarchy-coronation-hungarian-royal-couple)
+
 [^30]: [The Austro-Hungarian Dual Monarchy: the coronation of the Hungarian royal couple | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/austro-hungarian-dual-monarchy-coronation-hungarian-royal-couple)
+
 [^31]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^32]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^33]: [Franz Joseph - Hungarian Compromise, Dual Monarchy | Britannica](https://www.britannica.com/biography/Franz-Joseph/The-Hungarian-compromise-and-the-dual-monarchy)
+
 [^34]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^35]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^36]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^37]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^38]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^39]: [Who Was Emperor Franz Joseph of Austria - Royal Titles](https://www.royaltitles.net/blog/who-was-emperor-franz-joseph-of-austria/)
+
 [^40]: [Emperor Franz Joseph Railway - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Franz_Joseph_Railway)
+
 [^41]: [Emperor Franz Joseph Railway - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Franz_Joseph_Railway)
+
 [^42]: [Emperor Franz Joseph Railway - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Franz_Joseph_Railway)
+
 [^43]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^44]: [Franz Joseph: The most beloved emperor of the Habsburg Monarchy – Prague Blog](https://www.private-prague-guide.com/article/franz-joseph-the-most-beloved-emperor-of-the-habsburg-monarchy/)
+
 [^45]: [Franz Joseph I - Jewish Virtual Library](https://www.jewishvirtuallibrary.org/franz-joseph-i)
+
 [^46]: [Emperor Franz Joseph And The Jews | The Jewish Press](https://www.jewishpress.com/sections/features/features-on-jewish-world/emperor-franz-joseph-and-the-jews-and-the-shadal/2023/04/04/)
+
 [^47]: [Emperor Franz Joseph And The Jews | The Jewish Press](https://www.jewishpress.com/sections/features/features-on-jewish-world/emperor-franz-joseph-and-the-jews-and-the-shadal/2023/04/04/)
+
 [^48]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^49]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^50]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^51]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^52]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^53]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^54]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^55]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^56]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^57]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^58]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^59]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^60]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^61]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^62]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^63]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^64]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^65]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^66]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^67]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^68]: [Franz Joseph: the ageing emperor | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/franz-joseph-ageing-emperor)
+
 [^69]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^70]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^71]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^72]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^73]: [Franz Joseph: the ageing emperor | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/franz-joseph-ageing-emperor)
+
 [^74]: [Franz Joseph: the ageing emperor | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/franz-joseph-ageing-emperor)
+
 [^75]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^76]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^77]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^78]: [Franz Joseph: Marriage, family and descendants | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-marriage-family-and-descendants)
+
 [^79]: [Franz Joseph: Marriage, family and descendants | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-marriage-family-and-descendants)
+
 [^80]: [Franz Joseph: Marriage, family and descendants | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-marriage-family-and-descendants)
+
 [^81]: [Franz Joseph and Elisabeth – and they lived happily ever after? | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-and-elisabeth-and-they-lived-happily-ever-after)
+
 [^82]: [Franz Joseph and Elisabeth – and they lived happily ever after? | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-and-elisabeth-and-they-lived-happily-ever-after)
+
 [^83]: [Franz Joseph and Elisabeth – and they lived happily ever after? | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-and-elisabeth-and-they-lived-happily-ever-after)
+
 [^84]: [Franz Joseph: Marriage, family and descendants | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-marriage-family-and-descendants)
+
 [^85]: [The children of Empress Elisabeth and Emperor Franz Joseph | Time Travel Vienna](https://www.timetravel-vienna.at/en/the-children-of-empress-elisabeth-and-emperor-franz-joseph/)
+
 [^86]: [The children of Empress Elisabeth and Emperor Franz Joseph | Time Travel Vienna](https://www.timetravel-vienna.at/en/the-children-of-empress-elisabeth-and-emperor-franz-joseph/)
+
 [^87]: [Franz Joseph: Marriage, family and descendants | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-marriage-family-and-descendants)
+
 [^88]: [The children of Empress Elisabeth and Emperor Franz Joseph | Time Travel Vienna](https://www.timetravel-vienna.at/en/the-children-of-empress-elisabeth-and-emperor-franz-joseph/)
+
 [^89]: [Mayerling incident - Wikipedia](https://en.wikipedia.org/wiki/Mayerling_incident)
+
 [^90]: [Mayerling incident - Wikipedia](https://en.wikipedia.org/wiki/Mayerling_incident)
+
 [^91]: [Mayerling incident - Wikipedia](https://en.wikipedia.org/wiki/Mayerling_incident)
+
 [^92]: [Mayerling incident - Wikipedia](https://en.wikipedia.org/wiki/Mayerling_incident)
+
 [^93]: [CSI Mayerling – How did the crown prince really die? | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/csi-mayerling-how-did-crown-prince-really-die)
+
 [^94]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^95]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^96]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^97]: [Maximilian I of Mexico - Wikipedia](https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico)
+
 [^98]: [Maximilian I of Mexico - Wikipedia](https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico)
+
 [^99]: [Maximilian I of Mexico - Wikipedia](https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico)
+
 [^100]: [Katharina Schratt - Wikipedia](https://en.wikipedia.org/wiki/Katharina_Schratt)
+
 [^101]: [Katharina Schratt - Wikipedia](https://en.wikipedia.org/wiki/Katharina_Schratt)
+
 [^102]: [Elisabeth of Austria - Playing matchmaker | History of Royal Women](https://www.historyofroyalwomen.com/elisabeth-austria-playing-matchmaker/)
+
 [^103]: [Katharina Schratt, Confidante of Franz Joseph I | Unofficial Royalty](https://www.unofficialroyalty.com/katharina-schratt-confidante-of-franz-joseph-i-emperor-of-austria/)
+
 [^104]: [Katharina Schratt - Wikipedia](https://en.wikipedia.org/wiki/Katharina_Schratt)
+
 [^105]: [Katharina Schratt - Wikipedia](https://en.wikipedia.org/wiki/Katharina_Schratt)
+
 [^106]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^107]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^108]: [Francis Joseph I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-joseph-i)
+
 [^109]: [Austro-Hungarian Compromise of 1867 - Wikipedia](https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867)
+
 [^110]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^111]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^112]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^113]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^114]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^115]: [Dissolution of the Austro-Hungarian Empire | Czech Center Museum Houston](https://www.czechcenter.org/blog/2020/12/14/dissolution-of-the-austro-hungarian-empire)
+
 [^116]: [Dissolution of the Austro-Hungarian Empire | Czech Center Museum Houston](https://www.czechcenter.org/blog/2020/12/14/dissolution-of-the-austro-hungarian-empire)
+
 [^117]: [Franz Joseph I: The Last Emperor of Austria Hungary - BYU Feedback Loop](https://feedback.byu.edu/franz-joseph-i-of-austria)
+
 [^118]: [Franz Joseph I: The Last Emperor of Austria Hungary - BYU Feedback Loop](https://feedback.byu.edu/franz-joseph-i-of-austria)
+
 [^119]: [Emperor Franz Josef was a 'workaholic' | National Geographic](https://www.nationalgeographic.com/premium/article/life-austria-hungary-emperor-franz-josef)
+
 [^120]: [History of the Jews in Austria - Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Austria)
+
 [^121]: [Franz Joseph I - Jewish Virtual Library](https://www.jewishvirtuallibrary.org/franz-joseph-i)
+
 [^122]: [November 1916: The emperor is laid to rest](https://www.wien.gv.at/english/history/commemoration/emperor.html)
+
 [^123]: [Goodbye to the world of yesterday | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/goodbye-world-yesterday)
+
 [^124]: [THE FUNERAL OF EMPEROR FRANZ JOSEPH | Imperial War Museums](https://www.iwm.org.uk/collections/item/object/205039416)
+
 [^125]: [THE FUNERAL OF EMPEROR FRANZ JOSEPH | Imperial War Museums](https://www.iwm.org.uk/collections/item/object/205039416)
+
 [^126]: [Goodbye to the world of yesterday | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/goodbye-world-yesterday)
+
 [^127]: [November 1916: The emperor is laid to rest](https://www.wien.gv.at/english/history/commemoration/emperor.html)
+
 [^128]: [Francis Joseph: King and Emperor | Hungarian Conservative](https://www.hungarianconservative.com/articles/culture_society/francis_joseph_life_assessment_legacy_anniversary/)
+
 [^129]: [Francis Joseph: King and Emperor | Hungarian Conservative](https://www.hungarianconservative.com/articles/culture_society/francis_joseph_life_assessment_legacy_anniversary/)
+
 [^130]: [Emperor Franz Joseph And The Jews | The Jewish Press](https://www.jewishpress.com/sections/features/features-on-jewish-world/emperor-franz-joseph-and-the-jews-and-the-shadal/2023/04/04/)
+
 [^131]: [Franz Joseph I - Jewish Virtual Library](https://www.jewishvirtuallibrary.org/franz-joseph-i)
+
 [^132]: [Franz Joseph I - Jewish Virtual Library](https://www.jewishvirtuallibrary.org/franz-joseph-i)
+
 [^133]: [Franz Joseph I - Jewish Virtual Library](https://www.jewishvirtuallibrary.org/franz-joseph-i)
+
 [^134]: [Franz Joseph I - Jewish Virtual Library](https://www.jewishvirtuallibrary.org/franz-joseph-i)
+
 [^135]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^136]: [Francis Joseph I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-joseph-i)
+
 [^137]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^138]: [Franz Joseph: the ageing emperor | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/franz-joseph-ageing-emperor)
+
 [^139]: [Dissolution of the Austro-Hungarian Empire | Czech Center Museum Houston](https://www.czechcenter.org/blog/2020/12/14/dissolution-of-the-austro-hungarian-empire)
+
 [^140]: [Emperor Franz Josef was a 'workaholic' | National Geographic](https://www.nationalgeographic.com/premium/article/life-austria-hungary-emperor-franz-josef)
+
 [^141]: [Emperor Franz Josef was a 'workaholic' | National Geographic](https://www.nationalgeographic.com/premium/article/life-austria-hungary-emperor-franz-josef)
+
 [^142]: [Francis Joseph: King and Emperor | Hungarian Conservative](https://www.hungarianconservative.com/articles/culture_society/francis_joseph_life_assessment_legacy_anniversary/)
+
 [^143]: [Francis Joseph: King and Emperor | Hungarian Conservative](https://www.hungarianconservative.com/articles/culture_society/francis_joseph_life_assessment_legacy_anniversary/)
+
 [^144]: [Franz Joseph | Life, Hapsburg, Wife, & Significance | Britannica](https://www.britannica.com/biography/Franz-Joseph)
+
 [^145]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^146]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^147]: [Franz Joseph as ruler – Part One: 1848-1867 | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/franz-joseph-ruler-part-one-1848-1867)
+
 [^148]: [Francis Joseph: King and Emperor | Hungarian Conservative](https://www.hungarianconservative.com/articles/culture_society/francis_joseph_life_assessment_legacy_anniversary/)
+
 [^149]: [Emperor Franz Josef was a 'workaholic' | National Geographic](https://www.nationalgeographic.com/premium/article/life-austria-hungary-emperor-franz-josef)
+
 [^150]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^151]: [First World War.com - Who's Who - Emperor Franz Josef I](https://www.firstworldwar.com/bio/franzjosef.htm)
+
 [^152]: [Franz Joseph: the ageing emperor | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/franz-joseph-ageing-emperor)
+
 [^153]: [Franz Joseph: the ageing emperor | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/franz-joseph-ageing-emperor)
+
 [^154]: [Francis Joseph: King and Emperor | Hungarian Conservative](https://www.hungarianconservative.com/articles/culture_society/francis_joseph_life_assessment_legacy_anniversary/)
+
 [^155]: [QUOTES BY FRANZ JOSEPH I OF AUSTRIA | A-Z Quotes](https://www.azquotes.com/author/53161-Franz_Joseph_I_of_Austria)
+
 [^156]: [Franz Joseph I of Austria quote: Nothing has been spared | A-Z Quotes](https://www.azquotes.com/quote/1521981)
+
 [^157]: [QUOTES BY FRANZ JOSEPH I OF AUSTRIA | A-Z Quotes](https://www.azquotes.com/author/53161-Franz_Joseph_I_of_Austria)
+
 [^158]: [QUOTES BY FRANZ JOSEPH I OF AUSTRIA | A-Z Quotes](https://www.azquotes.com/author/53161-Franz_Joseph_I_of_Austria)
+
 [^159]: [QUOTES BY FRANZ JOSEPH I OF AUSTRIA | A-Z Quotes](https://www.azquotes.com/author/53161-Franz_Joseph_I_of_Austria)
+
 [^160]: [Franz Joseph (1830—1916) - The Lords of War - 1914](https://ujvilagszuletett2.elsovilaghaboru.com/en/biography/franz-joseph-1830—1916)
+
 [^161]: [Franz Joseph I - Wikipedia](https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria)
+
 [^162]: [Franz Joseph: the ageing emperor | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/franz-joseph-ageing-emperor)

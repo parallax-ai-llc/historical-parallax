@@ -45,7 +45,7 @@ Armed with these broad powers to restructure state finances, Salazar achieved re
 
 ### Constitutional and Political Restructuring
 
-After becoming Prime Minister, Salazar drafted a new constitution that reorganized Portugal's political system along authoritarian and corporatist lines.[^18] Having come to power under the Ditadura Nacional ("National Dictatorship"), he reframed the regime as the Estado Novo ("New State") in 1933, establishing himself as the unchallenged leader.[^19] The Estado Novo was based on Catholic social doctrine, particularly the papal encyclicals *Rerum Novarum* and *Quadragesimo Anno*, which emphasized corporatist organization to prevent class struggle.[^20]
+After becoming Prime Minister, Salazar drafted a new constitution that reorganized Portugal's political system along authoritarian and corporatist lines.[^18] Having come to power under the Ditadura Nacional ("National Dictatorship"), he reframed the regime as the Estado Novo ("New State") in 1933, establishing himself as the unchallenged leader.[^19] The Estado Novo was based on Catholic social doctrine, particularly the papal encyclicals _Rerum Novarum_ and _Quadragesimo Anno_, which emphasized corporatist organization to prevent class struggle.[^20]
 
 The regime featured a mixed economy with extensive state regulation alongside private ownership of the means of production.[^21] Political power was concentrated in Salazar's hands, but he carefully distinguished his system from fascism and totalitarianism, which he considered "pagan Caesarism" that recognized neither legal nor moral limits.[^22] Scholars including Stanley G. Payne, Juan José Linz, and Howard J. Wiarda have classified the Estado Novo as conservative authoritarian rather than fascist.[^23]
 
@@ -169,52 +169,52 @@ Portuguese historians increasingly view Salazar as a dictator whose authoritaria
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1889 | Born on April 28 in Vimieiro, Portugal |
-| 1900 | Enters seminary in Viseu |
-| 1908 | Completes seminary education |
-| 1910 | Enrolls at University of Coimbra to study law |
-| 1914 | Graduates with distinction; becomes assistant professor |
-| 1917 | Appointed to chairs of economic policy and finance at Coimbra |
-| 1921 | Helps form Catholic Centre Party; elected to Cortes |
-| 1926 | Military coup overthrows First Republic; declines finance ministry |
-| 1928 | Appointed Minister of Finance with extraordinary powers (April 26) |
-| 1929 | Balances budget and stabilizes currency |
-| 1932 | Named Prime Minister (July 5) |
-| 1933 | Establishes Estado Novo with new constitution |
-| 1933 | Creates SPN (Secretariado da Propaganda Nacional) |
-| 1936 | Establishes Tarrafal concentration camp in Cape Verde |
-| 1936-1939 | Supports Franco during Spanish Civil War |
-| 1939 | Signs Iberian Pact with Spain (March 17) |
-| 1939 | Declares Portuguese neutrality in World War II (September 1) |
-| 1940 | Signs Concordat with Vatican (May 7) |
-| 1944 | Implements complete wolfram embargo (June 5) |
-| 1945 | PVDE reorganized as PIDE |
-| 1949 | Portugal becomes founding member of NATO |
-| 1950 | Portugal joins European Payments Union |
-| 1958 | Humberto Delgado challenges regime in presidential election (June 8) |
-| 1959 | Amends Constitution to eliminate direct presidential elections |
-| 1960 | Portugal becomes founding member of EFTA |
-| 1961 | Colonial wars begin in Angola, Guinea-Bissau, and Mozambique |
-| 1965 | Humberto Delgado assassinated by PIDE |
-| 1968 | Suffers stroke (September); replaced by Marcelo Caetano (September 27) |
-| 1970 | Dies on July 27, reportedly still believing he was Prime Minister |
-| 1974 | Carnation Revolution overthrows Estado Novo (April 25) |
+| Year      | Event                                                                  |
+| --------- | ---------------------------------------------------------------------- |
+| 1889      | Born on April 28 in Vimieiro, Portugal                                 |
+| 1900      | Enters seminary in Viseu                                               |
+| 1908      | Completes seminary education                                           |
+| 1910      | Enrolls at University of Coimbra to study law                          |
+| 1914      | Graduates with distinction; becomes assistant professor                |
+| 1917      | Appointed to chairs of economic policy and finance at Coimbra          |
+| 1921      | Helps form Catholic Centre Party; elected to Cortes                    |
+| 1926      | Military coup overthrows First Republic; declines finance ministry     |
+| 1928      | Appointed Minister of Finance with extraordinary powers (April 26)     |
+| 1929      | Balances budget and stabilizes currency                                |
+| 1932      | Named Prime Minister (July 5)                                          |
+| 1933      | Establishes Estado Novo with new constitution                          |
+| 1933      | Creates SPN (Secretariado da Propaganda Nacional)                      |
+| 1936      | Establishes Tarrafal concentration camp in Cape Verde                  |
+| 1936-1939 | Supports Franco during Spanish Civil War                               |
+| 1939      | Signs Iberian Pact with Spain (March 17)                               |
+| 1939      | Declares Portuguese neutrality in World War II (September 1)           |
+| 1940      | Signs Concordat with Vatican (May 7)                                   |
+| 1944      | Implements complete wolfram embargo (June 5)                           |
+| 1945      | PVDE reorganized as PIDE                                               |
+| 1949      | Portugal becomes founding member of NATO                               |
+| 1950      | Portugal joins European Payments Union                                 |
+| 1958      | Humberto Delgado challenges regime in presidential election (June 8)   |
+| 1959      | Amends Constitution to eliminate direct presidential elections         |
+| 1960      | Portugal becomes founding member of EFTA                               |
+| 1961      | Colonial wars begin in Angola, Guinea-Bissau, and Mozambique           |
+| 1965      | Humberto Delgado assassinated by PIDE                                  |
+| 1968      | Suffers stroke (September); replaced by Marcelo Caetano (September 27) |
+| 1970      | Dies on July 27, reportedly still believing he was Prime Minister      |
+| 1974      | Carnation Revolution overthrows Estado Novo (April 25)                 |
 
 ---
 
 ## Famous Quotes
 
-> "Proudly alone!" (*Orgulhosamente sós!*)
+> "Proudly alone!" (_Orgulhosamente sós!_)
 
 This became one of Salazar's most famous slogans, encapsulating Portugal's isolationist stance and self-reliant nationalism during the Estado Novo period.[^106]
 
-> "All for the nation, nothing against the nation." (*Tudo pela Nação, nada contra a Nação.*)
+> "All for the nation, nothing against the nation." (_Tudo pela Nação, nada contra a Nação._)
 
 This motto reflected the corporatist ideology of the regime, subordinating individual and class interests to the collective national interest.[^107]
 
-> "God, Homeland, Family." (*Deus, Pátria, Família.*)
+> "God, Homeland, Family." (_Deus, Pátria, Família._)
 
 This central motto of the Estado Novo regime emphasized the three pillars of Salazarist ideology—Catholic faith, Portuguese nationalism, and traditional family values.[^108]
 
@@ -230,7 +230,7 @@ This statement emphasized Salazar's personal austerity and claim to be serving P
 
 This quote revealed Salazar's contempt for decolonization and international organizations that challenged Portugal's colonial empire.[^111]
 
-> "To Angola, quickly and with force!" (*Para Angola, rapidamente e em força!*)
+> "To Angola, quickly and with force!" (_Para Angola, rapidamente e em força!_)
 
 Said on April 13, 1961, this order marked the beginning of Portugal's colonial wars as Salazar sent military reinforcements to combat independence movements.[^112]
 
@@ -243,115 +243,227 @@ This quote encapsulated the Estado Novo's conservative social ideology, emphasiz
 ## References
 
 [^1]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^2]: [António de Oliveira Salazar - Britannica](https://www.britannica.com/biography/Antonio-de-Oliveira-Salazar)
+
 [^3]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^4]: [António de Oliveira Salazar - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^5]: [Salazar, Antonio (1889–1970) - Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/salazar-antonio-1889-1970)
+
 [^6]: [Everything for Portugal: the Life of Antonio de Oliveira Salazar - LogoSophia Magazine](https://logosophiamag.com/2020/04/02/everything-for-portugal-the-life-of-antonio-de-oliveira-salazar/)
+
 [^7]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^8]: [Salazar, Antonio (1889–1970) - Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/salazar-antonio-1889-1970)
+
 [^9]: [António de Oliveira Salazar - Britannica](https://www.britannica.com/biography/Antonio-de-Oliveira-Salazar)
+
 [^10]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^11]: [Salazar's rise to power - Portugal Resident](https://www.portugalresident.com/salazars-rise-to-power/)
+
 [^12]: [António de Oliveira Salazar - Britannica](https://www.britannica.com/biography/Antonio-de-Oliveira-Salazar)
+
 [^13]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^14]: [Salazar's rise to power - Portugal Resident](https://www.portugalresident.com/salazars-rise-to-power/)
+
 [^15]: [Salazar's rise to power - Portugal Resident](https://www.portugalresident.com/salazars-rise-to-power/)
+
 [^16]: [António de Oliveira Salazar - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^17]: [António de Oliveira Salazar - Britannica](https://www.britannica.com/biography/Antonio-de-Oliveira-Salazar)
+
 [^18]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
-[^19]: [Estado Novo (Portugal) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Portugal))
+
+[^19]: [Estado Novo (Portugal) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)>)
+
 [^20]: [Was there a Portuguese economic corporatism? - OpenEdition Journals](https://journals.openedition.org/laboratoireitalien/12020)
-[^21]: [Estado Novo (Portugal) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Portugal))
+
+[^21]: [Estado Novo (Portugal) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)>)
+
 [^22]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^23]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^24]: [António de Oliveira Salazar - EBSCO Research](https://www.ebsco.com/research-starters/history/antonio-de-oliveira-salazar)
+
 [^25]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^26]: [The Impact of Salazar's Policies on Portugal's Economy](https://www.mexicohistorico.com/paginas/the-impact-of-salazar-s-policies-on-portugal-s-economy-b6ee18d5.html)
+
 [^27]: [10 Key Aspects of Salazar's Dictatorship in Portugal - Lisbon Listicles](https://lisbonlisticles.com/2024/09/25/10-key-aspects-of-salazars-dictatorship-in-portugal/)
+
 [^28]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^29]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^30]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^31]: [Was Portugal Really Neutral in World War II? - History is Now Magazine](http://www.historyisnowmagazine.com/blog/2021/3/14/was-portugal-really-neutral-in-world-war-ii)
+
 [^32]: [Portugal during World War II - Wikipedia](https://en.wikipedia.org/wiki/Portugal_during_World_War_II)
+
 [^33]: [Portugal during World War II: Was Portugal Really Neutral? - Portugal.com](https://www.portugal.com/history-and-culture/portugal-during-world-war-ii-was-portugal-really-neutral/)
+
 [^34]: [Was Portugal Really Neutral in World War II? - History is Now Magazine](http://www.historyisnowmagazine.com/blog/2021/3/14/was-portugal-really-neutral-in-world-war-ii)
+
 [^35]: [Wolfram Crisis - Wikipedia](https://en.wikipedia.org/wiki/Wolfram_Crisis)
+
 [^36]: [Portugal in post-war Europe - Portugal Resident](https://www.portugalresident.com/portugal-in-post-war-europe/)
+
 [^37]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^38]: [Portugal in post-war Europe - Portugal Resident](https://www.portugalresident.com/portugal-in-post-war-europe/)
+
 [^39]: [PIDE - Wikipedia](https://en.wikipedia.org/wiki/PIDE)
+
 [^40]: [Portugal's secret police - Portugal Resident](https://www.portugalresident.com/portugals-secret-police/)
+
 [^41]: [PIDE - Wikipedia](https://en.wikipedia.org/wiki/PIDE)
+
 [^42]: [PIDE - Wikipedia](https://en.wikipedia.org/wiki/PIDE)
+
 [^43]: [PIDE - Wikipedia](https://en.wikipedia.org/wiki/PIDE)
+
 [^44]: [Tarrafal Concentration Camp - TalkAfricana](https://talkafricana.com/tarrafal-concentration-camp-african-freedom-fighters-in-the-60s/)
+
 [^45]: [Tarrafal concentration camp - Wikipedia](https://en.wikipedia.org/wiki/Tarrafal_concentration_camp)
+
 [^46]: [Tarrafal Concentration Camp - TalkAfricana](https://talkafricana.com/tarrafal-concentration-camp-african-freedom-fighters-in-the-60s/)
+
 [^47]: [Tarrafal concentration camp - Wikipedia](https://en.wikipedia.org/wiki/Tarrafal_concentration_camp)
+
 [^48]: [TUDO PELA NACAO, NADA CONTRA A NACAO - ResearchGate](https://www.researchgate.net/publication/298439553_TUDO_PELA_NACAO_NADA_CONTRA_A_NACAO_SALAZAR_THE_CREATION_OF_THE_DEPARTMENT_OF_NATIONAL_PROPAGANDA_AND_CENSORSHIP)
+
 [^49]: [António Ferro, education through cinema - Historia y Memoria de la Educación](https://revistas.uned.es/index.php/HMe/article/view/32075)
+
 [^50]: [TUDO PELA NACAO, NADA CONTRA A NACAO - ResearchGate](https://www.researchgate.net/publication/298439553_TUDO_PELA_NACAO_NADA_CONTRA_A_NACAO_SALAZAR_THE_CREATION_OF_THE_DEPARTMENT_OF_NATIONAL_PROPAGANDA_AND_CENSORSHIP)
+
 [^51]: [Portuguese Colonial War - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_Colonial_War)
+
 [^52]: [Portuguese Colonial War - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_Colonial_War)
+
 [^53]: [Portuguese Colonial Wars - EBSCO Research](https://www.ebsco.com/research-starters/history/portuguese-colonial-wars)
+
 [^54]: [Portuguese Angola - World History Encyclopedia](https://www.worldhistory.org/Portuguese_Angola/)
+
 [^55]: [Portuguese Colonial War - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_Colonial_War)
-[^56]: [Estado Novo (Portugal) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Portugal))
+
+[^56]: [Estado Novo (Portugal) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)>)
+
 [^57]: [Women's Rights in Portugal - Portugal.com](https://www.portugal.com/history-and-culture/womens-rights-in-portugal/)
+
 [^58]: [Women in Portugal - Wikipedia](https://en.wikipedia.org/wiki/Women_in_Portugal)
+
 [^59]: [Women in Portugal - Wikipedia](https://en.wikipedia.org/wiki/Women_in_Portugal)
+
 [^60]: [Women's Rights in Portugal - Portugal.com](https://www.portugal.com/history-and-culture/womens-rights-in-portugal/)
+
 [^61]: [1958 Portuguese presidential election - Wikipedia](https://en.wikipedia.org/wiki/1958_Portuguese_presidential_election)
+
 [^62]: [Humberto Delgado - Wikipedia](https://en.wikipedia.org/wiki/Humberto_Delgado)
+
 [^63]: [1958 Portuguese presidential election - Wikipedia](https://en.wikipedia.org/wiki/1958_Portuguese_presidential_election)
+
 [^64]: [The man who dared to oppose Salazar - Algarve History Association](https://www.algarvehistoryassociation.com/en/portuguese-history/portugal/164-the-man-who-dared-to-oppose-salazar)
+
 [^65]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^66]: [Humberto Delgado - Wikipedia](https://en.wikipedia.org/wiki/Humberto_Delgado)
+
 [^67]: [Salazar: Portugal's Great Dictator - History Today](https://www.historytoday.com/tom-gallagher/salazar-portugals-great-dictator)
+
 [^68]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^69]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^70]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^71]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^72]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^73]: [Concordat of 1940 - Wikipedia](https://en.wikipedia.org/wiki/Concordat_of_1940)
+
 [^74]: [Marcelo Caetano - Wikipedia](https://en.wikipedia.org/wiki/Marcelo_Caetano)
+
 [^75]: [Marcelo Caetano - Wikipedia](https://en.wikipedia.org/wiki/Marcelo_Caetano)
+
 [^76]: [António de Oliveira Salazar - Britannica](https://www.britannica.com/biography/Antonio-de-Oliveira-Salazar)
+
 [^77]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^78]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^79]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^80]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^81]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
-[^82]: [Estado Novo (Portugal) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Portugal))
+
+[^82]: [Estado Novo (Portugal) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)>)
+
 [^83]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^84]: [Portuguese Colonial War - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_Colonial_War)
+
 [^85]: [Women's Rights in Portugal - Portugal.com](https://www.portugal.com/history-and-culture/womens-rights-in-portugal/)
+
 [^86]: [Os Grandes Portugueses - Wikipedia](https://en.wikipedia.org/wiki/Os_Grandes_Portugueses)
+
 [^87]: [Controversy over Salazar 'The Great' - Portugal Resident](https://www.portugalresident.com/controversy-over-salazar-the-great/)
+
 [^88]: [Os Grandes Portugueses - Wikipedia](https://en.wikipedia.org/wiki/Os_Grandes_Portugueses)
+
 [^89]: [Os Grandes Portugueses - Wikipedia](https://en.wikipedia.org/wiki/Os_Grandes_Portugueses)
+
 [^90]: [Some Portuguese Still Haven't Accepted the Revolution - Jacobin](https://jacobin.com/2024/04/portugal-far-right-chega-salazar-nostalgia)
+
 [^91]: [Some Portuguese Still Haven't Accepted the Revolution - Jacobin](https://jacobin.com/2024/04/portugal-far-right-chega-salazar-nostalgia)
+
 [^92]: [Some Portuguese Still Haven't Accepted the Revolution - Jacobin](https://jacobin.com/2024/04/portugal-far-right-chega-salazar-nostalgia)
+
 [^93]: [Portugal during World War II - Wikipedia](https://en.wikipedia.org/wiki/Portugal_during_World_War_II)
+
 [^94]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^95]: [António de Oliveira Salazar - Wikipedia](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^96]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^97]: [Portugal during World War II - Wikipedia](https://en.wikipedia.org/wiki/Portugal_during_World_War_II)
+
 [^98]: [Iberian Pact - Wikipedia](https://en.wikipedia.org/wiki/Iberian_Pact)
+
 [^99]: [Some Portuguese Still Haven't Accepted the Revolution - Jacobin](https://jacobin.com/2024/04/portugal-far-right-chega-salazar-nostalgia)
+
 [^100]: [PIDE - Wikipedia](https://en.wikipedia.org/wiki/PIDE)
+
 [^101]: [Portuguese Colonial War - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_Colonial_War)
+
 [^102]: [Portuguese Colonial Wars - EBSCO Research](https://www.ebsco.com/research-starters/history/portuguese-colonial-wars)
+
 [^103]: [Tarrafal concentration camp - Wikipedia](https://en.wikipedia.org/wiki/Tarrafal_concentration_camp)
+
 [^104]: [TUDO PELA NACAO, NADA CONTRA A NACAO - ResearchGate](https://www.researchgate.net/publication/298439553_TUDO_PELA_NACAO_NADA_CONTRA_A_NACAO_SALAZAR_THE_CREATION_OF_THE_DEPARTMENT_OF_NATIONAL_PROPAGANDA_AND_CENSORSHIP)
+
 [^105]: [Some Portuguese Still Haven't Accepted the Revolution - Jacobin](https://jacobin.com/2024/04/portugal-far-right-chega-salazar-nostalgia)
+
 [^106]: [António de Oliveira Salazar - Wikiquote](https://en.wikiquote.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^107]: [António de Oliveira Salazar - Wikiquote](https://en.wikiquote.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^108]: [António de Oliveira Salazar - Wikiquote](https://en.wikiquote.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^109]: [António de Oliveira Salazar Quotes - A-Z Quotes](https://www.azquotes.com/author/68683-Antonio_de_Oliveira_Salazar)
+
 [^110]: [António de Oliveira Salazar - Wikiquote](https://en.wikiquote.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^111]: [António de Oliveira Salazar - Wikiquote](https://en.wikiquote.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^112]: [António de Oliveira Salazar - Wikiquote](https://en.wikiquote.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)
+
 [^113]: [António de Oliveira Salazar - Wikiquote](https://en.wikiquote.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar)

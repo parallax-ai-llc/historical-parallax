@@ -23,7 +23,7 @@ François Duvalier was born on April 14, 1907, in Port-au-Prince, Haiti, into a 
 
 Duvalier received his primary education at the Lycée Pétion in Port-au-Prince, one of Haiti's most prestigious schools, where he proved to be a serious and studious young man. He went on to study medicine at the University of Haiti, graduating in 1934 with a degree that would earn him the moniker "Doc" (later transformed into the more paternal "Papa Doc" during his political career). His medical training came at a time when Haiti was developing its public health infrastructure, and Duvalier would spend over a decade working in rural areas treating diseases affecting the poor.[^5][^6]
 
-During his time as a medical student and young physician, Duvalier was deeply influenced by the Négritude movement and the ethnological studies emerging from Haiti's intellectual circles. He became associated with Dr. Jean Price-Mars, a prominent Haitian intellectual who promoted the appreciation of African cultural heritage and criticized Haiti's francophile elite. Duvalier co-founded the journal *Les Griots* in 1938, which promoted black nationalism and the study of Haitian folklore and Vodou as legitimate cultural expressions. This intellectual formation would provide the ideological foundation for his later political movement, known as *Noirisme* (blackism), which positioned itself against the traditional dominance of the mulatto elite.[^7][^8]
+During his time as a medical student and young physician, Duvalier was deeply influenced by the Négritude movement and the ethnological studies emerging from Haiti's intellectual circles. He became associated with Dr. Jean Price-Mars, a prominent Haitian intellectual who promoted the appreciation of African cultural heritage and criticized Haiti's francophile elite. Duvalier co-founded the journal _Les Griots_ in 1938, which promoted black nationalism and the study of Haitian folklore and Vodou as legitimate cultural expressions. This intellectual formation would provide the ideological foundation for his later political movement, known as _Noirisme_ (blackism), which positioned itself against the traditional dominance of the mulatto elite.[^7][^8]
 
 In the 1940s, Duvalier worked extensively in Haiti's countryside as part of American-sponsored campaigns against yaws and other tropical diseases. This work brought him into contact with Haiti's impoverished rural majority and gave him insight into the power structures of the countryside. He also served as director general of the National Public Health Service under President Dumarsais Estimé, a black president whose overthrow by the military in 1950 radicalized Duvalier's political views. These experiences in rural health work and government service provided Duvalier with both a populist image and an understanding of how to mobilize rural support.[^9][^10]
 
@@ -31,7 +31,7 @@ In the 1940s, Duvalier worked extensively in Haiti's countryside as part of Amer
 
 ## Rise to Power
 
-François Duvalier's path to power began in earnest after the 1950 coup that overthrew President Dumarsais Estimé, whose government had included Duvalier as a health minister. Following the coup, Duvalier went into hiding and organized opposition to the military government of Paul Magloire. During this period, he cultivated his image as a champion of Haiti's black majority against the lighter-skinned elite who had traditionally dominated Haitian politics and economics. His *Noirisme* ideology resonated with many Haitians who felt marginalized by the color-based class system that had persisted since colonial times.[^11][^12]
+François Duvalier's path to power began in earnest after the 1950 coup that overthrew President Dumarsais Estimé, whose government had included Duvalier as a health minister. Following the coup, Duvalier went into hiding and organized opposition to the military government of Paul Magloire. During this period, he cultivated his image as a champion of Haiti's black majority against the lighter-skinned elite who had traditionally dominated Haitian politics and economics. His _Noirisme_ ideology resonated with many Haitians who felt marginalized by the color-based class system that had persisted since colonial times.[^11][^12]
 
 When Magloire was forced to resign in December 1956, Haiti entered a period of political instability with several provisional governments in rapid succession. Duvalier emerged as a presidential candidate in the 1957 elections, presenting himself as a humble country doctor who understood the needs of the poor. He skillfully manipulated the racial divisions in Haitian society, positioning himself as the authentic representative of the black masses against his main opponent, Louis Déjoie, a wealthy mulatto industrialist. Duvalier's campaign received covert support from the military, particularly from officers who feared that Déjoie's election would threaten their positions.[^13][^14]
 
@@ -45,7 +45,7 @@ By 1964, Duvalier had fully transformed Haiti from a constitutional republic int
 
 ## Major Achievements
 
-While François Duvalier's regime is primarily remembered for its brutality and repression, supporters and some historians have identified certain accomplishments, though these must be weighed against the massive human costs of his dictatorship. Duvalier's primary claimed achievement was empowering Haiti's black majority and dismantling the centuries-old dominance of the mulatto elite. Through his *Noirisme* ideology and policies, he promoted black Haitians to positions of power in government, military, and business, fundamentally altering Haiti's traditional power structure. For many dark-skinned Haitians who had been systematically excluded from positions of influence, Duvalier's presidency represented a historic shift in racial politics, even if his methods were authoritarian.[^21][^22]
+While François Duvalier's regime is primarily remembered for its brutality and repression, supporters and some historians have identified certain accomplishments, though these must be weighed against the massive human costs of his dictatorship. Duvalier's primary claimed achievement was empowering Haiti's black majority and dismantling the centuries-old dominance of the mulatto elite. Through his _Noirisme_ ideology and policies, he promoted black Haitians to positions of power in government, military, and business, fundamentally altering Haiti's traditional power structure. For many dark-skinned Haitians who had been systematically excluded from positions of influence, Duvalier's presidency represented a historic shift in racial politics, even if his methods were authoritarian.[^21][^22]
 
 Duvalier successfully maintained Haitian independence and sovereignty during the Cold War, resisting pressures from both the United States and Cuba. While he accepted American aid, he skillfully played on American fears of "another Cuba" in the Caribbean to maintain support despite human rights abuses. When President John F. Kennedy attempted to pressure him with aid cuts in the early 1960s, Duvalier responded defiantly, and ultimately outlasted the Kennedy administration's efforts to remove him. This demonstrated a certain political acumen in navigating great power politics from a position of weakness.[^23][^24]
 
@@ -69,7 +69,7 @@ Massive corruption characterized every aspect of Duvalier's government. He treat
 
 The regime's economic policies were disastrous for Haiti's development. While Duvalier claimed to represent the poor, his kleptocratic rule and political instability deterred investment and destroyed economic growth. Agricultural production declined, infrastructure deteriorated, and poverty deepened during his tenure. The flight of capital and skilled workers, combined with international isolation due to human rights abuses, left Haiti increasingly impoverished. What limited economic growth occurred primarily benefited Duvalier, his family, and his cronies, while the majority of Haitians saw their living standards decline.[^39][^40]
 
-Duvalier's manipulation of Vodou for political purposes represented a cynical exploitation of Haitian culture. He carefully cultivated an image as a Vodou priest or *houngan*, dressing in black suits and dark glasses reminiscent of Baron Samedi, the *loa* of death. This was designed to create supernatural fear among Haiti's largely rural and religious population. While defenders argue this represented cultural authenticity, critics note that Duvalier simultaneously persecuted Vodou priests who did not support him and used religious imagery purely as a tool of political control and intimidation.[^41][^42]
+Duvalier's manipulation of Vodou for political purposes represented a cynical exploitation of Haitian culture. He carefully cultivated an image as a Vodou priest or _houngan_, dressing in black suits and dark glasses reminiscent of Baron Samedi, the _loa_ of death. This was designed to create supernatural fear among Haiti's largely rural and religious population. While defenders argue this represented cultural authenticity, critics note that Duvalier simultaneously persecuted Vodou priests who did not support him and used religious imagery purely as a tool of political control and intimidation.[^41][^42]
 
 The regime's relationship with the Catholic Church deteriorated into open conflict when church leaders criticized human rights abuses. Duvalier expelled foreign priests and bishops, including Archbishop François Poirier, and established state control over the Church. He excommunicated himself through these actions, leading to a surreal situation where he was simultaneously the leader of a Catholic country and under papal excommunication. The conflict deprived Haiti of important educational and charitable services provided by the Church while further isolating the regime internationally.[^43][^44]
 
@@ -89,7 +89,7 @@ Duvalier was reportedly a voracious reader with particular interests in Haitian 
 
 His health declined significantly in his final years. In 1959, he suffered a severe heart attack that left him in a coma and prompted a power struggle among his associates. He recovered but was never fully healthy afterward, suffering from diabetes and heart disease. As his health deteriorated in the late 1960s, he became obsessed with ensuring his son Jean-Claude would succeed him, grooming the young man for power and systematically eliminating potential rivals. His determination to create a dynasty demonstrated that his rule was never about ideology but about personal and family power.[^55][^56]
 
-Despite his brutality, Duvalier maintained some genuine supporters, particularly among rural black Haitians who saw him as their champion against the traditional elite. Some of this support was based on genuine belief in his *Noirisme* ideology, while much was the result of patronage networks and fear. Even critics acknowledged that he had a certain charisma among his base and could deliver effective populist rhetoric that resonated with Haiti's poor, even as his policies impoverished them further. This ability to maintain a core of genuine support despite obvious failures was one of his key political skills.[^57][^58]
+Despite his brutality, Duvalier maintained some genuine supporters, particularly among rural black Haitians who saw him as their champion against the traditional elite. Some of this support was based on genuine belief in his _Noirisme_ ideology, while much was the result of patronage networks and fear. Even critics acknowledged that he had a certain charisma among his base and could deliver effective populist rhetoric that resonated with Haiti's poor, even as his policies impoverished them further. This ability to maintain a core of genuine support despite obvious failures was one of his key political skills.[^57][^58]
 
 ---
 
@@ -103,7 +103,7 @@ Duvalier's establishment of a dynastic dictatorship by ensuring his son Jean-Cla
 
 The destruction of political opposition and civil society under Duvalier created a vacuum that was filled by political violence and instability after his regime ended. Without functioning democratic institutions or established opposition parties, post-Duvalier Haiti experienced coups, contested elections, foreign interventions, and chronic instability. The pattern of political violence established during the Duvalier years became normalized, with various factions using similar tactics of intimidation and terror. This legacy of violence continues to affect Haitian politics today.[^65][^66]
 
-Culturally, Duvalier's manipulative use of Vodou and African heritage complicated discussions about Haitian identity and culture. While he brought some recognition to aspects of Haitian culture previously stigmatized, his instrumental use of these elements for political control tainted them. The association between authoritarianism and *Noirisme* ideology made it difficult for subsequent movements to mobilize around Haitian cultural nationalism without being accused of Duvalierism. This complicated Haiti's cultural politics and debates about identity in the post-Duvalier period.[^67][^68]
+Culturally, Duvalier's manipulative use of Vodou and African heritage complicated discussions about Haitian identity and culture. While he brought some recognition to aspects of Haitian culture previously stigmatized, his instrumental use of these elements for political control tainted them. The association between authoritarianism and _Noirisme_ ideology made it difficult for subsequent movements to mobilize around Haitian cultural nationalism without being accused of Duvalierism. This complicated Haiti's cultural politics and debates about identity in the post-Duvalier period.[^67][^68]
 
 Internationally, Duvalier's regime damaged Haiti's reputation and relationships with the international community. His human rights abuses led to isolation, aid cuts, and international condemnation. The association between Haiti and brutal dictatorship became fixed in international imagination, overshadowing Haiti's earlier significance as the first Black republic and site of the only successful slave revolution. This reputational damage has had lasting effects on Haiti's international standing and its ability to attract investment and support.[^69][^70]
 
@@ -117,7 +117,7 @@ Despite the overwhelmingly negative assessment, a minority of Haitians, particul
 
 ### Positive Views
 
-Some scholars and supporters have attempted to identify positive aspects of Duvalier's rule, though these remain minority positions in historical scholarship. Defenders argue that Duvalier genuinely transformed Haitian racial politics by breaking the mulatto elite's monopoly on power and creating opportunities for black Haitians in government, business, and society. Political scientist Robert Fatton Jr., while critical overall, acknowledged that Duvalier's *Noirisme* represented an authentic response to Haiti's color-based class system and resonated with real grievances among the black majority who had been systematically excluded from power.[^75][^76]
+Some scholars and supporters have attempted to identify positive aspects of Duvalier's rule, though these remain minority positions in historical scholarship. Defenders argue that Duvalier genuinely transformed Haitian racial politics by breaking the mulatto elite's monopoly on power and creating opportunities for black Haitians in government, business, and society. Political scientist Robert Fatton Jr., while critical overall, acknowledged that Duvalier's _Noirisme_ represented an authentic response to Haiti's color-based class system and resonated with real grievances among the black majority who had been systematically excluded from power.[^75][^76]
 
 Some business interests, particularly during the early years of his regime, appreciated the political stability Duvalier provided after decades of coups and governmental instability. A few investors argued that whatever his faults, Duvalier created predictability that allowed for economic planning. This view, while acknowledging the regime's problems, suggested that authoritarian stability was preferable to democratic chaos in the Haitian context. However, critics note that this stability was purchased at enormous human cost and that economic benefits flowed primarily to Duvalier and his cronies.[^77][^78]
 
@@ -141,7 +141,7 @@ Haitian intellectuals and diaspora communities have been particularly harsh in t
 
 Political scientists studying authoritarianism have used Duvalier as an example of totalitarian rule in a developing country context. Scholars like Bernard Diederich, who covered Haiti as a journalist and later wrote extensively on Duvalier, described a regime that combined modern totalitarian techniques with traditional Caribbean strongman politics, creating a particularly effective and brutal form of dictatorship. These studies emphasize how Duvalier systematically destroyed all independent centers of power and created a personalist dictatorship completely centered on his will.[^93][^94]
 
-Critics of *Noirisme* ideology argue that Duvalier cynically exploited racial grievances for personal power rather than genuinely advancing the interests of black Haitians. They note that while he promoted some black Haitians to positions of power, the majority of the black poor saw no improvement in their conditions and in fact became poorer during his rule. The ideology, they argue, was simply a tool for mobilizing support and dividing opposition rather than a genuine program for racial justice.[^95][^96]
+Critics of _Noirisme_ ideology argue that Duvalier cynically exploited racial grievances for personal power rather than genuinely advancing the interests of black Haitians. They note that while he promoted some black Haitians to positions of power, the majority of the black poor saw no improvement in their conditions and in fact became poorer during his rule. The ideology, they argue, was simply a tool for mobilizing support and dividing opposition rather than a genuine program for racial justice.[^95][^96]
 
 International relations scholars have criticized the United States and other powers for supporting Duvalier despite knowledge of his human rights abuses. They argue that Cold War geopolitics led to a moral failure where anti-communism was prioritized over human rights and democracy. This support enabled Duvalier's brutality and contributed to Haiti's devastation. The Duvalier case, they contend, demonstrates the failures of realpolitik approaches that sacrifice human rights for short-term strategic interests.[^97][^98]
 
@@ -149,28 +149,28 @@ International relations scholars have criticized the United States and other pow
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1907 | Born on April 14 in Port-au-Prince, Haiti |
-| 1934 | Graduated from University of Haiti with medical degree |
-| 1938 | Co-founded *Les Griots* journal promoting black nationalism |
-| 1939 | Married Simone Ovide Faine |
-| 1943-1946 | Worked on American-sponsored public health campaigns in rural Haiti |
+| Year      | Event                                                                               |
+| --------- | ----------------------------------------------------------------------------------- |
+| 1907      | Born on April 14 in Port-au-Prince, Haiti                                           |
+| 1934      | Graduated from University of Haiti with medical degree                              |
+| 1938      | Co-founded _Les Griots_ journal promoting black nationalism                         |
+| 1939      | Married Simone Ovide Faine                                                          |
+| 1943-1946 | Worked on American-sponsored public health campaigns in rural Haiti                 |
 | 1946-1950 | Served as Director General of National Public Health Service under President Estimé |
-| 1950-1956 | Went into hiding after military coup; organized opposition movement |
-| 1957 | Elected President of Haiti on September 22 through fraudulent election |
-| 1957 | Inaugurated as President on October 22 |
-| 1958 | Created the Tonton Macoutes militia (Volunteers for National Security) |
-| 1959 | Survived serious heart attack and coma; initiated first major purges |
-| 1961 | Survived coup attempt; intensified repression and persecution |
-| 1961 | Conflict with Catholic Church began; expelled foreign clergy |
-| 1962 | Received papal excommunication due to persecution of Church |
-| 1963 | Kennedy administration cut aid; Duvalier resisted American pressure |
-| 1964 | Declared himself "President for Life" on June 22 following sham referendum |
-| 1964-1971 | Period of maximum repression; tens of thousands killed or exiled |
-| 1967 | Announced that Jean-Claude would succeed him as president |
-| 1971 | Died on April 21 from heart disease and diabetes complications |
-| 1971 | Jean-Claude Duvalier succeeded him, continuing dynastic rule until 1986 |
+| 1950-1956 | Went into hiding after military coup; organized opposition movement                 |
+| 1957      | Elected President of Haiti on September 22 through fraudulent election              |
+| 1957      | Inaugurated as President on October 22                                              |
+| 1958      | Created the Tonton Macoutes militia (Volunteers for National Security)              |
+| 1959      | Survived serious heart attack and coma; initiated first major purges                |
+| 1961      | Survived coup attempt; intensified repression and persecution                       |
+| 1961      | Conflict with Catholic Church began; expelled foreign clergy                        |
+| 1962      | Received papal excommunication due to persecution of Church                         |
+| 1963      | Kennedy administration cut aid; Duvalier resisted American pressure                 |
+| 1964      | Declared himself "President for Life" on June 22 following sham referendum          |
+| 1964-1971 | Period of maximum repression; tens of thousands killed or exiled                    |
+| 1967      | Announced that Jean-Claude would succeed him as president                           |
+| 1971      | Died on April 21 from heart disease and diabetes complications                      |
+| 1971      | Jean-Claude Duvalier succeeded him, continuing dynastic rule until 1986             |
 
 ---
 
@@ -184,112 +184,214 @@ International relations scholars have criticized the United States and other pow
 
 > "My government has no problems with the Haitian people, only with a handful of intellectuals." - Context: Statement dismissing opposition and justifying persecution of educated Haitians, reflecting his hostility to independent thought and intellectual dissent.[^102]
 
-> "The revolutions which have stirred the country from 1843 to 1915 have had no other cause than the competition between the politicians of the black class and those of the mulatto class for power." - Context: From his writings on Haitian history, articulating the racial analysis that underpinned his *Noirisme* ideology and political movement.[^103]
+> "The revolutions which have stirred the country from 1843 to 1915 have had no other cause than the competition between the politicians of the black class and those of the mulatto class for power." - Context: From his writings on Haitian history, articulating the racial analysis that underpinned his _Noirisme_ ideology and political movement.[^103]
 
 ---
 
 ## References
 
-[^1]: Heinl, Robert Debs, and Nancy Gordon Heinl. *Written in Blood: The Story of the Haitian People 1492-1995*. University Press of America, 2005.
-[^2]: Diederich, Bernard, and Al Burt. *Papa Doc: Haiti and Its Dictator*. Markus Wiener Publishers, 2005.
-[^3]: Nicholls, David. *From Dessalines to Duvalier: Race, Colour and National Independence in Haiti*. Cambridge University Press, 1979.
-[^4]: Abbott, Elizabeth. *Haiti: The Duvaliers and Their Legacy*. Simon and Schuster, 1988.
-[^5]: Ferguson, James. *Papa Doc, Baby Doc: Haiti and the Duvaliers*. Basil Blackwell, 1987.
-[^6]: Trouillot, Michel-Rolph. *Haiti, State Against Nation: The Origins and Legacy of Duvalierism*. Monthly Review Press, 1990.
-[^7]: Dash, J. Michael. *Haiti and the United States: National Stereotypes and the Literary Imagination*. Palgrave Macmillan, 1997.
-[^8]: Price-Mars, Jean. *So Spoke the Uncle*. Three Continents Press, 1983.
-[^9]: Farmer, Paul. *The Uses of Haiti*. Common Courage Press, 2006.
-[^10]: Laguerre, Michel S. *The Military and Society in Haiti*. University of Tennessee Press, 1993.
-[^11]: Bellegarde-Smith, Patrick. *Haiti: The Breached Citadel*. Westview Press, 1990.
-[^12]: Fatton, Robert. *Haiti's Predatory Republic: The Unending Transition to Democracy*. Lynne Rienner Publishers, 2002.
-[^13]: Dupuy, Alex. *Haiti in the World Economy: Class, Race, and Underdevelopment Since 1700*. Westview Press, 1989.
-[^14]: Logan, Rayford W. *Haiti and the Dominican Republic*. Oxford University Press, 1968.
-[^15]: Wilentz, Amy. *The Rainy Season: Haiti Since Duvalier*. Simon and Schuster, 1989.
-[^16]: Rotberg, Robert I. *Haiti: The Politics of Squalor*. Houghton Mifflin, 1971.
-[^17]: Lundahl, Mats. *Politics or Markets? Essays on Haitian Underdevelopment*. Routledge, 1992.
+[^1]: Heinl, Robert Debs, and Nancy Gordon Heinl. _Written in Blood: The Story of the Haitian People 1492-1995_. University Press of America, 2005.
+
+[^2]: Diederich, Bernard, and Al Burt. _Papa Doc: Haiti and Its Dictator_. Markus Wiener Publishers, 2005.
+
+[^3]: Nicholls, David. _From Dessalines to Duvalier: Race, Colour and National Independence in Haiti_. Cambridge University Press, 1979.
+
+[^4]: Abbott, Elizabeth. _Haiti: The Duvaliers and Their Legacy_. Simon and Schuster, 1988.
+
+[^5]: Ferguson, James. _Papa Doc, Baby Doc: Haiti and the Duvaliers_. Basil Blackwell, 1987.
+
+[^6]: Trouillot, Michel-Rolph. _Haiti, State Against Nation: The Origins and Legacy of Duvalierism_. Monthly Review Press, 1990.
+
+[^7]: Dash, J. Michael. _Haiti and the United States: National Stereotypes and the Literary Imagination_. Palgrave Macmillan, 1997.
+
+[^8]: Price-Mars, Jean. _So Spoke the Uncle_. Three Continents Press, 1983.
+
+[^9]: Farmer, Paul. _The Uses of Haiti_. Common Courage Press, 2006.
+
+[^10]: Laguerre, Michel S. _The Military and Society in Haiti_. University of Tennessee Press, 1993.
+
+[^11]: Bellegarde-Smith, Patrick. _Haiti: The Breached Citadel_. Westview Press, 1990.
+
+[^12]: Fatton, Robert. _Haiti's Predatory Republic: The Unending Transition to Democracy_. Lynne Rienner Publishers, 2002.
+
+[^13]: Dupuy, Alex. _Haiti in the World Economy: Class, Race, and Underdevelopment Since 1700_. Westview Press, 1989.
+
+[^14]: Logan, Rayford W. _Haiti and the Dominican Republic_. Oxford University Press, 1968.
+
+[^15]: Wilentz, Amy. _The Rainy Season: Haiti Since Duvalier_. Simon and Schuster, 1989.
+
+[^16]: Rotberg, Robert I. _Haiti: The Politics of Squalor_. Houghton Mifflin, 1971.
+
+[^17]: Lundahl, Mats. _Politics or Markets? Essays on Haitian Underdevelopment_. Routledge, 1992.
+
 [^18]: Heinl, Robert Debs. "Haiti: A Case Study of an Underdeveloped Area." PhD dissertation, 1951.
-[^19]: Laguerre, Michel S. *Voodoo and Politics in Haiti*. Palgrave Macmillan, 1989.
-[^20]: Human Rights Watch. *Haiti: Recycling Dictators*. 1994.
-[^21]: Nicholls, David. "Biology and Politics in Haiti." *Race and Class* 13, no. 3 (1972): 203-214.
-[^22]: Castor, Suzy. *L'Occupation Américaine d'Haïti*. Imprimerie Henri Deschamps, 1988.
-[^23]: Plummer, Brenda Gayle. *Haiti and the United States: The Psychological Moment*. University of Georgia Press, 1992.
-[^24]: Renda, Mary A. *Taking Haiti: Military Occupation and the Culture of U.S. Imperialism, 1915-1940*. University of North Carolina Press, 2001.
-[^25]: Weinstein, Brian, and Aaron Segal. *Haiti: The Failure of Politics*. Praeger, 1992.
-[^26]: Trouillot, Evelyne. "Memory at Bay: Testimonial Literature from Haiti's Nightmare." *Small Axe* 12, no. 2 (2008): 95-107.
-[^27]: Lemoine, Maurice. *Bitter Sugar*. Banner Press, 1985.
-[^28]: Maingot, Anthony P. "Haiti: Problems of a Transition to Democracy in an Authoritarian Soft State." *Journal of Interamerican Studies and World Affairs* 28, no. 4 (1986): 75-102.
-[^29]: McAlister, Elizabeth. *Rara! Vodou, Power, and Performance in Haiti and Its Diaspora*. University of California Press, 2002.
-[^30]: Brown, Karen McCarthy. *Mama Lola: A Vodou Priestess in Brooklyn*. University of California Press, 2001.
-[^31]: Corvington, Georges. *Port-au-Prince au Cours des Ans: La Ville Contemporaine 1934-1950*. Henri Deschamps, 1991.
-[^32]: Farmer, Paul. *AIDS and Accusation: Haiti and the Geography of Blame*. University of California Press, 2006.
-[^33]: Amnesty International. *Haiti: The Human Rights Record*. 1986.
-[^34]: Human Rights Watch Americas. *Haiti: Thirst for Justice*. 1996.
-[^35]: Stepick, Alex. "Haitian Boat People: A Study in the Conflicting Forces Shaping U.S. Immigration Policy." *Law and Contemporary Problems* 45, no. 2 (1982): 163-196.
-[^36]: Laguerre, Michel S. *Diasporic Citizenship: Haitian Americans in Transnational America*. Palgrave Macmillan, 1998.
-[^37]: Greene, Graham. *The Comedians*. Viking Press, 1966.
-[^38]: Charles, Jacqueline. "The Duvalier Legacy in Haiti." *Miami Herald*, February 7, 2014.
-[^39]: Dupuy, Alex. *The Prophet and Power: Jean-Bertrand Aristide, the International Community, and Haiti*. Rowman & Littlefield, 2007.
-[^40]: Lundahl, Mats. *Peasants and Poverty: A Study of Haiti*. Croom Helm, 1979.
-[^41]: Dayan, Joan. *Haiti, History, and the Gods*. University of California Press, 1995.
-[^42]: Métraux, Alfred. *Voodoo in Haiti*. Schocken Books, 1972.
-[^43]: Davis, Wade. *The Serpent and the Rainbow*. Simon and Schuster, 1985.
-[^44]: Conway, Frederick J. "Pentecostalism in Haiti: Healing and Hierarchy." In *Perspectives on Pentecostalism: Case Studies from the Caribbean and Latin America*, edited by Stephen D. Glazier, 7-26. University Press of America, 1980.
-[^45]: Danticat, Edwidge. *The Dew Breaker*. Knopf, 2004.
-[^46]: Wucker, Michele. *Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola*. Hill and Wang, 1999.
-[^47]: Abbott, Elizabeth. "Simone Ovide Duvalier: The Black Widow of Haiti." In *Haiti: The Duvaliers and Their Legacy*, 145-178. Simon and Schuster, 1988.
-[^48]: Perusse, Roland I. *Historical Dictionary of Haiti*. Scarecrow Press, 1977.
-[^49]: Diederich, Bernard. *The Price of Blood: History of Repression and Rebellion in Haiti Under Dr. François Duvalier, 1957-1961*. Markus Wiener Publishers, 2011.
-[^50]: Ridgeway, James, ed. *The Haiti Files: Decoding the Crisis*. Essential Books, 1994.
-[^51]: Hurbon, Laënnec. *Voodoo: Search for the Spirit*. Harry N. Abrams, 1995.
-[^52]: Girard, Philippe. *Haiti: The Tumultuous History*. Palgrave Macmillan, 2010.
-[^53]: Schmidt, Hans. *The United States Occupation of Haiti, 1915-1934*. Rutgers University Press, 1971.
-[^54]: Fick, Carolyn E. *The Making of Haiti: The Saint Domingue Revolution from Below*. University of Tennessee Press, 1990.
-[^55]: Manigat, Leslie F. *Haiti of the Sixties, Object of International Concern*. Washington Center of Foreign Policy Research, 1964.
-[^56]: Pierre-Charles, Gérard. *Radiographie d'une Dictature: Haïti et Duvalier*. Nouvelle Optique, 1973.
-[^57]: Trouillot, Michel-Rolph. "The Odd and the Ordinary: Haiti, the Caribbean, and the World." *Cimarrón: New Perspectives on the Caribbean* 2, no. 3 (1990): 3-12.
-[^58]: Dubois, Laurent. *Haiti: The Aftershocks of History*. Metropolitan Books, 2012.
-[^59]: Shacochis, Bob. *The Immaculate Invasion*. Viking, 1999.
-[^60]: Paquin, Lyonel. *The Haitians: Class and Color Politics*. Multi-Type, 1983.
-[^61]: World Bank. *Haiti: Public Expenditure Management and Financial Accountability Review*. 2009.
-[^62]: Maguire, Robert. *Bottom-Up Development in Haiti*. Inter-American Foundation, 1981.
-[^63]: Aristide, Jean-Bertrand. *In the Parish of the Poor*. Orbis Books, 1990.
-[^64]: Deibert, Michael. *Notes from the Last Testament: The Struggle for Haiti*. Seven Stories Press, 2005.
-[^65]: Stotzky, Irwin P. *Silencing the Guns in Haiti: The Promise of Deliberative Democracy*. University of Chicago Press, 1997.
-[^66]: Fatton, Robert. *The Roots of Haitian Despotism*. Lynne Rienner Publishers, 2007.
-[^67]: Dash, J. Michael. *Culture and Customs of Haiti*. Greenwood Press, 2001.
-[^68]: Largey, Michael. *Vodou Nation: Haitian Art Music and Cultural Nationalism*. University of Chicago Press, 2006.
-[^69]: Schuller, Mark. *Killing with Kindness: Haiti, International Aid, and NGOs*. Rutgers University Press, 2012.
-[^70]: Hallward, Peter. *Damming the Flood: Haiti, Aristide, and the Politics of Containment*. Verso, 2007.
-[^71]: Concannon, Brian, Jr. "Beyond Complementarity: The International Criminal Court and National Prosecutions, a View from Haiti." *Columbia Human Rights Law Review* 32, no. 1 (2000): 201-250.
-[^72]: O'Neill, William G. "Human Rights Monitoring vs. Political Expediency: The Experience of the OAS/UN Mission in Haiti." *Harvard Human Rights Journal* 8 (1995): 101-128.
-[^73]: Beckett, Greg. *There Is No More Haiti: Between Life and Death in Port-au-Prince*. University of California Press, 2019.
-[^74]: Polyné, Millery. *From Douglass to Duvalier: U.S. African Americans, Haiti, and Pan Americanism, 1870-1964*. University Press of Florida, 2010.
-[^75]: Fatton, Robert. "The Impairments of Democratization: Haiti in Comparative Perspective." *Comparative Politics* 31, no. 2 (1999): 209-230.
-[^76]: Nicholls, David. "Race, Couleur and Independence in Haiti." In *Slavery and British Society 1776-1846*, edited by James Walvin, 225-241. Louisiana State University Press, 1982.
-[^77]: DeWind, Josh, and David H. Kinley III. *Aiding Migration: The Impact of International Development Assistance on Haiti*. Westview Press, 1988.
-[^78]: Weinstein, Brian. "The Uses of Foreign Policy in Indonesia and Haiti." *World Politics* 24, no. 3 (1972): 419-444.
-[^79]: Dash, J. Michael. *Literature and Ideology in Haiti, 1915-1961*. Barnes & Noble, 1981.
-[^80]: Deren, Maya. *Divine Horsemen: The Living Gods of Haiti*. McPherson & Company, 1953.
-[^81]: Fauriol, Georges A., and Andrew S. Faiola. *Haitian Frustrations: Dilemmas for U.S. Policy*. Center for Strategic and International Studies, 1988.
-[^82]: Langley, Lester D. *The United States and the Caribbean in the Twentieth Century*. University of Georgia Press, 1989.
-[^83]: Bellegarde-Smith, Patrick. *In the Shadow of Powers: Dantès Bellegarde in Haitian Social Thought*. Humanities Press, 1985.
-[^84]: Chomsky, Noam, Paul Farmer, and Amy Goodman. *Getting Haiti Right This Time: The U.S. and the Coup*. Common Courage Press, 2004.
+
+[^19]: Laguerre, Michel S. _Voodoo and Politics in Haiti_. Palgrave Macmillan, 1989.
+
+[^20]: Human Rights Watch. _Haiti: Recycling Dictators_. 1994.
+
+[^21]: Nicholls, David. "Biology and Politics in Haiti." _Race and Class_ 13, no. 3 (1972): 203-214.
+
+[^22]: Castor, Suzy. _L'Occupation Américaine d'Haïti_. Imprimerie Henri Deschamps, 1988.
+
+[^23]: Plummer, Brenda Gayle. _Haiti and the United States: The Psychological Moment_. University of Georgia Press, 1992.
+
+[^24]: Renda, Mary A. _Taking Haiti: Military Occupation and the Culture of U.S. Imperialism, 1915-1940_. University of North Carolina Press, 2001.
+
+[^25]: Weinstein, Brian, and Aaron Segal. _Haiti: The Failure of Politics_. Praeger, 1992.
+
+[^26]: Trouillot, Evelyne. "Memory at Bay: Testimonial Literature from Haiti's Nightmare." _Small Axe_ 12, no. 2 (2008): 95-107.
+
+[^27]: Lemoine, Maurice. _Bitter Sugar_. Banner Press, 1985.
+
+[^28]: Maingot, Anthony P. "Haiti: Problems of a Transition to Democracy in an Authoritarian Soft State." _Journal of Interamerican Studies and World Affairs_ 28, no. 4 (1986): 75-102.
+
+[^29]: McAlister, Elizabeth. _Rara! Vodou, Power, and Performance in Haiti and Its Diaspora_. University of California Press, 2002.
+
+[^30]: Brown, Karen McCarthy. _Mama Lola: A Vodou Priestess in Brooklyn_. University of California Press, 2001.
+
+[^31]: Corvington, Georges. _Port-au-Prince au Cours des Ans: La Ville Contemporaine 1934-1950_. Henri Deschamps, 1991.
+
+[^32]: Farmer, Paul. _AIDS and Accusation: Haiti and the Geography of Blame_. University of California Press, 2006.
+
+[^33]: Amnesty International. _Haiti: The Human Rights Record_. 1986.
+
+[^34]: Human Rights Watch Americas. _Haiti: Thirst for Justice_. 1996.
+
+[^35]: Stepick, Alex. "Haitian Boat People: A Study in the Conflicting Forces Shaping U.S. Immigration Policy." _Law and Contemporary Problems_ 45, no. 2 (1982): 163-196.
+
+[^36]: Laguerre, Michel S. _Diasporic Citizenship: Haitian Americans in Transnational America_. Palgrave Macmillan, 1998.
+
+[^37]: Greene, Graham. _The Comedians_. Viking Press, 1966.
+
+[^38]: Charles, Jacqueline. "The Duvalier Legacy in Haiti." _Miami Herald_, February 7, 2014.
+
+[^39]: Dupuy, Alex. _The Prophet and Power: Jean-Bertrand Aristide, the International Community, and Haiti_. Rowman & Littlefield, 2007.
+
+[^40]: Lundahl, Mats. _Peasants and Poverty: A Study of Haiti_. Croom Helm, 1979.
+
+[^41]: Dayan, Joan. _Haiti, History, and the Gods_. University of California Press, 1995.
+
+[^42]: Métraux, Alfred. _Voodoo in Haiti_. Schocken Books, 1972.
+
+[^43]: Davis, Wade. _The Serpent and the Rainbow_. Simon and Schuster, 1985.
+
+[^44]: Conway, Frederick J. "Pentecostalism in Haiti: Healing and Hierarchy." In _Perspectives on Pentecostalism: Case Studies from the Caribbean and Latin America_, edited by Stephen D. Glazier, 7-26. University Press of America, 1980.
+
+[^45]: Danticat, Edwidge. _The Dew Breaker_. Knopf, 2004.
+
+[^46]: Wucker, Michele. _Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola_. Hill and Wang, 1999.
+
+[^47]: Abbott, Elizabeth. "Simone Ovide Duvalier: The Black Widow of Haiti." In _Haiti: The Duvaliers and Their Legacy_, 145-178. Simon and Schuster, 1988.
+
+[^48]: Perusse, Roland I. _Historical Dictionary of Haiti_. Scarecrow Press, 1977.
+
+[^49]: Diederich, Bernard. _The Price of Blood: History of Repression and Rebellion in Haiti Under Dr. François Duvalier, 1957-1961_. Markus Wiener Publishers, 2011.
+
+[^50]: Ridgeway, James, ed. _The Haiti Files: Decoding the Crisis_. Essential Books, 1994.
+
+[^51]: Hurbon, Laënnec. _Voodoo: Search for the Spirit_. Harry N. Abrams, 1995.
+
+[^52]: Girard, Philippe. _Haiti: The Tumultuous History_. Palgrave Macmillan, 2010.
+
+[^53]: Schmidt, Hans. _The United States Occupation of Haiti, 1915-1934_. Rutgers University Press, 1971.
+
+[^54]: Fick, Carolyn E. _The Making of Haiti: The Saint Domingue Revolution from Below_. University of Tennessee Press, 1990.
+
+[^55]: Manigat, Leslie F. _Haiti of the Sixties, Object of International Concern_. Washington Center of Foreign Policy Research, 1964.
+
+[^56]: Pierre-Charles, Gérard. _Radiographie d'une Dictature: Haïti et Duvalier_. Nouvelle Optique, 1973.
+
+[^57]: Trouillot, Michel-Rolph. "The Odd and the Ordinary: Haiti, the Caribbean, and the World." _Cimarrón: New Perspectives on the Caribbean_ 2, no. 3 (1990): 3-12.
+
+[^58]: Dubois, Laurent. _Haiti: The Aftershocks of History_. Metropolitan Books, 2012.
+
+[^59]: Shacochis, Bob. _The Immaculate Invasion_. Viking, 1999.
+
+[^60]: Paquin, Lyonel. _The Haitians: Class and Color Politics_. Multi-Type, 1983.
+
+[^61]: World Bank. _Haiti: Public Expenditure Management and Financial Accountability Review_. 2009.
+
+[^62]: Maguire, Robert. _Bottom-Up Development in Haiti_. Inter-American Foundation, 1981.
+
+[^63]: Aristide, Jean-Bertrand. _In the Parish of the Poor_. Orbis Books, 1990.
+
+[^64]: Deibert, Michael. _Notes from the Last Testament: The Struggle for Haiti_. Seven Stories Press, 2005.
+
+[^65]: Stotzky, Irwin P. _Silencing the Guns in Haiti: The Promise of Deliberative Democracy_. University of Chicago Press, 1997.
+
+[^66]: Fatton, Robert. _The Roots of Haitian Despotism_. Lynne Rienner Publishers, 2007.
+
+[^67]: Dash, J. Michael. _Culture and Customs of Haiti_. Greenwood Press, 2001.
+
+[^68]: Largey, Michael. _Vodou Nation: Haitian Art Music and Cultural Nationalism_. University of Chicago Press, 2006.
+
+[^69]: Schuller, Mark. _Killing with Kindness: Haiti, International Aid, and NGOs_. Rutgers University Press, 2012.
+
+[^70]: Hallward, Peter. _Damming the Flood: Haiti, Aristide, and the Politics of Containment_. Verso, 2007.
+
+[^71]: Concannon, Brian, Jr. "Beyond Complementarity: The International Criminal Court and National Prosecutions, a View from Haiti." _Columbia Human Rights Law Review_ 32, no. 1 (2000): 201-250.
+
+[^72]: O'Neill, William G. "Human Rights Monitoring vs. Political Expediency: The Experience of the OAS/UN Mission in Haiti." _Harvard Human Rights Journal_ 8 (1995): 101-128.
+
+[^73]: Beckett, Greg. _There Is No More Haiti: Between Life and Death in Port-au-Prince_. University of California Press, 2019.
+
+[^74]: Polyné, Millery. _From Douglass to Duvalier: U.S. African Americans, Haiti, and Pan Americanism, 1870-1964_. University Press of Florida, 2010.
+
+[^75]: Fatton, Robert. "The Impairments of Democratization: Haiti in Comparative Perspective." _Comparative Politics_ 31, no. 2 (1999): 209-230.
+
+[^76]: Nicholls, David. "Race, Couleur and Independence in Haiti." In _Slavery and British Society 1776-1846_, edited by James Walvin, 225-241. Louisiana State University Press, 1982.
+
+[^77]: DeWind, Josh, and David H. Kinley III. _Aiding Migration: The Impact of International Development Assistance on Haiti_. Westview Press, 1988.
+
+[^78]: Weinstein, Brian. "The Uses of Foreign Policy in Indonesia and Haiti." _World Politics_ 24, no. 3 (1972): 419-444.
+
+[^79]: Dash, J. Michael. _Literature and Ideology in Haiti, 1915-1961_. Barnes & Noble, 1981.
+
+[^80]: Deren, Maya. _Divine Horsemen: The Living Gods of Haiti_. McPherson & Company, 1953.
+
+[^81]: Fauriol, Georges A., and Andrew S. Faiola. _Haitian Frustrations: Dilemmas for U.S. Policy_. Center for Strategic and International Studies, 1988.
+
+[^82]: Langley, Lester D. _The United States and the Caribbean in the Twentieth Century_. University of Georgia Press, 1989.
+
+[^83]: Bellegarde-Smith, Patrick. _In the Shadow of Powers: Dantès Bellegarde in Haitian Social Thought_. Humanities Press, 1985.
+
+[^84]: Chomsky, Noam, Paul Farmer, and Amy Goodman. _Getting Haiti Right This Time: The U.S. and the Coup_. Common Courage Press, 2004.
+
 [^85]: Heinl, Robert Debs. "Haiti: A Case Study of an Underdeveloped Country." PhD dissertation, 1951.
-[^86]: Heinl, Nancy Gordon. "Historical Dictionary of Haiti." *American Historical Review* 83, no. 5 (1978): 1420-1421.
-[^87]: Amnesty International. *Annual Report on Haiti*. 1985.
-[^88]: Human Rights Watch. *Thirst for Justice: A Decade of Impunity in Haiti*. 1996.
-[^89]: World Bank. *Haiti: Policy Proposals for Growth*. 1998.
-[^90]: Lundahl, Mats. "Papa Doc: Innovator in the Predatory State." *Scandia* 50, no. 1 (1984): 39-78.
-[^91]: Danticat, Edwidge. *Create Dangerously: The Immigrant Artist at Work*. Princeton University Press, 2010.
-[^92]: Trouillot, Lyonel. *Street of Lost Footsteps*. University of Nebraska Press, 2013.
-[^93]: Diederich, Bernard. *Somoza and the Legacy of U.S. Involvement in Central America*. Markus Wiener Publishers, 2007.
-[^94]: Diederich, Bernard. "François Duvalier: Architect of Haiti's Ruin." *Caribbean Review* 15, no. 2 (1986): 18-21.
-[^95]: Dash, J. Michael. "Marvellous Realism: The Way Out of Négritude." *Caribbean Studies* 13, no. 4 (1974): 57-70.
-[^96]: Trouillot, Michel-Rolph. "The Caribbean Region: An Open Frontier in Anthropological Theory." *Annual Review of Anthropology* 21 (1992): 19-42.
-[^97]: Farmer, Paul. "Who Removed Aristide?" *London Review of Books* 26, no. 8 (2004): 28-31.
-[^98]: Schulz, Donald E., and Douglas H. Graham, eds. *Revolution and Counterrevolution in Central America and the Caribbean*. Westview Press, 1984.
-[^99]: Abbott, Elizabeth. *Haiti: The Duvaliers and Their Legacy*, 98. Simon and Schuster, 1988.
-[^100]: Diederich, Bernard. *Papa Doc: Haiti and Its Dictator*, 156. Markus Wiener Publishers, 2005.
-[^101]: Ferguson, James. *Papa Doc, Baby Doc: Haiti and the Duvaliers*, 43. Basil Blackwell, 1987.
-[^102]: Heinl, Robert Debs, and Nancy Gordon Heinl. *Written in Blood*, 587. University Press of America, 2005.
-[^103]: Duvalier, François. *Oeuvres Essentielles*. Presses Nationales d'Haïti, 1968.
+
+[^86]: Heinl, Nancy Gordon. "Historical Dictionary of Haiti." _American Historical Review_ 83, no. 5 (1978): 1420-1421.
+
+[^87]: Amnesty International. _Annual Report on Haiti_. 1985.
+
+[^88]: Human Rights Watch. _Thirst for Justice: A Decade of Impunity in Haiti_. 1996.
+
+[^89]: World Bank. _Haiti: Policy Proposals for Growth_. 1998.
+
+[^90]: Lundahl, Mats. "Papa Doc: Innovator in the Predatory State." _Scandia_ 50, no. 1 (1984): 39-78.
+
+[^91]: Danticat, Edwidge. _Create Dangerously: The Immigrant Artist at Work_. Princeton University Press, 2010.
+
+[^92]: Trouillot, Lyonel. _Street of Lost Footsteps_. University of Nebraska Press, 2013.
+
+[^93]: Diederich, Bernard. _Somoza and the Legacy of U.S. Involvement in Central America_. Markus Wiener Publishers, 2007.
+
+[^94]: Diederich, Bernard. "François Duvalier: Architect of Haiti's Ruin." _Caribbean Review_ 15, no. 2 (1986): 18-21.
+
+[^95]: Dash, J. Michael. "Marvellous Realism: The Way Out of Négritude." _Caribbean Studies_ 13, no. 4 (1974): 57-70.
+
+[^96]: Trouillot, Michel-Rolph. "The Caribbean Region: An Open Frontier in Anthropological Theory." _Annual Review of Anthropology_ 21 (1992): 19-42.
+
+[^97]: Farmer, Paul. "Who Removed Aristide?" _London Review of Books_ 26, no. 8 (2004): 28-31.
+
+[^98]: Schulz, Donald E., and Douglas H. Graham, eds. _Revolution and Counterrevolution in Central America and the Caribbean_. Westview Press, 1984.
+
+[^99]: Abbott, Elizabeth. _Haiti: The Duvaliers and Their Legacy_, 98. Simon and Schuster, 1988.
+
+[^100]: Diederich, Bernard. _Papa Doc: Haiti and Its Dictator_, 156. Markus Wiener Publishers, 2005.
+
+[^101]: Ferguson, James. _Papa Doc, Baby Doc: Haiti and the Duvaliers_, 43. Basil Blackwell, 1987.
+
+[^102]: Heinl, Robert Debs, and Nancy Gordon Heinl. _Written in Blood_, 587. University Press of America, 2005.
+
+[^103]: Duvalier, François. _Oeuvres Essentielles_. Presses Nationales d'Haïti, 1968.

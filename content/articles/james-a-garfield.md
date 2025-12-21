@@ -157,31 +157,31 @@ Some revisionist historians also challenge the sympathetic narrative of Garfield
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1831 | Born November 19 in Orange Township, Ohio |
-| 1833 | Father dies, leaving family in poverty |
-| 1848 | Works as canal boat driver |
-| 1851 | Enters Geauga Seminary |
-| 1854 | Enrolls at Williams College, Massachusetts |
-| 1856 | Graduates from Williams College with honors |
-| 1857 | Becomes professor at Eclectic Institute |
-| 1858 | Marries Lucretia Rudolph; becomes president of Eclectic Institute |
-| 1859 | Elected to Ohio State Senate |
-| 1861 | Commissioned as lieutenant colonel, 42nd Ohio Infantry |
+| Year | Event                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------- |
+| 1831 | Born November 19 in Orange Township, Ohio                                                            |
+| 1833 | Father dies, leaving family in poverty                                                               |
+| 1848 | Works as canal boat driver                                                                           |
+| 1851 | Enters Geauga Seminary                                                                               |
+| 1854 | Enrolls at Williams College, Massachusetts                                                           |
+| 1856 | Graduates from Williams College with honors                                                          |
+| 1857 | Becomes professor at Eclectic Institute                                                              |
+| 1858 | Marries Lucretia Rudolph; becomes president of Eclectic Institute                                    |
+| 1859 | Elected to Ohio State Senate                                                                         |
+| 1861 | Commissioned as lieutenant colonel, 42nd Ohio Infantry                                               |
 | 1862 | Wins Battle of Middle Creek; promoted to brigadier general; elected to U.S. House of Representatives |
-| 1863 | Fights at Battle of Chickamauga; promoted to major general; takes seat in Congress |
-| 1864 | Serves on House Military Affairs Committee |
-| 1867 | Appointed to House Ways and Means Committee |
-| 1872 | Implicated in Crédit Mobilier scandal |
-| 1873 | Votes for controversial salary increase |
-| 1876 | Publishes proof of Pythagorean theorem |
-| 1877 | Supports Compromise of 1877, ending Reconstruction |
-| 1880 | Nominated for president on 36th ballot at Republican Convention; wins presidential election |
-| 1881 | Inaugurated as 20th President (March 4) |
-| 1881 | Clashes with Roscoe Conkling over patronage appointments |
-| 1881 | Shot by Charles Guiteau at Washington train station (July 2) |
-| 1881 | Dies from infections caused by medical treatment (September 19) |
+| 1863 | Fights at Battle of Chickamauga; promoted to major general; takes seat in Congress                   |
+| 1864 | Serves on House Military Affairs Committee                                                           |
+| 1867 | Appointed to House Ways and Means Committee                                                          |
+| 1872 | Implicated in Crédit Mobilier scandal                                                                |
+| 1873 | Votes for controversial salary increase                                                              |
+| 1876 | Publishes proof of Pythagorean theorem                                                               |
+| 1877 | Supports Compromise of 1877, ending Reconstruction                                                   |
+| 1880 | Nominated for president on 36th ballot at Republican Convention; wins presidential election          |
+| 1881 | Inaugurated as 20th President (March 4)                                                              |
+| 1881 | Clashes with Roscoe Conkling over patronage appointments                                             |
+| 1881 | Shot by Charles Guiteau at Washington train station (July 2)                                         |
+| 1881 | Dies from infections caused by medical treatment (September 19)                                      |
 
 ---
 
@@ -205,113 +205,222 @@ Some revisionist historians also challenge the sympathetic narrative of Garfield
 
 ## References
 
-[^1]: Peskin, Allan. *Garfield: A Biography*. Kent State University Press, 1978, p. 3.
-[^2]: Millard, Candice. *Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President*. Doubleday, 2011, p. 27.
-[^3]: Rutkow, Ira. *James A. Garfield*. Times Books, 2006, p. 12.
-[^4]: Peskin, Allan. *Garfield: A Biography*, p. 21.
-[^5]: Millard, Candice. *Destiny of the Republic*, p. 31.
-[^6]: Rutkow, Ira. *James A. Garfield*, p. 18.
-[^7]: Peskin, Allan. *Garfield: A Biography*, p. 42.
-[^8]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*. University Press of Kansas, 1981, p. 15.
-[^9]: Millard, Candice. *Destiny of the Republic*, p. 35.
-[^10]: Peskin, Allan. *Garfield: A Biography*, p. 67.
-[^11]: Rutkow, Ira. *James A. Garfield*, p. 28.
-[^12]: McFeely, William S. *Grant: A Biography*. W.W. Norton, 1981, p. 102.
-[^13]: Peskin, Allan. *Garfield: A Biography*, p. 115.
-[^14]: Millard, Candice. *Destiny of the Republic*, p. 48.
-[^15]: Rutkow, Ira. *James A. Garfield*, p. 35.
-[^16]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 22.
-[^17]: Peskin, Allan. *Garfield: A Biography*, p. 285.
-[^18]: Millard, Candice. *Destiny of the Republic*, p. 62.
-[^19]: Rutkow, Ira. *James A. Garfield*, p. 64.
-[^20]: Peskin, Allan. *Garfield: A Biography*, p. 488.
-[^21]: Garfield, James A. *The Diary of James A. Garfield*. Edited by Harry James Brown and Frederick D. Williams. Michigan State University Press, 1967, Vol. 4, p. 442.
-[^22]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 48.
-[^23]: Peskin, Allan. *Garfield: A Biography*, p. 358.
-[^24]: Unger, Irwin. *The Greenback Era: A Social and Political History of American Finance, 1865-1879*. Princeton University Press, 1964, p. 247.
-[^25]: Foner, Eric. *Reconstruction: America's Unfinished Revolution, 1863-1877*. Harper & Row, 1988, p. 504.
-[^26]: Peskin, Allan. *Garfield: A Biography*, p. 267.
-[^27]: Millard, Candice. *Destiny of the Republic*, p. 118.
-[^28]: Rutkow, Ira. *James A. Garfield*, p. 87.
-[^29]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 56.
-[^30]: Peskin, Allan. *Garfield: A Biography*, p. 584.
-[^31]: LaFeber, Walter. *The New Empire: An Interpretation of American Expansion, 1860-1898*. Cornell University Press, 1963, p. 47.
-[^32]: Millard, Candice. *Destiny of the Republic*, p. 66.
-[^33]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 41.
-[^34]: Garfield, James A. "On a New Proof of the Pythagorean Theorem." *New England Journal of Education*, Vol. 3, 1876, p. 161.
-[^35]: Millard, Candice. *Destiny of the Republic*, p. 63.
-[^36]: Peskin, Allan. *Garfield: A Biography*, p. 323.
-[^37]: Josephson, Matthew. *The Politicos, 1865-1896*. Harcourt, Brace, 1938, p. 162.
-[^38]: Rutkow, Ira. *James A. Garfield*, p. 51.
-[^39]: Peskin, Allan. *Garfield: A Biography*, p. 329.
-[^40]: Summers, Mark Wahlgren. *The Era of Good Stealings*. Oxford University Press, 1993, p. 85.
-[^41]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 28.
-[^42]: Peskin, Allan. *Garfield: A Biography*, p. 341.
-[^43]: Foner, Eric. *Reconstruction: America's Unfinished Revolution*, p. 582.
-[^44]: Peskin, Allan. *Garfield: A Biography*, p. 472.
-[^45]: Millard, Candice. *Destiny of the Republic*, p. 97.
-[^46]: Reeves, Thomas C. *Gentleman Boss: The Life of Chester Alan Arthur*. Alfred A. Knopf, 1975, p. 199.
-[^47]: Peskin, Allan. *Garfield: A Biography*, p. 591.
-[^48]: Garfield, James A. *The Diary of James A. Garfield*, Vol. 4, p. 518.
-[^49]: Peskin, Allan. *Garfield: A Biography*, p. 137.
-[^50]: Shaw, John. *Crete and James: Personal Letters of Lucretia and James Garfield*. Michigan State University Press, 1994, p. xxiii.
-[^51]: Rutkow, Ira. *James A. Garfield*, p. 22.
-[^52]: Shaw, John. *Crete and James*, p. 15.
-[^53]: Peskin, Allan. *Garfield: A Biography*, p. 142.
-[^54]: Millard, Candice. *Destiny of the Republic*, p. 73.
-[^55]: Peskin, Allan. *Garfield: A Biography*, p. 401.
-[^56]: Garfield, James A. *The Diary of James A. Garfield*, Vol. 2, p. 287.
-[^57]: Peskin, Allan. *Garfield: A Biography*, p. 229.
-[^58]: Millard, Candice. *Destiny of the Republic*, p. 68.
-[^59]: Rutkow, Ira. *James A. Garfield*, p. 46.
-[^60]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 19.
-[^61]: Peskin, Allan. *Garfield: A Biography*, p. 178.
-[^62]: Millard, Candice. *Destiny of the Republic*, p. 71.
-[^63]: Garfield, James A. *The Diary of James A. Garfield*, Vol. 3, p. 412.
-[^64]: Peskin, Allan. *Garfield: A Biography*, p. 524.
-[^65]: Rutkow, Ira. *James A. Garfield*, p. 57.
-[^66]: Summers, Mark Wahlgren. *The Era of Good Stealings*, p. 87.
-[^67]: Millard, Candice. *Destiny of the Republic*, p. 245.
-[^68]: Hoogenboom, Ari. *Outlawing the Spoils: A History of the Civil Service Reform Movement, 1865-1883*. University of Illinois Press, 1961, p. 242.
-[^69]: Reeves, Thomas C. *Gentleman Boss*, p. 261.
-[^70]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 163.
-[^71]: Peskin, Allan. *Garfield: A Biography*, p. 601.
-[^72]: Skowronek, Stephen. *Building a New American State: The Expansion of National Administrative Capacities, 1877-1920*. Cambridge University Press, 1982, p. 68.
-[^73]: Leech, Margaret and Harry J. Brown. *The Garfield Orbit*. Harper & Row, 1978, p. 267.
-[^74]: Peskin, Allan. *Garfield: A Biography*, p. 607.
-[^75]: Millard, Candice. *Destiny of the Republic*, p. 287.
-[^76]: Foner, Eric. *Reconstruction: America's Unfinished Revolution*, p. 593.
-[^77]: Rutkow, Ira. *James A. Garfield*, p. 127.
-[^78]: Millard, Candice. *Destiny of the Republic*, p. 263.
-[^79]: Rutkow, Ira M. "The Last Victim of President Garfield's Assassination." *The American Journal of Surgery*, Vol. 206, No. 5, 2013, p. 800.
-[^80]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 78.
-[^81]: Feerick, John D. *The Twenty-Fifth Amendment: Its Complete History and Applications*. Fordham University Press, 1992, p. 18.
-[^82]: Rosenberg, Charles E. *The Trial of the Assassin Guiteau*. University of Chicago Press, 1968, p. 3.
-[^83]: Millard, Candice. *Destiny of the Republic*, p. 291.
-[^84]: Goodyear, C.W. *The Presidents of the United States*. Gramercy Books, 1996, p. 152.
-[^85]: Millard, Candice. *Destiny of the Republic*, p. 8.
-[^86]: Millard, Candice. *Destiny of the Republic*, p. 284.
-[^87]: Peskin, Allan. *Garfield: A Biography*, p. 608.
-[^88]: Peskin, Allan. *Garfield: A Biography*, p. 475.
-[^89]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 44.
-[^90]: Peskin, Allan. *Garfield: A Biography*, p. 386.
-[^91]: Jensen, Richard. "The Winning of the Midwest: Social and Political Conflict, 1888-1896." *Historical Methods*, Vol. 13, 1980, p. 147.
-[^92]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*, p. 29.
-[^93]: Millard, Candice. *Destiny of the Republic*, p. 51.
-[^94]: Summers, Mark Wahlgren. *The Era of Good Stealings*, p. 91.
-[^95]: Josephson, Matthew. *The Politicos*, p. 168.
-[^96]: Summers, Mark Wahlgren. *The Era of Good Stealings*, p. 86.
-[^97]: Foner, Eric. *Reconstruction: America's Unfinished Revolution*, p. 583.
-[^98]: Peskin, Allan. *Garfield: A Biography*, p. 473.
-[^99]: Brands, H.W. *American Colossus: The Triumph of Capitalism, 1865-1900*. Doubleday, 2010, p. 127.
-[^100]: Garfield, James A. *The Diary of James A. Garfield*, Vol. 4, p. 551.
-[^101]: Reeves, Thomas C. *Gentleman Boss*, p. 200.
-[^102]: White, Richard. *The Republic for Which It Stands: The United States During Reconstruction and the Gilded Age*. Oxford University Press, 2017, p. 442.
-[^103]: Summers, Mark Wahlgren. *The Era of Good Stealings*, p. 92.
-[^104]: Garfield, James A. "Inaugural Address." March 4, 1881. *American Presidency Project*.
-[^105]: Peskin, Allan. *Garfield: A Biography*, p. 298.
-[^106]: Shaw, John. *Crete and James*, p. 187.
-[^107]: Millard, Candice. *Destiny of the Republic*, p. 38.
-[^108]: Peskin, Allan. *Garfield: A Biography*, p. 412.
-[^109]: Millard, Candice. *Destiny of the Republic*, p. 112.
-[^110]: Rutkow, Ira. *James A. Garfield*, p. 39.
+[^1]: Peskin, Allan. _Garfield: A Biography_. Kent State University Press, 1978, p. 3.
+
+[^2]: Millard, Candice. _Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President_. Doubleday, 2011, p. 27.
+
+[^3]: Rutkow, Ira. _James A. Garfield_. Times Books, 2006, p. 12.
+
+[^4]: Peskin, Allan. _Garfield: A Biography_, p. 21.
+
+[^5]: Millard, Candice. _Destiny of the Republic_, p. 31.
+
+[^6]: Rutkow, Ira. _James A. Garfield_, p. 18.
+
+[^7]: Peskin, Allan. _Garfield: A Biography_, p. 42.
+
+[^8]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_. University Press of Kansas, 1981, p. 15.
+
+[^9]: Millard, Candice. _Destiny of the Republic_, p. 35.
+
+[^10]: Peskin, Allan. _Garfield: A Biography_, p. 67.
+
+[^11]: Rutkow, Ira. _James A. Garfield_, p. 28.
+
+[^12]: McFeely, William S. _Grant: A Biography_. W.W. Norton, 1981, p. 102.
+
+[^13]: Peskin, Allan. _Garfield: A Biography_, p. 115.
+
+[^14]: Millard, Candice. _Destiny of the Republic_, p. 48.
+
+[^15]: Rutkow, Ira. _James A. Garfield_, p. 35.
+
+[^16]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 22.
+
+[^17]: Peskin, Allan. _Garfield: A Biography_, p. 285.
+
+[^18]: Millard, Candice. _Destiny of the Republic_, p. 62.
+
+[^19]: Rutkow, Ira. _James A. Garfield_, p. 64.
+
+[^20]: Peskin, Allan. _Garfield: A Biography_, p. 488.
+
+[^21]: Garfield, James A. _The Diary of James A. Garfield_. Edited by Harry James Brown and Frederick D. Williams. Michigan State University Press, 1967, Vol. 4, p. 442.
+
+[^22]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 48.
+
+[^23]: Peskin, Allan. _Garfield: A Biography_, p. 358.
+
+[^24]: Unger, Irwin. _The Greenback Era: A Social and Political History of American Finance, 1865-1879_. Princeton University Press, 1964, p. 247.
+
+[^25]: Foner, Eric. _Reconstruction: America's Unfinished Revolution, 1863-1877_. Harper & Row, 1988, p. 504.
+
+[^26]: Peskin, Allan. _Garfield: A Biography_, p. 267.
+
+[^27]: Millard, Candice. _Destiny of the Republic_, p. 118.
+
+[^28]: Rutkow, Ira. _James A. Garfield_, p. 87.
+
+[^29]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 56.
+
+[^30]: Peskin, Allan. _Garfield: A Biography_, p. 584.
+
+[^31]: LaFeber, Walter. _The New Empire: An Interpretation of American Expansion, 1860-1898_. Cornell University Press, 1963, p. 47.
+
+[^32]: Millard, Candice. _Destiny of the Republic_, p. 66.
+
+[^33]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 41.
+
+[^34]: Garfield, James A. "On a New Proof of the Pythagorean Theorem." _New England Journal of Education_, Vol. 3, 1876, p. 161.
+
+[^35]: Millard, Candice. _Destiny of the Republic_, p. 63.
+
+[^36]: Peskin, Allan. _Garfield: A Biography_, p. 323.
+
+[^37]: Josephson, Matthew. _The Politicos, 1865-1896_. Harcourt, Brace, 1938, p. 162.
+
+[^38]: Rutkow, Ira. _James A. Garfield_, p. 51.
+
+[^39]: Peskin, Allan. _Garfield: A Biography_, p. 329.
+
+[^40]: Summers, Mark Wahlgren. _The Era of Good Stealings_. Oxford University Press, 1993, p. 85.
+
+[^41]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 28.
+
+[^42]: Peskin, Allan. _Garfield: A Biography_, p. 341.
+
+[^43]: Foner, Eric. _Reconstruction: America's Unfinished Revolution_, p. 582.
+
+[^44]: Peskin, Allan. _Garfield: A Biography_, p. 472.
+
+[^45]: Millard, Candice. _Destiny of the Republic_, p. 97.
+
+[^46]: Reeves, Thomas C. _Gentleman Boss: The Life of Chester Alan Arthur_. Alfred A. Knopf, 1975, p. 199.
+
+[^47]: Peskin, Allan. _Garfield: A Biography_, p. 591.
+
+[^48]: Garfield, James A. _The Diary of James A. Garfield_, Vol. 4, p. 518.
+
+[^49]: Peskin, Allan. _Garfield: A Biography_, p. 137.
+
+[^50]: Shaw, John. _Crete and James: Personal Letters of Lucretia and James Garfield_. Michigan State University Press, 1994, p. xxiii.
+
+[^51]: Rutkow, Ira. _James A. Garfield_, p. 22.
+
+[^52]: Shaw, John. _Crete and James_, p. 15.
+
+[^53]: Peskin, Allan. _Garfield: A Biography_, p. 142.
+
+[^54]: Millard, Candice. _Destiny of the Republic_, p. 73.
+
+[^55]: Peskin, Allan. _Garfield: A Biography_, p. 401.
+
+[^56]: Garfield, James A. _The Diary of James A. Garfield_, Vol. 2, p. 287.
+
+[^57]: Peskin, Allan. _Garfield: A Biography_, p. 229.
+
+[^58]: Millard, Candice. _Destiny of the Republic_, p. 68.
+
+[^59]: Rutkow, Ira. _James A. Garfield_, p. 46.
+
+[^60]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 19.
+
+[^61]: Peskin, Allan. _Garfield: A Biography_, p. 178.
+
+[^62]: Millard, Candice. _Destiny of the Republic_, p. 71.
+
+[^63]: Garfield, James A. _The Diary of James A. Garfield_, Vol. 3, p. 412.
+
+[^64]: Peskin, Allan. _Garfield: A Biography_, p. 524.
+
+[^65]: Rutkow, Ira. _James A. Garfield_, p. 57.
+
+[^66]: Summers, Mark Wahlgren. _The Era of Good Stealings_, p. 87.
+
+[^67]: Millard, Candice. _Destiny of the Republic_, p. 245.
+
+[^68]: Hoogenboom, Ari. _Outlawing the Spoils: A History of the Civil Service Reform Movement, 1865-1883_. University of Illinois Press, 1961, p. 242.
+
+[^69]: Reeves, Thomas C. _Gentleman Boss_, p. 261.
+
+[^70]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 163.
+
+[^71]: Peskin, Allan. _Garfield: A Biography_, p. 601.
+
+[^72]: Skowronek, Stephen. _Building a New American State: The Expansion of National Administrative Capacities, 1877-1920_. Cambridge University Press, 1982, p. 68.
+
+[^73]: Leech, Margaret and Harry J. Brown. _The Garfield Orbit_. Harper & Row, 1978, p. 267.
+
+[^74]: Peskin, Allan. _Garfield: A Biography_, p. 607.
+
+[^75]: Millard, Candice. _Destiny of the Republic_, p. 287.
+
+[^76]: Foner, Eric. _Reconstruction: America's Unfinished Revolution_, p. 593.
+
+[^77]: Rutkow, Ira. _James A. Garfield_, p. 127.
+
+[^78]: Millard, Candice. _Destiny of the Republic_, p. 263.
+
+[^79]: Rutkow, Ira M. "The Last Victim of President Garfield's Assassination." _The American Journal of Surgery_, Vol. 206, No. 5, 2013, p. 800.
+
+[^80]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 78.
+
+[^81]: Feerick, John D. _The Twenty-Fifth Amendment: Its Complete History and Applications_. Fordham University Press, 1992, p. 18.
+
+[^82]: Rosenberg, Charles E. _The Trial of the Assassin Guiteau_. University of Chicago Press, 1968, p. 3.
+
+[^83]: Millard, Candice. _Destiny of the Republic_, p. 291.
+
+[^84]: Goodyear, C.W. _The Presidents of the United States_. Gramercy Books, 1996, p. 152.
+
+[^85]: Millard, Candice. _Destiny of the Republic_, p. 8.
+
+[^86]: Millard, Candice. _Destiny of the Republic_, p. 284.
+
+[^87]: Peskin, Allan. _Garfield: A Biography_, p. 608.
+
+[^88]: Peskin, Allan. _Garfield: A Biography_, p. 475.
+
+[^89]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 44.
+
+[^90]: Peskin, Allan. _Garfield: A Biography_, p. 386.
+
+[^91]: Jensen, Richard. "The Winning of the Midwest: Social and Political Conflict, 1888-1896." _Historical Methods_, Vol. 13, 1980, p. 147.
+
+[^92]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_, p. 29.
+
+[^93]: Millard, Candice. _Destiny of the Republic_, p. 51.
+
+[^94]: Summers, Mark Wahlgren. _The Era of Good Stealings_, p. 91.
+
+[^95]: Josephson, Matthew. _The Politicos_, p. 168.
+
+[^96]: Summers, Mark Wahlgren. _The Era of Good Stealings_, p. 86.
+
+[^97]: Foner, Eric. _Reconstruction: America's Unfinished Revolution_, p. 583.
+
+[^98]: Peskin, Allan. _Garfield: A Biography_, p. 473.
+
+[^99]: Brands, H.W. _American Colossus: The Triumph of Capitalism, 1865-1900_. Doubleday, 2010, p. 127.
+
+[^100]: Garfield, James A. _The Diary of James A. Garfield_, Vol. 4, p. 551.
+
+[^101]: Reeves, Thomas C. _Gentleman Boss_, p. 200.
+
+[^102]: White, Richard. _The Republic for Which It Stands: The United States During Reconstruction and the Gilded Age_. Oxford University Press, 2017, p. 442.
+
+[^103]: Summers, Mark Wahlgren. _The Era of Good Stealings_, p. 92.
+
+[^104]: Garfield, James A. "Inaugural Address." March 4, 1881. _American Presidency Project_.
+
+[^105]: Peskin, Allan. _Garfield: A Biography_, p. 298.
+
+[^106]: Shaw, John. _Crete and James_, p. 187.
+
+[^107]: Millard, Candice. _Destiny of the Republic_, p. 38.
+
+[^108]: Peskin, Allan. _Garfield: A Biography_, p. 412.
+
+[^109]: Millard, Candice. _Destiny of the Republic_, p. 112.
+
+[^110]: Rutkow, Ira. _James A. Garfield_, p. 39.

@@ -173,39 +173,39 @@ Ultimately, negative assessments view Emperor Wu as a megalomaniacal expansionis
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 156 BC | Born as Liu Che on June 30 in Chang'an to Emperor Jing and Consort Wang Zhi |
-| 153 BC | Made Prince of Jiaodong at age three |
-| 149 BC | Designated as Crown Prince, becoming heir apparent to the throne |
-| 141 BC | Ascended throne as Emperor Wu at age 15 following Emperor Jing's death |
-| 140 BC | Conducted imperial examination of over 100 young Confucian scholars |
-| 138 BC | Dispatched Zhang Qian westward to seek alliance with Greater Yuezhi against Xiongnu |
-| 136 BC | Established Confucianism as official state ideology |
-| 135 BC | Empress Dowager Dou died, allowing Emperor Wu to exercise genuine authority |
-| 134 BC | Accepted Dong Zhongshu's proposal to make Confucianism the sole official ideology |
-| 133 BC | Failed ambush plot against Xiongnu; launched series of major military campaigns |
-| 130 BC | Deposed Empress Chen for witchcraft; married Wei Zifu |
-| 128 BC | Birth of Crown Prince Liu Ju to Empress Wei Zifu |
-| 127 BC | General Wei Qing captured Ordos Desert region from Xiongnu; implemented Tui'en ling decree |
-| 125 BC | Zhang Qian returned from the West with intelligence about Central Asian civilizations |
-| 121 BC | General Huo Qubing expelled Xiongnu from Qilian Mountains; Hunye King surrendered |
-| 120 BC | Expanded Imperial Music Bureau (Yuefu) into prestigious cultural institution |
-| 119 BC | Battle of Mobei—decisive victory over Xiongnu; established salt and iron state monopolies |
-| 117 BC | Nationalization of salt and iron industries completed |
-| 111 BC | Annexed Nanyue in southern expansion |
-| 109 BC | Annexed Dian kingdom |
-| 106 BC | Formalized division of empire into 13 provinces supervised by regional inspectors |
-| 104 BC | Built luxurious Jianzhang Palace; implemented Taichu calendar reform |
-| 100 BC | Widespread peasant revolts due to heavy taxation and military burdens |
-| 98 BC | Instituted government liquor monopoly |
-| 96 BC | Witchcraft persecution crisis began following emperor's nightmares and paranoia |
-| 94 BC | Birth of Liu Fuling to Consort Zhao, future emperor |
-| 92 BC | Minister Tian Qianqiu's dream revelation prompted emperor to reconsider Crown Prince's case |
-| 91 BC | Witchcraft crisis peaked; Crown Prince Liu Ju committed suicide; Empress Wei killed |
-| 89 BC | Issued famous Repenting Edict of Luntai, apologizing for policy mistakes |
-| 88 BC | Became seriously ill; designated Liu Fuling as new crown prince |
-| 87 BC | Died on March 29 after 54-year reign, the longest of any Han emperor |
+| Year   | Event                                                                                       |
+| ------ | ------------------------------------------------------------------------------------------- |
+| 156 BC | Born as Liu Che on June 30 in Chang'an to Emperor Jing and Consort Wang Zhi                 |
+| 153 BC | Made Prince of Jiaodong at age three                                                        |
+| 149 BC | Designated as Crown Prince, becoming heir apparent to the throne                            |
+| 141 BC | Ascended throne as Emperor Wu at age 15 following Emperor Jing's death                      |
+| 140 BC | Conducted imperial examination of over 100 young Confucian scholars                         |
+| 138 BC | Dispatched Zhang Qian westward to seek alliance with Greater Yuezhi against Xiongnu         |
+| 136 BC | Established Confucianism as official state ideology                                         |
+| 135 BC | Empress Dowager Dou died, allowing Emperor Wu to exercise genuine authority                 |
+| 134 BC | Accepted Dong Zhongshu's proposal to make Confucianism the sole official ideology           |
+| 133 BC | Failed ambush plot against Xiongnu; launched series of major military campaigns             |
+| 130 BC | Deposed Empress Chen for witchcraft; married Wei Zifu                                       |
+| 128 BC | Birth of Crown Prince Liu Ju to Empress Wei Zifu                                            |
+| 127 BC | General Wei Qing captured Ordos Desert region from Xiongnu; implemented Tui'en ling decree  |
+| 125 BC | Zhang Qian returned from the West with intelligence about Central Asian civilizations       |
+| 121 BC | General Huo Qubing expelled Xiongnu from Qilian Mountains; Hunye King surrendered           |
+| 120 BC | Expanded Imperial Music Bureau (Yuefu) into prestigious cultural institution                |
+| 119 BC | Battle of Mobei—decisive victory over Xiongnu; established salt and iron state monopolies   |
+| 117 BC | Nationalization of salt and iron industries completed                                       |
+| 111 BC | Annexed Nanyue in southern expansion                                                        |
+| 109 BC | Annexed Dian kingdom                                                                        |
+| 106 BC | Formalized division of empire into 13 provinces supervised by regional inspectors           |
+| 104 BC | Built luxurious Jianzhang Palace; implemented Taichu calendar reform                        |
+| 100 BC | Widespread peasant revolts due to heavy taxation and military burdens                       |
+| 98 BC  | Instituted government liquor monopoly                                                       |
+| 96 BC  | Witchcraft persecution crisis began following emperor's nightmares and paranoia             |
+| 94 BC  | Birth of Liu Fuling to Consort Zhao, future emperor                                         |
+| 92 BC  | Minister Tian Qianqiu's dream revelation prompted emperor to reconsider Crown Prince's case |
+| 91 BC  | Witchcraft crisis peaked; Crown Prince Liu Ju committed suicide; Empress Wei killed         |
+| 89 BC  | Issued famous Repenting Edict of Luntai, apologizing for policy mistakes                    |
+| 88 BC  | Became seriously ill; designated Liu Fuling as new crown prince                             |
+| 87 BC  | Died on March 29 after 54-year reign, the longest of any Han emperor                        |
 
 ---
 
@@ -232,149 +232,295 @@ While this exact phrasing is debated among scholars, it captures the essence of 
 ## References
 
 [^1]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^2]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^3]: [Philosophy in Han Dynasty China - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/han-dynasty/)
+
 [^4]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^5]: [Emperor Wu Of Han Biography - The Famous People](https://www.thefamouspeople.com/profiles/emperor-wu-of-han-6459.php)
+
 [^6]: [Liu Che Biography: Emperor Wu of Han Dynasty - Totally History](https://totallyhistory.com/liu-che/)
+
 [^7]: [Wu Emperor of the Han Dynasty - China Highlights](https://www.chinahighlights.com/travelguide/china-history/wudi-emperor.htm)
+
 [^8]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^9]: [Liu Che: Emperor Wu of Western Han Dynasty - Travel China Guide](https://www.travelchinaguide.com/intro/history/han/emperor_wu.htm)
+
 [^10]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^11]: [Wudi - Britannica](https://www.britannica.com/biography/Wudi-emperor-of-Han-dynasty)
+
 [^12]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^13]: [Han Wudi - An Aristocrat Challenger - ChinaFetching](https://www.chinafetching.com/emperor-wudi-of-han-liu-che)
+
 [^14]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^15]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^16]: [Today In History: Wu of Han Assumes the Throne - History Collection](https://historycollection.com/today-history-wu-han-assumes-throne-han-dynasty-141-bc/)
+
 [^17]: [Dong Zhongshu - Wikipedia](https://en.wikipedia.org/wiki/Dong_Zhongshu)
+
 [^18]: [Liu Che: Emperor Wu of Western Han Dynasty - Travel China Guide](https://www.travelchinaguide.com/intro/history/han/emperor_wu.htm)
+
 [^19]: [The Rise of the Han Dynasty - World Civilization](https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-rise-of-the-han-dynasty/)
+
 [^20]: [Philosophy in Han Dynasty China - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/han-dynasty/)
+
 [^21]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^22]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^23]: [Han–Xiongnu Wars - Wikipedia](https://en.wikipedia.org/wiki/Han–Xiongnu_Wars)
+
 [^24]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^25]: [Wei Qing and Huo Qubing Beat Back Huns - Travel China Guide](https://www.travelchinaguide.com/china_great_wall/military-defense/beat-huns.htm)
+
 [^26]: [Han–Xiongnu Wars - Wikipedia](https://en.wikipedia.org/wiki/Han–Xiongnu_Wars)
+
 [^27]: [Huo Qubing: The Young General - Nspirement](https://nspirement.com/2025/05/05/huo-qubing-opened-the-silk-road.html)
+
 [^28]: [Battle of Mobei - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Mobei)
+
 [^29]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^30]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^31]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^32]: [Zhang Qian - Wikipedia](https://en.wikipedia.org/wiki/Zhang_Qian)
+
 [^33]: [Zhang Qian: The Diplomat Who Opened the Silk Road - Diplomat magazine](https://diplomatmagazine.eu/2024/10/06/zhang-qian-the-diplomat-who-opened-the-silk-road/)
+
 [^34]: [Zhang Qian - Wikipedia](https://en.wikipedia.org/wiki/Zhang_Qian)
+
 [^35]: [The Role of Zhang Qian in the Opening of the Silk Road - WePub](https://wepub.org/index.php/TEBMR/article/download/298/290/554)
+
 [^36]: [Silk Road - World History Encyclopedia](https://www.worldhistory.org/Silk_Road/)
+
 [^37]: [SILK ROAD DURING THE HAN DYNASTY - Facts and Details](https://factsanddetails.com/china/cat2/sub90/entry-5440.html)
+
 [^38]: [Dong Zhongshu - Britannica](https://www.britannica.com/biography/Dong-Zhongshu)
+
 [^39]: [The Rise of the Han Dynasty - World Civilization](https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-rise-of-the-han-dynasty/)
+
 [^40]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^41]: [Discourses on Salt and Iron - Wikipedia](https://en.wikipedia.org/wiki/Discourses_on_Salt_and_Iron)
+
 [^42]: [Economy of the Han dynasty - Wikipedia](https://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty)
+
 [^43]: [HAN DYNASTY ECONOMY - Facts and Details](https://factsanddetails.com/china/cat2/sub2/entry-5427.html)
+
 [^44]: [Music Bureau - Wikipedia](https://en.wikipedia.org/wiki/Music_Bureau)
+
 [^45]: [yuefu - songs of the Music Bureau - ChinaKnowledge.de](http://www.chinaknowledge.de/Literature/Poetry/yuefu.html)
+
 [^46]: [Yuefu - Britannica](https://www.britannica.com/art/yuefu-Chinese-poetic-form)
+
 [^47]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^48]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^49]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^50]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^51]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^52]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^53]: [Discourses on Salt and Iron - Wikipedia](https://en.wikipedia.org/wiki/Discourses_on_Salt_and_Iron)
+
 [^54]: [The Debate on the Salt and Iron Monopolies - SJSU](https://www.sjsu.edu/faculty/watkins/ironsalt.htm)
+
 [^55]: [Discourses on Salt and Iron - Wikipedia](https://en.wikipedia.org/wiki/Discourses_on_Salt_and_Iron)
+
 [^56]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^57]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^58]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^59]: [THE REIGN OF WU-DI, 140-87 - IU ScholarWorks](https://scholarworks.iu.edu/dspace/bitstreams/2693ed09-d574-45f5-9dae-61ed31559874/download)
+
 [^60]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^61]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^62]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^63]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^64]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^65]: [Chinese Monarchs - Liu Ju - NouahsArk](http://www.nouahsark.com/en/infocenter/culture/history/monarchs/liu_ju.php)
+
 [^66]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^67]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^68]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^69]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^70]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^71]: [Han Wudi - An Aristocrat Challenger - ChinaFetching](https://www.chinafetching.com/emperor-wudi-of-han-liu-che)
+
 [^72]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^73]: [Philosophy in Han Dynasty China - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/han-dynasty/)
+
 [^74]: [Emperor Wu Of Han Biography - The Famous People](https://www.thefamouspeople.com/profiles/emperor-wu-of-han-6459.php)
+
 [^75]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^76]: [Wei Zifu - From A Slave to Empress - ChinaFetching](https://www.chinafetching.com/wei-zifu)
+
 [^77]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^78]: [Emperor Wu Of Han Biography - The Famous People](https://www.thefamouspeople.com/profiles/emperor-wu-of-han-6459.php)
+
 [^79]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^80]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^81]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^82]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^83]: [Liu Che Biography - Totally History](https://totallyhistory.com/liu-che/)
+
 [^84]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^85]: [The Rise of the Han Dynasty - World Civilization](https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-rise-of-the-han-dynasty/)
+
 [^86]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^87]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^88]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^89]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^90]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^91]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^92]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^93]: [Emperor Wu of Han publicly apologized - Quora](https://www.quora.com/Emperor-Wu-of-Han-publicly-apologized-to-the-whole-nation-about-his-past-policy-mistakes-a-gesture-known-to-history-as-the-Repenting-Edict-of-Luntai-Why-is-he-considered-a-great-emperor)
+
 [^94]: [Wudi - Britannica](https://www.britannica.com/biography/Wudi-emperor-of-Han-dynasty)
+
 [^95]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^96]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^97]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^98]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^99]: [Silk Road - World History Encyclopedia](https://www.worldhistory.org/Silk_Road/)
+
 [^100]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^101]: [Dong Zhongshu - Britannica](https://www.britannica.com/biography/Dong-Zhongshu)
+
 [^102]: [The Rise of the Han Dynasty - World Civilization](https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-rise-of-the-han-dynasty/)
+
 [^103]: [Dong Zhongshu - Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/dong-zhongshu-c-179-c-104-bce)
+
 [^104]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^105]: [Philosophy in Han Dynasty China - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/han-dynasty/)
+
 [^106]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^107]: [Music Bureau - Wikipedia](https://en.wikipedia.org/wiki/Music_Bureau)
+
 [^108]: [Yuefu - Britannica](https://www.britannica.com/art/yuefu-Chinese-poetic-form)
+
 [^109]: [Economy of the Han dynasty - Wikipedia](https://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty)
+
 [^110]: [Discourses on Salt and Iron - Wikipedia](https://en.wikipedia.org/wiki/Discourses_on_Salt_and_Iron)
+
 [^111]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^112]: [Emperor Wu of Han - How to Assess Him? - History Forum](https://historum.com/t/emperor-wu-of-han-how-to-assess-him.192630/)
+
 [^113]: [Philosophy in Han Dynasty China - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/han-dynasty/)
+
 [^114]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^115]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^116]: [Wudi - Britannica](https://www.britannica.com/biography/Wudi-emperor-of-Han-dynasty)
+
 [^117]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^118]: [Dong Zhongshu - Britannica](https://www.britannica.com/biography/Dong-Zhongshu)
+
 [^119]: [The Rise of the Han Dynasty - World Civilization](https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-rise-of-the-han-dynasty/)
+
 [^120]: [Dong Zhongshu - Wikipedia](https://en.wikipedia.org/wiki/Dong_Zhongshu)
+
 [^121]: [Zhang Qian - Wikipedia](https://en.wikipedia.org/wiki/Zhang_Qian)
+
 [^122]: [Silk Road - World History Encyclopedia](https://www.worldhistory.org/Silk_Road/)
+
 [^123]: [Music Bureau - Wikipedia](https://en.wikipedia.org/wiki/Music_Bureau)
+
 [^124]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^125]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^126]: [Emperor Wu of Han publicly apologized - Quora](https://www.quora.com/Emperor-Wu-of-Han-publicly-apologized-to-the-whole-nation-about-his-past-policy-mistakes-a-gesture-known-to-history-as-the-Repenting-Edict-of-Luntai-Why-is-he-considered-a-great-emperor)
+
 [^127]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^128]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^129]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^130]: [Emperor Wu of Han - Wikipedia](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+
 [^131]: [Han Wudi - An Aristocrat Challenger - ChinaFetching](https://www.chinafetching.com/emperor-wudi-of-han-liu-che)
+
 [^132]: [Philosophy in Han Dynasty China - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/han-dynasty/)
+
 [^133]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^134]: [THE REIGN OF WU-DI, 140-87 - IU ScholarWorks](https://scholarworks.iu.edu/dspace/bitstreams/2693ed09-d574-45f5-9dae-61ed31559874/download)
+
 [^135]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^136]: [Liu Ju - Wikipedia](https://en.wikipedia.org/wiki/Liu_Ju)
+
 [^137]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^138]: [The Debate on the Salt and Iron Monopolies - SJSU](https://www.sjsu.edu/faculty/watkins/ironsalt.htm)
+
 [^139]: [Discourses on Salt and Iron - Wikipedia](https://en.wikipedia.org/wiki/Discourses_on_Salt_and_Iron)
+
 [^140]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^141]: [Emperor Wu of Han - How to Assess Him? - History Forum](https://historum.com/t/emperor-wu-of-han-how-to-assess-him.192630/)
+
 [^142]: [Emperor Wu of Han - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Emperor_Wu_of_Han)
+
 [^143]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^144]: [QUOTES BY EMPEROR WU OF HAN - A-Z Quotes](https://www.azquotes.com/author/26750-Emperor-Wu-of-Han)
+
 [^145]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^146]: [Thoughts on the "Repenting Edict of Luntai" - Minghui.org](https://en.minghui.org/html/articles/2020/1/9/182105.html)
+
 [^147]: [Liu Che: Emperor Wu of Western Han Dynasty - Travel China Guide](https://www.travelchinaguide.com/intro/history/han/emperor_wu.htm)

@@ -25,6 +25,7 @@ But the system held. No meaningful reform followed. Then, on August 4, 2020, 2,7
 ### The Sectarian System
 
 Lebanon's political system (since 1943 and reinforced after 1990):
+
 - **President:** Maronite Christian
 - **Prime Minister:** Sunni Muslim
 - **Parliament Speaker:** Shia Muslim
@@ -36,6 +37,7 @@ The system was meant to prevent civil war; instead it entrenched corruption.[^4]
 ### Post-Civil War Lebanon
 
 After the 1975-1990 civil war:
+
 - Warlords became politicians
 - Rafik Hariri-era reconstruction: debt-fueled, benefiting oligarchs
 - Hezbollah maintained independent military
@@ -47,6 +49,7 @@ By 2019, public debt reached 150% of GDP—one of the world's highest.[^5]
 ### Economic Crisis
 
 Lebanon's economy was already failing before protests:
+
 - Banking sector: Ponzi-like dollar inflows sustained system
 - Government services failing (electricity, water, garbage)
 - Youth unemployment high
@@ -62,10 +65,12 @@ The rot was visible; the trigger was awaited.[^6]
 ### The Spark (October 17, 2019)
 
 **October 17:** Government announced taxes, including:
+
 - WhatsApp calls: $6/month
 - Fuel, tobacco increases
 
 Within hours, protests erupted:
+
 - Roads blocked with burning tires
 - Crowds gathered in Beirut and across the country
 - Government withdrew WhatsApp tax within hours—but it was too late
@@ -75,17 +80,20 @@ The tax was "the last straw."[^7]
 ### Mass Mobilization
 
 **October 17-November 2019:** Protests peaked
+
 - Hundreds of thousands in streets
 - Martyrs' Square and Riad al-Solh in Beirut central
 - Cross-sectarian: Shia areas (Nabatieh, Tyre), Sunni areas (Tripoli), Christian areas (Batroun)—all protested
 
 **Key features:**
+
 - Festive atmosphere; music; art
 - "Revolution tourism"
 - Women prominent
 - Rejection of all parties—including Hezbollah, despite its power
 
 **Slogans:**
+
 - "Kellon yaani kellon" (All of them means all of them)
 - "Thawra!" (Revolution!)
 - "The people want the fall of the regime"[^8]
@@ -116,6 +124,7 @@ But forming a new government proved impossible amid political paralysis.[^9]
 ### Economic Collapse
 
 Lebanon experienced one of history's worst economic crises:
+
 - **March 2020:** Sovereign debt default
 - **Currency collapse:** Lebanese pound fell from 1,500/$1 to 100,000+/$1
 - **Bank restrictions:** Informal capital controls trapped deposits
@@ -130,6 +139,7 @@ The pandemic compounded economic devastation and halted mass protests.
 ### Beirut Explosion (August 4, 2020)
 
 At 6:07 PM on August 4, 2020:
+
 - 2,750 tons of ammonium nitrate stored at port since 2014 exploded
 - One of the largest non-nuclear explosions in history
 - **218 killed; 7,000+ injured; 300,000 displaced**
@@ -139,6 +149,7 @@ At 6:07 PM on August 4, 2020:
 **Cause:** Negligence. Multiple officials knew of the danger and did nothing.
 
 **Consequences:**
+
 - Protests erupted; government resigned (August 10)
 - No accountability—investigation obstructed
 - Same political class remained[^12]
@@ -149,32 +160,34 @@ At 6:07 PM on August 4, 2020:
 
 ### Protest Movement
 
-| Name/Group | Role |
-|------------|------|
-| Leaderless movement | No single leader |
-| Civil society groups | Various coordinators |
-| Lebanese diaspora | Solidarity protests worldwide |
+| Name/Group           | Role                          |
+| -------------------- | ----------------------------- |
+| Leaderless movement  | No single leader              |
+| Civil society groups | Various coordinators          |
+| Lebanese diaspora    | Solidarity protests worldwide |
 
 ### Political Class (Targets of Protests)
 
-| Name | Role |
-|------|------|
-| Saad Hariri | Prime Minister; resigned October 29 |
-| Nabih Berri | Parliament Speaker (since 1992) |
-| Michel Aoun | President |
-| Hassan Nasrallah | Hezbollah leader |
-| Gebran Bassil | FPM leader; widely criticized for corruption |
+| Name             | Role                                         |
+| ---------------- | -------------------------------------------- |
+| Saad Hariri      | Prime Minister; resigned October 29          |
+| Nabih Berri      | Parliament Speaker (since 1992)              |
+| Michel Aoun      | President                                    |
+| Hassan Nasrallah | Hezbollah leader                             |
+| Gebran Bassil    | FPM leader; widely criticized for corruption |
 
 ---
 
 ## Death Toll
 
 **During protests (2019-2020):**
+
 - Several deaths in confrontations with security forces and political party supporters
 - Hundreds injured
 - Alaa Abou Fakher killed November 12, 2019
 
 **Beirut explosion (August 4, 2020):**
+
 - 218 killed
 - 7,000+ injured
 - 300,000 displaced[^13]
@@ -227,37 +240,52 @@ At 6:07 PM on August 4, 2020:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| October 17, 2019 | WhatsApp tax announced; protests erupt |
-| October 18-20, 2019 | Protests spread nationwide |
-| October 29, 2019 | Prime Minister Hariri resigns |
-| November 12, 2019 | Alaa Abou Fakher killed |
-| January 2020 | Hassan Diab becomes PM |
-| March 2020 | Lebanon defaults on debt |
-| March 2020 | COVID-19; protests halt |
-| August 4, 2020 | Beirut port explosion |
-| August 10, 2020 | Diab government resigns |
-| 2020-2024 | Economic collapse deepens |
-| October 2024 | Currency has lost 98%+ value; poverty over 80% |
+| Date                | Event                                          |
+| ------------------- | ---------------------------------------------- |
+| October 17, 2019    | WhatsApp tax announced; protests erupt         |
+| October 18-20, 2019 | Protests spread nationwide                     |
+| October 29, 2019    | Prime Minister Hariri resigns                  |
+| November 12, 2019   | Alaa Abou Fakher killed                        |
+| January 2020        | Hassan Diab becomes PM                         |
+| March 2020          | Lebanon defaults on debt                       |
+| March 2020          | COVID-19; protests halt                        |
+| August 4, 2020      | Beirut port explosion                          |
+| August 10, 2020     | Diab government resigns                        |
+| 2020-2024           | Economic collapse deepens                      |
+| October 2024        | Currency has lost 98%+ value; poverty over 80% |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2019-2020 Lebanese Protests](https://en.wikipedia.org/wiki/2019%E2%80%932020_Lebanese_protests)
+
 [^2]: [The Guardian - WhatsApp Tax](https://www.theguardian.com/world/2019/oct/17/lebanon-protests-whatsapp-tax)
+
 [^3]: [Wikipedia - Lebanese Economic Crisis](https://en.wikipedia.org/wiki/Lebanese_liquidity_crisis)
-[^4]: [Wikipedia - Lebanese Confessionalism](https://en.wikipedia.org/wiki/Confessionalism_(politics)#Lebanon)
+
+[^4]: [Wikipedia - Lebanese Confessionalism](<https://en.wikipedia.org/wiki/Confessionalism_(politics)#Lebanon>)
+
 [^5]: [Political Quarterly - Background](https://politicalquarterly.org.uk/lebanon-october-revolution/)
+
 [^6]: [Congress.gov - Economic Crisis](https://www.congress.gov/report/lebanon-economic-crisis/)
+
 [^7]: [The World - WhatsApp Trigger](https://theworld.org/stories/lebanon-protests-whatsapp/)
+
 [^8]: [Irish Times - Cross-Sectarian](https://www.irishtimes.com/news/world/lebanon-protests-cross-sectarian/)
+
 [^9]: [Carnegie - Hariri Resignation](https://carnegieendowment.org/lebanon-hariri-resignation/)
+
 [^10]: [Amnesty - Violence](https://www.amnesty.org/en/latest/news/2019/10/lebanon-protests/)
+
 [^11]: [Relief Web - Economic Collapse](https://reliefweb.int/report/lebanon/lebanon-crisis/)
+
 [^12]: [Wikipedia - Beirut Explosion](https://en.wikipedia.org/wiki/2020_Beirut_explosion)
+
 [^13]: [HRW - Deaths](https://www.hrw.org/news/2019/10/lebanon-protests-deaths)
+
 [^14]: [Civil Society Centre - Analysis](https://civilsociety-centre.org/lebanon-revolution-analysis/)
+
 [^15]: [Washington Institute - Sectarianism](https://www.washingtoninstitute.org/policy-analysis/lebanon-protests-sectarian/)
+
 [^16]: [BBC - Aftermath](https://www.bbc.co.uk/news/world-middle-east-lebanon-protests)

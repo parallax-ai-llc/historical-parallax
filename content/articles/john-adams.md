@@ -151,198 +151,345 @@ Some historians argue that Adams's achievements have been overstated. His role i
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1735 | Born October 30 in Braintree, Massachusetts |
-| 1755 | Graduated from Harvard College with A.B. degree |
-| 1758 | Admitted to the bar and began practicing law in Boston |
-| 1764 | Married Abigail Smith on October 25 |
-| 1765 | Published "A Dissertation on the Canon and Feudal Law" |
-| 1770 | Defended British soldiers in Boston Massacre trials |
-| 1774 | Elected to First Continental Congress |
-| 1775 | Attended Second Continental Congress; nominated George Washington as commander |
-| 1776 | Served on committee drafting Declaration of Independence; Declaration adopted July 4 |
-| 1780 | Principal author of Massachusetts Constitution |
-| 1783 | Negotiated Treaty of Paris ending Revolutionary War |
-| 1785 | Appointed first U.S. minister to Great Britain |
-| 1789 | Became first Vice President under George Washington |
-| 1796 | Elected second President of the United States |
-| 1797 | Inaugurated as President on March 4 |
-| 1797-98 | XYZ Affair and beginning of Quasi-War with France |
-| 1798 | Signed Alien and Sedition Acts into law |
-| 1800 | Signed Treaty of Mortefontaine ending Quasi-War; defeated by Jefferson in presidential election |
-| 1801 | Left presidency on March 4; returned to Massachusetts |
-| 1812 | Reconciled with Thomas Jefferson and began correspondence |
-| 1826 | Died July 4 in Quincy, Massachusetts, same day as Thomas Jefferson, on 50th anniversary of Declaration of Independence |
+| Year    | Event                                                                                                                  |
+| ------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1735    | Born October 30 in Braintree, Massachusetts                                                                            |
+| 1755    | Graduated from Harvard College with A.B. degree                                                                        |
+| 1758    | Admitted to the bar and began practicing law in Boston                                                                 |
+| 1764    | Married Abigail Smith on October 25                                                                                    |
+| 1765    | Published "A Dissertation on the Canon and Feudal Law"                                                                 |
+| 1770    | Defended British soldiers in Boston Massacre trials                                                                    |
+| 1774    | Elected to First Continental Congress                                                                                  |
+| 1775    | Attended Second Continental Congress; nominated George Washington as commander                                         |
+| 1776    | Served on committee drafting Declaration of Independence; Declaration adopted July 4                                   |
+| 1780    | Principal author of Massachusetts Constitution                                                                         |
+| 1783    | Negotiated Treaty of Paris ending Revolutionary War                                                                    |
+| 1785    | Appointed first U.S. minister to Great Britain                                                                         |
+| 1789    | Became first Vice President under George Washington                                                                    |
+| 1796    | Elected second President of the United States                                                                          |
+| 1797    | Inaugurated as President on March 4                                                                                    |
+| 1797-98 | XYZ Affair and beginning of Quasi-War with France                                                                      |
+| 1798    | Signed Alien and Sedition Acts into law                                                                                |
+| 1800    | Signed Treaty of Mortefontaine ending Quasi-War; defeated by Jefferson in presidential election                        |
+| 1801    | Left presidency on March 4; returned to Massachusetts                                                                  |
+| 1812    | Reconciled with Thomas Jefferson and began correspondence                                                              |
+| 1826    | Died July 4 in Quincy, Massachusetts, same day as Thomas Jefferson, on 50th anniversary of Declaration of Independence |
 
 ---
 
 ## Famous Quotes
 
-> "Let us dare to read, think, speak and write." 
-*From "A Dissertation on the Canon and Feudal Law" (1765), advocating for intellectual freedom and resistance to tyranny*[^144]
+> "Let us dare to read, think, speak and write."
+> _From "A Dissertation on the Canon and Feudal Law" (1765), advocating for intellectual freedom and resistance to tyranny_[^144]
 
 > "Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passion, they cannot alter the state of facts and evidence."
-*From his defense of British soldiers in the Boston Massacre trials (December 1770), demonstrating his commitment to the rule of law*[^145]
+> _From his defense of British soldiers in the Boston Massacre trials (December 1770), demonstrating his commitment to the rule of law_[^145]
 
 > "I must study Politics and War that my sons may have liberty to study Mathematics and Philosophy. My sons ought to study Mathematics and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine."
-*From a letter to Abigail Adams (May 12, 1780), expressing his vision of generational progress*[^146]
+> _From a letter to Abigail Adams (May 12, 1780), expressing his vision of generational progress_[^146]
 
 > "The Revolution was effected before the war commenced. The Revolution was in the minds and hearts of the people."
-*Reflecting on the nature of the American Revolution, emphasizing ideological transformation over military conflict*[^147]
+> _Reflecting on the nature of the American Revolution, emphasizing ideological transformation over military conflict_[^147]
 
 > "There is danger from all men. The only maxim of a free government ought to be to trust no man living with power to endanger the public liberty."
-*Expressing his fundamental political philosophy of limited government and checks on power*[^148]
+> _Expressing his fundamental political philosophy of limited government and checks on power_[^148]
 
 ---
 
 ## References
 
 [^1]: [John Adams | Biography, Political Party, Children, Presidency, & Facts | Britannica](https://www.britannica.com/biography/John-Adams-president-of-United-States)
+
 [^2]: [John Adams - Wikipedia](https://en.wikipedia.org/wiki/John_Adams)
+
 [^3]: [John Adams: Domestic Affairs | Miller Center](https://millercenter.org/president/adams/domestic-affairs)
+
 [^4]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^5]: [John Adams | American Battlefield Trust](https://www.battlefields.org/learn/biographies/john-adams)
+
 [^6]: [Massachusetts Historical Society: Adams Biographical Sketches](https://www.masshist.org/adams/biographies)
+
 [^7]: [John Adams: Life Before the Presidency | Miller Center](https://millercenter.org/president/adams/life-before-the-presidency)
+
 [^8]: [Biography of President John Adams](https://www.ducksters.com/biography/uspresidents/johnadams.php)
+
 [^9]: [John Adams | Constitution Center](https://constitutioncenter.org/signers/john-adams)
+
 [^10]: [John Adams - Wikiquote](https://en.wikiquote.org/wiki/John_Adams)
+
 [^11]: [John Adams: Life Before the Presidency | Miller Center](https://millercenter.org/president/adams/life-before-the-presidency)
+
 [^12]: [Quotations from Adams, John | WIST Quotations](https://wist.info/author/adams-john/)
+
 [^13]: [John Adams | George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/john-adams)
+
 [^14]: [Biography of John Adams](https://georgewbush-whitehouse.archives.gov/history/presidents/ja2.html)
+
 [^15]: [John Adams, Architect of American Government | Mass.gov](https://www.mass.gov/guides/john-adams-architect-of-american-government)
+
 [^16]: [John Adams, Biography, Facts, Significance, Founding Father](https://www.americanhistorycentral.com/entries/john-adams/)
+
 [^17]: [John Adams: Atlas of American Independence | The Heritage Foundation](https://www.heritage.org/american-founders/leading-founders/john-adams-atlas-american-independence)
+
 [^18]: [John Adams - One of America's Founding Fathers | The Constitutional Walking Tour of Philadelphia](https://www.theconstitutional.com/blog/2020/05/18/john-adams-one-americas-founding-fathers)
+
 [^19]: [John Adams Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/john-adams-biography/)
+
 [^20]: [The Best John Adams Quotes | The Art of Manliness](https://www.artofmanliness.com/character/knowledge-of-men/the-best-john-adams-quotes/)
+
 [^21]: [John Adams | National Geographic Kids](https://kids.nationalgeographic.com/history/article/john-adams)
+
 [^22]: [Adams on the American Revolution | Online Library of Liberty](https://oll.libertyfund.org/pages/adams-on-the-american-revolution)
+
 [^23]: [John Adams - Presidency, Facts & Children](https://www.history.com/articles/john-adams)
+
 [^24]: [John Adams, Architect of American Government | Mass.gov](https://www.mass.gov/guides/john-adams-architect-of-american-government)
+
 [^25]: [John Adams - One of America's Founding Fathers | The Constitutional Walking Tour of Philadelphia](https://www.theconstitutional.com/blog/2020/05/18/john-adams-one-americas-founding-fathers)
+
 [^26]: [John Adams Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/john-adams-biography/)
+
 [^27]: [John Adams, Biography, Facts, Significance, Founding Father](https://www.americanhistorycentral.com/entries/john-adams/)
+
 [^28]: [John Adams: Atlas of American Independence | The Heritage Foundation](https://www.heritage.org/american-founders/leading-founders/john-adams-atlas-american-independence)
+
 [^29]: [John Adams Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/john-adams-biography/)
+
 [^30]: [John Adams, Architect of American Government | Mass.gov](https://www.mass.gov/guides/john-adams-architect-of-american-government)
+
 [^31]: [John Adams | Biography, Political Party, Children, Presidency, & Facts | Britannica](https://www.britannica.com/biography/John-Adams-president-of-United-States)
+
 [^32]: [John Adams - Wikipedia](https://en.wikipedia.org/wiki/John_Adams)
+
 [^33]: [John Adams: Atlas of American Independence | The Heritage Foundation](https://www.heritage.org/american-founders/leading-founders/john-adams-atlas-american-independence)
+
 [^34]: [Adams on the American Revolution | Online Library of Liberty](https://oll.libertyfund.org/pages/adams-on-the-american-revolution)
+
 [^35]: [John Adams Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/john-adams-biography/)
+
 [^36]: [John Adams, Biography, Facts, Significance, Founding Father](https://www.americanhistorycentral.com/entries/john-adams/)
+
 [^37]: [John Adams: Foreign Affairs | Miller Center](https://millercenter.org/president/adams/foreign-affairs)
+
 [^38]: [XYZ Affair | Thomas Jefferson's Monticello](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/xyz-affair/)
+
 [^39]: [The XYZ Affair and the Quasi-War with France, 1798–1800](https://history.state.gov/milestones/1784-1800/xyz)
+
 [^40]: [John Adams: Foreign Affairs | Miller Center](https://millercenter.org/president/adams/foreign-affairs)
+
 [^41]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^42]: [The Inspiring Legacy of John Adams — Americana Corner](https://www.americanacorner.com/blog/adams-legacy)
+
 [^43]: [Quotes by John Adams | Online Library of Liberty](https://oll.libertyfund.org/people/john-adams/quotes)
+
 [^44]: [John Adams, Architect of American Government | Mass.gov](https://www.mass.gov/guides/john-adams-architect-of-american-government)
+
 [^45]: [The Best John Adams Quotes | The Art of Manliness](https://www.artofmanliness.com/character/knowledge-of-men/the-best-john-adams-quotes/)
+
 [^46]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^47]: [The Legacy of John Adams — Americana Corner](https://www.americanacorner.com/blog/legacy-of-john-adams)
+
 [^48]: [President John Adams oversees passage of first of Alien and Sedition Acts | June 18, 1798 | HISTORY](https://www.history.com/this-day-in-history/june-18/adams-passes-first-of-alien-and-sedition-acts)
+
 [^49]: [Alien and Sedition Acts - Wikipedia](https://en.wikipedia.org/wiki/Alien_and_Sedition_Acts)
+
 [^50]: [The Alien and Seditions Act | American Experience | Official Site | PBS](https://www.pbs.org/wgbh/americanexperience/features/adams-alien-and-seditions-act/)
+
 [^51]: [Lesson 1: From the President's Lips: The Concerns that Led to the Sedition (and Alien) Act | NEH-Edsitement](https://edsitement.neh.gov/lesson-plans/lesson-1-presidents-lips-concerns-led-sedition-and-alien-act)
+
 [^52]: [John Adams: Domestic Affairs | Miller Center](https://millercenter.org/president/adams/domestic-affairs)
+
 [^53]: [A Look Back: Sedition, Free Speech and the President | Constitution Center](https://constitutioncenter.org/blog/a-look-back-sedition-free-speech-and-the-president)
+
 [^54]: [The Alien and Sedition Acts [ushistory.org]](https://www.ushistory.org/us/19e.asp)
+
 [^55]: [Alien and Sedition Acts (1798) | National Archives](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
+
 [^56]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^57]: [Alien and Sedition Acts were reviled in their time, and John Adams was not sorry to see them go | The Free Speech Center](https://firstamendment.mtsu.edu/post/alien-and-sedition-acts-were-reviled-in-their-time-and-john-adams-was-not-sorry-to-see-them-go/)
+
 [^58]: [Alien and Sedition Acts were reviled in their time | Colorado Newsline](https://coloradonewsline.com/2025/03/12/alien-sedition-acts-reviled-in-their-time/)
+
 [^59]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^60]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^61]: [Everything Wrong With the Adams Administration](https://www.libertarianism.org/everything-wrong-presidents/everything-wrong-adams-administration)
+
 [^62]: [John Adams: Domestic Affairs | Miller Center](https://millercenter.org/president/adams/domestic-affairs)
+
 [^63]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^64]: [The Life and Times of John Adams [ushistory.org]](https://www.ushistory.org/us/19f.asp)
+
 [^65]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^66]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^67]: [The Alien and Sedition Acts [ushistory.org]](https://www.ushistory.org/us/19e.asp)
+
 [^68]: [Alien and Sedition Acts (1798) | National Archives](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
+
 [^69]: [Adams Electronic Archive : About John and Abigail Adams](https://www.masshist.org/digitaladams/archive/about/bio.php)
+
 [^70]: [Abigail Adams - Wikipedia](https://en.wikipedia.org/wiki/Abigail_Adams)
+
 [^71]: [John Adams: Family Life | Miller Center](https://millercenter.org/president/adams/family-life)
+
 [^72]: [John Adams | Biography, Political Party, Children, Presidency, & Facts | Britannica](https://www.britannica.com/biography/John-Adams-president-of-United-States)
+
 [^73]: [Abigail Smith Adams | National Women's History Museum](https://www.womenshistory.org/education-resources/biographies/abigail-adams)
+
 [^74]: [Adams Electronic Archive : Correspondence between John and Abigail Adams](https://www.masshist.org/digitaladams/archive/letter/)
+
 [^75]: [Analysis: Letters of Abigail Adams to John Adams | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/analysis-letters-abigail-adams-john-adams)
+
 [^76]: [Adams Electronic Archive : About John and Abigail Adams](https://www.masshist.org/digitaladams/archive/about/bio.php)
+
 [^77]: [Abigail Adams | Miller Center](https://millercenter.org/president/adams/adams-1797-abigail-firstlady)
+
 [^78]: [Abigail Smith Adams | National Women's History Museum](https://www.womenshistory.org/education-resources/biographies/abigail-adams)
+
 [^79]: [John Adams: Family Life | Miller Center](https://millercenter.org/president/adams/family-life)
+
 [^80]: [Abigail Adams - Wikipedia](https://en.wikipedia.org/wiki/Abigail_Adams)
+
 [^81]: [Adams Electronic Archive : About John and Abigail Adams](https://www.masshist.org/digitaladams/archive/about/bio.php)
+
 [^82]: [Politics and Family Life in the Early US, John and Abigail Adams, 1796-1797 – Explore History Dev](https://exploredev.oucreate.com/kit-1483/politics-and-family-life-in-the-early-us-john-and-abigail-adams-1796-1797/)
+
 [^83]: [John Adams: Family Life | Miller Center](https://millercenter.org/president/adams/family-life)
+
 [^84]: [Abigail Adams | Thomas Jefferson's Monticello](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/abigail-adams/)
+
 [^85]: [John Adams: Family Life | Miller Center](https://millercenter.org/president/adams/family-life)
+
 [^86]: [Adams Electronic Archive : About John and Abigail Adams](https://www.masshist.org/digitaladams/archive/about/bio.php)
+
 [^87]: [Watch John and Abigail Adams | American Experience | Official Site | PBS](https://www.pbs.org/wgbh/americanexperience/films/adams/)
+
 [^88]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^89]: [Everything Wrong With the Adams Administration](https://www.libertarianism.org/everything-wrong-presidents/everything-wrong-adams-administration)
+
 [^90]: [The Best John Adams Quotes | The Art of Manliness](https://www.artofmanliness.com/character/knowledge-of-men/the-best-john-adams-quotes/)
+
 [^91]: [Abigail Smith Adams | National Women's History Museum](https://www.womenshistory.org/education-resources/biographies/abigail-adams)
+
 [^92]: [John Adams - Wikipedia](https://en.wikipedia.org/wiki/John_Adams)
+
 [^93]: [The Life and Times of John Adams [ushistory.org]](https://www.ushistory.org/us/19f.asp)
+
 [^94]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^95]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^96]: [John Adams - White House Historical Association](https://www.whitehousehistory.org/bios/john-adams)
+
 [^97]: [David McCullough John Adams Book Review | The New Republic](https://newrepublic.com/article/90636/david-mccullough-john-adams-book-review)
+
 [^98]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^99]: [John Adams, Architect of American Government | Mass.gov](https://www.mass.gov/guides/john-adams-architect-of-american-government)
+
 [^100]: [The Legacy of John Adams — Americana Corner](https://www.americanacorner.com/blog/legacy-of-john-adams)
+
 [^101]: [The Legacy of John Adams - Podcast | Constitution Center](https://constitutioncenter.org/news-debate/podcasts/the-legacy-of-john-adams)
+
 [^102]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^103]: [The Inspiring Legacy of John Adams — Americana Corner](https://www.americanacorner.com/blog/adams-legacy)
+
 [^104]: [Adams Electronic Archive : Correspondence between John and Abigail Adams](https://www.masshist.org/digitaladams/archive/letter/)
+
 [^105]: [John Quincy Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/jqadams/impact-and-legacy)
+
 [^106]: [Massachusetts Historical Society: Adams Biographical Sketches](https://www.masshist.org/adams/biographies)
+
 [^107]: [John Adams Quotes](https://www.americanhistorycentral.com/entries/john-adams-quotes/)
+
 [^108]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^109]: [The Legacy of John Adams — Americana Corner](https://www.americanacorner.com/blog/legacy-of-john-adams)
+
 [^110]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^111]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^112]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^113]: [The Inspiring Legacy of John Adams — Americana Corner](https://www.americanacorner.com/blog/adams-legacy)
+
 [^114]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^115]: [John Adams - One of America's Founding Fathers | The Constitutional Walking Tour of Philadelphia](https://www.theconstitutional.com/blog/2020/05/18/john-adams-one-americas-founding-fathers)
+
 [^116]: [John Adams: Atlas of American Independence | The Heritage Foundation](https://www.heritage.org/american-founders/leading-founders/john-adams-atlas-american-independence)
+
 [^117]: [Massachusetts Historical Society: Adams Biographical Sketches](https://www.masshist.org/adams/biographies)
+
 [^118]: [The Inspiring Legacy of John Adams — Americana Corner](https://www.americanacorner.com/blog/adams-legacy)
+
 [^119]: [John Adams, Architect of American Government | Mass.gov](https://www.mass.gov/guides/john-adams-architect-of-american-government)
+
 [^120]: [The Best John Adams Quotes | The Art of Manliness](https://www.artofmanliness.com/character/knowledge-of-men/the-best-john-adams-quotes/)
+
 [^121]: [John Adams Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/john-adams-biography/)
+
 [^122]: [John Adams, Architect of American Government | Mass.gov](https://www.mass.gov/guides/john-adams-architect-of-american-government)
+
 [^123]: [The Best John Adams Quotes | The Art of Manliness](https://www.artofmanliness.com/character/knowledge-of-men/the-best-john-adams-quotes/)
+
 [^124]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^125]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^126]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^127]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^128]: [A Look Back: Sedition, Free Speech and the President | Constitution Center](https://constitutioncenter.org/blog/a-look-back-sedition-free-speech-and-the-president)
+
 [^129]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^130]: [Alien and Sedition Acts were reviled in their time | Colorado Newsline](https://coloradonewsline.com/2025/03/12/alien-sedition-acts-reviled-in-their-time/)
+
 [^131]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^132]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^133]: [The Life and Times of John Adams [ushistory.org]](https://www.ushistory.org/us/19f.asp)
+
 [^134]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^135]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^136]: [John Adams: Impact and Legacy | Miller Center](https://millercenter.org/president/adams/impact-and-legacy)
+
 [^137]: [John Adams: Great or Not? | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/25010)
+
 [^138]: [Everything Wrong With the Adams Administration](https://www.libertarianism.org/everything-wrong-presidents/everything-wrong-adams-administration)
+
 [^139]: [John Adams: Domestic Affairs | Miller Center](https://millercenter.org/president/adams/domestic-affairs)
+
 [^140]: [Everything Wrong With the Adams Administration](https://www.libertarianism.org/everything-wrong-presidents/everything-wrong-adams-administration)
+
 [^141]: [Everything Wrong With the Adams Administration](https://www.libertarianism.org/everything-wrong-presidents/everything-wrong-adams-administration)
+
 [^142]: [David McCullough John Adams Book Review | The New Republic](https://newrepublic.com/article/90636/david-mccullough-john-adams-book-review)
+
 [^143]: [David McCullough John Adams Book Review | The New Republic](https://newrepublic.com/article/90636/david-mccullough-john-adams-book-review)
+
 [^144]: [Quotes – John Adams Historical Society](http://www.john-adams-heritage.com/quotes/)
+
 [^145]: [The Best John Adams Quotes | The Art of Manliness](https://www.artofmanliness.com/character/knowledge-of-men/the-best-john-adams-quotes/)
+
 [^146]: [John Adams Quotes](https://www.americanhistorycentral.com/entries/john-adams-quotes/)
+
 [^147]: [John Adams - Wikiquote](https://en.wikiquote.org/wiki/John_Adams)
+
 [^148]: [Quotes by John Adams | Online Library of Liberty](https://oll.libertyfund.org/people/john-adams/quotes)

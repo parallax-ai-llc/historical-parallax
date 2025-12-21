@@ -117,34 +117,34 @@ There is ongoing scholarly debate about Rudolf's true legacy. Whether the downfa
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1218 | Born on 1 May at Limburg Castle, Breisgau |
-| 1239 | Father Albert IV departs on Barons' Crusade |
-| 1240 | Assumes rule of Habsburg territories upon father's death |
-| 1248 | Excommunicated for supporting the Hohenstaufens |
-| 1251 | Marries Gertrude of Hohenberg |
-| 1253 | Daughter Matilda born |
-| 1254 | Participates in the Prussian Crusade |
-| 1255 | Son Albrecht (future Albert I) born |
-| 1270 | Son Rudolf II born |
-| 1271 | Daughter Judith born |
-| 1273 | Elected King of the Romans on 1 October in Frankfurt |
-| 1273 | Crowned in Aachen on 24 October by Archbishop Engelbert II |
-| 1274 | Election recognized by Pope Gregory X on 20 September |
-| 1274 | Reasserts right of monarchy to impose taxation on cities |
-| 1275 | Meets Pope Gregory X on 20 October at Lausanne Cathedral |
-| 1276 | Lays siege to Vienna; Ottokar II surrenders |
-| 1278 | Defeats and kills Ottokar II at Battle on the Marchfeld (26 August) |
-| 1281 | Wife Gertrude dies on 16 February in Vienna |
+| Year | Event                                                                          |
+| ---- | ------------------------------------------------------------------------------ |
+| 1218 | Born on 1 May at Limburg Castle, Breisgau                                      |
+| 1239 | Father Albert IV departs on Barons' Crusade                                    |
+| 1240 | Assumes rule of Habsburg territories upon father's death                       |
+| 1248 | Excommunicated for supporting the Hohenstaufens                                |
+| 1251 | Marries Gertrude of Hohenberg                                                  |
+| 1253 | Daughter Matilda born                                                          |
+| 1254 | Participates in the Prussian Crusade                                           |
+| 1255 | Son Albrecht (future Albert I) born                                            |
+| 1270 | Son Rudolf II born                                                             |
+| 1271 | Daughter Judith born                                                           |
+| 1273 | Elected King of the Romans on 1 October in Frankfurt                           |
+| 1273 | Crowned in Aachen on 24 October by Archbishop Engelbert II                     |
+| 1274 | Election recognized by Pope Gregory X on 20 September                          |
+| 1274 | Reasserts right of monarchy to impose taxation on cities                       |
+| 1275 | Meets Pope Gregory X on 20 October at Lausanne Cathedral                       |
+| 1276 | Lays siege to Vienna; Ottokar II surrenders                                    |
+| 1278 | Defeats and kills Ottokar II at Battle on the Marchfeld (26 August)            |
+| 1281 | Wife Gertrude dies on 16 February in Vienna                                    |
 | 1282 | Invests sons with duchies of Austria and Styria at Diet of Augsburg (December) |
-| 1283 | Treaty of Rheinfelden names Albrecht sole ruler (1 June) |
-| 1284 | Marries Agnes of Burgundy at age sixty-six |
-| 1286 | Declares Jews servi camerae ("serfs of the treasury") |
-| 1287 | Issues peace orders at Synod of Würzburg (March) |
-| 1289 | Leads expedition into Thuringia, destroys robber castles (December) |
-| 1291 | Dies in Speyer on 15 July; buried in Speyer Cathedral |
-| 1291 | Electors choose Adolf of Nassau over son Albert as successor |
+| 1283 | Treaty of Rheinfelden names Albrecht sole ruler (1 June)                       |
+| 1284 | Marries Agnes of Burgundy at age sixty-six                                     |
+| 1286 | Declares Jews servi camerae ("serfs of the treasury")                          |
+| 1287 | Issues peace orders at Synod of Würzburg (March)                               |
+| 1289 | Leads expedition into Thuringia, destroys robber castles (December)            |
+| 1291 | Dies in Speyer on 15 July; buried in Speyer Cathedral                          |
+| 1291 | Electors choose Adolf of Nassau over son Albert as successor                   |
 
 ---
 
@@ -177,146 +177,289 @@ This physical description from medieval sources provides insight into Rudolf's i
 ## References
 
 [^1]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^2]: Thirteenth-Century Holy Roman Empire and The Great Interregnum - War History, https://warhistory.org/@msw/article/thirteenth-century-holy-roman-empire-and-the-great-interregnum
+
 [^3]: Battle on the Marchfeld - Wikipedia, https://en.wikipedia.org/wiki/Battle_on_the_Marchfeld
+
 [^4]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^5]: Born in 1218: Rudolf of Habsburg - Swiss History Blog, https://blog.nationalmuseum.ch/en/2018/08/born-in-1218-rudolf-of-habsburg/
+
 [^6]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^7]: House of Habsburg | Rulers, Motto, History, Map, & Inbreeding | Britannica, https://www.britannica.com/topic/House-of-Habsburg
+
 [^8]: The Habsburgs' origins as a Swiss noble family | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/habsburgs-origins-swiss-noble-family
+
 [^9]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^10]: The Swiss roots of the Habsburg family – Extinguished Countries, https://extinguishedcountries.com/the-swiss-roots-of-the-habsburg-family/
+
 [^11]: Rudolf I of Germany Facts for Kids, https://kids.kiddle.co/Rudolf_I_of_Germany
+
 [^12]: Rudolf I | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/biography/rudolf-i
+
 [^13]: Rudolf I: The progenitor | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-progenitor
+
 [^14]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^15]: The Habsburgs' origins as a Swiss noble family | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/habsburgs-origins-swiss-noble-family
+
 [^16]: Rudolf I of Habsburg: From 'poor count' to King of the Romans | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-habsburg-poor-count-king-romans
+
 [^17]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^18]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^19]: Rudolf I | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/biography/rudolf-i
+
 [^20]: Rudolf I of Habsburg: From 'poor count' to King of the Romans | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-habsburg-poor-count-king-romans
+
 [^21]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^22]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^23]: Interregnum (Holy Roman Empire) - Wikipedia, https://en.wikipedia.org/wiki/Interregnum_(Holy_Roman_Empire)
+
 [^24]: Rudolf I: his ascent to become the head of the Holy Roman Empire | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-his-ascent-become-head-holy-roman-empire
+
 [^25]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^26]: 1273 imperial election - Wikipedia, https://en.wikipedia.org/wiki/1273_imperial_election
+
 [^27]: Rudolf I of Habsburg: From 'poor count' to King of the Romans | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-habsburg-poor-count-king-romans
+
 [^28]: Rudolf I: his ascent to become the head of the Holy Roman Empire | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-his-ascent-become-head-holy-roman-empire
+
 [^29]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^30]: Rudolf I: his ascent to become the head of the Holy Roman Empire | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-his-ascent-become-head-holy-roman-empire
+
 [^31]: Coronation of the Holy Roman Emperor - Wikipedia, https://en.wikipedia.org/wiki/Coronation_of_the_Holy_Roman_Emperor
+
 [^32]: Coronation of the Holy Roman Emperor - Wikipedia, https://en.wikipedia.org/wiki/Coronation_of_the_Holy_Roman_Emperor
+
 [^33]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^34]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^35]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^36]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^37]: Rudolf I of Germany - King of Germany & Holy Roman Empire, https://biographyhost.com/p/rudolf-i-of-germany.html
+
 [^38]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^39]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^40]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^41]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^42]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^43]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^44]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^45]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^46]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^47]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^48]: Battle on the Marchfeld - Wikipedia, https://en.wikipedia.org/wiki/Battle_on_the_Marchfeld
+
 [^49]: Rudolf I: The decisive battle | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-decisive-battle
+
 [^50]: Battle on the Marchfeld - Wikipedia, https://en.wikipedia.org/wiki/Battle_on_the_Marchfeld
+
 [^51]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^52]: Battle on the Marchfeld: Victory of Rudolf I of Habsburg and Ladislaus IV of Hungary over Ottokar II of Bohemia - Hungarian Conservative, https://www.hungarianconservative.com/articles/culture_society/battle-on-the-marchfeld_victory_rudolf-i_ladislaus-iv_ottokar-ii_habsburg-dynasty_bohemia_hungary/
+
 [^53]: The Habsburgs take over Austria | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/habsburgs-take-over-austria
+
 [^54]: Battle on the Marchfeld - Wikipedia, https://en.wikipedia.org/wiki/Battle_on_the_Marchfeld
+
 [^55]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^56]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^57]: Albrecht, the first Habsburg ruler in Austria and Styria | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/albrecht-first-habsburg-ruler-austria-and-styria
+
 [^58]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^59]: The Rise and Fall of the Habsburg Family - Offbeat Budapest & Vienna, https://www.offbeatbudapest.com/vienna-city-guide/the-rise-and-fall-of-the-habsburg-family/
+
 [^60]: On this Day, in 1278: the Battle on the Marchfeld marked the rise of the House of Habsburg – Kafkadesk, https://kafkadeskdotorg.wordpress.com/2021/08/26/on-this-day-in-1278-the-battle-on-the-marchfeld-marked-the-rise-of-the-house-of-habsburg/
+
 [^61]: Rudolf von Habsburg (1273-1291) • History of the Germans Podcast, https://historyofthegermans.com/rudolf-von-habsburg-1273-1291/
+
 [^62]: Rudolf von Habsburg (1273-1291) • History of the Germans Podcast, https://historyofthegermans.com/rudolf-von-habsburg-1273-1291/
+
 [^63]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^64]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^65]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^66]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^67]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^68]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^69]: Albert I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Albert_I_of_Germany
+
 [^70]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^71]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^72]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^73]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^74]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^75]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^76]: Episode 203 – From Rudolf I to Albrecht the Wise (1273-1358) • History of the Germans Podcast, https://historyofthegermans.com/2025/08/early-habsburgs/
+
 [^77]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^78]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^79]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^80]: Gertrude of Hohenberg - Wikipedia, https://en.wikipedia.org/wiki/Gertrude_of_Hohenberg
+
 [^81]: Rudolf I of Habsburg: From 'poor count' to King of the Romans | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-habsburg-poor-count-king-romans
+
 [^82]: Gertrude of Hohenberg - Wikipedia, https://en.wikipedia.org/wiki/Gertrude_of_Hohenberg
+
 [^83]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^84]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^85]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^86]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^87]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^88]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^89]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^90]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^91]: Gertrude of Hohenberg - Wikipedia, https://en.wikipedia.org/wiki/Gertrude_of_Hohenberg
+
 [^92]: Gertrude of Hohenberg - Wikipedia, https://en.wikipedia.org/wiki/Gertrude_of_Hohenberg
+
 [^93]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^94]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^95]: Rudolf I: marriages and offspring | Die Welt der Habsburger, https://www.habsburger.net/en/chapter/rudolf-i-marriages-and-offspring
+
 [^96]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^97]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^98]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^99]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^100]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^101]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^102]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^103]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^104]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^105]: July 15, 1291: Death of Rudolph I, Count of Habsburg, King of the Romans | European Royal History, https://europeanroyalhistory.wordpress.com/2022/07/15/july-15-1291-death-of-rudolph-i-count-of-habsburg-king-of-the-romans/
+
 [^106]: Born in 1218: Rudolf of Habsburg - Swiss History Blog, https://blog.nationalmuseum.ch/en/2018/08/born-in-1218-rudolf-of-habsburg/
+
 [^107]: The Crypt - The Speyer Cathedral, https://www.speyer.de/en/tourism/experience-speyer/tourist-attractions/the-speyer-cathedral/the-crypt/
+
 [^108]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^109]: Albert I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Albert_I_of_Germany
+
 [^110]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^111]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^112]: Rudolf I of Germany: The Pioneer of the Habsburg Dynasty, https://dayhist.com/persons/rudolf-i-germany-habsburg-dynasty
+
 [^113]: Rudolf I of Germany: The Pioneer of the Habsburg Dynasty, https://dayhist.com/persons/rudolf-i-germany-habsburg-dynasty
+
 [^114]: Tracing the Austrian Royal Family Tree: The House of Habsburg Legacy | History Cooperative, https://historycooperative.org/austrian-royal-family-tree/
+
 [^115]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^116]: The Rise and Fall of the Habsburg Empire—In Six Maps | Hapsburg-Dynasty.com, https://habsburg-dynasty.com/habsburg-empire-map-history/
+
 [^117]: Rudolf I of Germany - Wikipedia, https://en.wikipedia.org/wiki/Rudolf_I_of_Germany
+
 [^118]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^119]: The Swiss roots of the Habsburg family – Extinguished Countries, https://extinguishedcountries.com/the-swiss-roots-of-the-habsburg-family/
+
 [^120]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^121]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^122]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^123]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^124]: Episode 203 – From Rudolf I to Albrecht the Wise (1273-1358) • History of the Germans Podcast, https://historyofthegermans.com/2025/08/early-habsburgs/
+
 [^125]: Rudolf von Habsburg (1273-1291) • History of the Germans Podcast, https://historyofthegermans.com/rudolf-von-habsburg-1273-1291/
+
 [^126]: Rudolf von Habsburg (1273-1291) • History of the Germans Podcast, https://historyofthegermans.com/rudolf-von-habsburg-1273-1291/
+
 [^127]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^128]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^129]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^130]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^131]: Episode 203 – From Rudolf I to Albrecht the Wise (1273-1358) • History of the Germans Podcast, https://historyofthegermans.com/2025/08/early-habsburgs/
+
 [^132]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^133]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^134]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^135]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^136]: Rudolf von Habsburg (1273-1291) • History of the Germans Podcast, https://historyofthegermans.com/rudolf-von-habsburg-1273-1291/
+
 [^137]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^138]: Rudolf I | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/rudolf-i
+
 [^139]: Rudolf I | Holy Roman Emperor & German King | Britannica, https://www.britannica.com/biography/Rudolf-I-king-of-Germany
+
 [^140]: Tu felix Austria nube | Die Welt der Habsburger, https://www.habsburger.net/en/stories/tu-felix-austria-nube
+
 [^141]: Episode 203 – From Rudolf I to Albrecht the Wise (1273-1358) • History of the Germans Podcast, https://historyofthegermans.com/2025/08/early-habsburgs/
+
 [^142]: Rudolf of Habsburg | Catholic Answers Encyclopedia, https://www.catholic.com/encyclopedia/rudolf-of-habsburg
+
 [^143]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm
+
 [^144]: CATHOLIC ENCYCLOPEDIA: Rudolf of Habsburg, https://www.newadvent.org/cathen/13218b.htm

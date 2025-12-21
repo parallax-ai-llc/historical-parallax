@@ -35,7 +35,7 @@ In 1919, the defeated and bitter Hitler joined the tiny German Workers' Party (D
 
 ### Beer Hall Putsch (1923)
 
-On November 8-9, 1923, Hitler attempted to seize power in Bavaria as a first step toward overthrowing the Weimar Republic. The "Beer Hall Putsch" failed; 16 Nazis and 4 police officers died. Hitler was arrested and sentenced to five years in prison but served only nine months, during which he dictated *Mein Kampf* ("My Struggle"), outlining his ideology of racial supremacy, antisemitism, anti-communism, and "Lebensraum" (living space) in the East.[^8]
+On November 8-9, 1923, Hitler attempted to seize power in Bavaria as a first step toward overthrowing the Weimar Republic. The "Beer Hall Putsch" failed; 16 Nazis and 4 police officers died. Hitler was arrested and sentenced to five years in prison but served only nine months, during which he dictated _Mein Kampf_ ("My Struggle"), outlining his ideology of racial supremacy, antisemitism, anti-communism, and "Lebensraum" (living space) in the East.[^8]
 
 ### Democratic Rise (1924-1933)
 
@@ -60,6 +60,7 @@ After his release, Hitler rebuilt the Nazi Party and pursued power through elect
 ### The Totalitarian State
 
 Hitler transformed Germany into a one-party dictatorship:
+
 - All other political parties banned
 - Trade unions dissolved; replaced by Nazi "German Labour Front"
 - Press, radio, and culture brought under Nazi control (Goebbels' propaganda ministry)
@@ -69,6 +70,7 @@ Hitler transformed Germany into a one-party dictatorship:
 ### Racial Policies
 
 Nazi ideology placed "Aryan" racial purity at its center:
+
 - **Nuremberg Laws (1935):** Stripped Jews of citizenship; banned intermarriage
 - Forced sterilization of "unfit" Germans
 - Persecution of Roma, homosexuals, disabled people, and political dissidents
@@ -77,6 +79,7 @@ Nazi ideology placed "Aryan" racial purity at its center:
 ### Economic and Military Revival
 
 Hitler achieved massive popularity through:
+
 - Reducing unemployment via public works (autobahns), rearmament, and conscription
 - Violating the Treaty of Versailles by rebuilding the military
 - Restoring German "pride" and repudiating the "humiliation" of defeat
@@ -204,7 +207,7 @@ Hitler's career remains a warning: that nationalism can become murder, that demo
 
 > "The great masses of the people will more easily fall victim to a big lie than to a small one."
 
-From *Mein Kampf*, describing propaganda technique.[^23]
+From _Mein Kampf_, describing propaganda technique.[^23]
 
 > "The victor will never be asked if he told the truth."
 
@@ -218,50 +221,73 @@ Before invading Poland, explaining the planned false-flag operation.[^24]
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1889 | Born in Braunau am Inn, Austria |
-| 1907-1908 | Rejected by Vienna Academy of Fine Arts |
-| 1914-1918 | Served in German Army during WWI |
-| 1919 | Joined German Workers' Party (DAP) |
-| 1921 | Became leader of Nazi Party (NSDAP) |
-| 1923 | Beer Hall Putsch fails; imprisoned |
-| 1925 | *Mein Kampf* published |
-| 1933 | Appointed Chancellor of Germany |
-| 1934 | Becomes Führer after Hindenburg's death |
-| 1935 | Nuremberg Laws enacted |
-| 1938 | Anschluss with Austria; Munich Agreement |
-| 1939 | Invades Poland; WWII begins |
-| 1941 | Invades Soviet Union; Holocaust escalates |
-| 1942 | Wannsee Conference: "Final Solution" systematized |
-| 1944 | Survives assassination attempt (July 20 Plot) |
-| 1945 | Commits suicide in Berlin (April 30) |
+| Year      | Event                                             |
+| --------- | ------------------------------------------------- |
+| 1889      | Born in Braunau am Inn, Austria                   |
+| 1907-1908 | Rejected by Vienna Academy of Fine Arts           |
+| 1914-1918 | Served in German Army during WWI                  |
+| 1919      | Joined German Workers' Party (DAP)                |
+| 1921      | Became leader of Nazi Party (NSDAP)               |
+| 1923      | Beer Hall Putsch fails; imprisoned                |
+| 1925      | _Mein Kampf_ published                            |
+| 1933      | Appointed Chancellor of Germany                   |
+| 1934      | Becomes Führer after Hindenburg's death           |
+| 1935      | Nuremberg Laws enacted                            |
+| 1938      | Anschluss with Austria; Munich Agreement          |
+| 1939      | Invades Poland; WWII begins                       |
+| 1941      | Invades Soviet Union; Holocaust escalates         |
+| 1942      | Wannsee Conference: "Final Solution" systematized |
+| 1944      | Survives assassination attempt (July 20 Plot)     |
+| 1945      | Commits suicide in Berlin (April 30)              |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler)
+
 [^2]: [National WWII Museum - Hitler Biography](https://www.nationalww2museum.org/war/topics/adolf-hitler)
+
 [^3]: [Britannica - Hitler Early Life](https://www.britannica.com/biography/Adolf-Hitler)
+
 [^4]: [University of Michigan - Hitler Biography](https://www.umich.edu/~german/history/hitler/)
+
 [^5]: [Study.com - Hitler Overview](https://study.com/academy/lesson/adolf-hitler-biography.html)
+
 [^6]: [Wikipedia - Hitler's Military Career](https://en.wikipedia.org/wiki/Military_career_of_Adolf_Hitler)
+
 [^7]: [Wikipedia - Nazi Party Rise](https://en.wikipedia.org/wiki/Rise_of_Nazi_Party)
+
 [^8]: [USHMM - Hitler's Rise](https://www.ushmm.org/learn/timeline-of-events/1918-1933/adolf-hitler-becomes-chancellor)
+
 [^9]: [Holocaust Explained - Rise to Power](https://www.theholocaustexplained.org/the-nazi-rise-to-power/)
+
 [^10]: [USHMM - Consolidation](https://www.ushmm.org/learn/nazi-germany-1933-1945)
+
 [^11]: [Wikipedia - Nazi Germany](https://en.wikipedia.org/wiki/Nazi_Germany)
+
 [^12]: [Holocaust Explained - Nazi Racial Policy](https://www.theholocaustexplained.org/nazi-racial-policy/)
+
 [^13]: [Britannica - Nazi Economics](https://www.britannica.com/place/Germany/The-Third-Reich-1933-45)
+
 [^14]: [Wikipedia - European Theatre of WWII](https://en.wikipedia.org/wiki/European_theatre_of_World_War_II)
+
 [^15]: [Wikipedia - Operation Barbarossa](https://en.wikipedia.org/wiki/Operation_Barbarossa)
+
 [^16]: [Quora - Hitler's Military Decisions](https://www.quora.com/Hitler-military-decisions)
+
 [^17]: [Wikipedia - The Holocaust](https://en.wikipedia.org/wiki/The_Holocaust)
+
 [^18]: [USHMM - Final Solution](https://www.ushmm.org/learn/introduction-to-the-holocaust/what-was-the-holocaust)
+
 [^19]: [Wikipedia - Death of Hitler](https://en.wikipedia.org/wiki/Death_of_Adolf_Hitler)
+
 [^20]: [Anne Frank House - Hitler](https://www.annefrank.org/en/anne-frank/go-in-depth/who-was-adolf-hitler/)
+
 [^21]: [Truman Library - Hitler's Death](https://www.trumanlibraryinstitute.org/hitler-death/)
+
 [^22]: [History for Kids - Hitler](https://www.historyforkids.org/adolf-hitler/)
+
 [^23]: [Mein Kampf - Quote](https://en.wikiquote.org/wiki/Mein_Kampf)
+
 [^24]: [Britannica - Hitler Death](https://www.britannica.com/biography/Adolf-Hitler/Death)

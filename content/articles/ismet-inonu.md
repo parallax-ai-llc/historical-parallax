@@ -187,51 +187,51 @@ Finally, some scholars argue that İnönü's long dominance of Turkish politics�
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1884 | Born on September 24 in Smyrna (İzmir), Ottoman Empire |
-| 1894 | Graduated from Sivas Military Junior High School |
-| 1904 | Graduated from Imperial School of Military Engineering as lieutenant gunnery officer |
-| 1906 | Graduated from Military Academy as first-rank staff captain (September 26) |
-| 1906 | Began active military duty in Second Army, Adrianople (October 2) |
-| 1907 | Briefly joined Committee of Union and Progress |
-| 1914 | Promoted to lieutenant colonel (November 29) |
-| 1916 | Married Emine Mevhibe (April 13) |
-| 1919 | First son İzzet born in Istanbul |
-| 1921 | Son İzzet died in Malatya; commanded First Battle of İnönü (January) |
-| 1921 | Commanded Second Battle of İnönü (April) |
-| 1922-1924 | Served as first Chief of General Staff of Turkish Army |
-| 1922-1923 | Chief negotiator at Lausanne Conference as Minister of Foreign Affairs |
-| 1923 | Proclamation of Turkish Republic; İnönü became first Prime Minister (October 30) |
-| 1924 | Son Ömer born in İzmir |
-| 1924 | Played key role in abolition of Caliphate |
-| 1925-1937 | Served as Prime Minister for second extended term |
-| 1926 | Son Erdal born in Ankara |
-| 1930 | Daughter Özden born in Ankara (February 7) |
-| 1934 | Received surname "İnönü" under new Surname Law |
-| 1938 | Elected second President of Turkey following Atatürk's death (November 11) |
-| 1938 | Granted title "Millî Şef" (National Chief) |
-| 1939 | Signed tripartite treaty of alliance with Britain and France (October 19) |
-| 1942 | Implementation of controversial Wealth Tax (Varlık Vergisi) |
-| 1943 | Met with Churchill at Adana Conference (January) |
-| 1943 | Attended Second Cairo Conference with Roosevelt and Churchill (December) |
-| 1944 | Wealth Tax abolished under international pressure |
-| 1944 | Turkey broke diplomatic relations with Germany (August) |
-| 1945 | Turkey severed diplomatic relations with Japan (January 5) |
-| 1945 | Declared war on Germany (February 23) |
-| 1945 | Announced support for opposition parties (November 1) |
-| 1946 | Held first multi-party elections in Turkish Republic |
-| 1947 | Gave "equal distance" speech declaring neutrality between government and opposition (July 12) |
-| 1950 | Lost presidential election; peaceful transfer of power to Democrat Party |
-| 1950-1960 | Served as opposition leader |
-| 1960 | Military coup overthrew Menderes government; advocated for Menderes' pardoning |
-| 1961 | Returned as Prime Minister following 1961 elections |
-| 1965 | Ended term as Prime Minister |
-| 1969 | Famous campaign remark: "I did not let you become fatherless" |
-| 1971 | Endorsed military memorandum, causing internal party crisis |
-| 1972 | Defeated by Bülent Ecevit for CHP leadership |
-| 1973 | Died of heart attack on December 25 in Ankara, age 89 |
-| 1973 | Buried opposite Atatürk's mausoleum at Anıtkabir |
+| Year      | Event                                                                                         |
+| --------- | --------------------------------------------------------------------------------------------- |
+| 1884      | Born on September 24 in Smyrna (İzmir), Ottoman Empire                                        |
+| 1894      | Graduated from Sivas Military Junior High School                                              |
+| 1904      | Graduated from Imperial School of Military Engineering as lieutenant gunnery officer          |
+| 1906      | Graduated from Military Academy as first-rank staff captain (September 26)                    |
+| 1906      | Began active military duty in Second Army, Adrianople (October 2)                             |
+| 1907      | Briefly joined Committee of Union and Progress                                                |
+| 1914      | Promoted to lieutenant colonel (November 29)                                                  |
+| 1916      | Married Emine Mevhibe (April 13)                                                              |
+| 1919      | First son İzzet born in Istanbul                                                              |
+| 1921      | Son İzzet died in Malatya; commanded First Battle of İnönü (January)                          |
+| 1921      | Commanded Second Battle of İnönü (April)                                                      |
+| 1922-1924 | Served as first Chief of General Staff of Turkish Army                                        |
+| 1922-1923 | Chief negotiator at Lausanne Conference as Minister of Foreign Affairs                        |
+| 1923      | Proclamation of Turkish Republic; İnönü became first Prime Minister (October 30)              |
+| 1924      | Son Ömer born in İzmir                                                                        |
+| 1924      | Played key role in abolition of Caliphate                                                     |
+| 1925-1937 | Served as Prime Minister for second extended term                                             |
+| 1926      | Son Erdal born in Ankara                                                                      |
+| 1930      | Daughter Özden born in Ankara (February 7)                                                    |
+| 1934      | Received surname "İnönü" under new Surname Law                                                |
+| 1938      | Elected second President of Turkey following Atatürk's death (November 11)                    |
+| 1938      | Granted title "Millî Şef" (National Chief)                                                    |
+| 1939      | Signed tripartite treaty of alliance with Britain and France (October 19)                     |
+| 1942      | Implementation of controversial Wealth Tax (Varlık Vergisi)                                   |
+| 1943      | Met with Churchill at Adana Conference (January)                                              |
+| 1943      | Attended Second Cairo Conference with Roosevelt and Churchill (December)                      |
+| 1944      | Wealth Tax abolished under international pressure                                             |
+| 1944      | Turkey broke diplomatic relations with Germany (August)                                       |
+| 1945      | Turkey severed diplomatic relations with Japan (January 5)                                    |
+| 1945      | Declared war on Germany (February 23)                                                         |
+| 1945      | Announced support for opposition parties (November 1)                                         |
+| 1946      | Held first multi-party elections in Turkish Republic                                          |
+| 1947      | Gave "equal distance" speech declaring neutrality between government and opposition (July 12) |
+| 1950      | Lost presidential election; peaceful transfer of power to Democrat Party                      |
+| 1950-1960 | Served as opposition leader                                                                   |
+| 1960      | Military coup overthrew Menderes government; advocated for Menderes' pardoning                |
+| 1961      | Returned as Prime Minister following 1961 elections                                           |
+| 1965      | Ended term as Prime Minister                                                                  |
+| 1969      | Famous campaign remark: "I did not let you become fatherless"                                 |
+| 1971      | Endorsed military memorandum, causing internal party crisis                                   |
+| 1972      | Defeated by Bülent Ecevit for CHP leadership                                                  |
+| 1973      | Died of heart attack on December 25 in Ankara, age 89                                         |
+| 1973      | Buried opposite Atatürk's mausoleum at Anıtkabir                                              |
 
 ---
 
@@ -250,100 +250,197 @@ Finally, some scholars argue that İnönü's long dominance of Turkish politics�
 ## References
 
 [^1]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^2]: [İsmet İnönü | Turkish Statesman, 2nd President of Turkey - Britannica](https://www.britannica.com/biography/Ismet-Inonu)
+
 [^3]: [Presidency of the Republic of Türkiye: İsmet İNÖNÜ](https://tccb.gov.tr/en/ismet-inonu)
+
 [^4]: [The Politics of Turkish Democracy: İsmet İnönü and the Formation of the Multi-Party System, 1938-1950 - JSTOR](https://www.jstor.org/stable/jj.18255150)
+
 [^5]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^6]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^7]: [His Life – İnönü Foundation](https://www.ismetinonu.org.tr/en/ismet-inonu-his-life/)
+
 [^8]: [İsmet Paşa - EBSCO Research Starters](https://www.ebsco.com/research-starters/history/ismet-pasa)
+
 [^9]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^10]: [Presidency of the Republic of Türkiye: İsmet İNÖNÜ](https://tccb.gov.tr/en/ismet-inonu)
+
 [^11]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^12]: [Report of Research on Ismet Inönü and the Modern Turkish State - Vassar College](https://www.vassar.edu/history/clark-fellowship/2007/ismet-inonu-and-modern-turkish-state)
+
 [^13]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^14]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^15]: [His Life – İnönü Foundation](https://www.ismetinonu.org.tr/en/ismet-inonu-his-life/)
+
 [^16]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^17]: [İsmet Pasha (İnönü) - Turkey in the First World War](https://turkeyswar.com/whoswho/ismet-pasha-inonu/)
+
 [^18]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^19]: [İsmet İnönü - Military Wiki](https://military-history.fandom.com/wiki/İsmet_İnönü)
+
 [^20]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^21]: [Ismet Inönü: Peacemaker, minister of foreign affairs, prime minister - Daily Sabah](https://www.dailysabah.com/arts/portrait/ismet-inonu-peacemaker-minister-of-foreign-affairs-prime-minister-in-shadow-of-ataturk)
+
 [^22]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^23]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^24]: [Presidency of the Republic of Türkiye: İsmet İNÖNÜ](https://tccb.gov.tr/en/ismet-inonu)
+
 [^25]: [İsmet İnönü | Turkish Statesman, 2nd President of Turkey - Britannica](https://www.britannica.com/biography/Ismet-Inonu)
+
 [^26]: [İsmet İnönü: The Second President of Turkey (1938–1950)](https://langerhanscellhistiocytosis.org/ismet-inonu-the-second-president-of-turkey-1938-1950/)
+
 [^27]: [Full article: Turkish Neutrality in the Second World War and Relations with the Soviet Union](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^28]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^29]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^30]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^31]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^32]: [A Two-fold Analysis of Turkey's Neutrality Policy in World War II](https://ctad.hacettepe.edu.tr/15_29/05-onsoy_baba.pdf)
+
 [^33]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^34]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^35]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^36]: [İsmet İnönü: The Second President of Turkey (1938–1950)](https://langerhanscellhistiocytosis.org/ismet-inonu-the-second-president-of-turkey-1938-1950/)
+
 [^37]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^38]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^39]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^40]: [Presidency of the Republic of Türkiye: İsmet İNÖNÜ](https://tccb.gov.tr/en/ismet-inonu)
+
 [^41]: [The Politics of Turkish Democracy: İsmet İnönü and the Formation of the Multi-Party System - JSTOR](https://www.jstor.org/stable/jj.18255150)
+
 [^42]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^43]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^44]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^45]: [İsmet İnönü | Turkish Statesman, 2nd President of Turkey - Britannica](https://www.britannica.com/biography/Ismet-Inonu)
+
 [^46]: [Presidency of the Republic of Türkiye: İsmet İNÖNÜ](https://tccb.gov.tr/en/ismet-inonu)
+
 [^47]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^48]: [Presidency of the Republic of Türkiye: İsmet İNÖNÜ](https://tccb.gov.tr/en/ismet-inonu)
+
 [^49]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^50]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^51]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^52]: [Report of Research on Ismet Inönü and the Modern Turkish State - Vassar College](https://www.vassar.edu/history/clark-fellowship/2007/ismet-inonu-and-modern-turkish-state)
+
 [^53]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^54]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^55]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^56]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^57]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^58]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^59]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^60]: [Mevhibe İnönü - Grokipedia](https://grokipedia.com/page/Mevhibe_%C4%B0n%C3%B6n%C3%BC)
+
 [^61]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^62]: [(Mustafa İsmet) İsmet İnönü - Genealogy](https://www.geni.com/people/İsmet-İnönü/6000000001845624978)
+
 [^63]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^64]: [(Mustafa İsmet) İsmet İnönü - Genealogy](https://www.geni.com/people/İsmet-İnönü/6000000001845624978)
+
 [^65]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^66]: [Mevhibe İnönü - Grokipedia](https://grokipedia.com/page/Mevhibe_%C4%B0n%C3%B6n%C3%BC)
+
 [^67]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^68]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^69]: [The Politics of Turkish Democracy: İsmet İnönü and the Formation of the Multi-Party System - JSTOR](https://www.jstor.org/stable/jj.18255150)
+
 [^70]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^71]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^72]: [Ismet Inönü: The Making of a Turkish Statesman - Middle East Forum](https://www.meforum.org/middle-east-quarterly/book-reviews/ismet-inonu-the-making-of-a-turkish-statesman)
+
 [^73]: [Report of Research on Ismet Inönü and the Modern Turkish State - Vassar College](https://www.vassar.edu/history/clark-fellowship/2007/ismet-inonu-and-modern-turkish-state)
+
 [^74]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^75]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^76]: [İnönü Foundation](https://www.ismetinonu.org.tr/en/homepage/)
+
 [^77]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^78]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^79]: [Ismet Inönü: The Making of a Turkish Statesman - Middle East Forum](https://www.meforum.org/middle-east-quarterly/book-reviews/ismet-inonu-the-making-of-a-turkish-statesman)
+
 [^80]: [The Politics of Turkish Democracy: İsmet İnönü and the Formation of the Multi-Party System - JSTOR](https://www.jstor.org/stable/jj.18255150)
+
 [^81]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^82]: [İsmet İnönü | Turkish Statesman, 2nd President of Turkey - Britannica](https://www.britannica.com/biography/Ismet-Inonu)
+
 [^83]: [Report of Research on Ismet Inönü and the Modern Turkish State - Vassar College](https://www.vassar.edu/history/clark-fellowship/2007/ismet-inonu-and-modern-turkish-state)
+
 [^84]: [Ismet Inönü: Peacemaker, minister of foreign affairs, prime minister - Daily Sabah](https://www.dailysabah.com/arts/portrait/ismet-inonu-peacemaker-minister-of-foreign-affairs-prime-minister-in-shadow-of-ataturk)
+
 [^85]: [Ismet Inönü: The Making of a Turkish Statesman - Middle East Forum](https://www.meforum.org/middle-east-quarterly/book-reviews/ismet-inonu-the-making-of-a-turkish-statesman)
+
 [^86]: [Report of Research on Ismet Inönü and the Modern Turkish State - Vassar College](https://www.vassar.edu/history/clark-fellowship/2007/ismet-inonu-and-modern-turkish-state)
+
 [^87]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^88]: [Report of Research on Ismet Inönü and the Modern Turkish State - Vassar College](https://www.vassar.edu/history/clark-fellowship/2007/ismet-inonu-and-modern-turkish-state)
+
 [^89]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^90]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^91]: [The Politics of Turkish Democracy: İsmet İnönü and the Formation of the Multi-Party System - JSTOR](https://www.jstor.org/stable/jj.18255150)
+
 [^92]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^93]: [Full article: Turkish Neutrality in the Second World War](https://www.tandfonline.com/doi/full/10.1080/19448953.2021.1935082)
+
 [^94]: [İsmet İnönü - Wikipedia](https://en.wikipedia.org/wiki/İsmet_İnönü)
+
 [^95]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^96]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^97]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)
+
 [^98]: [İsmet İnönü facts for kids](https://kids.kiddle.co/İsmet_İnönü)

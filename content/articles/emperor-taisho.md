@@ -137,25 +137,25 @@ Finally, some critics have argued that the reverence and protection afforded to 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1879 | Born on August 31 as Prince Yoshihito, third son of Emperor Meiji |
-| 1879 | Contracts cerebral meningitis at 70 days old, causing lasting neurological damage |
-| 1887 | Becomes heir apparent after the death of his two older brothers |
-| 1889 | Meiji Constitution promulgated, establishing constitutional monarchy |
-| 1900 | Marries Princess Sadako Kujō (later Empress Teimei) on May 10 |
-| 1901 | Birth of first son, Crown Prince Hirohito (later Emperor Shōwa) |
-| 1902 | Birth of second son, Prince Yasuhito (Prince Chichibu) |
-| 1905 | Birth of third son, Prince Nobuhito (Prince Takamatsu) |
-| 1912 | Ascends to throne on July 30 following death of Emperor Meiji; Taishō era begins |
-| 1914 | Japan enters World War I on the side of the Allies |
-| 1915 | Japan presents Twenty-One Demands to China; birth of fourth son, Prince Takahito (Prince Mikasa) |
-| 1918 | Hara Takashi becomes first commoner prime minister, marking rise of party politics |
+| Year | Event                                                                                                                             |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1879 | Born on August 31 as Prince Yoshihito, third son of Emperor Meiji                                                                 |
+| 1879 | Contracts cerebral meningitis at 70 days old, causing lasting neurological damage                                                 |
+| 1887 | Becomes heir apparent after the death of his two older brothers                                                                   |
+| 1889 | Meiji Constitution promulgated, establishing constitutional monarchy                                                              |
+| 1900 | Marries Princess Sadako Kujō (later Empress Teimei) on May 10                                                                     |
+| 1901 | Birth of first son, Crown Prince Hirohito (later Emperor Shōwa)                                                                   |
+| 1902 | Birth of second son, Prince Yasuhito (Prince Chichibu)                                                                            |
+| 1905 | Birth of third son, Prince Nobuhito (Prince Takamatsu)                                                                            |
+| 1912 | Ascends to throne on July 30 following death of Emperor Meiji; Taishō era begins                                                  |
+| 1914 | Japan enters World War I on the side of the Allies                                                                                |
+| 1915 | Japan presents Twenty-One Demands to China; birth of fourth son, Prince Takahito (Prince Mikasa)                                  |
+| 1918 | Hara Takashi becomes first commoner prime minister, marking rise of party politics                                                |
 | 1919 | Japan participates in Paris Peace Conference as one of the "Big Five" powers; March 1st Movement for independence erupts in Korea |
-| 1921 | Crown Prince Hirohito appointed as regent on November 25 due to Emperor Taishō's declining health |
-| 1923 | Great Kantō Earthquake devastates Tokyo and Yokohama on September 1 |
-| 1925 | Universal Manhood Suffrage Law passed, extending vote to all men over 25; Peace Preservation Law enacted |
-| 1926 | Dies on December 25 at age 47 at Hayama Imperial Villa; succeeded by Crown Prince Hirohito |
+| 1921 | Crown Prince Hirohito appointed as regent on November 25 due to Emperor Taishō's declining health                                 |
+| 1923 | Great Kantō Earthquake devastates Tokyo and Yokohama on September 1                                                               |
+| 1925 | Universal Manhood Suffrage Law passed, extending vote to all men over 25; Peace Preservation Law enacted                          |
+| 1926 | Dies on December 25 at age 47 at Hayama Imperial Villa; succeeded by Crown Prince Hirohito                                        |
 
 ---
 
@@ -187,114 +187,114 @@ Context: This posthumous assessment captures the irony at the heart of Emperor T
 
 ## References
 
-[^1]: Bix, Herbert P. *Hirohito and the Making of Modern Japan*. New York: HarperCollins, 2000.
+[^1]: Bix, Herbert P. _Hirohito and the Making of Modern Japan_. New York: HarperCollins, 2000.
 
-[^2]: Large, Stephen S. *Emperor Hirohito and Showa Japan: A Political Biography*. London: Routledge, 1992.
+[^2]: Large, Stephen S. _Emperor Hirohito and Showa Japan: A Political Biography_. London: Routledge, 1992.
 
-[^3]: Keene, Donald. *Emperor of Japan: Meiji and His World, 1852-1912*. New York: Columbia University Press, 2002.
+[^3]: Keene, Donald. _Emperor of Japan: Meiji and His World, 1852-1912_. New York: Columbia University Press, 2002.
 
-[^4]: Jansen, Marius B. *The Making of Modern Japan*. Cambridge: Harvard University Press, 2000.
+[^4]: Jansen, Marius B. _The Making of Modern Japan_. Cambridge: Harvard University Press, 2000.
 
-[^5]: Fujitani, Takashi. *Splendid Monarchy: Power and Pageantry in Modern Japan*. Berkeley: University of California Press, 1996.
+[^5]: Fujitani, Takashi. _Splendid Monarchy: Power and Pageantry in Modern Japan_. Berkeley: University of California Press, 1996.
 
-[^6]: Ruoff, Kenneth J. *The People's Emperor: Democracy and the Japanese Monarchy, 1945-1995*. Cambridge: Harvard University Asia Center, 2001.
+[^6]: Ruoff, Kenneth J. _The People's Emperor: Democracy and the Japanese Monarchy, 1945-1995_. Cambridge: Harvard University Asia Center, 2001.
 
-[^7]: Duus, Peter. *Modern Japan*. Boston: Houghton Mifflin, 1998.
+[^7]: Duus, Peter. _Modern Japan_. Boston: Houghton Mifflin, 1998.
 
-[^8]: Gluck, Carol. *Japan's Modern Myths: Ideology in the Late Meiji Period*. Princeton: Princeton University Press, 1985.
+[^8]: Gluck, Carol. _Japan's Modern Myths: Ideology in the Late Meiji Period_. Princeton: Princeton University Press, 1985.
 
-[^9]: Tiedemann, Arthur E. *Modern Japan: A Brief History*. Princeton: D. Van Nostrand Company, 1962.
+[^9]: Tiedemann, Arthur E. _Modern Japan: A Brief History_. Princeton: D. Van Nostrand Company, 1962.
 
-[^10]: Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945*. Vancouver: UBC Press, 1997.
+[^10]: Brownlee, John S. _Japanese Historians and the National Myths, 1600-1945_. Vancouver: UBC Press, 1997.
 
-[^11]: Gordon, Andrew. *A Modern History of Japan: From Tokugawa Times to the Present*. New York: Oxford University Press, 2003.
+[^11]: Gordon, Andrew. _A Modern History of Japan: From Tokugawa Times to the Present_. New York: Oxford University Press, 2003.
 
-[^12]: Scalapino, Robert A. *Democracy and the Party Movement in Prewar Japan*. Berkeley: University of California Press, 1953.
+[^12]: Scalapino, Robert A. _Democracy and the Party Movement in Prewar Japan_. Berkeley: University of California Press, 1953.
 
-[^13]: Pyle, Kenneth B. "Advantages of Followership: German Economics and Japanese Bureaucrats, 1890-1925." *Journal of Japanese Studies* 1, no. 1 (1974): 127-164.
+[^13]: Pyle, Kenneth B. "Advantages of Followership: German Economics and Japanese Bureaucrats, 1890-1925." _Journal of Japanese Studies_ 1, no. 1 (1974): 127-164.
 
-[^14]: Totten, George O. *The Social Democratic Movement in Prewar Japan*. New Haven: Yale University Press, 1966.
+[^14]: Totten, George O. _The Social Democratic Movement in Prewar Japan_. New Haven: Yale University Press, 1966.
 
-[^15]: Dickinson, Frederick R. *War and National Reinvention: Japan in the Great War, 1914-1919*. Cambridge: Harvard University Asia Center, 1999.
+[^15]: Dickinson, Frederick R. _War and National Reinvention: Japan in the Great War, 1914-1919_. Cambridge: Harvard University Asia Center, 1999.
 
-[^16]: Silverberg, Miriam. "The Modern Girl as Militant." In *Recreating Japanese Women, 1600-1945*, edited by Gail Lee Bernstein, 239-266. Berkeley: University of California Press, 1991.
+[^16]: Silverberg, Miriam. "The Modern Girl as Militant." In _Recreating Japanese Women, 1600-1945_, edited by Gail Lee Bernstein, 239-266. Berkeley: University of California Press, 1991.
 
-[^17]: Keene, Donald. *Dawn to the West: Japanese Literature of the Modern Era*. New York: Holt, Rinehart and Winston, 1984.
+[^17]: Keene, Donald. _Dawn to the West: Japanese Literature of the Modern Era_. New York: Holt, Rinehart and Winston, 1984.
 
-[^18]: Dore, Ronald P. *Education in Tokugawa Japan*. Berkeley: University of California Press, 1965.
+[^18]: Dore, Ronald P. _Education in Tokugawa Japan_. Berkeley: University of California Press, 1965.
 
-[^19]: Molony, Barbara. "Women's Rights, Feminism, and Suffragism in Japan, 1870-1925." *Pacific Historical Review* 69, no. 4 (2000): 639-661.
+[^19]: Molony, Barbara. "Women's Rights, Feminism, and Suffragism in Japan, 1870-1925." _Pacific Historical Review_ 69, no. 4 (2000): 639-661.
 
-[^20]: Wetzler, Peter. *Hirohito and War: Imperial Tradition and Military Decision Making in Prewar Japan*. Honolulu: University of Hawaii Press, 1998.
+[^20]: Wetzler, Peter. _Hirohito and War: Imperial Tradition and Military Decision Making in Prewar Japan_. Honolulu: University of Hawaii Press, 1998.
 
-[^21]: Kawahara, Toshiaki. *Hirohito and His Times: A Japanese Perspective*. Tokyo: Kodansha International, 1990.
+[^21]: Kawahara, Toshiaki. _Hirohito and His Times: A Japanese Perspective_. Tokyo: Kodansha International, 1990.
 
-[^22]: Gluck, Carol. "The Idea of Showa." *Daedalus* 119, no. 3 (1990): 1-26.
+[^22]: Gluck, Carol. "The Idea of Showa." _Daedalus_ 119, no. 3 (1990): 1-26.
 
-[^23]: Duus, Peter, Ramon H. Myers, and Mark R. Peattie, eds. *The Japanese Informal Empire in China, 1895-1937*. Princeton: Princeton University Press, 1989.
+[^23]: Duus, Peter, Ramon H. Myers, and Mark R. Peattie, eds. _The Japanese Informal Empire in China, 1895-1937_. Princeton: Princeton University Press, 1989.
 
-[^24]: Lowe, Peter. *Great Britain and Japan 1911-15: A Study of British Far Eastern Policy*. London: Macmillan, 1969.
+[^24]: Lowe, Peter. _Great Britain and Japan 1911-15: A Study of British Far Eastern Policy_. London: Macmillan, 1969.
 
-[^25]: Schencking, J. Charles. *The Great Kanto Earthquake and the Chimera of National Reconstruction in Japan*. New York: Columbia University Press, 2013.
+[^25]: Schencking, J. Charles. _The Great Kanto Earthquake and the Chimera of National Reconstruction in Japan_. New York: Columbia University Press, 2013.
 
-[^26]: Weiner, Michael. *Race and Migration in Imperial Japan*. London: Routledge, 1994.
+[^26]: Weiner, Michael. _Race and Migration in Imperial Japan_. London: Routledge, 1994.
 
-[^27]: Mitchell, Richard H. *Thought Control in Prewar Japan*. Ithaca: Cornell University Press, 1976.
+[^27]: Mitchell, Richard H. _Thought Control in Prewar Japan_. Ithaca: Cornell University Press, 1976.
 
-[^28]: Shillony, Ben-Ami. *Enigma of the Emperors: Sacred Subservience in Japanese History*. Folkestone: Global Oriental, 2005.
+[^28]: Shillony, Ben-Ami. _Enigma of the Emperors: Sacred Subservience in Japanese History_. Folkestone: Global Oriental, 2005.
 
-[^29]: Tanaka, Yukiko. *Women Writers of Meiji and Taisho Japan: Their Lives, Works and Critical Reception, 1868-1926*. Jefferson, NC: McFarland, 2000.
+[^29]: Tanaka, Yukiko. _Women Writers of Meiji and Taisho Japan: Their Lives, Works and Critical Reception, 1868-1926_. Jefferson, NC: McFarland, 2000.
 
-[^30]: Vining, Elizabeth Gray. *Windows for the Crown Prince*. Philadelphia: J. B. Lippincott, 1952.
+[^30]: Vining, Elizabeth Gray. _Windows for the Crown Prince_. Philadelphia: J. B. Lippincott, 1952.
 
-[^31]: Hosaka, Masayasu. *The Emperor's New Clothes: Japanese Visionary Arts from the Meiji Restoration to World War II*. New York: Weatherhill, 2000.
+[^31]: Hosaka, Masayasu. _The Emperor's New Clothes: Japanese Visionary Arts from the Meiji Restoration to World War II_. New York: Weatherhill, 2000.
 
-[^32]: Hane, Mikiso. *Emperor Hirohito and His Chief Aide-de-Camp: The Honjo Diary, 1933-36*. Tokyo: University of Tokyo Press, 1982.
+[^32]: Hane, Mikiso. _Emperor Hirohito and His Chief Aide-de-Camp: The Honjo Diary, 1933-36_. Tokyo: University of Tokyo Press, 1982.
 
-[^33]: Sims, Richard. *Japanese Political History Since the Meiji Renovation 1868-2000*. New York: Palgrave, 2001.
+[^33]: Sims, Richard. _Japanese Political History Since the Meiji Renovation 1868-2000_. New York: Palgrave, 2001.
 
-[^34]: Ponsonby-Fane, Richard. *The Imperial House of Japan*. Kyoto: Ponsonby Memorial Society, 1959.
+[^34]: Ponsonby-Fane, Richard. _The Imperial House of Japan_. Kyoto: Ponsonby Memorial Society, 1959.
 
-[^35]: Minichiello, Sharon, ed. *Japan's Competing Modernities: Issues in Culture and Democracy, 1900-1930*. Honolulu: University of Hawaii Press, 1998.
+[^35]: Minichiello, Sharon, ed. _Japan's Competing Modernities: Issues in Culture and Democracy, 1900-1930_. Honolulu: University of Hawaii Press, 1998.
 
-[^36]: Tsutsui, William M. "The Pelagic Empire: Reconsidering Japanese Expansion." In *The Japanese Empire in East Asia and Its Postwar Legacy*, edited by Harald Fuess, 21-38. Munich: Iudicium, 1998.
+[^36]: Tsutsui, William M. "The Pelagic Empire: Reconsidering Japanese Expansion." In _The Japanese Empire in East Asia and Its Postwar Legacy_, edited by Harald Fuess, 21-38. Munich: Iudicium, 1998.
 
-[^37]: Berger, Gordon Mark. *Parties Out of Power in Japan, 1931-1941*. Princeton: Princeton University Press, 1977.
+[^37]: Berger, Gordon Mark. _Parties Out of Power in Japan, 1931-1941_. Princeton: Princeton University Press, 1977.
 
-[^38]: Takeda, Kiyoko. *The Dual-Image of the Japanese Emperor*. New York: New York University Press, 1988.
+[^38]: Takeda, Kiyoko. _The Dual-Image of the Japanese Emperor_. New York: New York University Press, 1988.
 
-[^39]: Hardacre, Helen. *Shinto and the State, 1868-1988*. Princeton: Princeton University Press, 1989.
+[^39]: Hardacre, Helen. _Shinto and the State, 1868-1988_. Princeton: Princeton University Press, 1989.
 
-[^40]: Takie Sugiyama Lebra. *Above the Clouds: Status Culture of the Modern Japanese Nobility*. Berkeley: University of California Press, 1993.
+[^40]: Takie Sugiyama Lebra. _Above the Clouds: Status Culture of the Modern Japanese Nobility_. Berkeley: University of California Press, 1993.
 
-[^41]: Smethurst, Richard J. *A Social Basis for Prewar Japanese Militarism: The Army and the Rural Community*. Berkeley: University of California Press, 1974.
+[^41]: Smethurst, Richard J. _A Social Basis for Prewar Japanese Militarism: The Army and the Rural Community_. Berkeley: University of California Press, 1974.
 
-[^42]: Seidensticker, Edward. *Tokyo Rising: The City Since the Great Earthquake*. New York: Alfred A. Knopf, 1990.
+[^42]: Seidensticker, Edward. _Tokyo Rising: The City Since the Great Earthquake_. New York: Alfred A. Knopf, 1990.
 
-[^43]: Burkman, Thomas W. *Japan and the League of Nations: Empire and World Order, 1914-1938*. Honolulu: University of Hawaii Press, 2008.
+[^43]: Burkman, Thomas W. _Japan and the League of Nations: Empire and World Order, 1914-1938_. Honolulu: University of Hawaii Press, 2008.
 
-[^44]: Rimer, J. Thomas. *A Reader's Guide to Japanese Literature*. Tokyo: Kodansha International, 1988.
+[^44]: Rimer, J. Thomas. _A Reader's Guide to Japanese Literature_. Tokyo: Kodansha International, 1988.
 
-[^45]: Nish, Ian. *Japanese Foreign Policy in the Interwar Period*. Westport, CT: Praeger, 2002.
+[^45]: Nish, Ian. _Japanese Foreign Policy in the Interwar Period_. Westport, CT: Praeger, 2002.
 
-[^46]: Tipton, Elise K. *Modern Japan: A Social and Political History*. London: Routledge, 2002.
+[^46]: Tipton, Elise K. _Modern Japan: A Social and Political History_. London: Routledge, 2002.
 
-[^47]: Byas, Hugh. *Government by Assassination*. New York: Alfred A. Knopf, 1942.
+[^47]: Byas, Hugh. _Government by Assassination_. New York: Alfred A. Knopf, 1942.
 
-[^48]: Eckert, Carter J., et al. *Korea Old and New: A History*. Seoul: Ilchokak Publishers, 1990.
+[^48]: Eckert, Carter J., et al. _Korea Old and New: A History_. Seoul: Ilchokak Publishers, 1990.
 
-[^49]: Kasza, Gregory J. "Fascism from Below? A Comparative Perspective on the Japanese Right, 1931-36." *Journal of Contemporary History* 19, no. 4 (1984): 607-629.
+[^49]: Kasza, Gregory J. "Fascism from Below? A Comparative Perspective on the Japanese Right, 1931-36." _Journal of Contemporary History_ 19, no. 4 (1984): 607-629.
 
-[^50]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910." In *Recreating Japanese Women, 1600-1945*, edited by Gail Lee Bernstein, 151-174. Berkeley: University of California Press, 1991.
+[^50]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910." In _Recreating Japanese Women, 1600-1945_, edited by Gail Lee Bernstein, 151-174. Berkeley: University of California Press, 1991.
 
-[^51]: Maruyama, Masao. *Thought and Behaviour in Modern Japanese Politics*. London: Oxford University Press, 1963.
+[^51]: Maruyama, Masao. _Thought and Behaviour in Modern Japanese Politics_. London: Oxford University Press, 1963.
 
-[^52]: Tsunoda, Ryusaku, William Theodore de Bary, and Donald Keene, eds. *Sources of Japanese Tradition, Volume 2*. New York: Columbia University Press, 1958.
+[^52]: Tsunoda, Ryusaku, William Theodore de Bary, and Donald Keene, eds. _Sources of Japanese Tradition, Volume 2_. New York: Columbia University Press, 1958.
 
-[^53]: Morris-Suzuki, Tessa. *Re-Inventing Japan: Time, Space, Nation*. Armonk, NY: M.E. Sharpe, 1998.
+[^53]: Morris-Suzuki, Tessa. _Re-Inventing Japan: Time, Space, Nation_. Armonk, NY: M.E. Sharpe, 1998.
 
-[^54]: Duus, Peter, ed. *The Cambridge History of Japan, Volume 6: The Twentieth Century*. Cambridge: Cambridge University Press, 1988.
+[^54]: Duus, Peter, ed. _The Cambridge History of Japan, Volume 6: The Twentieth Century_. Cambridge: Cambridge University Press, 1988.
 
-[^55]: Buruma, Ian. *Inventing Japan: 1853-1964*. New York: Modern Library, 2003.
+[^55]: Buruma, Ian. _Inventing Japan: 1853-1964_. New York: Modern Library, 2003.
 
-[^56]: Oka, Yoshitake. *Five Political Leaders of Modern Japan*. Tokyo: University of Tokyo Press, 1986.
+[^56]: Oka, Yoshitake. _Five Political Leaders of Modern Japan_. Tokyo: University of Tokyo Press, 1986.

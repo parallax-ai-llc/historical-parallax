@@ -181,34 +181,34 @@ Some economists argue that Cardoso's economic policies failed to generate sustai
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1931 | Born on June 18 in Rio de Janeiro, Brazil |
-| 1952 | Graduated in sociology from the University of São Paulo (USP) |
-| 1953 | Married anthropologist Ruth Corrêa Leite Cardoso |
-| 1964 | Forced into exile following military coup in Brazil |
-| 1969 | Published "Dependency and Development in Latin America" with Enzo Faletto; Founded CEBRAP |
-| 1970s | Returned to Brazil; continued academic work during dictatorship |
-| 1983 | Elected to Federal Senate representing São Paulo |
-| 1988 | Co-founded Brazilian Social Democracy Party (PSDB) |
-| 1992 | Served as Foreign Minister under President Itamar Franco |
-| 1993 | Appointed Finance Minister; developed the Real Plan |
-| 1994 | Implemented Real Plan; elected President in first round with 54% of vote |
-| 1995 | Inaugurated as 34th President of Brazil on January 1 |
-| 1995-1998 | First presidential term: privatization programs, constitutional reforms, social programs |
-| 1996 | Eldorado dos Carajás massacre of landless workers occurred |
-| 1997 | Constitutional amendment allowing presidential re-election approved; Vale do Rio Doce privatized |
-| 1998 | Re-elected President in first round with 53% of vote |
-| 1999 | Real currency crisis; Brazil devalued currency and adopted floating exchange rate |
-| 1999-2002 | Second presidential term: continued reforms, fiscal responsibility law, social programs |
-| 2000 | Fiscal Responsibility Law enacted |
-| 2001 | Energy crisis required nationwide rationing |
-| 2002 | Currency crisis; PSDB candidate José Serra lost presidential election to Lula |
-| 2003 | Transferred presidency to Luiz Inácio Lula da Silva on January 1 |
-| 2004 | Founded Instituto Fernando Henrique Cardoso |
-| 2008 | Wife Ruth Cardoso died |
-| 2016 | Remarried to sculptor Miriam Duailibi |
-| 2025 | Continues as public intellectual and commentator on Brazilian politics |
+| Year      | Event                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| 1931      | Born on June 18 in Rio de Janeiro, Brazil                                                        |
+| 1952      | Graduated in sociology from the University of São Paulo (USP)                                    |
+| 1953      | Married anthropologist Ruth Corrêa Leite Cardoso                                                 |
+| 1964      | Forced into exile following military coup in Brazil                                              |
+| 1969      | Published "Dependency and Development in Latin America" with Enzo Faletto; Founded CEBRAP        |
+| 1970s     | Returned to Brazil; continued academic work during dictatorship                                  |
+| 1983      | Elected to Federal Senate representing São Paulo                                                 |
+| 1988      | Co-founded Brazilian Social Democracy Party (PSDB)                                               |
+| 1992      | Served as Foreign Minister under President Itamar Franco                                         |
+| 1993      | Appointed Finance Minister; developed the Real Plan                                              |
+| 1994      | Implemented Real Plan; elected President in first round with 54% of vote                         |
+| 1995      | Inaugurated as 34th President of Brazil on January 1                                             |
+| 1995-1998 | First presidential term: privatization programs, constitutional reforms, social programs         |
+| 1996      | Eldorado dos Carajás massacre of landless workers occurred                                       |
+| 1997      | Constitutional amendment allowing presidential re-election approved; Vale do Rio Doce privatized |
+| 1998      | Re-elected President in first round with 53% of vote                                             |
+| 1999      | Real currency crisis; Brazil devalued currency and adopted floating exchange rate                |
+| 1999-2002 | Second presidential term: continued reforms, fiscal responsibility law, social programs          |
+| 2000      | Fiscal Responsibility Law enacted                                                                |
+| 2001      | Energy crisis required nationwide rationing                                                      |
+| 2002      | Currency crisis; PSDB candidate José Serra lost presidential election to Lula                    |
+| 2003      | Transferred presidency to Luiz Inácio Lula da Silva on January 1                                 |
+| 2004      | Founded Instituto Fernando Henrique Cardoso                                                      |
+| 2008      | Wife Ruth Cardoso died                                                                           |
+| 2016      | Remarried to sculptor Miriam Duailibi                                                            |
+| 2025      | Continues as public intellectual and commentator on Brazilian politics                           |
 
 ---
 
@@ -228,74 +228,144 @@ Some economists argue that Cardoso's economic policies failed to generate sustai
 
 ## References
 
-[^1]: Skidmore, Thomas E. *Brazil: Five Centuries of Change*. Oxford University Press, 2010.
-[^2]: Kingstone, Peter R., and Timothy J. Power, eds. *Democratic Brazil Revisited*. University of Pittsburgh Press, 2008.
-[^3]: Cardoso, Fernando Henrique. *The Accidental President of Brazil: A Memoir*. PublicAffairs, 2006.
-[^4]: Font, Mauricio A., and Laura Randall, eds. *The Brazilian State: Debate and Agenda*. Lexington Books, 2011.
-[^5]: Cardoso, Fernando Henrique, and Enzo Faletto. *Dependency and Development in Latin America*. University of California Press, 1979.
-[^6]: French, John D. "The Latin American Labor Studies Boom." *International Review of Social History* 45, no. 2 (2000): 279-308.
-[^7]: Cardoso, Fernando Henrique, and Enzo Faletto. *Dependencia y desarrollo en América Latina*. Siglo XXI Editores, 1969.
-[^8]: Bethell, Leslie, ed. *The Cambridge History of Latin America, Volume IX*. Cambridge University Press, 2008.
-[^9]: Lamounier, Bolívar, and Rachel Meneguello. *Partidos Políticos e Consolidação Democrática: O Caso Brasileiro*. Brasiliense, 1986.
-[^10]: Power, Timothy J. "The Pen Is Mightier than the Congress: Presidential Decree Power in Brazil." In *Executive Decree Authority*, edited by John M. Carey and Matthew Soberg Shugart, 197-230. Cambridge University Press, 1998.
-[^11]: Baer, Werner. *The Brazilian Economy: Growth and Development*. 7th ed. Lynne Rienner Publishers, 2014.
-[^12]: Kingstone, Peter. *Crafting Coalitions for Reform: Business Preferences, Political Institutions, and Neoliberal Reform in Brazil*. Penn State Press, 1999.
-[^13]: Franco, Gustavo H. B. "The Real Plan and the Exchange Rate." *Essays in International Finance* 211 (1998).
-[^14]: Schneider, Ben Ross. "The Desarrollista State in Brazil and Mexico." In *The Developmental State*, edited by Meredith Woo-Cumings, 276-305. Cornell University Press, 1999.
-[^15]: Armijo, Leslie Elliott. *Financial Globalization and Democracy in Emerging Markets*. Palgrave Macmillan, 1999.
-[^16]: Fenwick, Tracy Beck. "Avoiding Governors: The Success of Bolsa Família." *Latin American Research Review* 44, no. 1 (2009): 102-131.
-[^17]: Alston, Lee J., et al. *Brazil in Transition: Beliefs, Leadership, and Institutional Change*. Princeton University Press, 2016.
-[^18]: Ondetti, Gabriel. *Land, Protest, and Politics: The Landless Movement and the Struggle for Agrarian Reform in Brazil*. Penn State Press, 2008.
-[^19]: Hochstetler, Kathryn, and Margaret E. Keck. *Greening Brazil: Environmental Activism in State and Society*. Duke University Press, 2007.
-[^20]: Mainwaring, Scott. "Multipartism, Robust Federalism, and Presidentialism in Brazil." In *Presidentialism and Democracy in Latin America*, edited by Scott Mainwaring and Matthew Soberg Shugart, 55-109. Cambridge University Press, 1997.
-[^21]: Roett, Riordan. *The New Brazil*. Brookings Institution Press, 2010.
-[^22]: Gomes-Neto, João Batista, Eric A. Hanushek, Raimundo Hélio Leite, and Rodrigo Moura e Castro Soares. "Health and Schooling: Evidence and Policy Implications for Developing Countries." *Economics of Education Review* 16, no. 3 (1997): 271-282.
-[^23]: Pochmann, Marcio. "Política Social na Periferia do Capitalismo: A Situação Recente no Brasil." *Ciência & Saúde Coletiva* 12, no. 6 (2007): 1477-1489.
-[^24]: Barros, Ricardo Paes de, Mirela de Carvalho, and Samuel Franco. "O Papel das Transferências Públicas na Queda Recente da Desigualdade de Renda Brasileira." In *Desigualdade de Renda no Brasil: Uma Análise da Queda Recente*, edited by Ricardo Paes de Barros, Miguel Nathan Foguel, and Gabriel Ulyssea. IPEA, 2007.
-[^25]: Biondi, Aloysio. *O Brasil Privatizado: Um Balanço do Desmonte do Estado*. Editora Fundação Perseu Abramo, 1999.
-[^26]: Amann, Edmund, and Werner Baer. "Neoliberalism and Its Consequences in Brazil." *Journal of Latin American Studies* 34, no. 4 (2002): 945-959.
+[^1]: Skidmore, Thomas E. _Brazil: Five Centuries of Change_. Oxford University Press, 2010.
+
+[^2]: Kingstone, Peter R., and Timothy J. Power, eds. _Democratic Brazil Revisited_. University of Pittsburgh Press, 2008.
+
+[^3]: Cardoso, Fernando Henrique. _The Accidental President of Brazil: A Memoir_. PublicAffairs, 2006.
+
+[^4]: Font, Mauricio A., and Laura Randall, eds. _The Brazilian State: Debate and Agenda_. Lexington Books, 2011.
+
+[^5]: Cardoso, Fernando Henrique, and Enzo Faletto. _Dependency and Development in Latin America_. University of California Press, 1979.
+
+[^6]: French, John D. "The Latin American Labor Studies Boom." _International Review of Social History_ 45, no. 2 (2000): 279-308.
+
+[^7]: Cardoso, Fernando Henrique, and Enzo Faletto. _Dependencia y desarrollo en América Latina_. Siglo XXI Editores, 1969.
+
+[^8]: Bethell, Leslie, ed. _The Cambridge History of Latin America, Volume IX_. Cambridge University Press, 2008.
+
+[^9]: Lamounier, Bolívar, and Rachel Meneguello. _Partidos Políticos e Consolidação Democrática: O Caso Brasileiro_. Brasiliense, 1986.
+
+[^10]: Power, Timothy J. "The Pen Is Mightier than the Congress: Presidential Decree Power in Brazil." In _Executive Decree Authority_, edited by John M. Carey and Matthew Soberg Shugart, 197-230. Cambridge University Press, 1998.
+
+[^11]: Baer, Werner. _The Brazilian Economy: Growth and Development_. 7th ed. Lynne Rienner Publishers, 2014.
+
+[^12]: Kingstone, Peter. _Crafting Coalitions for Reform: Business Preferences, Political Institutions, and Neoliberal Reform in Brazil_. Penn State Press, 1999.
+
+[^13]: Franco, Gustavo H. B. "The Real Plan and the Exchange Rate." _Essays in International Finance_ 211 (1998).
+
+[^14]: Schneider, Ben Ross. "The Desarrollista State in Brazil and Mexico." In _The Developmental State_, edited by Meredith Woo-Cumings, 276-305. Cornell University Press, 1999.
+
+[^15]: Armijo, Leslie Elliott. _Financial Globalization and Democracy in Emerging Markets_. Palgrave Macmillan, 1999.
+
+[^16]: Fenwick, Tracy Beck. "Avoiding Governors: The Success of Bolsa Família." _Latin American Research Review_ 44, no. 1 (2009): 102-131.
+
+[^17]: Alston, Lee J., et al. _Brazil in Transition: Beliefs, Leadership, and Institutional Change_. Princeton University Press, 2016.
+
+[^18]: Ondetti, Gabriel. _Land, Protest, and Politics: The Landless Movement and the Struggle for Agrarian Reform in Brazil_. Penn State Press, 2008.
+
+[^19]: Hochstetler, Kathryn, and Margaret E. Keck. _Greening Brazil: Environmental Activism in State and Society_. Duke University Press, 2007.
+
+[^20]: Mainwaring, Scott. "Multipartism, Robust Federalism, and Presidentialism in Brazil." In _Presidentialism and Democracy in Latin America_, edited by Scott Mainwaring and Matthew Soberg Shugart, 55-109. Cambridge University Press, 1997.
+
+[^21]: Roett, Riordan. _The New Brazil_. Brookings Institution Press, 2010.
+
+[^22]: Gomes-Neto, João Batista, Eric A. Hanushek, Raimundo Hélio Leite, and Rodrigo Moura e Castro Soares. "Health and Schooling: Evidence and Policy Implications for Developing Countries." _Economics of Education Review_ 16, no. 3 (1997): 271-282.
+
+[^23]: Pochmann, Marcio. "Política Social na Periferia do Capitalismo: A Situação Recente no Brasil." _Ciência & Saúde Coletiva_ 12, no. 6 (2007): 1477-1489.
+
+[^24]: Barros, Ricardo Paes de, Mirela de Carvalho, and Samuel Franco. "O Papel das Transferências Públicas na Queda Recente da Desigualdade de Renda Brasileira." In _Desigualdade de Renda no Brasil: Uma Análise da Queda Recente_, edited by Ricardo Paes de Barros, Miguel Nathan Foguel, and Gabriel Ulyssea. IPEA, 2007.
+
+[^25]: Biondi, Aloysio. _O Brasil Privatizado: Um Balanço do Desmonte do Estado_. Editora Fundação Perseu Abramo, 1999.
+
+[^26]: Amann, Edmund, and Werner Baer. "Neoliberalism and Its Consequences in Brazil." _Journal of Latin American Studies_ 34, no. 4 (2002): 945-959.
+
 [^27]: Melo, Carlos Ranulfo. "Retirando as Cadeiras do Lugar: Migração Partidária na Câmara dos Deputados (1985-2002)." PhD diss., Universidade Federal de Minas Gerais, 2004.
-[^28]: Chevigny, Paul. *Edge of the Knife: Police Violence in the Americas*. New Press, 1995.
-[^29]: Branford, Sue, and Jan Rocha. *Cutting the Wire: The Story of the Landless Movement in Brazil*. Latin America Bureau, 2002.
-[^30]: Pinheiro, Armando Castelar, and Fabio Giambiagi. "Brazilian Privatization in the 1990s." *World Development* 28, no. 7 (2000): 1157-1177.
-[^31]: Htun, Mala. "From 'Racial Democracy' to Affirmative Action: Changing State Policy on Race in Brazil." *Latin American Research Review* 39, no. 1 (2004): 60-89.
-[^32]: Lima, Venício A. de. *Mídia: Teoria e Política*. Editora Fundação Perseu Abramo, 2001.
-[^33]: Cardoso, Ruth Corrêa Leite. "Fortalecimento da Sociedade Civil." In *Ações em Sociedade: Militância, Caridade, Assistência*, edited by Leilah Landim, 7-12. NAU Editora, 1998.
-[^34]: "Fernando Henrique Cardoso se casa com a escultora Miriam Duailibi." *O Globo*, May 19, 2016.
-[^35]: Reid, Michael. *Brazil: The Troubled Rise of a Global Power*. Yale University Press, 2014.
-[^36]: Hagopian, Frances. "Democracy and Political Representation in Latin America in the 1990s: Pause, Reorganization, or Decline?" In *Fault Lines of Democracy in Post-Transition Latin America*, edited by Felipe Agüero and Jeffrey Stark, 99-143. North-South Center Press, 1998.
-[^37]: Cardoso, Fernando Henrique. *Charting a New Course: The Politics of Globalization and Social Transformation*. Rowman & Littlefield, 2001.
-[^38]: Cardoso, Fernando Henrique. *A Arte da Política: A História que Vivi*. Civilização Brasileira, 2006.
-[^39]: Zaverucha, Jorge. "The 1988 Brazilian Constitution and Its Legacy: Unfinished Transactional Agenda." *Journal of Latin American Studies* 37, no. 1 (2005): 179-197.
-[^40]: Giambiagi, Fabio, André Villela, Lavínia Barros de Castro, and Jennifer Hermann, eds. *Economia Brasileira Contemporânea (1945-2010)*. 2nd ed. Elsevier, 2011.
-[^41]: Bonelli, Regis, and Samuel Pessôa. "Desindustrialização no Brasil: Um Resumo da Evidência." *Texto para Discussão IBRE/FGV* 7 (2010).
-[^42]: Soares, Sergei, Rafael Guerreiro Osório, Fábio Veras Soares, Marcelo Medeiros, and Eduardo Zepeda. "Conditional Cash Transfers in Brazil, Chile and Mexico: Impacts upon Inequality." *Estudios Económicos* 1 (2009): 207-224.
-[^43]: Afonso, José Roberto, and Erika Amorim Araujo. "A Capacidade de Gasto dos Municípios Brasileiros: Arrecadação Própria e Receita Disponível." In *Finanças Públicas: IX Prêmio Tesouro Nacional*, 35-107. Secretaria do Tesouro Nacional, 2004.
-[^44]: Pereira, Carlos, and Bernardo Mueller. "Uma Teoria da Preponderância do Poder Executivo: O Sistema de Comissões no Legislativo Brasileiro." *Revista Brasileira de Ciências Sociais* 15, no. 43 (2000): 45-67.
-[^45]: Negretto, Gabriel L. "Replacing and Amending Constitutions: The Logic of Constitutional Change in Latin America." *Law & Society Review* 46, no. 4 (2012): 749-779.
-[^46]: Vigevani, Tullo, and Gabriel Cepaluni. "Brazilian Foreign Policy in Changing Times: The Quest for Autonomy from Sarney to Lula." *Latin American Perspectives* 34, no. 5 (2007): 66-76.
-[^47]: Love, Joseph L. "The Rise and Decline of Economic Structuralism in Latin America: New Dimensions." *Latin American Research Review* 40, no. 3 (2005): 100-125.
-[^48]: Hunter, Wendy. *The Transformation of the Workers' Party in Brazil, 1989-2009*. Cambridge University Press, 2010.
-[^49]: Morais, Lecio, and Alfredo Saad-Filho. "Da Economia Política à Política Econômica: O Novo-Desenvolvimentismo e o Governo Lula." *Revista de Economia Política* 31, no. 4 (2011): 507-527.
-[^50]: Bacha, Edmar. "O Plano Real: Uma Avaliação." In *A Economia Brasileira em Perspectiva*, edited by Fabio Giambiagi and Maurício Mesquita Moreira, 117-150. BNDES, 1999.
-[^51]: Lamounier, Bolívar. "Brazil: Inequality Against Democracy." In *Politics in Developing Countries: Comparing Experiences with Democracy*, edited by Larry Diamond, Juan J. Linz, and Seymour Martin Lipset, 111-157. Lynne Rienner Publishers, 1995.
-[^52]: "The Carnival's Over." *The Economist*, February 27, 1999.
-[^53]: Bresser-Pereira, Luiz Carlos. "A Reforma do Estado dos Anos 90: Lógica e Mecanismos de Controle." *Lua Nova: Revista de Cultura e Política* 45 (1998): 49-95.
-[^54]: Cardoso, Eliana, and Ann Helwege. "Below the Line: Poverty in Latin America." *World Development* 20, no. 1 (1992): 19-37.
-[^55]: Fiszbein, Ariel, and Norbert Schady. *Conditional Cash Transfers: Reducing Present and Future Poverty*. World Bank Publications, 2009.
-[^56]: Pinheiro, Armando Castelar. "Privatização no Brasil: Por Quê? Até Onde? Até Quando?" In *A Economia Brasileira nos Anos 90*, edited by Fabio Giambiagi and Maurício Mesquita Moreira, 147-182. BNDES, 1999.
-[^57]: Sicsú, João, Luiz Fernando de Paula, and Renaut Michel, eds. *Novo-Desenvolvimentismo: Um Projeto Nacional de Crescimento com Equidade Social*. Fundação Konrad Adenauer, 2005.
-[^58]: Oliveira, Francisco de. "O Ornitorrinco." In *Crítica à Razão Dualista/O Ornitorrinco*, 133-150. Boitempo Editorial, 2003.
-[^59]: Pochmann, Marcio. *O Emprego na Globalização: A Nova Divisão Internacional do Trabalho e os Caminhos que o Brasil Escolheu*. Boitempo Editorial, 2001.
-[^60]: Biondi, Aloysio. *O Brasil Privatizado II: O Assalto das Privatizações Continua*. Editora Fundação Perseu Abramo, 2000.
-[^61]: Batista Jr., Paulo Nogueira. "Mitos da 'Globalização'." *Estudos Avançados* 12, no. 32 (1998): 125-186.
-[^62]: Fearnside, Philip M. "Deforestation in Brazilian Amazonia: History, Rates, and Consequences." *Conservation Biology* 19, no. 3 (2005): 680-688.
-[^63]: Telles, Edward E. *Race in Another America: The Significance of Skin Color in Brazil*. Princeton University Press, 2004.
-[^64]: Human Rights Watch. *Police Brutality in Urban Brazil*. Human Rights Watch, 1997.
-[^65]: Sousa, Margarida Maria de. "A Reeleição e os Interesses Difusos da Cidadania." In *Reeleição: Instituição ou Conveniência?*, edited by Luiz Carlos Bresser-Pereira and Yoshiaki Nakano, 45-62. ENAP, 1997.
-[^66]: Ferrari-Filho, Fernando, and Luiz Fernando de Paula. "The Legacy of the Real Plan and an Alternative Agenda for the Brazilian Economy." *Investigación Económica* 62, no. 244 (2003): 57-92.
+
+[^28]: Chevigny, Paul. _Edge of the Knife: Police Violence in the Americas_. New Press, 1995.
+
+[^29]: Branford, Sue, and Jan Rocha. _Cutting the Wire: The Story of the Landless Movement in Brazil_. Latin America Bureau, 2002.
+
+[^30]: Pinheiro, Armando Castelar, and Fabio Giambiagi. "Brazilian Privatization in the 1990s." _World Development_ 28, no. 7 (2000): 1157-1177.
+
+[^31]: Htun, Mala. "From 'Racial Democracy' to Affirmative Action: Changing State Policy on Race in Brazil." _Latin American Research Review_ 39, no. 1 (2004): 60-89.
+
+[^32]: Lima, Venício A. de. _Mídia: Teoria e Política_. Editora Fundação Perseu Abramo, 2001.
+
+[^33]: Cardoso, Ruth Corrêa Leite. "Fortalecimento da Sociedade Civil." In _Ações em Sociedade: Militância, Caridade, Assistência_, edited by Leilah Landim, 7-12. NAU Editora, 1998.
+
+[^34]: "Fernando Henrique Cardoso se casa com a escultora Miriam Duailibi." _O Globo_, May 19, 2016.
+
+[^35]: Reid, Michael. _Brazil: The Troubled Rise of a Global Power_. Yale University Press, 2014.
+
+[^36]: Hagopian, Frances. "Democracy and Political Representation in Latin America in the 1990s: Pause, Reorganization, or Decline?" In _Fault Lines of Democracy in Post-Transition Latin America_, edited by Felipe Agüero and Jeffrey Stark, 99-143. North-South Center Press, 1998.
+
+[^37]: Cardoso, Fernando Henrique. _Charting a New Course: The Politics of Globalization and Social Transformation_. Rowman & Littlefield, 2001.
+
+[^38]: Cardoso, Fernando Henrique. _A Arte da Política: A História que Vivi_. Civilização Brasileira, 2006.
+
+[^39]: Zaverucha, Jorge. "The 1988 Brazilian Constitution and Its Legacy: Unfinished Transactional Agenda." _Journal of Latin American Studies_ 37, no. 1 (2005): 179-197.
+
+[^40]: Giambiagi, Fabio, André Villela, Lavínia Barros de Castro, and Jennifer Hermann, eds. _Economia Brasileira Contemporânea (1945-2010)_. 2nd ed. Elsevier, 2011.
+
+[^41]: Bonelli, Regis, and Samuel Pessôa. "Desindustrialização no Brasil: Um Resumo da Evidência." _Texto para Discussão IBRE/FGV_ 7 (2010).
+
+[^42]: Soares, Sergei, Rafael Guerreiro Osório, Fábio Veras Soares, Marcelo Medeiros, and Eduardo Zepeda. "Conditional Cash Transfers in Brazil, Chile and Mexico: Impacts upon Inequality." _Estudios Económicos_ 1 (2009): 207-224.
+
+[^43]: Afonso, José Roberto, and Erika Amorim Araujo. "A Capacidade de Gasto dos Municípios Brasileiros: Arrecadação Própria e Receita Disponível." In _Finanças Públicas: IX Prêmio Tesouro Nacional_, 35-107. Secretaria do Tesouro Nacional, 2004.
+
+[^44]: Pereira, Carlos, and Bernardo Mueller. "Uma Teoria da Preponderância do Poder Executivo: O Sistema de Comissões no Legislativo Brasileiro." _Revista Brasileira de Ciências Sociais_ 15, no. 43 (2000): 45-67.
+
+[^45]: Negretto, Gabriel L. "Replacing and Amending Constitutions: The Logic of Constitutional Change in Latin America." _Law & Society Review_ 46, no. 4 (2012): 749-779.
+
+[^46]: Vigevani, Tullo, and Gabriel Cepaluni. "Brazilian Foreign Policy in Changing Times: The Quest for Autonomy from Sarney to Lula." _Latin American Perspectives_ 34, no. 5 (2007): 66-76.
+
+[^47]: Love, Joseph L. "The Rise and Decline of Economic Structuralism in Latin America: New Dimensions." _Latin American Research Review_ 40, no. 3 (2005): 100-125.
+
+[^48]: Hunter, Wendy. _The Transformation of the Workers' Party in Brazil, 1989-2009_. Cambridge University Press, 2010.
+
+[^49]: Morais, Lecio, and Alfredo Saad-Filho. "Da Economia Política à Política Econômica: O Novo-Desenvolvimentismo e o Governo Lula." _Revista de Economia Política_ 31, no. 4 (2011): 507-527.
+
+[^50]: Bacha, Edmar. "O Plano Real: Uma Avaliação." In _A Economia Brasileira em Perspectiva_, edited by Fabio Giambiagi and Maurício Mesquita Moreira, 117-150. BNDES, 1999.
+
+[^51]: Lamounier, Bolívar. "Brazil: Inequality Against Democracy." In _Politics in Developing Countries: Comparing Experiences with Democracy_, edited by Larry Diamond, Juan J. Linz, and Seymour Martin Lipset, 111-157. Lynne Rienner Publishers, 1995.
+
+[^52]: "The Carnival's Over." _The Economist_, February 27, 1999.
+
+[^53]: Bresser-Pereira, Luiz Carlos. "A Reforma do Estado dos Anos 90: Lógica e Mecanismos de Controle." _Lua Nova: Revista de Cultura e Política_ 45 (1998): 49-95.
+
+[^54]: Cardoso, Eliana, and Ann Helwege. "Below the Line: Poverty in Latin America." _World Development_ 20, no. 1 (1992): 19-37.
+
+[^55]: Fiszbein, Ariel, and Norbert Schady. _Conditional Cash Transfers: Reducing Present and Future Poverty_. World Bank Publications, 2009.
+
+[^56]: Pinheiro, Armando Castelar. "Privatização no Brasil: Por Quê? Até Onde? Até Quando?" In _A Economia Brasileira nos Anos 90_, edited by Fabio Giambiagi and Maurício Mesquita Moreira, 147-182. BNDES, 1999.
+
+[^57]: Sicsú, João, Luiz Fernando de Paula, and Renaut Michel, eds. _Novo-Desenvolvimentismo: Um Projeto Nacional de Crescimento com Equidade Social_. Fundação Konrad Adenauer, 2005.
+
+[^58]: Oliveira, Francisco de. "O Ornitorrinco." In _Crítica à Razão Dualista/O Ornitorrinco_, 133-150. Boitempo Editorial, 2003.
+
+[^59]: Pochmann, Marcio. _O Emprego na Globalização: A Nova Divisão Internacional do Trabalho e os Caminhos que o Brasil Escolheu_. Boitempo Editorial, 2001.
+
+[^60]: Biondi, Aloysio. _O Brasil Privatizado II: O Assalto das Privatizações Continua_. Editora Fundação Perseu Abramo, 2000.
+
+[^61]: Batista Jr., Paulo Nogueira. "Mitos da 'Globalização'." _Estudos Avançados_ 12, no. 32 (1998): 125-186.
+
+[^62]: Fearnside, Philip M. "Deforestation in Brazilian Amazonia: History, Rates, and Consequences." _Conservation Biology_ 19, no. 3 (2005): 680-688.
+
+[^63]: Telles, Edward E. _Race in Another America: The Significance of Skin Color in Brazil_. Princeton University Press, 2004.
+
+[^64]: Human Rights Watch. _Police Brutality in Urban Brazil_. Human Rights Watch, 1997.
+
+[^65]: Sousa, Margarida Maria de. "A Reeleição e os Interesses Difusos da Cidadania." In _Reeleição: Instituição ou Conveniência?_, edited by Luiz Carlos Bresser-Pereira and Yoshiaki Nakano, 45-62. ENAP, 1997.
+
+[^66]: Ferrari-Filho, Fernando, and Luiz Fernando de Paula. "The Legacy of the Real Plan and an Alternative Agenda for the Brazilian Economy." _Investigación Económica_ 62, no. 244 (2003): 57-92.
+
 [^67]: Cited in multiple sources discussing the contradiction between Cardoso's academic writings and political practice; origin disputed but widely referenced in Brazilian political commentary.
+
 [^68]: Speech delivered on multiple occasions throughout his presidency; frequently cited in discussions of Brazilian inequality.
-[^69]: Speech during Real Plan implementation, 1994; cited in Baer, *The Brazilian Economy*, 2014.
+
+[^69]: Speech during Real Plan implementation, 1994; cited in Baer, _The Brazilian Economy_, 2014.
+
 [^70]: Interview responses and public statements throughout presidency; paraphrased from multiple sources.
+
 [^71]: Campaign slogan and repeated statement during presidency; widely documented in Brazilian political reporting.

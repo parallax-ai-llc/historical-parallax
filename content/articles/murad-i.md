@@ -51,7 +51,7 @@ Murad I's reign witnessed the transformation of the Ottoman state from a regiona
 
 Murad's military achievements were extraordinary by any measure. During his approximately 29-year reign, he conducted 37 major battles and won them all, never tasting defeat[^28]. He expanded the territories he inherited from his father fivefold, leaving his son Bayezid I a realm of approximately 500,000 square kilometers[^29]. These lands would remain under Ottoman control for five centuries, demonstrating the permanence of his conquests[^30].
 
-In the Balkans, Murad's campaigns systematically dismantled Christian resistance. The Battle of the Maritsa River (also known as the Battle of Chernomen) on September 26, 1371, proved decisive when Murad's lieutenant Lala Şahin Pasha crushed a coalition of southern Serbian princes led by King Vukašin and Despot Uglješa[^31]. This victory opened Macedonia to Ottoman conquest, and Murad's forces rapidly took the important towns of Drama, Kavala, and Serres[^32]. 
+In the Balkans, Murad's campaigns systematically dismantled Christian resistance. The Battle of the Maritsa River (also known as the Battle of Chernomen) on September 26, 1371, proved decisive when Murad's lieutenant Lala Şahin Pasha crushed a coalition of southern Serbian princes led by King Vukašin and Despot Uglješa[^31]. This victory opened Macedonia to Ottoman conquest, and Murad's forces rapidly took the important towns of Drama, Kavala, and Serres[^32].
 
 The conquest of Bulgaria proceeded through a combination of military pressure and strategic marriages. Sofia, the vital Bulgarian city, fell to the Ottomans in 1385[^33]. In 1378, Murad forced Bulgarian Princess Kera Tamara Hatun, daughter of Tsar Ivan Alexander and renowned for her beauty, into marriage when he attacked Bulgaria, combining political subjugation with personal acquisition[^34]. The Bulgarian territories were progressively absorbed into the Ottoman system through a combination of military conquest, vassalage arrangements, and demographic changes as Turkish warriors and administrators settled in conquered lands[^35].
 
@@ -213,26 +213,26 @@ Contemporary Balkan nationalist historiography, while sometimes veering into myt
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1326 | Born on June 29 in the Ottoman principality, son of Orhan Gazi and Nilüfer Hatun |
-| 1360 | Death of elder half-brother Süleyman Pasha |
-| 1361 | Established the office of kazasker (chief justice) |
-| 1362 | Ascended to the Ottoman throne; conquered Adrianople (Edirne) and made it the new capital |
-| 1366 | Married Fülane Hatun, daughter of Ahi Seyyid Sultan |
-| 1371 | Battle of the Maritsa River (Chernomen) - Ottoman forces crushed coalition of Serbian princes on September 26 |
-| 1372 | Married Fülane Hatun, daughter of Konstantin of Kostendil |
-| 1373 | Sons Ibrahim and Halil rebelled; both were executed by Murad's order |
-| 1373 | Subjugation of Bulgaria with mass enslavements |
-| 1374 | Son Savci Bey (age 14) rebelled and was executed |
-| 1378 | Forced marriage to Bulgarian Princess Kera Tamara Hatun after attacking Bulgaria |
-| 1378 | Daughter Nefise Melek Sultan married to Karamanoglu Alaeddin Ali Bey |
-| 1383 | Married Fülane Hatun, daughter of Cândâroğlu Süleyman II Paşah |
-| 1385 | Conquest of Sofia |
-| 1386 | Conquest of Niš; defeated Karaman-led coalition at Konya; married Maria Palaiologina, daughter of Byzantine Emperor John V |
-| 1386 | Battle of Pločnik - Prince Lazar of Serbia defeated Ottoman forces |
+| Year | Event                                                                                                                                   |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1326 | Born on June 29 in the Ottoman principality, son of Orhan Gazi and Nilüfer Hatun                                                        |
+| 1360 | Death of elder half-brother Süleyman Pasha                                                                                              |
+| 1361 | Established the office of kazasker (chief justice)                                                                                      |
+| 1362 | Ascended to the Ottoman throne; conquered Adrianople (Edirne) and made it the new capital                                               |
+| 1366 | Married Fülane Hatun, daughter of Ahi Seyyid Sultan                                                                                     |
+| 1371 | Battle of the Maritsa River (Chernomen) - Ottoman forces crushed coalition of Serbian princes on September 26                           |
+| 1372 | Married Fülane Hatun, daughter of Konstantin of Kostendil                                                                               |
+| 1373 | Sons Ibrahim and Halil rebelled; both were executed by Murad's order                                                                    |
+| 1373 | Subjugation of Bulgaria with mass enslavements                                                                                          |
+| 1374 | Son Savci Bey (age 14) rebelled and was executed                                                                                        |
+| 1378 | Forced marriage to Bulgarian Princess Kera Tamara Hatun after attacking Bulgaria                                                        |
+| 1378 | Daughter Nefise Melek Sultan married to Karamanoglu Alaeddin Ali Bey                                                                    |
+| 1383 | Married Fülane Hatun, daughter of Cândâroğlu Süleyman II Paşah                                                                          |
+| 1385 | Conquest of Sofia                                                                                                                       |
+| 1386 | Conquest of Niš; defeated Karaman-led coalition at Konya; married Maria Palaiologina, daughter of Byzantine Emperor John V              |
+| 1386 | Battle of Pločnik - Prince Lazar of Serbia defeated Ottoman forces                                                                      |
 | 1389 | Battle of Kosovo on June 15 - Ottoman victory but both Murad and Prince Lazar killed; Murad assassinated by Serbian knight Miloš Obilić |
-| 1389 | Son Yakub Çelebi strangled on Bayezid's orders immediately after the battle; Bayezid I succeeded to throne |
+| 1389 | Son Yakub Çelebi strangled on Bayezid's orders immediately after the battle; Bayezid I succeeded to throne                              |
 
 ---
 
@@ -261,160 +261,317 @@ The scarcity of direct quotes from Murad I reflects several factors: the 14th-ce
 ## References
 
 [^1]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^2]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^3]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^4]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^5]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^6]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^7]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^8]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^9]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^10]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^11]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^12]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^13]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^14]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^15]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^16]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^17]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^18]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^19]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^20]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^21]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^22]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^23]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^24]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^25]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^26]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^27]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^28]: All About Turkey. "Sultan Murad I." https://www.allaboutturkey.com/murat1.html
+
 [^29]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^30]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^31]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^32]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^33]: All About Turkey. "Sultan Murad I." https://www.allaboutturkey.com/murat1.html
+
 [^34]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^35]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^36]: All About Turkey. "Sultan Murad I." https://www.allaboutturkey.com/murat1.html
+
 [^37]: Britannica. "Battle of Kosovo (1389) | Description & Significance." https://www.britannica.com/event/Battle-of-Kosovo-1389-Balkans
+
 [^38]: Wikipedia. "Battle of Kosovo." https://en.wikipedia.org/wiki/Battle_of_Kosovo
+
 [^39]: Britannica. "Battle of Kosovo (1389) | Description & Significance." https://www.britannica.com/event/Battle-of-Kosovo-1389-Balkans
+
 [^40]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^41]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^42]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^43]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^44]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^45]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^46]: Wikipedia. "Devshirme." https://en.wikipedia.org/wiki/Devshirme
+
 [^47]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^48]: Wikipedia. "Janissary." https://en.wikipedia.org/wiki/Janissary
+
 [^49]: Wikipedia. "Janissary." https://en.wikipedia.org/wiki/Janissary
+
 [^50]: Wikipedia. "Devshirme." https://en.wikipedia.org/wiki/Devshirme
+
 [^51]: Wikipedia. "Devshirme." https://en.wikipedia.org/wiki/Devshirme
+
 [^52]: Britannica. "Devşirme | Ottoman government." https://www.britannica.com/topic/devsirme
+
 [^53]: All About Turkey. "Sultan Murad I." https://www.allaboutturkey.com/murat1.html
+
 [^54]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^55]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^56]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^57]: Daily Sabah. "With whom would Ottoman sultans marry?" https://www.dailysabah.com/opinion/columns/with-whom-would-ottoman-sultans-marry
+
 [^58]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^59]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^60]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^61]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^62]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^63]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^64]: Wikipedia. "Devshirme." https://en.wikipedia.org/wiki/Devshirme
+
 [^65]: The Productive Teacher. "The Ottoman Empire Devshirme System for AP World History." https://www.theproductiveteacher.com/the-ottoman-empire-devshirme-system-for-ap-world-history
+
 [^66]: Georgetown University. "CONTROVERSY ABOUT THE DEVSHİRME: VEHİCLE FOR SOCİAL." https://repository.digital.georgetown.edu/downloads/a44138c0-a2d7c-463b-8ecf-8316440ed2d7
+
 [^67]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^68]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^69]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^70]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^71]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^72]: History Today. "The Battle of Kosovo, 1389." https://www.historytoday.com/archive/battle-kossovo-1389
+
 [^73]: Britannica. "Battle of Kosovo (1389) | Description & Significance." https://www.britannica.com/event/Battle-of-Kosovo-1389-Balkans
+
 [^74]: Wikipedia. "Battle of Kosovo." https://en.wikipedia.org/wiki/Battle_of_Kosovo
+
 [^75]: Academia.edu. "THE CONCEPT OF HISTORICAL NATIONALISM AND THE CASE OF THE BATTLE OF KOSOVA." https://www.academia.edu/10062489/THE_CONCEPT_OF_HISTORICAL_NATIONALISM_AND_THE_CASE_OF_THE_BATTLE_OF_KOSOVA
+
 [^76]: Wikipedia. "Battle of Kosovo." https://en.wikipedia.org/wiki/Battle_of_Kosovo
+
 [^77]: Wikipedia. "Battle of Kosovo." https://en.wikipedia.org/wiki/Battle_of_Kosovo
+
 [^78]: Academia.edu. "THE CONCEPT OF HISTORICAL NATIONALISM AND THE CASE OF THE BATTLE OF KOSOVA." https://www.academia.edu/10062489/THE_CONCEPT_OF_HISTORICAL_NATIONALISM_AND_THE_CASE_OF_THE_BATTLE_OF_KOSOVA
+
 [^79]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^80]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^81]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^82]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^83]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^84]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^85]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^86]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^87]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^88]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^89]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^90]: Daily Sabah. "With whom would Ottoman sultans marry?" https://www.dailysabah.com/opinion/columns/with-whom-would-ottoman-sultans-marry
+
 [^91]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^92]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^93]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^94]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^95]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^96]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^97]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^98]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^99]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^100]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^101]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^102]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^103]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^104]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^105]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^106]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^107]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^108]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^109]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^110]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^111]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^112]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^113]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^114]: Wikipedia. "Janissary." https://en.wikipedia.org/wiki/Janissary
+
 [^115]: Wikipedia. "Devshirme." https://en.wikipedia.org/wiki/Devshirme
+
 [^116]: Britannica. "Devşirme | Ottoman government." https://www.britannica.com/topic/devsirme
+
 [^117]: History Today. "The Battle of Kosovo, 1389." https://www.historytoday.com/archive/battle-kossovo-1389
+
 [^118]: Wikipedia. "Battle of Kosovo." https://en.wikipedia.org/wiki/Battle_of_Kosovo
+
 [^119]: Britannica. "Battle of Kosovo (1389) | Description & Significance." https://www.britannica.com/event/Battle-of-Kosovo-1389-Balkans
+
 [^120]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^121]: All About Turkey. "Sultan Murad I." https://www.allaboutturkey.com/murat1.html
+
 [^122]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^123]: Wikipedia. "Janissary." https://en.wikipedia.org/wiki/Janissary
+
 [^124]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^125]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^126]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^127]: Academia.edu. "THE CONCEPT OF HISTORICAL NATIONALISM AND THE CASE OF THE BATTLE OF KOSOVA." https://www.academia.edu/10062489/THE_CONCEPT_OF_HISTORICAL_NATIONALISM_AND_THE_CASE_OF_THE_BATTLE_OF_KOSOVA
+
 [^128]: History Today. "The Battle of Kosovo, 1389." https://www.historytoday.com/archive/battle-kossovo-1389
+
 [^129]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^130]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^131]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^132]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^133]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^134]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^135]: All About Turkey. "Sultan Murad I." https://www.allaboutturkey.com/murat1.html
+
 [^136]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^137]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^138]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^139]: History Today. "The Battle of Kosovo, 1389." https://www.historytoday.com/archive/battle-kossovo-1389
+
 [^140]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^141]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^142]: Wikipedia. "Battle of Kosovo." https://en.wikipedia.org/wiki/Battle_of_Kosovo
+
 [^143]: Britannica. "Battle of Kosovo (1389) | Description & Significance." https://www.britannica.com/event/Battle-of-Kosovo-1389-Balkans
+
 [^144]: Wikipedia. "Devshirme." https://en.wikipedia.org/wiki/Devshirme
+
 [^145]: The Productive Teacher. "The Ottoman Empire Devshirme System for AP World History." https://www.theproductiveteacher.com/the-ottoman-empire-devshirme-system-for-ap-world-history
+
 [^146]: Georgetown University. "CONTROVERSY ABOUT THE DEVSHİRME: VEHİCLE FOR SOCİAL." https://repository.digital.georgetown.edu/downloads/a44138c0-a2d7c-463b-8ecf-8316440ed2d7
+
 [^147]: Ottoman Ladies Tumblr. "The family of Murad I Hüdavendigar." https://ottomanladies.tumblr.com/post/188035635035/the-family-of-murad-i-h%C3%BCdavendigar
+
 [^148]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^149]: Academia.edu. "THE CONCEPT OF HISTORICAL NATIONALISM AND THE CASE OF THE BATTLE OF KOSOVA." https://www.academia.edu/10062489/THE_CONCEPT_OF_HISTORICAL_NATIONALISM_AND_THE_CASE_OF_THE_BATTLE_OF_KOSOVA
+
 [^150]: History Today. "The Battle of Kosovo, 1389." https://www.historytoday.com/archive/battle-kossovo-1389
+
 [^151]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i
+
 [^152]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^153]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^154]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^155]: World History Edu. "Ottoman Sultan Murad I." https://worldhistoryedu.com/ottoman-sultan-murad-i/
+
 [^156]: Wikipedia. "Murad I." https://en.wikipedia.org/wiki/Murad_I
+
 [^157]: Britannica. "Murad I | Ottoman Sultan & Conqueror of Constantinople." https://www.britannica.com/biography/Murad-I
+
 [^158]: Daily Sabah. "Mighty sovereigns of the Ottoman throne: Sultan Murad I." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-the-ottoman-throne-sultan-murad-i

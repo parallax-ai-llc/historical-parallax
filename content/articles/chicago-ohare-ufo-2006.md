@@ -21,37 +21,44 @@ The object hovered silently for several minutes before shooting straight up into
 ## The Sighting
 
 ### The Witnesses (4:15 PM)
+
 A ramp employee pushing back Flight 446 noticed a grey, metallic disc hovering just below the cloud deck (approx. 1,900 feet).
-*   **Pilots:** The pilots of Flight 446 reportedly opened their cockpit windows to get a better look.
-*   **Management:** A United supervisor ran out to behold the object and immediately radioed the FAA tower.
-    > "I'm looking at it right now... It's just hovering there."
+
+- **Pilots:** The pilots of Flight 446 reportedly opened their cockpit windows to get a better look.
+- **Management:** A United supervisor ran out to behold the object and immediately radioed the FAA tower.
+  > "I'm looking at it right now... It's just hovering there."
 
 ### The "Hole-Punch"
+
 After about 5-15 minutes, the object accelerated vertically.
-*   **The Physics:** It didn't fly; it shot upward instantly.
-*   **The Trace:** It left a perfect, cookie-cutter hole in the cloud layer. Physics suggests this could be caused by localized evaporation from intense heat or pressure (similar to a "fallstreak hole" but instigated by an object).[^2]
+
+- **The Physics:** It didn't fly; it shot upward instantly.
+- **The Trace:** It left a perfect, cookie-cutter hole in the cloud layer. Physics suggests this could be caused by localized evaporation from intense heat or pressure (similar to a "fallstreak hole" but instigated by an object).[^2]
 
 ### The Cover-Up?
-*   **FAA Stance:** The FAA claimed it was a "weather phenomenon" (hole-punch cloud) and refused to investigate because the object didn't appear on radar.
-*   **Narayana Report:** Later analysis by NARCAP (National Aviation Reporting Center on Anomalous Phenomena) pointed out that improved digital radar filters often scrub out stationary objects (hovering UFOs) as "clutter."
-*   **Silence:** United Airlines employees were allegedly advised not to speak to the press.[^3]
+
+- **FAA Stance:** The FAA claimed it was a "weather phenomenon" (hole-punch cloud) and refused to investigate because the object didn't appear on radar.
+- **Narayana Report:** Later analysis by NARCAP (National Aviation Reporting Center on Anomalous Phenomena) pointed out that improved digital radar filters often scrub out stationary objects (hovering UFOs) as "clutter."
+- **Silence:** United Airlines employees were allegedly advised not to speak to the press.[^3]
 
 ---
 
 ## Timeline
 
-| Time | Event |
-|------|-------|
-| **16:15** | Ramp worker spots metallic disc over Gate C17. |
-| **16:17** | Pilots and supervisors confirm visual sighting. |
-| **16:20** | United supervisor calls FAA tower. |
-| **16:25** | Object shoots upward, punching a hole in the clouds. |
-| **2007** | Chicago Tribune breaks the story after FOIA requests. |
+| Time      | Event                                                 |
+| --------- | ----------------------------------------------------- |
+| **16:15** | Ramp worker spots metallic disc over Gate C17.        |
+| **16:17** | Pilots and supervisors confirm visual sighting.       |
+| **16:20** | United supervisor calls FAA tower.                    |
+| **16:25** | Object shoots upward, punching a hole in the clouds.  |
+| **2007**  | Chicago Tribune breaks the story after FOIA requests. |
 
 ---
 
 ## References
 
 [^1]: [Chicago Tribune - Original Report](https://www.chicagotribune.com/news/ct-xpm-2007-01-01-0701010141-story.html)
+
 [^2]: [NARCAP Report](https://www.narcap.org/reports/017)
+
 [^3]: [NPR - O'Hare UFO](https://www.npr.org/templates/story/story.php?storyId=6712349)

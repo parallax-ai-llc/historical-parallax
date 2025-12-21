@@ -225,134 +225,134 @@ Modern secularist critics note that despite rhetoric of religious tolerance, Ash
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 304 BCE | Birth of Ashoka in Pataliputra |
-| c. 286 BCE | Suppresses rebellion in Taxila as a young prince |
-| c. 283 BCE | Appointed viceroy of Ujjain |
-| c. 272 BCE | Death of Emperor Bindusara; succession struggle begins |
-| c. 270 BCE | Consolidates power; eliminates rival claimants |
-| c. 268 BCE | Formal coronation as emperor of the Maurya Dynasty |
-| c. 261 BCE | Conquest of Kalinga; approximately 100,000 killed and 150,000 deported |
-| c. 260 BCE | Conversion to Buddhism following remorse over Kalinga War |
-| c. 259 BCE | Begins issuing rock and pillar edicts promoting dhamma |
-| c. 257 BCE | Undertakes pilgrimage to Buddhist holy sites; erects commemorative pillars |
-| c. 256 BCE | Sends Buddhist missionaries to Sri Lanka (son Mahinda and daughter Sanghamitta) |
-| c. 250 BCE | Third Buddhist Council convened at Pataliputra (according to Buddhist tradition) |
-| c. 250 BCE | Dispatches dhamma envoys to Hellenistic kingdoms |
-| c. 249 BCE | Visits and renovates Lumbini, birthplace of Buddha; erects pillar inscription |
-| c. 245 BCE | Establishes hospitals for humans and animals throughout empire |
-| c. 243 BCE | Issues major rock edicts on religious tolerance and ethical governance |
-| c. 240 BCE | Construction and renovation of major stupas including Sanchi |
-| c. 238 BCE | Appoints dhamma-mahamatras (righteousness officers) throughout empire |
-| c. 235 BCE | Final pillar edicts issued; health reportedly declining |
+| Year       | Event                                                                                  |
+| ---------- | -------------------------------------------------------------------------------------- |
+| c. 304 BCE | Birth of Ashoka in Pataliputra                                                         |
+| c. 286 BCE | Suppresses rebellion in Taxila as a young prince                                       |
+| c. 283 BCE | Appointed viceroy of Ujjain                                                            |
+| c. 272 BCE | Death of Emperor Bindusara; succession struggle begins                                 |
+| c. 270 BCE | Consolidates power; eliminates rival claimants                                         |
+| c. 268 BCE | Formal coronation as emperor of the Maurya Dynasty                                     |
+| c. 261 BCE | Conquest of Kalinga; approximately 100,000 killed and 150,000 deported                 |
+| c. 260 BCE | Conversion to Buddhism following remorse over Kalinga War                              |
+| c. 259 BCE | Begins issuing rock and pillar edicts promoting dhamma                                 |
+| c. 257 BCE | Undertakes pilgrimage to Buddhist holy sites; erects commemorative pillars             |
+| c. 256 BCE | Sends Buddhist missionaries to Sri Lanka (son Mahinda and daughter Sanghamitta)        |
+| c. 250 BCE | Third Buddhist Council convened at Pataliputra (according to Buddhist tradition)       |
+| c. 250 BCE | Dispatches dhamma envoys to Hellenistic kingdoms                                       |
+| c. 249 BCE | Visits and renovates Lumbini, birthplace of Buddha; erects pillar inscription          |
+| c. 245 BCE | Establishes hospitals for humans and animals throughout empire                         |
+| c. 243 BCE | Issues major rock edicts on religious tolerance and ethical governance                 |
+| c. 240 BCE | Construction and renovation of major stupas including Sanchi                           |
+| c. 238 BCE | Appoints dhamma-mahamatras (righteousness officers) throughout empire                  |
+| c. 235 BCE | Final pillar edicts issued; health reportedly declining                                |
 | c. 232 BCE | Death of Ashoka; succeeded by his son (identity debated—possibly Kunala or Dasharatha) |
 
 ---
 
 ## Famous Quotes
 
-> "All men are my children. As for my own children I desire that they may be provided with all the welfare and happiness of this world and of the next, so do I desire for all men as well." 
-— Rock Edict VI, expressing Ashoka's paternalistic view of governance and equal concern for all subjects
+> "All men are my children. As for my own children I desire that they may be provided with all the welfare and happiness of this world and of the next, so do I desire for all men as well."
+> — Rock Edict VI, expressing Ashoka's paternalistic view of governance and equal concern for all subjects
 
 > "The Beloved of the Gods, King Piyadasi, conquered the Kalingas eight years after his coronation. One hundred and fifty thousand people were deported, one hundred thousand were killed and many more died from other causes. After the Kalingas had been conquered, the Beloved of the Gods came to feel a strong inclination towards the dhamma, a love for the dhamma and for instruction in dhamma. Now the Beloved of the Gods feels deep remorse for having conquered the Kalingas."
-— Rock Edict XIII, Ashoka's extraordinary admission of remorse for the Kalinga conquest and the transformation it prompted
+> — Rock Edict XIII, Ashoka's extraordinary admission of remorse for the Kalinga conquest and the transformation it prompted
 
 > "One should not honor only one's own religion and condemn the religions of others, but one should honor others' religions for this or that reason. By so doing, one helps one's own religion to grow and also renders service to the religions of others. In acting otherwise, one digs the grave of one's own religion and harms other religions as well. Someone who honors his own religion and condemns other religions may do so out of devotion to his religion, thinking 'I will glorify my religion,' but his actions injure his own religion more gravely."
-— Rock Edict XII, advocating religious tolerance and interfaith respect
+> — Rock Edict XII, advocating religious tolerance and interfaith respect
 
 > "Whatever good I have done has been done for this purpose: that I might discharge my debt to all beings. I work for their happiness in this life, so that in the next life they may attain heaven."
-— Pillar Edict VII, explaining Ashoka's conception of his duties as ruler and his motivation for welfare policies
+> — Pillar Edict VII, explaining Ashoka's conception of his duties as ruler and his motivation for welfare policies
 
 > "Progress of dhamma among the people has been achieved through two means: through moral regulations and through persuasion. Of these two, moral regulation is less important, persuasion is more important. Through moral regulations, I have prescribed that certain animals must not be killed. But it is through persuasion that great progress of dhamma among the people has been achieved regarding the non-injury to living creatures and abstaining from killing living beings."
-— Pillar Edict V, emphasizing moral persuasion over legal coercion as a means of promoting ethical behavior
+> — Pillar Edict V, emphasizing moral persuasion over legal coercion as a means of promoting ethical behavior
 
 > "Here no living beings are to be slaughtered or offered in sacrifice. In the past, in the royal kitchens of King Piyadasi, hundreds of thousands of animals were killed daily for food. But now at the time of writing this edict, only three animals are killed daily—two peacocks and one deer, and the deer not invariably. Even these three animals will not be killed in the future."
-— Rock Edict I, demonstrating Ashoka's commitment to non-violence and animal welfare through personal example
+> — Rock Edict I, demonstrating Ashoka's commitment to non-violence and animal welfare through personal example
 
 > "My officials of all ranks—high, low and intermediate—act in accordance with the precepts of my instruction; for these are the rules: to govern according to dhamma, to administer justice according to dhamma, to advance the people's happiness according to dhamma, and to protect them according to dhamma."
-— Pillar Edict II, describing how dhamma principles should guide all levels of administration
+> — Pillar Edict II, describing how dhamma principles should guide all levels of administration
 
 ---
 
 ## References
 
-[^1]: Thapar, Romila. *Ashoka and the Decline of the Mauryas*. Oxford University Press, 1997.
+[^1]: Thapar, Romila. _Ashoka and the Decline of the Mauryas_. Oxford University Press, 1997.
 
-[^2]: Singh, Upinder. *Ashoka: The Search for India's Lost Emperor*. Hachette India, 2012.
+[^2]: Singh, Upinder. _Ashoka: The Search for India's Lost Emperor_. Hachette India, 2012.
 
-[^3]: Allen, Charles. *Ashoka: The Search for India's Lost Emperor*. Little, Brown, 2012.
+[^3]: Allen, Charles. _Ashoka: The Search for India's Lost Emperor_. Little, Brown, 2012.
 
-[^4]: Strong, John S. *The Legend of King Ashoka: A Study and Translation of the Ashokavadana*. Princeton University Press, 1983.
+[^4]: Strong, John S. _The Legend of King Ashoka: A Study and Translation of the Ashokavadana_. Princeton University Press, 1983.
 
-[^5]: Smith, Vincent A. *Ashoka: The Buddhist Emperor of India*. Oxford: Clarendon Press, 1920.
+[^5]: Smith, Vincent A. _Ashoka: The Buddhist Emperor of India_. Oxford: Clarendon Press, 1920.
 
-[^6]: Bhandarkar, D.R. *Ashoka*. University of Calcutta, 1955.
+[^6]: Bhandarkar, D.R. _Ashoka_. University of Calcutta, 1955.
 
-[^7]: Gokhale, Balkrishna Govind. *Ashoka Maurya*. Twayne Publishers, 1966.
+[^7]: Gokhale, Balkrishna Govind. _Ashoka Maurya_. Twayne Publishers, 1966.
 
-[^8]: Lahiri, Nayanjot. *Ashoka in Ancient India*. Harvard University Press, 2015.
+[^8]: Lahiri, Nayanjot. _Ashoka in Ancient India_. Harvard University Press, 2015.
 
-[^9]: Kosmin, Paul J. "Rethinking the Hellenistic World: Beyond the Boundaries of Empire." *American Journal of Archaeology*, vol. 118, no. 4, 2014, pp. 587-616.
+[^9]: Kosmin, Paul J. "Rethinking the Hellenistic World: Beyond the Boundaries of Empire." _American Journal of Archaeology_, vol. 118, no. 4, 2014, pp. 587-616.
 
-[^10]: Guruge, Ananda W.P. *Ashoka: The Righteous, The Beloved of the Gods*. Central Cultural Fund, Sri Lanka, 1993.
+[^10]: Guruge, Ananda W.P. _Ashoka: The Righteous, The Beloved of the Gods_. Central Cultural Fund, Sri Lanka, 1993.
 
-[^11]: Basham, A.L. *The Wonder That Was India*. Grove Press, 1959.
+[^11]: Basham, A.L. _The Wonder That Was India_. Grove Press, 1959.
 
-[^12]: Mookerji, Radha Kumud. *Ashoka*. Motilal Banarsidass, 1962.
+[^12]: Mookerji, Radha Kumud. _Ashoka_. Motilal Banarsidass, 1962.
 
-[^13]: Nikam, N.A. and Richard McKeon, editors. *The Edicts of Ashoka*. University of Chicago Press, 1959.
+[^13]: Nikam, N.A. and Richard McKeon, editors. _The Edicts of Ashoka_. University of Chicago Press, 1959.
 
-[^14]: Dhammika, Ven. S. *The Edicts of King Ashoka: An English Rendering*. Buddhist Publication Society, 1993.
+[^14]: Dhammika, Ven. S. _The Edicts of King Ashoka: An English Rendering_. Buddhist Publication Society, 1993.
 
-[^15]: Falk, Harry. *Ashoka's Inscriptions*. Volume I: Catalogue and Concordance. Supplementa of the Berlin Turfan Studies, 2006.
+[^15]: Falk, Harry. _Ashoka's Inscriptions_. Volume I: Catalogue and Concordance. Supplementa of the Berlin Turfan Studies, 2006.
 
-[^16]: Hultzsch, E. *Inscriptions of Ashoka*. Corpus Inscriptionum Indicarum, Vol. I, 1925.
+[^16]: Hultzsch, E. _Inscriptions of Ashoka_. Corpus Inscriptionum Indicarum, Vol. I, 1925.
 
-[^17]: Olivelle, Patrick, Janice Leoshko, and Himanshu Prabha Ray, editors. *Reimagining Ashoka: Memory and History*. Oxford University Press, 2012.
+[^17]: Olivelle, Patrick, Janice Leoshko, and Himanshu Prabha Ray, editors. _Reimagining Ashoka: Memory and History_. Oxford University Press, 2012.
 
-[^18]: Sen, Amartya. *The Argumentative Indian: Writings on Indian History, Culture and Identity*. Farrar, Straus and Giroux, 2005.
+[^18]: Sen, Amartya. _The Argumentative Indian: Writings on Indian History, Culture and Identity_. Farrar, Straus and Giroux, 2005.
 
-[^19]: Chakravarti, Uma. *The Social Dimensions of Early Buddhism*. Oxford University Press, 1987.
+[^19]: Chakravarti, Uma. _The Social Dimensions of Early Buddhism_. Oxford University Press, 1987.
 
-[^20]: Thapar, Romila. "Aśoka and Buddhism as Reflected in the Aśokan Edicts." *Ashokan Studies*, Oxford University Press, 2013.
+[^20]: Thapar, Romila. "Aśoka and Buddhism as Reflected in the Aśokan Edicts." _Ashokan Studies_, Oxford University Press, 2013.
 
-[^21]: Fussman, Gérard. "Central and Provincial Administration in Ancient India: The Problem of the Mauryan Empire." *Indian Historical Review*, vol. 14, no. 1-2, 1987-88, pp. 43-72.
+[^21]: Fussman, Gérard. "Central and Provincial Administration in Ancient India: The Problem of the Mauryan Empire." _Indian Historical Review_, vol. 14, no. 1-2, 1987-88, pp. 43-72.
 
-[^22]: Trautmann, Thomas R. *Kautilya and the Arthashastra: A Statistical Investigation of the Authorship and Evolution of the Text*. Brill, 1971.
+[^22]: Trautmann, Thomas R. _Kautilya and the Arthashastra: A Statistical Investigation of the Authorship and Evolution of the Text_. Brill, 1971.
 
-[^23]: Ray, Himanshu Prabha. "The Asokan Edicts: Epigraphical Study and Historical Analysis." *Indian Historical Review*, vol. 40, no. 1, 2013.
+[^23]: Ray, Himanshu Prabha. "The Asokan Edicts: Epigraphical Study and Historical Analysis." _Indian Historical Review_, vol. 40, no. 1, 2013.
 
-[^24]: Chakravarti, Ranabir. "Early Medieval Bengal and the Trade in Horses: A Note." *Journal of the Economic and Social History of the Orient*, vol. 42, no. 2, 1999, pp. 194-211.
+[^24]: Chakravarti, Ranabir. "Early Medieval Bengal and the Trade in Horses: A Note." _Journal of the Economic and Social History of the Orient_, vol. 42, no. 2, 1999, pp. 194-211.
 
-[^25]: Shimada, Akira. *Early Buddhist Architecture in Context: The Great Stūpa at Amarāvatī*. Brill, 2013.
+[^25]: Shimada, Akira. _Early Buddhist Architecture in Context: The Great Stūpa at Amarāvatī_. Brill, 2013.
 
-[^26]: Shaw, Julia. "Monasteries, Monasticism, and Patronage in Ancient India: Mawasa, a Recently Documented Hilltop Buddhist Complex in the Sanchi Area of Madhya Pradesh." *South Asian Studies*, vol. 27, no. 2, 2011.
+[^26]: Shaw, Julia. "Monasteries, Monasticism, and Patronage in Ancient India: Mawasa, a Recently Documented Hilltop Buddhist Complex in the Sanchi Area of Madhya Pradesh." _South Asian Studies_, vol. 27, no. 2, 2011.
 
-[^27]: Coningham, Robin and Mark Manuel. "Priest-King or Banker? Reflections on Material Patronage at Anuradhapura, Sri Lanka." *World Archaeology*, vol. 41, no. 2, 2009.
+[^27]: Coningham, Robin and Mark Manuel. "Priest-King or Banker? Reflections on Material Patronage at Anuradhapura, Sri Lanka." _World Archaeology_, vol. 41, no. 2, 2009.
 
-[^28]: Geiger, Wilhelm, translator. *The Mahavamsa or the Great Chronicle of Ceylon*. Pali Text Society, 1912.
+[^28]: Geiger, Wilhelm, translator. _The Mahavamsa or the Great Chronicle of Ceylon_. Pali Text Society, 1912.
 
-[^29]: Przyluski, Jean. *The Legend of Emperor Ashoka in Indian and Chinese Texts*. Asian Educational Services, 1967.
+[^29]: Przyluski, Jean. _The Legend of Emperor Ashoka in Indian and Chinese Texts_. Asian Educational Services, 1967.
 
-[^30]: Cartledge, Paul. "What Have the Greeks Done for Modern Civilization?" *Dialogues in History*, vol. 1, 2012.
+[^30]: Cartledge, Paul. "What Have the Greeks Done for Modern Civilization?" _Dialogues in History_, vol. 1, 2012.
 
-[^31]: Salomon, Richard. *Indian Epigraphy: A Guide to the Study of Inscriptions in Sanskrit, Prakrit, and the Other Indo-Aryan Languages*. Oxford University Press, 1998.
+[^31]: Salomon, Richard. _Indian Epigraphy: A Guide to the Study of Inscriptions in Sanskrit, Prakrit, and the Other Indo-Aryan Languages_. Oxford University Press, 1998.
 
-[^32]: Schopen, Gregory. "Burial 'Ad Sanctos' and the Physical Presence of the Buddha in Early Indian Buddhism." *Religion*, vol. 17, 1987, pp. 193-225.
+[^32]: Schopen, Gregory. "Burial 'Ad Sanctos' and the Physical Presence of the Buddha in Early Indian Buddhism." _Religion_, vol. 17, 1987, pp. 193-225.
 
-[^33]: Trainor, Kevin. *Relics, Ritual, and Representation in Buddhism: Rematerializing the Sri Lankan Theravada Tradition*. Cambridge University Press, 1997.
+[^33]: Trainor, Kevin. _Relics, Ritual, and Representation in Buddhism: Rematerializing the Sri Lankan Theravada Tradition_. Cambridge University Press, 1997.
 
-[^34]: DeCaroli, Robert. *Haunting the Buddha: Indian Popular Religions and the Formation of Buddhism*. Oxford University Press, 2004.
+[^34]: DeCaroli, Robert. _Haunting the Buddha: Indian Popular Religions and the Formation of Buddhism_. Oxford University Press, 2004.
 
-[^35]: Walters, Jonathan S. "Stūpa, Story, and Empire: Constructions of the Buddha Biography in Early Post-Asokan India." *Sacred Biography in the Buddhist Traditions of South and Southeast Asia*, University of Hawaii Press, 1997.
+[^35]: Walters, Jonathan S. "Stūpa, Story, and Empire: Constructions of the Buddha Biography in Early Post-Asokan India." _Sacred Biography in the Buddhist Traditions of South and Southeast Asia_, University of Hawaii Press, 1997.
 
-[^36]: Zysk, Kenneth G. *Asceticism and Healing in Ancient India: Medicine in the Buddhist Monastery*. Oxford University Press, 1991.
+[^36]: Zysk, Kenneth G. _Asceticism and Healing in Ancient India: Medicine in the Buddhist Monastery_. Oxford University Press, 1991.
 
-[^37]: Nath, Vijay. "From 'Brahmanism' to 'Hinduism': Negotiating the Myth of the Great Tradition." *Social Scientist*, vol. 29, no. 3-4, 2001, pp. 19-50.
+[^37]: Nath, Vijay. "From 'Brahmanism' to 'Hinduism': Negotiating the Myth of the Great Tradition." _Social Scientist_, vol. 29, no. 3-4, 2001, pp. 19-50.
 
-[^38]: Drekmeier, Charles. *Kingship and Community in Early India*. Stanford University Press, 1962.
+[^38]: Drekmeier, Charles. _Kingship and Community in Early India_. Stanford University Press, 1962.
 
-[^39]: Wells, H.G. *The Outline of History: Being a Plain History of Life and Mankind*. Garden City Publishing, 1920.
+[^39]: Wells, H.G. _The Outline of History: Being a Plain History of Life and Mankind_. Garden City Publishing, 1920.
 
-[^40]: Tambiah, Stanley J. *World Conqueror and World Renouncer: A Study of Buddhism and Polity in Thailand against a Historical Background*. Cambridge University Press, 1976.
+[^40]: Tambiah, Stanley J. _World Conqueror and World Renouncer: A Study of Buddhism and Polity in Thailand against a Historical Background_. Cambridge University Press, 1976.

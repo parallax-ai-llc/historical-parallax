@@ -207,175 +207,289 @@ Feminist and social historians have criticized Edward's militaristic culture as 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1312 | Born 13 November at Windsor Castle |
-| 1312 | Created Earl of Chester (12 days old) |
-| 1320 | Summoned to Parliament as Earl of Chester |
-| 1325 | Made Duke of Aquitaine |
-| 1326 | Accompanies mother Isabella to France |
-| 1326 | Invasion of England by Isabella and Mortimer |
-| 1327 | Edward II abdicates; Edward III proclaimed king (20 January) |
-| 1327 | Crowned at Westminster Abbey (29 January) |
-| 1327 | Edward II dies at Berkeley Castle (September) |
-| 1328 | Marries Philippa of Hainault (24 January) |
+| Year | Event                                                                        |
+| ---- | ---------------------------------------------------------------------------- |
+| 1312 | Born 13 November at Windsor Castle                                           |
+| 1312 | Created Earl of Chester (12 days old)                                        |
+| 1320 | Summoned to Parliament as Earl of Chester                                    |
+| 1325 | Made Duke of Aquitaine                                                       |
+| 1326 | Accompanies mother Isabella to France                                        |
+| 1326 | Invasion of England by Isabella and Mortimer                                 |
+| 1327 | Edward II abdicates; Edward III proclaimed king (20 January)                 |
+| 1327 | Crowned at Westminster Abbey (29 January)                                    |
+| 1327 | Edward II dies at Berkeley Castle (September)                                |
+| 1328 | Marries Philippa of Hainault (24 January)                                    |
 | 1328 | Humiliating Treaty of Edinburgh-Northampton recognizes Scottish independence |
-| 1330 | Birth of first son, Edward of Woodstock (15 June) |
-| 1330 | Coup against Mortimer at Nottingham Castle (19 October) |
-| 1330 | Execution of Mortimer (29 November); personal rule begins |
-| 1333 | Victory at Battle of Halidon Hill against Scotland |
-| 1337 | Hundred Years' War begins; Edward claims French throne |
-| 1340 | Naval victory at Battle of Sluys (24 June) |
-| 1346 | Decisive victory at Battle of Crécy (26 August) |
-| 1347 | Calais surrenders after year-long siege |
-| 1348 | Founded the Order of the Garter |
-| 1348 | Black Death arrives in England; three royal children die |
-| 1351 | Statute of Labourers enacted |
-| 1356 | Battle of Poitiers; Black Prince captures French King John II |
-| 1360 | Treaty of Brétigny; England controls quarter of France |
-| 1369 | Queen Philippa dies (15 August) |
-| 1369 | Hundred Years' War resumes; beginning of English losses |
-| 1375 | Treaty of Bruges; most English conquests lost |
-| 1376 | Good Parliament attacks corruption and royal advisers |
-| 1376 | Death of Edward the Black Prince (8 June) |
-| 1376 | Edward III suffers stroke (September) |
-| 1377 | Dies at Sheen Palace (21 June); succeeded by grandson Richard II |
+| 1330 | Birth of first son, Edward of Woodstock (15 June)                            |
+| 1330 | Coup against Mortimer at Nottingham Castle (19 October)                      |
+| 1330 | Execution of Mortimer (29 November); personal rule begins                    |
+| 1333 | Victory at Battle of Halidon Hill against Scotland                           |
+| 1337 | Hundred Years' War begins; Edward claims French throne                       |
+| 1340 | Naval victory at Battle of Sluys (24 June)                                   |
+| 1346 | Decisive victory at Battle of Crécy (26 August)                              |
+| 1347 | Calais surrenders after year-long siege                                      |
+| 1348 | Founded the Order of the Garter                                              |
+| 1348 | Black Death arrives in England; three royal children die                     |
+| 1351 | Statute of Labourers enacted                                                 |
+| 1356 | Battle of Poitiers; Black Prince captures French King John II                |
+| 1360 | Treaty of Brétigny; England controls quarter of France                       |
+| 1369 | Queen Philippa dies (15 August)                                              |
+| 1369 | Hundred Years' War resumes; beginning of English losses                      |
+| 1375 | Treaty of Bruges; most English conquests lost                                |
+| 1376 | Good Parliament attacks corruption and royal advisers                        |
+| 1376 | Death of Edward the Black Prince (8 June)                                    |
+| 1376 | Edward III suffers stroke (September)                                        |
+| 1377 | Dies at Sheen Palace (21 June); succeeded by grandson Richard II             |
 
 ---
 
 ## Famous Quotes
 
 > "Honi soit qui mal y pense" (Shame on him who thinks evil of it)
-The motto of the Order of the Garter, allegedly spoken by Edward when he retrieved the Countess of Salisbury's dropped garter, though more likely referencing his French claims.[^111]
+> The motto of the Order of the Garter, allegedly spoken by Edward when he retrieved the Countess of Salisbury's dropped garter, though more likely referencing his French claims.[^111]
 
 > "Let the boy win his spurs"
-Edward's reported response when asked to send reinforcements to his son the Black Prince during the Battle of Crécy, demonstrating both confidence in his son and the chivalric values of proving oneself in combat.[^112]
+> Edward's reported response when asked to send reinforcements to his son the Black Prince during the Battle of Crécy, demonstrating both confidence in his son and the chivalric values of proving oneself in combat.[^112]
 
 > "Fair son, have pity on gentle Mortimer"
-Queen Isabella's plea when Edward arrested Mortimer at Nottingham Castle in 1330—not Edward's words, but addressed to him at a pivotal moment of his rise to power.[^113]
+> Queen Isabella's plea when Edward arrested Mortimer at Nottingham Castle in 1330—not Edward's words, but addressed to him at a pivotal moment of his rise to power.[^113]
 
 > "He was lionlike in pride and greed for glory, but the debonair and soft way in which he handled his men made him very popular"
-Jean Froissart's contemporary characterization of Edward III in his Chronicles.[^114]
+> Jean Froissart's contemporary characterization of Edward III in his Chronicles.[^114]
 
 > "The comfort of England and the flower of chivalry of all the world"
-Contemporary description of Edward III at the height of his power, reflecting his reputation among his own people.[^115]
+> Contemporary description of Edward III at the height of his power, reflecting his reputation among his own people.[^115]
 
 ---
 
 ## References
 
 [^1]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^2]: [Edward III | King of England, Plantagenet Dynasty, Hundred Years' War | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England)
+
 [^3]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^4]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^5]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^6]: [Edward III (r. 1327-1377) | The Royal Family](https://www.royal.uk/edward-iii)
+
 [^7]: [King Edward III of England | Biography, Children & Family Tree - Lesson | Study.com](https://study.com/academy/lesson/king-edward-iii-of-england-facts-family-tree-quiz.html)
+
 [^8]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^9]: [Edward III | King of England, Plantagenet Dynasty, Hundred Years' War | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England)
+
 [^10]: [Edward II of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_II_of_England)
+
 [^11]: [The charismatic Edward III](https://www.englishmonarchs.co.uk/plantagenet_7.htm)
+
 [^12]: [King Edward III of England | Biography, Children & Family Tree - Lesson | Study.com](https://study.com/academy/lesson/king-edward-iii-of-england-facts-family-tree-quiz.html)
+
 [^13]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^14]: [Parliament of 1327 - Wikipedia](https://en.wikipedia.org/wiki/Parliament_of_1327)
+
 [^15]: [Edward III (r. 1327-1377) | The Royal Family](https://www.royal.uk/edward-iii)
+
 [^16]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^17]: [Edward II of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_II_of_England)
+
 [^18]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^19]: [The Hundred Years War - The Edwardian Phase - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/Hundred-Years-War-Edwardian-Phase/)
+
 [^20]: [Philippa of Hainault - Wikipedia](https://en.wikipedia.org/wiki/Philippa_of_Hainault)
+
 [^21]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^22]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^23]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^24]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^25]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^26]: [Edward III | King of England, Plantagenet Dynasty, Hundred Years' War | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England)
+
 [^27]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^28]: [Edward III (r. 1327-1377) | The Royal Family](https://www.royal.uk/edward-iii)
+
 [^29]: [Hundred Years' War - Wikipedia](https://en.wikipedia.org/wiki/Hundred_Years'_War)
+
 [^30]: [Hundred Years' War, 1337–1360 - Wikipedia](https://en.wikipedia.org/wiki/Hundred_Years'_War,_1337–1360)
+
 [^31]: [The Hundred Years War - The Edwardian Phase - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/Hundred-Years-War-Edwardian-Phase/)
+
 [^32]: [Edward III of England — 100 Years War](https://www.100-years-war.com/edward-iii-of-england)
+
 [^33]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^34]: [Hundred Years' War | Summary, Causes, Effects, Combatants, Timeline, & Facts | Britannica](https://www.britannica.com/event/Hundred-Years-War)
+
 [^35]: [The Hundred Years War - The Edwardian Phase - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/Hundred-Years-War-Edwardian-Phase/)
+
 [^36]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^37]: [England reign edward iii | British history 1066-1450 | Cambridge University Press](https://www.cambridge.org/us/universitypress/subjects/history/british-history-1066-1450/england-reign-edward-iii)
+
 [^38]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^39]: [Order of the Garter - Wikipedia](https://en.wikipedia.org/wiki/Order_of_the_Garter)
+
 [^40]: [The Order of the Garter | The Royal Family](https://www.royal.uk/the-order-of-the-garter)
+
 [^41]: [Order of the Garter - World History Encyclopedia](https://www.worldhistory.org/Order_of_the_Garter/)
+
 [^42]: [The Order of the Garter - College of St George](https://www.stgeorges-windsor.org/about-st-georges/history/the-order-of-the-garter/)
+
 [^43]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^44]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^45]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^46]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^47]: [10 Facts About King Edward III](https://www.historyhit.com/facts-about-king-edward-iii/)
+
 [^48]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^49]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^50]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^51]: [King Edward III](https://historiesandcastles.com/historic-figures/king-edward-iii/)
+
 [^52]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^53]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^54]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^55]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^56]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^57]: [10 Facts About King Edward III](https://www.historyhit.com/facts-about-king-edward-iii/)
+
 [^58]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^59]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^60]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^61]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^62]: [Hundred Years' War - Wikipedia](https://en.wikipedia.org/wiki/Hundred_Years'_War)
+
 [^63]: [The Hundred Years War - The Edwardian Phase - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/Hundred-Years-War-Edwardian-Phase/)
+
 [^64]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^65]: [Philippa of Hainault - Wikipedia](https://en.wikipedia.org/wiki/Philippa_of_Hainault)
+
 [^66]: [Edward III and Philippa of Hainault | Westminster Abbey](https://www.westminster-abbey.org/abbey-commemorations/royals/edward-iii-and-philippa-of-hainault)
+
 [^67]: [Philippa Of Hainaut | Flemish Queen, Consort, Edward III | Britannica](https://www.britannica.com/biography/Philippa-of-Hainaut)
+
 [^68]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^69]: [Philippa of Hainault - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philippa_of_Hainault)
+
 [^70]: [Behind Every Great Man Stands A Great Woman: Philippa of Hainault, Queen of Edward III | History Hit](https://www.historyhit.com/philippa-of-hainault/)
+
 [^71]: [Edward III and Philippa of Hainault | Westminster Abbey](https://www.westminster-abbey.org/abbey-commemorations/royals/edward-iii-and-philippa-of-hainault)
+
 [^72]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^73]: [King Edward III Family Tree & Biography (1312-1377) - Trees of Blue](https://www.treesofblue.com/king-edward-iii-family-tree-1312-1377/)
+
 [^74]: [Edward III and Philippa of Hainault | Westminster Abbey](https://www.westminster-abbey.org/abbey-commemorations/royals/edward-iii-and-philippa-of-hainault)
+
 [^75]: [The charismatic Edward III](https://www.englishmonarchs.co.uk/plantagenet_7.htm)
+
 [^76]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^77]: [King Edward III](https://historiesandcastles.com/historic-figures/king-edward-iii/)
+
 [^78]: [Philippa of Hainault - Wikipedia](https://en.wikipedia.org/wiki/Philippa_of_Hainault)
+
 [^79]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^80]: [Edward III (r. 1327-1377) | The Royal Family](https://www.royal.uk/edward-iii)
+
 [^81]: [June 21, 1377: Death of Edward III, King of England and Lord of Ireland | European Royal History](https://europeanroyalhistory.wordpress.com/2022/06/21/june-21-1377-death-of-edward-iii-king-of-england-and-lord-of-ireland/)
+
 [^82]: [Edward III and Philippa of Hainault | Westminster Abbey](https://www.westminster-abbey.org/abbey-commemorations/royals/edward-iii-and-philippa-of-hainault)
+
 [^83]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^84]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^85]: [Hundred Years' War | Summary, Causes, Effects, Combatants, Timeline, & Facts | Britannica](https://www.britannica.com/event/Hundred-Years-War)
+
 [^86]: [England reign edward iii | British history 1066-1450 | Cambridge University Press](https://www.cambridge.org/us/universitypress/subjects/history/british-history-1066-1450/england-reign-edward-iii)
+
 [^87]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^88]: [The Order of the Garter | The Royal Family](https://www.royal.uk/the-order-of-the-garter)
+
 [^89]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^90]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^91]: [June 21, 1377: Death of Edward III, King of England and Lord of Ireland | European Royal History](https://europeanroyalhistory.wordpress.com/2022/06/21/june-21-1377-death-of-edward-iii-king-of-england-and-lord-of-ireland/)
+
 [^92]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^93]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^94]: [The Hundred Years War - The Edwardian Phase - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/Hundred-Years-War-Edwardian-Phase/)
+
 [^95]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^96]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^97]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^98]: [Edward III](https://yalebooks.yale.edu/book/9780300194081/edward-iii/)
+
 [^99]: [Edward III of England — 100 Years War](https://www.100-years-war.com/edward-iii-of-england)
+
 [^100]: [Edward III and the English aristocracy at the beginning of the Hundred Years War » De Re Militari](https://deremilitari.org/2013/12/edward-iii-and-the-english-aristocracy-at-the-beginning-of-the-hundred-years-war/)
+
 [^101]: [The charismatic Edward III](https://www.englishmonarchs.co.uk/plantagenet_7.htm)
+
 [^102]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^103]: [England reign edward iii | British history 1066-1450 | Cambridge University Press](https://www.cambridge.org/us/universitypress/subjects/history/british-history-1066-1450/england-reign-edward-iii)
+
 [^104]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^105]: [The Hundred Years War - The Edwardian Phase - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/Hundred-Years-War-Edwardian-Phase/)
+
 [^106]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^107]: [Edward III - Hundred Years War, Black Death, Depopulation | Britannica](https://www.britannica.com/biography/Edward-III-king-of-England/The-years-of-decline-1360-77)
+
 [^108]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^109]: [Edward III of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Edward_III_of_England)
+
 [^110]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^111]: [The Order of the Garter | The Royal Family](https://www.royal.uk/the-order-of-the-garter)
+
 [^112]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)
+
 [^113]: [Edward III of England - Wikipedia](https://en.wikipedia.org/wiki/Edward_III_of_England)
+
 [^114]: [The charismatic Edward III](https://www.englishmonarchs.co.uk/plantagenet_7.htm)
+
 [^115]: [Edward III of England - World History Encyclopedia](https://www.worldhistory.org/Edward_III_of_England/)

@@ -141,30 +141,30 @@ The scholarly debate ultimately centers on whether Puyi should be understood pri
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1906 | Born on February 7 in Beijing, China |
-| 1908 | Became emperor at age 2 on December 2 following the death of the Guangxu Emperor |
-| 1912 | Forced to abdicate on February 12, ending the Qing dynasty |
-| 1917 | Briefly restored to throne July 1-12 by warlord Zhang Xun |
-| 1919 | British tutor Reginald Johnston appointed to educate him |
-| 1922 | Married Empress Wanrong and Consort Wenxiu in double wedding |
-| 1924 | Expelled from the Forbidden City by warlord Feng Yuxiang |
-| 1925 | Moved to Japanese concession in Tianjin |
-| 1931 | Left Tianjin on November 10, smuggled to Manchuria by Japanese forces |
-| 1932 | Installed as president of Manchukuo on March 9 |
-| 1934 | Crowned emperor of Manchukuo under reign title Kangde |
-| 1937 | Married third wife Tan Yuling |
-| 1943 | Married fourth wife Li Yuqin |
+| Year | Event                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 1906 | Born on February 7 in Beijing, China                                                         |
+| 1908 | Became emperor at age 2 on December 2 following the death of the Guangxu Emperor             |
+| 1912 | Forced to abdicate on February 12, ending the Qing dynasty                                   |
+| 1917 | Briefly restored to throne July 1-12 by warlord Zhang Xun                                    |
+| 1919 | British tutor Reginald Johnston appointed to educate him                                     |
+| 1922 | Married Empress Wanrong and Consort Wenxiu in double wedding                                 |
+| 1924 | Expelled from the Forbidden City by warlord Feng Yuxiang                                     |
+| 1925 | Moved to Japanese concession in Tianjin                                                      |
+| 1931 | Left Tianjin on November 10, smuggled to Manchuria by Japanese forces                        |
+| 1932 | Installed as president of Manchukuo on March 9                                               |
+| 1934 | Crowned emperor of Manchukuo under reign title Kangde                                        |
+| 1937 | Married third wife Tan Yuling                                                                |
+| 1943 | Married fourth wife Li Yuqin                                                                 |
 | 1945 | Captured by Soviet forces on August 17 at Hsinking airport while attempting to flee to Japan |
-| 1946 | Testified at International Military Tribunal for the Far East in Tokyo |
-| 1950 | Transferred to Fushun War Criminals Management Centre in China on July 21 |
-| 1959 | Released from prison after re-education |
-| 1960 | Began working as gardener at Beijing Botanical Gardens |
-| 1962 | Married fifth wife Li Shuxian, a nurse |
-| 1964 | Published autobiography "From Emperor to Citizen" |
-| 1967 | Died of kidney cancer on October 17 in Beijing |
-| 1995 | Ashes moved to Hualong Royal Cemetery near Western Qing Tombs |
+| 1946 | Testified at International Military Tribunal for the Far East in Tokyo                       |
+| 1950 | Transferred to Fushun War Criminals Management Centre in China on July 21                    |
+| 1959 | Released from prison after re-education                                                      |
+| 1960 | Began working as gardener at Beijing Botanical Gardens                                       |
+| 1962 | Married fifth wife Li Shuxian, a nurse                                                       |
+| 1964 | Published autobiography "From Emperor to Citizen"                                            |
+| 1967 | Died of kidney cancer on October 17 in Beijing                                               |
+| 1995 | Ashes moved to Hualong Royal Cemetery near Western Qing Tombs                                |
 
 ---
 
@@ -203,107 +203,211 @@ A confession written during his Communist re-education, accepting personal respo
 ## References
 
 [^1]: https://www.britannica.com/biography/Puyi
+
 [^2]: https://en.wikipedia.org/wiki/Puyi
+
 [^3]: https://www.ducksters.com/history/china/puyi_last_emperor_of_china.php
+
 [^4]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^5]: https://grokipedia.com/page/Family_of_Puyi
+
 [^6]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^7]: https://en.wikipedia.org/wiki/Puyi
+
 [^8]: https://factsanddetails.com/china/cat2/sub4/entry-4290.html
+
 [^9]: https://factsanddetails.com/china/cat2/sub4/entry-4290.html
+
 [^10]: https://factsanddetails.com/china/cat2/sub4/entry-4290.html
+
 [^11]: https://factsanddetails.com/china/cat2/sub4/entry-4290.html
+
 [^12]: https://factsanddetails.com/china/cat2/sub4/entry-4290.html
+
 [^13]: https://www.britannica.com/biography/Puyi
+
 [^14]: https://www.britannica.com/biography/Puyi
+
 [^15]: https://en.wikipedia.org/wiki/Puyi
+
 [^16]: https://en.wikipedia.org/wiki/Manchu_Restoration
+
 [^17]: https://en.wikipedia.org/wiki/Manchu_Restoration
+
 [^18]: https://ancientwarhistory.com/the-farce-of-zhang-xuns-restoration-a-failed-attempt-to-revive-imperial-china/
+
 [^19]: https://en.wikipedia.org/wiki/Manchu_Restoration
+
 [^20]: https://en.wikipedia.org/wiki/Puyi
+
 [^21]: https://en.wikipedia.org/wiki/Garden_of_Serenity
+
 [^22]: https://everything-everywhere.com/puyi-the-last-emperor-of-china/
+
 [^23]: https://en.wikipedia.org/wiki/Garden_of_Serenity
+
 [^24]: https://www.chinafetching.com/pu-yi
+
 [^25]: https://www.chinafetching.com/pu-yi
+
 [^26]: https://www.chinafetching.com/pu-yi
+
 [^27]: https://www.chinafetching.com/pu-yi
+
 [^28]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^29]: https://en.wikipedia.org/wiki/From_Emperor_to_Citizen
+
 [^30]: https://en.wikipedia.org/wiki/From_Emperor_to_Citizen
+
 [^31]: https://en.wikipedia.org/wiki/From_Emperor_to_Citizen
+
 [^32]: https://factsanddetails.com/china/cat2/sub4/entry-4290.html
+
 [^33]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^34]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^35]: https://www.britannica.com/biography/Puyi
+
 [^36]: https://www.pacificatrocities.org/establishing-manchukuo.html
+
 [^37]: https://www.pacificatrocities.org/establishing-manchukuo.html
+
 [^38]: https://www.pacificatrocities.org/establishing-manchukuo.html
+
 [^39]: https://www.nippon.com/en/in-depth/d00815/
+
 [^40]: https://en.wikipedia.org/wiki/Manchukuo
+
 [^41]: https://www.youngpioneertours.com/manchukuo-guide/
+
 [^42]: https://en.wikipedia.org/wiki/Manchukuo
+
 [^43]: https://en.wikipedia.org/wiki/Manchukuo
+
 [^44]: https://adamcathcart.com/2015/04/12/pu-yi-tokyo-witness/
+
 [^45]: https://adamcathcart.com/2015/04/12/pu-yi-tokyo-witness/
+
 [^46]: https://adamcathcart.com/2015/04/12/pu-yi-tokyo-witness/
+
 [^47]: https://ww2db.com/person_bio.php?person_id=67
+
 [^48]: https://adamcathcart.com/2015/04/12/pu-yi-tokyo-witness/
+
 [^49]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^50]: https://erenow.org/biographies/the-last-manchu/9.php
+
 [^51]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^52]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^53]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^54]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^55]: https://en.wikipedia.org/wiki/Wanrong
+
 [^56]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^57]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^58]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^59]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^60]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^61]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^62]: https://en.wikipedia.org/wiki/Family_of_Puyi
+
 [^63]: https://grokipedia.com/page/Family_of_Puyi
+
 [^64]: https://grokipedia.com/page/Family_of_Puyi
+
 [^65]: https://en.wikipedia.org/wiki/Reginald_Johnston
+
 [^66]: https://theme.npm.edu.tw/exh105/PhotoRetrospective/en/page-4.html
+
 [^67]: https://erenow.org/biographies/the-last-manchu/9.php
+
 [^68]: https://en.wikipedia.org/wiki/Reginald_Johnston
+
 [^69]: https://theme.npm.edu.tw/exh105/PhotoRetrospective/en/page-4.html
+
 [^70]: https://en.wikipedia.org/wiki/Reginald_Johnston
+
 [^71]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^72]: https://www.bookey.app/book/from-emperor-to-citizen/quote
+
 [^73]: https://www.goodreads.com/work/quotes/386159-the-last-manchu-the-autobiography-of-henry-pu-yi-last-emperor-of-china
+
 [^74]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^75]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^76]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^77]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^78]: https://theme.npm.edu.tw/exh105/PhotoRetrospective/en/page-3.html
+
 [^79]: https://theme.npm.edu.tw/exh105/PhotoRetrospective/en/page-3.html
+
 [^80]: https://en.wikipedia.org/wiki/The_Last_Emperor
+
 [^81]: https://en.wikipedia.org/wiki/The_Last_Emperor
+
 [^82]: https://www.rottentomatoes.com/m/last_emperor
+
 [^83]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^84]: https://ancientwarhistory.com/the-unbuilt-imperial-tomb-puyis-lost-mausoleum-and-the-twilight-of-chinas-last-dynasty/
+
 [^85]: https://ancientwarhistory.com/the-unbuilt-imperial-tomb-puyis-lost-mausoleum-and-the-twilight-of-chinas-last-dynasty/
+
 [^86]: https://www.voanews.com/a/burial-plot-of-chinas-last-emperor-still-holds-allure-131546703/146507.html
+
 [^87]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^88]: https://www.chinahighlights.com/travelguide/china-history/puyi.htm
+
 [^89]: https://en.wikipedia.org/wiki/From_Emperor_to_Citizen
+
 [^90]: https://www.pacificatrocities.org/establishing-manchukuo.html
+
 [^91]: https://factsanddetails.com/china/cat2/sub4/entry-4290.html
+
 [^92]: https://adamcathcart.com/2015/04/12/pu-yi-tokyo-witness/
+
 [^93]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^94]: https://adamcathcart.com/2015/04/12/pu-yi-tokyo-witness/
+
 [^95]: https://ww2db.com/person_bio.php?person_id=67
+
 [^96]: https://www.bookey.app/book/from-emperor-to-citizen/quote
+
 [^97]: https://erenow.org/biographies/the-last-manchu/9.php
+
 [^98]: https://www.historytools.org/stories/puyi-the-last-emperor-of-china-a-historians-perspective
+
 [^99]: https://www.goodreads.com/work/quotes/386159-the-last-manchu-the-autobiography-of-henry-pu-yi-last-emperor-of-china
+
 [^100]: https://www.goodreads.com/work/quotes/386159-the-last-manchu-the-autobiography-of-henry-pu-yi-last-emperor-of-china
+
 [^101]: https://www.goodreads.com/work/quotes/386159-the-last-manchu-the-autobiography-of-henry-pu-yi-last-emperor-of-china
+
 [^102]: https://www.goodreads.com/work/quotes/386159-the-last-manchu-the-autobiography-of-henry-pu-yi-last-emperor-of-china
+
 [^103]: https://www.bookey.app/book/from-emperor-to-citizen/quote
+
 [^104]: https://www.bookey.app/book/from-emperor-to-citizen/quote
+
 [^105]: https://adamcathcart.com/2015/04/12/pu-yi-tokyo-witness/

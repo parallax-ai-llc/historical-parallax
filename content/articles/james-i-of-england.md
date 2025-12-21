@@ -101,7 +101,7 @@ In cultural terms, James's reign represents a continuation and in some ways culm
 
 ### Positive Views
 
-Modern historians have significantly rehabilitated James's reputation from the hostile portraits that dominated for centuries.[^117] Scholars like Jenny Wormald have demonstrated that much negative characterization originated from contemporary political enemies whose biased accounts were uncritically accepted by later historians.[^118] Recent scholarship emphasizes James's considerable achievements, particularly his success in maintaining peace during an era of religious warfare that devastated continental Europe.[^119] 
+Modern historians have significantly rehabilitated James's reputation from the hostile portraits that dominated for centuries.[^117] Scholars like Jenny Wormald have demonstrated that much negative characterization originated from contemporary political enemies whose biased accounts were uncritically accepted by later historians.[^118] Recent scholarship emphasizes James's considerable achievements, particularly his success in maintaining peace during an era of religious warfare that devastated continental Europe.[^119]
 
 James's commitment to religious moderation, while imperfect, prevented England from experiencing the catastrophic religious wars that consumed France and Germany.[^120] His skillful management of Scotland for over four decades before becoming King of England demonstrates genuine political ability that earlier historians overlooked.[^121] The stability of his government in Scotland and during the early part of his English reign, as well as his relatively enlightened views on war and peace, have earned renewed scholarly appreciation.[^122]
 
@@ -125,33 +125,33 @@ The traditional characterization of James as "the wisest fool in Christendom"—
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1566 | Born at Edinburgh Castle on 19 June |
+| Year | Event                                                                                                                              |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1566 | Born at Edinburgh Castle on 19 June                                                                                                |
 | 1567 | Father Lord Darnley dies in explosion; becomes King of Scotland after mother's abdication (24 July); crowned at Stirling (29 July) |
-| 1582 | Kidnapped in Ruthven Raid by Protestant nobles |
-| 1583 | Escapes captivity and begins consolidating personal authority |
-| 1589 | Marries Anne of Denmark in Oslo (23 November) |
-| 1594 | Birth of son Henry Frederick, Prince of Wales |
-| 1596 | Birth of daughter Elizabeth (future Queen of Bohemia) |
-| 1597 | Publishes Daemonologie |
-| 1598 | Publishes The True Law of Free Monarchies |
-| 1599 | Publishes Basilikon Doron |
-| 1600 | Birth of son Charles (future Charles I) |
-| 1603 | Becomes King of England and Ireland upon death of Elizabeth I (24 March) |
-| 1604 | Hampton Court Conference (January); Treaty of London ends war with Spain (August) |
-| 1605 | Gunpowder Plot discovered (5 November) |
-| 1606 | Establishes Virginia Company of London (10 April) |
-| 1607 | Jamestown settlement established in Virginia (13 May) |
-| 1610 | Plantation of Ulster begins |
-| 1611 | King James Bible published |
-| 1612 | Death of eldest son Henry Frederick from typhoid fever |
-| 1614 | George Villiers catches king's attention at Apethorpe Palace |
-| 1617 | Publicly declares love for Buckingham before court |
-| 1619 | Death of Queen Anne at Hampton Court Palace (2 March) |
-| 1621 | Parliament dissolved after Great Protestation incident |
-| 1623 | Collapse of Spanish Match negotiations |
-| 1625 | Dies at Theobalds House on 27 March, aged 58 |
+| 1582 | Kidnapped in Ruthven Raid by Protestant nobles                                                                                     |
+| 1583 | Escapes captivity and begins consolidating personal authority                                                                      |
+| 1589 | Marries Anne of Denmark in Oslo (23 November)                                                                                      |
+| 1594 | Birth of son Henry Frederick, Prince of Wales                                                                                      |
+| 1596 | Birth of daughter Elizabeth (future Queen of Bohemia)                                                                              |
+| 1597 | Publishes Daemonologie                                                                                                             |
+| 1598 | Publishes The True Law of Free Monarchies                                                                                          |
+| 1599 | Publishes Basilikon Doron                                                                                                          |
+| 1600 | Birth of son Charles (future Charles I)                                                                                            |
+| 1603 | Becomes King of England and Ireland upon death of Elizabeth I (24 March)                                                           |
+| 1604 | Hampton Court Conference (January); Treaty of London ends war with Spain (August)                                                  |
+| 1605 | Gunpowder Plot discovered (5 November)                                                                                             |
+| 1606 | Establishes Virginia Company of London (10 April)                                                                                  |
+| 1607 | Jamestown settlement established in Virginia (13 May)                                                                              |
+| 1610 | Plantation of Ulster begins                                                                                                        |
+| 1611 | King James Bible published                                                                                                         |
+| 1612 | Death of eldest son Henry Frederick from typhoid fever                                                                             |
+| 1614 | George Villiers catches king's attention at Apethorpe Palace                                                                       |
+| 1617 | Publicly declares love for Buckingham before court                                                                                 |
+| 1619 | Death of Queen Anne at Hampton Court Palace (2 March)                                                                              |
+| 1621 | Parliament dissolved after Great Protestation incident                                                                             |
+| 1623 | Collapse of Spanish Match negotiations                                                                                             |
+| 1625 | Dies at Theobalds House on 27 March, aged 58                                                                                       |
 
 ---
 
@@ -174,148 +174,293 @@ The traditional characterization of James as "the wisest fool in Christendom"—
 ## References
 
 [^1]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^2]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^3]: King James Version - Wikipedia, https://en.wikipedia.org/wiki/King_James_Version
+
 [^4]: James I and the Historians: Toward a Reconsideration | Journal of British Studies, https://www.cambridge.org/core/journals/journal-of-british-studies/article/abs/james-i-and-the-historians-toward-a-reconsideration/53A1562DCE2068ED05A54BA8EBFE472C
+
 [^5]: James VI and I (r. 1567-1625) | The Royal Family, https://www.royal.uk/james-vi-and-i-r-1567-1625
+
 [^6]: A brief history of James VI and I | National Museums Scotland, https://www.nms.ac.uk/discover-catalogue/a-brief-history-of-james-vi-and-i
+
 [^7]: James I of England - World History Encyclopedia, https://www.worldhistory.org/James_I_of_England/
+
 [^8]: James I of England - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/James_I_of_England
+
 [^9]: James VI and I (1566–1625) - Encyclopedia Virginia, https://encyclopediavirginia.org/entries/james-vi-and-i-1566-1625/
+
 [^10]: The Prince in the Tower: James VI and I's Childhood at Stirling Castle, https://blog.historicenvironment.scot/2024/11/the-prince-in-the-tower-james-vi-and-is-childhood-at-stirling-castle/
+
 [^11]: England's first Stuart monarch, James I & VI, https://www.englishmonarchs.co.uk/stuart.htm
+
 [^12]: Tudor Times | James VI & I: Life Story (Education), https://tudortimes.co.uk/people/james-vi-i-life-story/education
+
 [^13]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^14]: A brief history of James VI and I | National Museums Scotland, https://www.nms.ac.uk/discover-catalogue/a-brief-history-of-james-vi-and-i
+
 [^15]: Tudor Times | James VI & I: Life Story (Education), https://tudortimes.co.uk/people/james-vi-i-life-story/education
+
 [^16]: James VI and I (1566–1625) - Encyclopedia Virginia, https://encyclopediavirginia.org/entries/james-vi-and-i-1566-1625/
+
 [^17]: The Prince in the Tower: James VI and I's Childhood at Stirling Castle, https://blog.historicenvironment.scot/2024/11/the-prince-in-the-tower-james-vi-and-is-childhood-at-stirling-castle/
+
 [^18]: TOP 22 QUOTES BY KING JAMES I | A-Z Quotes, https://www.azquotes.com/author/7331-King_James_I
+
 [^19]: James I of England - World History Encyclopedia, https://www.worldhistory.org/James_I_of_England/
+
 [^20]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^21]: A brief history of James VI and I | National Museums Scotland, https://www.nms.ac.uk/discover-catalogue/a-brief-history-of-james-vi-and-i
+
 [^22]: James I and VI (England and Scotland) (1566–1625) | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/james-i-and-vi-england-and-scotland-1566-1625
+
 [^23]: James I and Anne of Denmark | Banqueting House | Historic Royal Palaces, https://www.hrp.org.uk/banqueting-house/history-and-stories/james-i-and-anne-of-denmark/
+
 [^24]: Anne of Denmark - Wikipedia, https://en.wikipedia.org/wiki/Anne_of_Denmark
+
 [^25]: King James I, Daemonologie, & the Scottish Witch Hunts, https://emilymwhitley.wordpress.com/2017/08/02/king-james-i-daemonologie-the-scottish-witch-hunts/
+
 [^26]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^27]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^28]: The True Law of Free Monarchies and Basilikon Doron – CRRS Publications, https://pubs.crrs.ca/products/ts1
+
 [^29]: James I Becomes King of England | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/james-i-becomes-king-england
+
 [^30]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^31]: James I of England - World History Encyclopedia, https://www.worldhistory.org/James_I_of_England/
+
 [^32]: A brief history of James VI and I | National Museums Scotland, https://www.nms.ac.uk/discover-catalogue/a-brief-history-of-james-vi-and-i
+
 [^33]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^34]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^35]: James VI and I (r. 1567-1625) | The Royal Family, https://www.royal.uk/james-vi-and-i-r-1567-1625
+
 [^36]: James I Becomes King of England | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/james-i-becomes-king-england
+
 [^37]: Treaty of London (1604) - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_London_(1604)
+
 [^38]: James I - Peace with Spain - UK Parliament, https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/the-gunpowder-plot-of-1605/overview/background-to-the-gunpowder-plot/peacemaker---the-new-king/
+
 [^39]: James I and VI (England and Scotland) (1566–1625) | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/james-i-and-vi-england-and-scotland-1566-1625
+
 [^40]: Hampton Court Conference - Wikipedia, https://en.wikipedia.org/wiki/Hampton_Court_Conference
+
 [^41]: Hampton Court Conference | Religious Reform, Henry VIII & Thomas Cranmer | Britannica, https://www.britannica.com/event/Hampton-Court-Conference
+
 [^42]: The Hampton Court Conference | History Today, https://www.historytoday.com/archive/hampton-court-conference
+
 [^43]: Why the King James Bible of 1611 Remains the Most Popular Translation in History | HISTORY, https://www.history.com/articles/king-james-bible-most-popular
+
 [^44]: King James Version - Wikipedia, https://en.wikipedia.org/wiki/King_James_Version
+
 [^45]: James VI and I (1566–1625) - Encyclopedia Virginia, https://encyclopediavirginia.org/entries/james-vi-and-i-1566-1625/
+
 [^46]: Jamestown Virginia | Discover Ulster-Scots, https://discoverulsterscots.com/history-culture/hamilton-montgomery/jamestown
+
 [^47]: Jamestown 1607 | Discover Ulster-Scots, https://discoverulsterscots.com/emigration-influence/america/ulster-scots-america/ulster-virginia/jamestown-1607
+
 [^48]: Plantation of Ulster - Wikipedia, https://en.wikipedia.org/wiki/Plantation_of_Ulster
+
 [^49]: Popery, puritans and witches: The reign of King James I and VI | Sky HISTORY TV Channel, https://www.history.co.uk/articles/the-life-of-king-james-i-and-vi-the-wisest-fool-in-christendom
+
 [^50]: Shakespeare, James I/VI, and Witchcraft - ENGL 3000, https://libguides.colorado.edu/ENGL3000-RaD/James-and-Witchcraft
+
 [^51]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^52]: The Life and Legacy of James I, King of England, https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1883&context=student_scholarship
+
 [^53]: Gunpowder Plot - Wikipedia, https://en.wikipedia.org/wiki/Gunpowder_Plot
+
 [^54]: Gunpowder Plot | Definition, Guy Fawkes, Summary, & Facts | Britannica, https://www.britannica.com/event/Gunpowder-Plot
+
 [^55]: Guy Fawkes and the Gunpowder Plot | Tower of London, https://www.hrp.org.uk/tower-of-london/history-and-stories/guy-fawkes-and-the-gunpowder-plot/
+
 [^56]: The life of King James I, target of the failed Gunpowder Plot | Sky HISTORY TV Channel, https://www.history.co.uk/articles/the-life-of-king-james-i
+
 [^57]: Gunpowder Plot: Guy Fawkes & the Plan to Blow up Parliament, https://www.worldhistory.org/Gunpowder_Plot/
+
 [^58]: Sexuality of James VI and I - Wikipedia, https://en.wikipedia.org/wiki/Sexuality_of_James_VI_and_I
+
 [^59]: James I and his favourites: sex and power at the Jacobean court, https://historyofparliament.com/2018/02/27/james-i-and-his-favourites-sex-and-power-at-the-jacobean-court/
+
 [^60]: The king and his favourite | James I and George Villiers | English Heritage, https://www.english-heritage.org.uk/learn/histories/lgbtq-history/James_I_and_Villiers/
+
 [^61]: The King's Favourite: George Villiers, 1st Duke of Buckingham | Historic Royal Palaces, https://www.hrp.org.uk/blog/george-villiers-first-duke-of-buckingham/
+
 [^62]: Power and passion: George Villiers and James I | Royal Museums Greenwich, https://www.rmg.co.uk/stories/royal-history/power-passion-george-villiers-james-i
+
 [^63]: Sexuality of James VI and I - Wikipedia, https://en.wikipedia.org/wiki/Sexuality_of_James_VI_and_I
+
 [^64]: James I and his favourites: sex and power at the Jacobean court, https://historyofparliament.com/2018/02/27/james-i-and-his-favourites-sex-and-power-at-the-jacobean-court/
+
 [^65]: James VI and I and the English Parliament - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I_and_the_English_Parliament
+
 [^66]: The Divine Right of James I and the English Response, https://scholar.smu.edu/cgi/viewcontent.cgi?article=1119&context=jour
+
 [^67]: James and Parliament - History Learning Site, https://www.historylearningsite.co.uk/stuart-england/james-and-parliament/
+
 [^68]: Parliaments 1604-1629 | History of Parliament Online, https://historyofparliamentonline.org/research/parliaments/parliaments-1604-1629
+
 [^69]: James VI and I and the English Parliament - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I_and_the_English_Parliament
+
 [^70]: Great Protestation | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/great-protestation
+
 [^71]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^72]: Daemonologie - Wikipedia, https://en.wikipedia.org/wiki/Daemonologie
+
 [^73]: King James I, Daemonologie, & the Scottish Witch Hunts, https://emilymwhitley.wordpress.com/2017/08/02/king-james-i-daemonologie-the-scottish-witch-hunts/
+
 [^74]: King James and the Witch Hunt Legacy, https://explorethearchive.com/king-james-witches
+
 [^75]: The Role of King James I in Defining Witches, https://crimeandmentality.omeka.net/the-role-of-king-james-i-in-defining-witches
+
 [^76]: James VI and Witchcraft | Philippa Gregory, https://www.philippagregory.com/news/james-vi-and-witchcraft
+
 [^77]: Witch trials in early modern Scotland - Wikipedia, https://en.wikipedia.org/wiki/Witch_trials_in_early_modern_Scotland
+
 [^78]: Witches and King James :: Internet Shakespeare Editions, https://internetshakespeare.uvic.ca/Library/SLT/ideas/the%20supernatural/daemonologie.html
+
 [^79]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^80]: James and Parliament - History Learning Site, https://www.historylearningsite.co.uk/stuart-england/james-and-parliament/
+
 [^81]: James VI and I and the English Parliament - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I_and_the_English_Parliament
+
 [^82]: James I and VI (England and Scotland) (1566–1625) | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/james-i-and-vi-england-and-scotland-1566-1625
+
 [^83]: James I and Anne of Denmark | Banqueting House | Historic Royal Palaces, https://www.hrp.org.uk/banqueting-house/history-and-stories/james-i-and-anne-of-denmark/
+
 [^84]: Anne of Denmark - Wikipedia, https://en.wikipedia.org/wiki/Anne_of_Denmark
+
 [^85]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^86]: James VI and I (r. 1567-1625) | The Royal Family, https://www.royal.uk/james-vi-and-i-r-1567-1625
+
 [^87]: Anne of Denmark | Royal Museums Greenwich, https://www.rmg.co.uk/stories/topics/anne-denmark
+
 [^88]: James I and Anne of Denmark | Westminster Abbey, https://www.westminster-abbey.org/abbey-commemorations/royals/james-i-and-anne-of-denmark
+
 [^89]: James I and his favourites: sex and power at the Jacobean court, https://historyofparliament.com/2018/02/27/james-i-and-his-favourites-sex-and-power-at-the-jacobean-court/
+
 [^90]: The King's Favourite: George Villiers, 1st Duke of Buckingham | Historic Royal Palaces, https://www.hrp.org.uk/blog/george-villiers-first-duke-of-buckingham/
+
 [^91]: James I and Anne of Denmark | Westminster Abbey, https://www.westminster-abbey.org/abbey-commemorations/royals/james-i-and-anne-of-denmark
+
 [^92]: Anne of Denmark - Wikipedia, https://en.wikipedia.org/wiki/Anne_of_Denmark
+
 [^93]: James I and Anne of Denmark | Banqueting House | Historic Royal Palices, https://www.hrp.org.uk/banqueting-house/history-and-stories/james-i-and-anne-of-denmark/
+
 [^94]: Popery, puritans and witches: The reign of King James I and VI | Sky HISTORY TV Channel, https://www.history.co.uk/articles/the-life-of-king-james-i-and-vi-the-wisest-fool-in-christendom
+
 [^95]: Sexuality of James VI and I - Wikipedia, https://en.wikipedia.org/wiki/Sexuality_of_James_VI_and_I
+
 [^96]: James I, the wisest fool in Christendom, https://www.lookandlearn.com/blog/21745/james-i-the-first-stuart-monarch-of-england/
+
 [^97]: Popery, puritans and witches: The reign of King James I and VI | Sky HISTORY TV Channel, https://www.history.co.uk/articles/the-life-of-king-james-i-and-vi-the-wisest-fool-in-christendom
+
 [^98]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^99]: The Life and Legacy of James I, King of England, https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1883&context=student_scholarship
+
 [^100]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^101]: Why the King James Bible of 1611 Remains the Most Popular Translation in History | HISTORY, https://www.history.com/articles/king-james-bible-most-popular
+
 [^102]: King James Version - Wikipedia, https://en.wikipedia.org/wiki/King_James_Version
+
 [^103]: Why the King James Bible of 1611 Remains the Most Popular Translation in History | HISTORY, https://www.history.com/articles/king-james-bible-most-popular
+
 [^104]: King James Version - Wikipedia, https://en.wikipedia.org/wiki/King_James_Version
+
 [^105]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^106]: James VI and I and the English Parliament - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I_and_the_English_Parliament
+
 [^107]: James I of England - World History Edu, https://worldhistoryedu.com/james-i-of-england/
+
 [^108]: A brief history of James VI and I | National Museums Scotland, https://www.nms.ac.uk/discover-catalogue/a-brief-history-of-james-vi-and-i
+
 [^109]: James I Becomes King of England | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/james-i-becomes-king-england
+
 [^110]: James VI and I (r. 1567-1625) | The Royal Family, https://www.royal.uk/james-vi-and-i-r-1567-1625
+
 [^111]: Plantation of Ulster - Wikipedia, https://en.wikipedia.org/wiki/Plantation_of_Ulster
+
 [^112]: Jamestown 1607 | Discover Ulster-Scots, https://discoverulsterscots.com/emigration-influence/america/ulster-scots-america/ulster-virginia/jamestown-1607
+
 [^113]: The Ulster Plantation - Scotch-Irish in America, https://www.libraryireland.com/ScotchIrishAmerica/I.php
+
 [^114]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^115]: Popery, puritans and witches: The reign of King James I and VI | Sky HISTORY TV Channel, https://www.history.co.uk/articles/the-life-of-king-james-i-and-vi-the-wisest-fool-in-christendom
+
 [^116]: The Life and Legacy of James I, King of England, https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1883&context=student_scholarship
+
 [^117]: James I and the Historians: Toward a Reconsideration | Journal of British Studies, https://www.cambridge.org/core/journals/journal-of-british-studies/article/abs/james-i-and-the-historians-toward-a-reconsideration/53A1562DCE2068ED05A54BA8EBFE472C
+
 [^118]: Full article: James VI and I after 400 years, https://www.tandfonline.com/doi/full/10.1080/0268117X.2025.2571145
+
 [^119]: The Life and Legacy of James I, King of England, https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1883&context=student_scholarship
+
 [^120]: James I | Accomplishments, Religion, Successor, & Facts | Britannica, https://www.britannica.com/biography/James-I-king-of-England-and-Scotland
+
 [^121]: James VI and I - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I
+
 [^122]: James I and the Historians: Toward a Reconsideration | Journal of British Studies, https://www.cambridge.org/core/journals/journal-of-british-studies/article/abs/james-i-and-the-historians-toward-a-reconsideration/53A1562DCE2068ED05A54BA8EBFE472C
+
 [^123]: The True Law of Free Monarchies and Basilikon Doron – CRRS Publications, https://pubs.crrs.ca/products/ts1
+
 [^124]: The Life and Legacy of James I, King of England, https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1883&context=student_scholarship
+
 [^125]: Hampton Court Conference - Wikipedia, https://en.wikipedia.org/wiki/Hampton_Court_Conference
+
 [^126]: James I: The Wisest Fool - Aspects of History, https://aspectsofhistory.com/james-i-the-wisest-fool/
+
 [^127]: The Jacobean Peace The Irenic Policy of James VI and I and its Legacy, https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1028&context=rmmra
+
 [^128]: Full article: James VI and I after 400 years, https://www.tandfonline.com/doi/full/10.1080/0268117X.2025.2571145
+
 [^129]: James I and the Historians: Toward a Reconsideration | Journal of British Studies, https://www.cambridge.org/core/journals/journal-of-british-studies/article/abs/james-i-and-the-historians-toward-a-reconsideration/53A1562DCE2068ED05A54BA8EBFE472C
+
 [^130]: James I of England - World History Edu, https://worldhistoryedu.com/james-i-of-england/
+
 [^131]: James and Parliament - History Learning Site, https://www.historylearningsite.co.uk/stuart-england/james-and-parliament/
+
 [^132]: The Divine Right of James I and the English Response, https://scholar.smu.edu/cgi/viewcontent.cgi?article=1119&context=jour
+
 [^133]: Divine right of kings | Definition, History, & Facts | Britannica, https://www.britannica.com/topic/divine-right-of-kings
+
 [^134]: James VI and I and the English Parliament - Wikipedia, https://en.wikipedia.org/wiki/James_VI_and_I_and_the_English_Parliament
+
 [^135]: James I and his favourites: sex and power at the Jacobean court, https://historyofparliament.com/2018/02/27/james-i-and-his-favourites-sex-and-power-at-the-jacobean-court/
+
 [^136]: The King's Favourite: George Villiers, Duke of Buckingham - Historic UK, https://www.historic-uk.com/HistoryUKHistoryofEngland/George-Villiers-Duke-Of-Buckingham/
+
 [^137]: History of the Puritans under King James I - Wikipedia, https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I
+
 [^138]: King James and the Witch Hunt Legacy, https://explorethearchive.com/king-james-witches
+
 [^139]: Popery, puritans and witches: The reign of King James I and VI | Sky HISTORY TV Channel, https://www.history.co.uk/articles/the-life-of-king-james-i-and-vi-the-wisest-fool-in-christendom
+
 [^140]: James I, the wisest fool in Christendom, https://www.lookandlearn.com/blog/21745/james-i-the-first-stuart-monarch-of-england/
+
 [^141]: The Divine Right of James I and the English Response, https://scholar.smu.edu/cgi/viewcontent.cgi?article=1119&context=jour
+
 [^142]: TOP 22 QUOTES BY KING JAMES I | A-Z Quotes, https://www.azquotes.com/author/7331-King_James_I
+
 [^143]: James I of England - Wikiquote, https://en.wikiquote.org/wiki/James_I_of_England
+
 [^144]: TOP 22 QUOTES BY KING JAMES I | A-Z Quotes, https://www.azquotes.com/author/7331-King_James_I
+
 [^145]: King James I Quotes - BrainyQuote, https://www.brainyquote.com/authors/king-james-i-quotes
+
 [^146]: Power and passion: George Villiers and James I | Royal Museums Greenwich, https://www.rmg.co.uk/stories/royal-history/power-passion-george-villiers-james-i

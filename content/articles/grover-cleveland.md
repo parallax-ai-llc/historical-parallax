@@ -149,34 +149,34 @@ Critics note the hypocrisy between Cleveland's public moralism and private behav
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1837 | Born March 18 in Caldwell, New Jersey |
-| 1853 | Father dies; Cleveland ends formal education at age 14 |
-| 1855 | Moves to Buffalo, New York; begins studying law |
-| 1859 | Admitted to the New York State Bar |
-| 1863 | Drafted for Civil War service; hires substitute |
-| 1870 | Elected Sheriff of Erie County, New York |
-| 1881 | Elected Mayor of Buffalo |
-| 1882 | Elected Governor of New York |
-| 1884 | Elected 22nd President of the United States |
-| 1884 | Illegitimate child scandal emerges during campaign |
-| 1886 | Marries Frances Folsom in White House, June 2 |
-| 1887 | Signs Interstate Commerce Act |
-| 1887 | Vetoes Texas Seed Bill |
+| Year | Event                                                                         |
+| ---- | ----------------------------------------------------------------------------- |
+| 1837 | Born March 18 in Caldwell, New Jersey                                         |
+| 1853 | Father dies; Cleveland ends formal education at age 14                        |
+| 1855 | Moves to Buffalo, New York; begins studying law                               |
+| 1859 | Admitted to the New York State Bar                                            |
+| 1863 | Drafted for Civil War service; hires substitute                               |
+| 1870 | Elected Sheriff of Erie County, New York                                      |
+| 1881 | Elected Mayor of Buffalo                                                      |
+| 1882 | Elected Governor of New York                                                  |
+| 1884 | Elected 22nd President of the United States                                   |
+| 1884 | Illegitimate child scandal emerges during campaign                            |
+| 1886 | Marries Frances Folsom in White House, June 2                                 |
+| 1887 | Signs Interstate Commerce Act                                                 |
+| 1887 | Vetoes Texas Seed Bill                                                        |
 | 1888 | Loses presidential election to Benjamin Harrison despite winning popular vote |
-| 1891 | Daughter Ruth born (Baby Ruth candy bar allegedly named after her) |
-| 1892 | Elected 24th President of the United States |
-| 1893 | Panic of 1893 begins; economic depression starts |
-| 1893 | Secret cancer surgery performed on yacht, July 1 |
-| 1893 | Repeals Sherman Silver Purchase Act, November |
-| 1894 | Sends federal troops to break Pullman Strike |
-| 1894 | Coxey's Army march on Washington demanding relief |
-| 1895 | Arranges J.P. Morgan gold loan to replenish Treasury reserves |
-| 1895 | Venezuela boundary dispute; invokes Monroe Doctrine |
-| 1897 | Leaves presidency; retires to Princeton, New Jersey |
-| 1904 | Daughter Esther born (first child born in White House, 1893) |
-| 1908 | Dies June 24 in Princeton, New Jersey at age 71 |
+| 1891 | Daughter Ruth born (Baby Ruth candy bar allegedly named after her)            |
+| 1892 | Elected 24th President of the United States                                   |
+| 1893 | Panic of 1893 begins; economic depression starts                              |
+| 1893 | Secret cancer surgery performed on yacht, July 1                              |
+| 1893 | Repeals Sherman Silver Purchase Act, November                                 |
+| 1894 | Sends federal troops to break Pullman Strike                                  |
+| 1894 | Coxey's Army march on Washington demanding relief                             |
+| 1895 | Arranges J.P. Morgan gold loan to replenish Treasury reserves                 |
+| 1895 | Venezuela boundary dispute; invokes Monroe Doctrine                           |
+| 1897 | Leaves presidency; retires to Princeton, New Jersey                           |
+| 1904 | Daughter Esther born (first child born in White House, 1893)                  |
+| 1908 | Dies June 24 in Princeton, New Jersey at age 71                               |
 
 ---
 
@@ -210,226 +210,226 @@ This quote reflected Cleveland's background and belief that honest labor, whethe
 
 ## References
 
-[^1]: Nevins, Allan. *Grover Cleveland: A Study in Courage*. New York: Dodd, Mead & Company, 1932, pp. 3-8.
+[^1]: Nevins, Allan. _Grover Cleveland: A Study in Courage_. New York: Dodd, Mead & Company, 1932, pp. 3-8.
 
-[^2]: Graff, Henry F. *Grover Cleveland*. New York: Times Books, 2002, pp. 12-15.
+[^2]: Graff, Henry F. _Grover Cleveland_. New York: Times Books, 2002, pp. 12-15.
 
-[^3]: Brodsky, Alyn. *Grover Cleveland: A Study in Character*. New York: St. Martin's Press, 2000, pp. 18-21.
+[^3]: Brodsky, Alyn. _Grover Cleveland: A Study in Character_. New York: St. Martin's Press, 2000, pp. 18-21.
 
-[^4]: Welch, Richard E. *The Presidencies of Grover Cleveland*. Lawrence: University Press of Kansas, 1988, pp. 5-7.
+[^4]: Welch, Richard E. _The Presidencies of Grover Cleveland_. Lawrence: University Press of Kansas, 1988, pp. 5-7.
 
-[^5]: Nevins, *Grover Cleveland*, pp. 22-25.
+[^5]: Nevins, _Grover Cleveland_, pp. 22-25.
 
-[^6]: Jeffers, H. Paul. *An Honest President: The Life and Presidencies of Grover Cleveland*. New York: William Morrow, 2000, pp. 31-34.
+[^6]: Jeffers, H. Paul. _An Honest President: The Life and Presidencies of Grover Cleveland_. New York: William Morrow, 2000, pp. 31-34.
 
-[^7]: Graff, *Grover Cleveland*, pp. 19-23.
+[^7]: Graff, _Grover Cleveland_, pp. 19-23.
 
-[^8]: Brodsky, *Grover Cleveland*, pp. 35-40.
+[^8]: Brodsky, _Grover Cleveland_, pp. 35-40.
 
-[^9]: Tugwell, Rexford G. *Grover Cleveland*. New York: Macmillan, 1968, pp. 28-32.
+[^9]: Tugwell, Rexford G. _Grover Cleveland_. New York: Macmillan, 1968, pp. 28-32.
 
-[^10]: Welch, *The Presidencies of Grover Cleveland*, pp. 8-10.
+[^10]: Welch, _The Presidencies of Grover Cleveland_, pp. 8-10.
 
-[^11]: Nevins, *Grover Cleveland*, pp. 35-42.
+[^11]: Nevins, _Grover Cleveland_, pp. 35-42.
 
-[^12]: Jeffers, *An Honest President*, pp. 45-48.
+[^12]: Jeffers, _An Honest President_, pp. 45-48.
 
-[^13]: Ford, Henry Jones. *The Cleveland Era*. New Haven: Yale University Press, 1921, pp. 18-22.
+[^13]: Ford, Henry Jones. _The Cleveland Era_. New Haven: Yale University Press, 1921, pp. 18-22.
 
-[^14]: Merrill, Horace Samuel. *Bourbon Leader: Grover Cleveland and the Democratic Party*. Boston: Little, Brown, 1957, pp. 15-20.
+[^14]: Merrill, Horace Samuel. _Bourbon Leader: Grover Cleveland and the Democratic Party_. Boston: Little, Brown, 1957, pp. 15-20.
 
-[^15]: Graff, *Grover Cleveland*, pp. 32-36.
+[^15]: Graff, _Grover Cleveland_, pp. 32-36.
 
-[^16]: Nevins, *Grover Cleveland*, pp. 88-95.
+[^16]: Nevins, _Grover Cleveland_, pp. 88-95.
 
-[^17]: Brodsky, *Grover Cleveland*, pp. 78-85.
+[^17]: Brodsky, _Grover Cleveland_, pp. 78-85.
 
-[^18]: Welch, *The Presidencies of Grover Cleveland*, pp. 25-30.
+[^18]: Welch, _The Presidencies of Grover Cleveland_, pp. 25-30.
 
-[^19]: Summers, Mark Wahlgren. *Rum, Romanism & Rebellion: The Making of a President, 1884*. Chapel Hill: University of North Carolina Press, 2000, pp. 145-167.
+[^19]: Summers, Mark Wahlgren. _Rum, Romanism & Rebellion: The Making of a President, 1884_. Chapel Hill: University of North Carolina Press, 2000, pp. 145-167.
 
-[^20]: Ford, *The Cleveland Era*, pp. 45-52.
+[^20]: Ford, _The Cleveland Era_, pp. 45-52.
 
-[^21]: Hoogenboom, Ari. *Outlawing the Spoils: A History of the Civil Service Reform Movement*. Urbana: University of Illinois Press, 1961, pp. 189-205.
+[^21]: Hoogenboom, Ari. _Outlawing the Spoils: A History of the Civil Service Reform Movement_. Urbana: University of Illinois Press, 1961, pp. 189-205.
 
-[^22]: Welch, *The Presidencies of Grover Cleveland*, pp. 52-58.
+[^22]: Welch, _The Presidencies of Grover Cleveland_, pp. 52-58.
 
-[^23]: Friedman, Milton and Anna Jacobson Schwartz. *A Monetary History of the United States, 1867-1960*. Princeton: Princeton University Press, 1963, pp. 104-119.
+[^23]: Friedman, Milton and Anna Jacobson Schwartz. _A Monetary History of the United States, 1867-1960_. Princeton: Princeton University Press, 1963, pp. 104-119.
 
-[^24]: Nevins, *Grover Cleveland*, pp. 524-548.
+[^24]: Nevins, _Grover Cleveland_, pp. 524-548.
 
-[^25]: Barnes, James A. *John G. Carlisle: Financial Statesman*. New York: Dodd, Mead & Company, 1931, pp. 245-268.
+[^25]: Barnes, James A. _John G. Carlisle: Financial Statesman_. New York: Dodd, Mead & Company, 1931, pp. 245-268.
 
-[^26]: Spitzer, Robert J. *The Presidential Veto: Touchstone of the American Presidency*. Albany: State University of New York Press, 1988, pp. 45-49.
+[^26]: Spitzer, Robert J. _The Presidential Veto: Touchstone of the American Presidency_. Albany: State University of New York Press, 1988, pp. 45-49.
 
-[^27]: Jeffers, *An Honest President*, pp. 142-147.
+[^27]: Jeffers, _An Honest President_, pp. 142-147.
 
-[^28]: Cleveland, Grover. "Veto of the Texas Seed Bill," February 16, 1887. In James D. Richardson, ed., *A Compilation of the Messages and Papers of the Presidents*, Vol. 8. Washington: Government Printing Office, 1897, pp. 557-558.
+[^28]: Cleveland, Grover. "Veto of the Texas Seed Bill," February 16, 1887. In James D. Richardson, ed., _A Compilation of the Messages and Papers of the Presidents_, Vol. 8. Washington: Government Printing Office, 1897, pp. 557-558.
 
-[^29]: LaFeber, Walter. *The American Search for Opportunity, 1865-1913*. Cambridge: Cambridge University Press, 1993, pp. 128-135.
+[^29]: LaFeber, Walter. _The American Search for Opportunity, 1865-1913_. Cambridge: Cambridge University Press, 1993, pp. 128-135.
 
-[^30]: Tompkins, E. Berkeley. *Anti-Imperialism in the United States: The Great Debate, 1890-1920*. Philadelphia: University of Pennsylvania Press, 1970, pp. 45-62.
+[^30]: Tompkins, E. Berkeley. _Anti-Imperialism in the United States: The Great Debate, 1890-1920_. Philadelphia: University of Pennsylvania Press, 1970, pp. 45-62.
 
-[^31]: Hoogenboom, Ari and Olive Hoogenboom. *A History of the ICC: From Panacea to Palliative*. New York: W.W. Norton, 1976, pp. 15-28.
+[^31]: Hoogenboom, Ari and Olive Hoogenboom. _A History of the ICC: From Panacea to Palliative_. New York: W.W. Norton, 1976, pp. 15-28.
 
-[^32]: McCraw, Thomas K. *Prophets of Regulation*. Cambridge: Harvard University Press, 1984, pp. 58-75.
+[^32]: McCraw, Thomas K. _Prophets of Regulation_. Cambridge: Harvard University Press, 1984, pp. 58-75.
 
-[^33]: Strouse, Jean. *Morgan: American Financier*. New York: Random House, 1999, pp. 337-352.
+[^33]: Strouse, Jean. _Morgan: American Financier_. New York: Random House, 1999, pp. 337-352.
 
-[^34]: Pisani, Donald J. *Water and American Government: The Reclamation Bureau, National Water Policy, and the West*. Berkeley: University of California Press, 2002, pp. 42-48.
+[^34]: Pisani, Donald J. _Water and American Government: The Reclamation Bureau, National Water Policy, and the West_. Berkeley: University of California Press, 2002, pp. 42-48.
 
-[^35]: Lindsey, Almont. *The Pullman Strike*. Chicago: University of Chicago Press, 1942, pp. 235-268.
+[^35]: Lindsey, Almont. _The Pullman Strike_. Chicago: University of Chicago Press, 1942, pp. 235-268.
 
-[^36]: Dubofsky, Melvyn. *The State and Labor in Modern America*. Chapel Hill: University of North Carolina Press, 1994, pp. 32-38.
+[^36]: Dubofsky, Melvyn. _The State and Labor in Modern America_. Chapel Hill: University of North Carolina Press, 1994, pp. 32-38.
 
-[^37]: Rezneck, Samuel. "Unemployment, Unrest, and Relief in the United States during the Depression of 1893-97." *Journal of Political Economy* 61, no. 4 (1953): 324-345.
+[^37]: Rezneck, Samuel. "Unemployment, Unrest, and Relief in the United States during the Depression of 1893-97." _Journal of Political Economy_ 61, no. 4 (1953): 324-345.
 
-[^38]: Schwantes, Carlos A. *Coxey's Army: An American Odyssey*. Lincoln: University of Nebraska Press, 1985, pp. 178-195.
+[^38]: Schwantes, Carlos A. _Coxey's Army: An American Odyssey_. Lincoln: University of Nebraska Press, 1985, pp. 178-195.
 
-[^39]: Forbath, William E. *Law and the Shaping of the American Labor Movement*. Cambridge: Harvard University Press, 1991, pp. 89-97.
+[^39]: Forbath, William E. _Law and the Shaping of the American Labor Movement_. Cambridge: Harvard University Press, 1991, pp. 89-97.
 
-[^40]: Hoffmann, Charles. *The Depression of the Nineties: An Economic History*. Westport, CT: Greenwood Publishing, 1970, pp. 102-118.
+[^40]: Hoffmann, Charles. _The Depression of the Nineties: An Economic History_. Westport, CT: Greenwood Publishing, 1970, pp. 102-118.
 
-[^41]: Logan, Rayford W. *The Betrayal of the Negro: From Rutherford B. Hayes to Woodrow Wilson*. New York: Collier Books, 1965, pp. 52-67.
+[^41]: Logan, Rayford W. _The Betrayal of the Negro: From Rutherford B. Hayes to Woodrow Wilson_. New York: Collier Books, 1965, pp. 52-67.
 
-[^42]: Woodward, C. Vann. *The Strange Career of Jim Crow*. New York: Oxford University Press, 1955, pp. 67-74.
+[^42]: Woodward, C. Vann. _The Strange Career of Jim Crow_. New York: Oxford University Press, 1955, pp. 67-74.
 
-[^43]: Merrill, *Bourbon Leader*, pp. 78-95.
+[^43]: Merrill, _Bourbon Leader_, pp. 78-95.
 
-[^44]: Dearing, Mary R. *Veterans in Politics: The Story of the G.A.R.* Baton Rouge: Louisiana State University Press, 1952, pp. 345-362.
+[^44]: Dearing, Mary R. _Veterans in Politics: The Story of the G.A.R._ Baton Rouge: Louisiana State University Press, 1952, pp. 345-362.
 
-[^45]: Brodsky, *Grover Cleveland*, pp. 215-225.
+[^45]: Brodsky, _Grover Cleveland_, pp. 215-225.
 
-[^46]: Welch, *The Presidencies of Grover Cleveland*, pp. 145-152.
+[^46]: Welch, _The Presidencies of Grover Cleveland_, pp. 145-152.
 
-[^47]: Summers, *Rum, Romanism & Rebellion*, pp. 145-167.
+[^47]: Summers, _Rum, Romanism & Rebellion_, pp. 145-167.
 
-[^48]: Algeo, Matthew. *The President Is a Sick Man: Wherein the Supposedly Virtuous Grover Cleveland Survives a Secret Surgery at Sea*. Chicago: Chicago Review Press, 2011, pp. 45-52.
+[^48]: Algeo, Matthew. _The President Is a Sick Man: Wherein the Supposedly Virtuous Grover Cleveland Survives a Secret Surgery at Sea_. Chicago: Chicago Review Press, 2011, pp. 45-52.
 
-[^49]: Algeo, *The President Is a Sick Man*, pp. 118-145.
+[^49]: Algeo, _The President Is a Sick Man_, pp. 118-145.
 
-[^50]: Nevins, *Grover Cleveland*, pp. 163-172.
+[^50]: Nevins, _Grover Cleveland_, pp. 163-172.
 
-[^51]: Jeffers, *An Honest President*, pp. 95-102.
+[^51]: Jeffers, _An Honest President_, pp. 95-102.
 
-[^52]: Boller, Paul F. *Presidential Wives: An Anecdotal History*. New York: Oxford University Press, 1988, pp. 189-195.
+[^52]: Boller, Paul F. _Presidential Wives: An Anecdotal History_. New York: Oxford University Press, 1988, pp. 189-195.
 
-[^53]: Mayo, Edith P., ed. *The Smithsonian Book of the First Ladies: Their Lives, Times, and Issues*. New York: Henry Holt, 1996, pp. 142-147.
+[^53]: Mayo, Edith P., ed. _The Smithsonian Book of the First Ladies: Their Lives, Times, and Issues_. New York: Henry Holt, 1996, pp. 142-147.
 
-[^54]: Graff, *Grover Cleveland*, pp. 88-92.
+[^54]: Graff, _Grover Cleveland_, pp. 88-92.
 
-[^55]: Truman, Margaret. *First Ladies*. New York: Random House, 1995, pp. 145-152.
+[^55]: Truman, Margaret. _First Ladies_. New York: Random House, 1995, pp. 145-152.
 
-[^56]: Anthony, Carl Sferrazza. *First Ladies: The Saga of the Presidents' Wives and Their Power, 1789-1961*. New York: William Morrow, 1990, pp. 295-301.
+[^56]: Anthony, Carl Sferrazza. _First Ladies: The Saga of the Presidents' Wives and Their Power, 1789-1961_. New York: William Morrow, 1990, pp. 295-301.
 
-[^57]: Brodsky, *Grover Cleveland*, pp. 165-172.
+[^57]: Brodsky, _Grover Cleveland_, pp. 165-172.
 
-[^58]: Tugwell, *Grover Cleveland*, pp. 145-152.
+[^58]: Tugwell, _Grover Cleveland_, pp. 145-152.
 
-[^59]: Jeffers, *An Honest President*, pp. 185-190.
+[^59]: Jeffers, _An Honest President_, pp. 185-190.
 
-[^60]: Graff, *Grover Cleveland*, pp. 125-128.
+[^60]: Graff, _Grover Cleveland_, pp. 125-128.
 
-[^61]: Algeo, *The President Is a Sick Man*, pp. 95-165.
+[^61]: Algeo, _The President Is a Sick Man_, pp. 95-165.
 
-[^62]: Nevins, *Grover Cleveland*, pp. 758-768.
+[^62]: Nevins, _Grover Cleveland_, pp. 758-768.
 
-[^63]: Welch, *The Presidencies of Grover Cleveland*, pp. 205-210.
+[^63]: Welch, _The Presidencies of Grover Cleveland_, pp. 205-210.
 
-[^64]: Graff, *Grover Cleveland*, p. 148.
+[^64]: Graff, _Grover Cleveland_, p. 148.
 
-[^65]: Skowronek, Stephen. *The Politics Presidents Make: Leadership from John Adams to Bill Clinton*. Cambridge: Harvard University Press, 1997, pp. 224-238.
+[^65]: Skowronek, Stephen. _The Politics Presidents Make: Leadership from John Adams to Bill Clinton_. Cambridge: Harvard University Press, 1997, pp. 224-238.
 
-[^66]: Hoogenboom, *Outlawing the Spoils*, pp. 225-235.
+[^66]: Hoogenboom, _Outlawing the Spoils_, pp. 225-235.
 
-[^67]: Keller, Morton. *Affairs of State: Public Life in Late Nineteenth Century America*. Cambridge: Harvard University Press, 1977, pp. 568-582.
+[^67]: Keller, Morton. _Affairs of State: Public Life in Late Nineteenth Century America_. Cambridge: Harvard University Press, 1977, pp. 568-582.
 
-[^68]: Williams, R. Hal. *Realigning America: McKinley, Bryan, and the Remarkable Election of 1896*. Lawrence: University Press of Kansas, 2010, pp. 45-62.
+[^68]: Williams, R. Hal. _Realigning America: McKinley, Bryan, and the Remarkable Election of 1896_. Lawrence: University Press of Kansas, 2010, pp. 45-62.
 
-[^69]: Cooper, Jerry M. *The Army and Civil Disorder: Federal Military Intervention in Labor Disputes, 1877-1900*. Westport, CT: Greenwood Press, 1980, pp. 178-195.
+[^69]: Cooper, Jerry M. _The Army and Civil Disorder: Federal Military Intervention in Labor Disputes, 1877-1900_. Westport, CT: Greenwood Press, 1980, pp. 178-195.
 
-[^70]: McCraw, *Prophets of Regulation*, pp. 78-92.
+[^70]: McCraw, _Prophets of Regulation_, pp. 78-92.
 
-[^71]: Ford, *The Cleveland Era*, pp. 285-295.
+[^71]: Ford, _The Cleveland Era_, pp. 285-295.
 
-[^72]: Schlesinger, Arthur M., Sr. "Historians Rate U.S. Presidents." *Life* 25, no. 19 (November 1, 1948): 65-66, 68, 73-74.
+[^72]: Schlesinger, Arthur M., Sr. "Historians Rate U.S. Presidents." _Life_ 25, no. 19 (November 1, 1948): 65-66, 68, 73-74.
 
-[^73]: Bailey, Thomas A. *Presidential Greatness: The Image and the Man from George Washington to the Present*. New York: Appleton-Century, 1966, pp. 285-292.
+[^73]: Bailey, Thomas A. _Presidential Greatness: The Image and the Man from George Washington to the Present_. New York: Appleton-Century, 1966, pp. 285-292.
 
-[^74]: Taranto, James and Leonard Leo, eds. *Presidential Leadership: Rating the Best and the Worst in the White House*. New York: Wall Street Journal Books, 2004, pp. 89-95.
+[^74]: Taranto, James and Leonard Leo, eds. _Presidential Leadership: Rating the Best and the Worst in the White House_. New York: Wall Street Journal Books, 2004, pp. 89-95.
 
-[^75]: Tulis, Jeffrey K. *The Rhetorical Presidency*. Princeton: Princeton University Press, 1987, pp. 87-93.
+[^75]: Tulis, Jeffrey K. _The Rhetorical Presidency_. Princeton: Princeton University Press, 1987, pp. 87-93.
 
-[^76]: Spitzer, *The Presidential Veto*, pp. 52-58.
+[^76]: Spitzer, _The Presidential Veto_, pp. 52-58.
 
-[^77]: Brinkley, Alan. *The End of Reform: New Deal Liberalism in Recession and War*. New York: Alfred A. Knopf, 1995, pp. 45-52.
+[^77]: Brinkley, Alan. _The End of Reform: New Deal Liberalism in Recession and War_. New York: Alfred A. Knopf, 1995, pp. 45-52.
 
-[^78]: Hofstadter, Richard. *The Age of Reform: From Bryan to F.D.R.* New York: Alfred A. Knopf, 1955, pp. 164-173.
+[^78]: Hofstadter, Richard. _The Age of Reform: From Bryan to F.D.R._ New York: Alfred A. Knopf, 1955, pp. 164-173.
 
-[^79]: Felzenberg, Alvin S. *The Leaders We Deserved (and a Few We Didn't): Rethinking the Presidential Rating Game*. New York: Basic Books, 2008, pp. 178-185.
+[^79]: Felzenberg, Alvin S. _The Leaders We Deserved (and a Few We Didn't): Rethinking the Presidential Rating Game_. New York: Basic Books, 2008, pp. 178-185.
 
-[^80]: C-SPAN. "2021 Presidential Historians Survey." *C-SPAN*, June 30, 2021. https://www.c-span.org/presidentsurvey2021/
+[^80]: C-SPAN. "2021 Presidential Historians Survey." _C-SPAN_, June 30, 2021. https://www.c-span.org/presidentsurvey2021/
 
-[^81]: Nevins, *Grover Cleveland*, p. vii.
+[^81]: Nevins, _Grover Cleveland_, p. vii.
 
-[^82]: Nevins, *Grover Cleveland*, pp. 768-775.
+[^82]: Nevins, _Grover Cleveland_, pp. 768-775.
 
-[^83]: Richardson, James D., ed. *A Compilation of the Messages and Papers of the Presidents*. Vol. 8. Washington: Government Printing Office, 1897, pp. xv-xxii.
+[^83]: Richardson, James D., ed. _A Compilation of the Messages and Papers of the Presidents_. Vol. 8. Washington: Government Printing Office, 1897, pp. xv-xxii.
 
-[^84]: Hoogenboom, *Outlawing the Spoils*, pp. 232-235.
+[^84]: Hoogenboom, _Outlawing the Spoils_, pp. 232-235.
 
-[^85]: Sobel, Robert. *Panic on Wall Street: A History of America's Financial Disasters*. New York: Macmillan, 1968, pp. 245-268.
+[^85]: Sobel, Robert. _Panic on Wall Street: A History of America's Financial Disasters_. New York: Macmillan, 1968, pp. 245-268.
 
-[^86]: Strouse, *Morgan*, pp. 345-352.
+[^86]: Strouse, _Morgan_, pp. 345-352.
 
-[^87]: Corwin, Edward S. *The President: Office and Powers, 1787-1957*. New York: New York University Press, 1957, pp. 295-298.
+[^87]: Corwin, Edward S. _The President: Office and Powers, 1787-1957_. New York: New York University Press, 1957, pp. 295-298.
 
-[^88]: Fisher, Louis. *Constitutional Conflicts between Congress and the President*. Princeton: Princeton University Press, 1985, pp. 78-85.
+[^88]: Fisher, Louis. _Constitutional Conflicts between Congress and the President_. Princeton: Princeton University Press, 1985, pp. 78-85.
 
-[^89]: Herring, George C. *From Colony to Superpower: U.S. Foreign Relations Since 1776*. New York: Oxford University Press, 2008, pp. 315-318.
+[^89]: Herring, George C. _From Colony to Superpower: U.S. Foreign Relations Since 1776_. New York: Oxford University Press, 2008, pp. 315-318.
 
-[^90]: LaFeber, *The American Search for Opportunity*, pp. 132-135.
+[^90]: LaFeber, _The American Search for Opportunity_, pp. 132-135.
 
-[^91]: Jeffers, *An Honest President*, p. 102.
+[^91]: Jeffers, _An Honest President_, p. 102.
 
-[^92]: White, Leonard D. *The Republican Era: 1869-1901*. New York: Macmillan, 1958, pp. 45-52.
+[^92]: White, Leonard D. _The Republican Era: 1869-1901_. New York: Macmillan, 1958, pp. 45-52.
 
-[^93]: Hofstadter, *The Age of Reform*, p. 168.
+[^93]: Hofstadter, _The Age of Reform_, p. 168.
 
 [^94]: Rezneck, "Unemployment, Unrest, and Relief," pp. 338-342.
 
-[^95]: Dubofsky, *The State and Labor in Modern America*, p. 35.
+[^95]: Dubofsky, _The State and Labor in Modern America_, p. 35.
 
-[^96]: Forbath, *Law and the Shaping of the American Labor Movement*, pp. 92-97.
+[^96]: Forbath, _Law and the Shaping of the American Labor Movement_, pp. 92-97.
 
-[^97]: Logan, *The Betrayal of the Negro*, pp. 52-67.
+[^97]: Logan, _The Betrayal of the Negro_, pp. 52-67.
 
-[^98]: Woodward, *The Strange Career of Jim Crow*, pp. 70-74.
+[^98]: Woodward, _The Strange Career of Jim Crow_, pp. 70-74.
 
-[^99]: Blodgett, Geoffrey. "The Political Leadership of Grover Cleveland." *South Atlantic Quarterly* 82, no. 3 (1983): 288-299.
+[^99]: Blodgett, Geoffrey. "The Political Leadership of Grover Cleveland." _South Atlantic Quarterly_ 82, no. 3 (1983): 288-299.
 
-[^100]: Merrill, *Bourbon Leader*, pp. 185-195.
+[^100]: Merrill, _Bourbon Leader_, pp. 185-195.
 
-[^101]: Hoffmann, *The Depression of the Nineties*, pp. 108-115.
+[^101]: Hoffmann, _The Depression of the Nineties_, pp. 108-115.
 
-[^102]: Friedman and Schwartz, *A Monetary History*, pp. 115-119.
+[^102]: Friedman and Schwartz, _A Monetary History_, pp. 115-119.
 
-[^103]: Schlesinger, Arthur M., Jr. *The Crisis of the Old Order, 1919-1933*. Boston: Houghton Mifflin, 1957, pp. 15-18.
+[^103]: Schlesinger, Arthur M., Jr. _The Crisis of the Old Order, 1919-1933_. Boston: Houghton Mifflin, 1957, pp. 15-18.
 
-[^104]: Fine, Sidney. *Laissez Faire and the General-Welfare State: A Study of Conflict in American Thought, 1865-1901*. Ann Arbor: University of Michigan Press, 1956, pp. 168-178.
+[^104]: Fine, Sidney. _Laissez Faire and the General-Welfare State: A Study of Conflict in American Thought, 1865-1901_. Ann Arbor: University of Michigan Press, 1956, pp. 168-178.
 
-[^105]: Brodsky, *Grover Cleveland*, pp. 168-175.
+[^105]: Brodsky, _Grover Cleveland_, pp. 168-175.
 
-[^106]: Algeo, *The President Is a Sick Man*, pp. 185-195.
+[^106]: Algeo, _The President Is a Sick Man_, pp. 185-195.
 
-[^107]: Welch, *The Presidencies of Grover Cleveland*, p. 28.
+[^107]: Welch, _The Presidencies of Grover Cleveland_, p. 28.
 
 [^108]: Cleveland, "Veto of the Texas Seed Bill," p. 558.
 
-[^109]: Graff, *Grover Cleveland*, p. 148.
+[^109]: Graff, _Grover Cleveland_, p. 148.
 
-[^110]: Nevins, *Grover Cleveland*, p. 315.
+[^110]: Nevins, _Grover Cleveland_, p. 315.
 
-[^111]: Tugwell, *Grover Cleveland*, p. 98.
+[^111]: Tugwell, _Grover Cleveland_, p. 98.
 
-[^112]: Jeffers, *An Honest President*, p. 45.
+[^112]: Jeffers, _An Honest President_, p. 45.

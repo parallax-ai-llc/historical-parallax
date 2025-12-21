@@ -131,28 +131,28 @@ Scholarly critics emphasize that the Menderes era exacerbated societal polarizat
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1899 | Born in Koçarlı, Aydın, into a wealthy landowning family of Crimean Tatar origin |
-| 1908 | Lost parents and sister; inherited estates at age nine; raised by grandmother |
-| 1919-1923 | Fought against Greek forces in Turkish War of Independence; awarded medal of honor |
-| 1928 | Married Fatma Berin; entered political circles through family connections |
-| 1930 | Elected to Grand National Assembly as Republican People's Party (CHP) member |
-| 1945 | Signed motion criticizing CHP party regulations; expelled from party |
-| January 7, 1946 | Co-founded Democrat Party (DP) with Celal Bayar, Refik Koraltan, and Fuat Köprülü |
-| May 14, 1950 | DP won landslide victory in first free Turkish elections with 52% of vote |
-| May 22, 1950 | Appointed Prime Minister; formed first democratically elected government of Turkey |
-| July 25, 1950 | Cabinet decided to send Turkish forces to support UN coalition in Korean War |
-| February 1952 | Turkey admitted to NATO; strengthened Western alliance during Cold War |
+| Year                | Event                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------ |
+| 1899                | Born in Koçarlı, Aydın, into a wealthy landowning family of Crimean Tatar origin     |
+| 1908                | Lost parents and sister; inherited estates at age nine; raised by grandmother        |
+| 1919-1923           | Fought against Greek forces in Turkish War of Independence; awarded medal of honor   |
+| 1928                | Married Fatma Berin; entered political circles through family connections            |
+| 1930                | Elected to Grand National Assembly as Republican People's Party (CHP) member         |
+| 1945                | Signed motion criticizing CHP party regulations; expelled from party                 |
+| January 7, 1946     | Co-founded Democrat Party (DP) with Celal Bayar, Refik Koraltan, and Fuat Köprülü    |
+| May 14, 1950        | DP won landslide victory in first free Turkish elections with 52% of vote            |
+| May 22, 1950        | Appointed Prime Minister; formed first democratically elected government of Turkey   |
+| July 25, 1950       | Cabinet decided to send Turkish forces to support UN coalition in Korean War         |
+| February 1952       | Turkey admitted to NATO; strengthened Western alliance during Cold War               |
 | September 6-7, 1955 | Istanbul pogrom against Greek minority; state-sponsored violence under DP government |
-| 1957 | Re-elected despite mounting economic crisis; inflation reached 20% |
-| August 1958 | Lira devalued; forced to seek IMF stabilization loan amid financial crisis |
-| February 5-11, 1959 | Negotiated Zurich Agreement with Greek PM Karamanlis on Cyprus independence |
-| May 27, 1960 | Military coup overthrew government; Menderes arrested along with DP leaders |
-| October 14, 1960 | Yassiada trials began; 592 defendants charged including Menderes and cabinet |
-| September 15, 1961 | Military tribunal sentenced Menderes to death; 15 total death sentences issued |
-| September 17, 1961 | Executed by hanging on İmralı Island at age 62 |
-| September 17, 1990 | Posthumously pardoned by Turkish Parliament; rehabilitation 29 years after execution |
+| 1957                | Re-elected despite mounting economic crisis; inflation reached 20%                   |
+| August 1958         | Lira devalued; forced to seek IMF stabilization loan amid financial crisis           |
+| February 5-11, 1959 | Negotiated Zurich Agreement with Greek PM Karamanlis on Cyprus independence          |
+| May 27, 1960        | Military coup overthrew government; Menderes arrested along with DP leaders          |
+| October 14, 1960    | Yassiada trials began; 592 defendants charged including Menderes and cabinet         |
+| September 15, 1961  | Military tribunal sentenced Menderes to death; 15 total death sentences issued       |
+| September 17, 1961  | Executed by hanging on İmralı Island at age 62                                       |
+| September 17, 1990  | Posthumously pardoned by Turkish Parliament; rehabilitation 29 years after execution |
 
 ---
 
@@ -175,107 +175,211 @@ Scholarly critics emphasize that the Menderes era exacerbated societal polarizat
 ## References
 
 [^1]: Britannica. "Adnan Menderes | Turkish Prime Minister, 1950-1960." https://www.britannica.com/biography/Adnan-Menderes
+
 [^2]: Web Street Angels. "Adnan Menderes Obuz: Champion of Democracy and Economic Reformer in Turkish History." https://webstreetangels.com/adnan-menderes-obuz-champion-of-democracy-and-economic-reformer-in-turkish-history/
+
 [^3]: Wikipedia. "1960 Turkish coup d'état." https://en.wikipedia.org/wiki/1960_Turkish_coup_d'%C3%A9tat
+
 [^4]: Wikipedia. "Adnan Menderes." https://en.wikipedia.org/wiki/Adnan_Menderes
+
 [^5]: Aydın Adnan Menderes University. "Who is Adnan Menderes." https://en.adu.edu.tr/en/who-is-adnan-menderes--137
+
 [^6]: Qalampir.uz. "Adnan Menderes: Rise and fall of Turkey's first democratic leader." https://qalampir.uz/en/news/siyesiy-daҳo-abdulҳamid-oilasiga-meҳr-ortidan-dor-ostiga-keltirilgan-menderes-118831
+
 [^7]: Qalampir.uz. "Adnan Menderes: Rise and fall of Turkey's first democratic leader."
+
 [^8]: Aydın Adnan Menderes University. "Who is Adnan Menderes."
+
 [^9]: Qalampir.uz. "Adnan Menderes: Rise and fall of Turkey's first democratic leader."
+
 [^10]: Britannica. "Adnan Menderes | Turkish Prime Minister, 1950-1960."
+
 [^11]: All About Turkey. "Adnan Menderes." https://www.allaboutturkey.com/adnan-menderes.html
+
 [^12]: Britannica. "Adnan Menderes | Turkish Prime Minister, 1950-1960."
+
 [^13]: All About Turkey. "Adnan Menderes."
+
 [^14]: Wikipedia. "Berin Menderes." https://en.wikipedia.org/wiki/Berin_Menderes
+
 [^15]: Qalampir.uz. "Adnan Menderes: Rise and fall of Turkey's first democratic leader."
+
 [^16]: All About Turkey. "Adnan Menderes."
+
 [^17]: All About Turkey. "Adnan Menderes."
+
 [^18]: Britannica. "Adnan Menderes | Turkish Prime Minister, 1950-1960."
+
 [^19]: Daily Sabah. "Adnan Menderes and the transition to democracy." https://www.dailysabah.com/opinion/2014/05/13/adnan-menderes-and-the-transition-to-democracy
+
 [^20]: Wikipedia. "Democrat Party (Turkey, 1946–1960)." https://en.wikipedia.org/wiki/Democrat_Party_(Turkey,_1946–1961)
+
 [^21]: Wikipedia. "Democrat Party (Turkey, 1946–1960)."
+
 [^22]: Wikipedia. "1950 Turkish general election." https://en.wikipedia.org/wiki/1950_Turkish_general_election
+
 [^23]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment." https://link.springer.com/chapter/10.1057/9780230615403_5
+
 [^24]: Wikipedia. "1950 Turkish general election."
+
 [^25]: TRT World. "Explained: 100 years of Turkish election history." https://www.trtworld.com/article/12990674
+
 [^26]: Wikipedia. "1950 Turkish general election."
+
 [^27]: Wikipedia. "1950 Turkish general election."
+
 [^28]: Web Street Angels. "Adnan Menderes Obuz: Champion of Democracy and Economic Reformer in Turkish History."
+
 [^29]: Dayhist. "Adnan Menderes: The Influential Turkish Prime Minister." https://dayhist.com/persons/adnan-menderes-the-influential-turkish-prime-minister
+
 [^30]: Qalampir.uz. "Adnan Menderes: Rise and fall of Turkey's first democratic leader."
+
 [^31]: Web Street Angels. "Adnan Menderes Obuz: Champion of Democracy and Economic Reformer in Turkish History."
+
 [^32]: Anadolu Agency. "Menderes: Turkey's 1st democratically elected premier." https://www.aa.com.tr/en/turkey/menderes-turkey-s-1st-democratically-elected-premier-/1586287
+
 [^33]: Dayhist. "Adnan Menderes: The Influential Turkish Prime Minister."
+
 [^34]: Web Street Angels. "Adnan Menderes Obuz: Champion of Democracy and Economic Reformer in Turkish History."
+
 [^35]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^36]: Dergipark. "Turkish Foreign Policy during Adnan Menderes Period." https://dergipark.org.tr/tr/download/article-file/19305
+
 [^37]: soL International. "A brief history of Turkey's NATO membership." https://news.sol.org.tr/brief-history-turkeys-nato-membership-173573
+
 [^38]: soL International. "A brief history of Turkey's NATO membership."
+
 [^39]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^40]: Türkiye Today. "Karamanlis and Menderes: Myths, realities behind 2 former prime ministers." https://www.turkiyetoday.com/culture/karamanlis-and-menderes-myths-realities-behind-2-former-prime-ministers-3205947
+
 [^41]: Anadolu Agency. "Menderes: Turkey's 1st democratically elected premier."
+
 [^42]: Wikipedia. "Adnan Menderes."
+
 [^43]: Wikipedia. "1960 Turkish coup d'état."
+
 [^44]: Wikipedia. "Istanbul pogrom." https://en.wikipedia.org/wiki/Istanbul_pogrom
+
 [^45]: Internationalist Standpoint. "September 6-7, 1955: Istanbul Pogrom- a 'closed chapter' in Turkish history?" https://www.internationaliststandpoint.org/september-6-7-1955-istanbul-pogrom-a-closed-chapter-in-turkish-history/
+
 [^46]: Wikipedia. "Istanbul pogrom."
+
 [^47]: Wikipedia. "Istanbul pogrom."
+
 [^48]: Neos Kosmos. "'First your property. Then your life' Turkey's own Kristallnacht." https://neoskosmos.com/en/145547/first-your-property-then-your-life-turkeys-own-kristallnacht/
+
 [^49]: Wikipedia. "Yassıada trials." https://en.wikipedia.org/wiki/Yass%C4%B1ada_trials
+
 [^50]: Wikipedia. "1960 Turkish coup d'état."
+
 [^51]: Wikipedia. "1960 Turkish coup d'état."
+
 [^52]: Oxford Reference. "Adnan Menderes." https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100149882
+
 [^53]: Ahval. "Turkey's economic woes see a return to the politics of the 1950s." https://ahvalnews.com/recep-tayyip-erdogan/turkeys-economic-woes-see-return-politics-1950s
+
 [^54]: Qalampir.uz. "Adnan Menderes: Rise and fall of Turkey's first democratic leader."
+
 [^55]: Qalampir.uz. "Adnan Menderes: Rise and fall of Turkey's first democratic leader."
+
 [^56]: Ahval. "Turkey's economic woes see a return to the politics of the 1950s."
+
 [^57]: Ahval. "Turkey's economic woes see a return to the politics of the 1950s."
+
 [^58]: Wikipedia. "Adnan Menderes."
+
 [^59]: Wikipedia. "Berin Menderes."
+
 [^60]: Aydın Adnan Menderes University. "Who is Adnan Menderes."
+
 [^61]: All About Turkey. "Adnan Menderes."
+
 [^62]: All About Turkey. "Adnan Menderes."
+
 [^63]: All About Turkey. "Adnan Menderes."
+
 [^64]: Anadolu Agency. "Turkey's hanged PM Adnan Menderes in his own words." https://www.aa.com.tr/en/europe/turkeys-hanged-pm-adnan-menderes-in-his-own-words/1490690
+
 [^65]: Daily Sabah. "Victim of multiple coups, Turkey remembers Menderes, first toppled PM." https://www.dailysabah.com/turkey/2019/09/17/victim-of-multiple-coups-turkey-remembers-menderes-first-toppled-pm
+
 [^66]: Daily Sabah. "Victim of multiple coups, Turkey remembers Menderes, first toppled PM."
+
 [^67]: İLKHA. "Remembering Adnan Menderes: 63 years after his execution." https://www.ilkha.com/english/analysis/remembering-adnan-menderes-63-years-after-his-execution-416511
+
 [^68]: Wikipedia. "Yassıada trials."
+
 [^69]: Anadolu Agency. "Turkish parliament OKs bill nullifying 1960 coup trial." https://www.aa.com.tr/en/politics/turkish-parliament-oks-bill-nullifying-1960-coup-trial/1887669
+
 [^70]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^71]: Taylor & Francis. "Absence of the present: the reburial of Adnan Menderes and the condition of possibility of public memory in Turkey." https://www.tandfonline.com/doi/abs/10.1080/14791420.2015.1062529
+
 [^72]: Memorialize Turkey. "Adnan Menderes Mausoleum." https://memorializeturkey.com/en/memorial/adnan-menderes-mausoleum
+
 [^73]: Aydın Adnan Menderes University. "Who is Adnan Menderes."
+
 [^74]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^75]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^76]: İLKHA. "Remembering Adnan Menderes: 63 years after his execution."
+
 [^77]: Wikipedia. "1950 Turkish general election."
+
 [^78]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^79]: Web Street Angels. "Adnan Menderes Obuz: Champion of Democracy and Economic Reformer in Turkish History."
+
 [^80]: Web Street Angels. "Adnan Menderes Obuz: Champion of Democracy and Economic Reformer in Turkish History."
+
 [^81]: Web Street Angels. "Adnan Menderes Obuz: Champion of Democracy and Economic Reformer in Turkish History."
+
 [^82]: soL International. "A brief history of Turkey's NATO membership."
+
 [^83]: Türkiye Today. "Karamanlis and Menderes: Myths, realities behind 2 former prime ministers."
+
 [^84]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^85]: Wikipedia. "Yassıada trials."
+
 [^86]: İLKHA. "Remembering Adnan Menderes: 63 years after his execution."
+
 [^87]: Daily Sabah. "Victim of multiple coups, Turkey remembers Menderes, first toppled PM."
+
 [^88]: Wikipedia. "Adnan Menderes."
+
 [^89]: Wikipedia. "1960 Turkish coup d'état."
+
 [^90]: Wikipedia. "Istanbul pogrom."
+
 [^91]: Wikipedia. "Istanbul pogrom."
+
 [^92]: Wikipedia. "Istanbul pogrom."
+
 [^93]: Oxford Reference. "Adnan Menderes."
+
 [^94]: Ahval. "Turkey's economic woes see a return to the politics of the 1950s."
+
 [^95]: Springer. "Adnan Menderes, Islam, and His Conflict with the One-Party Era Establishment."
+
 [^96]: Wikipedia. "1960 Turkish coup d'état."
+
 [^97]: Daily Sabah. "Adnan Menderes, his ministers, victims of 1960 coup remembered in Turkey." https://www.dailysabah.com/turkey/adnan-menderes-his-ministers-victims-of-1960-coup-remembered-in-turkey/news
+
 [^98]: Wikipedia. "Yassıada trials."
+
 [^99]: Wikipedia. "Yassıada trials."
+
 [^100]: Anadolu Agency. "Turkey's hanged PM Adnan Menderes in his own words."
+
 [^101]: Anadolu Agency. "Turkey's hanged PM Adnan Menderes in his own words."
+
 [^102]: Anadolu Agency. "Turkey's hanged PM Adnan Menderes in his own words."
+
 [^103]: Anadolu Agency. "Turkey's hanged PM Adnan Menderes in his own words."
+
 [^104]: Anadolu Agency. "Turkey's hanged PM Adnan Menderes in his own words."
+
 [^105]: All About Turkey. "Adnan Menderes."

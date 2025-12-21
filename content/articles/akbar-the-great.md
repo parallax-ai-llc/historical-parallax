@@ -187,32 +187,32 @@ Some scholars question whether Akbar's achievements have been exaggerated by his
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1542 | Born on October 15 in Umerkot, Sindh, during his father Humayun's exile |
-| 1545 | Moved to Kabul after Humayun recaptured the city |
-| 1556 | Ascended to Mughal throne at age 13 following Humayun's death on February 14 |
-| 1556 | Second Battle of Panipat on November 5; Mughal victory over Hemu secured his rule |
-| 1560 | Dismissed regent Bairam Khan and assumed personal control of the empire at age 18 |
+| Year | Event                                                                                                                 |
+| ---- | --------------------------------------------------------------------------------------------------------------------- |
+| 1542 | Born on October 15 in Umerkot, Sindh, during his father Humayun's exile                                               |
+| 1545 | Moved to Kabul after Humayun recaptured the city                                                                      |
+| 1556 | Ascended to Mughal throne at age 13 following Humayun's death on February 14                                          |
+| 1556 | Second Battle of Panipat on November 5; Mughal victory over Hemu secured his rule                                     |
+| 1560 | Dismissed regent Bairam Khan and assumed personal control of the empire at age 18                                     |
 | 1562 | Married Rajput princess from Amber, initiating policy of matrimonial alliances; began abolishing discriminatory taxes |
-| 1564 | Abolished jizya tax on non-Muslims, breaking with Islamic orthodoxy |
-| 1568 | Siege and conquest of Chittorgarh; approximately 30,000 casualties |
-| 1569 | Birth of son Salim (later Emperor Jahangir) at Sikri |
-| 1571 | Began construction of new capital at Fatehpur Sikri |
-| 1573 | Conquest of Gujarat completed, securing access to Arabian Sea ports |
-| 1574 | Initiated conquest of Bengal, completed in 1576 |
-| 1575 | Established Ibadat Khana (House of Worship) for interfaith dialogue at Fatehpur Sikri |
-| 1579 | Issued Mahzar decree asserting supremacy over religious scholars and claiming right to interpret Islamic law |
-| 1580 | Promulgated Din-i-Ilahi, his syncretic spiritual movement |
-| 1582 | Invited Jesuit mission from Goa; engaged in religious debates with Christian priests |
-| 1585 | Abandoned Fatehpur Sikri due to water shortage; moved court to Lahore |
-| 1586 | Conquest of Kashmir |
-| 1595 | Conquest of Kandahar from Safavid Persia |
-| 1599 | Prince Salim's rebellion began; led to years of estrangement |
-| 1601 | Moved capital back to Agra |
-| 1602 | Assassination of chief minister and chronicler Abu'l-Fazl, likely orchestrated by Prince Salim |
-| 1604 | Reconciliation with Prince Salim |
-| 1605 | Died on October 27 at Agra; succeeded by son Jahangir |
+| 1564 | Abolished jizya tax on non-Muslims, breaking with Islamic orthodoxy                                                   |
+| 1568 | Siege and conquest of Chittorgarh; approximately 30,000 casualties                                                    |
+| 1569 | Birth of son Salim (later Emperor Jahangir) at Sikri                                                                  |
+| 1571 | Began construction of new capital at Fatehpur Sikri                                                                   |
+| 1573 | Conquest of Gujarat completed, securing access to Arabian Sea ports                                                   |
+| 1574 | Initiated conquest of Bengal, completed in 1576                                                                       |
+| 1575 | Established Ibadat Khana (House of Worship) for interfaith dialogue at Fatehpur Sikri                                 |
+| 1579 | Issued Mahzar decree asserting supremacy over religious scholars and claiming right to interpret Islamic law          |
+| 1580 | Promulgated Din-i-Ilahi, his syncretic spiritual movement                                                             |
+| 1582 | Invited Jesuit mission from Goa; engaged in religious debates with Christian priests                                  |
+| 1585 | Abandoned Fatehpur Sikri due to water shortage; moved court to Lahore                                                 |
+| 1586 | Conquest of Kashmir                                                                                                   |
+| 1595 | Conquest of Kandahar from Safavid Persia                                                                              |
+| 1599 | Prince Salim's rebellion began; led to years of estrangement                                                          |
+| 1601 | Moved capital back to Agra                                                                                            |
+| 1602 | Assassination of chief minister and chronicler Abu'l-Fazl, likely orchestrated by Prince Salim                        |
+| 1604 | Reconciliation with Prince Salim                                                                                      |
+| 1605 | Died on October 27 at Agra; succeeded by son Jahangir                                                                 |
 
 ---
 
@@ -242,132 +242,260 @@ This quote reflects Akbar's confidence in his military abilities and his faith t
 
 ## References
 
-[^1]: Richards, John F. *The Mughal Empire*. Cambridge University Press, 1993, p. 9.
-[^2]: Eraly, Abraham. *Emperors of the Peacock Throne: The Saga of the Great Mughals*. Penguin Books, 2000, pp. 89-91.
-[^3]: Lal, Ruby. *Domesticity and Power in the Early Mughal World*. Cambridge University Press, 2005, p. 112.
-[^4]: Dale, Stephen F. *The Muslim Empires of the Ottomans, Safavids, and Mughals*. Cambridge University Press, 2010, p. 89.
-[^5]: Abu'l-Fazl ibn Mubarak. *Akbarnama*, translated by H. Beveridge. Asiatic Society of Bengal, 1897-1921, Vol. 1, pp. 234-245.
-[^6]: Gascoigne, Bamber. *The Great Moghuls*. Harper & Row, 1971, pp. 71-73.
-[^7]: Smith, Vincent A. *Akbar the Great Mogul, 1542-1605*. Oxford University Press, 1917, pp. 15-18.
-[^8]: Streusand, Douglas E. *Islamic Gunpowder Empires: Ottomans, Safavids, and Mughals*. Westview Press, 2011, p. 176.
-[^9]: Chandra, Satish. *Medieval India: From Sultanat to the Mughals (1526-1748)*. Har-Anand Publications, 2005, pp. 78-80.
-[^10]: Prasad, Ishwari. *The Life and Times of Humayun*. Orient Longmans, 1955, pp. 287-290.
-[^11]: Sarkar, Jadunath. *Military History of India*. Orient Longmans, 1960, pp. 45-47.
-[^12]: Abu'l-Fazl. *Akbarnama*, Vol. 2, pp. 89-134.
-[^13]: Qureshi, I. H. *Akbar: Architect of the Mughal Empire*. National Book Foundation, 1978, pp. 56-58.
-[^14]: Tod, James. *Annals and Antiquities of Rajasthan*. Routledge & Kegan Paul, 1920 [1829-1832], Vol. 1, pp. 289-295.
-[^15]: Kolff, Dirk H. A. *Naukar, Rajput and Sepoy: The Ethnohistory of the Military Labour Market in Hindustan, 1450-1850*. Cambridge University Press, 1990, p. 67.
-[^16]: Schimmel, Annemarie. *The Empire of the Great Mughals: History, Art and Culture*. Reaktion Books, 2004, p. 45.
-[^17]: Richards, *The Mughal Empire*, pp. 18-23.
-[^18]: Asher, Catherine B., and Cynthia Talbot. *India Before Europe*. Cambridge University Press, 2006, p. 123.
-[^19]: Habib, Irfan. *The Agrarian System of Mughal India, 1556-1707*. Oxford University Press, 1999, pp. 23-25.
-[^20]: Peabody, Norbert. *Hindu Kingship and Polity in Precolonial India*. Cambridge University Press, 2003, pp. 89-92.
-[^21]: Alam, Muzaffar, and Sanjay Subrahmanyam. *The Mughal State, 1526-1750*. Oxford University Press, 1998, p. 78.
-[^22]: Richards, *The Mughal Empire*, p. 58.
-[^23]: Khan, Iqtidar Alam. *Gunpowder and Firearms: Warfare in Medieval India*. Oxford University Press, 2004, pp. 134-137.
-[^24]: Ali, M. Athar. *The Mughal Nobility Under Aurangzeb*. Oxford University Press, 1997, pp. 12-15.
-[^25]: Blake, Stephen P. *Shahjahanabad: The Sovereign City in Mughal India, 1639-1739*. Cambridge University Press, 1991, p. 45.
-[^26]: Habib, *The Agrarian System of Mughal India*, pp. 234-267.
-[^27]: Moosvi, Shireen. *The Economy of the Mughal Empire c. 1595: A Statistical Study*. Oxford University Press, 1987, pp. 89-102.
-[^28]: Stokes, Eric. *The Peasant and the Raj: Studies in Agrarian Society and Peasant Rebellion in Colonial India*. Cambridge University Press, 1978, p. 23.
-[^29]: Abu'l-Fazl. *Ain-i-Akbari*, translated by H. Blochmann and H. S. Jarrett. Asiatic Society of Bengal, 1873-1907, Vol. 1, pp. 267-289.
-[^30]: Brand, Michael, and Glenn D. Lowry. *Fatehpur Sikri*. Marg Publications, 1987, pp. 12-34.
-[^31]: Rizvi, S. A. A. *Religious and Intellectual History of the Muslims in Akbar's Reign*. Munshiram Manoharlal, 1975, pp. 234-245.
-[^32]: Ahmad, Aziz. *Studies in Islamic Culture in the Indian Environment*. Oxford University Press, 1964, p. 167.
-[^33]: Thapar, Romila. "Imagined Religious Communities? Ancient History and the Modern Search for a Hindu Identity." *Modern Asian Studies* 23, no. 2 (1989): 234-235.
-[^34]: Fazl, Abul. "The Akbar Nama of Abu-l-Fazl." *History of India as Told by Its Own Historians*, edited by H. M. Elliot and John Dowson. Trübner & Co., 1867-1877, Vol. 5, pp. 345-367.
-[^35]: Maclagan, Edward. *The Jesuits and the Great Mogul*. Burns, Oates & Washbourne, 1932, pp. 78-89.
-[^36]: Hodivala, S. H. *Studies in Indo-Muslim History: A Critical Commentary on Elliot and Dowson's History of India as Told by Its Own Historians*. Popular Prakashan, 1979, pp. 123-129.
-[^37]: Roy, Asim. *The Islamic Syncretistic Tradition in Bengal*. Princeton University Press, 1983, p. 67.
-[^38]: Sarkar, Jadunath. *History of Aurangzib*. M. C. Sarkar & Sons, 1912-1924, Vol. 3, pp. 45-47.
-[^39]: Beach, Milo Cleveland, and Ebba Koch. *King of the World: The Padshahnama*. Thames & Hudson, 1997, pp. 23-25.
-[^40]: Seyller, John. "The Inspection and Valuation of Manuscripts in the Imperial Mughal Library." *Artibus Asiae* 57, no. 3/4 (1997): 243-349.
-[^41]: Losty, Jeremiah P. *The Art of the Book in India*. British Library, 1982, pp. 67-89.
-[^42]: Singh, Ganda. *Ahmad Shah Durrani: Father of Modern Afghanistan*. Asia Publishing House, 1959, p. 34.
-[^43]: Srivastava, Ashirbadi Lal. *Akbar the Great*. Shiva Lal Agarwala, 1962-1973, Vol. 2, pp. 456-467.
-[^44]: Koch, Ebba. *Mughal Architecture: An Outline of Its History and Development (1526-1858)*. Prestel, 1991, pp. 45-67.
-[^45]: Asher, Catherine B. *Architecture of Mughal India*. Cambridge University Press, 1992, pp. 89-102.
-[^46]: Tod, *Annals and Antiquities of Rajasthan*, Vol. 1, pp. 291-293.
-[^47]: Gordon, Stewart. *The Marathas 1600-1818*. Cambridge University Press, 1993, p. 23.
-[^48]: Streusand, *Islamic Gunpowder Empires*, p. 189.
-[^49]: Findly, Ellison Banks. *Nur Jahan: Empress of Mughal India*. Oxford University Press, 1993, pp. 34-36.
-[^50]: Friedmann, Yohanan. *Shaykh Ahmad Sirhindi: An Outline of His Thought and a Study of His Image in the Eyes of Posterity*. McGill-Queen's University Press, 1971, pp. 67-78.
-[^51]: Hardy, Peter. *The Muslims of British India*. Cambridge University Press, 1972, p. 45.
-[^52]: Mukhia, Harbans. *The Mughals of India*. Blackwell Publishing, 2004, pp. 78-80.
-[^53]: Lal, Ruby. *Domesticity and Power in the Early Mughal World*, pp. 234-245.
-[^54]: Eaton, Richard M. *The Rise of Islam and the Bengal Frontier, 1204-1760*. University of California Press, 1993, pp. 156-158.
-[^55]: Ikram, S. M. *Muslim Civilization in India*. Columbia University Press, 1964, p. 145.
-[^56]: Sharma, Sri Ram. *The Religious Policy of the Mughal Emperors*. Asia Publishing House, 1972, pp. 67-72.
-[^57]: Ansari, Muhammad Azhar. "Akbar's Religious Policy: A Reappraisal." *Journal of the Pakistan Historical Society* 46, no. 2 (1998): 123-134.
-[^58]: Habib, Irfan, ed. *Akbar and His India*. Oxford University Press, 1997, pp. 189-192.
-[^59]: Lal, K. S. *The Mughal Harem*. Aditya Prakashan, 1988, pp. 45-67.
-[^60]: Sharma, Sudha. *The Mughal Empire: A Re-assessment*. D.K. Printworld, 1999, pp. 123-129.
-[^61]: Hambly, Gavin R. G. "Armed Women Retainers in the Zenanas of Indo-Muslim Rulers: The Case of Bibi Fatima." *Women in the Medieval Islamic World*, edited by Gavin R. G. Hambly. St. Martin's Press, 1998, pp. 437-455.
-[^62]: Lal, Ruby. *Domesticity and Power in the Early Mughal World*, pp. 178-189.
-[^63]: Habib, *The Agrarian System of Mughal India*, pp. 319-362.
-[^64]: Parthasarathi, Prasannan. *Why Europe Grew Rich and Asia Did Not: Global Economic Divergence, 1600-1850*. Cambridge University Press, 2011, pp. 89-92.
-[^65]: Moreland, W. H. *The Agrarian System of Moslem India*. W. Heffer & Sons, 1929, pp. 156-167.
-[^66]: Raychaudhuri, Tapan, and Irfan Habib, eds. *The Cambridge Economic History of India, Vol. 1: c. 1200-c. 1750*. Cambridge University Press, 1982, pp. 234-245.
-[^67]: Findly, *Nur Jahan*, pp. 23-25.
-[^68]: Lal, Ruby. *Empress: The Astonishing Reign of Nur Jahan*. W. W. Norton & Company, 2018, pp. 45-47.
-[^69]: Schimmel, *The Empire of the Great Mughals*, pp. 67-69.
-[^70]: Jahangir. *The Jahangirnama: Memoirs of Jahangir, Emperor of India*, translated by Wheeler M. Thackston. Oxford University Press, 1999, pp. 12-15.
-[^71]: Eraly, *Emperors of the Peacock Throne*, pp. 234-236.
-[^72]: Smith, *Akbar the Great Mogul*, pp. 345-367.
-[^73]: Monserrate, Antonio. *The Commentary of Father Monserrate, S.J., on His Journey to the Court of Akbar*, translated by J. S. Hoyland and S. N. Banerjee. Oxford University Press, 1922, pp. 89-92.
-[^74]: Abu'l-Fazl, *Ain-i-Akbari*, Vol. 1, pp. 156-178.
-[^75]: Randhawa, M. S. "Hunting in Mughal Painting." *Marg* 23, no. 1 (1969): 45-56.
-[^76]: Skelton, Robert. "The Mughal Artist Farrokh Beg." *Ars Orientalis* 2 (1957): 393-411.
-[^77]: Digby, Simon. "The Sufi Shaikh as a Source of Authority in Medieval India." *Purushartha* 9 (1986): 57-77.
-[^78]: Abu'l-Fazl, *Akbarnama*, Vol. 3, pp. 1234-1245.
-[^79]: Richards, *The Mughal Empire*, p. 61.
-[^80]: Begley, Wayne E., and Z. A. Desai. *The Shah Jahan Nama of Inayat Khan*. Oxford University Press, 1990, pp. 23-25.
-[^81]: Alam and Subrahmanyam, *The Mughal State*, pp. 189-192.
-[^82]: Bayly, C. A. *Rulers, Townsmen and Bazaars: North Indian Society in the Age of British Expansion, 1770-1870*. Cambridge University Press, 1983, pp. 45-47.
-[^83]: Kolff, *Naukar, Rajput and Sepoy*, pp. 123-129.
-[^84]: Hasan, Mushirul. *Legacy of a Divided Nation: India's Muslims Since Independence*. Westview Press, 1997, pp. 34-36.
-[^85]: Sarkar, *History of Aurangzib*, Vol. 3, pp. 234-256.
-[^86]: Wagoner, Phillip B. "'Sultan among Hindu Kings': Dress, Titles, and the Islamicization of Hindu Culture at Vijayanagara." *Journal of Asian Studies* 55, no. 4 (1996): 851-880.
-[^87]: Alam, Muzaffar. "The Pursuit of Persian: Language in Mughal Politics." *Modern Asian Studies* 32, no. 2 (1998): 317-349.
-[^88]: Wade, Bonnie C. *Imaging Sound: An Ethnomusicological Study of Music, Art, and Culture in Mughal India*. University of Chicago Press, 1998, pp. 67-89.
-[^89]: Tillotson, G. H. R. *Mughal India*. Penguin Books, 1990, pp. 45-67.
-[^90]: Thapar, Romila. "Syndicated Moksha?" *Seminar* 313 (1985): 14-22.
-[^91]: Panikkar, K. N. "Culture and Consciousness in Modern India: A Historical Perspective." *Social Scientist* 19, no. 1/2 (1991): 3-14.
-[^92]: Lal, Vinay. "The Incident of the 'Burning Train': Towards a Thick Description of a Historical Event." *Economic and Political Weekly* 33, no. 13 (1998): 670-682.
-[^93]: Maududi, Sayyid Abul A'la. *The Islamic Law and Constitution*. Islamic Publications, 1955, pp. 234-245.
-[^94]: Pandey, Gyanendra. *The Construction of Communalism in Colonial North India*. Oxford University Press, 1990, pp. 123-145.
-[^95]: Richards, *The Mughal Empire*, p. 1.
-[^96]: Subrahmanyam, Sanjay. *The Portuguese Empire in Asia, 1500-1700: A Political and Economic History*. Longman, 1993, p. 189.
-[^97]: Guha, Ranajit. *Dominance without Hegemony: History and Power in Colonial India*. Harvard University Press, 1997, pp. 67-89.
-[^98]: Chatterjee, Partha. *The Nation and Its Fragments: Colonial and Postcolonial Histories*. Princeton University Press, 1993, pp. 45-47.
-[^99]: Kumar, Krishna. *Prejudice and Pride: School Histories of the Freedom Struggle in India and Pakistan*. Viking, 2001, pp. 123-145.
-[^100]: Khilnani, Sunil. *The Idea of India*. Farrar, Straus and Giroux, 1997, pp. 178-189.
-[^101]: Richards, *The Mughal Empire*, p. 28.
-[^102]: Habib, *The Agrarian System of Mughal India*, p. 267.
-[^103]: Monserrate, *The Commentary of Father Monserrate*, p. 197.
-[^104]: Monserrate, *The Commentary of Father Monserrate*, pp. 201-203.
-[^105]: Habib, ed., *Akbar and His India*, pp. 1-3.
-[^106]: Truschke, Audrey. *Culture of Encounters: Sanskrit at the Mughal Court*. Columbia University Press, 2016, pp. 45-67.
-[^107]: Asad, Talal. "The Idea of an Anthropology of Islam." *Occasional Papers Series*. Center for Contemporary Arab Studies, Georgetown University, 1986, pp. 12-14.
-[^108]: Beach and Koch, *King of the World*, pp. 89-92.
+[^1]: Richards, John F. _The Mughal Empire_. Cambridge University Press, 1993, p. 9.
+
+[^2]: Eraly, Abraham. _Emperors of the Peacock Throne: The Saga of the Great Mughals_. Penguin Books, 2000, pp. 89-91.
+
+[^3]: Lal, Ruby. _Domesticity and Power in the Early Mughal World_. Cambridge University Press, 2005, p. 112.
+
+[^4]: Dale, Stephen F. _The Muslim Empires of the Ottomans, Safavids, and Mughals_. Cambridge University Press, 2010, p. 89.
+
+[^5]: Abu'l-Fazl ibn Mubarak. _Akbarnama_, translated by H. Beveridge. Asiatic Society of Bengal, 1897-1921, Vol. 1, pp. 234-245.
+
+[^6]: Gascoigne, Bamber. _The Great Moghuls_. Harper & Row, 1971, pp. 71-73.
+
+[^7]: Smith, Vincent A. _Akbar the Great Mogul, 1542-1605_. Oxford University Press, 1917, pp. 15-18.
+
+[^8]: Streusand, Douglas E. _Islamic Gunpowder Empires: Ottomans, Safavids, and Mughals_. Westview Press, 2011, p. 176.
+
+[^9]: Chandra, Satish. _Medieval India: From Sultanat to the Mughals (1526-1748)_. Har-Anand Publications, 2005, pp. 78-80.
+
+[^10]: Prasad, Ishwari. _The Life and Times of Humayun_. Orient Longmans, 1955, pp. 287-290.
+
+[^11]: Sarkar, Jadunath. _Military History of India_. Orient Longmans, 1960, pp. 45-47.
+
+[^12]: Abu'l-Fazl. _Akbarnama_, Vol. 2, pp. 89-134.
+
+[^13]: Qureshi, I. H. _Akbar: Architect of the Mughal Empire_. National Book Foundation, 1978, pp. 56-58.
+
+[^14]: Tod, James. _Annals and Antiquities of Rajasthan_. Routledge & Kegan Paul, 1920 [1829-1832], Vol. 1, pp. 289-295.
+
+[^15]: Kolff, Dirk H. A. _Naukar, Rajput and Sepoy: The Ethnohistory of the Military Labour Market in Hindustan, 1450-1850_. Cambridge University Press, 1990, p. 67.
+
+[^16]: Schimmel, Annemarie. _The Empire of the Great Mughals: History, Art and Culture_. Reaktion Books, 2004, p. 45.
+
+[^17]: Richards, _The Mughal Empire_, pp. 18-23.
+
+[^18]: Asher, Catherine B., and Cynthia Talbot. _India Before Europe_. Cambridge University Press, 2006, p. 123.
+
+[^19]: Habib, Irfan. _The Agrarian System of Mughal India, 1556-1707_. Oxford University Press, 1999, pp. 23-25.
+
+[^20]: Peabody, Norbert. _Hindu Kingship and Polity in Precolonial India_. Cambridge University Press, 2003, pp. 89-92.
+
+[^21]: Alam, Muzaffar, and Sanjay Subrahmanyam. _The Mughal State, 1526-1750_. Oxford University Press, 1998, p. 78.
+
+[^22]: Richards, _The Mughal Empire_, p. 58.
+
+[^23]: Khan, Iqtidar Alam. _Gunpowder and Firearms: Warfare in Medieval India_. Oxford University Press, 2004, pp. 134-137.
+
+[^24]: Ali, M. Athar. _The Mughal Nobility Under Aurangzeb_. Oxford University Press, 1997, pp. 12-15.
+
+[^25]: Blake, Stephen P. _Shahjahanabad: The Sovereign City in Mughal India, 1639-1739_. Cambridge University Press, 1991, p. 45.
+
+[^26]: Habib, _The Agrarian System of Mughal India_, pp. 234-267.
+
+[^27]: Moosvi, Shireen. _The Economy of the Mughal Empire c. 1595: A Statistical Study_. Oxford University Press, 1987, pp. 89-102.
+
+[^28]: Stokes, Eric. _The Peasant and the Raj: Studies in Agrarian Society and Peasant Rebellion in Colonial India_. Cambridge University Press, 1978, p. 23.
+
+[^29]: Abu'l-Fazl. _Ain-i-Akbari_, translated by H. Blochmann and H. S. Jarrett. Asiatic Society of Bengal, 1873-1907, Vol. 1, pp. 267-289.
+
+[^30]: Brand, Michael, and Glenn D. Lowry. _Fatehpur Sikri_. Marg Publications, 1987, pp. 12-34.
+
+[^31]: Rizvi, S. A. A. _Religious and Intellectual History of the Muslims in Akbar's Reign_. Munshiram Manoharlal, 1975, pp. 234-245.
+
+[^32]: Ahmad, Aziz. _Studies in Islamic Culture in the Indian Environment_. Oxford University Press, 1964, p. 167.
+
+[^33]: Thapar, Romila. "Imagined Religious Communities? Ancient History and the Modern Search for a Hindu Identity." _Modern Asian Studies_ 23, no. 2 (1989): 234-235.
+
+[^34]: Fazl, Abul. "The Akbar Nama of Abu-l-Fazl." _History of India as Told by Its Own Historians_, edited by H. M. Elliot and John Dowson. Trübner & Co., 1867-1877, Vol. 5, pp. 345-367.
+
+[^35]: Maclagan, Edward. _The Jesuits and the Great Mogul_. Burns, Oates & Washbourne, 1932, pp. 78-89.
+
+[^36]: Hodivala, S. H. _Studies in Indo-Muslim History: A Critical Commentary on Elliot and Dowson's History of India as Told by Its Own Historians_. Popular Prakashan, 1979, pp. 123-129.
+
+[^37]: Roy, Asim. _The Islamic Syncretistic Tradition in Bengal_. Princeton University Press, 1983, p. 67.
+
+[^38]: Sarkar, Jadunath. _History of Aurangzib_. M. C. Sarkar & Sons, 1912-1924, Vol. 3, pp. 45-47.
+
+[^39]: Beach, Milo Cleveland, and Ebba Koch. _King of the World: The Padshahnama_. Thames & Hudson, 1997, pp. 23-25.
+
+[^40]: Seyller, John. "The Inspection and Valuation of Manuscripts in the Imperial Mughal Library." _Artibus Asiae_ 57, no. 3/4 (1997): 243-349.
+
+[^41]: Losty, Jeremiah P. _The Art of the Book in India_. British Library, 1982, pp. 67-89.
+
+[^42]: Singh, Ganda. _Ahmad Shah Durrani: Father of Modern Afghanistan_. Asia Publishing House, 1959, p. 34.
+
+[^43]: Srivastava, Ashirbadi Lal. _Akbar the Great_. Shiva Lal Agarwala, 1962-1973, Vol. 2, pp. 456-467.
+
+[^44]: Koch, Ebba. _Mughal Architecture: An Outline of Its History and Development (1526-1858)_. Prestel, 1991, pp. 45-67.
+
+[^45]: Asher, Catherine B. _Architecture of Mughal India_. Cambridge University Press, 1992, pp. 89-102.
+
+[^46]: Tod, _Annals and Antiquities of Rajasthan_, Vol. 1, pp. 291-293.
+
+[^47]: Gordon, Stewart. _The Marathas 1600-1818_. Cambridge University Press, 1993, p. 23.
+
+[^48]: Streusand, _Islamic Gunpowder Empires_, p. 189.
+
+[^49]: Findly, Ellison Banks. _Nur Jahan: Empress of Mughal India_. Oxford University Press, 1993, pp. 34-36.
+
+[^50]: Friedmann, Yohanan. _Shaykh Ahmad Sirhindi: An Outline of His Thought and a Study of His Image in the Eyes of Posterity_. McGill-Queen's University Press, 1971, pp. 67-78.
+
+[^51]: Hardy, Peter. _The Muslims of British India_. Cambridge University Press, 1972, p. 45.
+
+[^52]: Mukhia, Harbans. _The Mughals of India_. Blackwell Publishing, 2004, pp. 78-80.
+
+[^53]: Lal, Ruby. _Domesticity and Power in the Early Mughal World_, pp. 234-245.
+
+[^54]: Eaton, Richard M. _The Rise of Islam and the Bengal Frontier, 1204-1760_. University of California Press, 1993, pp. 156-158.
+
+[^55]: Ikram, S. M. _Muslim Civilization in India_. Columbia University Press, 1964, p. 145.
+
+[^56]: Sharma, Sri Ram. _The Religious Policy of the Mughal Emperors_. Asia Publishing House, 1972, pp. 67-72.
+
+[^57]: Ansari, Muhammad Azhar. "Akbar's Religious Policy: A Reappraisal." _Journal of the Pakistan Historical Society_ 46, no. 2 (1998): 123-134.
+
+[^58]: Habib, Irfan, ed. _Akbar and His India_. Oxford University Press, 1997, pp. 189-192.
+
+[^59]: Lal, K. S. _The Mughal Harem_. Aditya Prakashan, 1988, pp. 45-67.
+
+[^60]: Sharma, Sudha. _The Mughal Empire: A Re-assessment_. D.K. Printworld, 1999, pp. 123-129.
+
+[^61]: Hambly, Gavin R. G. "Armed Women Retainers in the Zenanas of Indo-Muslim Rulers: The Case of Bibi Fatima." _Women in the Medieval Islamic World_, edited by Gavin R. G. Hambly. St. Martin's Press, 1998, pp. 437-455.
+
+[^62]: Lal, Ruby. _Domesticity and Power in the Early Mughal World_, pp. 178-189.
+
+[^63]: Habib, _The Agrarian System of Mughal India_, pp. 319-362.
+
+[^64]: Parthasarathi, Prasannan. _Why Europe Grew Rich and Asia Did Not: Global Economic Divergence, 1600-1850_. Cambridge University Press, 2011, pp. 89-92.
+
+[^65]: Moreland, W. H. _The Agrarian System of Moslem India_. W. Heffer & Sons, 1929, pp. 156-167.
+
+[^66]: Raychaudhuri, Tapan, and Irfan Habib, eds. _The Cambridge Economic History of India, Vol. 1: c. 1200-c. 1750_. Cambridge University Press, 1982, pp. 234-245.
+
+[^67]: Findly, _Nur Jahan_, pp. 23-25.
+
+[^68]: Lal, Ruby. _Empress: The Astonishing Reign of Nur Jahan_. W. W. Norton & Company, 2018, pp. 45-47.
+
+[^69]: Schimmel, _The Empire of the Great Mughals_, pp. 67-69.
+
+[^70]: Jahangir. _The Jahangirnama: Memoirs of Jahangir, Emperor of India_, translated by Wheeler M. Thackston. Oxford University Press, 1999, pp. 12-15.
+
+[^71]: Eraly, _Emperors of the Peacock Throne_, pp. 234-236.
+
+[^72]: Smith, _Akbar the Great Mogul_, pp. 345-367.
+
+[^73]: Monserrate, Antonio. _The Commentary of Father Monserrate, S.J., on His Journey to the Court of Akbar_, translated by J. S. Hoyland and S. N. Banerjee. Oxford University Press, 1922, pp. 89-92.
+
+[^74]: Abu'l-Fazl, _Ain-i-Akbari_, Vol. 1, pp. 156-178.
+
+[^75]: Randhawa, M. S. "Hunting in Mughal Painting." _Marg_ 23, no. 1 (1969): 45-56.
+
+[^76]: Skelton, Robert. "The Mughal Artist Farrokh Beg." _Ars Orientalis_ 2 (1957): 393-411.
+
+[^77]: Digby, Simon. "The Sufi Shaikh as a Source of Authority in Medieval India." _Purushartha_ 9 (1986): 57-77.
+
+[^78]: Abu'l-Fazl, _Akbarnama_, Vol. 3, pp. 1234-1245.
+
+[^79]: Richards, _The Mughal Empire_, p. 61.
+
+[^80]: Begley, Wayne E., and Z. A. Desai. _The Shah Jahan Nama of Inayat Khan_. Oxford University Press, 1990, pp. 23-25.
+
+[^81]: Alam and Subrahmanyam, _The Mughal State_, pp. 189-192.
+
+[^82]: Bayly, C. A. _Rulers, Townsmen and Bazaars: North Indian Society in the Age of British Expansion, 1770-1870_. Cambridge University Press, 1983, pp. 45-47.
+
+[^83]: Kolff, _Naukar, Rajput and Sepoy_, pp. 123-129.
+
+[^84]: Hasan, Mushirul. _Legacy of a Divided Nation: India's Muslims Since Independence_. Westview Press, 1997, pp. 34-36.
+
+[^85]: Sarkar, _History of Aurangzib_, Vol. 3, pp. 234-256.
+
+[^86]: Wagoner, Phillip B. "'Sultan among Hindu Kings': Dress, Titles, and the Islamicization of Hindu Culture at Vijayanagara." _Journal of Asian Studies_ 55, no. 4 (1996): 851-880.
+
+[^87]: Alam, Muzaffar. "The Pursuit of Persian: Language in Mughal Politics." _Modern Asian Studies_ 32, no. 2 (1998): 317-349.
+
+[^88]: Wade, Bonnie C. _Imaging Sound: An Ethnomusicological Study of Music, Art, and Culture in Mughal India_. University of Chicago Press, 1998, pp. 67-89.
+
+[^89]: Tillotson, G. H. R. _Mughal India_. Penguin Books, 1990, pp. 45-67.
+
+[^90]: Thapar, Romila. "Syndicated Moksha?" _Seminar_ 313 (1985): 14-22.
+
+[^91]: Panikkar, K. N. "Culture and Consciousness in Modern India: A Historical Perspective." _Social Scientist_ 19, no. 1/2 (1991): 3-14.
+
+[^92]: Lal, Vinay. "The Incident of the 'Burning Train': Towards a Thick Description of a Historical Event." _Economic and Political Weekly_ 33, no. 13 (1998): 670-682.
+
+[^93]: Maududi, Sayyid Abul A'la. _The Islamic Law and Constitution_. Islamic Publications, 1955, pp. 234-245.
+
+[^94]: Pandey, Gyanendra. _The Construction of Communalism in Colonial North India_. Oxford University Press, 1990, pp. 123-145.
+
+[^95]: Richards, _The Mughal Empire_, p. 1.
+
+[^96]: Subrahmanyam, Sanjay. _The Portuguese Empire in Asia, 1500-1700: A Political and Economic History_. Longman, 1993, p. 189.
+
+[^97]: Guha, Ranajit. _Dominance without Hegemony: History and Power in Colonial India_. Harvard University Press, 1997, pp. 67-89.
+
+[^98]: Chatterjee, Partha. _The Nation and Its Fragments: Colonial and Postcolonial Histories_. Princeton University Press, 1993, pp. 45-47.
+
+[^99]: Kumar, Krishna. _Prejudice and Pride: School Histories of the Freedom Struggle in India and Pakistan_. Viking, 2001, pp. 123-145.
+
+[^100]: Khilnani, Sunil. _The Idea of India_. Farrar, Straus and Giroux, 1997, pp. 178-189.
+
+[^101]: Richards, _The Mughal Empire_, p. 28.
+
+[^102]: Habib, _The Agrarian System of Mughal India_, p. 267.
+
+[^103]: Monserrate, _The Commentary of Father Monserrate_, p. 197.
+
+[^104]: Monserrate, _The Commentary of Father Monserrate_, pp. 201-203.
+
+[^105]: Habib, ed., _Akbar and His India_, pp. 1-3.
+
+[^106]: Truschke, Audrey. _Culture of Encounters: Sanskrit at the Mughal Court_. Columbia University Press, 2016, pp. 45-67.
+
+[^107]: Asad, Talal. "The Idea of an Anthropology of Islam." _Occasional Papers Series_. Center for Contemporary Arab Studies, Georgetown University, 1986, pp. 12-14.
+
+[^108]: Beach and Koch, _King of the World_, pp. 89-92.
+
 [^109]: Seyller, "The Inspection and Valuation of Manuscripts," pp. 315-320.
-[^110]: Smith, *Akbar the Great Mogul*, pp. 401-405.
-[^111]: Streusand, *Islamic Gunpowder Empires*, p. 198.
-[^112]: Friedmann, *Shaykh Ahmad Sirhindi*, pp. 23-45.
-[^113]: Friedmann, *Shaykh Ahmad Sirhindi*, pp. 67-89.
-[^114]: Mukhia, *The Mughals of India*, pp. 89-92.
-[^115]: Sharma, *The Religious Policy of the Mughal Emperors*, pp. 78-82.
-[^116]: Ikram, *Muslim Civilization in India*, pp. 152-154.
-[^117]: Elst, Koenraad. *Negationism in India: Concealing the Record of Islam*. Voice of India, 1992, pp. 67-78.
-[^118]: Lal, K. S. *The Legacy of Muslim Rule in India*. Aditya Prakashan, 1992, pp. 89-95.
-[^119]: Habib, *The Agrarian System of Mughal India*, pp. 380-395.
-[^120]: Habib, *The Agrarian System of Mughal India*, pp. 401-410.
-[^121]: Lal, *The Mughal Harem*, pp. 123-134.
+
+[^110]: Smith, _Akbar the Great Mogul_, pp. 401-405.
+
+[^111]: Streusand, _Islamic Gunpowder Empires_, p. 198.
+
+[^112]: Friedmann, _Shaykh Ahmad Sirhindi_, pp. 23-45.
+
+[^113]: Friedmann, _Shaykh Ahmad Sirhindi_, pp. 67-89.
+
+[^114]: Mukhia, _The Mughals of India_, pp. 89-92.
+
+[^115]: Sharma, _The Religious Policy of the Mughal Emperors_, pp. 78-82.
+
+[^116]: Ikram, _Muslim Civilization in India_, pp. 152-154.
+
+[^117]: Elst, Koenraad. _Negationism in India: Concealing the Record of Islam_. Voice of India, 1992, pp. 67-78.
+
+[^118]: Lal, K. S. _The Legacy of Muslim Rule in India_. Aditya Prakashan, 1992, pp. 89-95.
+
+[^119]: Habib, _The Agrarian System of Mughal India_, pp. 380-395.
+
+[^120]: Habib, _The Agrarian System of Mughal India_, pp. 401-410.
+
+[^121]: Lal, _The Mughal Harem_, pp. 123-134.
+
 [^122]: Hambly, "Armed Women Retainers in the Zenanas," pp. 449-452.
-[^123]: Ali, M. Athar. "The Perception of India in Akbar and Abu'l Fazl." *Indian Historical Review* 23, no. 1-2 (1996-1997): 90-108.
-[^124]: Mukhia, Harbans. *Historians and Historiography During the Reign of Akbar*. Vikas Publishing House, 1976, pp. 178-189.
-[^125]: Abu'l-Fazl, *Akbarnama*, Vol. 2, p. 456.
-[^126]: Monserrate, *The Commentary of Father Monserrate*, p. 215.
-[^127]: Abu'l-Fazl, *Ain-i-Akbari*, Vol. 3, p. 189.
-[^128]: Abu'l-Fazl, *Akbarnama*, Vol. 2, p. 523.
-[^129]: Tod, *Annals and Antiquities of Rajasthan*, Vol. 1, p. 324.
+
+[^123]: Ali, M. Athar. "The Perception of India in Akbar and Abu'l Fazl." _Indian Historical Review_ 23, no. 1-2 (1996-1997): 90-108.
+
+[^124]: Mukhia, Harbans. _Historians and Historiography During the Reign of Akbar_. Vikas Publishing House, 1976, pp. 178-189.
+
+[^125]: Abu'l-Fazl, _Akbarnama_, Vol. 2, p. 456.
+
+[^126]: Monserrate, _The Commentary of Father Monserrate_, p. 215.
+
+[^127]: Abu'l-Fazl, _Ain-i-Akbari_, Vol. 3, p. 189.
+
+[^128]: Abu'l-Fazl, _Akbarnama_, Vol. 2, p. 523.
+
+[^129]: Tod, _Annals and Antiquities of Rajasthan_, Vol. 1, p. 324.

@@ -4,7 +4,15 @@ name: "Andrew Johnson"
 birth: "1808-12-29"
 death: "1875-07-31"
 nationality: "United States"
-occupation: ["Tailor", "Politician", "17th President of the United States", "U.S. Senator", "Governor of Tennessee", "Military Governor"]
+occupation:
+  [
+    "Tailor",
+    "Politician",
+    "17th President of the United States",
+    "U.S. Senator",
+    "Governor of Tennessee",
+    "Military Governor",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrew_Johnson"
@@ -139,34 +147,34 @@ Historians note that Johnson's legacy extended far beyond his presidency. The fa
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1808 | Born December 29 in Raleigh, North Carolina |
-| 1812 | Father Jacob Johnson dies; family falls into deeper poverty |
-| 1818 | Apprenticed to tailor James Selby in Raleigh |
-| 1824 | Runs away from apprenticeship with brother William |
-| 1826 | Moves to Greeneville, Tennessee; opens tailor shop |
-| 1827 | Marries Eliza McCardle on May 17 |
-| 1829 | Elected alderman of Greeneville (serves multiple terms) |
-| 1834 | Elected mayor of Greeneville (serves two terms) |
-| 1835 | Elected to Tennessee House of Representatives |
-| 1843 | Elected to U.S. House of Representatives |
-| 1853 | Elected Governor of Tennessee |
-| 1855 | Reelected Governor of Tennessee |
-| 1857 | Elected U.S. Senator from Tennessee |
-| 1861 | Tennessee secedes; Johnson remains loyal to Union as only Southern senator |
-| 1862 | Appointed Military Governor of Tennessee by President Lincoln |
-| 1863 | Frees enslaved people he owned on August 8 |
-| 1864 | Nominated as Lincoln's vice-presidential running mate; elected in November |
-| 1865 | Inaugurated as Vice President on March 4; becomes 17th President on April 15 after Lincoln's assassination |
-| 1865 | Implements Presidential Reconstruction plan; Southern states begin enacting Black Codes |
-| 1866 | Vetoes Freedmen's Bureau Bill and Civil Rights Act; both overridden by Congress |
-| 1867 | Opposes Fourteenth Amendment; vetoes Reconstruction Acts (overridden); Alaska Purchase completed |
+| Year | Event                                                                                                       |
+| ---- | ----------------------------------------------------------------------------------------------------------- |
+| 1808 | Born December 29 in Raleigh, North Carolina                                                                 |
+| 1812 | Father Jacob Johnson dies; family falls into deeper poverty                                                 |
+| 1818 | Apprenticed to tailor James Selby in Raleigh                                                                |
+| 1824 | Runs away from apprenticeship with brother William                                                          |
+| 1826 | Moves to Greeneville, Tennessee; opens tailor shop                                                          |
+| 1827 | Marries Eliza McCardle on May 17                                                                            |
+| 1829 | Elected alderman of Greeneville (serves multiple terms)                                                     |
+| 1834 | Elected mayor of Greeneville (serves two terms)                                                             |
+| 1835 | Elected to Tennessee House of Representatives                                                               |
+| 1843 | Elected to U.S. House of Representatives                                                                    |
+| 1853 | Elected Governor of Tennessee                                                                               |
+| 1855 | Reelected Governor of Tennessee                                                                             |
+| 1857 | Elected U.S. Senator from Tennessee                                                                         |
+| 1861 | Tennessee secedes; Johnson remains loyal to Union as only Southern senator                                  |
+| 1862 | Appointed Military Governor of Tennessee by President Lincoln                                               |
+| 1863 | Frees enslaved people he owned on August 8                                                                  |
+| 1864 | Nominated as Lincoln's vice-presidential running mate; elected in November                                  |
+| 1865 | Inaugurated as Vice President on March 4; becomes 17th President on April 15 after Lincoln's assassination  |
+| 1865 | Implements Presidential Reconstruction plan; Southern states begin enacting Black Codes                     |
+| 1866 | Vetoes Freedmen's Bureau Bill and Civil Rights Act; both overridden by Congress                             |
+| 1867 | Opposes Fourteenth Amendment; vetoes Reconstruction Acts (overridden); Alaska Purchase completed            |
 | 1868 | Impeached by House of Representatives on February 24; acquitted by Senate (one vote short) on May 16 and 26 |
-| 1869 | Presidency ends March 4; returns to Tennessee |
-| 1872 | Runs unsuccessfully for U.S. House of Representatives |
-| 1874 | Elected U.S. Senator from Tennessee |
-| 1875 | Returns to Senate in March; dies July 31 in Elizabethton, Tennessee; buried August 3 in Greeneville |
+| 1869 | Presidency ends March 4; returns to Tennessee                                                               |
+| 1872 | Runs unsuccessfully for U.S. House of Representatives                                                       |
+| 1874 | Elected U.S. Senator from Tennessee                                                                         |
+| 1875 | Returns to Senate in March; dies July 31 in Elizabethton, Tennessee; buried August 3 in Greeneville         |
 
 ---
 
@@ -191,131 +199,259 @@ Historians note that Johnson's legacy extended far beyond his presidency. The fa
 ## References
 
 [^1]: [Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Andrew_Johnson)
+
 [^2]: [Andrew Johnson | Biography, Presidency, Impeachment, & Facts | Britannica](https://www.britannica.com/biography/Andrew-Johnson)
+
 [^3]: [Andrew Johnson | The White House](https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/andrew-johnson/)
+
 [^4]: [Andrew Johnson | American Battlefield Trust](https://www.battlefields.org/learn/biographies/andrew-johnson)
+
 [^5]: [Andrew Johnson (U.S. National Park Service)](https://www.nps.gov/people/andrew-johnson.htm)
+
 [^6]: [Andrew Johnson: Life in Brief | Miller Center](https://millercenter.org/president/johnson/life-in-brief)
+
 [^7]: [Andrew Johnson (1808 to 1875) | Library of Congress](https://www.loc.gov/collections/andrew-johnson-papers/articles-and-essays/timeline/)
+
 [^8]: [Andrew Johnson - White House Historical Association](https://www.whitehousehistory.org/bios/andrew-johnson)
+
 [^9]: [President Andrew Johnson: Biography, Accomplishments & Quotes | Study.com](https://study.com/academy/lesson/president-andrew-johnson-biography-accomplishments-quotes.html)
+
 [^10]: [From Tailor to President: The Story of Andrew Johnson - Google Arts & Culture](https://artsandculture.google.com/story/from-tailor-to-president-the-story-of-andrew-johnson-andrew-johnson-national-historic-site/oQWx36vEeIZxLg?hl=en)
+
 [^11]: [Andrew Johnson - National Governors Association](https://www.nga.org/governor/andrew-johnson/)
+
 [^12]: [Johnson, Andrew | Tennessee Encyclopedia](https://tennesseeencyclopedia.net/entries/andrew-johnson/)
+
 [^13]: [Andrew Johnson: Life in Brief | Miller Center](https://millercenter.org/president/johnson/life-in-brief)
+
 [^14]: [Johnson, Andrew | NCpedia](https://www.ncpedia.org/johnson-andrew)
+
 [^15]: [Andrew Johnson - National Governors Association](https://www.nga.org/governor/andrew-johnson/)
+
 [^16]: [Andrew Johnson | American Battlefield Trust](https://www.battlefields.org/learn/biographies/andrew-johnson)
+
 [^17]: [Andrew Johnson (1808 to 1875) | Library of Congress](https://www.loc.gov/collections/andrew-johnson-papers/articles-and-essays/timeline/)
+
 [^18]: [Andrew Johnson Event Timeline | The American Presidency Project](https://www.presidency.ucsb.edu/documents/andrew-johnson-event-timeline)
+
 [^19]: [Andrew Johnson Timeline - Andrew Johnson National Historic Site](https://www.nps.gov/anjo/learn/historyculture/timeline.htm)
+
 [^20]: [Andrew Johnson - Key Events | Miller Center](https://millercenter.org/president/andrew-johnson/key-events)
+
 [^21]: [Andrew Johnson | Biography, Presidency, Impeachment, & Facts | Britannica](https://www.britannica.com/biography/Andrew-Johnson)
+
 [^22]: [Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Andrew_Johnson)
+
 [^23]: [Johnson, Andrew | Tennessee Encyclopedia](https://tennesseeencyclopedia.net/entries/andrew-johnson/)
+
 [^24]: [Andrew Johnson and Reconstruction - Andrew Johnson National Historic Site](https://www.nps.gov/anjo/andrew-johnson-and-reconstruction.htm)
+
 [^25]: [Andrew Johnson | The First Amendment Encyclopedia](https://firstamendment.mtsu.edu/article/andrew-johnson/)
+
 [^26]: [Milestones: 1866–1898: Purchase of Alaska, 1867](https://history.state.gov/milestones/1866-1898/alaska-purchase)
+
 [^27]: [The Alaska Purchase | Library of Congress](https://www.loc.gov/collections/meeting-of-frontiers/articles-and-essays/alaska/the-alaska-purchase/)
+
 [^28]: [Andrew Johnson: Foreign Affairs | Miller Center](https://millercenter.org/president/johnson/foreign-affairs)
+
 [^29]: [Presidency of Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Andrew_Johnson)
+
 [^30]: [Alaska Purchase - Wikipedia](https://en.wikipedia.org/wiki/Alaska_Purchase)
+
 [^31]: [Andrew Johnson - Key Events | Miller Center](https://millercenter.org/president/andrew-johnson/key-events)
+
 [^32]: [The House Overrides President Johnson's Veto | US House of Representatives](https://history.house.gov/Historical-Highlights/1851-1900/The-veto-of-the-Omnibus-Southern-States-Admission-Bill/)
+
 [^33]: [New Acquisition: Document Signed by President Andrew Johnson Related to the 14th Amendment | Library of Congress](https://blogs.loc.gov/law/2022/05/new-acquisition-document-signed-by-president-andrew-johnson-related-to-the-14th-amendment/)
+
 [^34]: [Andrew Johnson - Key Events | Miller Center](https://millercenter.org/president/andrew-johnson/key-events)
+
 [^35]: [Black Codes | American Battlefield Trust](https://www.battlefields.org/learn/articles/black-codes)
+
 [^36]: [The Freedmen's Bureau and Black Codes | United States History I](https://courses.lumenlearning.com/wm-ushistory1/chapter/the-freedmens-bureau-and-the-black-codes/)
+
 [^37]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^38]: [Reconstruction - Civil War End, Changes & Act of 1867 | HISTORY](https://www.history.com/topics/american-civil-war/reconstruction)
+
 [^39]: [Presidential Reconstruction | ushistory.org](https://www.ushistory.org/us/35a.asp)
+
 [^40]: [Andrew Johnson and Reconstruction - Andrew Johnson National Historic Site](https://www.nps.gov/anjo/andrew-johnson-and-reconstruction.htm)
+
 [^41]: [Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Andrew_Johnson)
+
 [^42]: [Andrew Johnson | Biography, Presidency, Impeachment, & Facts | Britannica](https://www.britannica.com/biography/Andrew-Johnson)
+
 [^43]: [Presidential Reconstruction | Digital History](https://www.digitalhistory.uh.edu/exhibits/reconstruction/section4/section4_presrecon.html)
+
 [^44]: [Andrew Johnson and Reconstruction - Andrew Johnson National Historic Site](https://www.nps.gov/anjo/andrew-johnson-and-reconstruction.htm)
+
 [^45]: [Reconstruction - Civil War End, Changes & Act of 1867 | HISTORY](https://www.history.com/topics/american-civil-war/reconstruction)
-[^46]: [Black Codes (United States) - Wikipedia](https://en.wikipedia.org/wiki/Black_Codes_(United_States))
+
+[^46]: [Black Codes (United States) - Wikipedia](<https://en.wikipedia.org/wiki/Black_Codes_(United_States)>)
+
 [^47]: [Black Codes, Summary, Facts, Significance, APUSH](https://www.americanhistorycentral.com/entries/black-codes/)
+
 [^48]: [Black Codes | Britannica](https://www.britannica.com/topic/Black-Codes)
+
 [^49]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^50]: [Andrew Johnson and the Legacy of the Civil War | Oxford Research Encyclopedia](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-11)
+
 [^51]: [The Rise and Fall of Andrew Johnson | USA History Timeline](https://www.usahistorytimeline.com/pages/the-rise-and-fall-of-andrew-johnson-lessons-from-a-divisive-era-in-u-s-history-d58f91d4.php)
+
 [^52]: [Andrew Johnson - White House Historical Association](https://www.whitehousehistory.org/bios/andrew-johnson)
+
 [^53]: [Veto of the First Reconstruction Act | Teaching American History](https://teachingamericanhistory.org/document/veto-of-the-first-reconstruction-act/)
+
 [^54]: [March 2, 1867: Congress Passes First Reconstruction Act - Zinn Education Project](https://www.zinnedproject.org/news/tdih/congress-passes-first-reconstruction-act/)
+
 [^55]: [Impeachment of Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Impeachment_of_Andrew_Johnson)
+
 [^56]: [Why Was Andrew Johnson Impeached? | National Park Service](https://www.nps.gov/articles/why-was-andrew-johnson-impeached.htm)
+
 [^57]: [The Impeachment of Andrew Johnson | PBS](https://www.pbs.org/wgbh/americanexperience/features/grant-impeachment/)
+
 [^58]: [The Impeachment Trial of President Andrew Johnson | Library of Congress](https://www.loc.gov/collections/century-of-lawmaking/articles-and-essays/century-presentations/impeachment/)
+
 [^59]: [President Andrew Johnson and Impeachable Offenses | Congress.gov](https://constitution.congress.gov/browse/essay/artII-S4-4-4/ALDE_00000692/)
+
 [^60]: [The Impeachment of Andrew Johnson | Bill of Rights Institute](https://billofrightsinstitute.org/essays/the-impeachment-of-andrew-johnson)
+
 [^61]: [Johnson Impeached, February to March 1868 | US House of Representatives](https://history.house.gov/Exhibitions-and-Publications/Johnson-Impeachment/Johnson-Impeached/)
+
 [^62]: [U.S. Senate: Impeachment Trial of President Andrew Johnson, 1868](https://www.senate.gov/about/powers-procedures/impeachment/impeachment-johnson.htm)
+
 [^63]: [Articles of Impeachment Against Andrew Johnson | Teaching American History](https://teachingamericanhistory.org/document/articles-of-impeachment-against-andrew-johnson/)
+
 [^64]: [Andrew Johnson: Family Life | Miller Center](https://millercenter.org/president/johnson/family-life)
+
 [^65]: [Andrew Johnson's Family - Andrew Johnson National Historic Site](https://www.nps.gov/anjo/andrew-johnson-s-family.htm)
+
 [^66]: [Andrew Johnson's Family Life - Google Arts & Culture](https://artsandculture.google.com/story/andrew-johnson-s-family-life-andrew-johnson-national-historic-site/bAXhvdHCDsjeLQ?hl=en)
+
 [^67]: [Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Andrew_Johnson)
+
 [^68]: [Andrew Johnson: Family Life | Miller Center](https://millercenter.org/president/johnson/family-life)
+
 [^69]: [Johnson Genealogy - President Andrew Johnson Family History](https://www.archives.com/genealogy/president-johnson.html)
+
 [^70]: [The Formerly Enslaved Households of President Andrew Johnson - White House Historical Association](https://www.whitehousehistory.org/the-formerly-enslaved-households-of-president-andrew-johnson)
+
 [^71]: [Andrew Johnson: Family Life | Miller Center](https://millercenter.org/president/johnson/family-life)
+
 [^72]: [Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Andrew_Johnson)
+
 [^73]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^74]: [Andrew Johnson and the Legacy of the Civil War | Oxford Research Encyclopedia](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-11)
+
 [^75]: [Andrew Johnson | Encyclopedia.com](https://www.encyclopedia.com/people/history/us-history-biographies/andrew-johnson)
+
 [^76]: [From Tailor to President: The Story of Andrew Johnson - Google Arts & Culture](https://artsandculture.google.com/story/from-tailor-to-president-the-story-of-andrew-johnson-andrew-johnson-national-historic-site/oQWx36vEeIZxLg?hl=en)
+
 [^77]: [Andrew Johnson - White House Historical Association](https://www.whitehousehistory.org/bios/andrew-johnson)
+
 [^78]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^79]: [Andrew Johnson's Impact on Reconstruction - eCommons](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1345&context=lxl)
+
 [^80]: [Andrew Johnson - Reconstruction, Impeachment, Legacy | Britannica](https://www.britannica.com/biography/Andrew-Johnson/The-presidency)
+
 [^81]: [Andrew Johnson and the Legacy of the Civil War | Oxford Research Encyclopedia](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-11)
+
 [^82]: [The Rise and Fall of Andrew Johnson | USA History Timeline](https://www.usahistorytimeline.com/pages/the-rise-and-fall-of-andrew-johnson-lessons-from-a-divisive-era-in-u-s-history-d58f91d4.php)
+
 [^83]: [Reconstruction - Civil War End, Changes & Act of 1867 | HISTORY](https://www.history.com/topics/american-civil-war/reconstruction)
+
 [^84]: [Impeachment of Andrew Johnson - Wikipedia](https://en.wikipedia.org/wiki/Impeachment_of_Andrew_Johnson)
+
 [^85]: [U.S. Senate: Impeachment Trial of President Andrew Johnson, 1868](https://www.senate.gov/about/powers-procedures/impeachment/impeachment-johnson.htm)
+
 [^86]: [President Andrew Johnson and Impeachable Offenses | Congress.gov](https://constitution.congress.gov/browse/essay/artII-S4-4-4/ALDE_00000692/)
+
 [^87]: [Andrew Johnson (1808-1875) - Find a Grave Memorial](https://www.findagrave.com/memorial/548/andrew-johnson)
+
 [^88]: [Andrew Johnson (1808-1875) – Hawkins County Genealogy & History](https://tngenweb.org/hawkins/andrew-johnson-1808-1875/)
+
 [^89]: [East Tennessee History: The Death of a President | Elizabethton Star](https://elizabethton.com/2020/03/18/east-tennessee-history-the-death-of-a-president/)
+
 [^90]: [Andrew Johnson National Cemetery - Wikipedia](https://en.wikipedia.org/wiki/Andrew_Johnson_National_Cemetery)
+
 [^91]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^92]: [Andrew Johnson | Encyclopedia.com](https://www.encyclopedia.com/people/history/us-history-biographies/andrew-johnson)
+
 [^93]: [Andrew Johnson and the Legacy of the Civil War | Oxford Research Encyclopedia](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-11)
+
 [^94]: [Andrew Johnson's Impact on Reconstruction - eCommons](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1345&context=lxl)
+
 [^95]: [The Rise and Fall of Andrew Johnson | USA History Timeline](https://www.usahistorytimeline.com/pages/the-rise-and-fall-of-andrew-johnson-lessons-from-a-divisive-era-in-u-s-history-d58f91d4.php)
+
 [^96]: [Is Andrew Johnson the worst president in American history? | Constitution Center](https://constitutioncenter.org/blog/is-andrew-johnson-the-worst-president-in-american-history-2)
+
 [^97]: [Fact Check: Who do historians rank as the worst US presidents? | Factually](https://factually.co/fact-checks/politics/historians-worst-us-presidents-ranking-742c48)
+
 [^98]: [Worst Presidents: Andrew Johnson (1865-1869) | U.S. News](https://www.usnews.com/news/special-reports/the-worst-presidents/articles/2014/12/17/worst-presidents-andrew-johnson-1865-1869)
+
 [^99]: [Andrew Johnson | C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?personid=39800)
+
 [^100]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^101]: [Andrew Johnson | Encyclopedia.com](https://www.encyclopedia.com/people/history/us-history-biographies/andrew-johnson)
+
 [^102]: [Johnson, Andrew | Tennessee Encyclopedia](https://tennesseeencyclopedia.net/entries/andrew-johnson/)
+
 [^103]: [Andrew Johnson | American Battlefield Trust](https://www.battlefields.org/learn/biographies/andrew-johnson)
+
 [^104]: [Andrew Johnson and the Legacy of the Civil War | Oxford Research Encyclopedia](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-11)
+
 [^105]: [The Rise and Fall of Andrew Johnson | USA History Timeline](https://www.usahistorytimeline.com/pages/the-rise-and-fall-of-andrew-johnson-lessons-from-a-divisive-era-in-u-s-history-d58f91d4.php)
+
 [^106]: [President Andrew Johnson and Impeachable Offenses | Congress.gov](https://constitution.congress.gov/browse/essay/artII-S4-4-4/ALDE_00000692/)
+
 [^107]: [U.S. Senate: Impeachment Trial of President Andrew Johnson, 1868](https://www.senate.gov/about/powers-procedures/impeachment/impeachment-johnson.htm)
+
 [^108]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^109]: [Is Andrew Johnson the worst president in American history? | Constitution Center](https://constitutioncenter.org/blog/is-andrew-johnson-the-worst-president-in-american-history-2)
+
 [^110]: [The Impeachment of Andrew Johnson | Bill of Rights Institute](https://billofrightsinstitute.org/essays/the-impeachment-of-andrew-johnson)
+
 [^111]: [Andrew Johnson and the Legacy of the Civil War | Oxford Research Encyclopedia](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-11)
+
 [^112]: [The Rise and Fall of Andrew Johnson | USA History Timeline](https://www.usahistorytimeline.com/pages/the-rise-and-fall-of-andrew-johnson-lessons-from-a-divisive-era-in-u-s-history-d58f91d4.php)
+
 [^113]: [Andrew Johnson's Impact on Reconstruction - eCommons](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1345&context=lxl)
+
 [^114]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^115]: [Andrew Johnson and the Legacy of the Civil War | Oxford Research Encyclopedia](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-11)
+
 [^116]: [Andrew Johnson | Encyclopedia.com](https://www.encyclopedia.com/people/history/us-history-biographies/andrew-johnson)
+
 [^117]: [The Impeachment of Andrew Johnson | Bill of Rights Institute](https://billofrightsinstitute.org/essays/the-impeachment-of-andrew-johnson)
+
 [^118]: [Black Codes | American Battlefield Trust](https://www.battlefields.org/learn/articles/black-codes)
+
 [^119]: [Reconstruction - Civil War End, Changes & Act of 1867 | HISTORY](https://www.history.com/topics/american-civil-war/reconstruction)
+
 [^120]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^121]: [Andrew Johnson's Impact on Reconstruction - eCommons](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1345&context=lxl)
+
 [^122]: [The Rise and Fall of Andrew Johnson | USA History Timeline](https://www.usahistorytimeline.com/pages/the-rise-and-fall-of-andrew-johnson-lessons-from-a-divisive-era-in-u-s-history-d58f91d4.php)
+
 [^123]: [TOP 25 QUOTES BY ANDREW JOHNSON | A-Z Quotes](https://www.azquotes.com/author/7478-Andrew_Johnson)
+
 [^124]: [Andrew Johnson: Impact and Legacy | Miller Center](https://millercenter.org/president/johnson/impact-and-legacy)
+
 [^125]: [Andrew Johnson Quotes - BrainyQuote](https://www.brainyquote.com/authors/andrew-johnson-quotes)
+
 [^126]: [Andrew Johnson - Wikiquote](https://en.wikiquote.org/wiki/Andrew_Johnson)
+
 [^127]: [24 Notable Quotes By Andrew Johnson](https://www.wisdomly.net/andrew-johnson-704.php)
+
 [^128]: [Top 30 ANDREW JOHNSON quotes and sayings](https://www.inspiringquotes.us/author/3113-andrew-johnson)
+
 [^129]: [Andrew Johnson Quotes - Presidential Power](https://www.presidential-power.org/quotes-by-presidents/andrew-johnson-quotes.htm)

@@ -155,30 +155,30 @@ Critical assessments of Victoria's legacy emphasize that many of the Victorian e
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1819 | Born on 24 May at Kensington Palace, London |
-| 1820 | Father, Duke of Kent, dies; Victoria becomes third in line to throne |
-| 1837 | Ascends to throne on 20 June following death of William IV |
-| 1838 | Coronation at Westminster Abbey on 28 June |
-| 1839 | Bedchamber Crisis demonstrates political inexperience |
-| 1840 | Marries Prince Albert of Saxe-Coburg and Gotha on 10 February; first assassination attempt on 10 June |
-| 1840 | Birth of first child, Princess Victoria (Vicky) on 21 November |
-| 1841 | Birth of Prince Albert Edward (Bertie), future Edward VII |
-| 1845-1852 | Great Irish Famine occurs; government response widely criticized |
-| 1851 | Great Exhibition opens in Crystal Palace, Hyde Park |
-| 1853-1856 | Crimean War; Victoria supports improved conditions for soldiers |
-| 1857 | Birth of youngest child, Princess Beatrice; Indian Rebellion suppressed |
-| 1861 | Death of Prince Albert on 14 December; Victoria enters extended mourning |
-| 1863 | Marriage of Prince of Wales to Princess Alexandra of Denmark |
-| 1866-1867 | Republican movement gains strength due to Victoria's public withdrawal |
-| 1868 | First ministry of William Gladstone (whom Victoria disliked) |
-| 1876 | Proclaimed Empress of India on 1 May |
-| 1883 | Death of John Brown on 27 March, Victoria's devoted servant |
-| 1887 | Golden Jubilee celebrates 50 years on throne with imperial pageantry |
-| 1897 | Diamond Jubilee celebrates 60 years on throne; Victoria becomes longest-reigning British monarch |
-| 1900 | Makes final public appearance; health declining |
-| 1901 | Dies at Osborne House on 22 January, aged 81; succeeded by Edward VII |
+| Year      | Event                                                                                                 |
+| --------- | ----------------------------------------------------------------------------------------------------- |
+| 1819      | Born on 24 May at Kensington Palace, London                                                           |
+| 1820      | Father, Duke of Kent, dies; Victoria becomes third in line to throne                                  |
+| 1837      | Ascends to throne on 20 June following death of William IV                                            |
+| 1838      | Coronation at Westminster Abbey on 28 June                                                            |
+| 1839      | Bedchamber Crisis demonstrates political inexperience                                                 |
+| 1840      | Marries Prince Albert of Saxe-Coburg and Gotha on 10 February; first assassination attempt on 10 June |
+| 1840      | Birth of first child, Princess Victoria (Vicky) on 21 November                                        |
+| 1841      | Birth of Prince Albert Edward (Bertie), future Edward VII                                             |
+| 1845-1852 | Great Irish Famine occurs; government response widely criticized                                      |
+| 1851      | Great Exhibition opens in Crystal Palace, Hyde Park                                                   |
+| 1853-1856 | Crimean War; Victoria supports improved conditions for soldiers                                       |
+| 1857      | Birth of youngest child, Princess Beatrice; Indian Rebellion suppressed                               |
+| 1861      | Death of Prince Albert on 14 December; Victoria enters extended mourning                              |
+| 1863      | Marriage of Prince of Wales to Princess Alexandra of Denmark                                          |
+| 1866-1867 | Republican movement gains strength due to Victoria's public withdrawal                                |
+| 1868      | First ministry of William Gladstone (whom Victoria disliked)                                          |
+| 1876      | Proclaimed Empress of India on 1 May                                                                  |
+| 1883      | Death of John Brown on 27 March, Victoria's devoted servant                                           |
+| 1887      | Golden Jubilee celebrates 50 years on throne with imperial pageantry                                  |
+| 1897      | Diamond Jubilee celebrates 60 years on throne; Victoria becomes longest-reigning British monarch      |
+| 1900      | Makes final public appearance; health declining                                                       |
+| 1901      | Dies at Osborne House on 22 January, aged 81; succeeded by Edward VII                                 |
 
 ---
 
@@ -200,63 +200,122 @@ Critical assessments of Victoria's legacy emphasize that many of the Victorian e
 
 ## References
 
-[^1]: Hibbert, Christopher. *Queen Victoria: A Personal History*. London: HarperCollins, 2000.
-[^2]: Strachey, Lytton. *Queen Victoria*. New York: Harcourt, Brace and Company, 1921.
-[^3]: Weintraub, Stanley. *Victoria: An Intimate Biography*. New York: Truman Talley Books, 1987.
-[^4]: Victoria, Queen of Great Britain. *Queen Victoria's Journals*. Royal Archives, Windsor Castle.
-[^5]: Longford, Elizabeth. *Victoria R.I.* London: Weidenfeld & Nicolson, 1964.
-[^6]: St Aubyn, Giles. *Queen Victoria: A Portrait*. London: Sinclair-Stevenson, 1991.
-[^7]: Woodham-Smith, Cecil. *Queen Victoria: Her Life and Times, Vol. 1: 1819-1861*. London: Hamish Hamilton, 1972.
-[^8]: Arnstein, Walter L. *Queen Victoria*. New York: Palgrave Macmillan, 2003.
-[^9]: Rhodes James, Robert. *Prince Albert: A Biography*. London: Hamish Hamilton, 1983.
-[^10]: Benson, A.C., and Viscount Esher, eds. *The Letters of Queen Victoria: A Selection from Her Majesty's Correspondence Between the Years 1837 and 1861*. London: John Murray, 1907.
-[^11]: Bagehot, Walter. *The English Constitution*. London: Chapman and Hall, 1867.
-[^12]: Morris, Jan. *Pax Britannica: The Climax of an Empire*. London: Faber and Faber, 1968.
-[^13]: Auerbach, Jeffrey A. *The Great Exhibition of 1851: A Nation on Display*. New Haven: Yale University Press, 1999.
-[^14]: Bogdanor, Vernon. *The Monarchy and the Constitution*. Oxford: Oxford University Press, 1995.
-[^15]: Van der Kiste, John. *Queen Victoria's Children*. Stroud: The History Press, 2009.
-[^16]: Pugh, Martin. *State and Society: A Social and Political History of Britain Since 1870*. London: Bloomsbury, 2012.
-[^17]: Briggs, Asa. *Victorian Things*. Chicago: University of Chicago Press, 1988.
-[^18]: Homans, Margaret. *Royal Representations: Queen Victoria and British Culture, 1837-1876*. Chicago: University of Chicago Press, 1998.
-[^19]: Murphy, Paul Thomas. *Shooting Victoria: Madness, Mayhem, and the Rebirth of the British Monarchy*. New York: Pegasus Books, 2012.
-[^20]: Taylor, Antony. *Down with the Crown: British Anti-monarchism and Debates about Royalty since 1790*. London: Reaktion Books, 1999.
-[^21]: Matthew, H.C.G. *Gladstone 1809-1898*. Oxford: Oxford University Press, 1997.
-[^22]: Kinealy, Christine. *This Great Calamity: The Irish Famine 1845-52*. Dublin: Gill & Macmillan, 1994.
-[^23]: Basu, Shrabani. *Victoria & Abdul: The True Story of the Queen's Closest Confidant*. Stroud: The History Press, 2010.
-[^24]: Ridley, Jane. *Bertie: A Life of Edward VII*. London: Chatto & Windus, 2012.
-[^25]: Vicinus, Martha, ed. *Suffer and Be Still: Women in the Victorian Age*. Bloomington: Indiana University Press, 1972.
-[^26]: Packard, Jerrold M. *Victoria's Daughters*. New York: St. Martin's Press, 1998.
-[^27]: Rappaport, Helen. *Magnificent Obsession: Victoria, Albert and the Death that Changed the Monarchy*. London: Hutchinson, 2011.
-[^28]: Wilson, A.N. *Victoria: A Life*. London: Atlantic Books, 2014.
-[^29]: Charlot, Monica. *Victoria: The Young Queen*. Oxford: Blackwell, 1991.
-[^30]: Lamont-Brown, Raymond. *John Brown: Queen Victoria's Highland Servant*. Stroud: Sutton Publishing, 2000.
-[^31]: Karim, Abdul. *Queen Victoria's Munshi: Abdul Karim*. Archives held at the British Library.
-[^32]: Erickson, Carolly. *Her Little Majesty: The Life of Queen Victoria*. New York: Simon & Schuster, 1997.
-[^33]: Hoppen, K. Theodore. *The Mid-Victorian Generation, 1846-1886*. Oxford: Oxford University Press, 1998.
-[^34]: Cannadine, David. *The Decline and Fall of the British Aristocracy*. New Haven: Yale University Press, 1990.
-[^35]: Porter, Andrew, ed. *The Oxford History of the British Empire: The Nineteenth Century*. Oxford: Oxford University Press, 1999.
-[^36]: Rohl, John C.G., Martin Warren, and David Hunt. *Purple Secret: Genes, 'Madness' and the Royal Houses of Europe*. London: Bantam Press, 1998.
-[^37]: Altick, Richard D. *Victorian People and Ideas*. New York: W.W. Norton, 1973.
-[^38]: Plunkett, John. *Queen Victoria: First Media Monarch*. Oxford: Oxford University Press, 2003.
-[^39]: Homans, Margaret, and Adrienne Munich, eds. *Remaking Queen Victoria*. Cambridge: Cambridge University Press, 1997.
-[^40]: Colley, Linda. *Britons: Forging the Nation 1707-1837*. New Haven: Yale University Press, 1992.
-[^41]: Buckle, George Earle, ed. *The Letters of Queen Victoria, Second Series: A Selection from Her Majesty's Correspondence and Journal Between the Years 1862 and 1885*. London: John Murray, 1926.
-[^42]: Longford, Elizabeth. *Victoria R.I.* London: Weidenfeld & Nicolson, 1964.
-[^43]: Cannadine, David. *Ornamentalism: How the British Saw Their Empire*. Oxford: Oxford University Press, 2001.
-[^44]: Small, Hugh. *The Crimean War: Queen Victoria's War with the Russian Tsars*. Stroud: Tempus, 2007.
-[^45]: Basu, Shrabani. *Victoria & Abdul: The True Story of the Queen's Closest Confidant*. Stroud: The History Press, 2010.
-[^46]: Briggs, Asa. *The Age of Improvement 1783-1867*. London: Longman, 1959.
-[^47]: Jenkins, Roy. *Gladstone: A Biography*. London: Macmillan, 1995.
-[^48]: Said, Edward W. *Culture and Imperialism*. New York: Knopf, 1993.
-[^49]: Williams, Richard. *The Contentious Crown: Public Discussion of the British Monarchy in the Reign of Queen Victoria*. Aldershot: Ashgate, 1997.
-[^50]: Kent, Susan Kingsley. *Sex and Suffrage in Britain, 1860-1914*. Princeton: Princeton University Press, 1987.
-[^51]: Bennett, Daphne. *King Without a Crown: Albert, Prince Consort of England 1819-1861*. London: Heinemann, 1977.
-[^52]: Hardie, Frank. *The Political Influence of Queen Victoria 1861-1901*. London: Oxford University Press, 1935.
-[^53]: Ó Gráda, Cormac. *Black '47 and Beyond: The Great Irish Famine in History, Economy, and Memory*. Princeton: Princeton University Press, 1999.
-[^54]: Thompson, F.M.L. *The Rise of Respectable Society: A Social History of Victorian Britain, 1830-1900*. Cambridge: Harvard University Press, 1988.
-[^55]: Quoted in Hibbert, Christopher. *Queen Victoria: A Personal History*. London: HarperCollins, 2000.
+[^1]: Hibbert, Christopher. _Queen Victoria: A Personal History_. London: HarperCollins, 2000.
+
+[^2]: Strachey, Lytton. _Queen Victoria_. New York: Harcourt, Brace and Company, 1921.
+
+[^3]: Weintraub, Stanley. _Victoria: An Intimate Biography_. New York: Truman Talley Books, 1987.
+
+[^4]: Victoria, Queen of Great Britain. _Queen Victoria's Journals_. Royal Archives, Windsor Castle.
+
+[^5]: Longford, Elizabeth. _Victoria R.I._ London: Weidenfeld & Nicolson, 1964.
+
+[^6]: St Aubyn, Giles. _Queen Victoria: A Portrait_. London: Sinclair-Stevenson, 1991.
+
+[^7]: Woodham-Smith, Cecil. _Queen Victoria: Her Life and Times, Vol. 1: 1819-1861_. London: Hamish Hamilton, 1972.
+
+[^8]: Arnstein, Walter L. _Queen Victoria_. New York: Palgrave Macmillan, 2003.
+
+[^9]: Rhodes James, Robert. _Prince Albert: A Biography_. London: Hamish Hamilton, 1983.
+
+[^10]: Benson, A.C., and Viscount Esher, eds. _The Letters of Queen Victoria: A Selection from Her Majesty's Correspondence Between the Years 1837 and 1861_. London: John Murray, 1907.
+
+[^11]: Bagehot, Walter. _The English Constitution_. London: Chapman and Hall, 1867.
+
+[^12]: Morris, Jan. _Pax Britannica: The Climax of an Empire_. London: Faber and Faber, 1968.
+
+[^13]: Auerbach, Jeffrey A. _The Great Exhibition of 1851: A Nation on Display_. New Haven: Yale University Press, 1999.
+
+[^14]: Bogdanor, Vernon. _The Monarchy and the Constitution_. Oxford: Oxford University Press, 1995.
+
+[^15]: Van der Kiste, John. _Queen Victoria's Children_. Stroud: The History Press, 2009.
+
+[^16]: Pugh, Martin. _State and Society: A Social and Political History of Britain Since 1870_. London: Bloomsbury, 2012.
+
+[^17]: Briggs, Asa. _Victorian Things_. Chicago: University of Chicago Press, 1988.
+
+[^18]: Homans, Margaret. _Royal Representations: Queen Victoria and British Culture, 1837-1876_. Chicago: University of Chicago Press, 1998.
+
+[^19]: Murphy, Paul Thomas. _Shooting Victoria: Madness, Mayhem, and the Rebirth of the British Monarchy_. New York: Pegasus Books, 2012.
+
+[^20]: Taylor, Antony. _Down with the Crown: British Anti-monarchism and Debates about Royalty since 1790_. London: Reaktion Books, 1999.
+
+[^21]: Matthew, H.C.G. _Gladstone 1809-1898_. Oxford: Oxford University Press, 1997.
+
+[^22]: Kinealy, Christine. _This Great Calamity: The Irish Famine 1845-52_. Dublin: Gill & Macmillan, 1994.
+
+[^23]: Basu, Shrabani. _Victoria & Abdul: The True Story of the Queen's Closest Confidant_. Stroud: The History Press, 2010.
+
+[^24]: Ridley, Jane. _Bertie: A Life of Edward VII_. London: Chatto & Windus, 2012.
+
+[^25]: Vicinus, Martha, ed. _Suffer and Be Still: Women in the Victorian Age_. Bloomington: Indiana University Press, 1972.
+
+[^26]: Packard, Jerrold M. _Victoria's Daughters_. New York: St. Martin's Press, 1998.
+
+[^27]: Rappaport, Helen. _Magnificent Obsession: Victoria, Albert and the Death that Changed the Monarchy_. London: Hutchinson, 2011.
+
+[^28]: Wilson, A.N. _Victoria: A Life_. London: Atlantic Books, 2014.
+
+[^29]: Charlot, Monica. _Victoria: The Young Queen_. Oxford: Blackwell, 1991.
+
+[^30]: Lamont-Brown, Raymond. _John Brown: Queen Victoria's Highland Servant_. Stroud: Sutton Publishing, 2000.
+
+[^31]: Karim, Abdul. _Queen Victoria's Munshi: Abdul Karim_. Archives held at the British Library.
+
+[^32]: Erickson, Carolly. _Her Little Majesty: The Life of Queen Victoria_. New York: Simon & Schuster, 1997.
+
+[^33]: Hoppen, K. Theodore. _The Mid-Victorian Generation, 1846-1886_. Oxford: Oxford University Press, 1998.
+
+[^34]: Cannadine, David. _The Decline and Fall of the British Aristocracy_. New Haven: Yale University Press, 1990.
+
+[^35]: Porter, Andrew, ed. _The Oxford History of the British Empire: The Nineteenth Century_. Oxford: Oxford University Press, 1999.
+
+[^36]: Rohl, John C.G., Martin Warren, and David Hunt. _Purple Secret: Genes, 'Madness' and the Royal Houses of Europe_. London: Bantam Press, 1998.
+
+[^37]: Altick, Richard D. _Victorian People and Ideas_. New York: W.W. Norton, 1973.
+
+[^38]: Plunkett, John. _Queen Victoria: First Media Monarch_. Oxford: Oxford University Press, 2003.
+
+[^39]: Homans, Margaret, and Adrienne Munich, eds. _Remaking Queen Victoria_. Cambridge: Cambridge University Press, 1997.
+
+[^40]: Colley, Linda. _Britons: Forging the Nation 1707-1837_. New Haven: Yale University Press, 1992.
+
+[^41]: Buckle, George Earle, ed. _The Letters of Queen Victoria, Second Series: A Selection from Her Majesty's Correspondence and Journal Between the Years 1862 and 1885_. London: John Murray, 1926.
+
+[^42]: Longford, Elizabeth. _Victoria R.I._ London: Weidenfeld & Nicolson, 1964.
+
+[^43]: Cannadine, David. _Ornamentalism: How the British Saw Their Empire_. Oxford: Oxford University Press, 2001.
+
+[^44]: Small, Hugh. _The Crimean War: Queen Victoria's War with the Russian Tsars_. Stroud: Tempus, 2007.
+
+[^45]: Basu, Shrabani. _Victoria & Abdul: The True Story of the Queen's Closest Confidant_. Stroud: The History Press, 2010.
+
+[^46]: Briggs, Asa. _The Age of Improvement 1783-1867_. London: Longman, 1959.
+
+[^47]: Jenkins, Roy. _Gladstone: A Biography_. London: Macmillan, 1995.
+
+[^48]: Said, Edward W. _Culture and Imperialism_. New York: Knopf, 1993.
+
+[^49]: Williams, Richard. _The Contentious Crown: Public Discussion of the British Monarchy in the Reign of Queen Victoria_. Aldershot: Ashgate, 1997.
+
+[^50]: Kent, Susan Kingsley. _Sex and Suffrage in Britain, 1860-1914_. Princeton: Princeton University Press, 1987.
+
+[^51]: Bennett, Daphne. _King Without a Crown: Albert, Prince Consort of England 1819-1861_. London: Heinemann, 1977.
+
+[^52]: Hardie, Frank. _The Political Influence of Queen Victoria 1861-1901_. London: Oxford University Press, 1935.
+
+[^53]: Ó Gráda, Cormac. _Black '47 and Beyond: The Great Irish Famine in History, Economy, and Memory_. Princeton: Princeton University Press, 1999.
+
+[^54]: Thompson, F.M.L. _The Rise of Respectable Society: A Social History of Victorian Britain, 1830-1900_. Cambridge: Harvard University Press, 1988.
+
+[^55]: Quoted in Hibbert, Christopher. _Queen Victoria: A Personal History_. London: HarperCollins, 2000.
+
 [^56]: From Queen Victoria's personal journals, Royal Archives, Windsor Castle.
-[^57]: Strachey, Lytton. *Queen Victoria*. New York: Harcourt, Brace and Company, 1921.
-[^58]: Benson, A.C., and Viscount Esher, eds. *The Letters of Queen Victoria*. London: John Murray, 1907.
-[^59]: Weintraub, Stanley. *Victoria: An Intimate Biography*. New York: Truman Talley Books, 1987.
-[^60]: Quoted in Arnstein, Walter L. *Queen Victoria*. New York: Palgrave Macmillan, 2003.
+
+[^57]: Strachey, Lytton. _Queen Victoria_. New York: Harcourt, Brace and Company, 1921.
+
+[^58]: Benson, A.C., and Viscount Esher, eds. _The Letters of Queen Victoria_. London: John Murray, 1907.
+
+[^59]: Weintraub, Stanley. _Victoria: An Intimate Biography_. New York: Truman Talley Books, 1987.
+
+[^60]: Quoted in Arnstein, Walter L. _Queen Victoria_. New York: Palgrave Macmillan, 2003.

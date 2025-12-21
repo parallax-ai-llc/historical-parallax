@@ -155,29 +155,29 @@ Contemporary critics were often savage in their assessments. Revolutionary pamph
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1793 | Born April 19 at Schönbrunn Palace, Vienna |
-| 1795 | First documented seizure at age two |
-| 1804 | Austria becomes an Empire; Ferdinand is heir apparent |
-| 1815 | Congress of Vienna reshapes Europe; Ferdinand attends ceremonies |
-| 1830 | Crowned King of Hungary in Pressburg (Bratislava) |
-| 1831 | Marries Maria Anna of Savoy on February 27 |
-| 1835 | Becomes Emperor of Austria on March 2 upon father's death |
-| 1836 | Crowned King of Bohemia in Prague |
-| 1840 | Metternich consolidates control over government |
+| Year | Event                                                                    |
+| ---- | ------------------------------------------------------------------------ |
+| 1793 | Born April 19 at Schönbrunn Palace, Vienna                               |
+| 1795 | First documented seizure at age two                                      |
+| 1804 | Austria becomes an Empire; Ferdinand is heir apparent                    |
+| 1815 | Congress of Vienna reshapes Europe; Ferdinand attends ceremonies         |
+| 1830 | Crowned King of Hungary in Pressburg (Bratislava)                        |
+| 1831 | Marries Maria Anna of Savoy on February 27                               |
+| 1835 | Becomes Emperor of Austria on March 2 upon father's death                |
+| 1836 | Crowned King of Bohemia in Prague                                        |
+| 1840 | Metternich consolidates control over government                          |
 | 1846 | Galician uprising suppressed; Ferdinand shows clemency to some prisoners |
-| 1847 | Economic crisis and food shortages in empire |
-| 1848 | March: Revolution breaks out in Vienna |
-| 1848 | March 13: Metternich forced to resign and flee |
-| 1848 | May: Ferdinand flees Vienna for Innsbruck |
-| 1848 | October: Returns to Vienna, then flees to Olmütz |
-| 1848 | December 2: Abdicates in favor of nephew Franz Joseph |
-| 1848 | Settles in Prague for retirement |
-| 1849 | Establishes routine of retirement in Prague Castle |
-| 1854 | Nephew Franz Joseph marries; Ferdinand attends wedding |
-| 1859 | Maria Anna, his wife, dies |
-| 1875 | Dies June 29 in Prague at age 82 |
+| 1847 | Economic crisis and food shortages in empire                             |
+| 1848 | March: Revolution breaks out in Vienna                                   |
+| 1848 | March 13: Metternich forced to resign and flee                           |
+| 1848 | May: Ferdinand flees Vienna for Innsbruck                                |
+| 1848 | October: Returns to Vienna, then flees to Olmütz                         |
+| 1848 | December 2: Abdicates in favor of nephew Franz Joseph                    |
+| 1848 | Settles in Prague for retirement                                         |
+| 1849 | Establishes routine of retirement in Prague Castle                       |
+| 1854 | Nephew Franz Joseph marries; Ferdinand attends wedding                   |
+| 1859 | Maria Anna, his wife, dies                                               |
+| 1875 | Dies June 29 in Prague at age 82                                         |
 
 ---
 
@@ -207,85 +207,166 @@ According to accounts from his retirement, Ferdinand's response when asked about
 
 ## References
 
-[^1]: Sked, Alan. *The Decline and Fall of the Habsburg Empire, 1815-1918*. Longman, 1989.
-[^2]: Palmer, Alan. *Twilight of the Habsburgs: The Life and Times of Emperor Francis Joseph*. Grove Press, 1994.
-[^3]: Wandruszka, Adam. *The House of Habsburg: Six Hundred Years of a European Dynasty*. Greenwood Press, 1975.
-[^4]: Crankshaw, Edward. *The Fall of the House of Habsburg*. Viking Press, 1963.
-[^5]: Wheatcroft, Andrew. *The Habsburgs: Embodying Empire*. Viking, 1995.
-[^6]: Evans, R.J.W. *Austria, Hungary, and the Habsburgs: Essays on Central Europe, c.1683-1867*. Oxford University Press, 2006.
-[^7]: Macartney, C.A. *The Habsburg Empire, 1790-1918*. Macmillan, 1968.
-[^8]: Judson, Pieter M. *The Habsburg Empire: A New History*. Harvard University Press, 2016.
-[^9]: Metternich, Richard, ed. *Memoirs of Prince Metternich*. Vol. 5. Harper & Brothers, 1881.
-[^10]: Siemann, Wolfram. *Metternich: Strategist and Visionary*. Harvard University Press, 2019.
-[^11]: Srbik, Heinrich Ritter von. *Metternich: Der Staatsmann und der Mensch*. F. Bruckmann, 1925.
-[^12]: Deák, István. *The Lawful Revolution: Louis Kossuth and the Hungarians, 1848-1849*. Columbia University Press, 1979.
-[^13]: Kontler, László. *A History of Hungary*. Palgrave Macmillan, 2002.
-[^14]: Sperber, Jonathan. *The European Revolutions, 1848-1851*. Cambridge University Press, 1994.
-[^15]: Rath, R. John. *The Viennese Revolution of 1848*. University of Texas Press, 1957.
-[^16]: Robertson, Priscilla. *Revolutions of 1848: A Social History*. Princeton University Press, 1952.
-[^17]: Taylor, A.J.P. *The Habsburg Monarchy, 1809-1918*. Hamish Hamilton, 1948.
-[^18]: Turnock, David. *An Historical Geography of Railways of the Great Britain and Ireland*. Ashgate, 1998.
-[^19]: Turnock, David. *The Economy of East Central Europe, 1815-1989*. Routledge, 2006.
-[^20]: Schorske, Carl E. *Fin-de-Siècle Vienna: Politics and Culture*. Knopf, 1980.
-[^21]: Ogris, Werner. "The Habsburg Legacy: National Identity in Historical Perspective." *Austrian History Yearbook* 3 (1967): 131-149.
-[^22]: Corti, Egon Caesar. *Vom Kind zum Kaiser: Kindheit und erste Jugend Kaiser Franz Josephs I. und seiner Geschwister*. Verlag Styria, 1950.
-[^23]: Redlich, Joseph. *Emperor Francis Joseph of Austria*. Macmillan, 1929.
-[^24]: Kann, Robert A. *A History of the Habsburg Empire, 1526-1918*. University of California Press, 1974.
-[^25]: Kissinger, Henry. *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812-1822*. Houghton Mifflin, 1957.
-[^26]: Schroeder, Paul W. *Metternich's Diplomacy at Its Zenith, 1820-1823*. University of Texas Press, 1962.
-[^27]: Bruckmüller, Ernst. *The Austrian Nation: Cultural Consciousness and Socio-Political Processes*. Riverside, 2003.
-[^28]: Stourzh, Gerald. *Der Umfang der österreichischen Geschichte*. Böhlau Verlag, 2011.
-[^29]: Reinerman, Alan J. *Austria and the Papacy in the Age of Metternich*. Catholic University of America Press, 1979.
-[^30]: Sheehan, James J. *German History, 1770-1866*. Oxford University Press, 1989.
-[^31]: Blackbourn, David. *The Long Nineteenth Century: A History of Germany, 1780-1918*. Oxford University Press, 1997.
-[^32]: Komlos, John. *The Habsburg Monarchy as a Customs Union: Economic Development in Austria-Hungary in the Nineteenth Century*. Princeton University Press, 1983.
-[^33]: Kann, Robert A. *The Multinational Empire: Nationalism and National Reform in the Habsburg Monarchy 1848-1918*. 2 vols. Columbia University Press, 1950.
-[^34]: Okey, Robin. *The Habsburg Monarchy: From Enlightenment to Eclipse*. St. Martin's Press, 2001.
-[^35]: Good, David F. *The Economic Rise of the Habsburg Empire, 1750-1914*. University of California Press, 1984.
-[^36]: Deak, István. *Beyond Nationalism: A Social and Political History of the Habsburg Officer Corps, 1848-1918*. Oxford University Press, 1990.
-[^37]: Hamerow, Theodore S. *Restoration, Revolution, Reaction: Economics and Politics in Germany, 1815-1871*. Princeton University Press, 1958.
-[^38]: Constant, Stephen. *Foxy Ferdinand, 1861-1948: Tsar of Bulgaria*. Sidgwick & Jackson, 1979.
-[^39]: Hamann, Brigitte. *The Reluctant Empress*. Knopf, 1986.
-[^40]: Beller, Steven. *Francis Joseph*. Longman, 1996.
-[^41]: Hamann, Brigitte. *Rudolf: Crown Prince and Rebel*. Scribner, 1984.
-[^42]: Brook-Shepherd, Gordon. *The Austrians: A Thousand-Year Odyssey*. HarperCollins, 1996.
-[^43]: Unterreiner, Katrin. *Emperor Franz Joseph 1830-1916: Myth and Truth*. Christian Brandstätter Verlag, 2006.
-[^44]: Sayer, Derek. *The Coasts of Bohemia: A Czech History*. Princeton University Press, 1998.
-[^45]: Pynsent, Robert B. *Questions of Identity: Czech and Slovak Ideas of Nationality and Personality*. Central European University Press, 1994.
-[^46]: Agnew, Hugh LeCaine. *The Czechs and the Lands of the Bohemian Crown*. Hoover Institution Press, 2004.
-[^47]: Corti, Egon Caesar, and Hans Sokol. *Kaiser Franz Joseph*. Verlag Styria, 1960.
-[^48]: Wawro, Geoffrey. *A Mad Catastrophe: The Outbreak of World War I and the Collapse of the Habsburg Empire*. Basic Books, 2014.
-[^49]: Cornwall, Mark, ed. *The Last Years of Austria-Hungary: A Multi-National Experiment in Early Twentieth-Century Europe*. University of Exeter Press, 2002.
-[^50]: Unowsky, Daniel L. *The Pomp and Politics of Patriotism: Imperial Celebrations in Habsburg Austria, 1848-1916*. Purdue University Press, 2005.
-[^51]: Telesko, Werner. *Geschichtsraum Österreich: Die Habsburger und ihre Geschichte in der bildenden Kunst des 19. Jahrhunderts*. Böhlau Verlag, 2006.
-[^52]: Mazohl-Wallnig, Brigitte. *Österreichischer Verwaltungsstaat und administrative Eliten im Königreich Lombardo-Venetien 1815-1859*. Philipp Von Zabern, 1993.
-[^53]: Barany, George. *Stephen Széchenyi and the Awakening of Hungarian Nationalism, 1791-1841*. Princeton University Press, 1968.
-[^54]: Álvarez, Luis Fernández. *The Spanish Habsburgs: Rise and Decline*. Peter Lang, 2004.
-[^55]: Alvarez, Gonzalo, Francisco C. Ceballos, and Celsa Quinteiro. "The Role of Inbreeding in the Extinction of a European Royal Dynasty." *PLoS ONE* 4, no. 4 (2009): e5174.
-[^56]: Ceballos, Francisco C., and Gonzalo Alvarez. "Royal Dynasties as Human Inbreeding Laboratories: The Habsburgs." *Heredity* 111, no. 2 (2013): 114-121.
-[^57]: King, Jeremy. *Budweisers into Czechs and Germans: A Local History of Bohemian Politics, 1848-1948*. Princeton University Press, 2002.
-[^58]: Steed, Henry Wickham. *The Habsburg Monarchy*. Constable & Company, 1913.
-[^59]: Helfert, Joseph Alexander Freiherr von. *Geschichte der österreichischen Revolution*. Freiburg im Breisgau, 1907.
-[^60]: Sked, Alan. *Metternich and Austria: An Evaluation*. Palgrave Macmillan, 2008.
-[^61]: Sked, Alan. *Radetzky: Imperial Victor and Military Genius*. I.B. Tauris, 2011.
-[^62]: Kučera, Rudolf. *Život na Pražském hradě za Ferdinanda I*. Historický ústav, 1998.
-[^63]: Dowe, Dieter, ed. *Europe in 1848: Revolution and Reform*. Berghahn Books, 2001.
-[^64]: Rapport, Mike. *1848: Year of Revolution*. Basic Books, 2008.
-[^65]: Wolfsgruber, Cölestin. *Franz Joseph I, Kaiser von Österreich, König von Ungarn*. Wilhelm Braumüller, 1898.
-[^66]: Zöllner, Erich. *Geschichte Österreichs: Von den Anfängen bis zur Gegenwart*. Verlag für Geschichte und Politik, 1990.
-[^67]: Wandruszka, Adam, and Peter Urbanitsch, eds. *Die Habsburgermonarchie 1848-1918*. Verlag der Österreichischen Akademie der Wissenschaften, 1973-2010.
-[^68]: Urban, Otto. *Die tschechische Gesellschaft 1848 bis 1918*. Böhlau Verlag, 1994.
-[^69]: Péter, László. *Hungary's Long Nineteenth Century: Constitutional and Democratic Traditions in European Perspective*. Brill, 2012.
-[^70]: Namier, Lewis B. *1848: The Revolution of the Intellectuals*. Oxford University Press, 1946.
-[^71]: Stadelmann, Rudolf. *Soziale und politische Geschichte der Revolution von 1848*. Verlag F. Bruckmann, 1948.
-[^72]: Treue, Wilhelm. *Wirtschaftsgeschichte der Neuzeit*. Alfred Kröner Verlag, 1962.
-[^73]: Bettelheim, Anton. *Biographisches Jahrbuch und deutscher Nekrolog*. Georg Reimer, 1897.
-[^74]: Winkler, Heinrich August. *Germany: The Long Road West, 1789-1933*. Oxford University Press, 2006.
-[^75]: Kořalka, Jiří. *Tschechen im Habsburgerreich und in Europa 1815-1914*. Oldenbourg Wissenschaftsverlag, 1991.
-[^76]: Häusler, Wolfgang. *Von der Massenarmut zur Arbeiterbewegung: Demokratie und soziale Frage in der Wiener Revolution von 1848*. Verlag für Geschichte und Politik, 1979.
-[^77]: Kiszling, Rudolf. *Fürst Felix zu Schwarzenberg*. Verlag Herold, 1952.
-[^78]: Corti, Egon Caesar. *Mensch und Herrscher: Wege und Schicksale Kaiser Franz Josephs I zwischen Thronbesteigung und Berliner Kongress*. Styria Verlag, 1952.
-[^79]: Friedjung, Heinrich. *Österreich von 1848 bis 1860*. J. G. Cotta, 1908-1912.
-[^80]: Spira, György. *A Hungarian Count in the Revolution of 1848*. Corvina, 1974.
-[^81]: Denis, Ernest. *La Bohême depuis la Montagne Blanche*. E. Leroux, 1903.
-[^82]: Bibl, Viktor. *Kaiser Franz: Der letzte römisch-deutsche Kaiser*. Rikola Verlag, 1924.
+[^1]: Sked, Alan. _The Decline and Fall of the Habsburg Empire, 1815-1918_. Longman, 1989.
+
+[^2]: Palmer, Alan. _Twilight of the Habsburgs: The Life and Times of Emperor Francis Joseph_. Grove Press, 1994.
+
+[^3]: Wandruszka, Adam. _The House of Habsburg: Six Hundred Years of a European Dynasty_. Greenwood Press, 1975.
+
+[^4]: Crankshaw, Edward. _The Fall of the House of Habsburg_. Viking Press, 1963.
+
+[^5]: Wheatcroft, Andrew. _The Habsburgs: Embodying Empire_. Viking, 1995.
+
+[^6]: Evans, R.J.W. _Austria, Hungary, and the Habsburgs: Essays on Central Europe, c.1683-1867_. Oxford University Press, 2006.
+
+[^7]: Macartney, C.A. _The Habsburg Empire, 1790-1918_. Macmillan, 1968.
+
+[^8]: Judson, Pieter M. _The Habsburg Empire: A New History_. Harvard University Press, 2016.
+
+[^9]: Metternich, Richard, ed. _Memoirs of Prince Metternich_. Vol. 5. Harper & Brothers, 1881.
+
+[^10]: Siemann, Wolfram. _Metternich: Strategist and Visionary_. Harvard University Press, 2019.
+
+[^11]: Srbik, Heinrich Ritter von. _Metternich: Der Staatsmann und der Mensch_. F. Bruckmann, 1925.
+
+[^12]: Deák, István. _The Lawful Revolution: Louis Kossuth and the Hungarians, 1848-1849_. Columbia University Press, 1979.
+
+[^13]: Kontler, László. _A History of Hungary_. Palgrave Macmillan, 2002.
+
+[^14]: Sperber, Jonathan. _The European Revolutions, 1848-1851_. Cambridge University Press, 1994.
+
+[^15]: Rath, R. John. _The Viennese Revolution of 1848_. University of Texas Press, 1957.
+
+[^16]: Robertson, Priscilla. _Revolutions of 1848: A Social History_. Princeton University Press, 1952.
+
+[^17]: Taylor, A.J.P. _The Habsburg Monarchy, 1809-1918_. Hamish Hamilton, 1948.
+
+[^18]: Turnock, David. _An Historical Geography of Railways of the Great Britain and Ireland_. Ashgate, 1998.
+
+[^19]: Turnock, David. _The Economy of East Central Europe, 1815-1989_. Routledge, 2006.
+
+[^20]: Schorske, Carl E. _Fin-de-Siècle Vienna: Politics and Culture_. Knopf, 1980.
+
+[^21]: Ogris, Werner. "The Habsburg Legacy: National Identity in Historical Perspective." _Austrian History Yearbook_ 3 (1967): 131-149.
+
+[^22]: Corti, Egon Caesar. _Vom Kind zum Kaiser: Kindheit und erste Jugend Kaiser Franz Josephs I. und seiner Geschwister_. Verlag Styria, 1950.
+
+[^23]: Redlich, Joseph. _Emperor Francis Joseph of Austria_. Macmillan, 1929.
+
+[^24]: Kann, Robert A. _A History of the Habsburg Empire, 1526-1918_. University of California Press, 1974.
+
+[^25]: Kissinger, Henry. _A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812-1822_. Houghton Mifflin, 1957.
+
+[^26]: Schroeder, Paul W. _Metternich's Diplomacy at Its Zenith, 1820-1823_. University of Texas Press, 1962.
+
+[^27]: Bruckmüller, Ernst. _The Austrian Nation: Cultural Consciousness and Socio-Political Processes_. Riverside, 2003.
+
+[^28]: Stourzh, Gerald. _Der Umfang der österreichischen Geschichte_. Böhlau Verlag, 2011.
+
+[^29]: Reinerman, Alan J. _Austria and the Papacy in the Age of Metternich_. Catholic University of America Press, 1979.
+
+[^30]: Sheehan, James J. _German History, 1770-1866_. Oxford University Press, 1989.
+
+[^31]: Blackbourn, David. _The Long Nineteenth Century: A History of Germany, 1780-1918_. Oxford University Press, 1997.
+
+[^32]: Komlos, John. _The Habsburg Monarchy as a Customs Union: Economic Development in Austria-Hungary in the Nineteenth Century_. Princeton University Press, 1983.
+
+[^33]: Kann, Robert A. _The Multinational Empire: Nationalism and National Reform in the Habsburg Monarchy 1848-1918_. 2 vols. Columbia University Press, 1950.
+
+[^34]: Okey, Robin. _The Habsburg Monarchy: From Enlightenment to Eclipse_. St. Martin's Press, 2001.
+
+[^35]: Good, David F. _The Economic Rise of the Habsburg Empire, 1750-1914_. University of California Press, 1984.
+
+[^36]: Deak, István. _Beyond Nationalism: A Social and Political History of the Habsburg Officer Corps, 1848-1918_. Oxford University Press, 1990.
+
+[^37]: Hamerow, Theodore S. _Restoration, Revolution, Reaction: Economics and Politics in Germany, 1815-1871_. Princeton University Press, 1958.
+
+[^38]: Constant, Stephen. _Foxy Ferdinand, 1861-1948: Tsar of Bulgaria_. Sidgwick & Jackson, 1979.
+
+[^39]: Hamann, Brigitte. _The Reluctant Empress_. Knopf, 1986.
+
+[^40]: Beller, Steven. _Francis Joseph_. Longman, 1996.
+
+[^41]: Hamann, Brigitte. _Rudolf: Crown Prince and Rebel_. Scribner, 1984.
+
+[^42]: Brook-Shepherd, Gordon. _The Austrians: A Thousand-Year Odyssey_. HarperCollins, 1996.
+
+[^43]: Unterreiner, Katrin. _Emperor Franz Joseph 1830-1916: Myth and Truth_. Christian Brandstätter Verlag, 2006.
+
+[^44]: Sayer, Derek. _The Coasts of Bohemia: A Czech History_. Princeton University Press, 1998.
+
+[^45]: Pynsent, Robert B. _Questions of Identity: Czech and Slovak Ideas of Nationality and Personality_. Central European University Press, 1994.
+
+[^46]: Agnew, Hugh LeCaine. _The Czechs and the Lands of the Bohemian Crown_. Hoover Institution Press, 2004.
+
+[^47]: Corti, Egon Caesar, and Hans Sokol. _Kaiser Franz Joseph_. Verlag Styria, 1960.
+
+[^48]: Wawro, Geoffrey. _A Mad Catastrophe: The Outbreak of World War I and the Collapse of the Habsburg Empire_. Basic Books, 2014.
+
+[^49]: Cornwall, Mark, ed. _The Last Years of Austria-Hungary: A Multi-National Experiment in Early Twentieth-Century Europe_. University of Exeter Press, 2002.
+
+[^50]: Unowsky, Daniel L. _The Pomp and Politics of Patriotism: Imperial Celebrations in Habsburg Austria, 1848-1916_. Purdue University Press, 2005.
+
+[^51]: Telesko, Werner. _Geschichtsraum Österreich: Die Habsburger und ihre Geschichte in der bildenden Kunst des 19. Jahrhunderts_. Böhlau Verlag, 2006.
+
+[^52]: Mazohl-Wallnig, Brigitte. _Österreichischer Verwaltungsstaat und administrative Eliten im Königreich Lombardo-Venetien 1815-1859_. Philipp Von Zabern, 1993.
+
+[^53]: Barany, George. _Stephen Széchenyi and the Awakening of Hungarian Nationalism, 1791-1841_. Princeton University Press, 1968.
+
+[^54]: Álvarez, Luis Fernández. _The Spanish Habsburgs: Rise and Decline_. Peter Lang, 2004.
+
+[^55]: Alvarez, Gonzalo, Francisco C. Ceballos, and Celsa Quinteiro. "The Role of Inbreeding in the Extinction of a European Royal Dynasty." _PLoS ONE_ 4, no. 4 (2009): e5174.
+
+[^56]: Ceballos, Francisco C., and Gonzalo Alvarez. "Royal Dynasties as Human Inbreeding Laboratories: The Habsburgs." _Heredity_ 111, no. 2 (2013): 114-121.
+
+[^57]: King, Jeremy. _Budweisers into Czechs and Germans: A Local History of Bohemian Politics, 1848-1948_. Princeton University Press, 2002.
+
+[^58]: Steed, Henry Wickham. _The Habsburg Monarchy_. Constable & Company, 1913.
+
+[^59]: Helfert, Joseph Alexander Freiherr von. _Geschichte der österreichischen Revolution_. Freiburg im Breisgau, 1907.
+
+[^60]: Sked, Alan. _Metternich and Austria: An Evaluation_. Palgrave Macmillan, 2008.
+
+[^61]: Sked, Alan. _Radetzky: Imperial Victor and Military Genius_. I.B. Tauris, 2011.
+
+[^62]: Kučera, Rudolf. _Život na Pražském hradě za Ferdinanda I_. Historický ústav, 1998.
+
+[^63]: Dowe, Dieter, ed. _Europe in 1848: Revolution and Reform_. Berghahn Books, 2001.
+
+[^64]: Rapport, Mike. _1848: Year of Revolution_. Basic Books, 2008.
+
+[^65]: Wolfsgruber, Cölestin. _Franz Joseph I, Kaiser von Österreich, König von Ungarn_. Wilhelm Braumüller, 1898.
+
+[^66]: Zöllner, Erich. _Geschichte Österreichs: Von den Anfängen bis zur Gegenwart_. Verlag für Geschichte und Politik, 1990.
+
+[^67]: Wandruszka, Adam, and Peter Urbanitsch, eds. _Die Habsburgermonarchie 1848-1918_. Verlag der Österreichischen Akademie der Wissenschaften, 1973-2010.
+
+[^68]: Urban, Otto. _Die tschechische Gesellschaft 1848 bis 1918_. Böhlau Verlag, 1994.
+
+[^69]: Péter, László. _Hungary's Long Nineteenth Century: Constitutional and Democratic Traditions in European Perspective_. Brill, 2012.
+
+[^70]: Namier, Lewis B. _1848: The Revolution of the Intellectuals_. Oxford University Press, 1946.
+
+[^71]: Stadelmann, Rudolf. _Soziale und politische Geschichte der Revolution von 1848_. Verlag F. Bruckmann, 1948.
+
+[^72]: Treue, Wilhelm. _Wirtschaftsgeschichte der Neuzeit_. Alfred Kröner Verlag, 1962.
+
+[^73]: Bettelheim, Anton. _Biographisches Jahrbuch und deutscher Nekrolog_. Georg Reimer, 1897.
+
+[^74]: Winkler, Heinrich August. _Germany: The Long Road West, 1789-1933_. Oxford University Press, 2006.
+
+[^75]: Kořalka, Jiří. _Tschechen im Habsburgerreich und in Europa 1815-1914_. Oldenbourg Wissenschaftsverlag, 1991.
+
+[^76]: Häusler, Wolfgang. _Von der Massenarmut zur Arbeiterbewegung: Demokratie und soziale Frage in der Wiener Revolution von 1848_. Verlag für Geschichte und Politik, 1979.
+
+[^77]: Kiszling, Rudolf. _Fürst Felix zu Schwarzenberg_. Verlag Herold, 1952.
+
+[^78]: Corti, Egon Caesar. _Mensch und Herrscher: Wege und Schicksale Kaiser Franz Josephs I zwischen Thronbesteigung und Berliner Kongress_. Styria Verlag, 1952.
+
+[^79]: Friedjung, Heinrich. _Österreich von 1848 bis 1860_. J. G. Cotta, 1908-1912.
+
+[^80]: Spira, György. _A Hungarian Count in the Revolution of 1848_. Corvina, 1974.
+
+[^81]: Denis, Ernest. _La Bohême depuis la Montagne Blanche_. E. Leroux, 1903.
+
+[^82]: Bibl, Viktor. _Kaiser Franz: Der letzte römisch-deutsche Kaiser_. Rikola Verlag, 1924.

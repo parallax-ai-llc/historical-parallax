@@ -49,7 +49,7 @@ John II's most significant domestic achievement was the dramatic reassertion of 
 
 The ceremony was perceived as humiliating by members of the upper nobility who were accustomed to the feudal tradition of acknowledging the king as simply first among equals.[^32] Each oath was recorded, signed, and witnessed, and at the conclusion, the royal orator spoke asserting that a subject's duty was "total obedience," describing the king as comparable to a Roman emperor or ancient Persian monarch.[^33] John further enraged nobles by declaring that property title deeds would undergo examination to ensure their validity, rather than being confirmed en masse.[^34]
 
-John's ability to subdue the nobility later earned him recognition as "the perfect prince," a ruler who embodied the political qualities Niccolò Machiavelli described in *The Prince*.[^35] By successfully enriching the Crown through executing or exiling most of Portugal's feudal lords and confiscating their estates, John established a strong centralized monarchy that would serve Portugal well during the Age of Exploration.[^36]
+John's ability to subdue the nobility later earned him recognition as "the perfect prince," a ruler who embodied the political qualities Niccolò Machiavelli described in _The Prince_.[^35] By successfully enriching the Crown through executing or exiling most of Portugal's feudal lords and confiscating their estates, John established a strong centralized monarchy that would serve Portugal well during the Age of Exploration.[^36]
 
 ### Advancement of Maritime Exploration
 
@@ -123,7 +123,7 @@ John never enjoyed robust health and suffered from considerable stress throughou
 
 John II died of dropsy (edema, likely caused by heart or kidney disease) at Alvor in the province of Algarve on October 25, 1495, at the age of forty.[^109][^110] After the ratification of the Tordesillas treaty, he felt unwell and, suspecting poisoning by aristocratic opponents, traveled south to Monchique to take the waters before moving to Alvor, where he died within a week of falling ill.[^111][^112] He was initially interred at Silves Cathedral, but his remains were transferred to the Monastery of Batalha in 1499.[^113] Tragically, his tomb at Batalha is now empty, as Napoleonic soldiers under Marshal Masséna threw away the bones during the French invasion.[^114]
 
-John II is remembered primarily for consolidating royal power in Portugal and is regarded as one of the greatest Portuguese rulers.[^115] Some historians consider him the "greatest" monarch in Portuguese history.[^116] The posthumous nickname "the Perfect Prince" was intended to refer to Niccolò Machiavelli's work *The Prince*, as John II is considered to have lived his life exactly according to the writer's idea of a perfect prince.[^117]
+John II is remembered primarily for consolidating royal power in Portugal and is regarded as one of the greatest Portuguese rulers.[^115] Some historians consider him the "greatest" monarch in Portuguese history.[^116] The posthumous nickname "the Perfect Prince" was intended to refer to Niccolò Machiavelli's work _The Prince_, as John II is considered to have lived his life exactly according to the writer's idea of a perfect prince.[^117]
 
 His impact on Portuguese exploration was transformative. John restored the policies of Atlantic exploration, reviving and broadening the work of his great-uncle Henry the Navigator.[^118] The discoveries during his reign—the Congo River, the rounding of the Cape of Good Hope, and the foundation of strategic trading posts—laid the essential groundwork for Portugal's maritime empire.[^119] Vasco da Gama's successful voyage to India in 1498, just three years after John's death, was the direct result of John's systematic investment in navigation science and exploration.[^120]
 
@@ -161,36 +161,36 @@ Finally, critics note that John's health problems and early death at forty may h
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1455 | Born March 3 in Lisbon to King Afonso V and Isabella of Coimbra |
-| 1455 | Declared legitimate heir to the crown at one month old (June 25) |
-| 1471 | Fought at the conquest of Asilah in Morocco and was knighted |
-| 1471 | Married Eleanor of Viseu (January 22) |
-| 1474 | Given control of "trade of Guinea" and African explorations by Afonso V |
-| 1475 | Appointed regent during the Castilian succession crisis; son Afonso born (May) |
-| 1476 | Distinguished himself at the Battle of Toro (March) |
-| 1477 | Became co-ruler with his father after Afonso V's brief abdication (September) |
-| 1479 | Played major role in negotiating the Treaty of Alcáçovas with Spain |
+| Year | Event                                                                                      |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 1455 | Born March 3 in Lisbon to King Afonso V and Isabella of Coimbra                            |
+| 1455 | Declared legitimate heir to the crown at one month old (June 25)                           |
+| 1471 | Fought at the conquest of Asilah in Morocco and was knighted                               |
+| 1471 | Married Eleanor of Viseu (January 22)                                                      |
+| 1474 | Given control of "trade of Guinea" and African explorations by Afonso V                    |
+| 1475 | Appointed regent during the Castilian succession crisis; son Afonso born (May)             |
+| 1476 | Distinguished himself at the Battle of Toro (March)                                        |
+| 1477 | Became co-ruler with his father after Afonso V's brief abdication (September)              |
+| 1479 | Played major role in negotiating the Treaty of Alcáçovas with Spain                        |
 | 1481 | Became King of Portugal upon his father's death (August 28), crowned at Sintra (August 31) |
-| 1481 | Summoned Cortes at Évora and imposed oath of obedience on nobility (November) |
-| 1482 | Foundation of São Jorge da Mina fortress in West Africa |
-| 1483 | Had Fernando, Duke of Braganza, publicly beheaded for treason (June) |
-| 1483 | Invited Martin Behaim to join his council on navigation |
-| 1484 | Appointed Junta dos Mathematicos (Maritime Advisory Committee) |
-| 1484 | Diogo Cão discovered the Congo River |
-| 1484 | Personally stabbed Duke of Viseu to death for conspiracy |
-| 1484 | Christopher Columbus's proposal rejected by Portuguese experts |
-| 1488 | Bartolomeu Dias rounded the Cape of Good Hope (returned December) |
-| 1491 | Only legitimate son Prince Afonso died in horse-riding accident (July) |
-| 1492 | Spanish Jews expelled to Portugal; John charged entrance fees and enslaved many |
-| 1492 | Founded Hospital Real de Todos-os-Santos in Lisbon |
-| 1493 | Deported hundreds of Jewish children to São Tomé |
-| 1493 | Protested Pope's award of Columbus's discoveries to Spain |
-| 1494 | Successfully negotiated Treaty of Tordesillas with Spain (June 7) |
-| 1495 | Recognized Manuel as heir in his will (September) |
-| 1495 | Died of dropsy at Alvor (October 25) at age forty |
-| 1499 | Remains transferred to Monastery of Batalha |
+| 1481 | Summoned Cortes at Évora and imposed oath of obedience on nobility (November)              |
+| 1482 | Foundation of São Jorge da Mina fortress in West Africa                                    |
+| 1483 | Had Fernando, Duke of Braganza, publicly beheaded for treason (June)                       |
+| 1483 | Invited Martin Behaim to join his council on navigation                                    |
+| 1484 | Appointed Junta dos Mathematicos (Maritime Advisory Committee)                             |
+| 1484 | Diogo Cão discovered the Congo River                                                       |
+| 1484 | Personally stabbed Duke of Viseu to death for conspiracy                                   |
+| 1484 | Christopher Columbus's proposal rejected by Portuguese experts                             |
+| 1488 | Bartolomeu Dias rounded the Cape of Good Hope (returned December)                          |
+| 1491 | Only legitimate son Prince Afonso died in horse-riding accident (July)                     |
+| 1492 | Spanish Jews expelled to Portugal; John charged entrance fees and enslaved many            |
+| 1492 | Founded Hospital Real de Todos-os-Santos in Lisbon                                         |
+| 1493 | Deported hundreds of Jewish children to São Tomé                                           |
+| 1493 | Protested Pope's award of Columbus's discoveries to Spain                                  |
+| 1494 | Successfully negotiated Treaty of Tordesillas with Spain (June 7)                          |
+| 1495 | Recognized Manuel as heir in his will (September)                                          |
+| 1495 | Died of dropsy at Alvor (October 25) at age forty                                          |
+| 1499 | Remains transferred to Monastery of Batalha                                                |
 
 ---
 
@@ -211,150 +211,297 @@ While specific quotations are scarce, John's actions spoke volumes about his phi
 ## References
 
 [^1]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^2]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^3]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^4]: Britannica. "Treaty of Tordesillas | Summary, Definition, Map, & Facts." https://www.britannica.com/event/Treaty-of-Tordesillas
+
 [^5]: Algarve History Association. "D. João II - Royal murderer and tyrant, or perfect prince?" https://algarvehistoryassociation.com/en/portuguese-history/portugal/123-d-joao-ii-royal-murderer-and-tyrant-or-perfect-prince
+
 [^6]: Medievalists.net. "King João II of Portugal 'O Príncipe Perfeito' and the Jews (1481-1495)." https://www.medievalists.net/2012/09/king-joao-ii-of-portugal-o-principe-perfeito-and-the-jews-1481-1495/
+
 [^7]: Prabook. "John II of Portugal (March 3, 1455 — October 25, 1495), Portuguese king." https://prabook.com/web/john_ii.of_portugal/1344060
+
 [^8]: Kiddle. "Learn John II of Portugal facts for kids." https://kids.kiddle.co/John_II_of_Portugal
+
 [^9]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^10]: EBSCO Research. "John II | Research Starters." https://www.ebsco.com/research-starters/history/john-ii
+
 [^11]: Academic Kids. "John II of Portugal." https://academickids.com/encyclopedia/index.php/John_II_of_Portugal
+
 [^12]: Lisbon.vip. "King John (João) II of Portugal." https://www.lisbon.vip/lisbon-essentials/history-heritage/king-john-joao-ii-of-portugal
+
 [^13]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^14]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^15]: Wikipedia. "Eleanor of Viseu." https://en.wikipedia.org/wiki/Eleanor_of_Viseu
+
 [^16]: Explained Today. "John II of Portugal explained." http://www.explained.today/John_II_of_Portugal/
+
 [^17]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^18]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^19]: Academia-Lab. "John II of Portugal." https://academia-lab.com/encyclopedia/john-ii-of-portugal/
+
 [^20]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^21]: Explained Today. "John II of Portugal explained." http://www.explained.today/John_II_of_Portugal/
+
 [^22]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^23]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^24]: Wikipedia. "Eleanor of Viseu." https://en.wikipedia.org/wiki/Eleanor_of_Viseu
+
 [^25]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^26]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^27]: Encyclopedia.com. "João II of Portugal (1466–1495)." https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/joao-ii-portugal-1466-1495
+
 [^28]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^29]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^30]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^31]: EBSCO Research. "John II | Research Starters." https://www.ebsco.com/research-starters/history/john-ii
+
 [^32]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^33]: Algarve History Association. "D. João II - Royal murderer and tyrant, or perfect prince?" https://algarvehistoryassociation.com/en/portuguese-history/portugal/123-d-joao-ii-royal-murderer-and-tyrant-or-perfect-prince
+
 [^34]: Portugal Resident. "D João II (1455-1481–1495)." https://www.portugalresident.com/d-joao-ii-1455-1481-1495/
+
 [^35]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^36]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^37]: Kiddle. "Learn John II of Portugal facts for kids." https://kids.kiddle.co/John_II_of_Portugal
+
 [^38]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^39]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^40]: Lisbon.vip. "King John (João) II of Portugal." https://www.lisbon.vip/lisbon-essentials/history-heritage/king-john-joao-ii-of-portugal
+
 [^41]: Britannica. "Martin Behaim | Explorer, Cartographer, Navigator." https://www.britannica.com/biography/Martin-Behaim
+
 [^42]: Encyclopedia.com. "Martin Behaim." https://www.encyclopedia.com/people/science-and-technology/geography-biographies/martin-behaim
+
 [^43]: Wikipedia. "Martin Behaim." https://en.wikipedia.org/wiki/Martin_Behaim
+
 [^44]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^45]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^46]: The Map as History. "Portuguese Exploration of the African coastline." https://www.the-map-as-history.com/Age-of-Discovery/portuguese-exploration-of-the-african-coastline
+
 [^47]: Wikipedia. "Bartolomeu Dias." https://en.wikipedia.org/wiki/Bartolomeu_Dias
+
 [^48]: Britannica. "Bartolomeu Dias | Biography, Voyage, Significance, Accomplishments, Areas Explored, Death, & Facts." https://www.britannica.com/biography/Bartolomeu-Dias
+
 [^49]: EBSCO Research. "Bartolomeu Dias Rounds the Cape of Good Hope | Research Starters." https://www.ebsco.com/research-starters/history/bartolomeu-dias-rounds-cape-good-hope
+
 [^50]: Biography.com. "Bartolomeu Dias: Biography, Expedition of the Cape of Good Hope." https://www.biography.com/history-culture/bartolomeu-dias
+
 [^51]: Wikipedia. "Vasco da Gama." https://en.wikipedia.org/wiki/Vasco_da_Gama
+
 [^52]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^53]: Britannica. "Treaty of Tordesillas | Summary, Definition, Map, & Facts." https://www.britannica.com/event/Treaty-of-Tordesillas
+
 [^54]: Geographic Pedia. "Why did the king of Portugal refuse to help Columbus?" https://www.ncesc.com/geographic-pedia/why-did-the-king-of-portugal-refuse-to-help-columbus/
+
 [^55]: EHNE. "Treaty of Tordesillas, June 7, 1494." https://ehne.fr/en/encyclopedia/themes/international-relations/europe-and-legal-regulation-international-relations/treaty-tordesillas-june-7-1494
+
 [^56]: Wikipedia. "Treaty of Tordesillas." https://en.wikipedia.org/wiki/Treaty_of_Tordesillas
+
 [^57]: American History Central. "Treaty of Tordesillas | Age of Exploration." https://www.americanhistorycentral.com/entries/treaty-of-tordesillas/
+
 [^58]: Mexico Historico. "Portugal and the Treaty of Tordesillas: Shaping the New World." https://www.mexicohistorico.com/paginas/portugal-and-the-treaty-of-tordesillas-shaping-the-new-world-dd65eb26.html
+
 [^59]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^60]: Lisbon.vip. "King John (João) II of Portugal." https://www.lisbon.vip/lisbon-essentials/history-heritage/king-john-joao-ii-of-portugal
+
 [^61]: Life of Portugal. "King John II." https://lifeofportugal.weebly.com/king-john-ii.html
+
 [^62]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^63]: Wikipedia. "Hospital Real de Todos-os-Santos." https://en.wikipedia.org/wiki/Hospital_Real_de_Todos-os-Santos
+
 [^64]: CHAM. "All Saints Royal Hospital: the city and public health." https://cham.fcsh.unl.pt/en/projects-detail.php?p=2236
+
 [^65]: Visit Lisboa. "The Vanished Royal Hospital of All Saints in Rossio." https://www.visitlisboa.com/en/p/only-in-lisbon/the-vanished-royal-hospital-of-all-saints-in-rossio
+
 [^66]: Springer. "Health, Architecture, and Urban Identity: The Hospital Real de Todos-os-Santos in Sixteenth-Century Lisbon." https://link.springer.com/chapter/10.1007/978-981-19-7851-7_2
+
 [^67]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^68]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^69]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^70]: Academic Kids. "John II of Portugal." https://academickids.com/encyclopedia/index.php/John_II_of_Portugal
+
 [^71]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^72]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^73]: Wikipedia. "Diogo, Duke of Viseu." https://en.wikipedia.org/wiki/Diogo,_Duke_of_Viseu
+
 [^74]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^75]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^76]: Encyclopedia.com. "Power and Patronage: Columbus's Search for Financial Support." https://www.encyclopedia.com/history/news-wires-white-papers-and-books/power-and-patronage-columbuss-search-financial-support
+
 [^77]: Geographic Pedia. "Why did the king of Portugal refuse to help Columbus?" https://www.ncesc.com/geographic-pedia/why-did-the-king-of-portugal-refuse-to-help-columbus/
+
 [^78]: Wikipedia. "Voyages of Christopher Columbus." https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus
+
 [^79]: Religious Studies Center. "Years In Portugal: Emergence of the Grand Idea." https://rsc.byu.edu/christopher-columbus-latter-day-saint-perspective/years-portugal-emergence-grand-idea
+
 [^80]: Geographic Pedia. "Why did the king of Portugal refuse to help Columbus?" https://www.ncesc.com/geographic-pedia/why-did-the-king-of-portugal-refuse-to-help-columbus/
+
 [^81]: TheCollector. "Christopher Columbus: Who Funded His Epic 1492 Voyage?" https://www.thecollector.com/who-funded-christopher-columbus-voyages/
+
 [^82]: Encyclopedia.com. "Power and Patronage: Columbus's Search for Financial Support." https://www.encyclopedia.com/history/news-wires-white-papers-and-books/power-and-patronage-columbuss-search-financial-support
+
 [^83]: Geographic Pedia. "Why did the king of Portugal refuse to help Columbus?" https://www.ncesc.com/geographic-pedia/why-did-the-king-of-portugal-refuse-to-help-columbus/
+
 [^84]: My Jewish Learning. "How Spain and Portugal Expelled Their Jews." https://www.myjewishlearning.com/article/jewish-expulsion-from-portugal/
+
 [^85]: Wikipedia. "History of the Jews in Portugal." https://en.wikipedia.org/wiki/History_of_the_Jews_in_Portugal
+
 [^86]: Jewish Wikipedia. "jewish expulsion from spain to portugal, 1492." https://www.jewishwikipedia.info/1492.html
+
 [^87]: Aish. "The Underground Railroad of Portuguese Jews." https://aish.com/the-underground-railroad-of-portuguese-jews/
+
 [^88]: Wikipedia. "History of the Jews in Portugal." https://en.wikipedia.org/wiki/History_of_the_Jews_in_Portugal
+
 [^89]: My Jewish Learning. "How Spain and Portugal Expelled Their Jews." https://www.myjewishlearning.com/article/jewish-expulsion-from-portugal/
+
 [^90]: Jewish Wikipedia. "jewish expulsion from spain to portugal, 1492." https://www.jewishwikipedia.info/1492.html
+
 [^91]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^92]: Medievalists.net. "King João II of Portugal 'O Príncipe Perfeito' and the Jews (1481-1495)." https://www.medievalists.net/2012/09/king-joao-ii-of-portugal-o-principe-perfeito-and-the-jews-1481-1495/
+
 [^93]: Wikipedia. "Eleanor of Viseu." https://en.wikipedia.org/wiki/Eleanor_of_Viseu
+
 [^94]: Explained Today. "John II of Portugal explained." http://www.explained.today/John_II_of_Portugal/
+
 [^95]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^96]: Prabook. "John II of Portugal (March 3, 1455 — October 25, 1495), Portuguese king." https://prabook.com/web/john_ii.of_portugal/1344060
+
 [^97]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^98]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^99]: Monastery of Batalha. "Founder's Chapel." http://www.mosteirobatalha.gov.pt/en/index.php?s=white&pid=226&identificador=bt1312_en
+
 [^100]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^101]: Algarve History Association. "D. João II - Royal murderer and tyrant, or perfect prince?" https://algarvehistoryassociation.com/en/portuguese-history/portugal/123-d-joao-ii-royal-murderer-and-tyrant-or-perfect-prince
+
 [^102]: Academia-Lab. "John II of Portugal." https://academia-lab.com/encyclopedia/john-ii-of-portugal/
+
 [^103]: Algarve History Association. "D. João II - Royal murderer and tyrant, or perfect prince?" https://algarvehistoryassociation.com/en/portuguese-history/portugal/123-d-joao-ii-royal-murderer-and-tyrant-or-perfect-prince
+
 [^104]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^105]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^106]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^107]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^108]: Life of Portugal. "King John II." https://lifeofportugal.weebly.com/king-john-ii.html
+
 [^109]: Prabook. "John II of Portugal (March 3, 1455 — October 25, 1495), Portuguese king." https://prabook.com/web/john_ii.of_portugal/1344060
+
 [^110]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^111]: Explained Today. "John II of Portugal explained." http://www.explained.today/John_II_of_Portugal/
+
 [^112]: Academia-Lab. "John II of Portugal." https://academia-lab.com/encyclopedia/john-ii-of-portugal/
+
 [^113]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^114]: Monastery of Batalha. "Founder's Chapel." http://www.mosteirobatalha.gov.pt/en/index.php?s=white&pid=226&identificador=bt1312_en
+
 [^115]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^116]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^117]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^118]: Lisbon.vip. "King John (João) II of Portugal." https://www.lisbon.vip/lisbon-essentials/history-heritage/king-john-joao-ii-of-portugal
+
 [^119]: DayHist. "John II of Portugal: A Legacy of Strength and Exploration." https://dayhist.com/persons/john-ii-portugal-legacy
+
 [^120]: Wikipedia. "Vasco da Gama." https://en.wikipedia.org/wiki/Vasco_da_Gama
+
 [^121]: Lisbon.vip. "King John (João) II of Portugal." https://www.lisbon.vip/lisbon-essentials/history-heritage/king-john-joao-ii-of-portugal
+
 [^122]: Wikipedia. "Hospital Real de Todos-os-Santos." https://en.wikipedia.org/wiki/Hospital_Real_de_Todos-os-Santos
+
 [^123]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^124]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^125]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^126]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^127]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^128]: Lisbon.vip. "King John (João) II of Portugal." https://www.lisbon.vip/lisbon-essentials/history-heritage/king-john-joao-ii-of-portugal
+
 [^129]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^130]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^131]: Life of Portugal. "King John II." https://lifeofportugal.weebly.com/king-john-ii.html
+
 [^132]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^133]: Britannica. "John II | King of Portugal, Age of Discovery Ruler." https://www.britannica.com/biography/John-II-king-of-Portugal
+
 [^134]: Wikipedia. "Diogo, Duke of Viseu." https://en.wikipedia.org/wiki/Diogo,_Duke_of_Viseu
+
 [^135]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal
+
 [^136]: Medievalists.net. "King João II of Portugal 'O Príncipe Perfeito' and the Jews (1481-1495)." https://www.medievalists.net/2012/09/king-joao-ii-of-portugal-o-principe-perfeito-and-the-jews-1481-1495/
+
 [^137]: Jewish Wikipedia. "jewish expulsion from spain to portugal, 1492." https://www.jewishwikipedia.info/1492.html
+
 [^138]: Grokipedia. "John II of Portugal." https://grokipedia.com/page/John_II_of_Portugal
+
 [^139]: Geographic Pedia. "Why did the king of Portugal refuse to help Columbus?" https://www.ncesc.com/geographic-pedia/why-did-the-king-of-portugal-refuse-to-help-columbus/
+
 [^140]: Encyclopedia.com. "Power and Patronage: Columbus's Search for Financial Support." https://www.encyclopedia.com/history/news-wires-white-papers-and-books/power-and-patronage-columbuss-search-financial-support
+
 [^141]: Algarve History Association. "D. João II - Royal murderer and tyrant, or perfect prince?" https://algarvehistoryassociation.com/en/portuguese-history/portugal/123-d-joao-ii-royal-murderer-and-tyrant-or-perfect-prince
+
 [^142]: Academia-Lab. "John II of Portugal." https://academia-lab.com/encyclopedia/john-ii-of-portugal/
+
 [^143]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^144]: Explained Today. "John II of Portugal explained." http://www.explained.today/John_II_of_Portugal/
+
 [^145]: Algarve History Association. "D. João II - Royal murderer and tyrant, or perfect prince?" https://algarvehistoryassociation.com/en/portuguese-history/portugal/123-d-joao-ii-royal-murderer-and-tyrant-or-perfect-prince
+
 [^146]: Wikipedia. "John II of Portugal." https://en.wikipedia.org/wiki/John_II_of_Portugal
+
 [^147]: Geographic Pedia. "Why did the king of Portugal refuse to help Columbus?" https://www.ncesc.com/geographic-pedia/why-did-the-king-of-portugal-refuse-to-help-columbus/
+
 [^148]: Encyclopedia.com. "John II (Portugal)." https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/john-ii-portugal

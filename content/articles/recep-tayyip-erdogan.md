@@ -141,31 +141,31 @@ Scholars studying authoritarianism place Erdoğan in the context of a global wav
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1954 | Born in Kasımpaşa, Istanbul on February 26 |
-| 1973 | Graduated from İmam Hatip religious school |
-| 1978 | Married Emine Gülbaran |
-| 1981 | Graduated from Marmara University Faculty of Economics |
-| 1984 | Joined Welfare Party, became Beyoğlu district chair |
-| 1994 | Elected Mayor of Istanbul |
-| 1998 | Imprisoned for reciting religious poem; banned from politics |
-| 2001 | Co-founded Justice and Development Party (AKP) |
-| 2002 | AKP won parliamentary elections with Erdoğan as leader |
-| 2003 | Became Prime Minister after political ban lifted |
-| 2005 | Opened EU accession negotiations |
-| 2007 | AKP won second election victory; Ergenekon trials began |
-| 2010 | Constitutional referendum passed, reducing military power |
-| 2011 | AKP won third consecutive election with 50% of vote |
-| 2013 | Gezi Park protests erupted; corruption scandal emerged |
-| 2014 | Elected President in first direct presidential election |
-| 2015 | Peace process with PKK collapsed; renewed Kurdish conflict |
-| 2016 | Survived coup attempt on July 15; launched massive purge |
+| Year | Event                                                           |
+| ---- | --------------------------------------------------------------- |
+| 1954 | Born in Kasımpaşa, Istanbul on February 26                      |
+| 1973 | Graduated from İmam Hatip religious school                      |
+| 1978 | Married Emine Gülbaran                                          |
+| 1981 | Graduated from Marmara University Faculty of Economics          |
+| 1984 | Joined Welfare Party, became Beyoğlu district chair             |
+| 1994 | Elected Mayor of Istanbul                                       |
+| 1998 | Imprisoned for reciting religious poem; banned from politics    |
+| 2001 | Co-founded Justice and Development Party (AKP)                  |
+| 2002 | AKP won parliamentary elections with Erdoğan as leader          |
+| 2003 | Became Prime Minister after political ban lifted                |
+| 2005 | Opened EU accession negotiations                                |
+| 2007 | AKP won second election victory; Ergenekon trials began         |
+| 2010 | Constitutional referendum passed, reducing military power       |
+| 2011 | AKP won third consecutive election with 50% of vote             |
+| 2013 | Gezi Park protests erupted; corruption scandal emerged          |
+| 2014 | Elected President in first direct presidential election         |
+| 2015 | Peace process with PKK collapsed; renewed Kurdish conflict      |
+| 2016 | Survived coup attempt on July 15; launched massive purge        |
 | 2017 | Constitutional referendum narrowly approved presidential system |
-| 2018 | Re-elected President under new system with expanded powers |
-| 2019 | AKP lost Istanbul and Ankara in local elections |
-| 2023 | Won presidential election against unified opposition |
-| 2024 | Local elections saw further opposition gains in major cities |
+| 2018 | Re-elected President under new system with expanded powers      |
+| 2019 | AKP lost Istanbul and Ankara in local elections                 |
+| 2023 | Won presidential election against unified opposition            |
+| 2024 | Local elections saw further opposition gains in major cities    |
 
 ---
 
@@ -187,137 +187,270 @@ Scholars studying authoritarianism place Erdoğan in the context of a global wav
 
 ## References
 
-[^1]: Çağaptay, Soner. *The New Sultan: Erdogan and the Crisis of Modern Turkey*. I.B. Tauris, 2017, pp. 15-17.
-[^2]: Taşpınar, Ömer. "Turkey: The New Model?" *Brookings Institution*, 2012.
-[^3]: Yavuz, M. Hakan. *Islamic Political Identity in Turkey*. Oxford University Press, 2003, pp. 234-236.
-[^4]: "Profile: Turkey's Charismatic Pro-Islamic Leader." *BBC News*, November 4, 2002.
-[^5]: Jenkins, Gareth. "Continuity and Change: Prospects for Civil-Military Relations in Turkey." *International Affairs*, vol. 83, no. 2, 2007, pp. 339-355.
-[^6]: Turam, Berna. "National Loyalties and International Undertakings: Turkish Islam and the Gülen Movement." *Middle Eastern Studies*, vol. 43, no. 6, 2007, pp. 833-849.
-[^7]: Zürcher, Erik J. *Turkey: A Modern History*. I.B. Tauris, 2004, pp. 267-279.
-[^8]: Heper, Metin, and Şule Toktaş. "Islam, Modernity, and Democracy in Contemporary Turkey: The Case of Recep Tayyip Erdoğan." *Muslim World*, vol. 93, no. 2, 2003, pp. 157-185.
-[^9]: White, Jenny B. *Islamist Mobilization in Turkey: A Study in Vernacular Politics*. University of Washington Press, 2002, pp. 189-201.
-[^10]: Özbudun, Ergun. "From Political Islam to Conservative Democracy: The Case of the Justice and Development Party in Turkey." *South European Society and Politics*, vol. 11, no. 3-4, 2006, pp. 543-557.
-[^11]: Keyder, Çağlar. "The Housing Market from Informal to Global." *Istanbul: Between the Global and the Local*, Rowman & Littlefield, 1999, pp. 143-159.
-[^12]: "Turkish Mayor Jailed for Poem." *BBC News*, September 21, 1998.
-[^13]: Eligür, Banu. *The Mobilization of Political Islam in Turkey*. Cambridge University Press, 2010, pp. 256-258.
-[^14]: Hale, William, and Ergun Özbudun. *Islamism, Democracy and Liberalism in Turkey: The Case of the AKP*. Routledge, 2009, pp. 12-15.
-[^15]: Dağı, İhsan. "The Justice and Development Party: Identity, Politics, and Discourse of Human Rights in the Search for Security and Legitimacy." *The Emergence of a New Turkey: Democracy and the AK Parti*, University of Utah Press, 2006, pp. 88-106.
-[^16]: "Turkey's Election: A Swamped Elite." *The Economist*, November 7, 2002.
-[^17]: Cizre, Ümit. "Problems of Democratic Governance of Civil-Military Relations in Turkey and the European Union Enlargement Zone." *European Journal of Political Research*, vol. 43, no. 1, 2004, pp. 107-125.
-[^18]: Öniş, Ziya. "Conservative Globalists versus Defensive Nationalists: Political Parties and Paradoxes of Europeanization in Turkey." *Journal of Southern Europe and the Balkans*, vol. 9, no. 3, 2007, pp. 247-261.
-[^19]: Eder, Mine, and Özlem Öz. "The Rise and Decline of the Populist Promise of the AKP." *New Perspectives on Turkey*, vol. 52, 2015, pp. 7-34.
-[^20]: Acemoğlu, Daron, and Murat Ucer. "The Ups and Downs of Turkish Growth, 2002-2015: Political Dynamics, the European Union and the Institutional Slide." *NBER Working Paper* No. 21608, October 2015.
-[^21]: Bozkurt, Umit. "Neoliberalism with a Human Face: Making Sense of the Justice and Development Party's Neoliberal Populism in Turkey." *Science & Society*, vol. 77, no. 3, 2013, pp. 372-396.
-[^22]: "Turkey Opens World's Biggest Airport in Istanbul." *BBC News*, October 29, 2018.
-[^23]: Enlil, Zeynep Merey. "The Neoliberal Agenda and the Changing Urban Form of Istanbul." *International Planning Studies*, vol. 16, no. 1, 2011, pp. 5-25.
-[^24]: Kubicek, Paul. "The European Union and Democratization in Turkey." *Turkish Studies*, vol. 6, no. 1, 2005, pp. 57-75.
-[^25]: Grigoriadis, Ioannis N. "Türk or Turk? The Reform of Turkey's Minority Legislation and the Rediscovery of Ottomanism." *Middle Eastern Studies*, vol. 43, no. 3, 2007, pp. 423-438.
+[^1]: Çağaptay, Soner. _The New Sultan: Erdogan and the Crisis of Modern Turkey_. I.B. Tauris, 2017, pp. 15-17.
+
+[^2]: Taşpınar, Ömer. "Turkey: The New Model?" _Brookings Institution_, 2012.
+
+[^3]: Yavuz, M. Hakan. _Islamic Political Identity in Turkey_. Oxford University Press, 2003, pp. 234-236.
+
+[^4]: "Profile: Turkey's Charismatic Pro-Islamic Leader." _BBC News_, November 4, 2002.
+
+[^5]: Jenkins, Gareth. "Continuity and Change: Prospects for Civil-Military Relations in Turkey." _International Affairs_, vol. 83, no. 2, 2007, pp. 339-355.
+
+[^6]: Turam, Berna. "National Loyalties and International Undertakings: Turkish Islam and the Gülen Movement." _Middle Eastern Studies_, vol. 43, no. 6, 2007, pp. 833-849.
+
+[^7]: Zürcher, Erik J. _Turkey: A Modern History_. I.B. Tauris, 2004, pp. 267-279.
+
+[^8]: Heper, Metin, and Şule Toktaş. "Islam, Modernity, and Democracy in Contemporary Turkey: The Case of Recep Tayyip Erdoğan." _Muslim World_, vol. 93, no. 2, 2003, pp. 157-185.
+
+[^9]: White, Jenny B. _Islamist Mobilization in Turkey: A Study in Vernacular Politics_. University of Washington Press, 2002, pp. 189-201.
+
+[^10]: Özbudun, Ergun. "From Political Islam to Conservative Democracy: The Case of the Justice and Development Party in Turkey." _South European Society and Politics_, vol. 11, no. 3-4, 2006, pp. 543-557.
+
+[^11]: Keyder, Çağlar. "The Housing Market from Informal to Global." _Istanbul: Between the Global and the Local_, Rowman & Littlefield, 1999, pp. 143-159.
+
+[^12]: "Turkish Mayor Jailed for Poem." _BBC News_, September 21, 1998.
+
+[^13]: Eligür, Banu. _The Mobilization of Political Islam in Turkey_. Cambridge University Press, 2010, pp. 256-258.
+
+[^14]: Hale, William, and Ergun Özbudun. _Islamism, Democracy and Liberalism in Turkey: The Case of the AKP_. Routledge, 2009, pp. 12-15.
+
+[^15]: Dağı, İhsan. "The Justice and Development Party: Identity, Politics, and Discourse of Human Rights in the Search for Security and Legitimacy." _The Emergence of a New Turkey: Democracy and the AK Parti_, University of Utah Press, 2006, pp. 88-106.
+
+[^16]: "Turkey's Election: A Swamped Elite." _The Economist_, November 7, 2002.
+
+[^17]: Cizre, Ümit. "Problems of Democratic Governance of Civil-Military Relations in Turkey and the European Union Enlargement Zone." _European Journal of Political Research_, vol. 43, no. 1, 2004, pp. 107-125.
+
+[^18]: Öniş, Ziya. "Conservative Globalists versus Defensive Nationalists: Political Parties and Paradoxes of Europeanization in Turkey." _Journal of Southern Europe and the Balkans_, vol. 9, no. 3, 2007, pp. 247-261.
+
+[^19]: Eder, Mine, and Özlem Öz. "The Rise and Decline of the Populist Promise of the AKP." _New Perspectives on Turkey_, vol. 52, 2015, pp. 7-34.
+
+[^20]: Acemoğlu, Daron, and Murat Ucer. "The Ups and Downs of Turkish Growth, 2002-2015: Political Dynamics, the European Union and the Institutional Slide." _NBER Working Paper_ No. 21608, October 2015.
+
+[^21]: Bozkurt, Umit. "Neoliberalism with a Human Face: Making Sense of the Justice and Development Party's Neoliberal Populism in Turkey." _Science & Society_, vol. 77, no. 3, 2013, pp. 372-396.
+
+[^22]: "Turkey Opens World's Biggest Airport in Istanbul." _BBC News_, October 29, 2018.
+
+[^23]: Enlil, Zeynep Merey. "The Neoliberal Agenda and the Changing Urban Form of Istanbul." _International Planning Studies_, vol. 16, no. 1, 2011, pp. 5-25.
+
+[^24]: Kubicek, Paul. "The European Union and Democratization in Turkey." _Turkish Studies_, vol. 6, no. 1, 2005, pp. 57-75.
+
+[^25]: Grigoriadis, Ioannis N. "Türk or Turk? The Reform of Turkey's Minority Legislation and the Rediscovery of Ottomanism." _Middle Eastern Studies_, vol. 43, no. 3, 2007, pp. 423-438.
+
 [^26]: European Commission. "Regular Report on Turkey's Progress towards Accession." Brussels, 2004.
-[^27]: Kuru, Ahmet T. "Reinterpretation of Secularism in Turkey: The Case of the Justice and Development Party." *The Emergence of a New Turkey*, University of Utah Press, 2006, pp. 136-159.
-[^28]: Jenkins, Gareth. "Between Fact and Fantasy: Turkey's Ergenekon Investigation." *Silk Road Paper*, Central Asia-Caucasus Institute, August 2009.
-[^29]: Rodrik, Dani. "The Plot against the Generals." *Dani Rodrik's Weblog*, September 2014.
-[^30]: Davutoğlu, Ahmet. "Turkey's Foreign Policy Vision: An Assessment of 2007." *Insight Turkey*, vol. 10, no. 1, 2008, pp. 77-96.
-[^31]: Altunışık, Meliha Benli. "The Possibilities and Limits of Turkey's Soft Power in the Middle East." *Insight Turkey*, vol. 10, no. 2, 2008, pp. 41-54.
-[^32]: Tatar, Murat, et al. "Systematic Review of the Emerging Health Care Issues in Turkey." *Health Policy*, vol. 106, no. 1, 2012, pp. 16-24.
-[^33]: Buğra, Ayşe, and Çağlar Keyder. "The Turkish Welfare Regime in Transformation." *Journal of European Social Policy*, vol. 16, no. 3, 2006, pp. 211-228.
-[^34]: Esen, Berk, and Şebnem Gümüşçü. "Rising Competitive Authoritarianism in Turkey." *Third World Quarterly*, vol. 37, no. 9, 2016, pp. 1581-1606.
-[^35]: Özbudun, Ergun. "Turkey's Search for a New Constitution." *Insight Turkey*, vol. 14, no. 1, 2012, pp. 39-50.
+
+[^27]: Kuru, Ahmet T. "Reinterpretation of Secularism in Turkey: The Case of the Justice and Development Party." _The Emergence of a New Turkey_, University of Utah Press, 2006, pp. 136-159.
+
+[^28]: Jenkins, Gareth. "Between Fact and Fantasy: Turkey's Ergenekon Investigation." _Silk Road Paper_, Central Asia-Caucasus Institute, August 2009.
+
+[^29]: Rodrik, Dani. "The Plot against the Generals." _Dani Rodrik's Weblog_, September 2014.
+
+[^30]: Davutoğlu, Ahmet. "Turkey's Foreign Policy Vision: An Assessment of 2007." _Insight Turkey_, vol. 10, no. 1, 2008, pp. 77-96.
+
+[^31]: Altunışık, Meliha Benli. "The Possibilities and Limits of Turkey's Soft Power in the Middle East." _Insight Turkey_, vol. 10, no. 2, 2008, pp. 41-54.
+
+[^32]: Tatar, Murat, et al. "Systematic Review of the Emerging Health Care Issues in Turkey." _Health Policy_, vol. 106, no. 1, 2012, pp. 16-24.
+
+[^33]: Buğra, Ayşe, and Çağlar Keyder. "The Turkish Welfare Regime in Transformation." _Journal of European Social Policy_, vol. 16, no. 3, 2006, pp. 211-228.
+
+[^34]: Esen, Berk, and Şebnem Gümüşçü. "Rising Competitive Authoritarianism in Turkey." _Third World Quarterly_, vol. 37, no. 9, 2016, pp. 1581-1606.
+
+[^35]: Özbudun, Ergun. "Turkey's Search for a New Constitution." _Insight Turkey_, vol. 14, no. 1, 2012, pp. 39-50.
+
 [^36]: Gözler, Kemal. "Türk Anayasa Hukuku" [Turkish Constitutional Law]. Ekin Kitabevi, 2018, pp. 412-425.
-[^37]: Esen, Berk, and Şebnem Gümüşçü. "Building a Competitive Authoritarian Regime: State-Business Relations in the AKP's Turkey." *Journal of Balkan and Near Eastern Studies*, vol. 20, no. 4, 2018, pp. 349-372.
-[^38]: Göle, Nilüfer. "Gezi - Anatomy of a Public Square Movement." *Insight Turkey*, vol. 15, no. 3, 2013, pp. 7-14.
+
+[^37]: Esen, Berk, and Şebnem Gümüşçü. "Building a Competitive Authoritarian Regime: State-Business Relations in the AKP's Turkey." _Journal of Balkan and Near Eastern Studies_, vol. 20, no. 4, 2018, pp. 349-372.
+
+[^38]: Göle, Nilüfer. "Gezi - Anatomy of a Public Square Movement." _Insight Turkey_, vol. 15, no. 3, 2013, pp. 7-14.
+
 [^39]: Amnesty International. "Gezi Park Protests: Brutal Denial of the Right to Peaceful Assembly in Turkey." October 2013.
-[^40]: Reporters Without Borders. "Turkey: World's Biggest Prison for Journalists." *Press Freedom Index*, 2018.
-[^41]: "Turkey Purge." *Turkish Purge Database*, https://turkeypurge.com, accessed 2025.
-[^42]: Yeşil, Bilge. "Authoritarian Turn or Democratic Backsliding?: Understanding the Reconfiguration of the Turkish Media." *South European Society and Politics*, vol. 23, no. 2, 2018, pp. 197-217.
+
+[^40]: Reporters Without Borders. "Turkey: World's Biggest Prison for Journalists." _Press Freedom Index_, 2018.
+
+[^41]: "Turkey Purge." _Turkish Purge Database_, https://turkeypurge.com, accessed 2025.
+
+[^42]: Yeşil, Bilge. "Authoritarian Turn or Democratic Backsliding?: Understanding the Reconfiguration of the Turkish Media." _South European Society and Politics_, vol. 23, no. 2, 2018, pp. 197-217.
+
 [^43]: Freedom House. "Freedom of the Press 2017: Turkey." Washington, DC, 2017.
-[^44]: Kadercan, Burak. "The Turkish Military's July 15 Coup Attempt." *Armed Forces & Society*, vol. 44, no. 4, 2018, pp. 706-728.
-[^45]: Tol, Gönül. "Erdogan's Autocracy: Beyond the Failed Coup." *Cipher Brief*, July 14, 2017.
+
+[^44]: Kadercan, Burak. "The Turkish Military's July 15 Coup Attempt." _Armed Forces & Society_, vol. 44, no. 4, 2018, pp. 706-728.
+
+[^45]: Tol, Gönül. "Erdogan's Autocracy: Beyond the Failed Coup." _Cipher Brief_, July 14, 2017.
+
 [^46]: Human Rights Watch. "Turkey: Academics Jailed in Post-Coup Purge." May 2018.
+
 [^47]: European Commission. "Turkey 2018 Report." Brussels, April 2018.
-[^48]: Güneş, Cengiz. "The Kurdish National Movement and the Struggle for Meaningful Autonomy." *Kurdish Politics in the Middle East*, Routledge, 2012, pp. 43-58.
+
+[^48]: Güneş, Cengiz. "The Kurdish National Movement and the Struggle for Meaningful Autonomy." _Kurdish Politics in the Middle East_, Routledge, 2012, pp. 43-58.
+
 [^49]: Saeed, Seevan. "Kurdish Politics in Turkey: From the PKK to the KCK." Routledge, 2017, pp. 178-192.
+
 [^50]: International Crisis Group. "Turkey's PKK Conflict: A Regional Overview." Europe Report No. 244, September 2016.
+
 [^51]: Amnesty International. "Detained Turkish Opposition Leader Selahattin Demirtaş Must Be Released." November 2018.
-[^52]: Leiner, Peter. "Turkey's Lira Crisis: How Did It Come to This?" *Deutsche Welle*, August 13, 2018.
+
+[^52]: Leiner, Peter. "Turkey's Lira Crisis: How Did It Come to This?" _Deutsche Welle_, August 13, 2018.
+
 [^53]: Erdoğan, Recep Tayyip. Interview with Bloomberg. May 15, 2019.
+
 [^54]: World Bank. "Turkey Economic Monitor." December 2024.
-[^55]: "Turkey Replaces Central Bank Chief in Latest Reshuffle." *Financial Times*, March 20, 2021.
-[^56]: "Turkey's Corruption Scandal." *The Economist*, December 26, 2013.
-[^57]: Taştekin, Fehim. "How Erdoğan's Crackdown Helped Bury the Corruption Scandal." *Al-Monitor*, December 2014.
-[^58]: "Turkish Parliament Backs Erdoğan Immunity Bill." *BBC News*, May 20, 2016.
+
+[^55]: "Turkey Replaces Central Bank Chief in Latest Reshuffle." _Financial Times_, March 20, 2021.
+
+[^56]: "Turkey's Corruption Scandal." _The Economist_, December 26, 2013.
+
+[^57]: Taştekin, Fehim. "How Erdoğan's Crackdown Helped Bury the Corruption Scandal." _Al-Monitor_, December 2014.
+
+[^58]: "Turkish Parliament Backs Erdoğan Immunity Bill." _BBC News_, May 20, 2016.
+
 [^59]: Stockholm Centre for Freedom. "President Erdoğan's Wealth and Family Business Interests." Report, 2020.
-[^60]: "Emine Erdoğan: Turkey's Influential First Lady." *Al Jazeera*, August 10, 2014.
-[^61]: White, Jenny B. "Turks in the New Germany." *American Anthropologist*, vol. 99, no. 4, 1997, pp. 754-769.
-[^62]: Arsu, Şebnem. "The Woman Behind the Man." *New York Times*, July 30, 2007.
-[^63]: "Turkey's Albayrak Resigns as Finance Minister, Citing Health." *Reuters*, November 9, 2020.
-[^64]: Cagaptay, Soner. "Erdoğan's Empire of Corruption." *Foreign Policy*, January 15, 2019.
-[^65]: "Sümeyye Erdoğan: Stepping into the Spotlight." *BBC Turkish Service*, March 2018.
-[^66]: Özkırımlı, Umut, and Spyros A. Sofos. "Contested Memories and Conflictual Histories." *Tormented by History*, Columbia University Press, 2008, pp. 156-178.
-[^67]: Yavuz, M. Hakan, and Bayram Balcı. *Turkey's July 15th Coup: What Happened and Why*. University of Utah Press, 2018, pp. 89-104.
-[^68]: Danforth, Nicholas. "The Empire Strikes Back: How Erdoğan's Ottoman Nostalgia Shapes Turkish Foreign Policy." *War on the Rocks*, November 2016.
-[^69]: Taşpınar, Ömer. "The Decline of Turkish Soft Power." *Brookings Institution*, May 2013.
-[^70]: Interview with former AKP official. Cited in Çağaptay, *The New Sultan*, pp. 143-145.
-[^71]: "Erdoğan's Palace: A Symbol of Turkey's Vanished Democracy." *The Guardian*, October 28, 2014.
-[^72]: "Where Was Erdoğan During Turkey's Failed Coup?" *BBC News*, July 19, 2016.
-[^73]: "At 70, Erdoğan Shows No Signs of Slowing Down." *Al-Monitor*, February 26, 2024.
+
+[^60]: "Emine Erdoğan: Turkey's Influential First Lady." _Al Jazeera_, August 10, 2014.
+
+[^61]: White, Jenny B. "Turks in the New Germany." _American Anthropologist_, vol. 99, no. 4, 1997, pp. 754-769.
+
+[^62]: Arsu, Şebnem. "The Woman Behind the Man." _New York Times_, July 30, 2007.
+
+[^63]: "Turkey's Albayrak Resigns as Finance Minister, Citing Health." _Reuters_, November 9, 2020.
+
+[^64]: Cagaptay, Soner. "Erdoğan's Empire of Corruption." _Foreign Policy_, January 15, 2019.
+
+[^65]: "Sümeyye Erdoğan: Stepping into the Spotlight." _BBC Turkish Service_, March 2018.
+
+[^66]: Özkırımlı, Umut, and Spyros A. Sofos. "Contested Memories and Conflictual Histories." _Tormented by History_, Columbia University Press, 2008, pp. 156-178.
+
+[^67]: Yavuz, M. Hakan, and Bayram Balcı. _Turkey's July 15th Coup: What Happened and Why_. University of Utah Press, 2018, pp. 89-104.
+
+[^68]: Danforth, Nicholas. "The Empire Strikes Back: How Erdoğan's Ottoman Nostalgia Shapes Turkish Foreign Policy." _War on the Rocks_, November 2016.
+
+[^69]: Taşpınar, Ömer. "The Decline of Turkish Soft Power." _Brookings Institution_, May 2013.
+
+[^70]: Interview with former AKP official. Cited in Çağaptay, _The New Sultan_, pp. 143-145.
+
+[^71]: "Erdoğan's Palace: A Symbol of Turkey's Vanished Democracy." _The Guardian_, October 28, 2014.
+
+[^72]: "Where Was Erdoğan During Turkey's Failed Coup?" _BBC News_, July 19, 2016.
+
+[^73]: "At 70, Erdoğan Shows No Signs of Slowing Down." _Al-Monitor_, February 26, 2024.
+
 [^74]: Public health analysis in Turkish media, various sources 2018-2025.
-[^75]: Aytaç, S. Erdem, and Ziya Öniş. "The AKP's Authoritarian Turn and Polarization in Turkey." *The Politics of Emotional Shockwaves*, Palgrave Macmillan, 2019, pp. 135-158.
-[^76]: Çınar, Alev. *Modernity, Islam, and Secularism in Turkey*. University of Minnesota Press, 2005, pp. 187-203.
-[^77]: Özyürek, Esra. "The Politics of Cultural Unification and the Remaking of an Islam for Everyone." *Nostalgia for the Modern*, Duke University Press, 2006, pp. 112-139.
-[^78]: Özbudun, Ergun, and Ömer Faruk Gençkaya. *Democratization and the Politics of Constitution-Making in Turkey*. Central European University Press, 2009, pp. 78-92.
+
+[^75]: Aytaç, S. Erdem, and Ziya Öniş. "The AKP's Authoritarian Turn and Polarization in Turkey." _The Politics of Emotional Shockwaves_, Palgrave Macmillan, 2019, pp. 135-158.
+
+[^76]: Çınar, Alev. _Modernity, Islam, and Secularism in Turkey_. University of Minnesota Press, 2005, pp. 187-203.
+
+[^77]: Özyürek, Esra. "The Politics of Cultural Unification and the Remaking of an Islam for Everyone." _Nostalgia for the Modern_, Duke University Press, 2006, pp. 112-139.
+
+[^78]: Özbudun, Ergun, and Ömer Faruk Gençkaya. _Democratization and the Politics of Constitution-Making in Turkey_. Central European University Press, 2009, pp. 78-92.
+
 [^79]: Esen and Gümüşçü, "Rising Competitive Authoritarianism," pp. 1594-1600.
-[^80]: Sözen, Yunus. "Judicial Independence in Turkey during the AK Party Era." *Turkish Studies*, vol. 20, no. 5, 2019, pp. 678-699.
-[^81]: Öniş, Ziya, and Fikret Şenses. "Turkey and the Global Economy." *Turkey and the Global Economy*, Routledge, 2009, pp. 1-28.
-[^82]: Balaban, Osman. "The Negative Effects of Construction Boom on Urban Planning and Environment in Turkey." *Habitat International*, vol. 36, no. 1, 2012, pp. 26-46.
+
+[^80]: Sözen, Yunus. "Judicial Independence in Turkey during the AK Party Era." _Turkish Studies_, vol. 20, no. 5, 2019, pp. 678-699.
+
+[^81]: Öniş, Ziya, and Fikret Şenses. "Turkey and the Global Economy." _Turkey and the Global Economy_, Routledge, 2009, pp. 1-28.
+
+[^82]: Balaban, Osman. "The Negative Effects of Construction Boom on Urban Planning and Environment in Turkey." _Habitat International_, vol. 36, no. 1, 2012, pp. 26-46.
+
 [^83]: Acemoğlu and Ucer, "Ups and Downs of Turkish Growth," pp. 38-42.
-[^84]: Aydıntaşbaş, Aslı. "A New Foreign Policy for a New Era in Turkey." *European Council on Foreign Relations*, March 2020.
-[^85]: Barkey, Henri J. "Turkey's Syria Predicament." *Survival*, vol. 56, no. 6, 2014, pp. 113-134.
-[^86]: Flanagan, Stephen J. "The Turkey-Russia-Iran Nexus." *CSIS Report*, January 2020.
-[^87]: Yankaya, Dilek. "The Islamist Moderation in Turkey." *Middle East Report*, vol. 246, 2008, pp. 18-21.
-[^88]: Öncü, Ayşe. "Packaging Islam: Cultural Politics on the Landscape of Turkish Commercial Television." *Public Culture*, vol. 8, no. 1, 1995, pp. 51-71.
-[^89]: Çarkoğlu, Ali, and Ersin Kalaycıoğlu. *The Rising Tide of Conservatism in Turkey*. Palgrave Macmillan, 2009, pp. 156-178.
-[^90]: Cavatorta, Francesco, and Luca Tomini. "Islamism after the Arab Uprisings." *Middle East Critique*, vol. 24, no. 3, 2015, pp. 213-226.
-[^91]: Bengio, Ofra. "Surprising Ties between Israel and the Kurds." *Middle East Quarterly*, Summer 2014, pp. 35-42.
-[^92]: Levitsky, Steven, and Lucan A. Way. "The Rise of Competitive Authoritarianism." *Journal of Democracy*, vol. 13, no. 2, 2002, pp. 51-65.
-[^93]: Ahmad, Feroz. *The Making of Modern Turkey*. Routledge, 1993, pp. 213-227.
-[^94]: Navaro-Yashin, Yael. *Faces of the State: Secularism and Public Life in Turkey*. Princeton University Press, 2002, pp. 234-256.
-[^95]: Zürcher, *Turkey: A Modern History*, pp. 387-402.
-[^96]: Yavuz, *Islamic Political Identity*, pp. 267-289.
-[^97]: Hale and Özbudun, *Islamism, Democracy and Liberalism*, pp. 67-84.
-[^98]: Heper, Metin. *The State and Kurds in Turkey*. Palgrave Macmillan, 2007, pp. 112-134.
+
+[^84]: Aydıntaşbaş, Aslı. "A New Foreign Policy for a New Era in Turkey." _European Council on Foreign Relations_, March 2020.
+
+[^85]: Barkey, Henri J. "Turkey's Syria Predicament." _Survival_, vol. 56, no. 6, 2014, pp. 113-134.
+
+[^86]: Flanagan, Stephen J. "The Turkey-Russia-Iran Nexus." _CSIS Report_, January 2020.
+
+[^87]: Yankaya, Dilek. "The Islamist Moderation in Turkey." _Middle East Report_, vol. 246, 2008, pp. 18-21.
+
+[^88]: Öncü, Ayşe. "Packaging Islam: Cultural Politics on the Landscape of Turkish Commercial Television." _Public Culture_, vol. 8, no. 1, 1995, pp. 51-71.
+
+[^89]: Çarkoğlu, Ali, and Ersin Kalaycıoğlu. _The Rising Tide of Conservatism in Turkey_. Palgrave Macmillan, 2009, pp. 156-178.
+
+[^90]: Cavatorta, Francesco, and Luca Tomini. "Islamism after the Arab Uprisings." _Middle East Critique_, vol. 24, no. 3, 2015, pp. 213-226.
+
+[^91]: Bengio, Ofra. "Surprising Ties between Israel and the Kurds." _Middle East Quarterly_, Summer 2014, pp. 35-42.
+
+[^92]: Levitsky, Steven, and Lucan A. Way. "The Rise of Competitive Authoritarianism." _Journal of Democracy_, vol. 13, no. 2, 2002, pp. 51-65.
+
+[^93]: Ahmad, Feroz. _The Making of Modern Turkey_. Routledge, 1993, pp. 213-227.
+
+[^94]: Navaro-Yashin, Yael. _Faces of the State: Secularism and Public Life in Turkey_. Princeton University Press, 2002, pp. 234-256.
+
+[^95]: Zürcher, _Turkey: A Modern History_, pp. 387-402.
+
+[^96]: Yavuz, _Islamic Political Identity_, pp. 267-289.
+
+[^97]: Hale and Özbudun, _Islamism, Democracy and Liberalism_, pp. 67-84.
+
+[^98]: Heper, Metin. _The State and Kurds in Turkey_. Palgrave Macmillan, 2007, pp. 112-134.
+
 [^99]: Öniş and Şenses, "Turkey and the Global Economy," pp. 45-62.
+
 [^100]: Buğra and Keyder, "Turkish Welfare Regime," pp. 218-225.
+
 [^101]: Öniş, "Conservative Globalists," pp. 254-258.
+
 [^102]: Davutoğlu, "Turkey's Foreign Policy Vision," pp. 88-91.
+
 [^103]: Altunışık, "Turkey's Soft Power," pp. 47-52.
-[^104]: Kirişci, Kemal. "The Transformation of Turkish Foreign Policy." *New Perspectives on Turkey*, vol. 40, 2009, pp. 29-57.
-[^105]: Tezcür, Güneş Murat. "Prospects for Resolution of the Kurdish Question." *Insight Turkey*, vol. 15, no. 2, 2013, pp. 69-84.
-[^106]: Comparative analysis in Donohue, Laura K. *The Cost of Counterterrorism*. Cambridge University Press, 2008.
-[^107]: Yavuz and Balcı, *Turkey's July 15th Coup*, pp. 145-167.
-[^108]: Göle, Nilüfer. *The Forbidden Modern*. University of Michigan Press, 1996, pp. 89-112.
-[^109]: Saktanber, Ayşe. "We Pray Like You Have Fun: New Islamic Youth in Turkey." *Fragments of Culture*, Duke University Press, 2002, pp. 254-276.
-[^110]: White, *Islamist Mobilization*, pp. 234-251.
-[^111]: Bermek, Serkant. "Turkish Regime Change after the Failed Coup." *Taiwan Journal of Democracy*, vol. 13, no. 2, 2017, pp. 117-143.
-[^112]: Diamond, Larry. "Democratic Regression in Comparative Perspective." *Democratization*, vol. 28, no. 1, 2021, pp. 22-42.
+
+[^104]: Kirişci, Kemal. "The Transformation of Turkish Foreign Policy." _New Perspectives on Turkey_, vol. 40, 2009, pp. 29-57.
+
+[^105]: Tezcür, Güneş Murat. "Prospects for Resolution of the Kurdish Question." _Insight Turkey_, vol. 15, no. 2, 2013, pp. 69-84.
+
+[^106]: Comparative analysis in Donohue, Laura K. _The Cost of Counterterrorism_. Cambridge University Press, 2008.
+
+[^107]: Yavuz and Balcı, _Turkey's July 15th Coup_, pp. 145-167.
+
+[^108]: Göle, Nilüfer. _The Forbidden Modern_. University of Michigan Press, 1996, pp. 89-112.
+
+[^109]: Saktanber, Ayşe. "We Pray Like You Have Fun: New Islamic Youth in Turkey." _Fragments of Culture_, Duke University Press, 2002, pp. 254-276.
+
+[^110]: White, _Islamist Mobilization_, pp. 234-251.
+
+[^111]: Bermek, Serkant. "Turkish Regime Change after the Failed Coup." _Taiwan Journal of Democracy_, vol. 13, no. 2, 2017, pp. 117-143.
+
+[^112]: Diamond, Larry. "Democratic Regression in Comparative Perspective." _Democratization_, vol. 28, no. 1, 2021, pp. 22-42.
+
 [^113]: Esen and Gümüşçü, "Rising Competitive Authoritarianism," pp. 1590-1594.
+
 [^114]: Human Rights Watch. "World Report 2024: Turkey." New York, 2024.
+
 [^115]: Freedom House. "Freedom in the World 2024: Turkey." Washington, DC, 2024.
+
 [^116]: Amnesty International. "Annual Report 2023/24: Turkey." London, 2024.
+
 [^117]: Acemoğlu and Ucer, "Ups and Downs of Turkish Growth," pp. 45-48.
-[^118]: Desai, Padma, and Metin Uyanık. "The Turkish Economy." *Emerging Markets Finance and Trade*, vol. 55, no. 8, 2019, pp. 1689-1709.
+
+[^118]: Desai, Padma, and Metin Uyanık. "The Turkish Economy." _Emerging Markets Finance and Trade_, vol. 55, no. 8, 2019, pp. 1689-1709.
+
 [^119]: Öniş and Şenses, "Turkey and the Global Economy," pp. 134-156.
-[^120]: Navaro-Yashin, *Faces of the State*, pp. 267-289.
-[^121]: Özyürek, Esra. *Being German, Becoming Muslim*. Princeton University Press, 2014, pp. 178-195.
-[^122]: Kandiyoti, Deniz. "Pink Card Blues: Trouble and Strife at the Crossroads of Gender." *Fragments of Culture*, Duke University Press, 2002, pp. 277-293.
-[^123]: Barkey, Henri J. "Turkish Foreign Policy: A Contrarian View." *The Washington Quarterly*, vol. 43, no. 2, 2020, pp. 143-159.
+
+[^120]: Navaro-Yashin, _Faces of the State_, pp. 267-289.
+
+[^121]: Özyürek, Esra. _Being German, Becoming Muslim_. Princeton University Press, 2014, pp. 178-195.
+
+[^122]: Kandiyoti, Deniz. "Pink Card Blues: Trouble and Strife at the Crossroads of Gender." _Fragments of Culture_, Duke University Press, 2002, pp. 277-293.
+
+[^123]: Barkey, Henri J. "Turkish Foreign Policy: A Contrarian View." _The Washington Quarterly_, vol. 43, no. 2, 2020, pp. 143-159.
+
 [^124]: Aydıntaşbaş, "New Foreign Policy," pp. 12-18.
+
 [^125]: Barkey, "Turkey's Syria Predicament," pp. 125-130.
+
 [^126]: Levitsky and Way, "Rise of Competitive Authoritarianism," pp. 55-62.
+
 [^127]: Esen and Gümüşçü, "Building Competitive Authoritarianism," pp. 360-368.
+
 [^128]: Özkırımlı and Sofos, "Contested Memories," pp. 167-174.
+
 [^129]: Cited in multiple sources; originally from 1999 interview, popularized after 2013.
+
 [^130]: Court documents from 1998 trial; poem attributed to Ziya Gökalp.
+
 [^131]: Speech transcript, March 2003, cited in Hale and Özbudun, pp. 78.
+
 [^132]: Public statement, July 2015, cited in International Crisis Group report.
+
 [^133]: Speech at rally, April 2015, widely reported in Turkish and international media.
+
 [^134]: Public address, 2016, cited in Danforth, "Empire Strikes Back."

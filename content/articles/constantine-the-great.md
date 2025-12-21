@@ -211,26 +211,26 @@ Modern scholarship also questions Constantine's understanding of Christianity it
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 272 | Born in Naissus, Moesia Superior (modern Niš, Serbia) on February 27[^1] |
-| 293 | Constantine's father Constantius elevated to Caesar; Constantine sent to Diocletian's court in Nicomedia[^203] |
-| 303 | Diocletian initiates the Great Persecution of Christians; Constantine witnesses the persecutions[^204] |
-| 305 | Diocletian and Maximian abdicate; Constantine's father becomes Augustus of the West[^205] |
-| 306 | Constantius dies at York on July 25; Constantine proclaimed Augustus by the army[^206] |
-| 307 | Constantine marries Fausta, daughter of Emperor Maximian[^207] |
-| 310 | Maximian attempts to overthrow Constantine and is forced to commit suicide[^208] |
-| 312 | Battle of Milvian Bridge on October 28; Constantine defeats Maxentius and controls the Western Empire[^209] |
-| 313 | Constantine and Licinius issue the Edict of Milan, legalizing Christianity throughout the empire[^210] |
-| 316 | Birth of Constantine II, first son with Fausta[^211] |
-| 317 | Birth of Constantius II[^212] |
-| 320 | Birth of Constans[^213] |
-| 324 | Constantine defeats Licinius at Adrianople and Chrysopolis, becoming sole emperor[^214] |
-| 325 | Constantine convenes the First Council of Nicaea to address theological disputes, particularly Arianism[^215] |
-| 326 | Execution of Crispus in May-June; execution of Fausta in July[^216] |
-| 326-328 | Helena's pilgrimage to the Holy Land and alleged discovery of the True Cross[^217] |
-| 330 | Constantinople formally dedicated as the new imperial capital on May 11[^218] |
-| 337 | Constantine falls ill and is baptized shortly before his death on May 22 near Nicomedia[^219] |
+| Year    | Event                                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------------------- |
+| 272     | Born in Naissus, Moesia Superior (modern Niš, Serbia) on February 27[^1]                                       |
+| 293     | Constantine's father Constantius elevated to Caesar; Constantine sent to Diocletian's court in Nicomedia[^203] |
+| 303     | Diocletian initiates the Great Persecution of Christians; Constantine witnesses the persecutions[^204]         |
+| 305     | Diocletian and Maximian abdicate; Constantine's father becomes Augustus of the West[^205]                      |
+| 306     | Constantius dies at York on July 25; Constantine proclaimed Augustus by the army[^206]                         |
+| 307     | Constantine marries Fausta, daughter of Emperor Maximian[^207]                                                 |
+| 310     | Maximian attempts to overthrow Constantine and is forced to commit suicide[^208]                               |
+| 312     | Battle of Milvian Bridge on October 28; Constantine defeats Maxentius and controls the Western Empire[^209]    |
+| 313     | Constantine and Licinius issue the Edict of Milan, legalizing Christianity throughout the empire[^210]         |
+| 316     | Birth of Constantine II, first son with Fausta[^211]                                                           |
+| 317     | Birth of Constantius II[^212]                                                                                  |
+| 320     | Birth of Constans[^213]                                                                                        |
+| 324     | Constantine defeats Licinius at Adrianople and Chrysopolis, becoming sole emperor[^214]                        |
+| 325     | Constantine convenes the First Council of Nicaea to address theological disputes, particularly Arianism[^215]  |
+| 326     | Execution of Crispus in May-June; execution of Fausta in July[^216]                                            |
+| 326-328 | Helena's pilgrimage to the Holy Land and alleged discovery of the True Cross[^217]                             |
+| 330     | Constantinople formally dedicated as the new imperial capital on May 11[^218]                                  |
+| 337     | Constantine falls ill and is baptized shortly before his death on May 22 near Nicomedia[^219]                  |
 
 ---
 
@@ -251,228 +251,453 @@ Modern scholarship also questions Constantine's understanding of Christianity it
 ## References
 
 [^1]: [Constantine the Great - Wikipedia](https://en.wikipedia.org/wiki/Constantine_the_Great)
+
 [^2]: [Constantine I | Biography, Accomplishments, Death, & Facts | Britannica](https://www.britannica.com/biography/Constantine-I-Roman-emperor)
+
 [^3]: [Battle of the Milvian Bridge - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge)
+
 [^4]: [Edict of Milan - Wikipedia](https://en.wikipedia.org/wiki/Edict_of_Milan)
+
 [^5]: [Constantine the Great | Biography, History & Accomplishments | Study.com](https://study.com/academy/lesson/constantine-the-great-accomplishments-quotes.html)
+
 [^6]: [How did the Roman Empire change under Constantine I the Great? | Britannica](https://www.britannica.com/question/How-did-the-Roman-Empire-change-under-Constantine-I-the-Great)
+
 [^7]: [Constantine the Great: The Emperor Who Killed His Family Yet Venerated as a Saint - GreekReporter.com](https://greekreporter.com/2025/12/09/constantine-great-execute-son-wife/)
+
 [^8]: [Controversial Constantine | Christian History Magazine](https://christianhistoryinstitute.org/magazine/article/controversial-constantine)
+
 [^9]: [Constantine I - World History Encyclopedia](https://www.worldhistory.org/Constantine_I/)
+
 [^10]: [Constantine I - Christianity, Life & Death](https://www.biography.com/political-figures/constantine-i)
+
 [^11]: [Constantine The Great Biography - Childhood, Life Achievements & Timeline](https://www.thefamouspeople.com/profiles/constantine-the-great-6577.php)
+
 [^12]: [Helena (c. 255–329) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/helena-c-255-329)
+
 [^13]: [Major Events in the Life of Constantine I | Britannica](https://www.britannica.com/list/major-events-in-the-life-of-constantine-i)
+
 [^14]: [Timeline: Constantine I](https://www.worldhistory.org/timeline/Constantine_I/)
+
 [^15]: [Constantine I summary | Britannica](https://www.britannica.com/summary/Constantine-I-Roman-emperor)
+
 [^16]: [Constantine the Great 285? - 337 AD, the most famous Emperor](https://roman-empire.net/people/emperor-constantine-the-great)
+
 [^17]: [Biography for Kids: Constantine the Great](https://www.ducksters.com/history/ancient_rome/constantine_the_great.php)
+
 [^18]: [CONSTANTINE THE GREAT: a Biography - ROMAN EMPIRE; Freedom of Religion; NEW BYZANTIUM](https://www.new-byzantium.org/Constntne-Bio.html)
+
 [^19]: [Timeline: Constantine the Great | Timetoast](https://www.timetoast.com/timelines/constantine-the-great-3e8badfc-7a2c-4b50-8265-1149a190a670)
+
 [^20]: [Constantine Timeline](https://www.softschools.com/timelines/constantine_timeline/383/)
+
 [^21]: [Timeline: The Life of Constantine I | Timetoast](https://www.timetoast.com/timelines/the-life-of-constantine-i)
+
 [^22]: [Constantine The Great Biography | Biography Online](https://biographyonline.net/military/constantine.html)
+
 [^23]: [Timeline of Humanity | Constantine the Great](https://www.timeline-of-humanity.com/article/constantine-the-great)
+
 [^24]: [History And Culture - Constantine the Great](https://www.historyandculture.org/historic-timelines/ancient-rome-timeline/roman-empire-timeline/constantine-the-great)
+
 [^25]: [The Battle of the Milvian Bridge | Summary, Outcome, & Significance | Britannica](https://www.britannica.com/topic/Battle-of-the-Milvian-Bridge)
+
 [^26]: [The Battle of the Milvian Bridge | History Today](https://www.historytoday.com/archive/battle-milvian-bridge)
+
 [^27]: [What was Constantine's family life like? | Britannica](https://www.britannica.com/question/What-was-Constantines-family-life-like)
+
 [^28]: [Fausta - Wikipedia](https://en.wikipedia.org/wiki/Fausta)
+
 [^29]: [The Battle of Milvian Bridge: Battle for the Western Empire](https://warfarehistorynetwork.com/article/emperor-constantine-the-great/)
+
 [^30]: [Battle of Milvian Bridge | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/military-history-and-science/battle-milvian-bridge)
+
 [^31]: [How Constantine's Victory at The Milvian Bridge Led to the Spread of Christianity | History Hit](https://www.historyhit.com/battle-milvian-bridge/)
+
 [^32]: [Constantine and the Battle at the Milvian Bridge - The Bart Ehrman Blog](https://ehrmanblog.org/constantine-and-the-battle-at-the-milvian-bridge/)
+
 [^33]: [The Battle of Milvian Bridge: The Battle That Brought Christianity to Rome | Ancient Origins](https://www.ancient-origins.net/history-important-events/battle-milvian-bridge-0016932)
+
 [^34]: [Milvian Bridge - 312 AD - The Battle That Changed Everything](https://roman-empire.net/army/milvian-bridge)
+
 [^35]: [Battle of Milvian Bridge | History, Cause & Outcome | Study.com](https://study.com/academy/lesson/battle-milvian-bridge-history-cause-outcome.html)
+
 [^36]: [Stories | Constantine's conversion and the Edict of Milan | Koinesúnē](https://koinesune.com/stories/constantines-conversion-and-the-edict-of-milan)
+
 [^37]: [Constantine I - Christian Emperor, Edict of Milan, Conversion | Britannica](https://www.britannica.com/biography/Constantine-I-Roman-emperor/Commitment-to-Christianity)
+
 [^38]: [Constantine the Great and Christianity - Wikipedia](https://en.wikipedia.org/wiki/Constantine_the_Great_and_Christianity)
+
 [^39]: [Edict of Milan | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/edict-milan)
+
 [^40]: [Edict of Milan | Description, History, & Facts | Britannica](https://www.britannica.com/topic/Edict-of-Milan)
+
 [^41]: [Edict of Milan | History & Proclamation | Study.com](https://study.com/academy/lesson/edict-milan-history-facts.html)
+
 [^42]: [Constantine's Conversion to Christianity - World History Encyclopedia](https://www.worldhistory.org/article/1737/constantines-conversion-to-christianity/)
+
 [^43]: [Constantine the Great: Biography and Notable Achievements - World History Edu](https://worldhistoryedu.com/constantine-biography-and-notable-achievements/)
+
 [^44]: [10 Constantine Accomplishments and Achievements - Have Fun With History](https://www.havefunwithhistory.com/constantine-accomplishments/)
+
 [^45]: [10 Achievements of Constantine I the Great – The Byzantium Blogger](https://byzantium-blogger.blog/2024/06/15/10-achievements-of-constantine-i-the-great/)
+
 [^46]: [Was Constantine really 'Great', or have we believed the lies of a tyrannical despot? - History Skills](https://www.historyskills.com/classroom/ancient-history/was-constantine-great/)
+
 [^47]: [Constantine I The Great (306–337 AD) | UNRV Roman History](https://www.unrv.com/emperors/constantine.php)
+
 [^48]: [Who Was Constantine the Great? Accomplishments & Conversion | TheCollector](https://www.thecollector.com/who-was-constantine-the-great-and-accomplishments/)
+
 [^49]: [Constantine the Great: Who Was Constantine and What Did He Accomplish? | History Cooperative](https://historycooperative.org/constantine/)
+
 [^50]: [Constantine I - Christianization, Edict of Milan, Reunification | Britannica](https://www.britannica.com/biography/Constantine-I-Roman-emperor/Legacy)
+
 [^51]: [How Constantine changed the Roman Empire](https://www.nationalgeographic.com/culture/article/constantine)
+
 [^52]: [Constantine the Great - History for kids](https://www.historyforkids.net/constantine-the-great.html)
+
 [^53]: [Constantine the Great - Memoria Press: Classical Education](https://www.memoriapress.com/articles/constantine-the-great/)
+
 [^54]: [Women in the Age of Constantine - Historical Novel Society](https://historicalnovelsociety.org/women-in-the-age-of-constantine/)
+
 [^55]: [Constantine the Great and his wife Fausta « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/curiosities/constantine-the-great-and-his-wife-fausta/)
+
 [^56]: [Constantine the Great Research Papers - Academia.edu](https://www.academia.edu/Documents/in/Constantine_the_Great)
+
 [^57]: [Constantine the Great: The First Christian Roman Emperor? - Smithsonian Associates](https://smithsonianassociates.org/ticketing/programs/constantine-great)
+
 [^58]: [Sources for the History of Constantine (Chapter 1) - The Cambridge Companion to the Age of Constantine](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-age-of-constantine/sources-for-the-history-of-constantine/27ED25B716A0B60DB416C8F2ACCB3664)
+
 [^59]: [The Roman Revolution of Constantine – Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.11.16/)
+
 [^60]: [Constantine the Great | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/constantine-great)
+
 [^61]: ["Constantine the Great and Christian Imperial Theocracy" by Charles Matson Odahl](https://scholarworks.boisestate.edu/history_facpubs/111/)
+
 [^62]: [Constantine the Great Quotes (Author of Quotes... Ancient Romans)](https://www.goodreads.com/author/quotes/17468830.Constantine_the_Great)
+
 [^63]: [Constantine the Great - Wikiquote](https://en.wikiquote.org/wiki/Constantine_the_Great)
+
 [^64]: [QUOTES BY CONSTANTINE THE GREAT | A-Z Quotes](https://www.azquotes.com/author/44700-Constantine_the_Great)
+
 [^65]: [Constantine the Great Quotes (13 quotes) | Quotes of famous people](https://quotepark.com/authors/constantine-the-great/)
+
 [^66]: [Top 3 Constantine the Great Quotes (2025 Update) - QuoteFancy](https://quotefancy.com/constantine-the-great-quotes)
+
 [^67]: [Constantine Quotes (22 quotes)](https://www.goodreads.com/quotes/tag/constantine)
+
 [^68]: [Top 50 CONSTANTINE THE GREAT quotes and sayings](https://www.inspiringquotes.us/author/1777-constantine-the-great)
+
 [^69]: [Constantine Quotes](https://www.quotes.net/movies/constantine_2448)
+
 [^70]: [Constantine I (272-337), , inspiring quotations, biography, related authors and quotes, and quotes about at Quote.org](https://quote.org/author/constantine_i)
+
 [^71]: [Constantine the Great Quotes - Lib Quotes](https://libquotes.com/constantine-the-great)
+
 [^72]: [Crispus and Fausta](https://www.forumancientcoins.com/dougsmith/feac39cri.html)
+
 [^73]: [Constantine the Great: What Went Wrong?](https://www.birdyslade.com/post/constantine-the-great-what-went-wrong)
+
 [^74]: [The Fates of Fausta and Crispus: an ancient murder mystery? — Ian Ross](http://ianjamesross.com/journal/2018/7/11/the-fates-of-fausta-and-crispus-an-ancient-murder-mystery)
+
 [^75]: [On the Death of the Empress Fausta | Greece & Rome | Cambridge Core](https://www.cambridge.org/core/journals/greece-and-rome/article/on-the-death-of-the-empress-fausta/3CE724703CA80405ACBFBB40EA629FCC)
+
 [^76]: [Controversial Constantine - Christianity Today](https://www.christianitytoday.com/history/issues/issue-27/controversial-constantine.html)
+
 [^77]: Constantine - Heritage History
+
 [^78]: Constantine I - UNRV Roman History
+
 [^79]: Constantine Timeline - Softschools
+
 [^80]: Constantine the Great - World History Encyclopedia
+
 [^81]: Constantine I - Britannica
+
 [^82]: Battle of Milvian Bridge - Ancient Origins
+
 [^83]: Constantine the Great - GreekReporter.com
+
 [^84]: Crispus and Fausta - Forum Ancient Coins
+
 [^85]: Constantine Family Executions - Ian Ross
+
 [^86]: The Death of Empress Fausta - Cambridge Core
+
 [^87]: Constantine Controversies - History Skills
+
 [^88]: Controversial Constantine - Christian History Institute
+
 [^89]: Constantine and Christianity - Wikipedia
+
 [^90]: Constantine Family Life - Britannica
+
 [^91]: Fausta - Wikipedia
+
 [^92]: Constantine Personal Life - Forum Ancient Coins
+
 [^93]: Constantine Great Execute Son Wife - GreekReporter
+
 [^94]: Constantine Familia Murders - Cambridge
+
 [^95]: Constantine Political Violence
+
 [^96]: Constantine Baptism - World History
+
 [^97]: Constantine Conversion Sincerity
+
 [^98]: Constantine Pagan Practices
+
 [^99]: Constantine Religious Ambiguity
+
 [^100]: Constantine Political Motivation
+
 [^101]: Constantine Religious Calculation
+
 [^102]: Constantine Pagan Symbols
+
 [^103]: Council of Nicaea Political Goals
+
 [^104]: Constantine Theological Understanding
+
 [^105]: Constantine Religious Persecution
+
 [^106]: Constantine Arian Controversy
+
 [^107]: Constantine Heresy Suppression
+
 [^108]: Constantine Pagan Temple Closure
+
 [^109]: Constantine Religious Intolerance
+
 [^110]: Licinius Execution
+
 [^111]: Constantine Broken Promises
+
 [^112]: Constantine Authoritarian Rule
+
 [^113]: Gibbon Constantine Assessment
+
 [^114]: Constantine Oriental Despot
+
 [^115]: Constantinian Shift Criticism
+
 [^116]: Constantine Church State Merger
+
 [^117]: Constantine First Marriage Minervina
+
 [^118]: Crispus Birth Mother
+
 [^119]: Constantine Fausta Marriage Political
+
 [^120]: Fausta Age Marriage
+
 [^121]: Constantine Fausta Age Difference
+
 [^122]: Constantine Children Fausta
+
 [^123]: Constantine Sons Succession
+
 [^124]: Helena Augusta Status
+
 [^125]: Constantine Mother Relationship
+
 [^126]: Helena Holy Land Pilgrimage
+
 [^127]: Eusebius Constantine Biography
+
 [^128]: Constantine Christian Portrayal
+
 [^129]: Constantine Pagan Critics
+
 [^130]: Constantine Military Genius
+
 [^131]: Constantine Tactical Brilliance
+
 [^132]: Constantine Family Violence 326
+
 [^133]: Constantine Christianity Transformation
+
 [^134]: Constantine Religious Legacy
+
 [^135]: Edict Milan Impact
+
 [^136]: Constantine Christian Patronage
+
 [^137]: Council Nicaea Legacy
+
 [^138]: Peace of Church Constantine
+
 [^139]: Christianity Spread Constantine
+
 [^140]: Theodosius State Religion
+
 [^141]: Byzantine Culture Constantine
+
 [^142]: Medieval Christian Culture
+
 [^143]: Constantinople Byzantine Capital
+
 [^144]: Constantinople Duration
+
 [^145]: Constantinople Cultural Center
+
 [^146]: Constantine Dynastic Succession
+
 [^147]: Tetrarchy Replacement
+
 [^148]: Constantine Political Model
+
 [^149]: Solidus Gold Standard
+
 [^150]: Constantine Economic Reforms
+
 [^151]: Solidus Stability Duration
+
 [^152]: Solidus Etymology
+
 [^153]: Constantine Medieval Symbol
+
 [^154]: Constantine Monarchical Legitimacy
+
 [^155]: Donation of Constantine Forgery
+
 [^156]: Constantine Orthodox Saint
+
 [^157]: Constantine Equal Apostles
+
 [^158]: Constantine Feast Day
+
 [^159]: Christian Emperor Concept
+
 [^160]: Constantine Political Theory
+
 [^161]: Constantine Imperial Model
+
 [^162]: East West Split Constantine
+
 [^163]: Constantinople Cultural Division
+
 [^164]: Eusebius Constantine Chosen
+
 [^165]: Constantine Moses Parallel
+
 [^166]: Timothy Barnes Constantine
+
 [^167]: Constantine Conversion Sincerity Barnes
+
 [^168]: Barnes Constantine Faith
+
 [^169]: AHM Jones Constantine Assessment
+
 [^170]: Jones Constantine Military
+
 [^171]: Constantine Administrative Genius
+
 [^172]: Charles Odahl Constantine
+
 [^173]: Odahl Constantine State Transformation
+
 [^174]: Constantine Political Balance
+
 [^175]: Constantinople Foundation Vision
+
 [^176]: Constantinople Strategic Genius
+
 [^177]: Averil Cameron Constantinople
+
 [^178]: Constantine Religious Toleration
+
 [^179]: Edict Milan Principle
+
 [^180]: Religious Freedom Constantine
+
 [^181]: Renaissance Anti Constantine
+
 [^182]: Critical Constantine Sources
+
 [^183]: Gibbon Constantine Critique
+
 [^184]: Constantine Degeneration Theory
+
 [^185]: Gibbon Modern Scholarship
+
 [^186]: Burckhardt Constantine
+
 [^187]: Constantine Political Calculator
+
 [^188]: HA Drake Constantine
+
 [^189]: Drake Political Unity Theory
+
 [^190]: Goldsworthy Constantine Executions
+
 [^191]: Constantine Family Murder Character
+
 [^192]: Constantine No Remorse
+
 [^193]: Hauerwas Constantinian Shift
+
 [^194]: Yoder Constantine Corruption
+
 [^195]: Constantine Religious Violence Legacy
+
 [^196]: Constantine Brutality Success
+
 [^197]: Constantine Propaganda
+
 [^198]: Constantine Systematic Elimination
+
 [^199]: Eusebius Cult Personality
+
 [^200]: Constantine Theological Confusion
+
 [^201]: Constantine Superficial Conversion
+
 [^202]: Constantine Church State Precedent
+
 [^203]: Constantine Court Nicomedia
+
 [^204]: Great Persecution 303
+
 [^205]: Diocletian Abdication 305
+
 [^206]: Constantine Proclamation York
+
 [^207]: Constantine Fausta Marriage 307
+
 [^208]: Maximian Death 310
+
 [^209]: Milvian Bridge 312
+
 [^210]: Edict Milan 313
+
 [^211]: Constantine II Birth
+
 [^212]: Constantius II Birth
+
 [^213]: Constans Birth
+
 [^214]: Constantine Sole Emperor 324
+
 [^215]: Council Nicaea 325
+
 [^216]: Executions 326
+
 [^217]: Helena Pilgrimage
+
 [^218]: Constantinople Dedication 330
+
 [^219]: Constantine Death 337
+
 [^220]: In Hoc Signo Vinces
+
 [^221]: Chi Rho Vision
+
 [^222]: Constantine Religious Freedom Quote
+
 [^223]: Edict Milan Quote
+
 [^224]: Religious Toleration Statement
+
 [^225]: Constantine Divine Unity
+
 [^226]: Constantine Theological Disputes Quote

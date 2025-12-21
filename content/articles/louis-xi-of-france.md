@@ -79,7 +79,7 @@ Under the treaty's terms, Louis agreed to pay Edward IV 75,000 crowns upfront on
 
 ### Reputation for Cruelty and Manipulation
 
-Louis XI's historiography has painted him as a paranoid, manipulative, and obsessively pious ruler, though modern scholars argue this is a simplistic portrait undermined by closer examination of historical evidence.[^64] Thomas Basin, the Burgundian chronicler and bishop of Lisieux, called him the "universelle aragne" (universal spider), a man who lived for intrigue and plots.[^65] His reliance on espionage, manipulation, and harsh punishments earned him a reputation for cruelty and paranoia.[^66] Niccolò Machiavelli criticized Louis for his overreliance on Swiss mercenaries in Chapter 13 of *The Prince*, calling him shortsighted and imprudent for abolishing his own infantry in favor of foreign troops.[^67]
+Louis XI's historiography has painted him as a paranoid, manipulative, and obsessively pious ruler, though modern scholars argue this is a simplistic portrait undermined by closer examination of historical evidence.[^64] Thomas Basin, the Burgundian chronicler and bishop of Lisieux, called him the "universelle aragne" (universal spider), a man who lived for intrigue and plots.[^65] His reliance on espionage, manipulation, and harsh punishments earned him a reputation for cruelty and paranoia.[^66] Niccolò Machiavelli criticized Louis for his overreliance on Swiss mercenaries in Chapter 13 of _The Prince_, calling him shortsighted and imprudent for abolishing his own infantry in favor of foreign troops.[^67]
 
 ### The Iron Cages Controversy
 
@@ -93,7 +93,7 @@ Louis XI's fiscal policies generated significant criticism. The amount of the ta
 
 ### Biased Historical Sources
 
-Much of Louis's negative reputation stems from biased contemporary sources. Philippe de Commines, who served Louis XI as a chamberlain and confidential adviser after deserting Charles the Bold in 1472, later composed influential *Mémoires* between 1488-1498.[^77][^78] Ironically, Commines himself was imprisoned in a cage by Charles VIII after Louis's death, and it was Commines who created much of the legend about Louis XI and his cages.[^79] Centuries later, commentators amplified the accounts of Burgundian chroniclers who had every reason to portray Louis negatively.[^80]
+Much of Louis's negative reputation stems from biased contemporary sources. Philippe de Commines, who served Louis XI as a chamberlain and confidential adviser after deserting Charles the Bold in 1472, later composed influential _Mémoires_ between 1488-1498.[^77][^78] Ironically, Commines himself was imprisoned in a cage by Charles VIII after Louis's death, and it was Commines who created much of the legend about Louis XI and his cages.[^79] Centuries later, commentators amplified the accounts of Burgundian chroniclers who had every reason to portray Louis negatively.[^80]
 
 ---
 
@@ -153,7 +153,7 @@ Philippe de Commines, despite contributing to some negative portrayals, is consi
 
 Critics of Louis XI, both contemporary and modern, have focused on his methods and character. His reputation for manipulation, espionage, and harsh treatment of political enemies has persisted across centuries.[^129] The Burgundian chroniclers, particularly Thomas Basin who called him the "universal spider," established a tradition of viewing Louis as fundamentally untrustworthy and cruel.[^130] These chroniclers portrayed him as a man who lived for intrigue and plots rather than noble governance.[^131]
 
-Machiavelli's criticism in *The Prince*, while focused primarily on Louis's military decisions regarding Swiss mercenaries, contributed to a broader perception of Louis as strategically shortsighted despite his tactical cunning.[^132] The significant increase in taxation during his reign - tripling the taille - generated lasting resentment among all social classes and led to immediate rollback of his tax policies after his death.[^133]
+Machiavelli's criticism in _The Prince_, while focused primarily on Louis's military decisions regarding Swiss mercenaries, contributed to a broader perception of Louis as strategically shortsighted despite his tactical cunning.[^132] The significant increase in taxation during his reign - tripling the taille - generated lasting resentment among all social classes and led to immediate rollback of his tax policies after his death.[^133]
 
 The historical assessment has been complicated by what scholars now recognize as biased sources. Legend, fiction, and even some historians have distorted and diminished Louis's reputation, though most modern scholars agree that he deserves a better place in public estimation than he has traditionally received.[^134] The distortion of his legacy was significantly influenced by Burgundian chroniclers who had political motivations to portray him negatively, and later romantic writers who amplified these negative characterizations.[^135]
 
@@ -163,31 +163,31 @@ Despite the ongoing debate about his character and methods, there is broad agree
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1423 | Born on July 3 in Bourges, France |
-| 1429 | Meets Joan of Arc at Loches following her victory at Orléans |
-| 1436 | Marries Margaret Stewart, daughter of King James I of Scotland |
-| 1440 | Participates in the Praguerie rebellion against his father Charles VII |
-| 1445 | First wife Margaret dies childless on August 16 |
-| 1447 | Appointed governor of the Dauphiné |
-| 1451 | Marries Charlotte of Savoy without his father's consent on February 14 |
-| 1456 | Flees to Burgundy to seek refuge with Philip the Good |
-| 1461 | Becomes King of France on July 22 following Charles VII's death |
-| 1464 | Establishes the royal postal system across France |
-| 1465 | Fights the Battle of Montlhéry against the League of the Public Weal on July 16 |
-| 1466 | Issues ordinance encouraging silk industry in Lyon (November 23) |
-| 1467 | Proclaims Notre-Dame de Cléry as the "Royal Chapel" |
-| 1468 | Convenes the Estates-General at Tours (only time during his reign) |
-| 1470 | Establishes printing at the Sorbonne; son Charles VIII born on June 30 |
-| 1472 | Philippe de Commines deserts Charles the Bold to enter Louis's service |
-| 1475 | Negotiates Treaty of Picquigny with Edward IV of England on August 29 |
-| 1477 | Charles the Bold killed at Battle of Nancy on January 5; Louis seizes Burgundian territories |
-| 1480 | Suffers first stroke, beginning period of declining health |
-| 1481 | Inherits Maine, Anjou, and Provence following death of Charles of Maine |
+| Year | Event                                                                                                                    |
+| ---- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1423 | Born on July 3 in Bourges, France                                                                                        |
+| 1429 | Meets Joan of Arc at Loches following her victory at Orléans                                                             |
+| 1436 | Marries Margaret Stewart, daughter of King James I of Scotland                                                           |
+| 1440 | Participates in the Praguerie rebellion against his father Charles VII                                                   |
+| 1445 | First wife Margaret dies childless on August 16                                                                          |
+| 1447 | Appointed governor of the Dauphiné                                                                                       |
+| 1451 | Marries Charlotte of Savoy without his father's consent on February 14                                                   |
+| 1456 | Flees to Burgundy to seek refuge with Philip the Good                                                                    |
+| 1461 | Becomes King of France on July 22 following Charles VII's death                                                          |
+| 1464 | Establishes the royal postal system across France                                                                        |
+| 1465 | Fights the Battle of Montlhéry against the League of the Public Weal on July 16                                          |
+| 1466 | Issues ordinance encouraging silk industry in Lyon (November 23)                                                         |
+| 1467 | Proclaims Notre-Dame de Cléry as the "Royal Chapel"                                                                      |
+| 1468 | Convenes the Estates-General at Tours (only time during his reign)                                                       |
+| 1470 | Establishes printing at the Sorbonne; son Charles VIII born on June 30                                                   |
+| 1472 | Philippe de Commines deserts Charles the Bold to enter Louis's service                                                   |
+| 1475 | Negotiates Treaty of Picquigny with Edward IV of England on August 29                                                    |
+| 1477 | Charles the Bold killed at Battle of Nancy on January 5; Louis seizes Burgundian territories                             |
+| 1480 | Suffers first stroke, beginning period of declining health                                                               |
+| 1481 | Inherits Maine, Anjou, and Provence following death of Charles of Maine                                                  |
 | 1482 | Treaty of Arras confirms French control over Burgundian territories; Saint Francis of Paola arrives at Plessis-lès-Tours |
-| 1483 | Suffers third stroke on August 25; dies on August 30 at Plessis-lès-Tours |
-| 1483 | Queen Charlotte dies on December 1, a few months after Louis |
+| 1483 | Suffers third stroke on August 25; dies on August 30 at Plessis-lès-Tours                                                |
+| 1483 | Queen Charlotte dies on December 1, a few months after Louis                                                             |
 
 ---
 
@@ -210,141 +210,279 @@ Though not Louis's own words, these were reportedly the last words of his first 
 ## References
 
 [^1]: Louis XI - Wikipedia. https://en.wikipedia.org/wiki/Louis_XI
+
 [^2]: Louis XI | King of France, Valois Dynasty, Reformer | Britannica. https://www.britannica.com/biography/Louis-XI
+
 [^3]: Louis XI (July 3, 1423 — August 30, 1483), France king | World Biographical Encyclopedia. https://prabook.com/web/louis.xi/3778827
+
 [^4]: Louis XI | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/louis-xi
+
 [^5]: Medieval and Middle Ages History Timelines - Louis (XI, King of France 1461-1483). https://www.timeref.com/people/louis_xi_king_of_france_1461_1483.htm
+
 [^6]: Louis Xi | Encyclopedia.com. https://www.encyclopedia.com/people/history/french-history-biographies/louis-xi
+
 [^7]: Louis XI of France - Alchetron, The Free Social Encyclopedia. https://alchetron.com/Louis-XI-of-France
+
 [^8]: Louis XI. https://grokipedia.com/page/Louis_XI
+
 [^9]: Louis XI Of France Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/louis-xi-of-france-37630.php
+
 [^10]: Margaret of Scotland (1424–1445) | Encyclopedia.com. https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/margaret-scotland-1424-1445
+
 [^11]: Margaret Stewart, Dauphine of France - Wikipedia. https://en.wikipedia.org/wiki/Margaret_Stewart,_Dauphine_of_France
+
 [^12]: The Poetic Life of Margaret of Scotland, Dauphine of France. https://historytheinterestingbits.com/2025/05/17/the-poetic-life-of-margaret-of-scotland-dauphine-of-france/
+
 [^13]: Louis XI – History… the interesting bits! https://historytheinterestingbits.com/tag/louis-xi/
+
 [^14]: Louis XI of France - World History Edu. https://worldhistoryedu.com/louis-xi-of-france/
+
 [^15]: Praguerie | Encyclopedia.com. https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/praguerie
+
 [^16]: Praguerie - Wikipedia. https://en.wikipedia.org/wiki/Praguerie
+
 [^17]: Praguerie | Nobles, Estates-General, Charles VI | Britannica. https://www.britannica.com/event/Praguerie
+
 [^18]: Louis XI of France: The Universal Spider and Architect of Modern French Monarchy Chronicles of the Crown - The Autodidact Professor. https://autodidactprofessor.com/2025/04/07/louis-xi-of-france-the-universal-spider-and-architect-of-modern-french-monarchy/
+
 [^19]: Louis XI - Centralization, Reforms, Unification | Britannica. https://www.britannica.com/biography/Louis-XI/Domestic-achievements
+
 [^20]: Commonwealth of France's Louis XI. https://archive.schillerinstitute.com/fid_91-96/953_louis-XI.html
+
 [^21]: Charlotte of Savoy - Wikipedia. https://en.wikipedia.org/wiki/Charlotte_of_Savoy
+
 [^22]: Charlotte de Savoy: a virtuous and traditional Queen of France - Olivia Longueville. https://olivialongueville.com/2020/11/12/charlotte-de-savoy-a-virtuous-and-traditional-queen-of-france/
+
 [^23]: Louis XI becomes King of France | History Today. https://www.historytoday.com/archive/louis-xi-becomes-king-france
+
 [^24]: Louis XI | Military Wiki | Fandom. https://military-history.fandom.com/wiki/Louis_XI_of_France
+
 [^25]: Louis XI. https://www.shakespeareandhistory.com/louis-xi.php
+
 [^26]: Louis XI of France | Richard III of England Wiki | Fandom. https://richard-iii-of-england.fandom.com/wiki/Louis_XI_of_France
+
 [^27]: Louis XI's Conspiratorial Reign: Who Was the Universal Spider? | TheCollector. https://www.thecollector.com/louis-xi-king-france-universal-spider/
+
 [^28]: Louis XI Definition - AP European History Key Term | Fiveable. https://fiveable.me/key-terms/ap-euro/louis-xi
+
 [^29]: Learn Louis XI facts for kids. https://kids.kiddle.co/Louis_XI
+
 [^30]: Louis XI of Valois (1461–1483). https://www.mdpi.com/2673-8392/2/2/69
+
 [^31]: Economic history of France - Wikipedia. https://en.wikipedia.org/wiki/Economic_history_of_France
+
 [^32]: Silk industry in Lyon - Wikipedia. https://en.wikipedia.org/wiki/Silk_industry_in_Lyon
+
 [^33]: Louis XI summary | Britannica. https://www.britannica.com/summary/Louis-XI
+
 [^34]: Charles the Bold - Wikipedia. https://en.wikipedia.org/wiki/Charles_the_Bold
+
 [^35]: Charles | Duke of Burgundy & 15th-Century Ruler | Britannica. https://www.britannica.com/biography/Charles-duke-of-Burgundy
+
 [^36]: Franco-Burgundian Wars | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/franco-burgundian-wars
+
 [^37]: War of the Public Weal - Wikipedia. https://en.wikipedia.org/wiki/War_of_the_Public_Weal
+
 [^38]: Battle of Montlhéry - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Montlh%C3%A9ry
+
 [^39]: The Battle of Montlhéry – The Freelance History Writer. https://thefreelancehistorywriter.com/2013/07/12/the-battle-of-montlhery/
+
 [^40]: War of the Public Weal. https://grokipedia.com/page/War_of_the_Public_Weal
+
 [^41]: Battle of Nancy - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Nancy
+
 [^42]: The Death of Charles the Bold and the Battle of Nancy. https://historysnacks.io/event/cQMzIPUy/
+
 [^43]: War of the Burgundian Succession - Wikipedia. https://en.wikipedia.org/wiki/War_of_the_Burgundian_Succession
+
 [^44]: Battle of Nancy. https://grokipedia.com/page/Battle_of_Nancy
+
 [^45]: Battle of Nancy | Europe [1477] | Britannica. https://www.britannica.com/topic/battle-of-Nancy
+
 [^46]: Tudor Times | Provence, Anjou and Maine. https://tudortimes.co.uk/politics-economy/the-creation-of-france/provence-anjou-and-maine
+
 [^47]: Counts and dukes of Anjou. https://grokipedia.com/page/Counts_and_dukes_of_Anjou
+
 [^48]: Territorial evolution of France - Wikipedia. https://en.wikipedia.org/wiki/Territorial_evolution_of_France
+
 [^49]: Louis XI of Valois (1461–1483) | Encyclopedia MDPI. https://encyclopedia.pub/entry/23756
+
 [^50]: Louis XI of France (1423 – 1483): biography, timeline and maps. https://historic-figures.com/en/figures/louis-xi/
+
 [^51]: Louis XI | Catholic Answers Encyclopedia. https://www.catholic.com/encyclopedia/louis-xi
+
 [^52]: Lyon in the 18th Century: the Prosperity of the Silk Capital in the Age of Enlightenment-China Silk Museum. https://www.chinasilkmuseum.com/yz/info_98_itemid_31366.html
+
 [^53]: Industrial history of Lyon - Wikipedia. https://en.wikipedia.org/wiki/Industrial_history_of_Lyon
+
 [^54]: Exploring Lyon's Historical Silk Industry - Talkpal. https://talkpal.ai/culture/exploring-lyons-historical-silk-industry/
+
 [^55]: Why silk in Lyon? https://lia-sae.net/2016/02/16/why-silk-in-lyon/index.html
+
 [^56]: The Growth, Decline & Transformation of France's Borders Between 985 & 1947 - Brilliant Maps. https://brilliantmaps.com/the-growth-decline-transformation-of-frances-borders-between-985-1947/
+
 [^57]: Louis XI, le roi René et la Provence - Louis XI et les princes d'Anjou : déceptions mutuelles - Presses universitaires de Provence. https://books.openedition.org/pup/18584?lang=en
+
 [^58]: Treaty of Picquigny - Wikipedia. https://en.wikipedia.org/wiki/Treaty_of_Picquigny
+
 [^59]: On This Day In History: Treaty Of Picquigny - Negotiations Between England And France – On Aug 29, 1475 - Ancient Pages. https://www.ancientpages.com/2017/08/29/on-this-day-in-history-treaty-of-picquigny-negotiations-between-england-and-france-on-aug-29-1475/
+
 [^60]: The Treaty of Picquigny — Photograph France. https://photographfrance.com/blog/the-treaty-of-picquigny
+
 [^61]: What were the outcomes of the Treaty of Picquigny in 1475? | TutorChase. https://www.tutorchase.com/answers/ib/history/what-were-the-outcomes-of-the-treaty-of-picquigny-in-1475
+
 [^62]: Peace of Picquigny | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/peace-picquigny
+
 [^63]: Treaty of Picquigny | Richard III of England Wiki | Fandom. https://richard-iii-of-england.fandom.com/wiki/Treaty_of_Picquigny
+
 [^64]: Luminarium Encyclopedia: Louis XI, King of France (1423-1483). https://www.luminarium.org/encyclopedia/louis11.htm
+
 [^65]: King Louis XI Of France : Family tree by comrade28 - Geneanet. https://gw.geneanet.org/comrade28?lang=en&n=france&p=king+louis+xi+of
+
 [^66]: Louis the Cunning, the Prudent, the Universal Spider, the Tudors' Best Friend – Kyra Cornelius Kramer. https://www.kyrackramer.com/2017/07/03/louis-the-cunning-the-prudent-the-universal-spider-the-tudors-best-friend/
+
 [^67]: Chapter 18. https://www.cliffsnotes.com/literature/p/the-prince/summary-and-analysis/chapter-18
+
 [^68]: The Iron Maiden Never Existed – But Louis XI's Medieval Prison Reforms Did - Medievalists.net. https://www.medievalists.net/2025/05/iron-maiden-never-existed-medieval/
+
 [^69]: The Louis XI tower in Loches: torture and sufferings on every floors. https://en.anecdotrip.com/the-louis-xi-tower-in-loches-torture-and-sufferings-on-every-floors-by-vinaigrette
+
 [^70]: Louis XI et les cages de fer : la légende du roi cruel. https://www.europe1.fr/emissions/dans-lintimite-de-lhistoire/les-fillettes-du-roi-louis-xi-4168273
+
 [^71]: The Project Gutenberg eBook of The History and Romance of Crime: Early French Prisons. https://www.gutenberg.org/files/50520/50520-h/50520-h.htm
+
 [^72]: What It Was Actually Like To Be A Prisoner In The Bastille. https://www.ranker.com/list/bastille-prison-actually-like/melissa-sartore
+
 [^73]: Bastille - Wikipedia. https://en.wikipedia.org/wiki/Bastille
+
 [^74]: Estates General (France) - Wikipedia. https://en.wikipedia.org/wiki/Estates_General_(France)
+
 [^75]: Louis XI et les États généraux de 1468 | Cairn.info. https://www.cairn.info/la-france-de-la-fin-du-xv-e-siecle--9782222036128-page-91.htm
+
 [^76]: États généraux de 1484 — Wikipédia. https://fr.wikipedia.org/wiki/États_généraux_de_1484
+
 [^77]: Philippe de Commynes | Renaissance diplomat, Burgundian courtier, memoirist | Britannica. https://www.britannica.com/biography/Philippe-de-Commynes
+
 [^78]: The Memoirs of Philippe de Commines, Lord of Argenton | Goodreads. https://www.goodreads.com/book/show/44268832
+
 [^79]: Philippe De Commynes: Portrait Of Louis XI. https://medieval.ucdavis.edu/20C/Commynes.html
+
 [^80]: Philippe De Comines | Encyclopedia.com. https://www.encyclopedia.com/people/history/historians-european-biographies/philippe-de-comines
+
 [^81]: Charlotte of Savoy, Queen of France – The Freelance History Writer. https://thefreelancehistorywriter.com/2014/01/03/charlotte-of-savoy-queen-of-france/
+
 [^82]: Charlotte Savoy (November 11, 1441 — December 1, 1483) | World Biographical Encyclopedia. https://prabook.com/web/charlotte.savoy/2502183
+
 [^83]: Louise de Savoy and the Savoy Connection - Keira Morgan. https://keiramorgan.com/louise-de-savoy-and-the-savoy-connection-20/
+
 [^84]: The Monstrous Regiment of Women: Louise of Savoy: The "King's Mother" and Regent of France. https://www.monstrousregimentofwomen.com/2015/09/louise-of-savoy-kings-mother-and-regent.html
+
 [^85]: What you need to know about ... Louis XI – Château d'Amboise. https://www.chateau-amboise.com/en/to-know-about-louis-xi/
+
 [^86]: Louis XII, King of France | Unofficial Royalty. https://www.unofficialroyalty.com/louis-xii-king-of-france/
+
 [^87]: Louis XII - Wikipedia. https://en.wikipedia.org/wiki/Louis_XII
+
 [^88]: Succession to the French throne - Wikipedia. https://en.wikipedia.org/wiki/Succession_to_the_French_throne
+
 [^89]: Louis XI: when the fear of death makes you superstitious! | by Humanicus | In Historia Hominis | Medium. https://medium.com/in-historia-hominis/louis-xi-when-the-fear-of-death-makes-you-superstitious-fcefee5eb523
+
 [^90]: Notre-Dame de Cléry-Saint-André : à la mémoire du grand Louis XI | Détours en France. https://www.detoursenfrance.fr/patrimoine/patrimoine-religieux/notre-dame-de-clery-saint-andre-a-la-memoire-du-grand-louis-xi-1042099
+
 [^91]: The Basilica of Notre-Dame de Cléry - La Loire à Vélo. https://www.loirebybike.co.uk/tsft/basilique-notre-dame-de-clery-clery-saint-andre-en/
+
 [^92]: The Notre-Dame de Cléry Basilica - Office de tourisme des Terres du Val de Loire. https://en.tourisme-terresduvaldeloire.fr/the-notre-dame-de-clery-basilica/
+
 [^93]: Basilique Notre-Dame de Cléry — Wikipédia. https://fr.wikipedia.org/wiki/Basilique_Notre-Dame_de_Cl%C3%A9ry
+
 [^94]: Saint Francis of Paola, Thaumaturge, Founder. https://sanctoral.com/en/saints/saint_francis_of_paula.html
+
 [^95]: Saint Francis of Paola | Diocese of Portland. https://portlanddiocese.org/saint-francis-paola
+
 [^96]: The strange death of Louis XI at Plessis-les-Tours, 1483 | Social history in the Touraine ~ Central France. https://jimmcneill.wordpress.com/2011/03/01/the-strange-death-of-louis-xi-at-plessis-les-tours-1483/
+
 [^97]: Louis XI. https://universalium.en-academic.com/143555/Louis_XI
+
 [^98]: St. Francis of Paola, Hermit (1416-1508) Saint of the day, quotes of the saint. https://amenapps.com/876-saint-of-day-st--francis-of-paula--hermit--1416-1508-.html
+
 [^99]: St. Francis of Paola - Information on the Saint of the Day - Vatican News. https://www.vaticannews.va/en/saints/04/02/st---francis-of-paola---hermit--founder-of-the-order-of-minims.html
+
 [^100]: Saint Francis of Paola: Confessor, Hermit, & Miracle Worker - Catholic Men Of America. https://catholicmenofamerica.com/wp/saint-francis-of-paola-confessor-hermit-miracle-worker/
+
 [^101]: St. Francis of Paola. https://www.catholicnewsagency.com/saint/st-francis-of-paola-423
+
 [^102]: Saint Francis of Paul | RELICS. https://relics.es/en/blogs/relics/saint-francois-de-paule
+
 [^103]: Optional Memorial of St. Francis of Paola, hermit - April 02, 2014 - Liturgical Calendar | Catholic Culture. https://www.catholicculture.org/culture/liturgicalyear/calendar/day.cfm?date=2014-04-02
+
 [^104]: Optional Memorial of St. Francis of Paola, hermit - April 02, 2019 - Liturgical Calendar | Catholic Culture. https://www.catholicculture.org/culture/liturgicalyear/calendar/day.cfm?date=2019-04-02
+
 [^105]: Thursday of the Fifth Week of Lent; Optional Memorial of St. Francis of Paola, hermit - April 02, 2020 - Liturgical Calendar | Catholic Culture. https://www.catholicculture.org/culture/liturgicalyear/calendar/day.cfm?date=2020-04-02
+
 [^106]: Deception and good faith | Machiavelli's Prince: A New Reading | Oxford Academic. https://academic.oup.com/book/8652/chapter/154653463
+
 [^107]: Chapter 18: The Subtle Art of Lying – The Municipal Machiavelli. http://ianchadwick.com/machiavelli/chapters-15-21/chapter-18-the-subtle-art-of-lying/
+
 [^108]: Episode 217 – Maximilian And Marie, the Happy Marriage • History of the Germans Podcast. https://historyofthegermans.com/2025/12/marieandmaximilian/
+
 [^109]: Louis XII Character Analysis in The Prince - Machiavelli. https://www.litcharts.com/lit/the-prince/characters/louis-xii
+
 [^110]: Louis Xiv: a Machiavellian Ruler? Essays - 966 Words | Bartleby. https://www.bartleby.com/essay/Louis-Xiv-a-Machiavellian-Ruler-F3JAK8FCTJ
+
 [^111]: Characteristics Of Machiavelli And King Louis XIV - 1107 Words | Cram. https://www.cram.com/essay/Characteristics-Of-Machiavelli-And-King-Louis-XIV/P3JCXV53UYKW
+
 [^112]: King Louis XIV: The Sun King – Roads to Recognition. https://roadstorecognition.home.blog/2019/05/03/king-louis-xiv-the-sun-king/
+
 [^113]: Category:Louis XI of France - Wikimedia Commons. https://commons.wikimedia.org/wiki/Category:Louis_XI_of_France
+
 [^114]: Louis XI - Wikidata. https://www.wikidata.org/wiki/Q8058
+
 [^115]: Portrait Louis XI of France - Wikidata. https://www.wikidata.org/wiki/Q98853791
+
 [^116]: 293 Portrait Of Louis XI Stock Photos, High-Res Pictures, and Images - Getty Images. https://www.gettyimages.fr/photos/portrait-of-louis-xi
+
 [^117]: 206 King Louis Xi Of France Stock Photos, High-Res Pictures, and Images - Getty Images. https://www.gettyimages.com/photos/king-louis-xi-of-france
+
 [^118]: 238 King Louis Xi Stock Photos, High-Res Pictures, and Images - Getty Images. https://www.gettyimages.com/photos/king-louis-xi
+
 [^119]: 314 King Louis Xii Stock Photos, High-Res Pictures, and Images - Getty Images. https://www.gettyimages.com/photos/king-louis-xii
+
 [^120]: Taille - Wikipedia. https://en.wikipedia.org/wiki/Taille
+
 [^121]: Louis XIV - Wikipedia. https://en.wikipedia.org/wiki/Louis_XIV
+
 [^122]: LOUIS XII (FRANCE) (born 1462 - – - 1515; ruled 1498. https://www.encyclopedia.com/people/history/french-history-biographies/louis-xii
+
 [^123]: Did Louis XIV have absolute power? - POWER of meanings // MEANINGS of power. https://www.meaningsofpower.com/louis-xiv-and-absolute-power.html
+
 [^124]: The Legacy of Louis XIV: A Historical Perspective. https://www.numberanalytics.com/blog/louis-xiv-legacy
+
 [^125]: Louis XIV - Absolutism, War, Legacy | Britannica. https://www.britannica.com/biography/Louis-XIV-king-of-France/Final-years
+
 [^126]: Frederic J. Baumgartner's new biography of Louis XII, King ... https://www.h-net.org/reviews/showrev.php?id=651
+
 [^127]: The memoirs of Philip de Commines, Lord of Argenton: containing the histories of Louis XI. and Charles VIII. kings of France and of Charles the Bold, duke of Burgundy - Internet Archive. https://archive.org/details/memoirsofphilipp02commiala
+
 [^128]: The Memoirs of Philip de Commines, Lord of Argenton - Amazon. https://www.amazon.com/Memoirs-Philip-Commines-Lord-Argenton/dp/1342149343
+
 [^129]: The Memoirs of Philip de Commines, lord of Argenton - Internet Archive. https://archive.org/details/TheMemoirsOfPhilipDeComminesScoble18921
+
 [^130]: The memoirs of Philip de Commines, Lord of Argenton - Internet Archive. https://archive.org/details/memoirsofphilipd01comm
+
 [^131]: The memoirs of Philip de Commines - Internet Archive. https://archive.org/details/memoirsofphilip02commiala
+
 [^132]: 1597 Memoires of Philippe Commines King Louis XI France Charles VIII Political | Schilb Antiquarian. https://www.schilbantiquarian.com/product/1597-memoires-of-philippe-commines-king-louis-xi-france-charles-viii-political/
+
 [^133]: Louis XVI Calls the Estates-General | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/louis-xvi-calls-estates-general
+
 [^134]: Estates-General | Definition, Significance, Meaning, Meeting, & History | Britannica. https://www.britannica.com/topic/Estates-General
+
 [^135]: Estates-General of 1789 - World History Encyclopedia. https://www.worldhistory.org/Estates-General_of_1789/
+
 [^136]: Summoning of the Estates General, 1789 | Château de Versailles. https://en.chateauversailles.fr/discover/history/key-dates/summoning-estates-general-1789
+
 [^137]: QUOTES BY LOUIS XI OF FRANCE | A-Z Quotes. https://www.azquotes.com/author/24149-Louis_XI_of_France
+
 [^138]: LOUIS XI OF FRANCE quotes and sayings. https://www.inspiringquotes.us/author/9351-louis-xi-of-france
+
 [^139]: Margaret Stewart, "Margaret of Scotland" "Dauphine... https://scotianostra.tumblr.com/post/704615000640225280/margaret-stewart-margaret-of-scotland-dauphine

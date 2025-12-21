@@ -147,52 +147,52 @@ Even scholars who acknowledge bias in ancient sources generally concede that Ner
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 37 AD | Born Lucius Domitius Ahenobarbus on December 15 at Antium |
-| 41 AD | Father Gnaeus Domitius Ahenobarbus dies; mother Agrippina exiled by Claudius |
-| 49 AD | Mother Agrippina marries Emperor Claudius |
-| 50 AD | Adopted by Claudius; takes name Nero Claudius Caesar Drusus Germanicus |
-| 53 AD | Marries Octavia, daughter of Emperor Claudius |
-| 54 AD | Claudius dies (possibly poisoned); Nero becomes emperor at age 16 on October 13 |
-| 54-59 AD | "Quinquennium Neronis" - period of competent governance under Seneca and Burrus |
-| 55 AD | Death of Britannicus, possibly poisoned by Nero |
-| 58 AD | Beginning of Roman-Parthian War over Armenia |
-| 59 AD | Murder of mother Agrippina the Younger |
-| 60 AD | Establishes Neronian Games; revolt of Boudica in Britain begins |
-| 61 AD | Roman forces under Suetonius Paulinus defeat Boudica |
-| 62 AD | Death of Burrus; divorces Octavia and marries Poppaea Sabina; Octavia executed |
-| 63 AD | Peace treaty with Parthia; daughter Claudia Augusta born and dies in infancy |
-| 64 AD | Great Fire of Rome (July 18-27); persecution of Christians begins; construction of Domus Aurea starts |
-| 65 AD | Pisonian conspiracy discovered and suppressed; Seneca, Lucan, and others forced to commit suicide; death of Poppaea Sabina |
-| 66 AD | Marries Statilia Messalina |
-| 66-67 AD | Travels to Greece; participates in artistic and athletic competitions |
-| 67 AD | Declares Greece free from Roman taxation; Jewish revolt in Judea begins |
-| 68 AD | Revolt of Vindex in Gaul (March); Galba proclaimed emperor (April); Senate declares Nero public enemy (June 8); Nero commits suicide on June 9 |
-| 68-69 AD | Year of the Four Emperors follows Nero's death |
+| Year     | Event                                                                                                                                          |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 37 AD    | Born Lucius Domitius Ahenobarbus on December 15 at Antium                                                                                      |
+| 41 AD    | Father Gnaeus Domitius Ahenobarbus dies; mother Agrippina exiled by Claudius                                                                   |
+| 49 AD    | Mother Agrippina marries Emperor Claudius                                                                                                      |
+| 50 AD    | Adopted by Claudius; takes name Nero Claudius Caesar Drusus Germanicus                                                                         |
+| 53 AD    | Marries Octavia, daughter of Emperor Claudius                                                                                                  |
+| 54 AD    | Claudius dies (possibly poisoned); Nero becomes emperor at age 16 on October 13                                                                |
+| 54-59 AD | "Quinquennium Neronis" - period of competent governance under Seneca and Burrus                                                                |
+| 55 AD    | Death of Britannicus, possibly poisoned by Nero                                                                                                |
+| 58 AD    | Beginning of Roman-Parthian War over Armenia                                                                                                   |
+| 59 AD    | Murder of mother Agrippina the Younger                                                                                                         |
+| 60 AD    | Establishes Neronian Games; revolt of Boudica in Britain begins                                                                                |
+| 61 AD    | Roman forces under Suetonius Paulinus defeat Boudica                                                                                           |
+| 62 AD    | Death of Burrus; divorces Octavia and marries Poppaea Sabina; Octavia executed                                                                 |
+| 63 AD    | Peace treaty with Parthia; daughter Claudia Augusta born and dies in infancy                                                                   |
+| 64 AD    | Great Fire of Rome (July 18-27); persecution of Christians begins; construction of Domus Aurea starts                                          |
+| 65 AD    | Pisonian conspiracy discovered and suppressed; Seneca, Lucan, and others forced to commit suicide; death of Poppaea Sabina                     |
+| 66 AD    | Marries Statilia Messalina                                                                                                                     |
+| 66-67 AD | Travels to Greece; participates in artistic and athletic competitions                                                                          |
+| 67 AD    | Declares Greece free from Roman taxation; Jewish revolt in Judea begins                                                                        |
+| 68 AD    | Revolt of Vindex in Gaul (March); Galba proclaimed emperor (April); Senate declares Nero public enemy (June 8); Nero commits suicide on June 9 |
+| 68-69 AD | Year of the Four Emperors follows Nero's death                                                                                                 |
 
 ---
 
 ## Famous Quotes
 
 > "Qualis artifex pereo!" ("What an artist dies in me!")
-> 
+>
 > Nero's reported last words before committing suicide on June 9, AD 68, reflecting his self-perception as an artist above all else and his vanity even in his final moments.[^130]
 
 > "Hidden talents count for nothing."
-> 
+>
 > This quote embodies Nero's belief in public performance and the necessity of displaying one's abilities, justifying his controversial decision to perform publicly despite the shame Roman aristocrats attached to theatrical performance.[^131]
 
 > "There is no other way of enjoying riches and money than by riotous extravagance, declaring that only stingy and niggardly fellows kept a correct account of what they spent."
-> 
+>
 > Reported by Suetonius in his biography, this quote captures Nero's attitude toward imperial finances and his justification for lavish spending on artistic projects and personal pleasure.[^132]
 
 > "The Greeks were the only ones who had an ear for music and that they alone were worthy of his efforts."
-> 
+>
 > This statement reflects Nero's philhellenism and his preference for Greek cultural values over traditional Roman aristocratic sensibilities, explaining his particular fondness for performing before Greek audiences.[^133]
 
 > "Mushrooms must be the food of the gods."
-> 
+>
 > A darkly ironic quote attributed to Nero, referencing the poisoned mushroom dish that allegedly killed Emperor Claudius and brought Nero to power, demonstrating his cynical humor about his path to the throne.[^134]
 
 ---
@@ -200,136 +200,269 @@ Even scholars who acknowledge bias in ancient sources generally concede that Ner
 ## References
 
 [^1]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^2]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^3]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^4]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^5]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^6]: Heritage History - [Nero by Jacob Abbott](https://heritage-history.com/index.php?c=read&author=abbott&book=nero&story=childhood)
+
 [^7]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^8]: Britannica - [Julia Agrippina | Empress, Mother, Empress Nero](https://www.britannica.com/biography/Julia-Agrippina)
+
 [^9]: Heritage History - [Nero by Jacob Abbott](https://heritage-history.com/index.php?c=read&author=abbott&book=nero&story=childhood)
+
 [^10]: Wikipedia - [Agrippina the Younger](https://en.wikipedia.org/wiki/Agrippina_the_Younger)
+
 [^11]: British Museum - [Who was Nero?](https://www.britishmuseum.org/blog/who-was-nero)
+
 [^12]: Ancient History Sites - [Nero: The Roman Emperor and His Impact on Imperial Rome](https://www.ancient-history-sites.com/roman/emperors/nero/)
+
 [^13]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^14]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^15]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^16]: British Museum - [Who was Nero?](https://www.britishmuseum.org/blog/who-was-nero)
+
 [^17]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^18]: EBSCO Research - [Nero | Research Starters](https://www.ebsco.com/research-starters/history/nero)
+
 [^19]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^20]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^21]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^22]: Have Fun With History - [10 Nero Accomplishments and Achievements](https://www.havefunwithhistory.com/nero-accomplishments/)
+
 [^23]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^24]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^25]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^26]: Medium - [The Life and Legacy of Emperor Nero: From Power to Infamy](https://medium.com/@tinywonder/the-life-and-legacy-of-emperor-nero-from-power-to-infamy-b63a03472061)
+
 [^27]: TheCollector - [What Are Emperor Nero's Contributions to Rome?](https://www.thecollector.com/what-are-emperor-nero-contributions-to-rome/)
+
 [^28]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^29]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^30]: Aithor - [The Influence of Emperor Nero on the Arts and Culture of Ancient Rome](https://aithor.com/essay-examples/the-influence-of-emperor-nero-on-the-arts-and-culture-of-ancient-rome)
+
 [^31]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^32]: Live Science - [Emperor Nero: Facts & biography](https://www.livescience.com/40277-emperor-nero-facts.html)
+
 [^33]: TheCollector - [What Are Emperor Nero's Contributions to Rome?](https://www.thecollector.com/what-are-emperor-nero-contributions-to-rome/)
+
 [^34]: Have Fun With History - [10 Nero Accomplishments and Achievements](https://www.havefunwithhistory.com/nero-accomplishments/)
+
 [^35]: History Cooperative - [Nero | Life and Accomplishments of an insane Roman Emperor](https://historycooperative.org/nero-biography-facts-and-accomplishments/)
+
 [^36]: Medium - [The Life and Legacy of Emperor Nero: From Power to Infamy](https://medium.com/@tinywonder/the-life-and-legacy-of-emperor-nero-from-power-to-infamy-b63a03472061)
+
 [^37]: Have Fun With History - [10 Nero Accomplishments and Achievements](https://www.havefunwithhistory.com/nero-accomplishments/)
+
 [^38]: TheCollector - [What Are Emperor Nero's Contributions to Rome?](https://www.thecollector.com/what-are-emperor-nero-contributions-to-rome/)
+
 [^39]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^40]: TheCollector - [What Are Emperor Nero's Contributions to Rome?](https://www.thecollector.com/what-are-emperor-nero-contributions-to-rome/)
+
 [^41]: Timetoast - [Timeline: Life of Nero](https://www.timetoast.com/timelines/life-of-nero)
+
 [^42]: SoftSchools - [Nero Timeline](https://www.softschools.com/timelines/nero_timeline/382/)
+
 [^43]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^44]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^45]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^46]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^47]: Roman Empire - [Emperor Nero AD 15 - 68 The most evil Roman emperor](https://roman-empire.net/people/nero)
+
 [^48]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^49]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^50]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^51]: Wikipedia - [Great Fire of Rome](https://en.wikipedia.org/wiki/Great_Fire_of_Rome)
+
 [^52]: Early Church History - [Emperor Nero The Arsonist](https://earlychurchhistory.org/politics/emperor-nero-the-arsonist/)
+
 [^53]: Wikipedia - [Great Fire of Rome](https://en.wikipedia.org/wiki/Great_Fire_of_Rome)
+
 [^54]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^55]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^56]: British Museum - [Who was Nero?](https://www.britishmuseum.org/blog/who-was-nero)
+
 [^57]: Have Fun With History - [10 Nero Accomplishments and Achievements](https://www.havefunwithhistory.com/nero-accomplishments/)
+
 [^58]: History Skills - [Nero's reign of terror: how Christians became scapegoats for Rome's problems](https://www.historyskills.com/classroom/ancient-history/nero-christians/)
+
 [^59]: Landmark Events - [Nero's Persecutions Begin, A.D. 64](https://landmarkevents.org/neros-persecutions-begin-a-d-64/)
+
 [^60]: Penelope Chicago - [Nero as the Antichrist](https://penelope.uchicago.edu/encyclopaedia_romana/gladiators/nero.html)
+
 [^61]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^62]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^63]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^64]: Imperium Romanum - [Quotes of Nero](https://imperiumromanum.pl/en/roman-art-and-culture/golden-thoughts-of-romans/quotes-of-nero/)
+
 [^65]: Medium - [The Life and Legacy of Emperor Nero: From Power to Infamy](https://medium.com/@tinywonder/the-life-and-legacy-of-emperor-nero-from-power-to-infamy-b63a03472061)
+
 [^66]: History Cooperative - [Nero | Life and Accomplishments of an insane Roman Emperor](https://historycooperative.org/nero-biography-facts-and-accomplishments/)
+
 [^67]: Wikipedia - [Agrippina the Younger](https://en.wikipedia.org/wiki/Agrippina_the_Younger)
+
 [^68]: Britannica - [Julia Agrippina | Empress, Mother, Empress Nero](https://www.britannica.com/biography/Julia-Agrippina)
+
 [^69]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^70]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^71]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^72]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^73]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^74]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^75]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^76]: Aithor - [The Influence of Emperor Nero on the Arts and Culture of Ancient Rome](https://aithor.com/essay-examples/the-influence-of-emperor-nero-on-the-arts-and-culture-of-ancient-rome)
+
 [^77]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^78]: British Museum - [Who was Nero?](https://www.britishmuseum.org/blog/who-was-nero)
+
 [^79]: Imperium Romanum - [Quotes of Nero](https://imperiumromanum.pl/en/roman-art-and-culture/golden-thoughts-of-romans/quotes-of-nero/)
+
 [^80]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^81]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^82]: Roman Empire - [Emperor Nero AD 15 - 68 The most evil Roman emperor](https://roman-empire.net/people/nero)
+
 [^83]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^84]: History Skills - [Nero's reign of terror: how Christians became scapegoats for Rome's problems](https://www.historyskills.com/classroom/ancient-history/nero-christians/)
+
 [^85]: TheCollector - [How Did Emperor Nero treat Christians During His Reign?](https://www.thecollector.com/how-did-emperor-nero-treat-christians-during-his-reign/)
+
 [^86]: Day in History - [The Suicide of Nero: The End of the Julio-Claudian Dynasty](https://dayhist.com/events/nero-suicide-julio-claudian-dynasty)
+
 [^87]: Wikipedia - [Year of the Four Emperors](https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors)
+
 [^88]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^89]: Scholar Works at Harding - [The Controversies of Emperor Nero](https://scholarworks.harding.edu/cgi/viewcontent.cgi?article=1258&context=tenor)
+
 [^90]: Penelope Chicago - [Nero as the Antichrist](https://penelope.uchicago.edu/encyclopaedia_romana/gladiators/nero.html)
+
 [^91]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^92]: TheCollector - [Emperor Nero's Death & The Curious Case Of The Pseudo Neros](https://www.thecollector.com/emperor-nero-death-pseudo-neros/)
+
 [^93]: TheCollector - [Emperor Nero's Death & The Curious Case Of The Pseudo Neros](https://www.thecollector.com/emperor-nero-death-pseudo-neros/)
+
 [^94]: Aithor - [The Influence of Emperor Nero on the Arts and Culture of Ancient Rome](https://aithor.com/essay-examples/the-influence-of-emperor-nero-on-the-arts-and-culture-of-ancient-rome)
+
 [^95]: Have Fun With History - [10 Nero Accomplishments and Achievements](https://www.havefunwithhistory.com/nero-accomplishments/)
+
 [^96]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^97]: Aithor - [The Impact of Emperor Nero on Ancient Rome and His Legacy in Modern European Culture](https://aithor.com/essay-examples/the-impact-of-emperor-nero-on-ancient-rome-and-his-legacy-in-modern-european-culture)
+
 [^98]: Vocal Media - [Emperor Nero: Flames of Ambition, Shadows of Legacy](https://vocal.media/education/emperor-nero-flames-of-ambition-shadows-of-legacy)
+
 [^99]: Medium - [The Complex Legacy of Nero: Unraveling the Truth of Rome's Notorious Emperor](https://medium.com/@bari200304007/the-complex-legacy-of-nero-unraveling-the-truth-of-romes-notorious-emperor-6cecbdcf4c7d)
+
 [^100]: British Museum - [Who was Nero?](https://www.britishmuseum.org/blog/who-was-nero)
+
 [^101]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^102]: Aithor - [The Impact of Emperor Nero on the Roman Empire and its Legacy](https://aithor.com/essay-examples/the-impact-of-emperor-nero-on-the-roman-empire-and-its-legacy)
+
 [^103]: Bryn Mawr Classical Review - [Reflections of Nero](https://bmcr.brynmawr.edu/1994/1994.09.09/)
+
 [^104]: Scholar Works at Harding - [The Controversies of Emperor Nero](https://scholarworks.harding.edu/cgi/viewcontent.cgi?article=1258&context=tenor)
+
 [^105]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^106]: Medium - [The Complex Legacy of Nero: Unraveling the Truth of Rome's Notorious Emperor](https://medium.com/@bari200304007/the-complex-legacy-of-nero-unraveling-the-truth-of-romes-notorious-emperor-6cecbdcf4c7d)
+
 [^107]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^108]: Have Fun With History - [10 Nero Accomplishments and Achievements](https://www.havefunwithhistory.com/nero-accomplishments/)
+
 [^109]: Aithor - [The Influence of Emperor Nero on the Arts and Culture of Ancient Rome](https://aithor.com/essay-examples/the-influence-of-emperor-nero-on-the-arts-and-culture-of-ancient-rome)
+
 [^110]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^111]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^112]: TheCollector - [What Are Emperor Nero's Contributions to Rome?](https://www.thecollector.com/what-are-emperor-nero-contributions-to-rome/)
+
 [^113]: British Museum - [Who was Nero?](https://www.britishmuseum.org/blog/who-was-nero)
+
 [^114]: Bryn Mawr Classical Review - [Reflections of Nero](https://bmcr.brynmawr.edu/1994/1994.09.09/)
+
 [^115]: Roman Empire - [Emperor Nero AD 15 - 68 The most evil Roman emperor](https://roman-empire.net/people/nero)
+
 [^116]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^117]: Open Mind Tours - [A Critical Biography of Roman emperor Nero](https://www.openmindtours.com/en/blog/rome-travel-guide/critical-biography-roman-emperor-nero)
+
 [^118]: Landmark Events - [Nero's Persecutions Begin, A.D. 64](https://landmarkevents.org/neros-persecutions-begin-a-d-64/)
+
 [^119]: History Skills - [Nero's reign of terror: how Christians became scapegoats for Rome's problems](https://www.historyskills.com/classroom/ancient-history/nero-christians/)
+
 [^120]: Wikipedia - [Nero](https://en.wikipedia.org/wiki/Nero)
+
 [^121]: Britannica - [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^122]: TheCollector - [What Are Emperor Nero's Contributions to Rome?](https://www.thecollector.com/what-are-emperor-nero-contributions-to-rome/)
+
 [^123]: Imperium Romanum - [Quotes of Nero](https://imperiumromanum.pl/en/roman-art-and-culture/golden-thoughts-of-romans/quotes-of-nero/)
+
 [^124]: British Museum - [Who was Nero?](https://www.britishmuseum.org/blog/who-was-nero)
+
 [^125]: HISTORY - [Nero - Olympics, Accomplishments & Fate](https://www.history.com/articles/nero)
+
 [^126]: Alabama Gazette - [Nero committed suicide on June 9, 68 A.D.](https://www.alabamagazette.com/story/2025/06/01/history/nero-committed-suicide-on-june-9-68-ad/6778.html)
+
 [^127]: Mint Imperials - [On this day in AD68 Nero committed suicide](https://blogs.nottingham.ac.uk/mintimperials/2015/06/09/on-this-day-in-ad68-nero-committed-suicide/)
+
 [^128]: Britannica - [Nero - Roman Emperor, Suicide, Downfall](https://www.britannica.com/biography/Nero-Roman-emperor/The-approaching-end)
+
 [^129]: Medium - [The Complex Legacy of Nero: Unraveling the Truth of Rome's Notorious Emperor](https://medium.com/@bari200304007/the-complex-legacy-of-nero-unraveling-the-truth-of-romes-notorious-emperor-6cecbdcf4c7d)
+
 [^130]: Wikiquote - [Nero](https://en.wikiquote.org/wiki/Nero)
+
 [^131]: Quoteikon - [22 of the best quotes By Nero](https://www.quoteikon.com/nero-quotes.html)
+
 [^132]: Imperium Romanum - [Quotes of Nero](https://imperiumromanum.pl/en/roman-art-and-culture/golden-thoughts-of-romans/quotes-of-nero/)
+
 [^133]: Imperium Romanum - [Quotes of Nero](https://imperiumromanum.pl/en/roman-art-and-culture/golden-thoughts-of-romans/quotes-of-nero/)
+
 [^134]: Study.com - [Emperor Nero | Facts, Quotes & History](https://study.com/academy/lesson/roman-emperor-nero-biography-facts-quotes.html)

@@ -119,27 +119,27 @@ Perhaps most damning is the criticism that Henry's obsessive focus on France lef
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1386 | Born September 16 at Monmouth Castle, Wales |
-| 1399 | Became Prince of Wales after father seized throne |
-| 1400-1409 | Military campaigns in Wales against Glyndŵr rebellion |
-| 1403 | Fought at Battle of Shrewsbury; severely wounded by arrow to face |
-| 1409 | Captured Harlech Castle, ending Welsh rebellion |
-| 1413 | Ascended throne as Henry V on March 20 after father's death |
-| 1414 | Suppressed Lollard uprising and heresy |
-| 1415 | Foiled Southampton Plot assassination conspiracy in August |
-| 1415 | Captured French port of Harfleur in September |
-| 1415 | Won Battle of Agincourt on October 25, Saint Crispin's Day |
-| 1415 | Returned to England in triumph in November |
-| 1417 | Launched second French campaign, systematic conquest of Normandy |
-| 1419 | Captured Rouen in January after brutal five-month siege |
-| 1420 | Treaty of Troyes signed May 21, naming Henry heir to French throne |
-| 1420 | Married Catherine of Valois on June 2 at Troyes |
-| 1421 | Catherine crowned Queen of England on February 23 at Westminster |
-| 1421 | Son Henry (future Henry VI) born December 6 at Windsor Castle |
-| 1422 | Died August 31 of dysentery at Château de Vincennes, France |
-| 1422 | Infant son Henry VI succeeded to both English and French thrones |
+| Year      | Event                                                              |
+| --------- | ------------------------------------------------------------------ |
+| 1386      | Born September 16 at Monmouth Castle, Wales                        |
+| 1399      | Became Prince of Wales after father seized throne                  |
+| 1400-1409 | Military campaigns in Wales against Glyndŵr rebellion              |
+| 1403      | Fought at Battle of Shrewsbury; severely wounded by arrow to face  |
+| 1409      | Captured Harlech Castle, ending Welsh rebellion                    |
+| 1413      | Ascended throne as Henry V on March 20 after father's death        |
+| 1414      | Suppressed Lollard uprising and heresy                             |
+| 1415      | Foiled Southampton Plot assassination conspiracy in August         |
+| 1415      | Captured French port of Harfleur in September                      |
+| 1415      | Won Battle of Agincourt on October 25, Saint Crispin's Day         |
+| 1415      | Returned to England in triumph in November                         |
+| 1417      | Launched second French campaign, systematic conquest of Normandy   |
+| 1419      | Captured Rouen in January after brutal five-month siege            |
+| 1420      | Treaty of Troyes signed May 21, naming Henry heir to French throne |
+| 1420      | Married Catherine of Valois on June 2 at Troyes                    |
+| 1421      | Catherine crowned Queen of England on February 23 at Westminster   |
+| 1421      | Son Henry (future Henry VI) born December 6 at Windsor Castle      |
+| 1422      | Died August 31 of dysentery at Château de Vincennes, France        |
+| 1422      | Infant son Henry VI succeeded to both English and French thrones   |
 
 ---
 
@@ -153,84 +153,158 @@ Perhaps most damning is the criticism that Henry's obsessive focus on France lef
 
 > "I was not angry since I came to France Until this instant" - Shakespeare's Henry V before ordering the execution of French prisoners at Agincourt[^74]
 
-*Note: Most famous "quotes" attributed to Henry V actually come from Shakespeare's dramatization rather than verified historical sources. The historical Henry V left few recorded speeches, and contemporary chronicles rarely quoted direct speech. Shakespeare's literary creation of Henry's character has become more culturally influential than the historical figure's actual words, making it difficult to separate legend from documented history. The St. Crispin's Day speech, though entirely Shakespeare's invention, has become inseparably associated with Henry V in popular memory[^75].*
+_Note: Most famous "quotes" attributed to Henry V actually come from Shakespeare's dramatization rather than verified historical sources. The historical Henry V left few recorded speeches, and contemporary chronicles rarely quoted direct speech. Shakespeare's literary creation of Henry's character has become more culturally influential than the historical figure's actual words, making it difficult to separate legend from documented history. The St. Crispin's Day speech, though entirely Shakespeare's invention, has become inseparably associated with Henry V in popular memory[^75]._
 
 ---
 
 ## References
 
 [^1]: Britannica. "Henry V | Biography, Facts, Wife, & Significance." https://www.britannica.com/biography/Henry-V-king-of-England
+
 [^2]: World History Encyclopedia. "Henry V of England." https://www.worldhistory.org/Henry_V_of_England/
+
 [^3]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^4]: HISTORY. "Henry V - Facts, Death & Significance." https://www.history.com/articles/henry-v-england
+
 [^5]: Wikipedia. "Henry V of England." https://en.wikipedia.org/wiki/Henry_V_of_England
+
 [^6]: The Royal Family. "Henry V (r. 1413-1422)." https://www.royal.uk/henry-v
+
 [^7]: Ancient Origins. "Henry V, the Most Capable Medieval English King?" https://www.ancient-origins.net/history-famous-people/henry-v-england-0020813
+
 [^8]: Ancient Origins. "Henry V, the Most Capable Medieval English King?" https://www.ancient-origins.net/history-famous-people/henry-v-england-0020813
+
 [^9]: Britannica. "Henry V | Biography, Facts, Wife, & Significance." https://www.britannica.com/biography/Henry-V-king-of-England
+
 [^10]: Ancient Origins. "Henry V, the Most Capable Medieval English King?" https://www.ancient-origins.net/history-famous-people/henry-v-england-0020813
+
 [^11]: World History Encyclopedia. "Henry V of England." https://www.worldhistory.org/Henry_V_of_England/
+
 [^12]: Historic UK. "King Henry V." https://www.historic-uk.com/HistoryUK/HistoryofEngland/King-Henry-V/
+
 [^13]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^14]: World History Encyclopedia. "Timeline: Henry V of England." https://www.worldhistory.org/timeline/Henry_V_of_England/
+
 [^15]: Historical Britain Blog. "Henry V, The Man Behind the Myth." https://historicalbritainblog.com/henry-v-the-man-behind-the-myth/
+
 [^16]: Wikipedia. "Henry V of England." https://en.wikipedia.org/wiki/Henry_V_of_England
+
 [^17]: Wikipedia. "Battle of Agincourt." https://en.wikipedia.org/wiki/Battle_of_Agincourt
+
 [^18]: World History Encyclopedia. "Battle of Agincourt." https://www.worldhistory.org/Battle_of_Agincourt/
+
 [^19]: Britannica. "Battle of Agincourt | Facts, Summary, & Significance." https://www.britannica.com/event/Battle-of-Agincourt
+
 [^20]: HISTORY. "Battle of Agincourt - Henry V, 1415 & Facts." https://www.history.com/this-day-in-history/october-25/battle-of-agincourt
+
 [^21]: Study.com. "Battle of Agincourt | Overview, History & Henry V." https://study.com/academy/lesson/the-battle-of-agincourt-in-1415-facts-lesson-quiz.html
+
 [^22]: World History Encyclopedia. "Battle of Agincourt." https://www.worldhistory.org/Battle_of_Agincourt/
+
 [^23]: Britannica. "Battle of Agincourt | Facts, Summary, & Significance." https://www.britannica.com/event/Battle-of-Agincourt
+
 [^24]: Wikipedia. "Henry V of England." https://en.wikipedia.org/wiki/Henry_V_of_England
+
 [^25]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^26]: Wikipedia. "Henry V of England." https://en.wikipedia.org/wiki/Henry_V_of_England
+
 [^27]: Britannica. "Henry V | Biography, Facts, Wife, & Significance." https://www.britannica.com/biography/Henry-V-king-of-England
+
 [^28]: Westminster Abbey. "Henry V and Catherine de Valois." https://www.westminster-abbey.org/abbey-commemorations/royals/henry-v-and-catherine-de-valois
+
 [^29]: Wikipedia. "Henry V of England." https://en.wikipedia.org/wiki/Henry_V_of_England
+
 [^30]: World History Encyclopedia. "Timeline: Henry V of England." https://www.worldhistory.org/timeline/Henry_V_of_England/
+
 [^31]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^32]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^33]: The Bubble. "Was Henry V really 'the greatest man who ever ruled England'?" https://www.thebubble.org.uk/culture/history/was-henry-v-really-the-greatest-man-who-ever-ruled-england/
+
 [^34]: Penguin Random House. "Henry V by Dan Jones." https://www.penguinrandomhouse.com/books/716435/henry-v-by-dan-jones/
+
 [^35]: Historical Britain Blog. "Henry V, The Man Behind the Myth." https://historicalbritainblog.com/henry-v-the-man-behind-the-myth/
+
 [^36]: The Bubble. "Was Henry V really 'the greatest man who ever ruled England'?" https://www.thebubble.org.uk/culture/history/was-henry-v-really-the-greatest-man-who-ever-ruled-england/
+
 [^37]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^38]: Penguin Random House. "Henry V by Dan Jones." https://www.penguinrandomhouse.com/books/716435/henry-v-by-dan-jones/
+
 [^39]: Wikipedia. "Catherine of Valois." https://en.wikipedia.org/wiki/Catherine_of_Valois
+
 [^40]: All That's Interesting. "Catherine of Valois: Marriage to Henry V & History." https://allthatsinteresting.com/catherine-of-valois
+
 [^41]: Refinery29. "Were Henry V & Catherine Of Valois Really In Love, Like In The King?" https://www.refinery29.com/en-us/2019/10/8555729/king-henry-v-wife-catherine-of-valois-true-love-story
+
 [^42]: Westminster Abbey. "Henry V and Catherine de Valois." https://www.westminster-abbey.org/abbey-commemorations/royals/henry-v-and-catherine-de-valois
+
 [^43]: Refinery29. "Were Henry V & Catherine Of Valois Really In Love, Like In The King?" https://www.refinery29.com/en-us/2019/10/8555729/king-henry-v-wife-catherine-of-valois-true-love-story
+
 [^44]: Refinery29. "Were Henry V & Catherine Of Valois Really In Love, Like In The King?" https://www.refinery29.com/en-us/2019/10/8555729/king-henry-v-wife-catherine-of-valois-true-love-story
+
 [^45]: Wikipedia. "Catherine of Valois." https://en.wikipedia.org/wiki/Catherine_of_Valois
+
 [^46]: Westminster Abbey. "Henry V and Catherine de Valois." https://www.westminster-abbey.org/abbey-commemorations/royals/henry-v-and-catherine-de-valois
+
 [^47]: All That's Interesting. "Catherine of Valois: Marriage to Henry V & History." https://allthatsinteresting.com/catherine-of-valois
+
 [^48]: Ancient Origins. "Catherine of Valois: Political Pawn, Dowager Queen and Life in the Shadows." https://www.ancient-origins.net/history-famous-people/catherine-valois-0013959
+
 [^49]: Wikipedia. "Catherine of Valois." https://en.wikipedia.org/wiki/Catherine_of_Valois
+
 [^50]: Wikipedia. "Henry V of England." https://en.wikipedia.org/wiki/Henry_V_of_England
+
 [^51]: Study.com. "King Henry V of England | Life, Death & Legacy - Lesson." https://study.com/academy/lesson/henry-v-of-england-timeline-accomplishments.html
+
 [^52]: Study.com. "King Henry V of England | Life, Death & Legacy - Lesson." https://study.com/academy/lesson/henry-v-of-england-timeline-accomplishments.html
+
 [^53]: Wikipedia. "St Crispin's Day Speech." https://en.wikipedia.org/wiki/St_Crispin's_Day_Speech
+
 [^54]: Folger Shakespeare Library. "Saint Crispin's Day Speech from Henry V." https://www.folger.edu/blogs/shakespeare-and-beyond/saint-crispins-day-speech-henry-v/
+
 [^55]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^56]: The Bubble. "Was Henry V really 'the greatest man who ever ruled England'?" https://www.thebubble.org.uk/culture/history/was-henry-v-really-the-greatest-man-who-ever-ruled-england/
+
 [^57]: Earth Site Education. "King Henry V of England: The Warrior King Who Redefined Europe." https://www.earth-site.co.uk/Education/king-henry-v/
+
 [^58]: The Bubble. "Was Henry V really 'the greatest man who ever ruled England'?" https://www.thebubble.org.uk/culture/history/was-henry-v-really-the-greatest-man-who-ever-ruled-england/
+
 [^59]: The Bubble. "Was Henry V really 'the greatest man who ever ruled England'?" https://www.thebubble.org.uk/culture/history/was-henry-v-really-the-greatest-man-who-ever-ruled-england/
+
 [^60]: Wikipedia. "Catherine of Valois." https://en.wikipedia.org/wiki/Catherine_of_Valois
+
 [^61]: Britannica. "Battle of Agincourt | Facts, Summary, & Significance." https://www.britannica.com/event/Battle-of-Agincourt
+
 [^62]: History Skills. "Henry V: The king who almost united England and France." https://www.historyskills.com/classroom/year-8/henry-v/
+
 [^63]: The Bubble. "Was Henry V really 'the greatest man who ever ruled England'?" https://www.thebubble.org.uk/culture/history/was-henry-v-really-the-greatest-man-who-ever-ruled-england/
+
 [^64]: Aspects of History. "England's Alexander, Dan Jones on Henry V." https://aspectsofhistory.com/author_interviews/englands-alexander-dan-jones-on-henry-v/
+
 [^65]: Penguin Random House. "Henry V by Dan Jones." https://www.penguinrandomhouse.com/books/716435/henry-v-by-dan-jones/
+
 [^66]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^67]: Historical Britain Blog. "Henry V, The Man Behind the Myth." https://historicalbritainblog.com/henry-v-the-man-behind-the-myth/
+
 [^68]: Megan's Medieval Museum. "Why do historians disagree? A comparison of biographies of Henry V." https://megansmedievalmuseum.wordpress.com/2017/09/09/why-do-historians-disagree-a-comparison-of-biographies-of-henry-v/
+
 [^69]: Penguin Random House. "Henry V by Dan Jones." https://www.penguinrandomhouse.com/books/716435/henry-v-by-dan-jones/
+
 [^70]: Smithsonian Magazine. "The True Story of Henry V, England's Warrior King." https://www.smithsonianmag.com/history/true-story-henry-v-englands-warrior-king-180973432/
+
 [^71]: No Sweat Shakespeare. "St Crispin's Day Speech: Henry V Speech W Analysis." https://nosweatshakespeare.com/quotes/monologues/feast-of-st-crispins-day-speech/
+
 [^72]: Wikipedia. "St Crispin's Day Speech." https://en.wikipedia.org/wiki/St_Crispin's_Day_Speech
+
 [^73]: Interesting Literature. "A Short Analysis of the 'St Crispin's Day' Speech from Henry V." https://interestingliterature.com/2021/02/shakespeare-henry-v-st-crispins-day-speech-analysis/
+
 [^74]: Internet Shakespeare Editions. "Henry V: Critical Reception." https://internetshakespeare.uvic.ca/doc/H5_CriticalSurvey/index.html
+
 [^75]: Folger Shakespeare Library. "Saint Crispin's Day Speech from Henry V." https://www.folger.edu/blogs/shakespeare-and-beyond/saint-crispins-day-speech-henry-v/

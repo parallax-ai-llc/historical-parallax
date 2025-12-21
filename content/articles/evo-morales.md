@@ -162,120 +162,188 @@ The 2019 election controversy remains central to negative assessments. While som
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1959 | Born in Isallavi, Oruro Department, Bolivia (October 26) |
-| 1977 | Migrates with family to Chapare region, becomes coca farmer |
-| 1985 | Joins coca growers' union movement |
-| 1988 | Becomes General Secretary of Cochabamba Federation of Coca Growers |
-| 1995 | Helps found Movement for Socialism (MAS) party |
-| 1997 | Elected to Bolivian Congress representing Cochabamba |
-| 2002 | Expelled from Congress; finishes second in presidential election with 20.9% |
-| 2005 | Wins presidential election with 53.7%, first majority in decades (December 18) |
-| 2006 | Inaugurated as Bolivia's first indigenous president (January 22); nationalizes gas industry (May 1) |
-| 2009 | New plurinational constitution approved by referendum; wins reelection with 64% |
-| 2013 | Launches Bolivia's first telecommunications satellite (Túpac Katari) |
-| 2014 | Wins third term with 61% after Constitutional Court ruling |
-| 2016 | Loses referendum on eliminating presidential term limits (51.3% to 48.7%) |
-| 2017 | Constitutional Court rules term limits violate his human rights, allowing indefinite reelection |
+| Year | Event                                                                                                                                                                |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1959 | Born in Isallavi, Oruro Department, Bolivia (October 26)                                                                                                             |
+| 1977 | Migrates with family to Chapare region, becomes coca farmer                                                                                                          |
+| 1985 | Joins coca growers' union movement                                                                                                                                   |
+| 1988 | Becomes General Secretary of Cochabamba Federation of Coca Growers                                                                                                   |
+| 1995 | Helps found Movement for Socialism (MAS) party                                                                                                                       |
+| 1997 | Elected to Bolivian Congress representing Cochabamba                                                                                                                 |
+| 2002 | Expelled from Congress; finishes second in presidential election with 20.9%                                                                                          |
+| 2005 | Wins presidential election with 53.7%, first majority in decades (December 18)                                                                                       |
+| 2006 | Inaugurated as Bolivia's first indigenous president (January 22); nationalizes gas industry (May 1)                                                                  |
+| 2009 | New plurinational constitution approved by referendum; wins reelection with 64%                                                                                      |
+| 2013 | Launches Bolivia's first telecommunications satellite (Túpac Katari)                                                                                                 |
+| 2014 | Wins third term with 61% after Constitutional Court ruling                                                                                                           |
+| 2016 | Loses referendum on eliminating presidential term limits (51.3% to 48.7%)                                                                                            |
+| 2017 | Constitutional Court rules term limits violate his human rights, allowing indefinite reelection                                                                      |
 | 2019 | Declared winner of disputed presidential election (October 20); resigns amid protests and military pressure (November 10); goes into exile in Mexico, then Argentina |
-| 2020 | Returns to Bolivia after MAS victory in new elections (November 9) |
-| 2023 | Splits with President Arce; attempts to control MAS party for potential 2025 candidacy |
+| 2020 | Returns to Bolivia after MAS victory in new elections (November 9)                                                                                                   |
+| 2023 | Splits with President Arce; attempts to control MAS party for potential 2025 candidacy                                                                               |
 
 ---
 
 ## Famous Quotes
 
 > "The worst enemy of humanity is U.S. capitalism. That is what provokes uprisings like our own, a rebellion against a system, against a neoliberal model, which is the representation of a savage capitalism. If the entire world doesn't acknowledge this reality, that the national states are not providing even minimally for health, education and nourishment, then each day the most fundamental human rights are being violated."
-> 
+>
 > — Speech at the United Nations, September 2006[^65]
 
 > "Sooner or later, we will have to recognize that the Earth has rights, too, to live without pollution. What mankind must know is that human beings cannot live without Mother Earth, but the planet can live without humans."
-> 
+>
 > — World People's Conference on Climate Change, 2010[^66]
 
 > "I am not just a president, I am a social movement. I am here to serve my people, not to enrich myself."
-> 
+>
 > — Interview, 2008[^67]
 
 > "The fight against drug trafficking is a false pretext for the US to install military bases and exercise control over our countries."
-> 
+>
 > — Statement on expelling US DEA from Bolivia, 2008[^68]
 
 > "500 years of resistance have not been in vain. We are here, and we will govern for all Bolivians, but most especially for the most marginalized, the most discriminated against, the most humiliated."
-> 
+>
 > — Inaugural address, January 22, 2006[^69]
 
 ---
 
 ## References
 
-[^1]: Webber, Jeffery R. *From Rebellion to Reform in Bolivia: Class Struggle, Indigenous Liberation, and the Politics of Evo Morales*. Haymarket Books, 2011.
-[^2]: Sivak, Martín. *Evo Morales: The Extraordinary Rise of the First Indigenous President of Bolivia*. Palgrave Macmillan, 2010.
-[^3]: Harten, Sven. *The Rise of Evo Morales and the MAS*. Zed Books, 2011.
-[^4]: Grisaffi, Thomas. "All of Us Are Presidents: Radical Democracy and Citizenship in the Chapare Province, Bolivia." *Critique of Anthropology* 33, no. 1 (2013): 47-65.
-[^5]: Farthing, Linda and Benjamin Kohl. *Evo's Bolivia: Continuity and Change*. University of Texas Press, 2014.
-[^6]: "Evo Morales Biography." *Encyclopedia Britannica*, accessed December 2025.
-[^7]: Ledebur, Kathryn. "Bolivia: Clear Consequences." In *Drugs and Democracy in Latin America: The Impact of U.S. Policy*, edited by Coletta Youngers and Eileen Rosin. Lynne Rienner Publishers, 2005.
-[^8]: Madrid, Raúl L. "The Rise of Ethno-Populism in Latin America." *World Politics* 60, no. 3 (2008): 475-508.
-[^9]: "Bolivian Congressman Expelled." *BBC News*, January 28, 2002.
-[^10]: Klein, Herbert S. *A Concise History of Bolivia*, 2nd ed. Cambridge University Press, 2011.
-[^11]: Kohl, Benjamin and Linda Farthing. *Impasse in Bolivia: Neoliberal Hegemony and Popular Resistance*. Zed Books, 2006.
-[^12]: "Bolivian Socialist Evo Morales Wins Presidential Election." *The Guardian*, December 19, 2005.
-[^13]: "Bolivia Takes Control of Oil and Gas." *BBC News*, May 2, 2006.
-[^14]: Webber, Jeffery R. and Barry Carr, eds. *The New Latin American Left: Cracks in the Empire*. Rowman & Littlefield, 2012.
+[^1]: Webber, Jeffery R. _From Rebellion to Reform in Bolivia: Class Struggle, Indigenous Liberation, and the Politics of Evo Morales_. Haymarket Books, 2011.
+
+[^2]: Sivak, Martín. _Evo Morales: The Extraordinary Rise of the First Indigenous President of Bolivia_. Palgrave Macmillan, 2010.
+
+[^3]: Harten, Sven. _The Rise of Evo Morales and the MAS_. Zed Books, 2011.
+
+[^4]: Grisaffi, Thomas. "All of Us Are Presidents: Radical Democracy and Citizenship in the Chapare Province, Bolivia." _Critique of Anthropology_ 33, no. 1 (2013): 47-65.
+
+[^5]: Farthing, Linda and Benjamin Kohl. _Evo's Bolivia: Continuity and Change_. University of Texas Press, 2014.
+
+[^6]: "Evo Morales Biography." _Encyclopedia Britannica_, accessed December 2025.
+
+[^7]: Ledebur, Kathryn. "Bolivia: Clear Consequences." In _Drugs and Democracy in Latin America: The Impact of U.S. Policy_, edited by Coletta Youngers and Eileen Rosin. Lynne Rienner Publishers, 2005.
+
+[^8]: Madrid, Raúl L. "The Rise of Ethno-Populism in Latin America." _World Politics_ 60, no. 3 (2008): 475-508.
+
+[^9]: "Bolivian Congressman Expelled." _BBC News_, January 28, 2002.
+
+[^10]: Klein, Herbert S. _A Concise History of Bolivia_, 2nd ed. Cambridge University Press, 2011.
+
+[^11]: Kohl, Benjamin and Linda Farthing. _Impasse in Bolivia: Neoliberal Hegemony and Popular Resistance_. Zed Books, 2006.
+
+[^12]: "Bolivian Socialist Evo Morales Wins Presidential Election." _The Guardian_, December 19, 2005.
+
+[^13]: "Bolivia Takes Control of Oil and Gas." _BBC News_, May 2, 2006.
+
+[^14]: Webber, Jeffery R. and Barry Carr, eds. _The New Latin American Left: Cracks in the Empire_. Rowman & Littlefield, 2012.
+
 [^15]: "Bolivia GDP Growth Rate." International Monetary Fund World Economic Outlook Database, accessed December 2025.
-[^16]: McNeish, John-Andrew. "Extraction, Protest and Indigeneity in Bolivia: The TIPNIS Effect." *Latin American and Caribbean Ethnic Studies* 8, no. 2 (2013): 221-242.
+
+[^16]: McNeish, John-Andrew. "Extraction, Protest and Indigeneity in Bolivia: The TIPNIS Effect." _Latin American and Caribbean Ethnic Studies_ 8, no. 2 (2013): 221-242.
+
 [^17]: "Bolivia Poverty Rate." World Bank Development Indicators Database, accessed December 2025.
+
 [^18]: ECLAC (Economic Commission for Latin America and the Caribbean). "Social Panorama of Latin America 2019." United Nations, 2019.
-[^19]: Schavelzon, Salvador. "The Bolivian Process of Constituent Assembly." In *Constitutional Democracy in Crisis?*, edited by Mark A. Graber, Sanford Levinson, and Mark Tushnet. Oxford University Press, 2018.
-[^20]: "Bolivia's Tupac Katari Satellite Launches." *Al Jazeera*, December 21, 2013.
-[^21]: Lalander, Rickard. "Ethnic Rights and the Dilemma of Extractive Development in Plurinational Bolivia." *The International Journal of Human Rights* 21, no. 4 (2017): 464-481.
-[^22]: "Bolivia Expels US Ambassador." *The New York Times*, September 11, 2008.
-[^23]: Cameron, Maxwell A. and Kenneth E. Sharpe. "Andean Left Turns: Constituent Power and Constitution Making." In *Latin America's Left Turns: Politics, Policies, and Trajectories of Change*, edited by Maxwell A. Cameron and Eric Hershberg. Lynne Rienner, 2010.
-[^24]: "Bolivians Reject Giving President Evo Morales Fourth Term." *The Guardian*, February 22, 2016.
-[^25]: Gamboa, Ricardo. "Weak Courts, Reluctant Judges: The Bolivian Constitutional Tribunal in Comparative Perspective." *Latin American Politics and Society* 62, no. 1 (2020): 83-106.
+
+[^19]: Schavelzon, Salvador. "The Bolivian Process of Constituent Assembly." In _Constitutional Democracy in Crisis?_, edited by Mark A. Graber, Sanford Levinson, and Mark Tushnet. Oxford University Press, 2018.
+
+[^20]: "Bolivia's Tupac Katari Satellite Launches." _Al Jazeera_, December 21, 2013.
+
+[^21]: Lalander, Rickard. "Ethnic Rights and the Dilemma of Extractive Development in Plurinational Bolivia." _The International Journal of Human Rights_ 21, no. 4 (2017): 464-481.
+
+[^22]: "Bolivia Expels US Ambassador." _The New York Times_, September 11, 2008.
+
+[^23]: Cameron, Maxwell A. and Kenneth E. Sharpe. "Andean Left Turns: Constituent Power and Constitution Making." In _Latin America's Left Turns: Politics, Policies, and Trajectories of Change_, edited by Maxwell A. Cameron and Eric Hershberg. Lynne Rienner, 2010.
+
+[^24]: "Bolivians Reject Giving President Evo Morales Fourth Term." _The Guardian_, February 22, 2016.
+
+[^25]: Gamboa, Ricardo. "Weak Courts, Reluctant Judges: The Bolivian Constitutional Tribunal in Comparative Perspective." _Latin American Politics and Society_ 62, no. 1 (2020): 83-106.
+
 [^26]: "Bolivia Election Results 2019." Organization of American States Electoral Observation Mission Report, December 2019.
+
 [^27]: Escobari, Diego and Gary Hoover. "Evo Morales and Electoral Fraud in Bolivia: A Natural Experiment and Discontinuity Evidence." Working Paper, 2020.
-[^28]: Wolff, Jonas. "The Turbulent End of an Era in Bolivia: Contested Elections, the Ouster of Evo Morales, and the Beginning of a Transition towards an Uncertain Future." *Revista de Ciencia Política* 40, no. 2 (2020): 163-186.
-[^29]: Gustafson, Bret. "The Paradoxes of Liberal Indigenism: Indigenous Movements, State Processes, and Intercultural Reform in Bolivia." In *The New Latin American Left: Utopia Reborn*, edited by Patrick S. Barrett, Daniel Chavez, and César Rodríguez-Garavito. Pluto Press, 2008.
-[^30]: "Amazon Deforestation Surges in Bolivia." *Mongabay*, November 15, 2018.
-[^31]: "Bolivia's Evo Morales Caught Up in Child Scandal." *BBC News*, February 24, 2016.
+
+[^28]: Wolff, Jonas. "The Turbulent End of an Era in Bolivia: Contested Elections, the Ouster of Evo Morales, and the Beginning of a Transition towards an Uncertain Future." _Revista de Ciencia Política_ 40, no. 2 (2020): 163-186.
+
+[^29]: Gustafson, Bret. "The Paradoxes of Liberal Indigenism: Indigenous Movements, State Processes, and Intercultural Reform in Bolivia." In _The New Latin American Left: Utopia Reborn_, edited by Patrick S. Barrett, Daniel Chavez, and César Rodríguez-Garavito. Pluto Press, 2008.
+
+[^30]: "Amazon Deforestation Surges in Bolivia." _Mongabay_, November 15, 2018.
+
+[^31]: "Bolivia's Evo Morales Caught Up in Child Scandal." _BBC News_, February 24, 2016.
+
 [^32]: "Bolivia: Events of 2018." Human Rights Watch World Report 2019.
+
 [^33]: "Freedom in the World 2019: Bolivia." Freedom House, accessed December 2025.
-[^34]: Humphreys Bebbington, Denise and Anthony Bebbington. "Anatomy of a Regional Conflict: Tarija and Resource Grievances in Morales's Bolivia." *Latin American Perspectives* 38, no. 4 (2011): 140-160.
-[^35]: "The Enigmatic Private Life of Evo Morales." *Los Angeles Times*, January 18, 2009.
-[^36]: "Evo Morales Ex-girlfriend Gets 10 Years for Corruption." *BBC News*, September 14, 2018.
-[^37]: Canessa, Andrew. "Who Is Indigenous? Self-Identification, Indigeneity, and Claims to Justice in Contemporary Bolivia." *Urban Anthropology and Studies of Cultural Systems and World Economic Development* 36, no. 3 (2007): 195-237.
-[^38]: "Bolivia's Evo Morales: Man of the People or Power Seeker?" *The Economist*, February 20, 2016.
-[^39]: "Evo Morales: 'I Want to Be Remembered as the President Who Gave Dignity to Bolivians.'" *The Guardian*, October 14, 2014.
-[^40]: Albro, Robert. "The Indigenous in the Plural in Bolivian Oppositional Politics." *Bulletin of Latin American Research* 24, no. 4 (2005): 433-453.
-[^41]: Postero, Nancy. *The Indigenous State: Race, Politics, and Performance in Plurinational Bolivia*. University of California Press, 2017.
-[^42]: García Linera, Álvaro. "The State in Transition: Power Bloc and Point of Bifurcation." *Latin American Perspectives* 37, no. 4 (2010): 34-47.
-[^43]: Anria, Santiago. *When Movements Become Parties: The Bolivian MAS in Comparative Perspective*. Cambridge University Press, 2018.
-[^44]: Cameron, John D. *Struggle for Change: The Story of One Town's Effort to Make Social Transformation and Participatory Democracy a Reality in Bolivia*. Kumarian Press, 2009.
-[^45]: de la Cadena, Marisol and Orin Starn, eds. *Indigenous Experience Today*. Berg, 2007.
-[^46]: Levitsky, Steven and Daniel Ziblatt. *How Democracies Die*. Crown, 2018.
-[^47]: "Luis Arce Wins Bolivia Presidential Election." *Financial Times*, October 19, 2020.
-[^48]: "Evo Morales and Luis Arce: Bolivia's Left Divided." *Americas Quarterly*, July 2023.
-[^49]: Kaup, Brent Z. *Neostructuralism and the Promises of Progressive Extractivism: The Political Economy of Resource Governance in Bolivia and Ecuador*. Routledge, 2021.
-[^50]: Fabricant, Nicole and Bret Gustafson. *Remapping Bolivia: Resources, Territory, and Indigeneity in a Plurinational State*. SAR Press, 2011.
-[^51]: Centellas, Miguel. "Bolivia's New Multicultural Constitution: The 2009 Constitution in Historical and Comparative Perspective." In *Latin American Constitutions: The Constitution of Cádiz and Its Legacy in Spanish America*, edited by Scott Eastman and Natalia Sobrevilla Perea. Universidad Carlos III, 2012.
+
+[^34]: Humphreys Bebbington, Denise and Anthony Bebbington. "Anatomy of a Regional Conflict: Tarija and Resource Grievances in Morales's Bolivia." _Latin American Perspectives_ 38, no. 4 (2011): 140-160.
+
+[^35]: "The Enigmatic Private Life of Evo Morales." _Los Angeles Times_, January 18, 2009.
+
+[^36]: "Evo Morales Ex-girlfriend Gets 10 Years for Corruption." _BBC News_, September 14, 2018.
+
+[^37]: Canessa, Andrew. "Who Is Indigenous? Self-Identification, Indigeneity, and Claims to Justice in Contemporary Bolivia." _Urban Anthropology and Studies of Cultural Systems and World Economic Development_ 36, no. 3 (2007): 195-237.
+
+[^38]: "Bolivia's Evo Morales: Man of the People or Power Seeker?" _The Economist_, February 20, 2016.
+
+[^39]: "Evo Morales: 'I Want to Be Remembered as the President Who Gave Dignity to Bolivians.'" _The Guardian_, October 14, 2014.
+
+[^40]: Albro, Robert. "The Indigenous in the Plural in Bolivian Oppositional Politics." _Bulletin of Latin American Research_ 24, no. 4 (2005): 433-453.
+
+[^41]: Postero, Nancy. _The Indigenous State: Race, Politics, and Performance in Plurinational Bolivia_. University of California Press, 2017.
+
+[^42]: García Linera, Álvaro. "The State in Transition: Power Bloc and Point of Bifurcation." _Latin American Perspectives_ 37, no. 4 (2010): 34-47.
+
+[^43]: Anria, Santiago. _When Movements Become Parties: The Bolivian MAS in Comparative Perspective_. Cambridge University Press, 2018.
+
+[^44]: Cameron, John D. _Struggle for Change: The Story of One Town's Effort to Make Social Transformation and Participatory Democracy a Reality in Bolivia_. Kumarian Press, 2009.
+
+[^45]: de la Cadena, Marisol and Orin Starn, eds. _Indigenous Experience Today_. Berg, 2007.
+
+[^46]: Levitsky, Steven and Daniel Ziblatt. _How Democracies Die_. Crown, 2018.
+
+[^47]: "Luis Arce Wins Bolivia Presidential Election." _Financial Times_, October 19, 2020.
+
+[^48]: "Evo Morales and Luis Arce: Bolivia's Left Divided." _Americas Quarterly_, July 2023.
+
+[^49]: Kaup, Brent Z. _Neostructuralism and the Promises of Progressive Extractivism: The Political Economy of Resource Governance in Bolivia and Ecuador_. Routledge, 2021.
+
+[^50]: Fabricant, Nicole and Bret Gustafson. _Remapping Bolivia: Resources, Territory, and Indigeneity in a Plurinational State_. SAR Press, 2011.
+
+[^51]: Centellas, Miguel. "Bolivia's New Multicultural Constitution: The 2009 Constitution in Historical and Comparative Perspective." In _Latin American Constitutions: The Constitution of Cádiz and Its Legacy in Spanish America_, edited by Scott Eastman and Natalia Sobrevilla Perea. Universidad Carlos III, 2012.
+
 [^52]: Weisbrot, Mark and Jake Johnston. "Bolivia's Economy Under Evo Morales." Center for Economic and Policy Research, January 2011.
-[^53]: Klein, Naomi. *This Changes Everything: Capitalism vs. The Climate*. Simon & Schuster, 2014.
-[^54]: Postero, Nancy. "Morales's MAS Government: Building Indigenous Popular Hegemony in Bolivia." *Latin American Perspectives* 37, no. 3 (2010): 18-34.
-[^55]: Grandin, Greg. *Empire's Workshop: Latin America, the United States, and the Making of an Imperial Republic*. Metropolitan Books, 2006.
-[^56]: Crabtree, John and Ann Chaplin. *Bolivia: Processes of Change*. Zed Books, 2013.
-[^57]: Sánchez Berzaín, Carlos. "The Criminal Convergence in Latin America." *InterAmerican Institute for Democracy*, March 2019.
-[^58]: Field, Shannon. "Judicialization, Democracy, and the Rule of Law: The Political Instrumentalization of Bolivia's Constitutional Court." *Constitutional Studies* 4, no. 1 (2019): 185-216.
-[^59]: Sandbrook, Richard, et al. *Social Democracy in the Global Periphery: Origins, Challenges, Prospects*. Cambridge University Press, 2007.
-[^60]: Rivera Cusicanqui, Silvia. "Ch'ixinakax utxiwa: A Reflection on the Practices and Discourses of Decolonization." *South Atlantic Quarterly* 111, no. 1 (2012): 95-109.
+
+[^53]: Klein, Naomi. _This Changes Everything: Capitalism vs. The Climate_. Simon & Schuster, 2014.
+
+[^54]: Postero, Nancy. "Morales's MAS Government: Building Indigenous Popular Hegemony in Bolivia." _Latin American Perspectives_ 37, no. 3 (2010): 18-34.
+
+[^55]: Grandin, Greg. _Empire's Workshop: Latin America, the United States, and the Making of an Imperial Republic_. Metropolitan Books, 2006.
+
+[^56]: Crabtree, John and Ann Chaplin. _Bolivia: Processes of Change_. Zed Books, 2013.
+
+[^57]: Sánchez Berzaín, Carlos. "The Criminal Convergence in Latin America." _InterAmerican Institute for Democracy_, March 2019.
+
+[^58]: Field, Shannon. "Judicialization, Democracy, and the Rule of Law: The Political Instrumentalization of Bolivia's Constitutional Court." _Constitutional Studies_ 4, no. 1 (2019): 185-216.
+
+[^59]: Sandbrook, Richard, et al. _Social Democracy in the Global Periphery: Origins, Challenges, Prospects_. Cambridge University Press, 2007.
+
+[^60]: Rivera Cusicanqui, Silvia. "Ch'ixinakax utxiwa: A Reflection on the Practices and Discourses of Decolonization." _South Atlantic Quarterly_ 111, no. 1 (2012): 95-109.
+
 [^61]: "Bolivia: Events of 2017." Human Rights Watch World Report 2018.
+
 [^62]: "Freedom in the World 2019: Bolivia." Freedom House.
-[^63]: Paz Rada, Eduardo. "The MAS Regime: A Leftist Failure." *Journal of Democracy* 31, no. 3 (2020): 151-165.
+
+[^63]: Paz Rada, Eduardo. "The MAS Regime: A Leftist Failure." _Journal of Democracy_ 31, no. 3 (2020): 151-165.
+
 [^64]: Idrobo, Nicolás, Dorothy Kronick, and Francisco Rodríguez. "Do Shifts in Late-Counted Votes Signal Fraud? Evidence from Bolivia." Working Paper, 2020.
+
 [^65]: "Text of Evo Morales's Speech to UN General Assembly." September 21, 2006.
+
 [^66]: "World People's Conference on Climate Change and the Rights of Mother Earth: Final Conclusions." Cochabamba, Bolivia, April 22, 2010.
-[^67]: Interview with *Time Magazine*, August 2008.
-[^68]: "Bolivia to Expel DEA." *Reuters*, November 1, 2008.
+
+[^67]: Interview with _Time Magazine_, August 2008.
+
+[^68]: "Bolivia to Expel DEA." _Reuters_, November 1, 2008.
+
 [^69]: "Inaugural Address of Evo Morales." La Paz, Bolivia, January 22, 2006.

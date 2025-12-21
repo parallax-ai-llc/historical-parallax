@@ -125,26 +125,26 @@ Holocaust survivors and their advocates have been particularly forceful in conde
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1856 | Born April 24 in Cauchy-à-la-Tour, Pas-de-Calais, France |
-| 1876 | Entered École Spéciale Militaire de Saint-Cyr |
-| 1878 | Graduated from Saint-Cyr, commissioned as infantry officer |
-| 1888 | Attended École Supérieure de Guerre (War College) |
-| 1914 | Promoted to brigadier general at outbreak of World War I |
-| 1916 | Appointed commander of Verdun defense; promoted to army group commander |
-| 1917 | Became Commander-in-Chief of French forces (May); Marshal of France (November) |
-| 1918 | Led French forces to victory in World War I |
-| 1920 | Married Eugénie Hardon |
-| 1925-26 | Commanded French forces in Rif War in Morocco |
-| 1934 | Appointed Minister of War |
-| 1939 | Appointed Ambassador to Spain (February) |
-| 1940 | Recalled as Vice Premier (May 18); became Premier (June 16); signed armistice with Germany (June 22); granted full powers by National Assembly (July 10); established État Français at Vichy |
-| 1940 | Promulgated Statut des Juifs antisemitic legislation (October) |
-| 1942 | Vel d'Hiv roundup of Jews in Paris (July); Germans occupied Vichy zone (November) |
-| 1944 | Germans forced Vichy government to relocate to Sigmaringen, Germany (September) |
-| 1945 | Voluntarily returned to France (April); arrested and tried for treason (July-August); convicted and sentenced to death (August 15); sentence commuted to life imprisonment by de Gaulle |
-| 1951 | Died July 23 on Île d'Yeu at age 95 |
+| Year    | Event                                                                                                                                                                                        |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1856    | Born April 24 in Cauchy-à-la-Tour, Pas-de-Calais, France                                                                                                                                     |
+| 1876    | Entered École Spéciale Militaire de Saint-Cyr                                                                                                                                                |
+| 1878    | Graduated from Saint-Cyr, commissioned as infantry officer                                                                                                                                   |
+| 1888    | Attended École Supérieure de Guerre (War College)                                                                                                                                            |
+| 1914    | Promoted to brigadier general at outbreak of World War I                                                                                                                                     |
+| 1916    | Appointed commander of Verdun defense; promoted to army group commander                                                                                                                      |
+| 1917    | Became Commander-in-Chief of French forces (May); Marshal of France (November)                                                                                                               |
+| 1918    | Led French forces to victory in World War I                                                                                                                                                  |
+| 1920    | Married Eugénie Hardon                                                                                                                                                                       |
+| 1925-26 | Commanded French forces in Rif War in Morocco                                                                                                                                                |
+| 1934    | Appointed Minister of War                                                                                                                                                                    |
+| 1939    | Appointed Ambassador to Spain (February)                                                                                                                                                     |
+| 1940    | Recalled as Vice Premier (May 18); became Premier (June 16); signed armistice with Germany (June 22); granted full powers by National Assembly (July 10); established État Français at Vichy |
+| 1940    | Promulgated Statut des Juifs antisemitic legislation (October)                                                                                                                               |
+| 1942    | Vel d'Hiv roundup of Jews in Paris (July); Germans occupied Vichy zone (November)                                                                                                            |
+| 1944    | Germans forced Vichy government to relocate to Sigmaringen, Germany (September)                                                                                                              |
+| 1945    | Voluntarily returned to France (April); arrested and tried for treason (July-August); convicted and sentenced to death (August 15); sentence commuted to life imprisonment by de Gaulle      |
+| 1951    | Died July 23 on Île d'Yeu at age 95                                                                                                                                                          |
 
 ---
 
@@ -164,74 +164,74 @@ Holocaust survivors and their advocates have been particularly forceful in conde
 
 ## References
 
-[^1]: Paxton, Robert O. *Vichy France: Old Guard and New Order, 1940-1944*. Columbia University Press, 1972.
+[^1]: Paxton, Robert O. _Vichy France: Old Guard and New Order, 1940-1944_. Columbia University Press, 1972.
 
-[^2]: Jackson, Julian. *France: The Dark Years, 1940-1944*. Oxford University Press, 2001.
+[^2]: Jackson, Julian. _France: The Dark Years, 1940-1944_. Oxford University Press, 2001.
 
-[^3]: Atkin, Nicholas. *Pétain*. Routledge, 1998.
+[^3]: Atkin, Nicholas. _Pétain_. Routledge, 1998.
 
-[^4]: Griffiths, Richard. *Marshal Pétain*. Constable, 1970.
+[^4]: Griffiths, Richard. _Marshal Pétain_. Constable, 1970.
 
-[^5]: Williams, Charles. *Pétain: How the Hero of France Became a Convicted Traitor and Changed the Course of History*. Palgrave Macmillan, 2005.
+[^5]: Williams, Charles. _Pétain: How the Hero of France Became a Convicted Traitor and Changed the Course of History_. Palgrave Macmillan, 2005.
 
-[^6]: Rousso, Henry. *The Vichy Syndrome: History and Memory in France since 1944*. Harvard University Press, 1991.
+[^6]: Rousso, Henry. _The Vichy Syndrome: History and Memory in France since 1944_. Harvard University Press, 1991.
 
-[^7]: Marrus, Michael R. and Robert O. Paxton. *Vichy France and the Jews*. Stanford University Press, 1995.
+[^7]: Marrus, Michael R. and Robert O. Paxton. _Vichy France and the Jews_. Stanford University Press, 1995.
 
-[^8]: Cointet, Michèle and Jean-Paul. *La France à Londres: Renaissance d'un État 1940-1943*. Editions Complexe, 1990.
+[^8]: Cointet, Michèle and Jean-Paul. _La France à Londres: Renaissance d'un État 1940-1943_. Editions Complexe, 1990.
 
-[^9]: Azéma, François and Olivier Wieviorka. *Vichy, 1940-1944*. Perrin, 1997.
+[^9]: Azéma, François and Olivier Wieviorka. _Vichy, 1940-1944_. Perrin, 1997.
 
-[^10]: Halls, W.D. *Politics, Society and Christianity in Vichy France*. Berg Publishers, 1995.
+[^10]: Halls, W.D. _Politics, Society and Christianity in Vichy France_. Berg Publishers, 1995.
 
-[^11]: Jackson, Julian. *The Fall of France: The Nazi Invasion of 1940*. Oxford University Press, 2003.
+[^11]: Jackson, Julian. _The Fall of France: The Nazi Invasion of 1940_. Oxford University Press, 2003.
 
-[^12]: Kedward, Harry Roderick. *Occupied France: Collaboration and Resistance 1940-1944*. Blackwell, 1985.
+[^12]: Kedward, Harry Roderick. _Occupied France: Collaboration and Resistance 1940-1944_. Blackwell, 1985.
 
-[^13]: Poznanski, Renée. *Jews in France during World War II*. Brandeis University Press, 2001.
+[^13]: Poznanski, Renée. _Jews in France during World War II_. Brandeis University Press, 2001.
 
-[^14]: Jennings, Eric T. *Vichy in the Tropics: Pétain's National Revolution in Madagascar, Guadeloupe, and Indochina, 1940-1944*. Stanford University Press, 2001.
+[^14]: Jennings, Eric T. _Vichy in the Tropics: Pétain's National Revolution in Madagascar, Guadeloupe, and Indochina, 1940-1944_. Stanford University Press, 2001.
 
-[^15]: Nord, Philip. *France's New Deal: From the Thirties to the Postwar Era*. Princeton University Press, 2010.
+[^15]: Nord, Philip. _France's New Deal: From the Thirties to the Postwar Era_. Princeton University Press, 2010.
 
-[^16]: Gildea, Robert. *Marianne in Chains: Daily Life in the Heart of France During the German Occupation*. Metropolitan Books, 2003.
+[^16]: Gildea, Robert. _Marianne in Chains: Daily Life in the Heart of France During the German Occupation_. Metropolitan Books, 2003.
 
-[^17]: Burrin, Philippe. *France Under the Germans: Collaboration and Compromise*. New Press, 1996.
+[^17]: Burrin, Philippe. _France Under the Germans: Collaboration and Compromise_. New Press, 1996.
 
-[^18]: Ousby, Ian. *Occupation: The Ordeal of France 1940-1944*. St. Martin's Press, 1998.
+[^18]: Ousby, Ian. _Occupation: The Ordeal of France 1940-1944_. St. Martin's Press, 1998.
 
-[^19]: Diamond, Hanna. *Fleeing Hitler: France 1940*. Oxford University Press, 2007.
+[^19]: Diamond, Hanna. _Fleeing Hitler: France 1940_. Oxford University Press, 2007.
 
-[^20]: Dank, Milton. *The French Against the French: Collaboration and Resistance*. Lippincott, 1974.
+[^20]: Dank, Milton. _The French Against the French: Collaboration and Resistance_. Lippincott, 1974.
 
-[^21]: Sweets, John F. *Choices in Vichy France: The French Under Nazi Occupation*. Oxford University Press, 1986.
+[^21]: Sweets, John F. _Choices in Vichy France: The French Under Nazi Occupation_. Oxford University Press, 1986.
 
-[^22]: Gordon, Bertram M. *Collaborationism in France during the Second World War*. Cornell University Press, 1980.
+[^22]: Gordon, Bertram M. _Collaborationism in France during the Second World War_. Cornell University Press, 1980.
 
-[^23]: Laborie, Pierre. *L'Opinion française sous Vichy*. Seuil, 1990.
+[^23]: Laborie, Pierre. _L'Opinion française sous Vichy_. Seuil, 1990.
 
-[^24]: Weisberg, Richard H. *Vichy Law and the Holocaust in France*. Harwood Academic Publishers, 1996.
+[^24]: Weisberg, Richard H. _Vichy Law and the Holocaust in France_. Harwood Academic Publishers, 1996.
 
-[^25]: Vinen, Richard. *The Unfree French: Life Under the Occupation*. Yale University Press, 2006.
+[^25]: Vinen, Richard. _The Unfree French: Life Under the Occupation_. Yale University Press, 2006.
 
-[^26]: Lottman, Herbert R. *Pétain: Hero or Traitor - The Untold Story*. William Morrow, 1985.
+[^26]: Lottman, Herbert R. _Pétain: Hero or Traitor - The Untold Story_. William Morrow, 1985.
 
-[^27]: Pedroncini, Guy. *Pétain: Général en chef 1917-1918*. Presses Universitaires de France, 1974.
+[^27]: Pedroncini, Guy. _Pétain: Général en chef 1917-1918_. Presses Universitaires de France, 1974.
 
-[^28]: Griffiths, Richard. *Marshal Pétain*. Constable & Robinson, 1970.
+[^28]: Griffiths, Richard. _Marshal Pétain_. Constable & Robinson, 1970.
 
-[^29]: Bankwitz, Philip Charles Farwell. *Maxime Weygand and Civil-Military Relations in Modern France*. Harvard University Press, 1967.
+[^29]: Bankwitz, Philip Charles Farwell. _Maxime Weygand and Civil-Military Relations in Modern France_. Harvard University Press, 1967.
 
-[^30]: Clayton, Anthony. *Paths of Glory: The French Army 1914-18*. Cassell, 2003.
+[^30]: Clayton, Anthony. _Paths of Glory: The French Army 1914-18_. Cassell, 2003.
 
-[^31]: Horne, Alistair. *The Price of Glory: Verdun 1916*. Penguin Books, 1993.
+[^31]: Horne, Alistair. _The Price of Glory: Verdun 1916_. Penguin Books, 1993.
 
-[^32]: King, David. *The Trial of Marshal Pétain*. Stein and Day, 1958.
+[^32]: King, David. _The Trial of Marshal Pétain_. Stein and Day, 1958.
 
-[^33]: Kupferman, Fred. *Laval*. Balland, 1987.
+[^33]: Kupferman, Fred. _Laval_. Balland, 1987.
 
-[^34]: Webster, Paul. *Pétain's Crime: The Full Story of French Collaboration in the Holocaust*. Ivan R. Dee, 1991.
+[^34]: Webster, Paul. _Pétain's Crime: The Full Story of French Collaboration in the Holocaust_. Ivan R. Dee, 1991.
 
-[^35]: Zuccotti, Susan. *The Holocaust, the French, and the Jews*. Basic Books, 1993.
+[^35]: Zuccotti, Susan. _The Holocaust, the French, and the Jews_. Basic Books, 1993.
 
-[^36]: Curtis, Michael. *Verdict on Vichy: Power and Prejudice in the Vichy France Regime*. Arcade Publishing, 2002.
+[^36]: Curtis, Michael. _Verdict on Vichy: Power and Prejudice in the Vichy France Regime_. Arcade Publishing, 2002.

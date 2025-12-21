@@ -159,31 +159,31 @@ Critics of her governing style argue that consensus-seeking became an excuse for
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1954 | Born in Hamburg, West Germany on July 17 |
-| 1954 | Family moves to East Germany |
-| 1973 | Begins studying physics at University of Leipzig |
-| 1977 | Marries Ulrich Merkel |
-| 1986 | Earns doctorate in quantum chemistry |
-| 1989 | Berlin Wall falls on November 9; joins Democratic Awakening party |
-| 1990 | German reunification; elected to Bundestag |
-| 1991 | Appointed Minister for Women and Youth by Chancellor Kohl |
-| 1994 | Becomes Minister for the Environment, Nature Conservation and Nuclear Safety |
-| 1998 | Marries Joachim Sauer; CDU loses federal election |
-| 1999 | Publishes article calling for CDU to distance itself from Kohl |
-| 2000 | Elected leader of the CDU in April |
-| 2005 | Becomes Chancellor of Germany on November 22 |
-| 2008-09 | Leads Germany through global financial crisis |
-| 2010 | European sovereign debt crisis begins |
-| 2011 | Announces nuclear phaseout following Fukushima disaster |
-| 2013 | Wins third term as Chancellor; NSA surveillance scandal strains US relations |
-| 2014 | Russia annexes Crimea; Merkel helps negotiate Minsk agreements |
-| 2015 | Opens borders to refugees; "Wir schaffen das" speech |
-| 2017 | Wins fourth term; AfD enters Bundestag for first time |
-| 2018 | Announces she will not seek re-election as CDU leader |
-| 2020-21 | Manages COVID-19 pandemic response |
-| 2021 | Steps down as Chancellor on December 8 after 16 years in office |
+| Year    | Event                                                                        |
+| ------- | ---------------------------------------------------------------------------- |
+| 1954    | Born in Hamburg, West Germany on July 17                                     |
+| 1954    | Family moves to East Germany                                                 |
+| 1973    | Begins studying physics at University of Leipzig                             |
+| 1977    | Marries Ulrich Merkel                                                        |
+| 1986    | Earns doctorate in quantum chemistry                                         |
+| 1989    | Berlin Wall falls on November 9; joins Democratic Awakening party            |
+| 1990    | German reunification; elected to Bundestag                                   |
+| 1991    | Appointed Minister for Women and Youth by Chancellor Kohl                    |
+| 1994    | Becomes Minister for the Environment, Nature Conservation and Nuclear Safety |
+| 1998    | Marries Joachim Sauer; CDU loses federal election                            |
+| 1999    | Publishes article calling for CDU to distance itself from Kohl               |
+| 2000    | Elected leader of the CDU in April                                           |
+| 2005    | Becomes Chancellor of Germany on November 22                                 |
+| 2008-09 | Leads Germany through global financial crisis                                |
+| 2010    | European sovereign debt crisis begins                                        |
+| 2011    | Announces nuclear phaseout following Fukushima disaster                      |
+| 2013    | Wins third term as Chancellor; NSA surveillance scandal strains US relations |
+| 2014    | Russia annexes Crimea; Merkel helps negotiate Minsk agreements               |
+| 2015    | Opens borders to refugees; "Wir schaffen das" speech                         |
+| 2017    | Wins fourth term; AfD enters Bundestag for first time                        |
+| 2018    | Announces she will not seek re-election as CDU leader                        |
+| 2020-21 | Manages COVID-19 pandemic response                                           |
+| 2021    | Steps down as Chancellor on December 8 after 16 years in office              |
 
 ---
 
@@ -205,90 +205,176 @@ Critics of her governing style argue that consensus-seeking became an excuse for
 
 ## References
 
-[^1]: Marton, Kati. *The Chancellor: The Remarkable Odyssey of Angela Merkel*. Simon & Schuster, 2021.
-[^2]: Qvortrup, Matthew. *Angela Merkel: Europe's Most Influential Leader*. Overlook Press, 2016.
-[^3]: Crawford, Alan and Tony Czuczka. *Angela Merkel: A Chancellorship Forged in Crisis*. Bloomberg Press, 2013.
-[^4]: Langguth, Gerd. *Angela Merkel*. DTV, 2005.
-[^5]: Roll, Evelyn. *Die Kanzlerin: Angela Merkels Weg zur Macht*. Ullstein, 2009.
-[^6]: "Angela Merkel: Germany's Reluctant Revolutionary," *The Economist*, November 14, 2015.
+[^1]: Marton, Kati. _The Chancellor: The Remarkable Odyssey of Angela Merkel_. Simon & Schuster, 2021.
+
+[^2]: Qvortrup, Matthew. _Angela Merkel: Europe's Most Influential Leader_. Overlook Press, 2016.
+
+[^3]: Crawford, Alan and Tony Czuczka. _Angela Merkel: A Chancellorship Forged in Crisis_. Bloomberg Press, 2013.
+
+[^4]: Langguth, Gerd. _Angela Merkel_. DTV, 2005.
+
+[^5]: Roll, Evelyn. _Die Kanzlerin: Angela Merkels Weg zur Macht_. Ullstein, 2009.
+
+[^6]: "Angela Merkel: Germany's Reluctant Revolutionary," _The Economist_, November 14, 2015.
+
 [^7]: Merkel, Angela. "Investigation of the mechanism of decay reactions with single bond breaking and calculation of their rate constants on the basis of quantum chemical and statistical methods," Dissertation, Academy of Sciences, 1986.
-[^8]: Musharbash, Yassin. "The Physicist Who Became a Politician," *Der Spiegel*, November 22, 2005.
-[^9]: Bennhold, Katrin. "Angela Merkel's Husband Stays Out of the Spotlight," *New York Times*, September 24, 2017.
-[^10]: Sarotte, Mary Elise. *The Collapse: The Accidental Opening of the Berlin Wall*. Basic Books, 2014.
-[^11]: Clemens, Clay. "The CDU, the CSU, and the Eastern Länder." In *The Christian Democratic Union*, Konrad Adenauer Foundation, 1998.
-[^12]: Patzelt, Werner J. *Parlamente und ihre Funktionen*. VS Verlag, 2003.
-[^13]: Weiland, Severin. "Helmut Kohl's Protégé," *Spiegel Online*, June 16, 2017.
-[^14]: Musharbash, Yassin and Dirk Kurbjuweit. "How Merkel Became Germany's Most Powerful Politician," *Der Spiegel*, September 30, 2013.
+
+[^8]: Musharbash, Yassin. "The Physicist Who Became a Politician," _Der Spiegel_, November 22, 2005.
+
+[^9]: Bennhold, Katrin. "Angela Merkel's Husband Stays Out of the Spotlight," _New York Times_, September 24, 2017.
+
+[^10]: Sarotte, Mary Elise. _The Collapse: The Accidental Opening of the Berlin Wall_. Basic Books, 2014.
+
+[^11]: Clemens, Clay. "The CDU, the CSU, and the Eastern Länder." In _The Christian Democratic Union_, Konrad Adenauer Foundation, 1998.
+
+[^12]: Patzelt, Werner J. _Parlamente und ihre Funktionen_. VS Verlag, 2003.
+
+[^13]: Weiland, Severin. "Helmut Kohl's Protégé," _Spiegel Online_, June 16, 2017.
+
+[^14]: Musharbash, Yassin and Dirk Kurbjuweit. "How Merkel Became Germany's Most Powerful Politician," _Der Spiegel_, September 30, 2013.
+
 [^15]: Federal Ministry for the Environment, Nature Conservation and Nuclear Safety archives, 1994-1998.
+
 [^16]: "Germany's CDU Funding Scandal," BBC News, January 18, 2000.
-[^17]: Merkel, Angela. "Es geht um unsere Zukunft," *Frankfurter Allgemeine Zeitung*, December 22, 1999.
-[^18]: Lau, Jörg. "Merkels Machtergreifung," *Die Zeit*, April 10, 2000.
-[^19]: Green, Simon and Dan Hough. *The Politics of the New Germany*. Routledge, 2014.
-[^20]: Dustmann, Christian et al. "From Sick Man of Europe to Economic Superstar: Germany's Resurgent Economy," *Journal of Economic Perspectives* 28, no. 1 (2014): 167-188.
-[^21]: Brunnermeier, Markus K., Harold James, and Jean-Pierre Landau. *The Euro and the Battle of Ideas*. Princeton University Press, 2016.
-[^22]: Matthijs, Matthias and Mark Blyth. "Why Only Germany Can Fix the Euro," *Foreign Affairs* 90, no. 6 (2011): 49-57.
-[^23]: "Germany Opens Its Gates: Merkel's Difficult Decision on Refugees," *Der Spiegel*, September 7, 2015.
-[^24]: Musharbash, Yassin and Gordon Repinski. "The Night Germany Lost Control," *Der Spiegel*, August 29, 2016.
-[^25]: Fischer, Sabine. "The Minsk Agreements—More Than 'Scraps of Paper'?" *SWP Comments* 20 (2016).
-[^26]: Schreurs, Miranda A. "From the Bottom Up: Environmental Federalism in Germany," *German Politics* 22, no. 1-2 (2013): 37-57.
-[^27]: Morris, Craig and Martin Pehnt. *Energy Transition: The German Energiewende*. Heinrich Böll Foundation, 2016.
-[^28]: Henley, Jon. "Angela Merkel Draws on Science Background in Covid-19 Explainer," *The Guardian*, April 16, 2020.
-[^29]: Kundnani, Hans. "What Is the Liberal International Order?" *German Marshall Fund Policy Brief* 17 (2017).
-[^30]: Smale, Alison. "Merkel, After Discordant G-7 Meeting, Is Looking Past Trump," *New York Times*, May 28, 2017.
-[^31]: Erlanger, Steven. "Merkel Loses Ground After Dispute in Coalition Over Migration," *New York Times*, July 2, 2018.
-[^32]: Arzheimer, Kai and Carl C. Berning. "How the Alternative for Germany (AfD) and their voters veered to the radical right, 2013–2017," *Electoral Studies* 60 (2019).
-[^33]: Entorf, Horst and Martin Lange. "Refugees Welcome? Understanding the Regional Heterogeneity of Anti-Foreigner Hate Crimes in Germany," *ZEW Discussion Paper* No. 16-102 (2016).
-[^34]: Varoufakis, Yanis. *Adults in the Room: My Battle with Europe's Deep Establishment*. Bodley Head, 2017.
-[^35]: Stiglitz, Joseph. *The Euro: How a Common Currency Threatens the Future of Europe*. W.W. Norton, 2016.
-[^36]: "Germany Will Miss 2020 Climate Target, Government Says," *Reuters*, June 13, 2018.
-[^37]: Tarnoff, Ben. "Nord Stream 2: The Controversial Pipeline That's Dividing Europe," *The Guardian*, September 22, 2021.
-[^38]: Morris, Craig. "The German Nuclear Phase-Out After Fukushima," *Bulletin of the Atomic Scientists*, March 7, 2012.
-[^39]: Ohlberg, Mareike and Bertram Lang. "How to Counter China's Influence Operations in Europe," *Carnegie Europe*, February 21, 2020.
-[^40]: "Germany Approved €1.2bn of Arms Sales to Saudis in 2018," *Deutsche Welle*, July 27, 2019.
-[^41]: Niedermeyer, Oskar and Richard Stöss. "The CDU/CSU since 1945," in *The Christian Democratic Union*, Berghahn Books, 2004.
-[^42]: Kornelius, Stefan. *Angela Merkel: The Chancellor and Her World*. Alma Books, 2013.
-[^43]: "Profile: Joachim Sauer, Angela Merkel's Husband," *BBC News*, July 8, 2014.
-[^44]: Smale, Alison. "Angela Merkel's Husband: Phantom of the Opera," *New York Times*, August 2, 2012.
-[^45]: Karnitschnig, Matthew. "Angela Merkel's Post-Political Life," *Politico*, December 6, 2021.
-[^46]: Friedman, Vanessa. "Angela Merkel and the Power of the Pantsuit," *New York Times*, November 27, 2018.
-[^47]: Connolly, Kate. "Angela Merkel at Bayreuth: Opera Fan Chancellor Enjoys Wagner Festival," *The Guardian*, July 25, 2019.
-[^48]: "That Photo of Merkel Celebrating Germany's World Cup Win," *Deutsche Welle*, July 13, 2014.
-[^49]: Musharbash, Yassin. "The Protestant Daughter," *Der Spiegel*, December 18, 2013.
-[^50]: Erlanger, Steven. "Germany's Next Leader Must Reckon With Merkel's Legacy," *New York Times*, September 26, 2021.
-[^51]: "Angela Merkel: The Legacy of Germany's Iron Chancellor," *Financial Times*, September 24, 2021.
-[^52]: Bulmer, Simon and William E. Paterson. "Germany and the European Union: from 'tamed power' to normalized power?" *International Affairs* 86, no. 5 (2010): 1051-1073.
-[^53]: Applebaum, Anne. "The New Cult of Merkel," *The Atlantic*, July 19, 2019.
-[^54]: Kauffmann, Sylvie. "Merkel's Migration Gamble and Its Consequences," *World Policy Journal* 33, no. 1 (2016): 11-18.
-[^55]: Kundnani, Hans. "The Paradox of German Power," *Foreign Affairs* 95, no. 4 (2016): 74-80.
-[^56]: Chazan, Guy. "Ukraine War Exposes Flaws in Merkel's Russia Policy," *Financial Times*, March 3, 2022.
-[^57]: Buck, Tobias. "Merkel's Mixed Climate Legacy," *Financial Times*, September 23, 2021.
-[^58]: Bennhold, Katrin. "After 16 Years of Merkel, Germany Votes for Change," *New York Times*, September 26, 2021.
+
+[^17]: Merkel, Angela. "Es geht um unsere Zukunft," _Frankfurter Allgemeine Zeitung_, December 22, 1999.
+
+[^18]: Lau, Jörg. "Merkels Machtergreifung," _Die Zeit_, April 10, 2000.
+
+[^19]: Green, Simon and Dan Hough. _The Politics of the New Germany_. Routledge, 2014.
+
+[^20]: Dustmann, Christian et al. "From Sick Man of Europe to Economic Superstar: Germany's Resurgent Economy," _Journal of Economic Perspectives_ 28, no. 1 (2014): 167-188.
+
+[^21]: Brunnermeier, Markus K., Harold James, and Jean-Pierre Landau. _The Euro and the Battle of Ideas_. Princeton University Press, 2016.
+
+[^22]: Matthijs, Matthias and Mark Blyth. "Why Only Germany Can Fix the Euro," _Foreign Affairs_ 90, no. 6 (2011): 49-57.
+
+[^23]: "Germany Opens Its Gates: Merkel's Difficult Decision on Refugees," _Der Spiegel_, September 7, 2015.
+
+[^24]: Musharbash, Yassin and Gordon Repinski. "The Night Germany Lost Control," _Der Spiegel_, August 29, 2016.
+
+[^25]: Fischer, Sabine. "The Minsk Agreements—More Than 'Scraps of Paper'?" _SWP Comments_ 20 (2016).
+
+[^26]: Schreurs, Miranda A. "From the Bottom Up: Environmental Federalism in Germany," _German Politics_ 22, no. 1-2 (2013): 37-57.
+
+[^27]: Morris, Craig and Martin Pehnt. _Energy Transition: The German Energiewende_. Heinrich Böll Foundation, 2016.
+
+[^28]: Henley, Jon. "Angela Merkel Draws on Science Background in Covid-19 Explainer," _The Guardian_, April 16, 2020.
+
+[^29]: Kundnani, Hans. "What Is the Liberal International Order?" _German Marshall Fund Policy Brief_ 17 (2017).
+
+[^30]: Smale, Alison. "Merkel, After Discordant G-7 Meeting, Is Looking Past Trump," _New York Times_, May 28, 2017.
+
+[^31]: Erlanger, Steven. "Merkel Loses Ground After Dispute in Coalition Over Migration," _New York Times_, July 2, 2018.
+
+[^32]: Arzheimer, Kai and Carl C. Berning. "How the Alternative for Germany (AfD) and their voters veered to the radical right, 2013–2017," _Electoral Studies_ 60 (2019).
+
+[^33]: Entorf, Horst and Martin Lange. "Refugees Welcome? Understanding the Regional Heterogeneity of Anti-Foreigner Hate Crimes in Germany," _ZEW Discussion Paper_ No. 16-102 (2016).
+
+[^34]: Varoufakis, Yanis. _Adults in the Room: My Battle with Europe's Deep Establishment_. Bodley Head, 2017.
+
+[^35]: Stiglitz, Joseph. _The Euro: How a Common Currency Threatens the Future of Europe_. W.W. Norton, 2016.
+
+[^36]: "Germany Will Miss 2020 Climate Target, Government Says," _Reuters_, June 13, 2018.
+
+[^37]: Tarnoff, Ben. "Nord Stream 2: The Controversial Pipeline That's Dividing Europe," _The Guardian_, September 22, 2021.
+
+[^38]: Morris, Craig. "The German Nuclear Phase-Out After Fukushima," _Bulletin of the Atomic Scientists_, March 7, 2012.
+
+[^39]: Ohlberg, Mareike and Bertram Lang. "How to Counter China's Influence Operations in Europe," _Carnegie Europe_, February 21, 2020.
+
+[^40]: "Germany Approved €1.2bn of Arms Sales to Saudis in 2018," _Deutsche Welle_, July 27, 2019.
+
+[^41]: Niedermeyer, Oskar and Richard Stöss. "The CDU/CSU since 1945," in _The Christian Democratic Union_, Berghahn Books, 2004.
+
+[^42]: Kornelius, Stefan. _Angela Merkel: The Chancellor and Her World_. Alma Books, 2013.
+
+[^43]: "Profile: Joachim Sauer, Angela Merkel's Husband," _BBC News_, July 8, 2014.
+
+[^44]: Smale, Alison. "Angela Merkel's Husband: Phantom of the Opera," _New York Times_, August 2, 2012.
+
+[^45]: Karnitschnig, Matthew. "Angela Merkel's Post-Political Life," _Politico_, December 6, 2021.
+
+[^46]: Friedman, Vanessa. "Angela Merkel and the Power of the Pantsuit," _New York Times_, November 27, 2018.
+
+[^47]: Connolly, Kate. "Angela Merkel at Bayreuth: Opera Fan Chancellor Enjoys Wagner Festival," _The Guardian_, July 25, 2019.
+
+[^48]: "That Photo of Merkel Celebrating Germany's World Cup Win," _Deutsche Welle_, July 13, 2014.
+
+[^49]: Musharbash, Yassin. "The Protestant Daughter," _Der Spiegel_, December 18, 2013.
+
+[^50]: Erlanger, Steven. "Germany's Next Leader Must Reckon With Merkel's Legacy," _New York Times_, September 26, 2021.
+
+[^51]: "Angela Merkel: The Legacy of Germany's Iron Chancellor," _Financial Times_, September 24, 2021.
+
+[^52]: Bulmer, Simon and William E. Paterson. "Germany and the European Union: from 'tamed power' to normalized power?" _International Affairs_ 86, no. 5 (2010): 1051-1073.
+
+[^53]: Applebaum, Anne. "The New Cult of Merkel," _The Atlantic_, July 19, 2019.
+
+[^54]: Kauffmann, Sylvie. "Merkel's Migration Gamble and Its Consequences," _World Policy Journal_ 33, no. 1 (2016): 11-18.
+
+[^55]: Kundnani, Hans. "The Paradox of German Power," _Foreign Affairs_ 95, no. 4 (2016): 74-80.
+
+[^56]: Chazan, Guy. "Ukraine War Exposes Flaws in Merkel's Russia Policy," _Financial Times_, March 3, 2022.
+
+[^57]: Buck, Tobias. "Merkel's Mixed Climate Legacy," _Financial Times_, September 23, 2021.
+
+[^58]: Bennhold, Katrin. "After 16 Years of Merkel, Germany Votes for Change," _New York Times_, September 26, 2021.
+
 [^59]: Kundnani, Hans and Jonas Parello-Plesner. "China and Germany: Why the Emerging Special Relationship Matters for Europe," European Council on Foreign Relations Policy Brief, 2012.
-[^60]: Smale, Alison. "Merkel, Facing Uncertainty, Defends Postwar Order," *New York Times*, May 28, 2017.
-[^61]: David-Wilp, Sudha. "Evaluating Angela Merkel's Leadership," *American Institute for Contemporary German Studies*, December 2021.
-[^62]: Marton, Kati. Interview on NPR's *Fresh Air*, July 20, 2021.
-[^63]: Paterson, William E. "Does Germany Still Have a European Vocation?" *German Politics* 19, no. 1 (2010): 41-52.
-[^64]: "Juncker Praises Merkel as 'Indispensable European,'" *Euractiv*, September 27, 2021.
-[^65]: Musharbash, Yassin. "Merkel's Moral Leadership on Refugees," *Foreign Policy*, September 15, 2015.
-[^66]: Battisti, Michele et al. "Immigration, Search and Redistribution: A Quantitative Assessment of Native Welfare," *Journal of the European Economic Association* 16, no. 4 (2018): 1137-1188.
-[^67]: Mushaben, Joyce Marie. *Becoming Madam Chancellor: Angela Merkel and the Berlin Republic*. Cambridge University Press, 2017.
-[^68]: Applebaum, Anne. "The Woman Who Made Germany Great Again," *Washington Post*, November 26, 2021.
+
+[^60]: Smale, Alison. "Merkel, Facing Uncertainty, Defends Postwar Order," _New York Times_, May 28, 2017.
+
+[^61]: David-Wilp, Sudha. "Evaluating Angela Merkel's Leadership," _American Institute for Contemporary German Studies_, December 2021.
+
+[^62]: Marton, Kati. Interview on NPR's _Fresh Air_, July 20, 2021.
+
+[^63]: Paterson, William E. "Does Germany Still Have a European Vocation?" _German Politics_ 19, no. 1 (2010): 41-52.
+
+[^64]: "Juncker Praises Merkel as 'Indispensable European,'" _Euractiv_, September 27, 2021.
+
+[^65]: Musharbash, Yassin. "Merkel's Moral Leadership on Refugees," _Foreign Policy_, September 15, 2015.
+
+[^66]: Battisti, Michele et al. "Immigration, Search and Redistribution: A Quantitative Assessment of Native Welfare," _Journal of the European Economic Association_ 16, no. 4 (2018): 1137-1188.
+
+[^67]: Mushaben, Joyce Marie. _Becoming Madam Chancellor: Angela Merkel and the Berlin Republic_. Cambridge University Press, 2017.
+
+[^68]: Applebaum, Anne. "The Woman Who Made Germany Great Again," _Washington Post_, November 26, 2021.
+
 [^69]: OECD Economic Surveys: Germany 2020. OECD Publishing, 2020.
-[^70]: Blyth, Mark. *Austerity: The History of a Dangerous Idea*. Oxford University Press, 2013.
-[^71]: Stiglitz, Joseph. "Europe's Austerity Zombies," *Project Syndicate*, October 1, 2014.
-[^72]: Spahn, Jens. "Die CDU muss wieder konservativer werden," *Frankfurter Allgemeine Zeitung*, April 12, 2017.
-[^73]: Kundnani, Hans. "Germany's Russia Problem," *Foreign Affairs*, March 30, 2022.
-[^74]: Kornblum, John. Interview in "Merkel's World," *Deutsche Welle*, December 2021.
-[^75]: Caldwell, Christopher. "How Merkel's Immigration Policy Broke Europe," *Wall Street Journal*, October 6, 2017.
-[^76]: Goodwin, Matthew. *National Populism: The Revolt Against Liberal Democracy*. Penguin, 2018.
-[^77]: "Germany Will Miss Climate Targets by Wide Margin," *Climate Action Tracker*, December 2020.
-[^78]: Rankin, Jennifer. "Greta Thunberg Tells Leaders 'We Don't Want Your Hope,'" *The Guardian*, January 21, 2020.
-[^79]: Guerot, Ulrike. "The Merkel Doctrine," *Foreign Affairs*, December 3, 2013.
-[^80]: Vorländer, Hans et al. *PEGIDA and New Right-Wing Populism in Germany*. Palgrave Macmillan, 2018.
-[^81]: Shapiro, Jeremy. "Merkel's Legacy: Tactical Genius, Strategic Failure," *Brookings Institution*, September 2021.
-[^82]: "Merkel: 'Wir schaffen das' - Full Speech," *Bundeskanzleramt*, August 31, 2015.
-[^83]: Smale, Alison and Michael Wolgelenter. "Merkel, After Discordant G-7 Meeting, Is Looking Past Trump," *New York Times*, May 28, 2017.
+
+[^70]: Blyth, Mark. _Austerity: The History of a Dangerous Idea_. Oxford University Press, 2013.
+
+[^71]: Stiglitz, Joseph. "Europe's Austerity Zombies," _Project Syndicate_, October 1, 2014.
+
+[^72]: Spahn, Jens. "Die CDU muss wieder konservativer werden," _Frankfurter Allgemeine Zeitung_, April 12, 2017.
+
+[^73]: Kundnani, Hans. "Germany's Russia Problem," _Foreign Affairs_, March 30, 2022.
+
+[^74]: Kornblum, John. Interview in "Merkel's World," _Deutsche Welle_, December 2021.
+
+[^75]: Caldwell, Christopher. "How Merkel's Immigration Policy Broke Europe," _Wall Street Journal_, October 6, 2017.
+
+[^76]: Goodwin, Matthew. _National Populism: The Revolt Against Liberal Democracy_. Penguin, 2018.
+
+[^77]: "Germany Will Miss Climate Targets by Wide Margin," _Climate Action Tracker_, December 2020.
+
+[^78]: Rankin, Jennifer. "Greta Thunberg Tells Leaders 'We Don't Want Your Hope,'" _The Guardian_, January 21, 2020.
+
+[^79]: Guerot, Ulrike. "The Merkel Doctrine," _Foreign Affairs_, December 3, 2013.
+
+[^80]: Vorländer, Hans et al. _PEGIDA and New Right-Wing Populism in Germany_. Palgrave Macmillan, 2018.
+
+[^81]: Shapiro, Jeremy. "Merkel's Legacy: Tactical Genius, Strategic Failure," _Brookings Institution_, September 2021.
+
+[^82]: "Merkel: 'Wir schaffen das' - Full Speech," _Bundeskanzleramt_, August 31, 2015.
+
+[^83]: Smale, Alison and Michael Wolgelenter. "Merkel, After Discordant G-7 Meeting, Is Looking Past Trump," _New York Times_, May 28, 2017.
+
 [^84]: Merkel, Angela. Speech at Petersberg Climate Dialogue, May 2019.
+
 [^85]: Merkel, Angela. New Year's Address, December 31, 2015.
-[^86]: Merkel, Angela. Interview with *Süddeutsche Zeitung*, July 16, 2013.
+
+[^86]: Merkel, Angela. Interview with _Süddeutsche Zeitung_, July 16, 2013.
+
 [^87]: Merkel, Angela. Speech at Opening of Buchenwald Memorial, April 24, 2009.

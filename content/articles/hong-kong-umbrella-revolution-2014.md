@@ -25,6 +25,7 @@ The occupation transformed Hong Kong. Admiralty, Mong Kok, and Causeway Bay beca
 ### One Country, Two Systems
 
 When Britain returned Hong Kong to China in 1997:
+
 - 50-year guarantee of autonomy until 2047
 - Separate legal system, freedoms, way of life
 - Basic Law: Hong Kong's mini-constitution
@@ -35,6 +36,7 @@ From the start, Beijing interpreted these guarantees narrowly.[^4]
 ### Democratic Aspirations
 
 Hong Kong's political development:
+
 - **2003:** 500,000 marched against Article 23 (national security law); bill withdrawn
 - **2007:** Beijing promised universal suffrage by 2017
 - **2012:** Mass protests against "Moral and National Education" curriculum
@@ -43,6 +45,7 @@ Hong Kong's political development:
 ### August 31, 2014: The Decision
 
 **August 31:** Standing Committee of the National People's Congress (NPCSC) announced:
+
 - Chief Executive candidates for 2017 must be pre-approved by a nominating committee
 - Only 2-3 candidates would be allowed
 - Effectively Beijing veto over who Hong Kongers could vote for
@@ -56,6 +59,7 @@ This was seen as betrayal of the universal suffrage promise. It triggered the pr
 ### Class Boycott (September 22-26)
 
 **September 22:** Hong Kong Federation of Students and Scholarism (led by Joshua Wong) began week-long class boycott
+
 - Thousands of university and secondary students participated
 - Speeches, assemblies outside government headquarters
 - September 26: Students stormed civic square; 74 arrested
@@ -63,6 +67,7 @@ This was seen as betrayal of the universal suffrage promise. It triggered the pr
 ### September 28: Tear Gas Day
 
 **September 28, 2014:**
+
 - Occupy Central with Love and Peace announced start of civil disobedience
 - Police surrounded and attacked protesters
 - At 5:58 PM: Tear gas fired—87 rounds that day
@@ -73,11 +78,13 @@ This was seen as betrayal of the universal suffrage promise. It triggered the pr
 ### The Occupation (79 days)
 
 **Main sites:**
+
 - **Admiralty:** Near government headquarters; largest camp
 - **Mong Kok:** Commercial district; most confrontational
 - **Causeway Bay:** Shopping area
 
 **Characteristics:**
+
 - Remarkably orderly; homework stations for students
 - Art installations; "Lennon Wall" of post-it messages
 - Volunteer supplies, first aid, recycling
@@ -100,6 +107,7 @@ None were met.[^9]
 ### CY Leung's Administration
 
 Chief Executive Leung Chun-ying (CY Leung):
+
 - Refused to resign
 - Called protests illegal
 - Hardline stance throughout
@@ -127,25 +135,25 @@ Protesters did not resist clearance violently.[^10]
 
 ### Student Leaders
 
-| Name | Role |
-|------|------|
+| Name                 | Role                                    |
+| -------------------- | --------------------------------------- |
 | Joshua Wong (黃之鋒) | Scholarism leader; 17 years old in 2014 |
-| Alex Chow | HKFS Secretary-General |
-| Lester Shum | HKFS Deputy Secretary-General |
-| Agnes Chow (周庭) | Scholarism member |
+| Alex Chow            | HKFS Secretary-General                  |
+| Lester Shum          | HKFS Deputy Secretary-General           |
+| Agnes Chow (周庭)    | Scholarism member                       |
 
 ### Occupy Central
 
-| Name | Role |
-|------|------|
-| Benny Tai (戴耀廷) | Law professor; OCLP co-founder |
-| Chan Kin-man | Sociology professor; OCLP co-founder |
-| Reverend Chu Yiu-ming | Pastor; OCLP co-founder |
+| Name                  | Role                                 |
+| --------------------- | ------------------------------------ |
+| Benny Tai (戴耀廷)    | Law professor; OCLP co-founder       |
+| Chan Kin-man          | Sociology professor; OCLP co-founder |
+| Reverend Chu Yiu-ming | Pastor; OCLP co-founder              |
 
 ### Government
 
-| Name | Role |
-|------|------|
+| Name              | Role                        |
+| ----------------- | --------------------------- |
 | CY Leung (梁振英) | Chief Executive (2012-2017) |
 
 ---
@@ -154,11 +162,13 @@ Protesters did not resist clearance violently.[^10]
 
 **Deaths:** None directly from protest violence
 
-**Injuries:** 
+**Injuries:**
+
 - At least 34 injured from September 28 tear gas
 - Dozens more throughout occupation
 
 **Arrests:**
+
 - ~1,000 during occupation
 - Many more prosecuted afterward
 - Leaders sentenced to prison terms (2017-2019)
@@ -192,6 +202,7 @@ The Umbrella Revolution was notably nonviolent on the protesters' side.[^11]
 ### Prosecutions
 
 Umbrella leaders were prosecuted for public nuisance and illegal assembly:
+
 - **2017-2019:** Joshua Wong, Alex Chow, Nathan Law imprisoned
 - **2019:** Benny Tai, Chan Kin-man, Chu Yiu-ming convicted
 - Ongoing legal consequences for participants
@@ -203,6 +214,7 @@ The government's electoral reform proposal—based on the August 31 decision—w
 ### 2019 Protests
 
 The generation that came of age in 2014 returned in 2019:
+
 - Anti-Extradition Bill Movement
 - Far larger and more radical than 2014
 - Resulted in National Security Law (2020)
@@ -211,6 +223,7 @@ The generation that came of age in 2014 returned in 2019:
 ### National Security Law (2020)
 
 Beijing's response to ongoing resistance:
+
 - Criminalized secession, subversion, terrorism, collusion
 - Effectively ended "one country, two systems"
 - Mass arrests; democratic opposition dismantled
@@ -241,37 +254,51 @@ The umbrella became Hong Kong's symbol of resistance—used again in 2019. It re
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| August 31, 2014 | NPCSC announces restrictive electoral framework |
-| September 22, 2014 | Student class boycott begins |
-| September 26, 2014 | Students storm civic square |
-| September 28, 2014 | Tear gas fired; occupation begins |
-| September 28, 2014 | "Umbrella Revolution" named |
-| October 21, 2014 | Government-student talks; no progress |
-| November 25, 2014 | Mong Kok cleared |
-| December 11, 2014 | Admiralty cleared; occupation ends |
-| June 2015 | Electoral reform rejected by LegCo |
-| 2017-2019 | Umbrella leaders prosecuted and imprisoned |
-| June 2019 | Anti-extradition protests begin |
-| June 2020 | National Security Law imposed |
+| Date               | Event                                           |
+| ------------------ | ----------------------------------------------- |
+| August 31, 2014    | NPCSC announces restrictive electoral framework |
+| September 22, 2014 | Student class boycott begins                    |
+| September 26, 2014 | Students storm civic square                     |
+| September 28, 2014 | Tear gas fired; occupation begins               |
+| September 28, 2014 | "Umbrella Revolution" named                     |
+| October 21, 2014   | Government-student talks; no progress           |
+| November 25, 2014  | Mong Kok cleared                                |
+| December 11, 2014  | Admiralty cleared; occupation ends              |
+| June 2015          | Electoral reform rejected by LegCo              |
+| 2017-2019          | Umbrella leaders prosecuted and imprisoned      |
+| June 2019          | Anti-extradition protests begin                 |
+| June 2020          | National Security Law imposed                   |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2014 Hong Kong Protests](https://en.wikipedia.org/wiki/2014_Hong_Kong_protests)
+
 [^2]: [Oxford Research - Umbrella Movement](https://oxfordre.com/politics/umbrella-movement/)
+
 [^3]: [Brookings - Analysis](https://www.brookings.edu/hong-kong-umbrella-revolution/)
+
 [^4]: [Wikipedia - Basic Law](https://en.wikipedia.org/wiki/Hong_Kong_Basic_Law)
+
 [^5]: [Journal of Democracy - Hong Kong](https://www.journalofdemocracy.org/hong-kong-2014/)
+
 [^6]: [Wikipedia - August 31 Decision](https://en.wikipedia.org/wiki/2014_NPCSC_Decision)
+
 [^7]: [SCMP - Tear Gas](https://www.scmp.com/news/hong-kong/article/tear-gas-2014)
+
 [^8]: [The Guardian - Occupation](https://www.theguardian.com/world/2014/hong-kong-protests)
+
 [^9]: [Wikipedia - Demands](https://en.wikipedia.org/wiki/2014_Hong_Kong_protests#Demands)
+
 [^10]: [Chinafile - Clearance](https://www.chinafile.com/hong-kong-clearance/)
+
 [^11]: [Columbia University - Analysis](https://www.columbia.edu/2014-hong-kong-protests/)
+
 [^12]: [UT Synergy Journal - Youth](https://utsynergyjournal.org/hong-kong-youth-2014/)
+
 [^13]: [The Diplomat - Aftermath](https://thediplomat.com/2014/12/hong-kong-aftermath/)
+
 [^14]: [Wikipedia - National Security Law](https://en.wikipedia.org/wiki/Hong_Kong_national_security_law)
+
 [^15]: [Time - Umbrella Symbol](https://time.com/3457805/hong-kong-umbrella-revolution/)

@@ -25,17 +25,20 @@ The uprising failed in the short term. The junta remained in power for another s
 ### The Military Junta (1967-1974)
 
 **April 21, 1967:**
+
 - A group of colonels staged a coup
 - King Constantine II initially cooperated
 - Parliamentary democracy suspended
 - Greece under military rule
 
 **The "Colonels":**
+
 - **Georgios Papadopoulos:** Leader until 1973
 - **Dimitrios Ioannidis:** Hardliner who later took over
 - **Stylianos Pattakos, Nikolaos Makarezos:** Key conspirators
 
 **Characteristics of the regime:**
+
 - Anti-communism as ideology
 - Censorship and media control
 - Political prisoners and torture
@@ -48,12 +51,14 @@ The uprising failed in the short term. The junta remained in power for another s
 By 1973, resistance was mounting:
 
 **Domestic:**
+
 - Underground resistance movements
 - Student activism growing
 - International pressure
 - Economic problems emerging
 
 **February-March 1973:**
+
 - Athens Law School occupation
 - Students protested forced conscription for union activists
 - Brutally suppressed, but showed possibility of resistance[^5]
@@ -61,6 +66,7 @@ By 1973, resistance was mounting:
 ### The Markezinis Experiment
 
 **October 1973:**
+
 - Papadopoulos attempted "controlled liberalization"
 - Spyros Markezinis appointed Prime Minister
 - Political parties to be gradually allowed
@@ -75,11 +81,13 @@ By 1973, resistance was mounting:
 ### November 14: The Occupation Begins
 
 **Athens Polytechnic (National Technical University of Athens):**
+
 - Students at Greece's most prestigious technical university
 - Began occupying buildings
 - Called themselves "Eleftheri Poliorkimenoi" (Free Besieged)—invoking Greece's War of Independence
 
 **Demands:**
+
 - End to military dictatorship
 - Free elections
 - Civil liberties restored
@@ -88,12 +96,14 @@ By 1973, resistance was mounting:
 ### November 14-16: Building Momentum
 
 **Inside the Polytechnic:**
+
 - Students set up radio station (Radio Polytechneio)
 - Broadcast to Athens: "Here is the Polytechnic! Greeks, the Polytechnic is the flag of our struggle and your struggle!"
 - Calls for general uprising
 - Songs, speeches, organization
 
 **Outside:**
+
 - Thousands of Athenians gathered to support
 - Workers joined students
 - Barricades erected around the university
@@ -104,18 +114,21 @@ By 1973, resistance was mounting:
 ### November 16: Escalation
 
 **Police action:**
+
 - Water cannons used
 - Tear gas deployed
 - Running battles in streets around Polytechnic
 - Several injuries
 
 **Inside:**
+
 - Students refused to leave
 - Radio continued broadcasting
 - Leadership debated strategy
 - Some called for more militant action
 
 **Evening:**
+
 - Police surrounded the university
 - Electricity cut
 - Confrontation inevitable[^9]
@@ -123,21 +136,25 @@ By 1973, resistance was mounting:
 ### November 17: The Assault
 
 **2:00 AM:**
+
 - Order given to clear the Polytechnic
 - AMX-30 tanks deployed
 
 **3:00 AM (approximately):**
+
 - Tank crashed through main gate
 - Students still inside, some clinging to gate
 - Gunfire erupted
 - Soldiers and police stormed the campus
 
 **The gate image:**
+
 - Bent, twisted metal
 - Students crushed or scattered
 - Symbol forever of the dictatorship's brutality
 
 **The aftermath:**
+
 - Mass arrests
 - Students beaten
 - Some shot in the streets
@@ -152,13 +169,14 @@ By 1973, resistance was mounting:
 
 **Actual estimates:** 24-44 killed
 
-| Category | Estimate |
-|----------|----------|
-| Inside Polytechnic | ~10-15 |
-| In surrounding streets | ~10-15 |
-| Hospitals (unreported) | Unknown |
+| Category               | Estimate |
+| ---------------------- | -------- |
+| Inside Polytechnic     | ~10-15   |
+| In surrounding streets | ~10-15   |
+| Hospitals (unreported) | Unknown  |
 
 **Known victims include:**
+
 - Diomidis Komninos (high school student, shot outside gates)
 - Dozens of students and workers
 
@@ -174,25 +192,25 @@ By 1973, resistance was mounting:
 
 ### Student Leaders
 
-| Name | Role |
-|------|------|
+| Name                 | Role                                        |
+| -------------------- | ------------------------------------------- |
 | Student coordinators | Various; most remained anonymous for safety |
-| Radio broadcasters | Voices of resistance |
+| Radio broadcasters   | Voices of resistance                        |
 
 ### Junta
 
-| Name | Role |
-|------|------|
-| Georgios Papadopoulos | President; ordered crackdown |
-| Brigadier Ioannidis | Security apparatus; would soon seize power |
-| Military commanders | Executed assault |
+| Name                  | Role                                       |
+| --------------------- | ------------------------------------------ |
+| Georgios Papadopoulos | President; ordered crackdown               |
+| Brigadier Ioannidis   | Security apparatus; would soon seize power |
+| Military commanders   | Executed assault                           |
 
 ### Victims
 
-| Name | Significance |
-|------|--------------|
-| Diomidis Komninos | 15 years old; among first killed |
-| Various students and workers | Names commemorated annually |
+| Name                         | Significance                     |
+| ---------------------------- | -------------------------------- |
+| Diomidis Komninos            | 15 years old; among first killed |
+| Various students and workers | Names commemorated annually      |
 
 ---
 
@@ -201,12 +219,14 @@ By 1973, resistance was mounting:
 ### Immediate
 
 **November 17-25, 1973:**
+
 - Martial law declared
 - Mass arrests continued
 - Universities closed
 - Even stricter censorship
 
 **Ioannidis Coup:**
+
 - November 25, 1973: Brigadier Dimitrios Ioannidis staged internal coup
 - Papadopoulos (architect of the suppression) was overthrown
 - Hardliner faction took control
@@ -215,6 +235,7 @@ By 1973, resistance was mounting:
 ### The Fall of the Junta
 
 **1974:**
+
 - **July 15:** Junta attempted to overthrow Cyprus government
 - **July 20:** Turkey invaded Cyprus
 - Military disaster for Greece
@@ -227,6 +248,7 @@ By 1973, resistance was mounting:
 ### Trials
 
 **1975:**
+
 - Junta leaders tried for:
   - Treason
   - Insurrection
@@ -244,11 +266,13 @@ By 1973, resistance was mounting:
 ### Why Did Students Revolt?
 
 **Immediate grievances:**
+
 - Forced conscription for activists
 - University autonomy violated
 - Six years of dictatorship exhausting
 
 **Deeper causes:**
+
 - Generation growing up under dictatorship
 - International examples (May '68, Prague Spring)
 - Regime's partial opening created space
@@ -264,11 +288,13 @@ By 1973, resistance was mounting:
 ### Long-Term Impact
 
 **The uprising permanently delegitimized:**
+
 - Military rule
 - Political violence against civilians
 - Authoritarianism in Greece
 
 **It established:**
+
 - Students as democratic vanguard
 - November 17 as sacred date
 - Foundation myth for post-junta democracy[^15]
@@ -280,6 +306,7 @@ By 1973, resistance was mounting:
 ### November 17 Holiday
 
 **Every year:**
+
 - National holiday in Greece (since 1981)
 - March from Polytechnic to US Embassy
 - Wreath-laying at the gate
@@ -287,6 +314,7 @@ By 1973, resistance was mounting:
 - School closures
 
 **The gate remains:**
+
 - Preserved as damaged
 - Symbol of resistance
 - Never fully repaired
@@ -294,6 +322,7 @@ By 1973, resistance was mounting:
 ### Political Impact
 
 **In Greek politics:**
+
 - Left claims Polytechnic legacy
 - PASOK (socialist party) drew heavily on uprising
 - Still referenced in contemporary debates
@@ -302,6 +331,7 @@ By 1973, resistance was mounting:
 ### The "17 November" Group
 
 **Dark legacy:**
+
 - Far-left terrorist organization "Revolutionary Organization 17 November"
 - Operated 1975-2002
 - Assassinated dozens
@@ -314,11 +344,11 @@ By 1973, resistance was mounting:
 
 The Athens Polytechnic uprising was part of a wave:
 
-| Year | Event |
-|------|-------|
+| Year | Event                                 |
+| ---- | ------------------------------------- |
 | 1968 | May '68 France, Prague Spring, Mexico |
-| 1973 | Athens Polytechnic |
-| 1974 | Carnation Revolution (Portugal) |
+| 1973 | Athens Polytechnic                    |
+| 1974 | Carnation Revolution (Portugal)       |
 
 **Mediterranean student movements in the early 1970s helped end dictatorships in Greece, Portugal, and later Spain.**[^17]
 
@@ -326,38 +356,54 @@ The Athens Polytechnic uprising was part of a wave:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| April 21, 1967 | Military coup in Greece |
-| February 1973 | Law School occupation |
-| October 1973 | Markezinis liberalization attempt |
-| November 14, 1973 | Polytechnic occupation begins |
-| November 14-16 | Radio broadcasts; crowds gather |
-| November 17, 1973 | Tank assault; deaths |
-| November 25, 1973 | Ioannidis coup; Papadopoulos ousted |
-| July 1974 | Cyprus disaster; junta falls |
-| July 24, 1974 | Democracy restored |
-| 1975 | Junta leaders tried and sentenced |
-| 1981 | November 17 becomes national holiday |
+| Date              | Event                                |
+| ----------------- | ------------------------------------ |
+| April 21, 1967    | Military coup in Greece              |
+| February 1973     | Law School occupation                |
+| October 1973      | Markezinis liberalization attempt    |
+| November 14, 1973 | Polytechnic occupation begins        |
+| November 14-16    | Radio broadcasts; crowds gather      |
+| November 17, 1973 | Tank assault; deaths                 |
+| November 25, 1973 | Ioannidis coup; Papadopoulos ousted  |
+| July 1974         | Cyprus disaster; junta falls         |
+| July 24, 1974     | Democracy restored                   |
+| 1975              | Junta leaders tried and sentenced    |
+| 1981              | November 17 becomes national holiday |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Athens Polytechnic uprising](https://en.wikipedia.org/wiki/Athens_Polytechnic_uprising)
+
 [^2]: [Greek Reporter - Overview](https://greekreporter.com/2023/11/17/athens-polytechnic-uprising-1973/)
+
 [^3]: [People's Dispatch - Legacy](https://peoplesdispatch.org/2021/11/17/athens-polytechnic-uprising/)
+
 [^4]: [Wikipedia - Greek junta](https://en.wikipedia.org/wiki/Greek_junta)
+
 [^5]: [Internationalist Standpoint - Context](https://www.internationaliststandpoint.org/greece-polytechnic-1973/)
+
 [^6]: [Britannica - Greece history](https://www.britannica.com/place/Greece/The-military-junta)
+
 [^7]: [Greek Pod 101 - The uprising](https://www.greekpod101.com/blog/greek-holidays/polytechnic-day/)
+
 [^8]: [Wikipedia - Radio Polytechneio](https://en.wikipedia.org/wiki/Athens_Polytechnic_uprising#Radio_station)
+
 [^9]: [Greek Reporter - Eyewitness](https://greekreporter.com/polytechnic-eyewitness/)
+
 [^10]: [Wikipedia - The assault](https://en.wikipedia.org/wiki/Athens_Polytechnic_uprising#The_crushing_of_the_uprising)
+
 [^11]: [Kathimerini - Death toll](https://www.ekathimerini.com/news/november-17-anniversary/)
+
 [^12]: [Wikipedia - Ioannidis coup](https://en.wikipedia.org/wiki/Dimitrios_Ioannidis)
+
 [^13]: [Wikipedia - Turkish invasion of Cyprus](https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus)
+
 [^14]: [The Trial of the Junta - Documentary](https://www.imdb.com/title/tt9869824/)
+
 [^15]: [Jacobin - Analysis](https://jacobinmag.com/2018/11/greece-polytechnic-uprising-anniversary-junta/)
+
 [^16]: [Wikipedia - Revolutionary Organization 17 November](https://en.wikipedia.org/wiki/Revolutionary_Organization_17_November)
+
 [^17]: [Journal of Modern Greek Studies - Mediterranean youth movements](https://www.jstor.org/stable/10.1353/mgs.2010.0040)

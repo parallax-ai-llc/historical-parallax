@@ -40,6 +40,7 @@ In 1906, Gandhi initiated the 'Satyagraha' (truth-force) movement to resist disc
 Upon returning to India in 1915, Gandhi joined the Indian National Congress (INC) and led the independence movement.
 
 Major movements:
+
 - **1919 Rowlatt Act Protest**: Resistance against laws restricting freedom of press and assembly
 - **1920-1922 Non-Cooperation Movement**: Boycott of British goods and refusal of government positions
 - **1930 Salt March**: A 386km march protesting British salt monopoly
@@ -75,18 +76,18 @@ On January 30, 1948, Gandhi was assassinated in New Delhi by Hindu nationalist N
 
 ## Career Timeline
 
-| Year | Event |
-|------|------|
-| 1869 | Born in Porbandar |
+| Year | Event                      |
+| ---- | -------------------------- |
+| 1869 | Born in Porbandar          |
 | 1888 | Studied in London, England |
-| 1893 | Arrived in South Africa |
-| 1906 | Began Satyagraha movement |
-| 1915 | Returned to India |
-| 1919 | Rowlatt Act protest |
-| 1930 | Salt March |
-| 1942 | Quit India Movement |
-| 1947 | Indian Independence |
-| 1948 | Assassinated |
+| 1893 | Arrived in South Africa    |
+| 1906 | Began Satyagraha movement  |
+| 1915 | Returned to India          |
+| 1919 | Rowlatt Act protest        |
+| 1930 | Salt March                 |
+| 1942 | Quit India Movement        |
+| 1947 | Indian Independence        |
+| 1948 | Assassinated               |
 
 ## Historical Assessment
 
@@ -167,44 +168,83 @@ Gandhi's philosophy directly influenced subsequent leaders of nonviolent movemen
 ## References
 
 [^1]: Gandhi, M.K. "An Autobiography: The Story of My Experiments with Truth" (1927)
-[^2]: Wolpert, Stanley. "Gandhi's Passion: The Life and Legacy of Mahatma Gandhi" (2001)
-[^3]: Guha, Ramachandra. "Gandhi Before India" (2013)
-[^4]: Brown, Judith M. "Gandhi: Prisoner of Hope" (1989)
-[^5]: Nanda, B.R. "Mahatma Gandhi: A Biography" (1958)
-[^6]: Markovits, Claude. "The UnGandhian Gandhi" (2004)
-[^7]: King, Martin Luther Jr. "Stride Toward Freedom" (1958)
-[^8]: Nobel Prize Official Website - https://www.nobelprize.org/
-[^9]: Ambedkar, B.R. "What Congress and Gandhi Have Done to the Untouchables" (1945)
-[^10]: Desai, Ashwin & Vahed, Goolam. "The South African Gandhi: Stretcher-Bearer of Empire" (2015)
-[^11]: Nehru, Jawaharlal. "The Discovery of India" (1946)
-[^12]: Britannica, "Satyagraha." https://www.britannica.com/topic/Satyagraha-philosophy
-[^13]: Guha, Ramachandra. "Gandhi: The Years That Changed the World" (Knopf, 2018)
-[^14]: Fischer, Louis. "Gandhi: His Life and Message for the World" (1954)
-[^15]: United Nations, International Day of Non-Violence
-[^16]: Salt March historical documentation
-[^17]: Time magazine, "Person of the Century" (1999)
-[^18]: King Center and Mandela Foundation documentation
-[^19]: Global nonviolent movements scholarship
-[^20]: Al Jazeera, "Gandhi's legacy revisited: Heroism and racism" (2019)
-[^21]: Academic analyses of Gandhi's South Africa period
-[^22]: BBC, "University of Ghana removes Gandhi statue" (2018)
-[^23]: Dalit scholarship on Gandhi and caste
-[^24]: Ambedkar-Gandhi debates documentation
-[^25]: Gandhi's later writings on African equality
-[^26]: Mandela quotation from various sources
-[^27]: Parekh, Bikhu. "Gandhi" (1997)
-[^28]: Civil disobedience methodology scholarship
-[^29]: Partition violence statistics and analysis
-[^30]: "Gandhi" (1982) film, Academy Awards documentation
-[^31]: Major Gandhi biographies
-[^32]: Global Gandhi monuments documentation
-[^33]: Ghana statue removal coverage (2018)
-[^34]: Churchill-Gandhi relationship documentation
-[^35]: Poona Pact and Gandhi-Ambedkar disagreements
-[^36]: King's and Mandela's adoption of Gandhian methods
-[^37]: Quote Investigator, "Be the change" analysis
-[^38]: "Eye for an eye" quote attribution analysis
-[^39]: Forgiveness quote, various collections
-[^40]: Humanity quote, various collections
-[^41]: Live/learn quote, various collections
 
+[^2]: Wolpert, Stanley. "Gandhi's Passion: The Life and Legacy of Mahatma Gandhi" (2001)
+
+[^3]: Guha, Ramachandra. "Gandhi Before India" (2013)
+
+[^4]: Brown, Judith M. "Gandhi: Prisoner of Hope" (1989)
+
+[^5]: Nanda, B.R. "Mahatma Gandhi: A Biography" (1958)
+
+[^6]: Markovits, Claude. "The UnGandhian Gandhi" (2004)
+
+[^7]: King, Martin Luther Jr. "Stride Toward Freedom" (1958)
+
+[^8]: Nobel Prize Official Website - https://www.nobelprize.org/
+
+[^9]: Ambedkar, B.R. "What Congress and Gandhi Have Done to the Untouchables" (1945)
+
+[^10]: Desai, Ashwin & Vahed, Goolam. "The South African Gandhi: Stretcher-Bearer of Empire" (2015)
+
+[^11]: Nehru, Jawaharlal. "The Discovery of India" (1946)
+
+[^12]: Britannica, "Satyagraha." https://www.britannica.com/topic/Satyagraha-philosophy
+
+[^13]: Guha, Ramachandra. "Gandhi: The Years That Changed the World" (Knopf, 2018)
+
+[^14]: Fischer, Louis. "Gandhi: His Life and Message for the World" (1954)
+
+[^15]: United Nations, International Day of Non-Violence
+
+[^16]: Salt March historical documentation
+
+[^17]: Time magazine, "Person of the Century" (1999)
+
+[^18]: King Center and Mandela Foundation documentation
+
+[^19]: Global nonviolent movements scholarship
+
+[^20]: Al Jazeera, "Gandhi's legacy revisited: Heroism and racism" (2019)
+
+[^21]: Academic analyses of Gandhi's South Africa period
+
+[^22]: BBC, "University of Ghana removes Gandhi statue" (2018)
+
+[^23]: Dalit scholarship on Gandhi and caste
+
+[^24]: Ambedkar-Gandhi debates documentation
+
+[^25]: Gandhi's later writings on African equality
+
+[^26]: Mandela quotation from various sources
+
+[^27]: Parekh, Bikhu. "Gandhi" (1997)
+
+[^28]: Civil disobedience methodology scholarship
+
+[^29]: Partition violence statistics and analysis
+
+[^30]: "Gandhi" (1982) film, Academy Awards documentation
+
+[^31]: Major Gandhi biographies
+
+[^32]: Global Gandhi monuments documentation
+
+[^33]: Ghana statue removal coverage (2018)
+
+[^34]: Churchill-Gandhi relationship documentation
+
+[^35]: Poona Pact and Gandhi-Ambedkar disagreements
+
+[^36]: King's and Mandela's adoption of Gandhian methods
+
+[^37]: Quote Investigator, "Be the change" analysis
+
+[^38]: "Eye for an eye" quote attribution analysis
+
+[^39]: Forgiveness quote, various collections
+
+[^40]: Humanity quote, various collections
+
+[^41]: Live/learn quote, various collections

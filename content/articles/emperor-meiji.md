@@ -155,29 +155,29 @@ Post-colonial scholars argue that celebrating the Meiji modernization ignores th
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1852 | Born Mutsuhito in Kyoto on November 3 |
-| 1860 | Named crown prince following the death of his older brother |
-| 1867 | Ascends to the throne on February 13 following Emperor Kōmei's death; adopts era name "Meiji" |
-| 1867 | Tokugawa shogunate returns power to the emperor in Taisei Hōkan (November) |
-| 1868 | Boshin War begins; Charter Oath proclaimed (April); Edo renamed Tokyo |
-| 1869 | Marries Ichijō Haruko; moves capital to Tokyo; han return their domains to the emperor |
+| Year | Event                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------- |
+| 1852 | Born Mutsuhito in Kyoto on November 3                                                              |
+| 1860 | Named crown prince following the death of his older brother                                        |
+| 1867 | Ascends to the throne on February 13 following Emperor Kōmei's death; adopts era name "Meiji"      |
+| 1867 | Tokugawa shogunate returns power to the emperor in Taisei Hōkan (November)                         |
+| 1868 | Boshin War begins; Charter Oath proclaimed (April); Edo renamed Tokyo                              |
+| 1869 | Marries Ichijō Haruko; moves capital to Tokyo; han return their domains to the emperor             |
 | 1871 | Han system abolished and replaced with prefectures; Iwakura Mission departs for study tour of West |
-| 1872 | Education Act establishes universal education system; railway opens between Tokyo and Yokohama |
-| 1873 | Universal military conscription introduced; solar calendar adopted |
-| 1876 | Wearing of swords prohibited; samurai stipends converted to bonds |
-| 1877 | Satsuma Rebellion defeated; last major samurai uprising crushed |
-| 1879 | Crown Prince Yoshihito (later Emperor Taishō) born; Ryukyu Kingdom annexed |
-| 1889 | Meiji Constitution promulgated on February 11 |
-| 1890 | First session of Imperial Diet convenes; Imperial Rescript on Education issued |
-| 1894 | First Sino-Japanese War begins (August) |
-| 1895 | Treaty of Shimonoseki ends Sino-Japanese War; Japan gains Taiwan |
-| 1902 | Anglo-Japanese Alliance signed |
-| 1904 | Russo-Japanese War begins (February) |
+| 1872 | Education Act establishes universal education system; railway opens between Tokyo and Yokohama     |
+| 1873 | Universal military conscription introduced; solar calendar adopted                                 |
+| 1876 | Wearing of swords prohibited; samurai stipends converted to bonds                                  |
+| 1877 | Satsuma Rebellion defeated; last major samurai uprising crushed                                    |
+| 1879 | Crown Prince Yoshihito (later Emperor Taishō) born; Ryukyu Kingdom annexed                         |
+| 1889 | Meiji Constitution promulgated on February 11                                                      |
+| 1890 | First session of Imperial Diet convenes; Imperial Rescript on Education issued                     |
+| 1894 | First Sino-Japanese War begins (August)                                                            |
+| 1895 | Treaty of Shimonoseki ends Sino-Japanese War; Japan gains Taiwan                                   |
+| 1902 | Anglo-Japanese Alliance signed                                                                     |
+| 1904 | Russo-Japanese War begins (February)                                                               |
 | 1905 | Treaty of Portsmouth ends Russo-Japanese War; Japan gains international recognition as major power |
-| 1910 | Japan formally annexes Korea |
-| 1912 | Dies in Tokyo on July 30 from kidney disease and diabetes complications |
+| 1910 | Japan formally annexes Korea                                                                       |
+| 1912 | Dies in Tokyo on July 30 from kidney disease and diabetes complications                            |
 
 ---
 
@@ -207,152 +207,300 @@ This revolutionary principle authorized the dismantling of feudal institutions a
 
 ## References
 
-[^1]: Jansen, Marius B. *The Making of Modern Japan*. Cambridge: Harvard University Press, 2000, pp. 333-334.
-[^2]: Beasley, W.G. *The Meiji Restoration*. Stanford: Stanford University Press, 1972, pp. 1-5.
-[^3]: Keene, Donald. *Emperor of Japan: Meiji and His World, 1852-1912*. New York: Columbia University Press, 2002, pp. 3-7.
-[^4]: Gordon, Andrew. *A Modern History of Japan: From Tokugawa Times to the Present*. Oxford: Oxford University Press, 2003, pp. 64-65.
-[^5]: Keene, *Emperor of Japan*, pp. 32-35.
-[^6]: Totman, Conrad. *A History of Japan*. Malden: Blackwell Publishing, 2000, pp. 289-312.
-[^7]: Keene, *Emperor of Japan*, pp. 45-52.
-[^8]: Jansen, *Making of Modern Japan*, pp. 283-285.
-[^9]: Beasley, *The Meiji Restoration*, pp. 156-158.
-[^10]: Keene, *Emperor of Japan*, p. 40.
-[^11]: Totman, *History of Japan*, p. 315.
-[^12]: Gordon, *Modern History of Japan*, pp. 50-52.
-[^13]: Jansen, *Making of Modern Japan*, pp. 308-310.
-[^14]: Keene, *Emperor of Japan*, pp. 96-103.
-[^15]: Beasley, *The Meiji Restoration*, p. 289.
-[^16]: Jansen, *Making of Modern Japan*, pp. 333-336.
-[^17]: Gordon, *Modern History of Japan*, pp. 64-66.
-[^18]: Totman, *History of Japan*, pp. 320-324.
-[^19]: Beasley, *The Meiji Restoration*, pp. 285-287.
-[^20]: Keene, *Emperor of Japan*, pp. 132-145.
-[^21]: Gordon, *Modern History of Japan*, p. 66.
-[^22]: Jansen, *Making of Modern Japan*, p. 341.
-[^23]: Keene, *Emperor of Japan*, pp. 178-182.
-[^24]: Beasley, W.G. *The Rise of Modern Japan*. New York: St. Martin's Press, 1995, pp. 58-62.
-[^25]: Gordon, *Modern History of Japan*, pp. 67-68.
-[^26]: Keene, *Emperor of Japan*, pp. 4-7, 672-675.
-[^27]: Jansen, *Making of Modern Japan*, pp. 334-335.
-[^28]: Beasley, *The Meiji Restoration*, pp. 357-360.
-[^29]: Gordon, *Modern History of Japan*, pp. 64-87.
-[^30]: Keene, *Emperor of Japan*, pp. 3-5.
-[^31]: Jansen, *Making of Modern Japan*, pp. 362-365.
-[^32]: Totman, *History of Japan*, pp. 331-334.
-[^33]: Ravina, Mark. *The Last Samurai: The Life and Battles of Saigo Takamori*. Hoboken: John Wiley & Sons, 2004, pp. 178-223.
-[^34]: Keene, *Emperor of Japan*, pp. 423-426, 512-518.
-[^35]: Paine, S.C.M. *The Japanese Empire: Grand Strategy from the Meiji Restoration to the Pacific War*. Cambridge: Cambridge University Press, 2017, pp. 35-42.
-[^36]: Gordon, *Modern History of Japan*, pp. 73-74.
-[^37]: Paine, *The Japanese Empire*, pp. 53-87, 113-142.
-[^38]: Morikawa, Hidemasa. *Zaibatsu: The Rise and Fall of Family Enterprise Groups in Japan*. Tokyo: University of Tokyo Press, 1992, pp. 15-35.
-[^39]: Ericson, Steven J. *The Sound of the Whistle: Railroads and the State in Meiji Japan*. Cambridge: Harvard University Press, 1996, pp. 289-292.
-[^40]: Nish, Ian, ed. *The Iwakura Mission in America and Europe: A New Assessment*. Richmond: Japan Library, 1998, pp. 1-15.
-[^41]: Dore, Ronald P. *Education in Tokugawa Japan*. Berkeley: University of California Press, 1965, pp. 291-317.
-[^42]: Ambaras, David R. *Japan's Imperial Underworlds: Intimate Encounters at the Borders of Empire*. Cambridge: Cambridge University Press, 2018, pp. 45-48.
-[^43]: Gluck, Carol. *Japan's Modern Myths: Ideology in the Late Meiji Period*. Princeton: Princeton University Press, 1985, pp. 102-156.
-[^44]: Pittau, Joseph. *Political Thought in Early Meiji Japan, 1868-1889*. Cambridge: Harvard University Press, 1967, pp. 177-196.
-[^45]: Steele, M. William. *Alternative Narratives in Modern Japanese History*. London: RoutledgeCurzon, 2003, pp. 83-85.
-[^46]: Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy*. Cambridge: Harvard University Press, 2004, pp. 165-182.
-[^47]: Nish, Ian H. *The Anglo-Japanese Alliance: The Diplomacy of Two Island Empires 1894-1907*. London: Athlone Press, 1966, pp. 213-237.
-[^48]: Steinberg, John W. et al., eds. *The Russo-Japanese War in Global Perspective: World War Zero*. Leiden: Brill, 2005, pp. 1-9.
-[^49]: Hardacre, Helen. *Shinto and the State, 1868-1988*. Princeton: Princeton University Press, 1989, pp. 3-48.
-[^50]: Gluck, *Japan's Modern Myths*, pp. 73-101.
-[^51]: Bix, Herbert P. *Hirohito and the Making of Modern Japan*. New York: HarperCollins, 2000, pp. 29-33.
-[^52]: Pittau, *Political Thought in Early Meiji Japan*, pp. 182-189.
-[^53]: Bix, *Hirohito and the Making of Modern Japan*, pp. 30-31.
-[^54]: Gordon, *Modern History of Japan*, pp. 104-106.
-[^55]: Berger, Gordon M. "Politics and Mobilization in Japan, 1931-1945," in *The Cambridge History of Japan, Vol. 6: The Twentieth Century*, ed. Peter Duus. Cambridge: Cambridge University Press, 1988, pp. 97-153.
-[^56]: Vlastos, Stephen, ed. *Mirror of Modernity: Invented Traditions of Modern Japan*. Berkeley: University of California Press, 1998, pp. 165-179.
-[^57]: Tsurumi, E. Patricia. *Factory Girls: Women in the Thread Mills of Meiji Japan*. Princeton: Princeton University Press, 1990, pp. 63-89.
-[^58]: Ravina, *The Last Samurai*, pp. 198-223.
-[^59]: Duus, Peter, Ramon H. Myers, and Mark R. Peattie, eds. *The Japanese Informal Empire in China, 1895-1937*. Princeton: Princeton University Press, 1989, pp. xi-xxix.
-[^60]: Schmid, Andre. *Korea Between Empires, 1895-1919*. New York: Columbia University Press, 2002, pp. 189-231.
-[^61]: Eckert, Carter J. et al. *Korea Old and New: A History*. Seoul: Ilchokak Publishers, 1990, pp. 253-270.
-[^62]: Lone, Stewart. *Japan's First Modern War: Army and Society in the Conflict with China, 1894-95*. New York: St. Martin's Press, 1994, pp. 112-118.
-[^63]: Yamamoto, Masahiro. *Nanking: Anatomy of an Atrocity*. Westport: Praeger, 2000, pp. 16-19.
-[^64]: Notehelfer, F.G. *Kōtoku Shūsui: Portrait of a Japanese Radical*. Cambridge: Cambridge University Press, 1971, pp. 85-113.
-[^65]: Mitchell, Richard H. *Censorship in Imperial Japan*. Princeton: Princeton University Press, 1983, pp. 83-112.
-[^66]: Large, Stephen S. *The Rise of Labor in Japan: The Yuaikai, 1912-19*. Tokyo: Sophia University, 1972, pp. 11-28.
-[^67]: Hardacre, *Shinto and the State*, pp. 119-145.
-[^68]: Gluck, *Japan's Modern Myths*, pp. 121-156.
-[^69]: Uno, Kathleen S. "Women and Changes in the Household Division of Labor," in *Recreating Japanese Women, 1600-1945*, ed. Gail Lee Bernstein. Berkeley: University of California Press, 1991, pp. 17-41.
-[^70]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910," in *Recreating Japanese Women*, pp. 151-174.
-[^71]: Siddle, Richard. *Race, Resistance and the Ainu of Japan*. London: Routledge, 1996, pp. 55-78.
-[^72]: Howell, David L. "Making 'Useful Citizens' of Ainu Subjects in Early Twentieth-Century Japan," *Journal of Asian Studies* 63, no. 1 (2004): 5-29.
-[^73]: Keene, *Emperor of Japan*, pp. 5-6.
-[^74]: Keene, *Emperor of Japan*, pp. 179-181.
-[^75]: Large, Stephen S. *Emperor Hirohito and Showa Japan*. London: Routledge, 1992, p. 3.
-[^76]: Keene, *Emperor of Japan*, pp. 446-448.
-[^77]: Large, *Emperor Hirohito and Showa Japan*, pp. 3-4.
-[^78]: Keene, *Emperor of Japan*, p. 385.
-[^79]: Shillony, Ben-Ami. *Enigma of the Emperors: Sacred Subservience in Japanese History*. Folkestone: Global Oriental, 2005, pp. 113-114.
-[^80]: Takashi, Fujitani. *Splendid Monarchy: Power and Pageantry in Modern Japan*. Berkeley: University of California Press, 1996, pp. 121-145.
-[^81]: Keene, *Emperor of Japan*, pp. 382-386.
-[^82]: Keene, *Emperor of Japan*, pp. 614-622.
-[^83]: Keene, *Emperor of Japan*, pp. 706-715.
-[^84]: Large, *Emperor Hirohito and Showa Japan*, p. 4.
-[^85]: Keene, *Emperor of Japan*, pp. 672-674.
-[^86]: Fujitani, *Splendid Monarchy*, pp. 88-119.
-[^87]: Keene, *Emperor of Japan*, pp. 512-518, 587-594.
-[^88]: Paine, *The Japanese Empire*, pp. 78-82, 133-137.
-[^89]: Gluck, *Japan's Modern Myths*, pp. 73-127.
-[^90]: Keene, *Emperor of Japan*, pp. 4-7, 672-675.
-[^91]: Keene, *Emperor of Japan*, pp. 706-715.
-[^92]: Fujitani, *Splendid Monarchy*, pp. 197-203.
-[^93]: Keene, *Emperor of Japan*, pp. 711-713.
-[^94]: Jansen, *Making of Modern Japan*, pp. 458-459.
-[^95]: Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*. New York: Columbia University Press, 2007, pp. 89-124.
-[^96]: Johnson, Chalmers. *MITI and the Japanese Miracle*. Stanford: Stanford University Press, 1982, pp. 17-34.
-[^97]: Gluck, *Japan's Modern Myths*, pp. 213-240.
-[^98]: Hardacre, *Shinto and the State*, pp. 89-93.
-[^99]: Breen, John, and Mark Teeuwen, eds. *Shinto in History: Ways of the Kami*. Honolulu: University of Hawai'i Press, 2000, pp. 316-341.
-[^100]: Gordon, *Modern History of Japan*, pp. 154-157.
-[^101]: Bix, *Hirohito and the Making of Modern Japan*, pp. 29-33, 86-118.
+[^1]: Jansen, Marius B. _The Making of Modern Japan_. Cambridge: Harvard University Press, 2000, pp. 333-334.
+
+[^2]: Beasley, W.G. _The Meiji Restoration_. Stanford: Stanford University Press, 1972, pp. 1-5.
+
+[^3]: Keene, Donald. _Emperor of Japan: Meiji and His World, 1852-1912_. New York: Columbia University Press, 2002, pp. 3-7.
+
+[^4]: Gordon, Andrew. _A Modern History of Japan: From Tokugawa Times to the Present_. Oxford: Oxford University Press, 2003, pp. 64-65.
+
+[^5]: Keene, _Emperor of Japan_, pp. 32-35.
+
+[^6]: Totman, Conrad. _A History of Japan_. Malden: Blackwell Publishing, 2000, pp. 289-312.
+
+[^7]: Keene, _Emperor of Japan_, pp. 45-52.
+
+[^8]: Jansen, _Making of Modern Japan_, pp. 283-285.
+
+[^9]: Beasley, _The Meiji Restoration_, pp. 156-158.
+
+[^10]: Keene, _Emperor of Japan_, p. 40.
+
+[^11]: Totman, _History of Japan_, p. 315.
+
+[^12]: Gordon, _Modern History of Japan_, pp. 50-52.
+
+[^13]: Jansen, _Making of Modern Japan_, pp. 308-310.
+
+[^14]: Keene, _Emperor of Japan_, pp. 96-103.
+
+[^15]: Beasley, _The Meiji Restoration_, p. 289.
+
+[^16]: Jansen, _Making of Modern Japan_, pp. 333-336.
+
+[^17]: Gordon, _Modern History of Japan_, pp. 64-66.
+
+[^18]: Totman, _History of Japan_, pp. 320-324.
+
+[^19]: Beasley, _The Meiji Restoration_, pp. 285-287.
+
+[^20]: Keene, _Emperor of Japan_, pp. 132-145.
+
+[^21]: Gordon, _Modern History of Japan_, p. 66.
+
+[^22]: Jansen, _Making of Modern Japan_, p. 341.
+
+[^23]: Keene, _Emperor of Japan_, pp. 178-182.
+
+[^24]: Beasley, W.G. _The Rise of Modern Japan_. New York: St. Martin's Press, 1995, pp. 58-62.
+
+[^25]: Gordon, _Modern History of Japan_, pp. 67-68.
+
+[^26]: Keene, _Emperor of Japan_, pp. 4-7, 672-675.
+
+[^27]: Jansen, _Making of Modern Japan_, pp. 334-335.
+
+[^28]: Beasley, _The Meiji Restoration_, pp. 357-360.
+
+[^29]: Gordon, _Modern History of Japan_, pp. 64-87.
+
+[^30]: Keene, _Emperor of Japan_, pp. 3-5.
+
+[^31]: Jansen, _Making of Modern Japan_, pp. 362-365.
+
+[^32]: Totman, _History of Japan_, pp. 331-334.
+
+[^33]: Ravina, Mark. _The Last Samurai: The Life and Battles of Saigo Takamori_. Hoboken: John Wiley & Sons, 2004, pp. 178-223.
+
+[^34]: Keene, _Emperor of Japan_, pp. 423-426, 512-518.
+
+[^35]: Paine, S.C.M. _The Japanese Empire: Grand Strategy from the Meiji Restoration to the Pacific War_. Cambridge: Cambridge University Press, 2017, pp. 35-42.
+
+[^36]: Gordon, _Modern History of Japan_, pp. 73-74.
+
+[^37]: Paine, _The Japanese Empire_, pp. 53-87, 113-142.
+
+[^38]: Morikawa, Hidemasa. _Zaibatsu: The Rise and Fall of Family Enterprise Groups in Japan_. Tokyo: University of Tokyo Press, 1992, pp. 15-35.
+
+[^39]: Ericson, Steven J. _The Sound of the Whistle: Railroads and the State in Meiji Japan_. Cambridge: Harvard University Press, 1996, pp. 289-292.
+
+[^40]: Nish, Ian, ed. _The Iwakura Mission in America and Europe: A New Assessment_. Richmond: Japan Library, 1998, pp. 1-15.
+
+[^41]: Dore, Ronald P. _Education in Tokugawa Japan_. Berkeley: University of California Press, 1965, pp. 291-317.
+
+[^42]: Ambaras, David R. _Japan's Imperial Underworlds: Intimate Encounters at the Borders of Empire_. Cambridge: Cambridge University Press, 2018, pp. 45-48.
+
+[^43]: Gluck, Carol. _Japan's Modern Myths: Ideology in the Late Meiji Period_. Princeton: Princeton University Press, 1985, pp. 102-156.
+
+[^44]: Pittau, Joseph. _Political Thought in Early Meiji Japan, 1868-1889_. Cambridge: Harvard University Press, 1967, pp. 177-196.
+
+[^45]: Steele, M. William. _Alternative Narratives in Modern Japanese History_. London: RoutledgeCurzon, 2003, pp. 83-85.
+
+[^46]: Auslin, Michael R. _Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy_. Cambridge: Harvard University Press, 2004, pp. 165-182.
+
+[^47]: Nish, Ian H. _The Anglo-Japanese Alliance: The Diplomacy of Two Island Empires 1894-1907_. London: Athlone Press, 1966, pp. 213-237.
+
+[^48]: Steinberg, John W. et al., eds. _The Russo-Japanese War in Global Perspective: World War Zero_. Leiden: Brill, 2005, pp. 1-9.
+
+[^49]: Hardacre, Helen. _Shinto and the State, 1868-1988_. Princeton: Princeton University Press, 1989, pp. 3-48.
+
+[^50]: Gluck, _Japan's Modern Myths_, pp. 73-101.
+
+[^51]: Bix, Herbert P. _Hirohito and the Making of Modern Japan_. New York: HarperCollins, 2000, pp. 29-33.
+
+[^52]: Pittau, _Political Thought in Early Meiji Japan_, pp. 182-189.
+
+[^53]: Bix, _Hirohito and the Making of Modern Japan_, pp. 30-31.
+
+[^54]: Gordon, _Modern History of Japan_, pp. 104-106.
+
+[^55]: Berger, Gordon M. "Politics and Mobilization in Japan, 1931-1945," in _The Cambridge History of Japan, Vol. 6: The Twentieth Century_, ed. Peter Duus. Cambridge: Cambridge University Press, 1988, pp. 97-153.
+
+[^56]: Vlastos, Stephen, ed. _Mirror of Modernity: Invented Traditions of Modern Japan_. Berkeley: University of California Press, 1998, pp. 165-179.
+
+[^57]: Tsurumi, E. Patricia. _Factory Girls: Women in the Thread Mills of Meiji Japan_. Princeton: Princeton University Press, 1990, pp. 63-89.
+
+[^58]: Ravina, _The Last Samurai_, pp. 198-223.
+
+[^59]: Duus, Peter, Ramon H. Myers, and Mark R. Peattie, eds. _The Japanese Informal Empire in China, 1895-1937_. Princeton: Princeton University Press, 1989, pp. xi-xxix.
+
+[^60]: Schmid, Andre. _Korea Between Empires, 1895-1919_. New York: Columbia University Press, 2002, pp. 189-231.
+
+[^61]: Eckert, Carter J. et al. _Korea Old and New: A History_. Seoul: Ilchokak Publishers, 1990, pp. 253-270.
+
+[^62]: Lone, Stewart. _Japan's First Modern War: Army and Society in the Conflict with China, 1894-95_. New York: St. Martin's Press, 1994, pp. 112-118.
+
+[^63]: Yamamoto, Masahiro. _Nanking: Anatomy of an Atrocity_. Westport: Praeger, 2000, pp. 16-19.
+
+[^64]: Notehelfer, F.G. _Kōtoku Shūsui: Portrait of a Japanese Radical_. Cambridge: Cambridge University Press, 1971, pp. 85-113.
+
+[^65]: Mitchell, Richard H. _Censorship in Imperial Japan_. Princeton: Princeton University Press, 1983, pp. 83-112.
+
+[^66]: Large, Stephen S. _The Rise of Labor in Japan: The Yuaikai, 1912-19_. Tokyo: Sophia University, 1972, pp. 11-28.
+
+[^67]: Hardacre, _Shinto and the State_, pp. 119-145.
+
+[^68]: Gluck, _Japan's Modern Myths_, pp. 121-156.
+
+[^69]: Uno, Kathleen S. "Women and Changes in the Household Division of Labor," in _Recreating Japanese Women, 1600-1945_, ed. Gail Lee Bernstein. Berkeley: University of California Press, 1991, pp. 17-41.
+
+[^70]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910," in _Recreating Japanese Women_, pp. 151-174.
+
+[^71]: Siddle, Richard. _Race, Resistance and the Ainu of Japan_. London: Routledge, 1996, pp. 55-78.
+
+[^72]: Howell, David L. "Making 'Useful Citizens' of Ainu Subjects in Early Twentieth-Century Japan," _Journal of Asian Studies_ 63, no. 1 (2004): 5-29.
+
+[^73]: Keene, _Emperor of Japan_, pp. 5-6.
+
+[^74]: Keene, _Emperor of Japan_, pp. 179-181.
+
+[^75]: Large, Stephen S. _Emperor Hirohito and Showa Japan_. London: Routledge, 1992, p. 3.
+
+[^76]: Keene, _Emperor of Japan_, pp. 446-448.
+
+[^77]: Large, _Emperor Hirohito and Showa Japan_, pp. 3-4.
+
+[^78]: Keene, _Emperor of Japan_, p. 385.
+
+[^79]: Shillony, Ben-Ami. _Enigma of the Emperors: Sacred Subservience in Japanese History_. Folkestone: Global Oriental, 2005, pp. 113-114.
+
+[^80]: Takashi, Fujitani. _Splendid Monarchy: Power and Pageantry in Modern Japan_. Berkeley: University of California Press, 1996, pp. 121-145.
+
+[^81]: Keene, _Emperor of Japan_, pp. 382-386.
+
+[^82]: Keene, _Emperor of Japan_, pp. 614-622.
+
+[^83]: Keene, _Emperor of Japan_, pp. 706-715.
+
+[^84]: Large, _Emperor Hirohito and Showa Japan_, p. 4.
+
+[^85]: Keene, _Emperor of Japan_, pp. 672-674.
+
+[^86]: Fujitani, _Splendid Monarchy_, pp. 88-119.
+
+[^87]: Keene, _Emperor of Japan_, pp. 512-518, 587-594.
+
+[^88]: Paine, _The Japanese Empire_, pp. 78-82, 133-137.
+
+[^89]: Gluck, _Japan's Modern Myths_, pp. 73-127.
+
+[^90]: Keene, _Emperor of Japan_, pp. 4-7, 672-675.
+
+[^91]: Keene, _Emperor of Japan_, pp. 706-715.
+
+[^92]: Fujitani, _Splendid Monarchy_, pp. 197-203.
+
+[^93]: Keene, _Emperor of Japan_, pp. 711-713.
+
+[^94]: Jansen, _Making of Modern Japan_, pp. 458-459.
+
+[^95]: Aydin, Cemil. _The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought_. New York: Columbia University Press, 2007, pp. 89-124.
+
+[^96]: Johnson, Chalmers. _MITI and the Japanese Miracle_. Stanford: Stanford University Press, 1982, pp. 17-34.
+
+[^97]: Gluck, _Japan's Modern Myths_, pp. 213-240.
+
+[^98]: Hardacre, _Shinto and the State_, pp. 89-93.
+
+[^99]: Breen, John, and Mark Teeuwen, eds. _Shinto in History: Ways of the Kami_. Honolulu: University of Hawai'i Press, 2000, pp. 316-341.
+
+[^100]: Gordon, _Modern History of Japan_, pp. 154-157.
+
+[^101]: Bix, _Hirohito and the Making of Modern Japan_, pp. 29-33, 86-118.
+
 [^102]: Berger, "Politics and Mobilization in Japan," pp. 97-105.
-[^103]: Dower, John W. *Embracing Defeat: Japan in the Wake of World War II*. New York: W.W. Norton, 1999, pp. 277-318.
-[^104]: Gluck, Carol. "The Idea of Showa," *Daedalus* 119, no. 3 (1990): 1-26.
-[^105]: Gordon, *Modern History of Japan*, pp. 341-345.
-[^106]: Johnson, *MITI and the Japanese Miracle*, pp. 305-324.
-[^107]: Buruma, Ian. *Inventing Japan: 1853-1964*. New York: Modern Library, 2003, pp. 149-163.
-[^108]: Aydin, *The Politics of Anti-Westernism in Asia*, pp. 89-98.
-[^109]: Steinberg et al., *The Russo-Japanese War in Global Perspective*, pp. 1-25.
-[^110]: Duus et al., *The Japanese Informal Empire in China*, pp. xi-xxix.
-[^111]: Johnson, *MITI and the Japanese Miracle*, pp. 17-34.
-[^112]: Woo-Cumings, Meredith, ed. *The Developmental State*. Ithaca: Cornell University Press, 1999, pp. 1-31.
-[^113]: Jansen, *Making of Modern Japan*, pp. 333-459.
-[^114]: Keene, *Emperor of Japan*, pp. 3-7.
-[^115]: Keene, *Emperor of Japan*, pp. 672-675.
-[^116]: Jansen, *Making of Modern Japan*, pp. 458-459.
-[^117]: Beasley, *The Rise of Modern Japan*, pp. 127-145.
-[^118]: Fujitani, *Splendid Monarchy*, pp. 1-25.
-[^119]: Gluck, *Japan's Modern Myths*, pp. 213-240.
-[^120]: Gordon, *Modern History of Japan*, pp. 65-68.
-[^121]: Dore, *Education in Tokugawa Japan*, pp. 291-317.
-[^122]: Jannetta, Ann Bowman. *The Vaccinators: Smallpox, Medical Knowledge, and the 'Opening' of Japan*. Stanford: Stanford University Press, 2007, pp. 189-215.
-[^123]: Silberman, Bernard S., and H.D. Harootunian, eds. *Japan in Crisis: Essays on Taisho Democracy*. Princeton: Princeton University Press, 1974, pp. 3-32.
-[^124]: Paine, *The Japanese Empire*, pp. 17-25.
-[^125]: Beasley, *The Rise of Modern Japan*, pp. 50-71.
-[^126]: Spence, Jonathan D. *The Search for Modern China*. New York: W.W. Norton, 1990, pp. 197-252.
-[^127]: Bix, *Hirohito and the Making of Modern Japan*, pp. 29-33.
-[^128]: Bix, *Hirohito and the Making of Modern Japan*, pp. 30-31.
-[^129]: Mitchell, *Censorship in Imperial Japan*, pp. 83-145.
-[^130]: Vlastos, *Mirror of Modernity*, pp. 165-203.
-[^131]: Tsurumi, *Factory Girls*, pp. 63-142.
-[^132]: Waswo, Ann. *Modern Japanese Society 1868-1994*. Oxford: Oxford University Press, 1996, pp. 19-38.
-[^133]: Lewis, Michael. *Rioters and Citizens: Mass Protest in Imperial Japan*. Berkeley: University of California Press, 1990, pp. 31-67.
-[^134]: Schmid, *Korea Between Empires*, pp. 189-254.
-[^135]: Duus et al., *The Japanese Informal Empire in China*, pp. 3-127.
-[^136]: Peattie, Mark R. "Introduction," in *The Japanese Colonial Empire, 1895-1945*, ed. Ramon H. Myers and Mark R. Peattie. Princeton: Princeton University Press, 1984, pp. 3-52.
+
+[^103]: Dower, John W. _Embracing Defeat: Japan in the Wake of World War II_. New York: W.W. Norton, 1999, pp. 277-318.
+
+[^104]: Gluck, Carol. "The Idea of Showa," _Daedalus_ 119, no. 3 (1990): 1-26.
+
+[^105]: Gordon, _Modern History of Japan_, pp. 341-345.
+
+[^106]: Johnson, _MITI and the Japanese Miracle_, pp. 305-324.
+
+[^107]: Buruma, Ian. _Inventing Japan: 1853-1964_. New York: Modern Library, 2003, pp. 149-163.
+
+[^108]: Aydin, _The Politics of Anti-Westernism in Asia_, pp. 89-98.
+
+[^109]: Steinberg et al., _The Russo-Japanese War in Global Perspective_, pp. 1-25.
+
+[^110]: Duus et al., _The Japanese Informal Empire in China_, pp. xi-xxix.
+
+[^111]: Johnson, _MITI and the Japanese Miracle_, pp. 17-34.
+
+[^112]: Woo-Cumings, Meredith, ed. _The Developmental State_. Ithaca: Cornell University Press, 1999, pp. 1-31.
+
+[^113]: Jansen, _Making of Modern Japan_, pp. 333-459.
+
+[^114]: Keene, _Emperor of Japan_, pp. 3-7.
+
+[^115]: Keene, _Emperor of Japan_, pp. 672-675.
+
+[^116]: Jansen, _Making of Modern Japan_, pp. 458-459.
+
+[^117]: Beasley, _The Rise of Modern Japan_, pp. 127-145.
+
+[^118]: Fujitani, _Splendid Monarchy_, pp. 1-25.
+
+[^119]: Gluck, _Japan's Modern Myths_, pp. 213-240.
+
+[^120]: Gordon, _Modern History of Japan_, pp. 65-68.
+
+[^121]: Dore, _Education in Tokugawa Japan_, pp. 291-317.
+
+[^122]: Jannetta, Ann Bowman. _The Vaccinators: Smallpox, Medical Knowledge, and the 'Opening' of Japan_. Stanford: Stanford University Press, 2007, pp. 189-215.
+
+[^123]: Silberman, Bernard S., and H.D. Harootunian, eds. _Japan in Crisis: Essays on Taisho Democracy_. Princeton: Princeton University Press, 1974, pp. 3-32.
+
+[^124]: Paine, _The Japanese Empire_, pp. 17-25.
+
+[^125]: Beasley, _The Rise of Modern Japan_, pp. 50-71.
+
+[^126]: Spence, Jonathan D. _The Search for Modern China_. New York: W.W. Norton, 1990, pp. 197-252.
+
+[^127]: Bix, _Hirohito and the Making of Modern Japan_, pp. 29-33.
+
+[^128]: Bix, _Hirohito and the Making of Modern Japan_, pp. 30-31.
+
+[^129]: Mitchell, _Censorship in Imperial Japan_, pp. 83-145.
+
+[^130]: Vlastos, _Mirror of Modernity_, pp. 165-203.
+
+[^131]: Tsurumi, _Factory Girls_, pp. 63-142.
+
+[^132]: Waswo, Ann. _Modern Japanese Society 1868-1994_. Oxford: Oxford University Press, 1996, pp. 19-38.
+
+[^133]: Lewis, Michael. _Rioters and Citizens: Mass Protest in Imperial Japan_. Berkeley: University of California Press, 1990, pp. 31-67.
+
+[^134]: Schmid, _Korea Between Empires_, pp. 189-254.
+
+[^135]: Duus et al., _The Japanese Informal Empire in China_, pp. 3-127.
+
+[^136]: Peattie, Mark R. "Introduction," in _The Japanese Colonial Empire, 1895-1945_, ed. Ramon H. Myers and Mark R. Peattie. Princeton: Princeton University Press, 1984, pp. 3-52.
+
 [^137]: Nolte and Hastings, "The Meiji State's Policy Toward Women," pp. 151-174.
+
 [^138]: Uno, "Women and Changes in the Household Division of Labor," pp. 17-41.
-[^139]: Molony, Barbara, and Kathleen Uno, eds. *Gendering Modern Japanese History*. Cambridge: Harvard University Asia Center, 2005, pp. 75-114.
-[^140]: Dower, *Embracing Defeat*, pp. 25-64.
-[^141]: Bix, *Hirohito and the Making of Modern Japan*, pp. 86-118.
+
+[^139]: Molony, Barbara, and Kathleen Uno, eds. _Gendering Modern Japanese History_. Cambridge: Harvard University Asia Center, 2005, pp. 75-114.
+
+[^140]: Dower, _Embracing Defeat_, pp. 25-64.
+
+[^141]: Bix, _Hirohito and the Making of Modern Japan_, pp. 86-118.
+
 [^142]: Berger, "Politics and Mobilization in Japan," pp. 97-153.
-[^143]: Peattie, "Introduction," in *The Japanese Colonial Empire*, pp. 3-52.
-[^144]: Eckert et al., *Korea Old and New*, pp. 253-302.
-[^145]: Jansen, *Making of Modern Japan*, p. 334.
-[^146]: Smethurst, Richard J. *A Social Basis for Prewar Japanese Militarism*. Berkeley: University of California Press, 1974, p. 12.
-[^147]: Gluck, *Japan's Modern Myths*, pp. 121-122.
-[^148]: Keene, *Emperor of Japan*, p. 589.
-[^149]: Beasley, *The Meiji Restoration*, p. 359.
+
+[^143]: Peattie, "Introduction," in _The Japanese Colonial Empire_, pp. 3-52.
+
+[^144]: Eckert et al., _Korea Old and New_, pp. 253-302.
+
+[^145]: Jansen, _Making of Modern Japan_, p. 334.
+
+[^146]: Smethurst, Richard J. _A Social Basis for Prewar Japanese Militarism_. Berkeley: University of California Press, 1974, p. 12.
+
+[^147]: Gluck, _Japan's Modern Myths_, pp. 121-122.
+
+[^148]: Keene, _Emperor of Japan_, p. 589.
+
+[^149]: Beasley, _The Meiji Restoration_, p. 359.

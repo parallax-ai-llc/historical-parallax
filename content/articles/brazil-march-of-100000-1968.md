@@ -32,6 +32,7 @@ Brazil's 21-year military regime began with the 1964 coup:
 ### 1968: Year of Global Revolt
 
 Brazil's protests echoed worldwide uprising:
+
 - France (May 1968)
 - Czechoslovakia (Prague Spring)
 - USA (anti-Vietnam War protests)
@@ -46,6 +47,7 @@ Students were the vanguard everywhere.[^4]
 **Edson Luís de Lima Souto**, 18, was shot and killed by military police
 
 His death ignited fury:
+
 - 50,000 attended his funeral
 - Nationwide protests erupted
 - Regime responded with more violence[^5]
@@ -53,6 +55,7 @@ His death ignited fury:
 ### Sexta-feira Sangrenta (June 21)
 
 **June 21, 1968:** "Bloody Friday"
+
 - Students clashed with police in Rio
 - Several killed
 - Many injured and arrested
@@ -65,6 +68,7 @@ His death ignited fury:
 ### June 26, 1968
 
 **Participants:** ~100,000
+
 - Students (the core organizers)
 - Workers
 - Artists, musicians, intellectuals
@@ -74,6 +78,7 @@ His death ignited fury:
 **Route:** Through central Rio de Janeiro
 
 **Demands:**
+
 1. End state violence and repression
 2. Restore democracy
 3. Release political prisoners
@@ -84,6 +89,7 @@ His death ignited fury:
 ### Peaceful Demonstration
 
 The march was notably peaceful and well-organized:
+
 - No clashes with police
 - Solidarity across social classes
 - Enormous media coverage
@@ -97,20 +103,20 @@ It was the largest demonstration against the military regime since 1964.[^8]
 
 ### Student Movement
 
-| Name/Group | Role |
-|------------|------|
-| UNE (National Students' Union) | Main organizing body |
-| Student activists | Core of the movement |
-| Edson Luís de Lima Souto | Martyred student (March 1968) |
+| Name/Group                     | Role                          |
+| ------------------------------ | ----------------------------- |
+| UNE (National Students' Union) | Main organizing body          |
+| Student activists              | Core of the movement          |
+| Edson Luís de Lima Souto       | Martyred student (March 1968) |
 
 ### Artists and Intellectuals
 
-| Name | Role |
-|------|------|
-| Chico Buarque | Singer-songwriter; icon of resistance |
-| Gilberto Gil | Musician; later exiled |
-| Caetano Veloso | Musician; tropicália; later exiled |
-| Theater and film communities | Prominent participants |
+| Name                         | Role                                  |
+| ---------------------------- | ------------------------------------- |
+| Chico Buarque                | Singer-songwriter; icon of resistance |
+| Gilberto Gil                 | Musician; later exiled                |
+| Caetano Veloso               | Musician; tropicália; later exiled    |
+| Theater and film communities | Prominent participants                |
 
 ---
 
@@ -119,6 +125,7 @@ It was the largest demonstration against the military regime since 1964.[^8]
 **March of 100,000 (June 26):** No deaths; peaceful protest
 
 **Earlier events:**
+
 - Edson Luís (March 28): Killed by police
 - Sexta-feira Sangrenta (June 21): Multiple deaths
 - Ongoing repression: Arrests, torture, disappearances
@@ -140,6 +147,7 @@ It was the largest demonstration against the military regime since 1964.[^8]
 **December 13, 1968:** Institutional Act Number 5 (AI-5) issued
 
 **AI-5 provisions:**
+
 - Suspended habeas corpus for political crimes
 - Closed Congress
 - Allowed removal of elected officials
@@ -193,31 +201,42 @@ Unlike some countries, Brazil never fully prosecuted military-era human rights v
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| April 1, 1964 | Military coup; dictatorship begins |
-| March 28, 1968 | Edson Luís killed by police |
-| June 21, 1968 | Sexta-feira Sangrenta (Bloody Friday) |
-| June 26, 1968 | March of the 100,000 in Rio |
+| Date              | Event                                     |
+| ----------------- | ----------------------------------------- |
+| April 1, 1964     | Military coup; dictatorship begins        |
+| March 28, 1968    | Edson Luís killed by police               |
+| June 21, 1968     | Sexta-feira Sangrenta (Bloody Friday)     |
+| June 26, 1968     | March of the 100,000 in Rio               |
 | December 13, 1968 | AI-5 issued; most repressive phase begins |
-| 1969-1974 | "Anos de Chumbo" (Years of Lead) |
-| 1974-1985 | Gradual political opening |
-| 1985 | Civilian government restored |
-| 1988 | Democratic constitution promulgated |
+| 1969-1974         | "Anos de Chumbo" (Years of Lead)          |
+| 1974-1985         | Gradual political opening                 |
+| 1985              | Civilian government restored              |
+| 1988              | Democratic constitution promulgated       |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia (PT) - Passeata dos Cem Mil](https://pt.wikipedia.org/wiki/Passeata_dos_Cem_Mil)
+
 [^2]: [UOL - 1968 Protests](https://educacao.uol.com.br/disciplinas/historia-brasil/passeata-dos-cem-mil.htm)
+
 [^3]: [Wikipedia - Brazilian Military Dictatorship](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil)
+
 [^4]: [FGV - Student Movement](https://cpdoc.fgv.br/producao/dossies/AEraVargas1)
+
 [^5]: [Ensinar Historia - Edson Luís](https://www.ensinarhistoria.com.br/edson-luis-passeata/)
+
 [^6]: [Gov.br - 1968 Events](https://www.gov.br/arquivonacional/1968)
+
 [^7]: [Memorial da Democracia - March](https://memorialdademocracia.com.br/1968/passeata-cem-mil)
+
 [^8]: [UOL - Analysis](https://educacao.uol.com.br/passeata-cem-mil-analise/)
+
 [^9]: [Wikipedia - 1968 Brazil](https://en.wikipedia.org/wiki/1968_in_Brazil)
+
 [^10]: [UNESC - AI-5](https://www.unesc.net/ai-5-anos-chumbo/)
+
 [^11]: [Wikipedia - Abertura](https://en.wikipedia.org/wiki/Abertura)
+
 [^12]: [Memorial da Democracia - Legacy](https://memorialdademocracia.com.br/legado-1968/)

@@ -4,7 +4,13 @@ name: "Jiang Zemin"
 birth: "1926-08-17"
 death: "2022-11-30"
 nationality: "China"
-occupation: ["Politician", "Engineer", "General Secretary of the Chinese Communist Party", "President of China"]
+occupation:
+  [
+    "Politician",
+    "Engineer",
+    "General Secretary of the Chinese Communist Party",
+    "President of China",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jiang_Zemin_St._Petersburg2002.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jiang_Zemin"
@@ -139,30 +145,30 @@ International legal proceedings, including the Argentine court's genocide findin
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1926 | Born on August 17 in Yangzhou, Jiangsu Province, China |
-| 1946 | Joined the Chinese Communist Party |
-| 1947 | Graduated from Shanghai Jiao Tong University with degree in electrical engineering |
-| 1949 | Married Wang Yeping; People's Republic of China established |
-| ~1955 | Received technical training in the Soviet Union |
-| 1981-1982 | Served as Vice Minister of the State Foreign Investment Commission |
-| 1982 | Became member of the CCP Central Committee |
-| 1985 | Appointed mayor of Shanghai |
-| 1987 | Joined the Politburo at the Thirteenth CCP Congress |
-| 1989 | Appointed General Secretary of the CCP and Chairman of the Central Military Commission following Tiananmen Square protests |
-| 1993 | Became President of the People's Republic of China |
-| 1997 | Hong Kong returned to China; initiated privatization plan; Deng Xiaoping died, making Jiang paramount leader |
-| 1998 | Re-elected President during the Ninth National People's Congress |
-| 1999 | Macau returned to China; launched crackdown on Falun Gong; established 610 Office |
-| 2000 | Introduced "Three Represents" theory on February 25 in Guangdong |
-| 2001 | China joined the World Trade Organization |
-| 2002 | Three Represents written into CCP constitution; retired as General Secretary |
-| 2003 | Stepped down as President; succeeded by Hu Jintao |
-| 2004 | Three Represents written into Chinese state constitution |
-| 2005 | Formally stepped down as Chairman of the Central Military Commission |
-| 2011 | Made public appearance at ceremony marking 100th anniversary of 1911 revolution |
-| 2022 | Died on November 30 at age 96 in Shanghai from leukemia and multiple organ failures |
+| Year      | Event                                                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1926      | Born on August 17 in Yangzhou, Jiangsu Province, China                                                                     |
+| 1946      | Joined the Chinese Communist Party                                                                                         |
+| 1947      | Graduated from Shanghai Jiao Tong University with degree in electrical engineering                                         |
+| 1949      | Married Wang Yeping; People's Republic of China established                                                                |
+| ~1955     | Received technical training in the Soviet Union                                                                            |
+| 1981-1982 | Served as Vice Minister of the State Foreign Investment Commission                                                         |
+| 1982      | Became member of the CCP Central Committee                                                                                 |
+| 1985      | Appointed mayor of Shanghai                                                                                                |
+| 1987      | Joined the Politburo at the Thirteenth CCP Congress                                                                        |
+| 1989      | Appointed General Secretary of the CCP and Chairman of the Central Military Commission following Tiananmen Square protests |
+| 1993      | Became President of the People's Republic of China                                                                         |
+| 1997      | Hong Kong returned to China; initiated privatization plan; Deng Xiaoping died, making Jiang paramount leader               |
+| 1998      | Re-elected President during the Ninth National People's Congress                                                           |
+| 1999      | Macau returned to China; launched crackdown on Falun Gong; established 610 Office                                          |
+| 2000      | Introduced "Three Represents" theory on February 25 in Guangdong                                                           |
+| 2001      | China joined the World Trade Organization                                                                                  |
+| 2002      | Three Represents written into CCP constitution; retired as General Secretary                                               |
+| 2003      | Stepped down as President; succeeded by Hu Jintao                                                                          |
+| 2004      | Three Represents written into Chinese state constitution                                                                   |
+| 2005      | Formally stepped down as Chairman of the Central Military Commission                                                       |
+| 2011      | Made public appearance at ceremony marking 100th anniversary of 1911 revolution                                            |
+| 2022      | Died on November 30 at age 96 in Shanghai from leukemia and multiple organ failures                                        |
 
 ---
 
@@ -183,122 +189,241 @@ International legal proceedings, including the Argentine court's genocide findin
 ## References
 
 [^1]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^2]: [Jiang Zemin: the president who took China from Tiananmen pariah to rising power - South China Morning Post](https://www.scmp.com/news/china/article/3201571/jiang-zemin-president-who-took-china-tiananmen-pariah-rising-power)
+
 [^3]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^4]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^5]: [Three Represents - Wikipedia](https://en.wikipedia.org/wiki/Three_Represents)
+
 [^6]: [Jiang Zemin | Biography & Facts - Britannica](https://www.britannica.com/biography/Jiang-Zemin)
+
 [^7]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^8]: [Jiang Zemin Biography - Notable Biographies](https://www.notablebiographies.com/Ho-Jo/Jiang-Zemin.html)
+
 [^9]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^10]: [Jiang Zemin | Research Starters - EBSCO Research](https://www.ebsco.com/research-starters/biography/jiang-zemin)
+
 [^11]: [Profile: Jiang Zemin's great, glorious life - Chinese Government](https://english.www.gov.cn/news/topnews/202212/02/content_WS6389d626c6d0a757729e3f58.html)
+
 [^12]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^13]: [Profile: Jiang Zemin's great, glorious life - Chinese Government](https://english.www.gov.cn/news/topnews/202212/02/content_WS6389d626c6d0a757729e3f58.html)
+
 [^14]: [Jiang Zemin Biography - Notable Biographies](https://www.notablebiographies.com/Ho-Jo/Jiang-Zemin.html)
+
 [^15]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^16]: [Jiang Zemin Biography - Notable Biographies](https://www.notablebiographies.com/Ho-Jo/Jiang-Zemin.html)
+
 [^17]: [Jiang Zemin | Biography & Facts - Britannica](https://www.britannica.com/biography/Jiang-Zemin)
+
 [^18]: [Chinese Top Leadership Changes as Jiang Zemin Takes the Party Chair - EBSCO Research](https://www.ebsco.com/research-starters/history/chinese-top-leadership-changes-jiang-zemin-takes-party-chair)
+
 [^19]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^20]: [Jiang Zemin | Research Starters - EBSCO Research](https://www.ebsco.com/research-starters/biography/jiang-zemin)
+
 [^21]: [JIANG ZEMIN: HIS LIFE RISE TO POWER - Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-7462.html)
+
 [^22]: [CHINA UNDER JIANG ZEMIN (1990-2003) - Facts and Details](https://factsanddetails.com/china/cat2/sub7/item76.html)
+
 [^23]: [Jiang Zemin: the president who took China from Tiananmen pariah to rising power - South China Morning Post](https://www.scmp.com/news/china/article/3201571/jiang-zemin-president-who-took-china-tiananmen-pariah-rising-power)
+
 [^24]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^25]: [Chinese Top Leadership Changes as Jiang Zemin Takes the Party Chair - EBSCO Research](https://www.ebsco.com/research-starters/history/chinese-top-leadership-changes-jiang-zemin-takes-party-chair)
+
 [^26]: [CHINA UNDER JIANG ZEMIN (1990-2003) - Facts and Details](https://factsanddetails.com/china/cat2/sub7/item76.html)
+
 [^27]: [JIANG ZEMIN: HIS LIFE RISE TO POWER - Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-7462.html)
+
 [^28]: [CHINA UNDER JIANG ZEMIN (1990-2003) - Facts and Details](https://factsanddetails.com/china/cat2/sub7/item76.html)
+
 [^29]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^30]: [Jiang Zemin | Biography & Facts - Britannica](https://www.britannica.com/biography/Jiang-Zemin)
+
 [^31]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^32]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^33]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^34]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^35]: [CHINA UNDER JIANG ZEMIN (1990-2003) - Facts and Details](https://factsanddetails.com/china/cat2/sub7/item76.html)
+
 [^36]: [Jiang Zemin, 1926-2022 - ChinaFile](https://www.chinafile.com/conversation/jiang-zemin-1926-2022)
+
 [^37]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^38]: [Jiang Zemin | Biography & Facts - Britannica](https://www.britannica.com/biography/Jiang-Zemin)
+
 [^39]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^40]: [Three Represents - Wikipedia](https://en.wikipedia.org/wiki/Three_Represents)
+
 [^41]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^42]: [What Is "Three Represents" CPC Theory? - China.org.cn](http://www.china.org.cn/english/zhuanti/3represents/68735.htm)
+
 [^43]: [Three Represents - Wikipedia](https://en.wikipedia.org/wiki/Three_Represents)
+
 [^44]: [RIETI - "Three Represents Theory"](https://www.rieti.go.jp/en/china/02082301.html)
+
 [^45]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^46]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^47]: [China's Underestimated Leader: The Legacy of Jiang Zemin - Foreign Affairs](https://www.foreignaffairs.com/china/chinas-underestimated-leader)
+
 [^48]: [Persecution of Falun Gong - Wikipedia](https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong)
+
 [^49]: [Jiang Zemin's Crime of Genocide in the Persecution of Falun Gong - Uphold Justice](https://www.upholdjustice.org/node/89)
+
 [^50]: [The Religious Persecution of Falun Gong Practitioners in China - UAB Institute for Human Rights](https://sites.uab.edu/humanrights/2023/02/22/the-religious-persecution-of-falun-gong-practitioners-in-china/)
+
 [^51]: [PRC at 75: Jiang Zemin never let up after Deng's crackdown on dissent - Radio Free Asia](https://www.rfa.org/english/news/china/china-jiang-zemin-legacy-falun-gong-10082024091024.html)
+
 [^52]: [Persecution of Falun Gong - Wikipedia](https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong)
+
 [^53]: [JIANG ZEMIN IS LIABLE FOR THE WIDESPREAD TORTURE OF FALUN GONG BELIEVERS - China Tribunal](https://chinatribunal.com/wp-content/uploads/2019/05/JiangZeminLiableForTortureOfFG_HRLF.pdf)
+
 [^54]: [Jiang Zemin and the Falun Gong Crackdown: A Bibliography - Cornell Law](https://scholarship.law.cornell.edu/ijli/vol34/iss3/9/)
+
 [^55]: [The illegality of China's Falun Gong crackdown - European Parliament](https://www.europarl.europa.eu/meetdocs/2009_2014/documents/droi/dv/506_yiyangxia_/506_yiyangxia_en.pdf)
+
 [^56]: [Persecution of Falun Gong - Wikipedia](https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong)
+
 [^57]: [Jiang Zemin and the Falun Gong Crackdown: A Bibliography - Cornell Law](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1074&context=ijli)
+
 [^58]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^59]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^60]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^61]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^62]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^63]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^64]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^65]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^66]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^67]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^68]: [Former Chinese President Jiang Zemin dies at 96 - NBC News](https://www.nbcnews.com/news/world/china-jiang-zemin-dead-rcna59317)
+
 [^69]: [Five lesser-known facts about Jiang Zemin - The China Project](https://thechinaproject.com/2022/11/30/five-lesser-known-facts-about-jiang-zemin-that-chinese-internet-users-are-fondly-remembering-him-for/)
-[^70]: [Moha (meme) - Wikipedia](https://en.wikipedia.org/wiki/Moha_(meme))
+
+[^70]: [Moha (meme) - Wikipedia](<https://en.wikipedia.org/wiki/Moha_(meme)>)
+
 [^71]: [Jiang Zemin, China's Most Meme-Worthy Ex-Leader, Has Died - VICE](https://www.vice.com/en/article/jiang-zemin-china-memes/)
-[^72]: [Moha (meme) - Wikipedia](https://en.wikipedia.org/wiki/Moha_(meme))
+
+[^72]: [Moha (meme) - Wikipedia](<https://en.wikipedia.org/wiki/Moha_(meme)>)
+
 [^73]: [Worshipping Jiang Zemin's Toad - The China Story](https://www.thechinastory.org/yearbooks/yearbook-2015/chapter-4-wood-%E6%9C%A8-the-crystal-clear-waters-of-the-chinese-internet/worshipping-jiang-zemins-toad/)
+
 [^74]: [Five lesser-known facts about Jiang Zemin - The China Project](https://thechinaproject.com/2022/11/30/five-lesser-known-facts-about-jiang-zemin-that-chinese-internet-users-are-fondly-remembering-him-for/)
+
 [^75]: [Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Zemin)
+
 [^76]: [Jiang Zemin, former leader who paved the way for China's rise, dies at 96 - CNN](https://www.cnn.com/2022/11/30/china/jiang-zemin-china-president-obit-intl-hnk)
+
 [^77]: [Death and state funeral of Jiang Zemin - Wikipedia](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Jiang_Zemin)
+
 [^78]: [Jiang Zemin's remains cremated in Beijing - Chinese Government](https://english.www.gov.cn/news/topnews/202212/05/content_WS638dd8e5c6d0a757729e4007.html)
+
 [^79]: [China's ex-leader Jiang Zemin, an influential reformer, has died at 96 - NPR](https://www.npr.org/2022/11/30/1138355814/jiang-zemin-former-chinese-leader-dies)
+
 [^80]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^81]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^82]: [Jiang Zemin, 1926-2022 - ChinaFile](https://www.chinafile.com/conversation/jiang-zemin-1926-2022)
+
 [^83]: [Former President Jiang Zemin, who guided China's rise, dies at 96 - CNBC](https://www.cnbc.com/2022/11/30/former-chinese-president-jiang-zemin-dies-at-age-96-state-media-reports.html)
+
 [^84]: [The Man Who Changed China: The Life and Legacy of Jiang Zemin - Goodreads](https://www.goodreads.com/book/show/296110.The_Man_Who_Changed_China)
+
 [^85]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^86]: [JIANG ZEMIN IS LIABLE FOR THE WIDESPREAD TORTURE OF FALUN GONG BELIEVERS - China Tribunal](https://chinatribunal.com/wp-content/uploads/2019/05/JiangZeminLiableForTortureOfFG_HRLF.pdf)
+
 [^87]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^88]: [Three Represents - Wikipedia](https://en.wikipedia.org/wiki/Three_Represents)
+
 [^89]: [Jiang Zemin Put China's Economic Opening Into Practice - Council on Foreign Relations](https://www.cfr.org/blog/jiang-zemin-put-chinas-economic-opening-practice)
+
 [^90]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^91]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^92]: [China's Underestimated Leader: The Legacy of Jiang Zemin - Foreign Affairs](https://www.foreignaffairs.com/china/chinas-underestimated-leader)
+
 [^93]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^94]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^95]: [Jiang Zemin Put China's Economic Opening Into Practice - Council on Foreign Relations](https://www.cfr.org/blog/jiang-zemin-put-chinas-economic-opening-practice)
+
 [^96]: [Three Represents - Wikipedia](https://en.wikipedia.org/wiki/Three_Represents)
+
 [^97]: [Jiang Zemin, Steward of China's Rise - Asia Society](https://asiasociety.org/policy-institute/jiang-zemin-steward-chinas-rise)
+
 [^98]: [Profile: Jiang Zemin's great, glorious life - Chinese Government](https://english.www.gov.cn/news/topnews/202212/02/content_WS6389d626c6d0a757729e3f58.html)
+
 [^99]: [On the revolutionary life of Jiang Zemin - Friends of Socialist China](https://socialistchina.org/2022/12/04/on-the-revolutionary-life-of-jiang-zemin/)
+
 [^100]: [Five lesser-known facts about Jiang Zemin - The China Project](https://thechinaproject.com/2022/11/30/five-lesser-known-facts-about-jiang-zemin-that-chinese-internet-users-are-fondly-remembering-him-for/)
+
 [^101]: [JIANG ZEMIN: HIS LIFE RISE TO POWER - Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-7462.html)
+
 [^102]: [Persecution of Falun Gong - Wikipedia](https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong)
+
 [^103]: [Jiang Zemin's Crime of Genocide in the Persecution of Falun Gong - Uphold Justice](https://www.upholdjustice.org/node/89)
+
 [^104]: [JIANG ZEMIN IS LIABLE FOR THE WIDESPREAD TORTURE OF FALUN GONG BELIEVERS - China Tribunal](https://chinatribunal.com/wp-content/uploads/2019/05/JiangZeminLiableForTortureOfFG_HRLF.pdf)
+
 [^105]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^106]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^107]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^108]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^109]: [CHINA UNDER JIANG ZEMIN (1990-2003) - Facts and Details](https://factsanddetails.com/china/cat2/sub7/item76.html)
+
 [^110]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^111]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^112]: [Chinese Top Leadership Changes as Jiang Zemin Takes the Party Chair - EBSCO Research](https://www.ebsco.com/research-starters/history/chinese-top-leadership-changes-jiang-zemin-takes-party-chair)
+
 [^113]: [Jiang Zemin's Mixed Legacy - The Diplomat](https://thediplomat.com/2022/12/jiang-zemins-mixed-legacy/)
+
 [^114]: [Jiang Zemin and the Falun Gong Crackdown: A Bibliography - Cornell Law](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1074&context=ijli)
+
 [^115]: [Human Rights Law Foundation Calls Upon Good People of China - Minghui.org](http://en.minghui.org/html/articles/2015/7/30/151804.html)
+
 [^116]: [Jiang Zemin - Wikiquote](https://en.wikiquote.org/wiki/Jiang_Zemin)
+
 [^117]: [TOP 17 QUOTES BY JIANG ZEMIN - A-Z Quotes](https://www.azquotes.com/author/41275-Jiang_Zemin)
+
 [^118]: [Top 50 JIANG ZEMIN quotes and sayings - Inspiring Quotes](https://www.inspiringquotes.us/author/1352-jiang-zemin)
+
 [^119]: [What Is "Three Represents" CPC Theory? - China.org.cn](http://www.china.org.cn/english/zhuanti/3represents/68735.htm)
+
 [^120]: [Jiang Zemin Quotes - BrainyQuote](https://www.brainyquote.com/authors/jiang-zemin-quotes)

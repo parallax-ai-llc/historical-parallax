@@ -141,25 +141,25 @@ The harshest criticism comes from traditionalist Orthodox Christians who view Co
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1404 | Born February 8 in Constantinople, fourth son of Emperor Manuel II Palaiologos and Helena Dragaš[^81] |
-| 1423-1424 | Serves as regent during Emperor John VIII's absence from Constantinople[^82] |
-| 1427-1428 | Defends the Morea against attack by Carlo I Tocco of Epirus[^83] |
-| 1428 | Proclaimed Despot of the Morea; marries Theodora Tocco on July 1[^84] |
-| 1429 | Death of first wife Theodora Tocco in November, likely from childbirth complications[^85] |
-| 1430s | Extends Byzantine control over most of the Peloponnese with his brothers Theodore and Thomas[^86] |
-| 1437-1440 | Serves second term as regent during John VIII's journey to Italy for the Council of Florence[^87] |
-| 1441 | Marries second wife Caterina Gattilusio in August; conquers much of the Morea Peninsula[^88] |
-| 1442 | Death of second wife Caterina Gattilusio from pregnancy complications[^89] |
-| 1444 | Completes reconstruction of the Hexamilion wall by March; conquers Athens and Thebes in summer[^90] |
-| 1446 | Catastrophic defeat when Ottoman Sultan Murad II destroys the Hexamilion wall in December; forced to accept Ottoman suzerainty and pay tribute[^91] |
-| 1447 | Sends George Sphrantzes to seek a third wife in Trebizond and Georgia[^92] |
-| 1448 | Brother Emperor John VIII Palaiologos dies childless on October 31; Constantine recognized as successor[^93] |
-| 1449 | Crowned Emperor on January 6 in Mystras, Morea; becomes last reigning Byzantine Emperor[^94] |
-| 1452 | Mehmed II begins building Rumeli Hisarı fortress on the Bosphorus, cutting off Constantinople from the Black Sea; Constantine formally proclaims Union of Florence in Hagia Sophia in December[^95] |
-| 1452-1453 | Orders restoration of Constantinople's walls and gathering of supplies throughout winter[^96] |
-| 1453 | Ottoman siege of Constantinople begins April 6; Constantine leads defense with approximately 7,000 troops against 80,000 Ottomans; dies fighting during final Ottoman assault on May 29; end of Byzantine Empire[^97] |
+| Year      | Event                                                                                                                                                                                                                 |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1404      | Born February 8 in Constantinople, fourth son of Emperor Manuel II Palaiologos and Helena Dragaš[^81]                                                                                                                 |
+| 1423-1424 | Serves as regent during Emperor John VIII's absence from Constantinople[^82]                                                                                                                                          |
+| 1427-1428 | Defends the Morea against attack by Carlo I Tocco of Epirus[^83]                                                                                                                                                      |
+| 1428      | Proclaimed Despot of the Morea; marries Theodora Tocco on July 1[^84]                                                                                                                                                 |
+| 1429      | Death of first wife Theodora Tocco in November, likely from childbirth complications[^85]                                                                                                                             |
+| 1430s     | Extends Byzantine control over most of the Peloponnese with his brothers Theodore and Thomas[^86]                                                                                                                     |
+| 1437-1440 | Serves second term as regent during John VIII's journey to Italy for the Council of Florence[^87]                                                                                                                     |
+| 1441      | Marries second wife Caterina Gattilusio in August; conquers much of the Morea Peninsula[^88]                                                                                                                          |
+| 1442      | Death of second wife Caterina Gattilusio from pregnancy complications[^89]                                                                                                                                            |
+| 1444      | Completes reconstruction of the Hexamilion wall by March; conquers Athens and Thebes in summer[^90]                                                                                                                   |
+| 1446      | Catastrophic defeat when Ottoman Sultan Murad II destroys the Hexamilion wall in December; forced to accept Ottoman suzerainty and pay tribute[^91]                                                                   |
+| 1447      | Sends George Sphrantzes to seek a third wife in Trebizond and Georgia[^92]                                                                                                                                            |
+| 1448      | Brother Emperor John VIII Palaiologos dies childless on October 31; Constantine recognized as successor[^93]                                                                                                          |
+| 1449      | Crowned Emperor on January 6 in Mystras, Morea; becomes last reigning Byzantine Emperor[^94]                                                                                                                          |
+| 1452      | Mehmed II begins building Rumeli Hisarı fortress on the Bosphorus, cutting off Constantinople from the Black Sea; Constantine formally proclaims Union of Florence in Hagia Sophia in December[^95]                   |
+| 1452-1453 | Orders restoration of Constantinople's walls and gathering of supplies throughout winter[^96]                                                                                                                         |
+| 1453      | Ottoman siege of Constantinople begins April 6; Constantine leads defense with approximately 7,000 troops against 80,000 Ottomans; dies fighting during final Ottoman assault on May 29; end of Byzantine Empire[^97] |
 
 ---
 
@@ -194,105 +194,207 @@ According to the historian Critobulus, these were Constantine's last words befor
 ## References
 
 [^1]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^2]: Constantine XI Palaeologus | Britannica. https://www.britannica.com/biography/Constantine-XI-Palaeologus
+
 [^3]: Who was Constantine XI Palaiologos - World History Edu. https://worldhistoryedu.com/constantine-xi-palaiologos-the-last-emperor-of-the-byzantine-empire/
+
 [^4]: Fall of Constantinople - Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^5]: 1453: The Fall of Constantinople - World History Encyclopedia. https://www.worldhistory.org/article/1180/1453-the-fall-of-constantinople/
+
 [^6]: Fall of Constantinople | Britannica. https://www.britannica.com/event/Fall-of-Constantinople-1453
+
 [^7]: Emperor Constantine XI Dragases Palaiologos - Genealogy. https://www.geni.com/people/Constantine-XI-Palaiologos/6000000009965401953
+
 [^8]: Constantine XI Dragases PALAIOLOGOS - Genealogy Online. https://www.genealogieonline.nl/en/ancestral-trails-2016/I69042.php
+
 [^9]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^10]: Constantine XI Palaiologos - OrthodoxWiki. https://orthodoxwiki.org/Constantine_XI_Palaiologos
+
 [^11]: Constantine XI facts for kids. https://kids.kiddle.co/Constantine_XI
+
 [^12]: George Sphrantzes - Wikipedia. https://en.wikipedia.org/wiki/George_Sphrantzes
+
 [^13]: Constantine XI Palaiologos facts for kids. https://kids.kiddle.co/Constantine_XI_Palaiologos
+
 [^14]: Constantine XI Palaiologos: The Last Byzantine Emperor - Ancient History Sites. https://www.ancient-history-sites.com/byzantine/emperors/constantine-xi-palaiologos/
+
 [^15]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^16]: Constantine XI Palaeologus | Britannica. https://www.britannica.com/biography/Constantine-XI-Palaeologus
+
 [^17]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^18]: Constantine XI Palaiologos | Military Wiki. https://military-history.fandom.com/wiki/Constantine_XI_Palaiologos
+
 [^19]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^20]: The Last Offensive of the Roman Empire (1444-1446). https://shadowsofconstantinople.com/the-last-offensive-of-the-roman-empire/
+
 [^21]: Constantine XI Palaiologos facts for kids. https://kids.kiddle.co/Constantine_XI_Palaiologos
+
 [^22]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^23]: The Last Offensive of the Roman Empire (1444-1446). https://shadowsofconstantinople.com/the-last-offensive-of-the-roman-empire/
+
 [^24]: Constantine XI Palaiologos Biography | Pantheon. https://pantheon.world/profile/person/Constantine_XI_Palaiologos
+
 [^25]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^26]: Constantine XI Palaiologos Biography | HistoryMaps. https://history-maps.com/people/constantine-xi-palaiologos
+
 [^27]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^28]: Constantine XI Palaiologos: The Last Byzantine Emperor - Ancient History Sites. https://www.ancient-history-sites.com/byzantine/emperors/constantine-xi-palaiologos/
+
 [^29]: The Last Offensive of the Roman Empire (1444-1446). https://shadowsofconstantinople.com/the-last-offensive-of-the-roman-empire/
+
 [^30]: Constantine XI Palaiologos facts for kids. https://kids.kiddle.co/Constantine_XI_Palaiologos
+
 [^31]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^32]: Fall of Constantinople - Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^33]: Constantine XI Palaeologus | Britannica. https://www.britannica.com/biography/Constantine-XI-Palaeologus
+
 [^34]: Fall of Constantinople | Britannica. https://www.britannica.com/event/Fall-of-Constantinople-1453
+
 [^35]: Fall of Constantinople - Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^36]: Was Emperor Constantine XI Palaiologos A Uniate? https://www.johnsanidopoulos.com/2020/07/was-emperor-constantine-palaiologos.html
+
 [^37]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^38]: Was Emperor Constantine XI Palaiologos A Uniate? https://www.johnsanidopoulos.com/2020/07/was-emperor-constantine-palaiologos.html
+
 [^39]: Constantine XI Palaiologos - OrthodoxWiki. https://orthodoxwiki.org/Constantine_XI_Palaiologos
+
 [^40]: Constantine XI Palaiologos | Religion Wiki. https://religion.fandom.com/wiki/Constantine_XI_Palaiologos
+
 [^41]: Was Emperor Constantine XI Palaiologos A Uniate? https://www.johnsanidopoulos.com/2020/07/was-emperor-constantine-palaiologos.html
+
 [^42]: Constantine XI Palaiologos | Religion Wiki. https://religion.fandom.com/wiki/Constantine_XI_Palaiologos
+
 [^43]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^44]: 19.01.05 Philippides, Constantine XI Dragaš Palaeologus | The Medieval Review. https://scholarworks.iu.edu/journals/index.php/tmr/article/view/26752/32278
+
 [^45]: Constantine XI | Hellenica World. https://www.hellenicaworld.com/Byzantium/Person/en/ConstantineXI.html
+
 [^46]: Constantine XI Palaiologos: The Last Byzantine Emperor - Ancient History Sites. https://www.ancient-history-sites.com/byzantine/emperors/constantine-xi-palaiologos/
+
 [^47]: The Last Offensive of the Roman Empire (1444-1446). https://shadowsofconstantinople.com/the-last-offensive-of-the-roman-empire/
+
 [^48]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^49]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^50]: Constantine XI | Hellenica World. https://www.hellenicaworld.com/Byzantium/Person/en/ConstantineXI.html
+
 [^51]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^52]: Who was Constantine XI Palaiologos - World History Edu. https://worldhistoryedu.com/constantine-xi-palaiologos-the-last-emperor-of-the-byzantine-empire/
+
 [^53]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^54]: Constantine XI | Hellenica World. https://www.hellenicaworld.com/Byzantium/Person/en/ConstantineXI.html
+
 [^55]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^56]: George Sphrantzes - Wikipedia. https://en.wikipedia.org/wiki/George_Sphrantzes
+
 [^57]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^58]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^59]: Constantine XI Palaiologos: The Last Byzantine Emperor - Ancient History Sites. https://www.ancient-history-sites.com/byzantine/emperors/constantine-xi-palaiologos/
+
 [^60]: Constantine XI Palaiologos | Religion Wiki. https://religion.fandom.com/wiki/Constantine_XI_Palaiologos
+
 [^61]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^62]: Greek Legend: The "Marbled King", Hagia Sophia - Keep Talking Greece. https://www.keeptalkinggreece.com/2020/07/24/hagia-sophia-marbled-king-red-apple-tree-legend-byzantine/
+
 [^63]: Constantine XI Palaiologos | Religion Wiki. https://religion.fandom.com/wiki/Constantine_XI_Palaiologos
+
 [^64]: How Emperor Constantine Palaiologos' Heroism Shaped Modern Greece - GreekReporter.com. https://greekreporter.com/2025/08/01/emperor-constantine-palaiologos-heroism-shaped-soul-modern-greece/
+
 [^65]: Constantine XI Palaiologos: The Last Byzantine Emperor - Ancient History Sites. https://www.ancient-history-sites.com/byzantine/emperors/constantine-xi-palaiologos/
+
 [^66]: 19.01.05 Philippides, Constantine XI Dragaš Palaeologus | The Medieval Review. https://scholarworks.iu.edu/journals/index.php/tmr/article/view/26752/32278
+
 [^67]: Was Emperor Constantine XI Palaiologos A Uniate? https://www.johnsanidopoulos.com/2020/07/was-emperor-constantine-palaiologos.html
+
 [^68]: The Immortal Emperor | Cambridge University Press. https://www.cambridge.org/us/universitypress/subjects/history/european-history-1000-1450/immortal-emperor-life-and-legend-constantine-palaiologos-last-emperor-romans
+
 [^69]: George Sphrantzes - Wikipedia. https://en.wikipedia.org/wiki/George_Sphrantzes
+
 [^70]: Constantine XI Palaiologos: The Last Byzantine Emperor - Ancient History Sites. https://www.ancient-history-sites.com/byzantine/emperors/constantine-xi-palaiologos/
+
 [^71]: Fall of Constantinople - Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^72]: Constantine XI Dragaš Palaeologus - Routledge. https://www.routledge.com/Constantine-XI-Dragas-Palaeologus-1404-1453-The-Last-Emperor-of-Byzantium/Philippides/p/book/9780367586584
+
 [^73]: 19.01.05 Philippides, Constantine XI Dragaš Palaeologus | The Medieval Review. https://scholarworks.iu.edu/journals/index.php/tmr/article/view/26752/32278
+
 [^74]: Was Emperor Constantine XI Palaiologos A Uniate? https://www.johnsanidopoulos.com/2020/07/was-emperor-constantine-palaiologos.html
+
 [^75]: Constantine XI Palaiologos - OrthodoxWiki. https://orthodoxwiki.org/Constantine_XI_Palaiologos
+
 [^76]: Constantine XI Palaiologos: The Last Byzantine Emperor - Ancient History Sites. https://www.ancient-history-sites.com/byzantine/emperors/constantine-xi-palaiologos/
+
 [^77]: The Last Offensive of the Roman Empire (1444-1446). https://shadowsofconstantinople.com/the-last-offensive-of-the-roman-empire/
+
 [^78]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^79]: Constantine XI | Hellenica World. https://www.hellenicaworld.com/Byzantium/Person/en/ConstantineXI.html
+
 [^80]: Was Emperor Constantine XI Palaiologos A Uniate? https://www.johnsanidopoulos.com/2020/07/was-emperor-constantine-palaiologos.html
+
 [^81]: Emperor Constantine XI Dragases Palaiologos - Genealogy. https://www.geni.com/people/Constantine-XI-Palaiologos/6000000009965401953
+
 [^82]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^83]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^84]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^85]: Constantine XI | Hellenica World. https://www.hellenicaworld.com/Byzantium/Person/en/ConstantineXI.html
+
 [^86]: Constantine XI Palaiologos | Military Wiki. https://military-history.fandom.com/wiki/Constantine_XI_Palaiologos
+
 [^87]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^88]: Constantine XI Palaiologos Biography | HistoryMaps. https://history-maps.com/people/constantine-xi-palaiologos
+
 [^89]: Who was Constantine XI Palaiologos - World History Edu. https://worldhistoryedu.com/constantine-xi-palaiologos-the-last-emperor-of-the-byzantine-empire/
+
 [^90]: The Last Offensive of the Roman Empire (1444-1446). https://shadowsofconstantinople.com/the-last-offensive-of-the-roman-empire/
+
 [^91]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^92]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^93]: Constantine XI Palaiologos Biography | Pantheon. https://pantheon.world/profile/person/Constantine_XI_Palaiologos
+
 [^94]: Constantine XI Palaiologos Biography | HistoryMaps. https://history-maps.com/people/constantine-xi-palaiologos
+
 [^95]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^96]: Constantine XI Palaiologos - Wikipedia. https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos
+
 [^97]: Fall of Constantinople - Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^98]: Final speech of the last Byzantine emperor - Greek City Times. https://greekcitytimes.com/2020/05/29/final-speech-of-the-last-byzantine-emperor-present-your-shield-and-sword-descendants-of-greeks/
+
 [^99]: Constantine XI's Final Speech - History Hogs. https://historyhogs.com/constantine-xis-final-speech/
+
 [^100]: The Last Stand of Constantine XI - The New Leaf Journal. https://thenewleafjournal.com/the-last-stand-of-constantine-xi/
+
 [^101]: Final Speech Of The Last Roman Emperor Constantine XI. https://colligavitnemo.wordpress.com/2017/03/02/final-speech-of-the-last-roman-emperor-constantine-xi/
+
 [^102]: Constantine XI's Final Speech - History Hogs. https://historyhogs.com/constantine-xis-final-speech/
+
 [^103]: "The city is fallen and I am still alive" | History Forum. https://historum.com/t/the-city-is-fallen-and-i-am-still-alive.193181/

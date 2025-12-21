@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Search, GitPullRequest, Pencil } from "lucide-react";
+import { Search, GitPullRequest, Pencil, MapIcon } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
 
@@ -34,12 +34,7 @@ export function Header({ onSearchClick, showContribute, editUrl }: HeaderProps) 
             </kbd>
           </Button>
 
-          <Button
-            variant="ghost"
-            size="icon"
-            className="h-9 w-9 md:hidden"
-            onClick={onSearchClick}
-          >
+          <Button variant="ghost" size="icon" className="h-9 w-9 md:hidden" onClick={onSearchClick}>
             <Search className="h-4 w-4" />
           </Button>
 
@@ -60,6 +55,14 @@ export function Header({ onSearchClick, showContribute, editUrl }: HeaderProps) 
               </a>
             </Button>
           )}
+          <Link
+            href="/maps/ufo-mysteries"
+            className="hidden sm:inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
+            title="View Incident Maps"
+          >
+            <MapIcon className="h-4 w-4" />
+            <span className="sr-only">Maps</span>
+          </Link>
 
           <ThemeToggle />
         </div>

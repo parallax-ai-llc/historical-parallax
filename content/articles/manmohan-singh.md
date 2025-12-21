@@ -157,29 +157,29 @@ Some political scientists argue that Singh's tenure demonstrated the fundamental
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1932 | Born on September 26 in Gah, Punjab (now in Pakistan) |
-| 1947 | Family migrated to India during partition |
-| 1952 | Graduated with honors in Economics from Panjab University |
-| 1957 | Completed Economics Tripos at Cambridge University |
-| 1962 | Earned D.Phil. in Economics from Oxford University |
-| 1971 | Joined Reserve Bank of India as economic advisor |
-| 1972 | Appointed Chief Economic Advisor, Ministry of Finance |
-| 1982 | Became Governor of the Reserve Bank of India |
-| 1985 | Ended term as RBI Governor; joined South Commission |
-| 1991 | Appointed Finance Minister; launched economic liberalization |
-| 1996 | Ended first term as Finance Minister |
-| 1998 | Became Leader of Opposition in Rajya Sabha |
-| 2004 | Elected Prime Minister of India on May 22 |
-| 2005 | Government passed Right to Information Act and launched MGNREGA |
-| 2008 | Signed Indo-US Civil Nuclear Agreement; Mumbai attacks occurred |
-| 2009 | Re-elected Prime Minister for second term; underwent heart surgery |
-| 2010 | 2G spectrum and Commonwealth Games scandals erupted |
-| 2012 | Coal block allocation scandal came to light |
+| Year | Event                                                                      |
+| ---- | -------------------------------------------------------------------------- |
+| 1932 | Born on September 26 in Gah, Punjab (now in Pakistan)                      |
+| 1947 | Family migrated to India during partition                                  |
+| 1952 | Graduated with honors in Economics from Panjab University                  |
+| 1957 | Completed Economics Tripos at Cambridge University                         |
+| 1962 | Earned D.Phil. in Economics from Oxford University                         |
+| 1971 | Joined Reserve Bank of India as economic advisor                           |
+| 1972 | Appointed Chief Economic Advisor, Ministry of Finance                      |
+| 1982 | Became Governor of the Reserve Bank of India                               |
+| 1985 | Ended term as RBI Governor; joined South Commission                        |
+| 1991 | Appointed Finance Minister; launched economic liberalization               |
+| 1996 | Ended first term as Finance Minister                                       |
+| 1998 | Became Leader of Opposition in Rajya Sabha                                 |
+| 2004 | Elected Prime Minister of India on May 22                                  |
+| 2005 | Government passed Right to Information Act and launched MGNREGA            |
+| 2008 | Signed Indo-US Civil Nuclear Agreement; Mumbai attacks occurred            |
+| 2009 | Re-elected Prime Minister for second term; underwent heart surgery         |
+| 2010 | 2G spectrum and Commonwealth Games scandals erupted                        |
+| 2012 | Coal block allocation scandal came to light                                |
 | 2014 | Ended term as Prime Minister on May 26; Congress suffered electoral defeat |
-| 2019 | Published memoir "Changing India" (co-authored) |
-| 2024 | Passed away on December 26 at age 92 |
+| 2019 | Published memoir "Changing India" (co-authored)                            |
+| 2024 | Passed away on December 26 at age 92                                       |
 
 ---
 
@@ -199,93 +199,182 @@ Some political scientists argue that Singh's tenure demonstrated the fundamental
 
 ## References
 
-[^1]: Baru, Sanjaya. *The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh*. Penguin Books India, 2014.
-[^2]: Ramesh, Jairam. *To the Brink and Back: India's 1991 Story*. Rupa Publications, 2015.
-[^3]: Singh, Tavleen. "The Scholar Who Would Be King." *India Today*, May 2004.
-[^4]: University of Cambridge records; Dasgupta, Swapan. "Manmohan Singh: The Oxford Scholar." *Times of India*, 2004.
-[^5]: Singh, Manmohan. *India's Export Performance: 1951-1960*. Oxford University, 1962.
-[^6]: Guha, Ramachandra. *India After Gandhi: The History of the World's Largest Democracy*. Ecco Press, 2007.
-[^7]: Aiyar, Swaminathan S. Anklesaria. "Manmohan Singh: India's Best Finance Minister." *Economic Times*, 2012.
+[^1]: Baru, Sanjaya. _The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh_. Penguin Books India, 2014.
+
+[^2]: Ramesh, Jairam. _To the Brink and Back: India's 1991 Story_. Rupa Publications, 2015.
+
+[^3]: Singh, Tavleen. "The Scholar Who Would Be King." _India Today_, May 2004.
+
+[^4]: University of Cambridge records; Dasgupta, Swapan. "Manmohan Singh: The Oxford Scholar." _Times of India_, 2004.
+
+[^5]: Singh, Manmohan. _India's Export Performance: 1951-1960_. Oxford University, 1962.
+
+[^6]: Guha, Ramachandra. _India After Gandhi: The History of the World's Largest Democracy_. Ecco Press, 2007.
+
+[^7]: Aiyar, Swaminathan S. Anklesaria. "Manmohan Singh: India's Best Finance Minister." _Economic Times_, 2012.
+
 [^8]: United Nations Conference on Trade and Development archives.
+
 [^9]: Reserve Bank of India official history; Jalan, Bimal. "Governors I Have Known." RBI Bulletin, 2005.
-[^10]: Joshi, Vijay, and I.M.D. Little. *India's Economic Reforms 1991-2001*. Oxford University Press, 1996.
+
+[^10]: Joshi, Vijay, and I.M.D. Little. _India's Economic Reforms 1991-2001_. Oxford University Press, 1996.
+
 [^11]: Singh, Manmohan. Budget Speech 1991-92. Ministry of Finance, Government of India.
-[^12]: Panagariya, Arvind. *India: The Emerging Giant*. Oxford University Press, 2008.
+
+[^12]: Panagariya, Arvind. _India: The Emerging Giant_. Oxford University Press, 2008.
+
 [^13]: Parliament of India, Rajya Sabha records.
-[^14]: Singh, Natwar. *One Life Is Not Enough: An Autobiography*. Rupa Publications, 2014.
-[^15]: Ahluwalia, Montek Singh. "Economic Reforms in India since 1991: Has Gradualism Worked?" *Journal of Economic Perspectives*, 2002.
-[^16]: Bhagwati, Jagdish, and Arvind Panagariya. *Why Growth Matters*. Public Affairs, 2013.
+
+[^14]: Singh, Natwar. _One Life Is Not Enough: An Autobiography_. Rupa Publications, 2014.
+
+[^15]: Ahluwalia, Montek Singh. "Economic Reforms in India since 1991: Has Gradualism Worked?" _Journal of Economic Perspectives_, 2002.
+
+[^16]: Bhagwati, Jagdish, and Arvind Panagariya. _Why Growth Matters_. Public Affairs, 2013.
+
 [^17]: World Bank Data, India GDP Growth 2004-2014.
+
 [^18]: International Monetary Fund. "India: Selected Issues." IMF Country Report No. 10/73, 2010.
+
 [^19]: Ministry of Rural Development, Government of India. MGNREGA Operational Guidelines, 2013.
+
 [^20]: Ministry of Health and Family Welfare. National Rural Health Mission Framework, 2005.
+
 [^21]: Government of India. The Right to Information Act, 2005.
+
 [^22]: Government of India. The Right of Children to Free and Compulsory Education Act, 2009.
+
 [^23]: Ministry of Human Resource Development. Annual Report 2013-14.
-[^24]: Tellis, Ashley J. "The Evolution of US-Indian Ties: Missile Defense in an Emerging Strategic Relationship." *International Security*, 2008.
-[^25]: Mohan, C. Raja. *Impossible Allies: Nuclear India, United States and the Global Order*. India Research Press, 2006.
+
+[^24]: Tellis, Ashley J. "The Evolution of US-Indian Ties: Missile Defense in an Emerging Strategic Relationship." _International Security_, 2008.
+
+[^25]: Mohan, C. Raja. _Impossible Allies: Nuclear India, United States and the Global Order_. India Research Press, 2006.
+
 [^26]: Indian Space Research Organisation. "Chandrayaan-1: India's First Mission to Moon." ISRO Publication, 2008.
-[^27]: Pieters, Carle M., et al. "Character and Spatial Distribution of OH/H2O on the Surface of the Moon Seen by M3 on Chandrayaan-1." *Science*, 2009.
+
+[^27]: Pieters, Carle M., et al. "Character and Spatial Distribution of OH/H2O on the Surface of the Moon Seen by M3 on Chandrayaan-1." _Science_, 2009.
+
 [^28]: Reserve Bank of India. Report on Trend and Progress of Banking in India, 2013-14.
+
 [^29]: Comptroller and Auditor General of India. "Performance Audit of Issue of Licences and Allocation of 2G Spectrum." Report No. 19 of 2010-11.
+
 [^30]: Comptroller and Auditor General of India. "XIX Commonwealth Games 2010 Delhi." Report No. 6 of 2011-12.
+
 [^31]: Comptroller and Auditor General of India. "Allocation of Coal Blocks and Augmentation of Coal Production." Report No. 7 of 2012.
-[^32]: Chatterjee, Partha. "The Debate Over Political Society." *Economic and Political Weekly*, 2013.
-[^33]: Raman, Aarathi. "10 Years of UPA: The Sonia Gandhi Factor." *The Hindu*, 2014.
-[^34]: Bhattacharya, Saugata. "Policy Paralysis and Economic Governance." *Economic and Political Weekly*, 2012.
+
+[^32]: Chatterjee, Partha. "The Debate Over Political Society." _Economic and Political Weekly_, 2013.
+
+[^33]: Raman, Aarathi. "10 Years of UPA: The Sonia Gandhi Factor." _The Hindu_, 2014.
+
+[^34]: Bhattacharya, Saugata. "Policy Paralysis and Economic Governance." _Economic and Political Weekly_, 2012.
+
 [^35]: Kapur, Devesh, and Milan Vaishnav. "Quid Pro Quo: Builders, Politicians, and Election Finance in India." Center for Global Development Working Paper 276, 2011.
-[^36]: Sahni, Ajai. "The Terror Trap." *South Asia Intelligence Review*, 2009.
-[^37]: Krueger, Anne O., and Sajjid Z. Chinoy. "The Indian Economy in the Next Decade." *Asia Policy*, 2014.
+
+[^36]: Sahni, Ajai. "The Terror Trap." _South Asia Intelligence Review_, 2009.
+
+[^37]: Krueger, Anne O., and Sajjid Z. Chinoy. "The Indian Economy in the Next Decade." _Asia Policy_, 2014.
+
 [^38]: Gulati, Ashok, and Shweta Saini. "Taming Food Inflation in India." Commission for Agricultural Costs and Prices Discussion Paper No. 4, 2013.
-[^39]: Noorani, A.G. "The Silent Prime Minister." *Frontline*, 2012.
-[^40]: Mehta, Pratap Bhanu. "The Man Who Knew Too Little." *Indian Express*, 2014.
+
+[^39]: Noorani, A.G. "The Silent Prime Minister." _Frontline_, 2012.
+
+[^40]: Mehta, Pratap Bhanu. "The Man Who Knew Too Little." _Indian Express_, 2014.
+
 [^41]: Who's Who in India, 2010 edition.
-[^42]: Kumar, Anuj. "Gursharan Kaur: The Woman Behind the PM." *Outlook*, 2009.
-[^43]: Faculty profile, Ashoka University; Singh, Upinder. *A History of Ancient and Early Medieval India*. Pearson Education, 2008.
-[^44]: Singh, Daman. *The Last Frontier: People and Forests in Mizoram*. Penguin India, 2009.
+
+[^42]: Kumar, Anuj. "Gursharan Kaur: The Woman Behind the PM." _Outlook_, 2009.
+
+[^43]: Faculty profile, Ashoka University; Singh, Upinder. _A History of Ancient and Early Medieval India_. Pearson Education, 2008.
+
+[^44]: Singh, Daman. _The Last Frontier: People and Forests in Mizoram_. Penguin India, 2009.
+
 [^45]: American Civil Liberties Union staff biographies, 2010.
-[^46]: Akbar, M.J. "The Paradox of Manmohan Singh." *The Sunday Guardian*, 2013.
-[^47]: Tharoor, Shashi. "An Era of Uneasy Governance." *The Hindu*, 2014.
-[^48]: Singh, Khushwant. *The Sikhs Today*. Orient Longman, 2004.
-[^49]: Chellaney, Brahma. "The Scholar as Prime Minister." *Asian Age*, 2009.
-[^50]: Baru, Sanjaya. "Working with Dr. Singh." *Business Standard*, 2012.
-[^51]: Shourie, Arun. "The Prime Minister Who Wasn't." *Indian Express*, 2013.
+
+[^46]: Akbar, M.J. "The Paradox of Manmohan Singh." _The Sunday Guardian_, 2013.
+
+[^47]: Tharoor, Shashi. "An Era of Uneasy Governance." _The Hindu_, 2014.
+
+[^48]: Singh, Khushwant. _The Sikhs Today_. Orient Longman, 2004.
+
+[^49]: Chellaney, Brahma. "The Scholar as Prime Minister." _Asian Age_, 2009.
+
+[^50]: Baru, Sanjaya. "Working with Dr. Singh." _Business Standard_, 2012.
+
+[^51]: Shourie, Arun. "The Prime Minister Who Wasn't." _Indian Express_, 2013.
+
 [^52]: Lok Sabha Debates archives; United Nations General Assembly records.
-[^53]: Various speeches collected in Singh, Manmohan. *Changing India*. Oxford University Press, 2018.
+
+[^53]: Various speeches collected in Singh, Manmohan. _Changing India_. Oxford University Press, 2018.
+
 [^54]: Personal accounts in various biographical works.
-[^55]: "PM Manmohan Singh Undergoes Coronary Bypass Surgery." *The Hindu*, January 24, 2009.
-[^56]: Rodrik, Dani, and Arvind Subramanian. "From 'Hindu Growth' to Productivity Surge: The Mystery of the Indian Growth Transition." *IMF Staff Papers*, 2005.
-[^57]: Deaton, Angus, and Jean Drèze. "Poverty and Inequality in India: A Re-Examination." *Economic and Political Weekly*, 2002.
-[^58]: Drèze, Jean, and Amartya Sen. *An Uncertain Glory: India and Its Contradictions*. Princeton University Press, 2013.
-[^59]: Mistry, Dinshaw. "The US-India Nuclear Agreement: Diplomacy and Domestic Politics." *Asian Survey*, 2006.
-[^60]: Varshney, Ashutosh. "India's Democratic Challenge." *Foreign Affairs*, 2007.
-[^61]: Das, Gurcharan. *India Grows at Night: A Liberal Case for a Strong State*. Penguin, 2012.
-[^62]: Kohli, Atul. "Politics of Economic Growth in India, 1980-2005." *Economic and Political Weekly*, 2006.
-[^63]: Singh, Manmohan. Various articles in *Economic and Political Weekly* and *India Quarterly*.
-[^64]: Jaffrelot, Christophe. *Religion, Caste and Politics in India*. Primus Books, 2010.
-[^65]: Vanaik, Achin. "The UPA in Retrospect." *Economic and Political Weekly*, 2014.
-[^66]: Tully, Mark. "The Honest Politician." *BBC News*, 2012.
-[^67]: Sen, Amartya. "Economic Reforms and Democratic Values." *Frontline*, 1995.
+
+[^55]: "PM Manmohan Singh Undergoes Coronary Bypass Surgery." _The Hindu_, January 24, 2009.
+
+[^56]: Rodrik, Dani, and Arvind Subramanian. "From 'Hindu Growth' to Productivity Surge: The Mystery of the Indian Growth Transition." _IMF Staff Papers_, 2005.
+
+[^57]: Deaton, Angus, and Jean Drèze. "Poverty and Inequality in India: A Re-Examination." _Economic and Political Weekly_, 2002.
+
+[^58]: Drèze, Jean, and Amartya Sen. _An Uncertain Glory: India and Its Contradictions_. Princeton University Press, 2013.
+
+[^59]: Mistry, Dinshaw. "The US-India Nuclear Agreement: Diplomacy and Domestic Politics." _Asian Survey_, 2006.
+
+[^60]: Varshney, Ashutosh. "India's Democratic Challenge." _Foreign Affairs_, 2007.
+
+[^61]: Das, Gurcharan. _India Grows at Night: A Liberal Case for a Strong State_. Penguin, 2012.
+
+[^62]: Kohli, Atul. "Politics of Economic Growth in India, 1980-2005." _Economic and Political Weekly_, 2006.
+
+[^63]: Singh, Manmohan. Various articles in _Economic and Political Weekly_ and _India Quarterly_.
+
+[^64]: Jaffrelot, Christophe. _Religion, Caste and Politics in India_. Primus Books, 2010.
+
+[^65]: Vanaik, Achin. "The UPA in Retrospect." _Economic and Political Weekly_, 2014.
+
+[^66]: Tully, Mark. "The Honest Politician." _BBC News_, 2012.
+
+[^67]: Sen, Amartya. "Economic Reforms and Democratic Values." _Frontline_, 1995.
+
 [^68]: International Monetary Fund and World Bank joint statement on India reforms, 1993.
-[^69]: Chhibber, Pradeep, and Rahul Verma. *Ideology and Identity: The Changing Party Systems of India*. Oxford University Press, 2018.
-[^70]: Dutta, Puja, et al. "Does India's Employment Guarantee Scheme Guarantee Employment?" *Economic and Political Weekly*, 2012.
-[^71]: Pant, Harsh V. *The US-India Nuclear Pact: Policy, Process, and Great Power Politics*. Oxford University Press, 2011.
-[^72]: Mohan, C. Raja. "India and the Balance of Power." *Foreign Affairs*, 2006.
-[^73]: Khilnani, Sunil. "The Professor as Prime Minister." *Financial Times*, 2009.
-[^74]: Bose, Sumantra. "Flawed Mediation: India, Pakistan, and the Kashmir Dispute." *Washington Quarterly*, 2009.
+
+[^69]: Chhibber, Pradeep, and Rahul Verma. _Ideology and Identity: The Changing Party Systems of India_. Oxford University Press, 2018.
+
+[^70]: Dutta, Puja, et al. "Does India's Employment Guarantee Scheme Guarantee Employment?" _Economic and Political Weekly_, 2012.
+
+[^71]: Pant, Harsh V. _The US-India Nuclear Pact: Policy, Process, and Great Power Politics_. Oxford University Press, 2011.
+
+[^72]: Mohan, C. Raja. "India and the Balance of Power." _Foreign Affairs_, 2006.
+
+[^73]: Khilnani, Sunil. "The Professor as Prime Minister." _Financial Times_, 2009.
+
+[^74]: Bose, Sumantra. "Flawed Mediation: India, Pakistan, and the Kashmir Dispute." _Washington Quarterly_, 2009.
+
 [^75]: Rajan, Raghuram. "Looking Back at the Indian Economy." RBI Speeches, 2014.
-[^76]: Swamy, Subramanian. *The Corrupt and the Shamed*. Har-Anand Publications, 2012.
-[^77]: Acharya, Shankar. "Manmohan Singh's Economic Legacy." *Business Standard*, 2014.
+
+[^76]: Swamy, Subramanian. _The Corrupt and the Shamed_. Har-Anand Publications, 2012.
+
+[^77]: Acharya, Shankar. "Manmohan Singh's Economic Legacy." _Business Standard_, 2014.
+
 [^78]: Hoda, Anwarul, and Prerna Terway. "Credit Policy for Agriculture in India: An Evaluation." Indian Council for Research on International Economic Relations Working Paper 302, 2015.
-[^79]: Kelkar, Vijay. "Reforming the Planning Commission." *Economic and Political Weekly*, 2013.
+
+[^79]: Kelkar, Vijay. "Reforming the Planning Commission." _Economic and Political Weekly_, 2013.
+
 [^80]: Sundar, Pushpa. "Civil Society and Corruption in India." Paper presented at 4th International Conference on Gross National Happiness, 2008.
-[^81]: Patnaik, Prabhat. "The Neoliberal Phase of Capitalism." *Social Scientist*, 2012.
-[^82]: Levien, Michael. "The Land Question: Special Economic Zones and the Political Economy of Dispossession in India." *Journal of Peasant Studies*, 2012.
-[^83]: Jeffrey, Robin, and Assa Doron. *The Great Indian Phone Book*. Harvard University Press, 2013.
-[^84]: Tankel, Stephen. *Storming the World Stage: The Story of Lashkar-e-Taiba*. Hurst Publishers, 2011.
-[^85]: Kaviraj, Sudipta. "Democracy and Development in India." In *Democracy and Development: Political Institutions and Well-Being in the World, 1950-1990*, edited by Adam Przeworski et al. Cambridge University Press, 2000.
+
+[^81]: Patnaik, Prabhat. "The Neoliberal Phase of Capitalism." _Social Scientist_, 2012.
+
+[^82]: Levien, Michael. "The Land Question: Special Economic Zones and the Political Economy of Dispossession in India." _Journal of Peasant Studies_, 2012.
+
+[^83]: Jeffrey, Robin, and Assa Doron. _The Great Indian Phone Book_. Harvard University Press, 2013.
+
+[^84]: Tankel, Stephen. _Storming the World Stage: The Story of Lashkar-e-Taiba_. Hurst Publishers, 2011.
+
+[^85]: Kaviraj, Sudipta. "Democracy and Development in India." In _Democracy and Development: Political Institutions and Well-Being in the World, 1950-1990_, edited by Adam Przeworski et al. Cambridge University Press, 2000.
+
 [^86]: Singh, Manmohan. Budget Speech to Parliament, July 24, 1991.
+
 [^87]: Press conference transcript, Prime Minister's Office, January 3, 2014.
+
 [^88]: Statement in Parliament during coal block debate, August 2012.
-[^89]: Interview with *India Today*, May 2012.
+
+[^89]: Interview with _India Today_, May 2012.
+
 [^90]: Farewell speech as Prime Minister, May 2014.

@@ -4,7 +4,13 @@ name: "Colin Powell"
 birth: "1937-04-05"
 death: "2021-10-18"
 nationality: "United States"
-occupation: ["Military General", "Secretary of State", "National Security Advisor", "Chairman of the Joint Chiefs of Staff"]
+occupation:
+  [
+    "Military General",
+    "Secretary of State",
+    "National Security Advisor",
+    "Chairman of the Joint Chiefs of Staff",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Gen_Colin_L_Powell.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Colin_Powell"
@@ -173,28 +179,28 @@ The harshest critics argue that the Iraq WMD presentation permanently discredite
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1937 | Born April 5 in Harlem, New York, to Jamaican immigrant parents |
-| 1954 | Graduated from Morris High School in the South Bronx |
-| 1958 | Earned bachelor's degree in geology from City College of New York; commissioned as second lieutenant in U.S. Army |
-| 1962 | Married Alma Vivian Johnson on August 25 |
-| 1962-1963 | First tour of duty in South Vietnam; wounded and awarded Purple Heart |
-| 1968-1969 | Second tour in Vietnam; received Soldier's Medal for rescuing soldiers from helicopter crash |
-| 1971 | Earned MBA from George Washington University |
-| 1987 | Appointed National Security Advisor to President Ronald Reagan |
-| 1989 | Appointed Chairman of the Joint Chiefs of Staff by President George H.W. Bush, becoming the first African American and youngest person to hold the position |
-| 1989 | Oversaw U.S. invasion of Panama (Operation Just Cause) |
-| 1990-1991 | Led military planning for Operation Desert Shield and Operation Desert Storm during the Gulf War |
-| 1991 | Awarded Congressional Gold Medal and Presidential Medal of Freedom |
-| 1993 | Retired from the Army after 35 years of service |
-| 2001 | Appointed Secretary of State by President George W. Bush, becoming the first African American to hold the position |
-| 2003 | Presented case for Iraq War to United Nations Security Council on February 5 |
-| 2003 | Iraq War began on March 19; no weapons of mass destruction found |
-| 2004-2005 | Publicly acknowledged that much of his UN presentation was inaccurate |
-| 2005 | Resigned as Secretary of State |
-| 2008 | Endorsed Barack Obama for President |
-| 2021 | Died October 18 at Walter Reed National Military Medical Center from COVID-19 complications at age 84 |
+| Year      | Event                                                                                                                                                       |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1937      | Born April 5 in Harlem, New York, to Jamaican immigrant parents                                                                                             |
+| 1954      | Graduated from Morris High School in the South Bronx                                                                                                        |
+| 1958      | Earned bachelor's degree in geology from City College of New York; commissioned as second lieutenant in U.S. Army                                           |
+| 1962      | Married Alma Vivian Johnson on August 25                                                                                                                    |
+| 1962-1963 | First tour of duty in South Vietnam; wounded and awarded Purple Heart                                                                                       |
+| 1968-1969 | Second tour in Vietnam; received Soldier's Medal for rescuing soldiers from helicopter crash                                                                |
+| 1971      | Earned MBA from George Washington University                                                                                                                |
+| 1987      | Appointed National Security Advisor to President Ronald Reagan                                                                                              |
+| 1989      | Appointed Chairman of the Joint Chiefs of Staff by President George H.W. Bush, becoming the first African American and youngest person to hold the position |
+| 1989      | Oversaw U.S. invasion of Panama (Operation Just Cause)                                                                                                      |
+| 1990-1991 | Led military planning for Operation Desert Shield and Operation Desert Storm during the Gulf War                                                            |
+| 1991      | Awarded Congressional Gold Medal and Presidential Medal of Freedom                                                                                          |
+| 1993      | Retired from the Army after 35 years of service                                                                                                             |
+| 2001      | Appointed Secretary of State by President George W. Bush, becoming the first African American to hold the position                                          |
+| 2003      | Presented case for Iraq War to United Nations Security Council on February 5                                                                                |
+| 2003      | Iraq War began on March 19; no weapons of mass destruction found                                                                                            |
+| 2004-2005 | Publicly acknowledged that much of his UN presentation was inaccurate                                                                                       |
+| 2005      | Resigned as Secretary of State                                                                                                                              |
+| 2008      | Endorsed Barack Obama for President                                                                                                                         |
+| 2021      | Died October 18 at Walter Reed National Military Medical Center from COVID-19 complications at age 84                                                       |
 
 ---
 
@@ -215,102 +221,201 @@ The harshest critics argue that the Iraq WMD presentation permanently discredite
 ## References
 
 [^1]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^2]: [Colin Powell: U.N. Speech "Was a Great Intelligence Failure" | FRONTLINE](https://www.pbs.org/wgbh/frontline/article/colin-powell-u-n-speech-was-a-great-intelligence-failure/)
+
 [^3]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^4]: [Colin Powell | Biography & Facts | Britannica](https://www.britannica.com/biography/Colin-Powell)
+
 [^5]: [Colin Powell - Biography, Facts & Key Moments](https://www.history.com/articles/colin-powell)
+
 [^6]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^7]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^8]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^9]: [General Colin L. Powell, USA | Academy of Achievement](https://achievement.org/achiever/general-colin-l-powell/)
+
 [^10]: [Colin Powell's Early Life: From Bronx to Brass](https://shortform.com/books/blog/colin-powell-early-life.html)
+
 [^11]: [Colin L. Powell - People - Department History - Office of the Historian](https://history.state.gov/departmenthistory/people/powell-colin-luther)
+
 [^12]: [Colin L. Powell - GW Alumni | The George Washington University](https://alumni.gwu.edu/colin-l-powell)
+
 [^13]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^14]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^15]: [Colin Powell | Biography & Facts | Britannica](https://www.britannica.com/biography/Colin-Powell)
+
 [^16]: [General Colin L. Powell, USA | Academy of Achievement](https://achievement.org/achiever/general-colin-l-powell/)
+
 [^17]: [Secretary of State Colin L. Powell](https://georgewbush-whitehouse.archives.gov/government/powell-bio.html)
+
 [^18]: [Colin L. Powell - People - Department History](https://history.state.gov/departmenthistory/people/powell-colin-luther)
+
 [^19]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^20]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^21]: [MOAA - Colin Powell Remembers Desert Storm 25 years later](https://www.moaa.org/content/publications-and-media/features-and-columns/moaa-features/Colin-Powell-Remembers-Desert-Storm-25-years-later/)
+
 [^22]: [Remembering Colin Powell and a pivotal moment before the Gulf War | Brookings](https://www.brookings.edu/articles/remembering-colin-powell-and-a-pivotal-moment-before-the-gulf-war/)
+
 [^23]: [Colin Powell—Kuwait and the Gulf War – Association for Diplomatic Studies & Training](https://adst.org/2021/11/colin-powell-kuwait-and-the-gulf-war/)
+
 [^24]: [Colin Powell reflects on lessons of Operation Desert Storm 25 years later - CBS News](https://www.cbsnews.com/news/colin-powell-reflects-on-lessons-of-operation-desert-storm-25-years-later/)
+
 [^25]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^26]: [Remembering Colin Powell and a pivotal moment before the Gulf War | Brookings](https://www.brookings.edu/articles/remembering-colin-powell-and-a-pivotal-moment-before-the-gulf-war/)
+
 [^27]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^28]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^29]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^30]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^31]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^32]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^33]: [Colin L. Powell - People - Department History](https://history.state.gov/departmenthistory/people/powell-colin-luther)
+
 [^34]: [Secretary of State Colin L. Powell](https://georgewbush-whitehouse.archives.gov/government/powell-bio.html)
+
 [^35]: [Colin Powell's presentation to the United Nations Security Council - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell's_presentation_to_the_United_Nations_Security_Council)
+
 [^36]: [Stories from the UN Archive: The presentation that launched a war | UN News](https://news.un.org/en/story/2024/02/1146332)
+
 [^37]: [Stories from the UN Archive: The presentation that launched a war | UN News](https://news.un.org/en/story/2024/02/1146332)
+
 [^38]: [BRIEFING SECURITY COUNCIL, US SECRETARY OF STATE POWELL PRESENTS EVIDENCE OF IRAQ'S FAILURE TO DISARM | UN Meetings Coverage](https://press.un.org/en/2003/sc7658.doc.htm)
+
 [^39]: [20 years ago, the U.S. warned of Iraq's alleged 'weapons of mass destruction' : NPR](https://www.npr.org/2023/02/03/1151160567/colin-powell-iraq-un-weapons-mass-destruction)
+
 [^40]: [Colin Powell regrets Iraq war intelligence | News | Al Jazeera](https://www.aljazeera.com/news/2011/9/11/colin-powell-regrets-iraq-war-intelligence)
+
 [^41]: [Stories from the UN Archive: The presentation that launched a war | UN News](https://news.un.org/en/story/2024/02/1146332)
+
 [^42]: [Colin Powell's presentation to the United Nations Security Council - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell's_presentation_to_the_United_Nations_Security_Council)
+
 [^43]: [Colin Powell's presentation to the United Nations Security Council - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell's_presentation_to_the_United_Nations_Security_Council)
+
 [^44]: [Colin Powell's presentation to the United Nations Security Council - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell's_presentation_to_the_United_Nations_Security_Council)
+
 [^45]: [Lie After Lie: What Colin Powell Knew About Iraq 15 Years Ago and What He Told the U.N.](https://theintercept.com/2018/02/06/lie-after-lie-what-colin-powell-knew-about-iraq-fifteen-years-ago-and-what-he-told-the-un/)
+
 [^46]: [Colin Powell: U.N. Speech "Was a Great Intelligence Failure" | FRONTLINE](https://www.pbs.org/wgbh/frontline/article/colin-powell-u-n-speech-was-a-great-intelligence-failure/)
+
 [^47]: [Colin Powell's presentation to the United Nations Security Council - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell's_presentation_to_the_United_Nations_Security_Council)
+
 [^48]: [Colin Powell regretted helping launch Iraq War, boosting WMD claims - The Washington Post](https://www.washingtonpost.com/national-security/colin-powell-iraq-war/2021/10/18/179d66bc-3023-11ec-a880-a9d8c009a0b1_story.html)
+
 [^49]: [Colin Powell regrets Iraq war intelligence | News | Al Jazeera](https://www.aljazeera.com/news/2011/9/11/colin-powell-regrets-iraq-war-intelligence)
+
 [^50]: [Colin Powell: U.N. Speech "Was a Great Intelligence Failure" | FRONTLINE](https://www.pbs.org/wgbh/frontline/article/colin-powell-u-n-speech-was-a-great-intelligence-failure/)
+
 [^51]: [Colin Powell's presentation to the United Nations Security Council - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell's_presentation_to_the_United_Nations_Security_Council)
+
 [^52]: [Colin Powell's presentation to the United Nations Security Council - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell's_presentation_to_the_United_Nations_Security_Council)
+
 [^53]: [Lie After Lie: What Colin Powell Knew About Iraq 15 Years Ago and What He Told the U.N.](https://theintercept.com/2018/02/06/lie-after-lie-what-colin-powell-knew-about-iraq-fifteen-years-ago-and-what-he-told-the-un/)
+
 [^54]: [Colin Powell's love story started with a blind date — and lasted six decades | CNN](https://www.cnn.com/2021/10/23/us/colin-alma-powell-love-story-cec)
+
 [^55]: [Alma Powell - Wikipedia](https://en.wikipedia.org/wiki/Alma_Powell)
+
 [^56]: [Colin Powell and His Wife, Alma, Were Married for Nearly 60 Years Before His Passing](https://www.distractify.com/p/colin-powell-wife)
+
 [^57]: [Colin Powell's love story started with a blind date — and lasted six decades | CNN](https://www.cnn.com/2021/10/23/us/colin-alma-powell-love-story-cec)
+
 [^58]: [Colin Powell's love story started with a blind date — and lasted six decades | CNN](https://www.cnn.com/2021/10/23/us/colin-alma-powell-love-story-cec)
+
 [^59]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^60]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^61]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^62]: [Colin Powell's love story started with a blind date — and lasted six decades | CNN](https://www.cnn.com/2021/10/23/us/colin-alma-powell-love-story-cec)
+
 [^63]: [Alma Powell, civic leader and wife of late Colin Powell, dies at 86 - The Washington Post](https://www.washingtonpost.com/obituaries/2024/07/29/alma-powell-death/)
+
 [^64]: [Colin L. Powell's Thirteen Rules of Leadership - U.S. Embassy & Consulates in China](https://china.usembassy-china.org.cn/colin-l-powells-thirteen-rules-of-leadership/)
+
 [^65]: [Colin Powell Quotes - BrainyQuote](https://www.brainyquote.com/authors/colin-powell-quotes)
+
 [^66]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^67]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^68]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^69]: [Alma Powell, wife of late Secretary of State Colin Powell, dies at 86 | CNN Politics](https://www.cnn.com/2024/07/29/politics/alma-powell-dies)
+
 [^70]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^71]: [Colin Powell: In Life and Death | Global Justice in the 21st Century](https://richardfalk.org/2021/10/22/3638/)
+
 [^72]: [Colin Powell reflects on lessons of Operation Desert Storm 25 years later - CBS News](https://www.cbsnews.com/news/colin-powell-reflects-on-lessons-of-operation-desert-storm-25-years-later/)
+
 [^73]: [A Look at Colin Powell's Legacy, Following His Death at 84](https://www.pbs.org/wgbh/frontline/article/colin-powell-legacy-gulf-iraq-war/)
+
 [^74]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^75]: [Colin Powell: A trailblazing legacy, blotted by Iraq war | The Seattle Times](https://www.seattletimes.com/nation-world/nation-politics/colin-powell-a-trailblazing-legacy-blotted-by-iraq-war/)
+
 [^76]: [A Look at Colin Powell's Legacy, Following His Death at 84](https://www.pbs.org/wgbh/frontline/article/colin-powell-legacy-gulf-iraq-war/)
+
 [^77]: [Colin Powell regretted helping launch Iraq War, boosting WMD claims - The Washington Post](https://www.washingtonpost.com/national-security/colin-powell-iraq-war/2021/10/18/179d66bc-3023-11ec-a880-a9d8c009a0b1_story.html)
+
 [^78]: [Colin Powell: A trailblazing legacy, blotted by Iraq war | The Seattle Times](https://www.seattletimes.com/nation-world/nation-politics/colin-powell-a-trailblazing-legacy-blotted-by-iraq-war/)
+
 [^79]: [Colin Powell's legacy, in admirers' words and his own](https://news.harvard.edu/gazette/story/2021/10/colin-powells-legacy-in-admirers-words-and-his-own/)
+
 [^80]: [Colin Powell: In Life and Death | Global Justice in the 21st Century](https://richardfalk.org/2021/10/22/3638/)
+
 [^81]: [Colin Powell's legacy, in admirers' words and his own](https://news.harvard.edu/gazette/story/2021/10/colin-powells-legacy-in-admirers-words-and-his-own/)
+
 [^82]: [Colin Powell: A trailblazing legacy, blotted by Iraq war | The Seattle Times](https://www.seattletimes.com/nation-world/nation-politics/colin-powell-a-trailblazing-legacy-blotted-by-iraq-war/)
+
 [^83]: [Colin Powell's legacy, in admirers' words and his own](https://news.harvard.edu/gazette/story/2021/10/colin-powells-legacy-in-admirers-words-and-his-own/)
+
 [^84]: [Colin L. Powell - The National Museum of the United States Army](https://www.thenmusa.org/biographies/colin-l-powell/)
+
 [^85]: [Colin Powell reflects on lessons of Operation Desert Storm 25 years later - CBS News](https://www.cbsnews.com/news/colin-powell-reflects-on-lessons-of-operation-desert-storm-25-years-later/)
+
 [^86]: [Colin L. Powell's Thirteen Rules of Leadership - U.S. Embassy & Consulates in China](https://china.usembassy-china.org.cn/colin-l-powells-thirteen-rules-of-leadership/)
+
 [^87]: [General Colin L. Powell, USA | Academy of Achievement](https://achievement.org/achiever/general-colin-l-powell/)
+
 [^88]: [Colin Powell regretted helping launch Iraq War, boosting WMD claims - The Washington Post](https://www.washingtonpost.com/national-security/colin-powell-iraq-war/2021/10/18/179d66bc-3023-11ec-a880-a9d8c009a0b1_story.html)
+
 [^89]: [Lie After Lie: What Colin Powell Knew About Iraq 15 Years Ago and What He Told the U.N.](https://theintercept.com/2018/02/06/lie-after-lie-what-colin-powell-knew-about-iraq-fifteen-years-ago-and-what-he-told-the-un/)
+
 [^90]: [Colin Powell regretted helping launch Iraq War, boosting WMD claims - The Washington Post](https://www.washingtonpost.com/national-security/colin-powell-iraq-war/2021/10/18/179d66bc-3023-11ec-a880-a9d8c009a0b1_story.html)
+
 [^91]: [A Reluctant Warrior? An Examination of Gen. Colin Powell's Bloody Legacy from Iraq to Latin America | Democracy Now!](https://www.democracynow.org/2021/10/19/colin_powell_legacy_iraq_latin_america)
+
 [^92]: [Colin Powell: In Life and Death | Global Justice in the 21st Century](https://richardfalk.org/2021/10/22/3638/)
+
 [^93]: [Colin Powell: Invasion of Iraq 'Badly Flawed'](https://www.nbcnews.com/meet-the-press/colin-powell-invasion-iraq-badly-flawed-n422566)
+
 [^94]: [Colin Powell - Wikipedia](https://en.wikipedia.org/wiki/Colin_Powell)
+
 [^95]: ['Blot' on Powell's record: Lies to the UN about Iraq's weapons | Conflict News | Al Jazeera](https://www.aljazeera.com/news/2021/10/18/stain-on-powells-record-lies-to-the-un-about-iraqs-weapons)
+
 [^96]: [Quotations from Chairman Powell: A Leadership Primer - Colin Powell Leadership](https://govleaders.org//powell.php)
+
 [^97]: [25 Colin Powell Quotes on Leadership & Hard Work](https://everydaypower.com/colin-powell-quotes/)
+
 [^98]: [Colin Powell Quotes - BrainyQuote](https://www.brainyquote.com/authors/colin-powell-quotes)
+
 [^99]: [Colin Powell Quotes (Author of My American Journey)](https://www.goodreads.com/author/quotes/138507.Colin_Powell)
+
 [^100]: [Colin Powell: U.N. Speech "Was a Great Intelligence Failure" | FRONTLINE](https://www.pbs.org/wgbh/frontline/article/colin-powell-u-n-speech-was-a-great-intelligence-failure/)

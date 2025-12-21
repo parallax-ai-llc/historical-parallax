@@ -147,22 +147,22 @@ Critics also note that Cesare's methods, even if effective in the short term, we
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1475 | Born in Rome, September 13, illegitimate son of Cardinal Rodrigo Borgia and Vannozza dei Cattanei |
-| 1491 | Appointed Bishop of Pamplona at age 15 |
-| 1492 | Rodrigo Borgia becomes Pope Alexander VI |
-| 1493 | Created Cardinal by his father at age 17, becoming youngest cardinal in history |
-| 1497 | Murder of his brother Giovanni, Duke of Gandia (Cesare suspected but never proven) |
-| 1498 | Renounces cardinalate, first person in history to voluntarily resign from College of Cardinals; created Duke of Valentinois by King Louis XII of France; marries Charlotte d'Albret |
-| 1499 | Begins military campaigns in Romagna; conquers Imola and Forlì |
-| 1500 | Conquests continue: Pesaro, Rimini, Faenza; murder of Alfonso of Aragon, his brother-in-law |
-| 1501 | Created Duke of Romagna by his father; conquest of Faenza completed after brutal siege |
-| 1502 | Conspiracy of condottieri against him; masterful counter-stroke at Senigallia, executing conspirators; reaches apex of power controlling much of central Italy |
+| Year | Event                                                                                                                                                                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1475 | Born in Rome, September 13, illegitimate son of Cardinal Rodrigo Borgia and Vannozza dei Cattanei                                                                                                                                            |
+| 1491 | Appointed Bishop of Pamplona at age 15                                                                                                                                                                                                       |
+| 1492 | Rodrigo Borgia becomes Pope Alexander VI                                                                                                                                                                                                     |
+| 1493 | Created Cardinal by his father at age 17, becoming youngest cardinal in history                                                                                                                                                              |
+| 1497 | Murder of his brother Giovanni, Duke of Gandia (Cesare suspected but never proven)                                                                                                                                                           |
+| 1498 | Renounces cardinalate, first person in history to voluntarily resign from College of Cardinals; created Duke of Valentinois by King Louis XII of France; marries Charlotte d'Albret                                                          |
+| 1499 | Begins military campaigns in Romagna; conquers Imola and Forlì                                                                                                                                                                               |
+| 1500 | Conquests continue: Pesaro, Rimini, Faenza; murder of Alfonso of Aragon, his brother-in-law                                                                                                                                                  |
+| 1501 | Created Duke of Romagna by his father; conquest of Faenza completed after brutal siege                                                                                                                                                       |
+| 1502 | Conspiracy of condottieri against him; masterful counter-stroke at Senigallia, executing conspirators; reaches apex of power controlling much of central Italy                                                                               |
 | 1503 | Pope Alexander VI dies suddenly in August; Cesare himself seriously ill (possibly from same poisoning that killed his father, possibly malaria); brief papacy of Pius III; election of Julius II (della Rovere), a Borgia enemy, in November |
-| 1504 | Arrested by Julius II; imprisoned in Rome, then transferred to Spain |
-| 1506 | Escapes from prison in Spain; seeks refuge with King of Navarre (his brother-in-law) |
-| 1507 | Killed in battle at Viana, Navarre, on March 12, age 31, fighting as a mercenary captain |
+| 1504 | Arrested by Julius II; imprisoned in Rome, then transferred to Spain                                                                                                                                                                         |
+| 1506 | Escapes from prison in Spain; seeks refuge with King of Navarre (his brother-in-law)                                                                                                                                                         |
+| 1507 | Killed in battle at Viana, Navarre, on March 12, age 31, fighting as a mercenary captain                                                                                                                                                     |
 
 ---
 
@@ -192,144 +192,144 @@ This reported statement, recorded by contemporary chroniclers, reveals the emoti
 
 ## References
 
-[^1]: Bradford, Sarah. *Cesare Borgia: His Life and Times*. London: Weidenfeld and Nicolson, 1976.
+[^1]: Bradford, Sarah. _Cesare Borgia: His Life and Times_. London: Weidenfeld and Nicolson, 1976.
 
-[^2]: Mallett, Michael. *The Borgias: The Rise and Fall of a Renaissance Dynasty*. London: Bodley Head, 1969.
+[^2]: Mallett, Michael. _The Borgias: The Rise and Fall of a Renaissance Dynasty_. London: Bodley Head, 1969.
 
-[^3]: Sabatini, Rafael. *The Life of Cesare Borgia*. London: Stanley Paul & Co., 1912.
+[^3]: Sabatini, Rafael. _The Life of Cesare Borgia_. London: Stanley Paul & Co., 1912.
 
-[^4]: Burchard, Johann. *At the Court of the Borgia: Being an Account of the Reign of Pope Alexander VI*. Edited by Geoffrey Parker. London: Folio Society, 1963.
+[^4]: Burchard, Johann. _At the Court of the Borgia: Being an Account of the Reign of Pope Alexander VI_. Edited by Geoffrey Parker. London: Folio Society, 1963.
 
-[^5]: Gregorovius, Ferdinand. *Lucrezia Borgia: According to Original Documents and Correspondence of Her Day*. Translated by John Leslie Garner. New York: D. Appleton, 1903.
+[^5]: Gregorovius, Ferdinand. _Lucrezia Borgia: According to Original Documents and Correspondence of Her Day_. Translated by John Leslie Garner. New York: D. Appleton, 1903.
 
-[^6]: Woodward, William Harrison. *Cesare Borgia: A Biography*. London: Chapman and Hall, 1913.
+[^6]: Woodward, William Harrison. _Cesare Borgia: A Biography_. London: Chapman and Hall, 1913.
 
-[^7]: Chamberlin, E.R. *The Fall of the House of Borgia*. New York: Dial Press, 1974.
+[^7]: Chamberlin, E.R. _The Fall of the House of Borgia_. New York: Dial Press, 1974.
 
-[^8]: Cloulas, Ivan. *The Borgias*. Translated by Gilda Roberts. New York: Franklin Watts, 1989.
+[^8]: Cloulas, Ivan. _The Borgias_. Translated by Gilda Roberts. New York: Franklin Watts, 1989.
 
-[^9]: Machiavelli, Niccolò. *The Prince*. Translated by Harvey C. Mansfield. Chicago: University of Chicago Press, 1985.
+[^9]: Machiavelli, Niccolò. _The Prince_. Translated by Harvey C. Mansfield. Chicago: University of Chicago Press, 1985.
 
-[^10]: Guicciardini, Francesco. *The History of Italy*. Translated by Sidney Alexander. Princeton: Princeton University Press, 1969.
+[^10]: Guicciardini, Francesco. _The History of Italy_. Translated by Sidney Alexander. Princeton: Princeton University Press, 1969.
 
-[^11]: Machiavelli, Niccolò. *Legazioni e Commissarie* (Legations and Commissions). In *Opere di Niccolò Machiavelli*, edited by Sergio Bertelli. Milan: Feltrinelli, 1960-1965.
+[^11]: Machiavelli, Niccolò. _Legazioni e Commissarie_ (Legations and Commissions). In _Opere di Niccolò Machiavelli_, edited by Sergio Bertelli. Milan: Feltrinelli, 1960-1965.
 
-[^12]: Alvisi, Edoardo. *Cesare Borgia, Duca di Romagna*. Imola: Ignazio Galeati, 1878.
+[^12]: Alvisi, Edoardo. _Cesare Borgia, Duca di Romagna_. Imola: Ignazio Galeati, 1878.
 
-[^13]: Mallett, Michael. "Personalities and Pressures: Italian Involvement in the French Invasion of 1494." In *The French Descent into Renaissance Italy, 1494-95: Antecedents and Effects*, edited by David Abulafia. Aldershot: Variorum, 1995.
+[^13]: Mallett, Michael. "Personalities and Pressures: Italian Involvement in the French Invasion of 1494." In _The French Descent into Renaissance Italy, 1494-95: Antecedents and Effects_, edited by David Abulafia. Aldershot: Variorum, 1995.
 
-[^14]: Pieri, Piero. *Il Rinascimento e la crisi militare italiana*. Turin: Einaudi, 1952.
+[^14]: Pieri, Piero. _Il Rinascimento e la crisi militare italiana_. Turin: Einaudi, 1952.
 
-[^15]: Machiavelli, Niccolò. *The Prince*, Chapter VII.
+[^15]: Machiavelli, Niccolò. _The Prince_, Chapter VII.
 
-[^16]: Bradford, Sarah. *Cesare Borgia*, Chapter 12.
+[^16]: Bradford, Sarah. _Cesare Borgia_, Chapter 12.
 
-[^17]: Pepper, Simon and Nicholas Adams. *Firearms and Fortifications: Military Architecture and Siege Warfare in Sixteenth-Century Siena*. Chicago: University of Chicago Press, 1986.
+[^17]: Pepper, Simon and Nicholas Adams. _Firearms and Fortifications: Military Architecture and Siege Warfare in Sixteenth-Century Siena_. Chicago: University of Chicago Press, 1986.
 
-[^18]: Nicholl, Charles. *Leonardo da Vinci: Flights of the Mind*. New York: Viking, 2004.
+[^18]: Nicholl, Charles. _Leonardo da Vinci: Flights of the Mind_. New York: Viking, 2004.
 
-[^19]: Jones, P.J. *The Malatesta of Rimini and the Papal State*. Cambridge: Cambridge University Press, 1974.
+[^19]: Jones, P.J. _The Malatesta of Rimini and the Papal State_. Cambridge: Cambridge University Press, 1974.
 
-[^20]: Larner, John. *The Lords of Romagna: Romagnol Society and the Origins of the Signorie*. London: Macmillan, 1965.
+[^20]: Larner, John. _The Lords of Romagna: Romagnol Society and the Origins of the Signorie_. London: Macmillan, 1965.
 
-[^21]: Ady, Cecilia M. *The Bentivoglio of Bologna: A Study in Despotism*. Oxford: Oxford University Press, 1937.
+[^21]: Ady, Cecilia M. _The Bentivoglio of Bologna: A Study in Despotism_. Oxford: Oxford University Press, 1937.
 
-[^22]: Gilbert, Felix. "Machiavelli and Guicciardini on Politics and Government." In *Studies on Machiavelli*, edited by Myron P. Gilmore. Florence: Sansoni, 1972.
+[^22]: Gilbert, Felix. "Machiavelli and Guicciardini on Politics and Government." In _Studies on Machiavelli_, edited by Myron P. Gilmore. Florence: Sansoni, 1972.
 
-[^23]: Fusero, Clemente. *The Borgias*. Translated by Peter Green. New York: Praeger, 1972.
+[^23]: Fusero, Clemente. _The Borgias_. Translated by Peter Green. New York: Praeger, 1972.
 
-[^24]: Pastor, Ludwig von. *The History of the Popes from the Close of the Middle Ages*. Vols. 5-6. London: Kegan Paul, Trench, Trübner & Co., 1898.
+[^24]: Pastor, Ludwig von. _The History of the Popes from the Close of the Middle Ages_. Vols. 5-6. London: Kegan Paul, Trench, Trübner & Co., 1898.
 
-[^25]: Sacerdote, Gustavo. *Cesare Borgia: La sua vita, la sua famiglia, i suoi tempi*. Milan: Rizzoli, 1950.
+[^25]: Sacerdote, Gustavo. _Cesare Borgia: La sua vita, la sua famiglia, i suoi tempi_. Milan: Rizzoli, 1950.
 
-[^26]: Bradford, Sarah. *Lucrezia Borgia: Life, Love and Death in Renaissance Italy*. London: Viking, 2004.
+[^26]: Bradford, Sarah. _Lucrezia Borgia: Life, Love and Death in Renaissance Italy_. London: Viking, 2004.
 
-[^27]: Picotti, Giovanni Battista. *La giovinezza di Leone X*. Milan: Hoepli, 1928.
+[^27]: Picotti, Giovanni Battista. _La giovinezza di Leone X_. Milan: Hoepli, 1928.
 
-[^28]: Dennistoun, James. *Memoirs of the Dukes of Urbino*. London: Longman, Brown, Green and Longmans, 1851.
+[^28]: Dennistoun, James. _Memoirs of the Dukes of Urbino_. London: Longman, Brown, Green and Longmans, 1851.
 
-[^29]: Infessura, Stefano. *Diario della città di Roma*. Edited by Oreste Tommasini. Rome: Forzani, 1890.
+[^29]: Infessura, Stefano. _Diario della città di Roma_. Edited by Oreste Tommasini. Rome: Forzani, 1890.
 
-[^30]: Burchard, Johann. *Liber Notarum* (diary), entries for 1501.
+[^30]: Burchard, Johann. _Liber Notarum_ (diary), entries for 1501.
 
-[^31]: Collison-Morley, Lacy. *The Story of the Sforzas*. New York: E.P. Dutton, 1934.
+[^31]: Collison-Morley, Lacy. _The Story of the Sforzas_. New York: E.P. Dutton, 1934.
 
-[^32]: Tommasini, Oreste. *La vita e gli scritti di Niccolò Machiavelli nella loro relazione col machiavellismo*. 2 vols. Rome: Loescher, 1883-1911.
+[^32]: Tommasini, Oreste. _La vita e gli scritti di Niccolò Machiavelli nella loro relazione col machiavellismo_. 2 vols. Rome: Loescher, 1883-1911.
 
-[^33]: Rendina, Claudio. *I Papi: Storia e segreti*. Rome: Newton Compton, 1983.
+[^33]: Rendina, Claudio. _I Papi: Storia e segreti_. Rome: Newton Compton, 1983.
 
-[^34]: Tuchman, Barbara W. *The March of Folly: From Troy to Vietnam*. New York: Knopf, 1984.
+[^34]: Tuchman, Barbara W. _The March of Folly: From Troy to Vietnam_. New York: Knopf, 1984.
 
-[^35]: Erlanger, Rachel. *Lucrezia Borgia: A Biography*. New York: Hawthorn Books, 1978.
+[^35]: Erlanger, Rachel. _Lucrezia Borgia: A Biography_. New York: Hawthorn Books, 1978.
 
-[^36]: Johnson, Marion. *The Borgias*. London: Macdonald, 1981.
+[^36]: Johnson, Marion. _The Borgias_. London: Macdonald, 1981.
 
-[^37]: Castiglione, Baldassare. *The Book of the Courtier*. Translated by George Bull. London: Penguin, 1967.
+[^37]: Castiglione, Baldassare. _The Book of the Courtier_. Translated by George Bull. London: Penguin, 1967.
 
-[^38]: Quétel, Claude. *History of Syphilis*. Translated by Judith Braddock and Brian Pike. Baltimore: Johns Hopkins University Press, 1990.
+[^38]: Quétel, Claude. _History of Syphilis_. Translated by Judith Braddock and Brian Pike. Baltimore: Johns Hopkins University Press, 1990.
 
-[^39]: Hibbert, Christopher. *The Borgias and Their Enemies: 1431-1519*. Orlando: Harcourt, 2008.
+[^39]: Hibbert, Christopher. _The Borgias and Their Enemies: 1431-1519_. Orlando: Harcourt, 2008.
 
-[^40]: De Roo, Peter. *Material for a History of Pope Alexander VI, His Relatives and His Time*. 5 vols. Bruges: Desclée, De Brouwer, 1924.
+[^40]: De Roo, Peter. _Material for a History of Pope Alexander VI, His Relatives and His Time_. 5 vols. Bruges: Desclée, De Brouwer, 1924.
 
-[^41]: Cappelli, Antonio. "Lettere di Lorenzo de' Medici dette il Magnifico conservate nell'Archivio Palatino di Modena." *Atti e memorie delle RR. Deputazioni di storia patria per le provincie modenesi e parmensi* 1 (1863).
+[^41]: Cappelli, Antonio. "Lettere di Lorenzo de' Medici dette il Magnifico conservate nell'Archivio Palatino di Modena." _Atti e memorie delle RR. Deputazioni di storia patria per le provincie modenesi e parmensi_ 1 (1863).
 
-[^42]: Sanuto, Marino. *I Diarii di Marino Sanuto*. 58 vols. Venice: Visentini, 1879-1903.
+[^42]: Sanuto, Marino. _I Diarii di Marino Sanuto_. 58 vols. Venice: Visentini, 1879-1903.
 
-[^43]: De Grazia, Sebastian. *Machiavelli in Hell*. Princeton: Princeton University Press, 1989.
+[^43]: De Grazia, Sebastian. _Machiavelli in Hell_. Princeton: Princeton University Press, 1989.
 
-[^44]: Ridolfi, Roberto. *The Life of Niccolò Machiavelli*. Translated by Cecil Grayson. Chicago: University of Chicago Press, 1963.
+[^44]: Ridolfi, Roberto. _The Life of Niccolò Machiavelli_. Translated by Cecil Grayson. Chicago: University of Chicago Press, 1963.
 
-[^45]: Skinner, Quentin. *Machiavelli: A Very Short Introduction*. Oxford: Oxford University Press, 2000.
+[^45]: Skinner, Quentin. _Machiavelli: A Very Short Introduction_. Oxford: Oxford University Press, 2000.
 
-[^46]: Partner, Peter. *The Lands of St Peter: The Papal State in the Middle Ages and the Early Renaissance*. Berkeley: University of California Press, 1972.
+[^46]: Partner, Peter. _The Lands of St Peter: The Papal State in the Middle Ages and the Early Renaissance_. Berkeley: University of California Press, 1972.
 
-[^47]: Procacci, Giuliano. *History of the Italian People*. Translated by Anthony Paul. London: Weidenfeld and Nicolson, 1970.
+[^47]: Procacci, Giuliano. _History of the Italian People_. Translated by Anthony Paul. London: Weidenfeld and Nicolson, 1970.
 
-[^48]: Puzo, Mario. *The Family: A Novel*. New York: HarperCollins, 2001.
+[^48]: Puzo, Mario. _The Family: A Novel_. New York: HarperCollins, 2001.
 
-[^49]: Cloulas, Ivan. *Les Borgia*. Paris: Fayard, 1987.
+[^49]: Cloulas, Ivan. _Les Borgia_. Paris: Fayard, 1987.
 
-[^50]: Hall, Bert S. *Weapons and Warfare in Renaissance Europe: Gunpowder, Technology, and Tactics*. Baltimore: Johns Hopkins University Press, 1997.
+[^50]: Hall, Bert S. _Weapons and Warfare in Renaissance Europe: Gunpowder, Technology, and Tactics_. Baltimore: Johns Hopkins University Press, 1997.
 
-[^51]: Najemy, John M. *A History of Florence, 1200-1575*. Oxford: Blackwell, 2006.
+[^51]: Najemy, John M. _A History of Florence, 1200-1575_. Oxford: Blackwell, 2006.
 
-[^52]: Mallett, Michael and Christine Shaw. *The Italian Wars, 1494-1559*. Harlow: Pearson, 2012.
+[^52]: Mallett, Michael and Christine Shaw. _The Italian Wars, 1494-1559_. Harlow: Pearson, 2012.
 
-[^53]: Viroli, Maurizio. *Niccolò's Smile: A Biography of Machiavelli*. Translated by Antony Shugaar. New York: Farrar, Straus and Giroux, 2000.
+[^53]: Viroli, Maurizio. _Niccolò's Smile: A Biography of Machiavelli_. Translated by Antony Shugaar. New York: Farrar, Straus and Giroux, 2000.
 
-[^54]: Hollingsworth, Mary. *The Borgias: History's Most Notorious Dynasty*. London: Quercus, 2011.
+[^54]: Hollingsworth, Mary. _The Borgias: History's Most Notorious Dynasty_. London: Quercus, 2011.
 
-[^55]: Shaw, Christine. *Julius II: The Warrior Pope*. Oxford: Blackwell, 1993.
+[^55]: Shaw, Christine. _Julius II: The Warrior Pope_. Oxford: Blackwell, 1993.
 
-[^56]: Pellegrini, Marco. *Ascanio Maria Sforza: La parabola politica di un cardinale-principe del Rinascimento*. 2 vols. Rome: Istituto Storico Italiano per il Medio Evo, 2002.
+[^56]: Pellegrini, Marco. _Ascanio Maria Sforza: La parabola politica di un cardinale-principe del Rinascimento_. 2 vols. Rome: Istituto Storico Italiano per il Medio Evo, 2002.
 
-[^57]: Burckhardt, Jacob. *The Civilization of the Renaissance in Italy*. Translated by S.G.C. Middlemore. London: Penguin, 1990 [1860].
+[^57]: Burckhardt, Jacob. _The Civilization of the Renaissance in Italy_. Translated by S.G.C. Middlemore. London: Penguin, 1990 [1860].
 
-[^58]: Acton, Lord. "The Borgias and Their Latest Historian." In *Historical Essays and Studies*, edited by J.N. Figgis and R.V. Laurence. London: Macmillan, 1907.
+[^58]: Acton, Lord. "The Borgias and Their Latest Historian." In _Historical Essays and Studies_, edited by J.N. Figgis and R.V. Laurence. London: Macmillan, 1907.
 
-[^59]: Prodi, Paolo. *The Papal Prince: One Body and Two Souls: The Papal Monarchy in Early Modern Europe*. Translated by Susan Haskins. Cambridge: Cambridge University Press, 1987.
+[^59]: Prodi, Paolo. _The Papal Prince: One Body and Two Souls: The Papal Monarchy in Early Modern Europe_. Translated by Susan Haskins. Cambridge: Cambridge University Press, 1987.
 
-[^60]: Guicciardini, Francesco. *Storia d'Italia*. Edited by Silvana Seidel Menchi. 3 vols. Turin: Einaudi, 1971.
+[^60]: Guicciardini, Francesco. _Storia d'Italia_. Edited by Silvana Seidel Menchi. 3 vols. Turin: Einaudi, 1971.
 
-[^61]: Anglo, Sydney. *Machiavelli: The First Century: Studies in Enthusiasm, Hostility, and Irrelevance*. Oxford: Oxford University Press, 2005.
+[^61]: Anglo, Sydney. _Machiavelli: The First Century: Studies in Enthusiasm, Hostility, and Irrelevance_. Oxford: Oxford University Press, 2005.
 
-[^62]: Maritain, Jacques. "The End of Machiavellianism." *The Review of Politics* 4, no. 1 (1942): 1-33.
+[^62]: Maritain, Jacques. "The End of Machiavellianism." _The Review of Politics_ 4, no. 1 (1942): 1-33.
 
-[^63]: Prodi, Paolo. "The Structure and Organization of the Church in Renaissance Venice: Suggestions for Research." In *Renaissance Venice*, edited by J.R. Hale. London: Faber and Faber, 1973.
+[^63]: Prodi, Paolo. "The Structure and Organization of the Church in Renaissance Venice: Suggestions for Research." In _Renaissance Venice_, edited by J.R. Hale. London: Faber and Faber, 1973.
 
-[^64]: Murphy, Caroline P. *The Pope's Daughter: The Extraordinary Life of Felice della Rovere*. Oxford: Oxford University Press, 2005.
+[^64]: Murphy, Caroline P. _The Pope's Daughter: The Extraordinary Life of Felice della Rovere_. Oxford: Oxford University Press, 2005.
 
-[^65]: Höfler, Constantin von. *Don Rodrigo de Borgia (Papst Alexander VI.) und seine Söhne Don César und Don Juan Borgia*. Vienna: Wilhelm Braumüller, 1889.
+[^65]: Höfler, Constantin von. _Don Rodrigo de Borgia (Papst Alexander VI.) und seine Söhne Don César und Don Juan Borgia_. Vienna: Wilhelm Braumüller, 1889.
 
-[^66]: Mattingly, Garrett. *Renaissance Diplomacy*. Boston: Houghton Mifflin, 1955.
+[^66]: Mattingly, Garrett. _Renaissance Diplomacy_. Boston: Houghton Mifflin, 1955.
 
-[^67]: Motto documented in: Alvisi, Edoardo. *Cesare Borgia, Duca di Romagna*. Imola: Ignazio Galeati, 1878.
+[^67]: Motto documented in: Alvisi, Edoardo. _Cesare Borgia, Duca di Romagna_. Imola: Ignazio Galeati, 1878.
 
-[^68]: Yriarte, Charles. *César Borgia: sa vie, sa captivité, sa mort*. 2 vols. Paris: J. Rothschild, 1889.
+[^68]: Yriarte, Charles. _César Borgia: sa vie, sa captivité, sa mort_. 2 vols. Paris: J. Rothschild, 1889.
 
-[^69]: Nardi, Jacopo. *Istorie della città di Firenze*. Edited by Agenore Gelli. 2 vols. Florence: Le Monnier, 1858.
+[^69]: Nardi, Jacopo. _Istorie della città di Firenze_. Edited by Agenore Gelli. 2 vols. Florence: Le Monnier, 1858.
 
-[^70]: Seton-Watson, R.W. "Cesare Borgia and the Confederacy of Magione." *English Historical Review* 19 (1904): 82-96.
+[^70]: Seton-Watson, R.W. "Cesare Borgia and the Confederacy of Magione." _English Historical Review_ 19 (1904): 82-96.
 
-[^71]: Anonymous Venetian chronicle quoted in: Pasolini, Pier Desiderio. *Caterina Sforza*. 3 vols. Rome: Loescher, 1893.
+[^71]: Anonymous Venetian chronicle quoted in: Pasolini, Pier Desiderio. _Caterina Sforza_. 3 vols. Rome: Loescher, 1893.

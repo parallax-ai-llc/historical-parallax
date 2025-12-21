@@ -40,6 +40,7 @@ In 2017, under Suu Kyi's government, the Tatmadaw conducted what the UN called g
 ### The 2020 Election
 
 On November 8, 2020:
+
 - NLD won 396 of 476 contested seats
 - Military-aligned USDP won only 33 seats
 - Turnout: 72% despite COVID-19
@@ -65,10 +66,10 @@ In the early morning hours, as the new parliament was about to convene:
 
 The State Administration Council (SAC) was formed:
 
-| Name | Role |
-|------|------|
-| Min Aung Hlaing | SAC Chair; Commander-in-Chief |
-| Soe Win | SAC Vice Chair; Deputy Commander |
+| Name              | Role                                |
+| ----------------- | ----------------------------------- |
+| Min Aung Hlaing   | SAC Chair; Commander-in-Chief       |
+| Soe Win           | SAC Vice Chair; Deputy Commander    |
 | Military officers | Dominate all branches of government |
 
 ---
@@ -80,6 +81,7 @@ The State Administration Council (SAC) was formed:
 Starting February 2, 2021, a massive CDM paralyzed the junta:
 
 **Participants:**
+
 - Healthcare workers (first sector to strike)
 - Civil servants (revenue, immigration, ministries)
 - Bank employees (banking system disrupted)
@@ -87,6 +89,7 @@ Starting February 2, 2021, a massive CDM paralyzed the junta:
 - General population
 
 **Impact:**
+
 - Government functions severely impaired
 - Tax collection collapsed
 - Banks barely operational
@@ -97,6 +100,7 @@ Starting February 2, 2021, a massive CDM paralyzed the junta:
 Millions joined protests:
 
 **Tactics:**
+
 - Three-finger salute (from Hunger Games)
 - Red ribbons (NLD color)
 - Night strikes; pot-banging protests
@@ -106,6 +110,7 @@ Millions joined protests:
 ### The "Spring Revolution"
 
 The protest movement adopted this name to signify:
+
 - Generational change
 - Democratic aspiration
 - Connection to global democracy movements
@@ -119,15 +124,18 @@ The protest movement adopted this name to signify:
 The military escalated from arrests to mass killings:
 
 **February 2021:**
+
 - Rubber bullets, water cannons
 - First protest deaths (February 20+)
 
 **March 2021:**
+
 - Live ammunition routine
 - Deadliest day: March 27 (Armed Forces Day) - 100+ killed
 - Snipers targeting protesters' heads
 
 **April 2021:**
+
 - Bago massacre (April 9): 82+ killed in 24 hours
 - Counterinsurgency tactics deployed against civilians[^10]
 
@@ -155,13 +163,14 @@ On April 9, 2021, in Bago:
 
 ### Deaths (as of late 2024)
 
-| Category | Estimate |
-|----------|----------|
-| Civilians killed (OHCHR) | 5,350+ |
-| Total killed including armed conflict (ACLED) | 80,000+ |
-| Deaths in custody | 1,800+ |
+| Category                                      | Estimate |
+| --------------------------------------------- | -------- |
+| Civilians killed (OHCHR)                      | 5,350+   |
+| Total killed including armed conflict (ACLED) | 80,000+  |
+| Deaths in custody                             | 1,800+   |
 
 **Responsibility (first 20 months):**
+
 - Military/police: ~3,000 civilian deaths
 - Resistance/EAOs: ~2,100+
 - Unspecified: ~1,100+[^13]
@@ -196,17 +205,20 @@ As nonviolent protest was crushed, armed resistance emerged:
 The conflict expanded rapidly:
 
 **Resistance forces:**
+
 - PDF (various local chapters)
 - Ethnic Armed Organizations (EAOs)—Karen, Kachin, Chin, Rakhine, Shan forces
 - Urban guerrilla cells
 
 **Junta weaknesses:**
+
 - Military stretched thin
 - Defections
 - Economic problems
 - Loss of territory
 
 **Resistance gains (2023-2024):**
+
 - Operation 1027 (October 2023): Major offensive; significant territorial gains
 - Military losing control of border areas
 - Some major towns captured by resistance[^15]
@@ -217,27 +229,27 @@ The conflict expanded rapidly:
 
 ### Civilian Leadership (Detained/Opposition)
 
-| Name | Role |
-|------|------|
+| Name             | Role                                            |
+| ---------------- | ----------------------------------------------- |
 | Aung San Suu Kyi | State Counsellor; detained; sentenced 27+ years |
-| Win Myint | President; detained |
-| Duwa Lashi La | NUG Acting President |
-| Zin Mar Aung | NUG Foreign Minister |
+| Win Myint        | President; detained                             |
+| Duwa Lashi La    | NUG Acting President                            |
+| Zin Mar Aung     | NUG Foreign Minister                            |
 
 ### Military Junta
 
-| Name | Role |
-|------|------|
+| Name            | Role                          |
+| --------------- | ----------------------------- |
 | Min Aung Hlaing | SAC Chair; Commander-in-Chief |
-| Soe Win | Vice SAC Chair |
+| Soe Win         | Vice SAC Chair                |
 
 ### Resistance
 
-| Entity | Role |
-|--------|------|
+| Entity                          | Role                                          |
+| ------------------------------- | --------------------------------------------- |
 | National Unity Government (NUG) | Parallel government; international engagement |
-| People's Defense Force (PDF) | Armed resistance |
-| Various EAOs | Ethnic armed groups allied with resistance |
+| People's Defense Force (PDF)    | Armed resistance                              |
+| Various EAOs                    | Ethnic armed groups allied with resistance    |
 
 ---
 
@@ -280,44 +292,63 @@ The conflict expanded rapidly:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| November 8, 2020 | NLD wins landslide election |
-| February 1, 2021 | Military coup; Suu Kyi detained |
-| February 2, 2021 | CDM begins |
-| February 6, 2021 | Mass street protests begin |
-| February 20, 2021 | First protest deaths |
-| March 27, 2021 | Armed Forces Day massacre (100+ killed) |
-| April 9, 2021 | Bago massacre (82+ killed) |
-| April 16, 2021 | NUG formed |
-| May 5, 2021 | PDF formed |
-| September 7, 2021 | NUG declares "people's defensive war" |
-| December 2021 | Suu Kyi's first convictions |
-| 2022-2023 | Civil war intensifies; military loses ground |
-| October 2023 | Operation 1027; resistance advances |
-| 2024 | Conflict ongoing; 3+ million displaced |
+| Date              | Event                                        |
+| ----------------- | -------------------------------------------- |
+| November 8, 2020  | NLD wins landslide election                  |
+| February 1, 2021  | Military coup; Suu Kyi detained              |
+| February 2, 2021  | CDM begins                                   |
+| February 6, 2021  | Mass street protests begin                   |
+| February 20, 2021 | First protest deaths                         |
+| March 27, 2021    | Armed Forces Day massacre (100+ killed)      |
+| April 9, 2021     | Bago massacre (82+ killed)                   |
+| April 16, 2021    | NUG formed                                   |
+| May 5, 2021       | PDF formed                                   |
+| September 7, 2021 | NUG declares "people's defensive war"        |
+| December 2021     | Suu Kyi's first convictions                  |
+| 2022-2023         | Civil war intensifies; military loses ground |
+| October 2023      | Operation 1027; resistance advances          |
+| 2024              | Conflict ongoing; 3+ million displaced       |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2021 Myanmar Coup](https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat)
-[^2]: [Wikipedia - Myanmar Civil War](https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present))
+
+[^2]: [Wikipedia - Myanmar Civil War](<https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)>)
+
 [^3]: [OHCHR - Deaths](https://news.un.org/en/story/2024/09/myanmar-deaths)
+
 [^4]: [Britannica - Myanmar History](https://www.britannica.com/biography/Aung-San-Suu-Kyi)
+
 [^5]: [Wikipedia - Rohingya Genocide](https://en.wikipedia.org/wiki/Rohingya_genocide)
+
 [^6]: [The Guardian - 2020 Election](https://www.theguardian.com/world/2020/nov/09/myanmar-election-2020-aung-san-suu-kyi-nld-wins)
+
 [^7]: [Amnesty - Coup](https://www.amnesty.org/en/latest/news/2021/02/myanmar-military-coup/)
+
 [^8]: [Burma Campaign - CDM](https://burmacampaign.org.uk/about-burma/civil-disobedience-movement/)
+
 [^9]: [The Diplomat - Protests](https://thediplomat.com/2021/03/myanmar-civil-disobedience-movement/)
+
 [^10]: [Relief Web - Crackdown Deaths](https://reliefweb.int/report/myanmar/6337-civilians-killed-20-months-after-coup)
+
 [^11]: [Wikipedia - Bago Massacre](https://en.wikipedia.org/wiki/Bago_massacre)
+
 [^12]: [Amnesty - Suu Kyi](https://www.amnesty.org/en/latest/aung-san-suu-kyi-detention/)
+
 [^13]: [PRIO - Death Toll](https://www.prio.org/publications/myanmar-civilian-deaths/)
+
 [^14]: [UN - Humanitarian](https://www.un.org/myanmar-humanitarian/)
+
 [^15]: [Cambridge - Armed Resistance](https://www.cambridge.org/core/journals/myanmar-resistance/)
+
 [^16]: [Modern Diplomacy - International Response](https://moderndiplomacy.eu/myanmar-international-response/)
+
 [^17]: [ICNL - Civil Disobedience](https://www.icnl.org/resources/myanmar-civil-disobedience/)
+
 [^18]: [Business & Human Rights - Federal Vision](https://www.business-humanrights.org/en/myanmar-coup/)
+
 [^19]: [EBSCO - Suu Kyi Legacy](https://www.ebscohost.com/academic/myanmar-suu-kyi/)
+
 [^20]: [VOA - ASEAN Response](https://www.voanews.com/a/asean-myanmar-coup-response/)

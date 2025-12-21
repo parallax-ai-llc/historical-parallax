@@ -3,7 +3,8 @@ id: "india-emergency-1975"
 name: "The Emergency (1975-1977)"
 date: "1975-06-25"
 location: "New Delhi and nationwide, India"
-category: ["Historical Event", "Democratic Crisis", "Authoritarian Rule", "Civil Liberties Suspension"]
+category:
+  ["Historical Event", "Democratic Crisis", "Authoritarian Rule", "Civil Liberties Suspension"]
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Indira_Gandhi_1977.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/The_Emergency_(India)"
@@ -36,12 +37,14 @@ But beneath the surface, trouble was brewing.[^4]
 ### Economic and Political Crisis (1973-1975)
 
 **Economic problems:**
+
 - Oil crisis (1973) hit India hard
 - Food prices soaring
 - Unemployment rising
 - Inflation reaching 25%
 
 **Political opposition:**
+
 - **Jayaprakash Narayan (JP):** Gandhian socialist; launched "Total Revolution"
 - Student movements in Gujarat and Bihar
 - Massive protests demanding Indira's resignation
@@ -52,16 +55,19 @@ But beneath the surface, trouble was brewing.[^4]
 ### The Court Verdict
 
 **June 12, 1975:**
+
 - Allahabad High Court found Indira Gandhi **guilty of electoral malpractice**
 - Her 1971 election declared void
 - Banned from holding office for 6 years
 
 **Charges:**
+
 - Misuse of government machinery
 - Using government officials for campaign work
 - Minor but legally sufficient violations
 
 **June 24, 1975:**
+
 - Supreme Court granted conditional stay
 - Indira could remain PM but couldn't vote in Parliament
 - Opposition demanded her resignation
@@ -83,12 +89,14 @@ But beneath the surface, trouble was brewing.[^4]
 - Opposition leaders' arrests began at midnight
 
 **June 26, 1975:**
+
 - India woke to a transformed nation
 - All India Radio announced the Emergency
 - Opposition leaders already in jail
 - Streets patrolled by police
 
 **Indira's radio address:**
+
 > "The President has proclaimed Emergency. There is nothing to panic about."
 
 **But there was.**[^7]
@@ -96,12 +104,14 @@ But beneath the surface, trouble was brewing.[^4]
 ### Mass Arrests
 
 **Within days:**
+
 - **Over 100,000 people** detained under MISA (Maintenance of Internal Security Act)
 - No charges required
 - No judicial review
 - Indefinite detention
 
 **Among those arrested:**
+
 - Jayaprakash Narayan (released later due to health)
 - Morarji Desai (future PM)
 - Atal Bihari Vajpayee (future PM)
@@ -110,6 +120,7 @@ But beneath the surface, trouble was brewing.[^4]
 - Thousands of RSS and Jana Sangh members
 
 **Organizations banned:**
+
 - RSS (Rashtriya Swayamsevak Sangh)
 - Jamaat-e-Islami
 - Various student groups[^8]
@@ -119,6 +130,7 @@ But beneath the surface, trouble was brewing.[^4]
 **"The press crawled when asked to bend"** — L.K. Advani's famous assessment
 
 **Measures:**
+
 - Pre-publication censorship imposed
 - Government approval required for all content
 - Foreign journalists expelled
@@ -126,8 +138,9 @@ But beneath the surface, trouble was brewing.[^4]
 - Press Council abolished
 
 **Resistance:**
+
 - Some newspapers printed blank editorials
-- *Indian Express* and *Statesman* resisted longest
+- _Indian Express_ and _Statesman_ resisted longest
 - Underground newsletters circulated
 - But most media complied
 
@@ -138,13 +151,16 @@ But beneath the surface, trouble was brewing.[^4]
 The government used its parliamentary majority to reshape the constitution:
 
 **38th Amendment (August 1975):**
+
 - Made Emergency declaration immune from judicial review
 
 **39th Amendment (September 1975):**
+
 - Elections of PM, President, Speaker beyond court scrutiny
 - **Retrospectively validated Indira's disputed election**
 
 **42nd Amendment (November 1976):**
+
 - Called "mini-constitution"
 - Dramatically expanded central government powers
 - Reduced Supreme Court and High Court powers
@@ -155,6 +171,7 @@ The government used its parliamentary majority to reshape the constitution:
 ### Fundamental Rights Suspended
 
 **Article 19 suspended:** Freedoms of:
+
 - Speech and expression
 - Assembly
 - Association
@@ -162,8 +179,9 @@ The government used its parliamentary majority to reshape the constitution:
 - Profession
 
 **Habeas corpus suspended:**
+
 - Courts couldn't challenge detentions
-- Famous *ADM Jabalpur* case: Supreme Court ruled (4-1) that rights could be suspended during Emergency
+- Famous _ADM Jabalpur_ case: Supreme Court ruled (4-1) that rights could be suspended during Emergency
 - Only Justice H.R. Khanna dissented—and lost his elevation to Chief Justice[^11]
 
 ---
@@ -180,6 +198,7 @@ The government used its parliamentary majority to reshape the constitution:
 - Became face of Emergency's worst abuses
 
 **His program:**
+
 1. Family planning (forced sterilization)
 2. Tree planting
 3. Abolish dowry
@@ -193,24 +212,28 @@ The government used its parliamentary majority to reshape the constitution:
 **The most notorious aspect of the Emergency:**
 
 **The campaign:**
+
 - Started mid-1976
 - Targets set for government employees
 - Sterilization quotas for states
 - Various government services conditional on sterilization certificate
 
 **Methods:**
+
 - Men rounded up from villages and slums
 - Police cordons; mass vasectomies
 - Quotas led to abuse: anyone would do
 - Elderly, young, already sterile—all counted
 
 **Scale:**
+
 - **8.3 million sterilizations** in 1976-77 (previous year: 2.7 million)
 - Most were vasectomies
 - Many coerced or forced
 - **1,774 deaths** directly attributed to procedures
 
 **Turkman Gate demolitions:**
+
 - April 1976: Old Delhi slum demolished
 - Resistance met with police firing
 - Combined with sterilization drives
@@ -221,16 +244,19 @@ The government used its parliamentary majority to reshape the constitution:
 ### Other Abuses
 
 **Slum demolitions:**
+
 - 700,000 people displaced in Delhi alone
 - Jama Masjid area (Muslim) particularly targeted
 - "Beautification" programs
 
 **Political prisoners:**
+
 - Torture reported
 - Poor conditions
 - Some died in custody
 
 **Police impunity:**
+
 - Encounter killings
 - Suppression of any dissent
 - Fear pervaded society[^14]
@@ -242,12 +268,14 @@ The government used its parliamentary majority to reshape the constitution:
 ### Underground Resistance
 
 **Despite the crackdown:**
+
 - Socialist leaders organized underground
-- *Satya Samachar* (Truth News) newsletter circulated
+- _Satya Samachar_ (Truth News) newsletter circulated
 - George Fernandes allegedly planned armed resistance
 - RSS maintained clandestine network
 
 **Fernandes trial:**
+
 - Accused of plotting to overthrow government
 - "Baroda Dynamite Case"
 - Became cause célèbre internationally
@@ -255,6 +283,7 @@ The government used its parliamentary majority to reshape the constitution:
 ### International Response
 
 **Mixed reaction:**
+
 - Western nations largely silent (Cold War considerations)
 - Amnesty International documented abuses
 - Some foreign journalists reported truth
@@ -267,11 +296,13 @@ The government used its parliamentary majority to reshape the constitution:
 ### The Surprise Election
 
 **January 18, 1977:**
+
 - Indira Gandhi suddenly announced elections
 - Released political prisoners
 - Relaxed censorship
 
 **Why?**
+
 - Perhaps believed own propaganda about popularity
 - Wanted democratic legitimacy
 - Underestimated public anger
@@ -284,6 +315,7 @@ The government used its parliamentary majority to reshape the constitution:
 **March 16-20, 1977:** Elections held
 
 **The result:**
+
 - **Janata Party** (opposition coalition): 298 seats
 - **Congress:** 154 seats (lowest ever)
 - **Indira Gandhi:** Lost her own seat
@@ -302,14 +334,15 @@ The government used its parliamentary majority to reshape the constitution:
 
 **Direct deaths difficult to quantify:**
 
-| Category | Estimate |
-|----------|----------|
+| Category             | Estimate         |
+| -------------------- | ---------------- |
 | Sterilization deaths | 1,774 (official) |
-| Turkman Gate firing | 10-12 (disputed) |
-| Custodial deaths | Unknown |
-| Others | Unknown |
+| Turkman Gate firing  | 10-12 (disputed) |
+| Custodial deaths     | Unknown          |
+| Others               | Unknown          |
 
 **Human cost:**
+
 - 100,000+ detained without trial
 - Civil liberties suspended for 140 million voters
 - Press freedom destroyed
@@ -323,27 +356,27 @@ The government used its parliamentary majority to reshape the constitution:
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Indira Gandhi | Prime Minister; Emergency architect |
-| Sanjay Gandhi | No official post; de facto power |
-| Fakhruddin Ali Ahmed | President; signed Emergency order |
+| Name                   | Role                                         |
+| ---------------------- | -------------------------------------------- |
+| Indira Gandhi          | Prime Minister; Emergency architect          |
+| Sanjay Gandhi          | No official post; de facto power             |
+| Fakhruddin Ali Ahmed   | President; signed Emergency order            |
 | Siddhartha Shankar Ray | Bengal CM; drafted Emergency legal framework |
 
 ### Opposition
 
-| Name | Role |
-|------|------|
-| Jayaprakash Narayan | "Total Revolution" leader |
-| Morarji Desai | Congress rebel; became PM 1977 |
-| Atal Bihari Vajpayee | Jana Sangh leader; future PM |
-| L.K. Advani | Jana Sangh; future Deputy PM |
-| George Fernandes | Socialist; underground resistance |
+| Name                 | Role                              |
+| -------------------- | --------------------------------- |
+| Jayaprakash Narayan  | "Total Revolution" leader         |
+| Morarji Desai        | Congress rebel; became PM 1977    |
+| Atal Bihari Vajpayee | Jana Sangh leader; future PM      |
+| L.K. Advani          | Jana Sangh; future Deputy PM      |
+| George Fernandes     | Socialist; underground resistance |
 
 ### Judiciary
 
-| Name | Role |
-|------|------|
+| Name                | Role                                                   |
+| ------------------- | ------------------------------------------------------ |
 | Justice H.R. Khanna | Sole dissenter in ADM Jabalpur; defended habeas corpus |
 
 ---
@@ -355,6 +388,7 @@ The government used its parliamentary majority to reshape the constitution:
 **May 1977:** Justice J.C. Shah headed commission investigating Emergency excesses
 
 **Findings:**
+
 - Documented widespread abuses
 - Criticized forced sterilization
 - Named officials responsible
@@ -365,6 +399,7 @@ The government used its parliamentary majority to reshape the constitution:
 ### Constitutional Reforms
 
 **44th Amendment (1978):**
+
 - **"Internal disturbance" replaced with "armed rebellion"** as grounds for Emergency
 - Suspended fundamental rights could be enforced by courts
 - Cabinet must recommend Emergency in writing
@@ -376,16 +411,19 @@ The government used its parliamentary majority to reshape the constitution:
 ### Political Consequences
 
 **For Indira Gandhi:**
+
 - 1980: Returned to power after Janata infighting
 - Ruled until assassination in 1984
 - Never fully apologized for Emergency
 
 **For Congress:**
+
 - Emergency became electoral liability
 - Opposition used it for decades
 - Damaged brand of "democratic" party
 
 **For India:**
+
 - Strengthened respect for democratic norms (initially)
 - Made "Emergency" a curse word in politics
 - But also showed how quickly things could change[^21]
@@ -399,6 +437,7 @@ The government used its parliamentary majority to reshape the constitution:
 **Immediate trigger:** Court verdict threatened Indira's position
 
 **Deeper causes:**
+
 - Concentration of power in PM's office
 - Weak institutions
 - Sycophantic party culture
@@ -408,6 +447,7 @@ The government used its parliamentary majority to reshape the constitution:
 ### Defender's View
 
 Some argue (controversially):
+
 - India needed discipline
 - Economic gains during Emergency
 - Trains ran on time
@@ -426,6 +466,7 @@ Some argue (controversially):
 ### Comparison
 
 Similar to:
+
 - Ferdinand Marcos's martial law (Philippines, 1972-1981)
 - Park Chung-hee's Yushin (South Korea, 1972-1979)
 - Post-colonial leaders turning authoritarian when challenged[^22]
@@ -457,46 +498,68 @@ Every Indian government since faces accusations of "Emergency-like" behavior whe
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| June 12, 1975 | Allahabad HC finds Indira guilty |
-| June 24, 1975 | Supreme Court stays verdict conditionally |
-| June 25, 1975 | Emergency declared |
-| June 26, 1975 | Mass arrests; censorship imposed |
-| July 1975 | 38th, 39th Amendments passed |
-| 1976 | Forced sterilization campaign |
-| April 1976 | Turkman Gate demolitions |
-| November 1976 | 42nd Amendment passed |
-| January 18, 1977 | Elections announced |
-| March 1977 | Janata Party wins; Emergency ends |
-| May 1977 | Shah Commission appointed |
-| 1978 | 44th Amendment reforms |
-| 1980 | Indira returns to power |
+| Date             | Event                                     |
+| ---------------- | ----------------------------------------- |
+| June 12, 1975    | Allahabad HC finds Indira guilty          |
+| June 24, 1975    | Supreme Court stays verdict conditionally |
+| June 25, 1975    | Emergency declared                        |
+| June 26, 1975    | Mass arrests; censorship imposed          |
+| July 1975        | 38th, 39th Amendments passed              |
+| 1976             | Forced sterilization campaign             |
+| April 1976       | Turkman Gate demolitions                  |
+| November 1976    | 42nd Amendment passed                     |
+| January 18, 1977 | Elections announced                       |
+| March 1977       | Janata Party wins; Emergency ends         |
+| May 1977         | Shah Commission appointed                 |
+| 1978             | 44th Amendment reforms                    |
+| 1980             | Indira returns to power                   |
 
 ---
 
 ## References
 
-[^1]: [Wikipedia - The Emergency (India)](https://en.wikipedia.org/wiki/The_Emergency_(India))
+[^1]: [Wikipedia - The Emergency (India)](<https://en.wikipedia.org/wiki/The_Emergency_(India)>)
+
 [^2]: [DD News - Anniversary article](https://ddnews.gov.in/editorial/dark-chapter-indian-democracy-emergency-1975-77)
+
 [^3]: [Britannica - Emergency](https://www.britannica.com/event/the-Emergency-India-1975-77)
+
 [^4]: [PIB - Government of India](https://pib.gov.in/Emergency-1975/)
+
 [^5]: [The Advocates League - Background](https://theadvocatesleague.in/the-emergency-1975/)
+
 [^6]: [Deccan Herald - Court verdict](https://www.deccanherald.com/national/june-1975-emergency/)
+
 [^7]: [Economic Times - Declaration](https://economictimes.indiatimes.com/news/politics/emergency-timeline/)
+
 [^8]: [The Print - Arrests](https://theprint.in/opinion/emergency-arrests/)
+
 [^9]: [Universal Institutions - Press](https://universalinstitutions.com/emergency-press-censorship/)
+
 [^10]: [Drishti IAS - Constitutional amendments](https://www.drishtiias.com/to-the-points/paper4/emergency-provisions)
+
 [^11]: [Medium - ADM Jabalpur](https://medium.com/@lawreview/adm-jabalpur-emergency/)
+
 [^12]: [The Hans India - Timeline](https://www.thehansindia.com/hans/emergency-timeline/)
+
 [^13]: [Population and Development Review - Sterilization](https://onlinelibrary.wiley.com/journal/17284457)
+
 [^14]: [Scroll.in - Turkman Gate](https://scroll.in/article/turkman-gate-emergency/)
+
 [^15]: [The Wire - Underground resistance](https://thewire.in/history/emergency-underground-resistance/)
+
 [^16]: [India Today - Why elections](https://www.indiatoday.in/magazine/emergency-1977-elections/)
+
 [^17]: [Election Commission - 1977 results](https://eci.gov.in/statistical-report/1977/)
+
 [^18]: [Amnesty International - Human cost](https://www.amnesty.org/india-emergency-1975/)
+
 [^19]: [Shah Commission Report](https://www.legalserviceindia.com/articles/shah-commission.htm)
+
 [^20]: [PRS Legislative - 44th Amendment](https://prsindia.org/amendments/44th-amendment/)
+
 [^21]: [Hindustan Times - Legacy](https://www.hindustantimes.com/analysis/emergency-legacy/)
+
 [^22]: [Foreign Affairs - Comparative analysis](https://www.foreignaffairs.com/articles/india/emergency-comparison/)
+
 [^23]: [The Hindu - Continuing relevance](https://www.thehindu.com/news/national/emergency-relevance/)

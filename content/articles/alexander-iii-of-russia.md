@@ -237,31 +237,31 @@ The scholarly consensus views Alexander III's reign as a tragic failure—a peri
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1845 | Born March 10 at the Winter Palace, St. Petersburg, second son of Tsesarevich Alexander[^171] |
-| 1865 | Elder brother Nicholas dies; Alexander becomes heir to Russian throne[^172] |
-| 1865 | Begins studies in law and administration under Konstantin Pobedonostsev[^173] |
-| 1866 | Marries Princess Dagmar of Denmark (Maria Feodorovna) on November 9[^174] |
-| 1868 | Birth of son Nicholas (future Nicholas II)[^175] |
-| 1877 | Commands left wing of Russian forces in Russo-Turkish War[^176] |
-| 1881 | Father Alexander II assassinated March 13; Alexander III becomes Emperor[^177] |
-| 1881 | Issues "Manifesto on Unshakeable Autocracy" rejecting constitutional reform[^178] |
-| 1881 | Anti-Jewish pogroms begin following father's assassination (continue through 1884)[^179] |
-| 1881 | Establishes expanded Okhrana secret police force[^180] |
-| 1882 | May Laws enacted, severely restricting Jewish rights and residence[^181] |
-| 1882-1885 | Labor reforms enacted protecting women and children in factories[^182] |
-| 1885 | Commissions first Fabergé Imperial Easter Egg for Empress Maria[^183] |
-| 1886 | Factory regulations established for hiring, firing, and wages[^184] |
-| 1887 | Jewish university quotas imposed; Alexander adds antisemitic note to decree[^185] |
-| 1888 | Wilhelm II becomes German Emperor; Russian-German relations deteriorate[^186] |
-| 1889 | Universities temporarily closed due to student demonstrations[^187] |
-| 1890 | Russo-German alliance terminates[^188] |
-| 1891 | Construction of Trans-Siberian Railway begins[^189] |
-| 1891 | All Jews systematically expelled from Moscow[^190] |
-| 1892-1894 | Franco-Russian Alliance formalized[^191] |
-| 1894 | Contracts terminal kidney disease (nephritis)[^192] |
-| 1894 | Dies November 1 at Maly Palace in Livadia, age 49; succeeded by son Nicholas II[^193] |
+| Year      | Event                                                                                         |
+| --------- | --------------------------------------------------------------------------------------------- |
+| 1845      | Born March 10 at the Winter Palace, St. Petersburg, second son of Tsesarevich Alexander[^171] |
+| 1865      | Elder brother Nicholas dies; Alexander becomes heir to Russian throne[^172]                   |
+| 1865      | Begins studies in law and administration under Konstantin Pobedonostsev[^173]                 |
+| 1866      | Marries Princess Dagmar of Denmark (Maria Feodorovna) on November 9[^174]                     |
+| 1868      | Birth of son Nicholas (future Nicholas II)[^175]                                              |
+| 1877      | Commands left wing of Russian forces in Russo-Turkish War[^176]                               |
+| 1881      | Father Alexander II assassinated March 13; Alexander III becomes Emperor[^177]                |
+| 1881      | Issues "Manifesto on Unshakeable Autocracy" rejecting constitutional reform[^178]             |
+| 1881      | Anti-Jewish pogroms begin following father's assassination (continue through 1884)[^179]      |
+| 1881      | Establishes expanded Okhrana secret police force[^180]                                        |
+| 1882      | May Laws enacted, severely restricting Jewish rights and residence[^181]                      |
+| 1882-1885 | Labor reforms enacted protecting women and children in factories[^182]                        |
+| 1885      | Commissions first Fabergé Imperial Easter Egg for Empress Maria[^183]                         |
+| 1886      | Factory regulations established for hiring, firing, and wages[^184]                           |
+| 1887      | Jewish university quotas imposed; Alexander adds antisemitic note to decree[^185]             |
+| 1888      | Wilhelm II becomes German Emperor; Russian-German relations deteriorate[^186]                 |
+| 1889      | Universities temporarily closed due to student demonstrations[^187]                           |
+| 1890      | Russo-German alliance terminates[^188]                                                        |
+| 1891      | Construction of Trans-Siberian Railway begins[^189]                                           |
+| 1891      | All Jews systematically expelled from Moscow[^190]                                            |
+| 1892-1894 | Franco-Russian Alliance formalized[^191]                                                      |
+| 1894      | Contracts terminal kidney disease (nephritis)[^192]                                           |
+| 1894      | Dies November 1 at Maly Palace in Livadia, age 49; succeeded by son Nicholas II[^193]         |
 
 ---
 
@@ -300,53 +300,103 @@ The scholarly consensus views Alexander III's reign as a tragic failure—a peri
 ## References
 
 [^1]: Britannica. "Alexander III | Biography, Reign, & Parents." https://www.britannica.com/biography/Alexander-III-emperor-of-Russia
+
 [^2]: Study.com. "Alexander III of Russia | Biography, Policies & Significance." https://study.com/academy/lesson/the-rule-of-alexander-iii-of-russia.html
+
 [^3]: Wikipedia. "Alexander III of Russia." https://en.wikipedia.org/wiki/Alexander_III_of_Russia
+
 [^4]: New World Encyclopedia. "Alexander III of Russia." https://www.newworldencyclopedia.org/entry/Alexander_III_of_Russia
+
 [^5]: The Famous People. "Alexander III Of Russia Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/alexander-iii-of-russia-6260.php
+
 [^6]: School History. "Tsar Alexander III | Early Life, Reign, Legacy Facts & History Worksheets." https://schoolhistory.co.uk/modern/tsar-alexander-iii/
+
 [^7]: Alexander Palace Time Machine. "Alexander III - Blog & Alexander Palace Time Machine." https://www.alexanderpalace.org/palace/alexbio.php
+
 [^8]: StudySmarter. "Alexander III of Russia: Reforms, Reign & Death." https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-iii/
+
 [^9]: Britannica. "Life of Alexander III, tsar of Russia." https://www.britannica.com/summary/Alexander-III-emperor-of-Russia
+
 [^10]: Saint Petersburg. "Biography of Emperor Alexander III of Russia." http://www.saint-petersburg.com/royal-family/alexander-iii/
+
 [^11]: Wikipedia. "Government reforms of Alexander II of Russia." https://en.wikipedia.org/wiki/Government_reforms_of_Alexander_II_of_Russia
+
 [^12]: Alpha History. "Reform and reaction in Russia." https://alphahistory.com/russianrevolution/reform-and-reaction-in-russia/
+
 [^13]: ThinkIB. "DP History: 2. Imperial Russia, reform and reaction: Alexander III." https://thinkib.net/history/page/48205/2-imperial-russia-reform-and-reaction-alexander-iii
+
 [^14]: RusArtNet. "Empress Maria Fyodorovna - Wife - Family of Alexander III." https://www.rusartnet.com/biographies/russian-rulers/romanov/family-of-alexander-iii/wife/empress-maria-fyodorovna
+
 [^15]: Wikipedia. "Maria Feodorovna (Dagmar of Denmark)." https://en.wikipedia.org/wiki/Maria_Feodorovna_(Dagmar_of_Denmark)
+
 [^16]: Royal Collection Trust. "Alexander III, Emperor of Russia and Maria Feodorovna, Empress of Russia." https://www.rct.uk/collection/2929562/alexander-iii-emperor-of-russia-and-maria-feodorovna-empress-of-russia
+
 [^17]: Alexander Palace Time Machine. "Dowager Empress Marie - Blog & Alexander Palace Time Machine." https://www.alexanderpalace.org/palace/mariabio.php
+
 [^18]: TheTimelineGeek. "Alexander III Tsar of Russia Timeline 1845-1894." https://www.thetimelinegeek.com/alexander-iii-tsar-of-russia-1845-1894/
+
 [^19]: Wikiquote. "Alexander III of Russia." https://en.wikiquote.org/wiki/Alexander_III_of_Russia
+
 [^20]: Britannica. "Russian Empire - Alexander III, Autocracy, Reforms." https://www.britannica.com/place/Russian-Empire/Alexander-III
+
 [^21]: Wikipedia. "Assassination of Alexander II of Russia." https://en.wikipedia.org/wiki/Assassination_of_Alexander_II_of_Russia
+
 [^22]: Alpha History. "Manifesto on Unshakeable Autocracy (1881)." https://alphahistory.com/russianrevolution/manifesto-on-unshakeable-autocracy-1881/
+
 [^23]: History is Now Magazine. "Tsar Alexander III of Russia - A Paranoid Life. Pogroms, Pokers and Blame." http://www.historyisnowmagazine.com/blog/2014/3/10/the-paranoid-life-of-a-russlan-ruler-pogroms-pokers-and-blame-tsar-alexander-iii
+
 [^24]: Gale. "Alexander III and the Policy of 'Russification,' 1883-1886." https://www.gale.com/c/alexander-iii-and-the-policy-of-russification-1883-1886
+
 [^25]: Alpha History. "Russian Revolution quotations: tsarism." https://alphahistory.com/russianrevolution/russian-revolution-quotations-tsarism/
+
 [^26]: A-Z Quotes. "QUOTES BY ALEXANDER III OF RUSSIA." https://www.azquotes.com/author/29932-Alexander_III_of_Russia
+
 [^27]: Royal Collection Trust. "Alexander III (1845-1894)." https://www.rct.uk/collection/stories/russian-empires/alexander-iii-1845-1894
+
 [^28]: Familypedia. "Alexander III of Russia (1845-1894)." https://familypedia.fandom.com/wiki/Alexander_III_of_Russia_(1845-1894)
+
 [^29]: Vaia. "Alexander III of Russia: Reforms, Reign & Death." https://www.vaia.com/en-us/explanations/history/tsarist-and-communist-russia/alexander-iii/
+
 [^30]: Gale. "ALEXANDER III AND THE POLICY OF 'RUSSIFICATION,' ..." https://www.gale.com/binaries/content/assets/gale-us-en/primary-sources/archives-unbound/primary-sources_archives-unbound_alexander-iii-and-the-policy-of-russification_1883-1886.pdf
+
 [^31]: Britannica Kids. "Alexander III - Students." https://kids.britannica.com/students/article/Alexander-III/604666
+
 [^32]: William & Mary Libraries. "Alexander III and the Policy of 'Russification', 1883-1886." https://libraries.wm.edu/databases/alexander-iii-and-policy-russification-1883-1886
+
 [^33]: Wikipedia. "Antisemitism in the Russian Empire." https://en.wikipedia.org/wiki/Antisemitism_in_the_Russian_Empire
+
 [^34]: FSmitha. "Alexander III, Repression, Pogroms and Revolutionary Youths." http://www.fsmitha.com/h3/h47-ru7.htm
+
 [^35]: Jewish Encyclopedia. "ALEXANDER III., ALEXANDROVICH, Emperor of Russia." https://www.jewishencyclopedia.com/articles/1132-alexander-iii-alexandrovich-emperor-of-russia
+
 [^36]: CIE. "May Laws Are Instituted in Russia." https://israeled.org/may-laws-instituted-russia/
+
 [^37]: Aish. "History Crash Course #57: The Czars and the Jews." https://aish.com/48956806/
+
 [^38]: Wikipedia. "May Laws." https://en.wikipedia.org/wiki/May_Laws
+
 [^39]: Refworld. "Jews in Russia and the Soviet Union: Chronology of Events: 1727 - 1 January 1992." https://www.refworld.org/reference/countryrep/irbc/1994/en/22048
+
 [^40]: Library of Congress. "Family of Emperor Alexander III." https://www.loc.gov/item/2021669109/
+
 [^41]: Royal Collection Trust. "Alexander III, Emperor of Russia and Maria Feodorovna, Empress of Russia with their children." https://www.rct.uk/collection/2926800/alexander-iii-emperor-of-russia-and-maria-feodorovna-empress-of-russia-with-their
+
 [^42]: Presidential Library. "Emperor Alexander III with his wife Maria Feodorovna at home." https://www.prlib.ru/en/node/413553
+
 [^43]: Russiapedia. "Maria Feodorovna, Empress Consort of Russia." https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/maria-feodorovna-empress-consort-of-russia/
+
 [^44]: Encyclopedia.com. "Marie Feodorovna (1847–1928)." https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/marie-feodorovna-1847-1928
+
 [^45]: Hungarian Conservative. "Two Conflicting Visions for Russia – Part I: Putin's Favourite Tsar, Alexander III." https://www.hungarianconservative.com/articles/culture_society/two-conflicting-visions-for-russia-part-i-putins-favourite-tsar-alexander-iii/
+
 [^46]: Finest Quotes. "Quotes by Alexander III." https://www.finestquotes.com/author_quotes-author-Alexander%20III-page-0.htm
+
 [^47]: Quote Park. "Alexander III of Russia Quotes." https://quotepark.com/authors/alexander-iii-of-russia/
+
 [^48]: Cambridge University Press. "1 Trying to preserve autocracy, 1855–1894." https://assets.cambridge.org/97811075/31154/excerpt/9781107531154_excerpt.pdf
+
 [^49]: Russia Beyond. "The most badass quotes ever spoken by Russian rulers." https://www.rbth.com/history/331473-badass-quotes-russian-rulers
+
 [^50]: Britannica. "Russian Empire - Russification, Autocracy, Centralization." https://www.britannica.com/place/Russian-Empire/Russification-policy
+
 [^51]: Heritage History. "Story of Russia by R. Van Bergen - Alexander III." https://www.heritage-history.com/index.php?c=read&author=bergen&book=russia&story=alexander3

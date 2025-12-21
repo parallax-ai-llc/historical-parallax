@@ -129,34 +129,34 @@ Contemporary scholars emphasize that Fillmore's failures were not merely matters
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1800 | Born January 7 in Locke Township, New York |
-| 1814 | Apprenticed to clothmaker |
-| 1819 | Began attending New Hope Academy |
-| 1823 | Admitted to New York bar; began law practice in East Aurora |
-| 1826 | Married Abigail Powers on February 5 |
-| 1828 | Son Millard Powers Fillmore born |
-| 1829 | Elected to New York State Assembly as Anti-Mason |
-| 1830 | Moved law practice to Buffalo |
-| 1832 | Daughter Mary Abigail Fillmore born; elected to U.S. House of Representatives |
-| 1841-1843 | Served as Chairman of House Ways and Means Committee |
-| 1842 | Authored Tariff of 1842 |
-| 1844 | Defeated in New York gubernatorial election |
-| 1847 | Elected New York State Comptroller |
-| 1848 | Elected Vice President on Whig ticket with Zachary Taylor |
-| 1849 | Inaugurated as Vice President on March 4 |
-| 1850 | Became 13th President on July 9 following Taylor's death |
-| 1850 | Signed Compromise of 1850 bills, including Fugitive Slave Act (September) |
-| 1851 | Enforced Fugitive Slave Act in Shadrach Minkins and Thomas Sims cases |
-| 1852 | Authorized Commodore Perry's expedition to Japan; denied Whig renomination |
-| 1853 | Left presidency on March 4; wife Abigail died March 30 |
-| 1854 | Daughter Mary Abigail died of cholera |
-| 1855-1856 | Grand tour of Europe |
-| 1856 | Ran for president as Know Nothing candidate; finished third |
-| 1858 | Married Caroline Carmichael McIntosh |
-| 1862 | Founded Buffalo Historical Society |
-| 1874 | Died March 8 in Buffalo, New York |
+| Year      | Event                                                                         |
+| --------- | ----------------------------------------------------------------------------- |
+| 1800      | Born January 7 in Locke Township, New York                                    |
+| 1814      | Apprenticed to clothmaker                                                     |
+| 1819      | Began attending New Hope Academy                                              |
+| 1823      | Admitted to New York bar; began law practice in East Aurora                   |
+| 1826      | Married Abigail Powers on February 5                                          |
+| 1828      | Son Millard Powers Fillmore born                                              |
+| 1829      | Elected to New York State Assembly as Anti-Mason                              |
+| 1830      | Moved law practice to Buffalo                                                 |
+| 1832      | Daughter Mary Abigail Fillmore born; elected to U.S. House of Representatives |
+| 1841-1843 | Served as Chairman of House Ways and Means Committee                          |
+| 1842      | Authored Tariff of 1842                                                       |
+| 1844      | Defeated in New York gubernatorial election                                   |
+| 1847      | Elected New York State Comptroller                                            |
+| 1848      | Elected Vice President on Whig ticket with Zachary Taylor                     |
+| 1849      | Inaugurated as Vice President on March 4                                      |
+| 1850      | Became 13th President on July 9 following Taylor's death                      |
+| 1850      | Signed Compromise of 1850 bills, including Fugitive Slave Act (September)     |
+| 1851      | Enforced Fugitive Slave Act in Shadrach Minkins and Thomas Sims cases         |
+| 1852      | Authorized Commodore Perry's expedition to Japan; denied Whig renomination    |
+| 1853      | Left presidency on March 4; wife Abigail died March 30                        |
+| 1854      | Daughter Mary Abigail died of cholera                                         |
+| 1855-1856 | Grand tour of Europe                                                          |
+| 1856      | Ran for president as Know Nothing candidate; finished third                   |
+| 1858      | Married Caroline Carmichael McIntosh                                          |
+| 1862      | Founded Buffalo Historical Society                                            |
+| 1874      | Died March 8 in Buffalo, New York                                             |
 
 ---
 
@@ -176,109 +176,214 @@ Contemporary scholars emphasize that Fillmore's failures were not merely matters
 
 ## References
 
-[^1]: Rayback, Robert J. *Millard Fillmore: Biography of a President*. Buffalo: Henry Stewart, 1959, pp. 3-8.
-[^2]: Scarry, Robert J. *Millard Fillmore*. Jefferson, NC: McFarland, 2001, pp. 15-17.
-[^3]: Rayback, *Millard Fillmore*, pp. 12-14.
-[^4]: Grayson, Benson Lee. *The Unknown President: The Administration of Millard Fillmore*. Washington: University Press of America, 1981, pp. 5-6.
-[^5]: Smith, Elbert B. *The Presidencies of Zachary Taylor and Millard Fillmore*. Lawrence: University Press of Kansas, 1988, pp. 18-20.
-[^6]: Holt, Michael F. *The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War*. New York: Oxford University Press, 1999, pp. 287-290.
-[^7]: Scarry, *Millard Fillmore*, pp. 22-24.
-[^8]: Rayback, *Millard Fillmore*, pp. 35-41.
-[^9]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 21-23.
-[^10]: Holt, *Rise and Fall of the American Whig Party*, pp. 15-18, 291-293.
-[^11]: Rayback, *Millard Fillmore*, pp. 98-112.
-[^12]: Stanwood, Edward. *American Tariff Controversies in the Nineteenth Century*. Boston: Houghton Mifflin, 1903, vol. 2, pp. 53-67.
-[^13]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 28-31.
-[^14]: Rayback, *Millard Fillmore*, pp. 185-201.
-[^15]: Holt, *Rise and Fall of the American Whig Party*, pp. 317-324.
-[^16]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 109-134.
-[^17]: Eisenhower, John S.D. *Zachary Taylor*. New York: Times Books, 2008, pp. 138-142.
-[^18]: Hamilton, Holman. *Prologue to Conflict: The Crisis and Compromise of 1850*. Lexington: University of Kentucky Press, 1964, pp. 101-104.
-[^19]: Remini, Robert V. *At the Edge of the Precipice: Henry Clay and the Compromise That Saved the Union*. New York: Basic Books, 2010, pp. 89-143.
-[^20]: Potter, David M. *The Impending Crisis, 1848-1861*. New York: Harper & Row, 1976, pp. 90-120.
-[^21]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 157-160.
-[^22]: Hamilton, *Prologue to Conflict*, pp. 147-178.
-[^23]: Rayback, *Millard Fillmore*, pp. 250-265.
-[^24]: Richardson, James D., ed. *A Compilation of the Messages and Papers of the Presidents*. Washington: Government Printing Office, 1897, vol. 5, pp. 98-99.
-[^25]: Schroeder, John H. *Matthew Calbraith Perry: Antebellum Sailor and Diplomat*. Annapolis: Naval Institute Press, 2001, pp. 179-195.
-[^26]: Wiley, Peter Booth. *Yankees in the Land of the Gods: Commodore Perry and the Opening of Japan*. New York: Viking, 1990, pp. 267-283.
-[^27]: Bradley, Harold W. *The American Frontier in Hawaii: The Pioneers, 1789-1843*. Stanford: Stanford University Press, 1942, pp. 398-412.
-[^28]: May, Robert E. *The Southern Dream of a Caribbean Empire, 1854-1861*. Baton Rouge: Louisiana State University Press, 1973, pp. 31-47.
-[^29]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 195-203.
-[^30]: Stover, John F. *American Railroads*. Chicago: University of Chicago Press, 1997, pp. 45-48.
-[^31]: Anbinder, Tyler. *Nativism and Slavery: The Northern Know Nothings and the Politics of the 1850s*. New York: Oxford University Press, 1992, pp. 3-22.
-[^32]: Finkelman, Paul. "The Protection of Black Rights in Seward's New York." *Civil War History* 34, no. 3 (1988): 211-234.
-[^33]: Campbell, Stanley W. *The Slave Catchers: Enforcement of the Fugitive Slave Law, 1850-1860*. Chapel Hill: University of North Carolina Press, 1970, pp. 23-26.
-[^34]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 235-247.
-[^35]: Collison, Gary. *Shadrach Minkins: From Fugitive Slave to Citizen*. Cambridge: Harvard University Press, 1997, pp. 101-156.
-[^36]: Von Frank, Albert J. *The Trials of Anthony Burns: Freedom and Slavery in Emerson's Boston*. Cambridge: Harvard University Press, 1998, pp. 3-85.
-[^37]: Campbell, *The Slave Catchers*, pp. 148-171.
-[^38]: Rayback, *Millard Fillmore*, pp. 401-409.
-[^39]: Finkelman, Paul. *Millard Fillmore*. New York: Times Books, 2011, pp. 73-89.
-[^40]: McPherson, James M. *Battle Cry of Freedom: The Civil War Era*. New York: Oxford University Press, 1988, pp. 78-82.
-[^41]: Spencer, Donald S. *Louis Kossuth and Young America: A Study of Sectionalism and Foreign Policy, 1848-1852*. Columbia: University of Missouri Press, 1977, pp. 89-124.
-[^42]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 258-261.
-[^43]: Holt, *Rise and Fall of the American Whig Party*, pp. 598-634.
-[^44]: Potter, *The Impending Crisis*, pp. 130-144.
-[^45]: Rayback, *Millard Fillmore*, pp. 52-55.
-[^46]: Anthony, Carl Sferrazza. *First Ladies: The Saga of the Presidents' Wives and Their Power, 1789-1961*. New York: William Morrow, 1990, pp. 161-163.
-[^47]: Scarry, *Millard Fillmore*, pp. 46-47.
-[^48]: Rayback, *Millard Fillmore*, pp. 283-285.
-[^49]: Boller, Paul F. *Presidential Wives: An Anecdotal History*. New York: Oxford University Press, 1998, pp. 105-107.
-[^50]: Rayback, *Millard Fillmore*, pp. 397-401.
-[^51]: Scarry, *Millard Fillmore*, pp. 165-167.
-[^52]: Rayback, *Millard Fillmore*, pp. 424-427.
-[^53]: Grayson, *The Unknown President*, pp. 203-204.
-[^54]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 150-152.
-[^55]: Rayback, *Millard Fillmore*, pp. 87-89.
-[^56]: Grayson, *The Unknown President*, pp. 11-13.
-[^57]: Finkelman, *Millard Fillmore*, pp. 15-18.
-[^58]: Rayback, *Millard Fillmore*, pp. 435-441.
-[^59]: Scarry, *Millard Fillmore*, pp. 158-163.
-[^60]: Rayback, *Millard Fillmore*, pp. 444-453.
+[^1]: Rayback, Robert J. _Millard Fillmore: Biography of a President_. Buffalo: Henry Stewart, 1959, pp. 3-8.
+
+[^2]: Scarry, Robert J. _Millard Fillmore_. Jefferson, NC: McFarland, 2001, pp. 15-17.
+
+[^3]: Rayback, _Millard Fillmore_, pp. 12-14.
+
+[^4]: Grayson, Benson Lee. _The Unknown President: The Administration of Millard Fillmore_. Washington: University Press of America, 1981, pp. 5-6.
+
+[^5]: Smith, Elbert B. _The Presidencies of Zachary Taylor and Millard Fillmore_. Lawrence: University Press of Kansas, 1988, pp. 18-20.
+
+[^6]: Holt, Michael F. _The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War_. New York: Oxford University Press, 1999, pp. 287-290.
+
+[^7]: Scarry, _Millard Fillmore_, pp. 22-24.
+
+[^8]: Rayback, _Millard Fillmore_, pp. 35-41.
+
+[^9]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 21-23.
+
+[^10]: Holt, _Rise and Fall of the American Whig Party_, pp. 15-18, 291-293.
+
+[^11]: Rayback, _Millard Fillmore_, pp. 98-112.
+
+[^12]: Stanwood, Edward. _American Tariff Controversies in the Nineteenth Century_. Boston: Houghton Mifflin, 1903, vol. 2, pp. 53-67.
+
+[^13]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 28-31.
+
+[^14]: Rayback, _Millard Fillmore_, pp. 185-201.
+
+[^15]: Holt, _Rise and Fall of the American Whig Party_, pp. 317-324.
+
+[^16]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 109-134.
+
+[^17]: Eisenhower, John S.D. _Zachary Taylor_. New York: Times Books, 2008, pp. 138-142.
+
+[^18]: Hamilton, Holman. _Prologue to Conflict: The Crisis and Compromise of 1850_. Lexington: University of Kentucky Press, 1964, pp. 101-104.
+
+[^19]: Remini, Robert V. _At the Edge of the Precipice: Henry Clay and the Compromise That Saved the Union_. New York: Basic Books, 2010, pp. 89-143.
+
+[^20]: Potter, David M. _The Impending Crisis, 1848-1861_. New York: Harper & Row, 1976, pp. 90-120.
+
+[^21]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 157-160.
+
+[^22]: Hamilton, _Prologue to Conflict_, pp. 147-178.
+
+[^23]: Rayback, _Millard Fillmore_, pp. 250-265.
+
+[^24]: Richardson, James D., ed. _A Compilation of the Messages and Papers of the Presidents_. Washington: Government Printing Office, 1897, vol. 5, pp. 98-99.
+
+[^25]: Schroeder, John H. _Matthew Calbraith Perry: Antebellum Sailor and Diplomat_. Annapolis: Naval Institute Press, 2001, pp. 179-195.
+
+[^26]: Wiley, Peter Booth. _Yankees in the Land of the Gods: Commodore Perry and the Opening of Japan_. New York: Viking, 1990, pp. 267-283.
+
+[^27]: Bradley, Harold W. _The American Frontier in Hawaii: The Pioneers, 1789-1843_. Stanford: Stanford University Press, 1942, pp. 398-412.
+
+[^28]: May, Robert E. _The Southern Dream of a Caribbean Empire, 1854-1861_. Baton Rouge: Louisiana State University Press, 1973, pp. 31-47.
+
+[^29]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 195-203.
+
+[^30]: Stover, John F. _American Railroads_. Chicago: University of Chicago Press, 1997, pp. 45-48.
+
+[^31]: Anbinder, Tyler. _Nativism and Slavery: The Northern Know Nothings and the Politics of the 1850s_. New York: Oxford University Press, 1992, pp. 3-22.
+
+[^32]: Finkelman, Paul. "The Protection of Black Rights in Seward's New York." _Civil War History_ 34, no. 3 (1988): 211-234.
+
+[^33]: Campbell, Stanley W. _The Slave Catchers: Enforcement of the Fugitive Slave Law, 1850-1860_. Chapel Hill: University of North Carolina Press, 1970, pp. 23-26.
+
+[^34]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 235-247.
+
+[^35]: Collison, Gary. _Shadrach Minkins: From Fugitive Slave to Citizen_. Cambridge: Harvard University Press, 1997, pp. 101-156.
+
+[^36]: Von Frank, Albert J. _The Trials of Anthony Burns: Freedom and Slavery in Emerson's Boston_. Cambridge: Harvard University Press, 1998, pp. 3-85.
+
+[^37]: Campbell, _The Slave Catchers_, pp. 148-171.
+
+[^38]: Rayback, _Millard Fillmore_, pp. 401-409.
+
+[^39]: Finkelman, Paul. _Millard Fillmore_. New York: Times Books, 2011, pp. 73-89.
+
+[^40]: McPherson, James M. _Battle Cry of Freedom: The Civil War Era_. New York: Oxford University Press, 1988, pp. 78-82.
+
+[^41]: Spencer, Donald S. _Louis Kossuth and Young America: A Study of Sectionalism and Foreign Policy, 1848-1852_. Columbia: University of Missouri Press, 1977, pp. 89-124.
+
+[^42]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 258-261.
+
+[^43]: Holt, _Rise and Fall of the American Whig Party_, pp. 598-634.
+
+[^44]: Potter, _The Impending Crisis_, pp. 130-144.
+
+[^45]: Rayback, _Millard Fillmore_, pp. 52-55.
+
+[^46]: Anthony, Carl Sferrazza. _First Ladies: The Saga of the Presidents' Wives and Their Power, 1789-1961_. New York: William Morrow, 1990, pp. 161-163.
+
+[^47]: Scarry, _Millard Fillmore_, pp. 46-47.
+
+[^48]: Rayback, _Millard Fillmore_, pp. 283-285.
+
+[^49]: Boller, Paul F. _Presidential Wives: An Anecdotal History_. New York: Oxford University Press, 1998, pp. 105-107.
+
+[^50]: Rayback, _Millard Fillmore_, pp. 397-401.
+
+[^51]: Scarry, _Millard Fillmore_, pp. 165-167.
+
+[^52]: Rayback, _Millard Fillmore_, pp. 424-427.
+
+[^53]: Grayson, _The Unknown President_, pp. 203-204.
+
+[^54]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 150-152.
+
+[^55]: Rayback, _Millard Fillmore_, pp. 87-89.
+
+[^56]: Grayson, _The Unknown President_, pp. 11-13.
+
+[^57]: Finkelman, _Millard Fillmore_, pp. 15-18.
+
+[^58]: Rayback, _Millard Fillmore_, pp. 435-441.
+
+[^59]: Scarry, _Millard Fillmore_, pp. 158-163.
+
+[^60]: Rayback, _Millard Fillmore_, pp. 444-453.
+
 [^61]: Siena College Research Institute. "2022 Presidential Expert Poll," February 2022. https://scri.siena.edu/2022/06/22/american-presidents-greatest-and-worst/
-[^62]: Schlesinger, Arthur M., Jr. "Rating the Presidents: Washington to Clinton." *Political Science Quarterly* 112, no. 2 (1997): 179-190.
-[^63]: Potter, *The Impending Crisis*, pp. 130-150.
-[^64]: Foner, Eric. *Free Soil, Free Labor, Free Men: The Ideology of the Republican Party Before the Civil War*. New York: Oxford University Press, 1995, pp. 103-125.
-[^65]: McPherson, *Battle Cry of Freedom*, pp. 117-144.
-[^66]: Anbinder, *Nativism and Slavery*, pp. 103-126.
-[^67]: Holt, Michael F. "The Politics of Impatience: The Origins of Know Nothingism." *Journal of American History* 60, no. 2 (1973): 309-331.
-[^68]: Rayback, *Millard Fillmore*, pp. 418-423.
-[^69]: Grayson, *The Unknown President*, pp. xi-xv.
-[^70]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 280-285.
-[^71]: Rayback, *Millard Fillmore*, pp. 463-467.
-[^72]: Schroeder, *Matthew Calbraith Perry*, pp. 258-271.
-[^73]: Scarry, *Millard Fillmore*, pp. 207-210.
-[^74]: Goldman, Mark. *High Hopes: The Rise and Decline of Buffalo, New York*. Albany: State University of New York Press, 1983, pp. 67-69.
-[^75]: Dunn, Susan. "Millard Fillmore's Forgotten Legacy." *American Heritage* 56, no. 1 (2005): 42-48.
-[^76]: Rayback, *Millard Fillmore*, pp. ix-xii.
-[^77]: Rayback, *Millard Fillmore*, pp. 280-295.
-[^78]: Hamilton, *Prologue to Conflict*, pp. 101-110.
-[^79]: Grayson, *The Unknown President*, pp. 187-195.
-[^80]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 275-280.
-[^81]: Schroeder, *Matthew Calbraith Perry*, pp. 179-195.
-[^82]: LaFeber, Walter. *The Clash: U.S.-Japanese Relations Throughout History*. New York: Norton, 1997, pp. 13-15.
-[^83]: Scarry, *Millard Fillmore*, pp. 201-203.
-[^84]: Smith, *Zachary Taylor and Millard Fillmore*, pp. 157-165.
-[^85]: Finkelman, *Millard Fillmore*, pp. 85-88.
-[^86]: Finkelman, *Millard Fillmore*, pp. 120-125.
-[^87]: Foner, Eric. *Gateway to Freedom: The Hidden History of the Underground Railroad*. New York: Norton, 2015, pp. 132-159.
-[^88]: Finkelman, *Millard Fillmore*, pp. 100-118.
-[^89]: Foner, *Free Soil, Free Labor, Free Men*, pp. 87-102.
-[^90]: Potter, *The Impending Crisis*, pp. 130-144.
-[^91]: McPherson, *Battle Cry of Freedom*, pp. 78-91.
-[^92]: Wilentz, Sean. *The Rise of American Democracy: Jefferson to Lincoln*. New York: Norton, 2005, pp. 647-650.
-[^93]: Wilentz, *The Rise of American Democracy*, pp. 638-652.
-[^94]: Ellis, Richard E. *The Union at Risk: Jacksonian Democracy, States' Rights, and the Nullification Crisis*. New York: Oxford University Press, 1987, pp. 197-201.
-[^95]: Holt, *Rise and Fall of the American Whig Party*, pp. 747-802.
-[^96]: Gienapp, William E. *The Origins of the Republican Party, 1852-1856*. New York: Oxford University Press, 1987, pp. 89-124.
-[^97]: Anbinder, *Nativism and Slavery*, pp. 246-265.
+
+[^62]: Schlesinger, Arthur M., Jr. "Rating the Presidents: Washington to Clinton." _Political Science Quarterly_ 112, no. 2 (1997): 179-190.
+
+[^63]: Potter, _The Impending Crisis_, pp. 130-150.
+
+[^64]: Foner, Eric. _Free Soil, Free Labor, Free Men: The Ideology of the Republican Party Before the Civil War_. New York: Oxford University Press, 1995, pp. 103-125.
+
+[^65]: McPherson, _Battle Cry of Freedom_, pp. 117-144.
+
+[^66]: Anbinder, _Nativism and Slavery_, pp. 103-126.
+
+[^67]: Holt, Michael F. "The Politics of Impatience: The Origins of Know Nothingism." _Journal of American History_ 60, no. 2 (1973): 309-331.
+
+[^68]: Rayback, _Millard Fillmore_, pp. 418-423.
+
+[^69]: Grayson, _The Unknown President_, pp. xi-xv.
+
+[^70]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 280-285.
+
+[^71]: Rayback, _Millard Fillmore_, pp. 463-467.
+
+[^72]: Schroeder, _Matthew Calbraith Perry_, pp. 258-271.
+
+[^73]: Scarry, _Millard Fillmore_, pp. 207-210.
+
+[^74]: Goldman, Mark. _High Hopes: The Rise and Decline of Buffalo, New York_. Albany: State University of New York Press, 1983, pp. 67-69.
+
+[^75]: Dunn, Susan. "Millard Fillmore's Forgotten Legacy." _American Heritage_ 56, no. 1 (2005): 42-48.
+
+[^76]: Rayback, _Millard Fillmore_, pp. ix-xii.
+
+[^77]: Rayback, _Millard Fillmore_, pp. 280-295.
+
+[^78]: Hamilton, _Prologue to Conflict_, pp. 101-110.
+
+[^79]: Grayson, _The Unknown President_, pp. 187-195.
+
+[^80]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 275-280.
+
+[^81]: Schroeder, _Matthew Calbraith Perry_, pp. 179-195.
+
+[^82]: LaFeber, Walter. _The Clash: U.S.-Japanese Relations Throughout History_. New York: Norton, 1997, pp. 13-15.
+
+[^83]: Scarry, _Millard Fillmore_, pp. 201-203.
+
+[^84]: Smith, _Zachary Taylor and Millard Fillmore_, pp. 157-165.
+
+[^85]: Finkelman, _Millard Fillmore_, pp. 85-88.
+
+[^86]: Finkelman, _Millard Fillmore_, pp. 120-125.
+
+[^87]: Foner, Eric. _Gateway to Freedom: The Hidden History of the Underground Railroad_. New York: Norton, 2015, pp. 132-159.
+
+[^88]: Finkelman, _Millard Fillmore_, pp. 100-118.
+
+[^89]: Foner, _Free Soil, Free Labor, Free Men_, pp. 87-102.
+
+[^90]: Potter, _The Impending Crisis_, pp. 130-144.
+
+[^91]: McPherson, _Battle Cry of Freedom_, pp. 78-91.
+
+[^92]: Wilentz, Sean. _The Rise of American Democracy: Jefferson to Lincoln_. New York: Norton, 2005, pp. 647-650.
+
+[^93]: Wilentz, _The Rise of American Democracy_, pp. 638-652.
+
+[^94]: Ellis, Richard E. _The Union at Risk: Jacksonian Democracy, States' Rights, and the Nullification Crisis_. New York: Oxford University Press, 1987, pp. 197-201.
+
+[^95]: Holt, _Rise and Fall of the American Whig Party_, pp. 747-802.
+
+[^96]: Gienapp, William E. _The Origins of the Republican Party, 1852-1856_. New York: Oxford University Press, 1987, pp. 89-124.
+
+[^97]: Anbinder, _Nativism and Slavery_, pp. 246-265.
+
 [^98]: Holt, "The Politics of Impatience," pp. 323-328.
-[^99]: Stewart, James Brewer. *Holy Warriors: The Abolitionists and American Slavery*. New York: Hill and Wang, 1996, pp. 137-152.
-[^100]: Douglass, Frederick. *The Life and Writings of Frederick Douglass*, edited by Philip S. Foner. New York: International Publishers, 1950-1975, vol. 2, pp. 207-212.
-[^101]: McPherson, *Battle Cry of Freedom*, pp. 88-91.
-[^102]: Rayback, *Millard Fillmore*, p. 467.
-[^103]: Richardson, *Messages and Papers of the Presidents*, vol. 5, p. 112.
+
+[^99]: Stewart, James Brewer. _Holy Warriors: The Abolitionists and American Slavery_. New York: Hill and Wang, 1996, pp. 137-152.
+
+[^100]: Douglass, Frederick. _The Life and Writings of Frederick Douglass_, edited by Philip S. Foner. New York: International Publishers, 1950-1975, vol. 2, pp. 207-212.
+
+[^101]: McPherson, _Battle Cry of Freedom_, pp. 88-91.
+
+[^102]: Rayback, _Millard Fillmore_, p. 467.
+
+[^103]: Richardson, _Messages and Papers of the Presidents_, vol. 5, p. 112.
+
 [^104]: Fillmore, Millard. Letter to Isaac Newton, June 1856, Millard Fillmore Papers, Buffalo and Erie County Historical Society.
-[^105]: Anbinder, *Nativism and Slavery*, p. 251.
-[^106]: Scarry, *Millard Fillmore*, p. 195.
+
+[^105]: Anbinder, _Nativism and Slavery_, p. 251.
+
+[^106]: Scarry, _Millard Fillmore_, p. 195.

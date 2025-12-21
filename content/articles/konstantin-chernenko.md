@@ -145,24 +145,24 @@ Some historians argue that Chernenko's legacy is essentially that of having no l
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1911 | Born on September 24 in Bolshaya Tes, Siberia, to a peasant family |
-| 1929 | Joined the Komsomol (Communist Youth League) |
-| 1931 | Joined the Communist Party of the Soviet Union |
-| 1941 | Served in World War II in propaganda and political work |
-| 1944 | Married Anna Dmitrievna Lyubimova |
-| 1948 | Appointed head of propaganda in Moldavian SSR; met Leonid Brezhnev |
-| 1956 | Followed Brezhnev to Moscow, working in Central Committee apparatus |
-| 1965 | Became chief of staff to Leonid Brezhnev |
-| 1971 | Elected full member of the Central Committee |
-| 1976 | Appointed head of the General Department of the Central Committee |
-| 1977 | Became candidate member of the Politburo |
-| 1978 | Promoted to full member of the Politburo |
+| Year | Event                                                                      |
+| ---- | -------------------------------------------------------------------------- |
+| 1911 | Born on September 24 in Bolshaya Tes, Siberia, to a peasant family         |
+| 1929 | Joined the Komsomol (Communist Youth League)                               |
+| 1931 | Joined the Communist Party of the Soviet Union                             |
+| 1941 | Served in World War II in propaganda and political work                    |
+| 1944 | Married Anna Dmitrievna Lyubimova                                          |
+| 1948 | Appointed head of propaganda in Moldavian SSR; met Leonid Brezhnev         |
+| 1956 | Followed Brezhnev to Moscow, working in Central Committee apparatus        |
+| 1965 | Became chief of staff to Leonid Brezhnev                                   |
+| 1971 | Elected full member of the Central Committee                               |
+| 1976 | Appointed head of the General Department of the Central Committee          |
+| 1977 | Became candidate member of the Politburo                                   |
+| 1978 | Promoted to full member of the Politburo                                   |
 | 1982 | Failed to succeed Brezhnev; Yuri Andropov became General Secretary instead |
-| 1984 | Elected General Secretary of the Communist Party on February 13 |
-| 1984 | Resumed arms control negotiations with the United States |
-| 1985 | Died on March 10 in Moscow at age 73; succeeded by Mikhail Gorbachev |
+| 1984 | Elected General Secretary of the Communist Party on February 13            |
+| 1984 | Resumed arms control negotiations with the United States                   |
+| 1985 | Died on March 10 in Moscow at age 73; succeeded by Mikhail Gorbachev       |
 
 ---
 
@@ -182,55 +182,106 @@ Some historians argue that Chernenko's legacy is essentially that of having no l
 
 ## References
 
-[^1]: Medvedev, Zhores. *Andropov*. New York: Norton, 1983, pp. 54-56.
-[^2]: Zemtsov, Ilya. *Chernenko: The Last Bolshevik*. New Brunswick: Transaction Books, 1989, pp. 12-15.
-[^3]: Solovyov, Vladimir and Elena Klepikova. *Behind the High Kremlin Walls*. New York: Dodd, Mead & Company, 1986, pp. 234-236.
-[^4]: Service, Robert. *A History of Modern Russia: From Tsarism to the Twenty-first Century*. Cambridge: Harvard University Press, 2009, p. 398.
-[^5]: Doder, Dusko. *Shadows and Whispers: Power Politics Inside the Kremlin from Brezhnev to Gorbachev*. New York: Random House, 1986, pp. 156-158.
-[^6]: "Konstantin Chernenko." *Encyclopedia Britannica Online*, 2024.
-[^7]: Taubman, William. *Gorbachev: His Life and Times*. New York: Norton, 2017, pp. 186-187.
-[^8]: Breslauer, George W. *Gorbachev and Gorbachevism*. Cambridge: Cambridge University Press, 2002, pp. 18-20.
-[^9]: Brown, Archie. *The Rise and Fall of Communism*. New York: HarperCollins, 2009, pp. 498-500.
-[^10]: Aslund, Anders. *Gorbachev's Struggle for Economic Reform*. Ithaca: Cornell University Press, 1989, pp. 28-29.
-[^11]: White, Stephen. *Gorbachev and After*. Cambridge: Cambridge University Press, 1991, pp. 34-36.
-[^12]: Garthoff, Raymond L. *The Great Transition: American-Soviet Relations and the End of the Cold War*. Washington: Brookings Institution, 1994, pp. 147-149.
-[^13]: Goldman, Marshall I. *USSR in Crisis: The Failure of an Economic System*. New York: Norton, 1983, pp. 123-125.
-[^14]: Matthews, Mervyn. *Poverty in the Soviet Union*. Cambridge: Cambridge University Press, 1986, pp. 87-89.
-[^15]: Westad, Odd Arne. *The Global Cold War*. Cambridge: Cambridge University Press, 2005, pp. 346-348.
-[^16]: Gati, Charles. *The Bloc That Failed*. Bloomington: Indiana University Press, 1990, pp. 112-114.
-[^17]: Kaiser, Robert G. "The U.S.S.R. in Decline." *Foreign Affairs*, Winter 1988/89, pp. 97-117.
-[^18]: Kotkin, Stephen. *Armageddon Averted: The Soviet Collapse, 1970-2000*. Oxford: Oxford University Press, 2001, pp. 45-47.
-[^19]: Braithwaite, Rodric. *Afgantsy: The Russians in Afghanistan, 1979-89*. Oxford: Oxford University Press, 2011, pp. 167-169.
-[^20]: Alexeyeva, Ludmilla. *Soviet Dissent: Contemporary Movements for National, Religious, and Human Rights*. Middletown: Wesleyan University Press, 1985, pp. 298-300.
-[^21]: Schmidt-Hauer, Christian. *Gorbachev: The Path to Power*. Topsfield: Salem House Publishers, 1986, pp. 78-80.
-[^22]: Laqueur, Walter. *The Long Road to Freedom: Russia and Glasnost*. New York: Scribner, 1989, pp. 134-136.
-[^23]: Hanson, Philip. *The Rise and Fall of the Soviet Economy*. London: Longman, 2003, pp. 178-180.
-[^24]: Zemtsov, *Chernenko: The Last Bolshevik*, pp. 89-91.
-[^25]: Solovyov and Klepikova, *Behind the High Kremlin Walls*, pp. 245-247.
-[^26]: Park, Andrus. "The Chernenko Interlude." In *Russia's Post-Communist Economy*, edited by Brigitte Granville. London: Royal Institute of International Affairs, 1995, pp. 12-14.
-[^27]: "Konstantin Chernenko, Soviet Leader for 13 Months, Dies." *The New York Times*, March 11, 1985.
-[^28]: Zemtsov, *Chernenko: The Last Bolshevik*, pp. 201-203.
-[^29]: Suny, Ronald Grigor. *The Soviet Experiment: Russia, the USSR, and the Successor States*. Oxford: Oxford University Press, 1998, pp. 451-453.
-[^30]: Taubman, *Gorbachev: His Life and Times*, pp. 194-196.
-[^31]: Sherlock, Thomas. *Historical Narratives in the Soviet Union and Post-Soviet Russia*. New York: Palgrave Macmillan, 2007, pp. 167-169.
-[^32]: English, Robert D. *Russia and the Idea of the West*. New York: Columbia University Press, 2000, pp. 189-191.
-[^33]: Garthoff, *The Great Transition*, pp. 152-154.
-[^34]: Daniels, Robert V. *The End of the Communist Revolution*. London: Routledge, 1993, pp. 67-69.
-[^35]: Willerton, John P. *Patronage and Politics in the USSR*. Cambridge: Cambridge University Press, 1992, pp. 198-201.
-[^36]: Hough, Jerry F. *Russia and the West: Gorbachev and the Politics of Reform*. New York: Simon & Schuster, 1988, pp. 98-100.
-[^37]: Oberdorfer, Don. *From the Cold War to a New Era: The United States and the Soviet Union, 1983-1991*. Baltimore: Johns Hopkins University Press, 1998, pp. 89-91.
-[^38]: Volkogonov, Dmitri. *Autopsy for an Empire: The Seven Leaders Who Built the Soviet Regime*. New York: Free Press, 1998, pp. 434-436.
-[^39]: Cohen, Stephen F. *Soviet Fates and Lost Alternatives*. New York: Columbia University Press, 2009, pp. 145-147.
-[^40]: Gill, Graeme. *The Collapse of a Single-Party System*. Cambridge: Cambridge University Press, 1994, pp. 78-80.
-[^41]: Brown, *The Rise and Fall of Communism*, pp. 501-503.
-[^42]: Pipes, Richard. *Communism: A History*. New York: Modern Library, 2001, pp. 121-123.
-[^43]: Kotkin, *Armageddon Averted*, pp. 48-50.
-[^44]: Sakharov, Andrei. *Memoirs*. New York: Knopf, 1990, pp. 578-580.
-[^45]: Kalinovsky, Artemy M. *A Long Goodbye: The Soviet Withdrawal from Afghanistan*. Cambridge: Harvard University Press, 2011, pp. 45-47.
-[^46]: Gaidar, Yegor. *Collapse of an Empire: Lessons for Modern Russia*. Washington: Brookings Institution Press, 2007, pp. 167-169.
-[^47]: Figes, Orlando. *Revolutionary Russia, 1891-1991*. New York: Metropolitan Books, 2014, pp. 389-391.
-[^48]: "Chernenko's First Speech as General Secretary." *Pravda*, February 14, 1984.
-[^49]: Chernenko, Konstantin. Speech to Central Committee Plenum. *Current Digest of the Soviet Press*, April 1984.
-[^50]: "Letter from Chernenko to Reagan." *The Washington Post*, March 8, 1984.
-[^51]: Chernenko, Konstantin. "On the Tasks of Party Work." *Kommunist*, No. 7, 1984.
-[^52]: Chernenko, Konstantin. Address to propaganda workers. *Sovetskaya Rossiya*, June 15, 1984.
+[^1]: Medvedev, Zhores. _Andropov_. New York: Norton, 1983, pp. 54-56.
+
+[^2]: Zemtsov, Ilya. _Chernenko: The Last Bolshevik_. New Brunswick: Transaction Books, 1989, pp. 12-15.
+
+[^3]: Solovyov, Vladimir and Elena Klepikova. _Behind the High Kremlin Walls_. New York: Dodd, Mead & Company, 1986, pp. 234-236.
+
+[^4]: Service, Robert. _A History of Modern Russia: From Tsarism to the Twenty-first Century_. Cambridge: Harvard University Press, 2009, p. 398.
+
+[^5]: Doder, Dusko. _Shadows and Whispers: Power Politics Inside the Kremlin from Brezhnev to Gorbachev_. New York: Random House, 1986, pp. 156-158.
+
+[^6]: "Konstantin Chernenko." _Encyclopedia Britannica Online_, 2024.
+
+[^7]: Taubman, William. _Gorbachev: His Life and Times_. New York: Norton, 2017, pp. 186-187.
+
+[^8]: Breslauer, George W. _Gorbachev and Gorbachevism_. Cambridge: Cambridge University Press, 2002, pp. 18-20.
+
+[^9]: Brown, Archie. _The Rise and Fall of Communism_. New York: HarperCollins, 2009, pp. 498-500.
+
+[^10]: Aslund, Anders. _Gorbachev's Struggle for Economic Reform_. Ithaca: Cornell University Press, 1989, pp. 28-29.
+
+[^11]: White, Stephen. _Gorbachev and After_. Cambridge: Cambridge University Press, 1991, pp. 34-36.
+
+[^12]: Garthoff, Raymond L. _The Great Transition: American-Soviet Relations and the End of the Cold War_. Washington: Brookings Institution, 1994, pp. 147-149.
+
+[^13]: Goldman, Marshall I. _USSR in Crisis: The Failure of an Economic System_. New York: Norton, 1983, pp. 123-125.
+
+[^14]: Matthews, Mervyn. _Poverty in the Soviet Union_. Cambridge: Cambridge University Press, 1986, pp. 87-89.
+
+[^15]: Westad, Odd Arne. _The Global Cold War_. Cambridge: Cambridge University Press, 2005, pp. 346-348.
+
+[^16]: Gati, Charles. _The Bloc That Failed_. Bloomington: Indiana University Press, 1990, pp. 112-114.
+
+[^17]: Kaiser, Robert G. "The U.S.S.R. in Decline." _Foreign Affairs_, Winter 1988/89, pp. 97-117.
+
+[^18]: Kotkin, Stephen. _Armageddon Averted: The Soviet Collapse, 1970-2000_. Oxford: Oxford University Press, 2001, pp. 45-47.
+
+[^19]: Braithwaite, Rodric. _Afgantsy: The Russians in Afghanistan, 1979-89_. Oxford: Oxford University Press, 2011, pp. 167-169.
+
+[^20]: Alexeyeva, Ludmilla. _Soviet Dissent: Contemporary Movements for National, Religious, and Human Rights_. Middletown: Wesleyan University Press, 1985, pp. 298-300.
+
+[^21]: Schmidt-Hauer, Christian. _Gorbachev: The Path to Power_. Topsfield: Salem House Publishers, 1986, pp. 78-80.
+
+[^22]: Laqueur, Walter. _The Long Road to Freedom: Russia and Glasnost_. New York: Scribner, 1989, pp. 134-136.
+
+[^23]: Hanson, Philip. _The Rise and Fall of the Soviet Economy_. London: Longman, 2003, pp. 178-180.
+
+[^24]: Zemtsov, _Chernenko: The Last Bolshevik_, pp. 89-91.
+
+[^25]: Solovyov and Klepikova, _Behind the High Kremlin Walls_, pp. 245-247.
+
+[^26]: Park, Andrus. "The Chernenko Interlude." In _Russia's Post-Communist Economy_, edited by Brigitte Granville. London: Royal Institute of International Affairs, 1995, pp. 12-14.
+
+[^27]: "Konstantin Chernenko, Soviet Leader for 13 Months, Dies." _The New York Times_, March 11, 1985.
+
+[^28]: Zemtsov, _Chernenko: The Last Bolshevik_, pp. 201-203.
+
+[^29]: Suny, Ronald Grigor. _The Soviet Experiment: Russia, the USSR, and the Successor States_. Oxford: Oxford University Press, 1998, pp. 451-453.
+
+[^30]: Taubman, _Gorbachev: His Life and Times_, pp. 194-196.
+
+[^31]: Sherlock, Thomas. _Historical Narratives in the Soviet Union and Post-Soviet Russia_. New York: Palgrave Macmillan, 2007, pp. 167-169.
+
+[^32]: English, Robert D. _Russia and the Idea of the West_. New York: Columbia University Press, 2000, pp. 189-191.
+
+[^33]: Garthoff, _The Great Transition_, pp. 152-154.
+
+[^34]: Daniels, Robert V. _The End of the Communist Revolution_. London: Routledge, 1993, pp. 67-69.
+
+[^35]: Willerton, John P. _Patronage and Politics in the USSR_. Cambridge: Cambridge University Press, 1992, pp. 198-201.
+
+[^36]: Hough, Jerry F. _Russia and the West: Gorbachev and the Politics of Reform_. New York: Simon & Schuster, 1988, pp. 98-100.
+
+[^37]: Oberdorfer, Don. _From the Cold War to a New Era: The United States and the Soviet Union, 1983-1991_. Baltimore: Johns Hopkins University Press, 1998, pp. 89-91.
+
+[^38]: Volkogonov, Dmitri. _Autopsy for an Empire: The Seven Leaders Who Built the Soviet Regime_. New York: Free Press, 1998, pp. 434-436.
+
+[^39]: Cohen, Stephen F. _Soviet Fates and Lost Alternatives_. New York: Columbia University Press, 2009, pp. 145-147.
+
+[^40]: Gill, Graeme. _The Collapse of a Single-Party System_. Cambridge: Cambridge University Press, 1994, pp. 78-80.
+
+[^41]: Brown, _The Rise and Fall of Communism_, pp. 501-503.
+
+[^42]: Pipes, Richard. _Communism: A History_. New York: Modern Library, 2001, pp. 121-123.
+
+[^43]: Kotkin, _Armageddon Averted_, pp. 48-50.
+
+[^44]: Sakharov, Andrei. _Memoirs_. New York: Knopf, 1990, pp. 578-580.
+
+[^45]: Kalinovsky, Artemy M. _A Long Goodbye: The Soviet Withdrawal from Afghanistan_. Cambridge: Harvard University Press, 2011, pp. 45-47.
+
+[^46]: Gaidar, Yegor. _Collapse of an Empire: Lessons for Modern Russia_. Washington: Brookings Institution Press, 2007, pp. 167-169.
+
+[^47]: Figes, Orlando. _Revolutionary Russia, 1891-1991_. New York: Metropolitan Books, 2014, pp. 389-391.
+
+[^48]: "Chernenko's First Speech as General Secretary." _Pravda_, February 14, 1984.
+
+[^49]: Chernenko, Konstantin. Speech to Central Committee Plenum. _Current Digest of the Soviet Press_, April 1984.
+
+[^50]: "Letter from Chernenko to Reagan." _The Washington Post_, March 8, 1984.
+
+[^51]: Chernenko, Konstantin. "On the Tasks of Party Work." _Kommunist_, No. 7, 1984.
+
+[^52]: Chernenko, Konstantin. Address to propaganda workers. _Sovetskaya Rossiya_, June 15, 1984.

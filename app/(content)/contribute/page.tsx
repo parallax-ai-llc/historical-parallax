@@ -12,8 +12,6 @@ const GITHUB_REPO = "https://github.com/parallax-ai-llc/historical-parallax";
 export default function ContributePage() {
   return (
     <div className="bg-background overflow-x-hidden">
-
-
       <main className="container max-w-4xl py-12 px-4">
         <div className="space-y-2 mb-8">
           <h1 className="font-sans text-4xl font-bold tracking-tight">
@@ -46,7 +44,9 @@ export default function ContributePage() {
           <h2 className="font-sans text-2xl font-semibold">Getting Started</h2>
           <p className="text-muted-foreground">
             We accept contributions in the form of Markdown files located in the{" "}
-            <code className="px-1.5 py-0.5 rounded bg-muted font-mono text-sm">content/articles/</code>{" "}
+            <code className="px-1.5 py-0.5 rounded bg-muted font-mono text-sm">
+              content/articles/
+            </code>{" "}
             directory. You can either create new articles or improve existing ones.
           </p>
         </section>
@@ -67,7 +67,12 @@ export default function ContributePage() {
                 <h3 className="font-semibold">Fork the Repository</h3>
                 <p className="text-muted-foreground">
                   Go to our{" "}
-                  <a href={GITHUB_REPO} target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+                  <a
+                    href={GITHUB_REPO}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-primary hover:underline"
+                  >
                     GitHub repository
                   </a>{" "}
                   and click the &quot;Fork&quot; button to create your own copy.
@@ -106,13 +111,24 @@ export default function ContributePage() {
               <div className="space-y-2 min-w-0 flex-1">
                 <h3 className="font-semibold">Create Your Article</h3>
                 <p className="text-muted-foreground">
-                  Create a new file in <code className="px-1.5 py-0.5 rounded bg-muted font-mono text-sm">content/articles/</code> with the naming format:
+                  Create a new file in{" "}
+                  <code className="px-1.5 py-0.5 rounded bg-muted font-mono text-sm">
+                    content/articles/
+                  </code>{" "}
+                  with the naming format:
                 </p>
                 <pre className="p-3 rounded-lg bg-muted overflow-x-auto text-sm max-w-full">
                   <code>firstname-lastname.md</code>
                 </pre>
                 <p className="text-sm text-muted-foreground">
-                  Example: <code className="px-1 py-0.5 rounded bg-muted font-mono text-xs">winston-churchill.md</code>, <code className="px-1 py-0.5 rounded bg-muted font-mono text-xs">cleopatra-vii.md</code>
+                  Example:{" "}
+                  <code className="px-1 py-0.5 rounded bg-muted font-mono text-xs">
+                    winston-churchill.md
+                  </code>
+                  ,{" "}
+                  <code className="px-1 py-0.5 rounded bg-muted font-mono text-xs">
+                    cleopatra-vii.md
+                  </code>
                 </p>
               </div>
             </div>
@@ -138,7 +154,8 @@ git push origin feature/add-article-name`}</code>
               <div className="space-y-2">
                 <h3 className="font-semibold">Open a Pull Request</h3>
                 <p className="text-muted-foreground">
-                  Go to your fork on GitHub and click &quot;Compare & pull request&quot;. Provide a clear description of your contribution.
+                  Go to your fork on GitHub and click &quot;Compare & pull request&quot;. Provide a
+                  clear description of your contribution.
                 </p>
               </div>
             </div>
@@ -226,7 +243,9 @@ Recent news or developments (if applicable).
 
             <div className="p-4 rounded-lg border bg-card">
               <div className="flex items-center gap-2 mb-2">
-                <span className="h-5 w-5 rounded-full bg-red-500 flex items-center justify-center text-white text-xs">✕</span>
+                <span className="h-5 w-5 rounded-full bg-red-500 flex items-center justify-center text-white text-xs">
+                  ✕
+                </span>
                 <h3 className="font-semibold">Don&apos;t</h3>
               </div>
               <ul className="space-y-2 text-sm text-muted-foreground">
@@ -250,9 +269,7 @@ Recent news or developments (if applicable).
             Editing Existing Articles
           </h2>
 
-          <p className="text-muted-foreground">
-            To edit an existing article:
-          </p>
+          <p className="text-muted-foreground">To edit an existing article:</p>
 
           <ol className="space-y-3 text-muted-foreground">
             <li className="flex gap-3">
@@ -293,9 +310,7 @@ Recent news or developments (if applicable).
         {/* Review Process */}
         <section className="space-y-4 mb-12">
           <h2 className="font-sans text-2xl font-semibold">Review Process</h2>
-          <p className="text-muted-foreground">
-            After you submit a pull request:
-          </p>
+          <p className="text-muted-foreground">After you submit a pull request:</p>
           <ol className="space-y-2 text-muted-foreground list-decimal list-inside">
             <li>Your PR will be reviewed for formatting compliance</li>
             <li>Content will be verified for accuracy using AI-powered fact-checking</li>

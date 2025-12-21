@@ -211,52 +211,52 @@ The historical debates ultimately center on whether Pericles was a defender of d
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 495 BCE | Birth in Athens to Xanthippus and Agariste |
-| 472 BCE | First known political act: sponsored Aeschylus' Persian trilogy |
-| 463 BCE | Led prosecution of Cimon (who was acquitted) |
-| 461 BCE | Cimon ostracized; Ephialtes murdered; Pericles becomes leader of democratic faction |
-| 458–457 BCE | Lowered property requirements for archonship |
-| 454 BCE | Led military expedition against Sicyon and Acarnania |
-| 451 BCE | Enacted citizenship law requiring both parents to be Athenian |
-| 451 BCE | Negotiated five-year truce with Sparta |
-| 449 BCE | Peace of Callias signed with Persia |
-| 449 BCE | Proposed decree to fund rebuilding of Athenian temples |
-| 448 BCE | Led campaign to recapture Delphi from Spartans |
-| 447 BCE | Construction of Parthenon began |
-| 445 BCE | Began relationship with Aspasia of Miletus |
-| 440–439 BCE | Led Athenian forces in Samian War |
-| 432 BCE | Parthenon completed |
-| 431 BCE | Peloponnesian War began; delivered Funeral Oration |
-| 431 BCE | Led invasion of Megara |
-| 430 BCE | Plague struck Athens; Pericles briefly removed from office |
-| 430 BCE | Pericles fined for misuse of funds but quickly reinstated |
-| 429 BCE | Sons Xanthippus and Paralus died of plague |
-| 429 BCE | Died of plague in Athens (fall) |
+| Year        | Event                                                                               |
+| ----------- | ----------------------------------------------------------------------------------- |
+| c. 495 BCE  | Birth in Athens to Xanthippus and Agariste                                          |
+| 472 BCE     | First known political act: sponsored Aeschylus' Persian trilogy                     |
+| 463 BCE     | Led prosecution of Cimon (who was acquitted)                                        |
+| 461 BCE     | Cimon ostracized; Ephialtes murdered; Pericles becomes leader of democratic faction |
+| 458–457 BCE | Lowered property requirements for archonship                                        |
+| 454 BCE     | Led military expedition against Sicyon and Acarnania                                |
+| 451 BCE     | Enacted citizenship law requiring both parents to be Athenian                       |
+| 451 BCE     | Negotiated five-year truce with Sparta                                              |
+| 449 BCE     | Peace of Callias signed with Persia                                                 |
+| 449 BCE     | Proposed decree to fund rebuilding of Athenian temples                              |
+| 448 BCE     | Led campaign to recapture Delphi from Spartans                                      |
+| 447 BCE     | Construction of Parthenon began                                                     |
+| 445 BCE     | Began relationship with Aspasia of Miletus                                          |
+| 440–439 BCE | Led Athenian forces in Samian War                                                   |
+| 432 BCE     | Parthenon completed                                                                 |
+| 431 BCE     | Peloponnesian War began; delivered Funeral Oration                                  |
+| 431 BCE     | Led invasion of Megara                                                              |
+| 430 BCE     | Plague struck Athens; Pericles briefly removed from office                          |
+| 430 BCE     | Pericles fined for misuse of funds but quickly reinstated                           |
+| 429 BCE     | Sons Xanthippus and Paralus died of plague                                          |
+| 429 BCE     | Died of plague in Athens (fall)                                                     |
 
 ---
 
 ## Famous Quotes
 
 > "Our constitution is called a democracy because power is in the hands not of a minority but of the whole people."
-> 
+>
 > — From the Funeral Oration, 431 BCE, articulating the fundamental principle of Athenian democracy[^178]
 
 > "Our system of government does not copy the institutions of our neighbours. It is more the case of our being a model to others, than of our imitating anyone else."
-> 
+>
 > — From the Funeral Oration, asserting Athenian exceptionalism and cultural leadership[^179]
 
 > "To be happy means to be free and to be free means to be brave."
-> 
+>
 > — Linking freedom, courage, and human flourishing in a formulation that influenced Western political philosophy[^180]
 
 > "The whole earth is the tomb of famous men."
-> 
+>
 > — From the Funeral Oration, honoring fallen soldiers and emphasizing that glory transcends physical burial sites[^181]
 
 > "This empire has been acquired by men who knew their duty and had the courage to do it, who in the hour of conflict had the fear of dishonor always present to them."
-> 
+>
 > — Celebrating civic virtue and military courage as foundations of Athenian power[^182]
 
 ---
@@ -264,184 +264,365 @@ The historical debates ultimately center on whether Pericles was a defender of d
 ## References
 
 [^1]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^2]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^3]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^4]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^5]: Study.com. "Pericles of Athens | Biography, Accomplishments & Facts." https://study.com/academy/lesson/pericles-of-athens-facts-achievements-death.html
+
 [^6]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^7]: Notable Biographies. "Pericles Biography." https://www.notablebiographies.com/Pe-Pu/Pericles.html
+
 [^8]: Biography.com. "Pericles: Biography, Athenian Statesman, Parthenon." https://www.biography.com/political-figures/pericles
+
 [^9]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^10]: Notable Biographies. "Pericles Biography." https://www.notablebiographies.com/Pe-Pu/Pericles.html
+
 [^11]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^12]: EBSCO Research Starters. "Pericles." https://www.ebsco.com/research-starters/history/pericles
+
 [^13]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^14]: Notable Biographies. "Pericles Biography." https://www.notablebiographies.com/Pe-Pu/Pericles.html
+
 [^15]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^16]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^17]: Biography.com. "Pericles: Biography, Athenian Statesman, Parthenon." https://www.biography.com/political-figures/pericles
+
 [^18]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^19]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^20]: Fiveable. "Pericles and Athenian Democracy." https://fiveable.me/ancient-greece/unit-6/pericles-athenian-democracy/study-guide/qQSVL9zxEujks5xa
+
 [^21]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^22]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^23]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^24]: Purdue University. "Democracy in the Age of Pericles." https://web.ics.purdue.edu/~rauhn/radical_democracy.htm
+
 [^25]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^26]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^27]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^28]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^29]: History Skills. "Pericles' visionary leadership." https://www.historyskills.com/classroom/ancient-history/pericles/
+
 [^30]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^31]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^32]: Purdue University. "Democracy in the Age of Pericles." https://web.ics.purdue.edu/~rauhn/radical_democracy.htm
+
 [^33]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^34]: Fiveable. "Pericles and Athenian Democracy." https://fiveable.me/ancient-greece/unit-6/pericles-athenian-democracy/study-guide/qQSVL9zxEujks5xa
+
 [^35]: History Skills. "Pericles' visionary leadership." https://www.historyskills.com/classroom/ancient-history/pericles/
+
 [^36]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^37]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^38]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^39]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^40]: Study.com. "Pericles of Athens | Biography, Accomplishments & Facts." https://study.com/academy/lesson/pericles-of-athens-facts-achievements-death.html
+
 [^41]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^42]: Fiveable. "Pericles and Athenian Democracy." https://fiveable.me/ancient-greece/unit-6/pericles-athenian-democracy/study-guide/qQSVL9zxEujks5xa
+
 [^43]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^44]: AEI. "Periclean Athens and Modern Democracy." https://www.aei.org/research-products/speech/periclean-athens-and-modern-democracy/
+
 [^45]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^46]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^47]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^48]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^49]: Study.com. "Pericles of Athens | Biography, Accomplishments & Facts." https://study.com/academy/lesson/pericles-of-athens-facts-achievements-death.html
+
 [^50]: Medium. "Pericles: The Architect of Athens' Golden Age." https://medium.com/time-chronicles/pericles-the-architect-of-athens-golden-age-fe16de4eeb8a
+
 [^51]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^52]: History Skills. "Pericles' visionary leadership." https://www.historyskills.com/classroom/ancient-history/pericles/
+
 [^53]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^54]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^55]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^56]: Medium. "Pericles: The Architect of Athens' Golden Age." https://medium.com/time-chronicles/pericles-the-architect-of-athens-golden-age-fe16de4eeb8a
+
 [^57]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^58]: Biography.com. "Pericles: Biography, Athenian Statesman, Parthenon." https://www.biography.com/political-figures/pericles
+
 [^59]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^60]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^61]: HISTORY. "Pericles - Funeral Oration, Greece & Facts." https://www.history.com/topics/ancient-greece/pericles
+
 [^62]: Study.com. "Pericles of Athens | Biography, Accomplishments & Facts." https://study.com/academy/lesson/pericles-of-athens-facts-achievements-death.html
+
 [^63]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^64]: HISTORY. "Pericles - Funeral Oration, Greece & Facts." https://www.history.com/topics/ancient-greece/pericles
+
 [^65]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^66]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^67]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^68]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^69]: Ancient War History. "The Paradox of Pericles: How a Non-Democrat Perfected Athenian Democracy." https://ancientwarhistory.com/the-paradox-of-pericles-how-a-non-democrat-perfected-athenian-democracy/
+
 [^70]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^71]: Ancient War History. "The Paradox of Pericles: How a Non-Democrat Perfected Athenian Democracy." https://ancientwarhistory.com/the-paradox-of-pericles-how-a-non-democrat-perfected-athenian-democracy/
+
 [^72]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^73]: Purdue University. "Democracy in the Age of Pericles." https://web.ics.purdue.edu/~rauhn/radical_democracy.htm
+
 [^74]: Cogitatiopress. "Ancient Demagoguery and Contemporary Populism." https://www.cogitatiopress.com/politicsandgovernance/article/download/9729/4360
+
 [^75]: Cogitatiopress. "Ancient Demagoguery and Contemporary Populism." https://www.cogitatiopress.com/politicsandgovernance/article/download/9729/4360
+
 [^76]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^77]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^78]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^79]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^80]: ResearchGate. "Thucydides, Pericles, and Periclean Imperialism." https://www.researchgate.net/publication/293090546_Thucydides_pericles_and_periclean_imperialism
+
 [^81]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^82]: ResearchGate. "Thucydides, Pericles, and Periclean Imperialism." https://www.researchgate.net/publication/293090546_Thucydides_pericles_and_periclean_imperialism
+
 [^83]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^84]: ResearchGate. "Thucydides, Pericles, and Periclean Imperialism." https://www.researchgate.net/publication/293090546_Thucydides_pericles_and_periclean_imperialism
+
 [^85]: History Skills. "Pericles' visionary leadership." https://www.historyskills.com/classroom/ancient-history/pericles/
+
 [^86]: Cambridge University Press. "Thucydides, Pericles, and the Idea of Athens in the Peloponnesian War." https://www.cambridge.org/core/books/thucydides-pericles-and-the-idea-of-athens-in-the-peloponnesian-war/7891004333C12A0E207605B7D5E95A68
+
 [^87]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^88]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/core/books/pericles-and-the-conquest-of-history/B1D76F2C8DD89B635A8E8E4C3A98D615
+
 [^89]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/us/universitypress/subjects/classical-studies/ancient-history/pericles-and-conquest-history-political-biography
+
 [^90]: Ancient War History. "The Paradox of Pericles: How a Non-Democrat Perfected Athenian Democracy." https://ancientwarhistory.com/the-paradox-of-pericles-how-a-non-democrat-perfected-athenian-democracy/
+
 [^91]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^92]: History Skills. "Pericles' visionary leadership." https://www.historyskills.com/classroom/ancient-history/pericles/
+
 [^93]: History Skills. "The dramatic life of Aspasia." https://www.historyskills.com/classroom/ancient-history/aspasia/
+
 [^94]: World History Encyclopedia. "Aspasia of Miletus." https://www.worldhistory.org/Aspasia_of_Miletus/
+
 [^95]: PBS. "The Greeks - Aspasia." https://www.pbs.org/empires/thegreeks/characters/aspasia_p4.html
+
 [^96]: Britannica. "Aspasia | Athenian Philosopher, Politician, Educator." https://www.britannica.com/biography/Aspasia
+
 [^97]: History Skills. "The dramatic life of Aspasia." https://www.historyskills.com/classroom/ancient-history/aspasia/
+
 [^98]: World History Encyclopedia. "Aspasia of Miletus." https://www.worldhistory.org/Aspasia_of_Miletus/
+
 [^99]: Wikipedia. "Aspasia." https://en.wikipedia.org/wiki/Aspasia
+
 [^100]: History Skills. "The dramatic life of Aspasia." https://www.historyskills.com/classroom/ancient-history/aspasia/
+
 [^101]: Britannica. "Aspasia | Athenian Philosopher, Politician, Educator." https://www.britannica.com/biography/Aspasia
+
 [^102]: PBS. "The Greeks - Aspasia." https://www.pbs.org/empires/thegreeks/characters/aspasia_p4.html
+
 [^103]: World History Encyclopedia. "Aspasia of Miletus." https://www.worldhistory.org/Aspasia_of_Miletus/
+
 [^104]: History Skills. "The dramatic life of Aspasia." https://www.historyskills.com/classroom/ancient-history/aspasia/
+
 [^105]: Britannica. "Aspasia | Athenian Philosopher, Politician, Educator." https://www.britannica.com/biography/Aspasia
+
 [^106]: PBS. "The Greeks - Aspasia." https://www.pbs.org/empires/thegreeks/characters/aspasia_p4.html
+
 [^107]: World History Encyclopedia. "Aspasia of Miletus." https://www.worldhistory.org/Aspasia_of_Miletus/
+
 [^108]: Britannica. "Aspasia | Athenian Philosopher, Politician, Educator." https://www.britannica.com/biography/Aspasia
+
 [^109]: History Skills. "The dramatic life of Aspasia." https://www.historyskills.com/classroom/ancient-history/aspasia/
+
 [^110]: Wikipedia. "Aspasia." https://en.wikipedia.org/wiki/Aspasia
+
 [^111]: PBS. "The Greeks - Aspasia." https://www.pbs.org/empires/thegreeks/characters/aspasia_p4.html
+
 [^112]: Wikipedia. "Plague of Athens." https://en.wikipedia.org/wiki/Plague_of_Athens
+
 [^113]: PBS. "The Greeks - The Long Death of Pericles." http://www.pbs.org/empires/thegreeks/keyevents/429_c.html
+
 [^114]: Study.com. "Pericles of Athens | Biography, Accomplishments & Facts." https://study.com/academy/lesson/pericles-of-athens-facts-achievements-death.html
+
 [^115]: PBS. "The Greeks - The Long Death of Pericles." http://www.pbs.org/empires/thegreeks/keyevents/429_c.html
+
 [^116]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^117]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^118]: Wikipedia. "Pericles with the Corinthian helmet." https://en.wikipedia.org/wiki/Pericles_with_the_Corinthian_helmet
+
 [^119]: Wikipedia. "Kresilas." https://en.wikipedia.org/wiki/Kresilas
+
 [^120]: World History Encyclopedia. "Aspasia of Miletus." https://www.worldhistory.org/Aspasia_of_Miletus/
+
 [^121]: Britannica. "Aspasia | Athenian Philosopher, Politician, Educator." https://www.britannica.com/biography/Aspasia
+
 [^122]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^123]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^124]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^125]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^126]: Fiveable. "Pericles and Athenian Democracy." https://fiveable.me/ancient-greece/unit-6/pericles-athenian-democracy/study-guide/qQSVL9zxEujks5xa
+
 [^127]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^128]: AEI. "Periclean Athens and Modern Democracy." https://www.aei.org/research-products/speech/periclean-athens-and-modern-democracy/
+
 [^129]: Ancient Civilizations World. "Pericles and the Birth of Western Democracy." https://ancientcivilizationsworld.com/pericles-and-the-birth-of-western-democracy/
+
 [^130]: Fiveable. "Pericles and Athenian Democracy." https://fiveable.me/ancient-greece/unit-6/pericles-athenian-democracy/study-guide/qQSVL9zxEujks5xa
+
 [^131]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^132]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^133]: Medium. "Pericles: The Architect of Athens' Golden Age." https://medium.com/time-chronicles/pericles-the-architect-of-athens-golden-age-fe16de4eeb8a
+
 [^134]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^135]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^136]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^137]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^138]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^139]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^140]: AEI. "Periclean Athens and Modern Democracy." https://www.aei.org/research-products/speech/periclean-athens-and-modern-democracy/
+
 [^141]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/core/books/pericles-and-the-conquest-of-history/B1D76F2C8DD89B635A8E8E4C3A98D615
+
 [^142]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^143]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^144]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/us/universitypress/subjects/classical-studies/ancient-history/pericles-and-conquest-history-political-biography
+
 [^145]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^146]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/core/books/pericles-and-the-conquest-of-history/B1D76F2C8DD89B635A8E8E4C3A98D615
+
 [^147]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^148]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^149]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^150]: History Skills. "Pericles' visionary leadership." https://www.historyskills.com/classroom/ancient-history/pericles/
+
 [^151]: Greek History Hub. "Understanding the Political Innovations Introduced by Pericles." https://www.greekhistoryhub.com/pages/understanding-the-political-innovations-introduced-by-pericles-29d5a773.php
+
 [^152]: Fiveable. "Pericles and Athenian Democracy." https://fiveable.me/ancient-greece/unit-6/pericles-athenian-democracy/study-guide/qQSVL9zxEujks5xa
+
 [^153]: AEI. "Periclean Athens and Modern Democracy." https://www.aei.org/research-products/speech/periclean-athens-and-modern-democracy/
+
 [^154]: Medium. "Pericles: The Architect of Athens' Golden Age." https://medium.com/time-chronicles/pericles-the-architect-of-athens-golden-age-fe16de4eeb8a
+
 [^155]: PBS. "Pericles Funeral Oration in Depth." https://www.pbs.org/empires/thegreeks/background/36.html
+
 [^156]: World History Encyclopedia. "Pericles." https://www.worldhistory.org/pericles/
+
 [^157]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^158]: National Geographic. "Pericles—facts and information." https://www.nationalgeographic.com/culture/article/pericles
+
 [^159]: Cambridge University Press. "Pericles." https://www.cambridge.org/us/universitypress/subjects/classical-studies/ancient-history/pericles-biography-context?format=PB
+
 [^160]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^161]: Ancient War History. "The Paradox of Pericles: How a Non-Democrat Perfected Athenian Democracy." https://ancientwarhistory.com/the-paradox-of-pericles-how-a-non-democrat-perfected-athenian-democracy/
+
 [^162]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^163]: Purdue University. "Democracy in the Age of Pericles." https://web.ics.purdue.edu/~rauhn/radical_democracy.htm
+
 [^164]: Britannica. "Pericles | Athenian Statesman & Strategist." https://www.britannica.com/biography/Pericles-Athenian-statesman
+
 [^165]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^166]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/us/universitypress/subjects/classical-studies/ancient-history/pericles-and-conquest-history-political-biography
+
 [^167]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/core/books/pericles-and-the-conquest-of-history/B1D76F2C8DD89B635A8E8E4C3A98D615
+
 [^168]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^169]: ResearchGate. "Thucydides, Pericles, and Periclean Imperialism." https://www.researchgate.net/publication/293090546_Thucydides_pericles_and_periclean_imperialism
+
 [^170]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^171]: Ancient War History. "The Paradox of Pericles: How a Non-Democrat Perfected Athenian Democracy." https://ancientwarhistory.com/the-paradox-of-pericles-how-a-non-democrat-perfected-athenian-democracy/
+
 [^172]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^173]: Medium. "Periclean Democracy in Athens… Or Was It.?" https://medium.com/democorum/periclean-democracy-in-athens-or-was-it-9d50995cc10e
+
 [^174]: Cambridge University Press. "Thucydides, Pericles, and the Idea of Athens in the Peloponnesian War." https://www.cambridge.org/core/books/thucydides-pericles-and-the-idea-of-athens-in-the-peloponnesian-war/7891004333C12A0E207605B7D5E95A68
+
 [^175]: Cambridge University Press. "Thucydides, Pericles, and Periclean Imperialism." https://www.cambridge.org/core/books/thucydides-pericles-and-periclean-imperialism/4927117A599985BC39FA2AE908D0A2D6
+
 [^176]: Cambridge University Press. "Pericles and the Conquest of History." https://www.cambridge.org/core/books/pericles-and-the-conquest-of-history/B1D76F2C8DD89B635A8E8E4C3A98D615
+
 [^177]: Wikipedia. "Pericles." https://en.wikipedia.org/wiki/Pericles
+
 [^178]: University of Minnesota. "Thucydides: Pericles' Funeral Oration." https://hrlibrary.umn.edu/education/thucydides.html
+
 [^179]: Course Hero. "Funeral Oration Quotes." https://www.coursehero.com/lit/Funeral-Oration/quotes/
+
 [^180]: Wikipedia. "Pericles's Funeral Oration." https://en.wikipedia.org/wiki/Pericles's_Funeral_Oration
+
 [^181]: PBS. "Pericles Funeral Oration in Depth." https://www.pbs.org/empires/thegreeks/background/36.html
+
 [^182]: University of Vermont. "Text of Pericles' Funeral Oration." https://www.uvm.edu/~jbailly/courses/clas158/etexts/funeralOrationText.html

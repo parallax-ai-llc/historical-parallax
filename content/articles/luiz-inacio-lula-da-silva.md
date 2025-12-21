@@ -140,34 +140,34 @@ Some progressive critics argue that Lula's policies, while reducing absolute pov
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1945 | Born in Caetés, Pernambuco, Brazil on October 27 |
-| 1952 | Family migrates to São Paulo |
-| 1964 | Loses left pinky finger in workplace accident at Villares Metalworks |
-| 1969 | Marries Maria de Lourdes da Silva |
-| 1971 | Wife Maria and newborn son die during childbirth |
-| 1974 | Marries Marisa Letícia Rocco Casa |
-| 1975 | Elected president of Steel Workers' Union of São Bernardo do Campo and Diadema |
-| 1978-1980 | Leads major metalworkers' strikes in ABC region of São Paulo |
-| 1980 | Arrested during strikes; co-founds Workers' Party (PT) |
-| 1986 | Elected to Congress as federal deputy |
-| 1989 | Loses presidential election runoff to Fernando Collor de Mello |
-| 1994 | Loses presidential election to Fernando Henrique Cardoso |
-| 1998 | Loses presidential election again to Cardoso |
-| 2002 | Elected President of Brazil with 61.3% in runoff |
-| 2003 | Inaugurated as 35th President of Brazil on January 1 |
-| 2005 | Mensalão corruption scandal emerges |
-| 2006 | Re-elected president in runoff against Geraldo Alckmin |
-| 2007 | Inauguration of second presidential term |
-| 2010 | Leaves office with 87% approval rating |
-| 2014 | Lava Jato (Operation Car Wash) investigation begins |
-| 2017 | Wife Marisa Letícia dies; convicted of corruption charges |
-| 2018 | Begins serving prison sentence in April; barred from presidential race |
-| 2019 | Released from prison in November after 580 days |
-| 2021 | Supreme Court annuls convictions, restores political rights |
-| 2022 | Marries Rosângela da Silva (Janja); narrowly defeats Jair Bolsonaro in presidential election |
-| 2023 | Inaugurated for third presidential term on January 1 |
+| Year      | Event                                                                                        |
+| --------- | -------------------------------------------------------------------------------------------- |
+| 1945      | Born in Caetés, Pernambuco, Brazil on October 27                                             |
+| 1952      | Family migrates to São Paulo                                                                 |
+| 1964      | Loses left pinky finger in workplace accident at Villares Metalworks                         |
+| 1969      | Marries Maria de Lourdes da Silva                                                            |
+| 1971      | Wife Maria and newborn son die during childbirth                                             |
+| 1974      | Marries Marisa Letícia Rocco Casa                                                            |
+| 1975      | Elected president of Steel Workers' Union of São Bernardo do Campo and Diadema               |
+| 1978-1980 | Leads major metalworkers' strikes in ABC region of São Paulo                                 |
+| 1980      | Arrested during strikes; co-founds Workers' Party (PT)                                       |
+| 1986      | Elected to Congress as federal deputy                                                        |
+| 1989      | Loses presidential election runoff to Fernando Collor de Mello                               |
+| 1994      | Loses presidential election to Fernando Henrique Cardoso                                     |
+| 1998      | Loses presidential election again to Cardoso                                                 |
+| 2002      | Elected President of Brazil with 61.3% in runoff                                             |
+| 2003      | Inaugurated as 35th President of Brazil on January 1                                         |
+| 2005      | Mensalão corruption scandal emerges                                                          |
+| 2006      | Re-elected president in runoff against Geraldo Alckmin                                       |
+| 2007      | Inauguration of second presidential term                                                     |
+| 2010      | Leaves office with 87% approval rating                                                       |
+| 2014      | Lava Jato (Operation Car Wash) investigation begins                                          |
+| 2017      | Wife Marisa Letícia dies; convicted of corruption charges                                    |
+| 2018      | Begins serving prison sentence in April; barred from presidential race                       |
+| 2019      | Released from prison in November after 580 days                                              |
+| 2021      | Supreme Court annuls convictions, restores political rights                                  |
+| 2022      | Marries Rosângela da Silva (Janja); narrowly defeats Jair Bolsonaro in presidential election |
+| 2023      | Inaugurated for third presidential term on January 1                                         |
 
 ---
 
@@ -187,99 +187,194 @@ Some progressive critics argue that Lula's policies, while reducing absolute pov
 
 ## References
 
-[^1]: Bourne, Richard. *Lula of Brazil: The Story So Far*. University of California Press, 2008, p. 15.
-[^2]: Paraná, Denise. *Lula, o Filho do Brasil*. Editora Fundação Perseu Abramo, 2002, pp. 23-29.
-[^3]: Bourne, Richard. *Lula of Brazil*, p. 18.
-[^4]: Reid, Michael. *Brazil: The Troubled Rise of a Global Power*. Yale University Press, 2014, p. 187.
-[^5]: Morais, Fernando, and Ignácio de Loyola Brandão. *Lula*. Editora Sextante, 2009, p. 42.
-[^6]: Paraná, Denise. *Lula, o Filho do Brasil*, pp. 45-51.
-[^7]: Bourne, Richard. *Lula of Brazil*, p. 25.
-[^8]: Reid, Michael. *Brazil: The Troubled Rise of a Global Power*, p. 188.
-[^9]: Morais, Fernando. *Lula*, p. 67.
-[^10]: Keck, Margaret E. *The Workers' Party and Democratization in Brazil*. Yale University Press, 1992, p. 61.
-[^11]: French, John D. "The Brazilian Workers' ABC." *Journal of Latin American Studies* 27, no. 3 (1995): 673-709.
-[^12]: Sader, Emir, and Ken Silverstein. *Without Fear of Being Happy: Lula, the Workers Party and Brazil*. Verso, 1991, pp. 28-35.
-[^13]: Keck, Margaret E. *The Workers' Party and Democratization in Brazil*, pp. 65-70.
-[^14]: Samuels, David. "Sources of Mass Partisanship in Brazil." *Latin American Politics and Society* 48, no. 2 (2006): 1-27.
-[^15]: Meneguello, Rachel. *PT: A Formação de um Partido, 1979-1982*. Paz e Terra, 1989, pp. 78-92.
-[^16]: Singer, André. *Os Sentidos do Lulismo*. Companhia das Letras, 2012, p. 73.
-[^17]: Keck, Margaret E. *The Workers' Party and Democratization in Brazil*, p. 215.
-[^18]: Conca, Ken. "Rethinking the Ecology-Sovereignty Debate." *Millennium* 23, no. 3 (1994): 701-711.
-[^19]: Hunter, Wendy. *The Transformation of the Workers' Party in Brazil, 1989-2009*. Cambridge University Press, 2010, pp. 89-94.
-[^20]: Samuels, David J. "From Socialism to Social Democracy: Party Organization and the Transformation of the Workers' Party in Brazil." *Comparative Political Studies* 37, no. 9 (2004): 999-1024.
-[^21]: Hall, Anthony. "Brazil's Bolsa Família: A Double-Edged Sword?" *Development and Change* 39, no. 5 (2008): 799-822.
+[^1]: Bourne, Richard. _Lula of Brazil: The Story So Far_. University of California Press, 2008, p. 15.
+
+[^2]: Paraná, Denise. _Lula, o Filho do Brasil_. Editora Fundação Perseu Abramo, 2002, pp. 23-29.
+
+[^3]: Bourne, Richard. _Lula of Brazil_, p. 18.
+
+[^4]: Reid, Michael. _Brazil: The Troubled Rise of a Global Power_. Yale University Press, 2014, p. 187.
+
+[^5]: Morais, Fernando, and Ignácio de Loyola Brandão. _Lula_. Editora Sextante, 2009, p. 42.
+
+[^6]: Paraná, Denise. _Lula, o Filho do Brasil_, pp. 45-51.
+
+[^7]: Bourne, Richard. _Lula of Brazil_, p. 25.
+
+[^8]: Reid, Michael. _Brazil: The Troubled Rise of a Global Power_, p. 188.
+
+[^9]: Morais, Fernando. _Lula_, p. 67.
+
+[^10]: Keck, Margaret E. _The Workers' Party and Democratization in Brazil_. Yale University Press, 1992, p. 61.
+
+[^11]: French, John D. "The Brazilian Workers' ABC." _Journal of Latin American Studies_ 27, no. 3 (1995): 673-709.
+
+[^12]: Sader, Emir, and Ken Silverstein. _Without Fear of Being Happy: Lula, the Workers Party and Brazil_. Verso, 1991, pp. 28-35.
+
+[^13]: Keck, Margaret E. _The Workers' Party and Democratization in Brazil_, pp. 65-70.
+
+[^14]: Samuels, David. "Sources of Mass Partisanship in Brazil." _Latin American Politics and Society_ 48, no. 2 (2006): 1-27.
+
+[^15]: Meneguello, Rachel. _PT: A Formação de um Partido, 1979-1982_. Paz e Terra, 1989, pp. 78-92.
+
+[^16]: Singer, André. _Os Sentidos do Lulismo_. Companhia das Letras, 2012, p. 73.
+
+[^17]: Keck, Margaret E. _The Workers' Party and Democratization in Brazil_, p. 215.
+
+[^18]: Conca, Ken. "Rethinking the Ecology-Sovereignty Debate." _Millennium_ 23, no. 3 (1994): 701-711.
+
+[^19]: Hunter, Wendy. _The Transformation of the Workers' Party in Brazil, 1989-2009_. Cambridge University Press, 2010, pp. 89-94.
+
+[^20]: Samuels, David J. "From Socialism to Social Democracy: Party Organization and the Transformation of the Workers' Party in Brazil." _Comparative Political Studies_ 37, no. 9 (2004): 999-1024.
+
+[^21]: Hall, Anthony. "Brazil's Bolsa Família: A Double-Edged Sword?" _Development and Change_ 39, no. 5 (2008): 799-822.
+
 [^22]: Soares, Fábio Veras, et al. "Cash Transfer Programmes in Brazil: Impacts on Inequality and Poverty." International Poverty Centre Working Paper No. 21, 2006.
-[^23]: Neri, Marcelo Côrtes. *The New Middle Class in Brazil*. FGV/CPS, 2010.
+
+[^23]: Neri, Marcelo Côrtes. _The New Middle Class in Brazil_. FGV/CPS, 2010.
+
 [^24]: Barros, Ricardo Paes de, et al. "Determinants of the Fall in Income Inequality in Brazil, 2001-2009." World Bank Policy Research Working Paper No. 5460, 2010.
-[^25]: Lustig, Nora, et al. "The Impact of Taxes and Social Spending on Inequality and Poverty in Argentina, Bolivia, Brazil, Mexico, Peru, and Uruguay: Introduction to the Special Issue." *Public Finance Review* 42, no. 3 (2014): 287-303.
-[^26]: Barbosa, Nelson, and José Antonio Pereira de Souza. "The Inflection of the Government Economic Policy in the Second Term of President Lula." *New Global Development* 8, no. 1 (2010): 89-105.
-[^27]: Hochstetler, Kathryn, and Alfred Montero. "The Renewed Developmental State: The National Development Bank and the Brazil Model." *Journal of Development Studies* 49, no. 11 (2013): 1484-1499.
-[^28]: Narlikar, Amrita, and Diana Tussie. "The G20 at the Cancun Ministerial: Developing Countries and Their Evolving Coalitions in the WTO." *The World Economy* 27, no. 7 (2004): 947-966.
-[^29]: Burges, Sean W. "Without Sticks or Carrots: Brazilian Leadership in South America During the Cardoso Era, 1992-2003." *Bulletin of Latin American Research* 25, no. 1 (2006): 23-42.
-[^30]: McCowan, Tristan. "Expansion Without Equity: An Analysis of Current Policy on Access to Higher Education in Brazil." *Higher Education* 53, no. 5 (2007): 579-598.
-[^31]: Schwartzman, Simon. "Higher Education in Brazil: The Stakeholders." In *The Dialogue on Higher Education*, edited by Philip G. Altbach and Jorge Balán, 181-203. Palgrave Macmillan, 2007.
-[^32]: Coslovsky, Salo V., et al. "Economic Development Without Corruption: Frontier Mechanisms to Combine Growth and Integrity." *Novos Estudos CEBRAP* 100 (2014): 49-76.
-[^33]: Ramalho, André. "Brazil's Pre-Salt: Achievements and Challenges." *Journal of Energy and Natural Resources Law* 30, no. 2 (2012): 207-226.
+
+[^25]: Lustig, Nora, et al. "The Impact of Taxes and Social Spending on Inequality and Poverty in Argentina, Bolivia, Brazil, Mexico, Peru, and Uruguay: Introduction to the Special Issue." _Public Finance Review_ 42, no. 3 (2014): 287-303.
+
+[^26]: Barbosa, Nelson, and José Antonio Pereira de Souza. "The Inflection of the Government Economic Policy in the Second Term of President Lula." _New Global Development_ 8, no. 1 (2010): 89-105.
+
+[^27]: Hochstetler, Kathryn, and Alfred Montero. "The Renewed Developmental State: The National Development Bank and the Brazil Model." _Journal of Development Studies_ 49, no. 11 (2013): 1484-1499.
+
+[^28]: Narlikar, Amrita, and Diana Tussie. "The G20 at the Cancun Ministerial: Developing Countries and Their Evolving Coalitions in the WTO." _The World Economy_ 27, no. 7 (2004): 947-966.
+
+[^29]: Burges, Sean W. "Without Sticks or Carrots: Brazilian Leadership in South America During the Cardoso Era, 1992-2003." _Bulletin of Latin American Research_ 25, no. 1 (2006): 23-42.
+
+[^30]: McCowan, Tristan. "Expansion Without Equity: An Analysis of Current Policy on Access to Higher Education in Brazil." _Higher Education_ 53, no. 5 (2007): 579-598.
+
+[^31]: Schwartzman, Simon. "Higher Education in Brazil: The Stakeholders." In _The Dialogue on Higher Education_, edited by Philip G. Altbach and Jorge Balán, 181-203. Palgrave Macmillan, 2007.
+
+[^32]: Coslovsky, Salo V., et al. "Economic Development Without Corruption: Frontier Mechanisms to Combine Growth and Integrity." _Novos Estudos CEBRAP_ 100 (2014): 49-76.
+
+[^33]: Ramalho, André. "Brazil's Pre-Salt: Achievements and Challenges." _Journal of Energy and Natural Resources Law_ 30, no. 2 (2012): 207-226.
+
 [^34]: Datafolha Institute. "Avaliação da Presidente Dilma Rousseff." Survey data, December 2010.
-[^35]: Anderson, Perry. "Lula's Brazil." *London Review of Books* 33, no. 7 (2011): 3-12.
-[^36]: Watts, Jonathan. "Lula Returns to Power Vowing to Restore Amazon Protection." *The Guardian*, January 2, 2023.
-[^37]: Taylor, Matthew M. "The Limits of Judicial Independence: A Model with Illustration from Venezuela Under Chávez." *Journal of Latin American Studies* 46, no. 2 (2014): 229-259.
-[^38]: Brazil Supreme Court. *Action Penal 470*, Decision rendered August 2012.
-[^39]: Watts, Jonathan. "Operation Car Wash: Is This the Biggest Corruption Scandal in History?" *The Guardian*, June 1, 2017.
-[^40]: Tribunal Regional Federal da 4ª Região. *Ação Penal No. 5046512-94.2016.4.04.7000*, Conviction rendered July 12, 2017.
-[^41]: Phillips, Dom. "Brazil's Lula Begins Prison Sentence for Corruption." *The Washington Post*, April 7, 2018.
-[^42]: Londoño, Ernesto. "Jair Bolsonaro Wins Brazil's Presidency, in a Shift to the Far Right." *The New York Times*, October 28, 2018.
-[^43]: Brazil Supreme Court. *Habeas Corpus No. 193.726*, Decision rendered March 8, 2021.
-[^44]: Andreoni, Manuela, and Jack Nicas. "Brazil's Top Court Annuls Lula's Convictions, Enabling a Potential Presidential Run." *The New York Times*, March 8, 2021.
-[^45]: Fishlow, Albert. *Starting Over: Brazil Since 1985*. Brookings Institution Press, 2011, pp. 112-128.
-[^46]: Baer, Werner. *The Brazilian Economy: Growth and Development*. 7th ed. Lynne Rienner Publishers, 2014, pp. 298-312.
+
+[^35]: Anderson, Perry. "Lula's Brazil." _London Review of Books_ 33, no. 7 (2011): 3-12.
+
+[^36]: Watts, Jonathan. "Lula Returns to Power Vowing to Restore Amazon Protection." _The Guardian_, January 2, 2023.
+
+[^37]: Taylor, Matthew M. "The Limits of Judicial Independence: A Model with Illustration from Venezuela Under Chávez." _Journal of Latin American Studies_ 46, no. 2 (2014): 229-259.
+
+[^38]: Brazil Supreme Court. _Action Penal 470_, Decision rendered August 2012.
+
+[^39]: Watts, Jonathan. "Operation Car Wash: Is This the Biggest Corruption Scandal in History?" _The Guardian_, June 1, 2017.
+
+[^40]: Tribunal Regional Federal da 4ª Região. _Ação Penal No. 5046512-94.2016.4.04.7000_, Conviction rendered July 12, 2017.
+
+[^41]: Phillips, Dom. "Brazil's Lula Begins Prison Sentence for Corruption." _The Washington Post_, April 7, 2018.
+
+[^42]: Londoño, Ernesto. "Jair Bolsonaro Wins Brazil's Presidency, in a Shift to the Far Right." _The New York Times_, October 28, 2018.
+
+[^43]: Brazil Supreme Court. _Habeas Corpus No. 193.726_, Decision rendered March 8, 2021.
+
+[^44]: Andreoni, Manuela, and Jack Nicas. "Brazil's Top Court Annuls Lula's Convictions, Enabling a Potential Presidential Run." _The New York Times_, March 8, 2021.
+
+[^45]: Fishlow, Albert. _Starting Over: Brazil Since 1985_. Brookings Institution Press, 2011, pp. 112-128.
+
+[^46]: Baer, Werner. _The Brazilian Economy: Growth and Development_. 7th ed. Lynne Rienner Publishers, 2014, pp. 298-312.
+
 [^47]: Brands, Hal. "Dilemmas of Brazilian Grand Strategy." Strategic Studies Institute, U.S. Army War College, 2010.
-[^48]: Spektor, Matias. "Brazil: Shadows of the Past and Contested Ambitions." In *The Oxford Handbook of Modern Diplomacy*, edited by Andrew F. Cooper, Jorge Heine, and Ramesh Thakur, 674-691. Oxford University Press, 2013.
-[^49]: Nepstad, Daniel, et al. "Slowing Amazon Deforestation Through Public Policy and Interventions in Beef and Soy Supply Chains." *Science* 344, no. 6188 (2014): 1118-1123.
-[^50]: Fearnside, Philip M. "Soybean Cultivation as a Threat to the Environment in Brazil." *Environmental Conservation* 28, no. 1 (2001): 23-38.
-[^51]: Morais, Fernando. *Lula*, pp. 102-108.
-[^52]: Bourne, Richard. *Lula of Brazil*, p. 31.
-[^53]: Phillips, Dom. "Marisa Letícia Lula da Silva, Wife of Former Brazilian President, Dies at 66." *The Washington Post*, February 3, 2017.
-[^54]: Andreoni, Manuela. "Lula Marries Rosângela da Silva in São Paulo Ceremony." *The New York Times*, May 18, 2022.
-[^55]: Alessi, Gil. "Janja, la socióloga que se ha convertido en la mano derecha de Lula." *El País*, November 2, 2022.
-[^56]: Hunter, Wendy. *The Transformation of the Workers' Party in Brazil*, pp. 45-49.
-[^57]: Singer, André. *Os Sentidos do Lulismo*, pp. 23-38.
-[^58]: Amorim Neto, Octavio. "The Presidential Calculus: Executive Policy Making and Cabinet Formation in the Americas." *Comparative Political Studies* 39, no. 4 (2006): 415-440.
-[^59]: Dimenstein, Gilberto. "O nome Lula." *Folha de S.Paulo*, May 14, 1989.
-[^60]: Tribunal Regional Federal da 4ª Região. *Ação Penal No. 5046512-94.2016.4.04.7000*, Evidence documentation.
-[^61]: Morais, Fernando. *Lula*, pp. 456-462.
-[^62]: Huber, Evelyne, and John D. Stephens. "Successful Social Policy Regimes? Political Economy, Politics, and Social Policy in Argentina, Chile, Uruguay, and Costa Rica." In *Democratic Brazil Revisited*, edited by Peter R. Kingstone and Timothy J. Power, 155-210. University of Pittsburgh Press, 2008.
-[^63]: Fiszbein, Ariel, and Norbert Schady. *Conditional Cash Transfers: Reducing Present and Future Poverty*. World Bank Publications, 2009.
-[^64]: Levitsky, Steven, and Kenneth M. Roberts, eds. *The Resurgence of the Latin American Left*. Johns Hopkins University Press, 2011.
-[^65]: Winters, Matthew S., and Rebecca Weitz-Shapiro. "Lacking Information or Condoning Corruption: When Do Voters Support Corrupt Politicians?" *Comparative Politics* 45, no. 4 (2013): 418-436.
-[^66]: Barbosa, Nelson. "Brazil: Economic Performance and Perspectives." *Journal of Post Keynesian Economics* 38, no. 3 (2015): 325-344.
-[^67]: Cannon, Barry. "Brazil: From Jail to Palace (Again)." *Latin American Perspectives* 50, no. 1 (2023): 19-34.
-[^68]: Samuels, David, and Cesar Zucco. "Lulismo, Petismo, and the Future of Brazilian Politics." *Journal of Politics in Latin America* 10, no. 1 (2018): 129-158.
-[^69]: Hunter, Wendy, and Timothy J. Power. "Bolsonaro and Brazil's Illiberal Backlash." *Journal of Democracy* 30, no. 1 (2019): 68-82.
-[^70]: Weyland, Kurt, Raúl L. Madrid, and Wendy Hunter, eds. *Leftist Governments in Latin America: Successes and Shortcomings*. Cambridge University Press, 2010.
-[^71]: Hurrell, Andrew. "Brazil and the New Global Order." *Current History* 109, no. 724 (2010): 60-66.
-[^72]: Sotero, Paulo. "Brazil's Rising Ambition in a Shifting Global Balance of Power." *Politics* 30, no. 1 (2010): 71-81.
-[^73]: French, John D. *Lula and His Politics of Cunning: From Metalworker to President of Brazil*. University of North Carolina Press, 2020, p. 312.
-[^74]: Stiglitz, Joseph E. "Foreword." In *Reinventing State Capitalism: Leviathan in Business, Brazil and Beyond*, edited by Aldo Musacchio and Sergio G. Lazzarini, vii-x. Harvard University Press, 2014.
+
+[^48]: Spektor, Matias. "Brazil: Shadows of the Past and Contested Ambitions." In _The Oxford Handbook of Modern Diplomacy_, edited by Andrew F. Cooper, Jorge Heine, and Ramesh Thakur, 674-691. Oxford University Press, 2013.
+
+[^49]: Nepstad, Daniel, et al. "Slowing Amazon Deforestation Through Public Policy and Interventions in Beef and Soy Supply Chains." _Science_ 344, no. 6188 (2014): 1118-1123.
+
+[^50]: Fearnside, Philip M. "Soybean Cultivation as a Threat to the Environment in Brazil." _Environmental Conservation_ 28, no. 1 (2001): 23-38.
+
+[^51]: Morais, Fernando. _Lula_, pp. 102-108.
+
+[^52]: Bourne, Richard. _Lula of Brazil_, p. 31.
+
+[^53]: Phillips, Dom. "Marisa Letícia Lula da Silva, Wife of Former Brazilian President, Dies at 66." _The Washington Post_, February 3, 2017.
+
+[^54]: Andreoni, Manuela. "Lula Marries Rosângela da Silva in São Paulo Ceremony." _The New York Times_, May 18, 2022.
+
+[^55]: Alessi, Gil. "Janja, la socióloga que se ha convertido en la mano derecha de Lula." _El País_, November 2, 2022.
+
+[^56]: Hunter, Wendy. _The Transformation of the Workers' Party in Brazil_, pp. 45-49.
+
+[^57]: Singer, André. _Os Sentidos do Lulismo_, pp. 23-38.
+
+[^58]: Amorim Neto, Octavio. "The Presidential Calculus: Executive Policy Making and Cabinet Formation in the Americas." _Comparative Political Studies_ 39, no. 4 (2006): 415-440.
+
+[^59]: Dimenstein, Gilberto. "O nome Lula." _Folha de S.Paulo_, May 14, 1989.
+
+[^60]: Tribunal Regional Federal da 4ª Região. _Ação Penal No. 5046512-94.2016.4.04.7000_, Evidence documentation.
+
+[^61]: Morais, Fernando. _Lula_, pp. 456-462.
+
+[^62]: Huber, Evelyne, and John D. Stephens. "Successful Social Policy Regimes? Political Economy, Politics, and Social Policy in Argentina, Chile, Uruguay, and Costa Rica." In _Democratic Brazil Revisited_, edited by Peter R. Kingstone and Timothy J. Power, 155-210. University of Pittsburgh Press, 2008.
+
+[^63]: Fiszbein, Ariel, and Norbert Schady. _Conditional Cash Transfers: Reducing Present and Future Poverty_. World Bank Publications, 2009.
+
+[^64]: Levitsky, Steven, and Kenneth M. Roberts, eds. _The Resurgence of the Latin American Left_. Johns Hopkins University Press, 2011.
+
+[^65]: Winters, Matthew S., and Rebecca Weitz-Shapiro. "Lacking Information or Condoning Corruption: When Do Voters Support Corrupt Politicians?" _Comparative Politics_ 45, no. 4 (2013): 418-436.
+
+[^66]: Barbosa, Nelson. "Brazil: Economic Performance and Perspectives." _Journal of Post Keynesian Economics_ 38, no. 3 (2015): 325-344.
+
+[^67]: Cannon, Barry. "Brazil: From Jail to Palace (Again)." _Latin American Perspectives_ 50, no. 1 (2023): 19-34.
+
+[^68]: Samuels, David, and Cesar Zucco. "Lulismo, Petismo, and the Future of Brazilian Politics." _Journal of Politics in Latin America_ 10, no. 1 (2018): 129-158.
+
+[^69]: Hunter, Wendy, and Timothy J. Power. "Bolsonaro and Brazil's Illiberal Backlash." _Journal of Democracy_ 30, no. 1 (2019): 68-82.
+
+[^70]: Weyland, Kurt, Raúl L. Madrid, and Wendy Hunter, eds. _Leftist Governments in Latin America: Successes and Shortcomings_. Cambridge University Press, 2010.
+
+[^71]: Hurrell, Andrew. "Brazil and the New Global Order." _Current History_ 109, no. 724 (2010): 60-66.
+
+[^72]: Sotero, Paulo. "Brazil's Rising Ambition in a Shifting Global Balance of Power." _Politics_ 30, no. 1 (2010): 71-81.
+
+[^73]: French, John D. _Lula and His Politics of Cunning: From Metalworker to President of Brazil_. University of North Carolina Press, 2020, p. 312.
+
+[^74]: Stiglitz, Joseph E. "Foreword." In _Reinventing State Capitalism: Leviathan in Business, Brazil and Beyond_, edited by Aldo Musacchio and Sergio G. Lazzarini, vii-x. Harvard University Press, 2014.
+
 [^75]: Obama, Barack. Remarks at the G20 Summit, London, April 2, 2009. White House Archives.
-[^76]: "Brazil Takes Off." *The Economist*, November 12, 2009.
-[^77]: Power, Timothy J. "Brazilian Democracy as a Late Bloomer: Reevaluating the Regime in the Cardoso-Lula Era." *Latin American Research Review* 45 (2010): 218-247.
-[^78]: Greenwald, Glenn, and Victor Pougy. "Hidden Plot: How Leaked Messages Expose a Brazilian Judge's Conspiracy to Imprison Lula and Doom the Left." *The Intercept*, June 9, 2019.
-[^79]: Brazil Supreme Court. *Habeas Corpus No. 193.726*, Detailed Opinion, March 2021.
+
+[^76]: "Brazil Takes Off." _The Economist_, November 12, 2009.
+
+[^77]: Power, Timothy J. "Brazilian Democracy as a Late Bloomer: Reevaluating the Regime in the Cardoso-Lula Era." _Latin American Research Review_ 45 (2010): 218-247.
+
+[^78]: Greenwald, Glenn, and Victor Pougy. "Hidden Plot: How Leaked Messages Expose a Brazilian Judge's Conspiracy to Imprison Lula and Doom the Left." _The Intercept_, June 9, 2019.
+
+[^79]: Brazil Supreme Court. _Habeas Corpus No. 193.726_, Detailed Opinion, March 2021.
+
 [^80]: Nepstad, Daniel, et al. "Slowing Amazon Deforestation Through Public Policy," pp. 1118-1123.
-[^81]: Spring, Jake. "Brazil's Lula Vows 'Zero Deforestation' in Amazon by 2030." *Reuters*, November 16, 2022.
-[^82]: Almeida, Alberto Carlos. "Why Lula? The Rise of a Brazilian Politician." *Journal of Democracy* 15, no. 2 (2004): 166-172.
-[^83]: Fishlow, Albert. *Starting Over: Brazil Since 1985*, pp. 124-128.
-[^84]: Campos Neto, Roberto. "Economic Policy Under Lula." *Brazilian Journal of Political Economy* 31, no. 2 (2011): 214-231.
-[^85]: Baer, Werner. *The Brazilian Economy*, pp. 305-310.
-[^86]: Moisés, José Álvaro. "Political Corruption and Democracy in Contemporary Brazil." *Revista Brasileira de Ciências Sociais* 26, no. 6 (2011): 43-62.
-[^87]: Abranches, Sergio. "Lula's Legacy: Greatness and Contradictions." In *Routledge Handbook of Brazilian Politics*, edited by Barry Ames, 89-105. Routledge, 2018.
-[^88]: Trinkunas, Harold. "The Logic of Venezuelan Foreign Policy During the Chávez Period." In *Venezuela's Petro-Diplomacy*, edited by Ralph S. Clem and Anthony P. Maingot, 15-32. University Press of Florida, 2011.
+
+[^81]: Spring, Jake. "Brazil's Lula Vows 'Zero Deforestation' in Amazon by 2030." _Reuters_, November 16, 2022.
+
+[^82]: Almeida, Alberto Carlos. "Why Lula? The Rise of a Brazilian Politician." _Journal of Democracy_ 15, no. 2 (2004): 166-172.
+
+[^83]: Fishlow, Albert. _Starting Over: Brazil Since 1985_, pp. 124-128.
+
+[^84]: Campos Neto, Roberto. "Economic Policy Under Lula." _Brazilian Journal of Political Economy_ 31, no. 2 (2011): 214-231.
+
+[^85]: Baer, Werner. _The Brazilian Economy_, pp. 305-310.
+
+[^86]: Moisés, José Álvaro. "Political Corruption and Democracy in Contemporary Brazil." _Revista Brasileira de Ciências Sociais_ 26, no. 6 (2011): 43-62.
+
+[^87]: Abranches, Sergio. "Lula's Legacy: Greatness and Contradictions." In _Routledge Handbook of Brazilian Politics_, edited by Barry Ames, 89-105. Routledge, 2018.
+
+[^88]: Trinkunas, Harold. "The Logic of Venezuelan Foreign Policy During the Chávez Period." In _Venezuela's Petro-Diplomacy_, edited by Ralph S. Clem and Anthony P. Maingot, 15-32. University Press of Florida, 2011.
+
 [^89]: Human Rights Watch. "Brazil: Lula Should Press Maduro on Rights." Press release, May 29, 2023.
-[^90]: Oliveira, Francisco de. "The Duckbilled Platypus." *New Left Review* 24 (2003): 40-57.
-[^91]: Pochmann, Marcio. "Políticas Sociais e Padrão de Mudanças no Brasil Durante o Governo Lula." *SER Social* 13, no. 28 (2011): 12-40.
+
+[^90]: Oliveira, Francisco de. "The Duckbilled Platypus." _New Left Review_ 24 (2003): 40-57.
+
+[^91]: Pochmann, Marcio. "Políticas Sociais e Padrão de Mudanças no Brasil Durante o Governo Lula." _SER Social_ 13, no. 28 (2011): 12-40.
+
 [^92]: Da Silva, Luiz Inácio Lula. Inaugural Address. Brasília, January 1, 2003. Official Transcript.
+
 [^93]: Darlington, Shasta, and Flora Charner. "Brazil's Lula Leaves Prison, Vows to Prove His Innocence." CNN, November 9, 2019.
-[^94]: Da Silva, Luiz Inácio Lula. Campaign Speech, São Paulo, October 2002. Quoted in *Folha de S.Paulo*, October 27, 2002.
-[^95]: Phillips, Tom. "Brazil's Lula Convicted of Corruption and Sentenced to Nine Years in Prison." *The Guardian*, July 12, 2017.
+
+[^94]: Da Silva, Luiz Inácio Lula. Campaign Speech, São Paulo, October 2002. Quoted in _Folha de S.Paulo_, October 27, 2002.
+
+[^95]: Phillips, Tom. "Brazil's Lula Convicted of Corruption and Sentenced to Nine Years in Prison." _The Guardian_, July 12, 2017.
+
 [^96]: Da Silva, Luiz Inácio Lula. Speech at United Nations General Assembly, September 23, 2003. UN Official Records.

@@ -221,47 +221,47 @@ The scholarly consensus among critics is perhaps best summarized in the judgment
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 157 BC | Born in Cereatae near Arpinum, Latium |
-| 134 BC | Served as military officer under Scipio Aemilianus at Siege of Numantia in Spain |
-| 119 BC | Elected tribune of the plebs; passed law limiting aristocratic interference in elections |
-| 115 BC | Elected praetor; became governor of Further Spain |
-| 110 BC | Married Julia, aunt of Julius Caesar |
-| 109 BC | Joined Quintus Caecilius Metellus as legate in campaign against Jugurtha in Numidia |
-| 107 BC | First consulship; given command of Jugurthine War; opened military recruitment to propertyless citizens |
-| 105 BC | Jugurtha captured and betrayed by King Bocchus to Sulla; Battle of Arausio (Roman defeat) |
-| 104 BC | Second consulship; began campaigns against Cimbri and Teutones |
-| 103 BC | Third consulship (consecutive) |
-| 102 BC | Fourth consulship (consecutive); defeated Teutones and Ambrones at Battle of Aquae Sextiae |
-| 101 BC | Fifth consulship (consecutive); defeated Cimbri at Battle of Vercellae, saving Rome from Germanic invasion |
-| 100 BC | Sixth consulship (consecutive) |
-| 88 BC | Attempted to seize command of war against Mithridates from Sulla; Sulla marched on Rome; Marius fled to Africa in exile |
-| 87 BC | Returned to Italy with army; seized Rome with Cinna; unleashed proscriptions killing approximately 100 political opponents |
-| 86 BC | Seventh consulship; died of pleurisy in mid-January, weeks into his term, at approximately age 70 |
+| Year      | Event                                                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| c. 157 BC | Born in Cereatae near Arpinum, Latium                                                                                      |
+| 134 BC    | Served as military officer under Scipio Aemilianus at Siege of Numantia in Spain                                           |
+| 119 BC    | Elected tribune of the plebs; passed law limiting aristocratic interference in elections                                   |
+| 115 BC    | Elected praetor; became governor of Further Spain                                                                          |
+| 110 BC    | Married Julia, aunt of Julius Caesar                                                                                       |
+| 109 BC    | Joined Quintus Caecilius Metellus as legate in campaign against Jugurtha in Numidia                                        |
+| 107 BC    | First consulship; given command of Jugurthine War; opened military recruitment to propertyless citizens                    |
+| 105 BC    | Jugurtha captured and betrayed by King Bocchus to Sulla; Battle of Arausio (Roman defeat)                                  |
+| 104 BC    | Second consulship; began campaigns against Cimbri and Teutones                                                             |
+| 103 BC    | Third consulship (consecutive)                                                                                             |
+| 102 BC    | Fourth consulship (consecutive); defeated Teutones and Ambrones at Battle of Aquae Sextiae                                 |
+| 101 BC    | Fifth consulship (consecutive); defeated Cimbri at Battle of Vercellae, saving Rome from Germanic invasion                 |
+| 100 BC    | Sixth consulship (consecutive)                                                                                             |
+| 88 BC     | Attempted to seize command of war against Mithridates from Sulla; Sulla marched on Rome; Marius fled to Africa in exile    |
+| 87 BC     | Returned to Italy with army; seized Rome with Cinna; unleashed proscriptions killing approximately 100 political opponents |
+| 86 BC     | Seventh consulship; died of pleurisy in mid-January, weeks into his term, at approximately age 70                          |
 
 ---
 
 ## Famous Quotes
 
 > "The law speaks too softly to be heard amidst the din of arms."
-> 
+>
 > This quote, attributed to Marius during the period of civil conflict, reflects his justification for using military force to achieve political objectives, essentially arguing that legal niceties become irrelevant when armies are involved—a dangerous principle that helped normalize the use of violence in Roman politics.[^121]
 
 > "I did not learn to read Greek; there seemed little point in learning a language whose teachers were slaves."
-> 
+>
 > This quote (reported by Plutarch) reveals Marius's attitude toward Greek culture and education, which the Roman aristocracy typically embraced. It demonstrates both his rough, military character and his appeal to Roman traditionalists who viewed Greek cultural influence with suspicion.[^122]
 
 > "In war, events of importance are the result of trivial causes."
-> 
+>
 > Attributed to Marius, this quote reflects his military wisdom and understanding that small tactical decisions and seemingly minor factors could determine the outcome of battles. It demonstrates the strategic insight that made him a successful general.[^123]
 
 > "I carry my decorations on my body."
-> 
+>
 > When criticized by aristocrats for lacking distinguished ancestry, Marius reportedly gestured to his battle scars, arguing that his military service and wounds represented honors superior to inherited family names. This quote encapsulates his self-made identity and challenge to aristocratic privilege.[^124]
 
-> "Perhaps this is the man" 
-> 
+> "Perhaps this is the man"
+>
 > While not Marius's own words, but rather Scipio Aemilianus's comment about the young Marius at Numantia (according to Plutarch), this quote proved prophetic. It represents the moment when Rome's established military elite first recognized Marius's exceptional potential, foreshadowing his future role as Rome's defender.[^125]
 
 ---
@@ -269,127 +269,251 @@ The scholarly consensus among critics is perhaps best summarized in the judgment
 ## References
 
 [^1]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^2]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^3]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^4]: [The Tumultuous Life of Gaius Marius, the Roman General Who Broke All Rules | TheCollector](https://www.thecollector.com/gaius-marius-roman-general/)
+
 [^5]: [Gaius Marius | UNRV Roman History](https://www.unrv.com/empire/gaius-marius.php)
+
 [^6]: [Gaius Marius | Biography, Significance & Accomplishments | Study.com](https://study.com/academy/lesson/gaius-marius-biography-quotes-quiz.html)
+
 [^7]: [Biography for Kids: Gaius Marius](https://www.ducksters.com/history/ancient_rome/gaius_marius.php)
+
 [^8]: [Gaius Marius | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/gaius-marius)
+
 [^9]: [Gaius Marius Biography - Facts, Childhood, Life History, Timeline of Roman General & Politician](https://www.thefamouspeople.com/profiles/gaius-marius-35559.php)
+
 [^10]: [Gaius Marius and the Social War – Ancient Rome – Sourcebook and Historical Atlas](https://colorado.pressbooks.pub/ancientrome/chapter/gaius-marius-and-the-social-war/)
+
 [^11]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^12]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^13]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^14]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^15]: [The Tumultuous Life of Gaius Marius, the Roman General Who Broke All Rules | TheCollector](https://www.thecollector.com/gaius-marius-roman-general/)
+
 [^16]: [Gaius Marius | UNRV Roman History](https://www.unrv.com/empire/gaius-marius.php)
+
 [^17]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^18]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^19]: [The Tumultuous Life of Gaius Marius, the Roman General Who Broke All Rules | TheCollector](https://www.thecollector.com/gaius-marius-roman-general/)
+
 [^20]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^21]: [Julia (1) - Livius](https://www.livius.org/articles/person/julia-1/)
+
 [^22]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^23]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^24]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^25]: [The Tumultuous Life of Gaius Marius, the Roman General Who Broke All Rules | TheCollector](https://www.thecollector.com/gaius-marius-roman-general/)
+
 [^26]: [Marian reforms - Wikipedia](https://en.wikipedia.org/wiki/Marian_reforms)
+
 [^27]: [Marian Reforms - World History Encyclopedia](https://www.worldhistory.org/article/1598/marian-reforms/)
+
 [^28]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^29]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^30]: [Gaius Marius' Reforms That Transformed the Roman Army](https://resmilitares.com/en/legionary-reforms-how-gaius-marius/)
+
 [^31]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^32]: [Marian reforms - Wikipedia](https://en.wikipedia.org/wiki/Marian_reforms)
+
 [^33]: [Marian reforms « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/roman-army/marian-reforms/)
+
 [^34]: [Gaius Marius Creates a Private Army | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/military-history-and-science/gaius-marius-creates-private-army)
+
 [^35]: [The Marian Reforms | The turning point in Roman history](https://u.osu.edu/marduburn/)
+
 [^36]: [2.2 Marius and Military Reform - Classicalia](https://classicalia.co.uk/classical-civ/politics/topic2-2.html)
+
 [^37]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^38]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^39]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^40]: [Marian reforms - Wikipedia](https://en.wikipedia.org/wiki/Marian_reforms)
+
 [^41]: [Marian Reforms - World History Encyclopedia](https://www.worldhistory.org/article/1598/marian-reforms/)
+
 [^42]: [Marian reforms « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/roman-army/marian-reforms/)
+
 [^43]: [Marian reforms - Wikipedia](https://en.wikipedia.org/wiki/Marian_reforms)
+
 [^44]: [The Role of Marius's Military Reforms in the Decline of the Roman Republic](https://wou.edu/history/files/2015/08/andrewwhite.pdf)
+
 [^45]: [Marian Reforms - World History Encyclopedia](https://www.worldhistory.org/article/1598/marian-reforms/)
+
 [^46]: [What were the impact of the military reforms of Marius on Rome - DailyHistory.org](https://www.dailyhistory.org/What_were_the_impact_of_the_military_reforms_of_Marius_on_Rome)
+
 [^47]: [How a Commoner Changed the Course of History: The Military Reforms of Gaius Marius That Forged Rome's Invincible War Machine | by SPQR | Ancient Rome and the Ancient World | Medium](https://medium.com/@ancient.rome/how-a-commoner-changed-the-course-of-history-the-military-reforms-of-gaius-marius-that-forged-28c90b2a23f5)
+
 [^48]: [Marius vs. Sulla: Rivalry that Shattered the Roman Republic](https://gertitashkomd.com/marius-vs-sulla-rivalry-that-shattered-the-roman-republic/)
+
 [^49]: [Sulla's civil war - Wikipedia](https://en.wikipedia.org/wiki/Sulla's_civil_war)
+
 [^50]: [Civil War between Marius and Sulla](https://www.heritage-history.com/index.php?c=resources&s=war-dir&f=wars_sullacivil)
+
 [^51]: [Sulla - Wikipedia](https://en.wikipedia.org/wiki/Sulla)
+
 [^52]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^53]: [Marius and Sulla](https://www.yaggyslatin.com/Mariusandsulla.html)
+
 [^54]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^55]: [Marius vs. Sulla: Rivalry that Shattered the Roman Republic](https://gertitashkomd.com/marius-vs-sulla-rivalry-that-shattered-the-roman-republic/)
+
 [^56]: [Civil War between Marius and Sulla](https://www.heritage-history.com/index.php?c=resources&s=war-dir&f=wars_sullacivil)
+
 [^57]: [Marius and Sulla | Ancient Rome Class Notes | Fiveable](https://fiveable.me/ancient-rome/unit-6/marius-sulla/study-guide/SaKDpgMF6w3hXaGX)
+
 [^58]: [Sulla's reign of terror: The bloody proscriptions that legalized murder in ancient Rome - History Skills](https://www.historyskills.com/classroom/ancient-history/sulla-s-proscriptions/)
+
 [^59]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^60]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^61]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^62]: [The Role of Marius's Military Reforms in the Decline of the Roman Republic](https://wou.edu/history/files/2015/08/andrewwhite.pdf)
+
 [^63]: [Marius vs. Sulla: Rivalry that Shattered the Roman Republic](https://gertitashkomd.com/marius-vs-sulla-rivalry-that-shattered-the-roman-republic/)
+
 [^64]: [The Role of Marius's Military Reforms in the Decline of the Roman Republic](https://wou.edu/history/files/2015/08/andrewwhite.pdf)
+
 [^65]: [The Roman Civil War](https://historylearning.com/a-history-of-ancient-rome/the-roman-civil-war/)
+
 [^66]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^67]: [Julia (1) - Livius](https://www.livius.org/articles/person/julia-1/)
+
 [^68]: [Gaius Marius | UNRV Roman History](https://www.unrv.com/empire/gaius-marius.php)
-[^69]: [Gaius Marius (consul 82 BC) - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius_(consul_82_BC))
+
+[^69]: [Gaius Marius (consul 82 BC) - Wikipedia](<https://en.wikipedia.org/wiki/Gaius_Marius_(consul_82_BC)>)
+
 [^70]: [The Tumultuous Life of Gaius Marius, the Roman General Who Broke All Rules | TheCollector](https://www.thecollector.com/gaius-marius-roman-general/)
+
 [^71]: [HwtS 199: The Life of Gaius Marius, pt 1 — History with the Szilagyis](https://historywiththeszilagyis.org/hwts199)
+
 [^72]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^73]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^74]: [Gaius Marius | UNRV Roman History](https://www.unrv.com/empire/gaius-marius.php)
+
 [^75]: [The Tumultuous Life of Gaius Marius, the Roman General Who Broke All Rules | TheCollector](https://www.thecollector.com/gaius-marius-roman-general/)
+
 [^76]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^77]: [(DOC) Gaius Marius: Support and Power | Matthew Leeper - Academia.edu](https://www.academia.edu/37038640/Gaius_Marius_Support_and_Power)
+
 [^78]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^79]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^80]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^81]: [Gaius Marius | Roman General & Consul | Britannica](https://www.britannica.com/biography/Gaius-Marius)
+
 [^82]: [Marian Reforms - World History Encyclopedia](https://www.worldhistory.org/article/1598/marian-reforms/)
+
 [^83]: [Gaius Marius' Reforms That Transformed the Roman Army](https://resmilitares.com/en/legionary-reforms-how-gaius-marius/)
+
 [^84]: [Gaius Marius and the origin of the Roman legions - History Skills](https://www.historyskills.com/classroom/ancient-history/anc-marius-reading/)
+
 [^85]: [Marian reforms - Wikipedia](https://en.wikipedia.org/wiki/Marian_reforms)
+
 [^86]: [Marian reforms « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/roman-army/marian-reforms/)
+
 [^87]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^88]: [The Role of Marius's Military Reforms in the Decline of the Roman Republic](https://wou.edu/history/files/2015/08/andrewwhite.pdf)
+
 [^89]: [Marius vs. Sulla: Rivalry that Shattered the Roman Republic](https://gertitashkomd.com/marius-vs-sulla-rivalry-that-shattered-the-roman-republic/)
+
 [^90]: [Sulla's reign of terror: The bloody proscriptions that legalized murder in ancient Rome - History Skills](https://www.historyskills.com/classroom/ancient-history/sulla-s-proscriptions/)
+
 [^91]: [The Role of Marius's Military Reforms in the Decline of the Roman Republic](https://wou.edu/history/files/2015/08/andrewwhite.pdf)
+
 [^92]: [(DOC) Gaius Marius and his role in the fall of the Roman Republic](https://www.academia.edu/35109080/Gaius_Marius_and_his_role_in_the_fall_of_the_Roman_Republic)
+
 [^93]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^94]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^95]: [Gaius Marius | UNRV Roman History](https://www.unrv.com/empire/gaius-marius.php)
+
 [^96]: [Gaius Marius was the Savior of Ancient Rome, but was he a Hero or Villain? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/gaius-marius-was-savior-ancient-rome-was-he-hero-or-villain-008858)
+
 [^97]: [Marius and Sulla - Classics - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195389661/obo-9780195389661-0352.xml)
+
 [^98]: [Marian reforms - Wikipedia](https://en.wikipedia.org/wiki/Marian_reforms)
+
 [^99]: [(DOC) Gaius Marius and his role in the fall of the Roman Republic](https://www.academia.edu/35109080/Gaius_Marius_and_his_role_in_the_fall_of_the_Roman_Republic)
+
 [^100]: [Gaius Marius was the Savior of Ancient Rome, but was he a Hero or Villain? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/gaius-marius-was-savior-ancient-rome-was-he-hero-or-villain-008858)
+
 [^101]: [Gaius Marius was the Savior of Ancient Rome, but was he a Hero or Villain? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/gaius-marius-was-savior-ancient-rome-was-he-hero-or-villain-008858)
+
 [^102]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^103]: [Gaius Marius' Reforms That Transformed the Roman Army](https://resmilitares.com/en/legionary-reforms-how-gaius-marius/)
+
 [^104]: [Gaius Marius and the origin of the Roman legions - History Skills](https://www.historyskills.com/classroom/ancient-history/anc-marius-reading/)
+
 [^105]: [Marian Reforms - World History Encyclopedia](https://www.worldhistory.org/article/1598/marian-reforms/)
+
 [^106]: [The Role of Marius's Military Reforms in the Decline of the Roman Republic](https://wou.edu/history/files/2015/08/andrewwhite.pdf)
+
 [^107]: [(DOC) Gaius Marius and his role in the fall of the Roman Republic](https://www.academia.edu/35109080/Gaius_Marius_and_his_role_in_the_fall_of_the_Roman_Republic)
+
 [^108]: [Project MUSE -](https://muse.jhu.edu/article/693666/summary)
+
 [^109]: [Sulla's reign of terror: The bloody proscriptions that legalized murder in ancient Rome - History Skills](https://www.historyskills.com/classroom/ancient-history/sulla-s-proscriptions/)
+
 [^110]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^111]: [Marius vs. Sulla: Rivalry that Shattered the Roman Republic](https://gertitashkomd.com/marius-vs-sulla-rivalry-that-shattered-the-roman-republic/)
+
 [^112]: [Sulla's reign of terror: The bloody proscriptions that legalized murder in ancient Rome - History Skills](https://www.historyskills.com/classroom/ancient-history/sulla-s-proscriptions/)
+
 [^113]: [The Roman Civil War](https://historylearning.com/a-history-of-ancient-rome/the-roman-civil-war/)
+
 [^114]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^115]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^116]: [The Role of Marius's Military Reforms in the Decline of the Roman Republic](https://wou.edu/history/files/2015/08/andrewwhite.pdf)
+
 [^117]: [What were the impact of the military reforms of Marius on Rome - DailyHistory.org](https://www.dailyhistory.org/What_were_the_impact_of_the_military_reforms_of_Marius_on_Rome)
+
 [^118]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^119]: [Gaius Marius - Wikipedia](https://en.wikipedia.org/wiki/Gaius_Marius)
+
 [^120]: [(DOC) Gaius Marius and his role in the fall of the Roman Republic](https://www.academia.edu/35109080/Gaius_Marius_and_his_role_in_the_fall_of_the_Roman_Republic)
+
 [^121]: [Gaius Marius | UNRV Roman History](https://www.unrv.com/empire/gaius-marius.php)
+
 [^122]: [The Tumultuous Life of Gaius Marius, the Roman General Who Broke All Rules | TheCollector](https://www.thecollector.com/gaius-marius-roman-general/)
+
 [^123]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)
+
 [^124]: [Gaius Marius | Biography, Significance & Accomplishments | Study.com](https://study.com/academy/lesson/gaius-marius-biography-quotes-quiz.html)
+
 [^125]: [Gaius Marius - World History Encyclopedia](https://www.worldhistory.org/Gaius_Marius/)

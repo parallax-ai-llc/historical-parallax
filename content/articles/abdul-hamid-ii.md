@@ -163,31 +163,31 @@ The contradictory assessments reveal a ruler whose legacy defies simple categori
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1842 | Born on September 21 in Constantinople |
-| 1852 | Mother Tirimüjgan Kadın dies of tuberculosis |
-| 1867 | Visits London as an Ottoman prince |
-| 1876 | Ascends to throne on August 31 after deposition of Murad V |
-| 1876 | Promulgates first Ottoman constitution on December 23 |
-| 1877 | First Ottoman parliamentary election held |
-| 1877 | Russo-Turkish War begins on April 24 |
-| 1878 | Treaty of San Stefano signed in February |
-| 1878 | Treaty of Berlin signed in July; Cyprus ceded to Britain |
-| 1878 | Suspends constitution and dissolves parliament |
-| 1880 | Founds Yıldız Intelligence Agency |
-| 1894 | Hamidian massacres of Armenians begin |
-| 1896 | Hamidian massacres conclude |
+| Year | Event                                                                   |
+| ---- | ----------------------------------------------------------------------- |
+| 1842 | Born on September 21 in Constantinople                                  |
+| 1852 | Mother Tirimüjgan Kadın dies of tuberculosis                            |
+| 1867 | Visits London as an Ottoman prince                                      |
+| 1876 | Ascends to throne on August 31 after deposition of Murad V              |
+| 1876 | Promulgates first Ottoman constitution on December 23                   |
+| 1877 | First Ottoman parliamentary election held                               |
+| 1877 | Russo-Turkish War begins on April 24                                    |
+| 1878 | Treaty of San Stefano signed in February                                |
+| 1878 | Treaty of Berlin signed in July; Cyprus ceded to Britain                |
+| 1878 | Suspends constitution and dissolves parliament                          |
+| 1880 | Founds Yıldız Intelligence Agency                                       |
+| 1894 | Hamidian massacres of Armenians begin                                   |
+| 1896 | Hamidian massacres conclude                                             |
 | 1896 | Refuses Theodor Herzl's offer to purchase Palestinian settlement rights |
-| 1900 | Founds Darülfünun (University of Istanbul) |
-| 1900 | Orders construction of Hejaz Railway in March |
-| 1903 | Baghdad Railway construction begins |
-| 1908 | Young Turk Revolution forces restoration of constitution in July |
-| 1909 | 31 March Incident (counter-revolutionary uprising) in April |
-| 1909 | Deposed by parliament on April 26; exiled to Salonica |
-| 1912 | Returned to Constantinople after Salonica falls to Greece |
-| 1918 | Dies on February 10 at Beylerbeyi Palace |
-| 1918 | Buried in Mausoleum of Mahmud II |
+| 1900 | Founds Darülfünun (University of Istanbul)                              |
+| 1900 | Orders construction of Hejaz Railway in March                           |
+| 1903 | Baghdad Railway construction begins                                     |
+| 1908 | Young Turk Revolution forces restoration of constitution in July        |
+| 1909 | 31 March Incident (counter-revolutionary uprising) in April             |
+| 1909 | Deposed by parliament on April 26; exiled to Salonica                   |
+| 1912 | Returned to Constantinople after Salonica falls to Greece               |
+| 1918 | Dies on February 10 at Beylerbeyi Palace                                |
+| 1918 | Buried in Mausoleum of Mahmud II                                        |
 
 ---
 
@@ -204,105 +204,207 @@ The contradictory assessments reveal a ruler whose legacy defies simple categori
 ## References
 
 [^1]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^2]: Abdulhamid II | Biography, History, & Facts | Britannica, https://www.britannica.com/biography/Abdulhamid-II
+
 [^3]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^4]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^5]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^6]: Sultan Abdulhamid II - Ottomans.Org, http://www.theottomans.org/english/family/abdulhamid2.asp
+
 [^7]: Abdul Hamid II facts for kids, https://kids.kiddle.co/Abdul_Hamid_II
+
 [^8]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^9]: Sultan Abdulhamid II - Ottomans.Org, http://www.theottomans.org/english/family/abdulhamid2.asp
+
 [^10]: Mighty sovereigns of Ottoman throne: Sultan Abdülhamid II | Daily Sabah, https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-abdulhamid-ii
+
 [^11]: Sultan Abdulhamid II - Ottomans.Org, http://www.theottomans.org/english/family/abdulhamid2.asp
+
 [^12]: Smarthistory – Photograph of Abdülhamid II, https://smarthistory.org/photograph-of-abdulhamid-ii/
+
 [^13]: Abdulhamid II | Biography, History, & Facts | Britannica, https://www.britannica.com/biography/Abdulhamid-II
+
 [^14]: Abdul-Hamid II | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/abdul-hamid-ii-0
+
 [^15]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^16]: Ottoman Empire - Abdulhamid II, Reforms, Autocracy | Britannica, https://www.britannica.com/place/Ottoman-Empire/Rule-of-Abdulhamid-II
+
 [^17]: Abdul-Hamid II | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/abdul-hamid-ii-0
+
 [^18]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^19]: Abdulhamid II | Biography, History, & Facts | Britannica, https://www.britannica.com/biography/Abdulhamid-II
+
 [^20]: Sultan Abdul Hamid II | History, https://vocal.media/history/sultan-abdul-hamid-ii
+
 [^21]: Sultan Abdul Hamid II | History, https://vocal.media/history/sultan-abdul-hamid-ii
+
 [^22]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^23]: Ottoman Empire - Abdulhamid II, Reforms, Autocracy | Britannica, https://www.britannica.com/place/Ottoman-Empire/Rule-of-Abdulhamid-II
+
 [^24]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^25]: Ottoman Empire - Abdulhamid II, Reforms, Autocracy | Britannica, https://www.britannica.com/place/Ottoman-Empire/Rule-of-Abdulhamid-II
+
 [^26]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^27]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^28]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^29]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^30]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^31]: Hejaz railway - Wikipedia, https://en.wikipedia.org/wiki/Hejaz_railway
+
 [^32]: Hejaz railway - Wikipedia, https://en.wikipedia.org/wiki/Hejaz_railway
+
 [^33]: Hejaz Railway: History, Stations, And Legacy Of The Ottoman Line • Turkpidya, https://turkpidya.com/hejaz-railway-1/
+
 [^34]: Hejaz Railway: History, Stations, And Legacy Of The Ottoman Line • Turkpidya, https://turkpidya.com/hejaz-railway-1/
+
 [^35]: Ottoman Empire - Abdulhamid II, Reforms, Autocracy | Britannica, https://www.britannica.com/place/Ottoman-Empire/Rule-of-Abdulhamid-II
+
 [^36]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^37]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^38]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^39]: Ottoman Empire - Abdulhamid II, Reforms, Autocracy | Britannica, https://www.britannica.com/place/Ottoman-Empire/Rule-of-Abdulhamid-II
+
 [^40]: Ottoman Empire - Abdulhamid II, Reforms, Autocracy | Britannica, https://www.britannica.com/place/Ottoman-Empire/Rule-of-Abdulhamid-II
+
 [^41]: A Response to Tanzimat: Sultan Abdul Hamid II and Pan-Islamism - Inquiries Journal, http://www.inquiriesjournal.com/articles/252/a-response-to-tanzimat-sultan-abdul-hamid-ii-and-pan-islamism
+
 [^42]: Pan-islamism | Encyclopedia.com, https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/pan-islamism
+
 [^43]: Hamidian massacres - Wikipedia, https://en.wikipedia.org/wiki/Hamidian_massacres
+
 [^44]: Hamidian massacres - Wikipedia, https://en.wikipedia.org/wiki/Hamidian_massacres
+
 [^45]: Hamidian (Armenian) Massacres (1894-1896), https://www.armenian-genocide.org/hamidian.html
+
 [^46]: Hamidian massacres - Wikipedia, https://en.wikipedia.org/wiki/Hamidian_massacres
+
 [^47]: The Anti-Armenian Riots of 1895–1897, https://summit.sfu.ca/_flysystem/fedora/2023-01/etd20061.pdf
+
 [^48]: The Anti-Armenian Riots of 1895–1897, https://summit.sfu.ca/_flysystem/fedora/2023-01/etd20061.pdf
+
 [^49]: Abdulhamid II | Biography, History, & Facts | Britannica, https://www.britannica.com/biography/Abdulhamid-II
+
 [^50]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^51]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^52]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^53]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^54]: Yıldız Intelligence Agency - Wikipedia, https://en.wikipedia.org/wiki/Yıldız_Intelligence_Agency
+
 [^55]: Yıldız Intelligence Agency - Wikipedia, https://en.wikipedia.org/wiki/Yıldız_Intelligence_Agency
+
 [^56]: Yıldız Intelligence Agency - Wikipedia, https://en.wikipedia.org/wiki/Yıldız_Intelligence_Agency
+
 [^57]: Ottoman Sultan Abdul Hamid II - World History Edu, https://worldhistoryedu.com/ottoman-sultan-abdul-hamid-ii/
+
 [^58]: Yıldız Intelligence Agency - Wikipedia, https://en.wikipedia.org/wiki/Yıldız_Intelligence_Agency
+
 [^59]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^60]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^61]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^62]: Sultan Abdul Hamid II, a short biography – Islamic Chronicles, https://islamicchronicles.com/islamic-history/ottoman-empire/sultan-abdul-hamid-ii-a-short-biography/
+
 [^63]: Sultan Abdul Hamid II, a short biography – Islamic Chronicles, https://islamicchronicles.com/islamic-history/ottoman-empire/sultan-abdul-hamid-ii-a-short-biography/
+
 [^64]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^65]: Treaty of Berlin (1878) | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Treaty_of_Berlin_(1878)
+
 [^66]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^67]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^68]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^69]: Consorts – @ottomanladies on Tumblr, https://www.tumblr.com/ottomanladies/626536280771198976/sultan-abdul-hamid-ii-consorts-and-children-take
+
 [^70]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^71]: Consorts – @ottomanladies on Tumblr, https://www.tumblr.com/ottomanladies/626536280771198976/sultan-abdul-hamid-ii-consorts-and-children-take
+
 [^72]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^73]: Smarthistory – Photograph of Abdülhamid II, https://smarthistory.org/photograph-of-abdulhamid-ii/
+
 [^74]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^75]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^76]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^77]: Consorts – @ottomanladies on Tumblr, https://www.tumblr.com/ottomanladies/626536280771198976/sultan-abdul-hamid-ii-consorts-and-children-take
+
 [^78]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^79]: Abdul-Hamid II | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/abdul-hamid-ii-0
+
 [^80]: TRT World - How Theodor Herzl failed to convince the Ottomans to sell Palestine, https://www.trtworld.com/magazine/how-theodor-herzl-failed-to-convince-the-ottomans-to-sell-palestine-46991
+
 [^81]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^82]: Sultan Abdul Hamid's Stand Against Zionism, https://strengthofislam.com/sultan-abdul-hamid-resistance-zionism/
+
 [^83]: TRT World - How Theodor Herzl failed to convince the Ottomans to sell Palestine, https://www.trtworld.com/magazine/how-theodor-herzl-failed-to-convince-the-ottomans-to-sell-palestine-46991
+
 [^84]: The reign of Abdülhamid II (Chapter 3) - The Cambridge History of Turkey, https://www.cambridge.org/core/books/abs/cambridge-history-of-turkey/reign-of-abdulhamid-ii/7A0B219064B9A3F02E0D90B68623B3B6
+
 [^85]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^86]: The legacy of Abdulhamid II, https://www.hurriyetdailynews.com/opinion/nuray-mert/the-legacy-of-abdulhamid-ii-104250
+
 [^87]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^88]: Abdul Hamid II - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Abdul_Hamid_II
+
 [^89]: Mustafa Akyol: Remembering Abdul Hamid II, a pro-American caliph — History News Network, https://www.historynewsnetwork.org/article/mustafa-akyol-remembering-abdul-hamid-ii-a-pro-ame
+
 [^90]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^91]: Ottoman Empire - Abdulhamid II, Reforms, Autocracy | Britannica, https://www.britannica.com/place/Ottoman-Empire/Rule-of-Abdulhamid-II
+
 [^92]: The reign of Abdülhamid II (Chapter 3) - The Cambridge History of Turkey, https://www.cambridge.org/core/books/abs/cambridge-history-of-turkey/reign-of-abdulhamid-ii/7A0B219064B9A3F02E0D90B68623B3B6
+
 [^93]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^94]: Abdul Hamid II – The Last Great Sultan of the Ottoman Empire, https://theothertour.com/abdul-hamid/
+
 [^95]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^96]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^97]: The Paradox of Power: Sultan Abdul Hamid II and the Twilight of the Ottoman Empire – Ancient War History, https://ancientwarhistory.com/the-paradox-of-power-sultan-abdul-hamid-ii-and-the-twilight-of-the-ottoman-empire/
+
 [^98]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East East, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^99]: Abdulhamid II: An autocrat, reformer and the last stand of the Ottoman Empire | Middle East Eye, https://www.middleeasteye.net/discover/abdulhamid-ii-last-stand-ottoman-empire
+
 [^100]: Hamidian (Armenian) Massacres (1894-1896), https://www.armenian-genocide.org/hamidian.html
+
 [^101]: Sultan Abdul Hamid's Stand Against Zionism, https://strengthofislam.com/sultan-abdul-hamid-resistance-zionism/
+
 [^102]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II
+
 [^103]: Abdul Hamid II - Wikipedia, https://en.wikipedia.org/wiki/Abdul_Hamid_II

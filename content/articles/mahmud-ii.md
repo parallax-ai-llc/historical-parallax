@@ -179,38 +179,38 @@ Finally, critics argue that Mahmud's centralization efforts, while administrativ
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1785 | Born July 20 in Constantinople, son of Sultan Abdülhamid I |
-| 1789 | Father Sultan Abdülhamid I dies; Mahmud confined to Kafes (cage) |
-| 1807 | Uncle Sultan Selim III deposed by Janissary revolt |
+| Year | Event                                                                        |
+| ---- | ---------------------------------------------------------------------------- |
+| 1785 | Born July 20 in Constantinople, son of Sultan Abdülhamid I                   |
+| 1789 | Father Sultan Abdülhamid I dies; Mahmud confined to Kafes (cage)             |
+| 1807 | Uncle Sultan Selim III deposed by Janissary revolt                           |
 | 1808 | Half-brother Mustafa IV orders Mahmud's execution; Mahmud survives by hiding |
-| 1808 | Alemdar Mustafa Pasha's coup; Mahmud proclaimed Sultan (July 28) |
-| 1808 | Janissaries revolt, killing Alemdar Mustafa Pasha |
-| 1812 | Treaty of Bucharest with Russia; first son born, securing succession |
-| 1821 | Greek War of Independence begins |
-| 1824 | Declares edict making primary education compulsory |
-| 1826 | Destroys Janissary Corps in "Auspicious Incident" (June 15) |
-| 1826 | Establishes Seraskerlik (Ministry of Defense) |
-| 1827 | Founds Imperial School of Medicine |
-| 1827 | Ottoman-Egyptian fleet destroyed at Battle of Navarino (October 20) |
-| 1827 | Mandates fez as official headdress for military |
-| 1828 | Russo-Turkish War begins; first Ottoman steamships acquired |
-| 1829 | Treaty of Adrianople ends war with territorial losses (September 14) |
-| 1829 | Mahmudiye, world's largest warship, built in Constantinople |
-| 1829 | Fez mandated for all civil and religious officials |
-| 1830 | Acknowledges Greek independence |
-| 1831 | Abolishes military fiefs; census and land survey conducted |
-| 1831 | Henry Eckford arrives to modernize Ottoman naval arsenal |
-| 1831 | Egyptian-Ottoman War begins |
-| 1832 | Decisive defeat at Battle of Konya (December 21) |
-| 1833 | Convention of Kütahya grants Muhammad Ali control of Syria and Egypt |
-| 1834 | Founds Harbiye Military School and new Military Academy |
-| 1834 | Inaugurates postal service; establishes first permanent embassy in Paris |
-| 1838 | Establishes Supreme Council of Judicial Ordinances |
-| 1839 | Introduces Council of Ministers |
-| 1839 | Ottoman forces defeated at Battle of Nizip (June 24) |
-| 1839 | Dies of tuberculosis July 1; succeeded by son Abdülmecid I |
+| 1808 | Alemdar Mustafa Pasha's coup; Mahmud proclaimed Sultan (July 28)             |
+| 1808 | Janissaries revolt, killing Alemdar Mustafa Pasha                            |
+| 1812 | Treaty of Bucharest with Russia; first son born, securing succession         |
+| 1821 | Greek War of Independence begins                                             |
+| 1824 | Declares edict making primary education compulsory                           |
+| 1826 | Destroys Janissary Corps in "Auspicious Incident" (June 15)                  |
+| 1826 | Establishes Seraskerlik (Ministry of Defense)                                |
+| 1827 | Founds Imperial School of Medicine                                           |
+| 1827 | Ottoman-Egyptian fleet destroyed at Battle of Navarino (October 20)          |
+| 1827 | Mandates fez as official headdress for military                              |
+| 1828 | Russo-Turkish War begins; first Ottoman steamships acquired                  |
+| 1829 | Treaty of Adrianople ends war with territorial losses (September 14)         |
+| 1829 | Mahmudiye, world's largest warship, built in Constantinople                  |
+| 1829 | Fez mandated for all civil and religious officials                           |
+| 1830 | Acknowledges Greek independence                                              |
+| 1831 | Abolishes military fiefs; census and land survey conducted                   |
+| 1831 | Henry Eckford arrives to modernize Ottoman naval arsenal                     |
+| 1831 | Egyptian-Ottoman War begins                                                  |
+| 1832 | Decisive defeat at Battle of Konya (December 21)                             |
+| 1833 | Convention of Kütahya grants Muhammad Ali control of Syria and Egypt         |
+| 1834 | Founds Harbiye Military School and new Military Academy                      |
+| 1834 | Inaugurates postal service; establishes first permanent embassy in Paris     |
+| 1838 | Establishes Supreme Council of Judicial Ordinances                           |
+| 1839 | Introduces Council of Ministers                                              |
+| 1839 | Ottoman forces defeated at Battle of Nizip (June 24)                         |
+| 1839 | Dies of tuberculosis July 1; succeeded by son Abdülmecid I                   |
 
 ---
 
@@ -227,129 +227,255 @@ Finally, critics argue that Mahmud's centralization efforts, while administrativ
 ## References
 
 [^1]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^2]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^3]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^4]: Sultan Mahmud II | The Age of Revolution, 1775-1848. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^5]: Mahmud II Biography – Facts, Childhood, Family Life, Achievements. https://www.thefamouspeople.com/profiles/mahmud-ii-38594.php
+
 [^6]: Mahmud II (Grokipedia). https://grokipedia.com/page/Mahmud_II
+
 [^7]: Mahmud II | Encyclopedia.com. https://www.encyclopedia.com/people/history/turkish-and-ottoman-history-biographies/mahmud-ii
+
 [^8]: Ottoman Family - Mahmud II. http://www.theottomans.org/english/family/mahmud2.asp
+
 [^9]: Mahmud II Biography – Facts, Childhood, Family Life, Achievements. https://www.thefamouspeople.com/profiles/mahmud-ii-38594.php
+
 [^10]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^11]: Alemdar Mustafa Pasha - Wikipedia. https://en.wikipedia.org/wiki/Alemdar_Mustafa_Pasha
+
 [^12]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^13]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^14]: Alemdar Mustafa Pasha - Wikipedia. https://en.wikipedia.org/wiki/Alemdar_Mustafa_Pasha
+
 [^15]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^16]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^17]: Alemdar Mustafa Pasha - Wikipedia. https://en.wikipedia.org/wiki/Alemdar_Mustafa_Pasha
+
 [^18]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^19]: Ottoman Family - Mahmud II. http://www.theottomans.org/english/family/mahmud2.asp
+
 [^20]: Reconstructing an empire: Mahmud II's drastic change in state structure | Daily Sabah. https://www.dailysabah.com/feature/2018/07/06/reconstructing-an-empire-mahmud-iis-drastic-change-in-state-structure
+
 [^21]: Mahmud II (Grokipedia). https://grokipedia.com/page/Mahmud_II
+
 [^22]: Reconstructing an empire: Mahmud II's drastic change in state structure | Daily Sabah. https://www.dailysabah.com/feature/2018/07/06/reconstructing-an-empire-mahmud-iis-drastic-change-in-state-structure
+
 [^23]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^24]: Ottomans Suppress the Janissary Revolt | EBSCO Research. https://www.ebsco.com/research-starters/history/ottomans-suppress-janissary-revolt
+
 [^25]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^26]: Ottomans Suppress the Janissary Revolt | EBSCO Research. https://www.ebsco.com/research-starters/history/ottomans-suppress-janissary-revolt
+
 [^27]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^28]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^29]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^30]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^31]: Ottoman Empire - Expansion, Reforms, Collapse | Britannica. https://www.britannica.com/place/Ottoman-Empire/The-empire-from-1807-to-1920
+
 [^32]: Mahmud II | Encyclopedia.com. https://www.encyclopedia.com/people/history/turkish-and-ottoman-history-biographies/mahmud-ii
+
 [^33]: AN ASSESSMENT OF THE EMPLOYED FOREIGN EXPERTS | ResearchGate. https://www.researchgate.net/publication/340734937_AN_ASSESMENT_OF_THE_EMPLOYED_FOREIGN_EXPERTS_OF_ASAKIR-I_MANSURE-I_MUHAMMEDIYYE
+
 [^34]: Reconstructing an empire: Mahmud II's drastic change in state structure | Daily Sabah. https://www.dailysabah.com/feature/2018/07/06/reconstructing-an-empire-mahmud-iis-drastic-change-in-state-structure
+
 [^35]: Reconstructing an empire: Mahmud II's drastic change in state structure | Daily Sabah. https://www.dailysabah.com/feature/2018/07/06/reconstructing-an-empire-mahmud-iis-drastic-change-in-state-structure
+
 [^36]: The Radical Reforms of Mahmud II | Ancient War History. https://ancientwarhistory.com/the-radical-reforms-of-mahmud-ii-how-one-sultan-modernized-the-ottoman-empire/
+
 [^37]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^38]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^39]: Reconstructing an empire: Mahmud II's drastic change in state structure | Daily Sabah. https://www.dailysabah.com/feature/2018/07/06/reconstructing-an-empire-mahmud-iis-drastic-change-in-state-structure
+
 [^40]: Mahmud II (Grokipedia). https://grokipedia.com/page/Mahmud_II
+
 [^41]: The Radical Reforms of Mahmud II | Ancient War History. https://ancientwarhistory.com/the-radical-reforms-of-mahmud-ii-how-one-sultan-modernized-the-ottoman-empire/
+
 [^42]: Mahmud II (Grokipedia). https://grokipedia.com/page/Mahmud_II
+
 [^43]: Mahmud II (Grokipedia). https://grokipedia.com/page/Mahmud_II
+
 [^44]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^45]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^46]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^47]: Mahmud II | Encyclopedia.com. https://www.encyclopedia.com/people/history/turkish-and-ottoman-history-biographies/mahmud-ii
+
 [^48]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^49]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^50]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^51]: Ottoman Navy - Wikipedia. https://en.wikipedia.org/wiki/Ottoman_Navy
+
 [^52]: Ottoman Navy - Wikipedia. https://en.wikipedia.org/wiki/Ottoman_Navy
+
 [^53]: THE MODERNIZATION OF THE OTTOMAN NAVY | University of Birmingham. https://etheses.bham.ac.uk/id/eprint/6339/1/Dal15PhD.pdf
+
 [^54]: How American naval architects transformed Ottoman navy in 1830s | Türkiye Today. https://www.turkiyetoday.com/culture/how-american-naval-architects-transformed-the-ottoman-navy-in-the-1830s-3204015
+
 [^55]: The Fez and the Ottoman Path to Modernity | Fashion History Timeline. https://fashionhistory.fitnyc.edu/the-fez-and-the-ottoman/
+
 [^56]: Fez (hat) - Wikipedia. https://en.wikipedia.org/wiki/Fez_(hat)
+
 [^57]: The Fez and the Ottoman Path to Modernity | Fashion History Timeline. https://fashionhistory.fitnyc.edu/the-fez-and-the-ottoman/
+
 [^58]: The Fez and the Ottoman Path to Modernity | Fashion History Timeline. https://fashionhistory.fitnyc.edu/the-fez-and-the-ottoman/
+
 [^59]: Ottoman Empire Clothing: A Glimpse into History. https://www.arcanepast.com/ottoman-empire-clothing-a-glimpse-into-history/
+
 [^60]: Fes or hat - the laws on head covering in Turkey. https://www.alaturka.info/en/history/modernity/5730-fes-or-hat-the-laws-on-head-covering-in-turkey
+
 [^61]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^62]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^63]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^64]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^65]: Mahmud II: The Last Great Reformer of the Ottoman Empire | Ancient War History. https://ancientwarhistory.com/mahmud-ii-the-last-great-reformer-of-the-ottoman-empire/
+
 [^66]: Mahmud II: The Last Great Reformer of the Ottoman Empire | Ancient War History. https://ancientwarhistory.com/mahmud-ii-the-last-great-reformer-of-the-ottoman-empire/
+
 [^67]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^68]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^69]: Egyptian–Ottoman War (1831–1833) - Wikipedia. https://en.wikipedia.org/wiki/Egyptian–Ottoman_War_(1831–1833)
+
 [^70]: Egyptian–Ottoman War (1831–1833) (Grokipedia). https://grokipedia.com/page/Egyptian–Ottoman_War_(1831–1833)
+
 [^71]: Egyptian–Ottoman War (1831–1833) (Grokipedia). https://grokipedia.com/page/Egyptian–Ottoman_War_(1831–1833)
+
 [^72]: Mahmud II: The Last Great Reformer of the Ottoman Empire | Ancient War History. https://ancientwarhistory.com/mahmud-ii-the-last-great-reformer-of-the-ottoman-empire/
+
 [^73]: Egyptian–Ottoman War (1831–1833) (Grokipedia). https://grokipedia.com/page/Egyptian–Ottoman_War_(1831–1833)
+
 [^74]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^75]: 1911 Encyclopædia Britannica/Mahmud II. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mahmud_II.
+
 [^76]: 1911 Encyclopædia Britannica/Mahmud II. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mahmud_II.
+
 [^77]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^78]: Mahmud II: The Last Great Reformer of the Ottoman Empire | Ancient War History. https://ancientwarhistory.com/mahmud-ii-the-last-great-reformer-of-the-ottoman-empire/
+
 [^79]: History of Serbia - Wikipedia. https://en.wikipedia.org/wiki/History_of_Serbia
+
 [^80]: Treaty of Adrianople (1829) - Wikipedia. https://en.wikipedia.org/wiki/Treaty_of_Adrianople_(1829)
+
 [^81]: Treaty of Adrianople (1829) (Grokipedia). https://grokipedia.com/page/Treaty_of_Adrianople_(1829)
+
 [^82]: Ottoman Empire - Expansion, Reforms, Collapse | Britannica. https://www.britannica.com/place/Ottoman-Empire/The-empire-from-1807-to-1920
+
 [^83]: Ottoman Family - Mahmud II. http://www.theottomans.org/english/family/mahmud2.asp
+
 [^84]: Ottoman Family - Mahmud II. http://www.theottomans.org/english/family/mahmud2.asp
+
 [^85]: Ottoman Family - Mahmud II. http://www.theottomans.org/english/family/mahmud2.asp
+
 [^86]: Ottoman Family - Mahmud II. http://www.theottomans.org/english/family/mahmud2.asp
+
 [^87]: Abdülmecid I - Wikipedia. https://en.wikipedia.org/wiki/Abd%C3%BClmecid_I
+
 [^88]: Mihrimah Sultan (daughter of Mahmud II) - Wikipedia. https://en.wikipedia.org/wiki/Mihrimah_Sultan_(daughter_of_Mahmud_II)
+
 [^89]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^90]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^91]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^92]: Westernization, Mahmud II, and the Islamic Virtue Tradition. https://www.ajis.org/index.php/ajiss/article/download/439/2210
+
 [^93]: Westernization, Mahmud II, and the Islamic Virtue Tradition. https://www.ajis.org/index.php/ajiss/article/download/439/2210
+
 [^94]: Westernization, Mahmud II, and the Islamic Virtue Tradition. https://www.ajis.org/index.php/ajiss/article/download/439/2210
+
 [^95]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^96]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^97]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^98]: The Era of Mahmud II: The Early Steps of Ottoman Modernization. https://burakkay.com/256/kultur-ve-sanat/the-era-of-mahmud-ii-the-early-steps-of-ottoman-modernization/
+
 [^99]: Abdülmecid I - Wikipedia. https://en.wikipedia.org/wiki/Abd%C3%BClmecid_I
+
 [^100]: The Era of Mahmud II: The Early Steps of Ottoman Modernization. https://burakkay.com/256/kultur-ve-sanat/the-era-of-mahmud-ii-the-early-steps-of-ottoman-modernization/
+
 [^101]: Tanzimat - Wikipedia. https://en.wikipedia.org/wiki/Tanzimat
+
 [^102]: The Era of Mahmud II: The Early Steps of Ottoman Modernization. https://burakkay.com/256/kultur-ve-sanat/the-era-of-mahmud-ii-the-early-steps-of-ottoman-modernization/
+
 [^103]: The Era of Mahmud II: The Early Steps of Ottoman Modernization. https://burakkay.com/256/kultur-ve-sanat/the-era-of-mahmud-ii-the-early-steps-of-ottoman-modernization/
+
 [^104]: Tanzimat - Wikipedia. https://en.wikipedia.org/wiki/Tanzimat
+
 [^105]: The Radical Reforms of Mahmud II | Ancient War History. https://ancientwarhistory.com/the-radical-reforms-of-mahmud-ii-how-one-sultan-modernized-the-ottoman-empire/
+
 [^106]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^107]: The Radical Reforms of Mahmud II | Ancient War History. https://ancientwarhistory.com/the-radical-reforms-of-mahmud-ii-how-one-sultan-modernized-the-ottoman-empire/
+
 [^108]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^109]: The Era of Mahmud II: The Early Steps of Ottoman Modernization. https://burakkay.com/256/kultur-ve-sanat/the-era-of-mahmud-ii-the-early-steps-of-ottoman-modernization/
+
 [^110]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^111]: Reconstructing an empire: Mahmud II's drastic change in state structure | Daily Sabah. https://www.dailysabah.com/feature/2018/07/06/reconstructing-an-empire-mahmud-iis-drastic-change-in-state-structure
+
 [^112]: Mahmud II - Wikipedia. https://en.wikipedia.org/wiki/Mahmud_II
+
 [^113]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^114]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^115]: Auspicious Incident - Wikipedia. https://en.wikipedia.org/wiki/Auspicious_Incident
+
 [^116]: Mahmud II: The Great Reformer or the 'Infidel' Sultan? https://ottomanencounters.substack.com/p/mahmud-ii-the-great-reformer-or-the
+
 [^117]: Mahmud II | Ottoman Sultan & Reformer | Britannica. https://www.britannica.com/biography/Mahmud-II-Ottoman-sultan
+
 [^118]: Mahmud II: The Last Great Reformer of the Ottoman Empire | Ancient War History. https://ancientwarhistory.com/mahmud-ii-the-last-great-reformer-of-the-ottoman-empire/
+
 [^119]: Westernization, Mahmud II, and the Islamic Virtue Tradition. https://www.ajis.org/index.php/ajiss/article/download/439/2210
+
 [^120]: 1911 Encyclopædia Britannica/Mahmud II. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mahmud_II.
+
 [^121]: Ottoman Empire - Expansion, Reforms, Collapse | Britannica. https://www.britannica.com/place/Ottoman-Empire/The-empire-from-1807-to-1920
+
 [^122]: Treaty of Adrianople (1829) - Wikipedia. https://en.wikipedia.org/wiki/Treaty_of_Adrianople_(1829)
+
 [^123]: Reconstructing an empire: Mahmud II's drastic change in state structure | Daily Sabah. https://www.dailysabah.com/feature/2018/07/06/reconstructing-an-empire-mahmud-iis-drastic-change-in-state-structure
+
 [^124]: The Radical Reforms of Mahmud II | Ancient War History. https://ancientwarhistory.com/the-radical-reforms-of-mahmud-ii-how-one-sultan-modernized-the-ottoman-empire/
+
 [^125]: Mighty sovereigns of Ottoman throne: Sultan Mahmud II | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mahmud-ii
+
 [^126]: Sultan Mahmud II | The Age of Revolution. https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/sultan-mahmud-ii/
+
 [^127]: The Era of Mahmud II: The Early Steps of Ottoman Modernization. https://burakkay.com/256/kultur-ve-sanat/the-era-of-mahmud-ii-the-early-steps-of-ottoman-modernization/

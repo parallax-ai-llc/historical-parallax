@@ -129,28 +129,28 @@ Contemporary critics and revolutionary figures judged Louis XVI harshly as a tra
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1754 | Born August 23 at Palace of Versailles |
-| 1761 | Elder brother Louis Joseph dies; becomes second in line to throne |
-| 1765 | Father Louis Ferdinand dies; becomes Dauphin (heir apparent) |
-| 1770 | Marries Marie Antoinette of Austria (May 16) |
-| 1774 | Becomes King of France upon Louis XV's death (May 10) |
-| 1774 | Appoints Turgot as Controller-General of Finances |
-| 1776 | Dismisses Turgot under pressure from conservatives |
-| 1777 | Marriage with Marie Antoinette finally consummated |
-| 1778 | France enters American Revolutionary War; daughter Marie-Thérèse born |
-| 1780 | Abolishes torture in judicial proceedings |
-| 1781 | Son Louis-Joseph born (dies 1789) |
-| 1783 | Treaty of Paris ends American Revolutionary War |
-| 1785 | Diamond Necklace Affair damages royal reputation; son Louis-Charles born |
-| 1787 | Signs Edict of Versailles granting Protestant civil rights |
-| 1789 | Convenes Estates-General (May 5); Storming of Bastille (July 14); becomes constitutional monarch |
-| 1791 | Flight to Varennes (June 20-21); accepts Constitution (September 14) |
+| Year | Event                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------- |
+| 1754 | Born August 23 at Palace of Versailles                                                             |
+| 1761 | Elder brother Louis Joseph dies; becomes second in line to throne                                  |
+| 1765 | Father Louis Ferdinand dies; becomes Dauphin (heir apparent)                                       |
+| 1770 | Marries Marie Antoinette of Austria (May 16)                                                       |
+| 1774 | Becomes King of France upon Louis XV's death (May 10)                                              |
+| 1774 | Appoints Turgot as Controller-General of Finances                                                  |
+| 1776 | Dismisses Turgot under pressure from conservatives                                                 |
+| 1777 | Marriage with Marie Antoinette finally consummated                                                 |
+| 1778 | France enters American Revolutionary War; daughter Marie-Thérèse born                              |
+| 1780 | Abolishes torture in judicial proceedings                                                          |
+| 1781 | Son Louis-Joseph born (dies 1789)                                                                  |
+| 1783 | Treaty of Paris ends American Revolutionary War                                                    |
+| 1785 | Diamond Necklace Affair damages royal reputation; son Louis-Charles born                           |
+| 1787 | Signs Edict of Versailles granting Protestant civil rights                                         |
+| 1789 | Convenes Estates-General (May 5); Storming of Bastille (July 14); becomes constitutional monarch   |
+| 1791 | Flight to Varennes (June 20-21); accepts Constitution (September 14)                               |
 | 1792 | France declares war on Austria (April 20); monarchy abolished (August 10); royal family imprisoned |
-| 1792 | Trial before National Convention begins (December 11) |
-| 1793 | Convicted of conspiracy against public liberty and general safety (January 15) |
-| 1793 | Executed by guillotine at Place de la Révolution (January 21) |
+| 1792 | Trial before National Convention begins (December 11)                                              |
+| 1793 | Convicted of conspiracy against public liberty and general safety (January 15)                     |
+| 1793 | Executed by guillotine at Place de la Révolution (January 21)                                      |
 
 ---
 
@@ -170,120 +170,236 @@ Contemporary critics and revolutionary figures judged Louis XVI harshly as a tra
 
 ## References
 
-[^1]: Hardman, John. *Louis XVI: The Silent King*. London: Arnold, 2000. pp. 1-15.
-[^2]: Fraser, Antonia. *Marie Antoinette: The Journey*. New York: Anchor Books, 2001. pp. 45-52.
-[^3]: Price, Munro. *The Road from Versailles: Louis XVI, Marie Antoinette, and the Fall of the French Monarchy*. New York: St. Martin's Press, 2003. pp. 8-12.
-[^4]: Lever, Evelyne. *Louis XVI*. Paris: Fayard, 1985. pp. 22-30.
-[^5]: Hardman, John. *Louis XVI: The Silent King*. pp. 25-35.
-[^6]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. New York: Vintage Books, 1990. pp. 56-58.
-[^7]: Fraser, Antonia. *Marie Antoinette: The Journey*. pp. 138-162.
-[^8]: Lever, Evelyne. *Marie Antoinette: The Last Queen of France*. New York: Farrar, Straus and Giroux, 2000. pp. 68-75.
-[^9]: Doyle, William. *Origins of the French Revolution*. Oxford: Oxford University Press, 1999. pp. 45-48.
-[^10]: Zweig, Stefan. *Marie Antoinette: The Portrait of an Average Woman*. New York: Grove Press, 2002. pp. 89-90.
-[^11]: Jones, Colin. *The Great Nation: France from Louis XV to Napoleon*. London: Penguin Books, 2003. pp. 289-295.
-[^12]: Doyle, William. *Origins of the French Revolution*. pp. 52-65.
-[^13]: Soboul, Albert. *The French Revolution 1787-1799*. New York: Vintage Books, 1975. pp. 23-35.
-[^14]: Lefebvre, Georges. *The Coming of the French Revolution*. Princeton: Princeton University Press, 2005. pp. 17-25.
-[^15]: Hardman, John. *Louis XVI: The Silent King*. pp. 78-89.
-[^16]: Price, Munro. *The Road from Versailles*. pp. 45-52.
-[^17]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. pp. 78-82.
-[^18]: Dull, Jonathan R. *The French Navy and American Independence*. Princeton: Princeton University Press, 1975. pp. 35-48.
-[^19]: Stone, Bailey. *The Genesis of the French Revolution: A Global-Historical Interpretation*. Cambridge: Cambridge University Press, 1994. pp. 89-95.
-[^20]: Palmer, R.R. *The Age of the Democratic Revolution*. Princeton: Princeton University Press, 1959. pp. 239-252.
-[^21]: Doyle, William. *Origins of the French Revolution*. pp. 78-88.
-[^22]: Hardman, John. *Louis XVI: The Silent King*. pp. 95-105.
-[^23]: Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. New York: Vintage Books, 1995. pp. 48-52.
-[^24]: Merrick, Jeffrey W. *The Desacralization of the French Monarchy in the Eighteenth Century*. Baton Rouge: LSU Press, 1990. pp. 115-120.
-[^25]: Adams, Geoffrey. *The Huguenots and French Opinion, 1685-1787*. Waterloo: Wilfrid Laurier University Press, 1991. pp. 289-298.
-[^26]: Poland, Burdette C. *French Protestantism and the French Revolution*. Princeton: Princeton University Press, 1957. pp. 34-42.
-[^27]: Van Kley, Dale K. *The Religious Origins of the French Revolution*. New Haven: Yale University Press, 1996. pp. 256-265.
-[^28]: Dunmore, John. *The Fateful Voyage of La Pérouse*. Fairbanks: University of Alaska Press, 2007. pp. 15-28.
-[^29]: Taillemite, Étienne. *Sur des mers inconnues: Bougainville, Cook, Lapérouse*. Paris: Gallimard, 2006. pp. 187-195.
-[^30]: Gillispie, Charles C. *The Montgolfier Brothers and the Invention of Aviation*. Princeton: Princeton University Press, 1983. pp. 56-63.
-[^31]: Dull, Jonathan R. *A Diplomatic History of the American Revolution*. New Haven: Yale University Press, 1985. pp. 145-158.
-[^32]: Hoffman, Ronald, and Peter J. Albert, eds. *Peace and the Peacemakers: The Treaty of 1783*. Charlottesville: University Press of Virginia, 1986. pp. 98-112.
-[^33]: Kennett, Lee. *The French Forces in America, 1780-1783*. Westport: Greenwood Press, 1977. pp. 145-156.
-[^34]: Jones, Colin. *The Great Nation*. pp. 312-325.
-[^35]: Harris, Robert D. *Necker: Reform Statesman of the Ancien Régime*. Berkeley: University of California Press, 1979. pp. 156-178.
-[^36]: Tackett, Timothy. *Becoming a Revolutionary*. Princeton: Princeton University Press, 1996. pp. 189-205.
-[^37]: Hardman, John. *Louis XVI: The Silent King*. pp. 125-142.
-[^38]: Price, Munro. *The Road from Versailles*. pp. 78-89.
-[^39]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. pp. 95-102.
-[^40]: Doyle, William. *Origins of the French Revolution*. pp. 95-108.
-[^41]: Campbell, Peter R. *The Origins of the French Revolution*. London: Palgrave Macmillan, 2006. pp. 68-82.
-[^42]: Tackett, Timothy. *When the King Took Flight*. Cambridge: Harvard University Press, 2003. pp. 12-25.
-[^43]: Fraser, Antonia. *Marie Antoinette: The Journey*. pp. 245-268.
-[^44]: Thomas, Chantal. *The Wicked Queen: The Origins of the Myth of Marie-Antoinette*. New York: Zone Books, 1999. pp. 58-75.
-[^45]: Lever, Evelyne. *Marie Antoinette: The Last Queen of France*. pp. 156-178.
-[^46]: Mossiker, Frances. *The Queen's Necklace*. New York: Simon and Schuster, 1961. pp. 289-315.
-[^47]: Tackett, Timothy. *When the King Took Flight*. pp. 45-78.
-[^48]: Price, Munro. *The Road from Versailles*. pp. 289-315.
-[^49]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. pp. 589-601.
-[^50]: Tackett, Timothy. *When the King Took Flight*. pp. 156-178.
-[^51]: Jordan, David P. *The King's Trial: Louis XVI vs. the French Revolution*. Berkeley: University of California Press, 1979. pp. 89-112.
-[^52]: Walzer, Michael, ed. *Regicide and Revolution: Speeches at the Trial of Louis XVI*. Cambridge: Cambridge University Press, 1974. pp. 34-58.
-[^53]: Jordan, David P. *The King's Trial*. pp. 189-205.
-[^54]: Hardman, John. *Louis XVI: The Silent King*. pp. 62-75.
-[^55]: Lever, Evelyne. *Louis XVI*. pp. 145-152.
-[^56]: Price, Munro. *The Road from Versailles*. pp. 25-32.
-[^57]: Fraser, Antonia. *Marie Antoinette: The Journey*. pp. 178-198.
-[^58]: Delorme, Philippe. *Louis XVII: La vérité*. Paris: Pygmalion, 2000. pp. 23-35.
-[^59]: Hardman, John. *Louis XVI: The Silent King*. pp. 45-58.
-[^60]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. pp. 68-75.
-[^61]: Price, Munro. *The Road from Versailles*. pp. 35-42.
-[^62]: Lever, Evelyne. *Louis XVI*. pp. 89-95.
-[^63]: Merrick, Jeffrey W. *The Desacralization of the French Monarchy*. pp. 145-158.
-[^64]: Hardman, John. *Louis XVI: The Silent King*. pp. 58-65.
-[^65]: Cadbury, Deborah. *The Lost King of France*. New York: St. Martin's Press, 2002. pp. 78-92.
-[^66]: Fraser, Antonia. *Marie Antoinette: The Journey*. pp. 445-458.
-[^67]: Jordan, David P. *The King's Trial*. pp. 198-215.
-[^68]: Doyle, William. *The Oxford History of the French Revolution*. Oxford: Oxford University Press, 2002. pp. 189-205.
-[^69]: Hunt, Lynn. *Politics, Culture, and Class in the French Revolution*. Berkeley: University of California Press, 2004. pp. 35-52.
-[^70]: Furet, François. *Interpreting the French Revolution*. Cambridge: Cambridge University Press, 1981. pp. 45-68.
-[^71]: Blanning, T.C.W. *The French Revolutionary Wars 1787-1802*. London: Arnold, 1996. pp. 78-95.
-[^72]: Schroeder, Paul W. *The Transformation of European Politics 1763-1848*. Oxford: Clarendon Press, 1994. pp. 145-162.
-[^73]: Palmer, R.R. *The Age of the Democratic Revolution*. pp. 312-328.
-[^74]: Furet, François, and Mona Ozouf, eds. *A Critical Dictionary of the French Revolution*. Cambridge: Harvard University Press, 1989. pp. 198-210.
-[^75]: McManners, John. *Church and Society in Eighteenth-Century France*. Oxford: Clarendon Press, 1998. pp. 456-472.
-[^76]: Price, Munro. *The Road from Versailles*. pp. 412-425.
-[^77]: Doyle, William. *The Oxford History of the French Revolution*. pp. 398-415.
-[^78]: Jones, Colin. *The Great Nation*. pp. 485-502.
-[^79]: Stone, Bailey. *The Genesis of the French Revolution*. pp. 189-205.
-[^80]: Tackett, Timothy. *Becoming a Revolutionary*. pp. 298-315.
-[^81]: Andress, David. *The Terror: The Merciless War for Freedom in Revolutionary France*. New York: Farrar, Straus and Giroux, 2006. pp. 45-68.
-[^82]: Linton, Marisa. *Choosing Terror: Virtue, Friendship, and Authenticity in the French Revolution*. Oxford: Oxford University Press, 2013. pp. 78-95.
-[^83]: Fraser, Antonia. *Marie Antoinette: The Journey*. pp. 478-492.
-[^84]: Cadbury, Deborah. *The Lost King of France*. pp. 189-215.
-[^85]: Nagel, Susan. *Marie-Thérèse: The Fate of Marie Antoinette's Daughter*. New York: Bloomsbury, 2008. pp. 256-278.
-[^86]: Zweig, Stefan. *Marie Antoinette: The Portrait of an Average Woman*. pp. 412-425.
-[^87]: Gaxotte, Pierre. *The French Revolution*. New York: Charles Scribner's Sons, 1932. pp. 145-162.
-[^88]: Hardman, John. *Louis XVI: The Silent King*. pp. 298-315.
-[^89]: Cobban, Alfred. *The Social Interpretation of the French Revolution*. Cambridge: Cambridge University Press, 1999. pp. 89-105.
-[^90]: Van Kley, Dale K. *The Religious Origins of the French Revolution*. pp. 378-395.
-[^91]: McManners, John. *The French Revolution and the Church*. New York: Harper & Row, 1969. pp. 145-162.
-[^92]: Price, Munro. *The Road from Versailles*. pp. 398-412.
-[^93]: Kaplan, Steven L. *Bread, Politics and Political Economy in the Reign of Louis XV*. The Hague: Martinus Nijhoff, 1976. pp. 289-315.
-[^94]: Harris, Robert D. *Necker: Reform Statesman of the Ancien Régime*. pp. 298-315.
-[^95]: Hardman, John. *Louis XVI: The Silent King*. pp. 412-428.
-[^96]: Lever, Evelyne. *Louis XVI*. pp. 498-512.
-[^97]: Price, Munro. *The Road from Versailles*. pp. 425-438.
-[^98]: Hardman, John. *Louis XVI: The Silent King*. pp. 445-462.
-[^99]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. pp. 598-615.
-[^100]: Tackett, Timothy. *When the King Took Flight*. pp. 198-215.
-[^101]: Soboul, Albert. *The French Revolution 1787-1799*. pp. 289-315.
-[^102]: Lefebvre, Georges. *The Coming of the French Revolution*. pp. 156-178.
-[^103]: Mathiez, Albert. *The French Revolution*. New York: Russell & Russell, 1962. pp. 198-215.
-[^104]: Soboul, Albert. *The French Revolution 1787-1799*. pp. 45-68.
-[^105]: Hobsbawm, Eric. *The Age of Revolution 1789-1848*. New York: Vintage Books, 1996. pp. 78-95.
-[^106]: Soboul, Albert. *Understanding the French Revolution*. New York: International Publishers, 1988. pp. 145-162.
-[^107]: Godineau, Dominique. *The Women of Paris and Their French Revolution*. Berkeley: University of California Press, 1998. pp. 89-112.
-[^108]: Landes, Joan B. *Women and the Public Sphere in the Age of the French Revolution*. Ithaca: Cornell University Press, 1988. pp. 156-178.
-[^109]: Walzer, Michael, ed. *Regicide and Revolution: Speeches at the Trial of Louis XVI*. pp. 121-139.
-[^110]: Hampson, Norman. *Danton*. New York: Holmes & Meier, 1978. pp. 89-105.
-[^111]: Gottschalk, Louis R. *Jean Paul Marat: A Study in Radicalism*. Chicago: University of Chicago Press, 1967. pp. 145-162.
-[^112]: Jordan, David P. *The King's Trial*. pp. 256-278.
-[^113]: Hardman, John. *Louis XVI: The Silent King*. p. 35.
-[^114]: Price, Munro. *The Road from Versailles*. p. 78.
-[^115]: Jordan, David P. *The King's Trial*. p. 212.
-[^116]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. p. 404.
-[^117]: Tackett, Timothy. *Becoming a Revolutionary*. p. 178.
+[^1]: Hardman, John. _Louis XVI: The Silent King_. London: Arnold, 2000. pp. 1-15.
+
+[^2]: Fraser, Antonia. _Marie Antoinette: The Journey_. New York: Anchor Books, 2001. pp. 45-52.
+
+[^3]: Price, Munro. _The Road from Versailles: Louis XVI, Marie Antoinette, and the Fall of the French Monarchy_. New York: St. Martin's Press, 2003. pp. 8-12.
+
+[^4]: Lever, Evelyne. _Louis XVI_. Paris: Fayard, 1985. pp. 22-30.
+
+[^5]: Hardman, John. _Louis XVI: The Silent King_. pp. 25-35.
+
+[^6]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. New York: Vintage Books, 1990. pp. 56-58.
+
+[^7]: Fraser, Antonia. _Marie Antoinette: The Journey_. pp. 138-162.
+
+[^8]: Lever, Evelyne. _Marie Antoinette: The Last Queen of France_. New York: Farrar, Straus and Giroux, 2000. pp. 68-75.
+
+[^9]: Doyle, William. _Origins of the French Revolution_. Oxford: Oxford University Press, 1999. pp. 45-48.
+
+[^10]: Zweig, Stefan. _Marie Antoinette: The Portrait of an Average Woman_. New York: Grove Press, 2002. pp. 89-90.
+
+[^11]: Jones, Colin. _The Great Nation: France from Louis XV to Napoleon_. London: Penguin Books, 2003. pp. 289-295.
+
+[^12]: Doyle, William. _Origins of the French Revolution_. pp. 52-65.
+
+[^13]: Soboul, Albert. _The French Revolution 1787-1799_. New York: Vintage Books, 1975. pp. 23-35.
+
+[^14]: Lefebvre, Georges. _The Coming of the French Revolution_. Princeton: Princeton University Press, 2005. pp. 17-25.
+
+[^15]: Hardman, John. _Louis XVI: The Silent King_. pp. 78-89.
+
+[^16]: Price, Munro. _The Road from Versailles_. pp. 45-52.
+
+[^17]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. pp. 78-82.
+
+[^18]: Dull, Jonathan R. _The French Navy and American Independence_. Princeton: Princeton University Press, 1975. pp. 35-48.
+
+[^19]: Stone, Bailey. _The Genesis of the French Revolution: A Global-Historical Interpretation_. Cambridge: Cambridge University Press, 1994. pp. 89-95.
+
+[^20]: Palmer, R.R. _The Age of the Democratic Revolution_. Princeton: Princeton University Press, 1959. pp. 239-252.
+
+[^21]: Doyle, William. _Origins of the French Revolution_. pp. 78-88.
+
+[^22]: Hardman, John. _Louis XVI: The Silent King_. pp. 95-105.
+
+[^23]: Foucault, Michel. _Discipline and Punish: The Birth of the Prison_. New York: Vintage Books, 1995. pp. 48-52.
+
+[^24]: Merrick, Jeffrey W. _The Desacralization of the French Monarchy in the Eighteenth Century_. Baton Rouge: LSU Press, 1990. pp. 115-120.
+
+[^25]: Adams, Geoffrey. _The Huguenots and French Opinion, 1685-1787_. Waterloo: Wilfrid Laurier University Press, 1991. pp. 289-298.
+
+[^26]: Poland, Burdette C. _French Protestantism and the French Revolution_. Princeton: Princeton University Press, 1957. pp. 34-42.
+
+[^27]: Van Kley, Dale K. _The Religious Origins of the French Revolution_. New Haven: Yale University Press, 1996. pp. 256-265.
+
+[^28]: Dunmore, John. _The Fateful Voyage of La Pérouse_. Fairbanks: University of Alaska Press, 2007. pp. 15-28.
+
+[^29]: Taillemite, Étienne. _Sur des mers inconnues: Bougainville, Cook, Lapérouse_. Paris: Gallimard, 2006. pp. 187-195.
+
+[^30]: Gillispie, Charles C. _The Montgolfier Brothers and the Invention of Aviation_. Princeton: Princeton University Press, 1983. pp. 56-63.
+
+[^31]: Dull, Jonathan R. _A Diplomatic History of the American Revolution_. New Haven: Yale University Press, 1985. pp. 145-158.
+
+[^32]: Hoffman, Ronald, and Peter J. Albert, eds. _Peace and the Peacemakers: The Treaty of 1783_. Charlottesville: University Press of Virginia, 1986. pp. 98-112.
+
+[^33]: Kennett, Lee. _The French Forces in America, 1780-1783_. Westport: Greenwood Press, 1977. pp. 145-156.
+
+[^34]: Jones, Colin. _The Great Nation_. pp. 312-325.
+
+[^35]: Harris, Robert D. _Necker: Reform Statesman of the Ancien Régime_. Berkeley: University of California Press, 1979. pp. 156-178.
+
+[^36]: Tackett, Timothy. _Becoming a Revolutionary_. Princeton: Princeton University Press, 1996. pp. 189-205.
+
+[^37]: Hardman, John. _Louis XVI: The Silent King_. pp. 125-142.
+
+[^38]: Price, Munro. _The Road from Versailles_. pp. 78-89.
+
+[^39]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. pp. 95-102.
+
+[^40]: Doyle, William. _Origins of the French Revolution_. pp. 95-108.
+
+[^41]: Campbell, Peter R. _The Origins of the French Revolution_. London: Palgrave Macmillan, 2006. pp. 68-82.
+
+[^42]: Tackett, Timothy. _When the King Took Flight_. Cambridge: Harvard University Press, 2003. pp. 12-25.
+
+[^43]: Fraser, Antonia. _Marie Antoinette: The Journey_. pp. 245-268.
+
+[^44]: Thomas, Chantal. _The Wicked Queen: The Origins of the Myth of Marie-Antoinette_. New York: Zone Books, 1999. pp. 58-75.
+
+[^45]: Lever, Evelyne. _Marie Antoinette: The Last Queen of France_. pp. 156-178.
+
+[^46]: Mossiker, Frances. _The Queen's Necklace_. New York: Simon and Schuster, 1961. pp. 289-315.
+
+[^47]: Tackett, Timothy. _When the King Took Flight_. pp. 45-78.
+
+[^48]: Price, Munro. _The Road from Versailles_. pp. 289-315.
+
+[^49]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. pp. 589-601.
+
+[^50]: Tackett, Timothy. _When the King Took Flight_. pp. 156-178.
+
+[^51]: Jordan, David P. _The King's Trial: Louis XVI vs. the French Revolution_. Berkeley: University of California Press, 1979. pp. 89-112.
+
+[^52]: Walzer, Michael, ed. _Regicide and Revolution: Speeches at the Trial of Louis XVI_. Cambridge: Cambridge University Press, 1974. pp. 34-58.
+
+[^53]: Jordan, David P. _The King's Trial_. pp. 189-205.
+
+[^54]: Hardman, John. _Louis XVI: The Silent King_. pp. 62-75.
+
+[^55]: Lever, Evelyne. _Louis XVI_. pp. 145-152.
+
+[^56]: Price, Munro. _The Road from Versailles_. pp. 25-32.
+
+[^57]: Fraser, Antonia. _Marie Antoinette: The Journey_. pp. 178-198.
+
+[^58]: Delorme, Philippe. _Louis XVII: La vérité_. Paris: Pygmalion, 2000. pp. 23-35.
+
+[^59]: Hardman, John. _Louis XVI: The Silent King_. pp. 45-58.
+
+[^60]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. pp. 68-75.
+
+[^61]: Price, Munro. _The Road from Versailles_. pp. 35-42.
+
+[^62]: Lever, Evelyne. _Louis XVI_. pp. 89-95.
+
+[^63]: Merrick, Jeffrey W. _The Desacralization of the French Monarchy_. pp. 145-158.
+
+[^64]: Hardman, John. _Louis XVI: The Silent King_. pp. 58-65.
+
+[^65]: Cadbury, Deborah. _The Lost King of France_. New York: St. Martin's Press, 2002. pp. 78-92.
+
+[^66]: Fraser, Antonia. _Marie Antoinette: The Journey_. pp. 445-458.
+
+[^67]: Jordan, David P. _The King's Trial_. pp. 198-215.
+
+[^68]: Doyle, William. _The Oxford History of the French Revolution_. Oxford: Oxford University Press, 2002. pp. 189-205.
+
+[^69]: Hunt, Lynn. _Politics, Culture, and Class in the French Revolution_. Berkeley: University of California Press, 2004. pp. 35-52.
+
+[^70]: Furet, François. _Interpreting the French Revolution_. Cambridge: Cambridge University Press, 1981. pp. 45-68.
+
+[^71]: Blanning, T.C.W. _The French Revolutionary Wars 1787-1802_. London: Arnold, 1996. pp. 78-95.
+
+[^72]: Schroeder, Paul W. _The Transformation of European Politics 1763-1848_. Oxford: Clarendon Press, 1994. pp. 145-162.
+
+[^73]: Palmer, R.R. _The Age of the Democratic Revolution_. pp. 312-328.
+
+[^74]: Furet, François, and Mona Ozouf, eds. _A Critical Dictionary of the French Revolution_. Cambridge: Harvard University Press, 1989. pp. 198-210.
+
+[^75]: McManners, John. _Church and Society in Eighteenth-Century France_. Oxford: Clarendon Press, 1998. pp. 456-472.
+
+[^76]: Price, Munro. _The Road from Versailles_. pp. 412-425.
+
+[^77]: Doyle, William. _The Oxford History of the French Revolution_. pp. 398-415.
+
+[^78]: Jones, Colin. _The Great Nation_. pp. 485-502.
+
+[^79]: Stone, Bailey. _The Genesis of the French Revolution_. pp. 189-205.
+
+[^80]: Tackett, Timothy. _Becoming a Revolutionary_. pp. 298-315.
+
+[^81]: Andress, David. _The Terror: The Merciless War for Freedom in Revolutionary France_. New York: Farrar, Straus and Giroux, 2006. pp. 45-68.
+
+[^82]: Linton, Marisa. _Choosing Terror: Virtue, Friendship, and Authenticity in the French Revolution_. Oxford: Oxford University Press, 2013. pp. 78-95.
+
+[^83]: Fraser, Antonia. _Marie Antoinette: The Journey_. pp. 478-492.
+
+[^84]: Cadbury, Deborah. _The Lost King of France_. pp. 189-215.
+
+[^85]: Nagel, Susan. _Marie-Thérèse: The Fate of Marie Antoinette's Daughter_. New York: Bloomsbury, 2008. pp. 256-278.
+
+[^86]: Zweig, Stefan. _Marie Antoinette: The Portrait of an Average Woman_. pp. 412-425.
+
+[^87]: Gaxotte, Pierre. _The French Revolution_. New York: Charles Scribner's Sons, 1932. pp. 145-162.
+
+[^88]: Hardman, John. _Louis XVI: The Silent King_. pp. 298-315.
+
+[^89]: Cobban, Alfred. _The Social Interpretation of the French Revolution_. Cambridge: Cambridge University Press, 1999. pp. 89-105.
+
+[^90]: Van Kley, Dale K. _The Religious Origins of the French Revolution_. pp. 378-395.
+
+[^91]: McManners, John. _The French Revolution and the Church_. New York: Harper & Row, 1969. pp. 145-162.
+
+[^92]: Price, Munro. _The Road from Versailles_. pp. 398-412.
+
+[^93]: Kaplan, Steven L. _Bread, Politics and Political Economy in the Reign of Louis XV_. The Hague: Martinus Nijhoff, 1976. pp. 289-315.
+
+[^94]: Harris, Robert D. _Necker: Reform Statesman of the Ancien Régime_. pp. 298-315.
+
+[^95]: Hardman, John. _Louis XVI: The Silent King_. pp. 412-428.
+
+[^96]: Lever, Evelyne. _Louis XVI_. pp. 498-512.
+
+[^97]: Price, Munro. _The Road from Versailles_. pp. 425-438.
+
+[^98]: Hardman, John. _Louis XVI: The Silent King_. pp. 445-462.
+
+[^99]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. pp. 598-615.
+
+[^100]: Tackett, Timothy. _When the King Took Flight_. pp. 198-215.
+
+[^101]: Soboul, Albert. _The French Revolution 1787-1799_. pp. 289-315.
+
+[^102]: Lefebvre, Georges. _The Coming of the French Revolution_. pp. 156-178.
+
+[^103]: Mathiez, Albert. _The French Revolution_. New York: Russell & Russell, 1962. pp. 198-215.
+
+[^104]: Soboul, Albert. _The French Revolution 1787-1799_. pp. 45-68.
+
+[^105]: Hobsbawm, Eric. _The Age of Revolution 1789-1848_. New York: Vintage Books, 1996. pp. 78-95.
+
+[^106]: Soboul, Albert. _Understanding the French Revolution_. New York: International Publishers, 1988. pp. 145-162.
+
+[^107]: Godineau, Dominique. _The Women of Paris and Their French Revolution_. Berkeley: University of California Press, 1998. pp. 89-112.
+
+[^108]: Landes, Joan B. _Women and the Public Sphere in the Age of the French Revolution_. Ithaca: Cornell University Press, 1988. pp. 156-178.
+
+[^109]: Walzer, Michael, ed. _Regicide and Revolution: Speeches at the Trial of Louis XVI_. pp. 121-139.
+
+[^110]: Hampson, Norman. _Danton_. New York: Holmes & Meier, 1978. pp. 89-105.
+
+[^111]: Gottschalk, Louis R. _Jean Paul Marat: A Study in Radicalism_. Chicago: University of Chicago Press, 1967. pp. 145-162.
+
+[^112]: Jordan, David P. _The King's Trial_. pp. 256-278.
+
+[^113]: Hardman, John. _Louis XVI: The Silent King_. p. 35.
+
+[^114]: Price, Munro. _The Road from Versailles_. p. 78.
+
+[^115]: Jordan, David P. _The King's Trial_. p. 212.
+
+[^116]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. p. 404.
+
+[^117]: Tackett, Timothy. _Becoming a Revolutionary_. p. 178.

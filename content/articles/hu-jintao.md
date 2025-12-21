@@ -3,7 +3,13 @@ id: "hu-jintao"
 name: "Hu Jintao"
 birth: "1942-12-21"
 nationality: "China"
-occupation: ["Politician", "Hydraulic Engineer", "General Secretary of the Chinese Communist Party", "President of the People's Republic of China"]
+occupation:
+  [
+    "Politician",
+    "Hydraulic Engineer",
+    "General Secretary of the Chinese Communist Party",
+    "President of the People's Republic of China",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hu_Jintao_at_White_House_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hu_Jintao"
@@ -128,32 +134,32 @@ The 2022 removal incident, regardless of its true cause, has become emblematic o
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1942 | Born on December 21 in Tai County, Jiangsu province |
-| 1959 | Entered Tsinghua University to study hydraulic engineering |
-| 1964 | Joined the Chinese Communist Party in April; graduated from Tsinghua University |
-| 1964 | Father imprisoned for political crimes (died in prison 1978) |
-| 1965 | Earned hydroelectric engineering degree from Tsinghua University |
-| 1970 | Married Liu Yongqing |
-| 1982 | Appointed director of the All-China Youth Federation |
-| 1985 | Appointed party secretary for Guizhou province |
-| 1987 | Named member of the CCP Central Committee |
-| 1988 | Dispatched to Tibet as provincial party secretary |
-| 1989 | Imposed martial law in Tibet in response to independence protests |
-| 1992 | Became youngest member (age 49) of Politburo Standing Committee in October |
-| 1998 | Elected vice president of China |
-| 1999 | Became vice chairman of the CCP Central Military Commission |
-| 2002 | Became CCP General Secretary on November 15 |
-| 2003 | Elected President of China in March; handled SARS outbreak |
-| 2004 | Named Chairman of the Central Military Commission in September |
-| 2007 | Re-elected as General Secretary; made eight-nation Africa tour |
+| Year | Event                                                                                   |
+| ---- | --------------------------------------------------------------------------------------- |
+| 1942 | Born on December 21 in Tai County, Jiangsu province                                     |
+| 1959 | Entered Tsinghua University to study hydraulic engineering                              |
+| 1964 | Joined the Chinese Communist Party in April; graduated from Tsinghua University         |
+| 1964 | Father imprisoned for political crimes (died in prison 1978)                            |
+| 1965 | Earned hydroelectric engineering degree from Tsinghua University                        |
+| 1970 | Married Liu Yongqing                                                                    |
+| 1982 | Appointed director of the All-China Youth Federation                                    |
+| 1985 | Appointed party secretary for Guizhou province                                          |
+| 1987 | Named member of the CCP Central Committee                                               |
+| 1988 | Dispatched to Tibet as provincial party secretary                                       |
+| 1989 | Imposed martial law in Tibet in response to independence protests                       |
+| 1992 | Became youngest member (age 49) of Politburo Standing Committee in October              |
+| 1998 | Elected vice president of China                                                         |
+| 1999 | Became vice chairman of the CCP Central Military Commission                             |
+| 2002 | Became CCP General Secretary on November 15                                             |
+| 2003 | Elected President of China in March; handled SARS outbreak                              |
+| 2004 | Named Chairman of the Central Military Commission in September                          |
+| 2007 | Re-elected as General Secretary; made eight-nation Africa tour                          |
 | 2008 | Re-elected as President; hosted Beijing Olympics; made first visit to Japan in 10 years |
-| 2011 | State visit to United States, including White House state dinner |
-| 2012 | Stepped down as General Secretary and CMC Chairman in November |
-| 2013 | Formally stepped down as President on March 14 |
-| 2022 | Escorted out of 20th Party Congress closing ceremony on October 22 |
-| 2022 | Appeared at Jiang Zemin's farewell ceremony on December 5 |
+| 2011 | State visit to United States, including White House state dinner                        |
+| 2012 | Stepped down as General Secretary and CMC Chairman in November                          |
+| 2013 | Formally stepped down as President on March 14                                          |
+| 2022 | Escorted out of 20th Party Congress closing ceremony on October 22                      |
+| 2022 | Appeared at Jiang Zemin's farewell ceremony on December 5                               |
 
 ---
 
@@ -192,104 +198,205 @@ Context: Hu's position on climate justice and the responsibilities of wealthy na
 ## References
 
 [^1]: Britannica. "Hu Jintao | Former President of China, Achievements, & Biography." https://www.britannica.com/biography/Hu-Jintao
+
 [^2]: Notable Biographies. "Hu Jintao Biography - life, family, children, parents, school, young, son, old, information, born." https://www.notablebiographies.com/newsmakers2/2004-Di-Ko/Jintao-Hu.html
+
 [^3]: Human Rights Watch. "Hu Jintao Visit: No Progress on Human Rights in China." April 29, 2002. https://www.hrw.org/news/2002/04/29/hu-jintao-visit-no-progress-human-rights-china
+
 [^4]: The Changing Nature of 'Collective Leadership' in Xi's China. VIF India. October 2022. https://www.vifindia.org/article/2022/october/19/the-changing-nature-of-collective-leadership-in-xi-s-china
+
 [^5]: Wikipedia. "Hu Jintao." https://en.wikipedia.org/wiki/Hu_Jintao
+
 [^6]: Notable Biographies. "Hu Jintao Biography."
+
 [^7]: The Famous People. "Hu Jintao Biography - Childhood, Life Achievements & Timeline." https://www.thefamouspeople.com/profiles/hu-jintao-3849.php
+
 [^8]: Notable Biographies. "Hu Jintao Biography."
+
 [^9]: EBSCO Research Starters. "Hu Jintao | Research Starters." https://www.ebsco.com/research-starters/politics-and-government/hu-jintao
+
 [^10]: Notable Biographies. "Hu Jintao Biography."
+
 [^11]: Notable Biographies. "Hu Jintao Biography."
+
 [^12]: Wikipedia. "Hu Jintao."
+
 [^13]: Notable Biographies. "Hu Jintao Biography."
+
 [^14]: EBSCO Research Starters. "Hu Jintao."
+
 [^15]: Wikipedia. "Hu Jintao."
+
 [^16]: The Heritage Foundation. "Who's Hu? Assessing China's Heir Apparent, Hu Jintao." https://www.heritage.org/asia/report/whos-hu-assessing-chinas-heir-apparent-hu-jintao
+
 [^17]: The Heritage Foundation. "Who's Hu?"
+
 [^18]: Wikipedia. "Hu Jintao."
+
 [^19]: Britannica. "Hu Jintao."
+
 [^20]: Human Rights Watch. "Hu Jintao Visit: No Progress on Human Rights in China."
+
 [^21]: Britannica. "Hu Jintao."
+
 [^22]: EBSCO Research Starters. "Hu Jintao."
+
 [^23]: The Heritage Foundation. "Who's Hu?"
+
 [^24]: Wikipedia. "Hu Jintao."
+
 [^25]: EBSCO Research Starters. "Hu Jintao."
+
 [^26]: Wikipedia. "Hu Jintao."
+
 [^27]: Britannica. "Hu Jintao."
+
 [^28]: Wikipedia. "Scientific Outlook on Development." https://en.wikipedia.org/wiki/Scientific_Outlook_on_Development
+
 [^29]: Wikipedia. "Scientific Outlook on Development."
+
 [^30]: Wikipedia. "Scientific Outlook on Development."
+
 [^31]: China Media Project. "Harmonious Society." https://chinamediaproject.org/the_ccp_dictionary/harmonious-society/
+
 [^32]: China Daily. "Harmonious society." http://cpcchina.chinadaily.com.cn/2010-09/16/content_13918117.htm
+
 [^33]: University of Nottingham. "China's Policy Discourse Under Hu Jintao." https://www.nottingham.ac.uk/iaps/documents/cpi/briefings/briefing-26-harmonious-society-and-harmonious-world.pdf
+
 [^34]: Georgia State University. "Sustaining China's Economic Growth: New Leaders." https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1027&context=intlbus_facpub
+
 [^35]: University of Nottingham. "China's Policy Discourse Under Hu Jintao."
+
 [^36]: E-International Relations. "Hu Jintao's Foreign Policy Legacy." December 8, 2012. https://www.e-ir.info/2012/12/08/hu-jintaos-foreign-policy-legacy/
+
 [^37]: National Center for Biotechnology Information. "China's Engagement with Global Health Diplomacy: Was SARS a Watershed?" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860492/
+
 [^38]: NCBI PMC. "The challenges of healthcare reforms in China." https://pmc.ncbi.nlm.nih.gov/articles/PMC7118747/
+
 [^39]: NCBI PMC. "The challenges of healthcare reforms in China."
+
 [^40]: Ministry of Foreign Affairs of the People's Republic of China. "Hu Jintao Meets with Foreign Leaders to the Opening Ceremony of the Beijing Olympic Games." https://www.fmprc.gov.cn/mfa_eng/gjhdq_665435/2675_665437/2676_663356/2678_663360/200808/t20080812_509311.html
+
 [^41]: E-International Relations. "Hu Jintao's Foreign Policy Legacy."
+
 [^42]: E-International Relations. "Hu Jintao's Foreign Policy Legacy."
+
 [^43]: CNN. "Hu Jintao Fast Facts." https://www.cnn.com/world/asia/hu-jintao-fast-facts
+
 [^44]: CNN. "Hu Jintao Fast Facts."
+
 [^45]: Washington Post. "China's Hu Jintao answers questions with Washington Post." January 16, 2011. https://www.washingtonpost.com/wp-dyn/content/article/2011/01/16/AR2011011601921_3.html
+
 [^46]: Human Rights Watch. "Hu Jintao Visit: No Progress on Human Rights in China."
+
 [^47]: Radio Free Asia. "Spanish Court to Pursue Tibet 'Genocide' Case Against Hu Jintao." October 11, 2013. https://www.rfa.org/english/news/tibet/spanish-10112013164119.html
+
 [^48]: World Uyghur Congress. "China's former leader Hu Jintao indicted for policies in Tibet by Spanish court." https://www.uyghurcongress.org/en/chinas-former-leader-hu-jintao-indicted-for-policies-in-tibet-by-spanish-court/
+
 [^49]: U.S. Department of State. "2008 Human Rights Report: China (includes Tibet, Hong Kong, and Macau)." https://2009-2017.state.gov/j/drl/rls/hrrpt/2008/eap/119037.htm
+
 [^50]: U.S. Department of State. "2008 Human Rights Report: China."
+
 [^51]: Human Rights Watch. "Hu Jintao Visit: No Progress on Human Rights in China."
+
 [^52]: JSTOR. "The 'New Historic Missions': Reflections on Hu Jintao's Military Legacy." https://www.jstor.org/stable/10.2307/resrep11946.5
+
 [^53]: JSTOR. "The 'New Historic Missions.'"
+
 [^54]: Jamestown Foundation. "The Last Year of Hu's Leadership: Hu's to Blame?" https://jamestown.org/program/the-last-year-of-hus-leadership-hus-to-blame/
+
 [^55]: Jamestown Foundation. "The Last Year of Hu's Leadership."
+
 [^56]: Brookings Institution. "Hu's to Blame for China's Foreign Assertiveness?" https://www.brookings.edu/wp-content/uploads/2021/02/9780815739166_ch1.pdf
+
 [^57]: E-International Relations. "Hu Jintao's Foreign Policy Legacy."
+
 [^58]: Brookings Institution. "Hu's to Blame for China's Foreign Assertiveness?"
+
 [^59]: Wikipedia. "Liu Yongqing." https://en.wikipedia.org/wiki/Liu_Yongqing
+
 [^60]: Wikipedia. "Liu Yongqing."
+
 [^61]: Wikipedia. "Hu Jintao."
+
 [^62]: Mabumbe. "Hu Jintao's Age, Net Worth, Family, and Career Timeline." https://mabumbe.com/people/hu-jintaos-age-net-worth-family-and-career-timeline/
+
 [^63]: Notable Biographies. "Hu Jintao Biography."
+
 [^64]: Wikipedia. "Hu Jintao."
+
 [^65]: The Famous People. "Hu Jintao Biography - Childhood, Life Achievements & Timeline."
+
 [^66]: Council on Foreign Relations. "Hu Jintao's Legacy of Danger and Opportunity for Xi Jinping." https://www.cfr.org/blog/hu-jintaos-legacy-danger-and-opportunity-xi-jinping
+
 [^67]: VIF India. "The Changing Nature of 'Collective Leadership' in Xi's China."
+
 [^68]: China Leadership Monitor. "Leadership Core." https://chinaopensourceobservatory.org/glossary/leadership-core
+
 [^69]: VIF India. "The Changing Nature of 'Collective Leadership' in Xi's China."
+
 [^70]: Wikipedia. "Hu Jintao removal incident." https://en.wikipedia.org/wiki/Hu_Jintao_removal_incident
+
 [^71]: Wikipedia. "Hu Jintao removal incident."
+
 [^72]: Al Jazeera. "'Not feeling well': China's ex-leader led out of party congress." October 22, 2022. https://www.aljazeera.com/news/2022/10/22/former-china-president-hu-removed-from-communist-party-congress
+
 [^73]: E-International Relations. "Hu Jintao's Foreign Policy Legacy."
+
 [^74]: NCBI PMC. "The challenges of healthcare reforms in China."
+
 [^75]: Progressive International. "Li: Pro-Poor Development — How China Eradicated Poverty." https://progressive.international/blueprint/16a350d7-9d05-49d6-b855-5de756f52963-pro-poor-development-how-china-eradicated-poverty/en/
+
 [^76]: Council on Foreign Relations. "Hu Jintao's Legacy of Danger and Opportunity for Xi Jinping."
+
 [^77]: E-International Relations. "Hu Jintao's Foreign Policy Legacy."
+
 [^78]: University of Nottingham. "China's Policy Discourse Under Hu Jintao."
+
 [^79]: NCBI PMC. "The challenges of healthcare reforms in China."
+
 [^80]: VIF India. "The Changing Nature of 'Collective Leadership' in Xi's China."
+
 [^81]: VIF India. "The Changing Nature of 'Collective Leadership' in Xi's China."
+
 [^82]: Council on Foreign Relations. "Hu Jintao's Legacy of Danger and Opportunity for Xi Jinping."
+
 [^83]: Washington Post. "China's Hu Jintao answers questions with Washington Post."
+
 [^84]: Council on Foreign Relations. "Hu Jintao's Legacy of Danger and Opportunity for Xi Jinping."
+
 [^85]: Texas National Security Review. "Chinese Politics since Hu Jintao and the Origin of Xi Jinping's Strongman Rule: A New Hypothesis." September 2023. https://tnsr.org/2023/09/chinese-politics-since-hu-jintao-and-the-origin-of-xi-jinpings-strongman-rule-a-new-hypothesis/
+
 [^86]: Human Rights Watch. "Hu Jintao Visit: No Progress on Human Rights in China."
+
 [^87]: Radio Free Asia. "Spanish Court to Pursue Tibet 'Genocide' Case Against Hu Jintao."
+
 [^88]: Jamestown Foundation. "The Last Year of Hu's Leadership: Hu's to Blame?"
+
 [^89]: Jamestown Foundation. "The Last Year of Hu's Leadership."
+
 [^90]: Brookings Institution. "Hu's to Blame for China's Foreign Assertiveness?"
+
 [^91]: Brookings Institution. "Hu's to Blame for China's Foreign Assertiveness?"
+
 [^92]: JSTOR. "The 'New Historic Missions': Reflections on Hu Jintao's Military Legacy."
+
 [^93]: VIF India. "The Changing Nature of 'Collective Leadership' in Xi's China."
+
 [^94]: China Leadership Monitor. "Leadership Core."
+
 [^95]: Foreign Policy. "Did Xi Jinping Just Purge Hu Jintao at China's Party Congress?" October 22, 2022. https://foreignpolicy.com/2022/10/22/china-xi-jinping-hu-jintao-ccp-congress/
+
 [^96]: A-Z Quotes. "Top 25 Quotes by Hu Jintao." https://www.azquotes.com/author/22978-Hu_Jintao
+
 [^97]: BrainyQuote. "Hu Jintao Quotes." https://www.brainyquote.com/authors/hu-jintao-quotes
+
 [^98]: Washington Post. "China's Hu Jintao answers questions with Washington Post."
+
 [^99]: China Daily. "Harmonious society."
+
 [^100]: Chinese Embassy in India. "Quotable Quotes from Hu Jintao's Speech on CPC's 90th Founding Anniversary." July 19, 2011. https://in.china-embassy.gov.cn/eng/zt/cpc90/201107/t20110719_2377214.htm
+
 [^101]: BrainyQuote. "Hu Jintao Quotes."
+
 [^102]: Chinese Embassy in India. "Quotable Quotes from Hu Jintao's Speech."

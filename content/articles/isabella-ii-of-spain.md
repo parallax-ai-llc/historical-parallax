@@ -161,37 +161,37 @@ For scholarly presentations of her reign, historians recommend Raymond Carr's "S
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1830 | Born October 10 in the Royal Palace of Madrid |
-| 1833 | Proclaimed Queen of Spain at age two following Ferdinand VII's death (September 29); First Carlist War begins |
-| 1834 | Royal Statute (Estatuto Real) promulgated (April 10) |
-| 1836 | Mutiny of the Farm against Regent Maria Christina (August 12) |
-| 1837 | Spanish Constitution of 1837 established |
-| 1839 | First Carlist War ends with the Embrace of Vergara |
-| 1840 | Regent Maria Christina resigns; Baldomero Espartero becomes regent |
-| 1843 | Declared of age at thirteen; Espartero deposed; begins personal rule |
-| 1844 | Guardia Civil (Civil Guard) created; Moderate Decade begins (1844-1854) |
-| 1845 | New Constitution of 1845 promulgated; Spain becomes confessional state |
-| 1846 | Married cousin Francisco de Asís de Borbón (October 10) |
-| 1847 | Major scandal involving General Francisco Serrano; Education Act passed |
-| 1850 | Royal Theatre in Madrid inaugurated |
-| 1851 | Draft Civil Code; Canal Isabel II water company created; Concordat with Vatican |
-| 1854 | Moderate Decade ends; Progressive Biennium begins (1854-1856) |
-| 1855 | General Railway Act and General Disentailment Act passed; Education Act |
-| 1856 | Bank of Spain founded |
-| 1857 | Son Alfonso (future Alfonso XII) born (November 28); Education Act |
-| 1859 | War against Morocco begins |
-| 1860 | Present in Tetouan encouraging troops (January 1); Morocco War ends with Treaty of Wad-Ras (April 26) |
-| 1865 | Prado Museum collections expanded |
-| 1866 | Foundation stone laid for National Library headquarters (April 21); Pact of Ostend in Belgium (August 16) |
-| 1867 | Deep economic crisis and bad harvests; Brussels agreement among opposition |
+| Year | Event                                                                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1830 | Born October 10 in the Royal Palace of Madrid                                                                                                        |
+| 1833 | Proclaimed Queen of Spain at age two following Ferdinand VII's death (September 29); First Carlist War begins                                        |
+| 1834 | Royal Statute (Estatuto Real) promulgated (April 10)                                                                                                 |
+| 1836 | Mutiny of the Farm against Regent Maria Christina (August 12)                                                                                        |
+| 1837 | Spanish Constitution of 1837 established                                                                                                             |
+| 1839 | First Carlist War ends with the Embrace of Vergara                                                                                                   |
+| 1840 | Regent Maria Christina resigns; Baldomero Espartero becomes regent                                                                                   |
+| 1843 | Declared of age at thirteen; Espartero deposed; begins personal rule                                                                                 |
+| 1844 | Guardia Civil (Civil Guard) created; Moderate Decade begins (1844-1854)                                                                              |
+| 1845 | New Constitution of 1845 promulgated; Spain becomes confessional state                                                                               |
+| 1846 | Married cousin Francisco de Asís de Borbón (October 10)                                                                                              |
+| 1847 | Major scandal involving General Francisco Serrano; Education Act passed                                                                              |
+| 1850 | Royal Theatre in Madrid inaugurated                                                                                                                  |
+| 1851 | Draft Civil Code; Canal Isabel II water company created; Concordat with Vatican                                                                      |
+| 1854 | Moderate Decade ends; Progressive Biennium begins (1854-1856)                                                                                        |
+| 1855 | General Railway Act and General Disentailment Act passed; Education Act                                                                              |
+| 1856 | Bank of Spain founded                                                                                                                                |
+| 1857 | Son Alfonso (future Alfonso XII) born (November 28); Education Act                                                                                   |
+| 1859 | War against Morocco begins                                                                                                                           |
+| 1860 | Present in Tetouan encouraging troops (January 1); Morocco War ends with Treaty of Wad-Ras (April 26)                                                |
+| 1865 | Prado Museum collections expanded                                                                                                                    |
+| 1866 | Foundation stone laid for National Library headquarters (April 21); Pact of Ostend in Belgium (August 16)                                            |
+| 1867 | Deep economic crisis and bad harvests; Brussels agreement among opposition                                                                           |
 | 1868 | Naval mutiny in Cádiz begins Glorious Revolution (September); defeated at Battle of Alcolea (September 28); goes into exile in France (September 30) |
-| 1870 | Formally abdicated throne in favor of son Alfonso XII (June 25); separated from husband (March) |
-| 1874 | Bourbon monarchy restored; Alfonso XII becomes King (December 29) |
-| 1876 | Brief return to Spain (July); leaves for France again (1877) |
-| 1902 | Husband Francisco de Asís dies |
-| 1904 | Died of influenza in Paris (April 9); buried at El Escorial (April 15) |
+| 1870 | Formally abdicated throne in favor of son Alfonso XII (June 25); separated from husband (March)                                                      |
+| 1874 | Bourbon monarchy restored; Alfonso XII becomes King (December 29)                                                                                    |
+| 1876 | Brief return to Spain (July); leaves for France again (1877)                                                                                         |
+| 1902 | Husband Francisco de Asís dies                                                                                                                       |
+| 1904 | Died of influenza in Paris (April 9); buried at El Escorial (April 15)                                                                               |
 
 ---
 
@@ -199,7 +199,7 @@ For scholarly presentations of her reign, historians recommend Raymond Carr's "S
 
 ### About Her Wedding Night
 
-> "What shall I tell you about a man whom I saw wearing more lace than I was wearing on our wedding night?" 
+> "What shall I tell you about a man whom I saw wearing more lace than I was wearing on our wedding night?"
 
 Isabella's reported remark about her husband Francisco de Asís on their wedding night in 1846, revealing her profound disgust with the arranged marriage that would plague her reign with scandal.[^96]
 
@@ -224,101 +224,199 @@ Contemporary observation highlighting the imbalance in historical treatments of 
 ## References
 
 [^1]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^2]: Isabella II | Liberalism, Restoration, Glorious Revolution | Britannica. https://www.britannica.com/biography/Isabella-II-queen-of-Spain
+
 [^3]: Glorious Revolution (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Glorious_Revolution_(Spain)
+
 [^4]: Death of ex-Queen Isabella II of Spain | History Today. https://www.historytoday.com/archive/death-ex-queen-isabella-ii-spain
+
 [^5]: Isabella II Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/isabella-ii-of-spain-8943.php
+
 [^6]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^7]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^8]: Carlist Wars | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/carlist-wars
+
 [^9]: Spain - Isabella II, Unification, Monarchy | Britannica. https://www.britannica.com/place/Spain/Isabella-II-1833-68
+
 [^10]: Isabella II (1830–1904) | Encyclopedia.com. https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/isabella-ii-1830-1904
+
 [^11]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^12]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^13]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^14]: Carlist wars, History of Spain | Andalucia.com. https://www.andalucia.com/history/carlist-wars
+
 [^15]: Spain - Isabella II, Unification, Monarchy | Britannica. https://www.britannica.com/place/Spain/Isabella-II-1833-68
+
 [^16]: Spain - Isabella II, Unification, Monarchy | Britannica. https://www.britannica.com/place/Spain/Isabella-II-1833-68
+
 [^17]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^18]: Carlist wars, History of Spain | Andalucia.com. https://www.andalucia.com/history/carlist-wars
+
 [^19]: Baldomero Espartero - Wikipedia. https://en.wikipedia.org/wiki/Baldomero_Espartero
+
 [^20]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^21]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^22]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^23]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^24]: Isabella II | Liberalism, Restoration, Glorious Revolution | Britannica. https://www.britannica.com/biography/Isabella-II-queen-of-Spain
+
 [^25]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^26]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^27]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^28]: Spain - Isabella II, Unification, Monarchy | Britannica. https://www.britannica.com/place/Spain/Isabella-II-1833-68
+
 [^29]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^30]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^31]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^32]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^33]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^34]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^35]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^36]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^37]: Isabella II | Liberalism, Restoration, Glorious Revolution | Britannica. https://www.britannica.com/biography/Isabella-II-queen-of-Spain
+
 [^38]: Hispano–Moroccan War (1859–1860) - Wikipedia. https://en.wikipedia.org/wiki/Hispano–Moroccan_War_(1859–1860)
+
 [^39]: Treaty of Wad Ras - Wikipedia. https://en.wikipedia.org/wiki/Treaty_of_Wad_Ras
+
 [^40]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^41]: Isabella II (1830–1904) | Encyclopedia.com. https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/isabella-ii-1830-1904
+
 [^42]: Unfortunate Facts About Queen Isabella II Of Spain. https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance
+
 [^43]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^44]: Unfortunate Facts About Queen Isabella II Of Spain. https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance
+
 [^45]: Isabella II | Liberalism, Restoration, Glorious Revolution | Britannica. https://www.britannica.com/biography/Isabella-II-queen-of-Spain
+
 [^46]: Miserable and Scandalous Life of Isabella II | Medium. https://medium.com/lessons-from-history/miserable-and-scandalous-life-of-isabella-ii-11bf51168685
+
 [^47]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^48]: The twelve children of Isabel II - Hektoen International. https://hekint.org/2025/04/24/the-twelve-children-of-isabel-ii/
+
 [^49]: The twelve children of Isabel II - Hektoen International. https://hekint.org/2025/04/24/the-twelve-children-of-isabel-ii/
+
 [^50]: Isabella II (1830–1904) | Encyclopedia.com. https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/isabella-ii-1830-1904
+
 [^51]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^52]: Glorious Revolution (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Glorious_Revolution_(Spain)
+
 [^53]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^54]: Glorious Revolution (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Glorious_Revolution_(Spain)
+
 [^55]: Isabella II | Liberalism, Restoration, Glorious Revolution | Britannica. https://www.britannica.com/biography/Isabella-II-queen-of-Spain
+
 [^56]: Glorious Revolution (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Glorious_Revolution_(Spain)
+
 [^57]: Glorious Revolution (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Glorious_Revolution_(Spain)
+
 [^58]: Spanish Revolution of 1868 | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/spanish-revolution-1868
+
 [^59]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^60]: The twelve children of Isabel II - Hektoen International. https://hekint.org/2025/04/24/the-twelve-children-of-isabel-ii/
+
 [^61]: The twelve children of Isabel II - Hektoen International. https://hekint.org/2025/04/24/the-twelve-children-of-isabel-ii/
+
 [^62]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^63]: Unfortunate Facts About Queen Isabella II Of Spain. https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance
+
 [^64]: Miserable and Scandalous Life of Isabella II | Medium. https://medium.com/lessons-from-history/miserable-and-scandalous-life-of-isabella-ii-11bf51168685
+
 [^65]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^66]: Isabella II (1830–1904) | Encyclopedia.com. https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/isabella-ii-1830-1904
+
 [^67]: Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Isabella_II
+
 [^68]: Death of ex-Queen Isabella II of Spain | History Today. https://www.historytoday.com/archive/death-ex-queen-isabella-ii-spain
+
 [^69]: Isabella II (1830–1904) | Encyclopedia.com. https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/isabella-ii-1830-1904
+
 [^70]: Death of ex-Queen Isabella II of Spain | History Today. https://www.historytoday.com/archive/death-ex-queen-isabella-ii-spain
+
 [^71]: Death of ex-Queen Isabella II of Spain | History Today. https://www.historytoday.com/archive/death-ex-queen-isabella-ii-spain
+
 [^72]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^73]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^74]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^75]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^76]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^77]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^78]: Spanish Constitution of 1837 - Wikipedia. https://en.wikipedia.org/wiki/Spanish_Constitution_of_1837
+
 [^79]: Spain - Isabella II, Unification, Monarchy | Britannica. https://www.britannica.com/place/Spain/Isabella-II-1833-68
+
 [^80]: Alfonso XII | Reign of Isabella II, Liberalism, Restoration | Britannica. https://www.britannica.com/biography/Alfonso-XII
+
 [^81]: Restoration (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Restoration_(Spain)
+
 [^82]: Isabella II - La Galería de las Colecciones Reales. https://www.galeriadelascoleccionesreales.es/en/monarch/isabella-ii/ca1c6e41-9513-dd8a-9a0d-228edaaf58d6
+
 [^83]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^84]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^85]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^86]: Reign of Isabella II - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Isabella_II
+
 [^87]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^88]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^89]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^90]: Glorious Revolution (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Glorious_Revolution_(Spain)
+
 [^91]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^92]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^93]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^94]: Isabella II | Liberalism, Restoration, Glorious Revolution | Britannica. https://www.britannica.com/biography/Isabella-II-queen-of-Spain
+
 [^95]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii
+
 [^96]: Unfortunate Facts About Queen Isabella II Of Spain. https://www.factinate.com/people/unfortunate-facts-about-queen-isabella-ii-of-spain-the-queen-of-sad-mischance
+
 [^97]: Hispano–Moroccan War (1859–1860) - Wikipedia. https://en.wikipedia.org/wiki/Hispano–Moroccan_War_(1859–1860)
+
 [^98]: Isabella II of Spain | Life, Reign, Legacy | History Worksheets. https://schoolhistory.co.uk/industrial/isabella-ii-of-spain/
+
 [^99]: Isabella II | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/isabella-ii

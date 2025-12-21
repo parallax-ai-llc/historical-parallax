@@ -143,160 +143,252 @@ Webster's presidential ambitions, pursued unsuccessfully for decades, led to que
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1782 | Born January 18 in Salisbury, New Hampshire |
-| 1797 | Enrolled at Dartmouth College at age 15 |
-| 1801 | Graduated from Dartmouth College |
-| 1805 | Admitted to the bar, began practicing law |
-| 1807 | Moved to Portsmouth, New Hampshire to practice law |
-| 1808 | Married Grace Fletcher |
-| 1812 | Elected to U.S. House of Representatives from New Hampshire |
-| 1816 | Moved to Boston to expand legal practice |
-| 1819 | Argued Dartmouth College v. Woodward before U.S. Supreme Court |
-| 1823 | Returned to U.S. House as Representative from Massachusetts |
-| 1827 | Elected to U.S. Senate from Massachusetts |
-| 1828 | Wife Grace Fletcher Webster died |
-| 1829 | Married Caroline LeRoy |
-| 1830 | Delivered Second Reply to Hayne, January 26-27 |
-| 1836 | Ran unsuccessfully for president as Whig candidate |
-| 1839 | Delivered Plymouth Rock Oration |
+| Year | Event                                                                     |
+| ---- | ------------------------------------------------------------------------- |
+| 1782 | Born January 18 in Salisbury, New Hampshire                               |
+| 1797 | Enrolled at Dartmouth College at age 15                                   |
+| 1801 | Graduated from Dartmouth College                                          |
+| 1805 | Admitted to the bar, began practicing law                                 |
+| 1807 | Moved to Portsmouth, New Hampshire to practice law                        |
+| 1808 | Married Grace Fletcher                                                    |
+| 1812 | Elected to U.S. House of Representatives from New Hampshire               |
+| 1816 | Moved to Boston to expand legal practice                                  |
+| 1819 | Argued Dartmouth College v. Woodward before U.S. Supreme Court            |
+| 1823 | Returned to U.S. House as Representative from Massachusetts               |
+| 1827 | Elected to U.S. Senate from Massachusetts                                 |
+| 1828 | Wife Grace Fletcher Webster died                                          |
+| 1829 | Married Caroline LeRoy                                                    |
+| 1830 | Delivered Second Reply to Hayne, January 26-27                            |
+| 1836 | Ran unsuccessfully for president as Whig candidate                        |
+| 1839 | Delivered Plymouth Rock Oration                                           |
 | 1840 | Again sought Whig presidential nomination, lost to William Henry Harrison |
-| 1841 | Appointed Secretary of State by President Harrison |
-| 1842 | Negotiated Webster-Ashburton Treaty with Great Britain |
-| 1843 | Resigned as Secretary of State, returned to Senate |
-| 1845 | Returned to U.S. Senate |
-| 1850 | Delivered controversial March 7 speech supporting Compromise of 1850 |
-| 1850 | Appointed Secretary of State by President Millard Fillmore (July) |
-| 1852 | Failed to secure Whig presidential nomination |
-| 1852 | Died October 24 at his Marshfield estate at age 70 |
+| 1841 | Appointed Secretary of State by President Harrison                        |
+| 1842 | Negotiated Webster-Ashburton Treaty with Great Britain                    |
+| 1843 | Resigned as Secretary of State, returned to Senate                        |
+| 1845 | Returned to U.S. Senate                                                   |
+| 1850 | Delivered controversial March 7 speech supporting Compromise of 1850      |
+| 1850 | Appointed Secretary of State by President Millard Fillmore (July)         |
+| 1852 | Failed to secure Whig presidential nomination                             |
+| 1852 | Died October 24 at his Marshfield estate at age 70                        |
 
 ---
 
 ## Famous Quotes
 
-> "Liberty and Union, now and forever, one and inseparable!" 
-> 
+> "Liberty and Union, now and forever, one and inseparable!"
+>
 > From the Second Reply to Hayne (1830), this became Webster's most famous utterance and a rallying cry for American nationalism. The phrase encapsulated his constitutional philosophy that liberty could only be preserved through a strong, indivisible Union[^87].
 
 > "There is no refuge from confession but suicide; and suicide is confession."
-> 
+>
 > From his argument in the 1830 murder trial of John Francis Knapp, demonstrating Webster's prosecutorial skill and dramatic flair. The case established his reputation beyond constitutional law as a formidable criminal lawyer[^88].
 
 > "It is, sir, as I have said, a small college. And yet there are those who love it."
-> 
+>
 > From his 1818 argument in Dartmouth College v. Woodward, this emotional appeal to his alma mater reportedly moved Chief Justice Marshall and has been quoted by Dartmouth supporters ever since[^89].
 
 > "I was born an American; I will live an American; I shall die an American."
-> 
+>
 > From his March 7, 1850 speech, defending his support for the Compromise. While the speech damaged his reputation in the North, this declaration of nationalism resonated with those who shared his priority of Union preservation[^90].
 
 > "There are men in all ages who mean to govern well, but they mean to govern. They promise to be good masters, but they mean to be masters."
-> 
+>
 > From an 1837 speech, reflecting Webster's Whig philosophy of limiting executive power and his opposition to "King Andrew" Jackson's presidency[^91].
 
 > "Whatever makes men good Christians, makes them good citizens."
-> 
+>
 > From a speech at Plymouth in 1820, expressing Webster's view of the relationship between religion and republican government, a common theme in his addresses[^92].
 
 > "Let us develop the resources of our land, call forth its powers, build up its institutions, promote all its great interests, and see whether we also, in our day and generation, may not perform something worthy to be remembered."
-> 
+>
 > From his 1825 address at the dedication of the Bunker Hill Monument, articulating his vision of American economic nationalism and continental development[^93].
 
 ---
 
 ## References
 
-[^1]: Remini, Robert V. *Daniel Webster: The Man and His Time*. New York: W.W. Norton & Company, 1997, pp. 23-28.
-[^2]: Baxter, Maurice G. *One and Inseparable: Daniel Webster and the Union*. Cambridge: Harvard University Press, 1984, pp. 3-6.
-[^3]: Peterson, Merrill D. *The Great Triumvirate: Webster, Clay, and Calhoun*. New York: Oxford University Press, 1987, pp. 13-15.
-[^4]: Fuess, Claude M. *Daniel Webster*. Boston: Little, Brown and Company, 1930, Vol. 1, pp. 45-58.
-[^5]: Bartlett, Irving H. *Daniel Webster*. New York: W.W. Norton & Company, 1978, pp. 18-22.
-[^6]: Remini, *Daniel Webster*, pp. 52-68.
-[^7]: Brown, Norman D. *Daniel Webster and the Politics of Availability*. Athens: University of Georgia Press, 1969, pp. 12-18.
-[^8]: Shewmaker, Kenneth E., ed. *Daniel Webster: "The Completest Man"*. Hanover: University Press of New England, 1990, pp. 34-41.
-[^9]: Howe, Daniel Walker. *The Political Culture of the American Whigs*. Chicago: University of Chicago Press, 1979, pp. 123-131.
-[^10]: Baxter, *One and Inseparable*, pp. 87-94.
-[^11]: Newmyer, R. Kent. *Supreme Court Justice Joseph Story: Statesman of the Old Republic*. Chapel Hill: University of North Carolina Press, 1985, pp. 256-258.
-[^12]: Warren, Charles. *The Supreme Court in United States History*. Boston: Little, Brown and Company, 1922, Vol. 1, pp. 476-479.
-[^13]: White, G. Edward. *The Marshall Court and Cultural Change, 1815-1835*. New York: Oxford University Press, 1991, pp. 541-600.
-[^14]: Baxter, Maurice G. *The Steamboat Monopoly: Gibbons v. Ogden, 1824*. New York: Alfred A. Knopf, 1972, pp. 43-67.
-[^15]: Remini, *Daniel Webster*, pp. 198-215.
-[^16]: Peterson, *The Great Triumvirate*, pp. 87-93.
-[^17]: Freehling, William W. *Prelude to Civil War: The Nullification Controversy in South Carolina, 1816-1836*. New York: Harper & Row, 1966, pp. 156-176.
-[^18]: Webster, Daniel. "Second Reply to Hayne," *Register of Debates in Congress*, Vol. 6, Part 1 (January 26-27, 1830), pp. 58-80.
-[^19]: Remini, Robert V. *Andrew Jackson and the Course of American Freedom, 1822-1832*. New York: Harper & Row, 1981, pp. 233-234.
-[^20]: Jones, Howard. *To the Webster-Ashburton Treaty: A Study in Anglo-American Relations, 1783-1843*. Chapel Hill: University of North Carolina Press, 1977, pp. 118-156.
-[^21]: Shewmaker, Kenneth E. "Daniel Webster and the Politics of Foreign Policy, 1841-1843," *Journal of American History* 63, no. 2 (1976): 303-315.
-[^22]: Peterson, *The Great Triumvirate*, pp. 291-308.
-[^23]: Hamilton, Holman. *Prologue to Conflict: The Crisis and Compromise of 1850*. Lexington: University Press of Kentucky, 1964, pp. 89-112.
-[^24]: Dalzell, Robert F. *Daniel Webster and the Trial of American Nationalism, 1843-1852*. Boston: Houghton Mifflin, 1973, pp. 187-234.
-[^25]: Howe, *Political Culture of the American Whigs*, pp. 96-122.
-[^26]: Taussig, Frank W. *The Tariff History of the United States*. New York: G.P. Putnam's Sons, 1931, pp. 68-110.
-[^27]: Newmyer, R. Kent. "Daniel Webster as Tocqueville's Lawyer: The Dartmouth College Case Again," *American Journal of Legal History* 11, no. 2 (1967): 127-147.
-[^28]: White, *The Marshall Court*, pp. 603-614.
-[^29]: Webster, Daniel. "The Constitution and the Union," *Congressional Globe*, 31st Congress, 1st Session (March 7, 1850), pp. 476-483.
-[^30]: Remini, *Daniel Webster*, pp. 665-679.
-[^31]: Bartlett, *Daniel Webster*, pp. 259-276.
-[^32]: Emerson, Ralph Waldo. *Journals and Miscellaneous Notebooks*, Vol. 11. Cambridge: Harvard University Press, 1975, p. 271.
-[^33]: Whittier, John Greenleaf. "Ichabod," in *The Complete Poetical Works of John Greenleaf Whittier*. Boston: Houghton Mifflin, 1894, pp. 188-189.
-[^34]: McPherson, James M. *Battle Cry of Freedom: The Civil War Era*. New York: Oxford University Press, 1988, pp. 72-74.
-[^35]: Campbell, Stanley W. *The Slave Catchers: Enforcement of the Fugitive Slave Law, 1850-1860*. Chapel Hill: University of North Carolina Press, 1970, pp. 23-45.
-[^36]: Baxter, *One and Inseparable*, pp. 435-442.
-[^37]: Hammond, Bray. *Banks and Politics in America from the Revolution to the Civil War*. Princeton: Princeton University Press, 1957, pp. 372-404.
-[^38]: Current, Richard N. *Daniel Webster and the Rise of National Conservatism*. Boston: Little, Brown and Company, 1955, pp. 87-94.
-[^39]: Brown, *Daniel Webster and the Politics of Availability*, pp. 156-234.
-[^40]: Adams, John Quincy. *Memoirs of John Quincy Adams*, ed. Charles Francis Adams. Philadelphia: J.B. Lippincott & Co., 1876, Vol. 10, pp. 357-358.
-[^41]: Peterson, *The Great Triumvirate*, pp. 467-468.
-[^42]: Satz, Ronald N. *American Indian Policy in the Jacksonian Era*. Lincoln: University of Nebraska Press, 1975, pp. 23-45.
-[^43]: Fuess, *Daniel Webster*, Vol. 1, pp. 187-192.
-[^44]: Remini, *Daniel Webster*, pp. 280-285.
-[^45]: Bartlett, *Daniel Webster*, pp. 125-128.
-[^46]: Baxter, *One and Inseparable*, pp. 550-551.
-[^47]: Remini, *Daniel Webster*, pp. 751-752.
-[^48]: Fuess, *Daniel Webster*, Vol. 2, pp. 143-147.
-[^49]: Dalzell, Robert F. "A House Divided: Daniel Webster and His Family," *Proceedings of the Massachusetts Historical Society* 99 (1987): 35-56.
-[^50]: Baxter, *One and Inseparable*, pp. 441-443.
-[^51]: Lodge, Henry Cabot. *Daniel Webster*. Boston: Houghton Mifflin, 1883, pp. 89-92.
-[^52]: Carlyle, Thomas. Quoted in Curtis, George Ticknor. *Life of Daniel Webster*. New York: D. Appleton and Company, 1870, Vol. 1, p. 112.
-[^53]: Peterson, *The Great Triumvirate*, pp. 468-471.
-[^54]: Bartlett, *Daniel Webster*, pp. 287-295.
-[^55]: Newmyer, *Supreme Court Justice Joseph Story*, pp. 184-189.
-[^56]: Farber, Daniel A. *Lincoln's Constitution*. Chicago: University of Chicago Press, 2003, pp. 23-45.
-[^57]: Jaffa, Harry V. *Crisis of the House Divided: An Interpretation of the Issues in the Lincoln-Douglas Debates*. Garden City: Doubleday, 1959, pp. 227-232.
-[^58]: Gillman, Howard. *The Constitution Besieged: The Rise and Demise of Lochner Era Police Powers Jurisprudence*. Durham: Duke University Press, 1993, pp. 45-67.
-[^59]: Currie, David P. *The Constitution in the Supreme Court: The First Hundred Years, 1789-1888*. Chicago: University of Chicago Press, 1985, pp. 156-159.
-[^60]: Cmiel, Kenneth. *Democratic Eloquence: The Fight over Popular Speech in Nineteenth-Century America*. New York: William Morrow, 1990, pp. 56-78.
-[^61]: Gustafson, Sandra M. *Eloquence Is Power: Oratory and Performance in Early America*. Chapel Hill: University of North Carolina Press, 2000, pp. 234-256.
-[^62]: Donald, David Herbert. *Charles Sumner and the Coming of the Civil War*. New York: Alfred A. Knopf, 1960, pp. 189-194.
-[^63]: Fehrenbacher, Don E. *The Slaveholding Republic: An Account of the United States Government's Relations to Slavery*. New York: Oxford University Press, 2001, pp. 237-241.
-[^64]: Holt, Michael F. *The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War*. New York: Oxford University Press, 1999, pp. 437-462.
-[^65]: Brown, *Daniel Webster and the Politics of Availability*, pp. 267-289.
-[^66]: Peterson, *The Great Triumvirate*, pp. 471-477.
-[^67]: Wilentz, Sean. *The Rise of American Democracy: Jefferson to Lincoln*. New York: W.W. Norton & Company, 2005, pp. 634-641.
-[^68]: Peterson, *The Great Triumvirate*, p. 476.
-[^69]: Farber, Daniel A. "The Story of McCulloch: Banking on National Power," in *Constitutional Law Stories*. New York: Foundation Press, 2004, pp. 33-66.
-[^70]: Remini, *Daniel Webster*, pp. 742-748.
-[^71]: Remini, Robert V. *At the Edge of the Precipice: Henry Clay and the Compromise That Saved the Union*. New York: Basic Books, 2010, pp. 87-112.
-[^72]: White, *The Marshall Court*, pp. 611-615.
+[^1]: Remini, Robert V. _Daniel Webster: The Man and His Time_. New York: W.W. Norton & Company, 1997, pp. 23-28.
+
+[^2]: Baxter, Maurice G. _One and Inseparable: Daniel Webster and the Union_. Cambridge: Harvard University Press, 1984, pp. 3-6.
+
+[^3]: Peterson, Merrill D. _The Great Triumvirate: Webster, Clay, and Calhoun_. New York: Oxford University Press, 1987, pp. 13-15.
+
+[^4]: Fuess, Claude M. _Daniel Webster_. Boston: Little, Brown and Company, 1930, Vol. 1, pp. 45-58.
+
+[^5]: Bartlett, Irving H. _Daniel Webster_. New York: W.W. Norton & Company, 1978, pp. 18-22.
+
+[^6]: Remini, _Daniel Webster_, pp. 52-68.
+
+[^7]: Brown, Norman D. _Daniel Webster and the Politics of Availability_. Athens: University of Georgia Press, 1969, pp. 12-18.
+
+[^8]: Shewmaker, Kenneth E., ed. _Daniel Webster: "The Completest Man"_. Hanover: University Press of New England, 1990, pp. 34-41.
+
+[^9]: Howe, Daniel Walker. _The Political Culture of the American Whigs_. Chicago: University of Chicago Press, 1979, pp. 123-131.
+
+[^10]: Baxter, _One and Inseparable_, pp. 87-94.
+
+[^11]: Newmyer, R. Kent. _Supreme Court Justice Joseph Story: Statesman of the Old Republic_. Chapel Hill: University of North Carolina Press, 1985, pp. 256-258.
+
+[^12]: Warren, Charles. _The Supreme Court in United States History_. Boston: Little, Brown and Company, 1922, Vol. 1, pp. 476-479.
+
+[^13]: White, G. Edward. _The Marshall Court and Cultural Change, 1815-1835_. New York: Oxford University Press, 1991, pp. 541-600.
+
+[^14]: Baxter, Maurice G. _The Steamboat Monopoly: Gibbons v. Ogden, 1824_. New York: Alfred A. Knopf, 1972, pp. 43-67.
+
+[^15]: Remini, _Daniel Webster_, pp. 198-215.
+
+[^16]: Peterson, _The Great Triumvirate_, pp. 87-93.
+
+[^17]: Freehling, William W. _Prelude to Civil War: The Nullification Controversy in South Carolina, 1816-1836_. New York: Harper & Row, 1966, pp. 156-176.
+
+[^18]: Webster, Daniel. "Second Reply to Hayne," _Register of Debates in Congress_, Vol. 6, Part 1 (January 26-27, 1830), pp. 58-80.
+
+[^19]: Remini, Robert V. _Andrew Jackson and the Course of American Freedom, 1822-1832_. New York: Harper & Row, 1981, pp. 233-234.
+
+[^20]: Jones, Howard. _To the Webster-Ashburton Treaty: A Study in Anglo-American Relations, 1783-1843_. Chapel Hill: University of North Carolina Press, 1977, pp. 118-156.
+
+[^21]: Shewmaker, Kenneth E. "Daniel Webster and the Politics of Foreign Policy, 1841-1843," _Journal of American History_ 63, no. 2 (1976): 303-315.
+
+[^22]: Peterson, _The Great Triumvirate_, pp. 291-308.
+
+[^23]: Hamilton, Holman. _Prologue to Conflict: The Crisis and Compromise of 1850_. Lexington: University Press of Kentucky, 1964, pp. 89-112.
+
+[^24]: Dalzell, Robert F. _Daniel Webster and the Trial of American Nationalism, 1843-1852_. Boston: Houghton Mifflin, 1973, pp. 187-234.
+
+[^25]: Howe, _Political Culture of the American Whigs_, pp. 96-122.
+
+[^26]: Taussig, Frank W. _The Tariff History of the United States_. New York: G.P. Putnam's Sons, 1931, pp. 68-110.
+
+[^27]: Newmyer, R. Kent. "Daniel Webster as Tocqueville's Lawyer: The Dartmouth College Case Again," _American Journal of Legal History_ 11, no. 2 (1967): 127-147.
+
+[^28]: White, _The Marshall Court_, pp. 603-614.
+
+[^29]: Webster, Daniel. "The Constitution and the Union," _Congressional Globe_, 31st Congress, 1st Session (March 7, 1850), pp. 476-483.
+
+[^30]: Remini, _Daniel Webster_, pp. 665-679.
+
+[^31]: Bartlett, _Daniel Webster_, pp. 259-276.
+
+[^32]: Emerson, Ralph Waldo. _Journals and Miscellaneous Notebooks_, Vol. 11. Cambridge: Harvard University Press, 1975, p. 271.
+
+[^33]: Whittier, John Greenleaf. "Ichabod," in _The Complete Poetical Works of John Greenleaf Whittier_. Boston: Houghton Mifflin, 1894, pp. 188-189.
+
+[^34]: McPherson, James M. _Battle Cry of Freedom: The Civil War Era_. New York: Oxford University Press, 1988, pp. 72-74.
+
+[^35]: Campbell, Stanley W. _The Slave Catchers: Enforcement of the Fugitive Slave Law, 1850-1860_. Chapel Hill: University of North Carolina Press, 1970, pp. 23-45.
+
+[^36]: Baxter, _One and Inseparable_, pp. 435-442.
+
+[^37]: Hammond, Bray. _Banks and Politics in America from the Revolution to the Civil War_. Princeton: Princeton University Press, 1957, pp. 372-404.
+
+[^38]: Current, Richard N. _Daniel Webster and the Rise of National Conservatism_. Boston: Little, Brown and Company, 1955, pp. 87-94.
+
+[^39]: Brown, _Daniel Webster and the Politics of Availability_, pp. 156-234.
+
+[^40]: Adams, John Quincy. _Memoirs of John Quincy Adams_, ed. Charles Francis Adams. Philadelphia: J.B. Lippincott & Co., 1876, Vol. 10, pp. 357-358.
+
+[^41]: Peterson, _The Great Triumvirate_, pp. 467-468.
+
+[^42]: Satz, Ronald N. _American Indian Policy in the Jacksonian Era_. Lincoln: University of Nebraska Press, 1975, pp. 23-45.
+
+[^43]: Fuess, _Daniel Webster_, Vol. 1, pp. 187-192.
+
+[^44]: Remini, _Daniel Webster_, pp. 280-285.
+
+[^45]: Bartlett, _Daniel Webster_, pp. 125-128.
+
+[^46]: Baxter, _One and Inseparable_, pp. 550-551.
+
+[^47]: Remini, _Daniel Webster_, pp. 751-752.
+
+[^48]: Fuess, _Daniel Webster_, Vol. 2, pp. 143-147.
+
+[^49]: Dalzell, Robert F. "A House Divided: Daniel Webster and His Family," _Proceedings of the Massachusetts Historical Society_ 99 (1987): 35-56.
+
+[^50]: Baxter, _One and Inseparable_, pp. 441-443.
+
+[^51]: Lodge, Henry Cabot. _Daniel Webster_. Boston: Houghton Mifflin, 1883, pp. 89-92.
+
+[^52]: Carlyle, Thomas. Quoted in Curtis, George Ticknor. _Life of Daniel Webster_. New York: D. Appleton and Company, 1870, Vol. 1, p. 112.
+
+[^53]: Peterson, _The Great Triumvirate_, pp. 468-471.
+
+[^54]: Bartlett, _Daniel Webster_, pp. 287-295.
+
+[^55]: Newmyer, _Supreme Court Justice Joseph Story_, pp. 184-189.
+
+[^56]: Farber, Daniel A. _Lincoln's Constitution_. Chicago: University of Chicago Press, 2003, pp. 23-45.
+
+[^57]: Jaffa, Harry V. _Crisis of the House Divided: An Interpretation of the Issues in the Lincoln-Douglas Debates_. Garden City: Doubleday, 1959, pp. 227-232.
+
+[^58]: Gillman, Howard. _The Constitution Besieged: The Rise and Demise of Lochner Era Police Powers Jurisprudence_. Durham: Duke University Press, 1993, pp. 45-67.
+
+[^59]: Currie, David P. _The Constitution in the Supreme Court: The First Hundred Years, 1789-1888_. Chicago: University of Chicago Press, 1985, pp. 156-159.
+
+[^60]: Cmiel, Kenneth. _Democratic Eloquence: The Fight over Popular Speech in Nineteenth-Century America_. New York: William Morrow, 1990, pp. 56-78.
+
+[^61]: Gustafson, Sandra M. _Eloquence Is Power: Oratory and Performance in Early America_. Chapel Hill: University of North Carolina Press, 2000, pp. 234-256.
+
+[^62]: Donald, David Herbert. _Charles Sumner and the Coming of the Civil War_. New York: Alfred A. Knopf, 1960, pp. 189-194.
+
+[^63]: Fehrenbacher, Don E. _The Slaveholding Republic: An Account of the United States Government's Relations to Slavery_. New York: Oxford University Press, 2001, pp. 237-241.
+
+[^64]: Holt, Michael F. _The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War_. New York: Oxford University Press, 1999, pp. 437-462.
+
+[^65]: Brown, _Daniel Webster and the Politics of Availability_, pp. 267-289.
+
+[^66]: Peterson, _The Great Triumvirate_, pp. 471-477.
+
+[^67]: Wilentz, Sean. _The Rise of American Democracy: Jefferson to Lincoln_. New York: W.W. Norton & Company, 2005, pp. 634-641.
+
+[^68]: Peterson, _The Great Triumvirate_, p. 476.
+
+[^69]: Farber, Daniel A. "The Story of McCulloch: Banking on National Power," in _Constitutional Law Stories_. New York: Foundation Press, 2004, pp. 33-66.
+
+[^70]: Remini, _Daniel Webster_, pp. 742-748.
+
+[^71]: Remini, Robert V. _At the Edge of the Precipice: Henry Clay and the Compromise That Saved the Union_. New York: Basic Books, 2010, pp. 87-112.
+
+[^72]: White, _The Marshall Court_, pp. 611-615.
+
 [^73]: Newmyer, R. Kent. "Daniel Webster as Tocqueville's Lawyer," pp. 141-147.
-[^74]: Current, *Daniel Webster and the Rise of National Conservatism*, pp. 156-167.
-[^75]: Knupfer, Peter B. *The Union as It Is: Constitutional Unionism and Sectional Compromise, 1787-1861*. Chapel Hill: University of North Carolina Press, 1991, pp. 187-213.
-[^76]: Black, Edwin. "Daniel Webster's 'Second Reply to Hayne,'" *Quarterly Journal of Speech* 52, no. 2 (1966): 141-158.
-[^77]: Donald, *Charles Sumner and the Coming of the Civil War*, p. 191.
-[^78]: McPherson, *Battle Cry of Freedom*, pp. 78-79.
-[^79]: Douglass, Frederick. "The Meaning of July Fourth for the Negro" (1852), in *The Frederick Douglass Papers*, Series One, Vol. 2. New Haven: Yale University Press, 1982, pp. 359-388.
-[^80]: Foner, Eric. *The Fiery Trial: Abraham Lincoln and American Slavery*. New York: W.W. Norton & Company, 2010, pp. 67-69.
-[^81]: Potter, David M. *The Impending Crisis, 1848-1861*. New York: Harper & Row, 1976, pp. 90-120.
-[^82]: Freehling, William W. *The Road to Disunion: Secessionists at Bay, 1776-1854*. New York: Oxford University Press, 1990, pp. 487-510.
-[^83]: Baxter, *One and Inseparable*, pp. 163-189.
-[^84]: Hofstadter, Richard. *The American Political Tradition and the Men Who Made It*. New York: Alfred A. Knopf, 1948, pp. 72-91.
-[^85]: Brown, *Daniel Webster and the Politics of Availability*, pp. 234-267.
-[^86]: Holt, *The Rise and Fall of the American Whig Party*, pp. 146-158.
+
+[^74]: Current, _Daniel Webster and the Rise of National Conservatism_, pp. 156-167.
+
+[^75]: Knupfer, Peter B. _The Union as It Is: Constitutional Unionism and Sectional Compromise, 1787-1861_. Chapel Hill: University of North Carolina Press, 1991, pp. 187-213.
+
+[^76]: Black, Edwin. "Daniel Webster's 'Second Reply to Hayne,'" _Quarterly Journal of Speech_ 52, no. 2 (1966): 141-158.
+
+[^77]: Donald, _Charles Sumner and the Coming of the Civil War_, p. 191.
+
+[^78]: McPherson, _Battle Cry of Freedom_, pp. 78-79.
+
+[^79]: Douglass, Frederick. "The Meaning of July Fourth for the Negro" (1852), in _The Frederick Douglass Papers_, Series One, Vol. 2. New Haven: Yale University Press, 1982, pp. 359-388.
+
+[^80]: Foner, Eric. _The Fiery Trial: Abraham Lincoln and American Slavery_. New York: W.W. Norton & Company, 2010, pp. 67-69.
+
+[^81]: Potter, David M. _The Impending Crisis, 1848-1861_. New York: Harper & Row, 1976, pp. 90-120.
+
+[^82]: Freehling, William W. _The Road to Disunion: Secessionists at Bay, 1776-1854_. New York: Oxford University Press, 1990, pp. 487-510.
+
+[^83]: Baxter, _One and Inseparable_, pp. 163-189.
+
+[^84]: Hofstadter, Richard. _The American Political Tradition and the Men Who Made It_. New York: Alfred A. Knopf, 1948, pp. 72-91.
+
+[^85]: Brown, _Daniel Webster and the Politics of Availability_, pp. 234-267.
+
+[^86]: Holt, _The Rise and Fall of the American Whig Party_, pp. 146-158.
+
 [^87]: Webster, "Second Reply to Hayne," p. 80.
-[^88]: Fuess, *Daniel Webster*, Vol. 1, pp. 312-325.
-[^89]: Warren, *The Supreme Court in United States History*, p. 478.
+
+[^88]: Fuess, _Daniel Webster_, Vol. 1, pp. 312-325.
+
+[^89]: Warren, _The Supreme Court in United States History_, p. 478.
+
 [^90]: Webster, "The Constitution and the Union," p. 482.
-[^91]: Webster, Daniel. "The Presidential Protest," *Register of Debates in Congress*, Vol. 13, Part 1 (May 7, 1834), p. 1673.
-[^92]: Webster, Daniel. "First Settlement of New England," in *The Writings and Speeches of Daniel Webster*. Boston: Little, Brown and Company, 1903, Vol. 1, p. 203.
-[^93]: Webster, Daniel. "Completion of the Bunker Hill Monument," in *The Writings and Speeches of Daniel Webster*. Boston: Little, Brown and Company, 1903, Vol. 1, p. 287.
+
+[^91]: Webster, Daniel. "The Presidential Protest," _Register of Debates in Congress_, Vol. 13, Part 1 (May 7, 1834), p. 1673.
+
+[^92]: Webster, Daniel. "First Settlement of New England," in _The Writings and Speeches of Daniel Webster_. Boston: Little, Brown and Company, 1903, Vol. 1, p. 203.
+
+[^93]: Webster, Daniel. "Completion of the Bunker Hill Monument," in _The Writings and Speeches of Daniel Webster_. Boston: Little, Brown and Company, 1903, Vol. 1, p. 287.

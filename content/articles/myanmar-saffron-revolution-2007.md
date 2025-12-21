@@ -35,6 +35,7 @@ Myanmar (Burma) had been under military rule since 1962:
 ### Economic Hardship
 
 By 2007, Myanmar was desperately poor:
+
 - One of Asia's least developed countries
 - Economy mismanaged for decades
 - Fuel subsidies among few supports for citizens
@@ -42,6 +43,7 @@ By 2007, Myanmar was desperately poor:
 ### The Fuel Trigger
 
 **August 15, 2007:** Government abruptly removed fuel subsidies
+
 - Diesel and petrol prices rose 66-100%
 - Compressed natural gas (bus fuel) rose **500%**
 - Transport costs soared; price of everything increased
@@ -54,6 +56,7 @@ By 2007, Myanmar was desperately poor:
 ### Initial Protests (August-September)
 
 **August 19:** First protests in Yangon by activists
+
 - **88 Generation Students** (veterans of 1988) led early demonstrations
 - Arrests followed; key leaders detained
 - Protests continued despite crackdowns
@@ -61,11 +64,13 @@ By 2007, Myanmar was desperately poor:
 ### Monks Join (September)
 
 **Early September:** Monks began marching in Pakokku
+
 - September 5: Soldiers fired warning shots at monks
 - Monks demanded government apology; none came
 - **September 18:** All-Burma Monks Alliance announced marches
 
 **September 22:** Watershed moment
+
 - 2,000 monks and civilians marched past roadblocks
 - Reached Aung San Suu Kyi's house
 - She appeared at the gate, weeping, and prayed with monks
@@ -74,12 +79,14 @@ By 2007, Myanmar was desperately poor:
 ### Mass Marches (September 24-26)
 
 **September 24:** Peak of the revolution
+
 - Over **100,000** monks and citizens marched in Yangon
 - Similar marches in Mandalay, other cities
 - Largest protests since 1988
 - Monks chanted metta (loving-kindness) prayers
 
 **September 25-26:** Crackdown began
+
 - Monasteries surrounded
 - Monks prevented from leaving
 - Warning: lethal force authorized[^7]
@@ -87,6 +94,7 @@ By 2007, Myanmar was desperately poor:
 ### The Crackdown
 
 **September 26-27:**
+
 - Soldiers opened fire on protesters
 - Tear gas, automatic weapons, clubs
 - **Kenji Nagai**, Japanese journalist, shot dead at point-blank range
@@ -94,6 +102,7 @@ By 2007, Myanmar was desperately poor:
 - Internet access cut nationwide
 
 **September 28-October:**
+
 - Streets under military control
 - Thousands arrested
 - Bodies reportedly disposed of secretly
@@ -108,6 +117,7 @@ Official government figure: 13 killed
 Independent estimates: 31-138 killed
 
 **Confirmed dead include:**
+
 - Kenji Nagai (Japanese journalist)
 - Multiple monks (exact number disputed)
 - Unknown number of bodies reportedly dumped
@@ -120,29 +130,29 @@ Independent estimates: 31-138 killed
 
 ### Monks and Activists
 
-| Name/Group | Role |
-|------------|------|
-| All-Burma Monks Alliance | Coordinating body |
-| U Gambira | Young monk leader; later imprisoned |
-| 88 Generation Students | Activist group; many arrested |
+| Name/Group               | Role                                |
+| ------------------------ | ----------------------------------- |
+| All-Burma Monks Alliance | Coordinating body                   |
+| U Gambira                | Young monk leader; later imprisoned |
+| 88 Generation Students   | Activist group; many arrested       |
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Than Shwe | SPDC Chairman (top general) |
-| SPDC generals | Ruling junta |
+| Name          | Role                        |
+| ------------- | --------------------------- |
+| Than Shwe     | SPDC Chairman (top general) |
+| SPDC generals | Ruling junta                |
 
 ### Political Opposition
 
-| Name | Role |
-|------|------|
+| Name             | Role                           |
+| ---------------- | ------------------------------ |
 | Aung San Suu Kyi | NLD leader; under house arrest |
 
 ### Victim
 
-| Name | Role |
-|------|------|
+| Name        | Role                                         |
+| ----------- | -------------------------------------------- |
 | Kenji Nagai | Japanese journalist; killed filming protests |
 
 ---
@@ -219,37 +229,50 @@ The Spring Revolution (2021) explicitly invoked the memory of 1988 and 2007. You
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| August 15, 2007 | Fuel subsidies removed |
-| August 19, 2007 | Initial protests begin |
-| September 5, 2007 | Monks in Pakokku confronted by soldiers |
+| Date               | Event                                      |
+| ------------------ | ------------------------------------------ |
+| August 15, 2007    | Fuel subsidies removed                     |
+| August 19, 2007    | Initial protests begin                     |
+| September 5, 2007  | Monks in Pakokku confronted by soldiers    |
 | September 18, 2007 | All-Burma Monks Alliance calls for marches |
-| September 22, 2007 | Monks reach Aung San Suu Kyi's house |
-| September 24, 2007 | 100,000+ march in Yangon |
-| September 26, 2007 | Crackdown begins; shootings |
-| September 27, 2007 | Kenji Nagai killed |
-| September 28, 2007 | Internet cut; monasteries raided |
-| October 2007 | Streets cleared; arrests continue |
-| November 2010 | Aung San Suu Kyi released |
-| 2015 | NLD wins elections |
-| February 2021 | Military coup reverses progress |
+| September 22, 2007 | Monks reach Aung San Suu Kyi's house       |
+| September 24, 2007 | 100,000+ march in Yangon                   |
+| September 26, 2007 | Crackdown begins; shootings                |
+| September 27, 2007 | Kenji Nagai killed                         |
+| September 28, 2007 | Internet cut; monasteries raided           |
+| October 2007       | Streets cleared; arrests continue          |
+| November 2010      | Aung San Suu Kyi released                  |
+| 2015               | NLD wins elections                         |
+| February 2021      | Military coup reverses progress            |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Saffron Revolution](https://en.wikipedia.org/wiki/Saffron_Revolution)
+
 [^2]: [Burma Campaign UK - Timeline](https://burmacampaign.org.uk/saffron-revolution-timeline/)
+
 [^3]: [Facts and Details - Analysis](https://factsanddetails.com/myanmar/saffron-revolution/)
+
 [^4]: [Wikipedia - History of Myanmar](https://en.wikipedia.org/wiki/History_of_Myanmar)
+
 [^5]: [IMF - Fuel Price Impacts](https://www.imf.org/external/pubs/ft/wp/2007/myanmar/)
+
 [^6]: [Irrawaddy - September 22](https://www.irrawaddy.com/opinion/saffron-revolution-2007/)
+
 [^7]: [Swarthmore - Nonviolent Database](https://nvdatabase.swarthmore.edu/content/burmese-saffron-revolution-2007)
+
 [^8]: [Insight Myanmar - Crackdown](https://insightmyanmar.org/saffron-revolution-crackdown/)
+
 [^9]: [RFA - Death Toll](https://www.rfa.org/english/news/myanmar/saffron-revolution/)
+
 [^10]: [Tactics4Change - Religious Significance](https://tactics4change.org/saffron-revolution-patta-nikkujjana/)
+
 [^11]: [Stanford - Analysis](https://cs.stanford.edu/people/eroberts/cs201/projects/saffron-revolution/)
+
 [^12]: [State Department - Report](https://www.state.gov/reports/2007/myanmar/)
+
 [^13]: [Der Spiegel - Aftermath](https://www.spiegel.de/international/world/saffron-revolution-2007/)
+
 [^14]: [Kiddle - Overview](https://kids.kiddle.co/Saffron_Revolution)

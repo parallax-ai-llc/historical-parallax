@@ -141,33 +141,33 @@ The historiography of Philip V reflects ongoing debates about his personal capac
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1683 | Born December 19 at Palace of Versailles, France, as Philippe, Duke of Anjou |
-| 1690 | Mother Maria Anna of Bavaria dies; raised under supervision of Louis XIV |
-| 1700 | Charles II of Spain dies childless; Philip proclaimed King of Spain (November 1) |
-| 1701 | Enters Spain for first time (January); marries Maria Luisa of Savoy (November 3) |
-| 1701 | War of the Spanish Succession begins |
-| 1702 | England, Austria, and United Provinces declare war on Spain and France (May) |
-| 1707 | Battle of Almansa—decisive Bourbon victory (April 25); First Nueva Planta decrees issued |
-| 1710 | Battle of Villaviciosa—strategic victory consolidates Philip's hold on throne (December 11) |
-| 1711 | Founds Royal Library (later National Library of Spain) |
-| 1713 | Treaty of Utrecht ends War of Spanish Succession; Philip retains throne but loses territories |
-| 1714 | Death of first wife Maria Luisa of Savoy (February 14); Fall of Barcelona (September 11) |
-| 1714 | Marries Elisabeth Farnese (December 24); Founds Royal Spanish Academy |
-| 1716 | Birth of son Charles (future Charles III of Spain) |
-| 1717 | Founds University of Cervera; Spanish forces recapture Sardinia |
-| 1718 | War of the Quadruple Alliance begins; Spanish invasion of Sicily |
-| 1719 | Purchases La Granja estate to build palace rivaling Versailles |
-| 1720 | War of the Quadruple Alliance ends; Spain evacuates Sicily and Sardinia |
-| 1724 | Abdicates in favor of son Louis I (January 14); Louis I dies of smallpox (August 31) |
-| 1724 | Resumes throne after Louis I's death (September 6) |
-| 1728 | Royal glass factory established at La Granja |
-| 1733 | War of Polish Succession begins; Spain regains Kingdom of Naples for Elisabeth's son |
+| Year | Event                                                                                            |
+| ---- | ------------------------------------------------------------------------------------------------ |
+| 1683 | Born December 19 at Palace of Versailles, France, as Philippe, Duke of Anjou                     |
+| 1690 | Mother Maria Anna of Bavaria dies; raised under supervision of Louis XIV                         |
+| 1700 | Charles II of Spain dies childless; Philip proclaimed King of Spain (November 1)                 |
+| 1701 | Enters Spain for first time (January); marries Maria Luisa of Savoy (November 3)                 |
+| 1701 | War of the Spanish Succession begins                                                             |
+| 1702 | England, Austria, and United Provinces declare war on Spain and France (May)                     |
+| 1707 | Battle of Almansa—decisive Bourbon victory (April 25); First Nueva Planta decrees issued         |
+| 1710 | Battle of Villaviciosa—strategic victory consolidates Philip's hold on throne (December 11)      |
+| 1711 | Founds Royal Library (later National Library of Spain)                                           |
+| 1713 | Treaty of Utrecht ends War of Spanish Succession; Philip retains throne but loses territories    |
+| 1714 | Death of first wife Maria Luisa of Savoy (February 14); Fall of Barcelona (September 11)         |
+| 1714 | Marries Elisabeth Farnese (December 24); Founds Royal Spanish Academy                            |
+| 1716 | Birth of son Charles (future Charles III of Spain)                                               |
+| 1717 | Founds University of Cervera; Spanish forces recapture Sardinia                                  |
+| 1718 | War of the Quadruple Alliance begins; Spanish invasion of Sicily                                 |
+| 1719 | Purchases La Granja estate to build palace rivaling Versailles                                   |
+| 1720 | War of the Quadruple Alliance ends; Spain evacuates Sicily and Sardinia                          |
+| 1724 | Abdicates in favor of son Louis I (January 14); Louis I dies of smallpox (August 31)             |
+| 1724 | Resumes throne after Louis I's death (September 6)                                               |
+| 1728 | Royal glass factory established at La Granja                                                     |
+| 1733 | War of Polish Succession begins; Spain regains Kingdom of Naples for Elisabeth's son             |
 | 1737 | Farinelli arrives to serve as Philip's private singer (August), providing relief from depression |
-| 1738 | Founds Royal Academy of History |
-| 1744 | Founds Spain's first royal art academy |
-| 1746 | Dies of stroke at El Escorial, Madrid (July 9); succeeded by Ferdinand VI |
+| 1738 | Founds Royal Academy of History                                                                  |
+| 1744 | Founds Spain's first royal art academy                                                           |
+| 1746 | Dies of stroke at El Escorial, Madrid (July 9); succeeded by Ferdinand VI                        |
 
 ---
 
@@ -188,141 +188,279 @@ While not direct quotes from Philip, contemporary observers noted his repeated d
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Philip_V_of_Spain
+
 [^2]: https://www.britannica.com/biography/Philip-V-king-of-Spain
+
 [^3]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-v-spain-1683-1746
+
 [^4]: https://www.thefamouspeople.com/profiles/philip-v-of-spain-32197.php
+
 [^5]: https://europeanroyalhistory.wordpress.com/2021/12/19/december-18-1683-birth-of-felipe-v-king-of-spain/
+
 [^6]: https://kids.kiddle.co/Philip_V_of_Spain
+
 [^7]: https://www.unofficialroyalty.com/felipe-v-first-bourbon-king-of-spain/
+
 [^8]: https://en.namu.wiki/w/펠리페%205세
+
 [^9]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-v-spain
+
 [^10]: https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PhilipV
+
 [^11]: https://spiritmentor.wordpress.com/2012/03/14/the-royal-mentoring-legacy-2/
+
 [^12]: https://europeanroyalhistory.wordpress.com/tag/philip-of-anjou/
+
 [^13]: https://familypedia.fandom.com/wiki/Philip_V_of_Spain_(1683-1746)
+
 [^14]: https://military-history.fandom.com/wiki/Philip_V_of_Spain
+
 [^15]: https://westernciv.com/syllabus/history-of-modern-spain/spring/king-philip-v/
+
 [^16]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^17]: https://en.chateauversailles.fr/discover/history/key-dates/duke-anjou-king-spain-1700
+
 [^18]: https://fiveable.me/key-terms/ap-euro/philip-v
+
 [^19]: https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession
+
 [^20]: https://en.wikipedia.org/wiki/Bourbon_Spain
+
 [^21]: https://www.geni.com/people/Philip-V-King-of-Spain/5318340685370041549
+
 [^22]: https://www.theroyalforums.com/threads/king-philip-v-and-wives-queen-maria-luisa-and-queen-elisabeth.15808/
+
 [^23]: https://schoolhistory.co.uk/early-modern/philip-v-of-spain/
+
 [^24]: https://en.wikipedia.org/wiki/Battle_of_Almansa
+
 [^25]: https://en.wikipedia.org/wiki/Battle_of_Villaviciosa
+
 [^26]: https://en.wikipedia.org/wiki/Siege_of_Barcelona_(1713–1714)
+
 [^27]: https://www.britannica.com/event/War-of-the-Spanish-Succession/The-Treaties-of-Utrecht
+
 [^28]: https://en.wikipedia.org/wiki/Peace_of_Utrecht
+
 [^29]: https://www.thecanadianencyclopedia.ca/en/article/treaty-of-utrecht
+
 [^30]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^31]: https://en.wikipedia.org/wiki/Nueva_Planta_decrees
+
 [^32]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-v/420b8dd0-493d-4309-23a6-168bf8664125
+
 [^33]: https://grokipedia.com/page/Nueva_Planta_decrees
+
 [^34]: https://kids.kiddle.co/Nueva_Planta_decrees
+
 [^35]: https://infogalactic.com/info/Nueva_Planta_Decrees
+
 [^36]: https://yalebooks.yale.edu/book/9780300180541/philip-v-of-spain/
+
 [^37]: https://www.amazon.com/Philip-Spain-King-Reigned-Twice/dp/0300087187
+
 [^38]: https://www.publishersweekly.com/978-0-300-08718-5
+
 [^39]: https://cards.algoreducation.com/en/content/hhPkbt84/bourbon-dynasty-european-history
+
 [^40]: https://www.encyclopedia.com/history/modern-europe/ancient-history-middle-ages-and-feudalism/bourbon-dynasty
+
 [^41]: https://en.wikipedia.org/wiki/Spanish_Empire
+
 [^42]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-v/420b8dd0-493d-4309-23a6-168bf8664125
+
 [^43]: https://www.clarkart.edu/microsites/splendor,-myth,-and-vision/about/exhibition-(1)
+
 [^44]: https://www.historytools.org/stories/the-royal-palace-of-la-granja-de-san-ildefonso-a-bourbon-masterpiece-of-18th-century-spain
+
 [^45]: https://en.wikipedia.org/wiki/Royal_Palace_of_La_Granja_de_San_Ildefonso
+
 [^46]: https://www.spain.info/en/places-of-interest/royal-palace-granja-san-ildefonso/
+
 [^47]: https://www.historyhit.com/locations/royal-palace-of-la-granja-de-san-ildefonso/
+
 [^48]: https://grokipedia.com/page/War_of_the_Quadruple_Alliance
+
 [^49]: https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance
+
 [^50]: https://storiespreschool.com/quadruple_alliance1.html
+
 [^51]: https://www.factinate.com/people/facts-philip-v-melancholy-king
+
 [^52]: https://web.gencat.cat/en/actualitat/reportatges/diada-nacional-de-catalunya/historia/efemeride/
+
 [^53]: https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PhilipV
+
 [^54]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^55]: https://yalebooks.yale.edu/book/9780300180541/philip-v-of-spain/
+
 [^56]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-v-spain-1683-1746
+
 [^57]: https://pubmed.ncbi.nlm.nih.gov/17691194/
+
 [^58]: https://grokipedia.com/page/Philip_V_of_Spain
+
 [^59]: https://en.wikipedia.org/wiki/Philip_V_of_Spain
+
 [^60]: https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PhilipV
+
 [^61]: https://pubmed.ncbi.nlm.nih.gov/17691194/
+
 [^62]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-v-spain-1683-1746
+
 [^63]: https://www.heraldica.org/topics/france/felipe-a.htm
+
 [^64]: https://www.unofficialroyalty.com/felipe-v-first-bourbon-king-of-spain/
+
 [^65]: https://www.britannica.com/biography/Philip-V-king-of-Spain
+
 [^66]: https://www.heraldica.org/topics/france/felipe-a.htm
+
 [^67]: https://www.fascinatingspain.com/articulo/history-and-legends/luis-borbon-saboya-shortest-reign-history-spain/20220317172417068653.html
+
 [^68]: https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PhilipV
+
 [^69]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^70]: https://www.gale.com/intl/essays/christopher-storrs-eighteenth-century-spain
+
 [^71]: https://www.theroyalforums.com/threads/king-philip-v-and-wives-queen-maria-luisa-and-queen-elisabeth.15808/
+
 [^72]: https://en.wikipedia.org/wiki/Philip_V_of_Spain
+
 [^73]: https://www.unofficialroyalty.com/felipe-v-first-bourbon-king-of-spain/
+
 [^74]: https://royalty.miraheze.org/wiki/Elisabeth_Farnese
+
 [^75]: https://en.wikipedia.org/wiki/Elisabeth_Farnese
+
 [^76]: https://www.britannica.com/biography/Isabella-Farnese
+
 [^77]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-v-spain-1683-1746
+
 [^78]: https://www.unofficialroyalty.com/elisabeth-farnese-of-parma-queen-of-spain/
+
 [^79]: https://www.britannica.com/biography/Isabella-Farnese
+
 [^80]: https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance
+
 [^81]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-v-spain
+
 [^82]: https://www.thefamouspeople.com/profiles/philip-v-of-spain-32197.php
+
 [^83]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-v/420b8dd0-493d-4309-23a6-168bf8664125
+
 [^84]: https://en.wikipedia.org/wiki/Philip_V_of_Spain
+
 [^85]: https://interlude.hk/music-to-soothe-the-mad-king/
+
 [^86]: https://www.npr.org/sections/deceptivecadence/2017/12/30/571209570/the-true-story-of-a-spanish-royal-and-the-very-high-voice-that-healed-him
+
 [^87]: https://en.wikipedia.org/wiki/Farinelli
+
 [^88]: http://www.naplesldm.com/farinelli.php
+
 [^89]: https://www.britannica.com/biography/Philip-V-king-of-Spain
+
 [^90]: https://en.wikipedia.org/wiki/Royal_Palace_of_La_Granja_de_San_Ildefonso
+
 [^91]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-v/420b8dd0-493d-4309-23a6-168bf8664125
+
 [^92]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^93]: https://cards.algoreducation.com/en/content/hhPkbt84/bourbon-dynasty-european-history
+
 [^94]: https://shortfoodblog.com/who-was-the-first-bourbon-king-of-spain/
+
 [^95]: https://historyofspain.es/en/video/the-bourbon-dynasty-i/
+
 [^96]: https://fiveable.me/key-terms/ap-euro/philip-v
+
 [^97]: https://yalebooks.yale.edu/book/9780300180541/philip-v-of-spain/
+
 [^98]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-v/420b8dd0-493d-4309-23a6-168bf8664125
+
 [^99]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-v-spain
+
 [^100]: https://www.historytools.org/stories/the-royal-palace-of-la-granja-de-san-ildefonso-a-bourbon-masterpiece-of-18th-century-spain
+
 [^101]: https://en.wikipedia.org/wiki/Philip_V_of_Spain
+
 [^102]: https://en.wikipedia.org/wiki/Spanish_Empire
+
 [^103]: https://www.encyclopedia.com/history/modern-europe/ancient-history-middle-ages-and-feudalism/bourbon-dynasty
+
 [^104]: https://en.wikipedia.org/wiki/Peace_of_Utrecht
+
 [^105]: https://www.thecanadianencyclopedia.ca/en/article/treaty-of-utrecht
+
 [^106]: https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance
+
 [^107]: https://cards.algoreducation.com/en/content/hhPkbt84/bourbon-dynasty-european-history
+
 [^108]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^109]: https://www.britannica.com/biography/Philip-V-king-of-Spain
+
 [^110]: https://shortfoodblog.com/who-was-the-first-bourbon-king-of-spain/
+
 [^111]: https://yalebooks.yale.edu/book/9780300180541/philip-v-of-spain/
+
 [^112]: https://www.amazon.com/Philip-Spain-King-Reigned-Twice/dp/0300087187
+
 [^113]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^114]: https://shortfoodblog.com/who-was-the-first-bourbon-king-of-spain/
+
 [^115]: https://fiveable.me/key-terms/ap-euro/philip-v
+
 [^116]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-v/420b8dd0-493d-4309-23a6-168bf8664125
+
 [^117]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^118]: https://cards.algoreducation.com/en/content/hhPkbt84/bourbon-dynasty-european-history
+
 [^119]: https://cards.algoreducation.com/en/content/hhPkbt84/bourbon-dynasty-european-history
+
 [^120]: https://kuscholarworks.ku.edu/server/api/core/bitstreams/bf22630e-5ec2-4983-a438-8f39fe878a21/content
+
 [^121]: https://historyofspain.es/en/video/the-bourbon-dynasty-i/
+
 [^122]: https://yalebooks.yale.edu/book/9780300180541/philip-v-of-spain/
+
 [^123]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-v-spain-1683-1746
+
 [^124]: https://www.gale.com/intl/essays/christopher-storrs-eighteenth-century-spain
+
 [^125]: https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PhilipV
+
 [^126]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^127]: https://en.wikipedia.org/wiki/Nueva_Planta_decrees
+
 [^128]: https://infogalactic.com/info/Nueva_Planta_Decrees
+
 [^129]: https://web.gencat.cat/en/actualitat/reportatges/diada-nacional-de-catalunya/historia/efemeride/
+
 [^130]: https://en.wikipedia.org/wiki/Peace_of_Utrecht
+
 [^131]: https://www.thecanadianencyclopedia.ca/en/article/treaty-of-utrecht
+
 [^132]: https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance
+
 [^133]: https://www.gale.com/intl/essays/christopher-storrs-eighteenth-century-spain
+
 [^134]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-v-spain-1683-1746
+
 [^135]: https://www.ebsco.com/research-starters/history/philip-v
+
 [^136]: https://en.chateauversailles.fr/discover/history/key-dates/duke-anjou-king-spain-1700
+
 [^137]: https://www.thefamouspeople.com/profiles/philip-v-of-spain-32197.php
+
 [^138]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-v-spain
+
 [^139]: https://www.factinate.com/people/facts-philip-v-melancholy-king

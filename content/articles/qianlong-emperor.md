@@ -143,187 +143,320 @@ Qianlong's approach to foreign relations and modernization has been particularly
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1711 | Born as Hongli on September 25 in the Forbidden City, Beijing |
-| 1723 | Grandfather Kangxi dies; father becomes Yongzheng Emperor |
-| 1727 | Marries Fuca clan woman (future Empress Xiaoxianchun) |
-| 1733 | Designated as heir apparent (kept secret) |
-| 1735 | Ascends throne as Qianlong Emperor after Yongzheng's death |
-| 1736 | Begins releasing political prisoners and implementing early reforms |
-| 1738 | Death of first heir apparent Yonghuang and son Yonglian |
-| 1740 | Initiates compilation of imperial poetry collections |
-| 1747 | Begins First Jinchuan campaign in Sichuan |
-| 1748 | Empress Xiaoxianchun dies; Qianlong deeply grieved |
-| 1751 | First southern inspection tour to Jiangnan region |
-| 1755-1757 | Conquers and destroys Dzungar Khanate |
-| 1759 | Completes conquest of Xinjiang (East Turkestan) |
-| 1762 | Second southern inspection tour |
-| 1765 | Third southern inspection tour |
-| 1770 | Fourth southern inspection tour |
-| 1772 | Begins compilation of Siku Quanshu (Complete Library of Four Treasuries) |
-| 1775 | Begins intensive literary inquisition campaigns |
-| 1776 | Heshen rises to prominence in imperial court |
-| 1780 | Fifth southern inspection tour |
-| 1784 | Sixth and final southern inspection tour |
-| 1786 | Campaign in Taiwan to suppress Lin Shuangwen rebellion |
-| 1788-1789 | Campaigns in Vietnam |
-| 1790-1792 | Campaign in Nepal |
-| 1793 | Receives and dismisses British Macartney Mission |
-| 1795 | Completes Siku Quanshu project |
-| 1796 | Abdicates throne to Jiaqing Emperor; White Lotus Rebellion begins |
-| 1796-1799 | Rules as "Supreme Emperor" (Taishang Huang) |
-| 1799 | Dies on February 7 in Beijing at age 87; Heshen arrested and executed shortly after |
+| Year      | Event                                                                               |
+| --------- | ----------------------------------------------------------------------------------- |
+| 1711      | Born as Hongli on September 25 in the Forbidden City, Beijing                       |
+| 1723      | Grandfather Kangxi dies; father becomes Yongzheng Emperor                           |
+| 1727      | Marries Fuca clan woman (future Empress Xiaoxianchun)                               |
+| 1733      | Designated as heir apparent (kept secret)                                           |
+| 1735      | Ascends throne as Qianlong Emperor after Yongzheng's death                          |
+| 1736      | Begins releasing political prisoners and implementing early reforms                 |
+| 1738      | Death of first heir apparent Yonghuang and son Yonglian                             |
+| 1740      | Initiates compilation of imperial poetry collections                                |
+| 1747      | Begins First Jinchuan campaign in Sichuan                                           |
+| 1748      | Empress Xiaoxianchun dies; Qianlong deeply grieved                                  |
+| 1751      | First southern inspection tour to Jiangnan region                                   |
+| 1755-1757 | Conquers and destroys Dzungar Khanate                                               |
+| 1759      | Completes conquest of Xinjiang (East Turkestan)                                     |
+| 1762      | Second southern inspection tour                                                     |
+| 1765      | Third southern inspection tour                                                      |
+| 1770      | Fourth southern inspection tour                                                     |
+| 1772      | Begins compilation of Siku Quanshu (Complete Library of Four Treasuries)            |
+| 1775      | Begins intensive literary inquisition campaigns                                     |
+| 1776      | Heshen rises to prominence in imperial court                                        |
+| 1780      | Fifth southern inspection tour                                                      |
+| 1784      | Sixth and final southern inspection tour                                            |
+| 1786      | Campaign in Taiwan to suppress Lin Shuangwen rebellion                              |
+| 1788-1789 | Campaigns in Vietnam                                                                |
+| 1790-1792 | Campaign in Nepal                                                                   |
+| 1793      | Receives and dismisses British Macartney Mission                                    |
+| 1795      | Completes Siku Quanshu project                                                      |
+| 1796      | Abdicates throne to Jiaqing Emperor; White Lotus Rebellion begins                   |
+| 1796-1799 | Rules as "Supreme Emperor" (Taishang Huang)                                         |
+| 1799      | Dies on February 7 in Beijing at age 87; Heshen arrested and executed shortly after |
 
 ---
 
 ## Famous Quotes
 
 > "We possess all things. I set no value on objects strange or ingenious, and have no use for your country's manufactures."
+
 - From Qianlong's edict to King George III in response to the Macartney Mission, 1793. This quote exemplifies the emperor's confidence in China's self-sufficiency and his dismissal of Western trade overtures, a decision that would later be criticized as representing Qing isolationism and complacency.[^125]
 
 > "In the fourth watch I rise to handle state memorials; after finishing I read books. At dawn I dress and perform sacrifices, then hold court audiences. After the noon meal I read approved memorials and practice calligraphy. In the evening I review military reports."
+
 - Qianlong describing his daily routine, demonstrating his dedication to governance and personal cultivation. This quote reveals the emperor's self-image as a diligent ruler who personally managed imperial administration while maintaining scholarly pursuits.[^126]
 
 > "How can I bear to speak of it? When I am quiet and still, her image is before me; in my dreams I cling to her. As the years go by, I remember her more, not less."
+
 - From one of Qianlong's many poems mourning Empress Xiaoxianchun, written years after her death in 1748. This quote reveals the emperor's capacity for deep personal emotion and his enduring grief for his first love, showing a human vulnerability behind the imperial facade.[^127]
 
 > "Ten great campaigns to pacify the realm, five thousand poems to celebrate peace—this is how posterity will remember my reign."
+
 - Qianlong's own assessment of his historical legacy, emphasizing both military achievements and cultural accomplishments. This quote demonstrates how the emperor wished to be remembered as both a martial conqueror and a cultured patron of the arts.[^128]
 
 > "I am now eighty-five years old. For sixty years I have labored as emperor. I have enjoyed the blessings of heaven and the loyalty of my subjects. What more could I ask?"
+
 - From Qianlong's abdication edict in 1796. This quote reflects the emperor's satisfaction with his reign and his decision to abdicate rather than exceed his grandfather's record, though he would continue wielding power as Supreme Emperor for three more years.[^129]
 
 ---
 
 ## References
 
-[^1]: Elliott, Mark C. *Emperor Qianlong: Son of Heaven, Man of the World*. New York: Longman, 2009, pp. 12-15.
-[^2]: Rawski, Evelyn S. *The Last Emperors: A Social History of Qing Imperial Institutions*. Berkeley: University of California Press, 1998, pp. 89-92.
-[^3]: Spence, Jonathan D. *Emperor of China: Self-Portrait of K'ang-Hsi*. New York: Vintage Books, 1988, pp. 156-158.
-[^4]: Crossley, Pamela Kyle. *The Manchus*. Oxford: Blackwell Publishers, 1997, pp. 134-137.
-[^5]: Chou, Ju-hsi and Claudia Brown. *The Elegant Brush: Chinese Painting Under the Qianlong Emperor, 1735-1795*. Phoenix: Phoenix Art Museum, 1985, pp. 23-26.
-[^6]: Millward, James A. *Beyond the Pass: Economy, Ethnicity, and Empire in Qing Central Asia, 1759-1864*. Stanford: Stanford University Press, 1998, pp. 67-69.
-[^7]: Huang, Pei. *Reorienting the Manchus: A Study of Sinicization, 1583-1795*. Ithaca: Cornell University East Asia Program, 2011, pp. 178-182.
-[^8]: Wu, Silas H.L. *Passage to Power: K'ang-hsi and His Heir Apparent, 1661-1722*. Cambridge: Harvard University Press, 1979, pp. 234-237.
-[^9]: Kahn, Harold L. *Monarchy in the Emperor's Eyes: Image and Reality in the Ch'ien-lung Reign*. Cambridge: Harvard University Press, 1971, pp. 45-48.
-[^10]: Bartlett, Beatrice S. *Monarchs and Ministers: The Grand Council in Mid-Ch'ing China, 1723-1820*. Berkeley: University of California Press, 1991, pp. 156-159.
-[^11]: Guy, R. Kent. *The Emperor's Four Treasuries: Scholars and the State in the Late Ch'ien-lung Era*. Cambridge: Harvard University Press, 1987, pp. 34-37.
-[^12]: Zelin, Madeleine. *The Magistrate's Tael: Rationalizing Fiscal Reform in Eighteenth-Century Ch'ing China*. Berkeley: University of California Press, 1984, pp. 189-192.
-[^13]: Farquhar, David M. "Emperor as Bodhisattva in the Governance of the Ch'ing Empire." *Harvard Journal of Asiatic Studies* 38, no. 1 (1978): 5-34.
-[^14]: Berger, Patricia. *Empire of Emptiness: Buddhist Art and Political Authority in Qing China*. Honolulu: University of Hawaii Press, 2003, pp. 145-149.
-[^15]: Bartlett, *Monarchs and Ministers*, pp. 167-171.
-[^16]: Waley-Cohen, Joanna. "The New Qing History." *Radical History Review* 88 (2004): 193-206.
-[^17]: Rowe, William T. *China's Last Empire: The Great Qing*. Cambridge: Harvard University Press, 2009, pp. 112-116.
-[^18]: Elliott, *Emperor Qianlong*, pp. 89-94.
-[^19]: Perdue, Peter C. *China Marches West: The Qing Conquest of Central Eurasia*. Cambridge: Harvard University Press, 2005, pp. 284-289.
-[^20]: Di Cosmo, Nicola. "Qing Colonial Administration in Inner Asia." *The International History Review* 20, no. 2 (1998): 287-309.
-[^21]: Perdue, *China Marches West*, pp. 456-461.
-[^22]: Ho, Ping-ti. *Studies on the Population of China, 1368-1953*. Cambridge: Harvard University Press, 1959, pp. 267-270.
-[^23]: Pomeranz, Kenneth. *The Great Divergence: China, Europe, and the Making of the Modern World Economy*. Princeton: Princeton University Press, 2000, pp. 178-182.
-[^24]: Von Glahn, Richard. *Fountain of Fortune: Money and Monetary Policy in China, 1000-1700*. Berkeley: University of California Press, 1996, pp. 245-249.
-[^25]: Guy, *The Emperor's Four Treasuries*, pp. 78-84.
-[^26]: Elman, Benjamin A. *A Cultural History of Civil Examinations in Late Imperial China*. Berkeley: University of California Press, 2000, pp. 234-238.
-[^27]: Guy, *The Emperor's Four Treasuries*, pp. 156-162.
-[^28]: Schmidt, J.D. "The Poet Emperor Qianlong and His Talent for the Conventional." *Monumenta Serica* 43 (1995): 433-447.
+[^1]: Elliott, Mark C. _Emperor Qianlong: Son of Heaven, Man of the World_. New York: Longman, 2009, pp. 12-15.
+
+[^2]: Rawski, Evelyn S. _The Last Emperors: A Social History of Qing Imperial Institutions_. Berkeley: University of California Press, 1998, pp. 89-92.
+
+[^3]: Spence, Jonathan D. _Emperor of China: Self-Portrait of K'ang-Hsi_. New York: Vintage Books, 1988, pp. 156-158.
+
+[^4]: Crossley, Pamela Kyle. _The Manchus_. Oxford: Blackwell Publishers, 1997, pp. 134-137.
+
+[^5]: Chou, Ju-hsi and Claudia Brown. _The Elegant Brush: Chinese Painting Under the Qianlong Emperor, 1735-1795_. Phoenix: Phoenix Art Museum, 1985, pp. 23-26.
+
+[^6]: Millward, James A. _Beyond the Pass: Economy, Ethnicity, and Empire in Qing Central Asia, 1759-1864_. Stanford: Stanford University Press, 1998, pp. 67-69.
+
+[^7]: Huang, Pei. _Reorienting the Manchus: A Study of Sinicization, 1583-1795_. Ithaca: Cornell University East Asia Program, 2011, pp. 178-182.
+
+[^8]: Wu, Silas H.L. _Passage to Power: K'ang-hsi and His Heir Apparent, 1661-1722_. Cambridge: Harvard University Press, 1979, pp. 234-237.
+
+[^9]: Kahn, Harold L. _Monarchy in the Emperor's Eyes: Image and Reality in the Ch'ien-lung Reign_. Cambridge: Harvard University Press, 1971, pp. 45-48.
+
+[^10]: Bartlett, Beatrice S. _Monarchs and Ministers: The Grand Council in Mid-Ch'ing China, 1723-1820_. Berkeley: University of California Press, 1991, pp. 156-159.
+
+[^11]: Guy, R. Kent. _The Emperor's Four Treasuries: Scholars and the State in the Late Ch'ien-lung Era_. Cambridge: Harvard University Press, 1987, pp. 34-37.
+
+[^12]: Zelin, Madeleine. _The Magistrate's Tael: Rationalizing Fiscal Reform in Eighteenth-Century Ch'ing China_. Berkeley: University of California Press, 1984, pp. 189-192.
+
+[^13]: Farquhar, David M. "Emperor as Bodhisattva in the Governance of the Ch'ing Empire." _Harvard Journal of Asiatic Studies_ 38, no. 1 (1978): 5-34.
+
+[^14]: Berger, Patricia. _Empire of Emptiness: Buddhist Art and Political Authority in Qing China_. Honolulu: University of Hawaii Press, 2003, pp. 145-149.
+
+[^15]: Bartlett, _Monarchs and Ministers_, pp. 167-171.
+
+[^16]: Waley-Cohen, Joanna. "The New Qing History." _Radical History Review_ 88 (2004): 193-206.
+
+[^17]: Rowe, William T. _China's Last Empire: The Great Qing_. Cambridge: Harvard University Press, 2009, pp. 112-116.
+
+[^18]: Elliott, _Emperor Qianlong_, pp. 89-94.
+
+[^19]: Perdue, Peter C. _China Marches West: The Qing Conquest of Central Eurasia_. Cambridge: Harvard University Press, 2005, pp. 284-289.
+
+[^20]: Di Cosmo, Nicola. "Qing Colonial Administration in Inner Asia." _The International History Review_ 20, no. 2 (1998): 287-309.
+
+[^21]: Perdue, _China Marches West_, pp. 456-461.
+
+[^22]: Ho, Ping-ti. _Studies on the Population of China, 1368-1953_. Cambridge: Harvard University Press, 1959, pp. 267-270.
+
+[^23]: Pomeranz, Kenneth. _The Great Divergence: China, Europe, and the Making of the Modern World Economy_. Princeton: Princeton University Press, 2000, pp. 178-182.
+
+[^24]: Von Glahn, Richard. _Fountain of Fortune: Money and Monetary Policy in China, 1000-1700_. Berkeley: University of California Press, 1996, pp. 245-249.
+
+[^25]: Guy, _The Emperor's Four Treasuries_, pp. 78-84.
+
+[^26]: Elman, Benjamin A. _A Cultural History of Civil Examinations in Late Imperial China_. Berkeley: University of California Press, 2000, pp. 234-238.
+
+[^27]: Guy, _The Emperor's Four Treasuries_, pp. 156-162.
+
+[^28]: Schmidt, J.D. "The Poet Emperor Qianlong and His Talent for the Conventional." _Monumenta Serica_ 43 (1995): 433-447.
+
 [^29]: Schmidt, "The Poet Emperor Qianlong," pp. 440-443.
-[^30]: Hearn, Maxwell K. "Document and Portrait: The Southern Tour Paintings of Kangxi and Qianlong." In *Chinese Painting Under the Qianlong Emperor: The Symposium Papers in Two Volumes*, edited by Ju-hsi Chou and Claudia Brown, 91-131. Tempe: Arizona State University, 1988.
-[^31]: Clunas, Craig. *Pictures and Visuality in Early Modern China*. London: Reaktion Books, 1997, pp. 178-182.
-[^32]: Thiriez, Régine. *Barbarian Lens: Western Photographers of the Qianlong Emperor's European Palaces*. Amsterdam: Gordon and Breach, 1998, pp. 45-51.
-[^33]: Naquin, Susan. *Peking: Temples and City Life, 1400-1900*. Berkeley: University of California Press, 2000, pp. 267-271.
-[^34]: Elliott, *Emperor Qianlong*, pp. 134-139.
-[^35]: Elliott, Mark C. *The Manchu Way: The Eight Banners and Ethnic Identity in Late Imperial China*. Stanford: Stanford University Press, 2001, pp. 289-294.
-[^36]: Bartlett, *Monarchs and Ministers*, pp. 234-239.
-[^37]: Kuhn, Philip A. *Soulstealers: The Chinese Sorcery Scare of 1768*. Cambridge: Harvard University Press, 1990, pp. 156-160.
-[^38]: Fairbank, John K., ed. *The Chinese World Order: Traditional China's Foreign Relations*. Cambridge: Harvard University Press, 1968, pp. 134-139.
-[^39]: Peyrefitte, Alain. *The Immobile Empire*. New York: Alfred A. Knopf, 1992, pp. 289-295.
-[^40]: Hevia, James L. *Cherishing Men from Afar: Qing Guest Ritual and the Macartney Embassy of 1793*. Durham: Duke University Press, 1995, pp. 178-184.
-[^41]: Guy, *The Emperor's Four Treasuries*, pp. 178-185.
-[^42]: Goodman, Howard L. and Anthony Grafton. "Ricci, the Chinese, and the Toolkits of Textualists." *Asia Major* 3, no. 2 (1990): 95-148.
-[^43]: Brook, Timothy. "Censorship in Eighteenth-Century China: A View from the Book Trade." *Canadian Journal of History* 23, no. 2 (1988): 177-196.
-[^44]: Kuhn, Philip A. "The Price of Preeminence." In *Conflict and Control in Late Imperial China*, edited by Frederic Wakeman Jr. and Carolyn Grant, 56-89. Berkeley: University of California Press, 1975.
-[^45]: Naquin and Rawski, *Chinese Society in the Eighteenth Century*, pp. 245-248.
-[^46]: Zelin, *The Magistrate's Tael*, pp. 289-293.
-[^47]: Dai, Yingcong. *The Sichuan Frontier and Tibet: Imperial Strategy in the Early Qing*. Seattle: University of Washington Press, 2009, pp. 178-182.
-[^48]: Giersch, C. Patterson. *Asian Borderlands: The Transformation of Qing China's Yunnan Frontier*. Cambridge: Harvard University Press, 2006, pp. 134-139.
-[^49]: Rowe, *China's Last Empire*, pp. 189-194.
-[^50]: Perdue, *China Marches West*, pp. 284-289.
-[^51]: Millward, James A. "The Qing Formation, the Mongol Legacy, and the 'End of History' in Early Modern Central Eurasia." In *The Qing Formation in World-Historical Time*, edited by Lynn A. Struve, 92-120. Cambridge: Harvard University Asia Center, 2004.
-[^52]: Shepherd, John R. *Statecraft and Political Economy on the Taiwan Frontier, 1600-1800*. Stanford: Stanford University Press, 1993, pp. 267-272.
-[^53]: Spence, Jonathan D. *The Memory Palace of Matteo Ricci*. New York: Viking Penguin, 1984, pp. 234-238.
-[^54]: Hevia, *Cherishing Men from Afar*, pp. 234-240.
-[^55]: Waley-Cohen, Joanna. *The Sextants of Beijing: Global Currents in Chinese History*. New York: W.W. Norton, 1999, pp. 156-162.
-[^56]: Naquin, Susan. *Millenarian Rebellion in China: The Eight Trigrams Uprising of 1813*. New Haven: Yale University Press, 1976, pp. 89-94.
-[^57]: Kuhn, Philip A. *Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864*. Cambridge: Harvard University Press, 1970, pp. 45-51.
-[^58]: Metzger, Thomas A. *The Internal Organization of Ch'ing Bureaucracy*. Cambridge: Harvard University Press, 1973, pp. 234-239.
-[^59]: Rawski, *The Last Emperors*, pp. 167-171.
-[^60]: Chang, Kang-i Sun. "Qianlong Emperor as Poet." In *The Cambridge History of Chinese Literature*, edited by Kang-i Sun Chang and Stephen Owen, 456-467. Cambridge: Cambridge University Press, 2010.
-[^61]: Kahn, *Monarchy in the Emperor's Eyes*, pp. 234-239.
-[^62]: Rawski, *The Last Emperors*, pp. 189-193.
-[^63]: Elliott, *Emperor Qianlong*, pp. 178-182.
-[^64]: Hummel, Arthur W., ed. *Eminent Chinese of the Ch'ing Period*. Washington: United States Government Printing Office, 1943, pp. 567-571.
-[^65]: Kahn, *Monarchy in the Emperor's Eyes*, pp. 89-93.
-[^66]: Sturman, Peter Charles. "The Donkey Rider as Icon: Li Cheng and Early Chinese Landscape Painting." *Artibus Asiae* 55, no. 1/2 (1995): 43-97.
-[^67]: Clunas, *Pictures and Visuality*, pp. 189-194.
-[^68]: Elliott, *Emperor Qianlong*, pp. 156-160.
-[^69]: Wang, Liping. "Tourism and Spatial Change in Hangzhou, 1911-1927." In *Remaking the Chinese City: Modernity and National Identity, 1900-1950*, edited by Joseph W. Esherick, 107-120. Honolulu: University of Hawaii Press, 2000.
-[^70]: Meyer-Fong, Tobie. *Building Culture in Early Qing Yangzhou*. Stanford: Stanford University Press, 2003, pp. 178-183.
-[^71]: Wu, Cuncun and Mark Stevenson. "Male Love Lost: The Fate of Male Same-Sex Prostitution in Beijing in the Late Nineteenth Century." In *The Golden Lotus Companion: A Guide to Reading The Plum in the Golden Vase*, edited by Robert E. Hegel and Katherine Carlitz, 245-267. Princeton: Princeton University Press, 2013.
+
+[^30]: Hearn, Maxwell K. "Document and Portrait: The Southern Tour Paintings of Kangxi and Qianlong." In _Chinese Painting Under the Qianlong Emperor: The Symposium Papers in Two Volumes_, edited by Ju-hsi Chou and Claudia Brown, 91-131. Tempe: Arizona State University, 1988.
+
+[^31]: Clunas, Craig. _Pictures and Visuality in Early Modern China_. London: Reaktion Books, 1997, pp. 178-182.
+
+[^32]: Thiriez, Régine. _Barbarian Lens: Western Photographers of the Qianlong Emperor's European Palaces_. Amsterdam: Gordon and Breach, 1998, pp. 45-51.
+
+[^33]: Naquin, Susan. _Peking: Temples and City Life, 1400-1900_. Berkeley: University of California Press, 2000, pp. 267-271.
+
+[^34]: Elliott, _Emperor Qianlong_, pp. 134-139.
+
+[^35]: Elliott, Mark C. _The Manchu Way: The Eight Banners and Ethnic Identity in Late Imperial China_. Stanford: Stanford University Press, 2001, pp. 289-294.
+
+[^36]: Bartlett, _Monarchs and Ministers_, pp. 234-239.
+
+[^37]: Kuhn, Philip A. _Soulstealers: The Chinese Sorcery Scare of 1768_. Cambridge: Harvard University Press, 1990, pp. 156-160.
+
+[^38]: Fairbank, John K., ed. _The Chinese World Order: Traditional China's Foreign Relations_. Cambridge: Harvard University Press, 1968, pp. 134-139.
+
+[^39]: Peyrefitte, Alain. _The Immobile Empire_. New York: Alfred A. Knopf, 1992, pp. 289-295.
+
+[^40]: Hevia, James L. _Cherishing Men from Afar: Qing Guest Ritual and the Macartney Embassy of 1793_. Durham: Duke University Press, 1995, pp. 178-184.
+
+[^41]: Guy, _The Emperor's Four Treasuries_, pp. 178-185.
+
+[^42]: Goodman, Howard L. and Anthony Grafton. "Ricci, the Chinese, and the Toolkits of Textualists." _Asia Major_ 3, no. 2 (1990): 95-148.
+
+[^43]: Brook, Timothy. "Censorship in Eighteenth-Century China: A View from the Book Trade." _Canadian Journal of History_ 23, no. 2 (1988): 177-196.
+
+[^44]: Kuhn, Philip A. "The Price of Preeminence." In _Conflict and Control in Late Imperial China_, edited by Frederic Wakeman Jr. and Carolyn Grant, 56-89. Berkeley: University of California Press, 1975.
+
+[^45]: Naquin and Rawski, _Chinese Society in the Eighteenth Century_, pp. 245-248.
+
+[^46]: Zelin, _The Magistrate's Tael_, pp. 289-293.
+
+[^47]: Dai, Yingcong. _The Sichuan Frontier and Tibet: Imperial Strategy in the Early Qing_. Seattle: University of Washington Press, 2009, pp. 178-182.
+
+[^48]: Giersch, C. Patterson. _Asian Borderlands: The Transformation of Qing China's Yunnan Frontier_. Cambridge: Harvard University Press, 2006, pp. 134-139.
+
+[^49]: Rowe, _China's Last Empire_, pp. 189-194.
+
+[^50]: Perdue, _China Marches West_, pp. 284-289.
+
+[^51]: Millward, James A. "The Qing Formation, the Mongol Legacy, and the 'End of History' in Early Modern Central Eurasia." In _The Qing Formation in World-Historical Time_, edited by Lynn A. Struve, 92-120. Cambridge: Harvard University Asia Center, 2004.
+
+[^52]: Shepherd, John R. _Statecraft and Political Economy on the Taiwan Frontier, 1600-1800_. Stanford: Stanford University Press, 1993, pp. 267-272.
+
+[^53]: Spence, Jonathan D. _The Memory Palace of Matteo Ricci_. New York: Viking Penguin, 1984, pp. 234-238.
+
+[^54]: Hevia, _Cherishing Men from Afar_, pp. 234-240.
+
+[^55]: Waley-Cohen, Joanna. _The Sextants of Beijing: Global Currents in Chinese History_. New York: W.W. Norton, 1999, pp. 156-162.
+
+[^56]: Naquin, Susan. _Millenarian Rebellion in China: The Eight Trigrams Uprising of 1813_. New Haven: Yale University Press, 1976, pp. 89-94.
+
+[^57]: Kuhn, Philip A. _Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864_. Cambridge: Harvard University Press, 1970, pp. 45-51.
+
+[^58]: Metzger, Thomas A. _The Internal Organization of Ch'ing Bureaucracy_. Cambridge: Harvard University Press, 1973, pp. 234-239.
+
+[^59]: Rawski, _The Last Emperors_, pp. 167-171.
+
+[^60]: Chang, Kang-i Sun. "Qianlong Emperor as Poet." In _The Cambridge History of Chinese Literature_, edited by Kang-i Sun Chang and Stephen Owen, 456-467. Cambridge: Cambridge University Press, 2010.
+
+[^61]: Kahn, _Monarchy in the Emperor's Eyes_, pp. 234-239.
+
+[^62]: Rawski, _The Last Emperors_, pp. 189-193.
+
+[^63]: Elliott, _Emperor Qianlong_, pp. 178-182.
+
+[^64]: Hummel, Arthur W., ed. _Eminent Chinese of the Ch'ing Period_. Washington: United States Government Printing Office, 1943, pp. 567-571.
+
+[^65]: Kahn, _Monarchy in the Emperor's Eyes_, pp. 89-93.
+
+[^66]: Sturman, Peter Charles. "The Donkey Rider as Icon: Li Cheng and Early Chinese Landscape Painting." _Artibus Asiae_ 55, no. 1/2 (1995): 43-97.
+
+[^67]: Clunas, _Pictures and Visuality_, pp. 189-194.
+
+[^68]: Elliott, _Emperor Qianlong_, pp. 156-160.
+
+[^69]: Wang, Liping. "Tourism and Spatial Change in Hangzhou, 1911-1927." In _Remaking the Chinese City: Modernity and National Identity, 1900-1950_, edited by Joseph W. Esherick, 107-120. Honolulu: University of Hawaii Press, 2000.
+
+[^70]: Meyer-Fong, Tobie. _Building Culture in Early Qing Yangzhou_. Stanford: Stanford University Press, 2003, pp. 178-183.
+
+[^71]: Wu, Cuncun and Mark Stevenson. "Male Love Lost: The Fate of Male Same-Sex Prostitution in Beijing in the Late Nineteenth Century." In _The Golden Lotus Companion: A Guide to Reading The Plum in the Golden Vase_, edited by Robert E. Hegel and Katherine Carlitz, 245-267. Princeton: Princeton University Press, 2013.
+
 [^72]: Kuhn, "The Price of Preeminence," pp. 78-84.
-[^73]: Bartlett, *Monarchs and Ministers*, pp. 289-293.
-[^74]: Hummel, *Eminent Chinese*, pp. 567-571.
-[^75]: Rowe, *China's Last Empire*, pp. 234-238.
-[^76]: Crossley, Pamela Kyle. *A Translucent Mirror: History and Identity in Qing Imperial Ideology*. Berkeley: University of California Press, 1999, pp. 267-272.
-[^77]: Rowe, *China's Last Empire*, pp. 267-271.
-[^78]: Millward, *Beyond the Pass*, pp. 289-294.
-[^79]: Leibold, James. *Reconfiguring Chinese Nationalism: How the Qing Frontier and Its Indigenes Became Chinese*. New York: Palgrave Macmillan, 2007, pp. 145-151.
-[^80]: Gladney, Dru C. *Dislocating China: Muslims, Minorities, and Other Subaltern Subjects*. Chicago: University of Chicago Press, 2004, pp. 178-184.
-[^81]: Guy, *The Emperor's Four Treasuries*, pp. 234-240.
-[^82]: Clunas, Craig. *Empire of Great Brightness: Visual and Material Cultures of Ming China, 1368-1644*. Honolulu: University of Hawaii Press, 2007, pp. 267-272.
+
+[^73]: Bartlett, _Monarchs and Ministers_, pp. 289-293.
+
+[^74]: Hummel, _Eminent Chinese_, pp. 567-571.
+
+[^75]: Rowe, _China's Last Empire_, pp. 234-238.
+
+[^76]: Crossley, Pamela Kyle. _A Translucent Mirror: History and Identity in Qing Imperial Ideology_. Berkeley: University of California Press, 1999, pp. 267-272.
+
+[^77]: Rowe, _China's Last Empire_, pp. 267-271.
+
+[^78]: Millward, _Beyond the Pass_, pp. 289-294.
+
+[^79]: Leibold, James. _Reconfiguring Chinese Nationalism: How the Qing Frontier and Its Indigenes Became Chinese_. New York: Palgrave Macmillan, 2007, pp. 145-151.
+
+[^80]: Gladney, Dru C. _Dislocating China: Muslims, Minorities, and Other Subaltern Subjects_. Chicago: University of Chicago Press, 2004, pp. 178-184.
+
+[^81]: Guy, _The Emperor's Four Treasuries_, pp. 234-240.
+
+[^82]: Clunas, Craig. _Empire of Great Brightness: Visual and Material Cultures of Ming China, 1368-1644_. Honolulu: University of Hawaii Press, 2007, pp. 267-272.
+
 [^83]: Brook, "Censorship in Eighteenth-Century China," pp. 185-190.
-[^84]: Elvin, Mark. *The Retreat of the Elephants: An Environmental History of China*. New Haven: Yale University Press, 2004, pp. 234-240.
-[^85]: Van Dyke, Paul A. *The Canton Trade: Life and Enterprise on the China Coast, 1700-1845*. Hong Kong: Hong Kong University Press, 2005, pp. 289-295.
-[^86]: Crossley, *A Translucent Mirror*, pp. 234-240.
-[^87]: Gladney, *Dislocating China*, pp. 234-239.
-[^88]: Børdahl, Vibeke. "The Legend of Emperor Qianlong in Chinese Popular Culture." In *The Eternal Storyteller: Oral Literature in Modern China*, edited by Vibeke Børdahl, 78-104. Richmond: Curzon Press, 1999.
-[^89]: Kahn, *Monarchy in the Emperor's Eyes*, pp. 289-294.
-[^90]: Spence, Jonathan D. *The Search for Modern China*. New York: W.W. Norton, 1990, pp. 123-128.
-[^91]: Pomeranz, *The Great Divergence*, pp. 234-240.
-[^92]: Wong, R. Bin. *China Transformed: Historical Change and the Limits of European Experience*. Ithaca: Cornell University Press, 1997, pp. 178-184.
-[^93]: Crossley, *A Translucent Mirror*, pp. 289-295.
+
+[^84]: Elvin, Mark. _The Retreat of the Elephants: An Environmental History of China_. New Haven: Yale University Press, 2004, pp. 234-240.
+
+[^85]: Van Dyke, Paul A. _The Canton Trade: Life and Enterprise on the China Coast, 1700-1845_. Hong Kong: Hong Kong University Press, 2005, pp. 289-295.
+
+[^86]: Crossley, _A Translucent Mirror_, pp. 234-240.
+
+[^87]: Gladney, _Dislocating China_, pp. 234-239.
+
+[^88]: Børdahl, Vibeke. "The Legend of Emperor Qianlong in Chinese Popular Culture." In _The Eternal Storyteller: Oral Literature in Modern China_, edited by Vibeke Børdahl, 78-104. Richmond: Curzon Press, 1999.
+
+[^89]: Kahn, _Monarchy in the Emperor's Eyes_, pp. 289-294.
+
+[^90]: Spence, Jonathan D. _The Search for Modern China_. New York: W.W. Norton, 1990, pp. 123-128.
+
+[^91]: Pomeranz, _The Great Divergence_, pp. 234-240.
+
+[^92]: Wong, R. Bin. _China Transformed: Historical Change and the Limits of European Experience_. Ithaca: Cornell University Press, 1997, pp. 178-184.
+
+[^93]: Crossley, _A Translucent Mirror_, pp. 289-295.
+
 [^94]: Farquhar, "Emperor as Bodhisattva," pp. 25-29.
-[^95]: Pomeranz, *The Great Divergence*, pp. 267-273.
-[^96]: Rosenthal, Jean-Laurent and R. Bin Wong. *Before and Beyond Divergence: The Politics of Economic Change in China and Europe*. Cambridge: Harvard University Press, 2011, pp. 145-151.
-[^97]: Von Glahn, *Fountain of Fortune*, pp. 289-294.
-[^98]: Chou and Brown, *The Elegant Brush*, pp. 178-184.
+
+[^95]: Pomeranz, _The Great Divergence_, pp. 267-273.
+
+[^96]: Rosenthal, Jean-Laurent and R. Bin Wong. _Before and Beyond Divergence: The Politics of Economic Change in China and Europe_. Cambridge: Harvard University Press, 2011, pp. 145-151.
+
+[^97]: Von Glahn, _Fountain of Fortune_, pp. 289-294.
+
+[^98]: Chou and Brown, _The Elegant Brush_, pp. 178-184.
+
 [^99]: Hearn, "Document and Portrait," pp. 119-125.
-[^100]: Thiriez, *Barbarian Lens*, pp. 89-95.
-[^101]: Bartlett, *Monarchs and Ministers*, pp. 267-273.
-[^102]: Zelin, *The Magistrate's Tael*, pp. 234-240.
-[^103]: Elliott, *The Manchu Way*, pp. 334-340.
-[^104]: Hevia, *Cherishing Men from Afar*, pp. 289-295.
-[^105]: Van Dyke, *The Canton Trade*, pp. 234-240.
-[^106]: Waley-Cohen, *The Sextants of Beijing*, pp. 189-195.
-[^107]: Spence, *The Search for Modern China*, pp. 145-151.
-[^108]: Guy, *The Emperor's Four Treasuries*, pp. 234-241.
+
+[^100]: Thiriez, _Barbarian Lens_, pp. 89-95.
+
+[^101]: Bartlett, _Monarchs and Ministers_, pp. 267-273.
+
+[^102]: Zelin, _The Magistrate's Tael_, pp. 234-240.
+
+[^103]: Elliott, _The Manchu Way_, pp. 334-340.
+
+[^104]: Hevia, _Cherishing Men from Afar_, pp. 289-295.
+
+[^105]: Van Dyke, _The Canton Trade_, pp. 234-240.
+
+[^106]: Waley-Cohen, _The Sextants of Beijing_, pp. 189-195.
+
+[^107]: Spence, _The Search for Modern China_, pp. 145-151.
+
+[^108]: Guy, _The Emperor's Four Treasuries_, pp. 234-241.
+
 [^109]: Brook, "Censorship in Eighteenth-Century China," pp. 189-194.
+
 [^110]: Kuhn, "The Price of Preeminence," pp. 82-87.
-[^111]: Zelin, *The Magistrate's Tael*, pp. 289-295.
-[^112]: Kuhn, *Rebellion and Its Enemies*, pp. 67-73.
-[^113]: Perdue, *China Marches West*, pp. 284-289.
+
+[^111]: Zelin, _The Magistrate's Tael_, pp. 289-295.
+
+[^112]: Kuhn, _Rebellion and Its Enemies_, pp. 67-73.
+
+[^113]: Perdue, _China Marches West_, pp. 284-289.
+
 [^114]: Millward, "The Qing Formation," pp. 107-113.
+
 [^115]: Di Cosmo, "Qing Colonial Administration," pp. 298-304.
-[^116]: Guy, *The Emperor's Four Treasuries*, pp. 267-273.
+
+[^116]: Guy, _The Emperor's Four Treasuries_, pp. 267-273.
+
 [^117]: Schmidt, "The Poet Emperor Qianlong," pp. 444-447.
-[^118]: Clunas, *Pictures and Visuality*, pp. 234-239.
-[^119]: Elvin, *The Retreat of the Elephants*, pp. 267-273.
-[^120]: Dai, *The Sichuan Frontier and Tibet*, pp. 234-239.
-[^121]: Zelin, *The Magistrate's Tael*, pp. 312-318.
-[^122]: Waley-Cohen, *The Sextants of Beijing*, pp. 234-240.
-[^123]: Spence, *The Search for Modern China*, pp. 167-173.
-[^124]: Rowe, *China's Last Empire*, pp. 289-295.
-[^125]: Peyrefitte, *The Immobile Empire*, pp. 289-292.
-[^126]: Kahn, *Monarchy in the Emperor's Eyes*, pp. 92-95.
+
+[^118]: Clunas, _Pictures and Visuality_, pp. 234-239.
+
+[^119]: Elvin, _The Retreat of the Elephants_, pp. 267-273.
+
+[^120]: Dai, _The Sichuan Frontier and Tibet_, pp. 234-239.
+
+[^121]: Zelin, _The Magistrate's Tael_, pp. 312-318.
+
+[^122]: Waley-Cohen, _The Sextants of Beijing_, pp. 234-240.
+
+[^123]: Spence, _The Search for Modern China_, pp. 167-173.
+
+[^124]: Rowe, _China's Last Empire_, pp. 289-295.
+
+[^125]: Peyrefitte, _The Immobile Empire_, pp. 289-292.
+
+[^126]: Kahn, _Monarchy in the Emperor's Eyes_, pp. 92-95.
+
 [^127]: Chang, "Qianlong Emperor as Poet," pp. 461-464.
-[^128]: Elliott, *Emperor Qianlong*, pp. 289-292.
-[^129]: Hummel, *Eminent Chinese*, pp. 570-571.
+
+[^128]: Elliott, _Emperor Qianlong_, pp. 289-292.
+
+[^129]: Hummel, _Eminent Chinese_, pp. 570-571.

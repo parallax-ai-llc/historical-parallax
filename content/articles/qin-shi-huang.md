@@ -165,27 +165,27 @@ Modern critics also note that while his unification created administrative and c
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 259 BCE | Born as Ying Zheng in Handan, capital of Zhao state |
-| 251 BCE | Brought to Qin when father appointed crown prince |
-| 246 BCE | Ascended to throne of Qin at age 13 following father's death |
-| 238 BCE | Staged coup at age 21, removing regent Lü Buwei from power |
-| 230 BCE | Conquered the state of Han |
-| 228 BCE | Conquered the state of Zhao |
-| 227 BCE | Survived assassination attempt by Jing Ke |
-| 225 BCE | Conquered the state of Wei |
-| 223 BCE | Conquered the state of Chu |
-| 222 BCE | Conquered the state of Yan |
-| 221 BCE | Conquered Qi, completing unification of China; proclaimed himself First Emperor |
-| 220 BCE | Began series of imperial inspection tours throughout the empire |
-| 218 BCE | Survived two additional assassination attempts |
-| 215 BCE | Conquered Ordos Desert region under General Meng Tian |
-| 214 BCE | Completed Lingqu Canal; sent 500,000 troops to conquer southern Baiyue territories |
+| Year    | Event                                                                                      |
+| ------- | ------------------------------------------------------------------------------------------ |
+| 259 BCE | Born as Ying Zheng in Handan, capital of Zhao state                                        |
+| 251 BCE | Brought to Qin when father appointed crown prince                                          |
+| 246 BCE | Ascended to throne of Qin at age 13 following father's death                               |
+| 238 BCE | Staged coup at age 21, removing regent Lü Buwei from power                                 |
+| 230 BCE | Conquered the state of Han                                                                 |
+| 228 BCE | Conquered the state of Zhao                                                                |
+| 227 BCE | Survived assassination attempt by Jing Ke                                                  |
+| 225 BCE | Conquered the state of Wei                                                                 |
+| 223 BCE | Conquered the state of Chu                                                                 |
+| 222 BCE | Conquered the state of Yan                                                                 |
+| 221 BCE | Conquered Qi, completing unification of China; proclaimed himself First Emperor            |
+| 220 BCE | Began series of imperial inspection tours throughout the empire                            |
+| 218 BCE | Survived two additional assassination attempts                                             |
+| 215 BCE | Conquered Ordos Desert region under General Meng Tian                                      |
+| 214 BCE | Completed Lingqu Canal; sent 500,000 troops to conquer southern Baiyue territories         |
 | 213 BCE | Ordered burning of books, destroying vast quantities of philosophical and historical texts |
-| 212 BCE | Allegedly ordered live burial of over 460 scholars |
-| 210 BCE | Died during fifth inspection tour at Shaqiu palace, age 49 |
-| 206 BCE | Qin dynasty collapsed, four years after emperor's death |
+| 212 BCE | Allegedly ordered live burial of over 460 scholars                                         |
+| 210 BCE | Died during fifth inspection tour at Shaqiu palace, age 49                                 |
+| 206 BCE | Qin dynasty collapsed, four years after emperor's death                                    |
 
 ---
 
@@ -210,130 +210,257 @@ While this famous phrase appears in many Chinese historical texts and is sometim
 ## References
 
 [^1]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^2]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^3]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^4]: The Famous People. "Qin Shi Huang Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/qin-shi-huang-6241.php
+
 [^5]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^6]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^7]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^8]: World History Encyclopedia. "Shi Huangdi." https://www.worldhistory.org/Shi_Huangdi/
+
 [^9]: Ducksters. "Biography for Kids: Emperor Qin Shi Huang." https://www.ducksters.com/history/china/emperor_qin_shi_huang.php
+
 [^10]: Ancient Mysteries. "Qin Shi Huang: Biography, Power, Ambition, & Facts." https://ancientmysteries.org/qin-shi-huang/
+
 [^11]: FSCJ Pressbooks. "Qin Dynasty, The Great Wall, & Legalism." https://fscj.pressbooks.pub/earlyhumanities2ndedition/chapter/qin-dynasty-the-great-wall-legalism/
+
 [^12]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^13]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^14]: The Famous People. "Qin Shi Huang Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/qin-shi-huang-6241.php
+
 [^15]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^16]: Ancient Mysteries. "Qin Shi Huang: Biography, Power, Ambition, & Facts." https://ancientmysteries.org/qin-shi-huang/
+
 [^17]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^18]: Vocal Media. "Rise from Qin: The First Step to Chinese Unification." https://vocal.media/history/rise-from-qin-the-first-step-to-chinese-unification
+
 [^19]: World History Timeline. "Timeline: Shi Huangdi." https://www.worldhistory.org/timeline/Shi_Huangdi/
+
 [^20]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^21]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^22]: World History Encyclopedia. "Shi Huangdi." https://www.worldhistory.org/Shi_Huangdi/
+
 [^23]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^24]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^25]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^26]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^27]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^28]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^29]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^30]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^31]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^32]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^33]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^34]: Geographical Magazine. "From walls to warriors: the legacies of Emperor Qin Shi Huang." https://geographical.co.uk/culture/the-legacies-of-emperor-qin-shi-huang
+
 [^35]: FSCJ Pressbooks. "Qin Dynasty, The Great Wall, & Legalism." https://fscj.pressbooks.pub/earlyhumanities2ndedition/chapter/qin-dynasty-the-great-wall-legalism/
+
 [^36]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^37]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^38]: Smithsonian Magazine. "What You Need to Know About China's Terra-Cotta Warriors and the First Qin Emperor." https://www.smithsonianmag.com/history/what-you-need-know-about-chinas-terra-cotta-warriors-first-qin-emperor-30942673/
+
 [^39]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^40]: Connecticut College Digital Collections. "Guardians of Immortality: Unveiling the Legacy of Qin Shi Huang's Terracotta Army." https://diluo.digital.conncoll.edu/Asianart/uncategorized/guardians-of-immortality-unveiling-the-legacy-of-qin-shi-huangs-terracotta-army-gianna-sandull-nina-pellegrino/
+
 [^41]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^42]: Wikipedia. "Mausoleum of Qin Shi Huang." https://en.wikipedia.org/wiki/Mausoleum_of_Qin_Shi_Huang
+
 [^43]: Live Science. "The Secret Tomb of China's 1st Emperor: Will We Ever See Inside?" https://www.livescience.com/22454-ancient-chinese-tomb-terracotta-warriors.html
+
 [^44]: Heritage Daily. "Inside the tomb of the First Emperor." https://www.heritagedaily.com/2024/04/inside-the-tomb-of-the-first-emperor/151521
+
 [^45]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^46]: World History Timeline. "Timeline: Shi Huangdi." https://www.worldhistory.org/timeline/Shi_Huangdi/
+
 [^47]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^48]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^49]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^50]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^51]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^52]: Qin Dynasty Ancient History. "The Burning of the Books." https://qindynasty-ancienthistory.weebly.com/the-burning-of-the-books.html
+
 [^53]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^54]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^55]: History of Information. "The First Emperor of China Destroys Most Records of the Past Along with 460, or More, Scholars." https://www.historyofinformation.com/detail.php?id=2491
+
 [^56]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^57]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^58]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^59]: Ulrich Neininger. "Burying the Scholars Alive: On the Origin of a Confucian Martyrs' Legend." http://ulrichneininger.de/?p=461
+
 [^60]: FSCJ Pressbooks. "Qin Dynasty, The Great Wall, & Legalism." https://fscj.pressbooks.pub/earlyhumanities2ndedition/chapter/qin-dynasty-the-great-wall-legalism/
+
 [^61]: Edubirdie. "Qin Shi Huangdi and the Legacy of Strict Legalism." https://hub.edubirdie.com/examples/qin-shi-huangdi-and-the-legacy-of-strict-legalism/
+
 [^62]: Study.com. "Qin Dynasty | Definition, Ruler & Legalism." https://study.com/academy/lesson/the-qin-dynasty-in-china-the-great-wall-legalism.html
+
 [^63]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^64]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^65]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^66]: World History Timeline. "Timeline: Shi Huangdi." https://www.worldhistory.org/timeline/Shi_Huangdi/
+
 [^67]: Lapham's Quarterly. "The Art of Not Dying." https://www.laphamsquarterly.org/roundtable/art-not-dying
+
 [^68]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^69]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^70]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^71]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^72]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^73]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^74]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^75]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^76]: Lapham's Quarterly. "The Art of Not Dying." https://www.laphamsquarterly.org/roundtable/art-not-dying
+
 [^77]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^78]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^79]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^80]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^81]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^82]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^83]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^84]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^85]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^86]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^87]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^88]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^89]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^90]: Geographical Magazine. "From walls to warriors: the legacies of Emperor Qin Shi Huang." https://geographical.co.uk/culture/the-legacies-of-emperor-qin-shi-huang
+
 [^91]: FSCJ Pressbooks. "Qin Dynasty, The Great Wall, & Legalism." https://fscj.pressbooks.pub/earlyhumanities2ndedition/chapter/qin-dynasty-the-great-wall-legalism/
+
 [^92]: Smithsonian Magazine. "What You Need to Know About China's Terra-Cotta Warriors and the First Qin Emperor." https://www.smithsonianmag.com/history/what-you-need-know-about-chinas-terra-cotta-warriors-first-qin-emperor-30942673/
+
 [^93]: Connecticut College Digital Collections. "Guardians of Immortality: Unveiling the Legacy of Qin Shi Huang's Terracotta Army." https://diluo.digital.conncoll.edu/Asianart/uncategorized/guardians-of-immortality-unveiling-the-legacy-of-qin-shi-huangs-terracotta-army-gianna-sandull-nina-pellegrino/
+
 [^94]: UKEssays. "Scholars Debate Over Qin Shi Huang Dis Legacy History Essay." https://www.ukessays.com/essays/history/scholars-debate-over-qin-shi-huang-dis-legacy-history-essay.php
+
 [^95]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^96]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^97]: ResearchGate. "Qin Shi Huang's Legacy: Assessing the First Emperor's Impact on Chinese History." https://www.researchgate.net/publication/385001167_Qin_Shi_Huang's_Legacy_Assessing_the_First_Emperor's_Impact_on_Chinese_History
+
 [^98]: Academia.edu. "Qin Shi Huang's Legacy: Assessing the First Emperor's Impact on Chinese History." https://www.academia.edu/124381548/Qin_Shi_Huangs_Legacy_Assessing_the_First_Emperors_Impact_on_Chinese_History
+
 [^99]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^100]: UKEssays. "Scholars Debate Over Qin Shi Huang Dis Legacy History Essay." https://www.ukessays.com/essays/history/scholars-debate-over-qin-shi-huang-dis-legacy-history-essay.php
+
 [^101]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^102]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^103]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^104]: UKEssays. "Scholars Debate Over Qin Shi Huang Dis Legacy History Essay." https://www.ukessays.com/essays/history/scholars-debate-over-qin-shi-huang-dis-legacy-history-essay.php
+
 [^105]: Ancient Mysteries. "Qin Shi Huang: Biography, Power, Ambition, & Facts." https://ancientmysteries.org/qin-shi-huang/
+
 [^106]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^107]: Study.com. "Qin Dynasty | Definition, Ruler & Legalism." https://study.com/academy/lesson/the-qin-dynasty-in-china-the-great-wall-legalism.html
+
 [^108]: Geographical Magazine. "From walls to warriors: the legacies of Emperor Qin Shi Huang." https://geographical.co.uk/culture/the-legacies-of-emperor-qin-shi-huang
+
 [^109]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^110]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^111]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^112]: Wikipedia. "Burning of books and burying of scholars." https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars
+
 [^113]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^114]: Edubirdie. "Qin Shi Huangdi and the Legacy of Strict Legalism." https://hub.edubirdie.com/examples/qin-shi-huangdi-and-the-legacy-of-strict-legalism/
+
 [^115]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^116]: Britannica. "Qin Shi Huang | Biography, Accomplishments, Family, United China, Tomb, & Facts." https://www.britannica.com/biography/Qin-Shi-Huang
+
 [^117]: Lumen Learning. "The Qin Dynasty." https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-qin-dynasty/
+
 [^118]: UKEssays. "Scholars Debate Over Qin Shi Huang Dis Legacy History Essay." https://www.ukessays.com/essays/history/scholars-debate-over-qin-shi-huang-dis-legacy-history-essay.php
+
 [^119]: Lapham's Quarterly. "The Art of Not Dying." https://www.laphamsquarterly.org/roundtable/art-not-dying
+
 [^120]: China Highlights. "Qin Shi Huang: Achievements, Family, Wife, Tomb & Secrets." https://www.chinahighlights.com/travelguide/china-history/qin-shi-huang.htm
+
 [^121]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^122]: Academia.edu. "Qin Shi Huang's Legacy: Assessing the First Emperor's Impact on Chinese History." https://www.academia.edu/124381548/Qin_Shi_Huangs_Legacy_Assessing_the_First_Emperors_Impact_on_Chinese_History
+
 [^123]: ResearchGate. "Qin Shi Huang's Legacy: Assessing the First Emperor's Impact on Chinese History." https://www.researchgate.net/publication/385001167_Qin_Shi_Huang's_Legacy_Assessing_the_First_Emperor's_Impact_on_Chinese_History
+
 [^124]: Wikipedia. "Qin Shi Huang." https://en.wikipedia.org/wiki/Qin_Shi_Huang
+
 [^125]: Quotes For Leaders. "19 Leadership Quotes From China's First Emperor: Qin Shi Huang." https://quotesforleaders.com/qin-shi-huang-leadership-quotes/
+
 [^126]: Quotyzen. "The Legacy of Qin Shi Huang: Quotes and Insights from the First Emperor." https://www.quotyzen.com/2025/06/the-legacy-of-qin-shi-huang-quotes-and.html
+
 [^127]: Wikiquote. "Qin Shi Huang." https://en.wikiquote.org/wiki/Qin_Shi_Huang
+
 [^128]: Brainly. "I am in a bind. These quotes are not actual quotes." https://brainly.com/question/33706438

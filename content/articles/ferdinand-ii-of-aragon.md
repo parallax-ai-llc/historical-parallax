@@ -161,29 +161,29 @@ Some scholars view Ferdinand's marriage alliances as ultimately counterproductiv
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1452 | Born March 10 in Sos del Rey Católico, Aragon |
-| 1461 | Named heir to the throne of Aragon |
-| 1469 | Married Isabella of Castile on October 19 |
-| 1474 | Isabella proclaimed Queen of Castile; War of Castilian Succession begins |
-| 1479 | Became King of Aragon; Treaty of Alcáçovas ends succession war |
-| 1480 | Spanish Inquisition established |
-| 1481 | Granada War begins |
+| Year | Event                                                                                                    |
+| ---- | -------------------------------------------------------------------------------------------------------- |
+| 1452 | Born March 10 in Sos del Rey Católico, Aragon                                                            |
+| 1461 | Named heir to the throne of Aragon                                                                       |
+| 1469 | Married Isabella of Castile on October 19                                                                |
+| 1474 | Isabella proclaimed Queen of Castile; War of Castilian Succession begins                                 |
+| 1479 | Became King of Aragon; Treaty of Alcáçovas ends succession war                                           |
+| 1480 | Spanish Inquisition established                                                                          |
+| 1481 | Granada War begins                                                                                       |
 | 1492 | Granada surrenders January 2; Alhambra Decree expels Jews March 31; Columbus reaches Americas October 12 |
-| 1494 | Treaty of Tordesillas divides New World between Spain and Portugal |
-| 1496 | Pope Alexander VI grants title "Catholic Monarchs" |
-| 1497 | Son John dies; daughter Isabella inherits Castile |
-| 1498 | Daughter Isabella dies in childbirth |
-| 1500 | Grandson Miguel dies; Joanna becomes heir |
-| 1502 | Muslims in Castile ordered to convert or leave |
-| 1503 | Spanish victory at Battle of Cerignola in Italy |
-| 1504 | Isabella dies November 26; Naples conquered |
-| 1505 | Married Germaine of Foix |
-| 1506 | Philip of Burgundy dies; Ferdinand becomes regent of Castile |
-| 1509 | Son John born to Germaine but dies within hours |
-| 1512 | Conquered Kingdom of Navarre |
-| 1516 | Died January 23 in Madrigalejo, Extremadura |
+| 1494 | Treaty of Tordesillas divides New World between Spain and Portugal                                       |
+| 1496 | Pope Alexander VI grants title "Catholic Monarchs"                                                       |
+| 1497 | Son John dies; daughter Isabella inherits Castile                                                        |
+| 1498 | Daughter Isabella dies in childbirth                                                                     |
+| 1500 | Grandson Miguel dies; Joanna becomes heir                                                                |
+| 1502 | Muslims in Castile ordered to convert or leave                                                           |
+| 1503 | Spanish victory at Battle of Cerignola in Italy                                                          |
+| 1504 | Isabella dies November 26; Naples conquered                                                              |
+| 1505 | Married Germaine of Foix                                                                                 |
+| 1506 | Philip of Burgundy dies; Ferdinand becomes regent of Castile                                             |
+| 1509 | Son John born to Germaine but dies within hours                                                          |
+| 1512 | Conquered Kingdom of Navarre                                                                             |
+| 1516 | Died January 23 in Madrigalejo, Extremadura                                                              |
 
 ---
 
@@ -203,214 +203,214 @@ Some scholars view Ferdinand's marriage alliances as ultimately counterproductiv
 
 ## References
 
-[^1]: Edwards, John. *Ferdinand and Isabella*. Pearson Longman, 2005, pp. 12-15.
+[^1]: Edwards, John. _Ferdinand and Isabella_. Pearson Longman, 2005, pp. 12-15.
 
-[^2]: Elliott, J.H. *Imperial Spain 1469-1716*. Penguin Books, 2002, pp. 18-21.
+[^2]: Elliott, J.H. _Imperial Spain 1469-1716_. Penguin Books, 2002, pp. 18-21.
 
-[^3]: Kamen, Henry. *Spain 1469-1714: A Society of Conflict*. Routledge, 2014, pp. 35-37.
+[^3]: Kamen, Henry. _Spain 1469-1714: A Society of Conflict_. Routledge, 2014, pp. 35-37.
 
-[^4]: Prescott, William H. *History of the Reign of Ferdinand and Isabella the Catholic*. Vol. 1, John B. Alden, 1838, pp. 89-92.
+[^4]: Prescott, William H. _History of the Reign of Ferdinand and Isabella the Catholic_. Vol. 1, John B. Alden, 1838, pp. 89-92.
 
-[^5]: Rubin, Nancy. *Isabella of Castile: The First Renaissance Queen*. St. Martin's Press, 1991, pp. 67-70.
+[^5]: Rubin, Nancy. _Isabella of Castile: The First Renaissance Queen_. St. Martin's Press, 1991, pp. 67-70.
 
-[^6]: Liss, Peggy K. *Isabel the Queen: Life and Times*. University of Pennsylvania Press, 2004, pp. 112-115.
+[^6]: Liss, Peggy K. _Isabel the Queen: Life and Times_. University of Pennsylvania Press, 2004, pp. 112-115.
 
-[^7]: Edwards, John. *The Spain of the Catholic Monarchs 1474-1520*. Blackwell Publishers, 2000, pp. 23-26.
+[^7]: Edwards, John. _The Spain of the Catholic Monarchs 1474-1520_. Blackwell Publishers, 2000, pp. 23-26.
 
-[^8]: Azcona, Tarsicio de. *Isabel la Católica: Estudio crítico de su vida y su reinado*. Biblioteca de Autores Cristianos, 1964, pp. 145-150.
+[^8]: Azcona, Tarsicio de. _Isabel la Católica: Estudio crítico de su vida y su reinado_. Biblioteca de Autores Cristianos, 1964, pp. 145-150.
 
-[^9]: Suárez Fernández, Luis. *Los Reyes Católicos: La expansión de la fe*. Rialp, 1990, pp. 78-82.
+[^9]: Suárez Fernández, Luis. _Los Reyes Católicos: La expansión de la fe_. Rialp, 1990, pp. 78-82.
 
-[^10]: Diffie, Bailey W., and George D. Winius. *Foundations of the Portuguese Empire, 1415-1580*. University of Minnesota Press, 1977, pp. 156-159.
+[^10]: Diffie, Bailey W., and George D. Winius. _Foundations of the Portuguese Empire, 1415-1580_. University of Minnesota Press, 1977, pp. 156-159.
 
-[^11]: Elliott, J.H. "A Europe of Composite Monarchies." *Past & Present*, no. 137, 1992, pp. 48-71.
+[^11]: Elliott, J.H. "A Europe of Composite Monarchies." _Past & Present_, no. 137, 1992, pp. 48-71.
 
-[^12]: Hillgarth, J.N. *The Spanish Kingdoms 1250-1516*. Vol. 2, Clarendon Press, 1978, pp. 567-570.
+[^12]: Hillgarth, J.N. _The Spanish Kingdoms 1250-1516_. Vol. 2, Clarendon Press, 1978, pp. 567-570.
 
-[^13]: Ladero Quesada, Miguel Ángel. *La España de los Reyes Católicos*. Alianza Editorial, 1999, pp. 102-108.
+[^13]: Ladero Quesada, Miguel Ángel. _La España de los Reyes Católicos_. Alianza Editorial, 1999, pp. 102-108.
 
-[^14]: Harvey, L.P. *Islamic Spain, 1250 to 1500*. University of Chicago Press, 1990, pp. 298-302.
+[^14]: Harvey, L.P. _Islamic Spain, 1250 to 1500_. University of Chicago Press, 1990, pp. 298-302.
 
-[^15]: Fernández de Córdoba, Francisco. "The Granada Campaign and the Castilian Monarchy." *Medieval Warfare*, vol. 8, no. 3, 2018, pp. 45-52.
+[^15]: Fernández de Córdoba, Francisco. "The Granada Campaign and the Castilian Monarchy." _Medieval Warfare_, vol. 8, no. 3, 2018, pp. 45-52.
 
-[^16]: Netanyahu, Benzion. *The Origins of the Inquisition in Fifteenth Century Spain*. Random House, 1995, pp. 1087-1092.
+[^16]: Netanyahu, Benzion. _The Origins of the Inquisition in Fifteenth Century Spain_. Random House, 1995, pp. 1087-1092.
 
-[^17]: Beinart, Haim. *The Expulsion of the Jews from Spain*. Littman Library of Jewish Civilization, 2002, pp. 234-240.
+[^17]: Beinart, Haim. _The Expulsion of the Jews from Spain_. Littman Library of Jewish Civilization, 2002, pp. 234-240.
 
-[^18]: Fernández-Armesto, Felipe. *Columbus*. Oxford University Press, 1991, pp. 67-73.
+[^18]: Fernández-Armesto, Felipe. _Columbus_. Oxford University Press, 1991, pp. 67-73.
 
-[^19]: Thomas, Hugh. *Rivers of Gold: The Rise of the Spanish Empire, from Columbus to Magellan*. Random House, 2003, pp. 89-95.
+[^19]: Thomas, Hugh. _Rivers of Gold: The Rise of the Spanish Empire, from Columbus to Magellan_. Random House, 2003, pp. 89-95.
 
-[^20]: Mattingly, Garrett. *Renaissance Diplomacy*. Houghton Mifflin, 1955, pp. 134-139.
+[^20]: Mattingly, Garrett. _Renaissance Diplomacy_. Houghton Mifflin, 1955, pp. 134-139.
 
-[^21]: Tracy, James D. *Emperor Charles V, Impresario of War*. Cambridge University Press, 2002, pp. 12-18.
+[^21]: Tracy, James D. _Emperor Charles V, Impresario of War_. Cambridge University Press, 2002, pp. 12-18.
 
-[^22]: Abulafia, David. *The French Descent into Renaissance Italy 1494-1495*. Variorum, 1995, pp. 156-162.
+[^22]: Abulafia, David. _The French Descent into Renaissance Italy 1494-1495_. Variorum, 1995, pp. 156-162.
 
-[^23]: Quatrefages, René. *La revolución militar moderna: El crisol español*. Ministerio de Defensa, 1996, pp. 78-84.
+[^23]: Quatrefages, René. _La revolución militar moderna: El crisol español_. Ministerio de Defensa, 1996, pp. 78-84.
 
-[^24]: Thompson, I.A.A. "Castile: Polity, Fiscality, and Fiscal Crisis." *Fiscal Crises, Liberty, and Representative Government, 1450-1789*, edited by Philip T. Hoffman and Kathryn Norberg, Stanford University Press, 1994, pp. 140-180.
+[^24]: Thompson, I.A.A. "Castile: Polity, Fiscality, and Fiscal Crisis." _Fiscal Crises, Liberty, and Representative Government, 1450-1789_, edited by Philip T. Hoffman and Kathryn Norberg, Stanford University Press, 1994, pp. 140-180.
 
-[^25]: Goodman, David. *Spanish Naval Power, 1589-1665*. Cambridge University Press, 1997, pp. 23-28.
+[^25]: Goodman, David. _Spanish Naval Power, 1589-1665_. Cambridge University Press, 1997, pp. 23-28.
 
-[^26]: Walsh, William Thomas. *Isabella of Spain: The Last Crusader*. TAN Books, 1987, pp. 289-293.
+[^26]: Walsh, William Thomas. _Isabella of Spain: The Last Crusader_. TAN Books, 1987, pp. 289-293.
 
-[^27]: Fernández Terricabras, Ignasi. "The Spanish Monarchy and the Church." *A Companion to Early Modern Spain*, edited by José Luis Colomer, Brill, 2019, pp. 167-184.
+[^27]: Fernández Terricabras, Ignasi. "The Spanish Monarchy and the Church." _A Companion to Early Modern Spain_, edited by José Luis Colomer, Brill, 2019, pp. 167-184.
 
-[^28]: Kamen, Henry. *The Spanish Inquisition: A Historical Revision*. Yale University Press, 1998, pp. 45-62.
+[^28]: Kamen, Henry. _The Spanish Inquisition: A Historical Revision_. Yale University Press, 1998, pp. 45-62.
 
-[^29]: Peters, Edward. *Inquisition*. University of California Press, 1989, pp. 87-95.
+[^29]: Peters, Edward. _Inquisition_. University of California Press, 1989, pp. 87-95.
 
-[^30]: Gerber, Jane S. *The Jews of Spain: A History of the Sephardic Experience*. Free Press, 1992, pp. 134-142.
+[^30]: Gerber, Jane S. _The Jews of Spain: A History of the Sephardic Experience_. Free Press, 1992, pp. 134-142.
 
-[^31]: Pérez, Joseph. *History of a Tragedy: The Expulsion of the Jews from Spain*. University of Illinois Press, 2007, pp. 178-185.
+[^31]: Pérez, Joseph. _History of a Tragedy: The Expulsion of the Jews from Spain_. University of Illinois Press, 2007, pp. 178-185.
 
-[^32]: Coleman, David. *Creating Christian Granada: Society and Religious Culture in an Old-World Frontier City, 1492-1600*. Cornell University Press, 2003, pp. 56-63.
+[^32]: Coleman, David. _Creating Christian Granada: Society and Religious Culture in an Old-World Frontier City, 1492-1600_. Cornell University Press, 2003, pp. 56-63.
 
-[^33]: Harvey, L.P. *Muslims in Spain, 1500 to 1614*. University of Chicago Press, 2005, pp. 89-96.
+[^33]: Harvey, L.P. _Muslims in Spain, 1500 to 1614_. University of Chicago Press, 2005, pp. 89-96.
 
-[^34]: Machiavelli, Niccolò. *The Prince*. Translated by Harvey C. Mansfield, University of Chicago Press, 1998, pp. 85-87.
+[^34]: Machiavelli, Niccolò. _The Prince_. Translated by Harvey C. Mansfield, University of Chicago Press, 1998, pp. 85-87.
 
-[^35]: Prescott, William H. *History of the Reign of Ferdinand and Isabella the Catholic*. Vol. 2, John B. Alden, 1838, pp. 234-235.
+[^35]: Prescott, William H. _History of the Reign of Ferdinand and Isabella the Catholic_. Vol. 2, John B. Alden, 1838, pp. 234-235.
 
-[^36]: Phillips, William D., and Carla Rahn Phillips. *The Worlds of Christopher Columbus*. Cambridge University Press, 1992, pp. 201-207.
+[^36]: Phillips, William D., and Carla Rahn Phillips. _The Worlds of Christopher Columbus_. Cambridge University Press, 1992, pp. 201-207.
 
-[^37]: Tremlett, Giles. *Isabella of Castile: Europe's First Great Queen*. Bloomsbury, 2017, pp. 289-295.
+[^37]: Tremlett, Giles. _Isabella of Castile: Europe's First Great Queen_. Bloomsbury, 2017, pp. 289-295.
 
-[^38]: Aram, Bethany. *Juana the Mad: Sovereignty and Dynasty in Renaissance Europe*. Johns Hopkins University Press, 2005, pp. 67-74.
+[^38]: Aram, Bethany. _Juana the Mad: Sovereignty and Dynasty in Renaissance Europe_. Johns Hopkins University Press, 2005, pp. 67-74.
 
-[^39]: Edwards, John. *Ferdinand and Isabella*, pp. 134-137.
+[^39]: Edwards, John. _Ferdinand and Isabella_, pp. 134-137.
 
-[^40]: Liss, Peggy K. *Isabel the Queen*, pp. 156-160.
+[^40]: Liss, Peggy K. _Isabel the Queen_, pp. 156-160.
 
-[^41]: Rubin, Nancy. *Isabella of Castile*, pp. 234-238.
+[^41]: Rubin, Nancy. _Isabella of Castile_, pp. 234-238.
 
-[^42]: Tremlett, Giles. *Isabella of Castile*, pp. 312-318.
+[^42]: Tremlett, Giles. _Isabella of Castile_, pp. 312-318.
 
-[^43]: Aram, Bethany. *Juana the Mad*, pp. 34-39.
+[^43]: Aram, Bethany. _Juana the Mad_, pp. 34-39.
 
-[^44]: Prawdin, Michael. *The Mad Queen of Spain*. Houghton Mifflin, 1939, pp. 78-85.
+[^44]: Prawdin, Michael. _The Mad Queen of Spain_. Houghton Mifflin, 1939, pp. 78-85.
 
-[^45]: Edwards, John. *Ferdinand and Isabella*, pp. 89-92.
+[^45]: Edwards, John. _Ferdinand and Isabella_, pp. 89-92.
 
-[^46]: Rubin, Nancy. *Isabella of Castile*, pp. 201-205.
+[^46]: Rubin, Nancy. _Isabella of Castile_, pp. 201-205.
 
-[^47]: Azcona, Tarsicio de. *Isabel la Católica*, pp. 678-682.
+[^47]: Azcona, Tarsicio de. _Isabel la Católica_, pp. 678-682.
 
-[^48]: Aram, Bethany. *Juana the Mad*, pp. 98-105.
+[^48]: Aram, Bethany. _Juana the Mad_, pp. 98-105.
 
-[^49]: Edwards, John. *Ferdinand and Isabella*, pp. 138-140.
+[^49]: Edwards, John. _Ferdinand and Isabella_, pp. 138-140.
 
-[^50]: Prescott, William H. *History of the Reign of Ferdinand and Isabella*, Vol. 3, pp. 156-159.
+[^50]: Prescott, William H. _History of the Reign of Ferdinand and Isabella_, Vol. 3, pp. 156-159.
 
-[^51]: Fernández Álvarez, Manuel. *Juana la Loca: La cautiva de Tordesillas*. Espasa, 2000, pp. 123-126.
+[^51]: Fernández Álvarez, Manuel. _Juana la Loca: La cautiva de Tordesillas_. Espasa, 2000, pp. 123-126.
 
-[^52]: Elliott, J.H. *Imperial Spain*, pp. 45-48.
+[^52]: Elliott, J.H. _Imperial Spain_, pp. 45-48.
 
-[^53]: Kamen, Henry. *Spain 1469-1714*, pp. 67-70.
+[^53]: Kamen, Henry. _Spain 1469-1714_, pp. 67-70.
 
-[^54]: Edwards, John. *The Spain of the Catholic Monarchs*, pp. 156-160.
+[^54]: Edwards, John. _The Spain of the Catholic Monarchs_, pp. 156-160.
 
-[^55]: Tracy, James D. *Emperor Charles V*, pp. 23-28.
+[^55]: Tracy, James D. _Emperor Charles V_, pp. 23-28.
 
-[^56]: Elliott, J.H. *Imperial Spain*, pp. 89-93.
+[^56]: Elliott, J.H. _Imperial Spain_, pp. 89-93.
 
-[^57]: Payne, Stanley G. *Spain: A Unique History*. University of Wisconsin Press, 2011, pp. 78-82.
+[^57]: Payne, Stanley G. _Spain: A Unique History_. University of Wisconsin Press, 2011, pp. 78-82.
 
-[^58]: Thomas, Hugh. *Rivers of Gold*, pp. 234-240.
+[^58]: Thomas, Hugh. _Rivers of Gold_, pp. 234-240.
 
-[^59]: Mann, Charles C. *1491: New Revelations of the Americas Before Columbus*. Knopf, 2005, pp. 98-105.
+[^59]: Mann, Charles C. _1491: New Revelations of the Americas Before Columbus_. Knopf, 2005, pp. 98-105.
 
-[^60]: Parker, Geoffrey. *Emperor: A New Life of Charles V*. Yale University Press, 2019, pp. 67-73.
+[^60]: Parker, Geoffrey. _Emperor: A New Life of Charles V_. Yale University Press, 2019, pp. 67-73.
 
-[^61]: Quatrefages, René. *La revolución militar moderna*, pp. 156-162.
+[^61]: Quatrefages, René. _La revolución militar moderna_, pp. 156-162.
 
-[^62]: Kamen, Henry. *The Spanish Inquisition*, pp. 234-242.
+[^62]: Kamen, Henry. _The Spanish Inquisition_, pp. 234-242.
 
-[^63]: Pérez, Joseph. *History of a Tragedy*, pp. 267-274.
+[^63]: Pérez, Joseph. _History of a Tragedy_, pp. 267-274.
 
-[^64]: Viroli, Maurizio. *Machiavelli's God*. Princeton University Press, 2010, pp. 89-95.
+[^64]: Viroli, Maurizio. _Machiavelli's God_. Princeton University Press, 2010, pp. 89-95.
 
-[^65]: Skinner, Quentin. *Machiavelli: A Very Short Introduction*. Oxford University Press, 2000, pp. 45-51.
+[^65]: Skinner, Quentin. _Machiavelli: A Very Short Introduction_. Oxford University Press, 2000, pp. 45-51.
 
-[^66]: Edwards, John. *The Spain of the Catholic Monarchs*, pp. 289-295.
+[^66]: Edwards, John. _The Spain of the Catholic Monarchs_, pp. 289-295.
 
-[^67]: Wachtel, Nathan. "Remember and Never Forget." *History and Memory*, vol. 2, no. 2, 1990, pp. 107-131.
+[^67]: Wachtel, Nathan. "Remember and Never Forget." _History and Memory_, vol. 2, no. 2, 1990, pp. 107-131.
 
 [^68]: Thompson, I.A.A. "Castile: Polity, Fiscality, and Fiscal Crisis," pp. 156-165.
 
-[^69]: Greengrass, Mark. *Christendom Destroyed: Europe 1517-1648*. Viking, 2014, pp. 78-84.
+[^69]: Greengrass, Mark. _Christendom Destroyed: Europe 1517-1648_. Viking, 2014, pp. 78-84.
 
-[^70]: Ostler, Nicholas. *Empires of the Word: A Language History of the World*. Harper Perennial, 2006, pp. 345-352.
+[^70]: Ostler, Nicholas. _Empires of the Word: A Language History of the World_. Harper Perennial, 2006, pp. 345-352.
 
-[^71]: Restall, Matthew. *Seven Myths of the Spanish Conquest*. Oxford University Press, 2003, pp. 134-141.
+[^71]: Restall, Matthew. _Seven Myths of the Spanish Conquest_. Oxford University Press, 2003, pp. 134-141.
 
-[^72]: Edwards, John. *Ferdinand and Isabella*, pp. 234-240.
+[^72]: Edwards, John. _Ferdinand and Isabella_, pp. 234-240.
 
-[^73]: Edwards, John. *The Spain of the Catholic Monarchs*, pp. 178-185.
+[^73]: Edwards, John. _The Spain of the Catholic Monarchs_, pp. 178-185.
 
-[^74]: Parker, Geoffrey. *The Military Revolution: Military Innovation and the Rise of the West, 1500-1800*. Cambridge University Press, 1988, pp. 67-73.
+[^74]: Parker, Geoffrey. _The Military Revolution: Military Innovation and the Rise of the West, 1500-1800_. Cambridge University Press, 1988, pp. 67-73.
 
-[^75]: Quatrefages, René. *La revolución militar moderna*, pp. 234-241.
+[^75]: Quatrefages, René. _La revolución militar moderna_, pp. 234-241.
 
-[^76]: Rawlings, Helen. *The Spanish Inquisition*. Blackwell, 2006, pp. 45-51.
+[^76]: Rawlings, Helen. _The Spanish Inquisition_. Blackwell, 2006, pp. 45-51.
 
-[^77]: Monter, William. *Frontiers of Heresy: The Spanish Inquisition from the Basque Lands to Sicily*. Cambridge University Press, 1990, pp. 89-96.
+[^77]: Monter, William. _Frontiers of Heresy: The Spanish Inquisition from the Basque Lands to Sicily_. Cambridge University Press, 1990, pp. 89-96.
 
-[^78]: Mattingly, Garrett. *Renaissance Diplomacy*, pp. 167-174.
+[^78]: Mattingly, Garrett. _Renaissance Diplomacy_, pp. 167-174.
 
-[^79]: Abulafia, David. *The French Descent into Renaissance Italy*, pp. 234-241.
+[^79]: Abulafia, David. _The French Descent into Renaissance Italy_, pp. 234-241.
 
-[^80]: Liss, Peggy K. *Isabel the Queen*, pp. 289-295.
+[^80]: Liss, Peggy K. _Isabel the Queen_, pp. 289-295.
 
-[^81]: Jordan, Constance. "Woman's Rule in Sixteenth-Century British Political Thought." *Renaissance Quarterly*, vol. 40, no. 3, 1987, pp. 421-451.
+[^81]: Jordan, Constance. "Woman's Rule in Sixteenth-Century British Political Thought." _Renaissance Quarterly_, vol. 40, no. 3, 1987, pp. 421-451.
 
-[^82]: Payne, Stanley G. *Spain: A Unique History*, pp. 123-129.
+[^82]: Payne, Stanley G. _Spain: A Unique History_, pp. 123-129.
 
-[^83]: Carr, Raymond, editor. *Spain: A History*. Oxford University Press, 2000, pp. 78-85.
+[^83]: Carr, Raymond, editor. _Spain: A History_. Oxford University Press, 2000, pp. 78-85.
 
 [^84]: Thompson, I.A.A. "Castile: Polity, Fiscality, and Fiscal Crisis," pp. 189-196.
 
-[^85]: Flynn, Dennis O., and Arturo Giráldez. "Born with a 'Silver Spoon': The Origin of World Trade in 1571." *Journal of World History*, vol. 6, no. 2, 1995, pp. 201-221.
+[^85]: Flynn, Dennis O., and Arturo Giráldez. "Born with a 'Silver Spoon': The Origin of World Trade in 1571." _Journal of World History_, vol. 6, no. 2, 1995, pp. 201-221.
 
-[^86]: Kamen, Henry. *The Spanish Inquisition*, pp. 289-296.
+[^86]: Kamen, Henry. _The Spanish Inquisition_, pp. 289-296.
 
-[^87]: Peters, Edward. *Inquisition*, pp. 145-152.
+[^87]: Peters, Edward. _Inquisition_, pp. 145-152.
 
-[^88]: Gerber, Jane S. *The Jews of Spain*, pp. 189-196.
+[^88]: Gerber, Jane S. _The Jews of Spain_, pp. 189-196.
 
-[^89]: Pérez, Joseph. *History of a Tragedy*, pp. 234-241.
+[^89]: Pérez, Joseph. _History of a Tragedy_, pp. 234-241.
 
-[^90]: Cook, Noble David. *Born to Die: Disease and New World Conquest, 1492-1650*. Cambridge University Press, 1998, pp. 67-74.
+[^90]: Cook, Noble David. _Born to Die: Disease and New World Conquest, 1492-1650_. Cambridge University Press, 1998, pp. 67-74.
 
-[^91]: Keen, Benjamin. "The Black Legend Revisited: Assumptions and Realities." *Hispanic American Historical Review*, vol. 49, no. 4, 1969, pp. 703-719.
+[^91]: Keen, Benjamin. "The Black Legend Revisited: Assumptions and Realities." _Hispanic American Historical Review_, vol. 49, no. 4, 1969, pp. 703-719.
 
-[^92]: Viroli, Maurizio. *Machiavelli's God*, pp. 134-140.
+[^92]: Viroli, Maurizio. _Machiavelli's God_, pp. 134-140.
 
-[^93]: Phillips, William D., and Carla Rahn Phillips. *The Worlds of Christopher Columbus*, pp. 267-274.
+[^93]: Phillips, William D., and Carla Rahn Phillips. _The Worlds of Christopher Columbus_, pp. 267-274.
 
-[^94]: Earenfight, Theresa. *Queenship in Medieval Europe*. Palgrave Macmillan, 2013, pp. 234-241.
+[^94]: Earenfight, Theresa. _Queenship in Medieval Europe_. Palgrave Macmillan, 2013, pp. 234-241.
 
-[^95]: Aram, Bethany. *Juana the Mad*, pp. 167-174.
+[^95]: Aram, Bethany. _Juana the Mad_, pp. 167-174.
 
 [^96]: Elliott, J.H. "A Europe of Composite Monarchies," pp. 89-96.
 
-[^97]: Conversi, Daniele. *The Basques, the Catalans and Spain: Alternative Routes to Nationalist Mobilisation*. University of Nevada Press, 1997, pp. 45-52.
+[^97]: Conversi, Daniele. _The Basques, the Catalans and Spain: Alternative Routes to Nationalist Mobilisation_. University of Nevada Press, 1997, pp. 45-52.
 
-[^98]: Hamilton, Earl J. *American Treasure and the Price Revolution in Spain, 1501-1650*. Harvard University Press, 1934, pp. 123-130.
+[^98]: Hamilton, Earl J. _American Treasure and the Price Revolution in Spain, 1501-1650_. Harvard University Press, 1934, pp. 123-130.
 
-[^99]: Elliott, J.H. "The Decline of Spain." *Past & Present*, no. 20, 1961, pp. 52-75.
+[^99]: Elliott, J.H. "The Decline of Spain." _Past & Present_, no. 20, 1961, pp. 52-75.
 
-[^100]: Tracy, James D. *Emperor Charles V*, pp. 134-141.
+[^100]: Tracy, James D. _Emperor Charles V_, pp. 134-141.
 
-[^101]: Parker, Geoffrey. *The Grand Strategy of Philip II*. Yale University Press, 1998, pp. 45-52.
+[^101]: Parker, Geoffrey. _The Grand Strategy of Philip II_. Yale University Press, 1998, pp. 45-52.
 
-[^102]: Netanyahu, Benzion. *The Origins of the Inquisition*, pp. 1091-1092.
+[^102]: Netanyahu, Benzion. _The Origins of the Inquisition_, pp. 1091-1092.
 
-[^103]: Hillgarth, J.N. *The Spanish Kingdoms*, pp. 569.
+[^103]: Hillgarth, J.N. _The Spanish Kingdoms_, pp. 569.
 
-[^104]: Fernández-Armesto, Felipe. *Columbus*, pp. 71.
+[^104]: Fernández-Armesto, Felipe. _Columbus_, pp. 71.
 
-[^105]: Machiavelli, Niccolò. *The Prince*, pp. 66.
+[^105]: Machiavelli, Niccolò. _The Prince_, pp. 66.
 
-[^106]: Beinart, Haim. *The Expulsion of the Jews from Spain*, pp. 236.
+[^106]: Beinart, Haim. _The Expulsion of the Jews from Spain_, pp. 236.

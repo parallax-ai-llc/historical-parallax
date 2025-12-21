@@ -157,24 +157,24 @@ Critical assessments also note that her charitable works, while genuine in some 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1755 | Born November 2 in Vienna, Austria, as Maria Antonia Josepha Johanna of Austria |
-| 1765 | Her father, Emperor Francis I, dies; her brother Joseph becomes co-ruler with her mother |
-| 1768 | Betrothal to Louis-Auguste, Dauphin of France, is arranged |
-| 1770 | Marries Louis-Auguste on May 16 at Versailles; becomes Dauphine of France |
-| 1774 | Becomes Queen of France on May 10 upon Louis XVI's accession to the throne |
-| 1775 | Gives birth to first child, Marie-Thérèse Charlotte, on December 19 |
-| 1777 | Her brother Joseph II visits Versailles to address the unconsummated marriage |
-| 1778 | Birth of daughter Marie-Thérèse Charlotte (Madame Royale) |
-| 1781 | Gives birth to first son and heir, Louis-Joseph, the Dauphin, on October 22 |
-| 1783 | Given the Petit Trianon by Louis XVI as her personal domain |
-| 1785 | The Affair of the Diamond Necklace scandal erupts, devastating her reputation |
-| 1786 | Birth of second son, Louis-Charles (future Louis XVII) |
-| 1787 | Birth of daughter Sophie, who dies the following year |
-| 1789 | Death of eldest son Louis-Joseph in June; Storming of the Bastille on July 14; royal family forced to move from Versailles to Paris in October |
-| 1791 | Failed escape attempt (Flight to Varennes) in June; returns to Paris as prisoner |
-| 1792 | Storming of the Tuileries Palace on August 10; monarchy abolished; royal family imprisoned in the Temple |
+| Year | Event                                                                                                                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1755 | Born November 2 in Vienna, Austria, as Maria Antonia Josepha Johanna of Austria                                                                                                                      |
+| 1765 | Her father, Emperor Francis I, dies; her brother Joseph becomes co-ruler with her mother                                                                                                             |
+| 1768 | Betrothal to Louis-Auguste, Dauphin of France, is arranged                                                                                                                                           |
+| 1770 | Marries Louis-Auguste on May 16 at Versailles; becomes Dauphine of France                                                                                                                            |
+| 1774 | Becomes Queen of France on May 10 upon Louis XVI's accession to the throne                                                                                                                           |
+| 1775 | Gives birth to first child, Marie-Thérèse Charlotte, on December 19                                                                                                                                  |
+| 1777 | Her brother Joseph II visits Versailles to address the unconsummated marriage                                                                                                                        |
+| 1778 | Birth of daughter Marie-Thérèse Charlotte (Madame Royale)                                                                                                                                            |
+| 1781 | Gives birth to first son and heir, Louis-Joseph, the Dauphin, on October 22                                                                                                                          |
+| 1783 | Given the Petit Trianon by Louis XVI as her personal domain                                                                                                                                          |
+| 1785 | The Affair of the Diamond Necklace scandal erupts, devastating her reputation                                                                                                                        |
+| 1786 | Birth of second son, Louis-Charles (future Louis XVII)                                                                                                                                               |
+| 1787 | Birth of daughter Sophie, who dies the following year                                                                                                                                                |
+| 1789 | Death of eldest son Louis-Joseph in June; Storming of the Bastille on July 14; royal family forced to move from Versailles to Paris in October                                                       |
+| 1791 | Failed escape attempt (Flight to Varennes) in June; returns to Paris as prisoner                                                                                                                     |
+| 1792 | Storming of the Tuileries Palace on August 10; monarchy abolished; royal family imprisoned in the Temple                                                                                             |
 | 1793 | Louis XVI executed on January 21; Marie Antoinette transferred to the Conciergerie prison on August 2; tried by Revolutionary Tribunal October 14-15; executed by guillotine on October 16 at age 37 |
 
 ---
@@ -205,142 +205,142 @@ Attributed to Marie Antoinette during her imprisonment, expressing her anguish a
 
 ## References
 
-[^1]: Fraser, Antonia. *Marie Antoinette: The Journey*. New York: Anchor Books, 2001.
+[^1]: Fraser, Antonia. _Marie Antoinette: The Journey_. New York: Anchor Books, 2001.
 
-[^2]: Lever, Evelyne. *Marie Antoinette: The Last Queen of France*. New York: Farrar, Straus and Giroux, 2000.
+[^2]: Lever, Evelyne. _Marie Antoinette: The Last Queen of France_. New York: Farrar, Straus and Giroux, 2000.
 
-[^3]: Campan, Madame. *Memoirs of the Court of Marie Antoinette*. Project Gutenberg, 2004 (originally published 1823).
+[^3]: Campan, Madame. _Memoirs of the Court of Marie Antoinette_. Project Gutenberg, 2004 (originally published 1823).
 
-[^4]: Castelot, André. *Queen of France: A Biography of Marie Antoinette*. New York: Harper & Brothers, 1957.
+[^4]: Castelot, André. _Queen of France: A Biography of Marie Antoinette_. New York: Harper & Brothers, 1957.
 
-[^5]: Price, Munro. *The Road from Versailles: Louis XVI, Marie Antoinette, and the Fall of the French Monarchy*. New York: St. Martin's Press, 2003.
+[^5]: Price, Munro. _The Road from Versailles: Louis XVI, Marie Antoinette, and the Fall of the French Monarchy_. New York: St. Martin's Press, 2003.
 
-[^6]: Zweig, Stefan. *Marie Antoinette: The Portrait of an Average Woman*. New York: Harmony Books, 1984 (originally published 1932).
+[^6]: Zweig, Stefan. _Marie Antoinette: The Portrait of an Average Woman_. New York: Harmony Books, 1984 (originally published 1932).
 
-[^7]: Thomas, Chantal. *The Wicked Queen: The Origins of the Myth of Marie-Antoinette*. New York: Zone Books, 1999.
+[^7]: Thomas, Chantal. _The Wicked Queen: The Origins of the Myth of Marie-Antoinette_. New York: Zone Books, 1999.
 
-[^8]: Bernier, Olivier. *The Secrets of Marie Antoinette*. New York: Fromm International, 1986.
+[^8]: Bernier, Olivier. _The Secrets of Marie Antoinette_. New York: Fromm International, 1986.
 
-[^9]: Cronin, Vincent. *Louis and Antoinette*. New York: William Morrow, 1975.
+[^9]: Cronin, Vincent. _Louis and Antoinette_. New York: William Morrow, 1975.
 
-[^10]: Erickson, Carolly. *To the Scaffold: The Life of Marie Antoinette*. New York: William Morrow, 1991.
+[^10]: Erickson, Carolly. _To the Scaffold: The Life of Marie Antoinette_. New York: William Morrow, 1991.
 
-[^11]: Haslip, Joan. *Marie Antoinette*. London: Weidenfeld and Nicolson, 1987.
+[^11]: Haslip, Joan. _Marie Antoinette_. London: Weidenfeld and Nicolson, 1987.
 
-[^12]: Hibbert, Christopher. *The Days of the French Revolution*. New York: William Morrow, 1980.
+[^12]: Hibbert, Christopher. _The Days of the French Revolution_. New York: William Morrow, 1980.
 
-[^13]: Weber, Caroline. *Queen of Fashion: What Marie Antoinette Wore to the Revolution*. New York: Henry Holt and Company, 2006.
+[^13]: Weber, Caroline. _Queen of Fashion: What Marie Antoinette Wore to the Revolution_. New York: Henry Holt and Company, 2006.
 
-[^14]: Goodman, Dena. *The Republic of Letters: A Cultural History of the French Enlightenment*. Ithaca: Cornell University Press, 1994.
+[^14]: Goodman, Dena. _The Republic of Letters: A Cultural History of the French Enlightenment_. Ithaca: Cornell University Press, 1994.
 
-[^15]: Baulez, Christian. "The Petit Trianon and the Hameau of Marie-Antoinette." *Versailles: A Private Invitation*. Paris: Flammarion, 2013.
+[^15]: Baulez, Christian. "The Petit Trianon and the Hameau of Marie-Antoinette." _Versailles: A Private Invitation_. Paris: Flammarion, 2013.
 
-[^16]: Desjardins, Gustave. *Le Petit Trianon et le Hameau de Marie-Antoinette*. Versailles: L. Bernard, 1885.
+[^16]: Desjardins, Gustave. _Le Petit Trianon et le Hameau de Marie-Antoinette_. Versailles: L. Bernard, 1885.
 
-[^17]: Langlade, Émile. *Rose Bertin: The Creator of Fashion at the Court of Marie-Antoinette*. New York: Charles Scribner's Sons, 1913.
+[^17]: Langlade, Émile. _Rose Bertin: The Creator of Fashion at the Court of Marie-Antoinette_. New York: Charles Scribner's Sons, 1913.
 
-[^18]: Vigée-Lebrun, Elisabeth. *Memoirs of Madame Vigée Lebrun*. New York: George Braziller, 1989.
+[^18]: Vigée-Lebrun, Elisabeth. _Memoirs of Madame Vigée Lebrun_. New York: George Braziller, 1989.
 
-[^19]: Covington, Sarah. *The Trial of Madame Roland: Liberty, Equality, Fraternity - and Her Execution*. New York: Arcade Publishing, 2020.
+[^19]: Covington, Sarah. _The Trial of Madame Roland: Liberty, Equality, Fraternity - and Her Execution_. New York: Arcade Publishing, 2020.
 
-[^20]: Hardman, John. *Marie-Antoinette: The Making of a French Queen*. New Haven: Yale University Press, 2019.
+[^20]: Hardman, John. _Marie-Antoinette: The Making of a French Queen_. New Haven: Yale University Press, 2019.
 
-[^21]: Arasse, Daniel. *The Guillotine and the Terror*. London: Penguin Books, 1989.
+[^21]: Arasse, Daniel. _The Guillotine and the Terror_. London: Penguin Books, 1989.
 
-[^22]: Hunt, Lynn. "The Many Bodies of Marie Antoinette: Political Pornography and the Problem of the Feminine in the French Revolution." *Eroticism and the Body Politic*. Baltimore: Johns Hopkins University Press, 1991.
+[^22]: Hunt, Lynn. "The Many Bodies of Marie Antoinette: Political Pornography and the Problem of the Feminine in the French Revolution." _Eroticism and the Body Politic_. Baltimore: Johns Hopkins University Press, 1991.
 
-[^23]: Hardman, John. *Louis XVI*. New Haven: Yale University Press, 1993.
+[^23]: Hardman, John. _Louis XVI_. New Haven: Yale University Press, 1993.
 
-[^24]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. New York: Alfred A. Knopf, 1989.
+[^24]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. New York: Alfred A. Knopf, 1989.
 
-[^25]: Mossiker, Frances. *The Queen's Necklace*. New York: Simon and Schuster, 1961.
+[^25]: Mossiker, Frances. _The Queen's Necklace_. New York: Simon and Schuster, 1961.
 
-[^26]: Beckstrom, Robert. "The Diamond Necklace Affair Revisited: The Case of the Missing Queen." *Eighteenth-Century Studies* 31, no. 3 (1998): 349-364.
+[^26]: Beckstrom, Robert. "The Diamond Necklace Affair Revisited: The Case of the Missing Queen." _Eighteenth-Century Studies_ 31, no. 3 (1998): 349-364.
 
-[^27]: Darnton, Robert. *The Forbidden Best-Sellers of Pre-Revolutionary France*. New York: W. W. Norton, 1995.
+[^27]: Darnton, Robert. _The Forbidden Best-Sellers of Pre-Revolutionary France_. New York: W. W. Norton, 1995.
 
-[^28]: Kaiser, Thomas. "From the Austrian Committee to the Foreign Plot: Marie-Antoinette, Austrophobia, and the Terror." *French Historical Studies* 26, no. 4 (2003): 579-617.
+[^28]: Kaiser, Thomas. "From the Austrian Committee to the Foreign Plot: Marie-Antoinette, Austrophobia, and the Terror." _French Historical Studies_ 26, no. 4 (2003): 579-617.
 
-[^29]: Fraser, Antonia. "Let Them Eat Cake: The Truth About Marie Antoinette and the Infamous Phrase." *History Today* 56, no. 11 (2006): 10-12.
+[^29]: Fraser, Antonia. "Let Them Eat Cake: The Truth About Marie Antoinette and the Infamous Phrase." _History Today_ 56, no. 11 (2006): 10-12.
 
-[^30]: Walter, Gérard, ed. *Actes du Tribunal révolutionnaire*. Paris: Mercure de France, 1986.
+[^30]: Walter, Gérard, ed. _Actes du Tribunal révolutionnaire_. Paris: Mercure de France, 1986.
 
-[^31]: Doyle, William. *The Oxford History of the French Revolution*. Oxford: Oxford University Press, 2002.
+[^31]: Doyle, William. _The Oxford History of the French Revolution_. Oxford: Oxford University Press, 2002.
 
-[^32]: Delorme, Eleanor. *Josephine and the Arts of the Empire*. Los Angeles: J. Paul Getty Museum, 2005.
+[^32]: Delorme, Eleanor. _Josephine and the Arts of the Empire_. Los Angeles: J. Paul Getty Museum, 2005.
 
-[^33]: Pimodan, Count de. *The Princesse de Lamballe: A Biography*. London: W. H. Allen, 1866.
+[^33]: Pimodan, Count de. _The Princesse de Lamballe: A Biography_. London: W. H. Allen, 1866.
 
-[^34]: Nolhac, Pierre de. *Marie-Antoinette: The Woman Behind the Myth*. Paris: Goupil & Cie, 1896.
+[^34]: Nolhac, Pierre de. _Marie-Antoinette: The Woman Behind the Myth_. Paris: Goupil & Cie, 1896.
 
-[^35]: Klinckowström, Baron R. M., ed. *Le Comte de Fersen et la Cour de France*. Paris: Firmin-Didot, 1877-1878.
+[^35]: Klinckowström, Baron R. M., ed. _Le Comte de Fersen et la Cour de France_. Paris: Firmin-Didot, 1877-1878.
 
-[^36]: Farr, Evelyn. *Marie Antoinette and Count Fersen: The Untold Love Story*. London: Peter Owen Publishers, 2013.
+[^36]: Farr, Evelyn. _Marie Antoinette and Count Fersen: The Untold Love Story_. London: Peter Owen Publishers, 2013.
 
-[^37]: Tillyard, Stella. *A Royal Affair: George III and His Troublesome Siblings*. London: Chatto & Windus, 2006.
+[^37]: Tillyard, Stella. _A Royal Affair: George III and His Troublesome Siblings_. London: Chatto & Windus, 2006.
 
-[^38]: Browne, Rory. "The Death of the Dauphin Louis-Joseph and Its Impact on the French Revolution." *Journal of the Historical Association* 88, no. 291 (2003): 395-412.
+[^38]: Browne, Rory. "The Death of the Dauphin Louis-Joseph and Its Impact on the French Revolution." _Journal of the Historical Association_ 88, no. 291 (2003): 395-412.
 
-[^39]: Beales, Derek. *Joseph II: Against the World, 1780-1790*. Cambridge: Cambridge University Press, 2009.
+[^39]: Beales, Derek. _Joseph II: Against the World, 1780-1790_. Cambridge: Cambridge University Press, 2009.
 
-[^40]: Arnaud-Bouteloup, Jeanne. *The Role of the Queen: Marie Antoinette*. Paris: Gallimard, 1962.
+[^40]: Arnaud-Bouteloup, Jeanne. _The Role of the Queen: Marie Antoinette_. Paris: Gallimard, 1962.
 
-[^41]: Tackett, Timothy. *When the King Took Flight*. Cambridge: Harvard University Press, 2003.
+[^41]: Tackett, Timothy. _When the King Took Flight_. Cambridge: Harvard University Press, 2003.
 
-[^42]: Lenotre, G. *The Guillotine and Its Servants*. London: Hutchinson & Co., 1929.
+[^42]: Lenotre, G. _The Guillotine and Its Servants_. London: Hutchinson & Co., 1929.
 
-[^43]: Lentz, Thierry. *Nouvelle histoire du Premier Empire*. Paris: Fayard, 2002-2010.
+[^43]: Lentz, Thierry. _Nouvelle histoire du Premier Empire_. Paris: Fayard, 2002-2010.
 
-[^44]: Goodden, Angelica. *The Sweetness of Life: A Biography of Elisabeth Louise Vigée Le Brun*. London: André Deutsch, 1997.
+[^44]: Goodden, Angelica. _The Sweetness of Life: A Biography of Elisabeth Louise Vigée Le Brun_. London: André Deutsch, 1997.
 
-[^45]: Goncourt, Edmond and Jules de. *Histoire de Marie-Antoinette*. Paris: Firmin Didot, 1858.
+[^45]: Goncourt, Edmond and Jules de. _Histoire de Marie-Antoinette_. Paris: Firmin Didot, 1858.
 
-[^46]: Ribeiro, Aileen. *Dress in Eighteenth Century Europe 1715-1789*. New Haven: Yale University Press, 2002.
+[^46]: Ribeiro, Aileen. _Dress in Eighteenth Century Europe 1715-1789_. New Haven: Yale University Press, 2002.
 
-[^47]: Salmon, Xavier. *Marie-Antoinette: L'art du jardin à Versailles*. Paris: Artlys, 2014.
+[^47]: Salmon, Xavier. _Marie-Antoinette: L'art du jardin à Versailles_. Paris: Artlys, 2014.
 
-[^48]: Coppola, Sofia, dir. *Marie Antoinette*. Columbia Pictures, 2006.
+[^48]: Coppola, Sofia, dir. _Marie Antoinette_. Columbia Pictures, 2006.
 
-[^49]: Landes, Joan B. *Women and the Public Sphere in the Age of the French Revolution*. Ithaca: Cornell University Press, 1988.
+[^49]: Landes, Joan B. _Women and the Public Sphere in the Age of the French Revolution_. Ithaca: Cornell University Press, 1988.
 
-[^50]: Andress, David. *The Terror: The Merciless War for Freedom in Revolutionary France*. New York: Farrar, Straus and Giroux, 2006.
+[^50]: Andress, David. _The Terror: The Merciless War for Freedom in Revolutionary France_. New York: Farrar, Straus and Giroux, 2006.
 
-[^51]: Burkhardt, Richard W. "Let Them Eat Cake: The Mythical Marie Antoinette and the French Revolution." *Journal of Social History* 15, no. 4 (1982): 709-724.
+[^51]: Burkhardt, Richard W. "Let Them Eat Cake: The Mythical Marie Antoinette and the French Revolution." _Journal of Social History_ 15, no. 4 (1982): 709-724.
 
-[^52]: Goodman, Dena. "Public Sphere and Private Life: Toward a Synthesis of Current Historiographical Approaches to the Old Regime." *History and Theory* 31, no. 1 (1992): 1-20.
+[^52]: Goodman, Dena. "Public Sphere and Private Life: Toward a Synthesis of Current Historiographical Approaches to the Old Regime." _History and Theory_ 31, no. 1 (1992): 1-20.
 
-[^53]: Fraser, Antonia. *Marie Antoinette: The Journey*. New York: Anchor Books, 2001.
+[^53]: Fraser, Antonia. _Marie Antoinette: The Journey_. New York: Anchor Books, 2001.
 
-[^54]: Price, Munro. *The Fall of the French Monarchy: Louis XVI, Marie Antoinette and the Baron de Breteuil*. London: Macmillan, 2002.
+[^54]: Price, Munro. _The Fall of the French Monarchy: Louis XVI, Marie Antoinette and the Baron de Breteuil_. London: Macmillan, 2002.
 
-[^55]: Hunt, Lynn. *The Family Romance of the French Revolution*. Berkeley: University of California Press, 1992.
+[^55]: Hunt, Lynn. _The Family Romance of the French Revolution_. Berkeley: University of California Press, 1992.
 
-[^56]: Salmon, Xavier. *Marie-Antoinette*. Paris: Réunion des Musées Nationaux, 2008.
+[^56]: Salmon, Xavier. _Marie-Antoinette_. Paris: Réunion des Musées Nationaux, 2008.
 
-[^57]: Soderhjelm, Alma. *Marie-Antoinette et Barnave: Correspondance secrète*. Paris: Armand Colin, 1934.
+[^57]: Soderhjelm, Alma. _Marie-Antoinette et Barnave: Correspondance secrète_. Paris: Armand Colin, 1934.
 
-[^58]: Crook, Malcolm. *Revolutionary France: 1788-1880*. Oxford: Oxford University Press, 2002.
+[^58]: Crook, Malcolm. _Revolutionary France: 1788-1880_. Oxford: Oxford University Press, 2002.
 
-[^59]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. New York: Alfred A. Knopf, 1989.
+[^59]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. New York: Alfred A. Knopf, 1989.
 
-[^60]: Hardman, John. *The Life of Louis XVI*. New Haven: Yale University Press, 2016.
+[^60]: Hardman, John. _The Life of Louis XVI_. New Haven: Yale University Press, 2016.
 
-[^61]: Furet, François. *Interpreting the French Revolution*. Cambridge: Cambridge University Press, 1981.
+[^61]: Furet, François. _Interpreting the French Revolution_. Cambridge: Cambridge University Press, 1981.
 
-[^62]: Tackett, Timothy. "The Flight to Varennes and the Radicalization of the French Revolution." *Historical Reflections* 29, no. 3 (2003): 469-493.
+[^62]: Tackett, Timothy. "The Flight to Varennes and the Radicalization of the French Revolution." _Historical Reflections_ 29, no. 3 (2003): 469-493.
 
-[^63]: Blanning, T. C. W. *The French Revolutionary Wars 1787-1802*. London: Arnold, 1996.
+[^63]: Blanning, T. C. W. _The French Revolutionary Wars 1787-1802_. London: Arnold, 1996.
 
-[^64]: Soboul, Albert. *The French Revolution 1787-1799*. New York: Vintage Books, 1975.
+[^64]: Soboul, Albert. _The French Revolution 1787-1799_. New York: Vintage Books, 1975.
 
-[^65]: Hunt, Lynn. *Politics, Culture, and Class in the French Revolution*. Berkeley: University of California Press, 1984.
+[^65]: Hunt, Lynn. _Politics, Culture, and Class in the French Revolution_. Berkeley: University of California Press, 1984.
 
-[^66]: Rousseau, Jean-Jacques. *Confessions*. Oxford: Oxford University Press, 2000 (originally written 1765-1770).
+[^66]: Rousseau, Jean-Jacques. _Confessions_. Oxford: Oxford University Press, 2000 (originally written 1765-1770).
 
-[^67]: Turquan, Joseph. *The Last Years of Marie Antoinette*. London: Methuen, 1907.
+[^67]: Turquan, Joseph. _The Last Years of Marie Antoinette_. London: Methuen, 1907.
 
-[^68]: Saint-Amand, Imbert de. *Marie Antoinette and the End of the Old Régime*. New York: Charles Scribner's Sons, 1890.
+[^68]: Saint-Amand, Imbert de. _Marie Antoinette and the End of the Old Régime_. New York: Charles Scribner's Sons, 1890.
 
-[^69]: Lenotre, G. *The Last Days of Marie Antoinette*. London: William Heinemann, 1907.
+[^69]: Lenotre, G. _The Last Days of Marie Antoinette_. London: William Heinemann, 1907.
 
-[^70]: Lafont d'Aussonne, *Memoirs Secrets et Universels des Malheurs et de la Mort de la Reine de France*. Paris, 1824.
+[^70]: Lafont d'Aussonne, _Memoirs Secrets et Universels des Malheurs et de la Mort de la Reine de France_. Paris, 1824.

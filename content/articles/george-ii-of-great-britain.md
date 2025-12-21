@@ -167,29 +167,29 @@ The initial failures of the Seven Years' War, culminating in the loss of Minorca
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1683 | Born on November 10 at Herrenhausen Palace, Hanover |
-| 1694 | Parents separate; never sees mother again after she is imprisoned |
-| 1705 | Marries Caroline of Ansbach on August 22 |
-| 1707 | First child Frederick born; participates in Battle of Oudenarde |
-| 1708 | Fights under Duke of Marlborough at Battle of Oudenarde during War of Spanish Succession |
-| 1714 | Father becomes King George I; George becomes Prince of Wales and moves to Britain |
-| 1727 | Accedes to throne as King George II on June 11; Handel composes coronation anthems including Zadok the Priest |
-| 1733 | Excise Crisis threatens Walpole's ministry |
-| 1734 | Ends relationship with mistress Henrietta Howard |
-| 1735 | Begins relationship with Amalie von Wallmoden during visit to Hanover |
-| 1737 | Queen Caroline dies on November 20; final break with son Frederick after birth incident |
-| 1740 | War of the Austrian Succession begins; Amalie von Wallmoden created Countess of Yarmouth |
-| 1742 | Robert Walpole forced to resign as Prime Minister |
+| Year | Event                                                                                                                 |
+| ---- | --------------------------------------------------------------------------------------------------------------------- |
+| 1683 | Born on November 10 at Herrenhausen Palace, Hanover                                                                   |
+| 1694 | Parents separate; never sees mother again after she is imprisoned                                                     |
+| 1705 | Marries Caroline of Ansbach on August 22                                                                              |
+| 1707 | First child Frederick born; participates in Battle of Oudenarde                                                       |
+| 1708 | Fights under Duke of Marlborough at Battle of Oudenarde during War of Spanish Succession                              |
+| 1714 | Father becomes King George I; George becomes Prince of Wales and moves to Britain                                     |
+| 1727 | Accedes to throne as King George II on June 11; Handel composes coronation anthems including Zadok the Priest         |
+| 1733 | Excise Crisis threatens Walpole's ministry                                                                            |
+| 1734 | Ends relationship with mistress Henrietta Howard                                                                      |
+| 1735 | Begins relationship with Amalie von Wallmoden during visit to Hanover                                                 |
+| 1737 | Queen Caroline dies on November 20; final break with son Frederick after birth incident                               |
+| 1740 | War of the Austrian Succession begins; Amalie von Wallmoden created Countess of Yarmouth                              |
+| 1742 | Robert Walpole forced to resign as Prime Minister                                                                     |
 | 1743 | Leads British forces to victory at Battle of Dettingen on June 27, becoming last British monarch to command in battle |
-| 1745 | Jacobite Rebellion begins under Charles Edward Stuart |
-| 1746 | Duke of Cumberland defeats Jacobites at Battle of Culloden on April 16, ending Stuart threat |
-| 1751 | Son Frederick, Prince of Wales, dies suddenly, making grandson next in line |
-| 1756 | Seven Years' War begins; loss of Minorca leads to Newcastle's resignation |
-| 1757 | Pitt-Newcastle ministry formed, dividing responsibilities between the two ministers |
-| 1759 | Annus Mirabilis—year of British victories in Seven Years' War |
-| 1760 | Dies on October 25 at Kensington Palace of aortic dissection; succeeded by grandson George III |
+| 1745 | Jacobite Rebellion begins under Charles Edward Stuart                                                                 |
+| 1746 | Duke of Cumberland defeats Jacobites at Battle of Culloden on April 16, ending Stuart threat                          |
+| 1751 | Son Frederick, Prince of Wales, dies suddenly, making grandson next in line                                           |
+| 1756 | Seven Years' War begins; loss of Minorca leads to Newcastle's resignation                                             |
+| 1757 | Pitt-Newcastle ministry formed, dividing responsibilities between the two ministers                                   |
+| 1759 | Annus Mirabilis—year of British victories in Seven Years' War                                                         |
+| 1760 | Dies on October 25 at Kensington Palace of aortic dissection; succeeded by grandson George III                        |
 
 ---
 
@@ -208,105 +208,207 @@ The initial failures of the Seven Years' War, culminating in the loss of Minorca
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/George_II_of_Great_Britain
+
 [^2]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^3]: https://www.worldhistory.org/George_II_of_Great_Britain/
+
 [^4]: https://www.ebsco.com/research-starters/history/george-ii
+
 [^5]: https://www.visitheritage.co.uk/discover/royal-history/house-of-hanover/george-ii-like-father-like-son
+
 [^6]: https://kids.kiddle.co/George_II_of_Great_Britain
+
 [^7]: https://www.thefamouspeople.com/profiles/george-ii-of-great-britain-37344.php
+
 [^8]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/King-George-II/
+
 [^9]: https://historicalmedallions.com/blogs/news/ten-interesting-facts-about-king-george-ii
+
 [^10]: https://kids.britannica.com/kids/article/George-II/476262
+
 [^11]: https://en.wikipedia.org/wiki/Caroline_of_Ansbach
+
 [^12]: https://www.englishmonarchs.co.uk/hanover_10.html
+
 [^13]: https://www.worldhistory.org/George_II_of_Great_Britain/
+
 [^14]: https://military-history.fandom.com/wiki/George_II_of_Great_Britain
+
 [^15]: https://www.newworldencyclopedia.org/entry/George_II_of_Great_Britain
+
 [^16]: https://www.gale.com/intl/essays/william-gibson-reigns-of-george-i-george-ii
+
 [^17]: https://www.royal.uk/george-ii
+
 [^18]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^19]: https://en.wikipedia.org/wiki/Robert_Walpole
+
 [^20]: https://www.britannica.com/biography/Robert-Walpole-1st-Earl-of-Orford
+
 [^21]: https://en.wikipedia.org/wiki/Battle_of_Dettingen
+
 [^22]: https://www.nam.ac.uk/explore/battle-dettingen
+
 [^23]: https://www.britishbattles.com/king-georges-war-austrian-succession/battle-of-dettingen/
+
 [^24]: https://www.nam.ac.uk/whats-on/battle-dettingen-1743
+
 [^25]: https://artuk.org/discover/artworks/george-ii-at-the-battle-of-dettingen-with-the-duke-of-cumberland-and-robert-4th-earl-of-holderness-27-june-1743-183087
+
 [^26]: https://www.queensroyalsurreys.org.uk/1661to1966/dettingen/dettingen.html
+
 [^27]: https://historicalmedallions.com/blogs/news/george-ii-s-reign-and-family-a-closer-look-at-royal-life-and-heritage
+
 [^28]: https://www.ebsco.com/research-starters/history/george-ii
+
 [^29]: https://georgianpapers.com/2019/01/03/george-iii-and-the-seventy-years-war-1744-1815/
+
 [^30]: https://en.wikipedia.org/wiki/Great_Britain_in_the_Seven_Years'_War
+
 [^31]: https://en.wikipedia.org/wiki/Jacobite_rising_of_1745
+
 [^32]: https://britishheritage.com/jacobite-rebellion-1745/
+
 [^33]: https://www.nam.ac.uk/explore/battle-culloden
+
 [^34]: https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/the-1745-rebellion/
+
 [^35]: https://en.wikipedia.org/wiki/Battle_of_Culloden
+
 [^36]: https://www.newworldencyclopedia.org/entry/Battle_of_Culloden
+
 [^37]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^38]: https://www.ebsco.com/research-starters/history/george-ii
+
 [^39]: https://www.worldhistory.org/George_II_of_Great_Britain/
+
 [^40]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/King-George-II/
+
 [^41]: https://schoolhistory.co.uk/early-modern/george-ii/
+
 [^42]: https://www.newworldencyclopedia.org/entry/George_II_of_Great_Britain
+
 [^43]: https://www.gale.com/intl/essays/william-gibson-reigns-of-george-i-george-ii
+
 [^44]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^45]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^46]: https://en.wikiquote.org/wiki/George_II_of_Great_Britain
+
 [^47]: https://www.newworldencyclopedia.org/entry/George_II_of_Great_Britain
+
 [^48]: https://www.gale.com/intl/essays/william-gibson-reigns-of-george-i-george-ii
+
 [^49]: https://www.worldhistory.org/George_II_of_Great_Britain/
+
 [^50]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^51]: https://schoolhistory.co.uk/early-modern/george-ii/
+
 [^52]: https://en.wikipedia.org/wiki/Great_Britain_in_the_Seven_Years'_War
+
 [^53]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^54]: https://en.wikipedia.org/wiki/George_II_of_Great_Britain
+
 [^55]: https://www.visitheritage.co.uk/discover/royal-history/house-of-hanover/george-ii-like-father-like-son
+
 [^56]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/King-George-II/
+
 [^57]: https://www.newworldencyclopedia.org/entry/George_II_of_Great_Britain
+
 [^58]: https://www.britannica.com/biography/Frederick-Louis-prince-of-Wales
+
 [^59]: https://www.undiscoveredscotland.co.uk/usbiography/monarchs/georgeii.html
+
 [^60]: https://www.newworldencyclopedia.org/entry/George_II_of_Great_Britain
+
 [^61]: https://en.wikipedia.org/wiki/Caroline_of_Ansbach
+
 [^62]: https://www.westminster-abbey.org/abbey-commemorations/royals/george-ii-and-caroline
+
 [^63]: https://www.britannica.com/biography/Caroline-of-Brandenburg-Ansbach
+
 [^64]: https://teamqueens.org/caroline-of-ansbach/
+
 [^65]: https://www.unofficialroyalty.com/caroline-of-ansbach-queen-of-great-britain/
+
 [^66]: https://www.historic-uk.com/HistoryUK/HistoryofEngland/Queen-Caroline-Brandenburg-Ansbach/
+
 [^67]: https://en.wikiquote.org/wiki/George_II_of_Great_Britain
+
 [^68]: https://en.wikipedia.org/wiki/Henrietta_Howard,_Countess_of_Suffolk
+
 [^69]: https://www.unofficialroyalty.com/henrietta-howard-countess-of-suffolk-mistress-of-king-george-ii-of-great-britain/
+
 [^70]: https://www.unofficialroyalty.com/amalie-von-wallmoden-countess-of-yarmouth-mistress-of-king-george-ii-of-great-britain/
+
 [^71]: https://en.wikipedia.org/wiki/George_II_of_Great_Britain
+
 [^72]: https://www.unofficialroyalty.com/amalie-von-wallmoden-countess-of-yarmouth-mistress-of-king-george-ii-of-great-britain/
+
 [^73]: https://europeanroyalhistory.wordpress.com/2021/11/11/the-life-of-george-ii-king-of-great-britain-and-ireland-elector-of-hanover-part-ii/
+
 [^74]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^75]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/King-George-II/
+
 [^76]: https://www.historytoday.com/archive/george-ii-and-handel
+
 [^77]: https://en.wikipedia.org/wiki/George_II_of_Great_Britain
+
 [^78]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^79]: https://www.royal.uk/george-ii
+
 [^80]: https://historicalmedallions.com/blogs/news/george-ii-s-reign-and-family-a-closer-look-at-royal-life-and-heritage
+
 [^81]: https://schoolhistory.co.uk/early-modern/george-ii/
+
 [^82]: https://www.ebsco.com/research-starters/history/george-ii
+
 [^83]: https://www.gale.com/intl/essays/william-gibson-reigns-of-george-i-george-ii
+
 [^84]: https://www.worldhistory.org/George_II_of_Great_Britain/
+
 [^85]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/King-George-II/
+
 [^86]: https://historicalmedallions.com/blogs/news/george-ii-s-reign-and-family-a-closer-look-at-royal-life-and-heritage
+
 [^87]: https://schoolhistory.co.uk/early-modern/george-ii/
+
 [^88]: https://www.ebsco.com/research-starters/history/george-ii
+
 [^89]: https://historicalmedallions.com/blogs/news/george-ii-s-reign-and-family-a-closer-look-at-royal-life-and-heritage
+
 [^90]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/King-George-II/
+
 [^91]: https://schoolhistory.co.uk/early-modern/george-ii/
+
 [^92]: https://www.ebsco.com/research-starters/history/george-ii
+
 [^93]: https://www.historytoday.com/archive/george-ii-and-handel
+
 [^94]: https://classicalmusings.com/2019/01/28/handel-and-the-hanoverians-│-classical-musings/
+
 [^95]: https://en.wikipedia.org/wiki/Second_Newcastle_Ministry
+
 [^96]: https://www.gale.com/intl/essays/william-gibson-reigns-of-george-i-george-ii
+
 [^97]: https://www.britannica.com/biography/Frederick-Louis-prince-of-Wales
+
 [^98]: https://www.britannica.com/biography/George-II-king-of-Great-Britain
+
 [^99]: https://en.wikipedia.org/wiki/Great_Britain_in_the_Seven_Years'_War
+
 [^100]: https://en.wikiquote.org/wiki/George_II_of_Great_Britain
+
 [^101]: https://quotesdom.com/character/king-george-ii
+
 [^102]: https://en.wikiquote.org/wiki/George_II_of_Great_Britain
+
 [^103]: https://www.brainyquote.com/authors/king-george-ii-quotes

@@ -23,7 +23,7 @@ King John was born on December 24, 1166 (some sources cite 1167), at Beaumont Pa
 
 John's childhood was marked by the dramatic conflicts within the Plantagenet family. His mother Eleanor was imprisoned in 1173 when John was still a small boy, following her involvement in a rebellion against Henry II led by John's older brothers.[^8] The young prince was sent north to Fontevrault Abbey along with his sister Joan, where he received his early education.[^9] Like his brothers, John was assigned a magister at Fontevrault—a teacher charged with his early education and managing the servants of his immediate household.[^10] He was later placed in the household of Henry the Young King to learn the skills of knighthood, followed by time in the home of Ranulf de Glanville, the king's justiciar, where he was taught about the business of government.[^11]
 
-Despite being the youngest son with little prospect of inheritance—earning him the nickname "Lackland" from his father—John received one of the finest educations of any English king.[^12] Historical records show he read sophisticated theological and philosophical works including *De Sacramentis Christianae Fidei* by Hugh of St. Victor, *Sentences* by Peter Lombard, treatises by Origen, and histories of England.[^13] This exceptional education would later manifest in his administrative capabilities, though it could not compensate for his character flaws.
+Despite being the youngest son with little prospect of inheritance—earning him the nickname "Lackland" from his father—John received one of the finest educations of any English king.[^12] Historical records show he read sophisticated theological and philosophical works including _De Sacramentis Christianae Fidei_ by Hugh of St. Victor, _Sentences_ by Peter Lombard, treatises by Origen, and histories of England.[^13] This exceptional education would later manifest in his administrative capabilities, though it could not compensate for his character flaws.
 
 Henry II, who favored John among his sons, attempted in 1173 to assign the young prince extensive lands upon his marriage, but this plan was defeated by the rebellion it provoked among John's elder brothers, who were jealous of their father's favoritism.[^14] In 1177, at age eleven, John was granted the lordship of Ireland, though this was largely a nominal title at the time.[^15] He would not visit Ireland until 1185, when he was sent there by his father to establish English authority. This expedition proved disastrous due to John's youthful political indiscretions, earning him a reputation for reckless irresponsibility that would haunt him throughout his life.[^16] The young prince alienated the Irish chieftains and Anglo-Norman lords alike through his arrogance and poor judgment, returning to England having accomplished little beyond damaging his reputation.
 
@@ -171,54 +171,54 @@ Even John's defenders typically acknowledge that he combined genuine abilities w
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1166 | Born December 24 at Beaumont Palace, Oxford, youngest son of Henry II and Eleanor of Aquitaine |
-| 1173 | Mother Eleanor imprisoned; rebellion of John's older brothers against Henry II |
-| 1177 | Granted lordship of Ireland at age eleven |
-| 1185 | First expedition to Ireland ends in failure due to political indiscretions |
-| 1189 | Married Isabella of Gloucester; Brother Richard I becomes king |
-| 1189-1192 | Conspires against Richard while he fights in Third Crusade |
-| 1192-1194 | Attempts to keep Richard imprisoned while held for ransom by Holy Roman Emperor |
-| 1194 | Richard returns, pardons John, and nominates him as successor |
-| 1199 | Richard dies April 6; John invested as Duke of Normandy April 25; crowned King of England May 27 |
-| 1199 | Marriage to Isabella of Gloucester annulled |
-| 1200 | Marries Isabella of Angoulême, alienating the Lusignan family and providing Philip II pretext for war |
-| 1202 | Captures nephew Arthur of Brittany at Mirebeau |
-| 1203 | Arthur disappears, likely murdered on John's orders; orders all English shipyards to provide ships |
-| 1204 | Loses Normandy to Philip II; Portsmouth becomes home of Royal Navy with 45 galleys |
-| 1205 | Disputes Pope's choice of Stephen Langton as Archbishop of Canterbury |
-| 1208 | Pope Innocent III places England under interdict |
-| 1209 | John personally excommunicated; invades Scotland, forces Treaty of Norham establishing English overlordship |
-| 1210 | Successfully suppresses rebellion in Ireland |
-| 1211 | Defeats Llywelyn the Great of Wales in battle |
-| 1213 | Submits to papal authority, accepts Langton as archbishop, becomes papal vassal |
-| 1214 | Campaign to recover French territories ends in disaster; allies defeated at Battle of Bouvines July 27 |
-| 1215 | Baronial rebellion; Magna Carta sealed at Runnymede June 15; Pope annuls Magna Carta; First Barons' War begins |
-| 1215-1216 | Rebel barons invite Prince Louis of France to invade England |
-| 1216 | Successfully besieges Rochester Castle October-November; dies of dysentery October 19 at Newark |
-| 1216 | Son Henry III crowned October 28 at age nine; civil war continues |
-| 1217 | John's supporters defeat Louis and rebel barons, securing throne for Henry III |
+| Year      | Event                                                                                                          |
+| --------- | -------------------------------------------------------------------------------------------------------------- |
+| 1166      | Born December 24 at Beaumont Palace, Oxford, youngest son of Henry II and Eleanor of Aquitaine                 |
+| 1173      | Mother Eleanor imprisoned; rebellion of John's older brothers against Henry II                                 |
+| 1177      | Granted lordship of Ireland at age eleven                                                                      |
+| 1185      | First expedition to Ireland ends in failure due to political indiscretions                                     |
+| 1189      | Married Isabella of Gloucester; Brother Richard I becomes king                                                 |
+| 1189-1192 | Conspires against Richard while he fights in Third Crusade                                                     |
+| 1192-1194 | Attempts to keep Richard imprisoned while held for ransom by Holy Roman Emperor                                |
+| 1194      | Richard returns, pardons John, and nominates him as successor                                                  |
+| 1199      | Richard dies April 6; John invested as Duke of Normandy April 25; crowned King of England May 27               |
+| 1199      | Marriage to Isabella of Gloucester annulled                                                                    |
+| 1200      | Marries Isabella of Angoulême, alienating the Lusignan family and providing Philip II pretext for war          |
+| 1202      | Captures nephew Arthur of Brittany at Mirebeau                                                                 |
+| 1203      | Arthur disappears, likely murdered on John's orders; orders all English shipyards to provide ships             |
+| 1204      | Loses Normandy to Philip II; Portsmouth becomes home of Royal Navy with 45 galleys                             |
+| 1205      | Disputes Pope's choice of Stephen Langton as Archbishop of Canterbury                                          |
+| 1208      | Pope Innocent III places England under interdict                                                               |
+| 1209      | John personally excommunicated; invades Scotland, forces Treaty of Norham establishing English overlordship    |
+| 1210      | Successfully suppresses rebellion in Ireland                                                                   |
+| 1211      | Defeats Llywelyn the Great of Wales in battle                                                                  |
+| 1213      | Submits to papal authority, accepts Langton as archbishop, becomes papal vassal                                |
+| 1214      | Campaign to recover French territories ends in disaster; allies defeated at Battle of Bouvines July 27         |
+| 1215      | Baronial rebellion; Magna Carta sealed at Runnymede June 15; Pope annuls Magna Carta; First Barons' War begins |
+| 1215-1216 | Rebel barons invite Prince Louis of France to invade England                                                   |
+| 1216      | Successfully besieges Rochester Castle October-November; dies of dysentery October 19 at Newark                |
+| 1216      | Son Henry III crowned October 28 at age nine; civil war continues                                              |
+| 1217      | John's supporters defeat Louis and rebel barons, securing throne for Henry III                                 |
 
 ---
 
 ## Famous Quotes
 
-While few authenticated quotes from the historical King John survive, William Shakespeare's play *King John* (c. 1596) contains memorable lines that have shaped cultural memory of the monarch, and some contemporary chronicle accounts preserve reported statements.[^150]
+While few authenticated quotes from the historical King John survive, William Shakespeare's play _King John_ (c. 1596) contains memorable lines that have shaped cultural memory of the monarch, and some contemporary chronicle accounts preserve reported statements.[^150]
 
 > "Think no more of it, John; you are only a child who has had evil counsellors." - King Richard I to John, forgiving his brother's betrayal (reported by chroniclers)[^151]
 
 This quote, though spoken by Richard rather than John, encapsulates the relationship between the brothers and Richard's ultimately mistaken assessment of John's character as misled rather than fundamentally flawed.
 
-> "This England never did, nor never shall, / Lie at the proud foot of a conqueror, / But when it first did help to wound itself." - From Shakespeare's *King John* (Act 5, Scene 7)[^152]
+> "This England never did, nor never shall, / Lie at the proud foot of a conqueror, / But when it first did help to wound itself." - From Shakespeare's _King John_ (Act 5, Scene 7)[^152]
 
 This patriotic speech from Shakespeare's play became one of the most famous passages associated with King John, though it reflects Elizabethan nationalism rather than medieval historical reality.
 
-> "Life is as tedious as a twice-told tale / Vexing the dull ear of a drowsy man." - From Shakespeare's *King John* (Act 3, Scene 4)[^153]
+> "Life is as tedious as a twice-told tale / Vexing the dull ear of a drowsy man." - From Shakespeare's _King John_ (Act 3, Scene 4)[^153]
 
 This melancholic reflection on the weariness of existence is spoken by the character of King Philip in Shakespeare's play, capturing the exhaustion and futility that characterized much of John's reign.
 
-> "Grief fills the room up of my absent child, / Lies in his bed, walks up and down with me, / Puts on his pretty looks, repeats his words, / Remembers me of all his gracious parts, / Stuffs out his vacant garments with his form." - From Shakespeare's *King John* (Act 3, Scene 4)[^154]
+> "Grief fills the room up of my absent child, / Lies in his bed, walks up and down with me, / Puts on his pretty looks, repeats his words, / Remembers me of all his gracious parts, / Stuffs out his vacant garments with his form." - From Shakespeare's _King John_ (Act 3, Scene 4)[^154]
 
 These lines about grief for a lost child, while fictional, resonate with the historical John's loss of his territories in France, which he referred to as his inheritance and birthright.
 
@@ -229,157 +229,311 @@ It should be noted that authenticated historical quotes from King John himself a
 ## References
 
 [^1]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^2]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^3]: [Magna Carta - Wikipedia](https://en.wikipedia.org/wiki/Magna_Carta)
+
 [^4]: [King John of England: England's Most Unpopular King? - World History Encyclopedia](https://www.worldhistory.org/King_John_of_England/)
+
 [^5]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^6]: [John, King Of England Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/john-king-of-england-8209.php)
+
 [^7]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^8]: [King John, son of Henry II and Eleanor of Aquitaine](https://www.englishmonarchs.co.uk/plantagenet_3.htm)
+
 [^9]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^10]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^11]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^12]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^13]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^14]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^15]: [King John I of England Biography and Facts](https://www.potterswaxmuseum.com/ancient-history/john-i-of-england/)
+
 [^16]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^17]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^18]: [Timeline: King John of England - World History Encyclopedia](https://www.worldhistory.org/timeline/King_John_of_England/)
+
 [^19]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^20]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^21]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^22]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^23]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^24]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^25]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^26]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^27]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^28]: [Timeline: King John of England - World History Encyclopedia](https://www.worldhistory.org/timeline/King_John_of_England/)
+
 [^29]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^30]: [King John of England: Villain, Tyrant and the Magna Carta](https://historiesandcastles.com/historic-figures/king-john/)
+
 [^31]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^32]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^33]: [King John I of England Biography and Facts](https://www.potterswaxmuseum.com/ancient-history/john-i-of-england/)
+
 [^34]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^35]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^36]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^37]: [King John of England - World History Encyclopedia](https://www.worldhistory.org/King_John_of_England/)
+
 [^38]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^39]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^40]: [King John of England - World History Encyclopedia](https://www.worldhistory.org/King_John_of_England/)
+
 [^41]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^42]: [Timeline: King John of England - World History Encyclopedia](https://www.worldhistory.org/timeline/King_John_of_England/)
+
 [^43]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^44]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^45]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^46]: [King John of England - World History Encyclopedia](https://www.worldhistory.org/King_John_of_England/)
+
 [^47]: [Magna Carta | Definition, History, Summary, Dates, Rights, Significance, & Facts | Britannica](https://www.britannica.com/topic/Magna-Carta)
+
 [^48]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^49]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^50]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^51]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^52]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^53]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^54]: [King John I of England Biography and Facts](https://www.potterswaxmuseum.com/ancient-history/john-i-of-england/)
+
 [^55]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^56]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^57]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^58]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^59]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^60]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^61]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^62]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^63]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^64]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^65]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^66]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^67]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^68]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^69]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^70]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^71]: [King John of England: Villain, Tyrant and the Magna Carta](https://historiesandcastles.com/historic-figures/king-john/)
+
 [^72]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^73]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^74]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^75]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^76]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^77]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^78]: [Magna Carta - Wikipedia](https://en.wikipedia.org/wiki/Magna_Carta)
+
 [^79]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^80]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^81]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^82]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^83]: [King John of England - Unofficial Royalty](https://www.unofficialroyalty.com/king-john-of-england/)
+
 [^84]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^85]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^86]: [King John, son of Henry II and Eleanor of Aquitaine](https://www.englishmonarchs.co.uk/plantagenet_3.htm)
+
 [^87]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^88]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^89]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^90]: [King John of England - Unofficial Royalty](https://www.unofficialroyalty.com/king-john-of-england/)
+
 [^91]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^92]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^93]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^94]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^95]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^96]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^97]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^98]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^99]: [King John of England - Unofficial Royalty](https://www.unofficialroyalty.com/king-john-of-england/)
+
 [^100]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^101]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^102]: [Magna Carta | Definition, History, Summary, Dates, Rights, Significance, & Facts | Britannica](https://www.britannica.com/topic/Magna-Carta)
+
 [^103]: [Magna Carta - UK Parliament](https://www.parliament.uk/magnacarta/)
+
 [^104]: [King John of England - World History Encyclopedia](https://worldhistoryedu.com/king-john-of-england/)
+
 [^105]: [King John in History and Memory - Library of Congress](https://www.loc.gov/exhibits/magna-carta-muse-and-mentor/king-john-in-history-and-memory.html)
+
 [^106]: [Magna Carta - UK Parliament](https://www.parliament.uk/magnacarta/)
+
 [^107]: [Magna Carta - UK Parliament](https://www.parliament.uk/magnacarta/)
+
 [^108]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^109]: [King John of England - World History Encyclopedia](https://worldhistoryedu.com/king-john-of-england/)
+
 [^110]: [King John I of England Biography and Facts](https://www.potterswaxmuseum.com/ancient-history/john-i-of-england/)
+
 [^111]: [John of England - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/John_of_England)
+
 [^112]: [King John of England - World History Encyclopedia](https://www.worldhistory.org/King_John_of_England/)
+
 [^113]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^114]: [King John: Still England's Greatest Villain - History Today](https://www.historytoday.com/king-john-still-englands-greatest-villain)
+
 [^115]: [King John of England - World History Encyclopedia](https://worldhistoryedu.com/king-john-of-england/)
+
 [^116]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^117]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^118]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^119]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^120]: [King John of England - World History Encyclopedia](https://www.worldhistory.org/King_John_of_England/)
+
 [^121]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^122]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^123]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^124]: [King John I of England Biography and Facts](https://www.potterswaxmuseum.com/ancient-history/john-i-of-england/)
+
 [^125]: [Why 'Bad King John' wasn't so bad - The History Corner](https://www.thehistorycorner.org/articles-by-the-team/why-bad-king-john-wasnt-so-bad)
+
 [^126]: [Why 'Bad King John' wasn't so bad - The History Corner](https://www.thehistorycorner.org/articles-by-the-team/why-bad-king-john-wasnt-so-bad)
+
 [^127]: [King John of England - World History Encyclopedia](https://worldhistoryedu.com/king-john-of-england/)
+
 [^128]: [Magna Carta | Definition, History, Summary, Dates, Rights, Significance, & Facts | Britannica](https://www.britannica.com/topic/Magna-Carta)
+
 [^129]: [Why 'Bad King John' wasn't so bad - The History Corner](https://www.thehistorycorner.org/articles-by-the-team/why-bad-king-john-wasnt-so-bad)
+
 [^130]: [Why 'Bad King John' wasn't so bad - The History Corner](https://www.thehistorycorner.org/articles-by-the-team/why-bad-king-john-wasnt-so-bad)
+
 [^131]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^132]: [King John - Spartacus Educational](https://spartacus-educational.com/MEDjohn.htm)
+
 [^133]: [John, King of England - Wikipedia](https://en.wikipedia.org/wiki/John,_King_of_England)
+
 [^134]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^135]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^136]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^137]: [Just how bad was Bad King John? - National Geographic](https://www.nationalgeographic.com/history/article/england-king-john-richard-the-lionheart)
+
 [^138]: [King John Timeline - Medieval Life and Times](https://www.medieval-life-and-times.info/medieval-kings/king-john-timeline.htm)
+
 [^139]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^140]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^141]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^142]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^143]: [King John of England: Villain, Tyrant and the Magna Carta](https://historiesandcastles.com/historic-figures/king-john/)
+
 [^144]: [Bad King John I: The worst British monarch in history? - Sky HISTORY](https://www.history.co.uk/articles/bad-king-john-i-the-worst-monarch-in-british-history)
+
 [^145]: [King John: Still England's Greatest Villain - History Today](https://www.historytoday.com/king-john-still-englands-greatest-villain)
+
 [^146]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^147]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^148]: [King John: Magna Carta, rebellion and myth - Live Science](https://www.livescience.com/king-john-of-england)
+
 [^149]: [John | Facts, Reign, Legacy, Family Tree, & Magna Carta | Britannica](https://www.britannica.com/biography/John-king-of-England)
+
 [^150]: [King John Quotes by William Shakespeare - Goodreads](https://www.goodreads.com/work/quotes/745446-the-life-and-death-of-king-john)
+
 [^151]: [King John Was England's Most Hated Tyrant - Factinate](https://www.factinate.com/people/facts-king-john-king-of-england)
+
 [^152]: [Famous Quotes - King John - Royal Shakespeare Company](https://www.rsc.org.uk/king-john/about-the-play/famous-quotes)
+
 [^153]: [Famous Quotations from Shakespeare's King John](https://www.shakespeare-online.com/quotes/kingjohnquotes.html)
+
 [^154]: [King John Quotes by William Shakespeare - Goodreads](https://www.goodreads.com/work/quotes/745446-the-life-and-death-of-king-john)
+
 [^155]: [King John - Wikiquote](https://en.wikiquote.org/wiki/King_John)

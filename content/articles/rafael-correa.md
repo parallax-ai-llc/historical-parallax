@@ -187,28 +187,28 @@ Some former supporters on the left have become harsh critics, arguing that Corre
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1963 | Born in Guayaquil, Ecuador on April 6 |
-| 1987 | Graduated with degree in economics from Catholic University of Santiago de Guayaquil |
-| 1991 | Earned Master's degree in Economics from Université catholique de Louvain, Belgium |
-| 1999 | Married Anne Malherbe Gosselin |
-| 2001 | Completed Ph.D. in Economics from University of Illinois at Urbana-Champaign |
-| 2005 | Appointed Minister of Economy and Finance (April); resigned after 103 days (August) |
-| 2006 | Founded PAIS Alliance political movement; elected President of Ecuador (November) |
-| 2007 | Inaugurated as President on January 15; convened Constituent Assembly |
-| 2008 | New Constitution approved by referendum (September) |
+| Year | Event                                                                                   |
+| ---- | --------------------------------------------------------------------------------------- |
+| 1963 | Born in Guayaquil, Ecuador on April 6                                                   |
+| 1987 | Graduated with degree in economics from Catholic University of Santiago de Guayaquil    |
+| 1991 | Earned Master's degree in Economics from Université catholique de Louvain, Belgium      |
+| 1999 | Married Anne Malherbe Gosselin                                                          |
+| 2001 | Completed Ph.D. in Economics from University of Illinois at Urbana-Champaign            |
+| 2005 | Appointed Minister of Economy and Finance (April); resigned after 103 days (August)     |
+| 2006 | Founded PAIS Alliance political movement; elected President of Ecuador (November)       |
+| 2007 | Inaugurated as President on January 15; convened Constituent Assembly                   |
+| 2008 | New Constitution approved by referendum (September)                                     |
 | 2009 | Re-elected President under new constitution; expelled U.S. military from Manta Air Base |
-| 2010 | Police revolt and crisis on September 30 |
-| 2012 | Granted asylum to Julian Assange (August) |
-| 2013 | Re-elected to third term; abandoned Yasuní-ITT Initiative; Communications Law enacted |
-| 2014 | Oil prices began sharp decline, impacting Ecuador's economy |
-| 2016 | Constitutional amendment removing term limits approved by National Assembly |
-| 2017 | Left office on May 24; succeeded by Lenín Moreno; moved to Belgium |
-| 2018 | Split with successor Moreno; investigations into corruption began |
-| 2020 | Convicted in absentia of corruption and sentenced to eight years in prison (April) |
-| 2021 | Supported Andrés Arauz's presidential campaign from exile; Arauz lost runoff election |
-| 2023 | Remains in Belgium; continues political activity via social media |
+| 2010 | Police revolt and crisis on September 30                                                |
+| 2012 | Granted asylum to Julian Assange (August)                                               |
+| 2013 | Re-elected to third term; abandoned Yasuní-ITT Initiative; Communications Law enacted   |
+| 2014 | Oil prices began sharp decline, impacting Ecuador's economy                             |
+| 2016 | Constitutional amendment removing term limits approved by National Assembly             |
+| 2017 | Left office on May 24; succeeded by Lenín Moreno; moved to Belgium                      |
+| 2018 | Split with successor Moreno; investigations into corruption began                       |
+| 2020 | Convicted in absentia of corruption and sentenced to eight years in prison (April)      |
+| 2021 | Supported Andrés Arauz's presidential campaign from exile; Arauz lost runoff election   |
+| 2023 | Remains in Belgium; continues political activity via social media                       |
 
 ---
 
@@ -238,110 +238,216 @@ Context: Correa's justification for media regulations and lawsuits against journ
 
 ## References
 
-[^1]: Becker, Marc. *Correa, Indigenous Movements, and the Writing of a New Constitution in Ecuador*. Latin American Perspectives, 2011.
-[^2]: De la Torre, Carlos. "Rafael Correa: The Populist Outsider." In *Populism in Latin America*, 2nd ed., edited by Michael Conniff and Carlos de la Torre, 2013.
+[^1]: Becker, Marc. _Correa, Indigenous Movements, and the Writing of a New Constitution in Ecuador_. Latin American Perspectives, 2011.
+
+[^2]: De la Torre, Carlos. "Rafael Correa: The Populist Outsider." In _Populism in Latin America_, 2nd ed., edited by Michael Conniff and Carlos de la Torre, 2013.
+
 [^3]: "Rafael Correa Biography." Encyclopedia Britannica. https://www.britannica.com/biography/Rafael-Correa
-[^4]: Conaghan, Catherine. "Ecuador: Correa's Plebiscitary Presidency." *Journal of Democracy* 19, no. 2 (2008): 46-60.
+
+[^4]: Conaghan, Catherine. "Ecuador: Correa's Plebiscitary Presidency." _Journal of Democracy_ 19, no. 2 (2008): 46-60.
+
 [^5]: University of Illinois at Urbana-Champaign, Economics Department records, 2001.
+
 [^6]: Correa, Rafael. "Contributions to Economic Theory and Policy." Dissertation, University of Illinois, 2001.
-[^7]: Machado Puertas, Juan Carlos. *Ecuador: ... hasta que se fueron todos!* Quito: Editorial Planeta, 2008.
-[^8]: Mejía Acosta, Andrés. "Crafting Legislative Ghost Coalitions in Ecuador." In *The Deadlock of Democracy in Brazil*, edited by Timothy J. Power and Matthew M. Taylor, 2010.
+
+[^7]: Machado Puertas, Juan Carlos. _Ecuador: ... hasta que se fueron todos!_ Quito: Editorial Planeta, 2008.
+
+[^8]: Mejía Acosta, Andrés. "Crafting Legislative Ghost Coalitions in Ecuador." In _The Deadlock of Democracy in Brazil_, edited by Timothy J. Power and Matthew M. Taylor, 2010.
+
 [^9]: International Monetary Fund. "Ecuador: Staff Report for the 2005 Article IV Consultation." IMF, 2005.
+
 [^10]: Gerlach, Allen. "Ecuador's Economic and Political Landscape." Congressional Research Service Report, 2006.
-[^11]: Cameron, Maxwell A., and Eric Hershberg, eds. *Latin America's Left Turns: Politics, Policies, and Trajectories of Change*. Boulder: Lynne Rienner Publishers, 2010.
+
+[^11]: Cameron, Maxwell A., and Eric Hershberg, eds. _Latin America's Left Turns: Politics, Policies, and Trajectories of Change_. Boulder: Lynne Rienner Publishers, 2010.
+
 [^12]: "Ecuador Elections 2006: Correa's Campaign Platform." Latin American Working Group, 2006.
-[^13]: Conaghan, Catherine. "Ecuador: Rafael Correa and the Citizens' Revolution." In *The Resurgence of the Latin American Left*, edited by Steven Levitsky and Kenneth M. Roberts, 2011.
+
+[^13]: Conaghan, Catherine. "Ecuador: Rafael Correa and the Citizens' Revolution." In _The Resurgence of the Latin American Left_, edited by Steven Levitsky and Kenneth M. Roberts, 2011.
+
 [^14]: National Electoral Council of Ecuador. "2006 Presidential Election Results." CNE Ecuador, 2006.
+
 [^15]: Weisbrot, Mark, and Jake Johnston. "Ecuador's New Deal: Reforming and Regulating the Financial Sector." Center for Economic and Policy Research, 2012.
+
 [^16]: Constitution of the Republic of Ecuador, 2008. Official Registry.
-[^17]: Basabe-Serrano, Santiago. "Ecuador: From Politics to Technocracy." *Journal of Democracy* 30, no. 1 (2019): 100-114.
+
+[^17]: Basabe-Serrano, Santiago. "Ecuador: From Politics to Technocracy." _Journal of Democracy_ 30, no. 1 (2019): 100-114.
+
 [^18]: National Institute of Statistics and Census (INEC). "Poverty and Inequality Report 2007-2017." Ecuador, 2018.
+
 [^19]: World Bank. "Ecuador Poverty Assessment." World Bank Group, 2018.
-[^20]: Ponce, Juan, and Andres Mideros. "Conditional Cash Transfers and Children's Outcomes in Ecuador." *Young Lives Student Paper*, 2012.
+
+[^20]: Ponce, Juan, and Andres Mideros. "Conditional Cash Transfers and Children's Outcomes in Ecuador." _Young Lives Student Paper_, 2012.
+
 [^21]: UNESCO. "Education Expenditure in Latin America 2006-2016." UNESCO Institute for Statistics, 2017.
+
 [^22]: Ministry of Transportation and Public Works. "Infrastructure Development Report 2007-2017." Government of Ecuador, 2017.
-[^23]: Ramírez, René. "Yachay: Building a Knowledge-Based Economy in Ecuador." *International Journal of Educational Development*, 2014.
+
+[^23]: Ramírez, René. "Yachay: Building a Knowledge-Based Economy in Ecuador." _International Journal of Educational Development_, 2014.
+
 [^24]: Ministry of Education Ecuador. "Millennium Schools Program Evaluation." Government of Ecuador, 2015.
+
 [^25]: Pan American Health Organization. "Health Systems Profile: Ecuador." PAHO, 2017.
+
 [^26]: Reuters. "Ecuador Defaults on Foreign Debt, Declares Some Bonds 'Illegitimate.'" December 2008.
+
 [^27]: Bloomberg. "Ecuador Debt Buyback Saves Billions After Default." June 2009.
-[^28]: Hurtig, Anna-Karin, and Miguel San Sebastián. "Renegotiation of Oil Contracts in Ecuador." *Resources Policy*, 2010.
-[^29]: Báez, René. "Ecuador's Economic Policy Under Correa: A Critical Assessment." *Latin American Perspectives*, 2015.
+
+[^28]: Hurtig, Anna-Karin, and Miguel San Sebastián. "Renegotiation of Oil Contracts in Ecuador." _Resources Policy_, 2010.
+
+[^29]: Báez, René. "Ecuador's Economic Policy Under Correa: A Critical Assessment." _Latin American Perspectives_, 2015.
+
 [^30]: The Guardian. "Ecuador to Expel US Military Base." September 2008.
-[^31]: Mortensen, Nina. "Ecuador's Withdrawal from ICSID." *Investment Treaty News*, 2009.
+
+[^31]: Mortensen, Nina. "Ecuador's Withdrawal from ICSID." _Investment Treaty News_, 2009.
+
 [^32]: BBC News. "Ecuador Grants Asylum to Wikileaks Founder Julian Assange." August 2012.
+
 [^33]: Correa, Rafael. Official Statement on Julian Assange Asylum. Government of Ecuador, August 2012.
+
 [^34]: Human Rights Watch. "Ecuador: Correa's Efforts to Silence Critics." HRW Report, 2015.
+
 [^35]: Reporters Without Borders. "Ecuador: Press Freedom Under Attack." RSF Annual Report, 2013.
+
 [^36]: Committee to Protect Journalists. "Ecuadorian President Uses Defamation Laws to Silence Media." CPJ Report, 2014.
+
 [^37]: Communications Law of Ecuador, Official Registry No. 22, June 25, 2013.
+
 [^38]: Inter-American Commission on Human Rights. "Freedom of Expression and Media in Ecuador." IACHR Special Report, 2014.
+
 [^39]: Reporters Without Borders. "World Press Freedom Index 2007-2017: Ecuador Rankings." RSF, 2017.
-[^40]: Basabe-Serrano, Santiago, and Julián Grijalva. "Judicial Independence in Ecuador." *Justice System Journal* 34, no. 2 (2013).
+
+[^40]: Basabe-Serrano, Santiago, and Julián Grijalva. "Judicial Independence in Ecuador." _Justice System Journal_ 34, no. 2 (2013).
+
 [^41]: Human Rights Watch. "World Report 2016: Ecuador." HRW, 2016.
+
 [^42]: Executive Decree 16. Official Registry, Government of Ecuador, June 2013.
+
 [^43]: Amnesty International. "Ecuador: Civil Society Under Pressure." Amnesty Report, 2015.
-[^44]: Finer, Matt, et al. "Ecuador's Yasuní Biosphere Reserve: A Brief Modern History and Conservation Challenges." *Environmental Research Letters* 4, no. 3 (2009).
-[^45]: Larrea, Carlos, and Laura Warnars. "Ecuador's Yasuní-ITT Initiative: Avoiding Emissions by Keeping Petroleum Underground." *Energy for Sustainable Development* 13, no. 3 (2009).
+
+[^44]: Finer, Matt, et al. "Ecuador's Yasuní Biosphere Reserve: A Brief Modern History and Conservation Challenges." _Environmental Research Letters_ 4, no. 3 (2009).
+
+[^45]: Larrea, Carlos, and Laura Warnars. "Ecuador's Yasuní-ITT Initiative: Avoiding Emissions by Keeping Petroleum Underground." _Energy for Sustainable Development_ 13, no. 3 (2009).
+
 [^46]: The Guardian. "Ecuador Approves Yasuní National Park Oil Drilling." August 2013.
+
 [^47]: Amnesty International. "Ecuador: Criminalization of Protest." Amnesty Briefing, 2012.
-[^48]: Kuecker, Glen David. "Fighting for the Forests: Grassroots Resistance to Mining in Northern Ecuador." *Latin American Perspectives* 34, no. 2 (2007).
+
+[^48]: Kuecker, Glen David. "Fighting for the Forests: Grassroots Resistance to Mining in Northern Ecuador." _Latin American Perspectives_ 34, no. 2 (2007).
+
 [^49]: The New York Times. "Odebrecht Scandal Spreads Across Latin America." December 2016.
+
 [^50]: BBC News. "Ecuador Vice-President Jorge Glas Sentenced Over Odebrecht Scandal." December 2017.
+
 [^51]: Reuters. "Ecuador Court Convicts Ex-President Correa of Corruption." April 2020.
+
 [^52]: El Universo (Ecuador). "Sobornos Case: Court Details Correa's Role in Corruption Scheme." April 2020.
+
 [^53]: Correa, Rafael. Twitter statement on conviction. April 7, 2020.
+
 [^54]: El Comercio (Ecuador). "Anne Malherbe: The Reserved First Lady." Profile, January 2013.
+
 [^55]: Ministry of Foreign Affairs. "Official Visits of President Correa 2007-2017." Government of Ecuador archive.
-[^56]: De la Torre, Carlos. "The People, Populism, and the Leader: Correa's Communicative Strategy." *Latin American Politics and Society* 59, no. 3 (2017).
+
+[^56]: De la Torre, Carlos. "The People, Populism, and the Leader: Correa's Communicative Strategy." _Latin American Politics and Society_ 59, no. 3 (2017).
+
 [^57]: "Enlace Ciudadano" program archives. Ecuador Public Broadcasting, 2007-2017.
+
 [^58]: El Telégrafo (Ecuador). "Correa Explains His Position on Abortion and Religion." Interview, March 2013.
+
 [^59]: Catholic News Agency. "Ecuador Bishops Criticize Correa's Education Reforms." October 2011.
+
 [^60]: YouTube. "President Correa Performs at State Function." Government of Ecuador official channel, 2014.
+
 [^61]: El Universo (Ecuador). "Correa's Passion for Barcelona SC." Sports section, May 2015.
+
 [^62]: The Brussels Times. "Former Ecuador President Rafael Correa Settles in Belgium." May 2017.
+
 [^63]: Twitter/X @MashiRafael. Correa's social media activity, 2017-present.
-[^64]: Conaghan, Catherine. "Delegative Democracy Revisited: Ecuador Under Correa." *Journal of Democracy* 27, no. 3 (2016).
-[^65]: Becker, Marc. "The Stormy Relations Between Rafael Correa and Social Movements in Ecuador." *Latin American Perspectives* 40, no. 3 (2013).
-[^66]: Basabe-Serrano, Santiago. "Presidential Power and Judicial Servility in Latin America." *Comparative Political Studies* 52, no. 2 (2019).
+
+[^64]: Conaghan, Catherine. "Delegative Democracy Revisited: Ecuador Under Correa." _Journal of Democracy_ 27, no. 3 (2016).
+
+[^65]: Becker, Marc. "The Stormy Relations Between Rafael Correa and Social Movements in Ecuador." _Latin American Perspectives_ 40, no. 3 (2013).
+
+[^66]: Basabe-Serrano, Santiago. "Presidential Power and Judicial Servility in Latin America." _Comparative Political Studies_ 52, no. 2 (2019).
+
 [^67]: Financial Times. "Ecuador's Moreno Breaks With Predecessor Correa." November 2017.
-[^68]: Polga-Hecimovich, John. "The Roots of Lenín Moreno's Surprise Victory in Ecuador." *Latin American Politics and Society* 60, no. 1 (2018).
+
+[^68]: Polga-Hecimovich, John. "The Roots of Lenín Moreno's Surprise Victory in Ecuador." _Latin American Politics and Society_ 60, no. 1 (2018).
+
 [^69]: Central Bank of Ecuador. "Annual Economic Reports 2007-2017." BCE, 2018.
+
 [^70]: Economic Commission for Latin America and the Caribbean (ECLAC). "Economic Survey of Latin America and the Caribbean: Ecuador." ECLAC, 2016.
+
 [^71]: Transparency International. "Corruption Perceptions Index: Ecuador 2007-2017." TI Reports.
+
 [^72]: Plan V (Ecuador). "Yachay: The Failed City of Knowledge." Investigative report, January 2019.
+
 [^73]: International Monetary Fund. "Ecuador: Staff Concluding Statement." IMF Mission, March 2018.
+
 [^74]: Ray, Rebecca, and Sara Kozameh. "Ecuador's Economy Since 2007." Center for Economic and Policy Research, 2012.
-[^75]: Polga-Hecimovich, John. "Ecuador: Estabilidad institucional y la consolidación de poder de Rafael Correa." *Revista de Ciencia Política* 33, no. 1 (2013).
+
+[^75]: Polga-Hecimovich, John. "Ecuador: Estabilidad institucional y la consolidación de poder de Rafael Correa." _Revista de Ciencia Política_ 33, no. 1 (2013).
+
 [^76]: CONAIE (Confederation of Indigenous Nationalities of Ecuador). "Statement on Correa Government Policies." Official Declaration, March 2015.
-[^77]: Wolff, Jonas. "Political Incorporation in Measures of Democracy: A Missing Dimension." *Democratization* 22, no. 4 (2015).
+
+[^77]: Wolff, Jonas. "Political Incorporation in Measures of Democracy: A Missing Dimension." _Democratization_ 22, no. 4 (2015).
+
 [^78]: Council on Hemispheric Affairs. "Ecuador's 2021 Elections: The Return of Correísmo?" COHA Analysis, February 2021.
-[^79]: Riggirozzi, Pía, and Diana Tussie, eds. *The Rise of Post-Hegemonic Regionalism: The Case of Latin America*. Dordrecht: Springer, 2012.
-[^80]: Levitsky, Steven, and Kenneth M. Roberts. "Latin America's 'Left Turn': A Framework for Analysis." In *The Resurgence of the Latin American Left*, 2011.
-[^81]: Kitzberger, Philip. "The Media-Politics Connection in Latin America." In *The Routledge Companion to Media and Activism*, 2018.
+
+[^79]: Riggirozzi, Pía, and Diana Tussie, eds. _The Rise of Post-Hegemonic Regionalism: The Case of Latin America_. Dordrecht: Springer, 2012.
+
+[^80]: Levitsky, Steven, and Kenneth M. Roberts. "Latin America's 'Left Turn': A Framework for Analysis." In _The Resurgence of the Latin American Left_, 2011.
+
+[^81]: Kitzberger, Philip. "The Media-Politics Connection in Latin America." In _The Routledge Companion to Media and Activism_, 2018.
+
 [^82]: The Washington Post. "Ecuador Revokes Julian Assange's Asylum." April 2019.
+
 [^83]: Weisbrot, Mark. "Ecuador's Economy Under Correa." Center for Economic and Policy Research blog, May 2017.
-[^84]: Iturralde, Pablo. "Social Rights and the Correa Government." *Ecuador Debate*, no. 89 (2013).
-[^85]: Ellner, Steve. "The Distinguishing Features of Latin America's New Left in Power." *Latin American Perspectives* 39, no. 1 (2012).
-[^86]: Acosta, Alberto. "Ecuador's Buen Vivir: Economic Alternatives to Development." In *Beyond Development*, 2013.
+
+[^84]: Iturralde, Pablo. "Social Rights and the Correa Government." _Ecuador Debate_, no. 89 (2013).
+
+[^85]: Ellner, Steve. "The Distinguishing Features of Latin America's New Left in Power." _Latin American Perspectives_ 39, no. 1 (2012).
+
+[^86]: Acosta, Alberto. "Ecuador's Buen Vivir: Economic Alternatives to Development." In _Beyond Development_, 2013.
+
 [^87]: Monaldi, Francisco. "The Resurgence of Resource Nationalism in Latin America." Rice University's Baker Institute for Public Policy, 2015.
-[^88]: Kotzé, Louis J., and Paola Villavicencio Calzadilla. "Somewhere Between Rhetoric and Reality: Environmental Constitutionalism and the Rights of Nature in Ecuador." *Transnational Environmental Law* 6, no. 3 (2017).
-[^89]: Daly, Erin. "The Ecuadorian Exemplar: The First Ever Vindications of Constitutional Rights of Nature." *Review of European Community & International Environmental Law* 21, no. 1 (2012).
-[^90]: Becker, Marc. *¡Pachakutik!: Indigenous Movements and Electoral Politics in Ecuador*. Lanham: Rowman & Littlefield, 2011.
-[^91]: Silva, Eduardo. "Reorganizing Popular Sector Incorporation." In *Challenging Neoliberalism in Latin America*, 2009.
-[^92]: Basabe-Serrano, Santiago. "Presidential Power and Democratization in Latin America." *Political Science Quarterly* 133, no. 4 (2018).
+
+[^88]: Kotzé, Louis J., and Paola Villavicencio Calzadilla. "Somewhere Between Rhetoric and Reality: Environmental Constitutionalism and the Rights of Nature in Ecuador." _Transnational Environmental Law_ 6, no. 3 (2017).
+
+[^89]: Daly, Erin. "The Ecuadorian Exemplar: The First Ever Vindications of Constitutional Rights of Nature." _Review of European Community & International Environmental Law_ 21, no. 1 (2012).
+
+[^90]: Becker, Marc. _¡Pachakutik!: Indigenous Movements and Electoral Politics in Ecuador_. Lanham: Rowman & Littlefield, 2011.
+
+[^91]: Silva, Eduardo. "Reorganizing Popular Sector Incorporation." In _Challenging Neoliberalism in Latin America_, 2009.
+
+[^92]: Basabe-Serrano, Santiago. "Presidential Power and Democratization in Latin America." _Political Science Quarterly_ 133, no. 4 (2018).
+
 [^93]: Human Rights Watch. "Ecuador: Correa's Attacks on Rights and Institutions." Statement by José Miguel Vivanco, May 2015.
-[^94]: Edwards, Sebastian. "The Macroeconomics of Populism in Latin America." In *The Macroeconomics of Populism in Latin America*, edited by Rudiger Dornbusch and Sebastian Edwards, 1991.
-[^95]: Acosta, Alberto. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In *Beyond Development: Alternative Visions from Latin America*, 2013.
+
+[^94]: Edwards, Sebastian. "The Macroeconomics of Populism in Latin America." In _The Macroeconomics of Populism in Latin America_, edited by Rudiger Dornbusch and Sebastian Edwards, 1991.
+
+[^95]: Acosta, Alberto. "Extractivism and Neoextractivism: Two Sides of the Same Curse." In _Beyond Development: Alternative Visions from Latin America_, 2013.
+
 [^96]: BBC News. "Ecuador Protests: Thousands March Against Austerity Measures." October 2019.
+
 [^97]: Oilwatch and Acción Ecológica. "Yasuni: A Question of Life or Death." Press release, August 2013.
+
 [^98]: CONAIE. "Criminalization of Indigenous Leaders Under Correa." Official report, 2016.
+
 [^99]: Transparency International. "Corruption in Ecuador: The Odebrecht and Sobornos Cases." TI Analysis, 2020.
-[^100]: Ávila Santamaría, Ramiro. "Ecuador: When Protection of Rights Is Not Enough." *Sur International Journal on Human Rights* 13, no. 24 (2016).
-[^101]: Ospina Peralta, Pablo. "Ecuador: ¿estamos tocando fondo?" *Nueva Sociedad*, no. 237 (2012).
-[^102]: Goodale, Mark. "The Intercultural State and Indigenous Jurisprudence in Bolivia and Ecuador." In *The New Constitutionalism in Latin America*, 2011.
+
+[^100]: Ávila Santamaría, Ramiro. "Ecuador: When Protection of Rights Is Not Enough." _Sur International Journal on Human Rights_ 13, no. 24 (2016).
+
+[^101]: Ospina Peralta, Pablo. "Ecuador: ¿estamos tocando fondo?" _Nueva Sociedad_, no. 237 (2012).
+
+[^102]: Goodale, Mark. "The Intercultural State and Indigenous Jurisprudence in Bolivia and Ecuador." In _The New Constitutionalism in Latin America_, 2011.
+
 [^103]: Correa, Rafael. Speech at UNASUR Summit, May 2010.
+
 [^104]: Correa, Rafael. Interview with BBC Mundo, March 2014.
+
 [^105]: Correa, Rafael. Presidential address to the nation, May 2009.
+
 [^106]: Correa, Rafael. Press conference on debt default, December 2008.
+
 [^107]: Correa, Rafael. Enlace Ciudadano broadcast, January 2013.

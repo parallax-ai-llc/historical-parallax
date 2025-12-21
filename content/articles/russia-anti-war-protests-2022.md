@@ -3,7 +3,13 @@ id: "russia-anti-war-protests-2022"
 name: "Russian Anti-War Protests (2022)"
 date: "2022-02-24"
 location: "Moscow, St. Petersburg, and nationwide, Russia"
-category: ["Historical Event", "Anti-War Movement", "Authoritarian Repression", "Dissent Under Dictatorship"]
+category:
+  [
+    "Historical Event",
+    "Anti-War Movement",
+    "Authoritarian Repression",
+    "Dissent Under Dictatorship",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-war_protest_in_Russia_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2022_anti-war_protests_in_Russia"
@@ -25,6 +31,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Putin's Russia
 
 **The security state:**
+
 - Vladimir Putin: President/PM since 2000
 - Gradual crackdown on civil society (2012 onwards)
 - "Foreign agent" laws
@@ -32,6 +39,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 - Opposition leaders: Poisoned, imprisoned, exiled
 
 **2021:**
+
 - Alexei Navalny imprisoned
 - His organization "extremist"
 - Last major independent media closed or fled
@@ -40,16 +48,19 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### The Invasion
 
 **February 24, 2022:**
+
 - Russia launched full-scale invasion of Ukraine
 - Called "special military operation"
 - Using word "war" or "invasion" became illegal
 
 **Russian state narrative:**
+
 - "Denazification"
 - NATO expansion threat
 - Protecting Russian speakers
 
 **Reality:**
+
 - War of aggression
 - War crimes documented
 - Massive casualties[^5]
@@ -61,12 +72,14 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Day One (February 24, 2022)
 
 **Immediate response:**
+
 - Protests in 51 cities
 - **1,391 detained** on first day
 - Moscow: 700+ arrested
 - St. Petersburg: 340+ arrested
 
 **Who came out:**
+
 - Young (many <30)
 - Urban
 - Educated
@@ -75,12 +88,14 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### First Two Weeks (February 24 - March 13)
 
 **Scale of repression:**
+
 - **14,906 detained** (OVD-Info data)
 - Beatings in detention
 - Torture documented
 - Fines, short jail terms, draft threats
 
 **Across the country:**
+
 - 100+ cities saw protests
 - Even small towns
 - Despite complete media blackout
@@ -88,12 +103,14 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Methods of Protest
 
 **What protesters did:**
+
 - Holding blank signs (arrested anyway)
 - Flowers at Ukrainian locations (arrested)
 - Single-person pickets (legal but arrested)
 - Online posts (criminal charges)
 
 **State response:**
+
 - Any gathering = arrest
 - Any sign = arrest
 - Any statement = investigation
@@ -102,12 +119,14 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### New Laws
 
 **March 4, 2022:**
+
 - Law criminalizing "fake news" about military
 - Up to 15 years prison
 - Using word "war" = crime
 - Criticizing army = crime
 
 **Effect:**
+
 - Independent journalism = crime
 - Protest = crime
 - Speaking truth = crime
@@ -117,6 +136,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### September 2022: Mobilization Protests
 
 **September 21, 2022:**
+
 - Putin announced "partial mobilization" (draft)
 - New wave of protests
 - **1,300+ arrested** in one day
@@ -124,6 +144,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 - St. Petersburg: 524
 
 **But also:**
+
 - Mass exodus began
 - 500,000+ fled Russia
 - Border queues for days
@@ -136,20 +157,22 @@ The protests failed to stop the war or change policy. Most protesters who could 
 
 **Arrests (OVD-Info data):**
 
-| Period | Detained |
-|--------|----------|
-| February 24 (Day 1) | 1,391 |
-| By February 28 | 5,982 |
-| By March 6 | 7,500+ |
-| By March 13 | 14,906 |
-| Total (through 2022) | 16,000+ |
+| Period               | Detained |
+| -------------------- | -------- |
+| February 24 (Day 1)  | 1,391    |
+| By February 28       | 5,982    |
+| By March 6           | 7,500+   |
+| By March 13          | 14,906   |
+| Total (through 2022) | 16,000+  |
 
 **Criminal cases:**
+
 - Hundreds prosecuted
 - Some facing 10-15 years
 - Many fled abroad
 
 **High-profile cases:**
+
 - Municipal deputies: Multi-year sentences for calling for peace
 - Journalists: Imprisoned
 - Artists: Fled or silenced[^9]
@@ -160,27 +183,27 @@ The protests failed to stop the war or change policy. Most protesters who could 
 
 ### Protesters
 
-| Category | Role |
-|----------|------|
-| Young Russians | Core protesters |
+| Category               | Role                        |
+| ---------------------- | --------------------------- |
+| Young Russians         | Core protesters             |
 | Human rights activists | OVD-Info documented arrests |
-| Journalists | Risked prison to report |
+| Journalists            | Risked prison to report     |
 
 ### Regime
 
-| Name | Role |
-|------|------|
-| Vladimir Putin | President; ordered invasion and repression |
-| Security services (FSB, police) | Carried out arrests |
-| Rosgvardia (National Guard) | Riot control |
+| Name                            | Role                                       |
+| ------------------------------- | ------------------------------------------ |
+| Vladimir Putin                  | President; ordered invasion and repression |
+| Security services (FSB, police) | Carried out arrests                        |
+| Rosgvardia (National Guard)     | Riot control                               |
 
 ### Prominent Dissidents
 
-| Name | Note |
-|------|------|
-| Alexei Navalny | Already in prison; died 2024 |
-| Municipal deputies (various) | Some sentenced to years |
-| Marina Ovsyannikova | TV protester; fled |
+| Name                         | Note                         |
+| ---------------------------- | ---------------------------- |
+| Alexei Navalny               | Already in prison; died 2024 |
+| Municipal deputies (various) | Some sentenced to years      |
+| Marina Ovsyannikova          | TV protester; fled           |
 
 ---
 
@@ -189,6 +212,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Overwhelming repression
 
 **The math of repression:**
+
 - Any protest = arrest
 - Arrest = beating, fine, possibly prison
 - Repeat protest = certain prison
@@ -199,6 +223,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### No organization allowed
 
 **Opposition destroyed beforehand:**
+
 - Navalny's network dismantled (2021)
 - Independent media closed
 - Civil society "foreign agents"
@@ -207,6 +232,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Genuine support for war (partial)
 
 **Polling (questionable but indicative):**
+
 - Majority of Russians said they supported "operation"
 - Older, rural, propaganda-exposed
 - Hard to know true opinion under repression
@@ -215,6 +241,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Those who could, left
 
 **Emigration:**
+
 - 500,000-1,000,000 left 2022
 - Disproportionately young, educated, urban
 - The people who would protest left
@@ -227,6 +254,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Significance
 
 **What the protests showed:**
+
 - Not all Russians supported war
 - Some were willing to risk everything
 - Courage exists even in totalitarian states
@@ -235,6 +263,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### Comparison to USSR
 
 **1968 Red Square protest:**
+
 - 8 people protested Soviet invasion of Czechoslovakia
 - Arrested immediately
 - Famous precisely because it happened despite consequences
@@ -244,6 +273,7 @@ The protests failed to stop the war or change policy. Most protesters who could 
 ### The Moral Record
 
 **For history:**
+
 - Russians protested
 - Many were beaten, imprisoned
 - Some died (Navalny in prison 2024)
@@ -278,32 +308,43 @@ The protests failed to stop the war or change policy. Most protesters who could 
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| February 24, 2022 | Invasion begins; protests same day |
-| February 24, 2022 | 1,391 detained |
-| February 28, 2022 | 5,982+ detained |
-| March 4, 2022 | "Fake news" law (15 years prison) |
-| March 13, 2022 | 14,906 detained total |
-| March-August 2022 | Smaller protests continue |
-| September 21, 2022 | Mobilization; new protests |
-| September 2022 | 1,300+ detained; mass emigration |
-| 2023-2024 | Dissent largely crushed |
-| February 2024 | Navalny dies in prison |
+| Date               | Event                              |
+| ------------------ | ---------------------------------- |
+| February 24, 2022  | Invasion begins; protests same day |
+| February 24, 2022  | 1,391 detained                     |
+| February 28, 2022  | 5,982+ detained                    |
+| March 4, 2022      | "Fake news" law (15 years prison)  |
+| March 13, 2022     | 14,906 detained total              |
+| March-August 2022  | Smaller protests continue          |
+| September 21, 2022 | Mobilization; new protests         |
+| September 2022     | 1,300+ detained; mass emigration   |
+| 2023-2024          | Dissent largely crushed            |
+| February 2024      | Navalny dies in prison             |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2022 anti-war protests in Russia](https://en.wikipedia.org/wiki/2022_anti-war_protests_in_Russia)
+
 [^2]: [Al Jazeera - First day](https://www.aljazeera.com/news/2022/2/24/russia-anti-war-protests-arrests)
+
 [^3]: [HRW - Repression](https://www.hrw.org/news/2022/02/28/russia-arrests-anti-war-protesters)
+
 [^4]: [Wikipedia - Opposition in Russia](https://en.wikipedia.org/wiki/Opposition_in_Russia)
+
 [^5]: [Wikipedia - Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)
+
 [^6]: [The Guardian - Arrests](https://www.theguardian.com/world/2022/mar/06/russia-anti-war-protests-arrests)
+
 [^7]: [Al Jazeera - Fake news law](https://www.aljazeera.com/news/2022/3/4/russia-criminalises-fake-news/)
+
 [^8]: [The Guardian - Mobilization protests](https://www.theguardian.com/world/2022/sep/21/russia-mobilisation-protests-arrests)
+
 [^9]: [OVD-Info - Statistics](https://ovd.news/en)
+
 [^10]: [Jerusalem Post - Dissent](https://www.jpost.com/international/article-russia-dissent-2022/)
+
 [^11]: [Various - 1968 comparison](https://en.wikipedia.org/wiki/1968_Red_Square_demonstration)
+
 [^12]: [OVD-Info - Documentation](https://ovd.news/en/express-reports/)

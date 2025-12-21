@@ -4,7 +4,14 @@ name: "George VI"
 birth: "1895-12-14"
 death: "1952-02-06"
 nationality: "Great Britain"
-occupation: ["King of the United Kingdom", "Emperor of India (1936-1947)", "Head of the Commonwealth", "Naval Officer", "Royal Air Force Officer"]
+occupation:
+  [
+    "King of the United Kingdom",
+    "Emperor of India (1936-1947)",
+    "Head of the Commonwealth",
+    "Naval Officer",
+    "Royal Air Force Officer",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/3/34/King_George_VI_of_England%2C_formal_photo_portrait%2C_circa_1940-1946.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_VI"
@@ -127,30 +134,30 @@ George VI's personal weaknesses also attract scholarly attention. He was "unprep
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1895 | Born Albert Frederick Arthur George at York Cottage, Sandringham, Norfolk, on December 14 |
-| 1909 | Began studies at Royal Naval College, Osborne |
-| 1910 | His father ascended the throne as George V, making Albert second in line |
-| 1911 | Finished bottom of his class at Royal Naval College but continued naval training |
-| 1916 | Participated in Battle of Jutland while serving on HMS Collingwood during World War I |
-| 1917 | Underwent operation for duodenal ulcer on November 29 |
-| 1918 | Transferred to Royal Air Force, serving at Cranwell training establishment |
-| 1919 | Qualified as RAF pilot on July 31, becoming first royal family member certified as fully qualified pilot |
-| 1920 | Created Duke of York, Earl of Inverness, and Baron Killarney on June 4 |
-| 1923 | Married Lady Elizabeth Bowes-Lyon at Westminster Abbey on April 26 |
-| 1926 | Daughter Elizabeth (future Queen Elizabeth II) born at 17 Bruton Street, London, on April 21 |
-| 1930 | Daughter Margaret born at Glamis Castle, Scotland, on August 21 |
-| 1936 | Father King George V died; brother became King Edward VIII; Edward abdicated on December 11; Albert became King George VI |
-| 1937 | Crowned at Westminster Abbey on May 12 in first coronation broadcast on radio and television |
-| 1938 | Appeared on Buckingham Palace balcony with Neville Chamberlain after Munich Agreement |
-| 1939 | Delivered famous "In this grave hour" radio broadcast on September 3, declaring war on Nazi Germany; delivered Christmas message on December 25 |
-| 1940 | Buckingham Palace bombed on September 13 during the Blitz; remained in London throughout bombing campaign |
-| 1945 | Delivered VE Day broadcast on May 8, celebrating Allied victory in Europe; delivered VJ Day speech celebrating victory over Japan |
-| 1947 | Indian Independence Act received royal assent on July 18; relinquished title of Emperor of India; India and Pakistan became independent dominions on August 15 |
-| 1948 | Conferred royal title on Royal London Homeopathic Hospital; renounced title "Emperor of India" by royal proclamation on June 22 |
-| 1949 | London Declaration made George VI first Head of the Commonwealth, allowing republican members to join |
-| 1951 | Underwent left total pneumonectomy for lung cancer in September |
+| Year | Event                                                                                                                                                                                                     |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1895 | Born Albert Frederick Arthur George at York Cottage, Sandringham, Norfolk, on December 14                                                                                                                 |
+| 1909 | Began studies at Royal Naval College, Osborne                                                                                                                                                             |
+| 1910 | His father ascended the throne as George V, making Albert second in line                                                                                                                                  |
+| 1911 | Finished bottom of his class at Royal Naval College but continued naval training                                                                                                                          |
+| 1916 | Participated in Battle of Jutland while serving on HMS Collingwood during World War I                                                                                                                     |
+| 1917 | Underwent operation for duodenal ulcer on November 29                                                                                                                                                     |
+| 1918 | Transferred to Royal Air Force, serving at Cranwell training establishment                                                                                                                                |
+| 1919 | Qualified as RAF pilot on July 31, becoming first royal family member certified as fully qualified pilot                                                                                                  |
+| 1920 | Created Duke of York, Earl of Inverness, and Baron Killarney on June 4                                                                                                                                    |
+| 1923 | Married Lady Elizabeth Bowes-Lyon at Westminster Abbey on April 26                                                                                                                                        |
+| 1926 | Daughter Elizabeth (future Queen Elizabeth II) born at 17 Bruton Street, London, on April 21                                                                                                              |
+| 1930 | Daughter Margaret born at Glamis Castle, Scotland, on August 21                                                                                                                                           |
+| 1936 | Father King George V died; brother became King Edward VIII; Edward abdicated on December 11; Albert became King George VI                                                                                 |
+| 1937 | Crowned at Westminster Abbey on May 12 in first coronation broadcast on radio and television                                                                                                              |
+| 1938 | Appeared on Buckingham Palace balcony with Neville Chamberlain after Munich Agreement                                                                                                                     |
+| 1939 | Delivered famous "In this grave hour" radio broadcast on September 3, declaring war on Nazi Germany; delivered Christmas message on December 25                                                           |
+| 1940 | Buckingham Palace bombed on September 13 during the Blitz; remained in London throughout bombing campaign                                                                                                 |
+| 1945 | Delivered VE Day broadcast on May 8, celebrating Allied victory in Europe; delivered VJ Day speech celebrating victory over Japan                                                                         |
+| 1947 | Indian Independence Act received royal assent on July 18; relinquished title of Emperor of India; India and Pakistan became independent dominions on August 15                                            |
+| 1948 | Conferred royal title on Royal London Homeopathic Hospital; renounced title "Emperor of India" by royal proclamation on June 22                                                                           |
+| 1949 | London Declaration made George VI first Head of the Commonwealth, allowing republican members to join                                                                                                     |
+| 1951 | Underwent left total pneumonectomy for lung cancer in September                                                                                                                                           |
 | 1952 | Made last public appearance at London Airport on January 31; died in his sleep from coronary thrombosis at Sandringham House on February 6; funeral at St George's Chapel, Windsor Castle, on February 15 |
 
 ---
@@ -172,132 +179,261 @@ George VI's personal weaknesses also attract scholarly attention. He was "unprep
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/George_VI
+
 [^2]: https://www.historytools.org/stories/king-george-vi-the-reluctant-monarch-who-became-a-symbol-of-national-strength
+
 [^3]: https://www.thecollector.com/king-george-vi-leading-britain-war/
+
 [^4]: https://en.wikipedia.org/wiki/Indian_Independence_Act_1947
+
 [^5]: https://www.britannica.com/biography/George-VI
+
 [^6]: https://www.britannica.com/biography/George-VI
+
 [^7]: https://www.vedantu.com/biography/george-vi
+
 [^8]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/King-George-VI/
+
 [^9]: https://www.britannica.com/biography/George-VI
+
 [^10]: https://www.factualamerica.com/behind-the-screenplay/royal-speech-therapy-the-true-story-behind-the-kings-speech
+
 [^11]: https://www.vedantu.com/biography/george-vi
+
 [^12]: https://www.britannica.com/biography/George-VI
+
 [^13]: https://en.wikipedia.org/wiki/George_VI
+
 [^14]: https://www.quora.com/Why-is-King-George-VI-not-considered-a-great-or-good-monarch-Was-his-father-George-V-very-well-regarded-by-historians
+
 [^15]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^16]: https://www.warhistoryonline.com/world-war-i/king-george-vi-wwi.html
+
 [^17]: https://en.wikipedia.org/wiki/George_VI
+
 [^18]: https://military-history.fandom.com/wiki/George_VI
+
 [^19]: https://en.wikipedia.org/wiki/George_VI
+
 [^20]: https://military-history.fandom.com/wiki/George_VI
+
 [^21]: https://axilion.com/131109420/unveiling-the-remarkable-life-of-king-george-vi-age-reign-and-legacy/
+
 [^22]: https://www.thetimelinegeek.com/george-vi-1895-1952/
+
 [^23]: https://en.wikipedia.org/wiki/Abdication_of_Edward_VIII
+
 [^24]: https://www.nationalarchives.gov.uk/education/resources/significant-events/abdication-of-edward-viii-1936/
+
 [^25]: https://en.wikipedia.org/wiki/Abdication_of_Edward_VIII
+
 [^26]: https://www.history.com/this-day-in-history/december-11/edward-viii-abdicates
+
 [^27]: https://en.wikipedia.org/wiki/Abdication_of_Edward_VIII
+
 [^28]: https://en.wikipedia.org/wiki/His_Majesty's_Declaration_of_Abdication_Act_1936
+
 [^29]: https://www.history.com/this-day-in-history/december-11/edward-viii-abdicates
+
 [^30]: https://www.historytools.org/stories/king-george-vi-the-reluctant-monarch-who-became-a-symbol-of-national-strength
+
 [^31]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^32]: https://en.wikipedia.org/wiki/Coronation_of_George_VI_and_Elizabeth
+
 [^33]: https://en.wikipedia.org/wiki/Coronation_of_George_VI_and_Elizabeth
+
 [^34]: https://www.westminster-abbey.org/abbey-commemorations/royals/george-vi
+
 [^35]: https://www.historic-uk.com/HistoryUK/HistoryofBritain/The-Kings-Speech/
+
 [^36]: https://www.americanrhetoric.com/speeches/kinggeorgevifirstradioaddress.htm
+
 [^37]: https://www.thecollector.com/king-george-vi-leading-britain-war/
+
 [^38]: https://britishheritage.com/history/buckingham-palace-bombing-wwii
+
 [^39]: https://www.royal.uk/80th-anniversary-bombing-buckingham-palace-during-blitz
+
 [^40]: https://royalwatcherblog.com/2017/09/13/buckingham-palace-bombing-1940/
+
 [^41]: https://www.royal.uk/80th-anniversary-bombing-buckingham-palace-during-blitz
+
 [^42]: https://londonguidedwalks.co.uk/buckingham-palace-in-the-midst-of-conflict-world-war-ii-and-eleanor-roosevelts-visit/
+
 [^43]: https://britishheritage.com/history/buckingham-palace-bombing-wwii
+
 [^44]: https://winstonchurchill.org/publications/finest-hour/finest-hour-184/the-dutiful-king-george-vi/
+
 [^45]: https://www.iwm.org.uk/history/darkest-hour-the-people-who-helped-shape-the-future-of-britain-in-may-1940-0
+
 [^46]: https://winstonchurchill.org/publications/finest-hour/finest-hour-184/the-dutiful-king-george-vi/
+
 [^47]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^48]: https://en.wikipedia.org/wiki/George_VI
+
 [^49]: https://www.raabcollection.com/foreign-figures-history/mountbatten
+
 [^50]: https://en.wikipedia.org/wiki/Indian_Independence_Act_1947
+
 [^51]: https://www.nationalgeographic.com/history/article/how-the-commonwealth-of-nations-arose-from-a-crumbling-british-empire
+
 [^52]: https://thecommonwealth.org/history
+
 [^53]: https://axilion.com/131109420/unveiling-the-remarkable-life-of-king-george-vi-age-reign-and-legacy/
+
 [^54]: https://en.wikipedia.org/wiki/George_VI
+
 [^55]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^56]: https://www.gresham.ac.uk/watch-now/king-george-vi
+
 [^57]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^58]: https://spartacus-educational.com/MONgeorgeVI.htm
+
 [^59]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^60]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^61]: https://theconversation.com/how-a-british-royals-monumental-errors-made-indias-partition-more-painful-81657
+
 [^62]: https://en.wikipedia.org/wiki/Lord_Mountbatten
+
 [^63]: https://prepp.in/news/e-492-lord-mountbatten-1947-1948-viceroy-of-india-modern-india-history-notes
+
 [^64]: https://museumofbritishcolonialism.org/2023-4-22-monarchy-and-empire-the-windsor-kings-1901-1952/
+
 [^65]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^66]: https://www.betterspeech.com/post/kings-speech-stuttering
+
 [^67]: https://www.quora.com/Why-is-King-George-VI-not-considered-a-great-or-good-monarch-Was-his-father-George-V-very-well-regarded-by-historians
+
 [^68]: https://www.unofficialroyalty.com/wedding-of-king-george-vi-of-the-united-kingdom-and-lady-elizabeth-bowes-lyon/
+
 [^69]: https://en.wikipedia.org/wiki/Queen_Elizabeth_The_Queen_Mother
+
 [^70]: https://en.wikipedia.org/wiki/Bowes-Lyon_family
+
 [^71]: https://en.wikipedia.org/wiki/George_VI
+
 [^72]: https://www.vedantu.com/biography/george-vi
+
 [^73]: https://debretts.com/royal-family/the-life-of-queen-elizabeth-ii/a-royal-upbringing/
+
 [^74]: https://debretts.com/royal-family/the-life-of-queen-elizabeth-ii/a-royal-upbringing/
+
 [^75]: https://debretts.com/royal-family/the-life-of-queen-elizabeth-ii/a-royal-upbringing/
+
 [^76]: https://debretts.com/royal-family/the-life-of-queen-elizabeth-ii/a-royal-upbringing/
+
 [^77]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^78]: https://www.luxuryacademy.co.uk/georgevi/
+
 [^79]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^80]: https://www.sundaypost.com/fp/george-vi-death-70-years-on/
+
 [^81]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^82]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^83]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^84]: https://pubmed.ncbi.nlm.nih.gov/34116373/
+
 [^85]: https://www.sciencedirect.com/science/article/abs/pii/S1054880721000247
+
 [^86]: https://www.yahoo.com/lifestyle/reluctant-king-george-vi-died-224601911.html
+
 [^87]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^88]: https://www.newworldencyclopedia.org/entry/George_VI_of_the_United_Kingdom
+
 [^89]: https://www.academia.edu/100937891/King_George_VI_and_The_British_Monarchy_as_a_Source_of_Imperial_Unity_Morale_and_Resistance_during_the_Second_World_War
+
 [^90]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^91]: https://www.thecollector.com/king-george-vi-leading-britain-war/
+
 [^92]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^93]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^94]: https://www.nationalgeographic.com/history/article/how-the-commonwealth-of-nations-arose-from-a-crumbling-british-empire
+
 [^95]: https://thecommonwealth.org/history
+
 [^96]: https://axilion.com/131109420/unveiling-the-remarkable-life-of-king-george-vi-age-reign-and-legacy/
+
 [^97]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^98]: https://www.nyhistory.org/programs/george-elizabeth-marriage-saved-monarchy
+
 [^99]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^100]: https://www.gresham.ac.uk/watch-now/king-george-vi
+
 [^101]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^102]: https://www.britannica.com/biography/George-VI
+
 [^103]: https://www.factualamerica.com/behind-the-screenplay/royal-speech-therapy-the-true-story-behind-the-kings-speech
+
 [^104]: https://www.newworldencyclopedia.org/entry/George_VI_of_the_United_Kingdom
+
 [^105]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^106]: https://winstonchurchill.org/publications/finest-hour/finest-hour-184/the-dutiful-king-george-vi/
+
 [^107]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^108]: https://worldhistoryedu.com/george-vi-life-and-major-achievements-of-the-father-of-queen-elizabeth-ii/
+
 [^109]: https://thecommonwealth.org/history
+
 [^110]: https://www.britannica.com/biography/George-VI
+
 [^111]: https://www.sundaypost.com/fp/george-vi-death-70-years-on/
+
 [^112]: https://www.nyhistory.org/programs/george-elizabeth-marriage-saved-monarchy
+
 [^113]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^114]: https://study.com/academy/lesson/king-george-vi-life-reign.html
+
 [^115]: https://spartacus-educational.com/MONgeorgeVI.htm
+
 [^116]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^117]: https://www.ebsco.com/research-starters/history/george-vi
+
 [^118]: https://www.quora.com/Why-is-King-George-VI-not-considered-a-great-or-good-monarch-Was-his-father-George-V-very-well-regarded-by-historians
+
 [^119]: https://www.quora.com/Why-is-King-George-VI-not-considered-a-great-or-good-monarch-Was-his-father-George-V-very-well-regarded-by-historians
+
 [^120]: https://theconversation.com/how-a-british-royals-monumental-errors-made-indias-partition-more-painful-81657
+
 [^121]: https://museumofbritishcolonialism.org/2023-4-22-monarchy-and-empire-the-windsor-kings-1901-1952/
+
 [^122]: https://www.nbcnews.com/news/world/queen-elizabeths-death-revives-criticism-britains-legacy-colonialism-rcna46942
+
 [^123]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^124]: https://www.betterspeech.com/post/kings-speech-stuttering
+
 [^125]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^126]: https://www.americanrhetoric.com/speeches/kinggeorgevifirstradioaddress.htm
+
 [^127]: https://en.wikisource.org/wiki/Christmas_Message,_1939
+
 [^128]: https://www.royal.uk/news-and-activity/1945-05-08/king-george-vis-ve-day-broadcast
+
 [^129]: https://www.quora.com/What-kind-of-temperament-did-King-George-VI-have
+
 [^130]: https://www.ebsco.com/research-starters/history/george-vi

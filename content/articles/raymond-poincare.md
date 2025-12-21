@@ -157,33 +157,33 @@ Finally, Poincaré's denaturalization laws of 1915 and 1927 have been condemned 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1860 | Born in Bar-le-Duc, Meuse, France on August 20 |
-| 1870-1871 | Experienced German occupation during Franco-Prussian War as a child |
-| 1882 | Called to the Paris bar, becoming youngest lawyer in France at age 22 |
-| 1887 | Elected to the Chamber of Deputies representing Meuse |
-| 1893 | Appointed Minister of Education, youngest minister in Third Republic history |
-| 1894 | Served as Minister of Finance |
-| 1895 | Appointed Minister of Education for second time |
-| 1903 | Left Chamber of Deputies to serve in the Senate |
-| 1909 | Elected to the Académie Française for his literary work |
-| 1912 | Became Prime Minister and Foreign Minister (January 1912-January 1913) |
-| 1913 | Elected President of the French Republic on January 17 |
-| 1913 | Successfully passed "three years law" extending military service |
-| 1914 | Delivered "l'union sacrée" speech on August 4, rallying France for WWI |
-| 1915 | Introduced controversial denaturalization law for citizens with "enemy origins" |
-| 1918 | Presided over French victory in World War I |
-| 1920 | Presidential term ended; returned to Senate |
-| 1922 | Became Prime Minister and Foreign Minister for second time |
-| 1923 | Ordered occupation of the Ruhr in January to enforce German reparations |
-| 1924 | Left office after franc crisis and electoral defeat |
-| 1926 | Became Prime Minister for third time to resolve economic crisis (July) |
-| 1926-1928 | Successfully stabilized the franc and restored French economy |
-| 1927 | Passed denaturalization law allowing citizenship revocation for acts against "national interest" |
-| 1928 | Won landslide victory in April general election after economic success |
-| 1929 | Resigned as Prime Minister in July due to ill health; buried beloved cat "Gris-Gris" in March |
-| 1934 | Died in Paris on October 15 at age 74 |
+| Year      | Event                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| 1860      | Born in Bar-le-Duc, Meuse, France on August 20                                                   |
+| 1870-1871 | Experienced German occupation during Franco-Prussian War as a child                              |
+| 1882      | Called to the Paris bar, becoming youngest lawyer in France at age 22                            |
+| 1887      | Elected to the Chamber of Deputies representing Meuse                                            |
+| 1893      | Appointed Minister of Education, youngest minister in Third Republic history                     |
+| 1894      | Served as Minister of Finance                                                                    |
+| 1895      | Appointed Minister of Education for second time                                                  |
+| 1903      | Left Chamber of Deputies to serve in the Senate                                                  |
+| 1909      | Elected to the Académie Française for his literary work                                          |
+| 1912      | Became Prime Minister and Foreign Minister (January 1912-January 1913)                           |
+| 1913      | Elected President of the French Republic on January 17                                           |
+| 1913      | Successfully passed "three years law" extending military service                                 |
+| 1914      | Delivered "l'union sacrée" speech on August 4, rallying France for WWI                           |
+| 1915      | Introduced controversial denaturalization law for citizens with "enemy origins"                  |
+| 1918      | Presided over French victory in World War I                                                      |
+| 1920      | Presidential term ended; returned to Senate                                                      |
+| 1922      | Became Prime Minister and Foreign Minister for second time                                       |
+| 1923      | Ordered occupation of the Ruhr in January to enforce German reparations                          |
+| 1924      | Left office after franc crisis and electoral defeat                                              |
+| 1926      | Became Prime Minister for third time to resolve economic crisis (July)                           |
+| 1926-1928 | Successfully stabilized the franc and restored French economy                                    |
+| 1927      | Passed denaturalization law allowing citizenship revocation for acts against "national interest" |
+| 1928      | Won landslide victory in April general election after economic success                           |
+| 1929      | Resigned as Prime Minister in July due to ill health; buried beloved cat "Gris-Gris" in March    |
+| 1934      | Died in Paris on October 15 at age 74                                                            |
 
 ---
 
@@ -214,79 +214,155 @@ This assessment captures Poincaré's extraordinary intellectual command and his 
 ## References
 
 [^1]: Britannica. "Raymond Poincaré | French President & Statesman." https://www.britannica.com/biography/Raymond-Poincare
+
 [^2]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/poincare-raymond-1860-1934
+
 [^3]: Encyclopedia.com. "Raymond Poincare." https://www.encyclopedia.com/people/history/french-history-biographies/raymond-poincare
+
 [^4]: EBSCO Research Starters. "Raymond Poincaré." https://www.ebsco.com/research-starters/biography/raymond-poincare
+
 [^5]: Wikipedia. "Raymond Poincaré." https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9
+
 [^6]: Geneastar. "Family tree of Raymond POINCARÉ." https://en.geneastar.org/genealogy/poincarer/raymond-poincare
+
 [^7]: Spartacus Educational. "Raymond Poincare." https://spartacus-educational.com/FWWpoincare.htm
+
 [^8]: Britannica Kids. "Raymond Poincaré." https://kids.britannica.com/students/article/Raymond-Poincar%C3%A9/276481
+
 [^9]: Kiddle. "Raymond Poincaré facts for kids." https://kids.kiddle.co/Raymond_Poincar%C3%A9
+
 [^10]: EBSCO Research Starters. "Raymond Poincaré."
+
 [^11]: Wikipedia. "Raymond Poincaré."
+
 [^12]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^13]: Encyclopedia.com. "Raymond Poincare."
+
 [^14]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^15]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^16]: Encyclopedia.com. "Raymond Poincare."
+
 [^17]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^18]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^19]: EBSCO Research Starters. "Raymond Poincaré."
+
 [^20]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^21]: Élysée. "Raymond Poincaré." https://www.elysee.fr/en/raymond-poincare
+
 [^22]: 1914-1918 Online Encyclopedia. "Poincaré, Raymond." https://encyclopedia.1914-1918-online.net/article/poincare-raymond/
+
 [^23]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^24]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^25]: EBSCO Research Starters. "Raymond Poincaré."
+
 [^26]: 1914-1918 Online Encyclopedia. "Poincaré, Raymond."
+
 [^27]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^28]: First World War. "Who's Who - Raymond Poincare." https://www.firstworldwar.com/bio/poincare.htm
+
 [^29]: Encyclopedia.com. "Raymond Poincare."
+
 [^30]: 1914-1918 Online Encyclopedia. "Poincaré, Raymond."
+
 [^31]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^32]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^33]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^34]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^35]: Encyclopedia.com. "Raymond Poincare."
+
 [^36]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^37]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^38]: Grokipedia. "Raymond Poincaré." https://grokipedia.com/page/Raymond_Poincar%C3%A9
+
 [^39]: Encyclopedia.com. "Raymond Poincare."
+
 [^40]: HISTORY. "Raymond Poincaré - WWI, Quotes & Facts." https://www.history.com/articles/raymond-poincare
+
 [^41]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^42]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^43]: Spartacus Educational. "Raymond Poincare."
+
 [^44]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^45]: EBSCO Research Starters. "Raymond Poincaré."
+
 [^46]: First World War. "Who's Who - Raymond Poincare."
+
 [^47]: 1914-1918 Online Encyclopedia. "Poincaré, Raymond."
+
 [^48]: Britannica. "Raymond Poincaré | French President & Statesman."
+
 [^49]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^50]: Grokipedia. "Raymond Poincaré."
+
 [^51]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^52]: Spartacus Educational. "Raymond Poincare."
+
 [^53]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^54]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^55]: Wikipedia. "Raymond Poincaré."
+
 [^56]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^57]: Cambridge University Press. "Raymond Poincaré." https://www.cambridge.org/core/books/raymond-poincare/FFE4C48708A0AA1FEC4755EC9697CD50
+
 [^58]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^59]: Wikipedia. "Raymond Poincaré."
+
 [^60]: Spartacus Educational. "Raymond Poincare."
+
 [^61]: A-Z Quotes. "Quotes by Raymond Poincare." https://www.azquotes.com/author/25650-Raymond_Poincare
+
 [^62]: Encyclopedia.com. "Raymond Poincare."
+
 [^63]: HISTORY. "Raymond Poincaré - WWI, Quotes & Facts."
+
 [^64]: Cambridge University Press. "Raymond Poincaré."
+
 [^65]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^66]: Wikipedia. "Raymond Poincaré."
+
 [^67]: Cambridge University Press. "Raymond Poincaré."
+
 [^68]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^69]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^70]: EBSCO Research Starters. "Raymond Poincaré."
+
 [^71]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^72]: Encyclopedia.com. "Poincaré, Raymond (1860–1934)."
+
 [^73]: Cambridge University Press. "Raymond Poincaré."
+
 [^74]: Inspiring Quotes. "Top 1 quotes of Raymond Poincare." https://www.inspiringquotes.us/author/4872-raymond-poincare
+
 [^75]: First World War. "Raymond Poincare's Welcoming Address at the Paris Peace Conference, 18 January 1919." https://www.firstworldwar.com/source/parispeaceconf_poincare.htm
+
 [^76]: 1914-1918 Online Encyclopedia. "Poincaré, Raymond."
+
 [^77]: Quote Park. "Raymond Poincaré Quotes." https://quotepark.com/authors/raymond-poincare/

@@ -169,26 +169,26 @@ Furthermore, Dollfuss's violent suppression of the left created thousands of emb
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1892 | Born October 4 in Texingtal, Lower Austria |
-| 1914-1918 | Served in Kaiserschützen during World War I, decorated for bravery |
-| 1921 | Married Alwine Glienke; began work with Lower Austrian Peasants' Union |
-| 1922 | Received doctorate in law from University of Vienna |
-| 1927 | Elected to Parliament as Christian Social Party member |
-| 1931 | Appointed Minister of Agriculture and Forestry under Chancellor Karl Buresch |
-| 1932 | Became Federal Chancellor of Austria on May 20 |
-| 1933 (March) | Dissolved Parliament, began ruling by emergency decree |
-| 1933 (May) | Banned Communist Party of Austria |
-| 1933 (June) | Banned Austrian Nazi Party following grenade attacks |
-| 1933 (August) | Met with Mussolini in Riccione, secured Italian support |
-| 1933 (September) | Established Vaterländische Front (Fatherland Front) |
-| 1933 (November) | Signed Concordat with Vatican |
-| 1934 (February 12-16) | Austrian Civil War - military action against Social Democrats |
-| 1934 (February) | Banned Social Democratic Party and trade unions |
-| 1934 (May 1) | Promulgated new authoritarian constitution |
-| 1934 (July 25) | Assassinated by Austrian Nazis during failed coup attempt |
-| 1934 (July 29) | State funeral attended by hundreds of thousands |
+| Year                  | Event                                                                        |
+| --------------------- | ---------------------------------------------------------------------------- |
+| 1892                  | Born October 4 in Texingtal, Lower Austria                                   |
+| 1914-1918             | Served in Kaiserschützen during World War I, decorated for bravery           |
+| 1921                  | Married Alwine Glienke; began work with Lower Austrian Peasants' Union       |
+| 1922                  | Received doctorate in law from University of Vienna                          |
+| 1927                  | Elected to Parliament as Christian Social Party member                       |
+| 1931                  | Appointed Minister of Agriculture and Forestry under Chancellor Karl Buresch |
+| 1932                  | Became Federal Chancellor of Austria on May 20                               |
+| 1933 (March)          | Dissolved Parliament, began ruling by emergency decree                       |
+| 1933 (May)            | Banned Communist Party of Austria                                            |
+| 1933 (June)           | Banned Austrian Nazi Party following grenade attacks                         |
+| 1933 (August)         | Met with Mussolini in Riccione, secured Italian support                      |
+| 1933 (September)      | Established Vaterländische Front (Fatherland Front)                          |
+| 1933 (November)       | Signed Concordat with Vatican                                                |
+| 1934 (February 12-16) | Austrian Civil War - military action against Social Democrats                |
+| 1934 (February)       | Banned Social Democratic Party and trade unions                              |
+| 1934 (May 1)          | Promulgated new authoritarian constitution                                   |
+| 1934 (July 25)        | Assassinated by Austrian Nazis during failed coup attempt                    |
+| 1934 (July 29)        | State funeral attended by hundreds of thousands                              |
 
 ---
 
@@ -218,124 +218,244 @@ Context: According to witnesses, Dollfuss spoke these words while denied medical
 
 ## References
 
-[^1]: Brook-Shepherd, Gordon. *Dollfuss*. London: Macmillan, 1961, p. 15.
-[^2]: Tálos, Emmerich, and Wolfgang Neugebauer. *Austrofascism: Politics, Economics, Culture, 1933–1938*. Vienna: LIT Verlag, 2005, p. 112.
-[^3]: Edmondson, C. Earl. *The Heimwehr and Austrian Politics, 1918-1936*. Athens: University of Georgia Press, 1978, p. 145.
-[^4]: Brook-Shepherd, *Dollfuss*, p. 23.
-[^5]: Staudinger, Anton. "Austrofascist 'Austro-Marxism': The Austro-Marxist Argument." *Austrian History Yearbook* 11 (1975): 124-156.
-[^6]: Carsten, F.L. *Fascist Movements in Austria: From Schönerer to Hitler*. London: Sage Publications, 1977, p. 201.
-[^7]: Brook-Shepherd, *Dollfuss*, p. 34.
-[^8]: Gulick, Charles A. *Austria from Habsburg to Hitler*. 2 vols. Berkeley: University of California Press, 1948, vol. 2, p. 1045.
-[^9]: Kitchen, Martin. *The Coming of Austrian Fascism*. London: Croom Helm, 1980, p. 173.
-[^10]: Bukey, Evan Burr. *Hitler's Austria: Popular Sentiment in the Nazi Era, 1938-1945*. Chapel Hill: University of North Carolina Press, 2000, p. 22.
-[^11]: Pauley, Bruce F. *Hitler and the Forgotten Nazis: A History of Austrian National Socialism*. Chapel Hill: University of North Carolina Press, 1981, p. 98.
-[^12]: Gehl, Jürgen. *Austria, Germany, and the Anschluss, 1931-1938*. London: Oxford University Press, 1963, p. 56.
-[^13]: Shepherd, Gordon. *The Austrian Odyssey*. London: Macmillan, 1957, p. 143.
-[^14]: Rabinbach, Anson. *The Crisis of Austrian Socialism: From Red Vienna to Civil War, 1927-1934*. Chicago: University of Chicago Press, 1983, p. 187.
-[^15]: Pauley, *Hitler and the Forgotten Nazis*, p. 104.
-[^16]: Tálos and Neugebauer, *Austrofascism*, p. 89.
-[^17]: Edmondson, *The Heimwehr and Austrian Politics*, p. 178.
-[^18]: Kindermann, Gottfried-Karl. *Hitler's Defeat in Austria, 1933-1934*. London: C. Hurst, 1988, p. 67.
-[^19]: Gehl, *Austria, Germany, and the Anschluss*, p. 78.
-[^20]: Brook-Shepherd, *Dollfuss*, p. 167.
-[^21]: Starhemberg, Ernst Rüdiger. *Between Hitler and Mussolini*. London: Hodder and Stoughton, 1942, p. 94.
-[^22]: Steininger, Rolf. *Austria, Germany, and the Cold War: From the Anschluss to the State Treaty, 1938-1955*. New York: Berghahn Books, 2008, p. 12.
-[^23]: Gulick, *Austria from Habsburg to Hitler*, vol. 2, p. 1234.
-[^24]: Klemens von Klemperer. *Ignaz Seipel: Christian Statesman in a Time of Crisis*. Princeton: Princeton University Press, 1972, p. 278.
-[^25]: Tálos and Neugebauer, *Austrofascism*, p. 145.
-[^26]: Kitchen, *The Coming of Austrian Fascism*, p. 267.
-[^27]: Boyer, John W. *Culture and Political Crisis in Vienna: Christian Socialism in Power, 1897-1918*. Chicago: University of Chicago Press, 1995, p. 412.
-[^28]: Bruckmüller, Ernst. *The Austrian Nation: Cultural Consciousness and Socio-Political Processes*. Riverside: Ariadne Press, 2003, p. 189.
-[^29]: Tálos, Emmerich. *Das austrofaschistische Herrschaftssystem*. Vienna: LIT Verlag, 2013, p. 234.
-[^30]: Lewis, Jill. *Fascism and the Working Class in Austria, 1918-1934*. New York: Berg Publishers, 1991, p. 201.
-[^31]: Payne, Stanley G. *A History of Fascism, 1914-1945*. Madison: University of Wisconsin Press, 1995, p. 258.
-[^32]: Kitchen, *The Coming of Austrian Fascism*, p. 198.
-[^33]: Rabinbach, *The Crisis of Austrian Socialism*, p. 194.
-[^34]: Lewis, Jill. "Red Vienna: Socialism in One City, 1918-1927." *European Studies Review* 13, no. 3 (1983): 335-355.
-[^35]: Gulick, *Austria from Habsburg to Hitler*, vol. 2, p. 1456.
-[^36]: Rabinbach, *The Crisis of Austrian Socialism*, p. 231.
-[^37]: Botz, Gerhard. *Gewalt in der Politik: Attentate, Zusammenstöße, Putschversuche, Unruhen in Österreich 1918 bis 1938*. Munich: Wilhelm Fink Verlag, 1983, p. 267.
-[^38]: Gutsman, W.L. "The Austrian February Rising of 1934." *Political Quarterly* 45, no. 2 (1974): 147-159.
-[^39]: Lewis, *Fascism and the Working Class in Austria*, p. 215.
-[^40]: Bukey, *Hitler's Austria*, p. 38.
-[^41]: Payne, *A History of Fascism*, p. 260.
-[^42]: Edmondson, *The Heimwehr and Austrian Politics*, p. 234.
-[^43]: Griffin, Roger. *The Nature of Fascism*. London: Routledge, 1993, p. 127.
-[^44]: Bauer, Otto. *The Austrian Revolution*. Translated by H.J. Stenning. London: Leonard Parsons, 1925, p. 312.
-[^45]: Botz, *Gewalt in der Politik*, p. 289.
-[^46]: Tálos, *Das austrofaschistische Herrschaftssystem*, p. 178.
-[^47]: Rabinbach, *The Crisis of Austrian Socialism*, p. 276.
-[^48]: Bukey, *Hitler's Austria*, p. 45.
-[^49]: Brook-Shepherd, *Dollfuss*, p. 88.
+[^1]: Brook-Shepherd, Gordon. _Dollfuss_. London: Macmillan, 1961, p. 15.
+
+[^2]: Tálos, Emmerich, and Wolfgang Neugebauer. _Austrofascism: Politics, Economics, Culture, 1933–1938_. Vienna: LIT Verlag, 2005, p. 112.
+
+[^3]: Edmondson, C. Earl. _The Heimwehr and Austrian Politics, 1918-1936_. Athens: University of Georgia Press, 1978, p. 145.
+
+[^4]: Brook-Shepherd, _Dollfuss_, p. 23.
+
+[^5]: Staudinger, Anton. "Austrofascist 'Austro-Marxism': The Austro-Marxist Argument." _Austrian History Yearbook_ 11 (1975): 124-156.
+
+[^6]: Carsten, F.L. _Fascist Movements in Austria: From Schönerer to Hitler_. London: Sage Publications, 1977, p. 201.
+
+[^7]: Brook-Shepherd, _Dollfuss_, p. 34.
+
+[^8]: Gulick, Charles A. _Austria from Habsburg to Hitler_. 2 vols. Berkeley: University of California Press, 1948, vol. 2, p. 1045.
+
+[^9]: Kitchen, Martin. _The Coming of Austrian Fascism_. London: Croom Helm, 1980, p. 173.
+
+[^10]: Bukey, Evan Burr. _Hitler's Austria: Popular Sentiment in the Nazi Era, 1938-1945_. Chapel Hill: University of North Carolina Press, 2000, p. 22.
+
+[^11]: Pauley, Bruce F. _Hitler and the Forgotten Nazis: A History of Austrian National Socialism_. Chapel Hill: University of North Carolina Press, 1981, p. 98.
+
+[^12]: Gehl, Jürgen. _Austria, Germany, and the Anschluss, 1931-1938_. London: Oxford University Press, 1963, p. 56.
+
+[^13]: Shepherd, Gordon. _The Austrian Odyssey_. London: Macmillan, 1957, p. 143.
+
+[^14]: Rabinbach, Anson. _The Crisis of Austrian Socialism: From Red Vienna to Civil War, 1927-1934_. Chicago: University of Chicago Press, 1983, p. 187.
+
+[^15]: Pauley, _Hitler and the Forgotten Nazis_, p. 104.
+
+[^16]: Tálos and Neugebauer, _Austrofascism_, p. 89.
+
+[^17]: Edmondson, _The Heimwehr and Austrian Politics_, p. 178.
+
+[^18]: Kindermann, Gottfried-Karl. _Hitler's Defeat in Austria, 1933-1934_. London: C. Hurst, 1988, p. 67.
+
+[^19]: Gehl, _Austria, Germany, and the Anschluss_, p. 78.
+
+[^20]: Brook-Shepherd, _Dollfuss_, p. 167.
+
+[^21]: Starhemberg, Ernst Rüdiger. _Between Hitler and Mussolini_. London: Hodder and Stoughton, 1942, p. 94.
+
+[^22]: Steininger, Rolf. _Austria, Germany, and the Cold War: From the Anschluss to the State Treaty, 1938-1955_. New York: Berghahn Books, 2008, p. 12.
+
+[^23]: Gulick, _Austria from Habsburg to Hitler_, vol. 2, p. 1234.
+
+[^24]: Klemens von Klemperer. _Ignaz Seipel: Christian Statesman in a Time of Crisis_. Princeton: Princeton University Press, 1972, p. 278.
+
+[^25]: Tálos and Neugebauer, _Austrofascism_, p. 145.
+
+[^26]: Kitchen, _The Coming of Austrian Fascism_, p. 267.
+
+[^27]: Boyer, John W. _Culture and Political Crisis in Vienna: Christian Socialism in Power, 1897-1918_. Chicago: University of Chicago Press, 1995, p. 412.
+
+[^28]: Bruckmüller, Ernst. _The Austrian Nation: Cultural Consciousness and Socio-Political Processes_. Riverside: Ariadne Press, 2003, p. 189.
+
+[^29]: Tálos, Emmerich. _Das austrofaschistische Herrschaftssystem_. Vienna: LIT Verlag, 2013, p. 234.
+
+[^30]: Lewis, Jill. _Fascism and the Working Class in Austria, 1918-1934_. New York: Berg Publishers, 1991, p. 201.
+
+[^31]: Payne, Stanley G. _A History of Fascism, 1914-1945_. Madison: University of Wisconsin Press, 1995, p. 258.
+
+[^32]: Kitchen, _The Coming of Austrian Fascism_, p. 198.
+
+[^33]: Rabinbach, _The Crisis of Austrian Socialism_, p. 194.
+
+[^34]: Lewis, Jill. "Red Vienna: Socialism in One City, 1918-1927." _European Studies Review_ 13, no. 3 (1983): 335-355.
+
+[^35]: Gulick, _Austria from Habsburg to Hitler_, vol. 2, p. 1456.
+
+[^36]: Rabinbach, _The Crisis of Austrian Socialism_, p. 231.
+
+[^37]: Botz, Gerhard. _Gewalt in der Politik: Attentate, Zusammenstöße, Putschversuche, Unruhen in Österreich 1918 bis 1938_. Munich: Wilhelm Fink Verlag, 1983, p. 267.
+
+[^38]: Gutsman, W.L. "The Austrian February Rising of 1934." _Political Quarterly_ 45, no. 2 (1974): 147-159.
+
+[^39]: Lewis, _Fascism and the Working Class in Austria_, p. 215.
+
+[^40]: Bukey, _Hitler's Austria_, p. 38.
+
+[^41]: Payne, _A History of Fascism_, p. 260.
+
+[^42]: Edmondson, _The Heimwehr and Austrian Politics_, p. 234.
+
+[^43]: Griffin, Roger. _The Nature of Fascism_. London: Routledge, 1993, p. 127.
+
+[^44]: Bauer, Otto. _The Austrian Revolution_. Translated by H.J. Stenning. London: Leonard Parsons, 1925, p. 312.
+
+[^45]: Botz, _Gewalt in der Politik_, p. 289.
+
+[^46]: Tálos, _Das austrofaschistische Herrschaftssystem_, p. 178.
+
+[^47]: Rabinbach, _The Crisis of Austrian Socialism_, p. 276.
+
+[^48]: Bukey, _Hitler's Austria_, p. 45.
+
+[^49]: Brook-Shepherd, _Dollfuss_, p. 88.
+
 [^50]: Ibid., p. 203.
-[^51]: Pauley, *Hitler and the Forgotten Nazis*, p. 102.
-[^52]: Kitchen, *The Coming of Austrian Fascism*, p. 182.
-[^53]: Brook-Shepherd, *Dollfuss*, p. 134.
-[^54]: Klemens von Klemperer, *Ignaz Seipel*, p. 289.
-[^55]: Starhemberg, *Between Hitler and Mussolini*, p. 112.
-[^56]: Gulick, *Austria from Habsburg to Hitler*, vol. 2, p. 1298.
-[^57]: Bruckmüller, *The Austrian Nation*, p. 195.
-[^58]: Lewis, *Fascism and the Working Class in Austria*, p. 167.
-[^59]: Uhl, Heidemarie. "The Politics of Memory: Austria's Perception of the Second World War and the National Socialist Period." *Contemporary Austrian Studies* 5 (1997): 64-94.
-[^60]: Kindermann, *Hitler's Defeat in Austria*, p. 201.
-[^61]: Tálos and Neugebauer, *Austrofascism*, p. 267.
-[^62]: Pelinka, Anton. "The Great Austrian Taboo: The Repression of the Civil War." *New German Critique* 43 (1988): 69-82.
-[^63]: Steininger, *Austria, Germany, and the Cold War*, p. 45.
-[^64]: Boyer, *Culture and Political Crisis in Vienna*, p. 445.
-[^65]: Payne, *A History of Fascism*, p. 265.
-[^66]: Rabinbach, *The Crisis of Austrian Socialism*, p. 287.
-[^67]: Bauer, *The Austrian Revolution*, p. 334.
-[^68]: Bukey, *Hitler's Austria*, p. 52.
-[^69]: Griffin, *The Nature of Fascism*, p. 129.
-[^70]: Linz, Juan J. "Some Notes Toward a Comparative Study of Fascism in Sociological Historical Perspective." In *Fascism: A Reader's Guide*, edited by Walter Laqueur, 3-121. Berkeley: University of California Press, 1976, p. 78.
-[^71]: Payne, *A History of Fascism*, p. 259.
-[^72]: Kitchen, *The Coming of Austrian Fascism*, p. 301.
-[^73]: Wodak, Ruth, et al. *The Discursive Construction of National Identity*. Edinburgh: Edinburgh University Press, 2009, p. 134.
+
+[^51]: Pauley, _Hitler and the Forgotten Nazis_, p. 102.
+
+[^52]: Kitchen, _The Coming of Austrian Fascism_, p. 182.
+
+[^53]: Brook-Shepherd, _Dollfuss_, p. 134.
+
+[^54]: Klemens von Klemperer, _Ignaz Seipel_, p. 289.
+
+[^55]: Starhemberg, _Between Hitler and Mussolini_, p. 112.
+
+[^56]: Gulick, _Austria from Habsburg to Hitler_, vol. 2, p. 1298.
+
+[^57]: Bruckmüller, _The Austrian Nation_, p. 195.
+
+[^58]: Lewis, _Fascism and the Working Class in Austria_, p. 167.
+
+[^59]: Uhl, Heidemarie. "The Politics of Memory: Austria's Perception of the Second World War and the National Socialist Period." _Contemporary Austrian Studies_ 5 (1997): 64-94.
+
+[^60]: Kindermann, _Hitler's Defeat in Austria_, p. 201.
+
+[^61]: Tálos and Neugebauer, _Austrofascism_, p. 267.
+
+[^62]: Pelinka, Anton. "The Great Austrian Taboo: The Repression of the Civil War." _New German Critique_ 43 (1988): 69-82.
+
+[^63]: Steininger, _Austria, Germany, and the Cold War_, p. 45.
+
+[^64]: Boyer, _Culture and Political Crisis in Vienna_, p. 445.
+
+[^65]: Payne, _A History of Fascism_, p. 265.
+
+[^66]: Rabinbach, _The Crisis of Austrian Socialism_, p. 287.
+
+[^67]: Bauer, _The Austrian Revolution_, p. 334.
+
+[^68]: Bukey, _Hitler's Austria_, p. 52.
+
+[^69]: Griffin, _The Nature of Fascism_, p. 129.
+
+[^70]: Linz, Juan J. "Some Notes Toward a Comparative Study of Fascism in Sociological Historical Perspective." In _Fascism: A Reader's Guide_, edited by Walter Laqueur, 3-121. Berkeley: University of California Press, 1976, p. 78.
+
+[^71]: Payne, _A History of Fascism_, p. 259.
+
+[^72]: Kitchen, _The Coming of Austrian Fascism_, p. 301.
+
+[^73]: Wodak, Ruth, et al. _The Discursive Construction of National Identity_. Edinburgh: Edinburgh University Press, 2009, p. 134.
+
 [^74]: Uhl, "The Politics of Memory," p. 72.
-[^75]: Bukey, *Hitler's Austria*, p. 59.
+
+[^75]: Bukey, _Hitler's Austria_, p. 59.
+
 [^76]: Pelinka, "The Great Austrian Taboo," p. 76.
-[^77]: Steininger, *Austria, Germany, and the Cold War*, p. 178.
-[^78]: Tálos, *Das austrofaschistische Herrschaftssystem*, p. 345.
-[^79]: Kitchen, *The Coming of Austrian Fascism*, p. 312.
-[^80]: Payne, *A History of Fascism*, p. 267.
-[^81]: Kindermann, *Hitler's Defeat in Austria*, p. 234.
-[^82]: Brook-Shepherd, *Dollfuss*, p. 289.
-[^83]: Gehl, *Austria, Germany, and the Anschluss*, p. 145.
-[^84]: Kindermann, *Hitler's Defeat in Austria*, p. 156.
-[^85]: Shepherd, *The Austrian Odyssey*, p. 201.
-[^86]: Klemens von Klemperer, *Ignaz Seipel*, p. 301.
-[^87]: Brook-Shepherd, *Dollfuss*, p. 178.
-[^88]: Boyer, *Culture and Political Crisis in Vienna*, p. 456.
-[^89]: Bruckmüller, *The Austrian Nation*, p. 203.
-[^90]: Steininger, *Austria, Germany, and the Cold War*, p. 34.
-[^91]: Wodak et al., *The Discursive Construction of National Identity*, p. 145.
-[^92]: Kindermann, *Hitler's Defeat in Austria*, p. 267.
-[^93]: Shepherd, *The Austrian Odyssey*, p. 234.
-[^94]: Payne, *A History of Fascism*, p. 269.
-[^95]: Kitchen, *The Coming of Austrian Fascism*, p. 324.
-[^96]: Rabinbach, *The Crisis of Austrian Socialism*, p. 298.
-[^97]: Gulick, *Austria from Habsburg to Hitler*, vol. 2, p. 1567.
-[^98]: Lewis, *Fascism and the Working Class in Austria*, p. 267.
-[^99]: Rabinbach, *The Crisis of Austrian Socialism*, p. 245.
-[^100]: Botz, *Gewalt in der Politik*, p. 278.
+
+[^77]: Steininger, _Austria, Germany, and the Cold War_, p. 178.
+
+[^78]: Tálos, _Das austrofaschistische Herrschaftssystem_, p. 345.
+
+[^79]: Kitchen, _The Coming of Austrian Fascism_, p. 312.
+
+[^80]: Payne, _A History of Fascism_, p. 267.
+
+[^81]: Kindermann, _Hitler's Defeat in Austria_, p. 234.
+
+[^82]: Brook-Shepherd, _Dollfuss_, p. 289.
+
+[^83]: Gehl, _Austria, Germany, and the Anschluss_, p. 145.
+
+[^84]: Kindermann, _Hitler's Defeat in Austria_, p. 156.
+
+[^85]: Shepherd, _The Austrian Odyssey_, p. 201.
+
+[^86]: Klemens von Klemperer, _Ignaz Seipel_, p. 301.
+
+[^87]: Brook-Shepherd, _Dollfuss_, p. 178.
+
+[^88]: Boyer, _Culture and Political Crisis in Vienna_, p. 456.
+
+[^89]: Bruckmüller, _The Austrian Nation_, p. 203.
+
+[^90]: Steininger, _Austria, Germany, and the Cold War_, p. 34.
+
+[^91]: Wodak et al., _The Discursive Construction of National Identity_, p. 145.
+
+[^92]: Kindermann, _Hitler's Defeat in Austria_, p. 267.
+
+[^93]: Shepherd, _The Austrian Odyssey_, p. 234.
+
+[^94]: Payne, _A History of Fascism_, p. 269.
+
+[^95]: Kitchen, _The Coming of Austrian Fascism_, p. 324.
+
+[^96]: Rabinbach, _The Crisis of Austrian Socialism_, p. 298.
+
+[^97]: Gulick, _Austria from Habsburg to Hitler_, vol. 2, p. 1567.
+
+[^98]: Lewis, _Fascism and the Working Class in Austria_, p. 267.
+
+[^99]: Rabinbach, _The Crisis of Austrian Socialism_, p. 245.
+
+[^100]: Botz, _Gewalt in der Politik_, p. 278.
+
 [^101]: Gutsman, "The Austrian February Rising of 1934," p. 155.
-[^102]: Bukey, *Hitler's Austria*, p. 67.
-[^103]: Pauley, *Hitler and the Forgotten Nazis*, p. 156.
-[^104]: Griffin, *The Nature of Fascism*, p. 131.
-[^105]: Payne, *A History of Fascism*, p. 262.
-[^106]: Edmondson, *The Heimwehr and Austrian Politics*, p. 267.
-[^107]: Tálos, *Das austrofaschistische Herrschaftssystem*, p. 289.
-[^108]: Bukey, *Hitler's Austria*, p. 73.
-[^109]: Kitchen, *The Coming of Austrian Fascism*, p. 334.
-[^110]: Rabinbach, *The Crisis of Austrian Socialism*, p. 312.
-[^111]: Gehl, *Austria, Germany, and the Anschluss*, p. 234.
-[^112]: Steininger, *Austria, Germany, and the Cold War*, p. 56.
-[^113]: Payne, *A History of Fascism*, p. 271.
-[^114]: Lewis, *Fascism and the Working Class in Austria*, p. 289.
-[^115]: Bukey, *Hitler's Austria*, p. 81.
-[^116]: Kitchen, *The Coming of Austrian Fascism*, p. 345.
-[^117]: Quoted in Brook-Shepherd, *Dollfuss*, p. 189.
-[^118]: Quoted in Kindermann, *Hitler's Defeat in Austria*, p. 134.
-[^119]: Quoted in Shepherd, *The Austrian Odyssey*, p. 223.
-[^120]: Quoted in Tálos and Neugebauer, *Austrofascism*, p. 156.
-[^121]: Quoted in Brook-Shepherd, *Dollfuss*, p. 298.
+
+[^102]: Bukey, _Hitler's Austria_, p. 67.
+
+[^103]: Pauley, _Hitler and the Forgotten Nazis_, p. 156.
+
+[^104]: Griffin, _The Nature of Fascism_, p. 131.
+
+[^105]: Payne, _A History of Fascism_, p. 262.
+
+[^106]: Edmondson, _The Heimwehr and Austrian Politics_, p. 267.
+
+[^107]: Tálos, _Das austrofaschistische Herrschaftssystem_, p. 289.
+
+[^108]: Bukey, _Hitler's Austria_, p. 73.
+
+[^109]: Kitchen, _The Coming of Austrian Fascism_, p. 334.
+
+[^110]: Rabinbach, _The Crisis of Austrian Socialism_, p. 312.
+
+[^111]: Gehl, _Austria, Germany, and the Anschluss_, p. 234.
+
+[^112]: Steininger, _Austria, Germany, and the Cold War_, p. 56.
+
+[^113]: Payne, _A History of Fascism_, p. 271.
+
+[^114]: Lewis, _Fascism and the Working Class in Austria_, p. 289.
+
+[^115]: Bukey, _Hitler's Austria_, p. 81.
+
+[^116]: Kitchen, _The Coming of Austrian Fascism_, p. 345.
+
+[^117]: Quoted in Brook-Shepherd, _Dollfuss_, p. 189.
+
+[^118]: Quoted in Kindermann, _Hitler's Defeat in Austria_, p. 134.
+
+[^119]: Quoted in Shepherd, _The Austrian Odyssey_, p. 223.
+
+[^120]: Quoted in Tálos and Neugebauer, _Austrofascism_, p. 156.
+
+[^121]: Quoted in Brook-Shepherd, _Dollfuss_, p. 298.

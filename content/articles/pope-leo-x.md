@@ -147,24 +147,24 @@ The scholarly consensus is clear: while Leo X's cultural and artistic contributi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1475 | Born Giovanni di Lorenzo de' Medici in Florence on December 11 |
-| 1482 | Received tonsure at age seven |
-| 1483 | Made Abbot of Font Douce and appointed Apostolic prothonotary by Pope Sixtus IV |
-| 1489 | Created cardinal at age thirteen by Pope Innocent VIII |
-| 1489-1491 | Studied theology and canon law at the University of Pisa |
-| 1492 | Received doctorate in canon law from University of Pisa; formally admitted to Sacred College of Cardinals on March 23; Lorenzo the Magnificent died on April 8 |
-| 1513 | Elected Pope Leo X on March 9; ordained priest March 15; consecrated bishop March 17 |
-| 1514 | Commissioned Raphael, Fra Giovanni Giocondo, and Giuliano da Sangallo to continue work on St. Peter's Basilica after Bramante's death |
-| 1515 | Fifth Lateran Council promulgated bull sanctioning monti di pietà on May 4; Battle of Marignano resulted in French victory on September 13-14; met with Francis I in Bologna on December 11 |
-| 1516 | Concordat of Bologna signed with France; commissioned Michelangelo to design façade for San Lorenzo; concordat with Florence guaranteed free election of clergy |
-| 1517 | Secured nephew Lorenzo di Piero de' Medici as Duke of Urbino; Fifth Lateran Council concluded on March 16; Martin Luther posted Ninety-Five Theses on October 31; created 31 cardinals in one consistory on July 1 |
-| 1518 | Issued bull Cum postquam on November 9 defining doctrine of indulgences; Luther met with Cardinal Cajetan in Augsburg in October |
-| 1518-1519 | Had Vatican galleries decorated with frescoes designed by Raphael |
-| 1519 | Opposed election of Charles V as Holy Roman Emperor |
-| 1520 | Issued papal bull Exsurge Domine on June 15 condemning forty-one propositions from Luther's teachings; Luther burned the bull on December 10 |
-| 1521 | Formally excommunicated Luther with bull Decet Romanum Pontificem on January 3; Charles V declared Luther an outlaw at Diet of Worms; Imperial-Papal troops captured Milan from French and installed Francesco II Sforza; died of bronchopneumonia on December 1 at age 45; buried in Santa Maria Sopra Minerva |
+| Year      | Event                                                                                                                                                                                                                                                                                                           |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1475      | Born Giovanni di Lorenzo de' Medici in Florence on December 11                                                                                                                                                                                                                                                  |
+| 1482      | Received tonsure at age seven                                                                                                                                                                                                                                                                                   |
+| 1483      | Made Abbot of Font Douce and appointed Apostolic prothonotary by Pope Sixtus IV                                                                                                                                                                                                                                 |
+| 1489      | Created cardinal at age thirteen by Pope Innocent VIII                                                                                                                                                                                                                                                          |
+| 1489-1491 | Studied theology and canon law at the University of Pisa                                                                                                                                                                                                                                                        |
+| 1492      | Received doctorate in canon law from University of Pisa; formally admitted to Sacred College of Cardinals on March 23; Lorenzo the Magnificent died on April 8                                                                                                                                                  |
+| 1513      | Elected Pope Leo X on March 9; ordained priest March 15; consecrated bishop March 17                                                                                                                                                                                                                            |
+| 1514      | Commissioned Raphael, Fra Giovanni Giocondo, and Giuliano da Sangallo to continue work on St. Peter's Basilica after Bramante's death                                                                                                                                                                           |
+| 1515      | Fifth Lateran Council promulgated bull sanctioning monti di pietà on May 4; Battle of Marignano resulted in French victory on September 13-14; met with Francis I in Bologna on December 11                                                                                                                     |
+| 1516      | Concordat of Bologna signed with France; commissioned Michelangelo to design façade for San Lorenzo; concordat with Florence guaranteed free election of clergy                                                                                                                                                 |
+| 1517      | Secured nephew Lorenzo di Piero de' Medici as Duke of Urbino; Fifth Lateran Council concluded on March 16; Martin Luther posted Ninety-Five Theses on October 31; created 31 cardinals in one consistory on July 1                                                                                              |
+| 1518      | Issued bull Cum postquam on November 9 defining doctrine of indulgences; Luther met with Cardinal Cajetan in Augsburg in October                                                                                                                                                                                |
+| 1518-1519 | Had Vatican galleries decorated with frescoes designed by Raphael                                                                                                                                                                                                                                               |
+| 1519      | Opposed election of Charles V as Holy Roman Emperor                                                                                                                                                                                                                                                             |
+| 1520      | Issued papal bull Exsurge Domine on June 15 condemning forty-one propositions from Luther's teachings; Luther burned the bull on December 10                                                                                                                                                                    |
+| 1521      | Formally excommunicated Luther with bull Decet Romanum Pontificem on January 3; Charles V declared Luther an outlaw at Diet of Worms; Imperial-Papal troops captured Milan from French and installed Francesco II Sforza; died of bronchopneumonia on December 1 at age 45; buried in Santa Maria Sopra Minerva |
 
 ---
 
@@ -185,151 +185,299 @@ The scholarly consensus is clear: while Leo X's cultural and artistic contributi
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Pope_Leo_X
+
 [^2]: https://www.britannica.com/biography/Leo-X
+
 [^3]: https://www.newadvent.org/cathen/09162a.htm
+
 [^4]: https://en.wikipedia.org/wiki/Pope_Leo_X
+
 [^5]: https://www.britannica.com/biography/Leo-X
+
 [^6]: https://themedicifamily.com/pope-leo-x
+
 [^7]: https://biographics.org/pope-leo-x-the-most-extravagant-pope-in-history/
+
 [^8]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/leo-x-1475-1521-pope
+
 [^9]: https://reformation500.csl.edu/pope-leo-x/
+
 [^10]: https://www.thetimelinegeek.com/giovanni-de-medici-pope-leo-x-1475-1521/
+
 [^11]: https://www.thetimelinegeek.com/giovanni-de-medici-pope-leo-x-1475-1521/
+
 [^12]: https://en.wikipedia.org/wiki/Pope_Leo_X
+
 [^13]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/leo-x-1475-1521-pope
+
 [^14]: https://reformation500.csl.edu/pope-leo-x/
+
 [^15]: https://en.wikipedia.org/wiki/Pope_Leo_X
+
 [^16]: https://www.britannica.com/biography/Leo-X
+
 [^17]: https://themedicifamily.com/pope-leo-x
+
 [^18]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^19]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^20]: https://www.papalartifacts.com/march-9-1513-the-election-of-leo-x/
+
 [^21]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^22]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^23]: https://www.papalartifacts.com/march-9-1513-the-election-of-leo-x/
+
 [^24]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^25]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^26]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^27]: https://en.wikipedia.org/wiki/1513_papal_conclave
+
 [^28]: https://libquotes.com/pope-leo-x/quote/lbq3k2z
+
 [^29]: https://www.britannica.com/biography/Leo-X
+
 [^30]: https://themedicifamily.com/pope-leo-x
+
 [^31]: https://themedicifamily.com/pope-leo-x
+
 [^32]: https://www.newworldencyclopedia.org/entry/Leo_X
+
 [^33]: https://en.wikipedia.org/wiki/Battle_of_Marignano
+
 [^34]: https://www.newworldencyclopedia.org/entry/Leo_X
+
 [^35]: https://www.britannica.com/event/Battle-of-Marignano
+
 [^36]: https://malevus.com/battle-of-marignano/
+
 [^37]: https://reformation500.csl.edu/pope-leo-x/
+
 [^38]: https://shunspirit.com/article/what-did-pope-leo-x-do
+
 [^39]: https://www.metmuseum.org/toah/hd/pope/hd_pope.htm
+
 [^40]: https://themedicifamily.com/pope-leo-x
+
 [^41]: https://www.metmuseum.org/toah/hd/pope/hd_pope.htm
+
 [^42]: https://en.wikipedia.org/wiki/Portrait_of_Leo_X_(Raphael)
+
 [^43]: https://smarthistory.org/raphael-pope-leo-x/
+
 [^44]: https://themedicifamily.com/pope-leo-x
+
 [^45]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/leo-x-1475-1521-pope
+
 [^46]: https://shunspirit.com/article/what-did-pope-leo-x-do
+
 [^47]: https://reformation500.csl.edu/pope-leo-x/
+
 [^48]: https://shunspirit.com/article/what-did-pope-leo-x-do
+
 [^49]: https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran
+
 [^50]: https://www.newworldencyclopedia.org/entry/Leo_X
+
 [^51]: https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran
+
 [^52]: https://www.newworldencyclopedia.org/entry/Leo_X
+
 [^53]: https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran
+
 [^54]: https://www.thetimelinegeek.com/giovanni-de-medici-pope-leo-x-1475-1521/
+
 [^55]: https://www.thetimelinegeek.com/giovanni-de-medici-pope-leo-x-1475-1521/
+
 [^56]: https://www.newworldencyclopedia.org/entry/Leo_X
+
 [^57]: https://www.encyclopedia.com/people/philosophy-and-religion/roman-catholic-popes-and-antipopes/leo-x
+
 [^58]: https://www.encyclopedia.com/people/philosophy-and-religion/roman-catholic-popes-and-antipopes/leo-x
+
 [^59]: https://www.encyclopedia.com/people/philosophy-and-religion/roman-catholic-popes-and-antipopes/leo-x
+
 [^60]: https://en.wikipedia.org/wiki/Italian_War_of_1521–1526
+
 [^61]: https://reformation500.csl.edu/pope-leo-x/
+
 [^62]: https://www.britannica.com/biography/Martin-Luther/The-indulgences-controversy
+
 [^63]: https://www.britannica.com/biography/Martin-Luther/The-indulgences-controversy
+
 [^64]: https://www.britannica.com/biography/Martin-Luther/The-indulgences-controversy
+
 [^65]: https://study.com/learn/lesson/pope-leo-x-biography-timeline.html
+
 [^66]: https://www.britannica.com/biography/Leo-X/Conflict-with-Luther
+
 [^67]: https://www.catholic.com/magazine/online-edition/leo-and-luther-the-real-story-of-the-pope-and-the-heretic
+
 [^68]: https://reformation500.csl.edu/pope-leo-x/
+
 [^69]: https://en.wikipedia.org/wiki/Exsurge_Domine
+
 [^70]: https://www.britannica.com/topic/Exsurge-Domine
+
 [^71]: https://en.wikipedia.org/wiki/Exsurge_Domine
+
 [^72]: https://lutheranreformation.org/history/burning-papal-bull/
+
 [^73]: https://reformation500.csl.edu/pope-leo-x/
+
 [^74]: https://www.worldhistory.org/article/1903/1521-excommunication-of-luther-complete-text/
+
 [^75]: https://www.worldhistory.org/article/1903/1521-excommunication-of-luther-complete-text/
+
 [^76]: https://reformation500.csl.edu/pope-leo-x/
+
 [^77]: https://www.thecollector.com/pope-leo/
+
 [^78]: https://www.thecollector.com/pope-leo/
+
 [^79]: https://www.thecollector.com/pope-leo/
+
 [^80]: https://biographics.org/pope-leo-x-the-most-extravagant-pope-in-history/
+
 [^81]: https://www.thecollector.com/pope-leo/
+
 [^82]: https://www.thecollector.com/pope-leo/
+
 [^83]: https://www.thecollector.com/pope-leo/
+
 [^84]: https://www.thecollector.com/pope-leo/
+
 [^85]: https://www.newadvent.org/cathen/09162a.htm
+
 [^86]: https://www.newadvent.org/cathen/09162a.htm
+
 [^87]: https://cristoraul.org/ENGLISH/readinghall/THIRDMILLENNIUMLIBRARY/History-of-the-popes/POPE-LEO-X_11_Personality-of-Leo-X.html
+
 [^88]: https://www.newadvent.org/cathen/09162a.htm
+
 [^89]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on
+
 [^90]: https://www.newadvent.org/cathen/09162a.htm
+
 [^91]: https://www.newadvent.org/cathen/09162a.htm
+
 [^92]: https://www.newadvent.org/cathen/09162a.htm
+
 [^93]: https://www.newadvent.org/cathen/09162a.htm
+
 [^94]: https://www.newadvent.org/cathen/09162a.htm
+
 [^95]: https://www.newadvent.org/cathen/09162a.htm
+
 [^96]: https://www.newadvent.org/cathen/09162a.htm
+
 [^97]: https://www.newadvent.org/cathen/09162a.htm
+
 [^98]: https://www.newadvent.org/cathen/09162a.htm
+
 [^99]: https://cristoraul.org/ENGLISH/readinghall/THIRDMILLENNIUMLIBRARY/History-of-the-popes/POPE-LEO-X_11_Personality-of-Leo-X.html
+
 [^100]: https://www.catholic.org/encyclopedia/view.php?id=7018
+
 [^101]: https://www.newadvent.org/cathen/09162a.htm
+
 [^102]: https://www.catholic365.com/article/46022/pope-leo-x-1513-1521.html
+
 [^103]: https://www.newadvent.org/cathen/09162a.htm
+
 [^104]: https://sb.rfpa.org/renaissance-popes-leo-x-1513-1521/
+
 [^105]: https://www.newadvent.org/cathen/09162a.htm
+
 [^106]: https://www.newadvent.org/cathen/09162a.htm
+
 [^107]: https://www.newadvent.org/cathen/09162a.htm
+
 [^108]: https://www.newadvent.org/cathen/09162a.htm
+
 [^109]: https://themedicifamily.com/pope-leo-x
+
 [^110]: https://themedicifamily.com/pope-leo-x
+
 [^111]: https://www.newadvent.org/cathen/09162a.htm
+
 [^112]: https://reformation500.csl.edu/pope-leo-x/
+
 [^113]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on
+
 [^114]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-e-years-on
+
 [^115]: https://fiveable.me/key-terms/ap-euro/pope-leo-x
+
 [^116]: https://study.com/learn/lesson/pope-leo-x-biography-timeline.html
+
 [^117]: https://en.wikipedia.org/wiki/Italian_War_of_1521–1526
+
 [^118]: https://popehistory.com/popes/pope-leo-x/
+
 [^119]: https://www.thecollector.com/pope-leo/
+
 [^120]: https://en.wikipedia.org/wiki/Pope_Leo_X
+
 [^121]: https://popehistory.com/popes/pope-leo-x/
+
 [^122]: https://en.wikipedia.org/wiki/Pope_Leo_X
+
 [^123]: https://www.thetimelinegeek.com/giovanni-de-medici-pope-leo-x-1475-1521/
+
 [^124]: https://reformation500.csl.edu/pope-leo-x/
+
 [^125]: https://shunspirit.com/article/what-did-pope-leo-x-do
+
 [^126]: https://www.britannica.com/biography/Martin-Luther/The-indulgences-controversy
+
 [^127]: https://www.newworldencyclopedia.org/entry/Leo_X
+
 [^128]: https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran
+
 [^129]: https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran
+
 [^130]: https://shunspirit.com/article/what-did-pope-leo-x-do
+
 [^131]: https://www.newadvent.org/cathen/09162a.htm
+
 [^132]: https://www.newadvent.org/cathen/09162a.htm
+
 [^133]: https://www.newadvent.org/cathen/09162a.htm
+
 [^134]: https://www.newadvent.org/cathen/09162a.htm
+
 [^135]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on
+
 [^136]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on
+
 [^137]: https://biographics.org/pope-leo-x-the-most-extravagant-pope-in-history/
+
 [^138]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on
+
 [^139]: https://reformation500.csl.edu/pope-leo-x/
+
 [^140]: https://www.thecollector.com/pope-leo/
+
 [^141]: https://www.britannica.com/biography/Leo-X/Conflict-with-Luther
+
 [^142]: https://reformation500.csl.edu/pope-leo-x/
+
 [^143]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on
+
 [^144]: https://www.newworldencyclopedia.org/entry/Leo_X
+
 [^145]: https://libquotes.com/pope-leo-x/quote/lbq3k2z
+
 [^146]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on
+
 [^147]: https://www.newadvent.org/cathen/09162a.htm
+
 [^148]: https://www.newadvent.org/cathen/09162a.htm
+
 [^149]: https://historymatters.sites.sheffield.ac.uk/blog-archive/2013/leo-x-the-unfortunate-pope-500-years-on

@@ -185,34 +185,34 @@ Recent scholarship has also questioned the degree to which his celebrated legal 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1214 | Born April 25 at Poissy, France |
-| 1223 | Father Louis VIII becomes King of France |
-| 1226 | Father dies; Louis becomes King at age 12; crowned at Reims Cathedral November 29 |
-| 1226-1234 | Mother Blanche of Castile serves as regent |
-| 1230 | Issues Ordinance of Melun forcing Jews into manual labor |
-| 1234 | Marries Margaret of Provence on May 27 |
-| 1236 | Declares his majority on his 22nd birthday, April 25 |
-| 1240 | Seizes copies of the Talmud following papal directive |
-| 1240-1242 | Disputation of Paris trial of the Talmud |
-| 1241 | Acquires Crown of Thorns and other Passion relics |
-| 1242 | Orders burning of approximately 12,000 Talmud manuscripts in Paris |
-| 1244 | Jerusalem falls to Muslims; Louis vows to lead crusade |
-| 1244-1248 | Construction of Sainte-Chapelle to house holy relics |
-| 1248 | Departs on Seventh Crusade; mother becomes regent again |
-| 1249 | Crusaders capture Damietta in Egypt, June |
-| 1250 | Defeated at Battle of Mansourah; captured April 5; released May 6 after ransom |
-| 1250-1254 | Remains in Holy Land fortifying Crusader positions |
-| 1252 | Mother Blanche of Castile dies while Louis is in Holy Land |
-| 1254 | Returns to France; promulgates Great Reform Ordinance in December |
-| 1254 | Founds Quinze-Vingts hospital for 300 blind men |
-| 1257 | Founds the Sorbonne University with Robert of Sorbon |
-| 1259 | Signs Treaty of Paris with Henry III of England, December 4 |
-| 1269 | Reiterates requirement for Jews to wear distinctive badge (rota) |
-| 1270 | Departs on Eighth Crusade to Tunisia, July |
-| 1270 | Dies of dysentery in Tunis, August 25 |
-| 1297 | Canonized as Saint Louis by Pope Boniface VIII |
+| Year      | Event                                                                             |
+| --------- | --------------------------------------------------------------------------------- |
+| 1214      | Born April 25 at Poissy, France                                                   |
+| 1223      | Father Louis VIII becomes King of France                                          |
+| 1226      | Father dies; Louis becomes King at age 12; crowned at Reims Cathedral November 29 |
+| 1226-1234 | Mother Blanche of Castile serves as regent                                        |
+| 1230      | Issues Ordinance of Melun forcing Jews into manual labor                          |
+| 1234      | Marries Margaret of Provence on May 27                                            |
+| 1236      | Declares his majority on his 22nd birthday, April 25                              |
+| 1240      | Seizes copies of the Talmud following papal directive                             |
+| 1240-1242 | Disputation of Paris trial of the Talmud                                          |
+| 1241      | Acquires Crown of Thorns and other Passion relics                                 |
+| 1242      | Orders burning of approximately 12,000 Talmud manuscripts in Paris                |
+| 1244      | Jerusalem falls to Muslims; Louis vows to lead crusade                            |
+| 1244-1248 | Construction of Sainte-Chapelle to house holy relics                              |
+| 1248      | Departs on Seventh Crusade; mother becomes regent again                           |
+| 1249      | Crusaders capture Damietta in Egypt, June                                         |
+| 1250      | Defeated at Battle of Mansourah; captured April 5; released May 6 after ransom    |
+| 1250-1254 | Remains in Holy Land fortifying Crusader positions                                |
+| 1252      | Mother Blanche of Castile dies while Louis is in Holy Land                        |
+| 1254      | Returns to France; promulgates Great Reform Ordinance in December                 |
+| 1254      | Founds Quinze-Vingts hospital for 300 blind men                                   |
+| 1257      | Founds the Sorbonne University with Robert of Sorbon                              |
+| 1259      | Signs Treaty of Paris with Henry III of England, December 4                       |
+| 1269      | Reiterates requirement for Jews to wear distinctive badge (rota)                  |
+| 1270      | Departs on Eighth Crusade to Tunisia, July                                        |
+| 1270      | Dies of dysentery in Tunis, August 25                                             |
+| 1297      | Canonized as Saint Louis by Pope Boniface VIII                                    |
 
 ---
 
@@ -237,220 +237,437 @@ Recent scholarship has also questioned the degree to which his celebrated legal 
 ## References
 
 [^1]: Louis IX | King of France, Crusader, Saint | Britannica. https://www.britannica.com/biography/Louis-IX
+
 [^2]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^3]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^4]: Louis IX, King of France. http://justus.anglican.org/resources/bio/47.html
+
 [^5]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^6]: The Life and Reign of Louis IX, the Saint King of France | TheCollector. https://www.thecollector.com/louis-ix-saint-king/
+
 [^7]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^8]: Disputation of Paris - Wikipedia. https://en.wikipedia.org/wiki/Disputation_of_Paris
+
 [^9]: Louis IX Of France Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/louis-ix-of-france-8235.php
+
 [^10]: Louis IX - Students | Britannica Kids | Homework Help. https://kids.britannica.com/students/article/Louis-IX/315511
+
 [^11]: Louis IX "the Saint" of France, King of France (1214 - 1270) - Genealogy. https://www.geni.com/people/Louis-IX-the-Saint-King-of-France/6000000002644652306
+
 [^12]: St. Louis – King of France – christianapostles.com. https://christianapostles.com/st-louis/
+
 [^13]: The Mother of Saint Louis - Saint Louis Bank Blog. https://blog.stlouisbank.com/the-mother-of-saint-louis/
+
 [^14]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^15]: St. Louis IX - Saints & Angels - Catholic Online. https://www.catholic.org/saints/saint.php?saint_id=1011
+
 [^16]: Seventh Crusade - Wikipedia. https://en.wikipedia.org/wiki/Seventh_Crusade
+
 [^17]: The Mother of Saint Louis - Saint Louis Bank Blog. https://blog.stlouisbank.com/the-mother-of-saint-louis/
+
 [^18]: Blanche of Castile, Queen of France (1188-1252), An Astute Matriarch – 52 Ancestors #283. https://dna-explained.com/2020/05/10/blanche-of-castile-queen-of-france-1188-1252-an-astute-matriarch-52-ancestors-283/
+
 [^19]: The Mother of Saint Louis - Saint Louis Bank Blog. https://blog.stlouisbank.com/the-mother-of-saint-louis/
+
 [^20]: Louis IX Of France Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/louis-ix-of-france-8235.php
+
 [^21]: Louis IX Of France Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/louis-ix-of-france-8235.php
+
 [^22]: The Mother of Saint Louis - Saint Louis Bank Blog. https://blog.stlouisbank.com/the-mother-of-saint-louis/
+
 [^23]: St. Louis – King of France – christianapostles.com. https://christianapostles.com/st-louis/
+
 [^24]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^25]: Blanche of Castile, Queen of France (1188-1252), An Astute Matriarch – 52 Ancestors #283. https://dna-explained.com/2020/05/10/blanche-of-castile-queen-of-france-1188-1252-an-astute-matriarch-52-ancestors-283/
+
 [^26]: Blanche Of Castile | Queen of France & Navarre, Wife of Louis VIII | Britannica. https://www.britannica.com/biography/Blanche-of-Castile-wife-of-Louis-VIII
+
 [^27]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^28]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^29]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^30]: Blanche Of Castile | Queen of France & Navarre, Wife of Louis VIII | Britannica. https://www.britannica.com/biography/Blanche-of-Castile-wife-of-Louis-VIII
+
 [^31]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^32]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^33]: Marguerite of Provence — Epistolae. https://epistolae.ctl.columbia.edu/woman/73.html
+
 [^34]: Margaret Of Provence | Queen of France, Wife of Louis IX, Regent of France | Britannica. https://www.britannica.com/biography/Margaret-of-Provence
+
 [^35]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^36]: Marguerite of Provence, Queen of France – The Freelance History Writer. https://thefreelancehistorywriter.com/2022/05/13/marguerite-of-provence-queen-of-france/
+
 [^37]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^38]: Marguerite of Provence, Queen of France – The Freelance History Writer. https://thefreelancehistorywriter.com/2022/05/13/marguerite-of-provence-queen-of-france/
+
 [^39]: Marguerite of Provence, Queen of France – The Freelance History Writer. https://thefreelancehistorywriter.com/2022/05/13/marguerite-of-provence-queen-of-france/
+
 [^40]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^41]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^42]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^43]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^44]: Blanche Of Castile | Queen of France & Navarre, Wife of Louis VIII | Britannica. https://www.britannica.com/biography/Blanche-of-Castile-wife-of-Louis-VIII
+
 [^45]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^46]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^47]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^48]: King Louis IX: Defining the Saintly Monarch's Reign. https://knightstemplar.co/king-louis-ix-defining-the-saintly-monarchs-reign/
+
 [^49]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^50]: France - Louis IX, Monarchy, Crusades | Britannica. https://www.britannica.com/place/France/Louis-IX
+
 [^51]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^52]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^53]: King Louis IX: Defining the Saintly Monarch's Reign. https://knightstemplar.co/king-louis-ix-defining-the-saintly-monarchs-reign/
+
 [^54]: King Louis IX: Defining the Saintly Monarch's Reign. https://knightstemplar.co/king-louis-ix-defining-the-saintly-monarchs-reign/
+
 [^55]: Parlement | French Supreme Court, History & Role | Britannica. https://www.britannica.com/topic/Parlement
+
 [^56]: Parlement - Wikipedia. https://en.wikipedia.org/wiki/Parlement
+
 [^57]: Parlement | French Supreme Court, History & Role | Britannica. https://www.britannica.com/topic/Parlement
+
 [^58]: Parlement | French Supreme Court, History & Role | Britannica. https://www.britannica.com/topic/Parlement
+
 [^59]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^60]: Saint Louis après Jacques Le Goff - La Cour du roi Louis IX : naissance du Parlement et d'une justice moderne ? - Presses universitaires de Rennes. https://books.openedition.org/pur/258904?lang=en
+
 [^61]: King Louis IX: Defining the Saintly Monarch's Reign. https://knightstemplar.co/king-louis-ix-defining-the-saintly-monarchs-reign/
+
 [^62]: Louis IX | King of France, Crusader, Saint | Britannica. https://www.britannica.com/biography/Louis-IX
+
 [^63]: History of the Sainte-Chapelle | Sainte-Chapelle. https://www.sainte-chapelle.fr/en/discover/history-of-the-sainte-chapelle
+
 [^64]: Louis IX and Capetian Politics at Paris' Sainte-Chapelle - World History Encyclopedia. https://www.worldhistory.org/article/2069/louis-ix-and-capetian-politics-at-paris-sainte-cha/
+
 [^65]: History of the Sainte-Chapelle | Sainte-Chapelle. https://www.sainte-chapelle.fr/en/discover/history-of-the-sainte-chapelle
+
 [^66]: Louis IX and Capetian Politics at Paris' Sainte-Chapelle - World History Encyclopedia. https://www.worldhistory.org/article/2069/louis-ix-and-capetian-politics-at-paris-sainte-cha/
+
 [^67]: Sainte-Chapelle - Wikipedia. https://en.wikipedia.org/wiki/Sainte-Chapelle
+
 [^68]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^69]: History of the Sainte-Chapelle | Sainte-Chapelle. https://www.sainte-chapelle.fr/en/discover/history-of-the-sainte-chapelle
+
 [^70]: Sainte-Chapelle: A Royal Chapel's Journey Through Time. https://www.paristickets.com/sainte-chapelle/history/
+
 [^71]: Sainte-Chapelle - Wikipedia. https://en.wikipedia.org/wiki/Sainte-Chapelle
+
 [^72]: Sainte-Chapelle | Description, History, & Facts | Britannica. https://www.britannica.com/place/Sainte-Chapelle
+
 [^73]: Louis IX and Capetian Politics at Paris' Sainte-Chapelle - World History Encyclopedia. https://www.worldhistory.org/article/2069/louis-ix-and-capetian-politics-at-paris-sainte-cha/
+
 [^74]: History of the Sainte-Chapelle | Sainte-Chapelle. https://www.sainte-chapelle.fr/en/discover/history-of-the-sainte-chapelle
+
 [^75]: Louis IX and Capetian Politics at Paris' Sainte-Chapelle - World History Encyclopedia. https://www.worldhistory.org/article/2069/louis-ix-and-capetian-politics-at-paris-sainte-cha/
+
 [^76]: Treaty of Paris | 1259 | Britannica. https://www.britannica.com/event/Treaty-of-Paris-1259
+
 [^77]: Treaty of Paris (1259) - Wikipedia. https://en.wikipedia.org/wiki/Treaty_of_Paris_(1259)
+
 [^78]: Treaty of Paris 1259 - Historic UK. https://www.historic-uk.com/HistoryofEngland/Treaty-Of-Paris-1259/
+
 [^79]: Treaty of Paris (1259) - Wikipedia. https://en.wikipedia.org/wiki/Treaty_of_Paris_(1259)
+
 [^80]: Treaty of Paris 1259 - Historic UK. https://www.historic-uk.com/HistoryofEngland/Treaty-Of-Paris-1259/
+
 [^81]: Treaty of Paris (1259) - Wikipedia. https://en.wikipedia.org/wiki/Treaty_of_Paris_(1259)
+
 [^82]: Treaty of Paris | 1259 | Britannica. https://www.britannica.com/event/Treaty-of-Paris-1259
+
 [^83]: 1259 Treaty Of Paris: History, Terms, Aftermath - Wiki English. https://www.duhoctrungquoc.vn/wiki/en/Treaty_of_Paris_(1259)
+
 [^84]: Treaty of Paris 1259 - Historic UK. https://www.historic-uk.com/HistoryofEngland/Treaty-Of-Paris-1259/
+
 [^85]: St. Louis IX of France. https://www.catholicnewsagency.com/saint/st-louis-ix-of-france-570
+
 [^86]: St. Louis IX of France. https://www.catholicnewsagency.com/saint/st-louis-ix-of-france-570
+
 [^87]: CATHOLIC ENCYCLOPEDIA: St. Louis IX. https://www.newadvent.org/cathen/09368a.htm
+
 [^88]: Hospitals in Medieval France. https://www.linkedin.com/pulse/hospitals-medieval-france-serena-du-sault
+
 [^89]: Saint Louis of France | Franciscan Media. https://www.franciscanmedia.org/saint-of-the-day/saint-louis-of-france/
+
 [^90]: St. Louis IX of France. https://www.catholicnewsagency.com/saint/st-louis-ix-of-france-570
+
 [^91]: CATHOLIC ENCYCLOPEDIA: St. Louis IX. https://www.newadvent.org/cathen/09368a.htm
+
 [^92]: Donation to support the refurbishment project of Saint Louis Hospice in Jerusalem | The Military and Hospitaller Order of Saint Lazarus of Jerusalem. https://www.st-lazarus.net/content/donation-support-refurbishment-project-saint-louis-hospice-jerusalem
+
 [^93]: A nation-wide support system for lepers in 14th century France | Malta Medical Journal. http://www.mmsjournals.org/index.php/mmj/article/view/752
+
 [^94]: St. Louis IX of France. https://www.catholicnewsagency.com/saint/st-louis-ix-of-france-570
+
 [^95]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^96]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^97]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^98]: Bible of St Louis - Wikipedia. https://en.wikipedia.org/wiki/Bible_of_St_Louis
+
 [^99]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^100]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^101]: Disputation of Paris - Wikipedia. https://en.wikipedia.org/wiki/Disputation_of_Paris
+
 [^102]: Disputation of Paris - Wikipedia. https://en.wikipedia.org/wiki/Disputation_of_Paris
+
 [^103]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^104]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^105]: Louis IX Orders the Burning of 12,000 Manuscripts of the Talmud : History of Information. https://www.historyofinformation.com/detail.php?id=1463
+
 [^106]: When King Louis IX Burned the Talmud | Aish. https://aish.com/when-king-louis-ix-burned-the-talmud/
+
 [^107]: King Louis. https://www.jewishvirtuallibrary.org/king-louis
+
 [^108]: King Louis. https://www.jewishvirtuallibrary.org/king-louis
+
 [^109]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^110]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^111]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^112]: The Real Story of King St. Louis IX | Catholic Answers Magazine. https://www.catholic.com/magazine/online-edition/the-real-story-of-king-st-louis-ix
+
 [^113]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^114]: Seventh Crusade - World History Encyclopedia. https://www.worldhistory.org/Seventh_Crusade/
+
 [^115]: Crusades - Holy Land, France, King Louis IX | Britannica. https://www.britannica.com/event/Crusades/The-Crusades-of-St-Louis
+
 [^116]: Seventh Crusade - Wikipedia. https://en.wikipedia.org/wiki/Seventh_Crusade
+
 [^117]: Seventh Crusade - Wikipedia. https://en.wikipedia.org/wiki/Seventh_Crusade
+
 [^118]: Seventh Crusade - World History Encyclopedia. https://www.worldhistory.org/Seventh_Crusade/
+
 [^119]: The Seventh Crusade: Capture, Ransom, Another Failure - Brewminate: A Bold Blend of News and Ideas. https://brewminate.com/the-seventh-crusade-capture-ransom-another-failure/
+
 [^120]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^121]: The Seventh Crusade: Capture, Ransom, Another Failure - Brewminate: A Bold Blend of News and Ideas. https://brewminate.com/the-seventh-crusade-capture-ransom-another-failure/
+
 [^122]: Seventh Crusade - Wikipedia. https://en.wikipedia.org/wiki/Seventh_Crusade
+
 [^123]: Eighth Crusade - Wikipedia. https://en.wikipedia.org/wiki/Eighth_Crusade
+
 [^124]: Crusades - Holy Land, France, King Louis IX | Britannica. https://www.britannica.com/event/Crusades/The-Crusades-of-St-Louis
+
 [^125]: Eighth Crusade - World History Encyclopedia. https://www.worldhistory.org/Eighth_Crusade/
+
 [^126]: Eighth Crusade - Wikipedia. https://en.wikipedia.org/wiki/Eighth_Crusade
+
 [^127]: Crusades - Holy Land, France, King Louis IX | Britannica. https://www.britannica.com/event/Crusades/The-Crusades-of-St-Louis
+
 [^128]: Eighth Crusade - World History Encyclopedia. https://www.worldhistory.org/Eighth_Crusade/
+
 [^129]: Why Decanonize (St.) King Louis IX? - Issuu. https://issuu.com/isnacreative/docs/ih_may-june_23/s/23399114
+
 [^130]: Why Decanonize (St.) King Louis IX? - Issuu. https://issuu.com/isnacreative/docs/ih_may-june_23/s/23399114
+
 [^131]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^132]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^133]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^134]: Marguerite of Provence, Queen of France – The Freelance History Writer. https://thefreelancehistorywriter.com/2022/05/13/marguerite-of-provence-queen-of-france/
+
 [^135]: Marguerite of Provence, Queen of France – The Freelance History Writer. https://thefreelancehistorywriter.com/2022/05/13/marguerite-of-provence-queen-of-france/
+
 [^136]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^137]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^138]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^139]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^140]: Family of Louis IX + and Marguerite + of PROVENCE. https://freepages.rootsweb.com/~dearbornboutwell/genealogy/fam4532.html
+
 [^141]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^142]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^143]: Marguerite of Provence, Queen of France – The Freelance History Writer. https://thefreelancehistorywriter.com/2022/05/13/marguerite-of-provence-queen-of-france/
+
 [^144]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^145]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^146]: Blanche Of Castile | Queen of France & Navarre, Wife of Louis VIII | Britannica. https://www.britannica.com/biography/Blanche-of-Castile-wife-of-Louis-VIII
+
 [^147]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^148]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^149]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^150]: Blanche Of Castile | Queen of France & Navarre, Wife of Louis VIII | Britannica. https://www.britannica.com/biography/Blanche-of-Castile-wife-of-Louis-VIII
+
 [^151]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^152]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^153]: Blanche of Castile - Wikipedia. https://en.wikipedia.org/wiki/Blanche_of_Castile
+
 [^154]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^155]: Margaret of Provence - Wikipedia. https://en.wikipedia.org/wiki/Margaret_of_Provence
+
 [^156]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^157]: Louis IX of France - Wikipedia. https://en.wikipedia.org/wiki/Louis_IX_of_France
+
 [^158]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^159]: Louis IX (Saint Louis) | Encyclopedia.com. https://www.encyclopedia.com/history/news-wires-white-papers-and-books/louis-ix-saint-louis
+
 [^160]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^161]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^162]: Unveiling the Majesty: King Louis IX's Unseen Legacy - Status Insights. https://statustest.amherst.edu/king-louis-ix
+
 [^163]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^164]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^165]: King Louis IX: Defining the Saintly Monarch's Reign. https://knightstemplar.co/king-louis-ix-defining-the-saintly-monarchs-reign/
+
 [^166]: Parlement | French Supreme Court, History & Role | Britannica. https://www.britannica.com/topic/Parlement
+
 [^167]: King Louis IX: Defining the Saintly Monarch's Reign. https://knightstemplar.co/king-louis-ix-defining-the-saintly-monarchs-reign/
+
 [^168]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^169]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^170]: Sainte-Chapelle - Wikipedia. https://en.wikipedia.org/wiki/Sainte-Chapelle
+
 [^171]: Unveiling the Majesty: King Louis IX's Unseen Legacy - Status Insights. https://statustest.amherst.edu/king-louis-ix
+
 [^172]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^173]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^174]: In Defense of King Louis IX - First Things. https://www.firstthings.com/web-exclusives/2020/07/in-defense-of-king-louis-ix
+
 [^175]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^176]: Why Decanonize (St.) King Louis IX? - Issuu. https://issuu.com/isnacreative/docs/ih_may-june_23/s/23399114
+
 [^177]: Why Decanonize (St.) King Louis IX? - Issuu. https://issuu.com/isnacreative/docs/ih_may-june_23/s/23399114
+
 [^178]: In Defense of King Louis IX - First Things. https://www.firstthings.com/web-exclusives/2020/07/in-defense-of-king-louis-ix
+
 [^179]: Unveiling the Majesty: King Louis IX's Unseen Legacy - Status Insights. https://statustest.amherst.edu/king-louis-ix
+
 [^180]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^181]: St. Louis, King of France - Information on the Saint of the Day - Vatican News. https://www.vaticannews.va/en/saints/08/25/st--louis---king-of-france-.html
+
 [^182]: Louis IX | King of France, Crusader, Saint | Britannica. https://www.britannica.com/biography/Louis-IX
+
 [^183]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^184]: King Louis IX: Defining the Saintly Monarch's Reign. https://knightstemplar.co/king-louis-ix-defining-the-saintly-monarchs-reign/
+
 [^185]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^186]: Parlement | French Supreme Court, History & Role | Britannica. https://www.britannica.com/topic/Parlement
+
 [^187]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^188]: Unveiling the Majesty: King Louis IX's Unseen Legacy - Status Insights. https://statustest.amherst.edu/king-louis-ix
+
 [^189]: Biography of Saint Louis IX, King of France (1214-1270). https://www.stlouiskingoffrance.org/our-church/saint-louis-ix/
+
 [^190]: Sainte-Chapelle - Wikipedia. https://en.wikipedia.org/wiki/Sainte-Chapelle
+
 [^191]: Treaty of Paris | 1259 | Britannica. https://www.britannica.com/event/Treaty-of-Paris-1259
+
 [^192]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^193]: Seventh Crusade - Wikipedia. https://en.wikipedia.org/wiki/Seventh_Crusade
+
 [^194]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^195]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^196]: When King Louis IX Burned the Talmud | Aish. https://aish.com/when-king-louis-ix-burned-the-talmud/
+
 [^197]: King Louis. https://www.jewishvirtuallibrary.org/king-louis
+
 [^198]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^199]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^200]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^201]: The Burning of the Talmud. https://www.jewishhistory.org/the-burning-of-the-talmud/
+
 [^202]: Seventh Crusade - World History Encyclopedia. https://www.worldhistory.org/Seventh_Crusade/
+
 [^203]: The Seventh Crusade: Capture, Ransom, Another Failure - Brewminate: A Bold Blend of News and Ideas. https://brewminate.com/the-seventh-crusade-capture-ransom-another-failure/
+
 [^204]: Seventh Crusade 1248: Louis IX's Failed Invasion Of Egypt. https://www.medievalchronicles.com/the-crusades/seventh-crusade/
+
 [^205]: Eighth Crusade - World History Encyclopedia. https://www.worldhistory.org/Eighth_Crusade/
+
 [^206]: Why Decanonize (St.) King Louis IX? - Issuu. https://issuu.com/isnacreative/docs/ih_may-june_23/s/23399114
+
 [^207]: Why Decanonize (St.) King Louis IX? - Issuu. https://issuu.com/isnacreative/docs/ih_may-june_23/s/23399114
+
 [^208]: Don't hide from the sins of St. Louis - America Magazine. https://www.americamagazine.org/politics-society/2020/07/06/dont-hide-sins-st-louis/
+
 [^209]: St. Louis IX of France. https://www.catholicnewsagency.com/saint/st-louis-ix-of-france-570
+
 [^210]: Louis IX - Peace, Reforms, Administration | Britannica. https://www.britannica.com/biography/Louis-IX/Achievement-of-peace-and-administrative-reforms
+
 [^211]: 1259 Treaty Of Paris: History, Terms, Aftermath - Wiki English. https://www.duhoctrungquoc.vn/wiki/en/Treaty_of_Paris_(1259)
+
 [^212]: Fatherly Advice From King St. Louis | liturgy guy. https://liturgyguy.com/2016/06/18/fatherly-advice-from-king-st-louis/
+
 [^213]: Fatherly Advice From King St. Louis | liturgy guy. https://liturgyguy.com/2016/06/18/fatherly-advice-from-king-st-louis/
+
 [^214]: Fatherly Advice From King St. Louis | liturgy guy. https://liturgyguy.com/2016/06/18/fatherly-advice-from-king-st-louis/
+
 [^215]: St. Louis IX of France. https://www.catholicnewsagency.com/saint/st-louis-ix-of-france-570
+
 [^216]: Fatherly Advice From King St. Louis | liturgy guy. https://liturgyguy.com/2016/06/18/fatherly-advice-from-king-st-louis/
+
 [^217]: When King Louis IX Tried to Wipe Out Judaism | Aish. https://aish.com/when-king-louis-ix-tried-to-wipe-out-judaism/
+
 [^218]: Fatherly Advice From King St. Louis | liturgy guy. https://liturgyguy.com/2016/06/18/fatherly-advice-from-king-st-louis/

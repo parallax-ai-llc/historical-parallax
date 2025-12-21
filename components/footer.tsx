@@ -2,11 +2,7 @@ import Link from "next/link";
 
 export function Footer() {
   return (
-    <footer
-      className="border-t border-border/40 py-6"
-      role="contentinfo"
-      aria-label="Site footer"
-    >
+    <footer className="border-t border-border/40 py-6" role="contentinfo" aria-label="Site footer">
       <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
         <p className="text-sm text-muted-foreground">
           Powered by{" "}
@@ -41,4 +37,3 @@ export function Footer() {
     </footer>
   );
 }
-

@@ -203,32 +203,32 @@ The difficulty of forming a proper assessment of Catherine's reign was compounde
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1729 | Born as Princess Sophia Augusta Frederica in Stettin, Prussia on May 2 |
-| 1744 | Arrived in Russia; converted to Russian Orthodoxy; betrothed to Peter III |
-| 1745 | Married Grand Duke Peter on August 21 |
-| 1754 | Gave birth to son Paul on September 20 |
+| Year | Event                                                                                                                                                           |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1729 | Born as Princess Sophia Augusta Frederica in Stettin, Prussia on May 2                                                                                          |
+| 1744 | Arrived in Russia; converted to Russian Orthodoxy; betrothed to Peter III                                                                                       |
+| 1745 | Married Grand Duke Peter on August 21                                                                                                                           |
+| 1754 | Gave birth to son Paul on September 20                                                                                                                          |
 | 1762 | Peter III became Emperor (January 5); Catherine led coup and seized power (July 9); Peter III died (July 17); Catherine formally crowned Empress (September 22) |
-| 1764 | Founded Smolny Institute; began acquiring art collection that would become the Hermitage Museum; placed Stanisław Poniatowski on Polish throne |
-| 1765 | Founded Free Economic Society |
-| 1767 | Published the Nakaz (Instruction); convened Legislative Commission |
-| 1768 | Underwent smallpox inoculation; First Russo-Turkish War began (1768-1774) |
-| 1770 | Russian victories at Battles of Chesma and Kagul against Ottoman Empire |
-| 1772 | First Partition of Poland |
-| 1773 | Pugachev's Rebellion began; established Toleration of Faiths Edict |
-| 1774 | Treaty of Küçük Kaynarca ended First Russo-Turkish War; Catherine's romantic relationship with Potemkin began; Pugachev captured |
-| 1775 | Pugachev executed in Moscow |
-| 1783 | Russia annexed Crimea |
-| 1785 | Issued Charter to the Nobility and Charter to the Towns |
-| 1786 | Adopted comprehensive plan for large-scale educational system |
-| 1787 | Second Russo-Turkish War began (1787-1792) |
-| 1790 | Alexander Radishchev arrested and exiled for criticizing serfdom |
-| 1791 | Grigory Potemkin died; Catherine deeply mourned |
-| 1792 | Treaty of Jassy ended Second Russo-Turkish War; Nikolay Novikov imprisoned |
-| 1793 | Second Partition of Poland |
-| 1795 | Third Partition of Poland; Poland ceased to exist as independent nation |
-| 1796 | Suffered stroke on November 16; died on November 17 at age 67 |
+| 1764 | Founded Smolny Institute; began acquiring art collection that would become the Hermitage Museum; placed Stanisław Poniatowski on Polish throne                  |
+| 1765 | Founded Free Economic Society                                                                                                                                   |
+| 1767 | Published the Nakaz (Instruction); convened Legislative Commission                                                                                              |
+| 1768 | Underwent smallpox inoculation; First Russo-Turkish War began (1768-1774)                                                                                       |
+| 1770 | Russian victories at Battles of Chesma and Kagul against Ottoman Empire                                                                                         |
+| 1772 | First Partition of Poland                                                                                                                                       |
+| 1773 | Pugachev's Rebellion began; established Toleration of Faiths Edict                                                                                              |
+| 1774 | Treaty of Küçük Kaynarca ended First Russo-Turkish War; Catherine's romantic relationship with Potemkin began; Pugachev captured                                |
+| 1775 | Pugachev executed in Moscow                                                                                                                                     |
+| 1783 | Russia annexed Crimea                                                                                                                                           |
+| 1785 | Issued Charter to the Nobility and Charter to the Towns                                                                                                         |
+| 1786 | Adopted comprehensive plan for large-scale educational system                                                                                                   |
+| 1787 | Second Russo-Turkish War began (1787-1792)                                                                                                                      |
+| 1790 | Alexander Radishchev arrested and exiled for criticizing serfdom                                                                                                |
+| 1791 | Grigory Potemkin died; Catherine deeply mourned                                                                                                                 |
+| 1792 | Treaty of Jassy ended Second Russo-Turkish War; Nikolay Novikov imprisoned                                                                                      |
+| 1793 | Second Partition of Poland                                                                                                                                      |
+| 1795 | Third Partition of Poland; Poland ceased to exist as independent nation                                                                                         |
+| 1796 | Suffered stroke on November 16; died on November 17 at age 67                                                                                                   |
 
 ---
 
@@ -267,124 +267,245 @@ Catherine's pragmatic philosophy of statecraft, emphasizing adaptability and sit
 ## References
 
 [^1]: Britannica. "Catherine the Great | Biography, Facts, Children, & Accomplishments." https://www.britannica.com/biography/Catherine-the-Great
+
 [^2]: Wikipedia. "Catherine the Great." https://en.wikipedia.org/wiki/Catherine_the_Great
+
 [^3]: World History Encyclopedia. "Catherine the Great." https://www.worldhistory.org/Catherine_the_Great/
+
 [^4]: Notable Biographies. "Catherine the Great Biography." https://www.notablebiographies.com/Ca-Ch/Catherine-the-Great.html
+
 [^5]: Saint Petersburg. "Biography of Catherine the Great of Russia." http://www.saint-petersburg.com/royal-family/catherine-the-great/
+
 [^6]: Kings College. "Empress Catherine II 'The Great' of Russia." https://departments.kings.edu/womens_history/catherine2.html
+
 [^7]: Presidential Library. "Catherine II the Great was born." https://www.prlib.ru/en/history/619212
+
 [^8]: AWPC. "Catherine the Great." https://awpc.cattcenter.iastate.edu/directory/catherine-the-great/
+
 [^9]: Town & Country. "The True Story of Catherine the Great's Rise to Power." https://www.townandcountrymag.com/society/tradition/a29460240/catherine-the-great-coup-killed-husband-true-story/
+
 [^10]: Sky HISTORY. "Catherine the Great and the coup that made her Empress." https://www.history.co.uk/articles/catherine-the-great-and-the-coup-that-made-her-empress
+
 [^11]: Smithsonian Magazine. "The True History Behind 'The Great' and Catherine the Great." https://www.smithsonianmag.com/history/true-story-catherine-great-180974863/
+
 [^12]: Explore the Archive. "The Military Coup That Put Catherine the Great on the Throne." https://explorethearchive.com/history-of-catherine-the-great
+
 [^13]: HISTORY. "Catherine the Great assumes power." https://www.history.com/this-day-in-history/july-9/catherine-the-great-assumes-power-russia
+
 [^14]: Presidential Library. "Russian palace revolution. Emperor Peter III dethroned, Catherine II ascends." https://www.prlib.ru/en/history/619370
+
 [^15]: Wikipedia. "Peter III of Russia." https://en.wikipedia.org/wiki/Peter_III_of_Russia
+
 [^16]: EBSCO Research. "Catherine the Great." https://www.ebsco.com/research-starters/history/catherine-great
+
 [^17]: Amazing Bible Timeline. "Catherine the Great Takes Over Rule 1762." https://amazingbibletimeline.com/blog/catherine-great-takes-rule-1762/
+
 [^18]: Britannica. "Catherine the Great - Legacy." https://www.britannica.com/biography/Catherine-the-Great/Legacy
+
 [^19]: British Academy. "How did Catherine the Great's reign shape Imperial Russian history?" https://www.thebritishacademy.ac.uk/blog/how-did-catherine-the-great-reign-shape-imperial-russian-history/
+
 [^20]: National Geographic. "Idealistic and tough, Catherine the Great sought to modernize Russia." https://www.nationalgeographic.com/history/article/who-was-catherine-great
+
 [^21]: Lumen Learning. "Catherine's Domestic Policies." https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/catherines-domestic-policies/
+
 [^22]: World History Encyclopedia. "Reforms of Catherine the Great." https://www.worldhistory.org/article/2342/reforms-of-catherine-the-great/
+
 [^23]: Fiveable. "Catherine the Great's Enlightenment-inspired policies." https://fiveable.me/key-terms/ap-euro/catherine-the-greats-enlightenment-inspired-policies
+
 [^24]: TheCollector. "Catherine the Great: An Enlightened Despot?" https://www.thecollector.com/catherine-the-great-enlightened-despot/
+
 [^25]: Study.com. "Catherine the Great | Biography & Accomplishments." https://study.com/learn/lesson/catherine-great-biography-accomplishments.html
+
 [^26]: Britannica. "Instruction of Catherine the Great." https://www.britannica.com/event/Instruction-of-Catherine-the-Great
+
 [^27]: OER Commons. "Enlightened or Despotic?: Russia under Catherine." https://oercommons.org/courseware/lesson/87907/student/?section=3
+
 [^28]: Medium. "Catherine the Great: Unveiling Her Enduring Legacy in Russian History." https://medium.com/@dorasuarez101/catherine-the-great-unveiling-her-enduring-legacy-in-russian-history-f3512d250c68
+
 [^29]: LinkedIn. "Lives in Parallel: The Reforms of Peter the Great and Catherine the Great." https://www.linkedin.com/pulse/lives-parallel-reforms-peter-great-catherine-john-fenzel-7tzle
+
 [^30]: Lumen Learning. "Catherine the Great and Russia." https://courses.lumenlearning.com/suny-fmcc-worldcivilization2/chapter/catherine-the-great-and-russia/
+
 [^31]: Lumen Learning. "Catherine the Great and Russia (HIS101)." https://courses.lumenlearning.com/suny-fmcc-boundless-worldhistory/chapter/catherine-the-great-and-russia/
+
 [^32]: Kent University. "Catherine the Great | The Age of Revolution, 1775-1848." https://blogs.kent.ac.uk/ageofrevolution/revolutionary-figures/catherine-the-great/
+
 [^33]: History Skills. "Catherine the Great: A tale of political ambition, forbidden love, and scandalous decisions." https://www.historyskills.com/classroom/modern-history/catherine-the-great-reading/
+
 [^34]: Town & Country. "Catherine the Great's Art Collection at the Hermitage." https://www.townandcountrymag.com/leisure/arts-and-culture/a38302158/hermitage-museum-catherine-the-great-art-collection/
+
 [^35]: Wikipedia. "Hermitage Museum." https://en.wikipedia.org/wiki/Hermitage_Museum
+
 [^36]: Hermitage Museum. "Treasures of Catherine the Great in the Hermitage Rooms." https://www.hermitagemuseum.org/what-s-on/6cebecc4cde1239ffa99e5706032745b?lng=en
+
 [^37]: NGV. "Masterpieces from the Hermitage: The Legacy of Catherine the Great." https://www.ngv.vic.gov.au/media_release/38286/
+
 [^38]: The Conversation. "Masterpieces from the Hermitage puts the great in Catherine the Great: review." https://theconversation.com/masterpieces-from-the-hermitage-puts-the-great-in-catherine-the-great-review-45435
+
 [^39]: NMWA. "Catherine the Great, or Catherine the Glutton?" https://nmwa.org/blog/from-the-collection/catherine-the-great-or-catherine-the-glutton/
+
 [^40]: Academia. "Catherine the Great's Patronage of the Arts and the Hermitage." https://www.academia.edu/43805948/Catherine_the_Great_s_Patronage_of_the_Arts_and_the_Hermitage
+
 [^41]: Knowledge Snacks. "Catherine The Great's Biggest Failure: Serfdom." https://www.knowledgesnacks.com/articles/catherine-the-greats-biggest-failure-serfdom/
+
 [^42]: Wikipedia. "Pugachev's Rebellion." https://en.wikipedia.org/wiki/Pugachev's_Rebellion
+
 [^43]: Illuminating Facts. "The 1773–1775 Pugachev Rebellion." https://illuminatingfacts.com/catherine-the-great-and-the-pugachev-rebellion/
+
 [^44]: Encyclopedia.com. "Catherine II (The Great)." https://www.encyclopedia.com/history/news-wires-white-papers-and-books/catherine-ii-great
+
 [^45]: EBSCO Research. "Pugachev's Revolt." https://www.ebsco.com/research-starters/history/pugachevs-revolt
+
 [^46]: Irene North. "Catherine the Great." https://irenenorth.com/writings/2020/03/28/catherine-the-great/
+
 [^47]: Lumen Learning. "France under Louis XV (Catherine's Foreign Policies)." https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/france-under-louis-xv/
+
 [^48]: Smithsonian Magazine. "When Catherine the Great Invaded the Crimea and Put the Rest of the World on Edge." https://www.smithsonianmag.com/history/when-catherine-great-invaded-crimea-and-put-rest-world-edge-180949969/
+
 [^49]: Wikipedia. "Russo-Turkish War (1768–1774)." https://en.wikipedia.org/wiki/Russo-Turkish_War_(1768–1774)
+
 [^50]: Britannica. "Russian Empire - Catherine the Great, Expansion, Reforms." https://www.britannica.com/place/Russian-Empire/Catherine-the-Great
+
 [^51]: World Atlas. "Catherine the Great's Expansion: Russian Imperial Ambitions." https://www.worldatlas.com/early-modern-era/catherine-the-great-s-expansion-russian-imperial-ambitions.html
+
 [^52]: Oxford Public International Law. "The First Polish Partition of 1772." https://opil.ouplaw.com/page/941
+
 [^53]: Fiveable. "Catherine the Great Definition - AP World History: Modern." https://fiveable.me/key-terms/ap-world/catherine-the-great
+
 [^54]: Anistor. "An Essay." http://www.anistor.gr/english/enback/e012.htm
+
 [^55]: Town & Country. "Who Was Grigory Potemkin, Catherine the Great's Lover?" https://www.townandcountrymag.com/society/tradition/a29355163/grigory-potemkin-catherine-the-great-affair-true-story/
+
 [^56]: Biography. "Catherine the Great: The True Story Behind Her Real and Rumored Love Affairs." https://www.biography.com/royalty/catherine-the-great-lovers
+
 [^57]: Unofficial Royalty. "Prince Grigory Alexandrovich Potemkin, Lover of Catherine II (the Great) of Russia." https://www.unofficialroyalty.com/prince-grigory-alexandrovich-potemkin-lover-of-catherine-ii-the-great-of-russia/
+
 [^58]: Esquire. "Catherine the Great Sex Life True Story." https://www.esquire.com/entertainment/tv/a29505224/catherine-the-great-hbo-helen-mirren-sex-life-grigory-potemkin-husband-true-story/
+
 [^59]: Wikipedia. "Grigory Potemkin." https://en.wikipedia.org/wiki/Grigory_Potemkin
+
 [^60]: Refinery29. "Inside Catherine The Great & Grigory Potemkin's Steamy Affair." https://www.refinery29.com/en-us/2019/10/8590160/what-happened-in-catherine-the-great-jason-clarke-military-character-relationship
+
 [^61]: Amazon. "Catherine the Great & Potemkin: The Imperial Love Affair." https://www.amazon.com/Catherine-Great-Potemkin-Imperial-Affair/dp/0525431969
+
 [^62]: Smithsonian Magazine. "The True History Behind 'The Great' and Catherine the Great." https://www.smithsonianmag.com/history/true-story-catherine-great-180974863/
+
 [^63]: Kings College. "Catherine the Great." https://departments.kings.edu/womens_history/oldpgs/ocatherine.html
+
 [^64]: Live Science. "Catherine the Great: Biography, Accomplishments & Death." https://www.livescience.com/42006-catherine-the-great.html
+
 [^65]: Britannica. "How did Catherine the Great die?" https://www.britannica.com/question/How-did-Catherine-the-Great-die
+
 [^66]: Sky HISTORY. "How did Catherine the Great really die?" https://www.history.co.uk/articles/how-did-catherine-the-great-really-die
+
 [^67]: Wikipedia. "Legends of Catherine the Great." https://en.wikipedia.org/wiki/Legends_of_Catherine_the_Great
+
 [^68]: Unofficial Royalty. "Catherine II (the Great), Empress of All Russia." https://www.unofficialroyalty.com/empress-catherine-ii-the-great-of-russia/
+
 [^69]: HistoryNet. "Catherine The Great." https://www.historynet.com/catherine-the-great/
+
 [^70]: Wikipedia. "Personality and reputation of Paul I of Russia." https://en.wikipedia.org/wiki/Personality_and_reputation_of_Paul_I_of_Russia
+
 [^71]: Wikipedia. "Paul I of Russia." https://en.wikipedia.org/wiki/Paul_I_of_Russia
+
 [^72]: Study.com. "The Rule of Paul I of Russia | Timeline & Significance." https://study.com/learn/lesson/paul-i-russia-timeline-significance.html
+
 [^73]: Quora. "Why didn't Catherine the Great keep her son Paul closer and train him as her successor?" https://www.quora.com/Why-didn-t-Catherine-the-Great-keep-her-son-Paul-closer-and-train-him-as-her-successor
+
 [^74]: Unofficial Royalty. "Paul I, Emperor of All Russia." https://www.unofficialroyalty.com/emperor-paul-i-of-russia/
+
 [^75]: Alexander Palace. "Paul I - Blog & Alexander Palace Time Machine." https://www.alexanderpalace.org/palace/Paul.php
+
 [^76]: HISTORY. "8 Things You Didn't Know About Catherine the Great." https://www.history.com/articles/8-things-you-didnt-know-about-catherine-the-great
+
 [^77]: Facts and Details. "TSARS AFTER CATHERINE THE GREAT." https://factsanddetails.com/russia/History/sub9_1c/entry-4939.html
+
 [^78]: Britannica. "Paul | Biography & Facts." https://www.britannica.com/biography/Paul-emperor-of-Russia
+
 [^79]: Britannica. "Russian Empire - Tsar Paul, Reforms, Expansion." https://www.britannica.com/place/Russian-Empire/Paul
+
 [^80]: TheTimelineGeek. "Catherine the Great Timeline 1729-1796." https://www.thetimelinegeek.com/catherine-the-great-1729-1796/
+
 [^81]: Encyclopedia.com. "Catherine II (1729–1796)." https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/catherine-ii-1729-1796
+
 [^82]: World History Encyclopedia. "Timeline: Catherine the Great." https://www.worldhistory.org/timeline/Catherine_the_Great/
+
 [^83]: Encyclopedia.com. "Catherine the Great 1729–1796." https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/catherine-great-1729-1796
+
 [^84]: Timetoast. "Timeline: Catherine II the Great." https://www.timetoast.com/timelines/catherine-ii-the-great
+
 [^85]: Encyclopedia.com. "Catherine II the Great (1729–1796)." https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/catherine-ii-great-1729-1796
+
 [^86]: Preceden. "Catherine the Great Timeline." https://www.preceden.com/timeline/catherine-the-great
+
 [^87]: Timetoast. "Catherine the Great (1729-1796) timeline." https://www.timetoast.com/timelines/catherine-the-great-1729-1796
+
 [^88]: Weebly. "Timeline - Catherine the Great." https://catherinezgreat.weebly.com/timeline.html
+
 [^89]: AZ Quotes. "TOP 25 QUOTES BY CATHERINE THE GREAT." https://www.azquotes.com/author/5836-Catherine_the_Great
+
 [^90]: BrainyQuote. "Catherine the Great Quotes." https://www.brainyquote.com/authors/catherine-the-great-quotes
+
 [^91]: QuoteFancy. "Top 35 Catherine the Great Quotes." https://quotefancy.com/catherine-the-great-quotes
+
 [^92]: Wikiquote. "Catherine II of Russia." https://en.wikiquote.org/wiki/Catherine_II_of_Russia
+
 [^93]: Goodreads. "Catherine II Quotes." https://www.goodreads.com/author/quotes/106549.Catherine_II
+
 [^94]: Lib Quotes. "Catherine the Great (20+ Sourced Quotes)." https://libquotes.com/catherine-the-great
+
 [^95]: Wisdomly. "36 Catherine The Great Quotes That Still Have Relevance." https://www.wisdomly.net/catherine-the-great-3707.php
+
 [^96]: AZ Quotes. "45 QUOTES BY CATHERINE THE GREAT [PAGE - 2]." https://www.azquotes.com/author/5836-Catherine_the_Great/1000
+
 [^97]: WonderfulQuote. "Catherine the Great Quotes." https://www.wonderfulquote.com/a/catherine-the-great-quotes
+
 [^98]: Goodreads. "Catherine the Great Quotes by Robert K. Massie." https://www.goodreads.com/work/quotes/15319151-catherine-the-great-portrait-of-a-woman
+
 [^99]: Wikimedia Commons. "Portraits of Catherine II of Russia." https://commons.wikimedia.org/wiki/Portraits_of_Catherine_II_of_Russia
+
 [^100]: Google Arts & Culture. "Catherine II: Russia's Empress of style." https://artsandculture.google.com/story/catherine-ii-russia-s-empress-of-style-the-state-tretyakov-gallery/pgVB5_qBeMhQIg?hl=en
+
 [^101]: Romanov Empire. "117 Catherine the great Images." https://www.romanovempire.org/topics/catherine+the+great
+
 [^102]: Wikipedia. "Portrait of Catherine, Duchess of Cambridge." https://en.wikipedia.org/wiki/Portrait_of_Catherine,_Duchess_of_Cambridge
+
 [^103]: RoyaltyNow. "What did Catherine the Great Look Like?" https://www.royaltynowstudios.com/blog/catherinethegreat
+
 [^104]: Getty Images. "Catherine The Great Of Russia Stock Photos." https://www.gettyimages.com/photos/catherine-the-great-of-russia
+
 [^105]: World History Encyclopedia. "Portrait of Catherine the Great (Detail)." https://www.worldhistory.org/image/21081/portrait-of-catherine-the-great-detail/
+
 [^106]: Wikimedia Commons. "File:Empress Catherine The Great 1787 (Mikhail Shibanov).JPG." https://commons.wikimedia.org/wiki/File:Empress_Catherine_The_Great_1787_(Mikhail_Shibanov).JPG
+
 [^107]: Royal Collection Trust. "Vigilius Eriksen (1722-82) - Catherine II (1729-96), Empress of Russia." https://www.rct.uk/collection/404774/catherine-ii-1729-96-empress-of-russia
+
 [^108]: Academia. "Catherine the Great and the Art of Collecting." https://www.academia.edu/41600716/Catherine_the_Great_and_the_Art_of_Collecting_Acquiring_the_Paintings_that_Founded_the_Hermitage_by_Cynthia_Hyla_Whittaker
+
 [^109]: Art Blart. "Masterpieces from the Hermitage: The Legacy of Catherine the Great." https://artblart.com/tag/masterpieces-from-the-hermitage-the-legacy-of-catherine-the-great/
+
 [^110]: Hermitage Museum. "Catherine the Great – Empress of All the Russias." https://www.hermitagemuseum.org/what-s-on/3b3b58ce18fab9fff1eaa30f2733ba7c?lng=en
+
 [^111]: British Academy. "How did Catherine the Great's reign shape Imperial Russian history?" https://www.thebritishacademy.ac.uk/blog/how-did-catherine-the-great-reign-shape-imperial-russian-history/
+
 [^112]: UCF. "Catherine the Great and Her Empire in British and..." https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=2203&context=honorstheses
+
 [^113]: UCSD. "Catherine the Great and the Development..." https://escholarship.org/content/qt6fc7r596/qt6fc7r596_noSplash_65c36bd887ab74dee275df1d8c3386e4.pdf
+
 [^114]: HistoryHub. "Catherine the Great and the Infancy of the American Colonies." https://historyhub.info/catherine-the-great-and-the-infancy-of-the-american-colonies/
+
 [^115]: Reviews in History. "Catherine the Great." https://reviews.history.ac.uk/review/881/
+
 [^116]: AZ Quotes. "Catherine the Great Quote - Autocrat." https://www.azquotes.com/author/5836-Catherine_the_Great
+
 [^117]: AZ Quotes. "Catherine the Great Quote - Power." https://www.azquotes.com/author/5836-Catherine_the_Great
+
 [^118]: AZ Quotes. "Catherine the Great Quote - Philosophers." https://www.azquotes.com/author/5836-Catherine_the_Great
+
 [^119]: AZ Quotes. "Catherine the Great Quote - Praise." https://www.azquotes.com/author/5836-Catherine_the_Great
+
 [^120]: AZ Quotes. "Catherine the Great Quote - Forgiveness." https://www.azquotes.com/author/5836-Catherine_the_Great
+
 [^121]: AZ Quotes. "Catherine the Great Quote - Courage." https://www.azquotes.com/author/5836-Catherine_the_Great
+
 [^122]: AZ Quotes. "Catherine the Great Quote - Politics." https://www.azquotes.com/author/5836-Catherine_the_Great

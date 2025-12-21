@@ -117,27 +117,27 @@ Perhaps most damning is the assessment that Commodus's behavior degraded the dig
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 161 | Born on 31 August in Lanuvium |
-| 166 | Made Caesar at age five |
-| 175 | Accompanied father to Danubian front |
-| 177 | Elevated to Augustus (co-emperor) on 27 November |
-| 178 | Married to Bruttia Crispina |
-| 180 | Father Marcus Aurelius dies; becomes sole emperor on 17 March |
-| 180 | Concludes peace with Germanic tribes |
-| 180 | Returns to Rome in October |
-| 182 | Survives assassination conspiracy led by sister Lucilla |
-| 182 | Executes conspirators and exiles Lucilla |
-| 185 | Praetorian prefect Perennis executed |
-| 185 | Cleander becomes chamberlain and de facto ruler |
-| 188 | Bruttia Crispina exiled and executed |
-| 190 | Cleander executed following riots in Rome |
-| 191 | Rome damaged by major fire |
-| 191 | Increasingly identifies himself as Hercules incarnate |
-| 192 | Renames Rome "Colonia Commodiana" |
-| 192 | Announces plan to become consul as gladiator on 1 January |
-| 192 | Assassinated on 31 December by Narcissus |
+| Year | Event                                                         |
+| ---- | ------------------------------------------------------------- |
+| 161  | Born on 31 August in Lanuvium                                 |
+| 166  | Made Caesar at age five                                       |
+| 175  | Accompanied father to Danubian front                          |
+| 177  | Elevated to Augustus (co-emperor) on 27 November              |
+| 178  | Married to Bruttia Crispina                                   |
+| 180  | Father Marcus Aurelius dies; becomes sole emperor on 17 March |
+| 180  | Concludes peace with Germanic tribes                          |
+| 180  | Returns to Rome in October                                    |
+| 182  | Survives assassination conspiracy led by sister Lucilla       |
+| 182  | Executes conspirators and exiles Lucilla                      |
+| 185  | Praetorian prefect Perennis executed                          |
+| 185  | Cleander becomes chamberlain and de facto ruler               |
+| 188  | Bruttia Crispina exiled and executed                          |
+| 190  | Cleander executed following riots in Rome                     |
+| 191  | Rome damaged by major fire                                    |
+| 191  | Increasingly identifies himself as Hercules incarnate         |
+| 192  | Renames Rome "Colonia Commodiana"                             |
+| 192  | Announces plan to become consul as gladiator on 1 January     |
+| 192  | Assassinated on 31 December by Narcissus                      |
 
 ---
 
@@ -158,108 +158,213 @@ Perhaps most damning is the assessment that Commodus's behavior degraded the dig
 ## References
 
 [^1]: Birley, Anthony R. "Marcus Aurelius: A Biography." Routledge, 2000, p. 247.
+
 [^2]: Grant, Michael. "The Antonines: The Roman Empire in Transition." Routledge, 1994, p. 89.
+
 [^3]: McLynn, Frank. "Marcus Aurelius: A Life." Da Capo Press, 2009, p. 401.
+
 [^4]: Champlin, Edward. "Fronto and Antonine Rome." Harvard University Press, 1980, p. 156.
+
 [^5]: Cassius Dio. "Roman History." Book 72.1, Loeb Classical Library, 1927.
+
 [^6]: Historia Augusta. "Life of Marcus Aurelius." 27.11, Loeb Classical Library.
+
 [^7]: Hekster, Olivier. "Commodus: An Emperor at the Crossroads." Amsterdam University Press, 2002, p. 23.
+
 [^8]: Herodian. "History of the Empire." Book 1.6, Loeb Classical Library.
+
 [^9]: Syme, Ronald. "Emperors and Biography: Studies in the Historia Augusta." Oxford University Press, 1971, p. 142.
+
 [^10]: Birley, Anthony R. "Marcus Aurelius: A Biography." Routledge, 2000, p. 259.
+
 [^11]: Cassius Dio. "Roman History." Book 71.33-34.
+
 [^12]: Hekster, Olivier. "Commodus: An Emperor at the Crossroads." Amsterdam University Press, 2002, p. 45.
+
 [^13]: Goldsworthy, Adrian. "How Rome Fell." Yale University Press, 2009, p. 74.
+
 [^14]: Historia Augusta. "Life of Commodus." 3.5.
+
 [^15]: Grosso, Fulvio. "La lotta politica al tempo di Commodo." Accademia nazionale dei Lincei, 1964, p. 28.
+
 [^16]: Herodian. "History of the Empire." Book 1.8.
+
 [^17]: Potter, David S. "The Roman Empire at Bay, AD 180-395." Routledge, 2004, p. 91.
+
 [^18]: Hekster, Olivier. "Fighting for Rome: The Emperor as a Military Leader." Ancient Warfare, 2014, p. 234.
+
 [^19]: Southern, Pat. "The Roman Empire from Severus to Constantine." Routledge, 2001, p. 12.
+
 [^20]: Campbell, Brian. "The Roman Army, 31 BC-AD 337." Routledge, 1994, p. 167.
+
 [^21]: Grosso, Fulvio. "La lotta politica al tempo di Commodo." Accademia nazionale dei Lincei, 1964, p. 89-112.
+
 [^22]: Harl, Kenneth W. "Coinage in the Roman Economy, 300 B.C. to A.D. 700." Johns Hopkins University Press, 1996, p. 145.
+
 [^23]: Kyle, Donald G. "Spectacles of Death in Ancient Rome." Routledge, 1998, p. 178.
+
 [^24]: Cassius Dio. "Roman History." Book 72.4.
+
 [^25]: Campbell, Brian. "The Emperor and the Roman Army." Oxford University Press, 1984, p. 203.
+
 [^26]: Claridge, Amanda. "Rome: An Oxford Archaeological Guide." Oxford University Press, 2010, p. 267.
+
 [^27]: Historia Augusta. "Life of Commodus." 8.6-9.
+
 [^28]: Hekster, Olivier. "Commodus-Hercules: The People's Princeps." Script Classics, 2001, p. 56-73.
+
 [^29]: Gradel, Ittai. "Emperor Worship and Roman Religion." Oxford University Press, 2002, p. 189.
+
 [^30]: Frend, W.H.C. "Martyrdom and Persecution in the Early Church." Blackwell, 1965, p. 267.
+
 [^31]: Gibbon, Edward. "The Decline and Fall of the Roman Empire." Volume 1, Chapter 4, 1776.
+
 [^32]: Cassius Dio. "Roman History." Book 72.17-18.
+
 [^33]: Herodian. "History of the Empire." Book 1.15.
+
 [^34]: Wiedemann, Thomas. "Emperors and Gladiators." Routledge, 1992, p. 128.
+
 [^35]: Historia Augusta. "Life of Commodus." 9.2.
+
 [^36]: Cassius Dio. "Roman History." Book 72.15.
+
 [^37]: Hekster, Olivier. "Commodus-Hercules: The People's Princeps." Script Classics, 2001, p. 61.
+
 [^38]: Potter, David S. "The Roman Empire at Bay, AD 180-395." Routledge, 2004, p. 93.
+
 [^39]: Grosso, Fulvio. "La lotta politica al tempo di Commodo." Accademia nazionale dei Lincei, 1964, p. 234-267.
+
 [^40]: Cassius Dio. "Roman History." Book 72.12.
+
 [^41]: Herodian. "History of the Empire." Book 1.12.
+
 [^42]: Duncan-Jones, Richard. "Money and Government in the Roman Empire." Cambridge University Press, 1994, p. 167.
+
 [^43]: Cassius Dio. "Roman History." Book 72.14.
+
 [^44]: Harl, Kenneth W. "Coinage in the Roman Economy, 300 B.C. to A.D. 700." Johns Hopkins University Press, 1996, p. 146.
+
 [^45]: Lo Cascio, Elio. "The Early Roman Empire: The State and the Economy." Cambridge Economic History of the Greco-Roman World, 2007, p. 634.
+
 [^46]: Talbert, Richard J.A. "The Senate of Imperial Rome." Princeton University Press, 1984, p. 378.
+
 [^47]: Hekster, Olivier. "Commodus: An Emperor at the Crossroads." Amsterdam University Press, 2002, p. 67-89.
+
 [^48]: Millar, Fergus. "The Emperor in the Roman World." Cornell University Press, 1977, p. 456.
+
 [^49]: Historia Augusta. "Life of Commodus." 5.11.
+
 [^50]: Levick, Barbara. "Women and the Roman Succession." Oxford Classical Dictionary, 1996, p. 89.
+
 [^51]: Cassius Dio. "Roman History." Book 72.4.6.
+
 [^52]: Cassius Dio. "Roman History." Book 72.16.5.
+
 [^53]: Herodian. "History of the Empire." Book 1.16-17.
+
 [^54]: Frend, W.H.C. "Martyrdom and Persecution in the Early Church." Blackwell, 1965, p. 268.
+
 [^55]: Cassius Dio. "Roman History." Book 72.22.
+
 [^56]: Herodian. "History of the Empire." Book 1.7.
+
 [^57]: Historia Augusta. "Life of Commodus." 11.
+
 [^58]: Cassius Dio. "Roman History." Book 72.17.
+
 [^59]: Winterling, Aloys. "Politics and Society in Imperial Rome." Wiley-Blackwell, 2009, p. 167.
+
 [^60]: Potter, David S. "The Roman Empire at Bay, AD 180-395." Routledge, 2004, p. 95.
+
 [^61]: Hekster, Olivier. "Commodus-Hercules: The People's Princeps." Script Classics, 2001, p. 72.
+
 [^62]: Toner, Jerry. "Roman Disasters." Polity Press, 2013, p. 134.
+
 [^63]: Gibbon, Edward. "The Decline and Fall of the Roman Empire." Volume 1, Chapter 4, 1776.
+
 [^64]: Goldsworthy, Adrian. "How Rome Fell." Yale University Press, 2009, p. 73-78.
+
 [^65]: Birley, Anthony R. "Septimius Severus: The African Emperor." Routledge, 1999, p. 89-112.
+
 [^66]: Campbell, Brian. "The Emperor and the Roman Army." Oxford University Press, 1984, p. 378.
+
 [^67]: Potter, David S. "The Roman Empire at Bay, AD 180-395." Routledge, 2004, p. 103.
+
 [^68]: Cassius Dio. "Roman History." Book 72.36.4.
+
 [^69]: Herodian. "History of the Empire." Book 1.1.
+
 [^70]: Historia Augusta. "Life of Commodus." Throughout.
+
 [^71]: Varner, Eric R. "Mutilation and Transformation: Damnatio Memoriae and Roman Imperial Portraiture." Brill, 2004, p. 123.
+
 [^72]: Cyrino, Monica S. "Gladiator: Film and History." Blackwell, 2005, p. 45-67.
+
 [^73]: Winkler, Martin M. "Gladiator and Contemporary Society." Oxford University Press, 2004, p. 89.
+
 [^74]: Solomon, Jon. "The Ancient World in Cinema." Yale University Press, 2001, p. 234.
+
 [^75]: Hekster, Olivier. "Commodus: An Emperor at the Crossroads." Amsterdam University Press, 2002, p. 156-178.
+
 [^76]: Horst, Pieter W. van der. "Ancient Jewish Epitaphs." Peeters, 1991, p. 89.
+
 [^77]: Hekster, Olivier. "Commodus: An Emperor at the Crossroads." Amsterdam University Press, 2002, Introduction.
+
 [^78]: Southern, Pat. "The Roman Empire from Severus to Constantine." Routledge, 2001, p. 13.
+
 [^79]: Campbell, Brian. "The Roman Army, 31 BC-AD 337." Routledge, 1994, p. 168.
+
 [^80]: Hekster, Olivier. "Commodus-Hercules: The People's Princeps." Script Classics, 2001, p. 71.
+
 [^81]: Kyle, Donald G. "Spectacles of Death in Ancient Rome." Routledge, 1998, p. 179.
+
 [^82]: Winterling, Aloys. "Politics and Society in Imperial Rome." Wiley-Blackwell, 2009, p. 169.
+
 [^83]: Grosso, Fulvio. "La lotta politica al tempo di Commodo." Accademia nazionale dei Lincei, 1964, p. 98.
+
 [^84]: Millar, Fergus. "The Emperor in the Roman World." Cornell University Press, 1977, p. 457.
+
 [^85]: Potter, David S. "The Roman Empire at Bay, AD 180-395." Routledge, 2004, p. 94.
+
 [^86]: Toner, Jerry. "Roman Disasters." Polity Press, 2013, p. 135.
+
 [^87]: Barrett, Anthony A. "Caligula: The Corruption of Power." Yale University Press, 1989, p. 267 (comparative analysis).
+
 [^88]: Hopkins, Keith. "Death and Renewal." Cambridge University Press, 1983, p. 234.
+
 [^89]: Goldsworthy, Adrian. "How Rome Fell." Yale University Press, 2009, p. 76.
+
 [^90]: Potter, David S. "The Roman Empire at Bay, AD 180-395." Routledge, 2004, p. 97.
+
 [^91]: Weber, Max. "Economy and Society." University of California Press, 1978, p. 1123.
+
 [^92]: Campbell, Brian. "The Emperor and the Roman Army." Oxford University Press, 1984, p. 204.
+
 [^93]: Goldsworthy, Adrian. "The Roman Army at War, 100 BC-AD 200." Oxford University Press, 1996, p. 267.
+
 [^94]: Birley, Anthony R. "Septimius Severus: The African Emperor." Routledge, 1999, p. 92.
+
 [^95]: Harl, Kenneth W. "Coinage in the Roman Economy, 300 B.C. to A.D. 700." Johns Hopkins University Press, 1996, p. 147.
+
 [^96]: Duncan-Jones, Richard. "Money and Government in the Roman Empire." Cambridge University Press, 1994, p. 168.
+
 [^97]: Lo Cascio, Elio. "The Early Roman Empire: The State and the Economy." Cambridge Economic History of the Greco-Roman World, 2007, p. 635.
+
 [^98]: Millar, Fergus. "The Emperor in the Roman World." Cornell University Press, 1977, p. 458.
+
 [^99]: Wiedemann, Thomas. "Emperors and Gladiators." Routledge, 1992, p. 129.
+
 [^100]: Potter, David S. "The Roman Empire at Bay, AD 180-395." Routledge, 2004, p. 98.
+
 [^101]: Goldsworthy, Adrian. "How Rome Fell." Yale University Press, 2009, p. 77.
+
 [^102]: Cassius Dio. "Roman History." Book 72.15.
+
 [^103]: Historia Augusta. "Life of Commodus." 3.9.
+
 [^104]: Herodian. "History of the Empire." Book 1.15.
+
 [^105]: Cassius Dio. "Roman History." Book 72.36.4.
+
 [^106]: Gibbon, Edward. "The Decline and Fall of the Roman Empire." Volume 1, Chapter 4, 1776.

@@ -149,33 +149,33 @@ Political scientists studying democratic transitions view Pinochet's regime as d
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1915 | Born November 25 in Valparaíso, Chile |
-| 1931 | Entered Military School in Santiago |
-| 1935 | Graduated with rank of Second Lieutenant |
-| 1943 | Married Lucía Hiriart Rodríguez on January 30 |
-| 1949 | Entered Academia de Guerra (War Academy) |
-| 1956 | Served on Chilean military mission in Washington, D.C. |
-| 1968 | Published "Geopolitica" |
-| 1969 | Promoted to general; commanded Santiago garrison |
-| 1971 | Rose to Division General |
-| 1972 | Appointed General Chief of Staff of the Army |
-| 1973 | Appointed Commander-in-Chief of Army (August 23); Led military coup (September 11); Named President (September 13) |
-| 1974 | Military junta declared him President of Chile |
-| 1973-1977 | DINA conducted widespread torture and disappearances |
-| 1975 | Operation Condor officially established (November 25) |
-| 1976 | Orlando Letelier assassinated in Washington, D.C. (September 21) |
-| 1980 | New constitution approved by plebiscite (September 11) |
-| 1981 | Became de jure President under new constitution |
-| 1981-1982 | Severe economic crisis; GDP fell 15% |
-| 1988 | Lost plebiscite on October 5 (56% voted "No") |
-| 1990 | Left presidency on March 11; Patricio Aylwin inaugurated |
-| 1998 | Retired as Commander-in-Chief (March 10); became Senator-for-Life; Arrested in London (October 16) |
-| 2000 | Released from British custody on medical grounds; returned to Chile (March 3) |
-| 2002 | Indicted for Caravan of Death (December) |
-| 2004 | Placed under house arrest by Chilean courts |
-| 2006 | Died December 10 in Santiago without being convicted |
+| Year      | Event                                                                                                              |
+| --------- | ------------------------------------------------------------------------------------------------------------------ |
+| 1915      | Born November 25 in Valparaíso, Chile                                                                              |
+| 1931      | Entered Military School in Santiago                                                                                |
+| 1935      | Graduated with rank of Second Lieutenant                                                                           |
+| 1943      | Married Lucía Hiriart Rodríguez on January 30                                                                      |
+| 1949      | Entered Academia de Guerra (War Academy)                                                                           |
+| 1956      | Served on Chilean military mission in Washington, D.C.                                                             |
+| 1968      | Published "Geopolitica"                                                                                            |
+| 1969      | Promoted to general; commanded Santiago garrison                                                                   |
+| 1971      | Rose to Division General                                                                                           |
+| 1972      | Appointed General Chief of Staff of the Army                                                                       |
+| 1973      | Appointed Commander-in-Chief of Army (August 23); Led military coup (September 11); Named President (September 13) |
+| 1974      | Military junta declared him President of Chile                                                                     |
+| 1973-1977 | DINA conducted widespread torture and disappearances                                                               |
+| 1975      | Operation Condor officially established (November 25)                                                              |
+| 1976      | Orlando Letelier assassinated in Washington, D.C. (September 21)                                                   |
+| 1980      | New constitution approved by plebiscite (September 11)                                                             |
+| 1981      | Became de jure President under new constitution                                                                    |
+| 1981-1982 | Severe economic crisis; GDP fell 15%                                                                               |
+| 1988      | Lost plebiscite on October 5 (56% voted "No")                                                                      |
+| 1990      | Left presidency on March 11; Patricio Aylwin inaugurated                                                           |
+| 1998      | Retired as Commander-in-Chief (March 10); became Senator-for-Life; Arrested in London (October 16)                 |
+| 2000      | Released from British custody on medical grounds; returned to Chile (March 3)                                      |
+| 2002      | Indicted for Caravan of Death (December)                                                                           |
+| 2004      | Placed under house arrest by Chilean courts                                                                        |
+| 2006      | Died December 10 in Santiago without being convicted                                                               |
 
 ---
 
@@ -200,102 +200,201 @@ Political scientists studying democratic transitions view Pinochet's regime as d
 ## References
 
 [^1]: Britannica. "Augusto Pinochet | Biography, General, Dictatorship, & Facts." https://www.britannica.com/biography/Augusto-Pinochet
+
 [^2]: HISTORY. "Augusto Pinochet - Chile, General & Dictator." https://www.history.com/articles/augusto-pinochet
+
 [^3]: PBS NewsHour. "A half-century after Pinochet's coup, some Chileans remember the brutal dictatorship fondly." https://www.pbs.org/newshour/world/a-half-century-after-pinochets-coup-some-chileans-remember-the-brutal-dictatorship-fondly
+
 [^4]: Human Rights Watch. "The Pinochet Precedent: How Victims Can Pursue Human Rights Criminals Abroad." https://www.hrw.org/report/1998/11/01/pinochet-precedent/how-victims-can-pursue-human-rights-criminals-abroad
+
 [^5]: Wikipedia. "Augusto Pinochet." https://en.wikipedia.org/wiki/Augusto_Pinochet
+
 [^6]: EBSCO Research. "Augusto Pinochet Ugarte." https://www.ebsco.com/research-starters/biography/augusto-pinochet-ugarte
+
 [^7]: LiquiSearch. "Augusto Pinochet - Early Life and Military Career." https://www.liquisearch.com/augusto_pinochet/early_life_and_military_career
+
 [^8]: Spartacus Educational. "Augusto Pinochet." https://spartacus-educational.com/COLDpinochet.htm
+
 [^9]: Academic Block. "Augusto Pinochet: Biography, Dictatorship and Ideology." https://www.academicblock.com/history/dictators/augusto-pinochet
+
 [^10]: EBSCO Research. "Augusto Pinochet Ugarte."
+
 [^11]: Wikipedia. "Augusto Pinochet."
+
 [^12]: EBSCO Research. "Augusto Pinochet Ugarte."
+
 [^13]: Wikipedia. "Augusto Pinochet."
+
 [^14]: Britannica. "Augusto Pinochet."
+
 [^15]: EBSCO Research. "Augusto Pinochet Ugarte."
+
 [^16]: Academic Block. "Augusto Pinochet: Biography, Dictatorship and Ideology."
+
 [^17]: EBSCO Research. "Augusto Pinochet Ugarte."
+
 [^18]: Britannica. "Augusto Pinochet."
+
 [^19]: Wikipedia. "Augusto Pinochet."
+
 [^20]: Wikipedia. "Augusto Pinochet."
+
 [^21]: Wikipedia. "1973 Chilean coup d'état." https://en.wikipedia.org/wiki/1973_Chilean_coup_d'%C3%A9tat
+
 [^22]: Britannica. "Augusto Pinochet."
+
 [^23]: Wikipedia. "Augusto Pinochet."
+
 [^24]: U.S. Department of State. "The Allende Years and the Pinochet Coup, 1969–1973." https://history.state.gov/milestones/1969-1976/allende
+
 [^25]: Wikipedia. "Chicago Boys." https://en.wikipedia.org/wiki/Chicago_Boys
+
 [^26]: The Nation. "How Pinochet's Chile Became a Laboratory for Neoliberalism." https://www.thenation.com/article/world/chicago-boys-chile-neoliberalism/
+
 [^27]: Jacobin. "How the Chicago Boys Broke Chile." https://jacobin.com/2023/05/chile-chicago-boys-neoliberalism-friedman-allende-pinochet
+
 [^28]: The Boar. "Chile's neoliberal experiment: How the Chicago Boys reshaped an economy." https://theboar.org/2025/12/chiles-neoliberal-experiment-how-the-chicago-boys-reshaped-an-economy/
+
 [^29]: ProMarket. "The Complicated Legacy of the 'Chicago Boys' in Chile." https://www.promarket.org/2021/09/12/chicago-boys-chile-friedman-neoliberalism/
+
 [^30]: Economic History. "Chile's Economic Transformation Under Pinochet and the Chicago Boys (1973–1990)." https://www.econ-history.com/case-studies/chiles-economic-transformation-under-pinochet-and-the-chicago-boys-1973-1990/
+
 [^31]: Economic History. "Chile's Economic Transformation Under Pinochet and the Chicago Boys."
+
 [^32]: Economic History. "Chile's Economic Transformation Under Pinochet and the Chicago Boys."
+
 [^33]: Cambridge Core. "The Influence of Pinochet on the Chilean Miracle." https://www.cambridge.org/core/journals/latin-american-research-review/article/influence-of-pinochet-on-the-chilean-miracle/4DB3D0E252A7B70AC00E1AEC7E3F6A20
+
 [^34]: Wikipedia. "1980 Chilean constitutional referendum." https://en.wikipedia.org/wiki/1980_Chilean_constitutional_referendum
+
 [^35]: Harvard International Review. "From Dictatorship to Democracy: Chile's Outdated Constitution." https://hir.harvard.edu/from-dictatorship-to-democracy/
+
 [^36]: A-Z Quotes. "Augusto Pinochet Quotes." https://www.azquotes.com/author/11690-Augusto_Pinochet
+
 [^37]: Wikipedia. "Human rights abuses in Chile under Augusto Pinochet." https://en.wikipedia.org/wiki/Human_rights_abuses_in_Chile_under_Augusto_Pinochet
+
 [^38]: Wikipedia. "Human rights abuses in Chile under Augusto Pinochet."
+
 [^39]: Amnesty International. "Chile: 50 years since the coup d'état." https://www.amnesty.org/en/latest/news/2023/09/chile-50-years-coup-historical-memory/
+
 [^40]: Wikipedia. "Human rights abuses in Chile under Augusto Pinochet."
+
 [^41]: Wikipedia. "Human rights abuses in Chile under Augusto Pinochet."
+
 [^42]: Wikipedia. "Human rights abuses in Chile under Augusto Pinochet."
+
 [^43]: National Security Archive. "The Pinochet Regime Declassified: DINA." https://nsarchive.gwu.edu/briefing-book/chile/2024-06-18/pinochet-regime-declassified-dina-gestapo-type-police-force-chile
+
 [^44]: National Security Archive. "The Pinochet Regime Declassified: DINA."
+
 [^45]: Wikipedia. "Dirección de Inteligencia Nacional." https://en.wikipedia.org/wiki/Direcci%C3%B3n_de_Inteligencia_Nacional
+
 [^46]: Wikipedia. "Caravan of Death." https://en.wikipedia.org/wiki/Caravan_of_Death
+
 [^47]: Wikipedia. "Caravan of Death."
+
 [^48]: Wikipedia. "Caravan of Death."
+
 [^49]: Wikipedia. "Operation Condor." https://en.wikipedia.org/wiki/Operation_Condor
+
 [^50]: National Security Archive. "Operation Condor: A Network of Transnational Repression 50 Years Later." https://nsarchive.gwu.edu/briefing-book/southern-cone/2025-11-26/operation-condor-network-transnational-repression-50-years
+
 [^51]: Wikipedia. "Operation Condor."
+
 [^52]: National Security Archive. "The Pinochet Regime Declassified: DINA."
+
 [^53]: Wikipedia. "Operation Condor."
+
 [^54]: Jacobin. "How the Chicago Boys Broke Chile."
+
 [^55]: Economic History. "Chile's Economic Transformation Under Pinochet and the Chicago Boys."
+
 [^56]: González and Prem. "The Legacy of the Pinochet Regime in Chile." https://fagonza4.github.io/legacy.pdf
+
 [^57]: Wikipedia. "Augusto Pinochet."
+
 [^58]: Wikipedia. "Lucía Hiriart." https://en.wikipedia.org/wiki/Luc%C3%ADa_Hiriart
+
 [^59]: Wikipedia. "Lucía Hiriart."
+
 [^60]: Wikipedia. "Lucía Pinochet." https://en.wikipedia.org/wiki/Luc%C3%ADa_Pinochet
+
 [^61]: NACLA. "Doña Lucía Hiriart: First Lady of the Pinochet Dictatorship." https://dev.nacla.org/dona-lucia-hiriart-first-lady-pinochet-dictatorship
+
 [^62]: Wikiquote. "Augusto Pinochet." https://en.wikiquote.org/wiki/Augusto_Pinochet
+
 [^63]: BrainyQuote. "Augusto Pinochet Quotes." https://www.brainyquote.com/authors/augusto-pinochet-quotes
+
 [^64]: The Irish Times. "Pinochet's family arrested in fraud inquiry." https://www.irishtimes.com/news/pinochet-s-family-arrested-in-fraud-inquiry-1.769255
+
 [^65]: PBS NewsHour. "A half-century after Pinochet's coup."
+
 [^66]: PBS NewsHour. "A half-century after Pinochet's coup."
+
 [^67]: PBS NewsHour. "A half-century after Pinochet's coup."
+
 [^68]: Britannica. "Augusto Pinochet."
+
 [^69]: Colorado Arts and Sciences Magazine. "'The dictatorship left a lot of scars.'" https://www.colorado.edu/asmagazine/2023/09/26/dictatorship-left-lot-scars
+
 [^70]: SAGE Journals. "The Anti-Left Legacy of the Pinochet Dictatorship." https://journals.sagepub.com/doi/10.1177/00104140251381768
+
 [^71]: Amnesty International. "Chile: 50 years since the coup d'état."
+
 [^72]: Amnesty International. "Chile: 50 years since the coup d'état."
+
 [^73]: The Conversation. "General Pinochet arrest: 20 years on, here's how it changed global justice." https://theconversation.com/general-pinochet-arrest-20-years-on-heres-how-it-changed-global-justice-104806
+
 [^74]: FIBGAR. "Pinochet's arrest: a milestone for Universal Jurisdiction." https://fibgar.es/en/pinochets-arrest-a-milestone-for-universal-jurisdiction/
+
 [^75]: ProMarket. "The Complicated Legacy of the 'Chicago Boys' in Chile."
+
 [^76]: ProMarket. "The Complicated Legacy of the 'Chicago Boys' in Chile."
+
 [^77]: Hoover Institution. "What Pinochet Did for Chile." https://www.hoover.org/research/what-pinochet-did-chile
+
 [^78]: Cambridge Core. "The Influence of Pinochet on the Chilean Miracle."
+
 [^79]: PBS NewsHour. "A half-century after Pinochet's coup."
+
 [^80]: Wikipedia. "Chilean transition to democracy." https://en.wikipedia.org/wiki/Chilean_transition_to_democracy
+
 [^81]: PBS NewsHour. "A half-century after Pinochet's coup."
+
 [^82]: Amnesty International. "Chile: The case against Augusto Pinochet." https://www.amnesty.org/en/wp-content/uploads/2021/06/amr220042008en.pdf
+
 [^83]: Wikiquote. "Augusto Pinochet."
+
 [^84]: González and Prem. "The Legacy of the Pinochet Regime in Chile."
+
 [^85]: Princeton University Press. "The Chile Project." https://press.princeton.edu/books/hardcover/9780691208626/the-chile-project
+
 [^86]: Economic History. "Chile's Economic Transformation Under Pinochet and the Chicago Boys."
+
 [^87]: The Nation. "How Pinochet's Chile Became a Laboratory for Neoliberalism."
+
 [^88]: Jacobin. "How the Chicago Boys Broke Chile."
+
 [^89]: Dollars & Sense. "Is Chile a Neoliberal Success?" https://www.dollarsandsense.org/archives/2004/0904cypher.html
+
 [^90]: National Security Archive. "Operation Condor: A Network of Transnational Repression 50 Years Later."
+
 [^91]: Wikipedia. "Operation Condor."
+
 [^92]: Duke University Press. "Reckoning with Pinochet: The Memory Question in Democratic Chile." https://www.dukeupress.edu/reckoning-with-pinochet
+
 [^93]: González and Prem. "The Legacy of the Pinochet Regime in Chile."
+
 [^94]: Wikiquote. "Augusto Pinochet."
+
 [^95]: A-Z Quotes. "Augusto Pinochet Quotes."
+
 [^96]: A-Z Quotes. "Augusto Pinochet Quotes."
+
 [^97]: BrainyQuote. "Augusto Pinochet Quotes."
+
 [^98]: A-Z Quotes. "Augusto Pinochet Quotes."
+
 [^99]: A-Z Quotes. "Augusto Pinochet Quotes."
+
 [^100]: Lib Quotes. "Augusto Pinochet Quotes." https://libquotes.com/augusto-pinochet

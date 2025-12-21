@@ -73,7 +73,7 @@ Tyler became the first president to face impeachment proceedings when Congressma
 
 Tyler's most damning legacy involves his unwavering support for slavery and eventual betrayal of the Union. Although he led a country founded on the principle of human equality, Tyler was a plantation owner whose wealth derived from enslaving dozens of people.[^57] He opposed the Missouri Compromise of 1820, believing slavery should be legal everywhere rather than being restricted to certain territories.[^58] In his post-presidential years, Tyler actively opposed limitations on the expansion of slavery, and after Abraham Lincoln's election in 1860, he wrote ominously, "The day of doom for the great model republic is at hand."[^59]
 
-When southern states began seceding in 1861, Tyler initially led a compromise movement. He suggested in a January 1861 Richmond newspaper column that there should be a conference of border states to seek alternatives to disunion.[^60] Tyler presided over the Peace Conference of 1861, which convened at the Willard Hotel in Washington, D.C., on February 4, 1861, bringing together 131 delegates in what became known as the "Old Gentlemen's Convention."[^61] The conference ultimately failed to prevent war, and one day after its close, Tyler urged the secession of Virginia.[^62] 
+When southern states began seceding in 1861, Tyler initially led a compromise movement. He suggested in a January 1861 Richmond newspaper column that there should be a conference of border states to seek alternatives to disunion.[^60] Tyler presided over the Peace Conference of 1861, which convened at the Willard Hotel in Washington, D.C., on February 4, 1861, bringing together 131 delegates in what became known as the "Old Gentlemen's Convention."[^61] The conference ultimately failed to prevent war, and one day after its close, Tyler urged the secession of Virginia.[^62]
 
 Tyler voted for Virginia to leave the nation over which he once presided, led the committee negotiating the terms of Virginia's admission into the Confederacy, and won election to the Confederate House of Representatives.[^63] He remains the only U.S. president to have openly supported the Confederacy, which led to his legacy being largely tarnished in the North.[^64] When Tyler died on January 18, 1862, Abraham Lincoln issued no official proclamation—marking the first and only time in American history that an official statement wasn't issued following a president's death.[^65] A Confederate flag draped Tyler's coffin as it was brought for burial to Hollywood Cemetery in Richmond, Virginia, while bells tolled and flags were lowered to half-staff in the Confederate capital, silence greeted the news of Tyler's death in the country he had betrayed.[^66]
 
@@ -125,32 +125,32 @@ The historian consensus remains that Tyler's Confederate allegiance fundamentall
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1790 | Born on March 29 at Greenway Plantation, Charles City County, Virginia |
-| 1797 | Mother Mary Armistead dies when Tyler is seven years old |
-| 1807 | Graduates from College of William and Mary at age 17 |
-| 1809 | Admitted to the Virginia Bar |
-| 1811 | Elected to Virginia House of Delegates at age 21 |
-| 1813 | Marries Letitia Christian |
-| 1817 | Elected to U.S. House of Representatives |
-| 1825 | Elected Governor of Virginia by state legislature |
-| 1827 | Resigns governorship to begin term as U.S. Senator |
-| 1836 | Resigns from U.S. Senate in protest |
-| 1840 | Elected Vice President on Whig ticket with William Henry Harrison |
-| 1841 | Becomes 10th President on April 6 after Harrison's death on April 4 |
-| 1841 | Entire cabinet except Daniel Webster resigns in September |
-| 1841 | Expelled from Whig Party on September 13 |
-| 1842 | First wife Letitia dies on September 10, first First Lady to die in office |
-| 1842 | Purchases Sherwood Forest Plantation |
-| 1842 | Webster-Ashburton Treaty signed on August 9 |
-| 1843 | House defeats impeachment resolution against him on January 18 |
-| 1844 | Marries Julia Gardiner on June 26, first president to marry in office |
-| 1844 | Treaty of Wanghia with China signed on July 3 |
-| 1845 | Signs joint resolution for Texas annexation on March 3, his last day in office |
-| 1845 | Retires to Sherwood Forest Plantation |
-| 1861 | Presides over failed Peace Conference in February |
-| 1861 | Votes for Virginia secession and is elected to Confederate House of Representatives |
+| Year | Event                                                                                |
+| ---- | ------------------------------------------------------------------------------------ |
+| 1790 | Born on March 29 at Greenway Plantation, Charles City County, Virginia               |
+| 1797 | Mother Mary Armistead dies when Tyler is seven years old                             |
+| 1807 | Graduates from College of William and Mary at age 17                                 |
+| 1809 | Admitted to the Virginia Bar                                                         |
+| 1811 | Elected to Virginia House of Delegates at age 21                                     |
+| 1813 | Marries Letitia Christian                                                            |
+| 1817 | Elected to U.S. House of Representatives                                             |
+| 1825 | Elected Governor of Virginia by state legislature                                    |
+| 1827 | Resigns governorship to begin term as U.S. Senator                                   |
+| 1836 | Resigns from U.S. Senate in protest                                                  |
+| 1840 | Elected Vice President on Whig ticket with William Henry Harrison                    |
+| 1841 | Becomes 10th President on April 6 after Harrison's death on April 4                  |
+| 1841 | Entire cabinet except Daniel Webster resigns in September                            |
+| 1841 | Expelled from Whig Party on September 13                                             |
+| 1842 | First wife Letitia dies on September 10, first First Lady to die in office           |
+| 1842 | Purchases Sherwood Forest Plantation                                                 |
+| 1842 | Webster-Ashburton Treaty signed on August 9                                          |
+| 1843 | House defeats impeachment resolution against him on January 18                       |
+| 1844 | Marries Julia Gardiner on June 26, first president to marry in office                |
+| 1844 | Treaty of Wanghia with China signed on July 3                                        |
+| 1845 | Signs joint resolution for Texas annexation on March 3, his last day in office       |
+| 1845 | Retires to Sherwood Forest Plantation                                                |
+| 1861 | Presides over failed Peace Conference in February                                    |
+| 1861 | Votes for Virginia secession and is elected to Confederate House of Representatives  |
 | 1862 | Dies on January 18 in Richmond, Virginia; buried in Hollywood Cemetery on January 21 |
 
 ---
@@ -190,118 +190,233 @@ Tyler's ominous words following Abraham Lincoln's election in 1860 foreshadowed 
 ## References
 
 [^1]: Britannica. "John Tyler | Biography, Presidency, & Facts." https://www.britannica.com/biography/John-Tyler
+
 [^2]: HISTORY. "Why John Tyler May Be the Most Reviled U.S. President Ever." https://www.history.com/articles/john-tyler-most-unpopular-president
+
 [^3]: Hollywood Cemetery. "John Tyler." https://www.hollywoodcemetery.org/john-tyler
+
 [^4]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^5]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^6]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^7]: White House Historical Association. "John Tyler." https://www.whitehousehistory.org/bios/john-tyler
+
 [^8]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^9]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^10]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^11]: Wikipedia. "John Tyler." https://en.wikipedia.org/wiki/John_Tyler
+
 [^12]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^13]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^14]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^15]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^16]: Britannica. "John Tyler | Biography, Presidency, & Facts." https://www.britannica.com/biography/John-Tyler
+
 [^17]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^18]: National Governors Association. "John Tyler Jr." https://www.nga.org/governor/john-tyler-jr/
+
 [^19]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^20]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^21]: Wikipedia. "John Tyler." https://en.wikipedia.org/wiki/John_Tyler
+
 [^22]: Miller Center. "John Tyler: Life Before the Presidency." https://millercenter.org/president/tyler/life-before-the-presidency
+
 [^23]: Wikipedia. "John Tyler." https://en.wikipedia.org/wiki/John_Tyler
+
 [^24]: White House Historical Association. "John Tyler and Presidential Succession." https://www.whitehousehistory.org/john-tyler-and-presidential-succession
+
 [^25]: Wikipedia. "William Henry Harrison." https://en.wikipedia.org/wiki/William_Henry_Harrison
+
 [^26]: White House Historical Association. "John Tyler and Presidential Succession." https://www.whitehousehistory.org/john-tyler-and-presidential-succession
+
 [^27]: Constitution Center. "A controversial President who established presidential succession." https://constitutioncenter.org/blog/john-tyler-americas-most-unusual-president
+
 [^28]: White House Historical Association. "John Tyler and Presidential Succession." https://www.whitehousehistory.org/john-tyler-and-presidential-succession
+
 [^29]: Wikipedia. "John Tyler." https://en.wikipedia.org/wiki/John_Tyler
+
 [^30]: White House Historical Association. "John Tyler and Presidential Succession." https://www.whitehousehistory.org/john-tyler-and-presidential-succession
+
 [^31]: Constitution Center. "A controversial President who established presidential succession." https://constitutioncenter.org/blog/john-tyler-americas-most-unusual-president
+
 [^32]: Miller Center. "John Tyler - Key Events." https://millercenter.org/president/john-tyler/key-events
+
 [^33]: Wikipedia. "Texas annexation." https://en.wikipedia.org/wiki/Texas_annexation
+
 [^34]: Miller Center. "John Tyler - Key Events." https://millercenter.org/president/john-tyler/key-events
+
 [^35]: Miller Center. "John Tyler - Key Events." https://millercenter.org/president/john-tyler/key-events
+
 [^36]: U.S. Department of State. "The Annexation of Texas, the Mexican-American War." https://history.state.gov/milestones/1830-1860/texas-annexation
+
 [^37]: Wikipedia. "Webster–Ashburton Treaty." https://en.wikipedia.org/wiki/Webster–Ashburton_Treaty
+
 [^38]: EBSCO Research. "Webster-Ashburton Treaty." https://www.ebsco.com/research-starters/history/webster-ashburton-treaty
+
 [^39]: The Canadian Encyclopedia. "Webster-Ashburton Treaty." https://thecanadianencyclopedia.ca/en/article/webster-ashburton-treaty
+
 [^40]: American Historama. "Webster-Ashburton Treaty." https://www.american-historama.org/1841-1850-westward-expansion/webster-ashburton-treaty.htm
+
 [^41]: Miller Center. "John Tyler - Key Events." https://millercenter.org/president/john-tyler/key-events
+
 [^42]: Wikipedia. "Treaty of Wanghia." https://en.wikipedia.org/wiki/Treaty_of_Wanghia
+
 [^43]: U.S. Department of State. "Milestones in the History of U.S. Foreign Relations." https://history.state.gov/milestones/1830-1860/china-1
+
 [^44]: JSTOR Daily. "The First U.S.-China Trade Deal." https://daily.jstor.org/the-first-us-china-trade-deal/
+
 [^45]: Britannica. "Treaty of Wanghia | United States-China [1844]." https://www.britannica.com/topic/Treaty-of-Wanghia
+
 [^46]: Wikipedia. "Presidency of John Tyler." https://en.wikipedia.org/wiki/Presidency_of_John_Tyler
+
 [^47]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^48]: Wikipedia. "John Tyler." https://en.wikipedia.org/wiki/John_Tyler
+
 [^49]: U.S. House of Representatives. "John Tyler Defends His Vetoes." https://history.house.gov/HistoricalHighlight/Detail/25769807410
+
 [^50]: Wikipedia. "Presidency of John Tyler." https://en.wikipedia.org/wiki/Presidency_of_John_Tyler
+
 [^51]: Miller Center. "John Tyler: Domestic Affairs." https://millercenter.org/president/tyler/domestic-affairs
+
 [^52]: Wikipedia. "John Tyler." https://en.wikipedia.org/wiki/John_Tyler
+
 [^53]: Wikipedia. "Presidency of John Tyler." https://en.wikipedia.org/wiki/Presidency_of_John_Tyler
+
 [^54]: American Heritage. "The Attempts to Impeach John Tyler." https://www.americanheritage.com/attempts-impeach-john-tyler
+
 [^55]: U.S. House of Representatives. "A Petition for a Presidential Impeachment." https://history.house.gov/HistoricalHighlight/Detail/15032448949
+
 [^56]: The Daily Signal. "Here's the First Time Congress Tried to Impeach a President." https://www.dailysignal.com/2019/11/26/when-the-house-first-tried-to-impeach-a-president-it-failed/
+
 [^57]: HISTORY. "Why John Tyler May Be the Most Reviled U.S. President Ever." https://www.history.com/articles/john-tyler-most-unpopular-president
+
 [^58]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^59]: Seth Kaller. "Former President and Future Confederate Supporter John Tyler." https://www.sethkaller.com/item/1499-24043
+
 [^60]: Virginia Museum of History & Culture. "Last Chance for Peace: Virginia's Role in the Washington Peace Conference of 1861." https://virginiahistory.org/learn/last-chance-peace-virginias-role-washington-peace-conference-1861-mark-tooley
+
 [^61]: Wikipedia. "Peace Conference of 1861." https://en.wikipedia.org/wiki/Peace_Conference_of_1861
+
 [^62]: Britannica. "Washington Peace Conference | United States history." https://www.britannica.com/topic/Washington-Peace-Conference
+
 [^63]: HISTORY. "Why John Tyler May Be the Most Reviled U.S. President Ever." https://www.history.com/articles/john-tyler-most-unpopular-president
+
 [^64]: HISTORY. "Why John Tyler May Be the Most Reviled U.S. President Ever." https://www.history.com/articles/john-tyler-most-unpopular-president
+
 [^65]: Hollywood Cemetery. "John Tyler." https://www.hollywoodcemetery.org/john-tyler
+
 [^66]: HISTORY. "Why John Tyler May Be the Most Reviled U.S. President Ever." https://www.history.com/articles/john-tyler-most-unpopular-president
+
 [^67]: Wikipedia. "Julia Gardiner Tyler." https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler
+
 [^68]: EBSCO Research. "Letitia Tyler." https://www.ebsco.com/research-starters/history/letitia-tyler
+
 [^69]: White House Historical Association. "Julia Tyler." https://www.whitehousehistory.org/bios/julia-tyler
+
 [^70]: EBSCO Research. "Letitia Tyler." https://www.ebsco.com/research-starters/history/letitia-tyler
+
 [^71]: EBSCO Research. "Letitia Tyler." https://www.ebsco.com/research-starters/history/letitia-tyler
+
 [^72]: Wikipedia. "Julia Gardiner Tyler." https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler
+
 [^73]: HISTORY. "President John Tyler weds his second wife | June 26, 1844." https://www.history.com/this-day-in-history/june-26/president-john-tyler-weds-his-second-wife
+
 [^74]: Library of Congress. "How Tragedy Led to Love for John Tyler and Julia Gardiner." https://blogs.loc.gov/headlinesandheroes/2024/02/how-tragedy-led-to-love-for-john-tyler-and-julia-gardiner/
+
 [^75]: HISTORY. "President John Tyler weds his second wife | June 26, 1844." https://www.history.com/this-day-in-history/june-26/president-john-tyler-weds-his-second-wife
+
 [^76]: Wikipedia. "Julia Gardiner Tyler." https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler
+
 [^77]: White House Historical Association. "Julia Tyler." https://www.whitehousehistory.org/bios/julia-tyler
+
 [^78]: Wikipedia. "Julia Gardiner Tyler." https://en.wikipedia.org/wiki/Julia_Gardiner_Tyler
+
 [^79]: Wikipedia. "Sherwood Forest Plantation." https://en.wikipedia.org/wiki/Sherwood_Forest_Plantation
+
 [^80]: American Aristocracy. "Sherwood Forest." https://americanaristocracy.com/houses/sherwood-forest
+
 [^81]: Wikipedia. "Sherwood Forest Plantation." https://en.wikipedia.org/wiki/Sherwood_Forest_Plantation
+
 [^82]: National Park Service. "The Presidents (Sherwood Forest)." https://www.nps.gov/parkhistory/online_books/presidents/site68.htm
+
 [^83]: Virginia DHR. "John Tyler House (Sherwood Forest)." https://www.dhr.virginia.gov/historic-registers/018-0021/
+
 [^84]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^85]: Constitution Center. "A controversial President who established presidential succession." https://constitutioncenter.org/blog/john-tyler-americas-most-unusual-president
+
 [^86]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^87]: U.S. House of Representatives. "John Tyler Defends His Vetoes." https://history.house.gov/HistoricalHighlight/Detail/25769807410
+
 [^88]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^89]: Hollywood Cemetery. "John Tyler." https://www.hollywoodcemetery.org/john-tyler
+
 [^90]: Hollywood Cemetery. "John Tyler." https://www.hollywoodcemetery.org/john-tyler
+
 [^91]: Hollywood Cemetery. "President John Tyler's Monument." https://www.hollywoodcemetery.org/visit/things-to-see/president-john-tyler-s-monument
+
 [^92]: CBS News. "How two of President John Tyler's grandsons are still alive, 174 years later." https://www.cbsnews.com/news/how-two-of-president-john-tylers-grandsons-are-still-alive/
+
 [^93]: Smithsonian Magazine. "Last Surviving Grandson of President John Tyler, Who Took Office in 1841, Dies at 96." https://www.smithsonianmag.com/smart-news/last-surviving-grandson-of-president-john-tyler-who-took-office-in-1841-dies-at-96-180986724/
+
 [^94]: Abbeville Institute. "Reassessing John Tyler." https://www.abbevilleinstitute.org/reassessing-john-tyler/
+
 [^95]: Constitution Center. "A controversial President who established presidential succession." https://constitutioncenter.org/blog/john-tyler-americas-most-unusual-president
+
 [^96]: Miller Center. "John Tyler - Key Events." https://millercenter.org/president/john-tyler/key-events
+
 [^97]: U.S. Department of State. "The Annexation of Texas, the Mexican-American War." https://history.state.gov/milestones/1830-1860/texas-annexation
+
 [^98]: U.S. House of Representatives. "John Tyler Defends His Vetoes." https://history.house.gov/HistoricalHighlight/Detail/25769807410
+
 [^99]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^100]: Encyclopedia Virginia. "John Tyler (1790–1862)." https://encyclopediavirginia.org/entries/tyler-john-1790-1862/
+
 [^101]: HISTORY. "Why John Tyler May Be the Most Reviled U.S. President Ever." https://www.history.com/articles/john-tyler-most-unpopular-president
+
 [^102]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^103]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^104]: Wikipedia. "Presidency of John Tyler." https://en.wikipedia.org/wiki/Presidency_of_John_Tyler
+
 [^105]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^106]: U.S. House of Representatives. "John Tyler Defends His Vetoes." https://history.house.gov/HistoricalHighlight/Detail/25769807410
+
 [^107]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^108]: Miller Center. "John Tyler: Impact and Legacy." https://millercenter.org/president/tyler/impact-and-legacy
+
 [^109]: Hollywood Cemetery. "John Tyler." https://www.hollywoodcemetery.org/john-tyler
+
 [^110]: A-Z Quotes. "TOP 16 QUOTES BY JOHN TYLER." https://www.azquotes.com/author/14893-John_Tyler
+
 [^111]: Presidential Power. "John Tyler Quotes." https://www.presidential-power.org/quotes-by-presidents/john-tyler-quotes.htm
+
 [^112]: Wikiquote. "John Tyler." https://en.wikiquote.org/wiki/John_Tyler
+
 [^113]: Wikiquote. "John Tyler." https://en.wikiquote.org/wiki/John_Tyler
+
 [^114]: BrainyQuote. "John Tyler Quotes." https://www.brainyquote.com/authors/john-tyler-quotes
+
 [^115]: Wikiquote. "John Tyler." https://en.wikiquote.org/wiki/John_Tyler
+
 [^116]: Seth Kaller. "Former President and Future Confederate Supporter John Tyler." https://www.sethkaller.com/item/1499-24043

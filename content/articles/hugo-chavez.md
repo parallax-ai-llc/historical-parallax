@@ -159,30 +159,30 @@ Critics note that Chávez's social programs, while politically effective, were f
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1954 | Born July 28 in Sabaneta, Barinas state, Venezuela |
-| 1971 | Enrolled in Venezuelan Academy of Military Sciences |
-| 1975 | Graduated from military academy with degree in military sciences and engineering |
-| 1977 | Married Nancy Colmenares; began military career |
-| 1982 | Founded Revolutionary Bolivarian Movement-200 (MBR-200) |
-| 1992 | Led failed coup attempt against President Carlos Andrés Pérez on February 4 |
-| 1992 | Imprisoned following coup attempt |
-| 1993 | Divorced Nancy Colmenares |
-| 1994 | Released from prison after presidential pardon |
-| 1997 | Married journalist Marisabel Rodríguez; founded Fifth Republic Movement |
-| 1998 | Elected President of Venezuela with 56.2% of vote |
-| 1999 | Inaugurated as President on February 2; new constitution approved by referendum |
-| 2000 | Reelected under new constitution with 59.8% of vote |
-| 2002 | Survived coup attempt in April; restored to power after 47 hours |
-| 2002-03 | Survived oil industry strike and lockout |
-| 2004 | Won recall referendum with 59% of vote; divorced Marisabel Rodríguez |
-| 2006 | Reelected president with 62.8% of vote; proposed United Socialist Party of Venezuela |
-| 2007 | Refused to renew RCTV broadcast license; constitutional reform rejected in referendum |
-| 2009 | Constitutional amendment allowing indefinite reelection approved by referendum |
-| 2011 | Revealed cancer diagnosis in June; began treatment in Cuba |
-| 2012 | Reelected to fourth term with 55.1% of vote despite illness |
-| 2013 | Died March 5 in Caracas at age 58 from cancer |
+| Year    | Event                                                                                 |
+| ------- | ------------------------------------------------------------------------------------- |
+| 1954    | Born July 28 in Sabaneta, Barinas state, Venezuela                                    |
+| 1971    | Enrolled in Venezuelan Academy of Military Sciences                                   |
+| 1975    | Graduated from military academy with degree in military sciences and engineering      |
+| 1977    | Married Nancy Colmenares; began military career                                       |
+| 1982    | Founded Revolutionary Bolivarian Movement-200 (MBR-200)                               |
+| 1992    | Led failed coup attempt against President Carlos Andrés Pérez on February 4           |
+| 1992    | Imprisoned following coup attempt                                                     |
+| 1993    | Divorced Nancy Colmenares                                                             |
+| 1994    | Released from prison after presidential pardon                                        |
+| 1997    | Married journalist Marisabel Rodríguez; founded Fifth Republic Movement               |
+| 1998    | Elected President of Venezuela with 56.2% of vote                                     |
+| 1999    | Inaugurated as President on February 2; new constitution approved by referendum       |
+| 2000    | Reelected under new constitution with 59.8% of vote                                   |
+| 2002    | Survived coup attempt in April; restored to power after 47 hours                      |
+| 2002-03 | Survived oil industry strike and lockout                                              |
+| 2004    | Won recall referendum with 59% of vote; divorced Marisabel Rodríguez                  |
+| 2006    | Reelected president with 62.8% of vote; proposed United Socialist Party of Venezuela  |
+| 2007    | Refused to renew RCTV broadcast license; constitutional reform rejected in referendum |
+| 2009    | Constitutional amendment allowing indefinite reelection approved by referendum        |
+| 2011    | Revealed cancer diagnosis in June; began treatment in Cuba                            |
+| 2012    | Reelected to fourth term with 55.1% of vote despite illness                           |
+| 2013    | Died March 5 in Caracas at age 58 from cancer                                         |
 
 ---
 

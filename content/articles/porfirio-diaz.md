@@ -123,29 +123,29 @@ Political scientists and historians of democracy condemn the Porfiriato as estab
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1830 | Born September 15 in Oaxaca City, Mexico |
-| 1843 | Begins studies at Oaxaca seminary, considering priesthood |
-| 1846 | Abandons seminary to study law at Institute of Arts and Sciences under Benito Juárez |
-| 1858 | Joins Liberal forces at outbreak of Reform War, beginning military career |
-| 1862 | Fights at Battle of Puebla (Cinco de Mayo) during French Intervention |
-| 1863 | Captured by French forces, escapes from prison |
-| 1867 | Recaptures Puebla and enters Mexico City, ending French Intervention; marries Delfina Ortega |
-| 1871 | Launches failed rebellion (Plan de la Noria) against Benito Juárez's reelection |
-| 1876 | Successfully rebels against Lerdo de Tejada (Plan de Tuxtepec); assumes presidency in November |
-| 1880 | Steps down as president; Delfina Ortega dies; Manuel González assumes presidency |
-| 1881 | Marries Carmen Romero Rubio |
-| 1884 | Returns to presidency, beginning continuous rule until 1911 |
-| 1888 | Constitution amended to allow reelection; beginning of consolidated dictatorship |
-| 1890s | Railway expansion accelerates; foreign investment surges; land concentration intensifies |
-| 1900 | Hosts lavish centennial celebrations; Mexico City extensively modernized |
-| 1906 | Cananea mine strike violently suppressed; Liberal Party manifesto calls for reform |
-| 1907 | Río Blanco textile strike violently suppressed; economic recession begins |
-| 1908 | Creelman interview suggesting possible political liberalization raises expectations |
-| 1910 | Fraudulent reelection sparks Francisco Madero's rebellion; Mexican Revolution begins |
-| 1911 | Resigns presidency May 25 and goes into exile; sails to Europe aboard SS Ypiranga |
-| 1915 | Dies July 2 in Paris, France, in exile |
+| Year  | Event                                                                                          |
+| ----- | ---------------------------------------------------------------------------------------------- |
+| 1830  | Born September 15 in Oaxaca City, Mexico                                                       |
+| 1843  | Begins studies at Oaxaca seminary, considering priesthood                                      |
+| 1846  | Abandons seminary to study law at Institute of Arts and Sciences under Benito Juárez           |
+| 1858  | Joins Liberal forces at outbreak of Reform War, beginning military career                      |
+| 1862  | Fights at Battle of Puebla (Cinco de Mayo) during French Intervention                          |
+| 1863  | Captured by French forces, escapes from prison                                                 |
+| 1867  | Recaptures Puebla and enters Mexico City, ending French Intervention; marries Delfina Ortega   |
+| 1871  | Launches failed rebellion (Plan de la Noria) against Benito Juárez's reelection                |
+| 1876  | Successfully rebels against Lerdo de Tejada (Plan de Tuxtepec); assumes presidency in November |
+| 1880  | Steps down as president; Delfina Ortega dies; Manuel González assumes presidency               |
+| 1881  | Marries Carmen Romero Rubio                                                                    |
+| 1884  | Returns to presidency, beginning continuous rule until 1911                                    |
+| 1888  | Constitution amended to allow reelection; beginning of consolidated dictatorship               |
+| 1890s | Railway expansion accelerates; foreign investment surges; land concentration intensifies       |
+| 1900  | Hosts lavish centennial celebrations; Mexico City extensively modernized                       |
+| 1906  | Cananea mine strike violently suppressed; Liberal Party manifesto calls for reform             |
+| 1907  | Río Blanco textile strike violently suppressed; economic recession begins                      |
+| 1908  | Creelman interview suggesting possible political liberalization raises expectations            |
+| 1910  | Fraudulent reelection sparks Francisco Madero's rebellion; Mexican Revolution begins           |
+| 1911  | Resigns presidency May 25 and goes into exile; sails to Europe aboard SS Ypiranga              |
+| 1915  | Dies July 2 in Paris, France, in exile                                                         |
 
 ---
 
@@ -165,72 +165,72 @@ Political scientists and historians of democracy condemn the Porfiriato as estab
 
 ## References
 
-[^1]: Garner, Paul. *Porfirio Díaz*. Longman, 2001. Comprehensive English-language biography examining Díaz's life and regime.
+[^1]: Garner, Paul. _Porfirio Díaz_. Longman, 2001. Comprehensive English-language biography examining Díaz's life and regime.
 
-[^2]: Katz, Friedrich. *The Life and Times of Pancho Villa*. Stanford University Press, 1998. Contains extensive analysis of Porfirian Mexico and conditions that sparked revolution.
+[^2]: Katz, Friedrich. _The Life and Times of Pancho Villa_. Stanford University Press, 1998. Contains extensive analysis of Porfirian Mexico and conditions that sparked revolution.
 
-[^3]: Knight, Alan. *The Mexican Revolution: Volume 1, Porfirians, Liberals and Peasants*. Cambridge University Press, 1986. Definitive scholarly account of the Porfiriato's final years and revolutionary outbreak.
+[^3]: Knight, Alan. _The Mexican Revolution: Volume 1, Porfirians, Liberals and Peasants_. Cambridge University Press, 1986. Definitive scholarly account of the Porfiriato's final years and revolutionary outbreak.
 
-[^4]: Womack, John. *Zapata and the Mexican Revolution*. Vintage Books, 1968. Classic study examining Porfirian dispossession of peasant lands in Morelos.
+[^4]: Womack, John. _Zapata and the Mexican Revolution_. Vintage Books, 1968. Classic study examining Porfirian dispossession of peasant lands in Morelos.
 
-[^5]: Beezley, William H. *Judas at the Jockey Club and Other Episodes of Porfirian Mexico*. University of Nebraska Press, 2004. Cultural history of the Porfiriato examining everyday life.
+[^5]: Beezley, William H. _Judas at the Jockey Club and Other Episodes of Porfirian Mexico_. University of Nebraska Press, 2004. Cultural history of the Porfiriato examining everyday life.
 
-[^6]: Haber, Stephen H. *Industry and Underdevelopment: The Industrialization of Mexico, 1890-1940*. Stanford University Press, 1989. Economic analysis of Porfirian industrialization and its limitations.
+[^6]: Haber, Stephen H. _Industry and Underdevelopment: The Industrialization of Mexico, 1890-1940_. Stanford University Press, 1989. Economic analysis of Porfirian industrialization and its limitations.
 
-[^7]: Coatsworth, John H. *Growth Against Development: The Economic Impact of Railroads in Porfirian Mexico*. Northern Illinois University Press, 1981. Critical examination of railway development's economic effects.
+[^7]: Coatsworth, John H. _Growth Against Development: The Economic Impact of Railroads in Porfirian Mexico_. Northern Illinois University Press, 1981. Critical examination of railway development's economic effects.
 
-[^8]: Vanderwood, Paul J. *Disorder and Progress: Bandits, Police, and Mexican Development*. Scholarly Resources, 1992. Study of Porfirian law enforcement and social control.
+[^8]: Vanderwood, Paul J. _Disorder and Progress: Bandits, Police, and Mexican Development_. Scholarly Resources, 1992. Study of Porfirian law enforcement and social control.
 
-[^9]: Wasserman, Mark. *Capitalists, Caciques, and Revolution: The Native Elite and Foreign Enterprise in Chihuahua, Mexico, 1854-1911*. University of North Carolina Press, 1984. Regional study of Porfirian political economy.
+[^9]: Wasserman, Mark. _Capitalists, Caciques, and Revolution: The Native Elite and Foreign Enterprise in Chihuahua, Mexico, 1854-1911_. University of North Carolina Press, 1984. Regional study of Porfirian political economy.
 
-[^10]: Hart, John Mason. *Empire and Revolution: The Americans in Mexico Since the Civil War*. University of California Press, 2002. Examination of U.S. economic imperialism during Porfiriato.
+[^10]: Hart, John Mason. _Empire and Revolution: The Americans in Mexico Since the Civil War_. University of California Press, 2002. Examination of U.S. economic imperialism during Porfiriato.
 
-[^11]: Hu-DeHart, Evelyn. *Yaqui Resistance and Survival: The Struggle for Land and Autonomy, 1821-1910*. University of Wisconsin Press, 1984. Documents genocidal campaigns against Yaqui people under Díaz.
+[^11]: Hu-DeHart, Evelyn. _Yaqui Resistance and Survival: The Struggle for Land and Autonomy, 1821-1910_. University of Wisconsin Press, 1984. Documents genocidal campaigns against Yaqui people under Díaz.
 
-[^12]: Joseph, Gilbert M. and Daniel Nugent, eds. *Everyday Forms of State Formation: Revolution and the Negotiation of Rule in Modern Mexico*. Duke University Press, 1994. Contains essays on Porfirian state-building.
+[^12]: Joseph, Gilbert M. and Daniel Nugent, eds. _Everyday Forms of State Formation: Revolution and the Negotiation of Rule in Modern Mexico_. Duke University Press, 1994. Contains essays on Porfirian state-building.
 
-[^13]: Wells, Allen and Gilbert M. Joseph. *Summer of Discontent, Seasons of Upheaval: Elite Politics and Rural Insurgency in Yucatán, 1876-1915*. Stanford University Press, 1996. Examination of Porfirian henequen economy and Maya resistance.
+[^13]: Wells, Allen and Gilbert M. Joseph. _Summer of Discontent, Seasons of Upheaval: Elite Politics and Rural Insurgency in Yucatán, 1876-1915_. Stanford University Press, 1996. Examination of Porfirian henequen economy and Maya resistance.
 
-[^14]: Tutino, John. *From Insurrection to Revolution in Mexico: Social Bases of Agrarian Violence, 1750-1940*. Princeton University Press, 1986. Long-term analysis including Porfirian agrarian transformation.
+[^14]: Tutino, John. _From Insurrection to Revolution in Mexico: Social Bases of Agrarian Violence, 1750-1940_. Princeton University Press, 1986. Long-term analysis including Porfirian agrarian transformation.
 
-[^15]: Tenorio-Trillo, Mauricio. *Mexico at the World's Fairs: Crafting a Modern Nation*. University of California Press, 1996. Cultural history of Porfirian elite self-presentation to international audiences.
+[^15]: Tenorio-Trillo, Mauricio. _Mexico at the World's Fairs: Crafting a Modern Nation_. University of California Press, 1996. Cultural history of Porfirian elite self-presentation to international audiences.
 
-[^16]: Piccato, Pablo. *The Tyranny of Opinion: Honor in the Construction of the Mexican Public Sphere*. Duke University Press, 2010. Includes analysis of Porfirian political culture and discourse.
+[^16]: Piccato, Pablo. _The Tyranny of Opinion: Honor in the Construction of the Mexican Public Sphere_. Duke University Press, 2010. Includes analysis of Porfirian political culture and discourse.
 
-[^17]: French, William E. *A Peaceful and Working People: Manners, Morals, and Class Formation in Northern Mexico*. University of New Mexico Press, 1996. Social history of Porfirian working-class formation.
+[^17]: French, William E. _A Peaceful and Working People: Manners, Morals, and Class Formation in Northern Mexico_. University of New Mexico Press, 1996. Social history of Porfirian working-class formation.
 
-[^18]: Ruiz, Ramón Eduardo. *The People of Sonora and Yankee Capitalists*. University of Arizona Press, 1988. Study of U.S. investment and local resistance in Porfirian Sonora.
+[^18]: Ruiz, Ramón Eduardo. _The People of Sonora and Yankee Capitalists_. University of Arizona Press, 1988. Study of U.S. investment and local resistance in Porfirian Sonora.
 
-[^19]: Anderson, Rodney D. *Outcasts in Their Own Land: Mexican Industrial Workers, 1906-1911*. Northern Illinois University Press, 1976. Examination of Porfirian labor conditions and strikes.
+[^19]: Anderson, Rodney D. _Outcasts in Their Own Land: Mexican Industrial Workers, 1906-1911_. Northern Illinois University Press, 1976. Examination of Porfirian labor conditions and strikes.
 
-[^20]: Buffington, Robert M. *Criminal and Citizen in Modern Mexico*. University of Nebraska Press, 2000. Analysis of Porfirian criminology, policing, and social control.
+[^20]: Buffington, Robert M. _Criminal and Citizen in Modern Mexico_. University of Nebraska Press, 2000. Analysis of Porfirian criminology, policing, and social control.
 
-[^21]: Overmyer-Velázquez, Mark. *Visions of the Emerald City: Modernity, Tradition, and the Formation of Porfirian Oaxaca, Mexico*. Duke University Press, 2006. Regional study of modernization in Díaz's home state.
+[^21]: Overmyer-Velázquez, Mark. _Visions of the Emerald City: Modernity, Tradition, and the Formation of Porfirian Oaxaca, Mexico_. Duke University Press, 2006. Regional study of modernization in Díaz's home state.
 
-[^22]: Schell, William Jr. *Integral Outsiders: The American Colony in Mexico City, 1876-1911*. Scholarly Resources, 2001. Study of American community in Porfirian Mexico.
+[^22]: Schell, William Jr. _Integral Outsiders: The American Colony in Mexico City, 1876-1911_. Scholarly Resources, 2001. Study of American community in Porfirian Mexico.
 
-[^23]: Rosenzweig Hernández, Fernando. "El desarrollo económico de México de 1877 a 1911." *El Trimestre Económico* 32, no. 127 (1965): 405-454. Classic Mexican economic analysis of Porfiriato.
+[^23]: Rosenzweig Hernández, Fernando. "El desarrollo económico de México de 1877 a 1911." _El Trimestre Económico_ 32, no. 127 (1965): 405-454. Classic Mexican economic analysis of Porfiriato.
 
-[^24]: Cosío Villegas, Daniel. *Historia moderna de México: El Porfiriato* (9 volumes). Editorial Hermes, 1955-1972. Monumental Mexican historical work on the Porfiriato.
+[^24]: Cosío Villegas, Daniel. _Historia moderna de México: El Porfiriato_ (9 volumes). Editorial Hermes, 1955-1972. Monumental Mexican historical work on the Porfiriato.
 
-[^25]: González, Luis. "El liberalismo triunfante." In *Historia general de México*. El Colegio de México, 2000. Authoritative Mexican scholarly overview.
+[^25]: González, Luis. "El liberalismo triunfante." In _Historia general de México_. El Colegio de México, 2000. Authoritative Mexican scholarly overview.
 
-[^26]: Creelman, James. "President Díaz: Hero of the Americas." *Pearson's Magazine*, March 1908. Famous interview where Díaz suggested political opening, sparking revolutionary expectations.
+[^26]: Creelman, James. "President Díaz: Hero of the Americas." _Pearson's Magazine_, March 1908. Famous interview where Díaz suggested political opening, sparking revolutionary expectations.
 
-[^27]: Turner, John Kenneth. *Barbarous Mexico*. Charles H. Kerr & Company, 1911. Exposé of Porfirian labor conditions and repression, influential in turning U.S. opinion against Díaz.
+[^27]: Turner, John Kenneth. _Barbarous Mexico_. Charles H. Kerr & Company, 1911. Exposé of Porfirian labor conditions and repression, influential in turning U.S. opinion against Díaz.
 
-[^28]: Reed, John. *Insurgent Mexico*. D. Appleton and Company, 1914. Journalistic account of Mexican Revolution containing critiques of Porfirian system.
+[^28]: Reed, John. _Insurgent Mexico_. D. Appleton and Company, 1914. Journalistic account of Mexican Revolution containing critiques of Porfirian system.
 
-[^29]: Cockcroft, James D. *Intellectual Precursors of the Mexican Revolution, 1900-1913*. University of Texas Press, 1968. Study of anti-Díaz intellectual movements.
+[^29]: Cockcroft, James D. _Intellectual Precursors of the Mexican Revolution, 1900-1913_. University of Texas Press, 1968. Study of anti-Díaz intellectual movements.
 
-[^30]: Krauze, Enrique. *Mexico: Biography of Power*. HarperCollins, 1997. Popular history with substantial section on Díaz by prominent Mexican historian.
+[^30]: Krauze, Enrique. _Mexico: Biography of Power_. HarperCollins, 1997. Popular history with substantial section on Díaz by prominent Mexican historian.
 
-[^31]: Pletcher, David M. *Rails, Mines, and Progress: Seven American Promoters in Mexico, 1867-1911*. Cornell University Press, 1958. Study of American economic penetration during Porfiriato.
+[^31]: Pletcher, David M. _Rails, Mines, and Progress: Seven American Promoters in Mexico, 1867-1911_. Cornell University Press, 1958. Study of American economic penetration during Porfiriato.
 
-[^32]: MacLachlan, Colin M. and William H. Beezley. *El Gran Pueblo: A History of Greater Mexico*. Prentice Hall, 2003. General Mexican history textbook with comprehensive Porfiriato coverage.
+[^32]: MacLachlan, Colin M. and William H. Beezley. _El Gran Pueblo: A History of Greater Mexico_. Prentice Hall, 2003. General Mexican history textbook with comprehensive Porfiriato coverage.
 
-[^33]: Meyer, Michael C. and William L. Sherman. *The Course of Mexican History*. Oxford University Press, multiple editions. Standard textbook with extensive Porfiriato analysis.
+[^33]: Meyer, Michael C. and William L. Sherman. _The Course of Mexican History_. Oxford University Press, multiple editions. Standard textbook with extensive Porfiriato analysis.
 
-[^34]: Benjamin, Thomas and Mark Wasserman, eds. *Provinces of the Revolution: Essays on Regional Mexican History, 1910-1929*. University of New Mexico Press, 1990. Contains essays on regional variations in Porfirian governance and revolutionary response.
+[^34]: Benjamin, Thomas and Mark Wasserman, eds. _Provinces of the Revolution: Essays on Regional Mexican History, 1910-1929_. University of New Mexico Press, 1990. Contains essays on regional variations in Porfirian governance and revolutionary response.
 
-[^35]: Wikipedia contributors. "Porfirio Díaz." *Wikipedia, The Free Encyclopedia*. https://en.wikipedia.org/wiki/Porfirio_Díaz (accessed December 21, 2025). General biographical overview.
+[^35]: Wikipedia contributors. "Porfirio Díaz." _Wikipedia, The Free Encyclopedia_. https://en.wikipedia.org/wiki/Porfirio_Díaz (accessed December 21, 2025). General biographical overview.

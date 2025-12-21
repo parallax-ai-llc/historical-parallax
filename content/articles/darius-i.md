@@ -59,7 +59,7 @@ Darius also established a consistent taxation system that replaced arbitrary col
 
 The completion of the Royal Road stands as one of Darius's most remarkable engineering achievements. This remarkable feat of infrastructure spanned over 1,600 miles from Sardis in Anatolia to Susa in Persia, greatly improving communication, trade, and the movement of troops within the empire.[^44] The road featured 111 posting stations maintained with supplies of fresh horses, and every 24 kilometers travelers encountered a military post and caravanserai offering food, shelter, and security.[^45]
 
-Darius created the world's first sophisticated postal service, known as Chapar Khaneh, originally developed by Cyrus but perfected under his reign.[^46] Mounted couriers of the Angarium could travel the entire 1,677 miles from Susa to Sardis in just nine days—a journey that took 90 days on foot.[^47] The Greek historian Herodotus marveled at this system, writing: "There is nothing in the world that travels faster than these Persian couriers."[^48] 
+Darius created the world's first sophisticated postal service, known as Chapar Khaneh, originally developed by Cyrus but perfected under his reign.[^46] Mounted couriers of the Angarium could travel the entire 1,677 miles from Susa to Sardis in just nine days—a journey that took 90 days on foot.[^47] The Greek historian Herodotus marveled at this system, writing: "There is nothing in the world that travels faster than these Persian couriers."[^48]
 
 The relay system employed as many horses and riders as there were days required for the journey, with one horse and one man assigned to each day's segment.[^49] Those traveling on behalf of the Persian government, like the royal inspectors, received passports entitling them to food rations all along the road.[^50] This infrastructure enabled Darius to dispatch troops swiftly to suppress revolts and maintained constant communication that strengthened loyalty among satraps and military governors across the massive, diverse empire.[^51]
 
@@ -75,7 +75,7 @@ Darius built at least two large palace cities—Persepolis and Susa—with Susa 
 
 Darius significantly expanded the territorial reach of the Persian Empire through military campaigns and strategic conquests. In 518 BCE, as confirmed by the Behistun inscription, Darius conquered parts of India, specifically the Indus Valley and northern Punjab.[^61] He established three Indian provinces: Sattagydia (Thataguš), Gandāra (Gandhara), and Hidūš (the Indus Valley, corresponding to Sind).[^62] The conquest occurred in phases, building on Cyrus the Great's initial campaign around 535 BCE, with Darius pushing further east to annex regions up to the Jhelum River in what is today Punjab.[^63]
 
-In Egypt, Darius completed and commemorated the reopening of the "Canal of the Pharaohs," which connected the Nile River to the Red Sea through the Wadi Tumilat.[^64] Though the canal may have been begun by the Egyptian pharaoh Necho II in the late 7th century BCE, Darius either re-dug or completed it around 515-495 BCE.[^65] The canal stretched some 50 miles long, as much as 148 feet wide, and 10 feet deep—wide enough for two triremes to pass each other with oars extended, according to Herodotus.[^66] 
+In Egypt, Darius completed and commemorated the reopening of the "Canal of the Pharaohs," which connected the Nile River to the Red Sea through the Wadi Tumilat.[^64] Though the canal may have been begun by the Egyptian pharaoh Necho II in the late 7th century BCE, Darius either re-dug or completed it around 515-495 BCE.[^65] The canal stretched some 50 miles long, as much as 148 feet wide, and 10 feet deep—wide enough for two triremes to pass each other with oars extended, according to Herodotus.[^66]
 
 Darius erected five monuments in Wadi Tumilat with inscriptions in Old Persian, Elamite, Babylonian, and Egyptian, proclaiming: "I ordered the digging of this canal from a river called Nile, which flows in Egypt, to the sea which begins in Persia," and "ships went from Egypt through this canal to Persia, as I had intended."[^67] This ancient precursor to the modern Suez Canal facilitated maritime trade and tribute collection between Egypt and Persia.[^68]
 
@@ -219,56 +219,56 @@ Finally, some historians question whether Darius's religious tolerance was genui
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 550 BCE | Birth in Persia; son of Hystaspes, satrap of Parthia |
-| 528-525 BCE | Served as spearman in Cambyses II's Egyptian campaign |
-| March 522 BCE | Gaumata (or Bardiya) claims Persian throne; revolt against Cambyses |
-| September 522 BCE | Darius and six conspirators kill Gaumata; Darius becomes King of Kings |
-| 522-521 BCE | Suppresses widespread rebellions across empire; kills nine rival "kings" |
-| c. 520 BCE | Orders construction of Behistun Inscription to legitimize his rule |
-| c. 519 BCE | Reaffirms Cyrus's decree supporting Jewish Temple reconstruction |
-| 518 BCE | Begins construction of Persepolis; conquers Indus Valley and Gandhara |
-| c. 515 BCE | Introduces the daric gold currency; standardizes weights and measures |
-| 515-495 BCE | Completes canal connecting Nile River to Red Sea |
-| 513 BCE | Failed Scythian campaign; army suffers heavy losses |
-| c. 500 BCE | Begins construction of his tomb at Naqsh-e Rustam |
-| 499 BCE | Ionian Revolt begins; Greek cities in Asia Minor rebel |
-| 494 BCE | Suppresses Ionian Revolt; destroys Miletus |
-| 492 BCE | First Greek expedition fails; Persian fleet destroyed by storm |
-| 490 BCE | Persian defeat at Battle of Marathon |
-| October 486 BCE | Dies after illness; buried at Naqsh-e Rustam; succeeded by Xerxes I |
+| Year              | Event                                                                    |
+| ----------------- | ------------------------------------------------------------------------ |
+| c. 550 BCE        | Birth in Persia; son of Hystaspes, satrap of Parthia                     |
+| 528-525 BCE       | Served as spearman in Cambyses II's Egyptian campaign                    |
+| March 522 BCE     | Gaumata (or Bardiya) claims Persian throne; revolt against Cambyses      |
+| September 522 BCE | Darius and six conspirators kill Gaumata; Darius becomes King of Kings   |
+| 522-521 BCE       | Suppresses widespread rebellions across empire; kills nine rival "kings" |
+| c. 520 BCE        | Orders construction of Behistun Inscription to legitimize his rule       |
+| c. 519 BCE        | Reaffirms Cyrus's decree supporting Jewish Temple reconstruction         |
+| 518 BCE           | Begins construction of Persepolis; conquers Indus Valley and Gandhara    |
+| c. 515 BCE        | Introduces the daric gold currency; standardizes weights and measures    |
+| 515-495 BCE       | Completes canal connecting Nile River to Red Sea                         |
+| 513 BCE           | Failed Scythian campaign; army suffers heavy losses                      |
+| c. 500 BCE        | Begins construction of his tomb at Naqsh-e Rustam                        |
+| 499 BCE           | Ionian Revolt begins; Greek cities in Asia Minor rebel                   |
+| 494 BCE           | Suppresses Ionian Revolt; destroys Miletus                               |
+| 492 BCE           | First Greek expedition fails; Persian fleet destroyed by storm           |
+| 490 BCE           | Persian defeat at Battle of Marathon                                     |
+| October 486 BCE   | Dies after illness; buried at Naqsh-e Rustam; succeeded by Xerxes I      |
 
 ---
 
 ## Famous Quotes
 
 > "By the grace of Ahura-Mazda I am king, Ahura-Mazda has granted me the empire."[^182]
-> 
+>
 > — From the Behistun Inscription, asserting divine right to rule
 
 > "By the grace of Ahura Mazda I am of such a sort, I am a friend of the right, of wrong I am not a friend. It is not my wish that the weak should have harm done him by the strong, nor is it my wish that the strong should have harm done him by the weak."[^183]
-> 
+>
 > — From royal inscriptions, expressing commitment to justice
 
 > "My father is Hystaspes; the father of Hystaspes was Arsames; the father of Arsames was Ariaramnes; the father of Ariaramnes was Teispes; the father of Teispes was Achaemenes. That is why we are called Achaemenids; from antiquity we have been noble; from antiquity has our dynasty been royal."[^184]
-> 
+>
 > — Proclaiming his royal lineage
 
 > "This is the reason that Ahura-Mazda and the other heavenly powers helped me,—because I was not wicked, nor was I a liar, nor was I tyrannical."[^185]
-> 
+>
 > — Justifying his rule and claiming virtue
 
 > "Thou who mayest be king afterward, the man that is a liar and an evil-doer befriend him not. Destroy such with the edge of the sword."[^186]
-> 
+>
 > — Warning to future rulers from the Behistun Inscription
 
 > "I ordered the digging of this canal from a river called Nile, which flows in Egypt, to the sea which begins in Persia."[^187]
-> 
+>
 > — From the Suez inscriptions, commemorating the canal project
 
 > "You who shall thereafter behold this inscription which I have inscribed, or these sculptures, do not destroy them, (but) thence onward protect them, as long as you shall be in good strength!"[^188]
-> 
+>
 > — Plea to protect the Behistun Inscription for future generations
 
 ---
@@ -276,190 +276,377 @@ Finally, some historians question whether Darius's religious tolerance was genui
 ## References
 
 [^1]: Britannica, "Darius I | Biography, Accomplishments, & Facts," https://www.britannica.com/biography/Darius-I
+
 [^2]: Wikipedia, "Darius the Great," https://en.wikipedia.org/wiki/Darius_the_Great
+
 [^3]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^4]: National Geographic, "Darius I—facts and information," https://www.nationalgeographic.com/culture/article/darius-i-persia
+
 [^5]: Biographics, "Darius I: The Great King of Persia," https://biographics.org/darius-i-the-great-king-of-persia/
+
 [^6]: Grokipedia, "Hystaspes (father of Darius I)," https://grokipedia.com/page/Hystaspes_(father_of_Darius_I)
+
 [^7]: Biographics, "Darius I: The Great King of Persia," https://biographics.org/darius-i-the-great-king-of-persia/
+
 [^8]: Britannica, "Darius I | Biography, Accomplishments, & Facts," https://www.britannica.com/biography/Darius-I
+
 [^9]: Historact, "Darius I: The Architect of the Achaemenid Empire," https://historact.com/darius-i-the-architect-of-the-achaemenid-empire/
+
 [^10]: Historact, "Darius I: The Architect of the Achaemenid Empire," https://historact.com/darius-i-the-architect-of-the-achaemenid-empire/
+
 [^11]: EBSCO Research, "Darius the Great," https://www.ebsco.com/research-starters/history/darius-great
+
 [^12]: Grokipedia, "Hystaspes (father of Darius I)," https://grokipedia.com/page/Hystaspes_(father_of_Darius_I)
+
 [^13]: Wikipedia, "Hystaspes (father of Darius I)," https://en.wikipedia.org/wiki/Hystaspes_(father_of_Darius_I)
+
 [^14]: World History Encyclopedia, "Behistun Inscription," https://www.worldhistory.org/Behistun_Inscription/
+
 [^15]: Kam Austine, "How Darius I Took the Throne: The Gaumata Revolt," https://kamaustine.com/2024/10/18/how-darius-i-took-the-throne-the-gaumata-revolt-and-a-fight-for-the-persian-crown/
+
 [^16]: World History Encyclopedia, "Behistun Inscription," https://www.worldhistory.org/Behistun_Inscription/
+
 [^17]: Kam Austine, "How Darius I Took the Throne," https://kamaustine.com/2024/10/18/how-darius-i-took-the-throne-the-gaumata-revolt-and-a-fight-for-the-persian-crown/
+
 [^18]: MilitaryHistoryNow.com, "Darius the Great—How Persia's 'King of Kings' Took the Achaemenid Empire to New Heights," https://militaryhistorynow.com/2024/04/07/darius-the-great-how-persias-king-of-kings-took-the-achaemenid-empire-to-new-heights/
+
 [^19]: World History Encyclopedia, "Behistun Inscription," https://www.worldhistory.org/Behistun_Inscription/
+
 [^20]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^21]: Kam Austine, "How Darius I Took the Throne," https://kamaustine.com/2024/10/18/how-darius-i-took-the-throne-the-gaumata-revolt-and-a-fight-for-the-persian-crown/
+
 [^22]: Study.com, "Darius the Great | Rule of Persian Empire, Quotes & Death," https://study.com/academy/lesson/darius-the-great-biography-quotes-facts.html
+
 [^23]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^24]: Livius, "Darius the Great: Civil War," https://www.livius.org/articles/person/darius-the-great/5-civil-war/
+
 [^25]: Achaemenid Dynasty, "Darius I," https://persianempire.org/people/darius-I
+
 [^26]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^27]: Livius, "Darius the Great: Civil War," https://www.livius.org/articles/person/darius-the-great/5-civil-war/
+
 [^28]: Britannica, "Darius I - Persian Empire, Reforms, Satrapies," https://www.britannica.com/biography/Darius-I/Darius-as-an-administrator
+
 [^29]: Britannica, "Darius I - Persian Empire, Reforms, Satrapies," https://www.britannica.com/biography/Darius-I/Darius-as-an-administrator
+
 [^30]: Livius, "Darius the Great: Organizing the Empire," https://www.livius.org/articles/person/darius-the-great/6-organizing-the-empire/
+
 [^31]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^32]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^33]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^34]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^35]: Greek History Hub, "Analyzing the Economic Reforms Implemented by Darius I," https://www.greekhistoryhub.com/pages/analyzing-the-economic-reforms-implemented-by-darius-i-609804c2.php
+
 [^36]: Encyclopaedia Iranica, "DARIC," https://www.iranicaonline.org/articles/daric/
+
 [^37]: Alpha Politismos, "Daric – gold stater of the Achaemenid Empire," https://www.alphapolitismos.gr/en/numismatic-collection/our-coins-and-banknotes/daric-gold-stater-of-the-achaemenid-empire/
+
 [^38]: APMEX, "King Darius and Gold Coins of the Persian Empire," https://learn.apmex.com/learning-guide/coin-collecting/king-darius/
+
 [^39]: Greek History Hub, "Analyzing the Economic Reforms Implemented by Darius I," https://www.greekhistoryhub.com/pages/analyzing-the-economic-reforms-implemented-by-darius-i-609804c2.php
+
 [^40]: World History Edu, "Darius the Great," https://worldhistoryedu.com/darius-the-great/
+
 [^41]: Greek History Hub, "Analyzing the Economic Reforms Implemented by Darius I," https://www.greekhistoryhub.com/pages/analyzing-the-economic-reforms-implemented-by-darius-i-609804c2.php
+
 [^42]: Timeless Myths, "What Is One Way That Darius United the Persian Empire?" https://timelessmyths.com/stories/what-is-one-way-that-darius-united-the-persian-empire
+
 [^43]: Livius, "Darius the Great: Organizing the Empire," https://www.livius.org/articles/person/darius-the-great/6-organizing-the-empire/
+
 [^44]: Britannica, "Darius I - Persian Empire, Reforms, Satrapies," https://www.britannica.com/biography/Darius-I/Darius-as-an-administrator
+
 [^45]: Historical Conquest, "Lessons Plans from the Ancient Persian Empire: Reign of Darius the Great," https://www.historicalconquest.com/single-post/lessons-plans-from-the-ancient-persian-empire-reign-of-darius-the-great
+
 [^46]: Iranian Knowledge, "Chapar Khaneh - The world's first sophisticated postal service," https://iranianknowledge.com/2023/04/chapar-khaneh-the-worlds-first-sophisticated-postal-service/
+
 [^47]: History of Information, "Darius The Great Builds The Royal Road," https://www.historyofinformation.com/detail.php?id=131
+
 [^48]: John Manders' Blog, "The Persian Postal Service," https://johnmanders.wordpress.com/2020/10/31/the-persian-postal-service/
+
 [^49]: History of Information, "Darius The Great Builds The Royal Road," https://www.historyofinformation.com/detail.php?id=131
+
 [^50]: Historical Conquest, "Lessons Plans from the Ancient Persian Empire," https://www.historicalconquest.com/single-post/lessons-plans-from-the-ancient-persian-empire-reign-of-darius-the-great
+
 [^51]: Gertita Shko MD, "The Royal Road (c. 500 BCE): Persian Pathway Linking Empire and Administration," https://gertitashkomd.com/the-royal-road-c-500-bce/
+
 [^52]: Britannica, "Darius I | Biography, Accomplishments, & Facts," https://www.britannica.com/biography/Darius-I
+
 [^53]: Livius, "Darius the Great: Building Projects," https://www.livius.org/articles/person/darius-the-great/7-building-projects/
+
 [^54]: Livius, "Darius the Great: Building Projects," https://www.livius.org/articles/person/darius-the-great/7-building-projects/
+
 [^55]: Wikipedia, "Persepolis," https://en.wikipedia.org/wiki/Persepolis
+
 [^56]: Wikipedia, "Apadana," https://en.wikipedia.org/wiki/Apadana
+
 [^57]: Livius, "Darius the Great: Building Projects," https://www.livius.org/articles/person/darius-the-great/7-building-projects/
+
 [^58]: Livius, "Darius the Great: Building Projects," https://www.livius.org/articles/person/darius-the-great/7-building-projects/
+
 [^59]: Livius, "Darius the Great: Building Projects," https://www.livius.org/articles/person/darius-the-great/7-building-projects/
+
 [^60]: Smarthistory, "Persepolis: The Audience Hall of Darius and Xerxes," https://smarthistory.org/persepolis-the-audience-hall-of-darius-and-xerxes/
+
 [^61]: EBSCO Research, "Darius the Great Conquers the Indus Valley," https://www.ebsco.com/research-starters/history/darius-great-conquers-indus-valley
+
 [^62]: Wikipedia, "Achaemenid conquest of the Indus Valley," https://en.wikipedia.org/wiki/Achaemenid_conquest_of_the_Indus_Valley
+
 [^63]: Wikipedia, "Achaemenid conquest of the Indus Valley," https://en.wikipedia.org/wiki/Achaemenid_conquest_of_the_Indus_Valley
+
 [^64]: Cabinet, "Darius' Red Sea Canal Stele," https://www.cabinet.ox.ac.uk/darius-red-sea-canal-stele
+
 [^65]: Wikipedia, "Canal of the Pharaohs," https://en.wikipedia.org/wiki/Canal_of_the_Pharaohs
+
 [^66]: Wikipedia, "Canal of the Pharaohs," https://en.wikipedia.org/wiki/Canal_of_the_Pharaohs
+
 [^67]: Wikipedia, "Suez inscriptions of Darius the Great," https://en.wikipedia.org/wiki/Suez_inscriptions_of_Darius_the_Great
+
 [^68]: Amusing Planet, "Canal of the Pharaohs: The Forerunner to The Suez Canal," https://www.amusingplanet.com/2021/05/canal-of-pharaohs-forerunner-to-suez.html
+
 [^69]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^70]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^71]: Brewminate, "Darius I: Revising the Administrative System of Ancient Persia," https://brewminate.com/darius-i-revising-the-administrative-system-of-ancient-persia/
+
 [^72]: Brewminate, "Darius I: Revising the Administrative System of Ancient Persia," https://brewminate.com/darius-i-revising-the-administrative-system-of-ancient-persia/
+
 [^73]: Encyclopaedia Iranica, "JUDICIAL AND LEGAL SYSTEMS i. ACHAEMENID," https://www.iranicaonline.org/articles/judicial-and-legal-systems-i-achaemenid-judicial-and-legal-systems/
+
 [^74]: Encyclopaedia Iranica, "JUDICIAL AND LEGAL SYSTEMS i. ACHAEMENID," https://www.iranicaonline.org/articles/judicial-and-legal-systems-i-achaemenid-judicial-and-legal-systems/
+
 [^75]: Encyclopedia.com, "Darius I, King of Persia," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/darius-i-king-persia
+
 [^76]: Wikipedia, "Darius the Great," https://en.wikipedia.org/wiki/Darius_the_Great
+
 [^77]: Livius, "Darius the Great: Organizing the Empire," https://www.livius.org/articles/person/darius-the-great/6-organizing-the-empire/
+
 [^78]: National Geographic, "Darius I—facts and information," https://www.nationalgeographic.com/culture/article/darius-i-persia
+
 [^79]: The-Persians.co.uk, "The religion of Darius," https://www.the-persians.co.uk/darius3.htm
+
 [^80]: Wendell Hunnicutt, "The Great Inscription of Darius at Behistun," https://websites.uta.edu/hunnicut/reading-list/readings-western-civilization/the-great-inscription-of-darius-at-behistun/
+
 [^81]: The-Persians.co.uk, "The religion of Darius," https://www.the-persians.co.uk/darius3.htm
+
 [^82]: National Geographic, "Darius I—facts and information," https://www.nationalgeographic.com/culture/article/darius-i-persia
+
 [^83]: Andrews University, "The Contributions of Cyrus, Darius I, and Artaxerxes I," https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1612&context=jats
+
 [^84]: Amazing Bible Timeline, "Temple, The Second Decree to Rebuild the," https://amazingbibletimeline.com/blog/temple-by-darius-i-the-second-decree-to-rebuild-the/
+
 [^85]: Bible Archaeology Report, "Darius I: An Archaeological Biography," https://biblearchaeologyreport.com/2021/01/15/darius-i-an-archaeological-biography/
+
 [^86]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^87]: Kam Austine, "How Darius I Took the Throne," https://kamaustine.com/2024/10/18/how-darius-i-took-the-throne-the-gaumata-revolt-and-a-fight-for-the-persian-crown/
+
 [^88]: Livius, "Darius the Great: Civil War," https://www.livius.org/articles/person/darius-the-great/5-civil-war/
+
 [^89]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^90]: Study.com, "Darius the Great | Rule of Persian Empire, Quotes & Death," https://study.com/academy/lesson/darius-the-great-biography-quotes-facts.html
+
 [^91]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^92]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^93]: Ancient War History, "The Scythian Campaign of Darius the Great: Persia's Ill-Fated Invasion of the Steppe," https://ancientwarhistory.com/the-scythian-campaign-of-darius-the-great-persias-ill-fated-invasion-of-the-steppe/
+
 [^94]: Wikipedia, "Scythian campaign of Darius I," https://en.wikipedia.org/wiki/Scythian_campaign_of_Darius_I
+
 [^95]: Wikipedia, "Scythian campaign of Darius I," https://en.wikipedia.org/wiki/Scythian_campaign_of_Darius_I
+
 [^96]: Ancient War History, "The Scythian Campaign of Darius the Great," https://ancientwarhistory.com/the-scythian-campaign-of-darius-the-great-persias-ill-fated-invasion-of-the-steppe/
+
 [^97]: Britannica, "Darius I | Biography, Accomplishments, & Facts," https://www.britannica.com/biography/Darius-I
+
 [^98]: Britannica, "Darius I | Biography, Accomplishments, & Facts," https://www.britannica.com/biography/Darius-I
+
 [^99]: Greek History Hub, "The Military Strategies and Campaigns of Darius I Explained," https://www.greekhistoryhub.com/pages/the-military-strategies-and-campaigns-of-darius-i-explained-990e4ad9.php
+
 [^100]: Warfare History Network, "The Battle of Marathon: The Rise of Athens," https://warfarehistorynetwork.com/article/battle-of-marathon-the-rise-of-athens/
+
 [^101]: Wikipedia, "Darius the Great," https://en.wikipedia.org/wiki/Darius_the_Great
+
 [^102]: Wikipedia, "Ionian Revolt," https://en.wikipedia.org/wiki/Ionian_Revolt
+
 [^103]: Britannica, "Ionian revolt | Persian Empire, Miletus, Darius I," https://www.britannica.com/event/Ionian-revolt
+
 [^104]: World History Edu, "The Ionian Revolt," https://worldhistoryedu.com/the-ionian-revolt/
+
 [^105]: Wikipedia, "Ionian Revolt," https://en.wikipedia.org/wiki/Ionian_Revolt
+
 [^106]: Wikipedia, "Ionian Revolt," https://en.wikipedia.org/wiki/Ionian_Revolt
+
 [^107]: Livius, "Darius the Great: Dynastic Marriages," https://www.livius.org/articles/person/darius-the-great/4-dynastic-marriages/
+
 [^108]: Livius, "Darius the Great: Dynastic Marriages," https://www.livius.org/articles/person/darius-the-great/4-dynastic-marriages/
+
 [^109]: Livius, "Darius the Great: Dynastic Marriages," https://www.livius.org/articles/person/darius-the-great/4-dynastic-marriages/
+
 [^110]: Wikipedia, "Darius the Great," https://en.wikipedia.org/wiki/Darius_the_Great
+
 [^111]: Wikipedia, "Atossa," https://en.wikipedia.org/wiki/Atossa
+
 [^112]: Wikipedia, "Atossa," https://en.wikipedia.org/wiki/Atossa
+
 [^113]: Wikipedia, "Atossa," https://en.wikipedia.org/wiki/Atossa
+
 [^114]: Wikipedia, "Atossa," https://en.wikipedia.org/wiki/Atossa
+
 [^115]: Livius, "Darius the Great: Dynastic Marriages," https://www.livius.org/articles/person/darius-the-great/4-dynastic-marriages/
+
 [^116]: Livius, "Darius the Great: Dynastic Marriages," https://www.livius.org/articles/person/darius-the-great/4-dynastic-marriages/
+
 [^117]: Encyclopedia.com, "Atossa (c. 545–c. 470s BCE)," https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/atossa-c-545-c-470s-bce
+
 [^118]: Encyclopedia.com, "Atossa (c. 545–c. 470s BCE)," https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/atossa-c-545-c-470s-bce
+
 [^119]: Wendell Hunnicutt, "The Great Inscription of Darius at Behistun," https://websites.uta.edu/hunnicut/reading-list/readings-western-civilization/the-great-inscription-of-darius-at-behistun/
+
 [^120]: Study.com, "Darius the Great | Rule of Persian Empire, Quotes & Death," https://study.com/academy/lesson/darius-the-great-biography-quotes-facts.html
+
 [^121]: Livius, "Darius the Great: Death," https://www.livius.org/articles/person/darius-the-great/9-death/
+
 [^122]: Wikipedia, "Tomb of Darius the Great," https://en.wikipedia.org/wiki/Tomb_of_Darius_the_Great
+
 [^123]: Livius, "Darius the Great: Death," https://www.livius.org/articles/person/darius-the-great/9-death/
+
 [^124]: Wikipedia, "Tomb of Darius the Great," https://en.wikipedia.org/wiki/Tomb_of_Darius_the_Great
+
 [^125]: Livius, "Darius the Great: Death," https://www.livius.org/articles/person/darius-the-great/9-death/
+
 [^126]: Wikipedia, "Tomb of Darius the Great," https://en.wikipedia.org/wiki/Tomb_of_Darius_the_Great
+
 [^127]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^128]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^129]: Greek History Hub, "The Leadership and Legacy of Darius I in Ancient Persia," https://www.greekhistoryhub.com/pages/the-leadership-and-legacy-of-darius-i-in-ancient-persia-d3c305e2.php
+
 [^130]: Britannica, "Darius I - Persian Empire, Reforms, Satrapies," https://www.britannica.com/biography/Darius-I/Darius-as-an-administrator
+
 [^131]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^132]: Brewminate, "Darius I: Revising the Administrative System of Ancient Persia," https://brewminate.com/darius-i-revising-the-administrative-system-of-ancient-persia/
+
 [^133]: Greek History Hub, "Analyzing the Economic Reforms Implemented by Darius I," https://www.greekhistoryhub.com/pages/analyzing-the-economic-reforms-implemented-by-darius-i-609804c2.php
+
 [^134]: Livius, "Darius the Great: Organizing the Empire," https://www.livius.org/articles/person/darius-the-great/6-organizing-the-empire/
+
 [^135]: History of Information, "Darius The Great Builds The Royal Road," https://www.historyofinformation.com/detail.php?id=131
+
 [^136]: Amusing Planet, "Canal of the Pharaohs: The Forerunner to The Suez Canal," https://www.amusingplanet.com/2021/05/canal-of-pharaohs-forerunner-to-suez.html
+
 [^137]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^138]: National Geographic, "Darius I—facts and information," https://www.nationalgeographic.com/culture/article/darius-i-persia
+
 [^139]: Bible Archaeology Report, "Darius I: An Archaeological Biography," https://biblearchaeologyreport.com/2021/01/15/darius-i-an-archaeological-biography/
+
 [^140]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^141]: World History Encyclopedia, "Behistun Inscription," https://www.worldhistory.org/Behistun_Inscription/
+
 [^142]: World History Encyclopedia, "Behistun Inscription," https://www.worldhistory.org/Behistun_Inscription/
+
 [^143]: Greek History Hub, "The Leadership and Legacy of Darius I in Ancient Persia," https://www.greekhistoryhub.com/pages/the-leadership-and-legacy-of-darius-i-in-ancient-persia-d3c305e2.php
+
 [^144]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^145]: Greek History Hub, "The Leadership and Legacy of Darius I in Ancient Persia," https://www.greekhistoryhub.com/pages/the-leadership-and-legacy-of-darius-i-in-ancient-persia-d3c305e2.php
+
 [^146]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^147]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^148]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^149]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^150]: Britannica, "Darius I | Biography, Accomplishments, & Facts," https://www.britannica.com/biography/Darius-I
+
 [^151]: Brewminate, "Darius I: Revising the Administrative System of Ancient Persia," https://brewminate.com/darius-i-revising-the-administrative-system-of-ancient-persia/
+
 [^152]: National Geographic, "Darius I—facts and information," https://www.nationalgeographic.com/culture/article/darius-i-persia
+
 [^153]: Smarthistory, "Persepolis: The Audience Hall of Darius and Xerxes," https://smarthistory.org/persepolis-the-audience-hall-of-darius-and-xerxes/
+
 [^154]: Livius, "Darius the Great: Building Projects," https://www.livius.org/articles/person/darius-the-great/7-building-projects/
+
 [^155]: Greek History Hub, "The Historical Significance of Darius I and His Reign," https://www.greekhistoryhub.com/pages/the-historical-significance-of-darius-i-and-his-reign-94d3fad8.php
+
 [^156]: Greek History Hub, "Analyzing the Economic Reforms Implemented by Darius I," https://www.greekhistoryhub.com/pages/analyzing-the-economic-reforms-implemented-by-darius-i-609804c2.php
+
 [^157]: Greek History Hub, "Analyzing the Economic Reforms Implemented by Darius I," https://www.greekhistoryhub.com/pages/analyzing-the-economic-reforms-implemented-by-darius-i-609804c2.php
+
 [^158]: Timeless Myths, "What Is One Way That Darius United the Persian Empire?" https://timelessmyths.com/stories/what-is-one-way-that-darius-united-the-persian-empire
+
 [^159]: History of Information, "Darius The Great Builds The Royal Road," https://www.historyofinformation.com/detail.php?id=131
+
 [^160]: John Manders' Blog, "The Persian Postal Service," https://johnmanders.wordpress.com/2020/10/31/the-persian-postal-service/
+
 [^161]: Gertita Shko MD, "The Royal Road (c. 500 BCE)," https://gertitashkomd.com/the-royal-road-c-500-bce/
+
 [^162]: Encyclopaedia Iranica, "JUDICIAL AND LEGAL SYSTEMS i. ACHAEMENID," https://www.iranicaonline.org/articles/judicial-and-legal-systems-i-achaemenid-judicial-and-legal-systems/
+
 [^163]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^164]: World History Encyclopedia, "Darius I," https://www.worldhistory.org/Darius_I/
+
 [^165]: Kam Austine, "How Darius I Took the Throne," https://kamaustine.com/2024/10/18/how-darius-i-took-the-throne-the-gaumata-revolt-and-a-fight-for-the-persian-crown/
+
 [^166]: Livius, "Darius the Great: Civil War," https://www.livius.org/articles/person/darius-the-great/5-civil-war/
+
 [^167]: Livius, "Darius the Great: Civil War," https://www.livius.org/articles/person/darius-the-great/5-civil-war/
+
 [^168]: Study.com, "Darius the Great | Rule of Persian Empire, Quotes & Death," https://study.com/academy/lesson/darius-the-great-biography-quotes-facts.html
+
 [^169]: Greek History Hub, "The Military Strategies and Campaigns of Darius I Explained," https://www.greekhistoryhub.com/pages/the-military-strategies-and-campaigns-of-darius-i-explained-990e4ad9.php
+
 [^170]: Ancient War History, "The Scythian Campaign of Darius the Great," https://ancientwarhistory.com/the-scythian-campaign-of-darius-the-great-persias-ill-fated-invasion-of-the-steppe/
+
 [^171]: Warfare History Network, "The Battle of Marathon: The Rise of Athens," https://warfarehistorynetwork.com/article/battle-of-marathon-the-rise-of-athens/
+
 [^172]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^173]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^174]: Brewminate, "Darius I: Revising the Administrative System of Ancient Persia," https://brewminate.com/darius-i-revising-the-administrative-system-of-ancient-persia/
+
 [^175]: Greek History Hub, "Analyzing the Economic Reforms Implemented by Darius I," https://www.greekhistoryhub.com/pages/analyzing-the-economic-reforms-implemented-by-darius-i-609804c2.php
+
 [^176]: Timeless Myths, "What Is One Way That Darius United the Persian Empire?" https://timelessmyths.com/stories/what-is-one-way-that-darius-united-the-persian-empire
+
 [^177]: Gertita Shko MD, "The Royal Road (c. 500 BCE)," https://gertitashkomd.com/the-royal-road-c-500-bce/
+
 [^178]: The-Persians.co.uk, "Darius, the Great King. An administrative genius?" https://www.the-persians.co.uk/darius2.htm
+
 [^179]: Encyclopedia.com, "Darius I, King of Persia," https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/darius-i-king-persia
+
 [^180]: National Geographic, "Darius I—facts and information," https://www.nationalgeographic.com/culture/article/darius-i-persia
+
 [^181]: The-Persians.co.uk, "The religion of Darius," https://www.the-persians.co.uk/darius3.htm
+
 [^182]: Wendell Hunnicutt, "The Great Inscription of Darius at Behistun," https://websites.uta.edu/hunnicut/reading-list/readings-western-civilization/the-great-inscription-of-darius-at-behistun/
+
 [^183]: Study.com, "Darius the Great | Rule of Persian Empire, Quotes & Death," https://study.com/academy/lesson/darius-the-great-biography-quotes-facts.html
+
 [^184]: Historact, "Darius I: The Architect of the Achaemenid Empire," https://historact.com/darius-i-the-architect-of-the-achaemenid-empire/
+
 [^185]: Wendell Hunnicutt, "The Great Inscription of Darius at Behistun," https://websites.uta.edu/hunnicut/reading-list/readings-western-civilization/the-great-inscription-of-darius-at-behistun/
+
 [^186]: Wendell Hunnicutt, "The Great Inscription of Darius at Behistun," https://websites.uta.edu/hunnicut/reading-list/readings-western-civilization/the-great-inscription-of-darius-at-behistun/
+
 [^187]: Wikipedia, "Suez inscriptions of Darius the Great," https://en.wikipedia.org/wiki/Suez_inscriptions_of_Darius_the_Great
+
 [^188]: Wendell Hunnicutt, "The Great Inscription of Darius at Behistun," https://websites.uta.edu/hunnicut/reading-list/readings-western-civilization/the-great-inscription-of-darius-at-behistun/

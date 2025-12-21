@@ -127,26 +127,26 @@ Recent critical scholarship has also examined how King's image has been sanitize
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1929 | Born on January 15 in Atlanta, Georgia[^105] |
-| 1944 | Enters Morehouse College at age 15[^106] |
-| 1948 | Graduates from Morehouse College with B.A. in Sociology; enters Crozer Theological Seminary[^107] |
-| 1951 | Graduates from Crozer with Bachelor of Divinity degree[^108] |
-| 1953 | Marries Coretta Scott on June 18[^109] |
-| 1954 | Becomes pastor of Dexter Avenue Baptist Church in Montgomery, Alabama[^110] |
-| 1955 | Receives Ph.D. from Boston University; leads Montgomery Bus Boycott beginning December 5[^111] |
-| 1956 | Home bombed on January 30; Montgomery buses desegregated on December 21[^112] |
-| 1957 | Helps found Southern Christian Leadership Conference (SCLC)[^113] |
-| 1958 | Publishes "Stride Toward Freedom"; stabbed at book signing in Harlem[^114] |
-| 1959 | Travels to India to study Gandhi's nonviolent methods[^115] |
-| 1960 | Moves to Atlanta to co-pastor Ebenezer Baptist Church with his father[^116] |
+| Year | Event                                                                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1929 | Born on January 15 in Atlanta, Georgia[^105]                                                                                                |
+| 1944 | Enters Morehouse College at age 15[^106]                                                                                                    |
+| 1948 | Graduates from Morehouse College with B.A. in Sociology; enters Crozer Theological Seminary[^107]                                           |
+| 1951 | Graduates from Crozer with Bachelor of Divinity degree[^108]                                                                                |
+| 1953 | Marries Coretta Scott on June 18[^109]                                                                                                      |
+| 1954 | Becomes pastor of Dexter Avenue Baptist Church in Montgomery, Alabama[^110]                                                                 |
+| 1955 | Receives Ph.D. from Boston University; leads Montgomery Bus Boycott beginning December 5[^111]                                              |
+| 1956 | Home bombed on January 30; Montgomery buses desegregated on December 21[^112]                                                               |
+| 1957 | Helps found Southern Christian Leadership Conference (SCLC)[^113]                                                                           |
+| 1958 | Publishes "Stride Toward Freedom"; stabbed at book signing in Harlem[^114]                                                                  |
+| 1959 | Travels to India to study Gandhi's nonviolent methods[^115]                                                                                 |
+| 1960 | Moves to Atlanta to co-pastor Ebenezer Baptist Church with his father[^116]                                                                 |
 | 1963 | Leads Birmingham Campaign; writes "Letter from Birmingham Jail"; delivers "I Have a Dream" speech at March on Washington on August 28[^117] |
-| 1964 | Named Time magazine's "Man of the Year"; Civil Rights Act signed July 2; receives Nobel Peace Prize on December 10[^118] |
-| 1965 | Leads Selma to Montgomery March; Voting Rights Act signed August 6[^119] |
-| 1966 | Launches Chicago Freedom Movement for fair housing[^120] |
-| 1967 | Delivers "Beyond Vietnam" speech opposing the war; announces Poor People's Campaign[^121] |
-| 1968 | Assassinated on April 4 in Memphis, Tennessee, at age 39[^122] |
+| 1964 | Named Time magazine's "Man of the Year"; Civil Rights Act signed July 2; receives Nobel Peace Prize on December 10[^118]                    |
+| 1965 | Leads Selma to Montgomery March; Voting Rights Act signed August 6[^119]                                                                    |
+| 1966 | Launches Chicago Freedom Movement for fair housing[^120]                                                                                    |
+| 1967 | Delivers "Beyond Vietnam" speech opposing the war; announces Poor People's Campaign[^121]                                                   |
+| 1968 | Assassinated on April 4 in Memphis, Tennessee, at age 39[^122]                                                                              |
 
 ---
 
@@ -167,129 +167,255 @@ Recent critical scholarship has also examined how King's image has been sanitize
 ## References
 
 [^1]: [Martin Luther King Jr. - Wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+
 [^2]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^3]: [The Nobel Peace Prize 1964 - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/summary/)
+
 [^4]: [Dr. King's Legacy | National Civil Rights Museum](https://civilrightsmuseum.org/learn/dr-kings-legacy/)
+
 [^5]: [Martin Luther King Jr. born | January 15, 1929 | HISTORY](https://www.history.com/this-day-in-history/january-15/martin-luther-king-jr-born)
+
 [^6]: [Chapter 1: Early Years | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/publications/autobiography-martin-luther-king-jr/chapter-1-early-years)
+
 [^7]: [Martin Luther King Jr. – Biography - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/king/biographical/)
+
 [^8]: [Early Life - Celebrating Martin Luther King, Jr. - Ivy Tech Libraries](https://library.ivytech.edu/terrehaute/mlk/early-life)
+
 [^9]: [Biographical Sketch - Martin Luther King, Jr. - Research Guides at Louisiana State University](https://guides.lib.lsu.edu/mlk)
+
 [^10]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^11]: [Chapter 1: Early Years | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/publications/autobiography-martin-luther-king-jr/chapter-1-early-years)
+
 [^12]: [Martin Luther King Jr. – Biography - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/king/biographical/)
+
 [^13]: [Martin Luther King Jr. – Biography - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/king/biographical/)
+
 [^14]: [Dissertation of Martin Luther King, Jr. | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/dissertation-martin-luther-king-jr)
+
 [^15]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^16]: [King, Coretta Scott | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-coretta-scott)
+
 [^17]: [The Montgomery Bus Boycott (U.S. National Park Service)](https://www.nps.gov/articles/montgomery-bus-boycott.htm)
+
 [^18]: [Montgomery Improvement Association (MIA) | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/montgomery-improvement-association-mia)
+
 [^19]: [Montgomery bus boycott | Summary & Martin Luther King, Jr. | Britannica](https://www.britannica.com/event/Montgomery-bus-boycott)
+
 [^20]: [Rosa Parks, Martin Luther King Jr., Montgomery Bus Boycott](https://www.billofrightsinstitute.org/essays/rosa-parks-martin-luther-king-jr-and-the-montgomery-bus-boycott)
+
 [^21]: [Montgomery Bus Boycott | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/montgomery-bus-boycott)
+
 [^22]: [Montgomery bus boycott - Wikipedia](https://en.wikipedia.org/wiki/Montgomery_bus_boycott)
+
 [^23]: [Montgomery Bus Boycott | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/montgomery-bus-boycott)
+
 [^24]: [Montgomery bus boycott | Summary & Martin Luther King, Jr. | Britannica](https://www.britannica.com/event/Montgomery-bus-boycott)
+
 [^25]: [Martin Luther King, Jr. - Civil Rights, Montgomery Bus Boycott, Nonviolence | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/The-Montgomery-bus-boycott)
+
 [^26]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^27]: [Martin Luther King Jr. – Biography - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/king/biographical/)
+
 [^28]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^29]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^30]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^31]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^32]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^33]: [March on Washington for Jobs and Freedom | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/march-washington-jobs-and-freedom)
+
 [^34]: [I Have a Dream - Wikipedia](https://en.wikipedia.org/wiki/I_Have_a_Dream)
+
 [^35]: [I Have a Dream | Date, Quotations, & Facts | Britannica](https://www.britannica.com/topic/I-Have-A-Dream)
+
 [^36]: [The 1963 March on Washington | NAACP](https://naacp.org/find-resources/history-explained/1963-march-washington)
+
 [^37]: [Martin Luther King, Jr. | Timeline | Britannica](https://www.britannica.com/summary/Martin-Luther-King-Jr-Timeline)
+
 [^38]: [The Nobel Peace Prize 1964 - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/summary/)
+
 [^39]: [Nobel Peace Prize | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/nobel-peace-prize)
+
 [^40]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^41]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^42]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^43]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^44]: [Federal Bureau of Investigation (FBI) | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi)
+
 [^45]: [Federal Bureau of Investigation (FBI) | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi)
+
 [^46]: [Federal Bureau of Investigation (FBI) | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi)
+
 [^47]: [MLK files reveal deep FBI surveillance | Northeastern](https://news.northeastern.edu/2025/07/23/mlk-files-released/)
+
 [^48]: [Federal Bureau of Investigation (FBI) | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi)
+
 [^49]: [FBI–King letter - Wikipedia](https://en.wikipedia.org/wiki/FBI–King_letter)
+
 [^50]: [Documentary Exposes How The FBI Tried To Destroy MLK | NPR](https://www.npr.org/2021/01/18/956741992/documentary-exposes-how-the-fbi-tried-to-destroy-mlk-with-wiretaps-blackmail)
+
 [^51]: [Controversies Surrounding Martin Luther King Jr](https://sfmlkday.org/controversies-surrounding-martin-luther-king-jr/)
+
 [^52]: [Martin Luther King Jr. authorship issues - Wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._authorship_issues)
+
 [^53]: [Martin Luther King, Jr.'s, Doctoral-Thesis Plagiarism Is Revealed | EBSCO Research](https://www.ebsco.com/research-starters/history/martin-luther-king-jrs-doctoral-thesis-plagiarism-revealed)
+
 [^54]: [Martin Luther King Jr. authorship issues - Wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._authorship_issues)
+
 [^55]: [Martin Luther King, Jr.'s, Doctoral-Thesis Plagiarism Is Revealed | EBSCO Research](https://www.ebsco.com/research-starters/history/martin-luther-king-jrs-doctoral-thesis-plagiarism-revealed)
+
 [^56]: [Martin Luther King, Jr.'s, Doctoral-Thesis Plagiarism Is Revealed | EBSCO Research](https://www.ebsco.com/research-starters/history/martin-luther-king-jrs-doctoral-thesis-plagiarism-revealed)
+
 [^57]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Activism | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Challenges-of-the-final-years)
+
 [^58]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Activism | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Challenges-of-the-final-years)
+
 [^59]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Activism | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Challenges-of-the-final-years)
+
 [^60]: [King, Coretta Scott | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-coretta-scott)
+
 [^61]: [Coretta Scott King - Wikipedia](https://en.wikipedia.org/wiki/Coretta_Scott_King)
+
 [^62]: [Coretta Scott King - Wikipedia](https://en.wikipedia.org/wiki/Coretta_Scott_King)
+
 [^63]: [Children and extended family of Martin Luther King Jr. | AJC](https://www.ajc.com/news/children-and-extended-family-of-martin-luther-king-jr/K6FCRWIZ4NDQLO6JU24SAOOT54/)
+
 [^64]: [About Mrs. Coretta Scott King - The King Center](https://thekingcenter.org/about-tkc/about-mrs-king/)
+
 [^65]: [Coretta Scott King | National Women's History Museum](https://www.womenshistory.org/education-resources/biographies/coretta-scott-king)
+
 [^66]: [Martin Luther King Jr. – Biography - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/king/biographical/)
+
 [^67]: [The Psychology of Martin Luther King Jr.'s "Creative Maladjustment" | PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9462883/)
+
 [^68]: [Martin Luther King, Jr. | About Dr. Martin Luther King, Jr.](https://thekingcenter.org/about-tkc/martin-luther-king-jr/)
+
 [^69]: [About Mrs. Coretta Scott King - The King Center](https://thekingcenter.org/about-tkc/about-mrs-king/)
+
 [^70]: [Coretta Scott King - Wikipedia](https://en.wikipedia.org/wiki/Coretta_Scott_King)
+
 [^71]: [Children and extended family of Martin Luther King Jr. | AJC](https://www.ajc.com/news/children-and-extended-family-of-martin-luther-king-jr/K6FCRWIZ4NDQLO6JU24SAOOT54/)
+
 [^72]: [Martin Luther King, Jr. | NAACP](https://naacp.org/find-resources/history-explained/civil-rights-leaders/martin-luther-king-jr)
+
 [^73]: [Martin Luther King Jr.: A Champion for Civil Rights | World History](https://www.worldhistory.org.uk/civil-rights-movement-martin-luther-king-jr)
+
 [^74]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Equality | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Historical-significance-and-legacy)
+
 [^75]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Activism | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Legacy)
+
 [^76]: [Honoring Martin Luther King Jr.'s Legacy of Global Justice and Peace](https://cssh.northeastern.edu/honoring-martin-luther-king-jr-s-legacy-of-global-justice-and-peace/)
+
 [^77]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Activism | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Legacy)
+
 [^78]: [Dr. King's Legacy | National Civil Rights Museum](https://civilrightsmuseum.org/learn/dr-kings-legacy/)
+
 [^79]: [Dr. Martin Luther King Jr.'s Legacy in the Voices of Today's Black Leaders | University of Colorado Boulder](https://www.colorado.edu/support/gar/2024/01/10/dr-martin-luther-king-jrs-legacy-voices-todays-black-leaders)
+
 [^80]: [Martin Luther King Jr.: A Civil Rights Icon | New Hampshire Center for Justice & Equity](https://nhcje.org/blog/martin-luther-king-jr-a-civil-rights-icon)
+
 [^81]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Equality | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Historical-significance-and-legacy)
+
 [^82]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Equality | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Historical-significance-and-legacy)
+
 [^83]: [Dr. King's Legacy | National Civil Rights Museum](https://civilrightsmuseum.org/learn/dr-kings-legacy/)
+
 [^84]: [Martin Luther King, Jr. | About Dr. Martin Luther King, Jr.](https://thekingcenter.org/about-tkc/martin-luther-king-jr/)
+
 [^85]: [Martin Luther King, Jr. | NAACP](https://naacp.org/find-resources/history-explained/civil-rights-leaders/martin-luther-king-jr)
+
 [^86]: [Martin Luther King Jr.: A Champion for Civil Rights | World History](https://www.worldhistory.org.uk/civil-rights-movement-martin-luther-king-jr)
+
 [^87]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Equality | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Historical-significance-and-legacy)
+
 [^88]: [I Have a Dream | Date, Quotations, & Facts | Britannica](https://www.britannica.com/topic/I-Have-A-Dream)
+
 [^89]: [I Have a Dream | Date, Quotations, & Facts | Britannica](https://www.britannica.com/topic/I-Have-A-Dream)
+
 [^90]: [Martin Luther King, Jr. | About Dr. Martin Luther King, Jr.](https://thekingcenter.org/about-tkc/martin-luther-king-jr/)
+
 [^91]: [Martin Luther King, Jr. | About Dr. Martin Luther King, Jr.](https://thekingcenter.org/about-tkc/martin-luther-king-jr/)
+
 [^92]: [The Nobel Peace Prize 1964 - NobelPrize.org](https://www.nobelprize.org/prizes/peace/1964/summary/)
+
 [^93]: [Honoring Martin Luther King Jr.'s Legacy of Global Justice and Peace](https://cssh.northeastern.edu/honoring-martin-luther-king-jr-s-legacy-of-global-justice-and-peace/)
+
 [^94]: [10 Experts on What We Get Wrong About Martin Luther King Jr. | TIME](https://time.com/5197679/10-historians-martin-luther-king-jr/)
+
 [^95]: [Martin Luther King, Jr. | Biography, Speeches, Facts, & Assassination | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr)
+
 [^96]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Activism | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Challenges-of-the-final-years)
+
 [^97]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Activism | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Challenges-of-the-final-years)
+
 [^98]: [10 Experts on What We Get Wrong About Martin Luther King Jr. | TIME](https://time.com/5197679/10-historians-martin-luther-king-jr/)
+
 [^99]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Equality | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Historical-significance-and-legacy)
+
 [^100]: [Martin Luther King, Jr. - Civil Rights, Nonviolence, Equality | Britannica](https://www.britannica.com/biography/Martin-Luther-King-Jr/Historical-significance-and-legacy)
+
 [^101]: [Martin Luther King Jr. authorship issues - Wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._authorship_issues)
+
 [^102]: [Controversies Surrounding Martin Luther King Jr](https://sfmlkday.org/controversies-surrounding-martin-luther-king-jr/)
+
 [^103]: [10 Experts on What We Get Wrong About Martin Luther King Jr. | TIME](https://time.com/5197679/10-historians-martin-luther-king-jr/)
+
 [^104]: [10 Experts on What We Get Wrong About Martin Luther King Jr. | TIME](https://time.com/5197679/10-historians-martin-luther-king-jr/)
+
 [^105]: [Martin Luther King Jr. born | January 15, 1929 | HISTORY](https://www.history.com/this-day-in-history/january-15/martin-luther-king-jr-born)
+
 [^106]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^107]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^108]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^109]: [Coretta Scott King - Wikipedia](https://en.wikipedia.org/wiki/Coretta_Scott_King)
+
 [^110]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^111]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^112]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^113]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^114]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^115]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^116]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^117]: [Martin Luther King, Jr. | Timeline | Britannica](https://www.britannica.com/summary/Martin-Luther-King-Jr-Timeline)
+
 [^118]: [Martin Luther King, Jr. | Timeline | Britannica](https://www.britannica.com/summary/Martin-Luther-King-Jr-Timeline)
+
 [^119]: [Martin Luther King, Jr. | Timeline | Britannica](https://www.britannica.com/summary/Martin-Luther-King-Jr-Timeline)
+
 [^120]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^121]: [Major King Events Chronology: 1929-1968 | The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968)
+
 [^122]: [Assassination of Martin Luther King Jr. - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Martin_Luther_King_Jr.)
+
 [^123]: [26 Martin Luther King Jr. Quotes About Nonviolence](https://www.goodgoodgood.co/articles/martin-luther-king-nonviolence-quotes)
+
 [^124]: [17 Inspiring Martin Luther King Quotes | Biography](https://www.biography.com/activists/martin-luther-king-famous-quotes)
+
 [^125]: [I Have a Dream - Wikipedia](https://en.wikipedia.org/wiki/I_Have_a_Dream)
+
 [^126]: [Quotes on Nonviolence by Dr. Martin Luther King Jr. | Purdue Global](https://www.purdueglobal.edu/blog/human-services/quotes-on-nonviolence/)
+
 [^127]: [17 Inspiring Martin Luther King Quotes | Biography](https://www.biography.com/activists/martin-luther-king-famous-quotes)

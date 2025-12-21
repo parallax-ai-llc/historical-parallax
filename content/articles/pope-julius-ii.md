@@ -37,7 +37,7 @@ The election of Rodrigo Borgia as Pope Alexander VI in 1492 marked a turning poi
 
 Fearing Alexander VI's vindictiveness, della Rovere spent much of the Borgia pontificate in self-imposed exile, first in Ostia and then in France, where he enjoyed the protection of King Charles VIII and later Louis XII.[^18] From this position of relative safety, he worked tirelessly to undermine Alexander VI, even encouraging French military intervention in Italy—a decision that would have profound consequences for the Italian peninsula.[^19] His years in opposition gave him an intimate understanding of European politics and forged alliances he would later exploit as pope.
 
-When Alexander VI died in 1503, della Rovere returned to Rome to participate in the conclave. The brief twenty-six-day pontificate of Pius III followed, during which the elderly and ill pope accomplished little before his own death.[^20] The subsequent conclave moved swiftly, and on November 1, 1503, Giuliano della Rovere was elected pope, taking the name Julius II—not in honor of Pope Julius I, but rather in emulation of Julius Caesar, whom he wished to emulate.[^21] 
+When Alexander VI died in 1503, della Rovere returned to Rome to participate in the conclave. The brief twenty-six-day pontificate of Pius III followed, during which the elderly and ill pope accomplished little before his own death.[^20] The subsequent conclave moved swiftly, and on November 1, 1503, Giuliano della Rovere was elected pope, taking the name Julius II—not in honor of Pope Julius I, but rather in emulation of Julius Caesar, whom he wished to emulate.[^21]
 
 The election itself was not without controversy. Despite having accused Alexander VI of simony and seeking to prohibit such practices, Julius was able to persuade the cardinals to approve him unanimously in a one-day conclave through recourse to simony of his own, essentially buying votes and making promises he may or may not have intended to keep.[^22] He was crowned on November 28, 1503, and immediately set about implementing an ambitious agenda that would transform the papacy, expand the Papal States, and leave an indelible mark on European culture and politics.[^23]
 
@@ -227,36 +227,36 @@ Some scholars argue that Julius's short-term political successes came at catastr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1443 | Born Giuliano della Rovere on December 5 in Albisola near Savona, Republic of Genoa[^166] |
-| 1467 | Uncle Francesco della Rovere becomes cardinal[^167] |
-| 1468 | Becomes a Franciscan friar[^168] |
-| 1471 | Uncle Francesco elected Pope Sixtus IV; Giuliano named Bishop of Carpentras and created cardinal on December 16[^169] |
-| 1474 | Travels to Umbria to mediate conflicts in the Papal States[^170] |
-| 1480-1482 | Serves as papal legate to France, mediating between Louis XI and Maximilian of Austria[^171] |
-| 1483 | Illegitimate daughter Felice della Rovere born to Lucrezia Normanni[^172] |
-| 1484 | Pope Sixtus IV dies; Innocent VIII elected pope[^173] |
-| 1492 | Rodrigo Borgia elected Pope Alexander VI amid accusations of simony; della Rovere becomes his enemy[^174] |
-| 1503 | Pope Alexander VI dies; Pius III briefly succeeds him; Giuliano della Rovere elected Pope Julius II on November 1, crowned November 28[^175] |
-| 1505 | Issues bull attempting to prohibit simony in papal elections[^176] |
-| 1506 | Establishes Vatican Museums with acquisition of Laocoön sculpture on January 14[^177] |
-| 1506 | Lays foundation stone for new St. Peter's Basilica on April 17[^178] |
-| 1506 | Personally leads military campaign; Perugia surrenders September 13, Bologna captured November 10[^179] |
-| 1508 | Commissions Michelangelo to paint Sistine Chapel ceiling[^180] |
-| 1508 | Commissions Raphael to decorate rooms in the Apostolic Palace[^181] |
-| 1508 | Forms League of Cambrai in December against Venice[^182] |
-| 1509 | Venice defeated at Battle of Agnadello on May 14[^183] |
-| 1510 | Reconciles with Venice and turns against France[^184] |
-| 1511 | Forms Holy League in October against France[^185] |
-| 1511 | Church council brings charges of sexual misconduct against him[^186] |
-| 1512 | Fifth Lateran Council opens on May 10[^187] |
-| 1512 | Holy League defeated at Battle of Ravenna in April, but French position in Italy collapses[^188] |
-| 1512 | Sistine Chapel ceiling paintings unveiled in October[^189] |
-| 1512 | Congress of Mantua represents closest approach to Italian unification[^190] |
-| 1513 | Presents himself as "liberator of Italy" at Roman Carnival[^191] |
-| 1513 | Dies of fever February 20-21; buried in St. Peter's Basilica[^192] |
-| 1514 | Erasmus's satirical dialogue "Julius Excluded from Heaven" published anonymously[^193] |
+| Year      | Event                                                                                                                                        |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1443      | Born Giuliano della Rovere on December 5 in Albisola near Savona, Republic of Genoa[^166]                                                    |
+| 1467      | Uncle Francesco della Rovere becomes cardinal[^167]                                                                                          |
+| 1468      | Becomes a Franciscan friar[^168]                                                                                                             |
+| 1471      | Uncle Francesco elected Pope Sixtus IV; Giuliano named Bishop of Carpentras and created cardinal on December 16[^169]                        |
+| 1474      | Travels to Umbria to mediate conflicts in the Papal States[^170]                                                                             |
+| 1480-1482 | Serves as papal legate to France, mediating between Louis XI and Maximilian of Austria[^171]                                                 |
+| 1483      | Illegitimate daughter Felice della Rovere born to Lucrezia Normanni[^172]                                                                    |
+| 1484      | Pope Sixtus IV dies; Innocent VIII elected pope[^173]                                                                                        |
+| 1492      | Rodrigo Borgia elected Pope Alexander VI amid accusations of simony; della Rovere becomes his enemy[^174]                                    |
+| 1503      | Pope Alexander VI dies; Pius III briefly succeeds him; Giuliano della Rovere elected Pope Julius II on November 1, crowned November 28[^175] |
+| 1505      | Issues bull attempting to prohibit simony in papal elections[^176]                                                                           |
+| 1506      | Establishes Vatican Museums with acquisition of Laocoön sculpture on January 14[^177]                                                        |
+| 1506      | Lays foundation stone for new St. Peter's Basilica on April 17[^178]                                                                         |
+| 1506      | Personally leads military campaign; Perugia surrenders September 13, Bologna captured November 10[^179]                                      |
+| 1508      | Commissions Michelangelo to paint Sistine Chapel ceiling[^180]                                                                               |
+| 1508      | Commissions Raphael to decorate rooms in the Apostolic Palace[^181]                                                                          |
+| 1508      | Forms League of Cambrai in December against Venice[^182]                                                                                     |
+| 1509      | Venice defeated at Battle of Agnadello on May 14[^183]                                                                                       |
+| 1510      | Reconciles with Venice and turns against France[^184]                                                                                        |
+| 1511      | Forms Holy League in October against France[^185]                                                                                            |
+| 1511      | Church council brings charges of sexual misconduct against him[^186]                                                                         |
+| 1512      | Fifth Lateran Council opens on May 10[^187]                                                                                                  |
+| 1512      | Holy League defeated at Battle of Ravenna in April, but French position in Italy collapses[^188]                                             |
+| 1512      | Sistine Chapel ceiling paintings unveiled in October[^189]                                                                                   |
+| 1512      | Congress of Mantua represents closest approach to Italian unification[^190]                                                                  |
+| 1513      | Presents himself as "liberator of Italy" at Roman Carnival[^191]                                                                             |
+| 1513      | Dies of fever February 20-21; buried in St. Peter's Basilica[^192]                                                                           |
+| 1514      | Erasmus's satirical dialogue "Julius Excluded from Heaven" published anonymously[^193]                                                       |
 
 ---
 
@@ -283,199 +283,395 @@ This quote, directed at Michelangelo during one of their many conflicts, illustr
 ## References
 
 [^1]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^2]: [Julius II | Pope, Raphael, Michelangelo, & Sistine Chapel | Britannica](https://www.britannica.com/biography/Julius-II)
+
 [^3]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^4]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^5]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^6]: [Pope Julius II](https://www.geni.com/people/Pope-Julius-II/6000000015133164589)
+
 [^7]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^8]: [Julius II ca. 1445–1513 Pope | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/julius-ii-ca-1445-1513-pope)
+
 [^9]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^10]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^11]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^12]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^13]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^14]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^15]: [The Papal Election of 1492: Rodrigo Borgia and the Conclave that Made him Pope Alexander VI – DIG](https://digpodcast.org/2021/01/03/papal-election-1492/)
+
 [^16]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^17]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^18]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^19]: [Julius II and the Glory of the Papacy | by Nick Howard | The History Inquiry | Medium](https://medium.com/the-history-inquiry/julius-ii-and-the-glory-of-the-papacy-c15a1de07a5e)
+
 [^20]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^21]: [Pope Julius II – the warrior pope - War History](https://warhistory.org/@msw/article/pope-julius-ii-the-warrior-pope)
+
 [^22]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^23]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^24]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^25]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^26]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^27]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^28]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^29]: [League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/League_of_Cambrai)
+
 [^30]: [War of the League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai)
+
 [^31]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^32]: [War of the League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai)
+
 [^33]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^34]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^35]: [Art patronage of Julius II - Wikipedia](https://en.wikipedia.org/wiki/Art_patronage_of_Julius_II)
+
 [^36]: [Vatican Museums - Wikipedia](https://en.wikipedia.org/wiki/Vatican_Museums)
+
 [^37]: [Vatican Museums - Wikipedia](https://en.wikipedia.org/wiki/Vatican_Museums)
+
 [^38]: [History of the Vatican Museums - What a Life Tours](https://www.whatalifetours.com/history-of-the-vatican-museums/)
+
 [^39]: [Bramante, et.al., Saint Peter's Basilica - Khan Academy](https://www.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/bramante/a/bramante-etal-saint-peters-basilica)
+
 [^40]: [St. Peter's Basilica - Wikipedia](https://en.wikipedia.org/wiki/St._Peter's_Basilica)
+
 [^41]: [Bramante, et.al., Saint Peter's Basilica - Khan Academy](https://www.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/bramante/a/bramante-etal-saint-peters-basilica)
+
 [^42]: [Tomb of Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Tomb_of_Pope_Julius_II)
+
 [^43]: [How A Bronze Statue By Michelangelo Became A Cannon | Barbara O'Brien](https://www.patheos.com/blogs/thereligioushistorynerd/2023/04/how-a-bronze-statue-by-michelangelo-became-a-canon/)
+
 [^44]: [How A Bronze Statue By Michelangelo Became A Cannon | Barbara O'Brien](https://www.patheos.com/blogs/thereligioushistorynerd/2023/04/how-a-bronze-statue-by-michelangelo-became-a-canon/)
+
 [^45]: [How A Bronze Statue By Michelangelo Became A Cannon | Barbara O'Brien](https://www.patheos.com/blogs/thereligioushistorynerd/2023/04/how-a-bronze-statue-by-michelangelo-became-a-canon/)
+
 [^46]: [The Forgotten Masterpiece of Bologna: Michelangelo's Lost Bronze Statue of Julius II - Michelangelo's lost masterpiece](https://michelangelo-lost-masterpiece.com/michelangelo/the-forgotten-masterpiece-of-bologna-michelangelos-lost-bronze-statue-of-julius-ii-1974/)
+
 [^47]: [The Michelangelo Sculpture That Was Sold for Scrap](https://www.thedailybeast.com/the-michelangelo-sculpture-that-was-sold-for-scrap/)
+
 [^48]: [Sistine Chapel ceiling - Wikipedia](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling)
+
 [^49]: [Michelangelo's Sistine Chapel Masterpiece: The Pope Behind The Commission | CyPaint](https://cypaint.com/article/who-was-pope-when-michelangelo-painted-the-sistine-chapel)
+
 [^50]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^51]: [Room of the Segnatura](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/stanza-della-segnatura.html)
+
 [^52]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^53]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^54]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^55]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^56]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^57]: [Fifth Lateran Council | Church History, Purpose, & Outcome | Britannica](https://www.britannica.com/event/Lateran-Council-Fifth-1512-1517)
+
 [^58]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^59]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^60]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^61]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^62]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^63]: [Felice della Rovere - Wikipedia](https://en.wikipedia.org/wiki/Felice_della_Rovere)
+
 [^64]: [A Peek Into the Life of Julius II as "The Fearsome Pope"](https://italiantribune.com/the-notorious-popes-part-vi/)
+
 [^65]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^66]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^67]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^68]: [Pope Julius II – the warrior pope - War History](https://warhistory.org/@msw/article/pope-julius-ii-the-warrior-pope)
+
 [^69]: [How the 'Warrior Pope' led armies in vicious combat](https://www.wearethemighty.com/mighty-history/julius-ii-warrior-pope/)
+
 [^70]: [QUOTES BY POPE JULIUS II | A-Z Quotes](https://www.azquotes.com/author/50345-Pope_Julius_II)
+
 [^71]: [Julius II and the Glory of the Papacy | by Nick Howard | The History Inquiry | Medium](https://medium.com/the-history-inquiry/julius-ii-and-the-glory-of-the-papacy-c15a1de07a5e)
+
 [^72]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^73]: [Julius II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/julius-ii)
+
 [^74]: [Pope Julius II, Warrior Pope](https://www.catholic365.com/article/45857/pope-julius-ii-warrior-pope.html)
+
 [^75]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^76]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^77]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^78]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^79]: [How Did Erasmus Influence the Protestant Reformation? | Christianity.com](https://www.christianity.com/church/church-history/erasmus-influenced-protestant-reformation.html)
+
 [^80]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^81]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^82]: [Pope Julius II](https://www.geni.com/people/Pope-Julius-II/6000000015133164589)
+
 [^83]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^84]: [Pope Julius II](https://www.geni.com/people/Pope-Julius-II/6000000015133164589)
+
 [^85]: [Pope Julius II](https://www.geni.com/people/Pope-Julius-II/6000000015133164589)
+
 [^86]: [Felice della Rovere - Wikipedia](https://en.wikipedia.org/wiki/Felice_della_Rovere)
+
 [^87]: [Felice della Rovere - Wikipedia](https://en.wikipedia.org/wiki/Felice_della_Rovere)
+
 [^88]: [Felice della Rovere - Wikipedia](https://en.wikipedia.org/wiki/Felice_della_Rovere)
+
 [^89]: [Felice della Rovere - Wikipedia](https://en.wikipedia.org/wiki/Felice_della_Rovere)
+
 [^90]: [A Peek Into the Life of Julius II as "The Fearsome Pope"](https://italiantribune.com/the-notorious-popes-part-vi/)
+
 [^91]: [Julius II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/julius-ii)
+
 [^92]: [Julius II and the Glory of the Papacy | by Nick Howard | The History Inquiry | Medium](https://medium.com/the-history-inquiry/julius-ii-and-the-glory-of-the-papacy-c15a1de07a5e)
+
 [^93]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^94]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^95]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^96]: [How A Bronze Statue By Michelangelo Became A Cannon | Barbara O'Brien](https://www.patheos.com/blogs/thereligioushistorynerd/2023/04/how-a-bronze-statue-by-michelangelo-became-a-canon/)
+
 [^97]: [How A Bronze Statue By Michelangelo Became A Cannon | Barbara O'Brien](https://www.patheos.com/blogs/thereligioushistorynerd/2023/04/how-a-bronze-statue-by-michelangelo-became-a-canon/)
+
 [^98]: [Pope Julius II timeline | Timetoast timelines](https://www.timetoast.com/timelines/pope-julius-ii--2)
+
 [^99]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^100]: [Tomb of Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Tomb_of_Pope_Julius_II)
+
 [^101]: [Tomb of Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Tomb_of_Pope_Julius_II)
+
 [^102]: [Pope Julius II (1443-1513) - Find a Grave Memorial](https://www.findagrave.com/memorial/7172202/julius_ii)
+
 [^103]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^104]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^105]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^106]: [Shepherding the Flock: Pope Julius II's Renaissance Vision of a Unified Italy](https://escholarship.org/uc/item/2kj5f86f)
+
 [^107]: [Shepherding the Flock: Pope Julius II's Renaissance Vision of a Unified Italy](https://escholarship.org/uc/item/2kj5f86f)
+
 [^108]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^109]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^110]: [Art patronage of Julius II - Wikipedia](https://en.wikipedia.org/wiki/Art_patronage_of_Julius_II)
+
 [^111]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^112]: [Vatican Museums - Wikipedia](https://en.wikipedia.org/wiki/Vatican_Museums)
+
 [^113]: [Vatican Museums - Wikipedia](https://en.wikipedia.org/wiki/Vatican_Museums)
+
 [^114]: [Bramante, et.al., Saint Peter's Basilica - Khan Academy](https://www.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/bramante/a/bramante-etal-saint-peters-basilica)
+
 [^115]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^116]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^117]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^118]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^119]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^120]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^121]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^122]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^123]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^124]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^125]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^126]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^127]: [Art patronage of Julius II - Wikipedia](https://en.wikipedia.org/wiki/Art_patronage_of_Julius_II)
+
 [^128]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^129]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^130]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^131]: [War of the League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai)
+
 [^132]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^133]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^134]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^135]: [Sistine Chapel ceiling - Wikipedia](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling)
+
 [^136]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^137]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^138]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^139]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^140]: [Shepherding the Flock: Pope Julius II's Renaissance Vision of a Unified Italy](https://escholarship.org/uc/item/2kj5f86f)
+
 [^141]: [Shepherding the Flock: Pope Julius II's Renaissance Vision of a Unified Italy](https://escholarship.org/uc/item/2kj5f86f)
+
 [^142]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^143]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^144]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^145]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^146]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^147]: [How Did Erasmus Influence the Protestant Reformation? | Christianity.com](https://www.christianity.com/church/church-history/erasmus-influenced-protestant-reformation.html)
+
 [^148]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^149]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^150]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^151]: [Pope Julius II – the warrior pope - War History](https://warhistory.org/@msw/article/pope-julius-ii-the-warrior-pope)
+
 [^152]: [QUOTES BY POPE JULIUS II | A-Z Quotes](https://www.azquotes.com/author/50345-Pope_Julius_II)
+
 [^153]: [How the 'Warrior Pope' led armies in vicious combat](https://www.wearethemighty.com/mighty-history/julius-ii-warrior-pope/)
+
 [^154]: [Felice della Rovere - Wikipedia](https://en.wikipedia.org/wiki/Felice_della_Rovere)
+
 [^155]: [A Peek Into the Life of Julius II as "The Fearsome Pope"](https://italiantribune.com/the-notorious-popes-part-vi/)
+
 [^156]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^157]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^158]: [Julius II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/julius-ii)
+
 [^159]: [Bramante, et.al., Saint Peter's Basilica - Khan Academy](https://www.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/bramante/a/bramante-etal-saint-peters-basilica)
+
 [^160]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^161]: [Fifth Council of the Lateran - Wikipedia](https://en.wikipedia.org/wiki/Fifth_Council_of_the_Lateran)
+
 [^162]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^163]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^164]: [War of the League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai)
+
 [^165]: [Shepherding the Flock: Pope Julius II's Renaissance Vision of a Unified Italy](https://escholarship.org/uc/item/2kj5f86f)
+
 [^166]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^167]: [Julius II ca. 1445–1513 Pope | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/julius-ii-ca-1445-1513-pope)
+
 [^168]: [Julius II ca. 1445–1513 Pope | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/julius-ii-ca-1445-1513-pope)
+
 [^169]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^170]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^171]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^172]: [Felice della Rovere - Wikipedia](https://en.wikipedia.org/wiki/Felice_della_Rovere)
+
 [^173]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^174]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^175]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^176]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^177]: [Vatican Museums - Wikipedia](https://en.wikipedia.org/wiki/Vatican_Museums)
+
 [^178]: [St. Peter's Basilica - Wikipedia](https://en.wikipedia.org/wiki/St._Peter's_Basilica)
+
 [^179]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^180]: [Sistine Chapel ceiling - Wikipedia](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling)
+
 [^181]: [Raphael Rooms - Wikipedia](https://en.wikipedia.org/wiki/Raphael_Rooms)
+
 [^182]: [League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/League_of_Cambrai)
+
 [^183]: [War of the League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai)
+
 [^184]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^185]: [War of the League of Cambrai - Wikipedia](https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai)
+
 [^186]: [Pope Julius II – Reformation 500](https://reformation500.csl.edu/pope-julius-ii/)
+
 [^187]: [Fifth Lateran Council | Church History, Purpose, & Outcome | Britannica](https://www.britannica.com/event/Lateran-Council-Fifth-1512-1517)
+
 [^188]: [CATHOLIC ENCYCLOPEDIA: Pope Julius II](https://www.newadvent.org/cathen/08562a.htm)
+
 [^189]: [Pope Julius II timeline | Timetoast timelines](https://www.timetoast.com/timelines/pope-julius-ii--2)
+
 [^190]: [Shepherding the Flock: Pope Julius II's Renaissance Vision of a Unified Italy](https://escholarship.org/uc/item/2kj5f86f)
+
 [^191]: [Pope Julius II timeline | Timetoast timelines](https://www.timetoast.com/timelines/pope-julius-ii--2)
+
 [^192]: [Pope Julius II - Wikipedia](https://en.wikipedia.org/wiki/Pope_Julius_II)
+
 [^193]: ["Julius Excluded from Heaven" ~ The Imaginative Conservative](https://theimaginativeconservative.org/2017/05/julius-excluded-heaven-erasmus-rotterdam.html)
+
 [^194]: [QUOTES BY POPE JULIUS II | A-Z Quotes](https://www.azquotes.com/author/50345-Pope_Julius_II)
+
 [^195]: [Pope Julius II quotes: wise famous quotes, sayings and quotations by Pope Julius II](https://www.wisefamousquotes.com/pope-julius-ii-quotes/)
+
 [^196]: [Shepherding the Flock: Pope Julius II's Renaissance Vision of a Unified Italy](https://escholarship.org/uc/item/2kj5f86f)
+
 [^197]: [Pope Julius II: You dare to dicker with your pontiff?](https://www.quotes.net/mquote/993)

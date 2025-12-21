@@ -163,34 +163,34 @@ The fratricide that began his reign and the executions of rivals established a p
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1432 | Born March 30 in Edirne (Adrianople) |
-| 1437 | Sent to govern Amasya province at age five after brother's death |
-| 1442 | Briefly held hostage in Ottoman Empire with brother Radu |
-| 1444 | First ascension to throne at age 12 (August) after father's abdication |
-| 1444 | Crusaders cross the Danube (September); Battle of Varna (November 10) |
-| 1446 | Father Murad II resumes throne; Mehmed returns to Amasya (May) |
-| 1451 | Second ascension to throne after father's death (February 3) |
-| 1451 | Strengthens Ottoman Navy and begins Constantinople preparations |
-| 1452 | Builds Rumelihisarı fortress on the Bosphorus |
-| 1453 | Begins Siege of Constantinople (April 6) |
-| 1453 | Transports fleet overland into Golden Horn (April 22) |
-| 1453 | Conquers Constantinople (May 29) at age 21 |
-| 1456 | Defeats at Siege of Belgrade (July 4-22); wounded and forced to retreat |
-| 1459 | Conquers Serbia |
-| 1460 | Conquers the Morea (May 29) |
-| 1461 | Conquers Anatolia to the Euphrates from Turkmen principalities |
+| Year | Event                                                                        |
+| ---- | ---------------------------------------------------------------------------- |
+| 1432 | Born March 30 in Edirne (Adrianople)                                         |
+| 1437 | Sent to govern Amasya province at age five after brother's death             |
+| 1442 | Briefly held hostage in Ottoman Empire with brother Radu                     |
+| 1444 | First ascension to throne at age 12 (August) after father's abdication       |
+| 1444 | Crusaders cross the Danube (September); Battle of Varna (November 10)        |
+| 1446 | Father Murad II resumes throne; Mehmed returns to Amasya (May)               |
+| 1451 | Second ascension to throne after father's death (February 3)                 |
+| 1451 | Strengthens Ottoman Navy and begins Constantinople preparations              |
+| 1452 | Builds Rumelihisarı fortress on the Bosphorus                                |
+| 1453 | Begins Siege of Constantinople (April 6)                                     |
+| 1453 | Transports fleet overland into Golden Horn (April 22)                        |
+| 1453 | Conquers Constantinople (May 29) at age 21                                   |
+| 1456 | Defeats at Siege of Belgrade (July 4-22); wounded and forced to retreat      |
+| 1459 | Conquers Serbia                                                              |
+| 1460 | Conquers the Morea (May 29)                                                  |
+| 1461 | Conquers Anatolia to the Euphrates from Turkmen principalities               |
 | 1462 | Campaign against Vlad III of Wallachia; Night Attack at Târgoviște (June 17) |
-| 1463 | Fatih Mosque Complex construction begins |
-| 1463 | Annexes Bosnia; Venetian War begins (continues to 1479) |
-| 1468 | Karaman annexed to Ottoman Empire; Skanderbeg dies |
-| 1470 | Fatih Mosque Complex completed |
-| 1473 | Victory at Battle of Başkent (August 11) against Uzun Hasan |
-| 1478 | Conquers Albania after Skanderbeg's death |
-| 1479 | Venetian War ends in Ottoman victory |
-| 1480 | Gentile Bellini paints his portrait |
-| 1481 | Dies May 3 near Gebze during military campaign; succeeded by Bayezid II |
+| 1463 | Fatih Mosque Complex construction begins                                     |
+| 1463 | Annexes Bosnia; Venetian War begins (continues to 1479)                      |
+| 1468 | Karaman annexed to Ottoman Empire; Skanderbeg dies                           |
+| 1470 | Fatih Mosque Complex completed                                               |
+| 1473 | Victory at Battle of Başkent (August 11) against Uzun Hasan                  |
+| 1478 | Conquers Albania after Skanderbeg's death                                    |
+| 1479 | Venetian War ends in Ottoman victory                                         |
+| 1480 | Gentile Bellini paints his portrait                                          |
+| 1481 | Dies May 3 near Gebze during military campaign; succeeded by Bayezid II      |
 
 ---
 
@@ -221,156 +221,309 @@ This quote illustrates Mehmed's pragmatic tolerance and understanding of economi
 ## References
 
 [^1]: Britannica. "Mehmed II | Biography, The Conqueror, Accomplishments, Cannon, & History." https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan
+
 [^2]: Daily Sabah. "Mehmed the Conqueror: An intellectual genius among Ottoman sultans." https://www.dailysabah.com/arts/portrait/mehmed-the-conqueror-an-intellectual-genius-among-ottoman-sultans
+
 [^3]: World History Encyclopedia. "Mehmed II." https://www.worldhistory.org/Mehmed_II/
+
 [^4]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^5]: All About Turkey. "Sultan Mehmed II the Conqueror." https://www.allaboutturkey.com/mehmet2.html
+
 [^6]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^7]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^8]: The Ottomans. "Mehmet II." http://www.theottomans.org/english/family/mehmet2.asp
+
 [^9]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^10]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^11]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^12]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^13]: The Ottomans. "Mehmet II." http://www.theottomans.org/english/family/mehmet2.asp
+
 [^14]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^15]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^16]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^17]: World History Encyclopedia Timeline. "Timeline: Mehmed II." https://www.worldhistory.org/timeline/Mehmed_II/
+
 [^18]: Britannica. "Mehmed II summary." https://www.britannica.com/summary/Mehmed-II-Ottoman-sultan
+
 [^19]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^20]: The Archaeologist. "The Brutal Things Mehmed II Did To His Enemies." https://www.thearchaeologist.org/blog/the-brutal-things-mehmed-ii-did-to-his-enemies
+
 [^21]: Fall of Constantinople. Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^22]: Medieval History. "Mehmed II and the Death of the Roman World." https://historymedieval.com/mehmed-ii-and-the-death-of-the-roman-world/
+
 [^23]: Encyclopedia.com. "Sultan Of Ottoman Empire Mehmed II." https://www.encyclopedia.com/people/history/colombian-history-biographies/sultan-ottoman-empire-mehmed-ii
+
 [^24]: Britannica. "Mehmed II | Biography, The Conqueror, Accomplishments, Cannon, & History." https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan
+
 [^25]: World History Encyclopedia. "Mehmed II." https://www.worldhistory.org/Mehmed_II/
+
 [^26]: Britannica. "Mehmed II | Biography, The Conqueror, Accomplishments, Cannon, & History." https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan
+
 [^27]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^28]: Lumen Learning. "The Fall of Constantinople." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-fall-of-constantinople/
+
 [^29]: All That's Interesting. "Meet Mehmed II, The Ottoman Ruler Who Conquered Constantinople." https://allthatsinteresting.com/mehmed-ii
+
 [^30]: Fall of Constantinople. Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^31]: TheCollector. "Fall of Constantinople (1453): The Siege That Changed the World." https://www.thecollector.com/fall-constantinople-1453-changed-world/
+
 [^32]: Lumen Learning. "The Fall of Constantinople." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-fall-of-constantinople/
+
 [^33]: University of Chicago Library. "Converting Constantinople." https://www.lib.uchicago.edu/collex/exhibits/tensions-renaissance-cities/converting-constantinople/
+
 [^34]: Fall of Constantinople. Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^35]: Quote Park. "Mehmed II Quotes." https://quotepark.com/authors/mehmed-ii/
+
 [^36]: Fall of Constantinople. Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^37]: TheCollector. "Mehmed the Conqueror, the Sultan Who Took Constantinople." https://www.thecollector.com/mehmed-the-conqueror-constantinople/
+
 [^38]: Lumen Learning. "The Fall of Constantinople." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-fall-of-constantinople/
+
 [^39]: Medieval History. "Mehmed II and the Death of the Roman World." https://historymedieval.com/mehmed-ii-and-the-death-of-the-roman-world/
+
 [^40]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^41]: World History Encyclopedia Timeline. "Timeline: Mehmed II." https://www.worldhistory.org/timeline/Mehmed_II/
+
 [^42]: World History Edu. "Mehmed the Conqueror: 10 Major Achievements." https://worldhistoryedu.com/mehmed-the-conqueror-birth-reign-military-conquests-major-achievements/
+
 [^43]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^44]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^45]: Wikipedia. "Mehmed II's campaigns." https://en.wikipedia.org/wiki/Mehmed_II's_campaigns
+
 [^46]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^47]: World History Edu. "Mehmed the Conqueror: 10 Major Achievements." https://worldhistoryedu.com/mehmed-the-conqueror-birth-reign-military-conquests-major-achievements/
+
 [^48]: World History Encyclopedia Timeline. "Timeline: Mehmed II." https://www.worldhistory.org/timeline/Mehmed_II/
+
 [^49]: EBSCO Research. "Mehmed II's military significance." https://www.ebsco.com/research-starters/history/mehmed-iis-military-significance
+
 [^50]: World History Encyclopedia Timeline. "Timeline: Mehmed II." https://www.worldhistory.org/timeline/Mehmed_II/
+
 [^51]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^52]: EBSCO Research. "Mehmed the Conqueror." https://www.ebsco.com/research-starters/history/mehmed-conqueror
+
 [^53]: Britannica. "Mehmed II | Biography, The Conqueror, Accomplishments, Cannon, & History." https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan
+
 [^54]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^55]: Top20Series. "Architectural Achievements of Sultan Mehmed II: Great Mosques and Buildings." https://top20series.com.pk/architectural-achievements-of-sultan-mehmed-ii-great-mosques-and-buildings/
+
 [^56]: Archnet. "Fatih Külliyesi." https://www.archnet.org/sites/2842
+
 [^57]: Top20Series. "Architectural Achievements of Sultan Mehmed II: Great Mosques and Buildings." https://top20series.com.pk/architectural-achievements-of-sultan-mehmed-ii-great-mosques-and-buildings/
+
 [^58]: Top20Series. "Architectural Achievements of Sultan Mehmed II: Great Mosques and Buildings." https://top20series.com.pk/architectural-achievements-of-sultan-mehmed-ii-great-mosques-and-buildings/
+
 [^59]: Daily Sabah. "Mehmed the Conqueror: An intellectual genius among Ottoman sultans." https://www.dailysabah.com/arts/portrait/mehmed-the-conqueror-an-intellectual-genius-among-ottoman-sultans
+
 [^60]: TheCollector. "Mehmed the Conqueror, the Sultan Who Took Constantinople." https://www.thecollector.com/mehmed-the-conqueror-constantinople/
+
 [^61]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^62]: The Other Tour. "Mehmet II: The Renaissance Sultan Who Took Constantinople." https://theothertour.com/mehmet/
+
 [^63]: Wikimedia Commons. "Category:Portrait of Mehmed II by Gentile Bellini." https://commons.wikimedia.org/wiki/Category:Portrait_of_Mehmed_II_by_Gentile_Bellini
+
 [^64]: Khan Academy. "Gentile Bellini, Portrait of Sultan Mehmed II." https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/venice-early-ren/a/gentile-bellini-portrait-of-sultan-mehmed-ii
+
 [^65]: The Other Tour. "Mehmet II: The Renaissance Sultan Who Took Constantinople." https://theothertour.com/mehmet/
+
 [^66]: Discovery UK. "The Janissaries: Elite Infantry of the Ottoman Empire." https://www.discoveryuk.com/military-history/the-janissaries-elite-infantry-of-the-ottoman-empire/
+
 [^67]: Wikipedia. "Military of the Ottoman Empire." https://en.wikipedia.org/wiki/Military_of_the_Ottoman_Empire
+
 [^68]: EBSCO Research. "Rise of the Gunpowder Empires." https://www.ebsco.com/research-starters/history/rise-gunpowder-empires
+
 [^69]: TheCollector. "The Evolution of Ottoman Warfare From Bows to Canons." https://www.thecollector.com/evolution-ottoman-warfare/
+
 [^70]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^71]: Fall of Constantinople. Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^72]: Lumen Learning. "The Fall of Constantinople." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-fall-of-constantinople/
+
 [^73]: Warfare History Network. "The Fall of Constantinople: Death of an Empire." https://warfarehistorynetwork.com/article/sultan-mehmet-ii-conquers-constantinople/
+
 [^74]: Lumen Learning. "The Fall of Constantinople." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-fall-of-constantinople/
+
 [^75]: Fall of Constantinople. Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^76]: TheCollector. "Fall of Constantinople (1453): The Siege That Changed the World." https://www.thecollector.com/fall-constantinople-1453-changed-world/
+
 [^77]: Brain Byts. "The Fall of Constantinople (1453): How Mehmed II Changed World History." https://www.brain-byts.com/post/the-fall-of-constantinople-1453-how-mehmed-ii-changed-world-history
+
 [^78]: University of Chicago Library. "Converting Constantinople." https://www.lib.uchicago.edu/collex/exhibits/tensions-renaissance-cities/converting-constantinople/
+
 [^79]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^80]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^81]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^82]: History Today. "The Ottomans Defeated at Belgrade." https://www.historytoday.com/archive/ottomans-defeated-belgrade
+
 [^83]: Wikipedia. "Siege of Belgrade (1456)." https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)
+
 [^84]: War History. "THE SIEGE OF BELGRADE 1456." https://warhistory.org/@msw/article/the-siege-of-belgrade-1456
+
 [^85]: Wikipedia. "Siege of Belgrade (1456)." https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)
+
 [^86]: Wikipedia. "Siege of Belgrade (1456)." https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)
+
 [^87]: Slow History. "July 1456: The Siege of Belgrade; Rehabilitation of Joan of Arc." https://slowhistory.substack.com/p/1456-07
+
 [^88]: History Today. "The Ottomans Defeated at Belgrade." https://www.historytoday.com/archive/ottomans-defeated-belgrade
+
 [^89]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^90]: Vocal Media. "Vlad the Impaler: Dracula's Real History and His Clash with the Ottoman Empire." https://vocal.media/history/vlad-the-impaler-dracula-s-real-history-and-his-clash-with-the-ottoman-empire
+
 [^91]: Wikipedia. "Vlad the Impaler." https://en.wikipedia.org/wiki/Vlad_the_Impaler
+
 [^92]: Wikipedia. "Night attack at Târgoviște." https://en.wikipedia.org/wiki/Night_attack_at_Târgoviște
+
 [^93]: We Are The Mighty. "The insane way Vlad the Impaler turned back an enemy army." https://www.wearethemighty.com/popular/vlad-the-impaler/
+
 [^94]: Vocal Media. "Vlad the Impaler: Dracula's Real History and His Clash with the Ottoman Empire." https://vocal.media/history/vlad-the-impaler-dracula-s-real-history-and-his-clash-with-the-ottoman-empire
+
 [^95]: We Are The Mighty. "The brutal attack that made Dracula so famous." https://www.wearethemighty.com/mighty-history/vlad-dracula-targoviste-mehmed-ii/
+
 [^96]: Wikipedia. "Night attack at Târgoviște." https://en.wikipedia.org/wiki/Night_attack_at_Târgoviște
+
 [^97]: The Archaeologist. "The Brutal Things Mehmed II Did To His Enemies." https://www.thearchaeologist.org/blog/the-brutal-things-mehmed-ii-did-to-his-enemies
+
 [^98]: Daily Sabah. "Sultan Mehmed II: From painters to assassins, Venice's war with the Ottomans." https://www.dailysabah.com/arts/sultan-mehmed-ii-from-painters-to-assassins-venices-war-with-the-ottomans/news
+
 [^99]: Quora. "What made Mehmed II so cruel and wicked?" https://www.quora.com/What-made-Mehmed-II-so-cruel-and-wicked
+
 [^100]: History Today. "Ottoman Expansion under Mehmed II." https://www.historytoday.com/archive/ottoman-expansion-under-mehmed-ii
+
 [^101]: Daily Sabah. "Sultan Mehmed II: From painters to assassins, Venice's war with the Ottomans." https://www.dailysabah.com/arts/sultan-mehmed-ii-from-painters-to-assassins-venices-war-with-the-ottomans/news
+
 [^102]: Daily Sabah. "Sultan Mehmed II: From painters to assassins, Venice's war with the Ottomans." https://www.dailysabah.com/arts/sultan-mehmed-ii-from-painters-to-assassins-venices-war-with-the-ottomans/news
+
 [^103]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^104]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^105]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^106]: The Ottomans. "Mehmet II." http://www.theottomans.org/english/family/mehmet2.asp
+
 [^107]: The Ottomans. "Mehmet II." http://www.theottomans.org/english/family/mehmet2.asp
+
 [^108]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^109]: Study.com. "Mehmed II Biography, Legacy & Conquests." https://study.com/academy/lesson/mehmed-ii-biography-legacy-conquests.html
+
 [^110]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^111]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^112]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^113]: Geni. "Mehmed II bin Murad Han, Ottoman Sultan." https://www.geni.com/people/Mehmed-II-bin-Murad-Han-The-Conqueror-Ottoman-Sultan/385223927880013853
+
 [^114]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^115]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^116]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^117]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^118]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^119]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^120]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^121]: Tumblr. "Mehmed II + harem and children." https://www.tumblr.com/ottomanladies/176144490302/mehmed-ii-harem-and-children
+
 [^122]: Geni. "Mehmed II bin Murad Han, Ottoman Sultan." https://www.geni.com/people/Mehmed-II-bin-Murad-Han-The-Conqueror-Ottoman-Sultan/385223927880013853
+
 [^123]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^124]: Fall of Constantinople. Wikipedia. https://en.wikipedia.org/wiki/Fall_of_Constantinople
+
 [^125]: TheCollector. "Mehmed the Conqueror, the Sultan Who Took Constantinople." https://www.thecollector.com/mehmed-the-conqueror-constantinople/
+
 [^126]: TheCollector. "Mehmed the Conqueror, the Sultan Who Took Constantinople." https://www.thecollector.com/mehmed-the-conqueror-constantinople/
+
 [^127]: EBSCO Research. "Mehmed the Conqueror." https://www.ebsco.com/research-starters/history/mehmed-conqueror
+
 [^128]: Lumen Learning. "The Fall of Constantinople." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-fall-of-constantinople/
+
 [^129]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^130]: Daily Sabah. "Mehmed the Conqueror: An intellectual genius among Ottoman sultans." https://www.dailysabah.com/arts/portrait/mehmed-the-conqueror-an-intellectual-genius-among-ottoman-sultans
+
 [^131]: TheCollector. "Mehmed the Conqueror, the Sultan Who Took Constantinople." https://www.thecollector.com/mehmed-the-conqueror-constantinople/
+
 [^132]: The Other Tour. "Mehmet II: The Renaissance Sultan Who Took Constantinople." https://theothertour.com/mehmet/
+
 [^133]: Top20Series. "Architectural Achievements of Sultan Mehmed II: Great Mosques and Buildings." https://top20series.com.pk/architectural-achievements-of-sultan-mehmed-ii-great-mosques-and-buildings/
+
 [^134]: World History Encyclopedia. "Mehmed II." https://www.worldhistory.org/Mehmed_II/
+
 [^135]: World History Encyclopedia. "Mehmed II." https://www.worldhistory.org/Mehmed_II/
+
 [^136]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^137]: Medieval History. "Mehmed II: From Boy Sultan to Conqueror of Constantinople." https://historymedieval.com/mehmed-ii-from-boy-sultan-to-conqueror-of-constantinople/
+
 [^138]: EBSCO Research. "Mehmed II's military significance." https://www.ebsco.com/research-starters/history/mehmed-iis-military-significance
+
 [^139]: World History Edu. "Mehmed the Conqueror: 10 Major Achievements." https://worldhistoryedu.com/mehmed-the-conqueror-birth-reign-military-conquests-major-achievements/
+
 [^140]: Britannica. "Mehmed II | Biography, The Conqueror, Accomplishments, Cannon, & History." https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan
+
 [^141]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^142]: World History Edu. "Mehmed the Conqueror: 10 Major Achievements." https://worldhistoryedu.com/mehmed-the-conqueror-birth-reign-military-conquests-major-achievements/
+
 [^143]: Wikipedia. "Mehmed II." https://en.wikipedia.org/wiki/Mehmed_II
+
 [^144]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^145]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^146]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^147]: Britannica. "Ottoman Empire - Mehmed II, Expansion, Legacy." https://www.britannica.com/place/Ottoman-Empire/Mehmed-II
+
 [^148]: Quora. "What made Mehmed II so cruel and wicked?" https://www.quora.com/What-made-Mehmed-II-so-cruel-and-wicked
+
 [^149]: The Archaeologist. "The Brutal Things Mehmed II Did To His Enemies." https://www.thearchaeologist.org/blog/the-brutal-things-mehmed-ii-did-to-his-enemies
+
 [^150]: Quote Park. "Mehmed II Quotes." https://quotepark.com/authors/mehmed-ii/
+
 [^151]: Quotes.net. "Sultan Mehmed II: Either I will conquer Istanbul or Istanbul will conquer me." https://www.quotes.net/mquote/1004151
+
 [^152]: A-Z Quotes. "QUOTES BY MEHMED THE CONQUEROR." https://www.azquotes.com/author/65572-Mehmed_the_Conqueror
+
 [^153]: Quote Park. "Mehmed II Quotes." https://quotepark.com/authors/mehmed-ii/
+
 [^154]: Quote Park. "Mehmed II Quotes." https://quotepark.com/authors/mehmed-ii/

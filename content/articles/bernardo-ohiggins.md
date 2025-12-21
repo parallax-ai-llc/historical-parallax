@@ -123,33 +123,33 @@ O'Higgins' own statements reveal a leader who struggled with the contradictions 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1778 | Born on August 20 in Chillán, Chile, illegitimate son of Ambrosio O'Higgins and Isabel Riquelme |
-| 1788 | Separated from his mother at age ten; sent to Lima for education |
-| 1795 | Sent to London at age seventeen to complete his studies |
-| 1798 | Met Francisco de Miranda in London; joined the Lautaro Lodge dedicated to Latin American independence |
-| 1801 | Father Ambrosio O'Higgins dies; Bernardo inherits Hacienda Las Canteras |
-| 1802 | Returns to Chile and begins life as a gentleman farmer |
-| 1810 | Joins the revolt against French-dominated Spanish government on September 18 |
-| 1814 | Wins at Battle of El Roble; promoted to colonel |
-| 1814 | Defeated at Battle of Rancagua (October 1-2); retreats to Argentina |
-| 1817 | Victory at Battle of Chacabuco (February 12) alongside José de San Martín |
-| 1817 | Appointed Supreme Director of Chile on February 16; granted dictatorial powers |
-| 1817 | Founds Chilean Military Academy |
-| 1818 | Proclaims Chilean independence on February 12 |
-| 1818 | Manuel Rodríguez assassinated on May 26 by government forces |
-| 1818 | Promulgates Provisional Constitution for the Chilean State with 143 articles |
-| 1818 | Establishes Chilean Navy under Lord Cochrane |
-| 1820 | Growing opposition from Church and aristocracy to his reforms |
-| 1822 | Promulgates controversial new constitution in October via handpicked convention |
-| 1822 | Provincial revolts erupt in Concepción and La Serena |
-| 1823 | Deposed by conservative coup on January 28; resigns under pressure |
-| 1823 | Departs Chile in July aboard British corvette Fly; begins exile in Peru |
-| 1823-1842 | Lives in exile in Peru at Hacienda de Cuiva and Hacienda Montalván near Lima |
-| 1842 | Chilean National Congress votes to allow his return and restores his rank |
-| 1842 | Dies in Lima on October 24 at age 64 from cardiac problems |
-| 1869 | Remains repatriated to Chile from Peru |
+| Year      | Event                                                                                                 |
+| --------- | ----------------------------------------------------------------------------------------------------- |
+| 1778      | Born on August 20 in Chillán, Chile, illegitimate son of Ambrosio O'Higgins and Isabel Riquelme       |
+| 1788      | Separated from his mother at age ten; sent to Lima for education                                      |
+| 1795      | Sent to London at age seventeen to complete his studies                                               |
+| 1798      | Met Francisco de Miranda in London; joined the Lautaro Lodge dedicated to Latin American independence |
+| 1801      | Father Ambrosio O'Higgins dies; Bernardo inherits Hacienda Las Canteras                               |
+| 1802      | Returns to Chile and begins life as a gentleman farmer                                                |
+| 1810      | Joins the revolt against French-dominated Spanish government on September 18                          |
+| 1814      | Wins at Battle of El Roble; promoted to colonel                                                       |
+| 1814      | Defeated at Battle of Rancagua (October 1-2); retreats to Argentina                                   |
+| 1817      | Victory at Battle of Chacabuco (February 12) alongside José de San Martín                             |
+| 1817      | Appointed Supreme Director of Chile on February 16; granted dictatorial powers                        |
+| 1817      | Founds Chilean Military Academy                                                                       |
+| 1818      | Proclaims Chilean independence on February 12                                                         |
+| 1818      | Manuel Rodríguez assassinated on May 26 by government forces                                          |
+| 1818      | Promulgates Provisional Constitution for the Chilean State with 143 articles                          |
+| 1818      | Establishes Chilean Navy under Lord Cochrane                                                          |
+| 1820      | Growing opposition from Church and aristocracy to his reforms                                         |
+| 1822      | Promulgates controversial new constitution in October via handpicked convention                       |
+| 1822      | Provincial revolts erupt in Concepción and La Serena                                                  |
+| 1823      | Deposed by conservative coup on January 28; resigns under pressure                                    |
+| 1823      | Departs Chile in July aboard British corvette Fly; begins exile in Peru                               |
+| 1823-1842 | Lives in exile in Peru at Hacienda de Cuiva and Hacienda Montalván near Lima                          |
+| 1842      | Chilean National Congress votes to allow his return and restores his rank                             |
+| 1842      | Dies in Lima on October 24 at age 64 from cardiac problems                                            |
+| 1869      | Remains repatriated to Chile from Peru                                                                |
 
 ---
 
@@ -184,72 +184,141 @@ A melancholy reflection on his legacy, expressing regret for the divisions his r
 ## References
 
 [^1]: [Bernardo O'Higgins - Wikipedia](https://en.wikipedia.org/wiki/Bernardo_O'Higgins)
+
 [^2]: [Bernardo O'Higgins | Chilean Liberator & 1st President | Britannica](https://www.britannica.com/biography/Bernardo-OHiggins)
+
 [^3]: [Bernardo O'Higgins - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Bernardo_O'Higgins)
+
 [^4]: [Bernardo O'Higgins - Students | Britannica Kids | Homework Help](https://kids.britannica.com/students/article/Bernardo-OHiggins/276168)
+
 [^5]: [Bernardo O'Higgins | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/bernardo-ohiggins)
+
 [^6]: [Bernardo O'Higgins | NMMC](https://nmmc.co.uk/2022/03/bernardo-ohiggins/)
+
 [^7]: [Family tree of Bernardo O'HIGGINS - Geneastar](https://en.geneastar.org/genealogy/bernardoo/bernardo-o-higgins)
+
 [^8]: [Bernardo O'Higgins - Kids | Britannica Kids | Homework Help](https://kids.britannica.com/kids/article/Bernardo-OHiggins/633354)
+
 [^9]: [O'Higgins of Chile - Heritage History](https://www.heritage-history.com/index.php?c=read&author=brooks&book=south&story=chile)
+
 [^10]: [Bernardo O'Higgins](https://www.latinamericanstudies.org/chile/ohiggins-bio.htm)
+
 [^11]: [Bernardo Ohiggins | Encyclopedia.com](https://www.encyclopedia.com/people/history/chilean-history-biographies/bernardo-ohiggins)
+
 [^12]: [Today we celebrate the birth of Bernardo O'Higgins - Anglo Chilean Society](https://www.anglochileansociety.org/single-post/today-we-celebrate-the-birth-of-bernardo-o-higgins)
+
 [^13]: [Birth of Bernardo O'Higgins, Chilean Independence Leader](https://seamusdubhghaill.com/2022/08/20/birth-of-bernardo-ohiggins-chilean-independence-leader/)
+
 [^14]: [Bernardo O'Higgins and the Independence of Chile | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/49/4/765/157326/Bernardo-O-Higgins-and-the-Independence-of-Chile)
+
 [^15]: [How the illegitimate son of a Sligo man became the father of Chilean independence - Irish Central](https://www.irishcentral.com/roots/history/illegitimate-son-sligo-father-of-chilean-independence)
+
 [^16]: [Bernardo O'Higgins Riquelme: Life, Political Career and Accomplishment - World History Edu](https://worldhistoryedu.com/bernardo-ohiggins-riquelme-life-political-career-and-accomplishment-of-the-chilean-independence-leader/)
+
 [^17]: [Collection: Bernardo O'Higgins Letters | New Mexico Archives Online](https://nmarchives.unm.edu/repositories/22/resources/1374)
+
 [^18]: [O'Higgins, Bernardo (1778–1842) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/ohiggins-bernardo-1778-1842)
+
 [^19]: [Bernardo O'Higgins and the Resurrection of Chile - History is Now Magazine](http://www.historyisnowmagazine.com/blog/2022/3/16/bernardo-ohiggins-and-the-resurrection-of-chile-to-rise-and-fall-like-phaethon)
+
 [^20]: [The Revolutionary With an Irish Name That Shaped Chile - TheCollector](https://www.thecollector.com/bernardo-o-higgins-chilean-revolutionary/)
+
 [^21]: [Bernardo O'Higgins - Grokipedia](https://grokipedia.com/page/Bernardo_O'Higgins)
+
 [^22]: [Bernardo O'Higgins - Liberator of Chile - HToys](https://htoys.store/en/blogs/pioneros-de-la-republica/bernardo-o-higgins-libertador-de-chile)
+
 [^23]: [O'Higgins | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/44/2/282/158928/O-Higgins)
+
 [^24]: [Bernardo O'Higgins: rebel son of an Irish viceroy - History Ireland](https://historyireland.com/bernardo-ohiggins-rebel-son-of-an-irish-viceroy/)
+
 [^25]: [Bernardo O'Higgins | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Bernardo_O'Higgins)
+
 [^26]: [Bernardo O'Higgins: The Rebel Son of a Viceroy](https://www.irlandeses.org/0610_206to215.pdf)
+
 [^27]: [Battle of Rancagua - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Rancagua)
+
 [^28]: [Chilean War of Independence - Wikipedia](https://en.wikipedia.org/wiki/Chilean_War_of_Independence)
+
 [^29]: [Bernardo O'Higgins facts for kids](https://kids.kiddle.co/Bernardo_O'Higgins)
+
 [^30]: [Battle of Chacabuco - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Chacabuco)
+
 [^31]: [Battle of Chacabuco | Patriot victory, Chilean independence - Britannica](https://www.britannica.com/event/Battle-of-Chacabuco)
+
 [^32]: [Chacabuco, Battle of | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/chacabuco-battle)
+
 [^33]: [History of Chile (by Luis Galdames) - Chapter 9](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/America/Chile/_Topics/history/_Texts/GALHOC/9*.html)
+
 [^34]: [How Napoleon's Conquest of Spain Led to Revolution in Chile - History Hit](https://www.historyhit.com/1818-declaration-chilean-independence/)
+
 [^35]: [Chilean Declaration of Independence - Wikipedia](https://en.wikipedia.org/wiki/Chilean_Declaration_of_Independence)
+
 [^36]: [Constitutional history of Chile - Wikipedia](https://en.wikipedia.org/wiki/Constitutional_history_of_Chile)
+
 [^37]: [Chilean Declaration of Independence - Grokipedia](https://grokipedia.com/page/Chilean_Declaration_of_Independence)
+
 [^38]: [The Proclamation of Chile's Independence - ELE USAL Strasbourg](https://strasbourg.eleusal.com/en/?p=14626)
+
 [^39]: [Letter from Supreme Director of Chile Bernardo O'Higgins - Early Americas Digital Archive](https://eada.lib.umd.edu/text-entries/ohiggins_letter_to_irisarri/)
+
 [^40]: [Manuel Rodríguez Erdoíza - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Rodríguez_Erdoíza)
+
 [^41]: [The Assassination of Manuel Rodríguez - Chile Today](https://chiletoday.cl/the-assassination-of-manuel-rodriguez/)
+
 [^42]: [La última conversación de O'Higgins con Manuel Rodríguez - La Tercera](https://www.latercera.com/noticia/la-ultima-conversacion-de-ohiggins-con-manuel-rodriguez-a-197-anos-de-la-muerte-del-guerrillero/)
+
 [^43]: [Manuel Rodríguez Erdoíza - Encyclopedia Information](https://webot.org/info/en/?search=Manuel_Rodr%C3%ADguez_Erdo%C3%ADza)
+
 [^44]: [Casa O'Higgins - Wikipedia](https://en.wikipedia.org/wiki/Casa_O'Higgins)
+
 [^45]: [Bernardo O´Higgins en Perú - SciELO Chile](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-88322021000200053)
+
 [^46]: [Bernardo O'Higgins - Wikidata](https://www.wikidata.org/wiki/Q28930)
+
 [^47]: [Don Bernardo O'Higgins - National Portrait Gallery](https://www.npg.org.uk/collections/search/person/mp51304/don-bernardo-ohiggins)
+
 [^48]: [Director Supremo Bernardo O'Higgins Riquelme - Geni](https://www.geni.com/people/Director-Supremo-Bernardo-O-Higgins-Riquelme-Capit%C3%A1n-General/381929376580004216)
+
 [^49]: [Bernardo O'Higgins (1778-1842) - WikiTree](https://www.wikitree.com/wiki/O'Higgins-10)
+
 [^50]: [Bernado O'Higgins - Habitats & Heritage](https://habitatsandheritage.org.uk/blog/bernado-ohiggins/)
+
 [^51]: [Top 12 Bernardo O Higgins Quotes & Sayings](https://quotessayings.net/topics/bernardo-o-higgins/)
+
 [^52]: [Bernardo O'Higgins - Quote.org](https://quote.org/author/bernardo-ohiggins-66178)
+
 [^53]: [What Are The Best Bernardo O Higgins Quotes 2024 - SearchQuotes](https://www.searchquotes.com/search/What_Are_The_Best_Bernardo_O_Higgins/)
+
 [^54]: [Top 12 Bernardo O'higgins Famous Quotes - QuoteStats](https://quotestats.com/topic/bernardo-ohiggins-famous-quotes/)
+
 [^55]: [Bernardo O'higgins Quotes - WiseFamousQuotes](https://www.wisefamousquotes.com/quotes-about-bernardo-ohiggins/)
+
 [^56]: [Bernardo O Higgins Quotes - WiseFamousQuotes](https://www.wisefamousquotes.com/quotes-about-bernardo-o-higgins/)
+
 [^57]: [Bernardo O'Higgins - "Now I am a private citizen" - Quote.org](https://quote.org/quote/now-i-am-a-private-citizen-during-584187)
+
 [^58]: [Bernardo O'Higgins - "My experience and what scant understanding" - Quote.org](https://quote.org/quote/my-experience-and-what-scant-understanding-of-584189)
+
 [^59]: [Top 30 Bernardo O'higgins Quotes - QuoteStats](https://quotestats.com/topic/bernardo-ohiggins-quotes/)
+
 [^60]: [Copy of Bernardo O'Higgins - Sutori](https://www.sutori.com/en/story/copy-of-bernardo-o-higgins--fwY6q96K8L1b5vTw8hcnk4vP)
+
 [^61]: Britannica Editors. "Bernardo O'Higgins." Encyclopedia Britannica, accessed December 2025.
+
 [^62]: New World Encyclopedia contributors. "Bernardo O'Higgins." New World Encyclopedia, accessed December 2025.
+
 [^63]: World History Edu. "Bernardo O'Higgins Riquelme: Life, Political Career and Accomplishment." 2024.
+
 [^64]: The Collector. "The Revolutionary With an Irish Name That Shaped Chile." 2024.
+
 [^65]: History Ireland. "Bernardo O'Higgins: rebel son of an Irish viceroy." 2024.
+
 [^66]: Chile Today. "The Assassination of Manuel Rodríguez." 2024.
+
 [^67]: Duke University Press. "Bernardo O'Higgins and the Independence of Chile." Hispanic American Historical Review, Volume 49, Number 4, 1969.
+
 [^68]: History is Now Magazine. "Bernardo O'Higgins and the Resurrection of Chile: To Rise and Fall Like Phaethon." 2022.
+
 [^69]: Encyclopedia.com. "O'Higgins, Bernardo (1778–1842)." 2024.
+
 [^70]: Penelope at the University of Chicago. "History of Chile by Luis Galdames, Chapter 9." 2024.

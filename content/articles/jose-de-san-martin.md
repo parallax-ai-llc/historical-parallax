@@ -211,37 +211,37 @@ Finally, some scholars note that assessments of San Martín's character reveal f
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1778 | Born on February 25 in Yapeyú, Corrientes, Viceroyalty of the Río de la Plata |
-| 1781 | Family moved to Buenos Aires |
-| 1783 | Family departed for Spain |
-| 1785 | Began education at the Seminary of Nobles in Madrid |
-| 1789 | Enlisted as a cadet in the Murcia Infantry Regiment at age 11 |
-| 1793 | First combat experience in Morocco at age 15 |
-| 1808 | Fought at the Battle of Bailén; promoted to lieutenant colonel |
+| Year | Event                                                                                |
+| ---- | ------------------------------------------------------------------------------------ |
+| 1778 | Born on February 25 in Yapeyú, Corrientes, Viceroyalty of the Río de la Plata        |
+| 1781 | Family moved to Buenos Aires                                                         |
+| 1783 | Family departed for Spain                                                            |
+| 1785 | Began education at the Seminary of Nobles in Madrid                                  |
+| 1789 | Enlisted as a cadet in the Murcia Infantry Regiment at age 11                        |
+| 1793 | First combat experience in Morocco at age 15                                         |
+| 1808 | Fought at the Battle of Bailén; promoted to lieutenant colonel                       |
 | 1811 | Distinguished himself at the Battle of Albuera; elevated to command Sagunto Dragoons |
-| 1812 | Resigned from Spanish army; arrived in Buenos Aires on March 9 |
-| 1812 | Married María de los Remedios de Escalada on September 12 |
-| 1812 | Promoted to Colonel on December 7 |
-| 1813 | Victory at the Battle of San Lorenzo on February 3 |
-| 1814 | Appointed commander of the Army of the North |
-| 1814 | Became Governor-Intendant of Cuyo Province |
-| 1816 | Daughter Mercedes born on August 24 in Mendoza |
-| 1816 | Argentine independence declared on July 9 |
-| 1817 | Led the Crossing of the Andes in January |
-| 1817 | Victory at the Battle of Chacabuco on February 12 |
-| 1817 | Entered Santiago, Chile on February 13 |
-| 1818 | Decisive victory at the Battle of Maipú on April 5, securing Chilean independence |
-| 1820 | Naval expedition departed from Valparaíso on August 20 |
-| 1821 | Entered Lima on July 12 |
-| 1821 | Proclaimed Peruvian independence on July 28 |
-| 1821 | Appointed Protector of Peru |
-| 1822 | Guayaquil Conference with Simón Bolívar on July 26-27 |
-| 1822 | Resigned as Protector of Peru in September |
-| 1823 | Wife María de los Remedios died on August 3 |
-| 1824 | Moved permanently to Europe with daughter Mercedes |
-| 1850 | Died on August 17 in Boulogne-sur-Mer, France at age 72 |
+| 1812 | Resigned from Spanish army; arrived in Buenos Aires on March 9                       |
+| 1812 | Married María de los Remedios de Escalada on September 12                            |
+| 1812 | Promoted to Colonel on December 7                                                    |
+| 1813 | Victory at the Battle of San Lorenzo on February 3                                   |
+| 1814 | Appointed commander of the Army of the North                                         |
+| 1814 | Became Governor-Intendant of Cuyo Province                                           |
+| 1816 | Daughter Mercedes born on August 24 in Mendoza                                       |
+| 1816 | Argentine independence declared on July 9                                            |
+| 1817 | Led the Crossing of the Andes in January                                             |
+| 1817 | Victory at the Battle of Chacabuco on February 12                                    |
+| 1817 | Entered Santiago, Chile on February 13                                               |
+| 1818 | Decisive victory at the Battle of Maipú on April 5, securing Chilean independence    |
+| 1820 | Naval expedition departed from Valparaíso on August 20                               |
+| 1821 | Entered Lima on July 12                                                              |
+| 1821 | Proclaimed Peruvian independence on July 28                                          |
+| 1821 | Appointed Protector of Peru                                                          |
+| 1822 | Guayaquil Conference with Simón Bolívar on July 26-27                                |
+| 1822 | Resigned as Protector of Peru in September                                           |
+| 1823 | Wife María de los Remedios died on August 3                                          |
+| 1824 | Moved permanently to Europe with daughter Mercedes                                   |
+| 1850 | Died on August 17 in Boulogne-sur-Mer, France at age 72                              |
 | 1880 | Remains repatriated to Argentina and entombed in Buenos Aires Metropolitan Cathedral |
 
 ---
@@ -267,157 +267,311 @@ Finally, some scholars note that assessments of San Martín's character reveal f
 ## References
 
 [^1]: Biography.com. "José de San Martín - Facts, Timeline & Life." https://www.biography.com/political-figures/jose-de-san-martin
+
 [^2]: Britannica. "Jose de San Martin | Biography & Facts." https://www.britannica.com/biography/Jose-de-San-Martin
+
 [^3]: Wikipedia. "Crossing of the Andes." https://en.wikipedia.org/wiki/Crossing_of_the_Andes
+
 [^4]: Wikipedia. "José de San Martín." https://en.wikipedia.org/wiki/José_de_San_Martín
+
 [^5]: EBSCO Research Starters. "José de San Martín." https://www.ebsco.com/research-starters/history/jose-de-san-martin
+
 [^6]: New World Encyclopedia. "José de San Martín." https://www.newworldencyclopedia.org/entry/José_de_San_Martín
+
 [^7]: Study.com. "Jose de San Martin | Biography, Legacy & Facts - Lesson." https://study.com/academy/lesson/who-is-jose-de-san-martin-biography-facts-quotes-accomplishments.html
+
 [^8]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^9]: Heritage History. "Jose de San Martin." https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=sanmartin
+
 [^10]: World History Edu. "Life and Major Accomplishments of José de San Martín." https://worldhistoryedu.com/life-and-major-accomplishments-of-jose-de-san-martin/
+
 [^11]: Lumen Learning. "José de San Martín | World History." https://courses.lumenlearning.com/suny-worldhistory/chapter/26-1-4-jose-de-san-martin/
+
 [^12]: Encyclopedia.com. "San Martín, José Francisco de (1778–1850)." https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/san-martin-jose-francisco-de-1778-1850
+
 [^13]: Grokipedia. "José de San Martín." https://grokipedia.com/page/José_de_San_Martín
+
 [^14]: Heritage History. "Stories of South America by E. C. Brooks." https://www.heritage-history.com/index.php?c=read&author=brooks&book=south&story=martin
+
 [^15]: Fiveable. "Jose de San Martin - AP World History: Modern." https://fiveable.me/key-terms/ap-world/jose-de-san-martin
+
 [^16]: Britannica Kids. "José de San Martín." https://kids.britannica.com/kids/article/José-de-San-Martín/443336
+
 [^17]: Borges Center. "San Martín, José de." https://www.borges.pitt.edu/i/san-martin-jose-de
+
 [^18]: Kiddle. "José de San Martín facts for kids." https://kids.kiddle.co/José_de_San_Martín
+
 [^19]: Wikipedia. "Later life of José de San Martín." https://en.wikipedia.org/wiki/Later_life_of_José_de_San_Martín
+
 [^20]: Latin American Studies. "Jose de San Martin Knight of the Andes." https://www.latinamericanstudies.org/argentina/sanmartin-knight.htm
+
 [^21]: Timetoast. "Timeline: Jose de San Martin." https://www.timetoast.com/timelines/jose-de-san-martin-88579c0e-4599-4a0a-babc-b49fbaefe89f
+
 [^22]: Timetoast. "Jose De San Martin timeline." https://www.timetoast.com/timelines/96380
+
 [^23]: The Famous People. "José De San Martín Biography - Facts, Childhood, Life Achievements & Timeline." https://www.thefamouspeople.com/profiles/jos-de-san-martn-10145.php
+
 [^24]: Casa Rosada. "José de San Martín: The Liberator Hero and his Immortal Legacy." https://www.casarosada.gob.ar/international/latest-news/50616-jose-de-san-martin-the-liberator-hero-and-his-immortal-legacy
+
 [^25]: Explorers Passage. "General José de San Martín - The Army of the Andes." https://explorerspassage.com/chronicles/jose-de-san-martin/
+
 [^26]: Britannica. "José de San Martín - Liberator, Andes, Argentina." https://www.britannica.com/biography/Jose-de-San-Martin/Campaign-across-the-Andes
+
 [^27]: Research at Kent. "1817 San Martin Crosses the Andes from Mendoza to Chile." https://research.kent.ac.uk/warandnation/1817-san-martin-crosses-the-andes-from-mendoza-to-chile/
+
 [^28]: EBSCO Research Starters. "San Martín's Military Campaigns." https://www.ebsco.com/research-starters/history/san-martins-military-campaigns
+
 [^29]: Casa Rosada. "207 years after one of the greatest military feats in history." https://www.casarosada.gob.ar/international/latest-news/50319-207-years-after-one-of-the-greatest-military-feats-in-history-the-tapestry-of-general-san-martin-a-tribute-to-the-crossing-of-the-andes
+
 [^30]: Radical History Blog. "San Martín: The Liberator of the South." https://radicalteatowel.co.uk/radical-history-blog/san-martn-the-liberator-of-the-south
+
 [^31]: EBSCO Research Starters. "Death of General José de San Martín (Argentina)." https://www.ebsco.com/research-starters/history/death-general-jose-de-san-martin-argentina
+
 [^32]: Heritage History. "Don Jose de San Martin by Anna Schoellkopf." https://www.heritage-history.com/index.php?c=read&author=schoellkopf&book=martin&readAll=true
+
 [^33]: Britannica. "José de San Martín summary." https://www.britannica.com/summary/Jose-de-San-Martin
+
 [^34]: Kidskonnect. "José de San Martín Worksheets | Campaigns, Meeting Bolívar." https://kidskonnect.com/social-studies/jose-de-san-martin/
+
 [^35]: Celebrities Galore. "José de San Martín personality profile." https://www.celebrities-galore.com/celebrities/jose-de-san-martin/home/
+
 [^36]: Lib Quotes. "José de San Martín (10+ Sourced Quotes)." https://libquotes.com/josé-de-san-martín
+
 [^37]: Quote Park. "José de San Martín Quotes (18 quotes)." https://quotepark.com/authors/jose-de-san-martin/
+
 [^38]: Quote.org. "Jose de San Martin (1778-1850), inspiring quotations, biography." https://quote.org/author/jose-de-san-martin-59898
+
 [^39]: Big Think. "Lessons From José de San Martín: There Are No Quiet Revolutions." https://bigthink.com/words-of-wisdom/lessons-from-jose-de-san-martin-there-are-no-quiet-revolutions/
+
 [^40]: Quotes Cosmos. "José de San Martín Quotes." https://www.quotescosmos.com/people/José-de-San-Martín.html
+
 [^41]: Wikiquote. "José de San Martín." https://en.wikiquote.org/wiki/José_de_San_Martín
+
 [^42]: Wise Famous Quotes. "Jose De San Martin quotes." https://www.wisefamousquotes.com/jose-de-san-martin-quotes/
+
 [^43]: Wikiquote. "José Martí." https://en.wikiquote.org/wiki/José_Martí
+
 [^44]: Goodreads. "José Martí Quotes." https://www.goodreads.com/author/quotes/39096.Jos_Mart_
+
 [^45]: Lib Quotes. "José de San Martín Quote." https://libquotes.com/josé-de-san-martín/quote/lbz7k2e
+
 [^46]: Wikipedia. "José de San Martín." https://en.wikipedia.org/wiki/José_de_San_Martín
+
 [^47]: Britannica. "Jose de San Martin | Biography & Facts." https://www.britannica.com/biography/Jose-de-San-Martin
+
 [^48]: New World Encyclopedia. "José de San Martín." https://www.newworldencyclopedia.org/entry/José_de_San_Martín
+
 [^49]: Study.com. "Jose de San Martin | Biography, Legacy & Facts." https://study.com/academy/lesson/who-is-jose-de-san-martin-biography-facts-quotes-accomplishments.html
+
 [^50]: Casa Rosada. "José de San Martín: The Liberator Hero and his Immortal Legacy." https://www.casarosada.gob.ar/international/latest-news/50616-jose-de-san-martin-the-liberator-hero-and-his-immortal-legacy
+
 [^51]: Duke University Press. "Economic Causes of San Martín's Failure in Lima." https://read.dukeupress.edu/hahr/article/54/4/657/151357/Economic-Causes-of-San-Martin-s-Failure-in-Lima
+
 [^52]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^53]: Grokipedia. "José de San Martín." https://grokipedia.com/page/José_de_San_Martín
+
 [^54]: Borges Center. "San Martín, José de." https://www.borges.pitt.edu/i/san-martin-jose-de
+
 [^55]: Literal Magazine. "José Martí: The End of a Myth?" https://literalmagazine.com/jose-marti-the-end-of-a-myth/
+
 [^56]: Heritage History. "Don Jose de San Martin by Anna Schoellkopf." https://www.heritage-history.com/index.php?c=read&author=schoellkopf&book=martin&readAll=true
+
 [^57]: Kidskonnect. "José de San Martín Worksheets." https://kidskonnect.com/social-studies/jose-de-san-martin/
+
 [^58]: EBSCO Research Starters. "José de San Martín." https://www.ebsco.com/research-starters/history/jose-de-san-martin
+
 [^59]: Biography.com. "José de San Martín - Facts, Timeline & Life." https://www.biography.com/political-figures/jose-de-san-martin
+
 [^60]: World History Edu. "Life and Major Accomplishments of José de San Martín." https://worldhistoryedu.com/life-and-major-accomplishments-of-jose-de-san-martin/
+
 [^61]: Heritage History. "Jose de San Martin." https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=sanmartin
+
 [^62]: Lumen Learning. "José de San Martín | World History." https://courses.lumenlearning.com/suny-worldhistory/chapter/26-1-4-jose-de-san-martin/
+
 [^63]: Encyclopedia.com. "San Martín, José Francisco de (1778–1850)." https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/san-martin-jose-francisco-de-1778-1850
+
 [^64]: Radical History Blog. "San Martín: The Liberator of the South." https://radicalteatowel.co.uk/radical-history-blog/san-martn-the-liberator-of-the-south
+
 [^65]: EBSCO Research Starters. "Death of General José de San Martín (Argentina)." https://www.ebsco.com/research-starters/history/death-general-jose-de-san-martin-argentina
+
 [^66]: Celebrities Galore. "José de San Martín personality profile." https://www.celebrities-galore.com/celebrities/jose-de-san-martin/home/
+
 [^67]: Wikipedia. "Later life of José de San Martín." https://en.wikipedia.org/wiki/Later_life_of_José_de_San_Martín
+
 [^68]: Latin American Studies. "Jose de San Martin Knight of the Andes." https://www.latinamericanstudies.org/argentina/sanmartin-knight.htm
+
 [^69]: Kiddle. "José de San Martín facts for kids." https://kids.kiddle.co/José_de_San_Martín
+
 [^70]: Heritage History. "Stories of South America by E. C. Brooks." https://www.heritage-history.com/index.php?c=read&author=brooks&book=south&story=martin
+
 [^71]: Fiveable. "Jose de San Martin - AP World History: Modern." https://fiveable.me/key-terms/ap-world/jose-de-san-martin
+
 [^72]: Britannica Kids. "José de San Martín." https://kids.britannica.com/kids/article/José-de-San-Martín/443336
+
 [^73]: Timetoast. "Timeline: Jose de San Martin." https://www.timetoast.com/timelines/jose-de-san-martin-88579c0e-4599-4a0a-babc-b49fbaefe89f
+
 [^74]: Timetoast. "Jose De San Martin timeline." https://www.timetoast.com/timelines/96380
+
 [^75]: The Famous People. "José De San Martín Biography." https://www.thefamouspeople.com/profiles/jos-de-san-martn-10145.php
+
 [^76]: Explorers Passage. "General José de San Martín - The Army of the Andes." https://explorerspassage.com/chronicles/jose-de-san-martin/
+
 [^77]: Britannica. "José de San Martín - Liberator, Andes, Argentina." https://www.britannica.com/biography/Jose-de-San-Martin/Campaign-across-the-Andes
+
 [^78]: Research at Kent. "1817 San Martin Crosses the Andes." https://research.kent.ac.uk/warandnation/1817-san-martin-crosses-the-andes-from-mendoza-to-chile/
+
 [^79]: EBSCO Research Starters. "San Martín's Military Campaigns." https://www.ebsco.com/research-starters/history/san-martins-military-campaigns
+
 [^80]: Casa Rosada. "207 years after one of the greatest military feats in history." https://www.casarosada.gob.ar/international/latest-news/50319-207-years-after-one-of-the-greatest-military-feats-in-history-the-tapestry-of-general-san-martin-a-tribute-to-the-crossing-of-the-andes
+
 [^81]: Crossing of the Andes - Wikipedia. https://en.wikipedia.org/wiki/Crossing_of_the_Andes
+
 [^82]: Britannica. "José de San Martín summary." https://www.britannica.com/summary/Jose-de-San-Martin
+
 [^83]: Wikipedia. "José de San Martín." https://en.wikipedia.org/wiki/José_de_San_Martín
+
 [^84]: New World Encyclopedia. "José de San Martín." https://www.newworldencyclopedia.org/entry/José_de_San_Martín
+
 [^85]: Study.com. "Jose de San Martin | Biography, Legacy & Facts." https://study.com/academy/lesson/who-is-jose-de-san-martin-biography-facts-quotes-accomplishments.html
+
 [^86]: Heritage History. "Don Jose de San Martin by Anna Schoellkopf." https://www.heritage-history.com/index.php?c=read&author=schoellkopf&book=martin&readAll=true
+
 [^87]: Casa Rosada. "José de San Martín: The Liberator Hero and his Immortal Legacy." https://www.casarosada.gob.ar/international/latest-news/50616-jose-de-san-martin-the-liberator-hero-and-his-immortal-legacy
+
 [^88]: Duke University Press. "Economic Causes of San Martín's Failure in Lima." https://read.dukeupress.edu/hahr/article/54/4/657/151357/Economic-Causes-of-San-Martin-s-Failure-in-Lima
+
 [^89]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^90]: Grokipedia. "José de San Martín." https://grokipedia.com/page/José_de_San_Martín
+
 [^91]: Borges Center. "San Martín, José de." https://www.borges.pitt.edu/i/san-martin-jose-de
+
 [^92]: Kidskonnect. "José de San Martín Worksheets." https://kidskonnect.com/social-studies/jose-de-san-martin/
+
 [^93]: EBSCO Research Starters. "José de San Martín." https://www.ebsco.com/research-starters/history/jose-de-san-martin
+
 [^94]: Biography.com. "José de San Martín - Facts, Timeline & Life." https://www.biography.com/political-figures/jose-de-san-martin
+
 [^95]: World History Edu. "Life and Major Accomplishments of José de San Martín." https://worldhistoryedu.com/life-and-major-accomplishments-of-jose-de-san-martin/
+
 [^96]: Heritage History. "Jose de San Martin." https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=sanmartin
+
 [^97]: Lumen Learning. "José de San Martín | World History." https://courses.lumenlearning.com/suny-worldhistory/chapter/26-1-4-jose-de-san-martin/
+
 [^98]: Encyclopedia.com. "San Martín, José Francisco de (1778–1850)." https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/san-martin-jose-francisco-de-1778-1850
+
 [^99]: Radical History Blog. "San Martín: The Liberator of the South." https://radicalteatowel.co.uk/radical-history-blog/san-martn-the-liberator-of-the-south
+
 [^100]: EBSCO Research Starters. "Death of General José de San Martín (Argentina)." https://www.ebsco.com/research-starters/history/death-general-jose-de-san-martin-argentina
+
 [^101]: Casa Rosada. "207 years after one of the greatest military feats in history." https://www.casarosada.gob.ar/international/latest-news/50319-207-years-after-one-of-the-greatest-military-feats-in-history-the-tapestry-of-general-san-martin-a-tribute-to-the-crossing-of-the-andes
+
 [^102]: Explorers Passage. "General José de San Martín - The Army of the Andes." https://explorerspassage.com/chronicles/jose-de-san-martin/
+
 [^103]: Britannica. "José de San Martín - Liberator, Andes, Argentina." https://www.britannica.com/biography/Jose-de-San-Martin/Campaign-across-the-Andes
+
 [^104]: Research at Kent. "1817 San Martin Crosses the Andes." https://research.kent.ac.uk/warandnation/1817-san-martin-crosses-the-andes-from-mendoza-to-chile/
+
 [^105]: EBSCO Research Starters. "San Martín's Military Campaigns." https://www.ebsco.com/research-starters/history/san-martins-military-campaigns
+
 [^106]: Casa Rosada. "José de San Martín: The Liberator Hero and his Immortal Legacy." https://www.casarosada.gob.ar/international/latest-news/50616-jose-de-san-martin-the-liberator-hero-and-his-immortal-legacy
+
 [^107]: Crossing of the Andes - Wikipedia. https://en.wikipedia.org/wiki/Crossing_of_the_Andes
+
 [^108]: Britannica. "José de San Martín summary." https://www.britannica.com/summary/Jose-de-San-Martin
+
 [^109]: Wikipedia. "José de San Martín." https://en.wikipedia.org/wiki/José_de_San_Martín
+
 [^110]: Casa Rosada. "207 years after one of the greatest military feats in history." https://www.casarosada.gob.ar/international/latest-news/50319-207-years-after-one-of-the-greatest-military-feats-in-history-the-tapestry-of-general-san-martin-a-tribute-to-the-crossing-of-the-andes
+
 [^111]: New World Encyclopedia. "José de San Martín." https://www.newworldencyclopedia.org/entry/José_de_San_Martín
+
 [^112]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^113]: Study.com. "Jose de San Martin | Biography, Legacy & Facts." https://study.com/academy/lesson/who-is-jose-de-san-martin-biography-facts-quotes-accomplishments.html
+
 [^114]: Heritage History. "Don Jose de San Martin by Anna Schoellkopf." https://www.heritage-history.com/index.php?c=read&author=schoellkopf&book=martin&readAll=true
+
 [^115]: Casa Rosada. "José de San Martín: The Liberator Hero and his Immortal Legacy." https://www.casarosada.gob.ar/international/latest-news/50616-jose-de-san-martin-the-liberator-hero-and-his-immortal-legacy
+
 [^116]: Duke University Press. "Economic Causes of San Martín's Failure in Lima." https://read.dukeupress.edu/hahr/article/54/4/657/151357/Economic-Causes-of-San-Martin-s-Failure-in-Lima
+
 [^117]: Explorers Passage. "General José de San Martín - The Army of the Andes." https://explorerspassage.com/chronicles/jose-de-san-martin/
+
 [^118]: Casa Rosada. "207 years after one of the greatest military feats in history." https://www.casarosada.gob.ar/international/latest-news/50319-207-years-after-one-of-the-greatest-military-feats-in-history-the-tapestry-of-general-san-martin-a-tribute-to-the-crossing-of-the-andes
+
 [^119]: Britannica. "José de San Martín - Liberator, Andes, Argentina." https://www.britannica.com/biography/Jose-de-San-Martin/Campaign-across-the-andes
+
 [^120]: Research at Kent. "1817 San Martin Crosses the Andes." https://research.kent.ac.uk/warandnation/1817-san-martin-crosses-the-andes-from-mendoza-to-chile/
+
 [^121]: New World Encyclopedia. "José de San Martín." https://www.newworldencyclopedia.org/entry/José_de_San_Martín
+
 [^122]: EBSCO Research Starters. "San Martín's Military Campaigns." https://www.ebsco.com/research-starters/history/san-martins-military-campaigns
+
 [^123]: Crossing of the Andes - Wikipedia. https://en.wikipedia.org/wiki/Crossing_of_the_Andes
+
 [^124]: Heritage History. "Don Jose de San Martin by Anna Schoellkopf." https://www.heritage-history.com/index.php?c=read&author=schoellkopf&book=martin&readAll=true
+
 [^125]: Britannica. "José de San Martín summary." https://www.britannica.com/summary/Jose-de-San-Martin
+
 [^126]: Wikipedia. "José de San Martín." https://en.wikipedia.org/wiki/José_de_San_Martín
+
 [^127]: Lumen Learning. "José de San Martín | World History." https://courses.lumenlearning.com/suny-worldhistory/chapter/26-1-4-jose-de-san-martin/
+
 [^128]: Encyclopedia.com. "San Martín, José Francisco de (1778–1850)." https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/san-martin-jose-francisco-de-1778-1850
+
 [^129]: Casa Rosada. "José de San Martín: The Liberator Hero and his Immortal Legacy." https://www.casarosada.gob.ar/international/latest-news/50616-jose-de-san-martin-the-liberator-hero-and-his-immortal-legacy
+
 [^130]: Radical History Blog. "San Martín: The Liberator of the South." https://radicalteatowel.co.uk/radical-history-blog/san-martn-the-liberator-of-the-south
+
 [^131]: Duke University Press. "Economic Causes of San Martín's Failure in Lima." https://read.dukeupress.edu/hahr/article/54/4/657/151357/Economic-Causes-of-San-Martin-s-Failure-in-Lima
+
 [^132]: Duke University Press. "Economic Causes of San Martín's Failure in Lima." https://read.dukeupress.edu/hahr/article/54/4/657/151357/Economic-Causes-of-San-Martin-s-Failure-in-Lima
+
 [^133]: EBSCO Research Starters. "Death of General José de San Martín (Argentina)." https://www.ebsco.com/research-starters/history/death-general-jose-de-san-martin-argentina
+
 [^134]: Wikipedia. "José de San Martín." https://en.wikipedia.org/wiki/José_de_San_Martín
+
 [^135]: Britannica. "Jose de San Martin | Biography & Facts." https://www.britannica.com/biography/Jose-de-San-Martin
+
 [^136]: New World Encyclopedia. "José de San Martín." https://www.newworldencyclopedia.org/entry/José_de_San_Martín
+
 [^137]: Grokipedia. "José de San Martín." https://grokipedia.com/page/José_de_San_Martín
+
 [^138]: Study.com. "Jose de San Martin | Biography, Legacy & Facts." https://study.com/academy/lesson/who-is-jose-de-san-martin-biography-facts-quotes-accomplishments.html
+
 [^139]: Borges Center. "San Martín, José de." https://www.borges.pitt.edu/i/san-martin-jose-de
+
 [^140]: Kidskonnect. "José de San Martín Worksheets." https://kidskonnect.com/social-studies/jose-de-san-martin/
+
 [^141]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^142]: Heritage History. "Don Jose de San Martin by Anna Schoellkopf." https://www.heritage-history.com/index.php?c=read&author=schoellkopf&book=martin&readAll=true
+
 [^143]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^144]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^145]: Wikipedia. "Legacy of José de San Martín." https://en.wikipedia.org/wiki/Legacy_of_José_de_San_Martín
+
 [^146]: Casa Rosada. "José de San Martín: The Liberator Hero and his Immortal Legacy." https://www.casarosada.gob.ar/international/latest-news/50616-jose-de-san-martin-the-liberator-hero-and-his-immortal-legacy
+
 [^147]: Study.com. "Jose de San Martin | Biography, Legacy & Facts." https://study.com/academy/lesson/who-is-jose-de-san-martin-biography-facts-quotes-accomplishments.html
+
 [^148]: EBSCO Research Starters. "Death of General José de San Martín (Argentina)." https://www.ebsco.com/research-starters/history/death-general-jose-de-san-martin-argentina
+
 [^149]: Lib Quotes. "José de San Martín (10+ Sourced Quotes)." https://libquotes.com/josé-de-san-martín
+
 [^150]: Quote Park. "José de San Martín Quotes (18 quotes)." https://quotepark.com/authors/jose-de-san-martin/
+
 [^151]: Quote.org. "Jose de San Martin inspiring quotations." https://quote.org/author/jose-de-san-martin-59898
+
 [^152]: Big Think. "Lessons From José de San Martín: There Are No Quiet Revolutions." https://bigthink.com/words-of-wisdom/lessons-from-jose-de-san-martin-there-are-no-quiet-revolutions/
+
 [^153]: Quotes Cosmos. "José de San Martín Quotes." https://www.quotescosmos.com/people/José-de-San-Martín.html
+
 [^154]: Wikiquote. "José de San Martín." https://en.wikiquote.org/wiki/José_de_San_Martín
+
 [^155]: Wise Famous Quotes. "Jose De San Martin quotes." https://www.wisefamousquotes.com/jose-de-san-martin-quotes/

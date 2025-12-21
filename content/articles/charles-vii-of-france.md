@@ -185,41 +185,41 @@ The persistence of doubts about his legitimacy and his apparent psychological we
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1403 | Born February 22 at Hôtel Saint-Pol in Paris[^150] |
-| 1403 | Received title of Count of Ponthieu[^151] |
-| 1413 | Rioting Parisians invade Hôtel Saint-Paul, forcing Charles to flee[^152] |
-| 1414 | Betrothed to Mary of Anjou; goes to live in Anjou under Yolande of Aragon's care[^153] |
-| 1416 | Received the duchy of Touraine[^154] |
-| 1417 | Became Dauphin of France following death of elder brother; appointed lieutenant-general of kingdom[^155] |
-| 1418 | Forced to flee Paris on May 29 after Burgundian partisans enter the city[^156] |
-| 1419 | Established court at Bourges and Parlement at Poitiers[^157] |
-| 1420 | Disinherited by Treaty of Troyes; Henry V of England recognized as heir to French throne[^158] |
-| 1422 | Married Marie of Anjou on December 18[^159] |
+| Year | Event                                                                                                                |
+| ---- | -------------------------------------------------------------------------------------------------------------------- |
+| 1403 | Born February 22 at Hôtel Saint-Pol in Paris[^150]                                                                   |
+| 1403 | Received title of Count of Ponthieu[^151]                                                                            |
+| 1413 | Rioting Parisians invade Hôtel Saint-Paul, forcing Charles to flee[^152]                                             |
+| 1414 | Betrothed to Mary of Anjou; goes to live in Anjou under Yolande of Aragon's care[^153]                               |
+| 1416 | Received the duchy of Touraine[^154]                                                                                 |
+| 1417 | Became Dauphin of France following death of elder brother; appointed lieutenant-general of kingdom[^155]             |
+| 1418 | Forced to flee Paris on May 29 after Burgundian partisans enter the city[^156]                                       |
+| 1419 | Established court at Bourges and Parlement at Poitiers[^157]                                                         |
+| 1420 | Disinherited by Treaty of Troyes; Henry V of England recognized as heir to French throne[^158]                       |
+| 1422 | Married Marie of Anjou on December 18[^159]                                                                          |
 | 1422 | Became King of France after death of father Charles VI; controlled only small portion of France around Bourges[^160] |
-| 1423 | Birth of son Louis (future Louis XI) on July 3[^161] |
-| 1429 | Joan of Arc arrives at Chinon in February/March[^162] |
-| 1429 | Siege of Orléans lifted on May 8[^163] |
-| 1429 | French victory at Battle of Patay on June 18[^164] |
-| 1429 | Crowned King at Reims Cathedral on July 17[^165] |
-| 1431 | Joan of Arc burned at stake; Charles makes no effort to rescue her[^166] |
-| 1435 | Treaty of Arras ends hostility with Burgundy[^167] |
-| 1438 | Issued Pragmatic Sanction of Bourges on July 7[^168] |
-| 1439 | Made taille tax permanent through ordinance[^169] |
-| 1440 | Noble unrest during the Praguerie rebellion[^170] |
-| 1444 | Agnès Sorel becomes official royal mistress[^171] |
-| 1445 | Established compagnies d'ordonnance standing army through Grande Ordonnance de Louppy-le-Château on May 26[^172] |
-| 1446 | Banished son Louis to the Dauphiné; they never met again[^173] |
-| 1448 | Established francs-archers militia on April 28[^174] |
-| 1449 | Reconquered Normandy[^175] |
-| 1450 | Death of Agnès Sorel[^176] |
-| 1450 | Implemented single "general statement" of finance[^177] |
-| 1453 | French victory at Battle of Castillon; recovered Gascony; effective end of Hundred Years' War[^178] |
-| 1456 | Son Louis fled to protection of Duke of Burgundy[^179] |
-| 1456 | Obtained posthumous reversal of Joan of Arc's condemnation[^180] |
-| 1458 | Became seriously ill from infected leg wound[^181] |
-| 1461 | Died July 22 at Mehun-sur-Yèvre; buried at Saint-Denis[^182] |
+| 1423 | Birth of son Louis (future Louis XI) on July 3[^161]                                                                 |
+| 1429 | Joan of Arc arrives at Chinon in February/March[^162]                                                                |
+| 1429 | Siege of Orléans lifted on May 8[^163]                                                                               |
+| 1429 | French victory at Battle of Patay on June 18[^164]                                                                   |
+| 1429 | Crowned King at Reims Cathedral on July 17[^165]                                                                     |
+| 1431 | Joan of Arc burned at stake; Charles makes no effort to rescue her[^166]                                             |
+| 1435 | Treaty of Arras ends hostility with Burgundy[^167]                                                                   |
+| 1438 | Issued Pragmatic Sanction of Bourges on July 7[^168]                                                                 |
+| 1439 | Made taille tax permanent through ordinance[^169]                                                                    |
+| 1440 | Noble unrest during the Praguerie rebellion[^170]                                                                    |
+| 1444 | Agnès Sorel becomes official royal mistress[^171]                                                                    |
+| 1445 | Established compagnies d'ordonnance standing army through Grande Ordonnance de Louppy-le-Château on May 26[^172]     |
+| 1446 | Banished son Louis to the Dauphiné; they never met again[^173]                                                       |
+| 1448 | Established francs-archers militia on April 28[^174]                                                                 |
+| 1449 | Reconquered Normandy[^175]                                                                                           |
+| 1450 | Death of Agnès Sorel[^176]                                                                                           |
+| 1450 | Implemented single "general statement" of finance[^177]                                                              |
+| 1453 | French victory at Battle of Castillon; recovered Gascony; effective end of Hundred Years' War[^178]                  |
+| 1456 | Son Louis fled to protection of Duke of Burgundy[^179]                                                               |
+| 1456 | Obtained posthumous reversal of Joan of Arc's condemnation[^180]                                                     |
+| 1458 | Became seriously ill from infected leg wound[^181]                                                                   |
+| 1461 | Died July 22 at Mehun-sur-Yèvre; buried at Saint-Denis[^182]                                                         |
 
 ---
 
@@ -244,187 +244,371 @@ These appellations, while not direct quotes, represent how Charles was remembere
 ## References
 
 [^1]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^2]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^3]: Charles VII Of France Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/charles-vii-of-france-6463.php
+
 [^4]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^5]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^6]: How Joan of Arc Helped Charles VII Win the Hundred Years' War | TheCollector, https://www.thecollector.com/joan-arc-charles-vii-hundred-years-war/
+
 [^7]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^8]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^9]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^10]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^11]: France - Charles VI, Monarchy, Revolution | Britannica, https://www.britannica.com/place/France/Charles-VI
+
 [^12]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^13]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^14]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^15]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^16]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^17]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^18]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^19]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^20]: Hundred Years' War: CHARLES VII (1403-1461), King of France., https://www.luminarium.org/encyclopedia/charles7.htm
+
 [^21]: Hundred Years' War - Wikipedia, https://en.wikipedia.org/wiki/Hundred_Years'_War
+
 [^22]: Treaty of Troyes - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Troyes
+
 [^23]: Treaty of Troyes | England-France [1420] | Britannica, https://www.britannica.com/topic/Treaty-of-Troyes
+
 [^24]: Treaty of Troyes - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Troyes
+
 [^25]: Treaty Of Troyes | Encyclopedia.com, https://www.encyclopedia.com/history/modern-europe/treaties-and-alliances/treaty-troyes
+
 [^26]: The Dauphin – European Royal History, https://europeanroyalhistory.wordpress.com/tag/the-dauphin/
+
 [^27]: Treaty of Troyes | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Treaty_of_Troyes
+
 [^28]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^29]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^30]: Treaty of Troyes - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Troyes
+
 [^31]: Treaty of Troyes - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Troyes
+
 [^32]: Treaty of Troyes - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Troyes
+
 [^33]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^34]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^35]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^36]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^37]: Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Joan_of_Arc
+
 [^38]: Meetings that made history: When Charles VII met Joan of Arc | &MEETINGS, https://www.andmeetings.com/blog/post/meetings-that-made-history-when-charles-vii-met-joan-of-arc
+
 [^39]: Meetings that made history: When Charles VII met Joan of Arc | &MEETINGS, https://www.andmeetings.com/blog/post/meetings-that-made-history-when-charles-vii-met-joan-of-arc
+
 [^40]: How Joan of Arc Helped Charles VII Win the Hundred Years' War | TheCollector, https://www.thecollector.com/joan-arc-charles-vii-hundred-years-war/
+
 [^41]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^42]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^43]: Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Joan_of_Arc
+
 [^44]: Joan of Arc's Relief of Orléans | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/joan-arcs-relief-orleans
+
 [^45]: Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Joan_of_Arc
+
 [^46]: March to Reims - Wikipedia, https://en.wikipedia.org/wiki/March_to_Reims
+
 [^47]: March to Reims - Wikipedia, https://en.wikipedia.org/wiki/March_to_Reims
+
 [^48]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^49]: Joan of Arc - Maid of Heaven - Coronation of Charles VII Description, http://www.maidofheaven.com/joanofarc_reims_coronation.asp
+
 [^50]: Joan of Arc - Maid of Heaven - Coronation of Charles VII Description, http://www.maidofheaven.com/joanofarc_reims_coronation.asp
+
 [^51]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^52]: Exhibition Knights & bombards, Agincourt - Marignano, 1415 - 1515 - Musée de l'Armée - Time of reform, https://www.musee-armee.fr/ExpoChevaliersBombardes/time-of-refom.html
+
 [^53]: Charles VII of France (1403 – 1461): biography, timeline and maps, https://historic-figures.com/en/figures/charles-vii/
+
 [^54]: France - Military Reforms | Britannica, https://www.britannica.com/place/France/Military-reforms
+
 [^55]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^56]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^57]: Exhibition Knights & bombards, Agincourt - Marignano, 1415 - 1515 - Musée de l'Armée - Time of reform, https://www.musee-armee.fr/ExpoChevaliersBombardes/time-of-refom.html
+
 [^58]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^59]: The Hundred Years War Revisited: The End of the Beginning - Medievalists.net, https://www.medievalists.net/2020/08/hundred-years-war-end/
+
 [^60]: The Hundred Years War Revisited: The End of the Beginning - Medievalists.net, https://www.medievalists.net/2020/08/hundred-years-war-end/
+
 [^61]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^62]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^63]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^64]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^65]: Taille - Wikipedia, https://en.wikipedia.org/wiki/Taille
+
 [^66]: Taille - Wikipedia, https://en.wikipedia.org/wiki/Taille
+
 [^67]: Taille | Ancien Régime, Estates General, Feudalism | Britannica, https://www.britannica.com/topic/taille
+
 [^68]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^69]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^70]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^71]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^72]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^73]: Pragmatic Sanction of Bourges - Wikipedia, https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_Bourges
+
 [^74]: Pragmatic Sanction of Bourges | Royal Edict, Louis XI, 1438 | Britannica, https://www.britannica.com/topic/Pragmatic-Sanction-of-Bourges
+
 [^75]: Pragmatic Sanction of Bourges - Wikipedia, https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_Bourges
+
 [^76]: The Pragmatic Sanction of Bourges: A Bold Move by King Charles VII - Giftpals.com, https://giftpals.com/events/item/the-pragmatic-sanction-of-bourges-a-bold-move-by-king
+
 [^77]: Pragmatic Sanction of Bourges - Wikipedia, https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_Bourges
+
 [^78]: Pragmatic Sanction of Bourges - Wikipedia, https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_Bourges
+
 [^79]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^80]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^81]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^82]: Cunning Facts About Charles VII, France's Victorious King, https://www.factinate.com/people/charles-vii
+
 [^83]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^84]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^85]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^86]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^87]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^88]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^89]: Cunning Facts About Charles VII, France's Victorious King, https://www.factinate.com/people/charles-vii
+
 [^90]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^91]: Agnès Sorel: her famous romance with King Charles VII of France (part 2) - Olivia Longueville, https://olivialongueville.com/2021/02/15/agnes-sorel-her-famous-romance-with-king-charles-vii-of-france-part-2/
+
 [^92]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^93]: Marie of Anjou (1404–1463) | Encyclopedia.com, https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/marie-anjou-1404-1463
+
 [^94]: Agnes Sorel - The Hundred Years War, https://thehundredyearswar.co.uk/agnes-sorel/
+
 [^95]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^96]: Trial of Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc
+
 [^97]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^98]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^99]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^100]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^101]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^102]: Cunning Facts About Charles VII, France's Victorious King, https://www.factinate.com/people/charles-vii
+
 [^103]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^104]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^105]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^106]: Agnès Sorel: her famous romance with King Charles VII of France (part 2) - Olivia Longueville, https://olivialongueville.com/2021/02/15/agnes-sorel-her-famous-romance-with-king-charles-vii-of-france-part-2/
+
 [^107]: Agnès Sorel | 15th-century Frenchwoman, Mistress of Charles VII | Britannica, https://www.britannica.com/biography/Agnes-Sorel
+
 [^108]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^109]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^110]: Marie of Anjou (1404–1463) | Encyclopedia.com, https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/marie-anjou-1404-1463
+
 [^111]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^112]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^113]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^114]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^115]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^116]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^117]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^118]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^119]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^120]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^121]: France - Military Reforms | Britannica, https://www.britannica.com/place/France/Military-reforms
+
 [^122]: Taille - Wikipedia, https://en.wikipedia.org/wiki/Taille
+
 [^123]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^124]: Taille | Ancien Régime, Estates General, Feudalism | Britannica, https://www.britannica.com/topic/taille
+
 [^125]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^126]: Pragmatic Sanction of Bourges - Wikipedia, https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_Bourges
+
 [^127]: Pragmatic Sanction of Bourges - Wikipedia, https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_Bourges
+
 [^128]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^129]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^130]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^131]: Charles VII, King of France 1422-61 — Medieval Histories, https://www.medieval.eu/charles-vii-king-of-france-1422-61/
+
 [^132]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^133]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^134]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^135]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^136]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^137]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^138]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^139]: Charles Vii (france) | Encyclopedia.com, https://www.encyclopedia.com/people/history/german-history-biographies/charles-vii-france
+
 [^140]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^141]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^142]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^143]: Trial of Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc
+
 [^144]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^145]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^146]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^147]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^148]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^149]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^150]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^151]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^152]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^153]: France - Charles VII, Monarchy, Hundred Years' War | Britannica, https://www.britannica.com/place/France/Charles-VII
+
 [^154]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^155]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^156]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^157]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^158]: Treaty of Troyes - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Troyes
+
 [^159]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^160]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^161]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^162]: Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Joan_of_Arc
+
 [^163]: Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Joan_of_Arc
+
 [^164]: Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Joan_of_Arc
+
 [^165]: March to Reims - Wikipedia, https://en.wikipedia.org/wiki/March_to_Reims
+
 [^166]: Trial of Joan of Arc - Wikipedia, https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc
+
 [^167]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^168]: Pragmatic Sanction of Bourges - Wikipedia, https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_Bourges
+
 [^169]: Taille - Wikipedia, https://en.wikipedia.org/wiki/Taille
+
 [^170]: Medieval and Middle Ages History Timelines - Charles (VII, King of France 1422-1461), https://www.timeref.com/people/charles_vii_king_of_france_1422_1461.htm
+
 [^171]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^172]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^173]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^174]: Compagnie d'ordonnance - Wikipedia, https://en.wikipedia.org/wiki/Compagnie_d'ordonnance
+
 [^175]: Charles VII | King of France & The Hundred Years' War | Britannica, https://www.britannica.com/biography/Charles-VII-king-of-France
+
 [^176]: Agnès Sorel - Wikipedia, https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel
+
 [^177]: France - Reunification, Hundred Years War, Joan of Arc | Britannica, https://www.britannica.com/place/France/Recovery-and-reunification-1429-83
+
 [^178]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^179]: Louis XI - Wikipedia, https://en.wikipedia.org/wiki/Louis_XI
+
 [^180]: Charles VII | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/charles-vii
+
 [^181]: Cunning Facts About Charles VII, France's Victorious King, https://www.factinate.com/people/charles-vii
+
 [^182]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France
+
 [^183]: Meetings that made history: When Charles VII met Joan of Arc | &MEETINGS, https://www.andmeetings.com/blog/post/meetings-that-made-history-when-charles-vii-met-joan-of-arc
+
 [^184]: The Messenger: The Story of Joan of Arc (1999) - Quotes - IMDb, https://www.imdb.com/title/tt0151137/quotes/?item=qt2168833
+
 [^185]: Charles VII of France - Wikipedia, https://en.wikipedia.org/wiki/Charles_VII_of_France

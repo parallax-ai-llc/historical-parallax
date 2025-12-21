@@ -145,38 +145,38 @@ Psychohistorians and biographers have explored Nixon's psychological makeup, con
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1913 | Born January 9 in Yorba Linda, California |
-| 1934 | Graduated from Whittier College |
-| 1937 | Graduated from Duke University School of Law |
-| 1940 | Married Pat Ryan on June 21 |
-| 1942 | Joined the U.S. Navy during World War II |
-| 1946 | Elected to U.S. House of Representatives |
-| 1950 | Elected to U.S. Senate from California |
-| 1952 | Delivered "Checkers Speech"; elected Vice President |
-| 1953 | Became Vice President under Dwight Eisenhower |
-| 1959 | Participated in "Kitchen Debate" with Khrushchev in Moscow |
-| 1960 | Lost presidential election to John F. Kennedy |
-| 1962 | Lost California gubernatorial race to Pat Brown |
-| 1968 | Elected 37th President of the United States |
-| 1969 | Inaugurated as President on January 20 |
-| 1970 | Created Environmental Protection Agency (EPA) |
-| 1970 | Ordered invasion of Cambodia; Kent State shootings occurred |
+| Year | Event                                                                  |
+| ---- | ---------------------------------------------------------------------- |
+| 1913 | Born January 9 in Yorba Linda, California                              |
+| 1934 | Graduated from Whittier College                                        |
+| 1937 | Graduated from Duke University School of Law                           |
+| 1940 | Married Pat Ryan on June 21                                            |
+| 1942 | Joined the U.S. Navy during World War II                               |
+| 1946 | Elected to U.S. House of Representatives                               |
+| 1950 | Elected to U.S. Senate from California                                 |
+| 1952 | Delivered "Checkers Speech"; elected Vice President                    |
+| 1953 | Became Vice President under Dwight Eisenhower                          |
+| 1959 | Participated in "Kitchen Debate" with Khrushchev in Moscow             |
+| 1960 | Lost presidential election to John F. Kennedy                          |
+| 1962 | Lost California gubernatorial race to Pat Brown                        |
+| 1968 | Elected 37th President of the United States                            |
+| 1969 | Inaugurated as President on January 20                                 |
+| 1970 | Created Environmental Protection Agency (EPA)                          |
+| 1970 | Ordered invasion of Cambodia; Kent State shootings occurred            |
 | 1971 | Ended dollar's convertibility to gold; imposed wage and price controls |
-| 1972 | Visited China in February; met with Mao Zedong |
-| 1972 | Signed SALT I Treaty with Soviet Union in May |
-| 1972 | Watergate break-in occurred on June 17 |
-| 1972 | Re-elected in landslide victory over George McGovern |
-| 1973 | Paris Peace Accords signed, ending U.S. involvement in Vietnam |
-| 1973 | Watergate hearings televised; "Saturday Night Massacre" occurred |
-| 1973 | Vice President Spiro Agnew resigned; Gerald Ford became VP |
-| 1974 | Supreme Court ordered release of Watergate tapes |
-| 1974 | House Judiciary Committee approved articles of impeachment |
-| 1974 | Resigned presidency on August 9 |
-| 1974 | Pardoned by President Gerald Ford on September 8 |
-| 1977 | Conducted televised interviews with David Frost |
-| 1994 | Died April 22 in New York City at age 81 |
+| 1972 | Visited China in February; met with Mao Zedong                         |
+| 1972 | Signed SALT I Treaty with Soviet Union in May                          |
+| 1972 | Watergate break-in occurred on June 17                                 |
+| 1972 | Re-elected in landslide victory over George McGovern                   |
+| 1973 | Paris Peace Accords signed, ending U.S. involvement in Vietnam         |
+| 1973 | Watergate hearings televised; "Saturday Night Massacre" occurred       |
+| 1973 | Vice President Spiro Agnew resigned; Gerald Ford became VP             |
+| 1974 | Supreme Court ordered release of Watergate tapes                       |
+| 1974 | House Judiciary Committee approved articles of impeachment             |
+| 1974 | Resigned presidency on August 9                                        |
+| 1974 | Pardoned by President Gerald Ford on September 8                       |
+| 1977 | Conducted televised interviews with David Frost                        |
+| 1994 | Died April 22 in New York City at age 81                               |
 
 ---
 
@@ -200,106 +200,106 @@ Psychohistorians and biographers have explored Nixon's psychological makeup, con
 
 ## References
 
-[^1]: Black, Conrad. *Richard M. Nixon: A Life in Full*. PublicAffairs, 2007.
+[^1]: Black, Conrad. _Richard M. Nixon: A Life in Full_. PublicAffairs, 2007.
 
-[^2]: Ambrose, Stephen E. *Nixon: The Education of a Politician, 1913-1962*. Simon & Schuster, 1987.
+[^2]: Ambrose, Stephen E. _Nixon: The Education of a Politician, 1913-1962_. Simon & Schuster, 1987.
 
-[^3]: Morris, Roger. *Richard Milhous Nixon: The Rise of an American Politician*. Henry Holt and Company, 1990.
+[^3]: Morris, Roger. _Richard Milhous Nixon: The Rise of an American Politician_. Henry Holt and Company, 1990.
 
-[^4]: Gellman, Irwin F. *The Contender: Richard Nixon: The Congress Years, 1946-1952*. Free Press, 1999.
+[^4]: Gellman, Irwin F. _The Contender: Richard Nixon: The Congress Years, 1946-1952_. Free Press, 1999.
 
-[^5]: Mitchell, Greg. *Tricky Dick and the Pink Lady: Richard Nixon vs. Helen Gahagan Douglas—Sexual Politics and the Red Scare, 1950*. Random House, 1998.
+[^5]: Mitchell, Greg. _Tricky Dick and the Pink Lady: Richard Nixon vs. Helen Gahagan Douglas—Sexual Politics and the Red Scare, 1950_. Random House, 1998.
 
-[^6]: Weinstein, Allen. *Perjury: The Hiss-Chambers Case*. Random House, 1978.
+[^6]: Weinstein, Allen. _Perjury: The Hiss-Chambers Case_. Random House, 1978.
 
-[^7]: Summers, Anthony. *The Arrogance of Power: The Secret World of Richard Nixon*. Viking, 2000.
+[^7]: Summers, Anthony. _The Arrogance of Power: The Secret World of Richard Nixon_. Viking, 2000.
 
-[^8]: Kornacki, Steve. *The Red and the Blue: The 1990s and the Birth of Political Tribalism*. Ecco, 2018.
+[^8]: Kornacki, Steve. _The Red and the Blue: The 1990s and the Birth of Political Tribalism_. Ecco, 2018.
 
-[^9]: Nixon, Richard M. *Six Crises*. Doubleday, 1962.
+[^9]: Nixon, Richard M. _Six Crises_. Doubleday, 1962.
 
-[^10]: Donaldson, Gary A. *The First Modern Campaign: Kennedy, Nixon, and the Election of 1960*. Rowman & Littlefield, 2007.
+[^10]: Donaldson, Gary A. _The First Modern Campaign: Kennedy, Nixon, and the Election of 1960_. Rowman & Littlefield, 2007.
 
-[^11]: Perlstein, Rick. *Nixonland: The Rise of a President and the Fracturing of America*. Scribner, 2008.
+[^11]: Perlstein, Rick. _Nixonland: The Rise of a President and the Fracturing of America_. Scribner, 2008.
 
-[^12]: MacMillan, Margaret. *Nixon and Mao: The Week That Changed the World*. Random House, 2007.
+[^12]: MacMillan, Margaret. _Nixon and Mao: The Week That Changed the World_. Random House, 2007.
 
-[^13]: Garthoff, Raymond L. *Détente and Confrontation: American-Soviet Relations from Nixon to Reagan*. Brookings Institution Press, 1994.
+[^13]: Garthoff, Raymond L. _Détente and Confrontation: American-Soviet Relations from Nixon to Reagan_. Brookings Institution Press, 1994.
 
-[^14]: Hoff, Joan. *Nixon Reconsidered*. BasicBooks, 1994.
+[^14]: Hoff, Joan. _Nixon Reconsidered_. BasicBooks, 1994.
 
-[^15]: Kimball, Jeffrey. *Nixon's Vietnam War*. University Press of Kansas, 1998.
+[^15]: Kimball, Jeffrey. _Nixon's Vietnam War_. University Press of Kansas, 1998.
 
-[^16]: Dean, John W. *The Rehnquist Choice: The Untold Story of the Nixon Appointment that Redefined the Supreme Court*. Free Press, 2001.
+[^16]: Dean, John W. _The Rehnquist Choice: The Untold Story of the Nixon Appointment that Redefined the Supreme Court_. Free Press, 2001.
 
-[^17]: Matusow, Allen J. *Nixon's Economy: Booms, Busts, Dollars, and Votes*. University Press of Kansas, 1998.
+[^17]: Matusow, Allen J. _Nixon's Economy: Booms, Busts, Dollars, and Votes_. University Press of Kansas, 1998.
 
-[^18]: Dallek, Robert. *Nixon and Kissinger: Partners in Power*. HarperCollins, 2007.
+[^18]: Dallek, Robert. _Nixon and Kissinger: Partners in Power_. HarperCollins, 2007.
 
-[^19]: Kutler, Stanley I. *The Wars of Watergate: The Last Crisis of Richard Nixon*. Knopf, 1990.
+[^19]: Kutler, Stanley I. _The Wars of Watergate: The Last Crisis of Richard Nixon_. Knopf, 1990.
 
-[^20]: Emery, Fred. *Watergate: The Corruption of American Politics and the Fall of Richard Nixon*. Times Books, 1994.
+[^20]: Emery, Fred. _Watergate: The Corruption of American Politics and the Fall of Richard Nixon_. Times Books, 1994.
 
-[^21]: Shawcross, William. *Sideshow: Kissinger, Nixon, and the Destruction of Cambodia*. Simon & Schuster, 1979.
+[^21]: Shawcross, William. _Sideshow: Kissinger, Nixon, and the Destruction of Cambodia_. Simon & Schuster, 1979.
 
-[^22]: Theoharis, Athan G. *The FBI and American Democracy: A Brief Critical History*. University Press of Kansas, 2004.
+[^22]: Theoharis, Athan G. _The FBI and American Democracy: A Brief Critical History_. University Press of Kansas, 2004.
 
-[^23]: Phillips, Kevin P. *The Emerging Republican Majority*. Arlington House, 1969.
+[^23]: Phillips, Kevin P. _The Emerging Republican Majority_. Arlington House, 1969.
 
-[^24]: Kutler, Stanley I. *Abuse of Power: The New Nixon Tapes*. Free Press, 1997.
+[^24]: Kutler, Stanley I. _Abuse of Power: The New Nixon Tapes_. Free Press, 1997.
 
-[^25]: Liebovich, Louis W. *Richard Nixon, Watergate, and the Press*. Praeger, 2003.
+[^25]: Liebovich, Louis W. _Richard Nixon, Watergate, and the Press_. Praeger, 2003.
 
-[^26]: Eisenhower, Julie Nixon. *Pat Nixon: The Untold Story*. Simon & Schuster, 1986.
+[^26]: Eisenhower, Julie Nixon. _Pat Nixon: The Untold Story_. Simon & Schuster, 1986.
 
-[^27]: Wills, Garry. *Nixon Agonistes: The Crisis of the Self-Made Man*. Houghton Mifflin, 1970.
+[^27]: Wills, Garry. _Nixon Agonistes: The Crisis of the Self-Made Man_. Houghton Mifflin, 1970.
 
-[^28]: Reeves, Richard. *President Nixon: Alone in the White House*. Simon & Schuster, 2001.
+[^28]: Reeves, Richard. _President Nixon: Alone in the White House_. Simon & Schuster, 2001.
 
-[^29]: Rebozo, Charles G. "Bebe." Personal recollections in Herbert S. Parmet, *Richard Nixon and His America*. Little, Brown, 1990.
+[^29]: Rebozo, Charles G. "Bebe." Personal recollections in Herbert S. Parmet, _Richard Nixon and His America_. Little, Brown, 1990.
 
-[^30]: Swift, Will. *Pat and Dick: The Nixons, An Intimate Portrait of a Marriage*. Threshold Editions, 2014.
+[^30]: Swift, Will. _Pat and Dick: The Nixons, An Intimate Portrait of a Marriage_. Threshold Editions, 2014.
 
-[^31]: Schudson, Michael. *Watergate in American Memory: How We Remember, Forget, and Reconstruct the Past*. BasicBooks, 1992.
+[^31]: Schudson, Michael. _Watergate in American Memory: How We Remember, Forget, and Reconstruct the Past_. BasicBooks, 1992.
 
-[^32]: Kissinger, Henry. *White House Years*. Little, Brown and Company, 1979.
+[^32]: Kissinger, Henry. _White House Years_. Little, Brown and Company, 1979.
 
-[^33]: Flippen, J. Brooks. *Nixon and the Environment*. University of New Mexico Press, 2000.
+[^33]: Flippen, J. Brooks. _Nixon and the Environment_. University of New Mexico Press, 2000.
 
-[^34]: Carter, Dan T. *The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics*. Simon & Schuster, 1995.
+[^34]: Carter, Dan T. _The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics_. Simon & Schuster, 1995.
 
-[^35]: Crowley, Monica. *Nixon in Winter*. Random House, 1998.
+[^35]: Crowley, Monica. _Nixon in Winter_. Random House, 1998.
 
-[^36]: Schlesinger, Arthur M., Jr. *The Imperial Presidency*. Houghton Mifflin, 1973.
+[^36]: Schlesinger, Arthur M., Jr. _The Imperial Presidency_. Houghton Mifflin, 1973.
 
-[^37]: Logevall, Fredrik, and Campbell Craig. *America's Cold War: The Politics of Insecurity*. Belknap Press, 2009.
+[^37]: Logevall, Fredrik, and Campbell Craig. _America's Cold War: The Politics of Insecurity_. Belknap Press, 2009.
 
-[^38]: Barone, Michael. "Nixon's Domestic Policy: Both Liberal and Conservative." *The American Spectator*, August 9, 2019.
+[^38]: Barone, Michael. "Nixon's Domestic Policy: Both Liberal and Conservative." _The American Spectator_, August 9, 2019.
 
-[^39]: Lasky, Victor. *It Didn't Start with Watergate*. Dial Press, 1977.
+[^39]: Lasky, Victor. _It Didn't Start with Watergate_. Dial Press, 1977.
 
-[^40]: Kissinger, Henry. *Years of Upheaval*. Little, Brown and Company, 1982.
+[^40]: Kissinger, Henry. _Years of Upheaval_. Little, Brown and Company, 1982.
 
-[^41]: Buchanan, Patrick J. *Nixon's White House Wars: The Battles That Made and Broke a President and Divided America Forever*. Crown Forum, 2017.
+[^41]: Buchanan, Patrick J. _Nixon's White House Wars: The Battles That Made and Broke a President and Divided America Forever_. Crown Forum, 2017.
 
-[^42]: Kutler, Stanley I. "The Crimes of Watergate." *The American Historical Review* 83, no. 2 (1978): 231-254.
+[^42]: Kutler, Stanley I. "The Crimes of Watergate." _The American Historical Review_ 83, no. 2 (1978): 231-254.
 
-[^43]: Berman, Larry. *No Peace, No Honor: Nixon, Kissinger, and Betrayal in Vietnam*. Free Press, 2001.
+[^43]: Berman, Larry. _No Peace, No Honor: Nixon, Kissinger, and Betrayal in Vietnam_. Free Press, 2001.
 
-[^44]: Bonastia, Christopher. *Southern Stalemate: Five Years Without Public Education in Prince Edward County, Virginia*. University of Chicago Press, 2012.
+[^44]: Bonastia, Christopher. _Southern Stalemate: Five Years Without Public Education in Prince Edward County, Virginia_. University of Chicago Press, 2012.
 
-[^45]: Feldstein, Mark. *Poisoning the Press: Richard Nixon, Jack Anderson, and the Rise of Washington's Scandal Culture*. Farrar, Straus and Giroux, 2010.
+[^45]: Feldstein, Mark. _Poisoning the Press: Richard Nixon, Jack Anderson, and the Rise of Washington's Scandal Culture_. Farrar, Straus and Giroux, 2010.
 
-[^46]: Hitchens, Christopher. *The Trial of Henry Kissinger*. Verso, 2001.
+[^46]: Hitchens, Christopher. _The Trial of Henry Kissinger_. Verso, 2001.
 
-[^47]: Reston, James, Jr. *The Conviction of Richard Nixon: The Untold Story of the Frost/Nixon Interviews*. Harmony Books, 2007.
+[^47]: Reston, James, Jr. _The Conviction of Richard Nixon: The Untold Story of the Frost/Nixon Interviews_. Harmony Books, 2007.
 
-[^48]: Bernstein, Carl, and Bob Woodward. *All the President's Men*. Simon & Schuster, 1974.
+[^48]: Bernstein, Carl, and Bob Woodward. _All the President's Men_. Simon & Schuster, 1974.
 
-[^49]: White, Theodore H. *The Making of the President 1960*. Atheneum Publishers, 1961.
+[^49]: White, Theodore H. _The Making of the President 1960_. Atheneum Publishers, 1961.
 
-[^50]: Drew, Elizabeth. *Richard M. Nixon*. Times Books, 2007.
+[^50]: Drew, Elizabeth. _Richard M. Nixon_. Times Books, 2007.
 
-[^51]: Farrell, John A. *Richard Nixon: The Life*. Doubleday, 2017.
+[^51]: Farrell, John A. _Richard Nixon: The Life_. Doubleday, 2017.
 
-[^52]: Greenberg, David. *Nixon's Shadow: The History of an Image*. W.W. Norton & Company, 2003.
+[^52]: Greenberg, David. _Nixon's Shadow: The History of an Image_. W.W. Norton & Company, 2003.

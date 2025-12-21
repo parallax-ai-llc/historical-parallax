@@ -156,31 +156,31 @@ Some foreign policy critics argue that Chrétien neglected Canada's military, al
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1934 | Born in Shawinigan, Quebec on January 11 |
-| 1958 | Called to the Quebec Bar, begins law practice |
-| 1963 | Elected to Parliament for Saint-Maurice–Laflèche |
-| 1965 | Appointed Parliamentary Secretary to PM Pearson |
+| Year | Event                                                                       |
+| ---- | --------------------------------------------------------------------------- |
+| 1934 | Born in Shawinigan, Quebec on January 11                                    |
+| 1958 | Called to the Quebec Bar, begins law practice                               |
+| 1963 | Elected to Parliament for Saint-Maurice–Laflèche                            |
+| 1965 | Appointed Parliamentary Secretary to PM Pearson                             |
 | 1968 | Appointed Minister of Indian Affairs and Northern Development under Trudeau |
-| 1977 | Becomes Minister of Finance |
-| 1980 | Appointed Minister of Justice and Attorney General |
-| 1982 | Plays key role in patriation of Canadian Constitution |
-| 1984 | Serves as Deputy Prime Minister; Liberals defeated in election |
-| 1986 | Loses Liberal leadership race to John Turner |
-| 1990 | Elected Leader of the Liberal Party of Canada |
-| 1993 | Elected Prime Minister with massive majority government (177 seats) |
-| 1995 | Narrowly wins Quebec referendum (50.58% No vote) |
-| 1995 | Creates federal sponsorship program for Quebec visibility |
-| 1996 | "Shawinigan Handshake" incident with protester |
-| 1997 | Re-elected with second majority government; APEC pepper spray incident |
-| 1998 | Achieves first federal budget surplus in nearly three decades |
-| 2000 | Passes Clarity Act; wins third consecutive majority government |
-| 2002 | Dismisses Paul Martin from cabinet |
-| 2003 | Decides Canada will not join Iraq invasion without UN authorization |
-| 2003 | Retires as Prime Minister on December 12 |
-| 2004 | Sponsorship scandal breaks publicly |
-| 2007 | Publishes memoirs "My Years as Prime Minister" |
+| 1977 | Becomes Minister of Finance                                                 |
+| 1980 | Appointed Minister of Justice and Attorney General                          |
+| 1982 | Plays key role in patriation of Canadian Constitution                       |
+| 1984 | Serves as Deputy Prime Minister; Liberals defeated in election              |
+| 1986 | Loses Liberal leadership race to John Turner                                |
+| 1990 | Elected Leader of the Liberal Party of Canada                               |
+| 1993 | Elected Prime Minister with massive majority government (177 seats)         |
+| 1995 | Narrowly wins Quebec referendum (50.58% No vote)                            |
+| 1995 | Creates federal sponsorship program for Quebec visibility                   |
+| 1996 | "Shawinigan Handshake" incident with protester                              |
+| 1997 | Re-elected with second majority government; APEC pepper spray incident      |
+| 1998 | Achieves first federal budget surplus in nearly three decades               |
+| 2000 | Passes Clarity Act; wins third consecutive majority government              |
+| 2002 | Dismisses Paul Martin from cabinet                                          |
+| 2003 | Decides Canada will not join Iraq invasion without UN authorization         |
+| 2003 | Retires as Prime Minister on December 12                                    |
+| 2004 | Sponsorship scandal breaks publicly                                         |
+| 2007 | Publishes memoirs "My Years as Prime Minister"                              |
 
 ---
 
@@ -201,51 +201,99 @@ Some foreign policy critics argue that Chrétien neglected Canada's military, al
 ## References
 
 [^1]: Martin, Lawrence. "Iron Man: The Defiant Reign of Jean Chrétien." Toronto: Viking Canada, 2003.
+
 [^2]: Chrétien, Jean. "Straight from the Heart." Toronto: Key Porter Books, 1985.
+
 [^3]: Clarkson, Stephen and Christina McCall. "Trudeau and Our Times: Volume 2." Toronto: McClelland & Stewart, 1994.
+
 [^4]: "Jean Chrétien." The Canadian Encyclopedia. Historica Canada, updated 2023.
+
 [^5]: Parliament of Canada. "History of Federal Ridings since 1867: Saint-Maurice–Laflèche."
+
 [^6]: Privy Council Office. "Prime Ministers of Canada: Jean Chrétien." Government of Canada archives.
+
 [^7]: Romanow, Roy, John Whyte, and Howard Leeson. "Canada... Notwithstanding: The Making of the Constitution 1976-1982." Toronto: Carswell/Methuen, 1984.
+
 [^8]: Delacourt, Susan. "United We Fall: The Crisis of Democracy in Canada." Toronto: Viking, 1993.
+
 [^9]: Elections Canada. "Official Voting Results: Thirty-Fifth General Election 1993."
+
 [^10]: Department of Finance Canada. "Fiscal Reference Tables 2023." Government of Canada.
+
 [^11]: Greenspon, Edward and Anthony Wilson-Smith. "Double Vision: The Inside Story of the Liberals in Power." Toronto: Doubleday Canada, 1996.
+
 [^12]: Department of Finance Canada. "Debt Management Strategy and Annual Reports, 1995-2003."
+
 [^13]: Directeur général des élections du Québec. "Référendum de 1995: Rapport des résultats officiels."
+
 [^14]: Parliament of Canada. "An Act to give effect to the requirement for clarity as set out in the opinion of the Supreme Court of Canada in the Quebec Secession Reference (Clarity Act), S.C. 2000, c. 26."
+
 [^15]: Chrétien, Jean. "My Years as Prime Minister." Toronto: Knopf Canada, 2007.
+
 [^16]: Welsh, Jennifer. "At Home in the World: Canada's Global Vision for the 21st Century." Toronto: HarperCollins, 2004.
+
 [^17]: Canada Health Act Annual Reports, 1993-2003. Health Canada.
+
 [^18]: Department of Finance Canada. "Budget Papers 1998: Building Canada's Future Together."
+
 [^19]: Commission of Inquiry into the Sponsorship Program and Advertising Activities (Gomery Commission). "Who Is Responsible? Fact Finding Report." Ottawa: Public Works and Government Services Canada, 2005.
+
 [^20]: Gomery Commission. "Restoring Accountability: Recommendations." Ottawa: Public Works and Government Services Canada, 2006.
+
 [^21]: Office of the Ethics Counsellor. "Shawinigate Investigation Report." 2001.
+
 [^22]: Commission for Public Complaints Against the RCMP. "APEC Inquiry Report." 2001.
+
 [^23]: Wells, Paul. "Right Side Up: The Fall of Paul Martin and the Rise of Stephen Harper's New Conservatism." Toronto: McClelland & Stewart, 2006.
+
 [^24]: Canadian Centre for Policy Alternatives. "Alternative Federal Budget 1998: Fiscal Discipline and Social Progress."
+
 [^25]: Martin, Lawrence. "Iron Man: The Defiant Reign of Jean Chrétien." Toronto: Viking Canada, 2003.
+
 [^26]: Gollner, Andrew B. and Daniel Salee, eds. "Canada Under Mulroney: An End-of-Term Report." Montreal: Vehicule Press, 1988.
+
 [^27]: "Chrétien grabs protester by the throat." CBC News Archives, February 15, 1996.
+
 [^28]: Chrétien, Jean. "My Stories, My Times." Toronto: Random House Canada, 2018.
+
 [^29]: Axworthy, Thomas S. and Leslie A. Pal, eds. "The Chrétien Legacy: Politics and Public Policy in Canada." Montreal: McGill-Queen's University Press, 2006.
+
 [^30]: Department of Finance Canada. "Fiscal Reference Tables 2023."
+
 [^31]: Russell, Peter H. "Constitutional Odyssey: Can Canadians Become a Sovereign People?" Toronto: University of Toronto Press, 2004.
+
 [^32]: Carty, R. Kenneth, William Cross, and Lisa Young. "Rebuilding Canadian Party Politics." Vancouver: UBC Press, 2000.
+
 [^33]: Stein, Janice Gross and Eugene Lang. "The Unexpected War: Canada in Kandahar." Toronto: Viking Canada, 2007.
+
 [^34]: Newman, Peter C. "The Secret Mulroney Tapes: Unguarded Confessions of a Prime Minister." Toronto: Random House Canada, 2005.
+
 [^35]: Axworthy and Pal, "The Chrétien Legacy."
+
 [^36]: Greenspon and Wilson-Smith, "Double Vision."
+
 [^37]: Savoie, Donald J. "Governing from the Centre: The Concentration of Power in Canadian Politics." Toronto: University of Toronto Press, 1999.
+
 [^38]: Stein, Janice Gross. "The Cult of Efficiency." Toronto: House of Anansi Press, 2001.
+
 [^39]: Coyne, Andrew. Various columns. National Post, 1998-2003.
+
 [^40]: Simpson, Jeffrey. "The Friendly Dictatorship." Toronto: McClelland & Stewart, 2001.
+
 [^41]: Simpson, "The Friendly Dictatorship."
+
 [^42]: Laforest, Guy. "Trudeau and the End of a Canadian Dream." Montreal: McGill-Queen's University Press, 1995.
+
 [^43]: Yalnizyan, Armine. "The Growing Gap: A Report on Growing Inequality between the Rich and Poor in Canada." Toronto: Centre for Social Justice, 1998.
+
 [^44]: Granatstein, J.L. "Who Killed the Canadian Military?" Toronto: HarperCollins, 2004.
+
 [^45]: "Chrétien's 'proof' comment becomes fodder for comedy." CBC News, September 10, 2002.
+
 [^46]: "PM makes light of APEC pepper spray." CBC News, November 20, 1997.
+
 [^47]: Chrétien, "My Years as Prime Minister," 2007.
+
 [^48]: Martin, "Iron Man," 2003.
+
 [^49]: Quoted in Greenspon and Wilson-Smith, "Double Vision," 1996.

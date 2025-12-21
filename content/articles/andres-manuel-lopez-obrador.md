@@ -164,30 +164,30 @@ The Council on Foreign Relations published analysis titled "Mexico's Democracy I
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1953 | Born November 13 in Tepetitán, Tabasco, Mexico |
-| 1969 | Brother José Ramón dies from gunshot wound |
-| 1973 | Begins studying political science at UNAM in Mexico City |
-| 1976 | Earns degree; joins PRI; becomes director of Indigenous Institute of Tabasco |
-| 1979 | Marries Rocío Beltrán Medina |
-| 1981 | First son, José Ramón López Beltrán, is born |
-| 1988 | Leaves PRI to join opposition movements |
-| 1989 | Joins Party of the Democratic Revolution (PRD) |
-| 2000 | Elected Head of Government of Mexico City (mayor) |
-| 2003 | Wife Rocío dies from lupus complications |
-| 2005 | Leaves Mexico City government with 84% approval rating |
+| Year | Event                                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------------------- |
+| 1953 | Born November 13 in Tepetitán, Tabasco, Mexico                                                                    |
+| 1969 | Brother José Ramón dies from gunshot wound                                                                        |
+| 1973 | Begins studying political science at UNAM in Mexico City                                                          |
+| 1976 | Earns degree; joins PRI; becomes director of Indigenous Institute of Tabasco                                      |
+| 1979 | Marries Rocío Beltrán Medina                                                                                      |
+| 1981 | First son, José Ramón López Beltrán, is born                                                                      |
+| 1988 | Leaves PRI to join opposition movements                                                                           |
+| 1989 | Joins Party of the Democratic Revolution (PRD)                                                                    |
+| 2000 | Elected Head of Government of Mexico City (mayor)                                                                 |
+| 2003 | Wife Rocío dies from lupus complications                                                                          |
+| 2005 | Leaves Mexico City government with 84% approval rating                                                            |
 | 2006 | Marries Beatriz Gutiérrez Müller; loses presidential election to Felipe Calderón by 0.58%; leads massive protests |
-| 2011 | Founds National Regeneration Movement (Morena) |
-| 2012 | Loses second presidential campaign to Enrique Peña Nieto; Morena becomes political party |
-| 2018 | Wins presidential election with 53% of vote in landslide victory |
-| 2018 | Assumes presidency on December 1 |
-| 2019 | Culiacán incident: government releases cartel leader after armed confrontation |
-| 2020 | COVID-19 pandemic; Mexico suffers high death toll |
-| 2021 | Proposes elimination of transparency agency INAI |
-| 2022 | Felipe Ángeles Airport inaugurated; son's luxury lifestyle scandal breaks |
-| 2024 | Leaves office September 30 with 80% approval rating |
-| 2024 | Succeeded by Claudia Sheinbaum, his chosen successor |
+| 2011 | Founds National Regeneration Movement (Morena)                                                                    |
+| 2012 | Loses second presidential campaign to Enrique Peña Nieto; Morena becomes political party                          |
+| 2018 | Wins presidential election with 53% of vote in landslide victory                                                  |
+| 2018 | Assumes presidency on December 1                                                                                  |
+| 2019 | Culiacán incident: government releases cartel leader after armed confrontation                                    |
+| 2020 | COVID-19 pandemic; Mexico suffers high death toll                                                                 |
+| 2021 | Proposes elimination of transparency agency INAI                                                                  |
+| 2022 | Felipe Ángeles Airport inaugurated; son's luxury lifestyle scandal breaks                                         |
+| 2024 | Leaves office September 30 with 80% approval rating                                                               |
+| 2024 | Succeeded by Claudia Sheinbaum, his chosen successor                                                              |
 
 ---
 
@@ -212,114 +212,225 @@ The Council on Foreign Relations published analysis titled "Mexico's Democracy I
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^2]: https://foreignpolicy.com/2024/09/26/mexico-amlo-benito-juarez-foreign-policy-legacy-history/
+
 [^3]: https://www.aljazeera.com/news/2024/9/30/what-is-the-legacy-of-mexican-president-andres-manuel-lopez-obrador
+
 [^4]: https://www.cfr.org/article/mexicos-democracy-crumbling-under-amlo
+
 [^5]: https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/
+
 [^6]: https://www.britannica.com/biography/Andres-Manuel-Lopez-Obrador
+
 [^7]: https://www.thefamouspeople.com/profiles/andrs-manuel-lpez-obrador-24821.php
+
 [^8]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/lopez-obrador-manuel-andres-1953
+
 [^9]: https://vietnamtimes.org.vn/president-of-mexico-andres-manuel-lopez-obrador-biography-early-life-career-36233.html
+
 [^10]: https://www.cnn.com/2018/07/27/world/andrs-manuel-lpez-obrador-fast-facts
+
 [^11]: https://kids.britannica.com/students/article/Andrés-Manuel-López-Obrador/631259
+
 [^12]: https://goodcountry.org/global-vote/elections/mexico/candidates/andres-manuel-lopez-obrador/
+
 [^13]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^14]: https://www.britannica.com/biography/Andres-Manuel-Lopez-Obrador
+
 [^15]: https://www.as-coa.org/articles/approval-tracker-mexicos-president-amlo
+
 [^16]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^17]: https://www.azquotes.com/author/11032-Andres_Manuel_Lopez_Obrador
+
 [^18]: https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=1015&context=lacs_honors
+
 [^19]: https://scholarsarchive.library.albany.edu/lacs_honors/8/
+
 [^20]: https://thedialogue.org/analysis/how-much-has-lopez-obrador-accomplished
+
 [^21]: https://www.wilsoncenter.org/event/amlo-the-fourth-transformation-one-year-after-his-historic-election-victory
+
 [^22]: https://peoplesdispatch.org/2024/10/06/lopez-obrador-and-the-fourth-transformation/
+
 [^23]: https://mexiconewsdaily.com/politics/adios-lopez-obrador-report-to-the-nation/
+
 [^24]: https://www.aljazeera.com/news/2024/9/30/what-is-the-legacy-of-mexican-president-andres-manuel-lopez-obrador
+
 [^25]: https://thedialogue.org/analysis/how-much-has-lopez-obrador-accomplished
+
 [^26]: https://jacobin.com/2023/08/amlo-presidency-mexico-morena-pri-neoliberalism
+
 [^27]: https://www.democracynow.org/2024/10/1/amlo_legacy_mexico_neoliberalism
+
 [^28]: https://jacobin.com/2025/04/amlo-mexico-workers-social-programs
+
 [^29]: https://online.ucpress.edu/currenthistory/article/124/859/43/205394/Lopez-Obrador-s-Transformation-of-Mexican
+
 [^30]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^31]: https://www.britannica.com/biography/Andres-Manuel-Lopez-Obrador
+
 [^32]: https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/
+
 [^33]: https://www.democracynow.org/2024/10/1/amlo_legacy_mexico_neoliberalism
+
 [^34]: https://foreignpolicy.com/2024/09/26/mexico-amlo-benito-juarez-foreign-policy-legacy-history/
+
 [^35]: https://www.quotes.net/authors/Andres+Manuel+Lopez+Obrador
+
 [^36]: https://www.csis.org/analysis/amlos-plan-c-and-north-american-bloc-if-we-can-keep-it
+
 [^37]: https://www.worldpoliticsreview.com/mexico-corruption-election-amlo/
+
 [^38]: https://jacobin.com/2024/09/amlo-morena-neoliberalism-corruption-mexico
+
 [^39]: https://www.dissentmagazine.org/article/the-contradictions-of-amlo/
+
 [^40]: https://www.cfr.org/article/mexicos-democracy-crumbling-under-amlo
+
 [^41]: https://mexiconewsdaily.com/politics/is-amlo-that-bad-or-that-good-a-perspective-from-our-ceo/
+
 [^42]: https://www.americasquarterly.org/article/mexicos-opposition-must-fight-amlo-and-an-enduring-stigma/
+
 [^43]: https://www.washingtonpost.com/world/the_americas/mexico-amlo-freedom-information-inai-democracy/2021/02/13/f73268ec-66e1-11eb-8468-21bc48f07fe5_story.html
+
 [^44]: https://americasquarterly.org/article/amlos-forever-agenda/
+
 [^45]: https://www.washingtonpost.com/world/the_americas/mexico-amlo-freedom-information-inai-democracy/2021/02/13/f73268ec-66e1-11eb-8468-21bc48f07fe5_story.html
+
 [^46]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^47]: https://www.drclas.harvard.edu/event/amlo-versus-institutions-how-has-lopez-obrador-presidency-affected-mexico%E2%80%99s-democracy
+
 [^48]: https://www.csis.org/analysis/abrazos-no-balazos-evaluating-amlos-security-initiatives
+
 [^49]: https://www.cfr.org/article/mexicos-democracy-crumbling-under-amlo
+
 [^50]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^51]: https://www.dissentmagazine.org/article/the-contradictions-of-amlo/
+
 [^52]: https://thedialogue.org/analysis/how-much-has-lopez-obrador-accomplished
+
 [^53]: https://www.csis.org/analysis/after-amlo-economic-security-and-political-outlook-mexico-2024
+
 [^54]: https://www.aljazeera.com/news/2024/9/30/what-is-the-legacy-of-mexican-president-andres-manuel-lopez-obrador
+
 [^55]: https://dissentmagazine.org/article/amlos-final-act/
+
 [^56]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^57]: https://www.britannica.com/biography/Andres-Manuel-Lopez-Obrador
+
 [^58]: https://mexiconewsdaily.com/politics/is-amlo-that-bad-or-that-good-a-perspective-from-our-ceo/
+
 [^59]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^60]: https://www.thefamouspeople.com/profiles/andrs-manuel-lpez-obrador-24821.php
+
 [^61]: https://www.imdb.com/name/nm2169354/bio/
+
 [^62]: https://en.wikipedia.org/wiki/Beatriz_Gutiérrez_Müller
+
 [^63]: https://en.wikipedia.org/wiki/Beatriz_Gutiérrez_Müller
+
 [^64]: https://starsunfolded.com/lopez-obrador/
+
 [^65]: https://en.wikipedia.org/wiki/Andrés_Manuel_López_Obrador
+
 [^66]: https://www.britannica.com/biography/Andres-Manuel-Lopez-Obrador
+
 [^67]: https://github.com/Wittline/text-analysis-speeches-amlo
+
 [^68]: https://foreignpolicy.com/2024/09/26/mexico-amlo-benito-juarez-foreign-policy-legacy-history/
+
 [^69]: https://www.thefamouspeople.com/profiles/andrs-manuel-lpez-obrador-24821.php
+
 [^70]: https://www.gisreportsonline.com/r/mexico-amlo-five/
+
 [^71]: https://jacobin.com/2023/08/amlo-presidency-mexico-morena-pri-neoliberalism
+
 [^72]: https://www.democracynow.org/2024/10/1/amlo_legacy_mexico_neoliberalism
+
 [^73]: https://academic.oup.com/book/58013/chapter/479032556
+
 [^74]: https://thenewinquiry.com/amlo-all-along/
+
 [^75]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^76]: https://www.csis.org/analysis/after-amlo-economic-security-and-political-outlook-mexico-2024
+
 [^77]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^78]: https://dissentmagazine.org/article/amlos-final-act/
+
 [^79]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^80]: https://www.csis.org/analysis/abrazos-no-balazos-evaluating-amlos-security-initiatives
+
 [^81]: https://foreignpolicy.com/2024/09/26/mexico-amlo-benito-juarez-foreign-policy-legacy-history/
+
 [^82]: https://www.maxwell.syr.edu/news/article/ackerman-talks-to-democracy-now-about-former-mexican-president-andr%C3%A9s-manuel-l%C3%B3pez-obrador-s-legacy
+
 [^83]: https://www.gisreportsonline.com/r/mexico-amlo-five/
+
 [^84]: https://jacobin.com/2023/08/amlo-presidency-mexico-morena-pri-neoliberalism
+
 [^85]: https://www.democracynow.org/2024/10/1/amlo_legacy_mexico_neoliberalism
+
 [^86]: https://www.aljazeera.com/news/2024/9/30/what-is-the-legacy-of-mexican-president-andres-manuel-lopez-obrador
+
 [^87]: https://jacobin.com/2025/04/amlo-mexico-workers-social-programs
+
 [^88]: https://www.democracynow.org/2024/10/1/amlo_legacy_mexico_neoliberalism
+
 [^89]: https://foreignpolicy.com/2024/09/26/mexico-amlo-benito-juarez-foreign-policy-legacy-history/
+
 [^90]: https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/
+
 [^91]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^92]: https://www.drclas.harvard.edu/event/amlo-versus-institutions-how-has-lopez-obrador-presidency-affected-mexico%E2%80%99s-democracy
+
 [^93]: https://www.cfr.org/article/mexicos-democracy-crumbling-under-amlo
+
 [^94]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^95]: https://www.cfr.org/article/mexicos-democracy-crumbling-under-amlo
+
 [^96]: https://www.dissentmagazine.org/article/the-contradictions-of-amlo/
+
 [^97]: https://dissentmagazine.org/article/amlos-final-act/
+
 [^98]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^99]: https://jacobin.com/2024/09/amlo-morena-neoliberalism-corruption-mexico
+
 [^100]: https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo
+
 [^101]: https://www.csis.org/analysis/abrazos-no-balazos-evaluating-amlos-security-initiatives
+
 [^102]: https://www.dissentmagazine.org/article/the-contradictions-of-amlo/
+
 [^103]: https://www.csis.org/analysis/after-amlo-economic-security-and-political-outlook-mexico-2024
+
 [^104]: https://thedialogue.org/analysis/how-much-has-lopez-obrador-accomplished
+
 [^105]: https://www.cfr.org/article/mexicos-democracy-crumbling-under-amlo
+
 [^106]: https://www.brainyquote.com/authors/andres-manuel-lopez-obrad-quotes
+
 [^107]: https://www.azquotes.com/author/11032-Andres_Manuel_Lopez_Obrador
+
 [^108]: https://www.azquotes.com/author/11032-Andres_Manuel_Lopez_Obrador
+
 [^109]: https://www.quotes.net/authors/Andres+Manuel+Lopez+Obrador
+
 [^110]: https://www.azquotes.com/author/11032-Andres_Manuel_Lopez_Obrador
+
 [^111]: https://www.azquotes.com/author/11032-Andres_Manuel_Lopez_Obrador
+
 [^112]: https://www.brainyquote.com/authors/andres-manuel-lopez-obrad-quotes

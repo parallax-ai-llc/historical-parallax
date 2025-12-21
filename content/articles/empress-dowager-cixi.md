@@ -135,7 +135,7 @@ In popular culture and historical memory, she has often been portrayed as the "D
 
 Since the mid-1970s, views among scholars began to change, with Sue Fawn Chung's doctoral dissertation at University of California, Berkeley, being the first study in English to use court documents rather than popular histories and hearsay.[^89] Since then, the judgment on Cixi has somewhat altered, so that in general histories, by Jonathan Spence for instance, she appears as a more rounded figure.[^90]
 
-Jung Chang's 2013 biography, *Empress Dowager Cixi: The Concubine Who Launched Modern China*, based on newly available, mostly Chinese historical documents such as court records, official and private correspondence, diaries and eyewitness accounts, comprehensively overturned the conventional view of Cixi as a die-hard conservative and cruel despot.[^91] Chang presents Cixi in a far more positive light than earlier authors and has caused some to rethink assumptions regarding the late Qing period.[^92]
+Jung Chang's 2013 biography, _Empress Dowager Cixi: The Concubine Who Launched Modern China_, based on newly available, mostly Chinese historical documents such as court records, official and private correspondence, diaries and eyewitness accounts, comprehensively overturned the conventional view of Cixi as a die-hard conservative and cruel despot.[^91] Chang presents Cixi in a far more positive light than earlier authors and has caused some to rethink assumptions regarding the late Qing period.[^92]
 
 Defenders point to her pragmatic approach to governance, her willingness to employ talented Han Chinese officials like Zeng Guofan and Li Hongzhang despite Manchu prejudices, and her eventual acceptance of sweeping reforms after 1902.[^93] They note that she ruled during one of the most difficult periods in Chinese history, facing internal rebellions, foreign invasions, and the challenge of modernizing an ancient empire while preserving its essential character.[^94]
 
@@ -157,170 +157,283 @@ Some specialists have criticized even recent revisionist accounts, with Pamela K
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1835 | Born on November 29 in Beijing to a Manchu family of the Yehe Nara clan |
-| 1852 | Selected as a low-ranking concubine to Emperor Xianfeng at age 16 |
-| 1856 | Gave birth to Emperor Xianfeng's only son, Zaichun; elevated to Noble Consort |
-| 1860 | Anglo-French forces invade Beijing during Second Opium War; Old Summer Palace destroyed |
-| 1861 | Emperor Xianfeng dies; Cixi orchestrates the Xinyou Coup with Empress Ci'an and Prince Gong |
-| 1862 | Granted title of Empress Dowager Cixi; begins co-regency with Empress Dowager Ci'an |
-| 1862-1874 | Tongzhi Restoration and Self-Strengthening Movement initiated |
-| 1872 | Tongzhi Emperor turns 17 and marries Lady Arute |
-| 1873 | First regency officially ends as Tongzhi Emperor assumes power |
-| 1875 | Tongzhi Emperor dies; Cixi appoints her nephew Guangxu as emperor and resumes regency |
-| 1881 | Empress Dowager Ci'an dies on April 9; Cixi becomes sole regent |
-| 1889 | Cixi officially retires from regency on March 5 as Guangxu reaches maturity |
-| 1894 | First Sino-Japanese War begins; Cixi's 60th birthday celebrations canceled |
-| 1895 | China defeated by Japan in humiliating Treaty of Shimonoseki |
-| 1898 | Hundred Days' Reform initiated by Guangxu Emperor; Cixi stages coup on September 21, places Guangxu under house arrest |
-| 1900 | Supports Boxer Rebellion; flees Beijing in disguise when foreign forces crush the uprising |
-| 1901 | Returns to Beijing; China forced to pay massive indemnities under Boxer Protocol |
-| 1902 | Announces sweeping reforms in January including legalization of Han-Manchu marriage, ban on foot-binding, press freedom |
-| 1905 | Abolishes the Imperial Examination system that had existed for over 1,000 years |
-| 1906 | Announces plan to transform China into constitutional monarchy with elections |
-| 1908 | Guangxu Emperor dies on November 14; Cixi dies on November 15 at age 73 |
+| Year      | Event                                                                                                                   |
+| --------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1835      | Born on November 29 in Beijing to a Manchu family of the Yehe Nara clan                                                 |
+| 1852      | Selected as a low-ranking concubine to Emperor Xianfeng at age 16                                                       |
+| 1856      | Gave birth to Emperor Xianfeng's only son, Zaichun; elevated to Noble Consort                                           |
+| 1860      | Anglo-French forces invade Beijing during Second Opium War; Old Summer Palace destroyed                                 |
+| 1861      | Emperor Xianfeng dies; Cixi orchestrates the Xinyou Coup with Empress Ci'an and Prince Gong                             |
+| 1862      | Granted title of Empress Dowager Cixi; begins co-regency with Empress Dowager Ci'an                                     |
+| 1862-1874 | Tongzhi Restoration and Self-Strengthening Movement initiated                                                           |
+| 1872      | Tongzhi Emperor turns 17 and marries Lady Arute                                                                         |
+| 1873      | First regency officially ends as Tongzhi Emperor assumes power                                                          |
+| 1875      | Tongzhi Emperor dies; Cixi appoints her nephew Guangxu as emperor and resumes regency                                   |
+| 1881      | Empress Dowager Ci'an dies on April 9; Cixi becomes sole regent                                                         |
+| 1889      | Cixi officially retires from regency on March 5 as Guangxu reaches maturity                                             |
+| 1894      | First Sino-Japanese War begins; Cixi's 60th birthday celebrations canceled                                              |
+| 1895      | China defeated by Japan in humiliating Treaty of Shimonoseki                                                            |
+| 1898      | Hundred Days' Reform initiated by Guangxu Emperor; Cixi stages coup on September 21, places Guangxu under house arrest  |
+| 1900      | Supports Boxer Rebellion; flees Beijing in disguise when foreign forces crush the uprising                              |
+| 1901      | Returns to Beijing; China forced to pay massive indemnities under Boxer Protocol                                        |
+| 1902      | Announces sweeping reforms in January including legalization of Han-Manchu marriage, ban on foot-binding, press freedom |
+| 1905      | Abolishes the Imperial Examination system that had existed for over 1,000 years                                         |
+| 1906      | Announces plan to transform China into constitutional monarchy with elections                                           |
+| 1908      | Guangxu Emperor dies on November 14; Cixi dies on November 15 at age 73                                                 |
 
 ---
 
 ## Famous Quotes
 
 > "I have 400,000,000 people dependent on my judgement."[^108]
-— Reflecting on the weight of ruling China's vast population
+> — Reflecting on the weight of ruling China's vast population
 
 > "If we just fold our arms and yield to them, I would have no face to see our ancestors after death. If we must perish, why not fight to the death?"[^109]
-— During the Boxer Rebellion crisis, expressing defiance toward foreign powers
+> — During the Boxer Rebellion crisis, expressing defiance toward foreign powers
 
 > "We have only the people's hearts and minds to depend upon. If we cast them aside and lose the people's hearts, what can we use to sustain the country?"[^110]
-— On the importance of popular support for governance
+> — On the importance of popular support for governance
 
 > "The art of life is to be in the rhythm of your age."[^111]
-— Philosophical reflection on adapting to changing times
+> — Philosophical reflection on adapting to changing times
 
 > "There are periods in history when change is necessary, and other periods when it is better to keep everything for the time as it is."[^112]
-— On the tension between reform and stability
+> — On the tension between reform and stability
 
 > "Whoever makes me unhappy for a day, I will make suffer a lifetime."[^113]
-— Revealing her vengeful and ruthless nature
+> — Revealing her vengeful and ruthless nature
 
 > "The Empress Dowager enjoins her people that only by adopting what is superior about the foreign countries can we rectify what is wanting in China."[^114]
-— On selective modernization and learning from the West
+> — On selective modernization and learning from the West
 
 ---
 
 ## References
 
 [^1]: Britannica. "Cixi | Biography & Facts." https://www.britannica.com/biography/Cixi
+
 [^2]: Wikipedia. "Empress Dowager Cixi." https://en.wikipedia.org/wiki/Empress_Dowager_Cixi
+
 [^3]: National Geographic. "Cixi, the controversial empress dowager who modernized China." https://www.nationalgeographic.com/history/history-magazine/article/profiles-china-empress-dowager-cixi-emperor-guangxu
+
 [^4]: China Highlights. "Empress Dowager Cixi: Her Life, Reign, and Mystery." https://www.chinahighlights.com/travelguide/china-history/ci-xi.htm
+
 [^5]: Britannica Kids. "Cixi." https://kids.britannica.com/kids/article/Cixi/631702
+
 [^6]: China Highlights. "Empress Dowager Cixi: Her Life, Reign, and Mystery." https://www.chinahighlights.com/travelguide/china-history/ci-xi.htm
+
 [^7]: The Famous People. "Empress Dowager Cixi Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/empress-dowager-cixi-9706.php
+
 [^8]: MayaIncaAztec.com. "Empress Dowager Cixi." https://www.mayaincaaztec.com/ancient-china/empress-dowager-cixi
+
 [^9]: The Famous People. "Empress Dowager Cixi Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/empress-dowager-cixi-9706.php
+
 [^10]: Europeana. "Empress Cixi, the last woman to rule China." https://www.europeana.eu/en/stories/empress-cixi-the-last-woman-to-rule-china
+
 [^11]: New World Encyclopedia. "Empress Dowager Cixi." https://www.newworldencyclopedia.org/entry/Empress_Dowager_Cixi
+
 [^12]: New World Encyclopedia. "Empress Dowager Cixi." https://www.newworldencyclopedia.org/entry/Empress_Dowager_Cixi
+
 [^13]: History Resource. "Empress Cixi Impact On The Boxer Rebellion." https://www.tutorhunt.com/resource/8195
+
 [^14]: China Highlights. "Empress Dowager Cixi: Her Life, Reign, and Mystery." https://www.chinahighlights.com/travelguide/china-history/ci-xi.htm
+
 [^15]: The China Project. "The rise of Empress Dowager Cixi." http://thechinaproject.com/2022/11/02/the-rise-of-empress-dowager-cixi/
+
 [^16]: Britannica. "Cixi | Biography & Facts." https://www.britannica.com/biography/Cixi
+
 [^17]: Ancient War History. "The Rise of Empress Dowager Cixi: From Regent to Absolute Ruler of Qing China." https://ancientwarhistory.com/the-rise-of-empress-dowager-cixi-from-regent-to-absolute-ruler-of-qing-china/
+
 [^18]: Ancient War History. "The Rise of Empress Dowager Cixi: From Regent to Absolute Ruler of Qing China." https://ancientwarhistory.com/the-rise-of-empress-dowager-cixi-from-regent-to-absolute-ruler-of-qing-china/
+
 [^19]: Ancient War History. "The Rise of Empress Dowager Cixi: From Regent to Absolute Ruler of Qing China." https://ancientwarhistory.com/the-rise-of-empress-dowager-cixi-from-regent-to-absolute-ruler-of-qing-china/
+
 [^20]: Ancient War History. "The Rise of Empress Dowager Cixi: From Regent to Absolute Ruler of Qing China." https://ancientwarhistory.com/the-rise-of-empress-dowager-cixi-from-regent-to-absolute-ruler-of-qing-china/
+
 [^21]: Marquette University. "Empress Cixi." https://academic.mu.edu/meissnerd/cixi.htm
+
 [^22]: Britannica. "Cixi | Biography & Facts." https://www.britannica.com/biography/Cixi
+
 [^23]: Britannica. "Cixi | Biography & Facts." https://www.britannica.com/biography/Cixi
+
 [^24]: China Highlights. "Empress Dowager Cixi: Her Life, Reign, and Mystery." https://www.chinahighlights.com/travelguide/china-history/ci-xi.htm
+
 [^25]: The China Project. "The rise of Empress Dowager Cixi." http://thechinaproject.com/2022/11/02/the-rise-of-empress-dowager-cixi/
+
 [^26]: Alpha History. "The Self-Strengthening Movement." https://alphahistory.com/chineserevolution/self-strengthening-movement/
+
 [^27]: World History Edu. "Empress Dowager Cixi of the Qing Dynasty: History, Major Facts, Reforms, & Achievements." https://worldhistoryedu.com/cixi-history-facts-reforms-tongzhi-restoration-achievements/
+
 [^28]: Modern Chinese History. "The Self-Strengthening Movement." http://www.modernchinesehistory.com/pages/p18.html
+
 [^29]: Wikipedia. "Empress Dowager Cixi." https://en.wikipedia.org/wiki/Empress_Dowager_Cixi
+
 [^30]: Alpha History. "The Self-Strengthening Movement." https://alphahistory.com/chineserevolution/self-strengthening-movement/
+
 [^31]: Wikipedia. "Self-Strengthening Movement." https://en.wikipedia.org/wiki/Self-Strengthening_Movement
+
 [^32]: Alpha History. "The Self-Strengthening Movement." https://alphahistory.com/chineserevolution/self-strengthening-movement/
+
 [^33]: Wikipedia. "Self-Strengthening Movement." https://en.wikipedia.org/wiki/Self-Strengthening_Movement
+
 [^34]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^35]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^36]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^37]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^38]: Timetoast. "Timeline: Empress Dowager Cixi." https://www.timetoast.com/timelines/empress-dowager-cixi-7584bec0-3e62-437f-a421-56b754ecacd6
+
 [^39]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^40]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^41]: World History Edu. "Empress Dowager Cixi of the Qing Dynasty: History, Major Facts, Reforms, & Achievements." https://worldhistoryedu.com/cixi-history-facts-reforms-tongzhi-restoration-achievements/
+
 [^42]: World History Edu. "Empress Dowager Cixi of the Qing Dynasty: History, Major Facts, Reforms, & Achievements." https://worldhistoryedu.com/cixi-history-facts-reforms-tongzhi-restoration-achievements/
+
 [^43]: Study.com. "Cixi Biography & Legacy | Who was Empress Dowager Cixi?" https://study.com/academy/lesson/cixi-biography-legacy-empress-dowager.html
+
 [^44]: Europeana. "Empress Cixi, the last woman to rule China." https://www.europeana.eu/en/stories/empress-cixi-the-last-woman-to-rule-china
+
 [^45]: NPR. "Powerful Portraits Capture China's Empress Dowager." https://www.npr.org/2011/12/19/143796431/powerful-portraits-capture-chinas-empress-dowager
+
 [^46]: Wikipedia. "Hundred Days' Reform." https://en.wikipedia.org/wiki/Hundred_Days'_Reform
+
 [^47]: Britannica. "Hundred Days of Reform | Chinese History & Impact on Modern China." https://www.britannica.com/event/Hundred-Days-of-Reform
+
 [^48]: Wikipedia. "Empress Dowager Cixi." https://en.wikipedia.org/wiki/Empress_Dowager_Cixi
+
 [^49]: Wikipedia. "Guangxu Emperor." https://en.wikipedia.org/wiki/Guangxu_Emperor
+
 [^50]: Alpha History. "Hundred Days of Reforms." https://alphahistory.com/chineserevolution/hundred-days-reforms/
+
 [^51]: Facts and Details. "EMPRESS DOWAGER CIXI: HER LIFE, LOVERS AND EXTRAVAGENT LIFESTYLE." https://factsanddetails.com/china/cat2/sub4/item53.html
+
 [^52]: Fiveable. "Empress Dowager Cixi Definition - History of Modern China Key Term." https://fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^53]: History Resource. "Empress Cixi Impact On The Boxer Rebellion." https://www.tutorhunt.com/resource/8195
+
 [^54]: History Resource. "Empress Cixi Impact On The Boxer Rebellion." https://www.tutorhunt.com/resource/8195
+
 [^55]: TheCollector. "Empress Dowager Cixi: Rightly Condemned or Wrongly Discredited?" https://www.thecollector.com/empress-dowager-cixi-condemned/
+
 [^56]: Alpha History. "Dowager Empress Cixi." https://alphahistory.com/chineserevolution/dowager-empress-cixi/
+
 [^57]: Medium. "The Empress Dowager Cixi and Foreign Relation After Boxer Rebellion." https://be-hakyou.medium.com/the-empress-dowager-cixi-and-foreign-relation-after-boxer-rebellion-2f18b28e6de1
+
 [^58]: Medium. "The Empress Dowager Cixi and Foreign Relation After Boxer Rebellion." https://be-hakyou.medium.com/the-empress-dowager-cixi-and-foreign-relation-after-boxer-rebellion-2f18b28e6de1
+
 [^59]: History Hit. "Who Was Empress Dowager Cixi?" https://www.historyhit.com/who-was-empress-dowager-cixi/
+
 [^60]: CSUSB ScholarWorks. "Empress Dowager Cixi: Selections from the Summer Palace." https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1019&context=history-in-the-making
+
 [^61]: History Hit. "Who Was Empress Dowager Cixi?" https://www.historyhit.com/who-was-empress-dowager-cixi/
+
 [^62]: Fiveable. "Empress Dowager Cixi Definition - History of Modern China Key Term." https://fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^63]: TheCollector. "Empress Dowager Cixi: Rightly Condemned or Wrongly Discredited?" https://www.thecollector.com/empress-dowager-cixi-condemned/
+
 [^64]: King's College. "Tz'u-hsi or Cixi: The Dowager Empress of China." https://departments.kings.edu/womens_history/tzuhsi.html
+
 [^65]: King's College. "Tz'u-hsi or Cixi: The Dowager Empress of China." https://departments.kings.edu/womens_history/tzuhsi.html
+
 [^66]: China Highlights. "10 Facts on Cixi, The Empress Who Ushered In Modern China." https://www.chinahighlights.com/travelguide/china-history/empress-cixi-facts.htm
+
 [^67]: China Highlights. "10 Facts on Cixi, The Empress Who Ushered In Modern China." https://www.chinahighlights.com/travelguide/china-history/empress-cixi-facts.htm
+
 [^68]: Facts and Details. "EMPRESS DOWAGER CIXI: HER LIFE, LOVERS AND EXTRAVAGENT LIFESTYLE." https://factsanddetails.com/china/cat2/sub4/item53.html
+
 [^69]: King's College. "Tz'u-hsi or Cixi: The Dowager Empress of China." https://departments.kings.edu/womens_history/tzuhsi.html
+
 [^70]: Wikipedia. "Empress Dowager Ci'an." https://en.wikipedia.org/wiki/Empress_Dowager_Ci'an
+
 [^71]: Facts and Details. "EMPRESS DOWAGER CIXI: HER LIFE, LOVERS AND EXTRAVAGENT LIFESTYLE." https://factsanddetails.com/china/cat2/sub4/item53.html
+
 [^72]: Facts and Details. "EMPRESS DOWAGER CIXI: HER LIFE, LOVERS AND EXTRAVAGENT LIFESTYLE." https://factsanddetails.com/china/cat2/sub4/item53.html
+
 [^73]: National Geographic. "Cixi, the controversial empress dowager who modernized China." https://www.nationalgeographic.com/history/history-magazine/article/profiles-china-empress-dowager-cixi-emperor-guangxu
+
 [^74]: Facts and Details. "EMPRESS DOWAGER CIXI: HER LIFE, LOVERS AND EXTRAVAGENT LIFESTYLE." https://factsanddetails.com/china/cat2/sub4/item53.html
+
 [^75]: University of Michigan. "Piety and Power: The Theatrical Images of Empress Dowager Cixi." https://quod.lib.umich.edu/t/tap/7977573.0002.108/--piety-and-power-the-theatrical-images-of-empress-dowager
+
 [^76]: Europeana. "Empress Cixi, the last woman to rule China." https://www.europeana.eu/en/stories/empress-cixi-the-last-woman-to-rule-china
+
 [^77]: National Geographic. "Cixi, the controversial empress dowager who modernized China." https://www.nationalgeographic.com/history/history-magazine/article/profiles-china-empress-dowager-cixi-emperor-guangxu
+
 [^78]: NPR. "Who Murdered China's Emperor 100 Years Ago?" https://www.npr.org/templates/story/story.php?storyId=96993694
+
 [^79]: Zhihu. "Why did Empress Dowager Cixi insist on poisoning Emperor Guangxu before her own death?" https://en.zhihu.com/answer/2686581530
+
 [^80]: The World of Chinese. "The Eunuch and the Yogurt." https://www.theworldofchinese.com/2020/11/the-eunuch-and-the-yogurt/
+
 [^81]: ChinaFile. "The Surprising Empress." https://www.chinafile.com/library/nyrb-china-archive/surprising-empress
+
 [^82]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^83]: Fiveable. "Empress Dowager Cixi - (History of Modern China) - Vocab, Definition, Explanations." https://library.fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^84]: Fiveable. "Empress Dowager Cixi - (History of Modern China) - Vocab, Definition, Explanations." https://library.fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^85]: Fiveable. "Empress Dowager Cixi Definition - History of Modern China Key Term." https://fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^86]: Fiveable. "Empress Dowager Cixi Definition - History of Modern China Key Term." https://fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^87]: Alpha History. "Dowager Empress Cixi: the 'Dragon Lady'." https://alphahistory.com/chineserevolution/dowager-empress-cixi-dragon-lady/
+
 [^88]: Fiveable. "Empress Dowager Cixi - (History of Modern China) - Vocab, Definition, Explanations." https://library.fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^89]: ChinaFile. "The Surprising Empress." https://www.chinafile.com/library/nyrb-china-archive/surprising-empress
+
 [^90]: ChinaFile. "The Surprising Empress." https://www.chinafile.com/library/nyrb-china-archive/surprising-empress
+
 [^91]: Jung Chang. "Empress Dowager Cixi." http://www.jungchang.net/empress-dowager-cixi
+
 [^92]: Wikipedia. "Empress Dowager Cixi: The Concubine Who Launched Modern China." https://en.wikipedia.org/wiki/Empress_Dowager_Cixi:_The_Concubine_Who_Launched_Modern_China
+
 [^93]: Alpha History. "The Self-Strengthening Movement." https://alphahistory.com/chineserevolution/self-strengthening-movement/
+
 [^94]: The China Project. "The rise of Empress Dowager Cixi." http://thechinaproject.com/2022/11/02/the-rise-of-empress-dowager-cixi/
+
 [^95]: Fiveable. "Empress Dowager Cixi - (History of Modern China) - Vocab, Definition, Explanations." https://library.fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^96]: Asia Society. "Empress Impact on China Was Significant." https://asiasociety.org/texas/empress-impact-china-was-significant
+
 [^97]: ChinaFile. "The Surprising Empress." https://www.chinafile.com/library/nyrb-china-archive/surprising-empress
+
 [^98]: ChinaFile. "The Surprising Empress." https://www.chinafile.com/library/nyrb-china-archive/surprising-empress
+
 [^99]: University of Washington Tacoma. "Empress Dowager Cixi and Western Women." https://digitalcommons.tacoma.uw.edu/cgi/viewcontent.cgi?article=1026&context=history_theses
+
 [^100]: University of Washington Tacoma. "Empress Dowager Cixi and Western Women." https://digitalcommons.tacoma.uw.edu/cgi/viewcontent.cgi?article=1026&context=history_theses
+
 [^101]: Fiveable. "Empress Dowager Cixi - (History of Modern China) - Vocab, Definition, Explanations." https://library.fiveable.me/key-terms/history-modern-china/empress-dowager-cixi
+
 [^102]: Alpha History. "Hundred Days of Reforms." https://alphahistory.com/chineserevolution/hundred-days-reforms/
+
 [^103]: Medium. "The Empress Dowager Cixi and Foreign Relation After Boxer Rebellion." https://be-hakyou.medium.com/the-empress-dowager-cixi-and-foreign-relation-after-boxer-rebellion-2f18b28e6de1
+
 [^104]: NPR. "Who Murdered China's Emperor 100 Years Ago?" https://www.npr.org/templates/story/story.php?storyId=96993694
+
 [^105]: IIUM Journal. "The Case of Empress Dowager Cixi (1861-1908)." https://journals.iium.edu.my/intdiscourse/index.php/id/article/download/1976/1058/5115
+
 [^106]: Wikipedia. "Empress Dowager Cixi: The Concubine Who Launched Modern China." https://en.wikipedia.org/wiki/Empress_Dowager_Cixi:_The_Concubine_Who_Launched_Modern_China
+
 [^107]: Wikipedia. "Empress Dowager Cixi: The Concubine Who Launched Modern China." https://en.wikipedia.org/wiki/Empress_Dowager_Cixi:_The_Concubine_Who_Launched_Modern_China
+
 [^108]: Lib Quotes. "Empress Dowager Cixi (4 Sourced Quotes)." https://libquotes.com/empress-dowager-cixi
+
 [^109]: QuotesCosmos. "Empress Dowager Cixi Quotes." https://www.quotescosmos.com/people/Empress-Dowager-Cixi.html
+
 [^110]: A-Z Quotes. "QUOTES BY EMPRESS DOWAGER CIXI." https://www.azquotes.com/author/66291-Empress_Dowager_Cixi
+
 [^111]: Lib Quotes. "Empress Dowager Cixi (4 Sourced Quotes)." https://libquotes.com/empress-dowager-cixi
+
 [^112]: Quote Park. "Empress Dowager Cixi Quotes (6 quotes)." https://quotepark.com/authors/empress-dowager-cixi/
+
 [^113]: Quote.org. "25 Empress Dowager Cixi - Inspiring quotes." https://quote.org/author/empress_dowager_cixi
+
 [^114]: A-Z Quotes. "QUOTES BY EMPRESS DOWAGER CIXI." https://www.azquotes.com/author/66291-Empress_Dowager_Cixi

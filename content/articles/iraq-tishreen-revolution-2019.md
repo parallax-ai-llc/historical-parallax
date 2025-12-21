@@ -25,6 +25,7 @@ The Tishreen Revolution achieved Abdul-Mahdi's fall and early elections—but th
 ### Post-2003 Iraq
 
 After the US invasion toppled Saddam Hussein:
+
 - **Muhasasa:** Sectarian power-sharing system—positions divided by sect/ethnicity
 - **Corruption:** Endemic; trillions in oil revenue disappeared
 - **Services:** Electricity, water, infrastructure failed despite wealth
@@ -36,6 +37,7 @@ By 2019, youth unemployment exceeded 25%; overall, 40% of Iraqis lived near pove
 ### Iranian Influence
 
 Iran's role in Iraq grew after 2003:
+
 - Trained Shia militias
 - PMF (Hashd al-Shaabi) integrated into security forces
 - Political parties aligned with Tehran
@@ -50,6 +52,7 @@ For many Iraqis, especially young Shia, Iranian influence became as resented as 
 ### October 1-6, 2019: The Spark
 
 The protests began spontaneously:
+
 - No single trigger—accumulated grievances
 - Young people gathered in Baghdad's Tahrir Square
 - Spread rapidly to southern cities: Basra, Nasiriyah, Karbala, Najaf
@@ -59,12 +62,14 @@ The protests began spontaneously:
 ### Tahrir Square
 
 Baghdad's Tahrir (Liberation) Square became the revolution's heart:
+
 - Thousands camped; occupied the Turkish Restaurant building overlooking the square
 - Self-organized; medical stations, libraries, art
 - Cross-sectarian—though predominantly Shia southern Iraq
 - Women participated despite conservative pressures
 
 Slogans:
+
 - "نريد وطن" (We want a homeland)
 - "An Iraqi revolution—not Eastern or Western"
 - Rejection of all parties—including those claiming to represent Shia[^7]
@@ -87,17 +92,20 @@ But forming a new government took months; violence continued.[^9]
 ## Death Toll
 
 **By March 2020:**
+
 - 600+ killed (some estimates: nearly 700)
 - 20,000+ injured
 - 2,800+ arrested
 
 **Tactics used against protesters:**
+
 - Live ammunition
 - Tear gas canisters fired directly at heads/chests (causing skull fractures, death)
 - Snipers on rooftops
 - Stun grenades, hot pepper gas
 
 **Who was responsible:**
+
 - Iraqi security forces
 - Iran-aligned PMF militias (Asa'ib Ahl al-Haq, Kata'ib Hezbollah, others)
 - "Third party" snipers—never officially identified[^10]
@@ -107,12 +115,14 @@ But forming a new government took months; violence continued.[^9]
 ## Iranian Role
 
 **Qasem Soleimani:**
+
 - Flew to Baghdad during protests
 - Chaired security meetings
 - Advised aggressive crackdown
 - Assassinated by US drone strike January 3, 2020
 
 **Militia snipers:**
+
 - Reports indicated Iran-backed militants deployed snipers
 - "Unit 400" (Quds Force) allegedly involved
 - Protester attacks on Iranian consulates showed depth of anti-Tehran sentiment[^11]
@@ -123,24 +133,25 @@ But forming a new government took months; violence continued.[^9]
 
 ### Protest Movement
 
-| Name/Group | Role |
-|------------|------|
-| Leaderless movement | Deliberately decentralized |
+| Name/Group              | Role                          |
+| ----------------------- | ----------------------------- |
+| Leaderless movement     | Deliberately decentralized    |
 | Tahrir Square community | Self-organized administration |
-| Women activists | Prominent despite threats |
+| Women activists         | Prominent despite threats     |
 
 ### Government/Militias
 
-| Name | Role |
-|------|------|
-| Adil Abdul-Mahdi | Prime Minister; resigned November 2019 |
+| Name               | Role                                             |
+| ------------------ | ------------------------------------------------ |
+| Adil Abdul-Mahdi   | Prime Minister; resigned November 2019           |
 | Mustafa al-Kadhimi | Successor PM (May 2020); promised accountability |
-| Qasem Soleimani | IRGC Quds Force; advised crackdown |
-| Muqtada al-Sadr | Initially supportive; later ambiguous |
+| Qasem Soleimani    | IRGC Quds Force; advised crackdown               |
+| Muqtada al-Sadr    | Initially supportive; later ambiguous            |
 
 ### The Sadrist Factor
 
 Muqtada al-Sadr's movement:
+
 - Initially joined protests; "Blue Berets" provided protection
 - February 2020: Sadr withdrew support; his followers attacked protesters
 - Sadrists viewed as opportunistic by many activists[^12]
@@ -172,6 +183,7 @@ Muqtada al-Sadr's movement:
 ### Mustafa al-Kadhimi
 
 May 2020: Al-Kadhimi became PM
+
 - Former intelligence chief; promised reform
 - Arrested some militia figures briefly
 - Could not overcome structural constraints
@@ -187,6 +199,7 @@ May 2020: Al-Kadhimi became PM
 ### Ongoing Assassinations
 
 Activists continue to be killed:
+
 - Hisham al-Hashimi (researcher, July 2020)
 - Ihab al-Wazni (activist, May 2021)
 - Dozens more—no accountability[^15]
@@ -221,37 +234,52 @@ Activists continue to be killed:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| October 1, 2019 | Protests begin in Baghdad |
-| October 2-6, 2019 | 100+ killed; internet blackout |
-| October 25, 2019 | Second wave begins |
-| November 2019 | Iranian consulates attacked |
-| November 28, 2019 | Nasiriyah massacre |
-| November 29, 2019 | Abdul-Mahdi resigns |
-| December 6, 2019 | Massacre near Tahrir Square |
-| January 3, 2020 | Soleimani killed by US |
-| May 2020 | Al-Kadhimi becomes PM |
-| October 2021 | Early elections held |
-| 2019-present | Activist assassinations continue |
+| Date              | Event                            |
+| ----------------- | -------------------------------- |
+| October 1, 2019   | Protests begin in Baghdad        |
+| October 2-6, 2019 | 100+ killed; internet blackout   |
+| October 25, 2019  | Second wave begins               |
+| November 2019     | Iranian consulates attacked      |
+| November 28, 2019 | Nasiriyah massacre               |
+| November 29, 2019 | Abdul-Mahdi resigns              |
+| December 6, 2019  | Massacre near Tahrir Square      |
+| January 3, 2020   | Soleimani killed by US           |
+| May 2020          | Al-Kadhimi becomes PM            |
+| October 2021      | Early elections held             |
+| 2019-present      | Activist assassinations continue |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2019-2021 Iraqi Protests](https://en.wikipedia.org/wiki/2019%E2%80%932021_Iraqi_protests)
+
 [^2]: [Crisis Group - Tishreen Analysis](https://www.crisisgroup.org/middle-east-north-africa/iraq/tishreen-revolution)
+
 [^3]: [Wilson Center - Overview](https://www.wilsoncenter.org/article/iraqs-october-revolution)
+
 [^4]: [Wikipedia - Political System](https://en.wikipedia.org/wiki/Iraqi_politics)
+
 [^5]: [CFR - Iran Influence](https://www.cfr.org/backgrounder/irans-role-iraq)
+
 [^6]: [Middle East Center - October 2019](https://www.mideastcenter.org/iraq-protests-2019/)
+
 [^7]: [Enabling Peace - Tahrir Square](https://www.enablingpeace.org/iraq-october-revolution/)
+
 [^8]: [Relief Web - Violence](https://reliefweb.int/report/iraq/violence-protests-2019)
+
 [^9]: [Britannica - Abdul-Mahdi](https://www.britannica.com/biography/Adil-Abdul-Mahdi)
+
 [^10]: [HRW - Death Toll](https://www.hrw.org/news/2019/10/iraq-deadly-protest-crackdown)
+
 [^11]: [Times of Israel - Soleimani](https://www.timesofisrael.com/soleimani-iraq-protests-crackdown/)
+
 [^12]: [Arab Weekly - Sadrists](https://thearabweekly.com/sadrists-iraq-protests)
+
 [^13]: [FUF - Analysis](https://fuf.se/iraq-tishreen-revolution/)
+
 [^14]: [GICJ - Assassinations](https://www.gicj.org/reports/iraq-activists-assassinations/)
+
 [^15]: [IAR - Al-Kadhimi](https://iar-gwu.org/iraq-al-kadhimi/)
+
 [^16]: [ACLED - Data](https://acleddata.com/dashboard/iraq/)

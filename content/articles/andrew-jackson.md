@@ -167,46 +167,46 @@ Historians increasingly argue that understanding Jackson requires centering the 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1767 | Born March 15 in Waxhaws region between North and South Carolina |
-| 1780-1781 | Serves as courier in Revolutionary War; captured by British |
-| 1781 | Mother Elizabeth dies of cholera; Jackson orphaned at age 14 |
-| 1787 | Admitted to the bar in North Carolina |
-| 1788 | Moves to Nashville, Tennessee frontier |
-| 1791 | Marries Rachel Donelson Robards |
-| 1794 | Remarries Rachel after discovering first marriage was invalid |
-| 1796 | Elected Tennessee's first U.S. Representative |
-| 1797-1798 | Serves briefly in U.S. Senate |
-| 1798-1804 | Serves as Tennessee Superior Court judge |
-| 1802 | Elected major general of Tennessee Militia |
-| 1804 | Places brutal advertisement for runaway slave offering payment for beatings |
-| 1806 | Kills Charles Dickinson in duel on May 30 |
-| 1813-1814 | Commands forces in Creek War |
-| 1814 | Defeats Red Stick Creeks at Battle of Horseshoe Bend (March 27); forces Treaty of Fort Jackson ceding 23 million acres |
-| 1815 | Defeats British at Battle of New Orleans (January 8) |
-| 1817-1818 | Leads forces in First Seminole War |
-| 1818 | Invades Spanish Florida; occupies Pensacola |
-| 1821 | Serves briefly as military governor of Florida Territory |
-| 1823-1825 | Serves again in U.S. Senate |
-| 1824 | Runs for president; wins popular and electoral vote plurality but loses in House to John Quincy Adams |
-| 1828 | Elected seventh President of the United States; Rachel dies December 22 |
-| 1829 | Inaugurated as President (March 4); Petticoat Affair begins |
-| 1830 | Signs Indian Removal Act into law (May 28) |
-| 1832 | Vetoes recharter of Second Bank of the United States (July 10); Nullification Crisis begins |
-| 1832 | Issues Proclamation against South Carolina nullification (December 10) |
-| 1833 | Nullification Crisis resolved with Compromise Tariff |
-| 1833 | Orders withdrawal of federal deposits from Second Bank |
-| 1836 | Second Bank charter expires; issues Specie Circular |
-| 1837 | Leaves presidency; returns to Hermitage |
-| 1838-1839 | Trail of Tears: Cherokee forced removal results in approximately 4,000 deaths |
-| 1845 | Dies June 8 at the Hermitage at age 78 |
+| Year      | Event                                                                                                                  |
+| --------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1767      | Born March 15 in Waxhaws region between North and South Carolina                                                       |
+| 1780-1781 | Serves as courier in Revolutionary War; captured by British                                                            |
+| 1781      | Mother Elizabeth dies of cholera; Jackson orphaned at age 14                                                           |
+| 1787      | Admitted to the bar in North Carolina                                                                                  |
+| 1788      | Moves to Nashville, Tennessee frontier                                                                                 |
+| 1791      | Marries Rachel Donelson Robards                                                                                        |
+| 1794      | Remarries Rachel after discovering first marriage was invalid                                                          |
+| 1796      | Elected Tennessee's first U.S. Representative                                                                          |
+| 1797-1798 | Serves briefly in U.S. Senate                                                                                          |
+| 1798-1804 | Serves as Tennessee Superior Court judge                                                                               |
+| 1802      | Elected major general of Tennessee Militia                                                                             |
+| 1804      | Places brutal advertisement for runaway slave offering payment for beatings                                            |
+| 1806      | Kills Charles Dickinson in duel on May 30                                                                              |
+| 1813-1814 | Commands forces in Creek War                                                                                           |
+| 1814      | Defeats Red Stick Creeks at Battle of Horseshoe Bend (March 27); forces Treaty of Fort Jackson ceding 23 million acres |
+| 1815      | Defeats British at Battle of New Orleans (January 8)                                                                   |
+| 1817-1818 | Leads forces in First Seminole War                                                                                     |
+| 1818      | Invades Spanish Florida; occupies Pensacola                                                                            |
+| 1821      | Serves briefly as military governor of Florida Territory                                                               |
+| 1823-1825 | Serves again in U.S. Senate                                                                                            |
+| 1824      | Runs for president; wins popular and electoral vote plurality but loses in House to John Quincy Adams                  |
+| 1828      | Elected seventh President of the United States; Rachel dies December 22                                                |
+| 1829      | Inaugurated as President (March 4); Petticoat Affair begins                                                            |
+| 1830      | Signs Indian Removal Act into law (May 28)                                                                             |
+| 1832      | Vetoes recharter of Second Bank of the United States (July 10); Nullification Crisis begins                            |
+| 1832      | Issues Proclamation against South Carolina nullification (December 10)                                                 |
+| 1833      | Nullification Crisis resolved with Compromise Tariff                                                                   |
+| 1833      | Orders withdrawal of federal deposits from Second Bank                                                                 |
+| 1836      | Second Bank charter expires; issues Specie Circular                                                                    |
+| 1837      | Leaves presidency; returns to Hermitage                                                                                |
+| 1838-1839 | Trail of Tears: Cherokee forced removal results in approximately 4,000 deaths                                          |
+| 1845      | Dies June 8 at the Hermitage at age 78                                                                                 |
 
 ---
 
 ## Famous Quotes
 
-> "It is to be regretted that the rich and powerful too often bend the acts of government to their own selfish purposes." 
+> "It is to be regretted that the rich and powerful too often bend the acts of government to their own selfish purposes."
 
 Context: From Jackson's veto message of the Second Bank recharter (1832), expressing his core belief that government had been captured by elite interests at the expense of ordinary citizens.[^157]
 
@@ -239,165 +239,327 @@ Context: A personal admission that reveals Jackson's human side and his acknowle
 ## References
 
 [^1]: "Andrew Jackson," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Andrew_Jackson
+
 [^2]: "Andrew Jackson is born," History.com, accessed December 20, 2025, https://www.history.com/this-day-in-history/march-15/andrew-jackson-is-born
+
 [^3]: "Jacksonian democracy," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Jacksonian_democracy
+
 [^4]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute of American History, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^5]: "Andrew Jackson | Facts, Biography, & Accomplishments," Britannica, accessed December 20, 2025, https://www.britannica.com/biography/Andrew-Jackson
+
 [^6]: "Early Life | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/early-life
+
 [^7]: "Andrew Jackson: Life Before the Presidency," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/life-before-the-presidency
+
 [^8]: Ibid.
+
 [^9]: "Andrew Jackson," White House Historical Association, accessed December 20, 2025, https://www.whitehousehistory.org/bios/andrew-jackson
+
 [^10]: Ibid.
+
 [^11]: Ibid.
+
 [^12]: "Early Life | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/early-life
+
 [^13]: Ibid.
+
 [^14]: "Andrew Jackson: Life Before the Presidency," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/life-before-the-presidency
+
 [^15]: Ibid.
+
 [^16]: Ibid.
+
 [^17]: Ibid.
+
 [^18]: "Andrew Jackson," Britannica, accessed December 20, 2025, https://www.britannica.com/biography/Andrew-Jackson
+
 [^19]: Ibid.
+
 [^20]: "Military Life | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/military-life
+
 [^21]: "Battle of Horseshoe Bend," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Battle_of_Horseshoe_Bend
+
 [^22]: "Battle of Horseshoe Bend (1814) | Summary, Date, Andrew Jackson, & Facts," Britannica, accessed December 20, 2025, https://www.britannica.com/topic/Battle-of-Horseshoe-Band
+
 [^23]: "Battle of Horseshoe Bend," Encyclopedia of Alabama, accessed December 20, 2025, https://encyclopediaofalabama.org/article/battle-of-horseshoe-bend/
+
 [^24]: "Seminole Wars," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Seminole_Wars
+
 [^25]: "Andrew Jackson in Pensacola, Florida," National Park Service, accessed December 20, 2025, https://www.nps.gov/articles/jackson-pensacola.htm
+
 [^26]: "First Seminole War | Definition, Significance, & Facts," Britannica, accessed December 20, 2025, https://www.britannica.com/event/First-Seminole-War
+
 [^27]: Ibid.
+
 [^28]: "Battle of New Orleans: War of 1812 & Andrew Jackson," History.com, accessed December 20, 2025, https://www.history.com/topics/19th-century/battle-of-new-orleans
+
 [^29]: "The Hero of New Orleans," Historic New Orleans Collection, accessed December 20, 2025, https://hnoc.org/virtual-exhibitions/andrew-jackson/hero-new-orleans
+
 [^30]: "United States presidential election of 1824," Britannica, accessed December 20, 2025, https://www.britannica.com/event/United-States-presidential-election-of-1824
+
 [^31]: "Corrupt Bargain | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/corrupt-bargain
+
 [^32]: "Corrupt bargain," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Corrupt_bargain
+
 [^33]: "The 1824 Election and the 'Corrupt Bargain'," ushistory.org, accessed December 20, 2025, https://www.ushistory.org/us/23d.asp
+
 [^34]: "The 1824 Presidential Election and the 'Corrupt Bargain'," National Archives, accessed December 20, 2025, https://prologue.blogs.archives.gov/2020/10/22/the-1824-presidential-election-and-the-corrupt-bargain/
+
 [^35]: "Jacksonian democracy," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Jacksonian_democracy
+
 [^36]: "United States - Jacksonian Democracy, Political Reforms, Expansion," Britannica, accessed December 20, 2025, https://www.britannica.com/place/United-States/Jacksonian-democracy
+
 [^37]: "The spoils system, Bank War, and Trail of Tears," Khan Academy, accessed December 20, 2025, https://www.khanacademy.org/humanities/us-history/the-early-republic/age-of-jackson/v/jacksonian-democracy-part-4
+
 [^38]: Ibid.
+
 [^39]: "Bank War," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Bank_War
+
 [^40]: "Andrew Jackson vetoes re-charter of the Second Bank of the U.S.," History.com, accessed December 20, 2025, https://www.history.com/this-day-in-history/july-10/andrew-jackson-shuts-down-second-bank-of-the-u-s
+
 [^41]: "Andrew Jackson's Veto of the National Bank," Bill of Rights Institute, accessed December 20, 2025, https://www.billofrightsinstitute.org/essays/andrew-jacksons-veto-of-the-national-bank
+
 [^42]: "The Bank War," Economic History, Richmond Fed, accessed December 20, 2025, https://www.richmondfed.org/publications/research/econ_focus/2023/q2_economic_history
+
 [^43]: "Andrew Jackson & the Bank War," Andrew Jackson's Hermitage, accessed December 20, 2025, https://thehermitage.com/andrew-jackson-the-bank-war
+
 [^44]: "Bank War," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Bank_War
+
 [^45]: "Nullification crisis," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Nullification_crisis
+
 [^46]: "The Nullification Crisis | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/andrew-jackson-the-nullification-crisis
+
 [^47]: "Nullification Crisis | Significance, Cause, President, & States Rights," Britannica, accessed December 20, 2025, https://www.britannica.com/topic/Nullification-Crisis
+
 [^48]: "President Jackson's Proclamation Regarding Nullification, December 10, 1832," American Battlefield Trust, accessed December 20, 2025, https://www.battlefields.org/learn/primary-sources/president-jacksons-proclamation-regarding-nullification-december-10-1832
+
 [^49]: "Nullification Crisis," American Battlefield Trust, accessed December 20, 2025, https://www.battlefields.org/learn/articles/nullification-crisis
+
 [^50]: Ibid.
+
 [^51]: "Battle of Horseshoe Bend," Encyclopedia of Alabama, accessed December 20, 2025, https://encyclopediaofalabama.org/article/battle-of-horseshoe-bend/
+
 [^52]: "First Seminole War," Britannica, accessed December 20, 2025, https://www.britannica.com/event/First-Seminole-War
+
 [^53]: "Battle of New Orleans," History.com, accessed December 20, 2025, https://www.history.com/topics/19th-century/battle-of-new-orleans
+
 [^54]: "Andrew Jackson: Impact and Legacy," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/impact-and-legacy
+
 [^55]: Ibid.
+
 [^56]: Ibid.
+
 [^57]: "Jacksonian Democracy and Modern America," ushistory.org, accessed December 20, 2025, https://www.ushistory.org/us/23f.asp
+
 [^58]: Ibid.
+
 [^59]: "President Andrew Jackson's Message to Congress 'On Indian Removal' (1830)," National Archives, accessed December 20, 2025, https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal
+
 [^60]: "Indian Removal Act," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Indian_Removal_Act
+
 [^61]: "Indian Treaties and the Removal Act of 1830," U.S. Department of State, accessed December 20, 2025, https://history.state.gov/milestones/1830-1860/indian-treaties
+
 [^62]: "Trail of Tears," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Trail_of_Tears
+
 [^63]: Attributed but disputed; sentiment reflects Jackson's defiance of the Court
+
 [^64]: "Indian Removal Act," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Indian_Removal_Act
+
 [^65]: Ibid.
+
 [^66]: "Andrew Jackson and slavery," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Andrew_Jackson_and_slavery
+
 [^67]: Ibid.
+
 [^68]: "Early Life | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/early-life
+
 [^69]: "Andrew Jackson and slavery," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Andrew_Jackson_and_slavery
+
 [^70]: "Enslaved Soldiers and the Battle of New Orleans," Tennessee Historical Society, accessed December 20, 2025, https://tennesseehistory.org/battle-of-new-orleans/
+
 [^71]: Ibid.
+
 [^72]: Ibid.
+
 [^73]: "List of violent incidents involving Andrew Jackson," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/List_of_violent_incidents_involving_Andrew_Jackson
+
 [^74]: "Duels | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/duels
+
 [^75]: "Future president Andrew Jackson kills Charles Dickinson in a duel," History.com, accessed December 20, 2025, https://www.history.com/this-day-in-history/may-30/andrew-jackson-kills-charles-dickinson-in-duel
+
 [^76]: "Charles Dickinson (attorney and duelist)," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Charles_Dickinson_(attorney_and_duelist)
+
 [^77]: "Jackson's duel with Charles Dickinson," Let.rug.nl, accessed December 20, 2025, https://www.let.rug.nl/usa/biographies/andrew-jackson/jacksons-duel-with-charles-dickinson.php
+
 [^78]: Ibid.
+
 [^79]: Ibid.
+
 [^80]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^81]: "Kitchen Cabinet," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Kitchen_Cabinet
+
 [^82]: "Francis Preston Blair," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Francis_Preston_Blair
+
 [^83]: "Andrew Jackson's Cabinet," White House Historical Association, accessed December 20, 2025, https://www.whitehousehistory.org/andrew-jacksons-cabinet
+
 [^84]: Ibid.
+
 [^85]: "Andrew Jackson: Life Before the Presidency," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/life-before-the-presidency
+
 [^86]: Ibid.
+
 [^87]: Ibid.
+
 [^88]: Ibid.
+
 [^89]: Ibid.
+
 [^90]: "Charles Dickinson (attorney and duelist)," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Charles_Dickinson_(attorney_and_duelist)
+
 [^91]: "Andrew Jackson: Life Before the Presidency," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/life-before-the-presidency
+
 [^92]: Ibid.
+
 [^93]: Ibid.
+
 [^94]: Ibid.
+
 [^95]: "Andrew Jackson's Cabinet," White House Historical Association, accessed December 20, 2025, https://www.whitehousehistory.org/andrew-jacksons-cabinet
+
 [^96]: "Andrew Jackson: Life Before the Presidency," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/life-before-the-presidency
+
 [^97]: Ibid.
+
 [^98]: Ibid.
+
 [^99]: "Andrew Jackson," Britannica, accessed December 20, 2025, https://www.britannica.com/biography/Andrew-Jackson
+
 [^100]: "Military Life | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/military-life
+
 [^101]: "Early Life | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/early-life
+
 [^102]: "Andrew Jackson," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Andrew_Jackson
+
 [^103]: Ibid.
+
 [^104]: "Andrew Jackson: Impact and Legacy," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/impact-and-legacy
+
 [^105]: Ibid.
+
 [^106]: Ibid.
+
 [^107]: Ibid.
+
 [^108]: "Jacksonian democracy," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Jacksonian_democracy
+
 [^109]: Ibid.
+
 [^110]: "Trail of Tears," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Trail_of_Tears
+
 [^111]: "Indian Removal Act," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Indian_Removal_Act
+
 [^112]: "United States - Jacksonian Democracy, Political Reforms, Expansion," Britannica, accessed December 20, 2025, https://www.britannica.com/place/United-States/Jacksonian-democracy
+
 [^113]: "Andrew Jackson: Impact and Legacy," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/impact-and-legacy
+
 [^114]: Ibid.
+
 [^115]: "Bank War," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Bank_War
+
 [^116]: Ibid.
+
 [^117]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^118]: "Portraits of Andrew Jackson," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Portraits_of_Andrew_Jackson
+
 [^119]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^120]: "Why Andrew Jackson's Legacy Is So Controversial," History.com, accessed December 20, 2025, https://www.history.com/articles/andrew-jackson-presidency-controversial-legacy
+
 [^121]: Ibid.
+
 [^122]: Ibid.
+
 [^123]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^124]: Ibid.
+
 [^125]: Ibid.
+
 [^126]: "The Bank War," Economic History, Richmond Fed, accessed December 20, 2025, https://www.richmondfed.org/publications/research/econ_focus/2023/q2_economic_history
+
 [^127]: "Andrew Jackson's Veto of the National Bank," Bill of Rights Institute, accessed December 20, 2025, https://www.billofrightsinstitute.org/essays/andrew-jacksons-veto-of-the-national-bank
+
 [^128]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^129]: "Battle of New Orleans," History.com, accessed December 20, 2025, https://www.history.com/topics/19th-century/battle-of-new-orleans
+
 [^130]: "First Seminole War," Britannica, accessed December 20, 2025, https://www.britannica.com/event/First-Seminole-War
+
 [^131]: "Andrew Jackson: Impact and Legacy," Miller Center, accessed December 20, 2025, https://millercenter.org/president/jackson/impact-and-legacy
+
 [^132]: Ibid.
+
 [^133]: "Nullification Crisis," American Battlefield Trust, accessed December 20, 2025, https://www.battlefields.org/learn/articles/nullification-crisis
+
 [^134]: "Indian Removal Act," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Indian_Removal_Act
+
 [^135]: Ibid.
+
 [^136]: Ibid.
+
 [^137]: "Jacksonian democracy," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Jacksonian_democracy
+
 [^138]: "Bank War," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Bank_War
+
 [^139]: "Indian Removal Act," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Indian_Removal_Act
+
 [^140]: Ibid.
+
 [^141]: "Trail of Tears," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Trail_of_Tears
+
 [^142]: Ibid.
+
 [^143]: "Andrew Jackson and slavery," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Andrew_Jackson_and_slavery
+
 [^144]: Ibid.
+
 [^145]: Ibid.
+
 [^146]: "United States - Jacksonian Democracy, Political Reforms, Expansion," Britannica, accessed December 20, 2025, https://www.britannica.com/place/United-States/Jacksonian-democracy
+
 [^147]: Ibid.
+
 [^148]: Ibid.
+
 [^149]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^150]: "The spoils system, Bank War, and Trail of Tears," Khan Academy, accessed December 20, 2025, https://www.khanacademy.org/humanities/us-history/the-early-republic/age-of-jackson/v/jacksonian-democracy-part-4
+
 [^151]: "Bank War," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Bank_War
+
 [^152]: Ibid.
+
 [^153]: "Why Andrew Jackson's Legacy Is So Controversial," History.com, accessed December 20, 2025, https://www.history.com/articles/andrew-jackson-presidency-controversial-legacy
+
 [^154]: Ibid.
+
 [^155]: "Andrew Jackson's Shifting Legacy," Gilder Lehrman Institute, accessed December 20, 2025, https://www.gilderlehrman.org/history-resources/essays/andrew-jacksons-shifting-legacy
+
 [^156]: Ibid.
+
 [^157]: "TOP 25 QUOTES BY ANDREW JACKSON," A-Z Quotes, accessed December 20, 2025, https://www.azquotes.com/author/19724-Andrew_Jackson
+
 [^158]: Ibid.
+
 [^159]: "The Nullification Crisis | Andrew Jackson's Hermitage," accessed December 20, 2025, https://thehermitage.com/andrew-jackson-the-nullification-crisis
+
 [^160]: "Indian Removal Act," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Indian_Removal_Act
+
 [^161]: "10 Powerful Andrew Jackson Quotes That Still Resonate Today," Blinkist, accessed December 20, 2025, https://www.blinkist.com/magazine/posts/powerful-andrew-jackson-quotes
+
 [^162]: Ibid.
+
 [^163]: "TOP 25 QUOTES BY ANDREW JACKSON," A-Z Quotes, accessed December 20, 2025, https://www.azquotes.com/author/19724-Andrew_Jackson

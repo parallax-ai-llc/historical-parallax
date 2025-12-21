@@ -143,28 +143,28 @@ From a liberal democratic perspective, Perón represents the dangers of populism
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1895 | Born on October 8 in Lobos, Buenos Aires Province |
-| 1911 | Entered National Military College |
-| 1913 | Graduated as sub-lieutenant, began military career |
-| 1929 | Married Aurelia Tizón |
-| 1930 | Participated in military coup against Hipólito Yrigoyen |
-| 1938 | Wife Aurelia died of cancer |
-| 1939-1941 | Military mission to Europe, studied in Mussolini's Italy |
-| 1943 | Participated in military coup of June 4; appointed to Department of Labor |
-| 1944 | Met Eva Duarte; became Vice President and Minister of War |
-| 1945 | Arrested October 9; released after massive demonstration October 17; married Eva Duarte October 22 |
-| 1946 | Elected President on February 24; inaugurated June 4 |
-| 1947 | Women's suffrage granted |
-| 1949 | Constitutional reform allowed reelection |
-| 1951 | Expropriation of La Prensa newspaper; reelected president |
-| 1952 | Eva Perón died July 26 |
-| 1954 | Conflict with Catholic Church began |
-| 1955 | Overthrown by military coup September 16; went into exile |
-| 1961 | Married María Estela (Isabel) Martínez |
-| 1973 | Returned to Argentina; elected president for third time |
-| 1974 | Died July 1 in Buenos Aires; succeeded by Isabel Perón |
+| Year      | Event                                                                                              |
+| --------- | -------------------------------------------------------------------------------------------------- |
+| 1895      | Born on October 8 in Lobos, Buenos Aires Province                                                  |
+| 1911      | Entered National Military College                                                                  |
+| 1913      | Graduated as sub-lieutenant, began military career                                                 |
+| 1929      | Married Aurelia Tizón                                                                              |
+| 1930      | Participated in military coup against Hipólito Yrigoyen                                            |
+| 1938      | Wife Aurelia died of cancer                                                                        |
+| 1939-1941 | Military mission to Europe, studied in Mussolini's Italy                                           |
+| 1943      | Participated in military coup of June 4; appointed to Department of Labor                          |
+| 1944      | Met Eva Duarte; became Vice President and Minister of War                                          |
+| 1945      | Arrested October 9; released after massive demonstration October 17; married Eva Duarte October 22 |
+| 1946      | Elected President on February 24; inaugurated June 4                                               |
+| 1947      | Women's suffrage granted                                                                           |
+| 1949      | Constitutional reform allowed reelection                                                           |
+| 1951      | Expropriation of La Prensa newspaper; reelected president                                          |
+| 1952      | Eva Perón died July 26                                                                             |
+| 1954      | Conflict with Catholic Church began                                                                |
+| 1955      | Overthrown by military coup September 16; went into exile                                          |
+| 1961      | Married María Estela (Isabel) Martínez                                                             |
+| 1973      | Returned to Argentina; elected president for third time                                            |
+| 1974      | Died July 1 in Buenos Aires; succeeded by Isabel Perón                                             |
 
 ---
 
@@ -185,171 +185,339 @@ From a liberal democratic perspective, Perón represents the dangers of populism
 ## References
 
 [^1]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^2]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^3]: Lewis, Paul H. "The Crisis of Argentine Capitalism." University of North Carolina Press, 1990.
+
 [^4]: James, Daniel. "Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976." Cambridge University Press, 1988.
+
 [^5]: Torre, Juan Carlos. "El gigante invertebrado: Los sindicatos en el gobierno, Argentina 1973-76." Siglo XXI, 2004.
+
 [^6]: Crassweller, Robert D. "Perón and the Enigmas of Argentina." W.W. Norton, 1987.
+
 [^7]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^8]: Luna, Félix. "Perón y su tiempo." Editorial Sudamericana, 1984.
+
 [^9]: Crassweller, Robert D. "Perón and the Enigmas of Argentina." W.W. Norton, 1987.
+
 [^10]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^11]: Ibid.
+
 [^12]: Potash, Robert A. "The Army and Politics in Argentina, 1928-1945." Stanford University Press, 1969.
+
 [^13]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^14]: Luna, Félix. "Perón y su tiempo." Editorial Sudamericana, 1984.
+
 [^15]: Potash, Robert A. "The Army and Politics in Argentina, 1928-1945." Stanford University Press, 1969.
+
 [^16]: Ibid.
+
 [^17]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^18]: Potash, Robert A. "The Army and Politics in Argentina, 1928-1945." Stanford University Press, 1969.
+
 [^19]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^20]: Zanatta, Loris. "Del estado liberal a la nación católica: Iglesia y ejército en los orígenes del peronismo." Universidad Nacional de Quilmes, 1996.
+
 [^21]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^22]: Potash, Robert A. "The Army and Politics in Argentina, 1945-1962." Stanford University Press, 1980.
+
 [^23]: Ibid.
+
 [^24]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^25]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^26]: James, Daniel. "Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976." Cambridge University Press, 1988.
+
 [^27]: Ibid.
+
 [^28]: Torre, Juan Carlos. "La vieja guardia sindical y Perón: Sobre los orígenes del peronismo." Sudamericana, 1990.
+
 [^29]: Potash, Robert A. "The Army and Politics in Argentina, 1945-1962." Stanford University Press, 1980.
+
 [^30]: Ibid.
+
 [^31]: Fraser, Nicholas and Marysa Navarro. "Eva Perón." W.W. Norton, 1980.
+
 [^32]: Potash, Robert A. "The Army and Politics in Argentina, 1945-1962." Stanford University Press, 1980.
+
 [^33]: James, Daniel. "17 de octubre de 1945: El día que los trabajadores se convirtieron en peronistas." Desarrollo Económico, Vol. 27, No. 107, 1987.
+
 [^34]: Ibid.
+
 [^35]: Torre, Juan Carlos. "La vieja guardia sindical y Perón: Sobre los orígenes del peronismo." Sudamericana, 1990.
+
 [^36]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^37]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^38]: Ibid.
+
 [^39]: Canton, Dario. "Elecciones y partidos políticos en la Argentina." Siglo XXI, 1973.
+
 [^40]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^41]: James, Daniel. "Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976." Cambridge University Press, 1988.
+
 [^42]: Ibid.
+
 [^43]: Torre, Juan Carlos. "La vieja guardia sindical y Perón: Sobre los orígenes del peronismo." Sudamericana, 1990.
+
 [^44]: Fraser, Nicholas and Marysa Navarro. "Eva Perón." W.W. Norton, 1980.
+
 [^45]: Bianchi, Susana and Norma Sanchís. "El Partido Peronista Femenino." Centro Editor de América Latina, 1988.
+
 [^46]: Fraser, Nicholas and Marysa Navarro. "Eva Perón." W.W. Norton, 1980.
+
 [^47]: Ibid.
+
 [^48]: Perón, Juan Domingo. "La Comunidad Organizada." 1949.
+
 [^49]: Lewis, Paul H. "The Crisis of Argentine Capitalism." University of North Carolina Press, 1990.
+
 [^50]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^51]: Ibid.
+
 [^52]: Díaz Alejandro, Carlos F. "Essays on the Economic History of the Argentine Republic." Yale University Press, 1970.
+
 [^53]: Ibid.
+
 [^54]: Belini, Claudio. "Convenciendo al capital: Peronismo, burocracia, empresarios y política industrial, 1943-1955." Imago Mundi, 2009.
+
 [^55]: Rapoport, Mario. "Argentina y la Guerra Fría: La política exterior del peronismo, 1946-1955." Ciclos, Vol. 5, No. 8, 1995.
+
 [^56]: Ibid.
+
 [^57]: Escudé, Carlos. "Gran Bretaña, Estados Unidos y la declinación argentina, 1942-1949." Editorial de Belgrano, 1983.
+
 [^58]: Goñi, Uki. "The Real Odessa: How Perón Brought the Nazi War Criminals to Argentina." Granta Books, 2002.
+
 [^59]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^60]: Canton, Dario. "Elecciones y partidos políticos en la Argentina." Siglo XXI, 1973.
+
 [^61]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^62]: Sirvén, Pablo. "Perón y los medios de comunicación: La conflictiva relación de los medios con el primer gobierno peronista." Centro Editor de América Latina, 1984.
+
 [^63]: Ibid.
+
 [^64]: Pavón Pereyra, Enrique. "Perón: El hombre del destino." Vol. 3, Mundo Peronista, 1973.
+
 [^65]: Sirvén, Pablo. "Perón y los medios de comunicación: La conflictiva relación de los medios con el primer gobierno peronista." Centro Editor de América Latina, 1984.
+
 [^66]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^67]: Ibid.
+
 [^68]: Buchbinder, Pablo. "Historia de las universidades argentinas." Editorial Sudamericana, 2005.
+
 [^69]: Ibid.
+
 [^70]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^71]: Ibid.
+
 [^72]: Díaz Alejandro, Carlos F. "Essays on the Economic History of the Argentine Republic." Yale University Press, 1970.
+
 [^73]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^74]: Lewis, Paul H. "The Crisis of Argentine Capitalism." University of North Carolina Press, 1990.
+
 [^75]: Ibid.
+
 [^76]: Della Paolera, Gerardo and Alan M. Taylor. "A New Economic History of Argentina." Cambridge University Press, 2003.
+
 [^77]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^78]: Zanatta, Loris. "Del estado liberal a la nación católica: Iglesia y ejército en los orígenes del peronismo." Universidad Nacional de Quilmes, 1996.
+
 [^79]: Ibid.
+
 [^80]: Caimari, Lila. "Perón y la Iglesia Católica: Religión, Estado y sociedad en la Argentina (1943-1955)." Ariel, 1995.
+
 [^81]: Ibid.
+
 [^82]: Plotkin, Mariano. "Mañana es San Perón: A Cultural History of Perón's Argentina." SR Books, 2003.
+
 [^83]: Ibid.
+
 [^84]: Ibid.
+
 [^85]: Lewis, Paul H. "The Crisis of Argentine Capitalism." University of North Carolina Press, 1990.
+
 [^86]: Fraser, Nicholas and Marysa Navarro. "Eva Perón." W.W. Norton, 1980.
+
 [^87]: Lewis, Paul H. "The Crisis of Argentine Capitalism." University of North Carolina Press, 1990.
+
 [^88]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^89]: Ibid.
+
 [^90]: Ibid.
+
 [^91]: Fraser, Nicholas and Marysa Navarro. "Eva Perón." W.W. Norton, 1980.
+
 [^92]: Ibid.
+
 [^93]: Ibid.
+
 [^94]: Bianchi, Susana and Norma Sanchís. "El Partido Peronista Femenino." Centro Editor de América Latina, 1988.
+
 [^95]: Fraser, Nicholas and Marysa Navarro. "Eva Perón." W.W. Norton, 1980.
+
 [^96]: Ibid.
+
 [^97]: Tomás Eloy Martínez. "Santa Evita." Knopf, 1996.
+
 [^98]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^99]: Ibid.
+
 [^100]: Seoane, María. "Todo o Nada: La historia secreta y la historia pública del jefe guerrillero Mario Roberto Santucho." Planeta, 1991.
+
 [^101]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^102]: James, Daniel. "Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976." Cambridge University Press, 1988.
+
 [^103]: Ibid.
+
 [^104]: Plotkin, Mariano. "Mañana es San Perón: A Cultural History of Perón's Argentina." SR Books, 2003.
+
 [^105]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^106]: Ibid.
+
 [^107]: Crassweller, Robert D. "Perón and the Enigmas of Argentina." W.W. Norton, 1987.
+
 [^108]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^109]: Levitsky, Steven. "Transforming Labor-Based Parties in Latin America: Argentine Peronism in Comparative Perspective." Cambridge University Press, 2003.
+
 [^110]: Ibid.
+
 [^111]: Torre, Juan Carlos and Liliana De Riz. "Argentina Since 1946." In Leslie Bethell (ed.), "Argentina Since Independence." Cambridge University Press, 1993.
+
 [^112]: James, Daniel. "Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976." Cambridge University Press, 1988.
+
 [^113]: Ibid.
+
 [^114]: Torre, Juan Carlos and Liliana De Riz. "Argentina Since 1946." In Leslie Bethell (ed.), "Argentina Since Independence." Cambridge University Press, 1993.
+
 [^115]: Della Paolera, Gerardo and Alan M. Taylor. "A New Economic History of Argentina." Cambridge University Press, 2003.
+
 [^116]: Ibid.
+
 [^117]: Ibid.
+
 [^118]: Levitsky, Steven and María Victoria Murillo. "Argentina: From Kirchner to Kirchner." Journal of Democracy, Vol. 19, No. 2, 2008.
+
 [^119]: O'Donnell, Guillermo. "Delegative Democracy." Journal of Democracy, Vol. 5, No. 1, 1994.
+
 [^120]: Ibid.
+
 [^121]: Conniff, Michael L. "Populism in Latin America." University of Alabama Press, 1999.
+
 [^122]: Ibid.
+
 [^123]: Rapoport, Mario. "Argentina y la Guerra Fría: La política exterior del peronismo, 1946-1955." Ciclos, Vol. 5, No. 8, 1995.
+
 [^124]: Fraser, Nicholas and Marysa Navarro. "Eva Perón." W.W. Norton, 1980.
+
 [^125]: Ibid.
+
 [^126]: Taylor, Julie M. "Eva Perón: The Myths of a Woman." University of Chicago Press, 1979.
+
 [^127]: De Riz, Liliana. "Retorno y derrumbe: El último gobierno peronista." Folios, 1981.
+
 [^128]: Gillespie, Richard. "Soldiers of Perón: Argentina's Montoneros." Oxford University Press, 1982.
+
 [^129]: Lewis, Paul H. "Guerrillas and Generals: The Dirty War in Argentina." Praeger, 2002.
+
 [^130]: Ibid.
+
 [^131]: James, Daniel. "Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976." Cambridge University Press, 1988.
+
 [^132]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^133]: Torre, Juan Carlos. "La vieja guardia sindical y Perón: Sobre los orígenes del peronismo." Sudamericana, 1990.
+
 [^134]: James, Daniel. "17 de octubre de 1945: El día que los trabajadores se convirtieron en peronistas." Desarrollo Económico, Vol. 27, No. 107, 1987.
+
 [^135]: Ibid.
+
 [^136]: Torre, Juan Carlos. "La vieja guardia sindical y Perón: Sobre los orígenes del peronismo." Sudamericana, 1990.
+
 [^137]: Rapoport, Mario. "Argentina y la Guerra Fría: La política exterior del peronismo, 1946-1955." Ciclos, Vol. 5, No. 8, 1995.
+
 [^138]: Ibid.
+
 [^139]: Ibid.
+
 [^140]: Díaz Alejandro, Carlos F. "Essays on the Economic History of the Argentine Republic." Yale University Press, 1970.
+
 [^141]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^142]: Ibid.
+
 [^143]: Bianchi, Susana and Norma Sanchís. "El Partido Peronista Femenino." Centro Editor de América Latina, 1988.
+
 [^144]: Ibid.
+
 [^145]: James, Daniel. "Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976." Cambridge University Press, 1988.
+
 [^146]: Lewis, Paul H. "The Crisis of Argentine Capitalism." University of North Carolina Press, 1990.
+
 [^147]: Rock, David. "Argentina 1516-1987: From Spanish Colonization to Alfonsín." University of California Press, 1987.
+
 [^148]: Zanatta, Loris. "Del estado liberal a la nación católica: Iglesia y ejército en los orígenes del peronismo." Universidad Nacional de Quilmes, 1996.
+
 [^149]: Della Paolera, Gerardo and Alan M. Taylor. "A New Economic History of Argentina." Cambridge University Press, 2003.
+
 [^150]: Ibid.
+
 [^151]: Lewis, Paul H. "The Crisis of Argentine Capitalism." University of North Carolina Press, 1990.
+
 [^152]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^153]: Díaz Alejandro, Carlos F. "Essays on the Economic History of the Argentine Republic." Yale University Press, 1970.
+
 [^154]: Ibid.
+
 [^155]: Gerchunoff, Pablo and Lucas Llach. "El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas." Ariel, 1998.
+
 [^156]: Levitsky, Steven and María Victoria Murillo. "Argentina: From Kirchner to Kirchner." Journal of Democracy, Vol. 19, No. 2, 2008.
+
 [^157]: O'Donnell, Guillermo. "Delegative Democracy." Journal of Democracy, Vol. 5, No. 1, 1994.
+
 [^158]: Torre, Juan Carlos and Liliana De Riz. "Argentina Since 1946." In Leslie Bethell (ed.), "Argentina Since Independence." Cambridge University Press, 1993.
+
 [^159]: O'Donnell, Guillermo. "Delegative Democracy." Journal of Democracy, Vol. 5, No. 1, 1994.
+
 [^160]: Ibid.
+
 [^161]: Goñi, Uki. "The Real Odessa: How Perón Brought the Nazi War Criminals to Argentina." Granta Books, 2002.
+
 [^162]: Crassweller, Robert D. "Perón and the Enigmas of Argentina." W.W. Norton, 1987.
+
 [^163]: O'Donnell, Guillermo. "Delegative Democracy." Journal of Democracy, Vol. 5, No. 1, 1994.
+
 [^164]: Ibid.
+
 [^165]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^166]: Plotkin, Mariano. "Mañana es San Perón: A Cultural History of Perón's Argentina." SR Books, 2003.
+
 [^167]: Perón, Juan Domingo. "La Comunidad Organizada." 1949.
+
 [^168]: Page, Joseph A. "Perón: A Biography." Random House, 1983.
+
 [^169]: Rapoport, Mario. "Argentina y la Guerra Fría: La política exterior del peronismo, 1946-1955." Ciclos, Vol. 5, No. 8, 1995.

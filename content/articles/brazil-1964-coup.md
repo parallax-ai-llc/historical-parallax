@@ -33,6 +33,7 @@ Goulart became president in 1961 under unusual circumstances:
 ### The "Base Reforms"
 
 Goulart proposed ambitious reforms:
+
 - **Land Reform:** Redistribute agricultural land
 - **Voting Rights:** Extend vote to illiterates
 - **Nationalization:** Take control of foreign-owned oil refineries
@@ -44,6 +45,7 @@ Conservatives and military saw these as communist infiltration.[^4]
 ### Cold War Context
 
 **1960s Latin America:**
+
 - Cuban Revolution (1959) alarmed Washington
 - US "Alliance for Progress" sought to prevent "another Cuba"
 - Military governments seen as bulwarks against communism
@@ -56,6 +58,7 @@ Conservatives and military saw these as communist infiltration.[^4]
 ### Conspiracy
 
 By early 1964, a coup was being planned:
+
 - Military commanders conspired openly
 - Business elites funded anti-Goulart campaigns
 - "March of the Family with God for Liberty" (March 19): 500,000 conservatives protested in São Paulo
@@ -64,6 +67,7 @@ By early 1964, a coup was being planned:
 ### US Support
 
 **Operation Brother Sam:**
+
 - US Navy task force positioned off Brazil
 - Ready to provide logistical support if needed
 - Declassified documents confirm US backing[^6]
@@ -72,7 +76,8 @@ By early 1964, a coup was being planned:
 
 **March 31:** Military units in Minas Gerais began moving against the government
 
-**April 1:** 
+**April 1:**
+
 - Coup forces advanced on Rio de Janeiro
 - Goulart refused to resist militarily to avoid civil war
 - Congressional president declared presidency vacant (Goulart was still in Brazil)
@@ -89,6 +94,7 @@ By early 1964, a coup was being planned:
 **During the coup itself:** Minimal casualties (Goulart chose not to fight)
 
 **During the dictatorship (1964-1985):**
+
 - **Truth Commission (2014):** 434 confirmed killed or disappeared
 - **Torture:** Systematic; thousands of victims
 - **Indigenous peoples:** Evidence of mass killings
@@ -100,25 +106,25 @@ By early 1964, a coup was being planned:
 
 ### Government (Overthrown)
 
-| Name | Role |
-|------|------|
-| João Goulart ("Jango") | President; exiled |
-| Leonel Brizola | Governor of Rio Grande do Sul; resisted briefly |
+| Name                   | Role                                            |
+| ---------------------- | ----------------------------------------------- |
+| João Goulart ("Jango") | President; exiled                               |
+| Leonel Brizola         | Governor of Rio Grande do Sul; resisted briefly |
 
 ### Military/Coup Leaders
 
-| Name | Role |
-|------|------|
-| Humberto Castelo Branco | First military president (1964-67) |
-| Artur da Costa e Silva | Second military president (1967-69) |
-| Olympio Mourão Filho | General who launched the coup |
+| Name                    | Role                                |
+| ----------------------- | ----------------------------------- |
+| Humberto Castelo Branco | First military president (1964-67)  |
+| Artur da Costa e Silva  | Second military president (1967-69) |
+| Olympio Mourão Filho    | General who launched the coup       |
 
 ### US Involvement
 
-| Name | Role |
-|------|------|
-| Lincoln Gordon | US Ambassador; supported coup |
-| Operation Brother Sam | US naval support operation |
+| Name                  | Role                          |
+| --------------------- | ----------------------------- |
+| Lincoln Gordon        | US Ambassador; supported coup |
+| Operation Brother Sam | US naval support operation    |
 
 ---
 
@@ -127,6 +133,7 @@ By early 1964, a coup was being planned:
 ### US/Anti-Communist Perspective (1964)
 
 The coup was portrayed as:
+
 - Saving Brazil from communism
 - Preventing "another Cuba"
 - Restoring order and stability
@@ -135,6 +142,7 @@ The coup was portrayed as:
 ### Democratic/Human Rights Perspective
 
 The coup was:
+
 - Overthrow of legitimate government
 - Beginning of state terrorism
 - US intervention in sovereign nation
@@ -143,6 +151,7 @@ The coup was:
 ### Historical Consensus
 
 Today, the coup is widely condemned:
+
 - 2014 Truth Commission documented systematic abuses
 - Declassified US documents confirmed intervention
 - Academic consensus: authoritarian regime, not savior
@@ -211,6 +220,7 @@ Today, the coup is widely condemned:
 ### Continuing Relevance
 
 Brazil's democracy remains haunted by 1964:
+
 - Military continues to play political role
 - Some politicians praise the coup
 - 2018-2022: President Bolsonaro repeatedly threatened democracy
@@ -220,34 +230,46 @@ Brazil's democracy remains haunted by 1964:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| September 1961 | Goulart becomes president after Quadros resigns |
-| January 1963 | Referendum restores full presidential powers |
+| Date           | Event                                             |
+| -------------- | ------------------------------------------------- |
+| September 1961 | Goulart becomes president after Quadros resigns   |
+| January 1963   | Referendum restores full presidential powers      |
 | March 13, 1964 | Goulart announces reform program at massive rally |
-| March 19, 1964 | Conservative "March of the Family" in São Paulo |
-| March 31, 1964 | Military units begin coup |
-| April 1, 1964 | Coup succeeds; Goulart flees |
-| April 11, 1964 | Castelo Branco becomes president |
-| December 1968 | AI-5 issued; harshest repression begins |
-| 1979 | Amnesty law passed |
-| 1985 | Civilian government restored |
-| 2014 | Truth Commission final report |
+| March 19, 1964 | Conservative "March of the Family" in São Paulo   |
+| March 31, 1964 | Military units begin coup                         |
+| April 1, 1964  | Coup succeeds; Goulart flees                      |
+| April 11, 1964 | Castelo Branco becomes president                  |
+| December 1968  | AI-5 issued; harshest repression begins           |
+| 1979           | Amnesty law passed                                |
+| 1985           | Civilian government restored                      |
+| 2014           | Truth Commission final report                     |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 1964 Brazilian Coup](https://en.wikipedia.org/wiki/1964_Brazilian_coup_d%27état)
+
 [^2]: [Wikipedia - Military Dictatorship Brazil](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil)
+
 [^3]: [Encyclopedia.com - Goulart](https://www.encyclopedia.com/people/joao-goulart/)
+
 [^4]: [Brown University - Analysis](https://www.brown.edu/research/brazil-1964/)
+
 [^5]: [Wikipedia - Operation Brother Sam](https://en.wikipedia.org/wiki/Operation_Brother_Sam)
+
 [^6]: [Britannica - Brazilian Coup](https://www.britannica.com/place/Brazil/Military-dictatorship)
+
 [^7]: [Wikipedia - João Goulart](https://en.wikipedia.org/wiki/João_Goulart)
+
 [^8]: [El País - Truth Commission](https://elpais.com/brasil/truth-commission-2014/)
+
 [^9]: [Café Historia - Analysis](https://www.cafehistoria.com.br/golpe-1964/)
+
 [^10]: [Oxford Research - Cold War](https://oxfordre.com/latin-america-cold-war/)
+
 [^11]: [Tidsskrift - Economic Analysis](https://tidsskrift.dk/brazil-dictatorship/)
+
 [^12]: [Retrospect Journal - Legacy](https://retrospectjournal.com/brazil-dictatorship-legacy/)
+
 [^13]: [The World - Contemporary Relevance](https://theworld.org/brazil-1964-coup/)

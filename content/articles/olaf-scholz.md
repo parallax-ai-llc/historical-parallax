@@ -138,28 +138,28 @@ His legacy, critics argue, is one of unfulfilled promises: a Zeitenwende announc
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1958 | Born June 14 in Osnabrück, Lower Saxony, West Germany |
-| 1975 | Joined the Social Democratic Party (SPD) as a high school student |
-| 1982 | Became Deputy Federal Chairman of the Jusos (SPD youth organization) |
-| 1984 | Met with East German officials including Egon Krenz |
-| 1985 | Earned law degree from University of Hamburg; established legal practice |
-| 1987 | Served as Vice President of the International Union of Socialist Youth |
-| 1998 | Elected to Bundestag representing Hamburg-Altona; married Britta Ernst |
-| 2001 | Served as Senator for the Interior of Hamburg |
-| 2002 | Became General Secretary of the SPD under Chancellor Gerhard Schröder |
-| 2007 | Appointed Federal Minister for Labour and Social Affairs under Angela Merkel |
-| 2011 | Elected First Mayor of Hamburg with 48.3% of vote |
-| 2015 | Re-elected as Mayor of Hamburg |
-| 2017 | Oversaw security during G20 Hamburg summit; 476 police injured in riots |
-| 2018 | Appointed Vice Chancellor and Finance Minister in Merkel's fourth cabinet |
-| 2020 | Nominated as SPD chancellor candidate; suspended balanced-budget rule for COVID-19 response; deployed €130 billion stimulus package |
-| 2021 | SPD won federal election with 25.7%; sworn in as Chancellor on December 8 |
+| Year | Event                                                                                                                                  |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1958 | Born June 14 in Osnabrück, Lower Saxony, West Germany                                                                                  |
+| 1975 | Joined the Social Democratic Party (SPD) as a high school student                                                                      |
+| 1982 | Became Deputy Federal Chairman of the Jusos (SPD youth organization)                                                                   |
+| 1984 | Met with East German officials including Egon Krenz                                                                                    |
+| 1985 | Earned law degree from University of Hamburg; established legal practice                                                               |
+| 1987 | Served as Vice President of the International Union of Socialist Youth                                                                 |
+| 1998 | Elected to Bundestag representing Hamburg-Altona; married Britta Ernst                                                                 |
+| 2001 | Served as Senator for the Interior of Hamburg                                                                                          |
+| 2002 | Became General Secretary of the SPD under Chancellor Gerhard Schröder                                                                  |
+| 2007 | Appointed Federal Minister for Labour and Social Affairs under Angela Merkel                                                           |
+| 2011 | Elected First Mayor of Hamburg with 48.3% of vote                                                                                      |
+| 2015 | Re-elected as Mayor of Hamburg                                                                                                         |
+| 2017 | Oversaw security during G20 Hamburg summit; 476 police injured in riots                                                                |
+| 2018 | Appointed Vice Chancellor and Finance Minister in Merkel's fourth cabinet                                                              |
+| 2020 | Nominated as SPD chancellor candidate; suspended balanced-budget rule for COVID-19 response; deployed €130 billion stimulus package    |
+| 2021 | SPD won federal election with 25.7%; sworn in as Chancellor on December 8                                                              |
 | 2022 | Delivered Zeitenwende speech (February 27); created €100 billion defense fund; raised minimum wage to €12; imposed sanctions on Russia |
-| 2023 | German constitutional court blocked reallocation of pandemic funds to climate fund (November) |
-| 2024 | Dismissed Finance Minister Christian Lindner (November 6); lost confidence vote (December 16) |
-| 2025 | SPD suffered historic defeat in snap election (February 23) with 16.4% of vote; ended chancellorship |
+| 2023 | German constitutional court blocked reallocation of pandemic funds to climate fund (November)                                          |
+| 2024 | Dismissed Finance Minister Christian Lindner (November 6); lost confidence vote (December 16)                                          |
+| 2025 | SPD suffered historic defeat in snap election (February 23) with 16.4% of vote; ended chancellorship                                   |
 
 ---
 
@@ -186,120 +186,237 @@ His legacy, critics argue, is one of unfulfilled promises: a Zeitenwende announc
 ## References
 
 [^1]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^2]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^3]: https://biographs.org/olaf-scholz
+
 [^4]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^5]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^6]: https://www.bruegel.org/people/olaf-scholz
+
 [^7]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^8]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^9]: https://keywiki.org/Olaf_Scholz
+
 [^10]: https://rmx.news/germany/the-very-red-past-of-germanys-new-chancellor-revealed/
+
 [^11]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^12]: https://rmx.news/germany/the-very-red-past-of-germanys-new-chancellor-revealed/
+
 [^13]: https://www.lowyinstitute.org/the-interpreter/revenge-scholzomat
+
 [^14]: https://www.lowyinstitute.org/the-interpreter/revenge-scholzomat
+
 [^15]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^16]: https://www.lowyinstitute.org/the-interpreter/revenge-scholzomat
+
 [^17]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^18]: https://www.lowyinstitute.org/the-interpreter/revenge-scholzomat
+
 [^19]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^20]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^21]: https://www.npr.org/2021/09/14/1036596126/election-germany-candidate-hamburg-olaf-scholz
+
 [^22]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^23]: https://foreignpolicy.com/2021/10/08/olaf-scholzs-quiet-revolution-in-german-economics/
+
 [^24]: https://www.institutmontaigne.org/en/expressions/chancellor-olaf-scholz-change-without-disruption
+
 [^25]: https://www.cnn.com/2022/01/11/us/olaf-scholz-fast-facts/index.html
+
 [^26]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^27]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^28]: https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government
+
 [^29]: https://abcnews.go.com/International/wireStory/german-parliament-oks-higher-minimum-wage-pledged-scholz-85157978
+
 [^30]: https://www.bundesregierung.de/breg-en/news/twelve-euro-minimum-wage-2007404
+
 [^31]: https://www.euronews.com/my-europe/2022/12/07/how-a-year-of-olaf-scholz-has-changed-and-shaped-germany
+
 [^32]: https://www.foxbusiness.com/economy/germanys-scholz-raising-minimum-wage-matter-of-respect
+
 [^33]: https://www.euronews.com/my-europe/2022/12/07/how-a-year-of-olaf-scholz-has-changed-and-shaped-germany
+
 [^34]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^35]: https://en.wikipedia.org/wiki/Zeitenwende_speech
+
 [^36]: https://www.gmfus.org/news/early-assessment-germanys-zeitenwende-security-policy
+
 [^37]: https://www.bmvg.de/en/news/over-eur-100-billion-for-the-bundeswehr-and-for-our-security-5362626
+
 [^38]: https://en.wikipedia.org/wiki/Zeitenwende_speech
+
 [^39]: https://www.euronews.com/my-europe/2022/12/07/how-a-year-of-olaf-scholz-has-changed-and-shaped-germany
+
 [^40]: https://www.gmfus.org/news/early-assessment-germanys-zeitenwende-security-policy
+
 [^41]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^42]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^43]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^44]: https://www.britannica.com/biography/Olaf-Scholz
+
 [^45]: https://www.institutmontaigne.org/en/expressions/chancellor-olaf-scholz-change-without-disruption
+
 [^46]: https://www.institutmontaigne.org/en/expressions/chancellor-olaf-scholz-change-without-disruption
+
 [^47]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^48]: https://americangerman.institute/2022/10/olaf-scholz-and-the-cum-ex-scandal/
+
 [^49]: https://americangerman.institute/2022/10/olaf-scholz-and-the-cum-ex-scandal/
+
 [^50]: https://americangerman.institute/2022/10/olaf-scholz-and-the-cum-ex-scandal/
+
 [^51]: https://americangerman.institute/2022/10/olaf-scholz-and-the-cum-ex-scandal/
+
 [^52]: https://www.irishtimes.com/business/financial-services/german-finance-minister-olaf-scholz-rejects-blame-for-wirecard-scandal-1.4545096
+
 [^53]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^54]: https://www.irishtimes.com/business/financial-services/german-finance-minister-olaf-scholz-rejects-blame-for-wirecard-scandal-1.4545096
+
 [^55]: https://en.wikipedia.org/wiki/2017_G20_Hamburg_summit
+
 [^56]: https://www.lowyinstitute.org/the-interpreter/g20-hamburg-riots-german-election
+
 [^57]: https://en.wikipedia.org/wiki/2017_G20_Hamburg_summit
+
 [^58]: https://www.lowyinstitute.org/the-interpreter/g20-hamburg-riots-german-election
+
 [^59]: https://www.euronews.com/my-europe/2024/12/02/german-chancellor-scholz-defends-decision-not-to-deliver-long-range-missiles-to-ukraine
+
 [^60]: https://www.cnbc.com/2024/03/19/germany-is-refusing-to-send-taurus-missiles-to-ukraine-heres-why.html
+
 [^61]: https://www.rferl.org/a/scholz-merz-germany-elections-taurus-russia-ukraine/33309168.html
+
 [^62]: https://kyivindependent.com/german-opposition-cdu-csu-bloc-criticizes-scholz-for-refusing-to-transfer-taurus-missiles-to-ukraine/
+
 [^63]: https://kyivindependent.com/german-opposition-cdu-csu-bloc-criticizes-scholz-for-refusing-to-transfer-taurus-missiles-to-ukraine/
+
 [^64]: https://kyivindependent.com/germany-wont-send-taurus-missiles-to-ukraine-scholz-says-why/
+
 [^65]: https://www.tandfonline.com/doi/full/10.1080/0163660X.2024.2398318
+
 [^66]: https://dgap.org/en/research/publications/end-zeitenwende
+
 [^67]: https://en.wikipedia.org/wiki/2025_German_federal_election
+
 [^68]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^69]: https://wealthypeeps.com/olaf-scholz-kinder-does-he-have-children-with-his-wife-britta-ernst-married-life/
+
 [^70]: https://wealthypeeps.com/olaf-scholz-kinder-does-he-have-children-with-his-wife-britta-ernst-married-life/
+
 [^71]: https://en.wikipedia.org/wiki/Olaf_Scholz
+
 [^72]: https://knowinsiders.com/who-is-olaf-scholz-biography-love-story-personal-life-and-career-32633.html
+
 [^73]: https://www.euronews.com/my-europe/2021/12/07/who-is-olaf-scholz-and-what-kind-of-leader-will-he-be-for-germany
+
 [^74]: https://www.euronews.com/my-europe/2021/12/07/who-is-olaf-scholz-and-what-kind-of-leader-will-he-be-for-germany
+
 [^75]: https://www.ips-journal.eu/topics/future-of-social-democracy/olaf-scholz-the-improbable-role-model-6963
+
 [^76]: https://barbarakellerman.com/poor-olaf/
+
 [^77]: https://academic.oup.com/pa/advance-article/doi/10.1093/pa/gsaf038/8221814
+
 [^78]: https://www.euronews.com/my-europe/2022/12/07/how-a-year-of-olaf-scholz-has-changed-and-shaped-germany
+
 [^79]: https://www.gmfus.org/news/early-assessment-germanys-zeitenwende-security-policy
+
 [^80]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^81]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^82]: https://www.bundesregierung.de/breg-en/news/twelve-euro-minimum-wage-2007404
+
 [^83]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^84]: https://foreignpolicy.com/2021/10/08/olaf-scholzs-quiet-revolution-in-german-economics/
+
 [^85]: https://edition.cnn.com/2024/12/16/europe/germany-scholz-election-government-collapse-intl/index.html
+
 [^86]: https://www.cleanenergywire.org/news/tracking-path-germany-snap-elections-2025
+
 [^87]: https://en.wikipedia.org/wiki/2025_German_federal_election
+
 [^88]: https://en.wikipedia.org/wiki/2025_German_federal_election
+
 [^89]: https://en.wikipedia.org/wiki/2025_German_federal_election
+
 [^90]: https://www.institutmontaigne.org/en/expressions/chancellor-olaf-scholz-change-without-disruption
+
 [^91]: https://www.institutmontaigne.org/en/expressions/chancellor-olaf-scholz-change-without-disruption
+
 [^92]: https://journals.sagepub.com/doi/full/10.1177/13691481241311568
+
 [^93]: https://www.foreignaffairs.com/germany/olaf-scholz-global-zeitenwende-how-avoid-new-cold-war
+
 [^94]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^95]: https://www.institutmontaigne.org/en/expressions/chancellor-olaf-scholz-change-without-disruption
+
 [^96]: https://www.bundesregierung.de/breg-en/news/twelve-euro-minimum-wage-2007404
+
 [^97]: https://foreignpolicy.com/2023/08/25/germany-scholz-progressive-spd/
+
 [^98]: https://www.bundeskanzler.de/bk-en/chancellorship-olaf-scholz-2344810
+
 [^99]: https://barbarakellerman.com/poor-olaf/
+
 [^100]: https://www.tandfonline.com/doi/full/10.1080/0163660X.2024.2398318
+
 [^101]: https://dgap.org/en/research/publications/end-zeitenwende
+
 [^102]: https://www.rusi.org/explore-our-research/publications/commentary/hundred-billion-euro-man-olaf-scholz-and-germanys-defence-quagmire
+
 [^103]: https://kyivindependent.com/german-opposition-cdu-csu-bloc-criticizes-scholz-for-refusing-to-transfer-taurus-missiles-to-ukraine/
+
 [^104]: https://kyivindependent.com/germany-wont-send-taurus-missiles-to-ukraine-scholz-says-why/
+
 [^105]: https://academic.oup.com/pa/advance-article/doi/10.1093/pa/gsaf038/8221814
+
 [^106]: https://www.lowyinstitute.org/the-interpreter/revenge-scholzomat
+
 [^107]: https://americangerman.institute/2022/10/olaf-scholz-and-the-cum-ex-scandal/
+
 [^108]: https://www.nzz.ch/wirtschaft/drei-skandale-ein-kandidat-null-wirkung-warum-die-deutschen-finanzaffaeren-an-scholz-abperlen-ld.1645165
+
 [^109]: https://en.wikipedia.org/wiki/2025_German_federal_election
+
 [^110]: https://www.chathamhouse.org/2024/11/break-scholzs-coalition-government-signals-end-germanys-old-economic-model
+
 [^111]: https://www.bundesregierung.de/breg-en/service/archive/policy-statement-by-olaf-scholz-chancellor-of-the-federal-republic-of-germany-and-member-of-the-german-bundestag-27-february-2022-in-berlin-2008378
+
 [^112]: https://www.weforum.org/stories/2022/05/olaf-sholzs-speech-to-davos-2022-in-full/
+
 [^113]: https://www.foxbusiness.com/economy/germanys-scholz-raising-minimum-wage-matter-of-respect
+
 [^114]: https://www.weforum.org/stories/2022/05/olaf-sholzs-speech-to-davos-2022-in-full/
+
 [^115]: https://www.deepquotes.in/quotation/olaf-scholz-quotes
+
 [^116]: https://www.bundesregierung.de/breg-en/service/archive/policy-statement-by-olaf-scholz-chancellor-of-the-federal-republic-of-germany-and-member-of-the-german-bundestag-27-february-2022-in-berlin-2008378
+
 [^117]: https://www.bundesregierung.de/breg-en/service/archive/speech-by-federal-chancellor-olaf-scholz-at-the-world-economic-forum-s-davos-dialogue-on-19-january-2022-video-conference-working-together-restoring-trust--1999052
+
 [^118]: https://www.lowyinstitute.org/the-interpreter/revenge-scholzomat

@@ -153,29 +153,29 @@ Recent scholarship has also questioned the cult of personality surrounding Rames
 
 ## Timeline
 
-| Year (BCE) | Event |
-|------------|-------|
-| c. 1303 | Birth of Ramesses, son of Seti I and Queen Tuya |
-| c. 1293 | Appointed Prince Regent by his father at age 10 |
-| c. 1289 | Participates in military campaigns with Seti I in Nubia and Libya |
-| c. 1279 | Ascends to throne as Ramesses II following death of Seti I |
-| c. 1275 | First military campaign into Syria |
-| 1274 | Battle of Kadesh against Hittite Empire under Muwatalli II |
-| c. 1272 | Construction begins on Abu Simbel temples |
-| c. 1270 | Founding of new capital city Pi-Ramesses in the Nile Delta |
-| c. 1264 | Major expansion of Karnak temple complex |
-| c. 1259 | Egyptian-Hittite Peace Treaty signed with Hattusili III |
-| c. 1256 | Marriage to Hittite princess to seal alliance |
-| c. 1255 | Death of principal wife Nefertari |
-| c. 1250 | Completion of major construction projects in Nubia |
-| c. 1245 | Dedication of the Ramesseum mortuary temple at Thebes |
-| c. 1240 | Military campaigns to suppress rebellions in Canaan |
-| c. 1235 | Death of wife Isetnofret |
-| c. 1230 | Marriage to daughter Bintanath as Great Royal Wife |
-| c. 1225 | Installation of son Khaemwaset as High Priest of Ptah at Memphis |
-| c. 1220 | Celebration of multiple Sed festivals (jubilees) |
-| c. 1215 | Increasing delegation of authority to crown prince Merneptah |
-| 1213 | Death of Ramesses II at approximately age 90; succession of Merneptah |
+| Year (BCE) | Event                                                                 |
+| ---------- | --------------------------------------------------------------------- |
+| c. 1303    | Birth of Ramesses, son of Seti I and Queen Tuya                       |
+| c. 1293    | Appointed Prince Regent by his father at age 10                       |
+| c. 1289    | Participates in military campaigns with Seti I in Nubia and Libya     |
+| c. 1279    | Ascends to throne as Ramesses II following death of Seti I            |
+| c. 1275    | First military campaign into Syria                                    |
+| 1274       | Battle of Kadesh against Hittite Empire under Muwatalli II            |
+| c. 1272    | Construction begins on Abu Simbel temples                             |
+| c. 1270    | Founding of new capital city Pi-Ramesses in the Nile Delta            |
+| c. 1264    | Major expansion of Karnak temple complex                              |
+| c. 1259    | Egyptian-Hittite Peace Treaty signed with Hattusili III               |
+| c. 1256    | Marriage to Hittite princess to seal alliance                         |
+| c. 1255    | Death of principal wife Nefertari                                     |
+| c. 1250    | Completion of major construction projects in Nubia                    |
+| c. 1245    | Dedication of the Ramesseum mortuary temple at Thebes                 |
+| c. 1240    | Military campaigns to suppress rebellions in Canaan                   |
+| c. 1235    | Death of wife Isetnofret                                              |
+| c. 1230    | Marriage to daughter Bintanath as Great Royal Wife                    |
+| c. 1225    | Installation of son Khaemwaset as High Priest of Ptah at Memphis      |
+| c. 1220    | Celebration of multiple Sed festivals (jubilees)                      |
+| c. 1215    | Increasing delegation of authority to crown prince Merneptah          |
+| 1213       | Death of Ramesses II at approximately age 90; succession of Merneptah |
 
 ---
 
@@ -205,87 +205,170 @@ This self-description reflects the pharaonic ideology of the king as protector a
 
 ## References
 
-[^1]: Shaw, Ian, ed. *The Oxford History of Ancient Egypt*. Oxford University Press, 2000, pp. 289-291.
-[^2]: Dodson, Aidan and Hilton, Dyan. *The Complete Royal Families of Ancient Egypt*. Thames & Hudson, 2004, pp. 164-166.
-[^3]: Kitchen, Kenneth A. *Pharaoh Triumphant: The Life and Times of Ramesses II*. Aris & Phillips, 1982, pp. 23-25.
-[^4]: Tyldesley, Joyce. *Ramesses: Egypt's Greatest Pharaoh*. Viking Penguin, 2000, pp. 31-33.
-[^5]: Clayton, Peter A. *Chronicle of the Pharaohs*. Thames & Hudson, 1994, pp. 146-147.
-[^6]: McDonald, John K. *House of Eternity: The Tomb of Nefertari*. Getty Conservation Institute, 1996, pp. 15-17.
-[^7]: Grimal, Nicolas. *A History of Ancient Egypt*. Blackwell Publishing, 1992, pp. 250-251.
-[^8]: Bryce, Trevor. *The Kingdom of the Hittites*. Oxford University Press, 2005, pp. 230-235.
-[^9]: Hornung, Erik. *History of Ancient Egypt: An Introduction*. Cornell University Press, 1999, pp. 127-128.
-[^10]: O'Connor, David and Cline, Eric H., eds. *Ramesses II*. University of Michigan Press, 1998, pp. 85-92.
-[^11]: Healy, Mark. *Qadesh 1300 BC: Clash of the Warrior Kings*. Osprey Publishing, 1993, pp. 45-67.
-[^12]: Spalinger, Anthony J. *War in Ancient Egypt*. Blackwell Publishing, 2005, pp. 208-212.
-[^13]: Bryce, Trevor. *Letters of the Great Kings of the Ancient Near East*. Routledge, 2003, pp. 168-171.
-[^14]: Gardiner, Alan H. *The Kadesh Inscriptions of Ramesses II*. Oxford University Press, 1960, pp. 3-11.
-[^15]: Beckman, Gary. *Hittite Diplomatic Texts*. Scholars Press, 1996, pp. 90-95.
-[^16]: Langdon, S. and Gardiner, A.H. "The Treaty of Alliance between Hattusili, King of the Hittites, and the Pharaoh Ramesses II of Egypt." *Journal of Egyptian Archaeology* 6.3 (1920): 179-205.
-[^17]: Strudwick, Nigel and Helen. *Thebes in Egypt: A Guide to the Tombs and Temples of Ancient Luxor*. Cornell University Press, 1999, pp. 56-78.
-[^18]: Wilkinson, Richard H. *The Complete Temples of Ancient Egypt*. Thames & Hudson, 2000, pp. 154-158.
-[^19]: Weeks, Kent R. *The Treasures of Luxor and the Valley of the Kings*. White Star Publishers, 2005, pp. 456-462.
-[^20]: Handoussa, Tohfa. "Ramesses II: The Great Builder." In O'Connor and Cline, *Ramesses II*, pp. 179-196.
-[^21]: Bietak, Manfred. *Avaris, the Capital of the Hyksos*. British Museum Press, 1996, pp. 68-72.
-[^22]: Pusch, Edgar B. "Pi-Ramesses-Beloved of Amun, Residence of the Kings, Dominant over (All) Lands." In Dorman and Bryan, eds. *Sacred Space and Sacred Function in Ancient Thebes*. Oriental Institute, 2007, pp. 75-89.
-[^23]: Brand, Peter J. *The Monuments of Seti I: Epigraphic, Historical and Art Historical Analysis*. Brill, 2000, pp. 312-318.
-[^24]: Shaw, Ian. "Exploiting the Desert Frontier: The Logistics and Politics of Ancient Egyptian Mining Expeditions." In Starkey and Bowen, eds. *Social Approaches to an Industrial Past*. Routledge, 1999, pp. 242-258.
-[^25]: Butzer, Karl W. *Early Hydraulic Civilization in Egypt*. University of Chicago Press, 1976, pp. 89-94.
-[^26]: Spalinger, Anthony. "The Army." In O'Connor and Cline, *Ramesses II*, pp. 119-145.
-[^27]: Wachsmann, Shelley. *Seagoing Ships and Seamanship in the Bronze Age Levant*. Texas A&M University Press, 1998, pp. 156-162.
-[^28]: Murnane, William J. *The Road to Kadesh: A Historical Interpretation of the Battle Reliefs of King Sety I at Karnak*. University of Chicago Press, 1990, pp. 203-211.
-[^29]: Faulkner, R.O. "The Battle of Kadesh." *Mitteilungen des Deutschen Archäologischen Instituts Kairo* 16 (1958): 93-111.
-[^30]: Brand, Peter J. "Usurped Cartouches of Ramesses II." In *Journal of the American Research Center in Egypt* 37 (2000): 61-89.
-[^31]: Hornung, Erik. *The Valley of the Kings: Horizon of Eternity*. Timken Publishers, 1990, pp. 134-137.
-[^32]: Erman, Adolf and Blackman, A.M. *The Literature of the Ancient Egyptians*. Methuen, 1927, pp. 267-273.
-[^33]: Kemp, Barry J. *Ancient Egypt: Anatomy of a Civilization*. Routledge, 2006, pp. 278-283.
-[^34]: Rosalie, David. *Handbook to Life in Ancient Egypt*. Oxford University Press, 1998, pp. 189-192.
-[^35]: Uphill, E.P. "Pithom and Raamses: Their Location and Significance." *Journal of Near Eastern Studies* 27.4 (1968): 291-316.
-[^36]: Haring, B.J.J. *Divine Households: Administrative and Economic Aspects of the New Kingdom Royal Memorial Temples in Western Thebes*. Egyptologische Uitgaven, 1997, pp. 345-356.
-[^37]: Redford, Donald B. *Egypt, Canaan, and Israel in Ancient Times*. Princeton University Press, 1992, pp. 181-183.
-[^38]: Bell, Lanny. "Luxor Temple and the Cult of the Royal Ka." *Journal of Near Eastern Studies* 44.4 (1985): 251-294.
-[^39]: Schulman, Alan R. "Diplomatic Marriage in the Egyptian New Kingdom." *Journal of Near Eastern Studies* 38.3 (1979): 177-193.
-[^40]: Harris, James E. and Wente, Edward F. *An X-Ray Atlas of the Royal Mummies*. University of Chicago Press, 1980, pp. 256-262.
-[^41]: Dodson, Aidan. "Crown Prince Djhutmose and the Royal Sons of the Eighteenth Dynasty." *Journal of Egyptian Archaeology* 76 (1990): 87-96.
-[^42]: Desroches-Noblecourt, Christiane. *Life and Death of a Pharaoh: Tutankhamun*. New York Graphic Society, 1963, pp. 178-181.
-[^43]: Leblanc, Christian. *Nefertari, L'Aimée-de-Mout*. Editions du Rocher, 1999, pp. 45-89.
-[^44]: Robins, Gay. "The God's Wife of Amun in the 18th Dynasty in Egypt." In Cameron and Kuhrt, eds. *Images of Women in Antiquity*. Routledge, 1983, pp. 65-78.
-[^45]: Kitchen, Kenneth A. *Ramesside Inscriptions: Translated and Annotated*. Blackwell, 1996, Vol. 2, pp. 456-478.
-[^46]: Dodson, Aidan. "The Sons of Ramesses II." In *KMT: A Modern Journal of Ancient Egypt* 8.4 (1997-98): 34-58.
-[^47]: Balout, L. and Roubet, C. *La Momie de Ramsès II: Contribution Scientifique à l'Égyptologie*. Editions Recherche sur les Civilisations, 1985, pp. 312-324.
-[^48]: Reeves, C. Nicholas. *Valley of the Kings: The Decline of a Royal Necropolis*. Kegan Paul International, 1990, pp. 89-92.
-[^49]: Assmann, Jan. *The Search for God in Ancient Egypt*. Cornell University Press, 2001, pp. 212-216.
-[^50]: Rice, Michael. *Who's Who in Ancient Egypt*. Routledge, 1999, pp. 168-171.
-[^51]: von Beckerath, Jürgen. *Handbuch der ägyptischen Königsnamen*. Deutscher Kunstverlag, 1999, pp. 234-245.
-[^52]: Siliotti, Alberto. *Guide to the Valley of the Kings*. Barnes & Noble, 1997, pp. 134-141.
-[^53]: Save-Soderbergh, Torgny, ed. *Temples and Tombs of Ancient Nubia: The International Rescue Campaign at Abu Simbel, Philae and Other Sites*. Thames & Hudson, 1987, pp. 23-45.
-[^54]: Cohen, Raymond and Westbrook, Raymond, eds. *Amarna Diplomacy: The Beginnings of International Relations*. Johns Hopkins University Press, 2000, pp. 178-189.
-[^55]: Podany, Amanda H. *Brotherhood of Kings: How International Relations Shaped the Ancient Near East*. Oxford University Press, 2010, pp. 287-290.
-[^56]: Kitchen, Kenneth A. *On the Reliability of the Old Testament*. Eerdmans, 2003, pp. 255-261.
-[^57]: Hoffmeier, James K. *Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition*. Oxford University Press, 1997, pp. 112-117.
-[^58]: Smith, Grafton Elliot. *The Royal Mummies*. Duckworth, 2000 [1912], pp. 67-72.
-[^59]: Bucaille, Maurice. *Mummies of the Pharaohs: Modern Medical Investigations*. St. Martin's Press, 1990, pp. 156-163.
-[^60]: Kitchen, Kenneth A. *Pharaoh Triumphant*, pp. 234-241.
-[^61]: Kitchen, Kenneth A. "The Basics of Egyptian Chronology in Relation to the Bronze Age." In Åström, ed. *High, Middle or Low?* Acts of an International Colloquium on Absolute Chronology. Paul Åströms Förlag, 1987, pp. 37-55.
-[^62]: Kemp, Barry J. "Large Middle Kingdom Granary Buildings (and the archaeology of administration)." *Zeitschrift für Ägyptische Sprache und Altertumskunde* 113 (1986): 120-136.
-[^63]: Cline, Eric H. and O'Connor, David. "The Mystery of the 'Sea Peoples'." In O'Connor and Quirke, eds. *Mysterious Lands*. UCL Press, 2003, pp. 107-138.
-[^64]: Shafer, Byron E., ed. *Temples of Ancient Egypt*. Cornell University Press, 1997, pp. 234-256.
-[^65]: Russmann, Edna R. *Eternal Egypt: Masterworks of Ancient Art from the British Museum*. University of California Press, 2001, pp. 178-185.
-[^66]: Van De Mieroop, Marc. *A History of Ancient Egypt*. Wiley-Blackwell, 2011, pp. 234-237.
-[^67]: Murnane, William J. *Ancient Egyptian Coregencies*. University of Chicago Press, 1977, pp. 89-96.
-[^68]: Robins, Gay. *The Art of Ancient Egypt*. Harvard University Press, 2008, pp. 189-203.
-[^69]: Grimal, Nicolas. *A History of Ancient Egypt*, pp. 265-268.
-[^70]: Tyldesley, Joyce. *Ramesses: Egypt's Greatest Pharaoh*, pp. 198-203.
-[^71]: Cline, Eric H. and O'Connor, David, eds. *Thutmose III: A New Biography*. University of Michigan Press, 2006, pp. 345-351.
-[^72]: Warburton, David A. *State and Economy in Ancient Egypt*. University Press Fribourg, 1997, pp. 267-273.
-[^73]: Jansen-Winkeln, Karl. "The Chronology of the Third Intermediate Period: Dyns. 22-24." In Hornung et al., eds. *Ancient Egyptian Chronology*. Brill, 2006, pp. 234-264.
-[^74]: Gabriel, Richard A. *The Great Armies of Antiquity*. Praeger, 2002, pp. 89-94.
-[^75]: Goedicke, Hans. "Considerations on the Battle of Kadesh." *Journal of Egyptian Archaeology* 52 (1966): 71-80.
-[^76]: Sourouzian, Hourig. "Standing Royal Colossi of the Middle Kingdom Reused by Ramesses II." *Mitteilungen des Deutschen Archäologischen Instituts Kairo* 44 (1988): 229-254.
-[^77]: Redford, Donald B. "The Historiography of Ancient Egypt." In Sasson, ed. *Civilizations of the Ancient Near East*. Hendrickson, 2000, pp. 1-13.
-[^78]: O'Connor, David and Silverman, David P., eds. *Ancient Egyptian Kingship*. Brill, 1995, pp. 234-256.
-[^79]: Bell, Martha. "Climate and the History of Egypt: The Middle Kingdom." *American Journal of Archaeology* 79.3 (1975): 223-269.
-[^80]: Shelley, Percy Bysshe. "Ozymandias." In *The Examiner* (1818). Reprinted in *Shelley's Poetry and Prose*, Norton, 2002, p. 109.
-[^81]: Gardiner, Alan H. *The Kadesh Inscriptions of Ramesses II*, pp. 7-9.
-[^82]: Lichtheim, Miriam. *Ancient Egyptian Literature, Volume II: The New Kingdom*. University of California Press, 1976, pp. 57-72.
-[^83]: McDonald, John K. *House of Eternity*, pp. 89-92.
-[^84]: Assmann, Jan. *The Mind of Egypt: History and Meaning in the Time of the Pharaohs*. Metropolitan Books, 2002, pp. 267-271.
+[^1]: Shaw, Ian, ed. _The Oxford History of Ancient Egypt_. Oxford University Press, 2000, pp. 289-291.
+
+[^2]: Dodson, Aidan and Hilton, Dyan. _The Complete Royal Families of Ancient Egypt_. Thames & Hudson, 2004, pp. 164-166.
+
+[^3]: Kitchen, Kenneth A. _Pharaoh Triumphant: The Life and Times of Ramesses II_. Aris & Phillips, 1982, pp. 23-25.
+
+[^4]: Tyldesley, Joyce. _Ramesses: Egypt's Greatest Pharaoh_. Viking Penguin, 2000, pp. 31-33.
+
+[^5]: Clayton, Peter A. _Chronicle of the Pharaohs_. Thames & Hudson, 1994, pp. 146-147.
+
+[^6]: McDonald, John K. _House of Eternity: The Tomb of Nefertari_. Getty Conservation Institute, 1996, pp. 15-17.
+
+[^7]: Grimal, Nicolas. _A History of Ancient Egypt_. Blackwell Publishing, 1992, pp. 250-251.
+
+[^8]: Bryce, Trevor. _The Kingdom of the Hittites_. Oxford University Press, 2005, pp. 230-235.
+
+[^9]: Hornung, Erik. _History of Ancient Egypt: An Introduction_. Cornell University Press, 1999, pp. 127-128.
+
+[^10]: O'Connor, David and Cline, Eric H., eds. _Ramesses II_. University of Michigan Press, 1998, pp. 85-92.
+
+[^11]: Healy, Mark. _Qadesh 1300 BC: Clash of the Warrior Kings_. Osprey Publishing, 1993, pp. 45-67.
+
+[^12]: Spalinger, Anthony J. _War in Ancient Egypt_. Blackwell Publishing, 2005, pp. 208-212.
+
+[^13]: Bryce, Trevor. _Letters of the Great Kings of the Ancient Near East_. Routledge, 2003, pp. 168-171.
+
+[^14]: Gardiner, Alan H. _The Kadesh Inscriptions of Ramesses II_. Oxford University Press, 1960, pp. 3-11.
+
+[^15]: Beckman, Gary. _Hittite Diplomatic Texts_. Scholars Press, 1996, pp. 90-95.
+
+[^16]: Langdon, S. and Gardiner, A.H. "The Treaty of Alliance between Hattusili, King of the Hittites, and the Pharaoh Ramesses II of Egypt." _Journal of Egyptian Archaeology_ 6.3 (1920): 179-205.
+
+[^17]: Strudwick, Nigel and Helen. _Thebes in Egypt: A Guide to the Tombs and Temples of Ancient Luxor_. Cornell University Press, 1999, pp. 56-78.
+
+[^18]: Wilkinson, Richard H. _The Complete Temples of Ancient Egypt_. Thames & Hudson, 2000, pp. 154-158.
+
+[^19]: Weeks, Kent R. _The Treasures of Luxor and the Valley of the Kings_. White Star Publishers, 2005, pp. 456-462.
+
+[^20]: Handoussa, Tohfa. "Ramesses II: The Great Builder." In O'Connor and Cline, _Ramesses II_, pp. 179-196.
+
+[^21]: Bietak, Manfred. _Avaris, the Capital of the Hyksos_. British Museum Press, 1996, pp. 68-72.
+
+[^22]: Pusch, Edgar B. "Pi-Ramesses-Beloved of Amun, Residence of the Kings, Dominant over (All) Lands." In Dorman and Bryan, eds. _Sacred Space and Sacred Function in Ancient Thebes_. Oriental Institute, 2007, pp. 75-89.
+
+[^23]: Brand, Peter J. _The Monuments of Seti I: Epigraphic, Historical and Art Historical Analysis_. Brill, 2000, pp. 312-318.
+
+[^24]: Shaw, Ian. "Exploiting the Desert Frontier: The Logistics and Politics of Ancient Egyptian Mining Expeditions." In Starkey and Bowen, eds. _Social Approaches to an Industrial Past_. Routledge, 1999, pp. 242-258.
+
+[^25]: Butzer, Karl W. _Early Hydraulic Civilization in Egypt_. University of Chicago Press, 1976, pp. 89-94.
+
+[^26]: Spalinger, Anthony. "The Army." In O'Connor and Cline, _Ramesses II_, pp. 119-145.
+
+[^27]: Wachsmann, Shelley. _Seagoing Ships and Seamanship in the Bronze Age Levant_. Texas A&M University Press, 1998, pp. 156-162.
+
+[^28]: Murnane, William J. _The Road to Kadesh: A Historical Interpretation of the Battle Reliefs of King Sety I at Karnak_. University of Chicago Press, 1990, pp. 203-211.
+
+[^29]: Faulkner, R.O. "The Battle of Kadesh." _Mitteilungen des Deutschen Archäologischen Instituts Kairo_ 16 (1958): 93-111.
+
+[^30]: Brand, Peter J. "Usurped Cartouches of Ramesses II." In _Journal of the American Research Center in Egypt_ 37 (2000): 61-89.
+
+[^31]: Hornung, Erik. _The Valley of the Kings: Horizon of Eternity_. Timken Publishers, 1990, pp. 134-137.
+
+[^32]: Erman, Adolf and Blackman, A.M. _The Literature of the Ancient Egyptians_. Methuen, 1927, pp. 267-273.
+
+[^33]: Kemp, Barry J. _Ancient Egypt: Anatomy of a Civilization_. Routledge, 2006, pp. 278-283.
+
+[^34]: Rosalie, David. _Handbook to Life in Ancient Egypt_. Oxford University Press, 1998, pp. 189-192.
+
+[^35]: Uphill, E.P. "Pithom and Raamses: Their Location and Significance." _Journal of Near Eastern Studies_ 27.4 (1968): 291-316.
+
+[^36]: Haring, B.J.J. _Divine Households: Administrative and Economic Aspects of the New Kingdom Royal Memorial Temples in Western Thebes_. Egyptologische Uitgaven, 1997, pp. 345-356.
+
+[^37]: Redford, Donald B. _Egypt, Canaan, and Israel in Ancient Times_. Princeton University Press, 1992, pp. 181-183.
+
+[^38]: Bell, Lanny. "Luxor Temple and the Cult of the Royal Ka." _Journal of Near Eastern Studies_ 44.4 (1985): 251-294.
+
+[^39]: Schulman, Alan R. "Diplomatic Marriage in the Egyptian New Kingdom." _Journal of Near Eastern Studies_ 38.3 (1979): 177-193.
+
+[^40]: Harris, James E. and Wente, Edward F. _An X-Ray Atlas of the Royal Mummies_. University of Chicago Press, 1980, pp. 256-262.
+
+[^41]: Dodson, Aidan. "Crown Prince Djhutmose and the Royal Sons of the Eighteenth Dynasty." _Journal of Egyptian Archaeology_ 76 (1990): 87-96.
+
+[^42]: Desroches-Noblecourt, Christiane. _Life and Death of a Pharaoh: Tutankhamun_. New York Graphic Society, 1963, pp. 178-181.
+
+[^43]: Leblanc, Christian. _Nefertari, L'Aimée-de-Mout_. Editions du Rocher, 1999, pp. 45-89.
+
+[^44]: Robins, Gay. "The God's Wife of Amun in the 18th Dynasty in Egypt." In Cameron and Kuhrt, eds. _Images of Women in Antiquity_. Routledge, 1983, pp. 65-78.
+
+[^45]: Kitchen, Kenneth A. _Ramesside Inscriptions: Translated and Annotated_. Blackwell, 1996, Vol. 2, pp. 456-478.
+
+[^46]: Dodson, Aidan. "The Sons of Ramesses II." In _KMT: A Modern Journal of Ancient Egypt_ 8.4 (1997-98): 34-58.
+
+[^47]: Balout, L. and Roubet, C. _La Momie de Ramsès II: Contribution Scientifique à l'Égyptologie_. Editions Recherche sur les Civilisations, 1985, pp. 312-324.
+
+[^48]: Reeves, C. Nicholas. _Valley of the Kings: The Decline of a Royal Necropolis_. Kegan Paul International, 1990, pp. 89-92.
+
+[^49]: Assmann, Jan. _The Search for God in Ancient Egypt_. Cornell University Press, 2001, pp. 212-216.
+
+[^50]: Rice, Michael. _Who's Who in Ancient Egypt_. Routledge, 1999, pp. 168-171.
+
+[^51]: von Beckerath, Jürgen. _Handbuch der ägyptischen Königsnamen_. Deutscher Kunstverlag, 1999, pp. 234-245.
+
+[^52]: Siliotti, Alberto. _Guide to the Valley of the Kings_. Barnes & Noble, 1997, pp. 134-141.
+
+[^53]: Save-Soderbergh, Torgny, ed. _Temples and Tombs of Ancient Nubia: The International Rescue Campaign at Abu Simbel, Philae and Other Sites_. Thames & Hudson, 1987, pp. 23-45.
+
+[^54]: Cohen, Raymond and Westbrook, Raymond, eds. _Amarna Diplomacy: The Beginnings of International Relations_. Johns Hopkins University Press, 2000, pp. 178-189.
+
+[^55]: Podany, Amanda H. _Brotherhood of Kings: How International Relations Shaped the Ancient Near East_. Oxford University Press, 2010, pp. 287-290.
+
+[^56]: Kitchen, Kenneth A. _On the Reliability of the Old Testament_. Eerdmans, 2003, pp. 255-261.
+
+[^57]: Hoffmeier, James K. _Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition_. Oxford University Press, 1997, pp. 112-117.
+
+[^58]: Smith, Grafton Elliot. _The Royal Mummies_. Duckworth, 2000 [1912], pp. 67-72.
+
+[^59]: Bucaille, Maurice. _Mummies of the Pharaohs: Modern Medical Investigations_. St. Martin's Press, 1990, pp. 156-163.
+
+[^60]: Kitchen, Kenneth A. _Pharaoh Triumphant_, pp. 234-241.
+
+[^61]: Kitchen, Kenneth A. "The Basics of Egyptian Chronology in Relation to the Bronze Age." In Åström, ed. _High, Middle or Low?_ Acts of an International Colloquium on Absolute Chronology. Paul Åströms Förlag, 1987, pp. 37-55.
+
+[^62]: Kemp, Barry J. "Large Middle Kingdom Granary Buildings (and the archaeology of administration)." _Zeitschrift für Ägyptische Sprache und Altertumskunde_ 113 (1986): 120-136.
+
+[^63]: Cline, Eric H. and O'Connor, David. "The Mystery of the 'Sea Peoples'." In O'Connor and Quirke, eds. _Mysterious Lands_. UCL Press, 2003, pp. 107-138.
+
+[^64]: Shafer, Byron E., ed. _Temples of Ancient Egypt_. Cornell University Press, 1997, pp. 234-256.
+
+[^65]: Russmann, Edna R. _Eternal Egypt: Masterworks of Ancient Art from the British Museum_. University of California Press, 2001, pp. 178-185.
+
+[^66]: Van De Mieroop, Marc. _A History of Ancient Egypt_. Wiley-Blackwell, 2011, pp. 234-237.
+
+[^67]: Murnane, William J. _Ancient Egyptian Coregencies_. University of Chicago Press, 1977, pp. 89-96.
+
+[^68]: Robins, Gay. _The Art of Ancient Egypt_. Harvard University Press, 2008, pp. 189-203.
+
+[^69]: Grimal, Nicolas. _A History of Ancient Egypt_, pp. 265-268.
+
+[^70]: Tyldesley, Joyce. _Ramesses: Egypt's Greatest Pharaoh_, pp. 198-203.
+
+[^71]: Cline, Eric H. and O'Connor, David, eds. _Thutmose III: A New Biography_. University of Michigan Press, 2006, pp. 345-351.
+
+[^72]: Warburton, David A. _State and Economy in Ancient Egypt_. University Press Fribourg, 1997, pp. 267-273.
+
+[^73]: Jansen-Winkeln, Karl. "The Chronology of the Third Intermediate Period: Dyns. 22-24." In Hornung et al., eds. _Ancient Egyptian Chronology_. Brill, 2006, pp. 234-264.
+
+[^74]: Gabriel, Richard A. _The Great Armies of Antiquity_. Praeger, 2002, pp. 89-94.
+
+[^75]: Goedicke, Hans. "Considerations on the Battle of Kadesh." _Journal of Egyptian Archaeology_ 52 (1966): 71-80.
+
+[^76]: Sourouzian, Hourig. "Standing Royal Colossi of the Middle Kingdom Reused by Ramesses II." _Mitteilungen des Deutschen Archäologischen Instituts Kairo_ 44 (1988): 229-254.
+
+[^77]: Redford, Donald B. "The Historiography of Ancient Egypt." In Sasson, ed. _Civilizations of the Ancient Near East_. Hendrickson, 2000, pp. 1-13.
+
+[^78]: O'Connor, David and Silverman, David P., eds. _Ancient Egyptian Kingship_. Brill, 1995, pp. 234-256.
+
+[^79]: Bell, Martha. "Climate and the History of Egypt: The Middle Kingdom." _American Journal of Archaeology_ 79.3 (1975): 223-269.
+
+[^80]: Shelley, Percy Bysshe. "Ozymandias." In _The Examiner_ (1818). Reprinted in _Shelley's Poetry and Prose_, Norton, 2002, p. 109.
+
+[^81]: Gardiner, Alan H. _The Kadesh Inscriptions of Ramesses II_, pp. 7-9.
+
+[^82]: Lichtheim, Miriam. _Ancient Egyptian Literature, Volume II: The New Kingdom_. University of California Press, 1976, pp. 57-72.
+
+[^83]: McDonald, John K. _House of Eternity_, pp. 89-92.
+
+[^84]: Assmann, Jan. _The Mind of Egypt: History and Meaning in the Time of the Pharaohs_. Metropolitan Books, 2002, pp. 267-271.

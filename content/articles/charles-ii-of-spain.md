@@ -49,7 +49,7 @@ Despite the traditional historical narrative of decline, modern scholarship has 
 
 **Commercial Policy**: Charles's government established a committee for commerce that pursued orthodox mercantilist policies, encouraging domestic trade and industry. Recent research indicates that within Spain, population growth, agricultural output, and textile manufacture all began to recover during Charles's reign, contradicting the traditional narrative of universal decline. Many of the commercial and political policies initiated under Charles formed the basis for reforms enacted by his Bourbon successors.[^17][^18]
 
-**Legal Codification**: One of the bright spots of Charles's reign was the 1680 publication of the *Recopilación de las leyes de Indias*, a vast compendium of the local laws governing Spain's American territories. This monumental legal work was intended to keep the legal codes of Spain and the Americas as close in nature as possible, providing a comprehensive framework for colonial administration that would endure beyond his reign.[^19]
+**Legal Codification**: One of the bright spots of Charles's reign was the 1680 publication of the _Recopilación de las leyes de Indias_, a vast compendium of the local laws governing Spain's American territories. This monumental legal work was intended to keep the legal codes of Spain and the Americas as close in nature as possible, providing a comprehensive framework for colonial administration that would endure beyond his reign.[^19]
 
 **Colonial Administration**: Decrees were issued in Charles's name approving universities in South America that still exist today, including San Cristóbal in Peru (established 1680) and the Universidad de San Carlos de Guatemala. These institutions became centers of learning and culture in the Spanish colonial world.[^20]
 
@@ -121,7 +121,7 @@ Recent historical scholarship has significantly revised traditional assessments 
 
 **Economic Recovery**: Historians now argue that "both the myth of decline and an incapable king are simplistic and inexact." Economic historians have demonstrated that despite short-term disruptions, the monetary reforms of the 1680s provided crucial stability. Research by scholars examining parish records, textile production, and agricultural output has shown that Spain experienced demographic recovery and economic growth during Charles's reign, challenging the declinist narrative.[^47]
 
-**Administrative Continuity**: Modern scholars recognize that the administrative and commercial policies developed during Charles's reign formed the foundation for the successful Bourbon reforms. The legal codifications, particularly the *Recopilación de las leyes de Indias*, demonstrated effective governance despite the king's personal limitations.[^48]
+**Administrative Continuity**: Modern scholars recognize that the administrative and commercial policies developed during Charles's reign formed the foundation for the successful Bourbon reforms. The legal codifications, particularly the _Recopilación de las leyes de Indias_, demonstrated effective governance despite the king's personal limitations.[^48]
 
 **Mental Capacity Vindication**: Contemporary diplomatic reports and council proceedings reveal that Charles was more mentally capable than traditionally portrayed. The French ambassador and other foreign observers noted his active participation in governance. One often-cited example of his alleged mental incapacity—sleeping with his father's disinterred corpse—has been debunked; this was done under instructions from his mother's doctors who advised it would help him produce an heir, not from any delusion on Charles's part.[^49]
 
@@ -147,26 +147,26 @@ Despite scholarly rehabilitation, Charles II remains a controversial and often n
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1661 | Born November 6 in Madrid to Philip IV and Mariana of Austria |
-| 1665 | Became King of Spain at age three upon father's death (September 17) |
-| 1665-1675 | Regency of Queen Mother Mariana of Austria |
-| 1669 | Don Juan José de Austria forces dismissal of advisor Nithard |
-| 1675 | Declared of legal age (November 6); assumes nominal control of government |
-| 1677 | Don Juan José de Austria becomes First Minister |
-| 1679 | Death of Don Juan José (September 17); marriage to Marie Louise d'Orléans (November 19) |
-| 1680 | Publication of *Recopilación de las leyes de Indias* |
-| 1680-1686 | Major currency reforms and monetary stabilization |
-| 1689 | Death of Marie Louise d'Orléans (February); marriage to Maria Anna of Neuburg (August) |
-| 1688-1697 | Nine Years' War against France |
-| 1697 | Peace of Rijswijk ends war with France |
-| 1698 | First Partition Treaty (October 11); Charles falls seriously ill |
-| 1699 | Death of Joseph Ferdinand, designated heir, from smallpox |
-| 1700 | Second Partition Treaty (March 25); Charles falls ill again (September) |
-| 1700 | Signs will naming Philip of Anjou as heir (October 2) |
-| 1700 | Dies in Madrid (November 1); Philip V proclaimed King of Spain (November 16) |
-| 1701 | War of the Spanish Succession begins (July 9) |
+| Year      | Event                                                                                   |
+| --------- | --------------------------------------------------------------------------------------- |
+| 1661      | Born November 6 in Madrid to Philip IV and Mariana of Austria                           |
+| 1665      | Became King of Spain at age three upon father's death (September 17)                    |
+| 1665-1675 | Regency of Queen Mother Mariana of Austria                                              |
+| 1669      | Don Juan José de Austria forces dismissal of advisor Nithard                            |
+| 1675      | Declared of legal age (November 6); assumes nominal control of government               |
+| 1677      | Don Juan José de Austria becomes First Minister                                         |
+| 1679      | Death of Don Juan José (September 17); marriage to Marie Louise d'Orléans (November 19) |
+| 1680      | Publication of _Recopilación de las leyes de Indias_                                    |
+| 1680-1686 | Major currency reforms and monetary stabilization                                       |
+| 1689      | Death of Marie Louise d'Orléans (February); marriage to Maria Anna of Neuburg (August)  |
+| 1688-1697 | Nine Years' War against France                                                          |
+| 1697      | Peace of Rijswijk ends war with France                                                  |
+| 1698      | First Partition Treaty (October 11); Charles falls seriously ill                        |
+| 1699      | Death of Joseph Ferdinand, designated heir, from smallpox                               |
+| 1700      | Second Partition Treaty (March 25); Charles falls ill again (September)                 |
+| 1700      | Signs will naming Philip of Anjou as heir (October 2)                                   |
+| 1700      | Dies in Madrid (November 1); Philip V proclaimed King of Spain (November 16)            |
+| 1701      | War of the Spanish Succession begins (July 9)                                           |
 
 ---
 
@@ -182,7 +182,7 @@ This statement, attributed to Charles, suggests a somewhat passive governing phi
 
 **Note**: Direct quotes from Charles II are rare in historical records, partly due to his speech difficulties caused by his pronounced Habsburg jaw and large tongue. Most accounts of his words come secondhand through diplomatic reports and court chroniclers. Many quotes attributed to "Charles II" in popular quotation sources actually refer to Charles II of England (1630-1685), a different monarch entirely, leading to frequent confusion.
 
-**Contemporary Description by Operti**: 
+**Contemporary Description by Operti**:
 
 > "[He is] affable and generous but shy and lacking self-confidence."
 
@@ -199,62 +199,121 @@ This graphic medical description from Charles's autopsy has become one of the mo
 ## References
 
 [^1]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^2]: Charles II | Restoration, Habsburg Dynasty & Reunification | Britannica. https://www.britannica.com/biography/Charles-II-king-of-Spain
+
 [^3]: Charles II of Spain | Biography, Reign & Legacy | Study.com. https://study.com/academy/lesson/charles-ii-spain-biography-reign-legacy.html
+
 [^4]: How inbreeding killed off a line of kings | National Geographic. https://www.nationalgeographic.com/science/article/how-inbreeding-killed-off-a-line-of-kings
+
 [^5]: The Role of Inbreeding in the Extinction of a European Royal Dynasty - PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC2664480/
+
 [^6]: King Charles II Was The Last Habsburg Ruler Of Spain — Because The Family Couldn't Stop Inbreeding. https://allthatsinteresting.com/charles-ii-of-spain
+
 [^7]: Charles II: the last Spanish Habsburg | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/charles-ii-last-spanish-habsburg
+
 [^8]: Charles II (of Spain) | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/charles-ii-spain
+
 [^9]: Mariana of Austria - Wikipedia. https://en.wikipedia.org/wiki/Mariana_of_Austria
+
 [^10]: Juan José de Austria | Habsburg Dynasty, Spanish Civil War, Regent of Spain | Britannica. https://www.britannica.com/biography/Juan-Jose-de-Austria
+
 [^11]: John Joseph of Austria - Wikipedia. https://en.wikipedia.org/wiki/John_of_Austria_the_Younger
+
 [^12]: Don Juan José de Austria | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/don-juan-jose-de-austria
+
 [^13]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^14]: Charles II of Spain | Detailed Pedia. https://detailedpedia.com/wiki-Charles_II_of_Spain
+
 [^15]: Spain - Charles II, Reconquista, Golden Age | Britannica. https://www.britannica.com/place/Spain/Charles-II
+
 [^16]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^17]: Charles II (King of Spain, 1665-1700) (The Diary of Samuel Pepys). https://www.pepysdiary.com/encyclopedia/10146/
+
 [^18]: Charles II of Spain (1661–1700) | Encyclopedia.com. https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-ii-spain-1661-1700
+
 [^19]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^20]: Charles II (of Spain) | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/charles-ii-spain
+
 [^21]: Spain - Charles II, Reconquista, Golden Age | Britannica. https://www.britannica.com/place/Spain/Charles-II
+
 [^22]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^23]: Marie Louise d'Orléans - Wikipedia. https://en.wikipedia.org/wiki/Marie_Louise_d'Orl%C3%A9ans
+
 [^24]: Charles II and the issue of the succession | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/charles-ii-and-issue-succession
+
 [^25]: Why was Charles II of Spain called 'the Bewitched'? https://www.fascinatingspain.com/articulo/history-and-legends/charles-ii-spain-bewitched/20230324134202068674.html
+
 [^26]: What nobody told you about the exorcisms of Charles II: when they tried to free the king from curses. https://habsburgo.es/en/articulos/lo-que-nadie-te-conto-sobre-los-exorcismos-de-carlos-ii-cuando-se-intento-liberar-al-rey-de-maleficios
+
 [^27]: War of the Spanish Succession - Wikipedia. https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession
+
 [^28]: Spain - Charles II, Reconquista, Golden Age | Britannica. https://www.britannica.com/place/Spain/Charles-II
+
 [^29]: Louis XIV's Wars | Western Civilization. https://courses.lumenlearning.com/suny-hccc-worldhistory/chapter/louis-xivs-wars/
+
 [^30]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^31]: Carlos II of Spain, 'The Bewitched': cursed by aspartylglucosaminuria? - PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC8477247/
+
 [^32]: The Role of Inbreeding in the Extinction of a European Royal Dynasty - PLOS One. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005174
+
 [^33]: King Charles II Was The Last Habsburg Ruler Of Spain — Because The Family Couldn't Stop Inbreeding. https://allthatsinteresting.com/charles-ii-of-spain
+
 [^34]: Marie Louise d'Orléans - Wikipedia. https://en.wikipedia.org/wiki/Marie_Louise_d'Orl%C3%A9ans
+
 [^35]: Charles II and the issue of the succession | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/charles-ii-and-issue-succession
+
 [^36]: The Most Chopped King in History: Charles II of Spain | Medium. https://medium.com/@alirvine_28634/the-most-chopped-king-in-history-charles-ii-19c7fd7eb749
+
 [^37]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^38]: Why was Charles II of Spain called 'the Bewitched'? https://www.fascinatingspain.com/articulo/history-and-legends/charles-ii-spain-bewitched/20230324134202068674.html
+
 [^39]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^40]: War of the Spanish Succession - Wikipedia. https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession
+
 [^41]: Death of Charles II of Spain | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/death-charles-ii-spain
+
 [^42]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^43]: The Role of Inbreeding in the Extinction of a European Royal Dynasty - PubMed. https://pubmed.ncbi.nlm.nih.gov/19367331/
+
 [^44]: DNA Genetic Testing For Health, Ancestry And More - 23andMe. https://blog.23andme.com/articles/inbreeding-doomed-habsburg
+
 [^45]: Charles II Of Spain, The 'Ugly' Inbred King Whose Death Sparked A War. https://allthatsinteresting.com/charles-ii-of-spain
+
 [^46]: Charles II (of Spain) | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/charles-ii-spain
+
 [^47]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^48]: Spain - Charles II, Reconquista, Golden Age | Britannica. https://www.britannica.com/place/Spain/Charles-II
+
 [^49]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^50]: The Most Chopped King in History: Charles II of Spain | Medium. https://medium.com/@alirvine_28634/the-most-chopped-king-in-history-charles-ii-19c7fd7eb749
+
 [^51]: Spain - Charles II, Reconquista, Golden Age | Britannica. https://www.britannica.com/place/Spain/Charles-II
+
 [^52]: Charles II: the last Spanish Habsburg | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/charles-ii-last-spanish-habsburg
+
 [^53]: The Role of Inbreeding in the Extinction of a European Royal Dynasty - PLOS One. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005174
+
 [^54]: Charles Ii (spain) | Encyclopedia.com. https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-ii-spain
+
 [^55]: Charles II of Spain (1661–1700) | Encyclopedia.com. https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-ii-spain-1661-1700
+
 [^56]: When Charles II of Spain died, the autopsy stated that his body "did not contain a single drop of blood" and "his head was full of water" | The Vintage News. https://www.thevintagenews.com/2017/03/23/when-charles-ii-of-spain-died-the-autopsy-stated-that-his-body-did-not-contain-a-single-drop-of-blood-and-his-head-was-full-of-water/
+
 [^57]: Charles II of Spain - My subjects are like children they cry. https://quote.org/quote/my-subjects-are-like-children-they-cry-610770
+
 [^58]: Charles II of Spain (1661-1700), , inspiring quotations, biography. https://quote.org/author/charles_ii_of_spain
+
 [^59]: Charles II of Spain - Wikipedia. https://en.wikipedia.org/wiki/Charles_II_of_Spain
+
 [^60]: Details Found In Charles II Of Spain's Autopsy Report - Grunge. https://www.grunge.com/898504/details-found-in-charles-ii-of-spains-autopsy-report/

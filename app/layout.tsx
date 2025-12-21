@@ -58,9 +58,7 @@ export const metadata: Metadata = {
       { url: "/favicon-128x128.png", sizes: "128x128", type: "image/png" },
       { url: "/favicon-192x192.png", sizes: "192x192", type: "image/png" },
     ],
-    apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
-    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
   manifest: "/site.webmanifest",
 };
@@ -74,25 +72,14 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         {/* LCP 최적화: 폰트 프리로드 */}
-        <link
-          rel="preconnect"
-          href="https://fonts.googleapis.com"
-          crossOrigin="anonymous"
-        />
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="anonymous"
-        />
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
           href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
         {/* INP 최적화: 분석 스크립트는 worker에서 로드 */}
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-M5WB8XPRPT"
-          strategy="worker"
-        />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5WB8XPRPT" strategy="worker" />
         <Script id="google-analytics" strategy="worker">
           {`
             window.dataLayer = window.dataLayer || [];
@@ -122,4 +109,3 @@ export default function RootLayout({
     </html>
   );
 }
-

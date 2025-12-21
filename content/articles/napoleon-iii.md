@@ -137,28 +137,28 @@ Critics of Napoleon III's Mexican adventure see it as a foolish, expensive failu
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1808 | Born April 20 in Paris, son of Louis Bonaparte and Hortense de Beauharnais |
-| 1815 | Bonaparte family exiled following Napoleon I's defeat at Waterloo |
-| 1831 | Participates in Italian Carbonari uprising; elder brother dies, making him Bonapartist heir |
-| 1836 | First failed coup attempt at Strasbourg; exiled to America |
-| 1840 | Second failed coup attempt at Boulogne; imprisoned at fortress of Ham |
-| 1846 | Escapes from prison disguised as a workman |
-| 1848 | Returns to France after February Revolution; elected to National Assembly; elected President of Second Republic with 74% of vote in December |
-| 1851 | Stages coup d'état on December 2; dissolves National Assembly |
-| 1852 | Becomes Emperor Napoleon III on December 2 following plebiscite approval |
-| 1853 | Marries Eugénie de Montijo; Baron Haussmann begins transformation of Paris |
-| 1854-56 | Participates in Crimean War alongside Britain against Russia |
-| 1856 | Son Napoleon Eugène Louis Bonaparte (Prince Imperial) born; Congress of Paris enhances French prestige |
-| 1859 | French intervention in Italy; victories at Magenta and Solferino; acquires Nice and Savoy |
-| 1860 | Cobden-Chevalier Treaty establishes free trade with Britain; begins Liberal Empire reforms |
-| 1861-67 | Disastrous Mexican intervention attempting to install Maximilian as emperor |
-| 1864 | Legalizes strikes and workers' coalitions |
-| 1867 | Paris hosts Universal Exposition; Luxembourg Crisis reveals French diplomatic isolation |
-| 1870 | Franco-Prussian War begins July 19; catastrophic French defeats; captured at Battle of Sedan September 2; empire collapses |
-| 1871 | Released from German captivity; goes into exile in England |
-| 1873 | Dies January 9 at Chislehurst, England, following surgery for bladder stones |
+| Year    | Event                                                                                                                                        |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1808    | Born April 20 in Paris, son of Louis Bonaparte and Hortense de Beauharnais                                                                   |
+| 1815    | Bonaparte family exiled following Napoleon I's defeat at Waterloo                                                                            |
+| 1831    | Participates in Italian Carbonari uprising; elder brother dies, making him Bonapartist heir                                                  |
+| 1836    | First failed coup attempt at Strasbourg; exiled to America                                                                                   |
+| 1840    | Second failed coup attempt at Boulogne; imprisoned at fortress of Ham                                                                        |
+| 1846    | Escapes from prison disguised as a workman                                                                                                   |
+| 1848    | Returns to France after February Revolution; elected to National Assembly; elected President of Second Republic with 74% of vote in December |
+| 1851    | Stages coup d'état on December 2; dissolves National Assembly                                                                                |
+| 1852    | Becomes Emperor Napoleon III on December 2 following plebiscite approval                                                                     |
+| 1853    | Marries Eugénie de Montijo; Baron Haussmann begins transformation of Paris                                                                   |
+| 1854-56 | Participates in Crimean War alongside Britain against Russia                                                                                 |
+| 1856    | Son Napoleon Eugène Louis Bonaparte (Prince Imperial) born; Congress of Paris enhances French prestige                                       |
+| 1859    | French intervention in Italy; victories at Magenta and Solferino; acquires Nice and Savoy                                                    |
+| 1860    | Cobden-Chevalier Treaty establishes free trade with Britain; begins Liberal Empire reforms                                                   |
+| 1861-67 | Disastrous Mexican intervention attempting to install Maximilian as emperor                                                                  |
+| 1864    | Legalizes strikes and workers' coalitions                                                                                                    |
+| 1867    | Paris hosts Universal Exposition; Luxembourg Crisis reveals French diplomatic isolation                                                      |
+| 1870    | Franco-Prussian War begins July 19; catastrophic French defeats; captured at Battle of Sedan September 2; empire collapses                   |
+| 1871    | Released from German captivity; goes into exile in England                                                                                   |
+| 1873    | Dies January 9 at Chislehurst, England, following surgery for bladder stones                                                                 |
 
 ---
 
@@ -181,111 +181,219 @@ Critics of Napoleon III's Mexican adventure see it as a foolish, expensive failu
 ## References
 
 [^1]: Price, Roger. "Napoleon III and the Second Empire." Routledge, 1997, pp. 1-5.
+
 [^2]: McMillan, James F. "Napoleon III." Longman, 1991, pp. 8-12.
+
 [^3]: Bresler, Fenton. "Napoleon III: A Life." Carroll & Graf, 1999, pp. 25-35.
+
 [^4]: Williams, Roger L. "The Mortal Napoleon III." Princeton University Press, 1971, pp. 18-22.
+
 [^5]: Plessis, Alain. "The Rise and Fall of the Second Empire, 1852-1871." Cambridge University Press, 1985, pp. 3-7.
+
 [^6]: Bonaparte, Louis Napoleon. "Napoleonic Ideas." Translated by James A. Dorr, D. Appleton, 1859.
+
 [^7]: Bury, J.P.T. "Napoleon III and the Second Empire." English Universities Press, 1964, pp. 15-25.
+
 [^8]: Smith, W.H.C. "Napoleon III." Longman, 1972, pp. 35-42.
+
 [^9]: Agulhon, Maurice. "The Republican Experiment, 1848-1852." Cambridge University Press, 1983, pp. 85-95.
+
 [^10]: Fortescue, William. "France and 1848: The End of Monarchy." Routledge, 2005, pp. 178-185.
+
 [^11]: Price, Roger. "The French Second Republic: A Social History." Cornell University Press, 1972, pp. 285-295.
+
 [^12]: Payne, Howard C. "The Police State of Louis Napoleon Bonaparte, 1851-1860." University of Washington Press, 1966, pp. 45-68.
+
 [^13]: Merriman, John. "The Agony of the Republic: The Repression of the Left in Revolutionary France, 1848-1851." Yale University Press, 1978, pp. 210-235.
+
 [^14]: Bluche, Frédéric. "Le Bonapartisme." Presses Universitaires de France, 1981, pp. 88-92.
+
 [^15]: Girard, Louis. "Napoleon III." Fayard, 1986, pp. 145-155.
+
 [^16]: Jordan, David P. "Transforming Paris: The Life and Labors of Baron Haussmann." University of Chicago Press, 1995, pp. 125-245.
+
 [^17]: Carmona, Michel. "Haussmann: His Life and Times and the Making of Modern Paris." Ivan R. Dee, 2002, pp. 185-320.
+
 [^18]: Harvey, David. "Paris, Capital of Modernity." Routledge, 2003, pp. 105-125.
+
 [^19]: Caron, François. "Histoire des chemins de fer en France, 1740-1883." Fayard, 1997, pp. 445-520.
+
 [^20]: Dunham, Arthur L. "The Anglo-French Treaty of Commerce of 1860 and the Progress of the Industrial Revolution in France." University of Michigan Press, 1930.
+
 [^21]: Cameron, Rondo. "France and the Economic Development of Europe, 1800-1914." Princeton University Press, 1961, pp. 185-220.
+
 [^22]: Price, Roger. "The Economic Modernisation of France, 1730-1880." Croom Helm, 1975, pp. 185-210.
+
 [^23]: Mainardi, Patricia. "Art and Politics of the Second Empire." Yale University Press, 1987, pp. 45-78.
+
 [^24]: Plessis, Alain. "The Rise and Fall of the Second Empire, 1852-1871." Cambridge University Press, 1985, pp. 88-115.
+
 [^25]: Case, Lynn M. "French Opinion on War and Diplomacy During the Second Empire." University of Pennsylvania Press, 1954, pp. 35-85.
+
 [^26]: Gooch, Brison D. "The New Bonapartist Generals in the Crimean War." Martinus Nijhoff, 1959, pp. 125-165.
+
 [^27]: Aldrich, Robert. "Greater France: A History of French Overseas Expansion." Macmillan, 1996, pp. 95-135.
+
 [^28]: Hearder, Harry. "Cavour and the Unification of Italy." Teach Yourself Books, 1994, pp. 85-125.
+
 [^29]: Barker, Nancy Nichols. "The French Experience in Mexico, 1821-1861." University of North Carolina Press, 1979, pp. 145-235.
+
 [^30]: Price, Roger. "Napoleon III and the Second Empire." Routledge, 1997, pp. 125-145.
+
 [^31]: McMillan, James F. "Napoleon III." Longman, 1991, pp. 78-95.
+
 [^32]: Zeldin, Theodore. "The Political System of Napoleon III." Macmillan, 1958, pp. 95-125.
+
 [^33]: Hugo, Victor. "Napoleon the Little." Translated by H.L. Williams, Vizetelly & Co., 1852.
+
 [^34]: Merriman, John. "The Agony of the Republic." Yale University Press, 1978, pp. 215-240.
+
 [^35]: Collins, Irene. "The Government and the Newspaper Press in France, 1814-1881." Oxford University Press, 1959, pp. 105-145.
+
 [^36]: Payne, Howard C. "The Police State of Louis Napoleon Bonaparte." University of Washington Press, 1966, pp. 125-185.
+
 [^37]: Zeldin, Theodore. "The Political System of Napoleon III." Macmillan, 1958, pp. 45-78.
+
 [^38]: Hanna, Alfred Jackson. "Napoleon III and Mexico: American Triumph over Monarchy." University of North Carolina Press, 1971, pp. 245-285.
+
 [^39]: Barker, Nancy Nichols. "The French Experience in Mexico." University of North Carolina Press, 1979, pp. 285-315.
+
 [^40]: Case, Lynn M. "French Opinion on the United States and Mexico, 1860-1867." Archon Books, 1969, pp. 185-225.
+
 [^41]: Howard, Michael. "The Franco-Prussian War." Routledge, 1961, pp. 35-85.
+
 [^42]: Wawro, Geoffrey. "The Franco-Prussian War: The German Conquest of France in 1870-1871." Cambridge University Press, 2003, pp. 125-185.
+
 [^43]: Ascoli, David. "A Day of Battle: Mars-la-Tour, 16 August 1870." Harrap, 1987, pp. 215-245.
+
 [^44]: Mitchell, Allan. "The German Influence in France after 1870." University of North Carolina Press, 1979, pp. 15-45.
+
 [^45]: Plessis, Alain. "The Rise and Fall of the Second Empire." Cambridge University Press, 1985, pp. 155-175.
+
 [^46]: Harvey, David. "Paris, Capital of Modernity." Routledge, 2003, pp. 205-235.
+
 [^47]: Carmona, Michel. "Haussmann." Ivan R. Dee, 2002, pp. 385-415.
+
 [^48]: Aldrich, Robert. "Greater France: A History of French Overseas Expansion." Macmillan, 1996, pp. 115-155.
+
 [^49]: Clayton, Anthony. "The Wars of French Decolonization." Longman, 1994, pp. 25-55.
+
 [^50]: Bierman, John. "Napoleon III and His Carnival Empire." St. Martin's Press, 1988, pp. 115-135.
+
 [^51]: Williams, Roger L. "The Mortal Napoleon III." Princeton University Press, 1971, pp. 125-145.
+
 [^52]: Ridley, Jasper. "Napoleon III and Eugénie." Viking, 1980, pp. 285-315.
+
 [^53]: Kurtz, Harold. "The Empress Eugénie, 1826-1920." Hamish Hamilton, 1964, pp. 145-175.
+
 [^54]: Cadbury, Deborah. "The Lost King of France." St. Martin's Press, 2002, pp. 285-310.
+
 [^55]: Bresler, Fenton. "Napoleon III: A Life." Carroll & Graf, 1999, pp. 185-205.
+
 [^56]: Smith, W.H.C. "Napoleon III." Longman, 1972, pp. 125-145.
+
 [^57]: Decaux, Alain. "La Castiglione: Dame de coeur de l'Europe." Perrin, 1998, pp. 85-125.
+
 [^58]: McMillan, James F. "Napoleon III." Longman, 1991, pp. 115-135.
+
 [^59]: Williams, Roger L. "The Mortal Napoleon III." Princeton University Press, 1971, pp. 285-315.
+
 [^60]: Bresler, Fenton. "Napoleon III: A Life." Carroll & Graf, 1999, pp. 385-405.
+
 [^61]: Smith, W.H.C. "Napoleon III: The Pursuit of Prestige." Collins & Harvill, 1991, pp. 245-265.
+
 [^62]: Jordan, David P. "Transforming Paris." University of Chicago Press, 1995, pp. 345-375.
+
 [^63]: Hall, Peter. "Cities of Tomorrow." Blackwell, 1988, pp. 45-75.
+
 [^64]: Cameron, Rondo. "France and the Economic Development of Europe." Princeton University Press, 1961, pp. 385-415.
+
 [^65]: Price, Roger. "The Economic Modernisation of France." Croom Helm, 1975, pp. 245-275.
+
 [^66]: McMillan, James F. "Napoleon III." Longman, 1991, pp. 185-205.
+
 [^67]: Milza, Pierre. "Napoléon III." Perrin, 2006, pp. 585-625.
+
 [^68]: Mitchell, Allan. "The German Influence in France after 1870." University of North Carolina Press, 1979, pp. 85-125.
+
 [^69]: Becker, Jean-Jacques. "1914: Comment les Français sont entrés dans la guerre." Presses de la Fondation nationale des sciences politiques, 1977, pp. 45-85.
+
 [^70]: Agulhon, Maurice. "Marianne into Battle: Republican Imagery and Symbolism in France, 1789-1880." Cambridge University Press, 1981, pp. 145-175.
+
 [^71]: Anderson, R.D. "France 1870-1914: Politics and Society." Routledge, 1977, pp. 25-55.
+
 [^72]: Hazareesingh, Sudhir. "The Legend of Napoleon." Granta Books, 2004, pp. 185-225.
+
 [^73]: Bluche, Frédéric. "Le Bonapartisme." Presses Universitaires de France, 1981, pp. 125-165.
+
 [^74]: Rémond, René. "The Right Wing in France from 1815 to de Gaulle." University of Pennsylvania Press, 1966, pp. 85-125.
+
 [^75]: Mainardi, Patricia. "Art and Politics of the Second Empire." Yale University Press, 1987, pp. 125-185.
+
 [^76]: Richardson, Joanna. "La Vie Parisienne, 1852-1870." Viking, 1971, pp. 85-145.
+
 [^77]: Cameron, Rondo. "France and the Economic Development of Europe." Princeton University Press, 1961, p. 185.
+
 [^78]: Price, Roger. "The Economic Modernisation of France." Croom Helm, 1975, pp. 285-315.
+
 [^79]: Zeldin, Theodore. "The Political System of Napoleon III." Macmillan, 1958, pp. 145-175.
+
 [^80]: Price, Roger. "Napoleon III and the Second Empire." Routledge, 1997, pp. 185-215.
+
 [^81]: Plessis, Alain. "The Rise and Fall of the Second Empire." Cambridge University Press, 1985, pp. 125-155.
+
 [^82]: Case, Lynn M. "French Opinion on War and Diplomacy." University of Pennsylvania Press, 1954, pp. 185-225.
+
 [^83]: Hearder, Harry. "Italy in the Age of the Risorgimento, 1790-1870." Longman, 1983, pp. 185-215.
+
 [^84]: Milza, Pierre. "Napoléon III." Perrin, 2006, pp. 485-525.
+
 [^85]: Jordan, David P. "Transforming Paris." University of Chicago Press, 1995, pp. 285-325.
+
 [^86]: Sutcliffe, Anthony. "The Autumn of Central Paris." Edward Arnold, 1970, pp. 45-85.
+
 [^87]: Girard, Louis. "Les Libéraux français, 1814-1875." Aubier, 1985, pp. 185-225.
+
 [^88]: Zeldin, Theodore. "Émile Ollivier and the Liberal Empire of Napoleon III." Oxford University Press, 1963, pp. 125-165.
+
 [^89]: McMillan, James F. "Napoleon III." Longman, 1991, pp. 215-235.
+
 [^90]: Merriman, John. "The Agony of the Republic." Yale University Press, 1978, pp. 285-315.
+
 [^91]: Hugo, Victor. "Napoleon the Little." Vizetelly & Co., 1852, entire work.
+
 [^92]: Harvey, David. "Paris, Capital of Modernity." Routledge, 2003, pp. 145-185.
+
 [^93]: Carmona, Michel. "Haussmann." Ivan R. Dee, 2002, pp. 285-325.
+
 [^94]: Plessis, Alain. "The Rise and Fall of the Second Empire." Cambridge University Press, 1985, pp. 185-215.
+
 [^95]: Howard, Michael. "The Franco-Prussian War." Routledge, 1961, pp. 185-245.
+
 [^96]: Wawro, Geoffrey. "The Franco-Prussian War." Cambridge University Press, 2003, pp. 285-315.
+
 [^97]: Becker, Jean-Jacques. "1914: Comment les Français sont entrés dans la guerre." Presses de la Fondation nationale des sciences politiques, 1977, pp. 85-125.
+
 [^98]: Marx, Karl. "The Eighteenth Brumaire of Louis Napoleon." 1852, translated by Daniel De Leon, Charles H. Kerr, 1907.
+
 [^99]: Agulhon, Maurice. "The Republican Experiment, 1848-1852." Cambridge University Press, 1983, pp. 185-215.
+
 [^100]: Aldrich, Robert. "Greater France: A History of French Overseas Expansion." Macmillan, 1996, pp. 145-185.
+
 [^101]: Clayton, Anthony. "The Wars of French Decolonization." Longman, 1994, pp. 45-85.
+
 [^102]: Barker, Nancy Nichols. "The French Experience in Mexico." University of North Carolina Press, 1979, pp. 315-345.
+
 [^103]: Hanna, Alfred Jackson. "Napoleon III and Mexico." University of North Carolina Press, 1971, pp. 285-315.
+
 [^104]: Quoted in Price, Roger. "Napoleon III and the Second Empire." Routledge, 1997, p. 45.
+
 [^105]: Bonaparte, Louis Napoleon. "Napoleonic Ideas." D. Appleton, 1859, p. 25.
+
 [^106]: Quoted in Girard, Louis. "Napoleon III." Fayard, 1986, p. 185.
+
 [^107]: Speech at Bordeaux, October 1852, quoted in McMillan, James F. "Napoleon III." Longman, 1991, p. 75.
+
 [^108]: Quoted in Bresler, Fenton. "Napoleon III: A Life." Carroll & Graf, 1999, p. 245.
+
 [^109]: Quoted in Williams, Roger L. "The Mortal Napoleon III." Princeton University Press, 1971, p. 285.

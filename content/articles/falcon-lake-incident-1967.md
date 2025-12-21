@@ -21,23 +21,25 @@ When he touched it, his glove melted. The craft then blasted him with hot gas fr
 ## The Encounter
 
 ### The Evidence
-*   **Burns:** Doctors confirmed the geometric grid burns on his chest.
-*   **Radiation:** Soil samples from the site were found to be radioactive.
-*   **Metals:** Years later, pieces of radioactive silver were found melted into the rock fissures at the site.
+
+- **Burns:** Doctors confirmed the geometric grid burns on his chest.
+- **Radiation:** Soil samples from the site were found to be radioactive.
+- **Metals:** Years later, pieces of radioactive silver were found melted into the rock fissures at the site.
 
 ### Skepticism
+
 Critics claimed Michalak hallucinated from alcohol or staged it, but the physical burns and the radioactive site (confirmed by the RCMP) make it hard to dismiss.
 
 ---
 
 ## Timeline
 
-| Date | Time | Event |
-|------|------|-------|
-| **May 20, 1967** | **12:15** | Michalak spots two objects; one lands. |
+| Date             | Time      | Event                                              |
+| ---------------- | --------- | -------------------------------------------------- |
+| **May 20, 1967** | **12:15** | Michalak spots two objects; one lands.             |
 | **May 20, 1967** | **13:00** | Object blasts Michalak; he stumbles back to hotel. |
-| **1968** | **-** | Radioactive metal found at the site. |
-| **2018** | **-** | Canadian Mint releases Falcon Lake coin. |
+| **1968**         | **-**     | Radioactive metal found at the site.               |
+| **2018**         | **-**     | Canadian Mint releases Falcon Lake coin.           |
 
 ---
 

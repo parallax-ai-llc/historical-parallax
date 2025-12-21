@@ -25,6 +25,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### The Prague Spring
 
 **January-August 1968:**
+
 - **Alexander Dubček** became Communist Party First Secretary
 - Reforms: Loosening of censorship, political liberalization
 - "Socialism with a human face"
@@ -32,6 +33,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 - But Moscow watched with alarm
 
 **August 20-21, 1968:**
+
 - **Warsaw Pact invasion:** 200,000 troops from USSR, Poland, Hungary, East Germany, Bulgaria
 - Tanks in Prague
 - Dubček arrested, taken to Moscow
@@ -41,6 +43,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Normalization
 
 **After the invasion:**
+
 - Dubček initially remained in office but powerless
 - "Normalization" began: reversal of reforms
 - Censorship reimposed
@@ -49,6 +52,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 - Passive acceptance spreading
 
 **By January 1969:**
+
 - Occupation had succeeded
 - Czechoslovaks seemed resigned
 - Active resistance nearly nonexistent
@@ -61,6 +65,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### January 16, 1969
 
 **3:00 PM (approximately):**
+
 - Jan Palach walked to upper Wenceslas Square
 - Near the National Museum
 - Carried a briefcase with letters
@@ -68,6 +73,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 **He set himself on fire.**
 
 **Witnesses:**
+
 - Saw a human torch running across the square
 - Others tried to extinguish the flames
 - Palach was conscious initially
@@ -80,10 +86,12 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 > "Since our nations are on the verge of hopelessness, we have decided to express our protest and awaken the people of this country..."
 
 **Demands:**
+
 1. Abolition of censorship
-2. Ban on *Zprávy*, the Soviet occupation newspaper
+2. Ban on _Zprávy_, the Soviet occupation newspaper
 
 **The letter claimed:**
+
 - He was "Torch No. 1"
 - A group was prepared for further self-immolations
 - If demands not met, more would follow
@@ -93,12 +101,14 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Death
 
 **Hospital (January 16-19):**
+
 - Severe burns
 - Brief periods of consciousness
 - Palach spoke to doctors, visitors
 - Expressed hope sacrifice would matter
 
 **January 19, 1969:**
+
 - Jan Palach died at 3:30 PM
 - Cause: Burns and shock
 - Age: 20 years old[^7]
@@ -110,6 +120,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### The Funeral
 
 **January 25, 1969:**
+
 - 200,000 people attended funeral procession
 - Largest demonstration since the invasion
 - Silent, dignified, massive
@@ -121,17 +132,20 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Those Who Followed
 
 **Jan Zajíc (February 25, 1969):**
+
 - 18-year-old student
 - Set himself on fire in same location
 - Died the same day
 - "Torch No. 2"
 
 **Evžen Plocek (April 4, 1969):**
+
 - 40-year-old worker
 - Self-immolated in Jihlava
 - Third known case
 
 **Others in Eastern Bloc:**
+
 - Sándor Bauer, Márton Moyses (Hungary)
 - Inspired by Palach
 
@@ -140,12 +154,14 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Regime Response
 
 **Government tactics:**
+
 - Tried to discredit Palach (claimed he was "manipulated")
 - Kept funeral from being too political
 - Eventually: Body secretly exhumed and cremated (1973)
 - Ashes moved to prevent grave from becoming shrine
 
 **Normalization continued:**
+
 - April 1969: Gustáv Husák replaced Dubček
 - Years of repression followed
 - Palach's name suppressed officially[^9]
@@ -156,24 +172,24 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 
 ### The Martyr
 
-| Name | Details |
-|------|---------|
+| Name       | Details                                                                    |
+| ---------- | -------------------------------------------------------------------------- |
 | Jan Palach | 20 years old; history student at Charles University; died January 19, 1969 |
 
 ### Those Who Followed
 
-| Name | Date | Age |
-|------|------|-----|
-| Jan Zajíc | February 25, 1969 | 18 |
-| Evžen Plocek | April 4, 1969 | 40 |
+| Name         | Date              | Age |
+| ------------ | ----------------- | --- |
+| Jan Zajíc    | February 25, 1969 | 18  |
+| Evžen Plocek | April 4, 1969     | 40  |
 
 ### Political Context
 
-| Name | Role |
-|------|------|
+| Name             | Role                                     |
+| ---------------- | ---------------------------------------- |
 | Alexander Dubček | Prague Spring leader; removed April 1969 |
-| Gustáv Husák | Replaced Dubček; led normalization |
-| Leonid Brezhnev | Soviet leader; ordered invasion |
+| Gustáv Husák     | Replaced Dubček; led normalization       |
+| Leonid Brezhnev  | Soviet leader; ordered invasion          |
 
 ---
 
@@ -182,11 +198,13 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Why Did He Do It?
 
 **Palach's own words:**
+
 - To "wake up" Czechoslovak society
 - To protest resignation and passivity
 - To show that not everyone accepted occupation
 
 **The context:**
+
 - Extreme act in desperate times
 - Following tradition of self-sacrifice (historical precedent: Jan Hus)
 - Believed dramatic gesture could change things
@@ -194,12 +212,14 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Did It Work?
 
 **Immediately:**
+
 - No political impact
 - Demands were not met
 - Normalization continued
 - Soviet troops stayed 21 more years
 
 **Long-term:**
+
 - Became powerful symbol
 - Kept memory of Prague Spring alive
 - Inspired 1989 commemorations
@@ -214,6 +234,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Palach Week (January 1989)
 
 **Twenty years later:**
+
 - Commemorations planned for anniversary
 - Thousands gathered in Wenceslas Square
 - Police attacked demonstrators
@@ -221,6 +242,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 - But protests continued for days
 
 **Significance:**
+
 - Largest protests since 1969
 - Showed regime had lost legitimacy
 - Prelude to Velvet Revolution (November 1989)
@@ -228,6 +250,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### The Velvet Revolution
 
 **November 17, 1989:**
+
 - Student protests began
 - Built on Palach Week momentum
 - Within weeks: Communist regime collapsed
@@ -238,6 +261,7 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### Commemoration
 
 **Today:**
+
 - **Jan Palach Square** (Prague 1): Near Rudolfinum
 - Memorial at Wenceslas Square
 - Grave restored at Olšany Cemetery
@@ -247,12 +271,14 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 ### In Culture
 
 **Palach's story told in:**
+
 - Films
 - Books
 - Songs
 - Art
 
 **Symbol of:**
+
 - Resistance against tyranny
 - The power of self-sacrifice
 - Czech national identity
@@ -263,11 +289,11 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 
 ### Self-Immolation as Protest
 
-| Person | Year | Country | Cause |
-|--------|------|---------|-------|
-| Thích Quảng Đức | 1963 | Vietnam | Buddhist rights |
-| **Jan Palach** | **1969** | **Czechoslovakia** | **Soviet occupation** |
-| Mohamed Bouazizi | 2010 | Tunisia | Sparked Arab Spring |
+| Person           | Year     | Country            | Cause                 |
+| ---------------- | -------- | ------------------ | --------------------- |
+| Thích Quảng Đức  | 1963     | Vietnam            | Buddhist rights       |
+| **Jan Palach**   | **1969** | **Czechoslovakia** | **Soviet occupation** |
+| Mohamed Bouazizi | 2010     | Tunisia            | Sparked Arab Spring   |
 
 **Self-immolation remains rare because of its extremity—but when it occurs, it commands attention.**[^12]
 
@@ -275,35 +301,46 @@ His sacrifice inspired others—two more young men, Jan Zajíc and Evžen Plocek
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| January 5, 1968 | Dubček becomes party leader |
-| August 20-21, 1968 | Warsaw Pact invasion |
-| Late 1968 | Normalization begins |
-| January 16, 1969 | Palach self-immolates |
-| January 19, 1969 | Palach dies |
-| January 25, 1969 | 200,000 at funeral |
-| February 25, 1969 | Jan Zajíc self-immolates |
-| April 4, 1969 | Evžen Plocek self-immolates |
-| April 1969 | Husák replaces Dubček |
-| 1973 | Palach's body secretly exhumed |
-| January 1989 | Palach Week protests |
-| November 1989 | Velvet Revolution |
-| 1990 | Palach reburied; square named for him |
+| Date               | Event                                 |
+| ------------------ | ------------------------------------- |
+| January 5, 1968    | Dubček becomes party leader           |
+| August 20-21, 1968 | Warsaw Pact invasion                  |
+| Late 1968          | Normalization begins                  |
+| January 16, 1969   | Palach self-immolates                 |
+| January 19, 1969   | Palach dies                           |
+| January 25, 1969   | 200,000 at funeral                    |
+| February 25, 1969  | Jan Zajíc self-immolates              |
+| April 4, 1969      | Evžen Plocek self-immolates           |
+| April 1969         | Husák replaces Dubček                 |
+| 1973               | Palach's body secretly exhumed        |
+| January 1989       | Palach Week protests                  |
+| November 1989      | Velvet Revolution                     |
+| 1990               | Palach reburied; square named for him |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Jan Palach](https://en.wikipedia.org/wiki/Jan_Palach)
+
 [^2]: [RFE/RL - Anniversary](https://www.rferl.org/a/jan-palach-anniversary/)
+
 [^3]: [The Guardian - 50 years later](https://www.theguardian.com/world/2019/jan/16/jan-palach-50-years-anniversary/)
+
 [^4]: [Wikipedia - Prague Spring](https://en.wikipedia.org/wiki/Prague_Spring)
-[^5]: [Wikipedia - Normalization](https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia))
+
+[^5]: [Wikipedia - Normalization](<https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia)>)
+
 [^6]: [Medium - Palach's letters](https://medium.com/@history/jan-palach-letters/)
+
 [^7]: [Radio Prague - Death](https://english.radio.cz/jan-palach-8586464)
+
 [^8]: [Wikipedia - Jan Zajíc](https://en.wikipedia.org/wiki/Jan_Zajíc)
+
 [^9]: [WordPress - Regime response](https://czechhistory.com/palach-aftermath/)
+
 [^10]: [RFE/RL - Legacy](https://www.rferl.org/a/palach-legacy/)
+
 [^11]: [Wikipedia - Palach Week](https://en.wikipedia.org/wiki/Palach_Week)
+
 [^12]: [Wikipedia - Self-immolation protests](https://en.wikipedia.org/wiki/Self-immolation)

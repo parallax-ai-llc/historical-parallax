@@ -197,37 +197,37 @@ Harsh assessments question whether Pompey deserves to be called "the Great" at a
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 106 BC | Born in Picenum on September 29 |
-| 89 BC | Father Gnaeus Pompeius Strabo serves as consul |
-| 87 BC | Death of his father; inherits family wealth and military connections |
-| 83 BC | Raises three legions for Sulla at age 23; enters civil war |
-| 82-81 BC | Recovers Sicily and Africa from Marians in lightning campaigns |
-| 81 BC | Awarded triumph and cognomen "Magnus" by Sulla |
-| 79 BC | Marries Mucia Tertia |
-| 76-71 BC | Commands in Sertorian War in Spain |
-| 71 BC | Returns to Italy; assists in suppressing Spartacus rebellion |
-| 70 BC | Elected consul (first consulship) alongside Crassus |
-| 67 BC | Receives extraordinary command against pirates via Lex Gabinia |
-| 67 BC | Defeats pirates in three months; Battle of Korakesion |
-| 66 BC | Granted command against Mithridates VI via Lex Manilia |
-| 66 BC | Defeats Mithridates at Battle of the Lycus |
-| 65-63 BC | Campaigns in Caucasus, Armenia, Syria, and Judaea |
-| 63 BC | Captures Jerusalem; death of Mithridates VI ends war |
-| 64 BC | Annexes Syria as Roman province |
-| 62 BC | Returns to Italy; disbands army |
-| 61 BC | Celebrates third triumph; divorces Mucia Tertia |
-| 60 BC | Forms First Triumvirate with Caesar and Crassus |
-| 59 BC | Marries Julia, daughter of Julius Caesar |
-| 55 BC | Second consulship; Theatre of Pompey completed |
-| 54 BC | Death of Julia in childbirth; alliance with Caesar begins deteriorating |
-| 53 BC | Death of Crassus at Carrhae; First Triumvirate effectively ends |
-| 52 BC | Third consulship (sole consul); marries Cornelia Metella |
-| 50-49 BC | Political crisis with Caesar escalates toward civil war |
-| 49 BC | Caesar crosses Rubicon; Pompey evacuates Italy for Greece |
-| 48 BC | Defeated by Caesar at Battle of Pharsalus on August 9 |
-| 48 BC | Flees to Egypt; assassinated near Alexandria on September 28 |
+| Year     | Event                                                                   |
+| -------- | ----------------------------------------------------------------------- |
+| 106 BC   | Born in Picenum on September 29                                         |
+| 89 BC    | Father Gnaeus Pompeius Strabo serves as consul                          |
+| 87 BC    | Death of his father; inherits family wealth and military connections    |
+| 83 BC    | Raises three legions for Sulla at age 23; enters civil war              |
+| 82-81 BC | Recovers Sicily and Africa from Marians in lightning campaigns          |
+| 81 BC    | Awarded triumph and cognomen "Magnus" by Sulla                          |
+| 79 BC    | Marries Mucia Tertia                                                    |
+| 76-71 BC | Commands in Sertorian War in Spain                                      |
+| 71 BC    | Returns to Italy; assists in suppressing Spartacus rebellion            |
+| 70 BC    | Elected consul (first consulship) alongside Crassus                     |
+| 67 BC    | Receives extraordinary command against pirates via Lex Gabinia          |
+| 67 BC    | Defeats pirates in three months; Battle of Korakesion                   |
+| 66 BC    | Granted command against Mithridates VI via Lex Manilia                  |
+| 66 BC    | Defeats Mithridates at Battle of the Lycus                              |
+| 65-63 BC | Campaigns in Caucasus, Armenia, Syria, and Judaea                       |
+| 63 BC    | Captures Jerusalem; death of Mithridates VI ends war                    |
+| 64 BC    | Annexes Syria as Roman province                                         |
+| 62 BC    | Returns to Italy; disbands army                                         |
+| 61 BC    | Celebrates third triumph; divorces Mucia Tertia                         |
+| 60 BC    | Forms First Triumvirate with Caesar and Crassus                         |
+| 59 BC    | Marries Julia, daughter of Julius Caesar                                |
+| 55 BC    | Second consulship; Theatre of Pompey completed                          |
+| 54 BC    | Death of Julia in childbirth; alliance with Caesar begins deteriorating |
+| 53 BC    | Death of Crassus at Carrhae; First Triumvirate effectively ends         |
+| 52 BC    | Third consulship (sole consul); marries Cornelia Metella                |
+| 50-49 BC | Political crisis with Caesar escalates toward civil war                 |
+| 49 BC    | Caesar crosses Rubicon; Pompey evacuates Italy for Greece               |
+| 48 BC    | Defeated by Caesar at Battle of Pharsalus on August 9                   |
+| 48 BC    | Flees to Egypt; assassinated near Alexandria on September 28            |
 
 ---
 
@@ -248,155 +248,307 @@ Harsh assessments question whether Pompey deserves to be called "the Great" at a
 ## References
 
 [^1]: [Pompey - Wikipedia](https://en.wikipedia.org/wiki/Pompey)
+
 [^2]: [Pompey the Great | Roman General & Statesman | Britannica](https://www.britannica.com/biography/Pompey-the-Great)
+
 [^3]: [Pompey the Great: The Last Hero of the Roman Republic | History Cooperative](https://historycooperative.org/pompey-the-great/)
+
 [^4]: [Pompey - World History Encyclopedia](https://www.worldhistory.org/pompey/)
+
 [^5]: [Gnaeus Pompeius Magnus - Warfare History Network](https://warfarehistorynetwork.com/article/gnaeus-pompeius-magnus/)
+
 [^6]: [Pompey Magnus | Biography, Achievements & Death | Study.com](https://study.com/academy/lesson/pompey-magnus-biography-quotes-death.html)
+
 [^7]: [Pompey the Great | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/pompey-great)
+
 [^8]: [Pompey Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/pompey-37027.php)
+
 [^9]: [Pompey the Great summary | Britannica](https://www.britannica.com/summary/Pompey-the-Great)
+
 [^10]: [Pompey the Great - Roman General, Conqueror, Statesman | Britannica](https://www.britannica.com/biography/Pompey-the-Great/Legacy)
+
 [^11]: [How Pompey became Rome's 'greatest' general - History Skills](https://www.historyskills.com/classroom/ancient-history/anc-pompey-reading/)
+
 [^12]: [Last Hero of The Republic: Pompey The Great | TheCollector](https://www.thecollector.com/general-pompey-the-great/)
+
 [^13]: [Pompey the Great | History | The Roman Military](https://romanmilitary.net/history/pompey/)
+
 [^14]: [First Triumvirate - Wikipedia](https://en.wikipedia.org/wiki/First_Triumvirate)
+
 [^15]: [Pompey the Great - Roman General, Triumvirate, Conqueror | Britannica](https://www.britannica.com/biography/Pompey-the-Great/The-First-Triumvirate)
+
 [^16]: [How the First Triumvirate changed ancient Rome - History Skills](https://www.historyskills.com/classroom/ancient-history/anc-1st-triumvirate-reading/)
+
 [^17]: [First Triumvirate - World History Encyclopedia](https://www.worldhistory.org/First_Triumvirate/)
+
 [^18]: [Pompey the Great Bust - World History Encyclopedia](https://www.worldhistory.org/image/3348/pompey-the-great-bust/)
+
 [^19]: [Ancient Rome - Pompey, Crassus, Triumvirate | Britannica](https://www.britannica.com/place/ancient-Rome/Pompey-and-Crassus)
+
 [^20]: [Caesar, Pompey and Crassus — the First Triumvirate | Early European History And Religion — Facts and Details](https://europe.factsanddetails.com/article/entry-315.html)
+
 [^21]: [First Triumvirate - Livius](https://www.livius.org/articles/concept/triumvir/first-triumvirate/)
+
 [^22]: [First Triumvirate | Definition, History & Significance - Lesson | Study.com](https://study.com/learn/lesson/julius-caesar-the-first-triumvirate.html)
+
 [^23]: [What Was the First Triumvirate? | TheCollector](https://www.thecollector.com/what-was-the-first-triumvirate/)
+
 [^24]: [Battle of Pharsalus - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Pharsalus)
+
 [^25]: [Battle of Pharsalus | Summary, Facts, & Significance | Britannica](https://www.britannica.com/event/Battle-of-Pharsalus)
+
 [^26]: [Caesar's civil war - Wikipedia](https://en.wikipedia.org/wiki/Caesar's_civil_war)
+
 [^27]: [The Battle Of Pharsalus And The Death of Pompey, By The Workshop Of Apollonio di Giovanni (c. 1415/17-1465) And Marco del Buono Giamberti (c. 1403-1489) - The Historian's Hut](https://thehistorianshut.com/2022/12/12/the-battle-of-pharsalus-and-the-death-of-pompey-by-the-workshop-of-apollonio-di-giovanni-c-1415-17-1465-and-marco-del-buono-giamberti-c-1403-1489/)
+
 [^28]: [Caesar's Civil War: Battle of Pharsalus](https://www.historynet.com/caesars-civil-war-battle-of-pharsalus/)
+
 [^29]: [The humiliating death of Pompey the Great, Rome's most celebrated general - History Skills](https://www.historyskills.com/classroom/ancient-history/death-of-pompey/)
+
 [^30]: [Pompey the Great | Biography, Career & Legacy - Lesson | Study.com](https://study.com/learn/lesson/pompey-the-great.html)
+
 [^31]: [Battle of Pharsalus: Julius Caesar victory over Pompey | Britannica](https://www.britannica.com/summary/Battle-of-Pharsalus)
+
 [^32]: [Pharsalus 48 BC - The Battle That Ended Roman Civil War](https://roman-empire.net/army/pharsalus)
+
 [^33]: [The Battle of Pharsalus: How Rome Became an Empire | TheCollector](https://www.thecollector.com/battle-of-pharsalus-pompey-caesar/)
+
 [^34]: [Wives of Pompey the Great - Wikipedia](https://en.wikipedia.org/wiki/Wives_of_Pompey_the_Great)
-[^35]: [Julia (daughter of Caesar) - Wikipedia](https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar))
+
+[^35]: [Julia (daughter of Caesar) - Wikipedia](<https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)>)
+
 [^36]: [Cornelia (c. 75–after 48 BCE) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/cornelia-c-75-after-48-bce)
+
 [^37]: [Plutarch on Pompey and Julia - Livius](https://www.livius.org/sources/content/plutarch/plutarchs-pompey/pompey-and-julia/)
+
 [^38]: [Julia | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/julia)
+
 [^39]: [Julia (d. 54 BCE) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/julia-d-54-bce)
+
 [^40]: [The Five Wives of Pompey the Great | Greece & Rome | Cambridge Core](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8D803333F5C6AA7B038E16B9DE577C4F/S0017383500030138a.pdf/div-class-title-the-five-wives-of-pompey-the-great-div.pdf)
+
 [^41]: [Legacy: Pompey the great | History Forum](https://historum.com/t/legacy-pompey-the-great.136775/)
+
 [^42]: [Pompey the Great: The Rise and Fall of Rome's "Alexander" - History Tools](https://www.historytools.org/stories/pompey-the-great-the-rise-and-fall-of-romes-alexander)
+
 [^43]: [The Rise of Pompey the Great, the 'Roman Alexander' | History Hit](https://www.historyhit.com/rise-of-pompey/)
+
 [^44]: [Pompey the Great - Rome's Most Illustrious General Part I - Biographies by Biographics](https://biographics.org/pompey-the-great-romes-most-illustrious-general-part-i/)
+
 [^45]: [Pompey the Great: What Went Wrong?](https://www.birdyslade.com/post/pompey-the-great-what-went-wrong)
+
 [^46]: [Is the Famous Roman Leader Pompey History's Biggest Loser? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/pompey-0017628)
+
 [^47]: [Why was Pompey known for poor political skills in the Roman Senate but managed to have a leading position in the Roman Republic anyway? - Quora](https://www.quora.com/Why-was-Pompey-known-for-poor-political-skills-in-the-Roman-Senate-but-managed-to-have-a-leading-position-in-the-Roman-Republic-anyway)
+
 [^48]: [How would you rate Pompey the Great as a General? | History Forum](https://historum.com/t/how-would-you-rate-pompey-the-great-as-a-general.12152/)
+
 [^49]: [Review of Pompey the Great: A Political Biography, by Robin Seager | School of Philosophical, Historical and Indigenous Studies](https://www.monash.edu/arts/philosophical-historical-indigenous-studies/eras/past-editions/edition-five-2003-november/review-of-pompey-the-great-a-political-biography-by-robin-seager)
+
 [^50]: [In hindsight did the Roman statesman Pompey deserve to be called "the Great"? Didn't his career and life end in ignomy. - Quora](https://www.quora.com/In-hindsight-did-the-Roman-statesman-Pompey-deserve-to-be-called-the-Great-Didn-t-his-career-and-life-end-in-ignomy)
+
 [^51]: [QUOTES BY POMPEY | A-Z Quotes](https://www.azquotes.com/author/65579-Pompey)
+
 [^52]: [Pompey - Wikiquote](https://en.wikiquote.org/wiki/Pompey)
+
 [^53]: [Pompey Quotes (7 quotes)](https://www.goodreads.com/quotes/tag/pompey)
+
 [^54]: [TOP 7 POMPEY QUOTES | A-Z Quotes](https://www.azquotes.com/quotes/topics/pompey.html)
+
 [^55]: [Pompey Quotes - QuotesCosmos](https://www.quotescosmos.com/people/Pompey.html)
+
 [^56]: [Pompey Quotes - Lib Quotes](https://libquotes.com/pompey)
+
 [^57]: [Top 14 Pompey The Great Quotes & Sayings](https://quotessayings.net/topics/pompey-the-great/)
+
 [^58]: [Quotes about Pompey - Lib Quotes](https://libquotes.com/pompey/about)
+
 [^59]: [PLUTARCH, Moralia. Sayings of Romans | Loeb Classical Library](https://www.loebclassics.com/view/plutarch-moralia_sayings_romans/1931/pb_LCL245.209.xml?readMode=recto)
+
 [^60]: [Legendary Pompey the Great Quotes | AncientPedia](https://ancientpedia.com/pompey-the-great-quotes-2/)
+
 [^61]: [Theatre of Pompey - Wikipedia](https://en.wikipedia.org/wiki/Theatre_of_Pompey)
+
 [^62]: [Nice Theatre, But Didn't They Kill Caesar Here?](https://ancient-history-blog.mq.edu.au/cityOfRome/Theatre-of-Pompey)
+
 [^63]: [Pompey Theatre (modern Rome, Italy) – The Ancient Theatre Archive](https://ancienttheatrearchive.com/theatre/pompey-theatre/)
+
 [^64]: [The Theatre of Pompey](https://www.didaskalia.net/studyarea/visual_resources/pompey3d.html)
+
 [^65]: [Ancient Rome Live | Theater of Pompey](https://ancientromelive.org/theater-of-pompey/)
+
 [^66]: [LacusCurtius • The Theatre of Pompey (Platner & Ashby, 1929)](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Theatrum_Pompei.html)
+
 [^67]: [THE THEATER OF POMPEY: AN UNPRECEDENTED MONUMENT HERALDING THE ACHIEVEMENTS OF](https://www.csus.edu/indiv/o/obriene/home page/stein theater of pompey.pdf)
+
 [^68]: [(PDF) The Theatre of Pompey: Staging the Self through Roman Architecture](https://www.academia.edu/77389414/The_Theatre_of_Pompey_Staging_the_Self_through_Roman_Architecture)
+
 [^69]: [Expedition Magazine | The Garden Portico of Pompey the Great](https://www.penn.museum/sites/expedition/the-garden-portico-of-pompey-the-great/)
+
 [^70]: [Theatrum Pompeium / Pompeianum | Digital Augustan Rome](https://www.digitalaugustanrome.org/records/theatrum-pompeium-pompeianum/)
+
 [^71]: [Pompey the Great - Gnaeus Pompeius Magnus | UNRV Roman History](https://www.unrv.com/roman-republic/pompey-the-great.php)
+
 [^72]: [Pompey's campaign against the pirates - Wikipedia](https://en.wikipedia.org/wiki/Pompey's_campaign_against_the_pirates)
+
 [^73]: [Caucasian campaign of Pompey - Wikipedia](https://en.wikipedia.org/wiki/Caucasian_campaign_of_Pompey)
+
 [^74]: [Third Mithridatic War | UNRV Roman History](https://www.unrv.com/roman-republic/third-mithridatic-war.php)
+
 [^75]: [Pompey in the east | Pompey, Cato, and the Governance of the Roman Empire | Oxford Academic](https://academic.oup.com/book/9802/chapter/157021124)
+
 [^76]: [Pompey's Eastern Storm: The Campaigns of 66 to 63 BC](https://sevenswords.uk/pompey-campaigns-66-63-bc/)
+
 [^77]: [Portrait of Pompey the Great (50 BC) (Roman Art) – Artchive](https://www.artchive.com/artwork/portrait-of-pompey-the-great-roman-art-50-bc/)
+
 [^78]: [Head of Pompey the Great · Digital Portrait "Basket" - ARTH488A "Ancient Mediterranean Portraiture"](http://classicalchopped.artinterp.org/omeka/items/show/32)
+
 [^79]: [(DOC) An Affable Bust of Pompey the Great: Insight into a Major Roman Figure and his Times](https://www.academia.edu/27184094/An_Affable_Bust_of_Pompey_the_Great_Insight_into_a_Major_Roman_Figure_and_his_Times)
+
 [^80]: [Pompey (Gnaeus Pompeius Magnus) | Museum of Classical Archaeology Databases](https://museum.classics.cam.ac.uk/collections/casts/pompey-gnaeus-pompeius-magnus)
+
 [^81]: [Pompey the Great. Copenhagen, New Carlsberg Glyptotek (København, Ny Carlsberg Glyptotek)](https://ancientrome.ru/art/artworken/img.htm?id=3261)
+
 [^82]: [Pompey the Great](https://penelope.uchicago.edu/~grout/encyclopaedia_romana/miscellanea/cleopatra/pompey.html)
+
 [^83]: [89 Pompey The Great Stock Photos, High-Res Pictures, and Images - Getty Images](https://www.gettyimages.com/photos/pompey-the-great)
+
 [^84]: [Gnaeus Pompeius Magnus](https://everything-everywhere.com/gnaeus-pompeius-magnus/)
+
 [^85]: [Gnaeus Pompeius Magnus : Family tree by comrade28 - Geneanet](https://gw.geneanet.org/comrade28?lang=en&n=magnus&p=gnaeus+pompeius)
+
 [^86]: [Gnaeus Pompey Magnus - Legio X Fretensis](https://x-legio.com/en/wiki/gnaeus-pompeius-magnus)
-[^87]: [Gnaeus Pompeius Magnus (son of Pompey) - Wikipedia](https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Magnus_(son_of_Pompey))
+
+[^87]: [Gnaeus Pompeius Magnus (son of Pompey) - Wikipedia](<https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Magnus_(son_of_Pompey)>)
+
 [^88]: [Gnaeus Pompeius Magnus Pompeius (-106 - -48) - Genealogy](https://www.geni.com/people/Gnaeus-Pompeius-Magnus-Pompeius/6000000005933238750)
+
 [^89]: [Julius Caesar | Wives, Mistresses & Alleged Spouse - Lesson | Study.com](https://study.com/academy/lesson/who-was-julius-caesars-wife.html)
+
 [^90]: [Unveiling the Personal Life of Julius Caesar: Wife, Children, and Legacies - MyKitchenGallery](https://mykitchengallery.com/did-julius-caesar-have-a-wife-and-children/)
+
 [^91]: [Julia Caesaris (-76--54) - Find a Grave Memorial](https://www.findagrave.com/memorial/224684438/julia-caesaris)
+
 [^92]: [Pompey - Wikidata](https://www.wikidata.org/wiki/Q125414)
+
 [^93]: Wives of Pompey the Great - Wikipedia (previously cited)
+
 [^94]: Portrait of Pompey the Great (50 BC) - Artchive (previously cited)
+
 [^95]: Legacy: Pompey the great | History Forum (previously cited)
+
 [^96]: Pompey the Great - Roman General, Conqueror, Statesman | Britannica (previously cited)
+
 [^97]: Gnaeus Pompeius Magnus - Warfare History Network (previously cited)
+
 [^98]: How Pompey became Rome's 'greatest' general - History Skills (previously cited)
+
 [^99]: Gnaeus Pompeius Magnus (son of Pompey) - Wikipedia (previously cited)
+
 [^100]: The Five Wives of Pompey the Great | Cambridge Core (previously cited)
+
 [^101]: Pompey the Great - Roman General, Conqueror, Statesman | Britannica (previously cited)
+
 [^102]: Pompey - World History Encyclopedia (previously cited)
+
 [^103]: Pompey the Great: The Last Hero of the Roman Republic | History Cooperative (previously cited)
+
 [^104]: Last Hero of The Republic: Pompey The Great | TheCollector (previously cited)
+
 [^105]: Pompey's campaign against the pirates - Wikipedia (previously cited)
+
 [^106]: Pompey Magnus | Biography, Achievements & Death | Study.com (previously cited)
+
 [^107]: Theatre of Pompey - Wikipedia (previously cited)
+
 [^108]: THE THEATER OF POMPEY: AN UNPRECEDENTED MONUMENT (previously cited)
+
 [^109]: Ancient Rome Live | Theater of Pompey (previously cited)
+
 [^110]: Pompey the Great: What Went Wrong? (previously cited)
+
 [^111]: First Triumvirate - Wikipedia (previously cited)
+
 [^112]: Legacy: Pompey the great | History Forum (previously cited)
+
 [^113]: Pompey the Great: The Rise and Fall of Rome's "Alexander" - History Tools (previously cited)
+
 [^114]: How would you rate Pompey the Great as a General? | History Forum (previously cited)
+
 [^115]: How Pompey became Rome's 'greatest' general - History Skills (previously cited)
+
 [^116]: Pompey the Great - Roman General, Conqueror, Statesman | Britannica (previously cited)
+
 [^117]: Pompey the Great: What Went Wrong? (previously cited)
+
 [^118]: Pompey the Great | Biography, Career & Legacy - Study.com (previously cited)
+
 [^119]: Is the Famous Roman Leader Pompey History's Biggest Loser? | Ancient Origins (previously cited)
+
 [^120]: Pompey the Great: The Last Hero of the Roman Republic | History Cooperative (previously cited)
+
 [^121]: Last Hero of The Republic: Pompey The Great | TheCollector (previously cited)
+
 [^122]: Pompey the Great - Gnaeus Pompeius Magnus | UNRV Roman History (previously cited)
+
 [^123]: Pompey in the east | Oxford Academic (previously cited)
+
 [^124]: Pompey's campaign against the pirates - Wikipedia (previously cited)
+
 [^125]: Pompey - World History Encyclopedia (previously cited)
+
 [^126]: Pompey's Eastern Storm: The Campaigns of 66 to 63 BC (previously cited)
+
 [^127]: Legacy: Pompey the great | History Forum (previously cited)
+
 [^128]: Pompey the Great | Roman General & Statesman | Britannica (previously cited)
+
 [^129]: Review of Pompey the Great: A Political Biography, by Robin Seager (previously cited)
+
 [^130]: Pompey's campaign against the pirates - Wikipedia (previously cited)
+
 [^131]: Gnaeus Pompeius Magnus - Warfare History Network (previously cited)
+
 [^132]: The Battle of Pharsalus: How Rome Became an Empire | TheCollector (previously cited)
+
 [^133]: Gnaeus Pompeius Magnus - Warfare History Network (previously cited)
+
 [^134]: Theatre of Pompey - Wikipedia (previously cited)
+
 [^135]: The Theatre of Pompey: Staging the Self through Roman Architecture (previously cited)
+
 [^136]: Pompey the Great: What Went Wrong? (previously cited)
+
 [^137]: First Triumvirate - Wikipedia (previously cited)
+
 [^138]: Why was Pompey known for poor political skills in the Roman Senate | Quora (previously cited)
+
 [^139]: Pompey the Great: What Went Wrong? (previously cited)
+
 [^140]: Is the Famous Roman Leader Pompey History's Biggest Loser? | Ancient Origins (previously cited)
+
 [^141]: How Pompey became Rome's 'greatest' general - History Skills (previously cited)
+
 [^142]: The Battle of Pharsalus: How Rome Became an Empire | TheCollector (previously cited)
+
 [^143]: Pharsalus 48 BC - The Battle That Ended Roman Civil War (previously cited)
+
 [^144]: Pompey the Great Bust - World History Encyclopedia (previously cited)
+
 [^145]: Pompey the Great: What Went Wrong? (previously cited)
+
 [^146]: In hindsight did the Roman statesman Pompey deserve to be called "the Great"? | Quora (previously cited)
+
 [^147]: Is the Famous Roman Leader Pompey History's Biggest Loser? | Ancient Origins (previously cited)
+
 [^148]: Pompey the Great: What Went Wrong? (previously cited)
+
 [^149]: QUOTES BY POMPEY | A-Z Quotes (previously cited)
+
 [^150]: Pompey - Wikiquote (previously cited)
+
 [^151]: Legendary Pompey the Great Quotes | AncientPedia (previously cited)
+
 [^152]: Pompey Quotes - Lib Quotes (previously cited)
+
 [^153]: PLUTARCH, Moralia. Sayings of Romans | Loeb Classical Library (previously cited)

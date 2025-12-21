@@ -149,31 +149,31 @@ The "Eastern Europe" gaffe during the 1976 debates raised questions about Ford's
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1913 | Born Leslie Lynch King Jr. in Omaha, Nebraska on July 14 |
-| 1916 | Mother marries Gerald Rudolff Ford; moves to Grand Rapids, Michigan |
-| 1931 | Graduates from South High School in Grand Rapids |
-| 1935 | Graduates from University of Michigan; football star and national champion |
-| 1941 | Graduates from Yale Law School |
-| 1942 | Enlists in U.S. Navy after Pearl Harbor |
-| 1943-1944 | Serves aboard USS Monterey in Pacific Theater during World War II |
-| 1946 | Discharged from Navy as Lieutenant Commander |
-| 1948 | Elected to U.S. House of Representatives; marries Betty Bloomer |
-| 1963 | Appointed to Warren Commission investigating JFK assassination |
-| 1965 | Elected House Minority Leader |
-| 1973 | Appointed Vice President following Spiro Agnew's resignation (December 6) |
-| 1974 | Becomes 38th President after Nixon's resignation (August 9) |
-| 1974 | Pardons Richard Nixon (September 8) |
-| 1974 | Survives two assassination attempts (September) |
-| 1975 | Fall of Saigon; end of Vietnam War (April 30) |
-| 1975 | Signs Helsinki Accords (August 1) |
-| 1975 | Appoints John Paul Stevens to Supreme Court |
-| 1976 | Loses presidential election to Jimmy Carter |
-| 1977 | Leaves office (January 20) |
-| 1999 | Receives Congressional Gold Medal |
-| 2001 | Receives Profile in Courage Award for Nixon pardon |
-| 2006 | Dies in Rancho Mirage, California on December 26 at age 93 |
+| Year      | Event                                                                      |
+| --------- | -------------------------------------------------------------------------- |
+| 1913      | Born Leslie Lynch King Jr. in Omaha, Nebraska on July 14                   |
+| 1916      | Mother marries Gerald Rudolff Ford; moves to Grand Rapids, Michigan        |
+| 1931      | Graduates from South High School in Grand Rapids                           |
+| 1935      | Graduates from University of Michigan; football star and national champion |
+| 1941      | Graduates from Yale Law School                                             |
+| 1942      | Enlists in U.S. Navy after Pearl Harbor                                    |
+| 1943-1944 | Serves aboard USS Monterey in Pacific Theater during World War II          |
+| 1946      | Discharged from Navy as Lieutenant Commander                               |
+| 1948      | Elected to U.S. House of Representatives; marries Betty Bloomer            |
+| 1963      | Appointed to Warren Commission investigating JFK assassination             |
+| 1965      | Elected House Minority Leader                                              |
+| 1973      | Appointed Vice President following Spiro Agnew's resignation (December 6)  |
+| 1974      | Becomes 38th President after Nixon's resignation (August 9)                |
+| 1974      | Pardons Richard Nixon (September 8)                                        |
+| 1974      | Survives two assassination attempts (September)                            |
+| 1975      | Fall of Saigon; end of Vietnam War (April 30)                              |
+| 1975      | Signs Helsinki Accords (August 1)                                          |
+| 1975      | Appoints John Paul Stevens to Supreme Court                                |
+| 1976      | Loses presidential election to Jimmy Carter                                |
+| 1977      | Leaves office (January 20)                                                 |
+| 1999      | Receives Congressional Gold Medal                                          |
+| 2001      | Receives Profile in Courage Award for Nixon pardon                         |
+| 2006      | Dies in Rancho Mirage, California on December 26 at age 93                 |
 
 ---
 
@@ -193,105 +193,206 @@ The "Eastern Europe" gaffe during the 1976 debates raised questions about Ford's
 
 ## References
 
-[^1]: Cannon, James. *Gerald R. Ford: An Honorable Life*. University of Michigan Press, 2013, pp. 3-8.
-[^2]: Ford, Gerald R. *A Time to Heal: The Autobiography of Gerald R. Ford*. Harper & Row, 1979, pp. 45-47.
-[^3]: DeFrank, Thomas M. *Write It When I'm Gone: Remarkable Off-the-Record Conversations with Gerald R. Ford*. Putnam, 2007, pp. 23-25.
-[^4]: Ford, *A Time to Heal*, p. 47.
+[^1]: Cannon, James. _Gerald R. Ford: An Honorable Life_. University of Michigan Press, 2013, pp. 3-8.
+
+[^2]: Ford, Gerald R. _A Time to Heal: The Autobiography of Gerald R. Ford_. Harper & Row, 1979, pp. 45-47.
+
+[^3]: DeFrank, Thomas M. _Write It When I'm Gone: Remarkable Off-the-Record Conversations with Gerald R. Ford_. Putnam, 2007, pp. 23-25.
+
+[^4]: Ford, _A Time to Heal_, p. 47.
+
 [^5]: "Gerald Ford, Star Center," University of Michigan Bentley Historical Library archives, accessed via www.lib.umich.edu/collections
-[^6]: Cannon, *Gerald R. Ford*, pp. 21-24.
-[^7]: Greene, John Robert. *The Presidency of Gerald R. Ford*. University Press of Kansas, 1995, pp. 3-4.
+
+[^6]: Cannon, _Gerald R. Ford_, pp. 21-24.
+
+[^7]: Greene, John Robert. _The Presidency of Gerald R. Ford_. University Press of Kansas, 1995, pp. 3-4.
+
 [^8]: Naval History and Heritage Command. "President Gerald R. Ford's Naval Service," Official Navy records, 2006.
-[^9]: Werth, Barry. *31 Days: Gerald Ford, The Nixon Pardon, and a Government in Crisis*. Anchor, 2007, p. 112.
-[^10]: Cannon, *Gerald R. Ford*, pp. 45-52.
-[^11]: Brinkley, Douglas. *Gerald R. Ford*. Times Books, 2007, p. 18.
-[^12]: Greene, *The Presidency of Gerald R. Ford*, pp. 5-7.
+
+[^9]: Werth, Barry. _31 Days: Gerald Ford, The Nixon Pardon, and a Government in Crisis_. Anchor, 2007, p. 112.
+
+[^10]: Cannon, _Gerald R. Ford_, pp. 45-52.
+
+[^11]: Brinkley, Douglas. _Gerald R. Ford_. Times Books, 2007, p. 18.
+
+[^12]: Greene, _The Presidency of Gerald R. Ford_, pp. 5-7.
+
 [^13]: Warren Commission Report, 1964; Ford's role documented in commission archives.
-[^14]: "Ford Elected Minority Leader," *Congressional Quarterly*, January 9, 1965.
-[^15]: Brinkley, *Gerald R. Ford*, pp. 32-38.
-[^16]: Hatfield, Mark O. *Vice Presidents of the United States, 1789-1993*. U.S. Government Printing Office, 1997, pp. 491-496.
+
+[^14]: "Ford Elected Minority Leader," _Congressional Quarterly_, January 9, 1965.
+
+[^15]: Brinkley, _Gerald R. Ford_, pp. 32-38.
+
+[^16]: Hatfield, Mark O. _Vice Presidents of the United States, 1789-1993_. U.S. Government Printing Office, 1997, pp. 491-496.
+
 [^17]: Congressional Record, Senate and House votes on Ford confirmation, December 1973.
-[^18]: Woodward, Bob and Carl Bernstein. *The Final Days*. Simon & Schuster, 1976, pp. 234-267.
+
+[^18]: Woodward, Bob and Carl Bernstein. _The Final Days_. Simon & Schuster, 1976, pp. 234-267.
+
 [^19]: Ford inaugural address, August 9, 1974, Public Papers of the Presidents.
-[^20]: Nessen, Ron. *It Sure Looks Different from the Inside*. Playboy Press, 1978, pp. 34-56.
-[^21]: Gullan, Harold I. "The Upset That Wasn't: Gerald Ford and the Election of 1976," *Presidential Studies Quarterly* 38, no. 1 (2008): 44-67.
-[^22]: Garthoff, Raymond L. *Détente and Confrontation: American-Soviet Relations from Nixon to Reagan*. Brookings Institution, 1994, pp. 478-489.
-[^23]: Mann, James. *About Face: A History of America's Curious Relationship with China*. Knopf, 1999, pp. 87-91.
+
+[^20]: Nessen, Ron. _It Sure Looks Different from the Inside_. Playboy Press, 1978, pp. 34-56.
+
+[^21]: Gullan, Harold I. "The Upset That Wasn't: Gerald Ford and the Election of 1976," _Presidential Studies Quarterly_ 38, no. 1 (2008): 44-67.
+
+[^22]: Garthoff, Raymond L. _Détente and Confrontation: American-Soviet Relations from Nixon to Reagan_. Brookings Institution, 1994, pp. 478-489.
+
+[^23]: Mann, James. _About Face: A History of America's Curious Relationship with China_. Knopf, 1999, pp. 87-91.
+
 [^24]: Helsinki Final Act, August 1, 1975, Organization for Security and Co-operation in Europe archives.
-[^25]: Snyder, Sarah B. *Human Rights Activism and the End of the Cold War*. Cambridge University Press, 2011, pp. 56-78.
-[^26]: Butler, David. *The Fall of Saigon*. Simon & Schuster, 1985, pp. 445-462.
-[^27]: Guilmartin, John F. *A Very Short War: The Mayaguez and the Battle of Koh Tang*. Texas A&M University Press, 1995.
-[^28]: Yergin, Daniel. *The Prize: The Epic Quest for Oil, Money, and Power*. Simon & Schuster, 1991, pp. 606-613.
-[^29]: "Whip Inflation Now," *Time*, October 28, 1974, pp. 24-26.
-[^30]: Porter, Roger B. "Economic Advice to the President: From Eisenhower to Reagan," *Political Science Quarterly* 98, no. 3 (1983): 403-426.
-[^31]: Lee, Jong R. "Presidential Vetoes from Washington to Nixon," *The Journal of Politics* 37, no. 2 (1975): 522-546.
-[^32]: Stein, Herbert. *Presidential Economics*. American Enterprise Institute, 1994, pp. 209-227.
+
+[^25]: Snyder, Sarah B. _Human Rights Activism and the End of the Cold War_. Cambridge University Press, 2011, pp. 56-78.
+
+[^26]: Butler, David. _The Fall of Saigon_. Simon & Schuster, 1985, pp. 445-462.
+
+[^27]: Guilmartin, John F. _A Very Short War: The Mayaguez and the Battle of Koh Tang_. Texas A&M University Press, 1995.
+
+[^28]: Yergin, Daniel. _The Prize: The Epic Quest for Oil, Money, and Power_. Simon & Schuster, 1991, pp. 606-613.
+
+[^29]: "Whip Inflation Now," _Time_, October 28, 1974, pp. 24-26.
+
+[^30]: Porter, Roger B. "Economic Advice to the President: From Eisenhower to Reagan," _Political Science Quarterly_ 98, no. 3 (1983): 403-426.
+
+[^31]: Lee, Jong R. "Presidential Vetoes from Washington to Nixon," _The Journal of Politics_ 37, no. 2 (1975): 522-546.
+
+[^32]: Stein, Herbert. _Presidential Economics_. American Enterprise Institute, 1994, pp. 209-227.
+
 [^33]: FBI files on Lynette Fromme assassination attempt, September 5, 1975.
+
 [^34]: FBI files on Sara Jane Moore assassination attempt, September 22, 1975.
+
 [^35]: Supreme Court Historical Society. "John Paul Stevens Biography," supremecourthistory.org
+
 [^36]: Presidential Proclamation 4311, September 8, 1974, National Archives.
-[^37]: Ford, *A Time to Heal*, pp. 158-178.
+
+[^37]: Ford, _A Time to Heal_, pp. 158-178.
+
 [^38]: Gallup Poll data, September 1974, Gallup Organization archives.
-[^39]: Werth, *31 Days*, pp. 278-301.
-[^40]: Brinkley, *Gerald R. Ford*, pp. 76-82.
-[^41]: "The Flop Heard Round the World," *Newsweek*, December 16, 1974.
+
+[^39]: Werth, _31 Days_, pp. 278-301.
+
+[^40]: Brinkley, _Gerald R. Ford_, pp. 76-82.
+
+[^41]: "The Flop Heard Round the World," _Newsweek_, December 16, 1974.
+
 [^42]: Bureau of Labor Statistics unemployment data, May 1975.
-[^43]: Reichley, A. James. *Conservatives in an Age of Change: The Nixon and Ford Administrations*. Brookings Institution, 1981, pp. 367-389.
-[^44]: Witcover, Jules. *Marathon: The Pursuit of the Presidency 1972-1976*. Viking Press, 1977, pp. 456-478.
-[^45]: Cannon, *Gerald R. Ford*, pp. 398-401.
+
+[^43]: Reichley, A. James. _Conservatives in an Age of Change: The Nixon and Ford Administrations_. Brookings Institution, 1981, pp. 367-389.
+
+[^44]: Witcover, Jules. _Marathon: The Pursuit of the Presidency 1972-1976_. Viking Press, 1977, pp. 456-478.
+
+[^45]: Cannon, _Gerald R. Ford_, pp. 398-401.
+
 [^46]: Presidential debate transcript, October 6, 1976, Commission on Presidential Debates archives.
-[^47]: Schroeder, Alan. *Presidential Debates: Fifty Years of High-Risk TV*. Columbia University Press, 2008, pp. 89-92.
+
+[^47]: Schroeder, Alan. _Presidential Debates: Fifty Years of High-Risk TV_. Columbia University Press, 2008, pp. 89-92.
+
 [^48]: Presidential Proclamation 4313, September 16, 1974, National Archives.
-[^49]: Baskir, Lawrence M. and William A. Strauss. *Chance and Circumstance: The Draft, the War, and the Vietnam Generation*. Knopf, 1978, pp. 234-247.
-[^50]: Massie, Robert K. *Loosing the Bonds: The United States and South Africa in the Apartheid Years*. Nan A. Talese, 1997, pp. 378-382.
-[^51]: "Ford to City: Drop Dead," *New York Daily News*, October 30, 1975, front page.
-[^52]: Ford, *A Time to Heal*, pp. 73-74.
-[^53]: Anthony, Carl Sferrazza. *First Ladies: The Saga of the Presidents' Wives and Their Power, 1961-1990*. William Morrow, 1991, pp. 234-238.
-[^54]: Ford, Betty. *The Times of My Life*. Harper & Row, 1978, pp. 193-206.
-[^55]: Ford, Betty. *Betty: A Glad Awakening*. Doubleday, 1987.
-[^56]: Anthony, *First Ladies*, pp. 256-267.
-[^57]: Nessen, *It Sure Looks Different*, pp. 78-82.
-[^58]: Reeves, Richard. "The Sad Comedy of Gerald Ford," *New York*, January 20, 1975.
-[^59]: Cannon, *Gerald R. Ford*, pp. 112-118.
-[^60]: Ford, *A Time to Heal*, pp. 89-91.
-[^61]: Gibbs, Nancy and Michael Duffy. *The Presidents Club*. Simon & Schuster, 2012, pp. 312-315.
-[^62]: Cheney, Dick. *In My Time*. Threshold Editions, 2011, pp. 78-92.
-[^63]: Brinkley, Douglas. *The Unfinished Presidency: Jimmy Carter's Journey Beyond the White House*. Viking, 1998, pp. 234-239.
-[^64]: Ford, *A Time to Heal*, epilogue.
+
+[^49]: Baskir, Lawrence M. and William A. Strauss. _Chance and Circumstance: The Draft, the War, and the Vietnam Generation_. Knopf, 1978, pp. 234-247.
+
+[^50]: Massie, Robert K. _Loosing the Bonds: The United States and South Africa in the Apartheid Years_. Nan A. Talese, 1997, pp. 378-382.
+
+[^51]: "Ford to City: Drop Dead," _New York Daily News_, October 30, 1975, front page.
+
+[^52]: Ford, _A Time to Heal_, pp. 73-74.
+
+[^53]: Anthony, Carl Sferrazza. _First Ladies: The Saga of the Presidents' Wives and Their Power, 1961-1990_. William Morrow, 1991, pp. 234-238.
+
+[^54]: Ford, Betty. _The Times of My Life_. Harper & Row, 1978, pp. 193-206.
+
+[^55]: Ford, Betty. _Betty: A Glad Awakening_. Doubleday, 1987.
+
+[^56]: Anthony, _First Ladies_, pp. 256-267.
+
+[^57]: Nessen, _It Sure Looks Different_, pp. 78-82.
+
+[^58]: Reeves, Richard. "The Sad Comedy of Gerald Ford," _New York_, January 20, 1975.
+
+[^59]: Cannon, _Gerald R. Ford_, pp. 112-118.
+
+[^60]: Ford, _A Time to Heal_, pp. 89-91.
+
+[^61]: Gibbs, Nancy and Michael Duffy. _The Presidents Club_. Simon & Schuster, 2012, pp. 312-315.
+
+[^62]: Cheney, Dick. _In My Time_. Threshold Editions, 2011, pp. 78-92.
+
+[^63]: Brinkley, Douglas. _The Unfinished Presidency: Jimmy Carter's Journey Beyond the White House_. Viking, 1998, pp. 234-239.
+
+[^64]: Ford, _A Time to Heal_, epilogue.
+
 [^65]: C-SPAN Presidential Historians Survey, 2021, ranking Ford 24th among presidents.
-[^66]: Beschloss, Michael. "The Pardon That Changed History," *The New York Times*, September 8, 2014.
+
+[^66]: Beschloss, Michael. "The Pardon That Changed History," _The New York Times_, September 8, 2014.
+
 [^67]: John F. Kennedy Library Foundation. "Profile in Courage Award 2001," jfklibrary.org
-[^68]: Kutler, Stanley I. "The Nixon Pardon Reconsidered," *The Historian* 58, no. 2 (1996): 347-362.
-[^69]: Thomas, Daniel C. *The Helsinki Effect: International Norms, Human Rights, and the Demise of Communism*. Princeton University Press, 2001.
-[^70]: Kissinger, Henry. *Years of Renewal*. Simon & Schuster, 1999, pp. 634-658.
-[^71]: Feerick, John D. *The Twenty-Fifth Amendment: Its Complete History and Applications*. Fordham University Press, 2014, pp. 156-178.
-[^72]: Smith, Richard Norton. *An Ordinary Man: The Surprising Life and Historic Presidency of Gerald R. Ford*. HarperCollins, 2006.
+
+[^68]: Kutler, Stanley I. "The Nixon Pardon Reconsidered," _The Historian_ 58, no. 2 (1996): 347-362.
+
+[^69]: Thomas, Daniel C. _The Helsinki Effect: International Norms, Human Rights, and the Demise of Communism_. Princeton University Press, 2001.
+
+[^70]: Kissinger, Henry. _Years of Renewal_. Simon & Schuster, 1999, pp. 634-658.
+
+[^71]: Feerick, John D. _The Twenty-Fifth Amendment: Its Complete History and Applications_. Fordham University Press, 2014, pp. 156-178.
+
+[^72]: Smith, Richard Norton. _An Ordinary Man: The Surprising Life and Historic Presidency of Gerald R. Ford_. HarperCollins, 2006.
+
 [^73]: Barack Obama eulogy for Gerald Ford, National Cathedral, January 2, 2007.
+
 [^74]: Bureau of Labor Statistics historical data, 1974-1977.
-[^75]: Stein, *Presidential Economics*, pp. 218-223.
+
+[^75]: Stein, _Presidential Economics_, pp. 218-223.
+
 [^76]: Gerald R. Ford Presidential Foundation, geraldrfordfoundation.org
-[^77]: "Gerald Ford, 93, Dies; Led in Watergate's Wake," *The New York Times*, December 27, 2006.
-[^78]: Brinkley, *Gerald R. Ford*, pp. 158-161.
-[^79]: Greene, *The Presidency of Gerald R. Ford*, pp. 48-52.
-[^80]: Nessen, *It Sure Looks Different*, pp. 45-67.
-[^81]: Greene, *The Presidency of Gerald R. Ford*, p. 178.
-[^82]: "Ford's Fiscal Legacy," *The Wall Street Journal*, December 28, 2006.
+
+[^77]: "Gerald Ford, 93, Dies; Led in Watergate's Wake," _The New York Times_, December 27, 2006.
+
+[^78]: Brinkley, _Gerald R. Ford_, pp. 158-161.
+
+[^79]: Greene, _The Presidency of Gerald R. Ford_, pp. 48-52.
+
+[^80]: Nessen, _It Sure Looks Different_, pp. 45-67.
+
+[^81]: Greene, _The Presidency of Gerald R. Ford_, p. 178.
+
+[^82]: "Ford's Fiscal Legacy," _The Wall Street Journal_, December 28, 2006.
+
 [^83]: Wall Street Journal Editorial Board, "The Ford Standard," December 29, 2006.
-[^84]: Kissinger, *Years of Renewal*, pp. 834-836.
-[^85]: Guilmartin, *A Very Short War*, conclusion.
-[^86]: Greenhouse, Linda. "John Paul Stevens, Supreme Court Justice, Dies at 99," *The New York Times*, July 16, 2019.
-[^87]: Rumsfeld, Donald. *Known and Unknown*. Sentinel, 2011, pp. 178-234.
-[^88]: Feerick, *The Twenty-Fifth Amendment*, pp. 167-170.
-[^89]: Smith, *An Ordinary Man*, p. 567.
-[^90]: Dean, John W. "The Nixon Pardon at 40," *Verdict*, September 8, 2014.
-[^91]: Woodward, Bob. *Shadow: Five Presidents and the Legacy of Watergate*. Simon & Schuster, 1999, pp. 23-34.
-[^92]: Matusow, Allen J. "The Unraveling of America: Liberalism in the 1960s," *Reviews in American History* 13, no. 1 (1985): 134-139.
-[^93]: "WIN Loses," *The Nation*, December 14, 1974.
-[^94]: Schmitz, David F. *The United States and Right-Wing Dictatorships, 1965-1989*. Cambridge University Press, 2006, pp. 89-103.
-[^95]: Herring, George C. *America's Longest War: The United States and Vietnam, 1950-1975*. McGraw-Hill, 2001, pp. 312-325.
-[^96]: Formisano, Ronald P. *Boston Against Busing: Race, Class, and Ethnicity in the 1960s and 1970s*. University of North Carolina Press, 2004, pp. 234-237.
-[^97]: Graham, Hugh Davis. *The Civil Rights Era: Origins and Development of National Policy*. Oxford University Press, 1990, pp. 456-459.
-[^98]: Witcover, *Marathon*, pp. 589-601.
-[^99]: Baskir and Strauss, *Chance and Circumstance*, pp. 245-247.
-[^100]: Cannon, *Gerald R. Ford*, pp. 399-402.
-[^101]: Schroeder, *Presidential Debates*, pp. 90-91.
-[^102]: Greene, *The Presidency of Gerald R. Ford*, pp. 189-192.
+
+[^84]: Kissinger, _Years of Renewal_, pp. 834-836.
+
+[^85]: Guilmartin, _A Very Short War_, conclusion.
+
+[^86]: Greenhouse, Linda. "John Paul Stevens, Supreme Court Justice, Dies at 99," _The New York Times_, July 16, 2019.
+
+[^87]: Rumsfeld, Donald. _Known and Unknown_. Sentinel, 2011, pp. 178-234.
+
+[^88]: Feerick, _The Twenty-Fifth Amendment_, pp. 167-170.
+
+[^89]: Smith, _An Ordinary Man_, p. 567.
+
+[^90]: Dean, John W. "The Nixon Pardon at 40," _Verdict_, September 8, 2014.
+
+[^91]: Woodward, Bob. _Shadow: Five Presidents and the Legacy of Watergate_. Simon & Schuster, 1999, pp. 23-34.
+
+[^92]: Matusow, Allen J. "The Unraveling of America: Liberalism in the 1960s," _Reviews in American History_ 13, no. 1 (1985): 134-139.
+
+[^93]: "WIN Loses," _The Nation_, December 14, 1974.
+
+[^94]: Schmitz, David F. _The United States and Right-Wing Dictatorships, 1965-1989_. Cambridge University Press, 2006, pp. 89-103.
+
+[^95]: Herring, George C. _America's Longest War: The United States and Vietnam, 1950-1975_. McGraw-Hill, 2001, pp. 312-325.
+
+[^96]: Formisano, Ronald P. _Boston Against Busing: Race, Class, and Ethnicity in the 1960s and 1970s_. University of North Carolina Press, 2004, pp. 234-237.
+
+[^97]: Graham, Hugh Davis. _The Civil Rights Era: Origins and Development of National Policy_. Oxford University Press, 1990, pp. 456-459.
+
+[^98]: Witcover, _Marathon_, pp. 589-601.
+
+[^99]: Baskir and Strauss, _Chance and Circumstance_, pp. 245-247.
+
+[^100]: Cannon, _Gerald R. Ford_, pp. 399-402.
+
+[^101]: Schroeder, _Presidential Debates_, pp. 90-91.
+
+[^102]: Greene, _The Presidency of Gerald R. Ford_, pp. 189-192.

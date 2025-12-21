@@ -171,27 +171,27 @@ Contemporary foreign observers, whose reports historians have used extensively, 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1578 | Born on April 14 in Madrid to Philip II of Spain and Anna of Austria |
-| 1580 | Mother Anna of Austria dies; Philip raised by court officials |
-| 1598 | Father Philip II dies on September 13; Philip III ascends throne at age 20 |
-| 1598 | Elevates Duke of Lerma to position of royal favorite (valido) |
-| 1599 | Marries Margaret of Austria, his cousin |
-| 1601 | Daughter Anne born (future Queen of France); capital moved to Valladolid |
-| 1604 | Treaty of London signed with England, ending decades of hostility |
-| 1605 | Son Philip born (future Philip IV); Cervantes publishes Don Quixote Part I |
-| 1606 | Capital returns to Madrid from Valladolid |
-| 1607 | Spain declares state bankruptcy for the fourth time in a century |
-| 1609 | Twelve Years' Truce signed with Dutch Republic; Morisco expulsion begins |
+| Year | Event                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 1578 | Born on April 14 in Madrid to Philip II of Spain and Anna of Austria                         |
+| 1580 | Mother Anna of Austria dies; Philip raised by court officials                                |
+| 1598 | Father Philip II dies on September 13; Philip III ascends throne at age 20                   |
+| 1598 | Elevates Duke of Lerma to position of royal favorite (valido)                                |
+| 1599 | Marries Margaret of Austria, his cousin                                                      |
+| 1601 | Daughter Anne born (future Queen of France); capital moved to Valladolid                     |
+| 1604 | Treaty of London signed with England, ending decades of hostility                            |
+| 1605 | Son Philip born (future Philip IV); Cervantes publishes Don Quixote Part I                   |
+| 1606 | Capital returns to Madrid from Valladolid                                                    |
+| 1607 | Spain declares state bankruptcy for the fourth time in a century                             |
+| 1609 | Twelve Years' Truce signed with Dutch Republic; Morisco expulsion begins                     |
 | 1610 | Morisco expulsion continues; approximately 300,000 expelled from Valencia, Aragon, Andalusia |
-| 1611 | Queen Margaret dies on October 3 after childbirth complications at age 26 |
-| 1614 | Morisco expulsion largely completed |
-| 1615 | Cervantes publishes Don Quixote Part II |
-| 1618 | Duke of Lerma falls from power; succeeded by Duke of Uceda (Lerma's son) |
-| 1618 | Thirty Years' War begins; Spain intervenes in support of Habsburg interests |
-| 1619 | Plaza Mayor in Madrid completed |
-| 1621 | Dies on March 31 in Madrid at age 42; succeeded by son Philip IV |
+| 1611 | Queen Margaret dies on October 3 after childbirth complications at age 26                    |
+| 1614 | Morisco expulsion largely completed                                                          |
+| 1615 | Cervantes publishes Don Quixote Part II                                                      |
+| 1618 | Duke of Lerma falls from power; succeeded by Duke of Uceda (Lerma's son)                     |
+| 1618 | Thirty Years' War begins; Spain intervenes in support of Habsburg interests                  |
+| 1619 | Plaza Mayor in Madrid completed                                                              |
+| 1621 | Dies on March 31 in Madrid at age 42; succeeded by son Philip IV                             |
 
 ---
 
@@ -221,120 +221,120 @@ Context: Philip's reflection on his inheritance from Philip II. The quote acknow
 
 ## References
 
-[^1]: Geoffrey Parker, *Philip II* (Chicago: Open Court Publishing, 1995), pp. 189-192.
+[^1]: Geoffrey Parker, _Philip II_ (Chicago: Open Court Publishing, 1995), pp. 189-192.
 
-[^2]: J.H. Elliott, *Imperial Spain 1469-1716* (London: Penguin Books, 2002), pp. 285-287.
+[^2]: J.H. Elliott, _Imperial Spain 1469-1716_ (London: Penguin Books, 2002), pp. 285-287.
 
-[^3]: Antonio Feros, *Kingship and Favoritism in the Spain of Philip III, 1598-1621* (Cambridge: Cambridge University Press, 2000), pp. 31-35.
+[^3]: Antonio Feros, _Kingship and Favoritism in the Spain of Philip III, 1598-1621_ (Cambridge: Cambridge University Press, 2000), pp. 31-35.
 
-[^4]: Patrick Williams, *Philip III* (New York: Palgrave Macmillan, 2014), pp. 12-18.
+[^4]: Patrick Williams, _Philip III_ (New York: Palgrave Macmillan, 2014), pp. 12-18.
 
-[^5]: Henry Kamen, *Spain 1469-1714: A Society of Conflict* (London: Routledge, 2014), pp. 156-158.
+[^5]: Henry Kamen, _Spain 1469-1714: A Society of Conflict_ (London: Routledge, 2014), pp. 156-158.
 
-[^6]: Antonio Feros, *Kingship and Favoritism*, pp. 89-112.
+[^6]: Antonio Feros, _Kingship and Favoritism_, pp. 89-112.
 
-[^7]: Patrick Williams, *Philip III*, pp. 45-52.
+[^7]: Patrick Williams, _Philip III_, pp. 45-52.
 
-[^8]: R.A. Stradling, *Philip IV and the Government of Spain, 1621-1665* (Cambridge: Cambridge University Press, 1988), pp. 15-19.
+[^8]: R.A. Stradling, _Philip IV and the Government of Spain, 1621-1665_ (Cambridge: Cambridge University Press, 1988), pp. 15-19.
 
-[^9]: J.H. Elliott, *Imperial Spain*, pp. 296-299.
+[^9]: J.H. Elliott, _Imperial Spain_, pp. 296-299.
 
-[^10]: Geoffrey Parker, *The Army of Flanders and the Spanish Road, 1567-1659* (Cambridge: Cambridge University Press, 2004), pp. 234-238.
+[^10]: Geoffrey Parker, _The Army of Flanders and the Spanish Road, 1567-1659_ (Cambridge: Cambridge University Press, 2004), pp. 234-238.
 
-[^11]: Richard L. Kagan and Geoffrey Parker (eds.), *Spain, Europe and the Atlantic World: Essays in Honour of John H. Elliott* (Cambridge: Cambridge University Press, 1995), pp. 287-293.
+[^11]: Richard L. Kagan and Geoffrey Parker (eds.), _Spain, Europe and the Atlantic World: Essays in Honour of John H. Elliott_ (Cambridge: Cambridge University Press, 1995), pp. 287-293.
 
-[^12]: George Kubler, *Building the Escorial* (Princeton: Princeton University Press, 1982), pp. 134-139.
+[^12]: George Kubler, _Building the Escorial_ (Princeton: Princeton University Press, 1982), pp. 134-139.
 
-[^13]: J.H. Elliott, *Empires of the Atlantic World: Britain and Spain in America, 1492-1830* (New Haven: Yale University Press, 2006), pp. 156-162.
+[^13]: J.H. Elliott, _Empires of the Atlantic World: Britain and Spain in America, 1492-1830_ (New Haven: Yale University Press, 2006), pp. 156-162.
 
-[^14]: William B. Ashworth Jr., "Catholicism and Early Modern Science," in *God and Nature: Historical Essays on the Encounter between Christianity and Science* (Berkeley: University of California Press, 1986), pp. 136-166.
+[^14]: William B. Ashworth Jr., "Catholicism and Early Modern Science," in _God and Nature: Historical Essays on the Encounter between Christianity and Science_ (Berkeley: University of California Press, 1986), pp. 136-166.
 
-[^15]: Geoffrey Parker (ed.), *The Thirty Years' War* (London: Routledge, 1997), pp. 89-95.
+[^15]: Geoffrey Parker (ed.), _The Thirty Years' War_ (London: Routledge, 1997), pp. 89-95.
 
-[^16]: I.A.A. Thompson, *War and Government in Habsburg Spain, 1560-1620* (London: Athlone Press, 1976), pp. 201-214.
+[^16]: I.A.A. Thompson, _War and Government in Habsburg Spain, 1560-1620_ (London: Athlone Press, 1976), pp. 201-214.
 
-[^17]: Henry Kamen, "The Mediterranean and the Expulsion of Spanish Jews in 1492," *Past & Present*, No. 119 (May 1988), pp. 30-55.
+[^17]: Henry Kamen, "The Mediterranean and the Expulsion of Spanish Jews in 1492," _Past & Present_, No. 119 (May 1988), pp. 30-55.
 
-[^18]: Antonio Domínguez Ortiz and Bernard Vincent, *Historia de los moriscos: Vida y tragedia de una minoría* (Madrid: Alianza Editorial, 1997), pp. 187-234.
+[^18]: Antonio Domínguez Ortiz and Bernard Vincent, _Historia de los moriscos: Vida y tragedia de una minoría_ (Madrid: Alianza Editorial, 1997), pp. 187-234.
 
-[^19]: Patrick Williams, "Lerma, 1618: Dismissal or Retirement?," *European History Quarterly*, Vol. 19, No. 3 (1989), pp. 307-332.
+[^19]: Patrick Williams, "Lerma, 1618: Dismissal or Retirement?," _European History Quarterly_, Vol. 19, No. 3 (1989), pp. 307-332.
 
-[^20]: J.H. Elliott, *The Count-Duke of Olivares: The Statesman in an Age of Decline* (New Haven: Yale University Press, 1986), pp. 8-12.
+[^20]: J.H. Elliott, _The Count-Duke of Olivares: The Statesman in an Age of Decline_ (New Haven: Yale University Press, 1986), pp. 8-12.
 
-[^21]: Mauricio Drelichman and Hans-Joachim Voth, *Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II* (Princeton: Princeton University Press, 2014), pp. 178-189.
+[^21]: Mauricio Drelichman and Hans-Joachim Voth, _Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II_ (Princeton: Princeton University Press, 2014), pp. 178-189.
 
-[^22]: Geoffrey Parker, *The Army of Flanders*, pp. 241-249.
+[^22]: Geoffrey Parker, _The Army of Flanders_, pp. 241-249.
 
-[^23]: J.A. Maravall, *Culture of the Baroque: Analysis of a Historical Structure* (Minneapolis: University of Minnesota Press, 1986), pp. 81-93.
+[^23]: J.A. Maravall, _Culture of the Baroque: Analysis of a Historical Structure_ (Minneapolis: University of Minnesota Press, 1986), pp. 81-93.
 
-[^24]: Henry Kamen, *The Spanish Inquisition: A Historical Revision* (New Haven: Yale University Press, 1998), pp. 234-241.
+[^24]: Henry Kamen, _The Spanish Inquisition: A Historical Revision_ (New Haven: Yale University Press, 1998), pp. 234-241.
 
-[^25]: Patrick Williams, *Philip III*, pp. 61-67.
+[^25]: Patrick Williams, _Philip III_, pp. 61-67.
 
-[^26]: Antonio Feros, *Kingship and Favoritism*, pp. 142-149.
+[^26]: Antonio Feros, _Kingship and Favoritism_, pp. 142-149.
 
-[^27]: J.H. Elliott, "The Court of the Spanish Habsburgs: A Peculiar Institution?" in *Spain and Its World, 1500-1700* (New Haven: Yale University Press, 1989), pp. 142-161.
+[^27]: J.H. Elliott, "The Court of the Spanish Habsburgs: A Peculiar Institution?" in _Spain and Its World, 1500-1700_ (New Haven: Yale University Press, 1989), pp. 142-161.
 
-[^28]: Patrick Williams, *Philip III*, pp. 88-94.
+[^28]: Patrick Williams, _Philip III_, pp. 88-94.
 
-[^29]: John Adamson (ed.), *The Princely Courts of Europe: Ritual, Politics and Culture Under the Ancien Régime, 1500-1750* (London: Weidenfeld & Nicolson, 1999), pp. 43-65.
+[^29]: John Adamson (ed.), _The Princely Courts of Europe: Ritual, Politics and Culture Under the Ancien Régime, 1500-1750_ (London: Weidenfeld & Nicolson, 1999), pp. 43-65.
 
-[^30]: Antonio Feros, *Kingship and Favoritism*, pp. 215-228.
+[^30]: Antonio Feros, _Kingship and Favoritism_, pp. 215-228.
 
-[^31]: Patrick Williams, *Philip III*, pp. 201-205.
+[^31]: Patrick Williams, _Philip III_, pp. 201-205.
 
-[^32]: J.H. Elliott, *Imperial Spain*, pp. 310-315.
+[^32]: J.H. Elliott, _Imperial Spain_, pp. 310-315.
 
-[^33]: Henry Kamen, *Spain 1469-1714*, pp. 168-174.
+[^33]: Henry Kamen, _Spain 1469-1714_, pp. 168-174.
 
-[^34]: Geoffrey Parker, *The Army of Flanders*, pp. 255-261.
+[^34]: Geoffrey Parker, _The Army of Flanders_, pp. 255-261.
 
-[^35]: R.O. Jones (ed.), *The Golden Age: Prose and Poetry* (London: Ernest Benn, 1971), pp. 1-18.
+[^35]: R.O. Jones (ed.), _The Golden Age: Prose and Poetry_ (London: Ernest Benn, 1971), pp. 1-18.
 
-[^36]: L.P. Harvey, *Muslims in Spain, 1500 to 1614* (Chicago: University of Chicago Press, 2005), pp. 319-338.
+[^36]: L.P. Harvey, _Muslims in Spain, 1500 to 1614_ (Chicago: University of Chicago Press, 2005), pp. 319-338.
 
-[^37]: Patrick Williams, *Philip III*, pp. 210-218.
+[^37]: Patrick Williams, _Philip III_, pp. 210-218.
 
-[^38]: J.H. Elliott, "Self-Perception and Decline in Early Seventeenth-Century Spain," *Past & Present*, No. 74 (February 1977), pp. 41-61.
+[^38]: J.H. Elliott, "Self-Perception and Decline in Early Seventeenth-Century Spain," _Past & Present_, No. 74 (February 1977), pp. 41-61.
 
-[^39]: R.A. Stradling, *Philip IV and the Government of Spain*, pp. 22-29.
+[^39]: R.A. Stradling, _Philip IV and the Government of Spain_, pp. 22-29.
 
-[^40]: Jonathan Brown and J.H. Elliott, *A Palace for a King: The Buen Retiro and the Court of Philip IV* (New Haven: Yale University Press, 2003), pp. 15-23.
+[^40]: Jonathan Brown and J.H. Elliott, _A Palace for a King: The Buen Retiro and the Court of Philip IV_ (New Haven: Yale University Press, 2003), pp. 15-23.
 
-[^41]: Paul C. Allen, *Philip III and the Pax Hispanica, 1598-1621: The Failure of Grand Strategy* (New Haven: Yale University Press, 2000), pp. 234-245.
+[^41]: Paul C. Allen, _Philip III and the Pax Hispanica, 1598-1621: The Failure of Grand Strategy_ (New Haven: Yale University Press, 2000), pp. 234-245.
 
-[^42]: Patrick Williams, *Philip III*, pp. 156-167.
+[^42]: Patrick Williams, _Philip III_, pp. 156-167.
 
-[^43]: William Thomas Walsh, *Philip II* (London: Sheed and Ward, 1937), pp. 612-618.
+[^43]: William Thomas Walsh, _Philip II_ (London: Sheed and Ward, 1937), pp. 612-618.
 
-[^44]: I.A.A. Thompson, *War and Government in Habsburg Spain*, pp. 289-297.
+[^44]: I.A.A. Thompson, _War and Government in Habsburg Spain_, pp. 289-297.
 
-[^45]: George Kubler and Martin Soria, *Art and Architecture in Spain and Portugal and Their American Dominions, 1500-1800* (Baltimore: Penguin Books, 1959), pp. 87-94.
+[^45]: George Kubler and Martin Soria, _Art and Architecture in Spain and Portugal and Their American Dominions, 1500-1800_ (Baltimore: Penguin Books, 1959), pp. 87-94.
 
-[^46]: Patrick Williams, "Philip III and the Restoration of Spanish Government, 1598-1603," *English Historical Review*, Vol. 88, No. 349 (October 1973), pp. 751-769.
+[^46]: Patrick Williams, "Philip III and the Restoration of Spanish Government, 1598-1603," _English Historical Review_, Vol. 88, No. 349 (October 1973), pp. 751-769.
 
-[^47]: Henry Kamen, *Spain 1469-1714*, pp. 165-167.
+[^47]: Henry Kamen, _Spain 1469-1714_, pp. 165-167.
 
-[^48]: J.H. Elliott, *Imperial Spain*, pp. 288-315.
+[^48]: J.H. Elliott, _Imperial Spain_, pp. 288-315.
 
-[^49]: Earl J. Hamilton, *American Treasure and the Price Revolution in Spain, 1501-1650* (Cambridge: Harvard University Press, 1934), pp. 256-278.
+[^49]: Earl J. Hamilton, _American Treasure and the Price Revolution in Spain, 1501-1650_ (Cambridge: Harvard University Press, 1934), pp. 256-278.
 
-[^50]: Geoffrey Parker, *The Army of Flanders*, pp. 241-261.
+[^50]: Geoffrey Parker, _The Army of Flanders_, pp. 241-261.
 
-[^51]: Antonio Feros, *Kingship and Favoritism*, pp. 267-281.
+[^51]: Antonio Feros, _Kingship and Favoritism_, pp. 267-281.
 
-[^52]: Antonio Feros, "Twin Souls: Monarchs and Favourites in Early Seventeenth-Century Spain," in *Spain, Europe and the Atlantic World*, ed. Richard L. Kagan and Geoffrey Parker (Cambridge: Cambridge University Press, 1995), pp. 27-47.
+[^52]: Antonio Feros, "Twin Souls: Monarchs and Favourites in Early Seventeenth-Century Spain," in _Spain, Europe and the Atlantic World_, ed. Richard L. Kagan and Geoffrey Parker (Cambridge: Cambridge University Press, 1995), pp. 27-47.
 
-[^53]: Richard L. Kagan, *Students and Society in Early Modern Spain* (Baltimore: Johns Hopkins University Press, 1974), pp. 189-201.
+[^53]: Richard L. Kagan, _Students and Society in Early Modern Spain_ (Baltimore: Johns Hopkins University Press, 1974), pp. 189-201.
 
-[^54]: James C. Boyajian, *Portuguese Trade in Asia under the Habsburgs, 1580-1640* (Baltimore: Johns Hopkins University Press, 1993), pp. 112-125.
+[^54]: James C. Boyajian, _Portuguese Trade in Asia under the Habsburgs, 1580-1640_ (Baltimore: Johns Hopkins University Press, 1993), pp. 112-125.
 
-[^55]: Patrick Williams, *Philip III*, p. 34.
+[^55]: Patrick Williams, _Philip III_, p. 34.
 
-[^56]: Antonio Feros, *Kingship and Favoritism*, p. 98.
+[^56]: Antonio Feros, _Kingship and Favoritism_, p. 98.
 
-[^57]: Antonio Domínguez Ortiz and Bernard Vincent, *Historia de los moriscos*, p. 201.
+[^57]: Antonio Domínguez Ortiz and Bernard Vincent, _Historia de los moriscos_, p. 201.
 
-[^58]: Henry Kamen, *Spain 1469-1714*, p. 164.
+[^58]: Henry Kamen, _Spain 1469-1714_, p. 164.
 
-[^59]: J.H. Elliott, *Imperial Spain*, p. 286.
+[^59]: J.H. Elliott, _Imperial Spain_, p. 286.

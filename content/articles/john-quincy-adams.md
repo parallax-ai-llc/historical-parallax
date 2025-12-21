@@ -143,34 +143,34 @@ His treatment of Native Americans also draws criticism. As Secretary of State an
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1767 | Born July 11 in Braintree (Quincy), Massachusetts |
-| 1778 | Accompanies father John Adams to France at age 10 |
-| 1781 | Serves as secretary to Francis Dana, American envoy to Russia |
-| 1785 | Returns to America after years in Europe |
-| 1787 | Graduates from Harvard College |
-| 1790 | Admitted to the Massachusetts bar |
-| 1794 | Appointed Minister to the Netherlands by President Washington |
-| 1797 | Marries Louisa Catherine Johnson; appointed Minister to Prussia |
-| 1801 | Returns to United States after father loses reelection |
-| 1803 | Elected to U.S. Senate as a Federalist |
-| 1807 | Supports Jefferson's Embargo Act, breaking with Federalist Party |
-| 1809 | Appointed Minister to Russia by President Madison |
+| Year | Event                                                                     |
+| ---- | ------------------------------------------------------------------------- |
+| 1767 | Born July 11 in Braintree (Quincy), Massachusetts                         |
+| 1778 | Accompanies father John Adams to France at age 10                         |
+| 1781 | Serves as secretary to Francis Dana, American envoy to Russia             |
+| 1785 | Returns to America after years in Europe                                  |
+| 1787 | Graduates from Harvard College                                            |
+| 1790 | Admitted to the Massachusetts bar                                         |
+| 1794 | Appointed Minister to the Netherlands by President Washington             |
+| 1797 | Marries Louisa Catherine Johnson; appointed Minister to Prussia           |
+| 1801 | Returns to United States after father loses reelection                    |
+| 1803 | Elected to U.S. Senate as a Federalist                                    |
+| 1807 | Supports Jefferson's Embargo Act, breaking with Federalist Party          |
+| 1809 | Appointed Minister to Russia by President Madison                         |
 | 1814 | Leads American delegation negotiating Treaty of Ghent, ending War of 1812 |
-| 1815 | Appointed Minister to Great Britain |
-| 1817 | Appointed Secretary of State by President Monroe |
-| 1819 | Negotiates Adams-Onís (Transcontinental) Treaty with Spain |
-| 1823 | Principal author of Monroe Doctrine |
+| 1815 | Appointed Minister to Great Britain                                       |
+| 1817 | Appointed Secretary of State by President Monroe                          |
+| 1819 | Negotiates Adams-Onís (Transcontinental) Treaty with Spain                |
+| 1823 | Principal author of Monroe Doctrine                                       |
 | 1824 | Runs for president in four-way race; no candidate wins electoral majority |
-| 1825 | Elected president by House of Representatives; inaugurated March 4 |
-| 1828 | Loses reelection bid to Andrew Jackson in landslide |
-| 1829 | Son George Washington Adams dies; leaves presidency |
-| 1830 | Elected to U.S. House of Representatives from Massachusetts |
-| 1836 | Southern congressmen implement "gag rule" on antislavery petitions |
-| 1841 | Argues Amistad case before Supreme Court, winning freedom for captives |
-| 1844 | Gag rule repealed after Adams's eight-year campaign |
-| 1848 | Collapses on House floor February 21; dies February 23 at age 80 |
+| 1825 | Elected president by House of Representatives; inaugurated March 4        |
+| 1828 | Loses reelection bid to Andrew Jackson in landslide                       |
+| 1829 | Son George Washington Adams dies; leaves presidency                       |
+| 1830 | Elected to U.S. House of Representatives from Massachusetts               |
+| 1836 | Southern congressmen implement "gag rule" on antislavery petitions        |
+| 1841 | Argues Amistad case before Supreme Court, winning freedom for captives    |
+| 1844 | Gag rule repealed after Adams's eight-year campaign                       |
+| 1848 | Collapses on House floor February 21; dies February 23 at age 80          |
 
 ---
 
@@ -190,120 +190,236 @@ His treatment of Native Americans also draws criticism. As Secretary of State an
 
 ## References
 
-[^1]: Nagel, Paul C. *John Quincy Adams: A Public Life, a Private Life*. New York: Alfred A. Knopf, 1997.
-[^2]: Holton, Woody. *Abigail Adams*. New York: Free Press, 2009.
-[^3]: Bemis, Samuel Flagg. *John Quincy Adams and the Foundations of American Foreign Policy*. New York: Alfred A. Knopf, 1949.
-[^4]: Traub, James. *John Quincy Adams: Militant Spirit*. New York: Basic Books, 2016.
-[^5]: Hargreaves, Mary W. M. *The Presidency of John Quincy Adams*. Lawrence: University Press of Kansas, 1985.
-[^6]: Wheelan, Joseph. *Mr. Adams's Last Crusade: John Quincy Adams's Extraordinary Post-Presidential Life in Congress*. New York: PublicAffairs, 2008.
-[^7]: Kaplan, Fred. *John Quincy Adams: American Visionary*. New York: Harper, 2014.
-[^8]: Shepherd, Jack. *Cannibals of the Heart: A Personal Biography of Louisa Catherine and John Quincy Adams*. New York: McGraw-Hill, 1980.
-[^9]: Adams, John Quincy. *Diaries*. Edited by David Waldstreicher. 2 vols. New York: Library of America, 2017.
-[^10]: Bemis, *John Quincy Adams and the Foundations of American Foreign Policy*, 28-45.
-[^11]: Parsons, Lynn Hudson. *John Quincy Adams*. Madison: Madison House, 1998.
-[^12]: Remini, Robert V. *John Quincy Adams*. New York: Times Books, 2002.
-[^13]: Cooper, William J., Jr. *The Lost Founding Father: John Quincy Adams and the Transformation of American Politics*. New York: Liveright, 2017.
-[^14]: Traub, *John Quincy Adams: Militant Spirit*, 156-178.
-[^15]: Hickey, Donald R. *The War of 1812: A Forgotten Conflict*. Urbana: University of Illinois Press, 1989.
-[^16]: Weeks, William Earl. *John Quincy Adams and American Global Empire*. Lexington: University Press of Kentucky, 1992.
-[^17]: Brooks, Philip Coolidge. *Diplomacy and the Borderlands: The Adams-Onís Treaty of 1819*. Berkeley: University of California Press, 1939.
-[^18]: Perkins, Dexter. *The Monroe Doctrine, 1823-1826*. Cambridge: Harvard University Press, 1927.
-[^19]: Parsons, Lynn Hudson. *The Birth of Modern Politics: Andrew Jackson, John Quincy Adams, and the Election of 1828*. New York: Oxford University Press, 2009.
-[^20]: Howe, Daniel Walker. *What Hath God Wrought: The Transformation of America, 1815-1848*. New York: Oxford University Press, 2007.
-[^21]: Watson, Harry L. *Liberty and Power: The Politics of Jacksonian America*. New York: Hill and Wang, 1990.
-[^22]: Weeks, *John Quincy Adams and American Global Empire*, 86-112.
-[^23]: Weber, David J. *The Spanish Frontier in North America*. New Haven: Yale University Press, 1992.
-[^24]: Lewis, James E., Jr. *John Quincy Adams: Policymaker for the Union*. Wilmington, DE: SR Books, 2001.
-[^25]: May, Ernest R. *The Making of the Monroe Doctrine*. Cambridge: Harvard University Press, 1975.
-[^26]: Smith, Gaddis. *The Last Years of the Monroe Doctrine, 1945-1993*. New York: Hill and Wang, 1994.
-[^27]: Hargreaves, *The Presidency of John Quincy Adams*, 67-95.
-[^28]: Richardson, James D., ed. *A Compilation of the Messages and Papers of the Presidents*. Vol. 2. Washington, DC: Government Printing Office, 1896.
-[^29]: Kaplan, *John Quincy Adams: American Visionary*, 389-415.
-[^30]: Hargreaves, *The Presidency of John Quincy Adams*, 156-189.
-[^31]: Taylor, George Rogers. *The Transportation Revolution, 1815-1860*. New York: Rinehart, 1951.
-[^32]: Lewis, *John Quincy Adams: Policymaker for the Union*, 98-123.
-[^33]: Wheelan, *Mr. Adams's Last Crusade*, 1-28.
-[^34]: Miller, William Lee. *Arguing About Slavery: The Great Battle in the United States Congress*. New York: Alfred A. Knopf, 1996.
-[^35]: Richards, Leonard L. *The Life and Times of Congressman John Quincy Adams*. New York: Oxford University Press, 1986.
-[^36]: Miller, *Arguing About Slavery*, 234-312.
-[^37]: Richards, *The Life and Times of Congressman John Quincy Adams*, 134-167.
-[^38]: Jones, Howard. *Mutiny on the Amistad: The Saga of a Slave Revolt and Its Impact on American Abolition, Law, and Diplomacy*. New York: Oxford University Press, 1987.
-[^39]: Waldstreicher, David. *Slavery's Constitution: From Revolution to Ratification*. New York: Hill and Wang, 2009.
-[^40]: Parsons, *The Birth of Modern Politics*, 45-78.
-[^41]: Remini, Robert V. *The Election of Andrew Jackson*. Philadelphia: J.B. Lippincott, 1963.
-[^42]: Howe, *What Hath God Wrought*, 205-242.
-[^43]: Hargreaves, *The Presidency of John Quincy Adams*, 96-155.
-[^44]: Watson, *Liberty and Power*, 89-112.
-[^45]: Remini, *John Quincy Adams*, 78-95.
-[^46]: Wilentz, Sean. *The Rise of American Democracy: Jefferson to Lincoln*. New York: W.W. Norton, 2005.
-[^47]: Parsons, *John Quincy Adams*, 156-189.
-[^48]: Freehling, William W. *Prelude to Civil War: The Nullification Controversy in South Carolina, 1816-1836*. New York: Harper & Row, 1966.
-[^49]: Ellis, Richard E. *The Union at Risk: Jacksonian Democracy, States' Rights, and the Nullification Crisis*. New York: Oxford University Press, 1987.
-[^50]: Parsons, *The Birth of Modern Politics*, 134-178.
-[^51]: Remini, Robert V. *Andrew Jackson and the Course of American Freedom, 1822-1832*. New York: Harper & Row, 1981.
-[^52]: Richards, *The Life and Times of Congressman John Quincy Adams*, 98-133.
-[^53]: Miller, *Arguing About Slavery*, 423-467.
-[^54]: Newmyer, R. Kent. *The Supreme Court under Marshall and Taney*. Arlington Heights, IL: Harlan Davidson, 1968.
-[^55]: Shepherd, *Cannibals of the Heart*, 78-103.
-[^56]: Allgor, Catherine. *Parlor Politics: In Which the Ladies of Washington Help Build a City and a Government*. Charlottesville: University Press of Virginia, 2000.
-[^57]: Heffron, Margery M. *Louisa Catherine: The Other Mrs. Adams*. New Haven: Yale University Press, 2014.
-[^58]: Nagel, *John Quincy Adams: A Public Life, a Private Life*, 234-267.
-[^59]: Shepherd, *Cannibals of the Heart*, 456-478.
-[^60]: Nagel, *John Quincy Adams: A Public Life, a Private Life*, 345-356.
-[^61]: Duberman, Martin. *Charles Francis Adams, 1807-1886*. Boston: Houghton Mifflin, 1961.
-[^62]: Adams, *Diaries*, introduction by David Waldstreicher.
-[^63]: Seale, William. *The President's House: A History*. 2 vols. Washington, DC: White House Historical Association, 1986.
-[^64]: Kaplan, *John Quincy Adams: American Visionary*, 234-267.
-[^65]: Nagel, *John Quincy Adams: A Public Life, a Private Life*, 89-134.
-[^66]: Ellis, Joseph J. *Passionate Sage: The Character and Legacy of John Adams*. New York: W.W. Norton, 1993.
-[^67]: Parsons, *John Quincy Adams*, 234-256.
-[^68]: Brookhiser, Richard. *America's First Dynasty: The Adamses, 1735-1918*. New York: Free Press, 2002.
-[^69]: Kaplan, *John Quincy Adams: American Visionary*, 412-445.
-[^70]: Traub, *John Quincy Adams: Militant Spirit*, 345-378.
-[^71]: Heffron, *Louisa Catherine: The Other Mrs. Adams*, 234-289.
-[^72]: Adams, Louisa Catherine. *The Adventures of a Nobody*. In *A Traveled First Lady: Writings of Louisa Catherine Adams*, edited by Margaret A. Hogan and C. James Taylor. Cambridge: Harvard University Press, 2014.
+[^1]: Nagel, Paul C. _John Quincy Adams: A Public Life, a Private Life_. New York: Alfred A. Knopf, 1997.
+
+[^2]: Holton, Woody. _Abigail Adams_. New York: Free Press, 2009.
+
+[^3]: Bemis, Samuel Flagg. _John Quincy Adams and the Foundations of American Foreign Policy_. New York: Alfred A. Knopf, 1949.
+
+[^4]: Traub, James. _John Quincy Adams: Militant Spirit_. New York: Basic Books, 2016.
+
+[^5]: Hargreaves, Mary W. M. _The Presidency of John Quincy Adams_. Lawrence: University Press of Kansas, 1985.
+
+[^6]: Wheelan, Joseph. _Mr. Adams's Last Crusade: John Quincy Adams's Extraordinary Post-Presidential Life in Congress_. New York: PublicAffairs, 2008.
+
+[^7]: Kaplan, Fred. _John Quincy Adams: American Visionary_. New York: Harper, 2014.
+
+[^8]: Shepherd, Jack. _Cannibals of the Heart: A Personal Biography of Louisa Catherine and John Quincy Adams_. New York: McGraw-Hill, 1980.
+
+[^9]: Adams, John Quincy. _Diaries_. Edited by David Waldstreicher. 2 vols. New York: Library of America, 2017.
+
+[^10]: Bemis, _John Quincy Adams and the Foundations of American Foreign Policy_, 28-45.
+
+[^11]: Parsons, Lynn Hudson. _John Quincy Adams_. Madison: Madison House, 1998.
+
+[^12]: Remini, Robert V. _John Quincy Adams_. New York: Times Books, 2002.
+
+[^13]: Cooper, William J., Jr. _The Lost Founding Father: John Quincy Adams and the Transformation of American Politics_. New York: Liveright, 2017.
+
+[^14]: Traub, _John Quincy Adams: Militant Spirit_, 156-178.
+
+[^15]: Hickey, Donald R. _The War of 1812: A Forgotten Conflict_. Urbana: University of Illinois Press, 1989.
+
+[^16]: Weeks, William Earl. _John Quincy Adams and American Global Empire_. Lexington: University Press of Kentucky, 1992.
+
+[^17]: Brooks, Philip Coolidge. _Diplomacy and the Borderlands: The Adams-Onís Treaty of 1819_. Berkeley: University of California Press, 1939.
+
+[^18]: Perkins, Dexter. _The Monroe Doctrine, 1823-1826_. Cambridge: Harvard University Press, 1927.
+
+[^19]: Parsons, Lynn Hudson. _The Birth of Modern Politics: Andrew Jackson, John Quincy Adams, and the Election of 1828_. New York: Oxford University Press, 2009.
+
+[^20]: Howe, Daniel Walker. _What Hath God Wrought: The Transformation of America, 1815-1848_. New York: Oxford University Press, 2007.
+
+[^21]: Watson, Harry L. _Liberty and Power: The Politics of Jacksonian America_. New York: Hill and Wang, 1990.
+
+[^22]: Weeks, _John Quincy Adams and American Global Empire_, 86-112.
+
+[^23]: Weber, David J. _The Spanish Frontier in North America_. New Haven: Yale University Press, 1992.
+
+[^24]: Lewis, James E., Jr. _John Quincy Adams: Policymaker for the Union_. Wilmington, DE: SR Books, 2001.
+
+[^25]: May, Ernest R. _The Making of the Monroe Doctrine_. Cambridge: Harvard University Press, 1975.
+
+[^26]: Smith, Gaddis. _The Last Years of the Monroe Doctrine, 1945-1993_. New York: Hill and Wang, 1994.
+
+[^27]: Hargreaves, _The Presidency of John Quincy Adams_, 67-95.
+
+[^28]: Richardson, James D., ed. _A Compilation of the Messages and Papers of the Presidents_. Vol. 2. Washington, DC: Government Printing Office, 1896.
+
+[^29]: Kaplan, _John Quincy Adams: American Visionary_, 389-415.
+
+[^30]: Hargreaves, _The Presidency of John Quincy Adams_, 156-189.
+
+[^31]: Taylor, George Rogers. _The Transportation Revolution, 1815-1860_. New York: Rinehart, 1951.
+
+[^32]: Lewis, _John Quincy Adams: Policymaker for the Union_, 98-123.
+
+[^33]: Wheelan, _Mr. Adams's Last Crusade_, 1-28.
+
+[^34]: Miller, William Lee. _Arguing About Slavery: The Great Battle in the United States Congress_. New York: Alfred A. Knopf, 1996.
+
+[^35]: Richards, Leonard L. _The Life and Times of Congressman John Quincy Adams_. New York: Oxford University Press, 1986.
+
+[^36]: Miller, _Arguing About Slavery_, 234-312.
+
+[^37]: Richards, _The Life and Times of Congressman John Quincy Adams_, 134-167.
+
+[^38]: Jones, Howard. _Mutiny on the Amistad: The Saga of a Slave Revolt and Its Impact on American Abolition, Law, and Diplomacy_. New York: Oxford University Press, 1987.
+
+[^39]: Waldstreicher, David. _Slavery's Constitution: From Revolution to Ratification_. New York: Hill and Wang, 2009.
+
+[^40]: Parsons, _The Birth of Modern Politics_, 45-78.
+
+[^41]: Remini, Robert V. _The Election of Andrew Jackson_. Philadelphia: J.B. Lippincott, 1963.
+
+[^42]: Howe, _What Hath God Wrought_, 205-242.
+
+[^43]: Hargreaves, _The Presidency of John Quincy Adams_, 96-155.
+
+[^44]: Watson, _Liberty and Power_, 89-112.
+
+[^45]: Remini, _John Quincy Adams_, 78-95.
+
+[^46]: Wilentz, Sean. _The Rise of American Democracy: Jefferson to Lincoln_. New York: W.W. Norton, 2005.
+
+[^47]: Parsons, _John Quincy Adams_, 156-189.
+
+[^48]: Freehling, William W. _Prelude to Civil War: The Nullification Controversy in South Carolina, 1816-1836_. New York: Harper & Row, 1966.
+
+[^49]: Ellis, Richard E. _The Union at Risk: Jacksonian Democracy, States' Rights, and the Nullification Crisis_. New York: Oxford University Press, 1987.
+
+[^50]: Parsons, _The Birth of Modern Politics_, 134-178.
+
+[^51]: Remini, Robert V. _Andrew Jackson and the Course of American Freedom, 1822-1832_. New York: Harper & Row, 1981.
+
+[^52]: Richards, _The Life and Times of Congressman John Quincy Adams_, 98-133.
+
+[^53]: Miller, _Arguing About Slavery_, 423-467.
+
+[^54]: Newmyer, R. Kent. _The Supreme Court under Marshall and Taney_. Arlington Heights, IL: Harlan Davidson, 1968.
+
+[^55]: Shepherd, _Cannibals of the Heart_, 78-103.
+
+[^56]: Allgor, Catherine. _Parlor Politics: In Which the Ladies of Washington Help Build a City and a Government_. Charlottesville: University Press of Virginia, 2000.
+
+[^57]: Heffron, Margery M. _Louisa Catherine: The Other Mrs. Adams_. New Haven: Yale University Press, 2014.
+
+[^58]: Nagel, _John Quincy Adams: A Public Life, a Private Life_, 234-267.
+
+[^59]: Shepherd, _Cannibals of the Heart_, 456-478.
+
+[^60]: Nagel, _John Quincy Adams: A Public Life, a Private Life_, 345-356.
+
+[^61]: Duberman, Martin. _Charles Francis Adams, 1807-1886_. Boston: Houghton Mifflin, 1961.
+
+[^62]: Adams, _Diaries_, introduction by David Waldstreicher.
+
+[^63]: Seale, William. _The President's House: A History_. 2 vols. Washington, DC: White House Historical Association, 1986.
+
+[^64]: Kaplan, _John Quincy Adams: American Visionary_, 234-267.
+
+[^65]: Nagel, _John Quincy Adams: A Public Life, a Private Life_, 89-134.
+
+[^66]: Ellis, Joseph J. _Passionate Sage: The Character and Legacy of John Adams_. New York: W.W. Norton, 1993.
+
+[^67]: Parsons, _John Quincy Adams_, 234-256.
+
+[^68]: Brookhiser, Richard. _America's First Dynasty: The Adamses, 1735-1918_. New York: Free Press, 2002.
+
+[^69]: Kaplan, _John Quincy Adams: American Visionary_, 412-445.
+
+[^70]: Traub, _John Quincy Adams: Militant Spirit_, 345-378.
+
+[^71]: Heffron, _Louisa Catherine: The Other Mrs. Adams_, 234-289.
+
+[^72]: Adams, Louisa Catherine. _The Adventures of a Nobody_. In _A Traveled First Lady: Writings of Louisa Catherine Adams_, edited by Margaret A. Hogan and C. James Taylor. Cambridge: Harvard University Press, 2014.
+
 [^73]: C-SPAN Presidential Historians Survey 2021. C-SPAN, accessed December 2025.
-[^74]: Bemis, *John Quincy Adams and the Foundations of American Foreign Policy*, 567-589.
-[^75]: Gaddis, John Lewis. *Surprise, Security, and the American Experience*. Cambridge: Harvard University Press, 2004.
-[^76]: Weeks, *John Quincy Adams and American Global Empire*, 189-234.
-[^77]: Merk, Frederick. *Manifest Destiny and Mission in American History*. New York: Alfred A. Knopf, 1963.
-[^78]: Miller, *Arguing About Slavery*, 534-567.
-[^79]: Jones, *Mutiny on the Amistad*, 167-201.
-[^80]: Fehrenbacher, Don E. *The Slaveholding Republic: An Account of the United States Government's Relations to Slavery*. New York: Oxford University Press, 2001.
-[^81]: Larson, John Lauritz. *Internal Improvement: National Public Works and the Promise of Popular Government in the Early United States*. Chapel Hill: University of North Carolina Press, 2001.
-[^82]: Hofstadter, Richard. *The American Political Tradition and the Men Who Made It*. New York: Alfred A. Knopf, 1948.
-[^83]: Cooper, *The Lost Founding Father*, 345-389.
-[^84]: Waldstreicher, David, ed. *The Diaries of John Quincy Adams: A Digital Collection*. Massachusetts Historical Society, 2004.
-[^85]: Wood, Gordon S. *Empire of Liberty: A History of the Early Republic, 1789-1815*. New York: Oxford University Press, 2009.
-[^86]: Wilentz, *The Rise of American Democracy*, 456-489.
-[^87]: Duberman, *Charles Francis Adams, 1807-1886*, 234-312.
-[^88]: Brookhiser, *America's First Dynasty*, 234-289.
-[^89]: Bemis, *John Quincy Adams and the Foundations of American Foreign Policy*, 567.
-[^90]: LaFeber, Walter. *The American Age: United States Foreign Policy at Home and Abroad Since 1750*. 2nd ed. New York: W.W. Norton, 1994.
-[^91]: Miller, William Lee. *Arguing About Slavery*, 567-589.
-[^92]: Jones, *Mutiny on the Amistad*, 201-234.
-[^93]: Remini, *John Quincy Adams*, 134-156.
-[^94]: White, Leonard D. *The Jacksonians: A Study in Administrative History, 1829-1861*. New York: Macmillan, 1954.
-[^95]: Larson, *Internal Improvement*, 178-234.
-[^96]: Kaplan, *John Quincy Adams: American Visionary*, 567-589.
-[^97]: Waldstreicher, introduction to Adams, *Diaries*, xvii-xxxiv.
-[^98]: Nagel, *John Quincy Adams: A Public Life, a Private Life*, 456-489.
-[^99]: Nagel, Paul C. *Descent from Glory: Four Generations of the John Adams Family*. New York: Oxford University Press, 1983.
-[^100]: Wilentz, *The Rise of American Democracy*, 289-334.
-[^101]: Watson, *Liberty and Power*, 134-167.
-[^102]: Parsons, *The Birth of Modern Politics*, 178-234.
-[^103]: Howe, *What Hath God Wrought*, 242-278.
-[^104]: Freehling, *Prelude to Civil War*, 89-134.
-[^105]: Ellis, *The Union at Risk*, 156-189.
-[^106]: Parsons, *John Quincy Adams*, 289-334.
-[^107]: Nagel, *John Quincy Adams: A Public Life, a Private Life*, 234-267.
-[^108]: Davis, David Brion. *Inhuman Bondage: The Rise and Fall of Slavery in the New World*. New York: Oxford University Press, 2006.
-[^109]: Richards, *The Life and Times of Congressman John Quincy Adams*, 234-267.
-[^110]: Fehrenbacher, *The Slaveholding Republic*, 178-212.
-[^111]: Prucha, Francis Paul. *American Indian Policy in the Formative Years: The Indian Trade and Intercourse Acts, 1790-1834*. Cambridge: Harvard University Press, 1962.
-[^112]: Howe, *What Hath God Wrought*, 342-389.
-[^113]: Kaplan, *John Quincy Adams: American Visionary*, 234.
+
+[^74]: Bemis, _John Quincy Adams and the Foundations of American Foreign Policy_, 567-589.
+
+[^75]: Gaddis, John Lewis. _Surprise, Security, and the American Experience_. Cambridge: Harvard University Press, 2004.
+
+[^76]: Weeks, _John Quincy Adams and American Global Empire_, 189-234.
+
+[^77]: Merk, Frederick. _Manifest Destiny and Mission in American History_. New York: Alfred A. Knopf, 1963.
+
+[^78]: Miller, _Arguing About Slavery_, 534-567.
+
+[^79]: Jones, _Mutiny on the Amistad_, 167-201.
+
+[^80]: Fehrenbacher, Don E. _The Slaveholding Republic: An Account of the United States Government's Relations to Slavery_. New York: Oxford University Press, 2001.
+
+[^81]: Larson, John Lauritz. _Internal Improvement: National Public Works and the Promise of Popular Government in the Early United States_. Chapel Hill: University of North Carolina Press, 2001.
+
+[^82]: Hofstadter, Richard. _The American Political Tradition and the Men Who Made It_. New York: Alfred A. Knopf, 1948.
+
+[^83]: Cooper, _The Lost Founding Father_, 345-389.
+
+[^84]: Waldstreicher, David, ed. _The Diaries of John Quincy Adams: A Digital Collection_. Massachusetts Historical Society, 2004.
+
+[^85]: Wood, Gordon S. _Empire of Liberty: A History of the Early Republic, 1789-1815_. New York: Oxford University Press, 2009.
+
+[^86]: Wilentz, _The Rise of American Democracy_, 456-489.
+
+[^87]: Duberman, _Charles Francis Adams, 1807-1886_, 234-312.
+
+[^88]: Brookhiser, _America's First Dynasty_, 234-289.
+
+[^89]: Bemis, _John Quincy Adams and the Foundations of American Foreign Policy_, 567.
+
+[^90]: LaFeber, Walter. _The American Age: United States Foreign Policy at Home and Abroad Since 1750_. 2nd ed. New York: W.W. Norton, 1994.
+
+[^91]: Miller, William Lee. _Arguing About Slavery_, 567-589.
+
+[^92]: Jones, _Mutiny on the Amistad_, 201-234.
+
+[^93]: Remini, _John Quincy Adams_, 134-156.
+
+[^94]: White, Leonard D. _The Jacksonians: A Study in Administrative History, 1829-1861_. New York: Macmillan, 1954.
+
+[^95]: Larson, _Internal Improvement_, 178-234.
+
+[^96]: Kaplan, _John Quincy Adams: American Visionary_, 567-589.
+
+[^97]: Waldstreicher, introduction to Adams, _Diaries_, xvii-xxxiv.
+
+[^98]: Nagel, _John Quincy Adams: A Public Life, a Private Life_, 456-489.
+
+[^99]: Nagel, Paul C. _Descent from Glory: Four Generations of the John Adams Family_. New York: Oxford University Press, 1983.
+
+[^100]: Wilentz, _The Rise of American Democracy_, 289-334.
+
+[^101]: Watson, _Liberty and Power_, 134-167.
+
+[^102]: Parsons, _The Birth of Modern Politics_, 178-234.
+
+[^103]: Howe, _What Hath God Wrought_, 242-278.
+
+[^104]: Freehling, _Prelude to Civil War_, 89-134.
+
+[^105]: Ellis, _The Union at Risk_, 156-189.
+
+[^106]: Parsons, _John Quincy Adams_, 289-334.
+
+[^107]: Nagel, _John Quincy Adams: A Public Life, a Private Life_, 234-267.
+
+[^108]: Davis, David Brion. _Inhuman Bondage: The Rise and Fall of Slavery in the New World_. New York: Oxford University Press, 2006.
+
+[^109]: Richards, _The Life and Times of Congressman John Quincy Adams_, 234-267.
+
+[^110]: Fehrenbacher, _The Slaveholding Republic_, 178-212.
+
+[^111]: Prucha, Francis Paul. _American Indian Policy in the Formative Years: The Indian Trade and Intercourse Acts, 1790-1834_. Cambridge: Harvard University Press, 1962.
+
+[^112]: Howe, _What Hath God Wrought_, 342-389.
+
+[^113]: Kaplan, _John Quincy Adams: American Visionary_, 234.
+
 [^114]: Adams, John Quincy. "An Address Delivered at the Request of the Committee of Arrangements for Celebrating the Anniversary of Independence, at the City of Washington on the Fourth of July 1821." Washington, DC, 1821.
-[^115]: Adams, *Diaries*, various entries 1820s-1840s.
-[^116]: Adams, *Diaries*, entry dated March 4, 1829.
-[^117]: Adams, *Diaries*, various entries throughout.
+
+[^115]: Adams, _Diaries_, various entries 1820s-1840s.
+
+[^116]: Adams, _Diaries_, entry dated March 4, 1829.
+
+[^117]: Adams, _Diaries_, various entries throughout.

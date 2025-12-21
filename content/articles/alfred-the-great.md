@@ -207,51 +207,56 @@ Some scholars, particularly in online forums and popular history discussions, qu
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 849 | Born at Wantage, Berkshire, youngest son of King Æthelwulf of Wessex |
-| 853 | First journey to Rome; confirmed by Pope Leo IV |
-| 855 | Second journey to Rome with father; witnessed coronation of Pope Benedict III |
-| 865 | Great Heathen Army arrived in England; beginning of sustained Viking invasions |
-| 868 | Married Ealhswith, daughter of Mercian nobleman Æthelred Mucel |
-| 871 | Fought at Battle of Ashdown; routed Viking forces |
-| 871 | Brother King Æthelred died; Alfred became King of Wessex (April 23) |
-| 871 | Fought nine battles against Vikings in first year of reign |
-| 875 | Naval engagement off Wessex coast; defeated Viking fleet of seven ships |
-| 878 | Surprise attack by Guthrum at Chippenham; Alfred fled to Athelney (January) |
-| 878 | Battle of Edington; decisive victory over Guthrum's forces (May) |
-| 878 | Treaty of Wedmore; Guthrum baptized with Alfred as godfather |
-| 880s | Began construction of burh system; network of fortified towns throughout Wessex |
-| 882 | Naval battle against four Danish ships |
-| 886 | Negotiated partition treaty with Danes; established Danelaw boundary along Watling Street |
-| 886 | Became King of the Anglo-Saxons (expanded title) |
-| 890 | Issued law code (Doom Book/Domboc) |
-| 891 | Commissioned the Anglo-Saxon Chronicle |
-| 892 | Last major Danish invasion of reign began |
-| 893 | Translated Gregory the Great's Pastoral Care; wrote preface lamenting decline of learning |
-| 896 | Ordered construction of fleet of 60-oar longships |
-| 896 | Naval engagement at unidentified river; mixed results against Viking ships |
-| 896 | Danish invasion of 892 finally collapsed |
-| 899 | Died October 26 at approximately age 50-51 |
-| 899 | Succeeded by son Edward the Elder |
+| Year | Event                                                                                     |
+| ---- | ----------------------------------------------------------------------------------------- |
+| 849  | Born at Wantage, Berkshire, youngest son of King Æthelwulf of Wessex                      |
+| 853  | First journey to Rome; confirmed by Pope Leo IV                                           |
+| 855  | Second journey to Rome with father; witnessed coronation of Pope Benedict III             |
+| 865  | Great Heathen Army arrived in England; beginning of sustained Viking invasions            |
+| 868  | Married Ealhswith, daughter of Mercian nobleman Æthelred Mucel                            |
+| 871  | Fought at Battle of Ashdown; routed Viking forces                                         |
+| 871  | Brother King Æthelred died; Alfred became King of Wessex (April 23)                       |
+| 871  | Fought nine battles against Vikings in first year of reign                                |
+| 875  | Naval engagement off Wessex coast; defeated Viking fleet of seven ships                   |
+| 878  | Surprise attack by Guthrum at Chippenham; Alfred fled to Athelney (January)               |
+| 878  | Battle of Edington; decisive victory over Guthrum's forces (May)                          |
+| 878  | Treaty of Wedmore; Guthrum baptized with Alfred as godfather                              |
+| 880s | Began construction of burh system; network of fortified towns throughout Wessex           |
+| 882  | Naval battle against four Danish ships                                                    |
+| 886  | Negotiated partition treaty with Danes; established Danelaw boundary along Watling Street |
+| 886  | Became King of the Anglo-Saxons (expanded title)                                          |
+| 890  | Issued law code (Doom Book/Domboc)                                                        |
+| 891  | Commissioned the Anglo-Saxon Chronicle                                                    |
+| 892  | Last major Danish invasion of reign began                                                 |
+| 893  | Translated Gregory the Great's Pastoral Care; wrote preface lamenting decline of learning |
+| 896  | Ordered construction of fleet of 60-oar longships                                         |
+| 896  | Naval engagement at unidentified river; mixed results against Viking ships                |
+| 896  | Danish invasion of 892 finally collapsed                                                  |
+| 899  | Died October 26 at approximately age 50-51                                                |
+| 899  | Succeeded by son Edward the Elder                                                         |
 
 ---
 
 ## Famous Quotes
 
 > "The saddest thing about any man is that he be ignorant, and the most exciting thing is that he knows."[^120]
+
 - On the value of knowledge and learning, reflecting Alfred's educational philosophy
 
 > "I desire to leave to the men that come after me a remembrance of me in good works."[^121]
+
 - On legacy and the purpose of kingship, demonstrating Alfred's concern for posterity
 
 > "For in prosperity a man is often puffed up with pride, whereas tribulations chasten and humble him through suffering and sorrow. In the midst of prosperity the mind is elated, and in prosperity a man forgets himself; in hardship he is forced to reflect on himself, even though he be unwilling."[^122]
+
 - From his translation of Boethius, on adversity and prosperity, particularly poignant given Alfred's experience of exile and triumph
 
 > "Do not doom one doom to the rich; another to the poor! Nor doom one doom to your friend; another to your foe!"[^123]
+
 - On impartial justice, from his law code
 
 > "Very often it has come to my mind what men of learning there were formerly throughout England, both in religious and secular orders; and how there were happy times then throughout England."[^124]
+
 - From the preface to his translation of Pastoral Care, lamenting the decline of learning in England
 
 ---
@@ -259,126 +264,249 @@ Some scholars, particularly in online forums and popular history discussions, qu
 ## References
 
 [^1]: Britannica. "Alfred | Biography, Reign, & Facts." https://www.britannica.com/biography/Alfred-king-of-Wessex
+
 [^2]: The Royal Family. "Alfred 'The Great' (r. 871-899)." https://www.royal.uk/alfred-great-r-871-899
+
 [^3]: Medieval Chronicles. "King Alfred The Great: Legacy Of Leadership And Wisdom." https://www.medievalchronicles.com/medieval-kings-2/king-alfred-the-great-a-legacy-of-leadership-and-wisdom/
+
 [^4]: History is Now Magazine. "King Alfred the Great: Warrior, Scholar, and Father of the English Nation." http://www.historyisnowmagazine.com/blog/2025/6/11/king-alfred-the-great-warrior-scholar-and-father-of-the-english-nation
+
 [^5]: Wikipedia. "Alfred the Great." https://en.wikipedia.org/wiki/Alfred_the_Great
+
 [^6]: Study.com. "King Alfred of Wessex | Life, Children & Reign." https://study.com/academy/lesson/king-alfred-wessex-family-reign.html
+
 [^7]: Britroyals. "King Alfred the Great." https://www.britroyals.com/kings.asp?id=alfred
+
 [^8]: Ducksters. "Biographies for Kids: Alfred the Great." https://www.ducksters.com/history/middle_ages/alfred_the_great.php
+
 [^9]: Historic UK. "Alfred the Great." https://www.historic-uk.com/HistoryUK/HistoryofEngland/Alfred-the-Great/
+
 [^10]: EBSCO Research. "Alfred the Great | Research Starters." https://www.ebsco.com/research-starters/biography/alfred-great
+
 [^11]: Heritage Calling. "The Life and Times of King Alfred the Great." https://heritagecalling.com/2022/10/25/the-life-and-times-of-king-alfred-the-great/
+
 [^12]: The Famous People. "Alfred The Great Biography." https://www.thefamouspeople.com/profiles/alfred-the-great-6258.php
+
 [^13]: Encyclopedia.com. "Alfred (the Great)." https://www.encyclopedia.com/people/history/british-and-irish-history-biographies/alfred-great
+
 [^14]: Wikipedia. "Great Heathen Army." https://en.wikipedia.org/wiki/Great_Heathen_Army
+
 [^15]: Warfare History Network. "Viking Tide: Alfred the Great during the Danish Invasions." https://warfarehistorynetwork.com/article/viking-tide-alfred-the-great-during-the-danish-invasions/
+
 [^16]: British Battles. "Battle of Ashdown." https://www.britishbattles.com/danish-wars/battle-of-ashdown/
+
 [^17]: EBSCO Research. "Alfred Defeats the Danes | Research Starters." https://www.ebsco.com/research-starters/history/alfred-defeats-danes
+
 [^18]: Biography Online. "King Alfred - biography and achievements." https://biographyonline.net/royalty/king-alfred.html
+
 [^19]: World History Encyclopedia. "Timeline: Alfred the Great." https://www.worldhistory.org/timeline/Alfred_the_Great/
+
 [^20]: Medium - Lessons from History. "How Alfred the Great Defeated the Vikings." https://medium.com/lessons-from-history/how-alfred-the-great-defeated-the-vikings-a3ecb3b19aab
+
 [^21]: The Anglo-Saxons. "Ealhswith." https://www.theanglosaxons.com/anglo-saxon-royalty/ealhswith/
+
 [^22]: Wikipedia. "Ealhswith." https://en.wikipedia.org/wiki/Ealhswith
+
 [^23]: Wikipedia. "Battle of Edington." https://en.wikipedia.org/wiki/Battle_of_Edington
+
 [^24]: Britannica. "Battle of Edington (878) | Description, Location, & Facts." https://www.britannica.com/topic/Battle-of-Edington
+
 [^25]: EBSCO Research. "Battle of Edington | Research Starters." https://www.ebsco.com/research-starters/military-history-and-science/battle-edington
+
 [^26]: Britannica. "What were Alfred's military achievements?" https://www.britannica.com/story/what-were-alfreds-military-achievements
+
 [^27]: History on the Net. "Alfred the Great Timeline." https://www.historyonthenet.com/alfred-the-great-timeline
+
 [^28]: The Timeline Geek. "King Alfred the Great (849-899) Timeline." https://www.thetimelinegeek.com/alfred-the-great-849-899/
+
 [^29]: Timetoast. "Timeline: King Alfred the Great." https://www.timetoast.com/timelines/king-alfred-the-great
+
 [^30]: TimeRef. "Medieval and Middle Ages History Timelines - Alfred." https://www.timeref.com/people/alfred_the_great_king_of_wessex_871_899.htm
+
 [^31]: Britain Express. "Anglo-Saxon Burhs | Alfred the Great's Fortified Towns." https://www.britainexpress.com/architecture/burhs.htm
+
 [^32]: Wikipedia. "Burh." https://en.wikipedia.org/wiki/Burh
+
 [^33]: Wikipedia. "Burghal Hidage." https://en.wikipedia.org/wiki/Burghal_Hidage
+
 [^34]: Revision World. "Anglo-Saxon Burhs." https://revisionworld.com/gcse-revision/history-gcse-revision/normans/castles/anglo-saxon-burhs
+
 [^35]: Tumblr - Medieval Universe. "Alfred the Great's Defences (the burh system)." https://www.tumblr.com/medievaluniverse/78365780000/alfred-the-greats-defences-the-burh-system
+
 [^36]: Rural Historia. "King Alfred, Fortified Wareham Against Viking Raids." https://ruralhistoria.com/2023/10/10/king-alfred/
+
 [^37]: Intriguing History. "Anglo Saxon Burhs Map." https://intriguing-history.com/anglo-saxon-burhs-map/
+
 [^38]: The Historian's Hut. "The Dramatic Naval Battle Between Vikings And King Alfred the Great's New Anglo-Saxon Longships." https://thehistorianshut.com/2018/01/02/the-dramatic-naval-battle-between-vikings-and-king-alfred-the-greats-new-anglo-saxon-longships/
+
 [^39]: War History. "Alfred the Great's Navy." https://weaponsandwarfare.com/2020/12/21/alfred-the-greats-navy/
+
 [^40]: Historia Magazine. "Was King Alfred the Great the father of the English navy?" https://historiamag.com/was-king-alfred-father-of-the-english-navy/
+
 [^41]: ScienceDaily. "Medieval texts reveal false Royal Navy origins." https://www.sciencedaily.com/releases/2020/08/200824092023.htm
+
 [^42]: Medievalists.net. "Alfred the Great did not create the Royal Navy, study finds." https://www.medievalists.net/2020/08/alfred-great-royal-navy/
+
 [^43]: Britannica. "What was the importance of literacy and learning to Alfred's rule?" https://www.britannica.com/story/what-was-the-importance-of-literacy-and-learning-to-alfreds-rule
+
 [^44]: Bible Researcher. "King Alfred's Preface to the Translation of Gregory the Great's Pastoral Care." https://www.bible-researcher.com/alfred.html
+
 [^45]: Spartacus Educational. "Alfred the Great." https://spartacus-educational.com/Alfred_the_Great.htm
+
 [^46]: Medium - Aaron Schuck Historical. "King Alfred the Great's Promotion of Literacy and Learning." https://medium.com/@aaronrschuck/king-alfred-the-greats-promotion-of-literacy-and-learning-9cfa5446bbbf
+
 [^47]: Elephango. "Who Was Alfred the Great?" https://www.elephango.com/index.cfm/pg/k12learning/lcid/13313/Who_Was_Alfred_the_Great
+
 [^48]: Great Writers Inspire. "King Alfred the Great." https://writersinspire.org/content/king-alfred-great
+
 [^49]: European Royal History. "Educational Reforms." https://europeanroyalhistory.wordpress.com/tag/educational-reforms/
+
 [^50]: Royal Museums Greenwich. "Alfred the Great constructing the First English Fleet." https://www.rmg.co.uk/collections/objects/rmgc-object-153475
+
 [^51]: Ancient Origins. "Origin of British Navy Upturned By Study." https://www.ancient-origins.net/news-history-archaeology/british-navy-0014169
+
 [^52]: Medieval Chronicles. "The Great Legacy Of Alfred The Great." https://www.medievalchronicles.com/medieval-kings-2/early-medieval-kings/alfred-the-great/
+
 [^53]: Medieval History. "Alfred the Great: The Forging of England." https://historymedieval.com/alfred-the-great-the-forging-of-england/
+
 [^54]: Florilegium 13. "The Prologue to Alfred's Law Code." https://journals.lib.unb.ca/index.php/flor/article/download/18463/20304/24489
+
 [^55]: Cambridge University. "The Laws of Alfred." https://assets.cambridge.org/97811087/44379/frontmatter/9781108744379_frontmatter.pdf
+
 [^56]: Medieval Chronicles. "Top 10 Reasons Alfred The Great Became The Most Famous Anglo Saxon King." https://www.medievalchronicles.com/medieval-history/medieval-history-periods/anglo-saxons/top-10-reasons-alfred-the-great-became-the-most-famous-anglo-saxon-king/
+
 [^57]: The History Press. "Alfred the Great: King of the Anglo-Saxons." https://thehistorypress.co.uk/article/alfred-the-great-king-of-the-anglo-saxons/
+
 [^58]: The History of England. "Asser on the character of Alfred the Great." https://thehistoryofengland.co.uk/resource/asser-on-the-character-of-alfred-the-great/
+
 [^59]: History Today. "Alfred the Great: The Most Perfect Man in History?" https://www.historytoday.com/archive/alfred-great-most-perfect-man-history
+
 [^60]: Cambridge University Press. "The Political Thought of King Alfred the Great." https://www.cambridge.org/core/books/political-thought-of-king-alfred-the-great/F645CB9E55444CAAE4E5B2FB71DCDC56
+
 [^61]: The Conversation. "New research indicates that Alfred the Great probably wasn't that great." https://theconversation.com/new-research-indicates-that-alfred-the-great-probably-wasnt-that-great-74464
+
 [^62]: New World Encyclopedia. "Alfred the Great." https://www.newworldencyclopedia.org/entry/Alfred_the_Great
+
 [^63]: Historum. "Is Alfred the Great Overrated?" https://historum.com/t/is-alfred-the-great-overrated.131783/
+
 [^64]: IMDb. "Alfred the Great (1969) - User reviews." https://www.imdb.com/title/tt0064000/reviews/
+
 [^65]: Ogdoad. "Alfred's towns, the burhs." http://www.ogdoad.force9.co.uk/alfred/alfhidage.htm
+
 [^66]: The History of England. "8 Reconstruction and Defence." https://thehistoryofengland.co.uk/blog/2011/01/19/8-reconstruction-and-defence-2/
+
 [^67]: Grokipedia. "Burh." https://grokipedia.com/page/Burh
+
 [^68]: Medieval Chronicles. "Unveiling The First True King Of England: Alfred The Great Or Athelstan?" https://www.medievalchronicles.com/medieval-europe/medieval-england/unveiling-the-first-true-king-of-england-alfred-the-great-or-athelstan-medieval-england/
+
 [^69]: Cultural Heritage through Image. "Alfred the Great and Crohn's Disease." https://culturalheritagethroughimage.omeka.net/items/show/118
+
 [^70]: Plowden-Wardlaw. "Ealhswith, wife of Alfred the Great." https://www.plowden-wardlaw.de/Ealhswith.php
+
 [^71]: Black Family Genealogy. "ALFRED 'THE GREAT,' KING of ENGLAND and Ealhswith Queen of England." https://www.blackfamilygenealogy.org/alfred-king-of-england-b-848-and-ealhswith-queen-of-england-b-852/
+
 [^72]: The Freelance History Writer. "Ealhswith, Wife of King Alfred the Great." https://thefreelancehistorywriter.com/2013/09/13/ealhswith-wife-of-king-alfred-the-great/
+
 [^73]: Medievalists.net. "Ealhswith, Wife of Alfred the Great." https://www.medievalists.net/2014/08/ealhswith-wife-alfred-great/
+
 [^74]: Historica Wiki. "Ealhswith." https://historica.fandom.com/wiki/Ealhswith
+
 [^75]: Rex Factor. "Ealhswith." https://rexfactor.wordpress.com/2020/01/21/ealhswith/
+
 [^76]: Familypedia. "Alfred the Great (849-899)." https://familypedia.fandom.com/wiki/Alfred_the_Great_(849-899)
+
 [^77]: Q-files. "Alfred the Great." https://www.q-files.com/history/british-kings-and-queens/alfred-the-great
+
 [^78]: GT Bradford's Junior School. "King Alfred the Great Timeline." https://www.gtbradfordsjuniorschool.org.uk/attachments/download.asp?file=386&type=pdf
+
 [^79]: Potters Wax Museum. "Alfred The Great Biography & Facts." https://www.potterswaxmuseum.com/ancient-history/alfred-the-great/
+
 [^80]: Wikimedia Commons. "File:Alfred The Great statue.JPG." https://commons.wikimedia.org/wiki/File:Alfred_The_Great_statue.JPG
+
 [^81]: Everyday Arthritis. "Alfred the Great was disabled." https://everydayarthritis.com/alfred-the-great-disabled/
+
 [^82]: Scribd. "Craig 1991 Alfred The Great A Diagnosis." https://www.scribd.com/document/719397691/craig-1991-alfred-the-great-a-diagnosis
+
 [^83]: Looper. "What Disease Does Alfred Have On Vikings Season 6, Part 2?" https://www.looper.com/305205/what-disease-does-alfred-have-on-vikings-season-6-part-2/
+
 [^84]: Medievalists.net. "Alfred the Great: a diagnosis." https://www.medievalists.net/2012/04/alfred-the-great-a-diagnosis/
+
 [^85]: SAGE Journals. "Alfred the Great: A Diagnosis." https://journals.sagepub.com/doi/pdf/10.1177/014107689108400518
+
 [^86]: Thijs Porck. "Passion, Piles and a Pebble: What Ailed Alfred the Great?" https://thijsporck.com/2015/10/29/passion-piles-and-a-pebble-what-ailed-alfred-the-great/
+
 [^87]: English Monarchs. "A history of King Alfred the Great." https://www.englishmonarchs.co.uk/saxon_6.htm
+
 [^88]: NCBI/PMC. "Alfred the Great: a diagnosis." https://pmc.ncbi.nlm.nih.gov/articles/PMC1293232/pdf/jrsocmed00124-0067.pdf
+
 [^89]: Open Companion to Early British Literature. "Alfred the Great: Preface to Pastoral Care." https://pressbooks.pub/earlybritishlit/chapter/alfred-the-great-preface-to-pastoral-care/
+
 [^90]: Cambridge University Digital Library. "Alfred the Great's Old English translation of Gregory the Great's Pastoral Care." https://cudl.lib.cam.ac.uk/view/MS-II-00002-00004/1
+
 [^91]: Old English Aerobics. "King Alfred's Preface to Gregory's Pastoral Care." https://www.oldenglishaerobics.net/alfred_preface.php
+
 [^92]: Wikipedia. "Pastoral Care." https://en.wikipedia.org/wiki/Pastoral_Care
+
 [^93]: Bucknell University. "Translation of Alfred's Prose." http://www.departments.bucknell.edu/english/courses/engl440/pastoral/translation.shtml
+
 [^94]: BYU Scholars Archive. "King Alfred and the Latin Manuscripts of Gregory's Regula Pastoralis." https://scholarsarchive.byu.edu/rmmra/vol6/iss1/2/
+
 [^95]: Translation World. "King Alfred the Great— Monarch, Scholar, Translator." https://www.translation-world.org.uk/2019/07/02/king-alfred-the-great-monarch-scholar-translator/
+
 [^96]: Anglo-Saxon Archaeology. "Religion and Learning at the Court of Alfred." http://anglo-saxon.archeurope.com/kingdoms/west-saxons/religion-and-learning-at-the-court-of-alfred/
+
 [^97]: Parker Library. "Alfred the Great's Old English Translation of Gregory the Great, De cura pastorali." https://parker.stanford.edu/parker/catalog/wd443nz9456
+
 [^98]: Retrospect Journal. "King Alfred's Victorian Millenary." https://retrospectjournal.com/2025/04/13/king-alfreds-victorian-millenary/
+
 [^99]: Wikipedia. "Cultural depictions of Alfred the Great." https://en.wikipedia.org/wiki/Cultural_depictions_of_Alfred_the_Great
+
 [^100]: Art UK. "King Alfred 'The Great' (846/849–899)." https://artuk.org/discover/artworks/king-alfred-the-great-846849899-101256
+
 [^101]: Wikimedia Commons. "Category:Statue of Alfred the Great, Southwark." https://commons.wikimedia.org/wiki/Category:Statue_of_Alfred_the_Great,_Southwark
+
 [^102]: Wikimedia Commons. "Category:Alfred the Great in icons." https://commons.wikimedia.org/wiki/Category:Alfred_the_Great_in_icons
+
 [^103]: Wikidata. "Statue of Alfred the Great." https://www.wikidata.org/wiki/Q20712051
+
 [^104]: Wikimedia Commons. "Category:King Alfred's Statue, Winchester." https://commons.wikimedia.org/wiki/Category:King_Alfred's_Statue,_Winchester
+
 [^105]: Wikimedia Commons. "Category:King Alfred's Statue, Wantage." https://commons.wikimedia.org/wiki/Category:King_Alfred's_Statue,_Wantage
+
 [^106]: Wikimedia Commons. "Category:Alfred the Great in art." https://commons.wikimedia.org/wiki/Category:Alfred_the_Great_in_art
+
 [^107]: Amazon. "Alfred the Great: War, Kingship and Culture in Anglo-Saxon England." https://www.amazon.com/Alfred-Great-Kingship-Culture-Anglo-Saxon/dp/0582040477
+
 [^108]: SJSU ScholarWorks. "Alfred of Wessex a study in accidental greatness." https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=4978&context=etd_theses
+
 [^109]: Wikipedia. "Asser." https://en.wikipedia.org/wiki/Asser
+
 [^110]: Oxford Academic. "What's in a Name? Tracing the Origins of Alfred's 'the Great'." https://academic.oup.com/ehr/article/139/596/1/7678734
+
 [^111]: Wikimedia Commons. "Portrait of King Alfred, The Great." https://commons.wikimedia.org/wiki/File:Portrait_of_King_Alfred,_The_Great_(4672776).jpg
+
 [^112]: Wikiquote. "Alfred the Great." https://en.wikiquote.org/wiki/Alfred_the_Great
+
 [^113]: Goodreads. "Alfred the Great Quotes." https://www.goodreads.com/author/quotes/5508121.Alfred_the_Great
+
 [^114]: Wikipedia. "The Proverbs of Alfred." https://en.wikipedia.org/wiki/The_Proverbs_of_Alfred
+
 [^115]: Wisdomly. "21 Thought-Provoking Quotes By Alfred the Great." https://www.wisdomly.net/alfred-the-great-6258.php
+
 [^116]: A-Z Quotes. "TOP 25 QUOTES BY ALFRED THE GREAT." https://www.azquotes.com/author/25916-Alfred_the_Great
+
 [^117]: Quote Park. "Alfred the Great Quotes (11 quotes)." https://quotepark.com/authors/alfred-the-great/
+
 [^118]: Today in Science. "King Alfred The Great Quotes." https://todayinsci.com/A/AlfredTheGreat/AlfredTheGreat-Quotations.htm
+
 [^119]: Inspiring Quotes. "Top 50 ALFRED THE GREAT quotes and sayings." https://www.inspiringquotes.us/author/8725-alfred-the-great
+
 [^120]: Picture Quotes. "Alfred The Great Quotes & Sayings (8 Quotations)." https://www.picturequotes.com/alfred-the-great-quotes
+
 [^121]: Quotes Cosmos. "Alfred the Great Quotes." https://www.quotescosmos.com/people/Alfred-the-Great.html
+
 [^122]: Potters Wax Museum. "Alfred The Great Biography & Facts." https://www.potterswaxmuseum.com/ancient-history/alfred-the-great/
+
 [^123]: Biography Online. "King Alfred - biography and achievements." https://biographyonline.net/royalty/king-alfred.html
+
 [^124]: The Famous People. "Alfred The Great Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/alfred-the-great-6258.php

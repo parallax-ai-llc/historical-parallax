@@ -56,10 +56,12 @@ Approximately 85% of eligible voters participated. Exit polls and expectations s
 ### June 13: The Fraud Claim
 
 Just two hours after polls closed—an implausibly fast count for 40 million paper ballots—the Interior Ministry announced:
+
 - Ahmadinejad: 62.6% (24.5 million votes)
 - Mousavi: 33.8% (13.2 million votes)
 
 Mousavi immediately rejected the results as "manipulation" and urged supporters to resist. Evidence cited for fraud included:
+
 - Impossibly fast announcement
 - Statistical anomalies in voting patterns
 - Reports of ballot stuffing and pre-printed ballots
@@ -70,6 +72,7 @@ Mousavi immediately rejected the results as "manipulation" and urged supporters 
 Three days after the election, an estimated 1-3 million people marched silently through Tehran from Revolution Square to Azadi (Freedom) Square—a nine-kilometer human river stretching across the capital. It was the largest demonstration in the Islamic Republic's 30-year history.
 
 **Characteristics:**
+
 - Overwhelmingly peaceful
 - Green ribbons, scarves, and headbands
 - Chants of "Where is my vote?"
@@ -85,12 +88,14 @@ Three days after the election, an estimated 1-3 million people marched silently 
 The regime responded with escalating force:
 
 **Security Forces:**
+
 - Revolutionary Guards
 - Basij paramilitaries (often young men on motorcycles)
 - Plainclothes agents
 - Special police units
 
 **Tactics:**
+
 - Beatings of protesters
 - Mass arrests (estimates range from 4,000 to 5,000)
 - Shooting into crowds
@@ -103,6 +108,7 @@ The regime responded with escalating force:
 On June 20, 2009, 26-year-old Neda Agha-Soltan was shot in the chest near protest demonstrations in Tehran. Her death was captured on cell phone video—widely distributed despite internet restrictions—showing her dying in the arms of bystanders as blood pooled around her face.
 
 **Impact:**
+
 - Video viewed millions of times globally
 - Neda became the movement's martyr
 - International outrage at Iranian government
@@ -121,6 +127,7 @@ Despite the crackdown, protests continued on national holidays:
 ### Kahrizak: Torture and Death
 
 Some detained protesters were taken to Kahrizak detention center south of Tehran. Reports emerged of:
+
 - Systematic torture
 - Rape
 - Deaths in custody
@@ -134,9 +141,11 @@ At least five detainees died at Kahrizak. The center was eventually closed on Kh
 Exact figures remain disputed:
 
 **Official Government Figures:**
+
 - 36 deaths during the protests
 
 **Opposition and Human Rights Estimates:**
+
 - Over 100 killed (possibly 250+)
 - At least 15 killed on Ashura (December 27)
 - 110 killed due to political violence (one tabulation)
@@ -149,27 +158,27 @@ Exact figures remain disputed:
 
 ### Opposition Leaders
 
-| Name | Role | Fate |
-|------|------|------|
+| Name                | Role                                          | Fate                                        |
+| ------------------- | --------------------------------------------- | ------------------------------------------- |
 | Mir-Hossein Mousavi | Presidential candidate; Green Movement leader | Under house arrest since 2011—over 13 years |
-| Mehdi Karroubi | Presidential candidate; Reformist cleric | Under house arrest since 2011 |
-| Zahra Rahnavard | Mousavi's wife; political activist | Under house arrest with husband |
+| Mehdi Karroubi      | Presidential candidate; Reformist cleric      | Under house arrest since 2011               |
+| Zahra Rahnavard     | Mousavi's wife; political activist            | Under house arrest with husband             |
 
 ### Victims
 
-| Name | Significance |
-|------|--------------|
+| Name             | Significance                                                             |
+| ---------------- | ------------------------------------------------------------------------ |
 | Neda Agha-Soltan | Philosophy student; shot June 20; video spread globally; movement martyr |
-| Sohrab Arabi | 19-year-old killed during protests; mother became activist |
-| Mohammad Kamrani | Killed at Ashura protests |
+| Sohrab Arabi     | 19-year-old killed during protests; mother became activist               |
+| Mohammad Kamrani | Killed at Ashura protests                                                |
 
 ### Regime Figures
 
-| Name | Role |
-|------|------|
-| Mahmoud Ahmadinejad | Incumbent president; declared winner |
+| Name                   | Role                                      |
+| ---------------------- | ----------------------------------------- |
+| Mahmoud Ahmadinejad    | Incumbent president; declared winner      |
 | Ayatollah Ali Khamenei | Supreme Leader; endorsed election results |
-| Sadegh Larijani | Judiciary Chief; oversaw prosecutions |
+| Sadegh Larijani        | Judiciary Chief; oversaw prosecutions     |
 
 ---
 
@@ -186,6 +195,7 @@ Exact figures remain disputed:
 ### Critical/Regime Perspective
 
 **Regime Justification:**
+
 - Election was legitimate and transparent
 - Protests were "sedition" (fitneh) instigated by foreign powers
 - Movement leaders were agents of the West
@@ -230,6 +240,7 @@ Each wave demonstrated continued demand for change despite escalating repression
 ### Continuing Imprisonment
 
 As of 2024:
+
 - Mousavi and Karroubi remain under house arrest
 - Their continued detention symbolizes the regime's refusal to reconcile
 - Many 2009 prisoners remain incarcerated or live under restrictions[^22]
@@ -238,46 +249,67 @@ As of 2024:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| June 12, 2009 | Presidential election held |
-| June 13, 2009 | Results announced: Ahmadinejad 62.6%, Mousavi 33.8%; opposition cries fraud |
-| June 14, 2009 | Protests begin in Tehran; Khamenei congratulates Ahmadinejad |
-| June 15, 2009 | Silent march of 1-3 million in Tehran |
-| June 19, 2009 | Khamenei endorses results in Friday sermon; warns of consequences for protest |
-| June 20, 2009 | Neda Agha-Soltan shot and killed; video spreads globally |
-| June-July 2009 | Mass arrests; crackdown intensifies |
-| August 2009 | Show trials of detained activists |
-| September 18, 2009 | Quds Day protests; "Death to the dictator" chants |
-| December 27, 2009 | Ashura protests; at least 15 killed |
-| February 2010 | Anniversary protests suppressed |
-| February 2011 | Mousavi and Karroubi placed under house arrest |
-| 2022 | Mahsa Amini protests echo Green Movement themes |
-| 2024 | Mousavi and Karroubi still under house arrest (13+ years) |
+| Date               | Event                                                                         |
+| ------------------ | ----------------------------------------------------------------------------- |
+| June 12, 2009      | Presidential election held                                                    |
+| June 13, 2009      | Results announced: Ahmadinejad 62.6%, Mousavi 33.8%; opposition cries fraud   |
+| June 14, 2009      | Protests begin in Tehran; Khamenei congratulates Ahmadinejad                  |
+| June 15, 2009      | Silent march of 1-3 million in Tehran                                         |
+| June 19, 2009      | Khamenei endorses results in Friday sermon; warns of consequences for protest |
+| June 20, 2009      | Neda Agha-Soltan shot and killed; video spreads globally                      |
+| June-July 2009     | Mass arrests; crackdown intensifies                                           |
+| August 2009        | Show trials of detained activists                                             |
+| September 18, 2009 | Quds Day protests; "Death to the dictator" chants                             |
+| December 27, 2009  | Ashura protests; at least 15 killed                                           |
+| February 2010      | Anniversary protests suppressed                                               |
+| February 2011      | Mousavi and Karroubi placed under house arrest                                |
+| 2022               | Mahsa Amini protests echo Green Movement themes                               |
+| 2024               | Mousavi and Karroubi still under house arrest (13+ years)                     |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Iranian Green Movement](https://en.wikipedia.org/wiki/Iranian_Green_Movement)
+
 [^2]: [Wikipedia - 2009 Election Protests](https://en.wikipedia.org/wiki/2009_Iranian_presidential_election_protests)
+
 [^3]: [Atlantic Council - Green Movement Legacy](https://www.atlanticcouncil.org/blogs/iransource/green-movement-legacy/)
+
 [^4]: [Wikipedia - Islamic Republic System](https://en.wikipedia.org/wiki/Politics_of_Iran)
+
 [^5]: [USIP - Reform vs Hardline](https://www.usip.org/publications/2009/iran-green-movement)
+
 [^6]: [Time - Election Context](https://time.com/archive/iran-election-2009/)
+
 [^7]: [Wikipedia - 2009 Election](https://en.wikipedia.org/wiki/2009_Iranian_presidential_election)
+
 [^8]: [PBS - Great March](https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2009/06/june-15-2009.html)
+
 [^9]: [HRW - Basij Violence](https://www.hrw.org/news/2009/07/24/iran-stop-basij-violence)
+
 [^10]: [Wikipedia - Neda Agha-Soltan](https://en.wikipedia.org/wiki/Death_of_Neda_Agha-Soltan)
+
 [^11]: [PBS - Continued Protests](https://www.pbs.org/wgbh/pages/frontline/tehranbureau/)
+
 [^12]: [The Guardian - Kahrizak](https://www.theguardian.com/world/2009/iran-kahrizak-detention)
+
 [^13]: [IRB - Death Toll Estimates](https://www.irb-cisr.gc.ca/en/country-information/rir/iran-green-movement)
+
 [^14]: [The Arab Weekly - Challenge](https://thearabweekly.com/iran-green-movement-10-years)
+
 [^15]: [Newsweek - Global Inspiration](https://www.newsweek.com/iran-green-movement-legacy)
+
 [^16]: [USIP - Breaking Taboos](https://www.usip.org/publications/iran-green-movement-analysis)
+
 [^17]: [EBSCO - Regime Narrative](https://www.ebscohost.com/academic/iran-2009)
+
 [^18]: [Majalla - Limited Demands](https://www.majalla.com/iran-green-movement-analysis)
+
 [^19]: [Middle East 24 - Social Movement](https://www.middleeast24.org/neda-legacy/)
+
 [^20]: [AP News - Later Protests](https://apnews.com/article/iran-protests-green-movement-legacy)
+
 [^21]: [ME Images - International Impact](https://www.meimages.com/neda-agha-soltan/)
+
 [^22]: [The Guardian - Continuing Imprisonment](https://www.theguardian.com/world/2019/mousavi-karroubi-house-arrest)

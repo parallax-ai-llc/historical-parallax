@@ -199,26 +199,26 @@ Some historians also criticize the long-term consequences of Henry's dynasty. Th
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1553 | Born December 13 in Pau, Béarn, Navarre |
-| 1555 | Mother Jeanne d'Albret becomes Queen of Navarre |
-| 1561 | Sent to French royal court |
-| 1567 | Returns to Navarre; begins military training under Gaspard de Coligny |
-| 1570 | First combat experience at Battle of Arnay-le-Duc |
-| 1572 | Becomes King Henry III of Navarre (June 9); marries Margaret of Valois (August 18) |
+| Year | Event                                                                                 |
+| ---- | ------------------------------------------------------------------------------------- |
+| 1553 | Born December 13 in Pau, Béarn, Navarre                                               |
+| 1555 | Mother Jeanne d'Albret becomes Queen of Navarre                                       |
+| 1561 | Sent to French royal court                                                            |
+| 1567 | Returns to Navarre; begins military training under Gaspard de Coligny                 |
+| 1570 | First combat experience at Battle of Arnay-le-Duc                                     |
+| 1572 | Becomes King Henry III of Navarre (June 9); marries Margaret of Valois (August 18)    |
 | 1572 | Survives St. Bartholomew's Day Massacre (August 24); forced to convert to Catholicism |
-| 1576 | Escapes French court; returns to Protestant faith |
-| 1584 | Becomes heir to French throne after death of Francis, Duke of Anjou |
-| 1587 | Wins Battle of Coutras against Catholic League forces |
-| 1589 | Henry III of France assassinated; Henry becomes King Henry IV of France (August 1) |
-| 1593 | Converts to Catholicism for second time (July 25) |
-| 1594 | Enters Paris (March 22); crowned at Chartres Cathedral (February 27) |
+| 1576 | Escapes French court; returns to Protestant faith                                     |
+| 1584 | Becomes heir to French throne after death of Francis, Duke of Anjou                   |
+| 1587 | Wins Battle of Coutras against Catholic League forces                                 |
+| 1589 | Henry III of France assassinated; Henry becomes King Henry IV of France (August 1)    |
+| 1593 | Converts to Catholicism for second time (July 25)                                     |
+| 1594 | Enters Paris (March 22); crowned at Chartres Cathedral (February 27)                  |
 | 1598 | Promulgates Edict of Nantes (April 13); Treaty of Vervins ends war with Spain (May 2) |
-| 1599 | Marriage to Margaret of Valois annulled (December) |
-| 1600 | Marries Marie de' Medici (December 17) |
-| 1601 | Birth of heir Louis (future Louis XIII) |
-| 1610 | Assassinated by François Ravaillac in Paris (May 14) |
+| 1599 | Marriage to Margaret of Valois annulled (December)                                    |
+| 1600 | Marries Marie de' Medici (December 17)                                                |
+| 1601 | Birth of heir Louis (future Louis XIII)                                               |
+| 1610 | Assassinated by François Ravaillac in Paris (May 14)                                  |
 
 ---
 
@@ -249,167 +249,331 @@ Reportedly said to one of his mistresses, exemplifying his romantic nature and t
 ## References
 
 [^1]: Britannica, "Henry IV | 1st Bourbon King of France," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^2]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^3]: TheFamousPeople, "Henry IV Of France Biography," https://www.thefamouspeople.com/profiles/henry-iv-of-france-6801.php
+
 [^4]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^5]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^6]: Encyclopedia.com, "Henry IV (1553–1610)," https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/henry-iv-1553-1610
+
 [^7]: Simple Wikipedia, "Henry IV of France," https://simple.wikipedia.org/wiki/Henry_IV_of_France
+
 [^8]: This Day in Quotes, "Paris is worth a mass," https://www.thisdayinquotes.com/2014/07/paris-is-worth-a-mass-paris-vaut-une-messe/
+
 [^9]: Study.com, "King Henry IV of France | Biography & Death," https://study.com/learn/lesson/king-henry-iv-of-france-history-biography.html
+
 [^10]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^11]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^12]: Biography.com, "Henry IV," https://www.biography.com/royalty/a45907687/henry-iv
+
 [^13]: FreedomGPT Wiki, "King Henry IV of France," https://www.freedomgpt.com/wiki/king-henry-iv-of-france
+
 [^14]: Study.com, "King Henry IV of France | Biography & Death," https://study.com/learn/lesson/king-henry-iv-of-france-history-biography.html
+
 [^15]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^16]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^17]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^18]: Lumen Learning, "The French Wars of Religion," https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-french-wars-of-religion/
+
 [^19]: World History Encyclopedia, "St. Bartholomew's Day Massacre," https://www.worldhistory.org/St._Bartholomew's_Day_Massacre/
+
 [^20]: Huguenot Society, "The massacre of St Bartholomew's day," https://www.huguenotsociety.org.uk/blog/a-sombre-anniversary-the-massacre-of-st-bartholomews-day-450-years-on
+
 [^21]: Wikipedia, "St. Bartholomew's Day massacre," https://en.wikipedia.org/wiki/St._Bartholomew's_Day_massacre
+
 [^22]: Britannica, "Massacre of Saint Bartholomew's Day," https://www.britannica.com/event/Massacre-of-Saint-Bartholomews-Day
+
 [^23]: EBSCO Research Starters, "Henry IV," https://www.ebsco.com/research-starters/history/henry-iv
+
 [^24]: Sciences Po Mass Violence Research Network, "Massacres during the Wars of Religion," https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/massacres-during-wars-religion.html
+
 [^25]: Catholic Encyclopedia, "Saint Bartholomew's Day Massacre," https://www.newadvent.org/cathen/13333b.htm
+
 [^26]: Musée Protestant, "Fourth war of Religion and Saint Bartholomew," https://museeprotestant.org/en/notice/quatrieme-guerre-de-religion-et-la-saint-barthelemy-1572-1573/
+
 [^27]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^28]: Encyclopedia.com, "Henry IV 1553–1610 King of France," https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/henry-iv-1553-1610-king-france
+
 [^29]: Simple Wikipedia, "Henry IV of France," https://simple.wikipedia.org/wiki/Henry_IV_of_France
+
 [^30]: CRRS, "Henri IV (Henry le Grand)," https://crrs.library.utoronto.ca/exhibits/show/cardinalrichelieu/henry4
+
 [^31]: WGA, "Henry IV (1553-1610)," https://www.wga.hu/database/glossary/illustr2/henry4.html
+
 [^32]: Catholic Encyclopedia, "Henry IV," https://www.newadvent.org/cathen/07225a.htm
+
 [^33]: EBSCO Research Starters, "Henry IV of France," https://www.ebsco.com/research-starters/history/henry-iv-france
+
 [^34]: Quotes.net, "King Henry IV of France: Paris is worth a mass," https://www.quotes.net/quote/48015
+
 [^35]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^36]: The History Reader, "Paris Through the Eyes of Henri IV," https://www.thehistoryreader.com/historical-figures/henri-iv/
+
 [^37]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^38]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^39]: Britannica, "Edict of Nantes," https://www.britannica.com/event/Edict-of-Nantes
+
 [^40]: World History Encyclopedia, "Henry IV of France & the Edict of Nantes," https://www.worldhistory.org/article/2031/henry-iv-of-france--the-edict-of-nantes/
+
 [^41]: Wikipedia, "Edict of Nantes," https://en.wikipedia.org/wiki/Edict_of_Nantes
+
 [^42]: Study.com, "Edict of Nantes | Definition, Revocation & Importance," https://study.com/learn/lesson/edict-of-nantes.html
+
 [^43]: Musée Protestant, "The Edict of Nantes (1598)," https://museeprotestant.org/en/notice/the-edict-of-nantes-1598/
+
 [^44]: Britannica, "Wars of Religion," https://www.britannica.com/event/Wars-of-Religion
+
 [^45]: Lumen Learning, "The French Wars of Religion," https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-french-wars-of-religion/
+
 [^46]: Lumen Learning, "Louis XIV and the Huguenots," https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/louis-xiv-and-the-huguenots/
+
 [^47]: Britannica, "Henry IV - Reformation, Edict of Nantes, Wars of Religion," https://www.britannica.com/biography/Henry-IV-king-of-France/The-achievements-of-the-reign
+
 [^48]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^49]: Britannica, "Henry IV summary," https://www.britannica.com/summary/Henry-IV-king-of-France
+
 [^50]: History Learning Site, "Henry IV," https://www.historylearningsite.co.uk/france-in-the-sixteenth-century/henry-iv/
+
 [^51]: This Day in Quotes, "Paris is worth a mass," https://www.thisdayinquotes.com/2014/07/paris-is-worth-a-mass-paris-vaut-une-messe/
+
 [^52]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^53]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^54]: The History Reader, "Paris Through the Eyes of Henri IV," https://www.thehistoryreader.com/historical-figures/henri-iv/
+
 [^55]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^56]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^57]: The History Reader, "Paris Through the Eyes of Henri IV," https://www.thehistoryreader.com/historical-figures/henri-iv/
+
 [^58]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^59]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^60]: History Learning Site, "Henry IV," https://www.historylearningsite.co.uk/france-in-the-sixteenth-century/henry-iv/
+
 [^61]: Britannica, "Henry IV summary," https://www.britannica.com/summary/Henry-IV-king-of-France
+
 [^62]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^63]: Britannica, "Henry IV - Reformation, Edict of Nantes, Wars of Religion," https://www.britannica.com/biography/Henry-IV-king-of-France/The-achievements-of-the-reign
+
 [^64]: EBSCO Research Starters, "Henry IV of France," https://www.ebsco.com/research-starters/history/henry-iv-france
+
 [^65]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^66]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^67]: EBSCO Research Starters, "Henry IV," https://www.ebsco.com/research-starters/history/henry-iv
+
 [^68]: Musée Protestant, "Fourth war of Religion and Saint Bartholomew," https://museeprotestant.org/en/notice/quatrieme-guerre-de-religion-et-la-saint-barthelemy-1572-1573/
+
 [^69]: EBSCO Research Starters, "Henry IV," https://www.ebsco.com/research-starters/history/henry-iv
+
 [^70]: This Day in Quotes, "Paris is worth a mass," https://www.thisdayinquotes.com/2014/07/paris-is-worth-a-mass-paris-vaut-une-messe/
+
 [^71]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^72]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^73]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^74]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^75]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^76]: Grokipedia, "Henry IV of France's wives and mistresses," https://grokipedia.com/page/Henry_IV_of_France's_wives_and_mistresses
+
 [^77]: Wikipedia, "Henry IV of France's wives and mistresses," https://en.wikipedia.org/wiki/Henry_IV_of_France's_wives_and_mistresses
+
 [^78]: European Royal History, "Henri IV of France and Navarre, His Wives and Mistresses," https://europeanroyalhistory.wordpress.com/2022/12/20/henri-iv-of-france-and-navarre-his-wives-and-mistresses-part-iv/
+
 [^79]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^80]: Grokipedia, "Henry IV of France's wives and mistresses," https://grokipedia.com/page/Henry_IV_of_France's_wives_and_mistresses
+
 [^81]: LiquiSearch, "Henry IV of France's Wives and Mistresses - Marie De' Medici," https://www.liquisearch.com/henry_iv_of_frances_wives_and_mistresses/marie_de_medici
+
 [^82]: Wikipedia, "Marie de' Medici," https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^83]: Britannica, "Edict of Nantes," https://www.britannica.com/event/Edict-of-Nantes
+
 [^84]: Musée Protestant, "The Edict of Nantes (1598)," https://museeprotestant.org/en/notice/the-edict-of-nantes-1598/
+
 [^85]: Study.com, "Edict of Nantes," https://study.com/learn/lesson/edict-of-nantes.html
+
 [^86]: World History Encyclopedia, "Henry IV of France & the Edict of Nantes," https://www.worldhistory.org/article/2031/henry-iv-of-france--the-edict-of-nantes/
+
 [^87]: Wikipedia, "Assassination of Henry IV," https://en.wikipedia.org/wiki/Assassination_of_Henry_IV
+
 [^88]: Wikipedia, "François Ravaillac," https://en.wikipedia.org/wiki/Fran%C3%A7ois_Ravaillac
+
 [^89]: Encyclopedia.com, "Margaret of Valois (1553–1615)," https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/margaret-valois-1553-1615
+
 [^90]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^91]: Grokipedia, "Henry IV of France's wives and mistresses," https://grokipedia.com/page/Henry_IV_of_France's_wives_and_mistresses
+
 [^92]: Wikipedia, "Henry IV of France's wives and mistresses," https://en.wikipedia.org/wiki/Henry_IV_of_France's_wives_and_mistresses
+
 [^93]: Grokipedia, "Henry IV of France's wives and mistresses," https://grokipedia.com/page/Henry_IV_of_France's_wives_and_mistresses
+
 [^94]: Fitzwilliam Museum, "Marie de' Medici (1573–1642)," https://fitzmuseum.cam.ac.uk/dept/pdp/prints/resources//portraitofthemonth//MariedeMedici.html
+
 [^95]: Wikipedia, "Descendants of Henry IV of France," https://en.wikipedia.org/wiki/Descendants_of_Henry_IV_of_France
+
 [^96]: LiquiSearch, "Marie De' Medici," https://www.liquisearch.com/henry_iv_of_frances_wives_and_mistresses/marie_de_medici
+
 [^97]: European Royal History, "Henri IV of France and Navarre, His Wives and Mistresses," https://europeanroyalhistory.wordpress.com/2022/12/20/henri-iv-of-france-and-navarre-his-wives-and-mistresses-part-iv/
+
 [^98]: Wikipedia, "Henry IV of France's wives and mistresses," https://en.wikipedia.org/wiki/Henry_IV_of_France's_wives_and_mistresses
+
 [^99]: Wikipedia, "Descendants of Henry IV of France," https://en.wikipedia.org/wiki/Descendants_of_Henry_IV_of_France
+
 [^100]: Grokipedia, "Henry IV of France's wives and mistresses," https://grokipedia.com/page/Henry_IV_of_France's_wives_and_mistresses
+
 [^101]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^102]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^103]: This Day in Quotes, "Paris is worth a mass," https://www.thisdayinquotes.com/2014/07/paris-is-worth-a-mass-paris-vaut-une-messe/
+
 [^104]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^105]: EBSCO Research Starters, "Henry IV," https://www.ebsco.com/research-starters/history/henry-iv
+
 [^106]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^107]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^108]: TheFamousPeople, "Henry IV Of France Biography," https://www.thefamouspeople.com/profiles/henry-iv-of-france-6801.php
+
 [^109]: Wikipedia, "Assassination of Henry IV," https://en.wikipedia.org/wiki/Assassination_of_Henry_IV
+
 [^110]: Britannica, "François Ravaillac," https://www.britannica.com/biography/Francois-Ravaillac
+
 [^111]: Wikipedia, "Marie de' Medici," https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^112]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^113]: Wikipedia, "Succession of Henry IV of France," https://en.wikipedia.org/wiki/Succession_of_Henry_IV_of_France
+
 [^114]: Britannica, "Henry IV - Reformation, Edict of Nantes, Wars of Religion," https://www.britannica.com/biography/Henry-IV-king-of-France/The-achievements-of-the-reign
+
 [^115]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^116]: The History Reader, "Paris Through the Eyes of Henri IV," https://www.thehistoryreader.com/historical-figures/henri-iv/
+
 [^117]: Musée Protestant, "Fourth war of Religion and Saint Bartholomew," https://museeprotestant.org/en/notice/quatrieme-guerre-de-religion-et-la-saint-barthelemy-1572-1573/
+
 [^118]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^119]: EBSCO Research Starters, "Henry IV of France," https://www.ebsco.com/research-starters/history/henry-iv-france
+
 [^120]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^121]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^122]: The History Reader, "Paris Through the Eyes of Henri IV," https://www.thehistoryreader.com/historical-figures/henri-iv/
+
 [^123]: Wikipedia, "Henry IV of France," https://en.wikipedia.org/wiki/Henry_IV_of_France
+
 [^124]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^125]: Britannica, "Edict of Nantes," https://www.britannica.com/event/Edict-of-Nantes
+
 [^126]: World History Encyclopedia, "Henry IV of France & the Edict of Nantes," https://www.worldhistory.org/article/2031/henry-iv-of-france--the-edict-of-nantes/
+
 [^127]: Study.com, "Edict of Nantes," https://study.com/learn/lesson/edict-of-nantes.html
+
 [^128]: Wikipedia, "Succession of Henry IV of France," https://en.wikipedia.org/wiki/Succession_of_Henry_IV_of_France
+
 [^129]: Wikipedia, "Descendants of Henry IV of France," https://en.wikipedia.org/wiki/Descendants_of_Henry_IV_of_France
+
 [^130]: Wikipedia, "Succession of Henry IV of France," https://en.wikipedia.org/wiki/Succession_of_Henry_IV_of_France
+
 [^131]: EBSCO Research Starters, "Henry IV of France," https://www.ebsco.com/research-starters/history/henry-iv-france
+
 [^132]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^133]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^134]: Wikipedia, "Assassination of Henry IV," https://en.wikipedia.org/wiki/Assassination_of_Henry_IV
+
 [^135]: EBSCO Research Starters, "Henry IV of France," https://www.ebsco.com/research-starters/history/henry-iv-france
+
 [^136]: Britannica, "Henry IV - Reformation, Edict of Nantes, Wars of Religion," https://www.britannica.com/biography/Henry-IV-king-of-France/The-achievements-of-the-reign
+
 [^137]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^138]: World History Encyclopedia, "Henry IV of France & the Edict of Nantes," https://www.worldhistory.org/article/2031/henry-iv-of-france--the-edict-of-nantes/
+
 [^139]: Britannica, "Edict of Nantes," https://www.britannica.com/event/Edict-of-Nantes
+
 [^140]: Britannica, "Henry IV - Reformation, Edict of Nantes, Wars of Religion," https://www.britannica.com/biography/Henry-IV-king-of-France/The-achievements-of-the-reign
+
 [^141]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^142]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^143]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^144]: EBSCO Research Starters, "Henry IV of France," https://www.ebsco.com/research-starters/history/henry-iv-france
+
 [^145]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^146]: EBSCO Research Starters, "Henry IV," https://www.ebsco.com/research-starters/history/henry-iv
+
 [^147]: EBSCO Research Starters, "Henry IV," https://www.ebsco.com/research-starters/history/henry-iv
+
 [^148]: Lumen Learning, "Louis XIV and the Huguenots," https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/louis-xiv-and-the-huguenots/
+
 [^149]: World History Encyclopedia, "Henry IV of France & the Edict of Nantes," https://www.worldhistory.org/article/2031/henry-iv-of-france--the-edict-of-nantes/
+
 [^150]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^151]: University of Michigan, "The Faux pas of a Vert-Galant," https://quod.lib.umich.edu/w/wsfh/0642292.0033.005/--faux-pas-of-a-vert-galant-the-historiography-of-henry-ivs
+
 [^152]: Wikipedia, "Henry IV of France's wives and mistresses," https://en.wikipedia.org/wiki/Henry_IV_of_France's_wives_and_mistresses
+
 [^153]: Grokipedia, "Henry IV of France's wives and mistresses," https://grokipedia.com/page/Henry_IV_of_France's_wives_and_mistresses
+
 [^154]: European Royal History, "Henri IV of France and Navarre, His Wives and Mistresses," https://europeanroyalhistory.wordpress.com/2022/12/20/henri-iv-of-france-and-navarre-his-wives-and-mistresses-part-iv/
+
 [^155]: Wikipedia, "Assassination of Henry IV," https://en.wikipedia.org/wiki/Assassination_of_Henry_IV
+
 [^156]: Britannica, "François Ravaillac," https://www.britannica.com/biography/Francois-Ravaillac
+
 [^157]: Wikipedia, "François Ravaillac," https://en.wikipedia.org/wiki/Fran%C3%A7ois_Ravaillac
+
 [^158]: Wikipedia, "Succession of Henry IV of France," https://en.wikipedia.org/wiki/Succession_of_Henry_IV_of_France
+
 [^159]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^160]: This Day in Quotes, "Paris is worth a mass," https://www.thisdayinquotes.com/2014/07/paris-is-worth-a-mass-paris-vaut-une-messe/
+
 [^161]: Part Time Parisian, "Paris Is Worth a Mass," https://www.parttimeparisian.com/p/paris-is-worth-a-mass-henri-ivs-vision
+
 [^162]: The History Reader, "Paris Through the Eyes of Henri IV," https://www.thehistoryreader.com/historical-figures/henri-iv/
+
 [^163]: Encyclopedia.com, "Henry Iv (france)," https://www.encyclopedia.com/people/history/french-history-biographies/henry-iv-france
+
 [^164]: Britannica, "Henry IV," https://www.britannica.com/biography/Henry-IV-king-of-France
+
 [^165]: Wikipedia, "Henry IV of France's wives and mistresses," https://en.wikipedia.org/wiki/Henry_IV_of_France's_wives_and_mistresses

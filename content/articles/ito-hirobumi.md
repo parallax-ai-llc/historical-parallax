@@ -153,29 +153,29 @@ International law scholars have examined Itō's Korean policies as a case study 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1841 | Born as Hayashi Risuke on October 16 in Chōshū domain (present-day Yamaguchi Prefecture) |
-| 1858 | Married Umeko; adopted into Itō family, gaining samurai status |
-| 1862 | Participated in burning of British legation in Edo |
-| 1863 | Traveled to Britain as one of the Chōshū Five to study Western technology and institutions |
-| 1864 | Returned to Japan to prevent Chōshū from attacking Western ships |
-| 1868 | Joined new Meiji government after Restoration; served in Bureau of Foreign Affairs |
-| 1870 | Traveled to United States to study monetary systems |
-| 1871-1873 | Participated in Iwakura Mission to United States and Europe |
-| 1878 | Appointed Home Minister, consolidating his position in government |
-| 1881 | Helped precipitate Political Crisis of 1881, eliminating rival Ōkuma Shigenobu |
+| Year      | Event                                                                                                         |
+| --------- | ------------------------------------------------------------------------------------------------------------- |
+| 1841      | Born as Hayashi Risuke on October 16 in Chōshū domain (present-day Yamaguchi Prefecture)                      |
+| 1858      | Married Umeko; adopted into Itō family, gaining samurai status                                                |
+| 1862      | Participated in burning of British legation in Edo                                                            |
+| 1863      | Traveled to Britain as one of the Chōshū Five to study Western technology and institutions                    |
+| 1864      | Returned to Japan to prevent Chōshū from attacking Western ships                                              |
+| 1868      | Joined new Meiji government after Restoration; served in Bureau of Foreign Affairs                            |
+| 1870      | Traveled to United States to study monetary systems                                                           |
+| 1871-1873 | Participated in Iwakura Mission to United States and Europe                                                   |
+| 1878      | Appointed Home Minister, consolidating his position in government                                             |
+| 1881      | Helped precipitate Political Crisis of 1881, eliminating rival Ōkuma Shigenobu                                |
 | 1882-1883 | Studied constitutional systems in Europe, particularly Germany, to prepare for drafting Japanese constitution |
-| 1885 | Became Japan's first Prime Minister when the office was created (first term) |
-| 1889 | Promulgation of Meiji Constitution on February 11, which he principally drafted |
-| 1892-1896 | Served second term as Prime Minister |
+| 1885      | Became Japan's first Prime Minister when the office was created (first term)                                  |
+| 1889      | Promulgation of Meiji Constitution on February 11, which he principally drafted                               |
+| 1892-1896 | Served second term as Prime Minister                                                                          |
 | 1894-1895 | Participated in peace negotiations ending First Sino-Japanese War; represented Japan at Treaty of Shimonoseki |
-| 1898 | Served third term as Prime Minister (brief) |
-| 1900 | Founded Rikken Seiyūkai political party |
-| 1900-1901 | Served fourth and final term as Prime Minister |
-| 1905 | Appointed first Resident-General of Korea following protectorate treaty |
-| 1907 | Forced Korean Emperor Gojong to abdicate following Hague Secret Emissary Affair |
-| 1909 | Assassinated by Korean independence activist An Jung-geun on October 26 in Harbin, Manchuria |
+| 1898      | Served third term as Prime Minister (brief)                                                                   |
+| 1900      | Founded Rikken Seiyūkai political party                                                                       |
+| 1900-1901 | Served fourth and final term as Prime Minister                                                                |
+| 1905      | Appointed first Resident-General of Korea following protectorate treaty                                       |
+| 1907      | Forced Korean Emperor Gojong to abdicate following Hague Secret Emissary Affair                               |
+| 1909      | Assassinated by Korean independence activist An Jung-geun on October 26 in Harbin, Manchuria                  |
 
 ---
 
@@ -195,128 +195,252 @@ International law scholars have examined Itō's Korean policies as a case study 
 
 ## References
 
-[^1]: Akita, George. "Itō Hirobumi and the Genesis of the Meiji Constitution." *Journal of Asian Studies* 25.3 (1966): 421-436.
-[^2]: Hamada, Kengi. *Prince Ito*. Tokyo: Sanseido Co., 1936.
-[^3]: Huber, Thomas M. *The Revolutionary Origins of Modern Japan*. Stanford: Stanford University Press, 1981.
-[^4]: Jansen, Marius B. *The Making of Modern Japan*. Cambridge: Harvard University Press, 2000.
-[^5]: Beasley, W.G. *The Meiji Restoration*. Stanford: Stanford University Press, 1972.
-[^6]: Nish, Ian. *The Iwakura Mission in America and Europe: A New Assessment*. Richmond: Japan Library, 1998.
-[^7]: Vlastos, Stephen. "Opposition Movements in Early Meiji, 1868-1885." *The Cambridge History of Japan, Vol. 5*. Cambridge: Cambridge University Press, 1989.
-[^8]: Craig, Albert M. *Chōshū in the Meiji Restoration*. Cambridge: Harvard University Press, 1961.
-[^9]: Gordon, Andrew. *A Modern History of Japan: From Tokugawa Times to the Present*. Oxford: Oxford University Press, 2003.
-[^10]: Pittau, Joseph. *Political Thought in Early Meiji Japan, 1868-1889*. Cambridge: Harvard University Press, 1967.
-[^11]: Checkland, Olive. *Britain's Encounter with Meiji Japan, 1868-1912*. London: Macmillan, 1989.
-[^12]: Soviak, Eugene. "On the Nature of Western Progress: The Journal of the Iwakura Embassy." *Tradition and Modernization in Japanese Culture*. Princeton: Princeton University Press, 1971.
-[^13]: Siemes, Johannes. *Hermann Roesler and the Making of the Meiji State*. Tokyo: Sophia University, 1966.
-[^14]: Beckmann, George M. *The Making of the Meiji Constitution: The Oligarchs and the Constitutional Development of Japan, 1868-1891*. Lawrence: University of Kansas Press, 1957.
-[^15]: Hackett, Roger F. *Yamagata Aritomo in the Rise of Modern Japan, 1838-1922*. Cambridge: Harvard University Press, 1971.
-[^16]: Scalapino, Robert A. *Democracy and the Party Movement in Prewar Japan*. Berkeley: University of California Press, 1953.
-[^17]: Ike, Nobutaka. *The Beginnings of Political Democracy in Japan*. Baltimore: Johns Hopkins Press, 1950.
-[^18]: Banno, Junji. *The Establishment of the Japanese Constitutional System*. Translated by J.A.A. Stockwin. London: Routledge, 1992.
-[^19]: Miller, Frank O. *Minobe Tatsukichi: Interpreter of Constitutionalism in Japan*. Berkeley: University of California Press, 1965.
-[^20]: Matsumoto, Sannosuke. "The Roots of Political Disillusionment: 'Public' and 'Private' in Japan." *Authority and the Individual in Japan*. Tokyo: University of Tokyo Press, 1978.
-[^21]: Najita, Tetsuo. *Japan: The Intellectual Foundations of Modern Japanese Politics*. Chicago: University of Chicago Press, 1974.
-[^22]: Itō Hirobumi. *Commentaries on the Constitution of the Empire of Japan*. Translated by Itō Miyoji. Tokyo: Igirisu Hōritsu Gakkō, 1889.
-[^23]: McLaren, Walter W. *A Political History of Japan During the Meiji Era, 1867-1912*. London: George Allen & Unwin, 1916.
-[^24]: Siebold, Carl. "Itō Hirobumi and the First Anglo-Japanese Alliance." *The Pacific Historical Review* 16.1 (1947): 13-24.
-[^25]: Quigley, Harold S. *Japanese Government and Politics: An Introductory Study*. New York: Century Co., 1932.
-[^26]: Colegrove, Kenneth. "The Japanese Cabinet." *American Political Science Review* 30.5 (1936): 903-923.
-[^27]: Gluck, Carol. *Japan's Modern Myths: Ideology in the Late Meiji Period*. Princeton: Princeton University Press, 1985.
-[^28]: Duus, Peter. *The Rise of Modern Japan*. Boston: Houghton Mifflin, 1976.
-[^29]: Smith, Thomas C. *Political Change and Industrial Development in Japan: Government Enterprise, 1868-1880*. Stanford: Stanford University Press, 1955.
-[^30]: Westney, D. Eleanor. *Imitation and Innovation: The Transfer of Western Organizational Patterns to Meiji Japan*. Cambridge: Harvard University Press, 1987.
-[^31]: Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy*. Cambridge: Harvard University Press, 2004.
-[^32]: Jones, F.C. *Extraterritoriality in Japan and the Diplomatic Relations Resulting in Its Abolition, 1853-1899*. New Haven: Yale University Press, 1931.
-[^33]: Nish, Ian H. *The Anglo-Japanese Alliance: The Diplomacy of Two Island Empires, 1894-1907*. London: Athlone Press, 1966.
-[^34]: Paine, S.C.M. *The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy*. Cambridge: Cambridge University Press, 2003.
-[^35]: Mutsu Munemitsu. *Kenkenroku: A Diplomatic Record of the Sino-Japanese War, 1894-95*. Translated by Gordon Mark Berger. Tokyo: University of Tokyo Press, 1982.
-[^36]: Lone, Stewart. *Japan's First Modern War: Army and Society in the Conflict with China, 1894-95*. London: Macmillan, 1994.
-[^37]: Conroy, Hilary. *The Japanese Seizure of Korea, 1868-1910*. Philadelphia: University of Pennsylvania Press, 1960.
-[^38]: Duus, Peter. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910*. Berkeley: University of California Press, 1995.
-[^39]: Larsen, Kirk W. *Tradition, Treaties and Trade: Qing Imperialism and Chosŏn Korea, 1850-1910*. Cambridge: Harvard University Asia Center, 2008.
-[^40]: Wakabayashi, Bob Tadashi, ed. *Modern Japanese Thought*. Cambridge: Cambridge University Press, 1998.
-[^41]: Tiedemann, Arthur E. "The Seiyūkai and Parliamentary Politics." *The Cambridge History of Japan, Vol. 5*. Cambridge: Cambridge University Press, 1989.
-[^42]: Pyle, Kenneth B. *The Making of Modern Japan*. Lexington: D.C. Heath, 1996.
-[^43]: Hardacre, Helen. *Shinto and the State, 1868-1988*. Princeton: Princeton University Press, 1989.
-[^44]: Kim, Key-Hiuk. *The Last Phase of the East Asian World Order: Korea, Japan, and the Chinese Empire, 1860-1882*. Berkeley: University of California Press, 1980.
-[^45]: Shin, Yong-ha. "The Hwangseong Newspaper and the Nationalist Movement." *Korea Journal* 19.12 (1979): 24-35.
-[^46]: Schmid, Andre. *Korea Between Empires, 1895-1919*. New York: Columbia University Press, 2002.
-[^47]: Eckert, Carter J., et al. *Korea Old and New: A History*. Seoul: Ilchokak Publishers, 1990.
-[^48]: Robinson, Michael E. *Cultural Nationalism in Colonial Korea, 1920-1925*. Seattle: University of Washington Press, 1988.
-[^49]: Cumings, Bruce. *Korea's Place in the Sun: A Modern History*. New York: W.W. Norton, 1997.
-[^50]: Maruyama, Masao. *Thought and Behaviour in Modern Japanese Politics*. Oxford: Oxford University Press, 1963.
-[^51]: Berger, Gordon M. "Politics and Mobilization in Japan, 1931-1945." *The Cambridge History of Japan, Vol. 6*. Cambridge: Cambridge University Press, 1988.
-[^52]: Minear, Richard H. *Japanese Tradition and Western Law: Emperor, State, and Law in the Thought of Hozumi Yatsuka*. Cambridge: Harvard University Press, 1970.
-[^53]: Akita, George. *Foundations of Constitutional Government in Modern Japan, 1868-1900*. Cambridge: Harvard University Press, 1967.
-[^54]: Bowen, Roger W. *Rebellion and Democracy in Meiji Japan: A Study of Commoners in the Popular Rights Movement*. Berkeley: University of California Press, 1980.
-[^55]: Sievers, Sharon L. *Flowers in Salt: The Beginnings of Feminist Consciousness in Modern Japan*. Stanford: Stanford University Press, 1983.
-[^56]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910." *Recreating Japanese Women, 1600-1945*. Berkeley: University of California Press, 1991.
-[^57]: Jansen, Marius B., and Gilbert Rozman, eds. *Japan in Transition: From Tokugawa to Meiji*. Princeton: Princeton University Press, 1986.
-[^58]: Silberman, Bernard S., and H.D. Harootunian, eds. *Japan in Crisis: Essays on Taishō Democracy*. Princeton: Princeton University Press, 1974.
-[^59]: Dore, Ronald P. "The Modernizer as a Special Case: Japanese Factory Legislation, 1882-1911." *Comparative Studies in Society and History* 11.4 (1969): 433-450.
-[^60]: Waswo, Ann. *Japanese Landlords: The Decline of a Rural Elite*. Berkeley: University of California Press, 1977.
-[^61]: Hamada, Kengi. *Prince Ito*. Tokyo: Sanseido Co., 1936.
-[^62]: "Itō Hirobumi." *Encyclopaedia Britannica*. Accessed December 21, 2025.
-[^63]: Sievers, Sharon L. *Flowers in Salt: The Beginnings of Feminist Consciousness in Modern Japan*. Stanford: Stanford University Press, 1983.
-[^64]: De Becker, J.E. *The Nightless City: Geisha and Courtesan Life in Old Tokyo*. Tokyo: Z.P. Maruya, 1899.
-[^65]: Dalby, Liza. *Geisha*. Berkeley: University of California Press, 1983.
-[^66]: Seidensticker, Edward. *Low City, High City: Tokyo from Edo to the Earthquake*. New York: Alfred A. Knopf, 1983.
-[^67]: Hiratsuka, Atsuko. "Itō Hirobumi: The Man and the Statesman." *Japan Forum* 12.1 (2000): 47-62.
-[^68]: Keene, Donald. *Emperor of Japan: Meiji and His World, 1852-1912*. New York: Columbia University Press, 2002.
-[^69]: Lebra, Takie Sugiyama. *Above the Clouds: Status Culture of the Modern Japanese Nobility*. Berkeley: University of California Press, 1993.
-[^70]: Pyle, Kenneth B. "Meiji Conservatism." *The Cambridge History of Japan, Vol. 5*. Cambridge: Cambridge University Press, 1989.
-[^71]: Gluck, Carol. *Japan's Modern Myths: Ideology in the Late Meiji Period*. Princeton: Princeton University Press, 1985.
-[^72]: Harries, Meirion, and Susie Harries. *Soldiers of the Sun: The Rise and Fall of the Imperial Japanese Army*. New York: Random House, 1991.
-[^73]: "The Assassination of Prince Itō." *The Times* (London), October 27, 1909.
-[^74]: Shillony, Ben-Ami. *Politics and Culture in Wartime Japan*. Oxford: Clarendon Press, 1981.
-[^75]: McNelly, Theodore. "The Renunciation of War in the Japanese Constitution." *Political Science Quarterly* 77.3 (1962): 350-378.
+[^1]: Akita, George. "Itō Hirobumi and the Genesis of the Meiji Constitution." _Journal of Asian Studies_ 25.3 (1966): 421-436.
+
+[^2]: Hamada, Kengi. _Prince Ito_. Tokyo: Sanseido Co., 1936.
+
+[^3]: Huber, Thomas M. _The Revolutionary Origins of Modern Japan_. Stanford: Stanford University Press, 1981.
+
+[^4]: Jansen, Marius B. _The Making of Modern Japan_. Cambridge: Harvard University Press, 2000.
+
+[^5]: Beasley, W.G. _The Meiji Restoration_. Stanford: Stanford University Press, 1972.
+
+[^6]: Nish, Ian. _The Iwakura Mission in America and Europe: A New Assessment_. Richmond: Japan Library, 1998.
+
+[^7]: Vlastos, Stephen. "Opposition Movements in Early Meiji, 1868-1885." _The Cambridge History of Japan, Vol. 5_. Cambridge: Cambridge University Press, 1989.
+
+[^8]: Craig, Albert M. _Chōshū in the Meiji Restoration_. Cambridge: Harvard University Press, 1961.
+
+[^9]: Gordon, Andrew. _A Modern History of Japan: From Tokugawa Times to the Present_. Oxford: Oxford University Press, 2003.
+
+[^10]: Pittau, Joseph. _Political Thought in Early Meiji Japan, 1868-1889_. Cambridge: Harvard University Press, 1967.
+
+[^11]: Checkland, Olive. _Britain's Encounter with Meiji Japan, 1868-1912_. London: Macmillan, 1989.
+
+[^12]: Soviak, Eugene. "On the Nature of Western Progress: The Journal of the Iwakura Embassy." _Tradition and Modernization in Japanese Culture_. Princeton: Princeton University Press, 1971.
+
+[^13]: Siemes, Johannes. _Hermann Roesler and the Making of the Meiji State_. Tokyo: Sophia University, 1966.
+
+[^14]: Beckmann, George M. _The Making of the Meiji Constitution: The Oligarchs and the Constitutional Development of Japan, 1868-1891_. Lawrence: University of Kansas Press, 1957.
+
+[^15]: Hackett, Roger F. _Yamagata Aritomo in the Rise of Modern Japan, 1838-1922_. Cambridge: Harvard University Press, 1971.
+
+[^16]: Scalapino, Robert A. _Democracy and the Party Movement in Prewar Japan_. Berkeley: University of California Press, 1953.
+
+[^17]: Ike, Nobutaka. _The Beginnings of Political Democracy in Japan_. Baltimore: Johns Hopkins Press, 1950.
+
+[^18]: Banno, Junji. _The Establishment of the Japanese Constitutional System_. Translated by J.A.A. Stockwin. London: Routledge, 1992.
+
+[^19]: Miller, Frank O. _Minobe Tatsukichi: Interpreter of Constitutionalism in Japan_. Berkeley: University of California Press, 1965.
+
+[^20]: Matsumoto, Sannosuke. "The Roots of Political Disillusionment: 'Public' and 'Private' in Japan." _Authority and the Individual in Japan_. Tokyo: University of Tokyo Press, 1978.
+
+[^21]: Najita, Tetsuo. _Japan: The Intellectual Foundations of Modern Japanese Politics_. Chicago: University of Chicago Press, 1974.
+
+[^22]: Itō Hirobumi. _Commentaries on the Constitution of the Empire of Japan_. Translated by Itō Miyoji. Tokyo: Igirisu Hōritsu Gakkō, 1889.
+
+[^23]: McLaren, Walter W. _A Political History of Japan During the Meiji Era, 1867-1912_. London: George Allen & Unwin, 1916.
+
+[^24]: Siebold, Carl. "Itō Hirobumi and the First Anglo-Japanese Alliance." _The Pacific Historical Review_ 16.1 (1947): 13-24.
+
+[^25]: Quigley, Harold S. _Japanese Government and Politics: An Introductory Study_. New York: Century Co., 1932.
+
+[^26]: Colegrove, Kenneth. "The Japanese Cabinet." _American Political Science Review_ 30.5 (1936): 903-923.
+
+[^27]: Gluck, Carol. _Japan's Modern Myths: Ideology in the Late Meiji Period_. Princeton: Princeton University Press, 1985.
+
+[^28]: Duus, Peter. _The Rise of Modern Japan_. Boston: Houghton Mifflin, 1976.
+
+[^29]: Smith, Thomas C. _Political Change and Industrial Development in Japan: Government Enterprise, 1868-1880_. Stanford: Stanford University Press, 1955.
+
+[^30]: Westney, D. Eleanor. _Imitation and Innovation: The Transfer of Western Organizational Patterns to Meiji Japan_. Cambridge: Harvard University Press, 1987.
+
+[^31]: Auslin, Michael R. _Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy_. Cambridge: Harvard University Press, 2004.
+
+[^32]: Jones, F.C. _Extraterritoriality in Japan and the Diplomatic Relations Resulting in Its Abolition, 1853-1899_. New Haven: Yale University Press, 1931.
+
+[^33]: Nish, Ian H. _The Anglo-Japanese Alliance: The Diplomacy of Two Island Empires, 1894-1907_. London: Athlone Press, 1966.
+
+[^34]: Paine, S.C.M. _The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy_. Cambridge: Cambridge University Press, 2003.
+
+[^35]: Mutsu Munemitsu. _Kenkenroku: A Diplomatic Record of the Sino-Japanese War, 1894-95_. Translated by Gordon Mark Berger. Tokyo: University of Tokyo Press, 1982.
+
+[^36]: Lone, Stewart. _Japan's First Modern War: Army and Society in the Conflict with China, 1894-95_. London: Macmillan, 1994.
+
+[^37]: Conroy, Hilary. _The Japanese Seizure of Korea, 1868-1910_. Philadelphia: University of Pennsylvania Press, 1960.
+
+[^38]: Duus, Peter. _The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910_. Berkeley: University of California Press, 1995.
+
+[^39]: Larsen, Kirk W. _Tradition, Treaties and Trade: Qing Imperialism and Chosŏn Korea, 1850-1910_. Cambridge: Harvard University Asia Center, 2008.
+
+[^40]: Wakabayashi, Bob Tadashi, ed. _Modern Japanese Thought_. Cambridge: Cambridge University Press, 1998.
+
+[^41]: Tiedemann, Arthur E. "The Seiyūkai and Parliamentary Politics." _The Cambridge History of Japan, Vol. 5_. Cambridge: Cambridge University Press, 1989.
+
+[^42]: Pyle, Kenneth B. _The Making of Modern Japan_. Lexington: D.C. Heath, 1996.
+
+[^43]: Hardacre, Helen. _Shinto and the State, 1868-1988_. Princeton: Princeton University Press, 1989.
+
+[^44]: Kim, Key-Hiuk. _The Last Phase of the East Asian World Order: Korea, Japan, and the Chinese Empire, 1860-1882_. Berkeley: University of California Press, 1980.
+
+[^45]: Shin, Yong-ha. "The Hwangseong Newspaper and the Nationalist Movement." _Korea Journal_ 19.12 (1979): 24-35.
+
+[^46]: Schmid, Andre. _Korea Between Empires, 1895-1919_. New York: Columbia University Press, 2002.
+
+[^47]: Eckert, Carter J., et al. _Korea Old and New: A History_. Seoul: Ilchokak Publishers, 1990.
+
+[^48]: Robinson, Michael E. _Cultural Nationalism in Colonial Korea, 1920-1925_. Seattle: University of Washington Press, 1988.
+
+[^49]: Cumings, Bruce. _Korea's Place in the Sun: A Modern History_. New York: W.W. Norton, 1997.
+
+[^50]: Maruyama, Masao. _Thought and Behaviour in Modern Japanese Politics_. Oxford: Oxford University Press, 1963.
+
+[^51]: Berger, Gordon M. "Politics and Mobilization in Japan, 1931-1945." _The Cambridge History of Japan, Vol. 6_. Cambridge: Cambridge University Press, 1988.
+
+[^52]: Minear, Richard H. _Japanese Tradition and Western Law: Emperor, State, and Law in the Thought of Hozumi Yatsuka_. Cambridge: Harvard University Press, 1970.
+
+[^53]: Akita, George. _Foundations of Constitutional Government in Modern Japan, 1868-1900_. Cambridge: Harvard University Press, 1967.
+
+[^54]: Bowen, Roger W. _Rebellion and Democracy in Meiji Japan: A Study of Commoners in the Popular Rights Movement_. Berkeley: University of California Press, 1980.
+
+[^55]: Sievers, Sharon L. _Flowers in Salt: The Beginnings of Feminist Consciousness in Modern Japan_. Stanford: Stanford University Press, 1983.
+
+[^56]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910." _Recreating Japanese Women, 1600-1945_. Berkeley: University of California Press, 1991.
+
+[^57]: Jansen, Marius B., and Gilbert Rozman, eds. _Japan in Transition: From Tokugawa to Meiji_. Princeton: Princeton University Press, 1986.
+
+[^58]: Silberman, Bernard S., and H.D. Harootunian, eds. _Japan in Crisis: Essays on Taishō Democracy_. Princeton: Princeton University Press, 1974.
+
+[^59]: Dore, Ronald P. "The Modernizer as a Special Case: Japanese Factory Legislation, 1882-1911." _Comparative Studies in Society and History_ 11.4 (1969): 433-450.
+
+[^60]: Waswo, Ann. _Japanese Landlords: The Decline of a Rural Elite_. Berkeley: University of California Press, 1977.
+
+[^61]: Hamada, Kengi. _Prince Ito_. Tokyo: Sanseido Co., 1936.
+
+[^62]: "Itō Hirobumi." _Encyclopaedia Britannica_. Accessed December 21, 2025.
+
+[^63]: Sievers, Sharon L. _Flowers in Salt: The Beginnings of Feminist Consciousness in Modern Japan_. Stanford: Stanford University Press, 1983.
+
+[^64]: De Becker, J.E. _The Nightless City: Geisha and Courtesan Life in Old Tokyo_. Tokyo: Z.P. Maruya, 1899.
+
+[^65]: Dalby, Liza. _Geisha_. Berkeley: University of California Press, 1983.
+
+[^66]: Seidensticker, Edward. _Low City, High City: Tokyo from Edo to the Earthquake_. New York: Alfred A. Knopf, 1983.
+
+[^67]: Hiratsuka, Atsuko. "Itō Hirobumi: The Man and the Statesman." _Japan Forum_ 12.1 (2000): 47-62.
+
+[^68]: Keene, Donald. _Emperor of Japan: Meiji and His World, 1852-1912_. New York: Columbia University Press, 2002.
+
+[^69]: Lebra, Takie Sugiyama. _Above the Clouds: Status Culture of the Modern Japanese Nobility_. Berkeley: University of California Press, 1993.
+
+[^70]: Pyle, Kenneth B. "Meiji Conservatism." _The Cambridge History of Japan, Vol. 5_. Cambridge: Cambridge University Press, 1989.
+
+[^71]: Gluck, Carol. _Japan's Modern Myths: Ideology in the Late Meiji Period_. Princeton: Princeton University Press, 1985.
+
+[^72]: Harries, Meirion, and Susie Harries. _Soldiers of the Sun: The Rise and Fall of the Imperial Japanese Army_. New York: Random House, 1991.
+
+[^73]: "The Assassination of Prince Itō." _The Times_ (London), October 27, 1909.
+
+[^74]: Shillony, Ben-Ami. _Politics and Culture in Wartime Japan_. Oxford: Clarendon Press, 1981.
+
+[^75]: McNelly, Theodore. "The Renunciation of War in the Japanese Constitution." _Political Science Quarterly_ 77.3 (1962): 350-378.
+
 [^76]: Bank of Japan Currency Museum. "History of Japanese Banknotes." Accessed December 21, 2025.
+
 [^77]: Yamaguchi Prefecture Tourism. "Itō Hirobumi Historical Museum." Accessed December 21, 2025.
-[^78]: Seaton, Philip A. *Japan's Contested War Memories: The 'Memory Rifts' in Historical Consciousness of World War II*. London: Routledge, 2007.
-[^79]: Park, Hyun Ok. "Korean Manchuria: The Racial Politics of Territorial Osmosis." *South Atlantic Quarterly* 99.1 (2000): 193-215.
-[^80]: Kim, Young-Sik. "An Jung-geun: A Korean Patriot." *Korea Journal* 49.4 (2009): 86-112.
-[^81]: Shin, Gi-Wook, and Daniel C. Sneider, eds. *History Textbooks and the Wars in Asia: Divided Memories*. London: Routledge, 2011.
-[^82]: Berger, Gordon M. "Politics and Mobilization in Japan, 1931-1945." *The Cambridge History of Japan, Vol. 6*. Cambridge: Cambridge University Press, 1988.
-[^83]: Dower, John W. *Embracing Defeat: Japan in the Wake of World War II*. New York: W.W. Norton, 1999.
-[^84]: McNelly, Theodore. *The Origins of Japan's Democratic Constitution*. Lanham: University Press of America, 2000.
-[^85]: Hirschl, Ran. *Towards Juristocracy: The Origins and Consequences of the New Constitutionalism*. Cambridge: Harvard University Press, 2004.
-[^86]: Ginsburg, Tom. "Constitutional Afterlife: The Continuing Impact of Thailand's Postpolitical Constitution." *International Journal of Constitutional Law* 7.1 (2009): 83-105.
-[^87]: Law, David S. "Constitutions." *Comparative Law and Society*. Cheltenham: Edward Elgar, 2012.
-[^88]: Pempel, T.J., ed. *Remapping East Asia: The Construction of a Region*. Ithaca: Cornell University Press, 2005.
-[^89]: Harootunian, Harry D. *Overcome by Modernity: History, Culture, and Community in Interwar Japan*. Princeton: Princeton University Press, 2000.
-[^90]: Deuchler, Martina. *Confucian Gentlemen and Barbarian Envoys: The Opening of Korea, 1875-1885*. Seattle: University of Washington Press, 1977.
-[^91]: Uchida, Jun. *Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945*. Cambridge: Harvard University Asia Center, 2011.
-[^92]: Jansen, Marius B. *The Making of Modern Japan*. Cambridge: Harvard University Press, 2000.
-[^93]: Beasley, W.G. *Japanese Imperialism, 1894-1945*. Oxford: Clarendon Press, 1987.
-[^94]: Akita, George. *Foundations of Constitutional Government in Modern Japan, 1868-1900*. Cambridge: Harvard University Press, 1967.
-[^95]: Kaneko, Kentarō. *Itō Kō Den* (Biography of Prince Itō). 3 vols. Tokyo: Tōkyō Insatsu, 1940.
-[^96]: Banno, Junji. *The Establishment of the Japanese Constitutional System*. London: Routledge, 1992.
-[^97]: Kaneko, Kentarō. "The Meiji Constitution and Its Meaning." *Journal of the Royal Asiatic Society Japan Branch* 67.1 (1937): 1-18.
-[^98]: Pyle, Kenneth B. *The New Generation in Meiji Japan: Problems of Cultural Identity, 1885-1895*. Stanford: Stanford University Press, 1969.
-[^99]: Inoue, Kiyoshi. *Meiji Ishin* (The Meiji Restoration). Tokyo: Iwanami Shoten, 1966.
-[^100]: Beckmann, George M. *The Making of the Meiji Constitution*. Lawrence: University of Kansas Press, 1957.
-[^101]: Duus, Peter. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910*. Berkeley: University of California Press, 1995.
-[^102]: Kohli, Atul. "Where Do High Growth Political Economies Come From? The Japanese Lineage of Korea's 'Developmental State.'" *World Development* 22.9 (1994): 1269-1293.
-[^103]: Samuels, Richard J. *"Rich Nation, Strong Army": National Security and the Technological Transformation of Japan*. Ithaca: Cornell University Press, 1994.
-[^104]: Auslin, Michael R. *Negotiating with Imperialism*. Cambridge: Harvard University Press, 2004.
-[^105]: Najita, Tetsuo, and H.D. Harootunian. "Japanese Revolt Against the West: Political and Cultural Criticism in the Twentieth Century." *The Cambridge History of Japan, Vol. 6*. Cambridge: Cambridge University Press, 1988.
-[^106]: Maruyama, Masao. *Thought and Behaviour in Modern Japanese Politics*. Oxford: Oxford University Press, 1963.
-[^107]: Shin, Yong-ha. *Modern Korean History and Nationalism*. Seoul: Jimoondang Publishing, 2000.
-[^108]: Shin, Gi-Wook. *Ethnic Nationalism in Korea: Genealogy, Politics, and Legacy*. Stanford: Stanford University Press, 2006.
-[^109]: Eckert, Carter J. *Offspring of Empire: The Koch'ang Kims and the Colonial Origins of Korean Capitalism, 1876-1945*. Seattle: University of Washington Press, 1991.
-[^110]: Irokawa, Daikichi. *The Culture of the Meiji Period*. Princeton: Princeton University Press, 1985.
-[^111]: Maruyama, Masao. "The Ideology and Dynamics of Japanese Fascism." *Thought and Behaviour in Modern Japanese Politics*. Oxford: Oxford University Press, 1963.
-[^112]: Shillony, Ben-Ami. *Revolt in Japan: The Young Officers and the February 26, 1936 Incident*. Princeton: Princeton University Press, 1973.
-[^113]: Ramseyer, J. Mark, and Frances McCall Rosenbluth. *The Politics of Oligarchy: Institutional Choice in Imperial Japan*. Cambridge: Cambridge University Press, 1995.
-[^114]: Mitchell, Richard H. *Thought Control in Prewar Japan*. Ithaca: Cornell University Press, 1976.
-[^115]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910." *Recreating Japanese Women, 1600-1945*. Berkeley: University of California Press, 1991.
-[^116]: Sievers, Sharon L. *Flowers in Salt: The Beginnings of Feminist Consciousness in Modern Japan*. Stanford: Stanford University Press, 1983.
-[^117]: Silberman, Bernard S. *Ministers of Modernization: Elite Mobility in the Meiji Restoration, 1868-1873*. Tucson: University of Arizona Press, 1964.
-[^118]: Vlastos, Stephen. "Opposition Movements in Early Meiji, 1868-1885." *The Cambridge History of Japan, Vol. 5*. Cambridge: Cambridge University Press, 1989.
-[^119]: Dudden, Alexis. *Japan's Colonization of Korea: Discourse and Power*. Honolulu: University of Hawai'i Press, 2005.
-[^120]: Kim, C.I. Eugene, and Han-kyo Kim. *Korea and the Politics of Imperialism, 1876-1910*. Berkeley: University of California Press, 1967.
-[^121]: Itō Hirobumi. Speech to Privy Council, 1888. Cited in Akita, George. *Foundations of Constitutional Government in Modern Japan*. Cambridge: Harvard University Press, 1967.
-[^122]: Itō Hirobumi. *Commentaries on the Constitution of the Empire of Japan*. Tokyo: Igirisu Hōritsu Gakkō, 1889.
-[^123]: Itō Hirobumi. Speech on treaty revision, 1886. Cited in Auslin, Michael R. *Negotiating with Imperialism*. Cambridge: Harvard University Press, 2004.
-[^124]: Itō Hirobumi. Private memorandum on constitutional principles, 1887. Cited in Beckmann, George M. *The Making of the Meiji Constitution*. Lawrence: University of Kansas Press, 1957.
-[^125]: Itō Hirobumi. Public statement as Resident-General, 1906. Cited in Duus, Peter. *The Abacus and the Sword*. Berkeley: University of California Press, 1995.
+
+[^78]: Seaton, Philip A. _Japan's Contested War Memories: The 'Memory Rifts' in Historical Consciousness of World War II_. London: Routledge, 2007.
+
+[^79]: Park, Hyun Ok. "Korean Manchuria: The Racial Politics of Territorial Osmosis." _South Atlantic Quarterly_ 99.1 (2000): 193-215.
+
+[^80]: Kim, Young-Sik. "An Jung-geun: A Korean Patriot." _Korea Journal_ 49.4 (2009): 86-112.
+
+[^81]: Shin, Gi-Wook, and Daniel C. Sneider, eds. _History Textbooks and the Wars in Asia: Divided Memories_. London: Routledge, 2011.
+
+[^82]: Berger, Gordon M. "Politics and Mobilization in Japan, 1931-1945." _The Cambridge History of Japan, Vol. 6_. Cambridge: Cambridge University Press, 1988.
+
+[^83]: Dower, John W. _Embracing Defeat: Japan in the Wake of World War II_. New York: W.W. Norton, 1999.
+
+[^84]: McNelly, Theodore. _The Origins of Japan's Democratic Constitution_. Lanham: University Press of America, 2000.
+
+[^85]: Hirschl, Ran. _Towards Juristocracy: The Origins and Consequences of the New Constitutionalism_. Cambridge: Harvard University Press, 2004.
+
+[^86]: Ginsburg, Tom. "Constitutional Afterlife: The Continuing Impact of Thailand's Postpolitical Constitution." _International Journal of Constitutional Law_ 7.1 (2009): 83-105.
+
+[^87]: Law, David S. "Constitutions." _Comparative Law and Society_. Cheltenham: Edward Elgar, 2012.
+
+[^88]: Pempel, T.J., ed. _Remapping East Asia: The Construction of a Region_. Ithaca: Cornell University Press, 2005.
+
+[^89]: Harootunian, Harry D. _Overcome by Modernity: History, Culture, and Community in Interwar Japan_. Princeton: Princeton University Press, 2000.
+
+[^90]: Deuchler, Martina. _Confucian Gentlemen and Barbarian Envoys: The Opening of Korea, 1875-1885_. Seattle: University of Washington Press, 1977.
+
+[^91]: Uchida, Jun. _Brokers of Empire: Japanese Settler Colonialism in Korea, 1876-1945_. Cambridge: Harvard University Asia Center, 2011.
+
+[^92]: Jansen, Marius B. _The Making of Modern Japan_. Cambridge: Harvard University Press, 2000.
+
+[^93]: Beasley, W.G. _Japanese Imperialism, 1894-1945_. Oxford: Clarendon Press, 1987.
+
+[^94]: Akita, George. _Foundations of Constitutional Government in Modern Japan, 1868-1900_. Cambridge: Harvard University Press, 1967.
+
+[^95]: Kaneko, Kentarō. _Itō Kō Den_ (Biography of Prince Itō). 3 vols. Tokyo: Tōkyō Insatsu, 1940.
+
+[^96]: Banno, Junji. _The Establishment of the Japanese Constitutional System_. London: Routledge, 1992.
+
+[^97]: Kaneko, Kentarō. "The Meiji Constitution and Its Meaning." _Journal of the Royal Asiatic Society Japan Branch_ 67.1 (1937): 1-18.
+
+[^98]: Pyle, Kenneth B. _The New Generation in Meiji Japan: Problems of Cultural Identity, 1885-1895_. Stanford: Stanford University Press, 1969.
+
+[^99]: Inoue, Kiyoshi. _Meiji Ishin_ (The Meiji Restoration). Tokyo: Iwanami Shoten, 1966.
+
+[^100]: Beckmann, George M. _The Making of the Meiji Constitution_. Lawrence: University of Kansas Press, 1957.
+
+[^101]: Duus, Peter. _The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910_. Berkeley: University of California Press, 1995.
+
+[^102]: Kohli, Atul. "Where Do High Growth Political Economies Come From? The Japanese Lineage of Korea's 'Developmental State.'" _World Development_ 22.9 (1994): 1269-1293.
+
+[^103]: Samuels, Richard J. _"Rich Nation, Strong Army": National Security and the Technological Transformation of Japan_. Ithaca: Cornell University Press, 1994.
+
+[^104]: Auslin, Michael R. _Negotiating with Imperialism_. Cambridge: Harvard University Press, 2004.
+
+[^105]: Najita, Tetsuo, and H.D. Harootunian. "Japanese Revolt Against the West: Political and Cultural Criticism in the Twentieth Century." _The Cambridge History of Japan, Vol. 6_. Cambridge: Cambridge University Press, 1988.
+
+[^106]: Maruyama, Masao. _Thought and Behaviour in Modern Japanese Politics_. Oxford: Oxford University Press, 1963.
+
+[^107]: Shin, Yong-ha. _Modern Korean History and Nationalism_. Seoul: Jimoondang Publishing, 2000.
+
+[^108]: Shin, Gi-Wook. _Ethnic Nationalism in Korea: Genealogy, Politics, and Legacy_. Stanford: Stanford University Press, 2006.
+
+[^109]: Eckert, Carter J. _Offspring of Empire: The Koch'ang Kims and the Colonial Origins of Korean Capitalism, 1876-1945_. Seattle: University of Washington Press, 1991.
+
+[^110]: Irokawa, Daikichi. _The Culture of the Meiji Period_. Princeton: Princeton University Press, 1985.
+
+[^111]: Maruyama, Masao. "The Ideology and Dynamics of Japanese Fascism." _Thought and Behaviour in Modern Japanese Politics_. Oxford: Oxford University Press, 1963.
+
+[^112]: Shillony, Ben-Ami. _Revolt in Japan: The Young Officers and the February 26, 1936 Incident_. Princeton: Princeton University Press, 1973.
+
+[^113]: Ramseyer, J. Mark, and Frances McCall Rosenbluth. _The Politics of Oligarchy: Institutional Choice in Imperial Japan_. Cambridge: Cambridge University Press, 1995.
+
+[^114]: Mitchell, Richard H. _Thought Control in Prewar Japan_. Ithaca: Cornell University Press, 1976.
+
+[^115]: Nolte, Sharon H., and Sally Ann Hastings. "The Meiji State's Policy Toward Women, 1890-1910." _Recreating Japanese Women, 1600-1945_. Berkeley: University of California Press, 1991.
+
+[^116]: Sievers, Sharon L. _Flowers in Salt: The Beginnings of Feminist Consciousness in Modern Japan_. Stanford: Stanford University Press, 1983.
+
+[^117]: Silberman, Bernard S. _Ministers of Modernization: Elite Mobility in the Meiji Restoration, 1868-1873_. Tucson: University of Arizona Press, 1964.
+
+[^118]: Vlastos, Stephen. "Opposition Movements in Early Meiji, 1868-1885." _The Cambridge History of Japan, Vol. 5_. Cambridge: Cambridge University Press, 1989.
+
+[^119]: Dudden, Alexis. _Japan's Colonization of Korea: Discourse and Power_. Honolulu: University of Hawai'i Press, 2005.
+
+[^120]: Kim, C.I. Eugene, and Han-kyo Kim. _Korea and the Politics of Imperialism, 1876-1910_. Berkeley: University of California Press, 1967.
+
+[^121]: Itō Hirobumi. Speech to Privy Council, 1888. Cited in Akita, George. _Foundations of Constitutional Government in Modern Japan_. Cambridge: Harvard University Press, 1967.
+
+[^122]: Itō Hirobumi. _Commentaries on the Constitution of the Empire of Japan_. Tokyo: Igirisu Hōritsu Gakkō, 1889.
+
+[^123]: Itō Hirobumi. Speech on treaty revision, 1886. Cited in Auslin, Michael R. _Negotiating with Imperialism_. Cambridge: Harvard University Press, 2004.
+
+[^124]: Itō Hirobumi. Private memorandum on constitutional principles, 1887. Cited in Beckmann, George M. _The Making of the Meiji Constitution_. Lawrence: University of Kansas Press, 1957.
+
+[^125]: Itō Hirobumi. Public statement as Resident-General, 1906. Cited in Duus, Peter. _The Abacus and the Sword_. Berkeley: University of California Press, 1995.

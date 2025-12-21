@@ -165,25 +165,25 @@ Some scholars argue that Roh's suicide, while tragic, should not obscure legitim
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1946 | Born on September 1 in Bongha Village, Gimhae, South Gyeongsang Province |
-| 1966 | Graduated from Busan Commercial High School |
-| 1972 | Married Kwon Yang-sook |
-| 1975 | Passed the bar examination through self-study |
-| 1977 | Began practicing law, later specializing in human rights cases |
-| 1987 | Gained national attention defending pro-democracy activists |
-| 1988 | Elected to National Assembly; gained fame during televised corruption hearings |
-| 1992 | Lost parliamentary seat |
-| 1995 | Re-elected to National Assembly representing Jongno District, Seoul |
-| 2000 | Appointed Minister of Maritime Affairs and Fisheries |
-| 2002 | Elected President of South Korea in December |
-| 2003 | Inaugurated as 16th President on February 25 |
+| Year | Event                                                                               |
+| ---- | ----------------------------------------------------------------------------------- |
+| 1946 | Born on September 1 in Bongha Village, Gimhae, South Gyeongsang Province            |
+| 1966 | Graduated from Busan Commercial High School                                         |
+| 1972 | Married Kwon Yang-sook                                                              |
+| 1975 | Passed the bar examination through self-study                                       |
+| 1977 | Began practicing law, later specializing in human rights cases                      |
+| 1987 | Gained national attention defending pro-democracy activists                         |
+| 1988 | Elected to National Assembly; gained fame during televised corruption hearings      |
+| 1992 | Lost parliamentary seat                                                             |
+| 1995 | Re-elected to National Assembly representing Jongno District, Seoul                 |
+| 2000 | Appointed Minister of Maritime Affairs and Fisheries                                |
+| 2002 | Elected President of South Korea in December                                        |
+| 2003 | Inaugurated as 16th President on February 25                                        |
 | 2004 | Faced impeachment attempt by opposition (later overturned); deployed troops to Iraq |
-| 2006 | North Korea conducted its first nuclear test during his presidency |
-| 2007 | Held summit with North Korean leader Kim Jong-il in Pyongyang (October) |
-| 2008 | Presidential term ended; returned to Bongha Village |
-| 2009 | Became subject of corruption investigation; died by suicide on May 23 |
+| 2006 | North Korea conducted its first nuclear test during his presidency                  |
+| 2007 | Held summit with North Korean leader Kim Jong-il in Pyongyang (October)             |
+| 2008 | Presidential term ended; returned to Bongha Village                                 |
+| 2009 | Became subject of corruption investigation; died by suicide on May 23               |
 
 ---
 
@@ -203,75 +203,146 @@ Some scholars argue that Roh's suicide, while tragic, should not obscure legitim
 
 ## References
 
-[^1]: Kang, David C. "Roh Moo-hyun: South Korea's Transformative President." *Pacific Affairs* 82, no. 1 (2009): 7-13.
-[^2]: Kim, Sung-han. "From Humble Origins: The Early Life of Roh Moo-hyun." *Korea Journal* 49, no. 2 (2009): 15-34.
-[^3]: Lee, Namhee. *The Making of Minjung: Democracy and the Politics of Representation in South Korea*. Cornell University Press, 2007.
-[^4]: Oh, John Kie-chiang. *Korean Politics: The Quest for Democratization and Economic Development*. Cornell University Press, 1999.
-[^5]: "Roh Moo-hyun: Self-Made Lawyer Who Became President." *The Guardian*, May 23, 2009.
-[^6]: Shin, Gi-Wook. *Ethnic Nationalism in Korea: Genealogy, Politics, and Legacy*. Stanford University Press, 2006.
-[^7]: Kwon Yang-sook biography. *The Chosun Ilbo*, February 2003.
-[^8]: Kim, Sunhyuk. *The Politics of Democratization in Korea: The Role of Civil Society*. University of Pittsburgh Press, 2000.
+[^1]: Kang, David C. "Roh Moo-hyun: South Korea's Transformative President." _Pacific Affairs_ 82, no. 1 (2009): 7-13.
+
+[^2]: Kim, Sung-han. "From Humble Origins: The Early Life of Roh Moo-hyun." _Korea Journal_ 49, no. 2 (2009): 15-34.
+
+[^3]: Lee, Namhee. _The Making of Minjung: Democracy and the Politics of Representation in South Korea_. Cornell University Press, 2007.
+
+[^4]: Oh, John Kie-chiang. _Korean Politics: The Quest for Democratization and Economic Development_. Cornell University Press, 1999.
+
+[^5]: "Roh Moo-hyun: Self-Made Lawyer Who Became President." _The Guardian_, May 23, 2009.
+
+[^6]: Shin, Gi-Wook. _Ethnic Nationalism in Korea: Genealogy, Politics, and Legacy_. Stanford University Press, 2006.
+
+[^7]: Kwon Yang-sook biography. _The Chosun Ilbo_, February 2003.
+
+[^8]: Kim, Sunhyuk. _The Politics of Democratization in Korea: The Role of Civil Society_. University of Pittsburgh Press, 2000.
+
 [^9]: National Assembly of South Korea, Electoral Records, 1988.
-[^10]: "Roh's Moment: The 1988 Hearings That Changed Korean Politics." *JoongAng Ilbo*, May 25, 2009.
-[^11]: Park, Chan Wook. "The 1988 Parliamentary Hearings and South Korean Democracy." *Korean Political Science Review* 42, no. 4 (2008): 87-106.
+
+[^10]: "Roh's Moment: The 1988 Hearings That Changed Korean Politics." _JoongAng Ilbo_, May 25, 2009.
+
+[^11]: Park, Chan Wook. "The 1988 Parliamentary Hearings and South Korean Democracy." _Korean Political Science Review_ 42, no. 4 (2008): 87-106.
+
 [^12]: National Election Commission of South Korea, 1992 General Election Results.
-[^13]: "Roh Wins Historic Jongno Seat." *Korea Times*, April 12, 1995.
+
+[^13]: "Roh Wins Historic Jongno Seat." _Korea Times_, April 12, 1995.
+
 [^14]: Office of the President, Republic of Korea. Cabinet appointments, 2000-2001.
-[^15]: Kern, Thomas, and Sang-hui Nam. "The Making of a Candlelight Revolution: Constitution and Phenomenology of the Protests in South Korea, 2008–2009." *Perspectives on Global Development and Technology* 8, no. 6 (2009): 613-635.
+
+[^15]: Kern, Thomas, and Sang-hui Nam. "The Making of a Candlelight Revolution: Constitution and Phenomenology of the Protests in South Korea, 2008–2009." _Perspectives on Global Development and Technology_ 8, no. 6 (2009): 613-635.
+
 [^16]: National Election Commission, Republic of Korea. Presidential Election Results, December 19, 2002.
-[^17]: Song, Jesook. *South Koreans in the Debt Crisis: The Creation of a Neoliberal Welfare Society*. Duke University Press, 2009.
+
+[^17]: Song, Jesook. _South Koreans in the Debt Crisis: The Creation of a Neoliberal Welfare Society_. Duke University Press, 2009.
+
 [^18]: Presidential Committee on Government Innovation and Decentralization, Annual Reports, 2003-2008.
-[^19]: Moon, Chung-in, and David I. Steinberg, eds. *Kim Dae-jung Government and Sunshine Policy: Promises and Challenges*. Georgetown University Press, 1999.
+
+[^19]: Moon, Chung-in, and David I. Steinberg, eds. _Kim Dae-jung Government and Sunshine Policy: Promises and Challenges_. Georgetown University Press, 1999.
+
 [^20]: "Text of October 4 North-South Declaration." Ministry of Unification, Republic of Korea, October 4, 2007.
-[^21]: Cha, Victor D. "South Korea: Anchored or Adrift?" *The Washington Quarterly* 27, no. 3 (2004): 93-108.
-[^22]: "Sejong City Project: Decentralization or Political Gambit?" *Korea Herald*, June 15, 2005.
+
+[^21]: Cha, Victor D. "South Korea: Anchored or Adrift?" _The Washington Quarterly_ 27, no. 3 (2004): 93-108.
+
+[^22]: "Sejong City Project: Decentralization or Political Gambit?" _Korea Herald_, June 15, 2005.
+
 [^23]: Truth and Reconciliation Commission, Republic of Korea. Final Report, 2010.
+
 [^24]: Ministry of Health and Welfare, Republic of Korea. Social Welfare Statistics, 2003-2008.
+
 [^25]: Korean Women's Development Institute. Gender Equality Policy Assessment, 2008.
+
 [^26]: Federation of Korean Industries. "Economic Performance Assessment of the Roh Administration." Seoul, 2008.
-[^27]: Snyder, Scott. "The US-South Korea Alliance: Meeting New Security Challenges." *Asia Policy* 1, no. 1 (2006): 15-40.
-[^28]: "South Korea to Deploy 3,000 Troops to Iraq." *BBC News*, February 13, 2004.
-[^29]: Kang, Won-taek. "Political Polarization in South Korea: Causes and Consequences." *Korean Journal of Political Science* 16, no. 2 (2008): 123-145.
-[^30]: Kim, Hyung-A. *Korea's Development Under Park Chung Hee*. Routledge, 2004.
+
+[^27]: Snyder, Scott. "The US-South Korea Alliance: Meeting New Security Challenges." _Asia Policy_ 1, no. 1 (2006): 15-40.
+
+[^28]: "South Korea to Deploy 3,000 Troops to Iraq." _BBC News_, February 13, 2004.
+
+[^29]: Kang, Won-taek. "Political Polarization in South Korea: Causes and Consequences." _Korean Journal of Political Science_ 16, no. 2 (2008): 123-145.
+
+[^30]: Kim, Hyung-A. _Korea's Development Under Park Chung Hee_. Routledge, 2004.
+
 [^31]: Constitutional Reform Committee proposals, Office of the President, 2007.
-[^32]: "Criticism Mounts Over Roh's Regional Appointments." *JoongAng Daily*, March 20, 2004.
+
+[^32]: "Criticism Mounts Over Roh's Regional Appointments." _JoongAng Daily_, March 20, 2004.
+
 [^33]: Supreme Prosecutors' Office, Republic of Korea. Investigation Report on Park Yeon-cha Case, 2009.
-[^34]: "Former South Korean President Roh Moo-hyun Dies." *The New York Times*, May 23, 2009.
-[^35]: "Kwon Yang-sook: The Woman Behind Roh Moo-hyun." *Korea Times*, May 30, 2009.
-[^36]: "Roh's Children Speak Out on Father's Death." *Yonhap News*, June 2, 2009.
-[^37]: Moon, Katharine H.S. "South Korean Civil Society and Democracy." *Journal of Democracy* 20, no. 2 (2009): 120-134.
+
+[^34]: "Former South Korean President Roh Moo-hyun Dies." _The New York Times_, May 23, 2009.
+
+[^35]: "Kwon Yang-sook: The Woman Behind Roh Moo-hyun." _Korea Times_, May 30, 2009.
+
+[^36]: "Roh's Children Speak Out on Father's Death." _Yonhap News_, June 2, 2009.
+
+[^37]: Moon, Katharine H.S. "South Korean Civil Society and Democracy." _Journal of Democracy_ 20, no. 2 (2009): 120-134.
+
 [^38]: Roh Moo-hyun's blog, "People Making the World" (archived), 2008-2009.
-[^39]: Lee, Sook-Jong. "The Intellectual Formation of Roh Moo-hyun." *Korean Studies* 34 (2010): 45-67.
-[^40]: Moon, Jae-in. *The Roh Moo-hyun I Knew*. Seoul: Dolbegae Publishers, 2010. [Korean language]
-[^41]: Text of Roh Moo-hyun's suicide note. *The Hankyoreh*, May 24, 2009.
-[^42]: "Millions Mourn Former President Roh." *Associated Press*, May 29, 2009.
-[^43]: Kim, Hyung-jun. "Reassessing Roh Moo-hyun's Democratic Legacy." *Korea Observer* 41, no. 3 (2010): 389-415.
-[^44]: "Record Crowds Pay Respects to Roh Moo-hyun." *JoongAng Ilbo*, May 28, 2009.
+
+[^39]: Lee, Sook-Jong. "The Intellectual Formation of Roh Moo-hyun." _Korean Studies_ 34 (2010): 45-67.
+
+[^40]: Moon, Jae-in. _The Roh Moo-hyun I Knew_. Seoul: Dolbegae Publishers, 2010. [Korean language]
+
+[^41]: Text of Roh Moo-hyun's suicide note. _The Hankyoreh_, May 24, 2009.
+
+[^42]: "Millions Mourn Former President Roh." _Associated Press_, May 29, 2009.
+
+[^43]: Kim, Hyung-jun. "Reassessing Roh Moo-hyun's Democratic Legacy." _Korea Observer_ 41, no. 3 (2010): 389-415.
+
+[^44]: "Record Crowds Pay Respects to Roh Moo-hyun." _JoongAng Ilbo_, May 28, 2009.
+
 [^45]: Roh Moo-hyun Foundation official website, established 2009.
-[^46]: "Moon Jae-in Elected President, Vows to Continue Roh's Legacy." *Korea Herald*, May 10, 2017.
+
+[^46]: "Moon Jae-in Elected President, Vows to Continue Roh's Legacy." _Korea Herald_, May 10, 2017.
+
 [^47]: Ministry of Public Administration and Security. Sejong City Progress Report, 2015.
+
 [^48]: Kaesong Industrial Complex Management Committee reports, 2004-2016.
-[^49]: "Conservative Assessment of Roh Presidency." *The Chosun Ilbo*, February 24, 2013.
-[^50]: "The Corruption Case That Wasn't: Revisiting Roh's Death." *Hankyoreh 21*, May 22, 2014.
-[^51]: Lee, Jae-mook. "Political Polarization and Democratic Consolidation in South Korea." *Asian Survey* 51, no. 4 (2011): 724-746.
-[^52]: Hahm, Chaihark. "Roh Moo-hyun in Historical Perspective." *Journal of Korean Studies* 15, no. 1 (2010): 3-28.
-[^53]: Cho, Hee-Yeon. "Participatory Democracy and Social Movements in South Korea." *Positions: East Asia Cultures Critique* 18, no. 2 (2010): 431-459.
-[^54]: Kim, Hun Joon. *The Massacres at Mt. Halla: Sixty Years of Truth Seeking in South Korea*. Cornell University Press, 2014.
+
+[^49]: "Conservative Assessment of Roh Presidency." _The Chosun Ilbo_, February 24, 2013.
+
+[^50]: "The Corruption Case That Wasn't: Revisiting Roh's Death." _Hankyoreh 21_, May 22, 2014.
+
+[^51]: Lee, Jae-mook. "Political Polarization and Democratic Consolidation in South Korea." _Asian Survey_ 51, no. 4 (2011): 724-746.
+
+[^52]: Hahm, Chaihark. "Roh Moo-hyun in Historical Perspective." _Journal of Korean Studies_ 15, no. 1 (2010): 3-28.
+
+[^53]: Cho, Hee-Yeon. "Participatory Democracy and Social Movements in South Korea." _Positions: East Asia Cultures Critique_ 18, no. 2 (2010): 431-459.
+
+[^54]: Kim, Hun Joon. _The Massacres at Mt. Halla: Sixty Years of Truth Seeking in South Korea_. Cornell University Press, 2014.
+
 [^55]: Bank of Korea, Economic Statistics System. GDP Growth Rates, 2003-2008.
-[^56]: Cha, Victor D., and David C. Kang. *Nuclear North Korea: A Debate on Engagement Strategies*. Columbia University Press, 2005.
+
+[^56]: Cha, Victor D., and David C. Kang. _Nuclear North Korea: A Debate on Engagement Strategies_. Columbia University Press, 2005.
+
 [^57]: Freedom House. "Freedom of the Press: South Korea." Annual reports, 2003-2008.
-[^58]: Moon, Jae-in. *Moon Jae-in's Destiny*. Seoul: RH Korea, 2011. [Korean language]
-[^59]: Choi, Jang Jip. *Democracy After Democratization: The Korean Experience*. Seoul: Humanitas, 2012. [Korean language]
+
+[^58]: Moon, Jae-in. _Moon Jae-in's Destiny_. Seoul: RH Korea, 2011. [Korean language]
+
+[^59]: Choi, Jang Jip. _Democracy After Democratization: The Korean Experience_. Seoul: Humanitas, 2012. [Korean language]
+
 [^60]: Korea Development Institute. "Economic Policy Assessment 2003-2008." Seoul, 2009.
-[^61]: Pritchard, Charles L. *Failed Diplomacy: The Tragic Story of How North Korea Got the Bomb*. Brookings Institution Press, 2007.
-[^62]: Yun, Sang-chul. "The Rhetoric of Division: Roh Moo-hyun's Political Communication." *Korean Communication Studies* 17, no. 3 (2009): 234-256.
-[^63]: Kim, Sunhyuk, and Chang-hyeon Lee. "Dynamics of Presidential Leadership in South Korea: From Participatory Democracy to Effective Governance." *Asian Perspective* 33, no. 2 (2009): 123-147.
-[^64]: "The Contradictions of Roh Moo-hyun." *The Chosun Ilbo*, May 24, 2009.
-[^65]: Choi, Seung-ho. *The History of Progressive Politics in South Korea*. Seoul: Kachi Publishers, 2010. [Korean language]
-[^66]: Park, Hyeong-jun. "Leadership Competence and Policy Performance." *Korean Political Science Review* 44, no. 1 (2010): 67-89.
-[^67]: Lee, Yeonho. "Myth and Reality: Reassessing Roh Moo-hyun's Presidency." *Korea Economic Institute Academic Papers* (2012): 45-58.
+
+[^61]: Pritchard, Charles L. _Failed Diplomacy: The Tragic Story of How North Korea Got the Bomb_. Brookings Institution Press, 2007.
+
+[^62]: Yun, Sang-chul. "The Rhetoric of Division: Roh Moo-hyun's Political Communication." _Korean Communication Studies_ 17, no. 3 (2009): 234-256.
+
+[^63]: Kim, Sunhyuk, and Chang-hyeon Lee. "Dynamics of Presidential Leadership in South Korea: From Participatory Democracy to Effective Governance." _Asian Perspective_ 33, no. 2 (2009): 123-147.
+
+[^64]: "The Contradictions of Roh Moo-hyun." _The Chosun Ilbo_, May 24, 2009.
+
+[^65]: Choi, Seung-ho. _The History of Progressive Politics in South Korea_. Seoul: Kachi Publishers, 2010. [Korean language]
+
+[^66]: Park, Hyeong-jun. "Leadership Competence and Policy Performance." _Korean Political Science Review_ 44, no. 1 (2010): 67-89.
+
+[^67]: Lee, Yeonho. "Myth and Reality: Reassessing Roh Moo-hyun's Presidency." _Korea Economic Institute Academic Papers_ (2012): 45-58.
+
 [^68]: Presidential speech transcript, Office of the President, August 2006.
+
 [^69]: Compilation of Roh Moo-hyun's sayings. Roh Moo-hyun Foundation, 2010.
+
 [^70]: Anti-corruption address, Presidential Archives, March 2004.
-[^71]: Text of suicide note. *The Hankyoreh*, May 24, 2009.
+
+[^71]: Text of suicide note. _The Hankyoreh_, May 24, 2009.
+
 [^72]: Press conference transcript, Blue House, December 2007.

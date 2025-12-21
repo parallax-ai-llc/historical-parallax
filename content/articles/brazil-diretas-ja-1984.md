@@ -33,6 +33,7 @@ Brazil had been under military rule since 1964:
 ### The Electoral System
 
 Under the dictatorship:
+
 - Presidents chosen by electoral college (Congress + state delegates)
 - Controlled two-party system (ARENA vs. MDB)
 - Opposition consistently unable to win indirect elections
@@ -41,6 +42,7 @@ Under the dictatorship:
 ### Economic Crisis
 
 **Early 1980s:**
+
 - "Economic miracle" ended
 - Hyperinflation
 - Rising unemployment
@@ -56,6 +58,7 @@ Under the dictatorship:
 **Deputy Dante de Oliveira** (PMDB, Mato Grosso) proposed a constitutional amendment to restore direct presidential elections.
 
 **Amendment Details:**
+
 - Modify Articles 74 and 148 of the 1967 Constitution
 - Allow direct popular election of president and vice president
 - Require two-thirds majority in Congress (320 of 479 votes)[^5]
@@ -65,12 +68,14 @@ Under the dictatorship:
 **November 1983:** First rally in São Paulo (~15,000)
 
 **January-April 1984:** Rallies grew exponentially
+
 - Curitiba: 50,000
 - Rio de Janeiro: 300,000+
 - Belo Horizonte: 400,000
 - São Paulo (April 16): **1.5 million** (largest in Brazilian history at that point)
 
 **Participants:**
+
 - Opposition parties (PMDB, PT, PDT)
 - Trade unions
 - Student organizations
@@ -81,6 +86,7 @@ Under the dictatorship:
 ### The Color Yellow
 
 Yellow became the movement's symbol:
+
 - Yellow shirts, ribbons, banners
 - Stadiums filled with yellow
 - Unity across political divisions[^7]
@@ -91,23 +97,23 @@ Yellow became the movement's symbol:
 
 ### Political Leaders
 
-| Name | Role |
-|------|------|
-| Dante de Oliveira | Proposed the amendment |
-| Ulysses Guimarães | PMDB leader; "Mr. Diretas" |
-| Tancredo Neves | Governor; later elected president |
-| Leonel Brizola | PDT leader; Rio governor |
-| Luiz Inácio Lula da Silva | PT; union leader |
-| Fernando Henrique Cardoso | Senator; future president |
+| Name                      | Role                              |
+| ------------------------- | --------------------------------- |
+| Dante de Oliveira         | Proposed the amendment            |
+| Ulysses Guimarães         | PMDB leader; "Mr. Diretas"        |
+| Tancredo Neves            | Governor; later elected president |
+| Leonel Brizola            | PDT leader; Rio governor          |
+| Luiz Inácio Lula da Silva | PT; union leader                  |
+| Fernando Henrique Cardoso | Senator; future president         |
 
 ### Artists and Public Figures
 
-| Name | Role |
-|------|------|
-| Fafá de Belém | Singer; iconic rally performer |
-| Chico Buarque | Musician |
-| Milton Nascimento | Musician |
-| Osmar Santos | Sports commentator; rally voice |
+| Name              | Role                            |
+| ----------------- | ------------------------------- |
+| Fafá de Belém     | Singer; iconic rally performer  |
+| Chico Buarque     | Musician                        |
+| Milton Nascimento | Musician                        |
+| Osmar Santos      | Sports commentator; rally voice |
 
 ---
 
@@ -118,6 +124,7 @@ Yellow became the movement's symbol:
 **Required:** 320 votes (two-thirds)
 
 **Result:**
+
 - **298 in favor**
 - 65 against
 - 3 abstentions
@@ -128,6 +135,7 @@ The amendment failed by **22 votes**.[^8]
 ### Government Tactics
 
 The Figueiredo government:
+
 - Issued censorship orders
 - Made arrests before the vote
 - Applied economic and political pressure on deputies
@@ -171,6 +179,7 @@ Diretas Já showed the power of mass mobilization but also its limits when insti
 ### The Question of Justice
 
 Like other democratic transitions, Brazil's was negotiated:
+
 - 1979 Amnesty Law protected military perpetrators
 - No systematic prosecution of human rights violators
 - Legacy of dictatorship remains contested[^12]
@@ -200,35 +209,47 @@ Diretas Já achieved democracy but not accountability. Brazil's transition was p
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1964 | Military coup begins dictatorship |
-| 1974 | "Abertura" (gradual opening) begins |
-| March 1983 | Dante de Oliveira proposes amendment |
-| November 1983 | First Diretas Já rally (São Paulo) |
-| January 1984 | Curitiba rally (50,000) |
-| April 10, 1984 | Rio de Janeiro rally (300,000+) |
-| April 16, 1984 | São Paulo rally (1.5 million) |
-| April 25, 1984 | Amendment fails (298-65, needed 320) |
-| November 1984 | Tancredo Neves elected (indirectly) |
-| March 1985 | Sarney becomes first civilian president |
-| 1988 | New democratic constitution |
-| 1989 | First direct presidential election since 1960 |
+| Date           | Event                                         |
+| -------------- | --------------------------------------------- |
+| 1964           | Military coup begins dictatorship             |
+| 1974           | "Abertura" (gradual opening) begins           |
+| March 1983     | Dante de Oliveira proposes amendment          |
+| November 1983  | First Diretas Já rally (São Paulo)            |
+| January 1984   | Curitiba rally (50,000)                       |
+| April 10, 1984 | Rio de Janeiro rally (300,000+)               |
+| April 16, 1984 | São Paulo rally (1.5 million)                 |
+| April 25, 1984 | Amendment fails (298-65, needed 320)          |
+| November 1984  | Tancredo Neves elected (indirectly)           |
+| March 1985     | Sarney becomes first civilian president       |
+| 1988           | New democratic constitution                   |
+| 1989           | First direct presidential election since 1960 |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia (PT) - Diretas Já](https://pt.wikipedia.org/wiki/Diretas_Já)
+
 [^2]: [Grokipedia - Diretas Já](https://grokipedia.com/diretas-ja/)
+
 [^3]: [Wikipedia - Military Dictatorship Brazil](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil)
+
 [^4]: [Aprova Total - Context](https://aprovatotal.com.br/diretas-ja/)
+
 [^5]: [Wikipedia - Dante de Oliveira Amendment](https://en.wikipedia.org/wiki/Dante_de_Oliveira_amendment)
+
 [^6]: [EBC - Rallies](https://www.ebc.com.br/diretas-ja/)
+
 [^7]: [Swarthmore - Nonviolent Database](https://nvdatabase.swarthmore.edu/content/brazilians-campaign-direct-elections-diretas-ja-1983-84)
+
 [^8]: [Câmara - Vote Record](https://www.camara.leg.br/noticias/diretas-ja-votacao/)
+
 [^9]: [Senado - Analysis](https://www.senado.leg.br/noticias/diretas-ja/)
+
 [^10]: [SciELO - Academic Analysis](https://www.scielo.br/diretas-ja-analysis/)
+
 [^11]: [Wikipedia - Tancredo Neves](https://en.wikipedia.org/wiki/Tancredo_Neves)
+
 [^12]: [Wikipedia - 1988 Constitution](https://en.wikipedia.org/wiki/Constitution_of_Brazil)
+
 [^13]: [Wikipedia - 1989 Election](https://en.wikipedia.org/wiki/1989_Brazilian_presidential_election)

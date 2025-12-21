@@ -139,27 +139,27 @@ Modern critics also note that Kammu's promotion of Tendai Buddhism, while politi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 737 | Born as Prince Yamabe, eldest son of Prince Shirakabe and Takano no Niigasa |
-| 770 | Father ascends throne as Emperor Kōnin |
-| 773 | Designated Crown Prince following death of elder brother Prince Osabe |
-| 781 | Ascends throne as Emperor Kammu following father's abdication |
-| 784 | Orders construction of new capital at Nagaoka |
-| 785 | Assassination of Fujiwara no Tanetsugu; Prince Sawara arrested and exiled |
-| 785 | Death of Prince Sawara during exile to Awaji Island |
-| 788 | Death of Kammu's mother Takano no Niigasa; attributed to Sawara's curse |
-| 789 | First major military campaign against Emishi ends in defeat at Koromo River |
-| 791 | Second expedition against Emishi launched |
-| 794 | Capital relocated to Heian-kyō (Kyoto); beginning of Heian period |
-| 797 | Appoints Sakanoue no Tamuramaro as Sei-i Taishōgun (征夷大将軍) |
-| 800 | Posthumously restores Prince Sawara's title as Crown Prince |
-| 801 | Major military campaign led by Sakanoue no Tamuramaro against Emishi |
-| 802 | Aterui and Moretsu surrender; executed in Kyoto despite promises of clemency |
-| 804 | Sends envoy to Tang China; monks Saichō and Kūkai travel to China |
-| 805 | Saichō returns from China and establishes Tendai Buddhism on Mount Hiei |
-| 806 | Abdicates in favor of son Emperor Heizei on March 17 |
-| 806 | Dies on April 9 at age 69 |
+| Year | Event                                                                        |
+| ---- | ---------------------------------------------------------------------------- |
+| 737  | Born as Prince Yamabe, eldest son of Prince Shirakabe and Takano no Niigasa  |
+| 770  | Father ascends throne as Emperor Kōnin                                       |
+| 773  | Designated Crown Prince following death of elder brother Prince Osabe        |
+| 781  | Ascends throne as Emperor Kammu following father's abdication                |
+| 784  | Orders construction of new capital at Nagaoka                                |
+| 785  | Assassination of Fujiwara no Tanetsugu; Prince Sawara arrested and exiled    |
+| 785  | Death of Prince Sawara during exile to Awaji Island                          |
+| 788  | Death of Kammu's mother Takano no Niigasa; attributed to Sawara's curse      |
+| 789  | First major military campaign against Emishi ends in defeat at Koromo River  |
+| 791  | Second expedition against Emishi launched                                    |
+| 794  | Capital relocated to Heian-kyō (Kyoto); beginning of Heian period            |
+| 797  | Appoints Sakanoue no Tamuramaro as Sei-i Taishōgun (征夷大将軍)              |
+| 800  | Posthumously restores Prince Sawara's title as Crown Prince                  |
+| 801  | Major military campaign led by Sakanoue no Tamuramaro against Emishi         |
+| 802  | Aterui and Moretsu surrender; executed in Kyoto despite promises of clemency |
+| 804  | Sends envoy to Tang China; monks Saichō and Kūkai travel to China            |
+| 805  | Saichō returns from China and establishes Tendai Buddhism on Mount Hiei      |
+| 806  | Abdicates in favor of son Emperor Heizei on March 17                         |
+| 806  | Dies on April 9 at age 69                                                    |
 
 ---
 
@@ -189,109 +189,214 @@ Context: Statement at the founding ceremony of Heian-kyō, invoking Chinese geom
 
 ## References
 
-[^1]: Farris, William Wayne. *Sacred Texts and Buried Treasures: Issues in the Historical Archaeology of Ancient Japan*. University of Hawaii Press, 1998, pp. 156-162.
-[^2]: Shively, Donald H., and William H. McCullough, eds. *The Cambridge History of Japan, Volume 2: Heian Japan*. Cambridge University Press, 1999, pp. 48-55.
-[^3]: Piggott, Joan R. *The Emergence of Japanese Kingship*. Stanford University Press, 1997, p. 298.
-[^4]: Verschuer, Charlotte von. *Across the Perilous Sea: Japanese Trade with China and Korea from the Seventh to the Sixteenth Centuries*. Cornell University East Asia Program, 2006, p. 43.
-[^5]: Adolphson, Mikael. *The Gates of Power: Monks, Courtiers, and Warriors in Premodern Japan*. University of Hawaii Press, 2000, p. 67.
-[^6]: Batten, Bruce L. *To the Ends of Japan: Premodern Frontiers, Boundaries, and Interactions*. University of Hawaii Press, 2003, p. 89.
-[^7]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 49.
-[^8]: Borgen, Robert. *Sugawara no Michizane and the Early Heian Court*. Harvard University Asia Center, 1986, p. 31.
-[^9]: Piggott, *Emergence of Japanese Kingship*, p. 299.
-[^10]: Adolphson, *Gates of Power*, pp. 71-74.
-[^11]: Ponsonby-Fane, Richard. *Kyoto: The Old Capital of Japan, 794-1869*. Ponsonby Memorial Society, 1956, pp. 21-23.
-[^12]: Farris, *Sacred Texts and Buried Treasures*, p. 159.
-[^13]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 50.
-[^14]: Breen, John, and Mark Teeuwen. *A New History of Shinto*. Wiley-Blackwell, 2010, p. 78.
-[^15]: Fiévé, Nicolas, and Paul Waley, eds. *Japanese Capitals in Historical Perspective: Place, Power and Memory in Kyoto, Edo and Tokyo*. Routledge, 2003, p. 45.
-[^16]: Ponsonby-Fane, *Kyoto*, pp. 28-32.
-[^17]: Coaldrake, William H. *Architecture and Authority in Japan*. Routledge, 1996, pp. 56-58.
-[^18]: Fiévé and Waley, *Japanese Capitals in Historical Perspective*, p. 44.
-[^19]: Ponsonby-Fane, *Kyoto*, p. 29.
-[^20]: Friday, Karl F. *Hired Swords: The Rise of Private Warrior Power in Early Japan*. Stanford University Press, 1992, pp. 38-42.
-[^21]: Farris, William Wayne. *Heavenly Warriors: The Evolution of Japan's Military, 500-1300*. Harvard University Asia Center, 1995, p. 167.
-[^22]: Yamamura, Kozo, ed. *The Cambridge History of Japan, Volume 3: Medieval Japan*. Cambridge University Press, 1990, p. 91.
-[^23]: Friday, *Hired Swords*, pp. 40-41.
-[^24]: Farris, *Heavenly Warriors*, pp. 168-172.
-[^25]: Batten, *To the Ends of Japan*, pp. 97-103.
-[^26]: Adolphson, *Gates of Power*, pp. 75-77.
-[^27]: Groner, Paul. *Saichō: The Establishment of the Japanese Tendai School*. University of Hawaii Press, 2000, pp. 42-45.
+[^1]: Farris, William Wayne. _Sacred Texts and Buried Treasures: Issues in the Historical Archaeology of Ancient Japan_. University of Hawaii Press, 1998, pp. 156-162.
+
+[^2]: Shively, Donald H., and William H. McCullough, eds. _The Cambridge History of Japan, Volume 2: Heian Japan_. Cambridge University Press, 1999, pp. 48-55.
+
+[^3]: Piggott, Joan R. _The Emergence of Japanese Kingship_. Stanford University Press, 1997, p. 298.
+
+[^4]: Verschuer, Charlotte von. _Across the Perilous Sea: Japanese Trade with China and Korea from the Seventh to the Sixteenth Centuries_. Cornell University East Asia Program, 2006, p. 43.
+
+[^5]: Adolphson, Mikael. _The Gates of Power: Monks, Courtiers, and Warriors in Premodern Japan_. University of Hawaii Press, 2000, p. 67.
+
+[^6]: Batten, Bruce L. _To the Ends of Japan: Premodern Frontiers, Boundaries, and Interactions_. University of Hawaii Press, 2003, p. 89.
+
+[^7]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 49.
+
+[^8]: Borgen, Robert. _Sugawara no Michizane and the Early Heian Court_. Harvard University Asia Center, 1986, p. 31.
+
+[^9]: Piggott, _Emergence of Japanese Kingship_, p. 299.
+
+[^10]: Adolphson, _Gates of Power_, pp. 71-74.
+
+[^11]: Ponsonby-Fane, Richard. _Kyoto: The Old Capital of Japan, 794-1869_. Ponsonby Memorial Society, 1956, pp. 21-23.
+
+[^12]: Farris, _Sacred Texts and Buried Treasures_, p. 159.
+
+[^13]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 50.
+
+[^14]: Breen, John, and Mark Teeuwen. _A New History of Shinto_. Wiley-Blackwell, 2010, p. 78.
+
+[^15]: Fiévé, Nicolas, and Paul Waley, eds. _Japanese Capitals in Historical Perspective: Place, Power and Memory in Kyoto, Edo and Tokyo_. Routledge, 2003, p. 45.
+
+[^16]: Ponsonby-Fane, _Kyoto_, pp. 28-32.
+
+[^17]: Coaldrake, William H. _Architecture and Authority in Japan_. Routledge, 1996, pp. 56-58.
+
+[^18]: Fiévé and Waley, _Japanese Capitals in Historical Perspective_, p. 44.
+
+[^19]: Ponsonby-Fane, _Kyoto_, p. 29.
+
+[^20]: Friday, Karl F. _Hired Swords: The Rise of Private Warrior Power in Early Japan_. Stanford University Press, 1992, pp. 38-42.
+
+[^21]: Farris, William Wayne. _Heavenly Warriors: The Evolution of Japan's Military, 500-1300_. Harvard University Asia Center, 1995, p. 167.
+
+[^22]: Yamamura, Kozo, ed. _The Cambridge History of Japan, Volume 3: Medieval Japan_. Cambridge University Press, 1990, p. 91.
+
+[^23]: Friday, _Hired Swords_, pp. 40-41.
+
+[^24]: Farris, _Heavenly Warriors_, pp. 168-172.
+
+[^25]: Batten, _To the Ends of Japan_, pp. 97-103.
+
+[^26]: Adolphson, _Gates of Power_, pp. 75-77.
+
+[^27]: Groner, Paul. _Saichō: The Establishment of the Japanese Tendai School_. University of Hawaii Press, 2000, pp. 42-45.
+
 [^28]: Ibid., pp. 48-52.
-[^29]: Adolphson, *Gates of Power*, p. 78.
-[^30]: Borgen, *Sugawara no Michizane*, p. 35.
-[^31]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 53.
-[^32]: Bowring, Richard. *The Religious Traditions of Japan, 500-1600*. Cambridge University Press, 2005, p. 167.
-[^33]: Totman, Conrad. *A History of Japan*, 2nd ed. Blackwell Publishing, 2005, p. 78.
-[^34]: Farris, *Sacred Texts and Buried Treasures*, p. 161.
-[^35]: Yamamura, *Cambridge History of Japan, Volume 3*, p. 93.
-[^36]: Batten, *To the Ends of Japan*, pp. 91-95.
-[^37]: Farris, *Heavenly Warriors*, pp. 173-176.
-[^38]: Hudson, Mark J. *Ruins of Identity: Ethnogenesis in the Japanese Islands*. University of Hawaii Press, 1999, p. 187.
-[^39]: Farris, *Heavenly Warriors*, p. 178.
-[^40]: Batten, *To the Ends of Japan*, p. 102.
-[^41]: Hudson, *Ruins of Identity*, pp. 188-189.
-[^42]: Howell, David L. "Ainu Ethnicity and the Boundaries of the Early Modern Japanese State." *Past & Present*, no. 142, 1994, pp. 69-93, at p. 74.
-[^43]: Siddle, Richard. *Race, Resistance and the Ainu of Japan*. Routledge, 1996, pp. 28-30.
-[^44]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 51.
-[^45]: Breen and Teeuwen, *A New History of Shinto*, p. 79.
+
+[^29]: Adolphson, _Gates of Power_, p. 78.
+
+[^30]: Borgen, _Sugawara no Michizane_, p. 35.
+
+[^31]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 53.
+
+[^32]: Bowring, Richard. _The Religious Traditions of Japan, 500-1600_. Cambridge University Press, 2005, p. 167.
+
+[^33]: Totman, Conrad. _A History of Japan_, 2nd ed. Blackwell Publishing, 2005, p. 78.
+
+[^34]: Farris, _Sacred Texts and Buried Treasures_, p. 161.
+
+[^35]: Yamamura, _Cambridge History of Japan, Volume 3_, p. 93.
+
+[^36]: Batten, _To the Ends of Japan_, pp. 91-95.
+
+[^37]: Farris, _Heavenly Warriors_, pp. 173-176.
+
+[^38]: Hudson, Mark J. _Ruins of Identity: Ethnogenesis in the Japanese Islands_. University of Hawaii Press, 1999, p. 187.
+
+[^39]: Farris, _Heavenly Warriors_, p. 178.
+
+[^40]: Batten, _To the Ends of Japan_, p. 102.
+
+[^41]: Hudson, _Ruins of Identity_, pp. 188-189.
+
+[^42]: Howell, David L. "Ainu Ethnicity and the Boundaries of the Early Modern Japanese State." _Past & Present_, no. 142, 1994, pp. 69-93, at p. 74.
+
+[^43]: Siddle, Richard. _Race, Resistance and the Ainu of Japan_. Routledge, 1996, pp. 28-30.
+
+[^44]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 51.
+
+[^45]: Breen and Teeuwen, _A New History of Shinto_, p. 79.
+
 [^46]: Ibid., p. 80.
-[^47]: Ponsonby-Fane, *Kyoto*, p. 25.
-[^48]: Farris, *Sacred Texts and Buried Treasures*, p. 160.
-[^49]: Yamamura, *Cambridge History of Japan, Volume 3*, p. 92.
-[^50]: Friday, *Hired Swords*, pp. 43-44.
-[^51]: Mass, Jeffrey P. *Yoritomo and the Founding of the First Bakufu*. Stanford University Press, 1999, p. 19.
-[^52]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 56.
-[^53]: Piggott, *Emergence of Japanese Kingship*, p. 300.
-[^54]: Borgen, *Sugawara no Michizane*, p. 36.
-[^55]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 52.
-[^56]: Farris, *Sacred Texts and Buried Treasures*, p. 157.
-[^57]: Borgen, *Sugawara no Michizane*, p. 32.
-[^58]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 54.
-[^59]: Groner, *Saichō*, p. 44.
-[^60]: Breen and Teeuwen, *A New History of Shinto*, p. 77.
+
+[^47]: Ponsonby-Fane, _Kyoto_, p. 25.
+
+[^48]: Farris, _Sacred Texts and Buried Treasures_, p. 160.
+
+[^49]: Yamamura, _Cambridge History of Japan, Volume 3_, p. 92.
+
+[^50]: Friday, _Hired Swords_, pp. 43-44.
+
+[^51]: Mass, Jeffrey P. _Yoritomo and the Founding of the First Bakufu_. Stanford University Press, 1999, p. 19.
+
+[^52]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 56.
+
+[^53]: Piggott, _Emergence of Japanese Kingship_, p. 300.
+
+[^54]: Borgen, _Sugawara no Michizane_, p. 36.
+
+[^55]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 52.
+
+[^56]: Farris, _Sacred Texts and Buried Treasures_, p. 157.
+
+[^57]: Borgen, _Sugawara no Michizane_, p. 32.
+
+[^58]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 54.
+
+[^59]: Groner, _Saichō_, p. 44.
+
+[^60]: Breen and Teeuwen, _A New History of Shinto_, p. 77.
+
 [^61]: Ibid., p. 79.
+
 [^62]: Ibid., p. 80.
-[^63]: Borgen, *Sugawara no Michizane*, p. 37.
-[^64]: Piggott, *Emergence of Japanese Kingship*, p. 301.
-[^65]: Bowring, *Religious Traditions of Japan*, p. 168.
-[^66]: Fiévé and Waley, *Japanese Capitals in Historical Perspective*, p. 46.
-[^67]: Ponsonby-Fane, *Kyoto*, p. 33.
-[^68]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 47.
+
+[^63]: Borgen, _Sugawara no Michizane_, p. 37.
+
+[^64]: Piggott, _Emergence of Japanese Kingship_, p. 301.
+
+[^65]: Bowring, _Religious Traditions of Japan_, p. 168.
+
+[^66]: Fiévé and Waley, _Japanese Capitals in Historical Perspective_, p. 46.
+
+[^67]: Ponsonby-Fane, _Kyoto_, p. 33.
+
+[^68]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 47.
+
 [^69]: Ibid., pp. 154-158.
-[^70]: Batten, *To the Ends of Japan*, p. 104.
-[^71]: Siddle, *Race, Resistance and the Ainu*, p. 31.
-[^72]: Adolphson, *Gates of Power*, p. 81.
-[^73]: Friday, *Hired Swords*, p. 44.
-[^74]: Farris, *Heavenly Warriors*, p. 182.
-[^75]: Mass, *Yoritomo and the Founding of the First Bakufu*, p. 18.
-[^76]: Sansom, George. *A History of Japan to 1334*. Stanford University Press, 1958, p. 267.
-[^77]: Farris, *Heavenly Warriors*, p. 166.
-[^78]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 55.
-[^79]: Coaldrake, *Architecture and Authority*, p. 57.
-[^80]: Fiévé and Waley, *Japanese Capitals in Historical Perspective*, p. 47.
-[^81]: Adolphson, *Gates of Power*, p. 77.
-[^82]: Groner, *Saichō*, p. 46.
-[^83]: Borgen, *Sugawara no Michizane*, p. 34.
-[^84]: Farris, *Sacred Texts and Buried Treasures*, p. 162.
-[^85]: Sansom, *A History of Japan to 1334*, p. 159.
-[^86]: Farris, *Heavenly Warriors*, p. 179.
-[^87]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, pp. 57-58.
-[^88]: Batten, *To the Ends of Japan*, p. 106.
-[^89]: Siddle, *Race, Resistance and the Ainu*, pp. 29-30.
-[^90]: Batten, *To the Ends of Japan*, p. 102.
-[^91]: Hudson, *Ruins of Identity*, p. 188.
-[^92]: Shively and McCullough, *Cambridge History of Japan, Volume 2*, p. 51.
-[^93]: Breen and Teeuwen, *A New History of Shinto*, p. 80.
-[^94]: Farris, *Sacred Texts and Buried Treasures*, p. 160.
-[^95]: Ponsonby-Fane, *Kyoto*, p. 26.
-[^96]: Yamamura, *Cambridge History of Japan, Volume 3*, p. 94.
-[^97]: Friday, *Hired Swords*, p. 45.
-[^98]: Mass, *Yoritomo and the Founding of the First Bakufu*, p. 20.
-[^99]: Wakita, Haruko. "Marriage and Property in Premodern Japan from the Perspective of Women's History." *Journal of Japanese Studies*, vol. 10, no. 1, 1984, pp. 73-99, at p. 81.
-[^100]: Piggott, *Emergence of Japanese Kingship*, p. 302.
-[^101]: Adolphson, *Gates of Power*, pp. 125-132.
-[^102]: Ponsonby-Fane, *Kyoto*, p. 23 (paraphrased from historical chronicles).
-[^103]: Adolphson, *Gates of Power*, p. 76 (reconstructed from court records).
-[^104]: Batten, *To the Ends of Japan*, p. 98 (paraphrased from imperial edicts).
-[^105]: Breen and Teeuwen, *A New History of Shinto*, p. 80 (from court proclamation).
-[^106]: Coaldrake, *Architecture and Authority*, p. 57 (from foundation ceremony records).
+
+[^70]: Batten, _To the Ends of Japan_, p. 104.
+
+[^71]: Siddle, _Race, Resistance and the Ainu_, p. 31.
+
+[^72]: Adolphson, _Gates of Power_, p. 81.
+
+[^73]: Friday, _Hired Swords_, p. 44.
+
+[^74]: Farris, _Heavenly Warriors_, p. 182.
+
+[^75]: Mass, _Yoritomo and the Founding of the First Bakufu_, p. 18.
+
+[^76]: Sansom, George. _A History of Japan to 1334_. Stanford University Press, 1958, p. 267.
+
+[^77]: Farris, _Heavenly Warriors_, p. 166.
+
+[^78]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 55.
+
+[^79]: Coaldrake, _Architecture and Authority_, p. 57.
+
+[^80]: Fiévé and Waley, _Japanese Capitals in Historical Perspective_, p. 47.
+
+[^81]: Adolphson, _Gates of Power_, p. 77.
+
+[^82]: Groner, _Saichō_, p. 46.
+
+[^83]: Borgen, _Sugawara no Michizane_, p. 34.
+
+[^84]: Farris, _Sacred Texts and Buried Treasures_, p. 162.
+
+[^85]: Sansom, _A History of Japan to 1334_, p. 159.
+
+[^86]: Farris, _Heavenly Warriors_, p. 179.
+
+[^87]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, pp. 57-58.
+
+[^88]: Batten, _To the Ends of Japan_, p. 106.
+
+[^89]: Siddle, _Race, Resistance and the Ainu_, pp. 29-30.
+
+[^90]: Batten, _To the Ends of Japan_, p. 102.
+
+[^91]: Hudson, _Ruins of Identity_, p. 188.
+
+[^92]: Shively and McCullough, _Cambridge History of Japan, Volume 2_, p. 51.
+
+[^93]: Breen and Teeuwen, _A New History of Shinto_, p. 80.
+
+[^94]: Farris, _Sacred Texts and Buried Treasures_, p. 160.
+
+[^95]: Ponsonby-Fane, _Kyoto_, p. 26.
+
+[^96]: Yamamura, _Cambridge History of Japan, Volume 3_, p. 94.
+
+[^97]: Friday, _Hired Swords_, p. 45.
+
+[^98]: Mass, _Yoritomo and the Founding of the First Bakufu_, p. 20.
+
+[^99]: Wakita, Haruko. "Marriage and Property in Premodern Japan from the Perspective of Women's History." _Journal of Japanese Studies_, vol. 10, no. 1, 1984, pp. 73-99, at p. 81.
+
+[^100]: Piggott, _Emergence of Japanese Kingship_, p. 302.
+
+[^101]: Adolphson, _Gates of Power_, pp. 125-132.
+
+[^102]: Ponsonby-Fane, _Kyoto_, p. 23 (paraphrased from historical chronicles).
+
+[^103]: Adolphson, _Gates of Power_, p. 76 (reconstructed from court records).
+
+[^104]: Batten, _To the Ends of Japan_, p. 98 (paraphrased from imperial edicts).
+
+[^105]: Breen and Teeuwen, _A New History of Shinto_, p. 80 (from court proclamation).
+
+[^106]: Coaldrake, _Architecture and Authority_, p. 57 (from foundation ceremony records).

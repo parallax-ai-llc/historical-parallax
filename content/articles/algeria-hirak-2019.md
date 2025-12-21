@@ -25,6 +25,7 @@ The COVID-19 pandemic in early 2020 halted the weekly marches. When protests res
 ### Algeria's Political System
 
 Since independence from France (1962):
+
 - **FLN (National Liberation Front):** Dominated politics
 - **Military:** Power behind civilian facade
 - **"Le Pouvoir":** Informal power structure—generals, intelligence, business elite
@@ -44,6 +45,7 @@ Bouteflika came to power in 1999, promising reconciliation and stability.[^4]
 ### Youth Grievances
 
 By 2019, Algeria faced:
+
 - 30% youth unemployment
 - Housing crisis
 - Corruption pervasive
@@ -65,6 +67,7 @@ The protests caught everyone off guard—including the protesters.[^7]
 ### Characteristics
 
 **"Revolution of Smiles":**
+
 - Remarkably peaceful
 - Festive atmosphere; humor; music; art
 - Interclass: Workers, professionals, students, pensioners
@@ -72,11 +75,13 @@ The protests caught everyone off guard—including the protesters.[^7]
 - Football ultras helped organize
 
 **Slogans:**
+
 - "Yetnahaw ga'a" (They all must go)
 - "1, 2, 3, viva l'Algérie!" (football chant repurposed)
 - "Système dégage" (System go away)
 
 **Tactics:**
+
 - Friday marches (after prayers)
 - Student Tuesday protests
 - General strikes[^8]
@@ -96,6 +101,7 @@ But the military, not the Hirak, controlled the transition.[^9]
 ### Military Control
 
 General Gaïd Salah became the key figure:
+
 - Aligned with protests against Bouteflika
 - Then demanded protests stop
 - Oversaw interim government; crackdowns
@@ -105,6 +111,7 @@ General Gaïd Salah became the key figure:
 The regime pushed forward elections despite Hirak opposition:
 
 **December 12, 2019:** Abdelmadjid Tebboune elected president
+
 - Official turnout: 40% (likely lower)
 - Hirak boycotted; viewed Tebboune as regime continuation
 - Protests continued against the election
@@ -114,6 +121,7 @@ Tebboune was Bouteflika's former prime minister—hardly the change Hirak sought
 ### Crackdowns
 
 After Bouteflika's fall, arrests increased:
+
 - Activists, journalists, lawyers targeted
 - Charges: "Undermining national unity," "harming army morale"
 - By late 2019: 180+ Hirak prisoners
@@ -126,12 +134,14 @@ Old regime figures also prosecuted—but for show, not systemic reform.[^11]
 ## COVID and Decline
 
 **March 2020:** COVID-19 pandemic
+
 - Friday marches halted
 - Authorities used pandemic for further crackdowns
 - Activists arrested at home
 - Media restricted
 
 **2021-2022:** Attempted revival met with repression
+
 - Marches smaller; heavily policed
 - Arrests continued
 - Movement fragmented
@@ -144,27 +154,28 @@ The Hirak's mass phase ended, though its spirit remained.[^12]
 
 ### Hirak
 
-| Name/Group | Role |
-|------------|------|
-| Decentralized movement | No single leader |
-| Football ultras | Organizing, chants |
-| Karim Tabbou | Opposition figure (FFS); imprisoned |
-| Lakhdar Bouregaa | Independence war veteran; arrested at 86 |
-| Mohamed Tadjadit | "Poet of the Hirak" |
+| Name/Group             | Role                                     |
+| ---------------------- | ---------------------------------------- |
+| Decentralized movement | No single leader                         |
+| Football ultras        | Organizing, chants                       |
+| Karim Tabbou           | Opposition figure (FFS); imprisoned      |
+| Lakhdar Bouregaa       | Independence war veteran; arrested at 86 |
+| Mohamed Tadjadit       | "Poet of the Hirak"                      |
 
 ### Regime
 
-| Name | Role |
-|------|------|
-| Abdelaziz Bouteflika | President 1999-2019; resigned |
-| Ahmed Gaïd Salah | Army chief; died December 2019 |
-| Abdelmadjid Tebboune | President from December 2019 |
+| Name                 | Role                           |
+| -------------------- | ------------------------------ |
+| Abdelaziz Bouteflika | President 1999-2019; resigned  |
+| Ahmed Gaïd Salah     | Army chief; died December 2019 |
+| Abdelmadjid Tebboune | President from December 2019   |
 
 ---
 
 ## Death Toll
 
 **The Hirak was remarkably peaceful:**
+
 - No confirmed protest deaths from security forces during main phase (2019)
 - Some isolated incidents; a few deaths reported
 - Repression was primarily through arrests, not lethal force
@@ -217,36 +228,51 @@ The Hirak's demands—transparent elections, civilian rule, end to corruption—
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| February 10, 2019 | Bouteflika announces fifth-term bid |
-| February 22, 2019 | First massive Friday protests |
-| March 2019 | Bouteflika withdraws candidacy |
-| April 2, 2019 | Bouteflika resigns |
-| June 2019 | Elections cancelled; protests continue |
-| September 2019 | Crackdowns intensify; key activists arrested |
-| December 12, 2019 | Tebboune elected (40% turnout) |
-| December 23, 2019 | General Gaïd Salah dies |
-| March 2020 | COVID-19; Friday marches halt |
-| 2021-2022 | Attempted revival; continued repression |
+| Date              | Event                                        |
+| ----------------- | -------------------------------------------- |
+| February 10, 2019 | Bouteflika announces fifth-term bid          |
+| February 22, 2019 | First massive Friday protests                |
+| March 2019        | Bouteflika withdraws candidacy               |
+| April 2, 2019     | Bouteflika resigns                           |
+| June 2019         | Elections cancelled; protests continue       |
+| September 2019    | Crackdowns intensify; key activists arrested |
+| December 12, 2019 | Tebboune elected (40% turnout)               |
+| December 23, 2019 | General Gaïd Salah dies                      |
+| March 2020        | COVID-19; Friday marches halt                |
+| 2021-2022         | Attempted revival; continued repression      |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2019-2020 Algerian Protests](https://en.wikipedia.org/wiki/2019%E2%80%932020_Algerian_protests)
+
 [^2]: [MERIP - Hirak Analysis](https://merip.org/2019/algeria-hirak/)
+
 [^3]: [HRW - Algeria](https://www.hrw.org/news/2020/algeria-hirak-crackdown)
+
 [^4]: [Wikipedia - Algerian Civil War](https://en.wikipedia.org/wiki/Algerian_Civil_War)
+
 [^5]: [MEI - Bouteflika](https://www.mei.edu/publications/bouteflika-legacy/)
+
 [^6]: [Quartz - Youth](https://qz.com/africa/algeria-protests-youth-unemployment/)
+
 [^7]: [The Guardian - February 22](https://www.theguardian.com/world/2019/feb/22/algeria-protests-bouteflika)
+
 [^8]: [African Arguments - Revolution of Smiles](https://africanarguments.org/2019/algeria-revolution-of-smiles/)
+
 [^9]: [HRW - Bouteflika Fall](https://www.hrw.org/news/2019/04/algeria-bouteflika-resigns)
+
 [^10]: [AP News - Tebboune](https://apnews.com/article/algeria-tebboune-election-2019)
+
 [^11]: [State Department - Human Rights](https://www.state.gov/reports/algeria-human-rights/)
+
 [^12]: [Amnesty - COVID Crackdown](https://www.amnesty.org/en/latest/news/2020/algeria-covid-crackdown/)
+
 [^13]: [Wikipedia - Protests Deaths](https://en.wikipedia.org/wiki/2019%E2%80%932020_Algerian_protests#Casualties)
+
 [^14]: [Freedom House - Algeria](https://freedomhouse.org/country/algeria/freedom-world/2020)
+
 [^15]: [The OWP - Analysis](https://theowp.org/algeria-hirak-analysis/)
+
 [^16]: [VOA - Aftermath](https://www.voanews.com/a/algeria-hirak-anniversary/)

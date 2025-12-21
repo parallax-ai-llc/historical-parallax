@@ -135,25 +135,25 @@ Finally, critics note that many of Charles's reforms did not address fundamental
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1716 | Born on January 20 at the Royal Alcázar of Madrid |
-| 1731 | Became Duke of Parma and Piacenza at age 15 |
-| 1734 | Led Spanish conquest of Naples and Sicily |
-| 1735 | Crowned King of Naples (as Charles VII) and Sicily (as Charles V) on July 3 |
-| 1738 | Married Maria Amalia of Saxony on June 19 |
-| 1747 | Birth of first son; Maria Amalia given seat on council of state |
+| Year | Event                                                                          |
+| ---- | ------------------------------------------------------------------------------ |
+| 1716 | Born on January 20 at the Royal Alcázar of Madrid                              |
+| 1731 | Became Duke of Parma and Piacenza at age 15                                    |
+| 1734 | Led Spanish conquest of Naples and Sicily                                      |
+| 1735 | Crowned King of Naples (as Charles VII) and Sicily (as Charles V) on July 3    |
+| 1738 | Married Maria Amalia of Saxony on June 19                                      |
+| 1747 | Birth of first son; Maria Amalia given seat on council of state                |
 | 1759 | Became King of Spain on August 10 following death of half-brother Ferdinand VI |
-| 1759 | Abdicated thrones of Naples and Sicily to son Ferdinand on October 6 |
-| 1760 | Death of wife Maria Amalia from tuberculosis in September |
-| 1761 | Signed Family Compact with France |
-| 1762 | Entered Seven Years' War against Britain |
-| 1763 | Treaty of Paris: Spain lost Florida but gained Louisiana |
-| 1766 | Esquilache Riots erupted in Madrid in March |
-| 1767 | Expelled Jesuits from Spain and all Spanish territories on March 27 |
-| 1778 | Decreed intra-imperial free trade with American colonies |
-| 1779 | Signed Treaty of Aranjuez with France; entered American Revolutionary War |
-| 1783 | Treaty of Paris: Spain recovered Florida from Britain |
+| 1759 | Abdicated thrones of Naples and Sicily to son Ferdinand on October 6           |
+| 1760 | Death of wife Maria Amalia from tuberculosis in September                      |
+| 1761 | Signed Family Compact with France                                              |
+| 1762 | Entered Seven Years' War against Britain                                       |
+| 1763 | Treaty of Paris: Spain lost Florida but gained Louisiana                       |
+| 1766 | Esquilache Riots erupted in Madrid in March                                    |
+| 1767 | Expelled Jesuits from Spain and all Spanish territories on March 27            |
+| 1778 | Decreed intra-imperial free trade with American colonies                       |
+| 1779 | Signed Treaty of Aranjuez with France; entered American Revolutionary War      |
+| 1783 | Treaty of Paris: Spain recovered Florida from Britain                          |
 | 1788 | Died on December 14 at the Royal Palace of Madrid; succeeded by son Charles IV |
 
 ---
@@ -164,150 +164,272 @@ Finally, critics note that many of Charles's reforms did not address fundamental
 
 > "I reserve in my royal mind the urgent, just, and necessary reasons" for the expulsion of the Jesuits.[^120]
 
-*Context: Charles III's cryptic justification for expelling the Jesuits in 1767, demonstrating his use of absolute royal prerogative.*
+_Context: Charles III's cryptic justification for expelling the Jesuits in 1767, demonstrating his use of absolute royal prerogative._
 
 ### On Charles III (by Gaspar Melchor de Jovellanos)
 
 > The king had given Spain "useful sciences, economic principles, the general Enlightenment spirit".[^121]
 
-*Context: Jovellanos's speech "In Praise of Charles III" celebrating the king's introduction of Enlightenment values to Spain.*
+_Context: Jovellanos's speech "In Praise of Charles III" celebrating the king's introduction of Enlightenment values to Spain._
 
 ### Historical Assessment (by Stanley Payne)
 
 > "[Charles] was probably the most successful European ruler of his generation. He had provided firm, consistent, intelligent leadership. He had chosen capable ministers ... [his] personal life had won the respect of the people."[^122]
 
-*Context: Modern historical assessment of Charles III's overall reign and legacy.*
+_Context: Modern historical assessment of Charles III's overall reign and legacy._
 
 ### On Spanish Bourbon Rule (by John Lynch)
 
 > "Spaniards had to wait half a century before their government was rescued by Charles III."[^123]
 
-*Context: Historian's assessment emphasizing Charles III's importance in revitalizing Spanish government after decades of ineffective rule.*
+_Context: Historian's assessment emphasizing Charles III's importance in revitalizing Spanish government after decades of ineffective rule._
 
 ---
 
 ## References
 
 [^1]: [Charles III of Spain: an Enlightened Despot, Part I | History Today](https://www.historytoday.com/archive/charles-iii-spain-enlightened-despot-part-i)
+
 [^2]: [Charles III | Enlightened Monarch of Spain | Britannica](https://www.britannica.com/biography/Charles-III-king-of-Spain)
+
 [^3]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^4]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^5]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^6]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^7]: [CHARLES III (SPAIN) (1716 - – - 1788; ruled 1759)](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^8]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^9]: [Charles III of Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/charles-iii-spain)
+
 [^10]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^11]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^12]: [CHARLES III (SPAIN) (1716 - – - 1788; ruled 1759)](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^13]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^14]: [King Charles III, Spain & Italy – Institute for the Study of Western Civilization](https://westernciv.com/syllabus/history-of-modern-spain/spring/king-charles-iii-spain-italy/)
+
 [^15]: [Charles III summary | Britannica](https://www.britannica.com/summary/Charles-III-king-of-Spain)
+
 [^16]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^17]: [Charles III Gains the Spanish Throne | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/charles-iii-gains-spanish-throne)
+
 [^18]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^19]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^20]: [King Charles III of Spain Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/king-charles-iii-biography/)
+
 [^21]: [Carlos III, King of Spain, Duke of Parma and Piacenza, King of Naples, King of Sicily | Unofficial Royalty](https://www.unofficialroyalty.com/carlos-iii-king-of-spain-duke-of-parma-and-piacenza-king-of-naples-king-of-sicily/)
+
 [^22]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^23]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^24]: [King Charles III of Spain Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/king-charles-iii-biography/)
+
 [^25]: [Charles III | Enlightened Monarch of Spain | Britannica](https://www.britannica.com/biography/Charles-III-king-of-Spain)
+
 [^26]: [Charles III of Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/charles-iii-spain)
+
 [^27]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^28]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^29]: [The light and shade of Charles III of Spain - Apollo Magazine](https://apollo-magazine.com/light-shade-charles-iii-spain/)
+
 [^30]: [Carlos III: a revolutionary king - The Making of Madrid](https://www.themakingofmadrid.com/2018/01/03/carlos-iii-revolutionary-king/)
+
 [^31]: [Charles III of Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/charles-iii-spain)
+
 [^32]: [Architecture of Madrid - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Madrid)
+
 [^33]: [Carlos III: a revolutionary king - The Making of Madrid](https://www.themakingofmadrid.com/2018/01/03/carlos-iii-revolutionary-king/)
+
 [^34]: [The light and shade of Charles III of Spain - Apollo Magazine](https://apollo-magazine.com/light-shade-charles-iii-spain/)
+
 [^35]: [King Charles III of Spain Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/king-charles-iii-biography/)
+
 [^36]: [Bourbon Reforms - Wikipedia](https://en.wikipedia.org/wiki/Bourbon_Reforms)
+
 [^37]: [King Charles III of Spain Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/king-charles-iii-biography/)
+
 [^38]: [Bourbon Reforms - Wikipedia](https://en.wikipedia.org/wiki/Bourbon_Reforms)
+
 [^39]: [Bourbon Reforms - Wikipedia](https://en.wikipedia.org/wiki/Bourbon_Reforms)
+
 [^40]: [Charles III: International and Scientific Projection in a Kingdom of Enlightment](https://www.accioncultural.es/en/charles_iii_international_and_scientific_projection_in_an_kingdom_of)
+
 [^41]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^42]: [Charles III: International and Scientific Projection in a Kingdom of Enlightment](https://www.accioncultural.es/en/charles_iii_international_and_scientific_projection_in_an_kingdom_of)
+
 [^43]: [Charles III | Enlightened Monarch of Spain | Britannica](https://www.britannica.com/biography/Charles-III-king-of-Spain)
+
 [^44]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^45]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^46]: [King Charles III of Spain Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/king-charles-iii-biography/)
+
 [^47]: [Charles III Document Signed New World | Raab Collection](https://www.raabcollection.com/foreign-figures-autographs/charles-iii-1767)
+
 [^48]: [Suppression of the Society of Jesus - Wikipedia](https://en.wikipedia.org/wiki/Suppression_of_the_Society_of_Jesus)
+
 [^49]: [Suppression of the Society of Jesus - Wikipedia](https://en.wikipedia.org/wiki/Suppression_of_the_Society_of_Jesus)
+
 [^50]: [The Expulsion of The Jesuits From Spain and Spanish America In 1767 in Light of Eighteenth-Century Regalism | The Americas | Cambridge Core](https://www.cambridge.org/core/journals/americas/article/abs/expulsion-of-the-jesuits-from-spain-and-spanish-america-in-1767-in-light-of-eighteenthcentury-regalism/71AC0361060896CB5DE159790335F9DD)
+
 [^51]: [The Jesuit Expulsion: A Double-Edged Sword for State Authority in New Spain](http://franciscogarfias.com/Jesuits.pdf)
+
 [^52]: [Esquilache Riots - Wikipedia](https://en.wikipedia.org/wiki/Esquilache_Riots)
+
 [^53]: [The Esquilache riots - The Making of Madrid](https://www.themakingofmadrid.com/2017/02/13/cloak-and-dagger/)
+
 [^54]: [Esquilache Riots - Wikipedia](https://en.wikipedia.org/wiki/Esquilache_Riots)
+
 [^55]: [The Esquilache riots - The Making of Madrid](https://www.themakingofmadrid.com/2017/02/13/cloak-and-dagger/)
+
 [^56]: [Esquilache Riots - Wikipedia](https://en.wikipedia.org/wiki/Esquilache_Riots)
+
 [^57]: [Esquilache Riots - Wikipedia](https://en.wikipedia.org/wiki/Esquilache_Riots)
+
 [^58]: [Esquilache Riots - Wikipedia](https://en.wikipedia.org/wiki/Esquilache_Riots)
+
 [^59]: [Esquilache Riots - Wikipedia](https://en.wikipedia.org/wiki/Esquilache_Riots)
+
 [^60]: [Esquilache Riots - Wikipedia](https://en.wikipedia.org/wiki/Esquilache_Riots)
+
 [^61]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^62]: [Charles III - Project Seven Years War](https://www.kronoskaf.com/syw/index.php?title=Charles_III)
+
 [^63]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^64]: [Milestones in the History of U.S. Foreign Relations - Office of the Historian](https://history.state.gov/milestones/1750-1775/treaty-of-paris)
+
 [^65]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^66]: [Treaty of Aranjuez (1779) | George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/treaty-of-aranjuez-1779)
+
 [^67]: [Spain and the American Revolution - Museum of the American Revolution](https://www.amrevmuseum.org/spain-and-the-american-revolution)
+
 [^68]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^69]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^70]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^71]: [Bourbon Reforms - Wikipedia](https://en.wikipedia.org/wiki/Bourbon_Reforms)
+
 [^72]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^73]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^74]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^75]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^76]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^77]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^78]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^79]: [Maria Amalia of Saxony - La Galería de las Colecciones Reales](https://www.galeriadelascoleccionesreales.es/en/monarch/maria-amalia-of-saxony/74560ec1-3dcd-e895-d698-731b46f40e1d)
+
 [^80]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^81]: [Descendants of Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Descendants_of_Charles_III_of_Spain)
+
 [^82]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^83]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^84]: [Maria Amalia of Saxony - Wikipedia](https://en.wikipedia.org/wiki/Maria_Amalia_of_Saxony)
+
 [^85]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^86]: [King Charles III of Spain: The Enlightened Reformer | Inspired America](https://www.inspiredamericahq.com/king-charles-iii-of-spain-the-enlightened-reformer)
+
 [^87]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^88]: [Charles III of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_III_of_Spain)
+
 [^89]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^90]: [Charles IV of Spain - Wikipedia](https://en.wikipedia.org/wiki/Charles_IV_of_Spain)
+
 [^91]: [Charles IV | Reign of Charles, Bourbon Dynasty, Enlightenment | Britannica](https://www.britannica.com/biography/Charles-IV-king-of-Spain)
+
 [^92]: [Charles IV | Reign of Charles, Bourbon Dynasty, Enlightenment | Britannica](https://www.britannica.com/biography/Charles-IV-king-of-Spain)
+
 [^93]: [Carlos III: a revolutionary king - The Making of Madrid](https://www.themakingofmadrid.com/2018/01/03/carlos-iii-revolutionary-king/)
+
 [^94]: [The light and shade of Charles III of Spain - Apollo Magazine](https://apollo-magazine.com/light-shade-charles-iii-spain/)
+
 [^95]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^96]: [Bourbon Reforms - Wikipedia](https://en.wikipedia.org/wiki/Bourbon_Reforms)
+
 [^97]: [The First Phase of Reform under Charles III, 1763–1767 | The Spanish Atlantic World in the Eighteenth Century](https://www.cambridge.org/core/books/abs/spanish-atlantic-world-in-the-eighteenth-century/first-phase-of-reform-under-charles-iii-17631767/AD35BE19065DB2BB7AF20FB4DE99F5F3)
+
 [^98]: [Charles III: International and Scientific Projection in a Kingdom of Enlightment](https://www.accioncultural.es/en/charles_iii_international_and_scientific_projection_in_an_kingdom_of)
+
 [^99]: [King Charles III of Spain: The Enlightened Reformer | Inspired America](https://www.inspiredamericahq.com/king-charles-iii-of-spain-the-enlightened-reformer)
+
 [^100]: [Charles III of Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/charles-iii-spain)
+
 [^101]: [Charles III of Spain: an Enlightened Despot, Part I | History Today](https://www.historytoday.com/archive/charles-iii-spain-enlightened-despot-part-i)
+
 [^102]: [King Charles III of Spain: The Enlightened Reformer | Inspired America](https://www.inspiredamericahq.com/king-charles-iii-of-spain-the-enlightened-reformer)
+
 [^103]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^104]: [King Charles III of Spain: The Enlightened Reformer | Inspired America](https://www.inspiredamericahq.com/king-charles-iii-of-spain-the-enlightened-reformer)
+
 [^105]: [Charles III: International and Scientific Projection in a Kingdom of Enlightment](https://www.accioncultural.es/en/charles_iii_international_and_scientific_projection_in_an_kingdom_of)
+
 [^106]: [Charles III: International and Scientific Projection in a Kingdom of Enlightment](https://www.accioncultural.es/en/charles_iii_international_and_scientific_projection_in_an_kingdom_of)
+
 [^107]: [King Charles III of Spain Biography & Facts - AmericanRevolution.org](https://www.americanrevolution.org/king-charles-iii-biography/)
+
 [^108]: [Charles III: International and Scientific Projection in a Kingdom of Enlightment](https://www.accioncultural.es/en/charles_iii_international_and_scientific_projection_in_an_kingdom_of)
+
 [^109]: [Charles III of Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/charles-iii-spain)
+
 [^110]: [Suppression of the Society of Jesus - Wikipedia](https://en.wikipedia.org/wiki/Suppression_of_the_Society_of_Jesus)
+
 [^111]: [The Jesuit Expulsion: A Double-Edged Sword for State Authority in New Spain](http://franciscogarfias.com/Jesuits.pdf)
+
 [^112]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^113]: [Bourbon Reforms - Wikipedia](https://en.wikipedia.org/wiki/Bourbon_Reforms)
+
 [^114]: [The First Phase of Reform under Charles III, 1763–1767 | The Spanish Atlantic World in the Eighteenth Century](https://www.cambridge.org/core/books/abs/spanish-atlantic-world-in-the-eighteenth-century/first-phase-of-reform-under-charles-iii-17631767/AD35BE19065DB2BB7AF20FB4DE99F5F3)
+
 [^115]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)
+
 [^116]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^117]: [Charles Iii (spain) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/charles-iii-spain)
+
 [^118]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^119]: [Spain - The reign of Charles III, 1759–88 | Britannica](https://www.britannica.com/place/Spain/The-reign-of-Charles-III-1759-88)
+
 [^120]: [Charles III Document Signed New World | Raab Collection](https://www.raabcollection.com/foreign-figures-autographs/charles-iii-1767)
+
 [^121]: [Charles III of Spain: an Enlightened Despot, Part I | History Today](https://www.historytoday.com/archive/charles-iii-spain-enlightened-despot-part-i)
+
 [^122]: [King Charles III of Spain: The Enlightened Reformer | Inspired America](https://www.inspiredamericahq.com/king-charles-iii-of-spain-the-enlightened-reformer)
+
 [^123]: [Charles III of Spain (1716–1788) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/charles-iii-spain-1716-1788)

@@ -4,7 +4,8 @@ name: "Alexander Hamilton"
 birth: "1755-01-11"
 death: "1804-07-12"
 nationality: "United States"
-occupation: ["Founding Father", "Treasury Secretary", "Lawyer", "Military Officer", "Political Theorist"]
+occupation:
+  ["Founding Father", "Treasury Secretary", "Lawyer", "Military Officer", "Political Theorist"]
 image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Hamilton"
@@ -163,30 +164,30 @@ The harshest critics argue that Hamilton's legacy is fundamentally anti-American
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1755 | Born January 11 on the island of Nevis, British West Indies (date disputed; possibly 1757)[^171] |
-| 1765 | Family moves to St. Croix; father abandons family[^172] |
-| 1768 | Mother Rachel Faucette dies of yellow fever; Hamilton orphaned[^173] |
-| 1772 | Writes letter describing hurricane; impresses benefactors who fund his education[^174] |
-| 1773 | Arrives in North American colonies; enters King's College (Columbia University)[^175] |
-| 1776 | Commissioned captain of New York Provincial Artillery; fights at Trenton[^176] |
-| 1777 | Appointed aide-de-camp to General George Washington with rank of lieutenant colonel[^177] |
-| 1780 | Marries Elizabeth Schuyler on December 14[^178] |
-| 1781 | Leads successful assault on Redoubt 10 at Yorktown on October 14[^179] |
-| 1782 | First son Philip born January 22; elected to Continental Congress[^180] |
-| 1783 | Leaves active military service in November[^181] |
-| 1786 | Elected to New York legislature[^182] |
-| 1787 | Serves as delegate to Constitutional Convention[^183] |
-| 1787-88 | Writes 51 of 85 Federalist Papers to promote Constitution's ratification[^184] |
-| 1789 | Appointed first Secretary of the Treasury on September 11[^185] |
-| 1790 | Submits Report on Public Credit and Report on a National Bank[^186] |
-| 1791 | First Bank of the United States chartered; begins affair with Maria Reynolds[^187] |
-| 1791 | Submits Report on Manufactures[^188] |
-| 1795 | Resigns as Treasury Secretary[^189] |
-| 1797 | Publishes Reynolds Pamphlet confessing to adultery[^190] |
-| 1801 | Eldest son Philip killed in duel on November 24[^191] |
-| 1804 | Shot by Vice President Aaron Burr in duel at Weehawken on July 11; dies July 12[^192] |
+| Year    | Event                                                                                            |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| 1755    | Born January 11 on the island of Nevis, British West Indies (date disputed; possibly 1757)[^171] |
+| 1765    | Family moves to St. Croix; father abandons family[^172]                                          |
+| 1768    | Mother Rachel Faucette dies of yellow fever; Hamilton orphaned[^173]                             |
+| 1772    | Writes letter describing hurricane; impresses benefactors who fund his education[^174]           |
+| 1773    | Arrives in North American colonies; enters King's College (Columbia University)[^175]            |
+| 1776    | Commissioned captain of New York Provincial Artillery; fights at Trenton[^176]                   |
+| 1777    | Appointed aide-de-camp to General George Washington with rank of lieutenant colonel[^177]        |
+| 1780    | Marries Elizabeth Schuyler on December 14[^178]                                                  |
+| 1781    | Leads successful assault on Redoubt 10 at Yorktown on October 14[^179]                           |
+| 1782    | First son Philip born January 22; elected to Continental Congress[^180]                          |
+| 1783    | Leaves active military service in November[^181]                                                 |
+| 1786    | Elected to New York legislature[^182]                                                            |
+| 1787    | Serves as delegate to Constitutional Convention[^183]                                            |
+| 1787-88 | Writes 51 of 85 Federalist Papers to promote Constitution's ratification[^184]                   |
+| 1789    | Appointed first Secretary of the Treasury on September 11[^185]                                  |
+| 1790    | Submits Report on Public Credit and Report on a National Bank[^186]                              |
+| 1791    | First Bank of the United States chartered; begins affair with Maria Reynolds[^187]               |
+| 1791    | Submits Report on Manufactures[^188]                                                             |
+| 1795    | Resigns as Treasury Secretary[^189]                                                              |
+| 1797    | Publishes Reynolds Pamphlet confessing to adultery[^190]                                         |
+| 1801    | Eldest son Philip killed in duel on November 24[^191]                                            |
+| 1804    | Shot by Vice President Aaron Burr in duel at Weehawken on July 11; dies July 12[^192]            |
 
 ---
 
@@ -213,202 +214,401 @@ The harshest critics argue that Hamilton's legacy is fundamentally anti-American
 ## References
 
 [^1]: https://www.britannica.com/biography/Alexander-Hamilton-United-States-statesman
+
 [^2]: https://en.wikipedia.org/wiki/The_Federalist_Papers
+
 [^3]: https://www.history.com/articles/alexander-hamilton
+
 [^4]: https://en.wikipedia.org/wiki/Burr–Hamilton_duel
+
 [^5]: https://www.history.com/articles/alexander-hamilton
+
 [^6]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^7]: https://theahasociety.omeka.net/exhibits/show/hamiltonfounderandvisionary/earlylife
+
 [^8]: https://www.nps.gov/articles/000/alexander-hamilton.htm
+
 [^9]: https://www.history.com/articles/alexander-hamilton
+
 [^10]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^11]: https://www.britannica.com/biography/Alexander-Hamilton-United-States-statesman
+
 [^12]: https://parks.ny.gov/documents/historic-sites/SchuylerMansionAlexanderHamiltonsHiddenHistoryasanEnslaver.pdf
+
 [^13]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^14]: https://www.nps.gov/hagr/learn/education/alexander-hamilton-timeline.htm
+
 [^15]: https://www.history.com/articles/alexander-hamilton
+
 [^16]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^17]: https://www.fpri.org/article/2016/04/alexander-hamilton-american-dream/
+
 [^18]: https://www.battlefields.org/learn/biographies/alexander-hamilton
+
 [^19]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/alexander-hamilton
+
 [^20]: https://armyhistory.org/major-general-alexander-hamilton/
+
 [^21]: https://www.nps.gov/articles/000/alexander-hamilton-and-george-washington.htm
+
 [^22]: https://www.mountvernon.org/blog/2018/06/alexander-hamilton-washington-s-military-family
+
 [^23]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^24]: https://www.history.army.mil/books/revwar/ss/hamilton.htm
+
 [^25]: https://www.ushistory.org/brandywine/special/art08.htm
+
 [^26]: https://www.americanrevolutioninstitute.org/exhibition/alexander-hamiltons-american-revolution/
+
 [^27]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/alexander-hamilton
+
 [^28]: https://armyhistory.org/major-general-alexander-hamilton/
+
 [^29]: https://en.wikipedia.org/wiki/Elizabeth_Schuyler_Hamilton
+
 [^30]: https://www.biography.com/political-figures/alexander-hamilton-eliza-schuyler-love-story-marriage
+
 [^31]: https://www.loc.gov/collections/alexander-hamilton-papers/articles-and-essays/timeline/
+
 [^32]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^33]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^34]: https://constitutioncenter.org/signers/alexander-hamilton
+
 [^35]: https://www.pbs.org/wgbh/americanexperience/features/duel-hamilton-and-us-constitution/
+
 [^36]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/federalist-papers
+
 [^37]: https://guides.loc.gov/federalist-papers/full-text
+
 [^38]: https://home.treasury.gov/about/history/prior-secretaries/alexander-hamilton-1789-1795
+
 [^39]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/department-of-the-treasury
+
 [^40]: https://www.minneapolisfed.org/article/2007/the-bank-that-hamilton-built
+
 [^41]: https://www.studysmarter.co.uk/explanations/history/birth-of-the-usa/hamilton-financial-plan/
+
 [^42]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^43]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/alexander-hamilton
+
 [^44]: https://www.exploros.com/summary/Alexander-Hamiltons-Financial-Program
+
 [^45]: https://fraser.stlouisfed.org/title/report-secretary-treasury-alexander-hamilton-subject-a-national-bank-3677
+
 [^46]: https://www.minneapolisfed.org/article/2007/the-bank-that-hamilton-built
+
 [^47]: https://en.wikipedia.org/wiki/First_Bank_of_the_United_States
+
 [^48]: https://www.stlouisfed.org/open-vault/2020/july/how-hamilton-laid-foundation-for-federal-reserve
+
 [^49]: https://www.federalreservehistory.org/essays/first-bank-of-the-us
+
 [^50]: https://cards.algoreducation.com/en/content/4W3oY07O/alexander-hamilton-legacy
+
 [^51]: https://constitutioncenter.org/the-constitution/historic-document-library/detail/alexander-hamilton-federalist-no-1
+
 [^52]: https://www.gutenberg.org/files/1404/1404-h/1404-h.htm
+
 [^53]: https://fiveable.me/key-terms/apush/alexander-hamilton
+
 [^54]: https://www.history.com/articles/alexander-hamilton-slavery-facts
+
 [^55]: https://www.fpri.org/article/2016/04/alexander-hamilton-american-dream/
+
 [^56]: https://www.nps.gov/crps/CRMJournal/Winter2005/reviewexhibit2.html
+
 [^57]: https://cards.algoreducation.com/en/content/4W3oY07O/alexander-hamilton-legacy
+
 [^58]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^59]: https://artsandculture.google.com/story/alexander-hamilton-the-man-who-made-modern-america-the-gilder-lehrman-institute-of-american-history/IgVBQI_qMZefJQ?hl=en
+
 [^60]: https://en.wikipedia.org/wiki/Hamilton–Reynolds_affair
+
 [^61]: https://allthatsinteresting.com/maria-reynolds
+
 [^62]: https://www.smithsonianmag.com/history/alexander-hamiltons-adultery-and-apology-18021947/
+
 [^63]: https://www.history.com/articles/alexander-hamilton-maria-reynolds-pamphlet-affair
+
 [^64]: https://study.com/academy/lesson/alexander-hamilton-maria-reynolds-affair.html
+
 [^65]: https://libguides.butler.edu/c.php?g=972012&p=7028836
+
 [^66]: https://www.cliffsnotes.com/study-notes/18989412
+
 [^67]: https://www.history.com/articles/alexander-hamilton-maria-reynolds-pamphlet-affair
+
 [^68]: https://www.pbs.org/wgbh/americanexperience/features/duel-maria-reynolds/
+
 [^69]: https://the-footnote.org/2025/02/18/hamiltons-legacy-a-political-affair/
+
 [^70]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^71]: https://supreme.findlaw.com/legal-commentary/writings-of-an-influential-and-controversial-founder.html
+
 [^72]: https://www.ineteconomics.org/perspectives/blog/alexander-hamiltons-assault-on-working-people-enslaved-and-free
+
 [^73]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^74]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/alexander-hamilton
+
 [^75]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^76]: https://www.history.com/articles/alexander-hamilton-slavery-facts
+
 [^77]: https://parks.ny.gov/documents/historic-sites/SchuylerMansionAlexanderHamiltonsHiddenHistoryasanEnslaver.pdf
+
 [^78]: https://www.magellantv.com/articles/the-real-alexander-hamilton-foe-of-slavery-%E2%80%93-or-enabler
+
 [^79]: https://parks.ny.gov/documents/historic-sites/SchuylerMansionAlexanderHamiltonsHiddenHistoryasanEnslaver.pdf
+
 [^80]: https://columbiaandslavery.columbia.edu/content/dam/cuandslavery/seminars/hist-3518/2015-projects/Ball%202015%20-%20Hamilton%20and%20Slavery.pdf
+
 [^81]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^82]: https://www.britannica.com/event/Burr-Hamilton-duel
+
 [^83]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^84]: https://en.wikipedia.org/wiki/Elizabeth_Schuyler_Hamilton
+
 [^85]: https://www.biography.com/political-figures/alexander-hamilton-eliza-schuyler-love-story-marriage
+
 [^86]: https://www.nps.gov/articles/000/elizabeth-schuyler-hamilton.htm
+
 [^87]: https://study.com/academy/lesson/eliza-hamilton-family-life-death.html
+
 [^88]: https://allthatsinteresting.com/alexander-hamilton-children
+
 [^89]: https://www.blinkist.com/magazine/posts/alexander-hamilton-children
+
 [^90]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^91]: https://en.wikipedia.org/wiki/Elizabeth_Schuyler_Hamilton
+
 [^92]: https://www.nps.gov/articles/000/elizabeth-schuyler-hamilton.htm
+
 [^93]: https://www.amightygirl.com/blog?p=30703
+
 [^94]: https://allthatsinteresting.com/alexander-hamilton-children
+
 [^95]: https://en.wikipedia.org/wiki/Elizabeth_Schuyler_Hamilton
+
 [^96]: https://www.britannica.com/event/Burr-Hamilton-duel
+
 [^97]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^98]: https://www.goodreads.com/author/quotes/51287.Alexander_Hamilton
+
 [^99]: https://aigift.alibaba.com/quotes/alexander-hamilton-quotes
+
 [^100]: https://www.fpri.org/article/2016/04/alexander-hamilton-american-dream/
+
 [^101]: https://www.britannica.com/quotes/Alexander-Hamilton-United-States-statesman
+
 [^102]: https://en.wikipedia.org/wiki/Elizabeth_Schuyler_Hamilton
+
 [^103]: https://trinitychurchnyc.org/stories-news/elizabeth-schuyler-hamilton-almost-century-service
+
 [^104]: https://socialwelfare.library.vcu.edu/eras/antebellum/hamilton-elizabeth-schuyler/
+
 [^105]: https://www.gilderlehrman.org/history-now/journals/alexander-hamilton-american-imagination
+
 [^106]: https://archive.org/details/alexanderhamilto0000cher
+
 [^107]: https://ronchernow.com/alexander-hamilton/
+
 [^108]: https://cards.algoreducation.com/en/content/4W3oY07O/alexander-hamilton-legacy
+
 [^109]: https://www.nps.gov/crps/CRMJournal/Winter2005/reviewexhibit2.html
+
 [^110]: https://www.stlouisfed.org/open-vault/2020/july/how-hamilton-laid-foundation-for-federal-reserve
+
 [^111]: https://guides.loc.gov/federalist-papers/full-text
+
 [^112]: https://billofrightsinstitute.org/essays/alexander-hamilton-and-the-national-bank
+
 [^113]: https://fiveable.me/key-terms/apush/alexander-hamilton
+
 [^114]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^115]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/jefferson-and-hamilton-political-rivals
+
 [^116]: https://cards.algoreducation.com/en/content/4W3oY07O/alexander-hamilton-legacy
+
 [^117]: https://www.fpri.org/article/2016/04/alexander-hamilton-american-dream/
+
 [^118]: https://www.uscis.gov/about-us/find-a-uscis-office/uscis-facilities-dedicated-to-the-memory-of-immigrant-medal-of-honor-recipients/alexander-hamilton
+
 [^119]: https://artsandculture.google.com/story/alexander-hamilton-the-man-who-made-modern-america-the-gilder-lehrman-institute-of-american-history/IgVBQI_qMZefJQ?hl=en
+
 [^120]: https://www.nps.gov/articles/000/alexander-hamilton.htm
+
 [^121]: https://www.history.com/articles/alexander-hamilton-slavery-facts
+
 [^122]: https://www.uscis.gov/about-us/find-a-uscis-office/uscis-facilities-dedicated-to-the-memory-of-immigrant-medal-of-honor-recipients/alexander-hamilton
+
 [^123]: https://ronchernow.com/alexander-hamilton/
+
 [^124]: https://www.penguinrandomhouse.com/books/292945/alexander-hamilton-by-ron-chernow/
+
 [^125]: https://www.shortform.com/summary/alexander-hamilton-summary-ron-chernow
+
 [^126]: https://www.gilderlehrman.org/history-now/journals/alexander-hamilton-american-imagination
+
 [^127]: https://www.imdb.com/title/tt8503618/quotes/
+
 [^128]: https://www.nps.gov/crps/CRMJournal/Winter2005/reviewexhibit2.html
+
 [^129]: https://www.ala.org/tools/programming/exhibitions/hamilton/exhibitionthemeoverview
+
 [^130]: https://artsandculture.google.com/story/alexander-hamilton-the-man-who-made-modern-america-the-gilder-lehrman-institute-of-american-history/IgVBQI_qMZefJQ?hl=en
+
 [^131]: https://www.penguinrandomhouse.com/books/292945/alexander-hamilton-by-ron-chernow/
+
 [^132]: https://academic.oup.com/jah/article-abstract/93/1/192/814486
+
 [^133]: https://www.nps.gov/articles/000/alexander-hamilton.htm
+
 [^134]: https://www.minneapolisfed.org/article/2007/the-bank-that-hamilton-built
+
 [^135]: https://www.minneapolisfed.org/article/2007/the-bank-that-hamilton-built
+
 [^136]: https://constitutioncenter.org/the-constitution/historic-document-library/detail/alexander-hamilton-federalist-no-1
+
 [^137]: https://www.gutenberg.org/files/1404/1404-h/1404-h.htm
+
 [^138]: https://www.h-net.org/reviews/showrev.php?id=36644
+
 [^139]: https://www.fpri.org/article/2016/04/alexander-hamilton-american-dream/
+
 [^140]: https://www.uscis.gov/about-us/find-a-uscis-office/uscis-facilities-dedicated-to-the-memory-of-immigrant-medal-of-honor-recipients/alexander-hamilton
+
 [^141]: https://www.gilderlehrman.org/history-now/journals/alexander-hamilton-american-imagination
+
 [^142]: https://www.history.com/articles/alexander-hamilton-slavery-facts
+
 [^143]: https://socialwelfare.library.vcu.edu/eras/antebellum/hamilton-elizabeth-schuyler/
+
 [^144]: https://www.shortform.com/summary/alexander-hamilton-summary-ron-chernow
+
 [^145]: https://cards.algoreducation.com/en/content/4W3oY07O/alexander-hamilton-legacy
+
 [^146]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^147]: https://www.nps.gov/crps/CRMJournal/Winter2005/reviewexhibit2.html
+
 [^148]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/jefferson-and-hamilton-political-rivals
+
 [^149]: https://teachinghistory.org/history-content/ask-a-historian/24094
+
 [^150]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^151]: https://supreme.findlaw.com/legal-commentary/writings-of-an-influential-and-controversial-founder.html
+
 [^152]: https://www.ineteconomics.org/perspectives/blog/alexander-hamiltons-assault-on-working-people-enslaved-and-free
+
 [^153]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^154]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^155]: https://www.azquotes.com/author/6160-Alexander_Hamilton
+
 [^156]: https://en.wikipedia.org/wiki/Alexander_Hamilton
+
 [^157]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^158]: https://www.history.com/articles/alexander-hamilton-maria-reynolds-pamphlet-affair
+
 [^159]: https://the-footnote.org/2025/02/18/hamiltons-legacy-a-political-affair/
+
 [^160]: https://www.magellantv.com/articles/the-real-alexander-hamilton-foe-of-slavery-%E2%80%93-or-enabler
+
 [^161]: https://columbiaandslavery.columbia.edu/content/dam/cuandslavery/seminars/hist-3518/2015-projects/Ball%202015%20-%20Hamilton%20and%20Slavery.pdf
+
 [^162]: https://parks.ny.gov/documents/historic-sites/SchuylerMansionAlexanderHamiltonsHiddenHistoryasanEnslaver.pdf
+
 [^163]: https://www.ineteconomics.org/perspectives/blog/alexander-hamiltons-assault-on-working-people-enslaved-and-free
+
 [^164]: https://www.ineteconomics.org/perspectives/blog/alexander-hamiltons-assault-on-working-people-enslaved-and-free
+
 [^165]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^166]: https://www.britannica.com/event/Burr-Hamilton-duel
+
 [^167]: https://academic.oup.com/jah/article-abstract/93/1/192/814486
+
 [^168]: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/jefferson-and-hamilton-political-rivals
+
 [^169]: https://www.hoodedutilitarian.com/2014/04/alexander-hamilton-was-an-authoritarian-jerk/
+
 [^170]: https://www.ineteconomics.org/perspectives/blog/alexander-hamiltons-assault-on-working-people-enslaved-and-free
+
 [^171]: https://www.history.com/articles/alexander-hamilton
+
 [^172]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^173]: https://www.loc.gov/collections/alexander-hamilton-papers/articles-and-essays/timeline/
+
 [^174]: https://www.nps.gov/hagr/learn/education/alexander-hamilton-timeline.htm
+
 [^175]: https://oll.libertyfund.org/pages/chronology-alexander-hamilton
+
 [^176]: https://artsandculture.google.com/story/alexander-hamilton-a-chronology-the-gilder-lehrman-institute-of-american-history/MwXx5vHIWufNKA?hl=en
+
 [^177]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^178]: https://www.loc.gov/collections/alexander-hamilton-papers/articles-and-essays/timeline/
+
 [^179]: https://www.nps.gov/hagr/learn/education/alexander-hamilton-timeline.htm
+
 [^180]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^181]: https://www.loc.gov/collections/alexander-hamilton-papers/articles-and-essays/timeline/
+
 [^182]: https://oll.libertyfund.org/pages/chronology-alexander-hamilton
+
 [^183]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^184]: https://www.loc.gov/collections/alexander-hamilton-papers/articles-and-essays/timeline/
+
 [^185]: https://home.treasury.gov/about/history/prior-secretaries/alexander-hamilton-1789-1795
+
 [^186]: https://www.nps.gov/hagr/learn/education/alexander-hamilton-timeline.htm
+
 [^187]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^188]: https://oll.libertyfund.org/pages/chronology-alexander-hamilton
+
 [^189]: https://www.loc.gov/collections/alexander-hamilton-papers/articles-and-essays/timeline/
+
 [^190]: https://www.pbs.org/wgbh/americanexperience/features/alexander-hamilton-chronology/
+
 [^191]: https://www.nps.gov/hagr/learn/education/alexander-hamilton-timeline.htm
+
 [^192]: https://www.britannica.com/biography/Alexander-Hamilton-United-States-statesman
+
 [^193]: https://www.goodreads.com/author/quotes/51287.Alexander_Hamilton
+
 [^194]: https://en.wikiquote.org/wiki/Alexander_Hamilton
+
 [^195]: https://www.brainyquote.com/authors/alexander-hamilton-quotes
+
 [^196]: https://theusaleaders.com/quotes/alexander-hamilton-quotes/
+
 [^197]: https://www.azquotes.com/author/6160-Alexander_Hamilton
+
 [^198]: https://www.wisdomly.net/alexander-hamilton-108.php
+
 [^199]: https://oll.libertyfund.org/people/alexander-hamilton/quotes
+
 [^200]: https://aigift.alibaba.com/quotes/alexander-hamilton-quotes

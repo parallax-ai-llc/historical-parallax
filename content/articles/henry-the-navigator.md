@@ -203,27 +203,27 @@ Historians increasingly recognize that Henry's legacy is inseparable from the At
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1394 | Born March 4 in Porto, Portugal |
-| 1415 | Participated in Portuguese conquest of Ceuta |
-| 1418 | Portuguese rediscovered Madeira Islands |
-| 1419 | Appointed governor of Algarve province |
-| 1420 | Became administrator of Order of Christ; colonization of Madeira began |
-| 1427 | Portuguese discovered Azores Islands |
-| 1431 | Donated houses for sciences at University of Lisbon |
-| 1433 | Granted exclusive exploration rights beyond Cape Bojador |
-| 1434 | Gil Eanes successfully sailed past Cape Bojador |
-| 1437 | Led disastrous military expedition to Tangier; brother Fernando taken hostage |
-| 1439 | Colonization of Azores began |
-| 1441 | First African captives brought to Portugal; beginning of slave trade involvement |
-| 1443 | Brother Fernando died in captivity in Fez |
-| 1444 | First large-scale slave-raiding expedition; forty vessels sailed from Lagos |
-| 1449 | Gained full control of Azores after brother Pedro's death |
-| 1452 | First Portuguese gold cruzado coins minted from West African gold |
+| Year  | Event                                                                                          |
+| ----- | ---------------------------------------------------------------------------------------------- |
+| 1394  | Born March 4 in Porto, Portugal                                                                |
+| 1415  | Participated in Portuguese conquest of Ceuta                                                   |
+| 1418  | Portuguese rediscovered Madeira Islands                                                        |
+| 1419  | Appointed governor of Algarve province                                                         |
+| 1420  | Became administrator of Order of Christ; colonization of Madeira began                         |
+| 1427  | Portuguese discovered Azores Islands                                                           |
+| 1431  | Donated houses for sciences at University of Lisbon                                            |
+| 1433  | Granted exclusive exploration rights beyond Cape Bojador                                       |
+| 1434  | Gil Eanes successfully sailed past Cape Bojador                                                |
+| 1437  | Led disastrous military expedition to Tangier; brother Fernando taken hostage                  |
+| 1439  | Colonization of Azores began                                                                   |
+| 1441  | First African captives brought to Portugal; beginning of slave trade involvement               |
+| 1443  | Brother Fernando died in captivity in Fez                                                      |
+| 1444  | First large-scale slave-raiding expedition; forty vessels sailed from Lagos                    |
+| 1449  | Gained full control of Azores after brother Pedro's death                                      |
+| 1452  | First Portuguese gold cruzado coins minted from West African gold                              |
 | 1450s | Portuguese discovered Cape Verde Islands; enslaved Africans forced to work Madeira plantations |
-| 1458 | Participated in capture of Alcacer |
-| 1460 | Portuguese explorers reached Sierra Leone; died November 13 in Vila do Bispo, Algarve |
+| 1458  | Participated in capture of Alcacer                                                             |
+| 1460  | Portuguese explorers reached Sierra Leone; died November 13 in Vila do Bispo, Algarve          |
 
 ---
 
@@ -250,115 +250,227 @@ The scarcity of authentic quotations from Henry himself reflects both the limita
 ## References
 
 [^1]: [Prince Henry the Navigator - Wikipedia](https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator)
+
 [^2]: [Prince Henry the Navigator: Biography, Exploration, Facts - Biography.com](https://www.biography.com/history-culture/henry-the-navigator)
+
 [^3]: [Henry the Navigator | Biography, Facts, Achievements, & Importance - Britannica](https://www.britannica.com/biography/Henry-the-Navigator)
+
 [^4]: [Henry The Navigator Biography - TheFamousPeople](https://www.thefamouspeople.com/profiles/henry-the-navigator-5604.php)
+
 [^5]: [Henry the Navigator | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/henry-navigator)
+
 [^6]: [Henry the Navigator - Students | Britannica Kids](https://kids.britannica.com/students/article/Henry-the-Navigator/274845)
+
 [^7]: [Henry the Navigator | Facts, Biography & Discoveries - Study.com](https://study.com/academy/lesson/henry-the-navigator-biography-timeline-voyages.html)
+
 [^8]: [Henry the Navigator - Citizendium](https://citizendium.org/wiki/Henry_the_Navigator)
+
 [^9]: [CATHOLIC ENCYCLOPEDIA: Prince Henry the Navigator](https://www.newadvent.org/cathen/07239a.htm)
+
 [^10]: [Portuguese conquest of Ceuta - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_conquest_of_Ceuta)
+
 [^11]: [The Conquest of Ceuta, 22 August, 1415 - World Heritage of Portuguese Origin](http://www.worldheritageofportugueseorigin.com/2015/06/20/the-conquest-of-ceuta-22-august-1415/)
+
 [^12]: [Conquest of Ceuta - Military Wiki](https://military-history.fandom.com/wiki/Conquest_of_Ceuta)
+
 [^13]: [Morocco: the 'other' Algarve](https://algarvehistoryassociation.com/en/portuguese-history/portuguese-empire/118-morocco-the-other-algarve)
+
 [^14]: [Portugal - Early Voyages - Country Studies](https://countrystudies.us/portugal/22.htm)
+
 [^15]: [Henry the Navigator - 1910 New Catholic Dictionary](https://www.studylight.org/dictionaries/eng/ncd/h/henry-the-navigator.html)
+
 [^16]: [Henry the Navigator - Portugal.com](https://www.portugal.com/history-and-culture/henry-the-navigator/)
+
 [^17]: [Order of Christ - Britannica](https://www.britannica.com/topic/Order-of-Christ)
+
 [^18]: [Prince Henry the Navigator - World History Encyclopedia](https://www.worldhistory.org/Prince_Henry_the_Navigator/)
+
 [^19]: [CATHOLIC ENCYCLOPEDIA: Order of the Knights of Christ](https://www.newadvent.org/cathen/03698b.htm)
+
 [^20]: [Henry the Navigator - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Henry_the_Navigator)
+
 [^21]: [The Legacy of Henry the Navigator - National Geographic Education](https://education.nationalgeographic.org/resource/legacy-henry-navigator/)
+
 [^22]: [Prince Henry the Navigator Promotes Portuguese Exploration - EBSCO Research](https://www.ebsco.com/research-starters/history/prince-henry-navigator-promotes-portuguese-exploration)
+
 [^23]: [The Portuguese Colonization of the Azores - World History Encyclopedia](https://www.worldhistory.org/article/1758/the-portuguese-colonization-of-the-azores/)
+
 [^24]: [Meet Henry the Navigator - TheCollector](https://www.thecollector.com/henry-navigator-man-age-exploration/)
+
 [^25]: [Voyages of Discovery - Alastair Leithead](https://alastairleithead.substack.com/p/voyages-of-discovery)
+
 [^26]: [Gil Eanes the navigator - Portugalexpert](https://www.portugalexpert.de/en/portugal-history-gil-eanes-the-navigator/)
+
 [^27]: [Caravel (ship) - EBSCO Research](https://www.ebsco.com/research-starters/history/caravel-ship)
+
 [^28]: [Henry the Navigator - Heritage History](https://heritage-history.com/index.php?c=resources&s=char-dir&f=navigator)
+
 [^29]: [Prince Henry the Navigator - European History 1000 to 1500 - Fiveable](https://library.fiveable.me/key-terms/europe-1000-1500/prince-henry-the-navigator)
+
 [^30]: [10 Prince Henry the Navigator Accomplishments - Have Fun With History](https://www.havefunwithhistory.com/prince-henry-the-navigator-accomplishments/)
+
 [^31]: [Prince Henry the Navigator - American History Central](https://www.americanhistorycentral.com/entries/prince-henry-the-navigator/)
+
 [^32]: [Prince Henry of Portugal—The Forerunner of Globalization - IDN](https://indepthnews.net/prince-henry-of-portugal-the-forerunner-of-globalization/)
+
 [^33]: [Henry the Navigator Leads Order of Christ - EBSCO Research](https://www.ebsco.com/research-starters/history/henry-navigator-leads-order-christ)
+
 [^34]: [Prince Henry the Navigator timeline - Timetoast](https://www.timetoast.com/timelines/prince-henry-the-navigator--12)
+
 [^35]: [Henry the Navigator - Lisbon Lisboa Portugal](https://lisbonlisboaportugal.com/Lisbon-information/Henry_Navigator.html)
+
 [^36]: [Prince Henry the Navigator and the Beginning of the Portuguese Slave Trade - Brewminate](https://brewminate.com/prince-henry-the-navigator-and-the-beginning-of-the-portuguese-slave-trade/)
+
 [^37]: [Henry the Navigator - Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095931270)
+
 [^38]: [The Legacy of Prince Henry the Navigator - Lisbon Listicles](https://lisbonlisticles.com/2025/06/13/the-legacy-of-prince-henry-the-navigator/)
+
 [^39]: [Henry the Navigator - Algarve History Association](https://www.algarvehistoryassociation.com/en/portuguese-history/portugal/127-henry-the-navigator)
+
 [^40]: [Henry the Navigator | Catholic Answers Encyclopedia](https://www.catholic.com/encyclopedia/henry-the-navigator)
+
 [^41]: [Prince Henry The Navigator - US Naval Institute Proceedings](https://www.usni.org/magazines/proceedings/1960/november/prince-henry-navigator)
+
 [^42]: [Henry the Navigator - Exploration, Voyages, Discoveries - Britannica](https://www.britannica.com/biography/Henry-the-Navigator/Final-maritime-ventures)
+
 [^43]: [OPINION: Prince Henry the Navigator was one of the founders of the slave trade - New Bedford Guide](https://www.newbedfordguide.com/opinion-prince-henry-founders-slave-trade/2019/03/25)
+
 [^44]: [The Middle Passage and Slave Trade - Students of History](https://www.studentsofhistory.com/middle-passage)
+
 [^45]: [Prince Henry the Navigator - (European History 1000 to 1500) - Fiveable](https://library.fiveable.me/key-terms/europe-1000-1500/prince-henry-the-navigator)
+
 [^46]: ['Prince Henry the Navigator. A Life', a review by David Abulafia](https://archives.history.ac.uk/history-in-focus/Sea/reviews/abulafia.html)
+
 [^47]: [Prince Henry the Navigator | Biography, Facts & Accomplishments - Study.com](https://study.com/academy/lesson/prince-henry-of-portugal-biography-facts-quiz.html)
+
 [^48]: [Henry the Navigator: Life & Accomplishments - StudySmarter](https://www.studysmarter.us/explanations/history/european-history/henry-the-navigator/)
+
 [^49]: [Prince Henry the Navigator - World History Encyclopedia](https://www.worldhistory.org/Prince_Henry_the_Navigator/)
+
 [^50]: [Henry the Navigator - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Henry_the_Navigator)
-[^51]: [Battle of Tangier (1437) - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Tangier_(1437))
+
+[^51]: [Battle of Tangier (1437) - Wikipedia](<https://en.wikipedia.org/wiki/Battle_of_Tangier_(1437)>)
+
 [^52]: [Portugal: Henry the Navigator – the man and the myth - Kudu Travel](https://www.kudutravel.com/blog/henry-the-navigator)
+
 [^53]: [The Shapers of Portugal - Infante Dom Henrique - Tomorrow Algarve](https://tomorrowalgarve.com/apr-2024-the-shapers-of-portugal-infante-dom-henrique/)
+
 [^54]: [Morocco: the 'other' Algarve - Algarve History Association](https://algarvehistoryassociation.com/en/portuguese-history/portuguese-empire/118-morocco-the-other-algarve)
+
 [^55]: [CATHOLIC ENCYCLOPEDIA: Prince Henry the Navigator](https://www.newadvent.org/cathen/07239a.htm)
+
 [^56]: [Henry The Navigator - Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/henry-navigator)
+
 [^57]: [Sagres school - Wikipedia](https://en.wikipedia.org/wiki/Sagres_school)
+
 [^58]: [The Myth of Sagres - Portugal Resident](https://www.portugalresident.com/the-myth-of-sagres/)
+
 [^59]: [The alleged nautical school founded in the fifteenth century at Sagres - Imago Mundi](https://www.tandfonline.com/doi/abs/10.1080/03085699308592761)
+
 [^60]: [Sagres school - Grokipedia](https://grokipedia.com/page/Sagres_school)
+
 [^61]: [Sagres Point - Wikipedia](https://en.wikipedia.org/wiki/Sagres_Point)
+
 [^62]: [Cape Sagres - Smithsonian Magazine](https://www.smithsonianmag.com/travel/cape-sagres-12592242/)
-[^63]: [Henry 'the Navigator' - Journal of Medieval History](https://www.tandfonline.com/doi/abs/10.1016/S0304-4181(01)00002-1)
+
+[^63]: [Henry 'the Navigator' - Journal of Medieval History](<https://www.tandfonline.com/doi/abs/10.1016/S0304-4181(01)00002-1>)
+
 [^64]: [(PDF) Henry 'the Navigator' - Academia.edu](https://www.academia.edu/114073871/Henry_the_Navigator_)
+
 [^65]: [Henry the Navigator | Portuguese Prince and Patron of Exploration - Taylor & Francis](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315063706-79/henry-navigator-john-strickland)
+
 [^66]: [Prince Henry "the Navigator": A Life (review) - ResearchGate](https://www.researchgate.net/publication/265942964_Prince_Henry_the_Navigator_A_Life_review)
+
 [^67]: [Prince Henry "the Navigator": A Life (review) - Project MUSE](http://muse.jhu.edu/article/16227)
+
 [^68]: [Prince Henry the Navigator - EBSCO Research](https://www.ebsco.com/research-starters/history/prince-henry-navigator)
+
 [^69]: [Prince Henry the Navigator - World History Encyclopedia](https://www.worldhistory.org/Prince_Henry_the_Navigator/)
+
 [^70]: [Henry the Navigator - Portugal.com](https://www.portugal.com/history-and-culture/henry-the-navigator/)
+
 [^71]: [Henry the Navigator | Facts, Biography & Discoveries - Study.com](https://study.com/academy/lesson/video/henry-the-navigator-biography-timeline-voyages.html)
+
 [^72]: [Order of Christ - Britannica](https://www.britannica.com/topic/Order-of-Christ)
+
 [^73]: [CATHOLIC ENCYCLOPEDIA: Order of the Knights of Christ](https://www.newadvent.org/cathen/03698b.htm)
+
 [^74]: [Henry the Navigator - Citizendium](https://en.citizendium.org/wiki/Henry_the_Navigator)
+
 [^75]: [Henry the Navigator - Lisbon Lisboa Portugal](https://lisbonlisboaportugal.com/Lisbon-information/Henry_Navigator.html)
+
 [^76]: [Portugal and the Order of the Garter - Algarve Daily News](https://algarvedailynews.com/history/19333-portugal-and-the-order-of-the-garter)
+
 [^77]: [The Legacy of Henry the Navigator - National Geographic Education](https://education.nationalgeographic.org/resource/legacy-henry-navigator/)
+
 [^78]: [Prince Henry the Navigator Promotes Portuguese Exploration - EBSCO Research](https://www.ebsco.com/research-starters/history/prince-henry-navigator-promotes-portuguese-exploration)
+
 [^79]: [Prince Henry the Navigator: Biography, Exploration, Facts - Biography.com](https://www.biography.com/history-culture/henry-the-navigator)
+
 [^80]: [Meet Henry the Navigator - TheCollector](https://www.thecollector.com/henry-navigator-man-age-exploration/)
+
 [^81]: [Prince Henry the Navigator - (European History 1000 to 1500) - Fiveable](https://library.fiveable.me/key-terms/europe-1000-1500/prince-henry-the-navigator)
+
 [^82]: [Prince Henry the Navigator - American History Central](https://www.americanhistorycentral.com/entries/prince-henry-the-navigator/)
+
 [^83]: [Prince Henry of Portugal—The Forerunner of Globalization - IDN](https://indepthnews.net/prince-henry-of-portugal-the-forerunner-of-globalization/)
+
 [^84]: [Henry the Navigator - Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095931270)
+
 [^85]: [Portugal - Early Voyages - Country Studies](https://countrystudies.us/portugal/22.htm)
+
 [^86]: [Prince Henry the Navigator and the Beginning of the Portuguese Slave Trade - Brewminate](https://brewminate.com/prince-henry-the-navigator-and-the-beginning-of-the-portuguese-slave-trade/)
+
 [^87]: [Monument to the Discoveries - Wikipedia](https://en.wikipedia.org/wiki/Monument_of_the_Discoveries)
+
 [^88]: [Padrão dos Descobrimentos Lisbon - Lisbon Lisboa Portugal](https://lisbonlisboaportugal.com/belem-lisbon/Padrao-Descobrimentos-Monument-Discoveries.html)
+
 [^89]: [The Myth of Sagres - Portugal Resident](https://www.portugalresident.com/the-myth-of-sagres/)
+
 [^90]: [OPINION: Prince Henry the Navigator was one of the founders of the slave trade - New Bedford Guide](https://www.newbedfordguide.com/opinion-prince-henry-founders-slave-trade/2019/03/25)
+
 [^91]: [Prince Henry the Navigator and the Beginning of the Portuguese Slave Trade - Brewminate](https://brewminate.com/prince-henry-the-navigator-and-the-beginning-of-the-portuguese-slave-trade/)
+
 [^92]: [The Middle Passage and Slave Trade - Students of History](https://www.studentsofhistory.com/middle-passage)
+
 [^93]: [The Legacy of Henry the Navigator - National Geographic Education](https://education.nationalgeographic.org/resource/legacy-henry-navigator/)
-[^94]: [Henry 'the Navigator' - Journal of Medieval History](https://www.tandfonline.com/doi/abs/10.1016/S0304-4181(01)00002-1)
+
+[^94]: [Henry 'the Navigator' - Journal of Medieval History](<https://www.tandfonline.com/doi/abs/10.1016/S0304-4181(01)00002-1>)
+
 [^95]: [Prince Henry the Navigator - EBSCO Research](https://www.ebsco.com/research-starters/history/prince-henry-navigator)
+
 [^96]: [Caravel (ship) - EBSCO Research](https://www.ebsco.com/research-starters/history/caravel-ship)
+
 [^97]: [Prince Henry The Navigator - US Naval Institute Proceedings](https://www.usni.org/magazines/proceedings/1960/november/prince-henry-navigator)
+
 [^98]: [CATHOLIC ENCYCLOPEDIA: Prince Henry the Navigator](https://www.newadvent.org/cathen/07239a.htm)
+
 [^99]: [Henry the Navigator - Portugal.com](https://www.portugal.com/history-and-culture/henry-the-navigator/)
+
 [^100]: [The Legacy of Prince Henry the Navigator - Lisbon Listicles](https://lisbonlisticles.com/2025/06/13/the-legacy-of-prince-henry-the-navigator/)
+
 [^101]: [OPINION: Prince Henry the Navigator was one of the founders of the slave trade - New Bedford Guide](https://www.newbedfordguide.com/opinion-prince-henry-founders-slave-trade/2019/03/25)
+
 [^102]: [Prince Henry the Navigator and the Beginning of the Portuguese Slave Trade - Brewminate](https://brewminate.com/prince-henry-the-navigator-and-the-beginning-of-the-portuguese-slave-trade/)
+
 [^103]: ['Prince Henry the Navigator. A Life', a review by David Abulafia](https://archives.history.ac.uk/history-in-focus/Sea/reviews/abulafia.html)
+
 [^104]: [Prince Henry "the Navigator": A Life (review) - Project MUSE](http://muse.jhu.edu/article/16227)
+
 [^105]: [Prince Henry the Navigator - Wikipedia](https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator)
-[^106]: [Battle of Tangier (1437) - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Tangier_(1437))
+
+[^106]: [Battle of Tangier (1437) - Wikipedia](<https://en.wikipedia.org/wiki/Battle_of_Tangier_(1437)>)
+
 [^107]: [The Middle Passage and Slave Trade - Students of History](https://www.studentsofhistory.com/middle-passage)
+
 [^108]: [Prince Henry of Portugal—The Forerunner of Globalization - IDN](https://indepthnews.net/prince-henry-of-portugal-the-forerunner-of-globalization/)
+
 [^109]: [The Legacy of Henry the Navigator - National Geographic Education](https://education.nationalgeographic.org/resource/legacy-henry-navigator/)
+
 [^110]: [Henry The Navigator Biography - TheFamousPeople](https://www.thefamouspeople.com/profiles/henry-the-navigator-5604.php)
+
 [^111]: [Prince Henry the Navigator and the Beginning of the Portuguese Slave Trade - Brewminate](https://brewminate.com/prince-henry-the-navigator-and-the-beginning-of-the-portuguese-slave-trade/)
+
 [^112]: [Prince Henry the Navigator - World History Encyclopedia](https://www.worldhistory.org/Prince_Henry_the_Navigator/)
+
 [^113]: [Prince Henry The Navigator Quotes - SearchQuotes](https://www.searchquotes.com/search/Prince_Henry_The_Navigator/)

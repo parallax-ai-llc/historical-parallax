@@ -4,7 +4,8 @@ name: "Maximilian I"
 birth: "1459-03-22"
 death: "1519-01-12"
 nationality: "Austria"
-occupation: ["Holy Roman Emperor", "Archduke of Austria", "King of the Romans", "Military Commander"]
+occupation:
+  ["Holy Roman Emperor", "Archduke of Austria", "King of the Romans", "Military Commander"]
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Albrecht_D%C3%BCrer_080.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor"
@@ -175,35 +176,35 @@ Skeptical historians question whether Maximilian's successes were primarily due 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1459 | Born on March 22 in Wiener Neustadt, Austria |
-| 1462 | Survives siege of Vienna Hofburg at age three |
-| 1467 | Mother Eleanor of Portugal dies when Maximilian is eight |
-| 1477 | Marries Mary of Burgundy on August 16, acquiring Burgundian inheritance |
-| 1478 | Birth of son Philip the Handsome |
-| 1479 | Victory at Battle of Guinegate against France |
-| 1480 | Birth of daughter Margaret of Austria |
-| 1482 | Wife Mary dies in riding accident; forced to accept States General as regent |
-| 1485 | Defeats States General in war, reacquires control of regency |
+| Year | Event                                                                                                 |
+| ---- | ----------------------------------------------------------------------------------------------------- |
+| 1459 | Born on March 22 in Wiener Neustadt, Austria                                                          |
+| 1462 | Survives siege of Vienna Hofburg at age three                                                         |
+| 1467 | Mother Eleanor of Portugal dies when Maximilian is eight                                              |
+| 1477 | Marries Mary of Burgundy on August 16, acquiring Burgundian inheritance                               |
+| 1478 | Birth of son Philip the Handsome                                                                      |
+| 1479 | Victory at Battle of Guinegate against France                                                         |
+| 1480 | Birth of daughter Margaret of Austria                                                                 |
+| 1482 | Wife Mary dies in riding accident; forced to accept States General as regent                          |
+| 1485 | Defeats States General in war, reacquires control of regency                                          |
 | 1486 | Elected King of the Romans on February 16; crowned April 9 in Aachen; creates first Landsknecht units |
-| 1488 | Taken captive and held for three months in Bruges |
-| 1490 | Regains control of Habsburg territories in Austria from Hungary |
-| 1493 | Father Frederick III dies; becomes Holy Roman Emperor; marries Bianca Maria Sforza |
-| 1495 | Diet of Worms establishes Imperial Reforms including Reichskammergericht and Ewiger Landfriede |
-| 1496 | Son Philip the Handsome marries Joanna of Castile |
-| 1499 | Defeated by Swiss at Battle of Dornach; accepts Treaty of Basel |
-| 1501 | Creates Aulic Council; falls from horse, injuring leg permanently |
-| 1508 | Forms League of Cambrai against Venice; proclaims himself Elected Roman Emperor at Trent |
-| 1509 | Fails to capture Padua; withdraws from Italy |
-| 1510 | Second wife Bianca Maria Sforza dies |
-| 1511 | Joins anti-French Holy League with Pope Julius II, England, and Spain |
-| 1512 | Enlists Albrecht Dürer into imperial service; begins Triumphal Arch project |
-| 1514 | Begins traveling everywhere with his coffin |
-| 1516 | Begins Triumphal Procession project |
-| 1517 | Abolishes crossbow in military use; Treaty of Brussels ends hostilities with Venice |
-| 1518 | Sits for portrait with Dürer at Diet of Augsburg |
-| 1519 | Dies on January 12 in Wels, Upper Austria; buried at Georgskirche in Wiener Neustadt |
+| 1488 | Taken captive and held for three months in Bruges                                                     |
+| 1490 | Regains control of Habsburg territories in Austria from Hungary                                       |
+| 1493 | Father Frederick III dies; becomes Holy Roman Emperor; marries Bianca Maria Sforza                    |
+| 1495 | Diet of Worms establishes Imperial Reforms including Reichskammergericht and Ewiger Landfriede        |
+| 1496 | Son Philip the Handsome marries Joanna of Castile                                                     |
+| 1499 | Defeated by Swiss at Battle of Dornach; accepts Treaty of Basel                                       |
+| 1501 | Creates Aulic Council; falls from horse, injuring leg permanently                                     |
+| 1508 | Forms League of Cambrai against Venice; proclaims himself Elected Roman Emperor at Trent              |
+| 1509 | Fails to capture Padua; withdraws from Italy                                                          |
+| 1510 | Second wife Bianca Maria Sforza dies                                                                  |
+| 1511 | Joins anti-French Holy League with Pope Julius II, England, and Spain                                 |
+| 1512 | Enlists Albrecht Dürer into imperial service; begins Triumphal Arch project                           |
+| 1514 | Begins traveling everywhere with his coffin                                                           |
+| 1516 | Begins Triumphal Procession project                                                                   |
+| 1517 | Abolishes crossbow in military use; Treaty of Brussels ends hostilities with Venice                   |
+| 1518 | Sits for portrait with Dürer at Diet of Augsburg                                                      |
+| 1519 | Dies on January 12 in Wels, Upper Austria; buried at Georgskirche in Wiener Neustadt                  |
 
 ---
 
@@ -222,87 +223,171 @@ Skeptical historians question whether Maximilian's successes were primarily due 
 ## References
 
 [^1]: Maximilian I, Holy Roman Emperor - Wikipedia. https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor
+
 [^2]: Maximilian I | Holy Roman emperor, Biography & Legacy | Britannica. https://www.britannica.com/biography/Maximilian-I-Holy-Roman-emperor
+
 [^3]: Maximilian I, Holy Roman Emperor Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/maximilian-i-holy-roman-emperor-6550.php
+
 [^4]: Maximilian I: 'Early practice maketh a master emperor …' | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/maximilian-i-early-practice-maketh-master-emperor
+
 [^5]: Maximilian I, Holy Roman Emperor, Archduke of Austria | Unofficial Royalty. https://www.unofficialroyalty.com/maximilian-i-holy-roman-emperor-duke-of-styria-carinthia-and-carniola-archduke-of-austria/
+
 [^6]: Emperor Maximilian I. — Google Arts & Culture. https://artsandculture.google.com/story/emperor-maximilian-i-austrian-national-library/AgUxG9b5NG4BIw?hl=en
+
 [^7]: Maximilian I, Holy Roman Emperor | Royalfamilies Wiki | Fandom. https://royal-families.fandom.com/wiki/Maximilian_I,_Holy_Roman_Emperor
+
 [^8]: Luminarium Encyclopedia: Maximilian I, Holy Roman Emperor. https://www.luminarium.org/encyclopedia/emperormaximilian.htm
+
 [^9]: Holy Roman Emperor Maximilian I - 1493-1519. https://www.holyromanempireassociation.com/holy-roman-emperor-maximilian-i.html
+
 [^10]: Marrying into Burgundy: Maximilian I and Mary of Burgundy | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/marrying-burgundy-maximilian-i-and-mary-burgundy
+
 [^11]: Maximilian and the Burgundian inheritance | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/maximilian-and-burgundian-inheritance
+
 [^12]: Battle of Guinegate (1479) - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Guinegate_(1479)
+
 [^13]: Burgundian Wars - Wikipedia. https://en.wikipedia.org/wiki/Burgundian_Wars
+
 [^14]: Mary of Burgundy - Wikipedia. https://en.wikipedia.org/wiki/Mary_of_Burgundy
+
 [^15]: Maximilian I: marriage and offspring | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/maximilian-i-marriage-and-offspring
+
 [^16]: Reign of Maximilian I | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/reign-maximilian-i
+
 [^17]: Maximilian I (holy Roman Empire) | Encyclopedia.com. https://www.encyclopedia.com/people/history/german-history-biographies/maximilian-i-holy-roman-empire
+
 [^18]: Habsburg Dynasty | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/habsburg-dynasty
+
 [^19]: Maximilian I summary | Britannica. https://www.britannica.com/summary/Maximilian-I-Holy-Roman-emperor
+
 [^20]: The reuniting of the Habsburg lands: Maximilian I | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/reuniting-habsburg-lands-maximilian-i
+
 [^21]: Maximilian I 1459–1519 Holy Roman Emperor | Encyclopedia.com. https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/maximilian-i-1459-1519-holy-roman-emperor
+
 [^22]: Diet of Worms (1495) - Wikipedia. https://en.wikipedia.org/wiki/Diet_of_Worms_(1495)
+
 [^23]: Imperial Reform | Grokipedia. https://grokipedia.com/page/Imperial_Reform
+
 [^24]: Maximilian I | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/maximilian-i
+
 [^25]: Maximilian I as ruler of the Habsburg Hereditary Lands and emperor of the Holy Roman Empire | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/maximilian-i-ruler-habsburg-hereditary-lands-and-emperor-holy-roman-empire
+
 [^26]: Landsknecht - Wikipedia. https://en.wikipedia.org/wiki/Landsknecht
+
 [^27]: Legacy of Maximilian I, Holy Roman Emperor - Wikipedia. https://en.wikipedia.org/wiki/Legacy_of_Maximilian_I,_Holy_Roman_Emperor
+
 [^28]: LANDSKNECHTE - War History. https://warhistory.org/@msw/article/landsknechte
+
 [^29]: The Last Knight: Emperor Maximilian I - Medievalists.net. https://www.medievalists.net/2023/05/emperor-maximilian/
+
 [^30]: Knight vision – how Maximilian I used the arts to bolster his brand - Apollo Magazine. https://apollo-magazine.com/emperor-maximilian-i-brand-arts/
+
 [^31]: Cultural depictions of Maximilian I, Holy Roman Emperor - Wikipedia. https://en.wikipedia.org/wiki/Cultural_depictions_of_Maximilian_I,_Holy_Roman_Emperor
+
 [^32]: Albrecht Dürer - German Artist, Printmaker, Painter | Britannica. https://www.britannica.com/biography/Albrecht-Durer-German-artist/Service-to-Maximilian-I
+
 [^33]: Albrecht Dürer: Service to Maximilian I (1512–1519) — Athenaeum Music & Arts Library. https://www.ljathenaeum.org/events/martino-0209
+
 [^34]: Triumphal Arch (woodcut) - Wikipedia. https://en.wikipedia.org/wiki/Triumphal_Arch_(woodcut)
+
 [^35]: Triumphal Procession - Wikipedia. https://en.wikipedia.org/wiki/Triumphal_Procession
+
 [^36]: Maximilian I, 'the last knight' | Die Welt der Habsburger. https://www.habsburger.net/en/persons/habsburg-emperor/maximilian-i-last-knight
+
 [^37]: War of the League of Cambrai - Wikipedia. https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai
+
 [^38]: League of Cambrai | Holy Roman Empire, Italy, France | Britannica. https://www.britannica.com/topic/League-of-Cambrai
+
 [^39]: Italian Wars - Wikipedia. https://en.wikipedia.org/wiki/Italian_Wars
+
 [^40]: A Diet of Tournaments: Maximilian at Worms, 1495 - Medievalists.net. https://www.medievalists.net/2018/03/a-diet-of-tournaments-maximilian-at-worms-1495/
+
 [^41]: Swabian War - Wikipedia. https://en.wikipedia.org/wiki/Swabian_War
+
 [^42]: Austro-Swiss Wars | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/austro-swiss-wars
+
 [^43]: UsefulNotes / Maximilian I - TV Tropes. https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/MaximilianI
+
 [^44]: Maximilian I, Emperor - Renaissance and Reformation - Oxford Bibliographies. https://www.oxfordbibliographies.com/display/document/obo-9780195399301/obo-9780195399301-0143.xml
+
 [^45]: The Last Knight: The Art, Armor, and Ambition of Maximilian I - The Metropolitan Museum of Art. https://www.metmuseum.org/met-publications/the-last-knight-the-art-armor-and-ambition-of-maximilian-i
+
 [^46]: The Project Gutenberg E-text of Maximilian I, by R. W. Seton-Watson. https://www.gutenberg.org/files/51496/old/51496-h/51496-h.htm
+
 [^47]: Taler Universe - Habsburg Dynasty Austro-Hungarian Taler Collection and History - Maximilian I (1509-1519). https://www.taleruniverse.com/habsburg-dynasty-and-history/habsburg-line-emperors-and-rulers/maximilian-i-1509-1519/
+
 [^48]: Bianca Maria Sforza - Wikipedia. https://en.wikipedia.org/wiki/Bianca_Maria_Sforza
+
 [^49]: The Women around an Emperor: Bianca Maria Sforza - Medievalists.net. https://www.medievalists.net/2018/01/women-around-emperor-bianca-maria-sforza/
+
 [^50]: 1494: Marriage of Maximilian and Bianca Maria Sforza | maximilian2019.tirol. https://maximilian2019.tirol/en/history/1494-marriage-of-maximilian-and-bianca-maria-sforza/
+
 [^51]: Mary of Burgundy (1457–1482) | Encyclopedia.com. https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/mary-burgundy-1457-1482
+
 [^52]: Philip the Handsome - Wikipedia. https://en.wikipedia.org/wiki/Philip_the_Handsome
+
 [^53]: Probably by Pieter van Coninxloo | Margaret of Austria | National Gallery, London. https://www.nationalgallery.org.uk/paintings/probably-by-pieter-van-coninxloo-margaret-of-austria
+
 [^54]: Maximilian (Habsburg) Österreich (1459-1519) | WikiTree FREE Family Tree. https://www.wikitree.com/wiki/Habsburg-2
+
 [^55]: The Court of Emperor Maximilian I: The 'Last Knight' and his Gothic Armor - Medieval Ware. https://www.medievalware.com/blog/maximilian-gothic-armor/
+
 [^56]: Maximilian I, Holy Roman Emperor facts for kids. https://kids.kiddle.co/Maximilian_I,_Holy_Roman_Emperor
+
 [^57]: The last knight: Maximilian I | Die Welt der Habsburger. https://www.habsburger.net/en/chapter/last-knight-maximilian-i
+
 [^58]: January 12, 1519: Death of Maximilian I, Holy Roman Emperor | European Royal History. https://europeanroyalhistory.wordpress.com/2022/01/12/january-12-1519-death-of-maximilian-i-holy-roman-emperor/
+
 [^59]: Maximilian I - Imperial Reforms, Diplomacy, Legacy | Britannica. https://www.britannica.com/biography/Maximilian-I-Holy-Roman-emperor/Legacy
+
 [^60]: BurgundianinheritanceintheLowCountries | Grokipedia. https://grokipedia.com/page/Burgundian_inheritance_in_the_Low_Countries
+
 [^61]: Charles the Bold - Wikipedia. https://en.wikipedia.org/wiki/Charles_the_Bold
+
 [^62]: Charles the Bold | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/charles-bold
+
 [^63]: Italian Wars: Timeline, List, & Army | StudySmarter. https://www.studysmarter.co.uk/explanations/history/protestant-reformation/italian-wars/
+
 [^64]: Italian Wars | Summary, History, & Facts | Britannica. https://www.britannica.com/event/Italian-Wars
+
 [^65]: The Italian Wars, 1494-1559. https://www.historyofwar.org/articles/wars_italian_wars.html
+
 [^66]: War of the League of Cambrai | Grokipedia. https://dlab.epfl.ch/wikispeedia/wpcd/wp/w/War_of_the_League_of_Cambrai.htm
+
 [^67]: Portrait of Emperor Maximilian I - Wikipedia. https://en.wikipedia.org/wiki/Portrait_of_Emperor_Maximilian_I
+
 [^68]: Hans Weiditz the Younger - Portrait of Emperor Maximilian I - The Metropolitan Museum of Art. https://www.metmuseum.org/art/collection/search/404575
+
 [^69]: Maximilian I - Wikidata. https://www.wikidata.org/wiki/Q150726
+
 [^70]: Category:Maximilian I, Holy Roman Emperor - Wikimedia Commons. https://commons.wikimedia.org/wiki/Category:Maximilian_I,_Holy_Roman_Emperor
+
 [^71]: French-Burgundian and French-Austrian Wars | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/french-burgundian-and-french-austrian-wars
+
 [^72]: The Burgundian Wars - War History. https://warhistory.org/@msw/article/the-burgundian-wars-a-new-combined-arms-synthesis-versus-swiss-heavy-infantry
+
 [^73]: Battle of Morat - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Morat
+
 [^74]: Burgundian Wars | Heritage History. https://heritage-history.com/index.php?c=resources&s=pseudowar&f=burgundian
+
 [^75]: Burgundian Netherlands - Wikipedia. https://en.wikipedia.org/wiki/Burgundian_Netherlands
+
 [^76]: Duke of Burgundy – RICARDIAN LOONS. https://ricardianloons.wordpress.com/tag/duke-of-burgundy/
+
 [^77]: Maximilian I, Holy Roman Emperor, d. 1519 – Monks and Monkeys. https://medievalmonkeys.wordpress.com/2019/01/12/maximilian-i-holy-roman-emperor-d-1519/
+
 [^78]: 1519: Death of Emperor Maximilian | maximilian2019.tirol. https://maximilian2019.tirol/en/history/1519-death-of-emperor-maximilian/
+
 [^79]: The tomb of Maximilian I at the Hofkirche in Innsbruck | Wellcome Collection. https://wellcomecollection.org/works/y53ry7g2
+
 [^80]: Hans Burgkmair - People from Calicut, from The Triumphal Procession | Metropolitan Museum. https://www.metmuseum.org/art/collection/search/431769
+
 [^81]: Albrecht Dürer: Paintings, Prints & Legacy | Russell Collection. https://russell-collection.com/albrecht-durer/
+
 [^82]: Portrait of Maximilian I - Albrecht Dürer — Google Arts & Culture. https://artsandculture.google.com/asset/portrait-of-maximilian-i-albrecht-d%C3%BCrer/LQG_SIsDPpL2aQ?hl=en
+
 [^83]: Emperor Maximilian I by DÜRER, Albrecht. https://www.wga.hu/html_m/d/durer/1/09/5empero1.html
+
 [^84]: Probably by Pieter van Coninxloo | Diptych: Philip the Handsome and Margaret of Austria | National Gallery. https://www.nationalgallery.org.uk/paintings/probably-by-pieter-van-coninxloo-diptych-philip-the-handsome-and-margaret-of-austria
+
 [^85]: How many grandchildren did Maximilian I and Mary have? | Socratic. https://socratic.org/questions/how-many-grandchildren-did-maximilian-i-and-mary-have

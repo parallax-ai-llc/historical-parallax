@@ -149,26 +149,26 @@ Recent scholarship has also questioned traditional views of Hammurabi's empire a
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 1810 BCE | Birth of Hammurabi in Babylon |
+| Year        | Event                                                                     |
+| ----------- | ------------------------------------------------------------------------- |
+| c. 1810 BCE | Birth of Hammurabi in Babylon                                             |
 | c. 1792 BCE | Accession to the throne of Babylon following death of father Sin-Muballit |
-| c. 1787 BCE | Construction of fortifications and temples in Babylon |
-| c. 1785 BCE | Diplomatic alliances with Larsa and other neighboring states |
+| c. 1787 BCE | Construction of fortifications and temples in Babylon                     |
+| c. 1785 BCE | Diplomatic alliances with Larsa and other neighboring states              |
 | c. 1779 BCE | Major canal construction project: "Hammurabi-is-abundance-for-the-people" |
-| c. 1765 BCE | Defeat of Elam and coalition forces |
-| c. 1763 BCE | Conquest of Larsa and defeat of Rim-Sin |
-| c. 1762 BCE | Conquest of Eshnunna |
-| c. 1761 BCE | Conquest and destruction of Mari |
-| c. 1760 BCE | Extension of Babylonian control to northern Mesopotamia |
-| c. 1755 BCE | Promulgation of the Code of Hammurabi |
-| c. 1754 BCE | Campaigns against Assyria |
-| c. 1753 BCE | Consolidation of empire; administrative reforms |
-| c. 1752 BCE | Final territorial expansions |
-| c. 1750 BCE | Death of Hammurabi; succession of Samsu-iluna |
-| 12th c. BCE | Hammurabi's stele taken to Susa by Elamite conquerors |
-| 1901 CE | Rediscovery of the Code of Hammurabi at Susa by Jacques de Morgan |
-| 1902 CE | Exhibition of the stele at the Louvre Museum in Paris |
+| c. 1765 BCE | Defeat of Elam and coalition forces                                       |
+| c. 1763 BCE | Conquest of Larsa and defeat of Rim-Sin                                   |
+| c. 1762 BCE | Conquest of Eshnunna                                                      |
+| c. 1761 BCE | Conquest and destruction of Mari                                          |
+| c. 1760 BCE | Extension of Babylonian control to northern Mesopotamia                   |
+| c. 1755 BCE | Promulgation of the Code of Hammurabi                                     |
+| c. 1754 BCE | Campaigns against Assyria                                                 |
+| c. 1753 BCE | Consolidation of empire; administrative reforms                           |
+| c. 1752 BCE | Final territorial expansions                                              |
+| c. 1750 BCE | Death of Hammurabi; succession of Samsu-iluna                             |
+| 12th c. BCE | Hammurabi's stele taken to Susa by Elamite conquerors                     |
+| 1901 CE     | Rediscovery of the Code of Hammurabi at Susa by Jacques de Morgan         |
+| 1902 CE     | Exhibition of the stele at the Louvre Museum in Paris                     |
 
 ---
 
@@ -188,233 +188,233 @@ Recent scholarship has also questioned traditional views of Hammurabi's empire a
 
 ## References
 
-[^1]: Van De Mieroop, Marc. *King Hammurabi of Babylon: A Biography*. Blackwell Publishing, 2005, pp. 12-15.
+[^1]: Van De Mieroop, Marc. _King Hammurabi of Babylon: A Biography_. Blackwell Publishing, 2005, pp. 12-15.
 
-[^2]: Roux, Georges. *Ancient Iraq*. 3rd edition, Penguin Books, 1992, pp. 223-225.
+[^2]: Roux, Georges. _Ancient Iraq_. 3rd edition, Penguin Books, 1992, pp. 223-225.
 
-[^3]: Charpin, Dominique. "The History of Ancient Mesopotamia: An Overview." *Civilizations of the Ancient Near East*, edited by Jack Sasson, Vol. II, Scribner, 1995, pp. 807-829.
+[^3]: Charpin, Dominique. "The History of Ancient Mesopotamia: An Overview." _Civilizations of the Ancient Near East_, edited by Jack Sasson, Vol. II, Scribner, 1995, pp. 807-829.
 
-[^4]: Kuhrt, Amélie. *The Ancient Near East, c. 3000-330 BC*. Vol. 1, Routledge, 1995, pp. 108-117.
+[^4]: Kuhrt, Amélie. _The Ancient Near East, c. 3000-330 BC_. Vol. 1, Routledge, 1995, pp. 108-117.
 
-[^5]: Van De Mieroop, Marc. *A History of the Ancient Near East, ca. 3000-323 BC*. 3rd edition, Wiley-Blackwell, 2015, pp. 119-125.
+[^5]: Van De Mieroop, Marc. _A History of the Ancient Near East, ca. 3000-323 BC_. 3rd edition, Wiley-Blackwell, 2015, pp. 119-125.
 
-[^6]: Richardson, M.E.J. *Hammurabi's Laws: Text, Translation and Glossary*. Sheffield Academic Press, 2000, pp. 9-11.
+[^6]: Richardson, M.E.J. _Hammurabi's Laws: Text, Translation and Glossary_. Sheffield Academic Press, 2000, pp. 9-11.
 
-[^7]: Bottéro, Jean. *Mesopotamia: Writing, Reasoning, and the Gods*. University of Chicago Press, 1992, pp. 156-178.
+[^7]: Bottéro, Jean. _Mesopotamia: Writing, Reasoning, and the Gods_. University of Chicago Press, 1992, pp. 156-178.
 
-[^8]: Frankfort, Henri. *Kingship and the Gods: A Study of Ancient Near Eastern Religion as the Integration of Society and Nature*. University of Chicago Press, 1948, pp. 215-230.
+[^8]: Frankfort, Henri. _Kingship and the Gods: A Study of Ancient Near Eastern Religion as the Integration of Society and Nature_. University of Chicago Press, 1948, pp. 215-230.
 
-[^9]: Westbrook, Raymond. "The Character of Ancient Near Eastern Law." *A History of Ancient Near Eastern Law*, edited by Raymond Westbrook, Vol. 1, Brill, 2003, pp. 1-90.
+[^9]: Westbrook, Raymond. "The Character of Ancient Near Eastern Law." _A History of Ancient Near Eastern Law_, edited by Raymond Westbrook, Vol. 1, Brill, 2003, pp. 1-90.
 
-[^10]: Sasson, Jack M. "King Hammurabi of Babylon." *Civilizations of the Ancient Near East*, Vol. II, Scribner, 1995, pp. 901-915.
+[^10]: Sasson, Jack M. "King Hammurabi of Babylon." _Civilizations of the Ancient Near East_, Vol. II, Scribner, 1995, pp. 901-915.
 
-[^11]: Van De Mieroop, Marc. *King Hammurabi of Babylon*, pp. 35-40.
+[^11]: Van De Mieroop, Marc. _King Hammurabi of Babylon_, pp. 35-40.
 
-[^12]: Leemans, W.F. "Hammurabi's Babylon." *Sumer* 42 (1986): 48-58.
+[^12]: Leemans, W.F. "Hammurabi's Babylon." _Sumer_ 42 (1986): 48-58.
 
-[^13]: Horowitz, Wayne. "The Isles of the Nations: Genesis 10 and Ancient Near Eastern Geographical Texts." *Studies in the Pentateuch*, edited by J.A. Emerton, Brill, 1990, pp. 35-43.
+[^13]: Horowitz, Wayne. "The Isles of the Nations: Genesis 10 and Ancient Near Eastern Geographical Texts." _Studies in the Pentateuch_, edited by J.A. Emerton, Brill, 1990, pp. 35-43.
 
-[^14]: Heimpel, Wolfgang. *Letters to the King of Mari: A New Translation, with Historical Introduction, Notes, and Commentary*. Eisenbrauns, 2003, pp. 234-267.
+[^14]: Heimpel, Wolfgang. _Letters to the King of Mari: A New Translation, with Historical Introduction, Notes, and Commentary_. Eisenbrauns, 2003, pp. 234-267.
 
-[^15]: Durand, Jean-Marie. *Les Documents épistolaires du palais de Mari*. Vol. 1-3, Les Éditions du Cerf, 1997-2000.
+[^15]: Durand, Jean-Marie. _Les Documents épistolaires du palais de Mari_. Vol. 1-3, Les Éditions du Cerf, 1997-2000.
 
-[^16]: Charpin, Dominique. *Hammurabi of Babylon*. I.B. Tauris, 2012, pp. 67-82.
+[^16]: Charpin, Dominique. _Hammurabi of Babylon_. I.B. Tauris, 2012, pp. 67-82.
 
-[^17]: Yamada, Masamichi. "The Northern Frontier of the Kingdom of Hammurabi." *Orient* 30-31 (1995): 58-77.
+[^17]: Yamada, Masamichi. "The Northern Frontier of the Kingdom of Hammurabi." _Orient_ 30-31 (1995): 58-77.
 
-[^18]: Frayne, Douglas R. *Old Babylonian Period (2003-1595 BC)*. University of Toronto Press, 1990, pp. 333-363.
+[^18]: Frayne, Douglas R. _Old Babylonian Period (2003-1595 BC)_. University of Toronto Press, 1990, pp. 333-363.
 
-[^19]: Fleming, Daniel E. *Democracy's Ancient Ancestors: Mari and Early Collective Governance*. Cambridge University Press, 2004, pp. 178-195.
+[^19]: Fleming, Daniel E. _Democracy's Ancient Ancestors: Mari and Early Collective Governance_. Cambridge University Press, 2004, pp. 178-195.
 
-[^20]: Arnold, Bill T. *Who Were the Babylonians?* Society of Biblical Literature, 2004, pp. 25-31.
+[^20]: Arnold, Bill T. _Who Were the Babylonians?_ Society of Biblical Literature, 2004, pp. 25-31.
 
-[^21]: Brinkman, J.A. "Mesopotamian Chronology of the Historical Period." *Ancient Mesopotamia: Portrait of a Dead Civilization*, edited by A. Leo Oppenheim, University of Chicago Press, 1977, pp. 335-348.
+[^21]: Brinkman, J.A. "Mesopotamian Chronology of the Historical Period." _Ancient Mesopotamia: Portrait of a Dead Civilization_, edited by A. Leo Oppenheim, University of Chicago Press, 1977, pp. 335-348.
 
-[^22]: Liverani, Mario. *The Ancient Near East: History, Society and Economy*. Routledge, 2013, pp. 245-259.
+[^22]: Liverani, Mario. _The Ancient Near East: History, Society and Economy_. Routledge, 2013, pp. 245-259.
 
-[^23]: Harper, Robert Francis. *The Code of Hammurabi, King of Babylon*. University of Chicago Press, 1904, pp. 1-10.
+[^23]: Harper, Robert Francis. _The Code of Hammurabi, King of Babylon_. University of Chicago Press, 1904, pp. 1-10.
 
-[^24]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*. 2nd edition, Society of Biblical Literature, 1997, pp. 71-142.
+[^24]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_. 2nd edition, Society of Biblical Literature, 1997, pp. 71-142.
 
-[^25]: Kramer, Samuel Noah. "The Ur-Nammu Law Code." *Orientalia* 23 (1954): 40-51.
+[^25]: Kramer, Samuel Noah. "The Ur-Nammu Law Code." _Orientalia_ 23 (1954): 40-51.
 
-[^26]: Driver, G.R., and John C. Miles. *The Babylonian Laws*. Vol. 1, Clarendon Press, 1952, pp. 406-415.
+[^26]: Driver, G.R., and John C. Miles. _The Babylonian Laws_. Vol. 1, Clarendon Press, 1952, pp. 406-415.
 
-[^27]: Westbrook, Raymond. "Social Justice in the Ancient Near East." *Social Justice in the Ancient World*, edited by K.D. Irani and Morris Silver, Greenwood Press, 1995, pp. 149-163.
+[^27]: Westbrook, Raymond. "Social Justice in the Ancient Near East." _Social Justice in the Ancient World_, edited by K.D. Irani and Morris Silver, Greenwood Press, 1995, pp. 149-163.
 
-[^28]: Dandamaev, Muhammad A. *Slavery in Babylonia: From Nabopolassar to Alexander the Great (626-331 BC)*. Northern Illinois University Press, 1984, pp. 35-52.
+[^28]: Dandamaev, Muhammad A. _Slavery in Babylonia: From Nabopolassar to Alexander the Great (626-331 BC)_. Northern Illinois University Press, 1984, pp. 35-52.
 
-[^29]: Stone, Elizabeth C. "The Development of Cities in Ancient Mesopotamia." *Civilizations of the Ancient Near East*, Vol. I, Scribner, 1995, pp. 235-248.
+[^29]: Stone, Elizabeth C. "The Development of Cities in Ancient Mesopotamia." _Civilizations of the Ancient Near East_, Vol. I, Scribner, 1995, pp. 235-248.
 
-[^30]: Postgate, J.N. *Early Mesopotamia: Society and Economy at the Dawn of History*. Routledge, 1992, pp. 275-291.
+[^30]: Postgate, J.N. _Early Mesopotamia: Society and Economy at the Dawn of History_. Routledge, 1992, pp. 275-291.
 
-[^31]: Stol, M. "Letters from Collections in Philadelphia, Chicago and Berkeley." *Altbabylonische Briefe in Umschrift und Übersetzung* 11 (1986): 1-165.
+[^31]: Stol, M. "Letters from Collections in Philadelphia, Chicago and Berkeley." _Altbabylonische Briefe in Umschrift und Übersetzung_ 11 (1986): 1-165.
 
-[^32]: Powell, Marvin A. "Masse und Gewichte." *Reallexikon der Assyriologie und Vorderasiatischen Archäologie* 7 (1990): 457-517.
+[^32]: Powell, Marvin A. "Masse und Gewichte." _Reallexikon der Assyriologie und Vorderasiatischen Archäologie_ 7 (1990): 457-517.
 
-[^33]: Westbrook, Raymond. "Cuneiform Law Codes and the Origins of Legislation." *Zeitschrift für Altorientalische und Biblische Rechtsgeschichte* 1 (1995): 201-222.
+[^33]: Westbrook, Raymond. "Cuneiform Law Codes and the Origins of Legislation." _Zeitschrift für Altorientalische und Biblische Rechtsgeschichte_ 1 (1995): 201-222.
 
-[^34]: Yoffee, Norman. *Myths of the Archaic State: Evolution of the Earliest Cities, States, and Civilizations*. Cambridge University Press, 2005, pp. 156-178.
+[^34]: Yoffee, Norman. _Myths of the Archaic State: Evolution of the Earliest Cities, States, and Civilizations_. Cambridge University Press, 2005, pp. 156-178.
 
-[^35]: Hamblin, William J. *Warfare in the Ancient Near East to 1600 BC*. Routledge, 2006, pp. 261-274.
+[^35]: Hamblin, William J. _Warfare in the Ancient Near East to 1600 BC_. Routledge, 2006, pp. 261-274.
 
-[^36]: Van De Mieroop, Marc. *King Hammurabi of Babylon*, pp. 89-107.
+[^36]: Van De Mieroop, Marc. _King Hammurabi of Babylon_, pp. 89-107.
 
-[^37]: Gasche, H., et al. *Dating the Fall of Babylon: A Reappraisal of Second-Millennium Chronology*. University of Ghent, 1998, pp. 45-67.
+[^37]: Gasche, H., et al. _Dating the Fall of Babylon: A Reappraisal of Second-Millennium Chronology_. University of Ghent, 1998, pp. 45-67.
 
-[^38]: Charpin, Dominique. *Hammurabi of Babylon*, pp. 94-113.
+[^38]: Charpin, Dominique. _Hammurabi of Babylon_, pp. 94-113.
 
-[^39]: Oates, Joan. "Mesopotamian Social Organization: Archaeological and Philological Evidence." *The Evolution of Social Systems*, edited by J. Friedman and M.J. Rowlands, Duckworth, 1977, pp. 457-485.
+[^39]: Oates, Joan. "Mesopotamian Social Organization: Archaeological and Philological Evidence." _The Evolution of Social Systems_, edited by J. Friedman and M.J. Rowlands, Duckworth, 1977, pp. 457-485.
 
-[^40]: Adams, Robert McC. *Heartland of Cities: Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates*. University of Chicago Press, 1981, pp. 89-134.
+[^40]: Adams, Robert McC. _Heartland of Cities: Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates_. University of Chicago Press, 1981, pp. 89-134.
 
-[^41]: Snell, Daniel C. "Methods of Exchange and Coinage in Ancient Western Asia." *Civilizations of the Ancient Near East*, Vol. III, Scribner, 1995, pp. 1487-1497.
+[^41]: Snell, Daniel C. "Methods of Exchange and Coinage in Ancient Western Asia." _Civilizations of the Ancient Near East_, Vol. III, Scribner, 1995, pp. 1487-1497.
 
-[^42]: Civil, Miguel. "On Mesopotamian Jails and Their Lady Warden." *The Tablet and the Scroll: Near Eastern Studies in Honor of William W. Hallo*, edited by M.E. Cohen et al., CDL Press, 1993, pp. 72-78.
+[^42]: Civil, Miguel. "On Mesopotamian Jails and Their Lady Warden." _The Tablet and the Scroll: Near Eastern Studies in Honor of William W. Hallo_, edited by M.E. Cohen et al., CDL Press, 1993, pp. 72-78.
 
-[^43]: Horowitz, Wayne. *Mesopotamian Cosmic Geography*. Eisenbrauns, 1998, pp. 234-245.
+[^43]: Horowitz, Wayne. _Mesopotamian Cosmic Geography_. Eisenbrauns, 1998, pp. 234-245.
 
-[^44]: Veenhof, Klaas R. "Ancient Assur: The City, Its Traders, and Its Commercial Network." *Journal of the Economic and Social History of the Orient* 53 (2010): 39-82.
+[^44]: Veenhof, Klaas R. "Ancient Assur: The City, Its Traders, and Its Commercial Network." _Journal of the Economic and Social History of the Orient_ 53 (2010): 39-82.
 
-[^45]: Silver, Morris. *Economic Structures of Antiquity*. Greenwood Press, 1995, pp. 67-89.
+[^45]: Silver, Morris. _Economic Structures of Antiquity_. Greenwood Press, 1995, pp. 67-89.
 
-[^46]: Foster, Benjamin R. "Archives and Record-Keeping in Sargonic Mesopotamia." *Zeitschrift für Assyriologie* 72 (1982): 1-27.
+[^46]: Foster, Benjamin R. "Archives and Record-Keeping in Sargonic Mesopotamia." _Zeitschrift für Assyriologie_ 72 (1982): 1-27.
 
-[^47]: Scholars Against Barbaric Punishments. "Ancient Legal Codes and Modern Human Rights." *Journal of Human Rights History* 8, no. 2 (2014): 145-167.
+[^47]: Scholars Against Barbaric Punishments. "Ancient Legal Codes and Modern Human Rights." _Journal of Human Rights History_ 8, no. 2 (2014): 145-167.
 
-[^48]: Greenberg, Moshe. "Some Postulates of Biblical Criminal Law." *Yehezkel Kaufmann Jubilee Volume*, edited by M. Haran, Magnes Press, 1960, pp. 5-28.
+[^48]: Greenberg, Moshe. "Some Postulates of Biblical Criminal Law." _Yehezkel Kaufmann Jubilee Volume_, edited by M. Haran, Magnes Press, 1960, pp. 5-28.
 
-[^49]: Richardson, M.E.J. *Hammurabi's Laws*, Law 229, p. 89.
+[^49]: Richardson, M.E.J. _Hammurabi's Laws_, Law 229, p. 89.
 
-[^50]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, Law 230, p. 121.
+[^50]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, Law 230, p. 121.
 
-[^51]: Lafont, Sophie. "Hammurabi's Law Code: Between Theory and Practice." *Revue Internationale des Droits de l'Antiquité* 47 (2000): 77-106.
+[^51]: Lafont, Sophie. "Hammurabi's Law Code: Between Theory and Practice." _Revue Internationale des Droits de l'Antiquité_ 47 (2000): 77-106.
 
-[^52]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, Laws 196-199, pp. 119-120.
+[^52]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, Laws 196-199, pp. 119-120.
 
-[^53]: Driver, G.R., and John C. Miles. *The Babylonian Laws*, Vol. 2, pp. 67-73.
+[^53]: Driver, G.R., and John C. Miles. _The Babylonian Laws_, Vol. 2, pp. 67-73.
 
-[^54]: Westbrook, Raymond. "The Female Slave." *Gender and Law in the Hebrew Bible and the Ancient Near East*, edited by Victor H. Matthews et al., Sheffield Academic Press, 1998, pp. 214-238.
+[^54]: Westbrook, Raymond. "The Female Slave." _Gender and Law in the Hebrew Bible and the Ancient Near East_, edited by Victor H. Matthews et al., Sheffield Academic Press, 1998, pp. 214-238.
 
-[^55]: Nemet-Nejat, Karen Rhea. "Women in Ancient Mesopotamia." *Women's Roles in Ancient Civilizations*, edited by Bella Vivante, Greenwood Press, 1999, pp. 85-114.
+[^55]: Nemet-Nejat, Karen Rhea. "Women in Ancient Mesopotamia." _Women's Roles in Ancient Civilizations_, edited by Bella Vivante, Greenwood Press, 1999, pp. 85-114.
 
-[^56]: Harris, Rivkah. "The Organization and Administration of the Cloister in Ancient Babylonia." *Journal of the Economic and Social History of the Orient* 6 (1963): 121-157.
+[^56]: Harris, Rivkah. "The Organization and Administration of the Cloister in Ancient Babylonia." _Journal of the Economic and Social History of the Orient_ 6 (1963): 121-157.
 
 [^57]: Westbrook, Raymond. "The Female Slave," pp. 214-238.
 
-[^58]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, Law 129, p. 108.
+[^58]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, Law 129, p. 108.
 
-[^59]: Stol, M. "Women in Mesopotamia." *Journal of the Economic and Social History of the Orient* 38 (1995): 123-144.
+[^59]: Stol, M. "Women in Mesopotamia." _Journal of the Economic and Social History of the Orient_ 38 (1995): 123-144.
 
-[^60]: Asher-Greve, Julia M. "Women and Gender in Ancient Near Eastern Cultures: Bibliography 1885 to 2006 AD." *Nouvelles Assyriologiques Brèves et Utilitaires* 2006/3, pp. 54-124.
+[^60]: Asher-Greve, Julia M. "Women and Gender in Ancient Near Eastern Cultures: Bibliography 1885 to 2006 AD." _Nouvelles Assyriologiques Brèves et Utilitaires_ 2006/3, pp. 54-124.
 
-[^61]: Hamblin, William J. *Warfare in the Ancient Near East to 1600 BC*, pp. 268-274.
+[^61]: Hamblin, William J. _Warfare in the Ancient Near East to 1600 BC_, pp. 268-274.
 
-[^62]: Margueron, Jean-Claude. "Mari: A Portrait in Art of a Mesopotamian City-State." *Civilizations of the Ancient Near East*, Vol. II, Scribner, 1995, pp. 885-899.
+[^62]: Margueron, Jean-Claude. "Mari: A Portrait in Art of a Mesopotamian City-State." _Civilizations of the Ancient Near East_, Vol. II, Scribner, 1995, pp. 885-899.
 
-[^63]: Fleming, Daniel E. *Democracy's Ancient Ancestors*, pp. 191-195.
+[^63]: Fleming, Daniel E. _Democracy's Ancient Ancestors_, pp. 191-195.
 
-[^64]: Van De Mieroop, Marc. *King Hammurabi of Babylon*, pp. 103-107.
+[^64]: Van De Mieroop, Marc. _King Hammurabi of Babylon_, pp. 103-107.
 
-[^65]: Oded, Bustenay. *Mass Deportations and Deportees in the Neo-Assyrian Empire*. Reichert Verlag, 1979, pp. 11-25.
+[^65]: Oded, Bustenay. _Mass Deportations and Deportees in the Neo-Assyrian Empire_. Reichert Verlag, 1979, pp. 11-25.
 
-[^66]: Nadali, Davide. "Monuments of War, War of Monuments: Some Considerations on Commemorating War in the Third Millennium BC." *Orientalia* 76 (2007): 336-367.
+[^66]: Nadali, Davide. "Monuments of War, War of Monuments: Some Considerations on Commemorating War in the Third Millennium BC." _Orientalia_ 76 (2007): 336-367.
 
-[^67]: Sommerfeld, Walter. "Marduk: Theologische Reflexion und politische Realität." *Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne*, edited by J. Renger, Saarbrücker Druckerei und Verlag, 1999, pp. 347-361.
+[^67]: Sommerfeld, Walter. "Marduk: Theologische Reflexion und politische Realität." _Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne_, edited by J. Renger, Saarbrücker Druckerei und Verlag, 1999, pp. 347-361.
 
-[^68]: Lambert, W.G. "The Reign of Nebuchadnezzar I: A Turning Point in the History of Ancient Mesopotamian Religion." *The Seed of Wisdom: Essays in Honour of T.J. Meek*, edited by W.S. McCullough, University of Toronto Press, 1964, pp. 3-13.
+[^68]: Lambert, W.G. "The Reign of Nebuchadnezzar I: A Turning Point in the History of Ancient Mesopotamian Religion." _The Seed of Wisdom: Essays in Honour of T.J. Meek_, edited by W.S. McCullough, University of Toronto Press, 1964, pp. 3-13.
 
 [^69]: Machinist, Peter. "The Epic of Tukulti-Ninurta I: A Study in Middle Assyrian Literature." PhD dissertation, Yale University, 1978, pp. 234-267.
 
-[^70]: Cooper, Jerrold S. "Posing the Sumerian Question: Race and Scholarship in the Early History of Assyriology." *Aula Orientalis* 9 (1991): 47-66.
+[^70]: Cooper, Jerrold S. "Posing the Sumerian Question: Race and Scholarship in the Early History of Assyriology." _Aula Orientalis_ 9 (1991): 47-66.
 
-[^71]: Van De Mieroop, Marc. *King Hammurabi of Babylon*, pp. 24-27.
+[^71]: Van De Mieroop, Marc. _King Hammurabi of Babylon_, pp. 24-27.
 
-[^72]: Frayne, Douglas R. *Old Babylonian Period (2003-1595 BC)*, pp. 380-425.
+[^72]: Frayne, Douglas R. _Old Babylonian Period (2003-1595 BC)_, pp. 380-425.
 
-[^73]: Kraus, F.R. *Königliche Verfügungen in altbabylonischer Zeit*. E.J. Brill, 1984, pp. 89-156.
+[^73]: Kraus, F.R. _Königliche Verfügungen in altbabylonischer Zeit_. E.J. Brill, 1984, pp. 89-156.
 
 [^74]: Stol, M. "Letters from Collections in Philadelphia, Chicago and Berkeley," pp. 45-89.
 
-[^75]: Charpin, Dominique. *Hammurabi of Babylon*, pp. 142-156.
+[^75]: Charpin, Dominique. _Hammurabi of Babylon_, pp. 142-156.
 
-[^76]: Richardson, M.E.J. *Hammurabi's Laws*, pp. 13-21, 115-123.
+[^76]: Richardson, M.E.J. _Hammurabi's Laws_, pp. 13-21, 115-123.
 
-[^77]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, pp. 76-78.
+[^77]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, pp. 76-78.
 
-[^78]: Machinist, Peter. "Kingship and Divinity in Imperial Assyria." *Text, Artifact, and Image: Revealing Ancient Israelite Religion*, edited by Gary M. Beckman and Theodore J. Lewis, Brown Judaic Studies, 2006, pp. 152-188.
+[^78]: Machinist, Peter. "Kingship and Divinity in Imperial Assyria." _Text, Artifact, and Image: Revealing Ancient Israelite Religion_, edited by Gary M. Beckman and Theodore J. Lewis, Brown Judaic Studies, 2006, pp. 152-188.
 
-[^79]: Heimpel, Wolfgang. *Letters to the King of Mari*, pp. 301-334.
+[^79]: Heimpel, Wolfgang. _Letters to the King of Mari_, pp. 301-334.
 
-[^80]: Durand, Jean-Marie. "La Cité-état d'Imar à l'époque des rois de Mari." *Mari: Annales de Recherches Interdisciplinaires* 6 (1990): 39-92.
+[^80]: Durand, Jean-Marie. "La Cité-état d'Imar à l'époque des rois de Mari." _Mari: Annales de Recherches Interdisciplinaires_ 6 (1990): 39-92.
 
-[^81]: Van De Mieroop, Marc. *King Hammurabi of Babylon*, pp. 97-102.
+[^81]: Van De Mieroop, Marc. _King Hammurabi of Babylon_, pp. 97-102.
 
-[^82]: Skaist, Aaron. "The Code of Hammurabi." *A History of Ancient Near Eastern Law*, Vol. 2, edited by Raymond Westbrook, Brill, 2003, pp. 919-954.
+[^82]: Skaist, Aaron. "The Code of Hammurabi." _A History of Ancient Near Eastern Law_, Vol. 2, edited by Raymond Westbrook, Brill, 2003, pp. 919-954.
 
-[^83]: Scheil, Vincent. "Code des lois de Hammurabi." *Mémoires de la Délégation en Perse* 4 (1902): 11-162.
+[^83]: Scheil, Vincent. "Code des lois de Hammurabi." _Mémoires de la Délégation en Perse_ 4 (1902): 11-162.
 
-[^84]: Finkelstein, J.J. "Ammisaduqa's Edict and the Babylonian 'Law Codes.'" *Journal of Cuneiform Studies* 15 (1961): 91-104.
+[^84]: Finkelstein, J.J. "Ammisaduqa's Edict and the Babylonian 'Law Codes.'" _Journal of Cuneiform Studies_ 15 (1961): 91-104.
 
-[^85]: Frymer-Kensky, Tikva. "The Atrahasis Epic and Its Significance for Our Understanding of Genesis 1-9." *Biblical Archaeologist* 40 (1977): 147-155.
+[^85]: Frymer-Kensky, Tikva. "The Atrahasis Epic and Its Significance for Our Understanding of Genesis 1-9." _Biblical Archaeologist_ 40 (1977): 147-155.
 
-[^86]: Bottéro, Jean. "The 'Code' of Hammurabi." *Mesopotamia: Writing, Reasoning, and the Gods*, University of Chicago Press, 1992, pp. 156-184.
+[^86]: Bottéro, Jean. "The 'Code' of Hammurabi." _Mesopotamia: Writing, Reasoning, and the Gods_, University of Chicago Press, 1992, pp. 156-184.
 
-[^87]: Gasche, H., and M. Tanret, eds. *Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia*. Vol. 1, University of Ghent, 1998, pp. 123-156.
+[^87]: Gasche, H., and M. Tanret, eds. _Changing Watercourses in Babylonia: Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia_. Vol. 1, University of Ghent, 1998, pp. 123-156.
 
-[^88]: Wiseman, D.J. *Nebuchadrezzar and Babylon*. Oxford University Press, 1985, pp. 45-67.
+[^88]: Wiseman, D.J. _Nebuchadrezzar and Babylon_. Oxford University Press, 1985, pp. 45-67.
 
-[^89]: Johns, C.H.W. "The Relations Between the Laws of Babylonia and the Laws of the Hebrew Peoples." *Schweich Lectures* (1912): 1-89.
+[^89]: Johns, C.H.W. "The Relations Between the Laws of Babylonia and the Laws of the Hebrew Peoples." _Schweich Lectures_ (1912): 1-89.
 
-[^90]: United States Supreme Court. *Architectural Friezes in the Supreme Court Building*. Office of the Curator, 2010, pp. 12-15.
+[^90]: United States Supreme Court. _Architectural Friezes in the Supreme Court Building_. Office of the Curator, 2010, pp. 12-15.
 
-[^91]: Cardascia, Guillaume. "L'Apparition dans le droit des classes d'esclaves et de travailleurs en Mésopotamie." *Journal of the Economic and Social History of the Orient* 2 (1959): 113-141.
+[^91]: Cardascia, Guillaume. "L'Apparition dans le droit des classes d'esclaves et de travailleurs en Mésopotamie." _Journal of the Economic and Social History of the Orient_ 2 (1959): 113-141.
 
-[^92]: Morgan, Jacques de. "Découverte d'une stèle de Hammurabi à Suse." *Comptes Rendus des Séances de l'Académie des Inscriptions et Belles-Lettres* 45 (1901): 409-427.
+[^92]: Morgan, Jacques de. "Découverte d'une stèle de Hammurabi à Suse." _Comptes Rendus des Séances de l'Académie des Inscriptions et Belles-Lettres_ 45 (1901): 409-427.
 
-[^93]: Harper, Robert Francis. *The Code of Hammurabi, King of Babylon*, pp. 3-7.
+[^93]: Harper, Robert Francis. _The Code of Hammurabi, King of Babylon_, pp. 3-7.
 
-[^94]: André-Salvini, Béatrice. *Le Code de Hammurabi*. Musée du Louvre Éditions, 2008, pp. 5-23.
+[^94]: André-Salvini, Béatrice. _Le Code de Hammurabi_. Musée du Louvre Éditions, 2008, pp. 5-23.
 
-[^95]: Crawford, Harriet. *Sumer and the Sumerians*. 2nd edition, Cambridge University Press, 2004, pp. 145-167.
+[^95]: Crawford, Harriet. _Sumer and the Sumerians_. 2nd edition, Cambridge University Press, 2004, pp. 145-167.
 
-[^96]: Van De Mieroop, Marc. *A History of the Ancient Near East*, pp. 119-145.
+[^96]: Van De Mieroop, Marc. _A History of the Ancient Near East_, pp. 119-145.
 
-[^97]: Westbrook, Raymond, ed. *A History of Ancient Near Eastern Law*. 2 vols., Brill, 2003, pp. 361-430.
+[^97]: Westbrook, Raymond, ed. _A History of Ancient Near Eastern Law_. 2 vols., Brill, 2003, pp. 361-430.
 
-[^98]: Finkelstein, J.J. "The Laws of Ur-Nammu." *Journal of Cuneiform Studies* 22 (1968): 66-82.
+[^98]: Finkelstein, J.J. "The Laws of Ur-Nammu." _Journal of Cuneiform Studies_ 22 (1968): 66-82.
 
-[^99]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, pp. 13-22.
+[^99]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, pp. 13-22.
 
-[^100]: Postgate, J.N. *Early Mesopotamia*, pp. 275-305.
+[^100]: Postgate, J.N. _Early Mesopotamia_, pp. 275-305.
 
-[^101]: Garfinkle, Steven J. "Public versus Private in the Ancient Near East." *A Companion to the Ancient Near East*, edited by Daniel C. Snell, Blackwell, 2005, pp. 384-396.
+[^101]: Garfinkle, Steven J. "Public versus Private in the Ancient Near East." _A Companion to the Ancient Near East_, edited by Daniel C. Snell, Blackwell, 2005, pp. 384-396.
 
-[^102]: Charpin, Dominique. *Hammurabi of Babylon*, pp. 178-195.
+[^102]: Charpin, Dominique. _Hammurabi of Babylon_, pp. 178-195.
 
-[^103]: Beaulieu, Paul-Alain. "The Pantheon of Uruk During the Neo-Babylonian Period." *Cuneiform Digital Library Journal* 2003/3, pp. 1-19.
+[^103]: Beaulieu, Paul-Alain. "The Pantheon of Uruk During the Neo-Babylonian Period." _Cuneiform Digital Library Journal_ 2003/3, pp. 1-19.
 
 [^104]: Sommerfeld, Walter. "Marduk: Theologische Reflexion und politische Realität," pp. 347-361.
 
-[^105]: Porter, Barbara Nevling. "Blessings from a Crown, Offerings to a Drum: Were There Non-Anthropomorphic Deities in Ancient Mesopotamia?" *What Is a God? Anthropomorphic and Non-Anthropomorphic Aspects of Deity in Ancient Mesopotamia*, edited by Barbara Nevling Porter, CDL Press, 2009, pp. 153-194.
+[^105]: Porter, Barbara Nevling. "Blessings from a Crown, Offerings to a Drum: Were There Non-Anthropomorphic Deities in Ancient Mesopotamia?" _What Is a God? Anthropomorphic and Non-Anthropomorphic Aspects of Deity in Ancient Mesopotamia_, edited by Barbara Nevling Porter, CDL Press, 2009, pp. 153-194.
 
-[^106]: Kraus, F.R. *Königliche Verfügungen in altbabylonischer Zeit*, pp. 112-178.
+[^106]: Kraus, F.R. _Königliche Verfügungen in altbabylonischer Zeit_, pp. 112-178.
 
 [^107]: Stol, M. "Letters from Collections in Philadelphia, Chicago and Berkeley," pp. 67-123.
 
-[^108]: Charpin, Dominique. *Hammurabi of Babylon*, pp. 156-167.
+[^108]: Charpin, Dominique. _Hammurabi of Babylon_, pp. 156-167.
 
 [^109]: Bottéro, Jean. "The 'Code' of Hammurabi," pp. 156-184.
 
-[^110]: Roth, Martha T. "The Scholastic Exercise 'Laws about Rented Oxen.'" *Journal of Cuneiform Studies* 32 (1980): 127-146.
+[^110]: Roth, Martha T. "The Scholastic Exercise 'Laws about Rented Oxen.'" _Journal of Cuneiform Studies_ 32 (1980): 127-146.
 
-[^111]: Westbrook, Raymond. "Biblical and Cuneiform Law Codes." *Revue Biblique* 92 (1985): 247-264.
+[^111]: Westbrook, Raymond. "Biblical and Cuneiform Law Codes." _Revue Biblique_ 92 (1985): 247-264.
 
-[^112]: Hamblin, William J. *Warfare in the Ancient Near East to 1600 BC*, pp. 268-274.
+[^112]: Hamblin, William J. _Warfare in the Ancient Near East to 1600 BC_, pp. 268-274.
 
 [^113]: Margueron, Jean-Claude. "Mari: A Portrait in Art of a Mesopotamian City-State," pp. 885-899.
 
-[^114]: Fleming, Daniel E. *Democracy's Ancient Ancestors*, pp. 191-195.
+[^114]: Fleming, Daniel E. _Democracy's Ancient Ancestors_, pp. 191-195.
 
 [^115]: Lafont, Sophie. "Hammurabi's Law Code: Between Theory and Practice," pp. 77-106.
 
@@ -422,24 +422,24 @@ Recent scholarship has also questioned traditional views of Hammurabi's empire a
 
 [^117]: Asher-Greve, Julia M. "Women and Gender in Ancient Near Eastern Cultures," pp. 54-124.
 
-[^118]: Liverani, Mario. *The Ancient Near East: History, Society and Economy*, pp. 245-259.
+[^118]: Liverani, Mario. _The Ancient Near East: History, Society and Economy_, pp. 245-259.
 
 [^119]: Garfinkle, Steven J. "Public versus Private in the Ancient Near East," pp. 384-396.
 
-[^120]: Yoffee, Norman. *Myths of the Archaic State*, pp. 156-178.
+[^120]: Yoffee, Norman. _Myths of the Archaic State_, pp. 156-178.
 
-[^121]: Richardson, Seth. "Early Mesopotamia: The Presumptive State." *Past & Present* 215 (2012): 3-49.
+[^121]: Richardson, Seth. "Early Mesopotamia: The Presumptive State." _Past & Present_ 215 (2012): 3-49.
 
-[^122]: Frayne, Douglas R. *Old Babylonian Period (2003-1595 BC)*, pp. 380-425.
+[^122]: Frayne, Douglas R. _Old Babylonian Period (2003-1595 BC)_, pp. 380-425.
 
 [^123]: Stone, Elizabeth C. "The Development of Cities in Ancient Mesopotamia," pp. 235-248.
 
-[^124]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, p. 76.
+[^124]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, p. 76.
 
-[^125]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, pp. 119-120.
+[^125]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, pp. 119-120.
 
-[^126]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, p. 121.
+[^126]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, p. 121.
 
-[^127]: Richardson, M.E.J. *Hammurabi's Laws*, pp. 120-121.
+[^127]: Richardson, M.E.J. _Hammurabi's Laws_, pp. 120-121.
 
-[^128]: Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*, p. 133.
+[^128]: Roth, Martha T. _Law Collections from Mesopotamia and Asia Minor_, p. 133.

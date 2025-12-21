@@ -4,7 +4,15 @@ name: "Henry Clay"
 birth: "1777-04-12"
 death: "1852-06-29"
 nationality: "United States"
-occupation: ["Statesman", "Lawyer", "Politician", "Speaker of the House", "Secretary of State", "U.S. Senator"]
+occupation:
+  [
+    "Statesman",
+    "Lawyer",
+    "Politician",
+    "Speaker of the House",
+    "Secretary of State",
+    "U.S. Senator",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Henry_Clay.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Clay"
@@ -191,32 +199,32 @@ One biographer concluded that "there was a serious statesman in him along with t
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1777 | Born April 12 in Hanover County, Virginia |
-| 1781 | Father dies; mother remarries Captain Henry Watkins |
-| 1791 | Family moves to Kentucky; Henry remains in Virginia |
-| 1797 | Admitted to the bar in Virginia; moves to Lexington, Kentucky |
-| 1799 | Marries Lucretia Hart on April 11 |
-| 1803 | Elected to Kentucky House of Representatives |
-| 1806-1807 | First term in U.S. Senate (filling unexpired term) |
-| 1807-1809 | Speaker of Kentucky House of Representatives |
-| 1809 | Fights duel with Humphrey Marshall on January 19 |
-| 1810-1811 | Second brief term in U.S. Senate |
-| 1811 | Elected Speaker of U.S. House of Representatives on first day |
-| 1812 | Leads effort for declaration of war against Britain |
-| 1814 | Negotiates Treaty of Ghent ending War of 1812 |
-| 1820 | Architects Missouri Compromise |
-| 1824 | Runs for President; finishes fourth; supports John Quincy Adams in House election |
-| 1825-1829 | Serves as Secretary of State under President John Quincy Adams |
-| 1826 | Fights duel with John Randolph; both miss |
-| 1832 | Runs for President as National Republican; loses to Andrew Jackson |
-| 1833 | Helps found Whig Party; brokers Tariff Compromise |
-| 1844 | Runs for President as Whig nominee; narrowly loses to James K. Polk |
-| 1847 | Son Henry Clay Jr. killed at Battle of Buena Vista |
-| 1849 | Returns to U.S. Senate at age 72 |
-| 1850 | Architects Compromise of 1850 |
-| 1852 | Dies of tuberculosis June 29 in Washington, D.C.; first person to lie in state in Capitol Rotunda |
+| Year      | Event                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------- |
+| 1777      | Born April 12 in Hanover County, Virginia                                                         |
+| 1781      | Father dies; mother remarries Captain Henry Watkins                                               |
+| 1791      | Family moves to Kentucky; Henry remains in Virginia                                               |
+| 1797      | Admitted to the bar in Virginia; moves to Lexington, Kentucky                                     |
+| 1799      | Marries Lucretia Hart on April 11                                                                 |
+| 1803      | Elected to Kentucky House of Representatives                                                      |
+| 1806-1807 | First term in U.S. Senate (filling unexpired term)                                                |
+| 1807-1809 | Speaker of Kentucky House of Representatives                                                      |
+| 1809      | Fights duel with Humphrey Marshall on January 19                                                  |
+| 1810-1811 | Second brief term in U.S. Senate                                                                  |
+| 1811      | Elected Speaker of U.S. House of Representatives on first day                                     |
+| 1812      | Leads effort for declaration of war against Britain                                               |
+| 1814      | Negotiates Treaty of Ghent ending War of 1812                                                     |
+| 1820      | Architects Missouri Compromise                                                                    |
+| 1824      | Runs for President; finishes fourth; supports John Quincy Adams in House election                 |
+| 1825-1829 | Serves as Secretary of State under President John Quincy Adams                                    |
+| 1826      | Fights duel with John Randolph; both miss                                                         |
+| 1832      | Runs for President as National Republican; loses to Andrew Jackson                                |
+| 1833      | Helps found Whig Party; brokers Tariff Compromise                                                 |
+| 1844      | Runs for President as Whig nominee; narrowly loses to James K. Polk                               |
+| 1847      | Son Henry Clay Jr. killed at Battle of Buena Vista                                                |
+| 1849      | Returns to U.S. Senate at age 72                                                                  |
+| 1850      | Architects Compromise of 1850                                                                     |
+| 1852      | Dies of tuberculosis June 29 in Washington, D.C.; first person to lie in state in Capitol Rotunda |
 
 ---
 
@@ -243,196 +251,389 @@ One biographer concluded that "there was a serious statesman in him along with t
 ## References
 
 [^1]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^2]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^3]: Friends of the Lincoln Collection: An Interview with John Marszalek on Henry Clay, https://www.friendsofthelincolncollection.org/lincoln-lore/an-interview-with-john-marszalek-on-henry-clay-lincolns-beau-ideal-of-a-statesmen/
+
 [^4]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^5]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^6]: Henry Clay | American Battlefield Trust, https://www.battlefields.org/learn/biographies/henry-clay
+
 [^7]: About Henry Clay - The Henry Clay Estate, https://henryclay.org/learn/about-henry-clay/
+
 [^8]: Henry Clay | American Battlefield Trust, https://www.battlefields.org/learn/biographies/henry-clay
+
 [^9]: Henry Clay | American Statesman & Political Leader | Britannica, https://www.britannica.com/biography/Henry-Clay
+
 [^10]: About Henry Clay - The Henry Clay Estate, https://henryclay.org/learn/about-henry-clay/
+
 [^11]: Henry Clay | American Battlefield Trust, https://www.battlefields.org/learn/biographies/henry-clay
+
 [^12]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^13]: Henry Clay | American Statesman & Political Leader | Britannica, https://www.britannica.com/biography/Henry-Clay
+
 [^14]: Henry Clay | American Statesman & Political Leader | Britannica, https://www.britannica.com/biography/Henry-Clay
+
 [^15]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^16]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^17]: About Henry Clay - The Henry Clay Estate, https://henryclay.org/learn/about-henry-clay/
+
 [^18]: Henry Clay | American Battlefield Trust, https://www.battlefields.org/learn/biographies/henry-clay
+
 [^19]: Lucretia Clay | History of American Women, https://www.womenhistoryblog.com/2014/11/lucretia-clay.html
+
 [^20]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^21]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^22]: Henry Clay: The Great Compromiser - World History Encyclopedia, https://www.worldhistory.org/Henry_Clay/
+
 [^23]: CLAY, Henry | US House of Representatives: History, Art & Archives, https://history.house.gov/People/Detail/11051
+
 [^24]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^25]: CLAY, Henry | US House of Representatives: History, Art & Archives, https://history.house.gov/People/Detail/11051
+
 [^26]: Henry Clay - Statesman, Politician, Speaker | Britannica, https://www.britannica.com/biography/Henry-Clay/Public-office
+
 [^27]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^28]: Henry Clay - Statesman, Politician, Speaker | Britannica, https://www.britannica.com/biography/Henry-Clay/Public-office
+
 [^29]: Henry Clay during the War of 1812, https://www.bandyheritagecenter.org/Content/Uploads/bandy/files/1812/Henry Clay during the War of 1812.pdf
+
 [^30]: War Hawks of 1812 | History, Role in the War & Impact, https://study.com/academy/lesson/war-hawks-1812-overview-history.html
+
 [^31]: Henry Clay during the War of 1812, https://www.bandyheritagecenter.org/Content/Uploads/bandy/files/1812/Henry Clay during the War of 1812.pdf
+
 [^32]: Henry Clay - People - Department History - Office of the Historian, https://history.state.gov/departmenthistory/people/clay-henry
+
 [^33]: New Acquisition: Henry Clay Draft of Article IX of the Treaty of Ghent, https://blogs.loc.gov/law/2020/12/new-acquisition-henry-clay-draft-of-article-ix-of-the-treaty-of-ghent/
+
 [^34]: Henry Clay during the War of 1812, https://www.bandyheritagecenter.org/Content/Uploads/bandy/files/1812/Henry Clay during the War of 1812.pdf
+
 [^35]: U.S. Senate: Classic Senate Speeches, https://www.senate.gov/artandhistory/history/common/generic/Speeches_ClayAmericanSystem.htm
+
 [^36]: The American System | Emerging America, http://emergingamerica.org/exhibits/steamboat-barnet/investigations/american-system
+
 [^37]: American System | 19th-century economic plan | Britannica, https://www.britannica.com/topic/American-System-19th-century-economic-plan
+
 [^38]: Henry Clay - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Henry_Clay
+
 [^39]: CLAY, Henry | US House of Representatives: History, Art & Archives, https://history.house.gov/People/Detail/11051
+
 [^40]: The American System | Emerging America, http://emergingamerica.org/exhibits/steamboat-barnet/investigations/american-system
+
 [^41]: Abraham Lincoln and Henry Clay Historical Marker, https://www.hmdb.org/m.asp?m=169734
+
 [^42]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^43]: Missouri Compromise | Summary, Map, & Significance | Britannica, https://www.britannica.com/event/Missouri-Compromise
+
 [^44]: Missouri Compromise of 1820, https://www.americanhistorycentral.com/entries/missouri-compromise/
+
 [^45]: Missouri Compromise of 1820, https://www.americanhistorycentral.com/entries/missouri-compromise/
+
 [^46]: Missouri Compromise - Wikipedia, https://en.wikipedia.org/wiki/Missouri_Compromise
+
 [^47]: U.S. Senate: Missouri Compromise Ushers in New Era for the Senate, https://www.senate.gov/artandhistory/history/minute/Missouri_Compromise.htm
+
 [^48]: Missouri Compromise of 1820, https://www.americanhistorycentral.com/entries/missouri-compromise/
+
 [^49]: Henry Clay - People - Department History - Office of the Historian, https://history.state.gov/departmenthistory/people/clay-henry
+
 [^50]: Corrupt bargain - Wikipedia, https://en.wikipedia.org/wiki/Corrupt_bargain
+
 [^51]: Henry Clay (1825–1829) | Miller Center, https://millercenter.org/president/adams/essays/clay-1825-secretary-of-state
+
 [^52]: Henry Clay (1825–1829) | Miller Center, https://millercenter.org/president/adams/essays/clay-1825-secretary-of-state
+
 [^53]: Henry Clay - People - Department History - Office of the Historian, https://history.state.gov/departmenthistory/people/clay-henry
+
 [^54]: Henry Clay (1825–1829) | Miller Center, https://millercenter.org/president/adams/essays/clay-1825-secretary-of-state
+
 [^55]: Henry Clay - People - Department History - Office of the Historian, https://history.state.gov/departmenthistory/people/clay-henry
+
 [^56]: National Republican Party - Wikipedia, https://en.wikipedia.org/wiki/National_Republican_Party
+
 [^57]: Henry Clay - Citizendium, https://en.citizendium.org/wiki/Henry_Clay
+
 [^58]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^59]: Whig Party (United States) - Wikipedia, https://en.wikipedia.org/wiki/Whig_Party_(United_States)
+
 [^60]: Henry Clay - The Whig Party years and disappointment | Britannica, https://www.britannica.com/biography/Henry-Clay/The-Whig-Party-years-and-disappointment
+
 [^61]: Whig Party (United States) - Wikipedia, https://en.wikipedia.org/wiki/Whig_Party_(United_States)
+
 [^62]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^63]: The Compromise of 1850 as Introduced by Senator Henry Clay, https://www.visitthecapitol.gov/artifact/compromise-1850-introduced-senator-henry-clay-january-29-1850
+
 [^64]: The Compromise of 1850 as Introduced by Senator Henry Clay, https://www.visitthecapitol.gov/artifact/compromise-1850-introduced-senator-henry-clay-january-29-1850
+
 [^65]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^66]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^67]: The 1824 Presidential Election and the "Corrupt Bargain", https://prologue.blogs.archives.gov/2020/10/22/the-1824-presidential-election-and-the-corrupt-bargain/
+
 [^68]: 1824 United States presidential election - Wikipedia, https://en.wikipedia.org/wiki/1824_United_States_presidential_election
+
 [^69]: Corrupt bargain - Wikipedia, https://en.wikipedia.org/wiki/Corrupt_bargain
+
 [^70]: The 1824 Presidential Election and the "Corrupt Bargain", https://prologue.blogs.archives.gov/2020/10/22/the-1824-presidential-election-and-the-corrupt-bargain/
+
 [^71]: The 1824 Presidential Election and the "Corrupt Bargain", https://prologue.blogs.archives.gov/2020/10/22/the-1824-presidential-election-and-the-corrupt-bargain/
+
 [^72]: Corrupt bargain - Wikipedia, https://en.wikipedia.org/wiki/Corrupt_bargain
+
 [^73]: Henry Clay (1825–1829) | Miller Center, https://millercenter.org/president/adams/essays/clay-1825-secretary-of-state
+
 [^74]: The 1824 Presidential Election and the "Corrupt Bargain", https://prologue.blogs.archives.gov/2020/10/22/the-1824-presidential-election-and-the-corrupt-bargain/
+
 [^75]: Two Historic Elections—One Controversial, the Other Nasty, https://npg.si.edu/blog/two-historic-elections—one-controversial-other-nasty
+
 [^76]: Henry Clay - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Henry_Clay
+
 [^77]: Henry Clay - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Henry_Clay
+
 [^78]: Henry Clay - The Whig Party years and disappointment | Britannica, https://www.britannica.com/biography/Henry-Clay/The-Whig-Party-years-and-disappointment
+
 [^79]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^80]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^81]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^82]: Ashland: The Henry Clay Estate reveals dark past with a slavery tour, https://spectrumnews1.com/ky/bowling-green/news/2022/02/28/ashland--the-henry-clay-estate-reveals-its-dark-history-with-a-slavery-tour
+
 [^83]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^84]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^85]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^86]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^87]: Henry Clay: Kentuckian and 3-Time Presidential Candidate, https://filsonhistorical.omeka.net/exhibits/show/presidential-elections/henry-clay-kentuckian
+
 [^88]: Henry Clay: Kentuckian and 3-Time Presidential Candidate, https://filsonhistorical.omeka.net/exhibits/show/presidential-elections/henry-clay-kentuckian
+
 [^89]: Henry Clay: Kentuckian and 3-Time Presidential Candidate, https://filsonhistorical.omeka.net/exhibits/show/presidential-elections/henry-clay-kentuckian
+
 [^90]: 1844 United States presidential election - Wikipedia, https://en.wikipedia.org/wiki/1844_United_States_presidential_election
+
 [^91]: Henry Clay in Manifest Destiny & Mexican-American War, https://www.shmoop.com/study-guides/manifest-destiny-mexican-american-war/henry-clay.html
+
 [^92]: Henry Clay - The Whig Party years and disappointment | Britannica, https://www.britannica.com/biography/Henry-Clay/The-Whig-Party-years-and-disappointment
+
 [^93]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^94]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^95]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^96]: Book Review: Henry Clay: America's Greatest Statesman, https://inverarity.livejournal.com/395037.html
+
 [^97]: John Randolph and Henry Clay Fight a Duel, https://www.ebsco.com/research-starters/history/john-randolph-and-henry-clay-fight-duel
+
 [^98]: 1844 United States presidential election - Wikipedia, https://en.wikipedia.org/wiki/1844_United_States_presidential_election
+
 [^99]: The wisdom of Henry Clay: advice for the modern-day politician, https://blog.oup.com/2018/09/henry-clay-modern-day-politician-advice/
+
 [^100]: Henry Clay in Manifest Destiny & Mexican-American War, https://www.shmoop.com/study-guides/manifest-destiny-mexican-american-war/henry-clay.html
+
 [^101]: Letter From Henry Clay to the Editors of the National Intelligencer Opposing the Annexation of Texas, https://teachingamericanhistory.org/document/letter-to-the-editors-of-the-national-intelligencer-opposing-the-annexation-of-texas/
+
 [^102]: Letter From Henry Clay to the Editors of the National Intelligencer Opposing the Annexation of Texas, https://teachingamericanhistory.org/document/letter-to-the-editors-of-the-national-intelligencer-opposing-the-annexation-of-texas/
+
 [^103]: HENRY CLAY ON THE MEXICAN WAR, https://digitalcommons.murraystate.edu/context/jphs/article/1246/viewcontent/Henry_Clay_on_the_Mexican_War.pdf
+
 [^104]: Henry Clay in Manifest Destiny & Mexican-American War, https://www.shmoop.com/study-guides/manifest-destiny-mexican-american-war/henry-clay.html
+
 [^105]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^106]: Lucretia Clay | History of American Women, https://www.womenhistoryblog.com/2014/11/lucretia-clay.html
+
 [^107]: Henry and Lucretia Clay | Library of Congress, https://www.loc.gov/item/2021669478/
+
 [^108]: Lucretia (Hart) Clay (1781-1864) | WikiTree, https://www.wikitree.com/wiki/Hart-794
+
 [^109]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^110]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^111]: Henry Clay - Wikipedia, https://en.wikipedia.org/wiki/Henry_Clay
+
 [^112]: Henry Clay, Jr. | ExploreKYHistory, https://explorekyhistory.ky.gov/items/show/203
+
 [^113]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^114]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^115]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^116]: Lucretia Clay | History of American Women, https://www.womenhistoryblog.com/2014/11/lucretia-clay.html
+
 [^117]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^118]: Lucretia Clay | History of American Women, https://www.womenhistoryblog.com/2014/11/lucretia-clay.html
+
 [^119]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^120]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^121]: Henry Clay | American Statesman & Political Leader | Britannica, https://www.britannica.com/biography/Henry-Clay
+
 [^122]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^123]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^124]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^125]: Henry Clay | American Statesman & Political Leader | Britannica, https://www.britannica.com/biography/Henry-Clay
+
 [^126]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^127]: Henry Clay | Encyclopedia.com, https://www.encyclopedia.com/people/history/us-history-biographies/henry-clay
+
 [^128]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^129]: U.S. Senate: Henry Clay Dies, https://www.senate.gov/artandhistory/history/minute/Henry_Clay_Dies.htm
+
 [^130]: Henry Clay - Senator, Congress & Quotes, https://www.biography.com/political-figures/henry-clay
+
 [^131]: U.S. Senate: Henry Clay Dies, https://www.senate.gov/artandhistory/history/minute/Henry_Clay_Dies.htm
+
 [^132]: Henry Clay Funeral Train Buffalo July 1852, https://buffaloah.com/h/fagant/clay.pdf
+
 [^133]: All That Remains of Henry Clay: Political Funerals and the Tour of Henry Clay's Corpse, https://commonplace.online/article/remains-of-henry-clay/
+
 [^134]: Henry Clay Funeral Train Buffalo July 1852, https://buffaloah.com/h/fagant/clay.pdf
+
 [^135]: All That Remains of Henry Clay: Political Funerals and the Tour of Henry Clay's Corpse, https://commonplace.online/article/remains-of-henry-clay/
+
 [^136]: Abraham Lincoln and Henry Clay Historical Marker, https://www.hmdb.org/m.asp?m=169734
+
 [^137]: Friends of the Lincoln Collection: An Interview with John Marszalek on Henry Clay, https://www.friendsofthelincolncollection.org/lincoln-lore/an-interview-with-john-marszalek-on-henry-clay-lincolns-beau-ideal-of-a-statesmen/
+
 [^138]: The Influence of Henry Clay upon Abraham Lincoln, https://thekeep.eiu.edu/theses/3679/
+
 [^139]: The Influence of Henry Clay upon Abraham Lincoln, https://thekeep.eiu.edu/theses/3679/
+
 [^140]: The Influence of Henry Clay upon Abraham Lincoln, https://thekeep.eiu.edu/theses/3679/
+
 [^141]: The Influence of Henry Clay upon Abraham Lincoln, https://thekeep.eiu.edu/theses/3679/
+
 [^142]: Abraham Lincoln and Henry Clay Historical Marker, https://www.hmdb.org/m.asp?m=169734
+
 [^143]: "My Beau Ideal of a Statesman": Abraham Lincoln's Eulogy on Henry Clay, https://quod.lib.umich.edu/j/jala/2629860.0041.203/--my-beau-ideal-of-a-statesman-abraham-lincolns-eulogy
+
 [^144]: What Henry Clay Taught Lincoln, https://lawliberty.org/book-review/what-henry-clay-taught-lincoln/
+
 [^145]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^146]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^147]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^148]: U.S. Senate: Classic Senate Speeches, https://www.senate.gov/artandhistory/history/common/generic/Speeches_ClayAmericanSystem.htm
+
 [^149]: Abraham Lincoln and Henry Clay Historical Marker, https://www.hmdb.org/m.asp?m=169734
+
 [^150]: Whig Party (United States) - Wikipedia, https://en.wikipedia.org/wiki/Whig_Party_(United_States)
+
 [^151]: U.S. Senate: Henry Clay: A Featured Biography, https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Clay.htm
+
 [^152]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^153]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^154]: Constitution Center: Henry Clay, the Great Compromiser, https://constitutioncenter.org/blog/henry-clay-the-great-compromiser
+
 [^155]: U.S. Senate: Classic Senate Speeches, https://www.senate.gov/artandhistory/history/common/generic/Speeches_ClayAmericanSystem.htm
+
 [^156]: The American System | Emerging America, http://emergingamerica.org/exhibits/steamboat-barnet/investigations/american-system
+
 [^157]: American System | 19th-century economic plan | Britannica, https://www.britannica.com/topic/American-System-19th-century-economic-plan
+
 [^158]: CLAY, Henry | US House of Representatives: History, Art & Archives, https://history.house.gov/People/Detail/11051
+
 [^159]: Henry Clay - Statesman, Politician, Speaker | Britannica, https://www.britannica.com/biography/Henry-Clay/Public-office
+
 [^160]: Henry Clay - Statesman, Politician, Speaker | Britannica, https://www.britannica.com/biography/Henry-Clay/Public-office
+
 [^161]: Abraham Lincoln and Henry Clay Historical Marker, https://www.hmdb.org/m.asp?m=169734
+
 [^162]: The Influence of Henry Clay upon Abraham Lincoln, https://thekeep.eiu.edu/theses/3679/
+
 [^163]: What Henry Clay Taught Lincoln, https://lawliberty.org/book-review/what-henry-clay-taught-lincoln/
+
 [^164]: Henry Clay - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Henry_Clay
+
 [^165]: Henry Clay - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Henry_Clay
+
 [^166]: Henry Clay - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Henry_Clay
+
 [^167]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^168]: Missouri Compromise - Wikipedia, https://en.wikipedia.org/wiki/Missouri_Compromise
+
 [^169]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^170]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^171]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^172]: Ashland (Henry Clay estate) - Wikipedia, https://en.wikipedia.org/wiki/Ashland_(Henry_Clay_estate)
+
 [^173]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^174]: Henry Clay in Manifest Destiny & Mexican-American War, https://www.shmoop.com/study-guides/manifest-destiny-mexican-american-war/henry-clay.html
+
 [^175]: The 1824 Presidential Election and the "Corrupt Bargain", https://prologue.blogs.archives.gov/2020/10/22/the-1824-presidential-election-and-the-corrupt-bargain/
+
 [^176]: 1844 United States presidential election - Wikipedia, https://en.wikipedia.org/wiki/1844_United_States_presidential_election
+
 [^177]: Everybody Liked Henry Clay, American Heritage, https://www.americanheritage.com/everybody-liked-henry-clay
+
 [^178]: Book Review: Henry Clay: America's Greatest Statesman, https://inverarity.livejournal.com/395037.html
+
 [^179]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^180]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^181]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^182]: Henry Clay's "American System" Is Bad News for the American Economy, https://thedailyeconomy.org/article/henry-clays-american-system-is-bad-news-for-the-american-economy/
+
 [^183]: Henry Clay: Kentuckian and 3-Time Presidential Candidate, https://filsonhistorical.omeka.net/exhibits/show/presidential-elections/henry-clay-kentuckian
+
 [^184]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^185]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^186]: Henry Clay and the Historian: A One-Hundred-Year Perspective, https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4006&context=fhq
+
 [^187]: Henry Clay Quotes - BrainyQuote, https://www.brainyquote.com/authors/henry-clay-quotes
+
 [^188]: Henry Clay - Wikiquote, https://en.wikiquote.org/wiki/Henry_Clay
+
 [^189]: Henry Clay (30+ Sourced Quotes) - Lib Quotes, https://libquotes.com/henry-clay
+
 [^190]: TOP 25 QUOTES BY HENRY CLAY | A-Z Quotes, https://www.azquotes.com/author/2961-Henry_Clay
+
 [^191]: TOP 25 QUOTES BY HENRY CLAY | A-Z Quotes, https://www.azquotes.com/author/2961-Henry_Clay
+
 [^192]: Henry Clay Quotes (Author of Henry Clay's Remarks in House and Senate), https://www.goodreads.com/author/quotes/245034.Henry_Clay
+
 [^193]: TOP 25 QUOTES BY HENRY CLAY | A-Z Quotes, https://www.azquotes.com/author/2961-Henry_Clay
+
 [^194]: TOP 25 QUOTES BY HENRY CLAY | A-Z Quotes, https://www.azquotes.com/author/2961-Henry_Clay

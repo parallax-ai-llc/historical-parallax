@@ -185,29 +185,29 @@ Finally, critics note that Robespierre's ultimate failure—his overthrow and ex
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1758 | Born in Arras, France on May 6 |
-| 1764 | Mother dies in childbirth; father abandons family |
-| 1769 | Receives scholarship to Collège Louis-le-Grand in Paris |
-| 1781 | Completes legal studies; admitted to Arras bar |
-| 1782 | Establishes law practice in Arras |
-| 1789 | Elected to Estates-General as representative of Third Estate of Artois |
-| 1789 | Becomes prominent member of Jacobin Club |
-| 1791 | Advocates for universal male suffrage and religious tolerance |
-| 1792 | Opposes declaration of war against Austria |
+| Year | Event                                                                     |
+| ---- | ------------------------------------------------------------------------- |
+| 1758 | Born in Arras, France on May 6                                            |
+| 1764 | Mother dies in childbirth; father abandons family                         |
+| 1769 | Receives scholarship to Collège Louis-le-Grand in Paris                   |
+| 1781 | Completes legal studies; admitted to Arras bar                            |
+| 1782 | Establishes law practice in Arras                                         |
+| 1789 | Elected to Estates-General as representative of Third Estate of Artois    |
+| 1789 | Becomes prominent member of Jacobin Club                                  |
+| 1791 | Advocates for universal male suffrage and religious tolerance             |
+| 1792 | Opposes declaration of war against Austria                                |
 | 1792 | August 10 insurrection overthrows monarchy; Robespierre's influence grows |
-| 1792 | Elected to National Convention in September |
-| 1793 | Advocates for execution of Louis XVI without appeal |
-| 1793 | Elected to Committee of Public Safety on July 27 |
-| 1793 | September marks beginning of Reign of Terror |
-| 1794 | February: Convention abolishes slavery in French territories |
-| 1794 | March-April: Orchestrates execution of Hébertists and Dantonists |
-| 1794 | June 8: Presides over Festival of the Supreme Being |
-| 1794 | June 10: Law of 22 Prairial accelerates Terror |
-| 1794 | July 26-27: Delivers final speeches to Convention (8-9 Thermidor) |
-| 1794 | July 27: Arrested following Thermidorian coup |
-| 1794 | July 28: Executed by guillotine at age 36 |
+| 1792 | Elected to National Convention in September                               |
+| 1793 | Advocates for execution of Louis XVI without appeal                       |
+| 1793 | Elected to Committee of Public Safety on July 27                          |
+| 1793 | September marks beginning of Reign of Terror                              |
+| 1794 | February: Convention abolishes slavery in French territories              |
+| 1794 | March-April: Orchestrates execution of Hébertists and Dantonists          |
+| 1794 | June 8: Presides over Festival of the Supreme Being                       |
+| 1794 | June 10: Law of 22 Prairial accelerates Terror                            |
+| 1794 | July 26-27: Delivers final speeches to Convention (8-9 Thermidor)         |
+| 1794 | July 27: Arrested following Thermidorian coup                             |
+| 1794 | July 28: Executed by guillotine at age 36                                 |
 
 ---
 
@@ -237,146 +237,146 @@ From his earlier revolutionary period, this quote demonstrates Robespierre's com
 
 ## References
 
-[^1]: McPhee, Peter. *Robespierre: A Revolutionary Life*. Yale University Press, 2012, pp. 3-8.
+[^1]: McPhee, Peter. _Robespierre: A Revolutionary Life_. Yale University Press, 2012, pp. 3-8.
 
-[^2]: Hampson, Norman. *The Life and Opinions of Maximilien Robespierre*. Duckworth, 1974, pp. 12-18.
+[^2]: Hampson, Norman. _The Life and Opinions of Maximilien Robespierre_. Duckworth, 1974, pp. 12-18.
 
-[^3]: Jordan, David P. *The Revolutionary Career of Maximilien Robespierre*. University of Chicago Press, 1985, pp. 9-15.
+[^3]: Jordan, David P. _The Revolutionary Career of Maximilien Robespierre_. University of Chicago Press, 1985, pp. 9-15.
 
-[^4]: Scurr, Ruth. *Fatal Purity: Robespierre and the French Revolution*. Metropolitan Books, 2006, pp. 28-35.
+[^4]: Scurr, Ruth. _Fatal Purity: Robespierre and the French Revolution_. Metropolitan Books, 2006, pp. 28-35.
 
-[^5]: Linton, Marisa. *Choosing Terror: Virtue, Friendship and Authenticity in the French Revolution*. Oxford University Press, 2013, pp. 65-72.
+[^5]: Linton, Marisa. _Choosing Terror: Virtue, Friendship and Authenticity in the French Revolution_. Oxford University Press, 2013, pp. 65-72.
 
-[^6]: Doyle, William. *The Oxford History of the French Revolution*. Oxford University Press, 2002, pp. 112-115.
+[^6]: Doyle, William. _The Oxford History of the French Revolution_. Oxford University Press, 2002, pp. 112-115.
 
-[^7]: Palmer, R.R. *Twelve Who Ruled: The Year of Terror in the French Revolution*. Princeton University Press, 1941, pp. 35-42.
+[^7]: Palmer, R.R. _Twelve Who Ruled: The Year of Terror in the French Revolution_. Princeton University Press, 1941, pp. 35-42.
 
-[^8]: Andress, David. *The Terror: The Merciless War for Freedom in Revolutionary France*. Farrar, Straus and Giroux, 2006, pp. 98-105.
+[^8]: Andress, David. _The Terror: The Merciless War for Freedom in Revolutionary France_. Farrar, Straus and Giroux, 2006, pp. 98-105.
 
-[^9]: Soboul, Albert. *The French Revolution 1787-1799*. Vintage Books, 1975, pp. 245-252.
+[^9]: Soboul, Albert. _The French Revolution 1787-1799_. Vintage Books, 1975, pp. 245-252.
 
-[^10]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. Knopf, 1989, pp. 598-612.
+[^10]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. Knopf, 1989, pp. 598-612.
 
-[^11]: Walzer, Michael (ed.). *Regicide and Revolution: Speeches at the Trial of Louis XVI*. Cambridge University Press, 1974, pp. 129-137.
+[^11]: Walzer, Michael (ed.). _Regicide and Revolution: Speeches at the Trial of Louis XVI_. Cambridge University Press, 1974, pp. 129-137.
 
-[^12]: Furet, François. *Interpreting the French Revolution*. Cambridge University Press, 1981, pp. 61-79.
+[^12]: Furet, François. _Interpreting the French Revolution_. Cambridge University Press, 1981, pp. 61-79.
 
-[^13]: Martin, Jean-Clément. *Violence et Révolution: Essai sur la naissance d'un mythe national*. Seuil, 2006, pp. 178-185.
+[^13]: Martin, Jean-Clément. _Violence et Révolution: Essai sur la naissance d'un mythe national_. Seuil, 2006, pp. 178-185.
 
-[^14]: Rapport, Michael. *The French Revolution: A Very Short Introduction*. Oxford University Press, 2020, pp. 67-71.
+[^14]: Rapport, Michael. _The French Revolution: A Very Short Introduction_. Oxford University Press, 2020, pp. 67-71.
 
-[^15]: Dubois, Laurent. *Avengers of the New World: The Story of the Haitian Revolution*. Harvard University Press, 2004, pp. 162-170.
+[^15]: Dubois, Laurent. _Avengers of the New World: The Story of the Haitian Revolution_. Harvard University Press, 2004, pp. 162-170.
 
-[^16]: Bell, David A. *The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It*. Houghton Mifflin, 2007, pp. 98-115.
+[^16]: Bell, David A. _The First Total War: Napoleon's Europe and the Birth of Warfare as We Know It_. Houghton Mifflin, 2007, pp. 98-115.
 
-[^17]: Cobb, Richard. *The People's Armies*. Yale University Press, 1987, pp. 234-241.
+[^17]: Cobb, Richard. _The People's Armies_. Yale University Press, 1987, pp. 234-241.
 
-[^18]: Ozouf, Mona. *Festivals and the French Revolution*. Harvard University Press, 1988, pp. 106-125.
+[^18]: Ozouf, Mona. _Festivals and the French Revolution_. Harvard University Press, 1988, pp. 106-125.
 
-[^19]: Hunt, Lynn. *Politics, Culture, and Class in the French Revolution*. University of California Press, 2004, pp. 52-66.
+[^19]: Hunt, Lynn. _Politics, Culture, and Class in the French Revolution_. University of California Press, 2004, pp. 52-66.
 
-[^20]: Brown, Howard G. *War, Revolution, and the Bureaucratic State*. Oxford University Press, 1995, pp. 167-178.
+[^20]: Brown, Howard G. _War, Revolution, and the Bureaucratic State_. Oxford University Press, 1995, pp. 167-178.
 
-[^21]: Israel, Jonathan. *Revolutionary Ideas: An Intellectual History of the French Revolution from The Rights of Man to Robespierre*. Princeton University Press, 2014, pp. 478-492.
+[^21]: Israel, Jonathan. _Revolutionary Ideas: An Intellectual History of the French Revolution from The Rights of Man to Robespierre_. Princeton University Press, 2014, pp. 478-492.
 
-[^22]: Tackett, Timothy. *The Coming of the Terror in the French Revolution*. Harvard University Press, 2015, pp. 312-328.
+[^22]: Tackett, Timothy. _The Coming of the Terror in the French Revolution_. Harvard University Press, 2015, pp. 312-328.
 
-[^23]: Linton, Marisa. "Robespierre's Political Principles." In *Robespierre*, edited by Colin Haydon and William Doyle. Cambridge University Press, 1999, pp. 37-53.
+[^23]: Linton, Marisa. "Robespierre's Political Principles." In _Robespierre_, edited by Colin Haydon and William Doyle. Cambridge University Press, 1999, pp. 37-53.
 
-[^24]: Brunel, Françoise. *Thermidor: La chute de Robespierre*. Complexe, 1989, pp. 45-62.
+[^24]: Brunel, Françoise. _Thermidor: La chute de Robespierre_. Complexe, 1989, pp. 45-62.
 
-[^25]: Gueniffey, Patrice. *La Politique de la Terreur: Essai sur la violence révolutionnaire*. Fayard, 2000, pp. 189-207.
+[^25]: Gueniffey, Patrice. _La Politique de la Terreur: Essai sur la violence révolutionnaire_. Fayard, 2000, pp. 189-207.
 
-[^26]: Talmon, Jacob L. *The Origins of Totalitarian Democracy*. Praeger, 1960, pp. 112-134.
+[^26]: Talmon, Jacob L. _The Origins of Totalitarian Democracy_. Praeger, 1960, pp. 112-134.
 
-[^27]: Vovelle, Michel. *The Revolution Against the Church*. Ohio State University Press, 1991, pp. 78-91.
+[^27]: Vovelle, Michel. _The Revolution Against the Church_. Ohio State University Press, 1991, pp. 78-91.
 
-[^28]: Bienvenu, Richard (ed.). *The Ninth of Thermidor: The Fall of Robespierre*. Oxford University Press, 1968, pp. 23-41.
+[^28]: Bienvenu, Richard (ed.). _The Ninth of Thermidor: The Fall of Robespierre_. Oxford University Press, 1968, pp. 23-41.
 
-[^29]: Aftalion, Florin. *The French Revolution: An Economic Interpretation*. Cambridge University Press, 1990, pp. 156-172.
+[^29]: Aftalion, Florin. _The French Revolution: An Economic Interpretation_. Cambridge University Press, 1990, pp. 156-172.
 
-[^30]: Baker, Keith Michael. *Inventing the French Revolution*. Cambridge University Press, 1990, pp. 224-237.
+[^30]: Baker, Keith Michael. _Inventing the French Revolution_. Cambridge University Press, 1990, pp. 224-237.
 
-[^31]: Gallo, Max. *Robespierre the Incorruptible: A Psycho-Biography*. Herder and Herder, 1971, pp. 134-142.
+[^31]: Gallo, Max. _Robespierre the Incorruptible: A Psycho-Biography_. Herder and Herder, 1971, pp. 134-142.
 
-[^32]: Thompson, J.M. *Robespierre*. Basil Blackwell, 1935, pp. 187-194.
+[^32]: Thompson, J.M. _Robespierre_. Basil Blackwell, 1935, pp. 187-194.
 
-[^33]: Hardman, John. *Robespierre*. Longman, 1999, pp. 42-48.
+[^33]: Hardman, John. _Robespierre_. Longman, 1999, pp. 42-48.
 
-[^34]: Scurr, *Fatal Purity*, pp. 267-273.
+[^34]: Scurr, _Fatal Purity_, pp. 267-273.
 
-[^35]: Gross, Jean-Pierre. *Fair Shares for All: Jacobin Egalitarianism in Practice*. Cambridge University Press, 1997, pp. 89-96.
+[^35]: Gross, Jean-Pierre. _Fair Shares for All: Jacobin Egalitarianism in Practice_. Cambridge University Press, 1997, pp. 89-96.
 
-[^36]: McDonald, Joan. *Rousseau and the French Revolution 1762-1791*. Athlone Press, 1965, pp. 145-159.
+[^36]: McDonald, Joan. _Rousseau and the French Revolution 1762-1791_. Athlone Press, 1965, pp. 145-159.
 
-[^37]: McPhee, *Robespierre: A Revolutionary Life*, pp. 178-185.
+[^37]: McPhee, _Robespierre: A Revolutionary Life_, pp. 178-185.
 
-[^38]: Palmer, *Twelve Who Ruled*, pp. 356-371.
+[^38]: Palmer, _Twelve Who Ruled_, pp. 356-371.
 
-[^39]: Haydon, Colin and William Doyle (eds.). *Robespierre*. Cambridge University Press, 1999, pp. 1-15.
+[^39]: Haydon, Colin and William Doyle (eds.). _Robespierre_. Cambridge University Press, 1999, pp. 1-15.
 
-[^40]: Reichardt, Rolf. "Robespierre." In *A Critical Dictionary of the French Revolution*, edited by François Furet and Mona Ozouf. Harvard University Press, 1989, pp. 298-311.
+[^40]: Reichardt, Rolf. "Robespierre." In _A Critical Dictionary of the French Revolution_, edited by François Furet and Mona Ozouf. Harvard University Press, 1989, pp. 298-311.
 
-[^41]: Mathiez, Albert. *The French Revolution*. Russell & Russell, 1962, pp. 387-401.
+[^41]: Mathiez, Albert. _The French Revolution_. Russell & Russell, 1962, pp. 387-401.
 
-[^42]: Trotsky, Leon. *Terrorism and Communism*. University of Michigan Press, 1961, pp. 55-72.
+[^42]: Trotsky, Leon. _Terrorism and Communism_. University of Michigan Press, 1961, pp. 55-72.
 
-[^43]: Talmon, *The Origins of Totalitarian Democracy*, pp. 1-28.
+[^43]: Talmon, _The Origins of Totalitarian Democracy_, pp. 1-28.
 
-[^44]: Furet, François and Mona Ozouf (eds.). *A Critical Dictionary of the French Revolution*. Harvard University Press, 1989, pp. 298-311.
+[^44]: Furet, François and Mona Ozouf (eds.). _A Critical Dictionary of the French Revolution_. Harvard University Press, 1989, pp. 298-311.
 
-[^45]: Linton, *Choosing Terror*, pp. 213-234.
+[^45]: Linton, _Choosing Terror_, pp. 213-234.
 
-[^46]: Baczko, Bronisław. *Ending the Terror: The French Revolution after Robespierre*. Cambridge University Press, 1994, pp. 48-67.
+[^46]: Baczko, Bronisław. _Ending the Terror: The French Revolution after Robespierre_. Cambridge University Press, 1994, pp. 48-67.
 
-[^47]: Carlyle, Thomas. *The French Revolution: A History*. Modern Library, 2002 [1837], pp. 678-695.
+[^47]: Carlyle, Thomas. _The French Revolution: A History_. Modern Library, 2002 [1837], pp. 678-695.
 
-[^48]: Wahnich, Sophie. *In Defence of the Terror: Liberty or Death in the French Revolution*. Verso, 2012, pp. 12-28.
+[^48]: Wahnich, Sophie. _In Defence of the Terror: Liberty or Death in the French Revolution_. Verso, 2012, pp. 12-28.
 
-[^49]: McPhee, *Robespierre: A Revolutionary Life*, pp. 234-247.
+[^49]: McPhee, _Robespierre: A Revolutionary Life_, pp. 234-247.
 
-[^50]: Mathiez, Albert. *Études sur Robespierre*. Éditions Sociales, 1958, p. 127.
+[^50]: Mathiez, Albert. _Études sur Robespierre_. Éditions Sociales, 1958, p. 127.
 
-[^51]: McPhee, *Robespierre: A Revolutionary Life*, p. 89.
+[^51]: McPhee, _Robespierre: A Revolutionary Life_, p. 89.
 
-[^52]: Dubois, *Avengers of the New World*, p. 168.
+[^52]: Dubois, _Avengers of the New World_, p. 168.
 
-[^53]: Andress, *The Terror*, p. 285.
+[^53]: Andress, _The Terror_, p. 285.
 
-[^54]: Linton, *Choosing Terror*, p. 197.
+[^54]: Linton, _Choosing Terror_, p. 197.
 
-[^55]: Israel, *Revolutionary Ideas*, p. 521.
+[^55]: Israel, _Revolutionary Ideas_, p. 521.
 
-[^56]: Hazan, Eric. *A People's History of the French Revolution*. Verso, 2014, p. 267.
+[^56]: Hazan, Eric. _A People's History of the French Revolution_. Verso, 2014, p. 267.
 
-[^57]: Martin, Jean-Clément. *Robespierre: La fabrication d'un monstre*. Perrin, 2016, pp. 18-32.
+[^57]: Martin, Jean-Clément. _Robespierre: La fabrication d'un monstre_. Perrin, 2016, pp. 18-32.
 
-[^58]: Schama, *Citizens*, p. 847.
+[^58]: Schama, _Citizens_, p. 847.
 
-[^59]: Furet, *Interpreting the French Revolution*, p. 71.
+[^59]: Furet, _Interpreting the French Revolution_, p. 71.
 
-[^60]: Gueniffey, *La Politique de la Terreur*, p. 198.
+[^60]: Gueniffey, _La Politique de la Terreur_, p. 198.
 
-[^61]: Talmon, *The Origins of Totalitarian Democracy*, p. 119.
+[^61]: Talmon, _The Origins of Totalitarian Democracy_, p. 119.
 
-[^62]: Brunel, *Thermidor*, pp. 51-58.
+[^62]: Brunel, _Thermidor_, pp. 51-58.
 
-[^63]: Ozouf, *Festivals and the French Revolution*, pp. 118-122.
+[^63]: Ozouf, _Festivals and the French Revolution_, pp. 118-122.
 
-[^64]: Aftalion, *The French Revolution: An Economic Interpretation*, pp. 163-169.
+[^64]: Aftalion, _The French Revolution: An Economic Interpretation_, pp. 163-169.
 
-[^65]: Arendt, Hannah. *On Revolution*. Penguin, 2006 [1963], pp. 89-104.
+[^65]: Arendt, Hannah. _On Revolution_. Penguin, 2006 [1963], pp. 89-104.
 
-[^66]: Baczko, *Ending the Terror*, p. 56.
+[^66]: Baczko, _Ending the Terror_, p. 56.
 
-[^67]: Palmer, *Twelve Who Ruled*, pp. 380-384.
+[^67]: Palmer, _Twelve Who Ruled_, pp. 380-384.
 
-[^68]: Robespierre, Maximilien. "On the Principles of Political Morality," February 5, 1794. In *Virtue and Terror*, edited by Slavoj Žižek. Verso, 2007, p. 115.
+[^68]: Robespierre, Maximilien. "On the Principles of Political Morality," February 5, 1794. In _Virtue and Terror_, edited by Slavoj Žižek. Verso, 2007, p. 115.
 
-[^69]: Robespierre, "On the Principles of Political Morality," in Žižek (ed.), *Virtue and Terror*, p. 129.
+[^69]: Robespierre, "On the Principles of Political Morality," in Žižek (ed.), _Virtue and Terror_, p. 129.
 
-[^70]: Robespierre, Maximilien. Speech to the Jacobin Club, January 2, 1792. In Jordan, *The Revolutionary Career of Maximilien Robespierre*, p. 89.
+[^70]: Robespierre, Maximilien. Speech to the Jacobin Club, January 2, 1792. In Jordan, _The Revolutionary Career of Maximilien Robespierre_, p. 89.
 
-[^71]: Robespierre, Maximilien. Speech to the National Convention, November 5, 1792. In Thompson, *Robespierre*, p. 176.
+[^71]: Robespierre, Maximilien. Speech to the National Convention, November 5, 1792. In Thompson, _Robespierre_, p. 176.
 
-[^72]: Robespierre, Maximilien. "Declaration of the Rights of Man and Citizen," April 24, 1793. In *The Old Regime and the French Revolution*, edited by Keith Michael Baker. University of Chicago Press, 1987, p. 238.
+[^72]: Robespierre, Maximilien. "Declaration of the Rights of Man and Citizen," April 24, 1793. In _The Old Regime and the French Revolution_, edited by Keith Michael Baker. University of Chicago Press, 1987, p. 238.

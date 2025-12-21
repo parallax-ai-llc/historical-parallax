@@ -177,7 +177,7 @@ Business leaders involved in his Sustainable Markets Initiative credit Charles w
 
 Critics of Charles III focus extensively on what they view as his inappropriate political interference and violation of constitutional conventions. Republic, the British republican advocacy group, has consistently argued that Charles's lobbying of government ministers represents undemocratic influence by an unelected individual, incompatible with constitutional monarchy principles.[^80] Graham Smith, Republic's CEO, has stated that "Charles has shown he cannot separate his personal views from his constitutional role," raising fundamental questions about his suitability as monarch.[^81]
 
-Scientific and medical communities have been harsh critics of Charles's promotion of alternative medicine and what they characterize as pseudoscience. The scientific journal *Nature* editorialized against his advocacy of homeopathy and complementary medicine, arguing it undermined public health and promoted ineffective treatments.[^82] Professor David Colquhoun, a prominent critic, has accused Charles of "using his privileged position to promote quackery," arguing his interventions have had harmful effects on medical policy and public understanding of science.[^83]
+Scientific and medical communities have been harsh critics of Charles's promotion of alternative medicine and what they characterize as pseudoscience. The scientific journal _Nature_ editorialized against his advocacy of homeopathy and complementary medicine, arguing it undermined public health and promoted ineffective treatments.[^82] Professor David Colquhoun, a prominent critic, has accused Charles of "using his privileged position to promote quackery," arguing his interventions have had harmful effects on medical policy and public understanding of science.[^83]
 
 Architectural critics and modernist architects view Charles's interventions as damaging to British architecture and regressive in aesthetic vision. Owen Hatherley, architecture critic and author, has called Poundbury "a Disneyfied vision of the past" that ignores contemporary housing needs and urban realities.[^84] Critics argue Charles's influence stifled architectural innovation and imposed his personal taste through undemocratic means.[^85]
 
@@ -191,233 +191,233 @@ Environmental critics, while acknowledging Charles's advocacy, point to contradi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1948 | Born November 14 at Buckingham Palace, London |
-| 1952 | Becomes heir apparent when mother ascends throne as Elizabeth II |
-| 1958 | Created Prince of Wales |
-| 1967 | Begins studies at Trinity College, Cambridge |
-| 1969 | Investiture as Prince of Wales at Caernarfon Castle, July 1 |
-| 1970 | Graduates from Cambridge with BA degree; gives first environmental speech |
-| 1971 | Begins military service with Royal Air Force |
-| 1976 | Founds The Prince's Trust; commands HMS Bronington; ends active military service |
-| 1981 | Marries Lady Diana Spencer, July 29, at St Paul's Cathedral |
-| 1982 | Birth of first son, Prince William, June 21 |
+| Year | Event                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 1948 | Born November 14 at Buckingham Palace, London                                                |
+| 1952 | Becomes heir apparent when mother ascends throne as Elizabeth II                             |
+| 1958 | Created Prince of Wales                                                                      |
+| 1967 | Begins studies at Trinity College, Cambridge                                                 |
+| 1969 | Investiture as Prince of Wales at Caernarfon Castle, July 1                                  |
+| 1970 | Graduates from Cambridge with BA degree; gives first environmental speech                    |
+| 1971 | Begins military service with Royal Air Force                                                 |
+| 1976 | Founds The Prince's Trust; commands HMS Bronington; ends active military service             |
+| 1981 | Marries Lady Diana Spencer, July 29, at St Paul's Cathedral                                  |
+| 1982 | Birth of first son, Prince William, June 21                                                  |
 | 1984 | Birth of second son, Prince Harry, September 15; delivers "carbuncle" speech on architecture |
-| 1986 | Converts Highgrove estate to organic farming |
-| 1990 | Launches Duchy Originals organic food brand |
-| 1992 | Separation from Diana announced, December |
-| 1994 | Admits adultery in Jonathan Dimbleby documentary |
-| 1996 | Divorce from Diana finalized, August 28 |
-| 1997 | Death of Diana, August 31; plays key role in funeral arrangements |
-| 2005 | Marries Camilla Parker Bowles, April 9 |
-| 2007 | Establishes Prince's Rainforests Project |
-| 2013 | Birth of first grandchild, Prince George |
-| 2015 | "Black spider memos" released after legal battle |
-| 2020 | Launches Sustainable Markets Initiative; son Harry steps back from royal duties |
-| 2021 | Plays prominent role at COP26 climate summit in Glasgow |
-| 2022 | Becomes King Charles III upon death of Elizabeth II, September 8 |
-| 2023 | Coronation at Westminster Abbey, May 6 |
+| 1986 | Converts Highgrove estate to organic farming                                                 |
+| 1990 | Launches Duchy Originals organic food brand                                                  |
+| 1992 | Separation from Diana announced, December                                                    |
+| 1994 | Admits adultery in Jonathan Dimbleby documentary                                             |
+| 1996 | Divorce from Diana finalized, August 28                                                      |
+| 1997 | Death of Diana, August 31; plays key role in funeral arrangements                            |
+| 2005 | Marries Camilla Parker Bowles, April 9                                                       |
+| 2007 | Establishes Prince's Rainforests Project                                                     |
+| 2013 | Birth of first grandchild, Prince George                                                     |
+| 2015 | "Black spider memos" released after legal battle                                             |
+| 2020 | Launches Sustainable Markets Initiative; son Harry steps back from royal duties              |
+| 2021 | Plays prominent role at COP26 climate summit in Glasgow                                      |
+| 2022 | Becomes King Charles III upon death of Elizabeth II, September 8                             |
+| 2023 | Coronation at Westminster Abbey, May 6                                                       |
 
 ---
 
 ## Famous Quotes
 
 > "I can only do my best to try and put before people what I believe to be solutions that are based on common sense. I have always believed that common sense can be brought to bear on these things."
-— On his advocacy work, reflecting his self-perception as promoting practical solutions despite criticism of his interventions.[^92]
+> — On his advocacy work, reflecting his self-perception as promoting practical solutions despite criticism of his interventions.[^92]
 
 > "We are busily wrecking the planet... because we are only concentrating on what we need to take from it, rather than what we might have to contribute to it."
-— From a 1970 speech on environmental conservation, demonstrating his early environmental consciousness that predated mainstream climate awareness.[^93]
+> — From a 1970 speech on environmental conservation, demonstrating his early environmental consciousness that predated mainstream climate awareness.[^93]
 
 > "Do you seriously expect me to be the first Prince of Wales in history not to have a mistress?"
-— Reported comment to Camilla Parker Bowles, revealing his view of royal prerogatives and contributing to controversy over his relationship during his marriage to Diana.[^94]
+> — Reported comment to Camilla Parker Bowles, revealing his view of royal prerogatives and contributing to controversy over his relationship during his marriage to Diana.[^94]
 
 > "I would much rather be called 'Defender of Faith' than 'Defender of the Faith.'"
-— Expressing his vision of representing Britain's religious diversity rather than just the Church of England, signaling his approach to modern monarchy.[^95]
+> — Expressing his vision of representing Britain's religious diversity rather than just the Church of England, signaling his approach to modern monarchy.[^95]
 
 > "Something as curious as the monarch who wouldn't shut up."
-— Charles's self-deprecating description of how he might be remembered, acknowledging criticism of his outspokenness while defending his right to advocate.[^96]
+> — Charles's self-deprecating description of how he might be remembered, acknowledging criticism of his outspokenness while defending his right to advocate.[^96]
 
 > "Tradition is not the worship of ashes, but the preservation of fire."
-— Often quoted by Charles to justify balancing traditional values with necessary evolution, reflecting his philosophy on heritage and change.[^97]
+> — Often quoted by Charles to justify balancing traditional values with necessary evolution, reflecting his philosophy on heritage and change.[^97]
 
 ---
 
 ## References
 
-[^1]: Brandreth, Gyles. *Philip and Elizabeth: Portrait of a Royal Marriage*. W.W. Norton & Company, 2004.
+[^1]: Brandreth, Gyles. _Philip and Elizabeth: Portrait of a Royal Marriage_. W.W. Norton & Company, 2004.
 
-[^2]: Dimbleby, Jonathan. *The Prince of Wales: A Biography*. Little, Brown and Company, 1994.
+[^2]: Dimbleby, Jonathan. _The Prince of Wales: A Biography_. Little, Brown and Company, 1994.
 
-[^3]: "Prince Charles's School Days." *The Telegraph*, November 13, 2013.
+[^3]: "Prince Charles's School Days." _The Telegraph_, November 13, 2013.
 
-[^4]: Lacey, Robert. *Monarch: The Life and Reign of Elizabeth II*. Free Press, 2002.
+[^4]: Lacey, Robert. _Monarch: The Life and Reign of Elizabeth II_. Free Press, 2002.
 
-[^5]: "Prince Charles Graduates from Cambridge." *The Times*, June 24, 1970.
+[^5]: "Prince Charles Graduates from Cambridge." _The Times_, June 24, 1970.
 
 [^6]: "Prince Charles's Naval Career." Royal Navy Historical Branch Archives, 1976.
 
-[^7]: Lownie, Andrew. *The Mountbattens: Their Lives & Loves*. Blink Publishing, 2019.
+[^7]: Lownie, Andrew. _The Mountbattens: Their Lives & Loves_. Blink Publishing, 2019.
 
 [^8]: "The Investiture of the Prince of Wales." BBC Archive, July 1, 1969.
 
-[^9]: "The Prince's Trust: 40 Years of Supporting Young People." *Financial Times*, March 2016.
+[^9]: "The Prince's Trust: 40 Years of Supporting Young People." _Financial Times_, March 2016.
 
-[^10]: "Prince Charles's 'Carbuncle' Speech." *The Guardian*, May 30, 1984.
+[^10]: "Prince Charles's 'Carbuncle' Speech." _The Guardian_, May 30, 1984.
 
-[^11]: Morton, Andrew. *Diana: Her True Story – In Her Own Words*. Simon & Schuster, 1997.
+[^11]: Morton, Andrew. _Diana: Her True Story – In Her Own Words_. Simon & Schuster, 1997.
 
-[^12]: "Charles and Camilla: The Love Story." *BBC News*, April 8, 2005.
+[^12]: "Charles and Camilla: The Love Story." _BBC News_, April 8, 2005.
 
-[^13]: Hardman, Robert. *Queen of Our Times: The Life of Elizabeth II*. Macmillan, 2022.
+[^13]: Hardman, Robert. _Queen of Our Times: The Life of Elizabeth II_. Macmillan, 2022.
 
-[^14]: "The Coronation of King Charles III." *The Times*, May 7, 2023.
+[^14]: "The Coronation of King Charles III." _The Times_, May 7, 2023.
 
-[^15]: Juniper, Tony. *Harmony: A New Way of Looking at Our World* (co-authored with Prince Charles). Blue Door, 2010.
+[^15]: Juniper, Tony. _Harmony: A New Way of Looking at Our World_ (co-authored with Prince Charles). Blue Door, 2010.
 
-[^16]: "Prince Charles's First Environmental Speech." *The Observer*, February 1970.
+[^16]: "Prince Charles's First Environmental Speech." _The Observer_, February 1970.
 
-[^17]: "Duchy Originals: The Story of Britain's Original Organic Food Brand." *Country Life*, September 2015.
+[^17]: "Duchy Originals: The Story of Britain's Original Organic Food Brand." _Country Life_, September 2015.
 
-[^18]: "Prince's Rainforests Project Launch." *The Guardian*, October 2007.
+[^18]: "Prince's Rainforests Project Launch." _The Guardian_, October 2007.
 
-[^19]: "COP26: King Charles's Terra Carta Initiative." *Financial Times*, November 2021.
+[^19]: "COP26: King Charles's Terra Carta Initiative." _Financial Times_, November 2021.
 
 [^20]: "The Prince's Trust: Origins and Impact." Charity Commission records, 1976-2020.
 
-[^21]: Patel, Raj. "The Prince's Trust: An Evaluation of Youth Support Programs." *Social Policy Journal*, vol. 18, 2019.
+[^21]: Patel, Raj. "The Prince's Trust: An Evaluation of Youth Support Programs." _Social Policy Journal_, vol. 18, 2019.
 
 [^22]: "Royal Patronages: A Complete List." Royal Household official records, 2022.
 
 [^23]: "The Prince's Foundation for the Built Environment Annual Report." 2020.
 
-[^24]: "Poundbury: 30 Years of Urban Experiment." *The Architect's Journal*, March 2023.
+[^24]: "Poundbury: 30 Years of Urban Experiment." _The Architect's Journal_, March 2023.
 
-[^25]: Thompson, Michael. "New Urbanism and Traditional Architecture: The Poundbury Model." *Urban Planning Review*, vol. 45, no. 2, 2018.
+[^25]: Thompson, Michael. "New Urbanism and Traditional Architecture: The Poundbury Model." _Urban Planning Review_, vol. 45, no. 2, 2018.
 
-[^26]: *A Vision of Britain: A Personal View of Architecture*. Prince Charles. Doubleday, 1989.
+[^26]: _A Vision of Britain: A Personal View of Architecture_. Prince Charles. Doubleday, 1989.
 
-[^27]: "Defender of Faith: Charles's Religious Vision." *Church Times*, September 2022.
+[^27]: "Defender of Faith: Charles's Religious Vision." _Church Times_, September 2022.
 
 [^28]: "Prince Charles's Interfaith Work." Islamic Society of Britain report, 2015.
 
-[^29]: "Sustainable Markets Initiative: Two Years On." *Bloomberg*, January 2022.
+[^29]: "Sustainable Markets Initiative: Two Years On." _Bloomberg_, January 2022.
 
 [^30]: "Terra Carta Seal: Companies Commit to Sustainability." World Economic Forum, 2023.
 
-[^31]: Evans, Rob, and David Hencke. "The Black Spider Memos." *The Guardian*, May 13, 2015.
+[^31]: Evans, Rob, and David Hencke. "The Black Spider Memos." _The Guardian_, May 13, 2015.
 
-[^32]: "Prince Charles's Letters to Ministers Released." *BBC News*, May 2015.
+[^32]: "Prince Charles's Letters to Ministers Released." _BBC News_, May 2015.
 
-[^33]: Bogdanor, Vernon. *The Monarchy and the Constitution*. Oxford University Press, 1995.
+[^33]: Bogdanor, Vernon. _The Monarchy and the Constitution_. Oxford University Press, 1995.
 
-[^34]: Smith, Graham. "Royal Lobbying and Democratic Deficit." *Republic*, 2015.
+[^34]: Smith, Graham. "Royal Lobbying and Democratic Deficit." _Republic_, 2015.
 
 [^35]: "RIBA Response to Prince Charles's Architecture Speech." Royal Institute of British Architects statement, 1984.
 
-[^36]: Glancey, Jonathan. "The Prince and the Architects." *The Guardian*, November 2009.
+[^36]: Glancey, Jonathan. "The Prince and the Architects." _The Guardian_, November 2009.
 
-[^37]: Hatherley, Owen. *The Ministry of Nostalgia*. Verso Books, 2016.
+[^37]: Hatherley, Owen. _The Ministry of Nostalgia_. Verso Books, 2016.
 
-[^38]: Wainwright, Oliver. "Poundbury: The Disneyland Village That Prince Charles Built." *The Guardian*, October 2016.
+[^38]: Wainwright, Oliver. "Poundbury: The Disneyland Village That Prince Charles Built." _The Guardian_, October 2016.
 
-[^39]: Ernst, Edzard. "Prince Charles's Alternative Medicine Advocacy." *The Lancet*, vol. 390, 2017.
+[^39]: Ernst, Edzard. "Prince Charles's Alternative Medicine Advocacy." _The Lancet_, vol. 390, 2017.
 
-[^40]: "Foundation for Integrated Health Closes." *British Medical Journal*, April 2010.
+[^40]: "Foundation for Integrated Health Closes." _British Medical Journal_, April 2010.
 
-[^41]: Ernst, Edzard. *A Scientist in Wonderland*. Imprint Academic, 2015.
+[^41]: Ernst, Edzard. _A Scientist in Wonderland_. Imprint Academic, 2015.
 
-[^42]: "The Camillagate Tapes." *The Mirror*, November 1992.
+[^42]: "The Camillagate Tapes." _The Mirror_, November 1992.
 
 [^43]: "Diana: Panorama Interview." BBC, November 20, 1995.
 
 [^44]: "Public Opinion on Charles and Camilla." YouGov polling data, 2005-2015.
 
-[^45]: "Paradise Papers: Duchy of Cornwall Investments." *The Guardian*, November 2017.
+[^45]: "Paradise Papers: Duchy of Cornwall Investments." _The Guardian_, November 2017.
 
-[^46]: "Royal Finances and Offshore Investments." *Financial Times*, November 2017.
+[^46]: "Royal Finances and Offshore Investments." _Financial Times_, November 2017.
 
 [^47]: "Cost of Royal Travel." National Audit Office report, 2019.
 
-[^48]: "Royal Wedding Watched by 750 Million." *BBC News*, July 29, 1981.
+[^48]: "Royal Wedding Watched by 750 Million." _BBC News_, July 29, 1981.
 
 [^49]: Dimbleby, Jonathan. "Prince Charles: The Private Man, The Public Role." ITV documentary, 1994.
 
 [^50]: Bashir, Martin. "Diana: Panorama Interview." BBC, November 1995.
 
-[^51]: "Death of Diana, Princess of Wales." *The Times*, September 1, 1997.
+[^51]: "Death of Diana, Princess of Wales." _The Times_, September 1, 1997.
 
-[^52]: "Charles and Camilla Wed." *The Telegraph*, April 9, 2005.
+[^52]: "Charles and Camilla Wed." _The Telegraph_, April 9, 2005.
 
-[^53]: Bower, Tom. *Rebel Prince: The Power, Passion and Defiance of Prince Charles*. William Collins, 2018.
+[^53]: Bower, Tom. _Rebel Prince: The Power, Passion and Defiance of Prince Charles_. William Collins, 2018.
 
-[^54]: Harry, Prince. *Spare*. Random House, 2023.
+[^54]: Harry, Prince. _Spare_. Random House, 2023.
 
-[^55]: "Prince Harry's Claims About King Charles." *The Times*, January 10, 2023.
+[^55]: "Prince Harry's Claims About King Charles." _The Times_, January 10, 2023.
 
-[^56]: "King Charles's Relationship with Grandchildren." *Daily Mail*, November 2023.
+[^56]: "King Charles's Relationship with Grandchildren." _Daily Mail_, November 2023.
 
-[^57]: Andersen, Christopher. *The King: The Life of Charles III*. Gallery Books, 2022.
+[^57]: Andersen, Christopher. _The King: The Life of Charles III_. Gallery Books, 2022.
 
-[^58]: "The Private Interests of King Charles III." *Country Life*, September 2022.
+[^58]: "The Private Interests of King Charles III." _Country Life_, September 2022.
 
-[^59]: Junor, Penny. *The Firm: The Troubled Life of the House of Windsor*. HarperCollins, 2005.
+[^59]: Junor, Penny. _The Firm: The Troubled Life of the House of Windsor_. HarperCollins, 2005.
 
-[^60]: "King Charles's Spiritual Interests." *The Tablet*, May 2023.
+[^60]: "King Charles's Spiritual Interests." _The Tablet_, May 2023.
 
-[^61]: Porritt, Jonathon. "Charles the Green King." *The Ecologist*, September 2022.
+[^61]: Porritt, Jonathon. "Charles the Green King." _The Ecologist_, September 2022.
 
 [^62]: "Assessing the Terra Carta Impact." Sustainable Markets Initiative report, 2023.
 
-[^63]: "King Charles's Coronation: By the Numbers." *BBC News*, May 2023.
+[^63]: "King Charles's Coronation: By the Numbers." _BBC News_, May 2023.
 
-[^64]: "A Modern Coronation: Inclusivity and Tradition." *The Times*, May 6, 2023.
+[^64]: "A Modern Coronation: Inclusivity and Tradition." _The Times_, May 6, 2023.
 
 [^65]: "Slimmed-Down Monarchy Plans." Royal Household briefing, 2022.
 
-[^66]: Krier, Léon. "Poundbury and New Urbanism." *Architectural Review*, 2018.
+[^66]: Krier, Léon. "Poundbury and New Urbanism." _Architectural Review_, 2018.
 
-[^67]: Moore, Rowan. "The Architecture Wars: Modernism vs. Tradition." *The Observer*, 2019.
+[^67]: Moore, Rowan. "The Architecture Wars: Modernism vs. Tradition." _The Observer_, 2019.
 
 [^68]: "The Prince's Trust: 45 Year Impact Report." 2021.
 
-[^69]: Russell, Meg. "Royal Political Neutrality in Question." *Political Quarterly*, vol. 87, 2016.
+[^69]: Russell, Meg. "Royal Political Neutrality in Question." _Political Quarterly_, vol. 87, 2016.
 
-[^70]: "The Future of the Monarchy Under Charles III." *The Economist*, September 2022.
+[^70]: "The Future of the Monarchy Under Charles III." _The Economist_, September 2022.
 
-[^71]: Klein, Naomi. "Climate Voices: The Early Advocates." *The Nation*, 2019.
+[^71]: Klein, Naomi. "Climate Voices: The Early Advocates." _The Nation_, 2019.
 
 [^72]: Porritt, Jonathon. "Prince Charles: Environmental Champion." Forum for the Future, 2020.
 
 [^73]: Independent evaluation of The Prince's Trust by New Philanthropy Capital, 2018.
 
-[^74]: Bogdanor, Vernon. "The Constitutional Role of the Prince of Wales." *Oxford Constitutional Law*, 2010.
+[^74]: Bogdanor, Vernon. "The Constitutional Role of the Prince of Wales." _Oxford Constitutional Law_, 2010.
 
-[^75]: Roberts, Andrew. "In Defense of King Charles." *The Spectator*, September 2022.
+[^75]: Roberts, Andrew. "In Defense of King Charles." _The Spectator_, September 2022.
 
-[^76]: Scruton, Roger. "Prince Charles and the Philosophy of Architecture." *City Journal*, 2014.
+[^76]: Scruton, Roger. "Prince Charles and the Philosophy of Architecture." _City Journal_, 2014.
 
 [^77]: "Interfaith Relations in Modern Britain." Woolf Institute report, 2020.
 
-[^78]: Armstrong, Karen. *The Case for God*. Knopf, 2009. (Includes commentary on Prince Charles's religious work)
+[^78]: Armstrong, Karen. _The Case for God_. Knopf, 2009. (Includes commentary on Prince Charles's religious work)
 
 [^79]: "Business Leaders on the Sustainable Markets Initiative." World Economic Forum interviews, 2022.
 
 [^80]: "Republic's Case Against the Monarchy." Republic organization, 2022.
 
-[^81]: Smith, Graham. "Why King Charles Cannot Be Neutral." *The Guardian*, September 2022.
+[^81]: Smith, Graham. "Why King Charles Cannot Be Neutral." _The Guardian_, September 2022.
 
-[^82]: "Royal Quackery." *Nature*, editorial, vol. 455, September 2008.
+[^82]: "Royal Quackery." _Nature_, editorial, vol. 455, September 2008.
 
-[^83]: Colquhoun, David. "Prince Charles and Pseudoscience." *The Times Higher Education*, 2010.
+[^83]: Colquhoun, David. "Prince Charles and Pseudoscience." _The Times Higher Education_, 2010.
 
-[^84]: Hatherley, Owen. "Against Poundbury." *The Guardian*, 2013.
+[^84]: Hatherley, Owen. "Against Poundbury." _The Guardian_, 2013.
 
 [^85]: Foster, Norman. "Architecture and Democracy." Royal Institute of British Architects lecture, 2005.
 
-[^86]: Campbell, Beatrix. *Diana, Princess of Wales: How Sexual Politics Shook the Monarchy*. The Women's Press, 1998.
+[^86]: Campbell, Beatrix. _Diana, Princess of Wales: How Sexual Politics Shook the Monarchy_. The Women's Press, 1998.
 
-[^87]: Mayer, Catherine. *Charles: The Heart of a King*. WH Allen, 2015.
+[^87]: Mayer, Catherine. _Charles: The Heart of a King_. WH Allen, 2015.
 
 [^88]: "Republican Sentiment in Modern Britain." British Social Attitudes Survey, 2023.
 
@@ -425,16 +425,16 @@ Environmental critics, while acknowledging Charles's advocacy, point to contradi
 
 [^90]: "Royal Carbon Footprints." Environmental Audit Committee report, 2021.
 
-[^91]: Monbiot, George. "The Problem with Prince Charles." *The Guardian*, October 2015.
+[^91]: Monbiot, George. "The Problem with Prince Charles." _The Guardian_, October 2015.
 
 [^92]: Interview with Jonathan Dimbleby, ITV, 1994.
 
 [^93]: Speech on environmental conservation, February 1970. Archived at British Library.
 
-[^94]: Bower, Tom. *Rebel Prince*, citing palace sources, 2018.
+[^94]: Bower, Tom. _Rebel Prince_, citing palace sources, 2018.
 
 [^95]: Speech at interfaith gathering, 1994. Archived at Lambeth Palace Library.
 
-[^96]: Private remark to aides, quoted in Junor, *The Firm*, 2005.
+[^96]: Private remark to aides, quoted in Junor, _The Firm_, 2005.
 
 [^97]: Frequently cited by Prince Charles in speeches on heritage; origin attributed to Gustav Mahler.

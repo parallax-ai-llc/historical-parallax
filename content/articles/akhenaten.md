@@ -64,6 +64,7 @@ The establishment of Akhetaten allowed Akhenaten to create an entirely new relig
 Akhenaten presided over a dramatic transformation in Egyptian art, known as the Amarna style. This revolutionary aesthetic completely contradicted what had been revered in Egyptian culture for millennia.[^42][^43] The pharaoh himself appears to have been the guiding force behind these changes; a dedicatory text by the master sculptor Bek described him as "one whom his majesty himself instructed."[^44]
 
 The Amarna style featured several distinctive characteristics:
+
 - Elongated heads and necks
 - Sloping foreheads and pronounced facial features
 - Narrow, slitted eyes with pronounced facial folds
@@ -211,33 +212,33 @@ British Egyptologist Cyril Aldred offered a more moderate assessment, viewing Ak
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 1380 BCE | Birth of Amenhotep (later Akhenaten), second son of Amenhotep III and Queen Tiye |
-| c. 1353 BCE | Death of Crown Prince Thutmose; Amenhotep becomes heir apparent |
-| 1353 BCE | Accession to throne as Amenhotep IV; marriage to Nefertiti |
-| 1353-1351 BCE | Early reign at Thebes; begins elevating cult of Aten |
-| c. 1351 BCE | Construction of Aten temples at Karnak; erection of colossal statues |
-| c. 1349 BCE | Initiation of program to erase Amun's name from monuments |
-| 1348 BCE | Year 5: Changes name from Amenhotep IV to Akhenaten |
-| 1348 BCE | Year 5: Announces discovery of site for new capital Akhetaten (Amarna) |
-| 1346 BCE | Construction begins on Akhetaten |
-| 1344 BCE | Capital officially moves to Akhetaten |
-| 1341 BCE | Year 9: Akhetaten construction largely completed |
-| 1341 BCE | Year 9: Declares Aten the only worshipable god |
-| c. 1340 BCE | Great Hymn to the Aten composed and inscribed in courtier tombs |
-| c. 1340 BCE | Birth of Tutankhaten (later Tutankhamun) |
-| c. 1338 BCE | Deaths of daughters Meketaten, Neferneferure, and Setepenre (possibly from epidemic) |
-| 1337 BCE | Year 16: Last confirmed reference to Nefertiti as chief wife |
-| 1336 BCE | Death of Akhenaten after 17-year reign |
-| 1336 BCE | Succession crisis; possible brief reign of Neferneferuaten |
-| 1334 BCE | Tutankhaten becomes pharaoh; begins reversing Akhenaten's reforms |
+| Year          | Event                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| c. 1380 BCE   | Birth of Amenhotep (later Akhenaten), second son of Amenhotep III and Queen Tiye          |
+| c. 1353 BCE   | Death of Crown Prince Thutmose; Amenhotep becomes heir apparent                           |
+| 1353 BCE      | Accession to throne as Amenhotep IV; marriage to Nefertiti                                |
+| 1353-1351 BCE | Early reign at Thebes; begins elevating cult of Aten                                      |
+| c. 1351 BCE   | Construction of Aten temples at Karnak; erection of colossal statues                      |
+| c. 1349 BCE   | Initiation of program to erase Amun's name from monuments                                 |
+| 1348 BCE      | Year 5: Changes name from Amenhotep IV to Akhenaten                                       |
+| 1348 BCE      | Year 5: Announces discovery of site for new capital Akhetaten (Amarna)                    |
+| 1346 BCE      | Construction begins on Akhetaten                                                          |
+| 1344 BCE      | Capital officially moves to Akhetaten                                                     |
+| 1341 BCE      | Year 9: Akhetaten construction largely completed                                          |
+| 1341 BCE      | Year 9: Declares Aten the only worshipable god                                            |
+| c. 1340 BCE   | Great Hymn to the Aten composed and inscribed in courtier tombs                           |
+| c. 1340 BCE   | Birth of Tutankhaten (later Tutankhamun)                                                  |
+| c. 1338 BCE   | Deaths of daughters Meketaten, Neferneferure, and Setepenre (possibly from epidemic)      |
+| 1337 BCE      | Year 16: Last confirmed reference to Nefertiti as chief wife                              |
+| 1336 BCE      | Death of Akhenaten after 17-year reign                                                    |
+| 1336 BCE      | Succession crisis; possible brief reign of Neferneferuaten                                |
+| 1334 BCE      | Tutankhaten becomes pharaoh; begins reversing Akhenaten's reforms                         |
 | 1334-1333 BCE | Tutankhaten changes name to Tutankhamun; capital returns to Thebes; Amun worship restored |
-| c. 1319 BCE | Horemheb becomes pharaoh; systematically erases Akhenaten's name and monuments |
-| 1887 CE | Amarna Letters discovered by local woman digging for fertilizer |
-| 1912 CE | Discovery of bust of Nefertiti in sculptor Thutmose's workshop |
-| 1925 CE | Discovery of colossal statues of Akhenaten at East Karnak by Henri Chevrier |
-| 2010 CE | DNA testing confirms KV55 mummy (likely Akhenaten) as father of Tutankhamun |
+| c. 1319 BCE   | Horemheb becomes pharaoh; systematically erases Akhenaten's name and monuments            |
+| 1887 CE       | Amarna Letters discovered by local woman digging for fertilizer                           |
+| 1912 CE       | Discovery of bust of Nefertiti in sculptor Thutmose's workshop                            |
+| 1925 CE       | Discovery of colossal statues of Akhenaten at East Karnak by Henri Chevrier               |
+| 2010 CE       | DNA testing confirms KV55 mummy (likely Akhenaten) as father of Tutankhamun               |
 
 ---
 
@@ -268,126 +269,249 @@ Master sculptor Bek's description of his relationship with Akhenaten, indicating
 ## References
 
 [^1]: Britannica. "Akhenaten | Biography, Mummy, Accomplishments, Religion, Statue, & Facts." https://www.britannica.com/biography/Akhenaten
+
 [^2]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^3]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^4]: Biographics. "Akhenaten - The Heretic Pharaoh." https://biographics.org/akhenaten-the-heretic-pharaoh/
+
 [^5]: Ducksters. "Biography: Akhenaten." https://www.ducksters.com/history/ancient_egypt/akhenaten.php
+
 [^6]: Study.com. "Akhenaten | Biography, Art & Mummification." https://study.com/academy/lesson/akhenaten-biography-facts.html
+
 [^7]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^8]: Kids Konnect. "Akhenaten Worksheets | Early Life, Ascension, Reign, Legacy." https://kidskonnect.com/people/akhenaten/
+
 [^9]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^10]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^11]: Egypt a Tours. "Exploring the Legacy of Amenhotep IV: Akhenaten." https://egyptatours.com/akhenaten/
+
 [^12]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^13]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^14]: Egypt a Tours. "Exploring the Legacy of Amenhotep IV: Akhenaten." https://egyptatours.com/akhenaten/
+
 [^15]: Britannica. "Akhenaten | Biography, Mummy, Accomplishments, Religion, Statue, & Facts." https://www.britannica.com/biography/Akhenaten
+
 [^16]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^17]: Facts and Details. "Akhenaten (1353 B.C. to 1336 B.C.): His Life and Mysteries Surrounding His Family and Death." https://africame.factsanddetails.com/article/entry-116.html
+
 [^18]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^19]: Britannica. "Akhenaten | Biography, Mummy, Accomplishments, Religion, Statue, & Facts." https://www.britannica.com/biography/Akhenaten
+
 [^20]: Metropolitan Museum of Art. "Art, Architecture, and the City in the Reign of Amenhotep IV / Akhenaten." https://www.metmuseum.org/toah/hd/amar/hd_amar.htm
+
 [^21]: Wikipedia. "Colossal Statues of Akhenaten at East Karnak." https://en.wikipedia.org/wiki/Colossal_Statues_of_Akhenaten_at_East_Karnak
+
 [^22]: Wikipedia. "Colossal Statues of Akhenaten at East Karnak." https://en.wikipedia.org/wiki/Colossal_Statues_of_Akhenaten_at_East_Karnak
+
 [^23]: Egypt Museum. "Colossal Statue of Akhenaten." https://egypt-museum.com/colossal-statue-of-akhenaten/
+
 [^24]: Wikipedia. "Colossal Statues of Akhenaten at East Karnak." https://en.wikipedia.org/wiki/Colossal_Statues_of_Akhenaten_at_East_Karnak
+
 [^25]: Wikipedia. "Colossal Statues of Akhenaten at East Karnak." https://en.wikipedia.org/wiki/Colossal_Statues_of_Akhenaten_at_East_Karnak
+
 [^26]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^27]: Britannica. "Akhenaten - Amarna, Monotheism, Pharaoh." https://www.britannica.com/biography/Akhenaten/Move-to-Akhetaton
+
 [^28]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^29]: Britannica. "Akhenaten - Atonism, Monotheism, Revolution." https://www.britannica.com/biography/Akhenaten/Religion-of-the-Aton
+
 [^30]: TheCollector. "Akhenaten: The Forgotten Pioneer of Atenism and Monotheism." https://www.thecollector.com/akhenaten-monotheism/
+
 [^31]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^32]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^33]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^34]: DailyHistory.org. "How did Akhenaten Radically Change Egyptian Religion and Culture." https://www.dailyhistory.org/How_did_Akhenaten_Radically_Change_Egyptian_Religion_and_Culture
+
 [^35]: Britannica. "Akhenaten - Amarna, Monotheism, Pharaoh." https://www.britannica.com/biography/Akhenaten/Move-to-Akhetaton
+
 [^36]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^37]: Wikipedia. "Amarna." https://en.wikipedia.org/wiki/Amarna
+
 [^38]: Wikipedia. "Amarna Period." https://en.wikipedia.org/wiki/Amarna_Period
+
 [^39]: TheCollector. "Amarna: Mapping Akhenaten's Forgotten Capital." https://www.thecollector.com/amarna-ancient-egypt-akhenaten-captital/
+
 [^40]: Metropolitan Museum of Art. "Art, Architecture, and the City in the Reign of Amenhotep IV / Akhenaten." https://www.metmuseum.org/toah/hd/amar/hd_amar.htm
+
 [^41]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^42]: World History Encyclopedia. "The Art of the Amarna Period." https://www.worldhistory.org/article/1110/the-art-of-the-amarna-period/
+
 [^43]: Wikipedia. "Amarna art." https://en.wikipedia.org/wiki/Amarna_art
+
 [^44]: Britannica. "Amarna style | Ancient Egyptian Art & Architecture." https://www.britannica.com/art/Amarna-style
+
 [^45]: World History Encyclopedia. "The Art of the Amarna Period." https://www.worldhistory.org/article/1110/the-art-of-the-amarna-period/
+
 [^46]: TheCollector. "Comparing Akhenaten's Amarna Period Art to Traditional Egyptian Art." https://www.thecollector.com/amarna-egypt-art/
+
 [^47]: Ancient Origins. "The Art of Amarna: Akhenaten and his life under the Sun." https://www.ancient-origins.net/ancient-places-africa/art-amarna-akhenaten-and-his-life-under-sun-002587
+
 [^48]: Egypt Fun Tours. "Amarna Style, Akhenaten, and Nefertiti: Egypt's Radical Revolution." https://egyptfuntours.com/blog/akhenaten-nefertiti-amarna-style/
+
 [^49]: Wikipedia. "Amarna art." https://en.wikipedia.org/wiki/Amarna_art
+
 [^50]: Fiveable. "Art and Architecture During the Amarna Period." https://fiveable.me/gods-graves-and-pyramids-ancient-egyptian-religion-and-ritual/unit-13/art-architecture-amarna-period/study-guide/MVcfuR9f5jJbvz5M
+
 [^51]: Wikipedia. "Amarna art." https://en.wikipedia.org/wiki/Amarna_art
+
 [^52]: Wikipedia. "Great Hymn to the Aten." https://en.wikipedia.org/wiki/Great_Hymn_to_the_Aten
+
 [^53]: Nico Franz Art. "Great Hymn to the Aten - Hymn to the Sun by Akhenaten." https://nicofranz.art/en/theory-of-art/great-hymn-to-the-aten
+
 [^54]: Quote Park. "Quotes from book Great Hymn to the Aten (Akhenaten)." https://quotepark.com/works/great-hymn-to-the-aten-13790/
+
 [^55]: History Skills. "Great Hymn to the Aten in modern English." https://www.historyskills.com/classroom/ancient-history/hymn-to-the-aten/
+
 [^56]: Nico Franz Art. "Great Hymn to the Aten - Hymn to the Sun by Akhenaten." https://nicofranz.art/en/theory-of-art/great-hymn-to-the-aten
+
 [^57]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^58]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^59]: TheCollector. "Akhenaten: 7 Secrets of Egypt's Heretic Pharaoh." https://www.thecollector.com/akhenaten-egypt-heretic-pharaoh-secrets/
+
 [^60]: The Past. "Breaking Ma'at: Akhenaten and the battle for Egyptian tradition and identity." https://the-past.com/feature/breaking-maat-akhenaten-and-the-battle-for-egyptian-tradition-and-identity/
+
 [^61]: Ancient Egypt Online. "Akhenaten (aka Akhenaton) | The Heretic Pharaoh." https://www.ancient-egypt-online.com/akhenaten.html
+
 [^62]: Ancient Egypt Online. "Akhenaten (aka Akhenaton) | The Heretic Pharaoh." https://www.ancient-egypt-online.com/akhenaten.html
+
 [^63]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^64]: Wikipedia. "Amarna letters." https://en.wikipedia.org/wiki/Amarna_letters
+
 [^65]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^66]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^67]: Wikipedia. "Amarna letters." https://en.wikipedia.org/wiki/Amarna_letters
+
 [^68]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^69]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^70]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^71]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^72]: The Not So Innocent Abroad. "Controversial Theories About Akhenaten, Ancient Egypt's 'Heretic King'." https://www.thenotsoinnocentsabroad.com/blog/controversial-theories-about-akhenaten-ancient-egypts-heretic-king
+
 [^73]: The Not So Innocent Abroad. "Controversial Theories About Akhenaten, Ancient Egypt's 'Heretic King'." https://www.thenotsoinnocentsabroad.com/blog/controversial-theories-about-akhenaten-ancient-egypts-heretic-king
+
 [^74]: The Not So Innocent Abroad. "Controversial Theories About Akhenaten, Ancient Egypt's 'Heretic King'." https://www.thenotsoinnocentsabroad.com/blog/controversial-theories-about-akhenaten-ancient-egypts-heretic-king
+
 [^75]: Live Science. "Akhenaten: Egyptian Pharaoh, Nefertiti's Husband, Tut's Father." https://www.livescience.com/39349-akhenaten.html
+
 [^76]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^77]: Answers in Genesis. "Akhenaten and Nefertiti the Beautiful." https://answersingenesis.org/archaeology/ancient-egypt/akhenaten-and-nefertiti-the-beautiful/
+
 [^78]: Answers in Genesis. "Akhenaten and Nefertiti the Beautiful." https://answersingenesis.org/archaeology/ancient-egypt/akhenaten-and-nefertiti-the-beautiful/
+
 [^79]: ARCE. "Akhenaten, Nefertiti & Aten: From Many Gods to One." https://arce.org/resource/akhenaten-nefertiti-aten-many-gods-one/
+
 [^80]: Wikipedia. "Nefertiti." https://en.wikipedia.org/wiki/Nefertiti
+
 [^81]: Live Science. "Akhenaten: Egyptian Pharaoh, Nefertiti's Husband, Tut's Father." https://www.livescience.com/39349-akhenaten.html
+
 [^82]: Wikipedia. "Nefertiti." https://en.wikipedia.org/wiki/Nefertiti
+
 [^83]: World History Encyclopedia. "Akhenaten, Nefertiti, & Their Three Daughters." https://www.worldhistory.org/image/11106/akhenaten-nefertiti--their-three-daughters/
+
 [^84]: Egypt Museum. "Family portrait of Akhenaten, Nefertiti & daughter." https://egypt-museum.com/family-portrait-of-akhenaten-nefertiti-daughter/
+
 [^85]: Quora. "What was the original function of Akhenaten Nefertiti and three daughters?" https://www.quora.com/What-was-the-original-function-of-Akhenaten-Nefertiti-and-three-daughters
+
 [^86]: CBS News. "Mystery Surrounding King Tut's Dad Solved." https://www.cbsnews.com/news/mystery-surrounding-king-tuts-dad-solved/
+
 [^87]: National Geographic. "King Tut's Family Secrets." https://www.nationalgeographic.com/magazine/article/tut-dna
+
 [^88]: Wikipedia. "KV55." https://en.wikipedia.org/wiki/KV55
+
 [^89]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^90]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^91]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^92]: Wikipedia. "Tutankhamun." https://en.wikipedia.org/wiki/Tutankhamun
+
 [^93]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^94]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^95]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^96]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^97]: Wikipedia. "Amarna Period." https://en.wikipedia.org/wiki/Amarna_Period
+
 [^98]: Wikipedia. "Amarna." https://en.wikipedia.org/wiki/Amarna
+
 [^99]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^100]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^101]: PanAfroCore. "The Legacy of Pharaoh Akhenaten in Ancient Egypt." https://panafrocore.com/2024/03/31/the-legacy-of-pharaoh-akhenaten-in-ancient-egypt/
+
 [^102]: TheCollector. "Akhenaten: The Forgotten Pioneer of Atenism and Monotheism." https://www.thecollector.com/akhenaten-monotheism/
+
 [^103]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^104]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^105]: Britannica. "Akhenaten - Atonism, Monotheism, Revolution." https://www.britannica.com/biography/Akhenaten/Religion-of-the-Aton
+
 [^106]: Nico Franz Art. "Great Hymn to the Aten - Hymn to the Sun by Akhenaten." https://nicofranz.art/en/theory-of-art/great-hymn-to-the-aten
+
 [^107]: World History Encyclopedia. "The Art of the Amarna Period." https://www.worldhistory.org/article/1110/the-art-of-the-amarna-period/
+
 [^108]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^109]: National Geographic. "Meet King Tut's Father, Egypt's First Revolutionary." https://www.nationalgeographic.com/magazine/article/akhenaten-revolutionary-egypt-king
+
 [^110]: Egypt Museum. "Family portrait of Akhenaten, Nefertiti & daughter." https://egypt-museum.com/family-portrait-of-akhenaten-nefertiti-daughter/
+
 [^111]: National Geographic. "Meet King Tut's Father, Egypt's First Revolutionary." https://www.nationalgeographic.com/magazine/article/akhenaten-revolutionary-egypt-king
+
 [^112]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^113]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^114]: The Past. "Breaking Ma'at: Akhenaten and the battle for Egyptian tradition and identity." https://the-past.com/feature/breaking-maat-akhenaten-and-the-battle-for-egyptian-tradition-and-identity/
+
 [^115]: Ancient Egypt Online. "Akhenaten (aka Akhenaton) | The Heretic Pharaoh." https://www.ancient-egypt-online.com/akhenaten.html
+
 [^116]: World History Encyclopedia. "Akhenaten." https://www.worldhistory.org/Akhenaten/
+
 [^117]: The Not So Innocent Abroad. "Controversial Theories About Akhenaten, Ancient Egypt's 'Heretic King'." https://www.thenotsoinnocentsabroad.com/blog/controversial-theories-about-akhenaten-ancient-egypts-heretic-king
+
 [^118]: Rhetoric Society Quarterly. "Comparative Rhetoric, Egyptology, and the Case of Akhenaten." https://www.tandfonline.com/doi/abs/10.1080/02773945.2013.792696
+
 [^119]: Britannica. "Akhenaten | Biography, Mummy, Accomplishments, Religion, Statue, & Facts." https://www.britannica.com/biography/Akhenaten
+
 [^120]: Quote Park. "Quotes from book Great Hymn to the Aten (Akhenaten)." https://quotepark.com/works/great-hymn-to-the-aten-13790/
+
 [^121]: History Skills. "Great Hymn to the Aten in modern English." https://www.historyskills.com/classroom/ancient-history/hymn-to-the-aten/
+
 [^122]: History Skills. "Great Hymn to the Aten in modern English." https://www.historyskills.com/classroom/ancient-history/hymn-to-the-aten/
+
 [^123]: Answers in Genesis. "Akhenaten and Nefertiti the Beautiful." https://answersingenesis.org/archaeology/ancient-egypt/akhenaten-and-nefertiti-the-beautiful/
+
 [^124]: Britannica. "Amarna style | Ancient Egyptian Art & Architecture." https://www.britannica.com/art/Amarna-style

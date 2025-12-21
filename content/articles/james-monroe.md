@@ -139,36 +139,36 @@ Even the Monroe Doctrine, Monroe's greatest achievement, had significant limitat
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1758 | Born April 28 in Westmoreland County, Virginia |
-| 1769 | Enrolled in Campbelltown Academy at age 11 |
-| 1772 | Mother Elizabeth Jones Monroe dies |
-| 1774 | Father Spence Monroe dies; James enters College of William and Mary |
-| 1776 | Drops out of college to join Continental Army; wounded at Battle of Trenton |
-| 1777-1778 | Serves with Washington's army at Valley Forge |
-| 1780 | Studies law under Thomas Jefferson |
-| 1782 | Elected to Virginia House of Delegates |
-| 1783-1786 | Serves in Continental Congress |
-| 1786 | Marries Elizabeth Kortright on February 16 |
-| 1790 | Elected to United States Senate |
-| 1794 | Appointed Minister to France by President Washington |
-| 1796 | Recalled from France by Washington |
-| 1799 | Elected Governor of Virginia (first term) |
-| 1803 | Returns to France to help negotiate Louisiana Purchase |
-| 1803-1807 | Serves as Minister to Britain |
-| 1811 | Elected Governor of Virginia (second term); becomes Secretary of State |
-| 1814-1815 | Serves simultaneously as Secretary of State and Secretary of War |
-| 1816 | Elected fifth President of the United States |
-| 1817 | Inaugurated as President on March 4; Era of Good Feelings begins |
-| 1818 | Orders Andrew Jackson to Florida border; First Seminole War |
-| 1819 | Signs Adams-Onís Treaty acquiring Florida; Panic of 1819 begins; signs Civilization Fund Act |
-| 1820 | Signs Missouri Compromise on March 6; reelected virtually unopposed |
-| 1823 | Announces Monroe Doctrine on December 2 |
-| 1825 | Completes presidency; retires to Oak Hill estate in Virginia |
-| 1830 | Wife Elizabeth dies on September 23; moves to New York City |
-| 1831 | Dies on July 4 at age 73 in New York City |
-| 1858 | Body reinterred in Hollywood Cemetery, Richmond, Virginia |
+| Year      | Event                                                                                        |
+| --------- | -------------------------------------------------------------------------------------------- |
+| 1758      | Born April 28 in Westmoreland County, Virginia                                               |
+| 1769      | Enrolled in Campbelltown Academy at age 11                                                   |
+| 1772      | Mother Elizabeth Jones Monroe dies                                                           |
+| 1774      | Father Spence Monroe dies; James enters College of William and Mary                          |
+| 1776      | Drops out of college to join Continental Army; wounded at Battle of Trenton                  |
+| 1777-1778 | Serves with Washington's army at Valley Forge                                                |
+| 1780      | Studies law under Thomas Jefferson                                                           |
+| 1782      | Elected to Virginia House of Delegates                                                       |
+| 1783-1786 | Serves in Continental Congress                                                               |
+| 1786      | Marries Elizabeth Kortright on February 16                                                   |
+| 1790      | Elected to United States Senate                                                              |
+| 1794      | Appointed Minister to France by President Washington                                         |
+| 1796      | Recalled from France by Washington                                                           |
+| 1799      | Elected Governor of Virginia (first term)                                                    |
+| 1803      | Returns to France to help negotiate Louisiana Purchase                                       |
+| 1803-1807 | Serves as Minister to Britain                                                                |
+| 1811      | Elected Governor of Virginia (second term); becomes Secretary of State                       |
+| 1814-1815 | Serves simultaneously as Secretary of State and Secretary of War                             |
+| 1816      | Elected fifth President of the United States                                                 |
+| 1817      | Inaugurated as President on March 4; Era of Good Feelings begins                             |
+| 1818      | Orders Andrew Jackson to Florida border; First Seminole War                                  |
+| 1819      | Signs Adams-Onís Treaty acquiring Florida; Panic of 1819 begins; signs Civilization Fund Act |
+| 1820      | Signs Missouri Compromise on March 6; reelected virtually unopposed                          |
+| 1823      | Announces Monroe Doctrine on December 2                                                      |
+| 1825      | Completes presidency; retires to Oak Hill estate in Virginia                                 |
+| 1830      | Wife Elizabeth dies on September 23; moves to New York City                                  |
+| 1831      | Dies on July 4 at age 73 in New York City                                                    |
+| 1858      | Body reinterred in Hollywood Cemetery, Richmond, Virginia                                    |
 
 ---
 
@@ -195,131 +195,259 @@ Even the Monroe Doctrine, Monroe's greatest achievement, had significant limitat
 ## References
 
 [^1]: [Era of Good Feelings - Wikipedia](https://en.wikipedia.org/wiki/Era_of_Good_Feelings)
+
 [^2]: [James Monroe: Life Before the Presidency - Miller Center](https://millercenter.org/president/monroe/life-before-the-presidency)
+
 [^3]: [Monroe Doctrine, 1823 - U.S. Department of State](https://history.state.gov/milestones/1801-1829/monroe)
+
 [^4]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^5]: [The July 4 Death of James Monroe - The New Leaf Journal](https://thenewleafjournal.com/the-july-4-death-of-james-monroe/)
+
 [^6]: [James Monroe: Life Before the Presidency - Miller Center](https://millercenter.org/president/monroe/life-before-the-presidency)
+
 [^7]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^8]: [James Monroe: Life Before the Presidency - Miller Center](https://millercenter.org/president/monroe/life-before-the-presidency)
+
 [^9]: [James Monroe - White House Historical Association](https://www.whitehousehistory.org/bios/james-monroe)
+
 [^10]: [James Monroe: Life Before the Presidency - Miller Center](https://millercenter.org/president/monroe/life-before-the-presidency)
+
 [^11]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^12]: [James Monroe: Life Before the Presidency - Miller Center](https://millercenter.org/president/monroe/life-before-the-presidency)
+
 [^13]: [James Monroe - White House Historical Association](https://www.whitehousehistory.org/bios/james-monroe)
+
 [^14]: [James Monroe - Museum of the American Revolution](https://www.amrevmuseum.org/read-the-revolution/james-monroe)
+
 [^15]: [James Monroe During the Revolutionary War - Study.com](https://study.com/academy/lesson/james-monroe-during-the-revolutionary-war.html)
+
 [^16]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^17]: [A Mere Youth: James Monroe's Revolutionary War - Journal of the American Revolution](https://allthingsliberty.com/2021/08/a-mere-youth-james-monroes-revolutionary-war/)
+
 [^18]: [James Monroe: Bona Fide Hero of the American Revolution - Journal of the American Revolution](https://allthingsliberty.com/2013/01/james-monroe-bona-fide-hero-of-the-american-revolution/)
+
 [^19]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^20]: [James Monroe: Life Before the Presidency - Miller Center](https://millercenter.org/president/monroe/life-before-the-presidency)
+
 [^21]: [James Monroe - People - Department History - Office of the Historian](https://history.state.gov/departmenthistory/people/monroe-james)
+
 [^22]: [James Monroe: Life Before the Presidency - Miller Center](https://millercenter.org/president/monroe/life-before-the-presidency)
+
 [^23]: [James Monroe - People - Department History - Office of the Historian](https://history.state.gov/departmenthistory/people/monroe-james)
+
 [^24]: [Comments on Monroe's A View of the Conduct of the Executive - Founders Online](https://founders.archives.gov/documents/Washington/06-02-02-0146)
+
 [^25]: [James Monroe - Louisiana Purchase, 5th President, Diplomacy - Britannica](https://www.britannica.com/biography/James-Monroe/The-Louisiana-Purchase)
+
 [^26]: [James Monroe - People - Department History - Office of the Historian](https://history.state.gov/departmenthistory/people/monroe-james)
+
 [^27]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^28]: [James Monroe - Key Events - Miller Center](https://millercenter.org/president/james-monroe/key-events)
+
 [^29]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^30]: [Monroe Doctrine (1823) - National Archives](https://www.archives.gov/milestone-documents/monroe-doctrine)
+
 [^31]: [Monroe Doctrine, 1823 - U.S. Department of State](https://history.state.gov/milestones/1801-1829/monroe)
+
 [^32]: [Monroe Doctrine (1823) - National Archives](https://www.archives.gov/milestone-documents/monroe-doctrine)
+
 [^33]: [James Monroe Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-monroe-quotes)
+
 [^34]: [Monroe Doctrine, 1823 - U.S. Department of State](https://history.state.gov/milestones/1801-1829/monroe)
+
 [^35]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^36]: [James Monroe - Key Events - Miller Center](https://millercenter.org/president/james-monroe/key-events)
+
 [^37]: [James Monroe: Foreign Affairs - Miller Center](https://millercenter.org/president/monroe/foreign-affairs)
+
 [^38]: [Acquisition of Florida: Treaty of Adams-Onis (1819) - U.S. Department of State](https://history.state.gov/milestones/1801-1829/florida)
+
 [^39]: [James Monroe: Foreign Affairs - Miller Center](https://millercenter.org/president/monroe/foreign-affairs)
+
 [^40]: [Acquisition of Florida: Treaty of Adams-Onis (1819) - U.S. Department of State](https://history.state.gov/milestones/1801-1829/florida)
+
 [^41]: [Era of Good Feelings - Wikipedia](https://en.wikipedia.org/wiki/Era_of_Good_Feelings)
+
 [^42]: [Era of Good Feelings - Britannica](https://www.britannica.com/event/Era-of-Good-Feelings)
+
 [^43]: [Era of Good Feelings - Wikipedia](https://en.wikipedia.org/wiki/Era_of_Good_Feelings)
+
 [^44]: [United States presidential election of 1820 - Britannica](https://www.britannica.com/event/United-States-presidential-election-of-1820)
+
 [^45]: [1820 United States presidential election - Wikipedia](https://en.wikipedia.org/wiki/1820_United_States_presidential_election)
+
 [^46]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^47]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^48]: [James Monroe - Louisiana Purchase, 5th President, Diplomacy - Britannica](https://www.britannica.com/biography/James-Monroe/The-Louisiana-Purchase)
+
 [^49]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^50]: [American History: Monroe Dislikes but Signs Missouri Compromise - VOA](https://www.manythings.org/voa/history/52.html)
+
 [^51]: [American History: Monroe Dislikes but Signs Missouri Compromise - VOA](https://www.manythings.org/voa/history/52.html)
+
 [^52]: [American History: Monroe Dislikes but Signs Missouri Compromise - VOA](https://www.manythings.org/voa/history/52.html)
+
 [^53]: [American History: Monroe Dislikes but Signs Missouri Compromise - VOA](https://www.manythings.org/voa/history/52.html)
+
 [^54]: [American History: Monroe Dislikes but Signs Missouri Compromise - VOA](https://www.manythings.org/voa/history/52.html)
+
 [^55]: [American History Series: Monroe Dislikes but Signs Missouri Compromise - VOA Learning English](https://learningenglish.voanews.com/a/a-23-2008-09-24-voa8-83139312/129163.html)
+
 [^56]: [James Monroe - Key Events - Miller Center](https://millercenter.org/president/james-monroe/key-events)
+
 [^57]: ['James Monroe' is an unclouded look at a complicated legacy - Christian Science Monitor](https://www.csmonitor.com/Books/Book-Reviews/2020/1110/James-Monroe-is-an-unclouded-look-at-a-complicated-legacy)
+
 [^58]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^59]: [James Monroe: Domestic Affairs - Miller Center](https://millercenter.org/president/monroe/domestic-affairs)
+
 [^60]: [James Monroe: Domestic Affairs - Miller Center](https://millercenter.org/president/monroe/domestic-affairs)
+
 [^61]: [James Monroe: Domestic Affairs - Miller Center](https://millercenter.org/president/monroe/domestic-affairs)
+
 [^62]: [Panic of 1819 - Overview, Cause & Significance - Study.com](https://study.com/academy/lesson/panic-of-1819-summary-causes.html)
+
 [^63]: [James Monroe: Domestic Affairs - Miller Center](https://millercenter.org/president/monroe/domestic-affairs)
+
 [^64]: [The Panic of 1819 - Boundless U.S. History](https://ftp.worldpossible.org/endless/eos-rachel/RACHEL/RACHEL/modules/en-boundless-static/www.boundless.com/u-s-history/textbooks/boundless-u-s-history-textbook/democracy-in-america-1815-1840-12/the-monroe-and-adams-administrations-102/the-panic-of-1819-547-3334/index.html)
+
 [^65]: [James Monroe Study Guide: Section 9: Crises - SparkNotes](https://www.sparknotes.com/biography/monroe/section9/)
+
 [^66]: [Native American Relations - Highland](https://highland.org/teacher-resources/native-american-relations/)
+
 [^67]: [President Monroe Justifies the Removal Policy - Digital History](https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=3&psid=677)
+
 [^68]: [James Monroe's Trail of Tears - James Monroe Museum](https://jamesmonroemuseum.umw.edu/2022/11/28/james-monroes-trail-of-tears/)
+
 [^69]: [Monroe's 1825 Message to Congress - Digital History](https://www.digitalhistory.uh.edu/active_learning/explorations/indian_removal/monroe_1825message.cfm)
+
 [^70]: [Removing Native Americans from their Land - Library of Congress](https://www.loc.gov/classroom-materials/immigration/native-american/removing-native-americans-from-their-land/)
+
 [^71]: [Native American Relations - Highland](https://highland.org/teacher-resources/native-american-relations/)
+
 [^72]: [James Monroe: Family Life - Miller Center](https://millercenter.org/president/monroe/family-life)
+
 [^73]: [Elizabeth Monroe - White House Historical Association](https://www.whitehousehistory.org/bios/elizabeth-monroe)
+
 [^74]: [James Monroe: Family Life - Miller Center](https://millercenter.org/president/monroe/family-life)
+
 [^75]: [James Monroe: Family Life - Miller Center](https://millercenter.org/president/monroe/family-life)
+
 [^76]: [Elizabeth Monroe - White House Historical Association](https://www.whitehousehistory.org/bios/elizabeth-monroe)
+
 [^77]: [James Monroe: Family Life - Miller Center](https://millercenter.org/president/monroe/family-life)
+
 [^78]: [Elizabeth Monroe - Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_Monroe)
+
 [^79]: [James Monroe: Family Life - Miller Center](https://millercenter.org/president/monroe/family-life)
+
 [^80]: [Eliza Monroe Hay - Papers of James Monroe](https://academics.umw.edu/jamesmonroepapers/biography/eliza-monroe-hay/)
+
 [^81]: [James Monroe: Family Life - Miller Center](https://millercenter.org/president/monroe/family-life)
+
 [^82]: [James Monroe: Family Life - Miller Center](https://millercenter.org/president/monroe/family-life)
+
 [^83]: [James Monroe: Life After the Presidency - Miller Center](https://millercenter.org/president/monroe/life-after-the-presidency)
+
 [^84]: [The July 4 Death of James Monroe - The New Leaf Journal](https://thenewleafjournal.com/the-july-4-death-of-james-monroe/)
+
 [^85]: [Three Presidents Die on July 4th: Just a Coincidence? - Constitution Center](https://constitutioncenter.org/blog/three-presidents-die-on-july-4th-just-a-coincidence)
+
 [^86]: [James Monroe: Life After the Presidency - Miller Center](https://millercenter.org/president/monroe/life-after-the-presidency)
+
 [^87]: [The July 4 Death of James Monroe - The New Leaf Journal](https://thenewleafjournal.com/the-july-4-death-of-james-monroe/)
+
 [^88]: [James Monroe: Life After the Presidency - Miller Center](https://millercenter.org/president/monroe/life-after-the-presidency)
+
 [^89]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^90]: [Monroe Doctrine, 1823 - U.S. Department of State](https://history.state.gov/milestones/1801-1829/monroe)
+
 [^91]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^92]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^93]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^94]: [Acquisition of Florida: Treaty of Adams-Onis (1819) - U.S. Department of State](https://history.state.gov/milestones/1801-1829/florida)
+
 [^95]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^96]: [Era of Good Feelings - Wikipedia](https://en.wikipedia.org/wiki/Era_of_Good_Feelings)
+
 [^97]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^98]: ['James Monroe' is an unclouded look at a complicated legacy - Christian Science Monitor](https://www.csmonitor.com/Books/Book-Reviews/2020/1110/James-Monroe-is-an-unclouded-look-at-a-complicated-legacy)
+
 [^99]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^100]: [Native American Relations - Highland](https://highland.org/teacher-resources/native-american-relations/)
+
 [^101]: [James Monroe - Wikipedia](https://en.wikipedia.org/wiki/James_Monroe)
+
 [^102]: [The July 4 Death of James Monroe - The New Leaf Journal](https://thenewleafjournal.com/the-july-4-death-of-james-monroe/)
+
 [^103]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^104]: [Monroe Doctrine, 1823 - U.S. Department of State](https://history.state.gov/milestones/1801-1829/monroe)
+
 [^105]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^106]: [Era of Good Feelings - James Monroe Museum](https://jamesmonroemuseum.umw.edu/exhibitions/timeline-trail/era-good-feelings/)
+
 [^107]: [Era of Good Feelings - Britannica](https://www.britannica.com/event/Era-of-Good-Feelings)
+
 [^108]: [James Monroe: Bona Fide Hero of the American Revolution - Journal of the American Revolution](https://allthingsliberty.com/2013/01/james-monroe-bona-fide-hero-of-the-american-revolution/)
+
 [^109]: [James Monroe: Bona Fide Hero of the American Revolution - Journal of the American Revolution](https://allthingsliberty.com/2013/01/james-monroe-bona-fide-hero-of-the-american-revolution/)
+
 [^110]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^111]: ['James Monroe' is an unclouded look at a complicated legacy - Christian Science Monitor](https://www.csmonitor.com/Books/Book-Reviews/2020/1110/James-Monroe-is-an-unclouded-look-at-a-complicated-legacy)
+
 [^112]: [James Monroe: Impact and Legacy - Miller Center](https://millercenter.org/president/monroe/impact-and-legacy)
+
 [^113]: [Comments on Monroe's A View of the Conduct of the Executive - Founders Online](https://founders.archives.gov/documents/Washington/06-02-02-0146)
+
 [^114]: [James Monroe - People - Department History - Office of the Historian](https://history.state.gov/departmenthistory/people/monroe-james)
+
 [^115]: [James Monroe: Domestic Affairs - Miller Center](https://millercenter.org/president/monroe/domestic-affairs)
+
 [^116]: [James Monroe Study Guide: Section 9: Crises - SparkNotes](https://www.sparknotes.com/biography/monroe/section9/)
+
 [^117]: [Native American Relations - Highland](https://highland.org/teacher-resources/native-american-relations/)
+
 [^118]: [James Monroe's Trail of Tears - James Monroe Museum](https://jamesmonroemuseum.umw.edu/2022/11/28/james-monroes-trail-of-tears/)
+
 [^119]: [Era of Good Feelings - Wikipedia](https://en.wikipedia.org/wiki/Era_of_Good_Feelings)
+
 [^120]: [Era of Good Feelings - Wikipedia](https://en.wikipedia.org/wiki/Era_of_Good_Feelings)
+
 [^121]: [Everything Wrong with the Monroe Administration - Libertarianism.org](https://www.libertarianism.org/everything-wrong-presidents/everything-wrong-monroe-administration)
+
 [^122]: [Monroe Doctrine (1823) - National Archives](https://www.archives.gov/milestone-documents/monroe-doctrine)
+
 [^123]: [James Monroe Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-monroe-quotes)
+
 [^124]: [TOP 25 QUOTES BY JAMES MONROE - A-Z Quotes](https://www.azquotes.com/author/10274-James_Monroe)
+
 [^125]: [James Monroe Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-monroe-quotes)
+
 [^126]: [James Monroe Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-monroe-quotes)
+
 [^127]: [TOP 25 QUOTES BY JAMES MONROE - A-Z Quotes](https://www.azquotes.com/author/10274-James_Monroe)
+
 [^128]: [James Monroe Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-monroe-quotes)
+
 [^129]: [TOP 25 QUOTES BY JAMES MONROE - A-Z Quotes](https://www.azquotes.com/author/10274-James_Monroe)

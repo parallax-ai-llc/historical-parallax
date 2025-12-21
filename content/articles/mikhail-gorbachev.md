@@ -157,30 +157,30 @@ Finally, critics point to Gorbachev's political weakness—his failure to build 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1931 | Born March 2 in Privolnoye, Stavropol Krai, Soviet Union |
-| 1950 | Admitted to Moscow State University to study law |
-| 1952 | Joined the Communist Party of the Soviet Union |
-| 1953 | Married Raisa Titarenko |
-| 1955 | Graduated from Moscow State University; returned to Stavropol |
-| 1970 | Appointed First Secretary of Stavropol Regional Party Committee |
-| 1978 | Moved to Moscow as Central Committee Secretary for Agriculture |
-| 1979 | Became candidate member of the Politburo |
-| 1980 | Became full member of the Politburo |
-| 1985 | Elected General Secretary of the Communist Party (March 11) |
-| 1986 | Chernobyl nuclear disaster (April 26); began implementing glasnost and perestroika |
-| 1987 | Signed INF Treaty with President Reagan (December 8) |
-| 1988 | Announced major unilateral cuts in Soviet military forces |
+| Year | Event                                                                                                                 |
+| ---- | --------------------------------------------------------------------------------------------------------------------- |
+| 1931 | Born March 2 in Privolnoye, Stavropol Krai, Soviet Union                                                              |
+| 1950 | Admitted to Moscow State University to study law                                                                      |
+| 1952 | Joined the Communist Party of the Soviet Union                                                                        |
+| 1953 | Married Raisa Titarenko                                                                                               |
+| 1955 | Graduated from Moscow State University; returned to Stavropol                                                         |
+| 1970 | Appointed First Secretary of Stavropol Regional Party Committee                                                       |
+| 1978 | Moved to Moscow as Central Committee Secretary for Agriculture                                                        |
+| 1979 | Became candidate member of the Politburo                                                                              |
+| 1980 | Became full member of the Politburo                                                                                   |
+| 1985 | Elected General Secretary of the Communist Party (March 11)                                                           |
+| 1986 | Chernobyl nuclear disaster (April 26); began implementing glasnost and perestroika                                    |
+| 1987 | Signed INF Treaty with President Reagan (December 8)                                                                  |
+| 1988 | Announced major unilateral cuts in Soviet military forces                                                             |
 | 1989 | Withdrew Soviet troops from Afghanistan; elections to Congress of People's Deputies; fall of Berlin Wall (November 9) |
-| 1990 | Elected President of the Soviet Union (March 15); awarded Nobel Peace Prize |
-| 1990 | Agreed to German reunification |
-| 1991 | Failed coup attempt against him (August 19-21) |
-| 1991 | Resigned as Soviet President; USSR officially dissolved (December 25) |
-| 1992 | Established Gorbachev Foundation |
-| 1999 | Wife Raisa died of leukemia (September 20) |
-| 2006 | Published memoirs reflecting on his time in power |
-| 2022 | Died August 30 in Moscow at age 91 |
+| 1990 | Elected President of the Soviet Union (March 15); awarded Nobel Peace Prize                                           |
+| 1990 | Agreed to German reunification                                                                                        |
+| 1991 | Failed coup attempt against him (August 19-21)                                                                        |
+| 1991 | Resigned as Soviet President; USSR officially dissolved (December 25)                                                 |
+| 1992 | Established Gorbachev Foundation                                                                                      |
+| 1999 | Wife Raisa died of leukemia (September 20)                                                                            |
+| 2006 | Published memoirs reflecting on his time in power                                                                     |
+| 2022 | Died August 30 in Moscow at age 91                                                                                    |
 
 ---
 
@@ -204,138 +204,272 @@ Finally, critics point to Gorbachev's political weakness—his failure to build 
 
 ## References
 
-[^1]: Brown, Archie. *The Gorbachev Factor*. Oxford University Press, 1996, p. 21.
-[^2]: Taubman, William. *Gorbachev: His Life and Times*. Simon & Schuster, 2017, pp. 18-20.
-[^3]: Gorbachev, Mikhail. *Memoirs*. Doubleday, 1996, pp. 19-22.
-[^4]: Brown, Archie. *The Gorbachev Factor*, pp. 28-30.
-[^5]: Taubman, William. *Gorbachev: His Life and Times*, p. 27.
-[^6]: Gorbachev, Mikhail. *Memoirs*, pp. 37-40.
-[^7]: Brown, Archie. *The Gorbachev Factor*, p. 32.
-[^8]: Zubok, Vladislav. *Collapse: The Fall of the Soviet Union*. Yale University Press, 2021, pp. 18-19.
-[^9]: Taubman, William. *Gorbachev: His Life and Times*, pp. 58-62.
-[^10]: Medvedev, Zhores. *Gorbachev*. W.W. Norton, 1986, pp. 45-50.
-[^11]: Brown, Archie. *The Gorbachev Factor*, pp. 42-45.
-[^12]: Taubman, William. *Gorbachev: His Life and Times*, p. 89.
-[^13]: Gorbachev, Mikhail. *Memoirs*, pp. 95-98.
-[^14]: Brown, Archie. *The Gorbachev Factor*, p. 56.
-[^15]: Kotkin, Stephen. *Armageddon Averted: The Soviet Collapse 1970-2000*. Oxford University Press, 2001, pp. 51-53.
-[^16]: Zubok, Vladislav. *Collapse*, pp. 45-48.
-[^17]: Taubman, William. *Gorbachev: His Life and Times*, pp. 158-160.
-[^18]: Brown, Archie. *The Gorbachev Factor*, p. 81.
-[^19]: Kotkin, Stephen. *Armageddon Averted*, pp. 58-62.
-[^20]: Gorbachev, Mikhail. *Perestroika: New Thinking for Our Country and the World*. Harper & Row, 1987, pp. 17-35.
-[^21]: Brown, Archie. *The Gorbachev Factor*, pp. 125-130.
-[^22]: Remnick, David. *Lenin's Tomb: The Last Days of the Soviet Empire*. Random House, 1993, pp. 98-102.
-[^23]: Taubman, William. *Gorbachev: His Life and Times*, pp. 385-390.
-[^24]: Gorbachev, Mikhail. *Perestroika*, pp. 78-95.
-[^25]: Goldman, Marshall. *What Went Wrong with Perestroika*. W.W. Norton, 1991, pp. 112-115.
-[^26]: Åslund, Anders. *Gorbachev's Struggle for Economic Reform*. Cornell University Press, 1989, pp. 87-92.
-[^27]: Service, Robert. *The End of the Cold War: 1985-1991*. PublicAffairs, 2015, pp. 178-185.
-[^28]: Reagan, Ronald. *An American Life*. Simon & Schuster, 1990, pp. 675-677.
-[^29]: Taubman, William. *Gorbachev: His Life and Times*, pp. 312-318.
-[^30]: Brown, Archie. *The Gorbachev Factor*, pp. 238-245.
-[^31]: Sarotte, Mary Elise. *1989: The Struggle to Create Post-Cold War Europe*. Princeton University Press, 2009, pp. 45-52.
-[^32]: Service, Robert. *The End of the Cold War*, pp. 398-405.
-[^33]: Sarotte, Mary Elise. *Not One Inch: America, Russia, and the Making of Post-Cold War Stalemate*. Yale University Press, 2021, pp. 78-85.
-[^34]: Zelikow, Philip and Rice, Condoleezza. *Germany Unified and Europe Transformed*. Harvard University Press, 1995, pp. 275-282.
-[^35]: Brown, Archie. *The Gorbachev Factor*, pp. 185-192.
-[^36]: Taubman, William. *Gorbachev: His Life and Times*, pp. 465-470.
+[^1]: Brown, Archie. _The Gorbachev Factor_. Oxford University Press, 1996, p. 21.
+
+[^2]: Taubman, William. _Gorbachev: His Life and Times_. Simon & Schuster, 2017, pp. 18-20.
+
+[^3]: Gorbachev, Mikhail. _Memoirs_. Doubleday, 1996, pp. 19-22.
+
+[^4]: Brown, Archie. _The Gorbachev Factor_, pp. 28-30.
+
+[^5]: Taubman, William. _Gorbachev: His Life and Times_, p. 27.
+
+[^6]: Gorbachev, Mikhail. _Memoirs_, pp. 37-40.
+
+[^7]: Brown, Archie. _The Gorbachev Factor_, p. 32.
+
+[^8]: Zubok, Vladislav. _Collapse: The Fall of the Soviet Union_. Yale University Press, 2021, pp. 18-19.
+
+[^9]: Taubman, William. _Gorbachev: His Life and Times_, pp. 58-62.
+
+[^10]: Medvedev, Zhores. _Gorbachev_. W.W. Norton, 1986, pp. 45-50.
+
+[^11]: Brown, Archie. _The Gorbachev Factor_, pp. 42-45.
+
+[^12]: Taubman, William. _Gorbachev: His Life and Times_, p. 89.
+
+[^13]: Gorbachev, Mikhail. _Memoirs_, pp. 95-98.
+
+[^14]: Brown, Archie. _The Gorbachev Factor_, p. 56.
+
+[^15]: Kotkin, Stephen. _Armageddon Averted: The Soviet Collapse 1970-2000_. Oxford University Press, 2001, pp. 51-53.
+
+[^16]: Zubok, Vladislav. _Collapse_, pp. 45-48.
+
+[^17]: Taubman, William. _Gorbachev: His Life and Times_, pp. 158-160.
+
+[^18]: Brown, Archie. _The Gorbachev Factor_, p. 81.
+
+[^19]: Kotkin, Stephen. _Armageddon Averted_, pp. 58-62.
+
+[^20]: Gorbachev, Mikhail. _Perestroika: New Thinking for Our Country and the World_. Harper & Row, 1987, pp. 17-35.
+
+[^21]: Brown, Archie. _The Gorbachev Factor_, pp. 125-130.
+
+[^22]: Remnick, David. _Lenin's Tomb: The Last Days of the Soviet Empire_. Random House, 1993, pp. 98-102.
+
+[^23]: Taubman, William. _Gorbachev: His Life and Times_, pp. 385-390.
+
+[^24]: Gorbachev, Mikhail. _Perestroika_, pp. 78-95.
+
+[^25]: Goldman, Marshall. _What Went Wrong with Perestroika_. W.W. Norton, 1991, pp. 112-115.
+
+[^26]: Åslund, Anders. _Gorbachev's Struggle for Economic Reform_. Cornell University Press, 1989, pp. 87-92.
+
+[^27]: Service, Robert. _The End of the Cold War: 1985-1991_. PublicAffairs, 2015, pp. 178-185.
+
+[^28]: Reagan, Ronald. _An American Life_. Simon & Schuster, 1990, pp. 675-677.
+
+[^29]: Taubman, William. _Gorbachev: His Life and Times_, pp. 312-318.
+
+[^30]: Brown, Archie. _The Gorbachev Factor_, pp. 238-245.
+
+[^31]: Sarotte, Mary Elise. _1989: The Struggle to Create Post-Cold War Europe_. Princeton University Press, 2009, pp. 45-52.
+
+[^32]: Service, Robert. _The End of the Cold War_, pp. 398-405.
+
+[^33]: Sarotte, Mary Elise. _Not One Inch: America, Russia, and the Making of Post-Cold War Stalemate_. Yale University Press, 2021, pp. 78-85.
+
+[^34]: Zelikow, Philip and Rice, Condoleezza. _Germany Unified and Europe Transformed_. Harvard University Press, 1995, pp. 275-282.
+
+[^35]: Brown, Archie. _The Gorbachev Factor_, pp. 185-192.
+
+[^36]: Taubman, William. _Gorbachev: His Life and Times_, pp. 465-470.
+
 [^37]: Nobel Prize Committee. Nobel Peace Prize 1990 Press Release. nobelprize.org, October 15, 1990.
+
 [^38]: Nobel Prize Committee. Nobel Peace Prize 1990 Presentation Speech. nobelprize.org, December 10, 1990.
-[^39]: Zubok, Vladislav. *Collapse*, pp. 215-225.
-[^40]: Goldman, Marshall. *What Went Wrong with Perestroika*, pp. 156-165.
-[^41]: Kotkin, Stephen. *Armageddon Averted*, pp. 82-87.
-[^42]: Åslund, Anders. *Gorbachev's Struggle for Economic Reform*, pp. 198-205.
-[^43]: Sachs, Jeffrey. "What I Did in Russia." *jeffsachs.org*, March 14, 2012.
+
+[^39]: Zubok, Vladislav. _Collapse_, pp. 215-225.
+
+[^40]: Goldman, Marshall. _What Went Wrong with Perestroika_, pp. 156-165.
+
+[^41]: Kotkin, Stephen. _Armageddon Averted_, pp. 82-87.
+
+[^42]: Åslund, Anders. _Gorbachev's Struggle for Economic Reform_, pp. 198-205.
+
+[^43]: Sachs, Jeffrey. "What I Did in Russia." _jeffsachs.org_, March 14, 2012.
+
 [^44]: Putin, Vladimir. Annual Address to the Federal Assembly, April 25, 2005.
-[^45]: Zubok, Vladislav. *Collapse*, pp. 485-490.
-[^46]: Sarotte, Mary Elise. *Not One Inch*, pp. 115-125.
-[^47]: Senn, Alfred Erich. *Gorbachev's Failure in Lithuania*. St. Martin's Press, 1995, pp. 145-152.
-[^48]: Taubman, William. *Gorbachev: His Life and Times*, pp. 558-563.
-[^49]: De Waal, Thomas. *Black Garden: Armenia and Azerbaijan through Peace and War*. NYU Press, 2003, pp. 78-82.
-[^50]: Plokhy, Serhii. *Chernobyl: History of a Tragedy*. Basic Books, 2018, pp. 98-105.
-[^51]: Plokhy, Serhii. *Chernobyl*, pp. 156-162.
-[^52]: Gorbachev, Mikhail. *Memoirs*, pp. 189-192.
-[^53]: White, Stephen. "Gorbachev and After." *Cambridge University Press*, 1991, pp. 56-58.
-[^54]: Schrad, Mark Lawrence. *Vodka Politics: Alcohol, Autocracy, and the Secret History of the Russian State*. Oxford University Press, 2014, pp. 298-305.
-[^55]: Kotkin, Stephen. *Armageddon Averted*, pp. 95-98.
-[^56]: Brown, Archie. *The Gorbachev Factor*, pp. 278-285.
-[^57]: Zubok, Vladislav. *Collapse*, pp. 312-318.
-[^58]: Jones, Stephen. "The Establishment of Soviet Power in Transcaucasia." *Soviet Studies*, vol. 40, no. 4, 1988, pp. 616-639.
-[^59]: Suny, Ronald Grigor. *The Revenge of the Past*. Stanford University Press, 1993, pp. 125-130.
-[^60]: Gorbachev, Mikhail. *Memoirs*, pp. 37-40.
-[^61]: Gorbachev, Raisa. *I Hope*. HarperCollins, 1991, pp. 78-85.
-[^62]: Taubman, William. *Gorbachev: His Life and Times*, pp. 234-238.
-[^63]: Remnick, David. *Lenin's Tomb*, pp. 187-190.
-[^64]: Brown, Archie. *The Gorbachev Factor*, pp. 91-93.
-[^65]: Taubman, William. *Gorbachev: His Life and Times*, p. 75.
-[^66]: Matlock, Jack F. *Autopsy on an Empire*. Random House, 1995, pp. 125-128.
-[^67]: Brown, Archie. *The Gorbachev Factor*, pp. 88-90.
-[^68]: Schrad, Mark Lawrence. *Vodka Politics*, p. 302.
-[^69]: Gorbachev, Mikhail. "My Raisa." *The Guardian*, September 21, 2009.
-[^70]: Taubman, William. *Gorbachev: His Life and Times*, pp. 712-715.
-[^71]: "Gorbachev Pizza Hut Commercial." *YouTube*, uploaded 1998.
-[^72]: Remnick, David. "The Exile Returns." *The New Yorker*, February 28, 1994.
-[^73]: Walker, Shaun. "Mikhail Gorbachev: I should have renamed Communist Party and abandoned Marxism." *The Guardian*, November 17, 2014.
-[^74]: "Gorbachev Warns of Nuclear War Risk." *BBC News*, January 30, 2017.
-[^75]: "Mikhail Gorbachev, last Soviet leader, dies at 91." *BBC News*, August 31, 2022.
-[^76]: Brown, Archie. "Mikhail Gorbachev: visionary who ended Cold War but presided over Soviet collapse." *The Guardian*, August 30, 2022.
-[^77]: Service, Robert. *The End of the Cold War*, pp. 612-618.
-[^78]: Taubman, William. "Gorbachev's Legacy." *The New York Times*, August 30, 2022.
-[^79]: Thatcher, Margaret. *The Downing Street Years*. HarperCollins, 1993, p. 459.
+
+[^45]: Zubok, Vladislav. _Collapse_, pp. 485-490.
+
+[^46]: Sarotte, Mary Elise. _Not One Inch_, pp. 115-125.
+
+[^47]: Senn, Alfred Erich. _Gorbachev's Failure in Lithuania_. St. Martin's Press, 1995, pp. 145-152.
+
+[^48]: Taubman, William. _Gorbachev: His Life and Times_, pp. 558-563.
+
+[^49]: De Waal, Thomas. _Black Garden: Armenia and Azerbaijan through Peace and War_. NYU Press, 2003, pp. 78-82.
+
+[^50]: Plokhy, Serhii. _Chernobyl: History of a Tragedy_. Basic Books, 2018, pp. 98-105.
+
+[^51]: Plokhy, Serhii. _Chernobyl_, pp. 156-162.
+
+[^52]: Gorbachev, Mikhail. _Memoirs_, pp. 189-192.
+
+[^53]: White, Stephen. "Gorbachev and After." _Cambridge University Press_, 1991, pp. 56-58.
+
+[^54]: Schrad, Mark Lawrence. _Vodka Politics: Alcohol, Autocracy, and the Secret History of the Russian State_. Oxford University Press, 2014, pp. 298-305.
+
+[^55]: Kotkin, Stephen. _Armageddon Averted_, pp. 95-98.
+
+[^56]: Brown, Archie. _The Gorbachev Factor_, pp. 278-285.
+
+[^57]: Zubok, Vladislav. _Collapse_, pp. 312-318.
+
+[^58]: Jones, Stephen. "The Establishment of Soviet Power in Transcaucasia." _Soviet Studies_, vol. 40, no. 4, 1988, pp. 616-639.
+
+[^59]: Suny, Ronald Grigor. _The Revenge of the Past_. Stanford University Press, 1993, pp. 125-130.
+
+[^60]: Gorbachev, Mikhail. _Memoirs_, pp. 37-40.
+
+[^61]: Gorbachev, Raisa. _I Hope_. HarperCollins, 1991, pp. 78-85.
+
+[^62]: Taubman, William. _Gorbachev: His Life and Times_, pp. 234-238.
+
+[^63]: Remnick, David. _Lenin's Tomb_, pp. 187-190.
+
+[^64]: Brown, Archie. _The Gorbachev Factor_, pp. 91-93.
+
+[^65]: Taubman, William. _Gorbachev: His Life and Times_, p. 75.
+
+[^66]: Matlock, Jack F. _Autopsy on an Empire_. Random House, 1995, pp. 125-128.
+
+[^67]: Brown, Archie. _The Gorbachev Factor_, pp. 88-90.
+
+[^68]: Schrad, Mark Lawrence. _Vodka Politics_, p. 302.
+
+[^69]: Gorbachev, Mikhail. "My Raisa." _The Guardian_, September 21, 2009.
+
+[^70]: Taubman, William. _Gorbachev: His Life and Times_, pp. 712-715.
+
+[^71]: "Gorbachev Pizza Hut Commercial." _YouTube_, uploaded 1998.
+
+[^72]: Remnick, David. "The Exile Returns." _The New Yorker_, February 28, 1994.
+
+[^73]: Walker, Shaun. "Mikhail Gorbachev: I should have renamed Communist Party and abandoned Marxism." _The Guardian_, November 17, 2014.
+
+[^74]: "Gorbachev Warns of Nuclear War Risk." _BBC News_, January 30, 2017.
+
+[^75]: "Mikhail Gorbachev, last Soviet leader, dies at 91." _BBC News_, August 31, 2022.
+
+[^76]: Brown, Archie. "Mikhail Gorbachev: visionary who ended Cold War but presided over Soviet collapse." _The Guardian_, August 30, 2022.
+
+[^77]: Service, Robert. _The End of the Cold War_, pp. 612-618.
+
+[^78]: Taubman, William. "Gorbachev's Legacy." _The New York Times_, August 30, 2022.
+
+[^79]: Thatcher, Margaret. _The Downing Street Years_. HarperCollins, 1993, p. 459.
+
 [^80]: "Russians Reflect on Gorbachev's Legacy." Levada Center Poll, August 2021.
+
 [^81]: "15% of Russians view Gorbachev positively." Levada Center, August 2021.
-[^82]: Zubok, Vladislav. *Collapse*, pp. 500-505.
-[^83]: Kotkin, Stephen. *Armageddon Averted*, pp. 1-5.
-[^84]: Brown, Archie. *The Gorbachev Factor*, pp. 306-310.
-[^85]: Huntington, Samuel. *Political Order in Changing Societies*. Yale University Press, 1968, pp. 344-362.
-[^86]: Kotkin, Stephen. *Armageddon Averted*, pp. 108-112.
-[^87]: Zubok, Vladislav. *Collapse*, pp. 518-525.
+
+[^82]: Zubok, Vladislav. _Collapse_, pp. 500-505.
+
+[^83]: Kotkin, Stephen. _Armageddon Averted_, pp. 1-5.
+
+[^84]: Brown, Archie. _The Gorbachev Factor_, pp. 306-310.
+
+[^85]: Huntington, Samuel. _Political Order in Changing Societies_. Yale University Press, 1968, pp. 344-362.
+
+[^86]: Kotkin, Stephen. _Armageddon Averted_, pp. 108-112.
+
+[^87]: Zubok, Vladislav. _Collapse_, pp. 518-525.
+
 [^88]: "About the Gorbachev Foundation." gorbachevfoundation.org, accessed 2025.
+
 [^89]: "Green Cross International: Our History." greencrossinternational.org, accessed 2025.
+
 [^90]: Putin, Vladimir. "On the Historical Unity of Russians and Ukrainians." kremlin.ru, July 12, 2021.
-[^91]: Myers, Steven Lee. *The New Tsar: The Rise and Reign of Vladimir Putin*. Knopf, 2015, pp. 234-238.
-[^92]: Fukuyama, Francis. "The End of History?" *The National Interest*, Summer 1989.
-[^93]: Applebaum, Anne. "What Gorbachev Meant to Eastern Europe." *The Atlantic*, August 31, 2022.
-[^94]: Snyder, Timothy. "Mikhail Gorbachev's Gift to Europe." *Foreign Policy*, August 31, 2022.
-[^95]: Brown, Archie. *The Gorbachev Factor*, pp. 295-305.
-[^96]: Brown, Archie. *The Myth of the Strong Leader*. Basic Books, 2014, pp. 187-195.
-[^97]: Kotkin, Stephen. *Armageddon Averted*, pp. 45-50.
-[^98]: Brown, Archie. *The Gorbachev Factor*, pp. 318-325.
-[^99]: Snyder, Timothy. "Mikhail Gorbachev's Gift to Europe." *Foreign Policy*, August 31, 2022.
-[^100]: Taubman, William. *Gorbachev: His Life and Times*, pp. 678-682.
-[^101]: Brown, Archie. *The Gorbachev Factor*, pp. 95-102.
-[^102]: Gorbachev, Mikhail. *Perestroika*, pp. 1-15.
-[^103]: Brown, Archie. *The Gorbachev Factor*, pp. 105-110.
-[^104]: Bush, George H.W. and Scowcroft, Brent. *A World Transformed*. Knopf, 1998, pp. 156-162.
-[^105]: Baker, James. *The Politics of Diplomacy*. Putnam, 1995, pp. 234-240.
-[^106]: Taubman, William. *Gorbachev: His Life and Times*, pp. 698-705.
-[^107]: Brown, Archie. *The Gorbachev Factor*, pp. 330-335.
-[^108]: Zubok, Vladislav. *Collapse*, pp. 525-532.
-[^109]: Zyuganov, Gennady. *My Russia*. Sharpe, 1997, pp. 78-85.
-[^110]: Sakwa, Richard. *Putin: Russia's Choice*. Routledge, 2007, pp. 23-28.
-[^111]: Tsygankov, Andrei. *Russia and the West from Alexander to Putin*. Cambridge University Press, 2012, pp. 156-162.
-[^112]: Zyuganov, Gennady. *My Russia*, pp. 92-98.
-[^113]: Kotkin, Stephen. *Armageddon Averted*, pp. 125-130.
-[^114]: Cohen, Stephen F. *Soviet Fates and Lost Alternatives*. Columbia University Press, 2009, pp. 145-152.
-[^115]: Gaidar, Yegor. *Collapse of an Empire*. Brookings Institution Press, 2007, pp. 234-240.
-[^116]: Åslund, Anders. *Russia's Capitalist Revolution*. Peterson Institute, 2007, pp. 45-52.
-[^117]: Goldman, Marshall. *What Went Wrong with Perestroika*, pp. 178-185.
-[^118]: Ellman, Michael and Kontorovich, Vladimir. *The Destruction of the Soviet Economic System*. Sharpe, 1998, pp. 112-120.
-[^119]: Åslund, Anders. *Gorbachev's Struggle for Economic Reform*, pp. 215-222.
-[^120]: Kotkin, Stephen. *Armageddon Averted*, pp. 118-122.
-[^121]: Suny, Ronald Grigor. *The Revenge of the Past*, pp. 156-165.
-[^122]: Beissinger, Mark. *Nationalist Mobilization and the Collapse of the Soviet State*. Cambridge University Press, 2002, pp. 234-242.
-[^123]: Zubok, Vladislav. *Collapse*, pp. 428-435.
-[^124]: Schweizer, Peter. *Victory: The Reagan Administration's Secret Strategy That Hastened the Collapse of the Soviet Union*. Atlantic Monthly Press, 1994, pp. 234-240.
-[^125]: Kotkin, Stephen. *Armageddon Averted*, pp. 42-48.
-[^126]: Brown, Archie. *The Gorbachev Factor*, pp. 285-292.
-[^127]: Taubman, William. *Gorbachev: His Life and Times*, pp. 628-635.
-[^128]: Zubok, Vladislav. *Collapse*, pp. 468-475.
+
+[^91]: Myers, Steven Lee. _The New Tsar: The Rise and Reign of Vladimir Putin_. Knopf, 2015, pp. 234-238.
+
+[^92]: Fukuyama, Francis. "The End of History?" _The National Interest_, Summer 1989.
+
+[^93]: Applebaum, Anne. "What Gorbachev Meant to Eastern Europe." _The Atlantic_, August 31, 2022.
+
+[^94]: Snyder, Timothy. "Mikhail Gorbachev's Gift to Europe." _Foreign Policy_, August 31, 2022.
+
+[^95]: Brown, Archie. _The Gorbachev Factor_, pp. 295-305.
+
+[^96]: Brown, Archie. _The Myth of the Strong Leader_. Basic Books, 2014, pp. 187-195.
+
+[^97]: Kotkin, Stephen. _Armageddon Averted_, pp. 45-50.
+
+[^98]: Brown, Archie. _The Gorbachev Factor_, pp. 318-325.
+
+[^99]: Snyder, Timothy. "Mikhail Gorbachev's Gift to Europe." _Foreign Policy_, August 31, 2022.
+
+[^100]: Taubman, William. _Gorbachev: His Life and Times_, pp. 678-682.
+
+[^101]: Brown, Archie. _The Gorbachev Factor_, pp. 95-102.
+
+[^102]: Gorbachev, Mikhail. _Perestroika_, pp. 1-15.
+
+[^103]: Brown, Archie. _The Gorbachev Factor_, pp. 105-110.
+
+[^104]: Bush, George H.W. and Scowcroft, Brent. _A World Transformed_. Knopf, 1998, pp. 156-162.
+
+[^105]: Baker, James. _The Politics of Diplomacy_. Putnam, 1995, pp. 234-240.
+
+[^106]: Taubman, William. _Gorbachev: His Life and Times_, pp. 698-705.
+
+[^107]: Brown, Archie. _The Gorbachev Factor_, pp. 330-335.
+
+[^108]: Zubok, Vladislav. _Collapse_, pp. 525-532.
+
+[^109]: Zyuganov, Gennady. _My Russia_. Sharpe, 1997, pp. 78-85.
+
+[^110]: Sakwa, Richard. _Putin: Russia's Choice_. Routledge, 2007, pp. 23-28.
+
+[^111]: Tsygankov, Andrei. _Russia and the West from Alexander to Putin_. Cambridge University Press, 2012, pp. 156-162.
+
+[^112]: Zyuganov, Gennady. _My Russia_, pp. 92-98.
+
+[^113]: Kotkin, Stephen. _Armageddon Averted_, pp. 125-130.
+
+[^114]: Cohen, Stephen F. _Soviet Fates and Lost Alternatives_. Columbia University Press, 2009, pp. 145-152.
+
+[^115]: Gaidar, Yegor. _Collapse of an Empire_. Brookings Institution Press, 2007, pp. 234-240.
+
+[^116]: Åslund, Anders. _Russia's Capitalist Revolution_. Peterson Institute, 2007, pp. 45-52.
+
+[^117]: Goldman, Marshall. _What Went Wrong with Perestroika_, pp. 178-185.
+
+[^118]: Ellman, Michael and Kontorovich, Vladimir. _The Destruction of the Soviet Economic System_. Sharpe, 1998, pp. 112-120.
+
+[^119]: Åslund, Anders. _Gorbachev's Struggle for Economic Reform_, pp. 215-222.
+
+[^120]: Kotkin, Stephen. _Armageddon Averted_, pp. 118-122.
+
+[^121]: Suny, Ronald Grigor. _The Revenge of the Past_, pp. 156-165.
+
+[^122]: Beissinger, Mark. _Nationalist Mobilization and the Collapse of the Soviet State_. Cambridge University Press, 2002, pp. 234-242.
+
+[^123]: Zubok, Vladislav. _Collapse_, pp. 428-435.
+
+[^124]: Schweizer, Peter. _Victory: The Reagan Administration's Secret Strategy That Hastened the Collapse of the Soviet Union_. Atlantic Monthly Press, 1994, pp. 234-240.
+
+[^125]: Kotkin, Stephen. _Armageddon Averted_, pp. 42-48.
+
+[^126]: Brown, Archie. _The Gorbachev Factor_, pp. 285-292.
+
+[^127]: Taubman, William. _Gorbachev: His Life and Times_, pp. 628-635.
+
+[^128]: Zubok, Vladislav. _Collapse_, pp. 468-475.
+
 [^129]: Gorbachev, Mikhail. Speech to Communist Party Congress, 1986.
-[^130]: Gorbachev, Mikhail. *Perestroika*, p. 89.
-[^131]: Gorbachev, Mikhail. Interview with *The Times*, 2008.
+
+[^130]: Gorbachev, Mikhail. _Perestroika_, p. 89.
+
+[^131]: Gorbachev, Mikhail. Interview with _The Times_, 2008.
+
 [^132]: Gorbachev, Mikhail. Interview with BBC, 2011.
+
 [^133]: Gorbachev, Mikhail. Speech on 70th Anniversary of October Revolution, November 2, 1987.
-[^134]: Gorbachev, Mikhail. *Memoirs*, p. 215.
+
+[^134]: Gorbachev, Mikhail. _Memoirs_, p. 215.
+
 [^135]: Gorbachev, Mikhail. Address at Westminster College, 1992.

@@ -165,179 +165,179 @@ Finally, critics note that Jinnah's westernized elite background and lifestyle d
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1876 | Born December 25 in Karachi, British India |
-| 1892 | First arranged marriage (wife died shortly after) |
-| 1893 | Traveled to London; enrolled at Lincoln's Inn |
-| 1896 | Called to the Bar; returned to India; mother died |
-| 1900 | Established successful legal practice in Bombay |
-| 1906 | Attended Indian National Congress session in Calcutta |
-| 1910 | Elected to Imperial Legislative Council |
-| 1913 | Joined All-India Muslim League |
-| 1916 | Brokered Lucknow Pact between Congress and Muslim League; met Ruttie Petit |
-| 1918 | Married Rattanbai "Ruttie" Petit after her conversion to Islam |
-| 1919 | Daughter Dina born |
-| 1920 | Opposed Gandhi's non-cooperation movement; humiliated at Congress session |
-| 1929 | Wife Ruttie died; emotional devastation |
-| 1930 | Moved to London; established legal practice there |
-| 1934 | Returned to India; assumed permanent leadership of Muslim League |
-| 1937 | Muslim League performed poorly in provincial elections; Congress refused coalition |
-| 1938 | Daughter Dina married Neville Wadia against his wishes; estrangement |
-| 1940 | Lahore Resolution passed, demanding independent Muslim states (Pakistan Resolution) |
-| 1942 | Congress launched Quit India Movement; Jinnah offered conditional cooperation to British |
-| 1945-46 | Muslim League won 90% of Muslim seats in provincial elections |
-| 1946 | Cabinet Mission Plan rejected; Direct Action Day (August 16) triggered Great Calcutta Killings |
-| 1946 | Joined interim government with Congress; communal violence escalated |
-| 1947 | June 3: Mountbatten Plan announced partition; Jinnah accepted |
-| 1947 | August 11: Delivered famous secular speech to Constituent Assembly |
-| 1947 | August 14: Pakistan gained independence; Jinnah became Governor-General |
-| 1947 | October: Kashmir conflict began with tribal invasion |
-| 1948 | Continued working despite terminal tuberculosis and lung cancer |
-| 1948 | September 11: Died in Karachi at age 71 |
+| Year    | Event                                                                                          |
+| ------- | ---------------------------------------------------------------------------------------------- |
+| 1876    | Born December 25 in Karachi, British India                                                     |
+| 1892    | First arranged marriage (wife died shortly after)                                              |
+| 1893    | Traveled to London; enrolled at Lincoln's Inn                                                  |
+| 1896    | Called to the Bar; returned to India; mother died                                              |
+| 1900    | Established successful legal practice in Bombay                                                |
+| 1906    | Attended Indian National Congress session in Calcutta                                          |
+| 1910    | Elected to Imperial Legislative Council                                                        |
+| 1913    | Joined All-India Muslim League                                                                 |
+| 1916    | Brokered Lucknow Pact between Congress and Muslim League; met Ruttie Petit                     |
+| 1918    | Married Rattanbai "Ruttie" Petit after her conversion to Islam                                 |
+| 1919    | Daughter Dina born                                                                             |
+| 1920    | Opposed Gandhi's non-cooperation movement; humiliated at Congress session                      |
+| 1929    | Wife Ruttie died; emotional devastation                                                        |
+| 1930    | Moved to London; established legal practice there                                              |
+| 1934    | Returned to India; assumed permanent leadership of Muslim League                               |
+| 1937    | Muslim League performed poorly in provincial elections; Congress refused coalition             |
+| 1938    | Daughter Dina married Neville Wadia against his wishes; estrangement                           |
+| 1940    | Lahore Resolution passed, demanding independent Muslim states (Pakistan Resolution)            |
+| 1942    | Congress launched Quit India Movement; Jinnah offered conditional cooperation to British       |
+| 1945-46 | Muslim League won 90% of Muslim seats in provincial elections                                  |
+| 1946    | Cabinet Mission Plan rejected; Direct Action Day (August 16) triggered Great Calcutta Killings |
+| 1946    | Joined interim government with Congress; communal violence escalated                           |
+| 1947    | June 3: Mountbatten Plan announced partition; Jinnah accepted                                  |
+| 1947    | August 11: Delivered famous secular speech to Constituent Assembly                             |
+| 1947    | August 14: Pakistan gained independence; Jinnah became Governor-General                        |
+| 1947    | October: Kashmir conflict began with tribal invasion                                           |
+| 1948    | Continued working despite terminal tuberculosis and lung cancer                                |
+| 1948    | September 11: Died in Karachi at age 71                                                        |
 
 ---
 
 ## Famous Quotes
 
-> "You are free; you are free to go to your temples, you are free to go to your mosques or to any other place of worship in this State of Pakistan. You may belong to any religion or caste or creed—that has nothing to do with the business of the State." 
+> "You are free; you are free to go to your temples, you are free to go to your mosques or to any other place of worship in this State of Pakistan. You may belong to any religion or caste or creed—that has nothing to do with the business of the State."
 
-*From his August 11, 1947 address to the Constituent Assembly, outlining his vision of a secular, inclusive Pakistan where religion would be a personal matter separate from state governance.*
+_From his August 11, 1947 address to the Constituent Assembly, outlining his vision of a secular, inclusive Pakistan where religion would be a personal matter separate from state governance._
 
 > "No struggle can ever succeed without women participating side by side with men. There are two powers in the world; one is the sword and the other is the pen. There is a third power stronger than both, that of women."
 
-*Demonstrating his progressive views on women's rights and their essential role in nation-building, a remarkably feminist position for his era.*
+_Demonstrating his progressive views on women's rights and their essential role in nation-building, a remarkably feminist position for his era._
 
 > "Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man."
 
-*Reflecting his decisive leadership style and insistence on unity once a course of action was determined.*
+_Reflecting his decisive leadership style and insistence on unity once a course of action was determined._
 
 > "I do not believe in taking the right decision, I take a decision and make it right."
 
-*Illustrating his confidence, determination, and willingness to commit fully to his chosen path, even when facing uncertainty.*
+_Illustrating his confidence, determination, and willingness to commit fully to his chosen path, even when facing uncertainty._
 
 > "Failure is a word unknown to me."
 
-*Capturing his relentless determination and self-confidence that drove him to achieve Pakistan against overwhelming odds.*
+_Capturing his relentless determination and self-confidence that drove him to achieve Pakistan against overwhelming odds._
 
 > "With faith, discipline and selfless devotion to duty, there is nothing worthwhile that you cannot achieve."
 
-*His formula for success, emphasizing moral qualities over material resources, delivered to the people of Pakistan.*
+_His formula for success, emphasizing moral qualities over material resources, delivered to the people of Pakistan._
 
 ---
 
 ## References
 
-[^1]: Wolpert, Stanley. *Jinnah of Pakistan*. Oxford University Press, 1984. pp. 5-12.
+[^1]: Wolpert, Stanley. _Jinnah of Pakistan_. Oxford University Press, 1984. pp. 5-12.
 
-[^2]: Bolitho, Hector. *Jinnah: Creator of Pakistan*. John Murray, 1954. pp. 18-24.
+[^2]: Bolitho, Hector. _Jinnah: Creator of Pakistan_. John Murray, 1954. pp. 18-24.
 
-[^3]: Ahmed, Akbar S. *Jinnah, Pakistan and Islamic Identity: The Search for Saladin*. Routledge, 1997. pp. 45-52.
+[^3]: Ahmed, Akbar S. _Jinnah, Pakistan and Islamic Identity: The Search for Saladin_. Routledge, 1997. pp. 45-52.
 
-[^4]: Singh, Jaswant. *Jinnah: India, Partition, Independence*. Oxford University Press, 2009. pp. 67-73.
+[^4]: Singh, Jaswant. _Jinnah: India, Partition, Independence_. Oxford University Press, 2009. pp. 67-73.
 
-[^5]: Jalal, Ayesha. *The Sole Spokesman: Jinnah, the Muslim League and the Demand for Pakistan*. Cambridge University Press, 1985. pp. 12-18.
+[^5]: Jalal, Ayesha. _The Sole Spokesman: Jinnah, the Muslim League and the Demand for Pakistan_. Cambridge University Press, 1985. pp. 12-18.
 
-[^6]: Collins, Larry and Dominique Lapierre. *Freedom at Midnight*. Simon & Schuster, 1975. pp. 89-95.
+[^6]: Collins, Larry and Dominique Lapierre. _Freedom at Midnight_. Simon & Schuster, 1975. pp. 89-95.
 
-[^7]: Wolpert, Stanley. *Shameful Flight: The Last Years of the British Empire in India*. Oxford University Press, 2006. pp. 34-41.
+[^7]: Wolpert, Stanley. _Shameful Flight: The Last Years of the British Empire in India_. Oxford University Press, 2006. pp. 34-41.
 
-[^8]: Jinnah, Fatima. *My Brother*. Quaid-i-Azam Academy, 1987. pp. 112-118.
+[^8]: Jinnah, Fatima. _My Brother_. Quaid-i-Azam Academy, 1987. pp. 112-118.
 
-[^9]: Jalal, Ayesha. *The Sole Spokesman*. pp. 38-57.
+[^9]: Jalal, Ayesha. _The Sole Spokesman_. pp. 38-57.
 
-[^10]: Talbot, Ian. *Pakistan: A Modern History*. Hurst & Company, 1998. pp. 87-94.
+[^10]: Talbot, Ian. _Pakistan: A Modern History_. Hurst & Company, 1998. pp. 87-94.
 
-[^11]: Ahmed, Syed Nur. *The Origins of Muslim Consciousness in India*. Oxford University Press, 1991. pp. 156-163.
+[^11]: Ahmed, Syed Nur. _The Origins of Muslim Consciousness in India_. Oxford University Press, 1991. pp. 156-163.
 
-[^12]: Marston, Daniel P. and Chandar S. Sundaram (eds.). *A Military History of India and South Asia*. Praeger, 2007. pp. 98-105.
+[^12]: Marston, Daniel P. and Chandar S. Sundaram (eds.). _A Military History of India and South Asia_. Praeger, 2007. pp. 98-105.
 
-[^13]: Khan, Yasmin. *The Great Partition: The Making of India and Pakistan*. Yale University Press, 2007. pp. 67-89.
+[^13]: Khan, Yasmin. _The Great Partition: The Making of India and Pakistan_. Yale University Press, 2007. pp. 67-89.
 
-[^14]: Ziegler, Philip. *Mountbatten: The Official Biography*. Collins, 1985. pp. 367-389.
+[^14]: Ziegler, Philip. _Mountbatten: The Official Biography_. Collins, 1985. pp. 367-389.
 
-[^15]: Pirzada, Syed Sharifuddin (ed.). *Foundations of Pakistan: All-India Muslim League Documents: 1906-1947*. Vol. 2. National Publishing House, 1970. pp. 403-404.
+[^15]: Pirzada, Syed Sharifuddin (ed.). _Foundations of Pakistan: All-India Muslim League Documents: 1906-1947_. Vol. 2. National Publishing House, 1970. pp. 403-404.
 
-[^16]: Aziz, K.K. *The Making of Pakistan: A Study in Nationalism*. Chatto & Windus, 1967. pp. 178-192.
+[^16]: Aziz, K.K. _The Making of Pakistan: A Study in Nationalism_. Chatto & Windus, 1967. pp. 178-192.
 
-[^17]: Butalia, Urvashi. *The Other Side of Silence: Voices from the Partition of India*. Duke University Press, 2000. pp. 23-45.
+[^17]: Butalia, Urvashi. _The Other Side of Silence: Voices from the Partition of India_. Duke University Press, 2000. pp. 23-45.
 
-[^18]: Jalal, Ayesha. *The Sole Spokesman*. pp. 241-293.
+[^18]: Jalal, Ayesha. _The Sole Spokesman_. pp. 241-293.
 
-[^19]: Das, Suranjan. *Communal Riots in Bengal, 1905-1947*. Oxford University Press, 1991. pp. 187-211.
+[^19]: Das, Suranjan. _Communal Riots in Bengal, 1905-1947_. Oxford University Press, 1991. pp. 187-211.
 
-[^20]: Brown, Judith M. *Nehru: A Political Life*. Yale University Press, 2003. pp. 156-158.
+[^20]: Brown, Judith M. _Nehru: A Political Life_. Yale University Press, 2003. pp. 156-158.
 
-[^21]: Wilcox, Wayne. *Pakistan: The Consolidation of a Nation*. Columbia University Press, 1963. pp. 89-97.
+[^21]: Wilcox, Wayne. _Pakistan: The Consolidation of a Nation_. Columbia University Press, 1963. pp. 89-97.
 
-[^22]: Lamb, Alastair. *Kashmir: A Disputed Legacy, 1846-1990*. Roxford Books, 1991. pp. 134-152.
+[^22]: Lamb, Alastair. _Kashmir: A Disputed Legacy, 1846-1990_. Roxford Books, 1991. pp. 134-152.
 
-[^23]: Nasr, Seyyed Vali Reza. *The Vanguard of the Islamic Revolution: The Jama'at-i Islami of Pakistan*. University of California Press, 1994. pp. 45-51.
+[^23]: Nasr, Seyyed Vali Reza. _The Vanguard of the Islamic Revolution: The Jama'at-i Islami of Pakistan_. University of California Press, 1994. pp. 45-51.
 
-[^24]: Merchant, Liaquat. *Jinnah: A Judicial Verdict*. East and West Publishing Company, 1990. pp. 234-241.
+[^24]: Merchant, Liaquat. _Jinnah: A Judicial Verdict_. East and West Publishing Company, 1990. pp. 234-241.
 
-[^25]: Suhrawardy, Sheila. *Beloved of Pakistan: A Portrait of a Woman*. Research Society of Pakistan, 1991. pp. 67-78.
+[^25]: Suhrawardy, Sheila. _Beloved of Pakistan: A Portrait of a Woman_. Research Society of Pakistan, 1991. pp. 67-78.
 
-[^26]: Wolpert, Stanley. *Jinnah of Pakistan*. pp. 104-118.
+[^26]: Wolpert, Stanley. _Jinnah of Pakistan_. pp. 104-118.
 
-[^27]: Sahgal, Nayantara. *Before Freedom: Nehru's Letters to His Sister*. HarperCollins, 2000. pp. 156-159.
+[^27]: Sahgal, Nayantara. _Before Freedom: Nehru's Letters to His Sister_. HarperCollins, 2000. pp. 156-159.
 
-[^28]: Ahmed, Akbar S. *Jinnah, Pakistan and Islamic Identity*. pp. 89-101.
+[^28]: Ahmed, Akbar S. _Jinnah, Pakistan and Islamic Identity_. pp. 89-101.
 
-[^29]: Sayeed, Khalid B. *Pakistan: The Formative Phase, 1857-1948*. Oxford University Press, 1968. pp. 245-253.
+[^29]: Sayeed, Khalid B. _Pakistan: The Formative Phase, 1857-1948_. Oxford University Press, 1968. pp. 245-253.
 
-[^30]: Jinnah, Fatima. *My Brother*. pp. 201-215.
+[^30]: Jinnah, Fatima. _My Brother_. pp. 201-215.
 
-[^31]: Bolitho, Hector. *Jinnah: Creator of Pakistan*. pp. 267-273.
+[^31]: Bolitho, Hector. _Jinnah: Creator of Pakistan_. pp. 267-273.
 
-[^32]: Ziring, Lawrence. *Pakistan in the Twentieth Century: A Political History*. Oxford University Press, 1997. pp. 112-120.
+[^32]: Ziring, Lawrence. _Pakistan in the Twentieth Century: A Political History_. Oxford University Press, 1997. pp. 112-120.
 
-[^33]: Cohen, Stephen Philip. *The Idea of Pakistan*. Brookings Institution Press, 2004. pp. 34-48.
+[^33]: Cohen, Stephen Philip. _The Idea of Pakistan_. Brookings Institution Press, 2004. pp. 34-48.
 
-[^34]: Haqqani, Husain. *Pakistan: Between Mosque and Military*. Carnegie Endowment for International Peace, 2005. pp. 15-28.
+[^34]: Haqqani, Husain. _Pakistan: Between Mosque and Military_. Carnegie Endowment for International Peace, 2005. pp. 15-28.
 
-[^35]: Hasan, Mushirul (ed.). *India's Partition: Process, Strategy and Mobilization*. Oxford University Press, 1993. pp. 267-289.
+[^35]: Hasan, Mushirul (ed.). _India's Partition: Process, Strategy and Mobilization_. Oxford University Press, 1993. pp. 267-289.
 
-[^36]: Ahmed, Rafiuddin. *The Bengal Muslims 1871-1906: A Quest for Identity*. Oxford University Press, 1981. pp. 178-184.
+[^36]: Ahmed, Rafiuddin. _The Bengal Muslims 1871-1906: A Quest for Identity_. Oxford University Press, 1981. pp. 178-184.
 
-[^37]: Moore, R.J. *Escape from Empire: The Attlee Government and the Indian Problem*. Clarendon Press, 1983. pp. 198-216.
+[^37]: Moore, R.J. _Escape from Empire: The Attlee Government and the Indian Problem_. Clarendon Press, 1983. pp. 198-216.
 
-[^38]: Misra, Amalendu. *Identity and Religion: Foundations of Anti-Islamism in India*. Sage Publications, 2004. pp. 89-94.
+[^38]: Misra, Amalendu. _Identity and Religion: Foundations of Anti-Islamism in India_. Sage Publications, 2004. pp. 89-94.
 
-[^39]: Rashid, Ahmed. *Pakistan on the Brink: The Future of America, Pakistan, and Afghanistan*. Viking, 2012. pp. 23-29.
+[^39]: Rashid, Ahmed. _Pakistan on the Brink: The Future of America, Pakistan, and Afghanistan_. Viking, 2012. pp. 23-29.
 
-[^40]: Nasr, Seyyed Vali Reza. *Islamic Leviathan: Islam and the Making of State Power*. Oxford University Press, 2001. pp. 67-73.
+[^40]: Nasr, Seyyed Vali Reza. _Islamic Leviathan: Islam and the Making of State Power_. Oxford University Press, 2001. pp. 67-73.
 
-[^41]: Wolpert, Stanley. *Jinnah of Pakistan*. p. 1.
+[^41]: Wolpert, Stanley. _Jinnah of Pakistan_. p. 1.
 
-[^42]: Singh, Jaswant. *Jinnah: India, Partition, Independence*. pp. 456-472.
+[^42]: Singh, Jaswant. _Jinnah: India, Partition, Independence_. pp. 456-472.
 
-[^43]: Merchant, Liaquat. *Jinnah: A Judicial Verdict*. pp. 345-352.
+[^43]: Merchant, Liaquat. _Jinnah: A Judicial Verdict_. pp. 345-352.
 
-[^44]: Ahmed, Ishtiaq. *The Punjab Bloodied, Partitioned and Cleansed*. Oxford University Press, 2012. pp. 87-95.
+[^44]: Ahmed, Ishtiaq. _The Punjab Bloodied, Partitioned and Cleansed_. Oxford University Press, 2012. pp. 87-95.
 
-[^45]: Mumtaz, Khawar and Farida Shaheed. *Women of Pakistan: Two Steps Forward, One Step Back?* Vanguard, 1987. pp. 34-41.
+[^45]: Mumtaz, Khawar and Farida Shaheed. _Women of Pakistan: Two Steps Forward, One Step Back?_ Vanguard, 1987. pp. 34-41.
 
-[^46]: Pirzada, Syed Sharifuddin (ed.). *Foundations of Pakistan*. pp. 403-404.
+[^46]: Pirzada, Syed Sharifuddin (ed.). _Foundations of Pakistan_. pp. 403-404.
 
-[^47]: Gilmartin, David. *Empire and Islam: Punjab and the Making of Pakistan*. University of California Press, 1988. pp. 178-193.
+[^47]: Gilmartin, David. _Empire and Islam: Punjab and the Making of Pakistan_. University of California Press, 1988. pp. 178-193.
 
-[^48]: Qureshi, Ishtiaq Husain. *The Struggle for Pakistan*. University of Karachi, 1965. pp. 267-281.
+[^48]: Qureshi, Ishtiaq Husain. _The Struggle for Pakistan_. University of Karachi, 1965. pp. 267-281.
 
-[^49]: Pandey, Gyanendra. *Remembering Partition: Violence, Nationalism and History in India*. Cambridge University Press, 2001. pp. 45-67.
+[^49]: Pandey, Gyanendra. _Remembering Partition: Violence, Nationalism and History in India_. Cambridge University Press, 2001. pp. 45-67.
 
-[^50]: Chatterjee, Joya. *Bengal Divided: Hindu Communalism and Partition, 1932-1947*. Cambridge University Press, 1994. pp. 234-256.
+[^50]: Chatterjee, Joya. _Bengal Divided: Hindu Communalism and Partition, 1932-1947_. Cambridge University Press, 1994. pp. 234-256.
 
-[^51]: Varshney, Ashutosh. *Ethnic Conflict and Civic Life: Hindus and Muslims in India*. Yale University Press, 2002. pp. 89-112.
+[^51]: Varshney, Ashutosh. _Ethnic Conflict and Civic Life: Hindus and Muslims in India_. Yale University Press, 2002. pp. 89-112.
 
-[^52]: Chandra, Bipan et al. *India's Struggle for Independence*. Penguin Books, 1989. pp. 398-417.
+[^52]: Chandra, Bipan et al. _India's Struggle for Independence_. Penguin Books, 1989. pp. 398-417.
 
-[^53]: Das, Suranjan. *Communal Riots in Bengal*. pp. 187-211.
+[^53]: Das, Suranjan. _Communal Riots in Bengal_. pp. 187-211.
 
-[^54]: Sisson, Richard and Leo E. Rose. *War and Secession: Pakistan, India, and the Creation of Bangladesh*. University of California Press, 1990. pp. 23-41.
+[^54]: Sisson, Richard and Leo E. Rose. _War and Secession: Pakistan, India, and the Creation of Bangladesh_. University of California Press, 1990. pp. 23-41.
 
-[^55]: Nasr, Seyyed Vali Reza. *The Vanguard of the Islamic Revolution*. pp. 45-67.
+[^55]: Nasr, Seyyed Vali Reza. _The Vanguard of the Islamic Revolution_. pp. 45-67.
 
-[^56]: Talbot, Ian. *Pakistan: A Modern History*. pp. 145-159.
+[^56]: Talbot, Ian. _Pakistan: A Modern History_. pp. 145-159.
 
-[^57]: Devji, Faisal. *Muslim Zion: Pakistan as a Political Idea*. Harvard University Press, 2013. pp. 78-92.
+[^57]: Devji, Faisal. _Muslim Zion: Pakistan as a Political Idea_. Harvard University Press, 2013. pp. 78-92.

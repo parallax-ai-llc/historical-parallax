@@ -29,7 +29,7 @@ The 1830s marked Cavour's transformation from disaffected military officer to pr
 
 ## Rise to Power
 
-Cavour's entry into politics came through journalism and economic advocacy rather than traditional aristocratic patronage. In 1847, he co-founded *Il Risorgimento*, a newspaper advocating constitutional government, free trade, and Italian independence from Austrian domination[^9]. The revolutionary wave of 1848 provided his opportunity. When King Charles Albert granted a constitution (the Statuto Albertino) and declared war on Austria, Cavour was elected to the new Sardinian parliament[^10].
+Cavour's entry into politics came through journalism and economic advocacy rather than traditional aristocratic patronage. In 1847, he co-founded _Il Risorgimento_, a newspaper advocating constitutional government, free trade, and Italian independence from Austrian domination[^9]. The revolutionary wave of 1848 provided his opportunity. When King Charles Albert granted a constitution (the Statuto Albertino) and declared war on Austria, Cavour was elected to the new Sardinian parliament[^10].
 
 Though the First Italian War of Independence ended in defeat, Cavour emerged as a powerful voice for liberal constitutionalism and economic modernization. He aligned himself with the center-right, practicing what he called "connubio" (marriage) – forming coalitions between moderate conservatives and progressive liberals to isolate both reactionary absolutists and radical republicans[^11]. This centrist coalition-building became his signature political strategy, allowing him to marginalize extremes while implementing gradualist reforms.
 
@@ -151,28 +151,28 @@ Contemporary scholars also criticize Cavour's liberal credentials, noting the au
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1810 | Born August 10 in Turin, Kingdom of Piedmont-Sardinia |
-| 1820 | Enters Royal Military Academy of Turin |
-| 1826 | Commissioned as officer in Engineering Corps |
-| 1831 | Resigns military commission; begins managing family estates |
-| 1835 | First visit to England; studies British political economy and agriculture |
-| 1842 | Extensive travels in France, England, and Switzerland |
-| 1847 | Co-founds *Il Risorgimento* newspaper advocating constitutional government |
-| 1848 | Elected to first Sardinian parliament under new constitution |
-| 1850 | Appointed Minister of Agriculture and Commerce, then adds Finance portfolio |
-| 1852 | Becomes Prime Minister of Piedmont-Sardinia on November 4 |
-| 1855 | Commits Sardinian troops to Crimean War to gain diplomatic position |
-| 1856 | Represents Sardinia at Congress of Paris; denounces Austrian rule in Italy |
+| Year | Event                                                                                 |
+| ---- | ------------------------------------------------------------------------------------- |
+| 1810 | Born August 10 in Turin, Kingdom of Piedmont-Sardinia                                 |
+| 1820 | Enters Royal Military Academy of Turin                                                |
+| 1826 | Commissioned as officer in Engineering Corps                                          |
+| 1831 | Resigns military commission; begins managing family estates                           |
+| 1835 | First visit to England; studies British political economy and agriculture             |
+| 1842 | Extensive travels in France, England, and Switzerland                                 |
+| 1847 | Co-founds _Il Risorgimento_ newspaper advocating constitutional government            |
+| 1848 | Elected to first Sardinian parliament under new constitution                          |
+| 1850 | Appointed Minister of Agriculture and Commerce, then adds Finance portfolio           |
+| 1852 | Becomes Prime Minister of Piedmont-Sardinia on November 4                             |
+| 1855 | Commits Sardinian troops to Crimean War to gain diplomatic position                   |
+| 1856 | Represents Sardinia at Congress of Paris; denounces Austrian rule in Italy            |
 | 1858 | Secret meeting with Napoleon III at Plombières (July 21) planning war against Austria |
-| 1859 | Second Italian War of Independence; Austria defeated at Magenta and Solferino |
-| 1859 | Napoleon III makes separate peace at Villafranca; Cavour briefly resigns in protest |
-| 1860 | Returns as Prime Minister; organizes annexation of Tuscany, Parma, Modena, Romagna |
-| 1860 | Garibaldi conquers Sicily and Naples; Cavour sends armies south through Papal States |
-| 1860 | Victor Emmanuel meets Garibaldi at Teano; southern Italy annexed to Sardinia |
-| 1861 | Kingdom of Italy proclaimed March 17; Victor Emmanuel II becomes King of Italy |
-| 1861 | Dies June 6 in Turin at age 50, three months after unification |
+| 1859 | Second Italian War of Independence; Austria defeated at Magenta and Solferino         |
+| 1859 | Napoleon III makes separate peace at Villafranca; Cavour briefly resigns in protest   |
+| 1860 | Returns as Prime Minister; organizes annexation of Tuscany, Parma, Modena, Romagna    |
+| 1860 | Garibaldi conquers Sicily and Naples; Cavour sends armies south through Papal States  |
+| 1860 | Victor Emmanuel meets Garibaldi at Teano; southern Italy annexed to Sardinia          |
+| 1861 | Kingdom of Italy proclaimed March 17; Victor Emmanuel II becomes King of Italy        |
+| 1861 | Dies June 6 in Turin at age 50, three months after unification                        |
 
 ---
 
@@ -192,138 +192,272 @@ Contemporary scholars also criticize Cavour's liberal credentials, noting the au
 
 ## References
 
-[^1]: Mack Smith, Denis. *Cavour*. London: Weidenfeld and Nicolson, 1985, pp. 1-5.
-[^2]: Hearder, Harry. *Cavour*. London: Longman, 1994, pp. 8-12.
-[^3]: Romeo, Rosario. *Cavour e il suo tempo* (3 vols.). Rome-Bari: Laterza, 1984, Vol. 1, pp. 45-52.
-[^4]: Woolf, Stuart. *A History of Italy 1700-1860*. London: Methuen, 1979, pp. 385-388.
-[^5]: Whyte, Arthur James. *The Early Life and Letters of Cavour, 1810-1848*. Oxford: Oxford University Press, 1925, p. 89.
-[^6]: Hearder, *Cavour*, pp. 15-28.
-[^7]: Grew, Raymond. "How Success Spoiled the Risorgimento." *Journal of Modern History* 34, no. 3 (1962): 239-253.
-[^8]: Mack Smith, Denis. *The Making of Italy, 1796-1870*. New York: Harper & Row, 1968, pp. 156-160.
-[^9]: Riall, Lucy. *The Italian Risorgimento: State, Society and National Unification*. London: Routledge, 1994, pp. 45-47.
-[^10]: Beales, Derek, and Eugenio Biagini. *The Risorgimento and the Unification of Italy*. 2nd ed. Harlow: Pearson, 2002, pp. 98-105.
-[^11]: Hearder, *Cavour*, pp. 62-68.
-[^12]: Romeo, *Cavour e il suo tempo*, Vol. 2, pp. 234-256.
-[^13]: Clark, Martin. *The Italian Risorgimento*. 2nd ed. Harlow: Pearson, 2009, pp. 67-72.
-[^14]: Zamagni, Vera. *The Economic History of Italy 1860-1990*. Oxford: Clarendon Press, 1993, pp. 28-35.
-[^15]: Mack Smith, *Cavour*, p. 67.
-[^16]: Riall, Lucy. *Risorgimento: The History of Italy from Napoleon to Nation-State*. Basingstoke: Palgrave Macmillan, 2009, pp. 48-51.
-[^17]: Schroeder, Paul W. *Austria, Great Britain, and the Crimean War: The Destruction of the European Concert*. Ithaca: Cornell University Press, 1972, pp. 412-418.
-[^18]: Hearder, *Cavour*, pp. 102-115.
-[^19]: Gooch, John. *The Unification of Italy*. London: Methuen, 1986, pp. 34-38.
-[^20]: Mack Smith, *The Making of Italy*, pp. 214-219.
-[^21]: Hearder, *Cavour*, pp. 126-132.
-[^22]: Taylor, A. J. P. *The Struggle for Mastery in Europe, 1848-1918*. Oxford: Oxford University Press, 1954, pp. 104-107.
-[^23]: Beales and Biagini, *The Risorgimento and the Unification of Italy*, pp. 142-148.
-[^24]: Clark, *The Italian Risorgimento*, pp. 88-92.
-[^25]: Riall, *Risorgimento*, pp. 64-68.
-[^26]: Mack Smith, *Cavour*, pp. 145-158.
-[^27]: Grew, Raymond. *A Sterner Plan for Italian Unity: The Italian National Society in the Risorgimento*. Princeton: Princeton University Press, 1963, pp. 287-315.
-[^28]: Hearder, *Cavour*, pp. 168-182.
-[^29]: Ridley, Jasper. *Garibaldi*. London: Constable, 1974, pp. 456-489.
-[^30]: Mack Smith, Denis. *Garibaldi: A Great Life in Brief*. New York: Knopf, 1956, pp. 98-112.
-[^31]: Riall, *Risorgimento*, pp. 74-79.
-[^32]: Davis, John A. "Casting Off the 'Southern Problem': Or the Peculiarities of the South Reconsidered." In *Italy in the Nineteenth Century*, edited by John A. Davis, 205-224. Oxford: Oxford University Press, 2000.
-[^33]: Beales and Biagini, *The Risorgimento and the Unification of Italy*, pp. 178-184.
-[^34]: Romeo, *Cavour e il suo tempo*, Vol. 2, pp. 389-421.
-[^35]: Zamagni, *The Economic History of Italy*, pp. 42-48.
-[^36]: Gooch, *The Unification of Italy*, pp. 52-58.
-[^37]: Coppa, Frank J. *Pope Pius IX: Crusader in a Secular Age*. Boston: Twayne Publishers, 1979, pp. 156-163.
-[^38]: Jemolo, Arturo Carlo. *Church and State in Italy, 1850-1950*. Translated by David Moore. Oxford: Blackwell, 1960, pp. 23-45.
-[^39]: Ginsborg, Paul. "After the Revolution: Bandits on the Plains of the Po, 1848-54." In *Society and Politics in the Age of the Risorgimento*, edited by John A. Davis and Paul Ginsborg, 128-151. Cambridge: Cambridge University Press, 1991.
-[^40]: Gramsci, Antonio. *Selections from the Prison Notebooks*. Edited and translated by Quintin Hoare and Geoffrey Nowell Smith. New York: International Publishers, 1971, pp. 52-120.
-[^41]: Riall, *The Italian Risorgimento*, pp. 62-65.
-[^42]: Mack Smith, Denis. *Italy: A Modern History*. Ann Arbor: University of Michigan Press, 1959, pp. 82-95.
-[^43]: Duggan, Christopher. *The Force of Destiny: A History of Italy Since 1796*. London: Allen Lane, 2007, pp. 198-203.
-[^44]: Gramsci, *Selections from the Prison Notebooks*, pp. 90-102.
-[^45]: Bevilacqua, Piero. *Breve storia dell'Italia meridionale dall'Ottocento a oggi*. Rome: Donzelli, 1993, pp. 45-78.
-[^46]: Snowden, Frank M. *Violence and Great Estates in the South of Italy: Apulia, 1900-1922*. Cambridge: Cambridge University Press, 1986, pp. 15-28.
-[^47]: Dickie, John. *Darkest Italy: The Nation and Stereotypes of the Mezzogiorno, 1860-1900*. New York: St. Martin's Press, 1999, pp. 67-89.
-[^48]: Villani, Pasquale. *Mezzogiorno tra riforme e rivoluzione*. Rome-Bari: Laterza, 1977, pp. 234-267.
-[^49]: Taylor, *The Struggle for Mastery in Europe*, pp. 110-115.
-[^50]: Hearder, *Cavour*, pp. 140-145.
-[^51]: Riall, *Risorgimento*, pp. 71-73.
-[^52]: Jemolo, *Church and State in Italy*, pp. 56-72.
-[^53]: Coppa, *Pope Pius IX*, pp. 178-195.
-[^54]: De Mattei, Roberto. *Blessed Pius IX*. Leominster: Gracewing, 2004, pp. 156-178.
-[^55]: Sarti, Roland. *Mazzini: A Life for the Religion of Politics*. Westport, CT: Praeger, 1997, pp. 189-203.
-[^56]: Mack Smith, *Italy: A Modern History*, p. 91.
-[^57]: Ginsborg, Paul. *A History of Contemporary Italy: Society and Politics 1943-1988*. London: Penguin, 1990, pp. 9-12.
-[^58]: Romanelli, Raffaele. *L'Italia liberale (1861-1900)*. Bologna: Il Mulino, 1979, pp. 78-95.
-[^59]: Hearder, *Cavour*, pp. 285-290.
-[^60]: Whyte, *The Early Life and Letters of Cavour*, pp. 156-167.
-[^61]: Mack Smith, *Cavour*, pp. 234-239.
-[^62]: Romeo, *Cavour e il suo tempo*, Vol. 3, pp. 567-589.
-[^63]: Hearder, *Cavour*, pp. 12-18.
-[^64]: Mack Smith, *Cavour*, pp. 1-8.
-[^65]: D'Azeglio, Massimo. *I miei ricordi*. Turin: Einaudi, 1949, p. 423.
-[^66]: Beales and Biagini, *The Risorgimento and the Unification of Italy*, pp. 135-140.
-[^67]: Romeo, *Cavour e il suo tempo*, Vol. 1, pp. 234-256.
-[^68]: Zamagni, *The Economic History of Italy*, pp. 35-38.
-[^69]: Banti, Alberto Mario. *Il Risorgimento italiano*. Rome-Bari: Laterza, 2004, pp. 89-95.
-[^70]: Hearder, *Cavour*, pp. 278-282.
-[^71]: Mack Smith, *Cavour*, pp. 289-295.
-[^72]: Romeo, *Cavour e il suo tempo*, Vol. 3, pp. 890-912.
-[^73]: Coppa, *Pope Pius IX*, pp. 167-169.
-[^74]: Hearder, *Cavour*, p. 294.
-[^75]: Mack Smith, *Cavour*, pp. 298-302.
-[^76]: Riall, *Risorgimento*, pp. 82-85.
-[^77]: Duggan, *The Force of Destiny*, pp. 210-215.
-[^78]: Beales and Biagini, *The Risorgimento and the Unification of Italy*, pp. 1-5.
-[^79]: Clark, *The Italian Risorgimento*, pp. 124-145.
-[^80]: Romanelli, *L'Italia liberale*, pp. 95-112.
-[^81]: Ghisalberti, Carlo. *Storia constituzionale d'Italia 1848-1994*. Rome-Bari: Laterza, 1994, pp. 34-67.
-[^82]: Ginsborg, *A History of Contemporary Italy*, pp. 12-15.
-[^83]: Riall, *Risorgimento*, pp. 156-162.
-[^84]: Zamagni, *The Economic History of Italy*, pp. 58-75.
-[^85]: Bevilacqua, *Breve storia dell'Italia meridionale*, pp. 89-112.
-[^86]: Taylor, *The Struggle for Mastery in Europe*, pp. 118-124.
-[^87]: Pflanze, Otto. *Bismarck and the Development of Germany*. Vol. 1. Princeton: Princeton University Press, 1990, pp. 234-237.
-[^88]: Bosworth, R. J. B. *Italy and the Approach of the First World War*. London: Macmillan, 1983, pp. 15-28.
-[^89]: Romeo, *Cavour e il suo tempo*, Vol. 3, pp. 945-967.
-[^90]: Gramsci, *Selections from the Prison Notebooks*, pp. 105-120.
-[^91]: Grew, *A Sterner Plan for Italian Unity*, pp. 412-428.
-[^92]: Beales and Biagini, *The Risorgimento and the Unification of Italy*, pp. 223-230.
-[^93]: Banti, *Il Risorgimento italiano*, pp. 167-178.
-[^94]: Duggan, *The Force of Destiny*, pp. 223-228.
-[^95]: Mack Smith, *Italy: A Modern History*, pp. 102-108.
-[^96]: Hearder, *Cavour*, pp. 305-312.
-[^97]: Mack Smith, *Cavour*, p. ix.
-[^98]: Hearder, *Cavour*, p. 310.
-[^99]: Riall, *The Italian Risorgimento*, pp. 78-82.
-[^100]: Romeo, *Cavour e il suo tempo*, Vol. 3, pp. 945-950.
-[^101]: Zamagni, *The Economic History of Italy*, pp. 45-52.
-[^102]: Gerschenkron, Alexander. *Economic Backwardness in Historical Perspective*. Cambridge, MA: Harvard University Press, 1962, pp. 72-89.
-[^103]: Clark, *The Italian Risorgimento*, pp. 69-75.
-[^104]: Taylor, *The Struggle for Mastery in Europe*, p. 106.
-[^105]: Schroeder, *Austria, Great Britain, and the Crimean War*, pp. 415-420.
-[^106]: Hearder, *Cavour*, pp. 135-145.
-[^107]: Beales and Biagini, *The Risorgimento and the Unification of Italy*, pp. 152-156.
-[^108]: Riall, *Risorgimento*, pp. 58-62.
+[^1]: Mack Smith, Denis. _Cavour_. London: Weidenfeld and Nicolson, 1985, pp. 1-5.
+
+[^2]: Hearder, Harry. _Cavour_. London: Longman, 1994, pp. 8-12.
+
+[^3]: Romeo, Rosario. _Cavour e il suo tempo_ (3 vols.). Rome-Bari: Laterza, 1984, Vol. 1, pp. 45-52.
+
+[^4]: Woolf, Stuart. _A History of Italy 1700-1860_. London: Methuen, 1979, pp. 385-388.
+
+[^5]: Whyte, Arthur James. _The Early Life and Letters of Cavour, 1810-1848_. Oxford: Oxford University Press, 1925, p. 89.
+
+[^6]: Hearder, _Cavour_, pp. 15-28.
+
+[^7]: Grew, Raymond. "How Success Spoiled the Risorgimento." _Journal of Modern History_ 34, no. 3 (1962): 239-253.
+
+[^8]: Mack Smith, Denis. _The Making of Italy, 1796-1870_. New York: Harper & Row, 1968, pp. 156-160.
+
+[^9]: Riall, Lucy. _The Italian Risorgimento: State, Society and National Unification_. London: Routledge, 1994, pp. 45-47.
+
+[^10]: Beales, Derek, and Eugenio Biagini. _The Risorgimento and the Unification of Italy_. 2nd ed. Harlow: Pearson, 2002, pp. 98-105.
+
+[^11]: Hearder, _Cavour_, pp. 62-68.
+
+[^12]: Romeo, _Cavour e il suo tempo_, Vol. 2, pp. 234-256.
+
+[^13]: Clark, Martin. _The Italian Risorgimento_. 2nd ed. Harlow: Pearson, 2009, pp. 67-72.
+
+[^14]: Zamagni, Vera. _The Economic History of Italy 1860-1990_. Oxford: Clarendon Press, 1993, pp. 28-35.
+
+[^15]: Mack Smith, _Cavour_, p. 67.
+
+[^16]: Riall, Lucy. _Risorgimento: The History of Italy from Napoleon to Nation-State_. Basingstoke: Palgrave Macmillan, 2009, pp. 48-51.
+
+[^17]: Schroeder, Paul W. _Austria, Great Britain, and the Crimean War: The Destruction of the European Concert_. Ithaca: Cornell University Press, 1972, pp. 412-418.
+
+[^18]: Hearder, _Cavour_, pp. 102-115.
+
+[^19]: Gooch, John. _The Unification of Italy_. London: Methuen, 1986, pp. 34-38.
+
+[^20]: Mack Smith, _The Making of Italy_, pp. 214-219.
+
+[^21]: Hearder, _Cavour_, pp. 126-132.
+
+[^22]: Taylor, A. J. P. _The Struggle for Mastery in Europe, 1848-1918_. Oxford: Oxford University Press, 1954, pp. 104-107.
+
+[^23]: Beales and Biagini, _The Risorgimento and the Unification of Italy_, pp. 142-148.
+
+[^24]: Clark, _The Italian Risorgimento_, pp. 88-92.
+
+[^25]: Riall, _Risorgimento_, pp. 64-68.
+
+[^26]: Mack Smith, _Cavour_, pp. 145-158.
+
+[^27]: Grew, Raymond. _A Sterner Plan for Italian Unity: The Italian National Society in the Risorgimento_. Princeton: Princeton University Press, 1963, pp. 287-315.
+
+[^28]: Hearder, _Cavour_, pp. 168-182.
+
+[^29]: Ridley, Jasper. _Garibaldi_. London: Constable, 1974, pp. 456-489.
+
+[^30]: Mack Smith, Denis. _Garibaldi: A Great Life in Brief_. New York: Knopf, 1956, pp. 98-112.
+
+[^31]: Riall, _Risorgimento_, pp. 74-79.
+
+[^32]: Davis, John A. "Casting Off the 'Southern Problem': Or the Peculiarities of the South Reconsidered." In _Italy in the Nineteenth Century_, edited by John A. Davis, 205-224. Oxford: Oxford University Press, 2000.
+
+[^33]: Beales and Biagini, _The Risorgimento and the Unification of Italy_, pp. 178-184.
+
+[^34]: Romeo, _Cavour e il suo tempo_, Vol. 2, pp. 389-421.
+
+[^35]: Zamagni, _The Economic History of Italy_, pp. 42-48.
+
+[^36]: Gooch, _The Unification of Italy_, pp. 52-58.
+
+[^37]: Coppa, Frank J. _Pope Pius IX: Crusader in a Secular Age_. Boston: Twayne Publishers, 1979, pp. 156-163.
+
+[^38]: Jemolo, Arturo Carlo. _Church and State in Italy, 1850-1950_. Translated by David Moore. Oxford: Blackwell, 1960, pp. 23-45.
+
+[^39]: Ginsborg, Paul. "After the Revolution: Bandits on the Plains of the Po, 1848-54." In _Society and Politics in the Age of the Risorgimento_, edited by John A. Davis and Paul Ginsborg, 128-151. Cambridge: Cambridge University Press, 1991.
+
+[^40]: Gramsci, Antonio. _Selections from the Prison Notebooks_. Edited and translated by Quintin Hoare and Geoffrey Nowell Smith. New York: International Publishers, 1971, pp. 52-120.
+
+[^41]: Riall, _The Italian Risorgimento_, pp. 62-65.
+
+[^42]: Mack Smith, Denis. _Italy: A Modern History_. Ann Arbor: University of Michigan Press, 1959, pp. 82-95.
+
+[^43]: Duggan, Christopher. _The Force of Destiny: A History of Italy Since 1796_. London: Allen Lane, 2007, pp. 198-203.
+
+[^44]: Gramsci, _Selections from the Prison Notebooks_, pp. 90-102.
+
+[^45]: Bevilacqua, Piero. _Breve storia dell'Italia meridionale dall'Ottocento a oggi_. Rome: Donzelli, 1993, pp. 45-78.
+
+[^46]: Snowden, Frank M. _Violence and Great Estates in the South of Italy: Apulia, 1900-1922_. Cambridge: Cambridge University Press, 1986, pp. 15-28.
+
+[^47]: Dickie, John. _Darkest Italy: The Nation and Stereotypes of the Mezzogiorno, 1860-1900_. New York: St. Martin's Press, 1999, pp. 67-89.
+
+[^48]: Villani, Pasquale. _Mezzogiorno tra riforme e rivoluzione_. Rome-Bari: Laterza, 1977, pp. 234-267.
+
+[^49]: Taylor, _The Struggle for Mastery in Europe_, pp. 110-115.
+
+[^50]: Hearder, _Cavour_, pp. 140-145.
+
+[^51]: Riall, _Risorgimento_, pp. 71-73.
+
+[^52]: Jemolo, _Church and State in Italy_, pp. 56-72.
+
+[^53]: Coppa, _Pope Pius IX_, pp. 178-195.
+
+[^54]: De Mattei, Roberto. _Blessed Pius IX_. Leominster: Gracewing, 2004, pp. 156-178.
+
+[^55]: Sarti, Roland. _Mazzini: A Life for the Religion of Politics_. Westport, CT: Praeger, 1997, pp. 189-203.
+
+[^56]: Mack Smith, _Italy: A Modern History_, p. 91.
+
+[^57]: Ginsborg, Paul. _A History of Contemporary Italy: Society and Politics 1943-1988_. London: Penguin, 1990, pp. 9-12.
+
+[^58]: Romanelli, Raffaele. _L'Italia liberale (1861-1900)_. Bologna: Il Mulino, 1979, pp. 78-95.
+
+[^59]: Hearder, _Cavour_, pp. 285-290.
+
+[^60]: Whyte, _The Early Life and Letters of Cavour_, pp. 156-167.
+
+[^61]: Mack Smith, _Cavour_, pp. 234-239.
+
+[^62]: Romeo, _Cavour e il suo tempo_, Vol. 3, pp. 567-589.
+
+[^63]: Hearder, _Cavour_, pp. 12-18.
+
+[^64]: Mack Smith, _Cavour_, pp. 1-8.
+
+[^65]: D'Azeglio, Massimo. _I miei ricordi_. Turin: Einaudi, 1949, p. 423.
+
+[^66]: Beales and Biagini, _The Risorgimento and the Unification of Italy_, pp. 135-140.
+
+[^67]: Romeo, _Cavour e il suo tempo_, Vol. 1, pp. 234-256.
+
+[^68]: Zamagni, _The Economic History of Italy_, pp. 35-38.
+
+[^69]: Banti, Alberto Mario. _Il Risorgimento italiano_. Rome-Bari: Laterza, 2004, pp. 89-95.
+
+[^70]: Hearder, _Cavour_, pp. 278-282.
+
+[^71]: Mack Smith, _Cavour_, pp. 289-295.
+
+[^72]: Romeo, _Cavour e il suo tempo_, Vol. 3, pp. 890-912.
+
+[^73]: Coppa, _Pope Pius IX_, pp. 167-169.
+
+[^74]: Hearder, _Cavour_, p. 294.
+
+[^75]: Mack Smith, _Cavour_, pp. 298-302.
+
+[^76]: Riall, _Risorgimento_, pp. 82-85.
+
+[^77]: Duggan, _The Force of Destiny_, pp. 210-215.
+
+[^78]: Beales and Biagini, _The Risorgimento and the Unification of Italy_, pp. 1-5.
+
+[^79]: Clark, _The Italian Risorgimento_, pp. 124-145.
+
+[^80]: Romanelli, _L'Italia liberale_, pp. 95-112.
+
+[^81]: Ghisalberti, Carlo. _Storia constituzionale d'Italia 1848-1994_. Rome-Bari: Laterza, 1994, pp. 34-67.
+
+[^82]: Ginsborg, _A History of Contemporary Italy_, pp. 12-15.
+
+[^83]: Riall, _Risorgimento_, pp. 156-162.
+
+[^84]: Zamagni, _The Economic History of Italy_, pp. 58-75.
+
+[^85]: Bevilacqua, _Breve storia dell'Italia meridionale_, pp. 89-112.
+
+[^86]: Taylor, _The Struggle for Mastery in Europe_, pp. 118-124.
+
+[^87]: Pflanze, Otto. _Bismarck and the Development of Germany_. Vol. 1. Princeton: Princeton University Press, 1990, pp. 234-237.
+
+[^88]: Bosworth, R. J. B. _Italy and the Approach of the First World War_. London: Macmillan, 1983, pp. 15-28.
+
+[^89]: Romeo, _Cavour e il suo tempo_, Vol. 3, pp. 945-967.
+
+[^90]: Gramsci, _Selections from the Prison Notebooks_, pp. 105-120.
+
+[^91]: Grew, _A Sterner Plan for Italian Unity_, pp. 412-428.
+
+[^92]: Beales and Biagini, _The Risorgimento and the Unification of Italy_, pp. 223-230.
+
+[^93]: Banti, _Il Risorgimento italiano_, pp. 167-178.
+
+[^94]: Duggan, _The Force of Destiny_, pp. 223-228.
+
+[^95]: Mack Smith, _Italy: A Modern History_, pp. 102-108.
+
+[^96]: Hearder, _Cavour_, pp. 305-312.
+
+[^97]: Mack Smith, _Cavour_, p. ix.
+
+[^98]: Hearder, _Cavour_, p. 310.
+
+[^99]: Riall, _The Italian Risorgimento_, pp. 78-82.
+
+[^100]: Romeo, _Cavour e il suo tempo_, Vol. 3, pp. 945-950.
+
+[^101]: Zamagni, _The Economic History of Italy_, pp. 45-52.
+
+[^102]: Gerschenkron, Alexander. _Economic Backwardness in Historical Perspective_. Cambridge, MA: Harvard University Press, 1962, pp. 72-89.
+
+[^103]: Clark, _The Italian Risorgimento_, pp. 69-75.
+
+[^104]: Taylor, _The Struggle for Mastery in Europe_, p. 106.
+
+[^105]: Schroeder, _Austria, Great Britain, and the Crimean War_, pp. 415-420.
+
+[^106]: Hearder, _Cavour_, pp. 135-145.
+
+[^107]: Beales and Biagini, _The Risorgimento and the Unification of Italy_, pp. 152-156.
+
+[^108]: Riall, _Risorgimento_, pp. 58-62.
+
 [^109]: Grew, "How Success Spoiled the Risorgimento," pp. 245-250.
-[^110]: Croce, Benedetto. *A History of Italy 1871-1915*. Translated by Cecilia M. Ady. Oxford: Clarendon Press, 1929, p. 15.
-[^111]: Mack Smith, *Italy: A Modern History*, pp. 95-98.
-[^112]: Gramsci, *Selections from the Prison Notebooks*, pp. 52-59.
+
+[^110]: Croce, Benedetto. _A History of Italy 1871-1915_. Translated by Cecilia M. Ady. Oxford: Clarendon Press, 1929, p. 15.
+
+[^111]: Mack Smith, _Italy: A Modern History_, pp. 95-98.
+
+[^112]: Gramsci, _Selections from the Prison Notebooks_, pp. 52-59.
+
 [^113]: Ibid., pp. 90-95.
-[^114]: Ginsborg, *A History of Contemporary Italy*, pp. 9-11.
-[^115]: Bevilacqua, *Breve storia dell'Italia meridionale*, pp. 67-89; Villani, *Mezzogiorno tra riforme e rivoluzione*, pp. 245-278.
+
+[^114]: Ginsborg, _A History of Contemporary Italy_, pp. 9-11.
+
+[^115]: Bevilacqua, _Breve storia dell'Italia meridionale_, pp. 67-89; Villani, _Mezzogiorno tra riforme e rivoluzione_, pp. 245-278.
+
 [^116]: Davis, "Casting Off the 'Southern Problem'," pp. 210-220.
-[^117]: Nitti, Francesco Saverio. *Nord e Sud*. Turin: Roux e Viarengo, 1900, pp. 234-267.
-[^118]: De Mattei, *Blessed Pius IX*, pp. 165-178.
-[^119]: Jemolo, *Church and State in Italy*, pp. 65-85.
-[^120]: Coppa, *Pope Pius IX*, pp. 189-198.
-[^121]: Banti, *Il Risorgimento italiano*, pp. 145-167.
-[^122]: Davis, John A. *Naples and Napoleon: Southern Italy and the European Revolutions, 1780-1860*. Oxford: Oxford University Press, 2006, pp. 378-395.
-[^123]: Romanelli, *L'Italia liberale*, pp. 112-128.
-[^124]: Hearder, *Cavour*, pp. 298-302.
-[^125]: Bosworth, *Italy and the Approach of the First World War*, pp. 23-35.
-[^126]: Banti, Alberto Mario. *La nazione del Risorgimento: Parentela, santità e onore alle origini dell'Italia unita*. Turin: Einaudi, 2000, pp. 89-123.
-[^127]: Duggan, *The Force of Destiny*, pp. 234-245.
-[^128]: Ginsborg, *A History of Contemporary Italy*, pp. 11-14.
-[^129]: Romanelli, *L'Italia liberale*, pp. 95-108.
+
+[^117]: Nitti, Francesco Saverio. _Nord e Sud_. Turin: Roux e Viarengo, 1900, pp. 234-267.
+
+[^118]: De Mattei, _Blessed Pius IX_, pp. 165-178.
+
+[^119]: Jemolo, _Church and State in Italy_, pp. 65-85.
+
+[^120]: Coppa, _Pope Pius IX_, pp. 189-198.
+
+[^121]: Banti, _Il Risorgimento italiano_, pp. 145-167.
+
+[^122]: Davis, John A. _Naples and Napoleon: Southern Italy and the European Revolutions, 1780-1860_. Oxford: Oxford University Press, 2006, pp. 378-395.
+
+[^123]: Romanelli, _L'Italia liberale_, pp. 112-128.
+
+[^124]: Hearder, _Cavour_, pp. 298-302.
+
+[^125]: Bosworth, _Italy and the Approach of the First World War_, pp. 23-35.
+
+[^126]: Banti, Alberto Mario. _La nazione del Risorgimento: Parentela, santità e onore alle origini dell'Italia unita_. Turin: Einaudi, 2000, pp. 89-123.
+
+[^127]: Duggan, _The Force of Destiny_, pp. 234-245.
+
+[^128]: Ginsborg, _A History of Contemporary Italy_, pp. 11-14.
+
+[^129]: Romanelli, _L'Italia liberale_, pp. 95-108.
+
 [^130]: Ibid., pp. 145-167.
-[^131]: Hearder, *Cavour*, p. 294; Romeo, *Cavour e il suo tempo*, Vol. 3, p. 910.
-[^132]: Mack Smith, *Italy: A Modern History*, p. 102. Note: The attribution is disputed; often credited to Massimo d'Azeglio rather than Cavour, but reflects the challenge both recognized.
-[^133]: Jemolo, *Church and State in Italy*, p. 38.
+
+[^131]: Hearder, _Cavour_, p. 294; Romeo, _Cavour e il suo tempo_, Vol. 3, p. 910.
+
+[^132]: Mack Smith, _Italy: A Modern History_, p. 102. Note: The attribution is disputed; often credited to Massimo d'Azeglio rather than Cavour, but reflects the challenge both recognized.
+
+[^133]: Jemolo, _Church and State in Italy_, p. 38.
+
 [^134]: Ibid., pp. 41-45.
-[^135]: Hearder, *Cavour*, p. 156; expressing his pragmatic, results-oriented political philosophy.
+
+[^135]: Hearder, _Cavour_, p. 156; expressing his pragmatic, results-oriented political philosophy.

@@ -123,24 +123,24 @@ Feminist historians have criticized Danton's personal behavior, particularly his
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1759 | Born in Arcis-sur-Aube, France on October 26 |
-| 1780 | Begins legal studies in Reims |
-| 1785 | Receives law degree and becomes an advocate in Paris |
-| 1787 | Purchases office of avocat aux conseils du roi; marries Antoinette Gabrielle Charpentier |
-| 1789 | French Revolution begins; Danton becomes active in Parisian politics |
-| 1790 | Helps found the Cordeliers Club |
-| 1791 | Becomes president of the Cordeliers Club; grows in prominence as radical leader |
+| Year | Event                                                                                                         |
+| ---- | ------------------------------------------------------------------------------------------------------------- |
+| 1759 | Born in Arcis-sur-Aube, France on October 26                                                                  |
+| 1780 | Begins legal studies in Reims                                                                                 |
+| 1785 | Receives law degree and becomes an advocate in Paris                                                          |
+| 1787 | Purchases office of avocat aux conseils du roi; marries Antoinette Gabrielle Charpentier                      |
+| 1789 | French Revolution begins; Danton becomes active in Parisian politics                                          |
+| 1790 | Helps found the Cordeliers Club                                                                               |
+| 1791 | Becomes president of the Cordeliers Club; grows in prominence as radical leader                               |
 | 1792 | Appointed Minister of Justice (August 11); plays key role in August 10 insurrection overthrowing the monarchy |
-| 1792 | Delivers famous "De l'audace" speech (September 2); elected to National Convention (September 20) |
-| 1793 | First wife Antoinette dies (February); votes for execution of Louis XVI |
-| 1793 | Helps establish Committee of Public Safety (April); serves as its first president |
-| 1793 | Marries Louise Sébastienne Gély (June) |
-| 1793 | Begins advocating for clemency and moderation (December) |
-| 1794 | Arrested on charges of conspiracy and corruption (March 30) |
-| 1794 | Tried before Revolutionary Tribunal (April 2-5) |
-| 1794 | Executed by guillotine in Paris (April 5) |
+| 1792 | Delivers famous "De l'audace" speech (September 2); elected to National Convention (September 20)             |
+| 1793 | First wife Antoinette dies (February); votes for execution of Louis XVI                                       |
+| 1793 | Helps establish Committee of Public Safety (April); serves as its first president                             |
+| 1793 | Marries Louise Sébastienne Gély (June)                                                                        |
+| 1793 | Begins advocating for clemency and moderation (December)                                                      |
+| 1794 | Arrested on charges of conspiracy and corruption (March 30)                                                   |
+| 1794 | Tried before Revolutionary Tribunal (April 2-5)                                                               |
+| 1794 | Executed by guillotine in Paris (April 5)                                                                     |
 
 ---
 
@@ -172,90 +172,176 @@ Reported final words reflecting his disillusionment with revolutionary politics 
 
 ## References
 
-[^1]: Norman Hampson, *Danton* (New York: Holmes & Meier, 1978), 12-15.
-[^2]: François Furet and Mona Ozouf, eds., *A Critical Dictionary of the French Revolution* (Cambridge: Harvard University Press, 1989), 213.
-[^3]: Norman Hampson, *Danton*, 13-14.
-[^4]: Hilaire Belloc, *Danton: A Study* (London: Nisbet & Co., 1899), 25-30.
-[^5]: R.R. Palmer, *Twelve Who Ruled: The Year of Terror in the French Revolution* (Princeton: Princeton University Press, 1941), 67.
-[^6]: Norman Hampson, *Danton*, 18-20.
-[^7]: Hilaire Belloc, *Danton: A Study*, 35-38.
-[^8]: Albert Soboul, *The French Revolution 1787-1799* (New York: Vintage Books, 1975), 245.
-[^9]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 214.
-[^10]: Simon Schama, *Citizens: A Chronicle of the French Revolution* (New York: Knopf, 1989), 612.
-[^11]: Norman Hampson, *Danton*, 42-45.
-[^12]: Timothy Tackett, *The Coming of the Terror in the French Revolution* (Cambridge: Harvard University Press, 2015), 231-235.
-[^13]: R.R. Palmer, *Twelve Who Ruled*, 68.
-[^14]: Simon Schama, *Citizens*, 637.
-[^15]: Timothy Tackett, *The Coming of the Terror*, 256-259.
-[^16]: Albert Soboul, *The French Revolution 1787-1799*, 289.
-[^17]: R.R. Palmer, *Twelve Who Ruled*, 70-73.
-[^18]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 215.
-[^19]: David Andress, *The Terror: The Merciless War for Freedom in Revolutionary France* (New York: Farrar, Straus and Giroux, 2006), 178.
-[^20]: Norman Hampson, *Danton*, 98-102.
-[^21]: Albert Mathiez, *The French Revolution* (New York: Russell & Russell, 1962), 387.
-[^22]: R.R. Palmer, *Twelve Who Ruled*, 89-92.
-[^23]: Ruth Scurr, *Fatal Purity: Robespierre and the French Revolution* (New York: Metropolitan Books, 2006), 268.
-[^24]: David Andress, *The Terror*, 201.
-[^25]: Albert Soboul, *The French Revolution 1787-1799*, 312.
-[^26]: R.R. Palmer, *Twelve Who Ruled*, 95.
-[^27]: Norman Hampson, *Danton*, 115-118.
-[^28]: Jules Michelet, *History of the French Revolution* (Chicago: University of Chicago Press, 1967), 645.
-[^29]: Simon Schama, *Citizens*, 784.
-[^30]: Albert Mathiez, *The French Revolution*, 389-391.
-[^31]: Norman Hampson, *Danton*, 125-127.
-[^32]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 216.
-[^33]: David Andress, *The Terror*, 289.
-[^34]: Timothy Tackett, *The Coming of the Terror*, 257.
-[^35]: Simon Schama, *Citizens*, 641.
-[^36]: R.R. Palmer, *Twelve Who Ruled*, 312-315.
-[^37]: Norman Hampson, *Danton*, 145-150.
-[^38]: David Andress, *The Terror*, 315.
-[^39]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 217.
-[^40]: Albert Mathiez, *The French Revolution*, 420.
-[^41]: Norman Hampson, *Danton*, 174.
-[^42]: Hilaire Belloc, *Danton: A Study*, 38.
-[^43]: Norman Hampson, *Danton*, 110-112.
-[^44]: Ruth Scurr, *Fatal Purity*, 291.
-[^45]: Norman Hampson, *Danton*, 113.
-[^46]: Simon Schama, *Citizens*, 785.
-[^47]: Hilaire Belloc, *Danton: A Study*, 142.
-[^48]: Norman Hampson, *Danton*, 14.
-[^49]: Simon Schama, *Citizens*, 613.
-[^50]: Ruth Scurr, *Fatal Purity*, 269.
-[^51]: Norman Hampson, *Danton*, 175-176.
-[^52]: Hilaire Belloc, *Danton: A Study*, 189.
-[^53]: David Andress, *The Terror*, 345.
-[^54]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 218.
-[^55]: Jules Michelet, *History of the French Revolution*, 723-725.
+[^1]: Norman Hampson, _Danton_ (New York: Holmes & Meier, 1978), 12-15.
+
+[^2]: François Furet and Mona Ozouf, eds., _A Critical Dictionary of the French Revolution_ (Cambridge: Harvard University Press, 1989), 213.
+
+[^3]: Norman Hampson, _Danton_, 13-14.
+
+[^4]: Hilaire Belloc, _Danton: A Study_ (London: Nisbet & Co., 1899), 25-30.
+
+[^5]: R.R. Palmer, _Twelve Who Ruled: The Year of Terror in the French Revolution_ (Princeton: Princeton University Press, 1941), 67.
+
+[^6]: Norman Hampson, _Danton_, 18-20.
+
+[^7]: Hilaire Belloc, _Danton: A Study_, 35-38.
+
+[^8]: Albert Soboul, _The French Revolution 1787-1799_ (New York: Vintage Books, 1975), 245.
+
+[^9]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 214.
+
+[^10]: Simon Schama, _Citizens: A Chronicle of the French Revolution_ (New York: Knopf, 1989), 612.
+
+[^11]: Norman Hampson, _Danton_, 42-45.
+
+[^12]: Timothy Tackett, _The Coming of the Terror in the French Revolution_ (Cambridge: Harvard University Press, 2015), 231-235.
+
+[^13]: R.R. Palmer, _Twelve Who Ruled_, 68.
+
+[^14]: Simon Schama, _Citizens_, 637.
+
+[^15]: Timothy Tackett, _The Coming of the Terror_, 256-259.
+
+[^16]: Albert Soboul, _The French Revolution 1787-1799_, 289.
+
+[^17]: R.R. Palmer, _Twelve Who Ruled_, 70-73.
+
+[^18]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 215.
+
+[^19]: David Andress, _The Terror: The Merciless War for Freedom in Revolutionary France_ (New York: Farrar, Straus and Giroux, 2006), 178.
+
+[^20]: Norman Hampson, _Danton_, 98-102.
+
+[^21]: Albert Mathiez, _The French Revolution_ (New York: Russell & Russell, 1962), 387.
+
+[^22]: R.R. Palmer, _Twelve Who Ruled_, 89-92.
+
+[^23]: Ruth Scurr, _Fatal Purity: Robespierre and the French Revolution_ (New York: Metropolitan Books, 2006), 268.
+
+[^24]: David Andress, _The Terror_, 201.
+
+[^25]: Albert Soboul, _The French Revolution 1787-1799_, 312.
+
+[^26]: R.R. Palmer, _Twelve Who Ruled_, 95.
+
+[^27]: Norman Hampson, _Danton_, 115-118.
+
+[^28]: Jules Michelet, _History of the French Revolution_ (Chicago: University of Chicago Press, 1967), 645.
+
+[^29]: Simon Schama, _Citizens_, 784.
+
+[^30]: Albert Mathiez, _The French Revolution_, 389-391.
+
+[^31]: Norman Hampson, _Danton_, 125-127.
+
+[^32]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 216.
+
+[^33]: David Andress, _The Terror_, 289.
+
+[^34]: Timothy Tackett, _The Coming of the Terror_, 257.
+
+[^35]: Simon Schama, _Citizens_, 641.
+
+[^36]: R.R. Palmer, _Twelve Who Ruled_, 312-315.
+
+[^37]: Norman Hampson, _Danton_, 145-150.
+
+[^38]: David Andress, _The Terror_, 315.
+
+[^39]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 217.
+
+[^40]: Albert Mathiez, _The French Revolution_, 420.
+
+[^41]: Norman Hampson, _Danton_, 174.
+
+[^42]: Hilaire Belloc, _Danton: A Study_, 38.
+
+[^43]: Norman Hampson, _Danton_, 110-112.
+
+[^44]: Ruth Scurr, _Fatal Purity_, 291.
+
+[^45]: Norman Hampson, _Danton_, 113.
+
+[^46]: Simon Schama, _Citizens_, 785.
+
+[^47]: Hilaire Belloc, _Danton: A Study_, 142.
+
+[^48]: Norman Hampson, _Danton_, 14.
+
+[^49]: Simon Schama, _Citizens_, 613.
+
+[^50]: Ruth Scurr, _Fatal Purity_, 269.
+
+[^51]: Norman Hampson, _Danton_, 175-176.
+
+[^52]: Hilaire Belloc, _Danton: A Study_, 189.
+
+[^53]: David Andress, _The Terror_, 345.
+
+[^54]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 218.
+
+[^55]: Jules Michelet, _History of the French Revolution_, 723-725.
+
 [^56]: "Statue of Danton," Paris City Guide, accessed December 21, 2025.
-[^57]: Albert Soboul, *The French Revolution 1787-1799*, 456.
-[^58]: Norman Hampson, *Danton*, 180.
-[^59]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 219.
-[^60]: Norman Hampson, *Danton*, 152.
-[^61]: Timothy Tackett, *The Coming of the Terror*, 258.
-[^62]: David Andress, *The Terror*, 401.
-[^63]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 215.
-[^64]: R.R. Palmer, *Twelve Who Ruled*, 71.
-[^65]: Norman Hampson, *Danton*, 149.
-[^66]: David Andress, *The Terror*, 318.
-[^67]: Albert Soboul, *The French Revolution 1787-1799*, 246.
-[^68]: Norman Hampson, *Danton*, 116.
-[^69]: Hilaire Belloc, *Danton: A Study*, 165-170.
-[^70]: Norman Hampson, *Danton*, 128-130.
-[^71]: Lynn Hunt, *Politics, Culture, and Class in the French Revolution* (Berkeley: University of California Press, 1984), 45.
-[^72]: François Furet, *Interpreting the French Revolution* (Cambridge: Cambridge University Press, 1981), 67.
-[^73]: Ruth Scurr, *Fatal Purity*, 315.
-[^74]: Norman Hampson, *Danton*, 129.
-[^75]: Albert Mathiez, *The French Revolution*, 421.
-[^76]: Albert Soboul, *The Sans-Culottes* (Princeton: Princeton University Press, 1980), 189.
-[^77]: David Andress, *The Terror*, 135.
-[^78]: Timothy Tackett, *The Coming of the Terror*, 259.
-[^79]: Simon Schama, *Citizens*, 786.
-[^80]: François Furet and Mona Ozouf, *A Critical Dictionary of the French Revolution*, 217.
-[^81]: Joan B. Landes, *Women and the Public Sphere in the Age of the French Revolution* (Ithaca: Cornell University Press, 1988), 156.
-[^82]: Lynn Hunt, *The Family Romance of the French Revolution* (Berkeley: University of California Press, 1992), 98.
-[^83]: Simon Schama, *Citizens*, 637.
-[^84]: Jules Michelet, *History of the French Revolution*, 645.
-[^85]: Norman Hampson, *Danton*, 174.
-[^86]: Hilaire Belloc, *Danton: A Study*, 187.
-[^87]: Norman Hampson, *Danton*, 173-174.
+
+[^57]: Albert Soboul, _The French Revolution 1787-1799_, 456.
+
+[^58]: Norman Hampson, _Danton_, 180.
+
+[^59]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 219.
+
+[^60]: Norman Hampson, _Danton_, 152.
+
+[^61]: Timothy Tackett, _The Coming of the Terror_, 258.
+
+[^62]: David Andress, _The Terror_, 401.
+
+[^63]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 215.
+
+[^64]: R.R. Palmer, _Twelve Who Ruled_, 71.
+
+[^65]: Norman Hampson, _Danton_, 149.
+
+[^66]: David Andress, _The Terror_, 318.
+
+[^67]: Albert Soboul, _The French Revolution 1787-1799_, 246.
+
+[^68]: Norman Hampson, _Danton_, 116.
+
+[^69]: Hilaire Belloc, _Danton: A Study_, 165-170.
+
+[^70]: Norman Hampson, _Danton_, 128-130.
+
+[^71]: Lynn Hunt, _Politics, Culture, and Class in the French Revolution_ (Berkeley: University of California Press, 1984), 45.
+
+[^72]: François Furet, _Interpreting the French Revolution_ (Cambridge: Cambridge University Press, 1981), 67.
+
+[^73]: Ruth Scurr, _Fatal Purity_, 315.
+
+[^74]: Norman Hampson, _Danton_, 129.
+
+[^75]: Albert Mathiez, _The French Revolution_, 421.
+
+[^76]: Albert Soboul, _The Sans-Culottes_ (Princeton: Princeton University Press, 1980), 189.
+
+[^77]: David Andress, _The Terror_, 135.
+
+[^78]: Timothy Tackett, _The Coming of the Terror_, 259.
+
+[^79]: Simon Schama, _Citizens_, 786.
+
+[^80]: François Furet and Mona Ozouf, _A Critical Dictionary of the French Revolution_, 217.
+
+[^81]: Joan B. Landes, _Women and the Public Sphere in the Age of the French Revolution_ (Ithaca: Cornell University Press, 1988), 156.
+
+[^82]: Lynn Hunt, _The Family Romance of the French Revolution_ (Berkeley: University of California Press, 1992), 98.
+
+[^83]: Simon Schama, _Citizens_, 637.
+
+[^84]: Jules Michelet, _History of the French Revolution_, 645.
+
+[^85]: Norman Hampson, _Danton_, 174.
+
+[^86]: Hilaire Belloc, _Danton: A Study_, 187.
+
+[^87]: Norman Hampson, _Danton_, 173-174.

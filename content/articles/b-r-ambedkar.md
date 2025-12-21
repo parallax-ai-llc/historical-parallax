@@ -4,7 +4,8 @@ name: "B. R. Ambedkar"
 birth: "1891-04-14"
 death: "1956-12-06"
 nationality: "India"
-occupation: ["Jurist", "Economist", "Social Reformer", "Political Leader", "Constitutional Architect"]
+occupation:
+  ["Jurist", "Economist", "Social Reformer", "Political Leader", "Constitutional Architect"]
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dr._Bhimrao_Ambedkar.jpg/800px-Dr._Bhimrao_Ambedkar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/B._R._Ambedkar"
@@ -61,7 +62,7 @@ Ambedkar also championed labor rights, playing a significant role in bringing ab
 
 **Conversion to Buddhism**: Ambedkar's most dramatic act of resistance came on October 14, 1956, when he publicly converted to Buddhism in Nagpur, along with approximately 400,000 to 600,000 followers. After decades of fighting within Hinduism for Dalit rights, Ambedkar concluded that the theological foundations of caste discrimination made true equality impossible within Hinduism. In 1935, he had declared, "I was born a Hindu, but I will not die as a Hindu." His conversion to Buddhism—which he interpreted as a rational, egalitarian philosophy without caste—represented both a symbolic rejection of Hindu supremacy and a practical strategy for Dalit liberation. This sparked the Dalit Buddhist movement, with millions subsequently converting. By the 1961 census, over 90% of Maharashtra's 3 million Mahars had become Buddhists.[^29][^30][^31]
 
-**Literary and Intellectual Output**: Ambedkar was a prolific writer and editor. He founded several periodicals including the Marathi fortnightly *Bahishkrit Bharat* (1927) and the English weekly *Janata* (1930). His most influential work, *Annihilation of Caste* (1936), was an undelivered speech that became a devastating critique of the caste system, arguing that inter-caste dining and marriage were insufficient remedies and that the religious foundations of caste must be destroyed. The book remains one of the most powerful anti-caste texts ever written. His final work, *The Buddha and His Dhamma* (1957), published posthumously, articulated his vision of Buddhism as a philosophy for social change.[^32][^33]
+**Literary and Intellectual Output**: Ambedkar was a prolific writer and editor. He founded several periodicals including the Marathi fortnightly _Bahishkrit Bharat_ (1927) and the English weekly _Janata_ (1930). His most influential work, _Annihilation of Caste_ (1936), was an undelivered speech that became a devastating critique of the caste system, arguing that inter-caste dining and marriage were insufficient remedies and that the religious foundations of caste must be destroyed. The book remains one of the most powerful anti-caste texts ever written. His final work, _The Buddha and His Dhamma_ (1957), published posthumously, articulated his vision of Buddhism as a philosophy for social change.[^32][^33]
 
 ---
 
@@ -69,13 +70,13 @@ Ambedkar also championed labor rights, playing a significant role in bringing ab
 
 Despite his towering achievements, Ambedkar's life and thought have been subject to significant controversies and criticisms, both during his lifetime and in posthumous assessments.
 
-**Conflict with Gandhi and the Nationalist Movement**: Ambedkar's most famous controversy was his bitter conflict with Mahatma Gandhi, whom he saw as a defender of the caste system despite Gandhi's rhetoric about uplifting "Harijans" (God's children), his patronizing term for untouchables. Ambedkar rejected this terminology and Gandhi's approach as paternalistic and inadequate. In *Annihilation of Caste* and other writings, Ambedkar delivered searing critiques not just of the caste system but of Gandhi and Jawaharlal Nehru's leadership of the independence movement, accusing them of prioritizing political independence while neglecting social revolution.[^34]
+**Conflict with Gandhi and the Nationalist Movement**: Ambedkar's most famous controversy was his bitter conflict with Mahatma Gandhi, whom he saw as a defender of the caste system despite Gandhi's rhetoric about uplifting "Harijans" (God's children), his patronizing term for untouchables. Ambedkar rejected this terminology and Gandhi's approach as paternalistic and inadequate. In _Annihilation of Caste_ and other writings, Ambedkar delivered searing critiques not just of the caste system but of Gandhi and Jawaharlal Nehru's leadership of the independence movement, accusing them of prioritizing political independence while neglecting social revolution.[^34]
 
 Ambedkar has been criticized for his "one-sided views on the issue of caste at the expense of cooperation with the larger nationalist movement." Some historians argue that his focus on caste conflicts diverted energy from the anti-colonial struggle and that his acceptance of British invitations to constitutional conferences made him appear collaborationist. Gandhi and Congress leaders often portrayed Ambedkar as divisive and a tool of British divide-and-rule policies.[^35]
 
 **Views on Hinduism and Islam**: Ambedkar's critique of Hinduism was unsparing and has remained controversial. Scholar Bhikhu Parekh describes Ambedkar's view as "quasi-Manichaean," seeing Hinduism and Hindu society in starkly black-and-white terms without acknowledging reform movements or positive elements. While Ambedkar's critique was rooted in lived experience of oppression, critics argue it sometimes lacked nuance and alienated potential allies in upper-caste reform movements.[^36]
 
-Ambedkar was also critical of Islam, despite Muslims being fellow sufferers of caste Hindu dominance. In his book *Pakistan or the Partition of India* (1940), Ambedkar opposed the creation of Pakistan but also provided detailed criticisms of Islamic society and history, arguing that Islam had its own forms of intolerance and inequality. These views have been controversial, with some seeing them as necessary criticism and others as unfairly harsh.[^37]
+Ambedkar was also critical of Islam, despite Muslims being fellow sufferers of caste Hindu dominance. In his book _Pakistan or the Partition of India_ (1940), Ambedkar opposed the creation of Pakistan but also provided detailed criticisms of Islamic society and history, arguing that Islam had its own forms of intolerance and inequality. These views have been controversial, with some seeing them as necessary criticism and others as unfairly harsh.[^37]
 
 **Organizational Weaknesses**: Some biographers have criticized Ambedkar for neglecting organization-building. Despite founding the Independent Labour Party (1936) and the All India Scheduled Castes Federation (1942), these political formations never achieved mass organizational strength comparable to the Indian National Congress. Ambedkar's focus on intellectual and legal work, some argue, came at the expense of building durable grassroots political structures that could sustain the movement beyond his lifetime.[^38]
 
@@ -99,11 +100,11 @@ After Ramabai's death, Ambedkar remained unmarried for over a decade, pouring hi
 
 The marriage was revolutionary for multiple reasons. It was an inter-caste marriage at the highest level of social difference—between an untouchable man and a Brahmin woman—directly challenging the caste system Ambedkar spent his life fighting. Moreover, Savita was 39 at the time of marriage, considerably younger than Ambedkar but past the traditional marriage age. The marriage reflected Ambedkar's commitment to practicing the social revolution he preached.[^46]
 
-Savita became Ambedkar's intellectual companion and caregiver during his final years, which were marked by deteriorating health due to diabetes and other ailments. In the preface to *The Buddha and His Dhamma*, Ambedkar acknowledged that Savita had "increased his life by 8-10 years" through her medical care and companionship. On October 14, 1956, Savita converted to Buddhism alongside Ambedkar in the historic mass conversion at Deekshabhoomi, Nagpur.[^47][^48]
+Savita became Ambedkar's intellectual companion and caregiver during his final years, which were marked by deteriorating health due to diabetes and other ailments. In the preface to _The Buddha and His Dhamma_, Ambedkar acknowledged that Savita had "increased his life by 8-10 years" through her medical care and companionship. On October 14, 1956, Savita converted to Buddhism alongside Ambedkar in the historic mass conversion at Deekshabhoomi, Nagpur.[^47][^48]
 
 Ambedkar's personality, according to those who knew him, combined fierce intellectual rigor with personal austerity. He was known as a voracious reader who accumulated a personal library of over 50,000 books. His work ethic was legendary—he often worked late into the night on constitutional drafts, legal writings, and social reform projects. The stress of this relentless schedule, combined with the psychological toll of fighting caste discrimination throughout his life, took a severe toll on his health.[^49]
 
-Bhimrao Ramji Ambedkar died on December 6, 1956, at his home in Delhi, just three days after completing the manuscript of *The Buddha and His Dhamma*. He was 65 years old. The government of India investigated his death and declared that he died of natural causes, attributed to complications from diabetes and chronic ailments. His death came barely two months after his conversion to Buddhism, preventing him from witnessing the full flowering of the Dalit Buddhist movement he initiated. Savita Ambedkar survived him by nearly 47 years, passing away on May 29, 2003, at age 94 at J.J. Hospital in Mumbai.[^50][^51]
+Bhimrao Ramji Ambedkar died on December 6, 1956, at his home in Delhi, just three days after completing the manuscript of _The Buddha and His Dhamma_. He was 65 years old. The government of India investigated his death and declared that he died of natural causes, attributed to complications from diabetes and chronic ailments. His death came barely two months after his conversion to Buddhism, preventing him from witnessing the full flowering of the Dalit Buddhist movement he initiated. Savita Ambedkar survived him by nearly 47 years, passing away on May 29, 2003, at age 94 at J.J. Hospital in Mumbai.[^50][^51]
 
 ---
 
@@ -149,7 +150,7 @@ Feminist scholars increasingly appreciate Ambedkar's championship of women's rig
 
 Columbia University and the London School of Economics now celebrate Ambedkar as among their most distinguished alumni. International conferences on Ambedkar's thought are regularly held, and his works are translated into multiple languages. Scholar Christopher Queen notes Ambedkar's influence on global Buddhism, calling him one of Buddhism's most important modern interpreters.[^67]
 
-**Symbol of Resistance**: For millions of Dalits and other marginalized communities, Ambedkar represents hope, dignity, and the possibility of transformation. Writer Arundhati Roy, in her introduction to *Annihilation of Caste*, writes, "Ambedkar's work is a searing critique not just of caste but of the entire edifice of power in South Asia." His personal journey—from untouchable boy forbidden to touch a water pitcher to architect of India's Constitution—embodies the radical possibility of merit and determination overcoming birth-based hierarchy.[^68]
+**Symbol of Resistance**: For millions of Dalits and other marginalized communities, Ambedkar represents hope, dignity, and the possibility of transformation. Writer Arundhati Roy, in her introduction to _Annihilation of Caste_, writes, "Ambedkar's work is a searing critique not just of caste but of the entire edifice of power in South Asia." His personal journey—from untouchable boy forbidden to touch a water pitcher to architect of India's Constitution—embodies the radical possibility of merit and determination overcoming birth-based hierarchy.[^68]
 
 ### Negative Views
 
@@ -175,39 +176,39 @@ Despite these criticisms, the scholarly and popular consensus increasingly recog
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1891 | Born on April 14 in Mhow, Central India, to Ramji Sakpal and Bhimabai |
-| 1897 | Mother Bhimabai passes away |
-| 1906 | Married to nine-year-old Ramabai |
-| 1907 | Passes matriculation examination, enters Elphinstone College |
-| 1912 | Graduates from Elphinstone College, University of Bombay |
-| 1913 | Leaves for Columbia University, New York, on Baroda State Scholarship |
-| 1915 | Awarded M.A. degree in Economics from Columbia University |
-| 1916 | Awarded Ph.D. from Columbia University |
-| 1920 | Leaves for London School of Economics |
-| 1923 | Awarded D.Sc. from London School of Economics; called to the Bar at Gray's Inn |
-| 1924 | Establishes Bahishkrit Hitakarini Sabha with motto "Educate, Agitate, Organize" |
-| 1927 | Leads historic Mahad Satyagraha for water rights (March 20); starts *Bahishkrit Bharat* periodical |
-| 1930 | Starts Kalaram Temple Entry Satyagraha; attends First Round Table Conference in London |
-| 1932 | Attends Second and Third Round Table Conferences; signs Poona Pact with Gandhi (September 24) |
-| 1935 | Ramabai dies (May 27); Yeola Conversion Conference declaration: "I will not die as a Hindu" |
-| 1936 | Forms Independent Labour Party; publishes *Annihilation of Caste* (May 15) |
-| 1942 | Forms All India Scheduled Castes Federation |
-| 1947 | Appointed Law Minister in Nehru's cabinet; begins work as Chairman of Constitution Drafting Committee |
-| 1948 | Marries Dr. Sharada Kabir (Savita Ambedkar) on April 15 |
-| 1949 | Constituent Assembly adopts Constitution (November 26) |
-| 1950 | Constitution of India comes into effect (January 26) |
-| 1951 | Introduces Hindu Code Bill (February); resigns as Law Minister (September) |
-| 1952 | Loses parliamentary election |
+| Year | Event                                                                                                  |
+| ---- | ------------------------------------------------------------------------------------------------------ |
+| 1891 | Born on April 14 in Mhow, Central India, to Ramji Sakpal and Bhimabai                                  |
+| 1897 | Mother Bhimabai passes away                                                                            |
+| 1906 | Married to nine-year-old Ramabai                                                                       |
+| 1907 | Passes matriculation examination, enters Elphinstone College                                           |
+| 1912 | Graduates from Elphinstone College, University of Bombay                                               |
+| 1913 | Leaves for Columbia University, New York, on Baroda State Scholarship                                  |
+| 1915 | Awarded M.A. degree in Economics from Columbia University                                              |
+| 1916 | Awarded Ph.D. from Columbia University                                                                 |
+| 1920 | Leaves for London School of Economics                                                                  |
+| 1923 | Awarded D.Sc. from London School of Economics; called to the Bar at Gray's Inn                         |
+| 1924 | Establishes Bahishkrit Hitakarini Sabha with motto "Educate, Agitate, Organize"                        |
+| 1927 | Leads historic Mahad Satyagraha for water rights (March 20); starts _Bahishkrit Bharat_ periodical     |
+| 1930 | Starts Kalaram Temple Entry Satyagraha; attends First Round Table Conference in London                 |
+| 1932 | Attends Second and Third Round Table Conferences; signs Poona Pact with Gandhi (September 24)          |
+| 1935 | Ramabai dies (May 27); Yeola Conversion Conference declaration: "I will not die as a Hindu"            |
+| 1936 | Forms Independent Labour Party; publishes _Annihilation of Caste_ (May 15)                             |
+| 1942 | Forms All India Scheduled Castes Federation                                                            |
+| 1947 | Appointed Law Minister in Nehru's cabinet; begins work as Chairman of Constitution Drafting Committee  |
+| 1948 | Marries Dr. Sharada Kabir (Savita Ambedkar) on April 15                                                |
+| 1949 | Constituent Assembly adopts Constitution (November 26)                                                 |
+| 1950 | Constitution of India comes into effect (January 26)                                                   |
+| 1951 | Introduces Hindu Code Bill (February); resigns as Law Minister (September)                             |
+| 1952 | Loses parliamentary election                                                                           |
 | 1956 | Converts to Buddhism at Nagpur with 400,000-600,000 followers (October 14); dies in Delhi (December 6) |
-| 1990 | Posthumously awarded Bharat Ratna, India's highest civilian honor |
+| 1990 | Posthumously awarded Bharat Ratna, India's highest civilian honor                                      |
 
 ---
 
 ## Famous Quotes
 
-> "I measure the progress of a community by the degree of progress which women have achieved." 
+> "I measure the progress of a community by the degree of progress which women have achieved."
 
 Context: Ambedkar was a pioneer in linking caste oppression with gender oppression, arguing that women's status was the truest indicator of social advancement.[^76]
 
@@ -229,7 +230,7 @@ Context: Ambedkar's insight that legal rights are meaningless without social tra
 
 > "Caste is not a physical object like a wall of bricks or a line of barbed wire which prevents the Hindus from co-mingling and which has, therefore, to be pulled down. Caste is a notion; it is a state of the mind."
 
-Context: From *Annihilation of Caste*, this passage articulates Ambedkar's understanding that caste is fundamentally an ideological system requiring transformation of consciousness, not just social practices.[^81]
+Context: From _Annihilation of Caste_, this passage articulates Ambedkar's understanding that caste is fundamentally an ideological system requiring transformation of consciousness, not just social practices.[^81]
 
 > "The relationship between husband and wife should be one of closest friends."
 
@@ -244,85 +245,167 @@ Context: Spoken in his final address to the Constituent Assembly, this Dewey-inf
 ## References
 
 [^1]: B. R. Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/B._R._Ambedkar
+
 [^2]: Bhimrao Ramji Ambedkar | Biography, Books, Constitution of India, & Facts | Britannica. https://www.britannica.com/biography/Bhimrao-Ramji-Ambedkar
+
 [^3]: Dr. B. R. Ambedkar - Cultural India. https://culturalindia.net/reformers/br-ambedkar.html
+
 [^4]: The journey of Baba Saheb Ambedkar – Life, History & Works. https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2017835
+
 [^5]: B.R. Ambedkar - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/B.R._Ambedkar
+
 [^6]: Dr. B.R. Ambedkar: Biography, Contributions & Legacies. https://www.nextias.com/blog/dr-br-ambedkar/
+
 [^7]: B R Ambedkar Short Biography: Life Achievements and Legacy. https://www.vedantu.com/biography/dr-br-ambedkar-biography
+
 [^8]: B.R Ambedkar Biography: Birth, Early Life, Education, Political Career, Books, Legacy, and More. https://unacademy.com/content/general-awareness/b-r-ambedkar-biography/
+
 [^9]: Biography of Dr. B.R. Ambedkar | Life, Education and Achievements | All About Ambedkar. https://www.allaboutambedkar.com/biography
+
 [^10]: BRCM Law College » An Architect of Indian Constitution. https://brcmlawcollege.edu.in/about-us/an-architect-of-indian-constitution/
+
 [^11]: Dr. B.R. Ambedkar : The Chief Architect of the Indian Constitution. https://magazines.odisha.gov.in/orissareview/2018/Jan/engpdf/42-44.pdf
+
 [^12]: 100 Years of the Problem of Rupee: Dr. B.R. Ambedkar's Historic Thesis Shapes India's Economic Future. https://en.themooknayak.com/bahujan-nayak/100-years-of-the-problem-of-rupee-dr-br-ambedkars-historic-thesis-shapes-indias-economic-future
+
 [^13]: Father of Indian Constitution - Know Contributions of Dr Ambedkar. https://testbook.com/articles/father-of-the-indian-constitution
+
 [^14]: B. R. Ambedkar - Constitution of India. https://www.constitutionofindia.net/members/b-r-ambedkar/
+
 [^15]: Dr BR Ambedkar, Biography, Dalit Rights, Political Career, Legacies. https://vajiramandravi.com/upsc-exam/dr-br-ambedkar/
+
 [^16]: Round Table Conferences (India) - Wikipedia. https://en.wikipedia.org/wiki/Round_Table_Conferences_(India)
+
 [^17]: First Round Table Conference (12 November 1930 – 13 January 1931). https://www.ambedkaritetoday.com/2019/11/first-round-table-conference-and-ambedkar.html
+
 [^18]: Poona Pact - Wikipedia. https://en.wikipedia.org/wiki/Poona_Pact
+
 [^19]: Poona Pact 1932 (B.R Ambedkar and M.K Gandhi) Archives - Constitution of India. https://www.constitutionofindia.net/historical-constitution/poona-pact-1932-b-r-ambedkar-and-m-k-gandhi/
+
 [^20]: Dr. B.R. Ambedkar: "The Man Of The Millennium For Social Justice And Chief Architect Of The Indian Constitution". https://rcm.ac.in/dr-bhimrao-ramji-ambedkar-architect-of-the-modern-indian-constitution/
+
 [^21]: Dr Ambedkar: Architect of the Indian Constitution - Mainstream Weekly. https://www.mainstreamweekly.net/article2699.html
+
 [^22]: Dr. B.R. Ambedkar: The Architect of the Indian Constitution and a Voice for Dalit Liberation — Hindus for Human Rights. https://www.hindusforhumanrights.org/en/blog/dr-br-ambedkar-the-architect-of-the-indian-constitution-and-a-voice-for-dalit-liberation
+
 [^23]: B. R. Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/B._R._Ambedkar
+
 [^24]: Dr. B.R. Ambedkar and the Reserve Bank of India: The Forgotten Intellectual Architect. https://dalittimes.in/dr-b-r-ambedkar-and-the-reserve-bank-of-india-the-forgotten-intellectual-architect/
+
 [^25]: ECONOMICS OF DR B.R AMBEDKAR. https://www.jetir.org/papers/JETIR2112053.pdf
+
 [^26]: The Economist Who Built Modern India – How Ambedkar's Vision Laid the Financial Foundation of India | Velivada. https://velivada.com/2025/09/23/the-economist-who-built-modern-india-how-ambedkars-vision-laid-the-financial-foundation-of-india/
+
 [^27]: Annihilation of Caste - Wikipedia. https://en.wikipedia.org/wiki/Annihilation_of_Caste
+
 [^28]: Dr. B. R. Ambedkar - Dalits - LibGuides at University of Illinois at Urbana-Champaign. https://guides.library.illinois.edu/c.php?g=532151&p=3668213
+
 [^29]: Dalit Buddhist movement - Wikipedia. https://en.wikipedia.org/wiki/Dalit_Buddhist_movement
+
 [^30]: How Conversion of Dalits to Buddhism has Helped Dalits in their Emancipation? | Countercurrents. https://countercurrents.org/2025/05/how-conversion-of-dalits-to-buddhism-has-helped-dalits-in-their-emancipation/
+
 [^31]: Ambedkar, B. R., and The Buddhist Dalits | Encyclopedia.com. https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/ambedkar-b-r-and-buddhist-dalits
+
 [^32]: How anti-caste reformer BR Ambedkar left his legacy on modern Buddhism. https://religionnews.com/2025/05/05/how-anti-caste-reformer-b-r-ambedkar-left-his-legacy-on-modern-buddhism/
+
 [^33]: Navayana - Wikipedia. https://en.wikipedia.org/wiki/Navayana
+
 [^34]: How B.R Ambedkar Became a Symbol for Protesters in India | TIME. https://time.com/5770511/india-protests-br-ambedkar/
+
 [^35]: BR Ambedkar: Flawed Genius. https://openthemagazine.com/lounge/books/br-ambedkar-flawed-genius
+
 [^36]: B. R. Ambedkar's Legacy: Critique of Religion, Quest for Social Justice and the Paradox of Constitutionalism. https://ssalanka.org/b-r-ambedkars-legacy-critique-of-religion-quest-for-social-justice-and-the-paradox-of-constitutionalism/
+
 [^37]: B. R. Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/B._R._Ambedkar
+
 [^38]: BR Ambedkar: Flawed Genius. https://openthemagazine.com/lounge/books/br-ambedkar-flawed-genius
+
 [^39]: How Nehru and Congress Ignored and Insulted Dr B.R. Ambedkar - Dr. Syama Prasad Mookerjee Research Foundation. https://spmrf.org/how-nehru-and-congress-ignored-and-insulted-dr-b-r-ambedkar/
+
 [^40]: B. R. Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/B._R._Ambedkar
+
 [^41]: Why did B.R. Ambedkar Accept the Poona Pact? - Constitution of India. https://www.constitutionofindia.net/blog/why-did-b-r-ambedkar-accept-the-poona-pact/
+
 [^42]: BR Ambedkar's Two Wives: Ramabai's Sacrifice, 5 Kids Died, Married To A Lady Almost Of His Son's Age. https://www.bollywoodshaadis.com/articles/br-ambedkar-two-wives-ramabai-sacrifice-5-kids-died-married-savita-almost-son-age-49055
+
 [^43]: Ramabai Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/Ramabai_Bhimrao_Ambedkar
+
 [^44]: Ramabai Ambedkar – The Satyashodhak. https://thesatyashodhak.com/ramabai-ambedkar/
+
 [^45]: Savita Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/Savita_Ambedkar
+
 [^46]: How Ambedkar's family supported him in his journey- The Week. https://www.theweek.in/theweek/cover/2023/01/21/how-ambedkar-s-family-supported-him-in-his-journey.html
+
 [^47]: [Dalit History Month] Baba Saheb's Partners in Progress: A Glimpse into the Lives of his Resilient Wives, Ramabai and Savita. https://en.themooknayak.com/bahujan-nayak/baba-sahebs-partners-in-progress-a-glimpse-into-the-lives-of-his-resilient-wives-ramabai-and-savita
+
 [^48]: The journey of Baba Saheb Ambedkar – Life, History & Works. https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1916229
+
 [^49]: B. R. Ambedkar Age, Death, Wife, Children, Family, Biography & More » StarsUnfolded. https://starsunfolded.com/b-r-ambedkar/
+
 [^50]: B R Ambedkar Short Biography: Life Achievements and Legacy. https://www.vedantu.com/biography/dr-br-ambedkar-biography
+
 [^51]: Savita Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/Savita_Ambedkar
+
 [^52]: Dr. B.R. Ambedkar: The Architect of the Indian Constitution and a Voice for Dalit Liberation — Hindus for Human Rights. https://www.hindusforhumanrights.org/en/blog/dr-br-ambedkar-the-architect-of-the-indian-constitution-and-a-voice-for-dalit-liberation
+
 [^53]: Dr BR Ambedkar, Biography, Dalit Rights, Political Career, Legacies. https://vajiramandravi.com/upsc-exam/dr-br-ambedkar/
+
 [^54]: How B.R Ambedkar Became a Symbol for Protesters in India | TIME. https://time.com/5770511/india-protests-br-ambedkar/
+
 [^55]: B. R. Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/B._R._Ambedkar
+
 [^56]: Dalit Buddhist movement - Wikipedia. https://en.wikipedia.org/wiki/Dalit_Buddhist_movement
+
 [^57]: How Conversion of Dalits to Buddhism has Helped Dalits in their Emancipation? | Countercurrents. https://countercurrents.org/2025/05/how-conversion-of-dalits-to-buddhism-has-helped-dalits-in-their-emancipation/
+
 [^58]: How anti-caste reformer BR Ambedkar left his legacy on modern Buddhism. https://religionnews.com/2025/05/05/how-anti-caste-reformer-b-r-ambedkar-left-his-legacy-on-modern-buddhism/
+
 [^59]: B. R. Ambedkar - Wikipedia. https://en.wikipedia.org/wiki/B._R._Ambedkar
+
 [^60]: Bhimrao Ramji Ambedkar | Biography, Books, Constitution of India, & Facts | Britannica. https://www.britannica.com/biography/Bhimrao-Ramji-Ambedkar
+
 [^61]: Dr B. R. Ambedkar's Contribution to Indian Economic Thought. https://economicshub.substack.com/p/dr-b-r-ambedkars-contribution-to
+
 [^62]: Dr. B.R. Ambedkar : The Chief Architect of the Indian Constitution. https://magazines.odisha.gov.in/orissareview/2018/Jan/engpdf/42-44.pdf
+
 [^63]: Centenary of Dr. B.R. Ambedkar's enrolment as an advocate. https://main.sci.gov.in/AMB/Speech.php
+
 [^64]: An Insightful Account of the Life and Work of B.R. Ambedkar | The India Forum. https://www.theindiaforum.in/book-reviews/insightful-account-life-and-work-br-ambedkar
+
 [^65]: Dr. B. R. Ambedkar - Dalits - LibGuides at University of Illinois at Urbana-Champaign. https://guides.library.illinois.edu/c.php?g=532151&p=3668213
+
 [^66]: #1 Best Thesis of Dr BR Ambedkar | Anushram. https://www.anushram.com/blog/thesis-of-dr-br-ambedkar/
+
 [^67]: Christopher S. Queen, Dr. Ambedkar and Untouchability: Fighting the Indian Caste System (review) - PhilPapers. https://philpapers.org/rec/QUEDAA
+
 [^68]: Annihilation of Caste: The Annotated Critical Edition. https://www.amazon.com/Annihilation-Caste-Annotated-B-R-Ambedkar/dp/1784783528
+
 [^69]: Hatred towards Gandhi, Ambedkar, Nehru central element of BJP-RSS ideology: Congress. https://english.metrovaartha.com/amp/story/news/national/hatred-towards-gandhi-ambedkar-nehru-central-element-of-bjp-rss-ideology-congress
+
 [^70]: Dr. BR Ambedkar and his thought on socialism in India. https://www.j-humansciences.com/ojs/index.php/IJHS/article/download/2055/914/6680
+
 [^71]: BR Ambedkar: Flawed Genius. https://openthemagazine.com/lounge/books/br-ambedkar-flawed-genius
+
 [^72]: BR Ambedkar: Flawed Genius. https://openthemagazine.com/lounge/books/br-ambedkar-flawed-genius
+
 [^73]: B. R. Ambedkar's Legacy: Critique of Religion, Quest for Social Justice and the Paradox of Constitutionalism. https://ssalanka.org/b-r-ambedkars-legacy-critique-of-religion-quest-for-social-justice-and-the-paradox-of-constitutionalism/
+
 [^74]: Dalit Buddhist movement - Wikipedia. https://en.wikipedia.org/wiki/Dalit_Buddhist_movement
+
 [^75]: How B.R Ambedkar Became a Symbol for Protesters in India | TIME. https://time.com/5770511/india-protests-br-ambedkar/
+
 [^76]: B.R. Ambedkar Quotes (Author of Annihilation of Caste). https://www.goodreads.com/author/quotes/618535.B_R_Ambedkar
+
 [^77]: TOP 25 QUOTES BY B. R. AMBEDKAR (of 53) | A-Z Quotes. https://www.azquotes.com/author/333-B_R_Ambedkar
+
 [^78]: 32 Top B. R. Ambedkar Quotes That Prove What A Genius He Was. https://www.wisdomly.net/b-r-ambedkar-3657.php
+
 [^79]: B. R. Ambedkar - Wikiquote. https://en.wikiquote.org/wiki/B._R._Ambedkar
+
 [^80]: Dr. B. R. Ambedkar Quotes: Inspiring Slogans & Messages. https://www.vedantu.com/general-knowledge/br-ambedkar-quotes
+
 [^81]: Annihilation of Caste - Wikipedia. https://en.wikipedia.org/wiki/Annihilation_of_Caste
+
 [^82]: 16 Famous quotes by Dr. Babasaheb Ambedkar you ought to know - Ambedkar International Center. https://ambedkarinternationalcenter.org/2020/01/16-famous-quotes-by-dr-babasaheb-ambedkar-you-ought-to-know/
+
 [^83]: B. R. Ambedkar Quotes - BrainyQuote. https://www.brainyquote.com/authors/b-r-ambedkar-quotes

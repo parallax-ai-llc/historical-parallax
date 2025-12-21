@@ -129,32 +129,32 @@ The catastrophic famine of 1601-1603, which killed perhaps two million people—
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1552 | Born on August 12 in Russia to the Godunov family |
-| 1570 | Participated in the Serpeisk campaign as an archer of the guard |
-| 1571 | Became an oprichnik in Ivan the Terrible's personal guard; married Maria Skuratova-Belskaya |
-| 1580 | Sister Irina married Tsarevich Fyodor; promoted to rank of boyar |
-| 1584 | Ivan the Terrible died; became guardian to Tsar Fyodor I |
-| 1588 | Became sole regent and effective ruler of Russia |
-| 1589 | Established the Russian Patriarchate with Job as first patriarch (January 26) |
-| 1590 | War with Sweden began |
-| 1591 | Death of Tsarevich Dmitry of Uglich (May 15); Boris accused of ordering the murder |
-| 1595 | Treaty of Teusina ended war with Sweden; Russia recovered territories |
-| 1597 | Issued decree binding peasants to the land, establishing serfdom |
-| 1598 | Tsar Fyodor I died; Boris elected Tsar by zemsky sobor (February 17) |
-| 1600 | Completed enhancement of Ivan the Great Bell Tower (81 meters high); persecuted Romanov family (November) |
-| 1601 | Great famine began; construction of Zapasnoy Palace started |
-| 1601-1603 | Devastating famine killed approximately 30% of Russian population |
-| 1603 | Zapasnoy Palace completed; famine relief measures depleted treasury |
-| 1604 | Tomsk founded in Siberia; False Dmitry I invaded Russia from Poland (October); Boris suffered a stroke |
-| 1605 | Died suddenly on April 23 in the Moscow Kremlin; succeeded briefly by son Fyodor II |
+| Year      | Event                                                                                                     |
+| --------- | --------------------------------------------------------------------------------------------------------- |
+| 1552      | Born on August 12 in Russia to the Godunov family                                                         |
+| 1570      | Participated in the Serpeisk campaign as an archer of the guard                                           |
+| 1571      | Became an oprichnik in Ivan the Terrible's personal guard; married Maria Skuratova-Belskaya               |
+| 1580      | Sister Irina married Tsarevich Fyodor; promoted to rank of boyar                                          |
+| 1584      | Ivan the Terrible died; became guardian to Tsar Fyodor I                                                  |
+| 1588      | Became sole regent and effective ruler of Russia                                                          |
+| 1589      | Established the Russian Patriarchate with Job as first patriarch (January 26)                             |
+| 1590      | War with Sweden began                                                                                     |
+| 1591      | Death of Tsarevich Dmitry of Uglich (May 15); Boris accused of ordering the murder                        |
+| 1595      | Treaty of Teusina ended war with Sweden; Russia recovered territories                                     |
+| 1597      | Issued decree binding peasants to the land, establishing serfdom                                          |
+| 1598      | Tsar Fyodor I died; Boris elected Tsar by zemsky sobor (February 17)                                      |
+| 1600      | Completed enhancement of Ivan the Great Bell Tower (81 meters high); persecuted Romanov family (November) |
+| 1601      | Great famine began; construction of Zapasnoy Palace started                                               |
+| 1601-1603 | Devastating famine killed approximately 30% of Russian population                                         |
+| 1603      | Zapasnoy Palace completed; famine relief measures depleted treasury                                       |
+| 1604      | Tomsk founded in Siberia; False Dmitry I invaded Russia from Poland (October); Boris suffered a stroke    |
+| 1605      | Died suddenly on April 23 in the Moscow Kremlin; succeeded briefly by son Fyodor II                       |
 
 ---
 
 ## Famous Quotes
 
-> "My soul lays bare before you. Ye have seen with what humility and fear I took this mighty power upon me." 
+> "My soul lays bare before you. Ye have seen with what humility and fear I took this mighty power upon me."
 
 From Pushkin's "Boris Godunov," representing Boris's public declaration as tsar, reflecting the burden and responsibility he claimed to feel in assuming power.[^107]
 
@@ -175,112 +175,221 @@ This phrase reflects Muscovite governing policy at the time of Boris Godunov's r
 ## References
 
 [^1]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^2]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^3]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^4]: [The Time of Troubles | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-time-of-troubles/)
+
 [^5]: [Scholars determine Tsar Boris Godunov's exact date of birth](https://phys.org/news/2021-08-scholars-tsar-boris-godunov-exact.html)
+
 [^6]: [Controversial Ruler Tsar Boris Godunov's Exact Date Of Birth Determined By Scientists - Ancient Pages](https://www.ancientpages.com/2021/08/31/controversial-ruler-tsar-boris-godunovs-exact-date-of-birth-determined-by-scientists/)
+
 [^7]: [Godunov, Boris Fyodorovich | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/godunov-boris-fyodorovich)
+
 [^8]: [Boris Godunov - biography, photo, personal life, height, Board and politics](https://en.24smi.org/celebrity/45011-boris-godunov.html)
+
 [^9]: [Boris Godunov | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/boris-godunov)
+
 [^10]: [Boris Godunov – Russiapedia History and mythology Prominent Russians](https://russiapedia.rt.com/prominent-russians/history-and-mythology/boris-godunov/)
+
 [^11]: [Boris Godunov elected the Tsar of Russia | Presidential Library](https://www.prlib.ru/en/history/619062)
+
 [^12]: [Boris Godunov | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/boris-godunov)
+
 [^13]: [Boris Feodorovich Godunov | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/boris-feodorovich-godunov)
+
 [^14]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^15]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^16]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^17]: [Boris Godunov – Russiapedia History and mythology Prominent Russians](https://russiapedia.rt.com/prominent-russians/history-and-mythology/boris-godunov/index.html)
+
 [^18]: [Godunov, Boris Fyodorovich | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/godunov-boris-fyodorovich)
+
 [^19]: [Boris Godunov | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/boris-godunov)
+
 [^20]: [Boris Godunov elected the Tsar of Russia | Presidential Library](https://www.prlib.ru/en/history/619062)
+
 [^21]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^22]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^23]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^24]: [Boris Godunov | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/boris-godunov)
+
 [^25]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^26]: [Boris Feodorovich Godunov | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/boris-feodorovich-godunov)
+
 [^27]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^28]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^29]: [Boris Godunov – Russiapedia History and mythology Prominent Russians](https://russiapedia.rt.com/prominent-russians/history-and-mythology/boris-godunov/)
+
 [^30]: [The first Russian Patriarch: history, biography](https://www.tostpost.com/education/3602-the-first-russian-patriarch-history-biography.html)
+
 [^31]: [Job of Moscow - OrthodoxWiki](https://orthodoxwiki.org/Job_of_Moscow)
+
 [^32]: [Russian Patriarchate | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/russian-patriarchate)
+
 [^33]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^34]: [Zapasnoy Palace of Boris Godunov](https://kremlin-architectural-ensemble.kreml.ru/en-Us/architecture/view/zapasnoy-dvorets-borisa-godunova/)
+
 [^35]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^36]: [Museums of the Moscow Kremlin: ARCHITECTURAL ENSEMBLE OF THE MOSCOW KREMLIN](https://kremlin-architectural-ensemble.kreml.ru/en-Us/architecture/view/ansambl-kolokolni-ivana-velikogo-moskovskogo-kremlya/)
+
 [^37]: [THE KREMLIN: ITS BUILDINGS, ART AND SIGHTS | Facts and Details](https://factsanddetails.com/russia/Places/sub9_9a/entry-7019.html)
+
 [^38]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^39]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^40]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^41]: [Boris Godunov Biography, Life, Interesting Facts](https://www.sunsigns.org/famousbirthdays/profile/boris-godunov/)
+
 [^42]: [Boris Godunov | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/boris-godunov)
+
 [^43]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^44]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^45]: [Boris Godunov | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/boris-godunov)
+
 [^46]: [Dmitry of Uglich - Wikipedia](https://en.wikipedia.org/wiki/Dmitry_of_Uglich)
+
 [^47]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^48]: [1592: The Uglich Bell | Executed Today](https://www.executedtoday.com/2018/04/01/1592-the-uglich-bell/)
+
 [^49]: [The Curse of the Murdered Prince Dmitry of Uglich](https://firebirdsincowcountry.substack.com/p/the-curse-of-the-murdered-prince)
+
 [^50]: [Dmitry of Uglich | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/dmitry-uglich)
+
 [^51]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^52]: [The Murder of a Child and the Troubles of a Nation / OrthoChristian.Com](https://orthochristian.com/93752.html)
+
 [^53]: [1592: The Uglich Bell | Executed Today](https://www.executedtoday.com/2018/04/01/1592-the-uglich-bell/)
+
 [^54]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^55]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^56]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^57]: [Boris Godunov | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/boris-godunov)
+
 [^58]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^59]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^60]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^61]: [Serfdom in Russia - Wikipedia](https://en.wikipedia.org/wiki/Serfdom_in_Russia)
+
 [^62]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^63]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^64]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^65]: [Boris Godunov – Russiapedia History and mythology Prominent Russians](https://russiapedia.rt.com/prominent-russians/history-and-mythology/boris-godunov/index.html)
+
 [^66]: [Boris Godunov - biography, photo, personal life, height, Board and politics](https://en.24smi.org/celebrity/45011-boris-godunov.html)
+
 [^67]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^68]: [Feodor II of Russia](https://grokipedia.com/page/Feodor_II_of_Russia)
+
 [^69]: [Godunov, Boris Fyodorovich | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/godunov-boris-fyodorovich)
+
 [^70]: [Irina Godunova - Wikipedia](https://en.wikipedia.org/wiki/Irina_Godunova)
+
 [^71]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^72]: [Boris Godunov – the unlucky Russian tsar](https://www.gw2ru.com/history/87894-boris-godunov-unlucky-russian-tsar)
+
 [^73]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
-[^74]: [Boris Godunov (play) - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov_(play))
-[^75]: [Boris Godunov (opera) - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov_(opera))
+
+[^74]: [Boris Godunov (play) - Wikipedia](<https://en.wikipedia.org/wiki/Boris_Godunov_(play)>)
+
+[^75]: [Boris Godunov (opera) - Wikipedia](<https://en.wikipedia.org/wiki/Boris_Godunov_(opera)>)
+
 [^76]: [Boris Godunov | opera by Mussorgsky | Britannica](https://www.britannica.com/topic/Boris-Godunov-opera-by-Mussorgsky)
+
 [^77]: [Boris Godunov](https://www.rbo.org.uk/tickets-and-events/boris-godunov-richard-jones-details)
+
 [^78]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^79]: [Godunova, Xenia (1582–1622) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/godunova-xenia-1582-1622)
+
 [^80]: [Boris Godunov – Russiapedia History and mythology Prominent Russians](https://russiapedia.rt.com/prominent-russians/history-and-mythology/boris-godunov/index.html)
+
 [^81]: [Fyodor II | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/fyodor-ii)
+
 [^82]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^83]: [Boris Godunov | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/boris-godunov)
+
 [^84]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^85]: [Serfdom in Russia - Wikipedia](https://en.wikipedia.org/wiki/Serfdom_in_Russia)
+
 [^86]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^87]: [Boris Godunov | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/boris-godunov)
+
 [^88]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^89]: [The Murder of a Child and the Troubles of a Nation / OrthoChristian.Com](https://orthochristian.com/93752.html)
+
 [^90]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^91]: [Russian Patriarchate | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/russian-patriarchate)
+
 [^92]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^93]: [Zapasnoy Palace of Boris Godunov](https://kremlin-architectural-ensemble.kreml.ru/en-Us/architecture/view/zapasnoy-dvorets-borisa-godunova/)
+
 [^94]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^95]: [Boris Godunov | University of Wisconsin Press](https://uwpress.wisc.edu/Books/B/Boris-Godunov)
+
 [^96]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^97]: [Boris Godunov | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/boris-godunov)
+
 [^98]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^99]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^100]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^101]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^102]: [Boris Godunov | Tsar, Biography, Opera, & Time of Troubles | Britannica](https://www.britannica.com/biography/Boris-Godunov-tsar-of-Russia)
+
 [^103]: [Boris Godunov - Wikipedia](https://en.wikipedia.org/wiki/Boris_Godunov)
+
 [^104]: [Russian famine of 1601–1603 - Wikipedia](https://en.wikipedia.org/wiki/Russian_famine_of_1601–1603)
+
 [^105]: [The Time of Troubles | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-time-of-troubles/)
+
 [^106]: [Boris Godunov - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Boris_Godunov)
+
 [^107]: [Boris Godunov Quotes - eNotes.com](https://www.enotes.com/topics/boris-godunov/quotes)
+
 [^108]: [Boris Godunov poem - Alexander Pushkin](https://www.best-poems.net/poem/boris-godunov-by-alexander-pushkin.html)
+
 [^109]: ["Boris Godunov" by Alexander Pushkin - read the full text](https://aleksandr-pushkin.su/poemy/boris-godunov/?lang=en)
+
 [^110]: [Boris Godunov](https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/opera/rep/late-romantic/boris-godunov/)

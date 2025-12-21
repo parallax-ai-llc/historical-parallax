@@ -3,7 +3,8 @@ id: "michelle-bachelet"
 name: "Michelle Bachelet"
 birth: "1951-09-29"
 nationality: "Chile"
-occupation: ["Politician", "Physician", "UN High Commissioner for Human Rights", "President of Chile"]
+occupation:
+  ["Politician", "Physician", "UN High Commissioner for Human Rights", "President of Chile"]
 image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Michelle_Bachelet_2023_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michelle_Bachelet"
@@ -162,37 +163,37 @@ Academic assessments have questioned whether her two presidencies represented ge
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1951 | Born on September 29 in Santiago, Chile |
-| 1964 | Family returns to Chile from United States |
-| 1970 | Enters medical school at University of Chile; joins Socialist Youth |
-| 1973 | Military coup overthrows Salvador Allende |
-| 1974 | Father Alberto Bachelet dies in prison after torture (March) |
-| 1975 | Arrested and tortured at Villa Grimaldi with her mother (January); goes into exile |
-| 1977 | Marries Jorge Dávalos |
-| 1978 | First child, Sebastián, born in Leipzig, Germany |
-| 1979 | Returns to Chile; continues medical studies |
-| 1982 | Graduates from University of Chile as surgeon |
-| 1984 | Second child, Francisca Valentina, born (February) |
-| 1995 | Joins Socialist Party's Central Committee |
-| 2000 | Appointed Minister of Health under President Lagos |
-| 2002 | Appointed Minister of National Defense (January 7) |
-| 2004 | Resigns from Defense Ministry to run for president (October 1) |
-| 2006 | Elected first female President of Chile (January 15); takes office (March 11) |
-| 2006 | Penguin Revolution student protests begin |
-| 2007 | Transantiago public transport system launched (February); approval rating falls |
-| 2008 | Signs pension reform into law (March) |
-| 2010 | Opens Museum of Memory and Human Rights (January); leaves office with 84% approval (March) |
-| 2011 | Appointed first Director of UN Women |
-| 2013 | Resigns from UN Women (March 23); re-elected president with 62% (December) |
-| 2014 | Begins second presidential term (March 11) |
-| 2015 | Signs law providing free university education for 200,000 students |
-| 2017 | Designates 720,000 square kilometer marine protection area around Easter Island (September) |
-| 2018 | Appointed UN High Commissioner for Human Rights (August 10); assumes functions (September 1) |
-| 2019 | Issues critical report on human rights violations in Venezuela (July) |
+| Year | Event                                                                                                                   |
+| ---- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1951 | Born on September 29 in Santiago, Chile                                                                                 |
+| 1964 | Family returns to Chile from United States                                                                              |
+| 1970 | Enters medical school at University of Chile; joins Socialist Youth                                                     |
+| 1973 | Military coup overthrows Salvador Allende                                                                               |
+| 1974 | Father Alberto Bachelet dies in prison after torture (March)                                                            |
+| 1975 | Arrested and tortured at Villa Grimaldi with her mother (January); goes into exile                                      |
+| 1977 | Marries Jorge Dávalos                                                                                                   |
+| 1978 | First child, Sebastián, born in Leipzig, Germany                                                                        |
+| 1979 | Returns to Chile; continues medical studies                                                                             |
+| 1982 | Graduates from University of Chile as surgeon                                                                           |
+| 1984 | Second child, Francisca Valentina, born (February)                                                                      |
+| 1995 | Joins Socialist Party's Central Committee                                                                               |
+| 2000 | Appointed Minister of Health under President Lagos                                                                      |
+| 2002 | Appointed Minister of National Defense (January 7)                                                                      |
+| 2004 | Resigns from Defense Ministry to run for president (October 1)                                                          |
+| 2006 | Elected first female President of Chile (January 15); takes office (March 11)                                           |
+| 2006 | Penguin Revolution student protests begin                                                                               |
+| 2007 | Transantiago public transport system launched (February); approval rating falls                                         |
+| 2008 | Signs pension reform into law (March)                                                                                   |
+| 2010 | Opens Museum of Memory and Human Rights (January); leaves office with 84% approval (March)                              |
+| 2011 | Appointed first Director of UN Women                                                                                    |
+| 2013 | Resigns from UN Women (March 23); re-elected president with 62% (December)                                              |
+| 2014 | Begins second presidential term (March 11)                                                                              |
+| 2015 | Signs law providing free university education for 200,000 students                                                      |
+| 2017 | Designates 720,000 square kilometer marine protection area around Easter Island (September)                             |
+| 2018 | Appointed UN High Commissioner for Human Rights (August 10); assumes functions (September 1)                            |
+| 2019 | Issues critical report on human rights violations in Venezuela (July)                                                   |
 | 2022 | Visits Xinjiang, China (May); announces will not seek second term as High Commissioner (June 13); term ends (August 31) |
-| 2025 | Nominated by Chile as candidate for UN Secretary-General (September 23) |
+| 2025 | Nominated by Chile as candidate for UN Secretary-General (September 23)                                                 |
 
 ---
 
@@ -215,124 +216,245 @@ Academic assessments have questioned whether her two presidencies represented ge
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^2]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^3]: https://www.econotimes.com/Chile-to-Nominate-Michelle-Bachelet-for-UN-Secretary-General-Post-1721443
+
 [^4]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^5]: https://www.notablebiographies.com/newsmakers2/2007-A-Co/Bachelet-Michelle.html
+
 [^6]: https://www.notablebiographies.com/newsmakers2/2007-A-Co/Bachelet-Michelle.html
+
 [^7]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^8]: https://www.encyclopedia.com/journals/culture-magazines/bachelet-michelle
+
 [^9]: https://www.notablebiographies.com/newsmakers2/2007-A-Co/Bachelet-Michelle.html
+
 [^10]: https://latestlaws.com/did-you-know/new-un-human-rights-chief-michelle-bachelet-had-survived-torture-lived-in-exile
+
 [^11]: https://www.timesofisrael.com/new-un-human-rights-chief-has-survived-torture-herself/
+
 [^12]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^13]: https://www.notablebiographies.com/newsmakers2/2007-A-Co/Bachelet-Michelle.html
+
 [^14]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^15]: https://www.ohchr.org/en/about-us/high-commissioner/past/michelle-bachelet-jeria
+
 [^16]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^17]: https://www.europarl.europa.eu/meetdocs/2009_2014/documents/femm/dv/cv_michelle_bachelet_/cv_michelle_bachelet_en.pdf
+
 [^18]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^19]: https://clubmadrid.org/who/members/bachelet-michelle/
+
 [^20]: https://www.notablebiographies.com/newsmakers2/2007-A-Co/Bachelet-Michelle.html
+
 [^21]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^22]: https://www.europarl.europa.eu/meetdocs/2009_2014/documents/femm/dv/cv_michelle_bachelet_/cv_michelle_bachelet_en.pdf
+
 [^23]: https://www.encyclopedia.com/journals/culture-magazines/bachelet-michelle
+
 [^24]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^25]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^26]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^27]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^28]: https://kids.britannica.com/students/article/Michelle-Bachelet/442471
+
 [^29]: https://knowledge.wharton.upenn.edu/article/bachelets-star-plan-reform-of-the-pension-system/
+
 [^30]: https://knowledge.wharton.upenn.edu/article/bachelets-star-plan-reform-of-the-pension-system/
+
 [^31]: https://kids.britannica.com/students/article/Michelle-Bachelet/442471
+
 [^32]: https://www.europarl.europa.eu/meetdocs/2009_2014/documents/femm/dv/cv_michelle_bachelet_/cv_michelle_bachelet_en.pdf
+
 [^33]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^34]: https://www.ohchr.org/en/about-us/high-commissioner/past/michelle-bachelet-jeria
+
 [^35]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^36]: https://www.europarl.europa.eu/meetdocs/2009_2014/documents/femm/dv/cv_michelle_bachelet_/cv_michelle_bachelet_en.pdf
+
 [^37]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^38]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^39]: https://clubmadrid.org/who/members/bachelet-michelle/
+
 [^40]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^41]: https://en.mercopress.com/2015/12/28/chile-approves-free-university-education-for-200.000-students-one-of-bachelet-s-campaign-promise
+
 [^42]: https://www.researchgate.net/publication/323856094_Lessons_from_Chile's_Transition_to_Free_College
+
 [^43]: https://en.mercopress.com/2015/12/28/chile-approves-free-university-education-for-200.000-students-one-of-bachelet-s-campaign-promise
+
 [^44]: https://en.mercopress.com/2015/12/28/chile-approves-free-university-education-for-200.000-students-one-of-bachelet-s-campaign-promise
+
 [^45]: https://clubmadrid.org/who/members/bachelet-michelle/
+
 [^46]: https://clubmadrid.org/who/members/bachelet-michelle/
+
 [^47]: https://www.europarl.europa.eu/meetdocs/2009_2014/documents/femm/dv/cv_michelle_bachelet_/cv_michelle_bachelet_en.pdf
+
 [^48]: https://www.ohchr.org/en/stories/2022/08/journey-defend-human-rights-never-ends-says-michelle-bachelet
+
 [^49]: https://www.ohchr.org/en/stories/2022/08/journey-defend-human-rights-never-ends-says-michelle-bachelet
+
 [^50]: https://www.ohchr.org/en/press-releases/2019/07/un-human-rights-report-venezuela-urges-immediate-measures-halt-and-remedy
+
 [^51]: https://en.wikipedia.org/wiki/Bachelet_Report
+
 [^52]: https://www.aljazeera.com/news/2022/6/13/un-rights-chief-declines-second-term-after-china-visit-criticisms
+
 [^53]: https://en.wikipedia.org/wiki/2006_student_protests_in_Chile
+
 [^54]: https://muse.jhu.edu/pub/12/article/706524/summary
+
 [^55]: https://nvdatabase.swarthmore.edu/content/chilean-high-school-students-strike-win-education-reform-penguin-revolution-2006
+
 [^56]: https://journals.sagepub.com/doi/full/10.1177/1866802X1500700302
+
 [^57]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^58]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^59]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^60]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^61]: https://theconversation.com/sweeping-reforms-set-to-end-for-profit-education-in-chile-26406
+
 [^62]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^63]: https://muse.jhu.edu/pub/12/article/706524/summary
+
 [^64]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^65]: https://www.amnesty.org/en/latest/news/2022/06/un-michelle-bachelet-has-just-months-to-address-her-failures-on-china/
+
 [^66]: https://foreignpolicy.com/2022/06/13/michelle-bachelets-failed-xinjiang-trip-has-tainted-her-whole-legacy/
+
 [^67]: https://foreignpolicy.com/2022/06/13/michelle-bachelets-failed-xinjiang-trip-has-tainted-her-whole-legacy/
+
 [^68]: https://unwatch.org/bachelet/
+
 [^69]: https://unwatch.org/bachelet/
+
 [^70]: https://www.hrw.org/news/2022/06/15/un-chief-should-name-bold-rights-advocate-succeed-bachelet
+
 [^71]: https://foreignpolicy.com/2022/06/13/michelle-bachelets-failed-xinjiang-trip-has-tainted-her-whole-legacy/
+
 [^72]: https://thediplomat.com/2022/08/michelle-bachelets-spectacular-fall-from-grace/
+
 [^73]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^74]: https://www.notablebiographies.com/newsmakers2/2007-A-Co/Bachelet-Michelle.html
+
 [^75]: https://www.encyclopedia.com/journals/culture-magazines/bachelet-michelle
+
 [^76]: https://www.notablebiographies.com/newsmakers2/2007-A-Co/Bachelet-Michelle.html
+
 [^77]: https://latestlaws.com/did-you-know/new-un-human-rights-chief-michelle-bachelet-had-survived-torture-lived-in-exile
+
 [^78]: https://www.ohchr.org/en/about-us/high-commissioner/past/michelle-bachelet-jeria
+
 [^79]: https://www.brainyquote.com/authors/michelle-bachelet-quotes
+
 [^80]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^81]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^82]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^83]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^84]: https://clubmadrid.org/who/members/bachelet-michelle/
+
 [^85]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^86]: https://knowledge.wharton.upenn.edu/article/bachelets-star-plan-reform-of-the-pension-system/
+
 [^87]: https://theconversation.com/sweeping-reforms-set-to-end-for-profit-education-in-chile-26406
+
 [^88]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^89]: https://clubmadrid.org/who/members/bachelet-michelle/
+
 [^90]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^91]: https://journals.sagepub.com/doi/full/10.1177/1866802X1500700302
+
 [^92]: https://unwatch.org/bachelet/
+
 [^93]: https://www.amnesty.org/en/latest/news/2022/06/un-michelle-bachelet-has-just-months-to-address-her-failures-on-china/
+
 [^94]: https://www.econotimes.com/Chile-to-Nominate-Michelle-Bachelet-for-UN-Secretary-General-Post-1721443
+
 [^95]: https://www.elciudadano.com/en/michelle-bachelet-leads-un-secretary-general-race-with-29-1-support-survey-reveals/11/03/
+
 [^96]: https://www.councilwomenworldleaders.org/michelle-bachelet
+
 [^97]: https://www.councilwomenworldleaders.org/news/what-happens-when-women-lead-michelle-bachelet
+
 [^98]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^99]: https://www.britannica.com/biography/Michelle-Bachelet
+
 [^100]: https://kids.britannica.com/students/article/Michelle-Bachelet/442471
+
 [^101]: https://theconversation.com/sweeping-reforms-set-to-end-for-profit-education-in-chile-26406
+
 [^102]: https://www.researchgate.net/publication/319968606_Undoing_the_Neoliberal_Higher_Education_System_Student_Protests_and_the_Bachelet_Reforms_in_Chile
+
 [^103]: https://www.ohchr.org/en/press-releases/2019/07/un-human-rights-report-venezuela-urges-immediate-measures-halt-and-remedy
+
 [^104]: https://news.un.org/en/story/2019/07/1041902
+
 [^105]: https://clubmadrid.org/who/members/bachelet-michelle/
+
 [^106]: https://www.brainyquote.com/authors/michelle-bachelet-quotes
+
 [^107]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^108]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^109]: https://theconversation.com/sweeping-reforms-set-to-end-for-profit-education-in-chile-26406
+
 [^110]: https://journals.sagepub.com/doi/full/10.1177/1866802X1500700302
+
 [^111]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^112]: https://en.wikipedia.org/wiki/Michelle_Bachelet
+
 [^113]: https://www.amnesty.org/en/latest/news/2022/06/un-michelle-bachelet-has-just-months-to-address-her-failures-on-china/
+
 [^114]: https://foreignpolicy.com/2022/06/13/michelle-bachelets-failed-xinjiang-trip-has-tainted-her-whole-legacy/
+
 [^115]: https://unwatch.org/bachelet/
+
 [^116]: https://muse.jhu.edu/pub/12/article/706524/summary
+
 [^117]: https://en.wikiquote.org/wiki/Michelle_Bachelet
+
 [^118]: https://www.brainyquote.com/authors/michelle-bachelet-quotes
+
 [^119]: https://www.inspiringquotes.us/author/3773-michelle-bachelet
+
 [^120]: https://www.brainyquote.com/authors/michelle-bachelet-quotes
+
 [^121]: https://www.azquotes.com/author/745-Michelle_Bachelet
+
 [^122]: https://www.brainyquote.com/authors/michelle-bachelet-quotes

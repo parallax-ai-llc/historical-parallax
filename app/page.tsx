@@ -4,7 +4,5 @@ import { HomeClient } from "./home-client";
 export default function HomePage() {
   const articles = getAllArticles();
 
-  return (
-    <HomeClient articles={articles} />
-  );
+  return <HomeClient articles={articles} />;
 }

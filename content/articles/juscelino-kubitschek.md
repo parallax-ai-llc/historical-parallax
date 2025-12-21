@@ -165,31 +165,31 @@ Conservative critics, particularly those sympathetic to the military regime that
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1902 | Born September 12 in Diamantina, Minas Gerais |
-| 1904 | Father dies; raised by mother Julia Kubitschek |
-| 1927 | Graduates from medical school at Federal University of Minas Gerais |
-| 1930 | Studies medicine in Paris and Berlin |
-| 1931 | Marries Sarah Gomes de Lemos |
-| 1934 | Elected federal deputy for Minas Gerais |
-| 1940 | Appointed mayor of Belo Horizonte by Vargas government |
-| 1943 | Inaugurates Pampulha architectural complex designed by Oscar Niemeyer |
-| 1945 | Elected to Constituent Assembly after Vargas's fall |
-| 1950 | Elected governor of Minas Gerais |
-| 1955 | Elected president of Brazil with 36% of vote |
-| 1955 | Preventive coup by General Lott ensures his inauguration |
-| 1956 | Inaugurated as president January 31; launches Target Plan |
-| 1957 | Construction of Brasília begins |
-| 1958 | Proposes Operation Pan-America hemispheric development program |
-| 1959 | Breaks with IMF over austerity demands |
-| 1960 | Inaugurates Brasília as new capital on April 21 |
-| 1961 | Completes presidential term; succeeded by Jânio Quadros |
-| 1962 | Elected senator for Goiás state |
-| 1964 | Military coup overthrows constitutional government; rights suspended |
-| 1964-1967 | Lives in exile in Europe and United States |
-| 1967 | Returns to Brazil, lives quietly under military dictatorship |
-| 1976 | Dies August 22 in car accident under suspicious circumstances |
+| Year      | Event                                                                 |
+| --------- | --------------------------------------------------------------------- |
+| 1902      | Born September 12 in Diamantina, Minas Gerais                         |
+| 1904      | Father dies; raised by mother Julia Kubitschek                        |
+| 1927      | Graduates from medical school at Federal University of Minas Gerais   |
+| 1930      | Studies medicine in Paris and Berlin                                  |
+| 1931      | Marries Sarah Gomes de Lemos                                          |
+| 1934      | Elected federal deputy for Minas Gerais                               |
+| 1940      | Appointed mayor of Belo Horizonte by Vargas government                |
+| 1943      | Inaugurates Pampulha architectural complex designed by Oscar Niemeyer |
+| 1945      | Elected to Constituent Assembly after Vargas's fall                   |
+| 1950      | Elected governor of Minas Gerais                                      |
+| 1955      | Elected president of Brazil with 36% of vote                          |
+| 1955      | Preventive coup by General Lott ensures his inauguration              |
+| 1956      | Inaugurated as president January 31; launches Target Plan             |
+| 1957      | Construction of Brasília begins                                       |
+| 1958      | Proposes Operation Pan-America hemispheric development program        |
+| 1959      | Breaks with IMF over austerity demands                                |
+| 1960      | Inaugurates Brasília as new capital on April 21                       |
+| 1961      | Completes presidential term; succeeded by Jânio Quadros               |
+| 1962      | Elected senator for Goiás state                                       |
+| 1964      | Military coup overthrows constitutional government; rights suspended  |
+| 1964-1967 | Lives in exile in Europe and United States                            |
+| 1967      | Returns to Brazil, lives quietly under military dictatorship          |
+| 1976      | Dies August 22 in car accident under suspicious circumstances         |
 
 ---
 
@@ -209,89 +209,174 @@ Conservative critics, particularly those sympathetic to the military regime that
 
 ## References
 
-[^1]: Skidmore, Thomas E. *Politics in Brazil, 1930-1964: An Experiment in Democracy*. Oxford University Press, 1967.
-[^2]: Lessa, Carlos. "Fifteen Years of Economic Policy in Brazil." *Economic Bulletin for Latin America* 9, no. 2 (1964): 153-214.
-[^3]: Lafer, Celso. *JK e o Programa de Metas (1956-1961)*. Editora FGV, 2002.
-[^4]: Bojunga, Claudio. *JK: O Artista do Impossível*. Objetiva, 2001.
-[^5]: Kubitschek, Juscelino. *Meu Caminho Para Brasília* (My Path to Brasília). Bloch Editores, 1974.
-[^6]: Moreira, Vânia Maria Losada. "Os Anos JK: Industrialização e Modelo Oligárquico de Desenvolvimento Rural." In *O Brasil Republicano*, edited by Jorge Ferreira and Lucilia de Almeida Neves Delgado. Civilização Brasileira, 2003.
-[^7]: Benevides, Maria Victoria de Mesquita. *O Governo Kubitschek: Desenvolvimento Econômico e Estabilidade Política*. Paz e Terra, 1976.
-[^8]: Alexander, Robert J. *Juscelino Kubitschek and the Development of Brazil*. Ohio University Press, 1991.
-[^9]: Goodwin, Paul B., Jr. "The Politics of Urban Growth in Rio de Janeiro and Belo Horizonte, Brazil." In *Politics and Social Change in Latin America: Still a Distinct Tradition?*, edited by Howard J. Wiarda. Westview Press, 1992.
-[^10]: Segawa, Hugo. *Arquiteturas no Brasil 1900-1990*. Edusp, 2002.
-[^11]: Papadaki, Stamo. *Oscar Niemeyer: Works in Progress*. Reinhold Publishing, 1956.
-[^12]: Underwood, David. *Oscar Niemeyer and the Architecture of Brazil*. Rizzoli, 1994.
-[^13]: Dulles, John W. F. *Unrest in Brazil: Political-Military Crises 1955-1964*. University of Texas Press, 1970.
-[^14]: Hippólito, Lucia. *De Raposas e Reformistas: O PSD e a Experiência Democrática Brasileira (1945-64)*. Paz e Terra, 1985.
-[^15]: D'Araújo, Maria Celina. *O Segundo Governo Vargas 1951-1954*. Editora Ática, 1992.
-[^16]: Gomes, Angela de Castro. *A Invenção do Trabalhismo*. FGV Editora, 2005.
-[^17]: Ferreira, Jorge, ed. *O Populismo e Sua História: Debate e Crítica*. Civilização Brasileira, 2001.
-[^18]: Stepan, Alfred. *The Military in Politics: Changing Patterns in Brazil*. Princeton University Press, 1971.
-[^19]: Lopes, Lucas. *Memórias do Desenvolvimento*. Centro da Memória da Eletricidade no Brasil, 1991.
-[^20]: Hirschman, Albert O. "Inflation in Chile." In *Journeys Toward Progress: Studies of Economic Policy-Making in Latin America*. W. W. Norton, 1963.
-[^21]: Baer, Werner. *The Brazilian Economy: Growth and Development*. 6th ed. Lynne Rienner Publishers, 2008.
-[^22]: Tavares, Maria da Conceição. "The Growth and Decline of Import Substitution in Brazil." *Economic Bulletin for Latin America* 9, no. 1 (1964): 1-59.
-[^23]: Shapiro, Helen. *Engines of Growth: The State and Transnational Auto Companies in Brazil*. Cambridge University Press, 1994.
-[^24]: Evans, Peter. *Dependent Development: The Alliance of Multinational, State, and Local Capital in Brazil*. Princeton University Press, 1979.
-[^25]: Dean, Warren. *Brazil and the Struggle for Rubber: A Study in Environmental History*. Cambridge University Press, 1987.
-[^26]: Epstein, David G. *Brasília, Plan and Reality: A Study of Planned and Spontaneous Urban Development*. University of California Press, 1973.
-[^27]: Holston, James. *The Modernist City: An Anthropological Critique of Brasília*. University of Chicago Press, 1989.
-[^28]: Evenson, Norma. *Two Brazilian Capitals: Architecture and Urbanism in Rio de Janeiro and Brasília*. Yale University Press, 1973.
+[^1]: Skidmore, Thomas E. _Politics in Brazil, 1930-1964: An Experiment in Democracy_. Oxford University Press, 1967.
+
+[^2]: Lessa, Carlos. "Fifteen Years of Economic Policy in Brazil." _Economic Bulletin for Latin America_ 9, no. 2 (1964): 153-214.
+
+[^3]: Lafer, Celso. _JK e o Programa de Metas (1956-1961)_. Editora FGV, 2002.
+
+[^4]: Bojunga, Claudio. _JK: O Artista do Impossível_. Objetiva, 2001.
+
+[^5]: Kubitschek, Juscelino. _Meu Caminho Para Brasília_ (My Path to Brasília). Bloch Editores, 1974.
+
+[^6]: Moreira, Vânia Maria Losada. "Os Anos JK: Industrialização e Modelo Oligárquico de Desenvolvimento Rural." In _O Brasil Republicano_, edited by Jorge Ferreira and Lucilia de Almeida Neves Delgado. Civilização Brasileira, 2003.
+
+[^7]: Benevides, Maria Victoria de Mesquita. _O Governo Kubitschek: Desenvolvimento Econômico e Estabilidade Política_. Paz e Terra, 1976.
+
+[^8]: Alexander, Robert J. _Juscelino Kubitschek and the Development of Brazil_. Ohio University Press, 1991.
+
+[^9]: Goodwin, Paul B., Jr. "The Politics of Urban Growth in Rio de Janeiro and Belo Horizonte, Brazil." In _Politics and Social Change in Latin America: Still a Distinct Tradition?_, edited by Howard J. Wiarda. Westview Press, 1992.
+
+[^10]: Segawa, Hugo. _Arquiteturas no Brasil 1900-1990_. Edusp, 2002.
+
+[^11]: Papadaki, Stamo. _Oscar Niemeyer: Works in Progress_. Reinhold Publishing, 1956.
+
+[^12]: Underwood, David. _Oscar Niemeyer and the Architecture of Brazil_. Rizzoli, 1994.
+
+[^13]: Dulles, John W. F. _Unrest in Brazil: Political-Military Crises 1955-1964_. University of Texas Press, 1970.
+
+[^14]: Hippólito, Lucia. _De Raposas e Reformistas: O PSD e a Experiência Democrática Brasileira (1945-64)_. Paz e Terra, 1985.
+
+[^15]: D'Araújo, Maria Celina. _O Segundo Governo Vargas 1951-1954_. Editora Ática, 1992.
+
+[^16]: Gomes, Angela de Castro. _A Invenção do Trabalhismo_. FGV Editora, 2005.
+
+[^17]: Ferreira, Jorge, ed. _O Populismo e Sua História: Debate e Crítica_. Civilização Brasileira, 2001.
+
+[^18]: Stepan, Alfred. _The Military in Politics: Changing Patterns in Brazil_. Princeton University Press, 1971.
+
+[^19]: Lopes, Lucas. _Memórias do Desenvolvimento_. Centro da Memória da Eletricidade no Brasil, 1991.
+
+[^20]: Hirschman, Albert O. "Inflation in Chile." In _Journeys Toward Progress: Studies of Economic Policy-Making in Latin America_. W. W. Norton, 1963.
+
+[^21]: Baer, Werner. _The Brazilian Economy: Growth and Development_. 6th ed. Lynne Rienner Publishers, 2008.
+
+[^22]: Tavares, Maria da Conceição. "The Growth and Decline of Import Substitution in Brazil." _Economic Bulletin for Latin America_ 9, no. 1 (1964): 1-59.
+
+[^23]: Shapiro, Helen. _Engines of Growth: The State and Transnational Auto Companies in Brazil_. Cambridge University Press, 1994.
+
+[^24]: Evans, Peter. _Dependent Development: The Alliance of Multinational, State, and Local Capital in Brazil_. Princeton University Press, 1979.
+
+[^25]: Dean, Warren. _Brazil and the Struggle for Rubber: A Study in Environmental History_. Cambridge University Press, 1987.
+
+[^26]: Epstein, David G. _Brasília, Plan and Reality: A Study of Planned and Spontaneous Urban Development_. University of California Press, 1973.
+
+[^27]: Holston, James. _The Modernist City: An Anthropological Critique of Brasília_. University of Chicago Press, 1989.
+
+[^28]: Evenson, Norma. _Two Brazilian Capitals: Architecture and Urbanism in Rio de Janeiro and Brasília_. Yale University Press, 1973.
+
 [^29]: UNESCO World Heritage Centre. "Brasília." Outstanding Universal Value statement, 1987.
-[^30]: Rabe, Stephen G. *The Most Dangerous Area in the World: John F. Kennedy Confronts Communist Revolution in Latin America*. University of North Carolina Press, 1999.
-[^31]: Hilton, Stanley E. "The United States, Brazil, and the Cold War, 1945-1960: End of the Special Relationship." *Journal of American History* 68, no. 3 (1981): 599-624.
-[^32]: Bethell, Leslie, and Ian Roxborough, eds. *Latin America Between the Second World War and the Cold War, 1944-1948*. Cambridge University Press, 1992.
-[^33]: Fishlow, Albert. "Origins and Consequences of Import Substitution in Brazil." In *International Economics and Development: Essays in Honor of Raúl Prebisch*, edited by Luis Eugenio Di Marco. Academic Press, 1972.
-[^34]: Furtado, Celso. *The Economic Growth of Brazil: A Survey from Colonial to Modern Times*. University of California Press, 1963.
-[^35]: de Oliveira, Francisco. "A Economia Brasileira: Crítica à Razão Dualista." *Estudos CEBRAP* 2 (1972): 3-82.
-[^36]: Singer, Paul. *Desenvolvimento e Crise*. Difusão Européia do Livro, 1968.
-[^37]: Holston, James. "The Modernist City and the Death of the Street." In *Theorizing the City: The New Urban Anthropology Reader*, edited by Setha M. Low. Rutgers University Press, 1999.
-[^38]: Brillembourg, Carlos. "Brasília: From Utopia to Reality." *Places* 4, no. 1 (1987): 52-65.
-[^39]: Dean, Warren. *With Broadax and Firebrand: The Destruction of the Brazilian Atlantic Forest*. University of California Press, 1995.
-[^40]: Dreifuss, René Armand. *1964: A Conquista do Estado - Ação Política, Poder e Golpe de Classe*. Editora Vozes, 1981.
-[^41]: Nunes, Edson. *A Gramática Política do Brasil: Clientelismo e Insulamento Burocrático*. Jorge Zahar Editor, 1997.
-[^42]: Cardoso, Fernando Henrique, and Enzo Faletto. *Dependency and Development in Latin America*. University of California Press, 1979.
-[^43]: Ianni, Octavio. *Estado e Planejamento Econômico no Brasil*. Civilização Brasileira, 1971.
-[^44]: Lamounier, Bolívar. "Formação de um Pensamento Político Autoritário na Primeira República: Uma Interpretação." In *História Geral da Civilização Brasileira*, edited by Boris Fausto, vol. 9. Difel, 1977.
-[^45]: Gattaz, André. *Do Bom Retiro a Barra Funda: Memórias de Velhos Imigrantes*. Editora Archive, 1996.
-[^46]: Moraes, Letícia Nunes de. *Brasília: Patrimônio Cultural da Humanidade*. UNESCO/Secretaria de Estado de Cultura do Distrito Federal, 2002.
-[^47]: Dulles, John W. F. *President Castello Branco: Brazilian Reformer*. Texas A&M University Press, 1980.
-[^48]: Campos, Roberto de Oliveira. *A Lanterna na Popa: Memórias*. Topbooks, 1994.
-[^49]: Williams, Daryle. *Culture Wars in Brazil: The First Vargas Regime, 1930-1945*. Duke University Press, 2001.
-[^50]: Skidmore, Thomas E. *Brazil: Five Centuries of Change*. 2nd ed. Oxford University Press, 2010.
-[^51]: Alves, Maria Helena Moreira. *State and Opposition in Military Brazil*. University of Texas Press, 1985.
-[^52]: Gaspari, Elio. *A Ditadura Envergonhada*. Companhia das Letras, 2002.
-[^53]: Ribeiro, Darcy. "Juscelino Kubitschek." In *Aos Trancos e Barrancos: Como o Brasil Deu no Que Deu*. Editora Guanabara, 1985.
-[^54]: Sikkink, Kathryn. *Ideas and Institutions: Developmentalism in Brazil and Argentina*. Cornell University Press, 1991.
-[^55]: Schneider, Ben Ross. *Politics Within the State: Elite Bureaucrats and Industrial Policy in Authoritarian Brazil*. University of Pittsburgh Press, 1991.
-[^56]: Frampton, Kenneth. *Modern Architecture: A Critical History*. 4th ed. Thames & Hudson, 2007.
-[^57]: Curtis, William J. R. *Modern Architecture Since 1900*. 3rd ed. Phaidon Press, 1996.
-[^58]: Kinzo, Maria D'Alva Gil. *Legal Opposition Politics Under Authoritarian Rule in Brazil: The Case of the MDB, 1966-79*. Macmillan Press, 1988.
-[^59]: Trebat, Thomas J. *Brazil's State-Owned Enterprises: A Case Study of the State as Entrepreneur*. Cambridge University Press, 1983.
-[^60]: Abreu, Marcelo de Paiva, ed. *A Ordem do Progresso: Cem Anos de Política Econômica Republicana, 1889-1989*. Editora Campus, 1990.
-[^61]: Power, Timothy J., and Cesar Zucco Jr. "Estimating Ideology of Brazilian Legislative Parties, 1990-2005." *Latin American Research Review* 44, no. 1 (2009): 218-246.
-[^62]: Holston, James. *Insurgent Citizenship: Disjunctions of Democracy and Modernity in Brazil*. Princeton University Press, 2008.
-[^63]: Bielschowsky, Ricardo. *Pensamento Econômico Brasileiro: O Ciclo Ideológico do Desenvolvimentismo*. Contraponto, 1988.
-[^64]: Hoffman, Rodolfo, and José Graziano da Silva. "O Censo Agropecuário de 2006 e a Agricultura Familiar no Brasil." *Revista de Economia Agrícola* 56, no. 1 (2009): 5-18.
-[^65]: United Nations Educational, Scientific and Cultural Organization. "Brasília." *World Heritage List* inscription, 1987.
-[^66]: Skidmore, Thomas E. "Politics and Economic Policy Making in Authoritarian Brazil, 1937-71." In *Authoritarian Capitalism: Brazil's Contemporary Economic and Political Development*, edited by Thomas C. Bruneau and Philippe Faucher. Westview Press, 1981.
-[^67]: Campos, Roberto. "Two Views on Inflation in Latin America." In *Latin American Issues*, edited by Albert O. Hirschman. Twentieth Century Fund, 1961.
-[^68]: Frampton, Kenneth. "Towards a Critical Regionalism: Six Points for an Architecture of Resistance." In *The Anti-Aesthetic: Essays on Postmodern Culture*, edited by Hal Foster. Bay Press, 1983.
-[^69]: Bethell, Leslie, ed. *The Cambridge History of Latin America*, vol. 9. Cambridge University Press, 2008.
-[^70]: Baer, Werner. "Import Substitution and Industrialization in Latin America: Experiences and Interpretations." *Latin American Research Review* 7, no. 1 (1972): 95-122.
-[^71]: Castro, Ruy. *Bossa Nova: The Story of the Brazilian Music That Seduced the World*. Chicago Review Press, 2000.
-[^72]: Daland, Robert T. *Brazilian Planning: Development Politics and Administration*. University of North Carolina Press, 1967.
-[^73]: Weyland, Kurt. *Democracy Without Equity: Failures of Reform in Brazil*. University of Pittsburgh Press, 1996.
-[^74]: de Oliveira, Francisco. *Crítica à Razão Dualista / O Ornitorrinco*. Boitempo Editorial, 2003.
-[^75]: Furtado, Celso. *Análise do "Modelo" Brasileiro*. Civilização Brasileira, 1972.
-[^76]: Dean, Warren. "Forest Conservation in Southeastern Brazil, 1900 to 1955." *Environmental Review* 9, no. 1 (1985): 54-69.
-[^77]: Holston, James. "Spaces of Insurgent Citizenship." In *Making the Invisible Visible: A Multicultural Planning History*, edited by Leonie Sandercock. University of California Press, 1998.
-[^78]: Stepan, Alfred. *Rethinking Military Politics: Brazil and the Southern Cone*. Princeton University Press, 1988.
-[^79]: Geddes, Barbara, and Artur Ribeiro Neto. "Institutional Sources of Corruption in Brazil." *Third World Quarterly* 13, no. 4 (1992): 641-661.
-[^80]: Bandeira, Moniz. *Presença dos Estados Unidos no Brasil*. Civilização Brasileira, 1973.
-[^81]: Trindade, Hélgio. "La Question du Fascisme en Amérique Latine." *Revue Française de Science Politique* 33, no. 2 (1983): 281-314.
-[^82]: Kubitschek, Juscelino. *Por Que Construí Brasília*. Bloch Editores, 1975.
-[^83]: Quoted in Bojunga, Claudio. *JK: O Artista do Impossível*. Objetiva, 2001, p. 342.
+
+[^30]: Rabe, Stephen G. _The Most Dangerous Area in the World: John F. Kennedy Confronts Communist Revolution in Latin America_. University of North Carolina Press, 1999.
+
+[^31]: Hilton, Stanley E. "The United States, Brazil, and the Cold War, 1945-1960: End of the Special Relationship." _Journal of American History_ 68, no. 3 (1981): 599-624.
+
+[^32]: Bethell, Leslie, and Ian Roxborough, eds. _Latin America Between the Second World War and the Cold War, 1944-1948_. Cambridge University Press, 1992.
+
+[^33]: Fishlow, Albert. "Origins and Consequences of Import Substitution in Brazil." In _International Economics and Development: Essays in Honor of Raúl Prebisch_, edited by Luis Eugenio Di Marco. Academic Press, 1972.
+
+[^34]: Furtado, Celso. _The Economic Growth of Brazil: A Survey from Colonial to Modern Times_. University of California Press, 1963.
+
+[^35]: de Oliveira, Francisco. "A Economia Brasileira: Crítica à Razão Dualista." _Estudos CEBRAP_ 2 (1972): 3-82.
+
+[^36]: Singer, Paul. _Desenvolvimento e Crise_. Difusão Européia do Livro, 1968.
+
+[^37]: Holston, James. "The Modernist City and the Death of the Street." In _Theorizing the City: The New Urban Anthropology Reader_, edited by Setha M. Low. Rutgers University Press, 1999.
+
+[^38]: Brillembourg, Carlos. "Brasília: From Utopia to Reality." _Places_ 4, no. 1 (1987): 52-65.
+
+[^39]: Dean, Warren. _With Broadax and Firebrand: The Destruction of the Brazilian Atlantic Forest_. University of California Press, 1995.
+
+[^40]: Dreifuss, René Armand. _1964: A Conquista do Estado - Ação Política, Poder e Golpe de Classe_. Editora Vozes, 1981.
+
+[^41]: Nunes, Edson. _A Gramática Política do Brasil: Clientelismo e Insulamento Burocrático_. Jorge Zahar Editor, 1997.
+
+[^42]: Cardoso, Fernando Henrique, and Enzo Faletto. _Dependency and Development in Latin America_. University of California Press, 1979.
+
+[^43]: Ianni, Octavio. _Estado e Planejamento Econômico no Brasil_. Civilização Brasileira, 1971.
+
+[^44]: Lamounier, Bolívar. "Formação de um Pensamento Político Autoritário na Primeira República: Uma Interpretação." In _História Geral da Civilização Brasileira_, edited by Boris Fausto, vol. 9. Difel, 1977.
+
+[^45]: Gattaz, André. _Do Bom Retiro a Barra Funda: Memórias de Velhos Imigrantes_. Editora Archive, 1996.
+
+[^46]: Moraes, Letícia Nunes de. _Brasília: Patrimônio Cultural da Humanidade_. UNESCO/Secretaria de Estado de Cultura do Distrito Federal, 2002.
+
+[^47]: Dulles, John W. F. _President Castello Branco: Brazilian Reformer_. Texas A&M University Press, 1980.
+
+[^48]: Campos, Roberto de Oliveira. _A Lanterna na Popa: Memórias_. Topbooks, 1994.
+
+[^49]: Williams, Daryle. _Culture Wars in Brazil: The First Vargas Regime, 1930-1945_. Duke University Press, 2001.
+
+[^50]: Skidmore, Thomas E. _Brazil: Five Centuries of Change_. 2nd ed. Oxford University Press, 2010.
+
+[^51]: Alves, Maria Helena Moreira. _State and Opposition in Military Brazil_. University of Texas Press, 1985.
+
+[^52]: Gaspari, Elio. _A Ditadura Envergonhada_. Companhia das Letras, 2002.
+
+[^53]: Ribeiro, Darcy. "Juscelino Kubitschek." In _Aos Trancos e Barrancos: Como o Brasil Deu no Que Deu_. Editora Guanabara, 1985.
+
+[^54]: Sikkink, Kathryn. _Ideas and Institutions: Developmentalism in Brazil and Argentina_. Cornell University Press, 1991.
+
+[^55]: Schneider, Ben Ross. _Politics Within the State: Elite Bureaucrats and Industrial Policy in Authoritarian Brazil_. University of Pittsburgh Press, 1991.
+
+[^56]: Frampton, Kenneth. _Modern Architecture: A Critical History_. 4th ed. Thames & Hudson, 2007.
+
+[^57]: Curtis, William J. R. _Modern Architecture Since 1900_. 3rd ed. Phaidon Press, 1996.
+
+[^58]: Kinzo, Maria D'Alva Gil. _Legal Opposition Politics Under Authoritarian Rule in Brazil: The Case of the MDB, 1966-79_. Macmillan Press, 1988.
+
+[^59]: Trebat, Thomas J. _Brazil's State-Owned Enterprises: A Case Study of the State as Entrepreneur_. Cambridge University Press, 1983.
+
+[^60]: Abreu, Marcelo de Paiva, ed. _A Ordem do Progresso: Cem Anos de Política Econômica Republicana, 1889-1989_. Editora Campus, 1990.
+
+[^61]: Power, Timothy J., and Cesar Zucco Jr. "Estimating Ideology of Brazilian Legislative Parties, 1990-2005." _Latin American Research Review_ 44, no. 1 (2009): 218-246.
+
+[^62]: Holston, James. _Insurgent Citizenship: Disjunctions of Democracy and Modernity in Brazil_. Princeton University Press, 2008.
+
+[^63]: Bielschowsky, Ricardo. _Pensamento Econômico Brasileiro: O Ciclo Ideológico do Desenvolvimentismo_. Contraponto, 1988.
+
+[^64]: Hoffman, Rodolfo, and José Graziano da Silva. "O Censo Agropecuário de 2006 e a Agricultura Familiar no Brasil." _Revista de Economia Agrícola_ 56, no. 1 (2009): 5-18.
+
+[^65]: United Nations Educational, Scientific and Cultural Organization. "Brasília." _World Heritage List_ inscription, 1987.
+
+[^66]: Skidmore, Thomas E. "Politics and Economic Policy Making in Authoritarian Brazil, 1937-71." In _Authoritarian Capitalism: Brazil's Contemporary Economic and Political Development_, edited by Thomas C. Bruneau and Philippe Faucher. Westview Press, 1981.
+
+[^67]: Campos, Roberto. "Two Views on Inflation in Latin America." In _Latin American Issues_, edited by Albert O. Hirschman. Twentieth Century Fund, 1961.
+
+[^68]: Frampton, Kenneth. "Towards a Critical Regionalism: Six Points for an Architecture of Resistance." In _The Anti-Aesthetic: Essays on Postmodern Culture_, edited by Hal Foster. Bay Press, 1983.
+
+[^69]: Bethell, Leslie, ed. _The Cambridge History of Latin America_, vol. 9. Cambridge University Press, 2008.
+
+[^70]: Baer, Werner. "Import Substitution and Industrialization in Latin America: Experiences and Interpretations." _Latin American Research Review_ 7, no. 1 (1972): 95-122.
+
+[^71]: Castro, Ruy. _Bossa Nova: The Story of the Brazilian Music That Seduced the World_. Chicago Review Press, 2000.
+
+[^72]: Daland, Robert T. _Brazilian Planning: Development Politics and Administration_. University of North Carolina Press, 1967.
+
+[^73]: Weyland, Kurt. _Democracy Without Equity: Failures of Reform in Brazil_. University of Pittsburgh Press, 1996.
+
+[^74]: de Oliveira, Francisco. _Crítica à Razão Dualista / O Ornitorrinco_. Boitempo Editorial, 2003.
+
+[^75]: Furtado, Celso. _Análise do "Modelo" Brasileiro_. Civilização Brasileira, 1972.
+
+[^76]: Dean, Warren. "Forest Conservation in Southeastern Brazil, 1900 to 1955." _Environmental Review_ 9, no. 1 (1985): 54-69.
+
+[^77]: Holston, James. "Spaces of Insurgent Citizenship." In _Making the Invisible Visible: A Multicultural Planning History_, edited by Leonie Sandercock. University of California Press, 1998.
+
+[^78]: Stepan, Alfred. _Rethinking Military Politics: Brazil and the Southern Cone_. Princeton University Press, 1988.
+
+[^79]: Geddes, Barbara, and Artur Ribeiro Neto. "Institutional Sources of Corruption in Brazil." _Third World Quarterly_ 13, no. 4 (1992): 641-661.
+
+[^80]: Bandeira, Moniz. _Presença dos Estados Unidos no Brasil_. Civilização Brasileira, 1973.
+
+[^81]: Trindade, Hélgio. "La Question du Fascisme en Amérique Latine." _Revue Française de Science Politique_ 33, no. 2 (1983): 281-314.
+
+[^82]: Kubitschek, Juscelino. _Por Que Construí Brasília_. Bloch Editores, 1975.
+
+[^83]: Quoted in Bojunga, Claudio. _JK: O Artista do Impossível_. Objetiva, 2001, p. 342.
+
 [^84]: Campaign speech transcript, Rio de Janeiro, October 1955. Arquivo Nacional do Brasil.
-[^85]: Quoted in Benevides, Maria Victoria. *O Governo Kubitschek*. Paz e Terra, 1976, p. 89.
+
+[^85]: Quoted in Benevides, Maria Victoria. _O Governo Kubitschek_. Paz e Terra, 1976, p. 89.
+
 [^86]: Inauguration speech, Brasília, April 21, 1960. Official transcript, Palácio do Planalto archives.

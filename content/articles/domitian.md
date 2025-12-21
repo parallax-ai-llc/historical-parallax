@@ -169,50 +169,50 @@ The assassination conspiracy's breadth—involving Praetorian prefects, freedmen
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| October 24, 51 AD | Born in Rome, youngest son of Vespasian and Flavia Domitilla Major |
-| 69 AD | Year of the Four Emperors; Domitian's uncle Sabinus killed; Vespasian becomes emperor |
-| December 21, 69 AD | Senate acknowledges Vespasian as emperor, establishing Flavian dynasty |
-| 71 AD | Marries Domitia Longina after persuading her to divorce her first husband |
-| June 79 AD | Vespasian dies; Titus becomes emperor |
-| 80 AD | Son born to Domitian and Domitia Longina; Great Fire of Rome destroys much of the city |
-| September 13, 81 AD | Titus dies unexpectedly |
-| September 14, 81 AD | Domitian confirmed as emperor by Senate and Praetorian Guard |
-| 82 AD | Founded Legio I Minervia; completed fourth story of Colosseum; restored Temple of Jupiter Capitolinus |
-| 83 AD | Domitian's son dies in childhood; marital crisis with Domitia Longina; Germanic campaigns conclude |
-| 85 AD | Financial crisis forces devaluation of currency; Dacian invasion of Moesia begins |
-| 86 AD | Construction of Stadium of Domitian begins; Dacian king defeats Roman forces, killing commander Cornelius Fuscus |
-| 87-88 AD | Tettius Julianus defeats Dacians; strategic withdrawal from Britain; Inchtuthil fortress abandoned |
-| 88 AD | Peace treaty signed with Decebalus of Dacia |
-| January 1, 89 AD | Revolt of Antonius Saturninus, governor of Upper Germany, quickly suppressed |
-| 92 AD | Completion of Flavian Palace (Domus Flavia and Domus Augustana) on Palatine Hill |
-| 93-96 AD | Period described by ancient sources as reign of terror; increased political persecutions |
-| September 18, 96 AD | Assassinated in palace conspiracy involving Praetorian prefects and court officials |
-| September 18, 96 AD | Marcus Cocceius Nerva proclaimed emperor same day; Senate condemns Domitian's memory (damnatio memoriae) |
+| Year                | Event                                                                                                            |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| October 24, 51 AD   | Born in Rome, youngest son of Vespasian and Flavia Domitilla Major                                               |
+| 69 AD               | Year of the Four Emperors; Domitian's uncle Sabinus killed; Vespasian becomes emperor                            |
+| December 21, 69 AD  | Senate acknowledges Vespasian as emperor, establishing Flavian dynasty                                           |
+| 71 AD               | Marries Domitia Longina after persuading her to divorce her first husband                                        |
+| June 79 AD          | Vespasian dies; Titus becomes emperor                                                                            |
+| 80 AD               | Son born to Domitian and Domitia Longina; Great Fire of Rome destroys much of the city                           |
+| September 13, 81 AD | Titus dies unexpectedly                                                                                          |
+| September 14, 81 AD | Domitian confirmed as emperor by Senate and Praetorian Guard                                                     |
+| 82 AD               | Founded Legio I Minervia; completed fourth story of Colosseum; restored Temple of Jupiter Capitolinus            |
+| 83 AD               | Domitian's son dies in childhood; marital crisis with Domitia Longina; Germanic campaigns conclude               |
+| 85 AD               | Financial crisis forces devaluation of currency; Dacian invasion of Moesia begins                                |
+| 86 AD               | Construction of Stadium of Domitian begins; Dacian king defeats Roman forces, killing commander Cornelius Fuscus |
+| 87-88 AD            | Tettius Julianus defeats Dacians; strategic withdrawal from Britain; Inchtuthil fortress abandoned               |
+| 88 AD               | Peace treaty signed with Decebalus of Dacia                                                                      |
+| January 1, 89 AD    | Revolt of Antonius Saturninus, governor of Upper Germany, quickly suppressed                                     |
+| 92 AD               | Completion of Flavian Palace (Domus Flavia and Domus Augustana) on Palatine Hill                                 |
+| 93-96 AD            | Period described by ancient sources as reign of terror; increased political persecutions                         |
+| September 18, 96 AD | Assassinated in palace conspiracy involving Praetorian prefects and court officials                              |
+| September 18, 96 AD | Marcus Cocceius Nerva proclaimed emperor same day; Senate condemns Domitian's memory (damnatio memoriae)         |
 
 ---
 
 ## Famous Quotes
 
-> "How I wish that I were as fine looking as Maecius thinks he is." 
-> 
+> "How I wish that I were as fine looking as Maecius thinks he is."
+>
 > — Domitian's wry observation on vanity, recorded by Suetonius[^181]
 
 > "How pleasant it is to be elegant, yet how quickly that stage passes!"
-> 
+>
 > — From Domitian's work "Care of the Hair," a poignant reflection given his own baldness concealed by wigs in later life[^182]
 
 > "Snow on which mead had been poured."
-> 
+>
 > — Domitian's description of men whose hair changed color, demonstrating his sharp wit[^183]
 
 > "Allow me, Fathers of the senate, to prevail on you by your love for me to grant a favour which I know I shall obtain with difficulty, namely that you allow the condemned men free choice of the manner of their death."
-> 
+>
 > — Domitian's address to the Senate regarding men charged with treason, showing his rhetorical skill and autocratic control even when appearing merciful[^184]
 
 > "The lot of princes is most unhappy, for when they discover a conspiracy, no one believes them unless they have been killed."
-> 
+>
 > — A reflection on imperial paranoia that proved tragically prophetic when Domitian was indeed assassinated in a palace conspiracy[^185]
 
 ---
@@ -220,187 +220,371 @@ The assassination conspiracy's breadth—involving Praetorian prefects, freedmen
 ## References
 
 [^1]: Domitian - Wikipedia. https://en.wikipedia.org/wiki/Domitian
+
 [^2]: Domitian | Roman Emperor, Facts, & Reign of Terror | Britannica. https://www.britannica.com/biography/Domitian
+
 [^3]: Emperor Domitian: Biography, Facts & Achievements | Study.com. https://study.com/academy/lesson/emperor-domitian-biography-facts-achievements.html
+
 [^4]: Domitian: Revising Roman Tyranny | TheCollector. https://www.thecollector.com/domitian-roman-emperor/
+
 [^5]: Domitian - World History Encyclopedia. https://www.worldhistory.org/domitian/
+
 [^6]: Flavian dynasty - Wikipedia. https://en.wikipedia.org/wiki/Flavian_dynasty
+
 [^7]: Domitian facts for kids. https://kids.kiddle.co/Domitian
+
 [^8]: Flavian dynasty | Emperors, Roman Empire, Italy | Britannica. https://www.britannica.com/topic/Flavian-dynasty
+
 [^9]: The Flavian Dynasty (69–96 A.D.) - The Metropolitan Museum of Art. https://www.metmuseum.org/toah/hd/flav/hd_flav.htm
+
 [^10]: Domitian: The Last Flavian Emperor and His Impact on Roman Imperial Rule - Ancient History Sites. https://www.ancient-history-sites.com/roman/emperors/domitian/
+
 [^11]: Flavian dynasty | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/flavian-dynasty
+
 [^12]: Rise and fall of the tyrannical emperor Domitian - History Skills. https://www.historyskills.com/classroom/ancient-history/anc-domitian-reading/
+
 [^13]: The Year of the Four Emperors & the Flavian Dynasty | History & Leaders. https://study.com/academy/lesson/the-year-of-the-four-emperors-the-flavian-dynasty.html
+
 [^14]: Year of the Four Emperors - Wikipedia. https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors
+
 [^15]: Who Was Domitian? Rome's Most Maligned Emperor. https://alexandermeddings.com/history/ancient-history/who-was-domitian/
+
 [^16]: 10 Facts About Emperor Domitian | History Hit. https://www.historyhit.com/facts-about-emperor-domitian/
+
 [^17]: The Year Of The Four Emperors: Rome's Turbulent 69 AD. https://memorywizards.com/history-blog/year-four-emperors/
+
 [^18]: The Year of the Four Emperors (69 AD): Rome's Bloodiest Power Struggle Explained. https://www.romanemperors.com/blog/year-of-the-four-emperors-a-visual-timeline
+
 [^19]: The Flavian Dynasty | Western Civilization. https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-flavian-dynasty/
+
 [^20]: The Year of the Four Emperors & the Demise of Four Roman Legions - World History Encyclopedia. https://www.worldhistory.org/article/1724/the-year-of-the-four-emperors--the-demise-of-four/
+
 [^21]: Rome in Chaos: The Year of the Four Emperors - History Tools. https://www.historytools.org/stories/rome-in-chaos-the-year-of-the-four-emperors
+
 [^22]: Year of the Four Emperors | UNRV Roman History. https://www.unrv.com/early-empire/year-four-emperors.php
+
 [^23]: The Year of the Four Roman Emperors Explained - History Skills. https://www.historyskills.com/classroom/ancient-history/anc-4-emperors-reading
+
 [^24]: Emperor Domitian 51- 96 AD - ruthless but efficient autocrat. https://roman-empire.net/emperors/emperor-domitian
+
 [^25]: Suetonius • Life of Domitian. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Domitian*.html
+
 [^26]: Emperor Domitian: The Tyrant Who Shook Rome. https://rome.us/roman-emperors/domitian.html
+
 [^27]: Emperor Domitian: Biography and Significance – Roman Empire. https://romanempirehistory.com/roman-emperors/emperor-domitian/
+
 [^28]: Domitian (51-96 AD) - HIST 2310: Lives of the Caesars. https://libguides.jscc.edu/c.php?g=1327001&p=9769514
+
 [^29]: Reign of Domitian (sep 14, 81 – sep 18, 96) Timeline. https://time.graphics/period/1281540
+
 [^30]: Domitian Emperor of Rome till 96 CE and last of the Flavian dynasty. https://coinweek.com/twelve-caesars/domitian/
+
 [^31]: What was the impact of the Emperor Domitian on the Roman Empire - DailyHistory.org. https://www.dailyhistory.org/What_was_the_impact_of_the_Emperor_Domitian_on_the_Roman_Empire
+
 [^32]: The reforms of Domitian - The Metallurgy of Roman Silver Coinage. https://www.cambridge.org/core/books/abs/metallurgy-of-roman-silver-coinage/reforms-of-domitian/964F9C1744B84B672AF7D9B91CE351D8
+
 [^33]: Was the Emperor Domitian good for the Roman Empire's economy? - Quora. https://www.quora.com/Was-the-Emperor-Domitian-good-for-the-Roman-Empires-economy
+
 [^34]: Currency reform in Ancient Rome — Adam Smith Institute. https://www.adamsmith.org/blog/thinkpieces/currency-reform-in-ancient-rome
+
 [^35]: Economic Environment, Policies and Inflation in the Roman Empire. https://www.researchgate.net/publication/264536482_Economic_Environment_Policies_and_Inflation_in_the_Roman_Empire_up_to_Diocletian's_Price_Edict
+
 [^36]: Inflation under the Roman Empire - JSTOR. https://www.jstor.org/stable/2591810
+
 [^37]: THE CONCEPT OF INFLATION IN THE ROMAN EMPIRE. https://econwpa.ub.uni-muenchen.de/econ-wp/eh/papers/0204/0204001.pdf
+
 [^38]: Edict on Maximum Prices - Wikipedia. https://en.wikipedia.org/wiki/Edict_on_Maximum_Prices
+
 [^39]: Diocletian - Domestic Reforms | Britannica. https://www.britannica.com/biography/Diocletian/Domestic-reforms
+
 [^40]: Domitian -- Our Lord, God and Master Builder. https://ancient-history-blog.mq.edu.au/cityOfRome/Domitian
+
 [^41]: Temple of Jupiter Optimus Maximus - Wikipedia. https://en.wikipedia.org/wiki/Temple_of_Jupiter_Optimus_Maximus
+
 [^42]: Palace of Domitian - Wikipedia. https://en.wikipedia.org/wiki/Palace_of_Domitian
+
 [^43]: Flavian Palace - Wikipedia. https://en.wikipedia.org/wiki/Flavian_Palace
+
 [^44]: Domus Augustana - Wikipedia. https://en.wikipedia.org/wiki/Domus_Augustana
+
 [^45]: Learning Sites reconstruction of Domitian's palace. https://www.learningsites.com/Rome/Dom-palace_home.php
+
 [^46]: Colosseum - Wikipedia. https://en.wikipedia.org/wiki/Colosseum
+
 [^47]: Colosseum | Rome, Definition, Characteristics, History, & Facts | Britannica. https://www.britannica.com/topic/Colosseum
+
 [^48]: Stadium of Domitian - Wikipedia. https://en.wikipedia.org/wiki/Stadium_of_Domitian
+
 [^49]: The Stadium of Domitian beneath the Piazza Navona. https://www.museos.com/en/rome/stadium-of-domitian/
+
 [^50]: Piazza Navona - Wikipedia. https://en.wikipedia.org/wiki/Piazza_Navona
+
 [^51]: Domitian's Temples to Jupiter - Key to Umbria. https://www.keytoumbria.com/Umbria/Flavian_Dynasty__Domitians_Temples_to_Jupiter.html
+
 [^52]: Roman Emperors - DIR Domitian. https://roman-emperors.sites.luc.edu/domitian.htm
+
 [^53]: A Level Ancient History: Domitian's Policies. https://kenbaker.wordpress.com/2025/01/06/a-level-ancient-history-domitians-policies/
+
 [^54]: Military Achievements of the Flavians | Western Civilization. https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/military-achievements-of-the-flavians/
+
 [^55]: The Military Career of the "Bad" Emperor Domitian | TheCollector. https://www.thecollector.com/military-career-emperor-domitian/
+
 [^56]: Domitian - Roman Emperor | UNRV Roman History. https://www.unrv.com/early-empire/domitian.php
+
 [^57]: Military. https://www.forumancientcoins.com/Alex/wend/military.htm
+
 [^58]: Domitian's Dacian War - Wikipedia. https://en.wikipedia.org/wiki/Domitian's_Dacian_War
+
 [^59]: Domitian's Dacian War | Military Wiki. https://military-history.fandom.com/wiki/Domitian's_Dacian_War
+
 [^60]: (PDF) Domitian's Dacian War. https://www.researchgate.net/publication/343955815_Domitian's_Dacian_War
+
 [^61]: Trajan's Dacian War | TheCollector. https://www.thecollector.com/emperor-trajan-dacian-war/
+
 [^62]: Trajan's Dacian Wars - Wikipedia. https://en.wikipedia.org/wiki/Trajan's_Dacian_Wars
+
 [^63]: Emperor Domitian: The Controversial Legacy of a Roman Ruler. https://medium.com/@codexaugustorum/title-emperor-domitian-the-controversial-legacy-of-a-roman-ruler-816b2494eff0
+
 [^64]: Domitian: dominus et deus – The Past. https://the-past.com/feature/domitian-dominus-et-deus/
+
 [^65]: Emperor Domitian and the Temple Construction. http://www.anistor.gr/english/enback/e043.htm
+
 [^66]: Domitian | Roman Emperor, Facts, & Reign of Terror. https://www.britannica.com/biography/Domitian
+
 [^67]: Domitian - Wikipedia. https://en.wikipedia.org/wiki/Domitian
+
 [^68]: Domitian - World History Encyclopedia. https://www.worldhistory.org/domitian/
+
 [^69]: Roman Emperors - DIR Domitian. https://roman-emperors.sites.luc.edu/domitian.htm
+
 [^70]: 10 Facts About Emperor Domitian | History Hit. https://www.historyhit.com/facts-about-emperor-domitian/
+
 [^71]: Poetry for Patrons - Literary Communication in the Age of Domitian. https://bmcr.brynmawr.edu/2002/2002.11.22/
+
 [^72]: Martial on Patronage and Literature | The Classical Quarterly. https://www.cambridge.org/core/journals/classical-quarterly/article/abs/martial-on-patronage-and-literature/1F64665C7809C92FB41B938D18C3306B
+
 [^73]: Rise and fall of the tyrannical emperor Domitian - History Skills. https://www.historyskills.com/classroom/ancient-history/anc-domitian-reading/
+
 [^74]: Emperor Domitian 51- 96 AD - ruthless but efficient autocrat. https://roman-empire.net/emperors/emperor-domitian
+
 [^75]: Domitian: dominus et deus – The Past. https://the-past.com/feature/domitian-dominus-et-deus/
+
 [^76]: Emperor Domitian: The Controversial Legacy of a Roman Ruler. https://medium.com/@codexaugustorum/title-emperor-domitian-the-controversial-legacy-of-a-roman-ruler-816b2494eff0
+
 [^77]: Domitian - Wikipedia. https://en.wikipedia.org/wiki/Domitian
+
 [^78]: Roman Emperors - DIR Domitian. https://roman-emperors.sites.luc.edu/domitian.htm
+
 [^79]: Who Was Domitian? Rome's Most Maligned Emperor. https://alexandermeddings.com/history/ancient-history/who-was-domitian/
+
 [^80]: Rise and fall of the tyrannical emperor Domitian. https://www.historyskills.com/classroom/ancient-history/anc-domitian-reading/
+
 [^81]: Suetonius • Life of Domitian. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Domitian*.html
+
 [^82]: Domitian (51-96 AD) - HIST 2310: Lives of the Caesars. https://libguides.jscc.edu/c.php?g=1327001&p=9769514
+
 [^83]: The Tyranny(?) of Emperor Domitian in Ancient Rome - Brewminate. https://brewminate.com/the-tyranny-of-emperor-domitian-in-ancient-rome/
+
 [^84]: Why Was Emperor Domitian Hated by the Elite but Loved by the People? https://www.ancient-origins.net/history-famous-people/domitian-0011392
+
 [^85]: Who was Roman Emperor Domitian and Why Was He Assassinated? https://www.discoveryuk.com/monarchs-and-rulers/who-was-roman-emperor-domitian-and-why-was-he-assassinated/
+
 [^86]: Domitian: Revising Roman Tyranny | TheCollector. https://www.thecollector.com/domitian-roman-emperor/
+
 [^87]: Emperor Domitian: The Controversial Legacy of a Roman Ruler. https://medium.com/@codexaugustorum/title-emperor-domitian-the-controversial-legacy-of-a-roman-ruler-816b2494eff0
+
 [^88]: Domitian - World History Encyclopedia. https://www.worldhistory.org/domitian/
+
 [^89]: The Assassination of Domitian. https://www.historydaily.com/the-assassination-of-domitian-1/
+
 [^90]: Alternative Facts: Domitian's Persecution of Christians - Biblical Archaeology Society. https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/domitian-persecution-of-christians/
+
 [^91]: Domitian and the Persecution That Didn't Happen | National Catholic Register. https://www.ncregister.com/blog/domitian-and-the-persecution-that-didn-t-happen
+
 [^92]: Did Domitian Persecute Christians? An Investigation. https://www.bibleworld.com/domper.pdf
+
 [^93]: Alternative Facts: Domitian's Persecution of Christians. https://sevenchurches.org/alternative-facts-domitians-persecution-of-christians/
+
 [^94]: Did Domitian persecute Christians? – La Vista Church of Christ. https://www.lavistachurchofchrist.org/cms/did-domitian-persecute-christians/
+
 [^95]: DOMITIAN'S PERSECUTION OF CHRISTIANS? | Postmillennial Worldview. https://postmillennialworldview.com/2024/03/05/domitians-persecution-of-christians/
+
 [^96]: Persecution of Christians in the Roman Empire - Wikipedia. https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire
+
 [^97]: The occasion of Domitian's persecution of the Christians. https://www.journals.uchicago.edu/doi/pdf/10.1086/480090
+
 [^98]: CATHOLIC ENCYCLOPEDIA: Domitian. https://www.newadvent.org/cathen/05114b.htm
+
 [^99]: Domitian's Dacian War - Wikipedia. https://en.wikipedia.org/wiki/Domitian's_Dacian_War
+
 [^100]: (PDF) Domitian's Dacian War. https://www.researchgate.net/publication/343955815_Domitian's_Dacian_War
+
 [^101]: Military Achievements of the Flavians | Western Civilization. https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/military-achievements-of-the-flavians/
+
 [^102]: The Military Career of the "Bad" Emperor Domitian | TheCollector. https://www.thecollector.com/military-career-emperor-domitian/
+
 [^103]: Domitia Longina - Wikipedia. https://en.wikipedia.org/wiki/Domitia_Longina
+
 [^104]: Domitia Longina | wife of Domitian | Britannica. https://www.britannica.com/biography/Domitia-Longina
+
 [^105]: Domizia Longina, moglie dell'Imperatore Domiziano. https://www.uffizi.it/en/video/domitia-longina-wife-of-emperor-domitian-a-powerful-woman
+
 [^106]: Roman Emperors - DIR Domitian. https://roman-emperors.sites.luc.edu/domitian.htm
+
 [^107]: Suetonius • Life of Domitian. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Domitian*.html
+
 [^108]: Domitia Longina - Wife Of Domitian | Armstrong Economics. https://www.armstrongeconomics.com/research/monetary-history-of-the-world/roman-empire/chronology_-by_-emperor/2nd-civil-war-end-of-julio-claudian-era/domitia-longina-wife/
+
 [^109]: Domitian (51-96) Life & Death, the Flavian Roman Emperor. https://totallyhistory.com/domitian/
+
 [^110]: Domitia Longina - Ancient of Rome. https://ancientofrome.com/wives-of-roman-emperors/69-domitia-longina
+
 [^111]: Domitian - Wikipedia. https://en.wikipedia.org/wiki/Domitian
+
 [^112]: Domitia Longina | wife of Domitian | Britannica. https://www.britannica.com/biography/Domitia-Longina
+
 [^113]: Roman Emperors - DIR Domitian. https://roman-emperors.sites.luc.edu/domitian.htm
+
 [^114]: Domitia Longina - Wikipedia. https://en.wikipedia.org/wiki/Domitia_Longina
+
 [^115]: Domitia Longina - Wife Of Domitian | Armstrong Economics. https://www.armstrongeconomics.com/research/monetary-history-of-the-world/roman-empire/chronology_-by_-emperor/2nd-civil-war-end-of-julio-claudian-era/domitia-longina-wife/
+
 [^116]: Suetonius • Life of Domitian. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Domitian*.html
+
 [^117]: Quotations from Domitian | WIST Quotations. https://wist.info/domitian/
+
 [^118]: Roman Emperor Domitian Quotes, Quotations & Sayings 2024. https://www.searchquotes.com/search/Roman_Emperor_Domitian/
+
 [^119]: Domitian: Quotes & Texts. https://kwize.com/en/themes/Domitian/
+
 [^120]: Portrait Bust of Emperor Domitian. https://emuseum.toledomuseum.org/objects/56541/portrait-bust-of-emperor-domitian
+
 [^121]: Portrait Bust of Emperor Domitian - Google Arts & Culture. https://artsandculture.google.com/asset/portrait-bust-of-emperor-domitian/PwHrir33nsoaGA
+
 [^122]: Emperor Domitian (recorded by Suetonius) - The Historian's Hut. https://thehistorianshut.com/2019/04/13/emperor-domitian-recorded-by-suetonius/
+
 [^123]: What was the impact of the Emperor Domitian on the Roman Empire. https://www.dailyhistory.org/What_was_the_impact_of_the_Emperor_Domitian_on_the_Roman_Empire
+
 [^124]: Damnatio Memoriae. A Few Words on Emperor Domitian. https://justmovingaround.com/2023/05/05/damnatio-memoriae-a-few-words-on-emperor-domitian/
+
 [^125]: Damnatio memoriae - Wikipedia. https://en.wikipedia.org/wiki/Damnatio_memoriae
+
 [^126]: Damnatio Memoriae: Rome's Brutal Erasure of Disgraced Emperors. https://ancientwarhistory.com/damnatio-memoriae-romes-brutal-erasure-of-disgraced-emperors/
+
 [^127]: The Assassination of Domitian. https://www.historydaily.com/the-assassination-of-domitian-1/
+
 [^128]: Damnatio memoriae: Purging People from Public Memory. https://www.ancient-origins.net/history/damnation-memory-and-efforts-erase-condemned-history-002331
+
 [^129]: Damnatio Memoriae: How the Romans Erased People from History. https://alexandermeddings.com/history/ancient-history/damnatio-memoriae-romans-erased-from-history/
+
 [^130]: Damnatio Memoriae: On Facing, Not Forgetting, Our Past – Discentes. https://web.sas.upenn.edu/discentes/2020/08/21/damnatio-memoriae-on-facing-not-forgetting-our-past/
+
 [^131]: What is the meaning of the Latin phrase "Damnatio memoriae"? https://worldhistoryedu.com/what-is-the-meaning-of-the-latin-phrase-damnatio-memoriae/
+
 [^132]: Why Was Emperor Domitian Hated by the Elite but Loved by the People? https://www.ancient-origins.net/history-famous-people/domitian-0011392
+
 [^133]: Rise and fall of the tyrannical emperor Domitian. https://www.historyskills.com/classroom/ancient-history/anc-domitian-reading/
+
 [^134]: Domitian: Revising Roman Tyranny | TheCollector. https://www.thecollector.com/domitian-roman-emperor/
+
 [^135]: The Tyranny(?) of Emperor Domitian in Ancient Rome. https://brewminate.com/the-tyranny-of-emperor-domitian-in-ancient-rome/
+
 [^136]: Poetry for Patrons - Literary Communication in the Age of Domitian. https://bmcr.brynmawr.edu/2002/2002.11.22/
+
 [^137]: Martial on Patronage and Literature | The Classical Quarterly. https://www.cambridge.org/core/journals/classical-quarterly/article/abs/martial-on-patronage-and-literature/1F64665C7809C92FB41B938D18C3306B
+
 [^138]: The Art of Complicity in Martial and Statius - Oxford University Press. https://global.oup.com/academic/product/the-art-of-complicity-in-martial-and-statius-9780192898111
+
 [^139]: Emperor Domitian: Tyrant or Reformer? https://romanempiretimes.com/emperor-domitian-tyrant-or-reformer/
+
 [^140]: Demystifying Domitian: Rome's Most Misunderstood Emperor? https://www.walksinsiderome.com/blog/demystifying-domitian-romes-most-misunderstood-emperor/
+
 [^141]: Domitian's Rome and the Augustan Legacy | University of Michigan Press. https://press.umich.edu/Books/D/Domitian-s-Rome-and-the-Augustan-Legacy2
+
 [^142]: Emperor Domitian: The Controversial Legacy of a Roman Ruler. https://medium.com/@codexaugustorum/title-emperor-domitian-the-controversial-legacy-of-a-roman-ruler-816b2494eff0
+
 [^143]: Was the Emperor Domitian good for the Roman Empire's economy? https://www.quora.com/Was-the-Emperor-Domitian-good-for-the-Roman-Empires-economy
+
 [^144]: Domitian: An Innovative Emperor? | American Journal of Archaeology. https://www.journals.uchicago.edu/doi/full/10.1086/723402
+
 [^145]: A Level Ancient History: Domitian's Policies. https://kenbaker.wordpress.com/2025/01/06/a-level-ancient-history-domitians-policies/
+
 [^146]: Military Achievements of the Flavians | Western Civilization. https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/military-achievements-of-the-flavians/
+
 [^147]: Palace of Domitian - Wikipedia. https://en.wikipedia.org/wiki/Palace_of_Domitian
+
 [^148]: The reforms of Domitian - The Metallurgy of Roman Silver Coinage. https://www.cambridge.org/core/books/abs/metallurgy-of-roman-silver-coinage/reforms-of-domitian/964F9C1744B84B672AF7D9B91CE351D8
+
 [^149]: Roman Emperors - DIR Domitian. https://roman-emperors.sites.luc.edu/domitian.htm
+
 [^150]: Domitian: Revising Roman Tyranny | TheCollector. https://www.thecollector.com/domitian-roman-emperor/
+
 [^151]: The Tyranny(?) of Emperor Domitian in Ancient Rome. https://brewminate.com/the-tyranny-of-emperor-domitian-in-ancient-rome/
+
 [^152]: Domitian's Rome and the Augustan Legacy (Book Review). https://www.worldhistory.org/review/502/domitians-rome-and-the-augustan-legacy/
+
 [^153]: God on Earth: Emperor Domitian @ Sidestone Press. https://www.sidestone.com/books/god-on-earth-emperor-domitian
+
 [^154]: What was the impact of the Emperor Domitian on the Roman Empire. https://www.dailyhistory.org/What_was_the_impact_of_the_Emperor_Domitian_on_the_Roman_Empire
+
 [^155]: Currency reform in Ancient Rome. https://www.adamsmith.org/blog/thinkpieces/currency-reform-in-ancient-rome
+
 [^156]: Domitian -- Our Lord, God and Master Builder. https://ancient-history-blog.mq.edu.au/cityOfRome/Domitian
+
 [^157]: Flavian Palace - Wikipedia. https://en.wikipedia.org/wiki/Flavian_Palace
+
 [^158]: The Military Career of the "Bad" Emperor Domitian | TheCollector. https://www.thecollector.com/military-career-emperor-domitian/
+
 [^159]: Military Achievements of the Flavians. https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/military-achievements-of-the-flavians/
+
 [^160]: Roman Emperors - DIR Domitian. https://roman-emperors.sites.luc.edu/domitian.htm
+
 [^161]: A Level Ancient History: Domitian's Policies. https://kenbaker.wordpress.com/2025/01/06/a-level-ancient-history-domitians-policies/
+
 [^162]: Domitian's Rome and the Augustan Legacy. https://press.umich.edu/Books/D/Domitian-s-Rome-and-the-Augustan-Legacy2
+
 [^163]: Poetry for Patrons - Literary Communication in the Age of Domitian. https://bmcr.brynmawr.edu/2002/2002.11.22/
+
 [^164]: Literary Culture - A Companion to the Flavian Age of Imperial Rome. https://onlinelibrary.wiley.com/doi/10.1002/9781118878149.ch21
+
 [^165]: Domitian: An Innovative Emperor? https://www.journals.uchicago.edu/doi/full/10.1086/723402
+
 [^166]: Rise and fall of the tyrannical emperor Domitian. https://www.historyskills.com/classroom/ancient-history/anc-domitian-reading/
+
 [^167]: Emperor Domitian 51- 96 AD - ruthless but efficient autocrat. https://roman-empire.net/emperors/emperor-domitian
+
 [^168]: Domitian (51-96 AD) - HIST 2310: Lives of the Caesars. https://libguides.jscc.edu/c.php?g=1327001&p=9769514
+
 [^169]: Domitian: dominus et deus – The Past. https://the-past.com/feature/domitian-dominus-et-deus/
+
 [^170]: Domitian's Dacian War. https://www.researchgate.net/publication/343955815_Domitian's_Dacian_War
+
 [^171]: The Tyranny(?) of Emperor Domitian in Ancient Rome. https://brewminate.com/the-tyranny-of-emperor-domitian-in-ancient-rome/
+
 [^172]: Who was Roman Emperor Domitian and Why Was He Assassinated? https://www.discoveryuk.com/monarchs-and-rulers/who-was-roman-emperor-domitian-and-why-was-he-assassinated/
+
 [^173]: Damnatio memoriae - Wikipedia. https://en.wikipedia.org/wiki/Damnatio_memoriae
+
 [^174]: Domitian: Revising Roman Tyranny. https://www.thecollector.com/domitian-roman-emperor/
+
 [^175]: Emperor Domitian: The Controversial Legacy of a Roman Ruler. https://medium.com/@codexaugustorum/title-emperor-domitian-the-controversial-legacy-of-a-roman-ruler-816b2494eff0
+
 [^176]: Why Was Emperor Domitian Hated by the Elite but Loved by the People? https://www.ancient-origins.net/history-famous-people/domitian-0011392
+
 [^177]: The Assassination of Domitian. https://www.historydaily.com/the-assassination-of-domitian-1/
+
 [^178]: Domitian's Assassination On the Palatine Hill. https://www.jeffbondono.com/touristinrome/WaltersTours/DomitiansAssassination.html
+
 [^179]: Nerva - Wikipedia. https://en.wikipedia.org/wiki/Nerva
+
 [^180]: The Second Persecution, Under Domitian, A.D. 81 - Fox's Book of Martyrs. https://www.biblestudytools.com/history/foxs-book-of-martyrs/the-second-persecution-under-domitian-a-d-81.html
+
 [^181]: Roman Emperor Domitian Quotes, Quotations & Sayings 2024. https://www.searchquotes.com/search/Roman_Emperor_Domitian/
+
 [^182]: Domitian: Quotes & Texts. https://kwize.com/en/themes/Domitian/
+
 [^183]: Quotations from Domitian | WIST Quotations. https://wist.info/domitian/
+
 [^184]: Suetonius • Life of Domitian. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Domitian*.html
+
 [^185]: Top 17 Quotes About Domitian: Famous Quotes & Sayings About Domitian. https://quotestats.com/topic/quotes-about-domitian/

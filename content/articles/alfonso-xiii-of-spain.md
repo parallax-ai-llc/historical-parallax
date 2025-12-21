@@ -135,7 +135,7 @@ In understanding the political role of the king in the constitutional regime, th
 
 ### Positive Views
 
-Alfonso XIII's defenders point to his genuine humanitarian efforts during World War I, which earned international recognition and gratitude from belligerent powers.[^109] Winston Churchill, in his 1938 memoir *Great Contemporaries*, praised King Alfonso's "vigilant care for the interest of his country and his earnest desire for the material welfare and progress of its people."[^110]
+Alfonso XIII's defenders point to his genuine humanitarian efforts during World War I, which earned international recognition and gratitude from belligerent powers.[^109] Winston Churchill, in his 1938 memoir _Great Contemporaries_, praised King Alfonso's "vigilant care for the interest of his country and his earnest desire for the material welfare and progress of its people."[^110]
 
 Supporters also highlight Alfonso's attempts at modernization during the early years of his reign, when he sought to use his limited constitutional powers to spur reform in the political system and modernize the economy.[^111] His promotion of infrastructure development, including the world's first river basin agency (Ebro HC) in 1926, tourism through the Parador network, and support for aviation and technology, demonstrated forward-thinking leadership.[^112]
 
@@ -159,33 +159,33 @@ By 1931, Alfonso XIII was a bankrupt monarch who had failed to provide necessary
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1886 | Born 17 May at Royal Palace of Madrid as posthumous son of Alfonso XII |
-| 1886 | Became King of Spain at birth; mother Maria Christina of Austria serves as regent |
-| 1902 | Assumed full royal powers on his sixteenth birthday, 17 May |
-| 1906 | Married Princess Victoria Eugenie of Battenberg on 31 May |
-| 1906 | Survived assassination attempt by anarchist Mateu Morral at wedding |
-| 1907 | Birth of first son Alfonso, Prince of Asturias, who inherited hemophilia |
-| 1909 | Established Catalan Cup for voiturette (automobile) racing |
-| 1910 | Supported Spain's first successful aviation flight |
-| 1914 | World War I begins; Spain remains neutral |
-| 1915 | Established European War Office (Oficina Pro Cautivos) for humanitarian relief |
-| 1917 | Nominated for Nobel Peace Prize for humanitarian work during WWI |
-| 1917 | Spanish crisis: military juntas revolt, general strike crushed, 71 dead |
-| 1921 | Disaster of Annual in Morocco: over 13,000 Spanish soldiers killed |
-| 1921 | European War Office closes after handling 500,000 petitions |
+| Year | Event                                                                               |
+| ---- | ----------------------------------------------------------------------------------- |
+| 1886 | Born 17 May at Royal Palace of Madrid as posthumous son of Alfonso XII              |
+| 1886 | Became King of Spain at birth; mother Maria Christina of Austria serves as regent   |
+| 1902 | Assumed full royal powers on his sixteenth birthday, 17 May                         |
+| 1906 | Married Princess Victoria Eugenie of Battenberg on 31 May                           |
+| 1906 | Survived assassination attempt by anarchist Mateu Morral at wedding                 |
+| 1907 | Birth of first son Alfonso, Prince of Asturias, who inherited hemophilia            |
+| 1909 | Established Catalan Cup for voiturette (automobile) racing                          |
+| 1910 | Supported Spain's first successful aviation flight                                  |
+| 1914 | World War I begins; Spain remains neutral                                           |
+| 1915 | Established European War Office (Oficina Pro Cautivos) for humanitarian relief      |
+| 1917 | Nominated for Nobel Peace Prize for humanitarian work during WWI                    |
+| 1917 | Spanish crisis: military juntas revolt, general strike crushed, 71 dead             |
+| 1921 | Disaster of Annual in Morocco: over 13,000 Spanish soldiers killed                  |
+| 1921 | European War Office closes after handling 500,000 petitions                         |
 | 1923 | Supported General Primo de Rivera's coup d'état, establishing military dictatorship |
-| 1925 | Target of assassination plot by Catalan separatists in Barcelona |
-| 1926 | Created Ebro Hydrographic Confederation, world's first river basin agency |
-| 1930 | Withdrew support from Primo de Rivera, who resigned in January |
-| 1931 | Municipal elections result in Republican-Socialist landslide on 12 April |
-| 1931 | Left Spain for exile on 14 April as Second Spanish Republic proclaimed |
-| 1934 | Son Gonzalo died from hemophilia complications after car accident |
-| 1938 | Son Alfonso, Prince of Asturias, died from hemophilia after car accident |
-| 1941 | Renounced rights to defunct Spanish throne in favor of son Juan on 15 January |
-| 1941 | Died at Grand Hotel in Rome, Italy on 28 February at age 54 |
-| 1975 | Grandson Juan Carlos I became King, restoring Spanish monarchy |
+| 1925 | Target of assassination plot by Catalan separatists in Barcelona                    |
+| 1926 | Created Ebro Hydrographic Confederation, world's first river basin agency           |
+| 1930 | Withdrew support from Primo de Rivera, who resigned in January                      |
+| 1931 | Municipal elections result in Republican-Socialist landslide on 12 April            |
+| 1931 | Left Spain for exile on 14 April as Second Spanish Republic proclaimed              |
+| 1934 | Son Gonzalo died from hemophilia complications after car accident                   |
+| 1938 | Son Alfonso, Prince of Asturias, died from hemophilia after car accident            |
+| 1941 | Renounced rights to defunct Spanish throne in favor of son Juan on 15 January       |
+| 1941 | Died at Grand Hotel in Rome, Italy on 28 February at age 54                         |
+| 1975 | Grandson Juan Carlos I became King, restoring Spanish monarchy                      |
 
 ---
 
@@ -193,7 +193,7 @@ By 1931, Alfonso XIII was a bankrupt monarch who had failed to provide necessary
 
 ### About Alfonso XIII by Others
 
-> "Vigilant care for the interest of his country and his earnest desire for the material welfare and progress of its people." - Winston Churchill, *Great Contemporaries* (1938), praising Alfonso XIII's efforts during his reign[^126]
+> "Vigilant care for the interest of his country and his earnest desire for the material welfare and progress of its people." - Winston Churchill, _Great Contemporaries_ (1938), praising Alfonso XIII's efforts during his reign[^126]
 
 > "Hurrah for real men!" - Telegram sent by King Alfonso XIII to General Fernández Silvestre in 1921, urging him not to retreat in Morocco shortly before the Disaster of Annual that killed over 13,000 Spanish soldiers[^127]
 
@@ -206,132 +206,261 @@ Unfortunately, there are very few documented direct quotes or speeches from Alfo
 ## References
 
 [^1]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^2]: Alfonso XIII | King of Spain, Second Republic | Britannica. https://www.britannica.com/biography/Alfonso-XIII
+
 [^3]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^4]: Kingdom Of Spain - History And Restoration. https://www.worldatlas.com/articles/the-kingdom-of-spain-history-and-restoration.html
+
 [^5]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^6]: King Alfonso XIII of Spain | Unofficial Royalty. https://www.unofficialroyalty.com/king-alfonso-xiii-of-spain/
+
 [^7]: Alfonso XIII | King of Spain, Second Republic | Britannica. https://www.britannica.com/biography/Alfonso-XIII
+
 [^8]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^9]: Alfonso XIII - Students | Britannica Kids | Homework Help. https://kids.britannica.com/students/article/Alfonso-XIII/272801
+
 [^10]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^11]: Alfonso XIII. https://spartacus-educational.com/SPalfonso.htm
+
 [^12]: Alfonso XIII - Students | Britannica Kids | Homework Help. https://kids.britannica.com/students/article/Alfonso-XIII/272801
+
 [^13]: Alfonso XIII - Students | Britannica Kids | Homework Help. https://kids.britannica.com/students/article/Alfonso-XIII/272801
+
 [^14]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^15]: Alfonso Xiii | Encyclopedia.com. https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/alfonso-xiii
+
 [^16]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^17]: Alfonso XIII, King of Spain / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia. https://encyclopedia.1914-1918-online.net/article/alfonso-xiii-king-of-spain/
+
 [^18]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^19]: Alfonso XIII. https://spartacus-educational.com/SPalfonso.htm
+
 [^20]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^21]: King Alfonso XIII of Spain | Unofficial Royalty. https://www.unofficialroyalty.com/king-alfonso-xiii-of-spain/
+
 [^22]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^23]: Turno - Wikipedia. https://en.wikipedia.org/wiki/Turno
+
 [^24]: Political system of the Restoration (Spain) - Wikipedia. https://en.wikipedia.org/wiki/Political_system_of_the_Restoration_(Spain)
+
 [^25]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^26]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^27]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^28]: Wedding of King Alfonso XIII of Spain and Princess Victoria Eugenie of Battenberg | Unofficial Royalty. https://www.unofficialroyalty.com/wedding-of-king-alfonso-xiii-of-spain-and-princess-victoria-eugenie-of-battenberg/
+
 [^29]: Wedding of King Alfonso XIII of Spain and Princess Victoria Eugenie of Battenberg | Unofficial Royalty. https://www.unofficialroyalty.com/wedding-of-king-alfonso-xiii-of-spain-and-princess-victoria-eugenie-of-battenberg/
+
 [^30]: Morral affair - Wikipedia. https://en.wikipedia.org/wiki/Morral_affair
+
 [^31]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^32]: Alfonso XIII, King of Spain / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia. https://encyclopedia.1914-1918-online.net/article/alfonso-xiii-king-of-spain/
+
 [^33]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^34]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^35]: The Spanish King Alfonso XIII's Humanitarian Work during World War I: The Creation of the European War Office (1914 – 1919) | GNOSI: An Interdisciplinary Journal of Human Theory and Praxis. https://gnosijournal.com/index.php/gnosi/article/view/183
+
 [^36]: The Spanish King Alfonso XIII's Humanitarian Work during World War I. https://gnosijournal.com/index.php/gnosi/article/view/183
+
 [^37]: "Royal Knight of Charity": King Alfonso XIII of Spain in WWI | 4 Corners of the World. https://blogs.loc.gov/international-collections/2018/01/royal-knight-of-charity-king-alfonso-xiii-of-spain-in-wwi/
+
 [^38]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^39]: "Royal Knight of Charity": King Alfonso XIII of Spain in WWI | 4 Corners of the World. https://blogs.loc.gov/international-collections/2018/01/royal-knight-of-charity-king-alfonso-xiii-of-spain-in-wwi/
+
 [^40]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^41]: Alfonso XIII, King of Spain / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia. https://encyclopedia.1914-1918-online.net/article/alfonso-xiii-king-of-spain/
+
 [^42]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^43]: How the Ebro Hydrographic Confederation and Other River Basin Authorities Manage Spain's Water Resources - Issuu. https://issuu.com/waterstrategies/docs/il_october_2020/s/10967883
+
 [^44]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^45]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^46]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^47]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^48]: Alfonso XIII Was The First Car-Guy King and Hispano-Suiza Was His Favorite Car. https://www.autoweek.com/news/sports-cars/a34244251/alfonso-xiii-and-hispano-suiza/
+
 [^49]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^50]: Alfonso XIII Was The First Car-Guy King and Hispano-Suiza Was His Favorite Car. https://www.autoweek.com/news/sports-cars/a34244251/alfonso-xiii-and-hispano-suiza/
+
 [^51]: THE HISPANO-SUIZA ALFONSO XIII | Simanaitis Says. https://simanaitissays.com/2015/01/04/the-hispano-suiza-alfonso-xiii/
+
 [^52]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^53]: Battle of Annual - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Annual
+
 [^54]: The Battle of Annual: How Spain Lost Over 13,000 Troops in Its Worst Military Defeat in Africa - TalkAfricana. https://talkafricana.com/the-battle-of-annual-how-spain-suffered-its-deadliest-military-defeat-in-africa/
+
 [^55]: Battle of Annual - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Annual
+
 [^56]: Battle of Annual - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Annual
+
 [^57]: Battle of Annual - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Annual
+
 [^58]: The Disaster of Annual: The battle that still haunts Spain - The New World. https://www.thenewworld.co.uk/the-battle-of-annual/
+
 [^59]: Battle of Annual - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Annual
+
 [^60]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^61]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^62]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^63]: King Alfonso XIII | Topics | History | tutor2u. https://www.tutor2u.net/history/topics/king-alfonso-xiii
+
 [^64]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^65]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^66]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^67]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^68]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^69]: Alfonso XIII, King of Spain / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia. https://encyclopedia.1914-1918-online.net/article/alfonso-xiii-king-of-spain/
+
 [^70]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^71]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^72]: Spanish crisis of 1917 - Wikipedia. https://en.wikipedia.org/wiki/Spanish_crisis_of_1917
+
 [^73]: Spanish crisis of 1917 - Wikipedia. https://en.wikipedia.org/wiki/Spanish_crisis_of_1917
+
 [^74]: 1917 Spanish general strike - Wikipedia. https://en.wikipedia.org/wiki/1917_Spanish_general_strike
+
 [^75]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^76]: Political autonomy and conflict resolution: The Basque case. https://archive.unu.edu/unupress/unupbooks/uu12ee/uu12ee0m.htm
+
 [^77]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^78]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^79]: Spain ... A Republic! Alfonso XIII ... An Exile! https://www.linkedin.com/pulse/spain-republic-alfonso-xiii-exile-ana-muniesa-
+
 [^80]: Second Spanish Republic Is Proclaimed | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/second-spanish-republic-proclaimed
+
 [^81]: Wedding of King Alfonso XIII of Spain and Princess Victoria Eugenie of Battenberg | Unofficial Royalty. https://www.unofficialroyalty.com/wedding-of-king-alfonso-xiii-of-spain-and-princess-victoria-eugenie-of-battenberg/
+
 [^82]: Wedding of King Alfonso XIII of Spain and Princess Victoria Eugenie of Battenberg | Unofficial Royalty. https://www.unofficialroyalty.com/wedding-of-king-alfonso-xiii-of-spain-and-princess-victoria-eugenie-of-battenberg/
+
 [^83]: King Alfonso XIII of Spain | Unofficial Royalty. https://www.unofficialroyalty.com/king-alfonso-xiii-of-spain/
+
 [^84]: Victoria Eugenie of Battenberg - Wikipedia. https://en.wikipedia.org/wiki/Victoria_Eugenie_of_Battenberg
+
 [^85]: Haemophilia in European royalty - Wikipedia. https://en.wikipedia.org/wiki/Haemophilia_in_European_royalty
+
 [^86]: Victoria Eugenie of Battenberg - Wikipedia. https://en.wikipedia.org/wiki/Victoria_Eugenie_of_Battenberg
+
 [^87]: Haemophilia in the Descendants of Queen Victoria. https://englishmonarchs.co.uk/haemophilia.html
+
 [^88]: Victoria Eugenie of Battenberg - Wikipedia. https://en.wikipedia.org/wiki/Victoria_Eugenie_of_Battenberg
+
 [^89]: Historical and political implications of haemophilia in the Spanish royal family - PubMed. https://pubmed.ncbi.nlm.nih.gov/12614365/
+
 [^90]: Victoria Eugenie of Battenberg - Wikipedia. https://en.wikipedia.org/wiki/Victoria_Eugenie_of_Battenberg
+
 [^91]: The Royal Disease: Spain, Prussia and haemophilia - Science Museum Blog. https://blog.sciencemuseum.org.uk/the-royal-disease-spain-prussia-and-haemophilia/
+
 [^92]: Alfonso XIII Was The First Car-Guy King and Hispano-Suiza Was His Favorite Car. https://www.autoweek.com/news/sports-cars/a34244251/alfonso-xiii-and-hispano-suiza/
+
 [^93]: Kings and Cars Part 1 - Alfonso XIII of Spain - PreWarCar. https://www.prewarcar.com/kings-and-cars-part-1-alfonso-xiii-of-spain
+
 [^94]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^95]: Victoria Eugenie of Battenberg - Wikipedia. https://en.wikipedia.org/wiki/Victoria_Eugenie_of_Battenberg
+
 [^96]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^97]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^98]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^99]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^100]: Alfonso XIII. https://spartacus-educational.com/SPalfonso.htm
+
 [^101]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^102]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^103]: Accession of King Juan Carlos of Spain | The Royal Watcher. https://royalwatcherblog.com/2025/11/22/accession-of-king-juan-carlos-of-spain-1975/
+
 [^104]: Kingdom Of Spain - History And Restoration. https://www.worldatlas.com/articles/the-kingdom-of-spain-history-and-restoration.html
+
 [^105]: Accession of King Juan Carlos of Spain | The Royal Watcher. https://royalwatcherblog.com/2025/11/22/accession-of-king-juan-carlos-of-spain-1975/
+
 [^106]: Review of Javier Moreno Luzón, El rey patriota. Alfonso XIII. https://asphs.net/wp-content/uploads/2023/12/Review_5_Rey_patriota-1.pdf
+
 [^107]: Review of Javier Moreno Luzón, El rey patriota. Alfonso XIII. https://asphs.net/wp-content/uploads/2023/12/Review_5_Rey_patriota-1.pdf
+
 [^108]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^109]: "Royal Knight of Charity": King Alfonso XIII of Spain in WWI | 4 Corners of the World. https://blogs.loc.gov/international-collections/2018/01/royal-knight-of-charity-king-alfonso-xiii-of-spain-in-wwi/
+
 [^110]: Alfonso XIII. https://spartacus-educational.com/SPalfonso.htm
+
 [^111]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^112]: How the Ebro Hydrographic Confederation and Other River Basin Authorities Manage Spain's Water Resources - Issuu. https://issuu.com/waterstrategies/docs/il_october_2020/s/10967883
+
 [^113]: Alfonso XIII Of Spain Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/alfonso-xiii-of-spain-8045.php
+
 [^114]: Alfonso XIII Was The First Car-Guy King and Hispano-Suiza Was His Favorite Car. https://www.autoweek.com/news/sports-cars/a34244251/alfonso-xiii-and-hispano-suiza/
+
 [^115]: Turno - Wikipedia. https://en.wikipedia.org/wiki/Turno
+
 [^116]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^117]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^118]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^119]: Reign of Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII
+
 [^120]: Battle of Annual - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Annual
+
 [^121]: The Disaster of Annual: The battle that still haunts Spain - The New World. https://www.thenewworld.co.uk/the-battle-of-annual/
+
 [^122]: Alfonso XIII (1886–1941) | Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alfonso-xiii-1886-1941
+
 [^123]: Spain ... A Republic! Alfonso XIII ... An Exile! https://www.linkedin.com/pulse/spain-republic-alfonso-xiii-exile-ana-muniesa-
+
 [^124]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^125]: Alfonso XIII - Wikipedia. https://en.wikipedia.org/wiki/Alfonso_XIII
+
 [^126]: Alfonso XIII. https://spartacus-educational.com/SPalfonso.htm
+
 [^127]: Battle of Annual - Wikipedia. https://en.wikipedia.org/wiki/Battle_of_Annual
+
 [^128]: King Alfonso XIII - Quotes - IMDb. https://m.imdb.com/name/nm0454367/quotes/
+
 [^129]: Alfonso XIII. https://spartacus-educational.com/SPalfonso.htm
+
 [^130]: Alfonso XIII, King of Spain / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia. https://encyclopedia.1914-1918-online.net/article/alfonso-xiii-king-of-spain/

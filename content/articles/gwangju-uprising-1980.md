@@ -44,7 +44,7 @@ On May 17, 1980, Chun Doo-hwan's military leadership dramatically expanded marti
 
 - Closed all universities indefinitely
 - Banned all political activities and meetings
-- Suspended the National Assembly  
+- Suspended the National Assembly
 - Imposed strict press censorship
 - Arrested opposition leaders across the country[^13]
 
@@ -64,9 +64,10 @@ Rather than intimidating the population, this brutality inflamed Gwangju. By eve
 
 ### May 19-20: Escalation
 
-Over the following days, protests swelled exponentially. The military deployed additional paratroop units (3rd, 7th, and 11th Airborne Brigades), but their continued brutality only intensified public fury.[^17] 
+Over the following days, protests swelled exponentially. The military deployed additional paratroop units (3rd, 7th, and 11th Airborne Brigades), but their continued brutality only intensified public fury.[^17]
 
 Key developments:
+
 - Taxi and bus drivers organized convoys to transport demonstrators
 - Citizens provided food, water, and first aid to protesters
 - Workers joined in growing numbers despite martial law orders
@@ -108,21 +109,21 @@ The ten-day uprising had ended. Martial law forces rapidly consolidated control,
 
 ### Government/Military
 
-| Name | Role | Position |
-|------|------|----------|
-| Chun Doo-hwan (전두환) | Paramount leader | Ordered martial law extension and crackdown; later became president |
-| Roh Tae-woo (노태우) | Military commander | Key co-conspirator in December coup; later president |
-| Lee Hee-sung (이희성) | Martial Law Commander | Army Chief of Staff who authorized troop deployments |
-| Jeong Ho-yong (정호용) | Special Warfare Commander | Commanded airborne units responsible for initial brutality |
+| Name                   | Role                      | Position                                                            |
+| ---------------------- | ------------------------- | ------------------------------------------------------------------- |
+| Chun Doo-hwan (전두환) | Paramount leader          | Ordered martial law extension and crackdown; later became president |
+| Roh Tae-woo (노태우)   | Military commander        | Key co-conspirator in December coup; later president                |
+| Lee Hee-sung (이희성)  | Martial Law Commander     | Army Chief of Staff who authorized troop deployments                |
+| Jeong Ho-yong (정호용) | Special Warfare Commander | Commanded airborne units responsible for initial brutality          |
 
 ### Citizen Leaders
 
-| Name | Role | Fate |
-|------|------|------|
-| Yoon Sang-won (윤상원) | Citizens' Army spokesman | Killed defending Provincial Hall, May 27 |
-| Kim Dae-jung (김대중) | Opposition leader | Arrested before uprising; sentenced to death (commuted); later became president |
-| Park Nam-sun | Citizens' Settlement Committee | Negotiated with military authorities |
-| Lee Jae-eui (이재의) | Student leader | Documented events; later wrote definitive accounts |
+| Name                   | Role                           | Fate                                                                            |
+| ---------------------- | ------------------------------ | ------------------------------------------------------------------------------- |
+| Yoon Sang-won (윤상원) | Citizens' Army spokesman       | Killed defending Provincial Hall, May 27                                        |
+| Kim Dae-jung (김대중)  | Opposition leader              | Arrested before uprising; sentenced to death (commuted); later became president |
+| Park Nam-sun           | Citizens' Settlement Committee | Negotiated with military authorities                                            |
+| Lee Jae-eui (이재의)   | Student leader                 | Documented events; later wrote definitive accounts                              |
 
 ---
 
@@ -131,15 +132,18 @@ The ten-day uprising had ended. Martial law forces rapidly consolidated control,
 The death toll from the Gwangju Uprising remains one of its most contentious aspects, with figures varying dramatically depending on the source:
 
 **Official Government Figures (1980):**
+
 - 165 civilians killed, 3,515 injured
 - 22 soldiers and 4 police officers killed[^28]
 
 **Independent Estimates:**
+
 - Analysis of city death records showed approximately 2,300 excess deaths during May 1980 compared to historical averages[^29]
 - Estimates range from 600 to over 2,000 civilian deaths
 - Hundreds of bodies reported dumped in mass graves outside the city
 
 **1997 Official Investigation:**
+
 - 165 confirmed deaths
 - 76 individuals still missing (presumed dead)
 - Over 3,000 injured
@@ -160,6 +164,7 @@ One of the most persistent controversies surrounding the Gwangju Uprising is the
 - No American intervention prevented the assault on Gwangju[^31]
 
 **Declassified documents revealed:**
+
 - The US commander in Korea authorized the release of ROK troops from combined command to allow the Gwangju operation
 - The US ambassador was informed of crackdown plans the day before they occurred
 - US intelligence confirmed that claims of "North Korean instigation" were false[^32]
@@ -171,12 +176,14 @@ While the US government maintained it lacked authority to prevent the troop move
 For years after 1980, the official characterization of events differed dramatically:
 
 **Government Position (1980-1988):**
+
 - "Gwangju Riot" (광주 폭동)
 - Instigated by North Korean agents and communist sympathizers
 - Kim Dae-jung as mastermind
 - Military response as necessary for national security[^34]
 
 **Democratic Movement Position:**
+
 - "Gwangju Uprising" or "Gwangju Democratization Movement"
 - Legitimate resistance against unconstitutional military dictatorship
 - Citizens exercising their sovereign right to resist tyranny
@@ -204,6 +211,7 @@ Contemporary scholarship overwhelmingly recognizes the Gwangju Uprising as a piv
 
 **Contemporary Government Defense (1980):**
 The Chun Doo-hwan government characterized the uprising as a security threat orchestrated by pro-communist elements seeking to destabilize the nation. This view held that:
+
 - The military response prevented potential civil war or national collapse
 - Armed civilian resistance constituted illegal insurrection
 - Restoration of order was necessary for economic development[^40]
@@ -223,6 +231,7 @@ Some analysts have questioned whether the decision to arm citizens prolonged the
 **Democratization:** The Gwangju Uprising provided the moral foundation for South Korea's democracy movement. When the 1987 June Democracy Uprising succeeded in forcing democratic concessions, participants explicitly invoked Gwangju as their inspiration. The "Gwangju spirit" (광주 정신) became synonymous with democratic resistance.[^43]
 
 **Presidential Legacies:** Two subsequent South Korean presidents had direct connections to Gwangju:
+
 - Kim Dae-jung, sentenced to death for allegedly instigating the uprising, was elected president in 1997 and later awarded the Nobel Peace Prize
 - Roh Moo-hyun, a human rights lawyer who defended Gwangju victims, became president in 2003[^44]
 
@@ -241,6 +250,7 @@ May 18 is now a national memorial day in South Korea (5·18 민주화운동 기�
 ### International Resonance
 
 The Gwangju Uprising has become a reference point for understanding state violence and citizen resistance globally:
+
 - Compared frequently with Tiananmen Square (which occurred nine years later)
 - Studied as a model of transitional justice for addressing past state crimes
 - Invoked by democracy movements from Hong Kong to Myanmar[^49]
@@ -249,74 +259,122 @@ The Gwangju Uprising has become a reference point for understanding state violen
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| October 26, 1979 | President Park Chung-hee assassinated; martial law declared |
-| December 12, 1979 | General Chun Doo-hwan seizes control of military in coup |
-| April 1980 | Chun becomes head of KCIA; "Seoul Spring" democracy movement grows |
-| May 17, 1980 | Martial law extended nationwide; universities closed; Kim Dae-jung arrested |
-| May 18, 1980 | Students gather at Chonnam University; paratroopers attack with extreme violence |
-| May 19-20, 1980 | Protests swell; military uses live ammunition on crowds |
-| May 21, 1980 | Citizens arm themselves; military withdraws from city center |
-| May 22-26, 1980 | "Liberated Gwangju" period; citizens govern themselves |
-| May 27, 1980 | Operation "Splendid Holiday"; military retakes city; final resistance at Provincial Hall |
-| 1988 | Gwangju Uprising publicly discussed following democratization |
-| 1995 | Special Act on May 18 Democratization Movement enacted |
-| 1997 | Chun Doo-hwan and Roh Tae-woo convicted and sentenced |
-| 2000 | May 18 established as national commemorative day |
-| 2011 | UNESCO inscribes May 18 documentation on Memory of the World Register |
-| 2020 | ROK Army Chief of Staff issues official apology |
+| Date              | Event                                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------- |
+| October 26, 1979  | President Park Chung-hee assassinated; martial law declared                              |
+| December 12, 1979 | General Chun Doo-hwan seizes control of military in coup                                 |
+| April 1980        | Chun becomes head of KCIA; "Seoul Spring" democracy movement grows                       |
+| May 17, 1980      | Martial law extended nationwide; universities closed; Kim Dae-jung arrested              |
+| May 18, 1980      | Students gather at Chonnam University; paratroopers attack with extreme violence         |
+| May 19-20, 1980   | Protests swell; military uses live ammunition on crowds                                  |
+| May 21, 1980      | Citizens arm themselves; military withdraws from city center                             |
+| May 22-26, 1980   | "Liberated Gwangju" period; citizens govern themselves                                   |
+| May 27, 1980      | Operation "Splendid Holiday"; military retakes city; final resistance at Provincial Hall |
+| 1988              | Gwangju Uprising publicly discussed following democratization                            |
+| 1995              | Special Act on May 18 Democratization Movement enacted                                   |
+| 1997              | Chun Doo-hwan and Roh Tae-woo convicted and sentenced                                    |
+| 2000              | May 18 established as national commemorative day                                         |
+| 2011              | UNESCO inscribes May 18 documentation on Memory of the World Register                    |
+| 2020              | ROK Army Chief of Staff issues official apology                                          |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Gwangju Uprising](https://en.wikipedia.org/wiki/Gwangju_Uprising)
+
 [^2]: [Britannica - Gwangju Uprising](https://www.britannica.com/event/Gwangju-Uprising)
+
 [^3]: [Washington Post - Gwangju Death Toll](https://www.washingtonpost.com/history/2020/05/18/gwangju-massacre-south-korea/)
+
 [^4]: [Wilson Center - Documenting Gwangju](https://www.wilsoncenter.org/blog-post/splendid-holiday-documentary-gwangju-uprising)
+
 [^5]: [UNESCO Memory of the World - May 18 Records](https://en.unesco.org/memoryoftheworld/registry/519)
+
 [^6]: [Ohio State University - Gwangju Overview](https://ehistory.osu.edu/exhibitions/korea/gwangju-uprising)
+
 [^7]: [Wikipedia - Yushin Constitution](https://en.wikipedia.org/wiki/Yushin_Constitution)
+
 [^8]: [The Diplomat - Gwangju Legacy](https://thediplomat.com/2020/05/the-gwangju-uprising-40-years-on/)
+
 [^9]: [Britannica - Seoul Spring](https://www.britannica.com/event/Gwangju-Uprising)
+
 [^10]: [Korea Herald - Seoul Spring 1980](https://www.koreaherald.com/view.php?ud=20190518000170)
+
 [^11]: [Wikipedia - Coup d'état of December Twelfth](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat_of_December_Twelfth)
+
 [^12]: [Facts and Details - Chun Doo-hwan](https://factsanddetails.com/korea/cat18/sub123/entry-4383.html)
+
 [^13]: [ThoughtCo - Gwangju Massacre](https://www.thoughtco.com/gwangju-massacre-195724)
+
 [^14]: [8964 Museum - Gwangju and Tiananmen](https://www.8964museum.com/en/gwangju-1980/)
+
 [^15]: [Britannica - May 18 Events](https://www.britannica.com/event/Gwangju-Uprising)
+
 [^16]: [Michael Dunn - Gwangju Account](https://www.michaeldunnauthor.com/gwangju-uprising/)
+
 [^17]: [Ohio State - Military Response](https://ehistory.osu.edu/exhibitions/korea/gwangju-uprising)
+
 [^18]: [ADST - American Diplomats and Gwangju](https://adst.org/2020/05/the-gwangju-massacre/)
+
 [^19]: [Wikipedia - Citizens' Army Formation](https://en.wikipedia.org/wiki/Gwangju_Uprising)
+
 [^20]: [Gwangju News - Liberation of City](https://www.gwangjunewsgic.com/news/may-18-peoples-uprising/)
+
 [^21]: [Monash University - Gwangju Commune](https://research.monash.edu/en/publications/gwangju-uprising-history)
+
 [^22]: [Michael Dunn - Self-Governance](https://www.michaeldunnauthor.com/gwangju-uprising/)
+
 [^23]: [ThoughtCo - Community Organization](https://www.thoughtco.com/gwangju-massacre-195724)
+
 [^24]: [Stanford Institute - Gwangju Analysis](https://aparc.fsi.stanford.edu/korea/news/gwangju-uprising)
+
 [^25]: [Realms of Memory - Settlement Debates](https://realmsofmemory.com/gwangju-1980/)
+
 [^26]: [Wilson Center - Splendid Holiday Operation](https://www.wilsoncenter.org/blog-post/splendid-holiday-documentary-gwangju-uprising)
+
 [^27]: [Wikipedia - Final Assault](https://en.wikipedia.org/wiki/Gwangju_Uprising)
+
 [^28]: [Wikipedia - Casualty Figures](https://en.wikipedia.org/wiki/Gwangju_Uprising)
+
 [^29]: [Washington Post - Death Toll Analysis](https://www.washingtonpost.com/history/2020/05/18/gwangju-massacre-south-korea/)
+
 [^30]: [History.go.kr - Official Investigation](https://www.history.go.kr/518)
+
 [^31]: [ADST - US Role Controversy](https://adst.org/2020/05/the-gwangju-massacre/)
+
 [^32]: [38 North - Declassified Documents](https://www.38north.org/2020/05/documents051880/)
+
 [^33]: [LA Times - US and Gwangju](https://www.latimes.com/archives/la-xpm-1996-02-27-mn-40520-story.html)
+
 [^34]: [Stanford - Government Characterization](https://aparc.fsi.stanford.edu/korea/news/gwangju-uprising)
+
 [^35]: [SFU International Studies - Democratic View](https://www.sfu.ca/international-studies/gwangju.html)
+
 [^36]: [Stanford - Foundation for Democracy](https://aparc.fsi.stanford.edu/korea/news/gwangju-uprising)
+
 [^37]: [FisherAld - Civic Resistance Model](https://fisherald.com/gwangju-uprising-1980/)
+
 [^38]: [The Diplomat - Regional Impact](https://thediplomat.com/2020/05/the-gwangju-uprising-40-years-on/)
+
 [^39]: [UNESCO Korea - Memory of the World](https://www.unesco.or.kr/heritage/mow/518/)
+
 [^40]: [Journal NEO - Government Defense](https://journal-neo.su/2020/05/20/gwangju-uprising-40th-anniversary/)
+
 [^41]: [Realms of Memory - Armed Resistance Debate](https://realmsofmemory.com/gwangju-1980/)
+
 [^42]: [Wikipedia - Military Casualties](https://en.wikipedia.org/wiki/Gwangju_Uprising)
+
 [^43]: [Britannica - Democratic Legacy](https://www.britannica.com/event/Gwangju-Uprising)
+
 [^44]: [Korea Herald - Presidential Connections](https://www.koreaherald.com/view.php?ud=20200518000476)
+
 [^45]: [History.go.kr - 1995 Special Act](https://www.history.go.kr/518)
+
 [^46]: [Yonhap News - 2020 Military Apology](https://en.yna.co.kr/view/AEN20200518004400315)
+
 [^47]: [Namu Wiki - Truth Commission](https://namu.wiki/5.18-fact-finding-commission)
+
 [^48]: [518 Seoul - National Cemetery](https://www.518seoul.org/national-cemetery/)
+
 [^49]: [Responsible Statecraft - International Resonance](https://responsiblestatecraft.org/2020/05/18/gwangju-40-years-later/)

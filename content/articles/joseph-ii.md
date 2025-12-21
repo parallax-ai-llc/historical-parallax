@@ -207,27 +207,27 @@ A few days before his death in 1790, Joseph revoked the reforms that had caused 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1741 | Born on March 13 at the Hofburg Palace in Vienna |
-| 1760 | Married Isabella of Parma |
-| 1762 | Birth of daughter Maria Theresa |
-| 1763 | Death of Isabella of Parma from smallpox |
-| 1765 | Became Holy Roman Emperor on August 18; married Maria Josepha of Bavaria |
-| 1767 | Death of Maria Josepha of Bavaria from smallpox |
-| 1772 | Austria received Galicia in the First Partition of Poland |
-| 1776 | Advised Maria Theresa to abolish torture (implemented January 2, 1776) |
-| 1778 | War of the Bavarian Succession ("Potato War") with Prussia |
-| 1780 | Became sole ruler of Habsburg monarchy on November 29 after Maria Theresa's death |
-| 1781 | Issued Edict of Toleration (October 19); promulgated Serfdom Patent (November 1) |
-| 1782 | Extended religious freedom to Jews |
-| 1783 | Commuted robot (corvée labor) to money payments |
-| 1784 | Ordered change of language of instruction from Latin to German |
-| 1785 | Frederick II formed Fürstenbund against Joseph's Bavarian exchange plan |
-| 1787 | Alliance with Russia; enacted Josephine Penal Code |
-| 1788 | Declared war on Ottoman Empire; returned to Vienna in poor health (autumn) |
+| Year | Event                                                                                            |
+| ---- | ------------------------------------------------------------------------------------------------ |
+| 1741 | Born on March 13 at the Hofburg Palace in Vienna                                                 |
+| 1760 | Married Isabella of Parma                                                                        |
+| 1762 | Birth of daughter Maria Theresa                                                                  |
+| 1763 | Death of Isabella of Parma from smallpox                                                         |
+| 1765 | Became Holy Roman Emperor on August 18; married Maria Josepha of Bavaria                         |
+| 1767 | Death of Maria Josepha of Bavaria from smallpox                                                  |
+| 1772 | Austria received Galicia in the First Partition of Poland                                        |
+| 1776 | Advised Maria Theresa to abolish torture (implemented January 2, 1776)                           |
+| 1778 | War of the Bavarian Succession ("Potato War") with Prussia                                       |
+| 1780 | Became sole ruler of Habsburg monarchy on November 29 after Maria Theresa's death                |
+| 1781 | Issued Edict of Toleration (October 19); promulgated Serfdom Patent (November 1)                 |
+| 1782 | Extended religious freedom to Jews                                                               |
+| 1783 | Commuted robot (corvée labor) to money payments                                                  |
+| 1784 | Ordered change of language of instruction from Latin to German                                   |
+| 1785 | Frederick II formed Fürstenbund against Joseph's Bavarian exchange plan                          |
+| 1787 | Alliance with Russia; enacted Josephine Penal Code                                               |
+| 1788 | Declared war on Ottoman Empire; returned to Vienna in poor health (autumn)                       |
 | 1789 | Proclaimed radical taxation reform; Belgian revolt began (October); abrogation of Joyeuse Entrée |
-| 1790 | Forced to revoke reforms in Hungary (January 30); died on February 20 in Vienna |
+| 1790 | Forced to revoke reforms in Hungary (January 30); died on February 20 in Vienna                  |
 
 ---
 
@@ -239,7 +239,7 @@ This poignant statement reflects Joseph's profound sense of failure regarding hi
 
 > "Your work is ingenious. It's quality work. And there are simply too many notes, that's all. Just cut a few and it will be perfect." - Attributed to Joseph II in conversation with Mozart[^153]
 
-This quote, famously featured in the play and film *Amadeus*, allegedly represents Joseph's criticism of Mozart's music. However, its historical authenticity is questionable, and it may be more theatrical legend than documented fact.
+This quote, famously featured in the play and film _Amadeus_, allegedly represents Joseph's criticism of Mozart's music. However, its historical authenticity is questionable, and it may be more theatrical legend than documented fact.
 
 > "I have made philosophy the legislator of my empire." - Joseph II[^154]
 
@@ -250,156 +250,309 @@ This statement encapsulates Joseph's commitment to applying Enlightenment princi
 ## References
 
 [^1]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^2]: [Joseph II | Holy Roman Emperor, Enlightened Ruler & Reformer | Britannica](https://www.britannica.com/biography/Joseph-II)
+
 [^3]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^4]: [Joseph II's reforms - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/joseph-iis-reforms)
+
 [^5]: [Joseph II (1741–1790) | Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/joseph-ii-1741-1790)
+
 [^6]: [Joseph II: The long-awaited son | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-long-awaited-son)
+
 [^7]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^8]: [Rule by mother and son: Joseph II and Maria Theresa | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/rule-mother-and-son-joseph-ii-and-maria-theresa)
+
 [^9]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^10]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^11]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^12]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^13]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^14]: [Joseph II | Holy Roman Emperor, Enlightened Ruler & Reformer | Britannica](https://www.britannica.com/biography/Joseph-II)
+
 [^15]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^16]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^17]: [Joseph II - Quotes, Emperor & Family](https://www.biography.com/political-figures/joseph-ii)
+
 [^18]: [Joseph II (1741–1790) | Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/joseph-ii-1741-1790)
+
 [^19]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^20]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^21]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^22]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^23]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^24]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^25]: [Rule by mother and son: Joseph II and Maria Theresa | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/rule-mother-and-son-joseph-ii-and-maria-theresa)
+
 [^26]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^27]: [The marriages of the 'useful' emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/marriages-useful-emperor)
+
 [^28]: [The marriages of the 'useful' emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/marriages-useful-emperor)
+
 [^29]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^30]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^31]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^32]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^33]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^34]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^35]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^36]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^37]: [Edict of Toleration | Religious Freedom, Tolerance & Joseph II | Britannica](https://www.britannica.com/topic/Edict-of-Toleration)
+
 [^38]: [Patent of Toleration - Wikipedia](https://en.wikipedia.org/wiki/Patent_of_Toleration)
+
 [^39]: [Edict of Toleration | Religious Freedom, Tolerance & Joseph II | Britannica](https://www.britannica.com/topic/Edict-of-Toleration)
+
 [^40]: [1782 Edict of Tolerance - Wikipedia](https://en.wikipedia.org/wiki/1782_Edict_of_Tolerance)
+
 [^41]: [Joseph II (1741–1790) | Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/joseph-ii-1741-1790)
+
 [^42]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^43]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^44]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^45]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
-[^46]: [Serfdom Patent (1781) - Wikipedia](https://en.wikipedia.org/wiki/Serfdom_Patent_(1781))
-[^47]: [Serfdom Patent (1781) - Wikipedia](https://en.wikipedia.org/wiki/Serfdom_Patent_(1781))
+
+[^46]: [Serfdom Patent (1781) - Wikipedia](<https://en.wikipedia.org/wiki/Serfdom_Patent_(1781)>)
+
+[^47]: [Serfdom Patent (1781) - Wikipedia](<https://en.wikipedia.org/wiki/Serfdom_Patent_(1781)>)
+
 [^48]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^49]: [The peasant as 'provider for the people' | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/peasant-provider-people)
+
 [^50]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
-[^51]: [Serfdom Patent (1781) - Wikipedia](https://en.wikipedia.org/wiki/Serfdom_Patent_(1781))
+
+[^51]: [Serfdom Patent (1781) - Wikipedia](<https://en.wikipedia.org/wiki/Serfdom_Patent_(1781)>)
+
 [^52]: [Joseph II (1741–1790) | Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/joseph-ii-1741-1790)
+
 [^53]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^54]: [Folter Arzt: interrogation of prisoners in Austria in 1773 - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1885395/)
+
 [^55]: [Torture and execution | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/torture-and-execution)
+
 [^56]: [Torture and execution | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/torture-and-execution)
+
 [^57]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^58]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^59]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^60]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^61]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^62]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^63]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^64]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^65]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^66]: [Josephinism - Wikipedia](https://en.wikipedia.org/wiki/Josephinism)
+
 [^67]: [The useful emperor: Joseph II | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/useful-emperor-joseph-ii)
+
 [^68]: [Joseph II - Citizendium](https://en.citizendium.org/wiki/Joseph_II)
+
 [^69]: [Joseph II - Citizendium](https://en.citizendium.org/wiki/Joseph_II)
+
 [^70]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^71]: [Joseph II - Citizendium](https://en.citizendium.org/wiki/Joseph_II)
+
 [^72]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^73]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^74]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^75]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^76]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^77]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^78]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^79]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^80]: [Brabant Revolution | Belgian Uprising, Peasant Revolt & Catholic Reformation | Britannica](https://www.britannica.com/event/Brabant-Revolution)
+
 [^81]: [Brabant Revolution - Wikipedia](https://en.wikipedia.org/wiki/Brabant_Revolution)
+
 [^82]: [Brabant Revolution - Wikipedia](https://en.wikipedia.org/wiki/Brabant_Revolution)
+
 [^83]: [Brabant Revolution - Wikipedia](https://en.wikipedia.org/wiki/Brabant_Revolution)
+
 [^84]: [Brabant Revolution - Wikipedia](https://en.wikipedia.org/wiki/Brabant_Revolution)
+
 [^85]: [Brabant Revolution - Wikipedia](https://en.wikipedia.org/wiki/Brabant_Revolution)
+
 [^86]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^87]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^88]: [Joseph II | Holy Roman Emperor, Enlightened Ruler & Reformer | Britannica](https://www.britannica.com/biography/Joseph-II)
+
 [^89]: [Joseph II | Holy Roman Emperor, Enlightened Ruler & Reformer | Britannica](https://www.britannica.com/biography/Joseph-II)
+
 [^90]: [Joseph II - Enlightenment and Revolution](https://enlightenment-revolution.org/index.php/Joseph_II)
+
 [^91]: [Joseph II (1741–1790) | Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/joseph-ii-1741-1790)
+
 [^92]: [Joseph II (1741–1790) | Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/joseph-ii-1741-1790)
+
 [^93]: [Joseph II - Enlightenment and Revolution](https://enlightenment-revolution.org/index.php/Joseph_II)
+
 [^94]: [Joseph II - Enlightenment and Revolution](https://enlightenment-revolution.org/index.php/Joseph_II)
+
 [^95]: [Austria - Enlightenment, Reforms, Joseph II | Britannica](https://www.britannica.com/place/Austria/Late-reign-of-Joseph-II-1785-90)
+
 [^96]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^97]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^98]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^99]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^100]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^101]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^102]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^103]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^104]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^105]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^106]: [The marriages of the 'useful' emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/marriages-useful-emperor)
+
 [^107]: [The marriages of the 'useful' emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/marriages-useful-emperor)
+
 [^108]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^109]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^110]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^111]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^112]: [Joseph II: The love-life of an emperor | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/joseph-ii-love-life-emperor)
+
 [^113]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^114]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^115]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^116]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^117]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)
+
 [^118]: [Joseph II | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-ii)
+
 [^119]: [Joseph II | Holy Roman Emperor, Enlightened Ruler & Reformer | Britannica](https://www.britannica.com/biography/Joseph-II)
+
 [^120]: [Joseph II - Quotes, Emperor & Family](https://www.biography.com/political-figures/joseph-ii)
+
 [^121]: [First visit by Holy Roman Emperor Joseph II, 1777 | Château de Versailles](https://en.chateauversailles.fr/discover/history/key-dates/first-visit-holy-roman-emperor-joseph-ii-1777)
+
 [^122]: [Joseph II, Holy Roman Emperor | Marie Antoinette Wiki | Fandom](https://marie-antoinette.fandom.com/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^123]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^124]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^125]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^126]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^127]: [Joseph II's reforms - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/joseph-iis-reforms)
+
 [^128]: [Joseph II of Austria - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/joseph-ii-of-austria)
+
 [^129]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^130]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^131]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^132]: [Joseph II - Citizendium](https://en.citizendium.org/wiki/Joseph_II)
+
 [^133]: [Edict of Toleration | Religious Freedom, Tolerance & Joseph II | Britannica](https://www.britannica.com/topic/Edict-of-Toleration)
+
 [^134]: [Josephinism - Wikipedia](https://en.wikipedia.org/wiki/Josephinism)
+
 [^135]: [Torture and execution | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/torture-and-execution)
+
 [^136]: [Joseph II's reforms - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/joseph-iis-reforms)
+
 [^137]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^138]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^139]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^140]: [Joseph II | Holy Roman Emperor, Enlightened Ruler & Reformer | Britannica](https://www.britannica.com/biography/Joseph-II)
+
 [^141]: [Joseph II's reforms - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/joseph-iis-reforms)
+
 [^142]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^143]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^144]: [Joseph II's reforms - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/joseph-iis-reforms)
+
 [^145]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^146]: [Joseph II's reforms - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/joseph-iis-reforms)
+
 [^147]: [Joseph II's Reforms | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/joseph-iis-reforms)
+
 [^148]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^149]: [Joseph II - Citizendium](https://en.citizendium.org/wiki/Joseph_II)
+
 [^150]: [Joseph II and Domestic Reform | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/joseph-ii-and-domestic-reform/)
+
 [^151]: [Joseph II, Holy Roman Emperor - Wikipedia](https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor)
+
 [^152]: [Joseph II, Holy Roman Emperor quote: Let my epitaph be, "Here lies Joseph, who failed in..."](https://www.azquotes.com/quote/1522482)
+
 [^153]: [Quote by Peter Shaffer: "Emperor Joseph II: My dear young man, don't tak..."](https://www.goodreads.com/quotes/446032-emperor-joseph-ii-my-dear-young-man-don-t-take-it)
+
 [^154]: [Joseph II | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/joseph-ii)

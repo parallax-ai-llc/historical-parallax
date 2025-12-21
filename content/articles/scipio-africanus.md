@@ -245,168 +245,279 @@ Finally, some scholars note that Scipio's career, while personally admirable in 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 236 BC | Birth of Publius Cornelius Scipio in Rome |
-| 218 BC | First military action at Battle of Ticinus; saves his father's life |
-| 216 BC | Survives the Battle of Cannae; prevents desertion plot at Canusium |
-| 215 BC | Marries Aemilia Tertia |
-| 213 BC | Serves as curule aedile |
-| 211 BC | Death of father and uncle in Spain |
-| 210 BC | Elected to command in Spain as privatus with extraordinary imperium |
-| 209 BC | Captures New Carthage in single day; demonstrates the Continence of Scipio |
-| 208 BC | Defeats Hasdrubal Barca at Battle of Baecula |
-| 206 BC | Achieves decisive victory at Battle of Ilipa; secures Roman control of Spain |
-| 205 BC | Elected consul; receives authorization for African invasion despite opposition |
-| 204 BC | Invades Africa with approximately 35,000 men |
+| Year   | Event                                                                           |
+| ------ | ------------------------------------------------------------------------------- |
+| 236 BC | Birth of Publius Cornelius Scipio in Rome                                       |
+| 218 BC | First military action at Battle of Ticinus; saves his father's life             |
+| 216 BC | Survives the Battle of Cannae; prevents desertion plot at Canusium              |
+| 215 BC | Marries Aemilia Tertia                                                          |
+| 213 BC | Serves as curule aedile                                                         |
+| 211 BC | Death of father and uncle in Spain                                              |
+| 210 BC | Elected to command in Spain as privatus with extraordinary imperium             |
+| 209 BC | Captures New Carthage in single day; demonstrates the Continence of Scipio      |
+| 208 BC | Defeats Hasdrubal Barca at Battle of Baecula                                    |
+| 206 BC | Achieves decisive victory at Battle of Ilipa; secures Roman control of Spain    |
+| 205 BC | Elected consul; receives authorization for African invasion despite opposition  |
+| 204 BC | Invades Africa with approximately 35,000 men                                    |
 | 203 BC | Burns camps of Hasdrubal Gisco and Syphax; Carthage recalls Hannibal from Italy |
-| 202 BC | Defeats Hannibal at Battle of Zama; ends Second Punic War |
-| 201 BC | Celebrates triumph in Rome; awarded agnomen "Africanus" |
-| 199 BC | Elected censor; becomes princeps senatus |
-| 194 BC | Serves second consulship |
-| 193 BC | Alleged meeting with Hannibal at Ephesus (historicity debated) |
-| 190 BC | Serves as legate to brother Lucius during Syrian War against Antiochus III |
-| 187 BC | Accused of corruption and bribery in politically motivated trial |
-| 185 BC | Retires in self-imposed exile to villa at Liternum |
-| 183 BC | Dies at Liternum, Campania, same year as Hannibal |
+| 202 BC | Defeats Hannibal at Battle of Zama; ends Second Punic War                       |
+| 201 BC | Celebrates triumph in Rome; awarded agnomen "Africanus"                         |
+| 199 BC | Elected censor; becomes princeps senatus                                        |
+| 194 BC | Serves second consulship                                                        |
+| 193 BC | Alleged meeting with Hannibal at Ephesus (historicity debated)                  |
+| 190 BC | Serves as legate to brother Lucius during Syrian War against Antiochus III      |
+| 187 BC | Accused of corruption and bribery in politically motivated trial                |
+| 185 BC | Retires in self-imposed exile to villa at Liternum                              |
+| 183 BC | Dies at Liternum, Campania, same year as Hannibal                               |
 
 ---
 
 ## Famous Quotes
 
 > "Never am I less at leisure than when at leisure, nor less lonely than when alone."
-> 
-> *Preserved by Cato the Elder, this statement reveals Scipio's contemplative nature and intellectual depth, suggesting he found solitude productive for reflection and study.*[^255]
+>
+> _Preserved by Cato the Elder, this statement reveals Scipio's contemplative nature and intellectual depth, suggesting he found solitude productive for reflection and study._[^255]
 
 > "I would rather save the life of one citizen than kill a thousand enemies."
-> 
-> *This profound statement reflects Scipio's humanitarian values and his prioritization of Roman lives over military glory, unusual for an ancient commander.*[^256]
+>
+> _This profound statement reflects Scipio's humanitarian values and his prioritization of Roman lives over military glory, unusual for an ancient commander._[^256]
 
 > "I am mindful of human weakness, and I reflect upon the might of Fortune and know that everything that we do is exposed to a thousand chances."
-> 
-> *Spoken reportedly before the Battle of Zama, this demonstrates Scipio's philosophical wisdom and humility about the role of fortune in human affairs.*[^257]
+>
+> _Spoken reportedly before the Battle of Zama, this demonstrates Scipio's philosophical wisdom and humility about the role of fortune in human affairs._[^257]
 
 > "Romans, this is the day on which I conquered Hannibal and Carthage. Let us therefore abandon all business and go and thank the gods."
-> 
-> *Scipio's response when called to defend himself against corruption charges in 187 BC, appealing to his past service rather than providing detailed accounting.*[^258]
+>
+> _Scipio's response when called to defend himself against corruption charges in 187 BC, appealing to his past service rather than providing detailed accounting._[^258]
 
 > "Ingrata patria, ne ossa quidem mea habes" (Thankless country, you shall not possess even my bones).
-> 
-> *The epitaph Scipio reportedly ordered for his tomb at Liternum, expressing profound bitterness at Rome's ingratitude after his sacrifices.*[^259]
+>
+> _The epitaph Scipio reportedly ordered for his tomb at Liternum, expressing profound bitterness at Rome's ingratitude after his sacrifices._[^259]
 
 ---
 
 ## References
 
 [^1]: Britannica, "[Scipio Africanus](https://www.britannica.com/biography/Scipio-Africanus)"
+
 [^2]: UNRV Roman History, "[Scipio Africanus - Roman Military General](https://www.unrv.com/military/roman-generals/scipio-africanus.php)"
+
 [^3]: Wikipedia, "[Scipio Africanus](https://en.wikipedia.org/wiki/Scipio_Africanus)"
+
 [^4]: TheCollector, "[Rome's Greatest General: Who Was Scipio Africanus?](https://www.thecollector.com/scipio-africanus-rome-greatest-general/)"
+
 [^5]: The Famous People, "[Scipio Africanus Biography](https://www.thefamouspeople.com/profiles/scipio-africanus-41286.php)"
+
 [^6]: History Skills, "[Scipio Africanus: The Roman military genius who finally managed to defeat Hannibal](https://www.historyskills.com/classroom/ancient-history/scipio-africanus/)"
+
 [^7]: The Latin Library, "[Publius Cornelius Scipio Africanus (236-184/3 B.C.)](https://www.thelatinlibrary.com/imperialism/notes/scipio.html)"
+
 [^8]: Study.com, "[Scipio Africanus | Biography, Quotes & Legacy](https://study.com/learn/lesson/scipio-africanus-biography-war-publius-cornelius.html)"
+
 [^9]: Biography.com, "[Scipio Africanus - General, Family & Hannibal](https://www.biography.com/military-figures/scipio-africanus)"
+
 [^10]: Britannica, "[Scipio Africanus - Roman General, Carthage, Victory](https://www.britannica.com/biography/Scipio-Africanus/The-legend-of-Scipio)"
+
 [^11]: Wikipedia, "[Aemilia Tertia](https://en.wikipedia.org/wiki/Aemilia_Tertia)"
+
 [^12]: Grokipedia, "[Aemilia Tertia](https://grokipedia.com/page/Aemilia_Tertia)"
+
 [^13]: PeoplePill, "[Aemilia Tertia: Wife of Scipio Africanus](https://peoplepill.com/i/aemilia-tertia)"
+
 [^14]: World History Encyclopedia, "[Timeline: Scipio Africanus the Elder](https://www.worldhistory.org/timeline/Scipio_Africanus_the_Elder/)"
+
 [^15]: Ancient War History, "[Scipio Africanus: The Roman General Who Defeated Hannibal and Shaped an Empire](https://ancientwarhistory.com/scipio-africanus-the-roman-general-who-defeated-hannibal-and-shaped-an-empire/)"
+
 [^16]: Ithy, "[The Life of Scipio Africanus](https://ithy.com/article/life-of-scipio-africanus-99icjodh)"
+
 [^17]: EBSCO Research, "[Scipio Africanus | Research Starters](https://www.ebsco.com/research-starters/history/scipio-africanus)"
+
 [^18]: Wikipedia, "[Battle of Cannae](https://en.wikipedia.org/wiki/Battle_of_Cannae)"
+
 [^19]: History Skills, "[How Rome finally defeated Hannibal at Zama](https://www.historyskills.com/classroom/ancient-history/anc-zama-reading/)"
+
 [^20]: Discovery UK, "[Scipio Africanus: Rome's Conqueror of Hannibal](https://www.discoveryuk.com/monarchs-and-rulers/the-military-genius-of-scipio-africanus-romes-conqueror-of-hannibal/)"
+
 [^21]: World History Encyclopedia, "[The Battle of Zama - The Beginning of Roman Conquest](https://www.worldhistory.org/article/292/the-battle-of-zama---the-beginning-of-roman-conque/)"
+
 [^22]: TheCollector, "[The Battle of Zama: How Scipio Gave Rome the World](https://www.thecollector.com/battle-of-zama-scipio-save-rome/)"
+
 [^23]: Warfare History Network, "[Scipio and the Spanish Campaign](https://warfarehistorynetwork.com/article/scipio-and-the-spanish-campaign/)"
+
 [^24]: UNRV, "[The Rise of Scipio and the Fall Of New Carthage](https://www.unrv.com/empire/fall-of-carthage.php)"
+
 [^25]: Number Analytics, "[Scipio Africanus: The Roman General](https://www.numberanalytics.com/blog/scipio-africanus-ultimate-guide)"
+
 [^26]: Roman Mythology, "[The Legendary Triumph of Scipio: Myths of Military Brilliance](https://roman.mythologyworldwide.com/the-legendary-triumph-of-scipio-myths-of-military-brilliance/)"
+
 [^27]: Wikipedia, "[Battle of New Carthage](https://en.wikipedia.org/wiki/Battle_of_New_Carthage)"
+
 [^28]: Britannica, "[Battle of Ilipa](https://www.britannica.com/event/Battle-of-Ilipa)"
+
 [^29]: Wikipedia, "[Battle of Zama](https://en.wikipedia.org/wiki/Battle_of_Zama)"
+
 [^30]: Britannica, "[Battle of Zama | Biography & Facts](https://www.britannica.com/event/Battle-of-Zama-Roman-Carthaginian-history)"
+
 [^31]: EBSCO Research, "[Battle of Zama | Research Starters](https://www.ebsco.com/research-starters/military-history-and-science/battle-zama)"
+
 [^32]: History Hit, "[Why Did Hannibal Lose the Battle of Zama?](https://www.historyhit.com/day-battle-zama/)"
+
 [^33]: Wikipedia, "[Second Punic War](https://en.wikipedia.org/wiki/Second_Punic_War)"
+
 [^34]: Roman Empire Times, "[The Continence of Scipio: A Legacy of Clemency in Roman History and Art](https://romanempiretimes.com/the-continence-of-scipio-a-legacy-of-clemency-in-roman-history-and-art/)"
+
 [^35]: Wikipedia, "[The Continence of Scipio](https://en.wikipedia.org/wiki/The_Continence_of_Scipio)"
+
 [^36]: Grokipedia, "[The Continence of Scipio](https://grokipedia.com/page/The_Continence_of_Scipio)"
+
 [^37]: The Art Institute of Chicago, "[The Continence of Scipio](https://www.artic.edu/artworks/33249/the-continence-of-scipio)"
+
 [^38]: The Leiden Collection, "[The Continence of Scipio](https://www.theleidencollection.com/artwork/the-continence-of-scipio/)"
+
 [^39]: Academia.edu, "[The 'Controversial' Continence of Scipio in Literature and Art](https://www.academia.edu/38131716/The_Controversial_Continence_of_Scipio_in_Literature_and_Art_Gellius_Noctes_Atticae_and_Niccol%C3%B2_dellAbate)"
+
 [^40]: National Gallery London, "[Giulio Licinio | The Continence of Scipio](https://www.nationalgallery.org.uk/paintings/giulio-licinio-the-continence-of-scipio)"
+
 [^41]: Hearst Castle, "[The Continence of Scipio](https://hearstcastle.org/history-behind-hearst-castle/art/pieces/the-continence-of-scipio/)"
+
 [^42]: National Galleries of Scotland, "[The Continence of Scipio](https://www.nationalgalleries.org/art-and-artists/14798)"
-[^43]: Wikipedia, "[The Continence of Scipio (Pittoni)](https://en.wikipedia.org/wiki/The_Continence_of_Scipio_(Pittoni))"
+
+[^43]: Wikipedia, "[The Continence of Scipio (Pittoni)](<https://en.wikipedia.org/wiki/The_Continence_of_Scipio_(Pittoni)>)"
+
 [^44]: DailyHistory.org, "[How did Cato the Elder alter the course Roman history](https://www.dailyhistory.org/How_did_Cato_the_Elder_alter_the_course_Roman_history)"
+
 [^45]: Wikipedia, "[Cato the Elder](https://en.wikipedia.org/wiki/Cato_the_Elder)"
+
 [^46]: UNRV Forum, "[The Rivalry Of Cato The Elder And Scipio Africanus](https://www.unrv.com/forum/topic/4626-the-rivalry-of-cato-the-elder-and-scipio-africanus/)"
+
 [^47]: World History Encyclopedia, "[Cato the Elder](https://www.worldhistory.org/Cato_the_Elder/)"
+
 [^48]: Britannica, "[Scipio Africanus (the Elder) summary](https://www.britannica.com/summary/Scipio-Africanus)"
+
 [^49]: The Death of Carthage, "[What Became of Publius Cornelius Scipio Africanus after the Second Punic War?](https://thedeathofcarthage.com/1880/what-became-of-publius-cornelius-scipio-africanus-after-the-second-punic-war/)"
+
 [^50]: Historum, "[Cato the Elder's Anti-Scipio Vendetta](https://historum.com/t/cato-the-elders-anti-scipio-vendetta.137435/)"
+
 [^51]: Pages Of History, "[Scipio Africanus](https://pagesofhistory.org/scipio-africanus/)"
+
 [^52]: Quora, "[Why is Scipio Africanus generally considered one of the best military generals](https://www.quora.com/Why-is-Scipio-Africanus-generally-considered-one-of-the-best-military-generals-of-all-time-What-strategies-and-tactics-did-he-create-and-use)"
+
 [^53]: NDU Press, "[Scipio Africanus and the Second Punic War: Joint Lessons for Center of Gravity Analysis](https://ndupress.ndu.edu/Publications/Article/1412483/scipio-africanus-and-the-second-punic-war-joint-lessons-for-center-of-gravity-a/)"
+
 [^54]: The Past, "[Scipio Africanus](https://the-past.com/feature/scipio-africanus/)"
+
 [^55]: EBSCO Research, "[Fabius | Research Starters](https://www.ebsco.com/research-starters/history/fabius)"
+
 [^56]: JBGPT's Study Guides, "[216 BC: Fabian Strategy and Hannibal](https://jbgptmilitaryhistory.substack.com/p/216-bc-fabian-strategy-and-hannibaljbgpts)"
+
 [^57]: History Skills, "[Quintus Fabius Maximus: the man who saved Rome from Hannibal](https://www.historyskills.com/classroom/ancient-history/quintus-fabius-maximus/)"
+
 [^58]: Wikipedia, "[Quintus Fabius Maximus Verrucosus](https://en.wikipedia.org/wiki/Quintus_Fabius_Maximus_Verrucosus)"
+
 [^59]: Warfare History Network, "[Hannibal and the Second Punic War](https://warfarehistorynetwork.com/article/hannibal-and-the-second-punic-war/)"
+
 [^60]: Medium, "[Fabius Maximus vs Hannibal Barca: The Delaying Tactics](https://scanderbegal.medium.com/fabius-maximus-vs-hannibal-barca-the-delaying-tactics-8e32c6b2f9bd)"
+
 [^61]: Grammaticus, "[Fabius Maximus – The Strategy of Delay](https://grammaticus.co/podcast/fabius/)"
+
 [^62]: Ancient War History, "[The Strategic Genius of Scipio Africanus](https://ancientwarhistory.com/the-strategic-genius-of-scipio-africanus-how-debate-and-boldness-shaped-romes-victory-over-carthage/)"
+
 [^63]: Roman Empire Times, "[Numidia: Rome's African Frontier](https://romanempiretimes.com/numidia-rome-african-frontier-and-the-soldiers-who-changed-an-empire/)"
+
 [^64]: Wikipedia, "[Masinissa](https://en.wikipedia.org/wiki/Masinissa)"
+
 [^65]: World History Edu, "[Ancient Numidian King Masinissa](https://worldhistoryedu.com/ancient-numidian-king-masinissa/)"
+
 [^66]: World History Encyclopedia, "[Scipio Africanus the Elder](https://www.worldhistory.org/Scipio_Africanus_the_Elder/)"
+
 [^67]: Encyclopedia.com, "[Publius Cornelius Scipio Africanus Major](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/publius-cornelius-scipio-africanus-major)"
+
 [^68]: Roman Empire History, "[Scipio Africanus: Timeline, Battles, & Legacy](https://romanempirehistory.com/scipio-africanus/)"
+
 [^69]: Papers of Abraham Lincoln, "[Cornelius Scipio Africanus, Publius](https://papersofabrahamlincoln.org/persons/CO48625)"
+
 [^70]: Britannica, "[Scipio Africanus the Younger](https://www.britannica.com/biography/Scipio-Africanus-the-Younger)"
+
 [^71]: Macmillan, "[Opposing Views: Cato the Elder and Scipio Aemilianus](https://digfir-published.macmillanusa.com/mckaywest12e/mckaywest12e_ch5_23.html)"
+
 [^72]: Cambridge Core, "[SCIPIO AEMILIANUS AND GREEK ETHICS](https://www.cambridge.org/core/journals/classical-quarterly/article/abs/scipio-aemilianus-and-greek-ethics/8BE14815531ED0EE6C91FF564599E1DF)"
+
 [^73]: Wikipedia, "[Scipio Aemilianus](https://en.wikipedia.org/wiki/Scipio_Aemilianus)"
+
 [^74]: Adventures In Historyland, "[The Greatest General](https://adventuresinhistoryland.com/2013/08/09/the-greatest-general/)"
+
 [^75]: Author John Carey, "[Tales of History: Scipio and Hannibal](https://www.authorjohncarey.com/blog/tales-of-history-scipio-and-hannibal)"
+
 [^76]: War History Online, "[When Gods Collide - Hannibal and Scipio](https://www.warhistoryonline.com/ancient-history/hannibal-and-scipio-itanic-military-rivalries-from-the-ancient-world-xc.html)"
+
 [^77]: Total War Center, "[A conversation between Hannibal and Scipio](https://www.twcenter.net/threads/a-conversation-between-hannibal-and-scipio.59400/)"
+
 [^78]: Goodreads, "[A quote from Scipio Africanus](https://www.goodreads.com/quotes/10420902-scipio-asked-hannibal-whom-he-thought-the-greatest-captain-the)"
+
 [^79]: Livius, "[Appian, The Syrian Wars 2](https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-2/)"
+
 [^80]: Perseus Digital Library, "[Polybius, Histories, book 15, Meeting of Hannibal and Scipio](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0234:book%3D15:chapter%3D6)"
+
 [^81]: John D Clare, "[Livy on the Discussion between Hannibal and Scipio](https://www.johndclare.net/AncientHistory/Hannibal_Sources7.html)"
+
 [^82]: Wikimedia Commons, "[Category:Publius Cornelius Scipio Africanus Major in sculpture](https://commons.wikimedia.org/wiki/Category:Publius_Cornelius_Scipio_Africanus_Major_in_sculpture)"
+
 [^83]: Wikimedia Commons, "[File:Escipión africano.JPG](https://commons.wikimedia.org/wiki/File:Escipi%C3%B3n_africano.JPG)"
+
 [^84]: Collezione Galleria Borghese, "[Portrait of Scipio Africanus](https://www.collezionegalleriaborghese.it/en/opere/portrait-of-scipio-africanus-1)"
+
 [^85]: Ancient Rome, "[The General Publius Cornelius Scipio Africanus?](https://ancientrome.ru/art/artworken/img.htm?id=2431)"
+
 [^86]: Ancient Sculpture Gallery, "[Scipio Africanus Marble Bust](https://www.ancientsculpturegallery.com/scipio-africanus-marble-bust-sculpture-statue-reproduction-replica-copy.html/)"
+
 [^87]: Wikidata, "[Scipio Africanus](https://www.wikidata.org/wiki/Q2253)"
+
 [^88]: The Art Institute of Chicago, "[Bust of Scipio Africanus](https://www.artic.edu/artworks/675/bust-of-scipio-africanus)"
+
 [^89]: iStock, "[Publius Cornelius Scipio Africanus Stock Photos](https://www.istockphoto.com/photos/publius-cornelius-scipio-africanus)"
+
 [^90]: British Museum, "[print](https://www.britishmuseum.org/collection/object/P_1841-0809-51)"
+
 [^91]: Cambridge Core, "[THE CORNELII AND JUPITER](https://www.cambridge.org/core/journals/greece-and-rome/article/abs/cornelii-and-jupiter-a-case-study-in-the-manipulation-of-traditional-religion-by-an-aristocratic-roman-kinship-group/397B566FB8A175CC9E645A32F1FECE44)"
+
 [^92]: Imperium Romanum, "[Emperor who was chosen by gods](https://imperiumromanum.pl/en/article/emperor-who-was-chosen-by-gods/)"
+
 [^93]: Cambridge Core, "[LIVY ON SCIPIO AFRICANUS](https://www.cambridge.org/core/journals/classical-quarterly/article/livy-on-scipio-africanus-the-commanders-portrait-at-261939/47494BFBC0531E42E86B9AB780EB0457)"
+
 [^94]: Perseus Digital Library, "[A Dictionary of Greek and Roman biography and mythology, Sci'pio Africanus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry%3Dscipio-bio-13)"
+
 [^95]: Wikipedia, "[Roman imperial cult](https://en.wikipedia.org/wiki/Roman_imperial_cult)"
+
 [^96]: Roman Mythology, "[The Power of Omens: How Romans Interpreted Signs from the Gods](https://roman.mythologyworldwide.com/the-power-of-omens-how-romans-interpreted-signs-from-the-gods/)"
+
 [^97]: UNRV Roman History, "[Book Review of Scipio Africanus: Greater Than Napoleon](https://www.unrv.com/book-review/scipio-africanus.php)"
+
 [^98]: Bryn Mawr Classical Review, "[Scipio Africanus](https://bmcr.brynmawr.edu/2008/2008.01.20/)"
+
 [^99]: Wikiquote, "[Scipio Africanus](https://en.wikiquote.org/wiki/Scipio_Africanus)"
+
 [^100]: BrainyQuote, "[Scipio Africanus Quotes](https://www.brainyquote.com/authors/scipio-africanus-quotes)"
+
 [^101]: Goodreads, "[Scipio Africanus Quotes](https://www.goodreads.com/author/quotes/6996477.Scipio_Africanus)"
+
 [^102]: Bookey, "[30 Best Scipio Africanus Quotes](https://www.bookey.app/quote-author/scipio-africanus)"
+
 [^103]: Imperium Romanum, "[Quotes of Scipio Africanus the Elder](https://imperiumromanum.pl/en/roman-art-and-culture/golden-thoughts-of-romans/quotes-of-scipio-africanus-the-elder/)"
+
 [^104]: A-Z Quotes, "[TOP 5 QUOTES BY SCIPIO AFRICANUS](https://www.azquotes.com/author/135-Scipio_Africanus)"
+
 [^105]: BrainyQuote, "[Scipio Africanus - I am convinced that life is 10% what...](https://www.brainyquote.com/quotes/scipio_africanus_205958)"
+
 [^106]: Goodreads, "[Quote by Scipio Africanus: I am convinced that life is 10% what happens to...](https://www.goodreads.com/quotes/939697-i-am-convinced-that-life-is-10-what-happens-to)"
+
 [^107]: Bartleby, "[Scipio Africanus - Collection](https://www.bartleby.com/lit-hub/samuel-arthur-bent/scipio-africanus/)"
+
 [^108]: Geni, "[Publius Cornelius Scipio Africanus (c.-236 - -183)](https://www.geni.com/people/Publius-Cornelius-Scipio-Africanus/6000000005944438076)"
+
 [^109]: Geni, "[Aemilia Tertia Paulla (c.-225 - c.-182)](https://www.geni.com/people/Aemilia-Tertia-Paulla/6000000001416347026)"
+
 [^110]: Wikidata, "[Aemilia Tertia](https://www.wikidata.org/wiki/Q380862)"
+
 [^111]: Alchetron, "[Aemilia Tertia](https://alchetron.com/Aemilia-Tertia)"
+
 [^112]: Military Wiki, "[Scipio Africanus](https://military-history.fandom.com/wiki/Scipio_Africanus)"

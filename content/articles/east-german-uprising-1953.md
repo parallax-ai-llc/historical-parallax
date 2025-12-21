@@ -50,6 +50,7 @@ Living standards declined sharply; shortages of food and basic goods became acut
 ### Crisis Point (June 1953)
 
 By spring 1953, East Germany was in crisis:
+
 - Stalin had died (March 1953), creating uncertainty
 - Soviet leadership signaled a "New Course" of partial relaxation
 - Yet work quota increases remained in effect
@@ -74,12 +75,14 @@ On June 16, 1953, construction workers building the Stalinallee (a prestigious b
 The next morning, the uprising had become nationwide:
 
 **Scale:**
+
 - Over 1 million participants
 - Approximately 700 cities and towns affected
 - Industrial centers like Leipzig, Halle, Magdeburg, and Dresden saw major protests
 - Even small towns experienced demonstrations
 
 **Demands:**
+
 - Reduction of work quotas
 - Lower prices for basic goods
 - Free and secret elections
@@ -100,6 +103,7 @@ By midday on June 17, Soviet forces intervened:
 ### Confrontation
 
 The image of unarmed workers facing Soviet tanks became iconic:
+
 - Demonstrators threw stones at tanks
 - Some tanks were set on fire
 - But workers could not resist organized military force
@@ -110,20 +114,24 @@ The image of unarmed workers facing Soviet tanks became iconic:
 ## Death Toll and Casualties
 
 **Confirmed Deaths:**
+
 - At least 55 demonstrators killed
 - Approximately 10 officials/soldiers killed
 
 **Estimates:**
+
 - 40-260 protesters killed (varying sources)
 - Some estimates suggest "several hundred"
 - Many deaths may have gone unrecorded
 
 **Arrests and Sentences:**
+
 - 10,000-15,000+ people arrested
 - Approximately 2,000 received prison sentences
 - At least 22 death sentences (18 Soviet, 4 GDR; 2 carried out)
 
 **Party Purges:**
+
 - Significant percentage of SED members expelled[^12]
 
 ---
@@ -132,31 +140,31 @@ The image of unarmed workers facing Soviet tanks became iconic:
 
 ### Workers/Protesters
 
-| Name | Role |
-|------|------|
-| Construction workers of Stalinallee | Initiated the strike |
-| Unknown thousands | Joined protests across GDR |
+| Name                                | Role                       |
+| ----------------------------------- | -------------------------- |
+| Construction workers of Stalinallee | Initiated the strike       |
+| Unknown thousands                   | Joined protests across GDR |
 
 ### SED Regime
 
-| Name | Role |
-|------|------|
+| Name            | Role                                   |
+| --------------- | -------------------------------------- |
 | Walter Ulbricht | SED General Secretary; survived crisis |
-| Otto Grotewohl | GDR Prime Minister |
+| Otto Grotewohl  | GDR Prime Minister                     |
 
 ### Soviet Leadership
 
-| Name | Role |
-|------|------|
-| Lavrentiy Beria | Soviet security chief; ordered repression |
-| Vladimir Semyonov | Soviet High Commissioner in GDR |
+| Name              | Role                                      |
+| ----------------- | ----------------------------------------- |
+| Lavrentiy Beria   | Soviet security chief; ordered repression |
+| Vladimir Semyonov | Soviet High Commissioner in GDR           |
 
 ### Western Observers
 
-| Name | Role |
-|------|------|
-| Bertolt Brecht | Playwright; criticized regime response (ambiguously) |
-| RIAS (Radio in American Sector) | Broadcast news that helped spread uprising |
+| Name                            | Role                                                 |
+| ------------------------------- | ---------------------------------------------------- |
+| Bertolt Brecht                  | Playwright; criticized regime response (ambiguously) |
+| RIAS (Radio in American Sector) | Broadcast news that helped spread uprising           |
 
 ---
 
@@ -177,6 +185,7 @@ The image of unarmed workers facing Soviet tanks became iconic:
 ### Historical Debate
 
 Key questions scholars still examine:
+
 - Could the uprising have succeeded with Western support?
 - Why did the West not intervene?
 - Was the Stalin Note genuine or a trap?
@@ -196,17 +205,20 @@ Key questions scholars still examine:
 ### Day of German Unity
 
 In West Germany:
+
 - June 17 was established as "Day of German Unity" (Tag der Deutschen Einheit)
 - The street approaching the Brandenburg Gate was renamed "Straße des 17. Juni"
 - Remained a national holiday until 1990
 
 After reunification (1990):
+
 - October 3 became the new Day of German Unity
 - June 17 remains historically commemorated[^17]
 
 ### Pattern for Soviet Intervention
 
 The 1953 uprising established the template:
+
 - Hungary 1956: Soviet tanks crushed revolution
 - Czechoslovakia 1968: Warsaw Pact invasion ended Prague Spring
 - Poland 1981: Martial law (with Soviet threat)
@@ -215,6 +227,7 @@ The 1953 uprising established the template:
 ### Reunification and Memory
 
 After 1989:
+
 - Archives opened revealing true scale of uprising
 - Participants rehabilitated
 - Memorials established
@@ -224,42 +237,60 @@ After 1989:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| May 1945 | Germany divided into occupation zones |
-| 1949 | GDR established (October 7) |
-| March 10, 1952 | Stalin Note proposes reunification; West rejects |
-| May 1952 | GDR announces "building of socialism" |
-| March 5, 1953 | Stalin dies |
-| June 16, 1953 | Construction workers strike on Stalinallee |
-| June 17, 1953 | Uprising spreads nationwide; Soviet tanks intervene |
-| June 17-21, 1953 | Martial law; suppression of remaining resistance |
-| 1953-1954 | Mass arrests, trials, sentences |
-| 1954 | June 17 established as West German holiday |
-| 1961 | Berlin Wall built |
-| 1989 | Peaceful Revolution; Berlin Wall falls |
-| October 3, 1990 | German reunification |
+| Date             | Event                                               |
+| ---------------- | --------------------------------------------------- |
+| May 1945         | Germany divided into occupation zones               |
+| 1949             | GDR established (October 7)                         |
+| March 10, 1952   | Stalin Note proposes reunification; West rejects    |
+| May 1952         | GDR announces "building of socialism"               |
+| March 5, 1953    | Stalin dies                                         |
+| June 16, 1953    | Construction workers strike on Stalinallee          |
+| June 17, 1953    | Uprising spreads nationwide; Soviet tanks intervene |
+| June 17-21, 1953 | Martial law; suppression of remaining resistance    |
+| 1953-1954        | Mass arrests, trials, sentences                     |
+| 1954             | June 17 established as West German holiday          |
+| 1961             | Berlin Wall built                                   |
+| 1989             | Peaceful Revolution; Berlin Wall falls              |
+| October 3, 1990  | German reunification                                |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - East German Uprising](https://en.wikipedia.org/wiki/East_German_uprising_of_1953)
+
 [^2]: [History.com - June 17 1953](https://www.history.com/this-day-in-history/soviet-troops-suppress-east-german-uprising)
+
 [^3]: [State.gov - US Response](https://history.state.gov/milestones/1953-1960/east-german-uprising)
-[^4]: [Wikipedia - Division of Germany](https://en.wikipedia.org/wiki/History_of_Germany_(1945%E2%80%931990))
+
+[^4]: [Wikipedia - Division of Germany](<https://en.wikipedia.org/wiki/History_of_Germany_(1945%E2%80%931990)>)
+
 [^5]: [Wikipedia - Stalin Note](https://en.wikipedia.org/wiki/Stalin_Note)
+
 [^6]: [State.gov - Building Socialism](https://history.state.gov/milestones/1953-1960/east-german-uprising)
+
 [^7]: [CVCE - Crisis Context](https://www.cvce.eu/en/education/unite-de-recherche/east-german-uprising-1953)
+
 [^8]: [Swarthmore - Strike Begins](https://nvdatabase.swarthmore.edu/content/east-german-workers-strike-against-quotas-1953)
+
 [^9]: [Wikipedia - Nationwide Uprising](https://en.wikipedia.org/wiki/East_German_uprising_of_1953)
+
 [^10]: [Kulturprojekte Berlin - Soviet Intervention](https://kulturprojekte.berlin/en/project/17-june-1953/)
+
 [^11]: [Marxist Left Review - Confrontation](https://www.marxistleftreview.org/articles/the-east-german-uprising-of-june-1953/)
+
 [^12]: [Military Histories - Casualties](https://www.militaryhistories.co.uk/eastgerman1953)
+
 [^13]: [Left Berlin - Workers' Revolution](https://www.theleftberlin.com/the-1953-uprising-in-east-germany/)
+
 [^14]: [ETUI - Inspirational Example](https://www.etui.org/topics/workers-participation/1953-east-german-uprising)
+
 [^15]: [Medium - SED Narrative](https://medium.com/@history/east-german-uprising-1953)
+
 [^16]: [Cambridge - Historical Debate](https://www.cambridge.org/core/journals/1953-uprising-debate)
+
 [^17]: [Lazarus Union - Day of German Unity](https://lazarus-union.international/17-juni-1953/)
+
 [^18]: [ADST - Pattern for Intervention](https://adst.org/oral-history/east-germany-1953/)
+
 [^19]: [Jacobin - Memory](https://jacobin.com/2023/06/east-germany-1953-uprising-anniversary)

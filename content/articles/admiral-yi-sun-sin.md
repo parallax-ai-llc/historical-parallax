@@ -197,28 +197,28 @@ The scarcity of substantive criticism of Yi's actual military conduct or charact
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1545 | Born on April 28 in Hanseong (Seoul), Korea, into the Deoksu Yi clan |
-| 1552 | Family moved to Asan after his father was wrongly imprisoned and tortured |
-| 1564 | Married Lady Bang |
-| 1566 | Decided to pursue a military career and began studying military science |
-| 1567 | King Seonjo cleared Yi's father's name; first son Hoe born |
-| 1571 | Second son Yo born |
-| 1572 | Broke his leg during military examination but completed the test with a makeshift splint |
-| 1576 | Passed the Military Service Examination at age 32 |
-| 1577 | Third son Myon born |
-| 1583 | Successfully led campaign against Jurchen tribes on northern border |
-| 1591 | Appointed commander of naval forces in Left Jeolla province |
-| 1592 | Japanese invasion began in May; Yi won Battles of Okpo and Sacheon |
-| 1592 | Victory at Battle of Hansan Island (August 15), destroying ~100 Japanese ships |
-| 1597 | Arrested, imprisoned, and tortured almost to death on false charges (January) |
-| 1597 | Replaced by Won Gyun; Battle of Chilchonryang disaster (August 28) |
-| 1597 | Reinstated as Supreme Commander after Won Gyun's death |
-| 1597 | Achieved legendary victory at Battle of Myeongnyang with 13 ships vs. 133 (October 26) |
-| 1597 | Lost third son to Japanese retaliation raid on his home in Asan |
+| Year | Event                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------- |
+| 1545 | Born on April 28 in Hanseong (Seoul), Korea, into the Deoksu Yi clan                                 |
+| 1552 | Family moved to Asan after his father was wrongly imprisoned and tortured                            |
+| 1564 | Married Lady Bang                                                                                    |
+| 1566 | Decided to pursue a military career and began studying military science                              |
+| 1567 | King Seonjo cleared Yi's father's name; first son Hoe born                                           |
+| 1571 | Second son Yo born                                                                                   |
+| 1572 | Broke his leg during military examination but completed the test with a makeshift splint             |
+| 1576 | Passed the Military Service Examination at age 32                                                    |
+| 1577 | Third son Myon born                                                                                  |
+| 1583 | Successfully led campaign against Jurchen tribes on northern border                                  |
+| 1591 | Appointed commander of naval forces in Left Jeolla province                                          |
+| 1592 | Japanese invasion began in May; Yi won Battles of Okpo and Sacheon                                   |
+| 1592 | Victory at Battle of Hansan Island (August 15), destroying ~100 Japanese ships                       |
+| 1597 | Arrested, imprisoned, and tortured almost to death on false charges (January)                        |
+| 1597 | Replaced by Won Gyun; Battle of Chilchonryang disaster (August 28)                                   |
+| 1597 | Reinstated as Supreme Commander after Won Gyun's death                                               |
+| 1597 | Achieved legendary victory at Battle of Myeongnyang with 13 ships vs. 133 (October 26)               |
+| 1597 | Lost third son to Japanese retaliation raid on his home in Asan                                      |
 | 1598 | Killed by stray bullet at Battle of Noryang on December 16 while pursuing retreating Japanese forces |
-| 1598 | Posthumously promoted to Yeonguijeong and given title Chungmugong |
+| 1598 | Posthumously promoted to Yeonguijeong and given title Chungmugong                                    |
 
 ---
 
@@ -226,138 +226,254 @@ The scarcity of substantive criticism of Yi's actual military conduct or charact
 
 > "According to the Principles of Strategy, he who seeks his death shall live, and he who seeks his life shall die. Again the Strategy says, if one home defender stands on watch at a strong gateway he may drive terror deep into the heart of the enemy coming by a ten thousand."
 
-*Said to his generals before the Battle of Myeongnyang (September 15, 1597), encapsulating his philosophy that courage in the face of overwhelming odds can achieve the impossible.*[^114]
+_Said to his generals before the Battle of Myeongnyang (September 15, 1597), encapsulating his philosophy that courage in the face of overwhelming odds can achieve the impossible._[^114]
 
 > "Your Majesty, we still have 12 ships left."
 
-*Response to King Seonjo in 1597, when the king believed the kingdom's naval forces could not defeat Japanese forces after the Chilchonryang disaster. This defiant statement became legendary, representing Yi's refusal to accept defeat regardless of circumstances.*[^115]
+_Response to King Seonjo in 1597, when the king believed the kingdom's naval forces could not defeat Japanese forces after the Chilchonryang disaster. This defiant statement became legendary, representing Yi's refusal to accept defeat regardless of circumstances._[^115]
 
 > "The war is at its height—wear my armor and beat my war drums. Do not announce my death!"
 
-*Yi's final words on December 16, 1598, spoken to his eldest son Hoe and nephew Wan after being struck by a fatal bullet at the Battle of Noryang. Even in death, Yi prioritized the morale of his troops and the success of the battle.*[^116]
+_Yi's final words on December 16, 1598, spoken to his eldest son Hoe and nephew Wan after being struck by a fatal bullet at the Battle of Noryang. Even in death, Yi prioritized the morale of his troops and the success of the battle._[^116]
 
 > "What shall I do? Is there anyone else under heaven in such a pitiful plight as myself?—the sooner I die the better."
 
-*From his war diary (Nanjung Ilgi) after his mother's funeral, revealing the profound personal struggles and depression Yi wrestled with while maintaining outward stoicism and leadership.*[^117]
+_From his war diary (Nanjung Ilgi) after his mother's funeral, revealing the profound personal struggles and depression Yi wrestled with while maintaining outward stoicism and leadership._[^117]
 
 ---
 
 ## References
 
 [^1]: Yi Sun-sin - Wikipedia, https://en.wikipedia.org/wiki/Yi_Sun-sin
+
 [^2]: Battle of Myeongnyang - Wikipedia, https://en.wikipedia.org/wiki/Battle_of_Myeongnyang
+
 [^3]: Final Battle and Admiral Yi's death | Yi Sun-Shin 이순신 (1545-1598) | Stories Preschool, https://www.storiespreschool.com/yi_sun_shin7.html
+
 [^4]: Early Life | Yi Sun-Shin 이순신 (1545-1598) | Stories Preschool, https://storiespreschool.com/yi_sun_shin1.html
+
 [^5]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^6]: Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History - Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/
+
 [^7]: Life of Admiral Yi Sun-shin, http://yisunshin.prkorea.com/life.htm
+
 [^8]: Admiral Yi Sun-Sin - History of Admiral Yi, https://www.yisunsinworld.com/history-of-admiral-yi
+
 [^9]: Yi Sun-Sin: Korea's Legendary Naval Commander, https://avid-archer.com/yi-sun-sin-koreas-legendary-naval-commander/
+
 [^10]: Yi Sun-Sin Biography - Facts, Childhood, Family Life, Achievements, https://www.thefamouspeople.com/profiles/yi-sun-sin-38647.php
+
 [^11]: Admiral Yi - NamuWiki, https://en.namu.wiki/w/이순신
+
 [^12]: This Admiral Never Lost a Single Vessel — And May Have Invented the Armored Ship, https://www.historynet.com/yi-sun-sin/
+
 [^13]: Timeline of Admiral Yi Sun-shin's Life and the Imjin War - VANK, http://yisunshin.prkorea.com/timeline.htm
+
 [^14]: Yi Sun-sin | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Yi_Sun-sin
+
 [^15]: Yi Sun-Shin | Admiral, Korean National Hero, History, Turtle Ships, & Facts | Britannica, https://www.britannica.com/biography/Yi-Sun-shin
+
 [^16]: Admiral Yi Sun-Sin, Defender of the Korean People – open ended social studies, https://openendedsocialstudies.org/2016/06/25/admiral-yi-sun-sin/
+
 [^17]: Yi Sunshin - Citizendium, https://en.citizendium.org/wiki/Yi_Sunshin
+
 [^18]: The Invincible Admiral, Yi Sun-sin (Part 1), https://www.anthologyofheroespodcast.com/yisunsin1/
+
 [^19]: Admiral Yi Sun-Sin - History of Admiral Yi, https://www.yisunsinworld.com/history-of-admiral-yi
+
 [^20]: Timeline of Admiral Yi Sun-shin's Life and the Imjin War - VANK, http://yisunshin.prkorea.com/timeline.htm
+
 [^21]: Yi Sun-Shin | Admiral, Korean National Hero, History, Turtle Ships, & Facts | Britannica, https://www.britannica.com/biography/Yi-Sun-shin
+
 [^22]: Geobukseon ("Turtle Ship") of Great Admiral Yi Sun-shin, https://www.antiquealive.com/Blogs/Geobukseon_Turtle_Ship.html
+
 [^23]: Episode 6: Yi Sun-sin: Korea's Greatest Commander | Royal United Services Institute, https://www.rusi.org/podcasts/talking-strategy/episode-6-yi-sun-sin-koreas-greatest-commander
+
 [^24]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^25]: Yi Sun-sin: history's greatest admiral | Military History Matters, https://www.military-history.org/cover-feature/yi-sun-sin-historys-greatest-admiral.htm
+
 [^26]: Yi Sun-sin facts for kids, https://kids.kiddle.co/Yi_Sun-sin
+
 [^27]: Admiral Yi Sun-shin – Medieval 2: Total War Heaven, https://medieval2.heavengames.com/m2tw/history/historical_figures_folder/admiral-yi_sun-shin/
+
 [^28]: Battle of Sacheon (1592), https://grokipedia.com/page/Battle_of_Sacheon_(1592)
+
 [^29]: Tides of triumph; Admiral Yi Sun-sin against all odds - Historia Scripta, https://www.historiascripta.org/renaissance/tides-of-triumph-admiral-yi-sun-sin-against-all-odds/
+
 [^30]: Battle of Hansan Island - Wikipedia, https://en.wikipedia.org/wiki/Battle_of_Hansan_Island
+
 [^31]: Complementary Keys to Naval Victory | Naval History Magazine - August 2009, https://www.usni.org/magazines/naval-history-magazine/2009/august/complementary-keys-naval-victory
+
 [^32]: The Legends of Yi Sun-shin and His Turtle Ships - Gwangju News, https://gwangjunewsgic.com/arts-culture/korean-myths/the-legends-of-yi-sun-shin-and-his-turtle-ships/
+
 [^33]: ADMIRAL YI SUN-SHIN AND THE KOREAN TURTLE BOAT, https://www.education.maritime-museum.org/training/north-gallery-2/asian-history/admiral-yi-sun-shin-and-the-korean-turtle-boat/
+
 [^34]: Turtle ship - Wikipedia, https://en.wikipedia.org/wiki/Turtle_ship
+
 [^35]: Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History - Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/
+
 [^36]: Yi Sun-sin - Wikipedia, https://en.wikipedia.org/wiki/Yi_Sun-sin
+
 [^37]: Why was Korean admiral Yi Sun-sin so little appreciated by the Korean King and his court? - Quora, https://www.quora.com/Why-was-Korean-admiral-Yi-Sun-sin-so-little-appreciated-by-the-Korean-King-and-his-court
+
 [^38]: Life of Admiral Yi Sun-shin, http://yisunshin.prkorea.com/life.htm
+
 [^39]: Joseon defeat at Chilchonryang and reinstatement of Admiral Yi | Yi Sun-Shin 이순신 (1545-1598) | Stories Preschool, https://www.storiespreschool.com/yi_sun_shin5.html
+
 [^40]: Yi Sun-shin of Korea: The Greatest Admiral | by History Nibble | Medium, https://medium.com/@historynibble/yi-sun-shin-of-korea-the-greatest-admiral-625815e96ffb
+
 [^41]: The Battle of Myeongnyang and Yi Sun-sin - Korea100, https://dh.aks.ac.kr/Korea100/wiki/index.php/The_Battle_of_Myeongnyang_and_Yi_Sun-sin
+
 [^42]: What was the Battle of Myeongnyang (1597)? - Boot Camp & Military Fitness Institute, https://bootcampmilitaryfitnessinstitute.com/2020/10/26/what-was-the-battle-of-myeongnyang-1597/
+
 [^43]: Battle of Myeongnyang | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Battle_of_Myeongnyang
+
 [^44]: The Battle of Myeongnyang and Yi Sun-sin - Korea100, https://dh.aks.ac.kr/Korea100/wiki/index.php/The_Battle_of_Myeongnyang_and_Yi_Sun-sin
+
 [^45]: Quotes and Poems by Admiral Yi Sun-shin, http://yisunshin.prkorea.com/quotes.htm
+
 [^46]: Admiral Yi Sun-sin | Friendly Korea, http://korea.prkorea.com/wordpress/english/quote/admiral-yi-sun-sin-2/
+
 [^47]: Battle of Noryang - Wikipedia, https://en.wikipedia.org/wiki/Battle_of_Noryang
+
 [^48]: Final Battle and Admiral Yi's death | Yi Sun-Shin 이순신 (1545-1598) | Stories Preschool, https://www.storiespreschool.com/yi_sun_shin7.html
+
 [^49]: Yi Sun-sin facts for kids, https://kids.kiddle.co/Yi_Sun-sin
+
 [^50]: Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History - Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/
+
 [^51]: Complementary Keys to Naval Victory | Naval History Magazine, https://www.usni.org/magazines/naval-history-magazine/2009/august/complementary-keys-naval-victory
+
 [^52]: Imjin War, part 2 | Fall of Joseon, part 8 | Dark Side of Seoul Podcast, https://www.darksideofseoul.com/imjin-war-part-2-fall-of-joseon-part-8/
+
 [^53]: Yi Sun-shin, an Admiral Who Became a Myth Roh Young-koo, https://www.accesson.kr/rks/assets/pdf/7507/journal-7-3-15.pdf
+
 [^54]: Admiral Yi - NamuWiki, https://en.namu.wiki/w/이순신
+
 [^55]: Why was Korean admiral Yi Sun-sin so little appreciated by the Korean King and his court? - Quora, https://www.quora.com/Why-was-Korean-admiral-Yi-Sun-sin-so-little-appreciated-by-the-Korean-King-and-his-court
+
 [^56]: Seonjo of Joseon - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Seonjo_of_Joseon
+
 [^57]: Yi Sunshin - Citizendium, https://en.citizendium.org/wiki/Yi_Sunshin
+
 [^58]: Yi Sun-sin | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Yi_Sun-sin
+
 [^59]: Admiral Yi Sun-Sin, Defender of the Korean People – open ended social studies, https://openendedsocialstudies.org/2016/06/25/admiral-yi-sun-sin/
+
 [^60]: Life of Admiral Yi Sun-shin, http://yisunshin.prkorea.com/life.htm
+
 [^61]: International Journal of Korean History (Vol.19 No.2, Aug. 2014) 271, https://ijkh.khistory.org/upload/pdf/ijkh-19-2-271.pdf
+
 [^62]: Admiral Yi - NamuWiki, https://en.namu.wiki/w/이순신
+
 [^63]: What do Korean and Chinese people think about Admiral Yi Sun-sin? - Quora, https://www.quora.com/What-do-Korean-and-Chinese-people-think-about-Admiral-Yi-Sun-sin
+
 [^64]: Seonjo of Joseon - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Seonjo_of_Joseon
+
 [^65]: Nanjung Ilgi: War Diary of Admiral Yi Sun-sin by Yi Sun-sin | Goodreads, https://www.goodreads.com/book/show/3146909-nanjung-ilgi
+
 [^66]: Yi Sun-Sin Biography - Facts, Childhood, Family Life, Achievements, https://www.thefamouspeople.com/profiles/yi-sun-sin-38647.php
+
 [^67]: Final Battle and Admiral Yi's death | Yi Sun-Shin 이순신 (1545-1598) | Stories Preschool, https://www.storiespreschool.com/yi_sun_shin7.html
+
 [^68]: Admiral Yi - NamuWiki, https://en.namu.wiki/w/이순신
+
 [^69]: Yi Sun-sin facts for kids, https://kids.kiddle.co/Yi_Sun-sin
+
 [^70]: Nanjung Ilgi: War Diary of Admiral Yi Sun-sin, https://www.hanbooks.com/nanilwardiar.html
+
 [^71]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^72]: Yi Sun-sin | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Yi_Sun-sin
+
 [^73]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^74]: Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History - Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/
+
 [^75]: Nanjung Ilgi: War Diary of Admiral Yi Sun-sin by Yi Sun-sin | Goodreads, https://www.goodreads.com/book/show/3146909-nanjung-ilgi
+
 [^76]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^77]: Admiral Yi Sun-shin – military hero and god of war, https://www.antiquealive.com/Blogs/Admiral_Yi_Sun_Shin.html
+
 [^78]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^79]: Horatio Nelson VS Yi Sun-sin | Friendly Korea, http://korea.prkorea.com/wordpress/english/2012/04/12/horatio-nelson-vs-yi-sun-sin/
+
 [^80]: Yi Sun-sin | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Yi_Sun-sin
+
 [^81]: Yi Sun-sin - Wikipedia, https://en.wikipedia.org/wiki/Yi_Sun-sin
+
 [^82]: Tribute to Korea's greatest military hero Yi Sun-sin : Korea.net, https://www.korea.net/NewsFocus/HonoraryReporters/view?articleId=195238
+
 [^83]: Yi Sun-shin, an Admiral Who Became a Myth Roh Young-koo, https://www.accesson.kr/rks/assets/pdf/7507/journal-7-3-15.pdf
+
 [^84]: Statue of Admiral Yi Sun-sin - Wikipedia, https://en.wikipedia.org/wiki/Statue_of_Admiral_Yi_Sun-sin
+
 [^85]: Yi Sun-sin - Wikipedia, https://en.wikipedia.org/wiki/Yi_Sun-sin
+
 [^86]: Timeline of Admiral Yi Sun-shin's Life and the Imjin War - VANK, http://yisunshin.prkorea.com/timeline.htm
+
 [^87]: Tomb of Admiral Yi Sun-sin - NamuWiki, https://en.namu.wiki/w/충무공 이순신 장군묘
+
 [^88]: Hyeonchungsa Shrine, Asan, https://www.tripadvisor.com/Attraction_Review-g1595961-d3805441-Reviews-Hyeonchungsa_Shrine-Asan_Chungcheongnam_do.html
+
 [^89]: 5 Best Shrines and Temples in Tongyeong - Go Guides, https://www.hotels.com/go/south-korea/kr-best-temples-and-shrines-tongyeong
+
 [^90]: Admiral Yi Sun-sin's legacy assembled for first time at National Museum of Korea - The Korea Herald, https://www.koreaherald.com/article/10625115
+
 [^91]: Nanjung Ilgi: War Diary of Admiral Yi Sun-sin - Memory of the World, https://www.unesco.org/en/memory-world/nanjung-ilgi-war-diary-admiral-yi-sun-sin
+
 [^92]: Complementary Keys to Naval Victory | Naval History Magazine, https://www.usni.org/magazines/naval-history-magazine/2009/august/complementary-keys-naval-victory
+
 [^93]: Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History - Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/
+
 [^94]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^95]: Yi Sun-sin: history's greatest admiral | Military History Matters, https://www.military-history.org/cover-feature/yi-sun-sin-historys-greatest-admiral.htm
+
 [^96]: Yi vs. Horatio: Who's much better Naval Tactician?, https://magingalagadngsining.wordpress.com/2015/04/14/yi-vs-horatio-whos-much-better-naval-tactician/
+
 [^97]: International Journal of Korean History (Vol.19 No.2, Aug. 2014) 271, https://ijkh.khistory.org/upload/pdf/ijkh-19-2-271.pdf
+
 [^98]: Yi Sun-sin: history's greatest admiral | Military History Matters, https://www.military-history.org/cover-feature/yi-sun-sin-historys-greatest-admiral.htm
+
 [^99]: Yi Sun-sin - Wikipedia, https://en.wikipedia.org/wiki/Yi_Sun-sin
+
 [^100]: Yi Sunsin - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Yi_Sunsin
+
 [^101]: Yi Sun-sin: history's greatest admiral | Military History Matters, https://www.military-history.org/cover-feature/yi-sun-sin-historys-greatest-admiral.htm
+
 [^102]: International Journal of Korean History (Vol.19 No.2, Aug. 2014) 271, https://ijkh.khistory.org/upload/pdf/ijkh-19-2-271.pdf
+
 [^103]: Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History - Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/
+
 [^104]: Complementary Keys to Naval Victory | Naval History Magazine, https://www.usni.org/magazines/naval-history-magazine/2009/august/complementary-keys-naval-victory
+
 [^105]: This Admiral Never Lost a Single Vessel — And May Have Invented the Armored Ship, https://www.historynet.com/yi-sun-sin/
+
 [^106]: International Journal of Korean History (Vol.19 No.2, Aug. 2014) 271, https://ijkh.khistory.org/upload/pdf/ijkh-19-2-271.pdf
+
 [^107]: Admiral Yi - NamuWiki, https://en.namu.wiki/w/이순신
+
 [^108]: Admiral Yi - NamuWiki, https://en.namu.wiki/w/이순신
+
 [^109]: Yi Sun-shin, an Admiral Who Became a Myth Roh Young-koo, https://www.accesson.kr/rks/assets/pdf/7507/journal-7-3-15.pdf
+
 [^110]: National Heroes and Monuments in South Korea: Patriotism, Modernization and Park Chung Hee's Remaking of Yi Sunsin's Shrine - Asia-Pacific Journal, https://apjjf.org/saeyoung-park/3374/article
+
 [^111]: Why was Korean admiral Yi Sun-sin so little appreciated by the Korean King and his court? - Quora, https://www.quora.com/Why-was-Korean-admiral-Yi-Sun-sin-so-little-appreciated-by-the-Korean-King-and-his-court
+
 [^112]: Yi Sun-sin | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Yi_Sun-sin
+
 [^113]: Seonjo of Joseon - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Seonjo_of_Joseon
+
 [^114]: Quotes and Poems by Admiral Yi Sun-shin, http://yisunshin.prkorea.com/quotes.htm
+
 [^115]: Admiral Yi Sun-sin | Friendly Korea, http://korea.prkorea.com/wordpress/english/quote/admiral-yi-sun-sin-2/
+
 [^116]: Final Battle and Admiral Yi's death | Yi Sun-Shin 이순신 (1545-1598) | Stories Preschool, https://www.storiespreschool.com/yi_sun_shin7.html
+
 [^117]: Nanjung Ilgi: War Diary of Admiral Yi Sun-sin by Yi Sun-sin | Goodreads, https://www.goodreads.com/book/show/3146909-nanjung-ilgi

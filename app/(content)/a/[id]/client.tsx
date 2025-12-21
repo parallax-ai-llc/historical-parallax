@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { Search, Pencil } from "lucide-react";
+import { Search, Pencil, MapIcon } from "lucide-react";
 import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
@@ -13,11 +13,7 @@ interface ClientInteractionsProps {
   editUrl: string;
 }
 
-export function ClientInteractions({
-  searchIndex,
-  children,
-  editUrl
-}: ClientInteractionsProps) {
+export function ClientInteractions({ searchIndex, children, editUrl }: ClientInteractionsProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
@@ -31,11 +27,7 @@ export function ClientInteractions({
       {children}
       {mounted && (
         <div suppressHydrationWarning>
-          <SearchDialog
-            open={searchOpen}
-            onOpenChange={setSearchOpen}
-            items={searchIndex}
-          />
+          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} items={searchIndex} />
         </div>
       )}
     </>
@@ -106,7 +98,14 @@ function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
               <span>Edit</span>
             </a>
           )}
-
+          <Link
+            href="/maps/ufo-mysteries"
+            className="hidden sm:inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
+            title="View Incident Maps"
+          >
+            <MapIcon className="h-4 w-4" />
+            <span className="sr-only">Maps</span>
+          </Link>
           <ThemeToggle />
         </nav>
       </div>

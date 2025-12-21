@@ -163,30 +163,30 @@ Economic historians critical of her policies note that despite mercantilist refo
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1717 | Born May 13 in Vienna to Emperor Charles VI and Elisabeth Christine of Brunswick-Wolfenbüttel |
-| 1713 | Charles VI issues Pragmatic Sanction allowing female succession (before Maria Theresa's birth) |
-| 1736 | Marries Francis Stephen of Lorraine; Francis renounces Lorraine for future Tuscan succession |
-| 1737 | Birth of first child, Maria Elisabeth |
+| Year | Event                                                                                                                                                  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1717 | Born May 13 in Vienna to Emperor Charles VI and Elisabeth Christine of Brunswick-Wolfenbüttel                                                          |
+| 1713 | Charles VI issues Pragmatic Sanction allowing female succession (before Maria Theresa's birth)                                                         |
+| 1736 | Marries Francis Stephen of Lorraine; Francis renounces Lorraine for future Tuscan succession                                                           |
+| 1737 | Birth of first child, Maria Elisabeth                                                                                                                  |
 | 1740 | Charles VI dies October 20; Maria Theresa succeeds to Habsburg domains; Frederick II invades Silesia in December, beginning War of Austrian Succession |
-| 1741 | Appeals to Hungarian Diet in Pressburg; receives pledge of Hungarian support |
-| 1741 | Birth of Joseph, future Joseph II and Holy Roman Emperor |
-| 1745 | Francis elected Holy Roman Emperor as Francis I; Peace of Dresden confirms Prussian possession of Silesia |
-| 1748 | Peace of Aix-la-Chapelle ends War of Austrian Succession; Maria Theresa's succession recognized but Silesia lost |
-| 1749 | Establishes Directorium in publicis et cameralibus, centralizing administration |
-| 1752 | Founds Theresian Military Academy in Wiener Neustadt |
-| 1755 | Birth of youngest daughter Marie Antoinette |
-| 1756 | Alliance with France (Diplomatic Revolution); outbreak of Seven Years' War |
-| 1757 | Austrian victory at Battle of Kolin against Frederick II |
-| 1763 | Peace of Hubertusburg ends Seven Years' War; Prussian possession of Silesia confirmed |
-| 1765 | Francis I dies suddenly August 18; Joseph II becomes Holy Roman Emperor and co-ruler; Maria Theresa enters permanent mourning |
-| 1770 | Marie Antoinette marries French Dauphin Louis (future Louis XVI) |
-| 1772 | First Partition of Poland; Austria acquires Galicia |
-| 1774 | Issues General School Ordinance mandating compulsory primary education |
-| 1778 | War of Bavarian Succession against Prussia |
-| 1779 | Peace of Teschen ends War of Bavarian Succession |
-| 1780 | Dies November 29 at Hofburg Palace in Vienna; succeeded by Joseph II |
+| 1741 | Appeals to Hungarian Diet in Pressburg; receives pledge of Hungarian support                                                                           |
+| 1741 | Birth of Joseph, future Joseph II and Holy Roman Emperor                                                                                               |
+| 1745 | Francis elected Holy Roman Emperor as Francis I; Peace of Dresden confirms Prussian possession of Silesia                                              |
+| 1748 | Peace of Aix-la-Chapelle ends War of Austrian Succession; Maria Theresa's succession recognized but Silesia lost                                       |
+| 1749 | Establishes Directorium in publicis et cameralibus, centralizing administration                                                                        |
+| 1752 | Founds Theresian Military Academy in Wiener Neustadt                                                                                                   |
+| 1755 | Birth of youngest daughter Marie Antoinette                                                                                                            |
+| 1756 | Alliance with France (Diplomatic Revolution); outbreak of Seven Years' War                                                                             |
+| 1757 | Austrian victory at Battle of Kolin against Frederick II                                                                                               |
+| 1763 | Peace of Hubertusburg ends Seven Years' War; Prussian possession of Silesia confirmed                                                                  |
+| 1765 | Francis I dies suddenly August 18; Joseph II becomes Holy Roman Emperor and co-ruler; Maria Theresa enters permanent mourning                          |
+| 1770 | Marie Antoinette marries French Dauphin Louis (future Louis XVI)                                                                                       |
+| 1772 | First Partition of Poland; Austria acquires Galicia                                                                                                    |
+| 1774 | Issues General School Ordinance mandating compulsory primary education                                                                                 |
+| 1778 | War of Bavarian Succession against Prussia                                                                                                             |
+| 1779 | Peace of Teschen ends War of Bavarian Succession                                                                                                       |
+| 1780 | Dies November 29 at Hofburg Palace in Vienna; succeeded by Joseph II                                                                                   |
 
 ---
 
@@ -208,87 +208,170 @@ Economic historians critical of her policies note that despite mercantilist refo
 
 ## References
 
-[^1]: Crankshaw, Edward. *Maria Theresa*. London: Longmans, 1969, pp. 15-18.
-[^2]: Hochedlinger, Michael. *Austria's Wars of Emergence: War, State and Society in the Habsburg Monarchy 1683-1797*. London: Longman, 2003, pp. 245-248.
-[^3]: McGill, William J. "Maria Theresa." *The American Historical Review* 81, no. 4 (1976): 744-745.
-[^4]: Kann, Robert A. *A History of the Habsburg Empire, 1526-1918*. Berkeley: University of California Press, 1974, pp. 168-170.
-[^5]: Beales, Derek. *Joseph II: Volume I, In the Shadow of Maria Theresa, 1741-1780*. Cambridge: Cambridge University Press, 1987, pp. 23-25.
-[^6]: Mahan, J. Alexander. *Maria Theresa of Austria*. New York: Thomas Y. Crowell Company, 1932, pp. 42-45.
-[^7]: Pick, Robert. *Empress Maria Theresa: The Earlier Years, 1717-1757*. New York: Harper & Row, 1966, pp. 67-72.
-[^8]: Anderson, M.S. *The War of the Austrian Succession, 1740-1748*. London: Longman, 1995, pp. 38-41.
-[^9]: Browning, Reed. *The War of the Austrian Succession*. New York: St. Martin's Press, 1993, pp. 48-52.
-[^10]: Tapie, Victor-L. *The Rise and Fall of the Habsburg Monarchy*. Translated by Stephen Hardman. New York: Praeger, 1971, pp. 213-214.
-[^11]: Macartney, C.A. *The Habsburg Empire, 1790-1918*. London: Weidenfeld and Nicolson, 1968, pp. 12-13.
-[^12]: Duffy, Christopher. *The Army of Maria Theresa: The Armed Forces of Imperial Austria, 1740-1780*. New York: Hippocrene Books, 1977, pp. 15-19.
-[^13]: Wilson, Peter H. *The Holy Roman Empire: A Thousand Years of Europe's History*. London: Allen Lane, 2016, pp. 589-592.
-[^14]: Ingrao, Charles W. *The Habsburg Monarchy, 1618-1815*. Cambridge: Cambridge University Press, 1994, pp. 142-145.
-[^15]: Dickson, P.G.M. *Finance and Government under Maria Theresia 1740-1780*. 2 vols. Oxford: Clarendon Press, 1987, vol. 1, pp. 3-8.
-[^16]: Vann, James Allen, and Steven W. Rowan, eds. *The Old Reich: Essays on German Political Institutions, 1495-1806*. Brussels: Librairie Encyclopédique, 1974, pp. 156-159.
-[^17]: Dickson, *Finance and Government*, vol. 1, pp. 234-241.
-[^18]: Duffy, *The Army of Maria Theresa*, pp. 47-51.
-[^19]: Szabo, Franz A.J. *The Seven Years War in Europe, 1756-1763*. Harlow: Pearson Longman, 2008, pp. 78-82.
-[^20]: Engelbrecht, Helmut. *Geschichte des österreichischen Bildungswesens*. Vol. 3. Vienna: Österreichischer Bundesverlag, 1984, pp. 124-128.
-[^21]: Melton, James Van Horn. *Absolutism and the Eighteenth-Century Origins of Compulsory Schooling in Prussia and Austria*. Cambridge: Cambridge University Press, 1988, pp. 177-182.
-[^22]: Otruba, Gustav. "Die Wirtschaftspolitik Maria Theresias." In *Maria Theresia: Beiträge zur Geschichte des Habsburgerreiches*, edited by Walter Koschatzky, 365-379. Vienna: Residenz Verlag, 1980.
-[^23]: Ogris, Werner. "Maria Theresia und das österreichische Strafrecht." In *Maria Theresia und ihre Zeit*, edited by Walter Koschatzky, 311-318. Salzburg: Residenz Verlag, 1979.
-[^24]: Kovács, Elisabeth. "Kirchliches Zeremoniell am Wiener Hof des 18. Jahrhunderts im Wandel von Mentalität und Gesellschaft." *Mitteilungen des Instituts für Österreichische Geschichtsforschung* 91 (1983): 109-142.
-[^25]: Scott, Hamish M. "The Diplomatic Revolution." In *The Oxford Handbook of the Ancien Régime*, edited by William Doyle, 257-272. Oxford: Oxford University Press, 2012.
-[^26]: Lukowski, Jerzy. *The Partitions of Poland: 1772, 1793, 1795*. London: Longman, 1999, pp. 32-38.
-[^27]: Quoted in Karniel, Josef. *Die Toleranzpolitik Kaiser Josephs II*. Gerlingen: Bleicher Verlag, 1986, p. 89.
-[^28]: Bernard, Paul P. "The Limits of Absolutism: Joseph II and the Allgemeine Krankenhaus." *Eighteenth-Century Studies* 9, no. 2 (1975): 194-195.
-[^29]: Karniel, *Die Toleranzpolitik Kaiser Josephs II*, pp. 90-93.
-[^30]: Evans, R.J.W. *Austria, Hungary, and the Habsburgs: Essays on Central Europe, c. 1683-1867*. Oxford: Oxford University Press, 2006, pp. 98-102.
-[^31]: Puff-Trojan, Andrea. "Die Wiener Keuschheitskommission." *Wiener Geschichtsblätter* 47 (1992): 181-197.
-[^32]: Butterwick, Richard. *Poland's Last King and English Culture: Stanisław August Poniatowski 1732-1798*. Oxford: Clarendon Press, 1998, p. 134.
-[^33]: Lukowski, *The Partitions of Poland*, pp. 35-37.
-[^34]: Fraser, Antonia. *Marie Antoinette: The Journey*. New York: Anchor Books, 2001, pp. 38-42.
-[^35]: Lever, Evelyne. *Marie Antoinette: The Last Queen of France*. Translated by Catherine Temerson. New York: Farrar, Straus and Giroux, 2000, pp. 19-24.
-[^36]: Szabo, *The Seven Years War in Europe*, pp. 412-418.
-[^37]: Anderson, Fred. *Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754-1766*. New York: Alfred A. Knopf, 2000, pp. 165-167.
-[^38]: Blum, Jerome. *Noble Landowners and Agriculture in Austria, 1815-1848*. Baltimore: Johns Hopkins Press, 1948, pp. 18-22.
-[^39]: Wright, William E. *Serf, Seigneur, and Sovereign: Agrarian Reform in Eighteenth-Century Bohemia*. Minneapolis: University of Minnesota Press, 1966, pp. 34-39.
-[^40]: Pick, *Empress Maria Theresa*, pp. 215-218.
-[^41]: Crankshaw, *Maria Theresa*, pp. 328-331.
-[^42]: Mahan, *Maria Theresa of Austria*, pp. 187-192.
-[^43]: Beales, *Joseph II: Volume I*, pp. 45-48.
-[^44]: Fraser, *Marie Antoinette*, pp. 41-43.
+[^1]: Crankshaw, Edward. _Maria Theresa_. London: Longmans, 1969, pp. 15-18.
+
+[^2]: Hochedlinger, Michael. _Austria's Wars of Emergence: War, State and Society in the Habsburg Monarchy 1683-1797_. London: Longman, 2003, pp. 245-248.
+
+[^3]: McGill, William J. "Maria Theresa." _The American Historical Review_ 81, no. 4 (1976): 744-745.
+
+[^4]: Kann, Robert A. _A History of the Habsburg Empire, 1526-1918_. Berkeley: University of California Press, 1974, pp. 168-170.
+
+[^5]: Beales, Derek. _Joseph II: Volume I, In the Shadow of Maria Theresa, 1741-1780_. Cambridge: Cambridge University Press, 1987, pp. 23-25.
+
+[^6]: Mahan, J. Alexander. _Maria Theresa of Austria_. New York: Thomas Y. Crowell Company, 1932, pp. 42-45.
+
+[^7]: Pick, Robert. _Empress Maria Theresa: The Earlier Years, 1717-1757_. New York: Harper & Row, 1966, pp. 67-72.
+
+[^8]: Anderson, M.S. _The War of the Austrian Succession, 1740-1748_. London: Longman, 1995, pp. 38-41.
+
+[^9]: Browning, Reed. _The War of the Austrian Succession_. New York: St. Martin's Press, 1993, pp. 48-52.
+
+[^10]: Tapie, Victor-L. _The Rise and Fall of the Habsburg Monarchy_. Translated by Stephen Hardman. New York: Praeger, 1971, pp. 213-214.
+
+[^11]: Macartney, C.A. _The Habsburg Empire, 1790-1918_. London: Weidenfeld and Nicolson, 1968, pp. 12-13.
+
+[^12]: Duffy, Christopher. _The Army of Maria Theresa: The Armed Forces of Imperial Austria, 1740-1780_. New York: Hippocrene Books, 1977, pp. 15-19.
+
+[^13]: Wilson, Peter H. _The Holy Roman Empire: A Thousand Years of Europe's History_. London: Allen Lane, 2016, pp. 589-592.
+
+[^14]: Ingrao, Charles W. _The Habsburg Monarchy, 1618-1815_. Cambridge: Cambridge University Press, 1994, pp. 142-145.
+
+[^15]: Dickson, P.G.M. _Finance and Government under Maria Theresia 1740-1780_. 2 vols. Oxford: Clarendon Press, 1987, vol. 1, pp. 3-8.
+
+[^16]: Vann, James Allen, and Steven W. Rowan, eds. _The Old Reich: Essays on German Political Institutions, 1495-1806_. Brussels: Librairie Encyclopédique, 1974, pp. 156-159.
+
+[^17]: Dickson, _Finance and Government_, vol. 1, pp. 234-241.
+
+[^18]: Duffy, _The Army of Maria Theresa_, pp. 47-51.
+
+[^19]: Szabo, Franz A.J. _The Seven Years War in Europe, 1756-1763_. Harlow: Pearson Longman, 2008, pp. 78-82.
+
+[^20]: Engelbrecht, Helmut. _Geschichte des österreichischen Bildungswesens_. Vol. 3. Vienna: Österreichischer Bundesverlag, 1984, pp. 124-128.
+
+[^21]: Melton, James Van Horn. _Absolutism and the Eighteenth-Century Origins of Compulsory Schooling in Prussia and Austria_. Cambridge: Cambridge University Press, 1988, pp. 177-182.
+
+[^22]: Otruba, Gustav. "Die Wirtschaftspolitik Maria Theresias." In _Maria Theresia: Beiträge zur Geschichte des Habsburgerreiches_, edited by Walter Koschatzky, 365-379. Vienna: Residenz Verlag, 1980.
+
+[^23]: Ogris, Werner. "Maria Theresia und das österreichische Strafrecht." In _Maria Theresia und ihre Zeit_, edited by Walter Koschatzky, 311-318. Salzburg: Residenz Verlag, 1979.
+
+[^24]: Kovács, Elisabeth. "Kirchliches Zeremoniell am Wiener Hof des 18. Jahrhunderts im Wandel von Mentalität und Gesellschaft." _Mitteilungen des Instituts für Österreichische Geschichtsforschung_ 91 (1983): 109-142.
+
+[^25]: Scott, Hamish M. "The Diplomatic Revolution." In _The Oxford Handbook of the Ancien Régime_, edited by William Doyle, 257-272. Oxford: Oxford University Press, 2012.
+
+[^26]: Lukowski, Jerzy. _The Partitions of Poland: 1772, 1793, 1795_. London: Longman, 1999, pp. 32-38.
+
+[^27]: Quoted in Karniel, Josef. _Die Toleranzpolitik Kaiser Josephs II_. Gerlingen: Bleicher Verlag, 1986, p. 89.
+
+[^28]: Bernard, Paul P. "The Limits of Absolutism: Joseph II and the Allgemeine Krankenhaus." _Eighteenth-Century Studies_ 9, no. 2 (1975): 194-195.
+
+[^29]: Karniel, _Die Toleranzpolitik Kaiser Josephs II_, pp. 90-93.
+
+[^30]: Evans, R.J.W. _Austria, Hungary, and the Habsburgs: Essays on Central Europe, c. 1683-1867_. Oxford: Oxford University Press, 2006, pp. 98-102.
+
+[^31]: Puff-Trojan, Andrea. "Die Wiener Keuschheitskommission." _Wiener Geschichtsblätter_ 47 (1992): 181-197.
+
+[^32]: Butterwick, Richard. _Poland's Last King and English Culture: Stanisław August Poniatowski 1732-1798_. Oxford: Clarendon Press, 1998, p. 134.
+
+[^33]: Lukowski, _The Partitions of Poland_, pp. 35-37.
+
+[^34]: Fraser, Antonia. _Marie Antoinette: The Journey_. New York: Anchor Books, 2001, pp. 38-42.
+
+[^35]: Lever, Evelyne. _Marie Antoinette: The Last Queen of France_. Translated by Catherine Temerson. New York: Farrar, Straus and Giroux, 2000, pp. 19-24.
+
+[^36]: Szabo, _The Seven Years War in Europe_, pp. 412-418.
+
+[^37]: Anderson, Fred. _Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754-1766_. New York: Alfred A. Knopf, 2000, pp. 165-167.
+
+[^38]: Blum, Jerome. _Noble Landowners and Agriculture in Austria, 1815-1848_. Baltimore: Johns Hopkins Press, 1948, pp. 18-22.
+
+[^39]: Wright, William E. _Serf, Seigneur, and Sovereign: Agrarian Reform in Eighteenth-Century Bohemia_. Minneapolis: University of Minnesota Press, 1966, pp. 34-39.
+
+[^40]: Pick, _Empress Maria Theresa_, pp. 215-218.
+
+[^41]: Crankshaw, _Maria Theresa_, pp. 328-331.
+
+[^42]: Mahan, _Maria Theresa of Austria_, pp. 187-192.
+
+[^43]: Beales, _Joseph II: Volume I_, pp. 45-48.
+
+[^44]: Fraser, _Marie Antoinette_, pp. 41-43.
+
 [^45]: McGill, "Maria Theresa," p. 746.
-[^46]: Dickson, *Finance and Government*, vol. 1, pp. 67-70.
-[^47]: Kann, *A History of the Habsburg Empire*, pp. 176-179.
-[^48]: Beales, Derek. *Joseph II: Volume II, Against the World, 1780-1790*. Cambridge: Cambridge University Press, 2009, pp. 11-15.
-[^49]: Beales, *Joseph II: Volume I*, pp. 456-462.
-[^50]: Ingrao, *The Habsburg Monarchy*, pp. 155-158.
-[^51]: Evans, *Austria, Hungary, and the Habsburgs*, pp. 89-94.
-[^52]: Stollberg-Rilinger, Barbara. *Maria Theresa: The Habsburg Empress in Her Time*. Translated by Joseph O'Donnell. Princeton: Princeton University Press, 2021, pp. 713-718.
-[^53]: Judson, Pieter M. *The Habsburg Empire: A New History*. Cambridge, MA: Harvard University Press, 2016, pp. 56-59.
-[^54]: Blanning, T.C.W. *The Origins of the French Revolutionary Wars*. London: Longman, 1986, pp. 23-26.
-[^55]: Lukowski, *The Partitions of Poland*, pp. 212-215.
-[^56]: Melton, *Absolutism and the Eighteenth-Century Origins of Compulsory Schooling*, pp. 198-203.
-[^57]: Beales, *Joseph II: Volume I*, pp. 289-294.
-[^58]: Lever, *Marie Antoinette*, pp. 267-271.
-[^59]: Stollberg-Rilinger, *Maria Theresa*, pp. 724-728.
-[^60]: Anderson, Bonnie S., and Judith P. Zinsser. *A History of Their Own: Women in Europe from Prehistory to the Present*. Vol. 2. New York: Harper & Row, 1988, pp. 89-91.
-[^61]: Beales, *Joseph II: Volume II*, pp. 589-594.
-[^62]: Kann, *A History of the Habsburg Empire*, pp. 189-192.
+
+[^46]: Dickson, _Finance and Government_, vol. 1, pp. 67-70.
+
+[^47]: Kann, _A History of the Habsburg Empire_, pp. 176-179.
+
+[^48]: Beales, Derek. _Joseph II: Volume II, Against the World, 1780-1790_. Cambridge: Cambridge University Press, 2009, pp. 11-15.
+
+[^49]: Beales, _Joseph II: Volume I_, pp. 456-462.
+
+[^50]: Ingrao, _The Habsburg Monarchy_, pp. 155-158.
+
+[^51]: Evans, _Austria, Hungary, and the Habsburgs_, pp. 89-94.
+
+[^52]: Stollberg-Rilinger, Barbara. _Maria Theresa: The Habsburg Empress in Her Time_. Translated by Joseph O'Donnell. Princeton: Princeton University Press, 2021, pp. 713-718.
+
+[^53]: Judson, Pieter M. _The Habsburg Empire: A New History_. Cambridge, MA: Harvard University Press, 2016, pp. 56-59.
+
+[^54]: Blanning, T.C.W. _The Origins of the French Revolutionary Wars_. London: Longman, 1986, pp. 23-26.
+
+[^55]: Lukowski, _The Partitions of Poland_, pp. 212-215.
+
+[^56]: Melton, _Absolutism and the Eighteenth-Century Origins of Compulsory Schooling_, pp. 198-203.
+
+[^57]: Beales, _Joseph II: Volume I_, pp. 289-294.
+
+[^58]: Lever, _Marie Antoinette_, pp. 267-271.
+
+[^59]: Stollberg-Rilinger, _Maria Theresa_, pp. 724-728.
+
+[^60]: Anderson, Bonnie S., and Judith P. Zinsser. _A History of Their Own: Women in Europe from Prehistory to the Present_. Vol. 2. New York: Harper & Row, 1988, pp. 89-91.
+
+[^61]: Beales, _Joseph II: Volume II_, pp. 589-594.
+
+[^62]: Kann, _A History of the Habsburg Empire_, pp. 189-192.
+
 [^63]: McGill, "Maria Theresa," p. 747.
-[^64]: Macartney, *The Habsburg Empire*, pp. 15-17.
-[^65]: Stollberg-Rilinger, *Maria Theresa*, pp. 145-152.
+
+[^64]: Macartney, _The Habsburg Empire_, pp. 15-17.
+
+[^65]: Stollberg-Rilinger, _Maria Theresa_, pp. 145-152.
+
 [^66]: Kovács, "Kirchliches Zeremoniell," pp. 127-129.
-[^67]: Pick, *Empress Maria Theresa*, pp. 289-294.
-[^68]: Mahan, *Maria Theresa of Austria*, pp. 312-315.
-[^69]: Duffy, *The Army of Maria Theresa*, pp. 178-182.
-[^70]: Kovács, Elisabeth. *Katholisches Aufklärung und Josephinismus*. Vienna: Verlag für Geschichte und Politik, 1979, pp. 67-71.
+
+[^67]: Pick, _Empress Maria Theresa_, pp. 289-294.
+
+[^68]: Mahan, _Maria Theresa of Austria_, pp. 312-315.
+
+[^69]: Duffy, _The Army of Maria Theresa_, pp. 178-182.
+
+[^70]: Kovács, Elisabeth. _Katholisches Aufklärung und Josephinismus_. Vienna: Verlag für Geschichte und Politik, 1979, pp. 67-71.
+
 [^71]: Bernard, "The Limits of Absolutism," pp. 193-196.
-[^72]: Blanning, T.C.W. *Joseph II*. London: Longman, 1994, pp. 28-31.
-[^73]: Blanning, *The Origins of the French Revolutionary Wars*, pp. 24-26.
-[^74]: Anderson and Zinsser, *A History of Their Own*, vol. 2, pp. 90-91.
-[^75]: Wright, *Serf, Seigneur, and Sovereign*, pp. 37-40.
-[^76]: Butterwick, *Poland's Last King*, pp. 135-137.
-[^77]: Judson, *The Habsburg Empire*, pp. 57-59.
-[^78]: Good, David F. *The Economic Rise of the Habsburg Empire, 1750-1914*. Berkeley: University of California Press, 1984, pp. 34-38.
-[^79]: Quoted in Tapie, *The Rise and Fall of the Habsburg Monarchy*, p. 246.
-[^80]: Quoted in Szabo, *The Seven Years War in Europe*, p. 416.
-[^81]: Quoted in Crankshaw, *Maria Theresa*, p. 329.
-[^82]: Quoted in Karniel, *Die Toleranzpolitik Kaiser Josephs II*, p. 89.
-[^83]: Quoted in Lukowski, *The Partitions of Poland*, p. 35.
-[^84]: Quoted in Duffy, *The Army of Maria Theresa*, p. 18.
+
+[^72]: Blanning, T.C.W. _Joseph II_. London: Longman, 1994, pp. 28-31.
+
+[^73]: Blanning, _The Origins of the French Revolutionary Wars_, pp. 24-26.
+
+[^74]: Anderson and Zinsser, _A History of Their Own_, vol. 2, pp. 90-91.
+
+[^75]: Wright, _Serf, Seigneur, and Sovereign_, pp. 37-40.
+
+[^76]: Butterwick, _Poland's Last King_, pp. 135-137.
+
+[^77]: Judson, _The Habsburg Empire_, pp. 57-59.
+
+[^78]: Good, David F. _The Economic Rise of the Habsburg Empire, 1750-1914_. Berkeley: University of California Press, 1984, pp. 34-38.
+
+[^79]: Quoted in Tapie, _The Rise and Fall of the Habsburg Monarchy_, p. 246.
+
+[^80]: Quoted in Szabo, _The Seven Years War in Europe_, p. 416.
+
+[^81]: Quoted in Crankshaw, _Maria Theresa_, p. 329.
+
+[^82]: Quoted in Karniel, _Die Toleranzpolitik Kaiser Josephs II_, p. 89.
+
+[^83]: Quoted in Lukowski, _The Partitions of Poland_, p. 35.
+
+[^84]: Quoted in Duffy, _The Army of Maria Theresa_, p. 18.

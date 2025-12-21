@@ -213,35 +213,35 @@ Each generation of scholars over the twelve centuries since his death has offere
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 742/748 | Birth of Charlemagne (exact year disputed; April 2 most likely date) |
-| 751 | Pepin the Short becomes King of the Franks |
-| 768 | Death of Pepin; kingdom divided between Charlemagne and Carloman |
-| 770 | Marriage to Desiderata, daughter of Lombard King Desiderius |
-| 771 | Divorce from Desiderata; death of Carloman; Charlemagne becomes sole ruler; marriage to Hildegard |
-| 772 | Beginning of Saxon Wars (continuing until 804) |
-| 773-774 | Conquest of Lombard kingdom; assumption of Lombard crown |
-| 778 | Battle of Roncesvalles; destruction of Frankish rearguard retreating from Spain |
-| 782 | Massacre of Verden; execution of 4,500 Saxon prisoners |
-| 783 | Death of Hildegard from complications of pregnancy |
-| 785 | Issuance of Capitulatio de partibus Saxoniae; submission of Widukind |
-| 787-788 | Conquest and annexation of Bavaria |
-| 789 | Issuance of Admonitio generalis; foundation of Carolingian Renaissance reforms |
-| 791-796 | Conquest of Avar empire; acquisition of enormous treasure |
-| 794 | Council of Frankfurt |
-| 799 | Attack on Pope Leo III in Rome; Leo flees to Charlemagne |
-| 800 | Marriage to Liutgard; coronation as Emperor of the Romans on Christmas Day |
-| 802 | Issuance of Capitulare missorum generale; reform of missi dominici |
-| 804 | Final submission of Saxons; end of Saxon Wars |
-| 813 | Coronation of Louis the Pious as co-emperor |
-| 814 | Death of Charlemagne on January 28; burial at Aachen Cathedral |
+| Year    | Event                                                                                             |
+| ------- | ------------------------------------------------------------------------------------------------- |
+| 742/748 | Birth of Charlemagne (exact year disputed; April 2 most likely date)                              |
+| 751     | Pepin the Short becomes King of the Franks                                                        |
+| 768     | Death of Pepin; kingdom divided between Charlemagne and Carloman                                  |
+| 770     | Marriage to Desiderata, daughter of Lombard King Desiderius                                       |
+| 771     | Divorce from Desiderata; death of Carloman; Charlemagne becomes sole ruler; marriage to Hildegard |
+| 772     | Beginning of Saxon Wars (continuing until 804)                                                    |
+| 773-774 | Conquest of Lombard kingdom; assumption of Lombard crown                                          |
+| 778     | Battle of Roncesvalles; destruction of Frankish rearguard retreating from Spain                   |
+| 782     | Massacre of Verden; execution of 4,500 Saxon prisoners                                            |
+| 783     | Death of Hildegard from complications of pregnancy                                                |
+| 785     | Issuance of Capitulatio de partibus Saxoniae; submission of Widukind                              |
+| 787-788 | Conquest and annexation of Bavaria                                                                |
+| 789     | Issuance of Admonitio generalis; foundation of Carolingian Renaissance reforms                    |
+| 791-796 | Conquest of Avar empire; acquisition of enormous treasure                                         |
+| 794     | Council of Frankfurt                                                                              |
+| 799     | Attack on Pope Leo III in Rome; Leo flees to Charlemagne                                          |
+| 800     | Marriage to Liutgard; coronation as Emperor of the Romans on Christmas Day                        |
+| 802     | Issuance of Capitulare missorum generale; reform of missi dominici                                |
+| 804     | Final submission of Saxons; end of Saxon Wars                                                     |
+| 813     | Coronation of Louis the Pious as co-emperor                                                       |
+| 814     | Death of Charlemagne on January 28; burial at Aachen Cathedral                                    |
 
 ---
 
 ## Famous Quotes
 
-> "To have another language is to possess a second soul." 
+> "To have another language is to possess a second soul."
 
 This, Charlemagne's most famous saying, reflects his commitment to learning and multilingualism, embodying the intellectual aspirations of the Carolingian Renaissance.[^137]
 
@@ -266,143 +266,283 @@ This poetic expression, attributed to Charlemagne in various sources, metaphoric
 ## References
 
 [^1]: [Charlemagne - Wikipedia](https://en.wikipedia.org/wiki/Charlemagne)
+
 [^2]: [Charlemagne | Biography, Accomplishments, Children, & Facts | Britannica](https://www.britannica.com/biography/Charlemagne)
+
 [^3]: [Carolingian Renaissance - Wikipedia](https://en.wikipedia.org/wiki/Carolingian_Renaissance)
+
 [^4]: [Charlemagne: The Father of Europe — History is Now Magazine](http://www.historyisnowmagazine.com/blog/2025/2/5/charlemagne-the-father-of-europe)
+
 [^5]: [Charlemagne was born 2 April 742 - Italian Art Society](https://www.italianartsociety.org/2017/04/charlemagne-was-born-2-april-742-in-what-was-then-the-frankish-kingdom-and-died-there-in-january-814/)
+
 [^6]: [Charlemagne Biography - Notable Biographies](https://www.notablebiographies.com/Ch-Co/Charlemagne.html)
+
 [^7]: [Biography - Biography.com](https://www.biography.com/royalty/charlemagne)
+
 [^8]: [CATHOLIC ENCYCLOPEDIA: Charlemagne](https://www.newadvent.org/cathen/03610c.htm)
+
 [^9]: [100 Years Carnegie: Charlemagne](https://www.departments.bucknell.edu/history/carnegie/charlemagne/index.html)
+
 [^10]: [Timeline: Charlemagne - World History Encyclopedia](https://www.worldhistory.org/timeline/Charlemagne/)
+
 [^11]: [Carolingian Dynasty - World History Encyclopedia](https://www.worldhistory.org/Carolingian_Dynasty/)
+
 [^12]: [Carolingian Empire - Wikipedia](https://en.wikipedia.org/wiki/Carolingian_Empire)
+
 [^13]: [The Many Wives And Concubines Of Charlemagne - The Historian's Hut](https://thehistorianshut.com/2018/06/15/the-many-wives-and-concubines-of-charlemagne/)
+
 [^14]: [Holy Roman Empire - Charlemagne, Coronation, Empire | Britannica](https://www.britannica.com/place/Holy-Roman-Empire/Coronation-of-Charlemagne-as-emperor)
+
 [^15]: [Charlemagne - Frankish Empire, Saxon Wars, Italy | Britannica](https://www.britannica.com/biography/Charlemagne/Military-campaigns)
+
 [^16]: [Military campaigns of Charlemagne | Britannica](https://www.britannica.com/summary/Charlemagne)
+
 [^17]: [Wars of Charlemagne | Research Starters](https://www.ebsco.com/research-starters/history/wars-charlemagne)
+
 [^18]: [Pope Leo III - Wikipedia](https://en.wikipedia.org/wiki/Pope_Leo_III)
+
 [^19]: [Saint Leo III | Pope, Charlemagne Coronation | Britannica](https://www.britannica.com/biography/Saint-Leo-III)
+
 [^20]: [The Coronation of 800 CE | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-coronation-of-800-ce/)
+
 [^21]: [Charlemagne: Facts, Empire & Holy Roman Emperor - History.com](https://www.history.com/articles/charlemagne)
+
 [^22]: [The Significance of the Coronation of Charlemagne](https://wou.edu/history/files/2015/08/Monica-Fleener.pdf)
+
 [^23]: [Roman Holiday: December 25, 800 - University of South Carolina](https://sc.edu/about/offices_and_divisions/research/news_and_pubs/caravel/archive/2015/2015-caravel-purple-reign.php)
+
 [^24]: [Charlemagne's Reforms | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/charlemagnes-reforms/)
+
 [^25]: [Charlemagne - World Atlas](https://www.worldatlas.com/middle-ages/charlemagne.html)
+
 [^26]: [Saxon Wars - World History Encyclopedia](https://www.worldhistory.org/Saxon_Wars/)
+
 [^27]: [Saxon Wars - Wikipedia](https://en.wikipedia.org/wiki/Saxon_Wars)
+
 [^28]: [The Rise of Charlemagne | Western Civilization](https://courses.lumenlearning.com/suny-hccc-worldhistory/chapter/the-rise-of-charlemagne/)
+
 [^29]: [Charlemagne's conquests and imperial coronation - Fiveable](https://fiveable.me/the-middle-ages/unit-4/charlemagnes-conquests-imperial-coronation/study-guide/T0qSTSTRaIQRjNZC)
+
 [^30]: [Medieval Warfare in the reign of Charlemagne](https://deremilitari.org/2013/06/medieval-warfare-in-the-reign-of-charlemagne/)
+
 [^31]: [Charlemagne: The Greatest Conqueror of the Middle Ages?](https://www.culturefrontier.com/charlemagne/)
+
 [^32]: [Carolingian Renaissance | Britannica](https://www.britannica.com/topic/Carolingian-Renaissance)
+
 [^33]: [Smarthistory – Charlemagne (part 2 of 2): The Carolingian revival](https://smarthistory.org/charlemagne-part-2-of-2/)
+
 [^34]: [The Contributions of the Emperor Charlemagne and the Educator Alcuin](https://www.historyofinformation.com/detail.php?id=196)
+
 [^35]: [Charlemagne and the Carolingian Dynasty - Fiveable](https://fiveable.me/the-middle-ages/unit-4)
+
 [^36]: [Admonitio generalis - Wikipedia](https://en.wikipedia.org/wiki/Admonitio_generalis)
+
 [^37]: [Carolingian Art - The Metropolitan Museum of Art](https://www.metmuseum.org/toah/hd/caro/hd_caro.htm)
+
 [^38]: [Accomplishments and social achievements of Charlemagne - eNotes](https://www.enotes.com/topics/history/questions/accomplishments-and-social-achievements-of-3122550)
+
 [^39]: [Biography: Charlemagne - Ducksters](https://www.ducksters.com/biography/charlemagne.php)
+
 [^40]: [Charlemagne: Birth Story, Family, Reign, & Achievements](https://worldhistoryedu.com/charlemagne-birth-story-family-reign-death/)
+
 [^41]: [Administrative innovations under Charlemagne - StudyRaid](https://app.studyraid.com/en/read/16136/565493/administrative-innovations-under-charlemagne)
+
 [^42]: [Charlemagne - Religious Reform, Holy Roman Empire, Papacy | Britannica](https://www.britannica.com/biography/Charlemagne/Religious-reform)
+
 [^43]: [Charlemagne - Emperor, Frankish, Reforms | Britannica](https://www.britannica.com/biography/Charlemagne/Court-and-administration)
+
 [^44]: [Capitulary | Carolingian, Charlemagne, Legislation | Britannica](https://www.britannica.com/topic/capitulary)
+
 [^45]: [Capitulary - Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095547830)
+
 [^46]: [Historical Time Line of Charlemagne](http://legalhistorysources.com/ChurchHistory220/TimeLineCharlemagne.htm)
+
 [^47]: [Administrative reforms under Charlemagne](https://uncg.edu/~rebarton/221-fa00-rg7.html)
+
 [^48]: [Charlemagne - Emperor, Franks, Holy Roman Empire | Britannica](https://www.britannica.com/biography/Charlemagne/Emperor-of-the-Romans)
+
 [^49]: [Who was Charlemagne, the Carolingian Emperor of Europe? | Live Science](https://www.livescience.com/charlemagne-emperor-of-europe)
+
 [^50]: [Medieval History – Charlemagne: The First Emperor of Europe](https://historymedieval.com/charlemagne-the-first-emperor-of-europe/)
+
 [^51]: [Who was Charlemagne? The unlikely king who became an emperor | National Geographic](https://www.nationalgeographic.com/premium/article/holy-roman-empire-king-charlemagne)
+
 [^52]: [Charlemagne Crowned as Holy Roman Emperor | Christianity.com](https://www.christianity.com/church/church-history/timeline/601-900/charlemagne-crowned-as-holy-roman-emperor-11629758.html)
+
 [^53]: [Charlemagne's Long Shadow on Europe Today](https://lifehopeandtruth.com/prophecy/blog/charlemagnes-long-shadow-on-europe-today/)
+
 [^54]: [The Rise of Charlemagne | Western Civilizations I](https://courses.lumenlearning.com/suny-fmcc-worldhistory/chapter/the-rise-of-charlemagne/)
+
 [^55]: [Team 5: Charlemagne and the Church](https://blogs.uoregon.edu/rel322w16drreis/2016/01/19/team-5-charlemagne-and-the-church/)
+
 [^56]: [CATHOLIC ENCYCLOPEDIA: Pope St. Leo III](https://www.newadvent.org/cathen/09157b.htm)
+
 [^57]: [Did Pope Leo III Save the Church? - Catholic Exchange](https://catholicexchange.com/did-pope-leo-iii-save-the-church/)
+
 [^58]: [Significance Of Pope Leo III's Crowning Of Charlemagne](https://thereadingtub.com/why-was-pope-leo-iiis-crowning-of-charlemagne-significant/)
+
 [^59]: [Charlemagne - Christianity Today](https://www.christianitytoday.com/history/people/rulers/charlemagne.html)
+
 [^60]: [The Conquest and Forced Conversion of the Saxons](https://repository.lsu.edu/cgi/viewcontent.cgi?article=2274&context=gradschool_theses)
+
 [^61]: [Charlemagne vs. the Saxons | Christian History Magazine](https://christianhistoryinstitute.org/magazine/article/charlemagne-vs-the-saxons)
+
 [^62]: [Charlemagne and the Legacy of Christian Political Violence - 9Marks](https://www.9marks.org/article/charlemagne-and-the-legacy-of-christian-political-violence/)
+
 [^63]: [The Norse Mythology Blog - Charlemagne's Saxon War](https://www.norsemyth.org/2015/12/charlemagnes-saxon-war-religio-cultural_11.html)
+
 [^64]: [Charlemagne's Saxon Wars: Unveiling the Verden Massacre - CliffsNotes](https://www.cliffsnotes.com/study-notes/23418041)
+
 [^65]: [The Massacre of Verden: Forced Christianization](https://www.aldsidu.com/post/the-massacre-of-verden-forced-cristianization)
+
 [^66]: [Heritage History | Charlemagne by George Upton](https://www.heritage-history.com/index.php?c=read&author=upton&book=charlemagne&story=saxon)
+
 [^67]: [Charlemagne: Nuancing the Conventional Narrative](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1005&context=pat_pnw)
+
 [^68]: [What was Charlemagne's family life like? | Britannica](https://www.britannica.com/question/What-was-Charlemagnes-family-life-like)
+
 [^69]: [The Royal Rundown on Charlemagne's 20 Children](https://www.mentalfloss.com/posts/charlemagne-descendants-family-tree)
+
 [^70]: [Charlemagne - Frankish Empire, Holy Roman Emperor, Legacy | Britannica](https://www.britannica.com/biography/Charlemagne/King-of-the-Franks)
+
 [^71]: [The Monstrous Regiment of Women in Charlemagne's Court](https://www.monstrousregimentofwomen.com/2015/12/a-monstrous-regiment-of-women-in.html)
+
 [^72]: [Charlemagne: Private Life – The First Part | Medieval Wall](https://medievalwall.com/historical-figures/charlemagne-first-part/)
+
 [^73]: [Five Fascinating Facts about Charlemagne's Francia | Kim Rendfeld](https://kimrendfeld.wordpress.com/2018/01/03/five-fascinating-facts-about-charlemagnes-francia/)
+
 [^74]: [Timeline - Charlemagne Project](https://charlemangeproject.weebly.com/timeline.html)
+
 [^75]: [Medieval and Middle Ages History Timelines - Charlemagne](https://www.timeref.com/people/charlemagne_charles_the_great_king_of_the_franks.htm)
+
 [^76]: [Timeline: A Timeline of Charlemagne's Life | Timetoast](https://www.timetoast.com/timelines/a-timeline-of-charlemagne-s-life)
+
 [^77]: [Life of Charlemagne timeline | Timetoast Timelines](https://www.timetoast.com/timelines/test-fb8210e6-a69f-42be-b937-d234f0f63ead)
+
 [^78]: [Timeline: Charlemagne | Timetoast](https://www.timetoast.com/timelines/charlemagne-c94ceed5-0d08-4c70-b6f4-a21f5d808ad4)
+
 [^79]: [Iconography of Charlemagne - Wikipedia](https://en.wikipedia.org/wiki/Iconography_of_Charlemagne)
+
 [^80]: [Charlemagne's pics & history - Pinterest](https://www.pinterest.com/amitchell1727/charlemagnes-pics-history/)
+
 [^81]: [Reportret: Charlemagne](https://www.reportret.info/gallery/charlemagne1.html)
+
 [^82]: [642 Charlemagne Emperor Stock Photos - Getty Images](https://www.gettyimages.com/photos/charlemagne-emperor)
+
 [^83]: [320+ Charlemagne Emperor Stock Photos - iStock](https://www.istockphoto.com/photos/charlemagne-emperor)
+
 [^84]: [750+ Charlemagne Stock Photos - iStock](https://www.istockphoto.com/photos/charlemagne)
+
 [^85]: [7,800 Charlemagne Stock Photos - Getty Images](https://www.gettyimages.com/photos/charlemagne)
+
 [^86]: [519 Portrait Of Charlemagne Stock Photos - Getty Images](https://www.gettyimages.com/photos/portrait-of-charlemagne)
+
 [^87]: [L'iconographie de Charlemagne](https://books.openedition.org/pulg/3587?lang=en)
+
 [^88]: [Charlemagne | Reviews in History](https://reviews.history.ac.uk/review/166/)
+
 [^89]: [Thankless Complications: Charlemagne in Modern(ish) Italian History Writing](https://salutemmundo.wordpress.com/2024/10/17/thankless-complications-charlemagne-in-modernish-italian-history-writing/)
+
 [^90]: [Charlemagne's Legacy: Understanding His Impact on History - PapersOwl](https://papersowl.com/examples/charlemagnes-legacy-understanding-his-impact-on-history/)
+
 [^91]: [History in the Making Volume 10 Article 13](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1037&context=history-in-the-making)
+
 [^92]: [Nelson, King and Emperor | The Medieval Review](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/34466/37766)
+
 [^93]: [Charlemagne - Wikiquote](https://en.wikiquote.org/wiki/Charlemagne)
+
 [^94]: [TOP 5 QUOTES BY CHARLEMAGNE | A-Z Quotes](https://www.azquotes.com/author/38108-Charlemagne)
+
 [^95]: [17 of the Best Quotes By Charlemagne | Quoteikon](https://www.quoteikon.com/charlemagne-quotes.html)
+
 [^96]: [Charlemagne (5 Sourced Quotes) - Lib Quotes](https://libquotes.com/charlemagne)
+
 [^97]: [The Life of Charlemagne Quotes by Einhard](https://www.goodreads.com/work/quotes/57638245)
+
 [^98]: [Top 50 CHARLEMAGNE quotes and sayings](https://www.inspiringquotes.us/author/4065-charlemagne)
+
 [^99]: [30 Best Charlemagne Quotes With Image | Bookey](https://www.bookey.app/quote-author/charlemagne)
+
 [^100]: [Quotes by 'Charlemagne' | QuoteTab](https://www.quotetab.com/quotes/by-charlemagne)
+
 [^101]: [Charlemagne Quotes - BrainyQuote](https://www.brainyquote.com/authors/charlemagne-quotes)
+
 [^102]: [Charlemagne Quotes (8 quotes)](https://quotepark.com/authors/charlemagne/)
+
 [^103]: [What was the effect of Charlemagne and Leo III's relationship?](https://brainly.com/question/28915797)
+
 [^104]: [Iu - The Medieval Review](https://scholarworks.iu.edu/journals/index.php/tmr/article/download/34466/37766)
+
 [^105]: [22.05.08 Nelson, King and Emperor | The Medieval Review](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/34466/37766)
+
 [^106]: [Charlemagne: Facts, Empire & Holy Roman Emperor - History.com](https://www.history.com/topics/middle-ages/charlemagne)
+
 [^107]: [Who was Charlemagne? - Biography.com](https://www.biography.com/royalty/charlemagne)
+
 [^108]: [Charlemagne Overview - Britannica](https://www.britannica.com/biography/Charlemagne)
+
 [^109]: [Notable Biographies - Charlemagne](https://www.notablebiographies.com/Ch-Co/Charlemagne.html)
+
 [^110]: [World History Encyclopedia - Charlemagne Timeline](https://www.worldhistory.org/timeline/Charlemagne/)
+
 [^111]: [Carolingian Dynasty - World History Encyclopedia](https://www.worldhistory.org/Carolingian_Dynasty/)
+
 [^112]: [Carolingian Empire - Wikipedia](https://en.wikipedia.org/wiki/Carolingian_Empire)
+
 [^113]: [Holy Roman Empire - Britannica](https://www.britannica.com/place/Holy-Roman-Empire/Coronation-of-Charlemagne-as-emperor)
+
 [^114]: [History.com - Charlemagne](https://www.history.com/articles/charlemagne)
+
 [^115]: [World Atlas - Charlemagne](https://www.worldatlas.com/middle-ages/charlemagne.html)
+
 [^116]: [The Coronation of 800 CE](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-coronation-of-800-ce/)
+
 [^117]: [University of South Carolina - Roman Holiday](https://sc.edu/about/offices_and_divisions/research/news_and_pubs/caravel/archive/2015/2015-caravel-purple-reign.php)
+
 [^118]: [The Significance of the Coronation of Charlemagne](https://wou.edu/history/files/2015/08/Monica-Fleener.pdf)
+
 [^119]: [Charlemagne's Reforms - Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/charlemagnes-reforms/)
+
 [^120]: [Carolingian Renaissance - Wikipedia](https://en.wikipedia.org/wiki/Carolingian_Renaissance)
+
 [^121]: [Charlemagne Religious Reform - Britannica](https://www.britannica.com/biography/Charlemagne/Religious-reform)
+
 [^122]: [The Contributions of Charlemagne and Alcuin](https://www.historyofinformation.com/detail.php?id=196)
+
 [^123]: [Carolingian Renaissance - Britannica](https://www.britannica.com/topic/Carolingian-Renaissance)
+
 [^124]: [Smarthistory - Charlemagne Carolingian revival](https://smarthistory.org/charlemagne-part-2-of-2/)
+
 [^125]: [Carolingian Art - Metropolitan Museum of Art](https://www.metmuseum.org/toah/hd/caro/hd_caro.htm)
+
 [^126]: [Charlemagne and the Carolingian Dynasty - Fiveable](https://fiveable.me/the-middle-ages/unit-4)
+
 [^127]: [Accomplishments of Charlemagne - eNotes](https://www.enotes.com/topics/history/questions/accomplishments-and-social-achievements-of-3122550)
+
 [^128]: [Biography - Ducksters](https://www.ducksters.com/biography/charlemagne.php)
+
 [^129]: [Charlemagne Birth Story - World History Edu](https://worldhistoryedu.com/charlemagne-birth-story-family-reign-death/)
+
 [^130]: [Administrative innovations - StudyRaid](https://app.studyraid.com/en/read/16136/565493/administrative-innovations-under-charlemagne)
+
 [^131]: [Admonitio generalis - Wikipedia](https://en.wikipedia.org/wiki/Admonitio_generalis)
+
 [^132]: [Charlemagne Court and Administration - Britannica](https://www.britannica.com/biography/Charlemagne/Court-and-administration)
+
 [^133]: [Capitulary - Britannica](https://www.britannica.com/topic/capitulary)
+
 [^134]: [Capitulary - Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095547830)
+
 [^135]: [Historical Timeline of Charlemagne](http://legalhistorysources.com/ChurchHistory220/TimeLineCharlemagne.htm)
+
 [^136]: [Administrative reforms - UNCG](https://uncg.edu/~rebarton/221-fa00-rg7.html)
+
 [^137]: [Charlemagne - Wikiquote](https://en.wikiquote.org/wiki/Charlemagne)
+
 [^138]: [A-Z Quotes - Charlemagne](https://www.azquotes.com/author/38108-Charlemagne)
+
 [^139]: [Quoteikon - Charlemagne quotes](https://www.quoteikon.com/charlemagne-quotes.html)
+
 [^140]: [Lib Quotes - Charlemagne](https://libquotes.com/charlemagne)
+
 [^141]: [Goodreads - Life of Charlemagne Quotes](https://www.goodreads.com/work/quotes/57638245)

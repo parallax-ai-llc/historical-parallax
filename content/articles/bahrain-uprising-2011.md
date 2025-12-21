@@ -36,6 +36,7 @@ The Al Khalifa, a Sunni family, has ruled Bahrain since 1783:
 ### Shia Grievances
 
 Long-standing discrimination:
+
 - Exclusion from security forces and key positions
 - Gerrymandering limiting electoral representation
 - Housing and employment discrimination
@@ -66,6 +67,7 @@ Inspired by Tunisia and Egypt, activists called for protests on social media:
 ### Pearl Roundabout
 
 Protesters occupied the Pearl Roundabout (Lulu Roundabout), Manama's central traffic circle:
+
 - Became "Tahrir Square" equivalent
 - Thousands camped; families, children, diverse participation
 - Slogans: "No Sunni, no Shia, only Bahraini" (early attempt at unity)
@@ -74,6 +76,7 @@ Protesters occupied the Pearl Roundabout (Lulu Roundabout), Manama's central tra
 ### Bloody Thursday (February 17)
 
 At 3 AM, security forces attacked the sleeping protesters:
+
 - Tear gas, shotguns, batons
 - 4 killed, hundreds injured
 - International condemnation
@@ -94,6 +97,7 @@ At 3 AM, security forces attacked the sleeping protesters:
 On March 14, 2011, Gulf Cooperation Council (GCC) forces entered Bahrain:
 
 **Composition:**
+
 - ~1,000-1,200 Saudi troops
 - ~500 UAE police
 - Peninsula Shield Force framework
@@ -127,6 +131,7 @@ March 15, 2011: State of emergency declared (lifted June 1)
 ### Torture
 
 Documented widespread abuses:
+
 - Beatings, electric shocks, sexual abuse
 - Deaths in custody
 - Forced confessions
@@ -137,6 +142,7 @@ Documented widespread abuses:
 ## Death Toll and Casualties
 
 **BICI (Official Commission):** 35 deaths (February-April 2011)
+
 - 20 killed by government forces
 
 **Total by 2013:** 122+ deaths attributed to uprising and crackdown
@@ -153,28 +159,28 @@ Documented widespread abuses:
 
 ### Opposition
 
-| Name | Role |
-|------|------|
-| Hassan Mushaima | Opposition leader (life sentence) |
-| Abdulhadi al-Khawaja | Human rights activist (life sentence) |
-| Nabeel Rajab | Prominent activist (imprisoned multiple times) |
-| Ibrahim Sharif | Secular opposition (imprisoned) |
-| Zainab al-Khawaja | Activist; daughter of Abdulhadi |
+| Name                 | Role                                           |
+| -------------------- | ---------------------------------------------- |
+| Hassan Mushaima      | Opposition leader (life sentence)              |
+| Abdulhadi al-Khawaja | Human rights activist (life sentence)          |
+| Nabeel Rajab         | Prominent activist (imprisoned multiple times) |
+| Ibrahim Sharif       | Secular opposition (imprisoned)                |
+| Zainab al-Khawaja    | Activist; daughter of Abdulhadi                |
 
 ### Government
 
-| Name | Role |
-|------|------|
-| King Hamad bin Isa Al Khalifa | Monarch |
-| Crown Prince Salman | Initially sought dialogue |
+| Name                              | Role                                                     |
+| --------------------------------- | -------------------------------------------------------- |
+| King Hamad bin Isa Al Khalifa     | Monarch                                                  |
+| Crown Prince Salman               | Initially sought dialogue                                |
 | Prime Minister Khalifa bin Salman | Hardliner (longest-serving PM globally until death 2020) |
 
 ### External
 
-| Name | Role |
-|------|------|
-| King Abdullah of Saudi Arabia | Ordered intervention |
-| Peninsula Shield Force | GCC military alliance |
+| Name                          | Role                  |
+| ----------------------------- | --------------------- |
+| King Abdullah of Saudi Arabia | Ordered intervention  |
+| Peninsula Shield Force        | GCC military alliance |
 
 ---
 
@@ -183,12 +189,14 @@ Documented widespread abuses:
 King Hamad established commission led by Cherif Bassiouni:
 
 **Report (November 2011):**
+
 - Documented systematic torture
 - Found excessive force
 - Recommended reforms
 - Criticized "culture of impunity"
 
 **Government response:**
+
 - Accepted findings publicly
 - Implementation largely cosmetic
 - Core repression continued[^13]
@@ -266,42 +274,59 @@ King Hamad established commission led by Cherif Bassiouni:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| February 14, 2011 | "Day of Rage"; protests begin |
-| February 15, 2011 | Pearl Roundabout occupied |
-| February 17, 2011 | "Bloody Thursday" attack |
-| February 18, 2011 | Protesters return to Pearl Roundabout |
-| February 22, 2011 | 100,000+ march |
-| March 9, 2011 | 500+ arrested |
-| March 13, 2011 | Clashes at Financial Harbour |
-| March 14, 2011 | Saudi/GCC forces enter Bahrain |
-| March 15, 2011 | State of emergency declared |
-| March 16, 2011 | Pearl Roundabout cleared |
-| March 18, 2011 | Pearl Monument demolished |
-| June 1, 2011 | State of emergency lifted |
-| November 2011 | BICI report released |
-| 2011-present | Continuing repression; activists imprisoned |
+| Date              | Event                                       |
+| ----------------- | ------------------------------------------- |
+| February 14, 2011 | "Day of Rage"; protests begin               |
+| February 15, 2011 | Pearl Roundabout occupied                   |
+| February 17, 2011 | "Bloody Thursday" attack                    |
+| February 18, 2011 | Protesters return to Pearl Roundabout       |
+| February 22, 2011 | 100,000+ march                              |
+| March 9, 2011     | 500+ arrested                               |
+| March 13, 2011    | Clashes at Financial Harbour                |
+| March 14, 2011    | Saudi/GCC forces enter Bahrain              |
+| March 15, 2011    | State of emergency declared                 |
+| March 16, 2011    | Pearl Roundabout cleared                    |
+| March 18, 2011    | Pearl Monument demolished                   |
+| June 1, 2011      | State of emergency lifted                   |
+| November 2011     | BICI report released                        |
+| 2011-present      | Continuing repression; activists imprisoned |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Bahraini Uprising](https://en.wikipedia.org/wiki/Bahraini_uprising_of_2011)
+
 [^2]: [Wilson Center - Bahrain](https://www.wilsoncenter.org/article/bahrains-uprising)
+
 [^3]: [Wikipedia - Pearl Roundabout](https://en.wikipedia.org/wiki/Pearl_Roundabout)
+
 [^4]: [IR Review - Bahrain Shia](https://irreview.org/bahrain-shia-discrimination/)
+
 [^5]: [Ground Truth - Background](https://www.thegroundtruthproject.org/bahrain-discrimination/)
+
 [^6]: [Wikipedia - Crackdown](https://en.wikipedia.org/wiki/Bahraini_uprising_of_2011#Crackdown)
+
 [^7]: [AP News - Pearl Roundabout](https://apnews.com/article/bahrain-pearl-roundabout-2011)
-[^8]: [Wikipedia - Bloody Thursday](https://en.wikipedia.org/wiki/Bloody_Thursday_(Bahrain))
+
+[^8]: [Wikipedia - Bloody Thursday](<https://en.wikipedia.org/wiki/Bloody_Thursday_(Bahrain)>)
+
 [^9]: [Middle East Monitor - Escalation](https://www.middleeastmonitor.com/bahrain-2011-timeline/)
+
 [^10]: [Wikipedia - Saudi Intervention](https://en.wikipedia.org/wiki/Saudi-led_intervention_in_Bahrain)
+
 [^11]: [HRW - Torture](https://www.hrw.org/report/2011/07/bahrain-torture)
+
 [^12]: [Wikipedia - Death Toll](https://en.wikipedia.org/wiki/Bahraini_uprising_of_2011#Deaths)
+
 [^13]: [DAWN MENA - BICI](https://dawnmena.org/bahrain-bici-report/)
+
 [^14]: [Amnesty - Crackdown](https://www.amnesty.org/en/documents/bahrain-crackdown/)
+
 [^15]: [The Guardian - Saudi Intervention](https://www.theguardian.com/world/2011/mar/14/bahrain-saudi-troops)
+
 [^16]: [LSE - Sectarianism](https://blogs.lse.ac.uk/mec/bahrain-sectarian-framing/)
+
 [^17]: [ADHRB - Human Rights](https://www.adhrb.org/bahrain-human-rights-report/)
+
 [^18]: [CJPME - Legacy](https://www.cjpme.org/factsheet_bahrain/)

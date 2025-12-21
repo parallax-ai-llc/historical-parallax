@@ -109,26 +109,26 @@ Her controversial decision to invite Japanese military advisers to modernize Kor
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1851 | Born on November 17 in Yeoheung, Gyeonggi Province as Min Ja-yeong |
-| 1858 | Father Min Chi-rok dies when she is seven years old |
-| 1860 | Mother passes away, leaving her an orphan at age nine |
-| 1866 | Marries King Gojong on March 21, becoming Queen of Korea at age fourteen |
-| 1871 | Gives birth to Prince Royal Yi Choi, who dies four days later |
-| 1873 | Gives birth to second daughter, who dies at seven months; successfully forces Heungseon Daewongun from power |
-| 1874 | Gives birth to Yi Cheok (later Emperor Sunjong), her only child to survive to adulthood |
-| 1875 | Son Yi Deol born and dies within two weeks |
-| 1876 | Japan-Korea Treaty of Ganghwa signed, opening Korea to foreign trade |
-| 1878 | Son Yi Bu born and dies at four months old |
-| 1881 | Begins military modernization program with Japanese advisers |
+| Year | Event                                                                                                                                      |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1851 | Born on November 17 in Yeoheung, Gyeonggi Province as Min Ja-yeong                                                                         |
+| 1858 | Father Min Chi-rok dies when she is seven years old                                                                                        |
+| 1860 | Mother passes away, leaving her an orphan at age nine                                                                                      |
+| 1866 | Marries King Gojong on March 21, becoming Queen of Korea at age fourteen                                                                   |
+| 1871 | Gives birth to Prince Royal Yi Choi, who dies four days later                                                                              |
+| 1873 | Gives birth to second daughter, who dies at seven months; successfully forces Heungseon Daewongun from power                               |
+| 1874 | Gives birth to Yi Cheok (later Emperor Sunjong), her only child to survive to adulthood                                                    |
+| 1875 | Son Yi Deol born and dies within two weeks                                                                                                 |
+| 1876 | Japan-Korea Treaty of Ganghwa signed, opening Korea to foreign trade                                                                       |
+| 1878 | Son Yi Bu born and dies at four months old                                                                                                 |
+| 1881 | Begins military modernization program with Japanese advisers                                                                               |
 | 1882 | Imo Incident (military rebellion) forces her to flee the palace in disguise; Joseon-United States Treaty signed; China-Korea Treaty signed |
-| 1883 | Treaty with Germany |
-| 1884 | Treaties with Russia and Italy |
-| 1886 | Bestows name "Ewha" on Korea's first all-girls' school; Treaty with France |
-| 1894 | Donghak Peasant Rebellion; First Sino-Japanese War begins; Gabo Reforms initiated |
-| 1895 | Shifts alliance toward Russia to counter Japanese influence; assassinated by Japanese agents on October 8 at Gyeongbokgung Palace |
-| 1897 | Posthumously elevated to Empress Myeongseong when Gojong proclaims the Korean Empire on October 13 |
+| 1883 | Treaty with Germany                                                                                                                        |
+| 1884 | Treaties with Russia and Italy                                                                                                             |
+| 1886 | Bestows name "Ewha" on Korea's first all-girls' school; Treaty with France                                                                 |
+| 1894 | Donghak Peasant Rebellion; First Sino-Japanese War begins; Gabo Reforms initiated                                                          |
+| 1895 | Shifts alliance toward Russia to counter Japanese influence; assassinated by Japanese agents on October 8 at Gyeongbokgung Palace          |
+| 1897 | Posthumously elevated to Empress Myeongseong when Gojong proclaims the Korean Empire on October 13                                         |
 
 ---
 
@@ -151,117 +151,231 @@ The scarcity of direct quotations from Empress Myeongseong herself reflects both
 ## References
 
 [^1]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^2]: Tragic Facts About Queen Min, The Ghost Empress Of Korea, https://www.factinate.com/people/facts-queen-min
+
 [^3]: Empress Myeongseong the Great - Korea's beloved Empress, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^4]: The murder of Korea's nineteenth-century Empress Myeongseong, https://review.gale.com/2022/08/16/the-murder-of-empress-myeongseong-of-korea/
+
 [^5]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^6]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^7]: Yeoheung Min clan - Wikipedia, https://en.wikipedia.org/wiki/Yeoheung_Min_clan
+
 [^8]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^9]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^10]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^11]: Min – Team Queens, https://teamqueens.org/min/
+
 [^12]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^13]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^14]: Min | queen of Korea | Britannica, https://www.britannica.com/biography/Min-queen-of-Korea
+
 [^15]: Heungseon Daewongun and Queen Myeongseong: Joseon Korea's Struggle With Foreign Powers, https://uknowkorea.com/heungseon-daewongun-joseon-korea/
+
 [^16]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^17]: Empress Myeongseong the Great, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^18]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^19]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^20]: Min – Team Queens, https://teamqueens.org/min/
+
 [^21]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^22]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^23]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^24]: Heungseon Daewongun and Queen Myeongseong, https://uknowkorea.com/heungseon-daewongun-joseon-korea/
+
 [^25]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^26]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^27]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^28]: Heungseon Daewongun and Queen Myeongseong, https://uknowkorea.com/heungseon-daewongun-joseon-korea/
+
 [^29]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^30]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^31]: Empress Myeongseong the Great, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^32]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^33]: Empress Myeongseong the Great, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^34]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^35]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^36]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^37]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^38]: Ewha Womans University | South Korea, History, & Facts | Britannica, https://www.britannica.com/place/Ewha-Womans-University
+
 [^39]: Ewha Womans University - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Ewha_Womans_University
+
 [^40]: Empress Myeongseong facts for kids, https://kids.kiddle.co/Empress_Myeongseong
+
 [^41]: Ewha Womans University - Wikipedia, https://en.wikipedia.org/wiki/Ewha_Womans_University
+
 [^42]: Imo Incident - Wikipedia, https://en.wikipedia.org/wiki/Imo_Incident
+
 [^43]: Empress Myeongseong the Great, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^44]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^45]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^46]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^47]: KORELIMITED Celebrates Women's History Month, https://korelimited.com/blogs/korelimited/kore-celebrates-women-s-history-month-feat-queen-myeongseong
+
 [^48]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^49]: Joseon Myeongseong - AcademiaLab, https://academia-lab.com/encyclopedia/joseon-myeongseong/
+
 [^50]: Empress Myeongseong facts for kids, https://kids.kiddle.co/Empress_Myeongseong
+
 [^51]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^52]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^53]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^54]: Yeoheung Min - NamuWiki, https://en.namu.wiki/w/여흥 민씨
+
 [^55]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^56]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^57]: Tragic Facts About Queen Min, https://www.factinate.com/people/facts-queen-min
+
 [^58]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^59]: Tragic Facts About Queen Min, https://www.factinate.com/people/facts-queen-min
+
 [^60]: Imo Incident - Wikipedia, https://en.wikipedia.org/wiki/Imo_Incident
+
 [^61]: Imo Incident - Wikipedia, https://en.wikipedia.org/wiki/Imo_Incident
+
 [^62]: Imo Incident - Wikipedia, https://en.wikipedia.org/wiki/Imo_Incident
+
 [^63]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^64]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^65]: Tonghak Peasant Revolution - Wikipedia, https://en.wikipedia.org/wiki/Tonghak_Peasant_Revolution
+
 [^66]: Empress Myeongseong the Great, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^67]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^68]: Min – Team Queens, https://teamqueens.org/min/
+
 [^69]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^70]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^71]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^72]: Empress Myeongseong facts for kids, https://kids.kiddle.co/Empress_Myeongseong
+
 [^73]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^74]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^75]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^76]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^77]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^78]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^79]: Talk:Empress Myeongseong/Archive 1 - Wikipedia, https://en.m.wikipedia.org/wiki/Talk:Empress_Myeongseong/Archive_1
+
 [^80]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^81]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^82]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^83]: Korean Empire | Permanent Exhibitions, https://www.gogung.go.kr/gogungEn/main/contents.do?menuNo=1000022
+
 [^84]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^85]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^86]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^87]: Empress Myeongseong (TV series) - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong_(TV_series)
+
 [^88]: Empress Myeongseong the Great, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^89]: How do Koreans regard Queen Myeongseong? - Quora, https://www.quora.com/How-do-Koreans-regard-Queen-Myeongseong
+
 [^90]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^91]: The Routledge History of Monarchy, https://routledgetextbooks.com/textbooks/9781138703322/chapter_42_Frank_Jacob.php
+
 [^92]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^93]: Empress Myeongseong the Great, https://www.historyofroyalwomen.com/empress-myeongseong/empress-myeongseong-the-great-koreas-beloved-empress/
+
 [^94]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^95]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^96]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^97]: Empress Myeongseong facts for kids, https://kids.kiddle.co/Empress_Myeongseong
+
 [^98]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^99]: Joseon Myeongseong - AcademiaLab, https://academia-lab.com/encyclopedia/joseon-myeongseong/
+
 [^100]: The murder of Korea's nineteenth-century Empress Myeongseong, https://review.gale.com/2022/08/16/the-murder-of-empress-myeongseong-of-korea/
+
 [^101]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^102]: Yeoheung Min - NamuWiki, https://en.namu.wiki/w/여흥 민씨
+
 [^103]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^104]: Empress Myeongseong - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Myeongseong
+
 [^105]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^106]: Tonghak Peasant Revolution - Wikipedia, https://en.wikipedia.org/wiki/Tonghak_Peasant_Revolution
+
 [^107]: Imo Incident - Wikipedia, https://en.wikipedia.org/wiki/Imo_Incident
+
 [^108]: Tragic Facts About Queen Min, https://www.factinate.com/people/facts-queen-min
+
 [^109]: How do Koreans regard Queen Myeongseong? - Quora, https://www.quora.com/How-do-Koreans-regard-Queen-Myeongseong
+
 [^110]: Queen Min | Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/queen-min
+
 [^111]: Empress Myeongseong - Wikipedia, https://en.wikipedia.org/wiki/Empress_Myeongseong
+
 [^112]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^113]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^114]: Empress Myeongseong | Detailed Pedia, https://www.detailedpedia.com/wiki-Empress_Myeongseong
+
 [^115]: Talk:Empress Myeongseong/Archive 1 - Wikipedia, https://en.m.wikipedia.org/wiki/Talk:Empress_Myeongseong/Archive_1

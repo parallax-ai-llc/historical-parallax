@@ -25,11 +25,13 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### The Shah's Iran
 
 **Mohammad Reza Pahlavi:**
+
 - Shah (king) of Iran 1941-1979
 - Restored to power 1953 via CIA-backed coup
 - Ruled as absolute monarch
 
 **Modernization:**
+
 - "White Revolution" (1963): Land reform, women's suffrage
 - Rapid industrialization
 - Secular education expansion
@@ -37,6 +39,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 - Close alliance with United States
 
 **The dark side:**
+
 - SAVAK (secret police): Torture, repression
 - Political parties banned (except ruling party)
 - Corruption in royal court
@@ -47,13 +50,15 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Opposition Emerges
 
 **Religious opposition:**
+
 - **Ayatollah Ruhollah Khomeini:** Cleric who denounced Shah
 - 1963: Arrested for criticizing reforms
 - 1964: Exiled to Iraq, then Paris
 - Continued issuing statements against Shah
-- Developed theory of *velayat-e faqih* (guardianship of the jurist)
+- Developed theory of _velayat-e faqih_ (guardianship of the jurist)
 
 **Secular opposition:**
+
 - National Front (liberal nationalists)
 - Tudeh Party (communists)
 - Various leftist guerrilla groups
@@ -64,22 +69,26 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Growing Crisis (1977-1978)
 
 **1977:**
+
 - Carter administration raised human rights concerns
 - Shah slightly loosened repression
 - Opposition gained space
 
 **January 1978:**
+
 - Government-inspired article attacked Khomeini
 - Protests in Qom; deaths
 - Began cycle: Mourning for dead → new protests → new deaths → new mourning
 
 **Throughout 1978:**
+
 - Protests grew larger
 - Strikes spread
 - Oil workers joined (crippling economy)
 - Army's loyalty wavered
 
 **Black Friday (September 8, 1978):**
+
 - Martial law declared
 - Soldiers fired on protesters in Tehran
 - Hundreds killed
@@ -92,16 +101,19 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Late 1978: The Shah Weakens
 
 **Economic collapse:**
+
 - Oil production nearly stopped (strikes)
 - Economy paralyzed
 - Soldiers refusing orders
 
 **Mass demonstrations:**
+
 - Millions in the streets
 - "Death to the Shah"
 - Khomeini's face everywhere
 
 **December 1978:**
+
 - Month of Muharram (Shi'a mourning)
 - Religious symbolism merged with revolution
 - Ashura processions became political demonstrations
@@ -112,11 +124,13 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### January 1979: The Shah Leaves
 
 **January 13:**
+
 - Regency Council appointed
 - **Shapour Bakhtiar** named Prime Minister
 - Attempt to save monarchy without Shah
 
 **January 16, 1979:**
+
 - **Shah left Iran** (officially for "vacation")
 - Never returned
 - Celebrations across Iran
@@ -126,6 +140,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### February 1979: Khomeini Returns
 
 **February 1, 1979:**
+
 - **Khomeini flew from Paris to Tehran**
 - Millions greeted him
 - Greatest homecoming in history
@@ -133,17 +148,20 @@ What emerged was something new: the world's first modern theocracy, a state gove
 **The question:** Who had power now?
 
 **February 1-11:**
+
 - Dual power: Bakhtiar government vs. Khomeini's Revolutionary Council
 - Military uncertain
 - Armed clashes began
 
 **February 9-11:**
+
 - Air Force cadets defected to revolution
 - Armed leftist guerrillas joined fighting
 - Military bases attacked
 - Bakhtiar fled
 
 **February 11, 1979:**
+
 - Military declared "neutrality"
 - **Monarchy collapsed**
 - Khomeini's forces in control
@@ -157,17 +175,20 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Referendum
 
 **March 30-31, 1979:**
+
 - Referendum: "Islamic Republic—Yes or No?"
 - **98.2% voted Yes** (government claim)
 - Many boycotted or had reservations about Khomeini
 - But opposition was fragmented
 
 **April 1, 1979:**
+
 - **Islamic Republic of Iran** declared
 
 ### The Constitution
 
 **December 1979:**
+
 - New constitution approved
 - **Velayat-e faqih:** Supreme Leader holds ultimate authority
 - Khomeini became Supreme Leader
@@ -178,6 +199,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Consolidating Power
 
 **Eliminating rivals (1979-1981):**
+
 - Liberals (Bazargan resigned)
 - Leftists (Tudeh, guerrilla groups crushed)
 - Moderate Islamists (Bani-Sadr impeached, fled)
@@ -192,11 +214,13 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### November 4, 1979
 
 **Students stormed the US Embassy in Tehran:**
+
 - Held 52 American diplomats hostage
 - Demanded Shah's return for trial
 - (Shah was in US for cancer treatment)
 
 **The crisis:**
+
 - 444 days
 - Failed rescue attempt (April 1980)
 - Humiliated Carter administration
@@ -204,6 +228,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 - Released January 20, 1981 (Reagan's inauguration day)
 
 **Impact:**
+
 - Defined US-Iran hostility
 - Made Iran international pariah
 - Radicalized the revolution[^11]
@@ -214,14 +239,15 @@ What emerged was something new: the world's first modern theocracy, a state gove
 
 **Revolutionary period (1978-1979):**
 
-| Category | Estimate |
-|----------|----------|
-| Killed in protests | 2,000-3,000 |
-| Black Friday alone | 64-500+ (disputed) |
-| February 1979 fighting | Hundreds |
-| **Total revolution deaths** | **~3,000** |
+| Category                    | Estimate           |
+| --------------------------- | ------------------ |
+| Killed in protests          | 2,000-3,000        |
+| Black Friday alone          | 64-500+ (disputed) |
+| February 1979 fighting      | Hundreds           |
+| **Total revolution deaths** | **~3,000**         |
 
 **Post-revolutionary violence (1979-1988):**
+
 - Executions: 8,000+ (up to 1988 prison massacre)
 - Iran-Iraq War (1980-1988): 500,000+ Iranians killed
 - Ethnic conflicts: Thousands
@@ -234,21 +260,21 @@ What emerged was something new: the world's first modern theocracy, a state gove
 
 ### Revolutionary Leadership
 
-| Name | Role |
-|------|------|
-| Ayatollah Ruhollah Khomeini | Supreme Leader; guided revolution from exile |
-| Mehdi Bazargan | First prime minister (moderate; resigned) |
-| Abolhassan Bani-Sadr | First elected president; later impeached, fled |
-| Ali Khamenei | Later president; became Supreme Leader 1989 |
-| Akbar Hashemi Rafsanjani | Key figure; speaker, president |
+| Name                        | Role                                           |
+| --------------------------- | ---------------------------------------------- |
+| Ayatollah Ruhollah Khomeini | Supreme Leader; guided revolution from exile   |
+| Mehdi Bazargan              | First prime minister (moderate; resigned)      |
+| Abolhassan Bani-Sadr        | First elected president; later impeached, fled |
+| Ali Khamenei                | Later president; became Supreme Leader 1989    |
+| Akbar Hashemi Rafsanjani    | Key figure; speaker, president                 |
 
 ### The Old Regime
 
-| Name | Role |
-|------|------|
+| Name                       | Role                                            |
+| -------------------------- | ----------------------------------------------- |
 | Mohammad Reza Shah Pahlavi | Shah; fled January 16, 1979; died in exile 1980 |
-| Shapour Bakhtiar | Last PM; fled; assassinated in Paris 1991 |
-| SAVAK | Secret police; dismantled |
+| Shapour Bakhtiar           | Last PM; fled; assassinated in Paris 1991       |
+| SAVAK                      | Secret police; dismantled                       |
 
 ---
 
@@ -257,12 +283,14 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Why Did the Revolution Happen?
 
 **Structural causes:**
+
 - Rapid modernization alienated traditional classes
 - Authoritarianism created unified opposition
 - Oil wealth created expectations but also inequality
 - SAVAK repression delegitimized regime
 
 **Contingent factors:**
+
 - Carter's human rights focus encouraged opposition
 - Shah's cancer weakened his decisiveness
 - Khomeini's charismatic leadership unified opposition
@@ -270,6 +298,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Why Did Islamists Win?
 
 **Khomeini's advantages:**
+
 - Network of mosques for organizing
 - Religious legitimacy
 - Clear ideology
@@ -277,6 +306,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 - Willingness to be ruthless after victory
 
 **Secular opposition:**
+
 - Divided (communists vs. liberals vs. nationalists)
 - Underestimated Islamists
 - Outmaneuvered in power struggle[^13]
@@ -284,12 +314,14 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Impact on the World
 
 **Regional:**
+
 - Inspired Islamist movements (Hezbollah, Hamas, etc.)
 - Threatened Gulf monarchies
 - Iran-Iraq War (1980-1988)
 - Permanent US-Iran hostility
 
 **Global:**
+
 - Showed secular modernization not inevitable
 - Political Islam as alternative to both capitalism and communism
 - Changed Western perception of Islam
@@ -302,6 +334,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### For Iran
 
 **What changed:**
+
 - Monarchy → theocracy
 - Western alignment → hostility to US
 - Secularizing → Islamic law
@@ -309,6 +342,7 @@ What emerged was something new: the world's first modern theocracy, a state gove
 - Free press → censorship
 
 **What remained:**
+
 - Authoritarianism (different kind)
 - Oil-based economy
 - Regional ambitions
@@ -316,12 +350,14 @@ What emerged was something new: the world's first modern theocracy, a state gove
 ### Continuing Debates
 
 **Inside Iran:**
+
 - Reformists vs. hardliners
 - 2009 Green Movement protests
 - 2019, 2022 protests (Woman, Life, Freedom)
 - Regime survives but faces challenges
 
 **Outside Iran:**
+
 - Was revolution inevitable?
 - Could outcome have been different?
 - What is the revolution's legacy?
@@ -337,38 +373,51 @@ What emerged was something new: the world's first modern theocracy, a state gove
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1963 | Khomeini arrested; later exiled |
-| 1977 | Human rights pressure; opposition grows |
-| January 1978 | Protests begin in Qom |
-| September 8, 1978 | Black Friday; martial law |
-| December 1978 | Massive Ashura demonstrations |
-| January 16, 1979 | Shah leaves Iran |
-| February 1, 1979 | Khomeini returns |
-| February 11, 1979 | Monarchy collapses |
-| April 1, 1979 | Islamic Republic declared |
-| November 4, 1979 | US Embassy seized; hostage crisis |
-| September 1980 | Iran-Iraq War begins |
-| January 20, 1981 | Hostages released |
-| 1988 | Iran-Iraq War ends |
-| June 3, 1989 | Khomeini dies |
+| Date              | Event                                   |
+| ----------------- | --------------------------------------- |
+| 1963              | Khomeini arrested; later exiled         |
+| 1977              | Human rights pressure; opposition grows |
+| January 1978      | Protests begin in Qom                   |
+| September 8, 1978 | Black Friday; martial law               |
+| December 1978     | Massive Ashura demonstrations           |
+| January 16, 1979  | Shah leaves Iran                        |
+| February 1, 1979  | Khomeini returns                        |
+| February 11, 1979 | Monarchy collapses                      |
+| April 1, 1979     | Islamic Republic declared               |
+| November 4, 1979  | US Embassy seized; hostage crisis       |
+| September 1980    | Iran-Iraq War begins                    |
+| January 20, 1981  | Hostages released                       |
+| 1988              | Iran-Iraq War ends                      |
+| June 3, 1989      | Khomeini dies                           |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Iranian Revolution](https://en.wikipedia.org/wiki/Iranian_Revolution)
+
 [^2]: [Britannica - Mohammad Reza Shah](https://www.britannica.com/biography/Mohammad-Reza-Shah-Pahlavi)
+
 [^3]: [History.com - Iranian Revolution](https://www.history.com/topics/middle-east/iranian-revolution)
+
 [^4]: [Wikipedia - White Revolution](https://en.wikipedia.org/wiki/White_Revolution)
+
 [^5]: [Wikipedia - Ruhollah Khomeini](https://en.wikipedia.org/wiki/Ruhollah_Khomeini)
-[^6]: [Wikipedia - Black Friday (Iran)](https://en.wikipedia.org/wiki/Black_Friday_(1978))
+
+[^6]: [Wikipedia - Black Friday (Iran)](<https://en.wikipedia.org/wiki/Black_Friday_(1978)>)
+
 [^7]: [Stanford Iranian Studies - December 1978](https://iranian-studies.stanford.edu/iran-1978/)
+
 [^8]: [The Guardian - Shah leaves](https://www.theguardian.com/world/2019/feb/11/iran-revolution-1979-anniversary/)
+
 [^9]: [RFE/RL - Khomeini returns](https://www.rferl.org/a/iran-revolution-khomeini-return/)
+
 [^10]: [Wikipedia - Timeline of Islamic Revolution](https://en.wikipedia.org/wiki/Timeline_of_the_Iranian_Revolution)
+
 [^11]: [Wikipedia - Iran hostage crisis](https://en.wikipedia.org/wiki/Iran_hostage_crisis)
+
 [^12]: [Brookings - Revolution casualties](https://www.brookings.edu/articles/iran-revolution-1979/)
+
 [^13]: [Lumen Learning - Analysis](https://courses.lumenlearning.com/boundless-worldhistory/chapter/the-iranian-revolution/)
+
 [^14]: [Imam-Khomeini.ir - Official history](https://en.imam-khomeini.ir/en/c5_3420/)

@@ -156,24 +156,24 @@ Some observers criticize Boric's leadership style as insufficiently pragmatic an
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1986 | Born February 11 in Punta Arenas, Chile |
-| 1999-2000 | Leads re-founding of Punta Arenas Secondary School Students' Federation |
-| 2004 | Moves to Santiago to attend law school at University of Chile |
-| 2008 | Elected Counsellor of University of Chile's Student Federation (FECH) |
-| 2009 | Becomes Chair of Center of Law Students (CED); completes law coursework |
-| 2010-2011 | Serves as University Senator |
-| 2011 | Elected President of FECH; leads major student protests for education reform |
-| 2013 | Elected to Chamber of Deputies as independent candidate for Magallanes |
-| 2017 | Re-elected to Chamber of Deputies; helps found Broad Front coalition |
-| 2018 | Co-founds Social Convergence party; hospitalized for OCD, takes congressional leave |
-| 2019 | Serves in Congress during October social uprising |
-| 2021 | Wins Apruebo Dignidad presidential primary (July); wins presidency in runoff election (December 19) |
-| 2022 | Inaugurated as President of Chile (March 11); voters reject proposed constitution (September) |
-| 2023 | Announces end of relationship with Irina Karamanos (November); voters reject second constitutional draft (December) |
-| 2024 | Relationship with Paula Carrasco made public (September); GDP grows 2.6% |
-| 2025 | Daughter Violeta born (June 25); approval rating falls to 27% (May); right-wing candidate wins presidential election |
+| Year      | Event                                                                                                                |
+| --------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1986      | Born February 11 in Punta Arenas, Chile                                                                              |
+| 1999-2000 | Leads re-founding of Punta Arenas Secondary School Students' Federation                                              |
+| 2004      | Moves to Santiago to attend law school at University of Chile                                                        |
+| 2008      | Elected Counsellor of University of Chile's Student Federation (FECH)                                                |
+| 2009      | Becomes Chair of Center of Law Students (CED); completes law coursework                                              |
+| 2010-2011 | Serves as University Senator                                                                                         |
+| 2011      | Elected President of FECH; leads major student protests for education reform                                         |
+| 2013      | Elected to Chamber of Deputies as independent candidate for Magallanes                                               |
+| 2017      | Re-elected to Chamber of Deputies; helps found Broad Front coalition                                                 |
+| 2018      | Co-founds Social Convergence party; hospitalized for OCD, takes congressional leave                                  |
+| 2019      | Serves in Congress during October social uprising                                                                    |
+| 2021      | Wins Apruebo Dignidad presidential primary (July); wins presidency in runoff election (December 19)                  |
+| 2022      | Inaugurated as President of Chile (March 11); voters reject proposed constitution (September)                        |
+| 2023      | Announces end of relationship with Irina Karamanos (November); voters reject second constitutional draft (December)  |
+| 2024      | Relationship with Paula Carrasco made public (September); GDP grows 2.6%                                             |
+| 2025      | Daughter Violeta born (June 25); approval rating falls to 27% (May); right-wing candidate wins presidential election |
 
 ---
 
@@ -198,112 +198,221 @@ Some observers criticize Boric's leadership style as insufficiently pragmatic an
 ## References
 
 [^1]: Britannica. "[Gabriel Boric | president of Chile](https://www.britannica.com/biography/Gabriel-Boric)."
+
 [^2]: Lowy Institute. "[The first millennial left-wing president, Chile's Gabriel Boric](https://www.lowyinstitute.org/the-interpreter/first-millennial-left-wing-president-chile-s-gabriel-boric)."
+
 [^3]: NPR. "[Chilean President Gabriel Boric faces his biggest political challenge yet](https://www.npr.org/2022/09/02/1120798771/chilean-president-gabriel-boric-faces-his-biggest-political-challenge-yet)."
+
 [^4]: Americas Quarterly. "[One Year On: Which Boric Presides Over Chile?](https://www.americasquarterly.org/article/one-year-on-which-boric-presides-over-chile/)"
+
 [^5]: Americas Quarterly. "[Gabriel Boric and the New Left's Old Problem](https://americasquarterly.org/article/the-new-lefts-old-problem/)."
+
 [^6]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^7]: Balkan Insight. "[Chilean Politician of Croatian Origin Runs for Presidency](https://balkaninsight.com/2021/11/05/chilean-politician-of-croatian-origin-runs-for-presidency/)."
+
 [^8]: Biographs. "[Gabriel Boric biography. 38th President of the Republic of Chile since March 11, 2022](https://biographs.org/gabriel-boric)."
+
 [^9]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^10]: LatestCelebArticles. "[Gabriel Boric Biography: Youngest President of Chile](https://latestcelebarticles.com/gabriel-boric/)."
+
 [^11]: CelebsAgeWiki. "[Gabriel Boric Biography, Age, Height, Wife, Net Worth, Family](https://www.celebsagewiki.com/gabriel-boric)."
+
 [^12]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^13]: Government of Chile. "[Presidency: Gabriel Boric](https://www.gob.cl/en/institutions/presidency/)."
+
 [^14]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^15]: Biographs. "[Gabriel Boric biography](https://biographs.org/gabriel-boric)."
+
 [^16]: Columbia World Leaders Forum. "[Gabriel Boric Font](https://worldleaders.columbia.edu/directory/gabriel-boric-font)."
+
 [^17]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^18]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^19]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^20]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^21]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^22]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^23]: CNN. "[From student protester to leftist hero: Meet the shaggy-haired millennial vying for Chile's presidency](https://www.cnn.com/2021/12/17/americas/chile-election-boric-profie-latam-intl-cmd/index.html)."
+
 [^24]: TIME. "[Meet Gabriel Boric, a Millennial Running to Lead Chile](https://time.com/6121561/gabriel-boric-chile-election/)."
+
 [^25]: Government of Chile. "[Presidency: Gabriel Boric](https://www.gob.cl/en/institutions/presidency/)."
+
 [^26]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^27]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^28]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^29]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^30]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^31]: TIME. "[Meet Gabriel Boric, a Millennial Running to Lead Chile](https://time.com/6121561/gabriel-boric-chile-election/)."
+
 [^32]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^33]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^34]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^35]: Britannica. "[Gabriel Boric | president of Chile](https://www.britannica.com/biography/Gabriel-Boric)."
+
 [^36]: TIME. "[Gabriel Boric on Leading Chile and Updating Its Constitution](https://time.com/6209552/gabriel-boric-chile-constitution-interview/)."
+
 [^37]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^38]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^39]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^40]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^41]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^42]: Compact Magazine. "[Why the Chilean Left Failed](https://www.compactmag.com/article/why-the-chilean-left-failed/)."
+
 [^43]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^44]: UPI. "[Chile's president pushes constitutional reform for more border control](https://www.upi.com/Top_News/World-News/2025/10/31/chile-constitutional-reform-border-security/5601761933416/)."
+
 [^45]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^46]: Bloomberg. "[Chile President Gabriel Boric Speech Gets Applause at UN General Assembly](https://www.bloomberg.com/news/articles/2022-09-20/at-36-world-s-youngest-leader-boric-electrifies-un-assembly)."
+
 [^47]: Anadolu Agency. "[Chilean president urges global solidarity, social justice in UN address](https://www.aa.com.tr/en/world/chilean-president-urges-global-solidarity-social-justice-in-un-address/2690181)."
+
 [^48]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^49]: APEC. "[14 Quotes from President Gabriel Boric of Chile at the APEC CEO Summit](https://www.apec.org/press/features/2023/14-quotes-from-president-gabriel-boric-of-chile-at-the-apec-ceo-summit)."
+
 [^50]: APEC. "[14 Quotes from President Gabriel Boric of Chile at the APEC CEO Summit](https://www.apec.org/press/features/2023/14-quotes-from-president-gabriel-boric-of-chile-at-the-apec-ceo-summit)."
+
 [^51]: Columbia Global Centers. "[President Boric Reinforces Democratic Values and Addresses Regional Challenges](https://globalcenters.columbia.edu/news/president-boric-reinforces-democratic-values-and-addresses-regional-challenges-second-world)."
+
 [^52]: NPR. "[Chilean President Gabriel Boric faces his biggest political challenge yet](https://www.npr.org/2022/09/02/1120798771/chilean-president-gabriel-boric-faces-his-biggest-political-challenge-yet)."
+
 [^53]: Compact Magazine. "[Why the Chilean Left Failed](https://www.compactmag.com/article/why-the-chilean-left-failed/)."
+
 [^54]: Wikipedia. "[2025 Chilean general election](https://en.wikipedia.org/wiki/2025_Chilean_general_election)."
+
 [^55]: Compact Magazine. "[Why the Chilean Left Failed](https://www.compactmag.com/article/why-the-chilean-left-failed/)."
+
 [^56]: Compact Magazine. "[Why the Chilean Left Failed](https://www.compactmag.com/article/why-the-chilean-left-failed/)."
+
 [^57]: Government of Chile. "[President Boric gives his first State of the Nation address](https://www.gob.cl/en/news/president-boric-gives-his-first-state-nation-address-strong-social-focus/)."
+
 [^58]: Compact Magazine. "[Why the Chilean Left Failed](https://www.compactmag.com/article/why-the-chilean-left-failed/)."
+
 [^59]: Compact Magazine. "[Why the Chilean Left Failed](https://www.compactmag.com/article/why-the-chilean-left-failed/)."
+
 [^60]: UPI. "[Chile's president pushes constitutional reform for more border control](https://www.upi.com/Top_News/World-News/2025/10/31/chile-constitutional-reform-border-security/5601761933416/)."
+
 [^61]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^62]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^63]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^64]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^65]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^66]: Bloomberg. "[Chile President Gabriel Boric Is in Big Trouble](https://www.bloomberg.com/news/articles/2022-04-26/just-six-weeks-in-chile-s-leftist-leader-is-in-big-trouble)."
+
 [^67]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^68]: openDemocracy. "['We were a flash in the pan': The end of Gabriel Boric's government in Chile](https://www.opendemocracy.net/en/chile-gabriel-boric-left-jeannette-jara-neoliberalism-elections/)."
+
 [^69]: openDemocracy. "['We were a flash in the pan': The end of Gabriel Boric's government in Chile](https://www.opendemocracy.net/en/chile-gabriel-boric-left-jeannette-jara-neoliberalism-elections/)."
+
 [^70]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^71]: CelebsAgeWiki. "[Gabriel Boric Biography, Age, Height, Wife, Net Worth, Family](https://www.celebsagewiki.com/gabriel-boric)."
+
 [^72]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^73]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^74]: Wikipedia. "[Irina Karamanos](https://en.wikipedia.org/wiki/Irina_Karamanos)."
+
 [^75]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^76]: MercoPress. "[Chilean president becomes first-time father](https://en.mercopress.com/2025/06/26/chilean-president-becomes-first-time-father)."
+
 [^77]: MercoPress. "[Chilean president becomes first-time father](https://en.mercopress.com/2025/06/26/chilean-president-becomes-first-time-father)."
+
 [^78]: MercoPress. "[Chilean president becomes first-time father](https://en.mercopress.com/2025/06/26/chilean-president-becomes-first-time-father)."
+
 [^79]: Quotes.net. "[Gabriel Boric Quotes](https://www.quotes.net/authors/Gabriel+Boric)."
+
 [^80]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^81]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^82]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^83]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^84]: Lowy Institute. "[The first millennial left-wing president, Chile's Gabriel Boric](https://www.lowyinstitute.org/the-interpreter/first-millennial-left-wing-president-chile-s-gabriel-boric)."
+
 [^85]: Bloomberg. "[Chile President Gabriel Boric Speech Gets Applause at UN General Assembly](https://www.bloomberg.com/news/articles/2022-09-20/at-36-world-s-youngest-leader-boric-electrifies-un-assembly)."
+
 [^86]: Wikipedia. "[2025 Chilean general election](https://en.wikipedia.org/wiki/2025_Chilean_general_election)."
+
 [^87]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^88]: RUSI. "[Will Boricnomics Deliver on its Promises?](https://www.rusi.org/explore-our-research/publications/commentary/will-boricnomics-deliver-its-promises)"
+
 [^89]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^90]: Columbia Global Centers. "[President Boric Reinforces Democratic Values and Addresses Regional Challenges](https://globalcenters.columbia.edu/news/president-boric-reinforces-democratic-values-and-addresses-regional-challenges-second-world)."
+
 [^91]: Tribune Magazine. "[Gabriel Boric: 'Democracy Is Built by All of Us Together'](https://tribunemag.co.uk/2022/03/gabriel-boric-inauguration-speech-chile-latin-america)."
+
 [^92]: TIME. "[Gabriel Boric's Interview: Read the Full Transcript](https://time.com/6209557/gabriel-boric-transcript/)."
+
 [^93]: Columbia Global Centers. "[President Boric Reinforces Democratic Values and Addresses Regional Challenges](https://globalcenters.columbia.edu/news/president-boric-reinforces-democratic-values-and-addresses-regional-challenges-second-world)."
+
 [^94]: openDemocracy. "['We were a flash in the pan': The end of Gabriel Boric's government in Chile](https://www.opendemocracy.net/en/chile-gabriel-boric-left-jeannette-jara-neoliberalism-elections/)."
+
 [^95]: World Socialist Web Site. "[President Gabriel Boric and the rightward shift of the Chilean pseudo-left](https://www.wsws.org/en/articles/2025/07/15/qbne-j15.html)."
+
 [^96]: The National Interest. "[Chile's Boric Struggles With Security Concerns](https://nationalinterest.org/feature/chile%E2%80%99s-boric-struggles-security-concerns-202819)."
+
 [^97]: Compact Magazine. "[Why the Chilean Left Failed](https://www.compactmag.com/article/why-the-chilean-left-failed/)."
+
 [^98]: The National Interest. "[Chile's Boric Struggles With Security Concerns](https://nationalinterest.org/feature/chile%E2%80%99s-boric-struggles-security-concerns-202819)."
+
 [^99]: UPI. "[Chile's president pushes constitutional reform for more border control](https://www.upi.com/Top_News/World-News/2025/10/31/chile-constitutional-reform-border-security/5601761933416/)."
+
 [^100]: Americas Quarterly. "[Gabriel Boric's Unlikely Legacy](https://www.americasquarterly.org/article/gabriel-borics-unlikely-legacy/)."
+
 [^101]: Latin America Reports. "['Para vivir mejor': Has Chile's Gabriel Boric delivered?](https://www.latinamericareports.com/para-vivir-mejor-has-chiles-gabriel-boric-delivered/12339/)"
+
 [^102]: openDemocracy. "['We were a flash in the pan': The end of Gabriel Boric's government in Chile](https://www.opendemocracy.net/en/chile-gabriel-boric-left-jeannette-jara-neoliberalism-elections/)."
+
 [^103]: Fitch Solutions. "[Chile's Gabriel Boric Will Remain Unpopular Despite Some Win](https://www.fitchsolutions.com/bmi/country-risk/chiles-gabriel-boric-will-remain-unpopular-despite-some-wins-19-03-2024)."
+
 [^104]: Wikipedia. "[Gabriel Boric](https://en.wikipedia.org/wiki/Gabriel_Boric)."
+
 [^105]: Tribune Magazine. "[Gabriel Boric: 'Democracy Is Built by All of Us Together'](https://tribunemag.co.uk/2022/03/gabriel-boric-inauguration-speech-chile-latin-america)."
+
 [^106]: Tribune Magazine. "[Gabriel Boric: 'Democracy Is Built by All of Us Together'](https://tribunemag.co.uk/2022/03/gabriel-boric-inauguration-speech-chile-latin-america)."
+
 [^107]: Anadolu Agency. "[Chilean president urges global solidarity, social justice in UN address](https://www.aa.com.tr/en/world/chilean-president-urges-global-solidarity-social-justice-in-un-address/2690181)."
+
 [^108]: APEC. "[14 Quotes from President Gabriel Boric of Chile at the APEC CEO Summit](https://www.apec.org/press/features/2023/14-quotes-from-president-gabriel-boric-of-chile-at-the-apec-ceo-summit)."
+
 [^109]: Columbia Global Centers. "[President Boric Reinforces Democratic Values and Addresses Regional Challenges](https://globalcenters.columbia.edu/news/president-boric-reinforces-democratic-values-and-addresses-regional-challenges-second-world)."
+
 [^110]: Quotes.net. "[Gabriel Boric Quotes](https://www.quotes.net/authors/Gabriel+Boric)."

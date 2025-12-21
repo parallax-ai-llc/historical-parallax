@@ -153,26 +153,26 @@ Modern Assyriologists note troubling aspects of Ashurbanipal's personality revea
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 685 BCE | Birth of Ashurbanipal to King Esarhaddon |
-| c. 672 BCE | Designated crown prince after death of elder brother |
-| 669 BCE | Ascends throne following Esarhaddon's death |
-| 667 BCE | First Egyptian campaign forces Taharqa's withdrawal |
-| 664 BCE | Second Egyptian campaign; Memphis captured |
-| 663 BCE | Sack of Thebes; Assyrian control secured over Egypt |
-| 655 BCE | Elam begins interference in Babylonian affairs |
-| 652 BCE | Beginning of civil war with brother Shamash-shum-ukin |
-| 652-648 BCE | First Arabian campaign against rebel tribes |
-| 648 BCE | Babylon falls after siege; Shamash-shum-ukin dies |
-| 648-647 BCE | Massive campaign destroys Elam; Susa sacked |
-| c. 647-646 BCE | Conception of universal library project at Nineveh |
-| 644-642 BCE | Second Arabian campaign deep into desert regions |
-| 639 BCE | Final campaigns against remaining Elamite resistance |
-| 631 BCE | Last attestation of Ashurbanipal's reign; probable death |
-| 631-627 BCE | Son Ashur-etil-ilani rules amid succession disputes |
-| 627-612 BCE | Son Sin-shar-ishkun struggles against Babylonian and Median attacks |
-| 612 BCE | Fall of Nineveh; Assyrian Empire collapses; library destroyed and preserved |
+| Year           | Event                                                                       |
+| -------------- | --------------------------------------------------------------------------- |
+| c. 685 BCE     | Birth of Ashurbanipal to King Esarhaddon                                    |
+| c. 672 BCE     | Designated crown prince after death of elder brother                        |
+| 669 BCE        | Ascends throne following Esarhaddon's death                                 |
+| 667 BCE        | First Egyptian campaign forces Taharqa's withdrawal                         |
+| 664 BCE        | Second Egyptian campaign; Memphis captured                                  |
+| 663 BCE        | Sack of Thebes; Assyrian control secured over Egypt                         |
+| 655 BCE        | Elam begins interference in Babylonian affairs                              |
+| 652 BCE        | Beginning of civil war with brother Shamash-shum-ukin                       |
+| 652-648 BCE    | First Arabian campaign against rebel tribes                                 |
+| 648 BCE        | Babylon falls after siege; Shamash-shum-ukin dies                           |
+| 648-647 BCE    | Massive campaign destroys Elam; Susa sacked                                 |
+| c. 647-646 BCE | Conception of universal library project at Nineveh                          |
+| 644-642 BCE    | Second Arabian campaign deep into desert regions                            |
+| 639 BCE        | Final campaigns against remaining Elamite resistance                        |
+| 631 BCE        | Last attestation of Ashurbanipal's reign; probable death                    |
+| 631-627 BCE    | Son Ashur-etil-ilani rules amid succession disputes                         |
+| 627-612 BCE    | Son Sin-shar-ishkun struggles against Babylonian and Median attacks         |
+| 612 BCE        | Fall of Nineveh; Assyrian Empire collapses; library destroyed and preserved |
 
 ---
 
@@ -203,155 +203,307 @@ Context: Instructions to officials throughout the empire for collecting texts, r
 ## References
 
 [^1]: Britannica, "Ashurbanipal | History, Library, Empire, & Achievements," https://www.britannica.com/biography/Ashurbanipal
+
 [^2]: British Museum, "Who was Ashurbanipal?," https://www.britishmuseum.org/blog/who-was-ashurbanipal
+
 [^3]: World History Encyclopedia, "Ashurbanipal," https://www.worldhistory.org/Ashurbanipal/
+
 [^4]: World History Edu, "Meet Ashurbanipal, the Last Great King of Assyria," https://worldhistoryedu.com/ashurbanipal-the-last-great-king-of-assyria/
+
 [^5]: Wikipedia, "Ashurbanipal," https://en.wikipedia.org/wiki/Ashurbanipal
+
 [^6]: TheCollector, "Ashurbanipal: King of Assyria, Hunter of Lions," https://www.thecollector.com/ashurbanipal-king-of-assyria-hunter-of-lions/
+
 [^7]: Britannica, "Life and the reign of Ashurbanipal and his accomplishments," https://www.britannica.com/summary/Ashurbanipal
+
 [^8]: EBSCO Research, "Ashurbanipal | Research Starters," https://www.ebsco.com/research-starters/history/ashurbanipal
+
 [^9]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts," https://www.mesopotamiangods.com/ashurbanipal-quotes-from-texts-sitchin-books-etc/
+
 [^10]: Facts and Details, "Ashurbanipal: Life, Achievements, Library," https://africame.factsanddetails.com/article/entry-959.html
+
 [^11]: Christian Publishing House Blog, "Ashurbanipal: The Scholar King of Assyria," https://christianpublishinghouse.co/2024/02/07/ashurbanipal-the-scholar-king-of-assyria/
+
 [^12]: Britannica, "Ashurbanipal - Assyrian King, Scholar, Warrior," https://www.britannica.com/biography/Ashurbanipal/Personality-and-significance
+
 [^13]: National Geographic, "Why this ancient 'King of the World' was so proud of his library," https://www.nationalgeographic.com/history/history-magazine/article/why-this-ancient-king-of-the-world-was-so-proud-of-his-library
+
 [^14]: Wikipedia, "Ashurbanipal"
+
 [^15]: World History Encyclopedia, "Ashurbanipal"
+
 [^16]: Britannica, "Ashurbanipal"
+
 [^17]: Wikipedia, "Ashurbanipal"
+
 [^18]: World History Edu, "Meet Ashurbanipal, the Last Great King of Assyria"
+
 [^19]: Britannica, "Ashurbanipal"
+
 [^20]: World History Encyclopedia, "Ashurbanipal"
+
 [^21]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^22]: Britannica, "Ashurbanipal"
+
 [^23]: World History Encyclopedia, "Ashurbanipal"
+
 [^24]: Medium, "Ashurbanipal: The Scholar-King Who Built the First Great Library," https://medium.com/time-chronicles/ashurbanipal-the-scholar-king-who-built-the-first-great-library-77752647d40f
+
 [^25]: Wikipedia, "Ashurbanipal"
+
 [^26]: World History Encyclopedia, "Ashurbanipal"
+
 [^27]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^28]: Britannica, "Ashurbanipal"
+
 [^29]: TheCollector, "Ashurbanipal: King of Assyria, Hunter of Lions"
+
 [^30]: World History Encyclopedia, "Library of Ashurbanipal," https://www.worldhistory.org/Library_of_Ashurbanipal/
+
 [^31]: Medium, "Ashurbanipal: The Scholar-King Who Built the First Great Library"
+
 [^32]: National Geographic, "Why this ancient 'King of the World' was so proud of his library"
+
 [^33]: Brewminate, "The Library of Ashurbanipal in the Ancient Neo-Assyrian Empire," https://brewminate.com/the-library-of-ashurbanipal-in-the-ancient-neo-assyrian-empire/
+
 [^34]: World History Encyclopedia, "Library of Ashurbanipal"
+
 [^35]: Wikipedia, "Library of Ashurbanipal," https://en.wikipedia.org/wiki/Library_of_Ashurbanipal
+
 [^36]: National Geographic, "Why this ancient 'King of the World' was so proud of his library"
+
 [^37]: Timeless Myths, "Royal Library of Ashurbanipal: Assyria's Great Center of Learning," https://timelessmyths.com/stories/royal-library-of-ashurbanipal
+
 [^38]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^39]: The Archaeologist, "Knowledge as Power: Ashurbanipal's World's First Library," https://www.thearchaeologist.org/blog/knowledge-as-power-king-ashurbanipal-formed-the-worlds-earliest-systematically-collected-library
+
 [^40]: Medium, "Ashurbanipal: The Scholar-King Who Built the First Great Library"
+
 [^41]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^42]: World History Encyclopedia, "Library of Ashurbanipal"
+
 [^43]: Artnet News, "How the World's Oldest Library Survived an Empire's Fall," https://news.artnet.com/art-world/huge-library-of-ashurbanipal-2709162
+
 [^44]: British Museum, "Who was Ashurbanipal?"
+
 [^45]: World History Encyclopedia, "Ashurbanipal"
+
 [^46]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^47]: Wikipedia, "Ashurbanipal"
+
 [^48]: World History Encyclopedia, "Ashurbanipal"
+
 [^49]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^50]: Wikipedia, "Ashurbanipal"
+
 [^51]: World History Encyclopedia, "Ashurbanipal"
+
 [^52]: Medium, "Ashurbanipal: The Scholar-King Who Built the First Great Library"
+
 [^53]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^54]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^55]: Wikipedia, "Ashurbanipal"
+
 [^56]: World History Encyclopedia, "Ashurbanipal"
+
 [^57]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^58]: Wikipedia, "Ashurbanipal"
+
 [^59]: World History Encyclopedia, "Ashurbanipal"
+
 [^60]: Britannica, "Ashurbanipal"
+
 [^61]: TheCollector, "Ashurbanipal: King of Assyria, Hunter of Lions"
+
 [^62]: British Museum, "Who was Ashurbanipal?"
+
 [^63]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^64]: TheCollector, "Ashurbanipal: King of Assyria, Hunter of Lions"
+
 [^65]: Wikipedia, "Ashurbanipal"
+
 [^66]: World History Encyclopedia, "Ashurbanipal"
+
 [^67]: Wikipedia, "Ashurbanipal"
+
 [^68]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^69]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^70]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^71]: Wikipedia, "Military history of the Neo-Assyrian Empire," https://en.wikipedia.org/wiki/Military_history_of_the_Neo-Assyrian_Empire
+
 [^72]: Medium, "UNVEILING THE DARK LEGACY: THE REIGN OF ASHURBANIPAL, THE CRUELEST ASSYRIAN KING," https://medium.com/@kwotboksundayhenry11/unveiling-the-dark-legacy-the-reign-of-ashurbanipal-the-cruelest-assyrian-king-2f497125f8a3
+
 [^73]: Wikipedia, "Ashurbanipal"
+
 [^74]: Medium, "The Assyrians — The Appalling Lords of Torture," https://medium.com/lessons-from-history/assyrians-torture-60fabb7a9642
+
 [^75]: World History Encyclopedia, "Ashurbanipal"
+
 [^76]: Wikipedia, "Ashurbanipal"
+
 [^77]: World History Encyclopedia, "Ashurbanipal"
+
 [^78]: Wikipedia, "Ashurbanipal"
+
 [^79]: World History Encyclopedia, "Ashurbanipal"
+
 [^80]: Wikipedia, "Ashurbanipal"
+
 [^81]: World History Encyclopedia, "Ashurbanipal"
+
 [^82]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^83]: World History Edu, "Meet Ashurbanipal, the Last Great King of Assyria"
+
 [^84]: Wikipedia, "Ashurbanipal"
+
 [^85]: Wikipedia, "Ashurbanipal"
+
 [^86]: Wikipedia, "Ashurbanipal"
+
 [^87]: TheFamousPeople, "Ashurbanipal Biography - Facts, Childhood, Family Life, Achievements," https://www.thefamouspeople.com/profiles/ashurbanipal-38999.php
+
 [^88]: Wikipedia, "Ashurbanipal"
+
 [^89]: Wikipedia, "Ashurbanipal"
+
 [^90]: Wikipedia, "Ashurbanipal"
+
 [^91]: Wikipedia, "Ashurbanipal"
+
 [^92]: Britannica, "Ashurbanipal - Assyrian King, Scholar, Warrior"
+
 [^93]: World History Encyclopedia, "Ashurbanipal"
+
 [^94]: Medium, "UNVEILING THE DARK LEGACY"
+
 [^95]: Wikipedia, "Ashurbanipal"
+
 [^96]: TheCollector, "Ashurbanipal: King of Assyria, Hunter of Lions"
+
 [^97]: New World Encyclopedia, "Ashurbanipal," https://www.newworldencyclopedia.org/entry/Ashurbanipal
+
 [^98]: Wikipedia, "Ashurbanipal"
+
 [^99]: World History Encyclopedia, "Ashurbanipal"
+
 [^100]: Wikipedia, "Ashurbanipal"
+
 [^101]: World History Encyclopedia, "Library of Ashurbanipal"
+
 [^102]: British Museum, "Who was Ashurbanipal?"
+
 [^103]: Artnet News, "How the World's Oldest Library Survived an Empire's Fall"
+
 [^104]: World History Encyclopedia, "Library of Ashurbanipal"
+
 [^105]: National Geographic, "Why this ancient 'King of the World' was so proud of his library"
+
 [^106]: EBSCO Research, "Ashurbanipal | Research Starters"
+
 [^107]: World History Encyclopedia, "Ashurbanipal"
+
 [^108]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^109]: World History Encyclopedia, "Ashurbanipal"
+
 [^110]: Britannica, "Ashurbanipal - Assyrian King, Scholar, Warrior"
+
 [^111]: World History Edu, "Meet Ashurbanipal, the Last Great King of Assyria"
+
 [^112]: Wikipedia, "Ashurbanipal"
+
 [^113]: Bible Archaeology Report, "Ashurbanipal: An Archaeological Biography," https://biblearchaeologyreport.com/2024/08/23/ashurbanipal-an-archaeological-biography/
+
 [^114]: New World Encyclopedia, "Ashurbanipal"
+
 [^115]: The Archaeologist, "Knowledge as Power: Ashurbanipal's World's First Library"
+
 [^116]: World History Encyclopedia, "Ashurbanipal"
+
 [^117]: Britannica, "Ashurbanipal"
+
 [^118]: Quora, "Were the ancient Assyrians as cruel as contemporary sources made them out to be?," https://www.quora.com/Were-the-ancient-Assyrians-as-cruel-as-contemporary-sources-made-them-out-to-be
+
 [^119]: Wikipedia, "Military history of the Neo-Assyrian Empire"
+
 [^120]: Patterns of Evidence, "The Ashurbanipal Exhibit - A Trip to the Museum," https://www.patternsofevidence.com/2020/04/24/ashurbanipal-exhibit-part1/
+
 [^121]: Christian Publishing House Blog, "Ashurbanipal: The Scholar King of Assyria"
+
 [^122]: TheCollector, "Ashurbanipal: King of Assyria, Hunter of Lions"
+
 [^123]: British Museum, "Who was Ashurbanipal?"
+
 [^124]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^125]: The Archaeologist, "Knowledge as Power: Ashurbanipal's World's First Library"
+
 [^126]: Medium, "Ashurbanipal: The Scholar-King Who Built the First Great Library"
+
 [^127]: National Geographic, "Why this ancient 'King of the World' was so proud of his library"
+
 [^128]: Britannica, "Ashurbanipal"
+
 [^129]: Christian Publishing House Blog, "Ashurbanipal: The Scholar King of Assyria"
+
 [^130]: Britannica, "Ashurbanipal - Assyrian King, Scholar, Warrior"
+
 [^131]: World History Encyclopedia, "Ashurbanipal"
+
 [^132]: Wikipedia, "Ashurbanipal"
+
 [^133]: World History Encyclopedia, "Ashurbanipal"
+
 [^134]: Wikipedia, "Ashurbanipal"
+
 [^135]: World History Encyclopedia, "Ashurbanipal"
+
 [^136]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^137]: World History Edu, "Meet Ashurbanipal, the Last Great King of Assyria"
+
 [^138]: Wikipedia, "Ashurbanipal"
+
 [^139]: World History Encyclopedia, "Ashurbanipal"
+
 [^140]: Sign of Jonah, "Wrong to say that Ashurbanipal was the least cruel of the Mesopotamian kings," https://bookofjonah2amaic.wordpress.com/2025/02/15/wrong-to-say-that-ashurbanipal-was-the-least-cruel-of-the-mesopotamian-kings/
+
 [^141]: The Archaeologist, "Knowledge as Power: Ashurbanipal's World's First Library"
+
 [^142]: Facts and Details, "Ashurbanipal: Life, Achievements, Library"
+
 [^143]: Wikipedia, "Ashurbanipal"
+
 [^144]: World History Encyclopedia, "Ashurbanipal"
+
 [^145]: World History Edu, "Meet Ashurbanipal, the Last Great King of Assyria"
+
 [^146]: Medium, "UNVEILING THE DARK LEGACY"
+
 [^147]: Britannica, "Ashurbanipal - Assyrian King, Scholar, Warrior"
+
 [^148]: TheCollector, "Ashurbanipal: King of Assyria, Hunter of Lions"
+
 [^149]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^150]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^151]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^152]: Mesopotamian Gods & Kings, "Ashurbanipal Quotes From Texts"
+
 [^153]: Brewminate, "The Library of Ashurbanipal in the Ancient Neo-Assyrian Empire"

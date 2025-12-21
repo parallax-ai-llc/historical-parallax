@@ -151,34 +151,34 @@ Some scholars suggest that Diocletian's reforms merely postponed the empire's fr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 244 | Born on December 22 in Dalmatia, near Salona |
-| 270-275 | Serves in the army under Emperor Aurelian |
-| 276-282 | Continues military service under Emperor Probus |
-| 282 | Appointed commander of Protectores domestici by Emperor Carus |
-| 284 | Emperor Carus dies mysteriously during Persian campaign |
-| 284 | Emperor Numerian found dead; Diocles executes Aper on November 20 |
-| 284 | Proclaimed Augustus, changes name to Diocletianus |
-| 285 | Defeats Carinus at Battle of the Margus in July; becomes sole emperor |
-| 285 | Appoints Maximian as Caesar |
-| 286 | Elevates Maximian to Augustus, creating dual rule |
-| 287 | Assumes the title Iovius (Jovius), linking himself to Jupiter |
-| 289 | Receives title Sarmaticus Maximus after defeating Sarmatians |
-| 293 | Appoints Galerius and Constantius Chlorus as Caesars on March 1, establishing the Tetrarchy |
-| 293 | Daughter Valeria marries Galerius |
-| 294 | Issues new silver denarius as part of monetary reform |
-| 295-296 | Campaigns successfully against Carpi in Danube region |
-| 296-297 | Galerius defeated by Persians near Carrhae |
-| 298 | Galerius achieves decisive victory over Persia at Battle of Satala |
-| 298 | Peace treaty with Persia secures favorable eastern frontier |
-| 301 | Issues Edict on Maximum Prices attempting to control inflation |
-| 303 | Orders destruction of Christian church at Nicomedia on February 23 |
-| 303 | Issues series of four edicts beginning Great Persecution of Christians |
-| 305 | Voluntarily abdicates on May 1, first Roman emperor to do so |
-| 305 | Retires to palace in Split, Dalmatia |
-| 308 | Attends Conference of Carnuntum, refuses entreaties to return to power |
-| 311 | Dies in December at his palace in Split, aged approximately 67 |
+| Year    | Event                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------- |
+| 244     | Born on December 22 in Dalmatia, near Salona                                                |
+| 270-275 | Serves in the army under Emperor Aurelian                                                   |
+| 276-282 | Continues military service under Emperor Probus                                             |
+| 282     | Appointed commander of Protectores domestici by Emperor Carus                               |
+| 284     | Emperor Carus dies mysteriously during Persian campaign                                     |
+| 284     | Emperor Numerian found dead; Diocles executes Aper on November 20                           |
+| 284     | Proclaimed Augustus, changes name to Diocletianus                                           |
+| 285     | Defeats Carinus at Battle of the Margus in July; becomes sole emperor                       |
+| 285     | Appoints Maximian as Caesar                                                                 |
+| 286     | Elevates Maximian to Augustus, creating dual rule                                           |
+| 287     | Assumes the title Iovius (Jovius), linking himself to Jupiter                               |
+| 289     | Receives title Sarmaticus Maximus after defeating Sarmatians                                |
+| 293     | Appoints Galerius and Constantius Chlorus as Caesars on March 1, establishing the Tetrarchy |
+| 293     | Daughter Valeria marries Galerius                                                           |
+| 294     | Issues new silver denarius as part of monetary reform                                       |
+| 295-296 | Campaigns successfully against Carpi in Danube region                                       |
+| 296-297 | Galerius defeated by Persians near Carrhae                                                  |
+| 298     | Galerius achieves decisive victory over Persia at Battle of Satala                          |
+| 298     | Peace treaty with Persia secures favorable eastern frontier                                 |
+| 301     | Issues Edict on Maximum Prices attempting to control inflation                              |
+| 303     | Orders destruction of Christian church at Nicomedia on February 23                          |
+| 303     | Issues series of four edicts beginning Great Persecution of Christians                      |
+| 305     | Voluntarily abdicates on May 1, first Roman emperor to do so                                |
+| 305     | Retires to palace in Split, Dalmatia                                                        |
+| 308     | Attends Conference of Carnuntum, refuses entreaties to return to power                      |
+| 311     | Dies in December at his palace in Split, aged approximately 67                              |
 
 ---
 
@@ -197,134 +197,265 @@ The proclamation at his abdication ceremony in 305 CE, where he told the assembl
 ## References
 
 [^1]: Britannica - [Diocletian | Biography, Empire, Definition, Persecution, & Reign](https://www.britannica.com/biography/Diocletian)
+
 [^2]: World History Encyclopedia - [Diocletian](https://www.worldhistory.org/Diocletian/)
+
 [^3]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^4]: History Today - [Abdication of the Emperor Diocletian](https://www.historytoday.com/archive/abdication-emperor-diocletian)
+
 [^5]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^6]: The Famous People - [Diocletian (Diocles) Biography](https://www.thefamouspeople.com/profiles/diocletian-36882.php)
+
 [^7]: UNRV Roman History - [Diocletian - Roman Emperor](https://www.unrv.com/emperors/diocletian.php)
+
 [^8]: World History Encyclopedia - [Diocletian](https://www.worldhistory.org/Diocletian/)
+
 [^9]: Ancient History Sites - [Diocletian: Architect of Roman Imperial Reform and Stability](https://www.ancient-history-sites.com/roman/emperors/diocletian/)
+
 [^10]: World History Encyclopedia - [Diocletian](https://www.worldhistory.org/Diocletian/)
+
 [^11]: Roman Emperors DIR - [Diocletian](https://roman-emperors.sites.luc.edu/dioclet.htm)
+
 [^12]: Rome.us - [Diocletian: The Iron-Willed Ruler Who Shaped an Empire](https://rome.us/roman-emperors/diocletian.html)
+
 [^13]: History Cooperative - [Roman Emperor Diocletian](https://historycooperative.org/gaius-aurelius-valerius-diocletianus/)
+
 [^14]: Medium - [Diocletian: The Reformer Who Split an Empire to Save It](https://kresimirprofaca.medium.com/diocletian-the-reformer-who-split-an-empire-to-save-it-9b1c8ac47d73)
+
 [^15]: World History Encyclopedia - [Diocletian](https://www.worldhistory.org/Diocletian/)
+
 [^16]: UNRV Roman History - [Diocletian - Roman Emperor](https://www.unrv.com/emperors/diocletian.php)
+
 [^17]: Roman Emperors DIR - [Diocletian](https://roman-emperors.sites.luc.edu/dioclet.htm)
+
 [^18]: Rome.us - [Emperor Diocletian](https://rome.us/roman-emperors/diocletian.html)
+
 [^19]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^20]: Roman Emperors DIR - [Diocletian](https://roman-emperors.sites.luc.edu/dioclet.htm)
+
 [^21]: UNRV Roman History - [Diocletian - Roman Emperor](https://www.unrv.com/emperors/diocletian.php)
+
 [^22]: Britannica - [Diocletian | Biography, Empire, Definition, Persecution, & Reign](https://www.britannica.com/biography/Diocletian)
+
 [^23]: Roman Empire - [Emperor Diocletian AD 240-311](https://roman-empire.net/people/diocletian)
+
 [^24]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^25]: Wikipedia - [Battle of the Margus](https://en.wikipedia.org/wiki/Battle_of_the_Margus)
+
 [^26]: Military Wiki - [Battle of the Margus](https://military-history.fandom.com/wiki/Battle_of_the_Margus)
+
 [^27]: Grokipedia - [Battle of the Margus](https://grokipedia.com/page/Battle_of_the_Margus)
+
 [^28]: Wikipedia - [Battle of the Margus](https://en.wikipedia.org/wiki/Battle_of_the_Margus)
+
 [^29]: Historum - [The Battle of the Margus, 285 CE](https://historum.com/t/the-battle-of-the-margus-285-ce.62093/)
+
 [^30]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^31]: Lumen Learning - [Diocletian and the Tetrarchy](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/diocletian-and-the-tetrarchy/)
+
 [^32]: Britannica - [Diocletian - Reorganization, Tetrarchy, Edict](https://www.britannica.com/biography/Diocletian/Reorganization-of-the-empire)
+
 [^33]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^34]: Fiveable - [The tetrarchy and reforms of Diocletian](https://fiveable.me/introduction-ancient-rome/unit-17/tetrarchy-reforms-diocletian/study-guide/2ZcEMpTJ8ekFfRa9)
+
 [^35]: Cambridge Core - [Jovius and Herculius](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/jovius-and-herculius/E58CB6C8AEFEA4FD7E970A2CD49E9461)
+
 [^36]: Britannica - [Roman religion - Imperial Epoch, Final Forms, Paganism](https://www.britannica.com/topic/Roman-religion/The-imperial-epoch-the-final-forms-of-Roman-paganism)
+
 [^37]: Study.com - [Roman Emperor Diocletian | Biography, Reforms & Palace](https://study.com/academy/lesson/emperor-diocletian-definition-palace-reforms.html)
+
 [^38]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
-[^39]: Humanities LibreTexts - [11.2: Diocletian](https://human.libretexts.org/Bookshelves/History/World_History/Western_Civilization_-_A_Concise_History_I_(Brooks)/11:_The_Late_Empire_and_Christianity/11.02:_Diocletian)
+
+[^39]: Humanities LibreTexts - [11.2: Diocletian](<https://human.libretexts.org/Bookshelves/History/World_History/Western_Civilization_-_A_Concise_History_I_(Brooks)/11:_The_Late_Empire_and_Christianity/11.02:_Diocletian>)
+
 [^40]: Ancient History Sites - [The Diocletian Reforms](https://www.ancient-history-sites.com/historical-insights/the-diocletian-reforms/)
+
 [^41]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^42]: Encyclopedia.com - [Diocletian](https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/diocletian)
+
 [^43]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^44]: Rome.us - [Diocletian: The Iron-Willed Ruler Who Shaped an Empire](https://rome.us/roman-emperors/diocletian.html)
+
 [^45]: Fiveable - [The tetrarchy and reforms of Diocletian](https://fiveable.me/introduction-ancient-rome/unit-17/tetrarchy-reforms-diocletian/study-guide/2ZcEMpTJ8ekFfRa9)
+
 [^46]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^47]: History Skills - [How Emperor Diocletian prevented Ancient Rome from imploding](https://www.historyskills.com/classroom/ancient-history/diocletian/)
-[^48]: Wikipedia - [Battle of Satala (298)](https://en.wikipedia.org/wiki/Battle_of_Satala_(298))
+
+[^48]: Wikipedia - [Battle of Satala (298)](<https://en.wikipedia.org/wiki/Battle_of_Satala_(298)>)
+
 [^49]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^50]: Britannica - [Diocletian - Reorganization, Tetrarchy, Edict](https://www.britannica.com/biography/Diocletian/Reorganization-of-the-empire)
-[^51]: Humanities LibreTexts - [11.2: Diocletian](https://human.libretexts.org/Bookshelves/History/World_History/Western_Civilization_-_A_Concise_History_I_(Brooks)/11:_The_Late_Empire_and_Christianity/11.02:_Diocletian)
+
+[^51]: Humanities LibreTexts - [11.2: Diocletian](<https://human.libretexts.org/Bookshelves/History/World_History/Western_Civilization_-_A_Concise_History_I_(Brooks)/11:_The_Late_Empire_and_Christianity/11.02:_Diocletian>)
+
 [^52]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^53]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^54]: Wikipedia - [Edict on Maximum Prices](https://en.wikipedia.org/wiki/Edict_on_Maximum_Prices)
+
 [^55]: Milica History Blog - [The Edict of Diocletian on Maximum Prices (301 CE)](https://milicahistory.com/the-edict-of-diocletian-on-maximum-prices/)
+
 [^56]: Mises Institute - [The Edict of Diocletian: A Case Study in Price Controls and Inflation](https://mises.org/faith-and-freedom/edict-diocletian-case-study-price-controls-and-inflation)
+
 [^57]: Wikipedia - [Edict on Maximum Prices](https://en.wikipedia.org/wiki/Edict_on_Maximum_Prices)
+
 [^58]: Britannica - [Diocletian - Domestic Reforms](https://www.britannica.com/biography/Diocletian/Domestic-reforms)
+
 [^59]: Citeco - [10000 years of economy - Diocletian reforms the monetary system in Rome](https://www.citeco.fr/10000-years-history-economics/antiquity-to-middle-ages/diocletian-reforms-the-monetary-system-in-rome)
+
 [^60]: Wikipedia - [Diocletianic Persecution](https://en.wikipedia.org/wiki/Diocletianic_Persecution)
+
 [^61]: History Today - [Diocletian's Great Persecution](https://www.historytoday.com/archive/months-past/diocletians-great-persecution)
+
 [^62]: EBSCO Research - [Diocletianic Persecution](https://www.ebsco.com/research-starters/religion-and-philosophy/diocletianic-persecution)
+
 [^63]: Catholic Encyclopedia - [Diocletian](https://www.newadvent.org/cathen/05007b.htm)
+
 [^64]: Encyclopedia.com - [Diocletian, Persecution of](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/diocletian-persecution)
+
 [^65]: Britannica - [What did Diocletian do to Christians?](https://www.britannica.com/question/What-did-Diocletian-do-to-Christians)
+
 [^66]: Wikipedia - [Diocletianic Persecution](https://en.wikipedia.org/wiki/Diocletianic_Persecution)
+
 [^67]: High Speed History - [The Diocletian Persecution](https://highspeedhistory.com/2024/02/23/the-diocletian-persecution/)
+
 [^68]: Christian History - [Diocletian and the Great Persecution](https://www.christian-history.org/diocletian.html)
+
 [^69]: Wikipedia - [Diocletianic Persecution](https://en.wikipedia.org/wiki/Diocletianic_Persecution)
+
 [^70]: Quora - [Is it true that Emperor Diocletian's own wife was a Christian?](https://www.quora.com/Is-it-true-that-Emperor-Diocletian-s-own-wife-was-a-Christian-If-so-how-would-it-be-like-in-his-own-family-as-the-Edict-of-Persecution-was-issued)
+
 [^71]: EBSCO Research - [Dominate in Rome](https://www.ebsco.com/research-starters/history/dominate-rome)
+
 [^72]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^73]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^74]: Ancient History Sites - [The Diocletian Reforms](https://www.ancient-history-sites.com/historical-insights/the-diocletian-reforms/)
+
 [^75]: EBSCO Research - [Dominate in Rome](https://www.ebsco.com/research-starters/history/dominate-rome)
+
 [^76]: Encyclopedia.com - [Diocletian](https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/diocletian)
+
 [^77]: Econlib - [Diocletian, the Roman Empire, and Forever Failing Price Controls](https://www.econlib.org/diocletian-the-roman-empire-and-forever-failing-price-controls/)
+
 [^78]: Mises Institute - [The Edict of Diocletian: A Case Study in Price Controls and Inflation](https://mises.org/faith-and-freedom/edict-diocletian-case-study-price-controls-and-inflation)
+
 [^79]: The Daily Economy - [We're Still Making Diocletian's Mistakes](https://thedailyeconomy.org/article/were-still-making-diocletians-mistakes/)
+
 [^80]: Mises Institute - [The Edict of Diocletian: A Case Study in Price Controls and Inflation](https://mises.org/faith-and-freedom/edict-diocletian-case-study-price-controls-and-inflation)
+
 [^81]: Ancient History Sites - [The Diocletian Reforms](https://www.ancient-history-sites.com/historical-insights/the-diocletian-reforms/)
+
 [^82]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^83]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
-[^84]: Wikipedia - [Prisca (empress)](https://en.wikipedia.org/wiki/Prisca_(empress))
+
+[^84]: Wikipedia - [Prisca (empress)](<https://en.wikipedia.org/wiki/Prisca_(empress)>)
+
 [^85]: Roman Emperors DIR - [Diocletian](https://roman-emperors.sites.luc.edu/dioclet.htm)
+
 [^86]: Wikipedia - [Galeria Valeria](https://en.wikipedia.org/wiki/Galeria_Valeria)
+
 [^87]: Quora - [Is it true that Emperor Diocletian's own wife was a Christian?](https://www.quora.com/Is-it-true-that-Emperor-Diocletian-s-own-wife-was-a-Christian-If-so-how-would-it-be-like-in-his-own-family-as-the-Edict-of-Persecution-was-issued)
+
 [^88]: Wikipedia - [Galeria Valeria](https://en.wikipedia.org/wiki/Galeria_Valeria)
+
 [^89]: Livius - [Valeria Galeria](https://www.livius.org/articles/person/valeria-galeria/)
+
 [^90]: Jay's Roman History - [Women in the Roman World: Galeria Valeria](http://jaysromanhistory.com/romeweb//ladycont/art20.htm)
+
 [^91]: History Today - [Abdication of the Emperor Diocletian](https://www.historytoday.com/archive/abdication-emperor-diocletian)
+
 [^92]: Daily Boredage - [Diocletian's Bold Retirement: Power to Peace](https://dailyboredage.com/why-the-roman-emperor-who-grew-cabbages-walked-away-from-power-and-never-looked-back/)
+
 [^93]: Medium - [Diocletian: The Reformer Who Split an Empire to Save It](https://kresimirprofaca.medium.com/diocletian-the-reformer-who-split-an-empire-to-save-it-9b1c8ac47d73)
+
 [^94]: EBSCO Research - [Diocletian](https://www.ebsco.com/research-starters/history/diocletian)
+
 [^95]: Britannica - [Byzantine Empire - Diocletian, Constantine, Reforms](https://www.britannica.com/place/Byzantine-Empire/The-reforms-of-Diocletian-and-Constantine)
+
 [^96]: Wikipedia - [Diocletian's Palace](https://en.wikipedia.org/wiki/Diocletian's_Palace)
+
 [^97]: Britannica - [Palace of Diocletian](https://www.britannica.com/topic/Palace-of-Diocletian)
+
 [^98]: Peter Sommer Travels - [Diocletian's Palace at Split in Croatia](https://www.petersommer.com/blog/archaeology-history/diocletians-palace-split-croatia)
+
 [^99]: UNESCO - [Historical Complex of Split with the Palace of Diocletian](https://whc.unesco.org/en/list/97/)
+
 [^100]: Visit Split - [Diocletian Palace](https://visitsplit.com/en/448/diocletian-palace)
+
 [^101]: UNESCO - [Historical Complex of Split with the Palace of Diocletian](https://whc.unesco.org/en/list/97/)
+
 [^102]: History Today - [Abdication of the Emperor Diocletian](https://www.historytoday.com/archive/abdication-emperor-diocletian)
+
 [^103]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^104]: World History Encyclopedia - [Diocletian](https://www.worldhistory.org/Diocletian/)
+
 [^105]: Medium - [The Emperor's Cabbage](https://medium.com/@rhysb/the-emperors-cabbage-7863c5a5ff0a)
+
 [^106]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^107]: EBSCO Research - [Diocletian](https://www.ebsco.com/research-starters/history/diocletian)
+
 [^108]: Britannica - [Diocletian - Domestic Reforms](https://www.britannica.com/biography/Diocletian/Domestic-reforms)
+
 [^109]: Lumen Learning - [Diocletian and the Tetrarchy](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/diocletian-and-the-tetrarchy/)
+
 [^110]: Britannica - [Byzantine Empire - Diocletian, Constantine, Reforms](https://www.britannica.com/place/Byzantine-Empire/The-reforms-of-Diocletian-and-Constantine)
+
 [^111]: Rome.us - [Diocletian: The Iron-Willed Ruler Who Shaped an Empire](https://rome.us/roman-emperors/diocletian.html)
+
 [^112]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
-[^113]: Wikipedia - [Battle of Satala (298)](https://en.wikipedia.org/wiki/Battle_of_Satala_(298))
+
+[^113]: Wikipedia - [Battle of Satala (298)](<https://en.wikipedia.org/wiki/Battle_of_Satala_(298)>)
+
 [^114]: Mises Institute - [The Edict of Diocletian: A Case Study in Price Controls and Inflation](https://mises.org/faith-and-freedom/edict-diocletian-case-study-price-controls-and-inflation)
+
 [^115]: Citeco - [Diocletian reforms the monetary system in Rome](https://www.citeco.fr/10000-years-history-economics/antiquity-to-middle-ages/diocletian-reforms-the-monetary-system-in-rome)
+
 [^116]: Wikipedia - [Conference of Carnuntum](https://en.wikipedia.org/wiki/Conference_of_Carnuntum)
+
 [^117]: Ancient War History - [The Collapse of the Tetrarchy](https://ancientwarhistory.com/the-collapse-of-the-tetrarchy-civil-war-and-the-fall-of-romes-four-emperor-system/)
+
 [^118]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^119]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^120]: The Daily Economy - [We're Still Making Diocletian's Mistakes](https://thedailyeconomy.org/article/were-still-making-diocletians-mistakes/)
+
 [^121]: EBSCO Research - [Dominate in Rome](https://www.ebsco.com/research-starters/history/dominate-rome)
+
 [^122]: Wikipedia - [Diocletian](https://en.wikipedia.org/wiki/Diocletian)
+
 [^123]: Ancient History Sites - [The Diocletian Reforms](https://www.ancient-history-sites.com/historical-insights/the-diocletian-reforms/)
+
 [^124]: Wikipedia - [Diocletianic Persecution](https://en.wikipedia.org/wiki/Diocletianic_Persecution)
+
 [^125]: History Today - [Diocletian's Great Persecution](https://www.historytoday.com/archive/months-past/diocletians-great-persecution)
+
 [^126]: EBSCO Research - [Diocletianic Persecution](https://www.ebsco.com/research-starters/religion-and-philosophy/diocletianic-persecution)
+
 [^127]: Medium - [Diocletian: The Reformer Who Split an Empire to Save It](https://kresimirprofaca.medium.com/diocletian-the-reformer-who-split-an-empire-to-save-it-9b1c8ac47d73)
+
 [^128]: World History Encyclopedia - [Government and Taxes under Diocletian and Constantine](https://www.worldhistory.org/article/2295/government-and-taxes-under-diocletian-and-constant/)
+
 [^129]: Medium - [The Emperor's Cabbage](https://medium.com/@rhysb/the-emperors-cabbage-7863c5a5ff0a)
+
 [^130]: Travel Blog - ["If you could show the cabbage that I planted with my own hands...."](https://www.travelblog.org/europe/croatia/dalmatia/split/blog-1042456)
+
 [^131]: Daily Boredage - [Diocletian's Bold Retirement: Power to Peace](https://dailyboredage.com/why-the-roman-emperor-who-grew-cabbages-walked-away-from-power-and-never-looked-back/)
+
 [^132]: History Today - [Abdication of the Emperor Diocletian](https://www.historytoday.com/archive/abdication-emperor-diocletian)

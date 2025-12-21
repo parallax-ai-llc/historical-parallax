@@ -69,16 +69,19 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
   // Limit to 10 articles
   const displayArticles = articles.slice(0, 10);
 
-  const goToIndex = React.useCallback((index: number, dir: "left" | "right") => {
-    if (isAnimating) return;
-    setDirection(dir);
-    setIsAnimating(true);
+  const goToIndex = React.useCallback(
+    (index: number, dir: "left" | "right") => {
+      if (isAnimating) return;
+      setDirection(dir);
+      setIsAnimating(true);
 
-    setTimeout(() => {
-      setCurrentIndex(index);
-      setIsAnimating(false);
-    }, 300);
-  }, [isAnimating]);
+      setTimeout(() => {
+        setCurrentIndex(index);
+        setIsAnimating(false);
+      }, 300);
+    },
+    [isAnimating]
+  );
 
   const goNext = React.useCallback(() => {
     const nextIndex = (currentIndex + 1) % displayArticles.length;
@@ -173,9 +176,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
   // Animation classes based on direction
   const getAnimationClass = () => {
     if (!isAnimating) return "opacity-100 translate-x-0";
-    return direction === "left"
-      ? "opacity-0 -translate-x-4"
-      : "opacity-0 translate-x-4";
+    return direction === "left" ? "opacity-0 -translate-x-4" : "opacity-0 translate-x-4";
   };
 
   // 키보드 탐색 핸들러
@@ -217,11 +218,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
         aria-label={`Article ${currentIndex + 1} of ${displayArticles.length}: ${currentArticle.name}`}
       >
         {/* 스크린 리더용 라이브 리전 */}
-        <div
-          aria-live="polite"
-          aria-atomic="true"
-          className="sr-only"
-        >
+        <div aria-live="polite" aria-atomic="true" className="sr-only">
           Showing article {currentIndex + 1} of {displayArticles.length}: {currentArticle.name}
         </div>
 
@@ -242,9 +239,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
             ${getAnimationClass()}
           `}
           style={{
-            transform: isDragging
-              ? `translateX(${dragOffset}px)`
-              : undefined,
+            transform: isDragging ? `translateX(${dragOffset}px)` : undefined,
             transition: isDragging ? "none" : undefined,
           }}
           aria-label={`Read article: ${currentArticle.name}`}
@@ -287,9 +282,10 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
               className={`
                 h-1.5 rounded-full transition-all duration-300
                 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2
-                ${index === currentIndex
-                  ? "w-6 bg-primary"
-                  : "w-1.5 bg-muted-foreground/30 hover:bg-muted-foreground/50"
+                ${
+                  index === currentIndex
+                    ? "w-6 bg-primary"
+                    : "w-1.5 bg-muted-foreground/30 hover:bg-muted-foreground/50"
                 }
               `}
               role="tab"

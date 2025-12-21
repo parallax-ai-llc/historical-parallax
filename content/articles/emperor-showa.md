@@ -143,32 +143,32 @@ The systematic suppression of documents, restriction of scholarly access to impe
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1901 | Born April 29 at Aoyama Palace, Tokyo |
-| 1908 | Enters Gakushūin (Peers' School) |
-| 1912 | Father becomes Emperor Taishō; Hirohito becomes Crown Prince |
-| 1921 | Appointed Prince Regent; visits Europe for six months |
+| Year | Event                                                                            |
+| ---- | -------------------------------------------------------------------------------- |
+| 1901 | Born April 29 at Aoyama Palace, Tokyo                                            |
+| 1908 | Enters Gakushūin (Peers' School)                                                 |
+| 1912 | Father becomes Emperor Taishō; Hirohito becomes Crown Prince                     |
+| 1921 | Appointed Prince Regent; visits Europe for six months                            |
 | 1923 | Survives assassination attempt; Great Kantō earthquake occurs during his regency |
-| 1924 | Marries Princess Nagako Kuni |
-| 1926 | Ascends to throne as Emperor Shōwa on December 25 |
-| 1928 | Official enthronement ceremony held in Kyoto |
-| 1931 | Manchurian Incident; Japan begins expansion into China |
-| 1933 | Birth of Crown Prince Akihito, securing imperial succession |
-| 1936 | Suppresses February 26 Incident military coup attempt |
-| 1937 | Second Sino-Japanese War begins; Rape of Nanking occurs |
-| 1940 | Japan signs Tripartite Pact with Germany and Italy |
-| 1941 | Japan attacks Pearl Harbor; Pacific War begins |
-| 1945 | Atomic bombings of Hiroshima and Nagasaki; announces surrender on August 15 |
-| 1946 | Renounces divinity in "Declaration of Humanity"; new constitution adopted |
-| 1947 | New constitution takes effect, redefining emperor as "symbol of the state" |
-| 1952 | Allied Occupation ends; Japan regains sovereignty |
-| 1959 | Crown Prince Akihito marries Michiko Shōda, a commoner |
-| 1971 | Visits Europe, first foreign trip since 1921 |
-| 1975 | Makes historic state visit to United States |
-| 1987 | Undergoes surgery for intestinal disease |
-| 1988 | Falls critically ill in September |
-| 1989 | Dies January 7 at age 87; succeeded by Emperor Akihito |
+| 1924 | Marries Princess Nagako Kuni                                                     |
+| 1926 | Ascends to throne as Emperor Shōwa on December 25                                |
+| 1928 | Official enthronement ceremony held in Kyoto                                     |
+| 1931 | Manchurian Incident; Japan begins expansion into China                           |
+| 1933 | Birth of Crown Prince Akihito, securing imperial succession                      |
+| 1936 | Suppresses February 26 Incident military coup attempt                            |
+| 1937 | Second Sino-Japanese War begins; Rape of Nanking occurs                          |
+| 1940 | Japan signs Tripartite Pact with Germany and Italy                               |
+| 1941 | Japan attacks Pearl Harbor; Pacific War begins                                   |
+| 1945 | Atomic bombings of Hiroshima and Nagasaki; announces surrender on August 15      |
+| 1946 | Renounces divinity in "Declaration of Humanity"; new constitution adopted        |
+| 1947 | New constitution takes effect, redefining emperor as "symbol of the state"       |
+| 1952 | Allied Occupation ends; Japan regains sovereignty                                |
+| 1959 | Crown Prince Akihito marries Michiko Shōda, a commoner                           |
+| 1971 | Visits Europe, first foreign trip since 1921                                     |
+| 1975 | Makes historic state visit to United States                                      |
+| 1987 | Undergoes surgery for intestinal disease                                         |
+| 1988 | Falls critically ill in September                                                |
+| 1989 | Dies January 7 at age 87; succeeded by Emperor Akihito                           |
 
 ---
 
@@ -190,216 +190,216 @@ The systematic suppression of documents, restriction of scholarly access to impe
 
 ## References
 
-[^1]: Bix, Herbert P. *Hirohito and the Making of Modern Japan*. New York: HarperCollins, 2000, pp. 23-26.
+[^1]: Bix, Herbert P. _Hirohito and the Making of Modern Japan_. New York: HarperCollins, 2000, pp. 23-26.
 
-[^2]: Large, Stephen S. *Emperor Hirohito and Shōwa Japan: A Political Biography*. London: Routledge, 1992, pp. 8-11.
+[^2]: Large, Stephen S. _Emperor Hirohito and Shōwa Japan: A Political Biography_. London: Routledge, 1992, pp. 8-11.
 
-[^3]: Kawahara, Toshiaki. *Hirohito and His Times: A Japanese Perspective*. Tokyo: Kodansha International, 1990, p. 19.
+[^3]: Kawahara, Toshiaki. _Hirohito and His Times: A Japanese Perspective_. Tokyo: Kodansha International, 1990, p. 19.
 
-[^4]: Bix, *Hirohito and the Making of Modern Japan*, pp. 45-48.
+[^4]: Bix, _Hirohito and the Making of Modern Japan_, pp. 45-48.
 
-[^5]: Large, *Emperor Hirohito and Shōwa Japan*, pp. 28-32.
+[^5]: Large, _Emperor Hirohito and Shōwa Japan_, pp. 28-32.
 
-[^6]: Drea, Edward J. *Japan's Imperial Army: Its Rise and Fall, 1853-1945*. Lawrence: University Press of Kansas, 2009, p. 187.
+[^6]: Drea, Edward J. _Japan's Imperial Army: Its Rise and Fall, 1853-1945_. Lawrence: University Press of Kansas, 2009, p. 187.
 
-[^7]: Carpenter, William M. "Emperor Hirohito as Marine Biologist." *Oceanus* 32, no. 4 (1989): 88-92.
+[^7]: Carpenter, William M. "Emperor Hirohito as Marine Biologist." _Oceanus_ 32, no. 4 (1989): 88-92.
 
-[^8]: Seagrave, Sterling. *The Yamato Dynasty: The Secret History of Japan's Imperial Family*. New York: Broadway Books, 1999, pp. 156-159.
+[^8]: Seagrave, Sterling. _The Yamato Dynasty: The Secret History of Japan's Imperial Family_. New York: Broadway Books, 1999, pp. 156-159.
 
-[^9]: Large, *Emperor Hirohito and Shōwa Japan*, pp. 34-38.
+[^9]: Large, _Emperor Hirohito and Shōwa Japan_, pp. 34-38.
 
-[^10]: Bix, *Hirohito and the Making of Modern Japan*, pp. 91-95.
+[^10]: Bix, _Hirohito and the Making of Modern Japan_, pp. 91-95.
 
-[^11]: Kawahara, *Hirohito and His Times*, pp. 46-48.
+[^11]: Kawahara, _Hirohito and His Times_, pp. 46-48.
 
-[^12]: Large, *Emperor Hirohito and Shōwa Japan*, p. 47.
+[^12]: Large, _Emperor Hirohito and Shōwa Japan_, p. 47.
 
-[^13]: Bix, *Hirohito and the Making of Modern Japan*, pp. 123-125.
+[^13]: Bix, _Hirohito and the Making of Modern Japan_, pp. 123-125.
 
-[^14]: Fujitani, Takashi. *Splendid Monarchy: Power and Pageantry in Modern Japan*. Berkeley: University of California Press, 1996, pp. 201-215.
+[^14]: Fujitani, Takashi. _Splendid Monarchy: Power and Pageantry in Modern Japan_. Berkeley: University of California Press, 1996, pp. 201-215.
 
-[^15]: Gluck, Carol. *Japan's Modern Myths: Ideology in the Late Meiji Period*. Princeton: Princeton University Press, 1985, pp. 73-82.
+[^15]: Gluck, Carol. _Japan's Modern Myths: Ideology in the Late Meiji Period_. Princeton: Princeton University Press, 1985, pp. 73-82.
 
-[^16]: Ben-Ami Shillony. *Revolt in Japan: The Young Officers and the February 26, 1936 Incident*. Princeton: Princeton University Press, 1973, pp. 184-192.
+[^16]: Ben-Ami Shillony. _Revolt in Japan: The Young Officers and the February 26, 1936 Incident_. Princeton: Princeton University Press, 1973, pp. 184-192.
 
-[^17]: Bix, *Hirohito and the Making of Modern Japan*, pp. 288-304.
+[^17]: Bix, _Hirohito and the Making of Modern Japan_, pp. 288-304.
 
-[^18]: Dower, John W. *Embracing Defeat: Japan in the Wake of World War II*. New York: W.W. Norton, 1999, pp. 279-318.
+[^18]: Dower, John W. _Embracing Defeat: Japan in the Wake of World War II_. New York: W.W. Norton, 1999, pp. 279-318.
 
-[^19]: Brooks, Lester. *Behind Japan's Surrender: The Secret Struggle That Ended an Empire*. New York: McGraw-Hill, 1968, pp. 301-315.
+[^19]: Brooks, Lester. _Behind Japan's Surrender: The Secret Struggle That Ended an Empire_. New York: McGraw-Hill, 1968, pp. 301-315.
 
-[^20]: Butow, Robert J.C. *Japan's Decision to Surrender*. Stanford: Stanford University Press, 1954, pp. 207-224.
+[^20]: Butow, Robert J.C. _Japan's Decision to Surrender_. Stanford: Stanford University Press, 1954, pp. 207-224.
 
-[^21]: Manchester, William. *American Caesar: Douglas MacArthur 1880-1964*. Boston: Little, Brown, 1978, pp. 465-488.
+[^21]: Manchester, William. _American Caesar: Douglas MacArthur 1880-1964_. Boston: Little, Brown, 1978, pp. 465-488.
 
-[^22]: Dower, *Embracing Defeat*, pp. 293-296.
+[^22]: Dower, _Embracing Defeat_, pp. 293-296.
 
-[^23]: Takeda, Kiyoko. *The Dual-Image of the Japanese Emperor*. London: Macmillan, 1988, pp. 71-85.
+[^23]: Takeda, Kiyoko. _The Dual-Image of the Japanese Emperor_. London: Macmillan, 1988, pp. 71-85.
 
-[^24]: Ruoff, Kenneth J. *The People's Emperor: Democracy and the Japanese Monarchy, 1945-1995*. Cambridge: Harvard University Asia Center, 2001, pp. 94-127.
+[^24]: Ruoff, Kenneth J. _The People's Emperor: Democracy and the Japanese Monarchy, 1945-1995_. Cambridge: Harvard University Asia Center, 2001, pp. 94-127.
 
-[^25]: Dower, *Embracing Defeat*, pp. 308-314.
+[^25]: Dower, _Embracing Defeat_, pp. 308-314.
 
-[^26]: Johnson, Chalmers. *MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975*. Stanford: Stanford University Press, 1982, pp. 198-241.
+[^26]: Johnson, Chalmers. _MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975_. Stanford: Stanford University Press, 1982, pp. 198-241.
 
 [^27]: Carpenter, "Emperor Hirohito as Marine Biologist," pp. 89-91.
 
-[^28]: Nishimura, Saburo. "The Emperor's Scientific Contributions." *Journal of Marine Biology* 45, no. 2 (1990): 221-228.
+[^28]: Nishimura, Saburo. "The Emperor's Scientific Contributions." _Journal of Marine Biology_ 45, no. 2 (1990): 221-228.
 
-[^29]: Seagrave, *The Yamato Dynasty*, pp. 299-303.
+[^29]: Seagrave, _The Yamato Dynasty_, pp. 299-303.
 
-[^30]: Schaller, Michael. *Altered States: The United States and Japan Since the Occupation*. New York: Oxford University Press, 1997, pp. 198-203.
+[^30]: Schaller, Michael. _Altered States: The United States and Japan Since the Occupation_. New York: Oxford University Press, 1997, pp. 198-203.
 
-[^31]: Finn, Richard B. *Winners in Peace: MacArthur, Yoshida, and Postwar Japan*. Berkeley: University of California Press, 1992, pp. 334-339.
+[^31]: Finn, Richard B. _Winners in Peace: MacArthur, Yoshida, and Postwar Japan_. Berkeley: University of California Press, 1992, pp. 334-339.
 
-[^32]: Large, *Emperor Hirohito and Shōwa Japan*, pp. 182-188.
+[^32]: Large, _Emperor Hirohito and Shōwa Japan_, pp. 182-188.
 
-[^33]: Bix, *Hirohito and the Making of Modern Japan*, pp. 1-7.
+[^33]: Bix, _Hirohito and the Making of Modern Japan_, pp. 1-7.
 
-[^34]: Tanaka, Yuki. *Hidden Horrors: Japanese War Crimes in World War II*. Boulder: Westview Press, 1996, pp. 201-218.
+[^34]: Tanaka, Yuki. _Hidden Horrors: Japanese War Crimes in World War II_. Boulder: Westview Press, 1996, pp. 201-218.
 
-[^35]: Bergamini, David. *Japan's Imperial Conspiracy*. New York: William Morrow, 1971, pp. 893-921.
+[^35]: Bergamini, David. _Japan's Imperial Conspiracy_. New York: William Morrow, 1971, pp. 893-921.
 
-[^36]: Brackman, Arnold C. *The Other Nuremberg: The Untold Story of the Tokyo War Crimes Trials*. New York: William Morrow, 1987, pp. 73-89.
+[^36]: Brackman, Arnold C. _The Other Nuremberg: The Untold Story of the Tokyo War Crimes Trials_. New York: William Morrow, 1987, pp. 73-89.
 
-[^37]: Minear, Richard H. *Victors' Justice: The Tokyo War Crimes Trial*. Princeton: Princeton University Press, 1971, pp. 101-117.
+[^37]: Minear, Richard H. _Victors' Justice: The Tokyo War Crimes Trial_. Princeton: Princeton University Press, 1971, pp. 101-117.
 
-[^38]: Buruma, Ian. *The Wages of Guilt: Memories of War in Germany and Japan*. New York: Farrar, Straus and Giroux, 1994, pp. 115-138.
+[^38]: Buruma, Ian. _The Wages of Guilt: Memories of War in Germany and Japan_. New York: Farrar, Straus and Giroux, 1994, pp. 115-138.
 
-[^39]: Imperial Household Agency. *Shōwa Tennō Jitsuroku* [Chronicle of Emperor Shōwa]. Tokyo: Tokyo Shoseki, 2014, volumes 1-18.
+[^39]: Imperial Household Agency. _Shōwa Tennō Jitsuroku_ [Chronicle of Emperor Shōwa]. Tokyo: Tokyo Shoseki, 2014, volumes 1-18.
 
-[^40]: Higashinakano, Osamichi. "Critical Analysis of the Shōwa Tennō Jitsuroku." *Journal of Japanese Historical Studies* 28, no. 3 (2015): 445-467.
+[^40]: Higashinakano, Osamichi. "Critical Analysis of the Shōwa Tennō Jitsuroku." _Journal of Japanese Historical Studies_ 28, no. 3 (2015): 445-467.
 
-[^41]: Seraphim, Franziska. *War Memory and Social Politics in Japan, 1945-2005*. Cambridge: Harvard University Asia Center, 2006, pp. 287-311.
+[^41]: Seraphim, Franziska. _War Memory and Social Politics in Japan, 1945-2005_. Cambridge: Harvard University Asia Center, 2006, pp. 287-311.
 
-[^42]: Breen, John and Mark Teeuwen, eds. *Yasukuni, the War Dead and the Struggle for Japan's Past*. New York: Columbia University Press, 2010, pp. 119-145.
+[^42]: Breen, John and Mark Teeuwen, eds. _Yasukuni, the War Dead and the Struggle for Japan's Past_. New York: Columbia University Press, 2010, pp. 119-145.
 
-[^43]: Hardacre, Helen. *Shinto and the State, 1868-1988*. Princeton: Princeton University Press, 1989, pp. 148-151.
+[^43]: Hardacre, Helen. _Shinto and the State, 1868-1988_. Princeton: Princeton University Press, 1989, pp. 148-151.
 
-[^44]: Saaler, Sven and Wolfgang Schwentker, eds. *The Power of Memory in Modern Japan*. Folkestone: Global Oriental, 2008, pp. 234-256.
+[^44]: Saaler, Sven and Wolfgang Schwentker, eds. _The Power of Memory in Modern Japan_. Folkestone: Global Oriental, 2008, pp. 234-256.
 
-[^45]: Ruoff, Kenneth J. *Imperial Japan at Its Zenith: The Wartime Celebration of the Empire's 2,600th Anniversary*. Ithaca: Cornell University Press, 2010, pp. 201-219.
+[^45]: Ruoff, Kenneth J. _Imperial Japan at Its Zenith: The Wartime Celebration of the Empire's 2,600th Anniversary_. Ithaca: Cornell University Press, 2010, pp. 201-219.
 
-[^46]: Mitchell, Richard H. *Janus-Faced Justice: Political Criminals in Imperial Japan*. Honolulu: University of Hawaii Press, 1992, pp. 167-184.
+[^46]: Mitchell, Richard H. _Janus-Faced Justice: Political Criminals in Imperial Japan_. Honolulu: University of Hawaii Press, 1992, pp. 167-184.
 
-[^47]: Yoshida, Takashi. *The Making of the "Rape of Nanking": History and Memory in Japan, China, and the United States*. New York: Oxford University Press, 2006, pp. 198-215.
+[^47]: Yoshida, Takashi. _The Making of the "Rape of Nanking": History and Memory in Japan, China, and the United States_. New York: Oxford University Press, 2006, pp. 198-215.
 
-[^48]: Large, *Emperor Hirohito and Shōwa Japan*, pp. 39-42.
+[^48]: Large, _Emperor Hirohito and Shōwa Japan_, pp. 39-42.
 
-[^49]: Kawahara, *Hirohito and His Times*, pp. 58-63.
+[^49]: Kawahara, _Hirohito and His Times_, pp. 58-63.
 
-[^50]: Seagrave, *The Yamato Dynasty*, pp. 181-185.
+[^50]: Seagrave, _The Yamato Dynasty_, pp. 181-185.
 
-[^51]: Lebra, Takie Sugiyama. *Above the Clouds: Status Culture of the Modern Japanese Nobility*. Berkeley: University of California Press, 1993, pp. 134-142.
+[^51]: Lebra, Takie Sugiyama. _Above the Clouds: Status Culture of the Modern Japanese Nobility_. Berkeley: University of California Press, 1993, pp. 134-142.
 
-[^52]: Bix, *Hirohito and the Making of Modern Japan*, pp. 242-246.
+[^52]: Bix, _Hirohito and the Making of Modern Japan_, pp. 242-246.
 
-[^53]: Large, *Emperor Hirohito and Shōwa Japan*, p. 77.
+[^53]: Large, _Emperor Hirohito and Shōwa Japan_, p. 77.
 
-[^54]: Kawahara, *Hirohito and His Times*, pp. 201-209.
+[^54]: Kawahara, _Hirohito and His Times_, pp. 201-209.
 
-[^55]: Mosley, Leonard. *Hirohito: Emperor of Japan*. Englewood Cliffs: Prentice-Hall, 1966, pp. 287-293.
+[^55]: Mosley, Leonard. _Hirohito: Emperor of Japan_. Englewood Cliffs: Prentice-Hall, 1966, pp. 287-293.
 
 [^56]: Carpenter, "Emperor Hirohito as Marine Biologist," p. 91.
 
-[^57]: Vining, Elizabeth Gray. *Windows for the Crown Prince: Akihito of Japan*. Philadelphia: Lippincott, 1952, pp. 89-95.
+[^57]: Vining, Elizabeth Gray. _Windows for the Crown Prince: Akihito of Japan_. Philadelphia: Lippincott, 1952, pp. 89-95.
 
-[^58]: Ruoff, *The People's Emperor*, pp. 156-163.
+[^58]: Ruoff, _The People's Emperor_, pp. 156-163.
 
-[^59]: Vining, *Windows for the Crown Prince*, pp. 134-158.
+[^59]: Vining, _Windows for the Crown Prince_, pp. 134-158.
 
-[^60]: "Emperor Hirohito's Final Illness." *The Lancet* 333, no. 8633 (1989): 324-325.
+[^60]: "Emperor Hirohito's Final Illness." _The Lancet_ 333, no. 8633 (1989): 324-325.
 
-[^61]: Large, *Emperor Hirohito and Shōwa Japan*, pp. 193-195.
+[^61]: Large, _Emperor Hirohito and Shōwa Japan_, pp. 193-195.
 
-[^62]: Nornes, Abe Mark and Fukushima Yukio, eds. *The Japan/America Film Wars: WWII Propaganda and its Cultural Contexts*. Chur: Harwood Academic, 1994, pp. 243-257.
+[^62]: Nornes, Abe Mark and Fukushima Yukio, eds. _The Japan/America Film Wars: WWII Propaganda and its Cultural Contexts_. Chur: Harwood Academic, 1994, pp. 243-257.
 
-[^63]: Gluck, Carol and Stephen R. Graubard, eds. *Showa: The Japan of Hirohito*. New York: W.W. Norton, 1992, pp. xi-xxiv.
+[^63]: Gluck, Carol and Stephen R. Graubard, eds. _Showa: The Japan of Hirohito_. New York: W.W. Norton, 1992, pp. xi-xxiv.
 
-[^64]: Ruoff, *The People's Emperor*, pp. 201-228.
+[^64]: Ruoff, _The People's Emperor_, pp. 201-228.
 
-[^65]: Irokawa, Daikichi. *The Age of Hirohito: In Search of Modern Japan*. New York: Free Press, 1995, pp. 89-107.
+[^65]: Irokawa, Daikichi. _The Age of Hirohito: In Search of Modern Japan_. New York: Free Press, 1995, pp. 89-107.
 
-[^66]: Gordon, Andrew. *A Modern History of Japan: From Tokugawa Times to the Present*. New York: Oxford University Press, 2003, pp. 198-334.
+[^66]: Gordon, Andrew. _A Modern History of Japan: From Tokugawa Times to the Present_. New York: Oxford University Press, 2003, pp. 198-334.
 
-[^67]: Dower, *Embracing Defeat*, pp. 562-568.
+[^67]: Dower, _Embracing Defeat_, pp. 562-568.
 
-[^68]: Chang, Iris. *The Rape of Nanking: The Forgotten Holocaust of World War II*. New York: Basic Books, 1997, pp. 214-221.
+[^68]: Chang, Iris. _The Rape of Nanking: The Forgotten Holocaust of World War II_. New York: Basic Books, 1997, pp. 214-221.
 
-[^69]: Ienaga, Saburo. *The Pacific War, 1931-1945*. New York: Pantheon Books, 1978, pp. 249-254.
+[^69]: Ienaga, Saburo. _The Pacific War, 1931-1945_. New York: Pantheon Books, 1978, pp. 249-254.
 
-[^70]: Lind, Jennifer. *Sorry States: Apologies in International Politics*. Ithaca: Cornell University Press, 2008, pp. 55-89.
+[^70]: Lind, Jennifer. _Sorry States: Apologies in International Politics_. Ithaca: Cornell University Press, 2008, pp. 55-89.
 
-[^71]: Ruoff, Kenneth J. "The Symbol Monarchy and Popular Culture." *The Journal of Japanese Studies* 29, no. 1 (2003): 47-75.
+[^71]: Ruoff, Kenneth J. "The Symbol Monarchy and Popular Culture." _The Journal of Japanese Studies_ 29, no. 1 (2003): 47-75.
 
-[^72]: Takeda, *The Dual-Image of the Japanese Emperor*, pp. 134-159.
+[^72]: Takeda, _The Dual-Image of the Japanese Emperor_, pp. 134-159.
 
-[^73]: Lebra, *Above the Clouds*, pp. 223-241.
+[^73]: Lebra, _Above the Clouds_, pp. 223-241.
 
 [^74]: Carpenter, "Emperor Hirohito as Marine Biologist," p. 92.
 
 [^75]: Nishimura, "The Emperor's Scientific Contributions," pp. 225-227.
 
-[^76]: Seagrave, *The Yamato Dynasty*, p. 302.
+[^76]: Seagrave, _The Yamato Dynasty_, p. 302.
 
-[^77]: Toland, John. *The Rising Sun: The Decline and Fall of the Japanese Empire, 1936-1945*. New York: Random House, 1970, pp. 891-912.
+[^77]: Toland, John. _The Rising Sun: The Decline and Fall of the Japanese Empire, 1936-1945_. New York: Random House, 1970, pp. 891-912.
 
-[^78]: Butow, *Japan's Decision to Surrender*, pp. 207-224.
+[^78]: Butow, _Japan's Decision to Surrender_, pp. 207-224.
 
-[^79]: Bix, *Hirohito and the Making of Modern Japan*, p. 525.
+[^79]: Bix, _Hirohito and the Making of Modern Japan_, p. 525.
 
-[^80]: Ike, Nobutaka, ed. *Japan's Decision for War: Records of the 1941 Policy Conferences*. Stanford: Stanford University Press, 1967, pp. 133-139.
+[^80]: Ike, Nobutaka, ed. _Japan's Decision for War: Records of the 1941 Policy Conferences_. Stanford: Stanford University Press, 1967, pp. 133-139.
 
-[^81]: Large, *Emperor Hirohito and Shōwa Japan*, pp. 97-103.
+[^81]: Large, _Emperor Hirohito and Shōwa Japan_, pp. 97-103.
 
-[^82]: Kido, Koichi. *The Diary of Marquis Kido, 1931-45: Selected Translations into English*. Frederick, MD: University Publications of America, 1984, entries from September 1941.
+[^82]: Kido, Koichi. _The Diary of Marquis Kido, 1931-45: Selected Translations into English_. Frederick, MD: University Publications of America, 1984, entries from September 1941.
 
-[^83]: Dower, *Embracing Defeat*, pp. 293-296.
+[^83]: Dower, _Embracing Defeat_, pp. 293-296.
 
-[^84]: Manchester, *American Caesar*, pp. 467-470.
+[^84]: Manchester, _American Caesar_, pp. 467-470.
 
-[^85]: Ruoff, *The People's Emperor*, pp. 128-155.
+[^85]: Ruoff, _The People's Emperor_, pp. 128-155.
 
-[^86]: Ruoff, Kenneth J. "Mr. Tomato and the Emperor: Visuality and Representation in Modern Japan." *positions: east asia cultures critique* 17, no. 3 (2009): 603-636.
+[^86]: Ruoff, Kenneth J. "Mr. Tomato and the Emperor: Visuality and Representation in Modern Japan." _positions: east asia cultures critique_ 17, no. 3 (2009): 603-636.
 
 [^87]: Ibid., pp. 620-628.
 
-[^88]: Bix, *Hirohito and the Making of Modern Japan*, pp. 326-389.
+[^88]: Bix, _Hirohito and the Making of Modern Japan_, pp. 326-389.
 
 [^89]: Ibid., pp. 411-459.
 
-[^90]: Bergamini, *Japan's Imperial Conspiracy*, pp. 687-734.
+[^90]: Bergamini, _Japan's Imperial Conspiracy_, pp. 687-734.
 
-[^91]: Frank, Richard B. *Downfall: The End of the Imperial Japanese Empire*. New York: Random House, 1999, pp. 286-310.
+[^91]: Frank, Richard B. _Downfall: The End of the Imperial Japanese Empire_. New York: Random House, 1999, pp. 286-310.
 
-[^92]: Butow, *Japan's Decision to Surrender*, pp. 156-178.
+[^92]: Butow, _Japan's Decision to Surrender_, pp. 156-178.
 
-[^93]: Hasegawa, Tsuyoshi. *Racing the Enemy: Stalin, Truman, and the Surrender of Japan*. Cambridge: Harvard University Press, 2005, pp. 198-229.
+[^93]: Hasegawa, Tsuyoshi. _Racing the Enemy: Stalin, Truman, and the Surrender of Japan_. Cambridge: Harvard University Press, 2005, pp. 198-229.
 
-[^94]: Minear, *Victors' Justice*, pp. 101-117.
+[^94]: Minear, _Victors' Justice_, pp. 101-117.
 
-[^95]: Dower, *Embracing Defeat*, pp. 443-484.
+[^95]: Dower, _Embracing Defeat_, pp. 443-484.
 
-[^96]: Totani, Yuma. *The Tokyo War Crimes Trial: The Pursuit of Justice in the Wake of World War II*. Cambridge: Harvard University Asia Center, 2008, pp. 201-223.
+[^96]: Totani, Yuma. _The Tokyo War Crimes Trial: The Pursuit of Justice in the Wake of World War II_. Cambridge: Harvard University Asia Center, 2008, pp. 201-223.
 
-[^97]: Buruma, *The Wages of Guilt*, pp. 115-138.
+[^97]: Buruma, _The Wages of Guilt_, pp. 115-138.
 
-[^98]: Lind, *Sorry States*, pp. 67-82.
+[^98]: Lind, _Sorry States_, pp. 67-82.
 
-[^99]: Tanaka, *Hidden Horrors*, pp. 215-218.
+[^99]: Tanaka, _Hidden Horrors_, pp. 215-218.
 
-[^100]: Yoshida, *The Making of the "Rape of Nanking"*, pp. 198-215.
+[^100]: Yoshida, _The Making of the "Rape of Nanking"_, pp. 198-215.
 
 [^101]: Imperial Household Agency, restrictions on archival access as of 2025.
 
-[^102]: Butow, *Japan's Decision to Surrender*, p. 219.
+[^102]: Butow, _Japan's Decision to Surrender_, p. 219.
 
-[^103]: Schaller, *Altered States*, p. 201.
+[^103]: Schaller, _Altered States_, p. 201.
 
-[^104]: Bix, *Hirohito and the Making of Modern Japan*, p. 657.
+[^104]: Bix, _Hirohito and the Making of Modern Japan_, p. 657.
 
-[^105]: Takeda, *The Dual-Image of the Japanese Emperor*, p. 76.
+[^105]: Takeda, _The Dual-Image of the Japanese Emperor_, p. 76.
 
-[^106]: Bergamini, *Japan's Imperial Conspiracy*, p. 788 (authenticity disputed).
+[^106]: Bergamini, _Japan's Imperial Conspiracy_, p. 788 (authenticity disputed).
 
-[^107]: Ruoff, *The People's Emperor*, p. 142.
+[^107]: Ruoff, _The People's Emperor_, p. 142.

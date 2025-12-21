@@ -49,7 +49,7 @@ The reign of Mehmed VI (1918-1922) presents a paradox for historians: it is diff
 
 One action that some revisionist historians cite as potentially significant was his establishment of military tribunals to investigate wartime atrocities. On November 23, 1918, Sultan Mehmed VI created a government commission of inquiry, appointing Hasan Mazhar Bey as chairman to investigate crimes committed during World War I.[^25] On December 16, 1918, he officially established military tribunals investigating the crimes of the Committee of Union and Progress (CUP), the Young Turk political party that had dominated Ottoman politics since 1908 and led the empire into World War I.[^26]
 
-These tribunals, known as the Istanbul trials of 1919-1920, addressed the Armenian genocide and other wartime atrocities. The court ruled that "the crime of mass murder" of Armenians was "organized and carried out by the top leaders of CUP."[^27] Sultan Mehmed VI made a press statement absolving the Ottoman people of collective guilt, stating that the CUP was solely responsible for the war and its excesses, including the Armenian genocide.[^28] In an interview with a British correspondent, he specifically asked that the following statement be published: "The great majority of the nation is entirely innocent of the misdeeds attributed to it. Only a limited number of persons are responsible."[^29] 
+These tribunals, known as the Istanbul trials of 1919-1920, addressed the Armenian genocide and other wartime atrocities. The court ruled that "the crime of mass murder" of Armenians was "organized and carried out by the top leaders of CUP."[^27] Sultan Mehmed VI made a press statement absolving the Ottoman people of collective guilt, stating that the CUP was solely responsible for the war and its excesses, including the Armenian genocide.[^28] In an interview with a British correspondent, he specifically asked that the following statement be published: "The great majority of the nation is entirely innocent of the misdeeds attributed to it. Only a limited number of persons are responsible."[^29]
 
 Grand Vizier Damat Ferid Pasha, acting on the Sultan's authority, officially confessed to massacres against the Armenians in the Ottoman Empire on July 11, 1919.[^30] All those sentenced to death received a fatwa from the Sheikh al-Islam in Mehmed VI's name before their execution, lending religious legitimacy to the proceedings.[^31] In establishing these courts-martial, the Sultan's government hoped to demonstrate that it was the Ittihadist Party (CUP), not the Turkish nation, that was responsible for the Armenian massacres, thereby potentially mitigating Allied punishment of the empire as a whole.[^32]
 
@@ -149,40 +149,40 @@ Deputies in the Grand National Assembly viewed the sultanate as having collabora
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1861 | Born on January 14 at Dolmabahçe Palace, Constantinople |
-| 1861 | Father, Sultan Abdulmejid I, dies when Mehmed is five months old (June) |
-| 1865 | Mother, Gülistû Kadın, dies from cholera when Mehmed is four years old |
-| 1877 | At age sixteen, leaves his stepmother's mansion to establish independent household |
-| 1885 | Marries Nazikeda Kadın, his chief consort |
-| 1888 | Birth of daughter Münire Fenire Sultan (dies in infancy) |
-| 1892 | Birth of daughter Fatma Ulviye Sultan |
-| 1894 | Birth of daughter Rukiye Sabiha Sultan |
-| 1905 | Marries second wife, Inşirah Hanım (marriage lasts until 1909) |
-| 1911 | Marries third wife, Müveddet Kadın |
-| 1912 | Birth of his only son, Şehzade Mehmed Ertuğrul |
-| 1916 | Becomes heir to throne following death of Şehzade Yusuf İzzeddin |
-| 1916-1917 | Makes official visits to Germany and Austria-Hungary with Mustafa Kemal Pasha |
-| 1918 | Marries fourth wife, Nevvare Hanım |
-| 1918 | Ascends to throne on July 4 as 36th Sultan and 115th Caliph after death of Mehmed V |
-| 1918 | Presides over Ottoman surrender and Armistice of Mudros (October 30) |
-| 1918 | Creates government commission of inquiry under Hasan Mazhar Bey (November 23) |
-| 1918 | Establishes military tribunals investigating CUP crimes (December 16) |
-| 1918 | Dissolves Parliament and begins suppressing nationalist movement (December 21) |
-| 1919 | Grand Vizier Damat Ferid Pasha confesses to Armenian massacres (July 11) |
-| 1920 | Allied forces officially occupy Istanbul (March 16) |
-| 1920 | Dissolves Parliament again; nationalists establish provisional government in Ankara (April 11) |
-| 1920 | Signs Treaty of Sèvres, partitioning the empire (August 10) |
-| 1921 | Marries fifth wife, Nevzad Hanım (September 1) |
-| 1922 | Grand National Assembly abolishes the sultanate (November 1) |
-| 1922 | Flees aboard British warship HMS Malaya to Malta (November 17) |
-| 1922 | Arrives in Malta (December 9) |
-| 1922 | Cousin Abdülmecid II elected as Caliph (November 19) |
-| 1923 | Republic of Turkey declared with Mustafa Kemal Atatürk as president (October 29) |
-| 1924 | Caliphate permanently abolished by Grand National Assembly (March 3) |
-| 1926 | Dies from heart condition in San Remo, Italy (May 16) at age 65 |
-| 1926 | Buried in Suleymaniyye Tekiyye, Damascus, Syria (July 3) |
+| Year      | Event                                                                                          |
+| --------- | ---------------------------------------------------------------------------------------------- |
+| 1861      | Born on January 14 at Dolmabahçe Palace, Constantinople                                        |
+| 1861      | Father, Sultan Abdulmejid I, dies when Mehmed is five months old (June)                        |
+| 1865      | Mother, Gülistû Kadın, dies from cholera when Mehmed is four years old                         |
+| 1877      | At age sixteen, leaves his stepmother's mansion to establish independent household             |
+| 1885      | Marries Nazikeda Kadın, his chief consort                                                      |
+| 1888      | Birth of daughter Münire Fenire Sultan (dies in infancy)                                       |
+| 1892      | Birth of daughter Fatma Ulviye Sultan                                                          |
+| 1894      | Birth of daughter Rukiye Sabiha Sultan                                                         |
+| 1905      | Marries second wife, Inşirah Hanım (marriage lasts until 1909)                                 |
+| 1911      | Marries third wife, Müveddet Kadın                                                             |
+| 1912      | Birth of his only son, Şehzade Mehmed Ertuğrul                                                 |
+| 1916      | Becomes heir to throne following death of Şehzade Yusuf İzzeddin                               |
+| 1916-1917 | Makes official visits to Germany and Austria-Hungary with Mustafa Kemal Pasha                  |
+| 1918      | Marries fourth wife, Nevvare Hanım                                                             |
+| 1918      | Ascends to throne on July 4 as 36th Sultan and 115th Caliph after death of Mehmed V            |
+| 1918      | Presides over Ottoman surrender and Armistice of Mudros (October 30)                           |
+| 1918      | Creates government commission of inquiry under Hasan Mazhar Bey (November 23)                  |
+| 1918      | Establishes military tribunals investigating CUP crimes (December 16)                          |
+| 1918      | Dissolves Parliament and begins suppressing nationalist movement (December 21)                 |
+| 1919      | Grand Vizier Damat Ferid Pasha confesses to Armenian massacres (July 11)                       |
+| 1920      | Allied forces officially occupy Istanbul (March 16)                                            |
+| 1920      | Dissolves Parliament again; nationalists establish provisional government in Ankara (April 11) |
+| 1920      | Signs Treaty of Sèvres, partitioning the empire (August 10)                                    |
+| 1921      | Marries fifth wife, Nevzad Hanım (September 1)                                                 |
+| 1922      | Grand National Assembly abolishes the sultanate (November 1)                                   |
+| 1922      | Flees aboard British warship HMS Malaya to Malta (November 17)                                 |
+| 1922      | Arrives in Malta (December 9)                                                                  |
+| 1922      | Cousin Abdülmecid II elected as Caliph (November 19)                                           |
+| 1923      | Republic of Turkey declared with Mustafa Kemal Atatürk as president (October 29)               |
+| 1924      | Caliphate permanently abolished by Grand National Assembly (March 3)                           |
+| 1926      | Dies from heart condition in San Remo, Italy (May 16) at age 65                                |
+| 1926      | Buried in Suleymaniyye Tekiyye, Damascus, Syria (July 3)                                       |
 
 ---
 
@@ -199,119 +199,235 @@ Deputies in the Grand National Assembly viewed the sultanate as having collabora
 ## References
 
 [^1]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^2]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^3]: First World War.com - Who's Who - Sultan Mehmed VI. https://www.firstworldwar.com/bio/mehmedvi.htm
+
 [^4]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^5]: Mehmed VI facts for kids. https://kids.kiddle.co/Mehmed_VI
+
 [^6]: First World War.com - Who's Who - Sultan Mehmed VI. https://www.firstworldwar.com/bio/mehmedvi.htm
+
 [^7]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^8]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^9]: Mehmed VI: Last Sultan of Ottoman Empire. https://www.numberanalytics.com/blog/mehmed-vi-last-sultan-ottoman-empire
+
 [^10]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^11]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^12]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^13]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^14]: 19 Extraordinary Facts About Sultan Mehmed VI - Facts.net. https://facts.net/history/people/19-extraordinary-facts-about-sultan-mehmed-vi/
+
 [^15]: 4th July 1918: Mehmed VI ascends to the throne as the last sultan of the Ottoman Empire | HistoryPod. https://www.historypod.net/07/04/4th-july-1918-mehmed-vi-ascends-to-the-throne-as-the-last-sultan-of-the-ottoman-empire/
+
 [^16]: Mehmed VI | Reign of Abdülmecid, Last Caliph & Exile | Britannica. https://www.britannica.com/biography/Mehmed-VI
+
 [^17]: Mighty sovereigns of Ottoman throne: Sultan Mehmed VI Vahideddin | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mehmed-vi-vahideddin
+
 [^18]: Mighty sovereigns of Ottoman throne: Sultan Mehmed VI Vahideddin | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mehmed-vi-vahideddin
+
 [^19]: Mighty sovereigns of Ottoman throne: Sultan Mehmed VI Vahideddin | Daily Sabah. https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-mehmed-vi-vahideddin
+
 [^20]: 19 Extraordinary Facts About Sultan Mehmed VI - Facts.net. https://facts.net/history/people/19-extraordinary-facts-about-sultan-mehmed-vi/
+
 [^21]: First World War.com - Who's Who - Sultan Mehmed VI. https://www.firstworldwar.com/bio/mehmedvi.htm
+
 [^22]: 19 Extraordinary Facts About Sultan Mehmed VI - Facts.net. https://facts.net/history/people/19-extraordinary-facts-about-sultan-mehmed-vi/
+
 [^23]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^24]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^25]: Armenian genocide - Wikipedia. https://en.wikipedia.org/wiki/Armenian_genocide
+
 [^26]: Armenian genocide - Wikipedia. https://en.wikipedia.org/wiki/Armenian_genocide
+
 [^27]: Istanbul trials of 1919–1920 - Wikipedia. https://en.wikipedia.org/wiki/Turkish_Courts-Martial_of_1919-20
+
 [^28]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^29]: Istanbul trials of 1919–1920 - Wikipedia. https://en.wikipedia.org/wiki/Turkish_Courts-Martial_of_1919-20
+
 [^30]: Armenian genocide - Wikipedia. https://en.wikipedia.org/wiki/Armenian_genocide
+
 [^31]: Istanbul trials of 1919–1920 - Wikipedia. https://en.wikipedia.org/wiki/Turkish_Courts-Martial_of_1919-20
+
 [^32]: Istanbul trials of 1919–1920 - Wikipedia. https://en.wikipedia.org/wiki/Turkish_Courts-Martial_of_1919-20
+
 [^33]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^34]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^35]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^36]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^37]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^38]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^39]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^40]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^41]: Mehmed VI | Reign of Abdülmecid, Last Caliph & Exile | Britannica. https://www.britannica.com/biography/Mehmed-VI
+
 [^42]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^43]: Damat Ferid Pasha - Wikipedia. https://en.wikipedia.org/wiki/Damad_Ferid_Pasha
+
 [^44]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^45]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^46]: Mehmed VI | Reign of Abdülmecid, Last Caliph & Exile | Britannica. https://www.britannica.com/biography/Mehmed-VI
+
 [^47]: Turkish War of Independence - Wikipedia. https://en.wikipedia.org/wiki/Turkish_War_of_Independence
+
 [^48]: Mehmed VI | Reign of Abdülmecid, Last Caliph & Exile | Britannica. https://www.britannica.com/biography/Mehmed-VI
+
 [^49]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^50]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^51]: Damat Ferid Pasha - Wikipedia. https://en.wikipedia.org/wiki/Damad_Ferid_Pasha
+
 [^52]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^53]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^54]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^55]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^56]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^57]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^58]: Abolition of the Ottoman sultanate - Wikipedia. https://en.wikipedia.org/wiki/Abolition_of_the_Ottoman_sultanate
+
 [^59]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^60]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^61]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^62]: Nazikeda Kadın (wife of Mehmed VI) - Wikipedia. https://en.wikipedia.org/wiki/Nazikeda_Kad%C4%B1n_(wife_of_Mehmed_VI)
+
 [^63]: Mehmed VI facts for kids. https://kids.kiddle.co/Mehmed_VI
+
 [^64]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^65]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^66]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^67]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^68]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^69]: Mehmed VI facts for kids. https://kids.kiddle.co/Mehmed_VI
+
 [^70]: Ulviye Sultan - Wikipedia. https://en.wikipedia.org/wiki/Ulviye_Sultan
+
 [^71]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^72]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^73]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^74]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^75]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^76]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^77]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^78]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^79]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^80]: Remembering Sultan Mehmed VI Vahideddin: The Last Ottoman monarch - Türkiye Today. https://www.turkiyetoday.com/culture/remembering-sultan-mehmed-vi-vahideddin-the-last-ottoman-monarch-3201527
+
 [^81]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^82]: Mehmed VI | Reign of Abdülmecid, Last Caliph & Exile | Britannica. https://www.britannica.com/biography/Mehmed-VI
+
 [^83]: Abolition of the Ottoman sultanate - Wikipedia. https://en.wikipedia.org/wiki/Abolition_of_the_Ottoman_sultanate
+
 [^84]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^85]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^86]: Abolition of the Ottoman sultanate - Wikipedia. https://en.wikipedia.org/wiki/Abolition_of_the_Ottoman_sultanate
+
 [^87]: Abolition of the Ottoman sultanate - Wikipedia. https://en.wikipedia.org/wiki/Abolition_of_the_Ottoman_sultanate
+
 [^88]: Ottoman Caliphate - Wikipedia. https://en.wikipedia.org/wiki/Ottoman_Caliphate
+
 [^89]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^90]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^91]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^92]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^93]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^94]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^95]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^96]: Mehmed VI (1861-1926) - Find a Grave Memorial. https://www.findagrave.com/memorial/175481083/mehmed_vi
+
 [^97]: Remembering Sultan Mehmed VI Vahideddin: The Last Ottoman monarch - Türkiye Today. https://www.turkiyetoday.com/culture/remembering-sultan-mehmed-vi-vahideddin-the-last-ottoman-monarch-3201527
+
 [^98]: Remembering Sultan Mehmed VI Vahideddin: The Last Ottoman monarch - Türkiye Today. https://www.turkiyetoday.com/culture/remembering-sultan-mehmed-vi-vahideddin-the-last-ottoman-monarch-3201527
+
 [^99]: Mehmed VI (1861-1926) - Find a Grave Memorial. https://www.findagrave.com/memorial/175481083/mehmed_vi
+
 [^100]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^101]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^102]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^103]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^104]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^105]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^106]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^107]: Damat Ferid Pasha - Wikipedia. https://en.wikipedia.org/wiki/Damad_Ferid_Pasha
+
 [^108]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^109]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^110]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^111]: Mehmed VI Biography - Facts, Childhood, Family Life & Achievements. https://www.thefamouspeople.com/profiles/mehmed-vi-37426.php
+
 [^112]: Mehmed VI: The Last Sultan of the Ottoman Empire - World History Edu. https://worldhistoryedu.com/mehmed-vi-last-ottoman-sultan/
+
 [^113]: Mehmed VI - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Mehmed_VI
+
 [^114]: Abolition of the Ottoman sultanate - Wikipedia. https://en.wikipedia.org/wiki/Abolition_of_the_Ottoman_sultanate
+
 [^115]: Istanbul trials of 1919–1920 - Wikipedia. https://en.wikipedia.org/wiki/Turkish_Courts-Martial_of_1919-20
+
 [^116]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI
+
 [^117]: Mehmed VI - Wikipedia. https://en.wikipedia.org/wiki/Mehmed_VI

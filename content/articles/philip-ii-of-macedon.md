@@ -139,29 +139,29 @@ Modern assessments also note the destructive aspects of Philip's legacy. While h
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 382 BC | Birth of Philip in Pella, Macedonia |
-| 368 BC | Elder brother King Alexander II assassinated |
-| 367 BC | Sent as hostage to Thebes; studies under Epaminondas |
-| 364 BC | Returns to Macedonia from Thebes |
-| 359 BC | Brother Perdiccas III killed fighting Illyrians; Philip becomes regent |
-| 359 BC | Assumes kingship, setting aside nephew Amyntas IV |
-| 358 BC | Defeats Illyrian king Bardylis at Battle of Erigon Valley |
-| 357 BC | Captures Amphipolis; marries Olympias of Epirus |
-| 356 BC | Birth of son Alexander; captures Potidaea and Pydna; Third Sacred War begins |
-| 354 BC | Loses right eye to arrow at siege of Methone |
+| Year   | Event                                                                          |
+| ------ | ------------------------------------------------------------------------------ |
+| 382 BC | Birth of Philip in Pella, Macedonia                                            |
+| 368 BC | Elder brother King Alexander II assassinated                                   |
+| 367 BC | Sent as hostage to Thebes; studies under Epaminondas                           |
+| 364 BC | Returns to Macedonia from Thebes                                               |
+| 359 BC | Brother Perdiccas III killed fighting Illyrians; Philip becomes regent         |
+| 359 BC | Assumes kingship, setting aside nephew Amyntas IV                              |
+| 358 BC | Defeats Illyrian king Bardylis at Battle of Erigon Valley                      |
+| 357 BC | Captures Amphipolis; marries Olympias of Epirus                                |
+| 356 BC | Birth of son Alexander; captures Potidaea and Pydna; Third Sacred War begins   |
+| 354 BC | Loses right eye to arrow at siege of Methone                                   |
 | 352 BC | Gains control of Thessaly; blocked from entering central Greece at Thermopylae |
-| 348 BC | Destroys Olynthus completely, enslaving population |
-| 346 BC | Peace of Philocrates with Athens; end of Third Sacred War |
-| 342 BC | Campaigns in Thrace, extending Macedonian control eastward |
-| 340 BC | Besieges Perinthus and Byzantium (unsuccessfully) |
-| 339 BC | Fourth Sacred War begins; Philip intervenes in central Greece |
-| 338 BC | Battle of Chaeronea: defeats combined Theban-Athenian army |
-| 337 BC | League of Corinth established; Philip elected hegemon; declares war on Persia |
-| 337 BC | Marries Cleopatra Eurydice; conflict with Alexander and Olympias |
-| 336 BC | Advance force sent to Asia Minor to prepare Persian invasion |
-| 336 BC | Assassinated by Pausanias at Aegae during daughter's wedding |
+| 348 BC | Destroys Olynthus completely, enslaving population                             |
+| 346 BC | Peace of Philocrates with Athens; end of Third Sacred War                      |
+| 342 BC | Campaigns in Thrace, extending Macedonian control eastward                     |
+| 340 BC | Besieges Perinthus and Byzantium (unsuccessfully)                              |
+| 339 BC | Fourth Sacred War begins; Philip intervenes in central Greece                  |
+| 338 BC | Battle of Chaeronea: defeats combined Theban-Athenian army                     |
+| 337 BC | League of Corinth established; Philip elected hegemon; declares war on Persia  |
+| 337 BC | Marries Cleopatra Eurydice; conflict with Alexander and Olympias               |
+| 336 BC | Advance force sent to Asia Minor to prepare Persian invasion                   |
+| 336 BC | Assassinated by Pausanias at Aegae during daughter's wedding                   |
 
 ---
 
@@ -181,27 +181,27 @@ Modern assessments also note the destructive aspects of Philip's legacy. While h
 
 ## References
 
-[^1]: Hammond, N.G.L. & Griffith, G.T. (1979). *A History of Macedonia, Volume II: 550-336 B.C.* Oxford: Clarendon Press, pp. 203-205.
+[^1]: Hammond, N.G.L. & Griffith, G.T. (1979). _A History of Macedonia, Volume II: 550-336 B.C._ Oxford: Clarendon Press, pp. 203-205.
 
-[^2]: Borza, Eugene N. (1990). *In the Shadow of Olympus: The Emergence of Macedon*. Princeton: Princeton University Press, pp. 200-202.
+[^2]: Borza, Eugene N. (1990). _In the Shadow of Olympus: The Emergence of Macedon_. Princeton: Princeton University Press, pp. 200-202.
 
-[^3]: Worthington, Ian (2008). *Philip II of Macedonia*. New Haven: Yale University Press, pp. 23-26.
+[^3]: Worthington, Ian (2008). _Philip II of Macedonia_. New Haven: Yale University Press, pp. 23-26.
 
-[^4]: Ellis, J.R. (1976). *Philip II and Macedonian Imperialism*. London: Thames and Hudson, pp. 43-45.
+[^4]: Ellis, J.R. (1976). _Philip II and Macedonian Imperialism_. London: Thames and Hudson, pp. 43-45.
 
 [^5]: Hammond (1979), pp. 172-174.
 
-[^6]: Diodorus Siculus, *Library of History*, 16.2.4-5.
+[^6]: Diodorus Siculus, _Library of History_, 16.2.4-5.
 
-[^7]: Justin, *Epitome of Pompeius Trogus*, 7.5.9-10; Worthington (2008), pp. 28-30.
+[^7]: Justin, _Epitome of Pompeius Trogus_, 7.5.9-10; Worthington (2008), pp. 28-30.
 
 [^8]: Diodorus Siculus 16.3.1-4; Ellis (1976), pp. 48-52.
 
 [^9]: Worthington (2008), pp. 31-35.
 
-[^10]: Gabriel, Richard A. (2010). *Philip II of Macedonia: Greater Than Alexander*. Washington: Potomac Books, pp. 65-72.
+[^10]: Gabriel, Richard A. (2010). _Philip II of Macedonia: Greater Than Alexander_. Washington: Potomac Books, pp. 65-72.
 
-[^11]: Sekunda, Nick (2010). "The Macedonian Army," in Roisman, Joseph & Worthington, Ian (eds.), *A Companion to Ancient Macedonia*. Oxford: Wiley-Blackwell, pp. 446-471.
+[^11]: Sekunda, Nick (2010). "The Macedonian Army," in Roisman, Joseph & Worthington, Ian (eds.), _A Companion to Ancient Macedonia_. Oxford: Wiley-Blackwell, pp. 446-471.
 
 [^12]: Diodorus Siculus 16.4.3-7; Hammond (1979), pp. 207-209.
 
@@ -209,53 +209,53 @@ Modern assessments also note the destructive aspects of Philip's legacy. While h
 
 [^14]: Diodorus Siculus 16.8.6-7; Worthington (2008), pp. 46-48.
 
-[^15]: Plutarch, *Life of Alexander*, 2.2; Carney, Elizabeth (2006). *Olympias: Mother of Alexander the Great*. New York: Routledge, pp. 24-28.
+[^15]: Plutarch, _Life of Alexander_, 2.2; Carney, Elizabeth (2006). _Olympias: Mother of Alexander the Great_. New York: Routledge, pp. 24-28.
 
 [^16]: Diodorus Siculus 16.8.3-5, 16.31.6; Ellis (1976), pp. 63-79.
 
-[^17]: Buckler, John (1989). *Philip II and the Sacred War*. Leiden: Brill, pp. 1-23.
+[^17]: Buckler, John (1989). _Philip II and the Sacred War_. Leiden: Brill, pp. 1-23.
 
 [^18]: Gabriel (2010), pp. 65-78.
 
-[^19]: Devine, A.M. (1975). "Grand Tactics at the Battle of Issus," *Ancient World* 12, pp. 39-59.
+[^19]: Devine, A.M. (1975). "Grand Tactics at the Battle of Issus," _Ancient World_ 12, pp. 39-59.
 
-[^20]: Marsden, E.W. (1969). *Greek and Roman Artillery: Historical Development*. Oxford: Clarendon Press, pp. 56-64.
+[^20]: Marsden, E.W. (1969). _Greek and Roman Artillery: Historical Development_. Oxford: Clarendon Press, pp. 56-64.
 
-[^21]: Engels, Donald W. (1978). *Alexander the Great and the Logistics of the Macedonian Army*. Berkeley: University of California Press, pp. 11-15.
+[^21]: Engels, Donald W. (1978). _Alexander the Great and the Logistics of the Macedonian Army_. Berkeley: University of California Press, pp. 11-15.
 
 [^22]: Gabriel (2010), pp. 85-92.
 
-[^23]: Diodorus Siculus 16.54.3; Plutarch, *Moralia*, 178b.
+[^23]: Diodorus Siculus 16.54.3; Plutarch, _Moralia_, 178b.
 
-[^24]: Cawkwell, G.L. (1978). *Philip of Macedon*. London: Faber and Faber, pp. 83-98.
+[^24]: Cawkwell, G.L. (1978). _Philip of Macedon_. London: Faber and Faber, pp. 83-98.
 
-[^25]: Carney, Elizabeth (2000). *Women and Monarchy in Macedonia*. Norman: University of Oklahoma Press, pp. 56-89.
+[^25]: Carney, Elizabeth (2000). _Women and Monarchy in Macedonia_. Norman: University of Oklahoma Press, pp. 56-89.
 
-[^26]: Aeschines, *On the Embassy*, 2.111-115; Demosthenes, *On the Peace*, 5.3-25.
+[^26]: Aeschines, _On the Embassy_, 2.111-115; Demosthenes, _On the Peace_, 5.3-25.
 
-[^27]: Diodorus Siculus 16.85-86; Plutarch, *Life of Demosthenes*, 20.
+[^27]: Diodorus Siculus 16.85-86; Plutarch, _Life of Demosthenes_, 20.
 
-[^28]: Diodorus Siculus 16.86.1-6; Hammond, N.G.L. (1996). "The Battle of Chaeronea," in *Studies in Greek History*. Oxford: Clarendon Press, pp. 534-558.
+[^28]: Diodorus Siculus 16.86.1-6; Hammond, N.G.L. (1996). "The Battle of Chaeronea," in _Studies in Greek History_. Oxford: Clarendon Press, pp. 534-558.
 
-[^29]: Diodorus Siculus 16.89.1-3; Rhodes, P.J. & Osborne, R. (2003). *Greek Historical Inscriptions, 404-323 BC*. Oxford: Oxford University Press, no. 76.
+[^29]: Diodorus Siculus 16.89.1-3; Rhodes, P.J. & Osborne, R. (2003). _Greek Historical Inscriptions, 404-323 BC_. Oxford: Oxford University Press, no. 76.
 
 [^30]: Diodorus Siculus 16.89.2-3; Justin 9.5.1-5.
 
 [^31]: Borza (1990), pp. 231-249.
 
-[^32]: Plutarch, *Life of Alexander*, 7.2-3; Hatzopoulos, M.B. (1996). *Macedonian Institutions Under the Kings*. Athens: Research Centre for Greek and Roman Antiquity, pp. 261-322.
+[^32]: Plutarch, _Life of Alexander_, 7.2-3; Hatzopoulos, M.B. (1996). _Macedonian Institutions Under the Kings_. Athens: Research Centre for Greek and Roman Antiquity, pp. 261-322.
 
 [^33]: Borza (1990), pp. 216-230.
 
-[^34]: Demosthenes, *First Philippic*, 4; *Olynthiacs*, 1-3; *Third Philippic*, 9.
+[^34]: Demosthenes, _First Philippic_, 4; _Olynthiacs_, 1-3; _Third Philippic_, 9.
 
-[^35]: Worthington, Ian (2013). *Demosthenes of Athens and the Fall of Classical Greece*. Oxford: Oxford University Press, pp. 145-178.
+[^35]: Worthington, Ian (2013). _Demosthenes of Athens and the Fall of Classical Greece_. Oxford: Oxford University Press, pp. 145-178.
 
 [^36]: Ellis (1976), pp. 57-58.
 
-[^37]: Aeschines, *Against Ctesiphon*, 3.239-240; Demosthenes, *On the Crown*, 18.48-52.
+[^37]: Aeschines, _Against Ctesiphon_, 3.239-240; Demosthenes, _On the Crown_, 18.48-52.
 
-[^38]: Diodorus Siculus 16.53.1-3; Demosthenes, *On the Crown*, 18.71.
+[^38]: Diodorus Siculus 16.53.1-3; Demosthenes, _On the Crown_, 18.71.
 
 [^39]: Borza (1990), pp. 241-245.
 
@@ -263,13 +263,13 @@ Modern assessments also note the destructive aspects of Philip's legacy. While h
 
 [^41]: Justin 9.7.2; 11.2.3; 12.6.14.
 
-[^42]: Athenaeus, *Deipnosophistae*, 13.557d-e; Plutarch, *Life of Alexander*, 9.4-5.
+[^42]: Athenaeus, _Deipnosophistae_, 13.557d-e; Plutarch, _Life of Alexander_, 9.4-5.
 
 [^43]: Carney (2000), pp. 56-89.
 
 [^44]: Athenaeus 13.557d-e.
 
-[^45]: Plutarch, *Life of Alexander*, 9.3-11; Athenaeus 13.557d-e; Satyr us FGrH 631 F 5.
+[^45]: Plutarch, _Life of Alexander_, 9.3-11; Athenaeus 13.557d-e; Satyr us FGrH 631 F 5.
 
 [^46]: Cawkwell (1978), pp. 153-170.
 
@@ -277,73 +277,73 @@ Modern assessments also note the destructive aspects of Philip's legacy. While h
 
 [^48]: Carney (2000), pp. 56-89.
 
-[^49]: Plutarch, *Life of Alexander*, 2.2; Justin 9.5.8.
+[^49]: Plutarch, _Life of Alexander_, 2.2; Justin 9.5.8.
 
-[^50]: Plutarch, *Life of Alexander*, 2.3-5; Carney (2006), pp. 15-45.
+[^50]: Plutarch, _Life of Alexander_, 2.3-5; Carney (2006), pp. 15-45.
 
-[^51]: Plutarch, *Life of Alexander*, 9.3-4; Athenaeus 13.557d-e.
+[^51]: Plutarch, _Life of Alexander_, 9.3-4; Athenaeus 13.557d-e.
 
-[^52]: Plutarch, *Life of Alexander*, 9.4-5.
+[^52]: Plutarch, _Life of Alexander_, 9.4-5.
 
-[^53]: Plutarch, *Life of Alexander*, 9.6; Justin 9.7.2-5.
+[^53]: Plutarch, _Life of Alexander_, 9.6; Justin 9.7.2-5.
 
-[^54]: Didymus, *Commentary on Demosthenes*, 12.43-45; Diodorus Siculus 16.31.6, 16.34.5.
+[^54]: Didymus, _Commentary on Demosthenes_, 12.43-45; Diodorus Siculus 16.31.6, 16.34.5.
 
-[^55]: Musgrave, J.H. et al. (1984). "The Skull from Tomb II at Vergina: King Philip II of Macedon," *Journal of Hellenic Studies* 104, pp. 60-78; Bartsiokas, A. (2000). "The Eye Injury of King Philip II and the Skeletal Evidence from the Royal Tomb II at Vergina," *Science* 288, pp. 511-514.
+[^55]: Musgrave, J.H. et al. (1984). "The Skull from Tomb II at Vergina: King Philip II of Macedon," _Journal of Hellenic Studies_ 104, pp. 60-78; Bartsiokas, A. (2000). "The Eye Injury of King Philip II and the Skeletal Evidence from the Royal Tomb II at Vergina," _Science_ 288, pp. 511-514.
 
 [^56]: Gabriel (2010), pp. 195-198.
 
 [^57]: Worthington (2008), pp. 175-180.
 
-[^58]: Plutarch, *Life of Alexander*, 7.2-3; Diogenes Laertius, *Lives of Eminent Philosophers*, 5.4.
+[^58]: Plutarch, _Life of Alexander_, 7.2-3; Diogenes Laertius, _Lives of Eminent Philosophers_, 5.4.
 
 [^59]: Borza (1990), pp. 200-215.
 
 [^60]: Gabriel (2010), pp. 195-212.
 
-[^61]: Demosthenes, *Second Olynthiac*, 2.7-10.
+[^61]: Demosthenes, _Second Olynthiac_, 2.7-10.
 
-[^62]: Diodorus Siculus 16.91-94; Plutarch, *Life of Alexander*, 10.4; Justin 9.6-7.
+[^62]: Diodorus Siculus 16.91-94; Plutarch, _Life of Alexander_, 10.4; Justin 9.6-7.
 
-[^63]: Diodorus Siculus 16.93-94; Aristotle, *Politics*, 5.1311b; Justin 9.6.4-7.13.
+[^63]: Diodorus Siculus 16.93-94; Aristotle, _Politics_, 5.1311b; Justin 9.6.4-7.13.
 
-[^64]: Diodorus Siculus 16.94.3-4; Arrian, *Anabasis*, 1.25.1-2.
+[^64]: Diodorus Siculus 16.94.3-4; Arrian, _Anabasis_, 1.25.1-2.
 
 [^65]: Carney (2006), pp. 38-45; Worthington (2008), pp. 182-189.
 
-[^66]: Green, Peter (1991). *Alexander of Macedon, 356-323 B.C.: A Historical Biography*. Berkeley: University of California Press, pp. 58-87.
+[^66]: Green, Peter (1991). _Alexander of Macedon, 356-323 B.C.: A Historical Biography_. Berkeley: University of California Press, pp. 58-87.
 
-[^67]: Plutarch, *Moralia*, 177d-e, 327c.
+[^67]: Plutarch, _Moralia_, 177d-e, 327c.
 
 [^68]: Sekunda (2010), pp. 446-471.
 
-[^69]: Bosworth, A.B. (1988). *Conquest and Empire: The Reign of Alexander the Great*. Cambridge: Cambridge University Press, pp. 259-277.
+[^69]: Bosworth, A.B. (1988). _Conquest and Empire: The Reign of Alexander the Great_. Cambridge: Cambridge University Press, pp. 259-277.
 
 [^70]: Gabriel (2010), pp. 213-228.
 
 [^71]: Rhodes & Osborne (2003), no. 76.
 
-[^72]: Green, Peter (1990). *Alexander to Actium: The Historical Evolution of the Hellenistic Age*. Berkeley: University of California Press, pp. 1-8.
+[^72]: Green, Peter (1990). _Alexander to Actium: The Historical Evolution of the Hellenistic Age_. Berkeley: University of California Press, pp. 1-8.
 
 [^73]: Borza (1990), pp. 231-249.
 
-[^74]: Walbank, F.W. (1940). *Philip V of Macedon*. Cambridge: Cambridge University Press, pp. 1-15.
+[^74]: Walbank, F.W. (1940). _Philip V of Macedon_. Cambridge: Cambridge University Press, pp. 1-15.
 
-[^75]: Hansen, Mogens Herman (2006). *Polis: An Introduction to the Ancient Greek City-State*. Oxford: Oxford University Press, pp. 128-135.
+[^75]: Hansen, Mogens Herman (2006). _Polis: An Introduction to the Ancient Greek City-State_. Oxford: Oxford University Press, pp. 128-135.
 
 [^76]: Green (1990), pp. 1-41.
 
 [^77]: Hammond (1979), pp. 675-693.
 
-[^78]: Andronicos, Manolis (1984). *Vergina: The Royal Tombs*. Athens: Ekdotike Athenon, pp. 226-231.
+[^78]: Andronicos, Manolis (1984). _Vergina: The Royal Tombs_. Athens: Ekdotike Athenon, pp. 226-231.
 
-[^79]: Fuller, J.F.C. (1954). *The Decisive Battles of the Western World*, vol. 1. London: Eyre & Spottiswoode, pp. 93-110.
+[^79]: Fuller, J.F.C. (1954). _The Decisive Battles of the Western World_, vol. 1. London: Eyre & Spottiswoode, pp. 93-110.
 
 [^80]: Hammond (1979), p. 675.
 
 [^81]: Worthington (2008), pp. 190-195.
 
-[^82]: Worthington, Ian (2004). *Alexander the Great: Man and God*. London: Pearson, p. 12.
+[^82]: Worthington, Ian (2004). _Alexander the Great: Man and God_. London: Pearson, p. 12.
 
 [^83]: Green (1991), p. xxiv.
 
@@ -359,7 +359,7 @@ Modern assessments also note the destructive aspects of Philip's legacy. While h
 
 [^89]: Diodorus Siculus 16.1.6.
 
-[^90]: Demosthenes, *Third Philippic*, 9.30-33.
+[^90]: Demosthenes, _Third Philippic_, 9.30-33.
 
 [^91]: Bosworth, A.B. (1988), p. 259.
 
@@ -385,12 +385,12 @@ Modern assessments also note the destructive aspects of Philip's legacy. While h
 
 [^102]: Bosworth (1988), pp. 259-277.
 
-[^103]: Plutarch, *Moralia*, 178b; Diodorus Siculus 16.54.3.
+[^103]: Plutarch, _Moralia_, 178b; Diodorus Siculus 16.54.3.
 
-[^104]: Aelian, *Varia Historia*, 14.48.
+[^104]: Aelian, _Varia Historia_, 14.48.
 
-[^105]: Diodorus Siculus 16.3.8; similar sentiment in Demosthenes, *Second Olynthiac*, 2.7.
+[^105]: Diodorus Siculus 16.3.8; similar sentiment in Demosthenes, _Second Olynthiac_, 2.7.
 
 [^106]: Diodorus Siculus 16.54.2-4.
 
-[^107]: Plutarch, *Moralia*, 177d; *Apophthegmata Macedonica*, 2.
+[^107]: Plutarch, _Moralia_, 177d; _Apophthegmata Macedonica_, 2.

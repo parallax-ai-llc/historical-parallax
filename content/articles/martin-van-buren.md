@@ -4,7 +4,15 @@ name: "Martin Van Buren"
 birth: "1782-12-05"
 death: "1862-07-24"
 nationality: "United States"
-occupation: ["Politician", "Lawyer", "8th President of the United States", "8th Vice President", "Secretary of State", "Governor of New York"]
+occupation:
+  [
+    "Politician",
+    "Lawyer",
+    "8th President of the United States",
+    "8th Vice President",
+    "Secretary of State",
+    "Governor of New York",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Martin_Van_Buren_by_Mathew_Brady%2C_1855-58.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Martin_Van_Buren"
@@ -131,28 +139,28 @@ Critics also fault Van Buren for his lack of vision and leadership during his pr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1782 | Born December 5 in Kinderhook, New York |
-| 1796 | Begins studying law at age 14 |
-| 1803 | Admitted to the New York bar; marries Hannah Hoes |
-| 1808 | Appointed surrogate of Columbia County |
-| 1812 | Elected to New York State Senate |
-| 1815 | Appointed Attorney General of New York |
-| 1819 | Wife Hannah dies of tuberculosis |
-| 1821 | Elected to United States Senate; attends New York Constitutional Convention |
-| 1828 | Elected Governor of New York |
-| 1829 | Resigns as governor; appointed Secretary of State by Andrew Jackson |
-| 1831 | Resigns as Secretary of State |
+| Year | Event                                                                                      |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 1782 | Born December 5 in Kinderhook, New York                                                    |
+| 1796 | Begins studying law at age 14                                                              |
+| 1803 | Admitted to the New York bar; marries Hannah Hoes                                          |
+| 1808 | Appointed surrogate of Columbia County                                                     |
+| 1812 | Elected to New York State Senate                                                           |
+| 1815 | Appointed Attorney General of New York                                                     |
+| 1819 | Wife Hannah dies of tuberculosis                                                           |
+| 1821 | Elected to United States Senate; attends New York Constitutional Convention                |
+| 1828 | Elected Governor of New York                                                               |
+| 1829 | Resigns as governor; appointed Secretary of State by Andrew Jackson                        |
+| 1831 | Resigns as Secretary of State                                                              |
 | 1832 | Appointed Minister to Great Britain; nomination rejected by Senate; elected Vice President |
-| 1833 | Becomes Vice President under Andrew Jackson |
-| 1836 | Elected 8th President of the United States |
-| 1837 | Inaugurated as President on March 4; Panic of 1837 begins in May |
-| 1838 | Cherokee Trail of Tears occurs under his administration |
-| 1840 | Defeated for re-election by William Henry Harrison |
-| 1844 | Seeks Democratic nomination but is denied due to Texas annexation opposition |
-| 1848 | Runs for president as Free Soil Party candidate; wins 10% of popular vote |
-| 1862 | Dies July 24 in Kinderhook, New York, at age 79 |
+| 1833 | Becomes Vice President under Andrew Jackson                                                |
+| 1836 | Elected 8th President of the United States                                                 |
+| 1837 | Inaugurated as President on March 4; Panic of 1837 begins in May                           |
+| 1838 | Cherokee Trail of Tears occurs under his administration                                    |
+| 1840 | Defeated for re-election by William Henry Harrison                                         |
+| 1844 | Seeks Democratic nomination but is denied due to Texas annexation opposition               |
+| 1848 | Runs for president as Free Soil Party candidate; wins 10% of popular vote                  |
+| 1862 | Dies July 24 in Kinderhook, New York, at age 79                                            |
 
 ---
 
@@ -172,172 +180,172 @@ Critics also fault Van Buren for his lack of vision and leadership during his pr
 
 ## References
 
-[^1]: Niven, John. *Martin Van Buren: The Romantic Age of American Politics*. New York: Oxford University Press, 1983, pp. 3-5.
+[^1]: Niven, John. _Martin Van Buren: The Romantic Age of American Politics_. New York: Oxford University Press, 1983, pp. 3-5.
 
-[^2]: Cole, Donald B. *Martin Van Buren and the American Political System*. Princeton: Princeton University Press, 1984, pp. 8-10.
+[^2]: Cole, Donald B. _Martin Van Buren and the American Political System_. Princeton: Princeton University Press, 1984, pp. 8-10.
 
-[^3]: Wilson, Major L. *The Presidency of Martin Van Buren*. Lawrence: University Press of Kansas, 1984, p. 12.
+[^3]: Wilson, Major L. _The Presidency of Martin Van Buren_. Lawrence: University Press of Kansas, 1984, p. 12.
 
-[^4]: Remini, Robert V. *Martin Van Buren and the Making of the Democratic Party*. New York: Columbia University Press, 1959, pp. 2-4.
+[^4]: Remini, Robert V. _Martin Van Buren and the Making of the Democratic Party_. New York: Columbia University Press, 1959, pp. 2-4.
 
-[^5]: Widmer, Ted. *Martin Van Buren*. New York: Times Books, 2005, pp. 15-17.
+[^5]: Widmer, Ted. _Martin Van Buren_. New York: Times Books, 2005, pp. 15-17.
 
-[^6]: Niven, *Martin Van Buren*, pp. 20-22, 65-66.
+[^6]: Niven, _Martin Van Buren_, pp. 20-22, 65-66.
 
-[^7]: Cole, *Martin Van Buren and the American Political System*, pp. 25-27.
+[^7]: Cole, _Martin Van Buren and the American Political System_, pp. 25-27.
 
-[^8]: Hofstadter, Richard. *The Idea of a Party System: The Rise of Legitimate Opposition in the United States, 1780-1840*. Berkeley: University of California Press, 1969, pp. 224-230.
+[^8]: Hofstadter, Richard. _The Idea of a Party System: The Rise of Legitimate Opposition in the United States, 1780-1840_. Berkeley: University of California Press, 1969, pp. 224-230.
 
-[^9]: Remini, *Martin Van Buren and the Making of the Democratic Party*, pp. 15-20.
+[^9]: Remini, _Martin Van Buren and the Making of the Democratic Party_, pp. 15-20.
 
-[^10]: Silbey, Joel H. *Martin Van Buren and the Emergence of American Popular Politics*. Lanham, MD: Rowman & Littlefield, 2002, pp. 45-50.
+[^10]: Silbey, Joel H. _Martin Van Buren and the Emergence of American Popular Politics_. Lanham, MD: Rowman & Littlefield, 2002, pp. 45-50.
 
-[^11]: Wilson, *The Presidency of Martin Van Buren*, pp. 15-18.
+[^11]: Wilson, _The Presidency of Martin Van Buren_, pp. 15-18.
 
-[^12]: Baker, Jean H. *Affairs of Party: The Political Culture of Northern Democrats in the Mid-Nineteenth Century*. Ithaca: Cornell University Press, 1983, pp. 115-120.
+[^12]: Baker, Jean H. _Affairs of Party: The Political Culture of Northern Democrats in the Mid-Nineteenth Century_. Ithaca: Cornell University Press, 1983, pp. 115-120.
 
-[^13]: Niven, *Martin Van Buren*, pp. 195-205.
+[^13]: Niven, _Martin Van Buren_, pp. 195-205.
 
-[^14]: Cole, *Martin Van Buren and the American Political System*, pp. 180-195.
+[^14]: Cole, _Martin Van Buren and the American Political System_, pp. 180-195.
 
-[^15]: Silbey, *Martin Van Buren and the Emergence of American Popular Politics*, pp. 1-10.
+[^15]: Silbey, _Martin Van Buren and the Emergence of American Popular Politics_, pp. 1-10.
 
-[^16]: McCormick, Richard P. *The Second American Party System: Party Formation in the Jacksonian Era*. Chapel Hill: University of North Carolina Press, 1966, pp. 15-25.
+[^16]: McCormick, Richard P. _The Second American Party System: Party Formation in the Jacksonian Era_. Chapel Hill: University of North Carolina Press, 1966, pp. 15-25.
 
-[^17]: Wilson, *The Presidency of Martin Van Buren*, pp. 20-23.
+[^17]: Wilson, _The Presidency of Martin Van Buren_, pp. 20-23.
 
-[^18]: Niven, *Martin Van Buren*, pp. 220-235.
+[^18]: Niven, _Martin Van Buren_, pp. 220-235.
 
-[^19]: Remini, Robert V. *Andrew Jackson and the Bank War*. New York: Norton, 1967, pp. 95-110.
+[^19]: Remini, Robert V. _Andrew Jackson and the Bank War_. New York: Norton, 1967, pp. 95-110.
 
-[^20]: Watson, Harry L. *Liberty and Power: The Politics of Jacksonian America*. New York: Hill and Wang, 1990, pp. 165-175.
+[^20]: Watson, Harry L. _Liberty and Power: The Politics of Jacksonian America_. New York: Hill and Wang, 1990, pp. 165-175.
 
-[^21]: Timberlake, Richard H. *Monetary Policy in the United States: An Intellectual and Institutional History*. Chicago: University of Chicago Press, 1993, pp. 45-50.
+[^21]: Timberlake, Richard H. _Monetary Policy in the United States: An Intellectual and Institutional History_. Chicago: University of Chicago Press, 1993, pp. 45-50.
 
-[^22]: Wilson, *The Presidency of Martin Van Buren*, pp. 95-110.
+[^22]: Wilson, _The Presidency of Martin Van Buren_, pp. 95-110.
 
-[^23]: Merk, Frederick. *Slavery and the Annexation of Texas*. New York: Knopf, 1972, pp. 30-45.
+[^23]: Merk, Frederick. _Slavery and the Annexation of Texas_. New York: Knopf, 1972, pp. 30-45.
 
-[^24]: Stevens, Kenneth R. *Border Diplomacy: The Caroline and McLeod Affairs in Anglo-American-Canadian Relations, 1837-1842*. Tuscaloosa: University of Alabama Press, 1989, pp. 55-70.
+[^24]: Stevens, Kenneth R. _Border Diplomacy: The Caroline and McLeod Affairs in Anglo-American-Canadian Relations, 1837-1842_. Tuscaloosa: University of Alabama Press, 1989, pp. 55-70.
 
-[^25]: Saunt, Claudio. *Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory*. New York: W.W. Norton, 2020, pp. 245-260.
+[^25]: Saunt, Claudio. _Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory_. New York: W.W. Norton, 2020, pp. 245-260.
 
-[^26]: Remini, Robert V. *The Legacy of Andrew Jackson: Essays on Democracy, Indian Removal, and Slavery*. Baton Rouge: Louisiana State University Press, 1988, pp. 75-90.
+[^26]: Remini, Robert V. _The Legacy of Andrew Jackson: Essays on Democracy, Indian Removal, and Slavery_. Baton Rouge: Louisiana State University Press, 1988, pp. 75-90.
 
-[^27]: Temin, Peter. *The Jacksonian Economy*. New York: Norton, 1969, pp. 113-147.
+[^27]: Temin, Peter. _The Jacksonian Economy_. New York: Norton, 1969, pp. 113-147.
 
-[^28]: Rousseau, Peter L. "Jacksonian Monetary Policy, Specie Flows, and the Panic of 1837." *Journal of Economic History* 62, no. 2 (2002): 457-488.
+[^28]: Rousseau, Peter L. "Jacksonian Monetary Policy, Specie Flows, and the Panic of 1837." _Journal of Economic History_ 62, no. 2 (2002): 457-488.
 
-[^29]: Wilson, *The Presidency of Martin Van Buren*, pp. 80-95.
+[^29]: Wilson, _The Presidency of Martin Van Buren_, pp. 80-95.
 
-[^30]: Cole, *Martin Van Buren and the American Political System*, pp. 340-360.
+[^30]: Cole, _Martin Van Buren and the American Political System_, pp. 340-360.
 
-[^31]: Richards, Leonard L. *The Slave Power: The Free North and Southern Domination, 1780-1860*. Baton Rouge: Louisiana State University Press, 2000, pp. 105-120.
+[^31]: Richards, Leonard L. _The Slave Power: The Free North and Southern Domination, 1780-1860_. Baton Rouge: Louisiana State University Press, 2000, pp. 105-120.
 
-[^32]: Blue, Frederick J. *The Free Soilers: Third Party Politics, 1848-54*. Urbana: University of Illinois Press, 1973, pp. 15-25.
+[^32]: Blue, Frederick J. _The Free Soilers: Third Party Politics, 1848-54_. Urbana: University of Illinois Press, 1973, pp. 15-25.
 
-[^33]: Saunt, *Unworthy Republic*, pp. 280-310.
+[^33]: Saunt, _Unworthy Republic_, pp. 280-310.
 
-[^34]: Prucha, Francis Paul. *The Great Father: The United States Government and the American Indians*. Lincoln: University of Nebraska Press, 1984, vol. 1, pp. 240-255.
+[^34]: Prucha, Francis Paul. _The Great Father: The United States Government and the American Indians_. Lincoln: University of Nebraska Press, 1984, vol. 1, pp. 240-255.
 
-[^35]: Widmer, *Martin Van Buren*, pp. 35-40.
+[^35]: Widmer, _Martin Van Buren_, pp. 35-40.
 
-[^36]: Hofstadter, *The Idea of a Party System*, pp. 240-250.
+[^36]: Hofstadter, _The Idea of a Party System_, pp. 240-250.
 
-[^37]: Gunderson, Robert Gray. *The Log-Cabin Campaign*. Lexington: University of Kentucky Press, 1957, pp. 90-120.
+[^37]: Gunderson, Robert Gray. _The Log-Cabin Campaign_. Lexington: University of Kentucky Press, 1957, pp. 90-120.
 
-[^38]: Holt, Michael F. *The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War*. New York: Oxford University Press, 1999, pp. 105-125.
+[^38]: Holt, Michael F. _The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of the Civil War_. New York: Oxford University Press, 1999, pp. 105-125.
 
-[^39]: Niven, *Martin Van Buren*, pp. 20-22.
+[^39]: Niven, _Martin Van Buren_, pp. 20-22.
 
-[^40]: Cole, *Martin Van Buren and the American Political System*, pp. 65-68.
+[^40]: Cole, _Martin Van Buren and the American Political System_, pp. 65-68.
 
-[^41]: Widmer, *Martin Van Buren*, pp. 45-50.
+[^41]: Widmer, _Martin Van Buren_, pp. 45-50.
 
-[^42]: Curtis, James C. *The Fox at Bay: Martin Van Buren and the Presidency, 1837-1841*. Lexington: University Press of Kentucky, 1970, pp. 10-15.
+[^42]: Curtis, James C. _The Fox at Bay: Martin Van Buren and the Presidency, 1837-1841_. Lexington: University Press of Kentucky, 1970, pp. 10-15.
 
-[^43]: Niven, *Martin Van Buren*, pp. 575-590.
+[^43]: Niven, _Martin Van Buren_, pp. 575-590.
 
-[^44]: Silbey, *Martin Van Buren and the Emergence of American Popular Politics*, pp. 15-20.
+[^44]: Silbey, _Martin Van Buren and the Emergence of American Popular Politics_, pp. 15-20.
 
-[^45]: Cole, *Martin Van Buren and the American Political System*, pp. 420-430.
+[^45]: Cole, _Martin Van Buren and the American Political System_, pp. 420-430.
 
-[^46]: Wilson, *The Presidency of Martin Van Buren*, pp. 5-8.
+[^46]: Wilson, _The Presidency of Martin Van Buren_, pp. 5-8.
 
-[^47]: Merk, *Slavery and the Annexation of Texas*, pp. 55-75.
+[^47]: Merk, _Slavery and the Annexation of Texas_, pp. 55-75.
 
-[^48]: Blue, *The Free Soilers*, pp. 45-70.
+[^48]: Blue, _The Free Soilers_, pp. 45-70.
 
-[^49]: Taranto, James, and Leonard Leo, eds. *Presidential Leadership: Rating the Best and the Worst in the White House*. New York: Wall Street Journal Books, 2004, pp. 45-50.
+[^49]: Taranto, James, and Leonard Leo, eds. _Presidential Leadership: Rating the Best and the Worst in the White House_. New York: Wall Street Journal Books, 2004, pp. 45-50.
 
-[^50]: Silbey, *Martin Van Buren and the Emergence of American Popular Politics*, pp. 185-195.
+[^50]: Silbey, _Martin Van Buren and the Emergence of American Popular Politics_, pp. 185-195.
 
-[^51]: McCormick, *The Second American Party System*, pp. 340-355.
+[^51]: McCormick, _The Second American Party System_, pp. 340-355.
 
-[^52]: Aldrich, John H. *Why Parties? The Origin and Transformation of Political Parties in America*. Chicago: University of Chicago Press, 1995, pp. 95-125.
+[^52]: Aldrich, John H. _Why Parties? The Origin and Transformation of Political Parties in America_. Chicago: University of Chicago Press, 1995, pp. 95-125.
 
-[^53]: Watson, *Liberty and Power*, pp. 240-260.
+[^53]: Watson, _Liberty and Power_, pp. 240-260.
 
-[^54]: Baker, *Affairs of Party*, pp. 280-295.
+[^54]: Baker, _Affairs of Party_, pp. 280-295.
 
-[^55]: Stevens, *Border Diplomacy*, pp. 155-175.
+[^55]: Stevens, _Border Diplomacy_, pp. 155-175.
 
-[^56]: Niven, *Martin Van Buren*, pp. 420-440.
+[^56]: Niven, _Martin Van Buren_, pp. 420-440.
 
-[^57]: Timberlake, *Monetary Policy in the United States*, pp. 85-95.
+[^57]: Timberlake, _Monetary Policy in the United States_, pp. 85-95.
 
-[^58]: Schlesinger, Arthur M., Jr. *The Age of Jackson*. Boston: Little, Brown, 1945, pp. 220-240.
+[^58]: Schlesinger, Arthur M., Jr. _The Age of Jackson_. Boston: Little, Brown, 1945, pp. 220-240.
 
-[^59]: Blue, *The Free Soilers*, pp. 90-110.
+[^59]: Blue, _The Free Soilers_, pp. 90-110.
 
-[^60]: Foner, Eric. *Free Soil, Free Labor, Free Men: The Ideology of the Republican Party Before the Civil War*. New York: Oxford University Press, 1970, pp. 125-140.
+[^60]: Foner, Eric. _Free Soil, Free Labor, Free Men: The Ideology of the Republican Party Before the Civil War_. New York: Oxford University Press, 1970, pp. 125-140.
 
-[^61]: Silbey, *Martin Van Buren and the Emergence of American Popular Politics*, p. 2.
+[^61]: Silbey, _Martin Van Buren and the Emergence of American Popular Politics_, p. 2.
 
-[^62]: Silbey, Joel H. *The American Political Nation, 1838-1893*. Stanford: Stanford University Press, 1991, pp. 25-40.
+[^62]: Silbey, Joel H. _The American Political Nation, 1838-1893_. Stanford: Stanford University Press, 1991, pp. 25-40.
 
-[^63]: Cole, *Martin Van Buren and the American Political System*, pp. 435-445.
+[^63]: Cole, _Martin Van Buren and the American Political System_, pp. 435-445.
 
-[^64]: Formisano, Ronald P. "Political Character, Antipartyism and the Second Party System." *American Quarterly* 21, no. 4 (1969): 683-709.
+[^64]: Formisano, Ronald P. "Political Character, Antipartyism and the Second Party System." _American Quarterly_ 21, no. 4 (1969): 683-709.
 
-[^65]: Hammond, Bray. *Banks and Politics in America: From the Revolution to the Civil War*. Princeton: Princeton University Press, 1957, pp. 450-470.
+[^65]: Hammond, Bray. _Banks and Politics in America: From the Revolution to the Civil War_. Princeton: Princeton University Press, 1957, pp. 450-470.
 
-[^66]: Wilson, *The Presidency of Martin Van Buren*, pp. 180-190.
+[^66]: Wilson, _The Presidency of Martin Van Buren_, pp. 180-190.
 
-[^67]: Niven, *Martin Van Buren*, pp. 440-460.
+[^67]: Niven, _Martin Van Buren_, pp. 440-460.
 
-[^68]: Jones, Howard. *To the Webster-Ashburton Treaty: A Study in Anglo-American Relations, 1783-1843*. Chapel Hill: University of North Carolina Press, 1977, pp. 35-50.
+[^68]: Jones, Howard. _To the Webster-Ashburton Treaty: A Study in Anglo-American Relations, 1783-1843_. Chapel Hill: University of North Carolina Press, 1977, pp. 35-50.
 
-[^69]: Wilentz, Sean. *The Rise of American Democracy: Jefferson to Lincoln*. New York: Norton, 2005, pp. 345-365.
+[^69]: Wilentz, Sean. _The Rise of American Democracy: Jefferson to Lincoln_. New York: Norton, 2005, pp. 345-365.
 
-[^70]: Silbey, *Martin Van Buren and the Emergence of American Popular Politics*, pp. 165-180.
+[^70]: Silbey, _Martin Van Buren and the Emergence of American Popular Politics_, pp. 165-180.
 
-[^71]: Howe, Daniel Walker. *What Hath God Wrought: The Transformation of America, 1815-1848*. New York: Oxford University Press, 2007, p. 486.
+[^71]: Howe, Daniel Walker. _What Hath God Wrought: The Transformation of America, 1815-1848_. New York: Oxford University Press, 2007, p. 486.
 
-[^72]: Richards, *The Slave Power*, pp. 140-160.
+[^72]: Richards, _The Slave Power_, pp. 140-160.
 
-[^73]: Saunt, *Unworthy Republic*, pp. 330-345.
+[^73]: Saunt, _Unworthy Republic_, pp. 330-345.
 
-[^74]: Saunt, Claudio. "The Paradox of Freedom: Tribal Sovereignty and Emancipation during the Reconstruction of Indian Territory." *Journal of Southern History* 70, no. 1 (2004): 63-94.
+[^74]: Saunt, Claudio. "The Paradox of Freedom: Tribal Sovereignty and Emancipation during the Reconstruction of Indian Territory." _Journal of Southern History_ 70, no. 1 (2004): 63-94.
 
-[^75]: Temin, *The Jacksonian Economy*, pp. 160-175.
+[^75]: Temin, _The Jacksonian Economy_, pp. 160-175.
 
-[^76]: Schlesinger, *The Age of Jackson*, pp. 260-280.
+[^76]: Schlesinger, _The Age of Jackson_, pp. 260-280.
 
-[^77]: Hofstadter, Richard. *The American Political Tradition and the Men Who Made It*. New York: Knopf, 1948, pp. 55-75.
+[^77]: Hofstadter, Richard. _The American Political Tradition and the Men Who Made It_. New York: Knopf, 1948, pp. 55-75.
 
-[^78]: White, Leonard D. *The Jacksonians: A Study in Administrative History, 1829-1861*. New York: Macmillan, 1954, pp. 300-320.
+[^78]: White, Leonard D. _The Jacksonians: A Study in Administrative History, 1829-1861_. New York: Macmillan, 1954, pp. 300-320.
 
-[^79]: Curtis, *The Fox at Bay*, pp. 180-195.
+[^79]: Curtis, _The Fox at Bay_, pp. 180-195.
 
-[^80]: Taranto and Leo, *Presidential Leadership*, pp. 52-55.
+[^80]: Taranto and Leo, _Presidential Leadership_, pp. 52-55.
 
-[^81]: Van Buren, Martin. *The Autobiography of Martin Van Buren*, ed. John C. Fitzpatrick. Washington: Government Printing Office, 1920, p. 654.
+[^81]: Van Buren, Martin. _The Autobiography of Martin Van Buren_, ed. John C. Fitzpatrick. Washington: Government Printing Office, 1920, p. 654.
 
-[^82]: Richardson, James D., ed. *A Compilation of the Messages and Papers of the Presidents*. New York: Bureau of National Literature, 1897, vol. 3, p. 344.
+[^82]: Richardson, James D., ed. _A Compilation of the Messages and Papers of the Presidents_. New York: Bureau of National Literature, 1897, vol. 3, p. 344.
 
-[^83]: Van Buren, Martin. *Inquiry into the Origin and Course of Political Parties in the United States*. New York: Hurd and Houghton, 1867, p. 189.
+[^83]: Van Buren, Martin. _Inquiry into the Origin and Course of Political Parties in the United States_. New York: Hurd and Houghton, 1867, p. 189.
 
-[^84]: Richardson, *Messages and Papers of the Presidents*, vol. 3, p. 313.
+[^84]: Richardson, _Messages and Papers of the Presidents_, vol. 3, p. 313.
 
-[^85]: Richardson, *Messages and Papers of the Presidents*, vol. 3, p. 356.
+[^85]: Richardson, _Messages and Papers of the Presidents_, vol. 3, p. 356.

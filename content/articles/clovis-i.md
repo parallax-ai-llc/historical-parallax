@@ -175,24 +175,24 @@ Scholars studying late antiquity have sometimes portrayed Clovis less favorably 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 466 | Birth of Clovis in Tournai |
-| 481/482 | Becomes king of the Salian Franks after death of his father Childeric I |
-| 486 | Defeats Syagrius at the Battle of Soissons, conquers the Domain of Soissons |
-| c. 493 | Marries Clotilde, Burgundian princess and Catholic Christian |
-| c. 496 | Defeats the Alemanni at the Battle of Tolbiac |
-| 496 (or 508) | Converts to Catholic Christianity and is baptized by Saint Remigius in Reims |
-| c. 500 | Campaigns against the Burgundians (inconclusive) |
-| 507 | Defeats and kills Alaric II at the Battle of Vouillé, conquers most of Visigothic Gaul |
-| c. 507-511 | Promulgates the Lex Salica (Salic Law) |
-| 508 | Receives title of honorary consul from Byzantine Emperor Anastasius I |
-| 508 | Establishes Paris as his capital |
-| c. 509 | Eliminates rival Frankish kings including Sigobert the Lame and Ragnachar of Cambrai |
-| 509-511 | Completes unification of all Frankish tribes under his rule |
-| 511 | Presides over the Council of Orléans, first major church council in Frankish kingdom |
-| November 27, 511 | Dies in Paris, buried in the Church of the Holy Apostles |
-| 511 | Kingdom divided among his four surviving sons: Theuderic I, Chlodomer, Childebert I, and Chlothar I |
+| Year             | Event                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------- |
+| c. 466           | Birth of Clovis in Tournai                                                                          |
+| 481/482          | Becomes king of the Salian Franks after death of his father Childeric I                             |
+| 486              | Defeats Syagrius at the Battle of Soissons, conquers the Domain of Soissons                         |
+| c. 493           | Marries Clotilde, Burgundian princess and Catholic Christian                                        |
+| c. 496           | Defeats the Alemanni at the Battle of Tolbiac                                                       |
+| 496 (or 508)     | Converts to Catholic Christianity and is baptized by Saint Remigius in Reims                        |
+| c. 500           | Campaigns against the Burgundians (inconclusive)                                                    |
+| 507              | Defeats and kills Alaric II at the Battle of Vouillé, conquers most of Visigothic Gaul              |
+| c. 507-511       | Promulgates the Lex Salica (Salic Law)                                                              |
+| 508              | Receives title of honorary consul from Byzantine Emperor Anastasius I                               |
+| 508              | Establishes Paris as his capital                                                                    |
+| c. 509           | Eliminates rival Frankish kings including Sigobert the Lame and Ragnachar of Cambrai                |
+| 509-511          | Completes unification of all Frankish tribes under his rule                                         |
+| 511              | Presides over the Council of Orléans, first major church council in Frankish kingdom                |
+| November 27, 511 | Dies in Paris, buried in the Church of the Holy Apostles                                            |
+| 511              | Kingdom divided among his four surviving sons: Theuderic I, Chlodomer, Childebert I, and Chlothar I |
 
 ---
 
@@ -212,176 +212,348 @@ Scholars studying late antiquity have sometimes portrayed Clovis less favorably 
 
 ## References
 
-[^1]: Wood, Ian N. *The Merovingian Kingdoms, 450-751*. London: Longman, 1994, p. 41.
-[^2]: James, Edward. *The Franks*. Oxford: Blackwell, 1988, p. 85.
-[^3]: Geary, Patrick J. *Before France and Germany: The Creation and Transformation of the Merovingian World*. Oxford: Oxford University Press, 1988, p. 87.
-[^4]: Wallace-Hadrill, J.M. *The Long-Haired Kings*. Toronto: University of Toronto Press, 1982, p. 163.
-[^5]: Gregory of Tours. *The History of the Franks*. Translated by Lewis Thorpe. London: Penguin Books, 1974, Book II, Chapter 27.
-[^6]: Wood, *The Merovingian Kingdoms*, p. 39.
-[^7]: Halsall, Guy. *Barbarian Migrations and the Roman West, 376-568*. Cambridge: Cambridge University Press, 2007, p. 284.
-[^8]: James, *The Franks*, p. 78.
-[^9]: Gregory of Tours, *History of the Franks*, Book II, Chapter 12.
-[^10]: Wallace-Hadrill, *The Long-Haired Kings*, p. 158.
-[^11]: Wood, *The Merovingian Kingdoms*, p. 40.
-[^12]: Reimitz, Helmut. *History, Frankish Identity and the Framing of Western Ethnicity, 550-850*. Cambridge: Cambridge University Press, 2015, p. 62.
-[^13]: Gregory of Tours, *History of the Franks*, Introduction.
-[^14]: Mitchell, Kathleen, and Ian Wood, eds. *The World of Gregory of Tours*. Leiden: Brill, 2002, p. 145.
-[^15]: Heinzelmann, Martin. *Gregory of Tours: History and Society in the Sixth Century*. Cambridge: Cambridge University Press, 2001, p. 98.
-[^16]: James, *The Franks*, p. 82.
-[^17]: Halsall, *Barbarian Migrations*, p. 288.
-[^18]: Wickham, Chris. *The Inheritance of Rome: A History of Europe from 400 to 1000*. London: Penguin Books, 2009, p. 117.
-[^19]: Gregory of Tours, *History of the Franks*, Book II, Chapter 27.
-[^20]: James, *The Franks*, p. 83.
-[^21]: Gregory of Tours, *History of the Franks*, Book II, Chapter 27.
-[^22]: Wood, *The Merovingian Kingdoms*, p. 42.
-[^23]: Wallace-Hadrill, *The Long-Haired Kings*, p. 164.
-[^24]: Geary, *Before France and Germany*, p. 88.
-[^25]: James, *The Franks*, p. 84.
-[^26]: Gregory of Tours, *History of the Franks*, Book II, Chapter 28.
-[^27]: Wood, *The Merovingian Kingdoms*, p. 43.
-[^28]: Gregory of Tours, *History of the Franks*, Book II, Chapter 30.
+[^1]: Wood, Ian N. _The Merovingian Kingdoms, 450-751_. London: Longman, 1994, p. 41.
+
+[^2]: James, Edward. _The Franks_. Oxford: Blackwell, 1988, p. 85.
+
+[^3]: Geary, Patrick J. _Before France and Germany: The Creation and Transformation of the Merovingian World_. Oxford: Oxford University Press, 1988, p. 87.
+
+[^4]: Wallace-Hadrill, J.M. _The Long-Haired Kings_. Toronto: University of Toronto Press, 1982, p. 163.
+
+[^5]: Gregory of Tours. _The History of the Franks_. Translated by Lewis Thorpe. London: Penguin Books, 1974, Book II, Chapter 27.
+
+[^6]: Wood, _The Merovingian Kingdoms_, p. 39.
+
+[^7]: Halsall, Guy. _Barbarian Migrations and the Roman West, 376-568_. Cambridge: Cambridge University Press, 2007, p. 284.
+
+[^8]: James, _The Franks_, p. 78.
+
+[^9]: Gregory of Tours, _History of the Franks_, Book II, Chapter 12.
+
+[^10]: Wallace-Hadrill, _The Long-Haired Kings_, p. 158.
+
+[^11]: Wood, _The Merovingian Kingdoms_, p. 40.
+
+[^12]: Reimitz, Helmut. _History, Frankish Identity and the Framing of Western Ethnicity, 550-850_. Cambridge: Cambridge University Press, 2015, p. 62.
+
+[^13]: Gregory of Tours, _History of the Franks_, Introduction.
+
+[^14]: Mitchell, Kathleen, and Ian Wood, eds. _The World of Gregory of Tours_. Leiden: Brill, 2002, p. 145.
+
+[^15]: Heinzelmann, Martin. _Gregory of Tours: History and Society in the Sixth Century_. Cambridge: Cambridge University Press, 2001, p. 98.
+
+[^16]: James, _The Franks_, p. 82.
+
+[^17]: Halsall, _Barbarian Migrations_, p. 288.
+
+[^18]: Wickham, Chris. _The Inheritance of Rome: A History of Europe from 400 to 1000_. London: Penguin Books, 2009, p. 117.
+
+[^19]: Gregory of Tours, _History of the Franks_, Book II, Chapter 27.
+
+[^20]: James, _The Franks_, p. 83.
+
+[^21]: Gregory of Tours, _History of the Franks_, Book II, Chapter 27.
+
+[^22]: Wood, _The Merovingian Kingdoms_, p. 42.
+
+[^23]: Wallace-Hadrill, _The Long-Haired Kings_, p. 164.
+
+[^24]: Geary, _Before France and Germany_, p. 88.
+
+[^25]: James, _The Franks_, p. 84.
+
+[^26]: Gregory of Tours, _History of the Franks_, Book II, Chapter 28.
+
+[^27]: Wood, _The Merovingian Kingdoms_, p. 43.
+
+[^28]: Gregory of Tours, _History of the Franks_, Book II, Chapter 30.
+
 [^29]: Ibid.
-[^30]: Wood, *The Merovingian Kingdoms*, p. 45; debate about dating discussed extensively.
-[^31]: Wallace-Hadrill, *The Long-Haired Kings*, p. 165.
-[^32]: James, *The Franks*, p. 86.
-[^33]: Geary, *Before France and Germany*, p. 90.
-[^34]: Gregory of Tours, *History of the Franks*, Book II, Chapters 32-33.
-[^35]: Gregory of Tours, *History of the Franks*, Book II, Chapter 37.
-[^36]: Wood, *The Merovingian Kingdoms*, p. 47.
-[^37]: Gregory of Tours, *History of the Franks*, Book II, Chapters 40-42.
-[^38]: Wallace-Hadrill, *The Long-Haired Kings*, p. 169.
-[^39]: Geary, *Before France and Germany*, p. 85.
-[^40]: James, *The Franks*, p. 79.
-[^41]: Wood, *The Merovingian Kingdoms*, p. 48.
-[^42]: James, *The Franks*, p. 88.
-[^43]: Wood, *The Merovingian Kingdoms*, p. 49.
-[^44]: Wickham, *The Inheritance of Rome*, p. 118.
-[^45]: Wallace-Hadrill, *The Long-Haired Kings*, p. 166.
-[^46]: James, *The Franks*, p. 87.
-[^47]: Geary, *Before France and Germany*, p. 91.
-[^48]: Wood, *The Merovingian Kingdoms*, p. 51.
-[^49]: Gregory of Tours, *History of the Franks*, Book II, Chapter 31.
-[^50]: McKitterick, Rosamond. *The Frankish Kingdoms under the Carolingians, 751-987*. London: Longman, 1983, p. 34.
-[^51]: Drew, Katherine Fischer, trans. *The Laws of the Salian Franks*. Philadelphia: University of Pennsylvania Press, 1991, Introduction.
-[^52]: Rivers, Theodore John. *Laws of the Salian and Ripuarian Franks*. New York: AMS Press, 1986, p. 12.
-[^53]: Drew, *The Laws of the Salian Franks*, p. 18.
-[^54]: Taylor, Craig. "The Salic Law and the Valois Succession to the French Crown." *French History* 15, no. 4 (2001): 358-377.
-[^55]: Gregory of Tours, *History of the Franks*, Book II, Chapter 38.
-[^56]: James, *The Franks*, p. 89.
-[^57]: Wood, *The Merovingian Kingdoms*, p. 50.
-[^58]: Gregory of Tours, *History of the Franks*, Book II, Chapter 38.
-[^59]: Wallace-Hadrill, *The Long-Haired Kings*, p. 170.
-[^60]: Geary, *Before France and Germany*, p. 93.
-[^61]: James, *The Franks*, p. 91.
-[^62]: Wickham, *The Inheritance of Rome*, p. 120.
-[^63]: Murray, Alexander C. "Post vocantur Merohingii: Fredegar, Merovech, and 'Sacral Kingship'." In *After Rome's Fall: Narrators and Sources of Early Medieval History*, edited by Alexander C. Murray, 121-152. Toronto: University of Toronto Press, 1998.
-[^64]: Gregory of Tours, *History of the Franks*, Book II, Chapters 40-42.
-[^65]: Wood, *The Merovingian Kingdoms*, p. 52.
-[^66]: Gregory of Tours, *History of the Franks*, Book II, Chapter 40.
-[^67]: Gregory of Tours, *History of the Franks*, Book II, Chapter 42.
+
+[^30]: Wood, _The Merovingian Kingdoms_, p. 45; debate about dating discussed extensively.
+
+[^31]: Wallace-Hadrill, _The Long-Haired Kings_, p. 165.
+
+[^32]: James, _The Franks_, p. 86.
+
+[^33]: Geary, _Before France and Germany_, p. 90.
+
+[^34]: Gregory of Tours, _History of the Franks_, Book II, Chapters 32-33.
+
+[^35]: Gregory of Tours, _History of the Franks_, Book II, Chapter 37.
+
+[^36]: Wood, _The Merovingian Kingdoms_, p. 47.
+
+[^37]: Gregory of Tours, _History of the Franks_, Book II, Chapters 40-42.
+
+[^38]: Wallace-Hadrill, _The Long-Haired Kings_, p. 169.
+
+[^39]: Geary, _Before France and Germany_, p. 85.
+
+[^40]: James, _The Franks_, p. 79.
+
+[^41]: Wood, _The Merovingian Kingdoms_, p. 48.
+
+[^42]: James, _The Franks_, p. 88.
+
+[^43]: Wood, _The Merovingian Kingdoms_, p. 49.
+
+[^44]: Wickham, _The Inheritance of Rome_, p. 118.
+
+[^45]: Wallace-Hadrill, _The Long-Haired Kings_, p. 166.
+
+[^46]: James, _The Franks_, p. 87.
+
+[^47]: Geary, _Before France and Germany_, p. 91.
+
+[^48]: Wood, _The Merovingian Kingdoms_, p. 51.
+
+[^49]: Gregory of Tours, _History of the Franks_, Book II, Chapter 31.
+
+[^50]: McKitterick, Rosamond. _The Frankish Kingdoms under the Carolingians, 751-987_. London: Longman, 1983, p. 34.
+
+[^51]: Drew, Katherine Fischer, trans. _The Laws of the Salian Franks_. Philadelphia: University of Pennsylvania Press, 1991, Introduction.
+
+[^52]: Rivers, Theodore John. _Laws of the Salian and Ripuarian Franks_. New York: AMS Press, 1986, p. 12.
+
+[^53]: Drew, _The Laws of the Salian Franks_, p. 18.
+
+[^54]: Taylor, Craig. "The Salic Law and the Valois Succession to the French Crown." _French History_ 15, no. 4 (2001): 358-377.
+
+[^55]: Gregory of Tours, _History of the Franks_, Book II, Chapter 38.
+
+[^56]: James, _The Franks_, p. 89.
+
+[^57]: Wood, _The Merovingian Kingdoms_, p. 50.
+
+[^58]: Gregory of Tours, _History of the Franks_, Book II, Chapter 38.
+
+[^59]: Wallace-Hadrill, _The Long-Haired Kings_, p. 170.
+
+[^60]: Geary, _Before France and Germany_, p. 93.
+
+[^61]: James, _The Franks_, p. 91.
+
+[^62]: Wickham, _The Inheritance of Rome_, p. 120.
+
+[^63]: Murray, Alexander C. "Post vocantur Merohingii: Fredegar, Merovech, and 'Sacral Kingship'." In _After Rome's Fall: Narrators and Sources of Early Medieval History_, edited by Alexander C. Murray, 121-152. Toronto: University of Toronto Press, 1998.
+
+[^64]: Gregory of Tours, _History of the Franks_, Book II, Chapters 40-42.
+
+[^65]: Wood, _The Merovingian Kingdoms_, p. 52.
+
+[^66]: Gregory of Tours, _History of the Franks_, Book II, Chapter 40.
+
+[^67]: Gregory of Tours, _History of the Franks_, Book II, Chapter 42.
+
 [^68]: Ibid.
+
 [^69]: Ibid.
-[^70]: James, *The Franks*, p. 86.
-[^71]: Wallace-Hadrill, *The Long-Haired Kings*, p. 167.
-[^72]: Wood, *The Merovingian Kingdoms*, p. 54.
-[^73]: Halsall, *Barbarian Migrations*, p. 292.
-[^74]: James, *The Franks*, p. 90.
-[^75]: Gregory of Tours, *History of the Franks*, Book II, Chapter 27.
-[^76]: Geary, Patrick J. *The Myth of Nations: The Medieval Origins of Europe*. Princeton: Princeton University Press, 2002, p. 125.
-[^77]: Reimitz, *History, Frankish Identity*, p. 71.
-[^78]: Geary, *The Myth of Nations*, p. 127.
+
+[^70]: James, _The Franks_, p. 86.
+
+[^71]: Wallace-Hadrill, _The Long-Haired Kings_, p. 167.
+
+[^72]: Wood, _The Merovingian Kingdoms_, p. 54.
+
+[^73]: Halsall, _Barbarian Migrations_, p. 292.
+
+[^74]: James, _The Franks_, p. 90.
+
+[^75]: Gregory of Tours, _History of the Franks_, Book II, Chapter 27.
+
+[^76]: Geary, Patrick J. _The Myth of Nations: The Medieval Origins of Europe_. Princeton: Princeton University Press, 2002, p. 125.
+
+[^77]: Reimitz, _History, Frankish Identity_, p. 71.
+
+[^78]: Geary, _The Myth of Nations_, p. 127.
+
 [^79]: Taylor, "The Salic Law and the Valois Succession," p. 360.
-[^80]: Drew, *The Laws of the Salian Franks*, p. 22.
+
+[^80]: Drew, _The Laws of the Salian Franks_, p. 22.
+
 [^81]: Taylor, "The Salic Law and the Valois Succession," p. 365.
-[^82]: Wood, *The Merovingian Kingdoms*, p. 62.
-[^83]: Wallace-Hadrill, *The Long-Haired Kings*, p. 231.
-[^84]: James, *The Franks*, p. 92.
-[^85]: Gregory of Tours, *History of the Franks*, Book II, Chapter 28.
-[^86]: Gregory of Tours, *History of the Franks*, Book II, Chapter 28.
+
+[^82]: Wood, _The Merovingian Kingdoms_, p. 62.
+
+[^83]: Wallace-Hadrill, _The Long-Haired Kings_, p. 231.
+
+[^84]: James, _The Franks_, p. 92.
+
+[^85]: Gregory of Tours, _History of the Franks_, Book II, Chapter 28.
+
+[^86]: Gregory of Tours, _History of the Franks_, Book II, Chapter 28.
+
 [^87]: Ibid.
-[^88]: Wood, *The Merovingian Kingdoms*, p. 44.
-[^89]: Gregory of Tours, *History of the Franks*, Book II, Chapters 29-30.
-[^90]: Gregory of Tours, *History of the Franks*, Book II, Chapter 29.
-[^91]: James, *The Franks*, p. 87.
-[^92]: Gregory of Tours, *History of the Franks*, Book III, Chapter 1.
-[^93]: Gregory of Tours, *History of the Franks*, Book III, Chapter 10.
-[^94]: Wood, *The Merovingian Kingdoms*, p. 55.
-[^95]: Wallace-Hadrill, *The Long-Haired Kings*, p. 172.
-[^96]: Wood, *The Merovingian Kingdoms*, p. 63.
-[^97]: James, *The Franks*, p. 89.
-[^98]: Gregory of Tours, *History of the Franks*, Book II, Chapter 27.
-[^99]: Wallace-Hadrill, *The Long-Haired Kings*, p. 169.
-[^100]: Geary, *Before France and Germany*, p. 94.
-[^101]: Wood, *The Merovingian Kingdoms*, p. 56.
-[^102]: Gregory of Tours, *History of the Franks*, Book II, Chapter 43.
-[^103]: James, *The Franks*, p. 93.
-[^104]: Wood, *The Merovingian Kingdoms*, p. 57.
-[^105]: Wallace-Hadrill, *The Long-Haired Kings*, p. 175.
-[^106]: Gregory of Tours, *History of the Franks*, Book III, Chapter 18.
-[^107]: Wood, *The Merovingian Kingdoms*, p. 64.
-[^108]: McKitterick, *The Frankish Kingdoms under the Carolingians*, p. 31.
-[^109]: Wallace-Hadrill, *The Long-Haired Kings*, p. 176.
-[^110]: Geary, *Before France and Germany*, p. 95.
-[^111]: James, *The Franks*, p. 94.
-[^112]: Wickham, *The Inheritance of Rome*, p. 121.
-[^113]: McKitterick, *The Frankish Kingdoms under the Carolingians*, p. 35.
-[^114]: Wallace-Hadrill, *The Long-Haired Kings*, p. 178.
-[^115]: James, *The Franks*, p. 95.
-[^116]: Wood, *The Merovingian Kingdoms*, p. 58.
-[^117]: Geary, *The Myth of Nations*, p. 128.
-[^118]: Le Goff, Jacques. "Reims, City of Coronation." In *Realms of Memory: The Construction of the French Past*, edited by Pierre Nora, translated by Arthur Goldhammer, vol. 3, 193-251. New York: Columbia University Press, 1998.
+
+[^88]: Wood, _The Merovingian Kingdoms_, p. 44.
+
+[^89]: Gregory of Tours, _History of the Franks_, Book II, Chapters 29-30.
+
+[^90]: Gregory of Tours, _History of the Franks_, Book II, Chapter 29.
+
+[^91]: James, _The Franks_, p. 87.
+
+[^92]: Gregory of Tours, _History of the Franks_, Book III, Chapter 1.
+
+[^93]: Gregory of Tours, _History of the Franks_, Book III, Chapter 10.
+
+[^94]: Wood, _The Merovingian Kingdoms_, p. 55.
+
+[^95]: Wallace-Hadrill, _The Long-Haired Kings_, p. 172.
+
+[^96]: Wood, _The Merovingian Kingdoms_, p. 63.
+
+[^97]: James, _The Franks_, p. 89.
+
+[^98]: Gregory of Tours, _History of the Franks_, Book II, Chapter 27.
+
+[^99]: Wallace-Hadrill, _The Long-Haired Kings_, p. 169.
+
+[^100]: Geary, _Before France and Germany_, p. 94.
+
+[^101]: Wood, _The Merovingian Kingdoms_, p. 56.
+
+[^102]: Gregory of Tours, _History of the Franks_, Book II, Chapter 43.
+
+[^103]: James, _The Franks_, p. 93.
+
+[^104]: Wood, _The Merovingian Kingdoms_, p. 57.
+
+[^105]: Wallace-Hadrill, _The Long-Haired Kings_, p. 175.
+
+[^106]: Gregory of Tours, _History of the Franks_, Book III, Chapter 18.
+
+[^107]: Wood, _The Merovingian Kingdoms_, p. 64.
+
+[^108]: McKitterick, _The Frankish Kingdoms under the Carolingians_, p. 31.
+
+[^109]: Wallace-Hadrill, _The Long-Haired Kings_, p. 176.
+
+[^110]: Geary, _Before France and Germany_, p. 95.
+
+[^111]: James, _The Franks_, p. 94.
+
+[^112]: Wickham, _The Inheritance of Rome_, p. 121.
+
+[^113]: McKitterick, _The Frankish Kingdoms under the Carolingians_, p. 35.
+
+[^114]: Wallace-Hadrill, _The Long-Haired Kings_, p. 178.
+
+[^115]: James, _The Franks_, p. 95.
+
+[^116]: Wood, _The Merovingian Kingdoms_, p. 58.
+
+[^117]: Geary, _The Myth of Nations_, p. 128.
+
+[^118]: Le Goff, Jacques. "Reims, City of Coronation." In _Realms of Memory: The Construction of the French Past_, edited by Pierre Nora, translated by Arthur Goldhammer, vol. 3, 193-251. New York: Columbia University Press, 1998.
+
 [^119]: Ibid., p. 198.
+
 [^120]: Ibid., p. 212.
-[^121]: Drew, *The Laws of the Salian Franks*, p. 24.
-[^122]: Rivers, *Laws of the Salian and Ripuarian Franks*, p. 15.
+
+[^121]: Drew, _The Laws of the Salian Franks_, p. 24.
+
+[^122]: Rivers, _Laws of the Salian and Ripuarian Franks_, p. 15.
+
 [^123]: Taylor, "The Salic Law and the Valois Succession," p. 370.
-[^124]: Wallace-Hadrill, *The Long-Haired Kings*, p. 180.
-[^125]: McKitterick, *The Frankish Kingdoms under the Carolingians*, p. 36.
-[^126]: Geary, *Before France and Germany*, p. 97.
-[^127]: Fletcher, Richard. *The Barbarian Conversion: From Paganism to Christianity*. New York: Henry Holt, 1998, p. 193.
+
+[^124]: Wallace-Hadrill, _The Long-Haired Kings_, p. 180.
+
+[^125]: McKitterick, _The Frankish Kingdoms under the Carolingians_, p. 36.
+
+[^126]: Geary, _Before France and Germany_, p. 97.
+
+[^127]: Fletcher, Richard. _The Barbarian Conversion: From Paganism to Christianity_. New York: Henry Holt, 1998, p. 193.
+
 [^128]: Ibid., p. 212.
-[^129]: Wickham, *The Inheritance of Rome*, p. 123.
-[^130]: James, *The Franks*, p. 97.
-[^131]: Geary, *The Myth of Nations*, p. 130.
-[^132]: Reimitz, *History, Frankish Identity*, p. 75.
-[^133]: Wallace-Hadrill, *The Long-Haired Kings*, p. 182.
-[^134]: McKitterick, *The Frankish Kingdoms under the Carolingians*, p. 38.
-[^135]: Geary, *Before France and Germany*, p. 99.
-[^136]: Wallace-Hadrill, *The Long-Haired Kings*, p. 185.
+
+[^129]: Wickham, _The Inheritance of Rome_, p. 123.
+
+[^130]: James, _The Franks_, p. 97.
+
+[^131]: Geary, _The Myth of Nations_, p. 130.
+
+[^132]: Reimitz, _History, Frankish Identity_, p. 75.
+
+[^133]: Wallace-Hadrill, _The Long-Haired Kings_, p. 182.
+
+[^134]: McKitterick, _The Frankish Kingdoms under the Carolingians_, p. 38.
+
+[^135]: Geary, _Before France and Germany_, p. 99.
+
+[^136]: Wallace-Hadrill, _The Long-Haired Kings_, p. 185.
+
 [^137]: Ibid., p. 164.
+
 [^138]: Ibid., p. 167.
-[^139]: James, *The Franks*, p. 98.
+
+[^139]: James, _The Franks_, p. 98.
+
 [^140]: Ibid., p. 99.
-[^141]: Wood, *The Merovingian Kingdoms*, p. 59.
-[^142]: Wallace-Hadrill, *The Long-Haired Kings*, p. 170.
-[^143]: Wickham, *The Inheritance of Rome*, p. 124.
-[^144]: Geary, *Before France and Germany*, p. 100.
-[^145]: Geary, *The Myth of Nations*, p. 132.
+
+[^141]: Wood, _The Merovingian Kingdoms_, p. 59.
+
+[^142]: Wallace-Hadrill, _The Long-Haired Kings_, p. 170.
+
+[^143]: Wickham, _The Inheritance of Rome_, p. 124.
+
+[^144]: Geary, _Before France and Germany_, p. 100.
+
+[^145]: Geary, _The Myth of Nations_, p. 132.
+
 [^146]: Ibid., p. 134.
+
 [^147]: Catholic Encyclopedia, s.v. "Clovis I."
-[^148]: Butler, Alban. *Butler's Lives of the Saints*. Edited by Herbert Thurston and Donald Attwater. Westminster, MD: Christian Classics, 1956, entry for June 3 (St. Clotilde).
-[^149]: Geary, *The Myth of Nations*, p. 126.
-[^150]: Guizot, François. *History of France from the Earliest Times to the Year 1789*. Translated by Robert Black. New York: John W. Lovell, 1885, vol. 1, p. 142.
-[^151]: Geary, *The Myth of Nations*, p. 135.
-[^152]: Wood, *The Merovingian Kingdoms*, p. 60.
-[^153]: Geary, *The Myth of Nations*, p. 137.
-[^154]: James, *The Franks*, p. 100.
-[^155]: Wood, *The Merovingian Kingdoms*, p. 61.
-[^156]: Reimitz, *History, Frankish Identity*, p. 78.
+
+[^148]: Butler, Alban. _Butler's Lives of the Saints_. Edited by Herbert Thurston and Donald Attwater. Westminster, MD: Christian Classics, 1956, entry for June 3 (St. Clotilde).
+
+[^149]: Geary, _The Myth of Nations_, p. 126.
+
+[^150]: Guizot, François. _History of France from the Earliest Times to the Year 1789_. Translated by Robert Black. New York: John W. Lovell, 1885, vol. 1, p. 142.
+
+[^151]: Geary, _The Myth of Nations_, p. 135.
+
+[^152]: Wood, _The Merovingian Kingdoms_, p. 60.
+
+[^153]: Geary, _The Myth of Nations_, p. 137.
+
+[^154]: James, _The Franks_, p. 100.
+
+[^155]: Wood, _The Merovingian Kingdoms_, p. 61.
+
+[^156]: Reimitz, _History, Frankish Identity_, p. 78.
+
 [^157]: Ibid., p. 80.
+
 [^158]: Taylor, "The Salic Law and the Valois Succession," p. 375.
-[^159]: Drew, *The Laws of the Salian Franks*, p. 26.
-[^160]: Wood, *The Merovingian Kingdoms*, p. 65.
-[^161]: Wallace-Hadrill, *The Long-Haired Kings*, p. 233.
+
+[^159]: Drew, _The Laws of the Salian Franks_, p. 26.
+
+[^160]: Wood, _The Merovingian Kingdoms_, p. 65.
+
+[^161]: Wallace-Hadrill, _The Long-Haired Kings_, p. 233.
+
 [^162]: Ibid., p. 238.
-[^163]: Halsall, *Barbarian Migrations*, p. 295.
+
+[^163]: Halsall, _Barbarian Migrations_, p. 295.
+
 [^164]: Ibid., p. 297.
-[^165]: Geary, *The Myth of Nations*, p. 140.
+
+[^165]: Geary, _The Myth of Nations_, p. 140.
+
 [^166]: Ibid., p. 142.
-[^167]: Halsall, *Barbarian Migrations*, p. 300.
-[^168]: Wickham, *The Inheritance of Rome*, p. 126.
-[^169]: Gregory of Tours, *History of the Franks*, Book II, Chapter 30.
-[^170]: Gregory of Tours, *History of the Franks*, Book II, Chapter 42.
-[^171]: Gregory of Tours, *History of the Franks*, Book II, Chapter 37.
+
+[^167]: Halsall, _Barbarian Migrations_, p. 300.
+
+[^168]: Wickham, _The Inheritance of Rome_, p. 126.
+
+[^169]: Gregory of Tours, _History of the Franks_, Book II, Chapter 30.
+
+[^170]: Gregory of Tours, _History of the Franks_, Book II, Chapter 42.
+
+[^171]: Gregory of Tours, _History of the Franks_, Book II, Chapter 37.
+
 [^172]: Le Goff, "Reims, City of Coronation," p. 199 (noting this quote is likely apocryphal).
-[^173]: Gregory of Tours, *History of the Franks*, Book II, Chapter 42 (alternative translation).
+
+[^173]: Gregory of Tours, _History of the Franks_, Book II, Chapter 42 (alternative translation).

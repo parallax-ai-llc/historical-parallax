@@ -213,27 +213,27 @@ Historians critical of Alexander point out that by refusing political reform whi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1818 | Born April 29 in Moscow, eldest son of Nicholas I |
-| 1837-1838 | Extensive tour of Russia and Europe; first Romanov heir to visit Siberia |
-| 1841 | Married Princess Marie of Hesse (Maria Alexandrovna) on April 16 |
-| 1855 | Ascended to throne on March 2 during Crimean War |
-| 1856 | Treaty of Paris ends Crimean War on humiliating terms; delivers famous speech on need to abolish serfdom "from above" on March 30 |
-| 1858 | Relaxed censorship restrictions, enabling explosion of publications and public discourse |
-| 1860 | Founding of Vladivostok as Russia's far eastern capital |
-| 1861 | Signed Emancipation Manifesto on March 3, freeing approximately 23 million serfs |
-| 1863-1864 | Brutal suppression of Polish January Uprising; beginning of systematic Russification of Poland |
-| 1864 | Judicial reforms introduced on November 20, establishing trial by jury and independent judiciary; Zemstvo system of local government established on January 13 |
-| 1865 | Began affair with 18-year-old Princess Catherine Dolgorukova |
-| 1865-1876 | Russian conquest of Central Asia: Kokand, Bokhara, Khiva brought under control |
-| 1866 | First assassination attempt by Dmitry Karakozov on April 4; shift toward reactionary policies |
-| 1867 | Sale of Alaska to United States for $7.2 million |
-| 1874 | Universal military conscription introduced, reducing service from 25 to 6 years |
-| 1877-1878 | Russo-Turkish War; Russian victory leads to independence of Bulgaria, Serbia, Romania, and Montenegro |
-| 1878 | Treaty of San Stefano signed February 19; Congress of Berlin in June-July |
-| 1880 | Empress Maria Alexandrovna died of tuberculosis on June 3; Alexander married Catherine Dolgorukova in morganatic ceremony on July 18 |
-| 1881 | Signed Loris-Melikov Constitution on March 13; assassinated by Narodnaya Volya terrorists later same day in St. Petersburg |
+| Year      | Event                                                                                                                                                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1818      | Born April 29 in Moscow, eldest son of Nicholas I                                                                                                              |
+| 1837-1838 | Extensive tour of Russia and Europe; first Romanov heir to visit Siberia                                                                                       |
+| 1841      | Married Princess Marie of Hesse (Maria Alexandrovna) on April 16                                                                                               |
+| 1855      | Ascended to throne on March 2 during Crimean War                                                                                                               |
+| 1856      | Treaty of Paris ends Crimean War on humiliating terms; delivers famous speech on need to abolish serfdom "from above" on March 30                              |
+| 1858      | Relaxed censorship restrictions, enabling explosion of publications and public discourse                                                                       |
+| 1860      | Founding of Vladivostok as Russia's far eastern capital                                                                                                        |
+| 1861      | Signed Emancipation Manifesto on March 3, freeing approximately 23 million serfs                                                                               |
+| 1863-1864 | Brutal suppression of Polish January Uprising; beginning of systematic Russification of Poland                                                                 |
+| 1864      | Judicial reforms introduced on November 20, establishing trial by jury and independent judiciary; Zemstvo system of local government established on January 13 |
+| 1865      | Began affair with 18-year-old Princess Catherine Dolgorukova                                                                                                   |
+| 1865-1876 | Russian conquest of Central Asia: Kokand, Bokhara, Khiva brought under control                                                                                 |
+| 1866      | First assassination attempt by Dmitry Karakozov on April 4; shift toward reactionary policies                                                                  |
+| 1867      | Sale of Alaska to United States for $7.2 million                                                                                                               |
+| 1874      | Universal military conscription introduced, reducing service from 25 to 6 years                                                                                |
+| 1877-1878 | Russo-Turkish War; Russian victory leads to independence of Bulgaria, Serbia, Romania, and Montenegro                                                          |
+| 1878      | Treaty of San Stefano signed February 19; Congress of Berlin in June-July                                                                                      |
+| 1880      | Empress Maria Alexandrovna died of tuberculosis on June 3; Alexander married Catherine Dolgorukova in morganatic ceremony on July 18                           |
+| 1881      | Signed Loris-Melikov Constitution on March 13; assassinated by Narodnaya Volya terrorists later same day in St. Petersburg                                     |
 
 ---
 
@@ -254,122 +254,241 @@ Historians critical of Alexander point out that by refusing political reform whi
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Alexander_II_of_Russia
+
 [^2]: https://www.britannica.com/biography/Alexander-II-emperor-of-Russia
+
 [^3]: https://www.newworldencyclopedia.org/entry/Alexander_II_of_Russia
+
 [^4]: https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/alexander-ii-liberator/
+
 [^5]: http://www.saint-petersburg.com/royal-family/alexander-ii/
+
 [^6]: https://digital.janeaddams.ramapo.edu/items/show/1417
+
 [^7]: https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/alexander-ii
+
 [^8]: https://europeanroyalhistory.wordpress.com/2020/03/03/princess-catherine-dolgorukova-and-alexander-ii-of-russia/
+
 [^9]: https://www.alexanderpalace.org/palace/AlexIIbio.php
+
 [^10]: https://www.britannica.com/place/Russian-Empire/Alexander-II
+
 [^11]: https://en.wikipedia.org/wiki/Government_reforms_of_Alexander_II_of_Russia
+
 [^12]: http://history-groby.weebly.com/uploads/2/9/5/6/29562653/historytoday.com-the_reforms_of_tsar_alexander_ii.pdf
+
 [^13]: https://study.com/academy/lesson/reforms-in-russia-under-tsar-alexander-ii.html
+
 [^14]: https://www.historytoday.com/archive/reforms-tsar-alexander-ii
+
 [^15]: https://www.prlib.ru/en/news/1310462
+
 [^16]: https://libquotes.com/alexander-ii-of-russia/quote/lbq3q9v
+
 [^17]: https://en.wikipedia.org/wiki/Emancipation_reform_of_1861
+
 [^18]: https://www.britannica.com/event/Emancipation-Manifesto
+
 [^19]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-1861-emancipation-of-the-serfs/
+
 [^20]: https://alphahistory.com/russianrevolution/alexander-ii-emancipation-manifesto-1861/
+
 [^21]: https://www.historytoday.com/archive/emancipation-russian-serfs-1861
+
 [^22]: https://vocal.media/theSwamp/the-emancipation-of-russia-s-serfs-in-1861
+
 [^23]: https://journals.publishing.umich.edu/jala/article/id/4056/
+
 [^24]: https://academic.shu.edu/russianhistory/index.php/Alexander_II,_Emancipation_Manifesto,_1861
+
 [^25]: https://en.wikipedia.org/wiki/Government_reforms_of_Alexander_II_of_Russia
+
 [^26]: https://en.wikipedia.org/wiki/Judicial_reform_of_Alexander_II
+
 [^27]: https://www.prlib.ru/en/history/619774
+
 [^28]: https://orb.binghamton.edu/dissertation_and_theses/196/
+
 [^29]: https://www.tracesofevil.com/p/the-reforms-of-alexander-ii-were-mainly.html
+
 [^30]: https://gab.ai/start/alexander-ii
+
 [^31]: https://scholarcommons.sc.edu/senior_theses/673/
+
 [^32]: https://geohistory.today/remedy-legal-failure-russia/
+
 [^33]: https://www.britannica.com/place/Russian-Empire/Alexander-II
+
 [^34]: https://en.wikipedia.org/wiki/Government_reforms_of_Alexander_II_of_Russia
+
 [^35]: http://www.saint-petersburg.com/royal-family/alexander-ii/
+
 [^36]: https://www.alexanderpalace.org/palace/AlexIIbio.php
+
 [^37]: https://study.com/academy/lesson/reforms-in-russia-under-tsar-alexander-ii.html
+
 [^38]: https://www.historytoday.com/archive/reforms-tsar-alexander-ii
+
 [^39]: https://www.britannica.com/place/Russian-Empire/Alexander-II
+
 [^40]: https://en.wikipedia.org/wiki/Government_reforms_of_Alexander_II_of_Russia
+
 [^41]: http://www.saint-petersburg.com/royal-family/alexander-ii/
+
 [^42]: https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-ii/
+
 [^43]: https://www.thecollector.com/tsar-alexander-ii-liberal/
+
 [^44]: https://www.ebsco.com/research-starters/history/alexander-ii
+
 [^45]: https://www.britannica.com/biography/Alexander-II-emperor-of-Russia/Legacy
+
 [^46]: http://www.saint-petersburg.com/royal-family/alexander-ii/
+
 [^47]: https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/alexander-ii
+
 [^48]: https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877–1878)
+
 [^49]: https://militarymuseum.bg/en/exhibitions/chronological-exhibition/russo-turkish-war-of-liberation-1877-1878/
+
 [^50]: https://www.newworldencyclopedia.org/entry/Alexander_II_of_Russia
+
 [^51]: https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-ii/
+
 [^52]: https://www.thecollector.com/tsar-alexander-ii-liberal/
+
 [^53]: http://acsibhistory.weebly.com/alexander-ii-reformer-or-reactionary.html
+
 [^54]: https://www.tracesofevil.com/p/to-what-extent-do-you-agree-that.html
+
 [^55]: https://www.britannica.com/event/January-Insurrection
+
 [^56]: https://www.worldhistory.org/January_Uprising_of_1863/
+
 [^57]: https://russiasperiphery.pages.wm.edu/western-borderlands/poland/general/1863-uprising/
+
 [^58]: https://en.wikipedia.org/wiki/January_Uprising
+
 [^59]: https://www.ebsco.com/research-starters/history/russia-crushes-polish-rebellion
+
 [^60]: https://www.ebsco.com/research-starters/history/alexander-ii
+
 [^61]: https://www.britannica.com/biography/Alexander-II-emperor-of-Russia/Legacy
+
 [^62]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-1861-emancipation-of-the-serfs/
+
 [^63]: https://www.historytoday.com/archive/emancipation-russian-serfs-1861
+
 [^64]: https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-ii/
+
 [^65]: https://www.thecollector.com/tsar-alexander-ii-liberal/
+
 [^66]: https://www.newworldencyclopedia.org/entry/Alexander_II_of_Russia
+
 [^67]: https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-ii/
+
 [^68]: https://www.tracesofevil.com/p/the-reforms-of-alexander-ii-were-mainly.html
+
 [^69]: https://en.wikipedia.org/wiki/Alaska_Purchase
+
 [^70]: https://www.britannica.com/event/Alaska-Purchase
+
 [^71]: https://history.state.gov/milestones/1866-1898/alaska-purchase
+
 [^72]: https://europeanroyalhistory.wordpress.com/2020/03/03/princess-catherine-dolgorukova-and-alexander-ii-of-russia/
+
 [^73]: https://en.wikipedia.org/wiki/Maria_Alexandrovna_(Marie_of_Hesse)
+
 [^74]: https://www.unofficialroyalty.com/alexander-ii-emperor-of-all-the-russias/
+
 [^75]: https://www.theroyalforums.com/threads/tsar-alexander-ii-1818-1881-and-empress-maria-alexandrovna-1824-1880.16184/
+
 [^76]: https://en.wikipedia.org/wiki/Catherine_Dolgorukova
+
 [^77]: https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/alexander-ii-liberator/
+
 [^78]: https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/dolgorukova-ekaterina-1847-1922
+
 [^79]: https://www.historyofroyalwomen.com/the-royal-mistresses-series/royal-mistress-series-ekaterina-dolgorukova-imperial-mistress/
+
 [^80]: https://europeanroyalhistory.wordpress.com/2020/03/03/princess-catherine-dolgorukova-and-alexander-ii-of-russia/
+
 [^81]: https://en.wikipedia.org/wiki/Catherine_Dolgorukova
+
 [^82]: https://www.unofficialroyalty.com/alexander-ii-emperor-of-all-the-russias/
+
 [^83]: https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/alexander-ii-liberator/
+
 [^84]: https://www.newworldencyclopedia.org/entry/Alexander_II_of_Russia
+
 [^85]: https://en.wikipedia.org/wiki/Assassination_of_Alexander_II_of_Russia
+
 [^86]: https://en.wikipedia.org/wiki/Alexander_II_of_Russia
+
 [^87]: https://www.britannica.com/biography/Alexander-II-emperor-of-Russia
+
 [^88]: https://militarymuseum.bg/en/exhibitions/chronological-exhibition/russo-turkish-war-of-liberation-1877-1878/
+
 [^89]: https://www.newworldencyclopedia.org/entry/Alexander_II_of_Russia
+
 [^90]: https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-ii/
+
 [^91]: https://www.thecollector.com/tsar-alexander-ii-liberal/
+
 [^92]: https://www.tracesofevil.com/p/the-reforms-of-alexander-ii-were-mainly.html
+
 [^93]: https://www.britannica.com/biography/Alexander-II-emperor-of-Russia/Legacy
+
 [^94]: https://www.historytoday.com/archive/reforms-tsar-alexander-ii
+
 [^95]: https://www.newworldencyclopedia.org/entry/Alexander_II_of_Russia
+
 [^96]: http://www.history.com/this-day-in-history/czar-alexander-ii-assassinated
+
 [^97]: https://www.unofficialroyalty.com/march-13-1881-assassination-of-tsar-alexander-ii-of-russia/
+
 [^98]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-1861-emancipation-of-the-serfs/
+
 [^99]: https://en.wikipedia.org/wiki/Judicial_reform_of_Alexander_II
+
 [^100]: https://geohistory.today/remedy-legal-failure-russia/
+
 [^101]: https://www.britannica.com/place/Russian-Empire/Alexander-II
+
 [^102]: https://www.historytoday.com/archive/reforms-tsar-alexander-ii
+
 [^103]: https://militarymuseum.bg/en/exhibitions/chronological-exhibition/russo-turkish-war-of-liberation-1877-1878/
+
 [^104]: https://www.britannica.com/place/Russian-Empire/Alexander-II
+
 [^105]: https://en.wikipedia.org/wiki/Government_reforms_of_Alexander_II_of_Russia
+
 [^106]: https://www.tracesofevil.com/p/to-what-extent-do-you-agree-that.html
+
 [^107]: http://acsibhistory.weebly.com/alexander-ii-reformer-or-reactionary.html
+
 [^108]: https://www.worldhistory.org/January_Uprising_of_1863/
+
 [^109]: https://www.ebsco.com/research-starters/history/russia-crushes-polish-rebellion
+
 [^110]: https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-ii/
+
 [^111]: https://www.thecollector.com/tsar-alexander-ii-liberal/
+
 [^112]: http://acsibhistory.weebly.com/alexander-ii-reformer-or-reactionary.html
+
 [^113]: https://www.tracesofevil.com/p/the-reforms-of-alexander-ii-were-mainly.html
+
 [^114]: https://www.studysmarter.co.uk/explanations/history/tsarist-and-communist-russia/alexander-ii/
+
 [^115]: https://www.newworldencyclopedia.org/entry/Alexander_II_of_Russia
+
 [^116]: https://www.prlib.ru/en/news/1310462
+
 [^117]: https://libquotes.com/alexander-ii-of-russia/quote/lbq3q9v
+
 [^118]: https://en.wikiquote.org/wiki/Alexander_II_of_Russia
+
 [^119]: https://libquotes.com/alexander-ii-of-russia
+
 [^120]: https://wist.info/alexander-ii/1411/

@@ -165,26 +165,26 @@ Feminist historians have particularly condemned George's treatment of women, esp
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1660 | Born on May 28 in Hanover to Ernest Augustus and Sophia |
-| 1675 | First military campaign in Dutch War at age 15 |
-| 1682 | Marries Sophia Dorothea of Celle |
-| 1683 | Birth of son George Augustus (later George II) |
-| 1687 | Birth of daughter Sophia Dorothea |
-| 1694 | Divorces Sophia Dorothea; imprisons her for life; possible involvement in murder of Count Königsmarck |
-| 1698 | Becomes Elector of Hanover upon father's death |
-| 1701 | Act of Settlement names him in line for British throne |
-| 1702 | Fights in War of Spanish Succession |
+| Year | Event                                                                                                                             |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1660 | Born on May 28 in Hanover to Ernest Augustus and Sophia                                                                           |
+| 1675 | First military campaign in Dutch War at age 15                                                                                    |
+| 1682 | Marries Sophia Dorothea of Celle                                                                                                  |
+| 1683 | Birth of son George Augustus (later George II)                                                                                    |
+| 1687 | Birth of daughter Sophia Dorothea                                                                                                 |
+| 1694 | Divorces Sophia Dorothea; imprisons her for life; possible involvement in murder of Count Königsmarck                             |
+| 1698 | Becomes Elector of Hanover upon father's death                                                                                    |
+| 1701 | Act of Settlement names him in line for British throne                                                                            |
+| 1702 | Fights in War of Spanish Succession                                                                                               |
 | 1714 | Mother Sophia dies; becomes heir to British throne; accedes on August 1 upon death of Queen Anne; arrives in England September 18 |
-| 1715 | Jacobite Rising led by Earl of Mar suppressed |
-| 1716 | Septennial Act extends Parliament's term to seven years |
-| 1717 | Stops attending Cabinet meetings; rift with Prince of Wales deepens |
-| 1719 | Spanish-backed Jacobite invasion defeated |
-| 1720 | South Sea Bubble crisis; Robert Walpole becomes effective Prime Minister |
-| 1721 | Walpole appointed First Lord of Treasury, beginning long ministry |
-| 1726 | Ex-wife Sophia Dorothea dies in captivity after 32 years imprisonment |
-| 1727 | Dies of stroke on June 11 at Osnabrück while traveling to Hanover |
+| 1715 | Jacobite Rising led by Earl of Mar suppressed                                                                                     |
+| 1716 | Septennial Act extends Parliament's term to seven years                                                                           |
+| 1717 | Stops attending Cabinet meetings; rift with Prince of Wales deepens                                                               |
+| 1719 | Spanish-backed Jacobite invasion defeated                                                                                         |
+| 1720 | South Sea Bubble crisis; Robert Walpole becomes effective Prime Minister                                                          |
+| 1721 | Walpole appointed First Lord of Treasury, beginning long ministry                                                                 |
+| 1726 | Ex-wife Sophia Dorothea dies in captivity after 32 years imprisonment                                                             |
+| 1727 | Dies of stroke on June 11 at Osnabrück while traveling to Hanover                                                                 |
 
 ---
 
@@ -204,193 +204,382 @@ Feminist historians have particularly condemned George's treatment of women, esp
 
 ## References
 
-[^1]: Hatton, Ragnhild. *George I: Elector and King*. Thames and Hudson, 1978, pp. 12-15.
-[^2]: Black, Jeremy. *Walpole in Power*. Sutton Publishing, 2001, p. 67.
-[^3]: Thompson, Andrew C. *George I: The King Who Wouldn't Learn English*. Yale University Press, 2024, pp. 1-8.
-[^4]: Colley, Linda. *Britons: Forging the Nation 1707-1837*. Yale University Press, 1992, p. 72.
+[^1]: Hatton, Ragnhild. _George I: Elector and King_. Thames and Hudson, 1978, pp. 12-15.
+
+[^2]: Black, Jeremy. _Walpole in Power_. Sutton Publishing, 2001, p. 67.
+
+[^3]: Thompson, Andrew C. _George I: The King Who Wouldn't Learn English_. Yale University Press, 2024, pp. 1-8.
+
+[^4]: Colley, Linda. _Britons: Forging the Nation 1707-1837_. Yale University Press, 1992, p. 72.
+
 [^5]: Hatton 1978, pp. 22-24.
-[^6]: Gregg, Edward. *Queen Anne*. Routledge, 1980, pp. 378-380.
+
+[^6]: Gregg, Edward. _Queen Anne_. Routledge, 1980, pp. 378-380.
+
 [^7]: Thompson 2024, pp. 15-18.
-[^8]: Wilson, Peter H. *The Holy Roman Empire: A Thousand Years of Europe's History*. Penguin, 2016, p. 542.
+
+[^8]: Wilson, Peter H. _The Holy Roman Empire: A Thousand Years of Europe's History_. Penguin, 2016, p. 542.
+
 [^9]: Hatton 1978, pp. 28-31.
+
 [^10]: Thompson 2024, p. 20.
-[^11]: Lynn, John A. *The Wars of Louis XIV 1667-1714*. Longman, 1999, p. 145.
+
+[^11]: Lynn, John A. _The Wars of Louis XIV 1667-1714_. Longman, 1999, p. 145.
+
 [^12]: Hatton 1978, pp. 35-37.
+
 [^13]: Wilson 2016, pp. 544-547.
+
 [^14]: Hatton 1978, p. 33.
+
 [^15]: Thompson 2024, pp. 25-28.
+
 [^16]: Hatton 1978, pp. 38-40.
-[^17]: Hochedlinger, Michael. *Austria's Wars of Emergence 1683-1797*. Longman, 2003, pp. 89-91.
-[^18]: Melville, Lewis. *The First George in Hanover and England*. Pitman, 1908, vol. 1, pp. 55-60.
-[^19]: Van der Kiste, John. *The Georgian Princesses*. Sutton Publishing, 2000, pp. 12-15.
+
+[^17]: Hochedlinger, Michael. _Austria's Wars of Emergence 1683-1797_. Longman, 2003, pp. 89-91.
+
+[^18]: Melville, Lewis. _The First George in Hanover and England_. Pitman, 1908, vol. 1, pp. 55-60.
+
+[^19]: Van der Kiste, John. _The Georgian Princesses_. Sutton Publishing, 2000, pp. 12-15.
+
 [^20]: Hatton 1978, pp. 58-62.
+
 [^21]: Thompson 2024, pp. 45-50.
-[^22]: Black, Jeremy. *A Military Revolution? Military Change and European Society 1550-1800*. Macmillan, 1991, p. 67.
+
+[^22]: Black, Jeremy. _A Military Revolution? Military Change and European Society 1550-1800_. Macmillan, 1991, p. 67.
+
 [^23]: Gregg 1980, pp. 376-379.
-[^24]: Harris, Tim. *Revolution: The Great Crisis of the British Monarchy, 1685-1720*. Allen Lane, 2006, pp. 487-490.
+
+[^24]: Harris, Tim. _Revolution: The Great Crisis of the British Monarchy, 1685-1720_. Allen Lane, 2006, pp. 487-490.
+
 [^25]: Hatton 1978, pp. 98-100.
-[^26]: Somerset, Anne. *Queen Anne: The Politics of Passion*. HarperCollins, 2012, pp. 568-570.
-[^27]: Monod, Paul Kléber. *Jacobitism and the English People, 1688-1788*. Cambridge University Press, 1989, pp. 162-165.
+
+[^26]: Somerset, Anne. _Queen Anne: The Politics of Passion_. HarperCollins, 2012, pp. 568-570.
+
+[^27]: Monod, Paul Kléber. _Jacobitism and the English People, 1688-1788_. Cambridge University Press, 1989, pp. 162-165.
+
 [^28]: Hatton 1978, pp. 102-108.
+
 [^29]: Thompson 2024, pp. 85-90.
-[^30]: Black, Jeremy. *Eighteenth-Century Britain, 1688-1783*. Palgrave, 2001, pp. 78-80.
-[^31]: Kemp, Betty. *King and Commons, 1660-1832*. Macmillan, 1957, pp. 45-48.
-[^32]: Plumb, J.H. *Sir Robert Walpole: The Making of a Statesman*. Cresset Press, 1956, pp. 301-305.
+
+[^30]: Black, Jeremy. _Eighteenth-Century Britain, 1688-1783_. Palgrave, 2001, pp. 78-80.
+
+[^31]: Kemp, Betty. _King and Commons, 1660-1832_. Macmillan, 1957, pp. 45-48.
+
+[^32]: Plumb, J.H. _Sir Robert Walpole: The Making of a Statesman_. Cresset Press, 1956, pp. 301-305.
+
 [^33]: Hatton 1978, pp. 156-160.
+
 [^34]: Kemp 1957, p. 52.
-[^35]: Cannon, John. *Parliamentary Reform 1640-1832*. Cambridge University Press, 1973, pp. 34-36.
+
+[^35]: Cannon, John. _Parliamentary Reform 1640-1832_. Cambridge University Press, 1973, pp. 34-36.
+
 [^36]: Black 2001, pp. 82-85.
-[^37]: Lenman, Bruce. *The Jacobite Risings in Britain 1689-1746*. Eyre Methuen, 1980, pp. 158-175.
+
+[^37]: Lenman, Bruce. _The Jacobite Risings in Britain 1689-1746_. Eyre Methuen, 1980, pp. 158-175.
+
 [^38]: Hatton 1978, pp. 175-182.
-[^39]: Szechi, Daniel. *1715: The Great Jacobite Rebellion*. Yale University Press, 2006, pp. 267-270.
-[^40]: Black, Jeremy. *British Foreign Policy in the Age of Walpole*. John Donald, 1985, pp. 12-18.
+
+[^39]: Szechi, Daniel. _1715: The Great Jacobite Rebellion_. Yale University Press, 2006, pp. 267-270.
+
+[^40]: Black, Jeremy. _British Foreign Policy in the Age of Walpole_. John Donald, 1985, pp. 12-18.
+
 [^41]: Thompson 2024, pp. 142-148.
-[^42]: Marshall, P.J., ed. *The Oxford History of the British Empire: Volume II*. Oxford University Press, 1998, pp. 34-37.
-[^43]: Dickson, P.G.M. *The Financial Revolution in England*. Macmillan, 1967, pp. 89-95.
-[^44]: Carswell, John. *The South Sea Bubble*. Cresset Press, 1960, pp. 187-195.
+
+[^42]: Marshall, P.J., ed. _The Oxford History of the British Empire: Volume II_. Oxford University Press, 1998, pp. 34-37.
+
+[^43]: Dickson, P.G.M. _The Financial Revolution in England_. Macmillan, 1967, pp. 89-95.
+
+[^44]: Carswell, John. _The South Sea Bubble_. Cresset Press, 1960, pp. 187-195.
+
 [^45]: Plumb 1956, pp. 342-350.
-[^46]: Whatley, Christopher A. *The Scots and the Union*. Edinburgh University Press, 2006, pp. 289-292.
+
+[^46]: Whatley, Christopher A. _The Scots and the Union_. Edinburgh University Press, 2006, pp. 289-292.
+
 [^47]: Lenman 1980, pp. 165-170.
-[^48]: Devine, T.M. *The Scottish Nation 1700-2000*. Penguin, 1999, pp. 38-42.
+
+[^48]: Devine, T.M. _The Scottish Nation 1700-2000_. Penguin, 1999, pp. 38-42.
+
 [^49]: Black 2001, pp. 95-98.
-[^50]: Keates, Jonathan. *Handel: The Man and His Music*. Gollancz, 1985, pp. 78-85.
-[^51]: Burrows, Donald. *Handel*. Oxford University Press, 1994, pp. 89-92.
-[^52]: Porter, Roy. *Enlightenment: Britain and the Creation of the Modern World*. Allen Lane, 2000, pp. 134-137.
-[^53]: Westfall, Richard S. *Never at Rest: A Biography of Isaac Newton*. Cambridge University Press, 1980, pp. 767-770.
+
+[^50]: Keates, Jonathan. _Handel: The Man and His Music_. Gollancz, 1985, pp. 78-85.
+
+[^51]: Burrows, Donald. _Handel_. Oxford University Press, 1994, pp. 89-92.
+
+[^52]: Porter, Roy. _Enlightenment: Britain and the Creation of the Modern World_. Allen Lane, 2000, pp. 134-137.
+
+[^53]: Westfall, Richard S. _Never at Rest: A Biography of Isaac Newton_. Cambridge University Press, 1980, pp. 767-770.
+
 [^54]: Porter 2000, pp. 145-150.
+
 [^55]: Melville 1908, vol. 1, pp. 125-130.
+
 [^56]: Van der Kiste 2000, pp. 18-22.
-[^57]: Jordan, Ruth. *Sophia Dorothea*. Constable, 1971, pp. 98-105.
+
+[^57]: Jordan, Ruth. _Sophia Dorothea_. Constable, 1971, pp. 98-105.
+
 [^58]: Thompson 2024, pp. 52-58.
+
 [^59]: Jordan 1971, pp. 145-152.
+
 [^60]: Van der Kiste 2000, p. 25.
+
 [^61]: Hatton 1978, pp. 68-72.
+
 [^62]: Colley 1992, p. 73.
+
 [^63]: Melville 1908, vol. 2, pp. 45-52.
-[^64]: Arkell, R.L. *Caroline of Ansbach*. Oxford University Press, 1939, pp. 67-70.
+
+[^64]: Arkell, R.L. _Caroline of Ansbach_. Oxford University Press, 1939, pp. 67-70.
+
 [^65]: Thompson 2024, pp. 165-170.
-[^66]: Harris, Bob. *Politics and the Rise of the Press: Britain and France, 1620-1800*. Routledge, 1996, pp. 45-48.
+
+[^66]: Harris, Bob. _Politics and the Rise of the Press: Britain and France, 1620-1800_. Routledge, 1996, pp. 45-48.
+
 [^67]: Hatton 1978, pp. 210-215.
+
 [^68]: Thompson 2024, pp. 225-230.
+
 [^69]: Black 1985, pp. 67-72.
+
 [^70]: Colley 1992, pp. 74-76.
+
 [^71]: Thompson 2024, pp. 1-4.
+
 [^72]: Hatton 1978, pp. 158-160.
+
 [^73]: Colley 1992, p. 72.
+
 [^74]: Thompson 2024, pp. 185-190.
+
 [^75]: Carswell 1960, pp. 145-158.
+
 [^76]: Dickson 1967, pp. 156-162.
+
 [^77]: Plumb 1956, pp. 335-340.
+
 [^78]: Carswell 1960, pp. 201-215.
+
 [^79]: Hatton 1978, pp. 192-198.
-[^80]: Black, Jeremy. *George II: Puppet of the Politicians?* University of Exeter Press, 2007, pp. 23-28.
+
+[^80]: Black, Jeremy. _George II: Puppet of the Politicians?_ University of Exeter Press, 2007, pp. 23-28.
+
 [^81]: Arkell 1939, pp. 78-85.
+
 [^82]: Thompson 2024, pp. 195-200.
+
 [^83]: Monod 1989, pp. 178-182.
+
 [^84]: Lenman 1980, pp. 185-190.
+
 [^85]: Harris 2006, pp. 502-506.
-[^86]: Brewer, John. *The Sinews of Power*. Knopf, 1989, pp. 45-48.
+
+[^86]: Brewer, John. _The Sinews of Power_. Knopf, 1989, pp. 45-48.
+
 [^87]: Hatton 1978, pp. 245-250.
+
 [^88]: Melville 1908, vol. 2, pp. 12-18.
+
 [^89]: Thompson 2024, pp. 175-180.
+
 [^90]: Hatton 1978, p. 22.
+
 [^91]: Melville 1908, vol. 2, pp. 25-28.
+
 [^92]: Thompson 2024, p. 178.
+
 [^93]: Van der Kiste 2000, pp. 28-32.
+
 [^94]: Hatton 1978, pp. 258-262.
+
 [^95]: Black 2007, pp. 18-22.
+
 [^96]: Thompson 2024, pp. 182-185.
+
 [^97]: Hatton 1978, pp. 252-255.
+
 [^98]: Keates 1985, pp. 80-82.
+
 [^99]: Burrows 1994, pp. 90-92.
+
 [^100]: Thompson 2024, pp. 165-168.
+
 [^101]: Hatton 1978, pp. 248-250.
+
 [^102]: Colley 1992, p. 73.
+
 [^103]: Thompson 2024, pp. 185-188.
+
 [^104]: Melville 1908, vol. 2, pp. 48-52.
+
 [^105]: Hatton 1978, pp. 260-262.
+
 [^106]: Thompson 2024, pp. 168-170.
+
 [^107]: Van der Kiste 2000, p. 36.
+
 [^108]: Hatton 1978, p. 253.
+
 [^109]: Melville 1908, vol. 2, p. 30.
+
 [^110]: Thompson 2024, p. 180.
+
 [^111]: Hatton 1978, pp. 195-198.
+
 [^112]: Thompson 2024, pp. 285-288.
+
 [^113]: Hatton 1978, pp. 290-292.
+
 [^114]: Thompson 2024, p. 288.
+
 [^115]: Hatton 1978, pp. 293-295.
+
 [^116]: Black 2001, pp. 98-100.
+
 [^117]: Kemp 1957, pp. 58-62.
+
 [^118]: Harris 2006, pp. 510-515.
+
 [^119]: Szechi 2006, pp. 278-280.
+
 [^120]: Colley 1992, pp. 78-80.
+
 [^121]: Black 2001, pp. 102-105.
+
 [^122]: Brewer 1989, pp. 67-72.
+
 [^123]: Plumb 1956, pp. 385-390.
+
 [^124]: Porter 2000, pp. 152-156.
+
 [^125]: Black 2001, pp. 108-112.
+
 [^126]: Porter 2000, pp. 158-162.
+
 [^127]: Black 1985, pp. 156-160.
+
 [^128]: Thompson 2024, pp. 245-250.
+
 [^129]: Black 1985, pp. 165-170.
+
 [^130]: Colley 1992, pp. 85-88.
+
 [^131]: Hatton 1978, pp. 1-8.
-[^132]: Macaulay, Thomas Babington. *The History of England*. Penguin Classics, 1968 [1848], vol. 1, pp. 234-237.
+
+[^132]: Macaulay, Thomas Babington. _The History of England_. Penguin Classics, 1968 [1848], vol. 1, pp. 234-237.
+
 [^133]: Hatton 1978, pp. 302-308.
+
 [^134]: Thompson 2024, pp. 295-300.
+
 [^135]: Black 2001, pp. 112-115.
+
 [^136]: Kemp 1957, pp. 64-68.
-[^137]: De-la-Noy, Michael. *The King Who Never Was*. Peter Owen, 1996, pp. 45-48.
+
+[^137]: De-la-Noy, Michael. _The King Who Never Was_. Peter Owen, 1996, pp. 45-48.
+
 [^138]: Thompson 2024, pp. 305-310.
+
 [^139]: Colley 1992, pp. 90-92.
+
 [^140]: Harris 2006, pp. 520-525.
+
 [^141]: Brewer 1989, pp. 178-182.
+
 [^142]: Cannon 1973, pp. 78-82.
+
 [^143]: Hatton 1978, pp. 302-305.
-[^144]: Hatton, Ragnhild. "George I as an English and a European Figure." In *The Revolution of 1688-1689*, edited by Lois G. Schwoerer, 221-235. Cambridge University Press, 1992.
+
+[^144]: Hatton, Ragnhild. "George I as an English and a European Figure." In _The Revolution of 1688-1689_, edited by Lois G. Schwoerer, 221-235. Cambridge University Press, 1992.
+
 [^145]: Hatton 1978, pp. 275-280.
+
 [^146]: Black 1985, pp. 172-176.
+
 [^147]: Thompson 2024, pp. 252-258.
-[^148]: Black, Jeremy. "George I and British Foreign Policy." In *Knights Errant and True Englishmen*, edited by J. Black, 45-67. John Donald, 1989.
-[^149]: Thompson, Andrew C. "The Hanoverians and Europe." In *Hanoverian Britain and Empire*, edited by S. Taylor et al., 34-52. Boydell Press, 1998.
+
+[^148]: Black, Jeremy. "George I and British Foreign Policy." In _Knights Errant and True Englishmen_, edited by J. Black, 45-67. John Donald, 1989.
+
+[^149]: Thompson, Andrew C. "The Hanoverians and Europe." In _Hanoverian Britain and Empire_, edited by S. Taylor et al., 34-52. Boydell Press, 1998.
+
 [^150]: Szechi 2006, pp. 245-250.
+
 [^151]: Hatton 1978, pp. 180-185.
+
 [^152]: Kemp 1957, pp. 70-75.
-[^153]: Kemp, Betty. "The Reduction of the Royal Prerogative in England." In *Constitutional History*, edited by B.C. Malament, 123-145. Iowa State University Press, 1980.
+
+[^153]: Kemp, Betty. "The Reduction of the Royal Prerogative in England." In _Constitutional History_, edited by B.C. Malament, 123-145. Iowa State University Press, 1980.
+
 [^154]: Cannon 1973, pp. 85-88.
+
 [^155]: Dickson 1967, pp. 234-240.
+
 [^156]: Brewer 1989, pp. 125-130.
+
 [^157]: Plumb 1956, pp. 395-400.
+
 [^158]: Thompson 2024, pp. 205-210.
+
 [^159]: Hatton 1978, pp. 235-238.
+
 [^160]: Black 2001, pp. 118-120.
+
 [^161]: Thompson 2024, pp. 312-315.
+
 [^162]: Colley 1992, pp. 92-95.
+
 [^163]: Hatton 1978, pp. 308-312.
-[^164]: Schama, Simon. *A History of Britain: The British Wars 1603-1776*. BBC Books, 2001, pp. 387-390.
-[^165]: Gregg, Edward. "The Financial and Political Independence of George I." In *By Force or Default?*, edited by E. Cruickshanks, 45-62. John Donald, 1989.
-[^166]: Gregg, Edward. "Was Queen Anne a Jacobite?" *History* 57 (1972): 358-375.
+
+[^164]: Schama, Simon. _A History of Britain: The British Wars 1603-1776_. BBC Books, 2001, pp. 387-390.
+
+[^165]: Gregg, Edward. "The Financial and Political Independence of George I." In _By Force or Default?_, edited by E. Cruickshanks, 45-62. John Donald, 1989.
+
+[^166]: Gregg, Edward. "Was Queen Anne a Jacobite?" _History_ 57 (1972): 358-375.
+
 [^167]: Jordan 1971, pp. 198-205.
+
 [^168]: Van der Kiste 2000, pp. 42-45.
+
 [^169]: Colley 1992, p. 95.
+
 [^170]: Schama 2001, pp. 390-393.
+
 [^171]: Thompson 2024, pp. 318-322.
+
 [^172]: Colley 1992, pp. 96-98.
+
 [^173]: Carswell 1960, pp. 245-252.
+
 [^174]: Dickson 1967, pp. 178-185.
+
 [^175]: Melville 1908, vol. 2, pp. 125-130.
+
 [^176]: Schama 2001, p. 388.
+
 [^177]: Schama 2001, p. 389.
-[^178]: Plumb, J.H. *Sir Robert Walpole: The King's Minister*. Cresset Press, 1960, pp. 12-18.
+
+[^178]: Plumb, J.H. _Sir Robert Walpole: The King's Minister_. Cresset Press, 1960, pp. 12-18.
+
 [^179]: Black 2007, pp. 34-38.
+
 [^180]: Arkell 1939, pp. 98-102.
+
 [^181]: Thompson 2024, pp. 200-205.
+
 [^182]: Black 1985, pp. 178-182.
+
 [^183]: Colley 1992, pp. 98-100.
-[^184]: Black, Jeremy. *Continental Commitment: Britain, Hanover and Interventionism 1714-1793*. Routledge, 2005, pp. 45-52.
+
+[^184]: Black, Jeremy. _Continental Commitment: Britain, Hanover and Interventionism 1714-1793_. Routledge, 2005, pp. 45-52.
+
 [^185]: Van der Kiste 2000, pp. 48-52.
+
 [^186]: Thompson 2024, pp. 325-328.
+
 [^187]: Melville 1908, vol. 1, p. 245.
+
 [^188]: Hatton 1978, p. 254.
+
 [^189]: Thompson 2024, p. 290.
+
 [^190]: Melville 1908, vol. 2, p. 85.

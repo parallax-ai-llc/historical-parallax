@@ -4,7 +4,8 @@ name: "Frederick Barbarossa"
 birth: "1122-12-00"
 death: "1190-06-10"
 nationality: "Holy Roman Empire"
-occupation: ["Holy Roman Emperor", "King of Germany", "King of Italy", "Duke of Swabia", "King of Burgundy"]
+occupation:
+  ["Holy Roman Emperor", "King of Germany", "King of Italy", "Duke of Swabia", "King of Burgundy"]
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Barbarossa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
@@ -155,40 +156,40 @@ Some historians question whether Frederick should be judged a failure, noting th
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1122 | Born in December in Hagenau, Duchy of Swabia |
-| 1130 | His mother Judith of Bavaria died |
-| 1147 | His father died; Frederick became Duke of Swabia (Frederick III) |
-| 1147-1148 | Participated in the Second Crusade with uncle Conrad III |
-| 1148 | Distinguished himself at Siege of Damascus (July 24-28) |
-| 1152 | Conrad III died (February 15); Frederick elected King of Germany in Frankfurt (March 4) |
-| 1152 | Crowned King of Germany in Aachen (March 9) |
-| 1154-1155 | First Italian campaign |
-| 1155 | Crowned King of Italy in Pavia (April 24) |
-| 1155 | Crowned Holy Roman Emperor by Pope Adrian IV in Rome (June 18) |
-| 1156 | Married Beatrice of Burgundy at Würzburg (June 9) |
-| 1157 | Term "sacrum imperium" first appeared in imperial documents |
-| 1157 | Incident at Diet of Besançon sparked conflict with papacy |
-| 1158 | Second Italian campaign; Diet of Roncaglia (November 11-26) |
-| 1159-1160 | Siege and destruction of Crema |
-| 1161-1162 | Siege of Milan (nine months) |
-| 1162 | Milan surrendered and was destroyed (March 1) |
-| 1163 | Third Italian campaign |
-| 1164 | Son Frederick V born (July 16) |
-| 1165 | Son Henry VI born (November); took oath at Würzburg against Pope Alexander III |
-| 1166-1168 | Fourth Italian campaign; siege of Rome (1167) |
-| 1167 | Lombard League formed (February-March, met at Pontida April 7) |
-| 1174-1176 | Fifth Italian campaign |
-| 1176 | Defeated at Battle of Legnano (May 29) |
-| 1177 | Peace of Venice; reconciled with Pope Alexander III |
-| 1178 | Crowned King of Burgundy at Arles (June 30) |
-| 1180 | Henry the Lion stripped of lands and declared outlaw |
-| 1181 | Henry the Lion submitted at Imperial Diet in Erfurt (November) |
-| 1183 | Peace of Constance with Lombard League (June 25) |
-| 1184 | Wife Beatrice died (November 15) |
-| 1189 | Departed on Third Crusade (autumn) |
-| 1190 | Drowned in Saleph River near Seleucia (June 10) |
+| Year      | Event                                                                                   |
+| --------- | --------------------------------------------------------------------------------------- |
+| 1122      | Born in December in Hagenau, Duchy of Swabia                                            |
+| 1130      | His mother Judith of Bavaria died                                                       |
+| 1147      | His father died; Frederick became Duke of Swabia (Frederick III)                        |
+| 1147-1148 | Participated in the Second Crusade with uncle Conrad III                                |
+| 1148      | Distinguished himself at Siege of Damascus (July 24-28)                                 |
+| 1152      | Conrad III died (February 15); Frederick elected King of Germany in Frankfurt (March 4) |
+| 1152      | Crowned King of Germany in Aachen (March 9)                                             |
+| 1154-1155 | First Italian campaign                                                                  |
+| 1155      | Crowned King of Italy in Pavia (April 24)                                               |
+| 1155      | Crowned Holy Roman Emperor by Pope Adrian IV in Rome (June 18)                          |
+| 1156      | Married Beatrice of Burgundy at Würzburg (June 9)                                       |
+| 1157      | Term "sacrum imperium" first appeared in imperial documents                             |
+| 1157      | Incident at Diet of Besançon sparked conflict with papacy                               |
+| 1158      | Second Italian campaign; Diet of Roncaglia (November 11-26)                             |
+| 1159-1160 | Siege and destruction of Crema                                                          |
+| 1161-1162 | Siege of Milan (nine months)                                                            |
+| 1162      | Milan surrendered and was destroyed (March 1)                                           |
+| 1163      | Third Italian campaign                                                                  |
+| 1164      | Son Frederick V born (July 16)                                                          |
+| 1165      | Son Henry VI born (November); took oath at Würzburg against Pope Alexander III          |
+| 1166-1168 | Fourth Italian campaign; siege of Rome (1167)                                           |
+| 1167      | Lombard League formed (February-March, met at Pontida April 7)                          |
+| 1174-1176 | Fifth Italian campaign                                                                  |
+| 1176      | Defeated at Battle of Legnano (May 29)                                                  |
+| 1177      | Peace of Venice; reconciled with Pope Alexander III                                     |
+| 1178      | Crowned King of Burgundy at Arles (June 30)                                             |
+| 1180      | Henry the Lion stripped of lands and declared outlaw                                    |
+| 1181      | Henry the Lion submitted at Imperial Diet in Erfurt (November)                          |
+| 1183      | Peace of Constance with Lombard League (June 25)                                        |
+| 1184      | Wife Beatrice died (November 15)                                                        |
+| 1189      | Departed on Third Crusade (autumn)                                                      |
+| 1190      | Drowned in Saleph River near Seleucia (June 10)                                         |
 
 ---
 
@@ -215,108 +216,213 @@ From the Peace of Venice (1177), this quote demonstrates Frederick's eventual ac
 ## References
 
 [^1]: Britannica. "Frederick I | Biography, Barbarossa, Crusades, & Facts." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor
+
 [^2]: Encyclopedia.com. "Frederick I Barbarossa, Roman Emperor." https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/frederick-i-barbarossa-roman-emperor
+
 [^3]: History and Headlines. "June 10, 1190: Emperor Frederick I Barbarossa drowns during Third Crusade!" https://www.historyandheadlines.com/june-10-1190-emperor-frederick-barbarossa-drowns-third-crusade/
+
 [^4]: Medieval Ware. "The Grand Ambitions of Frederick Barbarossa." https://www.medievalware.com/blog/the-grand-ambitions-of-frederick-barbarossa/
+
 [^5]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^6]: Britannica. "Frederick I | Biography, Barbarossa, Crusades, & Facts." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor
+
 [^7]: Medieval Chronicles. "King Frederick I (Frederick Barbarossa): Reign And Legacy." https://www.medievalchronicles.com/medieval-history/medieval-history-periods/holy-roman-empire/king-frederick-barbarossa/
+
 [^8]: Grokipedia. "Frederick Barbarossa." https://grokipedia.com/page/Frederick_Barbarossa
+
 [^9]: Encyclopedia.com. "Frederick I Barbarossa, Roman Emperor." https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/frederick-i-barbarossa-roman-emperor
+
 [^10]: Medieval Ware. "The Grand Ambitions of Frederick Barbarossa." https://www.medievalware.com/blog/the-grand-ambitions-of-frederick-barbarossa/
+
 [^11]: The Collector. "Rise of the Red Beard: Who Was Frederick Barbarossa?" https://www.thecollector.com/frederick-barbarossa/
+
 [^12]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^13]: Britannica. "Frederick I | Biography, Barbarossa, Crusades, & Facts." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor
+
 [^14]: War History Online. "A Great And Formidable General - The Military Campaigns Of Frederick Barbarossa." https://www.warhistoryonline.com/medieval/frederick-barbarossa.html
+
 [^15]: Medieval Ware. "The Grand Ambitions of Frederick Barbarossa." https://www.medievalware.com/blog/the-grand-ambitions-of-frederick-barbarossa/
+
 [^16]: EBSCO Research Starters. "Frederick Barbarossa Takes the Throne." https://www.ebsco.com/research-starters/history/frederick-barbarossa-takes-throne
+
 [^17]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^18]: EBSCO Research Starters. "Frederick Barbarossa Takes the Throne." https://www.ebsco.com/research-starters/history/frederick-barbarossa-takes-throne
+
 [^19]: H-Net Reviews. "Germany's Rebel Duke Henry the Lion." https://warfarehistorynetwork.com/article/germanys-rebel-duke-henry-the-lion/
+
 [^20]: Heritage History. "Frederick Barbarossa." https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=barbarossa
+
 [^21]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^22]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^23]: The Latin Library. "Frederick I Barbarossa (c. 1123-1190)." https://www.thelatinlibrary.com/imperialism/notes/frederickbarbarossa.html
+
 [^24]: Britannica. "Diet of Roncaglia." https://www.britannica.com/topic/Diet-of-Roncaglia
+
 [^25]: History of the Germans Podcast. "Episode 55 – The Laws of Roncaglia." https://historyofthegermans.com/55-2/
+
 [^26]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^27]: Encyclopedia.com. "Frederick I Barbarossa, Roman Emperor." https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/frederick-i-barbarossa-roman-emperor
+
 [^28]: Britannica. "Italy - Frederick I, Barbarossa, Empire." https://www.britannica.com/place/Italy/Frederick-I-Frederick-Barbarossa
+
 [^29]: The Latin Library. "Frederick I Barbarossa (c. 1123-1190)." https://www.thelatinlibrary.com/imperialism/notes/frederickbarbarossa.html
+
 [^30]: Encyclopedia.com. "Frederick I Barbarossa, Roman Emperor." https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/frederick-i-barbarossa-roman-emperor
+
 [^31]: Medieval Ware. "The Grand Ambitions of Frederick Barbarossa." https://www.medievalware.com/blog/the-grand-ambitions-of-frederick-barbarassa/
+
 [^32]: ResearchGate. "The concept of sacrum imperium in historical scholarship." https://www.researchgate.net/publication/334538048_The_concept_of_sacrum_imperium_in_historical_scholarship
+
 [^33]: Wiley Online Library. "The concept of sacrum imperium in historical scholarship." https://compass.onlinelibrary.wiley.com/doi/10.1111/hic3.12586
+
 [^34]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^35]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^36]: Britannica. "Frederick I - German King, Emperor, Barbarossa." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor/Legacy
+
 [^37]: Britannica. "Frederick I | Biography, Barbarossa, Crusades, & Facts." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor
+
 [^38]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^39]: Medieval Ware. "The Grand Ambitions of Frederick Barbarossa." https://www.medievalware.com/blog/the-grand-ambitions-of-frederick-barbarossa/
+
 [^40]: Seven Swords. "Frederick Barbarossa: Emperor, Crusader, and Statesman." https://sevenswords.uk/frederick-barbarossa/
+
 [^41]: Encyclopedia.com. "Frederick I Barbarossa, Roman Emperor." https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/frederick-i-barbarossa-roman-emperor
+
 [^42]: Wikipedia. "Siege of Crema." https://en.wikipedia.org/wiki/Siege_of_Crema
+
 [^43]: Wikipedia. "Battle of Legnano." https://en.wikipedia.org/wiki/Battle_of_Legnano
+
 [^44]: Yale University Press. "Frederick Barbarossa." https://yalebooks.yale.edu/book/9780300122763/frederick-barbarossa/
+
 [^45]: History Today. "Barbarossa in Italy." https://www.historytoday.com/reviews/barbarossa-italy
+
 [^46]: H-Net Reviews. "Elliott on Mierow, 'The Deeds of Frederick Barbarossa.'" https://networks.h-net.org/node/35008/reviews/44241/elliott-mierow-deeds-frederick-barbarossa
+
 [^47]: Hanover College. "The Struggle Between Frederick Barbarossa and Alexander III, 1160-1177." https://history.hanover.edu/courses/excerpts/344fbar.html
+
 [^48]: Yale Avalon Project. "The Struggle Between Frederick Barbarossa and Alexander III; 1160-1177." https://avalon.law.yale.edu/medieval/barba.asp
+
 [^49]: Catholic Encyclopedia. "Frederick I." https://www.newadvent.org/cathen/06252b.htm
+
 [^50]: Catholic Encyclopedia. "Frederick I." https://www.newadvent.org/cathen/06252b.htm
+
 [^51]: Wikipedia. "Henry the Lion." https://en.wikipedia.org/wiki/Henry_the_Lion
+
 [^52]: Warfare History Network. "Germany's Rebel Duke Henry the Lion." https://warfarehistorynetwork.com/article/germanys-rebel-duke-henry-the-lion/
+
 [^53]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^54]: History of the Germans Podcast. "Episode 62 - The Fall of Henry the Lion." https://historyofthegermans.com/62-2/
+
 [^55]: Wikipedia. "Henry the Lion." https://en.wikipedia.org/wiki/Henry_the_Lion
+
 [^56]: AdamJohnson.ch. "Was Frederick Barbarossa a Failure?" https://adamjohnson.ch/2016/04/28/was-frederick-barbarossa-a-failure/
+
 [^57]: Wikipedia. "Battle of Legnano." https://en.wikipedia.org/wiki/Battle_of_Legnano
+
 [^58]: EBSCO Research Starters. "Battle of Legnano." https://www.ebsco.com/research-starters/military-history-and-science/battle-legnano
+
 [^59]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^60]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^61]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^62]: Mary McMyne. "Medieval Women: Beatrice of Burgundy." https://marymcmyne.com/2015/03/08/beatrice-of-burgundy/
+
 [^63]: Wikipedia. "Frederick Barbarossa." https://en.wikipedia.org/wiki/Frederick_Barbarossa
+
 [^64]: Kiddle. "Frederick Barbarossa facts for kids." https://kids.kiddle.co/Frederick_Barbarossa
+
 [^65]: Encyclopedia.com. "Beatrice of Upper Burgundy (1145–1184)." https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/beatrice-upper-burgundy-1145-1184
+
 [^66]: Grokipedia. "Beatrice I, Countess of Burgundy." https://grokipedia.com/page/Beatrice_I,_Countess_of_Burgundy
+
 [^67]: EBSCO Research Starters. "Frederick I Barbarossa." https://www.ebsco.com/research-starters/biography/frederick-i-barbarossa
+
 [^68]: Columbia University Press. "The Deeds of Frederick Barbarossa." https://cup.columbia.edu/book/the-deeds-of-frederick-barbarossa/9780231134194/
+
 [^69]: Alaturka. "Kyffhäuser Mountain Range and Mythology of Barbarossa." https://www.alaturka.info/en/history/middle-ages/3965-kyffhaeuser-mountain-range-and-mythology-of-barbarossa
+
 [^70]: Grokipedia. "King asleep in mountain." https://grokipedia.com/page/King_asleep_in_mountain
+
 [^71]: Wikipedia. "King asleep in mountain." https://en.wikipedia.org/wiki/King_asleep_in_mountain
+
 [^72]: Ed Simoneit Blog. "When the ravens cease to fly around the mountain he will awake and restore Germany to its ancient greatness." https://edsimoneit.blog/2020/04/09/when-the-ravens-cease-to-fly-around-the-mountain-he-will-awake-and-restore-germany-to-its-ancient-greatness/
+
 [^73]: History of the Germans Podcast. "Episode 66 - The Myths of Barbarossa." https://historyofthegermans.com/66-2/
+
 [^74]: Medievalists.net. "Kings in the Mountain: Myths from Germany and Byzantium." https://www.medievalists.net/2022/09/kings-mountain-myths-germany-byzantium/
+
 [^75]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^76]: German Culture. "Frederick Barbarossa: Emperor, Conflict & Legacy in Germany." https://germanculture.com.ua/history/frederick-barbarossa/
+
 [^77]: History of the Germans Podcast. "Episode 66 - The Myths of Barbarossa." https://historyofthegermans.com/66-2/
+
 [^78]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^79]: Britannica. "Frederick I - German King, Emperor, Barbarossa | Legacy." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor/Legacy
+
 [^80]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^81]: Britannica. "Frederick I - German King, Emperor, Barbarossa | Legacy." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor/Legacy
+
 [^82]: Britannica. "Frederick I - German King, Emperor, Barbarossa | Legacy." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor/Legacy
+
 [^83]: Medieval Chronicles. "King Frederick I (Frederick Barbarossa): Reign And Legacy." https://www.medievalchronicles.com/medieval-history/medieval-history-periods/holy-roman-empire/king-frederick-barbarossa/
+
 [^84]: Encyclopedia.com. "Frederick I Barbarossa, Roman Emperor." https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/frederick-i-barbarossa-roman-emperor
+
 [^85]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^86]: EBSCO Research Starters. "Frederick I Barbarossa." https://www.ebsco.com/research-starters/biography/frederick-i-barbarossa
+
 [^87]: EBSCO Research Starters. "Frederick Barbarossa." https://www.ebsco.com/research-starters/history/frederick-barbarossa
+
 [^88]: Oxford Academic Reviews. "Frederick Barbarossa: the Prince and the Myth." https://reviews.history.ac.uk/review/2018/
+
 [^89]: Oxford Academic Reviews. "Frederick Barbarossa: the Prince and the Myth." https://reviews.history.ac.uk/review/2018/
+
 [^90]: Goodreads. "Frederick Barbarossa: A Prince and the Myth by John B. Freed." https://www.goodreads.com/book/show/27248477-frederick-barbarossa
+
 [^91]: University of Chicago Press. "Frederick Barbarossa, Loud." https://press.uchicago.edu/ucp/books/book/distributed/F/bo248107854.html
+
 [^92]: Medieval Ware. "The Grand Ambitions of Frederick Barbarossa." https://www.medievalware.com/blog/the-grand-ambitions-of-frederick-barbarossa/
+
 [^93]: Seven Swords. "Frederick Barbarossa: Emperor, Crusader, and Statesman." https://sevenswords.uk/frederick-barbarossa/
+
 [^94]: History Today. "Barbarossa in Italy." https://www.historytoday.com/reviews/barbarossa-italy
+
 [^95]: Yale University Press. "Frederick Barbarossa." https://yalebooks.yale.edu/book/9780300122763/frederick-barbarossa/
+
 [^96]: AdamJohnson.ch. "Was Frederick Barbarossa a Failure?" https://adamjohnson.ch/2016/04/28/was-frederick-barbarossa-a-failure/
+
 [^97]: Wikipedia. "Battle of Legnano." https://en.wikipedia.org/wiki/Battle_of_Legnano
+
 [^98]: Britannica. "Frederick I - Papal Conflict, Italy, Emperor | Relations with Pope Alexander III." https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor/Relations-with-Pope-Alexander-III
+
 [^99]: Oxford Academic. "When the Emperor Submitted to his Rebellious Subjects." https://academic.oup.com/ehr/article-abstract/131/550/519/1748649?redirectedFrom=fulltext
+
 [^100]: AdamJohnson.ch. "Was Frederick Barbarossa a Failure?" https://adamjohnson.ch/2016/04/28/was-frederick-barbarossa-a-failure/
+
 [^101]: History of the Germans Podcast. "Episode 66 - The Myths of Barbarossa." https://historyofthegermans.com/66-2/
+
 [^102]: AdamJohnson.ch. "Was Frederick Barbarossa a Failure?" https://adamjohnson.ch/2016/04/28/was-frederick-barbarossa-a-failure/
+
 [^103]: QuoteTab. "Quotes by 'Frederick I, Holy Roman Emperor.'" https://www.quotetab.com/quotes/by-frederick-i-holy-roman-emperor
+
 [^104]: Quote.org. "4 Frederick Barbarossa - Inspiring quotes." https://quote.org/author/frederick-barbarossa-30842
+
 [^105]: Lib Quotes. "Frederick I, Holy Roman Emperor Quotes." https://libquotes.com/frederick-i
+
 [^106]: Hanover College. "The Struggle Between Frederick Barbarossa and Alexander III, 1160-1177." https://history.hanover.edu/courses/excerpts/344fbar.html

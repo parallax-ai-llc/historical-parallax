@@ -161,26 +161,26 @@ Feminist historians have criticized the warrior society that Yoritomo establishe
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1147 | Born in Kyoto as third son of Minamoto no Yoshitomo |
-| 1159 | Father killed in Heiji Rebellion; Yoritomo captured and exiled to Izu Province at age 13 |
-| 1160-1180 | Twenty years in exile in Izu under supervision of Hōjō family |
-| 1177 | Marries Hōjō Masako |
-| 1180 | Prince Mochihito issues call to arms against Taira; Yoritomo raises rebellion; defeated at Battle of Ishibashiyama |
-| 1180 | Retreats to Kamakura; begins building coalition of eastern warriors |
-| 1180 | Establishes samurai-dokoro (Board of Retainers) |
-| 1183 | Minamoto forces capture Kyoto; Yoritomo remains in Kamakura |
-| 1184 | Establishes mandokoro (Administrative Board) and monchūjo (Board of Inquiry) |
-| 1185 | Brother Yoshitsune defeats Taira at Battle of Dan-no-ura; Genpei War ends |
-| 1185 | Declares Yoshitsune an outlaw; begins persecution of his brother |
-| 1185 | Receives imperial authorization to appoint shugo (military governors) and jitō (land stewards) |
-| 1189 | Conquers northern Fujiwara family; Yoshitsune killed |
-| 1192 | Appointed Sei-i Taishōgun (Shogun) by Emperor Go-Toba |
-| 1193 | Orders death of brother Noriyori |
-| 1195 | Makes pilgrimage to Kyoto; demonstrates power to imperial court |
-| 1197 | Eldest daughter Ōhime dies |
-| 1199 | Dies from injuries after falling from horse at age 51; succeeded by son Yoriie |
+| Year      | Event                                                                                                              |
+| --------- | ------------------------------------------------------------------------------------------------------------------ |
+| 1147      | Born in Kyoto as third son of Minamoto no Yoshitomo                                                                |
+| 1159      | Father killed in Heiji Rebellion; Yoritomo captured and exiled to Izu Province at age 13                           |
+| 1160-1180 | Twenty years in exile in Izu under supervision of Hōjō family                                                      |
+| 1177      | Marries Hōjō Masako                                                                                                |
+| 1180      | Prince Mochihito issues call to arms against Taira; Yoritomo raises rebellion; defeated at Battle of Ishibashiyama |
+| 1180      | Retreats to Kamakura; begins building coalition of eastern warriors                                                |
+| 1180      | Establishes samurai-dokoro (Board of Retainers)                                                                    |
+| 1183      | Minamoto forces capture Kyoto; Yoritomo remains in Kamakura                                                        |
+| 1184      | Establishes mandokoro (Administrative Board) and monchūjo (Board of Inquiry)                                       |
+| 1185      | Brother Yoshitsune defeats Taira at Battle of Dan-no-ura; Genpei War ends                                          |
+| 1185      | Declares Yoshitsune an outlaw; begins persecution of his brother                                                   |
+| 1185      | Receives imperial authorization to appoint shugo (military governors) and jitō (land stewards)                     |
+| 1189      | Conquers northern Fujiwara family; Yoshitsune killed                                                               |
+| 1192      | Appointed Sei-i Taishōgun (Shogun) by Emperor Go-Toba                                                              |
+| 1193      | Orders death of brother Noriyori                                                                                   |
+| 1195      | Makes pilgrimage to Kyoto; demonstrates power to imperial court                                                    |
+| 1197      | Eldest daughter Ōhime dies                                                                                         |
+| 1199      | Dies from injuries after falling from horse at age 51; succeeded by son Yoriie                                     |
 
 ---
 

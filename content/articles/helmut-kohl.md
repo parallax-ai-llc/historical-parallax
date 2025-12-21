@@ -223,44 +223,44 @@ For critics, Helmut Kohl was a machine politician of limited vision who happened
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1930 | Born April 3 in Ludwigshafen am Rhein, Germany |
-| 1946 | Joined the Christian Democratic Union (CDU) at age 16 |
-| 1947 | Co-founded Junge Union branch in Ludwigshafen |
-| 1950 | Began studying law at Johann Wolfgang Goethe University Frankfurt |
-| 1958 | Earned PhD in political science from University of Heidelberg |
-| 1959 | Elected to Parliament of Rhineland-Palatinate (youngest member) |
-| 1960 | Married Hannelore Renner on June 27 |
-| 1963 | Birth of first son, Walter |
-| 1965 | Birth of second son, Peter |
-| 1969 | Elected Minister-President of Rhineland-Palatinate |
-| 1973 | Elected national chairman of the CDU |
-| 1976 | First unsuccessful bid for German chancellorship |
-| 1982 | Became Chancellor on October 1 through constructive vote of no confidence |
-| 1983 | Won federal elections on March 6; coalition secured 58-seat majority |
-| 1984 | Joined François Mitterrand for historic handshake at Verdun ceremony |
-| 1985 | Controversial visit with Ronald Reagan to Bitburg cemetery |
-| 1985 | Chaired G7 summit |
-| 1987 | Won federal elections on January 25 with reduced majority |
-| 1989 | Berlin Wall fell on November 9; presented Ten-Point Program November 28 |
+| Year | Event                                                                      |
+| ---- | -------------------------------------------------------------------------- |
+| 1930 | Born April 3 in Ludwigshafen am Rhein, Germany                             |
+| 1946 | Joined the Christian Democratic Union (CDU) at age 16                      |
+| 1947 | Co-founded Junge Union branch in Ludwigshafen                              |
+| 1950 | Began studying law at Johann Wolfgang Goethe University Frankfurt          |
+| 1958 | Earned PhD in political science from University of Heidelberg              |
+| 1959 | Elected to Parliament of Rhineland-Palatinate (youngest member)            |
+| 1960 | Married Hannelore Renner on June 27                                        |
+| 1963 | Birth of first son, Walter                                                 |
+| 1965 | Birth of second son, Peter                                                 |
+| 1969 | Elected Minister-President of Rhineland-Palatinate                         |
+| 1973 | Elected national chairman of the CDU                                       |
+| 1976 | First unsuccessful bid for German chancellorship                           |
+| 1982 | Became Chancellor on October 1 through constructive vote of no confidence  |
+| 1983 | Won federal elections on March 6; coalition secured 58-seat majority       |
+| 1984 | Joined François Mitterrand for historic handshake at Verdun ceremony       |
+| 1985 | Controversial visit with Ronald Reagan to Bitburg cemetery                 |
+| 1985 | Chaired G7 summit                                                          |
+| 1987 | Won federal elections on January 25 with reduced majority                  |
+| 1989 | Berlin Wall fell on November 9; presented Ten-Point Program November 28    |
 | 1990 | Secured Gorbachev's approval of NATO membership for unified Germany (July) |
-| 1990 | German reunification achieved on October 3 |
-| 1990 | Won first all-German elections on December 2 with 134-seat majority |
-| 1992 | Maastricht Treaty establishing European Union signed February 7 |
-| 1992 | Chaired G7 summit |
-| 1994 | Won parliamentary elections on October 16 with reduced 10-seat majority |
-| 1998 | Named Honorary Citizen of Europe by European heads of state |
-| 1998 | Defeated by Gerhard Schröder's Social Democrats; left office |
-| 1999 | CDU donations scandal publicly erupted in December |
-| 2000 | Resigned from CDU honorary positions |
-| 2001 | Hannelore Kohl died by suicide on July 5 |
-| 2001 | Assessed 300,000 Deutsche Mark fine for donations scandal |
-| 2004 | Published first volume of memoirs (covering 1930-1982) |
-| 2005 | Published second volume of memoirs (covering 1982-1990) |
-| 2008 | Married Maike Richter while hospitalized after head injury |
-| 2017 | Died June 16 in Ludwigshafen at age 87 |
-| 2017 | Received European act of state (first person ever accorded this honor) |
+| 1990 | German reunification achieved on October 3                                 |
+| 1990 | Won first all-German elections on December 2 with 134-seat majority        |
+| 1992 | Maastricht Treaty establishing European Union signed February 7            |
+| 1992 | Chaired G7 summit                                                          |
+| 1994 | Won parliamentary elections on October 16 with reduced 10-seat majority    |
+| 1998 | Named Honorary Citizen of Europe by European heads of state                |
+| 1998 | Defeated by Gerhard Schröder's Social Democrats; left office               |
+| 1999 | CDU donations scandal publicly erupted in December                         |
+| 2000 | Resigned from CDU honorary positions                                       |
+| 2001 | Hannelore Kohl died by suicide on July 5                                   |
+| 2001 | Assessed 300,000 Deutsche Mark fine for donations scandal                  |
+| 2004 | Published first volume of memoirs (covering 1930-1982)                     |
+| 2005 | Published second volume of memoirs (covering 1982-1990)                    |
+| 2008 | Married Maike Richter while hospitalized after head injury                 |
+| 2017 | Died June 16 in Ludwigshafen at age 87                                     |
+| 2017 | Received European act of state (first person ever accorded this honor)     |
 
 ---
 
@@ -287,99 +287,195 @@ For critics, Helmut Kohl was a machine politician of limited vision who happened
 ## References
 
 [^1]: Britannica, "Helmut Kohl | Biography & Facts," https://www.britannica.com/biography/Helmut-Kohl
+
 [^2]: European Union, "Helmut Kohl, François Mitterrand – pioneers," https://european-union.europa.eu/principles-countries-history/history-eu/eu-pioneers/helmut-kohl-and-francois-mitterrand_en
+
 [^3]: Corruption Tracker, "The CDU Party Funding Scandal," https://corruption-tracker.org/case/the-cdu-party-funding-scandal
+
 [^4]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^5]: TheFamousPeople, "Helmut Kohl Biography - Childhood, Life Achievements & Timeline," https://www.thefamouspeople.com/profiles/helmut-kohl-3836.php
+
 [^6]: EBSCO Research, "Helmut Kohl | Research Starters," https://www.ebsco.com/research-starters/biography/helmut-kohl
+
 [^7]: Encyclopedia.com, "Helmut Kohl," https://www.encyclopedia.com/people/history/german-history-biographies/helmut-kohl
+
 [^8]: Alpha History, "Helmut Kohl," https://alphahistory.com/coldwar/helmut-kohl/
+
 [^9]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^10]: EBSCO Research, "Helmut Kohl | Research Starters," https://www.ebsco.com/research-starters/biography/helmut-kohl
+
 [^11]: TheFamousPeople, "Helmut Kohl Biography," https://www.thefamouspeople.com/profiles/helmut-kohl-3836.php
+
 [^12]: TheFamousPeople, "Helmut Kohl Biography," https://www.thefamouspeople.com/profiles/helmut-kohl-3836.php
+
 [^13]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^14]: Britannica, "Helmut Kohl | Biography & Facts," https://www.britannica.com/biography/Helmut-Kohl
+
 [^15]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^16]: EBSCO Research, "Helmut Kohl | Research Starters," https://www.ebsco.com/research-starters/biography/helmut-kohl
+
 [^17]: Britannica, "Helmut Kohl | Biography & Facts," https://www.britannica.com/biography/Helmut-Kohl
+
 [^18]: Encyclopedia.com, "Helmut Kohl," https://www.encyclopedia.com/people/history/german-history-biographies/helmut-kohl
+
 [^19]: TheFamousPeople, "Helmut Kohl Biography," https://www.thefamouspeople.com/profiles/helmut-kohl-3836.php
+
 [^20]: Britannica, "Helmut Kohl | Biography & Facts," https://www.britannica.com/biography/Helmut-Kohl
+
 [^21]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^22]: EBSCO Research, "Helmut Kohl | Research Starters," https://www.ebsco.com/research-starters/biography/helmut-kohl
+
 [^23]: Bundesregierung, "The Chancellor who reunited Germany," https://www.bundesregierung.de/breg-en/service/archive/archive/the-chancellor-who-reunited-germany-413888
+
 [^24]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^25]: History.com, "Helmut Kohl elected West German chancellor," https://www.history.com/this-day-in-history/march-6/kohl-elected-west-german-chancellor
+
 [^26]: National Archives, "Chancellor Helmut Kohl - Reunification of Germany, 1990," https://www.archives.gov/exhibits/eyewitness/html.php?section=10
+
 [^27]: CVCE, "Chancellor Kohl's role in reunification," https://www.cvce.eu/en/recherche/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/721f9429-9056-4752-8419-7a060147d34b
+
 [^28]: Britannica, "Germany - Helmut Kohl and the struggles of reunification," https://www.britannica.com/place/Germany/Helmut-Kohl-and-the-struggles-of-reunification
+
 [^29]: Bundesregierung, "The Chancellor who reunited Germany," https://www.bundesregierung.de/breg-en/service/archive/archive/the-chancellor-who-reunited-germany-413888
+
 [^30]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^31]: EBSCO Research, "Helmut Kohl | Research Starters," https://www.ebsco.com/research-starters/biography/helmut-kohl
+
 [^32]: European Union, "Helmut Kohl, François Mitterrand – pioneers," https://european-union.europa.eu/principles-countries-history/history-eu/eu-pioneers/helmut-kohl-and-francois-mitterrand_en
+
 [^33]: BrainyQuote, "Helmut Kohl Quotes," https://www.brainyquote.com/authors/helmut-kohl-quotes
+
 [^34]: European Union, "Helmut Kohl, François Mitterrand – pioneers," https://european-union.europa.eu/principles-countries-history/history-eu/eu-pioneers/helmut-kohl-and-francois-mitterrand_en
+
 [^35]: Wisdomly, "45 Mind-Blowing Quotes By Helmut Kohl," https://www.wisdomly.net/helmut-kohl-3836.php
+
 [^36]: Wikipedia, "European act of state in honour of Helmut Kohl," https://en.wikipedia.org/wiki/European_act_of_state_in_honour_of_Helmut_Kohl
+
 [^37]: Hoover Institution, "Helmut Kohl, Giant," https://www.hoover.org/research/helmut-kohl-giant
+
 [^38]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^39]: TheFamousPeople, "Helmut Kohl Biography," https://www.thefamouspeople.com/profiles/helmut-kohl-3836.php
+
 [^40]: Wikipedia, "CDU donations scandal," https://en.wikipedia.org/wiki/CDU_donations_scandal
+
 [^41]: Brookings, "Helmut Kohl: A great and flawed statesman," https://www.brookings.edu/articles/helmut-kohl-a-great-and-flawed-statesman/
+
 [^42]: GHDI, "Former Chancellor Helmut Kohl before the Investigatory Committee," https://germanhistorydocs.org/en/a-new-germany-1990-2023/former-chancellor-helmut-kohl-before-the-investigatory-committee-on-the-cdu-donations-scandal-june-29-2000
+
 [^43]: World Socialist Web Site, "Financial scandal envelops former German Chancellor Helmut Kohl," https://www.wsws.org/en/articles/1999/12/ger-d04.html
+
 [^44]: Brookings, "Helmut Kohl: A great and flawed statesman," https://www.brookings.edu/articles/helmut-kohl-a-great-and-flawed-statesman/
+
 [^45]: Corruption Tracker, "The CDU Party Funding Scandal," https://corruption-tracker.org/case/the-cdu-party-funding-scandal
+
 [^46]: TheFamousPeople, "Helmut Kohl Biography," https://www.thefamouspeople.com/profiles/helmut-kohl-3836.php
+
 [^47]: Britannica, "Germany - Helmut Kohl and the struggles of reunification," https://www.britannica.com/place/Germany/Helmut-Kohl-and-the-struggles-of-reunification
+
 [^48]: New World Encyclopedia, "Helmut Kohl," https://www.newworldencyclopedia.org/entry/Helmut_Kohl
+
 [^49]: Wisdomly, "45 Mind-Blowing Quotes By Helmut Kohl," https://www.wisdomly.net/helmut-kohl-3836.php
+
 [^50]: Cambridge Core, "In Memory of the Two Helmuts," https://www.cambridge.org/core/journals/central-european-history/article/in-memory-of-the-two-helmuts-the-lives-legacies-and-historical-impact-of-helmut-schmidt-and-helmut-kohl/C715F636BDEA738D0D9A9D8C547D061C
+
 [^51]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^52]: The Week, "Germany: Family drama swirls around Helmut Kohl," https://theweek.com/articles/466940/germany-family-drama-swirls-around-helmut-kohl
+
 [^53]: Wikipedia, "Hannelore Kohl," https://en.wikipedia.org/wiki/Hannelore_Kohl
+
 [^54]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^55]: EBSCO Research, "Helmut Kohl | Research Starters," https://www.ebsco.com/research-starters/biography/helmut-kohl
+
 [^56]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^57]: Deseret News, "Ailing wife of ex-German leader kills herself," https://www.deseret.com/2001/7/5/19594828/ailing-wife-of-ex-german-leader-kills-herself/
+
 [^58]: Wikipedia, "Hannelore Kohl," https://en.wikipedia.org/wiki/Hannelore_Kohl
+
 [^59]: Wikipedia, "Hannelore Kohl," https://en.wikipedia.org/wiki/Hannelore_Kohl
+
 [^60]: Wikipedia, "Helmut Kohl," https://en.wikipedia.org/wiki/Helmut_Kohl
+
 [^61]: The Week, "Germany: Family drama swirls around Helmut Kohl," https://theweek.com/articles/466940/germany-family-drama-swirls-around-helmut-kohl
+
 [^62]: The Week, "Germany: Family drama swirls around Helmut Kohl," https://theweek.com/articles/466940/germany-family-drama-swirls-around-helmut-kohl
+
 [^63]: New World Encyclopedia, "Helmut Kohl," https://www.newworldencyclopedia.org/entry/Helmut_Kohl
+
 [^64]: Bundesregierung, "The Chancellor who reunited Germany," https://www.bundesregierung.de/breg-en/service/archive/archive/the-chancellor-who-reunited-germany-413888
+
 [^65]: Britannica, "Germany - Helmut Kohl and the struggles of reunification," https://www.britannica.com/place/Germany/Helmut-Kohl-and-the-struggles-of-reunification
+
 [^66]: BrainyQuote, "Helmut Kohl Quotes," https://www.brainyquote.com/authors/helmut-kohl-quotes
+
 [^67]: ResearchGate, "Helmut Kohl and the European Union," https://www.researchgate.net/publication/330713632_Helmut_Kohl_and_the_European_Union
+
 [^68]: Cambridge Core, "In Memory of the Two Helmuts," https://www.cambridge.org/core/journals/central-european-history/article/in-memory-of-the-two-helmuts-the-lives-legacies-and-historical-impact-of-helmut-schmidt-and-helmut-kohl/C715F636BDEA738D0D9A9D8C547D061C
+
 [^69]: Encyclopedia.com, "Kohl, Helmut (b. 1930)," https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/kohl-helmut-b-1930
+
 [^70]: Hoover Institution, "Helmut Kohl, Giant," https://www.hoover.org/research/helmut-kohl-giant
+
 [^71]: Wilson Center, "The Helmut Kohl Transcripts," https://www.wilsoncenter.org/blog-post/helmut-kohl-collection-new-resource-post-cold-war-history
+
 [^72]: Wikipedia, "CDU donations scandal," https://en.wikipedia.org/wiki/CDU_donations_scandal
+
 [^73]: Corruption Tracker, "The CDU Party Funding Scandal," https://corruption-tracker.org/case/the-cdu-party-funding-scandal
+
 [^74]: Wikipedia, "European act of state in honour of Helmut Kohl," https://en.wikipedia.org/wiki/European_act_of_state_in_honour_of_Helmut_Kohl
+
 [^75]: Wikipedia, "European act of state in honour of Helmut Kohl," https://en.wikipedia.org/wiki/European_act_of_state_in_honour_of_Helmut_Kohl
+
 [^76]: Cambridge Core, "In Memory of the Two Helmuts," https://www.cambridge.org/core/journals/central-european-history/article/in-memory-of-the-two-helmuts-the-lives-legacies-and-historical-impact-of-helmut-schmidt-and-helmut-kohl/C715F636BDEA738D0D9A9D8C547D061C
+
 [^77]: Hoover Institution, "Helmut Kohl, Giant," https://www.hoover.org/research/helmut-kohl-giant
+
 [^78]: National Archives, "Chancellor Helmut Kohl - Reunification of Germany, 1990," https://www.archives.gov/exhibits/eyewitness/html.php?section=10
+
 [^79]: Federal Foreign Office, "Helmut Kohl's European legacy," https://www.auswaertiges-amt.de/en/newsroom/news/170628-bm-faz/291136
+
 [^80]: Wisdomly, "45 Mind-Blowing Quotes By Helmut Kohl," https://www.wisdomly.net/helmut-kohl-3836.php
+
 [^81]: BrainyQuote, "Helmut Kohl Quotes," https://www.brainyquote.com/authors/helmut-kohl-quotes
+
 [^82]: Wikipedia, "European act of state in honour of Helmut Kohl," https://en.wikipedia.org/wiki/European_act_of_state_in_honour_of_Helmut_Kohl
+
 [^83]: World Socialist Web Site, "Financial scandal envelops former German Chancellor Helmut Kohl," https://www.wsws.org/en/articles/1999/12/ger-d04.html
+
 [^84]: Brookings, "Helmut Kohl: A great and flawed statesman," https://www.brookings.edu/articles/helmut-kohl-a-great-and-flawed-statesman/
+
 [^85]: CVCE, "Chancellor Kohl's role in reunification," https://www.cvce.eu/en/recherche/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/721f9429-9056-4752-8419-7a060147d34b
+
 [^86]: Cambridge Core, "In Memory of the Two Helmuts," https://www.cambridge.org/core/journals/central-european-history/article/in-memory-of-the-two-helmuts-the-lives-legacies-and-historical-impact-of-helmut-schmidt-and-helmut-kohl/C715F636BDEA738D0D9A9D8C547D061C
+
 [^87]: Brookings, "Helmut Kohl: A great and flawed statesman," https://www.brookings.edu/articles/helmut-kohl-a-great-and-flawed-statesman/
+
 [^88]: ResearchGate, "Helmut Kohl and the European Union," https://www.researchgate.net/publication/330713632_Helmut_Kohl_and_the_European_Union
+
 [^89]: The Week, "Germany: Family drama swirls around Helmut Kohl," https://theweek.com/articles/466940/germany-family-drama-swirls-around-helmut-kohl
+
 [^90]: BrainyQuote, "Helmut Kohl Quotes," https://www.brainyquote.com/authors/helmut-kohl-quotes
+
 [^91]: BrainyQuote, "Helmut Kohl Quotes," https://www.brainyquote.com/authors/helmut-kohl-quotes
+
 [^92]: Wisdomly, "45 Mind-Blowing Quotes By Helmut Kohl," https://www.wisdomly.net/helmut-kohl-3836.php
+
 [^93]: BrainyQuote, "Helmut Kohl Quotes," https://www.brainyquote.com/authors/helmut-kohl-quotes
+
 [^94]: A-Z Quotes, "TOP 12 QUOTES BY HELMUT KOHL," https://www.azquotes.com/author/8194-Helmut_Kohl
+
 [^95]: BrainyQuote, "Helmut Kohl Quotes," https://www.brainyquote.com/authors/helmut-kohl-quotes
+
 [^96]: QuotePark, "Helmut Kohl quote," https://quotepark.com/quotes/1724643-helmut-kohl-the-visionaries-of-yesterday-are-the-realists-of-t/
+
 [^97]: Inspiring Quotes, "Top 50 HELMUT KOHL quotes and sayings," https://www.inspiringquotes.us/author/7371-helmut-kohl

@@ -27,12 +27,14 @@ On June 29, facing the prospect of mass bloodshed with the 1988 Seoul Olympics a
 South Korea was ruled by military strongmen for 26 years:
 
 **Park Chung-hee (1961-1979):**
+
 - Seized power in 1961 coup
 - Rapid industrialization
 - Yushin Constitution (1972): indefinite rule
 - Assassinated October 1979
 
 **Chun Doo-hwan (1980-1988):**
+
 - Seized power after Park's death
 - Crushed Gwangju Uprising (May 1980): hundreds killed
 - Brutal dictatorship; but economy grew
@@ -58,6 +60,7 @@ The 1980 Gwangju Uprising—brutally suppressed with hundreds dead—remained an
 **January 14, 1987:** Seoul National University student Park Jong-chul died during police interrogation.
 
 **Facts:**
+
 - Arrested for questioning about activist locations
 - Died from waterboarding torture
 - Police claimed he "hit a desk and collapsed"
@@ -77,6 +80,7 @@ This meant democracy would be denied for another seven years. The announcement t
 **June 9, 1987:** Yonsei University student Lee Han-yeol was struck in the head by a tear gas canister during a campus protest.
 
 **The Photograph:**
+
 - His unconscious body carried by a fellow student
 - Blood streaming down his face
 - Became the defining image of the struggle
@@ -91,6 +95,7 @@ His injury—just one day before the main protests—intensified public rage.[^9
 ### June 10-26: Nationwide Protests
 
 **June 10:** Mass rallies began simultaneously across the country
+
 - Seoul, Busan, Gwangju, Daegu, Daejeon...
 - Estimates: millions participated over subsequent weeks
 - Students, workers, professionals, housewives joined
@@ -109,6 +114,7 @@ His injury—just one day before the main protests—intensified public rage.[^9
 ### Violence and Tear Gas
 
 The regime used enormous quantities of tear gas:
+
 - Seoul was cloudedwith gas for weeks
 - Injuries from canisters common
 - Violence by riot police
@@ -150,6 +156,7 @@ The authoritarian regime had capitulated.[^12]
 ### Constitutional Revision
 
 **October 1987:** New constitution approved by referendum (93% in favor)
+
 - Direct presidential elections
 - Single 5-year terms
 - Enhanced human rights protections
@@ -157,6 +164,7 @@ The authoritarian regime had capitulated.[^12]
 ### December 1987 Election
 
 **December 16, 1987:** First direct presidential election since 1971
+
 - Roh Tae-woo: 36.6%
 - Kim Young-sam: 28%
 - Kim Dae-jung: 27%
@@ -184,20 +192,20 @@ The June Struggle itself was notable for avoiding Gwangju-scale bloodshed—larg
 
 ### Democracy Activists
 
-| Name | Role |
-|------|------|
-| Park Jong-chul (박종철) | Student martyr (tortured to death) |
-| Lee Han-yeol (이한열) | Student martyr (tear gas victim) |
-| Kim Dae-jung (김대중) | Opposition leader (future president) |
-| Kim Young-sam (김영삼) | Opposition leader (future president) |
-| Catholic Priests' Association for Justice | Exposed Park's torture |
+| Name                                      | Role                                 |
+| ----------------------------------------- | ------------------------------------ |
+| Park Jong-chul (박종철)                   | Student martyr (tortured to death)   |
+| Lee Han-yeol (이한열)                     | Student martyr (tear gas victim)     |
+| Kim Dae-jung (김대중)                     | Opposition leader (future president) |
+| Kim Young-sam (김영삼)                    | Opposition leader (future president) |
+| Catholic Priests' Association for Justice | Exposed Park's torture               |
 
 ### Regime
 
-| Name | Role |
-|------|------|
-| Chun Doo-hwan (전두환) | President (military dictator) |
-| Roh Tae-woo (노태우) | Ruling party chairman; successor |
+| Name                   | Role                             |
+| ---------------------- | -------------------------------- |
+| Chun Doo-hwan (전두환) | President (military dictator)    |
+| Roh Tae-woo (노태우)   | Ruling party chairman; successor |
 
 ---
 
@@ -235,6 +243,7 @@ The June Struggle itself was notable for avoiding Gwangju-scale bloodshed—larg
 ### The Democracy Trilogy
 
 South Korean democracy is often understood through three uprisings:
+
 1. **4.19 Revolution (1960):** First democratic victory
 2. **Gwangju Uprising (1980):** Democratic martyrdom
 3. **June Struggle (1987):** Democratic victory
@@ -245,39 +254,55 @@ Together they form Korea's founding democratic narrative.[^17]
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| January 14, 1987 | Park Jong-chul tortured to death |
-| April 13, 1987 | Chun bans constitutional debate |
-| June 9, 1987 | Lee Han-yeol struck by tear gas canister |
-| June 10, 1987 | Mass protests begin; Roh nominated |
-| June 10-26, 1987 | Nationwide daily protests |
-| June 29, 1987 | Roh's June 29 Declaration |
-| July 5, 1987 | Lee Han-yeol dies |
-| July 9, 1987 | Lee Han-yeol's funeral (1.6 million attend) |
-| October 1987 | New constitution approved |
-| December 16, 1987 | Direct presidential election; Roh wins |
-| February 1988 | Roh inaugurated; Sixth Republic begins |
-| September 1988 | Seoul Olympics held |
+| Date              | Event                                       |
+| ----------------- | ------------------------------------------- |
+| January 14, 1987  | Park Jong-chul tortured to death            |
+| April 13, 1987    | Chun bans constitutional debate             |
+| June 9, 1987      | Lee Han-yeol struck by tear gas canister    |
+| June 10, 1987     | Mass protests begin; Roh nominated          |
+| June 10-26, 1987  | Nationwide daily protests                   |
+| June 29, 1987     | Roh's June 29 Declaration                   |
+| July 5, 1987      | Lee Han-yeol dies                           |
+| July 9, 1987      | Lee Han-yeol's funeral (1.6 million attend) |
+| October 1987      | New constitution approved                   |
+| December 16, 1987 | Direct presidential election; Roh wins      |
+| February 1988     | Roh inaugurated; Sixth Republic begins      |
+| September 1988    | Seoul Olympics held                         |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - June Struggle](https://en.wikipedia.org/wiki/June_Struggle)
+
 [^2]: [Korea Times - Park Jong-chul](https://www.koreatimes.co.kr/www/nation/2020/01/park-jong-chul/)
+
 [^3]: [Wikipedia - June 29 Declaration](https://en.wikipedia.org/wiki/June_29_Declaration)
+
 [^4]: [8964 Museum - June 1987](https://8964museum.com/june-1987-korea/)
+
 [^5]: [History Guild - Gwangju Connection](https://historyguild.org/june-1987-gwangju/)
+
 [^6]: [Gwangju News - Background](https://gwangjunewsgic.com/june-struggle-1987/)
+
 [^7]: [Swarthmore - Global Nonviolent Action Database](https://nvdatabase.swarthmore.edu/content/south-koreans-win-political-reforms-second-june-uprising-1987)
+
 [^8]: [Grokipedia - June 10](https://grokipedia.com/june-1987-korea/)
+
 [^9]: [A People's Calendar - Lee Han-yeol](https://www.apeoplescalendar.org/calendar/day/6-9)
+
 [^10]: [Korea Herald - June 1987](https://www.koreaherald.com/view.php?ud=20170610)
+
 [^11]: [Jacobin - Tear Gas](https://jacobin.com/2020/06/south-korea-june-1987-lee-han-yeol/)
+
 [^12]: [Namu Wiki - 6.29 Declaration](https://namu.wiki/w/6.29%20선언)
+
 [^13]: [Wikipedia - 1987 Election](https://en.wikipedia.org/wiki/1987_South_Korean_presidential_election)
+
 [^14]: [Namu Wiki - June Struggle](https://namu.wiki/w/6월%20민주항쟁)
+
 [^15]: [Much.go.kr - Democracy Movement](https://www.much.go.kr/june-1987/)
+
 [^16]: [Wikipedia - Sixth Republic](https://en.wikipedia.org/wiki/Sixth_Republic_of_Korea)
+
 [^17]: [Korea Herald - Legacy](https://www.koreaherald.com/view.php?ud=june-1987-legacy)

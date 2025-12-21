@@ -3,7 +3,17 @@ id: "hillary-clinton"
 name: "Hillary Clinton"
 birth: "1947-10-26"
 nationality: "United States"
-occupation: ["Lawyer", "Politician", "Diplomat", "First Lady", "U.S. Senator", "U.S. Secretary of State", "Presidential Candidate", "Author"]
+occupation:
+  [
+    "Lawyer",
+    "Politician",
+    "Diplomat",
+    "First Lady",
+    "U.S. Senator",
+    "U.S. Secretary of State",
+    "Presidential Candidate",
+    "Author",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hillary_Clinton"
@@ -168,34 +178,34 @@ Psychologist Aubrey Immelman's personality research documented Clinton's charact
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1947 | Born on October 26 in Chicago, Illinois |
-| 1965 | Entered Wellesley College |
-| 1969 | Graduated from Wellesley; became first student commencement speaker; entered Yale Law School |
-| 1973 | Graduated from Yale Law School; joined Children's Defense Fund |
-| 1974 | Served on impeachment inquiry staff during Watergate |
-| 1975 | Married Bill Clinton on October 11; joined University of Arkansas Law School faculty |
-| 1976 | Joined Rose Law Firm |
-| 1979 | Became First Lady of Arkansas; became first female partner at Rose Law Firm |
-| 1980 | Daughter Chelsea born on February 27 |
-| 1983 | Named chair of Arkansas Education Standards Committee |
-| 1993 | Became First Lady of the United States; appointed chair of Task Force on National Health Care Reform |
-| 1996 | Testified before grand jury on Whitewater (first First Lady to do so) |
-| 1998 | Bill Clinton impeached following Lewinsky scandal |
-| 2000 | Elected U.S. Senator from New York on November 7 |
-| 2001 | Sworn in as U.S. Senator (first First Lady elected to public office) |
-| 2006 | Re-elected to U.S. Senate |
-| 2007 | Announced candidacy for President on January 20 |
-| 2008 | Suspended presidential campaign on June 7; endorsed Barack Obama |
-| 2009 | Became 67th U.S. Secretary of State |
-| 2012 | Benghazi attack occurred on September 11 |
-| 2013 | Concluded tenure as Secretary of State |
-| 2014 | Published memoir Hard Choices |
-| 2015 | Announced second presidential candidacy on April 12 |
+| Year | Event                                                                                                                                                   |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1947 | Born on October 26 in Chicago, Illinois                                                                                                                 |
+| 1965 | Entered Wellesley College                                                                                                                               |
+| 1969 | Graduated from Wellesley; became first student commencement speaker; entered Yale Law School                                                            |
+| 1973 | Graduated from Yale Law School; joined Children's Defense Fund                                                                                          |
+| 1974 | Served on impeachment inquiry staff during Watergate                                                                                                    |
+| 1975 | Married Bill Clinton on October 11; joined University of Arkansas Law School faculty                                                                    |
+| 1976 | Joined Rose Law Firm                                                                                                                                    |
+| 1979 | Became First Lady of Arkansas; became first female partner at Rose Law Firm                                                                             |
+| 1980 | Daughter Chelsea born on February 27                                                                                                                    |
+| 1983 | Named chair of Arkansas Education Standards Committee                                                                                                   |
+| 1993 | Became First Lady of the United States; appointed chair of Task Force on National Health Care Reform                                                    |
+| 1996 | Testified before grand jury on Whitewater (first First Lady to do so)                                                                                   |
+| 1998 | Bill Clinton impeached following Lewinsky scandal                                                                                                       |
+| 2000 | Elected U.S. Senator from New York on November 7                                                                                                        |
+| 2001 | Sworn in as U.S. Senator (first First Lady elected to public office)                                                                                    |
+| 2006 | Re-elected to U.S. Senate                                                                                                                               |
+| 2007 | Announced candidacy for President on January 20                                                                                                         |
+| 2008 | Suspended presidential campaign on June 7; endorsed Barack Obama                                                                                        |
+| 2009 | Became 67th U.S. Secretary of State                                                                                                                     |
+| 2012 | Benghazi attack occurred on September 11                                                                                                                |
+| 2013 | Concluded tenure as Secretary of State                                                                                                                  |
+| 2014 | Published memoir Hard Choices                                                                                                                           |
+| 2015 | Announced second presidential candidacy on April 12                                                                                                     |
 | 2016 | Became first woman nominated for president by major party on July 26; lost Electoral College to Donald Trump on November 8 despite winning popular vote |
-| 2017 | Published memoir What Happened |
-| 2025 | Received Presidential Medal of Freedom on January 4; celebrated 50th wedding anniversary |
+| 2017 | Published memoir What Happened                                                                                                                          |
+| 2025 | Received Presidential Medal of Freedom on January 4; celebrated 50th wedding anniversary                                                                |
 
 ---
 
@@ -220,130 +230,257 @@ Psychologist Aubrey Immelman's personality research documented Clinton's charact
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Hillary_Clinton
+
 [^2]: https://www.britannica.com/biography/Hillary-Clinton
+
 [^3]: https://www.womenshistory.org/education-resources/biographies/hillary-clinton
+
 [^4]: https://www.whitehousehistory.org/bios/hillary-clinton
+
 [^5]: https://encyclopediaofarkansas.net/entries/hillary-diane-rodham-clinton-2744/
+
 [^6]: https://www.biography.com/political-figures/hillary-clinton
+
 [^7]: https://clintonwhitehouse3.archives.gov/WH/EOP/First_Lady/html/HILLARY_Bio.html
+
 [^8]: https://www.pbs.org/wgbh/americanexperience/features/clinton-hillary-rodham-clinton-biography/
+
 [^9]: https://bioguide.congress.gov/search/bio/c001041
+
 [^10]: https://clintonhousemuseum.org/hillary-clinton/
+
 [^11]: https://www.biography.com/political-figures/hillary-clinton
+
 [^12]: https://www.pbs.org/wgbh/americanexperience/features/clinton-hillary-rodham-clinton-biography/
+
 [^13]: https://www.womenshistory.org/education-resources/biographies/hillary-clinton
+
 [^14]: https://en.wikipedia.org/wiki/Hillary_Clinton
+
 [^15]: https://georgewbush-whitehouse.archives.gov/history/firstladies/hc42.html
+
 [^16]: https://www.hillaryclinton.com/about/
+
 [^17]: https://medium.com/hillary-for-america/uncovered-the-42-year-old-report-from-hillary-clintons-work-at-the-children-s-defense-fund-e2bba4a17908
+
 [^18]: https://history.house.gov/People/Detail/11751
+
 [^19]: https://en.wikipedia.org/wiki/Legal_career_of_Hillary_Clinton
+
 [^20]: https://encyclopediaofarkansas.net/entries/hillary-diane-rodham-clinton-2744/
+
 [^21]: https://www.clintonlibrary.gov/research/clinton-biographies
+
 [^22]: https://www.hola.com/us/celebrities/20251013861240/bill-and-hillary-clinton-50-years-of-marriage-wedding-photos-anniversary/
+
 [^23]: https://encyclopediaofarkansas.net/entries/hillary-diane-rodham-clinton-2744/
+
 [^24]: https://encyclopediaofarkansas.net/entries/hillary-diane-rodham-clinton-2744/
+
 [^25]: https://en.wikipedia.org/wiki/Hillary_Clinton_as_First_Lady_of_Arkansas
+
 [^26]: https://www.pbs.org/wgbh/americanexperience/features/clinton-hillary-rodham-clinton-biography/
+
 [^27]: https://encyclopediaofarkansas.net/entries/hillary-diane-rodham-clinton-2744/
+
 [^28]: https://encyclopediaofarkansas.net/entries/hillary-diane-rodham-clinton-2744/
+
 [^29]: https://www.arwomenshalloffame.com/hillary-clinton
+
 [^30]: https://clintonhousemuseum.org/hillary-clinton/
+
 [^31]: https://www.history.com/this-day-in-history/november-7/hillary-clinton-elected-to-senate-new-york
+
 [^32]: https://en.wikipedia.org/wiki/US_Senate_career_of_Hillary_Clinton
+
 [^33]: https://www.congress.gov/member/hillary-clinton/C001041
+
 [^34]: https://www.presidency.ucsb.edu/documents/hillary-clinton-campaign-press-release-new-york-better-off-because-hillary-clinton-was-its
+
 [^35]: https://en.wikipedia.org/wiki/US_Senate_career_of_Hillary_Clinton
+
 [^36]: https://www.hillaryclinton.com/about/
+
 [^37]: https://www.govtrack.us/congress/members/hillary_clinton/300022
+
 [^38]: https://en.wikipedia.org/wiki/US_Senate_career_of_Hillary_Clinton
+
 [^39]: https://www.hillaryclinton.com/about/
+
 [^40]: https://en.wikipedia.org/wiki/Hillary_Clinton_as_Secretary_of_State
+
 [^41]: https://www.brookings.edu/articles/state-and-the-stateswoman-how-hillary-clinton-reshaped-u-s-foreign-policy-but-not-the-world/
+
 [^42]: https://www.presidency.ucsb.edu/documents/hillary-clinton-campaign-press-release-7-hillary-clintons-biggest-accomplishments
+
 [^43]: https://en.wikipedia.org/wiki/Hillary_Clinton_as_Secretary_of_State
+
 [^44]: https://www.cfr.org/backgrounder/hillary-clinton-us-secretary-state
+
 [^45]: https://theweek.com/articles/468265/hillary-clintons-9-most-memorable-moments-secretary-state
+
 [^46]: https://constitutioncenter.org/about/liberty-medal/recipients/hillary-rodham-clinton-former-secretary-of-state
+
 [^47]: https://www.rusi.org/explore-our-research/publications/commentary/head-state-hillary-rodham-clintons-foreign-policy-legacy
+
 [^48]: https://en.wikipedia.org/wiki/Hillary_Clinton_2008_presidential_campaign
+
 [^49]: https://en.wikipedia.org/wiki/2008_Democratic_Party_presidential_primaries
+
 [^50]: https://www.opensecrets.org/pres08/candidate?id=N00000019
+
 [^51]: https://en.wikipedia.org/wiki/Hillary_Clinton_2016_presidential_campaign
+
 [^52]: https://ballotpedia.org/Hillary_Clinton_presidential_campaign,_2016
+
 [^53]: https://en.wikipedia.org/wiki/2016_United_States_presidential_election
+
 [^54]: https://clinton.presidentiallibraries.us/collections/show/81
+
 [^55]: https://en.wikipedia.org/wiki/Clinton_health_care_plan_of_1993
+
 [^56]: https://ballotpedia.org/%22Hillarycare%22_(The_proposed_Health_Security_Act_of_1993)
+
 [^57]: https://pubmed.ncbi.nlm.nih.gov/7989016/
+
 [^58]: https://www.clintonlibrary.gov/research/health-care-reform-topic-guide
+
 [^59]: https://www.nationalaffairs.com/publications/detail/the-clintonian-roots-of-obamacare
+
 [^60]: https://en.wikipedia.org/wiki/Whitewater_controversy
+
 [^61]: https://encyclopediaofarkansas.net/entries/whitewater-scandal-4061/
+
 [^62]: https://www.washingtonpost.com/wp-srv/politics/special/whitewater/stories/wwtr960602.htm
+
 [^63]: https://www.npr.org/2016/06/12/481718785/clinton-scandals-a-guide-from-whitewater-to-the-clinton-foundation
+
 [^64]: https://en.wikipedia.org/wiki/Clinton–Lewinsky_scandal
+
 [^65]: https://time.com/5120561/bill-clinton-monica-lewinsky-timeline/
+
 [^66]: https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton
+
 [^67]: https://www.cnn.com/2019/10/01/politics/hillary-bill-clinton-marriage-presidential-campaigns/index.html
+
 [^68]: https://www.cnn.com/2016/06/28/politics/benghazi-scandal-report-hillary-clinton
+
 [^69]: https://www.npr.org/2015/10/13/448182602/how-the-attack-in-benghazi-led-us-to-hillary-clintons-emails
+
 [^70]: https://en.wikipedia.org/wiki/Hillary_Clinton_email_controversy
+
 [^71]: https://abcnews.go.com/Politics/timeline-hillary-clintons-email-saga/story?id=29442707
+
 [^72]: https://www.factcheck.org/2016/07/a-guide-to-clintons-emails/
+
 [^73]: https://www.nbcnews.com/politics/elections/12-days-stunned-nation-how-hillary-clinton-lost-n794131
+
 [^74]: https://www.pewresearch.org/short-reads/2016/07/27/5-facts-about-hillary-clintons-candidacy/
+
 [^75]: https://en.wikipedia.org/wiki/Public_image_of_Hillary_Clinton
+
 [^76]: https://msmagazine.com/2020/07/28/hate-for-hillary/
+
 [^77]: https://www.npr.org/2016/09/10/493427601/hillary-clintons-basket-of-deplorables-in-full-context-of-this-ugly-campaign
+
 [^78]: https://www.clintonlibrary.gov/research/clinton-biographies
+
 [^79]: https://www.hola.com/us/celebrities/20251013861240/bill-and-hillary-clinton-50-years-of-marriage-wedding-photos-anniversary/
+
 [^80]: https://millercenter.org/president/clinton/family-life
+
 [^81]: https://www.pbs.org/wgbh/americanexperience/features/clinton-hillary-rodham-clinton-biography/
+
 [^82]: https://en.wikipedia.org/wiki/Clinton_family
+
 [^83]: https://www.clintonlibrary.gov/research/clinton-biographies
+
 [^84]: https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1185&context=senior_theses
+
 [^85]: https://www.brookings.edu/articles/state-and-the-stateswoman-how-hillary-clinton-reshaped-u-s-foreign-policy-but-not-the-world/
+
 [^86]: https://en.wikipedia.org/wiki/Hard_Choices
+
 [^87]: https://en.wikipedia.org/wiki/What_Happened_(Clinton_book)
+
 [^88]: https://www.washingtonpost.com/entertainment/books/hillary-clintons-memoir-sells-300000-copies-in-its-first-week/2017/09/20/6423d636-9e11-11e7-9083-fbfddf6804c2_story.html
+
 [^89]: https://www.womenshistory.org/education-resources/biographies/hillary-clinton
+
 [^90]: https://blog.helmerfriedman.com/celebrating-hillary-clintons-legacy-in-honor-of-womens-history-month/
+
 [^91]: https://faculty.wagner.edu/lori-weintrob/hilary-clinton-an-empowering-woman-of-the-21st-century/
+
 [^92]: https://newrepublic.com/article/144796/hillary-clintons-legacy-huge-lasting
+
 [^93]: https://www.womenofthehall.org/inductee/hillary-rodham-clinton/
+
 [^94]: https://blog.helmerfriedman.com/celebrating-hillary-clintons-legacy-in-honor-of-womens-history-month/
+
 [^95]: https://www.montclair.edu/newscenter/2023/03/27/hillary-clinton-recognizes-advances-and-challenges-to-womens-rights/
+
 [^96]: https://www.whitehousehistory.org/bios/hillary-clinton
+
 [^97]: https://en.wikipedia.org/wiki/Hillary_Clinton_as_First_Lady_of_the_United_States
+
 [^98]: https://www.sipa.columbia.edu/news/secretary-hillary-rodham-clinton-receives-presidential-medal-freedom
+
 [^99]: https://www.hillaryclinton.com/about/
+
 [^100]: https://en.wikipedia.org/wiki/Hillary_Clinton_as_First_Lady_of_the_United_States
+
 [^101]: https://newrepublic.com/article/144796/hillary-clintons-legacy-huge-lasting
+
 [^102]: https://www.clintonfoundation.org/secretary-hillary-rodham-clinton-awarded-the-presidential-medal-of-freedom/
+
 [^103]: https://www.womenshistory.org/education-resources/biographies/hillary-clinton
+
 [^104]: https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1185&context=senior_theses
+
 [^105]: https://blog.helmerfriedman.com/celebrating-hillary-clintons-legacy-in-honor-of-womens-history-month/
+
 [^106]: https://www.whitehousehistory.org/bios/hillary-clinton
+
 [^107]: https://www.presidency.ucsb.edu/documents/hillary-clinton-campaign-press-release-7-hillary-clintons-biggest-accomplishments
+
 [^108]: https://en.wikipedia.org/wiki/US_Senate_career_of_Hillary_Clinton
+
 [^109]: https://faculty.wagner.edu/lori-weintrob/hilary-clinton-an-empowering-woman-of-the-21st-century/
+
 [^110]: https://msmagazine.com/2020/07/28/hate-for-hillary/
+
 [^111]: https://journals.sagepub.com/doi/10.1177/2378023117732441
+
 [^112]: https://www.pewresearch.org/short-reads/2016/07/27/5-facts-about-hillary-clintons-candidacy/
+
 [^113]: https://en.wikipedia.org/wiki/Public_image_of_Hillary_Clinton
+
 [^114]: https://www.npr.org/2016/06/12/481718785/clinton-scandals-a-guide-from-whitewater-to-the-clinton-foundation
+
 [^115]: https://ballotpedia.org/Hillary_Clinton_email_investigation
+
 [^116]: https://www.fairobserver.com/region/north_america/hillary-clinton-american-election-news-89115/
+
 [^117]: https://www.npr.org/2016/09/10/493427601/hillary-clintons-basket-of-deplorables-in-full-context-of-this-ugly-campaign
+
 [^118]: https://www.nbcnews.com/politics/elections/12-days-stunned-nation-how-hillary-clinton-lost-n794131
+
 [^119]: https://www.rollingstone.com/politics/politics-features/hillary-vs-the-hate-machine-how-clinton-became-a-vessel-for-americas-fury-103997/
+
 [^120]: https://digitalcommons.csbsju.edu/psychology_pubs/13/
+
 [^121]: https://www.pewresearch.org/short-reads/2016/07/27/5-facts-about-hillary-clintons-candidacy/
+
 [^122]: https://www.brainyquote.com/authors/hillary-clinton-quotes
+
 [^123]: https://time.com/4430554/hillary-clinton-dnc-best-quotes/
+
 [^124]: https://www.elle.com/culture/career-politics/news/a40653/hillary-clinton-inspiring-quotes/
+
 [^125]: https://en.wikiquote.org/wiki/Hillary_Clinton
+
 [^126]: https://www.elle.com/culture/career-politics/news/a40596/hillary-clinton-concession-speech-best-quotes-lines/
+
 [^127]: https://www.goodreads.com/author/quotes/2778471.Hillary_Rodham_Clinton
+
 [^128]: https://www.brainyquote.com/authors/hillary-clinton-quotes

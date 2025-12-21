@@ -133,29 +133,29 @@ Modern liberal critics condemn Marat for his rejection of pluralism, tolerance, 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1743 | Born on May 24 in Boudry, Neuchâtel (Switzerland) |
-| 1759 | Left home at age 16 to pursue education |
-| 1765 | Moved to England; began medical practice and scientific research |
-| 1770 | Worked as physician to household guards of Comte d'Artois |
-| 1772 | Published "An Essay on the Human Soul" |
-| 1773 | Published "A Philosophical Essay on Man" |
-| 1774 | Published "The Chains of Slavery" |
-| 1780 | Published scientific works on light and fire |
-| 1783 | Returned to Paris; attempted to gain recognition from Academy of Sciences |
-| 1789 | September: Founded newspaper L'Ami du peuple (The Friend of the People) |
-| 1790 | Forced to flee to England to avoid arrest for inflammatory writings |
-| 1791 | Returned to Paris; continued publishing from hiding |
-| 1792 | September: Elected to National Convention as deputy for Paris |
-| 1792 | September 2-6: September Massacres occur; Marat defends the killings |
-| 1793 | January: Voted for execution of King Louis XVI |
+| Year | Event                                                                                 |
+| ---- | ------------------------------------------------------------------------------------- |
+| 1743 | Born on May 24 in Boudry, Neuchâtel (Switzerland)                                     |
+| 1759 | Left home at age 16 to pursue education                                               |
+| 1765 | Moved to England; began medical practice and scientific research                      |
+| 1770 | Worked as physician to household guards of Comte d'Artois                             |
+| 1772 | Published "An Essay on the Human Soul"                                                |
+| 1773 | Published "A Philosophical Essay on Man"                                              |
+| 1774 | Published "The Chains of Slavery"                                                     |
+| 1780 | Published scientific works on light and fire                                          |
+| 1783 | Returned to Paris; attempted to gain recognition from Academy of Sciences             |
+| 1789 | September: Founded newspaper L'Ami du peuple (The Friend of the People)               |
+| 1790 | Forced to flee to England to avoid arrest for inflammatory writings                   |
+| 1791 | Returned to Paris; continued publishing from hiding                                   |
+| 1792 | September: Elected to National Convention as deputy for Paris                         |
+| 1792 | September 2-6: September Massacres occur; Marat defends the killings                  |
+| 1793 | January: Voted for execution of King Louis XVI                                        |
 | 1793 | April: Impeached by Girondins; acquitted by Revolutionary Tribunal to popular acclaim |
-| 1793 | June: Contributed to fall and arrest of Girondin deputies |
-| 1793 | July 13: Assassinated by Charlotte Corday while in his bathtub |
-| 1793 | July 17: State funeral held in Paris |
-| 1794 | September: Body interred in the Panthéon |
-| 1795 | February: Body removed from Panthéon during Thermidorian reaction |
+| 1793 | June: Contributed to fall and arrest of Girondin deputies                             |
+| 1793 | July 13: Assassinated by Charlotte Corday while in his bathtub                        |
+| 1793 | July 17: State funeral held in Paris                                                  |
+| 1794 | September: Body interred in the Panthéon                                              |
+| 1795 | February: Body removed from Panthéon during Thermidorian reaction                     |
 
 ---
 
@@ -175,94 +175,94 @@ Modern liberal critics condemn Marat for his rejection of pluralism, tolerance, 
 
 ## References
 
-[^1]: Gottschalk, Louis R. *Jean Paul Marat: A Study in Radicalism*. University of Chicago Press, 1927, pp. 3-15.
+[^1]: Gottschalk, Louis R. _Jean Paul Marat: A Study in Radicalism_. University of Chicago Press, 1927, pp. 3-15.
 
-[^2]: Massin, Jean. *Marat*. Éditions du Seuil, 1960, pp. 21-35.
+[^2]: Massin, Jean. _Marat_. Éditions du Seuil, 1960, pp. 21-35.
 
-[^3]: Conner, Clifford D. *Jean Paul Marat: Tribune of the French Revolution*. Pluto Press, 2012, pp. 18-32.
+[^3]: Conner, Clifford D. _Jean Paul Marat: Tribune of the French Revolution_. Pluto Press, 2012, pp. 18-32.
 
-[^4]: Gillispie, Charles Coulston. *Science and Polity in France: The Revolutionary and Napoleonic Years*. Princeton University Press, 2004, pp. 156-168.
+[^4]: Gillispie, Charles Coulston. _Science and Polity in France: The Revolutionary and Napoleonic Years_. Princeton University Press, 2004, pp. 156-168.
 
-[^5]: Popkin, Jeremy D. *Revolutionary News: The Press in France, 1789-1799*. Duke University Press, 1990, pp. 78-94.
+[^5]: Popkin, Jeremy D. _Revolutionary News: The Press in France, 1789-1799_. Duke University Press, 1990, pp. 78-94.
 
-[^6]: Slavin, Morris. *The Making of an Insurrection: Parisian Sections and the Gironde*. Harvard University Press, 1986, pp. 45-62.
+[^6]: Slavin, Morris. _The Making of an Insurrection: Parisian Sections and the Gironde_. Harvard University Press, 1986, pp. 45-62.
 
-[^7]: Hampson, Norman. *The Life and Opinions of Maximilien Robespierre*. Duckworth, 1974, pp. 89-95.
+[^7]: Hampson, Norman. _The Life and Opinions of Maximilien Robespierre_. Duckworth, 1974, pp. 89-95.
 
-[^8]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. Knopf, 1989, pp. 619-639.
+[^8]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. Knopf, 1989, pp. 619-639.
 
-[^9]: Furet, François and Ozouf, Mona. *A Critical Dictionary of the French Revolution*. Harvard University Press, 1989, pp. 247-255.
+[^9]: Furet, François and Ozouf, Mona. _A Critical Dictionary of the French Revolution_. Harvard University Press, 1989, pp. 247-255.
 
-[^10]: Darnton, Robert and Roche, Daniel (eds.). *Revolution in Print: The Press in France 1775-1800*. University of California Press, 1989, pp. 167-182.
+[^10]: Darnton, Robert and Roche, Daniel (eds.). _Revolution in Print: The Press in France 1775-1800_. University of California Press, 1989, pp. 167-182.
 
-[^11]: Mathiez, Albert. *The French Revolution*. Russell & Russell, 1962, pp. 267-278.
+[^11]: Mathiez, Albert. _The French Revolution_. Russell & Russell, 1962, pp. 267-278.
 
-[^12]: Soboul, Albert. *The Sans-Culottes: The Popular Movement and Revolutionary Government, 1793-1794*. Princeton University Press, 1980, pp. 112-128.
+[^12]: Soboul, Albert. _The Sans-Culottes: The Popular Movement and Revolutionary Government, 1793-1794_. Princeton University Press, 1980, pp. 112-128.
 
-[^13]: Censer, Jack R. and Popkin, Jeremy D. *Press and Politics in Pre-Revolutionary France*. University of California Press, 1987, pp. 203-219.
+[^13]: Censer, Jack R. and Popkin, Jeremy D. _Press and Politics in Pre-Revolutionary France_. University of California Press, 1987, pp. 203-219.
 
-[^14]: Gillispie, Charles. "Science and Secret Weapons Development in Revolutionary France 1792-1804." *Historical Studies in the Physical and Biological Sciences*, vol. 23, no. 1, 1992, pp. 35-52.
+[^14]: Gillispie, Charles. "Science and Secret Weapons Development in Revolutionary France 1792-1804." _Historical Studies in the Physical and Biological Sciences_, vol. 23, no. 1, 1992, pp. 35-52.
 
-[^15]: Sutherland, D.M.G. *The French Revolution and Empire: The Quest for a Civic Order*. Blackwell, 2003, pp. 178-189.
+[^15]: Sutherland, D.M.G. _The French Revolution and Empire: The Quest for a Civic Order_. Blackwell, 2003, pp. 178-189.
 
-[^16]: Andress, David. *The Terror: The Merciless War for Freedom in Revolutionary France*. Farrar, Straus and Giroux, 2006, pp. 134-152.
+[^16]: Andress, David. _The Terror: The Merciless War for Freedom in Revolutionary France_. Farrar, Straus and Giroux, 2006, pp. 134-152.
 
-[^17]: Linton, Marisa. *Choosing Terror: Virtue, Friendship and Authenticity in the French Revolution*. Oxford University Press, 2013, pp. 156-173.
+[^17]: Linton, Marisa. _Choosing Terror: Virtue, Friendship and Authenticity in the French Revolution_. Oxford University Press, 2013, pp. 156-173.
 
-[^18]: Scurr, Ruth. *Fatal Purity: Robespierre and the French Revolution*. Metropolitan Books, 2006, pp. 198-205.
+[^18]: Scurr, Ruth. _Fatal Purity: Robespierre and the French Revolution_. Metropolitan Books, 2006, pp. 198-205.
 
-[^19]: Gillispie, Charles Coulston. *The Edge of Objectivity: An Essay in the History of Scientific Ideas*. Princeton University Press, 1960, pp. 289-295.
+[^19]: Gillispie, Charles Coulston. _The Edge of Objectivity: An Essay in the History of Scientific Ideas_. Princeton University Press, 1960, pp. 289-295.
 
-[^20]: Landes, Joan B. *Women and the Public Sphere in the Age of the French Revolution*. Cornell University Press, 1988, pp. 145-158.
+[^20]: Landes, Joan B. _Women and the Public Sphere in the Age of the French Revolution_. Cornell University Press, 1988, pp. 145-158.
 
-[^21]: Gottschalk, Louis R. *Jean Paul Marat: A Study in Radicalism*. University of Chicago Press, 1927, pp. 156-169.
+[^21]: Gottschalk, Louis R. _Jean Paul Marat: A Study in Radicalism_. University of Chicago Press, 1927, pp. 156-169.
 
-[^22]: Conner, Clifford D. *Jean Paul Marat: Tribune of the French Revolution*. Pluto Press, 2012, pp. 187-201.
+[^22]: Conner, Clifford D. _Jean Paul Marat: Tribune of the French Revolution_. Pluto Press, 2012, pp. 187-201.
 
-[^23]: Palmer, R.R. *Twelve Who Ruled: The Year of the Terror in the French Revolution*. Princeton University Press, 1941, pp. 67-73.
+[^23]: Palmer, R.R. _Twelve Who Ruled: The Year of the Terror in the French Revolution_. Princeton University Press, 1941, pp. 67-73.
 
-[^24]: Massin, Jean. *Marat*. Éditions du Seuil, 1960, pp. 234-248.
+[^24]: Massin, Jean. _Marat_. Éditions du Seuil, 1960, pp. 234-248.
 
-[^25]: Hampson, Norman. *Danton*. Holmes & Meier, 1978, pp. 98-105.
+[^25]: Hampson, Norman. _Danton_. Holmes & Meier, 1978, pp. 98-105.
 
-[^26]: Brookner, Anita. *Jacques-Louis David*. Harper & Row, 1980, pp. 134-149.
+[^26]: Brookner, Anita. _Jacques-Louis David_. Harper & Row, 1980, pp. 134-149.
 
-[^27]: Ozouf, Mona. *Festivals and the French Revolution*. Harvard University Press, 1988, pp. 267-283.
+[^27]: Ozouf, Mona. _Festivals and the French Revolution_. Harvard University Press, 1988, pp. 267-283.
 
-[^28]: Hunt, Lynn. *Politics, Culture, and Class in the French Revolution*. University of California Press, 1984, pp. 94-119.
+[^28]: Hunt, Lynn. _Politics, Culture, and Class in the French Revolution_. University of California Press, 1984, pp. 94-119.
 
-[^29]: Soboul, Albert. *Understanding the French Revolution*. International Publishers, 1988, pp. 178-195.
+[^29]: Soboul, Albert. _Understanding the French Revolution_. International Publishers, 1988, pp. 178-195.
 
-[^30]: Furet, François. *Interpreting the French Revolution*. Cambridge University Press, 1981, pp. 54-79.
+[^30]: Furet, François. _Interpreting the French Revolution_. Cambridge University Press, 1981, pp. 54-79.
 
-[^31]: Weiss, Peter. *The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade*. Atheneum, 1965.
+[^31]: Weiss, Peter. _The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade_. Atheneum, 1965.
 
-[^32]: Massin, Jean. *Marat*. Éditions du Seuil, 1960, pp. 312-328.
+[^32]: Massin, Jean. _Marat_. Éditions du Seuil, 1960, pp. 312-328.
 
-[^33]: Mathiez, Albert. *The French Revolution*. Russell & Russell, 1962, pp. 289-301.
+[^33]: Mathiez, Albert. _The French Revolution_. Russell & Russell, 1962, pp. 289-301.
 
-[^34]: Palmer, R.R. *Twelve Who Ruled: The Year of the Terror in the French Revolution*. Princeton University Press, 1941, pp. 71-72.
+[^34]: Palmer, R.R. _Twelve Who Ruled: The Year of the Terror in the French Revolution_. Princeton University Press, 1941, pp. 71-72.
 
-[^35]: Arendt, Hannah. *On Revolution*. Viking Press, 1963, pp. 67-71.
+[^35]: Arendt, Hannah. _On Revolution_. Viking Press, 1963, pp. 67-71.
 
-[^36]: Jones, Colin. *The Great Nation: France from Louis XV to Napoleon*. Penguin, 2002, pp. 478-482.
+[^36]: Jones, Colin. _The Great Nation: France from Louis XV to Napoleon_. Penguin, 2002, pp. 478-482.
 
-[^37]: Schama, Simon. *Citizens: A Chronicle of the French Revolution*. Knopf, 1989, pp. 734-738.
+[^37]: Schama, Simon. _Citizens: A Chronicle of the French Revolution_. Knopf, 1989, pp. 734-738.
 
-[^38]: Furet, François. *Interpreting the French Revolution*. Cambridge University Press, 1981, pp. 61-65.
+[^38]: Furet, François. _Interpreting the French Revolution_. Cambridge University Press, 1981, pp. 61-65.
 
-[^39]: Scurr, Ruth. *Fatal Purity: Robespierre and the French Revolution*. Metropolitan Books, 2006, pp. 201-203.
+[^39]: Scurr, Ruth. _Fatal Purity: Robespierre and the French Revolution_. Metropolitan Books, 2006, pp. 201-203.
 
-[^40]: Doyle, William. *The Oxford History of the French Revolution*. Oxford University Press, 1989, pp. 267-270.
+[^40]: Doyle, William. _The Oxford History of the French Revolution_. Oxford University Press, 1989, pp. 267-270.
 
-[^41]: Berlin, Isaiah. *Two Concepts of Liberty*. Oxford University Press, 1958, pp. 16-18.
+[^41]: Berlin, Isaiah. _Two Concepts of Liberty_. Oxford University Press, 1958, pp. 16-18.
 
-[^42]: Marat, Jean-Paul. *L'Ami du peuple*, September 19, 1789.
+[^42]: Marat, Jean-Paul. _L'Ami du peuple_, September 19, 1789.
 
-[^43]: Quoted in Conner, Clifford D. *Jean Paul Marat: Tribune of the French Revolution*. Pluto Press, 2012, p. 145.
+[^43]: Quoted in Conner, Clifford D. _Jean Paul Marat: Tribune of the French Revolution_. Pluto Press, 2012, p. 145.
 
-[^44]: Quoted in Massin, Jean. *Marat*. Éditions du Seuil, 1960, p. 276.
+[^44]: Quoted in Massin, Jean. _Marat_. Éditions du Seuil, 1960, p. 276.
 
-[^45]: Marat, Jean-Paul. Various issues of *L'Ami du peuple*, 1790-1793.
+[^45]: Marat, Jean-Paul. Various issues of _L'Ami du peuple_, 1790-1793.
 
-[^46]: Quoted in Gottschalk, Louis R. *Jean Paul Marat: A Study in Radicalism*. University of Chicago Press, 1927, p. 134.
+[^46]: Quoted in Gottschalk, Louis R. _Jean Paul Marat: A Study in Radicalism_. University of Chicago Press, 1927, p. 134.

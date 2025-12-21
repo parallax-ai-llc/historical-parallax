@@ -163,187 +163,319 @@ Recent critical scholarship argues that the secular rhetoric she deployed masked
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1917 | Born November 19 in Allahabad, British India |
-| 1936 | Mother Kamala Nehru dies of tuberculosis |
-| 1938 | Enrolls at Somerville College, Oxford |
-| 1942 | Marries Feroze Gandhi in Allahabad |
-| 1944 | First son Rajiv Gandhi born |
-| 1946 | Second son Sanjay Gandhi born |
-| 1947 | India gains independence; father Jawaharlal Nehru becomes first Prime Minister |
-| 1955 | Joins Congress Working Committee |
-| 1959 | Elected President of Indian National Congress |
-| 1960 | Husband Feroze Gandhi dies of heart attack |
+| Year | Event                                                                                                       |
+| ---- | ----------------------------------------------------------------------------------------------------------- |
+| 1917 | Born November 19 in Allahabad, British India                                                                |
+| 1936 | Mother Kamala Nehru dies of tuberculosis                                                                    |
+| 1938 | Enrolls at Somerville College, Oxford                                                                       |
+| 1942 | Marries Feroze Gandhi in Allahabad                                                                          |
+| 1944 | First son Rajiv Gandhi born                                                                                 |
+| 1946 | Second son Sanjay Gandhi born                                                                               |
+| 1947 | India gains independence; father Jawaharlal Nehru becomes first Prime Minister                              |
+| 1955 | Joins Congress Working Committee                                                                            |
+| 1959 | Elected President of Indian National Congress                                                               |
+| 1960 | Husband Feroze Gandhi dies of heart attack                                                                  |
 | 1964 | Father Jawaharlal Nehru dies; appointed to Rajya Sabha and becomes Minister of Information and Broadcasting |
-| 1966 | Becomes Prime Minister on January 19 following death of Lal Bahadur Shastri |
-| 1969 | Splits Congress Party; nationalizes fourteen major banks |
-| 1971 | Wins general elections with massive mandate; leads India to victory in Bangladesh Liberation War |
-| 1974 | Conducts first nuclear test ("Smiling Buddha") on May 18 |
-| 1975 | Declares national Emergency on June 25 following adverse court verdict |
-| 1977 | Emergency ends; loses general elections to Janata Party coalition |
-| 1980 | Returns to power as Prime Minister; son Sanjay Gandhi dies in plane crash on June 23 |
-| 1984 | Orders Operation Blue Star (June 1-8); assassinated by Sikh bodyguards on October 31 |
+| 1966 | Becomes Prime Minister on January 19 following death of Lal Bahadur Shastri                                 |
+| 1969 | Splits Congress Party; nationalizes fourteen major banks                                                    |
+| 1971 | Wins general elections with massive mandate; leads India to victory in Bangladesh Liberation War            |
+| 1974 | Conducts first nuclear test ("Smiling Buddha") on May 18                                                    |
+| 1975 | Declares national Emergency on June 25 following adverse court verdict                                      |
+| 1977 | Emergency ends; loses general elections to Janata Party coalition                                           |
+| 1980 | Returns to power as Prime Minister; son Sanjay Gandhi dies in plane crash on June 23                        |
+| 1984 | Orders Operation Blue Star (June 1-8); assassinated by Sikh bodyguards on October 31                        |
 
 ---
 
 ## Famous Quotes
 
 > "You cannot shake hands with a clenched fist."[^127]
-Context: This frequently cited quote reflects Gandhi's philosophy on diplomacy and negotiation, emphasizing that genuine dialogue requires openness rather than hostility. It has been widely quoted in discussions of conflict resolution and international relations.
+> Context: This frequently cited quote reflects Gandhi's philosophy on diplomacy and negotiation, emphasizing that genuine dialogue requires openness rather than hostility. It has been widely quoted in discussions of conflict resolution and international relations.
 
 > "There are two kinds of people, those who do the work and those who take the credit. Try to be in the first group; there is less competition there."[^128]
-Context: This quote reveals Gandhi's philosophy on leadership and work ethic, suggesting that genuine achievement matters more than recognition. It reflects her own rise from being underestimated as a "dumb doll" to becoming India's most powerful leader.
+> Context: This quote reveals Gandhi's philosophy on leadership and work ethic, suggesting that genuine achievement matters more than recognition. It reflects her own rise from being underestimated as a "dumb doll" to becoming India's most powerful leader.
 
 > "The power to question is the basis of all human progress."[^129]
-Context: Despite her authoritarian tendencies, Gandhi occasionally articulated democratic and progressive principles. This quote emphasizes the importance of critical inquiry and intellectual freedom, values that ironically she herself violated during the Emergency.
+> Context: Despite her authoritarian tendencies, Gandhi occasionally articulated democratic and progressive principles. This quote emphasizes the importance of critical inquiry and intellectual freedom, values that ironically she herself violated during the Emergency.
 
 > "I shall continue to serve until my last breath and when I die, I can say, that every drop of my blood will invigorate India and strengthen it."[^130]
-Context: Delivered in Bhubaneswar on October 30, 1984, just one day before her assassination, these prophetic words have become among her most famous. The speech took on tragic significance when she was indeed killed the following day, with her blood literally shed for India, though the circumstances were far from heroic.
+> Context: Delivered in Bhubaneswar on October 30, 1984, just one day before her assassination, these prophetic words have become among her most famous. The speech took on tragic significance when she was indeed killed the following day, with her blood literally shed for India, though the circumstances were far from heroic.
 
 > "To be liberated, woman must feel free to be herself, not in rivalry to man but in the context of her own capacity and her personality."[^131]
-Context: This quote reflects Gandhi's complex relationship with feminism. While she did not champion women's rights systematically and governed in conventionally masculine ways, she occasionally articulated progressive views on women's liberation and self-actualization.
+> Context: This quote reflects Gandhi's complex relationship with feminism. While she did not champion women's rights systematically and governed in conventionally masculine ways, she occasionally articulated progressive views on women's liberation and self-actualization.
 
 > "You must learn to be still in the midst of activity and to be vibrantly alive in repose."[^132]
-Context: This quote reflects influences from her time studying under Rabindranath Tagore at Shantiniketan and her practice of yoga. It suggests a philosophy of balanced engagement that contrasts with the intensity and stress of her actual political life.
+> Context: This quote reflects influences from her time studying under Rabindranath Tagore at Shantiniketan and her practice of yoga. It suggests a philosophy of balanced engagement that contrasts with the intensity and stress of her actual political life.
 
 > "Forgiveness is a virtue of the brave."[^133]
-Context: Gandhi articulated this principle though her own political career was marked by vindictiveness toward opponents. The gap between the sentiment expressed and her actual behavior illustrates the contradictions that characterized her personality and leadership.
+> Context: Gandhi articulated this principle though her own political career was marked by vindictiveness toward opponents. The gap between the sentiment expressed and her actual behavior illustrates the contradictions that characterized her personality and leadership.
 
 ---
 
 ## References
 
 [^1]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^2]: [Indira Gandhi | Biography, Career, & Facts | Britannica](https://www.britannica.com/biography/Indira-Gandhi)
+
 [^3]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
-[^4]: [The Emergency (India) - Wikipedia](https://en.wikipedia.org/wiki/The_Emergency_(India))
+
+[^4]: [The Emergency (India) - Wikipedia](<https://en.wikipedia.org/wiki/The_Emergency_(India)>)
+
 [^5]: [Indira Gandhi becomes Indian prime minister | January 19, 1966 | HISTORY](https://www.history.com/this-day-in-history/january-19/indira-gandhi-becomes-indian-prime-minister)
+
 [^6]: [Indira Gandhi: Biography, Indian Prime Minister, Assassination](https://www.biography.com/political-figures/indira-gandhi)
+
 [^7]: [Indira Gandhi | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/indira-gandhi)
+
 [^8]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/early-life-timeline)
+
 [^9]: [Indira Gandhi Biography - Birth, Education, Family, Marriage, Political Journey, and Achievements](https://www.vedantu.com/biography/indira-gandhi-biography)
+
 [^10]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^11]: [Indira Gandhi | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/indira-gandhi)
+
 [^12]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/early-life-timeline)
+
 [^13]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^14]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/marriage-children-timeline)
+
 [^15]: [Indira Gandhi Biography - Birth, Education, Family, Marriage, Political Journey, and Achievements](https://www.vedantu.com/biography/indira-gandhi-biography)
+
 [^16]: [Indira Gandhi | Biography, Career, & Facts | Britannica](https://www.britannica.com/biography/Indira-Gandhi)
+
 [^17]: [Indira Gandhi Becomes Prime Minister of India | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/indira-gandhi-becomes-prime-minister-india)
+
 [^18]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^19]: [Indira Gandhi Becomes Prime Minister of India | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/indira-gandhi-becomes-prime-minister-india)
+
 [^20]: [Indira Gandhi becomes Indian prime minister | January 19, 1966 | HISTORY](https://www.history.com/this-day-in-history/january-19/indira-gandhi-becomes-indian-prime-minister)
+
 [^21]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/prime-minister-timeline)
+
 [^22]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^23]: [Economic policy of the Indira Gandhi government - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Indira_Gandhi_government)
+
 [^24]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^25]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
+
 [^26]: [Indira Gandhi's four Tenures as PM](https://inc.in/congress-sandesh/tribute/indira-gandhi-s-four-tenures-as-pm)
+
 [^27]: [Indira Gandhi: As Prime Minister](https://inc.in/congress-sandesh/tribute/indira-gandhi-as-prime-minister)
+
 [^28]: [Green Revolution in India by Indira Gandhi](https://indiragandhi.in/en/milestones/index/green-revolution)
+
 [^29]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/green-revolution-timeline)
+
 [^30]: [Green Revolution in India by Indira Gandhi](https://indiragandhi.in/en/milestones/index/green-revolution)
+
 [^31]: [The Green Revolution | Indira Gandhi by Indira Gandhi -I am courage - Issuu](https://issuu.com/indiragandhi/docs/green_revolution_in_india_by_indira_gandhi)
+
 [^32]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
+
 [^33]: [Indira Gandhi's four Tenures as PM](https://inc.in/congress-sandesh/tribute/indira-gandhi-s-four-tenures-as-pm)
+
 [^34]: [Economic policy of the Indira Gandhi government - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Indira_Gandhi_government)
+
 [^35]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^36]: [Indira Gandhi - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Indira_Gandhi)
+
 [^37]: [Indira Gandhi, Early Life, Political Career, Death, Achievements](https://vajiramandravi.com/current-affairs/indira-gandhi/)
+
 [^38]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
+
 [^39]: [Indira Gandhi's Transformative Policies: An Analytical Review of Their Impact on India's Development - History Revisted — Foreign Affairs Forum](https://www.faf.ae/home/2025/6/7/indira-gandhis-bold-decisions-transformative-policies-and-their-impact-on-indias-development)
+
 [^40]: [Economic policy of the Indira Gandhi government - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Indira_Gandhi_government)
-[^41]: [The Emergency (India) - Wikipedia](https://en.wikipedia.org/wiki/The_Emergency_(India))
+
+[^41]: [The Emergency (India) - Wikipedia](<https://en.wikipedia.org/wiki/The_Emergency_(India)>)
+
 [^42]: [India's First Dictatorship. The Emergency, 1975-77 - King's College London](https://kclpure.kcl.ac.uk/portal/en/publications/indias-first-dictatorship-the-emergency-1975-77/)
+
 [^43]: [The Emergency | India, 1975, Indira Gandhi, History, & Facts | Britannica](https://www.britannica.com/event/the-Emergency-India)
+
 [^44]: [National Emergency 1975](https://upscwithnikhil.com/article/polity/national-emergency-1975)
-[^45]: [The Emergency (India) - Wikipedia](https://en.wikipedia.org/wiki/The_Emergency_(India))
+
+[^45]: [The Emergency (India) - Wikipedia](<https://en.wikipedia.org/wiki/The_Emergency_(India)>)
+
 [^46]: [indira gandhi's call of emergency and press censorship in ...](https://www.caluniv.ac.in/global-mdia-journal/Article-Nov-2017/A4.pdf)
+
 [^47]: [India's Authoritarian Turn: Understanding the Emergency (1975–1977) and Its Afterlife | Pacific Affairs (UBC Journal)](https://pacificaffairs.ubc.ca/review-essays/indias-authoritarian-turn-understanding-the-emergency-1975-1977-and-its-afterlife/)
+
 [^48]: [Sanjay Gandhi | Biography, Congress Party, Indira Gandhi, Emergency, & Death | Britannica](https://www.britannica.com/biography/Sanjay-Gandhi)
-[^49]: [The Emergency (India) - Wikipedia](https://en.wikipedia.org/wiki/The_Emergency_(India))
+
+[^49]: [The Emergency (India) - Wikipedia](<https://en.wikipedia.org/wiki/The_Emergency_(India)>)
+
 [^50]: [My Memories of the Emergency: The Darkest Period in Independent India's History](https://www.fairobserver.com/history/my-memories-of-the-emergency-the-darkest-period-in-independent-indias-history/)
+
 [^51]: [Indira's Legacy: A Force That Shaped Congress' Past, Present and Future](https://thediplomat.com/2018/11/indiras-legacy-a-force-that-shaped-congress-past-present-and-future/)
+
 [^52]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^53]: [Indira's Legacy: A Force That Shaped Congress' Past, Present and Future](https://thediplomat.com/2018/11/indiras-legacy-a-force-that-shaped-congress-past-present-and-future/)
+
 [^54]: [Operation Blue Star - Wikipedia](https://en.wikipedia.org/wiki/Operation_Blue_Star)
+
 [^55]: [Operation Blue Star | Golden Temple, Amritsar, Sikhism, & Indian History | Britannica](https://www.britannica.com/topic/Operation-Blue-Star)
+
 [^56]: [Operation Blue Star & Assassination of Indira Gandhi (1984) - Everything About India](https://curiousindian.in/operation-blue-star-assassination-of-indira-gandhi-1984/)
+
 [^57]: [Economic policy of the Indira Gandhi government - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Indira_Gandhi_government)
+
 [^58]: [Interpreting Afresh Indira Gandhi's Political and Economic Legacy | The India Forum](https://www.theindiaforum.in/book-reviews/interpreting-afresh-indira-gandhis-political-and-economic-legacy)
+
 [^59]: [Economic policy of the Indira Gandhi government - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Indira_Gandhi_government)
+
 [^60]: [Sanjay Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Sanjay_Gandhi)
+
 [^61]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^62]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/marriage-children-timeline)
+
 [^63]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^64]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/marriage-children-timeline)
+
 [^65]: [Indira Gandhi | Biography, Career, & Facts | Britannica](https://www.britannica.com/biography/Indira-Gandhi)
+
 [^66]: [Nehru–Gandhi family - Wikipedia](https://en.wikipedia.org/wiki/Nehru–Gandhi_family)
+
 [^67]: [Indira Gandhi | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/indira-gandhi)
+
 [^68]: [Sanjay Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Sanjay_Gandhi)
+
 [^69]: [Sanjay Gandhi | Biography, Congress Party, Indira Gandhi, Emergency, & Death | Britannica](https://www.britannica.com/biography/Sanjay-Gandhi)
+
 [^70]: [Sanjay Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Sanjay_Gandhi)
+
 [^71]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^72]: [Shri Rajiv Gandhi | Prime Minister of India](https://www.pmindia.gov.in/en/former_pm/श्री-राजीव-गांधी/)
+
 [^73]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^74]: [Indira Gandhi: India's Destined Leader](https://digitalcommons.buffalostate.edu/cgi/viewcontent.cgi?article=1022&context=history_theses)
+
 [^75]: [Indira Gandhi | Biography, Career, & Facts | Britannica](https://www.britannica.com/biography/Indira-Gandhi)
+
 [^76]: [Indira Gandhi: Biography, Indian Prime Minister, Assassination](https://www.biography.com/political-figures/indira-gandhi)
+
 [^77]: [Indira Gandhi: India's Destined Leader](https://digitalcommons.buffalostate.edu/cgi/viewcontent.cgi?article=1022&context=history_theses)
+
 [^78]: [Assassination of Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi)
-[^79]: [Beant Singh (assassin) - Wikipedia](https://en.wikipedia.org/wiki/Beant_Singh_(assassin))
+
+[^79]: [Beant Singh (assassin) - Wikipedia](<https://en.wikipedia.org/wiki/Beant_Singh_(assassin)>)
+
 [^80]: [Assassination of Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi)
+
 [^81]: [Operation Blue Star & Assassination of Indira Gandhi (1984) - Everything About India](https://curiousindian.in/operation-blue-star-assassination-of-indira-gandhi-1984/)
+
 [^82]: [1984 anti-Sikh riots - Wikipedia](https://en.wikipedia.org/wiki/1984_anti-Sikh_riots)
+
 [^83]: [Indira Gandhi's Assassination and the Anti-Sikh Riots, October 1984 – Association for Diplomatic Studies & Training](https://adst.org/2015/10/indira-gandhis-assassination-and-the-anti-sikh-riots-october-1984/)
+
 [^84]: [Famous & Historic speeches by Indira Gandhi to Adhere To!](https://indiragandhi.in/en/philosophy/speeches)
+
 [^85]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^86]: [SHRI RAJIV GANDHI](https://inc.in/our-inspiration/shri-rajiv-gandhi)
+
 [^87]: [Indira's Legacy: A Force That Shaped Congress' Past, Present and Future](https://thediplomat.com/2018/11/indiras-legacy-a-force-that-shaped-congress-past-present-and-future/)
+
 [^88]: [Indira Gandhi: Biography, Achievements, Controversies, and Legacy](https://www.iamkhabrilal.com/indira-gandhi-biography-achievements-controversies-and-legacy)
+
 [^89]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
+
 [^90]: [Indira Gandhi - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Indira_Gandhi)
+
 [^91]: [Green Revolution in India by Indira Gandhi](https://indiragandhi.in/en/milestones/index/green-revolution)
+
 [^92]: [My Memories of the Emergency: The Darkest Period in Independent India's History](https://www.fairobserver.com/history/my-memories-of-the-emergency-the-darkest-period-in-independent-indias-history/)
+
 [^93]: [India's Authoritarian Turn: Understanding the Emergency (1975–1977) and Its Afterlife | Pacific Affairs (UBC Journal)](https://pacificaffairs.ubc.ca/review-essays/indias-authoritarian-turn-understanding-the-emergency-1975-1977-and-its-afterlife/)
+
 [^94]: [A Reappraisal of Indira Gandhi's Life—and Legacy | Carnegie Endowment for International Peace](https://carnegieendowment.org/podcasts/grand-tamasha/a-reappraisal-of-indira-gandhis-lifeand-legacy?lang=en)
+
 [^95]: [Indira Gandhi | Biography, Career, & Facts | Britannica](https://www.britannica.com/biography/Indira-Gandhi)
+
 [^96]: [Indira Gandhi: India's Destined Leader](https://digitalcommons.buffalostate.edu/cgi/viewcontent.cgi?article=1022&context=history_theses)
+
 [^97]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
+
 [^98]: [50 Years Later: How Indira Gandhi's Emergency Compares With Narendra Modi's Authoritarian Rule](https://thediplomat.com/2025/06/50-years-later-how-indira-gandhis-emergency-compares-with-narendra-modis-authoritarian-rule/)
+
 [^99]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
+
 [^100]: [Indira Gandhi's four Tenures as PM](https://inc.in/congress-sandesh/tribute/indira-gandhi-s-four-tenures-as-pm)
+
 [^101]: [Green Revolution in India by Indira Gandhi](https://indiragandhi.in/en/milestones/index/green-revolution)
+
 [^102]: [About Indira Gandhi- Indira's Struggle, Political Career & Contribution towards India](https://indiragandhi.in/en/timeline/index/green-revolution-timeline)
+
 [^103]: [Indira Gandhi - Biography, Achievements & Assassination | HISTORY](https://www.history.com/articles/indira-gandhi)
+
 [^104]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^105]: [Indira Gandhi - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Indira_Gandhi)
+
 [^106]: [Indira Gandhi: As Prime Minister](https://inc.in/congress-sandesh/tribute/indira-gandhi-as-prime-minister)
+
 [^107]: [Interpreting Afresh Indira Gandhi's Political and Economic Legacy | The India Forum](https://www.theindiaforum.in/book-reviews/interpreting-afresh-indira-gandhis-political-and-economic-legacy)
+
 [^108]: [National Emergency 1975](https://upscwithnikhil.com/article/polity/national-emergency-1975)
+
 [^109]: [The Emergency | India, 1975, Indira Gandhi, History, & Facts | Britannica](https://www.britannica.com/event/the-Emergency-India)
+
 [^110]: [India's First Dictatorship. The Emergency, 1975-77 - King's College London](https://kclpure.kcl.ac.uk/portal/en/publications/indias-first-dictatorship-the-emergency-1975-77/)
+
 [^111]: [50 Years Later: How Indira Gandhi's Emergency Compares With Narendra Modi's Authoritarian Rule](https://thediplomat.com/2025/06/50-years-later-how-indira-gandhis-emergency-compares-with-narendra-modis-authoritarian-rule/)
-[^112]: [The Emergency (India) - Wikipedia](https://en.wikipedia.org/wiki/The_Emergency_(India))
+
+[^112]: [The Emergency (India) - Wikipedia](<https://en.wikipedia.org/wiki/The_Emergency_(India)>)
+
 [^113]: [My Memories of the Emergency: The Darkest Period in Independent India's History](https://www.fairobserver.com/history/my-memories-of-the-emergency-the-darkest-period-in-independent-indias-history/)
+
 [^114]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^115]: [Indira's Legacy: A Force That Shaped Congress' Past, Present and Future](https://thediplomat.com/2018/11/indiras-legacy-a-force-that-shaped-congress-past-present-and-future/)
+
 [^116]: [Economic policy of the Indira Gandhi government - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Indira_Gandhi_government)
+
 [^117]: [Interpreting Afresh Indira Gandhi's Political and Economic Legacy | The India Forum](https://www.theindiaforum.in/book-reviews/interpreting-afresh-indira-gandhis-political-and-economic-legacy)
+
 [^118]: [Economic policy of the Indira Gandhi government - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Indira_Gandhi_government)
+
 [^119]: [Operation Blue Star - Wikipedia](https://en.wikipedia.org/wiki/Operation_Blue_Star)
+
 [^120]: [Operation Blue Star | Golden Temple, Amritsar, Sikhism, & Indian History | Britannica](https://www.britannica.com/topic/Operation-Blue-Star)
+
 [^121]: [1984 anti-Sikh riots - Wikipedia](https://en.wikipedia.org/wiki/1984_anti-Sikh_riots)
+
 [^122]: [Sanjay Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Sanjay_Gandhi)
+
 [^123]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^124]: [Indira Gandhi: India's Destined Leader](https://digitalcommons.buffalostate.edu/cgi/viewcontent.cgi?article=1022&context=history_theses)
+
 [^125]: [Indira Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Indira_Gandhi)
+
 [^126]: [Indira Gandhi: Biography, Achievements, Controversies, and Legacy](https://www.iamkhabrilal.com/indira-gandhi-biography-achievements-controversies-and-legacy)
+
 [^127]: [Indira Gandhi Quotes - BrainyQuote](https://www.brainyquote.com/authors/indira-gandhi-quotes)
+
 [^128]: [Indira Gandhi Quotes (Author of Indira Gandhi)](https://www.goodreads.com/author/quotes/168074.Indira_Gandhi)
+
 [^129]: [Famous Quotes by Indira Gandhi | Indira Gandhi Quotes](https://indiragandhi.in/en/philosophy/quotes)
+
 [^130]: [Famous & Historic speeches by Indira Gandhi to Adhere To!](https://indiragandhi.in/en/philosophy/speeches)
+
 [^131]: [Indira Gandhi - Wikiquote](https://en.wikiquote.org/wiki/Indira_Gandhi)
+
 [^132]: [TOP 25 QUOTES BY INDIRA GANDHI (of 260) | A-Z Quotes](https://www.azquotes.com/author/5307-Indira_Gandhi)
+
 [^133]: [20 of the Best Quotes By Indira Gandhi | Quoteikon](https://www.quoteikon.com/indira-gandhi-quotes.html)

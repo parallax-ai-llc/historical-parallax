@@ -36,6 +36,7 @@ Suharto came to power amid mass violence in 1965-66:
 ### Asian Financial Crisis
 
 **1997-98:** The crisis devastated Indonesia:
+
 - Rupiah fell from 2,600 to over 14,000 per dollar (85% collapse)
 - IMF bailout with harsh conditions
 - Food prices soared; unemployment surged
@@ -47,6 +48,7 @@ The crisis exposed the regime's cronyism and corruption.[^5]
 ### Student Movement
 
 **February-May 1998:**
+
 - Student protests grew at universities nationwide
 - Demands: Reformasi (reform), end corruption, presidential change
 - Chanted: "Turunkan Suharto!" (Bring down Suharto!)
@@ -65,6 +67,7 @@ Students marched on campus; soldiers present nearby.
 **Afternoon:** Soldiers opened fire on unarmed students.
 
 **Four killed:**
+
 - Elang Mulia Lesmana
 - Heri Hertanto
 - Hafidin Royan
@@ -75,6 +78,7 @@ The killings outraged the nation. Who gave the order remains disputed.[^6]
 ### The Riots (May 13-15)
 
 **May 13-15:** Three days of destruction
+
 - Riots erupted across Jakarta, spreading to Medan, Surakarta, and other cities
 - Looting of shopping centers (especially Chinese-owned)
 - Arson: buildings, vehicles, homes burned
@@ -86,6 +90,7 @@ The killings outraged the nation. Who gave the order remains disputed.[^6]
 ### Anti-Chinese Violence
 
 Chinese Indonesians were systematically targeted:
+
 - Long-standing racism; scapegoated for economic crisis
 - Shops and homes specifically attacked
 - Families assaulted; some killed
@@ -94,12 +99,14 @@ Chinese Indonesians were systematically targeted:
 ### Sexual Violence
 
 **Documented atrocities:**
+
 - Mass rape, primarily targeting Chinese Indonesian women
 - Gang rapes, often while husbands/families watched
 - Brutal assaults, some fatal
 - Rape accompanied by anti-Chinese slurs
 
 **Official investigations:**
+
 - Joint Fact-Finding Team (TGPF): Confirmed 52 rapes, 14 rape with assault, 10 sexual assaults
 - National Human Rights Commission: 168 victims reported
 - Actual numbers likely higher
@@ -128,7 +135,8 @@ The New Order ended. Reformasi began.[^8]
 
 **Trisakti shootings (May 12):** 4 killed
 
-**Riots (May 13-15):** 
+**Riots (May 13-15):**
+
 - Official (Jakarta city): 288 killed
 - TRUK (NGO): 1,109 killed
 - National Human Rights Commission: 1,188 killed
@@ -146,27 +154,27 @@ The New Order ended. Reformasi began.[^8]
 
 ### Victims
 
-| Name | Role |
-|------|------|
-| Trisakti Four | Student martyrs |
-| Chinese Indonesian women | Rape victims |
-| 1,000+ dead | Many burned in buildings |
+| Name                     | Role                     |
+| ------------------------ | ------------------------ |
+| Trisakti Four            | Student martyrs          |
+| Chinese Indonesian women | Rape victims             |
+| 1,000+ dead              | Many burned in buildings |
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Suharto | President; resigned May 21 |
-| B.J. Habibie | Vice President; became President |
+| Name             | Role                                     |
+| ---------------- | ---------------------------------------- |
+| Suharto          | President; resigned May 21               |
+| B.J. Habibie     | Vice President; became President         |
 | Prabowo Subianto | General; implicated (denied involvement) |
-| Wiranto | Armed Forces Commander |
+| Wiranto          | Armed Forces Commander                   |
 
 ### Movement
 
-| Name | Role |
-|------|------|
-| Student activists | Nationwide protests |
-| Amien Rais | Opposition leader; called for Suharto's ouster |
+| Name              | Role                                           |
+| ----------------- | ---------------------------------------------- |
+| Student activists | Nationwide protests                            |
+| Amien Rais        | Opposition leader; called for Suharto's ouster |
 
 ---
 
@@ -200,12 +208,14 @@ The New Order ended. Reformasi began.[^8]
 ### Long-Term
 
 **Democratic Progress:**
+
 - First free elections (1999)
 - Constitutional amendments
 - Direct presidential elections (2004)
 - Decentralization; regional autonomy
 
 **Justice Deficit:**
+
 - No prosecutions for Trisakti
 - No accountability for anti-Chinese violence
 - Sexual violence officially uninvestigated
@@ -242,33 +252,45 @@ Indonesia has achieved democracy without accountability for 1998. The same figur
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| July 1997 | Asian Financial Crisis begins |
-| January 1998 | Rupiah collapses; IMF bailout |
-| February-April 1998 | Student protests grow |
-| May 12, 1998 | Trisakti shootings; 4 students killed |
-| May 13-15, 1998 | Riots across Indonesia |
-| May 18, 1998 | Students occupy parliament |
-| May 21, 1998 | Suharto resigns |
-| May 21, 1998 | Habibie becomes President |
-| 1999 | First free elections |
-| 2024 | Prabowo Subianto elected President |
+| Date                | Event                                 |
+| ------------------- | ------------------------------------- |
+| July 1997           | Asian Financial Crisis begins         |
+| January 1998        | Rupiah collapses; IMF bailout         |
+| February-April 1998 | Student protests grow                 |
+| May 12, 1998        | Trisakti shootings; 4 students killed |
+| May 13-15, 1998     | Riots across Indonesia                |
+| May 18, 1998        | Students occupy parliament            |
+| May 21, 1998        | Suharto resigns                       |
+| May 21, 1998        | Habibie becomes President             |
+| 1999                | First free elections                  |
+| 2024                | Prabowo Subianto elected President    |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - May 1998 Riots](https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia)
+
 [^2]: [Wikipedia - Fall of Suharto](https://en.wikipedia.org/wiki/Fall_of_Suharto)
+
 [^3]: [The Diplomat - 25 Years Later](https://thediplomat.com/2023/05/indonesia-may-1998-riots/)
-[^4]: [Wikipedia - New Order](https://en.wikipedia.org/wiki/New_Order_(Indonesia))
+
+[^4]: [Wikipedia - New Order](<https://en.wikipedia.org/wiki/New_Order_(Indonesia)>)
+
 [^5]: [East Asia Forum - Financial Crisis](https://www.eastasiaforum.org/2018/indonesia-1998-crisis/)
+
 [^6]: [Wikipedia - Trisakti Shootings](https://en.wikipedia.org/wiki/Trisakti_shootings)
+
 [^7]: [State Department - Human Rights](https://www.state.gov/reports/1998/indonesia-rapes/)
+
 [^8]: [EBSCO - Suharto Fall](https://www.ebsco.com/article/suharto-resignation/)
+
 [^9]: [Tempo - Death Toll](https://www.tempo.co/may-1998-death-toll/)
+
 [^10]: [Swarthmore - Nonviolent Database](https://nvdatabase.swarthmore.edu/content/indonesians-overthrow-suharto-1998)
+
 [^11]: [Inside Indonesia - Denial](https://www.insideindonesia.org/may-1998-rapes/)
+
 [^12]: [ADST - Oral History](https://adst.org/oral-history/indonesia-1998/)
+
 [^13]: [University of Melbourne - Analysis](https://pursuit.unimelb.edu.au/indonesia-1998/)

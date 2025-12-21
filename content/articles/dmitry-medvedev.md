@@ -152,30 +152,30 @@ Some analysts view his dramatic transformation into an ultra-nationalist hawk as
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1965 | Born September 14 in Leningrad, Soviet Union |
-| 1982 | Graduated from secondary school; later married childhood sweetheart Svetlana Linnik |
-| 1987 | Earned law degree from Leningrad State University |
-| 1990 | Completed Ph.D. in law; began teaching at St. Petersburg State University |
-| 1991 | Joined legal team of St. Petersburg Mayor Anatoly Sobchak; met Vladimir Putin |
-| 1995 | Son Ilya Dmitrevich Medvedev born |
-| 1999 | Moved to Moscow as Putin became acting president |
-| 2000 | Headed Putin's presidential campaign; appointed first deputy chief of staff; became Gazprom chairman |
-| 2002 | Re-appointed Chairman of Gazprom Board of Directors |
-| 2003 | Appointed Chief of Staff of Presidential Executive Office |
-| 2005 | Elevated to First Deputy Prime Minister |
-| 2007 | Endorsed by Putin as presidential successor; resigned from Gazprom chairmanship |
-| 2008 | Won presidential election (March); inaugurated as President (May 7); Russo-Georgian War (August) |
-| 2009 | Launched police reform and anti-corruption initiatives |
-| 2010 | Signed New START treaty with United States; joined Twitter during Silicon Valley visit |
+| Year | Event                                                                                                                   |
+| ---- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1965 | Born September 14 in Leningrad, Soviet Union                                                                            |
+| 1982 | Graduated from secondary school; later married childhood sweetheart Svetlana Linnik                                     |
+| 1987 | Earned law degree from Leningrad State University                                                                       |
+| 1990 | Completed Ph.D. in law; began teaching at St. Petersburg State University                                               |
+| 1991 | Joined legal team of St. Petersburg Mayor Anatoly Sobchak; met Vladimir Putin                                           |
+| 1995 | Son Ilya Dmitrevich Medvedev born                                                                                       |
+| 1999 | Moved to Moscow as Putin became acting president                                                                        |
+| 2000 | Headed Putin's presidential campaign; appointed first deputy chief of staff; became Gazprom chairman                    |
+| 2002 | Re-appointed Chairman of Gazprom Board of Directors                                                                     |
+| 2003 | Appointed Chief of Staff of Presidential Executive Office                                                               |
+| 2005 | Elevated to First Deputy Prime Minister                                                                                 |
+| 2007 | Endorsed by Putin as presidential successor; resigned from Gazprom chairmanship                                         |
+| 2008 | Won presidential election (March); inaugurated as President (May 7); Russo-Georgian War (August)                        |
+| 2009 | Launched police reform and anti-corruption initiatives                                                                  |
+| 2010 | Signed New START treaty with United States; joined Twitter during Silicon Valley visit                                  |
 | 2011 | Russia acceded to World Trade Organization; abstained on UN Libya resolution; announced Putin would return as president |
-| 2012 | Presidential term ended; became Prime Minister (May 7) |
-| 2018 | Announced unpopular pension age increase |
-| 2020 | Resigned as Prime Minister (January 15); appointed Deputy Chairman of Security Council (January 16) |
-| 2022 | Russia invaded Ukraine; Medvedev began issuing aggressive anti-Western statements and nuclear threats |
-| 2024 | Continued role as Deputy Chairman of Security Council; maintained hardline rhetoric on Ukraine war |
-| 2025 | Ongoing service as Deputy Chairman of Russia's Security Council |
+| 2012 | Presidential term ended; became Prime Minister (May 7)                                                                  |
+| 2018 | Announced unpopular pension age increase                                                                                |
+| 2020 | Resigned as Prime Minister (January 15); appointed Deputy Chairman of Security Council (January 16)                     |
+| 2022 | Russia invaded Ukraine; Medvedev began issuing aggressive anti-Western statements and nuclear threats                   |
+| 2024 | Continued role as Deputy Chairman of Security Council; maintained hardline rhetoric on Ukraine war                      |
+| 2025 | Ongoing service as Deputy Chairman of Russia's Security Council                                                         |
 
 ---
 
@@ -202,84 +202,165 @@ Some analysts view his dramatic transformation into an ultra-nationalist hawk as
 ## References
 
 [^1]: [Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Medvedev)
+
 [^2]: [Dmitry Medvedev | Facts & Biography | Britannica](https://www.britannica.com/biography/Dmitry-Medvedev)
+
 [^3]: [Svetlana Medvedeva - Wikipedia](https://en.wikipedia.org/wiki/Svetlana_Medvedeva)
+
 [^4]: [Dmitry Medvedev Fast Facts | CNN](https://www.cnn.com/world/europe/dmitry-medvedev-fast-facts)
+
 [^5]: [Medvedev Dmitry - Official Kremlin Biography](http://www.en.kremlin.ru/catalog/persons/37/biography)
+
 [^6]: [Dmitry Medvedev Biography - The Famous People](https://www.thefamouspeople.com/profiles/dmitry-medvedev-13350.php)
+
 [^7]: [Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Medvedev)
+
 [^8]: [Putin's Choice: A Profile of Dmitry Medvedev - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/1079677.html)
+
 [^9]: [Dmitry Medvedev | Facts & Biography | Britannica](https://www.britannica.com/biography/Dmitry-Medvedev)
+
 [^10]: [Dmitry Medvedev - The Russian Government](http://government.ru/en/gov/persons/183/bio/)
+
 [^11]: [Who is Dmitry Medvedev? - Jewish Telegraphic Agency](https://www.jta.org/2008/03/02/global/who-is-dmitry-medvedev)
+
 [^12]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^13]: [Dmitry Medvedev summary | Britannica](https://www.britannica.com/summary/Dmitry-Medvedev)
+
 [^14]: [Medvedev–Putin tandemocracy - Wikipedia](https://en.wikipedia.org/wiki/Medvedev–Putin_tandemocracy)
+
 [^15]: [Dmitry Medvedev | Facts & Biography | Britannica](https://www.britannica.com/biography/Dmitry-Medvedev)
+
 [^16]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^17]: [Medvedev modernisation programme - Wikipedia](https://en.wikipedia.org/wiki/Medvedev_modernisation_programme)
+
 [^18]: [Dmitry Medvedev A Comprehensive Look At His Role In Russian Politics](http://read.thirdsector.co.uk/article/dmitry-medvedev-a-comprehensive-look)
+
 [^19]: [Assessing the Obama-Medvedev Reset in US-Russia Relations](https://www.e-ir.info/2015/09/03/assessing-the-obama-medvedev-reset-in-us-russia-relations/)
+
 [^20]: [Dmitry Medvedev | Facts & Biography | Britannica](https://www.britannica.com/biography/Dmitry-Medvedev)
+
 [^21]: [Russian reset - Wikipedia](https://en.wikipedia.org/wiki/Russian_reset)
+
 [^22]: [The Russian Reset That Never Was - Foreign Policy](https://foreignpolicy.com/2016/12/09/the-russian-reset-that-never-was-putin-obama-medvedev-libya-mikhail-zygar-all-the-kremlin-men/)
+
 [^23]: [Why the 'Reset' Didn't Last | Russia Matters](https://www.russiamatters.org/analysis/why-reset-didnt-last)
+
 [^24]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^25]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^26]: [Medvedev modernisation programme - Wikipedia](https://en.wikipedia.org/wiki/Medvedev_modernisation_programme)
+
 [^27]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^28]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^29]: [Medvedev–Putin tandemocracy - Wikipedia](https://en.wikipedia.org/wiki/Medvedev–Putin_tandemocracy)
+
 [^30]: [Medvedev–Putin tandemocracy - Wikipedia](https://en.wikipedia.org/wiki/Medvedev–Putin_tandemocracy)
+
 [^31]: [From president to provocateur: The long journey of Russia's Dmitry Medvedev | CNN](https://edition.cnn.com/2025/08/02/europe/medvedev-trump-nuclear-submarines-intl)
+
 [^32]: [An Assessment of the Medvedev-Putin System](https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/RAD-49-2-6.pdf)
+
 [^33]: [Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Medvedev)
+
 [^34]: [Dmitry Medvedev: From failed Kremlin reformer to Trump's boogeyman - Al Jazeera](https://www.aljazeera.com/news/2025/8/5/dmitry-medvedev-from-failed-kremlin-reformer-to-trumps-boogeyman)
+
 [^35]: [Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Medvedev)
+
 [^36]: [He Is Not Dimon to You - Wikipedia](https://en.wikipedia.org/wiki/He_Is_Not_Dimon_to_You)
+
 [^37]: [Russia's Navalny Claims Medvedev Tied To 'Secret' Property Empire In New Investigation - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/russia-navalny-investigation-medvedev-secret-property-empire/28343861.html)
+
 [^38]: [Navalny's Anti-Corruption Foundation publishes exposé on Medvedev's various residences - Meduza](https://meduza.io/en/news/2017/03/02/navalny-s-anti-corruption-foundation-publishes-investigation-on-medvedev-s-residence)
+
 [^39]: [He Is Not Dimon to You - Wikipedia](https://en.wikipedia.org/wiki/He_Is_Not_Dimon_to_You)
+
 [^40]: [Russia's Navalny Claims Medvedev Tied To 'Secret' Property Empire - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/russia-navalny-investigation-medvedev-secret-property-empire/28343861.html)
+
 [^41]: [Dmitry Medvedev: From failed Kremlin reformer to Trump's boogeyman - Al Jazeera](https://www.aljazeera.com/news/2025/8/5/dmitry-medvedev-from-failed-kremlin-reformer-to-trumps-boogeyman)
+
 [^42]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^43]: [Presidency of Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Dmitry_Medvedev)
+
 [^44]: [Dmitry Medvedev: From failed Kremlin reformer to Trump's boogeyman - Al Jazeera](https://www.aljazeera.com/news/2025/8/5/dmitry-medvedev-from-failed-kremlin-reformer-to-trumps-boogeyman)
+
 [^45]: [Russo-Georgian War - Wikipedia](https://en.wikipedia.org/wiki/Russo-Georgian_War)
+
 [^46]: [Was Putin in charge during Georgia war? Medvedev begs to differ - Christian Science Monitor](https://www.csmonitor.com/World/Europe/2012/0810/Was-Putin-in-charge-during-Georgia-war-Medvedev-begs-to-differ)
+
 [^47]: [2008 Georgia Russia Conflict Fast Facts | CNN](https://www.cnn.com/2014/03/13/europe/2008-georgia-russia-conflict)
+
 [^48]: [Russian Generals Accuse Medvedev Of Hesitation In Russia-Georgia War - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/putin-says-russia-had-plans-for-georgian-aggression-in-late-2006/24670673.html)
+
 [^49]: [How a Five-Day War With Georgia Allowed Russia to Reassert Its Military Might | HISTORY](https://www.history.com/articles/russia-georgia-war-military-nato)
+
 [^50]: [Medvedev: Pension Reform Was Hardest Decision of the Past Decade - The Moscow Times](https://www.themoscowtimes.com/2018/12/06/medvedev-pension-reform-hardest-decision-past-decade-a63737)
+
 [^51]: [Medvedev: Pension Reform Was Hardest Decision of the Past Decade - The Moscow Times](https://www.themoscowtimes.com/2018/12/06/medvedev-pension-reform-hardest-decision-past-decade-a63737)
+
 [^52]: [Svetlana Medvedeva - Wikipedia](https://en.wikipedia.org/wiki/Svetlana_Medvedeva)
+
 [^53]: [Svetlana Medvedeva - Wikipedia](https://en.wikipedia.org/wiki/Svetlana_Medvedeva)
+
 [^54]: [Svetlana Medvedeva - Wikipedia](https://en.wikipedia.org/wiki/Svetlana_Medvedeva)
+
 [^55]: [Russian Prime Minister's wife uses private jet worth $50 million - UAWire](https://www.uawire.org/russian-prime-minister-s-wife-uses-private-jet-worth-50-million)
+
 [^56]: [Dmitry Medvedev - Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Medvedev)
+
 [^57]: [From president to provocateur: The long journey of Russia's Dmitry Medvedev | CNN](https://www.cnn.com/2025/08/02/europe/medvedev-trump-nuclear-submarines-intl)
+
 [^58]: [Dmitry Medvedev Quotes - BrainyQuote](https://www.brainyquote.com/authors/dmitry-medvedev-quotes)
+
 [^59]: [The Medvedev Legacy - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/the_medvedev_legacy/24463231.html)
+
 [^60]: [The Medvedev Legacy - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/the_medvedev_legacy/24463231.html)
+
 [^61]: [The Medvedev Legacy - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/the_medvedev_legacy/24463231.html)
+
 [^62]: [Assessing the Obama-Medvedev Reset in US-Russia Relations](https://www.e-ir.info/2015/09/03/assessing-the-obama-medvedev-reset-in-us-russia-relations/)
+
 [^63]: [Why the 'Reset' Didn't Last | Russia Matters](https://www.russiamatters.org/analysis/why-reset-didnt-last)
+
 [^64]: [The Russian Reset That Never Was - Foreign Policy](https://foreignpolicy.com/2016/12/09/the-russian-reset-that-never-was-putin-obama-medvedev-libya-mikhail-zygar-all-the-kremlin-men/)
+
 [^65]: [Former moderate Dmitry Medvedev becomes Putin's pro-war cheerleader - Atlantic Council](https://www.atlanticcouncil.org/blogs/ukrainealert/former-moderate-dmitry-medvedev-becomes-putins-pro-war-cheerleader/)
+
 [^66]: [Who Is Dmitry Medvedev, Russia's Hawkish Ex-President? - The Moscow Times](https://www.themoscowtimes.com/2025/08/02/who-is-dmitry-medvedev-russias-hawkish-ex-president-a90079)
+
 [^67]: [From president to provocateur: The long journey of Russia's Dmitry Medvedev | CNN](https://www.cnn.com/2025/08/02/europe/medvedev-trump-nuclear-submarines-intl)
+
 [^68]: [Russia's Medvedev Threatens Nuke Strike That Would Turn Kyiv Into 'Gray Spot' - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/russia-ukraine-west-nuclear/33119997.html)
+
 [^69]: [Once A Hope Of Russian Liberals And The West, Medvedev Beats A Bellicose Drum - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/medvedev-liberal-to-bellicose/31818941.html)
+
 [^70]: [Dmitry Medvedev in His Own Words: From Modernizing Liberal to Hateful Hawk | Russia Matters](https://www.russiamatters.org/analysis/dmitry-medvedev-his-own-words-modernizing-liberal-hateful-hawk)
+
 [^71]: [The Medvedev Legacy - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/the_medvedev_legacy/24463231.html)
+
 [^72]: [The Medvedev Legacy - Radio Free Europe/Radio Liberty](https://www.rferl.org/a/the_medvedev_legacy/24463231.html)
+
 [^73]: [Dmitry Medvedev: From failed Kremlin reformer to Trump's boogeyman - Al Jazeera](https://www.aljazeera.com/news/2025/8/5/dmitry-medvedev-from-failed-kremlin-reformer-to-trumps-boogeyman)
+
 [^74]: [Resetting the Reset: Looking Back at the Cycle of U.S.-Russia Relations - Foreign Policy Research Institute](https://www.fpri.org/article/2017/08/resetting-reset-looking-back-cycle-u-s-russia-relations/)
+
 [^75]: [Dmitry Medvedev Quotes - BrainyQuote](https://www.brainyquote.com/authors/dmitry-medvedev-quotes)
+
 [^76]: [Dmitry Medvedev Quotes - BrainyQuote](https://www.brainyquote.com/authors/dmitry-medvedev-quotes)
+
 [^77]: [Dmitry Medvedev Quotes - BrainyQuote](https://www.brainyquote.com/authors/dmitry-medvedev-quotes)
+
 [^78]: [Dmitry Medvedev Quotes - BrainyQuote](https://www.brainyquote.com/authors/dmitry-medvedev-quotes)
+
 [^79]: [Outgoing PM Dmitry Medvedev's most memorable quotes - TASS](https://tass.com/politics/1109187)
+
 [^80]: [Medvedev warns of nuclear war if Russia defeated in Ukraine - Al Jazeera](https://www.aljazeera.com/news/2023/1/19/medvedev-warns-of-nuclear-war-if-russia-defeated-in-ukraine)
+
 [^81]: [Dmitry Medvedev in His Own Words: From Modernizing Liberal to Hateful Hawk | Russia Matters](https://www.russiamatters.org/analysis/dmitry-medvedev-his-own-words-modernizing-liberal-hateful-hawk)
+
 [^82]: [Russia's Medvedev makes new nuclear threat over Ukraine war | CNN](https://www.cnn.com/2023/07/31/europe/medvedev-russia-nuclear-weapons-intl-hnk/index.html)

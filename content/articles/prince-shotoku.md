@@ -203,26 +203,26 @@ Critics also note methodological problems in Shōtoku studies: the oldest biogra
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 574 | Born on February 7 as second son of Emperor Yōmei and Princess Hashihito no Anahobe |
-| 587 | Participates in Battle of Shigisen at age 13, supporting Soga clan against Mononobe clan |
-| 593 | Appointed regent (Sesshō) by Empress Suiko at age 19; Shitennō-ji temple construction begins |
-| 596 | Hōkō-ji temple construction begins |
-| 600 | First embassy dispatched to Sui China (according to some sources) |
-| 603 | Establishes the Twelve Level Cap and Rank System |
-| 604 | Promulgates the Seventeen-Article Constitution |
-| 606 | Teaches the Śrīmālādevī Siṃhanāda Sūtra and Lotus Sutra (according to Nihon Shoki) |
-| 607 | Hōryū-ji temple founded; sends Ono no Imoko's mission to Sui China with "land of the rising sun" letter |
-| 608 | Second major embassy to Sui China with large delegation of scholar monks and students |
-| 621 | Death of Shōtoku's mother and wife |
-| 622 | Dies on April 8 at age 48 |
-| 643 | All of Prince Shōtoku's descendants die at Hōryūji temple |
-| 670 | Hōryū-ji destroyed by lightning (according to Nihon Shoki); reconstruction begins shortly after |
-| 720 | Nihon Shoki compiled, establishing the traditional narrative of Shōtoku's life and achievements |
-| 1185-1333 | Kamakura period: extensive production of Shōtoku portraits and hagiographic literature |
-| 1993 | Hōryū-ji designated UNESCO World Heritage site |
-| 1999 | Ōyama Seiichi publishes thesis questioning Shōtoku's historical existence |
+| Year      | Event                                                                                                   |
+| --------- | ------------------------------------------------------------------------------------------------------- |
+| 574       | Born on February 7 as second son of Emperor Yōmei and Princess Hashihito no Anahobe                     |
+| 587       | Participates in Battle of Shigisen at age 13, supporting Soga clan against Mononobe clan                |
+| 593       | Appointed regent (Sesshō) by Empress Suiko at age 19; Shitennō-ji temple construction begins            |
+| 596       | Hōkō-ji temple construction begins                                                                      |
+| 600       | First embassy dispatched to Sui China (according to some sources)                                       |
+| 603       | Establishes the Twelve Level Cap and Rank System                                                        |
+| 604       | Promulgates the Seventeen-Article Constitution                                                          |
+| 606       | Teaches the Śrīmālādevī Siṃhanāda Sūtra and Lotus Sutra (according to Nihon Shoki)                      |
+| 607       | Hōryū-ji temple founded; sends Ono no Imoko's mission to Sui China with "land of the rising sun" letter |
+| 608       | Second major embassy to Sui China with large delegation of scholar monks and students                   |
+| 621       | Death of Shōtoku's mother and wife                                                                      |
+| 622       | Dies on April 8 at age 48                                                                               |
+| 643       | All of Prince Shōtoku's descendants die at Hōryūji temple                                               |
+| 670       | Hōryū-ji destroyed by lightning (according to Nihon Shoki); reconstruction begins shortly after         |
+| 720       | Nihon Shoki compiled, establishing the traditional narrative of Shōtoku's life and achievements         |
+| 1185-1333 | Kamakura period: extensive production of Shōtoku portraits and hagiographic literature                  |
+| 1993      | Hōryū-ji designated UNESCO World Heritage site                                                          |
+| 1999      | Ōyama Seiichi publishes thesis questioning Shōtoku's historical existence                               |
 
 ---
 
@@ -247,144 +247,285 @@ Critics also note methodological problems in Shōtoku studies: the oldest biogra
 ## References
 
 [^1]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^2]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^3]: Shotoku Taishi - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Shotoku_Taishi
+
 [^4]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^5]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^6]: Shotoku Taishi - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Shotoku_Taishi
+
 [^7]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^8]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^9]: Taishi Shōtoku | Japanese Regent, Buddhist Scholar & Author | Britannica, https://www.britannica.com/biography/Taishi-Shotoku
+
 [^10]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^11]: Statesman Prince Shotoku, legend or real national hero? | Heritage of Japan, https://heritageofjapan.wordpress.com/inception-of-the-imperial-system-asuka-era/how-buddhism-came-to-take-root-in-japan/prince-shotoku-the-greatest-statesman-of-japan-legend-or-real-national-hero/
+
 [^12]: Prince Shotoku of Japan - Khyentse Foundation, https://khyentsefoundation.org/story/prince-shotoku-of-japan/
+
 [^13]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^14]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^15]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^16]: Shotoku Taishi - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Shotoku_Taishi
+
 [^17]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^18]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^19]: Empress Suiko - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Empress_Suiko
+
 [^20]: Shotoku Taishi - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Shotoku_Taishi
+
 [^21]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^22]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^23]: Prince Shōtoku (574-622) | Issue 158 | Philosophy Now, https://philosophynow.org/issues/158/Prince_Shotoku_574-622
+
 [^24]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^25]: Shotoku Taishi - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Shotoku_Taishi
+
 [^26]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^27]: Twelve Level Cap and Rank System - Wikipedia, https://en.wikipedia.org/wiki/Twelve_Level_Cap_and_Rank_System
+
 [^28]: Twelve Level Cap and Rank System - (History of Japan) - Vocab, Definition, Explanations | Fiveable, https://fiveable.me/key-terms/history-japan/twelve-level-cap-and-rank-system
+
 [^29]: Prince Shotoku: Constitution, Rank System, and Japanese Buddha – Japanese Patterns of Design, https://www.patternz.jp/prince-shotoku-constitution-rank-system/
+
 [^30]: Caps and court rank: the Kan'i junikai system | Heritage of Japan, https://heritageofjapan.wordpress.com/inception-of-the-imperial-system-asuka-era/how-buddhism-came-to-take-root-in-japan/prince-shotoku-the-greatest-statesman-of-japan-legend-or-real-national-hero/caps-and-court-rank-the-kani-junikai-system/
+
 [^31]: Prince Shotoku and the Twelve Cap Ranking system « Japan: Life and Religion, http://japanlifeandreligion.com/2010/11/24/shotoku-taishi-and-the-twelve-cap-ranking-system/
+
 [^32]: Twelve Level Cap and Rank System, https://grokipedia.com/page/Twelve_Level_Cap_and_Rank_System
+
 [^33]: Twelve Level Cap and Rank System - (History of Japan) - Vocab, Definition, Explanations | Fiveable, https://fiveable.me/key-terms/history-japan/twelve-level-cap-and-rank-system
+
 [^34]: Bio - Prince Shotoku | Japan Reference, https://jref.com/articles/prince-shotoku.207/
+
 [^35]: Seventeen-article constitution - Wikipedia, https://en.wikipedia.org/wiki/Seventeen-article_constitution
+
 [^36]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^37]: Prince Shotoku, Buddhism, and the Seventeen-Article Constitution, https://www.linkedin.com/pulse/prince-shotoku-buddhism-seventeen-article-kevin-o-shaughnessy
+
 [^38]: The Seventeen-Article Constitution - its significance | E-Learning Programs, https://www.elearning.thanhsiang.org/node/4316
+
 [^39]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^40]: Shotoku's Seventeen-Article Constitution - Jushichijo Kenpo | SaruDama, https://www.sarudama.com/japanese-history/jushichijo-kenpo/
+
 [^41]: Prince Shotoku, Buddhism, and the Seventeen-Article Constitution, https://www.linkedin.com/pulse/prince-shotoku-buddhism-seventeen-article-kevin-o-shaughnessy
+
 [^42]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^43]: Seventeen-article constitution by Prince Shōtoku: Quotes & Excerpts, https://kwize.com/en/texts/Prince-Sh%C5%8Dtoku-Seventeen-article-constitution/
+
 [^44]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^45]: The Seventeen-Article Constitution - its significance | E-Learning Programs, https://www.elearning.thanhsiang.org/node/4316
+
 [^46]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^47]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^48]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^49]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^50]: Horyuji - World History Encyclopedia, https://www.worldhistory.org/Horyuji/
+
 [^51]: Buddhist Monuments in the Horyu-ji Area - UNESCO World Heritage Centre, https://whc.unesco.org/en/list/660/
+
 [^52]: Hōryū-ji - Wikipedia, https://en.wikipedia.org/wiki/Hōryū-ji
+
 [^53]: Sangyō Gisho - Wikipedia, https://en.wikipedia.org/wiki/Sangy%C5%8D_Gisho
+
 [^54]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^55]: Rethinking Premodern Japanese Buddhist Texts: A Case Study of Prince Shōtoku's \"Sangyō-gisho\" | Relegere: Studies in Religion and Reception, https://relegere.org/relegere/article/view/2
+
 [^56]: Sangyō Gisho - Encyclopedia of Buddhism, https://encyclopediaofbuddhism.org/wiki/Sangy%C5%8D_Gisho
+
 [^57]: Ancient Japanese & Chinese Relations - World History Encyclopedia, https://www.worldhistory.org/article/1085/ancient-japanese--chinese-relations/
+
 [^58]: Japan Sends Embassies to China | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/history/japan-sends-embassies-china
+
 [^59]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^60]: Ancient Japanese & Chinese Relations - World History Encyclopedia, https://www.worldhistory.org/article/1085/ancient-japanese--chinese-relations/
+
 [^61]: Japanese missions to Imperial China - Wikipedia, https://en.wikipedia.org/wiki/Japanese_missions_to_Imperial_China
+
 [^62]: Ancient Japanese & Chinese Relations - World History Encyclopedia, https://www.worldhistory.org/article/1085/ancient-japanese--chinese-relations/
+
 [^63]: Ancient Japanese & Chinese Relations - World History Encyclopedia, https://www.worldhistory.org/article/1085/ancient-japanese--chinese-relations/
+
 [^64]: Shotoku: His Biography and Philosophy | Academic Block, https://www.academicblock.com/history/top-philosopher/shotoku
+
 [^65]: 1 The Japanese Missions to China, https://www.utc.edu/document/51091
+
 [^66]: Statesman Prince Shotoku, legend or real national hero? | Heritage of Japan, https://heritageofjapan.wordpress.com/inception-of-the-imperial-system-asuka-era/how-buddhism-came-to-take-root-in-japan/prince-shotoku-the-greatest-statesman-of-japan-legend-or-real-national-hero/
+
 [^67]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^68]: Prince Shōtoku, https://grokipedia.com/page/Prince_Sh%C5%8Dtoku
+
 [^69]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^70]: (PDF) Why Do Debates About Shōtoku Taishi Get So Heated?, https://www.academia.edu/16056567/Why_Do_Debates_About_Sh%C5%8Dtoku_Taishi_Get_So_Heated
+
 [^71]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^72]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^73]: Statesman Prince Shotoku, legend or real national hero? | Heritage of Japan, https://heritageofjapan.wordpress.com/inception-of-the-imperial-system-asuka-era/how-buddhism-came-to-take-root-in-japan/prince-shotoku-the-greatest-statesman-of-japan-legend-or-real-national-hero/
+
 [^74]: (PDF) Why Do Debates About Shōtoku Taishi Get So Heated?, https://www.academia.edu/16056567/Why_Do_Debates_About_Sh%C5%8Dtoku_Taishi_Get_So_Heated
+
 [^75]: Prince Shōtoku, https://grokipedia.com/page/Prince_Sh%C5%8Dtoku
+
 [^76]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^77]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^78]: Sangyō Gisho - Wikipedia, https://en.wikipedia.org/wiki/Sangy%C5%8D_Gisho
+
 [^79]: Rethinking Premodern Japanese Buddhist Texts: A Case Study of Prince Shōtoku's \"Sangyō-gisho\" | Relegere: Studies in Religion and Reception, https://relegere.org/relegere/article/view/2
+
 [^80]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^81]: Sangyō Gisho - Encyclopedia of Buddhism, https://encyclopediaofbuddhism.org/wiki/Sangy%C5%8D_Gisho
+
 [^82]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^83]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^84]: Prince Shōtoku (574-622) | Issue 158 | Philosophy Now, https://philosophynow.org/issues/158/Prince_Shotoku_574-622
+
 [^85]: (PDF) Issues in the Study of Shōtoku Taishi, https://www.academia.edu/16055698/Issues_in_the_Study_of_Sh%C5%8Dtoku_Taishi
+
 [^86]: The Legacy of Prince Shōtoku: Buddhism, Governance, and Japan's Early Development - Japambience, https://japambience.com/article/prince-shotoku/
+
 [^87]: The Legend of Prince Shotoku in the Founding ..., https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1011&context=studentawards
+
 [^88]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^89]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^90]: (PDF) Why Do Debates About Shōtoku Taishi Get So Heated?, https://www.academia.edu/16056567/Why_Do_Debates_About_Sh%C5%8Dtoku_Taishi_Get_So_Heated
+
 [^91]: Prince Shōtoku, https://grokipedia.com/page/Prince_Sh%C5%8Dtoku
+
 [^92]: (PDF) Why Do Debates About Shōtoku Taishi Get So Heated?, https://www.academia.edu/16056567/Why_Do_Debates_About_Sh%C5%8Dtoku_Taishi_Get_So_Heated
+
 [^93]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^94]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^95]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^96]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^97]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^98]: Shotoku Taishi - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Shotoku_Taishi
+
 [^99]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^100]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^101]: Taishi Shōtoku | Japanese Regent, Buddhist Scholar & Author | Britannica, https://www.britannica.com/biography/Taishi-Shotoku
+
 [^102]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^103]: Illustrated Biography of Prince Shōtoku (Shōtoku Taishi e-den) - The Metropolitan Museum of Art, https://www.metmuseum.org/art/collection/search/45370
+
 [^104]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^105]: Shotoku Taishi - New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Shotoku_Taishi
+
 [^106]: Seventeen-article constitution by Prince Shōtoku: Quotes & Excerpts, https://kwize.com/en/texts/Prince-Sh%C5%8Dtoku-Seventeen-article-constitution/
+
 [^107]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^108]: Prince Shotoku - World History Encyclopedia, https://www.worldhistory.org/Prince_Shotoku/
+
 [^109]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^110]: The Legacy of Prince Shōtoku: Buddhism, Governance, and Japan's Early Development - Japambience, https://japambience.com/article/prince-shotoku/
+
 [^111]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^112]: Shotoku's Seventeen-Article Constitution - Jushichijo Kenpo | SaruDama, https://www.sarudama.com/japanese-history/jushichijo-kenpo/
+
 [^113]: The Legacy of Prince Shōtoku: Buddhism, Governance, and Japan's Early Development - Japambience, https://japambience.com/article/prince-shotoku/
+
 [^114]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^115]: PRINCE SHOTOKU (574-622): BUDDHISM, LEGENDS AND HIS GROUNDBREAKING CONSTITUTION | Facts and Details, https://factsanddetails.com/japan/cat16/sub106/entry-5297.html
+
 [^116]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^117]: Illustrated Biography of Prince Shōtoku (Shōtoku Taishi e-den) - The Metropolitan Museum of Art, https://www.metmuseum.org/art/collection/search/45370
+
 [^118]: Prince Shōtoku: The Secrets Within | Harvard Art Museums, https://harvardartmuseums.org/tour/prince-shotoku-the-secrets-within
+
 [^119]: (PDF) Why Do Debates About Shōtoku Taishi Get So Heated?, https://www.academia.edu/16056567/Why_Do_Debates_About_Sh%C5%8Dtoku_Taishi_Get_So_Heated
+
 [^120]: Horyuji Temple - Official Nara Travel Guide, https://www.visitnara.jp/venues/A00506/
+
 [^121]: Prince Shotoku of Japan - Khyentse Foundation, https://khyentsefoundation.org/story/prince-shotoku-of-japan/
+
 [^122]: Twelve Level Cap and Rank System - (History of Japan) - Vocab, Definition, Explanations | Fiveable, https://fiveable.me/key-terms/history-japan/twelve-level-cap-and-rank-system
+
 [^123]: Bio - Prince Shotoku | Japan Reference, https://jref.com/articles/prince-shotoku.207/
+
 [^124]: The Seventeen-Article Constitution - its significance | E-Learning Programs, https://www.elearning.thanhsiang.org/node/4316
+
 [^125]: Prince Shōtoku - Wikipedia, https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku
+
 [^126]: Ancient Japanese & Chinese Relations - World History Encyclopedia, https://www.worldhistory.org/article/1085/ancient-japanese--chinese-relations/
+
 [^127]: Statesman Prince Shotoku, legend or real national hero? | Heritage of Japan, https://heritageofjapan.wordpress.com/inception-of-the-imperial-system-asuka-era/how-buddhism-came-to-take-root-in-japan/prince-shotoku-the-greatest-statesman-of-japan-legend-or-real-national-hero/
+
 [^128]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^129]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^130]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^131]: Rethinking Premodern Japanese Buddhist Texts: A Case Study of Prince Shōtoku's \"Sangyō-gisho\" | Relegere: Studies in Religion and Reception, https://relegere.org/relegere/article/view/2
+
 [^132]: Prince Shōtoku, https://grokipedia.com/page/Prince_Sh%C5%8Dtoku
+
 [^133]: The Legend of Prince Shotoku in the Founding ..., https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1011&context=studentawards
+
 [^134]: Man of Legend: Early Japanese Ruler Prince Shōtoku | Nippon.com, https://www.nippon.com/en/japan-topics/g01049/
+
 [^135]: (PDF) Issues in the Study of Shōtoku Taishi, https://www.academia.edu/16055698/Issues_in_the_Study_of_Sh%C5%8Dtoku_Taishi
+
 [^136]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^137]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^138]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^139]: Seventeen-article constitution by Prince Shōtoku: Quotes & Excerpts, https://kwize.com/en/texts/Prince-Sh%C5%8Dtoku-Seventeen-article-constitution/
+
 [^140]: The Constitution of Prince Shōtoku, https://afe.easia.columbia.edu/ps/japan/shotoku.pdf
+
 [^141]: Seventeen-article constitution by Prince Shōtoku: Quotes & Excerpts, https://kwize.com/en/texts/Prince-Sh%C5%8Dtoku-Seventeen-article-constitution/
+
 [^142]: Ancient Japanese & Chinese Relations - World History Encyclopedia, https://www.worldhistory.org/article/1085/ancient-japanese--chinese-relations/

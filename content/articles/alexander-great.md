@@ -221,32 +221,32 @@ The contrast between positive and negative assessments ultimately reflects diffe
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 356 BCE (July 20) | Birth of Alexander III in Pella, Macedonia, to King Philip II and Queen Olympias |
-| 346 BCE | Alexander tames Bucephalus, his famous war horse |
-| 343 BCE | Aristotle begins tutoring thirteen-year-old Alexander at Mieza |
-| 340 BCE | Alexander serves as regent of Macedonia while Philip campaigns; suppresses revolt |
-| 338 BCE | Alexander commands Macedonian cavalry at Battle of Chaeronea, defeating Athens and Thebes |
-| 336 BCE | Philip II is assassinated; Alexander becomes king of Macedonia at age 20 |
-| 335 BCE | Alexander destroys Thebes after rebellion; 6,000 killed, 30,000 enslaved |
-| 334 BCE (May) | Alexander crosses Hellespont into Asia; defeats Persians at Battle of Granicus River |
-| 333 BCE (November) | Battle of Issus: Alexander defeats King Darius III of Persia |
-| 332 BCE (January-July) | Seven-month siege and conquest of Tyre |
-| 332 BCE | Conquest of Egypt; Alexander crowned Pharaoh |
-| 331 BCE (January) | Foundation of Alexandria in Egypt |
-| 331 BCE (October 1) | Battle of Gaugamela: decisive defeat of Darius III; Alexander proclaimed "King of Asia" |
-| 330 BCE (May) | Persepolis burned and looted |
-| 330 BCE | Death of Darius III; formal end of Persian Empire; execution of Philotas and Parmenion |
-| 329-327 BCE | Campaigns in Bactria and Sogdiana (modern Afghanistan and Uzbekistan) |
-| 328 BCE | Alexander kills Cleitus the Black in drunken rage at Samarkand |
-| 327 BCE | Marriage to Roxana of Bactria |
-| 326 BCE | Invasion of India; Battle of Hydaspes against King Porus; death of Bucephalus |
-| 326 BCE | Macedonian troops mutiny at Hyphasis River, refusing to march further east |
-| 325 BCE | Difficult return journey through Gedrosian Desert |
-| 324 BCE (October) | Death of Hephaestion at Ecbatana; Alexander's extreme mourning |
-| 324 BCE | Mass wedding at Susa; Alexander marries Stateira and Parysatis |
-| 323 BCE (June 13) | Death of Alexander in Babylon at age 32; birth of Alexander IV to Roxana shortly after |
+| Year                   | Event                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------- |
+| 356 BCE (July 20)      | Birth of Alexander III in Pella, Macedonia, to King Philip II and Queen Olympias          |
+| 346 BCE                | Alexander tames Bucephalus, his famous war horse                                          |
+| 343 BCE                | Aristotle begins tutoring thirteen-year-old Alexander at Mieza                            |
+| 340 BCE                | Alexander serves as regent of Macedonia while Philip campaigns; suppresses revolt         |
+| 338 BCE                | Alexander commands Macedonian cavalry at Battle of Chaeronea, defeating Athens and Thebes |
+| 336 BCE                | Philip II is assassinated; Alexander becomes king of Macedonia at age 20                  |
+| 335 BCE                | Alexander destroys Thebes after rebellion; 6,000 killed, 30,000 enslaved                  |
+| 334 BCE (May)          | Alexander crosses Hellespont into Asia; defeats Persians at Battle of Granicus River      |
+| 333 BCE (November)     | Battle of Issus: Alexander defeats King Darius III of Persia                              |
+| 332 BCE (January-July) | Seven-month siege and conquest of Tyre                                                    |
+| 332 BCE                | Conquest of Egypt; Alexander crowned Pharaoh                                              |
+| 331 BCE (January)      | Foundation of Alexandria in Egypt                                                         |
+| 331 BCE (October 1)    | Battle of Gaugamela: decisive defeat of Darius III; Alexander proclaimed "King of Asia"   |
+| 330 BCE (May)          | Persepolis burned and looted                                                              |
+| 330 BCE                | Death of Darius III; formal end of Persian Empire; execution of Philotas and Parmenion    |
+| 329-327 BCE            | Campaigns in Bactria and Sogdiana (modern Afghanistan and Uzbekistan)                     |
+| 328 BCE                | Alexander kills Cleitus the Black in drunken rage at Samarkand                            |
+| 327 BCE                | Marriage to Roxana of Bactria                                                             |
+| 326 BCE                | Invasion of India; Battle of Hydaspes against King Porus; death of Bucephalus             |
+| 326 BCE                | Macedonian troops mutiny at Hyphasis River, refusing to march further east                |
+| 325 BCE                | Difficult return journey through Gedrosian Desert                                         |
+| 324 BCE (October)      | Death of Hephaestion at Ecbatana; Alexander's extreme mourning                            |
+| 324 BCE                | Mass wedding at Susa; Alexander marries Stateira and Parysatis                            |
+| 323 BCE (June 13)      | Death of Alexander in Babylon at age 32; birth of Alexander IV to Roxana shortly after    |
 
 ---
 
@@ -285,204 +285,405 @@ Alexander's emphasis on collective responsibility and the interconnectedness of 
 ## References
 
 [^1]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^2]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^3]: https://www.biography.com/political-figures/alexander-the-great
+
 [^4]: https://www.historynet.com/alexander-the-monster/
+
 [^5]: https://www.worldhistory.org/Alexander_the_Great/
+
 [^6]: https://www.history.com/articles/alexander-the-great
+
 [^7]: https://www.livescience.com/39997-alexander-the-great.html
+
 [^8]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^9]: https://factsanddetails.com/world/cat56/sub366/entry-6171.html
+
 [^10]: https://www.historyskills.com/classroom/ancient-history/anc-rise-of-alexander-reading/
+
 [^11]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^12]: https://www.historyskills.com/classroom/ancient-history/alexander-and-aristotle/
+
 [^13]: https://totallyhistory.com/alexander-the-great-and-aristotle/
+
 [^14]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^15]: https://www.britannica.com/summary/Alexander-the-Great-Timeline
+
 [^16]: https://www.historyofmacedonia.org/AncientMacedonia/AlexandertheGreat.html
+
 [^17]: https://www.worldhistory.org/timeline/Alexander_the_Great/
+
 [^18]: https://europe.factsanddetails.com/article/entry-936.html
+
 [^19]: https://www.historyskills.com/classroom/ancient-history/anc-rise-of-alexander-reading/
+
 [^20]: https://www.britannica.com/summary/Alexander-the-Great-Timeline
+
 [^21]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^22]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^23]: https://www.worldhistory.org/Alexander_the_Great/
+
 [^24]: https://www.history.com/articles/alexander-the-great
+
 [^25]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^26]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^27]: https://www.worldhistory.org/Alexander_the_Great/
+
 [^28]: https://www.historyskills.com/classroom/ancient-history/anc-rise-of-alexander-reading/
+
 [^29]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^30]: https://www.historynet.com/alexander-the-monster/
+
 [^31]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^32]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^33]: https://www.history.com/articles/alexander-the-great-defeat-persian-empire
+
 [^34]: https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great
+
 [^35]: https://www.livescience.com/39997-alexander-the-great.html
+
 [^36]: https://alexander-the-great.org/alexanders-campaign/alexanders-persian-campaign
+
 [^37]: https://www.history.com/articles/alexander-the-great-key-battles-empire
+
 [^38]: https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great
+
 [^39]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^40]: https://www.history.com/articles/alexander-the-great-defeat-persian-empire
+
 [^41]: https://brewminate.com/building-an-empire-a-history-of-the-battles-and-strategies-of-alexander-the-great/
+
 [^42]: https://www.history.com/articles/alexander-the-great-key-battles-empire
+
 [^43]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^44]: https://www.historynet.com/alexander-the-monster/
+
 [^45]: https://www.britannica.com/summary/Alexander-the-Great-Timeline
+
 [^46]: https://www.history.com/articles/alexander-the-great-defeat-persian-empire
+
 [^47]: https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great
+
 [^48]: https://brewminate.com/building-an-empire-a-history-of-the-battles-and-strategies-of-alexander-the-great/
+
 [^49]: https://www.worldhistory.org/timeline/Alexander_the_Great/
+
 [^50]: https://alexander-the-great.org/alexanders-campaign/alexanders-persian-campaign
+
 [^51]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/alexander-the-great/
+
 [^52]: https://www.britannica.com/summary/Alexander-the-Great-Timeline
+
 [^53]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^54]: https://screenrant.com/alexander-the-great-making-of-a-god-marriages-affairs-romances/
+
 [^55]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^56]: https://www.history.com/articles/alexander-the-great-key-battles-empire
+
 [^57]: https://www.livescience.com/39997-alexander-the-great.html
+
 [^58]: https://www.worldhistory.org/timeline/Alexander_the_Great/
+
 [^59]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^60]: https://www.britannica.com/summary/Alexander-the-Greats-Achievements
+
 [^61]: https://education.nationalgeographic.org/resource/alexander-great/
+
 [^62]: https://www.ushistory.org/civ/5g.asp
+
 [^63]: https://www.livescience.com/39997-alexander-the-great.html
+
 [^64]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^65]: https://screenrant.com/alexander-the-great-making-of-a-god-marriages-affairs-romances/
+
 [^66]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^67]: https://www.ushistory.org/civ/5g.asp
+
 [^68]: https://www.britannica.com/summary/Alexander-the-Greats-Achievements
+
 [^69]: https://www.historynet.com/alexander-the-monster/
+
 [^70]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^71]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^72]: https://www.historynet.com/alexander-the-monster/
+
 [^73]: https://www.hellenistichistory.com/2022/09/06/the-dark-side-of-alexander-the-great/
+
 [^74]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^75]: https://www.thenotsoinnocentsabroad.com/blog/3-times-alexander-the-great-wasnt-so-great
+
 [^76]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^77]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^78]: https://www.historynet.com/alexander-the-monster/
+
 [^79]: https://www.hellenistichistory.com/2022/09/06/the-dark-side-of-alexander-the-great/
+
 [^80]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^81]: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1083&context=younghistorians
+
 [^82]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^83]: https://www.historynet.com/alexander-the-monster/
+
 [^84]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^85]: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1083&context=younghistorians
+
 [^86]: https://www.hellenistichistory.com/2022/09/06/the-dark-side-of-alexander-the-great/
+
 [^87]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^88]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^89]: https://www.historynet.com/alexander-the-monster/
+
 [^90]: https://www.hellenistichistory.com/2022/09/06/the-dark-side-of-alexander-the-great/
+
 [^91]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^92]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^93]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^94]: https://www.historynet.com/alexander-the-monster/
+
 [^95]: https://www.hellenistichistory.com/2022/09/06/the-dark-side-of-alexander-the-great/
+
 [^96]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^97]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^98]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^99]: https://screenrant.com/alexander-the-great-making-of-a-god-marriages-affairs-romances/
+
 [^100]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^101]: https://screenrant.com/alexander-the-great-making-of-a-god-marriages-affairs-romances/
+
 [^102]: https://historyhogs.com/alexander-the-greats-lovers/
+
 [^103]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^104]: https://screenrant.com/alexander-the-great-making-of-a-god-marriages-affairs-romances/
+
 [^105]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^106]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^107]: https://historyhogs.com/alexander-the-greats-lovers/
+
 [^108]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^109]: https://www.nationalgeographic.com/history/article/alexander-the-great-hephaestion-romance-lovers-friends
+
 [^110]: https://totallyhistory.com/alexander-and-hephaestion/
+
 [^111]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^112]: https://www.nationalgeographic.com/history/article/alexander-the-great-hephaestion-romance-lovers-friends
+
 [^113]: https://www.nationalgeographic.com/history/article/alexander-the-great-hephaestion-romance-lovers-friends
+
 [^114]: https://www.nationalgeographic.com/history/article/alexander-the-great-hephaestion-romance-lovers-friends
+
 [^115]: https://en.wikipedia.org/wiki/Personal_relationships_of_Alexander_the_Great
+
 [^116]: https://totallyhistory.com/alexander-and-hephaestion/
+
 [^117]: https://www.nationalgeographic.com/history/article/alexander-the-great-hephaestion-romance-lovers-friends
+
 [^118]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^119]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^120]: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1083&context=younghistorians
+
 [^121]: https://www.historynet.com/alexander-the-monster/
+
 [^122]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^123]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^124]: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1083&context=younghistorians
+
 [^125]: https://www.azquotes.com/author/5835-Alexander_the_Great
+
 [^126]: https://www.goodreads.com/author/quotes/4921445.Alexander_the_Great
+
 [^127]: https://www.britannica.com/biography/Alexander-the-Great/Evaluation
+
 [^128]: https://www.ushistory.org/civ/5g.asp
+
 [^129]: https://www.britannica.com/summary/Alexander-the-Greats-Achievements
+
 [^130]: https://www.livescience.com/39997-alexander-the-great.html
+
 [^131]: https://education.nationalgeographic.org/resource/alexander-great/
+
 [^132]: https://www.ushistory.org/civ/5g.asp
+
 [^133]: https://www.britannica.com/summary/Alexander-the-Greats-Achievements
+
 [^134]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^135]: https://www.confinity.com/legacies/alexander-the-great
+
 [^136]: https://www.businessandleadership.com/leadership/item/alexander-the-great-one-of-the-greatest-of-world-conquerors/
+
 [^137]: https://brewminate.com/building-an-empire-a-history-of-the-battles-and-strategies-of-alexander-the-great/
+
 [^138]: https://www.history.com/articles/alexander-the-great-defeat-persian-empire
+
 [^139]: https://highspeedhistory.com/2024/09/01/the-life-of-alexander-the-great-conquests-leadership-and-legacy/
+
 [^140]: https://www.confinity.com/legacies/alexander-the-great
+
 [^141]: https://highspeedhistory.com/2024/09/01/the-life-of-alexander-the-great-conquests-leadership-and-legacy/
+
 [^142]: https://www.businessandleadership.com/leadership/item/alexander-the-great-one-of-the-greatest-of-world-conquerors/
+
 [^143]: https://medium.com/@kwotboksundayhenry11/the-legacy-of-alexander-the-great-impact-and-controversies-1cd2c0c6e499
+
 [^144]: https://en.wikipedia.org/wiki/Historiography_of_Alexander_the_Great
+
 [^145]: https://claremontreviewofbooks.com/ancient-greatness/
+
 [^146]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^147]: https://en.wikipedia.org/wiki/Historiography_of_Alexander_the_Great
+
 [^148]: https://uh-ir.tdl.org/bitstreams/95bb2302-0a08-449a-93ac-e1ff73a06ed7/download
+
 [^149]: https://medium.com/@kwotboksundayhenry11/the-legacy-of-alexander-the-great-impact-and-controversies-1cd2c0c6e499
+
 [^150]: https://www.britannica.com/summary/Alexander-the-Greats-Achievements
+
 [^151]: https://www.ushistory.org/civ/5g.asp
+
 [^152]: https://www.confinity.com/legacies/alexander-the-great
+
 [^153]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^154]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^155]: https://medium.com/@kwotboksundayhenry11/the-legacy-of-alexander-the-great-impact-and-controversies-1cd2c0c6e499
+
 [^156]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^157]: https://www.historynet.com/alexander-the-monster/
+
 [^158]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^159]: https://www.eiu.edu/historia/Bays2017.pdf
+
 [^160]: https://www.brainyquote.com/authors/alexander-the-great-quotes
+
 [^161]: https://en.wikipedia.org/wiki/Alexander_the_Great
+
 [^162]: https://www.confinity.com/legacies/alexander-the-great
+
 [^163]: https://uh-ir.tdl.org/bitstreams/95bb2302-0a08-449a-93ac-e1ff73a06ed7/download
+
 [^164]: https://samples.eduwriter.ai/961147874/plutarchs-perspective-on-alexander-the-great-and
+
 [^165]: https://www.livescience.com/39997-alexander-the-great.html
+
 [^166]: https://www.britannica.com/biography/Alexander-the-Great
+
 [^167]: https://education.nationalgeographic.org/resource/alexander-great/
+
 [^168]: https://www.ushistory.org/civ/5g.asp
+
 [^169]: https://www.britannica.com/summary/Alexander-the-Greats-Achievements
+
 [^170]: https://www.khanacademy.org/humanities/world-history/ancient-medieval/alexander-the-great/a/alexander-the-great
+
 [^171]: https://www.businessandleadership.com/leadership/item/alexander-the-great-one-of-the-greatest-of-world-conquerors/
+
 [^172]: https://brewminate.com/building-an-empire-a-history-of-the-battles-and-strategies-of-alexander-the-great/
+
 [^173]: https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great
+
 [^174]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^175]: https://www.historyskills.com/classroom/ancient-history/alexander-not-so-great
+
 [^176]: https://www.britannica.com/summary/Alexander-the-Greats-Achievements
+
 [^177]: https://uh-ir.tdl.org/bitstreams/95bb2302-0a08-449a-93ac-e1ff73a06ed7/download
+
 [^178]: https://samples.eduwriter.ai/961147874/plutarchs-perspective-on-alexander-the-great-and
+
 [^179]: https://www.historynet.com/alexander-the-monster/
+
 [^180]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^181]: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1083&context=younghistorians
+
 [^182]: https://www.hellenistichistory.com/2022/09/06/the-dark-side-of-alexander-the-great/
+
 [^183]: https://medium.com/@kwotboksundayhenry11/the-legacy-of-alexander-the-great-impact-and-controversies-1cd2c0c6e499
+
 [^184]: https://uh-ir.tdl.org/bitstreams/95bb2302-0a08-449a-93ac-e1ff73a06ed7/download
+
 [^185]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^186]: https://medium.com/@kwotboksundayhenry11/the-legacy-of-alexander-the-great-impact-and-controversies-1cd2c0c6e499
+
 [^187]: https://medium.com/@kwotboksundayhenry11/the-legacy-of-alexander-the-great-impact-and-controversies-1cd2c0c6e499
+
 [^188]: https://uh-ir.tdl.org/bitstreams/95bb2302-0a08-449a-93ac-e1ff73a06ed7/download
+
 [^189]: https://uh-ir.tdl.org/bitstreams/95bb2302-0a08-449a-93ac-e1ff73a06ed7/download
+
 [^190]: https://en.wikipedia.org/wiki/Historiography_of_Alexander_the_Great
+
 [^191]: https://www.eiu.edu/historia/Bays2017.pdf
+
 [^192]: https://aspectsofhistory.com/alexander-the-great-in-the-dock/
+
 [^193]: https://www.quora.com/What-are-some-positive-and-negative-points-on-Alexander-the-Great-Also-can-Alexander-be-considered-great-or-not-Why
+
 [^194]: https://samples.eduwriter.ai/961147874/plutarchs-perspective-on-alexander-the-great-and
+
 [^195]: https://en.wikipedia.org/wiki/Historiography_of_Alexander_the_Great
+
 [^196]: https://www.brainyquote.com/authors/alexander-the-great-quotes
+
 [^197]: https://parade.com/living/alexander-the-great-quotes
+
 [^198]: https://www.azquotes.com/author/5835-Alexander_the_Great
+
 [^199]: https://everydaypower.com/alexander-the-great-quotes/
+
 [^200]: https://medium.com/@hussain161620/alexander-the-great-ten-quotes-that-reflect-his-leadership-and-ambition-3e5d0a9bdaa0
+
 [^201]: https://www.goodreads.com/author/quotes/4921445.Alexander_the_Great
+
 [^202]: https://www.blinkist.com/magazine/posts/inspirational-alexander-great-quotes-ignite-inner-conqueror

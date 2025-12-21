@@ -153,33 +153,33 @@ Recent scholarship influenced by postcolonial perspectives presents Charles as a
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1500 | Born in Ghent, Flanders on February 24 |
-| 1506 | Father Philip the Handsome dies; mother Joanna declared unfit to rule |
-| 1515 | Declared of age and assumes rule of the Burgundian Netherlands |
-| 1516 | Becomes King of Spain (Charles I) after death of grandfather Ferdinand II |
-| 1519 | Elected Holy Roman Emperor; Hernán Cortés begins conquest of Aztec Empire |
-| 1520 | Crowned Holy Roman Emperor; Comuneros revolt begins in Spain |
-| 1521 | Diet of Worms confronts Martin Luther; Battle of Villalar ends Comuneros revolt |
-| 1525 | Victory at Battle of Pavia; captures King Francis I of France |
-| 1526 | Marries Isabella of Portugal; Battle of Mohács—Ottomans conquer Hungary |
-| 1527 | Sack of Rome by mutinous imperial troops |
-| 1529 | First Ottoman siege of Vienna; Peace of Cambrai with France |
-| 1530 | Crowned by Pope in Bologna—last imperial coronation by a pope |
-| 1535 | Successful conquest of Tunis from Ottoman-backed forces |
-| 1536 | Third war with France begins |
-| 1539 | Empress Isabella dies |
-| 1541 | Disastrous expedition against Algiers |
-| 1542 | Promulgates New Laws protecting indigenous Americans |
-| 1544 | Peace of Crépy ends fourth war with France |
-| 1545 | Council of Trent convenes |
-| 1547 | Victory at Battle of Mühlberg against Protestant Schmalkaldic League |
-| 1552 | Revolt of Protestant princes forces Charles to flee Germany |
-| 1555 | Peace of Augsburg establishes religious compromise in Germany |
+| Year | Event                                                                               |
+| ---- | ----------------------------------------------------------------------------------- |
+| 1500 | Born in Ghent, Flanders on February 24                                              |
+| 1506 | Father Philip the Handsome dies; mother Joanna declared unfit to rule               |
+| 1515 | Declared of age and assumes rule of the Burgundian Netherlands                      |
+| 1516 | Becomes King of Spain (Charles I) after death of grandfather Ferdinand II           |
+| 1519 | Elected Holy Roman Emperor; Hernán Cortés begins conquest of Aztec Empire           |
+| 1520 | Crowned Holy Roman Emperor; Comuneros revolt begins in Spain                        |
+| 1521 | Diet of Worms confronts Martin Luther; Battle of Villalar ends Comuneros revolt     |
+| 1525 | Victory at Battle of Pavia; captures King Francis I of France                       |
+| 1526 | Marries Isabella of Portugal; Battle of Mohács—Ottomans conquer Hungary             |
+| 1527 | Sack of Rome by mutinous imperial troops                                            |
+| 1529 | First Ottoman siege of Vienna; Peace of Cambrai with France                         |
+| 1530 | Crowned by Pope in Bologna—last imperial coronation by a pope                       |
+| 1535 | Successful conquest of Tunis from Ottoman-backed forces                             |
+| 1536 | Third war with France begins                                                        |
+| 1539 | Empress Isabella dies                                                               |
+| 1541 | Disastrous expedition against Algiers                                               |
+| 1542 | Promulgates New Laws protecting indigenous Americans                                |
+| 1544 | Peace of Crépy ends fourth war with France                                          |
+| 1545 | Council of Trent convenes                                                           |
+| 1547 | Victory at Battle of Mühlberg against Protestant Schmalkaldic League                |
+| 1552 | Revolt of Protestant princes forces Charles to flee Germany                         |
+| 1555 | Peace of Augsburg establishes religious compromise in Germany                       |
 | 1556 | Abdicates Spanish throne to son Philip II and imperial title to brother Ferdinand I |
-| 1557 | Spain declares bankruptcy |
-| 1558 | Dies at monastery of Yuste on September 21 |
+| 1557 | Spain declares bankruptcy                                                           |
+| 1558 | Dies at monastery of Yuste on September 21                                          |
 
 ---
 
@@ -213,110 +213,216 @@ Charles's message after the victory at Mühlberg, consciously echoing and modify
 
 ## References
 
-[^1]: Parker, Geoffrey. *Emperor: A New Life of Charles V*. Yale University Press, 2019, pp. 3-8.
-[^2]: Blockmans, Wim, and Nicolette Mout. *The World of Emperor Charles V*. Royal Netherlands Academy of Arts and Sciences, 2004, pp. 12-15.
-[^3]: Fernández Álvarez, Manuel. *Juana la Loca: La cautiva de Tordesillas*. Espasa, 2000, pp. 187-194.
-[^4]: Tracy, James D. *Emperor Charles V, Impresario of War*. Cambridge University Press, 2002, pp. 21-24.
-[^5]: Kohler, Alfred. *Karl V. 1500-1558: Eine Biographie*. C.H. Beck, 1999, pp. 31-35.
-[^6]: Brandi, Karl. *The Emperor Charles V*. Jonathan Cape, 1939, pp. 42-47.
-[^7]: Blockmans, *The World of Emperor Charles V*, pp. 28-31.
-[^8]: Elliott, John H. *Imperial Spain 1469-1716*. Penguin Books, 2002, pp. 142-148.
-[^9]: Tracy, *Emperor Charles V, Impresario of War*, pp. 33-39.
-[^10]: Kamen, Henry. *Spain 1469-1714: A Society of Conflict*. Routledge, 2014, pp. 76-81.
-[^11]: Parker, *Emperor: A New Life of Charles V*, pp. 91-97.
-[^12]: Pérez, Joseph. *La revolución de las Comunidades de Castilla (1520-1521)*. Siglo XXI, 1977, pp. 145-167.
-[^13]: Elliott, *Imperial Spain*, pp. 152-156.
-[^14]: Imber, Colin. *The Ottoman Empire, 1300-1650*. Palgrave Macmillan, 2002, pp. 50-61.
-[^15]: Kohler, *Karl V*, pp. 156-162.
-[^16]: Bainton, Roland H. *Here I Stand: A Life of Martin Luther*. Abingdon-Cokesbury, 1950, pp. 181-186.
-[^17]: Knecht, Robert J. *Renaissance Warrior and Patron: The Reign of Francis I*. Cambridge University Press, 1994, pp. 187-214.
-[^18]: Tracy, *Emperor Charles V, Impresario of War*, pp. 112-127.
-[^19]: Parker, *Emperor: A New Life of Charles V*, pp. 255-267.
-[^20]: Thomas, Hugh. *The Golden Age: The Spanish Empire of Charles V*. Penguin, 2011, pp. 312-347.
-[^21]: Tracy, *Emperor Charles V, Impresario of War*, pp. 89-94.
-[^22]: Braudel, Fernand. *The Mediterranean and the Mediterranean World in the Age of Philip II*. Vol. 2, University of California Press, 1995, pp. 908-921.
-[^23]: Wheatcroft, Andrew. *The Enemy at the Gate: Habsburgs, Ottomans and the Battle for Europe*. Basic Books, 2009, pp. 91-103.
-[^24]: Kohler, *Karl V*, pp. 201-215.
-[^25]: Parker, *Emperor: A New Life of Charles V*, pp. 312-329.
-[^26]: Elliott, John H. *Empires of the Atlantic World*. Yale University Press, 2006, pp. 128-134.
-[^27]: Checa Cremades, Fernando. *Carlos V: La imagen del poder en el Renacimiento*. El Viso, 1999, pp. 167-189.
-[^28]: Thomas, *The Golden Age*, pp. 389-405.
-[^29]: O'Malley, John W. *Trent: What Happened at the Council*. Harvard University Press, 2013, pp. 38-51.
-[^30]: Wright, Jonathan. *The Jesuits: Missions, Myths and Histories*. HarperCollins, 2004, pp. 17-24.
-[^31]: Tracy, *Emperor Charles V, Impresario of War*, pp. 247-259.
-[^32]: Reston, James Jr. *Defenders of the Faith*. Penguin, 2009, pp. 341-356.
-[^33]: Parker, *Emperor: A New Life of Charles V*, pp. 478-492.
-[^34]: Holborn, Hajo. *A History of Modern Germany: The Reformation*. Princeton University Press, 1959, pp. 247-253.
-[^35]: Simpson, Lesley Byrd. *The Encomienda in New Spain*. University of California Press, 1950, pp. 123-138.
-[^36]: Hanke, Lewis. *All Mankind Is One: A Study of the Disputation Between Bartolomé de Las Casas and Juan Ginés de Sepúlveda in 1550*. Northern Illinois University Press, 1974, pp. 67-89.
-[^37]: Kamen, *Spain 1469-1714*, pp. 143-151.
-[^38]: Tracy, *Emperor Charles V, Impresario of War*, pp. 301-317.
-[^39]: Pérez, *La revolución de las Comunidades*, pp. 598-615.
-[^40]: Kamen, Henry. *The Spanish Inquisition: A Historical Revision*. Yale University Press, 1998, pp. 87-93.
-[^41]: Elliott, *Imperial Spain*, pp. 148-149.
-[^42]: Braudel, *The Mediterranean*, Vol. 2, pp. 922-928.
-[^43]: Hook, Judith. *The Sack of Rome, 1527*. Palgrave Macmillan, 2004, pp. 187-214.
-[^44]: Nexon, Daniel H. *The Struggle for Power in Early Modern Europe*. Princeton University Press, 2009, pp. 156-171.
-[^45]: Cameron, Euan. *The European Reformation*. Oxford University Press, 2012, pp. 312-324.
-[^46]: Parker, *Emperor: A New Life of Charles V*, pp. 183-191.
-[^47]: Fernández Álvarez, Manuel. *Charles V: Elected Emperor and Hereditary Ruler*. Thames & Hudson, 1975, pp. 78-84.
-[^48]: Kohler, *Karl V*, pp. 89-92.
-[^49]: Thomas, *The Golden Age*, pp. 234-241.
-[^50]: Alvarez, G., et al. "The Role of Inbreeding in the Extinction of a European Royal Dynasty." *PLoS ONE* 4.4 (2009): e5174.
-[^51]: Parker, *Emperor: A New Life of Charles V*, pp. 506-518.
-[^52]: Checa Cremades, *Carlos V*, pp. 45-67.
-[^53]: Brandi, *The Emperor Charles V*, p. 641. [Note: Attribution disputed by some scholars]
-[^54]: Fenlon, Iain. *Music and Patronage in Sixteenth-Century Mantua*. Cambridge University Press, 1980, pp. 112-118.
-[^55]: Parker, *Emperor: A New Life of Charles V*, pp. 514-517.
-[^56]: Blockmans, *The World of Emperor Charles V*, pp. 89-103.
-[^57]: Parker, Geoffrey. *Philip II*. Open Court Publishing, 1995, pp. 18-26.
-[^58]: Tracy, *Emperor Charles V, Impresario of War*, pp. 318-334.
-[^59]: Stirling-Maxwell, William. *The Cloister Life of Emperor Charles V*. John C. Nimmo, 1891, pp. 234-267.
-[^60]: Parker, *Emperor: A New Life of Charles V*, pp. 548-554.
-[^61]: Fernández Álvarez, *Charles V*, pp. 189-192.
-[^62]: Ingrao, Charles W. *The Habsburg Monarchy, 1618-1815*. Cambridge University Press, 2000, pp. 1-14.
-[^63]: Wilson, Peter H. *The Holy Roman Empire: A Thousand Years of Europe's History*. Penguin, 2017, pp. 412-428.
-[^64]: Elliott, *Empires of the Atlantic World*, pp. 142-157.
-[^65]: Hamilton, Earl J. *American Treasure and the Price Revolution in Spain, 1501-1650*. Harvard University Press, 1934, pp. 34-47.
-[^66]: O'Malley, *Trent*, pp. 287-301.
-[^67]: Parker, Geoffrey, ed. *The Thirty Years' War*. Routledge, 1997, pp. 1-18.
-[^68]: Jaffé, Michael. "Titian's *Charles V* at Mühlberg and Precedents." *The Art Bulletin* 51.3 (1969): 287-290.
-[^69]: Yates, Frances A. *Astraea: The Imperial Theme in the Sixteenth Century*. Routledge, 1975, pp. 1-28.
-[^70]: Parker, *Emperor: A New Life of Charles V*, pp. 580-597.
-[^71]: Nexon, *The Struggle for Power*, pp. 198-214.
-[^72]: Kamen, Henry. *Empire: How Spain Became a World Power, 1492-1763*. HarperCollins, 2003, pp. 147-163.
-[^73]: Restall, Matthew, and Felipe Fernández-Armesto. *The Conquistadors: A Very Short Introduction*. Oxford University Press, 2012, pp. 78-92.
-[^74]: Parker, *Emperor: A New Life of Charles V*, p. 589.
-[^75]: Parker, *Emperor: A New Life of Charles V*, pp. 412-429.
-[^76]: Kohler, *Karl V*, pp. 445-467.
-[^77]: Kohler, *Karl V*, pp. 389-401.
-[^78]: Hanke, Lewis. *The Spanish Struggle for Justice in the Conquest of America*. University of Pennsylvania Press, 1949, pp. 91-108.
-[^79]: Pagden, Anthony. *The Fall of Natural Man: The American Indian and the Origins of Comparative Ethnology*. Cambridge University Press, 1982, pp. 109-118.
-[^80]: Braudel, *The Mediterranean*, Vol. 2, pp. 673-684.
-[^81]: Lynch, John. *Spain 1516-1598: From Nation State to World Empire*. Blackwell, 1991, pp. 67-82.
-[^82]: Checa Cremades, *Carlos V*, pp. 234-267.
-[^83]: Blockmans, *The World of Emperor Charles V*, pp. 156-173.
-[^84]: Black, Jeremy. *European Warfare, 1494-1660*. Routledge, 2002, pp. 78-89.
-[^85]: Parker, Geoffrey. *The Military Revolution*. Cambridge University Press, 1988, pp. 18-24.
-[^86]: Fernández Álvarez, *Charles V*, pp. 201-214.
-[^87]: Headley, John M. *The Emperor and His Chancellor: A Study of the Imperial Chancellery under Gattinara*. Cambridge University Press, 1983, pp. 234-241.
-[^88]: Kamen, *Spain 1469-1714*, pp. 156-167.
-[^89]: Kamen, *Empire*, pp. 178-192.
-[^90]: Cameron, *The European Reformation*, pp. 298-311.
-[^91]: MacCulloch, Diarmaid. *The Reformation*. Viking, 2004, pp. 245-258.
-[^92]: Restall and Fernández-Armesto, *The Conquistadors*, pp. 103-117.
-[^93]: Cook, Noble David. *Born to Die: Disease and New World Conquest, 1492-1650*. Cambridge University Press, 1998, pp. 56-71.
-[^94]: Hamilton, *American Treasure*, pp. 301-318.
-[^95]: Drelichman, Mauricio, and Hans-Joachim Voth. *Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II*. Princeton University Press, 2014, pp. 23-38.
-[^96]: Blockmans, *The World of Emperor Charles V*, pp. 234-247.
-[^97]: Pérez, *La revolución de las Comunidades*, pp. 678-691.
-[^98]: Elliott, *Imperial Spain*, pp. 178-189.
-[^99]: Koenigsberger, H.G. *The Habsburgs and Europe, 1516-1660*. Cornell University Press, 1971, pp. 34-49.
-[^100]: Mignolo, Walter D. *The Darker Side of the Renaissance*. University of Michigan Press, 1995, pp. 312-328.
-[^101]: Crosby, Alfred W. *The Columbian Exchange*. Praeger, 2003, pp. 165-207.
-[^102]: Brandi, *The Emperor Charles V*, p. 641. [Authenticity disputed]
-[^103]: Tracy, *Emperor Charles V, Impresario of War*, p. 214.
-[^104]: Bainton, *Here I Stand*, p. 185.
-[^105]: Stirling-Maxwell, *The Cloister Life*, p. 89.
-[^106]: Various attributions; see Parker, *Emperor: A New Life of Charles V*, p. 627 note 47.
-[^107]: Tracy, *Emperor Charles V, Impresario of War*, p. 257.
+[^1]: Parker, Geoffrey. _Emperor: A New Life of Charles V_. Yale University Press, 2019, pp. 3-8.
+
+[^2]: Blockmans, Wim, and Nicolette Mout. _The World of Emperor Charles V_. Royal Netherlands Academy of Arts and Sciences, 2004, pp. 12-15.
+
+[^3]: Fernández Álvarez, Manuel. _Juana la Loca: La cautiva de Tordesillas_. Espasa, 2000, pp. 187-194.
+
+[^4]: Tracy, James D. _Emperor Charles V, Impresario of War_. Cambridge University Press, 2002, pp. 21-24.
+
+[^5]: Kohler, Alfred. _Karl V. 1500-1558: Eine Biographie_. C.H. Beck, 1999, pp. 31-35.
+
+[^6]: Brandi, Karl. _The Emperor Charles V_. Jonathan Cape, 1939, pp. 42-47.
+
+[^7]: Blockmans, _The World of Emperor Charles V_, pp. 28-31.
+
+[^8]: Elliott, John H. _Imperial Spain 1469-1716_. Penguin Books, 2002, pp. 142-148.
+
+[^9]: Tracy, _Emperor Charles V, Impresario of War_, pp. 33-39.
+
+[^10]: Kamen, Henry. _Spain 1469-1714: A Society of Conflict_. Routledge, 2014, pp. 76-81.
+
+[^11]: Parker, _Emperor: A New Life of Charles V_, pp. 91-97.
+
+[^12]: Pérez, Joseph. _La revolución de las Comunidades de Castilla (1520-1521)_. Siglo XXI, 1977, pp. 145-167.
+
+[^13]: Elliott, _Imperial Spain_, pp. 152-156.
+
+[^14]: Imber, Colin. _The Ottoman Empire, 1300-1650_. Palgrave Macmillan, 2002, pp. 50-61.
+
+[^15]: Kohler, _Karl V_, pp. 156-162.
+
+[^16]: Bainton, Roland H. _Here I Stand: A Life of Martin Luther_. Abingdon-Cokesbury, 1950, pp. 181-186.
+
+[^17]: Knecht, Robert J. _Renaissance Warrior and Patron: The Reign of Francis I_. Cambridge University Press, 1994, pp. 187-214.
+
+[^18]: Tracy, _Emperor Charles V, Impresario of War_, pp. 112-127.
+
+[^19]: Parker, _Emperor: A New Life of Charles V_, pp. 255-267.
+
+[^20]: Thomas, Hugh. _The Golden Age: The Spanish Empire of Charles V_. Penguin, 2011, pp. 312-347.
+
+[^21]: Tracy, _Emperor Charles V, Impresario of War_, pp. 89-94.
+
+[^22]: Braudel, Fernand. _The Mediterranean and the Mediterranean World in the Age of Philip II_. Vol. 2, University of California Press, 1995, pp. 908-921.
+
+[^23]: Wheatcroft, Andrew. _The Enemy at the Gate: Habsburgs, Ottomans and the Battle for Europe_. Basic Books, 2009, pp. 91-103.
+
+[^24]: Kohler, _Karl V_, pp. 201-215.
+
+[^25]: Parker, _Emperor: A New Life of Charles V_, pp. 312-329.
+
+[^26]: Elliott, John H. _Empires of the Atlantic World_. Yale University Press, 2006, pp. 128-134.
+
+[^27]: Checa Cremades, Fernando. _Carlos V: La imagen del poder en el Renacimiento_. El Viso, 1999, pp. 167-189.
+
+[^28]: Thomas, _The Golden Age_, pp. 389-405.
+
+[^29]: O'Malley, John W. _Trent: What Happened at the Council_. Harvard University Press, 2013, pp. 38-51.
+
+[^30]: Wright, Jonathan. _The Jesuits: Missions, Myths and Histories_. HarperCollins, 2004, pp. 17-24.
+
+[^31]: Tracy, _Emperor Charles V, Impresario of War_, pp. 247-259.
+
+[^32]: Reston, James Jr. _Defenders of the Faith_. Penguin, 2009, pp. 341-356.
+
+[^33]: Parker, _Emperor: A New Life of Charles V_, pp. 478-492.
+
+[^34]: Holborn, Hajo. _A History of Modern Germany: The Reformation_. Princeton University Press, 1959, pp. 247-253.
+
+[^35]: Simpson, Lesley Byrd. _The Encomienda in New Spain_. University of California Press, 1950, pp. 123-138.
+
+[^36]: Hanke, Lewis. _All Mankind Is One: A Study of the Disputation Between Bartolomé de Las Casas and Juan Ginés de Sepúlveda in 1550_. Northern Illinois University Press, 1974, pp. 67-89.
+
+[^37]: Kamen, _Spain 1469-1714_, pp. 143-151.
+
+[^38]: Tracy, _Emperor Charles V, Impresario of War_, pp. 301-317.
+
+[^39]: Pérez, _La revolución de las Comunidades_, pp. 598-615.
+
+[^40]: Kamen, Henry. _The Spanish Inquisition: A Historical Revision_. Yale University Press, 1998, pp. 87-93.
+
+[^41]: Elliott, _Imperial Spain_, pp. 148-149.
+
+[^42]: Braudel, _The Mediterranean_, Vol. 2, pp. 922-928.
+
+[^43]: Hook, Judith. _The Sack of Rome, 1527_. Palgrave Macmillan, 2004, pp. 187-214.
+
+[^44]: Nexon, Daniel H. _The Struggle for Power in Early Modern Europe_. Princeton University Press, 2009, pp. 156-171.
+
+[^45]: Cameron, Euan. _The European Reformation_. Oxford University Press, 2012, pp. 312-324.
+
+[^46]: Parker, _Emperor: A New Life of Charles V_, pp. 183-191.
+
+[^47]: Fernández Álvarez, Manuel. _Charles V: Elected Emperor and Hereditary Ruler_. Thames & Hudson, 1975, pp. 78-84.
+
+[^48]: Kohler, _Karl V_, pp. 89-92.
+
+[^49]: Thomas, _The Golden Age_, pp. 234-241.
+
+[^50]: Alvarez, G., et al. "The Role of Inbreeding in the Extinction of a European Royal Dynasty." _PLoS ONE_ 4.4 (2009): e5174.
+
+[^51]: Parker, _Emperor: A New Life of Charles V_, pp. 506-518.
+
+[^52]: Checa Cremades, _Carlos V_, pp. 45-67.
+
+[^53]: Brandi, _The Emperor Charles V_, p. 641. [Note: Attribution disputed by some scholars]
+
+[^54]: Fenlon, Iain. _Music and Patronage in Sixteenth-Century Mantua_. Cambridge University Press, 1980, pp. 112-118.
+
+[^55]: Parker, _Emperor: A New Life of Charles V_, pp. 514-517.
+
+[^56]: Blockmans, _The World of Emperor Charles V_, pp. 89-103.
+
+[^57]: Parker, Geoffrey. _Philip II_. Open Court Publishing, 1995, pp. 18-26.
+
+[^58]: Tracy, _Emperor Charles V, Impresario of War_, pp. 318-334.
+
+[^59]: Stirling-Maxwell, William. _The Cloister Life of Emperor Charles V_. John C. Nimmo, 1891, pp. 234-267.
+
+[^60]: Parker, _Emperor: A New Life of Charles V_, pp. 548-554.
+
+[^61]: Fernández Álvarez, _Charles V_, pp. 189-192.
+
+[^62]: Ingrao, Charles W. _The Habsburg Monarchy, 1618-1815_. Cambridge University Press, 2000, pp. 1-14.
+
+[^63]: Wilson, Peter H. _The Holy Roman Empire: A Thousand Years of Europe's History_. Penguin, 2017, pp. 412-428.
+
+[^64]: Elliott, _Empires of the Atlantic World_, pp. 142-157.
+
+[^65]: Hamilton, Earl J. _American Treasure and the Price Revolution in Spain, 1501-1650_. Harvard University Press, 1934, pp. 34-47.
+
+[^66]: O'Malley, _Trent_, pp. 287-301.
+
+[^67]: Parker, Geoffrey, ed. _The Thirty Years' War_. Routledge, 1997, pp. 1-18.
+
+[^68]: Jaffé, Michael. "Titian's _Charles V_ at Mühlberg and Precedents." _The Art Bulletin_ 51.3 (1969): 287-290.
+
+[^69]: Yates, Frances A. _Astraea: The Imperial Theme in the Sixteenth Century_. Routledge, 1975, pp. 1-28.
+
+[^70]: Parker, _Emperor: A New Life of Charles V_, pp. 580-597.
+
+[^71]: Nexon, _The Struggle for Power_, pp. 198-214.
+
+[^72]: Kamen, Henry. _Empire: How Spain Became a World Power, 1492-1763_. HarperCollins, 2003, pp. 147-163.
+
+[^73]: Restall, Matthew, and Felipe Fernández-Armesto. _The Conquistadors: A Very Short Introduction_. Oxford University Press, 2012, pp. 78-92.
+
+[^74]: Parker, _Emperor: A New Life of Charles V_, p. 589.
+
+[^75]: Parker, _Emperor: A New Life of Charles V_, pp. 412-429.
+
+[^76]: Kohler, _Karl V_, pp. 445-467.
+
+[^77]: Kohler, _Karl V_, pp. 389-401.
+
+[^78]: Hanke, Lewis. _The Spanish Struggle for Justice in the Conquest of America_. University of Pennsylvania Press, 1949, pp. 91-108.
+
+[^79]: Pagden, Anthony. _The Fall of Natural Man: The American Indian and the Origins of Comparative Ethnology_. Cambridge University Press, 1982, pp. 109-118.
+
+[^80]: Braudel, _The Mediterranean_, Vol. 2, pp. 673-684.
+
+[^81]: Lynch, John. _Spain 1516-1598: From Nation State to World Empire_. Blackwell, 1991, pp. 67-82.
+
+[^82]: Checa Cremades, _Carlos V_, pp. 234-267.
+
+[^83]: Blockmans, _The World of Emperor Charles V_, pp. 156-173.
+
+[^84]: Black, Jeremy. _European Warfare, 1494-1660_. Routledge, 2002, pp. 78-89.
+
+[^85]: Parker, Geoffrey. _The Military Revolution_. Cambridge University Press, 1988, pp. 18-24.
+
+[^86]: Fernández Álvarez, _Charles V_, pp. 201-214.
+
+[^87]: Headley, John M. _The Emperor and His Chancellor: A Study of the Imperial Chancellery under Gattinara_. Cambridge University Press, 1983, pp. 234-241.
+
+[^88]: Kamen, _Spain 1469-1714_, pp. 156-167.
+
+[^89]: Kamen, _Empire_, pp. 178-192.
+
+[^90]: Cameron, _The European Reformation_, pp. 298-311.
+
+[^91]: MacCulloch, Diarmaid. _The Reformation_. Viking, 2004, pp. 245-258.
+
+[^92]: Restall and Fernández-Armesto, _The Conquistadors_, pp. 103-117.
+
+[^93]: Cook, Noble David. _Born to Die: Disease and New World Conquest, 1492-1650_. Cambridge University Press, 1998, pp. 56-71.
+
+[^94]: Hamilton, _American Treasure_, pp. 301-318.
+
+[^95]: Drelichman, Mauricio, and Hans-Joachim Voth. _Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II_. Princeton University Press, 2014, pp. 23-38.
+
+[^96]: Blockmans, _The World of Emperor Charles V_, pp. 234-247.
+
+[^97]: Pérez, _La revolución de las Comunidades_, pp. 678-691.
+
+[^98]: Elliott, _Imperial Spain_, pp. 178-189.
+
+[^99]: Koenigsberger, H.G. _The Habsburgs and Europe, 1516-1660_. Cornell University Press, 1971, pp. 34-49.
+
+[^100]: Mignolo, Walter D. _The Darker Side of the Renaissance_. University of Michigan Press, 1995, pp. 312-328.
+
+[^101]: Crosby, Alfred W. _The Columbian Exchange_. Praeger, 2003, pp. 165-207.
+
+[^102]: Brandi, _The Emperor Charles V_, p. 641. [Authenticity disputed]
+
+[^103]: Tracy, _Emperor Charles V, Impresario of War_, p. 214.
+
+[^104]: Bainton, _Here I Stand_, p. 185.
+
+[^105]: Stirling-Maxwell, _The Cloister Life_, p. 89.
+
+[^106]: Various attributions; see Parker, _Emperor: A New Life of Charles V_, p. 627 note 47.
+
+[^107]: Tracy, _Emperor Charles V, Impresario of War_, p. 257.

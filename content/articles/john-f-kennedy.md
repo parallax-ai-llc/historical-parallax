@@ -139,23 +139,23 @@ Some economic historians criticize Kennedy's tax cut proposals as fiscally irres
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1917 | Born May 29 in Brookline, Massachusetts |
-| 1936 | Enrolls at Harvard University |
-| 1940 | Publishes "Why England Slept"; graduates from Harvard |
-| 1941 | Joins U.S. Navy |
-| 1943 | PT-109 sunk; Kennedy saves crew members (August 2) |
-| 1944 | Brother Joseph Kennedy Jr. killed in military mission |
-| 1946 | Elected to U.S. House of Representatives |
-| 1952 | Elected to U.S. Senate, defeating Henry Cabot Lodge Jr. |
-| 1953 | Marries Jacqueline Bouvier (September 12) |
-| 1954-1955 | Undergoes back surgery; works on "Profiles in Courage" |
-| 1957 | "Profiles in Courage" wins Pulitzer Prize; daughter Caroline born |
-| 1960 | Wins Democratic nomination and defeats Richard Nixon in presidential election; son John Jr. born |
-| 1961 | Inaugurated as 35th President (January 20); establishes Peace Corps (March 1); Bay of Pigs invasion fails (April 17) |
-| 1962 | Cuban Missile Crisis (October 16-28); commits to moon landing goal |
-| 1963 | Delivers civil rights address (June 11); "Ich bin ein Berliner" speech (June 26); son Patrick dies (August 9); signs Partial Nuclear Test Ban Treaty (October 7); assassinated in Dallas (November 22) |
+| Year      | Event                                                                                                                                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1917      | Born May 29 in Brookline, Massachusetts                                                                                                                                                                |
+| 1936      | Enrolls at Harvard University                                                                                                                                                                          |
+| 1940      | Publishes "Why England Slept"; graduates from Harvard                                                                                                                                                  |
+| 1941      | Joins U.S. Navy                                                                                                                                                                                        |
+| 1943      | PT-109 sunk; Kennedy saves crew members (August 2)                                                                                                                                                     |
+| 1944      | Brother Joseph Kennedy Jr. killed in military mission                                                                                                                                                  |
+| 1946      | Elected to U.S. House of Representatives                                                                                                                                                               |
+| 1952      | Elected to U.S. Senate, defeating Henry Cabot Lodge Jr.                                                                                                                                                |
+| 1953      | Marries Jacqueline Bouvier (September 12)                                                                                                                                                              |
+| 1954-1955 | Undergoes back surgery; works on "Profiles in Courage"                                                                                                                                                 |
+| 1957      | "Profiles in Courage" wins Pulitzer Prize; daughter Caroline born                                                                                                                                      |
+| 1960      | Wins Democratic nomination and defeats Richard Nixon in presidential election; son John Jr. born                                                                                                       |
+| 1961      | Inaugurated as 35th President (January 20); establishes Peace Corps (March 1); Bay of Pigs invasion fails (April 17)                                                                                   |
+| 1962      | Cuban Missile Crisis (October 16-28); commits to moon landing goal                                                                                                                                     |
+| 1963      | Delivers civil rights address (June 11); "Ich bin ein Berliner" speech (June 26); son Patrick dies (August 9); signs Partial Nuclear Test Ban Treaty (October 7); assassinated in Dallas (November 22) |
 
 ---
 
@@ -190,109 +190,215 @@ In what became known as the "Peace Speech," Kennedy articulated a vision for pea
 ## References
 
 [^1]: Dallek, Robert. "An Unfinished Life: John F. Kennedy, 1917-1963." Little, Brown and Company, 2003.
+
 [^2]: Goodwin, Doris Kearns. "The Fitzgeralds and the Kennedys: An American Saga." Simon & Schuster, 1987.
+
 [^3]: Perret, Geoffrey. "Jack: A Life Like No Other." Random House, 2001.
+
 [^4]: Nasaw, David. "The Patriarch: The Remarkable Life and Turbulent Times of Joseph P. Kennedy." Penguin Press, 2012.
+
 [^5]: Hamilton, Nigel. "JFK: Reckless Youth." Random House, 1992.
+
 [^6]: Blair, Joan and Clay Blair Jr. "The Search for JFK." Berkley Publishing, 1976.
+
 [^7]: Kennedy, John F. "Why England Slept." Wilfred Funk, 1940.
+
 [^8]: O'Brien, Michael. "John F. Kennedy: A Biography." Thomas Dunne Books, 2005.
+
 [^9]: Donovan, Robert J. "PT-109: John F. Kennedy in World War II." McGraw-Hill, 1961.
+
 [^10]: Leamer, Laurence. "The Kennedy Men: 1901-1963." William Morrow, 2001.
+
 [^11]: O'Neill, Tip, with William Novak. "Man of the House: The Life and Political Memoirs of Speaker Tip O'Neill." Random House, 1987.
+
 [^12]: Matthews, Chris. "Jack Kennedy: Elusive Hero." Simon & Schuster, 2011.
+
 [^13]: Dalton, Kathleen. "John F. Kennedy: A Biography." Oxford University Press, 2013.
+
 [^14]: Bradford, Sarah. "America's Queen: The Life of Jacqueline Kennedy Onassis." Viking, 2000.
+
 [^15]: Sorensen, Theodore C. "Counselor: A Life at the Edge of History." Harper, 2008.
+
 [^16]: Pietrusza, David. "1960: LBJ vs. JFK vs. Nixon." Union Square Press, 2008.
+
 [^17]: White, Theodore H. "The Making of the President 1960." Atheneum Publishers, 1961.
+
 [^18]: Donaldson, Gary A. "The First Modern Campaign: Kennedy, Nixon, and the Election of 1960." Rowman & Littlefield, 2007.
+
 [^19]: Kallina, Edmund F. "Kennedy v. Nixon: The Presidential Election of 1960." University Press of Florida, 2010.
+
 [^20]: Kennedy, John F. "Inaugural Address." January 20, 1961. John F. Kennedy Presidential Library and Museum.
+
 [^21]: Rice, Gerard T. "The Bold Experiment: JFK's Peace Corps." University of Notre Dame Press, 1985.
+
 [^22]: Hoffman, Elizabeth Cobbs. "All You Need Is Love: The Peace Corps and the Spirit of the 1960s." Harvard University Press, 1998.
+
 [^23]: Kennedy, Robert F. "Thirteen Days: A Memoir of the Cuban Missile Crisis." W.W. Norton & Company, 1969.
+
 [^24]: Allison, Graham and Philip Zelikow. "Essence of Decision: Explaining the Cuban Missile Crisis." Longman, 1999.
+
 [^25]: Fursenko, Aleksandr and Timothy Naftali. "One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964." W.W. Norton & Company, 1997.
+
 [^26]: Logsdon, John M. "John F. Kennedy and the Race to the Moon." Palgrave Macmillan, 2010.
+
 [^27]: Seaborg, Glenn T. "Kennedy, Khrushchev, and the Test Ban." University of California Press, 1981.
+
 [^28]: Stern, Mark. "Calculating Visions: Kennedy, Johnson, and Civil Rights." Rutgers University Press, 1992.
+
 [^29]: Bryant, Nick. "The Bystander: John F. Kennedy and the Struggle for Black Equality." Basic Books, 2006.
+
 [^30]: Heller, Walter W. "New Dimensions of Political Economy." Harvard University Press, 1966.
+
 [^31]: Preeg, Ernest H. "Traders and Diplomats: An Analysis of the Kennedy Round of Negotiations." Brookings Institution, 1970.
+
 [^32]: Kornbluh, Peter, ed. "Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba." The New Press, 1998.
+
 [^33]: Higgins, Trumbull. "The Perfect Failure: Kennedy, Eisenhower, and the CIA at the Bay of Pigs." W.W. Norton & Company, 1987.
+
 [^34]: Kaiser, David. "American Tragedy: Kennedy, Johnson, and the Origins of the Vietnam War." Belknap Press, 2000.
+
 [^35]: Jones, Howard. "Death of a Generation: How the Assassinations of Diem and JFK Prolonged the Vietnam War." Oxford University Press, 2003.
+
 [^36]: Brauer, Carl M. "John F. Kennedy and the Second Reconstruction." Columbia University Press, 1977.
+
 [^37]: Branch, Taylor. "Parting the Waters: America in the King Years 1954-63." Simon & Schuster, 1988.
+
 [^38]: Caro, Robert A. "The Passage of Power: The Years of Lyndon Johnson." Alfred A. Knopf, 2012.
+
 [^39]: Reeves, Thomas C. "A Question of Character: A Life of John F. Kennedy." Free Press, 1991.
+
 [^40]: Exner, Judith Campbell. "My Story." Grove Press, 1977.
+
 [^41]: Hersh, Seymour M. "The Dark Side of Camelot." Little, Brown and Company, 1997.
+
 [^42]: Dallek, Robert. "The Medical Ordeals of JFK." The Atlantic Monthly, December 2002.
+
 [^43]: Giglio, James N. "The Presidency of John F. Kennedy." University Press of Kansas, 2006.
+
 [^44]: Moldea, Dan E. "The Hoffa Wars: Teamsters, Rebels, Politicians, and the Mob." Paddington Press, 1978.
+
 [^45]: Church Committee. "Alleged Assassination Plots Involving Foreign Leaders." U.S. Senate Select Committee to Study Governmental Operations, 1975.
+
 [^46]: Andersen, Christopher. "Jack and Jackie: Portrait of an American Marriage." William Morrow, 1996.
+
 [^47]: Bowles, Hamish. "Jacqueline Kennedy: The White House Years." Metropolitan Museum of Art, 2001.
+
 [^48]: Taraborrelli, J. Randy. "Jackie, Janet & Lee: The Secret Lives of Janet Auchincloss and Her Daughters." St. Martin's Press, 2018.
+
 [^49]: Klein, Edward. "All Too Human: The Love Story of Jack and Jackie Kennedy." Pocket Books, 1996.
+
 [^50]: Perry, Barbara A. "Jacqueline Kennedy: First Lady of the New Frontier." University Press of Kansas, 2004.
+
 [^51]: Leaming, Barbara. "Jacqueline Bouvier Kennedy Onassis: The Untold Story." Thomas Dunne Books, 2014.
+
 [^52]: Abbott, James A. and Elaine M. Rice. "Designing Camelot: The Kennedy White House Restoration." Van Nostrand Reinhold, 1998.
+
 [^53]: White, Theodore H. "For President Kennedy: An Epilogue." Life Magazine, December 6, 1963.
+
 [^54]: Schlesinger, Arthur M., Jr. "A Thousand Days: John F. Kennedy in the White House." Houghton Mifflin, 1965.
+
 [^55]: Sorensen, Theodore C. "Kennedy." Harper & Row, 1965.
+
 [^56]: Salinger, Pierre. "With Kennedy." Doubleday, 1966.
+
 [^57]: Thomas, Evan. "Robert Kennedy: His Life." Simon & Schuster, 2000.
+
 [^58]: Kessler, Ronald. "The Sins of the Father: Joseph P. Kennedy and the Dynasty He Founded." Warner Books, 1996.
+
 [^59]: Bugliosi, Vincent. "Reclaiming History: The Assassination of President John F. Kennedy." W.W. Norton & Company, 2007.
+
 [^60]: Zelizer, Barbie. "Covering the Body: The Kennedy Assassination, the Media, and the Shaping of Collective Memory." University of Chicago Press, 1992.
+
 [^61]: Manchester, William. "The Death of a President: November 20-November 25, 1963." Harper & Row, 1967.
+
 [^62]: White, Theodore H. "In Search of History: A Personal Adventure." Harper & Row, 1978.
+
 [^63]: Schlesinger, Arthur M., Jr. "Robert Kennedy and His Times." Houghton Mifflin, 1978.
+
 [^64]: Greenberg, David. "The Historian Presidency: How Presidents Interpret the Past to Shape the Future." Oxford University Press, 2016.
+
 [^65]: Sabato, Larry J. "The Kennedy Half-Century: The Presidency, Assassination, and Lasting Legacy of John F. Kennedy." Bloomsbury, 2013.
+
 [^66]: Freedman, Lawrence. "Kennedy's Wars: Berlin, Cuba, Laos, and Vietnam." Oxford University Press, 2000.
+
 [^67]: Clarke, Thurston. "The Last Campaign: Robert F. Kennedy and 82 Days That Inspired America." Henry Holt and Company, 2008.
+
 [^68]: Clymer, Adam. "Edward M. Kennedy: A Biography." William Morrow, 1999.
+
 [^69]: Goldzwig, Steven R. and George N. Dionisopoulos. "In a Perilous Hour: The Public Address of John F. Kennedy." Greenwood Press, 1995.
+
 [^70]: Report of the President's Commission on the Assassination of President Kennedy (Warren Commission Report). U.S. Government Printing Office, 1964.
+
 [^71]: Posner, Gerald. "Case Closed: Lee Harvey Oswald and the Assassination of JFK." Random House, 1993.
+
 [^72]: Giglio, James N. and Stephen G. Rabe. "Debating the Kennedy Presidency." Rowman & Littlefield, 2003.
+
 [^73]: Dallek, Robert. "Camelot's Court: Inside the Kennedy White House." Harper, 2013.
+
 [^74]: Beschloss, Michael R. "The Crisis Years: Kennedy and Khrushchev, 1960-1963." Edward Burlingame Books, 1991.
+
 [^75]: Beschloss, Michael R. "Kennedy and Roosevelt: The Uneasy Alliance." W.W. Norton & Company, 1980.
+
 [^76]: Fairclough, Adam. "Better Day Coming: Blacks and Equality, 1890-2000." Viking, 2001.
+
 [^77]: Schlesinger, Arthur M., Jr. "Journals: 1952-2000." Penguin Press, 2007.
+
 [^78]: Baldrige, Letitia. "A Lady, First: My Life in the Kennedy White House and the American Embassies of Paris and Rome." Viking, 2001.
+
 [^79]: Latham, Michael E. "Modernization as Ideology: American Social Science and 'Nation Building' in the Kennedy Era." University of North Carolina Press, 2000.
+
 [^80]: Cousins, Norman. "The Improbable Triumvirate: John F. Kennedy, Pope John, Nikita Khrushchev." W.W. Norton & Company, 1972.
+
 [^81]: Kempe, Frederick. "Berlin 1961: Kennedy, Khrushchev, and the Most Dangerous Place on Earth." G.P. Putnam's Sons, 2011.
+
 [^82]: Newman, John M. "JFK and Vietnam: Deception, Intrigue, and the Struggle for Power." Warner Books, 1992.
+
 [^83]: Sorensen, Theodore C. "Decision-Making in the White House: The Olive Branch or the Arrows." Columbia University Press, 1963.
+
 [^84]: Daum, Andreas W. "Kennedy in Berlin." Cambridge University Press, 2008.
+
 [^85]: Birtle, Andrew J. "U.S. Army Counterinsurgency and Contingency Operations Doctrine 1942-1976." Center of Military History, U.S. Army, 2006.
+
 [^86]: Schlesinger, Robert. "White House Ghosts: Presidents and Their Speechwriters." Simon & Schuster, 2008.
+
 [^87]: Reeves, Thomas C. "The Question of Character: John F. Kennedy in Image and Reality." Prima Publishing, 1992.
+
 [^88]: Sundquist, James L. "Politics and Policy: The Eisenhower, Kennedy, and Johnson Years." Brookings Institution, 1968.
+
 [^89]: Chomsky, Noam. "Rethinking Camelot: JFK, the Vietnam War, and U.S. Political Culture." South End Press, 1993.
+
 [^90]: Schlesinger, Stephen and Stephen Kinzer. "Bitter Fruit: The Story of the American Coup in Guatemala." Harvard University Press, 2005.
+
 [^91]: McClintock, Michael. "Instruments of Statecraft: U.S. Guerrilla Warfare, Counterinsurgency, and Counterterrorism, 1940-1990." Pantheon Books, 1992.
+
 [^92]: Lawson, Steven F. "Running for Freedom: Civil Rights and Black Politics in America Since 1941." McGraw-Hill, 1997.
+
 [^93]: Branch, Taylor. "Pillar of Fire: America in the King Years 1963-65." Simon & Schuster, 1998.
+
 [^94]: Bass, Jack. "Unlikely Heroes." Simon & Schuster, 1981.
+
 [^95]: Blight, James G. and David A. Welch. "On the Brink: Americans and Soviets Reexamine the Cuban Missile Crisis." Hill and Wang, 1989.
+
 [^96]: Brenner, Philip. "Sad and Luminous Days: Cuba's Struggle with the Superpowers after the Missile Crisis." Johns Hopkins University Press, 2002.
+
 [^97]: Hersh, Seymour M. "The Dark Side of Camelot." Little, Brown and Company, 1997.
+
 [^98]: Wills, Garry. "The Kennedy Imprisonment: A Meditation on Power." Little, Brown and Company, 1982.
+
 [^99]: Matusow, Allen J. "The Unraveling of America: A History of Liberalism in the 1960s." Harper & Row, 1984.
+
 [^100]: Heath, Jim F. "John F. Kennedy and the Business Community." University of Chicago Press, 1969.
+
 [^101]: Miroff, Bruce. "Pragmatic Illusions: The Presidential Politics of John F. Kennedy." David McKay Company, 1976.
+
 [^102]: Kennedy, John F. "Inaugural Address." January 20, 1961. American Rhetoric Online Speech Bank.
+
 [^103]: Kennedy, John F. "Address at Rice University on the Nation's Space Effort." September 12, 1962. NASA Historical Reference Collection.
+
 [^104]: Kennedy, John F. "Remarks at the Rudolph Wilde Platz, Berlin." June 26, 1963. John F. Kennedy Presidential Library.
+
 [^105]: Kennedy, John F. "Address on the First Anniversary of the Alliance for Progress." March 13, 1962. U.S. Department of State Archives.
+
 [^106]: Kennedy, John F. "Inaugural Address." January 20, 1961. Presidential Speeches Collection.
+
 [^107]: Kennedy, John F. "Commencement Address at American University." June 10, 1963. American University Archives.

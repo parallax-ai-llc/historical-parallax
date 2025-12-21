@@ -129,28 +129,28 @@ The United States Holocaust Memorial Museum's assessment captures this critical 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1847 | Born on October 2 in Posen, Prussia (now Poznań, Poland) |
-| 1858 | Entered Cadet Corps School at Wahlstatt |
-| 1866 | Commissioned as second lieutenant; participated in Austro-Prussian War |
-| 1870-1871 | Fought in Franco-Prussian War |
-| 1873-1876 | Studied at War Academy in Berlin |
-| 1879 | Married Gertrud von Sperling |
-| 1885 | Promoted to major; joined German General Staff |
-| 1911 | Retired from military service as a general |
-| 1914 | Recalled from retirement in August; won Battle of Tannenberg (August 26-30) |
-| 1914 | Won Battle of Masurian Lakes; promoted to field marshal (November 27) |
-| 1916 | Appointed Chief of the German General Staff |
-| 1918 | Oversaw German military withdrawal and demobilization after armistice |
-| 1919 | Testified before parliamentary commission; promoted "stab-in-the-back" myth |
-| 1921 | Wife Gertrud died from cancer on May 14 |
-| 1925 | Elected President of Weimar Republic on April 26; inaugurated May 12 |
-| 1932 | Re-elected President, defeating Adolf Hitler in runoff election |
-| 1933 | Appointed Adolf Hitler as Chancellor on January 30 |
-| 1933 | Signed Reichstag Fire Decree (February) and Enabling Act (March) |
-| 1934 | Died from lung cancer on August 2 at age 86 in Neudeck, East Prussia |
-| 1934 | State funeral held at Tannenberg Memorial on August 7 |
+| Year      | Event                                                                       |
+| --------- | --------------------------------------------------------------------------- |
+| 1847      | Born on October 2 in Posen, Prussia (now Poznań, Poland)                    |
+| 1858      | Entered Cadet Corps School at Wahlstatt                                     |
+| 1866      | Commissioned as second lieutenant; participated in Austro-Prussian War      |
+| 1870-1871 | Fought in Franco-Prussian War                                               |
+| 1873-1876 | Studied at War Academy in Berlin                                            |
+| 1879      | Married Gertrud von Sperling                                                |
+| 1885      | Promoted to major; joined German General Staff                              |
+| 1911      | Retired from military service as a general                                  |
+| 1914      | Recalled from retirement in August; won Battle of Tannenberg (August 26-30) |
+| 1914      | Won Battle of Masurian Lakes; promoted to field marshal (November 27)       |
+| 1916      | Appointed Chief of the German General Staff                                 |
+| 1918      | Oversaw German military withdrawal and demobilization after armistice       |
+| 1919      | Testified before parliamentary commission; promoted "stab-in-the-back" myth |
+| 1921      | Wife Gertrud died from cancer on May 14                                     |
+| 1925      | Elected President of Weimar Republic on April 26; inaugurated May 12        |
+| 1932      | Re-elected President, defeating Adolf Hitler in runoff election             |
+| 1933      | Appointed Adolf Hitler as Chancellor on January 30                          |
+| 1933      | Signed Reichstag Fire Decree (February) and Enabling Act (March)            |
+| 1934      | Died from lung cancer on August 2 at age 86 in Neudeck, East Prussia        |
+| 1934      | State funeral held at Tannenberg Memorial on August 7                       |
 
 ---
 
@@ -171,109 +171,215 @@ The United States Holocaust Memorial Museum's assessment captures this critical 
 ## References
 
 [^1]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^2]: [Paul von Hindenburg | WWI Hero, German President & Military Leader | Britannica](https://www.britannica.com/biography/Paul-von-Hindenburg)
+
 [^3]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^4]: [Paul von Hindenburg - History.com](https://www.history.com/topics/world-war-i/paul-von-hindenburg)
+
 [^5]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^6]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^7]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^8]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^9]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^10]: [Paul von Hindenburg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Paul_von_Hindenburg)
+
 [^11]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^12]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^13]: [Paul von Hindenburg - Britannica Kids](https://kids.britannica.com/students/article/Paul-von-Hindenburg/274886)
+
 [^14]: [Paul von Hindenburg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Paul_von_Hindenburg)
+
 [^15]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^16]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^17]: [Paul Von Hindenburg | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/paul-von-hindenburg)
+
 [^18]: [Paul von Hindenburg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Paul_von_Hindenburg)
+
 [^19]: [Paul von Hindenburg | WWI Hero, German President & Military Leader | Britannica](https://www.britannica.com/biography/Paul-von-Hindenburg)
+
 [^20]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^21]: [Hindenburg, Paul von - 1914-1918-Online Encyclopedia](https://encyclopedia.1914-1918-online.net/article/hindenburg-paul-von/)
+
 [^22]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^23]: [Paul von Hindenburg - History.com](https://www.history.com/topics/world-war-i/paul-von-hindenburg)
+
 [^24]: [First World War.com - The Battle of Tannenberg by Paul von Hindenburg](https://www.firstworldwar.com/source/tannenberg_hindenburg.htm)
+
 [^25]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^26]: [Hindenburg, Paul von - 1914-1918-Online Encyclopedia](https://encyclopedia.1914-1918-online.net/article/hindenburg-paul-von/)
+
 [^27]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^28]: [First World War.com - Who's Who - Paul von Hindenburg](https://www.firstworldwar.com/bio/hindenburg.htm)
+
 [^29]: [Paul von Hindenburg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Paul_von_Hindenburg)
+
 [^30]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^31]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^32]: [Hindenburg, Paul von - 1914-1918-Online Encyclopedia](https://encyclopedia.1914-1918-online.net/article/hindenburg-paul-von/)
+
 [^33]: [The Icon of German Militarism - Warfare History Network](https://warfarehistorynetwork.com/article/the-icon-of-german-militarism/)
+
 [^34]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^35]: [Hindenburg, Paul von - 1914-1918-Online Encyclopedia](https://encyclopedia.1914-1918-online.net/article/hindenburg-paul-von/)
+
 [^36]: [Paul von Hindenburg | WWI Hero, German President & Military Leader | Britannica](https://www.britannica.com/biography/Paul-von-Hindenburg)
+
 [^37]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^38]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^39]: [Paul von Hindenburg elected as president - Deutschlandmuseum](https://www.deutschlandmuseum.de/en/history/calendar/1925-05-12-paul-von-hindenburg-elected-as-president/)
+
 [^40]: [The presidency of Paul von Hindenburg - Alpha History](https://alphahistory.com/weimarrepublic/paul-von-hindenburg/)
+
 [^41]: [Inauguration of Paul von Hindenburg as President of Germany | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/before-1933/inauguration-of-paul-von-hindenburg-as-president-of-germany-1)
+
 [^42]: [The presidency of Paul von Hindenburg - Alpha History](https://alphahistory.com/weimarrepublic/paul-von-hindenburg/)
+
 [^43]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^44]: [Paul von Hindenburg | WWI Hero, German President & Military Leader | Britannica](https://www.britannica.com/biography/Paul-von-Hindenburg)
+
 [^45]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^46]: [President Paul von Hindenburg's Role in Hitler's Rise to Power | History Hit](https://www.historyhit.com/president-paul-von-hindenburgs-role-in-hitlers-rise-to-power/)
+
 [^47]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^48]: [Paul Von Hindenburg: Quotes & Legacy | Vaia](https://www.vaia.com/en-us/explanations/history/political-stability-in-germany/paul-von-hindenburg/)
+
 [^49]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^50]: [Paul von Hindenburg - History.com](https://www.history.com/articles/paul-von-hindenburg)
+
 [^51]: [The presidency of Paul von Hindenburg - Alpha History](https://alphahistory.com/weimarrepublic/paul-von-hindenburg/)
+
 [^52]: [Paul von Hindenburg | WWI Hero, German President & Military Leader | Britannica](https://www.britannica.com/biography/Paul-von-Hindenburg)
+
 [^53]: [Adolf Hitler is named chancellor of Germany | HISTORY](https://www.history.com/this-day-in-history/january-30/adolf-hitler-is-named-chancellor-of-germany)
+
 [^54]: [President Paul von Hindenburg's Role in Hitler's Rise to Power | History Hit](https://www.historyhit.com/president-paul-von-hindenburgs-role-in-hitlers-rise-to-power/)
+
 [^55]: [How Did Adolf Hitler Happen? | The National WWII Museum](https://www.nationalww2museum.org/war/articles/how-did-adolf-hitler-happen)
+
 [^56]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^57]: [Germany 1933: from democracy to dictatorship | Anne Frank House](https://www.annefrank.org/en/anne-frank/go-in-depth/germany-1933-democracy-dictatorship/)
+
 [^58]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^59]: [Paul von Hindenburg - History.com](https://www.history.com/articles/paul-von-hindenburg)
+
 [^60]: [Paul Von Hindenburg: Quotes & Legacy | Vaia](https://www.vaia.com/en-us/explanations/history/political-stability-in-germany/paul-von-hindenburg/)
+
 [^61]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^62]: [First World War.com - Who's Who - Paul von Hindenburg](https://www.firstworldwar.com/bio/hindenburg.htm)
+
 [^63]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^64]: [Paul von Hindenburg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Paul_von_Hindenburg)
+
 [^65]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^66]: [Paul von Hindenburg - Find a Grave Memorial](https://www.findagrave.com/memorial/243882300/paul-von_hindenburg)
+
 [^67]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^68]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^69]: [Paul Von Hindenburg Biography - The Famous People](https://www.thefamouspeople.com/profiles/paul-von-hindenburg-8391.php)
+
 [^70]: [Paul Von Hindenburg | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/paul-von-hindenburg)
+
 [^71]: [The presidency of Paul von Hindenburg - Alpha History](https://alphahistory.com/weimarrepublic/paul-von-hindenburg/)
+
 [^72]: [Paul von Hindenburg - Wikiquote](https://en.wikiquote.org/wiki/Paul_von_Hindenburg)
+
 [^73]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^74]: [Paul Von Hindenburg | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/paul-von-hindenburg)
+
 [^75]: [Hindenburg dead, Chancellorship made supreme - UPI Archives](https://www.upi.com/Archives/1934/08/02/Hindenburg-dead-Chancellorship-made-supreme/3408461132716/)
+
 [^76]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^77]: [THE FUNERAL OF PAUL VON HINDENBURG, 1934 | Imperial War Museums](https://www.iwm.org.uk/collections/item/object/205088125)
+
 [^78]: [Hitler Extols Hindenburg in Funeral Rites - Jewish Telegraphic Agency](https://www.jta.org/archive/hitler-extols-hindenburg-in-funeral-rites)
+
 [^79]: [Paul von Hindenburg | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Paul_von_Hindenburg)
+
 [^80]: [Paul von Hindenburg - Find a Grave Memorial](https://www.findagrave.com/memorial/243882300/paul-von_hindenburg)
+
 [^81]: [Paul von Hindenburg - History.com](https://www.history.com/articles/paul-von-hindenburg)
+
 [^82]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^83]: [Paul Von Hindenburg: Quotes & Legacy | Vaia](https://www.vaia.com/en-us/explanations/history/political-stability-in-germany/paul-von-hindenburg/)
+
 [^84]: [The presidency of Paul von Hindenburg - Alpha History](https://alphahistory.com/weimarrepublic/paul-von-hindenburg/)
+
 [^85]: [Paul von Hindenburg | Life, Military Career, Legacy | History Worksheets](https://schoolhistory.co.uk/modern/paul-von-hindenburg/)
+
 [^86]: [Paul Von Hindenburg: Quotes & Legacy | Vaia](https://www.vaia.com/en-us/explanations/history/political-stability-in-germany/paul-von-hindenburg/)
+
 [^87]: [Tannenberg Memorial - Wikipedia](https://en.wikipedia.org/wiki/Tannenberg_Memorial)
+
 [^88]: [Assess the impact of Paul von Hindenburg - Marked by Teachers](https://www.markedbyteachers.com/gcse/history/assess-the-impact-of-the-role-of-paul-von-hindenburg-in-the-period-following-world-war-1-and-prior-to-world-war-2.html)
+
 [^89]: [Paul von Hindenburg | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/paul-von-hindenburg)
+
 [^90]: [Paul Von Hindenburg | Encyclopedia.com](https://www.encyclopedia.com/people/history/german-history-biographies/paul-von-hindenburg)
+
 [^91]: [The presidency of Paul von Hindenburg - Alpha History](https://alphahistory.com/weimarrepublic/paul-von-hindenburg/)
+
 [^92]: [Paul von Hindenburg | WWI Hero, German President & Military Leader | Britannica](https://www.britannica.com/biography/Paul-von-Hindenburg)
+
 [^93]: [President Paul von Hindenburg's Role in Hitler's Rise to Power | History Hit](https://www.historyhit.com/president-paul-von-hindenburgs-role-in-hitlers-rise-to-power/)
+
 [^94]: [Paul von Hindenburg - Wikipedia](https://en.wikipedia.org/wiki/Paul_von_Hindenburg)
+
 [^95]: [President Paul von Hindenburg's Role in Hitler's Rise to Power | History Hit](https://www.historyhit.com/president-paul-von-hindenburgs-role-in-hitlers-rise-to-power/)
+
 [^96]: [Assess the impact of Paul von Hindenburg - Marked by Teachers](https://www.markedbyteachers.com/gcse/history/assess-the-impact-of-the-role-of-paul-von-hindenburg-in-the-period-following-world-war-1-and-prior-to-world-war-2.html)
+
 [^97]: [Assess the impact of Paul von Hindenburg - Marked by Teachers](https://www.markedbyteachers.com/gcse/history/assess-the-impact-of-the-role-of-paul-von-hindenburg-in-the-period-following-world-war-1-and-prior-to-world-war-2.html)
+
 [^98]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^99]: [Paul Von Hindenburg: Quotes & Legacy | Vaia](https://www.vaia.com/en-us/explanations/history/political-stability-in-germany/paul-von-hindenburg/)
+
 [^100]: [How Did Adolf Hitler Happen? | The National WWII Museum](https://www.nationalww2museum.org/war/articles/how-did-adolf-hitler-happen)
+
 [^101]: [Hitler Comes to Power: How, When, & Key Dates | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/hitler-comes-to-power)
+
 [^102]: [Adolf Hitler's rise to power - Wikipedia](https://en.wikipedia.org/wiki/Adolf_Hitler's_rise_to_power)
+
 [^103]: [Germany 1933: from democracy to dictatorship | Anne Frank House](https://www.annefrank.org/en/anne-frank/go-in-depth/germany-1933-democracy-dictatorship/)
+
 [^104]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^105]: [Paul von Hindenburg - History.com](https://www.history.com/articles/paul-von-hindenburg)
+
 [^106]: [Paul von Hindenburg | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/paul-von-hindenburg)
+
 [^107]: [Paul Von Hindenburg: Quotes & Legacy | Vaia](https://www.vaia.com/en-us/explanations/history/political-stability-in-germany/paul-von-hindenburg/)

@@ -109,30 +109,30 @@ Whig historians perceived Charles's reign as a terrible despotism, particularly 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1630 | Born May 29 at St. James's Palace, London |
-| 1642 | English Civil War begins; Charles present at Battle of Edgehill |
-| 1645 | Made titular head of Royalist forces in the West Country |
-| 1646 | Forced into exile; flees to France |
-| 1649 | Father Charles I executed January 30; proclaimed King by Scottish Parliament |
-| 1651 | Defeated at Battle of Worcester September 3; escapes by hiding in oak tree |
-| 1651-1660 | Spends nine years in exile in France and the Netherlands |
-| 1660 | Issues Declaration of Breda April 4; lands at Dover May 25; Restoration of monarchy |
-| 1661-1665 | Clarendon Code enacted, restricting religious dissenters |
-| 1662 | Marries Catherine of Braganza May 21; grants Royal Charter to Royal Society |
-| 1663 | Issues royal charter establishing Carolina colony |
-| 1664 | Captures New Amsterdam from Dutch; renames it New York |
-| 1665 | Great Plague kills over 100,000 in London |
-| 1665-1667 | Second Anglo-Dutch War |
-| 1666 | Great Fire of London September 2-5 |
-| 1670 | Signs Secret Treaty of Dover with Louis XIV June 1 |
-| 1672 | Issues Declaration of Indulgence March 15; Third Anglo-Dutch War begins |
-| 1673 | Forced to withdraw Declaration of Indulgence; Test Act passed |
-| 1678 | Titus Oates fabricates Popish Plot |
-| 1679-1681 | Exclusion Crisis attempts to bar Catholic brother James from succession |
-| 1681 | Dissolves Oxford Parliament March 28; rules without Parliament |
-| 1685 | Converts to Catholicism on deathbed; dies February 6; buried in Westminster Abbey |
+| Year      | Event                                                                               |
+| --------- | ----------------------------------------------------------------------------------- |
+| 1630      | Born May 29 at St. James's Palace, London                                           |
+| 1642      | English Civil War begins; Charles present at Battle of Edgehill                     |
+| 1645      | Made titular head of Royalist forces in the West Country                            |
+| 1646      | Forced into exile; flees to France                                                  |
+| 1649      | Father Charles I executed January 30; proclaimed King by Scottish Parliament        |
+| 1651      | Defeated at Battle of Worcester September 3; escapes by hiding in oak tree          |
+| 1651-1660 | Spends nine years in exile in France and the Netherlands                            |
+| 1660      | Issues Declaration of Breda April 4; lands at Dover May 25; Restoration of monarchy |
+| 1661-1665 | Clarendon Code enacted, restricting religious dissenters                            |
+| 1662      | Marries Catherine of Braganza May 21; grants Royal Charter to Royal Society         |
+| 1663      | Issues royal charter establishing Carolina colony                                   |
+| 1664      | Captures New Amsterdam from Dutch; renames it New York                              |
+| 1665      | Great Plague kills over 100,000 in London                                           |
+| 1665-1667 | Second Anglo-Dutch War                                                              |
+| 1666      | Great Fire of London September 2-5                                                  |
+| 1670      | Signs Secret Treaty of Dover with Louis XIV June 1                                  |
+| 1672      | Issues Declaration of Indulgence March 15; Third Anglo-Dutch War begins             |
+| 1673      | Forced to withdraw Declaration of Indulgence; Test Act passed                       |
+| 1678      | Titus Oates fabricates Popish Plot                                                  |
+| 1679-1681 | Exclusion Crisis attempts to bar Catholic brother James from succession             |
+| 1681      | Dissolves Oxford Parliament March 28; rules without Parliament                      |
+| 1685      | Converts to Catholicism on deathbed; dies February 6; buried in Westminster Abbey   |
 
 ---
 
@@ -155,106 +155,209 @@ Whig historians perceived Charles's reign as a terrible despotism, particularly 
 ## References
 
 [^1]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^2]: [Charles II | Biography, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/Charles-II-king-of-Great-Britain-and-Ireland)
+
 [^3]: [Charles II (r. 1660-1685) | The Royal Family](https://www.royal.uk/charles-ii)
+
 [^4]: [The illegitimate Children of Charles II](https://www.englishmonarchs.co.uk/stuart_33.html)
+
 [^5]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^6]: [King Charles II | GreatestBritons](https://greatestbritons.com/king-charles-ii-biography/)
+
 [^7]: [Charles II - Kids | Britannica Kids | Homework Help](https://kids.britannica.com/kids/article/Charles-II/476238)
+
 [^8]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^9]: [King Charles II - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/King-Charles-II/)
+
 [^10]: [Charles II (of England) | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/charles-ii-england)
+
 [^11]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^12]: [King Charles II | The public and personal life of a British monarch | Royal Museums Greenwich](https://www.rmg.co.uk/stories/topics/king-charles-ii-public-personal-life-british-monarch)
+
 [^13]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^14]: [Battle of Worcester](https://www.britishbattles.com/english-civil-war/battle-of-worcester/)
+
 [^15]: [The Battle of Worcester and the Escape of Charles II](https://www.englishmonarchs.co.uk/worcester.html)
+
 [^16]: [Escape of Charles II - Wikipedia](https://en.wikipedia.org/wiki/Escape_of_Charles_II)
+
 [^17]: [Royal Oak - Wikipedia](https://en.wikipedia.org/wiki/Royal_Oak)
+
 [^18]: [Escape of Charles II - Wikipedia](https://en.wikipedia.org/wiki/Escape_of_Charles_II)
+
 [^19]: [King Charles II - Historic UK](https://www.historic-uk.com/HistoryUK/HistoryofEngland/King-Charles-II/)
+
 [^20]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^21]: [Restoration | Restoration Period, Charles II & Glorious Revolution | Britannica](https://www.britannica.com/topic/Restoration-English-history-1660)
+
 [^22]: [The Restoration | Royal Museums Greenwich](https://www.rmg.co.uk/stories/royal-history/restoration)
+
 [^23]: [Stuart Restoration - Wikipedia](https://en.wikipedia.org/wiki/Stuart_Restoration)
+
 [^24]: [Stuart Restoration - Wikipedia](https://en.wikipedia.org/wiki/Stuart_Restoration)
+
 [^25]: [Charles II returns to England to claim his throne | May 25, 1660 | HISTORY](https://www.history.com/this-day-in-history/may-25/the-english-restoration)
+
 [^26]: [Charles II and the Restoration Colonies | US History I (OS Collection)](https://courses.lumenlearning.com/suny-ushistory1os2xmaster/chapter/charles-ii-and-the-restoration-colonies/)
+
 [^27]: [The Restoration Colonies: The Carolinas, New York, New Jersey, and Pennsylvania | United States History I](https://courses.lumenlearning.com/wm-ushistory1/chapter/charles-ii-and-the-restoration-colonies/)
+
 [^28]: [Charles II and the Restoration Colonies | US History I (OS Collection)](https://courses.lumenlearning.com/suny-ushistory1os2xmaster/chapter/charles-ii-and-the-restoration-colonies/)
+
 [^29]: [History of the Royal Society | Royal Society](https://royalsociety.org/about-us/who-we-are/history/)
+
 [^30]: [Charles II (r. 1660-1685) | The Royal Family](https://www.royal.uk/charles-ii)
+
 [^31]: [Royal Society - Wikipedia](https://en.wikipedia.org/wiki/Royal_Society)
+
 [^32]: [Royal Society | British Science, History & Impact | Britannica](https://www.britannica.com/topic/Royal-Society)
+
 [^33]: [The reopening of theatres and the influence of Charles II | History of Theatre II Class Notes | Fiveable](https://fiveable.me/history-theatre-ii-cities-at-play-from-renaissance-rise-realism/unit-5/reopening-theatres-influence-charles-ii/study-guide/OiKH51g6ygo9gMTC)
+
 [^34]: [Restoration Drama in England | Encyclopedia.com](https://www.encyclopedia.com/humanities/culture-magazines/restoration-drama-england)
+
 [^35]: [Women In Restoration Theatre](https://restorationtheater.wordpress.com/)
+
 [^36]: [Restoration Actresses – CoHo PRODUCTIONS](https://cohoproductions.org/historical-playhouse-creatures/)
+
 [^37]: [Aphra Behn and the Restoration Theatre | Great Writers Inspire](http://writersinspire.org/content/aphra-behn-restoration-theatre)
+
 [^38]: [Great Plague of 1665-1666 - The National Archives](https://www.nationalarchives.gov.uk/education/resources/great-plague/)
+
 [^39]: [The Great Fire of London | Royal Museums Greenwich](https://www.rmg.co.uk/stories/royal-history/great-fire-london)
+
 [^40]: [Secret Treaty of Dover - Wikipedia](https://en.wikipedia.org/wiki/Secret_Treaty_of_Dover)
+
 [^41]: [Treaty of Dover | Charles II, Louis XIV & Peace | Britannica](https://www.britannica.com/event/Treaty-of-Dover)
+
 [^42]: [King Charles II and the Catholic Church](https://spartacus-educational.com/STUcharles2church.htm)
+
 [^43]: [Secret Treaty of Dover - Wikipedia](https://en.wikipedia.org/wiki/Secret_Treaty_of_Dover)
-[^44]: [Declaration of Indulgence (1672) - Wikipedia](https://en.wikipedia.org/wiki/Declaration_of_Indulgence_(1672))
+
+[^44]: [Declaration of Indulgence (1672) - Wikipedia](<https://en.wikipedia.org/wiki/Declaration_of_Indulgence_(1672)>)
+
 [^45]: [The Test Act of Charles II](https://www.britainexpress.com/History/Test-Act.htm)
+
 [^46]: [The Clarendon Code, 1661-1665](https://www.britainexpress.com/History/stuart/clarendon-code.htm)
+
 [^47]: [Clarendon Code | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/clarendon-code)
+
 [^48]: [Popish Plot - Wikipedia](https://en.wikipedia.org/wiki/Popish_Plot)
+
 [^49]: [Popish Plot | Catholic, James II & Exclusion Crisis | Britannica](https://www.britannica.com/event/Popish-Plot)
+
 [^50]: [Exclusion Crisis - Wikipedia](https://en.wikipedia.org/wiki/Exclusion_Crisis)
-[^51]: [Oxford Parliament (1681) - Wikipedia](https://en.wikipedia.org/wiki/Oxford_Parliament_(1681))
+
+[^51]: [Oxford Parliament (1681) - Wikipedia](<https://en.wikipedia.org/wiki/Oxford_Parliament_(1681)>)
+
 [^52]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^53]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^54]: [The illegitimate Children of Charles II](https://www.englishmonarchs.co.uk/stuart_33.html)
+
 [^55]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^56]: [The many (many) mistresses of Charles II | Sky HISTORY TV Channel](https://www.history.co.uk/articles/the-many-mistresses-of-charles-ii)
+
 [^57]: [Catherine of Braganza - Wikipedia](https://en.wikipedia.org/wiki/Catherine_of_Braganza)
+
 [^58]: [A very Royal Wedding - Charles II and Catherine of Braganza | Royal Museums Greenwich](https://www.rmg.co.uk/stories/blog/very-royal-wedding-charles-ii-catherine-braganza)
+
 [^59]: [Charles II and Catherine of Braganza: A loveless marriage? - The History Press](https://thehistorypress.co.uk/article/charles-ii-and-catherine-of-braganza-a-loveless-marriage/)
+
 [^60]: [Queen Catherine of Braganza — The Wrong Side of the Blanket](https://www.wrongsideoftheblanket.com/queen-catherine-of-braganza)
+
 [^61]: [Catherine of Braganza - Wikipedia](https://en.wikipedia.org/wiki/Catherine_of_Braganza)
+
 [^62]: [Charles II and Catherine of Braganza: A loveless marriage? - The History Press](https://thehistorypress.co.uk/article/charles-ii-and-catherine-of-braganza-a-loveless-marriage/)
+
 [^63]: [The Mistresses of King Charles II – Talking about History](https://fortheloveofhistory.home.blog/2019/04/09/the-mistresses-of-king-charles-ii/)
+
 [^64]: [Nell Gwyn - Mistress of King Charles II](https://www.historic-uk.com/HistoryUK/HistoryofEngland/Nell-Gwyn-Gwynne/)
+
 [^65]: [Nell Gwyn, Mistress of King Charles II of England | Unofficial Royalty](https://www.unofficialroyalty.com/nell-gwyn-mistress-of-king-charles-ii-of-england/)
+
 [^66]: [Louise de Kérouaille — The Wrong Side of the Blanket](https://www.wrongsideoftheblanket.com/louise-de-kerouaille)
+
 [^67]: [Charles II of England - Wikiquote](https://en.wikiquote.org/wiki/Charles_II_of_England)
+
 [^68]: [TOP 5 QUOTES BY CHARLES II OF ENGLAND | A-Z Quotes](https://www.azquotes.com/author/42200-Charles_II_of_England)
+
 [^69]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^70]: [Charles II of England - Wikiquote](https://en.wikiquote.org/wiki/Charles_II_of_England)
+
 [^71]: [Charles II | Biography, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/Charles-II-king-of-Great-Britain-and-Ireland)
+
 [^72]: [The illegitimate Children of Charles II](https://www.englishmonarchs.co.uk/stuart_33.html)
+
 [^73]: [King Charles II: The Merry Monarch's Restoration and Legacy](https://hattonsoflondon.co.uk/king-charles-ii-the-merry-monarchs-restoration-and-legacy/)
+
 [^74]: [Charles II The 'Merry Monarch'](https://www.royalmint.com/british-monarchs/house-of-stuart/charles-ii-the-merry-monarch/)
+
 [^75]: [The Merry Monarch: The life of King Charles II | Sky HISTORY TV Channel](https://www.history.co.uk/articles/the-merry-monarch-the-life-of-king-charles-ii)
+
 [^76]: [King Charles II: The Merry Monarch's Restoration and Legacy](https://hattonsoflondon.co.uk/king-charles-ii-the-merry-monarchs-restoration-and-legacy/)
+
 [^77]: [Restoration comedy - Wikipedia](https://en.wikipedia.org/wiki/Restoration_comedy)
+
 [^78]: [The Merry Monarch - who was King Charles II](https://britishheritage.com/merry-monarch-who-was-king-charles-ii)
+
 [^79]: [Charles II The 'Merry Monarch'](https://www.royalmint.com/british-monarchs/house-of-stuart/charles-ii-the-merry-monarch/)
+
 [^80]: [Charles II and the Restoration Colonies | US History I (OS Collection)](https://courses.lumenlearning.com/suny-ushistory1os2xmaster/chapter/charles-ii-and-the-restoration-colonies/)
+
 [^81]: [History of the Royal Society | Royal Society](https://royalsociety.org/about-us/who-we-are/history/)
+
 [^82]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^83]: [The Merry Monarch: The life of King Charles II | Sky HISTORY TV Channel](https://www.history.co.uk/articles/the-merry-monarch-the-life-of-king-charles-ii)
+
 [^84]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^85]: [The Restoration | Royal Museums Greenwich](https://www.rmg.co.uk/stories/royal-history/restoration)
+
 [^86]: [History of the Royal Society | Royal Society](https://royalsociety.org/about-us/who-we-are/history/)
+
 [^87]: [Women In Restoration Theatre](https://restorationtheater.wordpress.com/)
+
 [^88]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^89]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^90]: [Secret Treaty of Dover - Wikipedia](https://en.wikipedia.org/wiki/Secret_Treaty_of_Dover)
-[^91]: [Oxford Parliament (1681) - Wikipedia](https://en.wikipedia.org/wiki/Oxford_Parliament_(1681))
+
+[^91]: [Oxford Parliament (1681) - Wikipedia](<https://en.wikipedia.org/wiki/Oxford_Parliament_(1681)>)
+
 [^92]: [The illegitimate Children of Charles II](https://www.englishmonarchs.co.uk/stuart_33.html)
+
 [^93]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^94]: [James Scott, 1st Duke of Monmouth - Wikipedia](https://en.wikipedia.org/wiki/James_Scott,_1st_Duke_of_Monmouth)
+
 [^95]: [Charles II of England - Wikipedia](https://en.wikipedia.org/wiki/Charles_II_of_England)
+
 [^96]: [The Clarendon Code, 1661-1665](https://www.britainexpress.com/History/stuart/clarendon-code.htm)
+
 [^97]: [The Clarendon Code: Establishing Anglican Supremacy in Restoration England | Algor Cards](https://cards.algoreducation.com/en/content/1XazU7Uc/clarendon-code-impact)
+
 [^98]: [Second Anglo-Dutch War - Wikipedia](https://en.wikipedia.org/wiki/Second_Anglo-Dutch_War)
+
 [^99]: [Charles II of England - Wikiquote](https://en.wikiquote.org/wiki/Charles_II_of_England)
+
 [^100]: [Charles II of England - Wikiquote](https://en.wikiquote.org/wiki/Charles_II_of_England)
+
 [^101]: [TOP 5 QUOTES BY CHARLES II OF ENGLAND | A-Z Quotes](https://www.azquotes.com/author/42200-Charles_II_of_England)
+
 [^102]: [Charles II of England - Wikiquote](https://en.wikiquote.org/wiki/Charles_II_of_England)
+
 [^103]: [Charles II of England - Wikiquote](https://en.wikiquote.org/wiki/Charles_II_of_England)
+
 [^104]: [Charles II of England (9 Sourced Quotes) - Lib Quotes](https://libquotes.com/charles-ii-of-england)

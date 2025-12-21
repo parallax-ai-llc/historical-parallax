@@ -149,25 +149,25 @@ The broader judgment of history, reflected in serious scholarly work, is that Ed
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1894 | Born June 23 at White Lodge, Richmond Park, London |
-| 1907 | Enters Royal Naval College, Osborne |
-| 1910 | Father becomes King George V; Edward becomes heir apparent and Duke of Cornwall |
-| 1911 | Invested as Prince of Wales at Caernarfon Castle on July 13 |
-| 1912 | Enters Magdalen College, Oxford |
-| 1914 | Commissioned as officer in Grenadier Guards; World War I begins |
-| 1919 | Begins extensive tours of the British Empire and other nations |
-| 1931 | Meets Wallis Simpson for the first time |
-| 1934 | Relationship with Wallis Simpson becomes serious |
+| Year | Event                                                                                                                            |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1894 | Born June 23 at White Lodge, Richmond Park, London                                                                               |
+| 1907 | Enters Royal Naval College, Osborne                                                                                              |
+| 1910 | Father becomes King George V; Edward becomes heir apparent and Duke of Cornwall                                                  |
+| 1911 | Invested as Prince of Wales at Caernarfon Castle on July 13                                                                      |
+| 1912 | Enters Magdalen College, Oxford                                                                                                  |
+| 1914 | Commissioned as officer in Grenadier Guards; World War I begins                                                                  |
+| 1919 | Begins extensive tours of the British Empire and other nations                                                                   |
+| 1931 | Meets Wallis Simpson for the first time                                                                                          |
+| 1934 | Relationship with Wallis Simpson becomes serious                                                                                 |
 | 1936 | Father George V dies January 20; Edward becomes King; Abdication crisis develops; Abdicates December 11; Created Duke of Windsor |
-| 1937 | Marries Wallis Simpson on June 3; Visits Nazi Germany and meets Hitler in October |
-| 1940 | Appointed Governor of the Bahamas |
-| 1945 | Service as Governor ends; Returns to France |
-| 1952 | Attends funeral of King George VI in Britain |
-| 1965 | Meets Queen Elizabeth II in London during recuperation from eye surgery |
-| 1967 | Attends unveiling of memorial plaque for Queen Mary |
-| 1972 | Dies of throat cancer on May 28 in Paris; Buried at Frogmore, Windsor |
+| 1937 | Marries Wallis Simpson on June 3; Visits Nazi Germany and meets Hitler in October                                                |
+| 1940 | Appointed Governor of the Bahamas                                                                                                |
+| 1945 | Service as Governor ends; Returns to France                                                                                      |
+| 1952 | Attends funeral of King George VI in Britain                                                                                     |
+| 1965 | Meets Queen Elizabeth II in London during recuperation from eye surgery                                                          |
+| 1967 | Attends unveiling of memorial plaque for Queen Mary                                                                              |
+| 1972 | Dies of throat cancer on May 28 in Paris; Buried at Frogmore, Windsor                                                            |
 
 ---
 
@@ -188,133 +188,263 @@ The broader judgment of history, reflected in serious scholarly work, is that Ed
 ## References
 
 [^1]: Ziegler, Philip. "King Edward VIII: The Official Biography." Alfred A. Knopf, 1991.
+
 [^2]: Sebba, Anne. "That Woman: The Life of Wallis Simpson, Duchess of Windsor." St. Martin's Press, 2012.
+
 [^3]: Petropoulos, Jonathan. "Royals and the Reich: The Princes von Hessen in Nazi Germany." Oxford University Press, 2006.
+
 [^4]: Bradford, Sarah. "King George VI." Weidenfeld & Nicolson, 1989.
+
 [^5]: Rose, Kenneth. "King George V." Weidenfeld & Nicolson, 1983.
+
 [^6]: Pope-Hennessy, James. "Queen Mary." George Allen & Unwin, 1959.
+
 [^7]: Nicolson, Harold. "King George the Fifth: His Life and Reign." Constable & Co., 1952.
+
 [^8]: Wheeler-Bennett, John W. "King George VI: His Life and Reign." Macmillan, 1958.
+
 [^9]: Donaldson, Frances. "Edward VIII." J.B. Lippincott Company, 1974.
+
 [^10]: Windsor, Duke of. "A King's Story: The Memoirs of the Duke of Windsor." G.P. Putnam's Sons, 1951.
+
 [^11]: Bloch, Michael. "The Duke of Windsor's War." Weidenfeld & Nicolson, 1982.
+
 [^12]: Godfrey, Rupert. "Letters from a Prince: Edward, Prince of Wales to Mrs Freda Dudley Ward." Little, Brown, 1998.
+
 [^13]: Vickers, Hugo. "Behind Closed Doors: The Tragic, Untold Story of the Duchess of Windsor." Hutchinson, 2011.
+
 [^14]: Morton, Andrew. "17 Carnations: The Royals, the Nazis, and the Biggest Cover-Up in History." Grand Central Publishing, 2015.
+
 [^15]: Middlemas, Keith and Barnes, John. "Baldwin: A Biography." Weidenfeld & Nicolson, 1969.
+
 [^16]: Williams, Susan. "The People's King: The True Story of the Abdication." Allen Lane, 2003.
+
 [^17]: Morgan, Kenneth O. "Lloyd George." Weidenfeld & Nicolson, 1974.
+
 [^18]: Sheffield, Gary. "Forgotten Victory: The First World War: Myths and Realities." Headline, 2001.
+
 [^19]: Hart, Peter. "The Great War: A Combat History of the First World War." Oxford University Press, 2013.
+
 [^20]: Cadbury, Deborah. "Princes at War: The Bitter Battle Inside Britain's Royal Family in the Darkest Days of WWII." PublicAffairs, 2015.
+
 [^21]: Brendon, Piers and Whitehead, Phillip. "The Windsors: A Dynasty Revealed." Hodder & Stoughton, 1994.
+
 [^22]: Cannadine, David. "The Decline and Fall of the British Aristocracy." Yale University Press, 1990.
+
 [^23]: Darwin, John. "The Empire Project: The Rise and Fall of the British World-System, 1830-1970." Cambridge University Press, 2009.
+
 [^24]: Higham, Charles. "The Duchess of Windsor: The Secret Life." John Wiley & Sons, 2004.
+
 [^25]: Amory, Cleveland. "Who Killed Society?" Harper & Brothers, 1960.
+
 [^26]: King, Greg. "The Duchess of Windsor: The Uncommon Life of Wallis Simpson." Citadel Press, 1999.
+
 [^27]: Judd, Denis. "King George VI 1895-1952." Franklin Watts, 1983.
+
 [^28]: Roberts, Andrew. "The Royal House of Windsor." University of California Press, 2000.
+
 [^29]: Beaverbrook, Lord. "The Abdication of King Edward VIII." Hamish Hamilton, 1966.
+
 [^30]: Airlie, Mabell Countess of. "Thatched with Gold." Hutchinson, 1962.
+
 [^31]: Pimlott, Ben. "The Queen: A Biography of Elizabeth II." John Wiley & Sons, 1996.
+
 [^32]: Taylor, A.J.P. "English History, 1914-1945." Oxford University Press, 1965.
+
 [^33]: Williamson, Philip. "Stanley Baldwin: Conservative Leadership and National Values." Cambridge University Press, 1999.
+
 [^34]: Cannadine, David. "History in Our Time." Yale University Press, 1998.
+
 [^35]: Louis, Wm. Roger. "The Oxford History of the British Empire: Volume IV: The Twentieth Century." Oxford University Press, 1999.
+
 [^36]: Reynolds, David. "The Creation of the Anglo-American Alliance 1937-1941." University of North Carolina Press, 1982.
+
 [^37]: Chenoune, Farid. "A History of Men's Fashion." Flammarion, 1993.
+
 [^38]: Beaton, Cecil. "The Glass of Fashion." Doubleday, 1954.
+
 [^39]: Edgerton, David. "England and the Aeroplane: Militarism, Modernity and Machines." Penguin, 2013.
+
 [^40]: Higham, Robin. "Britain's Imperial Air Routes, 1918-1939." G.T. Foulis, 1960.
+
 [^41]: Cannadine, David. "The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition'." In "The Invention of Tradition," edited by Eric Hobsbawm and Terence Ranger. Cambridge University Press, 1983.
+
 [^42]: Hardinge, Helen. "Loyal to Three Kings." William Kimber, 1967.
+
 [^43]: Channon, Henry. "Chips: The Diaries of Sir Henry Channon." Weidenfeld & Nicolson, 1967.
+
 [^44]: Ziegler, Philip. "Crown and People." Collins, 1978.
+
 [^45]: Allen, Peter. "The Crown and the Swastika: Hitler, Hess and the Duke of Windsor." Robert Hale, 1983.
+
 [^46]: Hastings, Adrian. "A History of English Christianity 1920-1985." Collins, 1986.
+
 [^47]: Jones, Thomas. "A Diary with Letters, 1931-1950." Oxford University Press, 1954.
+
 [^48]: Martin, Kingsley. "The Crown and the Establishment." Hutchinson, 1962.
+
 [^49]: Inglis, Brian. "Abdication." Hodder & Stoughton, 1966.
+
 [^50]: Urbach, Karina. "Go-Betweens for Hitler." Oxford University Press, 2015.
+
 [^51]: Kershaw, Ian. "Making Friends with Hitler: Lord Londonderry and Britain's Road to War." Allen Lane, 2004.
+
 [^52]: Bloch, Michael. "Operation Willi: The Plot to Kidnap the Duke of Windsor." Weidenfeld & Nicolson, 1984.
+
 [^53]: Costello, John. "Ten Days to Destiny: The Secret Story of the Hess Peace Initiative and British Efforts to Strike a Deal with Hitler." William Morrow, 1991.
+
 [^54]: Higham, Charles. "Trading with the Enemy: An Exposé of the Nazi-American Money Plot 1933-1949." Delacorte Press, 1983.
+
 [^55]: Owen, Frank. "The Windsor Story." Macfadden-Bartell, 1967.
+
 [^56]: Leasor, James. "War at the Top." Michael Joseph, 1959.
+
 [^57]: Cooper, Diana. "The Light of Common Day." Rupert Hart-Davis, 1959.
+
 [^58]: Menkes, Suzy. "The Windsor Style." Salem House, 1987.
+
 [^59]: Crawford, Marion. "The Little Princesses." Cassell & Company, 1950.
+
 [^60]: Hoey, Brian. "George VI: A Photographic Biography." Bramley Books, 1991.
+
 [^61]: Shawcross, William. "Queen Elizabeth the Queen Mother: The Official Biography." Macmillan, 2009.
+
 [^62]: Warwick, Christopher. "George and Marina: Duke and Duchess of Kent." Weidenfeld & Nicolson, 1988.
+
 [^63]: Thornton, Michael. "Royal Feud: The Queen Mother and the Duchess of Windsor." Michael Joseph, 1985.
+
 [^64]: Bradford, Sarah. "George VI." Penguin Books, 2002.
+
 [^65]: Simpson, Wallis. "The Heart Has Its Reasons: The Memoirs of the Duchess of Windsor." David McKay Company, 1956.
+
 [^66]: Bloch, Michael. "Wallis & Edward: Letters 1931-1937." Summit Books, 1986.
+
 [^67]: Wilson, Christopher. "Dancing with the Devil: The Windsors and Jimmy Donahue." St. Martin's Press, 2000.
+
 [^68]: Blackwood, Caroline. "The Last of the Duchess." Pantheon Books, 1995.
+
 [^69]: Mosley, Diana. "The Duchess of Windsor." Sidgwick & Jackson, 1980.
+
 [^70]: Bloch, Michael. "The Secret File of the Duke of Windsor." Harper & Row, 1988.
+
 [^71]: Bocca, Geoffrey. "She Might Have Been Queen." Express Books, 1955.
+
 [^72]: Warwick, Christopher. "Abdication." Sidgwick & Jackson, 1986.
+
 [^73]: Bryan III, J. and Murphy, Charles J.V. "The Windsor Story." William Morrow & Company, 1979.
+
 [^74]: Hood, Dina Wells. "Working for the Windsors." Allan Wingate, 1957.
+
 [^75]: Vreeland, Diana. "D.V." Alfred A. Knopf, 1984.
+
 [^76]: Higham, Charles. "Mrs Simpson: Secret Lives of the Duchess of Windsor." Pan Books, 2004.
+
 [^77]: Menkes, Suzy. "The Royal Jewels." Grafton Books, 1985.
+
 [^78]: Suzy Menkes. "The Windsor Style." Salem House Publishers, 1987.
+
 [^79]: Field, Leslie. "The Queen's Jewels." Harry N. Abrams, 1987.
+
 [^80]: Bradford, Sarah. "America's Queen: The Life of Jacqueline Kennedy Onassis." Viking, 2000.
+
 [^81]: Birmingham, Stephen. "Duchess: The Story of Wallis Warfield Windsor." Little, Brown, 1981.
+
 [^82]: Martin, Ralph G. "The Woman He Loved." Simon & Schuster, 1973.
+
 [^83]: Bloch, Michael. "The Duchess of Windsor." Weidenfeld & Nicolson, 1996.
+
 [^84]: Lacey, Robert. "Majesty: Elizabeth II and the House of Windsor." Harcourt Brace Jovanovich, 1977.
+
 [^85]: Longford, Elizabeth. "Elizabeth R: A Biography." Weidenfeld & Nicolson, 1983.
+
 [^86]: Lacey, Robert. "Royal: Her Majesty Queen Elizabeth II." Little, Brown, 2002.
+
 [^87]: Warwick, Christopher. "Princess Margaret: A Life of Contrasts." André Deutsch, 2000.
+
 [^88]: Dimbleby, Jonathan. "The Prince of Wales: A Biography." Little, Brown, 1994.
+
 [^89]: Roberts, Andrew. "Eminent Churchillians." Weidenfeld & Nicolson, 1994.
+
 [^90]: Overy, Richard. "The Twilight Years: The Paradox of Britain Between the Wars." Viking, 2009.
+
 [^91]: Vickers, Hugo. "Elizabeth, The Queen Mother." Hutchinson, 2005.
+
 [^92]: Sebba, Anne. "That Woman: The Life of Wallis Simpson, Duchess of Windsor." St. Martin's Press, 2011.
+
 [^93]: Williams, Susan. "The People's King: The True Story of the Abdication." Palgrave Macmillan, 2004.
+
 [^94]: Prochaska, Frank. "The Republic of Britain: 1760-2000." Allen Lane, 2000.
+
 [^95]: Bogdanor, Vernon. "The Monarchy and the Constitution." Oxford University Press, 1995.
+
 [^96]: Hennessy, Peter. "The Hidden Wiring: Unearthing the British Constitution." Victor Gollancz, 1995.
+
 [^97]: Higson, Andrew. "English Heritage, English Cinema: Costume Drama Since 1980." Oxford University Press, 2003.
+
 [^98]: Logue, Mark and Conradi, Peter. "The King's Speech: How One Man Saved the British Monarchy." Sterling, 2010.
+
 [^99]: Hooper, Tom, director. "The King's Speech." The Weinstein Company, 2010.
+
 [^100]: Hart-Davis, Duff, editor. "King's Counsellor: Abdication and War - The Diaries of Sir Alan Lascelles." Weidenfeld & Nicolson, 2006.
+
 [^101]: Templewood, Viscount. "Nine Troubled Years." Collins, 1954.
+
 [^102]: Ziegler, Philip. "King Edward VIII: A Biography." Collins, 1990.
+
 [^103]: Brendon, Piers. "Edward VIII: The Uncrowned King." Allen Lane, 2016.
+
 [^104]: Rowse, A.L. "Memories and Glimpses." Methuen, 1986.
+
 [^105]: Stevenson, John. "British Society 1914-1945." Penguin, 1984.
+
 [^106]: Rose, Kenneth. "Kings, Queens and Courtiers." Weidenfeld & Nicolson, 1985.
+
 [^107]: Walker, Richard. "Savile Row: An Illustrated History." Rizzoli, 1988.
+
 [^108]: Tunstall, Jeremy. "The Media in Britain." Constable, 1983.
+
 [^109]: Rowse, A.L. "The Controversial Colensos." Cornish Hillside Publications, 1989.
+
 [^110]: Mount, Ferdinand. "The British Constitution Now." Heinemann, 1992.
+
 [^111]: Blake, Robert. "The Conservative Party from Peel to Major." Heinemann, 1997.
+
 [^112]: Norton, Philip. "The Constitution in Flux." Martin Robertson, 1982.
+
 [^113]: Roberts, Andrew. "The Holy Fox: A Biography of Lord Halifax." Weidenfeld & Nicolson, 1991.
+
 [^114]: Roberts, Andrew. "Masters and Commanders: How Four Titans Won the War in the West, 1941-1945." Harper, 2009.
+
 [^115]: Roberts, Andrew. "Walking with Destiny: Winston Churchill 1940-1945." Allen Lane, 2018.
+
 [^116]: Petropoulos, Jonathan. "Royals and the Reich: The Princes von Hessen in Nazi Germany." Oxford University Press, 2006.
+
 [^117]: Donaldson, Frances. "Edward VIII: The Road to Abdication." Weidenfeld & Nicolson, 1978.
+
 [^118]: Donaldson, Frances. "A Twentieth Century Life." Weidenfeld & Nicolson, 1992.
+
 [^119]: Rhodes James, Robert. "A Spirit Undaunted: The Political Role of George VI." Little, Brown, 1998.
+
 [^120]: Bradford, Sarah. "The Reluctant King: The Life and Reign of George VI, 1895-1952." St. Martin's Press, 1989.
+
 [^121]: Vickers, Hugo. "Behind Closed Doors: The Tragic, Untold Story of the Duchess of Windsor." Hutchinson, 2011.
+
 [^122]: Sebba, Anne. "That Woman: The Life of Wallis Simpson, Duchess of Windsor." Phoenix, 2012.
+
 [^123]: Higham, Charles. "Trading with the Enemy: The Nazi-American Money Plot 1933-1949." Barnes & Noble, 1995.
+
 [^124]: Owen, Frank. "Tempestuous Journey: Lloyd George, His Life and Times." Hutchinson, 1954.
+
 [^125]: Cannadine, David. "The Decline and Fall of the British Aristocracy." Vintage Books, 1999.
+
 [^126]: Hennessy, Peter. "Having It So Good: Britain in the Fifties." Allen Lane, 2006.
+
 [^127]: BBC Archives. "Edward VIII Abdication Speech." December 11, 1936.
+
 [^128]: The Times. "The Prince in South Wales." November 19, 1936.
+
 [^129]: Vanderbilt, Gloria and Furness, Thelma. "Double Exposure." David McKay, 1958.
+
 [^130]: Windsor, Duke of. "A King's Story." Prion Books, 1998 reprint.
+
 [^131]: Windsor, Duke of. "A King's Story: The Memoirs of H.R.H. the Duke of Windsor." Cassell & Company, 1951.

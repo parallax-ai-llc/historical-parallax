@@ -224,30 +224,30 @@ Conservative political analysts characterize Trudeau's overall record as leaving
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1971 | Born December 25 in Ottawa, Ontario, to Prime Minister Pierre Trudeau and Margaret Trudeau |
-| 1977 | Parents Pierre and Margaret divorce; raised primarily by father |
-| 1994 | Graduates from McGill University with B.A. in English |
-| 1998 | Earns B.Ed. from University of British Columbia; brother Michel dies in avalanche |
-| 2000 | Father Pierre Trudeau dies; delivers moving eulogy that brings national attention |
-| 2002 | Returns to Montreal; appointed Chair of Katimavik youth volunteer program |
-| 2005 | Marries Sophie Grégoire on May 28 in Montreal |
-| 2007 | Son Xavier James born October 18 |
-| 2008 | Elected Member of Parliament for Papineau riding on October 14 |
-| 2009 | Daughter Ella-Grace Margaret born February 5 |
-| 2011 | Re-elected in Papineau as Liberal Party falls to third-party status |
-| 2013 | Elected Liberal Party leader with 80.1% of vote on April 14 |
-| 2014 | Son Hadrien Grégoire born February 28 |
-| 2015 | Leads Liberals to majority government victory October 19; sworn in as 23rd Prime Minister November 4 |
-| 2016 | Aga Khan vacation leads to first ethics violation finding; "Elbowgate" incident in House of Commons |
-| 2018 | Cannabis legalization takes effect October 17; controversial state visit to India |
-| 2019 | SNC-Lavalin affair and Wilson-Raybould resignation; blackface scandal emerges; re-elected with minority government October 21 |
-| 2020 | COVID-19 pandemic response including CERB program; WE Charity scandal; Parliament prorogued August |
-| 2021 | First National Day of Truth and Reconciliation; Trudeau vacations in Tofino; re-elected with minority government September 20 |
-| 2022 | Freedom Convoy protests; Emergencies Act invoked February; inflation peaks at 6.8% |
-| 2023 | Announces separation from Sophie Grégoire on August 2 |
-| 2024 | Deputy Prime Minister Chrystia Freeland resigns December; declining popularity and internal party divisions |
+| Year | Event                                                                                                                                      |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1971 | Born December 25 in Ottawa, Ontario, to Prime Minister Pierre Trudeau and Margaret Trudeau                                                 |
+| 1977 | Parents Pierre and Margaret divorce; raised primarily by father                                                                            |
+| 1994 | Graduates from McGill University with B.A. in English                                                                                      |
+| 1998 | Earns B.Ed. from University of British Columbia; brother Michel dies in avalanche                                                          |
+| 2000 | Father Pierre Trudeau dies; delivers moving eulogy that brings national attention                                                          |
+| 2002 | Returns to Montreal; appointed Chair of Katimavik youth volunteer program                                                                  |
+| 2005 | Marries Sophie Grégoire on May 28 in Montreal                                                                                              |
+| 2007 | Son Xavier James born October 18                                                                                                           |
+| 2008 | Elected Member of Parliament for Papineau riding on October 14                                                                             |
+| 2009 | Daughter Ella-Grace Margaret born February 5                                                                                               |
+| 2011 | Re-elected in Papineau as Liberal Party falls to third-party status                                                                        |
+| 2013 | Elected Liberal Party leader with 80.1% of vote on April 14                                                                                |
+| 2014 | Son Hadrien Grégoire born February 28                                                                                                      |
+| 2015 | Leads Liberals to majority government victory October 19; sworn in as 23rd Prime Minister November 4                                       |
+| 2016 | Aga Khan vacation leads to first ethics violation finding; "Elbowgate" incident in House of Commons                                        |
+| 2018 | Cannabis legalization takes effect October 17; controversial state visit to India                                                          |
+| 2019 | SNC-Lavalin affair and Wilson-Raybould resignation; blackface scandal emerges; re-elected with minority government October 21              |
+| 2020 | COVID-19 pandemic response including CERB program; WE Charity scandal; Parliament prorogued August                                         |
+| 2021 | First National Day of Truth and Reconciliation; Trudeau vacations in Tofino; re-elected with minority government September 20              |
+| 2022 | Freedom Convoy protests; Emergencies Act invoked February; inflation peaks at 6.8%                                                         |
+| 2023 | Announces separation from Sophie Grégoire on August 2                                                                                      |
+| 2024 | Deputy Prime Minister Chrystia Freeland resigns December; declining popularity and internal party divisions                                |
 | 2025 | Announces resignation as Prime Minister and Liberal Party leader in January; Mark Carney elected successor March 9; resigns as PM March 14 |
 
 ---
@@ -275,139 +275,275 @@ Conservative political analysts characterize Trudeau's overall record as leaving
 ## References
 
 [^1]: Britannica. "Justin Trudeau | Biography, Facts, Resignation, & Father." https://www.britannica.com/biography/Justin-Trudeau
+
 [^2]: GZERO Media. "Justin Trudeau: The rise and fall of a political golden boy." https://www.gzeromedia.com/gzero-north/justin-trudeau-the-rise-and-fall-of-a-political-golden-boy
+
 [^3]: Britannica. "Justin Trudeau - SNC-Lavalin affair." https://www.britannica.com/biography/Justin-Trudeau/SNC-Lavalin-affair
+
 [^4]: Newsweek. "4 Times Justin Trudeau Impressed, and 5 Times he Disappointed." https://www.newsweek.com/canada-election-2021-justin-trudeau-scandals-investigations-incidents-1630282
+
 [^5]: IPS Journal. "The rise and fall of Justin Trudeau – Democracy and society." https://www.ips-journal.eu/topics/democracy-and-society/the-rise-and-fall-of-justin-trudeau-8012/
+
 [^6]: Al Jazeera. "How the Justin Trudeau era changed Canada." https://www.aljazeera.com/news/2025/1/6/how-the-justin-trudeau-era-changed-canada
+
 [^7]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^8]: The Canadian Encyclopedia. "Justin Trudeau." https://www.thecanadianencyclopedia.ca/en/article/justin-trudeau
+
 [^9]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^10]: Historydraft. "History of Justin Trudeau - Timeline." https://historydraft.com/story/justin-trudeau/timeline/306
+
 [^11]: Historydraft. "History of Justin Trudeau - Timeline." https://historydraft.com/story/justin-trudeau/timeline/306
+
 [^12]: Biography.com. "Justin Trudeau Was Spotted Kissing Katy Perry. Here's What We Know About Their Romance." https://www.biography.com/political-figures/justin-trudeau
+
 [^13]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^14]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^15]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^16]: Britannica. "Justin Trudeau | Biography, Facts, Resignation, & Father." https://www.britannica.com/biography/Justin-Trudeau
+
 [^17]: Britannica. "Justin Trudeau | Biography, Facts, Resignation, & Father." https://www.britannica.com/biography/Justin_Trudeau
+
 [^18]: The Canadian Encyclopedia. "Justin Trudeau." https://www.thecanadianencyclopedia.ca/en/article/justin-trudeau
+
 [^19]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^20]: Historydraft. "History of Justin Trudeau - Timeline." https://historydraft.com/story/justin-trudeau/timeline/306
+
 [^21]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^22]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^23]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^24]: Britannica. "Justin Trudeau | Biography, Facts, Resignation, & Father." https://www.britannica.com/biography/Justin-Trudeau
+
 [^25]: Historydraft. "History of Justin Trudeau - Timeline." https://historydraft.com/story/justin-trudeau/timeline/306
+
 [^26]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^27]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^28]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^29]: GZERO Media. "Justin Trudeau: The rise and fall of a political golden boy." https://www.gzeromedia.com/gzero-north/justin-trudeau-the-rise-and-fall-of-a-political-golden-boy
+
 [^30]: GZERO Media. "Justin Trudeau: The rise and fall of a political golden boy." https://www.gzeromedia.com/gzero-north/justin-trudeau-the-rise-and-fall-of-a-political-golden-boy
+
 [^31]: GZERO Media. "Justin Trudeau: The rise and fall of a political golden boy." https://www.gzeromedia.com/gzero-north/justin-trudeau-the-rise-and-fall-of-a-political-golden-boy
+
 [^32]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^33]: Historydraft. "History of Justin Trudeau - Timeline." https://historydraft.com/story/justin-trudeau/timeline/306
+
 [^34]: Angus Reid Institute. "Trudeau Legacy: Majority say he took on the country's biggest problems, but split over whether he made progress." https://angusreid.org/trudeau-legacy-covid-19-inflation-marijuana-snc-lavalin-we-charity/
+
 [^35]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^36]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^37]: CultMTL. "What are Justin Trudeau's greatest accomplishments as Prime Minister?" https://cultmtl.com/2025/03/what-are-justin-trudeau-greatest-accomplishments-as-prime-minister/
+
 [^38]: CultMTL. "What are Justin Trudeau's greatest accomplishments as Prime Minister?" https://cultmtl.com/2025/03/what-are-justin-trudeau-greatest-accomplishments-as-prime-minister/
+
 [^39]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^40]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^41]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^42]: Angus Reid Institute. "Trudeau Legacy: Majority say he took on the country's biggest problems." https://angusreid.org/trudeau-legacy-covid-19-inflation-marijuana-snc-lavalin-we-charity/
+
 [^43]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^44]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^45]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^46]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^47]: Angus Reid Institute. "Trudeau Legacy: Majority say he took on the country's biggest problems." https://angusreid.org/trudeau-legacy-covid-19-inflation-marijuana-snc-lavalin-we-charity/
+
 [^48]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^49]: Britannica. "Justin Trudeau - SNC-Lavalin affair." https://www.britannica.com/biography/Justin-Trudeau/SNC-Lavalin-affair
+
 [^50]: TIME. "The Quick Read on Justin Trudeau's Mounting Political Woes." https://time.com/5550984/justin-trudeau-canada-snc-lavalin-scandal/
+
 [^51]: Britannica. "Justin Trudeau - SNC-Lavalin affair." https://www.britannica.com/biography/Justin-Trudeau/SNC-Lavalin-affair
+
 [^52]: TIME. "The Quick Read on Justin Trudeau's Mounting Political Woes." https://time.com/5550984/justin-trudeau-canada-snc-lavalin-scandal/
+
 [^53]: Institute on Governance. "The Liberal Government of Canada under Prime Minister Justin Trudeau: An Assessment." https://iog.ca/resource/the-liberal-government-of-canada-under-prime-minister-justin-trudeau-an-assessment-of-the-liberal-record-on-accountability-transparency-and-ethics/
+
 [^54]: Ted Falk MP. "Liberal Corruption Knows No Bounds." https://tedfalk.ca/liberal-corruption-knows-no-bounds/
+
 [^55]: Newsweek. "4 Times Justin Trudeau Impressed, and 5 Times he Disappointed." https://www.newsweek.com/canada-election-2021-justin-trudeau-scandals-investigations-incidents-1630282
+
 [^56]: Newsweek. "4 Times Justin Trudeau Impressed, and 5 Times he Disappointed." https://www.newsweek.com/canada-election-2021-justin-trudeau-scandals-investigations-incidents-1630282
+
 [^57]: Newsweek. "4 Times Justin Trudeau Impressed, and 5 Times he Disappointed." https://www.newsweek.com/canada-election-2021-justin-trudeau-scandals-investigations-incidents-1630282
+
 [^58]: Newsweek. "4 Times Justin Trudeau Impressed, and 5 Times he Disappointed." https://www.newsweek.com/canada-election-2021-justin-trudeau-scandals-investigations-incidents-1630282
+
 [^59]: Newsweek. "4 Times Justin Trudeau Impressed, and 5 Times he Disappointed." https://www.newsweek.com/canada-election-2021-justin-trudeau-scandals-investigations-incidents-1630282
+
 [^60]: Fair Observer. "Trudeau: What Went Wrong, and What Lies Ahead for Canada?" https://www.fairobserver.com/world-news/us-news/trudeau-what-went-wrong-and-what-lies-ahead-for-canada/
+
 [^61]: Fair Observer. "Trudeau: What Went Wrong, and What Lies Ahead for Canada?" https://www.fairobserver.com/world-news/us-news/trudeau-what-went-wrong-and-what-lies-ahead-for-canada/
+
 [^62]: Fair Observer. "Trudeau: What Went Wrong, and What Lies Ahead for Canada?" https://www.fairobserver.com/world-news/us-news/trudeau-what-went-wrong-and-what-lies-ahead-for-canada/
+
 [^63]: Fair Observer. "Trudeau: What Went Wrong, and What Lies Ahead for Canada?" https://www.fairobserver.com/world-news/us-news/trudeau-what-went-wrong-and-what-lies-ahead-for-canada/
+
 [^64]: The Statesman. "Justin Trudeau controversies as Canada's 23rd prime minister." https://www.thestatesman.com/world/justin-trudeau-controversies-as-canadas-23rd-prime-minister-1503207742.html
+
 [^65]: The Statesman. "Justin Trudeau controversies as Canada's 23rd prime minister." https://www.thestatesman.com/world/justin-trudeau-controversies-as-canadas-23rd-prime-minister-1503207742.html
+
 [^66]: Yahoo News Canada. "The scandals, missteps and affairs that defined the Trudeau decade." https://ca.news.yahoo.com/scandals-missteps-affairs-defined-trudeau-222149196.html
+
 [^67]: Yahoo News Canada. "The scandals, missteps and affairs that defined the Trudeau decade." https://ca.news.yahoo.com/scandals-missteps-affairs-defined-trudeau-222149196.html
+
 [^68]: Yahoo News Canada. "The scandals, missteps and affairs that defined the Trudeau decade." https://ca.news.yahoo.com/scandals-missteps-affairs-defined-trudeau-222149196.html
+
 [^69]: Newsweek. "4 Times Justin Trudeau Impressed, and 5 Times he Disappointed." https://www.newsweek.com/canada-election-2021-justin-trudeau-scandals-investigations-incidents-1630282
+
 [^70]: The Statesman. "Justin Trudeau controversies as Canada's 23rd prime minister." https://www.thestatesman.com/world/justin-trudeau-controversies-as-canadas-23rd-prime-minister-1503207742.html
+
 [^71]: IPS Journal. "The rise and fall of Justin Trudeau – Democracy and society." https://www.ips-journal.eu/topics/democracy-and-society/the-rise-and-fall-of-justin-trudeau-8012/
+
 [^72]: Wikipedia. "Sophie Grégoire Trudeau." https://en.wikipedia.org/wiki/Sophie_Gr%C3%A9goire_Trudeau
+
 [^73]: Wikipedia. "Sophie Grégoire Trudeau." https://en.wikipedia.org/wiki/Sophie_Gr%C3%A9goire_Trudeau
+
 [^74]: Wikipedia. "Sophie Grégoire Trudeau." https://en.wikipedia.org/wiki/Sophie_Gr%C3%A9goire_Trudeau
+
 [^75]: NPR. "Canadian Prime Minister Justin Trudeau and his wife announce their separation." https://www.npr.org/2023/08/03/1191789443/canadian-prime-minister-justin-trudeau-and-his-wife-announce-their-separation
+
 [^76]: HELLO! Magazine. "Meet Justin Trudeau's 3 children from his previous marriage to Sophie Grégoire." https://www.hellomagazine.com/healthandbeauty/mother-and-baby/863982/meet-justin-trudeau-3-children-previous-marriage-sophie-gregoire/
+
 [^77]: Gazette Direct. "Justin Trudeau's Family: Meet Wife, Sophie, and Kids, Xavier, Ella-Grace & Hadrien." https://gazettedirect.com/justin-trudeau-wife-and-kids/
+
 [^78]: The Famous People. "Sophie_Grégoire_Trudeau Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/sophie-grgoire-12995.php
+
 [^79]: CBC News. "Justin Trudeau and Sophie Grégoire Trudeau announce separation." https://www.cbc.ca/news/politics/trudeau-gregoire-separation-1.6925254
+
 [^80]: NPR. "Canadian Prime Minister Justin Trudeau and his wife announce their separation." https://www.npr.org/2023/08/03/1191789443/canadian-prime-minister-justin-trudeau-and-his-wife-announce-their-separation
+
 [^81]: YEN.COM.GH. "Meet Justin Trudeau's ex-wife,Sophie Grégoire Trudeau and their separation." https://yen.com.gh/facts-lifehacks/biographies/295270-meet-justin-trudeaus-wifesophie-gregoire-trudeau-separation/
+
 [^82]: YEN.COM.GH. "Meet Justin Trudeau's ex-wife,Sophie Grégoire Trudeau and their separation." https://yen.com.gh/facts-lifehacks/biographies/295270-meet-justin-trudeaus-wifesophie-gregoire-trudeau-separation/
+
 [^83]: CNN. "Justin Trudeau's ex-wife Sophie Grégoire breaks silence on his romance with Katy Perry." https://www.cnn.com/2025/11/17/entertainment/justin-trudeau-sophie-gregoire-katy-perry
+
 [^84]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^85]: Historydraft. "History of Justin Trudeau - Timeline." https://historydraft.com/story/justin-trudeau/timeline/306
+
 [^86]: CultMTL. "What are Justin Trudeau's greatest accomplishments as Prime Minister?" https://cultmtl.com/2025/03/what-are-justin-trudeau-greatest-accomplishments-as-prime-minister/
+
 [^87]: CultMTL. "What are Justin Trudeau's greatest accomplishments as Prime Minister?" https://cultmtl.com/2025/03/what-are-justin-trudeau-greatest-accomplishments-as-prime-minister/
+
 [^88]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^89]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^90]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^91]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^92]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^93]: Policy Options. "Justin Trudeau's fiscal legacy." https://policyoptions.irpp.org/magazines/january-2025/justin-trudeau-fiscal-legacy/
+
 [^94]: Fair Observer. "Trudeau: What Went Wrong, and What Lies Ahead for Canada?" https://www.fairobserver.com/world-news/us-news/trudeau-what-went-wrong-and-what-lies-ahead-for-canada/
+
 [^95]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^96]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^97]: The Narwhal. "What is Justin Trudeau's environmental legacy?" https://thenarwhal.ca/trudeau-resignation-environmental-impacts/
+
 [^98]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^99]: The Statesman. "Justin Trudeau controversies as Canada's 23rd prime minister." https://www.thestatesman.com/world/justin-trudeau-controversies-as-canadas-23rd-prime-minister-1503207742.html
+
 [^100]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^101]: Institute on Governance. "The Liberal Government of Canada under Prime Minister Justin Trudeau: An Assessment." https://iog.ca/resource/the-liberal-government-of-canada-under-prime-minister-justin-trudeau-an-assessment-of-the-liberal-record-on-accountability-transparency-and-ethics/
+
 [^102]: IPS Journal. "The rise and fall of Justin Trudeau – Democracy and society." https://www.ips-journal.eu/topics/democracy-and-society/the-rise-and-fall-of-justin-trudeau-8012/
+
 [^103]: The Statesman. "Justin Trudeau controversies as Canada's 23rd prime minister." https://www.thestatesman.com/world/justin-trudeau-controversies-as-canadas-23rd-prime-minister-1503207742.html
+
 [^104]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^105]: Yahoo News Canada. "The scandals, missteps and affairs that defined the Trudeau decade." https://ca.news.yahoo.com/scandals-missteps-affairs-defined-trudeau-222149196.html
+
 [^106]: CBC News. "How much has Trudeau changed Canada?" https://www.cbc.ca/news/politics/justin-trudeau-legacy-the-house-1.7429067
+
 [^107]: Al Jazeera. "How the Justin Trudeau era changed Canada." https://www.aljazeera.com/news/2025/1/6/how-the-justin-trudeau-era-changed-canada
+
 [^108]: GZERO Media. "Justin Trudeau: The rise and fall of a political golden boy." https://www.gzeromedia.com/gzero-north/justin-trudeau-the-rise-and-fall-of-a-political-golden-boy
+
 [^109]: GZERO Media. "Justin Trudeau: The rise and fall of a political golden boy." https://www.gzeromedia.com/gzero-north/justin-trudeau-the-rise-and-fall-of-a-political-golden-boy
+
 [^110]: IPS Journal. "The rise and fall of Justin Trudeau – Democracy and society." https://www.ips-journal.eu/topics/democracy-and-society/the-rise-and-fall-of-justin-trudeau-8012/
+
 [^111]: Al Jazeera. "How the Justin Trudeau era changed Canada." https://www.aljazeera.com/news/2025/1/6/how-the-justin-trudeau-era-changed-canada
+
 [^112]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^113]: GZERO Media. "Justin Trudeau: The rise and fall of a political golden boy." https://www.gzeromedia.com/gzero-north/justin-trudeau-the-rise-and-fall-of-a-political-golden-boy
+
 [^114]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^115]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^116]: CultMTL. "What are Justin Trudeau's greatest accomplishments as Prime Minister?" https://cultmtl.com/2025/03/what-are-justin-trudeau-greatest-accomplishments-as-prime-minister/
+
 [^117]: York University News. "After 8 years in power, what is Justin Trudeau's legacy — and how will he cement it?" https://www.yorku.ca/news/2023/11/27/after-8-years-in-power-what-is-justin-trudeaus-legacy-and-how-will-he-cement-it/
+
 [^118]: Angus Reid Institute. "Trudeau Legacy: Majority say he took on the country's biggest problems." https://angusreid.org/trudeau-legacy-covid-19-inflation-marijuana-snc-lavalin-we-charity/
+
 [^119]: Angus Reid Institute. "Trudeau Legacy: Majority say he took on the country's biggest problems." https://angusreid.org/trudeau-legacy-covid-19-inflation-marijuana-snc-lavalin-we-charity/
+
 [^120]: Wikipedia. "Justin Trudeau." https://en.wikipedia.org/wiki/Justin_Trudeau
+
 [^121]: Institute on Governance. "The Liberal Government of Canada under Prime Minister Justin Trudeau: An Assessment." https://iog.ca/resource/the-liberal-government-of-canada-under-prime-minister-justin-trudeau-an-assessment-of-the-liberal-record-on-accountability-transparency-and-ethics/
+
 [^122]: Fair Observer. "Trudeau: What Went Wrong, and What Lies Ahead for Canada?" https://www.fairobserver.com/world-news/us-news/trudeau-what-went-wrong-and-what-lies-ahead-for-canada/
+
 [^123]: Policy Options. "Justin Trudeau's fiscal legacy." https://policyoptions.irpp.org/magazines/january-2025/justin-trudeau-fiscal-legacy/
+
 [^124]: Policy Options. "The mixed government legacy of Justin Trudeau." https://policyoptions.irpp.org/magazines/march-2025/trudeau-legacy/
+
 [^125]: The Statesman. "Justin Trudeau controversies as Canada's 23rd prime minister." https://www.thestatesman.com/world/justin-trudeau-controversies-as-canadas-23rd-prime-minister-1503207742.html
+
 [^126]: The Narwhal. "What is Justin Trudeau's environmental legacy?" https://thenarwhal.ca/trudeau-resignation-environmental-impacts/
+
 [^127]: Fair Observer. "Trudeau: What Went Wrong, and What Lies Ahead for Canada?" https://www.fairobserver.com/world-news/us-news/trudeau-what-went-wrong-and-what-lies-ahead-for-canada/
+
 [^128]: IPS Journal. "The rise and fall of Justin Trudeau – Democracy and society." https://www.ips-journal.eu/topics/democracy-and-society/the-rise-and-fall-of-justin-trudeau-8012/
+
 [^129]: City Journal. "Justin Trudeau's Legacy: a Weakened Canada." https://www.city-journal.org/article/justin-trudeaus-legacy-a-weakened-canada
+
 [^130]: BrainyQuote. "Justin Trudeau Quotes." https://www.brainyquote.com/authors/justin-trudeau-quotes
+
 [^131]: CultMTL. "What are Justin Trudeau's greatest accomplishments as Prime Minister?" https://cultmtl.com/2025/03/what-are-justin-trudeau-greatest-accomplishments-as-prime-minister/
+
 [^132]: BrainyQuote. "Top 10 Justin Trudeau Quotes." https://www.brainyquote.com/lists/authors/top-10-justin-trudeau-quotes
+
 [^133]: Goodreads. "Justin Trudeau Quotes." https://www.goodreads.com/author/quotes/2786193.Justin_Trudeau
+
 [^134]: BrainyQuote. "Justin Trudeau Quotes." https://www.brainyquote.com/authors/justin-trudeau-quotes
+
 [^135]: BrainyQuote. "Justin Trudeau Quotes." https://www.brainyquote.com/authors/justin-trudeau-quotes
+
 [^136]: BrainyQuote. "Justin Trudeau Quotes." https://www.brainyquote.com/authors/justin-trudeau-quotes
+
 [^137]: BrainyQuote. "Justin Trudeau Quotes." https://www.brainyquote.com/authors/justin-trudeau-quotes

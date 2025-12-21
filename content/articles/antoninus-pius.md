@@ -167,30 +167,30 @@ Finally, some architectural historians argue his building program was less innov
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 86 CE | Born September 19 in Lanuvium, Latium |
-| 110-115 CE | Married Annia Galeria Faustina the Elder |
-| 120 CE | Served as consul |
-| c. 134-135 CE | Served as proconsul of Asia |
-| 135 CE | Daughter Aurelia Fadilla died |
-| Before 138 CE | Both sons died (Marcus Aurelius Fulvius Antoninus and Marcus Galerius Aurelius Antoninus) |
-| 138 CE, February 25 | Adopted by Emperor Hadrian; adopted Marcus Aurelius and Lucius Verus |
-| 138 CE, July 10 | Hadrian died; Antoninus became emperor |
-| 138 CE | Compelled Senate to deify Hadrian; received cognomen "Pius" |
-| 139 CE | Appointed Quintus Lollius Urbicus as governor of Britain |
-| 140 CE | Installed Sohaemus as client king of Armenia |
-| 140-141 CE | Wife Faustina the Elder died |
-| 141 CE | Began construction of Temple of Antoninus and Faustina |
-| 141 CE | Completed Temple of Venus and Roma |
-| 142 CE | Construction of Antonine Wall in Scotland began |
-| 145 CE | Dedicated Temple of Hadrian |
-| 148 CE | Celebrated 900th anniversary of Rome's founding with magnificent games |
-| c. 150 CE | Antonine Wall completed |
-| 155-157 CE | Revolt by Brigantes in Britain; Antonine Wall abandoned |
-| 161 CE, March 7 | Died at Lorium, Etruria at age 74 |
-| 161 CE | Marcus Aurelius and Lucius Verus became co-emperors |
-| 161 CE | Deified by the Senate; Temple rededicated to Antoninus and Faustina |
+| Year                | Event                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| 86 CE               | Born September 19 in Lanuvium, Latium                                                     |
+| 110-115 CE          | Married Annia Galeria Faustina the Elder                                                  |
+| 120 CE              | Served as consul                                                                          |
+| c. 134-135 CE       | Served as proconsul of Asia                                                               |
+| 135 CE              | Daughter Aurelia Fadilla died                                                             |
+| Before 138 CE       | Both sons died (Marcus Aurelius Fulvius Antoninus and Marcus Galerius Aurelius Antoninus) |
+| 138 CE, February 25 | Adopted by Emperor Hadrian; adopted Marcus Aurelius and Lucius Verus                      |
+| 138 CE, July 10     | Hadrian died; Antoninus became emperor                                                    |
+| 138 CE              | Compelled Senate to deify Hadrian; received cognomen "Pius"                               |
+| 139 CE              | Appointed Quintus Lollius Urbicus as governor of Britain                                  |
+| 140 CE              | Installed Sohaemus as client king of Armenia                                              |
+| 140-141 CE          | Wife Faustina the Elder died                                                              |
+| 141 CE              | Began construction of Temple of Antoninus and Faustina                                    |
+| 141 CE              | Completed Temple of Venus and Roma                                                        |
+| 142 CE              | Construction of Antonine Wall in Scotland began                                           |
+| 145 CE              | Dedicated Temple of Hadrian                                                               |
+| 148 CE              | Celebrated 900th anniversary of Rome's founding with magnificent games                    |
+| c. 150 CE           | Antonine Wall completed                                                                   |
+| 155-157 CE          | Revolt by Brigantes in Britain; Antonine Wall abandoned                                   |
+| 161 CE, March 7     | Died at Lorium, Etruria at age 74                                                         |
+| 161 CE              | Marcus Aurelius and Lucius Verus became co-emperors                                       |
+| 161 CE              | Deified by the Senate; Temple rededicated to Antoninus and Faustina                       |
 
 ---
 
@@ -211,130 +211,257 @@ Finally, some architectural historians argue his building program was less innov
 ## References
 
 [^1]: [Antoninus Pius - Wikipedia](https://en.wikipedia.org/wiki/Antoninus_Pius)
+
 [^2]: [Antoninus Pius | Reign of Peace, Stoic Philosopher, Builder | Britannica](https://www.britannica.com/biography/Antoninus-Pius)
+
 [^3]: [Antoninus Pius: Rule, Accomplishments, and Legacy | History Cooperative](https://historycooperative.org/roman-emperor-antoninus-pius/)
+
 [^4]: [Antoninus Pius - World History Encyclopedia](https://www.worldhistory.org/Antoninus_Pius/)
+
 [^5]: [Antoninus Pius | Biography, Rule & Accomplishments | Study.com](https://study.com/academy/lesson/antoninus-pius-facts-quotes-accomplishments.html)
+
 [^6]: [Antoninus Pius Biography - The Famous People](https://www.thefamouspeople.com/profiles/antoninus-pius-36785.php)
+
 [^7]: [Faustina the Elder - Wikipedia](https://en.wikipedia.org/wiki/Faustina_the_Elder)
+
 [^8]: [Ancient Rome Live | People & Personalities | Emperor Antoninus Pius](https://ancientromelive.org/antoninuspius/)
+
 [^9]: [Historia Augusta • Life of Antoninus Pius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Antoninus_Pius*.html)
+
 [^10]: [CATHOLIC ENCYCLOPEDIA: Antoninus Pius](https://www.newadvent.org/cathen/01586a.htm)
+
 [^11]: [Antoninus Pius - Roman Emperor | UNRV Roman History](https://www.unrv.com/five-good-emperors/antoninus-pius.php)
+
 [^12]: [Antoninus Pius | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/antoninus-pius)
+
 [^13]: [Life of Roman emperor Antoninus Pius | Britannica](https://www.britannica.com/summary/Antoninus-Pius)
+
 [^14]: [Antoninus Pius « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/biographies/antoninus-pius/)
+
 [^15]: [Antoninus Pius: Roman Emperor of Peace and Piety (8 Facts) | TheCollector](https://www.thecollector.com/emperor-antoninus-pius/)
+
 [^16]: [Emperor Antoninus Pius - Roman Empire](https://roman-empire.net/people/antoninus)
+
 [^17]: [Marcus Aurelius - Wikipedia](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+
 [^18]: [Antoninus Pius - Encyclopaedia Romana](https://penelope.uchicago.edu/encyclopaedia_romana/romanforum/antoninuspius.html)
+
 [^19]: [1877 years ago today: Hadrian adopted Pius - Mint Imperials](https://blogs.nottingham.ac.uk/mintimperials/2015/02/25/1877-years-ago-today-hadrian-adopted-pius-on-the-proviso-pius-adopted-marcus-aurelius-and-lucius-verus/)
+
 [^20]: [When Roman Emperor Hadrian died - Italian Art Society](https://www.italianartsociety.org/2018/02/when-roman-emperor-hadrian-died-on-10-july-138-he-left-as-did-his-predecessors-an-adopted-son-as-his-successor-antoninus-pius/)
+
 [^21]: [Marcus Aurelius – The Empire's Physician](https://exploregalen.com/project/marcus-aurelius)
+
 [^22]: [The Antonine Dynasty (138–193) - The Metropolitan Museum of Art](https://www.metmuseum.org/toah/hd/anto/hd_anto.htm)
+
 [^23]: [What was the impact of the Emperor Antonius Pius on the Roman Empire - DailyHistory.org](https://www.dailyhistory.org/What_was_the_impact_of_the_Emperor_Antonius_Pius_on_the_Roman_Empire)
+
 [^24]: [Antoninus Pius: The Peaceful Emperor of Rome - History and Artifacts](https://historyandartifacts.com/antoninus-pius-the-peaceful-emperor-of-rome/)
+
 [^25]: [Antonine Wall: Who Built It and Why? | History Cooperative](https://historycooperative.org/antonine-wall/)
+
 [^26]: [Antonine Wall - Wikipedia](https://en.wikipedia.org/wiki/Antonine_Wall)
+
 [^27]: [Antonine Wall: In-Depth | CyArk](https://www.cyark.org/projects/antonine-wall/in-depth)
+
 [^28]: [Antonine Wall - Encyclopaedia Romana](https://penelope.uchicago.edu/encyclopaedia_romana/britannia/miscellanea/antoninewall.html)
+
 [^29]: [Antonine Wall | History and Chronology](https://www.antoninewall.org/education-and-research/history-and-chronology-of-the-wall)
+
 [^30]: [Antonine Period (136–192AD) - Roman Britain](https://www.roman-britain.co.uk/roman-conquest-and-occupation-of-britain/antonine-period/)
+
 [^31]: [10 Antoninus Pius Accomplishments and Achievements - Have Fun With History](https://www.havefunwithhistory.com/antoninus-pius-accomplishments/)
+
 [^32]: [Emperor Antoninus Pius: Rome's Beacon of Stability and Progress | Medium](https://medium.com/@codexaugustorum/emperor-antoninus-pius-romes-beacon-of-stability-and-progress-e3c54baee9bf)
+
 [^33]: [Ancient Coins: The Saecular Games on Imperial Roman Coinage | NGC](https://www.ngccoin.com/news/article/2642/Imperial-Roman-Coinage/)
+
 [^34]: [the Roman secular games - Roman History Books](https://romanhistorybooks.typepad.com/roman_history_books_and_m/2006/04/the_roman_secul.html)
+
 [^35]: [Ancient Roman Coins - Rome at Its Finest Under Emperor Antoninus Pius](https://coinweek.com/ancient-roman-coins-rome-at-its-finest-under-emperor-antoninus-pius/)
+
 [^36]: [Antoninus Pius - Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095417886)
+
 [^37]: [BRUTALITY TOWARDS SLAVES - Academia.edu](https://www.academia.edu/114642380/BRUTALITY_TOWARDS_SLAVES_DELICTUAL_OR_CRIMINAL_RE_READING_A_RESCRIPT_OF_ANTONINUS_PIUS)
+
 [^38]: [Antoninus Pius: The Peaceful Emperor of Rome Who Fostered Prosperity](https://ancienthistoryguide.com/antoninus-pius-the-peaceful-emperor-of-rome/)
+
 [^39]: [Slave as a Subject of Legal Protection in the Roman Public](https://journals.umcs.pl/sil/article/download/10492/8508)
+
 [^40]: [Timeline: Antoninus Pius - World History Encyclopedia](https://www.worldhistory.org/timeline/Antoninus_Pius/)
+
 [^41]: [Antoninus Pius - Encyclopedia.com](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/antoninus-piusdeg)
+
 [^42]: [Justin Martyr and Antoninus Pius – The Ancient and Medieval World](https://kpu.pressbooks.pub/ancientandmedievalworld/chapter/justin/)
+
 [^43]: [Faustina I (c. 90–141 CE) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/faustina-i-c-90-141-ce)
+
 [^44]: [Faustina the Elder: Antoninus Pius controversial spouse](https://numiscurio.com/ruler/faustina-i-senior/)
+
 [^45]: [Faustina the elder - AcademiaLab](https://academia-lab.com/encyclopedia/faustina-the-elder/)
+
 [^46]: [Temple of Antoninus and Faustina - Wikipedia](https://en.wikipedia.org/wiki/Temple_of_Antoninus_and_Faustina)
+
 [^47]: [Ancient Rome Live | Monuments | Temple of Faustina and Antoninus Pius](https://ancientromelive.org/antoninus-et-faustina-templum-temple-of-faustina-and-antoninus-pius/)
+
 [^48]: [Temple of Hadrian - Wikipedia](https://en.wikipedia.org/wiki/Temple_of_Hadrian)
+
 [^49]: [Temple of Venus and Roma - Parco archeologico del Colosseo](https://colosseo.it/en/marvels/temple-of-venus-and-roma/)
+
 [^50]: [Buildings on Roman Coins](http://www.romancoins.info/VIC-Buildings.html)
+
 [^51]: [Was Antoninus Pius an ineffective (bad) emperor? | History Forum](https://historum.com/t/was-antoninus-pius-an-ineffective-bad-emperor.94094/)
+
 [^52]: [The Contribution of Antoninus Pius | Oxford Academic](https://academic.oup.com/book/42005/chapter/355543321)
+
 [^53]: [Principate of Antoninus Pius | Historical Atlas](https://omniatlas.com/maps/europe/1420426/)
+
 [^54]: [Roman–Parthian War of 161–166 - Wikipedia](https://en.wikipedia.org/wiki/Roman–Parthian_War_of_161–166)
+
 [^55]: [What was the impact of the Emperor Antonius Pius - Quora](https://www.quora.com/What-was-the-impact-of-the-Emperor-Antoninus-Pius-on-the-Roman-Empire)
+
 [^56]: [Romano-Parthian relations, 70 BC-AD 220](https://repository.lsu.edu/cgi/viewcontent.cgi?article=1831&context=gradschool_theses)
+
 [^57]: [History of Armenia by Vahan Kurkjian • Chapter 15](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Asia/Armenia/_Texts/KURARM/15*.html)
+
 [^58]: [Life in Roman Scotland along the Antonine Wall - Historic Environment Scotland](https://blog.historicenvironment.scot/2025/04/when-the-romans-were-here-life-along-the-antonine-wall/)
+
 [^59]: [The Antonine Wall: Archaeological Evidence - Roman Britain](https://www.roman-britain.org/the-antonine-wall-archaeological/)
+
 [^60]: [Introduction to Roman Britain | English Heritage](https://www.english-heritage.org.uk/learn/story-of-england/romans/romans-introduction/)
+
 [^61]: [Christian apologists and the Antonine emperors](https://www.dilass.unich.it/sites/st06/files/jones_2018_-_christian_apologists_and_the_antonines.pdf)
+
 [^62]: [Persecution of Christians in the Roman Empire - Wikipedia](https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire)
+
 [^63]: [Temple of Antoninus and Faustina (Rome, 141) | Structurae](https://structurae.net/en/structures/temple-of-antoninus-and-faustina)
+
 [^64]: [Temple of antoninus pius: discover ancient rome's legacy](https://classicworldcoins.ch/temple-of-antoninus-pius/)
+
 [^65]: [Antoninus and Faustina Temple - Atlas Obscura](https://www.atlasobscura.com/places/antoninus-and-faustina-temple)
+
 [^66]: [Temple of Hadrian - Madain Project](https://madainproject.com/temple_of_hadrian)
+
 [^67]: [ANTONINUS PIUS - JewishEncyclopedia.com](https://www.jewishencyclopedia.com/articles/1618-antoninus-pius-titus-aurelius-fulvus-boionius-arrius-antoninus)
+
 [^68]: [Antoninus Pius (Titus Aurelius) - 1901 Jewish Encyclopedia](https://www.studylight.org/encyclopedias/eng/tje/a/antoninus-in-the-talmud.html)
+
 [^69]: [The Emperor Antoninus Pius and the Christians | Cambridge Core](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4C08DC73F5859B6DD29EA8C89EB61844/S002204690005747Xa.pdf/emperor_antoninus_pius_and_the_christians.pdf)
+
 [^70]: [Meaning of Antoninus Pius in Christianity](https://www.wisdomlib.org/christianity/concept/antoninus-pius)
+
 [^71]: [Marcus Aurelius Antoninus°](https://www.jewishvirtuallibrary.org/marcus-aurelius-antoninus-x00b0)
+
 [^72]: [The Most Stoic Person In Marcus' Life - Daily Dad](https://dailydad.com/the-most-stoic-person-in-marcus-life/)
+
 [^73]: [The Most Stoic Person In Marcus' Life - Daily Stoic](https://dailystoic.com/the-most-stoic-person-in-marcus-life/)
+
 [^74]: [Marcus on the Emperor Antoninus Pius – Donald J. Robertson](https://donaldrobertson.name/2017/03/18/marcus-on-the-emperor-antoninus-pius/)
+
 [^75]: [Marcus Aurelius on Stoicism and Leadership](https://donaldrobertson.substack.com/p/marcus-aurelius-on-stoicism-and-leadership-9bcd3854834f)
+
 [^76]: [Marcus Aurelius: The Stoic Emperor](https://whatisstoicism.com/stoicism-resources/marcus-aurelius-the-stoic-emperor/)
+
 [^77]: [Marcus Aurelius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/marcus-aurelius/)
+
 [^78]: [Antoninus Pius Character Analysis in Meditations | LitCharts](https://www.litcharts.com/lit/meditations/characters/antoninus-pius)
+
 [^79]: [Marcus Aurelius on Hadrian | Medium](https://medium.com/stoicism-philosophy-as-a-way-of-life/marcus-aurelius-on-hadrian-896940a35c86)
+
 [^80]: [CATHOLIC ENCYCLOPEDIA: Marcus Aurelius Antoninus](https://www.newadvent.org/cathen/02109a.htm)
+
 [^81]: [Marcus Aurelius | Biography, Meditations, & Facts | Britannica](https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor)
+
 [^82]: [The 33 Lessons Emperor Antonius Pius Gave to Marcus Aurelius](https://medium.com/the-philosophical-inn/the-33-lessons-emperor-antonius-pius-gave-to-marcus-aurelius-651bebf5bd41)
+
 [^83]: [Antoninus Pius - Heritage History](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=antoninus)
+
 [^84]: [Antonius Pius – Amazing Bible Timeline](https://amazingbibletimeline.com/blog/antonius-pius/)
+
 [^85]: [Marble portrait of the emperor Antoninus Pius - The Met](https://www.metmuseum.org/art/collection/search/253386)
+
 [^86]: [Portrait of Antoninus Pius | Uffizi Galleries](https://www.uffizi.it/en/artworks/antoninus-pius-portrait1)
+
 [^87]: [Portrait head of Emperor Antoninus Pius - Bowdoin College](https://bcma.bowdoin.edu/antiquity/objects/1906-1/)
+
 [^88]: [Antoninus Pius - Museo Nacional del Prado](https://www.museodelprado.es/en/the-collection/art-work/antoninus-pius/9b6ba455-7075-4d00-9744-55101b71a625)
+
 [^89]: [Marble portrait bust of Antoninus Pius - The Met](https://www.metmuseum.org/art/collection/search/246984)
+
 [^90]: [Bust of Antoninus Pius - Uffizi](https://www.uffizi.it/en/artworks/bust-of-antoninus-pius)
+
 [^91]: [Antoninus Pius - Wikidata](https://www.wikidata.org/wiki/Q1429)
+
 [^92]: [Historia Augusta - Wikipedia](https://en.wikipedia.org/wiki/Historia_Augusta)
+
 [^93]: [History or Hoax: Dissecting the Historia Augusta | Ancient Origins](https://members.ancient-origins.net/articles/historia-augusta)
+
 [^94]: [Historia Augusta, Volume I | Loeb Classical Library](https://www.loebclassics.com/view/LCL139/1921/pb_LCL139.ix.xml)
+
 [^95]: [The Five Good Emperors: The High Point of the Roman Empire | History Cooperative](https://historycooperative.org/high-point-five-good-emperors/)
+
 [^96]: [LacusCurtius • Historia Augusta — Introduction](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Introduction*.html)
+
 [^97]: [Historia Augusta - Livius](https://www.livius.org/sources/content/historia-augusta/)
+
 [^98]: [Coin Relief 22 – Antoninus Pius](https://finds.org.uk/counties/blog/coin-relief-issue-twenty/)
+
 [^99]: [Secular Games - Encyclopedia Britannica 1911](https://theodora.com/encyclopedia/s/secular_games.html)
+
 [^100]: [Antoninus Pius facts for kids](https://kids.kiddle.co/Antoninus_Pius)
+
 [^101]: [Rex Armeniis Datus. Nero, Parthia and the Armenian question](https://www.researchgate.net/publication/337607930_Rex_Armeniis_Datus_Nero_Parthia_and_the_Armenian_question)
+
 [^102]: [Ancient Great Power Conflict: A Roman Counterpoint to Thucydides](https://smallwarsjournal.com/2025/02/11/ancient-great-power-conflict-a-roman-counterpoint-to-thucydides/)
+
 [^103]: [Augustus' Eastern policy - Wikipedia](https://en.wikipedia.org/wiki/Augustus'_Eastern_policy)
+
 [^104]: [Nero's Eastern Policy and the Peace of Rhandeia](https://digitalcommons.library.uab.edu/cgi/viewcontent.cgi?article=1084&context=etd-collection)
+
 [^105]: [Historia Augusta, Volume I | Amazon UK](https://www.amazon.co.uk/Historia-Augusta-Antoninus-Aurelius-Commodus/dp/0674991540)
+
 [^106]: [LacusCurtius • Temple of Augustus](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Templum_Augusti.html)
+
 [^107]: [Antoninus Pius | Biography, Rule & Accomplishments | Study.com](https://study.com/academy/lesson/antoninus-pius-facts-quotes-accomplishments.html)
+
 [^108]: [Antoninus Pius Quotes | Search Quotes](https://www.searchquotes.com/search/Antoninus_Pius/)
+
 [^109]: [10 Powerful Quotes from "The Emperor's Handbook"](https://alexandbooks.com/archive/2018/1/13/10-powerful-quotes-from-the-emperors-handbook)
+
 [^110]: [Antoninus Pius Quotes | Goodreads](https://www.goodreads.com/quotes/tag/antoninus-pius)
+
 [^111]: [Quotes containing the term: antoninus pius](https://www.quotes.net/quotations/antoninus%20pius)
+
 [^112]: [Top 11 Quotes About Antoninus Pius](https://quotestats.com/topic/quotes-about-antoninus-pius/)
+
 [^113]: [Marcus Aurelius Antoninus Quotes](https://www.quotes.net/authors/marcus+aurelius+antoninus)
+
 [^114]: [Antoninus Pius - Wikipedia](https://en.wikipedia.org/wiki/Antoninus_Pius)
+
 [^115]: [Antoninus Pius | Reign of Peace, Stoic Philosopher, Builder | Britannica](https://www.britannica.com/biography/Antoninus-Pius)
+
 [^116]: [Antoninus Pius: Rule, Accomplishments, and Legacy | History Cooperative](https://historycooperative.org/roman-emperor-antoninus-pius/)
+
 [^117]: [Antoninus Pius - World History Encyclopedia](https://www.worldhistory.org/Antoninus_Pius/)
+
 [^118]: [Antoninus Pius | Biography, Rule & Accomplishments | Study.com](https://study.com/academy/lesson/antoninus-pius-facts-quotes-accomplishments.html)
+
 [^119]: [Ancient Rome Live | People & Personalities | Emperor Antoninus Pius](https://ancientromelive.org/antoninuspius/)
+
 [^120]: [Historia Augusta • Life of Antoninus Pius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Antoninus_Pius*.html)
+
 [^121]: [CATHOLIC ENCYCLOPEDIA: Antoninus Pius](https://www.newadvent.org/cathen/01586a.htm)
+
 [^122]: [Antoninus Pius - Roman Emperor | UNRV Roman History](https://www.unrv.com/five-good-emperors/antoninus-pius.php)
+
 [^123]: [Antoninus Pius | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/antoninus-pius)
+
 [^124]: [Life of Roman emperor Antoninus Pius | Britannica](https://www.britannica.com/summary/Antoninus-Pius)
+
 [^125]: [The Most Stoic Person In Marcus' Life - Daily Stoic](https://dailystoic.com/the-most-stoic-person-in-marcus-life/)
+
 [^126]: [Antoninus Pius - Heritage History](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=antoninus)
+
 [^127]: [Marcus on the Emperor Antoninus Pius – Donald J. Robertson](https://donaldrobertson.name/2017/03/18/marcus-on-the-emperor-antoninus-pius/)
+
 [^128]: [The Most Stoic Person In Marcus' Life - Daily Dad](https://dailydad.com/the-most-stoic-person-in-marcus-life/)

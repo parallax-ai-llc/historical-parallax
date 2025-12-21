@@ -119,7 +119,7 @@ Romulus Augustulus is typically regarded as the last Western Roman emperor, his 
 
 The symbolic importance of Romulus's name cannot be overstated. The arc of Roman history seems encapsulated in the parallel between the first Romulus, the legendary founder of Rome in 753 BCE, and the last Romulus, the forlorn teenager stripped of his title in 476 CE.[^71] Similarly, he bore the name Augustus, recalling the first Roman emperor who established the imperial system in 27 BCE. This coincidence of names gave his deposition a poetic quality that historians and writers have emphasized for over fifteen hundred years.[^72]
 
-However, the neatness of this narrative has been challenged by modern scholarship. The "fall of Rome" has been debated by historians for centuries, from Edward Gibbon's monumental work *The History of the Decline and Fall of the Roman Empire*, published in the late eighteenth century, to contemporary scholarship that questions the very notion of a "fall."[^73] Some historians argue that 476 CE did not truly mark the empire's collapse, as many Roman institutions continued under Odoacer and later under Ostrogothic rule in Italy.[^74] The Roman Senate still met, Roman law was still enforced, Latin was still the language of administration, and much of the old aristocracy retained their wealth and influence.
+However, the neatness of this narrative has been challenged by modern scholarship. The "fall of Rome" has been debated by historians for centuries, from Edward Gibbon's monumental work _The History of the Decline and Fall of the Roman Empire_, published in the late eighteenth century, to contemporary scholarship that questions the very notion of a "fall."[^73] Some historians argue that 476 CE did not truly mark the empire's collapse, as many Roman institutions continued under Odoacer and later under Ostrogothic rule in Italy.[^74] The Roman Senate still met, Roman law was still enforced, Latin was still the language of administration, and much of the old aristocracy retained their wealth and influence.
 
 The question of whether Romulus or Julius Nepos should be considered the true "last emperor" remains a subject of scholarly debate. The legitimate Western emperor Nepos not only continued to rule in Dalmatia until his assassination in 480, but even had coins issued in his name in Odoacer's Italy, and maintained hopes of recovering his throne until his death.[^75] Some historians consider Nepos to more rightly deserve the title "last Western Roman emperor" given his legitimate appointment, Eastern recognition, and continued rule for four years after Romulus's deposition.[^76]
 
@@ -169,27 +169,27 @@ The debate over Romulus's legitimacy and significance continues among scholars, 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 460-465 | Birth of Romulus in Pannonia, son of Orestes and grandson of the nobleman Romulus of Poetovio[^96] |
-| 449 | Father Orestes serves as secretary to Attila the Hun, sent twice to Constantinople as ambassador[^97] |
-| 453 | Death of Attila the Hun; Orestes subsequently enters Roman service[^98] |
-| 474 | Julius Nepos becomes Western Roman Emperor with Eastern support[^99] |
-| 475 | Orestes appointed magister militum by Emperor Julius Nepos[^100] |
-| Aug 28, 475 | Orestes leads military coup, driving Julius Nepos from Italy; Nepos flees to Dalmatia[^101] |
+| Year        | Event                                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| c. 460-465  | Birth of Romulus in Pannonia, son of Orestes and grandson of the nobleman Romulus of Poetovio[^96]        |
+| 449         | Father Orestes serves as secretary to Attila the Hun, sent twice to Constantinople as ambassador[^97]     |
+| 453         | Death of Attila the Hun; Orestes subsequently enters Roman service[^98]                                   |
+| 474         | Julius Nepos becomes Western Roman Emperor with Eastern support[^99]                                      |
+| 475         | Orestes appointed magister militum by Emperor Julius Nepos[^100]                                          |
+| Aug 28, 475 | Orestes leads military coup, driving Julius Nepos from Italy; Nepos flees to Dalmatia[^101]               |
 | Oct 31, 475 | Orestes proclaims his son Romulus as Western Roman Emperor; beginning of Romulus Augustulus's reign[^102] |
-| 476 | Barbarian foederati petition for land grants in Italy; Orestes refuses their request[^103] |
-| Aug 23, 476 | Germanic foederati (Scirians, Heruli, and others) proclaim Odoacer as rex (king)[^104] |
-| Aug 28, 476 | Odoacer defeats and executes Orestes at the Battle of Ticinum (Pavia)[^105] |
-| Sep 4, 476 | Odoacer captures Ravenna; Romulus Augustulus compelled to abdicate before the Senate[^106] |
-| Sep 4, 476 | Traditional date marking the fall of the Western Roman Empire[^107] |
-| 476 | Romulus granted pension of 6,000 solidi and sent to Castellum Lucullanum in Campania[^108] |
-| 480 | Julius Nepos, still claiming the Western imperial title, assassinated in Dalmatia[^109] |
-| c. 480-490 | Possible involvement in founding a monastery at Castellum Lucullanum dedicated to St. Severinus[^110] |
-| 489 | Theodoric the Ostrogoth invades Italy at the behest of Eastern Emperor Zeno[^111] |
-| 493 | Theodoric defeats and murders Odoacer, becoming King of Italy[^112] |
-| 507-511 | Possible last reference to Romulus in a letter from Theodoric concerning a pension[^113] |
-| c. 511-530 | Estimated death of Romulus Augustulus, likely before mid-40s; exact date and circumstances unknown[^114] |
+| 476         | Barbarian foederati petition for land grants in Italy; Orestes refuses their request[^103]                |
+| Aug 23, 476 | Germanic foederati (Scirians, Heruli, and others) proclaim Odoacer as rex (king)[^104]                    |
+| Aug 28, 476 | Odoacer defeats and executes Orestes at the Battle of Ticinum (Pavia)[^105]                               |
+| Sep 4, 476  | Odoacer captures Ravenna; Romulus Augustulus compelled to abdicate before the Senate[^106]                |
+| Sep 4, 476  | Traditional date marking the fall of the Western Roman Empire[^107]                                       |
+| 476         | Romulus granted pension of 6,000 solidi and sent to Castellum Lucullanum in Campania[^108]                |
+| 480         | Julius Nepos, still claiming the Western imperial title, assassinated in Dalmatia[^109]                   |
+| c. 480-490  | Possible involvement in founding a monastery at Castellum Lucullanum dedicated to St. Severinus[^110]     |
+| 489         | Theodoric the Ostrogoth invades Italy at the behest of Eastern Emperor Zeno[^111]                         |
+| 493         | Theodoric defeats and murders Odoacer, becoming King of Italy[^112]                                       |
+| 507-511     | Possible last reference to Romulus in a letter from Theodoric concerning a pension[^113]                  |
+| c. 511-530  | Estimated death of Romulus Augustulus, likely before mid-40s; exact date and circumstances unknown[^114]  |
 
 ---
 
@@ -203,8 +203,8 @@ The silence of the sources regarding Romulus's own voice is itself historically 
 
 While we have no quotes from Romulus himself, we do have significant commentary about him from near-contemporary historians:
 
-> "The western Empire perished with this Augustulus." 
-> — Marcellinus Comes, *Chronicon* (6th century)[^117]
+> "The western Empire perished with this Augustulus."
+> — Marcellinus Comes, _Chronicon_ (6th century)[^117]
 
 This terse assessment by the chronicler Marcellinus Comes established the historiographical tradition of viewing Romulus as the endpoint of the Western Roman Empire, a view that has dominated historical understanding for over fifteen centuries.
 

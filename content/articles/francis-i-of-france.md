@@ -249,32 +249,32 @@ Finally, critics note that Francis's neglect of France in modern historical memo
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1494 | Born on September 12 at the Château de Cognac[^137] |
-| 1496 | Francis's father, Charles of Angoulême, died; Louise of Savoy became his guardian[^138] |
-| 1498 | Became Duke of Valois and heir presumptive to the throne after Charles VIII's death[^139] |
-| 1505 | Betrothed to Claude, daughter of King Louis XII[^140] |
-| 1514 | Married Claude of France on May 18 at Saint-Germain-en-Laye[^141] |
-| 1515 | Succeeded to the throne on January 1; crowned on January 25 at Reims Cathedral[^142] |
-| 1515 | Won decisive victory at the Battle of Marignano (September 13-14)[^143] |
-| 1516 | Signed the Concordat of Bologna with Pope Leo X[^144] |
-| 1516 | Invited Leonardo da Vinci to France[^145] |
-| 1519 | Leonardo da Vinci died at Clos Lucé on May 2[^146] |
-| 1519 | Failed to be elected Holy Roman Emperor; Charles V won the election[^147] |
-| 1520 | Met Henry VIII of England at the Field of the Cloth of Gold[^148] |
-| 1524 | Queen Claude died on July 20[^149] |
-| 1525 | Suffered catastrophic defeat and capture at the Battle of Pavia (February 24)[^150] |
-| 1526 | Released from captivity in Madrid after signing the Treaty of Madrid[^151] |
-| 1526 | Repudiated the Treaty of Madrid upon return to France[^152] |
-| 1530 | Married Eleanor of Austria on July 4[^153] |
-| 1530 | Created the foundation of what became the Collège de France[^154] |
-| 1531 | Louise of Savoy, Francis's mother, died[^155] |
-| 1534 | Affair of the Placards led to increased persecution of Protestants[^156] |
-| 1536 | Francis's eldest son and heir died suddenly[^157] |
+| Year | Event                                                                                               |
+| ---- | --------------------------------------------------------------------------------------------------- |
+| 1494 | Born on September 12 at the Château de Cognac[^137]                                                 |
+| 1496 | Francis's father, Charles of Angoulême, died; Louise of Savoy became his guardian[^138]             |
+| 1498 | Became Duke of Valois and heir presumptive to the throne after Charles VIII's death[^139]           |
+| 1505 | Betrothed to Claude, daughter of King Louis XII[^140]                                               |
+| 1514 | Married Claude of France on May 18 at Saint-Germain-en-Laye[^141]                                   |
+| 1515 | Succeeded to the throne on January 1; crowned on January 25 at Reims Cathedral[^142]                |
+| 1515 | Won decisive victory at the Battle of Marignano (September 13-14)[^143]                             |
+| 1516 | Signed the Concordat of Bologna with Pope Leo X[^144]                                               |
+| 1516 | Invited Leonardo da Vinci to France[^145]                                                           |
+| 1519 | Leonardo da Vinci died at Clos Lucé on May 2[^146]                                                  |
+| 1519 | Failed to be elected Holy Roman Emperor; Charles V won the election[^147]                           |
+| 1520 | Met Henry VIII of England at the Field of the Cloth of Gold[^148]                                   |
+| 1524 | Queen Claude died on July 20[^149]                                                                  |
+| 1525 | Suffered catastrophic defeat and capture at the Battle of Pavia (February 24)[^150]                 |
+| 1526 | Released from captivity in Madrid after signing the Treaty of Madrid[^151]                          |
+| 1526 | Repudiated the Treaty of Madrid upon return to France[^152]                                         |
+| 1530 | Married Eleanor of Austria on July 4[^153]                                                          |
+| 1530 | Created the foundation of what became the Collège de France[^154]                                   |
+| 1531 | Louise of Savoy, Francis's mother, died[^155]                                                       |
+| 1534 | Affair of the Placards led to increased persecution of Protestants[^156]                            |
+| 1536 | Francis's eldest son and heir died suddenly[^157]                                                   |
 | 1539 | Issued the Ordinance of Villers-Cotterêts, making French the official administrative language[^158] |
-| 1545 | Massacre of Mérindol occurred under Francis's orders[^159] |
-| 1547 | Died on March 31 at the Château de Rambouillet; succeeded by his son Henry II[^160] |
+| 1545 | Massacre of Mérindol occurred under Francis's orders[^159]                                          |
+| 1547 | Died on March 31 at the Château de Rambouillet; succeeded by his son Henry II[^160]                 |
 
 ---
 
@@ -295,167 +295,331 @@ Finally, critics note that Francis's neglect of France in modern historical memo
 ## References
 
 [^1]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^2]: [Francis I | King of France & Renaissance Monarch | Britannica](https://www.britannica.com/biography/Francis-I-king-of-France)
+
 [^3]: [Francis I: Renaissance King of France (1494 - 1547)](https://snippetsofparis.com/francis-i-france/)
+
 [^4]: [Battle of Pavia - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Pavia)
+
 [^5]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^6]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^7]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^8]: [Luminarium Encyclopedia: Francis I, King of France (1494-1547)](https://www.luminarium.org/encyclopedia/francis1.htm)
+
 [^9]: [Francis I Of France Facts For Kids | AstroSafe Search](https://www.thefamouspeople.com/profiles/francis-i-of-france-8474.php)
+
 [^10]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^11]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^12]: [Francis I of France facts for kids](https://kids.kiddle.co/Francis_I_of_France)
+
 [^13]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^14]: [Francis I Of France Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/francis-i-of-france-8474.php)
+
 [^15]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^16]: [Francis I Of France Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/francis-i-of-france-8474.php)
+
 [^17]: [Francis I Of France Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/francis-i-of-france-8474.php)
+
 [^18]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^19]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^20]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^21]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^22]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^23]: [Francis I of France facts for kids](https://kids.kiddle.co/Francis_I_of_France)
+
 [^24]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^25]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^26]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^27]: [Francis I | King of France & Renaissance Monarch | Britannica](https://www.britannica.com/biography/Francis-I-king-of-France)
+
 [^28]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^29]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^30]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^31]: [Francis I's First Invasion of Italy, 1515-16](https://www.historyofwar.org/articles/wars_francis_I_first_italy_1515.html)
+
 [^32]: [Battle of Marignano - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Marignano)
+
 [^33]: [Battle of Marignano - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Marignano)
+
 [^34]: [Battle of Marignano - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Marignano)
+
 [^35]: [Marignano, battle of | Encyclopedia.com](https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/marignano-battle)
+
 [^36]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^37]: [Battle of Marignano - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Marignano)
+
 [^38]: [Battle of Marignano | Swiss, French, Victory | Britannica](https://www.britannica.com/event/Battle-of-Marignano)
+
 [^39]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^40]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^41]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^42]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^43]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^44]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^45]: [Leonardo and the King of France](http://www.muhammadanism.org/Gospel/Stories/da_vinci_1.htm)
+
 [^46]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^47]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^48]: [Francis I – Warrior King and Patron of Art - Medieval Histories](https://www.medieval.eu/francis-i-warrior-king-and-patron-of-art/)
+
 [^49]: [Francis I: Renaissance King of France (1494 - 1547)](https://snippetsofparis.com/francis-i-france/)
+
 [^50]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^51]: [Francis I: Renaissance King of France (1494 - 1547)](https://snippetsofparis.com/francis-i-france/)
+
 [^52]: [Francis I: Renaissance King of France (1494 - 1547)](https://snippetsofparis.com/francis-i-france/)
+
 [^53]: [Francis I – Warrior King and Patron of Art - Medieval Histories](https://www.medieval.eu/francis-i-warrior-king-and-patron-of-art/)
+
 [^54]: [Francis I: Renaissance King of France (1494 - 1547)](https://snippetsofparis.com/francis-i-france/)
+
 [^55]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^56]: [Francis I: His Reign and Accomplishments: [Essay Example], 979 words](https://gradesfixer.com/free-essay-examples/francis-i-his-reign-and-accomplishments/)
+
 [^57]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^58]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^59]: [Francis I | King of France & Renaissance Monarch | Britannica](https://www.britannica.com/biography/Francis-I-king-of-France)
+
 [^60]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^61]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^62]: [Francis I | King of France & Renaissance Monarch | Britannica](https://www.britannica.com/biography/Francis-I-king-of-France)
+
 [^63]: [Battle of Marignano - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Marignano)
+
 [^64]: [Battle of Pavia - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Pavia)
+
 [^65]: [Slaughter in the Park: The Battle of Pavia - Warfare History Network](https://warfarehistorynetwork.com/article/slaughter-in-the-park-the-battle-of-pavia/)
+
 [^66]: [Battle of Pavia - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Pavia)
+
 [^67]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^68]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^69]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^70]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^71]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^72]: ['Blood enmity' with France: Charles V against Francis I | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/blood-enmity-france-charles-v-against-francis-i)
+
 [^73]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^74]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^75]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^76]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^77]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^78]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^79]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^80]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^81]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^82]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^83]: [Scandalous Facts About King Francis I, The Vengeful King](https://www.factinate.com/people/41-raunchy-facts-about-king-francis-i-father-of-the-french-renaissance)
+
 [^84]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^85]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^86]: [Francis I of France](https://www.geni.com/people/Francis-I-of-France/4695498)
+
 [^87]: [François I, King of France | Unofficial Royalty](https://www.unofficialroyalty.com/francois-i-king-of-france/)
+
 [^88]: [François I, King of France | Unofficial Royalty](https://www.unofficialroyalty.com/francois-i-king-of-france/)
+
 [^89]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^90]: [Luminarium Encyclopedia: Francis I, King of France (1494-1547)](https://www.luminarium.org/encyclopedia/francis1.htm)
+
 [^91]: [Scandalous Facts About King Francis I, The Vengeful King](https://www.factinate.com/people/41-raunchy-facts-about-king-francis-i-father-of-the-french-renaissance)
+
 [^92]: [Scandalous Facts About King Francis I, The Vengeful King](https://www.factinate.com/people/41-raunchy-facts-about-king-francis-i-father-of-the-french-renaissance)
+
 [^93]: [Scandalous Facts About King Francis I, The Vengeful King](https://www.factinate.com/people/41-raunchy-facts-about-king-francis-i-father-of-the-french-renaissance)
+
 [^94]: [Scandalous Facts About King Francis I, The Vengeful King](https://www.factinate.com/people/41-raunchy-facts-about-king-francis-i-father-of-the-french-renaissance)
+
 [^95]: [Scandalous Facts About King Francis I, The Vengeful King](https://www.factinate.com/people/41-raunchy-facts-about-king-francis-i-father-of-the-french-renaissance)
+
 [^96]: [Scandalous Facts About King Francis I, The Vengeful King](https://www.factinate.com/people/41-raunchy-facts-about-king-francis-i-father-of-the-french-renaissance)
+
 [^97]: [Francis I of France](https://www.geni.com/people/Francis-I-of-France/4695498)
+
 [^98]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^99]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^100]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^101]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^102]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^103]: [Francis I: Renaissance King of France (1494 - 1547)](https://snippetsofparis.com/francis-i-france/)
+
 [^104]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^105]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^106]: [Francis I | King of France & Renaissance Monarch | Britannica](https://www.britannica.com/biography/Francis-I-king-of-France)
+
 [^107]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^108]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^109]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^110]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^111]: [Battle of Pavia - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Pavia)
+
 [^112]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^113]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^114]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^115]: [Francis I: Renaissance King of France (1494 - 1547)](https://snippetsofparis.com/francis-i-france/)
+
 [^116]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^117]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^118]: [A Model of a Humanist, Cultivated Prince: King Francis I of France | EHNE](https://ehne.fr/en/encyclopedia/themes/humanism-enlightenment/humanism-rules/a-model-a-humanist-cultivated-prince-king-francis-i-france)
+
 [^119]: [Francis I 1494–1547 King of France | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/francis-i-1494-1547-king-france)
+
 [^120]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^121]: [Francis I, King of France - Renaissance and Reformation - Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780195399301/obo-9780195399301-0081.xml)
+
 [^122]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^123]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^124]: [Battle of Marignano - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Marignano)
+
 [^125]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^126]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^127]: [Francis I – Warrior King and Patron of Art - Medieval Histories](https://www.medieval.eu/francis-i-warrior-king-and-patron-of-art/)
+
 [^128]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^129]: [Battle of Pavia - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Pavia)
+
 [^130]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^131]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^132]: [Luminarium Encyclopedia: Francis I, King of France (1494-1547)](https://www.luminarium.org/encyclopedia/francis1.htm)
+
 [^133]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^134]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^135]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^136]: [Francis I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/francis-i)
+
 [^137]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^138]: [Francis I Of France Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/francis-i-of-france-8474.php)
+
 [^139]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^140]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^141]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^142]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^143]: [Battle of Marignano - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Marignano)
+
 [^144]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^145]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^146]: [Leonardo da Vinci and France — Google Arts & Culture](https://artsandculture.google.com/story/leonardo-da-vinci-and-france-château-du-clos-lucé/zwURhU_1pPuSIg?hl=en)
+
 [^147]: [Francis I of France - Wikipedia](https://en.wikipedia.org/wiki/Francis_I_of_France)
+
 [^148]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^149]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^150]: [Battle of Pavia - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Pavia)
+
 [^151]: [Francis I of France - World History Edu](https://worldhistoryedu.com/francis-i-of-france/)
+
 [^152]: [Francis I (france) | Encyclopedia.com](https://www.encyclopedia.com/people/history/austria-and-hungary-history-biographies/francis-i-france)
+
 [^153]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^154]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^155]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^156]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^157]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^158]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^159]: [King Francis I of France Timeline 1494-1547 | TheTimelineGeek](https://www.thetimelinegeek.com/king-francis-i-of-france-1494-1547/)
+
 [^160]: [Francis I | King of France & Renaissance Monarch | Britannica](https://www.britannica.com/biography/Francis-I-king-of-France)
+
 [^161]: [TOP 6 QUOTES BY FRANCIS I OF FRANCE | A-Z Quotes](https://www.azquotes.com/author/55534-Francis_I_of_France)
+
 [^162]: [TOP 6 QUOTES BY FRANCIS I OF FRANCE | A-Z Quotes](https://www.azquotes.com/author/55534-Francis_I_of_France)
+
 [^163]: [TOP 6 QUOTES BY FRANCIS I OF FRANCE | A-Z Quotes](https://www.azquotes.com/author/55534-Francis_I_of_France)
+
 [^164]: [Francis I of France - Wikiquote](https://en.wikiquote.org/wiki/Francis_I_of_France)
+
 [^165]: [TOP 6 QUOTES BY FRANCIS I OF FRANCE | A-Z Quotes](https://www.azquotes.com/author/55534-Francis_I_of_France)

@@ -261,49 +261,49 @@ In summary, critical assessments portray Rajiv Gandhi as a well-meaning but ulti
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1944 | Born on August 20 in Bombay (Mumbai), India |
-| 1951 | Admitted to Shiv Niketan school with brother Sanjay |
-| 1954 | Enrolled at The Doon School, Dehradun |
-| 1961 | Left Doon School with second-class certificate |
-| 1962 | Admitted to Trinity College, Cambridge |
-| 1965 | Met Sonia Maino in Cambridge; left Trinity without degree |
+| Year | Event                                                                                                       |
+| ---- | ----------------------------------------------------------------------------------------------------------- |
+| 1944 | Born on August 20 in Bombay (Mumbai), India                                                                 |
+| 1951 | Admitted to Shiv Niketan school with brother Sanjay                                                         |
+| 1954 | Enrolled at The Doon School, Dehradun                                                                       |
+| 1961 | Left Doon School with second-class certificate                                                              |
+| 1962 | Admitted to Trinity College, Cambridge                                                                      |
+| 1965 | Met Sonia Maino in Cambridge; left Trinity without degree                                                   |
 | 1966 | Began mechanical engineering course at Imperial College London; returned to India without completing degree |
-| 1968 | Married Sonia Maino on February 25; joined Indian Airlines as commercial pilot |
-| 1970 | Son Rahul Gandhi born on June 19 |
-| 1972 | Daughter Priyanka Gandhi born on January 12 |
-| 1980 | Brother Sanjay Gandhi died in plane crash on June 23 |
-| 1981 | Won by-election to Parliament from Amethi constituency; resigned from Indian Airlines |
-| 1982 | Made general secretary of Congress Party; organized Asian Games |
-| 1984 | Mother Indira Gandhi assassinated on October 31; sworn in as Prime Minister same day |
-| 1984 | Anti-Sikh riots occurred from October 31 to November 4, killing nearly 3,000 Sikhs |
-| 1984 | Congress Party won landslide victory in December elections with 414 seats |
-| 1985 | Passed anti-defection law in January |
-| 1985 | Signed Punjab Accord on July 25 |
-| 1985 | Announced Assam Accord on August 15 |
-| 1985 | Shah Bano Supreme Court judgment delivered |
-| 1986 | Passed Muslim Women (Protection of Rights on Divorce) Act |
-| 1986 | Environment Protection Act received President's assent on May 23 |
-| 1986 | Created MTNL (Mahanagar Telephone Nigam Limited) |
-| 1986 | Announced National Policy on Education |
-| 1986 | Signed Delhi Declaration with Mikhail Gorbachev on November 27 for nuclear-weapon-free world |
-| 1987 | Signed Indo-Sri Lanka Peace Accord on July 29 |
-| 1987 | Bofors scandal allegations surfaced in April |
-| 1987 | Deployed Indian Peace Keeping Force (IPKF) to Sri Lanka |
-| 1987 | India's first Water Policy adopted |
-| 1987 | Mizoram became a state on February 20 |
-| 1988 | Announced new industrial policy on June 2 for economic liberalization |
-| 1988 | New Forest Policy framed emphasizing sustainable utilization |
-| 1989 | Introduced Constitution (64th Amendment) Bill on May 15 for Panchayati Raj |
-| 1989 | Congress Party defeated in November parliamentary elections |
-| 1989 | Resigned as Prime Minister; agreed to IPKF withdrawal in August |
-| 1990 | IPKF withdrawal from Sri Lanka completed |
-| 1991 | Assassinated by LTTE suicide bomber on May 21 at Sriperumbudur, Tamil Nadu |
-| 1991 | Posthumously awarded Bharat Ratna, India's highest civilian honor |
-| 1992 | Rajiv Gandhi National Sadbhavana Award instituted |
-| 1992 | 73rd Constitutional Amendment Act passed, fulfilling his Panchayati Raj vision |
-| 2004 | Delhi High Court posthumously cleared him of corruption charges in Bofors case |
+| 1968 | Married Sonia Maino on February 25; joined Indian Airlines as commercial pilot                              |
+| 1970 | Son Rahul Gandhi born on June 19                                                                            |
+| 1972 | Daughter Priyanka Gandhi born on January 12                                                                 |
+| 1980 | Brother Sanjay Gandhi died in plane crash on June 23                                                        |
+| 1981 | Won by-election to Parliament from Amethi constituency; resigned from Indian Airlines                       |
+| 1982 | Made general secretary of Congress Party; organized Asian Games                                             |
+| 1984 | Mother Indira Gandhi assassinated on October 31; sworn in as Prime Minister same day                        |
+| 1984 | Anti-Sikh riots occurred from October 31 to November 4, killing nearly 3,000 Sikhs                          |
+| 1984 | Congress Party won landslide victory in December elections with 414 seats                                   |
+| 1985 | Passed anti-defection law in January                                                                        |
+| 1985 | Signed Punjab Accord on July 25                                                                             |
+| 1985 | Announced Assam Accord on August 15                                                                         |
+| 1985 | Shah Bano Supreme Court judgment delivered                                                                  |
+| 1986 | Passed Muslim Women (Protection of Rights on Divorce) Act                                                   |
+| 1986 | Environment Protection Act received President's assent on May 23                                            |
+| 1986 | Created MTNL (Mahanagar Telephone Nigam Limited)                                                            |
+| 1986 | Announced National Policy on Education                                                                      |
+| 1986 | Signed Delhi Declaration with Mikhail Gorbachev on November 27 for nuclear-weapon-free world                |
+| 1987 | Signed Indo-Sri Lanka Peace Accord on July 29                                                               |
+| 1987 | Bofors scandal allegations surfaced in April                                                                |
+| 1987 | Deployed Indian Peace Keeping Force (IPKF) to Sri Lanka                                                     |
+| 1987 | India's first Water Policy adopted                                                                          |
+| 1987 | Mizoram became a state on February 20                                                                       |
+| 1988 | Announced new industrial policy on June 2 for economic liberalization                                       |
+| 1988 | New Forest Policy framed emphasizing sustainable utilization                                                |
+| 1989 | Introduced Constitution (64th Amendment) Bill on May 15 for Panchayati Raj                                  |
+| 1989 | Congress Party defeated in November parliamentary elections                                                 |
+| 1989 | Resigned as Prime Minister; agreed to IPKF withdrawal in August                                             |
+| 1990 | IPKF withdrawal from Sri Lanka completed                                                                    |
+| 1991 | Assassinated by LTTE suicide bomber on May 21 at Sriperumbudur, Tamil Nadu                                  |
+| 1991 | Posthumously awarded Bharat Ratna, India's highest civilian honor                                           |
+| 1992 | Rajiv Gandhi National Sadbhavana Award instituted                                                           |
+| 1992 | 73rd Constitutional Amendment Act passed, fulfilling his Panchayati Raj vision                              |
+| 2004 | Delhi High Court posthumously cleared him of corruption charges in Bofors case                              |
 
 ---
 
@@ -328,122 +328,241 @@ In summary, critical assessments portray Rajiv Gandhi as a well-meaning but ulti
 ## References
 
 [^1]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^2]: [Rajiv Gandhi | Britannica](https://www.britannica.com/biography/Rajiv-Gandhi)
+
 [^3]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^4]: [Shri Rajiv Gandhi | Prime Minister of India](https://www.pmindia.gov.in/en/former_pm/श्री-राजीव-गांधी/)
+
 [^5]: [Rajiv Gandhi Biography - IMDb](https://www.imdb.com/name/nm0304162/bio/)
+
 [^6]: [Rajiv Gandhi | Encyclopedia.com](https://www.encyclopedia.com/people/history/south-asian-history-biographies/rajiv-gandhi)
+
 [^7]: [SHRI RAJIV GANDHI - Indian National Congress](https://inc.in/our-inspiration/shri-rajiv-gandhi)
+
 [^8]: [Rajiv Gandhi - Students | Britannica Kids](https://kids.britannica.com/students/article/Rajiv-Gandhi/311363)
+
 [^9]: [Rajiv Gandhi Biography: 81st Birth Anniversary - StudyIQ](https://www.studyiq.com/articles/rajiv-gandhi-biography/)
+
 [^10]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^11]: [Rajiv Gandhi earned Rs 5,000 monthly as pilot - Aviation India](https://www.aviationindia.net/2020/05/rajiv-gandhi-earned-rs-5000-monthly-as.html)
+
 [^12]: [Rajiv Gandhi: Pilot To Prime Minister - Live History India](https://www.peepultree.world/livehistoryindia/story/people/rajiv-gandhi-pilot-to-prime-minister)
+
 [^13]: [Sonia Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Sonia_Gandhi)
+
 [^14]: [Sonia Gandhi Biography - Notable Biographies](https://www.notablebiographies.com/news/Ca-Ge/Gandhi-Sonia.html)
+
 [^15]: [Sonia Gandhi | Britannica](https://www.britannica.com/biography/Sonia-Gandhi)
+
 [^16]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^17]: [Sonia Gandhi Biography - Notable Biographies](https://www.notablebiographies.com/news/Ca-Ge/Gandhi-Sonia.html)
+
 [^18]: [Shri Rajiv Gandhi | Prime Minister of India](https://www.pmindia.gov.in/en/former_pm/श्री-राजीव-गांधी/)
+
 [^19]: [SHRI RAJIV GANDHI - Indian National Congress](https://inc.in/our-inspiration/shri-rajiv-gandhi)
+
 [^20]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^21]: [Rajiv Gandhi | Britannica](https://www.britannica.com/biography/Rajiv-Gandhi)
+
 [^22]: [1984 Indian general election - Wikipedia](https://en.wikipedia.org/wiki/1984_Indian_general_election)
+
 [^23]: [Indian Vote A Landslide For Gandhi - The Washington Post](https://www.washingtonpost.com/archive/politics/1984/12/29/indian-vote-a-landslide-for-gandhi/d804425a-c6ce-4877-8d8f-a64deab03ae7/)
+
 [^24]: [TOP 12 QUOTES BY RAJIV GANDHI - AZ Quotes](https://www.azquotes.com/author/30116-Rajiv_Gandhi)
+
 [^25]: [78th Birth Anniversary: Developments Rajiv Gandhi Brought - BW Businessworld](https://www.businessworld.in/article/78th-birth-anniversary-developments-that-rajiv-gandhi-brought-to-india-as-prime-minister-443077)
+
 [^26]: [Sam Pitroda - Wikipedia](https://en.wikipedia.org/wiki/Sam_Pitroda)
+
 [^27]: [About — Sam Pitroda](https://www.sampitroda.com/about)
+
 [^28]: [In conversation with Sam Pitroda - Jesus College Cambridge](https://www.jesus.cam.ac.uk/articles/conversation-father-indias-it-revolution-sam-pitroda)
+
 [^29]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^30]: [SHRI RAJIV GANDHI - Indian National Congress](https://inc.in/our-inspiration/shri-rajiv-gandhi)
+
 [^31]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^32]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^33]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^34]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^35]: [SHRI RAJIV GANDHI - Indian National Congress](https://inc.in/our-inspiration/shri-rajiv-gandhi)
+
 [^36]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^37]: [VISION AND MISSION OF RAJIV GANDHI FOR A MODERN INDIA - Indian National Congress](https://inc.in/congress-sandesh/tribute/vision-and-mission-of-rajiv-gandhi-for-a-modern-india)
+
 [^38]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^39]: [Panchayati Raj Institutions - Rajiv Gandhi Institute](https://www.rgics.org/governance/panchayati-raj-institutions-thirty-years-after-the-73rd-amendment-of-the-indian-constitution/)
+
 [^40]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^41]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^42]: [SHRI RAJIV GANDHI - Indian National Congress](https://inc.in/our-inspiration/shri-rajiv-gandhi)
+
 [^43]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^44]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^45]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^46]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^47]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^48]: [Bofors scandal - Wikipedia](https://en.wikipedia.org/wiki/Bofors_scandal)
+
 [^49]: [The Bofors Scandal - Corruption Tracker](https://corruption-tracker.org/case/the-bofors-scandal)
+
 [^50]: [Understanding Bofors scam - iPleaders](https://blog.ipleaders.in/understanding-bofors-scam-legal-implication/)
+
 [^51]: [Bofors: The Deal That Spelt Defeat - Live History India](https://www.peepultree.world/livehistoryindia/story/eras/Bofors-the-deal-that-spelt-defeat-for-rajiv-gandhi)
+
 [^52]: [The Bofors Scam: A Legal Odyssey - Lawful Legal](https://lawfullegal.in/the-bofors-scam-a-legal-odyssey/)
+
 [^53]: [BOFORS SCANDAL - Indian Mirror](https://www.indianmirror.com/indian-industries/indian-scams/boforscandal.html)
+
 [^54]: [Breaking free from Bad Karma: The Bofors Scandal](https://nordicdefencereview.com/getting-rid-of-bad-karma-the-bofors-scandal/)
+
 [^55]: [Assassination of Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Rajiv_Gandhi)
+
 [^56]: [Anti-Sikh Pogrom 1984 - Sciences Po](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/anti-sikh-pogrom-october-31-november-4-1984-new-delhi.html)
+
 [^57]: [Anti-Sikh Pogrom 1984 - Sciences Po](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/anti-sikh-pogrom-october-31-november-4-1984-new-delhi.html)
+
 [^58]: [Operation Blue Star - Wikipedia](https://en.wikipedia.org/wiki/Operation_Blue_Star)
+
 [^59]: [Mohd. Ahmed Khan v. Shah Bano Begum - Wikipedia](https://en.wikipedia.org/wiki/Mohd._Ahmed_Khan_v._Shah_Bano_Begum)
+
 [^60]: [Shah Bano Case - Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/shah-bano-case)
+
 [^61]: [The Shah Bano Case - Gender Studies](https://gender.study/gender-based-violence/shah-bano-case-community-law-womens-rights/)
+
 [^62]: [Shah Bano Case Judgment - Vera Causa Legal](https://veracausalegal.com/blogs/shah-bano-case-judgment/)
+
 [^63]: [Shah Bano Case - OpIndia](https://www.opindia.com/2020/08/shah-bano-case-rajiv-gandhi-surrender-muslim-hardliners-supreme-court-order-overturn/)
+
 [^64]: [Who influenced Rajiv Gandhi on Shah Bano - The Print](https://theprint.in/opinion/who-really-influenced-rajiv-gandhi-to-act-against-shah-bano-judgment/87263/)
+
 [^65]: [Shah Bano Case Analysis - Legal Service India](https://www.legalserviceindia.com/legal/article-216-case-analysis-mohd-ahmad-khan-v-s-shah-bano-begum.html)
+
 [^66]: [Indian Peace Keeping Force - Wikipedia](https://en.wikipedia.org/wiki/Indian_Peace_Keeping_Force)
+
 [^67]: [IPKF: India's Vietnam War - IDRW](https://idrw.org/ipkf-indias-vietnam-war-a-costly-misadventure-in-sri-lanka/)
+
 [^68]: [Indo-Sri Lankan Accord - Wikipedia](https://en.wikipedia.org/wiki/Indo-Sri_Lanka_Accord)
+
 [^69]: [IPKF in Sri Lanka - Sunday Guardian](https://sundayguardianlive.com/feature/the-ipkf-in-sri-lanka-unpacking-the-myth-of-military-failure-and-exposing-the-crisis-of-political-will-s-158711/)
+
 [^70]: [Analysing IPKF Allegations - Goa Chronicle](https://goachronicle.com/analysing-allegations-of-indian-armys-responsibility-in-rajiv-gandhi-governments-sri-lanka-policy-failure-1987-90/)
+
 [^71]: [Indian intervention in Sri Lankan civil war - Wikipedia](https://en.wikipedia.org/wiki/Indian_intervention_in_the_Sri_Lankan_civil_war)
+
 [^72]: [Indian Peace Keeping Force - Wikipedia](https://en.wikipedia.org/wiki/Indian_Peace_Keeping_Force)
+
 [^73]: [IPKF in Sri Lanka - Sunday Guardian](https://sundayguardianlive.com/feature/the-ipkf-in-sri-lanka-unpacking-the-myth-of-military-failure-and-exposing-the-crisis-of-political-will-s-158711/)
+
 [^74]: [Assassination of Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Rajiv_Gandhi)
+
 [^75]: [Sonia Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Sonia_Gandhi)
+
 [^76]: [Sonia Gandhi Biography - Notable Biographies](https://www.notablebiographies.com/news/Ca-Ge/Gandhi-Sonia.html)
+
 [^77]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^78]: [Priyanka Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Priyanka_Gandhi)
+
 [^79]: [Sonia Gandhi Biography - Notable Biographies](https://www.notablebiographies.com/news/Ca-Ge/Gandhi-Sonia.html)
+
 [^80]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^81]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^82]: [Sonia Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Sonia_Gandhi)
+
 [^83]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^84]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^85]: [We lost Rajiv Gandhi - The Week](https://www.theweek.in/theweek/cover/2021/05/20/we-lost-rajiv-gandhi-and-we-lost-him-to-lies--writes-sam-pitroda.html)
+
 [^86]: [Rajiv Gandhi – the 'unwilling' PM - The Print](https://theprint.in/theprint-profile/rajiv-gandhi-the-unwilling-pm-who-laid-the-foundation-of-a-modern-india/237948/)
+
 [^87]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^88]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^89]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^90]: [Anti-Sikh Pogrom 1984 - Sciences Po](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/anti-sikh-pogrom-october-31-november-4-1984-new-delhi.html)
+
 [^91]: [IPKF: India's Vietnam War - IDRW](https://idrw.org/ipkf-indias-vietnam-war-a-costly-misadventure-in-sri-lanka/)
+
 [^92]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^93]: [Bharat Ratna - Wikipedia](https://en.wikipedia.org/wiki/Bharat_Ratna)
+
 [^94]: [Khel Ratna Award - Wikipedia](https://en.wikipedia.org/wiki/Khel_Ratna_Award)
+
 [^95]: [Nehru–Gandhi family - Wikipedia](https://en.wikipedia.org/wiki/Nehru–Gandhi_family)
+
 [^96]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^97]: [Sam Pitroda - Wikipedia](https://en.wikipedia.org/wiki/Sam_Pitroda)
+
 [^98]: [Rajiv Gandhi: Architect of Modern India - StoryVibe](https://storyvibe.in/rajiv-gandhi-architect-of-modern-india-policies/)
+
 [^99]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^100]: [Panchayati Raj Institutions - Rajiv Gandhi Institute](https://www.rgics.org/governance/panchayati-raj-institutions-thirty-years-after-the-73rd-amendment-of-the-indian-constitution/)
+
 [^101]: [About Rajiv Gandhi – Rajiv Gandhi Foundation](https://rgfindia.org/about-rajiv-gandhi-rgf/)
+
 [^102]: [The Bofors Scam: A Legal Odyssey - Lawful Legal](https://lawfullegal.in/the-bofors-scam-a-legal-odyssey/)
+
 [^103]: [A Crusader for Change - Rajiv Gandhi - Indian National Congress](https://inc.in/congress-sandesh/tribute/a-crusader-for-change-rajiv-gandhi)
+
 [^104]: [Bofors scandal - Wikipedia](https://en.wikipedia.org/wiki/Bofors_scandal)
+
 [^105]: [Bofors: The Deal That Spelt Defeat - Live History India](https://www.peepultree.world/livehistoryindia/story/eras/Bofors-the-deal-that-spelt-defeat-for-rajiv-gandhi)
+
 [^106]: [Anti-Sikh Pogrom 1984 - Sciences Po](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/anti-sikh-pogrom-october-31-november-4-1984-new-delhi.html)
+
 [^107]: [Historical Events – Never Forget 84](https://neverforget84.net/historical-events/)
+
 [^108]: [Shah Bano Case - OpIndia](https://www.opindia.com/2020/08/shah-bano-case-rajiv-gandhi-surrender-muslim-hardliners-supreme-court-order-overturn/)
+
 [^109]: [Indian Peace Keeping Force - Wikipedia](https://en.wikipedia.org/wiki/Indian_Peace_Keeping_Force)
+
 [^110]: [IPKF: India's Vietnam War - IDRW](https://idrw.org/ipkf-indias-vietnam-war-a-costly-misadventure-in-sri-lanka/)
+
 [^111]: [Nehru–Gandhi family - Wikipedia](https://en.wikipedia.org/wiki/Nehru–Gandhi_family)
+
 [^112]: [Mr. Clean and his computer boys - Tandfonline](https://www.tandfonline.com/doi/full/10.1080/14662043.2021.2001252)
+
 [^113]: [Rajiv Gandhi - Wikipedia](https://en.wikipedia.org/wiki/Rajiv_Gandhi)
+
 [^114]: [28 Insightful Quotes By Rajiv Gandhi - Wisdomly](https://www.wisdomly.net/rajiv-gandhi-4363.php)
+
 [^115]: [TOP 12 QUOTES BY RAJIV GANDHI - AZ Quotes](https://www.azquotes.com/author/30116-Rajiv_Gandhi)
+
 [^116]: [Rajiv Gandhi Quotes - BrainyQuote](https://www.brainyquote.com/authors/rajiv-gandhi-quotes)
+
 [^117]: [15 Rajiv Gandhi Quotes About His Vision - Scroll Droll](https://scrolldroll.com/rajiv-gandhi-quotes/)
+
 [^118]: [Rajiv Gandhi Quotes - BrainyQuote](https://www.brainyquote.com/authors/rajiv-gandhi-quotes)
+
 [^119]: [15 Rajiv Gandhi Quotes About His Vision - Scroll Droll](https://scrolldroll.com/rajiv-gandhi-quotes/)
+
 [^120]: [Rajiv Gandhi - Wikiquote](https://en.wikiquote.org/wiki/Rajiv_Gandhi)

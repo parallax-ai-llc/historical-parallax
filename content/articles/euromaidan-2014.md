@@ -25,6 +25,7 @@ But Russia's response was swift. Within weeks, unmarked Russian troops seized Cr
 ### Ukraine's Orange Revolution (2004)
 
 In 2004, massive protests overturned a fraudulent election:
+
 - Viktor Yushchenko vs. Viktor Yanukovych
 - Russian-backed Yanukovych initially declared winner
 - Millions protested; new election; Yushchenko won
@@ -33,6 +34,7 @@ In 2004, massive protests overturned a fraudulent election:
 ### Yanukovych's Return (2010)
 
 In 2010, Yanukovych won a fair election:
+
 - Defeated Yulia Tymoshenko
 - Imprisoned Tymoshenko on dubious charges
 - Consolidated power; increased corruption
@@ -41,6 +43,7 @@ In 2010, Yanukovych won a fair election:
 ### EU Association Agreement
 
 For years, Ukraine negotiated an Association Agreement with the EU:
+
 - Would deepen economic ties and require reforms
 - Popular aspiration for European integration
 - Russia pressured Ukraine to join Eurasian Union instead
@@ -64,6 +67,7 @@ The slogans shifted from "Sign the EU deal" to "Yanukovych must go."[^7]
 ### Phase 2: Occupation and Escalation (December 2013 - January 2014)
 
 Maidan became a fortified protest camp:
+
 - Self-organized; thousands slept on the square
 - Tents, barricades, field kitchens
 - Volunteer medical units
@@ -77,6 +81,7 @@ Maidan became a fortified protest camp:
 ### Phase 3: The Bloodiest Days (February 2014)
 
 **February 18-20:** Yanukovych ordered a massive assault:
+
 - Violence erupted; protesters pushed toward government buildings
 - Security forces used live ammunition
 - **February 20: The Massacre**—snipers fired on crowds from rooftops
@@ -100,12 +105,14 @@ The term emerged during the funeral ceremonies on Maidan. February 20 is now com
 ### The Snipers Question
 
 **Ukrainian investigations:**
+
 - Concluded Berkut (riot police) officers fired on protesters
 - Forensic evidence matched bullets to Berkut rifles
 - 27 Berkut officers identified
 - 2023: Three convicted in absentia
 
 **Contested narratives:**
+
 - Some researchers (Ivan Katchanovski) argue some fire came from opposition-controlled buildings—a claim amplified by Russian propaganda but not supported by mainstream investigations
 - Debate continues over command responsibility[^11]
 
@@ -115,27 +122,27 @@ The term emerged during the funeral ceremonies on Maidan. February 20 is now com
 
 ### Opposition
 
-| Name | Role |
-|------|------|
-| Vitali Klitschko | Boxer; UDAR party; later Kyiv mayor |
-| Arseniy Yatsenyuk | Politician; became Prime Minister |
-| Oleh Tyahnybok | Svoboda party leader (far-right) |
-| Petro Poroshenko | Businessman; elected President May 2014 |
-| Protesters | Diverse; students to pensioners |
+| Name              | Role                                    |
+| ----------------- | --------------------------------------- |
+| Vitali Klitschko  | Boxer; UDAR party; later Kyiv mayor     |
+| Arseniy Yatsenyuk | Politician; became Prime Minister       |
+| Oleh Tyahnybok    | Svoboda party leader (far-right)        |
+| Petro Poroshenko  | Businessman; elected President May 2014 |
+| Protesters        | Diverse; students to pensioners         |
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Viktor Yanukovych | President; fled February 22 |
-| Berkut | Riot police; led violent crackdowns |
+| Name              | Role                                |
+| ----------------- | ----------------------------------- |
+| Viktor Yanukovych | President; fled February 22         |
+| Berkut            | Riot police; led violent crackdowns |
 
 ### External
 
-| Name | Role |
-|------|------|
+| Name           | Role                                         |
+| -------------- | -------------------------------------------- |
 | Vladimir Putin | Russia; supported Yanukovych; annexed Crimea |
-| EU leaders | Mediated February 21 agreement |
+| EU leaders     | Mediated February 21 agreement               |
 
 ---
 
@@ -165,6 +172,7 @@ The term emerged during the funeral ceremonies on Maidan. February 20 is now com
 ### Crimea Annexation
 
 **Late February - March 2014:**
+
 - Unmarked Russian troops (the "little green men") seized government buildings
 - Ukrainian military bases blockaded
 - **March 16:** Referendum under Russian occupation—96.77% for joining Russia (fabricated)
@@ -175,6 +183,7 @@ The first forcible change of European borders since WWII.[^13]
 ### War in Donbas
 
 **April 2014:**
+
 - Pro-Russian separatists seized buildings in eastern Ukraine
 - "People's Republics" declared in Donetsk and Luhansk
 - Russia provided weapons, troops, financing
@@ -183,6 +192,7 @@ The first forcible change of European borders since WWII.[^13]
 ### 2022 Full-Scale Invasion
 
 The Russo-Ukrainian War, which began with Euromaidan's aftermath, escalated dramatically:
+
 - **February 24, 2022:** Russia launched full-scale invasion
 - Ongoing war; hundreds of thousands killed/wounded
 - Ukraine fights for survival—invoking Maidan's legacy[^14]
@@ -238,43 +248,60 @@ This narrative is rejected by most Western scholars and Ukrainians but shapes Ru
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| November 21, 2013 | Yanukovych suspends EU agreement; protests begin |
-| November 30, 2013 | Berkut attacks sleeping protesters ("Rozgon") |
-| December 1, 2013 | 500,000+ march in Kyiv |
-| January 16, 2014 | "Dictatorship Laws" passed |
-| January 22, 2014 | First protester deaths |
-| February 18-20, 2014 | Violent clashes; sniper massacre |
-| February 21, 2014 | EU-mediated agreement signed |
-| February 22, 2014 | Yanukovych flees; parliament votes removal |
-| Late February 2014 | Russian troops seize Crimea |
-| March 16, 2014 | Crimea referendum under occupation |
-| March 18, 2014 | Russia annexes Crimea |
-| April 2014 | War in Donbas begins |
-| May 25, 2014 | Poroshenko elected President |
-| February 24, 2022 | Russia launches full-scale invasion |
-| June 2022 | Ukraine granted EU candidate status |
+| Date                 | Event                                            |
+| -------------------- | ------------------------------------------------ |
+| November 21, 2013    | Yanukovych suspends EU agreement; protests begin |
+| November 30, 2013    | Berkut attacks sleeping protesters ("Rozgon")    |
+| December 1, 2013     | 500,000+ march in Kyiv                           |
+| January 16, 2014     | "Dictatorship Laws" passed                       |
+| January 22, 2014     | First protester deaths                           |
+| February 18-20, 2014 | Violent clashes; sniper massacre                 |
+| February 21, 2014    | EU-mediated agreement signed                     |
+| February 22, 2014    | Yanukovych flees; parliament votes removal       |
+| Late February 2014   | Russian troops seize Crimea                      |
+| March 16, 2014       | Crimea referendum under occupation               |
+| March 18, 2014       | Russia annexes Crimea                            |
+| April 2014           | War in Donbas begins                             |
+| May 25, 2014         | Poroshenko elected President                     |
+| February 24, 2022    | Russia launches full-scale invasion              |
+| June 2022            | Ukraine granted EU candidate status              |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Euromaidan](https://en.wikipedia.org/wiki/Euromaidan)
+
 [^2]: [Wikipedia - Revolution of Dignity](https://en.wikipedia.org/wiki/Revolution_of_Dignity)
+
 [^3]: [Wikipedia - Annexation of Crimea](https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation)
+
 [^4]: [Wikipedia - Orange Revolution](https://en.wikipedia.org/wiki/Orange_Revolution)
+
 [^5]: [Britannica - Yanukovych](https://www.britannica.com/biography/Viktor-Yanukovych)
+
 [^6]: [Kyiv Independent - EU Agreement](https://kyivindependent.com/euromaidan-10-years/)
+
 [^7]: [Atlantic Council - November 2013](https://www.atlanticcouncil.org/blogs/euromaidan-2013/)
+
 [^8]: [Open Society - Dictatorship Laws](https://www.opensocietyfoundations.org/publications/ukraine-euromaidan)
+
 [^9]: [Wikipedia - February 2014](https://en.wikipedia.org/wiki/Euromaidan#February_2014)
+
 [^10]: [Maidan Museum - Heavenly Hundred](https://www.maidanmuseum.org/heavenly-hundred)
+
 [^11]: [HRW - Snipers](https://www.hrw.org/news/2014/ukraine-snipers)
+
 [^12]: [Wikipedia - Death Toll](https://en.wikipedia.org/wiki/List_of_Euromaidan_victims)
+
 [^13]: [CFR - Crimea](https://www.cfr.org/backgrounder/crimea-annexation)
+
 [^14]: [Brookings - Aftermath](https://www.brookings.edu/articles/ukraines-unfinished-revolution/)
+
 [^15]: [Crimea Platform - Revolution](https://crimea-platform.org/revolution-of-dignity/)
+
 [^16]: [Parliament UK - Analysis](https://commonslibrary.parliament.uk/research-briefings/ukraine-crimea/)
+
 [^17]: [PBS - Ten Years Later](https://www.pbs.org/newshour/world/ukraine-euromaidan-ten-years)
+
 [^18]: [MFA Ukraine - Legacy](https://mfa.gov.ua/en/10-facts-about-revolution-of-dignity)

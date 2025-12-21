@@ -221,29 +221,29 @@ Perhaps the harshest judgment comes from those who argue that Alexander's reign 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1777 | Born December 23 in Saint Petersburg |
-| 1784 | Frédéric-César de La Harpe appointed as tutor |
-| 1793 | Married Louise of Baden (Elizabeth Alexeievna) |
-| 1801 | Father Paul I assassinated; Alexander becomes Emperor on March 23 |
-| 1801 | Establishes Private Committee to plan reforms |
-| 1802 | Creates system of government ministries |
-| 1803 | Free Agriculturalist Act allows voluntary serf emancipation |
-| 1804 | Founds universities at Saint Petersburg, Kharkiv, and Kazan |
-| 1805 | Defeated by Napoleon at Battle of Austerlitz |
-| 1807 | Defeated at Friedland; signs Treaty of Tilsit with Napoleon |
-| 1809 | Annexes Finland from Sweden |
-| 1810 | Establishes State Council; Speransky begins constitutional reforms |
-| 1812 | Napoleon invades Russia in June; Battle of Borodino September 7; French retreat begins October |
-| 1813 | Russian forces pursue French into Central Europe; Battle of Leipzig |
-| 1814 | Russian troops enter Paris; Alexander hailed as "savior of Europe" |
-| 1814-15 | Congress of Vienna; Russia gains Congress Kingdom of Poland |
-| 1815 | Signs Holy Alliance on September 26 |
-| 1816-17 | Abolishes serfdom in Baltic provinces (Estonia, Livonia, Courland) |
-| 1822 | Congress of Verona; last major Holy Alliance action |
-| 1824 | Daughter Sophia Naryshkina dies at age 17 |
-| 1825 | Dies unexpectedly in Taganrog on November 19 |
+| Year    | Event                                                                                          |
+| ------- | ---------------------------------------------------------------------------------------------- |
+| 1777    | Born December 23 in Saint Petersburg                                                           |
+| 1784    | Frédéric-César de La Harpe appointed as tutor                                                  |
+| 1793    | Married Louise of Baden (Elizabeth Alexeievna)                                                 |
+| 1801    | Father Paul I assassinated; Alexander becomes Emperor on March 23                              |
+| 1801    | Establishes Private Committee to plan reforms                                                  |
+| 1802    | Creates system of government ministries                                                        |
+| 1803    | Free Agriculturalist Act allows voluntary serf emancipation                                    |
+| 1804    | Founds universities at Saint Petersburg, Kharkiv, and Kazan                                    |
+| 1805    | Defeated by Napoleon at Battle of Austerlitz                                                   |
+| 1807    | Defeated at Friedland; signs Treaty of Tilsit with Napoleon                                    |
+| 1809    | Annexes Finland from Sweden                                                                    |
+| 1810    | Establishes State Council; Speransky begins constitutional reforms                             |
+| 1812    | Napoleon invades Russia in June; Battle of Borodino September 7; French retreat begins October |
+| 1813    | Russian forces pursue French into Central Europe; Battle of Leipzig                            |
+| 1814    | Russian troops enter Paris; Alexander hailed as "savior of Europe"                             |
+| 1814-15 | Congress of Vienna; Russia gains Congress Kingdom of Poland                                    |
+| 1815    | Signs Holy Alliance on September 26                                                            |
+| 1816-17 | Abolishes serfdom in Baltic provinces (Estonia, Livonia, Courland)                             |
+| 1822    | Congress of Verona; last major Holy Alliance action                                            |
+| 1824    | Daughter Sophia Naryshkina dies at age 17                                                      |
+| 1825    | Dies unexpectedly in Taganrog on November 19                                                   |
 
 ---
 
@@ -270,105 +270,207 @@ Perhaps the harshest judgment comes from those who argue that Alexander's reign 
 ## References
 
 [^1]: [Alexander I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Alexander_I_of_Russia)
+
 [^2]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^3]: [Alexander I - Napoleon Defeat, Russia Emperor, Reforms | Britannica](https://www.britannica.com/biography/Alexander-I-emperor-of-Russia/The-defeat-of-Napoleon)
+
 [^4]: [Alexander I. The Tsar Who Defeated Napoleon - napoleon.org](https://www.napoleon.org/en/magazine/publications/alexander-i-the-tsar-who-defeated-napoleon/)
+
 [^5]: [Alexander I | Biography, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/Alexander-I-emperor-of-Russia)
+
 [^6]: [Holy Alliance - Wikipedia](https://en.wikipedia.org/wiki/Holy_Alliance)
+
 [^7]: [Alexander I, Emperor of All Russia | Unofficial Royalty](https://www.unofficialroyalty.com/emperor-alexander-i-of-russia/)
+
 [^8]: [December 23, 1777: Birth of Alexander I, Emperor of Russia | European Royal History](https://europeanroyalhistory.wordpress.com/2022/12/23/december-23-1777-birth-of-f-alexander-i-emperor-of-russia/)
+
 [^9]: [Biography of Emperor Alexander I of Russia](http://www.saint-petersburg.com/royal-family/alexander-i/)
+
 [^10]: [Czar of Russia Alexander I, birth date 23 December 1777, with biography](https://www.astro.com/astro-databank/Alexander_I,_Czar_of_Russia)
-[^11]: [Alexander I of Russia (1777-1825) | Familypedia | Fandom](https://familypedia.fandom.com/wiki/Alexander_I_of_Russia_(1777-1825))
+
+[^11]: [Alexander I of Russia (1777-1825) | Familypedia | Fandom](<https://familypedia.fandom.com/wiki/Alexander_I_of_Russia_(1777-1825)>)
+
 [^12]: [Alexander I – Russiapedia The Romanov dynasty Prominent Russians](https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/alexander-i/)
+
 [^13]: [Alexander I - napoleon.org](https://www.napoleon.org/en/history-of-the-two-empires/biographies/alexander-i/)
+
 [^14]: [Alexander I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Alexander_I_of_Russia)
+
 [^15]: [Tsar Alexander I | Religious Studies Center](https://rsc.byu.edu/1820/tsar-alexander-i)
+
 [^16]: [Alexander I of Russia | Life, Policy & Reign | Study.com](https://study.com/academy/lesson/the-rule-of-alexander-i-of-russia.html)
+
 [^17]: [Birthday anniversary of Alexander I, Russian Emperor | Presidential Library](https://www.prlib.ru/en/history/619833)
+
 [^18]: [The Mysterious Death Of Tsar Alexander I | HHRW](https://www.heartsthroughhistory.com/2012/02/21/the-mysterious-death-of-tsar-alexander-i/)
+
 [^19]: [Did tsar Alexander I leave his throne for a solitary life in Siberia? - Russia Beyond](https://www.rbth.com/politics_and_society/2017/08/23/did-tsar-alexander-i-leave-his-throne-for-a-solitary-life-in-siberia_827382)
+
 [^20]: [Life of Alexander I, tsar of Russia | Britannica](https://www.britannica.com/summary/Alexander-I-emperor-of-Russia)
+
 [^21]: [The Strange Case of Tsar Alexander I: Did he Fake his Own Death? - Historic Mysteries](https://www.historicmysteries.com/history/tsar-alexander-i/29842/)
+
 [^22]: [Alexander I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Alexander_I_of_Russia)
+
 [^23]: [The Mysterious Death Of Tsar Alexander I | HHRW](https://www.heartsthroughhistory.com/2012/02/21/the-mysterious-death-of-tsar-alexander-i/)
+
 [^24]: [Alexander I - napoleon.org](https://www.napoleon.org/en/history-of-the-two-empires/biographies/alexander-i/)
+
 [^25]: [Science 'To Answer Russian Royal Mystery': Did Tsar Stage Death to Become Siberian Monk? | Ancient Origins](https://www.ancient-origins.net/news-history-archaeology/science-answer-russian-royal-mystery-did-tsar-stage-death-become-siberian-021457)
+
 [^26]: [Mystery Of Feodor Kuzmich - Did Tsar Alexander I Fake His Death? - Ancient Pages](https://www.ancientpages.com/2020/03/23/mystery-of-feodor-kuzmich-did-tsar-alexander-i-fake-his-death/)
+
 [^27]: [Russia: The Czar Who Wouldn't Die | TIME](https://time.com/archive/6628551/russia-the-czar-who-wouldnt-die/)
+
 [^28]: [Did tsar Alexander I leave his throne for a solitary life in Siberia? - Russia Beyond](https://www.rbth.com/politics_and_society/2017/08/23/did-tsar-alexander-i-leave-his-throne-for-a-solitary-life-in-siberia_827382)
+
 [^29]: [Alexander I | Biography, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/Alexander-I-emperor-of-Russia)
+
 [^30]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^31]: [Alexander I Definition - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/alexander-i)
+
 [^32]: [Alexander I of Russia | Life, Policy & Reign | Study.com](https://study.com/academy/lesson/the-rule-of-alexander-i-of-russia.html)
+
 [^33]: [Russia after Napoleon | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/russia-after-napoleon/)
+
 [^34]: [Biography of Emperor Alexander I of Russia](http://www.saint-petersburg.com/royal-family/alexander-i/)
+
 [^35]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^36]: [Alexander I | Biography, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/Alexander-I-emperor-of-Russia)
+
 [^37]: [Life of Alexander I, tsar of Russia | Britannica](https://www.britannica.com/summary/Alexander-I-emperor-of-Russia)
+
 [^38]: [Biography of Emperor Alexander I of Russia](http://www.saint-petersburg.com/royal-family/alexander-i/)
+
 [^39]: [Alexander I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Alexander_I_of_Russia)
+
 [^40]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^41]: [Russia after Napoleon | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/russia-after-napoleon/)
+
 [^42]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^43]: [Serfdom in Russia - Wikipedia](https://en.wikipedia.org/wiki/Serfdom_in_Russia)
+
 [^44]: [Alexander I - napoleon.org](https://www.napoleon.org/en/history-of-the-two-empires/biographies/alexander-i/)
+
 [^45]: [French invasion of Russia - Wikipedia](https://en.wikipedia.org/wiki/French_invasion_of_Russia)
+
 [^46]: [Territorial Gains Under Alexander I | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/territorial-gains-under-alexander-i/)
+
 [^47]: [Alexander I - Napoleon Defeat, Russia Emperor, Reforms | Britannica](https://www.britannica.com/biography/Alexander-I-emperor-of-Russia/The-defeat-of-Napoleon)
+
 [^48]: [French invasion of Russia - Wikipedia](https://en.wikipedia.org/wiki/French_invasion_of_Russia)
+
 [^49]: [Alexander I - napoleon.org](https://www.napoleon.org/en/history-of-the-two-empires/biographies/alexander-i/)
+
 [^50]: [French invasion of Russia - Wikipedia](https://en.wikipedia.org/wiki/French_invasion_of_Russia)
+
 [^51]: [Alexander I. The Tsar Who Defeated Napoleon - napoleon.org](https://www.napoleon.org/en/magazine/publications/alexander-i-the-tsar-who-defeated-napoleon/)
+
 [^52]: [Territorial Gains Under Alexander I | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/territorial-gains-under-alexander-i/)
+
 [^53]: [Alexander I – Russiapedia The Romanov dynasty Prominent Russians](https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/alexander-i/)
+
 [^54]: [Alexander I | Biography, Accomplishments, & Facts | Britannica](https://www.britannica.com/britannica/biography/Alexander-I-emperor-of-Russia)
+
 [^55]: [Territorial Gains Under Alexander I | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/territorial-gains-under-alexander-i/)
+
 [^56]: [Alexander I](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CA%5CL%5CAlexanderI.htm)
+
 [^57]: [Holy Alliance - Wikipedia](https://en.wikipedia.org/wiki/Holy_Alliance)
+
 [^58]: ["Holy Alliance" was signed | Presidential Library](https://www.prlib.ru/en/history/619573)
+
 [^59]: [Holy Alliance - Wikipedia](https://en.wikipedia.org/wiki/Holy_Alliance)
+
 [^60]: [The Holy Alliance, 1815–1853 (Chapter 5) - Russia and the West from Alexander to Putin](https://www.cambridge.org/core/books/abs/russia-and-the-west-from-alexander-to-putin/holy-alliance-18151853/24596CA1C3F3FC4E01C99C87D311F2E5)
+
 [^61]: [ALEXANDER I AND THE HOLY ALLIANCE 1815 (G3c)](https://www.timewisetraveller.co.uk/alliance.html)
+
 [^62]: [The Mysterious Death Of Tsar Alexander I | HHRW](https://www.heartsthroughhistory.com/2012/02/21/the-mysterious-death-of-tsar-alexander-i/)
+
 [^63]: [Science 'To Answer Russian Royal Mystery': Did Tsar Stage Death to Become Siberian Monk? | Ancient Origins](https://www.ancient-origins.net/news-history-archaeology/science-answer-russian-royal-mystery-did-tsar-stage-death-become-siberian-021457)
+
 [^64]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^65]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^66]: [Serfdom in Russia - Wikipedia](https://en.wikipedia.org/wiki/Serfdom_in_Russia)
+
 [^67]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^68]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^69]: [Russia after Napoleon | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/russia-after-napoleon/)
+
 [^70]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^71]: [Russia after Napoleon | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/russia-after-napoleon/)
+
 [^72]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^73]: [Russia after Napoleon | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/russia-after-napoleon/)
+
 [^74]: [ALEXANDER I AND THE HOLY ALLIANCE 1815 (G3c)](https://www.timewisetraveller.co.uk/alliance.html)
+
 [^75]: [Holy Alliance - Wikipedia](https://en.wikipedia.org/wiki/Holy_Alliance)
+
 [^76]: [Alexander I – Russiapedia The Romanov dynasty Prominent Russians](https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/alexander-i/)
+
 [^77]: [December 23, 1777: Birth of Alexander I, Emperor of Russia | European Royal History](https://europeanroyalhistory.wordpress.com/2022/12/23/december-23-1777-birth-of-f-alexander-i-emperor-of-russia/)
+
 [^78]: [Alexander I, Emperor of All Russia | Unofficial Royalty](https://www.unofficialroyalty.com/emperor-alexander-i-of-russia/)
+
 [^79]: [The Mysterious Death Of Tsar Alexander I | HHRW](https://www.heartsthroughhistory.com/2012/02/21/the-mysterious-death-of-tsar-alexander-i/)
+
 [^80]: [Did tsar Alexander I leave his throne for a solitary life in Siberia? - Russia Beyond](https://www.rbth.com/politics_and_society/2017/08/23/did-tsar-alexander-i-leave-his-throne-for-a-solitary-life-in-siberia_827382)
+
 [^81]: [Alexander I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Alexander_I_of_Russia)
+
 [^82]: [Mystery Of Feodor Kuzmich - Did Tsar Alexander I Fake His Death? - Ancient Pages](https://www.ancientpages.com/2020/03/23/mystery-of-feodor-kuzmich-did-tsar-alexander-i-fake-his-death/)
+
 [^83]: [Tsar Alexander I | Religious Studies Center](https://rsc.byu.edu/1820/tsar-alexander-i)
+
 [^84]: [Did tsar Alexander I leave his throne for a solitary life in Siberia? - Russia Beyond](https://www.rbth.com/politics_and_society/2017/08/23/did-tsar-alexander-i-leave-his-throne-for-a-solitary-life-in-siberia_827382)
+
 [^85]: [Alexander I | Biography, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/Alexander-I-emperor-of-Russia)
+
 [^86]: [Territorial Gains Under Alexander I | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/territorial-gains-under-alexander-i/)
+
 [^87]: [Biography of Emperor Alexander I of Russia](http://www.saint-petersburg.com/royal-family/alexander-i/)
+
 [^88]: [Holy Alliance - Wikipedia](https://en.wikipedia.org/wiki/Holy_Alliance)
+
 [^89]: [Holy Alliance - Wikipedia](https://en.wikipedia.org/wiki/Holy_Alliance)
+
 [^90]: [The Holy Alliance, 1815–1853 (Chapter 5) - Russia and the West from Alexander to Putin](https://www.cambridge.org/core/books/abs/russia-and-the-west-from-alexander-to-putin/holy-alliance-18151853/24596CA1C3F3FC4E01C99C87D311F2E5)
+
 [^91]: [Alexander I – Russiapedia The Romanov dynasty Prominent Russians](https://russiapedia.rt.com/prominent-russians/the-romanov-dynasty/alexander-i/)
+
 [^92]: [Mystery Of Feodor Kuzmich - Did Tsar Alexander I Fake His Death? - Ancient Pages](https://www.ancientpages.com/2020/03/23/mystery-of-feodor-kuzmich-did-tsar-alexander-i-fake-his-death/)
+
 [^93]: [Alexander I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Alexander_I_of_Russia)
+
 [^94]: [Tsar Alexander I | Religious Studies Center](https://rsc.byu.edu/1820/tsar-alexander-i)
+
 [^95]: [Alexander I. The Tsar Who Defeated Napoleon - napoleon.org](https://www.napoleon.org/en/magazine/publications/alexander-i-the-tsar-who-defeated-napoleon/)
+
 [^96]: [The Holy Alliance, 1815–1853 (Chapter 5) - Russia and the West from Alexander to Putin](https://www.cambridge.org/core/books/abs/russia-and-the-west-from-alexander-to-putin/holy-alliance-18151853/24596CA1C3F3FC4E01C99C87D311F2E5)
+
 [^97]: [Alexander I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Alexander_I_of_Russia)
+
 [^98]: [Russia after Napoleon | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/russia-after-napoleon/)
+
 [^99]: [The Strange Case of Tsar Alexander I: Did he Fake his Own Death? - Historic Mysteries](https://www.historicmysteries.com/history/tsar-alexander-i/29842/)
+
 [^100]: [Russia after Napoleon | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/russia-after-napoleon/)
+
 [^101]: [The most badass quotes ever spoken by Russian rulers - Russia Beyond](https://www.rbth.com/history/331473-badass-quotes-russian-rulers)
+
 [^102]: [Tsar Alexander I | Religious Studies Center](https://rsc.byu.edu/1820/tsar-alexander-i)
+
 [^103]: [The most badass quotes ever spoken by Russian rulers - Russia Beyond](https://www.rbth.com/history/331473-badass-quotes-russian-rulers)

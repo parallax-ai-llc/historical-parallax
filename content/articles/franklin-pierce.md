@@ -153,37 +153,37 @@ Modern scholars have also criticized Pierce's treatment of Native Americans, his
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1804 | Born November 23 in Hillsborough, New Hampshire |
-| 1820 | Enrolled at Bowdoin College |
-| 1824 | Graduated from Bowdoin College, fifth in class |
-| 1827 | Admitted to the New Hampshire bar, began law practice |
-| 1829 | Elected to New Hampshire House of Representatives at age 24 |
-| 1831 | Became Speaker of New Hampshire House |
-| 1833 | Elected to U.S. House of Representatives |
-| 1834 | Married Jane Means Appleton on November 19 |
-| 1836 | First son, Franklin Jr., died three days after birth |
-| 1837 | Elected to U.S. Senate at age 32, youngest senator |
-| 1842 | Resigned from Senate, returned to New Hampshire law practice |
-| 1843 | Second son, Frank Robert, died at age four from typhus |
-| 1846 | Enlisted in Mexican-American War, commissioned brigadier general |
-| 1847 | Served in Mexico under General Winfield Scott |
-| 1850 | Presided over New Hampshire constitutional convention |
-| 1852 | Nominated as Democratic presidential candidate on 49th ballot |
-| 1852 | Elected 14th President, defeating Winfield Scott |
-| 1853 | Son Benjamin died in train accident on January 6 |
-| 1853 | Inaugurated as President on March 4 |
-| 1853 | Gadsden Purchase completed, acquiring territory from Mexico |
-| 1854 | Kansas-Nebraska Act signed, repealing Missouri Compromise |
+| Year | Event                                                                 |
+| ---- | --------------------------------------------------------------------- |
+| 1804 | Born November 23 in Hillsborough, New Hampshire                       |
+| 1820 | Enrolled at Bowdoin College                                           |
+| 1824 | Graduated from Bowdoin College, fifth in class                        |
+| 1827 | Admitted to the New Hampshire bar, began law practice                 |
+| 1829 | Elected to New Hampshire House of Representatives at age 24           |
+| 1831 | Became Speaker of New Hampshire House                                 |
+| 1833 | Elected to U.S. House of Representatives                              |
+| 1834 | Married Jane Means Appleton on November 19                            |
+| 1836 | First son, Franklin Jr., died three days after birth                  |
+| 1837 | Elected to U.S. Senate at age 32, youngest senator                    |
+| 1842 | Resigned from Senate, returned to New Hampshire law practice          |
+| 1843 | Second son, Frank Robert, died at age four from typhus                |
+| 1846 | Enlisted in Mexican-American War, commissioned brigadier general      |
+| 1847 | Served in Mexico under General Winfield Scott                         |
+| 1850 | Presided over New Hampshire constitutional convention                 |
+| 1852 | Nominated as Democratic presidential candidate on 49th ballot         |
+| 1852 | Elected 14th President, defeating Winfield Scott                      |
+| 1853 | Son Benjamin died in train accident on January 6                      |
+| 1853 | Inaugurated as President on March 4                                   |
+| 1853 | Gadsden Purchase completed, acquiring territory from Mexico           |
+| 1854 | Kansas-Nebraska Act signed, repealing Missouri Compromise             |
 | 1854 | "Bleeding Kansas" violence began between pro- and anti-slavery forces |
-| 1854 | Ostend Manifesto created diplomatic embarrassment |
-| 1856 | Denied renomination by Democratic Party |
-| 1857 | Left presidency, traveled to Europe with Jane |
-| 1863 | Wife Jane died of tuberculosis on December 2 |
-| 1863 | Delivered controversial speech opposing Lincoln administration |
-| 1864 | Accompanied Nathaniel Hawthorne on final trip before author's death |
-| 1869 | Died October 8 in Concord, New Hampshire, age 64 |
+| 1854 | Ostend Manifesto created diplomatic embarrassment                     |
+| 1856 | Denied renomination by Democratic Party                               |
+| 1857 | Left presidency, traveled to Europe with Jane                         |
+| 1863 | Wife Jane died of tuberculosis on December 2                          |
+| 1863 | Delivered controversial speech opposing Lincoln administration        |
+| 1864 | Accompanied Nathaniel Hawthorne on final trip before author's death   |
+| 1869 | Died October 8 in Concord, New Hampshire, age 64                      |
 
 ---
 
@@ -213,163 +213,322 @@ Pierce's defensive response to rejection revealed his inability to acknowledge h
 
 ## References
 
-[^1]: Holt, Michael F. *Franklin Pierce*. New York: Times Books, 2010, pp. 1-3.
-[^2]: Potter, David M. *The Impending Crisis, 1848-1861*. New York: Harper & Row, 1976, pp. 145-176.
-[^3]: Taranto, James and Leo, Leonard. *Presidential Leadership: Rating the Best and the Worst in the White House*. New York: Free Press, 2004, pp. 23-25.
-[^4]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*. Concord, NH: Plaidswede Publishing, 2007, pp. 67-89.
-[^5]: Nichols, Roy F. *Franklin Pierce: Young Hickory of the Granite Hills*. Philadelphia: University of Pennsylvania Press, 1931, pp. 1-15.
-[^6]: Gara, Larry. *The Presidency of Franklin Pierce*. Lawrence: University Press of Kansas, 1991, pp. 12-18.
-[^7]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*. Concord, NH: Plaidswede Publishing, 2004, pp. 34-47.
-[^8]: Hawthorne, Nathaniel. *Life of Franklin Pierce*. Boston: Ticknor, Reed, and Fields, 1852, pp. 21-25.
-[^9]: McFarland, Philip. *Hawthorne in Concord*. New York: Grove Press, 2004, pp. 45-52.
-[^10]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 19-22.
-[^11]: Nichols, Roy F. *Franklin Pierce*, pp. 28-35.
-[^12]: Holt, Michael F. *Franklin Pierce*, pp. 12-18.
-[^13]: Watson, Harry L. *Liberty and Power: The Politics of Jacksonian America*. New York: Hill and Wang, 1990, pp. 156-167.
-[^14]: Foner, Eric. *The Fiery Trial: Abraham Lincoln and American Slavery*. New York: W.W. Norton, 2010, pp. 67-71.
-[^15]: Gienapp, William E. *The Origins of the Republican Party, 1852-1856*. New York: Oxford University Press, 1987, pp. 89-94.
-[^16]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, pp. 56-63.
-[^17]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 23-26.
-[^18]: Howe, Daniel Walker. *What Hath God Wrought: The Transformation of America, 1815-1848*. New York: Oxford University Press, 2007, pp. 502-503.
-[^19]: Nichols, Roy F. *Franklin Pierce*, pp. 45-52.
+[^1]: Holt, Michael F. _Franklin Pierce_. New York: Times Books, 2010, pp. 1-3.
+
+[^2]: Potter, David M. _The Impending Crisis, 1848-1861_. New York: Harper & Row, 1976, pp. 145-176.
+
+[^3]: Taranto, James and Leo, Leonard. _Presidential Leadership: Rating the Best and the Worst in the White House_. New York: Free Press, 2004, pp. 23-25.
+
+[^4]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_. Concord, NH: Plaidswede Publishing, 2007, pp. 67-89.
+
+[^5]: Nichols, Roy F. _Franklin Pierce: Young Hickory of the Granite Hills_. Philadelphia: University of Pennsylvania Press, 1931, pp. 1-15.
+
+[^6]: Gara, Larry. _The Presidency of Franklin Pierce_. Lawrence: University Press of Kansas, 1991, pp. 12-18.
+
+[^7]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_. Concord, NH: Plaidswede Publishing, 2004, pp. 34-47.
+
+[^8]: Hawthorne, Nathaniel. _Life of Franklin Pierce_. Boston: Ticknor, Reed, and Fields, 1852, pp. 21-25.
+
+[^9]: McFarland, Philip. _Hawthorne in Concord_. New York: Grove Press, 2004, pp. 45-52.
+
+[^10]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 19-22.
+
+[^11]: Nichols, Roy F. _Franklin Pierce_, pp. 28-35.
+
+[^12]: Holt, Michael F. _Franklin Pierce_, pp. 12-18.
+
+[^13]: Watson, Harry L. _Liberty and Power: The Politics of Jacksonian America_. New York: Hill and Wang, 1990, pp. 156-167.
+
+[^14]: Foner, Eric. _The Fiery Trial: Abraham Lincoln and American Slavery_. New York: W.W. Norton, 2010, pp. 67-71.
+
+[^15]: Gienapp, William E. _The Origins of the Republican Party, 1852-1856_. New York: Oxford University Press, 1987, pp. 89-94.
+
+[^16]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, pp. 56-63.
+
+[^17]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 23-26.
+
+[^18]: Howe, Daniel Walker. _What Hath God Wrought: The Transformation of America, 1815-1848_. New York: Oxford University Press, 2007, pp. 502-503.
+
+[^19]: Nichols, Roy F. _Franklin Pierce_, pp. 45-52.
+
 [^20]: Congressional Record, 23rd Congress, 1st Session, 1833-1835.
-[^21]: Holt, Michael F. *Franklin Pierce*, pp. 23-28.
-[^22]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, pp. 89-95.
+
+[^21]: Holt, Michael F. _Franklin Pierce_, pp. 23-28.
+
+[^22]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, pp. 89-95.
+
 [^23]: Congressional Globe, 25th Congress, 1st Session, 1837-1838.
-[^24]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 31-34.
-[^25]: Nichols, Roy F. *Franklin Pierce*, pp. 78-84.
-[^26]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, pp. 123-130.
-[^27]: Eisenhower, John S.D. *So Far from God: The U.S. War with Mexico, 1846-1848*. New York: Random House, 1989, pp. 312-315.
-[^28]: Holt, Michael F. *Franklin Pierce*, pp. 35-39.
-[^29]: Gienapp, William E. *The Origins of the Republican Party*, pp. 45-48.
-[^30]: Silbey, Joel H. *Party Over Section: The Rough and Ready Presidential Election of 1848*. Lawrence: University Press of Kansas, 2009, pp. 178-183.
-[^31]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 78-82.
-[^32]: Potter, David M. *The Impending Crisis*, pp. 178-180.
-[^33]: Officer, Lawrence H. and Smith, Lawrence B. "The Canadian-American Reciprocity Treaty of 1855 to 1866." *Journal of Economic History* 28, no. 4 (1968): 598-623.
-[^34]: May, Robert E. *The Southern Dream of a Caribbean Empire, 1854-1861*. Baton Rouge: Louisiana State University Press, 1973, pp. 45-67.
-[^35]: Holt, Michael F. *Franklin Pierce*, pp. 78-83.
-[^36]: Hoogenboom, Ari. *Outlawing the Spoils: A History of the Civil Service Reform Movement*. Urbana: University of Illinois Press, 1961, pp. 34-37.
-[^37]: Schroeder, John H. *Matthew Calbraith Perry: Antebellum Sailor and Diplomat*. Annapolis: Naval Institute Press, 2001, pp. 212-215.
-[^38]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 85-89.
+
+[^24]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 31-34.
+
+[^25]: Nichols, Roy F. _Franklin Pierce_, pp. 78-84.
+
+[^26]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, pp. 123-130.
+
+[^27]: Eisenhower, John S.D. _So Far from God: The U.S. War with Mexico, 1846-1848_. New York: Random House, 1989, pp. 312-315.
+
+[^28]: Holt, Michael F. _Franklin Pierce_, pp. 35-39.
+
+[^29]: Gienapp, William E. _The Origins of the Republican Party_, pp. 45-48.
+
+[^30]: Silbey, Joel H. _Party Over Section: The Rough and Ready Presidential Election of 1848_. Lawrence: University Press of Kansas, 2009, pp. 178-183.
+
+[^31]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 78-82.
+
+[^32]: Potter, David M. _The Impending Crisis_, pp. 178-180.
+
+[^33]: Officer, Lawrence H. and Smith, Lawrence B. "The Canadian-American Reciprocity Treaty of 1855 to 1866." _Journal of Economic History_ 28, no. 4 (1968): 598-623.
+
+[^34]: May, Robert E. _The Southern Dream of a Caribbean Empire, 1854-1861_. Baton Rouge: Louisiana State University Press, 1973, pp. 45-67.
+
+[^35]: Holt, Michael F. _Franklin Pierce_, pp. 78-83.
+
+[^36]: Hoogenboom, Ari. _Outlawing the Spoils: A History of the Civil Service Reform Movement_. Urbana: University of Illinois Press, 1961, pp. 34-37.
+
+[^37]: Schroeder, John H. _Matthew Calbraith Perry: Antebellum Sailor and Diplomat_. Annapolis: Naval Institute Press, 2001, pp. 212-215.
+
+[^38]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 85-89.
+
 [^39]: Veto Messages of Presidents Pierce and Buchanan, Congressional Record, 1854-1860.
-[^40]: Grob, Gerald N. *Mental Institutions in America: Social Policy to 1875*. New York: Free Press, 1973, pp. 156-159.
-[^41]: Holt, Michael F. *Franklin Pierce*, pp. 68-72.
-[^42]: Potter, David M. *The Impending Crisis*, pp. 145-176.
-[^43]: Johannsen, Robert W. *Stephen A. Douglas*. New York: Oxford University Press, 1973, pp. 412-445.
-[^44]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 92-98.
-[^45]: Holt, Michael F. *The Political Crisis of the 1850s*. New York: Wiley, 1978, pp. 145-181.
-[^46]: Etcheson, Nicole. *Bleeding Kansas: Contested Liberty in the Civil War Era*. Lawrence: University Press of Kansas, 2004, pp. 1-23.
-[^47]: Gienapp, William E. *The Origins of the Republican Party*, pp. 156-189.
-[^48]: Foner, Eric. *Free Soil, Free Labor, Free Men: The Ideology of the Republican Party Before the Civil War*. New York: Oxford University Press, 1970, pp. 87-92.
-[^49]: Cooper, William J. *Jefferson Davis, American*. New York: Knopf, 2000, pp. 234-256.
-[^50]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 102-106.
-[^51]: Swisher, Carl B. *The Taney Period, 1836-1864*. New York: Macmillan, 1974, pp. 589-593.
-[^52]: Holt, Michael F. *Franklin Pierce*, pp. 89-115.
-[^53]: Etcheson, Nicole. *Bleeding Kansas*, pp. 45-89.
-[^54]: Rawley, James A. *Race and Politics: "Bleeding Kansas" and the Coming of the Civil War*. Philadelphia: J.B. Lippincott, 1969, pp. 123-156.
-[^55]: Potter, David M. *The Impending Crisis*, pp. 199-224.
-[^56]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 125-134.
-[^57]: McPherson, James M. *Battle Cry of Freedom: The Civil War Era*. New York: Oxford University Press, 1988, pp. 121-144.
-[^58]: May, Robert E. *The Southern Dream of a Caribbean Empire*, pp. 78-102.
-[^59]: Holt, Michael F. *Franklin Pierce*, pp. 95-99.
-[^60]: Potter, David M. *The Impending Crisis*, pp. 185-188.
-[^61]: Campbell, Stanley W. *The Slave Catchers: Enforcement of the Fugitive Slave Law, 1850-1860*. Chapel Hill: University of North Carolina Press, 1970, pp. 145-167.
-[^62]: Von Frank, Albert J. *The Trials of Anthony Burns: Freedom and Slavery in Emerson's Boston*. Cambridge: Harvard University Press, 1998, pp. 178-203.
-[^63]: Foner, Eric. *Free Soil, Free Labor, Free Men*, pp. 134-138.
-[^64]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 156-162.
-[^65]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 145-148.
-[^66]: Holt, Michael F. *Franklin Pierce*, pp. 118-122.
-[^67]: Hoogenboom, Ari. *Outlawing the Spoils*, pp. 41-45.
-[^68]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 67-73.
-[^69]: Holt, Michael F. *The Political Crisis of the 1850s*, pp. 167-175.
-[^70]: Prucha, Francis Paul. *The Great Father: The United States Government and the American Indians*. Lincoln: University of Nebraska Press, 1984, Vol. 1, pp. 389-395.
-[^71]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 134-139.
-[^72]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 167-171.
-[^73]: Klein, Philip S. *President James Buchanan: A Biography*. University Park: Pennsylvania State University Press, 1962, pp. 245-251.
-[^74]: Nichols, Roy F. *Franklin Pierce*, pp. 89-94.
-[^75]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, pp. 145-152.
-[^76]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 52-56.
-[^77]: Holt, Michael F. *Franklin Pierce*, pp. 42-47.
-[^78]: Nichols, Roy F. *Franklin Pierce*, pp. 95-97.
-[^79]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, pp. 178-181.
-[^80]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 58-62.
+
+[^40]: Grob, Gerald N. _Mental Institutions in America: Social Policy to 1875_. New York: Free Press, 1973, pp. 156-159.
+
+[^41]: Holt, Michael F. _Franklin Pierce_, pp. 68-72.
+
+[^42]: Potter, David M. _The Impending Crisis_, pp. 145-176.
+
+[^43]: Johannsen, Robert W. _Stephen A. Douglas_. New York: Oxford University Press, 1973, pp. 412-445.
+
+[^44]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 92-98.
+
+[^45]: Holt, Michael F. _The Political Crisis of the 1850s_. New York: Wiley, 1978, pp. 145-181.
+
+[^46]: Etcheson, Nicole. _Bleeding Kansas: Contested Liberty in the Civil War Era_. Lawrence: University Press of Kansas, 2004, pp. 1-23.
+
+[^47]: Gienapp, William E. _The Origins of the Republican Party_, pp. 156-189.
+
+[^48]: Foner, Eric. _Free Soil, Free Labor, Free Men: The Ideology of the Republican Party Before the Civil War_. New York: Oxford University Press, 1970, pp. 87-92.
+
+[^49]: Cooper, William J. _Jefferson Davis, American_. New York: Knopf, 2000, pp. 234-256.
+
+[^50]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 102-106.
+
+[^51]: Swisher, Carl B. _The Taney Period, 1836-1864_. New York: Macmillan, 1974, pp. 589-593.
+
+[^52]: Holt, Michael F. _Franklin Pierce_, pp. 89-115.
+
+[^53]: Etcheson, Nicole. _Bleeding Kansas_, pp. 45-89.
+
+[^54]: Rawley, James A. _Race and Politics: "Bleeding Kansas" and the Coming of the Civil War_. Philadelphia: J.B. Lippincott, 1969, pp. 123-156.
+
+[^55]: Potter, David M. _The Impending Crisis_, pp. 199-224.
+
+[^56]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 125-134.
+
+[^57]: McPherson, James M. _Battle Cry of Freedom: The Civil War Era_. New York: Oxford University Press, 1988, pp. 121-144.
+
+[^58]: May, Robert E. _The Southern Dream of a Caribbean Empire_, pp. 78-102.
+
+[^59]: Holt, Michael F. _Franklin Pierce_, pp. 95-99.
+
+[^60]: Potter, David M. _The Impending Crisis_, pp. 185-188.
+
+[^61]: Campbell, Stanley W. _The Slave Catchers: Enforcement of the Fugitive Slave Law, 1850-1860_. Chapel Hill: University of North Carolina Press, 1970, pp. 145-167.
+
+[^62]: Von Frank, Albert J. _The Trials of Anthony Burns: Freedom and Slavery in Emerson's Boston_. Cambridge: Harvard University Press, 1998, pp. 178-203.
+
+[^63]: Foner, Eric. _Free Soil, Free Labor, Free Men_, pp. 134-138.
+
+[^64]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 156-162.
+
+[^65]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 145-148.
+
+[^66]: Holt, Michael F. _Franklin Pierce_, pp. 118-122.
+
+[^67]: Hoogenboom, Ari. _Outlawing the Spoils_, pp. 41-45.
+
+[^68]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 67-73.
+
+[^69]: Holt, Michael F. _The Political Crisis of the 1850s_, pp. 167-175.
+
+[^70]: Prucha, Francis Paul. _The Great Father: The United States Government and the American Indians_. Lincoln: University of Nebraska Press, 1984, Vol. 1, pp. 389-395.
+
+[^71]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 134-139.
+
+[^72]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 167-171.
+
+[^73]: Klein, Philip S. _President James Buchanan: A Biography_. University Park: Pennsylvania State University Press, 1962, pp. 245-251.
+
+[^74]: Nichols, Roy F. _Franklin Pierce_, pp. 89-94.
+
+[^75]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, pp. 145-152.
+
+[^76]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 52-56.
+
+[^77]: Holt, Michael F. _Franklin Pierce_, pp. 42-47.
+
+[^78]: Nichols, Roy F. _Franklin Pierce_, pp. 95-97.
+
+[^79]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, pp. 178-181.
+
+[^80]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 58-62.
+
 [^81]: Boston Daily Atlas, January 8, 1853.
-[^82]: Holt, Michael F. *Franklin Pierce*, pp. 51-54.
-[^83]: Anthony, Carl Sferrazza. *First Ladies: The Saga of the Presidents' Wives and Their Power, 1789-1961*. New York: William Morrow, 1990, pp. 178-183.
-[^84]: Caroli, Betty Boyd. *First Ladies*. New York: Oxford University Press, 1987, pp. 67-70.
-[^85]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 89-93.
-[^86]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 63-67.
-[^87]: Nichols, Roy F. *Franklin Pierce*, pp. 234-238.
-[^88]: McFarland, Philip. *Hawthorne in Concord*, pp. 189-194.
-[^89]: Holt, Michael F. *Franklin Pierce*, pp. 8-11.
-[^90]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, pp. 89-92.
-[^91]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 45-48.
-[^92]: McFarland, Philip. *Hawthorne in Concord*, pp. 56-67.
-[^93]: Hawthorne, Nathaniel. *Life of Franklin Pierce*, Introduction.
-[^94]: Wineapple, Brenda. *Hawthorne: A Life*. New York: Knopf, 2003, pp. 378-384.
-[^95]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 234-241.
-[^96]: Nichols, Roy F. *Franklin Pierce*, pp. 512-515.
-[^97]: Holt, Michael F. *Franklin Pierce*, pp. 134-139.
+
+[^82]: Holt, Michael F. _Franklin Pierce_, pp. 51-54.
+
+[^83]: Anthony, Carl Sferrazza. _First Ladies: The Saga of the Presidents' Wives and Their Power, 1789-1961_. New York: William Morrow, 1990, pp. 178-183.
+
+[^84]: Caroli, Betty Boyd. _First Ladies_. New York: Oxford University Press, 1987, pp. 67-70.
+
+[^85]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 89-93.
+
+[^86]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 63-67.
+
+[^87]: Nichols, Roy F. _Franklin Pierce_, pp. 234-238.
+
+[^88]: McFarland, Philip. _Hawthorne in Concord_, pp. 189-194.
+
+[^89]: Holt, Michael F. _Franklin Pierce_, pp. 8-11.
+
+[^90]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, pp. 89-92.
+
+[^91]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 45-48.
+
+[^92]: McFarland, Philip. _Hawthorne in Concord_, pp. 56-67.
+
+[^93]: Hawthorne, Nathaniel. _Life of Franklin Pierce_, Introduction.
+
+[^94]: Wineapple, Brenda. _Hawthorne: A Life_. New York: Knopf, 2003, pp. 378-384.
+
+[^95]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 234-241.
+
+[^96]: Nichols, Roy F. _Franklin Pierce_, pp. 512-515.
+
+[^97]: Holt, Michael F. _Franklin Pierce_, pp. 134-139.
+
 [^98]: C-SPAN Presidential Historians Survey 2021, https://www.c-span.org/presidentsurvey2021/
-[^99]: Potter, David M. *The Impending Crisis*, pp. 267-270.
-[^100]: McPherson, James M. *Battle Cry of Freedom*, pp. 156-159.
-[^101]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 187-192.
-[^102]: Foner, Eric. *The Fiery Trial*, pp. 89-93.
-[^103]: Klein, Philip S. *President James Buchanan*, pp. 312-334.
-[^104]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 278-283.
+
+[^99]: Potter, David M. _The Impending Crisis_, pp. 267-270.
+
+[^100]: McPherson, James M. _Battle Cry of Freedom_, pp. 156-159.
+
+[^101]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 187-192.
+
+[^102]: Foner, Eric. _The Fiery Trial_, pp. 89-93.
+
+[^103]: Klein, Philip S. _President James Buchanan_, pp. 312-334.
+
+[^104]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 278-283.
+
 [^105]: Pierce Manse Historic Site, Concord, NH, visitor statistics 2015-2020.
+
 [^106]: Concord Monitor, "Reconsidering Franklin Pierce," March 15, 2018.
-[^107]: Nichols, Roy F. *Franklin Pierce*, pp. 520-528.
+
+[^107]: Nichols, Roy F. _Franklin Pierce_, pp. 520-528.
+
 [^108]: New York Times, "Mob Attacks Pierce Home," July 6, 1863.
-[^109]: McPherson, James M. *Battle Cry of Freedom*, pp. 267-269.
-[^110]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 193-196.
-[^111]: May, Robert E. *The Southern Dream of a Caribbean Empire*, pp. 156-162.
+
+[^109]: McPherson, James M. _Battle Cry of Freedom_, pp. 267-269.
+
+[^110]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 193-196.
+
+[^111]: May, Robert E. _The Southern Dream of a Caribbean Empire_, pp. 156-162.
+
 [^112]: Officer, Lawrence H. and Smith, Lawrence B. "The Canadian-American Reciprocity Treaty," pp. 615-620.
-[^113]: Fehrenbacher, Don E. *The Dred Scott Case: Its Significance in American Law and Politics*. New York: Oxford University Press, 1978, pp. 312-345.
-[^114]: Potter, David M. *The Impending Crisis*, pp. 267-296.
-[^115]: Taranto, James and Leo, Leonard. *Presidential Leadership*, pp. 234-238.
+
+[^113]: Fehrenbacher, Don E. _The Dred Scott Case: Its Significance in American Law and Politics_. New York: Oxford University Press, 1978, pp. 312-345.
+
+[^114]: Potter, David M. _The Impending Crisis_, pp. 267-296.
+
+[^115]: Taranto, James and Leo, Leonard. _Presidential Leadership_, pp. 234-238.
+
 [^116]: C-SPAN Presidential Historians Survey 2021.
+
 [^117]: Siena College Research Institute Presidential Expert Poll, 2022.
-[^118]: Holt, Michael F. *Franklin Pierce*, pp. 140-145.
-[^119]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 289-295.
-[^120]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 198-203.
-[^121]: Holt, Michael F. *Franklin Pierce*, pp. 145-150.
-[^122]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 301-308.
-[^123]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, pp. 267-273.
-[^124]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 204-207.
-[^125]: Richardson, James D., ed. *A Compilation of the Messages and Papers of the Presidents*. Washington: Government Printing Office, 1897, Vol. 5, pp. 245-278.
-[^126]: Hoogenboom, Ari. *Outlawing the Spoils*, pp. 52-55.
-[^127]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 208-210.
+
+[^118]: Holt, Michael F. _Franklin Pierce_, pp. 140-145.
+
+[^119]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 289-295.
+
+[^120]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 198-203.
+
+[^121]: Holt, Michael F. _Franklin Pierce_, pp. 145-150.
+
+[^122]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 301-308.
+
+[^123]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, pp. 267-273.
+
+[^124]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 204-207.
+
+[^125]: Richardson, James D., ed. _A Compilation of the Messages and Papers of the Presidents_. Washington: Government Printing Office, 1897, Vol. 5, pp. 245-278.
+
+[^126]: Hoogenboom, Ari. _Outlawing the Spoils_, pp. 52-55.
+
+[^127]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 208-210.
+
 [^128]: Officer, Lawrence H. and Smith, Lawrence B. "The Canadian-American Reciprocity Treaty," pp. 621-623.
-[^129]: Cooper, William J. *Jefferson Davis, American*, pp. 256-267.
-[^130]: Wallner, Peter A. *Franklin Pierce: Martyr for the Union*, pp. 312-318.
-[^131]: Potter, David M. *The Impending Crisis*, pp. 1-18.
-[^132]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 211-214.
-[^133]: McFarland, Philip. *Hawthorne in Concord*, pp. 234-239.
-[^134]: Hawthorne, Nathaniel. *Life of Franklin Pierce*, Conclusion.
-[^135]: Wineapple, Brenda. *Hawthorne: A Life*, pp. 401-406.
-[^136]: Potter, David M. *The Impending Crisis*, p. 198.
-[^137]: Potter, David M. *The Impending Crisis*, pp. 199-224.
-[^138]: Holt, Michael F. *Franklin Pierce*, p. 142.
-[^139]: Holt, Michael F. *The Political Crisis of the 1850s*, pp. 178-181.
-[^140]: Foner, Eric. *Free Soil, Free Labor, Free Men*, pp. 145-149.
-[^141]: Foner, Eric. *The Fiery Trial*, p. 92.
-[^142]: Foner, Eric. *Free Soil, Free Labor, Free Men*, pp. 150-156.
-[^143]: Foner, Eric. *The Fiery Trial*, pp. 93-97.
-[^144]: Baker, Jean H. *Affairs of Party: The Political Culture of Northern Democrats in the Mid-Nineteenth Century*. Ithaca: Cornell University Press, 1983, pp. 189-203.
-[^145]: Gienapp, William E. *The Origins of the Republican Party*, pp. 234-256.
-[^146]: Baker, Jean H. *Affairs of Party*, pp. 210-215.
-[^147]: Nichols, Roy F. *Franklin Pierce*, p. 547.
-[^148]: Nichols, Roy F. *Franklin Pierce*, pp. 534-542.
-[^149]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 215-218.
+
+[^129]: Cooper, William J. _Jefferson Davis, American_, pp. 256-267.
+
+[^130]: Wallner, Peter A. _Franklin Pierce: Martyr for the Union_, pp. 312-318.
+
+[^131]: Potter, David M. _The Impending Crisis_, pp. 1-18.
+
+[^132]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 211-214.
+
+[^133]: McFarland, Philip. _Hawthorne in Concord_, pp. 234-239.
+
+[^134]: Hawthorne, Nathaniel. _Life of Franklin Pierce_, Conclusion.
+
+[^135]: Wineapple, Brenda. _Hawthorne: A Life_, pp. 401-406.
+
+[^136]: Potter, David M. _The Impending Crisis_, p. 198.
+
+[^137]: Potter, David M. _The Impending Crisis_, pp. 199-224.
+
+[^138]: Holt, Michael F. _Franklin Pierce_, p. 142.
+
+[^139]: Holt, Michael F. _The Political Crisis of the 1850s_, pp. 178-181.
+
+[^140]: Foner, Eric. _Free Soil, Free Labor, Free Men_, pp. 145-149.
+
+[^141]: Foner, Eric. _The Fiery Trial_, p. 92.
+
+[^142]: Foner, Eric. _Free Soil, Free Labor, Free Men_, pp. 150-156.
+
+[^143]: Foner, Eric. _The Fiery Trial_, pp. 93-97.
+
+[^144]: Baker, Jean H. _Affairs of Party: The Political Culture of Northern Democrats in the Mid-Nineteenth Century_. Ithaca: Cornell University Press, 1983, pp. 189-203.
+
+[^145]: Gienapp, William E. _The Origins of the Republican Party_, pp. 234-256.
+
+[^146]: Baker, Jean H. _Affairs of Party_, pp. 210-215.
+
+[^147]: Nichols, Roy F. _Franklin Pierce_, p. 547.
+
+[^148]: Nichols, Roy F. _Franklin Pierce_, pp. 534-542.
+
+[^149]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 215-218.
+
 [^150]: Liberator, "Pierce: Tool of Slave Power," June 10, 1854.
-[^151]: Donald, David Herbert. *Charles Sumner and the Coming of the Civil War*. New York: Knopf, 1960, pp. 267-272.
+
+[^151]: Donald, David Herbert. _Charles Sumner and the Coming of the Civil War_. New York: Knopf, 1960, pp. 267-272.
+
 [^152]: New York Tribune, editorials 1853-1857.
-[^153]: Prucha, Francis Paul. *The Great Father*, Vol. 1, pp. 398-402.
-[^154]: Holt, Michael F. *Franklin Pierce*, pp. 143-147.
-[^155]: Gara, Larry. *The Presidency of Franklin Pierce*, pp. 219-223.
-[^156]: Pierce, Franklin. Inaugural Address, March 4, 1853, in Richardson, *Messages and Papers*, Vol. 5, pp. 198-203.
-[^157]: Wallner, Peter A. *Franklin Pierce: New Hampshire's Favorite Son*, p. 234.
-[^158]: Attributed quote, authenticity disputed. See Holt, *Franklin Pierce*, p. 135.
+
+[^153]: Prucha, Francis Paul. _The Great Father_, Vol. 1, pp. 398-402.
+
+[^154]: Holt, Michael F. _Franklin Pierce_, pp. 143-147.
+
+[^155]: Gara, Larry. _The Presidency of Franklin Pierce_, pp. 219-223.
+
+[^156]: Pierce, Franklin. Inaugural Address, March 4, 1853, in Richardson, _Messages and Papers_, Vol. 5, pp. 198-203.
+
+[^157]: Wallner, Peter A. _Franklin Pierce: New Hampshire's Favorite Son_, p. 234.
+
+[^158]: Attributed quote, authenticity disputed. See Holt, _Franklin Pierce_, p. 135.
+
 [^159]: Pierce, Franklin. Inaugural Address, March 4, 1853.
-[^160]: Nichols, Roy F. *Franklin Pierce*, p. 478.
+
+[^160]: Nichols, Roy F. _Franklin Pierce_, p. 478.

@@ -147,28 +147,28 @@ Radical historians have interpreted Cicero as a reactionary defender of aristocr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 106 BCE | Born January 3 in Arpinum to an equestrian family |
-| 90-89 BCE | Serves in Social War under Pompey Strabo |
-| 81 BCE | Defends Sextus Roscius in his first major criminal case |
-| 79-77 BCE | Studies philosophy and rhetoric in Athens and Rhodes |
-| 75 BCE | Serves as quaestor in western Sicily |
-| 70 BCE | Prosecutes Gaius Verres for extortion, winning fame as Rome's leading orator |
-| 69 BCE | Elected aedile |
-| 66 BCE | Elected praetor; delivers Pro Lege Manilia supporting Pompey |
-| 63 BCE | Elected consul; suppresses Catilinarian conspiracy; hailed as Pater Patriae |
-| 62 BCE | Executes Catilinarian conspirators without trial |
-| 58 BCE | Exiled by Clodius for executing citizens without trial |
-| 57 BCE | Recalled from exile through Pompey's efforts |
-| 51-50 BCE | Serves as governor of Cilicia |
-| 49 BCE | Civil war begins between Caesar and Pompey |
-| 48 BCE | Joins Pompey's forces; returns to Italy after Pharsalus |
-| 46 BCE | Divorces Terentia; briefly marries Publilia |
-| 45 BCE | Daughter Tullia dies; writes philosophical works including De Finibus and Tusculan Disputations |
-| 44 BCE | Caesar assassinated March 15; Cicero delivers First Philippic against Antony |
-| 44-43 BCE | Delivers series of Philippics attacking Mark Antony |
-| 43 BCE | Second Triumvirate formed; Cicero proscribed and assassinated December 7 |
+| Year      | Event                                                                                           |
+| --------- | ----------------------------------------------------------------------------------------------- |
+| 106 BCE   | Born January 3 in Arpinum to an equestrian family                                               |
+| 90-89 BCE | Serves in Social War under Pompey Strabo                                                        |
+| 81 BCE    | Defends Sextus Roscius in his first major criminal case                                         |
+| 79-77 BCE | Studies philosophy and rhetoric in Athens and Rhodes                                            |
+| 75 BCE    | Serves as quaestor in western Sicily                                                            |
+| 70 BCE    | Prosecutes Gaius Verres for extortion, winning fame as Rome's leading orator                    |
+| 69 BCE    | Elected aedile                                                                                  |
+| 66 BCE    | Elected praetor; delivers Pro Lege Manilia supporting Pompey                                    |
+| 63 BCE    | Elected consul; suppresses Catilinarian conspiracy; hailed as Pater Patriae                     |
+| 62 BCE    | Executes Catilinarian conspirators without trial                                                |
+| 58 BCE    | Exiled by Clodius for executing citizens without trial                                          |
+| 57 BCE    | Recalled from exile through Pompey's efforts                                                    |
+| 51-50 BCE | Serves as governor of Cilicia                                                                   |
+| 49 BCE    | Civil war begins between Caesar and Pompey                                                      |
+| 48 BCE    | Joins Pompey's forces; returns to Italy after Pharsalus                                         |
+| 46 BCE    | Divorces Terentia; briefly marries Publilia                                                     |
+| 45 BCE    | Daughter Tullia dies; writes philosophical works including De Finibus and Tusculan Disputations |
+| 44 BCE    | Caesar assassinated March 15; Cicero delivers First Philippic against Antony                    |
+| 44-43 BCE | Delivers series of Philippics attacking Mark Antony                                             |
+| 43 BCE    | Second Triumvirate formed; Cicero proscribed and assassinated December 7                        |
 
 ---
 
@@ -190,149 +190,294 @@ Radical historians have interpreted Cicero as a reactionary defender of aristocr
 
 ## References
 
-[^1]: Rawson, Elizabeth. *Cicero: A Portrait*. Cornell University Press, 1983, p. 1-2.
-[^2]: Everitt, Anthony. *Cicero: The Life and Times of Rome's Greatest Politician*. Random House, 2001, p. 15-17.
-[^3]: Plutarch. *Life of Cicero*, 1.1-2.
-[^4]: Rawson, *Cicero: A Portrait*, p. 5.
-[^5]: Everitt, *Cicero*, p. 21-25.
-[^6]: Steel, Catherine. *Cicero, Rhetoric, and Empire*. Oxford University Press, 2001, p. 22-23.
-[^7]: Everitt, *Cicero*, p. 31-33.
-[^8]: Plutarch. *Life of Cicero*, 3.1-4.
-[^9]: Rawson, *Cicero: A Portrait*, p. 11-12.
-[^10]: Steel, *Cicero, Rhetoric, and Empire*, p. 28.
-[^11]: Everitt, *Cicero*, p. 45-47.
-[^12]: Cicero. *In Verrem*, 1.1-3.
-[^13]: Steel, Catherine. "Cicero, Oratory, and Public Life." In *The Cambridge Companion to Cicero*, edited by Catherine Steel, Cambridge University Press, 2013, p. 160-170.
-[^14]: Everitt, *Cicero*, p. 52-58.
-[^15]: Rawson, *Cicero: A Portrait*, p. 31-34.
-[^16]: Plutarch. *Life of Cicero*, 9.1-2.
-[^17]: Cicero. *Pro Lege Manilia*, 27-68.
-[^18]: Everitt, *Cicero*, p. 77-81.
-[^19]: Wiseman, T.P. *New Men in the Roman Senate, 139 B.C.-A.D. 14*. Oxford University Press, 1971, p. 107-108.
-[^20]: Steel, *Cicero, Rhetoric, and Empire*, p. 45.
-[^21]: Sallust. *Bellum Catilinae*, 14-16.
-[^22]: Cicero. *In Catilinam*, 1.1-33.
-[^23]: Plutarch. *Life of Cicero*, 21-22.
-[^24]: Everitt, *Cicero*, p. 103.
-[^25]: Steel, Catherine. "Consul and Consular in Cicero's Political Career." In *Community and Communication: Oratory and Politics in Republican Rome*, edited by Catherine Steel and Henriette van der Blom, Oxford University Press, 2013, p. 196-210.
-[^26]: Woolf, Raphael. "Cicero's Philosophical Legacy." In *The Cambridge Companion to Cicero*, p. 333-348.
-[^27]: Powell, J.G.F. "Cicero's Translations from Greek." In *Cicero the Philosopher*, edited by J.G.F. Powell, Oxford University Press, 1995, p. 273-300.
-[^28]: Rawson, *Cicero: A Portrait*, p. 235-286.
-[^29]: Cicero. *De Re Publica*, 3.22.33.
-[^30]: Atkins, E.M. "Cicero." In *The Cambridge History of Greek and Roman Political Thought*, edited by Christopher Rowe and Malcolm Schofield, Cambridge University Press, 2000, p. 477-516.
-[^31]: Cicero. *De Re Publica*, 6.9-29 (Somnium Scipionis).
-[^32]: Kennedy, George A. *The Art of Rhetoric in the Roman World*. Princeton University Press, 1972, p. 219-256.
-[^33]: Cicero. *De Oratore*, 3.55-143.
-[^34]: Mack, Peter. *A History of Renaissance Rhetoric 1380-1620*. Oxford University Press, 2011, p. 25-42.
-[^35]: Shackleton Bailey, D.R., ed. *Cicero's Letters to Atticus*. Cambridge University Press, 1965-1970.
-[^36]: White, Peter. *Cicero in Letters: Epistolary Relations of the Late Republic*. Oxford University Press, 2010, p. 1-15.
-[^37]: Hall, Jon. "Cicero and Quintilian on the Oratorical Use of Hand Gestures." *Classical Quarterly* 54.1 (2004): 143-160.
-[^38]: Craig, Christopher P. "Audience Expectations, Invective, and Proof." In *Cicero the Advocate*, edited by Jonathan Powell and Jeremy Paterson, Oxford University Press, 2004, p. 187-213.
-[^39]: May, James M. *Trials of Character: The Eloquence of Ciceronian Ethos*. University of North Carolina Press, 1988, p. 3-27.
-[^40]: Steel, *Cicero, Rhetoric, and Empire*, p. 89-115.
-[^41]: Habicht, Christian. *Cicero the Politician*. Johns Hopkins University Press, 1990, p. 82-108.
-[^42]: Lacey, W.K. *Cicero and the End of the Roman Republic*. Hodder & Stoughton, 1978, p. 125-162.
-[^43]: Arena, Valentina. *Libertas and the Practice of Politics in the Late Roman Republic*. Cambridge University Press, 2012, p. 245-267.
-[^44]: Lintott, Andrew. *The Constitution of the Roman Republic*. Oxford University Press, 1999, p. 152-154.
-[^45]: Sallust. *Bellum Catilinae*, 51.
-[^46]: Tatum, W. Jeffrey. *The Patrician Tribune: Publius Clodius Pulcher*. University of North Carolina Press, 1999, p. 149-172.
-[^47]: Everitt, *Cicero*, p. 139-145.
-[^48]: Kelly, Gordon P. *A History of Exile in the Roman Republic*. Cambridge University Press, 2006, p. 87-102.
-[^49]: Syme, Ronald. *The Roman Revolution*. Oxford University Press, 1939, p. 144-145.
-[^50]: Plutarch. *Life of Cicero*, 24.1-3.
-[^51]: Rawson, *Cicero: A Portrait*, p. 301-305.
-[^52]: Dugan, John. *Making a New Man: Ciceronian Self-Fashioning in the Rhetorical Works*. Oxford University Press, 2005, p. 1-20.
-[^53]: Mitchell, Thomas N. *Cicero: The Senior Statesman*. Yale University Press, 1991, p. 45-67.
-[^54]: Habicht, *Cicero the Politician*, p. 56-61.
-[^55]: Frisch, Hartvig. *Cicero's Fight for the Republic*. Gyldendal, 1946, p. 243-286.
-[^56]: Syme, *The Roman Revolution*, p. 143-161.
-[^57]: Grimal, Pierre. *Cicero*. Translated by Mary Ames Johnstone. Cambridge University Press, 1986, p. 341-356.
-[^58]: Glucker, John. "Cicero's Philosophical Affiliations." In *The Question of "Eclecticism"*, edited by John M. Dillon and A.A. Long, University of California Press, 1988, p. 34-69.
-[^59]: Schofield, Malcolm. "Writing Philosophy." In *The Cambridge Companion to Cicero*, p. 73-87.
-[^60]: Treggiari, Susan. *Terentia, Tullia and Publilia: The Women of Cicero's Family*. Routledge, 2007, p. 89-127.
-[^61]: Dixon, Suzanne. "The Sentimental Ideal of the Roman Family." In *Marriage, Divorce, and Children in Ancient Rome*, edited by Beryl Rawson, Oxford University Press, 1991, p. 99-113.
-[^62]: Plutarch. *Life of Cicero*, 41.3-5.
-[^63]: Beard, Mary, and Michael Crawford. *Rome in the Late Republic*. 2nd ed., Duckworth, 1999, p. 89-104.
-[^64]: Mouritsen, Henrik. *Plebs and Politics in the Late Roman Republic*. Cambridge University Press, 2001, p. 112-134.
-[^65]: Wiseman, T.P. "The Senate and the People." In *The Cambridge Ancient History*, vol. 9, 2nd ed., edited by J.A. Crook, Andrew Lintott, and Elizabeth Rawson, Cambridge University Press, 1994, p. 327-367.
-[^66]: Treggiari, *Terentia, Tullia and Publilia*, p. 15-35.
-[^67]: Everitt, *Cicero*, p. 40-41.
-[^68]: Steel, Catherine. "Lost Orators of Rome." In *The Cambridge Companion to Ancient Rhetoric*, edited by Erik Gunderson, Cambridge University Press, 2009, p. 237-249.
-[^69]: Treggiari, *Terentia, Tullia and Publilia*, p. 78-88.
-[^70]: Plutarch. *Life of Cicero*, 41.1-2.
-[^71]: Treggiari, *Terentia, Tullia and Publilia*, p. 128-145.
-[^72]: Everitt, *Cicero*, p. 277-278.
-[^73]: White, *Cicero in Letters*, p. 89-124.
-[^74]: Shackleton Bailey, D.R. *Cicero*. Duckworth, 1971, p. 185-201.
-[^75]: White, *Cicero in Letters*, p. 156-187.
-[^76]: Cicero. *Letters to Friends* (Ad Familiares), 16.1-27.
-[^77]: Everitt, *Cicero*, p. 43-44.
-[^78]: Plutarch. *Life of Cicero*, 47.5-6.
-[^79]: Rawson, *Cicero: A Portrait*, p. 17-19.
-[^80]: D'Arms, John H. *Romans on the Bay of Naples*. Harvard University Press, 1970, p. 98-102.
-[^81]: Cicero. *Letters to Atticus* (Ad Atticum), 1.4-6.
-[^82]: Dugan, *Making a New Man*, p. 88-137.
-[^83]: Steel, *Cicero, Rhetoric, and Empire*, p. 156-178.
-[^84]: Rawson, *Cicero: A Portrait*, p. 301-318.
-[^85]: Appian. *Civil Wars*, 4.19-20.
-[^86]: Plutarch. *Life of Cicero*, 47-48.
-[^87]: Seneca the Elder. *Suasoriae*, 6.17.
-[^88]: Winterbottom, Michael. "Cicero and the Silver Age." In *Cicero the Philosopher*, p. 237-266.
-[^89]: Quintilian. *Institutio Oratoria*, 10.1.105-112.
-[^90]: Kennedy, *The Art of Rhetoric in the Roman World*, p. 487-514.
-[^91]: Witt, Ronald G. *In the Footsteps of the Ancients: The Origins of Humanism from Lovato to Bruni*. Brill, 2000, p. 231-289.
-[^92]: Petrarch. *Letters on Familiar Matters* (Rerum familiarium libri), 24.3.
-[^93]: Garin, Eugenio. *Italian Humanism: Philosophy and Civic Life in the Renaissance*. Translated by Peter Munz, Harper & Row, 1965, p. 1-38.
-[^94]: Richard, Carl J. *The Founders and the Classics: Greece, Rome, and the American Enlightenment*. Harvard University Press, 1994, p. 71-94.
-[^95]: Sellers, M.N.S. *American Republicanism: Roman Ideology in the United States Constitution*. New York University Press, 1994, p. 89-124.
-[^96]: Reinhold, Meyer. *Classica Americana: The Greek and Roman Heritage in the United States*. Wayne State University Press, 1984, p. 103-127.
-[^97]: Arena, *Libertas and the Practice of Politics*, p. 301-324.
-[^98]: Winterbottom, Michael. "Believing the Pro Marcello." In *Cicero the Advocate*, p. 24-38.
-[^99]: Kennedy, *The Art of Rhetoric in the Roman World*, p. 278-280.
+[^1]: Rawson, Elizabeth. _Cicero: A Portrait_. Cornell University Press, 1983, p. 1-2.
+
+[^2]: Everitt, Anthony. _Cicero: The Life and Times of Rome's Greatest Politician_. Random House, 2001, p. 15-17.
+
+[^3]: Plutarch. _Life of Cicero_, 1.1-2.
+
+[^4]: Rawson, _Cicero: A Portrait_, p. 5.
+
+[^5]: Everitt, _Cicero_, p. 21-25.
+
+[^6]: Steel, Catherine. _Cicero, Rhetoric, and Empire_. Oxford University Press, 2001, p. 22-23.
+
+[^7]: Everitt, _Cicero_, p. 31-33.
+
+[^8]: Plutarch. _Life of Cicero_, 3.1-4.
+
+[^9]: Rawson, _Cicero: A Portrait_, p. 11-12.
+
+[^10]: Steel, _Cicero, Rhetoric, and Empire_, p. 28.
+
+[^11]: Everitt, _Cicero_, p. 45-47.
+
+[^12]: Cicero. _In Verrem_, 1.1-3.
+
+[^13]: Steel, Catherine. "Cicero, Oratory, and Public Life." In _The Cambridge Companion to Cicero_, edited by Catherine Steel, Cambridge University Press, 2013, p. 160-170.
+
+[^14]: Everitt, _Cicero_, p. 52-58.
+
+[^15]: Rawson, _Cicero: A Portrait_, p. 31-34.
+
+[^16]: Plutarch. _Life of Cicero_, 9.1-2.
+
+[^17]: Cicero. _Pro Lege Manilia_, 27-68.
+
+[^18]: Everitt, _Cicero_, p. 77-81.
+
+[^19]: Wiseman, T.P. _New Men in the Roman Senate, 139 B.C.-A.D. 14_. Oxford University Press, 1971, p. 107-108.
+
+[^20]: Steel, _Cicero, Rhetoric, and Empire_, p. 45.
+
+[^21]: Sallust. _Bellum Catilinae_, 14-16.
+
+[^22]: Cicero. _In Catilinam_, 1.1-33.
+
+[^23]: Plutarch. _Life of Cicero_, 21-22.
+
+[^24]: Everitt, _Cicero_, p. 103.
+
+[^25]: Steel, Catherine. "Consul and Consular in Cicero's Political Career." In _Community and Communication: Oratory and Politics in Republican Rome_, edited by Catherine Steel and Henriette van der Blom, Oxford University Press, 2013, p. 196-210.
+
+[^26]: Woolf, Raphael. "Cicero's Philosophical Legacy." In _The Cambridge Companion to Cicero_, p. 333-348.
+
+[^27]: Powell, J.G.F. "Cicero's Translations from Greek." In _Cicero the Philosopher_, edited by J.G.F. Powell, Oxford University Press, 1995, p. 273-300.
+
+[^28]: Rawson, _Cicero: A Portrait_, p. 235-286.
+
+[^29]: Cicero. _De Re Publica_, 3.22.33.
+
+[^30]: Atkins, E.M. "Cicero." In _The Cambridge History of Greek and Roman Political Thought_, edited by Christopher Rowe and Malcolm Schofield, Cambridge University Press, 2000, p. 477-516.
+
+[^31]: Cicero. _De Re Publica_, 6.9-29 (Somnium Scipionis).
+
+[^32]: Kennedy, George A. _The Art of Rhetoric in the Roman World_. Princeton University Press, 1972, p. 219-256.
+
+[^33]: Cicero. _De Oratore_, 3.55-143.
+
+[^34]: Mack, Peter. _A History of Renaissance Rhetoric 1380-1620_. Oxford University Press, 2011, p. 25-42.
+
+[^35]: Shackleton Bailey, D.R., ed. _Cicero's Letters to Atticus_. Cambridge University Press, 1965-1970.
+
+[^36]: White, Peter. _Cicero in Letters: Epistolary Relations of the Late Republic_. Oxford University Press, 2010, p. 1-15.
+
+[^37]: Hall, Jon. "Cicero and Quintilian on the Oratorical Use of Hand Gestures." _Classical Quarterly_ 54.1 (2004): 143-160.
+
+[^38]: Craig, Christopher P. "Audience Expectations, Invective, and Proof." In _Cicero the Advocate_, edited by Jonathan Powell and Jeremy Paterson, Oxford University Press, 2004, p. 187-213.
+
+[^39]: May, James M. _Trials of Character: The Eloquence of Ciceronian Ethos_. University of North Carolina Press, 1988, p. 3-27.
+
+[^40]: Steel, _Cicero, Rhetoric, and Empire_, p. 89-115.
+
+[^41]: Habicht, Christian. _Cicero the Politician_. Johns Hopkins University Press, 1990, p. 82-108.
+
+[^42]: Lacey, W.K. _Cicero and the End of the Roman Republic_. Hodder & Stoughton, 1978, p. 125-162.
+
+[^43]: Arena, Valentina. _Libertas and the Practice of Politics in the Late Roman Republic_. Cambridge University Press, 2012, p. 245-267.
+
+[^44]: Lintott, Andrew. _The Constitution of the Roman Republic_. Oxford University Press, 1999, p. 152-154.
+
+[^45]: Sallust. _Bellum Catilinae_, 51.
+
+[^46]: Tatum, W. Jeffrey. _The Patrician Tribune: Publius Clodius Pulcher_. University of North Carolina Press, 1999, p. 149-172.
+
+[^47]: Everitt, _Cicero_, p. 139-145.
+
+[^48]: Kelly, Gordon P. _A History of Exile in the Roman Republic_. Cambridge University Press, 2006, p. 87-102.
+
+[^49]: Syme, Ronald. _The Roman Revolution_. Oxford University Press, 1939, p. 144-145.
+
+[^50]: Plutarch. _Life of Cicero_, 24.1-3.
+
+[^51]: Rawson, _Cicero: A Portrait_, p. 301-305.
+
+[^52]: Dugan, John. _Making a New Man: Ciceronian Self-Fashioning in the Rhetorical Works_. Oxford University Press, 2005, p. 1-20.
+
+[^53]: Mitchell, Thomas N. _Cicero: The Senior Statesman_. Yale University Press, 1991, p. 45-67.
+
+[^54]: Habicht, _Cicero the Politician_, p. 56-61.
+
+[^55]: Frisch, Hartvig. _Cicero's Fight for the Republic_. Gyldendal, 1946, p. 243-286.
+
+[^56]: Syme, _The Roman Revolution_, p. 143-161.
+
+[^57]: Grimal, Pierre. _Cicero_. Translated by Mary Ames Johnstone. Cambridge University Press, 1986, p. 341-356.
+
+[^58]: Glucker, John. "Cicero's Philosophical Affiliations." In _The Question of "Eclecticism"_, edited by John M. Dillon and A.A. Long, University of California Press, 1988, p. 34-69.
+
+[^59]: Schofield, Malcolm. "Writing Philosophy." In _The Cambridge Companion to Cicero_, p. 73-87.
+
+[^60]: Treggiari, Susan. _Terentia, Tullia and Publilia: The Women of Cicero's Family_. Routledge, 2007, p. 89-127.
+
+[^61]: Dixon, Suzanne. "The Sentimental Ideal of the Roman Family." In _Marriage, Divorce, and Children in Ancient Rome_, edited by Beryl Rawson, Oxford University Press, 1991, p. 99-113.
+
+[^62]: Plutarch. _Life of Cicero_, 41.3-5.
+
+[^63]: Beard, Mary, and Michael Crawford. _Rome in the Late Republic_. 2nd ed., Duckworth, 1999, p. 89-104.
+
+[^64]: Mouritsen, Henrik. _Plebs and Politics in the Late Roman Republic_. Cambridge University Press, 2001, p. 112-134.
+
+[^65]: Wiseman, T.P. "The Senate and the People." In _The Cambridge Ancient History_, vol. 9, 2nd ed., edited by J.A. Crook, Andrew Lintott, and Elizabeth Rawson, Cambridge University Press, 1994, p. 327-367.
+
+[^66]: Treggiari, _Terentia, Tullia and Publilia_, p. 15-35.
+
+[^67]: Everitt, _Cicero_, p. 40-41.
+
+[^68]: Steel, Catherine. "Lost Orators of Rome." In _The Cambridge Companion to Ancient Rhetoric_, edited by Erik Gunderson, Cambridge University Press, 2009, p. 237-249.
+
+[^69]: Treggiari, _Terentia, Tullia and Publilia_, p. 78-88.
+
+[^70]: Plutarch. _Life of Cicero_, 41.1-2.
+
+[^71]: Treggiari, _Terentia, Tullia and Publilia_, p. 128-145.
+
+[^72]: Everitt, _Cicero_, p. 277-278.
+
+[^73]: White, _Cicero in Letters_, p. 89-124.
+
+[^74]: Shackleton Bailey, D.R. _Cicero_. Duckworth, 1971, p. 185-201.
+
+[^75]: White, _Cicero in Letters_, p. 156-187.
+
+[^76]: Cicero. _Letters to Friends_ (Ad Familiares), 16.1-27.
+
+[^77]: Everitt, _Cicero_, p. 43-44.
+
+[^78]: Plutarch. _Life of Cicero_, 47.5-6.
+
+[^79]: Rawson, _Cicero: A Portrait_, p. 17-19.
+
+[^80]: D'Arms, John H. _Romans on the Bay of Naples_. Harvard University Press, 1970, p. 98-102.
+
+[^81]: Cicero. _Letters to Atticus_ (Ad Atticum), 1.4-6.
+
+[^82]: Dugan, _Making a New Man_, p. 88-137.
+
+[^83]: Steel, _Cicero, Rhetoric, and Empire_, p. 156-178.
+
+[^84]: Rawson, _Cicero: A Portrait_, p. 301-318.
+
+[^85]: Appian. _Civil Wars_, 4.19-20.
+
+[^86]: Plutarch. _Life of Cicero_, 47-48.
+
+[^87]: Seneca the Elder. _Suasoriae_, 6.17.
+
+[^88]: Winterbottom, Michael. "Cicero and the Silver Age." In _Cicero the Philosopher_, p. 237-266.
+
+[^89]: Quintilian. _Institutio Oratoria_, 10.1.105-112.
+
+[^90]: Kennedy, _The Art of Rhetoric in the Roman World_, p. 487-514.
+
+[^91]: Witt, Ronald G. _In the Footsteps of the Ancients: The Origins of Humanism from Lovato to Bruni_. Brill, 2000, p. 231-289.
+
+[^92]: Petrarch. _Letters on Familiar Matters_ (Rerum familiarium libri), 24.3.
+
+[^93]: Garin, Eugenio. _Italian Humanism: Philosophy and Civic Life in the Renaissance_. Translated by Peter Munz, Harper & Row, 1965, p. 1-38.
+
+[^94]: Richard, Carl J. _The Founders and the Classics: Greece, Rome, and the American Enlightenment_. Harvard University Press, 1994, p. 71-94.
+
+[^95]: Sellers, M.N.S. _American Republicanism: Roman Ideology in the United States Constitution_. New York University Press, 1994, p. 89-124.
+
+[^96]: Reinhold, Meyer. _Classica Americana: The Greek and Roman Heritage in the United States_. Wayne State University Press, 1984, p. 103-127.
+
+[^97]: Arena, _Libertas and the Practice of Politics_, p. 301-324.
+
+[^98]: Winterbottom, Michael. "Believing the Pro Marcello." In _Cicero the Advocate_, p. 24-38.
+
+[^99]: Kennedy, _The Art of Rhetoric in the Roman World_, p. 278-280.
+
 [^100]: Woolf, "Cicero's Philosophical Legacy," p. 333-348.
+
 [^101]: Powell, "Cicero's Translations from Greek," p. 273-300.
-[^102]: Copenhaver, Brian P., and Charles B. Schmitt. *Renaissance Philosophy*. Oxford University Press, 1992, p. 78-95.
-[^103]: Beard and Crawford, *Rome in the Late Republic*, p. 3-15.
-[^104]: White, *Cicero in Letters*, p. 201-234.
-[^105]: Lacey, *Cicero and the End of the Roman Republic*, p. 174-192.
-[^106]: Everitt, *Cicero*, p. 351-356.
-[^107]: Arena, *Libertas and the Practice of Politics*, p. 289-300.
-[^108]: Rawson, *Cicero: A Portrait*, p. 235-286.
+
+[^102]: Copenhaver, Brian P., and Charles B. Schmitt. _Renaissance Philosophy_. Oxford University Press, 1992, p. 78-95.
+
+[^103]: Beard and Crawford, _Rome in the Late Republic_, p. 3-15.
+
+[^104]: White, _Cicero in Letters_, p. 201-234.
+
+[^105]: Lacey, _Cicero and the End of the Roman Republic_, p. 174-192.
+
+[^106]: Everitt, _Cicero_, p. 351-356.
+
+[^107]: Arena, _Libertas and the Practice of Politics_, p. 289-300.
+
+[^108]: Rawson, _Cicero: A Portrait_, p. 235-286.
+
 [^109]: Powell, "Cicero's Translations from Greek," p. 295-300.
-[^110]: Reynolds, L.D., and N.G. Wilson. *Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature*. 4th ed., Oxford University Press, 2013, p. 34-56.
-[^111]: Kennedy, *The Art of Rhetoric in the Roman World*, p. 219-256.
-[^112]: Fantham, Elaine. *The Roman World of Cicero's De Oratore*. Oxford University Press, 2004, p. 1-23.
-[^113]: Kennedy, George A. *Classical Rhetoric and Its Christian and Secular Tradition from Ancient to Modern Times*. 2nd ed., University of North Carolina Press, 1999, p. 95-122.
-[^114]: Mitchell, *Cicero: The Senior Statesman*, p. 198-224.
-[^115]: Habicht, *Cicero the Politician*, p. 112-128.
-[^116]: Steel, *Cicero, Rhetoric, and Empire*, p. 201-234.
-[^117]: Harris, Robert. *Imperium*, *Lustrum*, and *Dictator* (Cicero Trilogy). Hutchinson, 2006-2015.
-[^118]: Dugan, *Making a New Man*, p. 278-312.
-[^119]: Everitt, *Cicero*, p. 324-345.
-[^120]: Richard, *The Founders and the Classics*, p. 71-94.
-[^121]: Sellers, *American Republicanism*, p. 156-189.
+
+[^110]: Reynolds, L.D., and N.G. Wilson. _Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature_. 4th ed., Oxford University Press, 2013, p. 34-56.
+
+[^111]: Kennedy, _The Art of Rhetoric in the Roman World_, p. 219-256.
+
+[^112]: Fantham, Elaine. _The Roman World of Cicero's De Oratore_. Oxford University Press, 2004, p. 1-23.
+
+[^113]: Kennedy, George A. _Classical Rhetoric and Its Christian and Secular Tradition from Ancient to Modern Times_. 2nd ed., University of North Carolina Press, 1999, p. 95-122.
+
+[^114]: Mitchell, _Cicero: The Senior Statesman_, p. 198-224.
+
+[^115]: Habicht, _Cicero the Politician_, p. 112-128.
+
+[^116]: Steel, _Cicero, Rhetoric, and Empire_, p. 201-234.
+
+[^117]: Harris, Robert. _Imperium_, _Lustrum_, and _Dictator_ (Cicero Trilogy). Hutchinson, 2006-2015.
+
+[^118]: Dugan, _Making a New Man_, p. 278-312.
+
+[^119]: Everitt, _Cicero_, p. 324-345.
+
+[^120]: Richard, _The Founders and the Classics_, p. 71-94.
+
+[^121]: Sellers, _American Republicanism_, p. 156-189.
+
 [^122]: Atkins, "Cicero," p. 500-516.
-[^123]: Syme, *The Roman Revolution*, p. 143-161.
-[^124]: Syme, Ronald. "No Son for Caesar?" *Historia* 29.4 (1980): 422-437.
-[^125]: Syme, *The Roman Revolution*, p. 149.
+
+[^123]: Syme, _The Roman Revolution_, p. 143-161.
+
+[^124]: Syme, Ronald. "No Son for Caesar?" _Historia_ 29.4 (1980): 422-437.
+
+[^125]: Syme, _The Roman Revolution_, p. 149.
+
 [^126]: Wiseman, "The Senate and the People," p. 350-367.
-[^127]: Mouritsen, *Plebs and Politics in the Late Roman Republic*, p. 89-111.
-[^128]: Wiedemann, Thomas. *Cicero and the End of the Roman Republic*. Bristol Classical Press, 1994, p. 78-92.
-[^129]: Lintott, *The Constitution of the Roman Republic*, p. 152-154.
-[^130]: Steel, *Cicero, Rhetoric, and Empire*, p. 67-88.
-[^131]: Kelly, *A History of Exile in the Roman Republic*, p. 99-102.
-[^132]: Grimal, *Cicero*, p. 341-356.
-[^133]: Grimal, Pierre. "The Philosophical Works." In *Cicero*, p. 341-356.
+
+[^127]: Mouritsen, _Plebs and Politics in the Late Roman Republic_, p. 89-111.
+
+[^128]: Wiedemann, Thomas. _Cicero and the End of the Roman Republic_. Bristol Classical Press, 1994, p. 78-92.
+
+[^129]: Lintott, _The Constitution of the Roman Republic_, p. 152-154.
+
+[^130]: Steel, _Cicero, Rhetoric, and Empire_, p. 67-88.
+
+[^131]: Kelly, _A History of Exile in the Roman Republic_, p. 99-102.
+
+[^132]: Grimal, _Cicero_, p. 341-356.
+
+[^133]: Grimal, Pierre. "The Philosophical Works." In _Cicero_, p. 341-356.
+
 [^134]: Glucker, "Cicero's Philosophical Affiliations," p. 60-69.
-[^135]: Treggiari, *Terentia, Tullia and Publilia*, p. 156-178.
+
+[^135]: Treggiari, _Terentia, Tullia and Publilia_, p. 156-178.
+
 [^136]: Dixon, "The Sentimental Ideal of the Roman Family," p. 103-113.
-[^137]: Steel, Catherine. "Cicero's Brutus: The End of Oratory and the Beginning of History?" *Bulletin of the Institute of Classical Studies* 46 (2003): 195-211.
-[^138]: De Ste. Croix, G.E.M. *The Class Struggle in the Ancient Greek World*. Cornell University Press, 1981, p. 356-371.
-[^139]: Brunt, P.A. *Social Conflicts in the Roman Republic*. W.W. Norton, 1971, p. 134-152.
-[^140]: Finley, Moses I. *Politics in the Ancient World*. Cambridge University Press, 1983, p. 88-104.
-[^141]: Cicero. *In Catilinam*, 1.2.
-[^142]: Cicero. *De Officiis*, 1.22.77.
-[^143]: Cicero. *De Legibus*, 3.3.8.
-[^144]: Cicero. *Pro Plancio*, 33.80.
-[^145]: Cicero. *Letters to Atticus* (Ad Atticum), 9.10.3.
-[^146]: Cicero. *Tusculan Disputations*, 1.30.74.
+
+[^137]: Steel, Catherine. "Cicero's Brutus: The End of Oratory and the Beginning of History?" _Bulletin of the Institute of Classical Studies_ 46 (2003): 195-211.
+
+[^138]: De Ste. Croix, G.E.M. _The Class Struggle in the Ancient Greek World_. Cornell University Press, 1981, p. 356-371.
+
+[^139]: Brunt, P.A. _Social Conflicts in the Roman Republic_. W.W. Norton, 1971, p. 134-152.
+
+[^140]: Finley, Moses I. _Politics in the Ancient World_. Cambridge University Press, 1983, p. 88-104.
+
+[^141]: Cicero. _In Catilinam_, 1.2.
+
+[^142]: Cicero. _De Officiis_, 1.22.77.
+
+[^143]: Cicero. _De Legibus_, 3.3.8.
+
+[^144]: Cicero. _Pro Plancio_, 33.80.
+
+[^145]: Cicero. _Letters to Atticus_ (Ad Atticum), 9.10.3.
+
+[^146]: Cicero. _Tusculan Disputations_, 1.30.74.

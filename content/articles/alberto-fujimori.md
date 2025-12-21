@@ -151,28 +151,28 @@ International legal experts emphasize that the pardon controversies surrounding 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1938 | Born July 28 in Lima, Peru, to Japanese immigrant parents |
-| 1961 | Graduated from National Agrarian University with degree in agricultural engineering |
-| 1974 | Married Susana Higuchi |
-| 1984 | Became rector of National Agrarian University |
-| 1989 | Founded Cambio 90 party and began presidential campaign |
-| 1990 | Elected President of Peru in stunning upset victory; implemented "Fujishock" economic reforms in August |
-| 1991 | Barrios Altos massacre (November 3) kills 15 people including a child |
-| 1992 | Executed autogolpe (self-coup) on April 5; Abimael Guzmán captured September 12; La Cantuta massacre (July 18) |
-| 1993 | New constitution approved, allowing immediate presidential re-election |
-| 1995 | Re-elected president; divorced Susana Higuchi |
-| 1996 | Túpac Amaru Revolutionary Movement seized Japanese embassy (December) |
-| 1997 | Hostage crisis resolved with military raid (April) |
+| Year | Event                                                                                                                 |
+| ---- | --------------------------------------------------------------------------------------------------------------------- |
+| 1938 | Born July 28 in Lima, Peru, to Japanese immigrant parents                                                             |
+| 1961 | Graduated from National Agrarian University with degree in agricultural engineering                                   |
+| 1974 | Married Susana Higuchi                                                                                                |
+| 1984 | Became rector of National Agrarian University                                                                         |
+| 1989 | Founded Cambio 90 party and began presidential campaign                                                               |
+| 1990 | Elected President of Peru in stunning upset victory; implemented "Fujishock" economic reforms in August               |
+| 1991 | Barrios Altos massacre (November 3) kills 15 people including a child                                                 |
+| 1992 | Executed autogolpe (self-coup) on April 5; Abimael Guzmán captured September 12; La Cantuta massacre (July 18)        |
+| 1993 | New constitution approved, allowing immediate presidential re-election                                                |
+| 1995 | Re-elected president; divorced Susana Higuchi                                                                         |
+| 1996 | Túpac Amaru Revolutionary Movement seized Japanese embassy (December)                                                 |
+| 1997 | Hostage crisis resolved with military raid (April)                                                                    |
 | 2000 | Elected to controversial third term; Montesinos bribery video released September; fled to Japan and resigned November |
-| 2005 | Arrested in Chile while attempting to return to Peru |
-| 2007 | Extradited from Chile to Peru |
+| 2005 | Arrested in Chile while attempting to return to Peru                                                                  |
+| 2007 | Extradited from Chile to Peru                                                                                         |
 | 2009 | Convicted of human rights violations (April); sentenced to 25 years; later convicted of corruption (July) and bribery |
-| 2017 | Pardoned by President Kuczynski (December 24) |
-| 2018 | Pardon overturned by Supreme Court (October) |
-| 2023 | Constitutional Court ordered release from prison (December) |
-| 2024 | Diagnosed with tongue cancer; died September 11 at age 86 |
+| 2017 | Pardoned by President Kuczynski (December 24)                                                                         |
+| 2018 | Pardon overturned by Supreme Court (October)                                                                          |
+| 2023 | Constitutional Court ordered release from prison (December)                                                           |
+| 2024 | Diagnosed with tongue cancer; died September 11 at age 86                                                             |
 
 ---
 
@@ -195,126 +195,249 @@ International legal experts emphasize that the pardon controversies surrounding 
 ## References
 
 [^1]: [Alberto Fujimori | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/Alberto-Fujimori)
+
 [^2]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^3]: [Alberto Fujimori, ex-president of Peru jailed for rights abuses, dies at 86 | Al Jazeera](https://www.aljazeera.com/news/2024/9/12/alberto-fujimori-ex-president-of-peru-jailed-for-rights-abuses-dies-at-86)
+
 [^4]: [Former Peruvian President Alberto Fujimori Sentenced to 25 Years for Human Rights Abuses](https://law.marquette.edu/facultyblog/2009/04/former-peruvian-president-alberto-fujimori-sentenced-to-25-years-for-human-rights-abuses/)
+
 [^5]: [Alberto Kenya Fujimori (1938-2024) | WikiTree FREE Family Tree](https://www.wikitree.com/wiki/Fujimori-1)
+
 [^6]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^7]: [Alberto Fujimori facts for kids](https://kids.kiddle.co/Alberto_Fujimori)
+
 [^8]: [Alberto Fujimori | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/Alberto-Fujimori)
+
 [^9]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^10]: [Alberto Fujimori | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/Alberto-Fujimori)
+
 [^11]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^12]: [CNN Plus: Newsmaker Profiles](https://www1.udel.edu/leipzig/texts2/cnnd24047.htm)
+
 [^13]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^14]: [Alberto Kenya Fujimori (1938-2024) | WikiTree FREE Family Tree](https://www.wikitree.com/wiki/Fujimori-1)
+
 [^15]: [Alberto Fujimori, ex-president of Peru jailed for rights abuses, dies at 86 | Al Jazeera](https://www.aljazeera.com/news/2024/9/12/alberto-fujimori-ex-president-of-peru-jailed-for-rights-abuses-dies-at-86)
+
 [^16]: [Economic policy of the Alberto Fujimori administration - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Alberto_Fujimori_administration)
+
 [^17]: [Internal conflict in Peru - Wikipedia](https://en.wikipedia.org/wiki/Internal_conflict_in_Peru)
+
 [^18]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^19]: [Alberto Fujimori | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/Alberto-Fujimori)
+
 [^20]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^21]: [Alberto Fujimori, ex-president of Peru who was convicted of human rights abuses, dies | NPR](https://www.npr.org/2024/09/11/nx-s1-5109052/alberto-fujimori-dead-peru-former-president)
+
 [^22]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^23]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^24]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^25]: [Alberto Fujimori, ex-president of Peru jailed for rights abuses, dies at 86 | Al Jazeera](https://www.aljazeera.com/news/2024/9/12/alberto-fujimori-ex-president-of-peru-jailed-for-rights-abuses-dies-at-86)
+
 [^26]: [Economic policy of the Alberto Fujimori administration - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Alberto_Fujimori_administration)
+
 [^27]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^28]: [Economic policy of the Alberto Fujimori administration - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Alberto_Fujimori_administration)
+
 [^29]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^30]: [Economic policy of the Alberto Fujimori administration - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Alberto_Fujimori_administration)
+
 [^31]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^32]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^33]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^34]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^35]: [Internal conflict in Peru - Wikipedia](https://en.wikipedia.org/wiki/Internal_conflict_in_Peru)
+
 [^36]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^37]: [Internal conflict in Peru - Wikipedia](https://en.wikipedia.org/wiki/Internal_conflict_in_Peru)
+
 [^38]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^39]: [Shining Path - Wikipedia](https://en.wikipedia.org/wiki/Shining_Path)
+
 [^40]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^41]: [Internal conflict in Peru - Wikipedia](https://en.wikipedia.org/wiki/Internal_conflict_in_Peru)
+
 [^42]: [Former Peruvian President Alberto Fujimori Sentenced to 25 Years for Human Rights Abuses](https://law.marquette.edu/facultyblog/2009/04/former-peruvian-president-alberto-fujimori-sentenced-to-25-years-for-human-rights-abuses/)
+
 [^43]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^44]: [1992 Peruvian self-coup - Wikipedia](https://en.wikipedia.org/wiki/1992_Peruvian_self-coup)
+
 [^45]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^46]: [1992 Peruvian self-coup - Wikipedia](https://en.wikipedia.org/wiki/1992_Peruvian_self-coup)
+
 [^47]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^48]: [1992 Peruvian self-coup - Wikipedia](https://en.wikipedia.org/wiki/1992_Peruvian_self-coup)
+
 [^49]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^50]: [1992 Peruvian self-coup - Wikipedia](https://en.wikipedia.org/wiki/1992_Peruvian_self-coup)
+
 [^51]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^52]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^53]: [The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru](https://www.psupress.org/books/titles/0-271-02747-9.html)
+
 [^54]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^55]: [Barrios Altos massacre - Wikipedia](https://en.wikipedia.org/wiki/Barrios_Altos_massacre)
+
 [^56]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^57]: [Peru's Fujimori Gets 25 Years | Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/04/07/AR2009040701345_2.html)
+
 [^58]: [Former Peruvian President Alberto Fujimori Sentenced to 25 Years for Human Rights Abuses](https://law.marquette.edu/facultyblog/2009/04/former-peruvian-president-alberto-fujimori-sentenced-to-25-years-for-human-rights-abuses/)
+
 [^59]: [Peru: Fujimori release undermines access to justice for victims – UN experts | OHCHR](https://www.ohchr.org/en/press-releases/2022/03/peru-fujimori-release-undermines-access-justice-victims-un-experts)
+
 [^60]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^61]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^62]: [Fujimori on Trial - NACLA](https://nacla.org/fujimori-trial/)
+
 [^63]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^64]: [Fujimori on Trial - NACLA](https://nacla.org/fujimori-trial/)
+
 [^65]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^66]: [Arrest and trial of Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori's_arrest_and_trial)
+
 [^67]: [Fujimori on Trial - NACLA](https://nacla.org/fujimori-trial/)
+
 [^68]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^69]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^70]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^71]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^72]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^73]: [Alberto Kenya Fujimori (1938-2024) | WikiTree FREE Family Tree](https://www.wikitree.com/wiki/Fujimori-1)
+
 [^74]: [Fujimorism - Wikipedia](https://en.wikipedia.org/wiki/Fujimorism)
+
 [^75]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^76]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^77]: [CNN Plus: Newsmaker Profiles](https://www1.udel.edu/leipzig/texts2/cnnd24047.htm)
+
 [^78]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^79]: [The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru](https://www.psupress.org/books/titles/0-271-02747-9.html)
+
 [^80]: [Alberto Fujimori Obituary: Peru's Former President Dies at 86 | Foreign Policy](https://foreignpolicy.com/2024/09/12/alberto-fujimori-obituary-dead-age-86-peru-human-rights/)
+
 [^81]: [Alberto Fujimori, ex-president of Peru jailed for rights abuses, dies at 86 | Al Jazeera](https://www.aljazeera.com/news/2024/9/12/alberto-fujimori-ex-president-of-peru-jailed-for-rights-abuses-dies-at-86)
+
 [^82]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^83]: [Why Americans Need to Know About Alberto Fujimori | TIME](https://time.com/7027079/history-alberto-fujimori/)
+
 [^84]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^85]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^86]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^87]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^88]: [Fujimorism - Wikipedia](https://en.wikipedia.org/wiki/Fujimorism)
+
 [^89]: [Fujimorism - Wikipedia](https://en.wikipedia.org/wiki/Fujimorism)
+
 [^90]: [The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru](https://www.psupress.org/books/titles/0-271-02747-9.html)
+
 [^91]: [Peru: Fujimori release undermines access to justice for victims – UN experts | OHCHR](https://www.ohchr.org/en/press-releases/2022/03/peru-fujimori-release-undermines-access-justice-victims-un-experts)
+
 [^92]: [The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru](https://www.psupress.org/books/titles/0-271-02747-9.html)
+
 [^93]: [The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru](https://www.psupress.org/books/titles/0-271-02747-9.html)
+
 [^94]: [Fujimori on Trial - NACLA](https://nacla.org/fujimori-trial/)
+
 [^95]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^96]: [Fujimori on Trial - NACLA](https://nacla.org/fujimori-trial/)
+
 [^97]: [Guilty as Charged: The Trial of Former Peruvian President Alberto Fujimori for Human Rights Violations | International Journal of Transitional Justice](https://academic.oup.com/ijtj/article-abstract/3/3/384/2888395)
+
 [^98]: [Peruvian Precedent: The Fujimori Conviction and the Ongoing Struggle for Justice | Academia.edu](https://www.academia.edu/50108105/Peruvian_Precedent_The_Fujimori_Conviction_and_the_Ongoing_Struggle_for_Justice)
+
 [^99]: [Guilty as Charged: The Trial of Former Peruvian President Alberto Fujimori for Human Rights Violations | International Journal of Transitional Justice](https://academic.oup.com/ijtj/article-abstract/3/3/384/2888395)
+
 [^100]: [Alberto Fujimori of Peru: The President Who Dared to Dream | Amazon](https://www.amazon.com/Alberto-Fujimori-Peru-President-Dared/dp/0846449579)
+
 [^101]: [Economic policy of the Alberto Fujimori administration - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Alberto_Fujimori_administration)
+
 [^102]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^103]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^104]: [Shining Path - Wikipedia](https://en.wikipedia.org/wiki/Shining_Path)
+
 [^105]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^106]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^107]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^108]: [Alberto Fujimori - Wikipedia](https://en.wikipedia.org/wiki/Alberto_Fujimori)
+
 [^109]: [Alberto Fujimori: A Controversial Legacy that Shaped Modern Peru - LatinAmerican Post](https://latinamericanpost.com/life/alberto-fujimori-a-controversial-legacy-that-shaped-modern-peru/)
+
 [^110]: [Peru: UN human rights experts appalled by Fujimori pardon | OHCHR](https://www.ohchr.org/en/press-releases/2017/12/peru-un-human-rights-experts-appalled-fujimori-pardon)
+
 [^111]: [Former Peruvian President Alberto Fujimori Sentenced to 25 Years for Human Rights Abuses](https://law.marquette.edu/facultyblog/2009/04/former-peruvian-president-alberto-fujimori-sentenced-to-25-years-for-human-rights-abuses/)
+
 [^112]: [The Judgment Against Fujimori for Human Rights Violations | American University](https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1003&context=auilr)
+
 [^113]: [Economic policy of the Alberto Fujimori administration - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Alberto_Fujimori_administration)
+
 [^114]: [Fujimori on Trial - NACLA](https://nacla.org/fujimori-trial/)
+
 [^115]: [Economic policy of the Alberto Fujimori administration - Wikipedia](https://en.wikipedia.org/wiki/Economic_policy_of_the_Alberto_Fujimori_administration)
+
 [^116]: [The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru](https://www.psupress.org/books/titles/0-271-02747-9.html)
+
 [^117]: [Why Americans Need to Know About Alberto Fujimori | TIME](https://time.com/7027079/history-alberto-fujimori/)
+
 [^118]: [The Fujimori Legacy: The Rise of Electoral Authoritarianism in Peru](https://www.psupress.org/books/titles/0-271-02747-9.html)
+
 [^119]: [Guilty as Charged: The Trial of Former Peruvian President Alberto Fujimori for Human Rights Violations | International Journal of Transitional Justice](https://academic.oup.com/ijtj/article-abstract/3/3/384/2888395)
+
 [^120]: [Peru: UN human rights experts appalled by Fujimori pardon | OHCHR](https://www.ohchr.org/en/press-releases/2017/12/peru-un-human-rights-experts-appalled-fujimori-pardon)
+
 [^121]: [The Judgment Against Fujimori for Human Rights Violations | American University](https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1003&context=auilr)
+
 [^122]: [Peru: Fujimori release undermines access to justice for victims – UN experts | OHCHR](https://www.ohchr.org/en/press-releases/2022/03/peru-fujimori-release-undermines-access-justice-victims-un-experts)
+
 [^123]: [A Deal with the Devil: Peru's Fujimori Pardon - WOLA](https://www.wola.org/analysis/a-deal-with-the-devil-peru-fujimori-pardon/)
+
 [^124]: [Peru: UN human rights experts appalled by Fujimori pardon | OHCHR](https://www.ohchr.org/en/press-releases/2017/12/peru-un-human-rights-experts-appalled-fujimori-pardon)

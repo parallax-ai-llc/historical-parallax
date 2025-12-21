@@ -25,6 +25,7 @@ The 1976 Tiananmen Incident matters because it showed that even at the height of
 ### The Cultural Revolution
 
 **China 1966-1976:**
+
 - Mao Zedong's last great campaign
 - "Continuous revolution" against "bourgeois elements"
 - Red Guards terrorized intellectuals, "class enemies"
@@ -33,6 +34,7 @@ The 1976 Tiananmen Incident matters because it showed that even at the height of
 - Party hierarchy upended
 
 **By 1976:**
+
 - Mao elderly and ill
 - Struggle over succession intensifying
 - Two factions: radicals (Gang of Four) vs. moderates (Zhou Enlai, Deng Xiaoping)[^4]
@@ -40,6 +42,7 @@ The 1976 Tiananmen Incident matters because it showed that even at the height of
 ### Zhou Enlai
 
 **Zhou Enlai (1898-1976):**
+
 - Premier since 1949
 - Urbane, pragmatic, survived every purge
 - **Protected many from worst of Cultural Revolution**
@@ -54,6 +57,7 @@ The 1976 Tiananmen Incident matters because it showed that even at the height of
 ### The Gang of Four
 
 **The radical faction closest to Mao:**
+
 - **Jiang Qing:** Mao's wife; orchestrated Cultural Revolution purges
 - **Zhang Chunqiao:** Shanghai leader; ideologist
 - **Yao Wenyuan:** Propaganda chief
@@ -70,21 +74,25 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### Qingming Festival 1976
 
 **Qingming (April 4-5):**
+
 - Traditional Chinese festival for honoring the dead
 - Perfect occasion to mourn Zhou
 
 **Beginning late March:**
+
 - Crowds began gathering in Tiananmen Square
 - Wreaths placed at Monument to the People's Heroes
 - Started small; grew exponentially
 
 **By early April:**
+
 - Hundreds of thousands visited
 - Monument covered with flowers, poems, banners
 - Schools, factories organized collective visits
 - Poems praised Zhou, attacked (without naming) the Gang of Four
 
 **Sample poem:**
+
 > "China is no longer the China of the past,
 > And the people are no longer in ignorant bliss.
 > Gone for good is Qin Shihuang's feudal society.
@@ -96,6 +104,7 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### The Political Message
 
 **What the mourning meant:**
+
 - Grief for Zhou = support for Four Modernizations
 - Support for Deng Xiaoping (Zhou's ally)
 - Opposition to Gang of Four policies
@@ -110,6 +119,7 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### Night of April 4-5
 
 **Gang of Four's decision:**
+
 - Remove all wreaths and tributes overnight
 - Arrest anyone who interfered
 - Crush the "counterrevolutionary" movement
@@ -119,6 +129,7 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### April 5 Morning
 
 **When crowds arrived and found the empty monument:**
+
 - Fury
 - Demands to return the wreaths
 - Speeches denouncing the removal
@@ -129,12 +140,14 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### Violence
 
 **Afternoon:**
+
 - Clashes with militia
 - A police car and security building set on fire
 - Beatings of protesters
 - Some resistance
 
 **Evening:**
+
 - Square surrounded
 - Lights cut
 - Militia and workers' units charged in
@@ -151,6 +164,7 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### Official Condemnation
 
 **April 7, 1976:**
+
 - Politburo declared the incident "counterrevolutionary"
 - **Deng Xiaoping blamed and purged** (for second time)
 - Stripped of all positions
@@ -169,6 +183,7 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### Rehabilitation
 
 **November 1978:**
+
 - April Fifth Movement officially declared a "revolutionary action"
 - Deng Xiaoping returned to power
 - Became paramount leader
@@ -183,6 +198,7 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ## Death Toll
 
 **Relatively limited:**
+
 - Estimates: 0-dozens killed (unconfirmed; some deaths reported)
 - Hundreds beaten
 - Hundreds arrested
@@ -196,26 +212,26 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 
 ### Mourners and Protesters
 
-| Group | Role |
-|-------|------|
-| Beijing citizens | Laid wreaths; wrote poems |
-| Factory workers | Organized tributes |
-| Students | Participated despite risks |
+| Group            | Role                       |
+| ---------------- | -------------------------- |
+| Beijing citizens | Laid wreaths; wrote poems  |
+| Factory workers  | Organized tributes         |
+| Students         | Participated despite risks |
 
 ### Those Blamed (Later Rehabilitated)
 
-| Name | Role |
-|------|------|
+| Name          | Role                                                  |
+| ------------- | ----------------------------------------------------- |
 | Deng Xiaoping | Falsely blamed; purged; later became paramount leader |
 
 ### Gang of Four
 
-| Name | Role | Fate |
-|------|------|------|
-| Jiang Qing | Mao's wife; cultural czar | Arrested 1976; sentenced 1981; died 1991 |
-| Zhang Chunqiao | Ideologist | Arrested 1976; sentenced to death (commuted) |
-| Yao Wenyuan | Propaganda | Arrested 1976; imprisoned |
-| Wang Hongwen | Vice Chairman | Arrested 1976; life imprisonment |
+| Name           | Role                      | Fate                                         |
+| -------------- | ------------------------- | -------------------------------------------- |
+| Jiang Qing     | Mao's wife; cultural czar | Arrested 1976; sentenced 1981; died 1991     |
+| Zhang Chunqiao | Ideologist                | Arrested 1976; sentenced to death (commuted) |
+| Yao Wenyuan    | Propaganda                | Arrested 1976; imprisoned                    |
+| Wang Hongwen   | Vice Chairman             | Arrested 1976; life imprisonment             |
 
 ---
 
@@ -224,11 +240,13 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### Why Did It Happen?
 
 **Structural:**
+
 - Cultural Revolution had exhausted the population
 - Moderates offered hope
 - Zhou's death removed restraint on grief
 
 **Personal:**
+
 - Genuine love for Zhou Enlai
 - Hatred of Gang of Four's policies
 - Belief that change was possible
@@ -236,19 +254,20 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### Significance
 
 **The April Fifth Movement showed:**
+
 - Even Maoist China could not fully suppress popular sentiment
 - Mourning as political protest—a tradition continued in 1989
 - Mass action could change history (after regime change)
 
 ### Comparison to 1989
 
-| Feature | 1976 | 1989 |
-|---------|------|------|
-| Trigger | Zhou Enlai's death | Hu Yaobang's death |
-| Method | Mourning as protest | Mourning → occupation |
-| Suppression | Clubs, arrests | Tanks, machine guns |
-| Death toll | Low | Hundreds to thousands |
-| Ultimate verdict | Rehabilitated | Still condemned |
+| Feature          | 1976                | 1989                  |
+| ---------------- | ------------------- | --------------------- |
+| Trigger          | Zhou Enlai's death  | Hu Yaobang's death    |
+| Method           | Mourning as protest | Mourning → occupation |
+| Suppression      | Clubs, arrests      | Tanks, machine guns   |
+| Death toll       | Low                 | Hundreds to thousands |
+| Ultimate verdict | Rehabilitated       | Still condemned       |
 
 **Both began with mourning a reformer. The outcomes could not have been more different.**[^12]
 
@@ -272,6 +291,7 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 ### What It Did Not Become
 
 **Unlike 1989:**
+
 - No lasting monument
 - Not commemorated independently
 - Subsumed into official narrative
@@ -281,32 +301,43 @@ They tried to minimize Zhou's funeral and control mourning—a fatal miscalculat
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| January 8, 1976 | Zhou Enlai dies |
-| Late March 1976 | Mourning gatherings begin |
-| April 4, 1976 | Qingming Festival; massive crowds |
-| Night of April 4-5 | Wreaths removed |
-| April 5, 1976 | Protests; clashes; crackdown |
-| April 7, 1976 | Incident declared "counterrevolutionary"; Deng purged |
-| September 9, 1976 | Mao Zedong dies |
-| October 6, 1976 | Gang of Four arrested |
-| November 1978 | April Fifth Movement rehabilitated |
-| 1978-1989 | Deng Xiaoping leads Reform and Opening Up |
+| Date               | Event                                                 |
+| ------------------ | ----------------------------------------------------- |
+| January 8, 1976    | Zhou Enlai dies                                       |
+| Late March 1976    | Mourning gatherings begin                             |
+| April 4, 1976      | Qingming Festival; massive crowds                     |
+| Night of April 4-5 | Wreaths removed                                       |
+| April 5, 1976      | Protests; clashes; crackdown                          |
+| April 7, 1976      | Incident declared "counterrevolutionary"; Deng purged |
+| September 9, 1976  | Mao Zedong dies                                       |
+| October 6, 1976    | Gang of Four arrested                                 |
+| November 1978      | April Fifth Movement rehabilitated                    |
+| 1978-1989          | Deng Xiaoping leads Reform and Opening Up             |
 
 ---
 
 ## References
 
-[^1]: [Wikipedia - Tiananmen Incident (1976)](https://en.wikipedia.org/wiki/Tiananmen_Incident_(1976))
+[^1]: [Wikipedia - Tiananmen Incident (1976)](<https://en.wikipedia.org/wiki/Tiananmen_Incident_(1976)>)
+
 [^2]: [Marquette University - Analysis](https://mu.edu/china-tiananmen-1976/)
+
 [^3]: [8964 Museum - Context](https://www.8964museum.com/1976-tiananmen/)
+
 [^4]: [Wikipedia - Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution)
+
 [^5]: [The China Project - Zhou Enlai](https://thechinaproject.com/zhou-enlai-death-1976/)
+
 [^6]: [Wikipedia - Gang of Four](https://en.wikipedia.org/wiki/Gang_of_Four)
+
 [^7]: [Standoff at Tiananmen - Poems](https://standoffattiananmen.com/1976-poems/)
+
 [^8]: [University of Vienna - Analysis](https://univie.ac.at/china-1976-tiananmen/)
+
 [^9]: [UMKC - Gang of Four Trial](https://www.umkc.edu/faculty/projects/ftrials/gangoffour/)
+
 [^10]: [Britannica - Gang of Four](https://www.britannica.com/topic/Gang-of-Four)
+
 [^11]: [EBSCO - Death toll](https://www.ebsco.com/research-starters/history/gang-of-four/)
+
 [^12]: [Asia Democracy - Comparison](https://asiademo.com/tiananmen-1976-1989/)

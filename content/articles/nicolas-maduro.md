@@ -168,29 +168,29 @@ The scholarly consensus, reflected in publications from major academic presses, 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1962 | Born November 23 in Caracas, Venezuela |
-| 1980s | Works as bus driver for Caracas Metro, becomes union leader |
-| 1992 | Joins Revolutionary Bolivarian Movement-200, campaigns for Chávez's release from prison |
-| 1998 | Helps found Movement of the Fifth Republic, supports Chávez's successful presidential campaign |
-| 2000 | Elected to National Assembly |
-| 2005 | Becomes President of National Assembly |
-| 2006 | Appointed Minister of Foreign Affairs by Chávez |
-| 2012 | Appointed Vice President by Chávez |
-| 2013 | Assumes interim presidency March 8 following Chávez's death; wins disputed election April 14 with 50.62% |
-| 2013 | Launches "Safe Homeland" security program; marries Cilia Flores in July |
-| 2014 | Violent protests erupt, leaving 43 dead by May; economy enters depression |
-| 2015 | Opposition wins National Assembly majority in December elections |
-| 2016 | Government blocks opposition referendum seeking Maduro's removal |
-| 2017 | Convenes Constituent Assembly; protests leave 125 dead |
-| 2018 | Wins widely disputed presidential election boycotted by opposition; survives drone assassination attempt in August |
-| 2019 | Opposition leader Juan Guaidó declares himself interim president; dozens of countries recognize Guaidó |
-| 2020 | Indicted by U.S. federal court on narcoterrorism charges in October; regains control of parliament |
-| 2022 | U.S. delegation visits Venezuela to discuss sanctions; receives Colombia's President Petro |
-| 2023 | Holds referendum on Essequibo territorial claims in December |
-| 2024 | Declared winner of contested July presidential election amid fraud allegations; violent crackdown on protests |
-| 2025 | Sworn in for third term January 10; U.S. increases reward for his capture to $50 million; designated as terrorist organization member by U.S. |
+| Year  | Event                                                                                                                                         |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1962  | Born November 23 in Caracas, Venezuela                                                                                                        |
+| 1980s | Works as bus driver for Caracas Metro, becomes union leader                                                                                   |
+| 1992  | Joins Revolutionary Bolivarian Movement-200, campaigns for Chávez's release from prison                                                       |
+| 1998  | Helps found Movement of the Fifth Republic, supports Chávez's successful presidential campaign                                                |
+| 2000  | Elected to National Assembly                                                                                                                  |
+| 2005  | Becomes President of National Assembly                                                                                                        |
+| 2006  | Appointed Minister of Foreign Affairs by Chávez                                                                                               |
+| 2012  | Appointed Vice President by Chávez                                                                                                            |
+| 2013  | Assumes interim presidency March 8 following Chávez's death; wins disputed election April 14 with 50.62%                                      |
+| 2013  | Launches "Safe Homeland" security program; marries Cilia Flores in July                                                                       |
+| 2014  | Violent protests erupt, leaving 43 dead by May; economy enters depression                                                                     |
+| 2015  | Opposition wins National Assembly majority in December elections                                                                              |
+| 2016  | Government blocks opposition referendum seeking Maduro's removal                                                                              |
+| 2017  | Convenes Constituent Assembly; protests leave 125 dead                                                                                        |
+| 2018  | Wins widely disputed presidential election boycotted by opposition; survives drone assassination attempt in August                            |
+| 2019  | Opposition leader Juan Guaidó declares himself interim president; dozens of countries recognize Guaidó                                        |
+| 2020  | Indicted by U.S. federal court on narcoterrorism charges in October; regains control of parliament                                            |
+| 2022  | U.S. delegation visits Venezuela to discuss sanctions; receives Colombia's President Petro                                                    |
+| 2023  | Holds referendum on Essequibo territorial claims in December                                                                                  |
+| 2024  | Declared winner of contested July presidential election amid fraud allegations; violent crackdown on protests                                 |
+| 2025  | Sworn in for third term January 10; U.S. increases reward for his capture to $50 million; designated as terrorist organization member by U.S. |
 
 ---
 
@@ -225,135 +225,267 @@ Context: Maduro's warning against perceived threats of foreign-backed coups, inv
 ## References
 
 [^1]: Britannica. "Nicolas Maduro | Biography, Facts, & Presidency." https://www.britannica.com/biography/Nicolas-Maduro
+
 [^2]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^3]: The Famous People. "Nicolás Maduro Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/nicols-maduro-14165.php
+
 [^4]: Biographs. "Nicolas Maduro biography. Venezuelan politician, appointed interim president of Venezuela on March 8, 2013." https://biographs.org/nicolas-maduro
+
 [^5]: Britannica. "Nicolas Maduro | Biography, Facts, & Presidency." https://www.britannica.com/biography/Nicolas-Maduro
+
 [^6]: The Rio Times. "From Bus Driver to President: Nicolás Maduro's Rise." https://www.riotimesonline.com/from-bus-driver-to-president-nicolas-maduros-rise/
+
 [^7]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^8]: JunKangWorld. "Who is Nicolás Maduro & How Did He Rise to Power?" https://junkangworld.com/blog/who-is-nicols-maduro-how-did-he-rise-to-power
+
 [^9]: Wikipedia. "Hugo Chávez." https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+
 [^10]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^11]: BBN Times. "Who is Cilia Flores? The Wife of Nicolás Maduro." https://www.bbntimes.com/politics/who-is-cilia-flores-the-wife-of-nicolas-maduro
+
 [^12]: Council on Foreign Relations. "Venezuela's Chavez Era." https://www.cfr.org/timeline/venezuelas-chavez-era
+
 [^13]: Wikipedia. "Hugo Chávez." https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+
 [^14]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^15]: CNN. "Nicolás Maduro Fast Facts." https://www.cnn.com/world/americas/nicolas-maduro-fast-facts
+
 [^16]: Britannica. "Nicolas Maduro | Biography, Facts, & Presidency." https://www.britannica.com/biography/Nicolas-Maduro
+
 [^17]: The Rio Times. "From Bus Driver to President: Nicolás Maduro's Rise." https://www.riotimesonline.com/from-bus-driver-to-president-nicolas-maduros-rise/
+
 [^18]: CNN. "Nicolás Maduro Fast Facts." https://www.cnn.com/world/americas/nicolas-maduro-fast-facts
+
 [^19]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^20]: Wikipedia. "First presidency of Nicolás Maduro." https://en.wikipedia.org/wiki/First_presidency_of_Nicol%C3%A1s_Maduro
+
 [^21]: Facts.net. "50 Facts About Nicolás Maduro." https://facts.net/history/people/50-facts-about-nicolas-maduro/
+
 [^22]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^23]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^24]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^25]: Wikipedia. "First presidency of Nicolás Maduro." https://en.wikipedia.org/wiki/First_presidency_of_Nicol%C3%A1s_Maduro
+
 [^26]: Britannica. "Venezuela - The presidency of Nicolás Maduro." https://www.britannica.com/place/Venezuela/The-presidency-of-Nicolas-Maduro
+
 [^27]: Wikipedia. "Economic policy of the Nicolás Maduro administration." https://en.wikipedia.org/wiki/Economic_policy_of_the_Nicol%C3%A1s_Maduro_administration
+
 [^28]: Britannica. "Venezuela - The presidency of Nicolás Maduro." https://www.britannica.com/place/Venezuela/The-presidency-of-Nicolas-Maduro
+
 [^29]: Wikipedia. "First presidency of Nicolás Maduro." https://en.wikipedia.org/wiki/First_presidency_of_Nicol%C3%A1s_Maduro
+
 [^30]: The Business Standard. "How Nicolás Maduro has maintained power in Venezuela." https://www.tbsnews.net/explainer/how-nicolas-maduro-has-maintained-power-venezuela-1303546
+
 [^31]: SciELO Brasil. "From Chávez to Maduro: Continuity and Change in Venezuelan Foreign Policy." http://www.scielo.br/j/cint/a/V4DrRJkzDrkrbCNSs9rTgLc/?lang=en
+
 [^32]: U.S. Department of State. "Nicolás Maduro Moros." https://www.state.gov/nicolas-maduro-moros
+
 [^33]: Woodrow Wilson Center. "Venezuela's Authoritarian Allies." https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/LAP_210510-Venezuelas%20Authoritarian%20Allies-V5.pdf
+
 [^34]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^35]: SciELO Brasil. "From Chávez to Maduro: Continuity and Change in Venezuelan Foreign Policy." http://www.scielo.br/j/cint/a/V4DrRJkzDrkrbCNSs9rTgLc/?lang=en
+
 [^36]: The Business Standard. "How Nicolás Maduro has maintained power in Venezuela." https://www.tbsnews.net/explainer/how-nicolas-maduro-has-maintained-power-venezuela-1303546
+
 [^37]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^38]: Wikipedia. "First presidency of Nicolás Maduro." https://en.wikipedia.org/wiki/First_presidency_of_Nicol%C3%A1s_Maduro
+
 [^39]: CNN. "Nicolás Maduro Fast Facts." https://www.cnn.com/world/americas/nicolas-maduro-fast-facts
+
 [^40]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^41]: CNN. "Nicolás Maduro Fast Facts." https://www.cnn.com/world/americas/nicolas-maduro-fast-facts
+
 [^42]: Wikipedia. "Economic policy of the Nicolás Maduro administration." https://en.wikipedia.org/wiki/Economic_policy_of_the_Nicol%C3%A1s_Maduro_administration
+
 [^43]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^44]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^45]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^46]: Human Rights Watch. "Venezuela: Rights Crisis Deepens as Maduro is Sworn in." https://www.hrw.org/news/2025/01/16/venezuela-rights-crisis-deepens-maduro-sworn
+
 [^47]: Human Rights Watch. "Venezuela: Rights Crisis Deepens as Maduro is Sworn in." https://www.hrw.org/news/2025/01/16/venezuela-rights-crisis-deepens-maduro-sworn
+
 [^48]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^49]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^50]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^51]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^52]: IACHR. "IACHR publishes report on human rights violations following the elections in Venezuela." https://www.oas.org/en/IACHR/jsForm/?File=/en/iachr/media_center/PReleases/2025/007.asp
+
 [^53]: Human Rights Watch. "Venezuela: Rights Crisis Deepens as Maduro is Sworn in." https://www.hrw.org/news/2025/01/16/venezuela-rights-crisis-deepens-maduro-sworn
+
 [^54]: CNN. "Venezuela's President Nicolás Maduro ramps up repression at home as he faces growing threats abroad." https://www.cnn.com/venezuela-maduro-repression-crackdown-latam-intl
+
 [^55]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^56]: Amnesty International. "Human rights in Venezuela." https://www.amnesty.org/en/location/americas/south-america/venezuela/report-venezuela/
+
 [^57]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^58]: Britannica. "Venezuela - The presidency of Nicolás Maduro." https://www.britannica.com/place/Venezuela/The-presidency-of-Nicolas-Maduro
+
 [^59]: CNN. "Nicolás Maduro Fast Facts." https://www.cnn.com/world/americas/nicolas-maduro-fast-facts
+
 [^60]: Wikipedia. "Narcosobrinos affair." https://en.wikipedia.org/wiki/Narcosobrinos_affair
+
 [^61]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^62]: Wikipedia. "Venezuelan presidential crisis." https://en.wikipedia.org/wiki/Venezuelan_presidential_crisis
+
 [^63]: CSIS. "A Question of Staying Power: Is the Maduro Regime's Repression Sustainable?" https://www.csis.org/analysis/question-staying-power-maduro-regimes-repression-sustainable
+
 [^64]: Wikipedia. "First presidency of Nicolás Maduro." https://en.wikipedia.org/wiki/First_presidency_of_Nicol%C3%A1s_Maduro
+
 [^65]: Wikipedia. "Cilia Flores." https://en.wikipedia.org/wiki/Cilia_Flores
+
 [^66]: BBN Times. "Who is Cilia Flores? The Wife of Nicolás Maduro." https://www.bbntimes.com/politics/who-is-cilia-flores-the-wife-of-nicolas-maduro
+
 [^67]: BBN Times. "Who is Cilia Flores? The Wife of Nicolás Maduro." https://www.bbntimes.com/politics/who-is-cilia-flores-the-wife-of-nicolas-maduro
+
 [^68]: WBUR. "'The Claire Underwood Of Venezuela': Why Cilia Flores May Be More Powerful Than Her Husband." https://www.wbur.org/hereandnow/2019/10/03/venezuela-maduro-wife-cilia-flores
+
 [^69]: Wikipedia. "Cilia Flores." https://en.wikipedia.org/wiki/Cilia_Flores
+
 [^70]: Wikipedia. "Cilia Flores." https://en.wikipedia.org/wiki/Cilia_Flores
+
 [^71]: Middlebury. "Nicolás Maduro's wife: the influence of the nation's 'First Combatant'." https://sites.middlebury.edu/ccsprofilesofworldleaders/2014/01/22/nicolas-maduros-wife-the-influence-of-the-nations-first-combatant/
+
 [^72]: Worldcrunch. "Cilia Flores de Maduro, How Venezuela's First Lady Wields A Corrupt 'Flower Shop' Of Power." https://worldcrunch.com/in-the-news/cilia-flores-de-maduro/
+
 [^73]: Wikipedia. "Narcosobrinos affair." https://en.wikipedia.org/wiki/Narcosobrinos_affair
+
 [^74]: BBN Times. "Who is Cilia Flores? The Wife of Nicolás Maduro." https://www.bbntimes.com/politics/who-is-cilia-flores-the-wife-of-nicolas-maduro
+
 [^75]: The Gateway Pundit. "Secretary Rubio's Claims About Venezuela: Maduro's Narco-Trafficking Ties Verified." https://www.thegatewaypundit.com/2025/12/secretary-rubios-claims-about-venezuela-maduros-narco-trafficking/
+
 [^76]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^77]: The Rio Times. "From Bus Driver to President: Nicolás Maduro's Rise." https://www.riotimesonline.com/from-bus-driver-to-president-nicolas-maduros-rise/
+
 [^78]: The World from PRX. "10 outrageous quotes from Venezuela's Nicolas Maduro." https://theworld.org/stories/2016/07/30/10-outrageous-quotes-venezuela-s-nicolas-maduro
+
 [^79]: BrainyQuote. "Nicolas Maduro Quotes." https://www.brainyquote.com/authors/nicolas-maduro-quotes
+
 [^80]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^81]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^82]: The World from PRX. "10 outrageous quotes from Venezuela's Nicolas Maduro." https://theworld.org/stories/2016/07/30/10-outrageous-quotes-venezuela-s-nicolas-maduro
+
 [^83]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^84]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^85]: Britannica. "Venezuela - The presidency of Nicolás Maduro." https://www.britannica.com/place/Venezuela/The-presidency-of-Nicolas-Maduro
+
 [^86]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^87]: Human Rights Watch. "Venezuela: Rights Crisis Deepens as Maduro is Sworn in." https://www.hrw.org/news/2025/01/16/venezuela-rights-crisis-deepens-maduro-sworn
+
 [^88]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^89]: Woodrow Wilson Center. "Venezuela's Authoritarian Allies." https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/LAP_210510-Venezuelas%20Authoritarian%20Allies-V5.pdf
+
 [^90]: U.S. Congress. "Venezuela: Background and U.S. Relations." https://www.congress.gov/crs-product/R44841
+
 [^91]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^92]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^93]: CNN. "Nicolás Maduro Fast Facts." https://www.cnn.com/world/americas/nicolas-maduro-fast-facts
+
 [^94]: The Business Standard. "How Nicolás Maduro has maintained power in Venezuela." https://www.tbsnews.net/explainer/how-nicolas-maduro-has-maintained-power-venezuela-1303546
+
 [^95]: Amnesty International. "Human rights in Venezuela." https://www.amnesty.org/en/location/americas/south-america/venezuela/report-venezuela/
+
 [^96]: GovFacts. "A History of US Policy Toward Venezuela: From Monroe to Maduro." https://govfacts.org/policy-security/international-relations/bilateral-relations/a-history-of-us-policy-toward-venezuela-from-monroe-to-maduro/
+
 [^97]: SciELO Brasil. "From Chávez to Maduro: Continuity and Change in Venezuelan Foreign Policy." http://www.scielo.br/j/cint/a/V4DrRJkzDrkrbCNSs9rTgLc/?lang=en
+
 [^98]: Inter-American Dialogue. "Venezuela, 20 years after Chavez." https://thedialogue.org/analysis/venezuela-a-veinte-anos-de-chavez
+
 [^99]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^100]: CSIS. "A Question of Staying Power: Is the Maduro Regime's Repression Sustainable?" https://www.csis.org/analysis/question-staying-power-maduro-regimes-repression-sustainable
+
 [^101]: U.S. Congress. "Venezuela: Background and U.S. Relations." https://www.congress.gov/crs_external_products/R/PDF/R44841/R44841.20.pdf
+
 [^102]: SciELO Brasil. "From Chávez to Maduro: Continuity and Change in Venezuelan Foreign Policy." http://www.scielo.br/j/cint/a/V4DrRJkzDrkrbCNSs9rTgLc/?lang=en
+
 [^103]: SciELO Brasil. "From Chávez to Maduro: Continuity and Change in Venezuelan Foreign Policy." http://www.scielo.br/j/cint/a/V4DrRJkzDrkrbCNSs9rTgLc/?lang=en
+
 [^104]: Woodrow Wilson Center. "Venezuela's Authoritarian Allies." https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/LAP_210510-Venezuelas%20Authoritarian%20Allies-V5.pdf
+
 [^105]: Inter-American Dialogue. "Venezuela, 20 years after Chavez." https://thedialogue.org/analysis/venezuela-a-veinte-anos-de-chavez
+
 [^106]: Wikipedia. "Economic policy of the Nicolás Maduro administration." https://en.wikipedia.org/wiki/Economic_policy_of_the_Nicol%C3%A1s_Maduro_administration
+
 [^107]: Britannica. "Venezuela - The presidency of Nicolás Maduro." https://www.britannica.com/place/Venezuela/The-presidency-of-Nicolas-Maduro
+
 [^108]: Inter-American Dialogue. "Venezuela, 20 years after Chavez." https://thedialogue.org/analysis/venezuela-a-veinte-anos-de-chavez
+
 [^109]: Wikipedia. "First presidency of Nicolás Maduro." https://en.wikipedia.org/wiki/First_presidency_of_Nicol%C3%A1s_Maduro
+
 [^110]: SciELO Brasil. "From Chávez to Maduro: Continuity and Change in Venezuelan Foreign Policy." http://www.scielo.br/j/cint/a/V4DrRJkzDrkrbCNSs9rTgLc/?lang=en
+
 [^111]: The Rio Times. "From Bus Driver to President: Nicolás Maduro's Rise." https://www.riotimesonline.com/from-bus-driver-to-president-nicolas-maduros-rise/
+
 [^112]: JunKangWorld. "Who is Nicolás Maduro & How Did He Rise to Power?" https://junkangworld.com/blog/who-is-nicols-maduro-how-did-he-rise-to-power
+
 [^113]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^114]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/wp-content/uploads/2021/03/ECPS-Leader-Profile-Series-5-2.pdf
+
 [^115]: Wikipedia. "Economic policy of the Nicolás Maduro administration." https://en.wikipedia.org/wiki/Economic_policy_of_the_Nicol%C3%A1s_Maduro_administration
+
 [^116]: U.S. Congress. "Venezuela: Background and U.S. Relations." https://www.congress.gov/crs_external_products/R/PDF/R44841/R44841.17.pdf
+
 [^117]: Wikipedia. "Nicolás Maduro." https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
+
 [^118]: Human Rights Watch. "Venezuela: Rights Crisis Deepens as Maduro is Sworn in." https://www.hrw.org/news/2025/01/16/venezuela-rights-crisis-deepens-maduro-sworn
+
 [^119]: CNN. "How Venezuelan leader Nicolas Maduro defied all predictions." https://www.cnn.com/2025/12/07/americas/venezuela-nicolas-maduro-profile-latam-intl
+
 [^120]: IACHR. "IACHR publishes report on human rights violations following the elections in Venezuela." https://www.oas.org/en/IACHR/jsForm/?File=/en/iachr/media_center/PReleases/2025/007.asp
+
 [^121]: U.S. Congress. "Venezuela: Background and U.S. Relations." https://www.congress.gov/crs_external_products/R/PDF/R44841/R44841.21.pdf
+
 [^122]: GovFacts. "A History of US Policy Toward Venezuela: From Monroe to Maduro." https://govfacts.org/policy-security/international-relations/bilateral-relations/a-history-of-us-policy-toward-venezuela-from-monroe-to-maduro/
+
 [^123]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/nicolas-maduro-a-populist-without-popularity/
+
 [^124]: ECPS. "Nicolas Maduro: A populist without popularity." https://www.populismstudies.org/wp-content/uploads/2021/03/ECPS-Leader-Profile-Series-5-2.pdf
+
 [^125]: Woodrow Wilson Center. "Venezuela's Authoritarian Allies." https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/LAP_210510-Venezuelas%20Authoritarian%20Allies-V5.pdf
+
 [^126]: SciELO Brasil. "From Chávez to Maduro: Continuity and Change in Venezuelan Foreign Policy." http://www.scielo.br/j/cint/a/V4DrRJkzDrkrbCNSs9rTgLc/?lang=en
+
 [^127]: CSIS. "A Question of Staying Power: Is the Maduro Regime's Repression Sustainable?" https://www.csis.org/analysis/question-staying-power-maduro-regimes-repression-sustainable
+
 [^128]: BrainyQuote. "Nicolas Maduro Quotes." https://www.brainyquote.com/authors/nicolas-maduro-quotes
+
 [^129]: Quotes.net. "Nicolás Maduro Quotes." https://www.quotes.net/authors/Nicolas+Maduro
+
 [^130]: A-Z Quotes. "QUOTES BY NICOLAS MADURO." https://www.azquotes.com/author/35504-Nicolas_Maduro
+
 [^131]: A-Z Quotes. "QUOTES BY NICOLAS MADURO." https://www.azquotes.com/author/35504-Nicolas_Maduro
+
 [^132]: BrainyQuote. "Nicolas Maduro Quotes." https://www.brainyquote.com/authors/nicolas-maduro-quotes
+
 [^133]: BrainyQuote. "Nicolas Maduro Quotes." https://www.brainyquote.com/authors/nicolas-maduro-quotes

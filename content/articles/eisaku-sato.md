@@ -151,31 +151,31 @@ Some historians also criticize Satō's failure to adequately address Japan's war
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1901 | Born March 27 in Tabuse, Yamaguchi Prefecture, Japan |
-| 1924 | Graduated from Tokyo Imperial University, Faculty of Law |
-| 1924 | Entered Ministry of Railways as a bureaucrat |
-| 1926 | Married Hiroko Satō |
-| 1948 | Elected to House of Representatives from Yamaguchi |
-| 1952 | Appointed Minister of Posts and Telecommunications |
+| Year | Event                                                                        |
+| ---- | ---------------------------------------------------------------------------- |
+| 1901 | Born March 27 in Tabuse, Yamaguchi Prefecture, Japan                         |
+| 1924 | Graduated from Tokyo Imperial University, Faculty of Law                     |
+| 1924 | Entered Ministry of Railways as a bureaucrat                                 |
+| 1926 | Married Hiroko Satō                                                          |
+| 1948 | Elected to House of Representatives from Yamaguchi                           |
+| 1952 | Appointed Minister of Posts and Telecommunications                           |
 | 1958 | Became Minister of Finance under Prime Minister Nobusuke Kishi (his brother) |
-| 1960 | Served during Anpo protests and security treaty crisis |
-| 1961 | Appointed Minister of International Trade and Industry (MITI) |
-| 1964 | Became Prime Minister of Japan on November 9 |
-| 1964 | Japan joined Organisation for Economic Co-operation and Development (OECD) |
-| 1967 | Announced Three Non-Nuclear Principles in the Diet |
-| 1967 | Visited South Vietnam, meeting with leaders during Vietnam War |
-| 1968 | Japan became world's second-largest economy |
-| 1968 | Managed University of Tokyo disputes and student protests |
-| 1969 | Signed agreement with President Nixon for Okinawa reversion (November) |
-| 1970 | Hosted World Exposition in Osaka |
-| 1970 | Won third general election, extending his tenure |
-| 1972 | Okinawa returned to Japanese sovereignty on May 15 |
-| 1972 | Stepped down as Prime Minister in July after 7 years, 8 months in office |
-| 1974 | Awarded Nobel Peace Prize for nuclear non-proliferation policy |
-| 1975 | Died June 3 in Tokyo at age 74 |
-| 2009 | Secret nuclear agreements with U.S. revealed through declassified documents |
+| 1960 | Served during Anpo protests and security treaty crisis                       |
+| 1961 | Appointed Minister of International Trade and Industry (MITI)                |
+| 1964 | Became Prime Minister of Japan on November 9                                 |
+| 1964 | Japan joined Organisation for Economic Co-operation and Development (OECD)   |
+| 1967 | Announced Three Non-Nuclear Principles in the Diet                           |
+| 1967 | Visited South Vietnam, meeting with leaders during Vietnam War               |
+| 1968 | Japan became world's second-largest economy                                  |
+| 1968 | Managed University of Tokyo disputes and student protests                    |
+| 1969 | Signed agreement with President Nixon for Okinawa reversion (November)       |
+| 1970 | Hosted World Exposition in Osaka                                             |
+| 1970 | Won third general election, extending his tenure                             |
+| 1972 | Okinawa returned to Japanese sovereignty on May 15                           |
+| 1972 | Stepped down as Prime Minister in July after 7 years, 8 months in office     |
+| 1974 | Awarded Nobel Peace Prize for nuclear non-proliferation policy               |
+| 1975 | Died June 3 in Tokyo at age 74                                               |
+| 2009 | Secret nuclear agreements with U.S. revealed through declassified documents  |
 
 ---
 
@@ -197,80 +197,80 @@ Some historians also criticize Satō's failure to adequately address Japan's war
 
 [^1]: Nobel Prize Organization. "The Nobel Peace Prize 1974: Eisaku Sato." NobelPrize.org. https://www.nobelprize.org/prizes/peace/1974/sato/facts/
 
-[^2]: Hara, Kimie. "The Post-War Japanese Peace Treaties and the Okinawa Problem." *The Pacific Review* 12, no. 3 (1999): 343-362.
+[^2]: Hara, Kimie. "The Post-War Japanese Peace Treaties and the Okinawa Problem." _The Pacific Review_ 12, no. 3 (1999): 343-362.
 
-[^3]: Wakaizumi, Kei. *The Best Course Available: A Personal Account of the Secret U.S.-Japan Okinawa Reversion Negotiations*. University of Hawaii Press, 2002.
+[^3]: Wakaizumi, Kei. _The Best Course Available: A Personal Account of the Secret U.S.-Japan Okinawa Reversion Negotiations_. University of Hawaii Press, 2002.
 
-[^4]: Eldridge, Robert D. *The Return of the Amami Islands: The Reversion Movement and U.S.-Japan Relations*. Lexington Books, 2004.
+[^4]: Eldridge, Robert D. _The Return of the Amami Islands: The Reversion Movement and U.S.-Japan Relations_. Lexington Books, 2004.
 
-[^5]: Schaller, Michael. *Altered States: The United States and Japan Since the Occupation*. Oxford University Press, 1997.
+[^5]: Schaller, Michael. _Altered States: The United States and Japan Since the Occupation_. Oxford University Press, 1997.
 
-[^6]: McCormack, Gavan. *Client State: Japan in the American Embrace*. Verso, 2007.
+[^6]: McCormack, Gavan. _Client State: Japan in the American Embrace_. Verso, 2007.
 
-[^7]: Dower, John W. *Empire and Aftermath: Yoshida Shigeru and the Japanese Experience, 1878-1954*. Harvard University Asia Center, 1988.
+[^7]: Dower, John W. _Empire and Aftermath: Yoshida Shigeru and the Japanese Experience, 1878-1954_. Harvard University Asia Center, 1988.
 
-[^8]: Curtis, Gerald L. *The Japanese Way of Politics*. Columbia University Press, 1988.
+[^8]: Curtis, Gerald L. _The Japanese Way of Politics_. Columbia University Press, 1988.
 
-[^9]: Vogel, Ezra F. *Japan as Number One: Lessons for America*. Harvard University Press, 1979.
+[^9]: Vogel, Ezra F. _Japan as Number One: Lessons for America_. Harvard University Press, 1979.
 
-[^10]: Calder, Kent E. "Japanese Foreign Economic Policy Formation: Explaining the Reactive State." *World Politics* 40, no. 4 (1988): 517-541.
+[^10]: Calder, Kent E. "Japanese Foreign Economic Policy Formation: Explaining the Reactive State." _World Politics_ 40, no. 4 (1988): 517-541.
 
-[^11]: Mulgan, Aurelia George. *The Politics of Agriculture in Japan*. Routledge, 2000.
+[^11]: Mulgan, Aurelia George. _The Politics of Agriculture in Japan_. Routledge, 2000.
 
-[^12]: Kingston, Jeff. *Japan's Quiet Transformation: Social Change and Civil Society in the Twenty-First Century*. Routledge, 2004.
+[^12]: Kingston, Jeff. _Japan's Quiet Transformation: Social Change and Civil Society in the Twenty-First Century_. Routledge, 2004.
 
-[^13]: Ota, Masahide. *Essays on Okinawa Problems*. Yui Publishing, 2000.
+[^13]: Ota, Masahide. _Essays on Okinawa Problems_. Yui Publishing, 2000.
 
-[^14]: Packard, George R. *Protest in Tokyo: The Security Treaty Crisis of 1960*. Princeton University Press, 1966.
+[^14]: Packard, George R. _Protest in Tokyo: The Security Treaty Crisis of 1960_. Princeton University Press, 1966.
 
-[^15]: Welfield, John. *An Empire in Eclipse: Japan in the Postwar American Alliance System*. Athlone Press, 1988.
+[^15]: Welfield, John. _An Empire in Eclipse: Japan in the Postwar American Alliance System_. Athlone Press, 1988.
 
-[^16]: Johnson, Chalmers. *MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975*. Stanford University Press, 1982.
+[^16]: Johnson, Chalmers. _MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975_. Stanford University Press, 1982.
 
-[^17]: Pyle, Kenneth B. *The Japanese Question: Power and Purpose in a New Era*. AEI Press, 1992.
+[^17]: Pyle, Kenneth B. _The Japanese Question: Power and Purpose in a New Era_. AEI Press, 1992.
 
-[^18]: Samuels, Richard J. *"Rich Nation, Strong Army": National Security and the Technological Transformation of Japan*. Cornell University Press, 1994.
+[^18]: Samuels, Richard J. _"Rich Nation, Strong Army": National Security and the Technological Transformation of Japan_. Cornell University Press, 1994.
 
-[^19]: Havens, Thomas R.H. *Fire Across the Sea: The Vietnam War and Japan, 1965-1975*. Princeton University Press, 1987.
+[^19]: Havens, Thomas R.H. _Fire Across the Sea: The Vietnam War and Japan, 1965-1975_. Princeton University Press, 1987.
 
-[^20]: Kohno, Masaru. *Japan's Postwar Party Politics*. Princeton University Press, 1997.
+[^20]: Kohno, Masaru. _Japan's Postwar Party Politics_. Princeton University Press, 1997.
 
-[^21]: George Mulgan, Aurelia. "Japan's Political Leadership Deficit." *Australian Journal of Political Science* 35, no. 2 (2000): 183-202.
+[^21]: George Mulgan, Aurelia. "Japan's Political Leadership Deficit." _Australian Journal of Political Science_ 35, no. 2 (2000): 183-202.
 
-[^22]: Krauss, Ellis S., and Robert J. Pekkanen. *The Rise and Fall of Japan's LDP: Political Party Organizations as Historical Institutions*. Cornell University Press, 2011.
+[^22]: Krauss, Ellis S., and Robert J. Pekkanen. _The Rise and Fall of Japan's LDP: Political Party Organizations as Historical Institutions_. Cornell University Press, 2011.
 
-[^23]: Sato, Seizaburo, and Tetsuhisa Matsuzaki. "The Liberal Democratic Party and Public Policy." *Japanese Political Economy* 12, no. 2 (1984): 7-38.
+[^23]: Sato, Seizaburo, and Tetsuhisa Matsuzaki. "The Liberal Democratic Party and Public Policy." _Japanese Political Economy_ 12, no. 2 (1984): 7-38.
 
-[^24]: Stockwin, J.A.A. *Governing Japan: Divided Politics in a Resurgent Economy*. 4th ed. Blackwell Publishing, 2008.
+[^24]: Stockwin, J.A.A. _Governing Japan: Divided Politics in a Resurgent Economy_. 4th ed. Blackwell Publishing, 2008.
 
 [^25]: "Japan PM's Secret Nuclear Pact with US Revealed." BBC News, December 22, 2009. https://news.bbc.co.uk/2/hi/asia-pacific/8426119.stm
 
-[^26]: Soeya, Yoshihide. *Japan's Economic Diplomacy with China, 1945-1978*. Clarendon Press, 1998.
+[^26]: Soeya, Yoshihide. _Japan's Economic Diplomacy with China, 1945-1978_. Clarendon Press, 1998.
 
-[^27]: Yoshida, Shigeru. *The Yoshida Memoirs: The Story of Japan in Crisis*. Translated by Kenichi Yoshida. Greenwood Press, 1973.
+[^27]: Yoshida, Shigeru. _The Yoshida Memoirs: The Story of Japan in Crisis_. Translated by Kenichi Yoshida. Greenwood Press, 1973.
 
-[^28]: Takahashi, Tetsuya. "The National Politics of the Yasukuni Shrine." In *Nationalisms in Japan*, edited by Naoko Shimazu, 155-180. Routledge, 2006.
+[^28]: Takahashi, Tetsuya. "The National Politics of the Yasukuni Shrine." In _Nationalisms in Japan_, edited by Naoko Shimazu, 155-180. Routledge, 2006.
 
-[^29]: Orr, James J. *The Victim as Hero: Ideologies of Peace and National Identity in Postwar Japan*. University of Hawaii Press, 2001.
+[^29]: Orr, James J. _The Victim as Hero: Ideologies of Peace and National Identity in Postwar Japan_. University of Hawaii Press, 2001.
 
-[^30]: Katzenstein, Peter J., and Takashi Shiraishi, eds. *Network Power: Japan and Asia*. Cornell University Press, 1997.
+[^30]: Katzenstein, Peter J., and Takashi Shiraishi, eds. _Network Power: Japan and Asia_. Cornell University Press, 1997.
 
-[^31]: Hook, Glenn D., et al. *Japan's International Relations: Politics, Economics and Security*. 2nd ed. Routledge, 2005.
+[^31]: Hook, Glenn D., et al. _Japan's International Relations: Politics, Economics and Security_. 2nd ed. Routledge, 2005.
 
-[^32]: Rozman, Gilbert. "Japan's Quest for Great Power Identity." *Orbis* 46, no. 1 (2002): 73-91.
+[^32]: Rozman, Gilbert. "Japan's Quest for Great Power Identity." _Orbis_ 46, no. 1 (2002): 73-91.
 
-[^33]: Funabashi, Yoichi. *Alliance Adrift*. Council on Foreign Relations Press, 1999.
+[^33]: Funabashi, Yoichi. _Alliance Adrift_. Council on Foreign Relations Press, 1999.
 
-[^34]: Hellmann, Donald C. *Japanese Foreign Policy and Domestic Politics*. University of California Press, 1969.
+[^34]: Hellmann, Donald C. _Japanese Foreign Policy and Domestic Politics_. University of California Press, 1969.
 
-[^35]: Masumi, Junnosuke. *Contemporary Politics in Japan*. University of California Press, 1995.
+[^35]: Masumi, Junnosuke. _Contemporary Politics in Japan_. University of California Press, 1995.
 
-[^36]: "Eisaku Sato, Japanese Leader, Dies at 74." *The New York Times*, June 4, 1975.
+[^36]: "Eisaku Sato, Japanese Leader, Dies at 74." _The New York Times_, June 4, 1975.
 
-[^37]: Nester, William R. *Japanese Industrial Targeting: The Neomercantalist Path to Economic Superpower*. St. Martin's Press, 1991.
+[^37]: Nester, William R. _Japanese Industrial Targeting: The Neomercantalist Path to Economic Superpower_. St. Martin's Press, 1991.
 
-[^38]: Upham, Frank K. *Law and Social Change in Postwar Japan*. Harvard University Press, 1987.
+[^38]: Upham, Frank K. _Law and Social Change in Postwar Japan_. Harvard University Press, 1987.
 
-[^39]: Bouissou, Jean-Marie. *Japan: The Burden of Success*. Lynne Rienner Publishers, 2002.
+[^39]: Bouissou, Jean-Marie. _Japan: The Burden of Success_. Lynne Rienner Publishers, 2002.
 
-[^40]: Inoguchi, Takashi, and Purnendra Jain. *Japanese Politics Today: From Karaoke to Kabuki Democracy*. Palgrave Macmillan, 2011.
+[^40]: Inoguchi, Takashi, and Purnendra Jain. _Japanese Politics Today: From Karaoke to Kabuki Democracy_. Palgrave Macmillan, 2011.

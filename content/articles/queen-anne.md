@@ -147,27 +147,27 @@ Critics have also pointed to Anne's lack of personal charisma and inability to i
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1665 | Born February 6 at St James's Palace, London |
-| 1668 | Mother, Anne Hyde, dies |
-| 1673 | Father James, Duke of York, publicly acknowledges Catholic faith |
-| 1683 | Marries Prince George of Denmark on July 28 |
-| 1684 | Gives birth to first child, Mary, who dies shortly after |
-| 1685 | Uncle Charles II dies; father becomes King James II |
+| Year | Event                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------- |
+| 1665 | Born February 6 at St James's Palace, London                                                       |
+| 1668 | Mother, Anne Hyde, dies                                                                            |
+| 1673 | Father James, Duke of York, publicly acknowledges Catholic faith                                   |
+| 1683 | Marries Prince George of Denmark on July 28                                                        |
+| 1684 | Gives birth to first child, Mary, who dies shortly after                                           |
+| 1685 | Uncle Charles II dies; father becomes King James II                                                |
 | 1688 | Deserts father during Glorious Revolution; sister Mary and William of Orange become joint monarchs |
-| 1689 | Birth of son William, Duke of Gloucester, her longest-surviving child |
-| 1694 | Sister Queen Mary II dies; Anne becomes heir presumptive |
-| 1700 | Son William, Duke of Gloucester, dies at age 11 |
-| 1701 | Act of Settlement passed, establishing Hanoverian succession |
-| 1702 | King William III dies; Anne becomes Queen of England, Scotland, and Ireland on March 8 |
-| 1704 | Battle of Blenheim: Marlborough's great victory over French forces |
-| 1707 | Acts of Union unite England and Scotland into Kingdom of Great Britain on May 1 |
-| 1708 | Husband Prince George of Denmark dies; Anne vetoes Scottish Militia Bill (last royal veto) |
-| 1710 | Break with Sarah Churchill; dismissal of Whig ministry |
-| 1711 | Creation of twelve new Tory peers to secure peace majority in House of Lords |
-| 1713 | Treaty of Utrecht ends War of the Spanish Succession |
-| 1714 | Dies August 1 at Kensington Palace; succeeded by George I of Hanover |
+| 1689 | Birth of son William, Duke of Gloucester, her longest-surviving child                              |
+| 1694 | Sister Queen Mary II dies; Anne becomes heir presumptive                                           |
+| 1700 | Son William, Duke of Gloucester, dies at age 11                                                    |
+| 1701 | Act of Settlement passed, establishing Hanoverian succession                                       |
+| 1702 | King William III dies; Anne becomes Queen of England, Scotland, and Ireland on March 8             |
+| 1704 | Battle of Blenheim: Marlborough's great victory over French forces                                 |
+| 1707 | Acts of Union unite England and Scotland into Kingdom of Great Britain on May 1                    |
+| 1708 | Husband Prince George of Denmark dies; Anne vetoes Scottish Militia Bill (last royal veto)         |
+| 1710 | Break with Sarah Churchill; dismissal of Whig ministry                                             |
+| 1711 | Creation of twelve new Tory peers to secure peace majority in House of Lords                       |
+| 1713 | Treaty of Utrecht ends War of the Spanish Succession                                               |
+| 1714 | Dies August 1 at Kensington Palace; succeeded by George I of Hanover                               |
 
 ---
 
@@ -187,106 +187,208 @@ Critics have also pointed to Anne's lack of personal charisma and inability to i
 
 ## References
 
-[^1]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 11.
-[^2]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 23-25.
-[^3]: Harris, Frances. *A Passion for Government: The Life of Sarah, Duchess of Marlborough*. Oxford: Oxford University Press, 1991, p. 34.
-[^4]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 18-20.
-[^5]: Waller, Maureen. *Sovereign Ladies: The Six Reigning Queens of England*. London: John Murray, 2006, p. 312.
-[^6]: Emson, Heather E. "For Want of an Heir: The Obstetrical History of Queen Anne." *British Medical Journal* 304, no. 6840 (1992): 1365-1366.
-[^7]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 87-89.
-[^8]: Harris, Tim. *Revolution: The Great Crisis of the British Monarchy, 1685-1720*. London: Allen Lane, 2006, p. 89-92.
-[^9]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 38-41.
-[^10]: Emson, Heather E. "For Want of an Heir: The Obstetrical History of Queen Anne." *British Medical Journal* 304, no. 6840 (1992): 1365-1366.
-[^11]: Pincus, Steven. *1688: The First Modern Revolution*. New Haven: Yale University Press, 2009, p. 178-182.
-[^12]: Harris, Tim. *Revolution: The Great Crisis of the British Monarchy, 1685-1720*. London: Allen Lane, 2006, p. 256-258.
-[^13]: Harris, Frances. *A Passion for Government: The Life of Sarah, Duchess of Marlborough*. Oxford: Oxford University Press, 1991, p. 71-76.
-[^14]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 115-118.
-[^15]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 121-125.
-[^16]: Kenyon, J.P. *The Stuart Constitution 1603-1688: Documents and Commentary*. Cambridge: Cambridge University Press, 1986, p. 475-477.
-[^17]: Harris, Tim. *Revolution: The Great Crisis of the British Monarchy, 1685-1720*. London: Allen Lane, 2006, p. 403-405.
-[^18]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 146.
-[^19]: Whatley, Christopher A. *The Scots and the Union*. Edinburgh: Edinburgh University Press, 2006, p. 308-312.
-[^20]: Macinnes, Allan I. *Union and Empire: The Making of the United Kingdom in 1707*. Cambridge: Cambridge University Press, 2007, p. 289-294.
-[^21]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 288-290.
-[^22]: Falkner, James. *The War of the Spanish Succession 1701-1714*. Barnsley: Pen & Sword Military, 2015, p. 21-28.
-[^23]: Churchill, Winston S. *Marlborough: His Life and Times*, Volume 2. London: George G. Harrap & Co., 1934, p. 412-445.
-[^24]: Trevelyan, G.M. *England Under Queen Anne: The Peace and the Protestant Succession*. London: Longmans, Green and Co., 1934, p. 234-267.
-[^25]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 367-371.
-[^26]: Palmer, Colin A. *Human Cargoes: The British Slave Trade to Spanish America, 1700-1739*. Urbana: University of Illinois Press, 1981, p. 15-18.
-[^27]: Speck, W.A. "The Church of England and the Whig Supremacy." In *The Church of England c.1689-c.1833*, edited by John Walsh, Colin Haydon, and Stephen Taylor, 78-92. Cambridge: Cambridge University Press, 1993.
-[^28]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 173-174.
-[^29]: Port, M.H. *The Commissions for Building Fifty New Churches: The Minute Books, 1711-27*. London: London Record Society, 1986, p. xv-xx.
-[^30]: Rogers, Pat. *The Augustan Vision*. London: Weidenfeld and Nicolson, 1974, p. 1-15.
-[^31]: Downie, J.A. *Jonathan Swift: Political Writer*. London: Routledge & Kegan Paul, 1984, p. 89-94.
-[^32]: Holmes, Geoffrey. *British Politics in the Age of Anne*. London: Macmillan, 1967, p. 12-35.
-[^33]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 204-208.
-[^34]: Holmes, Geoffrey. *British Politics in the Age of Anne*. London: Macmillan, 1967, p. 243-267.
-[^35]: Trevelyan, G.M. *England Under Queen Anne: Ramillies and the Union with Scotland*. London: Longmans, Green and Co., 1932, p. 156-159.
-[^36]: Harris, Frances. *A Passion for Government: The Life of Sarah, Duchess of Marlborough*. Oxford: Oxford University Press, 1991, p. 134-156.
-[^37]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 323-339.
-[^38]: Field, Ophelia. *The Favourite: Sarah, Duchess of Marlborough*. London: Hodder & Stoughton, 2002, p. 267-289.
-[^39]: Churchill, Winston S. *Marlborough: His Life and Times*, Volume 4. London: George G. Harrap & Co., 1938, p. 512-534.
-[^40]: Trevelyan, G.M. *England Under Queen Anne: The Peace and the Protestant Succession*. London: Longmans, Green and Co., 1934, p. 189-212.
-[^41]: Holmes, Geoffrey. *British Politics in the Age of Anne*. London: Macmillan, 1967, p. 345-348.
-[^42]: Bennett, G.V. *The Tory Crisis in Church and State 1688-1730*. Oxford: Clarendon Press, 1975, p. 67-89.
-[^43]: Speck, W.A. *The Birth of Britain: A New Nation 1700-1710*. Oxford: Blackwell, 1994, p. 178-181.
-[^44]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 385-389.
-[^45]: Harris, Tim. *Revolution: The Great Crisis of the British Monarchy, 1685-1720*. London: Allen Lane, 2006, p. 476-479.
-[^46]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 489-492.
-[^47]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 38-42.
-[^48]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 295-297.
-[^49]: Emson, Heather E. "For Want of an Heir: The Obstetrical History of Queen Anne." *British Medical Journal* 304, no. 6840 (1992): 1365-1366.
-[^50]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 121-125.
-[^51]: Green, David. *Queen Anne*. London: Collins, 1970, p. 56-58.
-[^52]: Harris, Frances. *A Passion for Government: The Life of Sarah, Duchess of Marlborough*. Oxford: Oxford University Press, 1991, p. 45-67.
-[^53]: Field, Ophelia. *The Favourite: Sarah, Duchess of Marlborough*. London: Hodder & Stoughton, 2002, p. 89-92.
-[^54]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 312-318.
-[^55]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 298-302.
-[^56]: Donoghue, Emma. *Passions Between Women: British Lesbian Culture 1668-1801*. London: Scarlet Press, 1993, p. 67-73.
-[^57]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 145-148.
-[^58]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 173-176.
-[^59]: Green, David. *Queen Anne*. London: Collins, 1970, p. 289-292.
-[^60]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 489-491.
-[^61]: Whatley, Christopher A. *The Scots and the Union*. Edinburgh: Edinburgh University Press, 2006, p. 387-392.
-[^62]: Macinnes, Allan I. *Union and Empire: The Making of the United Kingdom in 1707*. Cambridge: Cambridge University Press, 2007, p. 342-345.
-[^63]: Armitage, David. *The Ideological Origins of the British Empire*. Cambridge: Cambridge University Press, 2000, p. 167-172.
-[^64]: Palmer, Colin A. *Human Cargoes: The British Slave Trade to Spanish America, 1700-1739*. Urbana: University of Illinois Press, 1981, p. 28-34.
-[^65]: Wormald, Jenny. "The House of Stewart." In *The Oxford Illustrated History of the British Monarchy*, edited by John Cannon and Ralph Griffiths, 234-289. Oxford: Oxford University Press, 1988.
-[^66]: Lenman, Bruce. *The Jacobite Risings in Britain 1689-1746*. London: Eyre Methuen, 1980, p. 145-167.
-[^67]: Rogers, Pat. *The Augustan Vision*. London: Weidenfeld and Nicolson, 1974, p. 89-112.
-[^68]: Habermas, Jürgen. *The Structural Transformation of the Public Sphere*. Cambridge: MIT Press, 1989, p. 57-67.
-[^69]: Holmes, Geoffrey. *British Politics in the Age of Anne*. London: Macmillan, 1967, p. 456-467.
-[^70]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 234.
-[^71]: Summerson, John. *Architecture in Britain 1530-1830*. New Haven: Yale University Press, 1993, p. 389-412.
-[^72]: Downes, Kerry. *Sir John Vanbrugh: A Biography*. London: Sidgwick & Jackson, 1987, p. 234-267.
-[^73]: Strachey, Lytton. *Queen Victoria*. London: Chatto & Windus, 1921, p. 12-13 [comparing Anne unfavorably to Victoria].
-[^74]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 1-8.
-[^75]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. vii-xi.
-[^76]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 398.
-[^77]: Whatley, Christopher A. *The Scots and the Union*. Edinburgh: Edinburgh University Press, 2006, p. 298-302.
-[^78]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 501-504.
-[^79]: Bennett, G.V. *The Tory Crisis in Church and State 1688-1730*. Oxford: Clarendon Press, 1975, p. 67-71.
-[^80]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 173-177.
-[^81]: Rogers, Pat. *The Augustan Vision*. London: Weidenfeld and Nicolson, 1974, p. 34-45.
-[^82]: Waller, Maureen. *Sovereign Ladies: The Six Reigning Queens of England*. London: John Murray, 2006, p. 334-339.
-[^83]: Churchill, Winston S. *Marlborough: His Life and Times*, Volume 2. London: George G. Harrap & Co., 1934, p. 156-167.
-[^84]: Falkner, James. *The War of the Spanish Succession 1701-1714*. Barnsley: Pen & Sword Military, 2015, p. 267-271.
-[^85]: Trevelyan, G.M. *England Under Queen Anne: Blenheim*. London: Longmans, Green and Co., 1930, p. 89-92.
-[^86]: Churchill, Sarah, Duchess of Marlborough. *An Account of the Conduct of the Dowager Duchess of Marlborough*. London, 1742, p. 134-136.
-[^87]: Churchill, Winston S. *Marlborough: His Life and Times*, Volume 4. London: George G. Harrap & Co., 1938, p. 523-534.
-[^88]: Holmes, Geoffrey. *British Politics in the Age of Anne*. London: Macmillan, 1967, p. 367-371.
-[^89]: Macaulay, Thomas Babington. *The History of England from the Accession of James II*, Volume 5. London: Longman, Brown, Green, and Longmans, 1855, p. 2789.
-[^90]: Bennett, G.V. *The Tory Crisis in Church and State 1688-1730*. Oxford: Clarendon Press, 1975, p. 178-182.
-[^91]: Speck, W.A. *The Birth of Britain: A New Nation 1700-1710*. Oxford: Blackwell, 1994, p. 189-192.
-[^92]: Holmes, Geoffrey. *British Politics in the Age of Anne*. London: Macmillan, 1967, p. 445-453.
-[^93]: Trevelyan, G.M. *England Under Queen Anne: The Peace and the Protestant Succession*. London: Longmans, Green and Co., 1934, p. 267-271.
-[^94]: Green, David. *Queen Anne*. London: Collins, 1970, p. 334-337.
-[^95]: Harris, Tim. *Revolution: The Great Crisis of the British Monarchy, 1685-1720*. London: Allen Lane, 2006, p. 489-492.
-[^96]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 389-393.
-[^97]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 498-501.
-[^98]: Waller, Maureen. *Sovereign Ladies: The Six Reigning Queens of England*. London: John Murray, 2006, p. 356-359.
-[^99]: Gregg, Edward. *Queen Anne*. New Haven: Yale University Press, 2001, p. 146.
-[^100]: Bennett, G.V. *The Tory Crisis in Church and State 1688-1730*. Oxford: Clarendon Press, 1975, p. 68.
-[^101]: Harris, Frances. *A Passion for Government: The Life of Sarah, Duchess of Marlborough*. Oxford: Oxford University Press, 1991, p. 89.
-[^102]: Somerset, Anne. *Queen Anne: The Politics of Passion*. London: HarperCollins, 2012, p. 412.
-[^103]: Churchill, Winston S. *Marlborough: His Life and Times*, Volume 4. London: George G. Harrap & Co., 1938, p. 534.
+[^1]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 11.
+
+[^2]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 23-25.
+
+[^3]: Harris, Frances. _A Passion for Government: The Life of Sarah, Duchess of Marlborough_. Oxford: Oxford University Press, 1991, p. 34.
+
+[^4]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 18-20.
+
+[^5]: Waller, Maureen. _Sovereign Ladies: The Six Reigning Queens of England_. London: John Murray, 2006, p. 312.
+
+[^6]: Emson, Heather E. "For Want of an Heir: The Obstetrical History of Queen Anne." _British Medical Journal_ 304, no. 6840 (1992): 1365-1366.
+
+[^7]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 87-89.
+
+[^8]: Harris, Tim. _Revolution: The Great Crisis of the British Monarchy, 1685-1720_. London: Allen Lane, 2006, p. 89-92.
+
+[^9]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 38-41.
+
+[^10]: Emson, Heather E. "For Want of an Heir: The Obstetrical History of Queen Anne." _British Medical Journal_ 304, no. 6840 (1992): 1365-1366.
+
+[^11]: Pincus, Steven. _1688: The First Modern Revolution_. New Haven: Yale University Press, 2009, p. 178-182.
+
+[^12]: Harris, Tim. _Revolution: The Great Crisis of the British Monarchy, 1685-1720_. London: Allen Lane, 2006, p. 256-258.
+
+[^13]: Harris, Frances. _A Passion for Government: The Life of Sarah, Duchess of Marlborough_. Oxford: Oxford University Press, 1991, p. 71-76.
+
+[^14]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 115-118.
+
+[^15]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 121-125.
+
+[^16]: Kenyon, J.P. _The Stuart Constitution 1603-1688: Documents and Commentary_. Cambridge: Cambridge University Press, 1986, p. 475-477.
+
+[^17]: Harris, Tim. _Revolution: The Great Crisis of the British Monarchy, 1685-1720_. London: Allen Lane, 2006, p. 403-405.
+
+[^18]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 146.
+
+[^19]: Whatley, Christopher A. _The Scots and the Union_. Edinburgh: Edinburgh University Press, 2006, p. 308-312.
+
+[^20]: Macinnes, Allan I. _Union and Empire: The Making of the United Kingdom in 1707_. Cambridge: Cambridge University Press, 2007, p. 289-294.
+
+[^21]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 288-290.
+
+[^22]: Falkner, James. _The War of the Spanish Succession 1701-1714_. Barnsley: Pen & Sword Military, 2015, p. 21-28.
+
+[^23]: Churchill, Winston S. _Marlborough: His Life and Times_, Volume 2. London: George G. Harrap & Co., 1934, p. 412-445.
+
+[^24]: Trevelyan, G.M. _England Under Queen Anne: The Peace and the Protestant Succession_. London: Longmans, Green and Co., 1934, p. 234-267.
+
+[^25]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 367-371.
+
+[^26]: Palmer, Colin A. _Human Cargoes: The British Slave Trade to Spanish America, 1700-1739_. Urbana: University of Illinois Press, 1981, p. 15-18.
+
+[^27]: Speck, W.A. "The Church of England and the Whig Supremacy." In _The Church of England c.1689-c.1833_, edited by John Walsh, Colin Haydon, and Stephen Taylor, 78-92. Cambridge: Cambridge University Press, 1993.
+
+[^28]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 173-174.
+
+[^29]: Port, M.H. _The Commissions for Building Fifty New Churches: The Minute Books, 1711-27_. London: London Record Society, 1986, p. xv-xx.
+
+[^30]: Rogers, Pat. _The Augustan Vision_. London: Weidenfeld and Nicolson, 1974, p. 1-15.
+
+[^31]: Downie, J.A. _Jonathan Swift: Political Writer_. London: Routledge & Kegan Paul, 1984, p. 89-94.
+
+[^32]: Holmes, Geoffrey. _British Politics in the Age of Anne_. London: Macmillan, 1967, p. 12-35.
+
+[^33]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 204-208.
+
+[^34]: Holmes, Geoffrey. _British Politics in the Age of Anne_. London: Macmillan, 1967, p. 243-267.
+
+[^35]: Trevelyan, G.M. _England Under Queen Anne: Ramillies and the Union with Scotland_. London: Longmans, Green and Co., 1932, p. 156-159.
+
+[^36]: Harris, Frances. _A Passion for Government: The Life of Sarah, Duchess of Marlborough_. Oxford: Oxford University Press, 1991, p. 134-156.
+
+[^37]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 323-339.
+
+[^38]: Field, Ophelia. _The Favourite: Sarah, Duchess of Marlborough_. London: Hodder & Stoughton, 2002, p. 267-289.
+
+[^39]: Churchill, Winston S. _Marlborough: His Life and Times_, Volume 4. London: George G. Harrap & Co., 1938, p. 512-534.
+
+[^40]: Trevelyan, G.M. _England Under Queen Anne: The Peace and the Protestant Succession_. London: Longmans, Green and Co., 1934, p. 189-212.
+
+[^41]: Holmes, Geoffrey. _British Politics in the Age of Anne_. London: Macmillan, 1967, p. 345-348.
+
+[^42]: Bennett, G.V. _The Tory Crisis in Church and State 1688-1730_. Oxford: Clarendon Press, 1975, p. 67-89.
+
+[^43]: Speck, W.A. _The Birth of Britain: A New Nation 1700-1710_. Oxford: Blackwell, 1994, p. 178-181.
+
+[^44]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 385-389.
+
+[^45]: Harris, Tim. _Revolution: The Great Crisis of the British Monarchy, 1685-1720_. London: Allen Lane, 2006, p. 476-479.
+
+[^46]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 489-492.
+
+[^47]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 38-42.
+
+[^48]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 295-297.
+
+[^49]: Emson, Heather E. "For Want of an Heir: The Obstetrical History of Queen Anne." _British Medical Journal_ 304, no. 6840 (1992): 1365-1366.
+
+[^50]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 121-125.
+
+[^51]: Green, David. _Queen Anne_. London: Collins, 1970, p. 56-58.
+
+[^52]: Harris, Frances. _A Passion for Government: The Life of Sarah, Duchess of Marlborough_. Oxford: Oxford University Press, 1991, p. 45-67.
+
+[^53]: Field, Ophelia. _The Favourite: Sarah, Duchess of Marlborough_. London: Hodder & Stoughton, 2002, p. 89-92.
+
+[^54]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 312-318.
+
+[^55]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 298-302.
+
+[^56]: Donoghue, Emma. _Passions Between Women: British Lesbian Culture 1668-1801_. London: Scarlet Press, 1993, p. 67-73.
+
+[^57]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 145-148.
+
+[^58]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 173-176.
+
+[^59]: Green, David. _Queen Anne_. London: Collins, 1970, p. 289-292.
+
+[^60]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 489-491.
+
+[^61]: Whatley, Christopher A. _The Scots and the Union_. Edinburgh: Edinburgh University Press, 2006, p. 387-392.
+
+[^62]: Macinnes, Allan I. _Union and Empire: The Making of the United Kingdom in 1707_. Cambridge: Cambridge University Press, 2007, p. 342-345.
+
+[^63]: Armitage, David. _The Ideological Origins of the British Empire_. Cambridge: Cambridge University Press, 2000, p. 167-172.
+
+[^64]: Palmer, Colin A. _Human Cargoes: The British Slave Trade to Spanish America, 1700-1739_. Urbana: University of Illinois Press, 1981, p. 28-34.
+
+[^65]: Wormald, Jenny. "The House of Stewart." In _The Oxford Illustrated History of the British Monarchy_, edited by John Cannon and Ralph Griffiths, 234-289. Oxford: Oxford University Press, 1988.
+
+[^66]: Lenman, Bruce. _The Jacobite Risings in Britain 1689-1746_. London: Eyre Methuen, 1980, p. 145-167.
+
+[^67]: Rogers, Pat. _The Augustan Vision_. London: Weidenfeld and Nicolson, 1974, p. 89-112.
+
+[^68]: Habermas, Jürgen. _The Structural Transformation of the Public Sphere_. Cambridge: MIT Press, 1989, p. 57-67.
+
+[^69]: Holmes, Geoffrey. _British Politics in the Age of Anne_. London: Macmillan, 1967, p. 456-467.
+
+[^70]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 234.
+
+[^71]: Summerson, John. _Architecture in Britain 1530-1830_. New Haven: Yale University Press, 1993, p. 389-412.
+
+[^72]: Downes, Kerry. _Sir John Vanbrugh: A Biography_. London: Sidgwick & Jackson, 1987, p. 234-267.
+
+[^73]: Strachey, Lytton. _Queen Victoria_. London: Chatto & Windus, 1921, p. 12-13 [comparing Anne unfavorably to Victoria].
+
+[^74]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 1-8.
+
+[^75]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. vii-xi.
+
+[^76]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 398.
+
+[^77]: Whatley, Christopher A. _The Scots and the Union_. Edinburgh: Edinburgh University Press, 2006, p. 298-302.
+
+[^78]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 501-504.
+
+[^79]: Bennett, G.V. _The Tory Crisis in Church and State 1688-1730_. Oxford: Clarendon Press, 1975, p. 67-71.
+
+[^80]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 173-177.
+
+[^81]: Rogers, Pat. _The Augustan Vision_. London: Weidenfeld and Nicolson, 1974, p. 34-45.
+
+[^82]: Waller, Maureen. _Sovereign Ladies: The Six Reigning Queens of England_. London: John Murray, 2006, p. 334-339.
+
+[^83]: Churchill, Winston S. _Marlborough: His Life and Times_, Volume 2. London: George G. Harrap & Co., 1934, p. 156-167.
+
+[^84]: Falkner, James. _The War of the Spanish Succession 1701-1714_. Barnsley: Pen & Sword Military, 2015, p. 267-271.
+
+[^85]: Trevelyan, G.M. _England Under Queen Anne: Blenheim_. London: Longmans, Green and Co., 1930, p. 89-92.
+
+[^86]: Churchill, Sarah, Duchess of Marlborough. _An Account of the Conduct of the Dowager Duchess of Marlborough_. London, 1742, p. 134-136.
+
+[^87]: Churchill, Winston S. _Marlborough: His Life and Times_, Volume 4. London: George G. Harrap & Co., 1938, p. 523-534.
+
+[^88]: Holmes, Geoffrey. _British Politics in the Age of Anne_. London: Macmillan, 1967, p. 367-371.
+
+[^89]: Macaulay, Thomas Babington. _The History of England from the Accession of James II_, Volume 5. London: Longman, Brown, Green, and Longmans, 1855, p. 2789.
+
+[^90]: Bennett, G.V. _The Tory Crisis in Church and State 1688-1730_. Oxford: Clarendon Press, 1975, p. 178-182.
+
+[^91]: Speck, W.A. _The Birth of Britain: A New Nation 1700-1710_. Oxford: Blackwell, 1994, p. 189-192.
+
+[^92]: Holmes, Geoffrey. _British Politics in the Age of Anne_. London: Macmillan, 1967, p. 445-453.
+
+[^93]: Trevelyan, G.M. _England Under Queen Anne: The Peace and the Protestant Succession_. London: Longmans, Green and Co., 1934, p. 267-271.
+
+[^94]: Green, David. _Queen Anne_. London: Collins, 1970, p. 334-337.
+
+[^95]: Harris, Tim. _Revolution: The Great Crisis of the British Monarchy, 1685-1720_. London: Allen Lane, 2006, p. 489-492.
+
+[^96]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 389-393.
+
+[^97]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 498-501.
+
+[^98]: Waller, Maureen. _Sovereign Ladies: The Six Reigning Queens of England_. London: John Murray, 2006, p. 356-359.
+
+[^99]: Gregg, Edward. _Queen Anne_. New Haven: Yale University Press, 2001, p. 146.
+
+[^100]: Bennett, G.V. _The Tory Crisis in Church and State 1688-1730_. Oxford: Clarendon Press, 1975, p. 68.
+
+[^101]: Harris, Frances. _A Passion for Government: The Life of Sarah, Duchess of Marlborough_. Oxford: Oxford University Press, 1991, p. 89.
+
+[^102]: Somerset, Anne. _Queen Anne: The Politics of Passion_. London: HarperCollins, 2012, p. 412.
+
+[^103]: Churchill, Winston S. _Marlborough: His Life and Times_, Volume 4. London: George G. Harrap & Co., 1938, p. 534.

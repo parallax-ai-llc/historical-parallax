@@ -151,34 +151,34 @@ Feminist critics note that Andreotti's political world was almost exclusively ma
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1919 | Born in Rome on January 14 |
-| 1921 | Father dies, leaving family in difficult circumstances |
-| 1941 | Graduates from University of Rome La Sapienza with law degree |
-| 1942 | Begins work at Vatican Library during World War II |
-| 1944 | Joins newly formed Christian Democracy party |
-| 1945 | Marries Livia Danese |
-| 1946 | Elected to Constituent Assembly |
-| 1947 | Becomes chief of cabinet to Prime Minister Alcide De Gasperi |
-| 1948 | Elected to Chamber of Deputies for the first time |
-| 1954 | Appointed Minister of the Interior at age 35 |
-| 1959 | Begins tenure as Minister of Defense (serves until 1966) |
-| 1972 | First appointment as Prime Minister (February-June 1972) |
-| 1976 | Second term as Prime Minister begins (July 1976) |
+| Year | Event                                                                          |
+| ---- | ------------------------------------------------------------------------------ |
+| 1919 | Born in Rome on January 14                                                     |
+| 1921 | Father dies, leaving family in difficult circumstances                         |
+| 1941 | Graduates from University of Rome La Sapienza with law degree                  |
+| 1942 | Begins work at Vatican Library during World War II                             |
+| 1944 | Joins newly formed Christian Democracy party                                   |
+| 1945 | Marries Livia Danese                                                           |
+| 1946 | Elected to Constituent Assembly                                                |
+| 1947 | Becomes chief of cabinet to Prime Minister Alcide De Gasperi                   |
+| 1948 | Elected to Chamber of Deputies for the first time                              |
+| 1954 | Appointed Minister of the Interior at age 35                                   |
+| 1959 | Begins tenure as Minister of Defense (serves until 1966)                       |
+| 1972 | First appointment as Prime Minister (February-June 1972)                       |
+| 1976 | Second term as Prime Minister begins (July 1976)                               |
 | 1978 | Aldo Moro kidnapping and murder crisis; refuses to negotiate with Red Brigades |
 | 1979 | Journalist Mino Pecorelli murdered (later alleged to be on Andreotti's orders) |
-| 1983 | Appointed Minister of Foreign Affairs (serves until 1989) |
-| 1989 | Seventh and final term as Prime Minister begins (July 1989) |
-| 1991 | Participates in negotiations leading to Maastricht Treaty |
-| 1992 | Resigns as Prime Minister as "Clean Hands" investigation begins |
-| 1992 | Elected Senator for life by President Oscar Luigi Scalfaro |
-| 1993 | Christian Democracy party dissolves amid corruption scandals |
-| 1995 | Formally charged with ordering murder of Mino Pecorelli and Mafia association |
-| 1999 | First-instance conviction for Mafia association (later overturned) |
-| 2003 | Final acquittal on murder charges; court finds Mafia ties existed until 1980 |
-| 2008 | Paolo Sorrentino's film "Il Divo" portrays Andreotti's life and career |
-| 2013 | Dies in Rome on May 6 at age 94 |
+| 1983 | Appointed Minister of Foreign Affairs (serves until 1989)                      |
+| 1989 | Seventh and final term as Prime Minister begins (July 1989)                    |
+| 1991 | Participates in negotiations leading to Maastricht Treaty                      |
+| 1992 | Resigns as Prime Minister as "Clean Hands" investigation begins                |
+| 1992 | Elected Senator for life by President Oscar Luigi Scalfaro                     |
+| 1993 | Christian Democracy party dissolves amid corruption scandals                   |
+| 1995 | Formally charged with ordering murder of Mino Pecorelli and Mafia association  |
+| 1999 | First-instance conviction for Mafia association (later overturned)             |
+| 2003 | Final acquittal on murder charges; court finds Mafia ties existed until 1980   |
+| 2008 | Paolo Sorrentino's film "Il Divo" portrays Andreotti's life and career         |
+| 2013 | Dies in Rome on May 6 at age 94                                                |
 
 ---
 

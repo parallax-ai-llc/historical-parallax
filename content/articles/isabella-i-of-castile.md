@@ -141,29 +141,29 @@ Some historians question the extent of Isabella's achievements, arguing that she
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1451 | Born April 22 in Madrigal de las Altas Torres, Castile |
-| 1454 | Father King John II dies; half-brother Henry IV becomes king |
-| 1461 | Moves with mother and brother to Arévalo castle |
-| 1468 | Brother Alfonso dies; Isabella recognized as heir by Treaty of Toros de Guisando |
-| 1469 | Marries Ferdinand of Aragon on October 19 in Valladolid |
-| 1470 | Gives birth to daughter Isabella |
-| 1474 | King Henry IV dies; Isabella declares herself Queen of Castile |
-| 1475 | War of Castilian Succession begins; gives birth to son John |
-| 1478 | Establishes the Spanish Inquisition with papal approval |
+| Year | Event                                                                             |
+| ---- | --------------------------------------------------------------------------------- |
+| 1451 | Born April 22 in Madrigal de las Altas Torres, Castile                            |
+| 1454 | Father King John II dies; half-brother Henry IV becomes king                      |
+| 1461 | Moves with mother and brother to Arévalo castle                                   |
+| 1468 | Brother Alfonso dies; Isabella recognized as heir by Treaty of Toros de Guisando  |
+| 1469 | Marries Ferdinand of Aragon on October 19 in Valladolid                           |
+| 1470 | Gives birth to daughter Isabella                                                  |
+| 1474 | King Henry IV dies; Isabella declares herself Queen of Castile                    |
+| 1475 | War of Castilian Succession begins; gives birth to son John                       |
+| 1478 | Establishes the Spanish Inquisition with papal approval                           |
 | 1479 | War of Castilian Succession ends; Isabella's reign secured by Treaty of Alcáçovas |
-| 1479 | Ferdinand becomes King of Aragon; kingdoms united under joint rule |
-| 1482 | Granada War begins to conquer the last Muslim kingdom in Iberia |
-| 1485 | Gives birth to daughter Catherine (future Catherine of Aragon) |
-| 1492 | Granada surrenders on January 2; Reconquista completed |
-| 1492 | Issues Alhambra Decree expelling all Jews from Spain (March 31) |
-| 1492 | Christopher Columbus discovers the Americas (October 12) |
-| 1497 | Son and heir Prince John dies at age nineteen |
-| 1498 | Daughter Isabella dies in childbirth |
-| 1500 | Grandson Miguel dies; succession passes to daughter Joanna |
-| 1501 | Orders conversion or expulsion of all Muslims in Castile |
-| 1504 | Dies on November 26 in Medina del Campo at age fifty-three |
+| 1479 | Ferdinand becomes King of Aragon; kingdoms united under joint rule                |
+| 1482 | Granada War begins to conquer the last Muslim kingdom in Iberia                   |
+| 1485 | Gives birth to daughter Catherine (future Catherine of Aragon)                    |
+| 1492 | Granada surrenders on January 2; Reconquista completed                            |
+| 1492 | Issues Alhambra Decree expelling all Jews from Spain (March 31)                   |
+| 1492 | Christopher Columbus discovers the Americas (October 12)                          |
+| 1497 | Son and heir Prince John dies at age nineteen                                     |
+| 1498 | Daughter Isabella dies in childbirth                                              |
+| 1500 | Grandson Miguel dies; succession passes to daughter Joanna                        |
+| 1501 | Orders conversion or expulsion of all Muslims in Castile                          |
+| 1504 | Dies on November 26 in Medina del Campo at age fifty-three                        |
 
 ---
 
@@ -193,288 +193,288 @@ One of Isabella's final statements reflects her unwavering conviction that her a
 
 ## References
 
-[^1]: Liss, Peggy K. *Isabel the Queen: Life and Times*. University of Pennsylvania Press, 2004, p. 15.
+[^1]: Liss, Peggy K. _Isabel the Queen: Life and Times_. University of Pennsylvania Press, 2004, p. 15.
 
-[^2]: Rubin, Nancy. *Isabella of Castile: The First Renaissance Queen*. St. Martin's Press, 1991, p. 23.
+[^2]: Rubin, Nancy. _Isabella of Castile: The First Renaissance Queen_. St. Martin's Press, 1991, p. 23.
 
-[^3]: Tremlett, Giles. *Isabella of Castile: Europe's First Great Queen*. Bloomsbury, 2017, p. 31.
+[^3]: Tremlett, Giles. _Isabella of Castile: Europe's First Great Queen_. Bloomsbury, 2017, p. 31.
 
-[^4]: Downey, Kirstin. *Isabella: The Warrior Queen*. Anchor Books, 2014, p. 42.
+[^4]: Downey, Kirstin. _Isabella: The Warrior Queen_. Anchor Books, 2014, p. 42.
 
-[^5]: Edwards, John. *The Spain of the Catholic Monarchs 1474-1520*. Blackwell Publishers, 2000, p. 8.
+[^5]: Edwards, John. _The Spain of the Catholic Monarchs 1474-1520_. Blackwell Publishers, 2000, p. 8.
 
-[^6]: Kamen, Henry. *Spain 1469-1714: A Society of Conflict*. Routledge, 2014, p. 23.
+[^6]: Kamen, Henry. _Spain 1469-1714: A Society of Conflict_. Routledge, 2014, p. 23.
 
-[^7]: Liss, Peggy K. *Isabel the Queen*, p. 25.
+[^7]: Liss, Peggy K. _Isabel the Queen_, p. 25.
 
-[^8]: Prescott, William H. *History of the Reign of Ferdinand and Isabella the Catholic*. Heritage Press, 1967 [1838], p. 89.
+[^8]: Prescott, William H. _History of the Reign of Ferdinand and Isabella the Catholic_. Heritage Press, 1967 [1838], p. 89.
 
-[^9]: Tremlett, Giles. *Isabella of Castile*, p. 45.
+[^9]: Tremlett, Giles. _Isabella of Castile_, p. 45.
 
-[^10]: Rubin, Nancy. *Isabella of Castile*, p. 67.
+[^10]: Rubin, Nancy. _Isabella of Castile_, p. 67.
 
-[^11]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 12.
+[^11]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 12.
 
-[^12]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 78.
+[^12]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 78.
 
-[^13]: Tremlett, Giles. *Isabella of Castile*, p. 72.
+[^13]: Tremlett, Giles. _Isabella of Castile_, p. 72.
 
-[^14]: Liss, Peggy K. *Isabel the Queen*, p. 58.
+[^14]: Liss, Peggy K. _Isabel the Queen_, p. 58.
 
-[^15]: Elliott, J.H. *Imperial Spain 1469-1716*. Penguin Books, 2002, p. 24.
+[^15]: Elliott, J.H. _Imperial Spain 1469-1716_. Penguin Books, 2002, p. 24.
 
-[^16]: Kamen, Henry. *Spain 1469-1714*, p. 31.
+[^16]: Kamen, Henry. _Spain 1469-1714_, p. 31.
 
-[^17]: Weissberger, Barbara F. *Isabel Rules: Constructing Queenship, Wielding Power*. University of Minnesota Press, 2004, p. 112.
+[^17]: Weissberger, Barbara F. _Isabel Rules: Constructing Queenship, Wielding Power_. University of Minnesota Press, 2004, p. 112.
 
-[^18]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 18.
+[^18]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 18.
 
-[^19]: Rubin, Nancy. *Isabella of Castile*, p. 125.
+[^19]: Rubin, Nancy. _Isabella of Castile_, p. 125.
 
-[^20]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 95.
+[^20]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 95.
 
-[^21]: Liss, Peggy K. *Isabel the Queen*, p. 72.
+[^21]: Liss, Peggy K. _Isabel the Queen_, p. 72.
 
-[^22]: Tremlett, Giles. *Isabella of Castile*, p. 98.
+[^22]: Tremlett, Giles. _Isabella of Castile_, p. 98.
 
-[^23]: Phillips, William D. and Phillips, Carla Rahn. *The Worlds of Christopher Columbus*. Cambridge University Press, 1992, p. 134.
+[^23]: Phillips, William D. and Phillips, Carla Rahn. _The Worlds of Christopher Columbus_. Cambridge University Press, 1992, p. 134.
 
-[^24]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 35.
+[^24]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 35.
 
-[^25]: Kamen, Henry. *Spain 1469-1714*, p. 45.
+[^25]: Kamen, Henry. _Spain 1469-1714_, p. 45.
 
-[^26]: Elliott, J.H. *Imperial Spain*, p. 89.
+[^26]: Elliott, J.H. _Imperial Spain_, p. 89.
 
-[^27]: O'Callaghan, Joseph F. *Reconquest and Crusade in Medieval Spain*. University of Pennsylvania Press, 2003, p. 198.
+[^27]: O'Callaghan, Joseph F. _Reconquest and Crusade in Medieval Spain_. University of Pennsylvania Press, 2003, p. 198.
 
-[^28]: Harvey, L.P. *Islamic Spain, 1250 to 1500*. University of Chicago Press, 1990, p. 289.
+[^28]: Harvey, L.P. _Islamic Spain, 1250 to 1500_. University of Chicago Press, 1990, p. 289.
 
-[^29]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 178.
+[^29]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 178.
 
-[^30]: Tremlett, Giles. *Isabella of Castile*, p. 156.
+[^30]: Tremlett, Giles. _Isabella of Castile_, p. 156.
 
-[^31]: Liss, Peggy K. *Isabel the Queen*, p. 142.
+[^31]: Liss, Peggy K. _Isabel the Queen_, p. 142.
 
-[^32]: Rubin, Nancy. *Isabella of Castile*, p. 198.
+[^32]: Rubin, Nancy. _Isabella of Castile_, p. 198.
 
-[^33]: Prescott, William H. *History of the Reign of Ferdinand and Isabella*, p. 312.
+[^33]: Prescott, William H. _History of the Reign of Ferdinand and Isabella_, p. 312.
 
-[^34]: O'Callaghan, Joseph F. *Reconquest and Crusade*, p. 215.
+[^34]: O'Callaghan, Joseph F. _Reconquest and Crusade_, p. 215.
 
-[^35]: Phillips, William D. and Phillips, Carla Rahn. *The Worlds of Christopher Columbus*, p. 156.
+[^35]: Phillips, William D. and Phillips, Carla Rahn. _The Worlds of Christopher Columbus_, p. 156.
 
-[^36]: Fernández-Armesto, Felipe. *Columbus*. Oxford University Press, 1991, p. 67.
+[^36]: Fernández-Armesto, Felipe. _Columbus_. Oxford University Press, 1991, p. 67.
 
-[^37]: Mann, Charles C. *1493: Uncovering the New World Columbus Created*. Knopf, 2011, p. 23.
+[^37]: Mann, Charles C. _1493: Uncovering the New World Columbus Created_. Knopf, 2011, p. 23.
 
-[^38]: Hanke, Lewis. *The Spanish Struggle for Justice in the Conquest of America*. Southern Methodist University Press, 2002, p. 17.
+[^38]: Hanke, Lewis. _The Spanish Struggle for Justice in the Conquest of America_. Southern Methodist University Press, 2002, p. 17.
 
-[^39]: Restall, Matthew. *Seven Myths of the Spanish Conquest*. Oxford University Press, 2003, p. 45.
+[^39]: Restall, Matthew. _Seven Myths of the Spanish Conquest_. Oxford University Press, 2003, p. 45.
 
-[^40]: Liss, Peggy K. *Isabel the Queen*, p. 267.
+[^40]: Liss, Peggy K. _Isabel the Queen_, p. 267.
 
-[^41]: Cook, Noble David. *Born to Die: Disease and New World Conquest, 1492-1650*. Cambridge University Press, 1998, p. 89.
+[^41]: Cook, Noble David. _Born to Die: Disease and New World Conquest, 1492-1650_. Cambridge University Press, 1998, p. 89.
 
-[^42]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 178.
+[^42]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 178.
 
-[^43]: Rubin, Nancy. *Isabella of Castile*, p. 245.
+[^43]: Rubin, Nancy. _Isabella of Castile_, p. 245.
 
-[^44]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 234.
+[^44]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 234.
 
-[^45]: Tremlett, Giles. *Isabella of Castile*, p. 223.
+[^45]: Tremlett, Giles. _Isabella of Castile_, p. 223.
 
-[^46]: Kamen, Henry. *The Spanish Inquisition: A Historical Revision*. Yale University Press, 1998, p. 45.
+[^46]: Kamen, Henry. _The Spanish Inquisition: A Historical Revision_. Yale University Press, 1998, p. 45.
 
-[^47]: Netanyahu, Benzion. *The Origins of the Inquisition in Fifteenth Century Spain*. New York Review Books, 2001, p. 892.
+[^47]: Netanyahu, Benzion. _The Origins of the Inquisition in Fifteenth Century Spain_. New York Review Books, 2001, p. 892.
 
-[^48]: Peters, Edward. *Inquisition*. University of California Press, 1989, p. 87.
+[^48]: Peters, Edward. _Inquisition_. University of California Press, 1989, p. 87.
 
-[^49]: Homza, Lu Ann, ed. *The Spanish Inquisition, 1478-1614: An Anthology of Sources*. Hackett Publishing, 2006, p. xv.
+[^49]: Homza, Lu Ann, ed. _The Spanish Inquisition, 1478-1614: An Anthology of Sources_. Hackett Publishing, 2006, p. xv.
 
-[^50]: Kamen, Henry. *The Spanish Inquisition*, p. 62.
+[^50]: Kamen, Henry. _The Spanish Inquisition_, p. 62.
 
-[^51]: Netanyahu, Benzion. *The Origins of the Inquisition*, p. 1025.
+[^51]: Netanyahu, Benzion. _The Origins of the Inquisition_, p. 1025.
 
-[^52]: Pérez, Joseph. *The Spanish Inquisition: A History*. Yale University Press, 2006, p. 173.
+[^52]: Pérez, Joseph. _The Spanish Inquisition: A History_. Yale University Press, 2006, p. 173.
 
-[^53]: Gerber, Jane S. *The Jews of Spain: A History of the Sephardic Experience*. Free Press, 1992, p. 127.
+[^53]: Gerber, Jane S. _The Jews of Spain: A History of the Sephardic Experience_. Free Press, 1992, p. 127.
 
-[^54]: Beinart, Haim. *The Expulsion of the Jews from Spain*. Littman Library, 2002, p. 9.
+[^54]: Beinart, Haim. _The Expulsion of the Jews from Spain_. Littman Library, 2002, p. 9.
 
-[^55]: Netanyahu, Benzion. *The Origins of the Inquisition*, p. 1089.
+[^55]: Netanyahu, Benzion. _The Origins of the Inquisition_, p. 1089.
 
-[^56]: Edwards, John. *The Jews in Western Europe, 1400-1600*. Manchester University Press, 1994, p. 67.
+[^56]: Edwards, John. _The Jews in Western Europe, 1400-1600_. Manchester University Press, 1994, p. 67.
 
-[^57]: Gerber, Jane S. *The Jews of Spain*, p. 134.
+[^57]: Gerber, Jane S. _The Jews of Spain_, p. 134.
 
-[^58]: Beinart, Haim. *The Expulsion of the Jews from Spain*, p. 34.
+[^58]: Beinart, Haim. _The Expulsion of the Jews from Spain_, p. 34.
 
-[^59]: Stillman, Norman A. *The Jews of Arab Lands: A History and Source Book*. Jewish Publication Society, 1979, p. 278.
+[^59]: Stillman, Norman A. _The Jews of Arab Lands: A History and Source Book_. Jewish Publication Society, 1979, p. 278.
 
-[^60]: Harvey, L.P. *Muslims in Spain, 1500 to 1614*. University of Chicago Press, 2005, p. 12.
+[^60]: Harvey, L.P. _Muslims in Spain, 1500 to 1614_. University of Chicago Press, 2005, p. 12.
 
-[^61]: Coleman, David. *Creating Christian Granada: Society and Religious Culture in an Old-World Frontier City, 1492-1600*. Cornell University Press, 2003, p. 45.
+[^61]: Coleman, David. _Creating Christian Granada: Society and Religious Culture in an Old-World Frontier City, 1492-1600_. Cornell University Press, 2003, p. 45.
 
-[^62]: Harvey, L.P. *Muslims in Spain*, p. 34.
+[^62]: Harvey, L.P. _Muslims in Spain_, p. 34.
 
-[^63]: Carr, Matthew. *Blood and Faith: The Purging of Muslim Spain*. New Press, 2009, p. 67.
+[^63]: Carr, Matthew. _Blood and Faith: The Purging of Muslim Spain_. New Press, 2009, p. 67.
 
-[^64]: Cook, Noble David. *Born to Die*, p. 56.
+[^64]: Cook, Noble David. _Born to Die_, p. 56.
 
-[^65]: Mann, Charles C. *1491: New Revelations of the Americas Before Columbus*. Knopf, 2005, p. 98.
+[^65]: Mann, Charles C. _1491: New Revelations of the Americas Before Columbus_. Knopf, 2005, p. 98.
 
-[^66]: Restall, Matthew. *Seven Myths of the Spanish Conquest*, p. 78.
+[^66]: Restall, Matthew. _Seven Myths of the Spanish Conquest_, p. 78.
 
-[^67]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 42.
+[^67]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 42.
 
-[^68]: Tremlett, Giles. *Isabella of Castile*, p. 189.
+[^68]: Tremlett, Giles. _Isabella of Castile_, p. 189.
 
-[^69]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 256.
+[^69]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 256.
 
-[^70]: Rubin, Nancy. *Isabella of Castile*, p. 334.
+[^70]: Rubin, Nancy. _Isabella of Castile_, p. 334.
 
-[^71]: Liss, Peggy K. *Isabel the Queen*, p. 298.
+[^71]: Liss, Peggy K. _Isabel the Queen_, p. 298.
 
-[^72]: Tremlett, Giles. *Isabella of Castile*, p. 312.
+[^72]: Tremlett, Giles. _Isabella of Castile_, p. 312.
 
-[^73]: Rubin, Nancy. *Isabella of Castile*, p. 356.
+[^73]: Rubin, Nancy. _Isabella of Castile_, p. 356.
 
-[^74]: Aram, Bethany. *Juana the Mad: Sovereignty and Dynasty in Renaissance Europe*. Johns Hopkins University Press, 2005, p. 23.
+[^74]: Aram, Bethany. _Juana the Mad: Sovereignty and Dynasty in Renaissance Europe_. Johns Hopkins University Press, 2005, p. 23.
 
-[^75]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 389.
+[^75]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 389.
 
-[^76]: Aram, Bethany. *Juana the Mad*, p. 145.
+[^76]: Aram, Bethany. _Juana the Mad_, p. 145.
 
-[^77]: Tremlett, Giles. *Catherine of Aragon: The Spanish Queen of Henry VIII*. Viking, 2010, p. 45.
+[^77]: Tremlett, Giles. _Catherine of Aragon: The Spanish Queen of Henry VIII_. Viking, 2010, p. 45.
 
-[^78]: Starkey, David. *Six Wives: The Queens of Henry VIII*. HarperCollins, 2003, p. 178.
+[^78]: Starkey, David. _Six Wives: The Queens of Henry VIII_. HarperCollins, 2003, p. 178.
 
-[^79]: Liss, Peggy K. *Isabel the Queen*, p. 186.
+[^79]: Liss, Peggy K. _Isabel the Queen_, p. 186.
 
-[^80]: Rubin, Nancy. *Isabella of Castile*, p. 267.
+[^80]: Rubin, Nancy. _Isabella of Castile_, p. 267.
 
-[^81]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 56.
+[^81]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 56.
 
-[^82]: Tremlett, Giles. *Isabella of Castile*, p. 201.
+[^82]: Tremlett, Giles. _Isabella of Castile_, p. 201.
 
-[^83]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 145.
+[^83]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 145.
 
-[^84]: Liss, Peggy K. *Isabel the Queen*, p. 34.
+[^84]: Liss, Peggy K. _Isabel the Queen_, p. 34.
 
-[^85]: Rubin, Nancy. *Isabella of Castile*, p. 89.
+[^85]: Rubin, Nancy. _Isabella of Castile_, p. 89.
 
-[^86]: Tremlett, Giles. *Isabella of Castile*, p. 398.
+[^86]: Tremlett, Giles. _Isabella of Castile_, p. 398.
 
-[^87]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 412.
+[^87]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 412.
 
-[^88]: Liss, Peggy K. *Isabel the Queen*, p. 324.
+[^88]: Liss, Peggy K. _Isabel the Queen_, p. 324.
 
-[^89]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 89.
+[^89]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 89.
 
-[^90]: Rubin, Nancy. *Isabella of Castile*, p. 401.
+[^90]: Rubin, Nancy. _Isabella of Castile_, p. 401.
 
-[^91]: Elliott, J.H. *Imperial Spain*, p. 56.
+[^91]: Elliott, J.H. _Imperial Spain_, p. 56.
 
-[^92]: Kamen, Henry. *Spain 1469-1714*, p. 78.
+[^92]: Kamen, Henry. _Spain 1469-1714_, p. 78.
 
-[^93]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 123.
+[^93]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 123.
 
-[^94]: Thompson, I.A.A. *War and Government in Habsburg Spain 1560-1620*. Athlone Press, 1976, p. 23.
+[^94]: Thompson, I.A.A. _War and Government in Habsburg Spain 1560-1620_. Athlone Press, 1976, p. 23.
 
-[^95]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 445.
+[^95]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 445.
 
-[^96]: Elliott, J.H. *Imperial Spain*, p. 134.
+[^96]: Elliott, J.H. _Imperial Spain_, p. 134.
 
-[^97]: Fernández-Armesto, Felipe. *1492: The Year the World Began*. HarperOne, 2010, p. 89.
+[^97]: Fernández-Armesto, Felipe. _1492: The Year the World Began_. HarperOne, 2010, p. 89.
 
-[^98]: Thomas, Hugh. *Rivers of Gold: The Rise of the Spanish Empire*. Random House, 2003, p. 234.
+[^98]: Thomas, Hugh. _Rivers of Gold: The Rise of the Spanish Empire_. Random House, 2003, p. 234.
 
-[^99]: Kamen, Henry. *The Spanish Inquisition*, p. 312.
+[^99]: Kamen, Henry. _The Spanish Inquisition_, p. 312.
 
-[^100]: Gerber, Jane S. *The Jews of Spain*, p. 142.
+[^100]: Gerber, Jane S. _The Jews of Spain_, p. 142.
 
-[^101]: Netanyahu, Benzion. *The Origins of the Inquisition*, p. 1134.
+[^101]: Netanyahu, Benzion. _The Origins of the Inquisition_, p. 1134.
 
-[^102]: Woodward, Kenneth L. *Making Saints*. Simon & Schuster, 1990, p. 267.
+[^102]: Woodward, Kenneth L. _Making Saints_. Simon & Schuster, 1990, p. 267.
 
-[^103]: Carroll, James. *Constantine's Sword: The Church and the Jews*. Houghton Mifflin, 2001, p. 389.
+[^103]: Carroll, James. _Constantine's Sword: The Church and the Jews_. Houghton Mifflin, 2001, p. 389.
 
-[^104]: Kamen, Henry. *The Spanish Inquisition*, p. 345.
+[^104]: Kamen, Henry. _The Spanish Inquisition_, p. 345.
 
-[^105]: Weissberger, Barbara F. *Isabel Rules*, p. 234.
+[^105]: Weissberger, Barbara F. _Isabel Rules_, p. 234.
 
-[^106]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 478.
+[^106]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 478.
 
-[^107]: Vollendorf, Lisa, ed. *Recovering Spain's Feminist Tradition*. Modern Language Association, 2001, p. 45.
+[^107]: Vollendorf, Lisa, ed. _Recovering Spain's Feminist Tradition_. Modern Language Association, 2001, p. 45.
 
-[^108]: Weissberger, Barbara F. *Isabel Rules*, p. 289.
+[^108]: Weissberger, Barbara F. _Isabel Rules_, p. 289.
 
-[^109]: Boyd, Carolyn P. *Historia Patria: Politics, History, and National Identity in Spain, 1875-1975*. Princeton University Press, 1997, p. 156.
+[^109]: Boyd, Carolyn P. _Historia Patria: Politics, History, and National Identity in Spain, 1875-1975_. Princeton University Press, 1997, p. 156.
 
-[^110]: Tremlett, Giles. *Isabella of Castile*, p. 456.
+[^110]: Tremlett, Giles. _Isabella of Castile_, p. 456.
 
-[^111]: Casper, Scott E. et al., eds. *Commemorations: The Politics of National Identity*. Princeton University Press, 2009, p. 278.
+[^111]: Casper, Scott E. et al., eds. _Commemorations: The Politics of National Identity_. Princeton University Press, 2009, p. 278.
 
-[^112]: Liss, Peggy K. *Isabel the Queen*, p. 12.
+[^112]: Liss, Peggy K. _Isabel the Queen_, p. 12.
 
-[^113]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 145.
+[^113]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 145.
 
-[^114]: Rubin, Nancy. *Isabella of Castile*, p. 423.
+[^114]: Rubin, Nancy. _Isabella of Castile_, p. 423.
 
-[^115]: Hanke, Lewis. *The Spanish Struggle for Justice*, p. 89.
+[^115]: Hanke, Lewis. _The Spanish Struggle for Justice_, p. 89.
 
-[^116]: Walsh, William Thomas. *Isabella of Spain: The Last Crusader*. TAN Books, 1987 [1930], p. 567.
+[^116]: Walsh, William Thomas. _Isabella of Spain: The Last Crusader_. TAN Books, 1987 [1930], p. 567.
 
-[^117]: O'Callaghan, Joseph F. *Reconquest and Crusade*, p. 234.
+[^117]: O'Callaghan, Joseph F. _Reconquest and Crusade_, p. 234.
 
-[^118]: Kamen, Henry. *Spain 1469-1714*, p. 167.
+[^118]: Kamen, Henry. _Spain 1469-1714_, p. 167.
 
-[^119]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 3.
+[^119]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 3.
 
-[^120]: Downey, Kirstin. *Isabella: The Warrior Queen*, p. 489.
+[^120]: Downey, Kirstin. _Isabella: The Warrior Queen_, p. 489.
 
-[^121]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 201.
+[^121]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 201.
 
-[^122]: Quatrefages, René. *La Revolución Militar Moderna*. Ministerio de Defensa, 1996, p. 112.
+[^122]: Quatrefages, René. _La Revolución Militar Moderna_. Ministerio de Defensa, 1996, p. 112.
 
-[^123]: Tremlett, Giles. *Isabella of Castile*, p. 178.
+[^123]: Tremlett, Giles. _Isabella of Castile_, p. 178.
 
-[^124]: O'Callaghan, Joseph F. *Reconquest and Crusade*, p. 227.
+[^124]: O'Callaghan, Joseph F. _Reconquest and Crusade_, p. 227.
 
-[^125]: Gerber, Jane S. *The Jews of Spain*, p. 156.
+[^125]: Gerber, Jane S. _The Jews of Spain_, p. 156.
 
-[^126]: Gerber, Jane S. *The Jews of Spain*, p. 128.
+[^126]: Gerber, Jane S. _The Jews of Spain_, p. 128.
 
-[^127]: Beinart, Haim. *The Expulsion of the Jews from Spain*, p. 267.
+[^127]: Beinart, Haim. _The Expulsion of the Jews from Spain_, p. 267.
 
-[^128]: Pérez, Joseph. *The Spanish Inquisition*, p. 234.
+[^128]: Pérez, Joseph. _The Spanish Inquisition_, p. 234.
 
-[^129]: Kamen, Henry. *The Spanish Inquisition*, p. 278.
+[^129]: Kamen, Henry. _The Spanish Inquisition_, p. 278.
 
-[^130]: Netanyahu, Benzion. *The Origins of the Inquisition*, p. 1156.
+[^130]: Netanyahu, Benzion. _The Origins of the Inquisition_, p. 1156.
 
-[^131]: Mignolo, Walter D. *The Darker Side of the Renaissance*. University of Michigan Press, 2003, p. 89.
+[^131]: Mignolo, Walter D. _The Darker Side of the Renaissance_. University of Michigan Press, 2003, p. 89.
 
-[^132]: Restall, Matthew. *Seven Myths of the Spanish Conquest*, p. 134.
+[^132]: Restall, Matthew. _Seven Myths of the Spanish Conquest_, p. 134.
 
-[^133]: Restall, Matthew. *Seven Myths of the Spanish Conquest*, p. 156.
+[^133]: Restall, Matthew. _Seven Myths of the Spanish Conquest_, p. 156.
 
-[^134]: Vollendorf, Lisa. *Recovering Spain's Feminist Tradition*, p. 67.
+[^134]: Vollendorf, Lisa. _Recovering Spain's Feminist Tradition_, p. 67.
 
-[^135]: Weissberger, Barbara F. *Isabel Rules*, p. 312.
+[^135]: Weissberger, Barbara F. _Isabel Rules_, p. 312.
 
-[^136]: Elliott, J.H. *Imperial Spain*, p. 167.
+[^136]: Elliott, J.H. _Imperial Spain_, p. 167.
 
-[^137]: Kamen, Henry. *Spain 1469-1714*, p. 234.
+[^137]: Kamen, Henry. _Spain 1469-1714_, p. 234.
 
-[^138]: Weissberger, Barbara F. *Isabel Rules*, p. 15.
+[^138]: Weissberger, Barbara F. _Isabel Rules_, p. 15.
 
-[^139]: Liss, Peggy K. *Isabel the Queen*, p. 167.
+[^139]: Liss, Peggy K. _Isabel the Queen_, p. 167.
 
-[^140]: Edwards, John. *The Spain of the Catholic Monarchs*, p. 78.
+[^140]: Edwards, John. _The Spain of the Catholic Monarchs_, p. 78.
 
-[^141]: Fernández-Armesto, Felipe. *Columbus*, p. 89.
+[^141]: Fernández-Armesto, Felipe. _Columbus_, p. 89.
 
-[^142]: Harvey, L.P. *Muslims in Spain*, p. 23.
+[^142]: Harvey, L.P. _Muslims in Spain_, p. 23.
 
-[^143]: Rubin, Nancy. *Isabella of Castile*, p. 398.
+[^143]: Rubin, Nancy. _Isabella of Castile_, p. 398.

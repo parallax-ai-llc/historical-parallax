@@ -145,38 +145,38 @@ Elizabeth's foreign policy has been criticized as overly cautious and indecisive
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1533 | Born on 7 September at Greenwich Palace to Henry VIII and Anne Boleyn |
-| 1536 | Mother Anne Boleyn executed; Elizabeth declared illegitimate |
-| 1537 | Catherine "Kat" Ashley appointed as Elizabeth's governess |
-| 1544 | Restored to line of succession by Act of Parliament |
-| 1547 | Death of Henry VIII; accession of Edward VI |
-| 1553 | Death of Edward VI; accession of Mary I |
-| 1554 | Imprisoned in Tower of London during Wyatt Rebellion |
-| 1558 | Death of Mary I; Elizabeth becomes Queen on 17 November |
+| Year | Event                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------- |
+| 1533 | Born on 7 September at Greenwich Palace to Henry VIII and Anne Boleyn                       |
+| 1536 | Mother Anne Boleyn executed; Elizabeth declared illegitimate                                |
+| 1537 | Catherine "Kat" Ashley appointed as Elizabeth's governess                                   |
+| 1544 | Restored to line of succession by Act of Parliament                                         |
+| 1547 | Death of Henry VIII; accession of Edward VI                                                 |
+| 1553 | Death of Edward VI; accession of Mary I                                                     |
+| 1554 | Imprisoned in Tower of London during Wyatt Rebellion                                        |
+| 1558 | Death of Mary I; Elizabeth becomes Queen on 17 November                                     |
 | 1559 | Coronation at Westminster Abbey on 15 January; Elizabethan Religious Settlement established |
-| 1560 | Treaty of Edinburgh ends the Auld Alliance; death of Amy Robsart |
-| 1562 | Elizabeth seriously ill with smallpox at Hampton Court Palace |
-| 1568 | Mary Queen of Scots flees to England and is imprisoned |
-| 1570 | Pope Pius V excommunicates Elizabeth in papal bull |
-| 1577 | Francis Drake begins circumnavigation of the globe |
-| 1581 | Elizabeth knights Francis Drake aboard the Golden Hind |
-| 1583 | Humphrey Gilbert claims Newfoundland for England |
-| 1584 | Walter Raleigh granted permission to colonize Americas |
-| 1585 | Roanoke colony established in Virginia |
-| 1586 | Babington Plot to assassinate Elizabeth discovered |
-| 1587 | Execution of Mary Queen of Scots on 8 February |
-| 1588 | Defeat of Spanish Armada; Tilbury speech delivered on 9 August; death of Robert Dudley |
-| 1600 | East India Company founded |
-| 1601 | Rebellion and execution of Earl of Essex |
-| 1603 | Death of Elizabeth I on 24 March at Richmond Palace; accession of James I |
+| 1560 | Treaty of Edinburgh ends the Auld Alliance; death of Amy Robsart                            |
+| 1562 | Elizabeth seriously ill with smallpox at Hampton Court Palace                               |
+| 1568 | Mary Queen of Scots flees to England and is imprisoned                                      |
+| 1570 | Pope Pius V excommunicates Elizabeth in papal bull                                          |
+| 1577 | Francis Drake begins circumnavigation of the globe                                          |
+| 1581 | Elizabeth knights Francis Drake aboard the Golden Hind                                      |
+| 1583 | Humphrey Gilbert claims Newfoundland for England                                            |
+| 1584 | Walter Raleigh granted permission to colonize Americas                                      |
+| 1585 | Roanoke colony established in Virginia                                                      |
+| 1586 | Babington Plot to assassinate Elizabeth discovered                                          |
+| 1587 | Execution of Mary Queen of Scots on 8 February                                              |
+| 1588 | Defeat of Spanish Armada; Tilbury speech delivered on 9 August; death of Robert Dudley      |
+| 1600 | East India Company founded                                                                  |
+| 1601 | Rebellion and execution of Earl of Essex                                                    |
+| 1603 | Death of Elizabeth I on 24 March at Richmond Palace; accession of James I                   |
 
 ---
 
 ## Famous Quotes
 
-> "I know I have the body but of a weak and feeble woman, but I have the heart and stomach of a king, and of a king of England too." 
+> "I know I have the body but of a weak and feeble woman, but I have the heart and stomach of a king, and of a king of England too."
 
 Speech to the Troops at Tilbury, 9 August 1588, delivered as the Spanish Armada threatened invasion. This became the most iconic line from Elizabeth's reign, demonstrating her ability to transcend gender limitations and rally her nation.[^90]
 
@@ -201,96 +201,189 @@ Elizabeth's personal motto, which perfectly captured her political strategy of o
 ## References
 
 [^1]: Britannica. "Elizabeth I | Biography, Facts, Mother, & Death." https://www.britannica.com/biography/Elizabeth-I
+
 [^2]: The Royal Family. "Elizabeth I (r.1558-1603)." https://www.royal.uk/elizabeth-i
+
 [^3]: Biography.com. "Queen Elizabeth I - Siblings, Reign & Death." https://www.biography.com/royalty/queen-elizabeth-i
+
 [^4]: Encyclopedia Virginia. "Elizabeth I (1533–1603)." https://encyclopediavirginia.org/entries/elizabeth-i-1533-1603/
+
 [^5]: The Anne Boleyn Files. "Elizabeth I - Early Life." https://www.theanneboleynfiles.com/bios/elizabeth-i-early-life/
+
 [^6]: Wikipedia. "Elizabeth I." https://en.wikipedia.org/wiki/Elizabeth_I
+
 [^7]: Historic Royal Palaces. "Elizabeth I, the Last Tudor | Hampton Court Palace." https://www.hrp.org.uk/hampton-court-palace/history-and-stories/elizabeth-i/
+
 [^8]: Britannica. "A brief account of the life of Queen Elizabeth I." https://www.britannica.com/summary/Elizabeth-I
+
 [^9]: Shortform. "Queen Elizabeth I's Early Life: A Royal Struggle." https://www.shortform.com/books/blog/queen-elizabeth-i-early-life.html
+
 [^10]: Encyclopedia.com. "Elizabeth I 1533–1603 English Queen." https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/elizabeth-i-1533-1603-english-queen
+
 [^11]: Royal Museums Greenwich. "Becoming Queen Elizabeth I." https://www.rmg.co.uk/stories/royal-history/becoming-queen-elizabeth-i
+
 [^12]: Wikipedia. "Succession to Elizabeth I." https://en.wikipedia.org/wiki/Succession_to_Elizabeth_I
+
 [^13]: Wikipedia. "Mary I of England." https://en.wikipedia.org/wiki/Mary_I_of_England
+
 [^14]: The Stuart Successions Project. "Elizabeth I." https://stuarts.exeter.ac.uk/education/biographies/elizabeth-i/
+
 [^15]: Sky History. "Elizabeth I and the Tudor succession crises: 1558 - 1603." https://www.history.co.uk/article/elizabeth-i-and-the-tudor-succession-crises-1558-1603
+
 [^16]: New World Encyclopedia. "Elizabeth I of England." https://www.newworldencyclopedia.org/entry/Elizabeth_I_of_England
+
 [^17]: World History Encyclopedia. "Timeline: Elizabeth I of England." https://www.worldhistory.org/timeline/Elizabeth_I_of_England/
+
 [^18]: Seneca Learning. "Elizabeth & Economic Development - History: AQA A Level The Tudors: England, 1485–1603." https://senecalearning.com/en-GB/revision-notes/a-level/history/aqa/the-tudors-england-1485-1603/2-2-10-elizabeth-and-economic-development
+
 [^19]: Apollo Scholars. "Elizabeth I's Foreign Policy: Diplomacy, War and the Early English Empire." https://apolloscholars.co.uk/2024/09/29/elizabeth-i-foreign-policy-diplomacy-war-expansion/
+
 [^20]: Historical Association. "Foreign Affairs / Overview of Elizabeth I." https://www.history.org.uk/student/module/4536/overview-of-elizabeth-i/4544/foreign-affairs
+
 [^21]: Seneca Learning. "Elizabeth I & Relations With Foreign Powers - History: AQA A Level The Tudors: England, 1485–1603." https://senecalearning.com/en-GB/revision-notes/a-level/history/aqa/the-tudors-england-1485-1603/2-1-14-elizabeth-i-and-relations-with-foreign-powers
+
 [^22]: Britannica. "Elizabeth I | Achievements." https://www.britannica.com/summary/Elizabeth-Is-Achievements
+
 [^23]: The National Archives. "Elizabeth I's monarchy." https://www.nationalarchives.gov.uk/education/resources/elizabeth-monarchy/
+
 [^24]: Royal Museums Greenwich. "Elizabeth I and the Spanish Armada." https://www.rmg.co.uk/stories/topics/elizabeth-i-spanish-armada
+
 [^25]: History Hit. "10 of Elizabeth I's Key Achievements." https://www.historyhit.com/elizabeth-i-key-achievements/
+
 [^26]: Wikipedia. "Spanish Armada." https://en.wikipedia.org/wiki/Spanish_Armada
+
 [^27]: ElizabethI.org. "The Spanish Armada Of 1588 : Queen Elizabeth and Philip II." https://www.elizabethi.org/contents/armada/
+
 [^28]: Royal Museums Greenwich. "Queen Elizabeth I's speech to the troops at Tilbury." https://www.rmg.co.uk/stories/topics/queen-elizabeth-speech-troops-tilbury
+
 [^29]: Travels Through Time Podcast. "Elizabeth I and the Spanish Armada: Tracy Borman (1588)." https://www.tttpodcast.com/season-5/elizabeth-i-and-the-spanish-armada-tracy-borman-1588
+
 [^30]: Wikipedia. "Elizabethan era." https://en.wikipedia.org/wiki/Elizabethan_era
+
 [^31]: Apollo Scholars. "The Elizabethan Golden Age: Arts, Literature and Cultural Under Elizabeth I." https://apolloscholars.co.uk/2024/09/27/elizabethan-golden-age-arts-literature-culture/
+
 [^32]: William Shakespeare Insights. "Life and theatre in Elizabethan England." https://williamshakespeareinsights.com/elizabethan-england-shakespeare/
+
 [^33]: Britannica. "Elizabethan Age | Definition, Facts, In England, & Literature." https://www.britannica.com/topic/Elizabethan-Age
+
 [^34]: SparkNotes. "Queen Elizabeth I Study Guide: Elizabethan Literature." https://www.sparknotes.com/biography/elizabeth/section9/
+
 [^35]: Encyclopedia.com. "Elizabethan Explorers and Colonizers." https://www.encyclopedia.com/humanities/news-wires-white-papers-and-books/elizabethan-explorers-and-colonizers
+
 [^36]: World History Encyclopedia. "Elizabethan Explorers, Privateers & Colonists." https://www.worldhistory.org/collection/107/elizabethan-explorers-privateers--colonists/
+
 [^37]: Seneca Learning. "Navigation & Exploration under Elizabeth - History: Edexcel GCSE Early Elizabethan England." https://senecalearning.com/en-GB/revision-notes/gcse/history/edexcel/early-elizabethan-england/3-3-1-navigation-and-exploration-under-elizabeth
+
 [^38]: American History Central. "Queen Elizabeth I, Colonial America, Facts, Timeline, APUSH." https://www.americanhistorycentral.com/entries/queen-elizabeth-i-colonial-america/
+
 [^39]: World History Edu. "Queen Elizabeth I's Greatest Accomplishments." https://worldhistoryedu.com/queen-elizabeth-i-greatest-achievements/
+
 [^40]: Quizlet. "Elizabeth I : Trade, Economy and Exploration Flashcards." https://quizlet.com/gb/693551482/elizabeth-i-trade-economy-and-exploration-flash-cards/
+
 [^41]: Schoolshistory.org.uk. "Voyages of Discovery – Elizabethan Explorers." https://schoolshistory.org.uk/topics/british-history/elizabethan-era/voyages-of-discovery/
+
 [^42]: Wikipedia. "Execution of Mary, Queen of Scots." https://en.wikipedia.org/wiki/Execution_of_Mary,_Queen_of_Scots
+
 [^43]: Royal Museums Greenwich. "Elizabeth I and Mary, Queen of Scots." https://www.rmg.co.uk/stories/royal-history/elizabeth-i-mary-queen-scots
+
 [^44]: Faculty of History, Oxford. "The execution of Mary, Queen of Scots: a European news sensation." https://www.history.ox.ac.uk/the-execution-of-mary-queen-of-scots-a-european-news-sensation
+
 [^45]: Britannica. "Elizabeth I - Religion, Mary Queen, Scots." https://www.britannica.com/biography/Elizabeth-I/Religious-questions-and-the-fate-of-Mary-Queen-of-Scots
+
 [^46]: History of Parliament. "Execution or murder? Elizabeth I and the problem of how to kill Mary Queen of Scots." https://historyofparliament.com/2022/06/28/how-to-kill-mary-queen-of-scots/
+
 [^47]: The Bristorian. "The Execution of Mary Queen of Scots." https://www.thebristorian.co.uk/the-past-today/maryqueenofscots
+
 [^48]: EBSCO Research. "Mary, Queen of Scots, Is Executed | Research Starters." https://www.ebsco.com/research-starters/history/mary-queen-scots-executed
+
 [^49]: History of Parliament Online. "On this day, 24 November 1586: Parliament's intervention against Mary, Queen of Scots." https://www.historyofparliamentonline.org/periods/tudors/day-24-november-1586-parliament%E2%80%99s-intervention-against-mary-queen-scots
+
 [^50]: National Library of Scotland. "The last letter of Mary, Queen of Scots." https://www.nls.uk/collections/stories/scottish-history/mary-queen-of-scots-last-letter/
+
 [^51]: Scalar USC. "The Reign of Mary I: Executions under Mary versus Executions under Henry VIII and Elizabeth I." https://scalar.usc.edu/works/the-reign-of-mary-i/executions-under-mary-versus-executions-under-henry-viii-and-elizabeth-i
+
 [^52]: History Tools. "Was Elizabeth I Really a Beacon of Religious Tolerance? A Historian's Perspective." https://www.historytools.org/stories/was-elizabeth-i-really-a-beacon-of-religious-tolerance-a-historians-perspective
+
 [^53]: Cambridge Core. "Why the Reformation failed in Ireland | Irish Historical Studies." https://www.cambridge.org/core/journals/irish-historical-studies/article/why-the-reformation-failed-in-ireland/D53A13ADE3EC7314ABEF6BB05B6EF63F
+
 [^54]: Britain Express. "Ireland under Elizabeth I." https://www.britainexpress.com/History/Ireland-under-Elizabeth-I.htm
+
 [^55]: Wikipedia. "Tudor conquest of Ireland." https://en.wikipedia.org/wiki/Tudor_conquest_of_Ireland
+
 [^56]: Cambridge University Press. "Elizabeth on Ireland (Chapter 3) - Elizabeth I and Ireland." https://www.cambridge.org/core/books/abs/elizabeth-i-and-ireland/elizabeth-on-ireland/F6DA709DDB5447A50C429B7DA8A723D0
+
 [^57]: Wikipedia. "Reformation in Ireland." https://en.wikipedia.org/wiki/Reformation_in_Ireland
+
 [^58]: Encyclopedia.com. "Church of Ireland: Elizabethan Era." https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/church-ireland-elizabethan-era
+
 [^59]: History in Focus. "Elizabeth I and James VI and I - Cramsie review article." https://archives.history.ac.uk/history-in-focus/Elizabeth/revcramsie.html
+
 [^60]: EBSCO Research. "Elizabeth I | Research Starters." https://www.ebsco.com/research-starters/history/elizabeth-i
+
 [^61]: English Heritage. "Queen Elizabeth and Robert Dudley: The Real Story." https://www.english-heritage.org.uk/visit/inspire-me/blog/articles/queen-elizabeth-and-robert-dudley/
+
 [^62]: Royal Museums Greenwich. "Elizabeth I: marriage and succession." https://www.rmg.co.uk/stories/royal-history/elizabeth-i-marriage-succession
+
 [^63]: Wikipedia. "Robert Dudley, 1st Earl of Leicester." https://en.wikipedia.org/wiki/Robert_Dudley,_1st_Earl_of_Leicester
+
 [^64]: The Elizabeth Files. "Elizabeth I and Robert Dudley." https://www.elizabethfiles.com/elizabeth-i-and-robert-dudley/9215/
+
 [^65]: Britannica. "Robert Dudley, earl of Leicester | English Nobleman, Courtier & Favourite of Queen Elizabeth I." https://www.britannica.com/biography/Robert-Dudley-earl-of-Leicester-Baron-Denbigh
+
 [^66]: Ancient Origins. "Robert Dudley: A Virgin Queen's Great Love, Despite His Many Mistakes." https://www.ancient-origins.net/history-famous-people/robert-dudley-0015624
+
 [^67]: Ranker. "Queen Elizabeth I's Personal Life Was So Intense It Nearly Split An Entire Continent In Half." https://www.ranker.com/list/personal-life-of-queen-elizabeth-i/melissa-sartore
+
 [^68]: Tudors Dynasty. "Elizabeth & Robert: Did They or Didn't They?" https://tudorsdynasty.com/elizabeth-robert-did-they-or-didnt-they/
+
 [^69]: Historical Association. "Personality / Overview of Elizabeth I." https://www.history.org.uk/student/module/4536/overview-of-elizabeth-i/4537/personality
+
 [^70]: The Leadership Mission. "Queen Elizabeth - Leadership Style." https://www.theleadershipmission.com/post/queen-elizabeth-leadership-style
+
 [^71]: Ancient Mysteries. "Elizabeth I: Biography, Reign, Achievements, & Legacy." https://ancientmysteries.org/elizabeth-i/
+
 [^72]: University of Chicago Press. "Elizabeth I: Translations, 1544-1589, Elizabeth I, Mueller, Scodel." https://press.uchicago.edu/ucp/books/book/chicago/E/bo5911060.html
+
 [^73]: Encyclopedia.com. "Elizabethan Drama." https://www.encyclopedia.com/arts/educational-magazines/elizabethan-drama
+
 [^74]: Historic UK. "The English Renaissance." https://www.historic-uk.com/CultureUK/English-Renaissance/
+
 [^75]: Britannica. "United Kingdom - Spanish Armada, Elizabeth I, Reformation." https://www.britannica.com/place/United-Kingdom/The-clash-with-Spain
+
 [^76]: Britannica. "Elizabeth I | Timeline." https://www.britannica.com/summary/Elizabeth-I-Timeline
+
 [^77]: ElizabethI.org. "Chronology of Events: Timeline of Queen Elizabeth I's Reign." https://www.elizabethi.org/contents/chronology/
+
 [^78]: University of Central Florida. "Elizabeth Tudor: Her Youth, Education, and the Development..." https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=6259&context=etd
+
 [^79]: History Hit. "Elizabeth I's Legacy: Was She Brilliant or Lucky?" https://www.historyhit.com/elizabeth-is-legacy-was-she-brilliant-or-lucky/
+
 [^80]: Boo. "Elizabeth I: Profile, Biography, Personality Type." https://boo.world/database/profile/995816/elizabeth-i-personality-type
+
 [^81]: Taylor & Francis. "Elizabeth I and Foreign Policy, 1558-1603 | Susan Doran." https://www.taylorfrancis.com/books/mono/10.4324/9780203136638/elizabeth-foreign-policy-1558-1603-susan-doran
+
 [^82]: Routledge. "Elizabeth I and Foreign Policy, 1558-1603 - 1st Edition - Susan Doran." https://www.routledge.com/Elizabeth-I-and-Foreign-Policy-1558-1603/Doran/p/book/9780415153553
+
 [^83]: SparkNotes. "Queen Elizabeth I Study Guide: Elizabeth's Personality and Image." https://www.sparknotes.com/biography/elizabeth/section4/
+
 [^84]: Save My Exams. "The Advantages of Elizabeth I Becoming Queen of England | Edexcel GCSE History Revision Notes 2016." https://www.savemyexams.com/gcse/history/edexcel/18/revision-notes/early-elizabethan-england-1558-1588/elizabeth-i-succession-1558-1569/the-advantages-of-elizabeth-i-becoming-queen-of-england/
+
 [^85]: Potters Wax Museum. "Elizabeth I Biography, Facts, Legacy, & Late Life." https://www.potterswaxmuseum.com/european-history/elizabeth-i/
+
 [^86]: Studocu. "Elizabeth I's Foreign Policy: Conflicts and Resolutions with Spain." https://www.studocu.com/en-gb/document/highlands-college-jersey/a-level-history/elizabeth-i-foreign-policy/58552331
+
 [^87]: Cambridge University. "Review Essay: Elizabeth I and Ireland." https://www.english.cam.ac.uk/spenseronline/review/item/45.2.33/
+
 [^88]: History Hit. "Was Elizabeth I Really a Beacon for Tolerance?" https://www.historyhit.com/was-elizabeth-i-really-a-beacon-for-tolerance/
+
 [^89]: Historical Association. "Reformation (Religion) / Overview of Elizabeth I." https://www.history.org.uk/student/module/4536/overview-of-elizabeth-i/4540/reformation-religion
+
 [^90]: Luminarium. "Queen Elizabeth I: Speech to the Troops at Tilbury." https://www.luminarium.org/renlit/tilbury.htm
+
 [^91]: Wikipedia. "Speech to the Troops at Tilbury." https://en.wikipedia.org/wiki/Speech_to_the_Troops_at_Tilbury
+
 [^92]: The Elizabeth Files. "The Tilbury Speech." https://www.elizabethfiles.com/resources/speeches/the-tilbury-speech/
+
 [^93]: Tudor Blogger. "Analysis of Elizabeth I's Speech at Tilbury before the Spanish Armada 1588." https://tudorblogger.com/2015/08/27/analysis-of-elizabeth-is-speech-at-tilbury-before-the-spanish-armada-1588/
+
 [^94]: Art UK. "Elizabeth I's Tilbury speech: the birth of a warrior queen." https://artuk.org/discover/stories/elizabeth-is-tilbury-speech-the-birth-of-a-warrior-queen

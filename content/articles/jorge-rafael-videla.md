@@ -157,29 +157,29 @@ The trial and conviction of Videla and other commanders provided a catharsis for
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1925 | Born on August 2 in Mercedes, Argentina |
-| 1942 | Joined the National Military College |
-| 1944 | Graduated from military college as second lieutenant |
-| 1948 | Married Alicia Raquel Hartridge on April 7 |
-| 1952-1954 | Attended War College, graduated as qualified staff officer |
-| 1956-1958 | Stationed in the United States as advisor to Argentine embassy |
-| 1971 | Promoted to brigadier general; appointed commander of Military College |
-| 1973 | Became Chief of the Army's General Staff |
-| 1975 | Appointed commander in chief of the army by President Isabel Perón |
-| 1976 | Led military coup on March 24, overthrowing Isabel Perón; became President |
-| 1977 | Mothers of Plaza de Mayo began demonstrating on April 30 |
-| 1978 | Argentina hosted and won FIFA World Cup |
-| 1981 | Stepped down as president but remained influential in military government |
-| 1983 | Military dictatorship ended; return to democracy on December 10 |
-| 1984 | Arrested and prosecuted |
-| 1985 | Convicted of crimes against humanity in Trial of the Juntas; sentenced to life imprisonment on December 9 |
-| 1990 | Pardoned by President Carlos Menem |
-| 2007 | Federal court struck down pardon on April 25, restoring convictions |
-| 2010 | Sentenced to life in civilian prison on December 22 for deaths of 31 prisoners |
-| 2012 | Sentenced to 50 years on July 5 for systematic kidnapping of children |
-| 2013 | Died on May 17 in Marcos Paz prison at age 87 |
+| Year      | Event                                                                                                     |
+| --------- | --------------------------------------------------------------------------------------------------------- |
+| 1925      | Born on August 2 in Mercedes, Argentina                                                                   |
+| 1942      | Joined the National Military College                                                                      |
+| 1944      | Graduated from military college as second lieutenant                                                      |
+| 1948      | Married Alicia Raquel Hartridge on April 7                                                                |
+| 1952-1954 | Attended War College, graduated as qualified staff officer                                                |
+| 1956-1958 | Stationed in the United States as advisor to Argentine embassy                                            |
+| 1971      | Promoted to brigadier general; appointed commander of Military College                                    |
+| 1973      | Became Chief of the Army's General Staff                                                                  |
+| 1975      | Appointed commander in chief of the army by President Isabel Perón                                        |
+| 1976      | Led military coup on March 24, overthrowing Isabel Perón; became President                                |
+| 1977      | Mothers of Plaza de Mayo began demonstrating on April 30                                                  |
+| 1978      | Argentina hosted and won FIFA World Cup                                                                   |
+| 1981      | Stepped down as president but remained influential in military government                                 |
+| 1983      | Military dictatorship ended; return to democracy on December 10                                           |
+| 1984      | Arrested and prosecuted                                                                                   |
+| 1985      | Convicted of crimes against humanity in Trial of the Juntas; sentenced to life imprisonment on December 9 |
+| 1990      | Pardoned by President Carlos Menem                                                                        |
+| 2007      | Federal court struck down pardon on April 25, restoring convictions                                       |
+| 2010      | Sentenced to life in civilian prison on December 22 for deaths of 31 prisoners                            |
+| 2012      | Sentenced to 50 years on July 5 for systematic kidnapping of children                                     |
+| 2013      | Died on May 17 in Marcos Paz prison at age 87                                                             |
 
 ---
 
@@ -204,129 +204,255 @@ The trial and conviction of Videla and other commanders provided a catharsis for
 ## References
 
 [^1]: Britannica. "Jorge Rafael Videla | Argentine Dictator & Military Leader." https://www.britannica.com/biography/Jorge-Rafael-Videla
+
 [^2]: NPR. "Architect Of Argentina's 'Dirty War' Dies In Prison." May 17, 2013. https://www.npr.org/2013/05/17/184845134/architect-of-argentinas-dirty-war-dies-in-prison
+
 [^3]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^4]: Human Rights Watch. "Argentina: On the Death of Jorge Rafael Videla." May 17, 2013. https://www.hrw.org/news/2013/05/17/argentina-death-jorge-rafael-videla
+
 [^5]: Encyclopedia.com. "Jorge Rafaél Videla." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/jorge-rafael-videla
+
 [^6]: LiquiSearch. "Jorge Rafael Videla - Early Life and Family." https://www.liquisearch.com/jorge_rafael_videla/early_life_and_family
+
 [^7]: WikiTree. "Jorge Rafael Videla (1925-2013)." https://www.wikitree.com/wiki/Videla-9
+
 [^8]: Prabook. "Jorge Videla (August 2, 1925 — May 17, 2013), Argentinian Dictator." https://prabook.com/web/jorge.videla/3737166
+
 [^9]: EBSCO Research. "Jorge Rafael Videla | Research Starters." https://www.ebsco.com/research-starters/politics-and-government/jorge-rafael-videla
+
 [^10]: Britannica. "Jorge Rafael Videla | Argentine Dictator & Military Leader." https://www.britannica.com/biography/Jorge-Rafael-Videla
+
 [^11]: Military Wiki. "Jorge Rafael Videla." https://military-history.fandom.com/wiki/Jorge_Rafael_Videla
+
 [^12]: EBSCO Research. "Jorge Rafael Videla | Research Starters." https://www.ebsco.com/research-starters/politics-and-government/jorge-rafael-videla
+
 [^13]: LiquiSearch. "Jorge Rafael Videla - Early Life and Family." https://www.liquisearch.com/jorge_rafael_videla/early_life_and_family
+
 [^14]: Encyclopedia.com. "Jorge Rafaél Videla." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/jorge-rafael-videla
+
 [^15]: Springer. "Videla, Jorge Rafaél (Argentina)." https://link.springer.com/rwe/10.1057/978-1-349-95839-9_819
+
 [^16]: EBSCO Research. "Jorge Rafael Videla | Research Starters." https://www.ebsco.com/research-starters/politics-and-government/jorge-rafael-videla
+
 [^17]: Prabook. "Jorge Videla - World Biographical Encyclopedia." https://prabook.com/web/jorge.videla/3737166
+
 [^18]: Britannica. "Jorge Rafael Videla | Argentine Dictator & Military Leader." https://www.britannica.com/biography/Jorge-Rafael-Videla
+
 [^19]: Military Wiki. "Jorge Rafael Videla." https://military-history.fandom.com/wiki/Jorge_Rafael_Videla
+
 [^20]: Encyclopedia.com. "Jorge Rafaél Videla." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/jorge-rafael-videla
+
 [^21]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^22]: AcademiaLab. "Jorge Rafael Videla." https://academia-lab.com/encyclopedia/jorge-rafael-videla/
+
 [^23]: Britannica. "Jorge Rafael Videla | Argentine Dictator & Military Leader." https://www.britannica.com/biography/Jorge-Rafael-Videla
+
 [^24]: Wikipedia. "Dirty War." https://en.wikipedia.org/wiki/Dirty_War
+
 [^25]: Encyclopedia.com. "Jorge Rafaél Videla." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/jorge-rafael-videla
+
 [^26]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^27]: National Security Archive. "Argentina's Military Coup of 1976: What the U.S. Knew." March 23, 2021. https://nsarchive.gwu.edu/briefing-book/southern-cone/2021-03-23/argentinas-military-coup-what-us-knew
+
 [^28]: Wikipedia. "1976 Argentine coup d'état." https://en.wikipedia.org/wiki/1976_Argentine_coup_d'%C3%A9tat
+
 [^29]: Britannica. "Dirty War | Argentina, Military Dictatorship." https://www.britannica.com/event/Dirty-War-Argentina
+
 [^30]: AcademiaLab. "National Reorganization Process." https://academia-lab.com/encyclopedia/national-reorganization-process/
+
 [^31]: Wikipedia. "Dirty War." https://en.wikipedia.org/wiki/Dirty_War
+
 [^32]: National Security Archive. "Argentina's Military Coup of 1976: What the U.S. Knew." https://nsarchive.gwu.edu/briefing-book/southern-cone/2021-03-23/argentinas-military-coup-what-us-knew
+
 [^33]: Wikipedia. "José Alfredo Martínez de Hoz." https://en.wikipedia.org/wiki/José_Alfredo_Martínez_de_Hoz
+
 [^34]: Cambridge Core. "The Return of International Finance and the Martínez de Hoz Plan in Argentina, 1976–1978." https://www.cambridge.org/core/journals/latin-american-research-review/article/return-of-international-finance-and-the-martinez-de-hoz-plan-in-argentina-19761978/6CB3CA811207F9FF044A164403D88311
+
 [^35]: AcademiaLab. "National Reorganization Process." https://academia-lab.com/encyclopedia/national-reorganization-process/
+
 [^36]: Springer. "Videla, Jorge Rafaél (Argentina)." https://link.springer.com/rwe/10.1057/978-1-349-95839-9_819
+
 [^37]: AcademiaLab. "Jorge Rafael Videla." https://academia-lab.com/encyclopedia/jorge-rafael-videla/
+
 [^38]: Wikipedia. "José Alfredo Martínez de Hoz." https://en.wikipedia.org/wiki/José_Alfredo_Martínez_de_Hoz
+
 [^39]: GlobalSecurity.org. "President Jorge Rafael Videla Redondo." https://www.globalsecurity.org/military/world/argentina/president-videla.htm
+
 [^40]: HISTORY. "When Argentina Used World Cup Soccer to Whitewash Its Dirty War." https://www.history.com/articles/world-cup-soccer-argentina-1978-dirty-war
+
 [^41]: History Snacks. "Military Coup in Argentina - March 24, 1976." https://historysnacks.io/event/35xjJsvb/
+
 [^42]: IranWire. "How Argentina's Junta Used 1978 World Cup To Whitewash Bloody Rule." https://iranwire.com/en/sports/110575-a-lesson-for-iranians-how-argentinas-junta-used-1978-world-cup-to-whitewash-bloody-rule/
+
 [^43]: HISTORY. "When Argentina Used World Cup Soccer to Whitewash Its Dirty War." https://www.history.com/articles/world-cup-soccer-argentina-1978-dirty-war
+
 [^44]: IranWire. "How Argentina's Junta Used 1978 World Cup To Whitewash Bloody Rule." https://iranwire.com/en/sports/110575-a-lesson-for-iranians-how-argentinas-junta-used-1978-world-cup-to-whitewash-bloody-rule/
+
 [^45]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^46]: Britannica. "Dirty War | Argentina, Military Dictatorship." https://www.britannica.com/event/Dirty-War-Argentina
+
 [^47]: EBSCO Research. "Jorge Rafael Videla | Research Starters." https://www.ebsco.com/research-starters/politics-and-government/jorge-rafael-videla
+
 [^48]: Wikipedia. "Dirty War." https://en.wikipedia.org/wiki/Dirty_War
+
 [^49]: NPR. "Architect Of Argentina's 'Dirty War' Dies In Prison." https://www.npr.org/2013/05/17/184845134/architect-of-argentinas-dirty-war-dies-in-prison
+
 [^50]: LegalClarity. "Argentina Human Rights: A Legal History of the Dirty War." https://legalclarity.org/argentina-human-rights-a-legal-history-of-the-dirty-war/
+
 [^51]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^52]: Encyclopedia.com. "Jorge Rafaél Videla." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/jorge-rafael-videla
+
 [^53]: Wikipedia. "Dirty War." https://en.wikipedia.org/wiki/Dirty_War
+
 [^54]: Wikiquote. "Jorge Rafael Videla." https://en.wikiquote.org/wiki/Jorge_Rafael_Videla
+
 [^55]: A-Z Quotes. "Jorge Rafael Videla Quotes." https://www.azquotes.com/author/47018-Jorge_Rafael_Videla
+
 [^56]: IranWire. "How Argentina's Junta Used 1978 World Cup To Whitewash Bloody Rule." https://iranwire.com/en/sports/110575-a-lesson-for-iranians-how-argentinas-junta-used-1978-world-cup-to-whitewash-bloody-rule/
+
 [^57]: Wikipedia. "Navy Petty-Officers School." https://en.wikipedia.org/wiki/Navy_Petty-Officers_School
+
 [^58]: Prison Photography. "ESMA." https://prisonphotography.org/tag/esma/
+
 [^59]: National Security Archive. "Inside Argentina's Killing Machine: U.S. Intelligence Documents Record Gruesome Human Rights Crimes of 1976-1983." May 30, 2019. https://nsarchive.gwu.edu/briefing-book/southern-cone/2019-05-30/inside-argentinas-killing-machine-us-intelligence-documents-record-gruesome-human-rights-crimes-1976
+
 [^60]: Holocaust Museum Houston. "Argentina, 1976-1983." https://hmh.org/education/argentina-1976-1983/
+
 [^61]: World Socialist Web Site. "Argentina's General Videla and the 'war on terror'." May 22, 2013. https://www.wsws.org/en/articles/2013/05/22/pers-m22.html
+
 [^62]: Wikipedia. "Navy Petty-Officers School." https://en.wikipedia.org/wiki/Navy_Petty-Officers_School
+
 [^63]: NBC News. "'Wasn't just one or two children': Ex-Argentine dictators jailed for baby thefts." July 5, 2012. https://www.nbcnews.com/news/world/wasnt-just-one-or-two-children-ex-argentine-dictators-jailed-flna865610
+
 [^64]: Al Jazeera. "Tears and anger for Argentina's stolen babies." July 6, 2012. https://www.aljazeera.com/features/2012/7/6/tears-and-anger-for-argentinas-stolen-babies
+
 [^65]: NACLA. "Former Dictator Arrested for Stealing Children During Dirty War." https://nacla.org/article/former-dictator-arrested-stealing-children-during-dirty-war
+
 [^66]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^67]: NPR. "Justice For Argentina's 'Stolen Children;' 2 Dictators Convicted." July 6, 2012. https://www.npr.org/sections/thetwo-way/2012/07/06/156362440/justice-for-argentinas-stolen-children-2-dictators-convicted
+
 [^68]: CNN. "Former dictators found guilty in Argentine baby-stealing trial." July 5, 2012. https://www.cnn.com/2012/07/05/world/americas/argentina-baby-theft-trial/index.html
+
 [^69]: NPR. "At Last, A Verdict On Argentina's 'Stolen Children'." July 6, 2012. https://www.npr.org/2012/07/06/155047379/at-last-a-verdict-on-argentinas-stolen-children
+
 [^70]: AcademiaLab. "Jorge Rafael Videla." https://academia-lab.com/encyclopedia/jorge-rafael-videla/
+
 [^71]: Wikipedia. "José Alfredo Martínez de Hoz." https://en.wikipedia.org/wiki/José_Alfredo_Martínez_de_Hoz
+
 [^72]: Springer. "Videla, Jorge Rafaél (Argentina)." https://link.springer.com/rwe/10.1057/978-1-349-95839-9_819
+
 [^73]: Geopolitical Economy Report. "How Argentina has been trapped in neocolonial debt for 200 years: An economic history." December 18, 2022. https://geopoliticaleconomy.com/2022/12/18/argentina-neocolonial-debt-history/
+
 [^74]: Wikipedia. "Operation Condor." https://en.wikipedia.org/wiki/Operation_Condor
+
 [^75]: Oxford Academic. "No Safe Haven: Operation Condor and Transnational Repression in South America." https://academic.oup.com/isq/article/68/2/sqae035/7637878
+
 [^76]: openDemocracy. "Operation Condor: A transnational criminal conspiracy, uncovered." https://www.opendemocracy.net/en/democraciaabierta/operation-condor/
+
 [^77]: National Security Archive. "Operation Condor: Condemned to Life!" January 17, 2017. https://nsarchive.gwu.edu/briefing-book/southern-cone/2017-01-17/operation-condor-condemned-life
+
 [^78]: Goodreads. "Jorge Rafael Videla Quotes." https://www.goodreads.com/quotes/tag/jorge-rafael-videla
+
 [^79]: Amnesty International. "Argentina: Death of former military leader who did not escape justice." May 17, 2013. https://www.amnesty.org/en/latest/news/2013/05/argentina-death-former-military-leader-who-did-not-escape-justice/
+
 [^80]: Mercopress. "Argentine military dictator confirms Catholic Church hierarchy was well aware of the 'disappeared'." July 24, 2012. https://en.mercopress.com/2012/07/24/argentine-military-dictator-confirms-catholic-church-hierarchy-was-well-aware-of-the-disappeared
+
 [^81]: The Irish Times. "Former Argentinian dictator says he told Catholic Church of disappeared." July 24, 2012. https://www.irishtimes.com/news/former-argentinian-dictator-says-he-told-catholic-church-of-disappeared-1.542154
+
 [^82]: OUPblog. "Catholics and the torture chamber." June 2015. https://blog.oup.com/2015/06/argentina-catholic-church-dirty-war/
+
 [^83]: Boston College Libraries. "The Catholic Church and Argentina's Dirty War." November 2015. https://library.bc.edu/facpub/2015/11/morello-catholic/
+
 [^84]: OUPblog. "Catholics and the torture chamber." https://blog.oup.com/2015/06/argentina-catholic-church-dirty-war/
+
 [^85]: Not Even Past. "The Catholic Church and the Dirty War: Documents from the Benson Latin American Collection." https://notevenpast.org/the-catholic-church-and-the-dirty-war-documents-from-the-benson-latin-american-collection/
+
 [^86]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^87]: LiquiSearch. "Jorge Rafael Videla - Early Life and Family." https://www.liquisearch.com/jorge_rafael_videla/early_life_and_family
+
 [^88]: Military Wiki. "Jorge Rafael Videla." https://military-history.fandom.com/wiki/Jorge_Rafael_Videla
+
 [^89]: WikiTree. "Jorge Rafael Videla (1925-2013)." https://www.wikitree.com/wiki/Videla-9
+
 [^90]: Encyclopedia.com. "Jorge Rafaél Videla." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/jorge-rafael-videla
+
 [^91]: Springer. "Videla, Jorge Rafaél (Argentina)." https://link.springer.com/rwe/10.1057/978-1-349-95839-9_819
+
 [^92]: Human Rights Watch. "Argentina: On the Death of Jorge Rafael Videla." https://www.hrw.org/news/2013/05/17/argentina-death-jorge-rafael-videla
+
 [^93]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^94]: NPR. "Architect Of Argentina's 'Dirty War' Dies In Prison." https://www.npr.org/2013/05/17/184845134/architect-of-argentinas-dirty-war-dies-in-prison
+
 [^95]: Al Jazeera. "Tears and anger for Argentina's stolen babies." https://www.aljazeera.com/features/2012/7/6/tears-and-anger-for-argentinas-stolen-babies
+
 [^96]: AcademiaLab. "Jorge Rafael Videla." https://academia-lab.com/encyclopedia/jorge-rafael-videla/
+
 [^97]: Geopolitical Economy Report. "How Argentina has been trapped in neocolonial debt for 200 years." https://geopoliticaleconomy.com/2022/12/18/argentina-neocolonial-debt-history/
+
 [^98]: Amnesty International. "Argentina: Death of former military leader who did not escape justice." https://www.amnesty.org/en/latest/news/2013/05/argentina-death-former-military-leader-who-did-not-escape-justice/
+
 [^99]: Inter Press Service. "Videla Dies in Prison - a Victory Against Impunity." May 2013. https://www.ipsnews.net/2013/05/videla-dies-in-prison-a-victory-against-impunity/
+
 [^100]: Wikipedia. "Mothers of Plaza de Mayo." https://en.wikipedia.org/wiki/Mothers_of_Plaza_de_Mayo
+
 [^101]: ICNC. "The Mothers of the Disappeared: Challenging the Junta in Argentina (1977-1983)." https://www.nonviolent-conflict.org/mothers-disappeared-challenging-junta-argentina-1977-1983/
+
 [^102]: Toward Freedom. "Argentina's Mothers of Plaza de Mayo Pass on a Legacy of Defending Human Rights." https://towardfreedom.org/story/archives/americas/argentinas-mothers-of-plaza-de-mayo-pass-on-a-legacy-of-defending-human-rights/
+
 [^103]: Encyclopedia.com. "Jorge Rafaél Videla." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/jorge-rafael-videla
+
 [^104]: National Security Archive. "Argentina's Military Coup of 1976: What the U.S. Knew." https://nsarchive.gwu.edu/briefing-book/southern-cone/2021-03-23/argentinas-military-coup-what-us-knew
+
 [^105]: Quora. "How is it explained that Jorge Rafael Videla initially generated great admiration?" https://www.quora.com/How-is-it-explained-that-Jorge-Rafael-Videla-the-most-prominent-face-of-the-military-dictatorship-initially-generated-great-admiration-and-attraction-among-the-Argentine-people-and-that-despite-his-criminal-past-he
+
 [^106]: National Security Archive. "Argentina's Military Coup of 1976: What the U.S. Knew." https://nsarchive.gwu.edu/briefing-book/southern-cone/2021-03-23/argentinas-military-coup-what-us-knew
+
 [^107]: Cambridge Core. "The Return of International Finance and the Martínez de Hoz Plan." https://www.cambridge.org/core/journals/latin-american-research-review/article/return-of-international-finance-and-the-martinez-de-hoz-plan-in-argentina-19761978/6CB3CA811207F9FF044A164403D88311
+
 [^108]: GlobalSecurity.org. "President Jorge Rafael Videla Redondo." https://www.globalsecurity.org/military/world/argentina/president-videla.htm
+
 [^109]: Wikipedia. "Jorge Rafael Videla." https://en.wikipedia.org/wiki/Jorge_Rafael_Videla
+
 [^110]: A-Z Quotes. "Jorge Rafael Videla Quotes." https://www.azquotes.com/author/47018-Jorge_Rafael_Videla
+
 [^111]: Human Rights Watch. "Argentina: On the Death of Jorge Rafael Videla." https://www.hrw.org/news/2013/05/17/argentina-death-jorge-rafael-videla
+
 [^112]: Wikipedia. "Dirty War." https://en.wikipedia.org/wiki/Dirty_War
+
 [^113]: National Security Archive. "Inside Argentina's Killing Machine." https://nsarchive.gwu.edu/briefing-book/southern-cone/2019-05-30/inside-argentinas-killing-machine-us-intelligence-documents-record-gruesome-human-rights-crimes-1976
+
 [^114]: Wikiquote. "Jorge Rafael Videla." https://en.wikiquote.org/wiki/Jorge_Rafael_Videla
+
 [^115]: Buenos Aires Herald. "Jorge Rafael Videla: the dictator who died in jail." https://buenosairesherald.com/human-rights/jorge-rafael-videla-the-dictator-who-died-in-jail
+
 [^116]: Amnesty International. "Argentina: Death of former military leader who did not escape justice." https://www.amnesty.org/en/latest/news/2013/05/argentina-death-former-military-leader-who-did-not-escape-justice/
+
 [^117]: Inter Press Service. "Videla Dies in Prison - a Victory Against Impunity." https://www.ipsnews.net/2013/05/videla-dies-in-prison-a-victory-against-impunity/
+
 [^118]: EBSCO Research. "Argentine Leaders Are Convicted of Human Rights Violations | Research Starters." https://www.ebsco.com/research-starters/history/argentine-leaders-are-convicted-human-rights-violations
+
 [^119]: Wikipedia. "Trial of the Juntas." https://en.wikipedia.org/wiki/Trial_of_the_Juntas
+
 [^120]: Geopolitical Economy Report. "How Argentina has been trapped in neocolonial debt for 200 years." https://geopoliticaleconomy.com/2022/12/18/argentina-neocolonial-debt-history/
+
 [^121]: A-Z Quotes. "Jorge Rafael Videla Quotes." https://www.azquotes.com/author/47018-Jorge_Rafael_Videla
+
 [^122]: Wikiquote. "Jorge Rafael Videla." https://en.wikiquote.org/wiki/Jorge_Rafael_Videla
+
 [^123]: Goodreads. "Jorge Rafael Videla Quotes." https://www.goodreads.com/quotes/tag/jorge-rafael-videla
+
 [^124]: Inspiring Quotes. "Jorge Rafael Videla quotes and sayings." https://www.inspiringquotes.us/author/7259-jorge-rafael-videla
+
 [^125]: Buenos Aires Herald. "Jorge Rafael Videla: the dictator who died in jail." https://buenosairesherald.com/human-rights/jorge-rafael-videla-the-dictator-who-died-in-jail
+
 [^126]: National Security Archive. "Operation Condor: Condemned to Life!" https://nsarchive.gwu.edu/briefing-book/southern-cone/2017-01-17/operation-condor-condemned-life
+
 [^127]: A-Z Quotes. "Jorge Rafael Videla Quotes." https://www.azquotes.com/author/47018-Jorge_Rafael_Videla

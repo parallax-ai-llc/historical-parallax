@@ -127,30 +127,30 @@ The scholarly consensus reveals a complex figure whose actions remain subject to
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 95 BC | Born in Rome as Marcus Porcius Cato Uticensis |
-| ~91 BC | Parents die; orphaned and taken in by uncle Marcus Livius Drusus |
-| 91 BC | After Drusus's assassination, moves to household of Mamercus Aemilius Lepidus Livianus |
-| 67 BC | Serves as military tribune in Macedon |
-| 64 BC | Elected quaestor (finance minister) |
-| 63 BC | Urban quaestorship; praised for honesty in managing Rome's finances |
-| 63 BC | As tribune-designate, delivers decisive speech securing execution of Catilinarian conspirators |
-| 63 BC | Divorces first wife Atilia due to rumors of infidelity |
-| 62 BC | Serves as plebeian tribune; expands grain dole and passes military reform laws |
-| 62 BC | Marries Marcia, daughter of Lucius Marcius Philippus |
-| 60 BC | Forces Caesar to choose between consulship and triumph |
-| 59 BC | Opposes Caesar's consulship; filibustered land reform bill; briefly imprisoned |
-| 58-56 BC | Sent to Cyprus to oversee annexation; returns with 7,000 talents of silver |
-| 56 BC | Wife Marcia divorces him to marry Hortensius |
-| 54 BC | Eventually elected praetor after initial failure |
-| 52 BC | Supports Pompey's sole consulship; begins efforts to separate Pompey from Caesar |
-| 51 BC | Runs unsuccessfully for consul |
-| 49 BC | Caesar crosses Rubicon; civil war begins; Cato goes with Pompey to Greece |
-| 49 BC | Marcia returns to his household after Hortensius's death |
-| 48 BC | Battle of Pharsalus; Pompey defeated; Cato goes to Africa to continue resistance |
-| 46 BC (Feb) | Caesar defeats Scipio at Battle of Thapsus |
-| 46 BC (Apr) | Commits suicide in Utica rather than accept Caesar's pardon |
+| Year        | Event                                                                                          |
+| ----------- | ---------------------------------------------------------------------------------------------- |
+| 95 BC       | Born in Rome as Marcus Porcius Cato Uticensis                                                  |
+| ~91 BC      | Parents die; orphaned and taken in by uncle Marcus Livius Drusus                               |
+| 91 BC       | After Drusus's assassination, moves to household of Mamercus Aemilius Lepidus Livianus         |
+| 67 BC       | Serves as military tribune in Macedon                                                          |
+| 64 BC       | Elected quaestor (finance minister)                                                            |
+| 63 BC       | Urban quaestorship; praised for honesty in managing Rome's finances                            |
+| 63 BC       | As tribune-designate, delivers decisive speech securing execution of Catilinarian conspirators |
+| 63 BC       | Divorces first wife Atilia due to rumors of infidelity                                         |
+| 62 BC       | Serves as plebeian tribune; expands grain dole and passes military reform laws                 |
+| 62 BC       | Marries Marcia, daughter of Lucius Marcius Philippus                                           |
+| 60 BC       | Forces Caesar to choose between consulship and triumph                                         |
+| 59 BC       | Opposes Caesar's consulship; filibustered land reform bill; briefly imprisoned                 |
+| 58-56 BC    | Sent to Cyprus to oversee annexation; returns with 7,000 talents of silver                     |
+| 56 BC       | Wife Marcia divorces him to marry Hortensius                                                   |
+| 54 BC       | Eventually elected praetor after initial failure                                               |
+| 52 BC       | Supports Pompey's sole consulship; begins efforts to separate Pompey from Caesar               |
+| 51 BC       | Runs unsuccessfully for consul                                                                 |
+| 49 BC       | Caesar crosses Rubicon; civil war begins; Cato goes with Pompey to Greece                      |
+| 49 BC       | Marcia returns to his household after Hortensius's death                                       |
+| 48 BC       | Battle of Pharsalus; Pompey defeated; Cato goes to Africa to continue resistance               |
+| 46 BC (Feb) | Caesar defeats Scipio at Battle of Thapsus                                                     |
+| 46 BC (Apr) | Commits suicide in Utica rather than accept Caesar's pardon                                    |
 
 ---
 
@@ -158,147 +158,260 @@ The scholarly consensus reveals a complex figure whose actions remain subject to
 
 > "I will begin to speak, when I have that to say which had not better be unsaid."[^108]
 
-*Cato's principle of deliberate and meaningful speech, reflecting his Stoic emphasis on wisdom over mere eloquence.*
+_Cato's principle of deliberate and meaningful speech, reflecting his Stoic emphasis on wisdom over mere eloquence._
 
 > "Consider it the greatest of all virtues to restrain the tongue."[^109]
 
-*His emphasis on self-control and the power of silence in political and personal life.*
+_His emphasis on self-control and the power of silence in political and personal life._
 
 > "Consider in silence whatever any one says: speech both conceals and reveals the inner soul of man."[^110]
 
-*Reflecting Stoic philosophy on the relationship between words and character.*
+_Reflecting Stoic philosophy on the relationship between words and character._
 
 > "After I'm dead I'd rather have people ask why I have no monument than why I have one."[^111]
 
-*Demonstrating his rejection of vainglory and preference for virtue over external recognition.*
+_Demonstrating his rejection of vainglory and preference for virtue over external recognition._
 
 > "I know not what treason is, if sapping and betraying the liberties of a people be not treason."[^112]
 
-*His definition of political betrayal as the undermining of republican freedom, central to his opposition to Caesar.*
+_His definition of political betrayal as the undermining of republican freedom, central to his opposition to Caesar._
 
 > "To say that private men have nothing to do with government is to say that private men have nothing to do with their own happiness or misery; that people aught not to concern themselves whether they be naked or clothed, fed or starved, deceived or instructed, protected or destroyed."[^113]
 
-*Articulating the principle of civic duty and citizen participation in government that inspired later republican movements.*
+_Articulating the principle of civic duty and citizen participation in government that inspired later republican movements._
 
 > "In doing nothing men learn to do evil."[^114]
 
-*Warning against passivity and indifference in the face of political corruption.*
+_Warning against passivity and indifference in the face of political corruption._
 
 ---
 
 ## References
 
 [^1]: Britannica. "Marcus Porcius Cato (Roman senator, 95-46 BCE)." https://www.britannica.com/biography/Marcus-Porcius-Cato-Roman-senator-95-46-BCE
+
 [^2]: World History Encyclopedia. "Cato the Younger." https://www.worldhistory.org/Cato_the_Younger/
+
 [^3]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^4]: Roman Empire. "Cato the Younger - Imperturbable and relentless Roman senator." https://roman-empire.net/people/cato-the-younger
+
 [^5]: World History Edu. "Cato the Younger: Life and Major Accomplishments." https://worldhistoryedu.com/cato-the-younger-life-and-major-accomplishments/
+
 [^6]: Medium. "Cato the Younger: A brief look at the life of Stoicism's..." https://medium.com/stoicism-philosophy-as-a-way-of-life/cato-the-younger-59f2b87559dc
+
 [^7]: Stoic Quotes. "Cato the Younger 101: Who Was Cato? A Short Bio." https://stoicquotes.com/cato-the-younger-101/
+
 [^8]: Wikipedia. "Porcia (sister of Cato the Younger)." https://en.wikipedia.org/wiki/Porcia_(sister_of_Cato_the_Younger)
+
 [^9]: Primidi. "Cato The Younger - Chronology." https://www.primidi.com/cato_the_younger/chronology
+
 [^10]: Grokipedia. "Cato the Younger." https://grokipedia.com/page/Cato_the_Younger
+
 [^11]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^12]: Get Stoic. "Who is Cato the Younger? The Stoic Martyr of Rome." https://www.getstoic.com/blog/cato-the-younger
+
 [^13]: World History Edu. "Cato the Younger: Life and Major Accomplishments." https://worldhistoryedu.com/cato-the-younger-life-and-major-accomplishments/
+
 [^14]: What Is Stoicism. "Who is Cato the Younger? - The Most Interesting Stoic Ever." https://whatisstoicism.com/stoicism-definition/cato-the-younger-most-interesting-stoic-ever/
+
 [^15]: The Living Philosophy. "The Forgotten Father of Roman Stoicism." https://www.thelivingphilosophy.com/p/cato-the-younger
+
 [^16]: Daily Stoic. "Who Is Cato? Roman Senator. Mortal Enemy of Julius Caesar." https://dailystoic.com/cato/
+
 [^17]: Free Speech History. "95-46 BC: Cato the Younger." https://www.freespeechhistory.com/timeline/95-46-bc-cato-the-younger/
+
 [^18]: Encyclopedia.com. "Cato The Younger." https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/cato-younger
+
 [^19]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^20]: History Skills. "Cato the Younger: Rome's last republican and his deadly fight against Julius Caesar's tyranny." https://www.historyskills.com/classroom/ancient-history/cato-the-younger/
+
 [^21]: Classics for All. "Cato the Younger: The Man beneath the Legend." https://classicsforall.org.uk/reading-room/ad-familiares/cato-younger-man-beneath-legend
+
 [^22]: EBSCO Research Starters. "Cato the Younger." https://www.ebsco.com/research-starters/history/cato-younger
+
 [^23]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^24]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^25]: World History Encyclopedia. "Cicero & the Catiline Conspiracy." https://www.worldhistory.org/article/861/cicero--the-catiline-conspiracy/
+
 [^26]: Wikipedia. "Catilinarian conspiracy." https://en.wikipedia.org/wiki/Catilinarian_conspiracy
+
 [^27]: The Latin Library. "The Conspiracy of Catiline (63 B.C.)." https://www.thelatinlibrary.com/historians/narrative/catiline.html
+
 [^28]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^29]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^30]: Birmingham Pure. "Cato and the People." https://pure-oai.bham.ac.uk/ws/files/33289678/Cato_and_the_People_Henriette_van_der_Blom.pdf
+
 [^31]: World History Edu. "Cato the Younger: Life and Major Accomplishments." https://worldhistoryedu.com/cato-the-younger-life-and-major-accomplishments/
+
 [^32]: EBSCO Research Starters. "Cato the Younger." https://www.ebsco.com/research-starters/history/cato-younger
+
 [^33]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^34]: Get Stoic. "Who is Cato the Younger? The Stoic Martyr of Rome." https://www.getstoic.com/blog/cato-the-younger
+
 [^35]: Daily Stoic. "Stoicism for Modern Stresses: 5 Lessons from Cato." https://dailystoic.com/stoicism-for-modern-stresses-5-lessons-from-cato/
+
 [^36]: What Is Stoicism. "Who is Cato the Younger? - The Most Interesting Stoic Ever." https://whatisstoicism.com/stoicism-definition/cato-the-younger-most-interesting-stoic-ever/
+
 [^37]: Encyclopedia.com. "Cato The Younger." https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/cato-younger
+
 [^38]: Wikipedia. "First Triumvirate." https://en.wikipedia.org/wiki/First_Triumvirate
+
 [^39]: World History Encyclopedia. "First Triumvirate." https://www.worldhistory.org/First_Triumvirate/
+
 [^40]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^41]: Roman Empire. "Cato the Younger - Imperturbable and relentless Roman senator." https://roman-empire.net/people/cato-the-younger
+
 [^42]: History Skills. "Cato the Younger: Rome's last republican and his deadly fight against Julius Caesar's tyranny." https://www.historyskills.com/classroom/ancient-history/cato-the-younger/
+
 [^43]: EBSCO Research Starters. "Cato the Younger." https://www.ebsco.com/research-starters/history/cato-younger
+
 [^44]: Classics for All. "Cato the Younger: The Man beneath the Legend." https://classicsforall.org.uk/reading-room/ad-familiares/cato-younger-man-beneath-legend
+
 [^45]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^46]: History Skills. "Cato the Younger: Rome's last republican and his deadly fight against Julius Caesar's tyranny." https://www.historyskills.com/classroom/ancient-history/cato-the-younger/
+
 [^47]: Cognitive Psycho. "Cato the Younger: The Last Bastion of Roman Republican Virtue." https://cognitivepsycho.com/cato-the-younger-the-last-bastion-of-roman-republican-virtue/
+
 [^48]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^49]: World History Encyclopedia. "Cato the Younger." https://www.worldhistory.org/Cato_the_Younger/
+
 [^50]: Wikipedia. "Battle of Thapsus." https://en.wikipedia.org/wiki/Battle_of_Thapsus
+
 [^51]: Britannica. "Battle of Thapsus." https://www.britannica.com/event/Battle-of-Thapsus
+
 [^52]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^53]: World History Encyclopedia. "First Triumvirate." https://www.worldhistory.org/First_Triumvirate/
+
 [^54]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^55]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^56]: Substack (Fred K. Drogula). "Cato the Younger: Beyond the Caricature." https://fredkdrogula.substack.com/p/cato-the-younger-beyond-the-caricature
+
 [^57]: The Critic Magazine. "The feud that felled the Roman Republic." https://thecritic.co.uk/issues/december-january-2023/the-feud-that-felled-the-roman-republic/
+
 [^58]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^59]: Encyclopedia.com. "Cato The Younger." https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/cato-younger
+
 [^60]: Roman Empire. "Cato, the Filibuster, and the Death of the Republic." https://roman-empire.net/people/cato-the-filibuster-and-the-death-of-the-republic
+
 [^61]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^62]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^63]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^64]: Wikipedia. "Marcia (wife of Cato)." https://en.wikipedia.org/wiki/Marcia_(wife_of_Cato)
+
 [^65]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^66]: Imperium Romanum. "Cato and women." https://imperiumromanum.pl/en/curiosities/cato-and-women/
+
 [^67]: Wikipedia. "Marcia (wife of Cato)." https://en.wikipedia.org/wiki/Marcia_(wife_of_Cato)
+
 [^68]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^69]: Wikipedia. "Marcia (wife of Cato)." https://en.wikipedia.org/wiki/Marcia_(wife_of_Cato)
+
 [^70]: Wikipedia. "Marcia (wife of Cato)." https://en.wikipedia.org/wiki/Marcia_(wife_of_Cato)
+
 [^71]: Wikipedia. "Marcia (wife of Cato)." https://en.wikipedia.org/wiki/Marcia_(wife_of_Cato)
+
 [^72]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^73]: Wikipedia. "Marcia (wife of Cato)." https://en.wikipedia.org/wiki/Marcia_(wife_of_Cato)
+
 [^74]: Wikipedia. "Porcia (sister of Cato the Younger)." https://en.wikipedia.org/wiki/Porcia_(sister_of_Cato_the_Younger)
+
 [^75]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^76]: New World Encyclopedia. "Marcus Porcius Cato." https://www.newworldencyclopedia.org/entry/Marcus_Porcius_Cato
+
 [^77]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^78]: Plutarch. "Life of Cato the Younger." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html
+
 [^79]: Wikipedia. "Legacy of Cato the Younger." https://en.wikipedia.org/wiki/Legacy_of_Cato_the_Younger
+
 [^80]: Classics for All. "Cato the Younger: The Man beneath the Legend." https://classicsforall.org.uk/reading-room/ad-familiares/cato-younger-man-beneath-legend
+
 [^81]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^82]: Medium (Joanna Kenty). "When Eulogies Turn Political: John McCain and Cato the Younger." https://medium.com/@joannakenty/when-eulogies-turn-political-john-mccain-and-cato-the-younger-34e7129c9718
+
 [^83]: Wikipedia. "Legacy of Cato the Younger." https://en.wikipedia.org/wiki/Legacy_of_Cato_the_Younger
+
 [^84]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^85]: Online Library of Liberty. "Cato and George Washington." https://oll.libertyfund.org/publications/reading-room/2025-05-21-cato-and-george-washington
+
 [^86]: George Washington's Mount Vernon. "Joseph Addison's Cato (1713)." https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/cato
+
 [^87]: What's So Proudly We Hail. "Young Washington and Cato." https://www.whatsoproudlywehail.org/curriculum/the-american-calendar/young-washington-and-cato/
+
 [^88]: George Washington's Mount Vernon. "Joseph Addison's Cato (1713)." https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/cato
+
 [^89]: Online Library of Liberty. "Cato and George Washington." https://oll.libertyfund.org/publications/reading-room/2025-05-21-cato-and-george-washington
+
 [^90]: Wikipedia. "Cato, a Tragedy." https://en.wikipedia.org/wiki/Cato,_a_Tragedy
+
 [^91]: Online Library of Liberty. "Cato and George Washington." https://oll.libertyfund.org/publications/reading-room/2025-05-21-cato-and-george-washington
+
 [^92]: World History Edu. "Cato the Younger: Life and Major Accomplishments." https://worldhistoryedu.com/cato-the-younger-life-and-major-accomplishments/
+
 [^93]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^94]: World History Edu. "Cato the Younger: Life and Major Accomplishments." https://worldhistoryedu.com/cato-the-younger-life-and-major-accomplishments/
+
 [^95]: EBSCO Research Starters. "Cato the Younger." https://www.ebsco.com/research-starters/history/cato-younger
+
 [^96]: World History Edu. "Cato the Younger: Life and Major Accomplishments." https://worldhistoryedu.com/cato-the-younger-life-and-major-accomplishments/
+
 [^97]: The Living Philosophy. "The Forgotten Father of Roman Stoicism." https://www.thelivingphilosophy.com/p/cato-the-younger
+
 [^98]: What Is Stoicism. "Who is Cato the Younger? - The Most Interesting Stoic Ever." https://whatisstoicism.com/stoicism-definition/cato-the-younger-most-interesting-stoic-ever/
+
 [^99]: Cognitive Psycho. "Cato the Younger: The Last Bastion of Roman Republican Virtue." https://cognitivepsycho.com/cato-the-younger-the-last-bastion-of-roman-republican-virtue/
+
 [^100]: History Skills. "Cato the Younger: Rome's last republican and his deadly fight against Julius Caesar's tyranny." https://www.historyskills.com/classroom/ancient-history/cato-the-younger/
+
 [^101]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^102]: Wikipedia. "Cato the Younger." https://en.wikipedia.org/wiki/Cato_the_Younger
+
 [^103]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^104]: Bryn Mawr Classical Review. "Cato the Younger: life and death at the end of the Roman republic." https://bmcr.brynmawr.edu/2021/2021.02.05/
+
 [^105]: World History Edu. "Cato the Younger: Life and Major Accomplishments." https://worldhistoryedu.com/cato-the-younger-life-and-major-accomplishments/
+
 [^106]: Cognitive Psycho. "Cato the Younger: The Last Bastion of Roman Republican Virtue." https://cognitivepsycho.com/cato-the-younger-the-last-bastion-of-roman-republican-virtue/
+
 [^107]: Oxford Bibliographies. "Cato the Younger - Classics." https://www.oxfordbibliographies.com/display/document/obo-9780195389661/obo-9780195389661-0413.xml
+
 [^108]: Stoic Simple. "Cato the Younger Stoicism Quotes." https://www.stoicsimple.com/cato-the-younger-stoicism-quotes/
+
 [^109]: Orion Philosophy. "Cato the Younger Stoic Quotes." https://orionphilosophy.com/cato-the-younger-stoic-quotes/
+
 [^110]: Get Stoic. "Best Stoic Quotes by Cato the Younger." https://www.getstoic.com/quotes/best-stoic-quotes-cato-the-younger
+
 [^111]: Daily Stoic. "Stoicism for Modern Stresses: 5 Lessons from Cato." https://dailystoic.com/stoicism-for-modern-stresses-5-lessons-from-cato/
+
 [^112]: Stoic by Design. "The Best Cato Stoicism Quotes." https://www.stoicbydesign.com/the-best-cato-quotes/
+
 [^113]: Stoic Quotes. "Cato the Younger 101: Who Was Cato? A Short Bio." https://stoicquotes.com/cato-the-younger-101/
+
 [^114]: The Cite Site. "20 Best CATO THE YOUNGER Quotes." https://thecitesite.com/authors/cato-the-younger/

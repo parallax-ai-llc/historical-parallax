@@ -25,6 +25,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Argentina Before the Coup
 
 **The Perón legacy:**
+
 - Juan Perón: Dominant figure 1946-1955, 1973-1974
 - Peronism: Populist movement; loved and hated
 - Perón died July 1974
@@ -33,6 +34,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 - Triple A (Argentine Anti-Communist Alliance): Death squads already operating
 
 **Political chaos (1974-1976):**
+
 - Left-wing guerrillas: Montoneros, ERP (People's Revolutionary Army)
 - Right-wing death squads
 - Economic crisis: 600%+ inflation
@@ -42,12 +44,14 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### The Coup
 
 **March 24, 1976:**
+
 - **Lieutenant General Jorge Rafael Videla** led junta
 - Isabel Perón arrested (not killed—unlike Allende)
 - Military assumed total control
 - No significant resistance
 
 **The junta promised:**
+
 - Order
 - End to terrorism
 - Economic stability
@@ -62,6 +66,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### The System
 
 **"Process of National Reorganization":**
+
 - Congress dissolved
 - Political parties banned
 - Press censored
@@ -73,11 +78,13 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Clandestine Detention Centers
 
 **Approximately 340 secret prisons:**
+
 - ESMA (Navy Mechanics School, Buenos Aires): Most notorious
 - Campo de Mayo: Military base
 - El Vesubio, El Olimpo, Automotores Orletti: Others
 
 **What happened there:**
+
 - Torture: Electric shock, waterboarding, beatings, rape
 - Interrogation: Often pointless; victims had no information
 - Execution: After extracting names of others
@@ -88,12 +95,14 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Methods of Disappearance
 
 **The "task forces":**
+
 - Green Ford Falcons (unmarked cars) became symbol of abduction
 - Night raids on homes
 - Taken from workplaces, streets, universities
 - Hooded, bound, transported
 
 **"Death flights":**
+
 - Prisoners drugged but alive
 - Loaded onto military aircraft
 - Thrown into the Río de la Plata or Atlantic Ocean
@@ -105,6 +114,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### The Stolen Children
 
 **Special horror:**
+
 - Pregnant prisoners kept alive until giving birth
 - Babies seized
 - Mothers killed
@@ -123,6 +133,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Profile
 
 **Not all were guerrillas. Many were:**
+
 - Students
 - Trade unionists
 - Teachers, professors
@@ -139,11 +150,11 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 
 ### The Numbers
 
-| Source | Estimate |
-|--------|----------|
-| CONADEP (National Commission) | ~9,000 |
-| Human rights organizations | 30,000 |
-| Most commonly cited | **30,000** |
+| Source                        | Estimate   |
+| ----------------------------- | ---------- |
+| CONADEP (National Commission) | ~9,000     |
+| Human rights organizations    | 30,000     |
+| Most commonly cited           | **30,000** |
 
 **The junta's own documents, largely destroyed, make verification difficult.**[^9]
 
@@ -153,27 +164,28 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 
 ### The Junta
 
-| Name | Position | Fate |
-|------|----------|------|
-| Jorge Rafael Videla | President 1976-1981 | Life imprisonment; died 2013 |
-| Emilio Massera | Navy chief | Life imprisonment; died 2010 |
-| Orlando Agosti | Air Force chief | Convicted; 4.5 years |
-| Roberto Viola | President 1981 | Convicted; 17 years |
-| Leopoldo Galtieri | President 1981-1982 | (Falklands leader) | 12 years; died 2003 |
-| Alfredo Astiz | Navy captain; "Blonde Angel of Death" | Life imprisonment |
+| Name                | Position                              | Fate                         |
+| ------------------- | ------------------------------------- | ---------------------------- | ------------------- |
+| Jorge Rafael Videla | President 1976-1981                   | Life imprisonment; died 2013 |
+| Emilio Massera      | Navy chief                            | Life imprisonment; died 2010 |
+| Orlando Agosti      | Air Force chief                       | Convicted; 4.5 years         |
+| Roberto Viola       | President 1981                        | Convicted; 17 years          |
+| Leopoldo Galtieri   | President 1981-1982                   | (Falklands leader)           | 12 years; died 2003 |
+| Alfredo Astiz       | Navy captain; "Blonde Angel of Death" | Life imprisonment            |
 
 ### Resistance and Memory
 
-| Name/Group | Role |
-|------------|------|
-| Mothers of the Plaza de Mayo | Weekly marches demanding missing children |
-| Grandmothers of the Plaza de Mayo | Find stolen children; DNA identification |
-| HIJOS | Children of the disappeared |
-| Various journalists | Documented at personal risk |
+| Name/Group                        | Role                                      |
+| --------------------------------- | ----------------------------------------- |
+| Mothers of the Plaza de Mayo      | Weekly marches demanding missing children |
+| Grandmothers of the Plaza de Mayo | Find stolen children; DNA identification  |
+| HIJOS                             | Children of the disappeared               |
+| Various journalists               | Documented at personal risk               |
 
 ### International Dimension
 
 **Operation Condor:**
+
 - Coordinated terror between South American dictatorships
 - Argentina, Chile, Uruguay, Paraguay, Brazil, Bolivia
 - Shared intelligence, killed refugees in each other's countries
@@ -186,6 +198,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Falklands/Malvinas War
 
 **April-June 1982:**
+
 - Galtieri ordered invasion of British-held Falkland Islands
 - Attempt to rally nationalist support
 - **Catastrophic defeat:** 649 Argentine soldiers killed
@@ -195,6 +208,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Democratic Transition
 
 **1983:**
+
 - Elections held
 - **Raúl Alfonsín** (Radical Party) won presidency
 - Military relinquished power
@@ -209,7 +223,8 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 
 **1984:** National Commission on the Disappearance of Persons
 
-**Report: *Nunca Más* (Never Again)**
+**Report: _Nunca Más_ (Never Again)**
+
 - Documented 8,960 disappeared
 - Detailed torture methods
 - Named detention centers
@@ -218,17 +233,20 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Trials
 
 **1985:** Trial of the Juntas
+
 - Historic: Military leaders tried by civilian court
 - Videla: Life imprisonment
 - Massera: Life imprisonment
 - Others: Various sentences
 
 **1986-1987:** Due Obedience and Full Stop laws
+
 - Ended prosecutions
 - Protected lower-ranking officers
 - Controversial amnesty
 
 **2003-present:** Laws annulled under Kirchner governments
+
 - New prosecutions
 - Hundreds convicted
 - Trials continue today[^12]
@@ -240,12 +258,14 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Why Did It Happen?
 
 **Cold War context:**
+
 - Military saw leftist threat everywhere
 - US supported (Operation Condor)
 - Catholic Church largely silent or complicit
 - Business elite welcomed "order"
 
 **National factors:**
+
 - Peronist chaos created opening
 - Military tradition of intervention
 - Society willing to accept junta initially
@@ -254,6 +274,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### How Did Society Respond?
 
 **During:**
+
 - Most knew something was wrong
 - Many didn't know extent
 - Fear enforced silence
@@ -262,6 +283,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 **"Algo habrán hecho"** ("They must have done something")—common justification
 
 **After:**
+
 - Shock at revelations
 - Trials broadly supported
 - Memory activism strong
@@ -269,12 +291,12 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 
 ### Comparison
 
-| Feature | Argentina | Chile (Pinochet) | Brazil |
-|---------|-----------|------------------|--------|
-| Deaths | 10,000-30,000 | 3,000+ | 434+ |
-| Disappearances | Central feature | Also used | Fewer |
-| Trials | Extensive | Limited | Very limited |
-| Memory | Strong activism | Divided | Suppressed |
+| Feature        | Argentina       | Chile (Pinochet) | Brazil       |
+| -------------- | --------------- | ---------------- | ------------ |
+| Deaths         | 10,000-30,000   | 3,000+           | 434+         |
+| Disappearances | Central feature | Also used        | Fewer        |
+| Trials         | Extensive       | Limited          | Very limited |
+| Memory         | Strong activism | Divided          | Suppressed   |
 
 **Argentina's Dirty War was among the worst in South American history.**[^14]
 
@@ -311,12 +333,14 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 ### Mothers of the Plaza de Mayo
 
 **April 1977:**
+
 - Fourteen mothers began gathering at Plaza de Mayo
 - Silently walked in circles wearing white headscarves
 - Demanded to know what happened to their children
 - Defied the junta publicly
 
 **Symbol:**
+
 - White headscarf (pañuelo blanco)
 - Became international icon of resistance
 - Some mothers themselves disappeared
@@ -328,6 +352,7 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 **Specific mission:** Find stolen grandchildren
 
 **Methods:**
+
 - DNA database
 - Investigations
 - Legal action
@@ -339,38 +364,53 @@ The Dirty War ended in 1983, brought down by military failure in the Falklands W
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1974 | Triple A death squads begin |
-| March 24, 1976 | Military coup; Videla takes power |
-| 1976-1983 | Dirty War; disappearances |
-| April 1977 | Mothers of Plaza de Mayo begin marching |
-| April-June 1982 | Falklands War; Argentine defeat |
-| October 1983 | Elections; Alfonsín elected |
-| 1984 | CONADEP investigation; *Nunca Más* published |
-| 1985 | Trial of the Juntas |
-| 1986-1987 | Amnesty laws passed |
-| 2003-2005 | Amnesty laws annulled |
-| 2013 | Videla dies in prison |
-| Present | Trials continue |
+| Date            | Event                                        |
+| --------------- | -------------------------------------------- |
+| 1974            | Triple A death squads begin                  |
+| March 24, 1976  | Military coup; Videla takes power            |
+| 1976-1983       | Dirty War; disappearances                    |
+| April 1977      | Mothers of Plaza de Mayo begin marching      |
+| April-June 1982 | Falklands War; Argentine defeat              |
+| October 1983    | Elections; Alfonsín elected                  |
+| 1984            | CONADEP investigation; _Nunca Más_ published |
+| 1985            | Trial of the Juntas                          |
+| 1986-1987       | Amnesty laws passed                          |
+| 2003-2005       | Amnesty laws annulled                        |
+| 2013            | Videla dies in prison                        |
+| Present         | Trials continue                              |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Dirty War](https://en.wikipedia.org/wiki/Dirty_War)
+
 [^2]: [Britannica - Jorge Videla](https://www.britannica.com/biography/Jorge-Rafael-Videla)
+
 [^3]: [HMH - Argentina Dirty War](https://www.hmh.org/library/research/the-dirty-war-argentina/)
+
 [^4]: [Wikipedia - 1976 Argentine coup](https://en.wikipedia.org/wiki/1976_Argentine_coup_d%27%C3%A9tat)
+
 [^5]: [ECCHR - Argentina justice](https://www.ecchr.eu/en/glossary/argentina-dirty-war/)
+
 [^6]: [Wikipedia - ESMA](https://en.wikipedia.org/wiki/Navy_Petty_Officers_School_of_Mechanics)
+
 [^7]: [IFSW - Death flights](https://www.ifsw.org/dirty-war-argentina/)
+
 [^8]: [The Guardian - Stolen children](https://www.theguardian.com/world/argentina-stolen-babies)
+
 [^9]: [Chimu Adventures - Desaparecidos](https://www.chimuadventures.com/blog/argentina-dirty-war/)
+
 [^10]: [CIA - Operation Condor](https://www.cia.gov/readingroom/collection/argentina-declassification-project)
+
 [^11]: [Exploros - Falklands](https://www.exploros.com/history/falklands-argentina-1982/)
+
 [^12]: [EBSCO - Trials](https://www.ebsco.com/research-starters/history/argentina-trial-juntas/)
+
 [^13]: [Wikipedia - Trial of the Juntas](https://en.wikipedia.org/wiki/Trial_of_the_Juntas)
+
 [^14]: [Wikipedia - Desaparecidos](https://en.wikipedia.org/wiki/Desaparecidos)
+
 [^15]: [Mothers of Plaza de Mayo](http://www.madres.org/)
+
 [^16]: [Grandmothers of Plaza de Mayo](https://www.abuelas.org.ar/)

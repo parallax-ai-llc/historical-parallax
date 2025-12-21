@@ -209,26 +209,26 @@ The saying "Speak of Cao Cao, and Cao Cao arrives" reflects how thoroughly his n
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 155 | Born in Qiao, Principality of Pei (present-day Bozhou, Anhui) |
-| 175 | Recommended as "Filially Pious and Incorrupt"; appointed as Gentleman official |
-| 184 | Promoted to captain of cavalry during Yellow Turban Rebellion; suppresses rebels in Yingchuan |
-| 189 | Participates in campaign against eunuchs; flees after Dong Zhuo seizes power |
-| 190 | Joins coalition against Dong Zhuo |
-| 192 | Defeats Yellow Turban remnants; forms Qingzhou Corps |
-| 196 | Receives Emperor Xian; establishes new capital at Xuchang |
-| 197 | Defeats Zhang Xiu |
-| 198 | Defeats and executes Lü Bu |
-| 200 | Achieves decisive victory over Yuan Shao at Battle of Guandu |
-| 201 | Defeats Yuan Shao again at Battle of Cangting |
-| 204 | Conquers Yecheng, capital of Yuan Shao's former territory |
-| 207 | Defeats Wuhuan tribe at Battle of White Wolf Mountain |
-| 208 | Suffers major defeat at Battle of Red Cliffs against Sun Quan-Liu Bei alliance |
-| 211 | Campaigns in western regions against Ma Chao and Han Sui |
-| 213 | Created Duke of Wei; granted extensive fief |
-| 216 | Elevated to King of Wei with imperial ceremonial privileges |
-| 220 | Dies on March 15 in Luoyang at age 65; succeeded by son Cao Pi |
+| Year | Event                                                                                         |
+| ---- | --------------------------------------------------------------------------------------------- |
+| 155  | Born in Qiao, Principality of Pei (present-day Bozhou, Anhui)                                 |
+| 175  | Recommended as "Filially Pious and Incorrupt"; appointed as Gentleman official                |
+| 184  | Promoted to captain of cavalry during Yellow Turban Rebellion; suppresses rebels in Yingchuan |
+| 189  | Participates in campaign against eunuchs; flees after Dong Zhuo seizes power                  |
+| 190  | Joins coalition against Dong Zhuo                                                             |
+| 192  | Defeats Yellow Turban remnants; forms Qingzhou Corps                                          |
+| 196  | Receives Emperor Xian; establishes new capital at Xuchang                                     |
+| 197  | Defeats Zhang Xiu                                                                             |
+| 198  | Defeats and executes Lü Bu                                                                    |
+| 200  | Achieves decisive victory over Yuan Shao at Battle of Guandu                                  |
+| 201  | Defeats Yuan Shao again at Battle of Cangting                                                 |
+| 204  | Conquers Yecheng, capital of Yuan Shao's former territory                                     |
+| 207  | Defeats Wuhuan tribe at Battle of White Wolf Mountain                                         |
+| 208  | Suffers major defeat at Battle of Red Cliffs against Sun Quan-Liu Bei alliance                |
+| 211  | Campaigns in western regions against Ma Chao and Han Sui                                      |
+| 213  | Created Duke of Wei; granted extensive fief                                                   |
+| 216  | Elevated to King of Wei with imperial ceremonial privileges                                   |
+| 220  | Dies on March 15 in Luoyang at age 65; succeeded by son Cao Pi                                |
 
 ---
 
@@ -251,107 +251,211 @@ The saying "Speak of Cao Cao, and Cao Cao arrives" reflects how thoroughly his n
 ## References
 
 [^1]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^2]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^3]: Kiddle. "Cao Cao facts for kids." https://kids.kiddle.co/Cao_Cao
+
 [^4]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^5]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^6]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^7]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^8]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^9]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^10]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^11]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^12]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^13]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^14]: China Highlights. "Cao Cao, Celebrity during the Three Kingdoms Period." https://www.chinahighlights.com/travelguide/china-history/cao-cao.htm
+
 [^15]: China Highlights. "Cao Cao, Celebrity during the Three Kingdoms Period." https://www.chinahighlights.com/travelguide/china-history/cao-cao.htm
+
 [^16]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^17]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^18]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^19]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^20]: Wikipedia. "Battle of Guandu." https://en.wikipedia.org/wiki/Battle_of_Guandu
+
 [^21]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^22]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^23]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^24]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^25]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^26]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^27]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^28]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^29]: China Highlights. "Cao Cao, Celebrity during the Three Kingdoms Period." https://www.chinahighlights.com/travelguide/china-history/cao-cao.htm
+
 [^30]: Travel China Guide. "Cao Cao - Emperor of Wei Kingdom." https://www.travelchinaguide.com/intro/history/three_kingdoms/caocao.htm
+
 [^31]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^32]: Wikipedia. "Tuntian." https://en.wikipedia.org/wiki/Tuntian
+
 [^33]: Chinese Mythology. "The Rise of the Hero: The Legend of Cao Cao." https://chinese.mythologyworldwide.com/the-rise-of-the-hero-the-legend-of-cao-cao-3/
+
 [^34]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^35]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^36]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^37]: A-Z Quotes. "Cao Cao Quotes." https://www.azquotes.com/author/45778-Cao_Cao
+
 [^38]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^39]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^40]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^41]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^42]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^43]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^44]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^45]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^46]: Romance of the Three Kingdoms Podcast. "Supplemental Episode 010: Cao Cao, Fact and Fiction." https://3kingdomspodcast.com/2017/03/08/supplemental-episode-010-cao-cao-fact-and-fiction/
+
 [^47]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^48]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^49]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^50]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^51]: Romance of the Three Kingdoms Podcast. "Supplemental Episode 010: Cao Cao, Fact and Fiction." https://3kingdomspodcast.com/2017/03/08/supplemental-episode-010-cao-cao-fact-and-fiction/
+
 [^52]: Factinate. "Misunderstood Facts About Cao Cao, The Warlord Of Wei." https://www.factinate.com/people/facts-about-cao-cao
+
 [^53]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^54]: Koei Wiki. "Cao Cao." https://koei.fandom.com/wiki/Cao_Cao
+
 [^55]: Wikipedia. "Battle of Red Cliffs." https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs
+
 [^56]: Brewed History. "Why Did Cao Cao Lose The Battle Of Red Cliffs?" https://brewedhistory.com/why-did-cao-cao-lose-the-battle-of-red-cliffs/
+
 [^57]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^58]: History Skills. "Why the brutal Battle of Red Cliffs doomed an ancient Chinese dynasty." https://www.historyskills.com/classroom/year-7/battle-of-red-cliffs/
+
 [^59]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^60]: Wikipedia. "Battle of Red Cliffs." https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs
+
 [^61]: DayDayNews. "There are 15 wives in Cao Cao." https://daydaynews.cc/en/history/164853.html
+
 [^62]: The Famous People. "Cao Cao Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/cao-cao-3778.php
+
 [^63]: Wikipedia. "Empress Dowager Bian." https://en.wikipedia.org/wiki/Empress_Dowager_Bian
+
 [^64]: The Famous People. "Cao Cao Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/cao-cao-3778.php
+
 [^65]: The Famous People. "Cao Cao Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/cao-cao-3778.php
+
 [^66]: The Famous People. "Cao Cao Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/cao-cao-3778.php
+
 [^67]: Kiddle. "Cao Cao facts for kids." https://kids.kiddle.co/Cao_Cao
+
 [^68]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^69]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^70]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^71]: Travel China Guide. "Cao Cao - Emperor of Wei Kingdom." https://www.travelchinaguide.com/intro/history/three_kingdoms/caocao.htm
+
 [^72]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^73]: Kiddle. "Cao Cao facts for kids." https://kids.kiddle.co/Cao_Cao
+
 [^74]: Wikipedia. "Cao Cao." https://en.wikipedia.org/wiki/Cao_Cao
+
 [^75]: Wikipedia. "Cao Cao Mausoleum." https://en.wikipedia.org/wiki/Cao_Cao_Mausoleum
+
 [^76]: Wikipedia. "Cao Cao Mausoleum." https://en.wikipedia.org/wiki/Cao_Cao_Mausoleum
+
 [^77]: Wikipedia. "Cao Cao Mausoleum." https://en.wikipedia.org/wiki/Cao_Cao_Mausoleum
+
 [^78]: Ancient Origins. "Cao Cao Could Not Hide Forever: Remains Finally Confirmed As Chinese Warlord." https://www.ancient-origins.net/news-history-archaeology/cao-cao-could-not-hide-forever-remains-finally-confirmed-chinese-warlord-021854
+
 [^79]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^80]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^81]: Travel China Guide. "Cao Cao - Emperor of Wei Kingdom." https://www.travelchinaguide.com/intro/history/three_kingdoms/caocao.htm
+
 [^82]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^83]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^84]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^85]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^86]: Chinese Mythology. "The Rise of the Hero: The Legend of Cao Cao." https://chinese.mythologyworldwide.com/the-rise-of-the-hero-the-legend-of-cao-cao-3/
+
 [^87]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^88]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^89]: Wikipedia. "Poetry of Cao Cao." https://en.wikipedia.org/wiki/Poetry_of_Cao_Cao
+
 [^90]: Factinate. "Misunderstood Facts About Cao Cao, The Warlord Of Wei." https://www.factinate.com/people/facts-about-cao-cao
+
 [^91]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^92]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^93]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^94]: World History Encyclopedia. "Cao Cao." https://www.worldhistory.org/Cao_Cao/
+
 [^95]: Britannica. "Cao Cao | Three Kingdoms, Warlord, Strategist." https://www.britannica.com/biography/Cao-Cao
+
 [^96]: Romance of the Three Kingdoms Podcast. "Supplemental Episode 010: Cao Cao, Fact and Fiction." https://3kingdomspodcast.com/2017/03/08/supplemental-episode-010-cao-cao-fact-and-fiction/
+
 [^97]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^98]: New World Encyclopedia. "Cao Cao." https://www.newworldencyclopedia.org/entry/Cao_Cao
+
 [^99]: Factinate. "Misunderstood Facts About Cao Cao, The Warlord Of Wei." https://www.factinate.com/people/facts-about-cao-cao
+
 [^100]: Wikiquote. "Cao Cao." https://en.wikiquote.org/wiki/Cao_Cao
+
 [^101]: A-Z Quotes. "Cao Cao Quotes." https://www.azquotes.com/author/45778-Cao_Cao
+
 [^102]: A-Z Quotes. "Cao Cao Quotes." https://www.azquotes.com/author/45778-Cao_Cao
+
 [^103]: A-Z Quotes. "Cao Cao Quotes." https://www.azquotes.com/author/45778-Cao_Cao
+
 [^104]: A-Z Quotes. "Cao Cao Quotes." https://www.azquotes.com/author/45778-Cao_Cao
+
 [^105]: A-Z Quotes. "Cao Cao Quotes." https://www.azquotes.com/author/45778-Cao_Cao

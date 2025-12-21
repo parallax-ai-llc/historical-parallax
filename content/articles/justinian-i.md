@@ -53,11 +53,11 @@ The **Codex Constitutionum** (Code), completed in its first edition in 529 and r
 
 The **Institutiones** (Institutes), an elementary textbook compiled and published in 533 under Tribonian's supervision, was designed specifically for first-year law students, making the principles of Roman law accessible to new generations of legal scholars[^30]. Finally, the **Novellae Constitutiones Post Codicem** (New Constitutions After the Code) contained new ordinances issued by Justinian himself between 534 and 565, ensuring the legal code remained current throughout his reign[^31].
 
-The impact of Justinian's legal reforms cannot be overstated. The Corpus Juris Civilis provided the foundation of law in all civil law jurisdictions and influenced the canon law of the Roman Catholic Church; it was said that *ecclesia vivit lege romana*—"the church lives by Roman law"[^32]. The provisions of this legal code influenced emerging European nations and continue to shape Western legal systems to the present day[^33].
+The impact of Justinian's legal reforms cannot be overstated. The Corpus Juris Civilis provided the foundation of law in all civil law jurisdictions and influenced the canon law of the Roman Catholic Church; it was said that _ecclesia vivit lege romana_—"the church lives by Roman law"[^32]. The provisions of this legal code influenced emerging European nations and continue to shape Western legal systems to the present day[^33].
 
 ### The Reconquest: Military Campaigns in the West
 
-Justinian's military ambitions were driven by a vision of *renovatio imperii*—the restoration of the Roman Empire to its former territorial extent[^34]. This represented the last serious attempt by an emperor in Constantinople to recover the western provinces lost to barbarian invasions in the previous century[^35]. To achieve this goal, Justinian relied on two exceptional military commanders: Belisarius and Narses.
+Justinian's military ambitions were driven by a vision of _renovatio imperii_—the restoration of the Roman Empire to its former territorial extent[^34]. This represented the last serious attempt by an emperor in Constantinople to recover the western provinces lost to barbarian invasions in the previous century[^35]. To achieve this goal, Justinian relied on two exceptional military commanders: Belisarius and Narses.
 
 The reconquest began in North Africa in 533 CE, when Belisarius and his troops landed unopposed on the African coast to confront the Vandal kingdom[^36]. In a remarkably swift campaign lasting just one year, Belisarius conquered the entire Vandal kingdom, restoring North Africa to imperial control[^37]. This stunning success emboldened Justinian to pursue his next, far more ambitious target: Italy.
 
@@ -109,11 +109,11 @@ Justinian himself contracted the disease in 542 at the height of the epidemic bu
 
 ### Procopius's Secret History: A Scathing Indictment
 
-The most devastating contemporary criticism of Justinian comes from an unexpected source: his own court historian, Procopius of Caesarea. While Procopius publicly authored admiring works including the *Wars* (describing Justinian's military campaigns) and *Buildings* (celebrating his architectural achievements), he also secretly wrote the *Anecdota* or *Secret History*, a vicious and scandalous attack on Justinian and Theodora that was not published during his lifetime[^80].
+The most devastating contemporary criticism of Justinian comes from an unexpected source: his own court historian, Procopius of Caesarea. While Procopius publicly authored admiring works including the _Wars_ (describing Justinian's military campaigns) and _Buildings_ (celebrating his architectural achievements), he also secretly wrote the _Anecdota_ or _Secret History_, a vicious and scandalous attack on Justinian and Theodora that was not published during his lifetime[^80].
 
-Written around 550 CE (perhaps as late as 558), the *Secret History* presents a stark contrast to Procopius's official works[^81]. Instead of praising Justinian's reign and reconquest of the West, the text is a calculated and brutal critique of the imperial couple, their advisors, and the entire court system[^82]. Procopius portrays Justinian as literally demonic—not metaphorically tyrannical, but actually a demon in human form[^83]. The work includes bizarre supernatural accounts claiming the emperor's inhuman nature.
+Written around 550 CE (perhaps as late as 558), the _Secret History_ presents a stark contrast to Procopius's official works[^81]. Instead of praising Justinian's reign and reconquest of the West, the text is a calculated and brutal critique of the imperial couple, their advisors, and the entire court system[^82]. Procopius portrays Justinian as literally demonic—not metaphorically tyrannical, but actually a demon in human form[^83]. The work includes bizarre supernatural accounts claiming the emperor's inhuman nature.
 
-Politically, Procopius accuses Justinian of deliberately destroying the empire through arbitrary legal decisions, acceptance of bribes, and overruling his own laws for monetary gain[^84]. Economically, the *Secret History* claims the emperor overtaxed the Roman people into mass poverty[^85]. However, modern scholars caution that Procopius's *Secret History* should be contextualized within the political tensions of the Byzantine elite and read as blending intriguing historical details with the author's personal agenda and grievances[^86].
+Politically, Procopius accuses Justinian of deliberately destroying the empire through arbitrary legal decisions, acceptance of bribes, and overruling his own laws for monetary gain[^84]. Economically, the _Secret History_ claims the emperor overtaxed the Roman people into mass poverty[^85]. However, modern scholars caution that Procopius's _Secret History_ should be contextualized within the political tensions of the Byzantine elite and read as blending intriguing historical details with the author's personal agenda and grievances[^86].
 
 ---
 
@@ -179,7 +179,7 @@ Critics of Justinian present a fundamentally different assessment, asking whethe
 
 Justinian's religious policies created lasting divisions within Christianity rather than resolving them, alienating both Monophysites and orthodox Christians through heavy-handed interventions like the Three Chapters Controversy[^133]. His persecution of non-Christians and heretics demonstrated intolerance that destroyed ancient intellectual traditions, most notably the closure of the Academy at Athens[^134]. His treatment of Pope Vigilius—holding the pontiff against his will and forcing his acquiescence—demonstrated ecclesiastical tyranny that damaged relations between Constantinople and Rome[^135].
 
-Economically, critics point to the crushing tax burden Justinian imposed to fund his wars and building projects, impoverishing many subjects and creating resentment throughout the empire[^136]. The rigorous financial exactions made Byzantine rule deeply unpopular in reconquered territories[^137]. Even his own court historian Procopius, in the *Secret History*, accused him of deliberately ruining the empire through arbitrary legal decisions, corruption, and overtaxation[^138].
+Economically, critics point to the crushing tax burden Justinian imposed to fund his wars and building projects, impoverishing many subjects and creating resentment throughout the empire[^136]. The rigorous financial exactions made Byzantine rule deeply unpopular in reconquered territories[^137]. Even his own court historian Procopius, in the _Secret History_, accused him of deliberately ruining the empire through arbitrary legal decisions, corruption, and overtaxation[^138].
 
 The Justinianic Plague, while not Justinian's fault, occurred during his reign and potentially undermined his other achievements through demographic and economic devastation[^139]. Some scholars argue that the combination of plague, warfare, and taxation created a crisis that weakened the empire precisely when it needed strength to face emerging threats[^140].
 
@@ -189,46 +189,46 @@ From this critical perspective, Justinian was an ambitious autocrat whose grandi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 482 | Born in Tauresium, Dardania (modern North Macedonia) |
-| c. 500 | Brought to Constantinople by uncle Justin for education |
-| 518 | Uncle Justin becomes Emperor Justin I |
-| 520 | Appointed consul and commander of the army of the east |
-| 521 | Serves as Consul |
-| 525 | Granted titles of nobilissimus and caesar (heir-apparent) |
-| 525 | Marries Theodora after changing laws to permit the marriage |
-| 527 (Apr 1) | Crowned co-emperor with rank of augustus |
-| 527 (Aug 1) | Becomes sole emperor upon Justin I's death |
-| 528 | Establishes legal commission under Tribonian to codify Roman law |
-| 529 | First edition of Codex Justinianus released |
-| 529 | Closes the Academy at Athens; bans Samaritans from making wills |
-| 530-533 | Digesta (Digest) compiled by commission of 16 lawyers |
-| 532 | Treaty of Eternal Peace signed with Sassanid Persia |
+| Year            | Event                                                            |
+| --------------- | ---------------------------------------------------------------- |
+| 482             | Born in Tauresium, Dardania (modern North Macedonia)             |
+| c. 500          | Brought to Constantinople by uncle Justin for education          |
+| 518             | Uncle Justin becomes Emperor Justin I                            |
+| 520             | Appointed consul and commander of the army of the east           |
+| 521             | Serves as Consul                                                 |
+| 525             | Granted titles of nobilissimus and caesar (heir-apparent)        |
+| 525             | Marries Theodora after changing laws to permit the marriage      |
+| 527 (Apr 1)     | Crowned co-emperor with rank of augustus                         |
+| 527 (Aug 1)     | Becomes sole emperor upon Justin I's death                       |
+| 528             | Establishes legal commission under Tribonian to codify Roman law |
+| 529             | First edition of Codex Justinianus released                      |
+| 529             | Closes the Academy at Athens; bans Samaritans from making wills  |
+| 530-533         | Digesta (Digest) compiled by commission of 16 lawyers            |
+| 532             | Treaty of Eternal Peace signed with Sassanid Persia              |
 | 532 (Jan 13-18) | Nika riots devastate Constantinople; approximately 30,000 killed |
-| 532 (Feb 23) | Begins construction of new Hagia Sophia |
-| 533 | Digesta and Institutiones published |
-| 533-534 | Belisarius conquers Vandal kingdom in North Africa |
-| 534 | Revised Codex Justinianus released |
-| 535 | Abolishes various dioceses as part of administrative reforms |
-| 535-554 | Gothic War to reconquer Italy from Ostrogoths |
-| 536 | Rome recaptured by Byzantine forces under Belisarius |
-| 537 (Dec 27) | Hagia Sophia inaugurated after 5 years of construction |
-| 540 | Belisarius captures Ravenna; apparent conquest of Italy |
-| 540 | War with Persia resumes when Khosrow I invades Syria |
-| 541-549 | First outbreak of Justinianic Plague |
-| 542 | Justinian contracts plague but recovers |
-| 543-544 | Promotes anathematization of the Three Chapters |
-| 547 | San Vitale mosaics in Ravenna completed |
-| 548 (Jun 28) | Empress Theodora dies, possibly of cancer |
-| 552 | Narses defeats Ostrogothic king Totila at Battle of Taginae |
-| 553 | Second Council of Constantinople condemns Three Chapters |
-| 553 | Battle of Mons Lactarius effectively ends Ostrogothic kingdom |
-| 554 | Gothic War in Italy officially concluded |
-| 559 | Visits Theodora's tomb and lights candles in her memory |
-| 561 | Fifty years' truce negotiated with Persia |
-| 562 | Conspiracy against Justinian's life discovered |
-| 565 (Nov 14) | Dies at approximately age 83; succeeded by Justin II |
+| 532 (Feb 23)    | Begins construction of new Hagia Sophia                          |
+| 533             | Digesta and Institutiones published                              |
+| 533-534         | Belisarius conquers Vandal kingdom in North Africa               |
+| 534             | Revised Codex Justinianus released                               |
+| 535             | Abolishes various dioceses as part of administrative reforms     |
+| 535-554         | Gothic War to reconquer Italy from Ostrogoths                    |
+| 536             | Rome recaptured by Byzantine forces under Belisarius             |
+| 537 (Dec 27)    | Hagia Sophia inaugurated after 5 years of construction           |
+| 540             | Belisarius captures Ravenna; apparent conquest of Italy          |
+| 540             | War with Persia resumes when Khosrow I invades Syria             |
+| 541-549         | First outbreak of Justinianic Plague                             |
+| 542             | Justinian contracts plague but recovers                          |
+| 543-544         | Promotes anathematization of the Three Chapters                  |
+| 547             | San Vitale mosaics in Ravenna completed                          |
+| 548 (Jun 28)    | Empress Theodora dies, possibly of cancer                        |
+| 552             | Narses defeats Ostrogothic king Totila at Battle of Taginae      |
+| 553             | Second Council of Constantinople condemns Three Chapters         |
+| 553             | Battle of Mons Lactarius effectively ends Ostrogothic kingdom    |
+| 554             | Gothic War in Italy officially concluded                         |
+| 559             | Visits Theodora's tomb and lights candles in her memory          |
+| 561             | Fifty years' truce negotiated with Persia                        |
+| 562             | Conspiracy against Justinian's life discovered                   |
+| 565 (Nov 14)    | Dies at approximately age 83; succeeded by Justin II             |
 
 ---
 
@@ -253,151 +253,299 @@ From this critical perspective, Justinian was an ambitious autocrat whose grandi
 ## References
 
 [^1]: Britannica, "Justinian I | Biography, Accomplishments, Facts, Religion, Hagia Sophia, & Wife," https://www.britannica.com/biography/Justinian-I
+
 [^2]: World History Encyclopedia, "Justinian I," https://www.worldhistory.org/Justinian_I/
+
 [^3]: Britannica, "Plague of Justinian | Description, Origins, Death Toll, & Facts," https://www.britannica.com/event/plague-of-Justinian
+
 [^4]: Culture Frontier, "Justinian I's Legacy and the Code of Justinian," https://www.culturefrontier.com/code-of-justinian/
+
 [^5]: Wikipedia, "Justinian I," https://en.wikipedia.org/wiki/Justinian_I
+
 [^6]: The Famous People, "Justinian I Biography - Facts, Childhood, Family & Achievements of Byzantine Emperor," https://www.thefamouspeople.com/profiles/justinian-i-33585.php
+
 [^7]: Ibid.
+
 [^8]: World History Encyclopedia, "Justinian I"
+
 [^9]: Ibid.
+
 [^10]: Wikipedia, "Justinian I"
+
 [^11]: The Famous People, "Justinian I Biography"
+
 [^12]: Britannica, "Justinian I"
+
 [^13]: World History Encyclopedia, "Justinian I"
+
 [^14]: Britannica, "Justinian I"
+
 [^15]: World History Encyclopedia, "Timeline: Justinian I," https://www.worldhistory.org/timeline/Justinian_I/
+
 [^16]: Ibid.
+
 [^17]: Britannica, "Justinian I"
+
 [^18]: Britannica, "Theodora | Empress, Biography, Accomplishments, Justinian, & Facts," https://www.britannica.com/biography/Theodora-Byzantine-empress-died-548
+
 [^19]: Wikipedia, "Theodora (wife of Justinian I)," https://en.wikipedia.org/wiki/Theodora_(wife_of_Justinian_I)
+
 [^20]: The Famous People, "Justinian I Biography"
+
 [^21]: Wikipedia, "Theodora (wife of Justinian I)"
+
 [^22]: Ibid.
+
 [^23]: Britannica, "Justinian I"
+
 [^24]: Ibid.
+
 [^25]: Culture Frontier, "Justinian I's Legacy and the Code of Justinian"
+
 [^26]: Lumen Learning, "The Justinian Code | Western Civilization," https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-justinian-code/
+
 [^27]: Ibid.
+
 [^28]: Wikipedia, "Code of Justinian," https://en.wikipedia.org/wiki/Code_of_Justinian
+
 [^29]: Wikipedia, "Corpus Juris Civilis," https://en.wikipedia.org/wiki/Corpus_Juris_Civilis
+
 [^30]: Ibid.
+
 [^31]: Ibid.
+
 [^32]: Britannica, "Roman law - Justinian Code, Civil Law, Corpus Juris Civilis," https://www.britannica.com/topic/Roman-law/The-law-of-Justinian
+
 [^33]: GradesFixer, "The Impact of Justinian's Code on Western Legal Tradition," https://gradesfixer.com/free-essay-examples/the-impact-of-justinians-code-on-western-legal-tradition/
+
 [^34]: Britannica, "Justinian I"
+
 [^35]: The Collector, "What Was Justinian's 'Reconquest'?" https://www.thecollector.com/what-was-justinian-reconquest/
+
 [^36]: World History Encyclopedia, "Justinian I"
+
 [^37]: Ibid.
+
 [^38]: Wikipedia, "Gothic War (535–554)," https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554)
+
 [^39]: Mikeaztec, "Justinian's 'reconquest' in 1200 words," https://mikeaztec.wordpress.com/2015/05/17/justinians-reconquest-in-1200-words/
+
 [^40]: Ibid.
+
 [^41]: Wikipedia, "Gothic War (535–554)"
+
 [^42]: Wikipedia, "Narses," https://en.wikipedia.org/wiki/Narses
+
 [^43]: The Collector, "What Was Justinian's 'Reconquest'?"
+
 [^44]: Britannica, "Byzantine Empire - Justinian I, Constantinople, Legacy," https://www.britannica.com/place/Byzantine-Empire/The-last-years-of-Justinian-I
+
 [^45]: Britannica, "Hagia Sophia | Istanbul, Interior, Meaning, Mosaics, History, Architecture, & Facts," https://www.britannica.com/topic/Hagia-Sophia
+
 [^46]: Wikipedia, "Nika riots," https://en.wikipedia.org/wiki/Nika_riots
+
 [^47]: Wikipedia, "Hagia Sophia," https://en.wikipedia.org/wiki/Hagia_Sophia
+
 [^48]: The Collector, "What Is Hagia Sophia & Who Built It?" https://www.thecollector.com/what-is-hagia-sophia-who-built-it/
+
 [^49]: Wikipedia, "Hagia Sophia"
+
 [^50]: Ibid.
+
 [^51]: Metropolitan Museum of Art, "Hagia Sophia, 532–37," https://www.metmuseum.org/toah/hd/haso/hd_haso.htm
+
 [^52]: Smarthistory, "Hagia Sophia, Istanbul," https://smarthistory.org/hagia-sophia-istanbul/
+
 [^53]: Wikipedia, "Hagia Sophia"
+
 [^54]: ASCE, "Hagia Sophia," https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/hagia-sophia
+
 [^55]: Metropolitan Museum of Art, "The Byzantine State under Justinian I (Justinian the Great)," https://www.metmuseum.org/toah/hd/just/hd_just.htm
+
 [^56]: New World Encyclopedia, "Justinian I," https://www.newworldencyclopedia.org/entry/Justinian_I
+
 [^57]: Jewish Virtual Library, "Justinian I," https://www.jewishvirtuallibrary.org/justinian-i-x00b0
+
 [^58]: Ibid.
+
 [^59]: Wikipedia, "Justinian I"
+
 [^60]: Jewish Virtual Library, "Justinian I"
+
 [^61]: Ibid.
+
 [^62]: Britannica, "Justinian I - Byzantine Emperor, Law Reforms," https://www.britannica.com/biography/Justinian-I/Internal-policy
+
 [^63]: Ibid.
+
 [^64]: New World Encyclopedia, "Justinian I"
+
 [^65]: Catholic Encyclopedia, "Justinian I," https://www.newadvent.org/cathen/08578b.htm
+
 [^66]: Ibid.
+
 [^67]: Britannica, "Justinian I - Ecclesiastical Reform, Byzantine Empire, Law," https://www.britannica.com/biography/Justinian-I/Ecclesiastical-policy
+
 [^68]: New World Encyclopedia, "Justinian I"
+
 [^69]: J.B. Bury, "History of the Later Roman Empire • Vol. 2 Chap. XXII," https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/BURLAT/22*.html
+
 [^70]: Catholic Encyclopedia, "Justinian I"
+
 [^71]: New World Encyclopedia, "Justinian I"
+
 [^72]: Wikipedia, "Plague of Justinian," https://en.wikipedia.org/wiki/Plague_of_Justinian
+
 [^73]: Britannica, "Plague of Justinian"
+
 [^74]: Wikipedia, "Plague of Justinian"
+
 [^75]: Statista, "Plague of Justinian: estimated deaths in Constantinople 541," https://www.statista.com/statistics/1114268/justinian-plague-estimates-constantinople/
+
 [^76]: World History Encyclopedia, "Justinian's Plague (541-542 CE)," https://www.worldhistory.org/article/782/justinians-plague-541-542-ce/
+
 [^77]: Wikipedia, "Plague of Justinian"
+
 [^78]: PNAS, "The Justinianic Plague: An inconsequential pandemic?" https://www.pnas.org/doi/10.1073/pnas.1903797116
+
 [^79]: Ibid.
+
 [^80]: The Collector, "Justinian in Procopius' Secret History as 'A Demon in Human Form,'" https://www.thecollector.com/justinian-procopius-secret-history/
+
 [^81]: The Collector, "What Was Procopius' 'Secret History'? (& Why You Shouldn't Trust It)," https://www.thecollector.com/procopius-the-secret-history/
+
 [^82]: Ibid.
+
 [^83]: The Collector, "Justinian in Procopius' Secret History"
+
 [^84]: Ibid.
+
 [^85]: Ibid.
+
 [^86]: The Collector, "What Was Procopius' 'Secret History'?"
+
 [^87]: Wikipedia, "Theodora (wife of Justinian I)"
+
 [^88]: Ibid.
+
 [^89]: Ibid.
+
 [^90]: Ibid.
+
 [^91]: Ibid.
+
 [^92]: The Famous People, "Justinian I Biography"
+
 [^93]: Wikipedia, "Theodora (wife of Justinian I)"
+
 [^94]: Ibid.
+
 [^95]: Greek Reporter, "Byzantine Emperor Justinian and Theodora, the Ultimate Power Couple," https://greekreporter.com/2025/01/02/byzantine-emperor-justinian-theodora-power-couple/
+
 [^96]: Wikipedia, "Theodora (wife of Justinian I)"
+
 [^97]: Ibid.
+
 [^98]: Britannica, "Nika riots | Byzantine history," https://www.britannica.com/topic/Nika-riots
+
 [^99]: Wikipedia, "Theodora (wife of Justinian I)"
+
 [^100]: Ibid.
+
 [^101]: Ibid.
+
 [^102]: Charlotte Riggle, "Justinian and Theodora: A Love Story," https://charlotteriggle.com/justinian-and-theodora-a-love-story/
+
 [^103]: Culture Frontier, "Justinian I's Legacy and the Code of Justinian"
+
 [^104]: Ibid.
+
 [^105]: Wikipedia, "Justinian I"
+
 [^106]: Ibid.
+
 [^107]: Britannica, "Justinian I"
+
 [^108]: Wikipedia, "Justinian I"
+
 [^109]: Culture Frontier, "Justinian I's Legacy and the Code of Justinian"
+
 [^110]: Metropolitan Museum of Art, "The Byzantine State under Justinian I"
+
 [^111]: Culture Frontier, "Justinian I's Legacy and the Code of Justinian"
+
 [^112]: Ibid.
+
 [^113]: Britannica, "Roman law - Justinian Code, Civil Law, Corpus Juris Civilis"
+
 [^114]: Culture Frontier, "Justinian I's Legacy and the Code of Justinian"
+
 [^115]: ASCE, "Hagia Sophia"
+
 [^116]: Metropolitan Museum of Art, "The Byzantine State under Justinian I"
+
 [^117]: Smarthistory, "San Vitale and the Justinian and Theodora Mosaics," https://smarthistory.org/san-vitale/
+
 [^118]: Metropolitan Museum of Art, "The Byzantine State under Justinian I"
+
 [^119]: The Collector, "What Was Justinian's 'Reconquest'?"
+
 [^120]: Smithsonian Associates, "Emperor Justinian: Savior or Destroyer of the Roman Empire?" https://smithsonianassociates.org/ticketing/programs/emperor-justinian
+
 [^121]: Smithsonian Associates, "Emperor Justinian: Savior or Destroyer of the Roman Empire?"
+
 [^122]: Culture Frontier, "Justinian I's Legacy and the Code of Justinian"
+
 [^123]: Ibid.
+
 [^124]: Metropolitan Museum of Art, "Hagia Sophia, 532–37"
+
 [^125]: The Collector, "What Was Justinian's 'Reconquest'?"
+
 [^126]: Metropolitan Museum of Art, "The Byzantine State under Justinian I"
+
 [^127]: Britannica, "Justinian I - Byzantine Emperor, Law Reforms"
+
 [^128]: Britannica, "Justinian I - Ecclesiastical Reform, Byzantine Empire, Law"
+
 [^129]: Metropolitan Museum of Art, "The Byzantine State under Justinian I"
+
 [^130]: Smithsonian Associates, "Emperor Justinian: Savior or Destroyer of the Roman Empire?"
+
 [^131]: Britannica, "Byzantine Empire - Justinian I, Constantinople, Legacy"
+
 [^132]: The Collector, "What Was Justinian's 'Reconquest'?"
+
 [^133]: New World Encyclopedia, "Justinian I"
+
 [^134]: Wikipedia, "Justinian I"
+
 [^135]: Catholic Encyclopedia, "Justinian I"
+
 [^136]: The Collector, "Justinian in Procopius' Secret History"
+
 [^137]: Britannica, "Byzantine Empire - Justinian I, Constantinople, Legacy"
+
 [^138]: The Collector, "Justinian in Procopius' Secret History"
+
 [^139]: PNAS, "The Justinianic Plague: An inconsequential pandemic?"
+
 [^140]: Ibid.
+
 [^141]: Smithsonian Associates, "Emperor Justinian: Savior or Destroyer of the Roman Empire?"
+
 [^142]: Ibid.
+
 [^143]: A-Z Quotes, "TOP 8 QUOTES BY JUSTINIAN I," https://www.azquotes.com/author/31691-Justinian_I
+
 [^144]: Wikipedia, "Hagia Sophia"
+
 [^145]: A-Z Quotes, "TOP 8 QUOTES BY JUSTINIAN I"
+
 [^146]: Ibid.
+
 [^147]: Ibid.
+
 [^148]: Ibid.
+
 [^149]: Ibid.

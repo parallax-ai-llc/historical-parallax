@@ -65,7 +65,7 @@ After some initial reverses, French troops won a series of significant victories
 
 ### Cultural and Institutional Achievements
 
-Beyond military and political accomplishments, Louis XIII's reign witnessed significant cultural development. On the advice of Cardinal Richelieu, Louis established the Académie Française in 1635 for the development of the French language.[^61] The Académie remains to this day the official authority on the usages, vocabulary, and grammar of French, representing one of Louis XIII's most enduring legacies.[^62] 
+Beyond military and political accomplishments, Louis XIII's reign witnessed significant cultural development. On the advice of Cardinal Richelieu, Louis established the Académie Française in 1635 for the development of the French language.[^61] The Académie remains to this day the official authority on the usages, vocabulary, and grammar of French, representing one of Louis XIII's most enduring legacies.[^62]
 
 Louis XIII himself was a flute player, writer, and composer, serving as a great patron of art and culture.[^63] Despite his reserved personality, he had a deep appreciation for the arts, was instrumental in promoting classical music and ballet, and composed the "Ballet de la Merlaison" in 1635.[^64] Before his reign, promising French artists had to travel to Italy to study or work; Louis reversed that trend by commissioning painters Nicolas Poussin and Philippe de Champaigne to decorate the Louvre Palace, making France itself an attractive center for artistic production.[^65]
 
@@ -203,31 +203,31 @@ Detractors also point to Louis's historical reputation as inherently weak and ov
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1601 | Born September 27 at Château de Fontainebleau to King Henry IV and Marie de' Medici |
-| 1610 | Became King of France on May 14 following his father's assassination; aged 8 years old |
-| 1611 | Charles de Luynes entered the young king's service, becoming his closest confidant |
-| 1614 | Reached legal majority on October 2, though Marie de' Medici continued governing |
-| 1615 | Married Anne of Austria on November 24 in a political alliance with Spain |
-| 1617 | Coup d'état on April 24; Concino Concini assassinated; Marie de' Medici exiled to Blois |
-| 1619 | Marie de' Medici escaped from Blois and launched the "war of mother and son" |
-| 1621 | Death of Charles de Luynes from camp fever in December |
-| 1622 | Richelieu became a cardinal |
-| 1624 | Cardinal Richelieu became chief minister, beginning their 18-year partnership |
+| Year | Event                                                                                                                                                        |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1601 | Born September 27 at Château de Fontainebleau to King Henry IV and Marie de' Medici                                                                          |
+| 1610 | Became King of France on May 14 following his father's assassination; aged 8 years old                                                                       |
+| 1611 | Charles de Luynes entered the young king's service, becoming his closest confidant                                                                           |
+| 1614 | Reached legal majority on October 2, though Marie de' Medici continued governing                                                                             |
+| 1615 | Married Anne of Austria on November 24 in a political alliance with Spain                                                                                    |
+| 1617 | Coup d'état on April 24; Concino Concini assassinated; Marie de' Medici exiled to Blois                                                                      |
+| 1619 | Marie de' Medici escaped from Blois and launched the "war of mother and son"                                                                                 |
+| 1621 | Death of Charles de Luynes from camp fever in December                                                                                                       |
+| 1622 | Richelieu became a cardinal                                                                                                                                  |
+| 1624 | Cardinal Richelieu became chief minister, beginning their 18-year partnership                                                                                |
 | 1626 | First noble conspiracy against Richelieu involving Louis's brother Gaston; Richelieu abolished the position of Constable and ordered fortified castles razed |
-| 1627 | Siege of La Rochelle began against the Huguenot stronghold |
-| 1628 | La Rochelle surrendered after 14-month siege; Peace of Alais stripped Huguenots of political and military rights |
-| 1630 | Day of Dupes on November 10-11; Louis chose Richelieu over his mother Marie de' Medici, who was permanently exiled |
-| 1631 | Treaty of Bärwalde with Sweden; France agreed to pay subsidies for Swedish involvement in Thirty Years' War |
-| 1632 | Isaac de Razilly began colonization of Acadia at Richelieu's request |
-| 1635 | France formally entered the Thirty Years' War as a direct combatant; Académie Française established |
-| 1636 | Croquants' peasant revolt in southwestern France due to increased taxation |
-| 1638 | Birth of the Dauphin, the future Louis XIV, on September 5 (considered miraculous after 23 years of marriage) |
-| 1639 | Henri de Cinq-Mars became the king's new favorite |
-| 1640 | Birth of Philippe, Duke of Orleans, Louis's second son |
-| 1642 | Cinq-Mars conspiracy discovered; Cinq-Mars executed for treason on September 12; Cardinal Richelieu died on December 4 |
-| 1643 | Louis XIII died of tuberculosis on May 14 at Saint-Germain-en-Laye, aged 41; succeeded by his son Louis XIV, aged 4 |
+| 1627 | Siege of La Rochelle began against the Huguenot stronghold                                                                                                   |
+| 1628 | La Rochelle surrendered after 14-month siege; Peace of Alais stripped Huguenots of political and military rights                                             |
+| 1630 | Day of Dupes on November 10-11; Louis chose Richelieu over his mother Marie de' Medici, who was permanently exiled                                           |
+| 1631 | Treaty of Bärwalde with Sweden; France agreed to pay subsidies for Swedish involvement in Thirty Years' War                                                  |
+| 1632 | Isaac de Razilly began colonization of Acadia at Richelieu's request                                                                                         |
+| 1635 | France formally entered the Thirty Years' War as a direct combatant; Académie Française established                                                          |
+| 1636 | Croquants' peasant revolt in southwestern France due to increased taxation                                                                                   |
+| 1638 | Birth of the Dauphin, the future Louis XIV, on September 5 (considered miraculous after 23 years of marriage)                                                |
+| 1639 | Henri de Cinq-Mars became the king's new favorite                                                                                                            |
+| 1640 | Birth of Philippe, Duke of Orleans, Louis's second son                                                                                                       |
+| 1642 | Cinq-Mars conspiracy discovered; Cinq-Mars executed for treason on September 12; Cardinal Richelieu died on December 4                                       |
+| 1643 | Louis XIII died of tuberculosis on May 14 at Saint-Germain-en-Laye, aged 41; succeeded by his son Louis XIV, aged 4                                          |
 
 ---
 
@@ -246,189 +246,375 @@ Unfortunately, Louis XIII spoke little due to his stammer and was not known for 
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Louis_XIII
+
 [^2]: https://www.britannica.com/biography/Louis-XIII
+
 [^3]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^4]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^5]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^6]: https://www.unofficialroyalty.com/king-louis-xiii-of-france/
+
 [^7]: https://www.biography.com/royalty/louis-xiii
+
 [^8]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^9]: https://www.encyclopedia.com/people/history/french-history-biographies/louis-xiii
+
 [^10]: https://www.historylearningsite.co.uk/france-in-the-seventeenth-century/louis-xiii-of-france/
+
 [^11]: https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^12]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^13]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^14]: https://www.britannica.com/place/France/Louis-XIII
+
 [^15]: https://www.encyclopedia.com/people/history/french-history-biographies/louis-xiii
+
 [^16]: https://crrs.library.utoronto.ca/exhibits/show/cardinalrichelieu/louis13
+
 [^17]: https://www.britannica.com/place/France/Louis-XIII
+
 [^18]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^19]: https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^20]: https://www.ebsco.com/research-starters/history/marie-de-medicis
+
 [^21]: https://www.historylearningsite.co.uk/france-in-the-sixteenth-century/henry-iv/marie-de-medici/
+
 [^22]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^23]: https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^24]: https://www.ebsco.com/research-starters/history/marie-de-medicis
+
 [^25]: https://crrs.library.utoronto.ca/exhibits/show/cardinalrichelieu/mariem
+
 [^26]: https://www.encyclopedia.com/people/history/french-history-biographies/louis-xiii
+
 [^27]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^28]: https://www.britannica.com/biography/Louis-XIII
+
 [^29]: https://en.chateauversailles.fr/discover/history/key-dates/day-dupes-1630
+
 [^30]: https://pressbooks.nvcc.edu/wcchv2/chapter/volume-2-chapter-8-absolutism/
+
 [^31]: https://www.britannica.com/place/France/Louis-XIII
+
 [^32]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^33]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^34]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^35]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^36]: https://oercommons.org/courseware/lesson/87873/student-old/
+
 [^37]: https://www.britannica.com/place/France/Louis-XIII
+
 [^38]: https://en.wikipedia.org/wiki/Siege_of_La_Rochelle
+
 [^39]: https://www.ebsco.com/research-starters/history/huguenot-rebellions
+
 [^40]: https://www.worldhistory.org/article/2217/la-rochelle-a-protestant-stronghold-of-the-french/
+
 [^41]: https://www.thecollector.com/siege-of-la-rochelle-battle/
+
 [^42]: https://en.wikipedia.org/wiki/Siege_of_La_Rochelle
+
 [^43]: https://military-history.fandom.com/wiki/Siege_of_La_Rochelle
+
 [^44]: https://www.thecollector.com/siege-of-la-rochelle-battle/
+
 [^45]: https://warhistory.org/@msw/article/siege-of-la-rochelle
+
 [^46]: https://en.wikipedia.org/wiki/Siege_of_La_Rochelle
+
 [^47]: https://www.thecollector.com/siege-of-la-rochelle-battle/
+
 [^48]: https://www.ebsco.com/research-starters/history/huguenot-rebellions
+
 [^49]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^50]: https://www.britannica.com/biography/Louis-XIII
+
 [^51]: https://tnsr.org/2019/06/raison-detat-richelieus-grand-strategy-during-the-thirty-years-war/
+
 [^52]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^53]: https://tnsr.org/2019/06/raison-detat-richelieus-grand-strategy-during-the-thirty-years-war/
+
 [^54]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^55]: https://www.britannica.com/place/France/Louis-XIII
+
 [^56]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^57]: https://www.britannica.com/place/France/Louis-XIII
+
 [^58]: https://www.britannica.com/place/France/Louis-XIII
+
 [^59]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^60]: https://warhistory.org/@msw/article/military-hegemony-of-france
+
 [^61]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^62]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^63]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^64]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^65]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^66]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^67]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^68]: https://www.historylearningsite.co.uk/france-in-the-seventeenth-century/richelieu-and-the-military/
+
 [^69]: https://www.britannica.com/place/France/Military-reforms
+
 [^70]: https://www.historylearningsite.co.uk/france-in-the-seventeenth-century/richelieu-and-the-military/
+
 [^71]: https://www.historylearningsite.co.uk/france-in-the-seventeenth-century/richelieu-and-the-military/
+
 [^72]: https://en.wikipedia.org/wiki/Louis_XIII
+
 [^73]: https://warhistory.org/@msw/article/military-hegemony-of-france
+
 [^74]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/company-new-france
+
 [^75]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/company-new-france
+
 [^76]: https://www.britannica.com/place/France/Louis-XIII
+
 [^77]: https://museeprotestant.org/en/notice/the-first-canadian-colony-acadia/
+
 [^78]: https://en.wikipedia.org/wiki/New_France
+
 [^79]: https://www.britannica.com/place/France/Louis-XIII
+
 [^80]: https://www.britannica.com/place/France/Louis-XIII
+
 [^81]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^82]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^83]: https://www.britannica.com/biography/Louis-XIII
+
 [^84]: https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^85]: https://www.britannica.com/place/France/Louis-XIII
+
 [^86]: https://mises.org/mises-daily/peasants-rise-croquants-17th-century
+
 [^87]: https://www.britannica.com/place/France/Louis-XIII
+
 [^88]: https://www.britannica.com/place/France/Louis-XIII
+
 [^89]: https://mises.org/mises-daily/peasants-rise-croquants-17th-century
+
 [^90]: https://mises.org/mises-daily/peasants-rise-croquants-17th-century
+
 [^91]: https://www.britannica.com/place/France/Louis-XIII
+
 [^92]: https://www.britannica.com/place/France/Louis-XIII
+
 [^93]: https://www.britannica.com/biography/Louis-XIII
+
 [^94]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^95]: https://www.britannica.com/biography/Henri-Coiffier-de-Ruze-marquis-de-Cinq-Mars
+
 [^96]: https://en.chateauversailles.fr/discover/history/key-dates/day-dupes-1630
+
 [^97]: https://en.wikipedia.org/wiki/Day_of_the_Dupes
+
 [^98]: https://en.chateauversailles.fr/discover/history/key-dates/day-dupes-1630
+
 [^99]: https://www.britannica.com/event/Day-of-the-Dupes
+
 [^100]: https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^101]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^102]: https://www.britannica.com/place/France/Louis-XIII
+
 [^103]: https://www.britannica.com/biography/Louis-XIII
+
 [^104]: https://crrs.library.utoronto.ca/exhibits/show/cardinalrichelieu/louis13
+
 [^105]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^106]: https://en.wikipedia.org/wiki/Anne_of_Austria
+
 [^107]: https://www.britannica.com/biography/Anne-of-Austria
+
 [^108]: https://www.worldhistory.org/Anne_of_Austria/
+
 [^109]: https://www.factinate.com/people/anne-of-austria-tormented-queen
+
 [^110]: https://www.ebsco.com/research-starters/history/anne-austria
+
 [^111]: https://www.worldhistory.org/Anne_of_Austria/
+
 [^112]: https://www.britannica.com/biography/Anne-of-Austria
+
 [^113]: https://www.worldhistory.org/Anne_of_Austria/
+
 [^114]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^115]: https://en.wikipedia.org/wiki/Anne_of_Austria
+
 [^116]: https://www.factinate.com/people/anne-of-austria-tormented-queen
+
 [^117]: https://en.wikipedia.org/wiki/Anne_of_Austria
+
 [^118]: https://www.worldhistory.org/Anne_of_Austria/
+
 [^119]: https://www.britannica.com/biography/Anne-of-Austria
+
 [^120]: https://www.britannica.com/biography/Anne-of-Austria
+
 [^121]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^122]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^123]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^124]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^125]: https://www.britannica.com/biography/Henri-Coiffier-de-Ruze-marquis-de-Cinq-Mars
+
 [^126]: https://www.bartleby.com/lit-hub/samuel-arthur-bent/louis-xiii/
+
 [^127]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^128]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^129]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^130]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^131]: https://www.biography.com/royalty/louis-xiii
+
 [^132]: https://en.wikipedia.org/wiki/Siege_of_La_Rochelle
+
 [^133]: https://crrs.library.utoronto.ca/exhibits/show/cardinalrichelieu/louis13
+
 [^134]: https://www.britannica.com/place/France/Louis-XIII
+
 [^135]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^136]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^137]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^138]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^139]: https://oercommons.org/courseware/lesson/87873/student-old/
+
 [^140]: https://pressbooks.nvcc.edu/wcchv2/chapter/volume-2-chapter-8-absolutism/
+
 [^141]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^142]: https://www.britannica.com/place/France/Louis-XIII
+
 [^143]: https://www.historylearningsite.co.uk/the-thirty-years-war/france-and-the-thirty-years-war/
+
 [^144]: https://tnsr.org/2019/06/raison-detat-richelieus-grand-strategy-during-the-thirty-years-war/
+
 [^145]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^146]: https://tnsr.org/2019/06/raison-detat-richelieus-grand-strategy-during-the-thirty-years-war/
+
 [^147]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^148]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^149]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^150]: https://www.encyclopedia.com/people/history/french-history-biographies/louis-xiii
+
 [^151]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^152]: https://www.britannica.com/place/France/Louis-XIII
+
 [^153]: https://mises.org/mises-daily/peasants-rise-croquants-17th-century
+
 [^154]: https://www.britannica.com/place/France/Louis-XIII
+
 [^155]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^156]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^157]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^158]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^159]: https://en.chateauversailles.fr/discover/history/key-dates/day-dupes-1630
+
 [^160]: https://www.britannica.com/biography/Henri-Coiffier-de-Ruze-marquis-de-Cinq-Mars
+
 [^161]: https://en.wikipedia.org/wiki/Siege_of_La_Rochelle
+
 [^162]: https://www.thefamouspeople.com/profiles/louis-xiii-of-france-6768.php
+
 [^163]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^164]: https://www.britannica.com/place/France/Louis-XIII
+
 [^165]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^166]: https://en.wikipedia.org/wiki/Louis_XIII
+
 [^167]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^168]: https://www.ebsco.com/research-starters/history/reign-louis-xiii
+
 [^169]: https://en.chateauversailles.fr/discover/history/key-dates/day-dupes-1630
+
 [^170]: https://www.britannica.com/place/France/Louis-XIII
+
 [^171]: http://www.glbtqarchive.com/ssh/louis_XIII_S.pdf
+
 [^172]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^173]: https://mises.org/mises-daily/peasants-rise-croquants-17th-century
+
 [^174]: https://www.britannica.com/place/France/Louis-XIII
+
 [^175]: https://mises.org/mises-daily/peasants-rise-croquants-17th-century
+
 [^176]: https://en.wikipedia.org/wiki/Marie_de'_Medici
+
 [^177]: https://www.worldhistory.org/Anne_of_Austria/
+
 [^178]: https://www.ebsco.com/research-starters/history/huguenot-rebellions
+
 [^179]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^180]: https://www.confinity.com/legacies/louis-xiii-of-france
+
 [^181]: https://crrs.library.utoronto.ca/exhibits/show/cardinalrichelieu/louis13
+
 [^182]: https://worldhistoryedu.com/louis-xiii-of-france/
+
 [^183]: https://en.wikiquote.org/wiki/Louis_XIII
+
 [^184]: https://www.bartleby.com/lit-hub/samuel-arthur-bent/louis-xiii/
+
 [^185]: https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/france-and-cardinal-richelieu/
+
 [^186]: https://www.bartleby.com/lit-hub/samuel-arthur-bent/louis-xiii/
+
 [^187]: https://en.wikiquote.org/wiki/Louis_XIII

@@ -131,25 +131,25 @@ Critics also note that the dramatic circumstances of Vargas's suicide and his Ca
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1882 | Born on April 19 in São Borja, Rio Grande do Sul |
-| 1898 | Joined the army at age 16 |
-| 1908 | Graduated from Porto Alegre Law School |
-| 1910 | Became state attorney general of Rio Grande do Sul |
-| 1911 | Married Darci Lima Sarmanho in March |
-| 1926 | Appointed Minister of Finance under President Washington Luís |
-| 1928 | Elected Governor of Rio Grande do Sul |
+| Year | Event                                                                                             |
+| ---- | ------------------------------------------------------------------------------------------------- |
+| 1882 | Born on April 19 in São Borja, Rio Grande do Sul                                                  |
+| 1898 | Joined the army at age 16                                                                         |
+| 1908 | Graduated from Porto Alegre Law School                                                            |
+| 1910 | Became state attorney general of Rio Grande do Sul                                                |
+| 1911 | Married Darci Lima Sarmanho in March                                                              |
+| 1926 | Appointed Minister of Finance under President Washington Luís                                     |
+| 1928 | Elected Governor of Rio Grande do Sul                                                             |
 | 1930 | Lost presidential election; led revolution in October; became provisional president on November 3 |
-| 1933 | Introduced Brazil's first comprehensive labor laws |
-| 1934 | Elected president by constituent assembly on July 17 |
-| 1937 | Implemented coup d'état on November 10; established Estado Novo dictatorship |
-| 1942 | Brazil joined the Allies in World War II |
-| 1943 | Promulgated Consolidation of Labor Laws (CLT) on May 1 |
-| 1945 | Ousted from power on October 29 after 15 years of rule |
-| 1950 | Won democratic presidential election |
-| 1951 | Inaugurated for second presidency on January 31 |
-| 1954 | Committed suicide on August 24 at Catete Palace; Carta Testamento broadcast to the nation |
+| 1933 | Introduced Brazil's first comprehensive labor laws                                                |
+| 1934 | Elected president by constituent assembly on July 17                                              |
+| 1937 | Implemented coup d'état on November 10; established Estado Novo dictatorship                      |
+| 1942 | Brazil joined the Allies in World War II                                                          |
+| 1943 | Promulgated Consolidation of Labor Laws (CLT) on May 1                                            |
+| 1945 | Ousted from power on October 29 after 15 years of rule                                            |
+| 1950 | Won democratic presidential election                                                              |
+| 1951 | Inaugurated for second presidency on January 31                                                   |
+| 1954 | Committed suicide on August 24 at Catete Palace; Carta Testamento broadcast to the nation         |
 
 ---
 
@@ -170,105 +170,207 @@ Critics also note that the dramatic circumstances of Vargas's suicide and his Ca
 ## References
 
 [^1]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^2]: [Getúlio Vargas | Brazilian President & Dictator | Britannica](https://www.britannica.com/biography/Getulio-Vargas)
+
 [^3]: [Brazil - Vargas Era, Politics, Economy | Britannica](https://www.britannica.com/place/Brazil/The-Vargas-era)
+
 [^4]: [Carta Testamento - Wikipedia](https://en.wikipedia.org/wiki/Carta_Testamento)
+
 [^5]: [Vargas, Getúlio Dornelles (1883–1954) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/vargas-getulio-dornelles-1883-1954)
+
 [^6]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^7]: [Getulio Vargas biography. Brazilian politician.](https://biographs.org/getulio-vargas)
+
 [^8]: [Getúlio Vargas facts for kids](https://kids.kiddle.co/Get%C3%BAlio_Vargas)
+
 [^9]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^10]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^11]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^12]: [Getúlio Vargas facts for kids](https://kids.kiddle.co/Get%C3%BAlio_Vargas)
+
 [^13]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^14]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^15]: [Getúlio Vargas | Brazilian President & Dictator | Britannica](https://www.britannica.com/biography/Getulio-Vargas)
+
 [^16]: [Getulio Dornelles Vargas | Encyclopedia.com](https://www.encyclopedia.com/people/history/brazilian-history-biographies/getulio-dornelles-vargas)
+
 [^17]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^18]: [Brazil - The Era of Getúlio Vargas, 1930-54](https://countrystudies.us/brazil/16.htm)
+
 [^19]: [Getúlio Vargas | Brazilian President & Dictator | Britannica](https://www.britannica.com/biography/Getulio-Vargas)
+
 [^20]: [Getulio Dornelles Vargas | Encyclopedia.com](https://www.encyclopedia.com/people/history/brazilian-history-biographies/getulio-dornelles-vargas)
+
 [^21]: [Brazil - The Era of Getúlio Vargas, 1930-54](https://countrystudies.us/brazil/16.htm)
+
 [^22]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^23]: [Getúlio Vargas | Brazilian President & Dictator | Britannica](https://www.britannica.com/biography/Getulio-Vargas)
+
 [^24]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^25]: [Estado Novo | Military Dictatorship, Authoritarianism & Fascism | Britannica](https://www.britannica.com/topic/Estado-Novo-Brazilian-history)
-[^26]: [Estado Novo (Brazil) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Brazil))
+
+[^26]: [Estado Novo (Brazil) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)>)
+
 [^27]: [Vargas era - Wikipedia](https://en.wikipedia.org/wiki/Vargas_Era)
+
 [^28]: [Cartels, Cooperatives, and Corporatism: Getúlio Vargas in Rio Grande do Sul on the Eve of Brazil's 1930 Revolution | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/63/2/255/149609/Cartels-Cooperatives-and-Corporatism-Getulio)
+
 [^29]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^30]: [Getúlio Vargas | President of Brazil | All Worlds Presidents](https://allworldspresidents.com/president/getulio-vargas/)
+
 [^31]: [From the First Republic to Getúlio Vargas and Michel Temer: history and memory of labor laws](https://panoramainternacional.fee.tche.br/en/article/da-primeira-republica-a-michel-temer-passando-por-vargas-historias-e-memorias-das-leis-trabalhistas/)
+
 [^32]: [What is Vargas' complex legacy in Brazil's history](https://cteec.org/vargas/)
+
 [^33]: [Getúlio Vargas | President of Brazil | All Worlds Presidents](https://allworldspresidents.com/president/getulio-vargas/)
+
 [^34]: [Getúlio Vargas Definition - Latin American History](https://fiveable.me/key-terms/latin-america-1791-present/getulio-vargas)
+
 [^35]: [The Vargas Era (1930-1945) - Brazil-U.S. Relations](https://guides.loc.gov/brazil-us-relations/getulio-vargas-era)
+
 [^36]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^37]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^38]: [The Vargas Era (1930-1945) - Brazil-U.S. Relations](https://guides.loc.gov/brazil-us-relations/getulio-vargas-era)
+
 [^39]: [The Vargas Era (1930-1945) - Brazil-U.S. Relations](https://guides.loc.gov/brazil-us-relations/getulio-vargas-era)
+
 [^40]: [Brazil - The Era of Getúlio Vargas, 1930-54](https://countrystudies.us/brazil/16.htm)
-[^41]: [Estado Novo (Brazil) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Brazil))
-[^42]: [Estado Novo (Brazil) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Brazil))
+
+[^41]: [Estado Novo (Brazil) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)>)
+
+[^42]: [Estado Novo (Brazil) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)>)
+
 [^43]: [The Vargas Era (1930-1945) - Brazil-U.S. Relations](https://guides.loc.gov/brazil-us-relations/getulio-vargas-era)
+
 [^44]: [Vargas era - Wikipedia](https://en.wikipedia.org/wiki/Vargas_Era)
+
 [^45]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
-[^46]: [Estado Novo (Brazil) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Brazil))
+
+[^46]: [Estado Novo (Brazil) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)>)
+
 [^47]: [Echoes of Slavery in the Brazilian Work Ethics](https://www.iea.usp.br/en/news/echoes-of-slavery-in-the-brazilian-work-ethics)
+
 [^48]: [Return of Vargas | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-6/return-of-vargus/)
+
 [^49]: [Return of Vargas | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-6/return-of-vargus/)
+
 [^50]: [Return of Vargas | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-6/return-of-vargus/)
+
 [^51]: [Getúlio Vargas and the Making of Restrictive Migratory Policies in Post-1930 Brazil | MDPI](https://www.mdpi.com/2076-0760/13/1/57)
+
 [^52]: [The Vargas Era (1930-1945) - Brazil-U.S. Relations](https://guides.loc.gov/brazil-us-relations/getulio-vargas-era)
+
 [^53]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^54]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^55]: [Getúlio Vargas facts for kids](https://kids.kiddle.co/Get%C3%BAlio_Vargas)
+
 [^56]: [Darci Vargas - Wikipedia](https://en.wikipedia.org/wiki/Darcy_Vargas)
+
 [^57]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^58]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^59]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^60]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^61]: [Alzira Vargas do Amaral Peixoto: guardian of the archives of the Vargas and Amaral Peixoto families](https://portal.fgv.br/en/news/alzira-vargas-amaral-peixoto-guardian-archives-vargas-and-amaral-peixoto-families)
+
 [^62]: [Alzira Vargas do Amaral Peixoto: guardian of the archives of the Vargas and Amaral Peixoto families](https://portal.fgv.br/en/news/alzira-vargas-amaral-peixoto-guardian-archives-vargas-and-amaral-peixoto-families)
+
 [^63]: [Getúlio Vargas - Pensador](https://www.pensador.com/autor/getulio_vargas/)
+
 [^64]: [Brazil - The Era of Getúlio Vargas, 1930-54](https://countrystudies.us/brazil/16.htm)
+
 [^65]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^66]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^67]: [What is Vargas' complex legacy in Brazil's history](https://cteec.org/vargas/)
+
 [^68]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^69]: [What is Vargas' complex legacy in Brazil's history](https://cteec.org/vargas/)
+
 [^70]: [Getúlio Vargas - Wikipedia](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas)
+
 [^71]: [Carta Testamento - Wikipedia](https://en.wikipedia.org/wiki/Carta_Testamento)
+
 [^72]: ["I Choose This Means to Be With You Always": Getúlio Vargas's Carta Testamento | SpringerLink](https://link.springer.com/chapter/10.1057/9780230601758_9)
+
 [^73]: [Carta Testamento - Wikipedia](https://en.wikipedia.org/wiki/Carta_Testamento)
+
 [^74]: [Carta Testamento - Wikipedia](https://en.wikipedia.org/wiki/Carta_Testamento)
+
 [^75]: [Brazil - The Era of Getúlio Vargas, 1930-54](https://countrystudies.us/brazil/16.htm)
+
 [^76]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^77]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^78]: [What is Vargas' complex legacy in Brazil's history](https://cteec.org/vargas/)
+
 [^79]: [Brazil - Vargas Era, Politics, Economy | Britannica](https://www.britannica.com/place/Brazil/The-Vargas-era)
+
 [^80]: [Getúlio Vargas and Brazil's Industrial Workers, 1930-1945](https://warwick.ac.uk/fac/arts/history/students/modules/hi2f1/programme/seminar14/wolfe_joel_the_faustian_bargain_not_made_1930-1945.pdf)
+
 [^81]: [The Vargas Era (1930-1945) - Brazil-U.S. Relations](https://guides.loc.gov/brazil-us-relations/getulio-vargas-era)
+
 [^82]: [Return of Vargas | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-6/return-of-vargus/)
+
 [^83]: [Estado Novo | Military Dictatorship, Authoritarianism & Fascism | Britannica](https://www.britannica.com/topic/Estado-Novo-Brazilian-history)
+
 [^84]: [The Overthrow of Getúlio Vargas in 1945: Diplomatic Intervention, Defense of Democracy, or Political Retribution? | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/67/1/1/147730/The-Overthrow-of-Getulio-Vargas-in-1945-Diplomatic)
+
 [^85]: [Cartels, Cooperatives, and Corporatism: Getúlio Vargas in Rio Grande do Sul on the Eve of Brazil's 1930 Revolution | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/63/2/255/149609/Cartels-Cooperatives-and-Corporatism-Getulio)
+
 [^86]: ["Vargas Morto: The Death and Life of a Brazilian Statesman"](https://historiapolitica.com/datos/biblioteca/muerte%20y%20politica_weinstein.pdf)
-[^87]: [Estado Novo (Brazil) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Brazil))
-[^88]: [Estado Novo (Brazil) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Brazil))
+
+[^87]: [Estado Novo (Brazil) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)>)
+
+[^88]: [Estado Novo (Brazil) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)>)
+
 [^89]: [Echoes of Slavery in the Brazilian Work Ethics](https://www.iea.usp.br/en/news/echoes-of-slavery-in-the-brazilian-work-ethics)
+
 [^90]: [Center for a Stateless Society » How Getúlio Vargas Seized the Brazilian Labor Day](https://c4ss.org/content/27028)
-[^91]: [Estado Novo (Brazil) - Wikipedia](https://en.wikipedia.org/wiki/Estado_Novo_(Brazil))
+
+[^91]: [Estado Novo (Brazil) - Wikipedia](<https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)>)
+
 [^92]: [Getúlio Vargas and the Making of Restrictive Migratory Policies in Post-1930 Brazil | MDPI](https://www.mdpi.com/2076-0760/13/1/57)
+
 [^93]: [Return of Vargas | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-6/return-of-vargus/)
+
 [^94]: [Return of Vargas | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-6/return-of-vargus/)
+
 [^95]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^96]: [Brazil Under Vargas](https://library.brown.edu/create/brazilundervargas/)
+
 [^97]: [Carta Testamento - Wikipedia](https://en.wikipedia.org/wiki/Carta_Testamento)
+
 [^98]: ["I Choose This Means to Be With You Always": Getúlio Vargas's Carta Testamento | SpringerLink](https://link.springer.com/chapter/10.1057/9780230601758_9)
+
 [^99]: [A quote by Getúlio Vargas](https://www.goodreads.com/quotes/161170-each-drop-of-my-blood-will-be-an-immortal-flame)
+
 [^100]: [Farewell Messages of Getúlio Vargas | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/44/4/551/159186/Farewell-Messages-of-Getulio-Vargas)
+
 [^101]: [Carta Testamento - Wikipedia](https://en.wikipedia.org/wiki/Carta_Testamento)
+
 [^102]: [Getúlio Vargas - Pensador](https://www.pensador.com/autor/getulio_vargas/)
+
 [^103]: [Quotes: Getúlio Vargas - Over The Andes](https://overtheandes.com/2018/06/11/quotes-getulio-vargas/)

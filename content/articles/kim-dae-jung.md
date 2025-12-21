@@ -4,7 +4,8 @@ name: "Kim Dae-jung"
 birth: "1924-01-06"
 death: "2009-08-18"
 nationality: "South Korea"
-occupation: ["President of South Korea", "Pro-democracy Activist", "Politician", "Human Rights Advocate"]
+occupation:
+  ["President of South Korea", "Pro-democracy Activist", "Politician", "Human Rights Advocate"]
 image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Kim_Dae-jung_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Dae-jung"
@@ -155,27 +156,27 @@ Conservative voices in South Korea view Kim's alliance with Kim Jong-pil—a for
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1924 | Born on January 6 in Hugwang-ri, Hauido Island, South Jeolla Province |
-| 1943 | Graduated from Mokpo Commercial High School |
-| 1954 | Entered politics |
-| 1961 | Elected to National Assembly; assembly dissolved three days later by Park Chung-hee's military coup |
-| 1962 | Married Lee Hee-ho |
+| Year | Event                                                                                                                           |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1924 | Born on January 6 in Hugwang-ri, Hauido Island, South Jeolla Province                                                           |
+| 1943 | Graduated from Mokpo Commercial High School                                                                                     |
+| 1954 | Entered politics                                                                                                                |
+| 1961 | Elected to National Assembly; assembly dissolved three days later by Park Chung-hee's military coup                             |
+| 1962 | Married Lee Hee-ho                                                                                                              |
 | 1971 | Ran for president against Park Chung-hee, garnered 46% of vote; survived assassination attempt that permanently injured his hip |
-| 1973 | Kidnapped by KCIA agents in Tokyo on August 8; released five days later in Seoul |
-| 1980 | Arrested on charges of sedition; sentenced to death in September |
-| 1981 | Death sentence commuted to life imprisonment following international pressure |
-| 1982 | Released on suspended sentence |
-| 1987 | Ran unsuccessfully for president |
-| 1992 | Ran unsuccessfully for president again |
-| 1997 | Elected president in December during Asian Financial Crisis |
-| 1998 | Inaugurated as eighth President of South Korea in February at age 74 |
-| 1999 | South Korea repaid $13.5 billion to IMF in September, ahead of schedule |
-| 2000 | Historic inter-Korean summit with Kim Jong-il in Pyongyang, June 13-15; awarded Nobel Peace Prize in October |
-| 2001 | Final IMF loan repayment completed in August |
-| 2003 | Completed presidential term; cash-for-summit scandal revealed |
-| 2009 | Died on August 18 at age 85 |
+| 1973 | Kidnapped by KCIA agents in Tokyo on August 8; released five days later in Seoul                                                |
+| 1980 | Arrested on charges of sedition; sentenced to death in September                                                                |
+| 1981 | Death sentence commuted to life imprisonment following international pressure                                                   |
+| 1982 | Released on suspended sentence                                                                                                  |
+| 1987 | Ran unsuccessfully for president                                                                                                |
+| 1992 | Ran unsuccessfully for president again                                                                                          |
+| 1997 | Elected president in December during Asian Financial Crisis                                                                     |
+| 1998 | Inaugurated as eighth President of South Korea in February at age 74                                                            |
+| 1999 | South Korea repaid $13.5 billion to IMF in September, ahead of schedule                                                         |
+| 2000 | Historic inter-Korean summit with Kim Jong-il in Pyongyang, June 13-15; awarded Nobel Peace Prize in October                    |
+| 2001 | Final IMF loan repayment completed in August                                                                                    |
+| 2003 | Completed presidential term; cash-for-summit scandal revealed                                                                   |
+| 2009 | Died on August 18 at age 85                                                                                                     |
 
 ---
 
@@ -196,92 +197,181 @@ Conservative voices in South Korea view Kim's alliance with Kim Jong-pil—a for
 ## References
 
 [^1]: Britannica. "Kim Dae-Jung | Biography, Achievements, & Nobel Prize." https://www.britannica.com/biography/Kim-Dae-Jung
+
 [^2]: Wikipedia. "Kim Dae-jung." https://en.wikipedia.org/wiki/Kim_Dae-jung
+
 [^3]: NobelPrize.org. "The Nobel Peace Prize 2000 - Press Release." https://www.nobelprize.org/prizes/peace/2000/press-release/
+
 [^4]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^5]: NobelPrize.org. "Kim Dae-jung – Biographical." https://www.nobelprize.org/prizes/peace/2000/dae-jung/biographical/
+
 [^6]: EBSCO Research. "Kim Dae Jung | Research Starters." https://www.ebsco.com/research-starters/biography/kim-dae-jung
+
 [^7]: Facts and Details. "KIM DAE JUNG: HIS LIFE, POLITICAL CAREER AND BRUSHES WITH DEATH." https://factsanddetails.com/korea/south_korea/modern_history/entry-7189.html
+
 [^8]: New World Encyclopedia. "Kim Dae-jung." https://www.newworldencyclopedia.org/entry/Kim_Dae-jung
+
 [^9]: Encyclopedia.com. "Kim Dae Jung." https://www.encyclopedia.com/people/history/korean-history-biographies/kim-dae-jung
+
 [^10]: Britannica Kids. "Kim Dae Jung - Students." https://kids.britannica.com/students/article/Kim-Dae-Jung/311994
+
 [^11]: GlobalSecurity.org. "President Kim Dae-jung [1998-2003]." https://www.globalsecurity.org/military/world/rok/president-kim-dae-jung.htm
+
 [^12]: Association for Asian Studies. "Kim Dae-jung's Role in the Democratization of South Korea." https://www.asianstudies.org/publications/eaa/archives/kim-dae-jungs-role-in-the-democratization-of-south-korea/
+
 [^13]: NobelPrize.org. "Kim Dae-jung – Biographical." https://www.nobelprize.org/prizes/peace/2000/dae-jung/biographical/
+
 [^14]: EBSCO Research. "Kim Dae Jung | Research Starters." https://www.ebsco.com/research-starters/biography/kim-dae-jung
+
 [^15]: Association for Asian Studies. "Kim Dae-jung's Role in the Democratization of South Korea." https://www.asianstudies.org/publications/eaa/archives/kim-dae-jungs-role-in-the-democratization-of-south-korea/
+
 [^16]: NobelPrize.org. "Kim Dae-jung – Biographical." https://www.nobelprize.org/prizes/peace/2000/dae-jung/biographical/
+
 [^17]: Wikipedia. "Kim Dae-jung." https://en.wikipedia.org/wiki/Kim_Dae-jung
+
 [^18]: The Korea Herald. "Lee Hee-ho, widow of ex-President Kim Dae-jung, dies at 97." https://www.koreaherald.com/article/2020416
+
 [^19]: Wikipedia. "Kim Dae-jung." https://en.wikipedia.org/wiki/Kim_Dae-jung
+
 [^20]: Britannica. "Kim Dae-Jung | Biography, Achievements, & Nobel Prize." https://www.britannica.com/biography/Kim-Dae-Jung
+
 [^21]: GlobalSecurity.org. "President Kim Dae-jung [1998-2003]." https://www.globalsecurity.org/military/world/rok/president-kim-dae-jung.htm
+
 [^22]: Korea Economic Institute. "South Korea 20 Years After the IMF Rescue Package." https://keia.org/the-peninsula/south-korea-20-years-after-the-imf-rescue-package/
+
 [^23]: The Korea Herald. "From 'miracle to debacle': Painful 'IMF days' of 1997-1998." https://www.koreaherald.com/article/3212370
+
 [^24]: ICMR India. "South Korea's Economic Crisis - Role of IMF and President Kim in the Recovery." https://www.icmrindia.org/casestudies/catalogue/Economics/rebounding-after-crisis-case.htm
+
 [^25]: Britannica. "Kim Dae-Jung | Biography, Achievements, & Nobel Prize." https://www.britannica.com/biography/Kim-Dae-Jung
+
 [^26]: ICMR India. "South Korea's Economic Crisis - Role of IMF and President Kim in the Recovery." https://www.icmrindia.org/casestudies/catalogue/Economics/rebounding-after-crisis-case.htm
+
 [^27]: ICMR India. "South Korea's Economic Crisis - Role of IMF and President Kim in the Recovery." https://www.icmrindia.org/casestudies/catalogue/Economics/rebounding-after-crisis-case.htm
+
 [^28]: ICMR India. "South Korea's Economic Crisis - Role of IMF and President Kim in the Recovery." https://www.icmrindia.org/casestudies/catalogue/Economics/rebounding-after-crisis-case.htm
+
 [^29]: Stanford University. "Korea and the Asian Financial Crisis." https://web.stanford.edu/class/e297c/trade_environment/global/hkorea.html
+
 [^30]: Britannica. "Kim Dae-Jung | Biography, Achievements, & Nobel Prize." https://www.britannica.com/biography/Kim-Dae-Jung
+
 [^31]: The Korea Herald. "From 'miracle to debacle': Painful 'IMF days' of 1997-1998." https://www.koreaherald.com/article/3212370
+
 [^32]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^33]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^34]: Britannica. "Kim Dae-Jung | Biography, Achievements, & Nobel Prize." https://www.britannica.com/biography/Kim-Dae-Jung
+
 [^35]: NobelPrize.org. "Kim Dae-jung – Biographical." https://www.nobelprize.org/prizes/peace/2000/dae-jung/biographical/
+
 [^36]: NobelPrize.org. "Kim Dae-jung – Speed read." https://www.nobelprize.org/prizes/peace/2000/dae-jung/speedread/
+
 [^37]: NobelPrize.org. "Kim Dae-jung – Speed read." https://www.nobelprize.org/prizes/peace/2000/dae-jung/speedread/
+
 [^38]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^39]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^40]: Amnesty International. "Kim Dae-jung, human rights champion and former South Korean president, dies." https://www.amnesty.org/en/latest/news/2009/08/kim-dae-jung-human-rights-champion-and-former-south-korean-president-dies-200908/
+
 [^41]: A-Z Quotes. "TOP 18 QUOTES BY KIM DAE-JUNG." https://www.azquotes.com/author/24465-Kim_Dae_jung
+
 [^42]: NobelPrize.org. "Kim Dae-jung – Nobel Lecture." https://www.nobelprize.org/prizes/peace/2000/dae-jung/lecture/
+
 [^43]: The Seattle Times. "Some memorable quotes from Kim Dae-jung." https://www.seattletimes.com/nation-world/some-memorable-quotes-from-kim-dae-jung/
+
 [^44]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^45]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^46]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^47]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^48]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^49]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^50]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^51]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^52]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^53]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^54]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^55]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^56]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^57]: New World Encyclopedia. "Kim Dae-jung." https://www.newworldencyclopedia.org/entry/Kim_Dae-jung
+
 [^58]: The Korea Herald. "Lee Hee-ho, widow of ex-President Kim Dae-jung, dies at 97." https://www.koreaherald.com/article/2020416
+
 [^59]: The Korea Times. "Former President Kim Dae-jung's wife, political partner dies." https://www.koreatimes.co.kr/www/culture/2025/01/135_270433.html
+
 [^60]: EBSCO Research. "Kim Dae Jung | Research Starters." https://www.ebsco.com/research-starters/biography/kim-dae-jung
+
 [^61]: New World Encyclopedia. "Kim Dae-jung." https://www.newworldencyclopedia.org/entry/Kim_Dae-jung
+
 [^62]: The Korea Herald. "Lee Hee-ho, widow of ex-President Kim Dae-jung, dies at 97." https://www.koreaherald.com/article/2020416
+
 [^63]: The Korea Times. "Former President Kim Dae-jung's wife, political partner dies." https://www.koreatimes.co.kr/www/culture/2025/01/135_270433.html
+
 [^64]: The Korea Herald. "Lee Hee-ho, widow of ex-President Kim Dae-jung, dies at 97." https://www.koreaherald.com/article/2020416
+
 [^65]: Wikipedia. "Kim Dae-jung." https://en.wikipedia.org/wiki/Kim_Dae-jung
+
 [^66]: The Korea Herald. "Lee Hee-ho, widow of ex-President Kim Dae-jung, dies at 97." https://www.koreaherald.com/article/2020416
+
 [^67]: Wikipedia. "Lee Hee-ho." https://en.wikipedia.org/wiki/Lee_Hee-ho
+
 [^68]: Wikipedia. "Kim Dae-jung." https://en.wikipedia.org/wiki/Kim_Dae-jung
+
 [^69]: Association for Asian Studies. "Kim Dae-jung's Role in the Democratization of South Korea." https://www.asianstudies.org/publications/eaa/archives/kim-dae-jungs-role-in-the-democratization-of-south-korea/
+
 [^70]: Amnesty International. "Kim Dae-jung, human rights champion and former South Korean president, dies." https://www.amnesty.org/en/latest/news/2009/08/kim-dae-jung-human-rights-champion-and-former-south-korean-president-dies-200908/
+
 [^71]: Korea Economic Institute. "South Korea 20 Years After the IMF Rescue Package." https://keia.org/the-peninsula/south-korea-20-years-after-the-imf-rescue-package/
+
 [^72]: Wholistic Peace Institute. "The Sunshine Policy of President Kim Dae-jung." https://wholisticpeaceinstitute.com/kimdaejungsunshinepolicy/
+
 [^73]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^74]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^75]: NobelPrize.org. "Kim Dae-jung – Nobel Lecture." https://www.nobelprize.org/prizes/peace/2000/dae-jung/lecture/
+
 [^76]: Association for Asian Studies. "Kim Dae-jung's Role in the Democratization of South Korea." https://www.asianstudies.org/publications/eaa/archives/kim-dae-jungs-role-in-the-democratization-of-south-korea/
+
 [^77]: Korea Economic Institute. "South Korea 20 Years After the IMF Rescue Package." https://keia.org/the-peninsula/south-korea-20-years-after-the-imf-rescue-package/
+
 [^78]: Wholistic Peace Institute. "The Sunshine Policy of President Kim Dae-jung." https://wholisticpeaceinstitute.com/kimdaejungsunshinepolicy/
+
 [^79]: NobelPrize.org. "The Nobel Peace Prize 2000 - Press Release." https://www.nobelprize.org/prizes/peace/2000/press-release/
+
 [^80]: Amnesty International. "Kim Dae-jung, human rights champion and former South Korean president, dies." https://www.amnesty.org/en/latest/news/2009/08/kim-dae-jung-human-rights-champion-and-former-south-korean-president-dies-200908/
+
 [^81]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^82]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^83]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^84]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/
+
 [^85]: Wikipedia. "Sunshine Policy." https://en.wikipedia.org/wiki/Sunshine_Policy
+
 [^86]: NobelPrize.org. "Kim Dae-jung – Nobel Lecture." https://www.nobelprize.org/prizes/peace/2000/dae-jung/lecture/
+
 [^87]: The Seattle Times. "Some memorable quotes from Kim Dae-jung." https://www.seattletimes.com/nation-world/some-memorable-quotes-from-kim-dae-jung/
+
 [^88]: NobelPrize.org. "Kim Dae-jung – Nobel Lecture." https://www.nobelprize.org/prizes/peace/2000/dae-jung/lecture/
+
 [^89]: A-Z Quotes. "TOP 18 QUOTES BY KIM DAE-JUNG." https://www.azquotes.com/author/24465-Kim_Dae_jung
+
 [^90]: American Enterprise Institute. "Engaging North Korea: The Clouded Legacy of South Korea's Sunshine Policy." https://www.aei.org/research-products/report/engaging-north-korea-the-clouded-legacy-of-south-koreas-sunshine-policy/

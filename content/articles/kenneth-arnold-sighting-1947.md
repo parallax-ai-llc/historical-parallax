@@ -21,28 +21,30 @@ He clocked their speed at over 1,700 mph (far faster than any aircraft of the ti
 ## The Sighting
 
 ### The Flight
+
 Arnold was flying a CallAir A-2 from Chehalis to Yakima, looking for a crashed Marine Corps plane.
-*   **The Flash:** At 3:00 PM, a bright flash lit up his cockpit. He thought it was a P-51 Mustang but saw no other planes.
-*   **The Chain:** He saw 9 objects in a line, weaving in and out of the mountain peaks. They were thin and flat, "like a pie plate cut in half."
-*   **Speed:** He timed them between Mount Rainier and Mount Adams. The calculation (50 miles in 1:42) put them at supersonic speeds.
+
+- **The Flash:** At 3:00 PM, a bright flash lit up his cockpit. He thought it was a P-51 Mustang but saw no other planes.
+- **The Chain:** He saw 9 objects in a line, weaving in and out of the mountain peaks. They were thin and flat, "like a pie plate cut in half."
+- **Speed:** He timed them between Mount Rainier and Mount Adams. The calculation (50 miles in 1:42) put them at supersonic speeds.
 
 ---
 
 ## Legacy
 
-*   **Project Sign:** The Air Force began investigating UFOs (Project Sign -> Grudge -> Blue Book) directly because of this report.
-*   **Roswell:** The famous Roswell crash happened just weeks later (July 1947), fueled by the "saucer craze" Arnold started.
+- **Project Sign:** The Air Force began investigating UFOs (Project Sign -> Grudge -> Blue Book) directly because of this report.
+- **Roswell:** The famous Roswell crash happened just weeks later (July 1947), fueled by the "saucer craze" Arnold started.
 
 ---
 
 ## Timeline
 
-| Date | Time | Event |
-|------|------|-------|
-| **Jun 24, 1947** | **15:00** | Arnold spots the 9 objects. |
-| **Jun 25, 1947** | **-** | Arnold tells his story in Pendleton, Oregon. |
-| **Jun 26, 1947** | **-** | Headlines scream "Flying Saucers" across the US. |
-| **Jul 8, 1947** | **-** | Roswell Army Air Field announces capturing a "Flying Disc." |
+| Date             | Time      | Event                                                       |
+| ---------------- | --------- | ----------------------------------------------------------- |
+| **Jun 24, 1947** | **15:00** | Arnold spots the 9 objects.                                 |
+| **Jun 25, 1947** | **-**     | Arnold tells his story in Pendleton, Oregon.                |
+| **Jun 26, 1947** | **-**     | Headlines scream "Flying Saucers" across the US.            |
+| **Jul 8, 1947**  | **-**     | Roswell Army Air Field announces capturing a "Flying Disc." |
 
 ---
 

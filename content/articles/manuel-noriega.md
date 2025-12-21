@@ -163,33 +163,33 @@ The Council on Foreign Relations, in its assessment following Noriega's death in
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1934 | Born February 11 in Panama City to a poor pardo family |
-| 1950s | Recruited by CIA as paid informant |
-| 1962 | Rescued from criminal charges by Omar Torrijos; loyalty established |
-| 1965 | Completed Jungle Operations course at School of the Americas |
-| 1967 | Intelligence and counterintelligence training at Fort Gulick; CIA relationship becomes contractual |
-| 1968 | Participated in coup that brought Omar Torrijos to power |
-| 1970 | Promoted to lieutenant colonel; appointed chief of military intelligence (G-2) |
-| 1981 | Omar Torrijos dies in plane crash; Noriega begins consolidating power |
-| 1982 | Allowed Pablo Escobar's Medellín Cartel to ship cocaine through Panama |
-| 1983 | Became commander of National Guard; reformed it as Panama Defense Forces; promoted self to general; became de facto ruler |
-| 1984 | Orchestrated fraudulent presidential election to install Nicolás Ardito Barletta |
-| 1985 | Hugo Spadafora tortured and decapitated on September 13 |
-| 1986 | Met with Oliver North to negotiate support for Nicaraguan Contras |
-| 1987 | U.S. economic pressures begin; Roberto Díaz Herrera publicly accuses Noriega of crimes |
-| 1988 | Indicted by U.S. federal grand juries in Miami and Tampa for drug trafficking; Reagan imposes economic sanctions |
-| 1989 | Annulled May 7 election results showing opposition victory; declared "state of war" with U.S. on December 15 |
-| 1989 | U.S. launched Operation Just Cause invasion on December 20 |
-| 1990 | Surrendered to U.S. forces on January 3 after seeking refuge in Vatican embassy |
-| 1992 | Convicted in U.S. court on eight counts of drug trafficking, money laundering, and racketeering on April 9; sentenced to 40 years on July 10 |
-| 1999 | Sentence reduced to 30 years |
-| 2007 | Completed U.S. sentence on September 9 |
-| 2010 | Extradited to France; convicted of money laundering; sentenced to seven years |
-| 2011 | Extradited to Panama on December 11; imprisoned for human rights abuses and murder |
-| 2017 | Transferred to house arrest in January for surgery |
-| 2017 | Died May 29 at age 83 following brain surgery complications |
+| Year  | Event                                                                                                                                        |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1934  | Born February 11 in Panama City to a poor pardo family                                                                                       |
+| 1950s | Recruited by CIA as paid informant                                                                                                           |
+| 1962  | Rescued from criminal charges by Omar Torrijos; loyalty established                                                                          |
+| 1965  | Completed Jungle Operations course at School of the Americas                                                                                 |
+| 1967  | Intelligence and counterintelligence training at Fort Gulick; CIA relationship becomes contractual                                           |
+| 1968  | Participated in coup that brought Omar Torrijos to power                                                                                     |
+| 1970  | Promoted to lieutenant colonel; appointed chief of military intelligence (G-2)                                                               |
+| 1981  | Omar Torrijos dies in plane crash; Noriega begins consolidating power                                                                        |
+| 1982  | Allowed Pablo Escobar's Medellín Cartel to ship cocaine through Panama                                                                       |
+| 1983  | Became commander of National Guard; reformed it as Panama Defense Forces; promoted self to general; became de facto ruler                    |
+| 1984  | Orchestrated fraudulent presidential election to install Nicolás Ardito Barletta                                                             |
+| 1985  | Hugo Spadafora tortured and decapitated on September 13                                                                                      |
+| 1986  | Met with Oliver North to negotiate support for Nicaraguan Contras                                                                            |
+| 1987  | U.S. economic pressures begin; Roberto Díaz Herrera publicly accuses Noriega of crimes                                                       |
+| 1988  | Indicted by U.S. federal grand juries in Miami and Tampa for drug trafficking; Reagan imposes economic sanctions                             |
+| 1989  | Annulled May 7 election results showing opposition victory; declared "state of war" with U.S. on December 15                                 |
+| 1989  | U.S. launched Operation Just Cause invasion on December 20                                                                                   |
+| 1990  | Surrendered to U.S. forces on January 3 after seeking refuge in Vatican embassy                                                              |
+| 1992  | Convicted in U.S. court on eight counts of drug trafficking, money laundering, and racketeering on April 9; sentenced to 40 years on July 10 |
+| 1999  | Sentence reduced to 30 years                                                                                                                 |
+| 2007  | Completed U.S. sentence on September 9                                                                                                       |
+| 2010  | Extradited to France; convicted of money laundering; sentenced to seven years                                                                |
+| 2011  | Extradited to Panama on December 11; imprisoned for human rights abuses and murder                                                           |
+| 2017  | Transferred to house arrest in January for surgery                                                                                           |
+| 2017  | Died May 29 at age 83 following brain surgery complications                                                                                  |
 
 ---
 
@@ -210,88 +210,173 @@ The Council on Foreign Relations, in its assessment following Noriega's death in
 ## References
 
 [^1]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^2]: [Manuel Noriega | Facts & Biography | Britannica](https://www.britannica.com/biography/Manuel-Noriega)
+
 [^3]: [United States invasion of Panama - Wikipedia](https://en.wikipedia.org/wiki/United_States_invasion_of_Panama)
+
 [^4]: [Manuel Noriega, Ousted Panamanian Dictator, Is Dead at 83](https://www.nbcnews.com/news/world/manuel-noriega-ousted-panamanian-dictator-dead-83-n730291)
+
 [^5]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^6]: [Manuel Noriega Biography - Childhood, Life Achievements & Timeline](https://www.thefamouspeople.com/profiles/manuel-noriega-6597.php)
+
 [^7]: [Manuel Noriega Biography - life, family, story, death, wife, school, son, information, born, drugs, house](https://www.notablebiographies.com/Ni-Pe/Noriega-Manuel.html)
+
 [^8]: [Noriega Moreno, Manuel Antonio (1934–) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/noriega-moreno-manuel-antonio-1934)
+
 [^9]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^10]: [Manuel Noriega | Encyclopedia.com](https://www.encyclopedia.com/people/history/panama-history-biographies/manuel-noriega)
+
 [^11]: [The Rise and Fall of Manuel Noriega | Article | Real Dictators](https://www.noiser.com/real-dictators/the-rise-and-fall-of-manuel-noriega)
+
 [^12]: [Manuel Noriega Fast Facts - KTVZ](https://ktvz.com/news/national-world/cnn-world/2025/11/18/manuel-noriega-fast-facts/)
+
 [^13]: [Panamanian dictator Manuel Noriega's complex US ties suggest lessons for Trump era, historians say - ABC News](https://abcnews.go.com/International/panamanian-dictator-manuel-noriegas-complex-us-ties-lessons/story?id=47722429)
+
 [^14]: [Manuel Noriega - Who's Who on the CIA Payroll - TIME](https://content.time.com/time/specials/packages/article/0,28804,1933053_1933052_1933051,00.html)
+
 [^15]: [Panama: Learn About Omar Torrijos & Manuel Noriega](https://www.anywhere.com/panama/travel-guide/history/torrijos-and-noriega)
+
 [^16]: [Manuel Noriega](https://grokipedia.com/page/Manuel_Noriega)
+
 [^17]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^18]: [The rise and fall of Noriega, Central America's strongman - CNN.com](https://www.cnn.com/2010/WORLD/americas/07/07/panama.manuel.noriega.profile/index.html)
+
 [^19]: [Manuel Noriega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/manuel-noriega)
+
 [^20]: [Manuel Noriega | The Dictator's Playbook](https://www.pbs.org/tpt/dictators-playbook/episodes/manuel-noriega/)
+
 [^21]: [Manuel Noriega Biography - life, family, story, death, wife, school, son, information, born, drugs, house](https://www.notablebiographies.com/Ni-Pe/Noriega-Manuel.html)
+
 [^22]: [The Rise and Fall of Manuel Noriega | Article | Real Dictators](https://www.noiser.com/real-dictators/the-rise-and-fall-of-manuel-noriega)
+
 [^23]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^24]: [Manuel Noriega | Facts & Biography | Britannica](https://www.britannica.com/biography/Manuel-Noriega)
+
 [^25]: [Chained Together in Hell: Bush and Noriega - CounterPunch.org](https://www.counterpunch.org/2017/06/02/chained-together-in-hell-bush-and-noriega/)
+
 [^26]: [Panamanian dictator Manuel Noriega's complex US ties suggest lessons for Trump era, historians say - ABC News](https://abcnews.go.com/International/panamanian-dictator-manuel-noriegas-complex-us-ties-lessons/story?id=47722429)
+
 [^27]: [Manuel Noriega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/manuel-noriega)
+
 [^28]: [Panama Defense Forces - Wikipedia](https://en.wikipedia.org/wiki/Panama_Defense_Forces)
+
 [^29]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^30]: [Manuel Noriega - Wikispooks](https://wikispooks.com/wiki/Manuel_Noriega)
+
 [^31]: [Noriega capture and trial | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/law/noriega-capture-and-trial)
+
 [^32]: [IN SECRET MEETINGS WITH NORTH, NORIEGA AGREED TO AID CONTRAS – Deseret News](https://www.deseret.com/1990/1/14/18840874/in-secret-meetings-with-north-noriega-agreed-to-aid-contras/)
+
 [^33]: [Panama Defense Forces - Wikipedia](https://en.wikipedia.org/wiki/Panama_Defense_Forces)
+
 [^34]: [Illegal drug trade in Panama - Wikipedia](https://en.wikipedia.org/wiki/Illegal_drug_trade_in_Panama)
+
 [^35]: [Chained Together in Hell: Bush and Noriega - CounterPunch.org](https://www.counterpunch.org/2017/06/02/chained-together-in-hell-bush-and-noriega/)
+
 [^36]: [Manuel Noriega - Wikispooks](https://wikispooks.com/wiki/Manuel_Noriega)
+
 [^37]: [Medellín Cartel - Wikipedia](https://en.wikipedia.org/wiki/Medell%C3%ADn_Cartel)
+
 [^38]: [Manuel Noriega Trial: 1991 - Cartel Contacts Revealed](https://law.jrank.org/pages/3486/Manuel-Noriega-Trial-1991-Cartel-Contacts-Revealed.html)
+
 [^39]: [Noriega capture and trial | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/law/noriega-capture-and-trial)
+
 [^40]: [How Panama's Criminal Landscape Has Changed Since the Days of Narco-Dictator Noriega](https://insightcrime.org/news/analysis/how-panama-criminal-landscape-changed-since-narco-dictator-noriega/)
+
 [^41]: [Manuel Noriega must face justice in Panama following extradition - Amnesty International](https://www.amnesty.org/en/latest/news/2011/08/manuel-noriega-must-face-justice-panama-following-extradition/)
+
 [^42]: [Panama Truth Commission - Wikipedia](https://en.wikipedia.org/wiki/Panama_Truth_Commission)
+
 [^43]: [Hugo Spadafora - Wikipedia](https://en.wikipedia.org/wiki/Hugo_Spadafora)
+
 [^44]: [The Brutal Murder of One Doctor Led to Manuel Noriega's Demise | Coffee or Die](https://www.coffeeordie.com/noriega-cia)
+
 [^45]: [The Man Who Knew Too Much - The Noriega Tapes](https://thenoriegatapes.com/2019/07/29/hugo-spadafora/)
+
 [^46]: [1984 Panamanian general election - Wikipedia](https://en.wikipedia.org/wiki/1984_Panamanian_general_election)
+
 [^47]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^48]: [A Review of The Collapse of Panama | ReVista](https://revista.drclas.harvard.edu/a-review-of-the-collapse-of-panama-the-history-of-the-u-s-invasion-and-the-end-of-the-dictatorship/)
+
 [^49]: [1989 Panamanian general election - Wikipedia](https://en.wikipedia.org/wiki/1989_Panamanian_general_election)
+
 [^50]: [PANAMA INVALIDATES ELECTION - The Washington Post](https://www.washingtonpost.com/archive/politics/1989/05/11/panama-invalidates-election/8e10adc9-8e56-4109-b9e3-1bf9997aec64/)
+
 [^51]: [Manuel Noriega | Facts & Biography | Britannica](https://www.britannica.com/biography/Manuel-Noriega)
+
 [^52]: [Guillermo Endara - Wikipedia](https://en.wikipedia.org/wiki/Guillermo_Endara)
+
 [^53]: [Chained Together in Hell: Bush and Noriega - CounterPunch.org](https://www.counterpunch.org/2017/06/02/chained-together-in-hell-bush-and-noriega/)
+
 [^54]: [Panamanian dictator Manuel Noriega's complex US ties suggest lessons for Trump era, historians say - ABC News](https://abcnews.go.com/International/panamanian-dictator-manuel-noriegas-complex-us-ties-lessons/story?id=47722429)
+
 [^55]: [Chained Together in Hell: Bush and Noriega - CounterPunch.org](https://www.counterpunch.org/2017/06/02/chained-together-in-hell-bush-and-noriega/)
+
 [^56]: [Noriega capture and trial | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/law/noriega-capture-and-trial)
+
 [^57]: [REAGAN INCREASES ECONOMIC SANCTIONS AGAINST NORIEGA - The Washington Post](https://www.washingtonpost.com/archive/politics/1988/03/12/reagan-increases-economic-sanctions-against-noriega/556c1c2f-fc51-47fe-a2d5-98d5019f3885/)
+
 [^58]: [The New American Interventionism: Chapter 4](https://ciaotest.cc.columbia.edu/book/caraley/ch04.html)
+
 [^59]: [Manuel Noriega Biography - life, family, story, death, wife, school, son, information, born, drugs, house](https://www.notablebiographies.com/Ni-Pe/Noriega-Manuel.html)
+
 [^60]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^61]: [Manuel Noriega Biography - life, family, story, death, wife, school, son, information, born, drugs, house](https://www.notablebiographies.com/Ni-Pe/Noriega-Manuel.html)
+
 [^62]: [Manuel Noriega - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Noriega)
+
 [^63]: [Manuel Noriega Biography - life, family, story, death, wife, school, son, information, born, drugs, house](https://www.notablebiographies.com/Ni-Pe/Noriega-Manuel.html)
+
 [^64]: [Manuel Noriega Biography - life, family, story, death, wife, school, son, information, born, drugs, house](https://www.notablebiographies.com/Ni-Pe/Noriega-Manuel.html)
+
 [^65]: [NORIEGA'S WIFE SAYS HE'S A LOVING FATHER, GOOD HUSBAND – Deseret News](https://www.deseret.com/1990/1/7/18839700/noriega-s-wife-says-he-s-a-loving-father-good-husband/)
+
 [^66]: [The Rise and Fall of Manuel Noriega | Article | Real Dictators](https://www.noiser.com/real-dictators/the-rise-and-fall-of-manuel-noriega)
+
 [^67]: [Manuel Antonio Noriega | TIME](https://time.com/4800815/manuel-antonio-noriega/)
+
 [^68]: [The Contested Legacy of a Panamanian Dictator · Global Voices](https://globalvoices.org/2017/06/02/the-contested-legacy-of-a-panamanian-dictator/)
+
 [^69]: [Interview with Oliver Stone (11/22/1993) | Medium](https://manuelnoriega.medium.com/a-talk-with-manuel-noriega-oliver-stone-f7e716328ee6)
+
 [^70]: [Where does all the money come from, General Noriega? - CBS News](https://www.cbsnews.com/news/noriega-a-60-minutes-moment-2/)
+
 [^71]: [The Impact of Manuel Noriega on Panama's Political History – The Expat Database](https://theexpatdatabase.com/the-impact-of-manuel-noriega-on-panamas-political-history/)
+
 [^72]: [Manuel Noriega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/manuel-noriega)
+
 [^73]: [A Comprehensive Analysis of the U.S. Invasion of Panama in Military History - Phalantry](https://phalantry.com/the-u-s-invasion-of-panama/)
+
 [^74]: [The Best Thing Manuel Noriega Ever Did for Panama Was to Lose Power | AS/COA](https://www.as-coa.org/articles/best-thing-manuel-noriega-ever-did-panama-was-lose-power)
+
 [^75]: [The Impact of Manuel Noriega on Panama's Political History – The Expat Database](https://theexpatdatabase.com/the-impact-of-manuel-noriega-on-panamas-political-history/)
+
 [^76]: [The Impact of Manuel Noriega on Panama's Political History – The Expat Database](https://theexpatdatabase.com/the-impact-of-manuel-noriega-on-panamas-political-history/)
+
 [^77]: [The Impact of Manuel Noriega on Panama's Political History – The Expat Database](https://theexpatdatabase.com/the-impact-of-manuel-noriega-on-panamas-political-history/)
+
 [^78]: [The Impact of Manuel Noriega on Panama's Political History – The Expat Database](https://theexpatdatabase.com/the-impact-of-manuel-noriega-on-panamas-political-history/)
+
 [^79]: [Remembering Manuel Noriega and His Capture](https://warontherocks.com/2017/06/remembering-manuel-noriega-and-his-capture/)
+
 [^80]: [Manuel Noriega must face justice in Panama following extradition - Amnesty International](https://www.amnesty.org/en/latest/news/2011/08/manuel-noriega-must-face-justice-panama-following-extradition/)
+
 [^81]: [Manuel Noriega, 1934-2017 | Council on Foreign Relations](https://www.cfr.org/blog/manuel-noriega-1934-2017)
+
 [^82]: [Interview with Oliver Stone (11/22/1993) | Medium](https://manuelnoriega.medium.com/a-talk-with-manuel-noriega-oliver-stone-f7e716328ee6)
+
 [^83]: [Interview with Oliver Stone (11/22/1993) | Medium](https://manuelnoriega.medium.com/a-talk-with-manuel-noriega-oliver-stone-f7e716328ee6)
+
 [^84]: [The Man Who Knew Too Much - The Noriega Tapes](https://thenoriegatapes.com/2019/07/29/hugo-spadafora/)
+
 [^85]: [Chained Together in Hell: Bush and Noriega - CounterPunch.org](https://www.counterpunch.org/2017/06/02/chained-together-in-hell-bush-and-noriega/)
+
 [^86]: [Interview with Oliver Stone (11/22/1993) | Medium](https://manuelnoriega.medium.com/a-talk-with-manuel-noriega-oliver-stone-f7e716328ee6)

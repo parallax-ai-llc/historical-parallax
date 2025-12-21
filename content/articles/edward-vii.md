@@ -151,29 +151,29 @@ Scholars have also questioned Edward's judgment in foreign affairs. His hostilit
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1841 | Born on 9 November at Buckingham Palace as Albert Edward |
-| 1842 | Created Prince of Wales and Earl of Chester |
-| 1859 | Begins university education at Edinburgh, Oxford, and Cambridge |
-| 1860 | First official tour to North America (Canada and United States) |
-| 1861 | Nellie Clifden affair; death of Prince Albert on 14 December |
-| 1863 | Marries Princess Alexandra of Denmark on 10 March |
-| 1864 | Birth of first son, Prince Albert Victor |
-| 1865 | Birth of second son, Prince George (later King George V) |
-| 1870 | Testimony in Mordaunt divorce case causes scandal |
-| 1875-76 | State visit to India as Prince of Wales |
-| 1891 | Tranby Croft baccarat scandal |
-| 1892 | Death of eldest son Prince Albert Victor from influenza |
-| 1901 | Accedes to throne as Edward VII on 22 January after Queen Victoria's death |
-| 1902 | Appendicitis delays coronation; finally crowned on 9 August |
-| 1903 | State visit to Paris in May helps prepare ground for Entente Cordiale |
-| 1904 | Entente Cordiale signed with France in April |
-| 1906 | Launch of HMS Dreadnought, revolutionary battleship |
-| 1907 | Anglo-Russian Convention signed |
-| 1908 | Meeting with Tsar Nicholas II at Reval |
-| 1909-10 | Constitutional crisis over Parliament Bill limiting Lords' powers |
-| 1910 | Dies at Buckingham Palace on 6 May; succeeded by George V |
+| Year    | Event                                                                      |
+| ------- | -------------------------------------------------------------------------- |
+| 1841    | Born on 9 November at Buckingham Palace as Albert Edward                   |
+| 1842    | Created Prince of Wales and Earl of Chester                                |
+| 1859    | Begins university education at Edinburgh, Oxford, and Cambridge            |
+| 1860    | First official tour to North America (Canada and United States)            |
+| 1861    | Nellie Clifden affair; death of Prince Albert on 14 December               |
+| 1863    | Marries Princess Alexandra of Denmark on 10 March                          |
+| 1864    | Birth of first son, Prince Albert Victor                                   |
+| 1865    | Birth of second son, Prince George (later King George V)                   |
+| 1870    | Testimony in Mordaunt divorce case causes scandal                          |
+| 1875-76 | State visit to India as Prince of Wales                                    |
+| 1891    | Tranby Croft baccarat scandal                                              |
+| 1892    | Death of eldest son Prince Albert Victor from influenza                    |
+| 1901    | Accedes to throne as Edward VII on 22 January after Queen Victoria's death |
+| 1902    | Appendicitis delays coronation; finally crowned on 9 August                |
+| 1903    | State visit to Paris in May helps prepare ground for Entente Cordiale      |
+| 1904    | Entente Cordiale signed with France in April                               |
+| 1906    | Launch of HMS Dreadnought, revolutionary battleship                        |
+| 1907    | Anglo-Russian Convention signed                                            |
+| 1908    | Meeting with Tsar Nicholas II at Reval                                     |
+| 1909-10 | Constitutional crisis over Parliament Bill limiting Lords' powers          |
+| 1910    | Dies at Buckingham Palace on 6 May; succeeded by George V                  |
 
 ---
 
@@ -193,158 +193,158 @@ Scholars have also questioned Edward's judgment in foreign affairs. His hostilit
 
 ## References
 
-[^1]: Ridley, Jane. *Bertie: A Life of Edward VII*. London: Chatto & Windus, 2012, pp. 5-8.
+[^1]: Ridley, Jane. _Bertie: A Life of Edward VII_. London: Chatto & Windus, 2012, pp. 5-8.
 
-[^2]: Magnus, Philip. *King Edward the Seventh*. London: John Murray, 1964, p. 12.
+[^2]: Magnus, Philip. _King Edward the Seventh_. London: John Murray, 1964, p. 12.
 
-[^3]: Hibbert, Christopher. *Edward VII: The Last Victorian King*. London: Palgrave Macmillan, 2007, pp. 15-20.
+[^3]: Hibbert, Christopher. _Edward VII: The Last Victorian King_. London: Palgrave Macmillan, 2007, pp. 15-20.
 
-[^4]: St. Aubyn, Giles. *Edward VII: Prince and King*. London: Collins, 1979, pp. 25-30.
+[^4]: St. Aubyn, Giles. _Edward VII: Prince and King_. London: Collins, 1979, pp. 25-30.
 
-[^5]: Weintraub, Stanley. *The Importance of Being Edward: King in Waiting, 1841-1901*. London: John Murray, 2000, pp. 45-52.
+[^5]: Weintraub, Stanley. _The Importance of Being Edward: King in Waiting, 1841-1901_. London: John Murray, 2000, pp. 45-52.
 
-[^6]: Magnus, Philip. *King Edward the Seventh*, pp. 35-37.
+[^6]: Magnus, Philip. _King Edward the Seventh_, pp. 35-37.
 
-[^7]: Ridley, Jane. *Bertie: A Life of Edward VII*, pp. 65-70.
+[^7]: Ridley, Jane. _Bertie: A Life of Edward VII_, pp. 65-70.
 
-[^8]: Lee, Sidney. *King Edward VII: A Biography*. Vol. 1. London: Macmillan, 1925, pp. 234-241.
+[^8]: Lee, Sidney. _King Edward VII: A Biography_. Vol. 1. London: Macmillan, 1925, pp. 234-241.
 
-[^9]: Aronson, Theo. *The King in Love: Edward VII's Mistresses*. London: John Murray, 1988, pp. 42-48.
+[^9]: Aronson, Theo. _The King in Love: Edward VII's Mistresses_. London: John Murray, 1988, pp. 42-48.
 
-[^10]: Hibbert, Christopher. *Edward VII: The Last Victorian King*, pp. 89-95, 145-150.
+[^10]: Hibbert, Christopher. _Edward VII: The Last Victorian King_, pp. 89-95, 145-150.
 
-[^11]: St. Aubyn, Giles. *Edward VII: Prince and King*, pp. 156-165.
+[^11]: St. Aubyn, Giles. _Edward VII: Prince and King_, pp. 156-165.
 
-[^12]: Magnus, Philip. *King Edward the Seventh*, pp. 289-295.
+[^12]: Magnus, Philip. _King Edward the Seventh_, pp. 289-295.
 
-[^13]: Ridley, Jane. *Bertie: A Life of Edward VII*, pp. 325-335.
+[^13]: Ridley, Jane. _Bertie: A Life of Edward VII_, pp. 325-335.
 
-[^14]: Hamilton, Lord Frederick. *The Days Before Yesterday*. London: Hodder & Stoughton, 1920, p. 234.
+[^14]: Hamilton, Lord Frederick. _The Days Before Yesterday_. London: Hodder & Stoughton, 1920, p. 234.
 
-[^15]: Andrew, Christopher. *Théophile Delcassé and the Making of the Entente Cordiale*. London: Macmillan, 1968, pp. 178-185.
+[^15]: Andrew, Christopher. _Théophile Delcassé and the Making of the Entente Cordiale_. London: Macmillan, 1968, pp. 178-185.
 
-[^16]: Lee, Sidney. *King Edward VII: A Biography*. Vol. 2, pp. 228-240.
+[^16]: Lee, Sidney. _King Edward VII: A Biography_. Vol. 2, pp. 228-240.
 
-[^17]: Monger, George. *The End of Isolation: British Foreign Policy 1900-1907*. London: Thomas Nelson, 1963, pp. 134-142.
+[^17]: Monger, George. _The End of Isolation: British Foreign Policy 1900-1907_. London: Thomas Nelson, 1963, pp. 134-142.
 
-[^18]: Neilson, Keith. *Britain and the Last Tsar: British Policy and Russia 1894-1917*. Oxford: Clarendon Press, 1995, pp. 256-268.
+[^18]: Neilson, Keith. _Britain and the Last Tsar: British Policy and Russia 1894-1917_. Oxford: Clarendon Press, 1995, pp. 256-268.
 
-[^19]: Cannadine, David. "The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition', c. 1820-1977." In *The Invention of Tradition*, edited by Eric Hobsbawm and Terence Ranger, 101-164. Cambridge: Cambridge University Press, 1983.
+[^19]: Cannadine, David. "The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition', c. 1820-1977." In _The Invention of Tradition_, edited by Eric Hobsbawm and Terence Ranger, 101-164. Cambridge: Cambridge University Press, 1983.
 
-[^20]: Massie, Robert K. *Dreadnought: Britain, Germany and the Coming of the Great War*. New York: Random House, 1991, pp. 467-475.
+[^20]: Massie, Robert K. _Dreadnought: Britain, Germany and the Coming of the Great War_. New York: Random House, 1991, pp. 467-475.
 
-[^21]: Rose, Kenneth. *King George V*. London: Weidenfeld & Nicolson, 1983, pp. 48-52.
+[^21]: Rose, Kenneth. _King George V_. London: Weidenfeld & Nicolson, 1983, pp. 48-52.
 
-[^22]: Jenkins, Roy. *Mr. Balfour's Poodle: An Account of the Struggle between the House of Lords and the Government of Mr. Asquith*. London: Heinemann, 1954, pp. 112-125.
+[^22]: Jenkins, Roy. _Mr. Balfour's Poodle: An Account of the Struggle between the House of Lords and the Government of Mr. Asquith_. London: Heinemann, 1954, pp. 112-125.
 
-[^23]: Hynes, Samuel. *The Edwardian Turn of Mind*. Princeton: Princeton University Press, 1968, pp. 3-18.
+[^23]: Hynes, Samuel. _The Edwardian Turn of Mind_. Princeton: Princeton University Press, 1968, pp. 3-18.
 
-[^24]: Weintraub, Stanley. *The Importance of Being Edward*, pp. 125-145.
+[^24]: Weintraub, Stanley. _The Importance of Being Edward_, pp. 125-145.
 
-[^25]: Aronson, Theo. *The King in Love: Edward VII's Mistresses*, pp. 88-250.
+[^25]: Aronson, Theo. _The King in Love: Edward VII's Mistresses_, pp. 88-250.
 
-[^26]: Magnus, Philip. *King Edward the Seventh*, pp. 125-130.
+[^26]: Magnus, Philip. _King Edward the Seventh_, pp. 125-130.
 
-[^27]: Ridley, Jane. *Bertie: A Life of Edward VII*, pp. 255-265.
+[^27]: Ridley, Jane. _Bertie: A Life of Edward VII_, pp. 255-265.
 
-[^28]: Hardie, Frank. *The Political Influence of Queen Victoria, 1861-1901*. London: Oxford University Press, 1935, pp. 89-95.
+[^28]: Hardie, Frank. _The Political Influence of Queen Victoria, 1861-1901_. London: Oxford University Press, 1935, pp. 89-95.
 
-[^29]: Thompson, Paul. *Socialists, Liberals and Labour: The Struggle for London 1885-1914*. London: Routledge, 1967, pp. 134-140.
+[^29]: Thompson, Paul. _Socialists, Liberals and Labour: The Struggle for London 1885-1914_. London: Routledge, 1967, pp. 134-140.
 
-[^30]: Röhl, John C. G. *Wilhelm II: Into the Abyss of War and Exile, 1900-1941*. Cambridge: Cambridge University Press, 2014, pp. 234-248.
+[^30]: Röhl, John C. G. _Wilhelm II: Into the Abyss of War and Exile, 1900-1941_. Cambridge: Cambridge University Press, 2014, pp. 234-248.
 
-[^31]: Massie, Robert K. *Dreadnought*, pp. 398-410.
+[^31]: Massie, Robert K. _Dreadnought_, pp. 398-410.
 
-[^32]: St. Aubyn, Giles. *Edward VII: Prince and King*, pp. 378-385.
+[^32]: St. Aubyn, Giles. _Edward VII: Prince and King_, pp. 378-385.
 
-[^33]: Jenkins, Roy. *Mr. Balfour's Poodle*, pp. 145-156.
+[^33]: Jenkins, Roy. _Mr. Balfour's Poodle_, pp. 145-156.
 
-[^34]: Searle, G. R. *A New England? Peace and War 1886-1918*. Oxford: Clarendon Press, 2004, pp. 256-260.
+[^34]: Searle, G. R. _A New England? Peace and War 1886-1918_. Oxford: Clarendon Press, 2004, pp. 256-260.
 
-[^35]: Cannadine, David. *Ornamentalism: How the British Saw Their Empire*. Oxford: Oxford University Press, 2001, pp. 56-72.
+[^35]: Cannadine, David. _Ornamentalism: How the British Saw Their Empire_. Oxford: Oxford University Press, 2001, pp. 56-72.
 
-[^36]: Battiscombe, Georgina. *Queen Alexandra*. London: Constable, 1969, pp. 95-110.
+[^36]: Battiscombe, Georgina. _Queen Alexandra_. London: Constable, 1969, pp. 95-110.
 
-[^37]: Ridley, Jane. *Bertie: A Life of Edward VII*, pp. 135-142.
+[^37]: Ridley, Jane. _Bertie: A Life of Edward VII_, pp. 135-142.
 
-[^38]: Battiscombe, Georgina. *Queen Alexandra*, pp. 178-195.
+[^38]: Battiscombe, Georgina. _Queen Alexandra_, pp. 178-195.
 
-[^39]: Cook, Andrew. *Prince Eddy: The King Britain Never Had*. Stroud: The History Press, 2006, pp. 234-245.
+[^39]: Cook, Andrew. _Prince Eddy: The King Britain Never Had_. Stroud: The History Press, 2006, pp. 234-245.
 
-[^40]: Aronson, Theo. *Prince Eddy and the Homosexual Underworld*. London: John Murray, 1994, pp. 12-25.
+[^40]: Aronson, Theo. _Prince Eddy and the Homosexual Underworld_. London: John Murray, 1994, pp. 12-25.
 
-[^41]: Hibbert, Christopher. *Edward VII: The Last Victorian King*, pp. 198-205.
+[^41]: Hibbert, Christopher. _Edward VII: The Last Victorian King_, pp. 198-205.
 
-[^42]: Lee, Sidney. *King Edward VII: A Biography*. Vol. 2, pp. 145-152.
+[^42]: Lee, Sidney. _King Edward VII: A Biography_. Vol. 2, pp. 145-152.
 
-[^43]: Magnus, Philip. *King Edward the Seventh*, pp. 342-348.
+[^43]: Magnus, Philip. _King Edward the Seventh_, pp. 342-348.
 
-[^44]: St. Aubyn, Giles. *Edward VII: Prince and King*, pp. 245-252.
+[^44]: St. Aubyn, Giles. _Edward VII: Prince and King_, pp. 245-252.
 
-[^45]: Ridley, Jane. *Bertie: A Life of Edward VII*, pp. 465-472.
+[^45]: Ridley, Jane. _Bertie: A Life of Edward VII_, pp. 465-472.
 
-[^46]: Lee, Sidney. *King Edward VII: A Biography*. Vol. 2, pp. 698-705.
+[^46]: Lee, Sidney. _King Edward VII: A Biography_. Vol. 2, pp. 698-705.
 
-[^47]: Hynes, Samuel. *The Edwardian Turn of Mind*, pp. 3-25.
+[^47]: Hynes, Samuel. _The Edwardian Turn of Mind_, pp. 3-25.
 
 [^48]: Cannadine, David. "The Context, Performance and Meaning of Ritual," pp. 125-140.
 
-[^49]: Prochaska, Frank. *The Republic of Britain: 1760-2000*. London: Allen Lane, 2000, pp. 167-175.
+[^49]: Prochaska, Frank. _The Republic of Britain: 1760-2000_. London: Allen Lane, 2000, pp. 167-175.
 
-[^50]: Monger, George. *The End of Isolation*, pp. 234-248.
+[^50]: Monger, George. _The End of Isolation_, pp. 234-248.
 
-[^51]: Clark, Christopher. *The Sleepwalkers: How Europe Went to War in 1914*. London: Allen Lane, 2012, pp. 145-162.
+[^51]: Clark, Christopher. _The Sleepwalkers: How Europe Went to War in 1914_. London: Allen Lane, 2012, pp. 145-162.
 
-[^52]: Priestley, J. B. *The Edwardians*. London: Heinemann, 1970, pp. 8-35.
+[^52]: Priestley, J. B. _The Edwardians_. London: Heinemann, 1970, pp. 8-35.
 
-[^53]: De la Haye, Amy, and Valerie D. Mendes. *The House of Worth: Portrait of an Archive*. London: V&A Publishing, 2014, pp. 89-95.
+[^53]: De la Haye, Amy, and Valerie D. Mendes. _The House of Worth: Portrait of an Archive_. London: V&A Publishing, 2014, pp. 89-95.
 
-[^54]: Prochaska, Frank. *Royal Bounty: The Making of a Welfare Monarchy*. New Haven: Yale University Press, 1995, pp. 134-148.
+[^54]: Prochaska, Frank. _Royal Bounty: The Making of a Welfare Monarchy_. New Haven: Yale University Press, 1995, pp. 134-148.
 
-[^55]: Rose, Kenneth. *King George V*, pp. 5-15.
+[^55]: Rose, Kenneth. _King George V_, pp. 5-15.
 
-[^56]: Ridley, Jane. *Bertie: A Life of Edward VII*, pp. 1-8.
+[^56]: Ridley, Jane. _Bertie: A Life of Edward VII_, pp. 1-8.
 
-[^57]: Dangerfield, George. *The Strange Death of Liberal England*. London: Constable, 1936, pp. 3-18.
+[^57]: Dangerfield, George. _The Strange Death of Liberal England_. London: Constable, 1936, pp. 3-18.
 
-[^58]: Ridley, Jane. *Bertie: A Life of Edward VII*, pp. 8-12, 485-492.
+[^58]: Ridley, Jane. _Bertie: A Life of Edward VII_, pp. 8-12, 485-492.
 
-[^59]: Hamilton, Keith, and Richard Langhorne. *The Practice of Diplomacy: Its Evolution, Theory and Administration*. London: Routledge, 1995, pp. 134-140.
+[^59]: Hamilton, Keith, and Richard Langhorne. _The Practice of Diplomacy: Its Evolution, Theory and Administration_. London: Routledge, 1995, pp. 134-140.
 
-[^60]: Hibbert, Christopher. *Edward VII: The Last Victorian King*, pp. 256-268.
+[^60]: Hibbert, Christopher. _Edward VII: The Last Victorian King_, pp. 256-268.
 
-[^61]: Searle, G. R. *A New England?*, pp. 345-352.
+[^61]: Searle, G. R. _A New England?_, pp. 345-352.
 
-[^62]: Porter, Roy. *The Greatest Benefit to Mankind: A Medical History of Humanity*. London: HarperCollins, 1997, pp. 456-462.
+[^62]: Porter, Roy. _The Greatest Benefit to Mankind: A Medical History of Humanity_. London: HarperCollins, 1997, pp. 456-462.
 
-[^63]: Bogdanor, Vernon. *The Monarchy and the Constitution*. Oxford: Clarendon Press, 1995, pp. 45-58.
+[^63]: Bogdanor, Vernon. _The Monarchy and the Constitution_. Oxford: Clarendon Press, 1995, pp. 45-58.
 
-[^64]: Magnus, Philip. *King Edward the Seventh*, pp. 1-8, 489-498.
+[^64]: Magnus, Philip. _King Edward the Seventh_, pp. 1-8, 489-498.
 
-[^65]: Alderman, Geoffrey. *Modern British Jewry*. Oxford: Clarendon Press, 1992, pp. 156-165.
+[^65]: Alderman, Geoffrey. _Modern British Jewry_. Oxford: Clarendon Press, 1992, pp. 156-165.
 
-[^66]: Pugh, Martin. *The March of the Women: A Revisionist Analysis of the Campaign for Women's Suffrage, 1866-1914*. Oxford: Oxford University Press, 2000, pp. 134-140.
+[^66]: Pugh, Martin. _The March of the Women: A Revisionist Analysis of the Campaign for Women's Suffrage, 1866-1914_. Oxford: Oxford University Press, 2000, pp. 134-140.
 
-[^67]: Hardie, Frank. *The Political Influence of Queen Victoria*, pp. 234-248.
+[^67]: Hardie, Frank. _The Political Influence of Queen Victoria_, pp. 234-248.
 
-[^68]: Wilson, Keith M. *The Policy of the Entente: Essays on the Determinants of British Foreign Policy, 1904-1914*. Cambridge: Cambridge University Press, 1985, pp. 12-28.
+[^68]: Wilson, Keith M. _The Policy of the Entente: Essays on the Determinants of British Foreign Policy, 1904-1914_. Cambridge: Cambridge University Press, 1985, pp. 12-28.
 
-[^69]: Thompson, Paul. *Socialists, Liberals and Labour*, pp. 178-186.
+[^69]: Thompson, Paul. _Socialists, Liberals and Labour_, pp. 178-186.
 
-[^70]: Hardie, Frank. *The Political Influence of Queen Victoria*, pp. 298-312.
+[^70]: Hardie, Frank. _The Political Influence of Queen Victoria_, pp. 298-312.
 
-[^71]: Cannadine, David. *Ornamentalism*, pp. 95-118.
+[^71]: Cannadine, David. _Ornamentalism_, pp. 95-118.
 
-[^72]: Weintraub, Stanley. *The Importance of Being Edward*, pp. 234-248.
+[^72]: Weintraub, Stanley. _The Importance of Being Edward_, pp. 234-248.
 
-[^73]: Clark, Christopher. *The Sleepwalkers*, pp. 234-256.
+[^73]: Clark, Christopher. _The Sleepwalkers_, pp. 234-256.
 
-[^74]: Searle, G. R. *A New England?*, p. 348.
+[^74]: Searle, G. R. _A New England?_, p. 348.
 
-[^75]: Ridley, Jane. *Bertie: A Life of Edward VII*, p. 245.
+[^75]: Ridley, Jane. _Bertie: A Life of Edward VII_, p. 245.
 
-[^76]: Weintraub, Stanley. *The Importance of Being Edward*, p. 189.
+[^76]: Weintraub, Stanley. _The Importance of Being Edward_, p. 189.
 
-[^77]: Hibbert, Christopher. *Edward VII: The Last Victorian King*, p. 278.
+[^77]: Hibbert, Christopher. _Edward VII: The Last Victorian King_, p. 278.
 
-[^78]: Magnus, Philip. *King Edward the Seventh*, p. 346.
+[^78]: Magnus, Philip. _King Edward the Seventh_, p. 346.

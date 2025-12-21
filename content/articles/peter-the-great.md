@@ -189,36 +189,36 @@ Contemporary historians increasingly recognize both Peter's extraordinary achiev
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1672 | Born in Moscow on June 9 (May 30, Old Style) |
-| 1676 | Father Tsar Alexis dies when Peter is four years old |
-| 1682 | Proclaimed joint tsar with half-brother Ivan V at age ten; witnesses streltsy uprising |
-| 1689 | Marries Eudoxia Lopukhina; forces half-sister Sophia into convent and takes control of government |
-| 1690 | Son Tsarevich Alexei born |
-| 1693-1694 | Makes trips to Arkhangelsk, developing passion for seafaring |
-| 1696 | Becomes sole tsar upon death of Ivan V; begins Azov campaigns against Ottoman Empire |
-| 1697-1698 | Grand Embassy to Western Europe; travels through Netherlands, England, and Austria |
-| 1698 | Returns to suppress streltsy uprising; forces first wife Eudoxia into convent; imposes beard tax |
-| 1700 | Great Northern War begins against Sweden; suffers crushing defeat at Battle of Narva |
-| 1703 | Founds Saint Petersburg on May 27; publishes Russia's first newspaper |
-| 1708 | Marries Catherine (Marta Skavronskaya); daughter Anna born |
-| 1709 | Achieves decisive victory over Sweden at Battle of Poltava on June 27; daughter Elizabeth born |
-| 1711 | Creates Governing Senate to oversee administration |
-| 1712 | Makes Saint Petersburg the capital of Russia |
-| 1716 | Son Alexei flees to Austria seeking political asylum |
-| 1717 | Establishes Collegium system of government administration |
-| 1718 | Lures Alexei back to Russia; Alexei dies under torture in June |
-| 1721 | Great Northern War ends with Treaty of Nystad; proclaimed Emperor of All Russia |
-| 1722 | Introduces Table of Ranks, revolutionizing Russian civil and military service |
-| 1724 | Crowns Catherine as empress-consort; Willem Mons scandal causes estrangement |
-| 1725 | Dies in Saint Petersburg on February 8 (January 28, Old Style) at age 52; succeeded by Catherine I |
+| Year      | Event                                                                                              |
+| --------- | -------------------------------------------------------------------------------------------------- |
+| 1672      | Born in Moscow on June 9 (May 30, Old Style)                                                       |
+| 1676      | Father Tsar Alexis dies when Peter is four years old                                               |
+| 1682      | Proclaimed joint tsar with half-brother Ivan V at age ten; witnesses streltsy uprising             |
+| 1689      | Marries Eudoxia Lopukhina; forces half-sister Sophia into convent and takes control of government  |
+| 1690      | Son Tsarevich Alexei born                                                                          |
+| 1693-1694 | Makes trips to Arkhangelsk, developing passion for seafaring                                       |
+| 1696      | Becomes sole tsar upon death of Ivan V; begins Azov campaigns against Ottoman Empire               |
+| 1697-1698 | Grand Embassy to Western Europe; travels through Netherlands, England, and Austria                 |
+| 1698      | Returns to suppress streltsy uprising; forces first wife Eudoxia into convent; imposes beard tax   |
+| 1700      | Great Northern War begins against Sweden; suffers crushing defeat at Battle of Narva               |
+| 1703      | Founds Saint Petersburg on May 27; publishes Russia's first newspaper                              |
+| 1708      | Marries Catherine (Marta Skavronskaya); daughter Anna born                                         |
+| 1709      | Achieves decisive victory over Sweden at Battle of Poltava on June 27; daughter Elizabeth born     |
+| 1711      | Creates Governing Senate to oversee administration                                                 |
+| 1712      | Makes Saint Petersburg the capital of Russia                                                       |
+| 1716      | Son Alexei flees to Austria seeking political asylum                                               |
+| 1717      | Establishes Collegium system of government administration                                          |
+| 1718      | Lures Alexei back to Russia; Alexei dies under torture in June                                     |
+| 1721      | Great Northern War ends with Treaty of Nystad; proclaimed Emperor of All Russia                    |
+| 1722      | Introduces Table of Ranks, revolutionizing Russian civil and military service                      |
+| 1724      | Crowns Catherine as empress-consort; Willem Mons scandal causes estrangement                       |
+| 1725      | Dies in Saint Petersburg on February 8 (January 28, Old Style) at age 52; succeeded by Catherine I |
 
 ---
 
 ## Famous Quotes
 
-> "I have conquered an empire but I have not been able to conquer myself." 
+> "I have conquered an empire but I have not been able to conquer myself."
 
 This quote reflects Peter's remarkable self-awareness about his personal failings despite his monumental achievements, acknowledging that transforming a nation proved easier than controlling his own passionate, often violent nature[^142].
 
@@ -243,148 +243,293 @@ This sardonic observation reveals Peter's dark sense of humor and his understand
 ## References
 
 [^1]: Britannica. "Peter I | Biography, Accomplishments, Reforms, Facts, Significance, & Death." https://www.britannica.com/biography/Peter-the-Great
+
 [^2]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^3]: World History Encyclopedia. "Peter the Great." https://www.worldhistory.org/Peter_the_Great/
+
 [^4]: History.com. "Why Peter the Great Tortured and Killed His Own Son." https://www.history.com/articles/peter-the-great-tortured-killed-own-son
+
 [^5]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^6]: Britannica. "Peter I | Biography, Accomplishments, Reforms, Facts, Significance, & Death." https://www.britannica.com/biography/Peter-the-Great
+
 [^7]: Saint-Petersburg.com. "Biography of Peter the Great of Russia." http://www.saint-petersburg.com/royal-family/peter-the-great/
+
 [^8]: Britannica. "What was Peter the Great's childhood like?" https://www.britannica.com/question/What-was-Peter-the-Greats-childhood-like
+
 [^9]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^10]: Presidential Library. "The Presidential Library illustrates Peter the Great's childhood and youth." https://www.prlib.ru/en/news/1337238
+
 [^11]: Lumen Learning. "Peter the Great | World History." https://courses.lumenlearning.com/suny-worldhistory/chapter/peter-the-great/
+
 [^12]: Lumen Learning. "Peter the Great | Western Civilization." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/peter-the-great/
+
 [^13]: Medium. "The terrible education of Peter the Great." https://medium.com/@khrzhanovskiy/the-terrible-education-of-peter-the-great-dae9a4561f84
+
 [^14]: The Famous People. "Peter The Great Biography - Childhood, Life Achievements & Timeline." https://www.thefamouspeople.com/profiles/peter-the-great-6328.php
+
 [^15]: Presidential Library. "The Presidential Library illustrates Peter the Great's childhood and youth." https://www.prlib.ru/en/news/1337238
+
 [^16]: Saint-Petersburg.com. "Biography of Peter the Great of Russia." http://www.saint-petersburg.com/royal-family/peter-the-great/
+
 [^17]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^18]: World History Encyclopedia. "The Reforms of Peter the Great." https://www.worldhistory.org/article/2304/the-reforms-of-peter-the-great/
+
 [^19]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^20]: Britannica. "Peter I | Biography, Accomplishments, Reforms, Facts, Significance, & Death." https://www.britannica.com/biography/Peter-the-Great
+
 [^21]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^22]: Wikipedia. "Grand Embassy of Peter the Great." https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great
+
 [^23]: Britannica. "Peter I - Grand Embassy, Tsar, Reforms." https://www.britannica.com/biography/Peter-the-Great/The-Grand-Embassy-1697-98
+
 [^24]: World History Encyclopedia. "The Grand Embassy of Peter the Great." https://www.worldhistory.org/article/2327/the-grand-embassy-of-peter-the-great/
+
 [^25]: SciHi Blog. "Peter the Great and the Grand Embassy." http://scihi.org/peter-great-grand-embassy/
+
 [^26]: History is Now Magazine. "Tsar Peter the Great of Russia's Visit to England." http://www.historyisnowmagazine.com/blog/2017/11/12/a-tsar-abroad-peter-the-great-of-russias-visit-to-england
+
 [^27]: EBSCO Research. "Peter the Great Tours Western Europe." https://www.ebsco.com/research-starters/history/peter-great-tours-western-europe
+
 [^28]: Wikipedia. "Grand Embassy of Peter the Great." https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great
+
 [^29]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^30]: Wikipedia. "Great Northern War." https://en.wikipedia.org/wiki/Great_Northern_War
+
 [^31]: Helion. "Peter the Great's Disastrous Defeat." https://www.helion.co.uk/military-history-books/peter-the-greats-disastrous-defeat-the-swedish-victory-at-narva-1700.php
+
 [^32]: UNK OpenSPACES. "Peter the Great vs. Charles XII of Sweden in the Great Northern War." https://openspaces.unk.edu/undergraduate-research-journal/vol21/iss1/10/
+
 [^33]: World History Encyclopedia. "The Reforms of Peter the Great." https://www.worldhistory.org/article/2304/the-reforms-of-peter-the-great/
+
 [^34]: Britannica. "Battle of Poltava | Significance, Results, & Casualties." https://www.britannica.com/event/Battle-of-Poltava
+
 [^35]: EBSCO Research. "Treaty of Nystad Ends Great Northern War." https://www.ebsco.com/research-starters/history/treaty-nystad-ends-great-northern-war
+
 [^36]: Saint-Petersburg.com. "Biography of Peter the Great of Russia." http://www.saint-petersburg.com/royal-family/peter-the-great/
+
 [^37]: Naval History Magazine. "The Great Northern War and the Rise of Russian Sea Power." https://www.usni.org/magazines/naval-history-magazine/2023/june/great-northern-war-and-rise-russian-sea-power
+
 [^38]: World History Encyclopedia. "The Reforms of Peter the Great." https://www.worldhistory.org/article/2304/the-reforms-of-peter-the-great/
+
 [^39]: History.com. "St. Petersburg founded by Peter the Great." https://www.history.com/this-day-in-history/may-27/st-petersburg-founded-by-peter-the-great
+
 [^40]: EBSCO Research. "Founding of St. Petersburg." https://www.ebsco.com/research-starters/history/founding-st-petersburg
+
 [^41]: Saint-Petersburg.com. "History of St. Petersburg in the era of Peter the Great." http://saint-petersburg.com/history/st-petersburg-in-the-era-of-peter-the-great/
+
 [^42]: Ancient Origins. "On This Day: Tsar Peter 'the Great' Lays the Foundation for St. Petersburg." https://www.ancient-origins.net/news-general/day-tsar-peter-great-lays-foundation-st-petersburg-0022142
+
 [^43]: Owlcation. "Russia's St. Petersburg: A City 'Built on Human Bones'." https://owlcation.com/humanities/St-Petersburg-Peter-the-Great-of-Russias-Window-of-Europe
+
 [^44]: History Today. "Foundation of St Petersburg." https://www.historytoday.com/archive/months-past/foundation-st-petersburg
+
 [^45]: Saint-Petersburg.com. "History of St. Petersburg in the era of Peter the Great." http://www.saint-petersburg.com/history/st-petersburg-in-the-era-of-peter-the-great/
+
 [^46]: Wikipedia. "Government reform of Peter the Great." https://en.wikipedia.org/wiki/Government_reform_of_Peter_the_Great
+
 [^47]: Presidential Library. "'Table of Ranks' signed by Peter the Great." https://www.prlib.ru/en/news/707565
+
 [^48]: Fiveable. "Peter the Great's Table of Ranks Definition." https://fiveable.me/key-terms/ap-euro/peter-the-greats-table-of-ranks
+
 [^49]: Britannica. "Peter I - Tsar, Nobility, Reforms." https://www.britannica.com/biography/Peter-the-Great/The-nobility
+
 [^50]: Wikipedia. "Government reform of Peter the Great." https://en.wikipedia.org/wiki/Government_reform_of_Peter_the_Great
+
 [^51]: World History Encyclopedia. "The Reforms of Peter the Great." https://www.worldhistory.org/article/2304/the-reforms-of-peter-the-great/
+
 [^52]: Saint-Petersburg.com. "Biography of Peter the Great of Russia." http://www.saint-petersburg.com/royal-family/peter-the-great/
+
 [^53]: Smithsonian Magazine. "Why Peter the Great Established a Beard Tax." https://www.smithsonianmag.com/smart-news/why-tsar-peter-great-established-beard-tax-180964693/
+
 [^54]: JSTOR Daily. "Peter the Great's Beard Tax." https://daily.jstor.org/peter-the-greats-beard-tax/
+
 [^55]: History Skills. "Why Tsar Peter the Great declared war on facial hair." https://www.historyskills.com/classroom/modern-history/peter-the-great-beard-tax/
+
 [^56]: The Arts Society. "PETER THE GREAT AND HIS RADICAL REFORMS." https://theartssociety.org/arts-news-features/peter-great-and-his-radical-reforms
+
 [^57]: Lumen Learning. "The Westernization of Russia | Western Civilization." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-westernization-of-russia/
+
 [^58]: Lumen Learning. "Peter's Domestic Reforms | Western Civilization." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/peters-domestic-reforms/
+
 [^59]: Wikipedia. "Alexei Petrovich, Tsarevich of Russia." https://en.wikipedia.org/wiki/Alexei_Petrovich,_Tsarevich_of_Russia
+
 [^60]: History.com. "Why Peter the Great Tortured and Killed His Own Son." https://www.history.com/articles/peter-the-great-tortured-killed-own-son
+
 [^61]: Factinate. "Horrific Facts About Peter The Great, The Cruelest Tsar." https://www.factinate.com/people/43-horrific-facts-peter-great-emperor-russia
+
 [^62]: History Today. "Peter the Great and the Tsarevich Alexei." https://www.historytoday.com/archive/peter-great-and-tsarevich-alexei
+
 [^63]: Russia Beyond. "The first Romanov political exile: How Peter the Great's son fled Russia." https://www.rbth.com/arts/history/2016/11/21/the-first-romanov-political-exile-how-peter-the-greats-son-fled-russia_649603
+
 [^64]: Encyclopedia.com. "Alexei Petrovich." https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/alexei-petrovich
+
 [^65]: Britannica. "Alexis | Tsar Peter I, Romanov Dynasty, Regency." https://www.britannica.com/biography/Alexis-prince-of-Russia-1690-1718
+
 [^66]: Executed Today. "1718: Tsarevich Alexei Petrovich condemned and fatally knouted." https://www.executedtoday.com/2015/06/24/1718-tsarevich-alexei-petrovich-condemned-and-fatally-knouted/
+
 [^67]: Factinate. "Lost Facts About Alexei Petrovich, The Doomed Prince Of Russia." https://www.factinate.com/people/alexei-petrovich
+
 [^68]: History.com. "Why Peter the Great Tortured and Killed His Own Son." https://www.history.com/articles/peter-the-great-tortured-killed-own-son
+
 [^69]: History Today. "Peter the Great and the Tsarevich Alexei." https://www.historytoday.com/archive/peter-great-and-tsarevich-alexei
+
 [^70]: Ancient Origins. "On This Day: Tsar Peter 'the Great' Lays the Foundation for St. Petersburg." https://www.ancient-origins.net/news-general/day-tsar-peter-great-lays-foundation-st-petersburg-0022142
+
 [^71]: Dance's Historical Miscellany. "St Petersburg, the city built on bones." https://www.danceshistoricalmiscellany.com/st-petersburg-the-city-built-on-bones/
+
 [^72]: Learnodo Newtonic. "10 Major Accomplishments of Peter the Great." https://learnodo-newtonic.com/peter-the-great-accomplishments
+
 [^73]: World History Encyclopedia. "The Reforms of Peter the Great." https://www.worldhistory.org/article/2304/the-reforms-of-peter-the-great/
+
 [^74]: Lumen Learning. "The Westernization of Russia | Western Civilization." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/the-westernization-of-russia/
+
 [^75]: History Skills. "Why Tsar Peter the Great declared war on facial hair." https://www.historyskills.com/classroom/modern-history/peter-the-great-beard-tax/
+
 [^76]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^77]: Lumen Learning. "Peter's Domestic Reforms | Western Civilization." https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/peters-domestic-reforms/
+
 [^78]: Wikipedia. "Government reform of Peter the Great." https://en.wikipedia.org/wiki/Government_reform_of_Peter_the_Great
+
 [^79]: Herald of the Russian Academy of Sciences. "Peter I and Modern Historiography: Reflections on the 350th Anniversary of the Great Reformer." https://link.springer.com/article/10.1134/S101933162214012X
+
 [^80]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^81]: Wikipedia. "Grand Embassy of Peter the Great." https://en.wikipedia.org/wiki/Grand_Embassy_of_Peter_the_Great
+
 [^82]: World History Encyclopedia. "Peter the Great." https://www.worldhistory.org/Peter_the_Great/
+
 [^83]: ScienceDirect. "Peter the Great and sexually transmitted diseases." https://www.sciencedirect.com/science/article/abs/pii/S0738081X19301543
+
 [^84]: Factinate. "Horrific Facts About Peter The Great, The Cruelest Tsar." https://www.factinate.com/people/43-horrific-facts-peter-great-emperor-russia
+
 [^85]: Lumen Learning. "Peter the Great | World History." https://courses.lumenlearning.com/suny-worldhistory/chapter/peter-the-great/
+
 [^86]: World History Encyclopedia. "Peter the Great." https://www.worldhistory.org/Peter_the_Great/
+
 [^87]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^88]: Britannica. "Who were Peter the Great's wives?" https://www.britannica.com/question/Who-were-Peter-the-Greats-wives
+
 [^89]: Russia Beyond. "Peter the Great and his women." https://www.rbth.com/history/330742-peter-great-and-his-women
+
 [^90]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^91]: Russia Beyond. "Peter the Great and his women." https://www.rbth.com/history/330742-peter-great-and-his-women
+
 [^92]: Wikipedia. "Catherine I of Russia." https://en.wikipedia.org/wiki/Catherine_I_of_Russia
+
 [^93]: World History Encyclopedia. "Peter the Great." https://www.worldhistory.org/Peter_the_Great/
+
 [^94]: Encyclopedia.com. "Catherine I (1684–1727)." https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/catherine-i-1684-1727
+
 [^95]: World History Encyclopedia. "Peter the Great." https://www.worldhistory.org/Peter_the_Great/
+
 [^96]: Russia Beyond. "Peter the Great and his women." https://www.rbth.com/history/330742-peter-great-and-his-women
+
 [^97]: Wikipedia. "Peter the Great." https://en.wikipedia.org/wiki/Peter_the_Great
+
 [^98]: Britannica. "Catherine I | Peter the Great's successor, Reformer of Russia." https://www.britannica.com/biography/Catherine-I
+
 [^99]: Russia Beyond. "Peter the Great and his women." https://www.rbth.com/history/330742-peter-great-and-his-women
+
 [^100]: Russia Beyond. "Peter the Great and his women." https://www.rbth.com/history/330742-peter-great-and-his-women
+
 [^101]: History Collection. "Peter the Great Pickled the Head of His Wife's Lover." https://historycollection.com/peter-the-great-pickled-the-head-of-his-wifes-lover-in-this-brutal-retaliation/
+
 [^102]: Russia Beyond. "Peter the Great and his women." https://www.rbth.com/history/330742-peter-great-and-his-women
+
 [^103]: World History Encyclopedia. "Peter the Great." https://www.worldhistory.org/Peter_the_Great/
+
 [^104]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^105]: Wikipedia. "Government reform of Peter the Great." https://en.wikipedia.org/wiki/Government_reform_of_Peter_the_Great
+
 [^106]: EBSCO Research. "Founding of St. Petersburg." https://www.ebsco.com/research-starters/history/founding-st-petersburg
+
 [^107]: Naval History Magazine. "The Great Northern War and the Rise of Russian Sea Power." https://www.usni.org/magazines/naval-history-magazine/2023/june/great-northern-war-and-rise-russian-sea-power
+
 [^108]: Saint-Petersburg.com. "Biography of Peter the Great of Russia." http://www.saint-petersburg.com/royal-family/peter-the-great/
+
 [^109]: Herald of the Russian Academy of Sciences. "Peter I and Modern Historiography: Reflections on the 350th Anniversary of the Great Reformer." https://link.springer.com/article/10.1134/S101933162214012X
+
 [^110]: Wikipedia. "Government reform of Peter the Great." https://en.wikipedia.org/wiki/Government_reform_of_Peter_the_Great
+
 [^111]: Study.com. "Peter the Great | Biography, Reign & Accomplishments." https://study.com/academy/lesson/peter-the-great-the-westernization-of-russia.html
+
 [^112]: World History Encyclopedia. "The Reforms of Peter the Great." https://www.worldhistory.org/article/2304/the-reforms-of-peter-the-great/
+
 [^113]: Wikipedia. "Great Northern War." https://en.wikipedia.org/wiki/Great_Northern_War
+
 [^114]: EBSCO Research. "Treaty of Nystad Ends Great Northern War." https://www.ebsco.com/research-starters/history/treaty-nystad-ends-great-northern-war
+
 [^115]: Learnodo Newtonic. "10 Major Accomplishments of Peter the Great." https://learnodo-newtonic.com/peter-the-great-accomplishments
+
 [^116]: Wikipedia. "History of Saint Petersburg." https://en.wikipedia.org/wiki/History_of_Saint_Petersburg
+
 [^117]: Saint-Petersburg.com. "History of St. Petersburg in the era of Peter the Great." http://www.saint-petersburg.com/history/st-petersburg-in-the-era-of-peter-the-great/
+
 [^118]: Number Analytics. "Peter the Great: A Historical Giant." https://www.numberanalytics.com/blog/peter-the-great-ultimate-guide
+
 [^119]: Mexico Historico. "The Legacy of Peter the Great in Modern Russia." https://www.mexicohistorico.com/paginas/the-legacy-of-peter-the-great-in-modern-russia-0a0a16e2.html
+
 [^120]: Britannica. "Peter I | Biography, Accomplishments, Reforms, Facts, Significance, & Death." https://www.britannica.com/biography/Peter-the-Great
+
 [^121]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^122]: Study.com. "Peter the Great | Biography, Reign & Accomplishments." https://study.com/academy/lesson/peter-the-great-the-westernization-of-russia.html
+
 [^123]: World History Encyclopedia. "Peter the Great." https://www.worldhistory.org/Peter_the_Great/
+
 [^124]: Wikipedia. "Government reform of Peter the Great." https://en.wikipedia.org/wiki/Government_reform_of_Peter_the_Great
+
 [^125]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^126]: Study.com. "Peter the Great | Biography, Reign & Accomplishments." https://study.com/academy/lesson/peter-the-great-the-westernization-of-russia.html
+
 [^127]: Number Analytics. "Peter the Great: A Historical Giant." https://www.numberanalytics.com/blog/peter-the-great-ultimate-guide
+
 [^128]: World History Encyclopedia. "The Grand Embassy of Peter the Great." https://www.worldhistory.org/article/2327/the-grand-embassy-of-peter-the-great/
+
 [^129]: SciHi Blog. "Peter the Great and the Grand Embassy." http://scihi.org/peter-great-grand-embassy/
+
 [^130]: Owlcation. "Russia's St. Petersburg: A City 'Built on Human Bones'." https://owlcation.com/humanities/St-Petersburg-Peter-the-Great-of-Russias-Window-of-Europe
+
 [^131]: Dance's Historical Miscellany. "St Petersburg, the city built on bones." https://www.danceshistoricalmiscellany.com/st-petersburg-the-city-built-on-bones/
+
 [^132]: Herald of the Russian Academy of Sciences. "Peter I and Modern Historiography: Reflections on the 350th Anniversary of the Great Reformer." https://link.springer.com/article/10.1134/S101933162214012X
+
 [^133]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^134]: Herald of the Russian Academy of Sciences. "Peter I and Modern Historiography: Reflections on the 350th Anniversary of the Great Reformer." https://link.springer.com/article/10.1134/S101933162214012X
+
 [^135]: History.com. "Why Peter the Great Tortured and Killed His Own Son." https://www.history.com/articles/peter-the-great-tortured-killed-own-son
+
 [^136]: History.com. "Why Peter the Great Tortured and Killed His Own Son." https://www.history.com/articles/peter-the-great-tortured-killed-own-son
+
 [^137]: Guided History. "Peter the Great and the Modernization of Russia." https://blogs.bu.edu/guidedhistory/historians-craft/hudson-rowland/
+
 [^138]: Herald of the Russian Academy of Sciences. "Peter I and Modern Historiography: Reflections on the 350th Anniversary of the Great Reformer." https://link.springer.com/article/10.1134/S101933162214012X
+
 [^139]: Herald of the Russian Academy of Sciences. "Peter I and Modern Historiography: Reflections on the 350th Anniversary of the Great Reformer." https://link.springer.com/article/10.1134/S101933162214012X
+
 [^140]: Britannica. "Peter I | Biography, Accomplishments, Reforms, Facts, Significance, & Death." https://www.britannica.com/biography/Peter-the-Great
+
 [^141]: Herald of the Russian Academy of Sciences. "Peter I and Modern Historiography: Reflections on the 350th Anniversary of the Great Reformer." https://link.springer.com/article/10.1134/S101933162214012X
+
 [^142]: Quoteikon. "16 of the Best Peter The Great Quotes." https://www.quoteikon.com/peter-the-great-quotes.html
+
 [^143]: AZ Quotes. "QUOTES BY PETER THE GREAT." https://www.azquotes.com/author/41389-Peter_the_Great
+
 [^144]: Quotes.net. "Peter The Great: Soldiers' bellies are not satisfied with empty promises and hopes." https://www.quotes.net/quote/68476
+
 [^145]: UNK OpenSPACES. "Peter the Great vs. Charles XII of Sweden in the Great Northern War." https://openspaces.unk.edu/undergraduate-research-journal/vol21/iss1/10/
+
 [^146]: Inspiring Quotes. "Top 4 PETER THE GREAT famous quotes and sayings." https://www.inspiringquotes.us/author/4937-peter-the-great

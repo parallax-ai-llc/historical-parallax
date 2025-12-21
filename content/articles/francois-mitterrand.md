@@ -143,35 +143,35 @@ Finally, critics across the spectrum question the authenticity of Mitterrand's p
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1916 | Born October 26 in Jarnac, Charente, France |
-| 1934 | Moves to Paris to study at Sciences Po and University of Paris |
-| 1938 | Completes military service as sergeant in colonial infantry |
-| 1940 | Wounded and captured during Battle of France; becomes POW |
-| 1941 | Escapes from German POW camp in December |
-| 1942 | Works for Vichy government in prisoner affairs |
-| 1943 | Receives Francisque medal; joins Resistance; meets de Gaulle in London |
-| 1944 | Marries Danielle Gouze |
-| 1946 | Elected to National Assembly as UDSR deputy |
-| 1947-1958 | Serves in eleven ministerial positions under Fourth Republic |
-| 1958 | Opposes de Gaulle's Fifth Republic; loses parliamentary seat |
-| 1964 | Publishes "Le Coup d'État permanent" criticizing de Gaulle |
-| 1965 | Runs for president; forces de Gaulle into runoff (loses with 45.5%) |
-| 1971 | Becomes First Secretary of Socialist Party at Épinay Congress |
-| 1974 | Loses presidential election to Valéry Giscard d'Estaing (49.2%) |
-| 1981 | Elected President of France with 51.76% of vote on May 10 |
-| 1981 | Abolishes death penalty in September |
-| 1982 | Implements extensive nationalizations and social reforms |
-| 1983 | Executes "tournant de la rigueur" (austerity turn) |
-| 1985 | Rainbow Warrior bombing scandal erupts |
-| 1986-1988 | First "cohabitation" with right-wing Prime Minister Jacques Chirac |
-| 1988 | Re-elected president with 54% of vote |
-| 1992 | Maastricht Treaty on European Union signed; narrow referendum victory |
-| 1993-1995 | Second "cohabitation" with right-wing Prime Minister Édouard Balladur |
-| 1994 | Secret daughter Mazarine revealed publicly; Vichy past exposed in Péan book |
-| 1995 | Completes presidency; succeeded by Jacques Chirac |
-| 1996 | Dies January 8 in Paris; buried in Jarnac |
+| Year      | Event                                                                       |
+| --------- | --------------------------------------------------------------------------- |
+| 1916      | Born October 26 in Jarnac, Charente, France                                 |
+| 1934      | Moves to Paris to study at Sciences Po and University of Paris              |
+| 1938      | Completes military service as sergeant in colonial infantry                 |
+| 1940      | Wounded and captured during Battle of France; becomes POW                   |
+| 1941      | Escapes from German POW camp in December                                    |
+| 1942      | Works for Vichy government in prisoner affairs                              |
+| 1943      | Receives Francisque medal; joins Resistance; meets de Gaulle in London      |
+| 1944      | Marries Danielle Gouze                                                      |
+| 1946      | Elected to National Assembly as UDSR deputy                                 |
+| 1947-1958 | Serves in eleven ministerial positions under Fourth Republic                |
+| 1958      | Opposes de Gaulle's Fifth Republic; loses parliamentary seat                |
+| 1964      | Publishes "Le Coup d'État permanent" criticizing de Gaulle                  |
+| 1965      | Runs for president; forces de Gaulle into runoff (loses with 45.5%)         |
+| 1971      | Becomes First Secretary of Socialist Party at Épinay Congress               |
+| 1974      | Loses presidential election to Valéry Giscard d'Estaing (49.2%)             |
+| 1981      | Elected President of France with 51.76% of vote on May 10                   |
+| 1981      | Abolishes death penalty in September                                        |
+| 1982      | Implements extensive nationalizations and social reforms                    |
+| 1983      | Executes "tournant de la rigueur" (austerity turn)                          |
+| 1985      | Rainbow Warrior bombing scandal erupts                                      |
+| 1986-1988 | First "cohabitation" with right-wing Prime Minister Jacques Chirac          |
+| 1988      | Re-elected president with 54% of vote                                       |
+| 1992      | Maastricht Treaty on European Union signed; narrow referendum victory       |
+| 1993-1995 | Second "cohabitation" with right-wing Prime Minister Édouard Balladur       |
+| 1994      | Secret daughter Mazarine revealed publicly; Vichy past exposed in Péan book |
+| 1995      | Completes presidency; succeeded by Jacques Chirac                           |
+| 1996      | Dies January 8 in Paris; buried in Jarnac                                   |
 
 ---
 
@@ -191,108 +191,212 @@ Finally, critics across the spectrum question the authenticity of Mitterrand's p
 
 ## References
 
-[^1]: Lacouture, Jean. *Mitterrand: Une histoire de Français*. Paris: Seuil, 1998.
-[^2]: Péan, Pierre. *Une jeunesse française: François Mitterrand, 1934-1947*. Paris: Fayard, 1994.
-[^3]: Giesbert, Franz-Olivier. *François Mitterrand: Une vie*. Paris: Seuil, 1996.
-[^4]: Short, Philip. *Mitterrand: A Study in Ambiguity*. London: Bodley Head, 2013.
-[^5]: Péan, Pierre. *Une jeunesse française*, pp. 45-67.
-[^6]: Lacouture, Jean. *Mitterrand: Une histoire de Français*, Vol. 1, pp. 89-103.
-[^7]: Short, Philip. *Mitterrand: A Study in Ambiguity*, p. 38.
-[^8]: Nay, Catherine. *Le Noir et le Rouge*. Paris: Grasset, 1984.
-[^9]: Lacouture, Jean. *Mitterrand: Une histoire de Français*, Vol. 1, pp. 115-124.
-[^10]: Péan, Pierre. *Une jeunesse française*, pp. 112-145.
-[^11]: Péan, Pierre. *Une jeunesse française*, pp. 156-198.
-[^12]: Conan, Éric, and Henry Rousso. *Vichy: An Ever-Present Past*. Hanover: University Press of New England, 1998.
-[^13]: Short, Philip. *Mitterrand: A Study in Ambiguity*, pp. 78-95.
-[^14]: Lacouture, Jean. *Mitterrand: Une histoire de Français*, Vol. 1, pp. 245-267.
-[^15]: Williams, Philip M., and Martin Harrison. *Politics and Society in de Gaulle's Republic*. London: Longman, 1971.
-[^16]: Giesbert, Franz-Olivier. *François Mitterrand: Une vie*, pp. 234-256.
-[^17]: Mitterrand, François. *Le Coup d'État permanent*. Paris: Plon, 1964.
-[^18]: Lacouture, Jean. *Mitterrand: Une histoire de Français*, Vol. 2, pp. 34-67.
-[^19]: Bell, David S., and Byron Criddle. *The French Socialist Party: The Emergence of a Party of Government*. Oxford: Clarendon Press, 1988.
-[^20]: Portelli, Hugues. *Le Socialisme français tel qu'il est*. Paris: PUF, 1980.
-[^21]: Cole, Alistair. *François Mitterrand: A Study in Political Leadership*. London: Routledge, 1994.
-[^22]: Ross, George, Stanley Hoffmann, and Sylvia Malzacher, eds. *The Mitterrand Experiment*. Oxford: Polity Press, 1987.
-[^23]: Badinter, Robert. *L'Abolition*. Paris: Fayard, 2000.
-[^24]: Hall, Peter A. *Governing the Economy: The Politics of State Intervention in Britain and France*. Oxford: Oxford University Press, 1986.
-[^25]: Levy, Jonah D. *Tocqueville's Revenge: State, Society, and Economy in Contemporary France*. Cambridge: Harvard University Press, 1999.
-[^26]: Sachs, Jeffrey D., and Charles Wyplosz. "The Economic Consequences of President Mitterrand." *Economic Policy* 1, no. 2 (1986): 261-322.
-[^27]: Ross, George. "The Perils of Politics: French Unions and the Crisis of the 1970s." In *Unions, Change and Crisis: French and Italian Union Strategy and the Political Economy, 1945-1980*, edited by Peter Lange et al. London: Allen & Unwin, 1982.
-[^28]: Jenger, Jean. *Orsay: De la gare au musée*. Paris: Réunion des Musées Nationaux, 1986.
-[^29]: Biasini, Émile. *Grands Travaux: De l'Afrique au Louvre*. Paris: Odile Jacob, 1995.
-[^30]: Dyson, Kenneth, and Kevin Featherstone. *The Road to Maastricht: Negotiating Economic and Monetary Union*. Oxford: Oxford University Press, 1999.
-[^31]: Tiersky, Ronald. *François Mitterrand: The Last French President*. New York: St. Martin's Press, 2000.
-[^32]: Hoffmann, Stanley. "Mitterrand's Foreign Policy, or Gaullism by Any Other Name." In *The Mitterrand Experiment*, edited by George Ross et al. Oxford: Polity Press, 1987.
-[^33]: Kuhn, Raymond. *The Media in France*. London: Routledge, 1995.
-[^34]: Chipman, John. *French Power in Africa*. Oxford: Blackwell, 1989.
-[^35]: Bozo, Frédéric. *Mitterrand, the End of the Cold War, and German Unification*. New York: Berghahn Books, 2009.
-[^36]: Rousso, Henry. *The Vichy Syndrome: History and Memory in France since 1944*. Cambridge: Harvard University Press, 1991.
-[^37]: Péan, Pierre. *Une jeunesse française: François Mitterrand, 1934-1947*. Paris: Fayard, 1994.
-[^38]: Golsan, Richard J., ed. *Memory, the Holocaust, and French Justice: The Bousquet and Touvier Affairs*. Hanover: University Press of New England, 1996.
-[^39]: Conan, Éric. *Le Procès Papon: Un journal d'audience*. Paris: Gallimard, 1998.
-[^40]: Golsan, Richard J. *Vichy's Afterlife: History and Counterhistory in Postwar France*. Lincoln: University of Nebraska Press, 2000.
-[^41]: Robie, David. *Eyes of Fire: The Last Voyage of the Rainbow Warrior*. Auckland: Graphic Publications, 1986.
-[^42]: Danielsson, Bengt, and Marie-Thérèse Danielsson. *Poisoned Reign: French Nuclear Colonialism in the Pacific*. Melbourne: Penguin Books, 1986.
-[^43]: Guisnel, Jean. *Les Généraux: Enquête sur le pouvoir militaire en France*. Paris: La Découverte, 1990.
-[^44]: Plenel, Edwy, and Alain Rollat. *Moutons noirs et habits blancs*. Paris: Monde Éditions, 1990.
-[^45]: Verschave, François-Xavier. *La Françafrique: Le plus long scandale de la République*. Paris: Stock, 1998.
-[^46]: Melvern, Linda. *A People Betrayed: The Role of the West in Rwanda's Genocide*. London: Zed Books, 2000.
-[^47]: Prunier, Gérard. *The Rwanda Crisis: History of a Genocide*. New York: Columbia University Press, 1995.
-[^48]: Cameron, David R. "Exchange Rate Politics in France, 1981-1983: The Regime-Defining Choices of the Mitterrand Presidency." In *The Mitterrand Era: Policy Alternatives and Political Mobilization in France*, edited by Anthony Daley. New York: NYU Press, 1996.
-[^49]: Elgie, Robert. *Political Institutions in Contemporary France*. Oxford: Oxford University Press, 2003.
-[^50]: Mitterrand, Danielle. *En toutes libertés*. Paris: Ramsay, 1996.
-[^51]: "Danielle Mitterrand, militante des droits de l'homme." *Le Monde*, November 22, 2011.
-[^52]: Pingeot, Mazarine. *Bouche cousue*. Paris: Julliard, 2005.
-[^53]: Pontaut, Jean-Marie, and Jérôme Dupuis. "Mazarine, la fille cachée." *L'Express*, November 3, 1994.
-[^54]: "Mitterrand reconnaît avoir une fille." *Paris Match*, November 10, 1994.
-[^55]: "Adieux à François Mitterrand: Les deux familles réunies." *Le Figaro*, January 12, 1996.
-[^56]: Pingeot, Mazarine. *Premier roman*. Paris: Julliard, 1998.
-[^57]: Mitterrand, François. *Mémoires interrompus*. Paris: Odile Jacob, 1996.
-[^58]: Mitterrand, François. *La Paille et le Grain*. Paris: Flammarion, 1975.
-[^59]: Attali, Jacques. *Verbatim: Chronique des années 1981-1986*. Paris: Fayard, 1993.
-[^60]: Nay, Catherine. *Les Sept Mitterrand*. Paris: Grasset, 1988.
+[^1]: Lacouture, Jean. _Mitterrand: Une histoire de Français_. Paris: Seuil, 1998.
+
+[^2]: Péan, Pierre. _Une jeunesse française: François Mitterrand, 1934-1947_. Paris: Fayard, 1994.
+
+[^3]: Giesbert, Franz-Olivier. _François Mitterrand: Une vie_. Paris: Seuil, 1996.
+
+[^4]: Short, Philip. _Mitterrand: A Study in Ambiguity_. London: Bodley Head, 2013.
+
+[^5]: Péan, Pierre. _Une jeunesse française_, pp. 45-67.
+
+[^6]: Lacouture, Jean. _Mitterrand: Une histoire de Français_, Vol. 1, pp. 89-103.
+
+[^7]: Short, Philip. _Mitterrand: A Study in Ambiguity_, p. 38.
+
+[^8]: Nay, Catherine. _Le Noir et le Rouge_. Paris: Grasset, 1984.
+
+[^9]: Lacouture, Jean. _Mitterrand: Une histoire de Français_, Vol. 1, pp. 115-124.
+
+[^10]: Péan, Pierre. _Une jeunesse française_, pp. 112-145.
+
+[^11]: Péan, Pierre. _Une jeunesse française_, pp. 156-198.
+
+[^12]: Conan, Éric, and Henry Rousso. _Vichy: An Ever-Present Past_. Hanover: University Press of New England, 1998.
+
+[^13]: Short, Philip. _Mitterrand: A Study in Ambiguity_, pp. 78-95.
+
+[^14]: Lacouture, Jean. _Mitterrand: Une histoire de Français_, Vol. 1, pp. 245-267.
+
+[^15]: Williams, Philip M., and Martin Harrison. _Politics and Society in de Gaulle's Republic_. London: Longman, 1971.
+
+[^16]: Giesbert, Franz-Olivier. _François Mitterrand: Une vie_, pp. 234-256.
+
+[^17]: Mitterrand, François. _Le Coup d'État permanent_. Paris: Plon, 1964.
+
+[^18]: Lacouture, Jean. _Mitterrand: Une histoire de Français_, Vol. 2, pp. 34-67.
+
+[^19]: Bell, David S., and Byron Criddle. _The French Socialist Party: The Emergence of a Party of Government_. Oxford: Clarendon Press, 1988.
+
+[^20]: Portelli, Hugues. _Le Socialisme français tel qu'il est_. Paris: PUF, 1980.
+
+[^21]: Cole, Alistair. _François Mitterrand: A Study in Political Leadership_. London: Routledge, 1994.
+
+[^22]: Ross, George, Stanley Hoffmann, and Sylvia Malzacher, eds. _The Mitterrand Experiment_. Oxford: Polity Press, 1987.
+
+[^23]: Badinter, Robert. _L'Abolition_. Paris: Fayard, 2000.
+
+[^24]: Hall, Peter A. _Governing the Economy: The Politics of State Intervention in Britain and France_. Oxford: Oxford University Press, 1986.
+
+[^25]: Levy, Jonah D. _Tocqueville's Revenge: State, Society, and Economy in Contemporary France_. Cambridge: Harvard University Press, 1999.
+
+[^26]: Sachs, Jeffrey D., and Charles Wyplosz. "The Economic Consequences of President Mitterrand." _Economic Policy_ 1, no. 2 (1986): 261-322.
+
+[^27]: Ross, George. "The Perils of Politics: French Unions and the Crisis of the 1970s." In _Unions, Change and Crisis: French and Italian Union Strategy and the Political Economy, 1945-1980_, edited by Peter Lange et al. London: Allen & Unwin, 1982.
+
+[^28]: Jenger, Jean. _Orsay: De la gare au musée_. Paris: Réunion des Musées Nationaux, 1986.
+
+[^29]: Biasini, Émile. _Grands Travaux: De l'Afrique au Louvre_. Paris: Odile Jacob, 1995.
+
+[^30]: Dyson, Kenneth, and Kevin Featherstone. _The Road to Maastricht: Negotiating Economic and Monetary Union_. Oxford: Oxford University Press, 1999.
+
+[^31]: Tiersky, Ronald. _François Mitterrand: The Last French President_. New York: St. Martin's Press, 2000.
+
+[^32]: Hoffmann, Stanley. "Mitterrand's Foreign Policy, or Gaullism by Any Other Name." In _The Mitterrand Experiment_, edited by George Ross et al. Oxford: Polity Press, 1987.
+
+[^33]: Kuhn, Raymond. _The Media in France_. London: Routledge, 1995.
+
+[^34]: Chipman, John. _French Power in Africa_. Oxford: Blackwell, 1989.
+
+[^35]: Bozo, Frédéric. _Mitterrand, the End of the Cold War, and German Unification_. New York: Berghahn Books, 2009.
+
+[^36]: Rousso, Henry. _The Vichy Syndrome: History and Memory in France since 1944_. Cambridge: Harvard University Press, 1991.
+
+[^37]: Péan, Pierre. _Une jeunesse française: François Mitterrand, 1934-1947_. Paris: Fayard, 1994.
+
+[^38]: Golsan, Richard J., ed. _Memory, the Holocaust, and French Justice: The Bousquet and Touvier Affairs_. Hanover: University Press of New England, 1996.
+
+[^39]: Conan, Éric. _Le Procès Papon: Un journal d'audience_. Paris: Gallimard, 1998.
+
+[^40]: Golsan, Richard J. _Vichy's Afterlife: History and Counterhistory in Postwar France_. Lincoln: University of Nebraska Press, 2000.
+
+[^41]: Robie, David. _Eyes of Fire: The Last Voyage of the Rainbow Warrior_. Auckland: Graphic Publications, 1986.
+
+[^42]: Danielsson, Bengt, and Marie-Thérèse Danielsson. _Poisoned Reign: French Nuclear Colonialism in the Pacific_. Melbourne: Penguin Books, 1986.
+
+[^43]: Guisnel, Jean. _Les Généraux: Enquête sur le pouvoir militaire en France_. Paris: La Découverte, 1990.
+
+[^44]: Plenel, Edwy, and Alain Rollat. _Moutons noirs et habits blancs_. Paris: Monde Éditions, 1990.
+
+[^45]: Verschave, François-Xavier. _La Françafrique: Le plus long scandale de la République_. Paris: Stock, 1998.
+
+[^46]: Melvern, Linda. _A People Betrayed: The Role of the West in Rwanda's Genocide_. London: Zed Books, 2000.
+
+[^47]: Prunier, Gérard. _The Rwanda Crisis: History of a Genocide_. New York: Columbia University Press, 1995.
+
+[^48]: Cameron, David R. "Exchange Rate Politics in France, 1981-1983: The Regime-Defining Choices of the Mitterrand Presidency." In _The Mitterrand Era: Policy Alternatives and Political Mobilization in France_, edited by Anthony Daley. New York: NYU Press, 1996.
+
+[^49]: Elgie, Robert. _Political Institutions in Contemporary France_. Oxford: Oxford University Press, 2003.
+
+[^50]: Mitterrand, Danielle. _En toutes libertés_. Paris: Ramsay, 1996.
+
+[^51]: "Danielle Mitterrand, militante des droits de l'homme." _Le Monde_, November 22, 2011.
+
+[^52]: Pingeot, Mazarine. _Bouche cousue_. Paris: Julliard, 2005.
+
+[^53]: Pontaut, Jean-Marie, and Jérôme Dupuis. "Mazarine, la fille cachée." _L'Express_, November 3, 1994.
+
+[^54]: "Mitterrand reconnaît avoir une fille." _Paris Match_, November 10, 1994.
+
+[^55]: "Adieux à François Mitterrand: Les deux familles réunies." _Le Figaro_, January 12, 1996.
+
+[^56]: Pingeot, Mazarine. _Premier roman_. Paris: Julliard, 1998.
+
+[^57]: Mitterrand, François. _Mémoires interrompus_. Paris: Odile Jacob, 1996.
+
+[^58]: Mitterrand, François. _La Paille et le Grain_. Paris: Flammarion, 1975.
+
+[^59]: Attali, Jacques. _Verbatim: Chronique des années 1981-1986_. Paris: Fayard, 1993.
+
+[^60]: Nay, Catherine. _Les Sept Mitterrand_. Paris: Grasset, 1988.
+
 [^61]: Séguéla, Jacques. "La force tranquille," campaign slogan and poster, 1981 presidential campaign.
-[^62]: Gubler, Claude. *Le Grand Secret*. Paris: Plon, 1996.
-[^63]: "Le médecin de Mitterrand condamné." *Libération*, January 15, 1997.
-[^64]: "François Mitterrand inhumé à Jarnac." *Le Monde*, January 13, 1996.
-[^65]: Bell, David S., and Byron Criddle. *The French Socialist Party*. Oxford: Clarendon Press, 1988.
-[^66]: Cole, Alistair. *François Mitterrand: A Study in Political Leadership*. London: Routledge, 1994.
-[^67]: Badinter, Robert. *L'Abolition*. Paris: Fayard, 2000.
-[^68]: Biasini, Émile. *Grands Travaux*. Paris: Odile Jacob, 1995.
-[^69]: Bozo, Frédéric. *Mitterrand, the End of the Cold War, and German Unification*. New York: Berghahn Books, 2009.
-[^70]: Dyson, Kenneth, and Kevin Featherstone. *The Road to Maastricht*. Oxford: Oxford University Press, 1999.
-[^71]: Rousso, Henry. *The Vichy Syndrome*. Cambridge: Harvard University Press, 1991.
-[^72]: Melvern, Linda. *A People Betrayed*. London: Zed Books, 2000.
-[^73]: Sachs, Jeffrey D., and Charles Wyplosz. "The Economic Consequences of President Mitterrand." *Economic Policy* 1, no. 2 (1986): 261-322.
-[^74]: Giesbert, Franz-Olivier. *François Mitterrand: Une vie*. Paris: Seuil, 1996.
-[^75]: Nay, Catherine. *Les Sept Mitterrand*. Paris: Grasset, 1988.
-[^76]: Tiersky, Ronald. *François Mitterrand: The Last French President*. New York: St. Martin's Press, 2000.
-[^77]: Lacouture, Jean. *Mitterrand: Une histoire de Français*. Paris: Seuil, 1998.
-[^78]: Ross, George, Stanley Hoffmann, and Sylvia Malzacher, eds. *The Mitterrand Experiment*. Oxford: Polity Press, 1987.
-[^79]: Lacouture, Jean. *Mitterrand: Une histoire de Français*, Vol. 2, conclusion.
-[^80]: Cameron, David R. "Exchange Rate Politics in France, 1981-1983." In *The Mitterrand Era*, edited by Anthony Daley. New York: NYU Press, 1996.
-[^81]: Jospin, Lionel. *Le monde comme je le vois*. Paris: Gallimard, 2005.
-[^82]: Levy, Jonah D. *Tocqueville's Revenge*. Cambridge: Harvard University Press, 1999.
-[^83]: Kohl, Helmut. *Erinnerungen 1982-1990*. Munich: Droemer, 2005.
-[^84]: Lang, Jack. *Les Batailles de Lang*. Paris: Éditions du Moment, 2016.
-[^85]: Short, Philip. *Mitterrand: A Study in Ambiguity*. London: Bodley Head, 2013.
-[^86]: Lacouture, Jean. *Mitterrand: Une histoire de Français*, analysis of memory and ambiguity.
-[^87]: Mitterrand, François. *La Paille et le Grain*. Paris: Flammarion, 1975.
-[^88]: Mitterrand, François. *Mémoires interrompus*. Paris: Odile Jacob, 1996.
-[^89]: Rousso, Henry. *The Vichy Syndrome*. Cambridge: Harvard University Press, 1991.
-[^90]: "Chirac reconnaît la responsabilité de la France dans la déportation." *Le Monde*, July 17, 1995.
-[^91]: Sapir, Jacques. *Les Trous noirs de la science économique*. Paris: Albin Michel, 2000.
-[^92]: Hall, Peter A. *Governing the Economy*. Oxford: Oxford University Press, 1986.
-[^93]: *Mission d'information parlementaire sur le Rwanda*. National Assembly Report No. 1271, December 15, 1998.
-[^94]: Verschave, François-Xavier. *La Françafrique*. Paris: Stock, 1998.
-[^95]: Alesina, Alberto, and Roberto Perotti. "The Political Economy of Budget Deficits." *IMF Staff Papers* 42, no. 1 (1995): 1-31.
-[^96]: "Le coût des grands travaux de Mitterrand." *Les Échos*, January 10, 1996.
-[^97]: Coignard, Sophie, and Alexandre Wickham. *La Nomenklatura française*. Paris: Belfond, 1988.
-[^98]: Plenel, Edwy, and Alain Rollat. *Moutons noirs et habits blancs*. Paris: Monde Éditions, 1990.
-[^99]: Giesbert, Franz-Olivier. *Le Président*. Paris: Seuil, 1990.
-[^100]: Nay, Catherine. *Le Noir et le Rouge*. Paris: Grasset, 1984.
-[^101]: Attali, Jacques. *Verbatim*, Vol. 1. Paris: Fayard, 1993.
+
+[^62]: Gubler, Claude. _Le Grand Secret_. Paris: Plon, 1996.
+
+[^63]: "Le médecin de Mitterrand condamné." _Libération_, January 15, 1997.
+
+[^64]: "François Mitterrand inhumé à Jarnac." _Le Monde_, January 13, 1996.
+
+[^65]: Bell, David S., and Byron Criddle. _The French Socialist Party_. Oxford: Clarendon Press, 1988.
+
+[^66]: Cole, Alistair. _François Mitterrand: A Study in Political Leadership_. London: Routledge, 1994.
+
+[^67]: Badinter, Robert. _L'Abolition_. Paris: Fayard, 2000.
+
+[^68]: Biasini, Émile. _Grands Travaux_. Paris: Odile Jacob, 1995.
+
+[^69]: Bozo, Frédéric. _Mitterrand, the End of the Cold War, and German Unification_. New York: Berghahn Books, 2009.
+
+[^70]: Dyson, Kenneth, and Kevin Featherstone. _The Road to Maastricht_. Oxford: Oxford University Press, 1999.
+
+[^71]: Rousso, Henry. _The Vichy Syndrome_. Cambridge: Harvard University Press, 1991.
+
+[^72]: Melvern, Linda. _A People Betrayed_. London: Zed Books, 2000.
+
+[^73]: Sachs, Jeffrey D., and Charles Wyplosz. "The Economic Consequences of President Mitterrand." _Economic Policy_ 1, no. 2 (1986): 261-322.
+
+[^74]: Giesbert, Franz-Olivier. _François Mitterrand: Une vie_. Paris: Seuil, 1996.
+
+[^75]: Nay, Catherine. _Les Sept Mitterrand_. Paris: Grasset, 1988.
+
+[^76]: Tiersky, Ronald. _François Mitterrand: The Last French President_. New York: St. Martin's Press, 2000.
+
+[^77]: Lacouture, Jean. _Mitterrand: Une histoire de Français_. Paris: Seuil, 1998.
+
+[^78]: Ross, George, Stanley Hoffmann, and Sylvia Malzacher, eds. _The Mitterrand Experiment_. Oxford: Polity Press, 1987.
+
+[^79]: Lacouture, Jean. _Mitterrand: Une histoire de Français_, Vol. 2, conclusion.
+
+[^80]: Cameron, David R. "Exchange Rate Politics in France, 1981-1983." In _The Mitterrand Era_, edited by Anthony Daley. New York: NYU Press, 1996.
+
+[^81]: Jospin, Lionel. _Le monde comme je le vois_. Paris: Gallimard, 2005.
+
+[^82]: Levy, Jonah D. _Tocqueville's Revenge_. Cambridge: Harvard University Press, 1999.
+
+[^83]: Kohl, Helmut. _Erinnerungen 1982-1990_. Munich: Droemer, 2005.
+
+[^84]: Lang, Jack. _Les Batailles de Lang_. Paris: Éditions du Moment, 2016.
+
+[^85]: Short, Philip. _Mitterrand: A Study in Ambiguity_. London: Bodley Head, 2013.
+
+[^86]: Lacouture, Jean. _Mitterrand: Une histoire de Français_, analysis of memory and ambiguity.
+
+[^87]: Mitterrand, François. _La Paille et le Grain_. Paris: Flammarion, 1975.
+
+[^88]: Mitterrand, François. _Mémoires interrompus_. Paris: Odile Jacob, 1996.
+
+[^89]: Rousso, Henry. _The Vichy Syndrome_. Cambridge: Harvard University Press, 1991.
+
+[^90]: "Chirac reconnaît la responsabilité de la France dans la déportation." _Le Monde_, July 17, 1995.
+
+[^91]: Sapir, Jacques. _Les Trous noirs de la science économique_. Paris: Albin Michel, 2000.
+
+[^92]: Hall, Peter A. _Governing the Economy_. Oxford: Oxford University Press, 1986.
+
+[^93]: _Mission d'information parlementaire sur le Rwanda_. National Assembly Report No. 1271, December 15, 1998.
+
+[^94]: Verschave, François-Xavier. _La Françafrique_. Paris: Stock, 1998.
+
+[^95]: Alesina, Alberto, and Roberto Perotti. "The Political Economy of Budget Deficits." _IMF Staff Papers_ 42, no. 1 (1995): 1-31.
+
+[^96]: "Le coût des grands travaux de Mitterrand." _Les Échos_, January 10, 1996.
+
+[^97]: Coignard, Sophie, and Alexandre Wickham. _La Nomenklatura française_. Paris: Belfond, 1988.
+
+[^98]: Plenel, Edwy, and Alain Rollat. _Moutons noirs et habits blancs_. Paris: Monde Éditions, 1990.
+
+[^99]: Giesbert, Franz-Olivier. _Le Président_. Paris: Seuil, 1990.
+
+[^100]: Nay, Catherine. _Le Noir et le Rouge_. Paris: Grasset, 1984.
+
+[^101]: Attali, Jacques. _Verbatim_, Vol. 1. Paris: Fayard, 1993.
+
 [^102]: Mitterrand, François. Speech to European Parliament, Strasbourg, January 17, 1995.
-[^103]: Mitterrand, François. *La Paille et le Grain*. Paris: Flammarion, 1975.
-[^104]: Attali, Jacques. *Verbatim*, Vol. 2. Paris: Fayard, 1995.
+
+[^103]: Mitterrand, François. _La Paille et le Grain_. Paris: Flammarion, 1975.
+
+[^104]: Attali, Jacques. _Verbatim_, Vol. 2. Paris: Fayard, 1995.
+
 [^105]: Mitterrand, François. New Year's Address, December 31, 1994.

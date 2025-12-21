@@ -143,30 +143,30 @@ The early resignation in June 1989, five months before his term's end, is viewed
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1927 | Born on March 12 in Chascomús, Buenos Aires Province |
-| 1945 | Joined the Unión Cívica Radical (Radical Civic Union) |
-| 1949 | Married María Lorenza Barreneche |
-| 1950 | Obtained law degree from National University of La Plata |
-| 1976 | Military coup began the "National Reorganization Process" dictatorship |
-| 1983 | Elected president on October 30, defeating Peronism for first time |
-| 1983 | Inaugurated as president on December 10 (International Human Rights Day) |
-| 1983 | Created CONADEP (National Commission on the Disappearance of Persons) on December 15 |
-| 1984 | CONADEP delivered "Nunca Más" report on September 20 |
+| Year | Event                                                                                      |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 1927 | Born on March 12 in Chascomús, Buenos Aires Province                                       |
+| 1945 | Joined the Unión Cívica Radical (Radical Civic Union)                                      |
+| 1949 | Married María Lorenza Barreneche                                                           |
+| 1950 | Obtained law degree from National University of La Plata                                   |
+| 1976 | Military coup began the "National Reorganization Process" dictatorship                     |
+| 1983 | Elected president on October 30, defeating Peronism for first time                         |
+| 1983 | Inaugurated as president on December 10 (International Human Rights Day)                   |
+| 1983 | Created CONADEP (National Commission on the Disappearance of Persons) on December 15       |
+| 1984 | CONADEP delivered "Nunca Más" report on September 20                                       |
 | 1984 | Signed Treaty of Peace and Friendship with Chile on November 29, resolving Beagle conflict |
-| 1985 | Trial of the Juntas began on April 22 |
-| 1985 | Launched Austral Plan economic program in June |
-| 1985 | Received Princess of Asturias Award for international cooperation |
-| 1985 | Trial of the Juntas verdict delivered December 9, sentencing Videla and Massera to life |
-| 1986 | Full Stop Law passed in December |
-| 1987 | Easter Week military rebellion (Carapintadas) in April |
-| 1987 | Due Obedience Law passed in June |
-| 1987 | Divorce law enacted, legalizing divorce in Argentina |
-| 1989 | Hyperinflation exceeded 3,000% annually |
-| 1989 | Resigned presidency on June 30, five months early |
-| 1992 | Established Argentine Foundation for the Freedom of Information |
-| 2009 | Died on March 31 at age 82 from lung cancer complications |
+| 1985 | Trial of the Juntas began on April 22                                                      |
+| 1985 | Launched Austral Plan economic program in June                                             |
+| 1985 | Received Princess of Asturias Award for international cooperation                          |
+| 1985 | Trial of the Juntas verdict delivered December 9, sentencing Videla and Massera to life    |
+| 1986 | Full Stop Law passed in December                                                           |
+| 1987 | Easter Week military rebellion (Carapintadas) in April                                     |
+| 1987 | Due Obedience Law passed in June                                                           |
+| 1987 | Divorce law enacted, legalizing divorce in Argentina                                       |
+| 1989 | Hyperinflation exceeded 3,000% annually                                                    |
+| 1989 | Resigned presidency on June 30, five months early                                          |
+| 1992 | Established Argentine Foundation for the Freedom of Information                            |
+| 2009 | Died on March 31 at age 82 from lung cancer complications                                  |
 
 ---
 
@@ -185,110 +185,217 @@ The early resignation in June 1989, five months before his term's end, is viewed
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^2]: https://www.britannica.com/biography/Raul-Alfonsin
+
 [^3]: https://allfamous.org/people/raul-alfonsin-19270312.html
+
 [^4]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^5]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^6]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/raul-ricardo-alfonsin
+
 [^7]: https://kids.britannica.com/students/article/Raúl-Alfonsín/316047
+
 [^8]: https://www.britannica.com/biography/Raul-Alfonsin
+
 [^9]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/raul-ricardo-alfonsin
+
 [^10]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/raul-ricardo-alfonsin
+
 [^11]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^12]: https://www.britannica.com/biography/Raul-Alfonsin
+
 [^13]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^14]: https://libjournals.unca.edu/ncur/wp-content/uploads/2021/06/1894-Esparza-Gabriella-FINAL.pdf
+
 [^15]: https://www.britannica.com/biography/Raul-Alfonsin
+
 [^16]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^17]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/raul-ricardo-alfonsin
+
 [^18]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^19]: https://libjournals.unca.edu/ncur/wp-content/uploads/2021/06/1894-Esparza-Gabriella-FINAL.pdf
+
 [^20]: https://en.wikipedia.org/wiki/National_Commission_on_the_Disappearance_of_Persons
+
 [^21]: https://en.wikipedia.org/wiki/National_Commission_on_the_Disappearance_of_Persons
+
 [^22]: https://law.kuleuven.be/ltjb/35th-anniversary-of-nunca-mas-never-again-report-in-argentina/
+
 [^23]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^24]: https://en.wikipedia.org/wiki/Trial_of_the_Juntas
+
 [^25]: https://en.wikipedia.org/wiki/Trial_of_the_Juntas
+
 [^26]: https://liberal-international.org/people/raul-alfonsin/
+
 [^27]: https://www.fpa.es/en/princess-of-asturias-awards/laureates/1985-raul-alfonsin/?texto=trayectoria
+
 [^28]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/raul-ricardo-alfonsin
+
 [^29]: https://en.wikipedia.org/wiki/Beagle_conflict
+
 [^30]: https://en.wikipedia.org/wiki/Beagle_conflict
+
 [^31]: https://www.pressenza.com/2023/12/from-alfonsin-to-milei-40-years-of-argentinean-democracy/
+
 [^32]: https://en.wikipedia.org/wiki/Treaty_of_Peace_and_Friendship_of_1984_between_Chile_and_Argentina
+
 [^33]: https://en.wikipedia.org/wiki/1984_Argentine_Beagle_conflict_dispute_resolution_referendum
+
 [^34]: https://en.wikipedia.org/wiki/Treaty_of_Peace_and_Friendship_of_1984_between_Chile_and_Argentina
+
 [^35]: https://repositories.lib.utexas.edu/bitstreams/5a3c060c-2f3f-4420-9e7c-f724d468dfcf/download
+
 [^36]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^37]: https://repositories.lib.utexas.edu/bitstreams/5a3c060c-2f3f-4420-9e7c-f724d468dfcf/download
+
 [^38]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^39]: https://en.wikipedia.org/wiki/Full_stop_law
+
 [^40]: https://www.bostonreview.net/articles/ferguson-the-unending-war-argentina/
+
 [^41]: https://en.wikipedia.org/wiki/Carapintadas
+
 [^42]: https://www.bostonreview.net/articles/ferguson-the-unending-war-argentina/
+
 [^43]: https://www.bostonreview.net/articles/ferguson-the-unending-war-argentina/
+
 [^44]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^45]: https://www.refworld.org/reference/countryrep/hrw/2006/en/31672
+
 [^46]: https://www.hrw.org/news/2005/06/14/argentina-amnesty-laws-struck-down
+
 [^47]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^48]: https://en.wikipedia.org/wiki/Presidency_of_Raúl_Alfonsín
+
 [^49]: https://www.britannica.com/topic/Austral-Plan
+
 [^50]: https://en.wikipedia.org/wiki/Austral_plan
+
 [^51]: https://en.wikipedia.org/wiki/Austral_plan
+
 [^52]: https://en.wikipedia.org/wiki/Presidency_of_Raúl_Alfonsín
+
 [^53]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^54]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^55]: https://grokipedia.com/page/1989_Argentine_general_election
+
 [^56]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^57]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^58]: https://www.washingtonpost.com/archive/politics/1989/07/08/with-the-economy-and-his-hopes-in-ruins-alfonsin-leaving-office-today/998b1e8a-2690-4e72-9fc0-c6fec96f602b/
+
 [^59]: https://www.washingtonpost.com/archive/politics/1989/07/08/with-the-economy-and-his-hopes-in-ruins-alfonsin-leaving-office-today/998b1e8a-2690-4e72-9fc0-c6fec96f602b/
+
 [^60]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^61]: https://theweek.com/articles/506702/ral-alfonsn
+
 [^62]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^63]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^64]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^65]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^66]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^67]: https://inteligenciaargentina.org/en/alfonsin/democracy
+
 [^68]: https://www.britannica.com/biography/Raul-Alfonsin
+
 [^69]: https://www.britannica.com/biography/Raul-Alfonsin
+
 [^70]: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Raúl_Alfonsín
+
 [^71]: https://tucson.com/news/article_09932253-3440-515b-845b-db1505a2c61d.html
+
 [^72]: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Raúl_Alfonsín
+
 [^73]: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Raúl_Alfonsín
+
 [^74]: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Raúl_Alfonsín
+
 [^75]: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Raúl_Alfonsín
+
 [^76]: https://inteligenciaargentina.org/en/alfonsin/democracy
+
 [^77]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^78]: https://ora.ox.ac.uk/objects/uuid:0bf396be-7c4f-4e13-931e-5ebdd1cade91
+
 [^79]: https://libjournals.unca.edu/ncur/wp-content/uploads/2021/06/1894-Esparza-Gabriella-FINAL.pdf
+
 [^80]: https://libjournals.unca.edu/ncur/wp-content/uploads/2021/06/1894-Esparza-Gabriella-FINAL.pdf
+
 [^81]: https://law.kuleuven.be/ltjb/35th-anniversary-of-nunca-mas-never-again-report-in-argentina/
+
 [^82]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^83]: https://www.fpa.es/en/princess-of-asturias-awards/laureates/1985-raul-alfonsin/?texto=trayectoria
+
 [^84]: https://journals.sagepub.com/doi/10.1177/29769442251325357
+
 [^85]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^86]: https://dissertationreviews.org/politics-of-rights-welfare-in-argentina-1982-90/
+
 [^87]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^88]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^89]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/raul-ricardo-alfonsin
+
 [^90]: https://www.fpa.es/en/princess-of-asturias-awards/laureates/1985-raul-alfonsin/?texto=trayectoria
+
 [^91]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^92]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^93]: https://www.hrw.org/news/2005/06/14/argentina-amnesty-laws-struck-down
+
 [^94]: https://repositories.lib.utexas.edu/bitstreams/5a3c060c-2f3f-4420-9e7c-f724d468dfcf/download
+
 [^95]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^96]: https://www.refworld.org/reference/countryrep/hrw/2006/en/31672
+
 [^97]: https://www.bostonreview.net/articles/ferguson-the-unending-war-argentina/
+
 [^98]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^99]: https://www.washingtonpost.com/archive/politics/1989/07/08/with-the-economy-and-his-hopes-in-ruins-alfonsin-leaving-office-today/998b1e8a-2690-4e72-9fc0-c6fec96f602b/
+
 [^100]: https://www.riotimesonline.com/brazil-news/mercosur/argentina/the-father-of-argentinas-hyperinflation-raul-alfonsins-chaotic-presidency/
+
 [^101]: https://journals.sagepub.com/doi/10.1177/29769442251325357
+
 [^102]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^103]: https://en.wikipedia.org/wiki/Raúl_Alfonsín
+
 [^104]: https://theweek.com/articles/506702/ral-alfonsn
+
 [^105]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^106]: https://buenosairesherald.com/human-rights/40-years-later-a-look-back-at-the-day-argentina-recovered-democracy
+
 [^107]: https://inteligenciaargentina.org/en/alfonsin/democracy
+
 [^108]: https://www.reaganlibrary.gov/archives/speech/toasts-state-dinner-president-raul-alfonsin-argentina

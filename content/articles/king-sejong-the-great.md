@@ -151,27 +151,27 @@ Finally, skeptics note that historical sources about Sejong come primarily from 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1397 | Born on May 15 as Yi Do, third son of King Taejong |
-| 1408 | Married to Lady Sim (later Queen Soheon) at age eleven |
-| 1413 | Named Grand Prince Chungnyeong after his father became king |
-| 1418 | Ascended to throne as King Sejong on August 10 |
-| 1419 | Authorized Gihae Eastern Expedition against Japanese pirates |
-| 1420 | Established the Hall of Worthies (Jiphyeonjeon) |
-| 1422 | King Taejong died; Sejong assumed full royal authority |
-| 1429 | Published "Nongsa jikseol" (Straight Talk on Farming) |
-| 1432 | Completed "Chiljeongsan" (Calculation of the Seven Celestial Determinants) |
-| 1434 | Campaigns against Jurchen tribes in northern frontier began |
-| 1437 | Invented improved water clock (Jagyeongnu) |
-| 1441 | Invented Cheugugi (rain gauge), world's first standardized rain gauge |
-| 1443 | Completed creation of Hangul (initial announcement) |
-| 1444 | Choi Manri submitted memorial opposing Hangul promulgation |
+| Year | Event                                                                        |
+| ---- | ---------------------------------------------------------------------------- |
+| 1397 | Born on May 15 as Yi Do, third son of King Taejong                           |
+| 1408 | Married to Lady Sim (later Queen Soheon) at age eleven                       |
+| 1413 | Named Grand Prince Chungnyeong after his father became king                  |
+| 1418 | Ascended to throne as King Sejong on August 10                               |
+| 1419 | Authorized Gihae Eastern Expedition against Japanese pirates                 |
+| 1420 | Established the Hall of Worthies (Jiphyeonjeon)                              |
+| 1422 | King Taejong died; Sejong assumed full royal authority                       |
+| 1429 | Published "Nongsa jikseol" (Straight Talk on Farming)                        |
+| 1432 | Completed "Chiljeongsan" (Calculation of the Seven Celestial Determinants)   |
+| 1434 | Campaigns against Jurchen tribes in northern frontier began                  |
+| 1437 | Invented improved water clock (Jagyeongnu)                                   |
+| 1441 | Invented Cheugugi (rain gauge), world's first standardized rain gauge        |
+| 1443 | Completed creation of Hangul (initial announcement)                          |
+| 1444 | Choi Manri submitted memorial opposing Hangul promulgation                   |
 | 1446 | Officially promulgated Hangul through "Hunminjeongeum" document on October 9 |
-| 1446 | Queen Soheon died |
-| 1447 | Completed establishment of six garrison towns (Yukjin) on northern border |
-| 1450 | Died on April 8 at age 52 after long illness |
-| 1450 | Succeeded by his first son, Munjong |
+| 1446 | Queen Soheon died                                                            |
+| 1447 | Completed establishment of six garrison towns (Yukjin) on northern border    |
+| 1450 | Died on April 8 at age 52 after long illness                                 |
+| 1450 | Succeeded by his first son, Munjong                                          |
 
 ---
 
@@ -192,118 +192,233 @@ Finally, skeptics note that historical sources about Sejong come primarily from 
 ## References
 
 [^1]: Seth, Michael J. (2010). A History of Korea: From Antiquity to the Present. Rowman & Littlefield Publishers.
+
 [^2]: Korean Culture and Information Service (2015). King Sejong the Great: The Light of Fifteenth Century Korea. Seoul: KOCIS.
+
 [^3]: Lee, Ki-baik (1984). A New History of Korea. Harvard University Press.
+
 [^4]: Palais, James B. (1996). Confucian Statecraft and Korean Institutions: Yu Hyŏngwŏn and the Late Chosŏn Dynasty. University of Washington Press.
+
 [^5]: Duncan, John (2000). The Origins of the Chosŏn Dynasty. University of Washington Press.
+
 [^6]: Haboush, JaHyun Kim (2016). The Great East Asian War and the Birth of the Korean Nation. Columbia University Press.
+
 [^7]: Robinson, Kenneth R. (2013). "Residence and Foreign Relations in the Peninsula," in The Cambridge History of Korea, Volume 1.
+
 [^8]: Wagner, Edward W. (1974). The Literati Purges: Political Conflict in Early Yi Korea. Harvard University Press.
+
 [^9]: Deuchler, Martina (1992). The Confucian Transformation of Korea: A Study of Society and Ideology. Harvard University Press.
+
 [^10]: Kim, Djun Kil (2014). The History of Korea, 2nd Edition. ABC-CLIO.
+
 [^11]: National Institute of Korean History (2013). The Annals of King Sejong (Sejong Sillok), English translation excerpts.
+
 [^12]: Kang, Jae-eun (2006). The Land of Scholars: Two Thousand Years of Korean Confucianism. Homa & Sekey Books.
+
 [^13]: Yi, Ki-moon (1998). "King Sejong's Political Philosophy and Confucian Governance," Journal of Korean Studies 3(1): 45-67.
+
 [^14]: Pratt, Keith L., and Richard Rutt (1999). Korea: A Historical and Cultural Dictionary. Routledge.
+
 [^15]: Park, Eugene Y. (2018). A Family of No Prominence: The Descendants of Pak Tŏkhwa and the Birth of Modern Korea. Stanford University Press.
+
 [^16]: Song, Jae-yong (2005). "The Hall of Worthies and Intellectual Culture in Early Joseon," Korean Historical Review 112: 89-118.
+
 [^17]: Chung, Chai-sik (2016). A Korean Confucian Encounter with the Modern World: Yi Hang-no and the West. Institute of East Asian Studies, University of California.
+
 [^18]: Setton, Mark (1997). Chŏng Yagyong: Korea's Challenge to Orthodox Neo-Confucianism. State University of New York Press.
+
 [^19]: Swope, Kenneth M. (2009). A Dragon's Head and a Serpent's Tail: Ming China and the First Great East Asian War. University of Oklahoma Press.
+
 [^20]: Lewis, James B. (2003). Frontier Contact Between Chosŏn Korea and Tokugawa Japan. Routledge.
+
 [^21]: King, Ross (1998). "Nationalism and Language Reform in Korea: The Questione della Lingua in Precolonial Korea," in Nationalism and the Construction of Korean Identity, edited by Hyung Il Pai and Timothy R. Tangherlini. Institute of East Asian Studies, University of California.
+
 [^22]: Lee, Iksop, and S. Robert Ramsey (2011). The Korean Language. State University of New York Press.
+
 [^23]: Kim-Renaud, Young-Key, ed. (1997). The Korean Alphabet: Its History and Structure. University of Hawaii Press.
+
 [^24]: Ledyard, Gari (1998). The Korean Language Reform of 1446. Shingu College.
+
 [^25]: Sampson, Geoffrey (2015). Writing Systems: A Linguistic Introduction, 2nd Edition. Stanford University Press.
+
 [^26]: Fischer, Stephen Roger (2004). History of Writing. Reaktion Books.
+
 [^27]: Jeon, Sang-woon (1998). Science and Technology in Korea: Traditional Instruments and Techniques. MIT Press.
+
 [^28]: Rufus, W. Carl (1936). "Korean Astronomy," Popular Astronomy 44: 521-535.
+
 [^29]: Kim, Sang-hyuk (2000). "Science and Technology in Korean History," in Korean History: Discovery of Its Characteristics and Developments, edited by Korean National Commission for UNESCO.
+
 [^30]: Park, Seong-rae (2012). "The History of Korean Printing," Korean Culture 33(2): 12-25.
+
 [^31]: Kim, Yung Sik (2014). Questioning Science in East Asian Contexts: Essays on Science, Confucianism, and the Comparative History of Science. Brill.
+
 [^32]: Provine, Robert C. (1988). Essays on Sino-Korean Musicology: Early Sources for Korean Ritual Music. Seoul: Il Ji Sa.
+
 [^33]: Song, Bang-song (1980). The Korean Music Tradition of King Sejong. Seoul: Korean Musicological Society.
+
 [^34]: Palais, James B. (1975). Politics and Policy in Traditional Korea. Harvard University Press.
+
 [^35]: Lee, Young-hoon (2016). "Economic Development in Joseon Korea," Journal of Economic History of Korea 12: 45-78.
+
 [^36]: Kim, Sun Joo (2004). Marginality and Subversion in Korea: The Hong Kyŏngnae Rebellion of 1812. University of Washington Press.
+
 [^37]: Shaw, William (2006). Legal Norms in a Confucian State. Institute of East Asian Studies, University of California.
+
 [^38]: Park, Mi (2012). "Criminal Justice in Early Joseon Korea," Asian Journal of Law and Society 3(1): 89-112.
+
 [^39]: Ledyard, Gari (1983). "Korean Travelers in China Over Four Hundred Years, 1488-1887," Occasional Papers on Korea 2: 1-42.
+
 [^40]: Robinson, Kenneth R. (2000). "From Raiders to Traders: Border Security and Border Control in Early Chosŏn, 1392-1450," Korean Studies 24: 94-115.
+
 [^41]: Kang, Etsuko Hae-jin (1997). Diplomacy and Ideology in Japanese-Korean Relations: From the Fifteenth to the Eighteenth Century. Macmillan Press.
+
 [^42]: King, Ross (2007). "Dialectical Variation in Korean," in The Handbook of Korean Linguistics, edited by Lucien Brown and Jaehoon Yeon. Wiley-Blackwell.
+
 [^43]: Chin, Sang-mi (1994). "Adoption of Hangul and Literacy in Korea," Language Problems and Language Planning 18(1): 1-15.
+
 [^44]: Kang, Myongkwan (2014). "Resistance to Hangul in the Joseon Dynasty," Korean Linguistics Review 15(2): 234-256.
+
 [^45]: Silva, David J. (2008). "Missionary Contributions to Korean Language Studies," Historiographia Linguistica 35(1-2): 153-194.
+
 [^46]: Kim, Han-kyo (1980). "The Jurchen in the Relations Between Ming China and Chosŏn Korea," Journal of Asian History 14(2): 99-125.
+
 [^47]: Elliott, Mark C. (2001). The Manchu Way: The Eight Banners and Ethnic Identity in Late Imperial China. Stanford University Press.
+
 [^48]: Yi, T'ae-jin (1991). "King Sejong's Health Problems and Their Impact on Governance," Seoul Journal of Korean Studies 4: 67-89.
+
 [^49]: Kim, Shin-myong (2007). "Medical History of the Joseon Royal Family," Korean Journal of Medical History 16(1): 45-68.
+
 [^50]: Duncan, John B. (1998). "The Naehun and the Politics of Gender in Fifteenth-Century Korea," in Creative Women of Korea, edited by Young-Key Kim-Renaud. M.E. Sharpe.
+
 [^51]: Wagner, Edward W. (1983). "The Ladder of Success in Yi Dynasty Korea," Occasional Papers on Korea 1: 1-8.
+
 [^52]: Kim, Young-mi (2011). "Slavery in the Joseon Dynasty," Journal of Korean History 35: 112-145.
+
 [^53]: Deuchler, Martina (2015). Under the Ancestors' Eyes: Kinship, Status, and Locality in Premodern Korea. Harvard University Asia Center.
+
 [^54]: Lee, Ki-moon, and Robert Ramsey (2000). "A History of the Korean Language," in The Korean Language, Cambridge University Press.
+
 [^55]: Sohn, Ho-min (1999). The Korean Language. Cambridge University Press.
+
 [^56]: Kim, Kyung-mi (2008). "Royal Women of the Joseon Dynasty," Korean Studies Review 11: 78-102.
+
 [^57]: JaHyun Kim Haboush (2003). "Versions and Subversions: Patriarchy and Polygamy in Korean Narratives," in Women and Confucian Cultures in Premodern China, Korea, and Japan, edited by Dorothy Ko, JaHyun Kim Haboush, and Joan R. Piggott. University of California Press.
+
 [^58]: Peterson, Mark A. (1996). Korean Adoption and Inheritance: Case Studies in the Creation of a Classic Confucian Society. Cornell University East Asia Program.
+
 [^59]: Choi, Byonghyon (1992). "The Politics of the Joseon Royal Court," Korean Journal of Political History 8: 34-56.
+
 [^60]: Lee, Sungsi (1996). "Royal Succession and Political Conflict in the Joseon Dynasty," Journal of Korean Studies 5(1): 23-45.
+
 [^61]: Kim, Yung Sik (1998). "Problems and Possibilities in the Study of the History of Korean Science," Osiris 13: 48-79.
+
 [^62]: Needham, Joseph, and Lu Gwei-djen (1980). Celestial Lancets: A History and Rationale of Acupuncture and Moxa. Cambridge University Press.
+
 [^63]: Shin, Dong Hoon, et al. (2016). "Medical Diagnosis of King Sejong Based on Historical Records," Journal of Korean Medical Science 31(8): 1236-1243.
+
 [^64]: Park, Yune-hee (2003). "Disease and Death in the Joseon Royal Family," Korean Journal of Medical History 12(2): 89-106.
+
 [^65]: Kalton, Michael C. (1988). "Korean Ideas and Values," in Korean Cultural Series. International Cultural Foundation of Korea.
+
 [^66]: Hwang, Kyung Moon (2004). "Bureaucracy in the Transition to Korean Modernity," Journal of Korean Studies 9(1): 125-153.
+
 [^67]: Korean Culture and Information Service (2012). Facts About Korea. Seoul: KOCIS.
+
 [^68]: Clark, Donald N. (2000). Culture and Customs of Korea. Greenwood Press.
+
 [^69]: Hannas, William C. (1997). Asia's Orthographic Dilemma. University of Hawaii Press.
+
 [^70]: Taylor, Insup, and M. Martin Taylor (2014). Writing and Literacy in Chinese, Korean and Japanese. John Benjamins Publishing.
+
 [^71]: Coulmas, Florian (2003). Writing Systems: An Introduction to Their Linguistic Analysis. Cambridge University Press.
+
 [^72]: Nam, Moon Hyon (2015). "Scientific Heritage of the Joseon Dynasty," Korea Journal 55(4): 8-35.
+
 [^73]: Jeon, Sang-woon (1974). Science and Technology in Korea. MIT Press.
+
 [^74]: Korean Studies Institute (2018). Symbols of Korea. Seoul: KSI Press.
+
 [^75]: Lett, Denise Potrzeba (1998). In Pursuit of Status: The Making of South Korea's "New" Urban Middle Class. Harvard University Asia Center.
+
 [^76]: Hur, Nam-lin (2000). "The Commemoration of King Sejong in Modern Korea," Review of Korean Studies 3(2): 167-189.
+
 [^77]: Sorensen, Clark W. (1994). "Success and Education in South Korea," Comparative Education Review 38(1): 10-35.
+
 [^78]: Seth, Michael J. (2002). Education Fever: Society, Politics, and the Pursuit of Schooling in South Korea. University of Hawaii Press.
+
 [^79]: Elman, Benjamin A. (2000). A Cultural History of Civil Examinations in Late Imperial China. University of California Press.
+
 [^80]: Brook, Timothy (2010). The Troubled Empire: China in the Yuan and Ming Dynasties. Harvard University Press.
+
 [^81]: Shin, Gi-Wook (2006). Ethnic Nationalism in Korea: Genealogy, Politics, and Legacy. Stanford University Press.
+
 [^82]: Schmid, Andre (2002). Korea Between Empires, 1895-1919. Columbia University Press.
+
 [^83]: Robinson, Michael E. (2007). Korea's Twentieth-Century Odyssey. University of Hawaii Press.
+
 [^84]: Cumings, Bruce (2005). Korea's Place in the Sun: A Modern History. W.W. Norton & Company.
+
 [^85]: DeFrancis, John (1989). Visible Speech: The Diverse Oneness of Writing Systems. University of Hawaii Press.
+
 [^86]: Ramsey, S. Robert (1987). The Languages of China. Princeton University Press.
+
 [^87]: Rogers, Henry (2005). Writing Systems: A Linguistic Approach. Blackwell Publishing.
+
 [^88]: Elman, Benjamin A., and Alexander Woodside, eds. (1994). Education and Society in Late Imperial China. University of California Press.
+
 [^89]: Haboush, JaHyun Kim, and Martina Deuchler, eds. (1999). Culture and the State in Late Chosŏn Korea. Harvard University Asia Center.
+
 [^90]: de Bary, William Theodore, and JaHyun Kim Haboush, eds. (1985). The Rise of Neo-Confucianism in Korea. Columbia University Press.
+
 [^91]: Choi, Byung-Hoon (1987). "Confucian Philosophy and Democracy," Journal of Social Philosophy 18(1): 57-68.
+
 [^92]: Han, Young-woo (2004). "Confucian Statecraft and Korean Institutions," Korean Studies 28: 1-25.
+
 [^93]: Tangherlini, Timothy R. (1998). "Shamans, Students, and the State," in Nationalism and the Construction of Korean Identity, edited by Hyung Il Pai and Timothy R. Tangherlini. Institute of East Asian Studies.
+
 [^94]: Sivin, Nathan (1995). "State, Cosmos, and Body in the Last Three Centuries B.C.," Harvard Journal of Asiatic Studies 55(1): 5-37.
+
 [^95]: Lloyd, Geoffrey, and Nathan Sivin (2002). The Way and the Word: Science and Medicine in Early China and Greece. Yale University Press.
+
 [^96]: Bass, Bernard M. (1985). Leadership and Performance Beyond Expectations. Free Press.
+
 [^97]: Burns, James MacGregor (2003). Transforming Leadership. Grove Press.
+
 [^98]: Pai, Hyung Il (2000). Constructing "Korean" Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State Formation Theories. Harvard University Asia Center.
+
 [^99]: Em, Henry H. (2013). The Great Enterprise: Sovereignty and Historiography in Modern Korea. Duke University Press.
+
 [^100]: Palais, James B. (1984). "Confucianism and the Aristocratic/Bureaucratic Balance in Korea," Harvard Journal of Asiatic Studies 44(2): 427-468.
+
 [^101]: Kim, Sun Joo (2007). "Taxes, the Local Elite, and the Rural Populace in the Chinju Uprising of 1862," Journal of Asian Studies 66(4): 993-1027.
+
 [^102]: King, Ross (2015). "Ditching Diglossia: Describing Ecoglossia in the Two Koreas," in The Handbook of Korean Linguistics, edited by Lucien Brown and Jaehoon Yeon. Wiley-Blackwell.
+
 [^103]: Silva, David J. (2002). "Western Attitudes Toward the Korean Language," Korean Studies 26(2): 270-286.
+
 [^104]: Shin, Gi-Wook, and Michael Robinson, eds. (1999). Colonial Modernity in Korea. Harvard University Asia Center.
+
 [^105]: Henry, Todd A. (2014). Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-1945. University of California Press.
+
 [^106]: Crossley, Pamela Kyle (1999). A Translucent Mirror: History and Identity in Qing Imperial Ideology. University of California Press.
+
 [^107]: Kim, Loretta E. (2013). "Saints for Shamans? Culture, Religion and Borderland Politics in Amuria from the Seventeenth to Nineteenth Centuries," Central Asiatic Journal 56: 169-202.
+
 [^108]: Roetz, Heiner (1993). Confucian Ethics of the Axial Age. State University of New York Press.
+
 [^109]: Tu, Wei-ming (1985). Confucian Thought: Selfhood as Creative Transformation. State University of New York Press.
+
 [^110]: Shultz, Edward J. (2000). Generals and Scholars: Military Rule in Medieval Korea. University of Hawaii Press.
+
 [^111]: Han, Young-woo (2010). "Korean Historical Records and Their Reliability," Korea Journal 50(3): 5-31.
+
 [^112]: National Institute of Korean Language (1997). Hunminjeongeum: The Correct Sounds for the Instruction of the People. Seoul: NIKL.
+
 [^113]: Sejong Sillok (Annals of King Sejong), Volume 89, translated excerpt.
+
 [^114]: Hunminjeongeum Haerye (Explanations and Examples of Hunminjeongeum), 1446, modern translation.
+
 [^115]: Recorded in Sejong Sillok, attributed to King Sejong during a court discussion on tax relief in 1432.
+
 [^116]: Adapted from Confucian Analects, quoted by King Sejong in his instructions to the Hall of Worthies scholars.

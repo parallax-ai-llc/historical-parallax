@@ -37,6 +37,7 @@ Ferdinand Marcos was elected president in 1965 and won a second term in 1969. Fa
 ### Ninoy Aquino: From Opponent to Martyr
 
 **Benigno "Ninoy" Aquino Jr.** was the primary opposition leader:
+
 - Senator, potential presidential candidate
 - Arrested under martial law in 1972
 - Sentenced to death (commuted), imprisoned for years
@@ -48,6 +49,7 @@ Ferdinand Marcos was elected president in 1965 and won a second term in 1969. Fa
 On August 21, 1983, Ninoy Aquino returned to the Philippines despite warnings that his life was in danger. As he descended from the plane at Manila International Airport, he was shot in the head and killed on the tarmac. A supposed "communist assassin" was immediately killed by soldiers, but Filipinos did not believe the official story.[^7]
 
 **Impact of the Assassination:**
+
 - Massive public outrage
 - Millions attended Ninoy's funeral procession
 - Economic crisis deepened
@@ -61,6 +63,7 @@ On August 21, 1983, Ninoy Aquino returned to the Philippines despite warnings th
 ### Growing Opposition (1983-1985)
 
 After Ninoy's assassination:
+
 - "Noise barrages" (confetti-throwing protests) became common
 - Business community turned against Marcos
 - Catholic Church became openly critical
@@ -72,6 +75,7 @@ After Ninoy's assassination:
 Under pressure from the US Reagan administration, Marcos called a surprise ("snap") presidential election for February 7, 1986. Corazon Aquino—Ninoy's widow, with no prior political experience—became the unified opposition candidate.[^10]
 
 **Election Day:**
+
 - NAMFREL (citizen election watchdog) documented massive fraud
 - Vote-buying, ballot-stuffing, intimidation widespread
 - Electronic vote count showed Aquino winning, then transmission cut
@@ -107,6 +111,7 @@ Within hours, tens of thousands of Filipinos began streaming to EDSA.
 ### February 23-24: The Human Barricade
 
 **Day 2-3 of the Revolution:**
+
 - Hundreds of thousands filled EDSA
 - Nuns prayed rosaries before tanks
 - Civilians offered flowers and food to soldiers
@@ -114,6 +119,7 @@ Within hours, tens of thousands of Filipinos began streaming to EDSA.
 - Several units ordered to attack refused; some defected[^15]
 
 **Key Moments:**
+
 - Navy helicopters defected, landing at Camp Crame
 - Marines ordered to attack refused after facing nuns and children
 - Radio Veritas bombed; Radio Bandido took over broadcasts
@@ -135,21 +141,21 @@ On February 25, 1986, two presidential inaugurations took place:
 
 ### Opposition
 
-| Name | Role | Significance |
-|------|------|--------------|
-| Corazon Aquino | President 1986-1992 | First female Philippine president; widow of Ninoy; symbol of "people power" |
-| Benigno "Ninoy" Aquino Jr. | Opposition leader | Assassinated 1983; martyrdom galvanized opposition |
-| Cardinal Jaime Sin | Archbishop of Manila | Radio Veritas call mobilized millions |
-| Juan Ponce Enrile | Defense Minister | Broke with Marcos; triggered military defection |
-| Fidel Ramos | PC Chief; later President | Military reformer; key defector |
+| Name                       | Role                      | Significance                                                                |
+| -------------------------- | ------------------------- | --------------------------------------------------------------------------- |
+| Corazon Aquino             | President 1986-1992       | First female Philippine president; widow of Ninoy; symbol of "people power" |
+| Benigno "Ninoy" Aquino Jr. | Opposition leader         | Assassinated 1983; martyrdom galvanized opposition                          |
+| Cardinal Jaime Sin         | Archbishop of Manila      | Radio Veritas call mobilized millions                                       |
+| Juan Ponce Enrile          | Defense Minister          | Broke with Marcos; triggered military defection                             |
+| Fidel Ramos                | PC Chief; later President | Military reformer; key defector                                             |
 
 ### Marcos Regime
 
-| Name | Role | Fate |
-|------|------|------|
-| Ferdinand Marcos | President 1965-1986 | Fled to Hawaii; died in exile 1989 |
-| Imelda Marcos | First Lady | Famous for shoe collection; returned to politics after 1991 |
-| Fabian Ver | Armed Forces Chief | Remained loyal; fled with Marcos |
+| Name             | Role                | Fate                                                        |
+| ---------------- | ------------------- | ----------------------------------------------------------- |
+| Ferdinand Marcos | President 1965-1986 | Fled to Hawaii; died in exile 1989                          |
+| Imelda Marcos    | First Lady          | Famous for shoe collection; returned to politics after 1991 |
+| Fabian Ver       | Armed Forces Chief  | Remained loyal; fled with Marcos                            |
 
 ---
 
@@ -191,6 +197,7 @@ This near-total absence of bloodshed—despite the presence of tanks, armed sold
 ### Philippine Democracy
 
 The 1987 Constitution established:
+
 - Presidential term limit (single 6-year term)
 - Restored civil liberties and human rights
 - Independent commissions and judiciary
@@ -201,6 +208,7 @@ Democratic institutions have survived despite challenges, including coup attempt
 ### EDSA II and III
 
 The "People Power" model was invoked again:
+
 - **EDSA II (2001):** Mass protests forced President Joseph Estrada from office
 - **EDSA III (2001):** Pro-Estrada counter-protests attempted to storm Malacañang
 
@@ -209,6 +217,7 @@ These events raised questions about whether "people power" had become a tool for
 ### Global Impact
 
 People Power influenced:
+
 - Velvet Revolution (Czechoslovakia 1989)
 - Fall of Berlin Wall (1989)
 - Tiananmen protests (1989, though unsuccessful)
@@ -226,54 +235,81 @@ People Power influenced:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| September 21, 1972 | Marcos declares martial law |
-| August 21, 1983 | Ninoy Aquino assassinated at Manila airport |
-| November 3, 1985 | Marcos calls snap election |
-| December 11, 1985 | Corazon Aquino announces presidential candidacy |
-| February 7, 1986 | Snap election held; widespread fraud documented |
-| February 13, 1986 | Catholic bishops declare election fraudulent |
-| February 15, 1986 | Aquino begins civil disobedience campaign |
-| February 22, 1986 | Enrile and Ramos defect; barricade at Camp Aguinaldo/Crame |
-| February 22, 1986 | Cardinal Sin calls Filipinos to EDSA |
-| February 23-24, 1986 | Millions gather on EDSA; human barricades block tanks |
-| February 25, 1986 | Aquino inaugurated; Marcos flees to Hawaii |
-| 1987 | New constitution ratified |
-| 1989 | Marcos dies in Hawaii |
-| 1991 | Marcos family returns to Philippines |
-| 2001 | EDSA II ousts President Estrada |
-| 2022 | Ferdinand Marcos Jr. elected president |
+| Date                 | Event                                                      |
+| -------------------- | ---------------------------------------------------------- |
+| September 21, 1972   | Marcos declares martial law                                |
+| August 21, 1983      | Ninoy Aquino assassinated at Manila airport                |
+| November 3, 1985     | Marcos calls snap election                                 |
+| December 11, 1985    | Corazon Aquino announces presidential candidacy            |
+| February 7, 1986     | Snap election held; widespread fraud documented            |
+| February 13, 1986    | Catholic bishops declare election fraudulent               |
+| February 15, 1986    | Aquino begins civil disobedience campaign                  |
+| February 22, 1986    | Enrile and Ramos defect; barricade at Camp Aguinaldo/Crame |
+| February 22, 1986    | Cardinal Sin calls Filipinos to EDSA                       |
+| February 23-24, 1986 | Millions gather on EDSA; human barricades block tanks      |
+| February 25, 1986    | Aquino inaugurated; Marcos flees to Hawaii                 |
+| 1987                 | New constitution ratified                                  |
+| 1989                 | Marcos dies in Hawaii                                      |
+| 1991                 | Marcos family returns to Philippines                       |
+| 2001                 | EDSA II ousts President Estrada                            |
+| 2022                 | Ferdinand Marcos Jr. elected president                     |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - People Power Revolution](https://en.wikipedia.org/wiki/People_Power_Revolution)
+
 [^2]: [Gulf News - EDSA Anniversary](https://gulfnews.com/world/asia/philippines/edsa-people-power-revolution-1986)
+
 [^3]: [OER Commons - Global Impact](https://www.oercommons.org/courseware/people-power-revolution)
+
 [^4]: [Wikipedia - Martial Law Philippines](https://en.wikipedia.org/wiki/Martial_law_in_the_Philippines)
+
 [^5]: [Martial Law Museum - Marcos Regime](https://www.martiallawmuseum.ph/)
+
 [^6]: [Wikipedia - Benigno Aquino Jr.](https://en.wikipedia.org/wiki/Benigno_Aquino_Jr.)
+
 [^7]: [Wikipedia - Assassination of Ninoy Aquino](https://en.wikipedia.org/wiki/Assassination_of_Benigno_Aquino_Jr.)
+
 [^8]: [Kahimyang - Ninoy Funeral](https://kahimyang.com/kencyclopaedia/ninoy-aquino-assassination)
+
 [^9]: [Swarthmore - Opposition Growth](https://nvdatabase.swarthmore.edu/content/filipinos-oust-marcos-1986)
+
 [^10]: [Wikipedia - 1986 Philippine Election](https://en.wikipedia.org/wiki/1986_Philippine_presidential_election)
+
 [^11]: [OSU - Election Fraud](https://origins.osu.edu/article/people-power-philippines-1986)
+
 [^12]: [Wikipedia - CBCP Statement](https://en.wikipedia.org/wiki/People_Power_Revolution)
+
 [^13]: [Philippines Today - Enrile-Ramos Defection](https://www.philippinestoday.net/edsa-1986/)
+
 [^14]: [Radio Veritas Asia - Cardinal Sin Call](https://www.rvasia.org/news/edsa-people-power-radio-veritas)
+
 [^15]: [Horizons Project - Human Barricade](https://horizonsproject.us/people-power-philippines/)
+
 [^16]: [Wikipedia - Revolution Timeline](https://en.wikipedia.org/wiki/People_Power_Revolution)
+
 [^17]: [CHMSU - Two Inaugurations](https://www.chmsu.edu.ph/edsa-revolution/)
+
 [^18]: [Amnesty Philippines - Nonviolence](https://www.amnesty.org.ph/edsa-people-power/)
+
 [^19]: [Great Day HR - Triumph](https://www.greatdayhr.ph/edsa-anniversary-2024/)
+
 [^20]: [Wikipedia - 1987 Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_Philippines)
+
 [^21]: [Catholic News Agency - Global Inspiration](https://www.catholicnewsagency.com/news/edsa-revolution-anniversary)
+
 [^22]: [EBSCO - Critical Assessment](https://www.ebscohost.com/academic/edsa-revolution-critique)
+
 [^23]: [Wikipedia - Bongbong Marcos](https://en.wikipedia.org/wiki/Bongbong_Marcos)
+
 [^24]: [UW Madison - Economic Continuity](https://www.wisc.edu/news/edsa-legacy/)
+
 [^25]: [Philippine History - 1987 Constitution](https://www.philippine-history.org/constitution-1987.htm)
+
 [^26]: [Wikipedia - EDSA II and III](https://en.wikipedia.org/wiki/EDSA_II)
+
 [^27]: [PNA - Global Influence](https://www.pna.gov.ph/articles/edsa-global-impact)
+
 [^28]: [Wikipedia - EDSA Commemoration](https://en.wikipedia.org/wiki/EDSA_People_Power_Revolution_Anniversary)

@@ -141,29 +141,29 @@ Some scholars criticize George's limited intellectual curiosity and narrow world
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1865 | Born 3 June at Marlborough House, London |
-| 1877 | Joins Royal Navy as naval cadet aboard HMS Britannia |
-| 1892 | Elder brother Prince Albert Victor dies; George becomes second in line to throne |
-| 1893 | Marries Princess Victoria Mary of Teck (6 July) |
-| 1894 | Birth of first son, Edward (later Edward VIII) |
-| 1895 | Birth of second son, Albert (later George VI) |
-| 1901 | Death of Queen Victoria; George's father becomes Edward VII; George created Prince of Wales |
-| 1910 | Death of Edward VII; George becomes King (6 May) |
-| 1911 | Coronation at Westminster Abbey (22 June); Delhi Durbar in India (December) |
-| 1914 | World War I begins (August); George supports British entry into the war |
-| 1917 | Changes royal house name from Saxe-Coburg and Gotha to Windsor; establishes Order of the British Empire |
-| 1918 | World War I ends; Romanov family executed in Russia |
-| 1919 | Amritsar Massacre in India; Treaty of Versailles signed |
-| 1921 | Irish Free State established; George delivers conciliatory speech in Belfast |
-| 1924 | First Labour government under Ramsay MacDonald |
-| 1926 | General Strike; George urges government moderation |
-| 1928 | Suffers serious illness that permanently affects his health |
+| Year | Event                                                                                                               |
+| ---- | ------------------------------------------------------------------------------------------------------------------- |
+| 1865 | Born 3 June at Marlborough House, London                                                                            |
+| 1877 | Joins Royal Navy as naval cadet aboard HMS Britannia                                                                |
+| 1892 | Elder brother Prince Albert Victor dies; George becomes second in line to throne                                    |
+| 1893 | Marries Princess Victoria Mary of Teck (6 July)                                                                     |
+| 1894 | Birth of first son, Edward (later Edward VIII)                                                                      |
+| 1895 | Birth of second son, Albert (later George VI)                                                                       |
+| 1901 | Death of Queen Victoria; George's father becomes Edward VII; George created Prince of Wales                         |
+| 1910 | Death of Edward VII; George becomes King (6 May)                                                                    |
+| 1911 | Coronation at Westminster Abbey (22 June); Delhi Durbar in India (December)                                         |
+| 1914 | World War I begins (August); George supports British entry into the war                                             |
+| 1917 | Changes royal house name from Saxe-Coburg and Gotha to Windsor; establishes Order of the British Empire             |
+| 1918 | World War I ends; Romanov family executed in Russia                                                                 |
+| 1919 | Amritsar Massacre in India; Treaty of Versailles signed                                                             |
+| 1921 | Irish Free State established; George delivers conciliatory speech in Belfast                                        |
+| 1924 | First Labour government under Ramsay MacDonald                                                                      |
+| 1926 | General Strike; George urges government moderation                                                                  |
+| 1928 | Suffers serious illness that permanently affects his health                                                         |
 | 1931 | Statute of Westminster transforms empire into Commonwealth; formation of National Government during economic crisis |
-| 1932 | Delivers first Royal Christmas broadcast via radio (25 December) |
-| 1935 | Silver Jubilee celebrations; overwhelming public support demonstrated |
-| 1936 | Dies at Sandringham House (20 January); succeeded by Edward VIII |
+| 1932 | Delivers first Royal Christmas broadcast via radio (25 December)                                                    |
+| 1935 | Silver Jubilee celebrations; overwhelming public support demonstrated                                               |
+| 1936 | Dies at Sandringham House (20 January); succeeded by Edward VIII                                                    |
 
 ---
 
@@ -183,87 +183,170 @@ Some scholars criticize George's limited intellectual curiosity and narrow world
 
 ## References
 
-[^1]: Rose, Kenneth. *King George V*. London: Weidenfeld & Nicolson, 1983, p. 7.
-[^2]: Clay, Catrine. *King, Kaiser, Tsar: Three Royal Cousins Who Led the World to War*. New York: Walker & Company, 2006, p. 89.
-[^3]: Nicolson, Harold. *King George the Fifth: His Life and Reign*. London: Constable, 1952, p. 18.
-[^4]: Rose, Kenneth. *King George V*, p. 34.
-[^5]: Nicolson, Harold. *King George the Fifth*, p. 45.
-[^6]: Rose, Kenneth. *King George V*, p. 56.
-[^7]: Cannadine, David. "The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition', c. 1820–1977." In *The Invention of Tradition*, edited by Eric Hobsbawm and Terence Ranger. Cambridge: Cambridge University Press, 1983, p. 120.
-[^8]: Cook, Andrew. *Prince Eddy: The King Britain Never Had*. Stroud: The History Press, 2008, p. 287.
-[^9]: Rose, Kenneth. *King George V*, p. 67.
-[^10]: Pope-Hennessy, James. *Queen Mary: 1867–1953*. London: George Allen & Unwin, 1959, p. 215.
-[^11]: Edwards, Anne. *Matriarch: Queen Mary and the House of Windsor*. New York: William Morrow, 1984, p. 98.
-[^12]: Rose, Kenneth. *King George V*, p. 95.
-[^13]: Nicolson, Harold. *King George the Fifth*, p. 78.
-[^14]: Cannadine, David. *Ornamentalism: How the British Saw Their Empire*. Oxford: Oxford University Press, 2001, p. 102.
-[^15]: Cohn, Bernard S. "Representing Authority in Victorian India." In *The Invention of Tradition*, edited by Eric Hobsbawm and Terence Ranger. Cambridge: Cambridge University Press, 1983, p. 178.
-[^16]: Bogdanor, Vernon. *The Monarchy and the Constitution*. Oxford: Clarendon Press, 1995, p. 89.
-[^17]: Rose, Kenneth. *King George V*, p. 112.
-[^18]: Cannadine, David. "The Last Hanoverian Sovereign?: The Victorian Monarchy in Historical Perspective, 1688–1988." In *The First Modern Society*, edited by A. L. Beier et al. Cambridge: Cambridge University Press, 1989, p. 156.
-[^19]: Rose, Kenneth. *King George V*, p. 178.
-[^20]: Nicolson, Harold. *King George the Fifth*, p. 308.
-[^21]: Carter, Miranda. *The Three Emperors: Three Cousins, Three Empires and the Road to World War One*. London: Fig Tree, 2009, p. 398.
-[^22]: Cardiff, David. "Mass Middlebrow Laughter: The Origins of BBC Comedy." *Media, Culture & Society* 10, no. 1 (1988): 41-60.
-[^23]: Williamson, Philip. *National Crisis and National Government: British Politics, the Economy and Empire, 1926–1932*. Cambridge: Cambridge University Press, 1992, p. 334.
-[^24]: Wheare, K. C. *The Statute of Westminster and Dominion Status*. 5th ed. Oxford: Oxford University Press, 1953, p. 67.
-[^25]: Rose, Kenneth. *King George V*, p. 245.
-[^26]: Laybourn, Keith. *The General Strike of 1926*. Manchester: Manchester University Press, 1993, p. 89.
-[^27]: Galloway, Peter. *The Order of the British Empire*. London: Central Chancery of the Orders of Knighthood, 1996, p. 12.
-[^28]: Rappaport, Helen. *The Race to Save the Romanovs: The Truth Behind the Secret Plans to Rescue Russia's Imperial Family*. London: Hutchinson, 2018, p. 156.
-[^29]: Carter, Miranda. *The Three Emperors*, p. 412.
-[^30]: Rappaport, Helen. *The Race to Save the Romanovs*, p. 278.
-[^31]: Collett, Nigel. *The Butcher of Amritsar: General Reginald Dyer*. London: Hambledon Continuum, 2005, p. 289.
-[^32]: Draper, Alfred. *Amritsar: The Massacre that Ended the Raj*. London: Cassell, 1981, p. 198.
-[^33]: Townshend, Charles. *The British Campaign in Ireland, 1919–1921*. Oxford: Oxford University Press, 1975, p. 145.
-[^34]: Ferriter, Diarmaid. *The Transformation of Ireland 1900–2000*. London: Profile Books, 2004, p. 234.
-[^35]: Rose, Kenneth. *King George V*, p. 134.
-[^36]: Ziegler, Philip. *King Edward VIII: The Official Biography*. London: Collins, 1990, p. 34.
-[^37]: Laybourn, Keith. *The General Strike of 1926*, p. 112.
-[^38]: Cannadine, David. *Ornamentalism*, p. 134.
-[^39]: Pope-Hennessy, James. *Queen Mary*, p. 213.
-[^40]: Edwards, Anne. *Matriarch*, p. 115.
-[^41]: Rose, Kenneth. *King George V*, p. 89.
-[^42]: Bradford, Sarah. *King George VI*. London: Weidenfeld & Nicolson, 1989, p. 23.
-[^43]: Ziegler, Philip. *King Edward VIII*, p. 56.
-[^44]: Petropoulos, Jonathan. *Royals and the Reich: The Princes von Hessen in Nazi Germany*. Oxford: Oxford University Press, 2006, p. 45.
-[^45]: Rossiter, Stuart. "The Royal Philatelic Collection." *The London Philatelist* 82 (1973): 234-245.
-[^46]: Rose, Kenneth. *King George V*, p. 267.
-[^47]: Nicolson, Harold. *King George the Fifth*, p. 445.
-[^48]: Rose, Kenneth. *King George V*, p. 345.
-[^49]: Ramsay, James. "A King, a Doctor, and a Convenient Death." *Hastings Center Report* 24, no. 3 (1994): 35-38.
+[^1]: Rose, Kenneth. _King George V_. London: Weidenfeld & Nicolson, 1983, p. 7.
+
+[^2]: Clay, Catrine. _King, Kaiser, Tsar: Three Royal Cousins Who Led the World to War_. New York: Walker & Company, 2006, p. 89.
+
+[^3]: Nicolson, Harold. _King George the Fifth: His Life and Reign_. London: Constable, 1952, p. 18.
+
+[^4]: Rose, Kenneth. _King George V_, p. 34.
+
+[^5]: Nicolson, Harold. _King George the Fifth_, p. 45.
+
+[^6]: Rose, Kenneth. _King George V_, p. 56.
+
+[^7]: Cannadine, David. "The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition', c. 1820–1977." In _The Invention of Tradition_, edited by Eric Hobsbawm and Terence Ranger. Cambridge: Cambridge University Press, 1983, p. 120.
+
+[^8]: Cook, Andrew. _Prince Eddy: The King Britain Never Had_. Stroud: The History Press, 2008, p. 287.
+
+[^9]: Rose, Kenneth. _King George V_, p. 67.
+
+[^10]: Pope-Hennessy, James. _Queen Mary: 1867–1953_. London: George Allen & Unwin, 1959, p. 215.
+
+[^11]: Edwards, Anne. _Matriarch: Queen Mary and the House of Windsor_. New York: William Morrow, 1984, p. 98.
+
+[^12]: Rose, Kenneth. _King George V_, p. 95.
+
+[^13]: Nicolson, Harold. _King George the Fifth_, p. 78.
+
+[^14]: Cannadine, David. _Ornamentalism: How the British Saw Their Empire_. Oxford: Oxford University Press, 2001, p. 102.
+
+[^15]: Cohn, Bernard S. "Representing Authority in Victorian India." In _The Invention of Tradition_, edited by Eric Hobsbawm and Terence Ranger. Cambridge: Cambridge University Press, 1983, p. 178.
+
+[^16]: Bogdanor, Vernon. _The Monarchy and the Constitution_. Oxford: Clarendon Press, 1995, p. 89.
+
+[^17]: Rose, Kenneth. _King George V_, p. 112.
+
+[^18]: Cannadine, David. "The Last Hanoverian Sovereign?: The Victorian Monarchy in Historical Perspective, 1688–1988." In _The First Modern Society_, edited by A. L. Beier et al. Cambridge: Cambridge University Press, 1989, p. 156.
+
+[^19]: Rose, Kenneth. _King George V_, p. 178.
+
+[^20]: Nicolson, Harold. _King George the Fifth_, p. 308.
+
+[^21]: Carter, Miranda. _The Three Emperors: Three Cousins, Three Empires and the Road to World War One_. London: Fig Tree, 2009, p. 398.
+
+[^22]: Cardiff, David. "Mass Middlebrow Laughter: The Origins of BBC Comedy." _Media, Culture & Society_ 10, no. 1 (1988): 41-60.
+
+[^23]: Williamson, Philip. _National Crisis and National Government: British Politics, the Economy and Empire, 1926–1932_. Cambridge: Cambridge University Press, 1992, p. 334.
+
+[^24]: Wheare, K. C. _The Statute of Westminster and Dominion Status_. 5th ed. Oxford: Oxford University Press, 1953, p. 67.
+
+[^25]: Rose, Kenneth. _King George V_, p. 245.
+
+[^26]: Laybourn, Keith. _The General Strike of 1926_. Manchester: Manchester University Press, 1993, p. 89.
+
+[^27]: Galloway, Peter. _The Order of the British Empire_. London: Central Chancery of the Orders of Knighthood, 1996, p. 12.
+
+[^28]: Rappaport, Helen. _The Race to Save the Romanovs: The Truth Behind the Secret Plans to Rescue Russia's Imperial Family_. London: Hutchinson, 2018, p. 156.
+
+[^29]: Carter, Miranda. _The Three Emperors_, p. 412.
+
+[^30]: Rappaport, Helen. _The Race to Save the Romanovs_, p. 278.
+
+[^31]: Collett, Nigel. _The Butcher of Amritsar: General Reginald Dyer_. London: Hambledon Continuum, 2005, p. 289.
+
+[^32]: Draper, Alfred. _Amritsar: The Massacre that Ended the Raj_. London: Cassell, 1981, p. 198.
+
+[^33]: Townshend, Charles. _The British Campaign in Ireland, 1919–1921_. Oxford: Oxford University Press, 1975, p. 145.
+
+[^34]: Ferriter, Diarmaid. _The Transformation of Ireland 1900–2000_. London: Profile Books, 2004, p. 234.
+
+[^35]: Rose, Kenneth. _King George V_, p. 134.
+
+[^36]: Ziegler, Philip. _King Edward VIII: The Official Biography_. London: Collins, 1990, p. 34.
+
+[^37]: Laybourn, Keith. _The General Strike of 1926_, p. 112.
+
+[^38]: Cannadine, David. _Ornamentalism_, p. 134.
+
+[^39]: Pope-Hennessy, James. _Queen Mary_, p. 213.
+
+[^40]: Edwards, Anne. _Matriarch_, p. 115.
+
+[^41]: Rose, Kenneth. _King George V_, p. 89.
+
+[^42]: Bradford, Sarah. _King George VI_. London: Weidenfeld & Nicolson, 1989, p. 23.
+
+[^43]: Ziegler, Philip. _King Edward VIII_, p. 56.
+
+[^44]: Petropoulos, Jonathan. _Royals and the Reich: The Princes von Hessen in Nazi Germany_. Oxford: Oxford University Press, 2006, p. 45.
+
+[^45]: Rossiter, Stuart. "The Royal Philatelic Collection." _The London Philatelist_ 82 (1973): 234-245.
+
+[^46]: Rose, Kenneth. _King George V_, p. 267.
+
+[^47]: Nicolson, Harold. _King George the Fifth_, p. 445.
+
+[^48]: Rose, Kenneth. _King George V_, p. 345.
+
+[^49]: Ramsay, James. "A King, a Doctor, and a Convenient Death." _Hastings Center Report_ 24, no. 3 (1994): 35-38.
+
 [^50]: Cannadine, David. "The Context, Performance and Meaning of Ritual," p. 145.
-[^51]: Prochaska, Frank. *The Republic of Britain: 1760–2000*. London: Allen Lane, 2000, p. 189.
-[^52]: Darwin, John. *The Empire Project: The Rise and Fall of the British World-System, 1830–1970*. Cambridge: Cambridge University Press, 2009, p. 478.
-[^53]: Wheare, K. C. *The Statute of Westminster*, p. 234.
-[^54]: Bogdanor, Vernon. *The Monarchy and the Constitution*, p. 156.
-[^55]: Prochaska, Frank. *Royal Bounty: The Making of a Welfare Monarchy*. New Haven: Yale University Press, 1995, p. 178.
+
+[^51]: Prochaska, Frank. _The Republic of Britain: 1760–2000_. London: Allen Lane, 2000, p. 189.
+
+[^52]: Darwin, John. _The Empire Project: The Rise and Fall of the British World-System, 1830–1970_. Cambridge: Cambridge University Press, 2009, p. 478.
+
+[^53]: Wheare, K. C. _The Statute of Westminster_, p. 234.
+
+[^54]: Bogdanor, Vernon. _The Monarchy and the Constitution_, p. 156.
+
+[^55]: Prochaska, Frank. _Royal Bounty: The Making of a Welfare Monarchy_. New Haven: Yale University Press, 1995, p. 178.
+
 [^56]: Cannadine, David. "The Last Hanoverian Sovereign?", p. 178.
-[^57]: Tharoor, Shashi. *Inglorious Empire: What the British Did to India*. London: Hurst & Company, 2017, p. 145.
-[^58]: Ziegler, Philip. *King Edward VIII*, p. 78.
-[^59]: Bradford, Sarah. *King George VI*, p. 112.
-[^60]: Rose, Kenneth. *King George V*, p. 389.
-[^61]: Rose, Kenneth. *King George V*, p. 412.
-[^62]: Ziegler, Philip. *Legacy: Cecil Rhodes, the Rhodes Trust and Rhodes Scholarships*. New Haven: Yale University Press, 2008, p. 234.
-[^63]: Williamson, Philip. *National Crisis and National Government*, p. 445.
-[^64]: Nicolson, Harold. *King George the Fifth*, p. 312.
-[^65]: Prochaska, Frank. *The Republic of Britain*, p. 195.
-[^66]: Laybourn, Keith. *The General Strike of 1926*, p. 134.
-[^67]: Galloway, Peter. *The Order of the British Empire*, p. 34.
+
+[^57]: Tharoor, Shashi. _Inglorious Empire: What the British Did to India_. London: Hurst & Company, 2017, p. 145.
+
+[^58]: Ziegler, Philip. _King Edward VIII_, p. 78.
+
+[^59]: Bradford, Sarah. _King George VI_, p. 112.
+
+[^60]: Rose, Kenneth. _King George V_, p. 389.
+
+[^61]: Rose, Kenneth. _King George V_, p. 412.
+
+[^62]: Ziegler, Philip. _Legacy: Cecil Rhodes, the Rhodes Trust and Rhodes Scholarships_. New Haven: Yale University Press, 2008, p. 234.
+
+[^63]: Williamson, Philip. _National Crisis and National Government_, p. 445.
+
+[^64]: Nicolson, Harold. _King George the Fifth_, p. 312.
+
+[^65]: Prochaska, Frank. _The Republic of Britain_, p. 195.
+
+[^66]: Laybourn, Keith. _The General Strike of 1926_, p. 134.
+
+[^67]: Galloway, Peter. _The Order of the British Empire_, p. 34.
+
 [^68]: Cannadine, David. "The Context, Performance and Meaning of Ritual," p. 134.
-[^69]: Rose, Kenneth. *King George V*, p. 378.
-[^70]: Tharoor, Shashi. *Inglorious Empire*, p. 167.
-[^71]: Collett, Nigel. *The Butcher of Amritsar*, p. 312.
-[^72]: Rappaport, Helen. *The Race to Save the Romanovs*, p. 289.
-[^73]: Carter, Miranda. *The Three Emperors*, p. 423.
-[^74]: Rose, Kenneth. *King George V*, p. 145.
-[^75]: Ziegler, Philip. *King Edward VIII*, p. 89.
-[^76]: Prochaska, Frank. *The Republic of Britain*, p. 212.
-[^77]: Nairn, Tom. *The Enchanted Glass: Britain and its Monarchy*. London: Radius, 1988, p. 178.
-[^78]: Nicolson, Harold. *King George the Fifth*, p. 456.
+
+[^69]: Rose, Kenneth. _King George V_, p. 378.
+
+[^70]: Tharoor, Shashi. _Inglorious Empire_, p. 167.
+
+[^71]: Collett, Nigel. _The Butcher of Amritsar_, p. 312.
+
+[^72]: Rappaport, Helen. _The Race to Save the Romanovs_, p. 289.
+
+[^73]: Carter, Miranda. _The Three Emperors_, p. 423.
+
+[^74]: Rose, Kenneth. _King George V_, p. 145.
+
+[^75]: Ziegler, Philip. _King Edward VIII_, p. 89.
+
+[^76]: Prochaska, Frank. _The Republic of Britain_, p. 212.
+
+[^77]: Nairn, Tom. _The Enchanted Glass: Britain and its Monarchy_. London: Radius, 1988, p. 178.
+
+[^78]: Nicolson, Harold. _King George the Fifth_, p. 456.
+
 [^79]: Cannadine, David. "The Last Hanoverian Sovereign?", p. 189.
+
 [^80]: Imperial War Museum. "Royal Visits to the Western Front." IWM Collections. Accessed December 21, 2025.
+
 [^81]: Times of London, November 5, 1901, p. 8.
-[^82]: Rose, Kenneth. *King George V*, p. 380.
+
+[^82]: Rose, Kenneth. _King George V_, p. 380.
+
 [^83]: National Maritime Museum. "Battle of Jutland: Communications and Aftermath." NMM Collections. Accessed December 21, 2025.
+
 [^84]: Hansard, Parliamentary Debates, House of Commons, 21 June 1921, vol. 143, col. 1385.

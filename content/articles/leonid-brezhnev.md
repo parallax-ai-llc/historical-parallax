@@ -4,7 +4,12 @@ name: "Leonid Brezhnev"
 birth: "1906-12-19"
 death: "1982-11-10"
 nationality: "Soviet Union"
-occupation: ["General Secretary of the Communist Party", "Chairman of the Presidium of the Supreme Soviet", "Political Leader"]
+occupation:
+  [
+    "General Secretary of the Communist Party",
+    "Chairman of the Presidium of the Supreme Soviet",
+    "Political Leader",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Leonid_Brezjnev%2C_leider_van_de_Sovjet-Unie%2C_Bestanddeelnr_925-6564.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonid_Brezhnev"
@@ -129,7 +134,7 @@ Brezhnev made his final public appearance at a parade marking the 65th anniversa
 
 ### Positive Views
 
-Some scholars and many ordinary Russians offer more favorable assessments of Brezhnev's leadership than Western critics. Seweryn Bialer, author of *The Soviet Paradox: External Expansion, Internal Decline*, presents a more mixed assessment of Brezhnev's reign than many Western scholars.[^100] Historians Jiří Valenta and Frank Cibulka noted that Brezhnev's legacy was a "mixture of achievements and failures in both domestic and foreign policy."[^101]
+Some scholars and many ordinary Russians offer more favorable assessments of Brezhnev's leadership than Western critics. Seweryn Bialer, author of _The Soviet Paradox: External Expansion, Internal Decline_, presents a more mixed assessment of Brezhnev's reign than many Western scholars.[^100] Historians Jiří Valenta and Frank Cibulka noted that Brezhnev's legacy was a "mixture of achievements and failures in both domestic and foreign policy."[^101]
 
 Russian public opinion polls consistently show that Brezhnev's era receives high approval ratings in post-Soviet Russia.[^102] Many Russians remember the period for its social stability, guaranteed employment, affordable food and housing, and the absence of the violence and upheaval that characterized earlier and later periods of Soviet history.[^103] From this perspective, Brezhnev provided ordinary citizens with a predictable, if stagnant, quality of life that many found preferable to both Stalinist terror and the chaos of the 1990s.[^104]
 
@@ -143,38 +148,38 @@ Critics argue that Brezhnev's emphasis on stability came at the cost of necessar
 
 The Era of Stagnation concept emphasizes how Brezhnev's leadership allowed the Soviet economy to fall further behind the West in technology and productivity.[^113] By the time of his death, the Soviet Union faced declining growth rates, technological obsolescence, and an inefficient economic system unable to compete with Western economies.[^114] Critics also condemn Brezhnev's human rights record, including the systematic repression of dissidents and the use of psychiatric hospitals as instruments of political control.[^115]
 
-Scholars lack a consensual analytical framework for making sense of Brezhnevism as a regime type.[^116] In 2017, Susanne Schattenberg's biography *Leonid Breschnew: Staatsmann und Schauspieler in Schatten Stalins* was published, representing a significant contribution to understanding Brezhnev's life and times with increased archival access.[^117]
+Scholars lack a consensual analytical framework for making sense of Brezhnevism as a regime type.[^116] In 2017, Susanne Schattenberg's biography _Leonid Breschnew: Staatsmann und Schauspieler in Schatten Stalins_ was published, representing a significant contribution to understanding Brezhnev's life and times with increased archival access.[^117]
 
 ---
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1906 | Born December 19 in Kamenskoye, Russian Empire (now Kamianske, Ukraine) |
-| 1923 | Joined the Komsomol (Communist Party youth organization) |
-| 1925 | Married Victoria Denisova |
-| 1929 | Became official member of the Communist Party |
-| 1935 | Graduated from Kamenskoe Metallurgical Institute as an engineer |
-| 1938 | Met Nikita Khrushchev in Dnepropetrovsk |
-| 1939 | Became regional party secretary |
-| 1941 | Joined Red Army as commissar when Germany invaded USSR |
-| 1952 | Promoted to Communist Party Central Committee by Stalin |
-| 1953 | Demoted after Stalin's death |
-| 1954 | Made second secretary of Kazakhstan Communist Party |
-| 1955 | Promoted to first secretary of Kazakhstan Communist Party |
-| 1957 | Became full member of the Politburo |
-| 1960 | Selected as Chairman of the Presidium of the Supreme Soviet (May 7) |
+| Year | Event                                                                    |
+| ---- | ------------------------------------------------------------------------ |
+| 1906 | Born December 19 in Kamenskoye, Russian Empire (now Kamianske, Ukraine)  |
+| 1923 | Joined the Komsomol (Communist Party youth organization)                 |
+| 1925 | Married Victoria Denisova                                                |
+| 1929 | Became official member of the Communist Party                            |
+| 1935 | Graduated from Kamenskoe Metallurgical Institute as an engineer          |
+| 1938 | Met Nikita Khrushchev in Dnepropetrovsk                                  |
+| 1939 | Became regional party secretary                                          |
+| 1941 | Joined Red Army as commissar when Germany invaded USSR                   |
+| 1952 | Promoted to Communist Party Central Committee by Stalin                  |
+| 1953 | Demoted after Stalin's death                                             |
+| 1954 | Made second secretary of Kazakhstan Communist Party                      |
+| 1955 | Promoted to first secretary of Kazakhstan Communist Party                |
+| 1957 | Became full member of the Politburo                                      |
+| 1960 | Selected as Chairman of the Presidium of the Supreme Soviet (May 7)      |
 | 1964 | Led coup against Khrushchev; became First Secretary of CPSU (October 15) |
-| 1966 | Title changed to General Secretary of the CPSU |
-| 1968 | Ordered invasion of Czechoslovakia; articulated Brezhnev Doctrine |
-| 1971 | Adopted doctrine of "Developed Socialism" at 24th Party Congress |
-| 1972 | Signed SALT I and ABM treaties with Nixon (May 26) |
-| 1973 | Era of Stagnation became apparent; hosted Nixon in Washington (June) |
-| 1975 | Suffered first heart attack; health deteriorated rapidly thereafter |
-| 1977 | Became Chairman of Presidium of Supreme Soviet again (head of state) |
-| 1979 | Approved Soviet invasion of Afghanistan (December) |
-| 1982 | Died November 10 in Moscow after heart attack |
+| 1966 | Title changed to General Secretary of the CPSU                           |
+| 1968 | Ordered invasion of Czechoslovakia; articulated Brezhnev Doctrine        |
+| 1971 | Adopted doctrine of "Developed Socialism" at 24th Party Congress         |
+| 1972 | Signed SALT I and ABM treaties with Nixon (May 26)                       |
+| 1973 | Era of Stagnation became apparent; hosted Nixon in Washington (June)     |
+| 1975 | Suffered first heart attack; health deteriorated rapidly thereafter      |
+| 1977 | Became Chairman of Presidium of Supreme Soviet again (head of state)     |
+| 1979 | Approved Soviet invasion of Afghanistan (December)                       |
+| 1982 | Died November 10 in Moscow after heart attack                            |
 
 ---
 
@@ -195,124 +200,245 @@ Scholars lack a consensual analytical framework for making sense of Brezhnevism 
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Leonid_Brezhnev
+
 [^2]: https://en.wikipedia.org/wiki/Era_of_Stagnation
+
 [^3]: https://www.britannica.com/biography/Leonid-Ilich-Brezhnev
+
 [^4]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^5]: https://www.britannica.com/place/Soviet-Union/The-Brezhnev-era
+
 [^6]: https://en.wikipedia.org/wiki/Leonid_Brezhnev
+
 [^7]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^8]: https://en.wikipedia.org/wiki/Leonid_Brezhnev
+
 [^9]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^10]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^11]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^12]: https://www.prlib.ru/en/history/619823
+
 [^13]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^14]: https://www.ebsco.com/research-starters/history/leonid-brezhnev
+
 [^15]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^16]: https://dayhist.com/persons/leonid-brezhnev-life-legacy
+
 [^17]: https://www.newworldencyclopedia.org/entry/Leonid_Brezhnev
+
 [^18]: https://www.britannica.com/biography/Leonid-Ilich-Brezhnev
+
 [^19]: https://www.newworldencyclopedia.org/entry/Leonid_Brezhnev
+
 [^20]: https://landsurvival.com/schools-wikipedia/wp/l/Leonid_Brezhnev.htm
+
 [^21]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^22]: https://www.britannica.com/biography/Leonid-Ilich-Brezhnev
+
 [^23]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^24]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^25]: https://www.britannica.com/biography/Leonid-Ilich-Brezhnev
+
 [^26]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^27]: https://www.newworldencyclopedia.org/entry/Leonid_Brezhnev
+
 [^28]: https://www.history.com/this-day-in-history/may-7/brezhnev-becomes-president-of-the-ussr
+
 [^29]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^30]: https://www.britannica.com/biography/Leonid-Ilich-Brezhnev
+
 [^31]: https://www.newworldencyclopedia.org/entry/Leonid_Brezhnev
+
 [^32]: https://landsurvival.com/schools-wikipedia/wp/l/Leonid_Brezhnev.htm
+
 [^33]: https://www.britannica.com/place/Soviet-Union/The-Brezhnev-era
+
 [^34]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^35]: https://landsurvival.com/schools-wikipedia/wp/l/Leonid_Brezhnev.htm
+
 [^36]: https://www.britannica.com/place/Soviet-Union/The-Brezhnev-era
+
 [^37]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^38]: https://www.britannica.com/place/Soviet-Union/The-Brezhnev-era
+
 [^39]: https://en.wikipedia.org/wiki/Era_of_Stagnation
+
 [^40]: https://www.ebsco.com/research-starters/history/leonid-brezhnev
+
 [^41]: https://www.britannica.com/topic/20th-century-international-relations-2085155/Nixon-Kissinger-and-the-detente-experiment
+
 [^42]: https://en.wikipedia.org/wiki/D%C3%A9tente
+
 [^43]: https://blog.nixonfoundation.org/2010/07/nixon-and-brezhnev-personal-partners-in-detente/
+
 [^44]: https://en.wikipedia.org/wiki/Moscow_Summit_(1972)
+
 [^45]: https://en.wikipedia.org/wiki/Moscow_Summit_(1972)
+
 [^46]: https://www.britannica.com/topic/20th-century-international-relations-2085155/Nixon-Kissinger-and-the-detente-experiment
+
 [^47]: https://www.newworldencyclopedia.org/entry/Leonid_Brezhnev
+
 [^48]: https://read.dukeupress.edu/books/book/1941/chapter/235041/Leonid-BrezhnevPower-and-Stagnation
+
 [^49]: https://www.ebsco.com/research-starters/history/leonid-brezhnev
+
 [^50]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^51]: https://en.wikipedia.org/wiki/Era_of_Stagnation
+
 [^52]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^53]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^54]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^55]: https://www.britannica.com/event/Brezhnev-Doctrine
+
 [^56]: https://ibguides.com/history/notes/domestic-and-foreign-problems-of-the-brezhnev-era-economic-and-political-stagnation-afghanistan/
+
 [^57]: https://en.wikipedia.org/wiki/Era_of_Stagnation
+
 [^58]: https://en.wikipedia.org/wiki/Era_of_Stagnation
+
 [^59]: https://www.thecollector.com/brezhnev-era-stagnation-ussr/
+
 [^60]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^61]: https://factsanddetails.com/russia/History/sub9_1e/entry-4978.html
+
 [^62]: https://study.com/academy/lesson/life-in-the-ussr-under-brezhnev-ideological-political-dissent.html
+
 [^63]: https://study.com/academy/lesson/life-in-the-ussr-under-brezhnev-ideological-political-dissent.html
+
 [^64]: https://alphahistory.com/coldwar/brezhnev-responds-carters-protest-afghanistan-1979/
+
 [^65]: https://ibguides.com/history/notes/domestic-and-foreign-problems-of-the-brezhnev-era-economic-and-political-stagnation-afghanistan/
+
 [^66]: https://alphahistory.com/coldwar/brezhnev-responds-carters-protest-afghanistan-1979/
+
 [^67]: https://ibguides.com/history/notes/domestic-and-foreign-problems-of-the-brezhnev-era-economic-and-political-stagnation-afghanistan/
+
 [^68]: https://www.britannica.com/place/Soviet-Union/The-Brezhnev-era
+
 [^69]: https://www.history.com/topics/cold-war/detente
+
 [^70]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^71]: https://factsanddetails.com/russia/History/sub9_1e/entry-4978.html
+
 [^72]: https://www.llouwiley.com/leonid-brezhnev-the-man-behind-the-soviet-unions-political-and-economic-stability/
+
 [^73]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^74]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^75]: https://www.notablebiographies.com/Br-Ca/Brezhnev-Leonid.html
+
 [^76]: https://history.state.gov/historicaldocuments/frus1969-76v16/d87
+
 [^77]: https://www.globalsecurity.org/military/world/russia/brezhnev-person.htm
+
 [^78]: https://www.globalsecurity.org/military/world/russia/brezhnev-person.htm
+
 [^79]: https://www.globalsecurity.org/military/world/russia/brezhnev-person.htm
+
 [^80]: https://history.state.gov/historicaldocuments/frus1969-76v16/d87
+
 [^81]: https://history.state.gov/historicaldocuments/frus1969-76v16/d87
+
 [^82]: https://history.state.gov/historicaldocuments/frus1969-76v16/d87
+
 [^83]: https://www.globalsecurity.org/military/world/russia/brezhnev-person.htm
+
 [^84]: https://soviethistory.msu.edu/1980-2/our-little-father/
+
 [^85]: https://en.wikipedia.org/wiki/Leonid_Brezhnev
+
 [^86]: https://www.globalsecurity.org/military/world/russia/brezhnev-person.htm
+
 [^87]: https://www.globalsecurity.org/military/world/russia/brezhnev-person.htm
+
 [^88]: https://www.globalsecurity.org/military/world/russia/brezhnev-person.htm
+
 [^89]: https://www.britannica.com/biography/Leonid-Ilich-Brezhnev
+
 [^90]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^91]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^92]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^93]: https://dayhist.com/persons/leonid-brezhnev-life-legacy
+
 [^94]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^95]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^96]: https://factsanddetails.com/russia/History/sub9_1e/entry-4978.html
+
 [^97]: https://ibguides.com/history/notes/domestic-and-foreign-problems-of-the-brezhnev-era-economic-and-political-stagnation-afghanistan/
+
 [^98]: https://alphahistory.com/coldwar/leonid-brezhnev/
+
 [^99]: https://www.britannica.com/summary/Leonid-Ilich-Brezhnev
+
 [^100]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^101]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^102]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^103]: https://dayhist.com/persons/leonid-brezhnev-life-legacy
+
 [^104]: https://factsanddetails.com/russia/History/sub9_1e/entry-4978.html
+
 [^105]: https://blog.nixonfoundation.org/2010/07/nixon-and-brezhnev-personal-partners-in-detente/
+
 [^106]: https://en.wikipedia.org/wiki/Moscow_Summit_(1972)
+
 [^107]: https://www.britannica.com/place/Soviet-Union/The-Brezhnev-era
+
 [^108]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^109]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^110]: https://www.thecollector.com/brezhnev-era-stagnation-ussr/
+
 [^111]: https://factsanddetails.com/russia/History/sub9_1e/entry-4978.html
+
 [^112]: https://ibguides.com/history/notes/domestic-and-foreign-problems-of-the-brezhnev-era-economic-and-political-stagnation-afghanistan/
+
 [^113]: https://en.wikipedia.org/wiki/Era_of_Stagnation
+
 [^114]: https://www.thecollector.com/brezhnev-era-stagnation-ussr/
+
 [^115]: https://study.com/academy/lesson/life-in-the-ussr-under-brezhnev-ideological-political-dissent.html
+
 [^116]: https://en.wikipedia.org/wiki/Legacy_of_Leonid_Brezhnev
+
 [^117]: https://muse.jhu.edu/pub/28/article/747875/pdf
+
 [^118]: https://www.azquotes.com/author/30289-Leonid_Brezhnev
+
 [^119]: https://en.wikiquote.org/wiki/Leonid_Brezhnev
+
 [^120]: https://www.azquotes.com/author/30289-Leonid_Brezhnev
+
 [^121]: https://www.brainyquote.com/authors/leonid-i-brezhnev-quotes
+
 [^122]: https://www.quoteikon.com/leonid-brezhnev-quotes.html

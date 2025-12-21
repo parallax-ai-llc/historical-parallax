@@ -153,33 +153,33 @@ Finally, critics point to Bismarck's domestic repression and political intoleran
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1815 | Born April 1 at Schönhausen, Prussia |
-| 1832-1835 | Studies law at Universities of Göttingen and Berlin |
-| 1835-1839 | Serves briefly in Prussian civil service |
-| 1847 | Marries Johanna von Puttkamer; enters Prussian United Diet |
-| 1848-1849 | Opposes liberal revolution; defends royal absolutism |
-| 1851-1859 | Serves as Prussian representative to German Confederation Diet in Frankfurt |
-| 1859-1862 | Ambassador to Russia (1859-1862) and France (1862) |
-| 1862 | Appointed Minister President of Prussia on September 23 |
-| 1864 | Danish War; Prussia and Austria defeat Denmark |
-| 1866 | Austro-Prussian War; Prussian victory at Königgrätz (July 3) |
-| 1867 | North German Confederation established under Prussian leadership |
-| 1870 | Edits Ems Dispatch (July 13), provoking Franco-Prussian War |
-| 1871 | German Empire proclaimed at Versailles (January 18); becomes Imperial Chancellor |
-| 1873 | Forms Three Emperors' League (Dreikaiserbund) with Austria-Hungary and Russia; launches Kulturkampf |
-| 1878 | Congress of Berlin; Anti-Socialist Laws enacted |
-| 1879 | Dual Alliance with Austria-Hungary |
-| 1882 | Triple Alliance with Austria-Hungary and Italy |
-| 1883 | Health insurance legislation enacted |
-| 1884 | Accident insurance legislation; German colonial expansion begins |
-| 1884-1885 | Organizes Berlin Conference on African colonization |
-| 1887 | Reinsurance Treaty with Russia |
-| 1888 | Year of Three Emperors; Wilhelm II becomes Kaiser |
-| 1890 | Dismissed as Chancellor by Wilhelm II on March 18 |
-| 1894 | Wife Johanna dies |
-| 1898 | Dies July 30 at Friedrichsruh at age 83 |
+| Year      | Event                                                                                               |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| 1815      | Born April 1 at Schönhausen, Prussia                                                                |
+| 1832-1835 | Studies law at Universities of Göttingen and Berlin                                                 |
+| 1835-1839 | Serves briefly in Prussian civil service                                                            |
+| 1847      | Marries Johanna von Puttkamer; enters Prussian United Diet                                          |
+| 1848-1849 | Opposes liberal revolution; defends royal absolutism                                                |
+| 1851-1859 | Serves as Prussian representative to German Confederation Diet in Frankfurt                         |
+| 1859-1862 | Ambassador to Russia (1859-1862) and France (1862)                                                  |
+| 1862      | Appointed Minister President of Prussia on September 23                                             |
+| 1864      | Danish War; Prussia and Austria defeat Denmark                                                      |
+| 1866      | Austro-Prussian War; Prussian victory at Königgrätz (July 3)                                        |
+| 1867      | North German Confederation established under Prussian leadership                                    |
+| 1870      | Edits Ems Dispatch (July 13), provoking Franco-Prussian War                                         |
+| 1871      | German Empire proclaimed at Versailles (January 18); becomes Imperial Chancellor                    |
+| 1873      | Forms Three Emperors' League (Dreikaiserbund) with Austria-Hungary and Russia; launches Kulturkampf |
+| 1878      | Congress of Berlin; Anti-Socialist Laws enacted                                                     |
+| 1879      | Dual Alliance with Austria-Hungary                                                                  |
+| 1882      | Triple Alliance with Austria-Hungary and Italy                                                      |
+| 1883      | Health insurance legislation enacted                                                                |
+| 1884      | Accident insurance legislation; German colonial expansion begins                                    |
+| 1884-1885 | Organizes Berlin Conference on African colonization                                                 |
+| 1887      | Reinsurance Treaty with Russia                                                                      |
+| 1888      | Year of Three Emperors; Wilhelm II becomes Kaiser                                                   |
+| 1890      | Dismissed as Chancellor by Wilhelm II on March 18                                                   |
+| 1894      | Wife Johanna dies                                                                                   |
+| 1898      | Dies July 30 at Friedrichsruh at age 83                                                             |
 
 ---
 
@@ -201,99 +201,194 @@ Finally, critics point to Bismarck's domestic repression and political intoleran
 
 ## References
 
-[^1]: Steinberg, Jonathan. *Bismarck: A Life*. Oxford University Press, 2011, pp. 1-5.
-[^2]: Pflanze, Otto. *Bismarck and the Development of Germany, Volume I: The Period of Unification, 1815-1871*. Princeton University Press, 1990, pp. 15-18.
-[^3]: Craig, Gordon A. *Germany 1866-1945*. Oxford University Press, 1978, p. 8.
-[^4]: Taylor, A.J.P. *Bismarck: The Man and the Statesman*. Hamish Hamilton, 1955, pp. 11-15.
-[^5]: Steinberg, *Bismarck: A Life*, pp. 45-62.
-[^6]: Pflanze, *Bismarck and the Development of Germany, Volume I*, pp. 42-48.
-[^7]: Eyck, Erich. *Bismarck and the German Empire*. W.W. Norton, 1950, pp. 15-20.
-[^8]: Craig, *Germany 1866-1945*, pp. 10-12.
-[^9]: Waller, Bruce. *Bismarck*. Blackwell Publishers, 1997, pp. 12-15.
-[^10]: Steinberg, *Bismarck: A Life*, pp. 98-112.
-[^11]: Taylor, *Bismarck: The Man and the Statesman*, pp. 45-52.
-[^12]: Pflanze, *Bismarck and the Development of Germany, Volume I*, pp. 142-158.
-[^13]: Gall, Lothar. *Bismarck: The White Revolutionary*. Translated by J.A. Underwood. Unwin Hyman, 1986, pp. 207-215.
-[^14]: Craig, *Germany 1866-1945*, pp. 15-18.
-[^15]: Eyck, *Bismarck and the German Empire*, pp. 45-58.
-[^16]: Wawro, Geoffrey. *The Austro-Prussian War: Austria's War with Prussia and Italy in 1866*. Cambridge University Press, 1996, pp. 1-8.
-[^17]: Carr, William. *The Origins of the Wars of German Unification*. Longman, 1991, pp. 89-105.
-[^18]: Wawro, *The Austro-Prussian War*, pp. 28-42.
-[^19]: Showalter, Dennis E. *The Wars of German Unification*. Hodder Arnold, 2004, pp. 145-178.
-[^20]: Steinberg, *Bismarck: A Life*, pp. 245-251.
-[^21]: Pflanze, *Bismarck and the Development of Germany, Volume I*, pp. 347-365.
-[^22]: Wawro, Geoffrey. *The Franco-Prussian War: The German Conquest of France in 1870-1871*. Cambridge University Press, 2003, pp. 19-45.
-[^23]: Gall, *Bismarck: The White Revolutionary*, pp. 318-325.
-[^24]: Craig, *Germany 1866-1945*, pp. 24-28.
-[^25]: Kennan, George F. *The Decline of Bismarck's European Order: Franco-Russian Relations, 1875-1890*. Princeton University Press, 1979, pp. 3-12.
-[^26]: Taylor, A.J.P. *The Struggle for Mastery in Europe, 1848-1918*. Oxford University Press, 1954, pp. 222-228.
-[^27]: Medlicott, W.N. *The Congress of Berlin and After: A Diplomatic History of the Near Eastern Settlement, 1878-1880*. Methuen, 1938, pp. 45-89.
-[^28]: Langer, William L. *European Alliances and Alignments, 1871-1890*. Alfred A. Knopf, 1931, pp. 185-245.
-[^29]: Kennan, *The Decline of Bismarck's European Order*, p. 23.
-[^30]: Steinmetz, George. "Social Policy and the Welfare State in Wilhelmine Germany." In *Germany Transformed: Political Culture and the New Politics*, edited by Konrad H. Jarausch and Larry Eugene Jones. Berg Publishers, 1994, pp. 125-148.
-[^31]: Pflanze, Otto. *Bismarck and the Development of Germany, Volume II: The Period of Consolidation, 1871-1880*. Princeton University Press, 1990, pp. 145-168.
-[^32]: Quoted in Steinberg, *Bismarck: A Life*, p. 381.
-[^33]: Hennock, E.P. *The Origin of the Welfare State in England and Germany, 1850-1914*. Cambridge University Press, 2007, pp. 138-175.
-[^34]: Anderson, Margaret Lavinia. *Windthorst: A Political Biography*. Clarendon Press, 1981, pp. 178-195.
-[^35]: Blackbourn, David. *The Long Nineteenth Century: A History of Germany, 1780-1918*. Oxford University Press, 1998, pp. 286-292.
-[^36]: Ross, Ronald J. *The Failure of Bismarck's Kulturkampf: Catholicism and State Power in Imperial Germany, 1871-1887*. Catholic University of America Press, 1998, pp. 89-125.
-[^37]: Anderson, *Windthorst: A Political Biography*, pp. 212-235.
-[^38]: Blackbourn, *The Long Nineteenth Century*, pp. 293-295.
-[^39]: Lidtke, Vernon L. *The Outlawed Party: Social Democracy in Germany, 1878-1890*. Princeton University Press, 1966, pp. 51-78.
-[^40]: Craig, *Germany 1866-1945*, pp. 80-84.
-[^41]: Lidtke, *The Outlawed Party*, pp. 328-335.
-[^42]: Wehler, Hans-Ulrich. *The German Empire, 1871-1918*. Translated by Kim Traynor. Berg Publishers, 1985, pp. 170-178.
-[^43]: Smith, Woodruff D. *The German Colonial Empire*. University of North Carolina Press, 1978, pp. 15-35.
-[^44]: Olusoga, David, and Casper W. Erichsen. *The Kaiser's Holocaust: Germany's Forgotten Genocide*. Faber and Faber, 2010, pp. 1-12, 148-175.
-[^45]: Pakenham, Thomas. *The Scramble for Africa: White Man's Conquest of the Dark Continent from 1876 to 1912*. Random House, 1991, pp. 239-255.
-[^46]: Stern, Fritz. *Gold and Iron: Bismarck, Bleichröder, and the Building of the German Empire*. Alfred A. Knopf, 1977, pp. 178-195.
-[^47]: Craig, *Germany 1866-1945*, pp. 42-49.
-[^48]: Wehler, *The German Empire, 1871-1918*, pp. 58-72.
-[^49]: Steinberg, *Bismarck: A Life*, pp. 75-82.
-[^50]: Gall, *Bismarck: The White Revolutionary*, pp. 689-695.
-[^51]: Pflanze, *Bismarck and the Development of Germany, Volume I*, p. 66.
-[^52]: Steinberg, *Bismarck: A Life*, pp. 312-318, 425-431.
-[^53]: Taylor, *Bismarck: The Man and the Statesman*, pp. 238-242.
-[^54]: Craig, Gordon A. "Portrait of a Political General: Edwin von Manteuffel and the Constitutional Conflict in Prussia." *Political Science Quarterly* 66, no. 1 (1951): 1-32.
-[^55]: Eyck, *Bismarck and the German Empire*, pp. 285-292.
-[^56]: Gall, *Bismarck: The White Revolutionary*, pp. 712-728.
-[^57]: Steinberg, *Bismarck: A Life*, pp. 459-465.
-[^58]: Blackbourn, *The Long Nineteenth Century*, pp. 315-320.
-[^59]: Kennedy, Paul M. *The Rise and Fall of the Great Powers: Economic Change and Military Conflict from 1500 to 2000*. Random House, 1987, pp. 209-213.
-[^60]: Kissinger, Henry. *Diplomacy*. Simon & Schuster, 1994, pp. 113-142.
-[^61]: Hennock, *The Origin of the Welfare State in England and Germany*, pp. 298-315.
-[^62]: Esping-Andersen, Gøsta. *The Three Worlds of Welfare Capitalism*. Princeton University Press, 1990, pp. 58-62.
-[^63]: Wehler, *The German Empire, 1871-1918*, pp. 58-78.
-[^64]: Mommsen, Wolfgang J. *Imperial Germany 1867-1918: Politics, Culture, and Society in an Authoritarian State*. Translated by Richard Deveson. Arnold, 1995, pp. 34-52.
-[^65]: Röhl, John C.G. "The Disintegration of the Kartell and the Politics of Bismarck's Fall from Power, 1887-90." *The Historical Journal* 9, no. 1 (1966): 60-89.
-[^66]: Fischer, Fritz. *War of Illusions: German Policies from 1911 to 1914*. Translated by Marian Jackson. W.W. Norton, 1975, pp. 15-28.
-[^67]: Förster, Stig, et al., editors. *Bismarck, Europe, and Africa: The Berlin Africa Conference 1884-1885 and the Onset of Partition*. Oxford University Press, 1988, pp. 1-15.
-[^68]: Retallack, James. *Imperial Germany 1871-1918*. Oxford University Press, 2008, pp. 15-22.
-[^69]: Taylor, *Bismarck: The Man and the Statesman*, p. 264.
-[^70]: Kissinger, *Diplomacy*, pp. 137-142.
-[^71]: Craig, Gordon A. *From Bismarck to Adenauer: Aspects of German Statecraft*. Johns Hopkins University Press, 1958, p. 28.
-[^72]: Kennan, *The Decline of Bismarck's European Order*, pp. 185-195.
-[^73]: Holborn, Hajo. *A History of Modern Germany: 1840-1945*. Princeton University Press, 1969, pp. 291-298.
-[^74]: Pflanze, *Bismarck and the Development of Germany, Volume II*, pp. 165-168.
+[^1]: Steinberg, Jonathan. _Bismarck: A Life_. Oxford University Press, 2011, pp. 1-5.
+
+[^2]: Pflanze, Otto. _Bismarck and the Development of Germany, Volume I: The Period of Unification, 1815-1871_. Princeton University Press, 1990, pp. 15-18.
+
+[^3]: Craig, Gordon A. _Germany 1866-1945_. Oxford University Press, 1978, p. 8.
+
+[^4]: Taylor, A.J.P. _Bismarck: The Man and the Statesman_. Hamish Hamilton, 1955, pp. 11-15.
+
+[^5]: Steinberg, _Bismarck: A Life_, pp. 45-62.
+
+[^6]: Pflanze, _Bismarck and the Development of Germany, Volume I_, pp. 42-48.
+
+[^7]: Eyck, Erich. _Bismarck and the German Empire_. W.W. Norton, 1950, pp. 15-20.
+
+[^8]: Craig, _Germany 1866-1945_, pp. 10-12.
+
+[^9]: Waller, Bruce. _Bismarck_. Blackwell Publishers, 1997, pp. 12-15.
+
+[^10]: Steinberg, _Bismarck: A Life_, pp. 98-112.
+
+[^11]: Taylor, _Bismarck: The Man and the Statesman_, pp. 45-52.
+
+[^12]: Pflanze, _Bismarck and the Development of Germany, Volume I_, pp. 142-158.
+
+[^13]: Gall, Lothar. _Bismarck: The White Revolutionary_. Translated by J.A. Underwood. Unwin Hyman, 1986, pp. 207-215.
+
+[^14]: Craig, _Germany 1866-1945_, pp. 15-18.
+
+[^15]: Eyck, _Bismarck and the German Empire_, pp. 45-58.
+
+[^16]: Wawro, Geoffrey. _The Austro-Prussian War: Austria's War with Prussia and Italy in 1866_. Cambridge University Press, 1996, pp. 1-8.
+
+[^17]: Carr, William. _The Origins of the Wars of German Unification_. Longman, 1991, pp. 89-105.
+
+[^18]: Wawro, _The Austro-Prussian War_, pp. 28-42.
+
+[^19]: Showalter, Dennis E. _The Wars of German Unification_. Hodder Arnold, 2004, pp. 145-178.
+
+[^20]: Steinberg, _Bismarck: A Life_, pp. 245-251.
+
+[^21]: Pflanze, _Bismarck and the Development of Germany, Volume I_, pp. 347-365.
+
+[^22]: Wawro, Geoffrey. _The Franco-Prussian War: The German Conquest of France in 1870-1871_. Cambridge University Press, 2003, pp. 19-45.
+
+[^23]: Gall, _Bismarck: The White Revolutionary_, pp. 318-325.
+
+[^24]: Craig, _Germany 1866-1945_, pp. 24-28.
+
+[^25]: Kennan, George F. _The Decline of Bismarck's European Order: Franco-Russian Relations, 1875-1890_. Princeton University Press, 1979, pp. 3-12.
+
+[^26]: Taylor, A.J.P. _The Struggle for Mastery in Europe, 1848-1918_. Oxford University Press, 1954, pp. 222-228.
+
+[^27]: Medlicott, W.N. _The Congress of Berlin and After: A Diplomatic History of the Near Eastern Settlement, 1878-1880_. Methuen, 1938, pp. 45-89.
+
+[^28]: Langer, William L. _European Alliances and Alignments, 1871-1890_. Alfred A. Knopf, 1931, pp. 185-245.
+
+[^29]: Kennan, _The Decline of Bismarck's European Order_, p. 23.
+
+[^30]: Steinmetz, George. "Social Policy and the Welfare State in Wilhelmine Germany." In _Germany Transformed: Political Culture and the New Politics_, edited by Konrad H. Jarausch and Larry Eugene Jones. Berg Publishers, 1994, pp. 125-148.
+
+[^31]: Pflanze, Otto. _Bismarck and the Development of Germany, Volume II: The Period of Consolidation, 1871-1880_. Princeton University Press, 1990, pp. 145-168.
+
+[^32]: Quoted in Steinberg, _Bismarck: A Life_, p. 381.
+
+[^33]: Hennock, E.P. _The Origin of the Welfare State in England and Germany, 1850-1914_. Cambridge University Press, 2007, pp. 138-175.
+
+[^34]: Anderson, Margaret Lavinia. _Windthorst: A Political Biography_. Clarendon Press, 1981, pp. 178-195.
+
+[^35]: Blackbourn, David. _The Long Nineteenth Century: A History of Germany, 1780-1918_. Oxford University Press, 1998, pp. 286-292.
+
+[^36]: Ross, Ronald J. _The Failure of Bismarck's Kulturkampf: Catholicism and State Power in Imperial Germany, 1871-1887_. Catholic University of America Press, 1998, pp. 89-125.
+
+[^37]: Anderson, _Windthorst: A Political Biography_, pp. 212-235.
+
+[^38]: Blackbourn, _The Long Nineteenth Century_, pp. 293-295.
+
+[^39]: Lidtke, Vernon L. _The Outlawed Party: Social Democracy in Germany, 1878-1890_. Princeton University Press, 1966, pp. 51-78.
+
+[^40]: Craig, _Germany 1866-1945_, pp. 80-84.
+
+[^41]: Lidtke, _The Outlawed Party_, pp. 328-335.
+
+[^42]: Wehler, Hans-Ulrich. _The German Empire, 1871-1918_. Translated by Kim Traynor. Berg Publishers, 1985, pp. 170-178.
+
+[^43]: Smith, Woodruff D. _The German Colonial Empire_. University of North Carolina Press, 1978, pp. 15-35.
+
+[^44]: Olusoga, David, and Casper W. Erichsen. _The Kaiser's Holocaust: Germany's Forgotten Genocide_. Faber and Faber, 2010, pp. 1-12, 148-175.
+
+[^45]: Pakenham, Thomas. _The Scramble for Africa: White Man's Conquest of the Dark Continent from 1876 to 1912_. Random House, 1991, pp. 239-255.
+
+[^46]: Stern, Fritz. _Gold and Iron: Bismarck, Bleichröder, and the Building of the German Empire_. Alfred A. Knopf, 1977, pp. 178-195.
+
+[^47]: Craig, _Germany 1866-1945_, pp. 42-49.
+
+[^48]: Wehler, _The German Empire, 1871-1918_, pp. 58-72.
+
+[^49]: Steinberg, _Bismarck: A Life_, pp. 75-82.
+
+[^50]: Gall, _Bismarck: The White Revolutionary_, pp. 689-695.
+
+[^51]: Pflanze, _Bismarck and the Development of Germany, Volume I_, p. 66.
+
+[^52]: Steinberg, _Bismarck: A Life_, pp. 312-318, 425-431.
+
+[^53]: Taylor, _Bismarck: The Man and the Statesman_, pp. 238-242.
+
+[^54]: Craig, Gordon A. "Portrait of a Political General: Edwin von Manteuffel and the Constitutional Conflict in Prussia." _Political Science Quarterly_ 66, no. 1 (1951): 1-32.
+
+[^55]: Eyck, _Bismarck and the German Empire_, pp. 285-292.
+
+[^56]: Gall, _Bismarck: The White Revolutionary_, pp. 712-728.
+
+[^57]: Steinberg, _Bismarck: A Life_, pp. 459-465.
+
+[^58]: Blackbourn, _The Long Nineteenth Century_, pp. 315-320.
+
+[^59]: Kennedy, Paul M. _The Rise and Fall of the Great Powers: Economic Change and Military Conflict from 1500 to 2000_. Random House, 1987, pp. 209-213.
+
+[^60]: Kissinger, Henry. _Diplomacy_. Simon & Schuster, 1994, pp. 113-142.
+
+[^61]: Hennock, _The Origin of the Welfare State in England and Germany_, pp. 298-315.
+
+[^62]: Esping-Andersen, Gøsta. _The Three Worlds of Welfare Capitalism_. Princeton University Press, 1990, pp. 58-62.
+
+[^63]: Wehler, _The German Empire, 1871-1918_, pp. 58-78.
+
+[^64]: Mommsen, Wolfgang J. _Imperial Germany 1867-1918: Politics, Culture, and Society in an Authoritarian State_. Translated by Richard Deveson. Arnold, 1995, pp. 34-52.
+
+[^65]: Röhl, John C.G. "The Disintegration of the Kartell and the Politics of Bismarck's Fall from Power, 1887-90." _The Historical Journal_ 9, no. 1 (1966): 60-89.
+
+[^66]: Fischer, Fritz. _War of Illusions: German Policies from 1911 to 1914_. Translated by Marian Jackson. W.W. Norton, 1975, pp. 15-28.
+
+[^67]: Förster, Stig, et al., editors. _Bismarck, Europe, and Africa: The Berlin Africa Conference 1884-1885 and the Onset of Partition_. Oxford University Press, 1988, pp. 1-15.
+
+[^68]: Retallack, James. _Imperial Germany 1871-1918_. Oxford University Press, 2008, pp. 15-22.
+
+[^69]: Taylor, _Bismarck: The Man and the Statesman_, p. 264.
+
+[^70]: Kissinger, _Diplomacy_, pp. 137-142.
+
+[^71]: Craig, Gordon A. _From Bismarck to Adenauer: Aspects of German Statecraft_. Johns Hopkins University Press, 1958, p. 28.
+
+[^72]: Kennan, _The Decline of Bismarck's European Order_, pp. 185-195.
+
+[^73]: Holborn, Hajo. _A History of Modern Germany: 1840-1945_. Princeton University Press, 1969, pp. 291-298.
+
+[^74]: Pflanze, _Bismarck and the Development of Germany, Volume II_, pp. 165-168.
+
 [^75]: Steinmetz, "Social Policy and the Welfare State in Wilhelmine Germany," pp. 142-148.
-[^76]: Pinson, Koppel S. *Modern Germany: Its History and Civilization*. Macmillan, 1954, pp. 158-165.
-[^77]: Waller, *Bismarck*, pp. 145-152.
-[^78]: Holborn, *A History of Modern Germany*, pp. 253-268.
-[^79]: Fischer, Fritz. *From Kaiserreich to Third Reich: Elements of Continuity in German History, 1871-1945*. Translated by Roger Fletcher. Allen & Unwin, 1986, pp. 15-42.
-[^80]: Mommsen, *Imperial Germany 1867-1918*, pp. 245-258.
-[^81]: Wehler, Hans-Ulrich. *Deutsche Gesellschaftsgeschichte, Volume 3: Von der "Deutschen Doppelrevolution" bis zum Beginn des Ersten Weltkrieges, 1849-1914*. C.H. Beck, 1995, pp. 852-875.
-[^82]: Blackbourn, David, and Geoff Eley. *The Peculiarities of German History: Bourgeois Society and Politics in Nineteenth-Century Germany*. Oxford University Press, 1984, pp. 112-135.
-[^83]: Sheehan, James J. *German History, 1770-1866*. Oxford University Press, 1989, pp. 895-912.
-[^84]: Steinberg, *Bismarck: A Life*, p. 447.
+
+[^76]: Pinson, Koppel S. _Modern Germany: Its History and Civilization_. Macmillan, 1954, pp. 158-165.
+
+[^77]: Waller, _Bismarck_, pp. 145-152.
+
+[^78]: Holborn, _A History of Modern Germany_, pp. 253-268.
+
+[^79]: Fischer, Fritz. _From Kaiserreich to Third Reich: Elements of Continuity in German History, 1871-1945_. Translated by Roger Fletcher. Allen & Unwin, 1986, pp. 15-42.
+
+[^80]: Mommsen, _Imperial Germany 1867-1918_, pp. 245-258.
+
+[^81]: Wehler, Hans-Ulrich. _Deutsche Gesellschaftsgeschichte, Volume 3: Von der "Deutschen Doppelrevolution" bis zum Beginn des Ersten Weltkrieges, 1849-1914_. C.H. Beck, 1995, pp. 852-875.
+
+[^82]: Blackbourn, David, and Geoff Eley. _The Peculiarities of German History: Bourgeois Society and Politics in Nineteenth-Century Germany_. Oxford University Press, 1984, pp. 112-135.
+
+[^83]: Sheehan, James J. _German History, 1770-1866_. Oxford University Press, 1989, pp. 895-912.
+
+[^84]: Steinberg, _Bismarck: A Life_, p. 447.
+
 [^85]: Röhl, "The Disintegration of the Kartell," pp. 82-89.
-[^86]: Kennan, *The Decline of Bismarck's European Order*, pp. 419-428.
-[^87]: Quoted in Craig, *Germany 1866-1945*, p. 16.
-[^88]: Mombauer, Annika. *The Origins of the First World War: Controversies and Consensus*. Longman, 2002, pp. 89-95.
-[^89]: Anderson, *Windthorst: A Political Biography*, pp. 298-315.
-[^90]: Evans, Richard J. *Rereading German History: From Unification to Reunification, 1800-1996*. Routledge, 1997, pp. 45-58.
-[^91]: Quoted in Steinberg, *Bismarck: A Life*, p. 165.
-[^92]: Quoted in Craig, *Germany 1866-1945*, p. 16.
-[^93]: Quoted in Taylor, *Bismarck: The Man and the Statesman*, p. 125.
-[^94]: Quoted in Gall, *Bismarck: The White Revolutionary*, p. 298.
-[^95]: Quoted in Kissinger, *Diplomacy*, p. 138.
-[^96]: Quoted in Eyck, *Bismarck and the German Empire*, p. 267.
+
+[^86]: Kennan, _The Decline of Bismarck's European Order_, pp. 419-428.
+
+[^87]: Quoted in Craig, _Germany 1866-1945_, p. 16.
+
+[^88]: Mombauer, Annika. _The Origins of the First World War: Controversies and Consensus_. Longman, 2002, pp. 89-95.
+
+[^89]: Anderson, _Windthorst: A Political Biography_, pp. 298-315.
+
+[^90]: Evans, Richard J. _Rereading German History: From Unification to Reunification, 1800-1996_. Routledge, 1997, pp. 45-58.
+
+[^91]: Quoted in Steinberg, _Bismarck: A Life_, p. 165.
+
+[^92]: Quoted in Craig, _Germany 1866-1945_, p. 16.
+
+[^93]: Quoted in Taylor, _Bismarck: The Man and the Statesman_, p. 125.
+
+[^94]: Quoted in Gall, _Bismarck: The White Revolutionary_, p. 298.
+
+[^95]: Quoted in Kissinger, _Diplomacy_, p. 138.
+
+[^96]: Quoted in Eyck, _Bismarck and the German Empire_, p. 267.

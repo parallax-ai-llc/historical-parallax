@@ -155,32 +155,32 @@ Critics also note that Richard's celebrated chivalry extended only to those of h
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1157 | Born September 8 at Beaumont Palace, Oxford |
-| 1168 | Invested as Duke of Aquitaine |
-| 1173 | Joins rebellion against father Henry II |
-| 1174 | Rebellion fails; mother Eleanor imprisoned |
+| Year | Event                                                             |
+| ---- | ----------------------------------------------------------------- |
+| 1157 | Born September 8 at Beaumont Palace, Oxford                       |
+| 1168 | Invested as Duke of Aquitaine                                     |
+| 1173 | Joins rebellion against father Henry II                           |
+| 1174 | Rebellion fails; mother Eleanor imprisoned                        |
 | 1183 | Death of older brother Henry the Young King; Richard becomes heir |
-| 1189 | Wages war against father; Henry II dies July 6 |
-| 1189 | Crowned King of England September 3 at Westminster Abbey |
-| 1190 | Departs on Third Crusade |
-| 1190 | Winters in Sicily; conquers Messina |
-| 1191 | Conquers Cyprus May-June |
-| 1191 | Marries Berengaria of Navarre May 12 |
-| 1191 | Arrives at Acre June 8; city surrenders July 12 |
-| 1191 | Orders execution of 2,700 Muslim prisoners August 20 |
-| 1191 | Defeats Saladin at Battle of Arsuf September 7 |
-| 1192 | Negotiates Treaty of Jaffa with Saladin September 2 |
-| 1192 | Departs Holy Land October 9 |
-| 1192 | Captured by Leopold V of Austria December |
-| 1193 | Transferred to Henry VI, Holy Roman Emperor |
-| 1194 | Released after ransom payment February 4 |
-| 1194 | Returns to England March; departs May, never to return |
-| 1194 | Begins campaign to recover French territories |
-| 1196 | Begins construction of Château Gaillard |
-| 1199 | Shot by crossbow bolt at Châlus-Chabrol March 26 |
-| 1199 | Dies April 6 at age 41 |
+| 1189 | Wages war against father; Henry II dies July 6                    |
+| 1189 | Crowned King of England September 3 at Westminster Abbey          |
+| 1190 | Departs on Third Crusade                                          |
+| 1190 | Winters in Sicily; conquers Messina                               |
+| 1191 | Conquers Cyprus May-June                                          |
+| 1191 | Marries Berengaria of Navarre May 12                              |
+| 1191 | Arrives at Acre June 8; city surrenders July 12                   |
+| 1191 | Orders execution of 2,700 Muslim prisoners August 20              |
+| 1191 | Defeats Saladin at Battle of Arsuf September 7                    |
+| 1192 | Negotiates Treaty of Jaffa with Saladin September 2               |
+| 1192 | Departs Holy Land October 9                                       |
+| 1192 | Captured by Leopold V of Austria December                         |
+| 1193 | Transferred to Henry VI, Holy Roman Emperor                       |
+| 1194 | Released after ransom payment February 4                          |
+| 1194 | Returns to England March; departs May, never to return            |
+| 1194 | Begins campaign to recover French territories                     |
+| 1196 | Begins construction of Château Gaillard                           |
+| 1199 | Shot by crossbow bolt at Châlus-Chabrol March 26                  |
+| 1199 | Dies April 6 at age 41                                            |
 
 ---
 
@@ -200,109 +200,214 @@ Critics also note that Richard's celebrated chivalry extended only to those of h
 
 ## References
 
-[^1]: Gillingham, John. *Richard I*. Yale University Press, 1999, pp. 1-5.
-[^2]: Weir, Alison. *Eleanor of Aquitaine: A Life*. Ballantine Books, 1999, pp. 187-192.
-[^3]: Flori, Jean. *Richard the Lionheart: Knight and King*. Translated by Jean Birrell, Edinburgh University Press, 2006, pp. 12-18.
-[^4]: Harvey, Ruth. "The Troubadour Bertran de Born and Richard I of England." *Viator* 21 (1990): 233-257.
-[^5]: Gillingham, John. "The Art of Kingship: Richard I, 1189-1199." *History Today* 35.4 (1985): 16-24.
-[^6]: Strickland, Matthew. *War and Chivalry: The Conduct and Perception of War in England and Normandy, 1066-1217*. Cambridge University Press, 1996, pp. 156-159.
-[^7]: Warren, W. L. *Henry II*. University of California Press, 1973, pp. 567-598.
-[^8]: Turner, Ralph V. *Eleanor of Aquitaine: Queen of France, Queen of England*. Yale University Press, 2009, pp. 213-228.
-[^9]: Barber, Richard. *The Devil's Crown: A History of Henry II and His Sons*. BBC Books, 1978, pp. 134-137.
-[^10]: Gillingham, John. *Richard I*, pp. 45-52.
-[^11]: Flori, Jean. *Richard the Lionheart*, pp. 34-47.
-[^12]: Strickland, Matthew. *War and Chivalry*, pp. 178-185.
-[^13]: Reston, James Jr. *Warriors of God: Richard the Lionheart and Saladin in the Third Crusade*. Anchor Books, 2001, pp. 3-15.
-[^14]: Gillingham, John. *Richard I*, pp. 58-67.
-[^15]: Warren, W. L. *Henry II*, pp. 611-625.
-[^16]: Barber, Richard. *The Devil's Crown*, pp. 187-189.
-[^17]: Appleby, John T. *England Without Richard, 1189-1199*. G. Bell and Sons, 1965, pp. 3-12.
-[^18]: Gillingham, John. "Richard I and the Science of War in the Middle Ages." *War and Government in the Middle Ages*, edited by John Gillingham and J. C. Holt, Boydell Press, 1984, pp. 78-91.
-[^19]: Tyerman, Christopher. *God's War: A New History of the Crusades*. Harvard University Press, 2006, pp. 388-394.
-[^20]: Appleby, John T. *England Without Richard*, pp. 15-28.
-[^21]: Gillingham, John. *Richard the Lionheart*. Weidenfeld and Nicolson, 1978, pp. 120-145.
-[^22]: Reston, James Jr. *Warriors of God*, pp. 135-158.
-[^23]: France, John. *Western Warfare in the Age of the Crusades, 1000-1300*. Cornell University Press, 1999, pp. 218-222.
+[^1]: Gillingham, John. _Richard I_. Yale University Press, 1999, pp. 1-5.
+
+[^2]: Weir, Alison. _Eleanor of Aquitaine: A Life_. Ballantine Books, 1999, pp. 187-192.
+
+[^3]: Flori, Jean. _Richard the Lionheart: Knight and King_. Translated by Jean Birrell, Edinburgh University Press, 2006, pp. 12-18.
+
+[^4]: Harvey, Ruth. "The Troubadour Bertran de Born and Richard I of England." _Viator_ 21 (1990): 233-257.
+
+[^5]: Gillingham, John. "The Art of Kingship: Richard I, 1189-1199." _History Today_ 35.4 (1985): 16-24.
+
+[^6]: Strickland, Matthew. _War and Chivalry: The Conduct and Perception of War in England and Normandy, 1066-1217_. Cambridge University Press, 1996, pp. 156-159.
+
+[^7]: Warren, W. L. _Henry II_. University of California Press, 1973, pp. 567-598.
+
+[^8]: Turner, Ralph V. _Eleanor of Aquitaine: Queen of France, Queen of England_. Yale University Press, 2009, pp. 213-228.
+
+[^9]: Barber, Richard. _The Devil's Crown: A History of Henry II and His Sons_. BBC Books, 1978, pp. 134-137.
+
+[^10]: Gillingham, John. _Richard I_, pp. 45-52.
+
+[^11]: Flori, Jean. _Richard the Lionheart_, pp. 34-47.
+
+[^12]: Strickland, Matthew. _War and Chivalry_, pp. 178-185.
+
+[^13]: Reston, James Jr. _Warriors of God: Richard the Lionheart and Saladin in the Third Crusade_. Anchor Books, 2001, pp. 3-15.
+
+[^14]: Gillingham, John. _Richard I_, pp. 58-67.
+
+[^15]: Warren, W. L. _Henry II_, pp. 611-625.
+
+[^16]: Barber, Richard. _The Devil's Crown_, pp. 187-189.
+
+[^17]: Appleby, John T. _England Without Richard, 1189-1199_. G. Bell and Sons, 1965, pp. 3-12.
+
+[^18]: Gillingham, John. "Richard I and the Science of War in the Middle Ages." _War and Government in the Middle Ages_, edited by John Gillingham and J. C. Holt, Boydell Press, 1984, pp. 78-91.
+
+[^19]: Tyerman, Christopher. _God's War: A New History of the Crusades_. Harvard University Press, 2006, pp. 388-394.
+
+[^20]: Appleby, John T. _England Without Richard_, pp. 15-28.
+
+[^21]: Gillingham, John. _Richard the Lionheart_. Weidenfeld and Nicolson, 1978, pp. 120-145.
+
+[^22]: Reston, James Jr. _Warriors of God_, pp. 135-158.
+
+[^23]: France, John. _Western Warfare in the Age of the Crusades, 1000-1300_. Cornell University Press, 1999, pp. 218-222.
+
 [^24]: Gillingham, John. "Richard I and the Science of War," pp. 82-85.
-[^25]: Tyerman, Christopher. *God's War*, pp. 427-435.
-[^26]: Reston, James Jr. *Warriors of God*, pp. 267-283.
-[^27]: Gabrieli, Francesco, ed. *Arab Historians of the Crusades*. Translated by E. J. Costello, University of California Press, 1969, pp. 234-237.
-[^28]: Bradbury, Jim. *The Medieval Siege*. Boydell Press, 1992, pp. 187-194.
-[^29]: Gillingham, John. *Richard I* (Yale), pp. 295-301.
-[^30]: Phillips, Jonathan. *The Crusades, 1095-1197*. Longman, 2002, pp. 238-245.
-[^31]: Gillingham, John. *Richard I* (Yale), pp. 273-289.
-[^32]: Bradbury, Jim. *Philip Augustus: King of France 1180-1223*. Longman, 1998, pp. 142-156.
-[^33]: Appleby, John T. *England Without Richard*, pp. 67-89.
-[^34]: Gillingham, John. *Richard I* (Yale), pp. 237-249.
-[^35]: Carpenter, David. *The Struggle for Mastery: Britain 1066-1284*. Oxford University Press, 2003, pp. 273-276.
-[^36]: Reston, James Jr. *Warriors of God*, pp. 178-185.
-[^37]: Maalouf, Amin. *The Crusades Through Arab Eyes*. Schocken Books, 1984, pp. 201-205.
-[^38]: Bradbury, Jim. *Philip Augustus*, pp. 89-102.
-[^39]: Baldwin, John W. *The Government of Philip Augustus*. University of California Press, 1986, pp. 189-203.
-[^40]: Gillingham, John. *Richard I* (Yale), pp. 254-257.
-[^41]: Boswell, John. *Christianity, Social Tolerance, and Homosexuality*. University of Chicago Press, 1980, pp. 231-234.
-[^42]: Trindade, Ann. *Berengaria: In Search of Richard the Lionheart's Queen*. Four Courts Press, 1999, pp. 89-156.
-[^43]: Gillingham, John. *Richard I* (Yale), p. 249.
-[^44]: Flori, Jean. *Richard the Lionheart*, pp. 412-418.
-[^45]: Gillingham, John. *Richard I* (Yale), pp. 319-324.
-[^46]: Carpenter, David. *The Struggle for Mastery*, pp. 287-289.
-[^47]: Trindade, Ann. *Berengaria*, pp. 45-67.
-[^48]: Gillingham, John. *Richard I* (Yale), pp. 155-159.
-[^49]: Trindade, Ann. *Berengaria*, pp. 178-203.
-[^50]: Boswell, John. *Christianity, Social Tolerance, and Homosexuality*, pp. 231-236.
-[^51]: Gillingham, John. "Richard I, Galley-Warfare and Portsmouth: The Beginnings of a Royal Navy." *Thirteenth Century England VI*, edited by Michael Prestwich et al., Boydell Press, 1997, pp. 1-15.
-[^52]: Burgwinkle, William. "The Chansons of the Troubadours and Trouvères." *The Cambridge Companion to Medieval Music*, edited by Mark Everist, Cambridge University Press, 2011, pp. 28-45.
-[^53]: Gillingham, John. *Richard I* (Yale), pp. 89-92.
-[^54]: Flori, Jean. *Richard the Lionheart*, pp. 78-84.
-[^55]: Gillingham, John. *Richard the Lionheart* (1978), pp. 56-59.
-[^56]: Turner, Ralph V. *Eleanor of Aquitaine*, pp. 256-271.
-[^57]: Weir, Alison. *Eleanor of Aquitaine*, pp. 312-328.
-[^58]: Barber, Richard. *The Devil's Crown*, pp. 167-172.
-[^59]: Gillingham, John. *Richard I* (Yale), p. 257.
+
+[^25]: Tyerman, Christopher. _God's War_, pp. 427-435.
+
+[^26]: Reston, James Jr. _Warriors of God_, pp. 267-283.
+
+[^27]: Gabrieli, Francesco, ed. _Arab Historians of the Crusades_. Translated by E. J. Costello, University of California Press, 1969, pp. 234-237.
+
+[^28]: Bradbury, Jim. _The Medieval Siege_. Boydell Press, 1992, pp. 187-194.
+
+[^29]: Gillingham, John. _Richard I_ (Yale), pp. 295-301.
+
+[^30]: Phillips, Jonathan. _The Crusades, 1095-1197_. Longman, 2002, pp. 238-245.
+
+[^31]: Gillingham, John. _Richard I_ (Yale), pp. 273-289.
+
+[^32]: Bradbury, Jim. _Philip Augustus: King of France 1180-1223_. Longman, 1998, pp. 142-156.
+
+[^33]: Appleby, John T. _England Without Richard_, pp. 67-89.
+
+[^34]: Gillingham, John. _Richard I_ (Yale), pp. 237-249.
+
+[^35]: Carpenter, David. _The Struggle for Mastery: Britain 1066-1284_. Oxford University Press, 2003, pp. 273-276.
+
+[^36]: Reston, James Jr. _Warriors of God_, pp. 178-185.
+
+[^37]: Maalouf, Amin. _The Crusades Through Arab Eyes_. Schocken Books, 1984, pp. 201-205.
+
+[^38]: Bradbury, Jim. _Philip Augustus_, pp. 89-102.
+
+[^39]: Baldwin, John W. _The Government of Philip Augustus_. University of California Press, 1986, pp. 189-203.
+
+[^40]: Gillingham, John. _Richard I_ (Yale), pp. 254-257.
+
+[^41]: Boswell, John. _Christianity, Social Tolerance, and Homosexuality_. University of Chicago Press, 1980, pp. 231-234.
+
+[^42]: Trindade, Ann. _Berengaria: In Search of Richard the Lionheart's Queen_. Four Courts Press, 1999, pp. 89-156.
+
+[^43]: Gillingham, John. _Richard I_ (Yale), p. 249.
+
+[^44]: Flori, Jean. _Richard the Lionheart_, pp. 412-418.
+
+[^45]: Gillingham, John. _Richard I_ (Yale), pp. 319-324.
+
+[^46]: Carpenter, David. _The Struggle for Mastery_, pp. 287-289.
+
+[^47]: Trindade, Ann. _Berengaria_, pp. 45-67.
+
+[^48]: Gillingham, John. _Richard I_ (Yale), pp. 155-159.
+
+[^49]: Trindade, Ann. _Berengaria_, pp. 178-203.
+
+[^50]: Boswell, John. _Christianity, Social Tolerance, and Homosexuality_, pp. 231-236.
+
+[^51]: Gillingham, John. "Richard I, Galley-Warfare and Portsmouth: The Beginnings of a Royal Navy." _Thirteenth Century England VI_, edited by Michael Prestwich et al., Boydell Press, 1997, pp. 1-15.
+
+[^52]: Burgwinkle, William. "The Chansons of the Troubadours and Trouvères." _The Cambridge Companion to Medieval Music_, edited by Mark Everist, Cambridge University Press, 2011, pp. 28-45.
+
+[^53]: Gillingham, John. _Richard I_ (Yale), pp. 89-92.
+
+[^54]: Flori, Jean. _Richard the Lionheart_, pp. 78-84.
+
+[^55]: Gillingham, John. _Richard the Lionheart_ (1978), pp. 56-59.
+
+[^56]: Turner, Ralph V. _Eleanor of Aquitaine_, pp. 256-271.
+
+[^57]: Weir, Alison. _Eleanor of Aquitaine_, pp. 312-328.
+
+[^58]: Barber, Richard. _The Devil's Crown_, pp. 167-172.
+
+[^59]: Gillingham, John. _Richard I_ (Yale), p. 257.
+
 [^60]: Harvey, Ruth. "The Troubadour Bertran de Born," pp. 240-248.
-[^61]: Flori, Jean. *Richard the Lionheart*, pp. 53-61.
-[^62]: Broughton, Bradford B. *The Legends of King Richard I Coeur de Lion: A Study of Sources and Variations to the Year 1600*. Mouton, 1966, pp. 15-87.
-[^63]: Driver, Martha W. and Sid Ray, eds. *The Medieval Hero on Screen: Representations from Beowulf to Buffy*. McFarland, 2004, pp. 89-104.
-[^64]: Appleby, John T. *England Without Richard*, pp. 234-247.
-[^65]: Tyerman, Christopher. *God's War*, pp. 489-495.
-[^66]: Bradbury, Jim. *The Medieval Siege*, pp. 191-193.
-[^67]: Nicolle, David. *Medieval Siege Weapons (1): Western Europe AD 585-1385*. Osprey Publishing, 2002, pp. 34-37.
-[^68]: Flori, Jean. *Richard the Lionheart*, pp. 419-425.
-[^69]: Gillingham, John. *Richard I* (Yale), pp. 323-324.
-[^70]: Carpenter, David. *The Struggle for Mastery*, pp. 290-311.
-[^71]: Warren, W. L. *King John*. University of California Press, 1961, pp. 34-56.
-[^72]: Gabrieli, Francesco. *Arab Historians of the Crusades*, pp. 228-245.
-[^73]: Maalouf, Amin. *The Crusades Through Arab Eyes*, pp. 212-218.
-[^74]: Holt, J. C. *Robin Hood*. Thames and Hudson, 1982, pp. 78-92.
-[^75]: Gillingham, John. *The Angevin Empire*. Edward Arnold, 1984, pp. 45-67.
-[^76]: Strickland, Matthew. "On the Instruction of a Prince: The Upbringing of Henry, the Young King." *Henry II: New Interpretations*, edited by Christopher Harper-Bill and Nicholas Vincent, Boydell Press, 2007, pp. 184-214.
-[^77]: France, John. *Western Warfare in the Age of the Crusades*, pp. 219-221.
+
+[^61]: Flori, Jean. _Richard the Lionheart_, pp. 53-61.
+
+[^62]: Broughton, Bradford B. _The Legends of King Richard I Coeur de Lion: A Study of Sources and Variations to the Year 1600_. Mouton, 1966, pp. 15-87.
+
+[^63]: Driver, Martha W. and Sid Ray, eds. _The Medieval Hero on Screen: Representations from Beowulf to Buffy_. McFarland, 2004, pp. 89-104.
+
+[^64]: Appleby, John T. _England Without Richard_, pp. 234-247.
+
+[^65]: Tyerman, Christopher. _God's War_, pp. 489-495.
+
+[^66]: Bradbury, Jim. _The Medieval Siege_, pp. 191-193.
+
+[^67]: Nicolle, David. _Medieval Siege Weapons (1): Western Europe AD 585-1385_. Osprey Publishing, 2002, pp. 34-37.
+
+[^68]: Flori, Jean. _Richard the Lionheart_, pp. 419-425.
+
+[^69]: Gillingham, John. _Richard I_ (Yale), pp. 323-324.
+
+[^70]: Carpenter, David. _The Struggle for Mastery_, pp. 290-311.
+
+[^71]: Warren, W. L. _King John_. University of California Press, 1961, pp. 34-56.
+
+[^72]: Gabrieli, Francesco. _Arab Historians of the Crusades_, pp. 228-245.
+
+[^73]: Maalouf, Amin. _The Crusades Through Arab Eyes_, pp. 212-218.
+
+[^74]: Holt, J. C. _Robin Hood_. Thames and Hudson, 1982, pp. 78-92.
+
+[^75]: Gillingham, John. _The Angevin Empire_. Edward Arnold, 1984, pp. 45-67.
+
+[^76]: Strickland, Matthew. "On the Instruction of a Prince: The Upbringing of Henry, the Young King." _Henry II: New Interpretations_, edited by Christopher Harper-Bill and Nicholas Vincent, Boydell Press, 2007, pp. 184-214.
+
+[^77]: France, John. _Western Warfare in the Age of the Crusades_, pp. 219-221.
+
 [^78]: Gillingham, John. "Richard I and the Science of War," pp. 78-91.
-[^79]: Gillingham, John. *Richard I* (Yale), pp. 327-335.
-[^80]: Gillingham, John. *The Angevin Empire*, pp. 67-89.
-[^81]: Green, Judith A. "The Last Century of Danegeld." *English Historical Review* 96.379 (1981): 241-258.
+
+[^79]: Gillingham, John. _Richard I_ (Yale), pp. 327-335.
+
+[^80]: Gillingham, John. _The Angevin Empire_, pp. 67-89.
+
+[^81]: Green, Judith A. "The Last Century of Danegeld." _English Historical Review_ 96.379 (1981): 241-258.
+
 [^82]: Gillingham, John. "Richard I and the Science of War," pp. 85-88.
-[^83]: Bradbury, Jim. *The Medieval Siege*, pp. 189-194.
-[^84]: France, John. *Western Warfare in the Age of the Crusades*, pp. 225-232.
-[^85]: Tyerman, Christopher. *God's War*, pp. 438-441.
-[^86]: Phillips, Jonathan. *The Crusades*, pp. 242-245.
-[^87]: Gillingham, John. *Richard I* (Yale), pp. 112-134.
-[^88]: Turner, Ralph V. "Richard Lionheart and English Episcopal Elections." *Albion* 29.1 (1997): 1-13.
-[^89]: Strickland, Matthew. *War and Chivalry*, pp. 189-203.
-[^90]: Appleby, John T. *England Without Richard*, pp. 245-252.
-[^91]: Asbridge, Thomas. *The Crusades: The Authoritative History of the War for the Holy Land*. HarperCollins, 2010, pp. 478-485.
-[^92]: Tyerman, Christopher. "Were There Any Crusades in the Twelfth Century?" *English Historical Review* 110.437 (1995): 553-577.
-[^93]: Maalouf, Amin. *The Crusades Through Arab Eyes*, pp. 203-206.
-[^94]: Carpenter, David. *The Struggle for Mastery*, pp. 285-289.
-[^95]: Warren, W. L. *King John*, pp. 45-67.
-[^96]: Asbridge, Thomas. *The Crusades*, pp. 467-472.
-[^97]: Flori, Jean. *Richard the Lionheart*, pp. 416-418.
-[^98]: Gillingham, John. *Richard I* (Yale), p. 123.
-[^99]: Barratt, Nick. "The Revenue of King John." *English Historical Review* 111.443 (1996): 835-855.
-[^100]: Stenton, Doris M. *English Society in the Early Middle Ages*. Penguin, 1951, pp. 89-94.
-[^101]: Strickland, Matthew. *War and Chivalry*, pp. 298-312.
-[^102]: Gillingham, John. *Richard I* (Yale), p. 123.
-[^103]: Bradbury, Jim. *The Medieval Siege*, p. 192.
-[^104]: Gillingham, John. *Richard I* (Yale), p. 249.
-[^105]: Fox-Davies, Arthur Charles. *A Complete Guide to Heraldry*. Dodge Publishing, 1909, pp. 456-457.
-[^106]: Reston, James Jr. *Warriors of God*, p. 215.
+
+[^83]: Bradbury, Jim. _The Medieval Siege_, pp. 189-194.
+
+[^84]: France, John. _Western Warfare in the Age of the Crusades_, pp. 225-232.
+
+[^85]: Tyerman, Christopher. _God's War_, pp. 438-441.
+
+[^86]: Phillips, Jonathan. _The Crusades_, pp. 242-245.
+
+[^87]: Gillingham, John. _Richard I_ (Yale), pp. 112-134.
+
+[^88]: Turner, Ralph V. "Richard Lionheart and English Episcopal Elections." _Albion_ 29.1 (1997): 1-13.
+
+[^89]: Strickland, Matthew. _War and Chivalry_, pp. 189-203.
+
+[^90]: Appleby, John T. _England Without Richard_, pp. 245-252.
+
+[^91]: Asbridge, Thomas. _The Crusades: The Authoritative History of the War for the Holy Land_. HarperCollins, 2010, pp. 478-485.
+
+[^92]: Tyerman, Christopher. "Were There Any Crusades in the Twelfth Century?" _English Historical Review_ 110.437 (1995): 553-577.
+
+[^93]: Maalouf, Amin. _The Crusades Through Arab Eyes_, pp. 203-206.
+
+[^94]: Carpenter, David. _The Struggle for Mastery_, pp. 285-289.
+
+[^95]: Warren, W. L. _King John_, pp. 45-67.
+
+[^96]: Asbridge, Thomas. _The Crusades_, pp. 467-472.
+
+[^97]: Flori, Jean. _Richard the Lionheart_, pp. 416-418.
+
+[^98]: Gillingham, John. _Richard I_ (Yale), p. 123.
+
+[^99]: Barratt, Nick. "The Revenue of King John." _English Historical Review_ 111.443 (1996): 835-855.
+
+[^100]: Stenton, Doris M. _English Society in the Early Middle Ages_. Penguin, 1951, pp. 89-94.
+
+[^101]: Strickland, Matthew. _War and Chivalry_, pp. 298-312.
+
+[^102]: Gillingham, John. _Richard I_ (Yale), p. 123.
+
+[^103]: Bradbury, Jim. _The Medieval Siege_, p. 192.
+
+[^104]: Gillingham, John. _Richard I_ (Yale), p. 249.
+
+[^105]: Fox-Davies, Arthur Charles. _A Complete Guide to Heraldry_. Dodge Publishing, 1909, pp. 456-457.
+
+[^106]: Reston, James Jr. _Warriors of God_, p. 215.

@@ -19,37 +19,39 @@ Hyeonjong (born March 14, 1641; died September 17, 1674) was the 18th King of th
 ## Born in Exile
 
 Hyeonjong was born as **Yi Yeon** in Shenyang, China.
-*   **Hostage Life:** He spent his early childhood as a hostage of the Qing Dynasty, returning to Joseon only when his father was released in 1645. This upbringing gave him a cautious and pragmatic outlook.[^3]
+
+- **Hostage Life:** He spent his early childhood as a hostage of the Qing Dynasty, returning to Joseon only when his father was released in 1645. This upbringing gave him a cautious and pragmatic outlook.[^3]
 
 ---
 
 ## The Yesong Controversy (Ritual Dispute)
 
 Hyeonjong's reign is synonymous with the **Yesong Controversy**, seemingly trivial debates about funeral clothes that masked a deep power struggle.
-*   **First Dispute (Gihae Yesong, 1659):** When his father Hyojong died, the controversy erupted over how long the Queen Dowager (King Injo's second wife) should wear mourning clothes.
-    *   **Westerners (Seoin):** Argued for 1 year, viewing Hyojong as a "second son" (since his older brother Sohyeon had died). This implied Hyojong's legitimacy was lesser.
-    *   **Southerners (Namin):** Argued for 3 years, treating him as the legitimate heir.
-    *   **Result:** Hyeonjong sided with the Westerners (1 year) to maintain stability.[^4]
-*   **Second Dispute (Gabo Yesong, 1674):** When his mother Queen Inseon died, the debate reignited.
-    *   **Result:** This time, Hyeonjong sided with the Southerners, angered by the Westerners' disrespect towards the royal line. The Westerners were purged from power just before Hyeonjong's death.[^5]
+
+- **First Dispute (Gihae Yesong, 1659):** When his father Hyojong died, the controversy erupted over how long the Queen Dowager (King Injo's second wife) should wear mourning clothes.
+  - **Westerners (Seoin):** Argued for 1 year, viewing Hyojong as a "second son" (since his older brother Sohyeon had died). This implied Hyojong's legitimacy was lesser.
+  - **Southerners (Namin):** Argued for 3 years, treating him as the legitimate heir.
+  - **Result:** Hyeonjong sided with the Westerners (1 year) to maintain stability.[^4]
+- **Second Dispute (Gabo Yesong, 1674):** When his mother Queen Inseon died, the debate reignited.
+  - **Result:** This time, Hyeonjong sided with the Southerners, angered by the Westerners' disrespect towards the royal line. The Westerners were purged from power just before Hyeonjong's death.[^5]
 
 ---
 
 ## Crisis and Management
 
-*   **Kyungshin Great Famine (1670–1671):** A catastrophic famine struck the nation, killing an estimated 1 million people due to starvation and epidemics. Hyeonjong worked tirelessly to provide relief aid, halting construction projects and using royal funds.[^6]
-*   **Achievements:** Despite the chaos, he banned the marriage of people with the same surname (Dongseong Dongbon), improved moveable type for printing (Hwalgija), and rebuilt the finances of the military.[^7]
+- **Kyungshin Great Famine (1670–1671):** A catastrophic famine struck the nation, killing an estimated 1 million people due to starvation and epidemics. Hyeonjong worked tirelessly to provide relief aid, halting construction projects and using royal funds.[^6]
+- **Achievements:** Despite the chaos, he banned the marriage of people with the same surname (Dongseong Dongbon), improved moveable type for printing (Hwalgija), and rebuilt the finances of the military.[^7]
 
 ---
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1641 | Born in Shenyang, Qing Dynasty. |
-| 1645 | Returns to Joseon. |
-| 1659 | Ascends throne; **First Yesong Controversy**. |
-| 1670 | **Kyungshin Great Famine** begins. |
+| Year | Event                                          |
+| ---- | ---------------------------------------------- |
+| 1641 | Born in Shenyang, Qing Dynasty.                |
+| 1645 | Returns to Joseon.                             |
+| 1659 | Ascends throne; **First Yesong Controversy**.  |
+| 1670 | **Kyungshin Great Famine** begins.             |
 | 1674 | **Second Yesong Controversy**; Dies at age 33. |
 
 ---
@@ -57,9 +59,15 @@ Hyeonjong's reign is synonymous with the **Yesong Controversy**, seemingly trivi
 ## References
 
 [^1]: [Hyeonjong of Joseon - Britannica](https://www.britannica.com/biography/Hyeonjong)
+
 [^2]: [Yesong Controversy Explained](http://encykorea.aks.ac.kr/)
+
 [^3]: [Life in Shenyang](https://www.koreatimes.co.kr/)
+
 [^4]: [Gihae Yesong](https://en.wikipedia.org/wiki/Yesong_Controversy)
+
 [^5]: [Gabo Yesong and Factional Shift](https://www.newworldencyclopedia.org/)
+
 [^6]: [Kyungshin Famine](https://www.history.com/)
+
 [^7]: [Hyeonjong's Reforms](http://contents.history.go.kr/)

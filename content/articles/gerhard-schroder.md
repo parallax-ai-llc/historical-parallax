@@ -134,32 +134,32 @@ Contemporary SPD leaders have been harsh in their criticism of Schröder's post-
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1944 | Born on April 7 in Mossenberg, Lower Saxony, Germany |
-| 1944 | Father killed in action in Romania |
-| 1958 | Leaves school at age 14 to work as retail apprentice |
-| 1963 | Joins the Social Democratic Party (SPD) |
-| 1966 | Enrolls at University of Göttingen to study law |
-| 1971 | Earns law degree |
-| 1976 | Completes legal training and becomes practicing lawyer |
-| 1980 | Elected to the Bundestag |
-| 1986 | Loses Bundestag seat |
-| 1990 | Elected Minister-President of Lower Saxony |
-| 1998 | Elected Chancellor of Germany on September 27 |
-| 1999 | Forms Red-Green coalition government with Green Party |
+| Year | Event                                                                    |
+| ---- | ------------------------------------------------------------------------ |
+| 1944 | Born on April 7 in Mossenberg, Lower Saxony, Germany                     |
+| 1944 | Father killed in action in Romania                                       |
+| 1958 | Leaves school at age 14 to work as retail apprentice                     |
+| 1963 | Joins the Social Democratic Party (SPD)                                  |
+| 1966 | Enrolls at University of Göttingen to study law                          |
+| 1971 | Earns law degree                                                         |
+| 1976 | Completes legal training and becomes practicing lawyer                   |
+| 1980 | Elected to the Bundestag                                                 |
+| 1986 | Loses Bundestag seat                                                     |
+| 1990 | Elected Minister-President of Lower Saxony                               |
+| 1998 | Elected Chancellor of Germany on September 27                            |
+| 1999 | Forms Red-Green coalition government with Green Party                    |
 | 2001 | Government introduces registered civil partnerships for same-sex couples |
-| 2002 | Opposes Iraq War; wins narrow re-election |
-| 2003 | Announces Agenda 2010 reforms in landmark speech |
-| 2005 | Calls early elections; coalition loses to CDU/CSU |
-| 2005 | Leaves office as Chancellor on November 22 |
-| 2005 | Accepts chairmanship of Nord Stream AG shortly after leaving office |
-| 2006 | Begins relationship with Kim So-yeon |
-| 2014 | Defends Russia following annexation of Crimea |
-| 2017 | Joins board of Russian oil company Rosneft |
-| 2018 | Marries Kim So-yeon (fifth marriage) |
-| 2022 | Faces public backlash following Russian invasion of Ukraine |
-| 2022 | Bundestag strips some of his post-chancellorship privileges |
+| 2002 | Opposes Iraq War; wins narrow re-election                                |
+| 2003 | Announces Agenda 2010 reforms in landmark speech                         |
+| 2005 | Calls early elections; coalition loses to CDU/CSU                        |
+| 2005 | Leaves office as Chancellor on November 22                               |
+| 2005 | Accepts chairmanship of Nord Stream AG shortly after leaving office      |
+| 2006 | Begins relationship with Kim So-yeon                                     |
+| 2014 | Defends Russia following annexation of Crimea                            |
+| 2017 | Joins board of Russian oil company Rosneft                               |
+| 2018 | Marries Kim So-yeon (fifth marriage)                                     |
+| 2022 | Faces public backlash following Russian invasion of Ukraine              |
+| 2022 | Bundestag strips some of his post-chancellorship privileges              |
 
 ---
 

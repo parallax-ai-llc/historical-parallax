@@ -25,12 +25,14 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### Mexico Under the PRI
 
 **Institutional Revolutionary Party (PRI):**
+
 - In power since 1929
 - One-party state with democratic facade
 - Elections held; opposition allowed—but PRI always won
 - Called "perfect dictatorship" by Vargas Llosa
 
 **President Gustavo Díaz Ordaz (1964-1970):**
+
 - Conservative, authoritarian
 - Believed Mexico's stability paramount
 - Olympics = national prestige project
@@ -39,18 +41,21 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### The Student Movement
 
 **1968: Year of global revolt:**
+
 - Paris May '68
 - Prague Spring
 - US antiwar protests
 - Mexico joined the wave
 
 **Origins (July 1968):**
+
 - July 22: Fight between students from rival schools
 - Police intervention disproportionately violent
 - Students from UNAM (National University) and IPN joined in solidarity
 - Movement grew rapidly
 
 **Demands:**
+
 1. Free political prisoners
 2. Abolish the granaderos (riot police)
 3. Dismiss police chiefs
@@ -63,21 +68,25 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### Lead-Up to October 2
 
 **August-September 1968:**
+
 - Massive demonstrations (400,000+ on August 27)
 - Government increasingly alarmed
 - Olympics approaching (opening October 12)
 - Negotiations stalled
 
 **September 18:**
+
 - Army occupied UNAM campus
 - Unprecedented violation of university autonomy
 - Students outraged
 
 **September 23:**
+
 - IPN occupied
 - Violence escalated
 
 **October 2:**
+
 - Students called rally at Tlatelolco
 - Believed it might be last before Olympics
 - Hoped for peaceful demonstration[^6]
@@ -89,6 +98,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### October 2, 1968
 
 **Location:**
+
 - Plaza de las Tres Culturas (Plaza of the Three Cultures)
 - Tlatelolco district, Mexico City
 - Surrounded by pre-Columbian ruins, colonial church, modern apartments
@@ -96,6 +106,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### The Rally
 
 **5:00 PM:**
+
 - Students began gathering
 - Estimated 5,000-10,000 present
 - Speakers addressed crowd from apartment balcony
@@ -104,6 +115,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### The Trap
 
 **6:10 PM:**
+
 - Helicopters appeared overhead
 - Flare dropped (signal)
 - **Shooting began from apartment buildings**
@@ -112,12 +124,14 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 **The crowd panicked.** But the exits were blocked.
 
 **Soldiers surrounded the plaza:**
+
 - Tanks at entrances
 - 5,000 soldiers deployed
 - Began firing into crowd
 - Chaos; people trampled
 
 **The shooting:**
+
 - Lasted approximately 2 hours
 - Automatic weapons fired
 - Students shot running, hiding, begging
@@ -125,6 +139,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 - Bodies piled in corners
 
 **Apartments raided:**
+
 - Soldiers went door to door
 - Arrested everyone they found
 - Beat imprisoned students[^7]
@@ -132,6 +147,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### The "Olympia Battalion"
 
 **Key revelation (documents released 1998-2001):**
+
 - Government placed snipers in buildings
 - **Olympia Battalion:** Special unit wearing white gloves for identification
 - They fired first—on both students AND soldiers
@@ -146,16 +162,17 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 
 **Highly disputed:**
 
-| Source | Estimate |
-|--------|----------|
-| Government (initial) | 20-28 |
-| Government (later) | 32 |
-| British Ambassador (cable) | 200-300 |
-| National Security Archive | 300-400 |
-| Some researchers | 400+ |
-| Student claims | Higher |
+| Source                     | Estimate |
+| -------------------------- | -------- |
+| Government (initial)       | 20-28    |
+| Government (later)         | 32       |
+| British Ambassador (cable) | 200-300  |
+| National Security Archive  | 300-400  |
+| Some researchers           | 400+     |
+| Student claims             | Higher   |
 
 **Why is it unknown?**
+
 - Bodies removed immediately
 - Hospitals ordered not to report
 - Cremations (allegedly)
@@ -171,27 +188,27 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Gustavo Díaz Ordaz | President; ordered crackdown |
-| Luis Echeverría | Interior Minister; managed response (later president) |
-| Marcelino García Barragán | Defense Minister |
-| Corona del Rosal | Mexico City regent |
+| Name                      | Role                                                  |
+| ------------------------- | ----------------------------------------------------- |
+| Gustavo Díaz Ordaz        | President; ordered crackdown                          |
+| Luis Echeverría           | Interior Minister; managed response (later president) |
+| Marcelino García Barragán | Defense Minister                                      |
+| Corona del Rosal          | Mexico City regent                                    |
 
 ### Military
 
-| Name | Role |
-|------|------|
-| Olympia Battalion | Government provocateurs |
-| Various commanders | Ordered firing |
+| Name               | Role                    |
+| ------------------ | ----------------------- |
+| Olympia Battalion  | Government provocateurs |
+| Various commanders | Ordered firing          |
 
 ### Student Leaders
 
-| Name | Role |
-|------|------|
-| Raúl Álvarez Garín | CNH (Strike Council) leader |
-| Gilberto Guevara Niebla | CNH leader; imprisoned |
-| Many others | Arrested; some "disappeared" |
+| Name                    | Role                         |
+| ----------------------- | ---------------------------- |
+| Raúl Álvarez Garín      | CNH (Strike Council) leader  |
+| Gilberto Guevara Niebla | CNH leader; imprisoned       |
+| Many others             | Arrested; some "disappeared" |
 
 ---
 
@@ -200,12 +217,14 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### Immediate Cover-up
 
 **That night:**
+
 - Bodies removed by trucks
 - Plaza cleaned
 - Hospitals gagged
 - Press controlled
 
 **October 12, 1968:**
+
 - Olympics opened on schedule
 - President Díaz Ordaz presided
 - World barely noticed massacre
@@ -214,6 +233,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### Long-Term Suppression
 
 **For 30 years:**
+
 - Official story: Students attacked first
 - PRI remained in power
 - Echeverría became president (1970-1976)
@@ -222,15 +242,18 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### Truth Emerges
 
 **1998:**
+
 - Government opened some archives
 
 **2001-2006:**
+
 - More documents released
 - National Security Archive (US) published evidence
 - Sniper plot confirmed
 - Government complicity proven
 
 **Criminal cases:**
+
 - 2002-2006: Cases against Echeverría
 - Charged with genocide
 - But statute of limitations invoked
@@ -244,11 +267,13 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### Why Did It Happen?
 
 **Immediate:**
+
 - Government wanted to crush movement before Olympics
 - Believed in conspiracy theories about students
 - Díaz Ordaz paranoid about communism
 
 **Structural:**
+
 - Authoritarian one-party state
 - No tolerance for dissent
 - Military impunity
@@ -256,24 +281,26 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 
 ### Comparison to Other 1968 Events
 
-| Event | Deaths | Accountability |
-|-------|--------|----------------|
-| Paris May '68 | 7 | Some |
-| Chicago Convention | 0 | Some |
-| Prague (Soviet invasion) | 72 | None (Soviet) |
-| **Tlatelolco** | **300-400** | **None** |
+| Event                    | Deaths      | Accountability |
+| ------------------------ | ----------- | -------------- |
+| Paris May '68            | 7           | Some           |
+| Chicago Convention       | 0           | Some           |
+| Prague (Soviet invasion) | 72          | None (Soviet)  |
+| **Tlatelolco**           | **300-400** | **None**       |
 
 **Mexico 1968 was bloodier than any Western 1968 event—and had less accountability.**
 
 ### Long-Term Impact
 
 **For Mexico:**
+
 - Trauma for a generation
 - Distrust of government deepened
 - Contributed to eventual PRI decline (lost presidency 2000)
 - October 2 = day of mourning
 
 **For students:**
+
 - Many became activists, intellectuals
 - Shaped Mexican left
 - Continued demanding truth[^11]
@@ -285,6 +312,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### October 2 Commemorations
 
 **Every year:**
+
 - March from Tlatelolco
 - Thousands participate
 - Demand accountability
@@ -293,16 +321,19 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### In Culture
 
 **Literature:**
-- Elena Poniatowska, *La noche de Tlatelolco* (1971): Oral history
+
+- Elena Poniatowska, _La noche de Tlatelolco_ (1971): Oral history
 - Octavio Paz resigned as ambassador to India in protest
 
 **Film:**
+
 - Multiple documentaries
 - "Rojo amanecer" (1989)
 
 ### The Memorial
 
 **Today at Tlatelolco:**
+
 - Memorial stele
 - Names of known dead
 - Memorial Cultural Center
@@ -311,6 +342,7 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 ### Continuing Demands
 
 **Mexicans still demand:**
+
 - Full truth
 - Official acknowledgment
 - Accountability
@@ -320,34 +352,45 @@ For decades, speaking of Tlatelolco was taboo. The government controlled the med
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| July 22, 1968 | Initial student clashes |
-| July-August 1968 | Movement grows |
-| August 27, 1968 | 400,000+ march |
-| September 18, 1968 | Army occupies UNAM |
-| October 2, 1968 | **Tlatelolco massacre** |
-| October 12, 1968 | Olympics open |
-| 1970 | Echeverría becomes president |
-| 1998 | Archives partially opened |
-| 2002 | Echeverría charged |
-| 2006 | Case dismissed (statute of limitations) |
-| 2022 | Echeverría dies; no justice served |
-| Every October 2 | Commemorations continue |
+| Date               | Event                                   |
+| ------------------ | --------------------------------------- |
+| July 22, 1968      | Initial student clashes                 |
+| July-August 1968   | Movement grows                          |
+| August 27, 1968    | 400,000+ march                          |
+| September 18, 1968 | Army occupies UNAM                      |
+| October 2, 1968    | **Tlatelolco massacre**                 |
+| October 12, 1968   | Olympics open                           |
+| 1970               | Echeverría becomes president            |
+| 1998               | Archives partially opened               |
+| 2002               | Echeverría charged                      |
+| 2006               | Case dismissed (statute of limitations) |
+| 2022               | Echeverría dies; no justice served      |
+| Every October 2    | Commemorations continue                 |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Tlatelolco massacre](https://en.wikipedia.org/wiki/Tlatelolco_massacre)
+
 [^2]: [UCSB History - Overview](https://www.history.ucsb.edu/faculty/marcuse/classes/133c/133cpen/133cpenpapsCit.htm)
+
 [^3]: [Historical MX - The massacre](https://historicalmx.org/items/show/61)
+
 [^4]: [Wikipedia - Gustavo Díaz Ordaz](https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz)
+
 [^5]: [EBSCO - Student movement](https://www.ebsco.com/research-starters/history/tlatelolco-massacre)
+
 [^6]: [National Security Archive - Documents](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB99/)
+
 [^7]: [AP News - Anniversary](https://apnews.com/article/tlatelolco-massacre-55-anniversary)
+
 [^8]: [Wikipedia - Olympia Battalion](https://en.wikipedia.org/wiki/Tlatelolco_massacre#Olympia_Battalion)
+
 [^9]: [National Security Archive - Death toll](https://nsarchive.gwu.edu/briefing-book/mexico/tlatelolco-massacre)
+
 [^10]: [Wikipedia - Luis Echeverría](https://en.wikipedia.org/wiki/Luis_Echeverr%C3%ADa)
+
 [^11]: [WNYC Studios - Radio documentary](https://www.wnycstudios.org/podcasts/radiolab/segments/tlatelolco)
+
 [^12]: [Elena Poniatowska - La noche de Tlatelolco](https://en.wikipedia.org/wiki/Massacre_in_Mexico)

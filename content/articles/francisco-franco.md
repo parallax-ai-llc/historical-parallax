@@ -145,28 +145,28 @@ International human rights organizations and democratic governments consistently
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1892 | Born December 4 in Ferrol, Galicia, Spain |
-| 1907 | Enters Toledo Infantry Academy as a cadet |
-| 1910 | Graduates and commissioned as second lieutenant |
-| 1912 | Begins active military service in Spanish Morocco |
-| 1923 | Marries María del Carmen Polo y Martínez-Valdés |
-| 1926 | Promoted to brigadier general at age 33, youngest general in Europe; daughter Carmen born |
-| 1928 | Appointed director of the General Military Academy in Zaragoza |
-| 1934 | Leads suppression of Asturian miners' uprising |
-| 1936 | July 17-18: Military rebellion against Spanish Republic begins; October 1: Proclaimed head of Nationalist state |
-| 1937 | Unifies Nationalist political movements under his leadership |
-| 1939 | April 1: Nationalist victory in Spanish Civil War; becomes undisputed ruler of Spain |
-| 1940 | Meets with Hitler at Hendaye; maintains Spanish neutrality in World War II |
-| 1947 | Law of Succession declares Spain a kingdom with Franco as regent for life |
-| 1953 | Signs pact with United States establishing military bases in exchange for economic aid |
-| 1959 | Implements Stabilization Plan, beginning economic liberalization |
-| 1962-1966 | "Spanish Miracle" period of rapid economic growth exceeding 7% annually |
-| 1969 | Designates Juan Carlos de Borbón as successor to throne |
-| 1973 | Relinquishes role as head of government, retaining position as head of state |
-| 1975 | November 20: Dies in Madrid after prolonged illness; Juan Carlos becomes king |
-| 2019 | October 24: Remains exhumed from Valley of the Fallen monument |
+| Year      | Event                                                                                                           |
+| --------- | --------------------------------------------------------------------------------------------------------------- |
+| 1892      | Born December 4 in Ferrol, Galicia, Spain                                                                       |
+| 1907      | Enters Toledo Infantry Academy as a cadet                                                                       |
+| 1910      | Graduates and commissioned as second lieutenant                                                                 |
+| 1912      | Begins active military service in Spanish Morocco                                                               |
+| 1923      | Marries María del Carmen Polo y Martínez-Valdés                                                                 |
+| 1926      | Promoted to brigadier general at age 33, youngest general in Europe; daughter Carmen born                       |
+| 1928      | Appointed director of the General Military Academy in Zaragoza                                                  |
+| 1934      | Leads suppression of Asturian miners' uprising                                                                  |
+| 1936      | July 17-18: Military rebellion against Spanish Republic begins; October 1: Proclaimed head of Nationalist state |
+| 1937      | Unifies Nationalist political movements under his leadership                                                    |
+| 1939      | April 1: Nationalist victory in Spanish Civil War; becomes undisputed ruler of Spain                            |
+| 1940      | Meets with Hitler at Hendaye; maintains Spanish neutrality in World War II                                      |
+| 1947      | Law of Succession declares Spain a kingdom with Franco as regent for life                                       |
+| 1953      | Signs pact with United States establishing military bases in exchange for economic aid                          |
+| 1959      | Implements Stabilization Plan, beginning economic liberalization                                                |
+| 1962-1966 | "Spanish Miracle" period of rapid economic growth exceeding 7% annually                                         |
+| 1969      | Designates Juan Carlos de Borbón as successor to throne                                                         |
+| 1973      | Relinquishes role as head of government, retaining position as head of state                                    |
+| 1975      | November 20: Dies in Madrid after prolonged illness; Juan Carlos becomes king                                   |
+| 2019      | October 24: Remains exhumed from Valley of the Fallen monument                                                  |
 
 ---
 
@@ -189,86 +189,169 @@ International human rights organizations and democratic governments consistently
 ## References
 
 [^1]: "Francisco Franco," Wikipedia, https://en.wikipedia.org/wiki/Francisco_Franco
+
 [^2]: "Francisco Franco | Biography, Nickname, Beliefs, & Facts," Britannica, https://www.britannica.com/biography/Francisco-Franco
+
 [^3]: "Francisco Franco - Biography, Facts & Death," History.com, https://www.history.com/articles/francisco-franco
+
 [^4]: "White Terror (Spain)," Wikipedia, https://en.wikipedia.org/wiki/White_Terror_(Spain)
+
 [^5]: "Francisco Franco | Research Starters," EBSCO Research, https://www.ebsco.com/research-starters/history/francisco-franco
+
 [^6]: "Francisco Franco," Spartacus Educational, https://spartacus-educational.com/2WWfranco.htm
+
 [^7]: "Francisco Franco | Encyclopedia.com," Encyclopedia.com, https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/francisco-franco
+
 [^8]: "Francisco Franco - New World Encyclopedia," New World Encyclopedia, https://www.newworldencyclopedia.org/entry/Francisco_Franco
+
 [^9]: "Francisco Franco Biography - Childhood, Life Achievements & Timeline," The Famous People, https://www.thefamouspeople.com/profiles/francisco-franco-6905.php
+
 [^10]: Ibid.
+
 [^11]: Ibid.
+
 [^12]: "Francisco Franco," Wikipedia, https://en.wikipedia.org/wiki/Francisco_Franco
+
 [^13]: "Francisco Franco | Research Starters," EBSCO Research, https://www.ebsco.com/research-starters/history/francisco-franco
+
 [^14]: Ibid.
+
 [^15]: Ibid.
+
 [^16]: Ibid.
+
 [^17]: Ibid.
+
 [^18]: Ibid.
+
 [^19]: "Francisco Franco | Biography, Nickname, Beliefs, & Facts," Britannica, https://www.britannica.com/biography/Francisco-Franco
+
 [^20]: "Francisco Franco | Research Starters," EBSCO Research, https://www.ebsco.com/research-starters/history/francisco-franco
+
 [^21]: Ibid.
+
 [^22]: "Francisco Franco - Biography, Facts & Death," History.com, https://www.history.com/articles/francisco-franco
+
 [^23]: "Francisco Franco," Wikipedia, https://en.wikipedia.org/wiki/Francisco_Franco
+
 [^24]: "Spanish Civil War," Wikipedia, https://en.wikipedia.org/wiki/Spanish_Civil_War
+
 [^25]: "The Rise of Francisco Franco & the Effects of the Spanish Civil War," TheCollector, https://www.thecollector.com/francisco-franco-dictator-spain/
+
 [^26]: "Francisco Franco | Research Starters," EBSCO Research, https://www.ebsco.com/research-starters/history/francisco-franco
+
 [^27]: "Francisco Franco," Wikipedia, https://en.wikipedia.org/wiki/Francisco_Franco
+
 [^28]: "Spanish Civil War," Wikipedia, https://en.wikipedia.org/wiki/Spanish_Civil_War
+
 [^29]: "Francoist Spain," Wikipedia, https://en.wikipedia.org/wiki/Francoist_Spain
+
 [^30]: "Stabilisation and growth under dictatorships: Lessons from Franco's Spain," CEPR, https://cepr.org/voxeu/columns/stabilisation-and-growth-under-dictatorships-lessons-francos-spain
+
 [^31]: Ibid.
+
 [^32]: "Francisco Franco - Spanish Civil War, Dictatorship, Regime," Britannica, https://www.britannica.com/biography/Francisco-Franco/Francos-dictatorship
+
 [^33]: "Spain - Dictatorship, Franco, Autarky," Britannica, https://www.britannica.com/place/Spain/Francos-Spain-1939-75
+
 [^34]: "Stabilisation and growth under dictatorships: Lessons from Franco's Spain," CEPR, https://cepr.org/voxeu/columns/stabilisation-and-growth-under-dictatorships-lessons-francos-spain
+
 [^35]: "Death of Franco," EBSCO Research, https://www.ebsco.com/research-starters/history/death-franco
+
 [^36]: "White Terror (Spain)," Wikipedia, https://en.wikipedia.org/wiki/White_Terror_(Spain)
+
 [^37]: Ibid.
+
 [^38]: Ibid.
+
 [^39]: Ibid.
+
 [^40]: Ibid.
+
 [^41]: Ibid.
+
 [^42]: Ibid.
+
 [^43]: Ibid.
+
 [^44]: Ibid.
+
 [^45]: "Francisco Franco," Wikipedia, https://en.wikipedia.org/wiki/Francisco_Franco
+
 [^46]: Ibid.
+
 [^47]: "FRANCO'S DICTATORSHIP (1939-1975)," The Nation in Its Labyrinth, https://pressbooks.pub/spainthenationinitslabyrinth/chapter/chapter-4-francos-dictatorship/
+
 [^48]: "White Terror (Spain)," Wikipedia, https://en.wikipedia.org/wiki/White_Terror_(Spain)
+
 [^49]: Ibid.
+
 [^50]: Ibid.
+
 [^51]: "Francoist Spain," Wikipedia, https://en.wikipedia.org/wiki/Francoist_Spain
+
 [^52]: "Carmen Polo," Wikipedia, https://en.wikipedia.org/wiki/Carmen_Polo
+
 [^53]: Ibid.
+
 [^54]: "Franco, Carmen Polo de (1902–1988)," Encyclopedia.com, https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/franco-carmen-polo-de-1902-1988
+
 [^55]: Ibid.
+
 [^56]: "Carmen Franco, 1st Duchess of Franco," Wikipedia, https://en.wikipedia.org/wiki/Carmen_Franco,_1st_Duchess_of_Franco
+
 [^57]: Ibid.
+
 [^58]: "Francisco Franco Biography," The Famous People, https://www.thefamouspeople.com/profiles/francisco-franco-6905.php
+
 [^59]: Ibid.
+
 [^60]: Ibid.
+
 [^61]: "Francisco Franco," Wikipedia, https://en.wikipedia.org/wiki/Francisco_Franco
+
 [^62]: "Francisco Franco - Biography, Facts & Death," History.com, https://www.history.com/articles/francisco-franco
+
 [^63]: "Spain criminalises support for Franco in bid to heal divisions," The Week, https://theweek.com/news/world-news/europe/953559/spain-criminalises-suspport-franco-crackdown-dictators-legacy
+
 [^64]: "Francisco Franco," Wikipedia, https://en.wikipedia.org/wiki/Francisco_Franco
+
 [^65]: Ibid.
+
 [^66]: "Amnesia, nostalgia, healing: Spain grapples with Franco legacy 50 years on," Al Jazeera, https://www.aljazeera.com/news/longform/2025/11/20/franco-legacy-fifty-years
+
 [^67]: "Spain criminalises support for Franco," The Week, https://theweek.com/news/world-news/europe/953559/spain-criminalises-suspport-franco-crackdown-dictators-legacy
+
 [^68]: "Amnesia, nostalgia, healing: Spain grapples with Franco legacy 50 years on," Al Jazeera, https://www.aljazeera.com/news/longform/2025/11/20/franco-legacy-fifty-years
+
 [^69]: Ibid.
+
 [^70]: Ibid.
+
 [^71]: "Spain - Dictatorship, Franco, Autarky," Britannica, https://www.britannica.com/place/Spain/Francos-Spain-1939-75
+
 [^72]: "Stabilisation and growth under dictatorships: Lessons from Franco's Spain," CEPR, https://cepr.org/voxeu/columns/stabilisation-and-growth-under-dictatorships-lessons-francos-spain
+
 [^73]: "Francoist Spain," Wikipedia, https://en.wikipedia.org/wiki/Francoist_Spain
+
 [^74]: "Amnesia, nostalgia, healing: Spain grapples with Franco legacy 50 years on," Al Jazeera, https://www.aljazeera.com/news/longform/2025/11/20/franco-legacy-fifty-years
+
 [^75]: "White Terror (Spain)," Wikipedia, https://en.wikipedia.org/wiki/White_Terror_(Spain)
+
 [^76]: Ibid.
+
 [^77]: Ibid.
+
 [^78]: "FRANCO'S DICTATORSHIP (1939-1975)," The Nation in Its Labyrinth, https://pressbooks.pub/spainthenationinitslabyrinth/chapter/chapter-4-francos-dictatorship/
+
 [^79]: "Francisco Franco - Wikiquote," Wikiquote, https://en.wikiquote.org/wiki/Francisco_Franco
+
 [^80]: Ibid.
+
 [^81]: Ibid.
+
 [^82]: "TOP 9 QUOTES BY FRANCISCO FRANCO," A-Z Quotes, https://www.azquotes.com/author/24957-Francisco_Franco
+
 [^83]: "Francisco Franco - Wikiquote," Wikiquote, https://en.wikiquote.org/wiki/Francisco_Franco
+
 [^84]: Ibid.

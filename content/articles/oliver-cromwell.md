@@ -161,38 +161,38 @@ Finally, critics point to the ultimate failure of Cromwell's political project. 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1599 | Born on 25 April in Huntingdon, England |
-| 1616 | Enters Sidney Sussex College, Cambridge |
-| 1617 | Leaves Cambridge after father's death without taking degree |
-| 1620 | Marries Elizabeth Bourchier on 22 August |
-| 1628 | Elected Member of Parliament for Huntingdon |
-| 1629 | Parliament dissolved by Charles I |
-| 1630s | Experiences religious awakening and becomes committed Puritan |
-| 1640 | Elected Member of Parliament for Cambridge |
-| 1642 | English Civil War begins; Cromwell commissioned as cavalry officer |
-| 1642 | First battlefield experience at Battle of Edgehill (October) |
-| 1643 | Promoted to Colonel |
-| 1644 | Promoted to Lieutenant-General; commands cavalry at Battle of Marston Moor (July) |
-| 1645 | Appointed commander of New Model Army cavalry; victory at Battle of Naseby (14 June) |
-| 1648 | Defeats Royalists at Battle of Preston (August) |
-| 1648 | Army purges Parliament, creating 'Rump Parliament' (December) |
-| 1649 | Signs death warrant of Charles I (January); King executed 30 January |
-| 1649 | Leads campaign in Ireland; Siege of Drogheda (September) |
-| 1650 | Siege of Wexford; departure from Ireland |
-| 1650 | Victory at Battle of Dunbar, Scotland (3 September) |
-| 1650-51 | Siege and capture of Edinburgh Castle |
-| 1651 | Victory at Battle of Worcester (3 September) |
-| 1653 | Forcibly dissolves Rump Parliament (20 April) |
-| 1653 | Sworn in as Lord Protector of England, Scotland and Ireland (16 December) |
-| 1656 | Allows Jews to return to England |
-| 1657 | Leveller assassination plot discovered (January) |
-| 1657 | Refuses offer of crown; re-inaugurated as Lord Protector (26 June) |
-| 1658 | Battle of the Dunes; England acquires Dunkirk (14 June) |
-| 1658 | Dies of pneumonia on 3 September at age 59 |
-| 1658 | Buried in Westminster Abbey |
-| 1661 | Corpse exhumed and subjected to posthumous execution |
+| Year    | Event                                                                                |
+| ------- | ------------------------------------------------------------------------------------ |
+| 1599    | Born on 25 April in Huntingdon, England                                              |
+| 1616    | Enters Sidney Sussex College, Cambridge                                              |
+| 1617    | Leaves Cambridge after father's death without taking degree                          |
+| 1620    | Marries Elizabeth Bourchier on 22 August                                             |
+| 1628    | Elected Member of Parliament for Huntingdon                                          |
+| 1629    | Parliament dissolved by Charles I                                                    |
+| 1630s   | Experiences religious awakening and becomes committed Puritan                        |
+| 1640    | Elected Member of Parliament for Cambridge                                           |
+| 1642    | English Civil War begins; Cromwell commissioned as cavalry officer                   |
+| 1642    | First battlefield experience at Battle of Edgehill (October)                         |
+| 1643    | Promoted to Colonel                                                                  |
+| 1644    | Promoted to Lieutenant-General; commands cavalry at Battle of Marston Moor (July)    |
+| 1645    | Appointed commander of New Model Army cavalry; victory at Battle of Naseby (14 June) |
+| 1648    | Defeats Royalists at Battle of Preston (August)                                      |
+| 1648    | Army purges Parliament, creating 'Rump Parliament' (December)                        |
+| 1649    | Signs death warrant of Charles I (January); King executed 30 January                 |
+| 1649    | Leads campaign in Ireland; Siege of Drogheda (September)                             |
+| 1650    | Siege of Wexford; departure from Ireland                                             |
+| 1650    | Victory at Battle of Dunbar, Scotland (3 September)                                  |
+| 1650-51 | Siege and capture of Edinburgh Castle                                                |
+| 1651    | Victory at Battle of Worcester (3 September)                                         |
+| 1653    | Forcibly dissolves Rump Parliament (20 April)                                        |
+| 1653    | Sworn in as Lord Protector of England, Scotland and Ireland (16 December)            |
+| 1656    | Allows Jews to return to England                                                     |
+| 1657    | Leveller assassination plot discovered (January)                                     |
+| 1657    | Refuses offer of crown; re-inaugurated as Lord Protector (26 June)                   |
+| 1658    | Battle of the Dunes; England acquires Dunkirk (14 June)                              |
+| 1658    | Dies of pneumonia on 3 September at age 59                                           |
+| 1658    | Buried in Westminster Abbey                                                          |
+| 1661    | Corpse exhumed and subjected to posthumous execution                                 |
 
 ---
 
@@ -223,139 +223,275 @@ Finally, critics point to the ultimate failure of Cromwell's political project. 
 ## References
 
 [^1]: Britannica, "Oliver Cromwell," https://www.britannica.com/biography/Oliver-Cromwell
+
 [^2]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^3]: World History Encyclopedia, "Oliver Cromwell," https://www.worldhistory.org/Oliver_Cromwell/
+
 [^4]: Notable Biographies, "Oliver Cromwell Biography," https://www.notablebiographies.com/Co-Da/Cromwell-Oliver.html
+
 [^5]: Historic UK, "The Life of Oliver Cromwell," https://www.historic-uk.com/HistoryUK/HistoryofEngland/Oliver-Cromwell/
+
 [^6]: The Famous People, "Oliver Cromwell Biography," https://www.thefamouspeople.com/profiles/oliver-cromwell-2475.php
+
 [^7]: Britain Express, "Oliver Cromwell biography," https://www.britainexpress.com/History/stuart/cromwell.htm
+
 [^8]: MyLearning, "Early Life: 1599 – 1631," https://www.mylearning.org/stories/who-was-oliver-cromwell/1572
+
 [^9]: Cromwell Museum, "Early Life," https://www.cromwellmuseum.org/cromwell/cromwell-the-man/early-life
+
 [^10]: olivercromwell.org, "Oliver Cromwell: a personal biography," https://www.olivercromwell.org/wordpress/articles/oliver-cromwell-a-personal-biography/
+
 [^11]: History Today, "The Birth of Oliver Cromwell," https://www.historytoday.com/archive/months-past/birth-oliver-cromwell
+
 [^12]: Hampton Court Palace, "Oliver Cromwell: Soldier, Statesman, Lord Protector," https://www.hrp.org.uk/hampton-court-palace/history-and-stories/oliver-cromwell/
+
 [^13]: MyLearning, "Cromwell the Man," https://www.mylearning.org/stories/who-was-oliver-cromwell/1576
+
 [^14]: Cromwell Museum, "Cromwell the Man," https://www.cromwellmuseum.org/cromwell/cromwell-the-man
+
 [^15]: Notable Biographies, "Oliver Cromwell Biography - life, family," https://www.notablebiographies.com/Co-Da/Cromwell-Oliver.html
+
 [^16]: olivercromwell.org, "Oliver Cromwell: a personal biography," https://www.olivercromwell.org/wordpress/articles/oliver-cromwell-a-personal-biography/
+
 [^17]: Study.com, "Oliver Cromwell | Biography, Religion & Death," https://study.com/learn/lesson/oliver-cromwell-biography-facts.html
+
 [^18]: The Christian Institute, "Oliver Cromwell: Puritan and Protector," https://www.christian.org.uk/features/oliver-cromwell-puritan-and-protector/
+
 [^19]: History Learning, "Oliver Cromwell," https://historylearning.com/stuart-england/oliver-cromwell/
+
 [^20]: National Army Museum, "Oliver Cromwell: Lord Protector," https://www.nam.ac.uk/explore/oliver-cromwell-lord-protector
+
 [^21]: HISTORY, "Oliver Cromwell - Definition, Facts & Head," https://www.history.com/articles/oliver-cromwell
+
 [^22]: London Museum, "Oliver Cromwell: The man who could have been king," https://www.londonmuseum.org.uk/collections/london-stories/oliver-cromwell-man-who-could-have-been-king/
+
 [^23]: World History Encyclopedia, "Oliver Cromwell," https://www.worldhistory.org/Oliver_Cromwell/
+
 [^24]: Britannica, "Oliver Cromwell - English Civil War," https://www.britannica.com/biography/Oliver-Cromwell/Military-and-political-leader
+
 [^25]: Goodreads, "Oliver Cromwell Quotes," https://www.goodreads.com/author/quotes/102283.Oliver_Cromwell
+
 [^26]: National Army Museum, "Oliver Cromwell: Lord Protector," https://www.nam.ac.uk/explore/oliver-cromwell-lord-protector
+
 [^27]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^28]: Britannica, "Oliver Cromwell," https://www.britannica.com/biography/Oliver_Cromwell
+
 [^29]: World History Encyclopedia, "Oliver Cromwell," https://www.worldhistory.org/Oliver_Cromwell/
+
 [^30]: Hampton Court Palace, "Oliver Cromwell," https://www.hrp.org.uk/hampton-court-palace/history-and-stories/oliver-cromwell/
+
 [^31]: olivercromwell.org, "Oliver Cromwell: a personal biography," https://www.olivercromwell.org/wordpress/articles/oliver-cromwell-a-personal-biography/
+
 [^32]: Britannica, "Oliver Cromwell," https://www.britannica.com/biography/Oliver-Cromwell
+
 [^33]: World History Encyclopedia, "Timeline: Oliver Cromwell," https://www.worldhistory.org/timeline/Oliver_Cromwell/
+
 [^34]: WikiFreedom, "Dissolution of the Rump Parliament," https://www.freedomgpt.com/wiki/dissolution-of-the-rump-parliament
+
 [^35]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^36]: History in Numbers, "Oliver Cromwell Timeline," https://historyinnumbers.com/people/oliver-cromwell/timeline/
+
 [^37]: olivercromwell.org, "Oliver Cromwell timeline," https://www.olivercromwell.org/wordpress/oliver-cromwell-timeline/
+
 [^38]: EBSCO Research, "Oliver Cromwell Becomes Lord Protector," https://www.ebsco.com/research-starters/history/oliver-cromwell-becomes-lord-protector
+
 [^39]: National Army Museum, "Oliver Cromwell: Lord Protector," https://www.nam.ac.uk/explore/oliver-cromwell-lord-protector
+
 [^40]: World History Encyclopedia, "Timeline: Oliver Cromwell," https://www.worldhistory.org/timeline/Oliver_Cromwell/
+
 [^41]: olivercromwell.org, "Oliver Cromwell timeline," https://www.olivercromwell.org/wordpress/oliver-cromwell-timeline/
+
 [^42]: Britannica, "Oliver Cromwell," https://www.britannica.com/biography/Oliver-Cromwell
+
 [^43]: Yale Books, "Oliver Cromwell: Commander in Chief," https://yalebooks.yale.edu/book/9780300278941/oliver-cromwell-commander-in-chief/
+
 [^44]: Cromwell Museum, "Why is Cromwell Important?" https://www.cromwellmuseum.org/cromwell/significance
+
 [^45]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^46]: A-Z Quotes, "TOP 25 QUOTES BY OLIVER CROMWELL," https://www.azquotes.com/author/3416-Oliver_Cromwell
+
 [^47]: EBSCO Research, "Oliver Cromwell Becomes Lord Protector," https://www.ebsco.com/research-starters/history/oliver-cromwell-becomes-lord-protector
+
 [^48]: Hampton Court Palace, "Oliver Cromwell," https://www.hrp.org.uk/hampton-court-palace/history-and-stories/oliver-cromwell/
+
 [^49]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^50]: Cromwell Museum, "Why is Cromwell Important?" https://www.cromwellmuseum.org/cromwell/significance
+
 [^51]: World History Encyclopedia, "Oliver Cromwell," https://www.worldhistory.org/Oliver_Cromwell/
+
 [^52]: The Christian Institute, "Oliver Cromwell: Puritan and Protector," https://www.christian.org.uk/features/oliver-cromwell-puritan-and-protector/
+
 [^53]: Cromwell Museum, "Cromwell the Man," https://www.cromwellmuseum.org/cromwell/cromwell-the-man
+
 [^54]: olivercromwell.org, "Was Cromwell an Independent or a Congregationalist," https://www.olivercromwell.org/wordpress/was-cromwell-an-independent-or-a-congregationalist/
+
 [^55]: Britannica, "Oliver Cromwell - Puritan, Protector, Revolution," https://www.britannica.com/biography/Oliver-Cromwell/Legacy
+
 [^56]: Historical Medallions, "10 Interesting Facts About Oliver Cromwell," https://historicalmedallions.com/blogs/news/10-interesting-facts-about-oliver-cromwell-from-farmer-to-lord-protector
+
 [^57]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^58]: olivercromwell.org, "Oliver Cromwell: a personal biography," https://www.olivercromwell.org/wordpress/articles/oliver-cromwell-a-personal-biography/
+
 [^59]: olivercromwell.org, "Oliver Cromwell timeline," https://www.olivercromwell.org/wordpress/oliver-cromwell-timeline/
+
 [^60]: London Museum, "Oliver Cromwell: The man who could have been king," https://www.londonmuseum.org.uk/collections/london-stories/oliver-cromwell-man-who-could-have-been-king/
+
 [^61]: History in Numbers, "Oliver Cromwell Timeline," https://historyinnumbers.com/people/oliver-cromwell/timeline/
+
 [^62]: World History Encyclopedia, "Timeline: Oliver Cromwell," https://www.worldhistory.org/timeline/Oliver_Cromwell/
+
 [^63]: Irish Central, "Oliver Cromwell's Massacre of Drogheda in 1649," https://www.irishcentral.com/roots/history/oliver-cromwells-massacre-drogheda-1649
+
 [^64]: Ancient War History, "The Brutal Campaigns of Cromwell in Ireland," https://ancientwarhistory.com/the-brutal-campaigns-of-cromwell-in-ireland-war-atrocity-and-lasting-legacy/
+
 [^65]: Wikipedia, "Cromwellian conquest of Ireland," https://en.wikipedia.org/wiki/Cromwellian_conquest_of_Ireland
+
 [^66]: olivercromwell.org, "Cromwell in Ireland," https://www.olivercromwell.org/wordpress/ireland/
+
 [^67]: Maynooth University, "Why did Oliver Cromwell end up in Ireland?" https://www.maynoothuniversity.ie/research/spotlight-research/why-did-oliver-cromwell-end-ireland-first-place
+
 [^68]: University of Montana, "Just Warfare, or Genocide?: Oliver Cromwell," https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1187&context=utpp
+
 [^69]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^70]: History Ireland, "How many died during Cromwell's campaign?" https://historyireland.com/how-many-died-during-cromwells-campaign/
+
 [^71]: The World Turned Upside Down, "Controversy – Oliver Cromwell in Ireland," https://www.worldturnedupsidedown.co.uk/transcripts/controversy-oliver-cromwell-in-ireland-1649-1650/?print=print
+
 [^72]: Irish Central, "Oliver Cromwell's Massacre of Drogheda," https://www.irishcentral.com/roots/history/oliver-cromwells-massacre-drogheda-1649
+
 [^73]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^74]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^75]: Vaia, "Oliver Cromwell: Lord Protector, Religion," https://www.vaia.com/en-us/explanations/history/elizabethan-era/oliver-cromwell/
+
 [^76]: HISTORY, "Oliver Cromwell," https://www.history.com/articles/oliver-cromwell
+
 [^77]: The Christian Institute, "Oliver Cromwell: Puritan and Protector," https://www.christian.org.uk/features/oliver-cromwell-puritan-and-protector/
+
 [^78]: History in Numbers, "Oliver Cromwell Timeline," https://historyinnumbers.com/people/oliver-cromwell/timeline/
+
 [^79]: Cromwell Museum, "Cromwell the Man," https://www.cromwellmuseum.org/cromwell/cromwell-the-man
+
 [^80]: Notable Biographies, "Oliver Cromwell Biography - life, family," https://www.notablebiographies.com/Co-Da/Cromwell-Oliver.html
+
 [^81]: MyLearning, "Cromwell the Man," https://www.mylearning.org/stories/who-was-oliver-cromwell/1576
+
 [^82]: YourDictionary, "Top Oliver Cromwell Quotes That Inspire," https://www.yourdictionary.com/articles/oliver-cromwell-quotes
+
 [^83]: Study.com, "Oliver Cromwell | Biography, Religion & Death," https://study.com/learn/lesson/oliver-cromwell-biography-facts.html
+
 [^84]: The Christian Institute, "Oliver Cromwell: Puritan and Protector," https://www.christian.org.uk/features/oliver-cromwell-puritan-and-protector/
+
 [^85]: Cromwell Museum, "Cromwell the Man," https://www.cromwellmuseum.org/cromwell/cromwell-the-man
+
 [^86]: Britannica, "Oliver Cromwell," https://www.britannica.com/biography/Oliver_Cromwell
+
 [^87]: History in Numbers, "Oliver Cromwell Timeline," https://historyinnumbers.com/people/oliver-cromwell/timeline/
+
 [^88]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^89]: olivercromwell.org, "Oliver Cromwell timeline," https://www.olivercromwell.org/wordpress/oliver-cromwell-timeline/
+
 [^90]: olivercromwell.org, "Oliver Cromwell," https://www.olivercromwell.org/wordpress/oliver-cromwell/
+
 [^91]: Irish Central, "Oliver Cromwell's Massacre of Drogheda," https://www.irishcentral.com/roots/history/oliver-cromwells-massacre-drogheda-1649
+
 [^92]: Cromwell Museum, "Why is Cromwell Important?" https://www.cromwellmuseum.org/cromwell/significance
+
 [^93]: Cromwell Museum, "Why is Cromwell Important?" https://www.cromwellmuseum.org/cromwell/significance
+
 [^94]: World History Encyclopedia, "Oliver Cromwell," https://www.worldhistory.org/Oliver_Cromwell/
+
 [^95]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^96]: olivercromwell.org, "Oliver Cromwell: a personal biography," https://www.olivercromwell.org/wordpress/articles/oliver-cromwell-a-personal-biography/
+
 [^97]: Britannica, "Oliver Cromwell," https://www.britannica.com/biography/Oliver_Cromwell
+
 [^98]: Yale Books, "Oliver Cromwell: Commander in Chief," https://yalebooks.yale.edu/book/9780300278941/oliver-cromwell-commander-in-chief/
+
 [^99]: Ancient War History, "The Brutal Campaigns of Cromwell in Ireland," https://ancientwarhistory.com/the-brutal-campaigns-of-cromwell-in-ireland-war-atrocity-and-lasting-legacy/
+
 [^100]: olivercromwell.org, "Cromwell in Ireland," https://www.olivercromwell.org/wordpress/ireland/
+
 [^101]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^102]: olivercromwell.org, "Oliver Cromwell: a personal biography," https://www.olivercromwell.org/wordpress/articles/oliver-cromwell-a-personal-biography/
+
 [^103]: Explore the Archive, "Oliver Cromwell's Controversial Legacy," https://explorethearchive.com/oliver-cromwell
+
 [^104]: Wikiquote, "Oliver Cromwell," https://en.wikiquote.org/wiki/Oliver_Cromwell
+
 [^105]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^106]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^107]: olivercromwell.org, "Oliver Cromwell: an interpretation," https://www.olivercromwell.org/wordpress/articles/oliver-cromwell-an-interpretation/
+
 [^108]: The Christian Institute, "Oliver Cromwell: Puritan and Protector," https://www.christian.org.uk/features/oliver-cromwell-puritan-and-protector/
+
 [^109]: Britannica, "Oliver Cromwell," https://www.britannica.com/biography/Oliver_Cromwell
+
 [^110]: Goodreads, "Oliver Cromwell Quotes," https://www.goodreads.com/author/quotes/102283.Oliver_Cromwell
+
 [^111]: Cromwell Museum, "Cromwell, Ireland and the Slaughter of Innocents Scandal," https://www.cromwellmuseum.org/events/cromwell-ireland-and-the-slaughter-of-innocents-scandal-a-talk-by-tom-reilly
+
 [^112]: London Museum, "Oliver Cromwell: The man who could have been king," https://www.londonmuseum.org.uk/collections/london-stories/oliver-cromwell-man-who-could-have-been-king/
+
 [^113]: BrainyQuote, "Oliver Cromwell Quotes," https://www.brainyquote.com/authors/oliver-cromwell-quotes
+
 [^114]: Cromwell Museum, "Why is Cromwell Important?" https://www.cromwellmuseum.org/cromwell/significance
+
 [^115]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^116]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^117]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^118]: University of Montana, "Just Warfare, or Genocide?: Oliver Cromwell," https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1187&context=utpp
+
 [^119]: The World Turned Upside Down, "Controversy – Oliver Cromwell in Ireland," https://www.worldturnedupsidedown.co.uk/transcripts/controversy-oliver-cromwell-in-ireland-1649-1650/?print=print
+
 [^120]: Irish Central, "Oliver Cromwell's Massacre of Drogheda," https://www.irishcentral.com/roots/history/oliver-cromwells-massacre-drogheda-1649
+
 [^121]: HISTORY, "Oliver Cromwell," https://www.history.com/articles/oliver-cromwell
+
 [^122]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^123]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^124]: olivercromwell.org, "Cromwell and the Historians," https://www.olivercromwell.org/wordpress/articles/cromwell-and-the-historians/
+
 [^125]: Vaia, "Oliver Cromwell: Lord Protector, Religion," https://www.vaia.com/en-us/explanations/history/elizabethan-era/oliver-cromwell/
+
 [^126]: Wikipedia, "Oliver Cromwell," https://en.wikipedia.org/wiki/Oliver_Cromwell
+
 [^127]: olivercromwell.org, "Oliver Cromwell timeline," https://www.olivercromwell.org/wordpress/oliver-cromwell-timeline/
+
 [^128]: olivercromwell.org, "Quotes by Oliver Cromwell," https://www.olivercromwell.org/wordpress/by-oliver-cromwell/
+
 [^129]: Goodreads, "Oliver Cromwell Quotes," https://www.goodreads.com/author/quotes/102283.Oliver_Cromwell
+
 [^130]: Wikiquote, "Oliver Cromwell," https://en.wikiquote.org/wiki/Oliver_Cromwell
+
 [^131]: YourDictionary, "Top Oliver Cromwell Quotes," https://www.yourdictionary.com/articles/oliver-cromwell-quotes
+
 [^132]: A-Z Quotes, "TOP 25 QUOTES BY OLIVER CROMWELL," https://www.azquotes.com/author/3416-Oliver_Cromwell
+
 [^133]: Bookey, "30 Best Oliver Cromwell Quotes," https://www.bookey.app/quote-author/oliver-cromwell
+
 [^134]: BrainyQuote, "Oliver Cromwell Quotes," https://www.brainyquote.com/authors/oliver-cromwell-quotes
+
 [^135]: Goodreads, "Oliver Cromwell Quotes," https://www.goodreads.com/author/quotes/102283.Oliver_Cromwell
+
 [^136]: A-Z Quotes, "TOP 25 QUOTES BY OLIVER CROMWELL," https://www.azquotes.com/author/3416-Oliver_Cromwell
+
 [^137]: Bookey, "30 Best Oliver Cromwell Quotes," https://www.bookey.app/quote-author/oliver-cromwell

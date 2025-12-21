@@ -229,32 +229,32 @@ The very thoroughness with which later Egyptians attempted to erase Nefertiti fr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 1370 BC | Birth of Nefertiti, likely daughter of courtier Ay |
-| c. 1353 BC | Marriage to Amenhotep IV at age 15; becomes Queen Consort |
-| c. 1353 BC | Amenhotep IV ascends to throne; Nefertiti becomes Great Royal Wife |
-| c. 1351 BC | Birth of first daughter, Meritaten, at Thebes |
-| 1349 BC | Birth of second daughter, Meketaten, at Thebes |
-| 1348 BC | Birth of third daughter, Ankhesenpaaten (later Ankhesenamun) |
-| 1346 BC | Year 4: Amenhotep IV begins worship of Aten; religious revolution begins |
-| 1345 BC | Year 5: Amenhotep IV changes name to Akhenaten; Nefertiti becomes Neferneferuaten-Nefertiti; construction of Akhetaten (Amarna) begins |
-| 1343 BC | Year 7: Official relocation of capital from Thebes to Amarna |
-| 1341 BC | Year 9: Completion of Amarna city construction |
-| c. 1341 BC | Nefertiti proclaimed high priestess of Aten |
-| 1339 BC | Year 12: Possible elevation of Nefertiti to co-regent status |
-| 1338-1337 BC | Years 8-12: Systematic persecution of Amun and traditional gods; erasure campaign |
-| c. 1338 BC | Death of daughter Meketaten at approximately age 10 |
-| 1336 BC | Year 14: Nefertiti disappears from most historical records |
-| 1334 BC | Year 16: Last dated inscription mentioning Nefertiti as Great Royal Wife |
-| 1336 BC | Year 17: Death of Akhenaten |
-| 1334-1332 BC | Possible reign of Pharaoh Neferneferuaten (possibly Nefertiti under new name) |
-| c. 1330 BC | Presumed death of Nefertiti (exact date and circumstances unknown) |
-| 1332 BC | Accession of Tutankhamun (married to Nefertiti's daughter Ankhesenamun) |
-| c. 1319 BC | Ay (Nefertiti's probable father) becomes pharaoh |
-| c. 1292 BC | Horemheb institutes damnatio memoriae against Amarna Period rulers |
-| 1912 AD | Discovery of Nefertiti's famous bust by Ludwig Borchardt at Amarna |
-| 1924 AD | First public display of Nefertiti bust in Berlin; Egypt's repatriation demands begin |
+| Year         | Event                                                                                                                                  |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| c. 1370 BC   | Birth of Nefertiti, likely daughter of courtier Ay                                                                                     |
+| c. 1353 BC   | Marriage to Amenhotep IV at age 15; becomes Queen Consort                                                                              |
+| c. 1353 BC   | Amenhotep IV ascends to throne; Nefertiti becomes Great Royal Wife                                                                     |
+| c. 1351 BC   | Birth of first daughter, Meritaten, at Thebes                                                                                          |
+| 1349 BC      | Birth of second daughter, Meketaten, at Thebes                                                                                         |
+| 1348 BC      | Birth of third daughter, Ankhesenpaaten (later Ankhesenamun)                                                                           |
+| 1346 BC      | Year 4: Amenhotep IV begins worship of Aten; religious revolution begins                                                               |
+| 1345 BC      | Year 5: Amenhotep IV changes name to Akhenaten; Nefertiti becomes Neferneferuaten-Nefertiti; construction of Akhetaten (Amarna) begins |
+| 1343 BC      | Year 7: Official relocation of capital from Thebes to Amarna                                                                           |
+| 1341 BC      | Year 9: Completion of Amarna city construction                                                                                         |
+| c. 1341 BC   | Nefertiti proclaimed high priestess of Aten                                                                                            |
+| 1339 BC      | Year 12: Possible elevation of Nefertiti to co-regent status                                                                           |
+| 1338-1337 BC | Years 8-12: Systematic persecution of Amun and traditional gods; erasure campaign                                                      |
+| c. 1338 BC   | Death of daughter Meketaten at approximately age 10                                                                                    |
+| 1336 BC      | Year 14: Nefertiti disappears from most historical records                                                                             |
+| 1334 BC      | Year 16: Last dated inscription mentioning Nefertiti as Great Royal Wife                                                               |
+| 1336 BC      | Year 17: Death of Akhenaten                                                                                                            |
+| 1334-1332 BC | Possible reign of Pharaoh Neferneferuaten (possibly Nefertiti under new name)                                                          |
+| c. 1330 BC   | Presumed death of Nefertiti (exact date and circumstances unknown)                                                                     |
+| 1332 BC      | Accession of Tutankhamun (married to Nefertiti's daughter Ankhesenamun)                                                                |
+| c. 1319 BC   | Ay (Nefertiti's probable father) becomes pharaoh                                                                                       |
+| c. 1292 BC   | Horemheb institutes damnatio memoriae against Amarna Period rulers                                                                     |
+| 1912 AD      | Discovery of Nefertiti's famous bust by Ludwig Borchardt at Amarna                                                                     |
+| 1924 AD      | First public display of Nefertiti bust in Berlin; Egypt's repatriation demands begin                                                   |
 
 ---
 
@@ -287,149 +287,295 @@ This blessing, found in contexts associated with Nefertiti, reflects the emphasi
 ## References
 
 [^1]: Britannica. "Nefertiti | Biography, Reign, Death, Tomb, Meaning, & Facts." https://www.britannica.com/biography/Nefertiti
+
 [^2]: World History Encyclopedia. "Nefertiti." https://www.worldhistory.org/Nefertiti/
+
 [^3]: Amarna Period of Egypt. World History Encyclopedia. https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^4]: HISTORY. "Has Queen Nefertiti's Tomb Been Found?" https://www.history.com/articles/has-queen-nefertitis-tomb-been-found
+
 [^5]: Britannica. "What was Nefertiti's family like?" https://www.britannica.com/question/What-was-Nefertitis-family-like
+
 [^6]: Study.com. "Queen Nefertiti | Biography, History & Facts." https://study.com/academy/lesson/egyptian-queen-nefertiti-biography-history-facts.html
+
 [^7]: TheCollector. "Nefertiti: The Enchanting Story of the Lady of the Two Lands." https://www.thecollector.com/nefertiti-queen-story/
+
 [^8]: Ägyptisches Museum und Papyrussammlung. "The Queen – Who was Nefertiti?" https://www.smb.museum/en/museums-institutions/aegyptisches-museum-und-papyrussammlung/collection-research/bust-of-nefertiti/the-queen/
+
 [^9]: Journey to Egypt. "Nefertiti, Queen Nefertiti | Biography, Reign, & Facts." https://www.journeytoegypt.com/en/blog/nefertiti
+
 [^10]: Wikipedia. "Nefertiti." https://en.wikipedia.org/wiki/Nefertiti
+
 [^11]: Vedantu. "Nefertiti Biography - Life History, Family Details, Death and FAQs." https://www.vedantu.com/biography/nefertiti
+
 [^12]: ARCE. "Nefertiti: Egyptian Wife, Mother, Queen and Icon." https://arce.org/resource/nefertiti-egyptian-wife-mother-queen-and-icon/
+
 [^13]: Biography.com. "Nefertiti - Queen, Bust & Death." https://www.biography.com/royalty/nefertiti
+
 [^14]: My Modern Met. "13 Facts About the Ancient Egyptian Queen Nefertiti." https://mymodernmet.com/ancient-egypt-queen-nefertiti/
+
 [^15]: History Hit. "10 Facts About Queen Nefertiti." https://www.historyhit.com/facts-about-queen-nefertiti/
+
 [^16]: HISTORY. "Nefertiti - Queen, Bust & Husband Akhenaten." https://www.history.com/topics/ancient-egypt/nefertiti
+
 [^17]: World History Encyclopedia. "Nefertiti." https://www.worldhistory.org/Nefertiti/
+
 [^18]: GreekReporter.com. "Queen Nefertiti, the Powerful Ruler of Ancient Egypt." https://greekreporter.com/2025/11/29/queen-nefertiti-ruler-ancient-egypt/
+
 [^19]: LibGuides Northcote High School. "Nefertiti - The Amarna Period of Egypt." https://nhs-vic.libguides.com/amarna/nefertiti
+
 [^20]: Egypt Fun Tours. "Amarna Style, Akhenaten, and Nefertiti: Egypt's Radical Revolution." https://egyptfuntours.com/blog/akhenaten-nefertiti-amarna-style/
+
 [^21]: Wikipedia. "Amarna Period." https://en.wikipedia.org/wiki/Amarna_Period
+
 [^22]: Metropolitan Museum of Art. "Relief of Queen Nefertiti - New Kingdom, Amarna Period." https://www.metmuseum.org/art/collection/search/545803
+
 [^23]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^24]: Biography.com. "Nefertiti - Queen, Bust & Death." https://www.biography.com/royalty/nefertiti
+
 [^25]: Egypt Mythology. "The Divine Kingship of Nefertiti: A Queen's Influence." https://egyptmythology.com/the-divine-kingship-of-nefertiti-a-queens-influence/
+
 [^26]: TheCollector. "Comparing Akhenaten's Amarna Period Art to Traditional Egyptian Art." https://www.thecollector.com/amarna-egypt-art/
+
 [^27]: Wikipedia. "Amarna art." https://en.wikipedia.org/wiki/Amarna_art
+
 [^28]: New World Encyclopedia. "Nefertiti." https://www.newworldencyclopedia.org/entry/Nefertiti
+
 [^29]: World History Encyclopedia. "Nefertiti." https://www.worldhistory.org/Nefertiti/
+
 [^30]: ARCE. "Akhenaten, Nefertiti & Aten: From Many Gods to One." https://arce.org/resource/akhenaten-nefertiti-aten-many-gods-one/
+
 [^31]: Civilization Chronicles. "Nefertiti's Influence in Egypt: A Legacy of Power and Artistry." https://civilizationchronicles.com/nefertitis-influence-in-egypt/
+
 [^32]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^33]: GreekReporter.com. "Queen Nefertiti, the Powerful Ruler of Ancient Egypt." https://greekreporter.com/2025/11/29/queen-nefertiti-ruler-ancient-egypt/
+
 [^34]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^35]: Nerdish.io. "What do we know about Nefertiti?" https://nerdish.io/blog/what-do-we-know-about-nefertiti/
+
 [^36]: Study.com. "Aten, Sun God | Mythology & Religion." https://study.com/academy/lesson/aten-egyptian-god-mythology-religion.html
+
 [^37]: Egypt Mythology. "The Divine Kingship of Nefertiti: A Queen's Influence." https://egyptmythology.com/the-divine-kingship-of-nefertiti-a-queens-influence/
+
 [^38]: Wikipedia. "Nefertiti." https://en.wikipedia.org/wiki/Nefertiti
+
 [^39]: GreekReporter.com. "Queen Nefertiti, the Powerful Ruler of Ancient Egypt." https://greekreporter.com/2025/11/29/queen-nefertiti-ruler-ancient-egypt/
+
 [^40]: Britannica. "Nefertiti | Biography, Reign, Death, Tomb, Meaning, & Facts." https://www.britannica.com/biography/Nefertiti
+
 [^41]: HISTORY. "Nefertiti - Queen, Bust & Husband Akhenaten." https://www.history.com/topics/ancient-egypt/nefertiti
+
 [^42]: My Modern Met. "13 Facts About the Ancient Egyptian Queen Nefertiti." https://mymodernmet.com/ancient-egypt-queen-nefertiti/
+
 [^43]: LibGuides Northcote High School. "Nefertiti - The Amarna Period of Egypt." https://nhs-vic.libguides.com/amarna/nefertiti
+
 [^44]: World History Encyclopedia. "The Art of the Amarna Period." https://www.worldhistory.org/article/1110/the-art-of-the-amarna-period/
+
 [^45]: Britannica. "Amarna style | Ancient Egyptian Art & Architecture." https://www.britannica.com/art/Amarna-style
+
 [^46]: Egypt Fun Tours. "Amarna Style, Akhenaten, and Nefertiti: Egypt's Radical Revolution." https://egyptfuntours.com/blog/akhenaten-nefertiti-amarna-style/
+
 [^47]: Ägyptisches Museum. "Bust of Nefertiti." https://www.smb.museum/en/museums-institutions/aegyptisches-museum-und-papyrussammlung/collection-research/bust-of-nefertiti/
+
 [^48]: Wikipedia. "Nefertiti Bust." https://en.wikipedia.org/wiki/Nefertiti_Bust
+
 [^49]: Egypt Mythology. "The Artistic Innovations of the Amarna Period." https://egyptmythology.com/the-artistic-innovations-of-the-amarna-period/
+
 [^50]: StudySmarter. "Amarna Period Art: Meaning & Significance." https://www.studysmarter.co.uk/explanations/history/classical-studies/amarna-period-art/
+
 [^51]: Biography.com. "Nefertiti - Queen, Bust & Death." https://www.biography.com/royalty/nefertiti
+
 [^52]: Historical Eve. "Amarna, the court of Akhenaten and Nefertiti." https://historicaleve.com/amarna-court-of-akhenaten-nefertiti/
+
 [^53]: Metropolitan Museum of Art. "Art, Architecture, and the City in the Reign of Amenhotep IV / Akhenaten." https://www.metmuseum.org/toah/hd/amar/hd_amar.htm
+
 [^54]: Tour Egypt. "The Egyptian God Aten Before and After Akhenaten." https://www.touregypt.net/featurestories/aten.htm
+
 [^55]: Egypt Mythology. "Decoding the Aten: The Sun God in Ancient Egyptian Art." https://egyptmythology.com/decoding-the-aten-the-sun-god-in-ancient-egyptian-art/
+
 [^56]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^57]: Wikipedia. "Amarna Period." https://en.wikipedia.org/wiki/Amarna_Period
+
 [^58]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^59]: Answers in Genesis. "Akhenaten and Nefertiti the Beautiful." https://answersingenesis.org/archaeology/ancient-egypt/akhenaten-and-nefertiti-the-beautiful/
+
 [^60]: The Not So Innocent Abroad. "Atenism: Akhenaten's Experiment in Monotheism." https://www.thenotsoinnocentsabroad.com/blog/atenism-akhenatens-experiment-in-monotheism
+
 [^61]: Nerdish.io. "What do we know about Nefertiti?" https://nerdish.io/blog/what-do-we-know-about-nefertiti/
+
 [^62]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^63]: AMARNA:3D. "The Amarna Period." http://www.amarna3d.com/the-amarna-period/
+
 [^64]: Humanities LibreTexts. "7.7: Amarna." https://human.libretexts.org/Courses/Palo_Verde_College/Art_History:__Prehistoric_-_Middle_Ages/07:_Ancient_Egypt/7.07:_Amarna
+
 [^65]: TheCollector. "Comparing Akhenaten's Amarna Period Art to Traditional Egyptian Art." https://www.thecollector.com/amarna-egypt-art/
+
 [^66]: History Skills. "Akhenaten: Egypt's religious revolutionary." https://www.historyskills.com/classroom/ancient-history/anc-akhenaten-reading/
+
 [^67]: ARCE. "Akhenaten, Nefertiti & Aten: From Many Gods to One." https://arce.org/resource/akhenaten-nefertiti-aten-many-gods-one/
+
 [^68]: BEYONDbones. "Amarna Art: What It Is And Why The Egyptians Tried To Erase It." https://blog.hmns.org/2018/01/amarna-art-what-it-is-and-why-the-egyptians-tried-to-erase-it/
+
 [^69]: Wikipedia. "Amarna Period." https://en.wikipedia.org/wiki/Amarna_Period
+
 [^70]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^71]: Wikipedia. "Akhenaten." https://en.wikipedia.org/wiki/Akhenaten
+
 [^72]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^73]: Egypt Museum. "Family portrait of Akhenaten, Nefertiti & daughter." https://egypt-museum.com/family-portrait-of-akhenaten-nefertiti-daughter/
+
 [^74]: History Hit. "10 Facts About Queen Nefertiti." https://www.historyhit.com/facts-about-queen-nefertiti/
+
 [^75]: World History Encyclopedia. "Nefertiti." https://www.worldhistory.org/Nefertiti/
+
 [^76]: GreekReporter.com. "Queen Nefertiti, the Powerful Ruler of Ancient Egypt." https://greekreporter.com/2025/11/29/queen-nefertiti-ruler-ancient-egypt/
+
 [^77]: Biography.com. "Nefertiti - Queen, Bust & Death." https://www.biography.com/royalty/nefertiti
+
 [^78]: Britannica. "What was Nefertiti's family like?" https://www.britannica.com/question/What-was-Nefertitis-family-like
+
 [^79]: Wikipedia. "Nefertiti." https://en.wikipedia.org/wiki/Nefertiti
+
 [^80]: My Modern Met. "13 Facts About the Ancient Egyptian Queen Nefertiti." https://mymodernmet.com/ancient-egypt-queen-nefertiti/
+
 [^81]: Egypt Museum. "Family portrait of Akhenaten, Nefertiti & daughter." https://egypt-museum.com/family-portrait-of-akhenaten-nefertiti-daughter/
+
 [^82]: Historical Eve. "Amarna, the court of Akhenaten and Nefertiti." https://historicaleve.com/amarna-court-of-akhenaten-nefertiti/
+
 [^83]: Wikipedia. "Meketaten." https://en.wikipedia.org/wiki/Meketaten
+
 [^84]: Wikipedia. "Meritaten." https://en.wikipedia.org/wiki/Meritaten
+
 [^85]: Quora. "What is the relationship between Tutankhamun, Akhenaten, and Nefertiti?" https://www.quora.com/What-is-the-relationship-between-Tutankhamun-Akhenaten-and-Nefertiti
+
 [^86]: Peerian Journal. "Nefertiti: A Symbol Of Beauty, Personality, And Political Power." https://peerianjournal.com/index.php/czjmi/article/download/1190/980/1341
+
 [^87]: ARCE. "Nefertiti: Egyptian Wife, Mother, Queen and Icon." https://arce.org/resource/nefertiti-egyptian-wife-mother-queen-and-icon/
+
 [^88]: Journey to Egypt. "Nefertiti, Queen Nefertiti | Biography, Reign, & Facts." https://www.journeytoegypt.com/en/blog/nefertiti
+
 [^89]: World History Encyclopedia. "Nefertiti." https://www.worldhistory.org/Nefertiti/
+
 [^90]: GreekReporter.com. "Queen Nefertiti, the Powerful Ruler of Ancient Egypt." https://greekreporter.com/2025/11/29/queen-nefertiti-ruler-ancient-egypt/
+
 [^91]: Study.com. "Nefertiti Death, Tomb & Burial." https://study.com/academy/lesson/where-is-nefertiti-buried-death-tomb.html
+
 [^92]: EBSCO Research. "Nefertiti | Research Starters." https://www.ebsco.com/research-starters/history/nefertiti
+
 [^93]: Ancient Origins. "The Mysterious Disappearance of Nefertiti, Ruler of the Nile." https://www.ancient-origins.net/unexplained-phenomena/mysterious-disappearance-nefertiti-ruler-nile-001988
+
 [^94]: Wikipedia. "Neferneferuaten." https://en.wikipedia.org/wiki/Neferneferuaten
+
 [^95]: Vocal Media. "The Enigmatic Legacy of Queen Nefertiti." https://vocal.media/history/the-enigmatic-legacy-of-queen-nefertiti
+
 [^96]: GreekReporter.com. "Queen Nefertiti, the Powerful Ruler of Ancient Egypt." https://greekreporter.com/2025/11/29/queen-nefertiti-ruler-ancient-egypt/
+
 [^97]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^98]: ARCE. "Akhenaten, Nefertiti & Aten: From Many Gods to One." https://arce.org/resource/akhenaten-nefertiti-aten-many-gods-one/
+
 [^99]: World History Encyclopedia. "Nefertiti." https://www.worldhistory.org/Nefertiti/
+
 [^100]: ResearchGate. "Nefertiti: New Perspectives from New Data." https://www.researchgate.net/publication/385599948_Nefertiti_New_Perspectives_from_New_Data
+
 [^101]: World History Encyclopedia. "The Art of the Amarna Period." https://www.worldhistory.org/article/1110/the-art-of-the-amarna-period/
+
 [^102]: Egypt Mythology. "The Artistic Innovations of the Amarna Period." https://egyptmythology.com/the-artistic-innovations-of-the-amarna-period/
+
 [^103]: Egyptian Museum Berlin. "Bust of Queen Nefertiti." https://www.egyptian-museum-berlin.com/c53.php
+
 [^104]: ARCE. "Nefertiti: Egyptian Wife, Mother, Queen and Icon." https://arce.org/resource/nefertiti-egyptian-wife-mother-queen-and-icon/
+
 [^105]: Peerian Journal. "Nefertiti: A Symbol Of Beauty, Personality, And Political Power." https://peerianjournal.com/index.php/czjmi/article/download/1190/980/1341
+
 [^106]: CNN. "Why the fashionable and the famous still look to Nefertiti, 3,300 years after she reigned." https://www.cnn.com/2024/12/26/style/nefertiti-beauty-inspiration-style
+
 [^107]: Archaeology Travel. "The Bust of Nefertiti in the Neues Museum, Berlin." https://archaeology-travel.com/artefacts/bust-of-nefertiti/
+
 [^108]: DailyArt Magazine. "Nefertiti Beauty Icon." https://www.dailyartmagazine.com/nefertiti-as-a-beauty-icon/
+
 [^109]: Artsy. "How Nefertiti Became a Powerful Symbol in Contemporary Art." https://www.artsy.net/article/artsy-editorial-depictions-nefertiti-way-society-views-gender-race
+
 [^110]: Think Reload. "The Bust of Nefertiti: Egypt's Eternal Symbol of Beauty." https://thinkreload.com/bust-of-nefertiti-history-ancient-egypt/
+
 [^111]: Number Analytics. "Nefertiti: A Figural Icon." https://www.numberanalytics.com/blog/nefertiti-figural-icon
+
 [^112]: Civilization Chronicles. "Nefertiti's Influence in Egypt: A Legacy of Power and Artistry." https://civilizationchronicles.com/nefertitis-influence-in-egypt/
+
 [^113]: ArtTrak. "How Nefertiti Became a Powerful Symbol in Contemporary Art." https://www.arttrak.com/blog-newsletter/2019/5/how-nefertiti-became-a-powerful-symbol-in-contemporary-art-rkdzh
+
 [^114]: Artsy. "How Nefertiti Became a Powerful Symbol in Contemporary Art." https://www.artsy.net/article/artsy-editorial-depictions-nefertiti-way-society-views-gender-race
+
 [^115]: Smithsonian Magazine. "German Archaeologists Discovered the Iconic Bust of Nefertiti." https://www.smithsonianmag.com/smart-news/german-archaeologists-discovered-the-iconic-bust-of-nefertiti-in-an-ancient-egyptian-sculptors-studio-find-out-why-their-discovery-is-now-one-of-archaeologys-most-controversial-180985565/
+
 [^116]: The New Arab. "Inside Egypt's bid to return Nefertiti's Bust from Berlin Museum." https://www.newarab.com/features/inside-egypts-bid-return-nefertitis-bust-berlin-museum
+
 [^117]: Academia.edu. "Repatriating the Bust of Nefertiti: A Critical Perspective on Cultural Ownership." https://www.academia.edu/1967677/Repatriating_the_Bust_of_Nefertiti_A_Critical_Perspective_on_Cultural_Ownership
+
 [^118]: EBSCO Research. "Nefertiti | Research Starters." https://www.ebsco.com/research-starters/history/nefertiti
+
 [^119]: World History Encyclopedia. "Nefertiti." https://www.worldhistory.org/Nefertiti/
+
 [^120]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^121]: GreekReporter.com. "Queen Nefertiti, the Powerful Ruler of Ancient Egypt." https://greekreporter.com/2025/11/29/queen-nefertiti-ruler-ancient-egypt/
+
 [^122]: ResearchGate. "Nefertiti: New Perspectives from New Data." https://www.researchgate.net/publication/385599948_Nefertiti_New_Perspectives_from_New_Data
+
 [^123]: Wikipedia. "Neferneferuaten." https://en.wikipedia.org/wiki/Neferneferuaten
+
 [^124]: World History Encyclopedia. "The Art of the Amarna Period." https://www.worldhistory.org/article/1110/the-art-of-the-amarna-period/
+
 [^125]: Egypt Mythology. "The Artistic Innovations of the Amarna Period." https://egyptmythology.com/the-artistic-innovations-of-the-amarna-period/
+
 [^126]: Peerian Journal. "Nefertiti: A Symbol Of Beauty, Personality, And Political Power." https://peerianjournal.com/index.php/czjmi/article/download/1190/980/1341
+
 [^127]: ARCE. "Nefertiti: Egyptian Wife, Mother, Queen and Icon." https://arce.org/resource/nefertiti-egyptian-wife-mother-queen-and-icon/
+
 [^128]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^129]: Answers in Genesis. "Akhenaten and Nefertiti the Beautiful." https://answersingenesis.org/archaeology/ancient-egypt/akhenaten-and-nefertiti-the-beautiful/
+
 [^130]: ARCE. "Akhenaten: The Mysteries of Religious Revolution." https://arce.org/resource/akhenaten-mysteries-religious-revolution/
+
 [^131]: Egypt Today. "Did Nefertiti's tomb disappear because of her Separation from Akhenaten." https://www.egypttoday.com/Article/4/90884/Did-Nefertiti%E2%80%99s-tomb-disappear-because-of-her-Separation-from-Akhenaten
+
 [^132]: The Not So Innocent Abroad. "Atenism: Akhenaten's Experiment in Monotheism." https://www.thenotsoinnocentsabroad.com/blog/atenism-akhenatens-experiment-in-monotheism
+
 [^133]: AMARNA:3D. "The Amarna Period." http://www.amarna3d.com/the-amarna-period/
+
 [^134]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^135]: TheCollector. "Comparing Akhenaten's Amarna Period Art to Traditional Egyptian Art." https://www.thecollector.com/amarna-egypt-art/
+
 [^136]: Taylor University. "Searching for the Identity of Neferneferuaten." https://pillars.taylor.edu/cgi/viewcontent.cgi?article=1003&context=cs2022
+
 [^137]: BEYONDbones. "Amarna Art: What It Is And Why The Egyptians Tried To Erase It." https://blog.hmns.org/2018/01/amarna-art-what-it-is-and-why-the-egyptians-tried-to-erase-it/
+
 [^138]: Wikipedia. "Amarna Period." https://en.wikipedia.org/wiki/Amarna_Period
+
 [^139]: History Skills. "Akhenaten: Egypt's religious revolutionary." https://www.historyskills.com/classroom/ancient-history/anc-akhenaten-reading/
+
 [^140]: World History Encyclopedia. "Amarna Period of Egypt." https://www.worldhistory.org/Amarna_Period_of_Egypt/
+
 [^141]: BEYONDbones. "Amarna Art: What It Is And Why The Egyptians Tried To Erase It." https://blog.hmns.org/2018/01/amarna-art-what-it-is-and-why-the-egyptians-tried-to-erase-it/
+
 [^142]: Wikiquote. "Nefertiti." https://en.wikiquote.org/wiki/Nefertiti
+
 [^143]: Goodreads. "Nefertiti Quotes by Michelle Moran." https://www.goodreads.com/work/quotes/2897082-nefertiti
+
 [^144]: The Gold Scales. "Egyptian Precepts and Proverbs." http://oaks.nvg.org/egyptian-proverbs.html
+
 [^145]: Study.com. "Aten, Sun God | Mythology & Religion." https://study.com/academy/lesson/aten-egyptian-god-mythology-religion.html
+
 [^146]: Britannica. "Nefertiti | Biography, Reign, Death, Tomb, Meaning, & Facts." https://www.britannica.com/biography/Nefertiti
+
 [^147]: Ägyptisches Museum. "The Queen – Who was Nefertiti?" https://www.smb.museum/en/museums-institutions/aegyptisches-museum-und-papyrussammlung/collection-research/bust-of-nefertiti/the-queen/

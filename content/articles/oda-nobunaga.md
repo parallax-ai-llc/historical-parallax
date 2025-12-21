@@ -35,7 +35,7 @@ When Nobuhide died suddenly in 1551, the 17-year-old Nobunaga inherited his fath
 
 Nobunaga's path to dominance began immediately after inheriting his father's position in 1551, when he faced challenges from both within his family and from external enemies. His younger brother Oda Nobuyuki, supported by influential retainers who doubted Nobunaga's capabilities, became the focal point of internal opposition.[^23][^24] Meanwhile, rival clans saw the young lord's apparent instability as an opportunity to encroach upon Oda territory. Nobunaga's response demonstrated the strategic acumen hidden beneath his eccentric exterior.
 
-His first major test came in 1560, when Imagawa Yoshimoto of Suruga and Tōtōmi Provinces invaded Owari with a massive army estimated at 25,000 to 40,000 warriors, intent on marching to Kyoto.[^25][^26] Nobunaga could muster only approximately 2,000 to 3,000 troops—a seemingly hopeless numerical disadvantage. However, during the Battle of Okehazama on June 12, 1560, Nobunaga executed one of the most audacious military maneuvers in Japanese history.[^27] 
+His first major test came in 1560, when Imagawa Yoshimoto of Suruga and Tōtōmi Provinces invaded Owari with a massive army estimated at 25,000 to 40,000 warriors, intent on marching to Kyoto.[^25][^26] Nobunaga could muster only approximately 2,000 to 3,000 troops—a seemingly hopeless numerical disadvantage. However, during the Battle of Okehazama on June 12, 1560, Nobunaga executed one of the most audacious military maneuvers in Japanese history.[^27]
 
 Learning that Imagawa's forces were resting in a narrow gorge, celebrating their victories with sake, Nobunaga launched a surprise attack during a sudden thunderstorm. His small force struck with devastating effect, creating chaos in the enemy camp. In the confusion, Nobunaga's men located and killed Imagawa Yoshimoto himself, decapitating the enemy leadership.[^28][^29] The Imagawa army, deprived of its commander, collapsed and fled. This stunning victory against overwhelming odds established Nobunaga's reputation as a brilliant tactician and eliminated the most immediate threat to his domain.
 
@@ -95,7 +95,7 @@ Nobunaga's path to power was marked by extreme brutality and acts of violence th
 
 The most notorious episode of Nobunaga's career occurred in September 1571, when he ordered the complete destruction of Enryaku-ji, the vast Buddhist temple complex on Mount Hiei near Kyoto.[^70][^71] For centuries, Enryaku-ji had served as the headquarters of the Tendai sect and wielded enormous political and military power through its sōhei (warrior monks). The monastery had supported the Azai-Asakura alliance against Nobunaga and provided sanctuary to his enemies.[^72]
 
-On the night of September 28, 1571, Nobunaga unleashed a force of approximately 30,000 troops against Mount Hiei.[^73] His orders were explicit and merciless: total destruction. The army surrounded the mountain from three directions and systematically burned every building, killing not only monks but also laypeople, women, and children who had sought refuge there.[^74][^75] Contemporary sources provide conflicting casualty figures—the Jesuit missionary Luís Fróis estimated approximately 1,500 deaths, while Japanese sources suggest between 3,000 and 4,000 were killed.[^76] 
+On the night of September 28, 1571, Nobunaga unleashed a force of approximately 30,000 troops against Mount Hiei.[^73] His orders were explicit and merciless: total destruction. The army surrounded the mountain from three directions and systematically burned every building, killing not only monks but also laypeople, women, and children who had sought refuge there.[^74][^75] Contemporary sources provide conflicting casualty figures—the Jesuit missionary Luís Fróis estimated approximately 1,500 deaths, while Japanese sources suggest between 3,000 and 4,000 were killed.[^76]
 
 The psychological and cultural impact exceeded even the horrific death toll. As historian Stephen Turnbull observed, the attack "was so one-sided that it should more rightfully be called a massacre than a siege or battle."[^77] The destruction of Enryaku-ji represented an unprecedented ideological transgression, comparable to razing the Vatican—the annihilation of one of Buddhism's holiest sites in Japan.[^78] The act earned Nobunaga the epithet "Demon King" and was condemned even by some of his own commanders.[^79]
 
@@ -237,33 +237,33 @@ The continuing scholarly debate reflects Nobunaga's genuinely contradictory lega
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1534 | Born June 23 at Nagoya Castle in Owari Province |
-| 1546 | Comes to manhood, takes name Oda Saburō Nobunaga |
-| 1547 | Leads first military campaign against Kira and Ohama clans |
-| 1549 | Marries Nōhime, daughter of Saitō Dōsan |
-| 1551 | Father Oda Nobuhide dies; Nobunaga inherits domain at age 17 |
-| 1556 | Father-in-law Saitō Dōsan killed in battle |
-| 1557 | Orders execution of younger brother Oda Nobuyuki |
-| 1560 | Victory at Battle of Okehazama against Imagawa Yoshimoto |
-| 1562 | Forms Kiyosu Alliance with Tokugawa Ieyasu |
-| 1567 | Conquers Mino Province; moves base to Gifu Castle |
-| 1568 | Marches to Kyoto; installs Ashikaga Yoshiaki as shogun |
-| 1570 | Siege of Ishiyama Hongan-ji begins (continues until 1580) |
-| 1571 | Orders massacre at Mount Hiei; Enryaku-ji temple destroyed |
-| 1573 | Expels Shogun Yoshiaki; effectively ends Ashikaga shogunate |
+| Year | Event                                                           |
+| ---- | --------------------------------------------------------------- |
+| 1534 | Born June 23 at Nagoya Castle in Owari Province                 |
+| 1546 | Comes to manhood, takes name Oda Saburō Nobunaga                |
+| 1547 | Leads first military campaign against Kira and Ohama clans      |
+| 1549 | Marries Nōhime, daughter of Saitō Dōsan                         |
+| 1551 | Father Oda Nobuhide dies; Nobunaga inherits domain at age 17    |
+| 1556 | Father-in-law Saitō Dōsan killed in battle                      |
+| 1557 | Orders execution of younger brother Oda Nobuyuki                |
+| 1560 | Victory at Battle of Okehazama against Imagawa Yoshimoto        |
+| 1562 | Forms Kiyosu Alliance with Tokugawa Ieyasu                      |
+| 1567 | Conquers Mino Province; moves base to Gifu Castle               |
+| 1568 | Marches to Kyoto; installs Ashikaga Yoshiaki as shogun          |
+| 1570 | Siege of Ishiyama Hongan-ji begins (continues until 1580)       |
+| 1571 | Orders massacre at Mount Hiei; Enryaku-ji temple destroyed      |
+| 1573 | Expels Shogun Yoshiaki; effectively ends Ashikaga shogunate     |
 | 1575 | Victory at Battle of Nagashino using innovative firearm tactics |
-| 1576 | Construction begins on Azuchi Castle |
-| 1579 | Azuchi Castle completed |
-| 1580 | Ishiyama Hongan-ji surrenders after ten-year siege |
-| 1582 | Assassinated June 21 at Honnō-ji temple by Akechi Mitsuhide |
+| 1576 | Construction begins on Azuchi Castle                            |
+| 1579 | Azuchi Castle completed                                         |
+| 1580 | Ishiyama Hongan-ji surrenders after ten-year siege              |
+| 1582 | Assassinated June 21 at Honnō-ji temple by Akechi Mitsuhide     |
 
 ---
 
 ## Famous Quotes
 
-> "Life lasts but fifty years. Compared to the realm of heaven, it is nothing but a fleeting dream or illusion." 
+> "Life lasts but fifty years. Compared to the realm of heaven, it is nothing but a fleeting dream or illusion."
 
 Context: This line from the performance piece "Atsumori" was reportedly performed by Nobunaga the night before the Battle of Okehazama in 1560, reflecting his philosophical acceptance of mortality before entering battle against overwhelming odds.[^137][^138]
 
@@ -288,144 +288,285 @@ Context: Attributed to Nobunaga, this quote reflects his appreciation for unconv
 ## References
 
 [^1]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^2]: Oda Nobunaga | Biography, Significance, & Death | Britannica. https://www.britannica.com/biography/Oda-Nobunaga
+
 [^3]: Oda Nobunaga - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Oda_Nobunaga
+
 [^4]: Oda Nobunaga | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/oda-nobunaga
+
 [^5]: Honnō-ji Incident - Wikipedia. https://en.wikipedia.org/wiki/Honn%C5%8D-ji_Incident
+
 [^6]: Oda Nobunaga: The Rise of One of Japan's Earliest Unifiers. https://warfarehistorynetwork.com/article/oda-nobunaga-the-rise-of-one-of-japans-earliest-unifiers/
+
 [^7]: Oda Nobunaga (1534 - 1582) Biography - Life of a Japanese Warlord. https://totallyhistory.com/oda-nobunaga/
+
 [^8]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^9]: Early Life | Oda Nobunaga (1534-1582) | Stories Preschool. https://www.storiespreschool.com/oda_nobunaga1.html
+
 [^10]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^11]: Oda Nobunaga facts for kids. https://kids.kiddle.co/Oda_Nobunaga
+
 [^12]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^13]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^14]: Early Life | Oda Nobunaga (1534-1582) | Stories Preschool. https://www.storiespreschool.com/oda_nobunaga1.html
+
 [^15]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^16]: Early Life | Oda Nobunaga (1534-1582) | Stories Preschool. https://www.storiespreschool.com/oda_nobunaga1.html
+
 [^17]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^18]: Nōhime - Wikipedia. https://en.wikipedia.org/wiki/N%C5%8Dhime
+
 [^19]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^20]: Oda Nobunaga | Biography, Significance, & Death | Britannica. https://www.britannica.com/biography/Oda-Nobunaga
+
 [^21]: Early Life | Oda Nobunaga (1534-1582) | Stories Preschool. https://www.storiespreschool.com/oda_nobunaga1.html
+
 [^22]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^23]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^24]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^25]: Oda Nobunaga: The Rise of One of Japan's Earliest Unifiers. https://warfarehistorynetwork.com/article/oda-nobunaga-the-rise-of-one-of-japans-earliest-unifiers/
+
 [^26]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^27]: Oda Nobunaga | Biography, Significance, & Death | Britannica. https://www.britannica.com/biography/Oda-Nobunaga
+
 [^28]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^29]: Oda Nobunaga - World History Encyclopedia. https://www.worldhistory.org/Oda_Nobunaga/
+
 [^30]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^31]: Oda Nobunaga and the Struggle to Unify Japan | Nippon.com. https://www.nippon.com/en/japan-topics/b06905/oda-nobunaga-and-the-struggle-to-unify-japan.html
+
 [^32]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^33]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^34]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^35]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^36]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^37]: Oda Nobunaga Seizes Kyōto | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/oda-nobunaga-seizes-kyoto
+
 [^38]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^39]: Oda Nobunaga and the Struggle to Unify Japan | Nippon.com. https://www.nippon.com/en/japan-topics/b06905/oda-nobunaga-and-the-struggle-to-unify-japan.html
+
 [^40]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^41]: Oda Nobunaga | Biography, Significance, & Death | Britannica. https://www.britannica.com/biography/Oda-Nobunaga
+
 [^42]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^43]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^44]: Oda Nobunaga - World History Encyclopedia. https://www.worldhistory.org/Oda_Nobunaga/
+
 [^45]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^46]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^47]: Oda Nobunaga and the Struggle to Unify Japan | Nippon.com. https://www.nippon.com/en/japan-topics/b06905/oda-nobunaga-and-the-struggle-to-unify-japan.html
+
 [^48]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^49]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^50]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^51]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^52]: Oda Nobunaga and the Struggle to Unify Japan | Nippon.com. https://www.nippon.com/en/japan-topics/b06905/oda-nobunaga-and-the-struggle-to-unify-japan.html
+
 [^53]: Oda Nobunaga | Biography, Significance, & Death | Britannica. https://www.britannica.com/biography/Oda-Nobunaga
+
 [^54]: Oda Nobunaga and the Struggle to Unify Japan | Nippon.com. https://www.nippon.com/en/japan-topics/b06905/oda-nobunaga-and-the-struggle-to-unify-japan.html
+
 [^55]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^56]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^57]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^58]: The Legacy of Oda Nobunaga. https://www.numberanalytics.com/blog/oda-nobunaga-legacy
+
 [^59]: Oda Nobunaga - World History Encyclopedia. https://www.worldhistory.org/Oda_Nobunaga/
+
 [^60]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^61]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^62]: Oda Nobunaga - World History Encyclopedia. https://www.worldhistory.org/Oda_Nobunaga/
+
 [^63]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^64]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^65]: Oda Nobunaga - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Oda_Nobunaga
+
 [^66]: Oda Nobunaga | Biography, Significance, & Death | Britannica. https://www.britannica.com/biography/Oda-Nobunaga
+
 [^67]: Oda Nobunaga - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Oda_Nobunaga
+
 [^68]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^69]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^70]: Enryaku-ji & Mt. Hiei | Oda Nobunaga's Infamous Massacre. https://donnykimball.com/enryaku-ji-b6a5b44706db
+
 [^71]: Siege of Mount Hiei - Wikipedia. https://en.wikipedia.org/wiki/Siege_of_Mount_Hiei
+
 [^72]: The massacre of 2000 Buddhist monks who refused to submit to a ruthless Japanese warlord - History Skills. https://www.historyskills.com/classroom/modern-history/siege-of-mount-hiei/
+
 [^73]: Siege of Mount Hiei - Wikipedia. https://en.wikipedia.org/wiki/Siege_of_Mount_Hiei
+
 [^74]: The massacre of 2000 Buddhist monks who refused to submit to a ruthless Japanese warlord - History Skills. https://www.historyskills.com/classroom/modern-history/siege-of-mount-hiei/
+
 [^75]: Enryaku-ji & Mt. Hiei | Oda Nobunaga's Infamous Massacre. https://donnykimball.com/enryaku-ji-b6a5b44706db
+
 [^76]: Siege of Mount Hiei - Wikipedia. https://en.wikipedia.org/wiki/Siege_of_Mount_Hiei
+
 [^77]: The massacre of 2000 Buddhist monks who refused to submit to a ruthless Japanese warlord - History Skills. https://www.historyskills.com/classroom/modern-history/siege-of-mount-hiei/
+
 [^78]: Enryaku-ji & Mt. Hiei | Oda Nobunaga's Infamous Massacre. https://donnykimball.com/enryaku-ji-b6a5b44706db
+
 [^79]: Siege of Mount Hiei - Wikipedia. https://en.wikipedia.org/wiki/Siege_of_Mount_Hiei
+
 [^80]: Enryaku-ji & Mt. Hiei | Oda Nobunaga's Infamous Massacre. https://donnykimball.com/enryaku-ji-b6a5b44706db
+
 [^81]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^82]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^83]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^84]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^85]: Oda Nobunaga - World History Encyclopedia. https://www.worldhistory.org/Oda_Nobunaga/
+
 [^86]: The massacre of 2000 Buddhist monks who refused to submit to a ruthless Japanese warlord - History Skills. https://www.historyskills.com/classroom/modern-history/siege-of-mount-hiei/
+
 [^87]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^88]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^89]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^90]: Enryaku-ji & Mt. Hiei | Oda Nobunaga's Infamous Massacre. https://donnykimball.com/enryaku-ji-b6a5b44706db
+
 [^91]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^92]: Nōhime - Wikipedia. https://en.wikipedia.org/wiki/N%C5%8Dhime
+
 [^93]: Nohime, Wife of a Warlord - Samurai History & Culture Japan. https://samuraihistoryculture.substack.com/p/nohime-wife-of-a-warlord
+
 [^94]: Nōhime - Wikipedia. https://en.wikipedia.org/wiki/N%C5%8Dhime
+
 [^95]: Nōhime - Wikipedia. https://en.wikipedia.org/wiki/N%C5%8Dhime
+
 [^96]: Nōhime - Wikipedia. https://en.wikipedia.org/wiki/N%C5%8Dhime
+
 [^97]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^98]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^99]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^100]: Oda Nobunaga - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Oda_Nobunaga
+
 [^101]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^102]: The Life and Famous Quotes of "Oda Nobunaga": Who Was He and What Was He Like? https://www.fun-japan.jp/en/articles/13857
+
 [^103]: Oda Nobunaga - Wikiquote. https://en.wikiquote.org/wiki/Oda_Nobunaga
+
 [^104]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^105]: Honnō-ji Incident - Wikipedia. https://en.wikipedia.org/wiki/Honn%C5%8D-ji_Incident
+
 [^106]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^107]: The Rise of Oda Nobunaga | Tamba-Kameoka Teppou-tai. https://tk-teppou.com/kawaraban/oda_nobunaga.html
+
 [^108]: Oda Nobunaga | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/oda-nobunaga
+
 [^109]: Oda Nobunaga - World History Encyclopedia. https://www.worldhistory.org/Oda_Nobunaga/
+
 [^110]: Oda Nobunaga and the Struggle to Unify Japan | Nippon.com. https://www.nippon.com/en/japan-topics/b06905/oda-nobunaga-and-the-struggle-to-unify-japan.html
+
 [^111]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^112]: Oda Nobunaga Definition - History of Japan Key Term | Fiveable. https://fiveable.me/key-terms/history-japan/oda-nobunaga
+
 [^113]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^114]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^115]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^116]: The Legacy of Oda Nobunaga. https://www.numberanalytics.com/blog/oda-nobunaga-legacy
+
 [^117]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^118]: Oda Nobunaga: Biography, History & Death | Academic Block. https://www.academicblock.com/history/great-generals-and-emperors/oda-nobunaga
+
 [^119]: Oda Nobunaga | Biography, Significance, & Death | Britannica. https://www.britannica.com/biography/Oda-Nobunaga
+
 [^120]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^121]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^122]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^123]: Oda Nobunaga | Research Starters | EBSCO Research. https://www.ebsco.com/research-starters/history/oda-nobunaga
+
 [^124]: Oda Nobunaga: The Visionary Who Unified Japan - Welcome. https://sengokuchronicles.com/oda-nobunaga-the-visionary-warlord-who-set-japan-on-the-path-to-unification/
+
 [^125]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^126]: Oda Nobunaga - World History Encyclopedia. https://www.worldhistory.org/Oda_Nobunaga/
+
 [^127]: How Did Oda Nobunaga Change Japanese Warfare? | TheCollector. https://www.thecollector.com/oda-nobunaga-japanese-warfare/
+
 [^128]: Enryaku-ji & Mt. Hiei | Oda Nobunaga's Infamous Massacre. https://donnykimball.com/enryaku-ji-b6a5b44706db
+
 [^129]: The massacre of 2000 Buddhist monks who refused to submit to a ruthless Japanese warlord - History Skills. https://www.historyskills.com/classroom/modern-history/siege-of-mount-hiei/
+
 [^130]: Siege of Mount Hiei - Wikipedia. https://en.wikipedia.org/wiki/Siege_of_Mount_Hiei
+
 [^131]: Enryaku-ji & Mt. Hiei | Oda Nobunaga's Infamous Massacre. https://donnykimball.com/enryaku-ji-b6a5b44706db
+
 [^132]: Oda Nobunaga and the Struggle to Unify Japan | Nippon.com. https://www.nippon.com/en/japan-topics/b06905/oda-nobunaga-and-the-struggle-to-unify-japan.html
+
 [^133]: The Honnō-ji Incident: Mitsuhide's Betrayal and Nobunaga's Fall - Welcome. https://sengokuchronicles.com/the-honno-ji-incident-mitsuhides-betrayal-and-nobunagas-fall/
+
 [^134]: Oda Nobunaga - New World Encyclopedia. https://www.newworldencyclopedia.org/entry/Oda_Nobunaga
+
 [^135]: Thoughts on the Honnoji incident - The Japan Times. https://www.japantimes.co.jp/opinion/2020/04/15/reader-mail/thoughts-honnoji-incident/
+
 [^136]: Oda Nobunaga Study Guide: The Samurai Warlord Who Unified Japan in the 16th Century | Hall of Ancient Warriors. https://hallofancientwarriors.com/oda-nobunaga-study-guide/
+
 [^137]: The Life and Famous Quotes of "Oda Nobunaga": Who Was He and What Was He Like? https://www.fun-japan.jp/en/articles/13857
+
 [^138]: Oda Nobunaga - Wikiquote. https://en.wikiquote.org/wiki/Oda_Nobunaga
+
 [^139]: The Life and Famous Quotes of "Oda Nobunaga": Who Was He and What Was He Like? https://www.fun-japan.jp/en/articles/13857
+
 [^140]: Oda Nobunaga Quotes. https://www.quotes.net/authors/Oda+Nobunaga
+
 [^141]: Oda Nobunaga - Wikipedia. https://en.wikipedia.org/wiki/Oda_Nobunaga
+
 [^142]: Oda Nobunaga's famous sayings. https://mingyanjiaju.org/lang-en/lizhimingyan/121005.html

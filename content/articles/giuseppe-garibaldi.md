@@ -151,33 +151,33 @@ Finally, critics note that despite his progressive rhetoric, Garibaldi never con
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1807 | Born on July 4 in Nice, French Empire |
-| 1822 | Went to sea as a sailor at age fifteen |
-| 1832 | Acquired master's certificate as merchant captain |
-| 1833 | Met Giuseppe Mazzini in Genoa, joined Young Italy movement |
-| 1834 | Participated in failed Mazzinian insurrection in Piedmont; sentenced to death in absentia; fled to South America |
-| 1835 | Joined Ragamuffin rebels in Brazil's Ragamuffin War |
-| 1839 | Commanded fleet that captured Brazilian city of Laguna; met Anita |
-| 1841 | Moved to Montevideo, Uruguay |
-| 1842 | Married Anita in Montevideo; took command of Italian Legion |
-| 1846 | Victory at Battle of Sant'Antonio established European reputation |
-| 1847 | Returned to Europe to fight for Italian unification |
-| 1848 | Returned to Italy; commanded military campaigns for unification |
-| 1849 | Promoted to General of Roman Republic; defended Rome against French forces; Anita died during retreat |
-| 1854 | Returned to Italy; bought half of island of Caprera |
-| 1859 | Appointed major general during Second Italian War of Independence; formed Hunters of the Alps |
+| Year | Event                                                                                                                                                     |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1807 | Born on July 4 in Nice, French Empire                                                                                                                     |
+| 1822 | Went to sea as a sailor at age fifteen                                                                                                                    |
+| 1832 | Acquired master's certificate as merchant captain                                                                                                         |
+| 1833 | Met Giuseppe Mazzini in Genoa, joined Young Italy movement                                                                                                |
+| 1834 | Participated in failed Mazzinian insurrection in Piedmont; sentenced to death in absentia; fled to South America                                          |
+| 1835 | Joined Ragamuffin rebels in Brazil's Ragamuffin War                                                                                                       |
+| 1839 | Commanded fleet that captured Brazilian city of Laguna; met Anita                                                                                         |
+| 1841 | Moved to Montevideo, Uruguay                                                                                                                              |
+| 1842 | Married Anita in Montevideo; took command of Italian Legion                                                                                               |
+| 1846 | Victory at Battle of Sant'Antonio established European reputation                                                                                         |
+| 1847 | Returned to Europe to fight for Italian unification                                                                                                       |
+| 1848 | Returned to Italy; commanded military campaigns for unification                                                                                           |
+| 1849 | Promoted to General of Roman Republic; defended Rome against French forces; Anita died during retreat                                                     |
+| 1854 | Returned to Italy; bought half of island of Caprera                                                                                                       |
+| 1859 | Appointed major general during Second Italian War of Independence; formed Hunters of the Alps                                                             |
 | 1860 | Launched Expedition of the Thousand (May); conquered Sicily and Naples; met Victor Emmanuel II at Teano (October); handed over southern Italy to the king |
-| 1861 | Offered major general's commission in U.S. Civil War by President Lincoln (declined) |
-| 1862 | Failed attempt to capture Rome |
-| 1865 | Francesca Armosino became his companion on Caprera |
-| 1867 | Second failed attempt to capture Rome; defeated at Mentana |
-| 1870 | Italian troops entered Rome, completing unification; commanded Army of the Vosges in Franco-Prussian War |
-| 1871 | Victory over Prussians at Dijon (January); elected to French National Assembly (resigned shortly after) |
-| 1879 | Founded League of Democracy advocating universal suffrage and women's rights |
-| 1880 | Married Francesca Armosino, legitimizing their children |
-| 1882 | Died on June 2 on island of Caprera |
+| 1861 | Offered major general's commission in U.S. Civil War by President Lincoln (declined)                                                                      |
+| 1862 | Failed attempt to capture Rome                                                                                                                            |
+| 1865 | Francesca Armosino became his companion on Caprera                                                                                                        |
+| 1867 | Second failed attempt to capture Rome; defeated at Mentana                                                                                                |
+| 1870 | Italian troops entered Rome, completing unification; commanded Army of the Vosges in Franco-Prussian War                                                  |
+| 1871 | Victory over Prussians at Dijon (January); elected to French National Assembly (resigned shortly after)                                                   |
+| 1879 | Founded League of Democracy advocating universal suffrage and women's rights                                                                              |
+| 1880 | Married Francesca Armosino, legitimizing their children                                                                                                   |
+| 1882 | Died on June 2 on island of Caprera                                                                                                                       |
 
 ---
 
@@ -216,127 +216,251 @@ This quote encapsulates Garibaldi's aggressive military philosophy, emphasizing 
 ## References
 
 [^1]: [Giuseppe Garibaldi - Wikipedia](https://en.wikipedia.org/wiki/Giuseppe_Garibaldi)
+
 [^2]: [Giuseppe Garibaldi | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/giuseppe-garibaldi)
+
 [^3]: [Giuseppe Garibaldi | Biography, Redshirts, Significance, & Facts | Britannica](https://www.britannica.com/biography/Giuseppe-Garibaldi)
+
 [^4]: [Giuseppe Garibaldi Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/giuseppe-garibaldi-6796.php)
+
 [^5]: [Giuseppe Garibaldi - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Giuseppe_Garibaldi)
+
 [^6]: [Learn Giuseppe Garibaldi facts for kids](https://kids.kiddle.co/Giuseppe_Garibaldi)
+
 [^7]: [Giuseppe Garibaldi: Biography, Unification of Italy, Facts, Family](https://en.italy4.me/famous-italians/giuseppe-garibaldi.html)
+
 [^8]: [Giuseppe Garibaldi | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/giuseppe-garibaldi)
+
 [^9]: [Garibaldi, Giuseppe - Kids | Britannica Kids | Homework Help](https://kids.britannica.com/kids/article/Garibaldi-Giuseppe/353165)
+
 [^10]: [Giuseppe Garibaldi: Italy's Hero of Unification](https://www.understandingitaly.com/giuseppe-garibaldi.html)
+
 [^11]: [Giuseppe Garibaldi Biography | Biography Online](https://biographyonline.net/politicians/europe/giuseppe-garibaldi.html)
+
 [^12]: [Garibaldi](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=garibaldi)
+
 [^13]: [Italian Unification: Role of Mazzini, Garibaldi and Cavour](https://glimpsesofhistory.com/italian-unification-role-of-mazzini-garibaldi-and-cavour/)
+
 [^14]: [Garibaldi, Giuseppe (1807–1882) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/garibaldi-giuseppe-1807-1882)
+
 [^15]: [GIUSEPPE GARIBALDI, (1807–1882). - War History](https://warhistory.org/@msw/article/giuseppe-garibaldi-1807-1882)
+
 [^16]: [Giuseppe Garibaldi, July 4, 1807 – June 2, 1882: Godfather of Transnational Democratic Politics | Association of World Citizens](https://awcungeneva.com/2022/07/04/giuseppe-garibaldi-july-4-1807-june-2-1882-godfather-of-transnational-democratic-politics/)
+
 [^17]: [Garibaldi in South America: An Exploration by Richard Bourne - review](https://literaryreview.co.uk/the-gaucho-who-unified-italy)
+
 [^18]: [Garibaldi in South America - Richard Bourne - Oxford University Press](https://global.oup.com/academic/product/garibaldi-in-south-america-9781787383135)
+
 [^19]: [Garibaldi in South America - An Exploration - Forza Garibaldi](https://www.forzagaribaldi.com/garibaldi-in-south-america-an-exploration/)
+
 [^20]: [Who was General Giuseppe Garibaldi?](https://www.garibaldimeuccimuseum.com/garibaldi)
+
 [^21]: [Giuseppe Garibaldi | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Giuseppe_Garibaldi)
-[^22]: [Redshirts (Italy) - Wikipedia](https://en.wikipedia.org/wiki/Redshirts_(Italy))
+
+[^22]: [Redshirts (Italy) - Wikipedia](<https://en.wikipedia.org/wiki/Redshirts_(Italy)>)
+
 [^23]: [Giuseppe Garibaldi and the Italian Red Shirts - Warfare History Network](https://warfarehistorynetwork.com/article/giuseppe-garibaldi-and-the-redshirts/)
+
 [^24]: [Timeline: Giuseppe Garibaldi | Timetoast](https://www.timetoast.com/timelines/giuseppe-garibaldi--2)
+
 [^25]: [Giuseppe Garibaldi](https://globhistory.org/en/country/djuzeppe_garibaldi)
+
 [^26]: [Giuseppe Garibaldi 1807 – 1882 | Sue Young Histories](https://www.sueyounghistories.com/2009-01-30-giuseppe-garibaldi-1807-e28093-1882/)
+
 [^27]: [The Father of Modern Italy: Giuseppe Garibaldi and the Italian Unification — The History Corner](https://www.thehistorycorner.org/articles-by-the-team/the-father-of-modern-italy-giuseppe-garibaldi-and-the-italian-unification)
+
 [^28]: [Giuseppe Garibaldi - Italian Unification, Risorgimento, Hero | Britannica](https://www.britannica.com/biography/Giuseppe-Garibaldi/Kingdom-of-Italy)
+
 [^29]: [Unification of Italy - Wikipedia](https://en.wikipedia.org/wiki/Unification_of_Italy)
+
 [^30]: [Giuseppe Garibaldi timeline | Timetoast Timelines](https://www.timetoast.com/timelines/giuseppe-garibaldi--4)
+
 [^31]: [Siege of Rome (1849) | Garibaldi, Description, & Significance | Britannica](https://www.britannica.com/event/Siege-of-Rome-1849)
+
 [^32]: [Garibaldi's Defence of the Roman Republic](https://romeartlover.tripod.com/Garibald.html)
-[^33]: [Siege of Rome (1849) | Historica Wiki | Fandom](https://historica.fandom.com/wiki/Siege_of_Rome_(1849))
-[^34]: [Roman Republic (1849–1850) - Wikipedia](https://en.wikipedia.org/wiki/Roman_Republic_(1849–1850))
+
+[^33]: [Siege of Rome (1849) | Historica Wiki | Fandom](<https://historica.fandom.com/wiki/Siege_of_Rome_(1849)>)
+
+[^34]: [Roman Republic (1849–1850) - Wikipedia](<https://en.wikipedia.org/wiki/Roman_Republic_(1849–1850)>)
+
 [^35]: [Giuseppe Garibaldi](https://www.esercito.difesa.it/en/History/pagine/giuseppe-garibaldi.aspx)
+
 [^36]: [Giuseppe Garibaldi Definition - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/giuseppe-garibaldi)
+
 [^37]: [Expedition of the Thousand - Wikipedia](https://en.wikipedia.org/wiki/Expedition_of_the_Thousand)
+
 [^38]: [The Expedition of the Thousand - War History](https://warhistory.org/@msw/article/the-expedition-of-the-thousand)
+
 [^39]: [Garibaldi's Redshirts Land in Sicily | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/garibaldis-redshirts-land-sicily)
+
 [^40]: [Italy - Garibaldi, Thousand, Unification | Britannica](https://www.britannica.com/place/Italy/Garibaldi-and-the-Thousand)
+
 [^41]: [Expedition of the Thousand | Italian Unification Campaign | Britannica](https://www.britannica.com/event/Expedition-of-the-Thousand)
+
 [^42]: [Expedition of the Thousand | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Expedition_of_the_Thousand)
+
 [^43]: [Expedition of the Thousand facts for kids](https://kids.kiddle.co/Expedition_of_the_Thousand)
+
 [^44]: [Guiseppe Garibaldi](https://academic.mu.edu/meissnerd/garibaldi.html)
+
 [^45]: [Expedition of the Thousand | Historica Wiki | Fandom](https://historica.fandom.com/wiki/Expedition_of_the_Thousand)
+
 [^46]: [Italian unification Cavour Garibaldi Victor Emmanuel Risorgimento Italy essay](https://www.age-of-the-sage.org/history/italian_unification.html)
+
 [^47]: [Giuseppe Garibaldi](https://www.passione-italiana.com/garibaldi/)
+
 [^48]: [Giuseppe Garibaldi to President Lincoln | American Battlefield Trust](https://www.battlefields.org/learn/primary-sources/giuseppe-garibaldi-president-lincoln)
+
 [^49]: [Garibaldi And Lincoln (October 1975, Volume 26, Issue 6)](https://www.americanheritage.com/garibaldi-and-lincoln)
+
 [^50]: [Could Giuseppe Garibaldi Have Ended the American Civil War? | by Paul Combs | Medium](https://paulcombs.medium.com/could-giuseppe-garibaldi-have-ended-the-amercivil-war-1cf35ab48097)
+
 [^51]: [Army of the Vosges - Wikipedia](https://en.wikipedia.org/wiki/Army_of_the_Vosges)
+
 [^52]: [Franco-Prussian War 1870-1871 | French Foreign Legion Information](http://foreignlegion.info/franco-prussian-war-1870-1871/)
+
 [^53]: [Franco-Prussian War - Wikipedia](https://en.wikipedia.org/wiki/Franco-Prussian_War)
+
 [^54]: [Rethinking Garibaldi](https://www.h-net.org/reviews/showrev.php?id=43276)
+
 [^55]: [Garibaldi's Dictatorship: The Reality of Government, May–November 1860](https://academic.oup.com/book/4027/chapter/145671800)
+
 [^56]: [25. Giuseppe Garibaldi, the Man and his Monument : GET READY FOR ROME!](https://getreadyforrome.com/podcast/episode-13-giuseppe-garibaldi-the-man-and-his-monument/)
+
 [^57]: [Revisionism of Risorgimento - Wikipedia](https://en.wikipedia.org/wiki/Revisionism_of_Risorgimento)
+
 [^58]: [Contributed Scholarship | Garibaldi and the Risorgimento](https://library.brown.edu/cds/garibaldi/resources/scholarship/Pecout.php)
+
 [^59]: [' Roma o morte ': Garibaldi, Nationalism and the Problem of Psycho-biography](https://muse.jhu.edu/pub/8/article/169726/pdf)
+
 [^60]: [Giuseppe Garibaldi: The Contradictory Life of Italy's National Hero | SchoolTube](https://www.schooltube.com/giuseppe-garibaldi-the-contradictory-life-of-italys-national-hero/)
+
 [^61]: [The Mazzini Affair](https://sanfelesesocietynj.org/History%20Articles/The%20Assumption%20Articles/The_Mazzini_Affair.htm)
+
 [^62]: [Cavour and Garibaldi - The Unification of Italy](https://brainly.com/topic/history/cavour-and-garibaldi)
+
 [^63]: [Heritage History - Products](https://www.heritage-history.com/index.php?c=resources&s=study-qdiv&h=modern_europe&f=italy)
+
 [^64]: [Italy was united by the heart of Mazzini, the sword of Garibaldi and the brain of Cavour. Elucidate. (15 Marks) - Civilsdaily](https://www.civilsdaily.com/mains/italy-was-united-by-the-heart-of-mazzini-the-sword-of-garibaldi-and-the-brain-of-cavour-elucidate-15-marks/)
+
 [^65]: [29. The Monument to Garibaldi and the Roman Republic of 1849 : GET READY FOR ROME!](https://getreadyforrome.com/podcast/episode-16-the-monument-to-garibaldi-and-the-roman-republic-of-1849/)
+
 [^66]: [Family tree of Giuseppe GARIBALDI - Geneastar](https://en.geneastar.org/genealogy/garibaldig/giuseppe-garibaldi)
+
 [^67]: [Garibaldi and the surgeons - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1281464/)
+
 [^68]: [Biography of Giuseppe Garibaldi (1807-1882) - Historia Mundum](https://historiamundum.com/giuseppe-garibaldi)
+
 [^69]: [Giuseppe Garibaldi (1807 - 1882) - Genealogy](https://www.geni.com/people/Giuseppe-Garibaldi/6000000011327774732)
+
 [^70]: [Giuseppe Garibaldi Family History & Historical Records - MyHeritage](https://www.myheritage.com/names/giuseppe_garibaldi)
+
 [^71]: [The Life of Giuseppe Garibaldi, Italian](https://www.italiaoutdoors.com/index.php/sign-up-information/744-history-of-italy/history-of-the-kingdom-of-italy/1293-history-garibalidi)
+
 [^72]: [Garibaldi and the Roman Republic – History Moments](https://historyweblog.com/2017/03/pope-flees-rome/)
+
 [^73]: [Giuseppe Garibaldi — Google Arts & Culture](https://artsandculture.google.com/entity/giuseppe-garibaldi/m096vr?hl=en)
+
 [^74]: [House of Garibaldi Caprera, the last years of the Hero - dovevado.net](https://dovevado.net/en/house-of-garibaldi-caprera-the-last-years-of-the-hero/)
+
 [^75]: [Caprera - Wikipedia](https://en.wikipedia.org/wiki/Caprera)
+
 [^76]: [The Island of the General | The Happy Hermit](https://andreasmoser.blog/2017/11/20/caprera/)
+
 [^77]: [The Legacy of Giuseppe Garibaldi in Modern Italy](https://www.mexicohistorico.com/paginas/the-legacy-of-giuseppe-garibaldi-in-modern-italy-5323b70a.html)
+
 [^78]: [Giuseppe Garibaldi Was a Proud Internationalist](https://jacobin.com/2024/06/giuseppe-garibaldi-internationalism-socialism-slavery)
+
 [^79]: [Garibaldi and Mazzini: Anticlericalism, Laicism, and the Concept of a National Religion](https://www.degruyterbrill.com/document/doi/10.1515/9783110688283-005/html?lang=en)
+
 [^80]: [Anti-Catholicism and the Culture War in Risorgimento Italy | Request PDF](https://www.researchgate.net/publication/304680589_Anti-Catholicism_and_the_Culture_War_in_Risorgimento_Italy)
+
 [^81]: [Centuries of Secrecy | TIME](https://time.com/archive/6856429/centuries-of-secrecy/)
+
 [^82]: ["Masons in Italy: The Borderland Between Fanaticism and Liberty"](https://dialnet.unirioja.es/descarga/articulo/5285152.pdf)
+
 [^83]: [Anti-clericalism - Wikipedia](https://en.wikipedia.org/wiki/Anti-clericalism)
+
 [^84]: [Garibaldi, Giuseppe (1807-1882)](https://www.ohio.edu/chastain/dh/gari.htm)
+
 [^85]: [Giuseppe Garibaldi Definition - World History – 1400 to Present Key Term | Fiveable](https://fiveable.me/key-terms/world-history-since-1400/giuseppe-garibaldi)
+
 [^86]: [Giuseppe Garibaldi (1807–1882) | U.S. Senate](https://www.senate.gov/art-artifacts/fine-art/sculpture/21_00007_000.htm)
+
 [^87]: [Garibaldi: Citizen of the World: A Biography](https://press.princeton.edu/books/hardcover/9780691115405/garibaldi)
+
 [^88]: [Giuseppe Garibaldi - leader of the insurgents in Brazil, Uruguay and Italy - 1882. | History.info](https://history.info/on-this-day/giuseppe-garibaldi-leader-of-the-insurgents-in-brazil-uruguay-and-italy-1882/)
+
 [^89]: [Death notice for Giuseppe Garibaldi and relics from the Island of Caprera - Museum of the Risorgimento - Lucca](https://museodelrisorgimento.provincia.lucca.it/en/works/death-notice-for-giuseppe-garibaldi-and-relics-from-the-island-of-caprera/)
+
 [^90]: [Giusepe Garibaldi Biography - Life of Italian General & Politician](https://totallyhistory.com/giusepe-garibaldi/)
+
 [^91]: [Giuseppe Garibaldi](https://timenote.info/en/Giuseppe-Garibaldi)
+
 [^92]: [Historical Documents - Office of the Historian](https://history.state.gov/historicaldocuments/frus1882/d250)
+
 [^93]: [What if...Garibaldi Had Commanded the Union Army? - Emerging Civil War](https://emergingcivilwar.com/2022/08/06/what-if-garibaldi-had-commanded-the-union-army/)
+
 [^94]: [Garibaldi and the American Civil War - Life in Italy](https://lifeinitaly.com/garibaldi-american-civil-war/)
+
 [^95]: [Giuseppe Garibaldi (1807–1882) | U.S. Senate PDF](https://www.govinfo.gov/content/pkg/GPO-CDOC-107sdoc11/pdf/GPO-CDOC-107sdoc11-2-48.pdf)
+
 [^96]: [Army of the Vosges](https://grokipedia.com/page/Army_of_the_Vosges)
+
 [^97]: [Giuseppe Garibaldi asked by Lincoln to run army | American Civil War Forums](https://civilwartalk.com/threads/giuseppe-garibaldi-asked-by-lincoln-to-run-army.100024/)
+
 [^98]: [WI: Giuseppe Garibaldi fights for the Union | alternatehistory.com](https://www.alternatehistory.com/forum/threads/wi-giuseppe-garibaldi-fights-for-the-union.475678/)
-[^99]: [Battle of Dijon (1870)](https://grokipedia.com/page/Battle_of_Dijon_(1870))
+
+[^99]: [Battle of Dijon (1870)](<https://grokipedia.com/page/Battle_of_Dijon_(1870)>)
+
 [^100]: [Franco-Prussian War - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Franco-Prussian_War)
+
 [^101]: [33. The Monument to Garibaldi and his "Expedition of the Thousand" in 1860 : GET READY FOR ROME!](https://getreadyforrome.com/podcast/episode-20-the-monument-to-garibaldi-and-his-expedition-of-the-thousand-in-1860/)
+
 [^102]: [Expedition of the Thousand 1860-61](https://onwar.com/data/thethousand1860.html)
+
 [^103]: [Garibaldi's Defence of the Roman Republic](https://www.romeartlover.it/Garibald.html)
+
 [^104]: [The siege of Rome, defended by Mazzini and Garibaldi](https://www.histecon.magd.cam.ac.uk/coins_october2016.html)
+
 [^105]: [Garibaldi's Defense of the Roman Republic 1848 to 1849 by George Macaulay Trevelyan | Goodreads](https://www.goodreads.com/book/show/2094667.Garibaldi_s_Defense_of_the_Roman_Republic_1848_to_1849)
+
 [^106]: [Joseph Marie Garibaldi (1807-1882) | WikiTree FREE Family Tree](https://www.wikitree.com/wiki/Garibaldi-20)
+
 [^107]: [Garibaldi: Citizen of the World: A Biography: Scirocco, Alfonso, Cameron, Allan: 9780691115405: Amazon.com: Books](https://www.amazon.com/Garibaldi-Citizen-Biography-Alfonso-Scirocco/dp/0691115400)
+
 [^108]: [Giuseppe Garibaldi - Students | Britannica Kids | Homework Help](https://kids.britannica.com/students/article/Giuseppe-Garibaldi/274499)
+
 [^109]: [Italian Americans in the American Civil War - Wikipedia](https://en.wikipedia.org/wiki/Italian_Americans_in_the_Civil_War)
+
 [^110]: [Garibaldi's Red Shirts - (AP European History) - Vocab, Definition, Explanations | Fiveable](https://library.fiveable.me/key-terms/ap-euro/garibaldis-red-shirts)
+
 [^111]: [The History Place - Great Speeches Collection: Giuseppe Garibaldi Speech - Encouraging His Soldiers](https://www.historyplace.com/speeches/garibaldi.htm)
+
 [^112]: [Anti-clericalism and Freemasonry - Wikipedia](https://en.wikipedia.org/wiki/Anticlericalism_and_Freemasonry)
+
 [^113]: [Was Giuseppe Garibaldi a socialist? - Quora](https://www.quora.com/Was-Giuseppe-Garibaldi-a-socialist)
+
 [^114]: [L E A D E R S H I P S T R AT E G Y C O N F L I C T GARIBALDI R O N F I E L D](https://ciia-historia-militar.iniseg.es/administracion/public/uploads/adjuntos/garibaldi.pdf)
+
 [^115]: [Giuseppe Garibaldi Quotes - BrainyQuote](https://www.brainyquote.com/authors/giuseppe-garibaldi-quotes)
+
 [^116]: [TOP 17 QUOTES BY GIUSEPPE GARIBALDI | A-Z Quotes](https://www.azquotes.com/author/5345-Giuseppe_Garibaldi)
+
 [^117]: [15 of the Best Quotes By Giuseppe Garibaldi | Quoteikon](https://www.quoteikon.com/giuseppe-garibaldi-quotes.html)
+
 [^118]: [Giuseppe Garibaldi - Wikiquote](https://en.wikiquote.org/wiki/Giuseppe_Garibaldi)
+
 [^119]: [Giuseppe Garibaldi Quotes](https://www.brainyquote.com/quotes/giuseppe_garibaldi_205832)
+
 [^120]: [Giuseppe Garibaldi Quotes & Sayings (13 Quotations)](https://www.picturequotes.com/giuseppe-garibaldi-quotes)
+
 [^121]: [Giuseppe Garibaldi (1807-1882), Italian Soldier, inspiring quotations, biography, related authors and quotes, and quotes about at Quote.org](https://quote.org/author/giuseppe_garibaldi)
+
 [^122]: [15+ Giuseppe Garibaldi Quotes about education, art, death - QUOTLR](https://quotlr.com/author/giuseppe-garibaldi)
+
 [^123]: [80 Giuseppe Garibaldi Quotes you probably don't know - HistoryForce](https://historyforce.com/80-giuseppe-garibaldi-quotes-you-probably-dont-know/)
+
 [^124]: [Giuseppe Garibaldi Quotes. QuotesGram](https://quotesgram.com/giuseppe-garibaldi-quotes/)
+
 [^125]: [Category:Portrait paintings of Giuseppe Garibaldi - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Portrait_paintings_of_Giuseppe_Garibaldi)

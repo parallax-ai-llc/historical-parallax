@@ -145,32 +145,32 @@ Some scholars argue that Juárez's legacy has been cynically manipulated by late
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1806 | Born March 21 in San Pablo Guelatao, Oaxaca, to Zapotec indigenous parents |
-| 1809 | Orphaned at age three when both parents die |
-| 1818 | Moves to Oaxaca City at age twelve to pursue education |
-| 1821 | Enrolls in Seminary of Santa Cruz |
-| 1827 | Leaves seminary and enrolls at Institute of Arts and Sciences to study law |
-| 1834 | Receives law degree and begins legal practice defending indigenous communities |
-| 1843 | Marries Margarita Maza |
-| 1847 | Becomes interim governor of Oaxaca |
-| 1848 | Elected governor of Oaxaca for full term |
-| 1853 | Arrested and exiled by Santa Anna dictatorship; flees to New Orleans |
-| 1855 | Returns to Mexico after Revolution of Ayutla; appointed Minister of Justice |
-| 1855 | Authors Ley Juárez limiting military and ecclesiastical court jurisdiction |
-| 1857 | Liberal Constitution of 1857 promulgated, incorporating Reform principles |
-| 1858 | Becomes constitutional president as Chief Justice when Comonfort resigns; War of Reform begins |
-| 1859 | Issues Reform Laws from Veracruz nationalizing church property and establishing civil marriage |
-| 1861 | Liberal forces win War of Reform; Juárez returns to Mexico City |
-| 1862 | French intervention begins; Mexican victory at Battle of Puebla (Cinco de Mayo) |
-| 1863 | French forces occupy Mexico City; Juárez establishes government-in-exile |
-| 1864 | Maximilian arrives in Mexico as French-imposed emperor |
-| 1865-1867 | Conducts government-in-exile from northern Mexico while resisting French occupation |
-| 1867 | French forces withdraw; Maximilian captured and executed; Republic restored |
-| 1867 | Re-elected president in controversial election |
-| 1871 | Margarita Maza dies; Juárez re-elected president amid opposition from Porfirio Díaz |
-| 1872 | Dies of heart attack July 18 at National Palace in Mexico City while still in office |
+| Year      | Event                                                                                          |
+| --------- | ---------------------------------------------------------------------------------------------- |
+| 1806      | Born March 21 in San Pablo Guelatao, Oaxaca, to Zapotec indigenous parents                     |
+| 1809      | Orphaned at age three when both parents die                                                    |
+| 1818      | Moves to Oaxaca City at age twelve to pursue education                                         |
+| 1821      | Enrolls in Seminary of Santa Cruz                                                              |
+| 1827      | Leaves seminary and enrolls at Institute of Arts and Sciences to study law                     |
+| 1834      | Receives law degree and begins legal practice defending indigenous communities                 |
+| 1843      | Marries Margarita Maza                                                                         |
+| 1847      | Becomes interim governor of Oaxaca                                                             |
+| 1848      | Elected governor of Oaxaca for full term                                                       |
+| 1853      | Arrested and exiled by Santa Anna dictatorship; flees to New Orleans                           |
+| 1855      | Returns to Mexico after Revolution of Ayutla; appointed Minister of Justice                    |
+| 1855      | Authors Ley Juárez limiting military and ecclesiastical court jurisdiction                     |
+| 1857      | Liberal Constitution of 1857 promulgated, incorporating Reform principles                      |
+| 1858      | Becomes constitutional president as Chief Justice when Comonfort resigns; War of Reform begins |
+| 1859      | Issues Reform Laws from Veracruz nationalizing church property and establishing civil marriage |
+| 1861      | Liberal forces win War of Reform; Juárez returns to Mexico City                                |
+| 1862      | French intervention begins; Mexican victory at Battle of Puebla (Cinco de Mayo)                |
+| 1863      | French forces occupy Mexico City; Juárez establishes government-in-exile                       |
+| 1864      | Maximilian arrives in Mexico as French-imposed emperor                                         |
+| 1865-1867 | Conducts government-in-exile from northern Mexico while resisting French occupation            |
+| 1867      | French forces withdraw; Maximilian captured and executed; Republic restored                    |
+| 1867      | Re-elected president in controversial election                                                 |
+| 1871      | Margarita Maza dies; Juárez re-elected president amid opposition from Porfirio Díaz            |
+| 1872      | Dies of heart attack July 18 at National Palace in Mexico City while still in office           |
 
 ---
 
@@ -200,112 +200,112 @@ This statement justified his continuation in office during the French Interventi
 
 ## References
 
-[^1]: Hamnett, Brian R. *Juárez*. London: Longman, 1994, pp. 1-8.
+[^1]: Hamnett, Brian R. _Juárez_. London: Longman, 1994, pp. 1-8.
 
-[^2]: Roeder, Ralph. *Juárez and His Mexico*. New York: Viking Press, 1947, pp. 12-20.
+[^2]: Roeder, Ralph. _Juárez and His Mexico_. New York: Viking Press, 1947, pp. 12-20.
 
-[^3]: Weeks, Charles A. *The Juárez Myth in Mexico*. Tuscaloosa: University of Alabama Press, 1987, pp. 15-22.
+[^3]: Weeks, Charles A. _The Juárez Myth in Mexico_. Tuscaloosa: University of Alabama Press, 1987, pp. 15-22.
 
-[^4]: Cadenhead, Ivie E. *Benito Juárez*. New York: Twayne Publishers, 1973, pp. 18-25.
+[^4]: Cadenhead, Ivie E. _Benito Juárez_. New York: Twayne Publishers, 1973, pp. 18-25.
 
-[^5]: Smart, Charles Allen. *Viva Juárez! A Biography*. London: Eyre & Spottiswoode, 1964, pp. 35-48.
+[^5]: Smart, Charles Allen. _Viva Juárez! A Biography_. London: Eyre & Spottiswoode, 1964, pp. 35-48.
 
-[^6]: Hamnett, *Juárez*, pp. 28-45.
+[^6]: Hamnett, _Juárez_, pp. 28-45.
 
-[^7]: Sinkin, Richard N. *The Mexican Reform, 1855-1876: A Study in Liberal Nation-Building*. Austin: Institute of Latin American Studies, University of Texas, 1979, pp. 42-55.
+[^7]: Sinkin, Richard N. _The Mexican Reform, 1855-1876: A Study in Liberal Nation-Building_. Austin: Institute of Latin American Studies, University of Texas, 1979, pp. 42-55.
 
-[^8]: Knowlton, Robert J. *Church Property and the Mexican Reform, 1856-1910*. DeKalb: Northern Illinois University Press, 1976, pp. 23-38.
+[^8]: Knowlton, Robert J. _Church Property and the Mexican Reform, 1856-1910_. DeKalb: Northern Illinois University Press, 1976, pp. 23-38.
 
-[^9]: Hale, Charles A. *Mexican Liberalism in the Age of Mora, 1821-1853*. New Haven: Yale University Press, 1968, pp. 245-267.
+[^9]: Hale, Charles A. _Mexican Liberalism in the Age of Mora, 1821-1853_. New Haven: Yale University Press, 1968, pp. 245-267.
 
-[^10]: Costeloe, Michael P. *Church and State in Independent Mexico: A Study of the Patronage Debate 1821-1857*. London: Royal Historical Society, 1978, pp. 156-178.
+[^10]: Costeloe, Michael P. _Church and State in Independent Mexico: A Study of the Patronage Debate 1821-1857_. London: Royal Historical Society, 1978, pp. 156-178.
 
-[^11]: Knowlton, *Church Property and the Mexican Reform*, pp. 89-125.
+[^11]: Knowlton, _Church Property and the Mexican Reform_, pp. 89-125.
 
-[^12]: Ridley, Jasper. *Maximilian and Juárez*. New York: Ticknor & Fields, 1992, pp. 88-112.
+[^12]: Ridley, Jasper. _Maximilian and Juárez_. New York: Ticknor & Fields, 1992, pp. 88-112.
 
-[^13]: Scholes, Walter V. *Mexican Politics During the Juárez Regime, 1855-1872*. Columbia: University of Missouri Press, 1957, pp. 134-167.
+[^13]: Scholes, Walter V. _Mexican Politics During the Juárez Regime, 1855-1872_. Columbia: University of Missouri Press, 1957, pp. 134-167.
 
-[^14]: Pani, Erika. "Dreaming of a Mexican Empire: The Political Projects of the 'Imperialistas.'" *Hispanic American Historical Review* 82, no. 1 (2002): 1-31.
+[^14]: Pani, Erika. "Dreaming of a Mexican Empire: The Political Projects of the 'Imperialistas.'" _Hispanic American Historical Review_ 82, no. 1 (2002): 1-31.
 
-[^15]: Bazant, Jan. *A Concise History of Mexico from Hidalgo to Cárdenas, 1805-1940*. Cambridge: Cambridge University Press, 1977, pp. 68-85.
+[^15]: Bazant, Jan. _A Concise History of Mexico from Hidalgo to Cárdenas, 1805-1940_. Cambridge: Cambridge University Press, 1977, pp. 68-85.
 
-[^16]: Krauze, Enrique. *Mexico: Biography of Power*. Translated by Hank Heifetz. New York: HarperCollins, 1997, pp. 156-178.
+[^16]: Krauze, Enrique. _Mexico: Biography of Power_. Translated by Hank Heifetz. New York: HarperCollins, 1997, pp. 156-178.
 
-[^17]: Scholes, *Mexican Politics During the Juárez Regime*, pp. 189-215.
+[^17]: Scholes, _Mexican Politics During the Juárez Regime_, pp. 189-215.
 
-[^18]: Perry, Laurens Ballard. *Juárez and Díaz: Machine Politics in Mexico*. DeKalb: Northern Illinois University Press, 1978, pp. 78-95.
+[^18]: Perry, Laurens Ballard. _Juárez and Díaz: Machine Politics in Mexico_. DeKalb: Northern Illinois University Press, 1978, pp. 78-95.
 
-[^19]: Dabbs, Jack Autrey. *The French Army in Mexico, 1861-1867*. The Hague: Mouton, 1963, pp. 234-256.
+[^19]: Dabbs, Jack Autrey. _The French Army in Mexico, 1861-1867_. The Hague: Mouton, 1963, pp. 234-256.
 
-[^20]: Katz, Friedrich, ed. *Riot, Rebellion, and Revolution: Rural Social Conflict in Mexico*. Princeton: Princeton University Press, 1988, pp. 145-167.
+[^20]: Katz, Friedrich, ed. _Riot, Rebellion, and Revolution: Rural Social Conflict in Mexico_. Princeton: Princeton University Press, 1988, pp. 145-167.
 
-[^21]: Knight, Alan. "El liberalismo mexicano desde la Reforma hasta la Revolución (una interpretación)." *Historia Mexicana* 35, no. 1 (1985): 59-91.
+[^21]: Knight, Alan. "El liberalismo mexicano desde la Reforma hasta la Revolución (una interpretación)." _Historia Mexicana_ 35, no. 1 (1985): 59-91.
 
-[^22]: Schmitt, Karl M. *Mexico and the United States, 1821-1973: Conflict and Coexistence*. New York: John Wiley & Sons, 1974, pp. 78-92.
+[^22]: Schmitt, Karl M. _Mexico and the United States, 1821-1973: Conflict and Coexistence_. New York: John Wiley & Sons, 1974, pp. 78-92.
 
-[^23]: Roeder, *Juárez and His Mexico*, pp. 456-478.
+[^23]: Roeder, _Juárez and His Mexico_, pp. 456-478.
 
-[^24]: Smart, *Viva Juárez!*, pp. 312-328.
+[^24]: Smart, _Viva Juárez!_, pp. 312-328.
 
-[^25]: Hamnett, *Juárez*, pp. 234-245.
+[^25]: Hamnett, _Juárez_, pp. 234-245.
 
-[^26]: Cadenhead, *Benito Juárez*, pp. 145-158.
+[^26]: Cadenhead, _Benito Juárez_, pp. 145-158.
 
-[^27]: De la Peña, Guillermo. "A New Mexican Nationalism? Indigenous Rights, Constitutional Reform and the Conflicting Meanings of Multiculturalism." *Nations and Nationalism* 12, no. 2 (2006): 279-302.
+[^27]: De la Peña, Guillermo. "A New Mexican Nationalism? Indigenous Rights, Constitutional Reform and the Conflicting Meanings of Multiculturalism." _Nations and Nationalism_ 12, no. 2 (2006): 279-302.
 
-[^28]: Roeder, *Juárez and His Mexico*, pp. 689-702.
+[^28]: Roeder, _Juárez and His Mexico_, pp. 689-702.
 
-[^29]: Weeks, *The Juárez Myth in Mexico*, pp. 134-167.
+[^29]: Weeks, _The Juárez Myth in Mexico_, pp. 134-167.
 
-[^30]: Brading, David A. "Liberal Patriotism and the Mexican Reforma." *Journal of Latin American Studies* 20, no. 1 (1988): 27-48.
+[^30]: Brading, David A. "Liberal Patriotism and the Mexican Reforma." _Journal of Latin American Studies_ 20, no. 1 (1988): 27-48.
 
-[^31]: Knight, Alan. "The Myth of the Mexican Revolution." *Past & Present* 209, no. 1 (2010): 223-273.
+[^31]: Knight, Alan. "The Myth of the Mexican Revolution." _Past & Present_ 209, no. 1 (2010): 223-273.
 
-[^32]: O'Malley, Ilene V. *The Myth of the Revolution: Hero Cults and the Institutionalization of the Mexican State, 1920-1940*. New York: Greenwood Press, 1986, pp. 89-112.
+[^32]: O'Malley, Ilene V. _The Myth of the Revolution: Hero Cults and the Institutionalization of the Mexican State, 1920-1940_. New York: Greenwood Press, 1986, pp. 89-112.
 
-[^33]: Tenorio-Trillo, Mauricio. *History and Celebration: Mexico and Its Centennials*. Wilmington, DE: SR Books, 2002, pp. 156-178.
+[^33]: Tenorio-Trillo, Mauricio. _History and Celebration: Mexico and Its Centennials_. Wilmington, DE: SR Books, 2002, pp. 156-178.
 
-[^34]: Phelan, John Leddy. "Pan-Latinism, French Intervention in Mexico (1861-1867) and the Genesis of the Idea of Latin America." *Conciencia y autenticidad históricas: Escritos en homenaje a Edmundo O'Gorman* (1968): 279-298.
+[^34]: Phelan, John Leddy. "Pan-Latinism, French Intervention in Mexico (1861-1867) and the Genesis of the Idea of Latin America." _Conciencia y autenticidad históricas: Escritos en homenaje a Edmundo O'Gorman_ (1968): 279-298.
 
-[^35]: Campbell, Howard. "Drug Trafficking Stories: Everyday Forms of Narco-Folklore on the U.S.-Mexico Border." *International Journal of Drug Policy* 16, no. 5 (2005): 326-333.
+[^35]: Campbell, Howard. "Drug Trafficking Stories: Everyday Forms of Narco-Folklore on the U.S.-Mexico Border." _International Journal of Drug Policy_ 16, no. 5 (2005): 326-333.
 
-[^36]: Krauze, *Mexico: Biography of Power*, p. 177.
+[^36]: Krauze, _Mexico: Biography of Power_, p. 177.
 
-[^37]: Vázquez, Josefina Zoraida. "Political Plans and Collaboration between Civilians and the Military, 1821-1846." *Bulletin of Latin American Research* 15, no. 1 (1996): 19-38.
+[^37]: Vázquez, Josefina Zoraida. "Political Plans and Collaboration between Civilians and the Military, 1821-1846." _Bulletin of Latin American Research_ 15, no. 1 (1996): 19-38.
 
-[^38]: McNamara, Patrick J. *Sons of the Sierra: Juárez, Díaz, and the People of Ixtlán, Oaxaca, 1855-1920*. Chapel Hill: University of North Carolina Press, 2007, pp. 67-89.
+[^38]: McNamara, Patrick J. _Sons of the Sierra: Juárez, Díaz, and the People of Ixtlán, Oaxaca, 1855-1920_. Chapel Hill: University of North Carolina Press, 2007, pp. 67-89.
 
-[^39]: Hamnett, *Juárez*, p. 215.
+[^39]: Hamnett, _Juárez_, p. 215.
 
-[^40]: Knowlton, *Church Property and the Mexican Reform*, p. 234.
+[^40]: Knowlton, _Church Property and the Mexican Reform_, p. 234.
 
-[^41]: Scholes, *Mexican Politics During the Juárez Regime*, pp. 267-289.
+[^41]: Scholes, _Mexican Politics During the Juárez Regime_, pp. 267-289.
 
-[^42]: Hale, Charles A. *The Transformation of Liberalism in Late Nineteenth-Century Mexico*. Princeton: Princeton University Press, 1989, pp. 134-156.
+[^42]: Hale, Charles A. _The Transformation of Liberalism in Late Nineteenth-Century Mexico_. Princeton: Princeton University Press, 1989, pp. 134-156.
 
-[^43]: Hamill, Hugh M. Jr., ed. *Caudillos: Dictators in Spanish America*. Norman: University of Oklahoma Press, 1992, pp. 178-195.
+[^43]: Hamill, Hugh M. Jr., ed. _Caudillos: Dictators in Spanish America_. Norman: University of Oklahoma Press, 1992, pp. 178-195.
 
 [^44]: De la Peña, "A New Mexican Nationalism?", p. 287.
 
-[^45]: Florescano, Enrique. *National Narratives in Mexico: A History*. Translated by Nancy T. Hancock. Norman: University of Oklahoma Press, 2006, pp. 289-312.
+[^45]: Florescano, Enrique. _National Narratives in Mexico: A History_. Translated by Nancy T. Hancock. Norman: University of Oklahoma Press, 2006, pp. 289-312.
 
 [^46]: Pani, "Dreaming of a Mexican Empire," p. 24.
 
 [^47]: Knight, "The Myth of the Mexican Revolution," p. 245.
 
-[^48]: Discurso del C. Benito Juárez, Presidente de la República, July 15, 1867. In *Exposición de motivos del decreto sobre ocupación del valle nacional*. Mexico City: Imprenta del Gobierno, 1867.
+[^48]: Discurso del C. Benito Juárez, Presidente de la República, July 15, 1867. In _Exposición de motivos del decreto sobre ocupación del valle nacional_. Mexico City: Imprenta del Gobierno, 1867.
 
 [^49]: Informe del Gobernador del Estado de Oaxaca, September 2, 1848. Archivo General del Estado de Oaxaca.
 
-[^50]: Letter from Benito Juárez to Maximilian von Habsburg, May 1867. Reproduced in Roeder, *Juárez and His Mexico*, pp. 645-647.
+[^50]: Letter from Benito Juárez to Maximilian von Habsburg, May 1867. Reproduced in Roeder, _Juárez and His Mexico_, pp. 645-647.
 
-[^51]: Attributed to various speeches during 1867-1870. See Tamayo, Jorge L., ed. *Benito Juárez: Documentos, discursos y correspondencia*. 15 vols. Mexico City: Secretaría del Patrimonio Nacional, 1964-1970, vol. 12, pp. 234-237.
+[^51]: Attributed to various speeches during 1867-1870. See Tamayo, Jorge L., ed. _Benito Juárez: Documentos, discursos y correspondencia_. 15 vols. Mexico City: Secretaría del Patrimonio Nacional, 1964-1970, vol. 12, pp. 234-237.
 
-[^52]: Manifesto to the Nation, January 8, 1861. In Tamayo, *Benito Juárez: Documentos*, vol. 5, pp. 456-459.
+[^52]: Manifesto to the Nation, January 8, 1861. In Tamayo, _Benito Juárez: Documentos_, vol. 5, pp. 456-459.
 
-[^53]: Berry, Charles R. *The Reform in Oaxaca, 1856-76: A Microhistory of the Liberal Revolution*. Lincoln: University of Nebraska Press, 1981.
+[^53]: Berry, Charles R. _The Reform in Oaxaca, 1856-76: A Microhistory of the Liberal Revolution_. Lincoln: University of Nebraska Press, 1981.
 
-[^54]: Stevens, Donald Fithian. *Origins of Instability in Early Republican Mexico*. Durham: Duke University Press, 1991.
+[^54]: Stevens, Donald Fithian. _Origins of Instability in Early Republican Mexico_. Durham: Duke University Press, 1991.
 
-[^55]: Tutino, John. *From Insurrection to Revolution in Mexico: Social Bases of Agrarian Violence, 1750-1940*. Princeton: Princeton University Press, 1986.
+[^55]: Tutino, John. _From Insurrection to Revolution in Mexico: Social Bases of Agrarian Violence, 1750-1940_. Princeton: Princeton University Press, 1986.

@@ -48,12 +48,14 @@ In November 1989, the Berlin Wall fell. Throughout Eastern Europe, communist reg
 The revolution began in Timișoara, a multiethnic city near the Hungarian border:
 
 **December 15-16:**
+
 - Authorities attempted to evict László Tőkés, an ethnic Hungarian Reformed pastor who had criticized the regime
 - Parishioners and supporters gathered to protect him
 - Crowds grew, becoming a broader anti-Ceaușescu protest
 - Security forces attacked with water cannons, tear gas, and eventually gunfire[^7]
 
 **December 17-20:**
+
 - Protests continued despite killings
 - Workers from factories joined
 - December 20: Timișoara declared itself free from communism; Romanian Democratic Front (FDR) formed
@@ -72,12 +74,14 @@ Ceaușescu returned from a state visit to Iran on December 20. On December 21, a
 ### December 22: The Fall
 
 **Morning:**
+
 - Protests erupted throughout Bucharest
 - Defense Minister General Vasile Milea was found dead (officially suicide, but possibly shot for refusing to fire on civilians)
 - Army units began defecting to the revolutionaries
 - Crowds stormed the Central Committee building
 
 **Noon:**
+
 - At 12:06 PM, Nicolae and Elena Ceaușescu fled the roof of the Central Committee building by helicopter
 - Revolutionaries seized the television station
 - Ion Iliescu and the National Salvation Front (FSN) announced they had taken power[^10]
@@ -97,6 +101,7 @@ Between December 22 and 25, chaotic fighting claimed hundreds of lives:
 The Ceaușescus' helicopter landed at Târgoviște after the pilot claimed mechanical problems. They were captured by local military:
 
 **December 25, 1989:**
+
 - A hastily convened "Exceptional Military Tribunal" tried Nicolae and Elena Ceaușescu
 - Charges: genocide (allegedly 64,000 deaths), undermining state power, destroying the economy
 - The trial lasted about an hour; the couple denied the court's legitimacy
@@ -110,17 +115,17 @@ The Ceaușescus' helicopter landed at Târgoviște after the pilot claimed mecha
 
 The Romanian Revolution was the bloodiest of the 1989 revolutions:
 
-| Period | Deaths |
-|--------|--------|
-| December 17-22 (before Ceaușescu's fall) | ~271 |
-| December 22-25 (after Ceaușescu's fall) | ~862 |
-| After December 25 | ~113 |
-| Undated | ~67 |
-| **Total** | **~1,104** |
+| Period                                   | Deaths     |
+| ---------------------------------------- | ---------- |
+| December 17-22 (before Ceaușescu's fall) | ~271       |
+| December 22-25 (after Ceaușescu's fall)  | ~862       |
+| After December 25                        | ~113       |
+| Undated                                  | ~67        |
+| **Total**                                | **~1,104** |
 
 Additionally, over 3,000 people were wounded.[^13]
 
-The fact that most deaths occurred *after* Ceaușescu had fled remains one of the revolution's central mysteries.
+The fact that most deaths occurred _after_ Ceaușescu had fled remains one of the revolution's central mysteries.
 
 ---
 
@@ -128,20 +133,20 @@ The fact that most deaths occurred *after* Ceaușescu had fled remains one of th
 
 ### Ceaușescu Regime
 
-| Name | Role | Fate |
-|------|------|------|
-| Nicolae Ceaușescu | Communist leader 1965-1989 | Executed December 25, 1989 |
-| Elena Ceaușescu | De facto co-ruler | Executed December 25, 1989 |
-| Ion Iliescu | Former communist official | Became president post-revolution |
-| General Vasile Milea | Defense Minister | Died December 22 (suicide or murder) |
+| Name                 | Role                       | Fate                                 |
+| -------------------- | -------------------------- | ------------------------------------ |
+| Nicolae Ceaușescu    | Communist leader 1965-1989 | Executed December 25, 1989           |
+| Elena Ceaușescu      | De facto co-ruler          | Executed December 25, 1989           |
+| Ion Iliescu          | Former communist official  | Became president post-revolution     |
+| General Vasile Milea | Defense Minister           | Died December 22 (suicide or murder) |
 
 ### Revolutionary Figures
 
-| Name | Role |
-|------|------|
-| László Tőkés | Pastor; catalyst for Timișoara protests |
-| Mircea Dinescu | Poet; announced revolution on television |
-| Petre Roman | FSN leader; first post-communist Prime Minister |
+| Name           | Role                                            |
+| -------------- | ----------------------------------------------- |
+| László Tőkés   | Pastor; catalyst for Timișoara protests         |
+| Mircea Dinescu | Poet; announced revolution on television        |
+| Petre Roman    | FSN leader; first post-communist Prime Minister |
 
 ---
 
@@ -150,17 +155,20 @@ The fact that most deaths occurred *after* Ceaușescu had fled remains one of th
 The FSN emerged immediately after Ceaușescu's fall:
 
 **Composition:**
+
 - Former communists (including Ion Iliescu)
 - Intellectuals and dissidents
 - Military officers
 
 **Initial Actions:**
+
 - Abolished death penalty (immediately after Ceaușescu's execution)
 - Promised free elections
 - Dissolved Communist Party
 - Controlled television broadcasts
 
 **Criticism:**
+
 - Seen as "second-echelon communists" seizing power
 - Accused of orchestrating or exploiting the revolution
 - Many FSN leaders had communist backgrounds
@@ -185,6 +193,7 @@ The FSN emerged immediately after Ceaușescu's fall:
 ### Continuing Debate
 
 Thirty-five years later, Romanians still debate:
+
 - Was it a revolution or a coup?
 - Who were the "terrorists"?
 - Why did most deaths occur after Ceaușescu fell?
@@ -213,6 +222,7 @@ Thirty-five years later, Romanians still debate:
 ### European Integration
 
 Despite its troubled transition, Romania:
+
 - Joined NATO in 2004
 - Joined European Union in 2007
 - Remains one of the poorer EU members but has made significant progress
@@ -221,48 +231,68 @@ Despite its troubled transition, Romania:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1965 | Ceaușescu becomes Communist Party leader |
-| 1974 | Ceaușescu becomes President; cult of personality grows |
-| 1980s | Severe austerity; Securitate repression intensifies |
-| November 1989 | Berlin Wall falls; revolutions sweep Eastern Europe |
-| December 16, 1989 | Protests begin in Timișoara defending László Tőkés |
-| December 17, 1989 | Security forces fire on Timișoara protesters |
-| December 20, 1989 | Timișoara declares itself free; Ceaușescu returns from Iran |
-| December 21, 1989 | Ceaușescu's Bucharest rally turns against him |
-| December 22, 1989 | Defense Minister Milea dies; army defects; Ceaușescu flees; FSN takes power |
-| December 22-25, 1989 | Mysterious "terrorist" attacks; 800+ killed |
-| December 25, 1989 | Ceaușescus tried and executed |
-| May 1990 | Ion Iliescu wins presidential election |
-| June 1990 | Mineriad: miners attack pro-democracy protesters |
-| 2004 | Romania joins NATO |
-| 2007 | Romania joins European Union |
-| 2019 | Iliescu charged with crimes against humanity |
-| 2023 | Court approves Iliescu trial |
+| Date                 | Event                                                                       |
+| -------------------- | --------------------------------------------------------------------------- |
+| 1965                 | Ceaușescu becomes Communist Party leader                                    |
+| 1974                 | Ceaușescu becomes President; cult of personality grows                      |
+| 1980s                | Severe austerity; Securitate repression intensifies                         |
+| November 1989        | Berlin Wall falls; revolutions sweep Eastern Europe                         |
+| December 16, 1989    | Protests begin in Timișoara defending László Tőkés                          |
+| December 17, 1989    | Security forces fire on Timișoara protesters                                |
+| December 20, 1989    | Timișoara declares itself free; Ceaușescu returns from Iran                 |
+| December 21, 1989    | Ceaușescu's Bucharest rally turns against him                               |
+| December 22, 1989    | Defense Minister Milea dies; army defects; Ceaușescu flees; FSN takes power |
+| December 22-25, 1989 | Mysterious "terrorist" attacks; 800+ killed                                 |
+| December 25, 1989    | Ceaușescus tried and executed                                               |
+| May 1990             | Ion Iliescu wins presidential election                                      |
+| June 1990            | Mineriad: miners attack pro-democracy protesters                            |
+| 2004                 | Romania joins NATO                                                          |
+| 2007                 | Romania joins European Union                                                |
+| 2019                 | Iliescu charged with crimes against humanity                                |
+| 2023                 | Court approves Iliescu trial                                                |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Romanian Revolution](https://en.wikipedia.org/wiki/Romanian_Revolution)
+
 [^2]: [ENRS - Revolution Timeline](https://enrs.eu/article/romanian-revolution-1989)
-[^3]: [Wikipedia - National Salvation Front](https://en.wikipedia.org/wiki/National_Salvation_Front_(Romania))
+
+[^3]: [Wikipedia - National Salvation Front](<https://en.wikipedia.org/wiki/National_Salvation_Front_(Romania)>)
+
 [^4]: [Britannica - Nicolae Ceaușescu](https://www.britannica.com/biography/Nicolae-Ceausescu)
+
 [^5]: [ADST - Ceaușescu's Romania](https://adst.org/oral-history/romania-1989/)
+
 [^6]: [History.com - Fall of Berlin Wall](https://www.history.com/topics/cold-war/fall-of-berlin-wall)
+
 [^7]: [Wikipedia - Timișoara](https://en.wikipedia.org/wiki/Timișoara_Uprising)
+
 [^8]: [RFE/RL - Timișoara Events](https://www.rferl.org/a/romania-revolution-timisoara/30333508.html)
+
 [^9]: [Monash - Ceaușescu's Speech](https://www.monash.edu/arts/research/romania-1989)
+
 [^10]: [History.com - December 22](https://www.history.com/this-day-in-history/ceausescu-is-overthrown)
+
 [^11]: [Romania Insider - Terrorist Mystery](https://www.romania-insider.com/romanian-revolution-1989-death-toll)
+
 [^12]: [EBSCO - Ceaușescu Execution](https://www.ebscohost.com/academic/ceausescu-trial)
+
 [^13]: [Romania Insider - Death Toll](https://www.romania-insider.com/romanian-revolution-1989-death-toll)
+
 [^14]: [Al Jazeera - Iliescu Charges](https://www.aljazeera.com/news/2019/4/iliescu-charged-crimes-humanity)
+
 [^15]: [The Guardian - Revolution Anniversary](https://www.theguardian.com/world/2019/dec/21/romania-revolution-30-years)
+
 [^16]: [Wikipedia - Romania EU Membership](https://en.wikipedia.org/wiki/Romania_in_the_European_Union)
+
 [^17]: [Grokipedia - Coup Theory](https://grokipedia.com/romanian-revolution-1989)
+
 [^18]: [VOA - Iliescu Trial](https://www.voanews.com/a/romanian-court-approves-iliescu-trial/7282859.html)
+
 [^19]: [The Restless Road - Debate](https://www.therestlessroad.com/romanian-revolution/)
+
 [^20]: [Wikipedia - Mineriad](https://en.wikipedia.org/wiki/Mineriad)
+
 [^21]: [Washington Post - Justice](https://www.washingtonpost.com/world/2019/romania-revolution-justice/)

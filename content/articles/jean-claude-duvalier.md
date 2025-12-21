@@ -143,27 +143,27 @@ International legal scholars have examined the Duvalier case as an important pre
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1951 | Born July 3 in Port-au-Prince, Haiti |
-| 1971 | Becomes President for Life at age 19 following father François Duvalier's death (April 21) |
-| 1971 | Constitutional changes formalize succession and lower age requirements |
-| 1973 | Limited press liberalization begins, attracting international attention |
-| 1975 | Resumed U.S. economic assistance after rapprochement efforts |
-| 1977 | International Monetary Fund and World Bank begin major lending programs to Haiti |
-| 1980 | Marries Michèle Bennett in lavish $3 million ceremony (May 27) |
-| 1981 | Son François Nicolas born |
-| 1982 | Visit of Pope John Paul II to Haiti, who calls for social justice reforms |
-| 1983 | Growing economic crisis and popular discontent despite foreign aid inflows |
-| 1984 | Widespread protests and unrest in Gonaïves and other cities |
-| 1985 | Violent suppression of protests; international criticism intensifies |
-| 1986 | Popular uprising forces Duvalier into exile; flees to France (February 7) |
-| 1986-2011 | Lives in exile in France, maintaining lifestyle with embezzled funds |
-| 1993 | Divorces Michèle Bennett |
-| 2011 | Unexpectedly returns to Haiti (January 16), sparking controversy |
-| 2012 | Charged with corruption and crimes against humanity; legal proceedings begin |
-| 2013 | Court hearings continue slowly; health deteriorates |
-| 2014 | Dies of heart attack in Port-au-Prince (October 4) without facing trial |
+| Year      | Event                                                                                      |
+| --------- | ------------------------------------------------------------------------------------------ |
+| 1951      | Born July 3 in Port-au-Prince, Haiti                                                       |
+| 1971      | Becomes President for Life at age 19 following father François Duvalier's death (April 21) |
+| 1971      | Constitutional changes formalize succession and lower age requirements                     |
+| 1973      | Limited press liberalization begins, attracting international attention                    |
+| 1975      | Resumed U.S. economic assistance after rapprochement efforts                               |
+| 1977      | International Monetary Fund and World Bank begin major lending programs to Haiti           |
+| 1980      | Marries Michèle Bennett in lavish $3 million ceremony (May 27)                             |
+| 1981      | Son François Nicolas born                                                                  |
+| 1982      | Visit of Pope John Paul II to Haiti, who calls for social justice reforms                  |
+| 1983      | Growing economic crisis and popular discontent despite foreign aid inflows                 |
+| 1984      | Widespread protests and unrest in Gonaïves and other cities                                |
+| 1985      | Violent suppression of protests; international criticism intensifies                       |
+| 1986      | Popular uprising forces Duvalier into exile; flees to France (February 7)                  |
+| 1986-2011 | Lives in exile in France, maintaining lifestyle with embezzled funds                       |
+| 1993      | Divorces Michèle Bennett                                                                   |
+| 2011      | Unexpectedly returns to Haiti (January 16), sparking controversy                           |
+| 2012      | Charged with corruption and crimes against humanity; legal proceedings begin               |
+| 2013      | Court hearings continue slowly; health deteriorates                                        |
+| 2014      | Dies of heart attack in Port-au-Prince (October 4) without facing trial                    |
 
 ---
 
@@ -183,35 +183,35 @@ International legal scholars have examined the Duvalier case as an important pre
 
 ## References
 
-[^1]: Ferguson, James. *Papa Doc, Baby Doc: Haiti and the Duvaliers*. Oxford: Basil Blackwell, 1987.
+[^1]: Ferguson, James. _Papa Doc, Baby Doc: Haiti and the Duvaliers_. Oxford: Basil Blackwell, 1987.
 
-[^2]: Abbott, Elizabeth. *Haiti: The Duvaliers and Their Legacy*. New York: McGraw-Hill, 1988.
+[^2]: Abbott, Elizabeth. _Haiti: The Duvaliers and Their Legacy_. New York: McGraw-Hill, 1988.
 
-[^3]: Diederich, Bernard and Al Burt. *Papa Doc and the Tonton Macoutes*. Princeton: Markus Wiener Publishers, 2005.
+[^3]: Diederich, Bernard and Al Burt. _Papa Doc and the Tonton Macoutes_. Princeton: Markus Wiener Publishers, 2005.
 
-[^4]: Heinl, Robert Debs and Nancy Gordon Heinl. *Written in Blood: The Story of the Haitian People 1492-1995*. Lanham: University Press of America, 2005.
+[^4]: Heinl, Robert Debs and Nancy Gordon Heinl. _Written in Blood: The Story of the Haitian People 1492-1995_. Lanham: University Press of America, 2005.
 
-[^5]: Nicholls, David. *From Dessalines to Duvalier: Race, Colour and National Independence in Haiti*. New Brunswick: Rutgers University Press, 1996.
+[^5]: Nicholls, David. _From Dessalines to Duvalier: Race, Colour and National Independence in Haiti_. New Brunswick: Rutgers University Press, 1996.
 
-[^6]: Wilentz, Amy. *The Rainy Season: Haiti Since Duvalier*. New York: Simon & Schuster, 1989.
+[^6]: Wilentz, Amy. _The Rainy Season: Haiti Since Duvalier_. New York: Simon & Schuster, 1989.
 
-[^7]: Lundahl, Mats. *Politics or Markets? Essays on Haitian Underdevelopment*. London: Routledge, 1992.
+[^7]: Lundahl, Mats. _Politics or Markets? Essays on Haitian Underdevelopment_. London: Routledge, 1992.
 
 [^8]: Human Rights Watch. "Haiti: The Duvalier Legacy." New York: Human Rights Watch, 1990.
 
-[^9]: Trouillot, Michel-Rolph. *Haiti: State Against Nation*. New York: Monthly Review Press, 1990.
+[^9]: Trouillot, Michel-Rolph. _Haiti: State Against Nation_. New York: Monthly Review Press, 1990.
 
-[^10]: Rotberg, Robert I. *Haiti's Turmoil: Politics and Policy under Aristide and Clinton*. Cambridge: World Peace Foundation, 2003.
+[^10]: Rotberg, Robert I. _Haiti's Turmoil: Politics and Policy under Aristide and Clinton_. Cambridge: World Peace Foundation, 2003.
 
-[^11]: Dewind, Josh and David H. Kinley III. *Aiding Migration: The Impact of International Development Assistance on Haiti*. Boulder: Westview Press, 1988.
+[^11]: Dewind, Josh and David H. Kinley III. _Aiding Migration: The Impact of International Development Assistance on Haiti_. Boulder: Westview Press, 1988.
 
-[^12]: Dayan, Joan. *Haiti, History, and the Gods*. Berkeley: University of California Press, 1995.
+[^12]: Dayan, Joan. _Haiti, History, and the Gods_. Berkeley: University of California Press, 1995.
 
-[^13]: Fatton, Robert Jr. *Haiti's Predatory Republic: The Unending Transition to Democracy*. Boulder: Lynne Rienner Publishers, 2002.
+[^13]: Fatton, Robert Jr. _Haiti's Predatory Republic: The Unending Transition to Democracy_. Boulder: Lynne Rienner Publishers, 2002.
 
-[^14]: Farmer, Paul. *The Uses of Haiti*. Monroe: Common Courage Press, 2006.
+[^14]: Farmer, Paul. _The Uses of Haiti_. Monroe: Common Courage Press, 2006.
 
-[^15]: Dupuy, Alex. *Haiti in the World Economy: Class, Race, and Underdevelopment Since 1700*. Boulder: Westview Press, 1989.
+[^15]: Dupuy, Alex. _Haiti in the World Economy: Class, Race, and Underdevelopment Since 1700_. Boulder: Westview Press, 1989.
 
 [^16]: Amnesty International. "Haiti: Political Imprisonment and Torture." London: Amnesty International, 1984.
 
@@ -219,68 +219,68 @@ International legal scholars have examined the Duvalier case as an important pre
 
 [^18]: Organization of American States. "Report on Haiti's Economic Development and Foreign Debt." Washington, DC: OAS, 1987.
 
-[^19]: French, Howard W. "The Duvaliers: End of a Dynasty?" *The New York Times*, February 9, 1986.
+[^19]: French, Howard W. "The Duvaliers: End of a Dynasty?" _The New York Times_, February 9, 1986.
 
-[^20]: Lundahl, Mats. *Peasants and Poverty: A Study of Haiti*. London: Croom Helm, 1979.
+[^20]: Lundahl, Mats. _Peasants and Poverty: A Study of Haiti_. London: Croom Helm, 1979.
 
 [^21]: Committee to Protect Journalists. "Attacks on the Press: Haiti." New York: CPJ, 1985.
 
 [^22]: Kramer, Paul. "Haiti: Dangerous Crossroads." Cambridge: South End Press, 1995.
 
-[^23]: Lawless, Robert. *Haiti's Bad Press*. Rochester: Schenkman Books, 1992.
+[^23]: Lawless, Robert. _Haiti's Bad Press_. Rochester: Schenkman Books, 1992.
 
-[^24]: Thomson, Ian. *Bonjour Blanc: A Journey Through Haiti*. London: Hutchinson, 1992.
+[^24]: Thomson, Ian. _Bonjour Blanc: A Journey Through Haiti_. London: Hutchinson, 1992.
 
-[^25]: Danticat, Edwidge. *Create Dangerously: The Immigrant Artist at Work*. Princeton: Princeton University Press, 2010.
+[^25]: Danticat, Edwidge. _Create Dangerously: The Immigrant Artist at Work_. Princeton: Princeton University Press, 2010.
 
-[^26]: Greene, Graham. *The Comedians*. New York: Penguin Books, 2005.
+[^26]: Greene, Graham. _The Comedians_. New York: Penguin Books, 2005.
 
-[^27]: Ridgeway, James (ed.). *The Haiti Files: Decoding the Crisis*. Washington, DC: Essential Books, 1994.
+[^27]: Ridgeway, James (ed.). _The Haiti Files: Decoding the Crisis_. Washington, DC: Essential Books, 1994.
 
-[^28]: Podur, Justin. *Haiti's New Dictatorship: The Coup, the Earthquake and the UN Occupation*. London: Pluto Press, 2012.
+[^28]: Podur, Justin. _Haiti's New Dictatorship: The Coup, the Earthquake and the UN Occupation_. London: Pluto Press, 2012.
 
-[^29]: Dubois, Laurent. *Haiti: The Aftershocks of History*. New York: Metropolitan Books, 2012.
+[^29]: Dubois, Laurent. _Haiti: The Aftershocks of History_. New York: Metropolitan Books, 2012.
 
-[^30]: Adams, Patricia. *Odious Debts: Loose Lending, Corruption, and the Third World's Environmental Legacy*. Toronto: Earthscan, 1991.
+[^30]: Adams, Patricia. _Odious Debts: Loose Lending, Corruption, and the Third World's Environmental Legacy_. Toronto: Earthscan, 1991.
 
-[^31]: Stotzky, Irwin P. *Silencing the Guns in Haiti: The Promise of Deliberative Democracy*. Chicago: University of Chicago Press, 1997.
+[^31]: Stotzky, Irwin P. _Silencing the Guns in Haiti: The Promise of Deliberative Democracy_. Chicago: University of Chicago Press, 1997.
 
-[^32]: Concannon, Brian. "Beyond Complementarity: The International Criminal Court and National Prosecutions, A View from Haiti." *Columbia Human Rights Law Review* 32, no. 1 (2000): 201-250.
+[^32]: Concannon, Brian. "Beyond Complementarity: The International Criminal Court and National Prosecutions, A View from Haiti." _Columbia Human Rights Law Review_ 32, no. 1 (2000): 201-250.
 
-[^33]: Kovats-Bernat, J. Christopher. *Sleeping Rough in Port-au-Prince: An Ethnography of Street Children and Violence in Haiti*. Gainesville: University Press of Florida, 2006.
+[^33]: Kovats-Bernat, J. Christopher. _Sleeping Rough in Port-au-Prince: An Ethnography of Street Children and Violence in Haiti_. Gainesville: University Press of Florida, 2006.
 
-[^34]: Schuller, Mark. *Killing with Kindness: Haiti, International Aid, and NGOs*. New Brunswick: Rutgers University Press, 2012.
+[^34]: Schuller, Mark. _Killing with Kindness: Haiti, International Aid, and NGOs_. New Brunswick: Rutgers University Press, 2012.
 
-[^35]: Pierre-Charles, Gérard. *Haiti: Peligros y Posibilidades de una Democracia de Transición*. Mexico City: Universidad Nacional Autónoma de México, 1999.
+[^35]: Pierre-Charles, Gérard. _Haiti: Peligros y Posibilidades de una Democracia de Transición_. Mexico City: Universidad Nacional Autónoma de México, 1999.
 
-[^36]: Aristide, Jean-Bertrand. *In the Parish of the Poor: Writings from Haiti*. Maryknoll: Orbis Books, 1990.
+[^36]: Aristide, Jean-Bertrand. _In the Parish of the Poor: Writings from Haiti_. Maryknoll: Orbis Books, 1990.
 
-[^37]: Shacochis, Bob. *The Immaculate Invasion*. New York: Viking, 1999.
+[^37]: Shacochis, Bob. _The Immaculate Invasion_. New York: Viking, 1999.
 
-[^38]: Girard, Philippe. *Haiti: The Tumultuous History*. New York: Palgrave Macmillan, 2010.
+[^38]: Girard, Philippe. _Haiti: The Tumultuous History_. New York: Palgrave Macmillan, 2010.
 
-[^39]: Bellegarde-Smith, Patrick. *Haiti: The Breached Citadel*. Boulder: Westview Press, 1990.
+[^39]: Bellegarde-Smith, Patrick. _Haiti: The Breached Citadel_. Boulder: Westview Press, 1990.
 
-[^40]: Dash, J. Michael. *Haiti and the United States: National Stereotypes and the Literary Imagination*. New York: St. Martin's Press, 1997.
+[^40]: Dash, J. Michael. _Haiti and the United States: National Stereotypes and the Literary Imagination_. New York: St. Martin's Press, 1997.
 
-[^41]: Castor, Suzy. *L'Occupation Américaine d'Haïti*. Port-au-Prince: Imprimerie Henri Deschamps, 1988.
+[^41]: Castor, Suzy. _L'Occupation Américaine d'Haïti_. Port-au-Prince: Imprimerie Henri Deschamps, 1988.
 
 [^42]: Human Rights Watch. "Haiti: Recycled Violence, the Betrayal of Democracy." New York: HRW, 2011.
 
-[^43]: Maguire, Robert. *Bottom-Up Development in Haiti*. Washington, DC: Inter-American Foundation, 1996.
+[^43]: Maguire, Robert. _Bottom-Up Development in Haiti_. Washington, DC: Inter-American Foundation, 1996.
 
-[^44]: Perusse, Roland I. *Haitian Democracy Restored 1991-1995*. Lanham: University Press of America, 1995.
+[^44]: Perusse, Roland I. _Haitian Democracy Restored 1991-1995_. Lanham: University Press of America, 1995.
 
-[^45]: Deibert, Michael. *Notes from the Last Testament: The Struggle for Haiti*. New York: Seven Stories Press, 2005.
+[^45]: Deibert, Michael. _Notes from the Last Testament: The Struggle for Haiti_. New York: Seven Stories Press, 2005.
 
-[^46]: Stephens, Beth and Michael Ratner. *International Human Rights Litigation in U.S. Courts*. Leiden: Martinus Nijhoff Publishers, 2008.
+[^46]: Stephens, Beth and Michael Ratner. _International Human Rights Litigation in U.S. Courts_. Leiden: Martinus Nijhoff Publishers, 2008.
 
 [^47]: BBC News. "Haiti's 'Baby Doc' Duvalier Returns After 25 Years in Exile." January 17, 2011.
 
 [^48]: The Guardian. "Jean-Claude Duvalier Denies Ordering Atrocities in Haiti." February 28, 2013.
 
-[^49]: *The Miami Herald*. "Baby Doc: A Study in Contrast to Papa Doc." April 22, 1981.
+[^49]: _The Miami Herald_. "Baby Doc: A Study in Contrast to Papa Doc." April 22, 1981.
 
-[^50]: *Time Magazine*. "Haiti: The Son Also Rises." May 10, 1971.
+[^50]: _Time Magazine_. "Haiti: The Son Also Rises." May 10, 1971.
 
-[^51]: *The Washington Post*. "Duvalier Wedding: A $3 Million Extravaganza." May 28, 1980.
+[^51]: _The Washington Post_. "Duvalier Wedding: A $3 Million Extravaganza." May 28, 1980.

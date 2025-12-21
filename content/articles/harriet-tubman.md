@@ -4,7 +4,14 @@ name: "Harriet Tubman"
 birth: "1822-03-01"
 death: "1913-03-10"
 nationality: "United States"
-occupation: ["Abolitionist", "Underground Railroad Conductor", "Union Army Scout and Spy", "Suffragist", "Humanitarian"]
+occupation:
+  [
+    "Abolitionist",
+    "Underground Railroad Conductor",
+    "Union Army Scout and Spy",
+    "Suffragist",
+    "Humanitarian",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Harriet_Tubman%2C_by_Squyer%2C_NPG%2C_c1885.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harriet_Tubman"
@@ -241,35 +248,35 @@ Finally, some critical perspectives note that the focus on Tubman as an individu
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 1822 | Born Araminta "Minty" Ross in Dorchester County, Maryland |
-| c. 1828 | Hired out as a child laborer at age 5-6 |
-| 1833 | Suffered severe head injury from a two-pound weight, causing lifelong seizures |
-| 1844 | Married John Tubman and changed her name to Harriet |
-| Sept 1849 | Escaped from slavery to Philadelphia |
-| 1850 | Made first return trip to Maryland to rescue family members |
-| 1850-1860 | Conducted approximately 13 rescue missions via Underground Railroad |
-| Dec 1854 | Rescued three brothers and others, leading them to Canada |
-| Apr 1858 | Met abolitionist John Brown in Canada, agreed to support his plans |
-| 1859 | Purchased property in Auburn, New York from William H. Seward |
-| Oct 1859 | John Brown's raid on Harpers Ferry (Tubman did not participate due to illness) |
-| Dec 1860 | Made final rescue mission to Maryland, bringing seven people to freedom |
-| 1861 | Enlisted with Union Army as the Civil War began |
-| 1862-1865 | Served as scout, spy, nurse, and cook for Union forces in South Carolina |
-| Jun 2, 1863 | Led Combahee River Raid, liberating approximately 750 enslaved people |
-| 1868 | Sarah Bradford published first biography of Tubman |
-| Mar 18, 1869 | Married Nelson Davis, a Civil War veteran 22 years her junior |
-| 1874 | Adopted daughter Gertie Davis |
-| 1888 | Husband Nelson Davis died of tuberculosis |
-| 1890s | Became active in women's suffrage movement |
-| 1898 | Underwent brain surgery at Massachusetts General Hospital |
-| 1899 | Finally received government pension for her Civil War service |
-| 1908 | Opened Harriet Tubman Home for Aged and Indigent Colored People |
-| Mar 10, 1913 | Died of pneumonia in Auburn, New York, age approximately 91 |
-| 1913 | Buried with military honors at Fort Hill Cemetery |
-| 2016 | U.S. Treasury announced plans to feature Tubman on $20 bill |
-| 2024 | Posthumously commissioned as Brigadier General in Maryland National Guard |
+| Year         | Event                                                                          |
+| ------------ | ------------------------------------------------------------------------------ |
+| c. 1822      | Born Araminta "Minty" Ross in Dorchester County, Maryland                      |
+| c. 1828      | Hired out as a child laborer at age 5-6                                        |
+| 1833         | Suffered severe head injury from a two-pound weight, causing lifelong seizures |
+| 1844         | Married John Tubman and changed her name to Harriet                            |
+| Sept 1849    | Escaped from slavery to Philadelphia                                           |
+| 1850         | Made first return trip to Maryland to rescue family members                    |
+| 1850-1860    | Conducted approximately 13 rescue missions via Underground Railroad            |
+| Dec 1854     | Rescued three brothers and others, leading them to Canada                      |
+| Apr 1858     | Met abolitionist John Brown in Canada, agreed to support his plans             |
+| 1859         | Purchased property in Auburn, New York from William H. Seward                  |
+| Oct 1859     | John Brown's raid on Harpers Ferry (Tubman did not participate due to illness) |
+| Dec 1860     | Made final rescue mission to Maryland, bringing seven people to freedom        |
+| 1861         | Enlisted with Union Army as the Civil War began                                |
+| 1862-1865    | Served as scout, spy, nurse, and cook for Union forces in South Carolina       |
+| Jun 2, 1863  | Led Combahee River Raid, liberating approximately 750 enslaved people          |
+| 1868         | Sarah Bradford published first biography of Tubman                             |
+| Mar 18, 1869 | Married Nelson Davis, a Civil War veteran 22 years her junior                  |
+| 1874         | Adopted daughter Gertie Davis                                                  |
+| 1888         | Husband Nelson Davis died of tuberculosis                                      |
+| 1890s        | Became active in women's suffrage movement                                     |
+| 1898         | Underwent brain surgery at Massachusetts General Hospital                      |
+| 1899         | Finally received government pension for her Civil War service                  |
+| 1908         | Opened Harriet Tubman Home for Aged and Indigent Colored People                |
+| Mar 10, 1913 | Died of pneumonia in Auburn, New York, age approximately 91                    |
+| 1913         | Buried with military honors at Fort Hill Cemetery                              |
+| 2016         | U.S. Treasury announced plans to feature Tubman on $20 bill                    |
+| 2024         | Posthumously commissioned as Brigadier General in Maryland National Guard      |
 
 ---
 
@@ -300,195 +307,387 @@ Context: Instructions Tubman reportedly gave to fugitive slaves during Undergrou
 ## References
 
 [^1]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^2]: [Harriet Tubman | Biography, Facts, & Underground Railroad | Britannica](https://www.britannica.com/biography/Harriet-Tubman)
+
 [^3]: [Army honors female combat pioneer, renowned abolitionist | The United States Army](https://www.army.mil/article/269360/army_honors_female_combat_pioneer_renowned_abolitionist)
+
 [^4]: [Harriet Tubman | American Battlefield Trust](https://www.battlefields.org/learn/biographies/harriet-tubman)
+
 [^5]: [Harriet Tubman Biography | VisitMaryland.org](https://www.visitmaryland.org/article/harriet-tubman-biography)
+
 [^6]: [Harriet Tubman (c. March 1822 - March 10, 1913) | National Archives](https://www.archives.gov/research/african-americans/individuals/harriet-tubman)
+
 [^7]: [Harriet Tubman's family - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman's_family)
+
 [^8]: [Harriet Tubman - Harriet Tubman Byway](https://harriettubmanbyway.org/harriet-tubman/)
+
 [^9]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^10]: [Harriet Tubman - PBS](http://www.pbs.org/wgbh/aia/part4/4p1535.html)
+
 [^11]: [Harriet Tubman (U.S. National Park Service)](https://www.nps.gov/people/harriet-tubman.htm)
+
 [^12]: [Harriet Tubman Biography - Tubman Charter](https://www.tubmancharter.org/apps/pages/index.jsp?uREC_ID=211341&type=d&pREC_ID=468817)
+
 [^13]: [Harriet Tubman: Facts, Underground Railroad & Legacy | HISTORY](https://www.history.com/articles/harriet-tubman)
+
 [^14]: [Harriet Tubman (circa 1822-1913) National Historic Person](https://parks.canada.ca/culture/designation/personnage-person/harriet-tubman)
+
 [^15]: [Harriet Tubman: Famed Abolitionist and Underground Railroad Conductor](https://www.biography.com/activists/harriet-tubman)
+
 [^16]: [Harriet Tubman | Tubman African American Museum](https://tubmanmuseum.com/harriet-tubman/)
+
 [^17]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^18]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^19]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^20]: [Coming of Age and Marriage : Harriet Tubman](http://www.harriet-tubman.org/marriage/)
+
 [^21]: [Harriet Tubman: Famed Abolitionist and Underground Railroad Conductor](https://www.biography.com/activists/harriet-tubman)
+
 [^22]: [Life Story: Harriet Tubman - Women & the American Story](https://wams.nyhistory.org/a-nation-divided/civil-war/harriet-tubman/)
+
 [^23]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^24]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^25]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^26]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^27]: [Harriet Tubman | Timeline | Britannica](https://www.britannica.com/summary/Harriet-Tubman-Timeline)
+
 [^28]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^29]: [Harriet Tubman Quotes (Author of How We Get Free)](https://www.goodreads.com/author/quotes/59710.Harriet_Tubman)
+
 [^30]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^31]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^32]: [Harriet Tubman | Biography, Facts, & Underground Railroad | Britannica](https://www.britannica.com/biography/Harriet-Tubman)
+
 [^33]: [10 Facts: Harriet Tubman | American Battlefield Trust](https://www.battlefields.org/learn/articles/10-facts-harriet-tubman)
+
 [^34]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^35]: [Harriet Tubman | American Battlefield Trust](https://www.battlefields.org/learn/biographies/harriet-tubman)
+
 [^36]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^37]: [Harriet Tubman - Harriet Tubman Byway](https://harriettubmanbyway.org/harriet-tubman/)
+
 [^38]: [Quotes : Harriet Tubman](http://www.harriet-tubman.org/quotes/)
+
 [^39]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^40]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^41]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^42]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^43]: [Harriet Tubman: Timeline of Her Life, Underground Rail Service and Activism](https://www.biography.com/activists/harriet-tubman-timeline-facts)
+
 [^44]: [Timeline: Harriet Tubman | Timetoast](https://www.timetoast.com/timelines/harriet-tubman-022dcfcd-df55-4db6-b4d2-0b5923a20a42)
+
 [^45]: [Harriet Tubman Timeline - Dates and Events](https://www.datesandevents.org/people-timelines/18-harriet-tubman-timeline.htm)
+
 [^46]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^47]: [Harriet Tubman | Biography, Facts, & Underground Railroad | Britannica](https://www.britannica.com/biography/Harriet-Tubman)
+
 [^48]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^49]: [Harriet Tubman Quotes - BrainyQuote](https://www.brainyquote.com/authors/harriet-tubman-quotes)
+
 [^50]: [Harriet Tubman | American Battlefield Trust](https://www.battlefields.org/learn/biographies/harriet-tubman)
+
 [^51]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^52]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^53]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^54]: [10 Facts: Harriet Tubman | American Battlefield Trust](https://www.battlefields.org/learn/articles/10-facts-harriet-tubman)
+
 [^55]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^56]: [Harriet Tubman Day: A timeline of her life and legacy | CNN](https://www.cnn.com/2020/03/10/us/harriet-tubman-timeline-trnd/index.html)
+
 [^57]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^58]: [Harriet Tubman | Achievements | Britannica](https://www.britannica.com/summary/Harriet-Tubmans-Achievements)
+
 [^59]: [Harriet Tubman and the 54th Massachusetts (U.S. National Park Service)](https://www.nps.gov/articles/harriet-tubman-and-the-54th-massachusetts.htm)
+
 [^60]: [Army honors female combat pioneer, renowned abolitionist | The United States Army](https://www.army.mil/article/269360/army_honors_female_combat_pioneer_renowned_abolitionist)
+
 [^61]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^62]: [Army honors female combat pioneer, renowned abolitionist | The United States Army](https://www.army.mil/article/269360/army_honors_female_combat_pioneer_renowned_abolitionist)
+
 [^63]: [10 Facts: Harriet Tubman | American Battlefield Trust](https://www.battlefields.org/learn/articles/10-facts-harriet-tubman)
+
 [^64]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^65]: [Army honors female combat pioneer, renowned abolitionist | The United States Army](https://www.army.mil/article/269360/army_honors_female_combat_pioneer_renowned_abolitionist)
+
 [^66]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^67]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^68]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^69]: [Harriet Tubman Timeline - Dates and Events](https://www.datesandevents.org/people-timelines/18-harriet-tubman-timeline.htm)
+
 [^70]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^71]: [Legacy — Harriet Tubman Home](https://www.harriettubmanhome.com/legacy)
+
 [^72]: [Harriet Tubman and Women's Rights : Harriet Tubman](http://www.harriet-tubman.org/women-rights-suffrage/)
+
 [^73]: [Harriet Tubman and her fight for racial and gender equality | Leeds Beckett University](https://www.leedsbeckett.ac.uk/blogs/lbu-together/2021/03/international-womens-day-harriet-tubman/)
+
 [^74]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^75]: [Legacy — Harriet Tubman Home](https://www.harriettubmanhome.com/legacy)
+
 [^76]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^77]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^78]: [Harriet Tubman | Biography, Facts, & Underground Railroad | Britannica](https://www.britannica.com/biography/Harriet-Tubman)
+
 [^79]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^80]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^81]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^82]: [Harriet Tubman - Wikiquote](https://en.wikiquote.org/wiki/Harriet_Tubman)
+
 [^83]: [Harriet Tubman - Wikiquote](https://en.wikiquote.org/wiki/Harriet_Tubman)
+
 [^84]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^85]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^86]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^87]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^88]: [Honoring the legacy of Brigadier General Harriet Tubman](https://www.wmar2news.com/bridgingthegap/honoring-the-legacy-of-brigadier-general-harriet-tubman)
+
 [^89]: [Harriet Tubman: History Behind Celebrations of Her Legacy | TIME](https://time.com/4698096/harriet-tubmans-legacy-hasnt-always-been-celebrated-heres-what-changed/)
+
 [^90]: [Harriet Tubman: History Behind Celebrations of Her Legacy | TIME](https://time.com/4698096/harriet-tubmans-legacy-hasnt-always-been-celebrated-heres-what-changed/)
+
 [^91]: [Harriet Tubman- Niharika Sharma - Studies of Black History at USD](https://sites.sandiego.edu/blackhistoryatusd/2020/05/12/harriet-tubman-niharika-sharma/)
+
 [^92]: [Harriet Tubman: History Behind Celebrations of Her Legacy | TIME](https://time.com/4698096/harriet-tubmans-legacy-hasnt-always-been-celebrated-heres-what-changed/)
+
 [^93]: [Harriet Tubman: History Behind Celebrations of Her Legacy | TIME](https://time.com/4698096/harriet-tubmans-legacy-hasnt-always-been-celebrated-heres-what-changed/)
+
 [^94]: [Harriet Tubman- Niharika Sharma - Studies of Black History at USD](https://sites.sandiego.edu/blackhistoryatusd/2020/05/12/harriet-tubman-niharika-sharma/)
+
 [^95]: [National Park Service removes references to Harriet Tubman from 'Underground Railroad' webpage | CNN](https://www.cnn.com/2025/04/06/us/national-parks-underground-railroad-harriet-tubman)
+
 [^96]: [National Park Service No Longer Whitewashing History Of Harriet Tubman And Underground Railroad](https://www.vibe.com/news/national/national-park-reverses-revisions-harriet-tubman-history-1235060297/)
+
 [^97]: [Harriet Tubman: The Road to Freedom | Journal of American History](https://academic.oup.com/jah/article-abstract/92/1/216/783266)
+
 [^98]: [Harriet Tubman: The Road to Freedom | Journal of American History](https://academic.oup.com/jah/article-abstract/92/1/216/783266)
+
 [^99]: [Harriet Tubman's family - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman's_family)
+
 [^100]: [Coming of Age and Marriage : Harriet Tubman](http://www.harriet-tubman.org/marriage/)
+
 [^101]: [Harriet Tubman's family - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman's_family)
+
 [^102]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^103]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^104]: [Harriet Tubman's family - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman's_family)
+
 [^105]: [Harriet Tubman's family - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman's_family)
+
 [^106]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^107]: [Harriet Tubman's family - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman's_family)
+
 [^108]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^109]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^110]: [Harriet Tubman | Women's History](https://www.womenshistory.org/education-resources/biographies/harriet-tubman)
+
 [^111]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^112]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^113]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^114]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^115]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^116]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^117]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^118]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^119]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^120]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^121]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^122]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^123]: [Harriet Tubman Quotes - BrainyQuote](https://www.brainyquote.com/authors/harriet-tubman-quotes)
+
 [^124]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^125]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^126]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^127]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^128]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^129]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^130]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^131]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^132]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^133]: [Legacy — Harriet Tubman Home](https://www.harriettubmanhome.com/legacy)
+
 [^134]: [Harriet Tubman Day: A timeline of her life and legacy | CNN](https://www.cnn.com/2020/03/10/us/harriet-tubman-timeline-trnd/index.html)
+
 [^135]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^136]: [Harriet Tubman timeline - University at Buffalo](https://math.buffalo.edu/~sww/0history/hwny-tubman.html)
+
 [^137]: [Harriet Tubman: Life, Liberty and Legacy | NMAAHC](https://nmaahc.si.edu/explore/stories/harriet-tubman)
+
 [^138]: [Harriet Tubman: Life, Liberty and Legacy | NMAAHC](https://nmaahc.si.edu/explore/stories/harriet-tubman)
+
 [^139]: [Harriet Tubman's Story - National Parks Conservation Association](https://www.npca.org/articles/2162-harriet-tubman-s-story)
+
 [^140]: [An Activist for the Ages | The Current](https://news.ucsb.edu/2020/019759/activist-ages)
+
 [^141]: [An Activist for the Ages | The Current](https://news.ucsb.edu/2020/019759/activist-ages)
+
 [^142]: [Harriet Tubman's Impact on American History - Black History Month 2025](https://www.blackhistorymonth.org.uk/article/section/history-of-slavery/harriet-tubmans-impact-on-american-history-from-the-underground-railroad-to-womens-suffrage/)
+
 [^143]: [Harriet Tubman's Impact on American History - Black History Month 2025](https://www.blackhistorymonth.org.uk/article/section/history-of-slavery/harriet-tubmans-impact-on-american-history-from-the-underground-railroad-to-womens-suffrage/)
+
 [^144]: [Harriet Tubman's Impact on American History - Black History Month 2025](https://www.blackhistorymonth.org.uk/article/section/history-of-slavery/harriet-tubmans-impact-on-american-history-from-the-underground-railroad-to-womens-suffrage/)
+
 [^145]: [The Timeless Tale of Tubman: A 200 Year Legacy](https://www.womenshistory.org/articles/timeless-tale-tubman-legacy)
+
 [^146]: [Harriet Tubman Lesson | UMD College of Education](https://education.umd.edu/harriet-tubman-lesson)
+
 [^147]: [Harriet Tubman's Legacy on Maryland's Eastern Shore - The Conservation Fund](https://www.conservationfund.org/our-impact/projects/harriet-tubmans-legacy-grows-on-marylands-eastern-shore/)
+
 [^148]: [The Timeless Tale of Tubman: A 200 Year Legacy](https://www.womenshistory.org/articles/timeless-tale-tubman-legacy)
+
 [^149]: [Honoring the legacy of Brigadier General Harriet Tubman](https://www.wmar2news.com/bridgingthegap/honoring-the-legacy-of-brigadier-general-harriet-tubman)
+
 [^150]: [Honoring the legacy of Brigadier General Harriet Tubman](https://www.wmar2news.com/bridgingthegap/honoring-the-legacy-of-brigadier-general-harriet-tubman)
+
 [^151]: [Honoring the legacy of Brigadier General Harriet Tubman](https://www.wmar2news.com/bridgingthegap/honoring-the-legacy-of-brigadier-general-harriet-tubman)
+
 [^152]: [Harriet Tubman and her fight for racial and gender equality | Leeds Beckett University](https://www.leedsbeckett.ac.uk/blogs/lbu-together/2021/03/international-womens-day-harriet-tubman/)
+
 [^153]: [Harriet Tubman and Women's Rights : Harriet Tubman](http://www.harriet-tubman.org/women-rights-suffrage/)
+
 [^154]: [An Activist for the Ages | The Current](https://news.ucsb.edu/2020/019759/activist-ages)
+
 [^155]: [An Activist for the Ages | The Current](https://news.ucsb.edu/2020/019759/activist-ages)
+
 [^156]: [The Timeless Tale of Tubman: A 200 Year Legacy](https://www.womenshistory.org/articles/timeless-tale-tubman-legacy)
+
 [^157]: [Harriet Tubman: Life, Liberty and Legacy | NMAAHC](https://nmaahc.si.edu/explore/stories/harriet-tubman)
+
 [^158]: [Harriet Tubman's Impact on American History - Black History Month 2025](https://www.blackhistorymonth.org.uk/article/section/history-of-slavery/harriet-tubmans-impact-on-american-history-from-the-underground-railroad-to-womens-suffrage/)
+
 [^159]: [The Timeless Tale of Tubman: A 200 Year Legacy](https://www.womenshistory.org/articles/timeless-tale-tubman-legacy)
+
 [^160]: [Harriet Tubman's Impact on American History - Black History Month 2025](https://www.blackhistorymonth.org.uk/article/section/history-of-slavery/harriet-tubmans-impact-on-american-history-from-the-underground-railroad-to-womens-suffrage/)
+
 [^161]: [Harriet Tubman: Life, Liberty and Legacy | NMAAHC](https://nmaahc.si.edu/explore/stories/harriet-tubman)
+
 [^162]: [The debate to fix an outdated and incorrect Harriet Tubman historic marker : NPR](https://www.npr.org/2024/04/22/1246429854/the-debate-to-fix-an-outdated-an-incorrect-harriet-tubman-historic-marker)
+
 [^163]: [National Park Service No Longer Whitewashing History Of Harriet Tubman And Underground Railroad](https://www.vibe.com/news/national/national-park-reverses-revisions-harriet-tubman-history-1235060297/)
+
 [^164]: [Harriet Tubman: Life, Liberty and Legacy | NMAAHC](https://nmaahc.si.edu/explore/stories/harriet-tubman)
+
 [^165]: [Harriet Tubman: The Road to Freedom | Journal of American History](https://academic.oup.com/jah/article-abstract/92/1/216/783266)
+
 [^166]: [Harriet Tubman: The Road to Freedom | Journal of American History](https://academic.oup.com/jah/article-abstract/92/1/216/783266)
+
 [^167]: [An Activist for the Ages | The Current](https://news.ucsb.edu/2020/019759/activist-ages)
+
 [^168]: [An Activist for the Ages | The Current](https://news.ucsb.edu/2020/019759/activist-ages)
+
 [^169]: [Harriet Tubman - Sandra Edmonds Crewe, 2006](https://journals.sagepub.com/doi/abs/10.1177/0886109905285773)
+
 [^170]: [Harriet Tubman - Sandra Edmonds Crewe, 2006](https://journals.sagepub.com/doi/abs/10.1177/0886109905285773)
+
 [^171]: [An Activist for the Ages | The Current](https://news.ucsb.edu/2020/019759/activist-ages)
+
 [^172]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^173]: [Harriet Tubman's Impact on American History - Black History Month 2025](https://www.blackhistorymonth.org.uk/article/section/history-of-slavery/harriet-tubmans-impact-on-american-history-from-the-underground-railroad-to-womens-suffrage/)
+
 [^174]: [Harriet Tubman: A Legacy of Resistance on JSTOR](https://www.jstor.org/stable/10.2979/meridians.12.2.1)
+
 [^175]: [The Timeless Tale of Tubman: A 200 Year Legacy](https://www.womenshistory.org/articles/timeless-tale-tubman-legacy)
+
 [^176]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^177]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^178]: [The debate to fix an outdated and incorrect Harriet Tubman historic marker : NPR](https://www.npr.org/2024/04/22/1246429854/the-debate-to-fix-an-outdated-an-incorrect-harriet-tubman-historic-marker)
+
 [^179]: [The debate to fix an outdated and incorrect Harriet Tubman historic marker : NPR](https://www.npr.org/2024/04/22/1246429854/the-debate-to-fix-an-outdated-an-incorrect-harriet-tubman-historic-marker)
+
 [^180]: [Harriet Tubman: The Road to Freedom | Journal of American History](https://academic.oup.com/jah/article-abstract/92/1/216/783266)
+
 [^181]: [Harriet Tubman - Wikiquote](https://en.wikiquote.org/wiki/Harriet_Tubman)
+
 [^182]: [The Truths Behind the Myth of Harriet Tubman](https://www.maxwell.syr.edu/news/article/the-truths-behind-the-myth-of-harriet-tubman)
+
 [^183]: [Harriet Tubman- Niharika Sharma - Studies of Black History at USD](https://sites.sandiego.edu/blackhistoryatusd/2020/05/12/harriet-tubman-niharika-sharma/)
+
 [^184]: [Harriet Tubman- Niharika Sharma - Studies of Black History at USD](https://sites.sandiego.edu/blackhistoryatusd/2020/05/12/harriet-tubman-niharika-sharma/)
+
 [^185]: [Harriet Tubman: History Behind Celebrations of Her Legacy | TIME](https://time.com/4698096/harriet-tubmans-legacy-hasnt-always-been-celebrated-heres-what-changed/)
+
 [^186]: [National Park Service removes references to Harriet Tubman from 'Underground Railroad' webpage | CNN](https://www.cnn.com/2025/04/06/us/national-parks-underground-railroad-harriet-tubman)
+
 [^187]: [National Park Service No Longer Whitewashing History Of Harriet Tubman And Underground Railroad](https://www.vibe.com/news/national/national-park-reverses-revisions-harriet-tubman-history-1235060297/)
+
 [^188]: [Harriet Tubman - Wikipedia](https://en.wikipedia.org/wiki/Harriet_Tubman)
+
 [^189]: [Harriet Tubman Quotes - BrainyQuote](https://www.brainyquote.com/authors/harriet-tubman-quotes)
+
 [^190]: [Harriet Tubman Quotes (Author of How We Get Free)](https://www.goodreads.com/author/quotes/59710.Harriet_Tubman)
+
 [^191]: [Harriet Tubman Quotes - BrainyQuote](https://www.brainyquote.com/authors/harriet-tubman-quotes)
+
 [^192]: [Harriet Tubman Quotes (Author of How We Get Free)](https://www.goodreads.com/author/quotes/59710.Harriet_Tubman)
+
 [^193]: [45 Harriet Tubman Quotes on Slavery and Freedom - Parade](https://parade.com/1331514/kaigreen/harriet-tubman-quotes/)

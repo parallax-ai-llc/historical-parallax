@@ -215,31 +215,31 @@ These criticisms suggest that while Kangxi was undoubtedly an exceptionally capa
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1654 | Born on May 4 in Jingren Palace, Forbidden City, Beijing |
-| 1661 | Ascended to throne at age seven following father's death from smallpox |
-| 1661-1667 | Regency period under four advisers appointed by his father |
-| 1662 | Ordered the Great Clearance in southern China against Ming loyalists |
-| 1667 | Began attending to affairs of state at age thirteen |
-| 1669 | Arrested regent Oboi and took personal control of government on June 14 |
-| 1669 | Commanded public test of European versus Chinese astronomy |
-| 1670 | Issued the Sacred Edict with sixteen maxims for moral guidance |
-| 1673 | Wu Sangui rebelled, beginning the Revolt of the Three Feudatories |
-| 1674 | First Empress Xiaochengren died giving birth to son Yinreng |
-| 1681 | Successfully suppressed the Revolt of the Three Feudatories |
-| 1683 | Conquered Taiwan; Kingdom of Tungning surrendered in October |
-| 1688 | Grand Empress Dowager Xiaozhuang (his grandmother) died |
-| 1689 | Signed Treaty of Nerchinsk with Russia on August 27 |
-| 1691 | Met with Khalkha Mongol representatives at Doloon Nuur; received their allegiance |
-| 1696 | Personally commanded military expedition to Outer Mongolia; defeated Dzungars at Dzuunmod |
-| 1705 | Commissioned the Complete Tang Poems (Quan Tangshi) |
-| 1710 | Ordered compilation of the Kangxi Dictionary |
-| 1712 | Froze the land tax and corvée without burdening state treasury |
-| 1716 | Published the Kangxi Dictionary with 47,043 character entries |
-| 1717 | Issued his Valedictory Edict reflecting on his long reign |
-| 1722 | Called seven sons to bedside on evening before death |
-| 1722 | Died on December 20 at age 68; succeeded by fourth son Yinzhen (Yongzheng Emperor) |
+| Year      | Event                                                                                     |
+| --------- | ----------------------------------------------------------------------------------------- |
+| 1654      | Born on May 4 in Jingren Palace, Forbidden City, Beijing                                  |
+| 1661      | Ascended to throne at age seven following father's death from smallpox                    |
+| 1661-1667 | Regency period under four advisers appointed by his father                                |
+| 1662      | Ordered the Great Clearance in southern China against Ming loyalists                      |
+| 1667      | Began attending to affairs of state at age thirteen                                       |
+| 1669      | Arrested regent Oboi and took personal control of government on June 14                   |
+| 1669      | Commanded public test of European versus Chinese astronomy                                |
+| 1670      | Issued the Sacred Edict with sixteen maxims for moral guidance                            |
+| 1673      | Wu Sangui rebelled, beginning the Revolt of the Three Feudatories                         |
+| 1674      | First Empress Xiaochengren died giving birth to son Yinreng                               |
+| 1681      | Successfully suppressed the Revolt of the Three Feudatories                               |
+| 1683      | Conquered Taiwan; Kingdom of Tungning surrendered in October                              |
+| 1688      | Grand Empress Dowager Xiaozhuang (his grandmother) died                                   |
+| 1689      | Signed Treaty of Nerchinsk with Russia on August 27                                       |
+| 1691      | Met with Khalkha Mongol representatives at Doloon Nuur; received their allegiance         |
+| 1696      | Personally commanded military expedition to Outer Mongolia; defeated Dzungars at Dzuunmod |
+| 1705      | Commissioned the Complete Tang Poems (Quan Tangshi)                                       |
+| 1710      | Ordered compilation of the Kangxi Dictionary                                              |
+| 1712      | Froze the land tax and corvée without burdening state treasury                            |
+| 1716      | Published the Kangxi Dictionary with 47,043 character entries                             |
+| 1717      | Issued his Valedictory Edict reflecting on his long reign                                 |
+| 1722      | Called seven sons to bedside on evening before death                                      |
+| 1722      | Died on December 20 at age 68; succeeded by fourth son Yinzhen (Yongzheng Emperor)        |
 
 ---
 
@@ -260,141 +260,279 @@ These criticisms suggest that while Kangxi was undoubtedly an exceptionally capa
 ## References
 
 [^1]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^2]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^3]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^4]: The Kangxi and Qianlong Emperors - Asia for Educators, https://afe.easia.columbia.edu/qing/emperors.html
+
 [^5]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^6]: Kangxi Emperor (1654-1722) of Qing Dynasty Life & History, https://totallyhistory.com/kangxi-emperor/
+
 [^7]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^8]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^9]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^10]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^11]: Kangxi Emperor (1654-1722) of Qing Dynasty Life & History, https://totallyhistory.com/kangxi-emperor/
+
 [^12]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^13]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^14]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^15]: Royal Manchu education during the Qing Dynasty, http://en.pgm.org.cn/2018-08/21/c_770934.htm
+
 [^16]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^17]: Kangxi Emperor (1654-1722) of Qing Dynasty Life & History, https://totallyhistory.com/kangxi-emperor/
+
 [^18]: The Emperor Ascends: The Story of the Illustrious Kangxi - Shen Yun Performing Arts, https://www.shenyun.org/explore/view/article/e/Q9CcRzXxH7A/emperor-kangxi-aobai-manchurian-qing-dynasty
+
 [^19]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^20]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^21]: Prediction and politics in Beijing, 1668: A Jesuit astronomer and his technical resources in a time of crisis - Christopher Cullen, Catherine Jami, 2022, https://journals.sagepub.com/doi/full/10.1177/00218286221114093
+
 [^22]: Prediction and politics in Beijing, 1668, https://journals.sagepub.com/doi/full/10.1177/00218286221114093
+
 [^23]: Ferdinand Verbiest - Wikipedia, https://en.wikipedia.org/wiki/Ferdinand_Verbiest
+
 [^24]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^25]: Revolt of the Three Feudatories - Wikipedia, https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories
+
 [^26]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^27]: Revolt of the Three Feudatories | Chinese history | Britannica, https://www.britannica.com/event/Revolt-of-the-Three-Feudatories
+
 [^28]: Revolt of the Three Feudatories - Wikipedia, https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories
+
 [^29]: Revolt of the Three Feudatories | Military Wiki | Fandom, https://military-history.fandom.com/wiki/Revolt_of_the_Three_Feudatories
+
 [^30]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^31]: Chinese Dynasty: Qing Dynasty's Rise to Height of Prosperity, https://pandaist.com/blog/en/chinese-dynasty-qing-dynastys-rise-to-height-of-pr
+
 [^32]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^33]: Revolt of the Three Feudatories - Wikipedia, https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories
+
 [^34]: Treaty of Nerchinsk - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Nerchinsk
+
 [^35]: Kangxi emperor summary | Britannica, https://www.britannica.com/summary/Kangxi
+
 [^36]: Treaty of Nerchinsk | Sino-Russian, Border Agreement, 1689 | Britannica, https://www.britannica.com/event/Treaty-of-Nerchinsk
+
 [^37]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^38]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^39]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^40]: Complete Tang Poems - Wikipedia, https://en.wikipedia.org/wiki/Complete_Tang_Poems
+
 [^41]: Complete Tang Poems - Wikipedia, https://en.wikipedia.org/wiki/Complete_Tang_Poems
+
 [^42]: Quan Tangshi, commissioned in 1705, https://amp.ww.en.freejournal.org/23633149/1/quan-tangshi.html
+
 [^43]: Kangxi Dictionary - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Dictionary
+
 [^44]: Kangxi Dictionary - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Dictionary
+
 [^45]: Kangxi - Administration, Reforms, Dynasty | Britannica, https://www.britannica.com/biography/Kangxi/Administration-of-the-empire
+
 [^46]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^47]: Escaping the Heat: The Kangxi Emperor's "Imperial Poems on the Summer Resort" | From the Catbird Seat, https://blogs.loc.gov/catbird/2020/09/escaping-the-heat-the-kangxi-emperors-imperial-poems-on-the-summer-resort/
+
 [^48]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^49]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^50]: Emperor Kangxi, the Most Famous Qing Dynasty Emperor, https://www.chinahighlights.com/travelguide/china-history/emperor-kangxi.htm
+
 [^51]: The Enduring Legacy of Emperor Kangxi: A Reign of Transformation and Tenacity – Ancient War History, https://ancientwarhistory.com/the-enduring-legacy-of-emperor-kangxi-a-reign-of-transformation-and-tenacity/
+
 [^52]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^53]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^54]: Sacred Edict of the Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Sacred_Edict_of_the_Kangxi_Emperor
+
 [^55]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^56]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^57]: Ferdinand Verbiest - Wikipedia, https://en.wikipedia.org/wiki/Ferdinand_Verbiest
+
 [^58]: Ferdinand Verbiest - Wikipedia, https://en.wikipedia.org/wiki/Ferdinand_Verbiest
+
 [^59]: Ferdinand Verbiest: Missionary, astronomer, engineer, https://www.discoveringbelgium.com/ferdinand-verbiest/
+
 [^60]: Tribute to Ferdinand Verbiest, friend of the Chinese emperor | FPS Foreign Affairs, https://diplomatie.belgium.be/en/policy/policy-areas/highlighted/tribute-ferdinand-verbiest-friend-chinese-emperor
+
 [^61]: How Catholic Missionaries Brought Science to China : Strange Notions, https://strangenotions.com/how-catholic-missionaries-brought-science-to-china/
+
 [^62]: Western Calendric Astronomy as Statecraft during the Kangxi, https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1060&context=tqc
+
 [^63]: Kangxi - Administration, Reforms, Dynasty | Britannica, https://www.britannica.com/biography/Kangxi/Administration-of-the-empire
+
 [^64]: Rites Controversy: Kangxi Emperor, Timeline | Vaia, https://www.vaia.com/en-us/explanations/history/modern-world-history/rites-controversy/
+
 [^65]: 6.6: Qing Dynasty: Kangxi - Humanities LibreTexts, https://human.libretexts.org/Courses/Lumen_Learning/Book:_History_of_World_Civilization_II-2_(Lumen)/06:_4:_East_Asia/06.6:_Qing_Dynasty:_Kangxi
+
 [^66]: Qing Dynasty: Kangxi – History of World Civilization II, https://library.achievingthedream.org/tccworldciv2/chapter/qing-dynasty-kangxi/
+
 [^67]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^68]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^69]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^70]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^71]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^72]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^73]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^74]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^75]: What were some of the negative effects of the Emperor Kangxi's rule? - Quora, https://www.quora.com/What-were-some-of-the-negative-effects-of-the-Emperor-Kangxi-s-rule
+
 [^76]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^77]: Political Events and Developments During the Qing Dynasty (1644-1912), https://pages.uoregon.edu/inaasim/Hist 487/Spring 06/Qing Dynasty.htm
+
 [^78]: What were some of the negative effects of the Emperor Kangxi's rule? - Quora, https://www.quora.com/What-were-some-of-the-negative-effects-of-the-Emperor-Kangxi-s-rule
+
 [^79]: What were some of the negative effects of the Emperor Kangxi's rule? - Quora, https://www.quora.com/What-were-some-of-the-negative-effects-of-the-Emperor-Kangxi-s-rule
+
 [^80]: The Mysteries of the Forbidden City's Imperial Harem, https://chinaforbiddencity.com/the-mysteries-of-the-forbidden-citys-imperial-harem/
+
 [^81]: Kangxi Emperor - The Longest Reigning Monarch in Chinese History | ChinaFetching, https://www.chinafetching.com/kang-xi-emperor-xuan-ye
+
 [^82]: Kangxi Emperor - The Longest Reigning Monarch in Chinese History | ChinaFetching, https://www.chinafetching.com/kang-xi-emperor-xuan-ye
+
 [^83]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^84]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^85]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^86]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^87]: Royal Manchu education during the Qing Dynasty, http://en.pgm.org.cn/2018-08/21/c_770934.htm
+
 [^88]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^89]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^90]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^91]: Ancient China: Kangxi Emperor Biography, https://www.ducksters.com/history/china/kangxi_emperor.php
+
 [^92]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^93]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^94]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^95]: KANGXI'S VALEDICTORY EDICT, 1717, http://www1.udel.edu/History-old/figal/Hist104/assets/pdf/readings/05kangxivaledict.pdf
+
 [^96]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^97]: The Kangxi and Qianlong Emperors - Asia for Educators, https://afe.easia.columbia.edu/qing/emperors.html
+
 [^98]: 6.6: Qing Dynasty: Kangxi - Humanities LibreTexts, https://human.libretexts.org/Courses/Lumen_Learning/Book:_History_of_World_Civilization_II-2_(Lumen)/06:_4:_East_Asia/06.6:_Qing_Dynasty:_Kangxi
+
 [^99]: Promulgation of the Sacred Edict | Research Starters | EBSCO Research, https://www.ebsco.com/research-starters/politics-and-government/promulgation-sacred-edict
+
 [^100]: Kangxi Dictionary - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Dictionary
+
 [^101]: Complete Tang Poems - Wikipedia, https://en.wikipedia.org/wiki/Complete_Tang_Poems
+
 [^102]: Western Calendric Astronomy as Statecraft during the Kangxi, https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1060&context=tqc
+
 [^103]: The Enduring Legacy of Emperor Kangxi: A Reign of Transformation and Tenacity – Ancient War History, https://ancientwarhistory.com/the-enduring-legacy-of-emperor-kangxi-a-reign-of-transformation-and-tenacity/
+
 [^104]: Emperor Kangxi Definition - History of Modern China Key Term | Fiveable, https://fiveable.me/key-terms/history-modern-china/emperor-kangxi
+
 [^105]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^106]: Treaty of Nerchinsk - Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Nerchinsk
+
 [^107]: The Kangxi and Qianlong Emperors - Asia for Educators, https://afe.easia.columbia.edu/qing/emperors.html
+
 [^108]: 6.6: Qing Dynasty: Kangxi - Humanities LibreTexts, https://human.libretexts.org/Courses/Lumen_Learning/Book:_History_of_World_Civilization_II-2_(Lumen)/06:_4:_East_Asia/06.6:_Qing_Dynasty:_Kangxi
+
 [^109]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^110]: The Kangxi and Qianlong Emperors - Asia for Educators, https://afe.easia.columbia.edu/qing/emperors.html
+
 [^111]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^112]: Emperor Kangxi Definition - History of Modern China Key Term | Fiveable, https://fiveable.me/key-terms/history-modern-china/emperor-kangxi
+
 [^113]: The Kangxi and Qianlong Emperors - Asia for Educators, https://afe.easia.columbia.edu/qing/emperors.html
+
 [^114]: 6.6: Qing Dynasty: Kangxi - Humanities LibreTexts, https://human.libretexts.org/Courses/Lumen_Learning/Book:_History_of_World_Civilization_II-2_(Lumen)/06:_4:_East_Asia/06.6:_Qing_Dynasty:_Kangxi
+
 [^115]: Complete Tang Poems - Wikipedia, https://en.wikipedia.org/wiki/Complete_Tang_Poems
+
 [^116]: Kangxi - Administration, Reforms, Dynasty | Britannica, https://www.britannica.com/biography/Kangxi/Administration-of-the-empire
+
 [^117]: Ferdinand Verbiest - Wikipedia, https://en.wikipedia.org/wiki/Ferdinand_Verbiest
+
 [^118]: Emperor of China Quotes by Kangxi, https://www.goodreads.com/work/quotes/1309537-emperor-of-china-self-portrait-of-k-ang-hsi
+
 [^119]: The Enduring Legacy of Emperor Kangxi: A Reign of Transformation and Tenacity – Ancient War History, https://ancientwarhistory.com/the-enduring-legacy-of-emperor-kangxi-a-reign-of-transformation-and-tenacity/
+
 [^120]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^121]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^122]: Revolt of the Three Feudatories - Wikipedia, https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories
+
 [^123]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^124]: Emperor Kangxi Definition - History of Modern China Key Term | Fiveable, https://fiveable.me/key-terms/history-modern-china/emperor-kangxi
+
 [^125]: The Kangxi and Qianlong Emperors - Asia for Educators, https://afe.easia.columbia.edu/qing/emperors.html
+
 [^126]: 6.6: Qing Dynasty: Kangxi - Humanities LibreTexts, https://human.libretexts.org/Courses/Lumen_Learning/Book:_History_of_World_Civilization_II-2_(Lumen)/06:_4:_East_Asia/06.6:_Qing_Dynasty:_Kangxi
+
 [^127]: Qing Dynasty: Kangxi – History of World Civilization II, https://library.achievingthedream.org/tccworldciv2/chapter/qing-dynasty-kangxi/
+
 [^128]: Kangxi | Emperor of Qing Dynasty, Reformer & Scholar | Britannica, https://www.britannica.com/biography/Kangxi
+
 [^129]: Kangxi Emperor Biography - Facts, Childhood, Family Life & Achievements, https://www.thefamouspeople.com/profiles/kangxi-emperor-38757.php
+
 [^130]: What were some of the negative effects of the Emperor Kangxi's rule? - Quora, https://www.quora.com/What-were-some-of-the-negative-effects-of-the-Emperor-Kangxi-s-rule
+
 [^131]: Political Events and Developments During the Qing Dynasty (1644-1912), https://pages.uoregon.edu/inaasim/Hist 487/Spring 06/Qing Dynasty.htm
+
 [^132]: What were some of the negative effects of the Emperor Kangxi's rule? - Quora, https://www.quora.com/What-were-some-of-the-negative-effects-of-the-Emperor-Kangxi-s-rule
+
 [^133]: Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Kangxi_Emperor
+
 [^134]: The Kangxi and Qianlong Emperors - Asia for Educators, https://afe.easia.columbia.edu/qing/emperors.html
+
 [^135]: Emperor of China Quotes by Kangxi, https://www.goodreads.com/work/quotes/1309537-emperor-of-china-self-portrait-of-k-ang-hsi
+
 [^136]: Emperor of China Quotes by Kangxi, https://www.goodreads.com/work/quotes/1309537-emperor-of-china-self-portrait-of-k-ang-hsi
+
 [^137]: KANGXI'S VALEDICTORY EDICT, 1717, http://www1.udel.edu/History-old/figal/Hist104/assets/pdf/readings/05kangxivaledict.pdf
+
 [^138]: KANGXI'S VALEDICTORY EDICT, 1717, http://www1.udel.edu/History-old/figal/Hist104/assets/pdf/readings/05kangxivaledict.pdf
+
 [^139]: Sacred Edict of the Kangxi Emperor - Wikipedia, https://en.wikipedia.org/wiki/Sacred_Edict_of_the_Kangxi_Emperor

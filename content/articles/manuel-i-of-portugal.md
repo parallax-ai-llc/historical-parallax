@@ -175,38 +175,38 @@ Finally, revisionist historians challenge the "Manuel the Fortunate" narrative i
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1469 | Born in Alcochete, Portugal on May 31 |
-| 1484 | Brother Diogo assassinated by King John II; became Duke of Viseu |
-| 1491 | Prince Afonso killed in riding accident; Manuel became heir to throne |
-| 1495 | Became King of Portugal on October 25, succeeding John II |
-| 1496 | Issued decree on December 5 ordering expulsion of Jews and Muslims |
-| 1497 | Married Isabella of Aragon on September 30 |
-| 1497 | Transformed expulsion into forced conversion of Jews |
-| 1497-99 | Vasco da Gama's voyage to India, sponsored by Manuel |
-| 1498 | Vasco da Gama reached Calicut, India on May 20 |
-| 1498 | Queen Isabella died in childbirth on August 23 |
-| 1500 | Son Miguel da Paz died at age two |
-| 1500 | Pedro Álvares Cabral discovered Brazil on April 22 |
-| 1500 | Married Maria of Aragon on October 30 |
-| 1500 | Established the Casa da Índia to manage trade monopolies |
-| 1502 | Construction began on Jerónimos Monastery |
-| 1505 | Francisco de Almeida became first Viceroy of India |
-| 1505 | Fortress of Santa Cruz founded near Agadir, Morocco |
-| 1506 | Lisbon massacre: 2,000 New Christians killed |
-| 1510 | Afonso de Albuquerque conquered Goa on November 25 |
-| 1511 | Portuguese forces captured Malacca |
-| 1512-13 | Published first version of Manueline Ordinances |
-| 1513 | Azemmour seized in Morocco; Portuguese reached China |
-| 1514 | Construction of Belém Tower completed |
-| 1515 | Portuguese defeat at Mamora, Morocco |
-| 1517 | Queen Maria of Aragon died on March 7 |
-| 1518 | Married Eleanor of Austria on July 16 |
-| 1521 | Published final version of Manueline Ordinances |
-| 1521 | Fell ill with fever on December 4 |
-| 1521 | Died in Lisbon on December 13 at age 52 |
-| 1521 | Succeeded by son John III on December 19 |
+| Year    | Event                                                                 |
+| ------- | --------------------------------------------------------------------- |
+| 1469    | Born in Alcochete, Portugal on May 31                                 |
+| 1484    | Brother Diogo assassinated by King John II; became Duke of Viseu      |
+| 1491    | Prince Afonso killed in riding accident; Manuel became heir to throne |
+| 1495    | Became King of Portugal on October 25, succeeding John II             |
+| 1496    | Issued decree on December 5 ordering expulsion of Jews and Muslims    |
+| 1497    | Married Isabella of Aragon on September 30                            |
+| 1497    | Transformed expulsion into forced conversion of Jews                  |
+| 1497-99 | Vasco da Gama's voyage to India, sponsored by Manuel                  |
+| 1498    | Vasco da Gama reached Calicut, India on May 20                        |
+| 1498    | Queen Isabella died in childbirth on August 23                        |
+| 1500    | Son Miguel da Paz died at age two                                     |
+| 1500    | Pedro Álvares Cabral discovered Brazil on April 22                    |
+| 1500    | Married Maria of Aragon on October 30                                 |
+| 1500    | Established the Casa da Índia to manage trade monopolies              |
+| 1502    | Construction began on Jerónimos Monastery                             |
+| 1505    | Francisco de Almeida became first Viceroy of India                    |
+| 1505    | Fortress of Santa Cruz founded near Agadir, Morocco                   |
+| 1506    | Lisbon massacre: 2,000 New Christians killed                          |
+| 1510    | Afonso de Albuquerque conquered Goa on November 25                    |
+| 1511    | Portuguese forces captured Malacca                                    |
+| 1512-13 | Published first version of Manueline Ordinances                       |
+| 1513    | Azemmour seized in Morocco; Portuguese reached China                  |
+| 1514    | Construction of Belém Tower completed                                 |
+| 1515    | Portuguese defeat at Mamora, Morocco                                  |
+| 1517    | Queen Maria of Aragon died on March 7                                 |
+| 1518    | Married Eleanor of Austria on July 16                                 |
+| 1521    | Published final version of Manueline Ordinances                       |
+| 1521    | Fell ill with fever on December 4                                     |
+| 1521    | Died in Lisbon on December 13 at age 52                               |
+| 1521    | Succeeded by son John III on December 19                              |
 
 ---
 
@@ -227,45 +227,87 @@ While not direct quotes from Manuel himself, his royal decrees and letters revea
 ## References
 
 [^1]: [Manueline Ordinances - Wikipedia](https://en.wikipedia.org/wiki/Manueline_Ordinances)
+
 [^2]: [Manuel I (portugal) | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/manuel-i-portugal)
+
 [^3]: [Casa da Índia - Wikipedia](https://en.wikipedia.org/wiki/Casa_da_%C3%8Dndia)
+
 [^4]: [Manuel I of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Manuel_I_of_Portugal)
+
 [^5]: [Manuel I | King of Portugal & Navigator of the Age of Discovery | Britannica](https://www.britannica.com/biography/Manuel-I)
+
 [^6]: [King Manuel I of Portugal - Portugal.com](https://www.portugal.com/history-and-culture/king-manuel-i-of-portugal/)
+
 [^7]: [Manuel I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/manuel-i)
+
 [^8]: [King Manuel I of Portugal](https://www.lisbon.vip/lisbon-essentials/history-heritage/king-manuel-i)
+
 [^9]: [Vasco da Gama - Ages of Exploration](https://exploration.marinersmuseum.org/subject/vasco-da-gama/)
+
 [^10]: [Portuguese discovery of the sea route to India - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_discovery_of_the_sea_route_to_India)
+
 [^11]: [Persecution of Jews and Muslims by Manuel I of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Persecution_of_Jews_and_Muslims_by_Manuel_I_of_Portugal)
+
 [^12]: [The Persecution of the Jews and Muslims of Portugal - ePrints Soton](https://eprints.soton.ac.uk/58890/)
+
 [^13]: [The Persecution of the Jews and Muslims of Portugal - Reviews in History](https://reviews.history.ac.uk/review/797/)
+
 [^14]: [King Manuel I and the expulsion of the Castilian Conversos and Muslims from Portugal](https://rune.une.edu.au/entities/publication/e4d1dc30-c37a-446c-8994-32e7e9369b15)
+
 [^15]: [Manueline Architecture - Portugal Travel Guide](https://www.travel-in-portugal.com/history/manueline-architecture.htm)
+
 [^16]: [Manueline architecture, the power and the glory](https://www.algarvehistoryassociation.com/en/features/portuguese-culture/120-manueline-architecture-the-power-and-the-glory)
+
 [^17]: [Manueline Architecture in Portugal - Portugal.com](https://www.portugal.com/history-and-culture/manueline-architecture-in-portugal-9-iconic-manueline-landmarks/)
+
 [^18]: [Manueline | Portuguese, Gothic, Renaissance | Britannica](https://www.britannica.com/art/Manueline)
+
 [^19]: [Desperately Seeking Sons: Manuel, Isabella, Maria and Eleanor](https://www.creativehistorian.co.uk/blog/read_198145/desperately-seeking-sons-manuel-isabella-maria-and-eleanor.html)
+
 [^20]: [Descendants of Manuel I of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Descendants_of_Manuel_I_of_Portugal)
+
 [^21]: [Eleanor of Austria, Queen of Portugal - Unofficial Royalty](https://www.unofficialroyalty.com/eleanor-of-austria-queen-of-portugal-queen-of-france/)
+
 [^22]: [Maria of Aragon, Queen of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Maria_of_Aragon,_Queen_of_Portugal)
+
 [^23]: [Pedro Álvares Cabral - Wikipedia](https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral)
+
 [^24]: [Discovery of Brazil - Wikipedia](https://en.wikipedia.org/wiki/Discovery_of_Brazil)
+
 [^25]: [Pedro Alvares Cabral | Accomplishments, Route, & Facts | Britannica](https://www.britannica.com/biography/Pedro-Alvares-Cabral)
+
 [^26]: [Afonso de Albuquerque - Wikipedia](https://en.wikipedia.org/wiki/Afonso_de_Albuquerque)
+
 [^27]: [Portuguese conquest of Goa - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_conquest_of_Goa)
+
 [^28]: [Afonso de Albuquerque | Portuguese Conqueror | Britannica](https://www.britannica.com/biography/Afonso-de-Albuquerque)
+
 [^29]: [Portuguese Viceroys Establish Overseas Trade Empire | EBSCO Research](https://www.ebsco.com/research-starters/history/portuguese-viceroys-establish-overseas-trade-empire)
+
 [^30]: [Monastery of the Hieronymites and Tower of Belém - UNESCO](https://whc.unesco.org/en/list/263/)
+
 [^31]: [Jerónimos Monastery - Wikipedia](https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery)
+
 [^32]: [Belém Tower - Wikipedia](https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower)
+
 [^33]: [Gil Vicente - Wikipedia](https://en.wikipedia.org/wiki/Gil_Vicente)
+
 [^34]: [Gil Vicente | Portuguese Playwright & Poet | Britannica](https://www.britannica.com/biography/Gil-Vicente-Portuguese-dramatist)
+
 [^35]: [Dom Manuel I (1469-1521) | Encyclopaedia of Portuguese Expansion](https://eve.fcsh.unl.pt/en/people/dom-manuel-i-1469-1521)
+
 [^36]: [The Legacy of Manuel I of Portugal](https://dayhist.com/persons/manuel-i-of-portugal-impact)
+
 [^37]: [A History of Portugal and the Portuguese Empire - Cambridge](https://www.cambridge.org/core/books/history-of-portugal-and-the-portuguese-empire/8A9CA2EB0CCE2D9E92905CD964D755D1)
+
 [^38]: [A History of Portugal and the Portuguese Empire - Excerpt](https://assets.cambridge.org/97805214/09087/excerpt/9780521409087_excerpt.htm)
+
 [^39]: [Moroccan–Portuguese conflicts - Wikipedia](https://en.wikipedia.org/wiki/Moroccan–Portuguese_conflicts)
+
 [^40]: [Economic history of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Economic_history_of_Portugal)
+
 [^41]: [Coat of arms of Portugal - Wikipedia](https://en.wikipedia.org/wiki/Coat_of_arms_of_Portugal)
+
 [^42]: [The Manueline reform – IPQ](https://www.ipq.pt/en/metrology-museum/weights-and-measures-in-portugal/metrological-reforms-of-the-modern-era/the-manueline-reform/)
+
 [^43]: [John III of Portugal - Wikipedia](https://en.wikipedia.org/wiki/John_III_of_Portugal)

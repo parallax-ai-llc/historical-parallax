@@ -3,7 +3,12 @@ id: "kim-jong-un"
 name: "Kim Jong-un"
 birth: "1984-01-08"
 nationality: "North Korea"
-occupation: ["Supreme Leader of North Korea", "Chairman of the Workers' Party of Korea", "Supreme Commander of the Armed Forces"]
+occupation:
+  [
+    "Supreme Leader of North Korea",
+    "Chairman of the Workers' Party of Korea",
+    "Supreme Commander of the Armed Forces",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kim_Jong-un_April_2019_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jong_Un"
@@ -118,40 +123,40 @@ Diplomatic analysts criticize Kim's approach to international relations as funda
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1984 | Born January 8 in Pyongyang, North Korea (birth year disputed, possibly 1982 or 1983) |
-| 1996-2000 | Attended school in Switzerland under pseudonym "Pak Un" |
-| 2002-2007 | Studied at Kim Il-sung National War College in Pyongyang |
-| 2009 | Designated as successor to Kim Jong-il (reported by South Korean intelligence) |
-| 2009 | Married Ri Sol-ju (marriage kept secret until 2012) |
-| 2010 | Promoted to four-star general on September 27 despite no military experience |
-| 2010 | Appointed vice chairman of Central Military Commission on September 28 |
-| 2011 | Named Vice Chairman of National Defense Commission on February 10 |
-| 2011 | Father Kim Jong-il dies on December 17; Kim Jong-un becomes successor |
-| 2011 | Declared Supreme Commander of Korean People's Army on December 24 |
-| 2012 | Appointed First Secretary of Workers' Party and multiple leadership positions in April |
-| 2012 | Wife Ri Sol-ju first appears publicly in July |
-| 2012 | Promoted to wonsu (marshal), highest military rank |
-| 2013 | First nuclear test under his leadership conducted in February |
-| 2013 | Uncle Jang Song-thaek executed in December after purge |
-| 2016 | Personally sanctioned by United States for human rights violations on July 6 |
-| 2017 | Half-brother Kim Jong-nam assassinated with VX nerve agent on February 13 |
-| 2017 | Successfully tests Hwasong-14 and Hwasong-15 ICBMs capable of reaching U.S. mainland |
-| 2017 | Sixth nuclear test conducted in September (suspected hydrogen bomb) |
-| 2018 | Meets with South Korean President Moon Jae-in on April 27; signs Panmunjom Declaration |
-| 2018 | First summit with U.S. President Donald Trump in Singapore on June 12 |
-| 2019 | Second Trump-Kim summit in Hanoi, Vietnam ends without agreement in February |
-| 2019 | Meets with Russian President Vladimir Putin in Vladivostok in April |
-| 2019 | Third meeting with Trump at Korean DMZ in June |
-| 2020 | Orders destruction of inter-Korean liaison office in June |
-| 2020 | Closes borders due to COVID-19 pandemic, beginning prolonged isolation |
-| 2021 | Admits food situation is "tense" in rare acknowledgment of economic difficulties |
-| 2021 | Announces Five-Year Defense Plan for nuclear expansion in January |
-| 2022 | Daughter Kim Ju-ae makes first public appearance at missile launch |
-| 2023 | Orders "exponential" expansion of nuclear arsenal in September |
-| 2025 | Characterizes year as "crucial" for bolstering nuclear forces in January |
-| 2025 | Continues missile testing and nuclear material production expansion |
+| Year      | Event                                                                                  |
+| --------- | -------------------------------------------------------------------------------------- |
+| 1984      | Born January 8 in Pyongyang, North Korea (birth year disputed, possibly 1982 or 1983)  |
+| 1996-2000 | Attended school in Switzerland under pseudonym "Pak Un"                                |
+| 2002-2007 | Studied at Kim Il-sung National War College in Pyongyang                               |
+| 2009      | Designated as successor to Kim Jong-il (reported by South Korean intelligence)         |
+| 2009      | Married Ri Sol-ju (marriage kept secret until 2012)                                    |
+| 2010      | Promoted to four-star general on September 27 despite no military experience           |
+| 2010      | Appointed vice chairman of Central Military Commission on September 28                 |
+| 2011      | Named Vice Chairman of National Defense Commission on February 10                      |
+| 2011      | Father Kim Jong-il dies on December 17; Kim Jong-un becomes successor                  |
+| 2011      | Declared Supreme Commander of Korean People's Army on December 24                      |
+| 2012      | Appointed First Secretary of Workers' Party and multiple leadership positions in April |
+| 2012      | Wife Ri Sol-ju first appears publicly in July                                          |
+| 2012      | Promoted to wonsu (marshal), highest military rank                                     |
+| 2013      | First nuclear test under his leadership conducted in February                          |
+| 2013      | Uncle Jang Song-thaek executed in December after purge                                 |
+| 2016      | Personally sanctioned by United States for human rights violations on July 6           |
+| 2017      | Half-brother Kim Jong-nam assassinated with VX nerve agent on February 13              |
+| 2017      | Successfully tests Hwasong-14 and Hwasong-15 ICBMs capable of reaching U.S. mainland   |
+| 2017      | Sixth nuclear test conducted in September (suspected hydrogen bomb)                    |
+| 2018      | Meets with South Korean President Moon Jae-in on April 27; signs Panmunjom Declaration |
+| 2018      | First summit with U.S. President Donald Trump in Singapore on June 12                  |
+| 2019      | Second Trump-Kim summit in Hanoi, Vietnam ends without agreement in February           |
+| 2019      | Meets with Russian President Vladimir Putin in Vladivostok in April                    |
+| 2019      | Third meeting with Trump at Korean DMZ in June                                         |
+| 2020      | Orders destruction of inter-Korean liaison office in June                              |
+| 2020      | Closes borders due to COVID-19 pandemic, beginning prolonged isolation                 |
+| 2021      | Admits food situation is "tense" in rare acknowledgment of economic difficulties       |
+| 2021      | Announces Five-Year Defense Plan for nuclear expansion in January                      |
+| 2022      | Daughter Kim Ju-ae makes first public appearance at missile launch                     |
+| 2023      | Orders "exponential" expansion of nuclear arsenal in September                         |
+| 2025      | Characterizes year as "crucial" for bolstering nuclear forces in January               |
+| 2025      | Continues missile testing and nuclear material production expansion                    |
 
 ---
 
@@ -174,35 +179,67 @@ Diplomatic analysts criticize Kim's approach to international relations as funda
 ## References
 
 [^1]: [Kim Jong Un - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Un)
+
 [^2]: [Kim Jong-Un | Facts, Biography, & Nuclear Program | Britannica](https://www.britannica.com/biography/Kim-Jong-Eun)
+
 [^3]: [Kim Jong-un - Biography](https://www.biography.com/political-figures/kim-jong-un)
+
 [^4]: [The ruthless rise of North Korea's Kim Jong Un | PBS News](https://www.pbs.org/newshour/show/the-ruthless-rise-of-north-koreas-kim-jong-un)
+
 [^5]: [Kim Jong-un and North Korea's Power Structure | CFR](https://www.cfr.org/backgrounder/north-koreas-power-structure)
+
 [^6]: [The Hollowing Out of Kim Jong Un's North Korea | Carnegie Endowment](https://carnegieendowment.org/research/2024/04/the-hollowing-out-of-kim-jong-uns-north-korea?lang=en)
+
 [^7]: [Kim Jong-un Biography - TheFamousPeople](https://www.thefamouspeople.com/profiles/kim-jong-un-5953.php)
+
 [^8]: [The Kims: Leaders' Biographies - Cornell University Library](https://guides.library.cornell.edu/c.php?g=225914&p=1497380)
+
 [^9]: [Swiss man remembers school with son of North Korean leader - CNN](https://www.cnn.com/2010/WORLD/asiapcf/09/28/north.korea.heir.friend/index.html)
+
 [^10]: [Kim Jong Un's Swiss school days revealed - Sunday Times](https://www.sundaytimes.lk/111225/Timestwo/int10.html)
+
 [^11]: [Political Succession in North Korea | FSI Stanford](https://spice.fsi.stanford.edu/docs/political_succession_in_north_korea)
+
 [^12]: [Kim Jong Un | Rise to power and leadership style | Taylor & Francis](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003100508-20/kim-jong-un-rachel-minyoung-lee)
+
 [^13]: [Kim Jong Un Fast Facts | CNN](https://www.cnn.com/world/asia/kim-jong-un-fast-facts)
+
 [^14]: [How Kim Jong-un Advanced North Korea's Military in a Decade | CFR](https://www.cfr.org/in-brief/north-korea-kim-jong-un-nuclear-decade-ten-years)
+
 [^15]: [North Korea's Nuclear Weapons Program | NCNK](https://www.ncnk.org/resources/briefing-papers/all-briefing-papers/north-koreas-nuclear-weapons-program)
+
 [^16]: [Kim Jong Un's Confidence, and How It Factors Into His Economic Plan - 38 North](https://www.38north.org/2024/03/kim-jong-uns-confidence-and-how-it-factors-into-his-economic-plan/)
+
 [^17]: [The Human Rights Factor: Changes Under Kim Jong-un ~ HRNK Insider](https://www.hrnkinsider.org/2016/08/the-human-rights-factor-changes-under.html)
+
 [^18]: [North Korea's Foreign Policy: The Kim Jong-un Regime in a Hostile World | CFR Education](https://education.cfr.org/teach/book-guide/north-koreas-foreign-policy-kim-jong-un-regime-hostile-world)
+
 [^19]: [Kim Jong Un: A Serious Human Rights Abuser | Cambodianess](https://cambodianess.com/article/kim-jong-un-a-serious-human-rights-abuser)
+
 [^20]: [North Korea: Abusive Rule 10 Years after Kim Jong Il | Human Rights Watch](https://www.hrw.org/news/2021/12/16/north-korea-abusive-rule-10-years-after-kim-jong-il)
+
 [^21]: [U.S. Sanctions North Korean Officials for Human Rights Violations | CSIS](https://www.csis.org/analysis/us-sanctions-north-korean-officials-human-rights-violations-how-significant)
+
 [^22]: [The Hollowing Out of Kim Jong Un's North Korea | Carnegie Endowment for International Peace](https://carnegieendowment.org/research/2024/04/the-hollowing-out-of-kim-jong-uns-north-korea?lang=en)
+
 [^23]: [Kim Il Sung and Kim Jong Il portraits - Wikipedia](https://en.wikipedia.org/wiki/Kim_Il_Sung_and_Kim_Jong_Il_portraits)
+
 [^24]: [Ri Sol-ju - Wikipedia](https://en.wikipedia.org/wiki/Ri_Sol-ju)
+
 [^25]: [Ri Sol Ju: everything we know about Kim Jong Un's wife | The Week](https://theweek.com/news/world-news/955620/ri-sol-ju-everything-we-know-about-kim-jong-uns-wife)
+
 [^26]: [We're a Happy Family: Decoding Kim Ju Ae's Family Affiliations - 38 North](https://www.38north.org/2023/12/were-a-happy-family-decoding-kim-ju-aes-family-affiliations/)
+
 [^27]: [Kim Jong Un sensitive to criticism of regime's human rights abuses | NK News](https://www.nknews.org/2024/10/kim-jong-un-sensitive-to-criticism-of-regimes-human-rights-abuses-ex-diplomats/)
+
 [^28]: [North Korea and weapons of mass destruction - Wikipedia](https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction)
+
 [^29]: [Kim Jong Un and Consolidating Power | SAGE Journals](https://journals.sagepub.com/doi/10.1177/00219096231197771)
+
 [^30]: [North Korea's Foreign Policy: The Kim Jong-un Regime in a Hostile World | CFR Education](https://education.cfr.org/teach/book-guide/north-koreas-foreign-policy-kim-jong-un-regime-hostile-world)
+
 [^31]: [A New Low for North Korean Human Rights | NBR](https://www.nbr.org/publication/a-new-low-for-north-korean-human-rights/)
+
 [^32]: [Kim Jong-un Quotes - BrainyQuote](https://www.brainyquote.com/authors/kim-jong-un-quotes)
+
 [^33]: [Kim Jong Un's 2018 New Year's Address | NCNK](https://www.ncnk.org/node/1427)

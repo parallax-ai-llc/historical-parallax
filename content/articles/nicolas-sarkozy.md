@@ -146,30 +146,30 @@ Most damaging to his historical reputation is the assessment that his conviction
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1955 | Born January 28 in Paris, France |
-| 1977 | Became city councillor in Neuilly-sur-Seine at age 23 |
-| 1981 | Qualified as a lawyer |
-| 1982 | Married Marie-Dominique Culioli |
-| 1983 | Elected mayor of Neuilly-sur-Seine at age 28 |
-| 1985 | Son Pierre born |
-| 1986 | Son Jean born |
-| 1988 | Received first parliamentary mandate for RPR party |
-| 1993 | Gained national attention during Neuilly hostage crisis; became Minister of Budget |
-| 1996 | Divorced Marie-Dominique; married Cecilia Ciganer-Albeniz |
-| 1997 | Son Louis born |
-| 2002 | Ended tenure as mayor of Neuilly-sur-Seine |
-| 2004 | Served as Finance Minister (March-November); became president of UMP party |
-| 2005 | Became Minister of Interior |
-| 2007 | Divorced Cecilia (October); won presidential election (May 16); became President of France |
-| 2008 | Married Carla Bruni (February 2); held EU Council Presidency (July-December) |
-| 2008 | Negotiated ceasefire in Russo-Georgian War |
-| 2010 | Implemented pension reform, raising retirement age from 60 to 62 |
-| 2011 | France banned full-face veils in public (April); intervention in Libya (March 19); daughter Giulia born (October 19) |
-| 2012 | Lost presidential election to François Hollande (May 6); police raided home in Bettencourt investigation (July 3) |
-| 2021 | Convicted of corruption and influence peddling (March 1); convicted in Bygmalion scandal (September 30) |
-| 2024 | Court of Cassation upheld Bygmalion conviction (December) |
+| Year | Event                                                                                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1955 | Born January 28 in Paris, France                                                                                                                                  |
+| 1977 | Became city councillor in Neuilly-sur-Seine at age 23                                                                                                             |
+| 1981 | Qualified as a lawyer                                                                                                                                             |
+| 1982 | Married Marie-Dominique Culioli                                                                                                                                   |
+| 1983 | Elected mayor of Neuilly-sur-Seine at age 28                                                                                                                      |
+| 1985 | Son Pierre born                                                                                                                                                   |
+| 1986 | Son Jean born                                                                                                                                                     |
+| 1988 | Received first parliamentary mandate for RPR party                                                                                                                |
+| 1993 | Gained national attention during Neuilly hostage crisis; became Minister of Budget                                                                                |
+| 1996 | Divorced Marie-Dominique; married Cecilia Ciganer-Albeniz                                                                                                         |
+| 1997 | Son Louis born                                                                                                                                                    |
+| 2002 | Ended tenure as mayor of Neuilly-sur-Seine                                                                                                                        |
+| 2004 | Served as Finance Minister (March-November); became president of UMP party                                                                                        |
+| 2005 | Became Minister of Interior                                                                                                                                       |
+| 2007 | Divorced Cecilia (October); won presidential election (May 16); became President of France                                                                        |
+| 2008 | Married Carla Bruni (February 2); held EU Council Presidency (July-December)                                                                                      |
+| 2008 | Negotiated ceasefire in Russo-Georgian War                                                                                                                        |
+| 2010 | Implemented pension reform, raising retirement age from 60 to 62                                                                                                  |
+| 2011 | France banned full-face veils in public (April); intervention in Libya (March 19); daughter Giulia born (October 19)                                              |
+| 2012 | Lost presidential election to François Hollande (May 6); police raided home in Bettencourt investigation (July 3)                                                 |
+| 2021 | Convicted of corruption and influence peddling (March 1); convicted in Bygmalion scandal (September 30)                                                           |
+| 2024 | Court of Cassation upheld Bygmalion conviction (December)                                                                                                         |
 | 2025 | Convicted of criminal conspiracy in Libya case, sentenced to 5 years (September 25); entered La Santé Prison (October 21); released pending appeals (November 10) |
 
 ---
@@ -191,98 +191,193 @@ Most damaging to his historical reputation is the assessment that his conviction
 ## References
 
 [^1]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^2]: [Nicolas Sarkozy | Biography, Presidency, Wife, Conviction, & Facts | Britannica](https://www.britannica.com/biography/Nicolas-Sarkozy)
+
 [^3]: [Ex-French President Sarkozy sentenced to 5 years in prison for criminal conspiracy | PBS News](https://www.pbs.org/newshour/world/ex-french-president-sarkozy-sentenced-to-5-years-in-prison-for-criminal-conspiracy)
+
 [^4]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^5]: [Nicolas Sarkozy Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/nicolas-sarkozy-4356.php)
+
 [^6]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^7]: [Sarkozy, Nicolas 1955- | Encyclopedia.com](https://www.encyclopedia.com/arts/educational-magazines/sarkozy-nicolas-1955)
+
 [^8]: [Nicolas Sarkozy | Biography, Presidency, Wife, Conviction, & Facts | Britannica](https://www.britannica.com/biography/Nicolas-Sarkozy)
+
 [^9]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^10]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^11]: [Nicolas Sarkozy | Biography, Presidency, Wife, Conviction, & Facts | Britannica](https://www.britannica.com/biography/Nicolas-Sarkozy)
+
 [^12]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^13]: [Nicolas Sarkozy - Biography - IMDb](https://www.imdb.com/name/nm0765324/bio/)
+
 [^14]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^15]: [50 Facts About Nicolas Sarkozy - Facts.net](https://facts.net/history/people/50-facts-about-nicolas-sarkozy/)
+
 [^16]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^17]: [Nicolas Sarkozy | Biography, Presidency, Wife, Conviction, & Facts | Britannica](https://www.britannica.com/biography/Nicolas-Sarkozy)
+
 [^18]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^19]: [Nicolas Sarkozy: The Hyperpresident | Brookings](https://www.brookings.edu/articles/nicolas-sarkozy-the-hyperpresident/)
+
 [^20]: [Nicolas Sarkozy: The Hyperpresident | Brookings](https://www.brookings.edu/articles/nicolas-sarkozy-the-hyperpresident/)
+
 [^21]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^22]: [Nicolas Sarkozy | Biography, Presidency, Wife, Conviction, & Facts | Britannica](https://www.britannica.com/biography/Nicolas-Sarkozy)
+
 [^23]: [Nicolas Sarkozy Achievements as President: A Bold Era of Reform and Global Ambition 2025](https://successknocks.com/nicolas-sarkozy-achievements-as-president/)
+
 [^24]: [Nicolas Sarkozy Achievements as President: A Bold Era of Reform and Global Ambition 2025](https://successknocks.com/nicolas-sarkozy-achievements-as-president/)
+
 [^25]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^26]: [Nicolas Sarkozy Achievements as President: A Bold Era of Reform and Global Ambition 2025](https://successknocks.com/nicolas-sarkozy-achievements-as-president/)
+
 [^27]: [50 Facts About Nicolas Sarkozy - Facts.net](https://facts.net/history/people/50-facts-about-nicolas-sarkozy/)
+
 [^28]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^29]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^30]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^31]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^32]: [Nicolas Sarkozy Fast Facts | CNN](https://www.cnn.com/world/europe/nicolas-sarkozy-fast-facts)
+
 [^33]: [Nicolas Sarkozy, Former French President, Convicted Of Corruption : NPR](https://www.npr.org/2021/03/01/972453743/former-french-president-sarkozy-found-guilty-of-corruption-sentenced-to-jail)
+
 [^34]: [Nicolas Sarkozy corruption trial - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy_corruption_trial)
+
 [^35]: [Nicolas Sarkozy, Former French President, Convicted Of Corruption : NPR](https://www.npr.org/2021/03/01/972453743/former-french-president-sarkozy-found-guilty-of-corruption-sentenced-to-jail)
+
 [^36]: [The Conviction of Nicolas Sarkozy: A Republican Reading](https://verfassungsblog.de/conviction-nicolas-sarkozy/)
+
 [^37]: [Nicolas Sarkozy | Biography, Presidency, Wife, Conviction, & Facts | Britannica](https://www.britannica.com/biography/Nicolas-Sarkozy)
+
 [^38]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^39]: [France's top court upholds Sarkozy's conviction for illegal campaign financing in 2012](https://www.pbs.org/newshour/world/frances-top-court-upholds-sarkozys-conviction-for-illegal-campaign-financing-in-2012)
+
 [^40]: [Nicolas Sarkozy found guilty of criminal conspiracy: What we know | Corruption News | Al Jazeera](https://www.aljazeera.com/news/2025/9/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-what-we-know)
+
 [^41]: [Ex-French President Sarkozy sentenced to 5 years in prison for criminal conspiracy | PBS News](https://www.pbs.org/newshour/world/ex-french-president-sarkozy-sentenced-to-5-years-in-prison-for-criminal-conspiracy)
+
 [^42]: [Nicolas Sarkozy: Court sentences former French president to 5 years in prison in campaign-financing trial | CNN](https://www.cnn.com/2025/09/25/europe/sarkozy-trial-libya-verdict-intl)
+
 [^43]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^44]: [Nicolas Sarkozy Fast Facts | CNN](https://www.cnn.com/world/europe/nicolas-sarkozy-fast-facts)
+
 [^45]: [Leadership and style in the French Fifth Republic: Nicolas Sarkozy's presidency in historical and cultural perspective](https://www.researchgate.net/publication/263326387_Leadership_and_style_in_the_French_Fifth_Republic_Nicolas_Sarkozy's_presidency_in_historical_and_cultural_perspective)
+
 [^46]: [Nicolas Sarkozy: The Hyperpresident | Brookings](https://www.brookings.edu/articles/nicolas-sarkozy-the-hyperpresident/)
+
 [^47]: [Simple marriage for Sarkozy and model Bruni](https://www.nbcnews.com/id/wbna22963770)
+
 [^48]: [Nicolas Sarkozy Dakar address - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy_Dakar_address)
+
 [^49]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^50]: [Who is Nicolas Sarkozy's wife? All about former French President's family as he is sentenced to 5 years in prison due to criminal conspiracy - PRIMETIMER](https://www.primetimer.com/news/who-is-nicolas-sarkozys-wife-all-about-former-french-presidents-family-as-he-is-sentenced-to-5-years-in-prison-due-to-criminal-conspiracy)
+
 [^51]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^52]: [Who is Nicolas Sarkozy's wife? All about former French President's family as he is sentenced to 5 years in prison due to criminal conspiracy - PRIMETIMER](https://www.primetimer.com/news/who-is-nicolas-sarkozys-wife-all-about-former-french-presidents-family-as-he-is-sentenced-to-5-years-in-prison-due-to-criminal-conspiracy)
+
 [^53]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^54]: [Carla Bruni - Wikipedia](https://en.wikipedia.org/wiki/Carla_Bruni)
+
 [^55]: [Simple marriage for Sarkozy and model Bruni](https://www.nbcnews.com/id/wbna22963770)
+
 [^56]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^57]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^58]: [Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy)
+
 [^59]: [Sarkozy jail: When was Nicolas Sarkozy and Carla Bruni's daughter Giulia born](https://www.nationalworld.com/culture/celebrity/nicolas-sarkozy-and-carla-bruni-olivier-sarkozy-and-mary-kate-olsen-5334171)
+
 [^60]: [Carla Bruni: I will be Sarkozy's wife until death - Telegraph](https://telegrafi.com/en/Carla-Bruni,-I-am-Sarkozy's-wife-until-death/)
+
 [^61]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^62]: [The Sarkozy Revolution of the French New Right - IRIS](https://www.iris-france.org/en/44789-the-sarkozy-revolution-of-the-french-new-right/)
+
 [^63]: [What is Sarkozysm? | openDemocracy](https://www.opendemocracy.net/en/what-is-sarkozysm/)
+
 [^64]: [Leadership and style in the French Fifth Republic: Nicolas Sarkozy's presidency in historical and cultural perspective](https://www.researchgate.net/publication/263326387_Leadership_and_style_in_the_French_Fifth_Republic_Nicolas_Sarkozy's_presidency_in_historical_and_cultural_perspective)
+
 [^65]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^66]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^67]: [Nicolas Sarkozy found guilty of criminal conspiracy: What we know | Corruption News | Al Jazeera](https://www.aljazeera.com/news/2025/9/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-what-we-know)
+
 [^68]: [Corruption taints the legacy of former French President Nicolas Sarkozy - Palatinate](https://www.palatinate.org.uk/corruption-taints-the-legacy-of-former-french-president-nicolas-sarkozy/)
+
 [^69]: [Nicolas Sarkozy corruption trial - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy_corruption_trial)
+
 [^70]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^71]: [Leadership and style in the French Fifth Republic: Nicolas Sarkozy's presidency in historical and cultural perspective](https://www.researchgate.net/publication/263326387_Leadership_and_style_in_the_French_Fifth_Republic_Nicolas_Sarkozy's_presidency_in_historical_and_cultural_perspective)
+
 [^72]: [Leadership and style in the French Fifth Republic: Nicolas Sarkozy's presidency in historical and cultural perspective](https://www.researchgate.net/publication/263326387_Leadership_and_style_in_the_French_Fifth_Republic_Nicolas_Sarkozy's_presidency_in_historical_and_cultural_perspective)
+
 [^73]: [Nicolas Sarkozy Achievements as President: A Bold Era of Reform and Global Ambition 2025](https://successknocks.com/nicolas-sarkozy-achievements-as-president/)
+
 [^74]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^75]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^76]: [Presidency of Nicolas Sarkozy - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Nicolas_Sarkozy)
+
 [^77]: [Nicolas Sarkozy's 'Certain Idea of France' | Hoover Institution Nicolas Sarkozy's 'Certain Idea of France'](https://www.hoover.org/research/nicolas-sarkozys-certain-idea-france)
+
 [^78]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^79]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^80]: [Nicolas Sarkozy: The Hyperpresident | Brookings](https://www.brookings.edu/articles/nicolas-sarkozy-the-hyperpresident/)
+
 [^81]: [Corruption taints the legacy of former French President Nicolas Sarkozy - Palatinate](https://www.palatinate.org.uk/corruption-taints-the-legacy-of-former-french-president-nicolas-sarkozy/)
+
 [^82]: [Nicolas Sarkozy corruption trial - Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Sarkozy_corruption_trial)
+
 [^83]: [Ex-French President Sarkozy sentenced to 5 years in prison for criminal conspiracy | PBS News](https://www.pbs.org/newshour/world/ex-french-president-sarkozy-sentenced-to-5-years-in-prison-for-criminal-conspiracy)
+
 [^84]: [Leadership and style in the French Fifth Republic: Nicolas Sarkozy's presidency in historical and cultural perspective](https://www.researchgate.net/publication/263326387_Leadership_and_style_in_the_French_Fifth_Republic_Nicolas_Sarkozy's_presidency_in_historical_and_cultural_perspective)
+
 [^85]: [Leadership and style in the French Fifth Republic: Nicolas Sarkozy's presidency in historical and cultural perspective](https://www.researchgate.net/publication/263326387_Leadership_and_style_in_the_French_Fifth_Republic_Nicolas_Sarkozy's_presidency_in_historical_and_cultural_perspective)
+
 [^86]: [Nicolas Sarkozy Achievements as President: A Bold Era of Reform and Global Ambition 2025](https://successknocks.com/nicolas-sarkozy-achievements-as-president/)
+
 [^87]: [50 Facts About Nicolas Sarkozy - Facts.net](https://facts.net/history/people/50-facts-about-nicolas-sarkozy/)
+
 [^88]: [Rethinking Colonialism in France's Post-Chirac Era. From ...](https://modernlanguagesopen.org/articles/10.3828/mlo.v0i0.330)
+
 [^89]: [What is Sarkozysm? | openDemocracy](https://www.opendemocracy.net/en/what-is-sarkozysm/)
+
 [^90]: [What is Sarkozysm? | openDemocracy](https://www.opendemocracy.net/en/what-is-sarkozysm/)
+
 [^91]: [Corruption taints the legacy of former French President Nicolas Sarkozy - Palatinate](https://www.palatinate.org.uk/corruption-taints-the-legacy-of-former-french-president-nicolas-sarkozy/)
+
 [^92]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^93]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^94]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^95]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)
+
 [^96]: [TOP 25 QUOTES BY NICOLAS SARKOZY (of 53) | A-Z Quotes](https://www.azquotes.com/author/12997-Nicolas_Sarkozy)

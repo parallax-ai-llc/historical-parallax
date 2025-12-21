@@ -489,40 +489,40 @@ In terms of cultural impact and legacy, Cleopatra ranks among history's most inf
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 69 BC | Born in Alexandria, Egypt to Ptolemy XII Auletes |
-| 58 BC | Father Ptolemy XII overthrown and exiled to Rome |
-| 55 BC | Father restored to throne with Roman military support; Cleopatra becomes co-regent |
-| 51 BC | Ptolemy XII dies; Cleopatra and Ptolemy XIII become co-rulers |
-| 51 BC | By August, Cleopatra ruling alone, dropping Ptolemy XIII from official documents |
-| 50-49 BC | Failed Nile floods cause famine; political tensions increase |
-| 48 BC | Civil war with Ptolemy XIII; Cleopatra forced into exile |
-| 48 BC | Battle of Pharsalus; Pompey flees to Egypt and is assassinated |
-| 48 BC | Julius Caesar arrives in Alexandria; Cleopatra smuggles herself into palace to meet him |
-| 48-47 BC | Alexandrian War between Ptolemy XIII's forces and Caesar/Cleopatra |
-| 47 BC | January - Battle of the Nile; Ptolemy XIII drowns; Cleopatra victorious |
-| 47 BC | Cleopatra marries younger brother Ptolemy XIV as co-ruler |
-| 47 BC | June 23 - Caesarion (Ptolemy XV Caesar) born |
-| 47-44 BC | Cleopatra visits Rome as Caesar's guest |
-| 44 BC | March 15 - Julius Caesar assassinated; Cleopatra returns to Egypt |
-| 44 BC | Ptolemy XIV dies (likely poisoned); Caesarion becomes co-ruler |
-| 43 BC | Second Triumvirate formed (Octavian, Antony, Lepidus) |
-| 42 BC | Battle of Philippi; Triumvirate defeats Caesar's assassins |
-| 41 BC | Mark Antony summons Cleopatra to Tarsus; their relationship begins |
-| 40 BC | Twins Alexander Helios and Cleopatra Selene born |
-| 37 BC | Cleopatra and Antony formalize their relationship/marriage |
-| 37-34 BC | Antony grants Cleopatra extensive territories in Eastern Mediterranean |
-| 36 BC | Ptolemy Philadelphus born |
-| 36 BC | Antony's failed Parthian campaign |
-| 34 BC | Donations of Alexandria - Cleopatra proclaimed "Queen of Kings" |
-| 32 BC | Octavian obtains/fabricates Antony's will; Senate declares war on Cleopatra |
-| 31 BC | September 2 - Battle of Actium; Octavian defeats Antony and Cleopatra |
-| 30 BC | August 1 - Antony's remaining forces surrender to Octavian |
-| 30 BC | August 12 - Mark Antony commits suicide |
-| 30 BC | August 10-12 - Cleopatra commits suicide |
-| 30 BC | Caesarion executed on Octavian's orders |
-| 30 BC | Egypt becomes Roman province; Hellenistic period ends |
+| Year     | Event                                                                                   |
+| -------- | --------------------------------------------------------------------------------------- |
+| 69 BC    | Born in Alexandria, Egypt to Ptolemy XII Auletes                                        |
+| 58 BC    | Father Ptolemy XII overthrown and exiled to Rome                                        |
+| 55 BC    | Father restored to throne with Roman military support; Cleopatra becomes co-regent      |
+| 51 BC    | Ptolemy XII dies; Cleopatra and Ptolemy XIII become co-rulers                           |
+| 51 BC    | By August, Cleopatra ruling alone, dropping Ptolemy XIII from official documents        |
+| 50-49 BC | Failed Nile floods cause famine; political tensions increase                            |
+| 48 BC    | Civil war with Ptolemy XIII; Cleopatra forced into exile                                |
+| 48 BC    | Battle of Pharsalus; Pompey flees to Egypt and is assassinated                          |
+| 48 BC    | Julius Caesar arrives in Alexandria; Cleopatra smuggles herself into palace to meet him |
+| 48-47 BC | Alexandrian War between Ptolemy XIII's forces and Caesar/Cleopatra                      |
+| 47 BC    | January - Battle of the Nile; Ptolemy XIII drowns; Cleopatra victorious                 |
+| 47 BC    | Cleopatra marries younger brother Ptolemy XIV as co-ruler                               |
+| 47 BC    | June 23 - Caesarion (Ptolemy XV Caesar) born                                            |
+| 47-44 BC | Cleopatra visits Rome as Caesar's guest                                                 |
+| 44 BC    | March 15 - Julius Caesar assassinated; Cleopatra returns to Egypt                       |
+| 44 BC    | Ptolemy XIV dies (likely poisoned); Caesarion becomes co-ruler                          |
+| 43 BC    | Second Triumvirate formed (Octavian, Antony, Lepidus)                                   |
+| 42 BC    | Battle of Philippi; Triumvirate defeats Caesar's assassins                              |
+| 41 BC    | Mark Antony summons Cleopatra to Tarsus; their relationship begins                      |
+| 40 BC    | Twins Alexander Helios and Cleopatra Selene born                                        |
+| 37 BC    | Cleopatra and Antony formalize their relationship/marriage                              |
+| 37-34 BC | Antony grants Cleopatra extensive territories in Eastern Mediterranean                  |
+| 36 BC    | Ptolemy Philadelphus born                                                               |
+| 36 BC    | Antony's failed Parthian campaign                                                       |
+| 34 BC    | Donations of Alexandria - Cleopatra proclaimed "Queen of Kings"                         |
+| 32 BC    | Octavian obtains/fabricates Antony's will; Senate declares war on Cleopatra             |
+| 31 BC    | September 2 - Battle of Actium; Octavian defeats Antony and Cleopatra                   |
+| 30 BC    | August 1 - Antony's remaining forces surrender to Octavian                              |
+| 30 BC    | August 12 - Mark Antony commits suicide                                                 |
+| 30 BC    | August 10-12 - Cleopatra commits suicide                                                |
+| 30 BC    | Caesarion executed on Octavian's orders                                                 |
+| 30 BC    | Egypt becomes Roman province; Hellenistic period ends                                   |
 
 ---
 
@@ -572,151 +572,297 @@ In terms of cultural impact and legacy, Cleopatra ranks among history's most inf
 ## References
 
 [^1]: Britannica, ["Cleopatra"](https://www.britannica.com/biography/Cleopatra-queen-of-Egypt) (2024)
+
 [^2]: Wikipedia, ["Cleopatra"](https://en.wikipedia.org/wiki/Cleopatra) (Accessed 2025)
+
 [^3]: Medium - The Knowledge of Everything, ["Cleopatra VII Was Not Native Egyptian"](https://medium.com/the-knowledge-of-everything/cleopatra-vii-was-not-native-egyptian-here-is-the-story-of-her-unique-family-lineage-072e79d90135)
+
 [^4]: Notable Biographies, ["Cleopatra VII Biography"](https://www.notablebiographies.com/Ch-Co/Cleopatra-VII.html)
+
 [^5]: Yourroots.com, ["Cleopatra Family Tree: The Lineage of Egypt's Last Pharaoh"](https://yourroots.com/blog/cleopatra-family-tree-the-lineage-of-egypts-last-pharaoh)
+
 [^6]: EBSCO Research, ["Cleopatra VII Research Starters"](https://www.ebsco.com/research-starters/history/cleopatra-vii)
+
 [^7]: World History Encyclopedia, ["Cleopatra VII"](https://www.worldhistory.org/Cleopatra_VII/)
+
 [^8]: Wikipedia, ["Ethnicity of Cleopatra"](https://en.wikipedia.org/wiki/Ethnicity_of_Cleopatra)
+
 [^9]: Wikipedia, ["Ptolemaic Dynasty"](https://en.wikipedia.org/wiki/Ptolemaic_dynasty)
+
 [^10]: Vocal Media, ["Cleopatra's Education and Intelligence"](https://vocal.media/history/cleopatra-s-education-and-intelligence)
+
 [^11]: Greek Reporter, ["The Greek Education That Shaped Cleopatra's Character"](https://greekreporter.com/2025/10/25/greek-education-cleopatra/)
+
 [^12]: Medium, ["Cleopatra's Early Life: Unveiling the Foundations of a Queen's Character"](https://scanderbegal.medium.com/cleopatras-early-life-unveiling-the-foundations-of-a-queen-s-character-1013ad259efa)
+
 [^13]: The Collector, ["Cleopatra: Seductress of Men or an Intelligent Leader?"](https://www.thecollector.com/cleopatra-ancient-egypt-ruler/)
+
 [^14]: Ancient Origins, ["The Wisdom of Cleopatra"](https://www.ancient-origins.net/history-famous-people/wisdom-cleopatra-intellectual-queen-who-could-outsmart-them-all-006280)
+
 [^15]: Ancient History Hub, ["Cleopatra"](https://ancienthistoryhub.com/cleopatra/)
+
 [^16]: Wikipedia, ["Reign of Cleopatra"](https://en.wikipedia.org/wiki/Reign_of_Cleopatra)
+
 [^17]: EBSCO Research, ["Cleopatra VII, Last of Ptolemies, Reigns"](https://www.ebsco.com/research-starters/history/cleopatra-vii-last-ptolemies-reigns)
+
 [^18]: Ancient Egypt Online, ["Queen Cleopatra VII"](https://www.ancient-egypt-online.com/cleopatra.html)
+
 [^19]: Britannica, ["Cleopatra's Achievements"](https://www.britannica.com/summary/Cleopatras-Achievements)
+
 [^20]: Medium, ["Cleopatra's Reign in Egypt"](https://scanderbegal.medium.com/cleopatras-reign-in-egypt-unraveling-the-political-mastery-policies-and-triumphs-of-a-queen-1ee4d26bdeca)
+
 [^21]: National Geographic, ["Key facts about Cleopatra's life and legacy"](https://www.nationalgeographic.com/history/article/cleopatra-egypt-pharaoh-life-history)
+
 [^22]: History Collection, ["An Inside Look at Cleopatra's Political Maneuvers"](https://historycollection.com/an-inside-look-at-cleopatras-political-maneuvers-navigating-power-in-ancient-egypt/)
+
 [^23]: Medium, ["The Cleopatra, Julius Caesar and Mark Antony Love Triangle"](https://medium.com/lessons-from-history/the-cleopatra-julius-caesar-and-mark-antony-love-triangle-5d337ff34326)
+
 [^24]: The Conversation, ["What was the deal with Julius Caesar and Cleopatra's 'situationship'?"](https://theconversation.com/what-was-the-deal-with-julius-caesar-and-cleopatras-situationship-237868)
+
 [^25]: Medium, ["Cleopatra's Complex Alliances"](https://scanderbegal.medium.com/cleopatras-complex-alliances-unraveling-the-political-and-personal-dynamics-with-julius-caesar-32f5bf47702b)
+
 [^26]: Study.com, ["Julius Caesar and Cleopatra VII"](https://study.com/academy/lesson/julius-caesar-cleopatra.html)
+
 [^27]: Wikipedia, ["Antony and Cleopatra"](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)
+
 [^28]: Wikipedia, ["Mark Antony"](https://en.wikipedia.org/wiki/Mark_Antony)
+
 [^29]: History, ["Mark Antony - Cleopatra, Rome & Caesar"](https://www.history.com/articles/mark-antony)
+
 [^30]: National Geographic, ["Cleopatra and Mark Antony's Decadent Love Affair"](https://www.nationalgeographic.com/history/history-magazine/article/antony-and-cleopatra)
+
 [^31]: Medium, ["Cleopatra's Economic Policies"](https://scanderbegal.medium.com/cleopatras-economic-policies-catalysts-for-egypt-s-prosperity-7081539950bd)
+
 [^32]: AncientPedia, ["Cleopatra's Economic Policies"](https://ancientpedia.com/cleopatras-economic-policies/)
+
 [^33]: Vocal Media, ["Cleopatra's Lost Fortune"](https://vocal.media/history/cleopatra-s-lost-fortune-the-untold-mystery-of-egypt-s-last-queen)
+
 [^34]: Anubis Aeon, ["Analyzing the Economic Policies Under Cleopatra"](https://anubisaeon.com/economic-policies-under-cleopatra/)
+
 [^35]: FEE, ["The Monetary Mistakes Behind the Downfall of Cleopatra"](https://fee.org/articles/the-monetary-mistakes-behind-the-downfall-of-cleopatra-and-the-last-dynasty-of-ancient-egypt/)
+
 [^36]: Smithsonian Magazine, ["Who Was Cleopatra?"](https://www.smithsonianmag.com/history/who-was-cleopatra-151356013/)
+
 [^37]: Taylor & Francis Online, ["Finding strategic communication & diverse leadership in the ancient world"](https://www.tandfonline.com/doi/full/10.1080/23311983.2016.1154704)
+
 [^38]: Medium, ["Cleopatra's Cultural Diplomacy"](https://scanderbegal.medium.com/cleopatras-cultural-diplomacy-navigating-international-relations-through-art-and-culture-419ffd047f5d)
+
 [^39]: University of South Carolina, ["Cleopatra: The queen of public relations?"](https://sc.edu/study/colleges_schools/cic/journalism_and_mass_communications/news/2016/pr_prose_cleopatra_queen_of_pr.php)
+
 [^40]: Brewminate, ["Cleopatra's Use of Strategic Communication"](https://brewminate.com/cleopatras-use-of-strategic-communication/)
+
 [^41]: Eight Mile, ["Historical Leadership Lessons | Cleopatra VII"](https://www.eighthmile.com.au/blog/cleopatras-reign)
+
 [^42]: The Leadership Mission, ["Cleopatra - Leadership Style"](https://www.theleadershipmission.com/post/cleopatra-leadership-style)
+
 [^43]: Egypt Best Vacations, ["Cleopatra's Legacy: Myths Facts and Historical Truths"](https://egyptbestvacations.com/cleopatra-legacy-myths-facts-and-historical-truths/)
+
 [^44]: Roman Empire, ["Cleopatra: The Life and Legacy of Ancient Egypt's Last Pharaoh"](https://roman-empire.net/people/women-who-shaped-rome-people/cleopatra)
+
 [^45]: Egypt Deals Tours, ["Cleopatra Through the Centuries"](https://www.egyptdeals.tours/blog/cleopatra-queen-of-egypt-history)
+
 [^46]: Art UK, ["Cleopatra's legacy in art"](https://artuk.org/discover/stories/cleopatras-legacy-in-art-famous-pharaoh-and-femme-fatale)
+
 [^47]: Memphis Tours, ["Queen Cleopatra of Egypt - Life, Reign & Legacy"](https://www.memphistours.com/egypt/egypt-wikis/egypt-history/wiki/queen-cleopatra-of-egypt)
+
 [^48]: ResearchGate, ["Finding strategic communication & diverse leadership in the ancient world"](https://www.researchgate.net/publication/298914652_Finding_strategic_communication_diverse_leadership_in_the_ancient_world_The_case_of_Queen_Cleopatra_VII_the_last_pharaoh_of_Egypt)
+
 [^49]: Medium, ["Cleopatra's Interactions with Roman Leaders"](https://scanderbegal.medium.com/cleopatras-interactions-with-roman-leaders-beyond-caesar-and-antony-0625bbd18482)
+
 [^50]: Stories and Facts Book, ["Cleopatra"](https://storiesandfactsbook.com/cleopatra-h-22)
+
 [^51]: HowStuffWorks, ["5 Things Everyone Gets Wrong About Cleopatra"](https://history.howstuffworks.com/historical-figures/cleopatra.htm)
+
 [^52]: Medium, ["OPINION: The Cleopatra Controversy"](https://swatson7856.medium.com/opinion-the-cleopatra-controversy-a2254663b964)
+
 [^53]: Denison University, ["The Modern Racial Politics of Cleopatra"](https://denison.edu/academics/classical-studies/wh/136845)
+
 [^54]: NPR, ["How History And Hollywood Got 'Cleopatra' Wrong"](https://www.npr.org/2010/11/01/130976125/how-history-and-hollywood-got-cleopatra-wrong)
+
 [^55]: The Conversation, ["Is Netflix's Queen Cleopatra cultural appreciation or cultural appropriation?"](https://theconversation.com/is-netflixs-queen-cleopatra-cultural-appreciation-or-cultural-appropriation-205198)
+
 [^56]: What's on Netflix, ["'Queen Cleopatra' Netflix Docuseries Controversy Explained"](https://www.whats-on-netflix.com/news/queen-cleopatra-netflix-docuseries-controversy-explained/)
+
 [^57]: Savoir Flair, ["Netflix Criticized for Racial Inaccuracies in Queen Cleopatra"](https://www.savoirflair.com/culture/635668/netflix-cleopatra-controversy)
+
 [^58]: CBS News, ["Why some Egyptians are fuming over Netflix's Black Cleopatra"](https://www.cbsnews.com/news/netflix-cleopatra-black-egypt-controversy-ancient-queen/)
+
 [^59]: Greek Reporter, ["New Netflix Documentary Forgets Cleopatra was Greek"](https://greekreporter.com/2023/04/14/netflix-documentary-cleopatra-greek/)
+
 [^60]: National Geographic, ["A team went searching for Cleopatra's lost tomb"](https://www.nationalgeographic.com/history/article/cleopatra-tomb-port-taposiris-magna)
+
 [^61]: Archaeology News Online Magazine, ["Archaeologists discover possible bust of Cleopatra VII"](https://archaeologymag.com/2024/12/possible-bust-of-cleopatra-vii-im-egypt/)
+
 [^62]: Artnet News, ["Does This Newly Unearthed Bust Depict Cleopatra?"](https://news.artnet.com/art-world/cleopatria-bust-taposiris-magna-kathleen-martinez-2584722)
+
 [^63]: The Science Survey, ["The Final Mystery of Cleopatra: Will 2025 Be the Year Her Tomb Is Found?"](https://thesciencesurvey.com/spotlight/2025/07/03/the-final-mystery-of-cleopatra-will-2025-be-the-year-her-tomb-is-found/)
+
 [^64]: CNN, ["Archaeologists have uncovered a sunken ancient Egyptian port"](https://www.cnn.com/2025/09/26/science/ancient-egyptian-port-discovery-cleopatra)
+
 [^65]: GB News, ["Archaeology breakthrough as Cleopatra's 'true face' discovered"](https://www.gbnews.com/science/archaeology-breakthrough-cleopatras-true-face-discovered-long-lost-tomb)
+
 [^66]: CBS News, ["Quest for Queen Cleopatra's lost tomb reveals a sunken ancient Egyptian harbor"](https://www.cbsnews.com/news/egypt-ancient-harbor-discovered-in-quest-for-queen-cleopatra-lost-tomb/)
+
 [^67]: Art & Object, ["How Close Are We To Finding Cleopatra's Tomb?"](https://www.artandobject.com/news/how-close-are-we-finding-cleopatras-tomb)
+
 [^68]: AL-Monitor, ["In search for Cleopatra's tomb, Egypt claims new discoveries"](https://www.al-monitor.com/originals/2024/12/search-cleopatras-tomb-egypt-claims-new-discoveries)
+
 [^69]: The Middle East Observer, ["A Tunnel Discovery Sparks New Hope in Search for Cleopatra's Tomb"](https://meobserver.org/archaeolgy/2025/06/17/a-tunnel-discovery-sparks-new-hope-in-search-for-cleopatras-tomb/)
+
 [^70]: Wikiquote, ["Cleopatra"](https://en.wikiquote.org/wiki/Cleopatra)
+
 [^71]: IMDb, ["Cleopatra (1963) - Quotes"](https://www.imdb.com/title/tt0056937/quotes/)
+
 [^72]: Blinkist, ["The Most Powerful Cleopatra Quotes"](https://www.blinkist.com/magazine/posts/powerful-cleopatra-quotes-ignite-inner-queen)
+
 [^73]: BrainyQuote, ["Cleopatra Quotes"](https://www.brainyquote.com/authors/cleopatra-quotes)
+
 [^74]: Bookroo, ["The 14 Best Cleopatra Quotes"](https://bookroo.com/quotes/cleopatra)
+
 [^75]: Royal Shakespeare Company, ["Famous quotes | Antony & Cleopatra"](https://www.rsc.org.uk/antony-and-cleopatra/about-the-play/famous-quotes)
+
 [^76]: SparkNotes, ["Antony and Cleopatra: Famous Quotes Explained"](https://www.sparknotes.com/shakespeare/antony/quotes/)
+
 [^77]: Quoteikon, ["10 of the Best Quotes By Queen Cleopatra"](https://www.quoteikon.com/queen-cleopatra-quotes.html)
+
 [^78]: Bookey, ["30 Best Cleopatra Quotes"](https://www.bookey.app/quote-author/cleopatra)
+
 [^79]: Cleopatra Digitized, ["Augustan Propaganda After the Battle of Actium"](https://cleopatradigitized.wordpress.com/cleopatra-and-augustan-propaganda-after-the-battle-of-actium/)
+
 [^80]: Wikipedia, ["War of Actium"](https://en.wikipedia.org/wiki/War_of_Actium)
+
 [^81]: Folger Shakespeare Library, ["Cleopatra and fake news"](https://www.folger.edu/blogs/shakespeare-and-beyond/cleopatra-mythic-temptress/)
+
 [^82]: University of Waterloo, ["Cleopatra VII: a dean's lessons on fake news from ancient history"](https://uwaterloo.ca/arts-and-letters/news/cleopatra-vii-deans-lessons-fake-news-ancient-history)
+
 [^83]: World History Encyclopedia, ["The Propaganda of Octavian and Mark Antony's Civil War"](https://www.worldhistory.org/article/1474/the-propaganda-of-octavian-and-mark-antonys-civil/)
+
 [^84]: ResearchGate, ["Octavian, Antony and Cleopatra: Propaganda and War"](https://www.researchgate.net/publication/383565605_Octavian_Antony_and_Cleopatra_Propaganda_and_War)
+
 [^85]: The Conversation, ["The fake news that sealed the fate of Antony and Cleopatra"](https://theconversation.com/the-fake-news-that-sealed-the-fate-of-antony-and-cleopatra-71287)
+
 [^86]: Ancient Origins, ["What if Cleopatra and Octavian Had Been Friends?"](https://www.ancient-origins.net/history-important-events/what-if-cleopatra-and-octavian-had-been-friends-005724)
+
 [^87]: History Hit, ["Revisiting Cleopatra: Screen Portrayals"](https://www.historyhit.com/culture/revisiting-cleopatra-screen-portrayals-of-the-iconic-pharaoh/)
+
 [^88]: Wikipedia, ["List of cultural depictions of Cleopatra"](https://en.wikipedia.org/wiki/List_of_cultural_depictions_of_Cleopatra)
+
 [^89]: MovieWeb, ["10 Best Movies About Cleopatra, Ranked"](https://movieweb.com/best-movies-about-cleopatra/)
-[^90]: Wikipedia, ["Cleopatra (1963 film)"](https://en.wikipedia.org/wiki/Cleopatra_(1963_film))
+
+[^90]: Wikipedia, ["Cleopatra (1963 film)"](<https://en.wikipedia.org/wiki/Cleopatra_(1963_film)>)
+
 [^91]: Grunge, ["The Best Portrayals Of Cleopatra On Screen Ranked"](https://www.grunge.com/243397/the-best-portrayals-of-cleopatra-on-screen-ranked/)
+
 [^92]: GradeSaver, ["Antony and Cleopatra Contemporary Adaptations"](https://www.gradesaver.com/antony-and-cleopatra/study-guide/contemporary-adaptations-and-cultural-relevance)
+
 [^93]: Egypt Museum, ["Bust of Cleopatra VII"](https://egypt-museum.com/bust-of-cleopatra-vii/)
+
 [^94]: Wikipedia, ["Bust of Cleopatra"](https://en.wikipedia.org/wiki/Bust_of_Cleopatra)
+
 [^95]: Egypt Museum, ["Statue of Cleopatra VII Philopator"](https://egypt-museum.com/statue-of-cleopatra-vii-philopator/)
+
 [^96]: Metropolitan Museum of Art, ["Statue of a Ptolemaic Queen, perhaps Cleopatra VII"](https://www.metmuseum.org/art/collection/search/547702)
+
 [^97]: Earth Magazine, ["Museums: Cleopatra: The search for the last queen of Egypt"](https://www.earthmagazine.org/article/museums-cleopatra-search-last-queen-egypt/)
+
 [^98]: Encyclopaedia Romana, ["Black basalt statue of Cleopatra VII"](https://penelope.uchicago.edu/~grout/encyclopaedia_romana/miscellanea/cleopatra/basalt.html)
+
 [^99]: Hermitage Museum, ["New attribution: a statue of Cleopatra VII"](https://hermitagemuseum.org/news/hm11_3_13?lng=en)
+
 [^100]: Egyptian SIS, ["300 Cleopatra era artifacts displayed for 1st time"](https://www.sis.gov.eg/Story/128365?lang=en-us)
+
 [^101]: Ancient Sculpture Gallery, ["Cleopatra VII Bust Head replica"](https://www.ancientsculpturegallery.com/cleopatra-bust-bust-of-cleopatra-vii-of-egypt.html/)
+
 [^102]: Egyptian Museum, ["Cleopatra VII - Greco-Roman Period Rulers"](https://egyptianmuseum.org/explore/greco-and-roman-period-rulers-cleopatra-vii)
+
 [^103]: Wikipedia, ["Ptolemy XIII Theos Philopator"](https://en.wikipedia.org/wiki/Ptolemy_XIII_Theos_Philopator)
+
 [^104]: Ancient History Sites, ["Ptolemy XIII: The Young Pharaoh"](https://www.ancient-history-sites.com/greek/rulers/ptolemaic-kingdom/ptolemy-xiii-theos-philopator/)
+
 [^105]: Britannica, ["Ptolemy XIII Theos Philopator"](https://www.britannica.com/biography/Ptolemy-XIII-Theos-Philopator)
+
 [^106]: History Skills, ["Cleopatra's sinister seductions"](https://www.historyskills.com/classroom/ancient-history/cleopatra-four-men/)
+
 [^107]: Tastes of History, ["Cleopatra Ptolemy VII"](https://www.tastesofhistory.co.uk/post/cleopatra-ptolemy-vii)
+
 [^108]: History, ["Cleopatra - Life, Rule & Death"](https://www.history.com/topics/ancient-history/cleopatra)
+
 [^109]: The Medusa Archive, ["Cleopatra VII Biographies"](https://medusaarchive.omeka.net/exhibits/show/biographies/cleopatra-vii)
+
 [^110]: Britannica, ["What Did Cleopatra Look Like?"](https://www.britannica.com/story/what-did-cleopatra-look-like)
+
 [^111]: Heritage Daily, ["Was Cleopatra beautiful? The archaeological evidence"](https://www.heritagedaily.com/2015/08/was-cleopatra-beautiful-the-archaeological-evidence/92015)
+
 [^112]: Encyclopaedia Romana, ["The Beauty of Cleopatra"](https://penelope.uchicago.edu/encyclopaedia_romana/miscellanea/cleopatra/bust.html)
+
 [^113]: Discover Magazine, ["What Did Cleopatra's Real Face Look Like?"](https://www.discovermagazine.com/planet-earth/what-did-cleopatra-really-look-like)
+
 [^114]: RoyaltyNow, ["What did Cleopatra look like?"](https://www.royaltynowstudios.com/blog/what-did-cleopatra-look-like)
+
 [^115]: Tales of Times Forgotten, ["What Did Cleopatra Really Look Like?"](https://talesoftimesforgotten.com/2020/01/08/what-did-cleopatra-really-look-like/)
+
 [^116]: World History Encyclopedia, ["Was Cleopatra Beautiful?"](https://www.worldhistory.org/article/1491/was-cleopatra-beautiful/)
+
 [^117]: Greek Reporter, ["What Did Queen Cleopatra Look Like?"](https://greekreporter.com/2025/01/24/cleopatra-face-race/)
+
 [^118]: Greek Reporter, ["Beauty Secrets of Cleopatra"](https://greekreporter.com/2024/12/21/beauty-secrets-cleopatra/)
+
 [^119]: Wikipedia, ["Death of Cleopatra"](https://en.wikipedia.org/wiki/Death_of_Cleopatra)
+
 [^120]: Wikipedia, ["Battle of Actium"](https://en.wikipedia.org/wiki/Battle_of_Actium)
+
 [^121]: HowStuffWorks, ["Did Cleopatra really lose the Battle of Actium?"](https://history.howstuffworks.com/history-vs-myth/cleopatra-battle-of-actium.htm)
+
 [^122]: Ancient Origins, ["The Enigma of Cleopatra's Death"](https://www.ancient-origins.net/history-important-events/cleopatras-death-002117)
+
 [^123]: History Hit, ["How Did Cleopatra Die?"](https://www.historyhit.com/how-did-cleopatra-die/)
+
 [^124]: History, ["Cleopatra dies by suicide"](https://www.history.com/this-day-in-history/august-10/cleopatra-commits-suicide)
+
 [^125]: Macalester Digital Commons, ["Motivation for Cleopatra's Suicide"](https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=1001&context=classicsjournal)
+
 [^126]: Legio I Lynx, ["Cleopatra: The Battle of Actium and Her Own Death"](https://legioilynx.com/2016/12/12/cleopatra-the-battle-of-actium-and-her-own-death/)
+
 [^127]: History Skills, ["What, or who, REALLY killed Cleopatra?"](https://www.historyskills.com/classroom/ancient-history/death-of-cleopatra/)
+
 [^128]: Greek Reporter, ["From Alexander the Great to Cleopatra: Unraveling the Ptolemaic Dynasty"](https://greekreporter.com/2025/03/09/ptolemaic-dynasty-royal-family-cleopatra/)
+
 [^129]: MayaIncaAztec.com, ["Cleopatra VII"](https://www.mayaincaaztec.com/ancientegypt/cleopatra-vii)
+
 [^130]: The Africa Report, ["Egyptian, African, Greek, Macedonian: The great Cleopatra debate"](https://www.theafricareport.com/304910/egypt-african-greek-macedonia-the-great-cleopatra-debate-resurfaces/)
+
 [^131]: UCL Museums, ["Ptolemaic Egypt"](https://www.ucl.ac.uk/museums-static/digitalegypt/gr/background.html)
+
 [^132]: PDX Scholar, ["Cleopatra VII: How Modernity Altered One of Egypt's Most..."](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1026&context=pat_pnw)
+
 [^133]: Bartleby, ["Interpretations Of Cleopatra"](https://www.bartleby.com/essay/Evaluate-Ancient-and-Modern-Images-and-Interpretations-PKJFS5FCTC)
+
 [^134]: Providence College Digital Commons, ["The Eroticization of Cleopatra VII"](https://digitalcommons.providence.edu/cgi/viewcontent.cgi?article=1074&context=history_undergrad_theses)
+
 [^135]: Texas A&M Digital Repository, ["FACT FROM FICTION: THE EVOLUTION OF THE CLEOPATRA LEGEND"](https://oaktrust.library.tamu.edu/server/api/core/bitstreams/47fc79c2-f354-456e-af0e-95d8b8c374d6/content)
+
 [^136]: History Skills, ["Will the real Cleopatra please stand up?"](https://www.historyskills.com/classroom/ancient-history/cleopatra-representations/)
+
 [^137]: Bryn Mawr Classical Review, ["Cleopatra. Ancients in Action"](https://bmcr.brynmawr.edu/2007/2007.04.42)
+
 [^138]: Wikipedia, ["Cleopatra Selene II"](https://en.wikipedia.org/wiki/Cleopatra_Selene_II)
+
 [^139]: Ancient Origins, ["The Final Fates of the Children of Cleopatra VII"](https://www.ancient-origins.net/history-famous-people/cleopatras-children-005230)
+
 [^140]: History Today, ["Cleopatra's Daughter"](https://www.historytoday.com/miscellanies/cleopatras-daughter)
+
 [^141]: Wikipedia, ["Alexander Helios"](https://en.wikipedia.org/wiki/Alexander_Helios)
+
 [^142]: World History Encyclopedia, ["Cleopatra Selene II"](https://www.worldhistory.org/Cleopatra_Selene_II/)
+
 [^143]: History Skills, ["What happened to Cleopatra's children?"](https://www.historyskills.com/classroom/ancient-history/cleopatra-s-children/)
+
 [^144]: NEWS NEST, ["What Happened to Cleopatra's Four Children"](https://news-nest.com/2025/08/30/what-happened-to-cleopatras-four-children-from-heirs-of-egypt-to-instruments-of-empire/)
+
 [^145]: History of Royal Women, ["Queen Cleopatra Selene"](https://www.historyofroyalwomen.com/the-royal-women/queen-cleopatra-selene-cleopatras-forgotten-daughter/)
+
 [^146]: Nexus Newsfeed, ["The final fates of the children of Cleopatra VII"](https://nexusnewsfeed.com/article/ancient-origins/the-final-fates-of-the-children-of-cleopatra-vii/)
+
 [^147]: Bartleby, ["Cleopatra Impact"](https://www.bartleby.com/essay/Cleopatra-Impact-C6A26129C197EC29)
 
 **Note on Sources:** This article draws from 147+ diverse sources including academic journals, historical encyclopedias, museum collections, archaeological reports, news outlets, and scholarly analyses. Sources span multiple countries and perspectives (Egyptian, British, American, Greek, international) and include both recent scholarship (2023-2025) and established historical references. The variety reflects commitment to balanced, comprehensive research beyond Wikipedia-centric approaches.

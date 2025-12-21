@@ -123,24 +123,24 @@ Contemporary socialist and labor critics viewed Clemenceau as a traitor to his e
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1841 | Born September 28 in Mouilleron-en-Pareds, Vendée, France |
-| 1861 | Moved to Paris to study medicine |
-| 1865 | Departed for the United States after completing medical studies |
-| 1869 | Married Mary Eliza Plummer in New York City; returned to France |
-| 1870 | Appointed mayor of Montmartre district in Paris |
-| 1876 | Elected to the Chamber of Deputies |
-| 1892 | Implicated in Panama Canal scandal; divorced from Mary Plummer |
-| 1893 | Lost his seat in parliament following scandal |
-| 1902 | Elected to the Senate |
-| 1906 | Became Prime Minister for the first time |
-| 1909 | Resigned as Prime Minister on July 20 |
-| 1917 | Appointed Prime Minister for second time in November at age 76 |
-| 1918 | Led France to victory in World War I; Armistice signed November 11 |
+| Year | Event                                                                             |
+| ---- | --------------------------------------------------------------------------------- |
+| 1841 | Born September 28 in Mouilleron-en-Pareds, Vendée, France                         |
+| 1861 | Moved to Paris to study medicine                                                  |
+| 1865 | Departed for the United States after completing medical studies                   |
+| 1869 | Married Mary Eliza Plummer in New York City; returned to France                   |
+| 1870 | Appointed mayor of Montmartre district in Paris                                   |
+| 1876 | Elected to the Chamber of Deputies                                                |
+| 1892 | Implicated in Panama Canal scandal; divorced from Mary Plummer                    |
+| 1893 | Lost his seat in parliament following scandal                                     |
+| 1902 | Elected to the Senate                                                             |
+| 1906 | Became Prime Minister for the first time                                          |
+| 1909 | Resigned as Prime Minister on July 20                                             |
+| 1917 | Appointed Prime Minister for second time in November at age 76                    |
+| 1918 | Led France to victory in World War I; Armistice signed November 11                |
 | 1919 | Negotiated Treaty of Versailles as part of the "Big Three"; treaty signed June 28 |
-| 1920 | Defeated in presidential election; retired from politics |
-| 1929 | Died November 24 at age 88; buried at Mouchamps |
+| 1920 | Defeated in presidential election; retired from politics                          |
+| 1929 | Died November 24 at age 88; buried at Mouchamps                                   |
 
 ---
 
@@ -165,86 +165,169 @@ Contemporary socialist and labor critics viewed Clemenceau as a traitor to his e
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Georges_Clemenceau
+
 [^2]: https://www.britannica.com/biography/Georges-Clemenceau
+
 [^3]: https://www.pbs.org/wgbh/americanexperience/features/wilson-georges-clemenceau/
+
 [^4]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/clemenceau-georges-1841-1929
+
 [^5]: https://www.newworldencyclopedia.org/entry/Georges_Clemenceau
+
 [^6]: https://www.ebsco.com/research-starters/history/georges-clemenceau
+
 [^7]: https://study.com/learn/lesson/georges-clemenceau-role-leader.html
+
 [^8]: https://www.wikitree.com/wiki/Clemenceau-9
+
 [^9]: https://grokipedia.com/page/Georges_Clemenceau
+
 [^10]: https://en.geneastar.org/genealogy/clemenceau/georges-clemenceau
+
 [^11]: https://www.maison-de-clemenceau.fr/en/discover/the-many-facets-of-georges-clemenceau/georges-clemenceau-the-writer
+
 [^12]: https://www.encyclopedia.com/people/history/french-history-biographies/georges-clemenceau
+
 [^13]: https://spartacus-educational.com/FWWclemenceau.htm
+
 [^14]: https://www.firstworldwar.com/bio/clemenceau.htm
+
 [^15]: https://winstonchurchill.hillsdale.edu/georges-clemenceau-1/
+
 [^16]: https://laviedesidees.fr/Clemenceau-the-American
+
 [^17]: https://www.historyhit.com/facts-about-georges-le-tigre-clemenceau/
+
 [^18]: https://www.loc.gov/resource/anrc.03389/
+
 [^19]: https://en.wikipedia.org/wiki/Big_Four_(World_War_I)
+
 [^20]: https://www.britannica.com/event/Treaty-of-Versailles-1919
+
 [^21]: https://en.chateauversailles.fr/discover/history/key-dates/treaty-versailles-1919
+
 [^22]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-treaty-of-versailles/
+
 [^23]: https://www.savemyexams.com/igcse/history/cie/18/revision-notes/the-20th-century-international-relations-from-1919/was-the-treaty-of-versailles-fair/motives-and-aims-of-the-big-three-at-versailles/
+
 [^24]: https://peacepalacelibrary.nl/blog/2019/treaty-versailles-centennial-french-aims-paris
+
 [^25]: https://history.state.gov/historicaldocuments/frus1919Parisv03/d11
+
 [^26]: https://www.johndclare.net/EA4.htm
+
 [^27]: https://www.history.com/this-day-in-history/november-15/georges-clemenceau-named-french-prime-minister
+
 [^28]: https://link.springer.com/chapter/10.1057/9781403970046_5
+
 [^29]: https://encyclopedia.1914-1918-online.net/article/clemenceau-georges/
+
 [^30]: https://www.gcsehistory.com/faq/clemenceauviews.html
+
 [^31]: https://www.britannica.com/biography/Georges-Clemenceau/Later-years
+
 [^32]: https://www.thefamouspeople.com/profiles/georges-clmenceau-6860.php
+
 [^33]: https://www.britannica.com/summary/Georges-Clemenceau
+
 [^34]: https://mahlerfoundation.org/mahler/contemporaries/georges-clemenceau/
+
 [^35]: https://www.azquotes.com/author/2976-Georges_Clemenceau
+
 [^36]: https://www.brainyquote.com/authors/georges-clemenceau-quotes
+
 [^37]: https://en.wikiquote.org/wiki/Georges_Clemenceau
+
 [^38]: https://www.britannica.com/quotes/Georges-Clemenceau
+
 [^39]: https://www.wisdomly.net/georges-clmenceau-6860.php
+
 [^40]: https://www.goodreads.com/author/quotes/8261670.Georges_Clemenceau
+
 [^41]: https://quotefancy.com/georges-clemenceau-quotes
+
 [^42]: https://best-quotations.com/authquotes.php?auth=162
+
 [^43]: https://www.inspiringquotes.us/author/5546-georges-clemenceau
+
 [^44]: https://www.oxfordreference.com/display/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00003062
+
 [^45]: https://www.britannica.com/biography/Georges-Clemenceau/Leadership-during-World-War-I
+
 [^46]: https://en.wikipedia.org/wiki/Georges_Clemenceau
+
 [^47]: https://www.pbs.org/wgbh/americanexperience/features/wilson-georges-clemenceau/
+
 [^48]: https://www.ebsco.com/research-starters/history/georges-clemenceau
+
 [^49]: https://study.com/learn/lesson/georges-clemenceau-role-leader.html
+
 [^50]: https://spartacus-educational.com/FWWclemenceau.htm
+
 [^51]: https://www.historyhit.com/facts-about-georges-le-tigre-clemenceau/
+
 [^52]: https://www.wikitree.com/wiki/Clemenceau-9
+
 [^53]: https://grokipedia.com/page/Georges_Clemenceau
+
 [^54]: https://www.newworldencycedia.org/entry/Georges_Clemenceau
+
 [^55]: https://www.maison-de-clemenceau.fr/en/discover/the-many-facets-of-georges-clemenceau/georges-clemenceau-the-writer
+
 [^56]: https://encyclopedia.1914-1918-online.net/article/clemenceau-georges/
+
 [^57]: https://www.gcsehistory.com/faq/clemenceauviews.html
+
 [^58]: https://laviedesidees.fr/Clemenceau-the-American
+
 [^59]: https://www.britannica.com/biography/Georges-Clemenceau/Later-years
+
 [^60]: https://winstonchurchill.hillsdale.edu/georges-clemenceau-1/
+
 [^61]: https://www.firstworldwar.com/bio/clemenceau.htm
+
 [^62]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/clemenceau-georges-1841-1929
+
 [^63]: https://www.britannica.com/summary/Georges-Clemenceau
+
 [^64]: https://www.thefamouspeople.com/profiles/georges-clmenceau-6860.php
+
 [^65]: https://mahlerfoundation.org/mahler/contemporaries/georges-clemenceau/
+
 [^66]: https://www.britannica.com/event/Treaty-of-Versailles-1919
+
 [^67]: https://en.chateauversailles.fr/discover/history/key-dates/treaty-versailles-1919
+
 [^68]: https://peacepalacelibrary.nl/blog/2019/treaty-versailles-centennial-french-aims-paris
+
 [^69]: https://www.johndclare.net/EA4.htm
+
 [^70]: https://www.loc.gov/resource/anrc.03389/
+
 [^71]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-treaty-of-versailles/
+
 [^72]: https://www.azquotes.com/author/2976-Georges_Clemenceau
+
 [^73]: https://www.britannica.com/biography/Georges-Clemenceau/Later-years
+
 [^74]: https://link.springer.com/chapter/10.1057/9781403970046_5
+
 [^75]: https://spartacus-educational.com/FWWclemenceau.htm
+
 [^76]: https://www.wikitree.com/wiki/Clemenceau-9
+
 [^77]: https://www.historyhit.com/facts-about-georges-le-tigre-clemenceau/
+
 [^78]: https://www.brainyquote.com/authors/georges-clemenceau-quotes
+
 [^79]: https://en.wikiquote.org/wiki/Georges_Clemenceau
+
 [^80]: https://www.britannica.com/quotes/Georges-Clemenceau
+
 [^81]: https://www.wisdomly.net/georges-clmenceau-6860.php
+
 [^82]: https://www.goodreads.com/author/quotes/8261670.Georges_Clemenceau
+
 [^83]: https://quotefancy.com/georges-clemenceau-quotes
+
 [^84]: https://best-quotations.com/authquotes.php?auth=162

@@ -4,7 +4,14 @@ name: "James Madison"
 birth: "1751-03-16"
 death: "1836-06-28"
 nationality: "United States"
-occupation: ["Founding Father", "Political Theorist", "Fourth President of the United States", "Secretary of State", "Plantation Owner"]
+occupation:
+  [
+    "Founding Father",
+    "Political Theorist",
+    "Fourth President of the United States",
+    "Secretary of State",
+    "Plantation Owner",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/James_Madison.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Madison"
@@ -121,33 +128,33 @@ Some scholars question whether the "Father of the Constitution" title overstates
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1751 | Born March 16 in Port Conway, Virginia |
-| 1769 | Enrolled at the College of New Jersey (Princeton) |
-| 1771 | Graduated from Princeton |
-| 1774 | Appointed to Orange County Committee of Safety |
-| 1776 | Elected delegate to Virginia Convention; contributed to Virginia Declaration of Rights |
-| 1780 | Began service as Virginia delegate to Continental Congress |
-| 1786 | Virginia Statute for Religious Freedom passed through Madison's efforts |
-| 1787 | Attended Constitutional Convention; drafted Virginia Plan |
-| 1787-1788 | Co-authored The Federalist Papers with Hamilton and Jay |
-| 1789 | Elected to U.S. House of Representatives |
-| 1789 | Introduced Bill of Rights amendments to Congress on June 8 |
-| 1791 | Bill of Rights ratified on December 15 |
-| 1794 | Married Dolley Payne Todd on September 15 |
-| 1798 | Authored Virginia Resolutions in response to Alien and Sedition Acts |
-| 1801 | Appointed Secretary of State by President Jefferson |
-| 1803 | Helped negotiate Louisiana Purchase |
-| 1808 | Elected fourth President of the United States |
-| 1809 | Inaugurated as President on March 4 |
-| 1812 | Requested declaration of war against Britain on June 1 |
-| 1814 | British burned Washington, D.C.; Madison fled the capital in August |
-| 1815 | War of 1812 concluded with Treaty of Ghent |
-| 1817 | Completed presidency; retired to Montpelier in April |
-| 1826 | Became second rector of University of Virginia after Jefferson's death |
-| 1829-1830 | Served as delegate to Virginia constitutional convention |
-| 1836 | Died June 28 at Montpelier, age 85 |
+| Year      | Event                                                                                  |
+| --------- | -------------------------------------------------------------------------------------- |
+| 1751      | Born March 16 in Port Conway, Virginia                                                 |
+| 1769      | Enrolled at the College of New Jersey (Princeton)                                      |
+| 1771      | Graduated from Princeton                                                               |
+| 1774      | Appointed to Orange County Committee of Safety                                         |
+| 1776      | Elected delegate to Virginia Convention; contributed to Virginia Declaration of Rights |
+| 1780      | Began service as Virginia delegate to Continental Congress                             |
+| 1786      | Virginia Statute for Religious Freedom passed through Madison's efforts                |
+| 1787      | Attended Constitutional Convention; drafted Virginia Plan                              |
+| 1787-1788 | Co-authored The Federalist Papers with Hamilton and Jay                                |
+| 1789      | Elected to U.S. House of Representatives                                               |
+| 1789      | Introduced Bill of Rights amendments to Congress on June 8                             |
+| 1791      | Bill of Rights ratified on December 15                                                 |
+| 1794      | Married Dolley Payne Todd on September 15                                              |
+| 1798      | Authored Virginia Resolutions in response to Alien and Sedition Acts                   |
+| 1801      | Appointed Secretary of State by President Jefferson                                    |
+| 1803      | Helped negotiate Louisiana Purchase                                                    |
+| 1808      | Elected fourth President of the United States                                          |
+| 1809      | Inaugurated as President on March 4                                                    |
+| 1812      | Requested declaration of war against Britain on June 1                                 |
+| 1814      | British burned Washington, D.C.; Madison fled the capital in August                    |
+| 1815      | War of 1812 concluded with Treaty of Ghent                                             |
+| 1817      | Completed presidency; retired to Montpelier in April                                   |
+| 1826      | Became second rector of University of Virginia after Jefferson's death                 |
+| 1829-1830 | Served as delegate to Virginia constitutional convention                               |
+| 1836      | Died June 28 at Montpelier, age 85                                                     |
 
 ---
 
@@ -172,123 +179,243 @@ Some scholars question whether the "Father of the Constitution" title overstates
 ## References
 
 [^1]: [James Madison | American Battlefield Trust](https://www.battlefields.org/learn/biographies/james-madison)
+
 [^2]: [James Madison: Life Before the Presidency | Miller Center](https://millercenter.org/president/madison/life-before-the-presidency)
+
 [^3]: [James Madison: Foreign Affairs | Miller Center](https://millercenter.org/president/madison/foreign-affairs)
+
 [^4]: [Madison, James and Slavery - Encyclopedia Virginia](https://encyclopediavirginia.org/entries/madison-james-and-slavery/)
+
 [^5]: [James Madison - Wikipedia](https://en.wikipedia.org/wiki/James_Madison)
+
 [^6]: [James Madison - White House Historical Association](https://www.whitehousehistory.org/bios/james-madison)
+
 [^7]: [James Madison | Biography, Founding Father, Presidency, & Facts | Britannica](https://www.britannica.com/biography/James-Madison)
+
 [^8]: [The Life of James Madison: Founding Father & Fourth President](https://www.montpelier.org/learn/the-life-of-james-madison/)
+
 [^9]: [James Madison facts and photos | National Geographic Kids](https://kids.nationalgeographic.com/history/article/james-madison)
+
 [^10]: [James Madison - Presidency, Facts & Wife](https://www.biography.com/political-figures/james-madison)
+
 [^11]: [James Madison - People - Department History - Office of the Historian](https://history.state.gov/departmenthistory/people/madison-james)
+
 [^12]: [About James Madison - JMU](https://www.jmu.edu/civic/madison.shtml)
+
 [^13]: [James Madison and the Federal Constitutional Convention of 1787 | Library of Congress](https://www.loc.gov/collections/james-madison-papers/articles-and-essays/james-madison-and-the-federal-constitutional-convention-of-1787/)
+
 [^14]: [James Madison – The White House](https://trumpwhitehouse.archives.gov/about-the-white-house/presidents/james-madison/)
+
 [^15]: [James Madison Creation of Bill of Rights](https://billofrightsinstitute.org/essays/james-madison-and-the-bill-of-rights)
+
 [^16]: [James Madison | The First Amendment Encyclopedia](https://firstamendment.mtsu.edu/article/james-madison/)
+
 [^17]: [James Madison | Constitution Center](https://constitutioncenter.org/signers/james-madison)
+
 [^18]: [James Madison Timeline | Library of Congress](https://www.loc.gov/collections/james-madison-papers/articles-and-essays/james-madison-timeline-1751-to-1836/)
+
 [^19]: [Conscience is the Most Sacred Property | Bill of Rights Institute](https://billofrightsinstitute.org/activities/conscience-is-the-most-sacred-property-james-madison-virginia-statute-for-religious-freedom-and-justice-handout-a-narrative)
+
 [^20]: [James Madison and Religious Freedom - Montpelier](https://www.montpelier.org/religious-freedom/)
+
 [^21]: [Madison Timeline | Papers of James Madison](https://pjm.as.virginia.edu/madison-timeline)
+
 [^22]: [James Madison Event Timeline | The American Presidency Project](https://www.presidency.ucsb.edu/documents/james-madison-event-timeline)
+
 [^23]: [James Madison - Key Events | Miller Center](https://millercenter.org/president/james-madison/key-events)
+
 [^24]: [James Madison: Impact and Legacy | Miller Center](https://millercenter.org/president/madison/impact-and-legacy)
+
 [^25]: [James Madison - Founding Father, Constitution, Federalist | Britannica](https://www.britannica.com/biography/James-Madison/The-father-of-the-Constitution)
+
 [^26]: [James Madison: Father of the Constitution | The Heritage Foundation](https://www.heritage.org/political-process/report/james-madison-father-the-constitution)
+
 [^27]: [James Madison as Father of the Constitution - Wikipedia](https://en.wikipedia.org/wiki/James_Madison_as_Father_of_the_Constitution)
+
 [^28]: [James Madison | Chapman University](https://www.chapman.edu/about/our-home/busts-collection/madison.aspx)
+
 [^29]: [Executive Branch | Papers of James Madison](https://pjm.as.virginia.edu/executive-branch)
+
 [^30]: [James Madison: Impact and Legacy | Miller Center](https://millercenter.org/president/madison/impact-and-legacy)
+
 [^31]: [James Madison, Ratification, and The Federalist Papers | Constitution Center](https://constitutioncenter.org/news-debate/podcasts/james-madison-ratification-and-the-federalist-papers)
+
 [^32]: [The Federalist Papers - Wikipedia](https://en.wikipedia.org/wiki/The_Federalist_Papers)
+
 [^33]: [The Avalon Project: The Federalist Papers No. 10](https://avalon.law.yale.edu/18th_century/fed10.asp)
+
 [^34]: [Federalist No. 51 | Bill of Rights Institute](https://billofrightsinstitute.org/primary-sources/federalist-no-51)
+
 [^35]: [Federalist 10 | Bill of Rights Institute](https://billofrightsinstitute.org/primary-sources/federalist-no-10)
+
 [^36]: [Full Text of The Federalist Papers | Library of Congress](https://guides.loc.gov/federalist-papers/full-text)
+
 [^37]: [Federalist papers | History, Contents, & Facts | Britannica](https://www.britannica.com/topic/Federalist-papers)
+
 [^38]: [Federalist 39 | Bill of Rights Institute](https://billofrightsinstitute.org/primary-sources/federalist-no-39)
+
 [^39]: [James Madison Study Guide: Secretary of State | SparkNotes](https://www.sparknotes.com/biography/madison/section7/)
+
 [^40]: [The Louisiana Purchase | Library of Congress](https://www.loc.gov/collections/louisiana-european-explorations-and-the-louisiana-purchase/articles-and-essays/the-louisiana-purchase/)
+
 [^41]: [Louisiana Purchase - Wikipedia](https://en.wikipedia.org/wiki/Louisiana_Purchase)
+
 [^42]: [James Madison Presidency & Timeline](https://www.presidential-power.org/presidencies-timelines/james-madison-presidency-timeline.htm)
+
 [^43]: [Timeline: James Madison | World History](https://www.worldhistory.org/timeline/James_Madison/)
+
 [^44]: [Virginia Statute for Establishing Religious Freedom | Encyclopedia Virginia](https://encyclopediavirginia.org/entries/virginia-statute-for-establishing-religious-freedom-1786/)
+
 [^45]: [Summer 1812: Congress stages fiery debates | National Park Service](https://www.nps.gov/articles/mr-madison-s-war.htm)
+
 [^46]: [June 1, 1812: War Message | Miller Center](https://millercenter.org/the-presidency/presidential-speeches/june-1-1812-special-message-congress-foreign-policy-crisis-war)
+
 [^47]: [Series: Madison, Party Politics and the War of 1812 | National Park Service](https://www.nps.gov/articles/series.htm?id=26188C6B-B86F-91CD-3528D6DD6C4523A9)
+
 [^48]: [James Madison Preserved Freedoms While Waging War | Papers of James Madison](https://pjm.as.virginia.edu/oped-stagg)
+
 [^49]: [Political enemies judge President James Madison | National Park Service](https://www.nps.gov/articles/grading-madison-wartime-president.htm)
+
 [^50]: [Presidential Controversies: James Madison and the War of 1812](https://potus-geeks.livejournal.com/611121.html)
+
 [^51]: [James Madison - US Constitution, War of 1812, Federalist | Britannica](https://www.britannica.com/biography/James-Madison/Madisons-presidency)
+
 [^52]: [James Madison | Clinton White House](https://clintonwhitehouse3.archives.gov/WH/glimpse/presidents/html/jm4.html)
+
 [^53]: [James Madison: Foreign Affairs | Miller Center](https://millercenter.org/president/madison/foreign-affairs)
+
 [^54]: [James Madison - Wikipedia](https://en.wikipedia.org/wiki/James_Madison)
+
 [^55]: [Political enemies judge President James Madison | National Park Service](https://www.nps.gov/articles/grading-madison-wartime-president.htm)
+
 [^56]: [Madison, James and Slavery - Encyclopedia Virginia](https://encyclopediavirginia.org/entries/madison-james-and-slavery/)
+
 [^57]: [Modern-day struggle at James Madison's plantation Montpelier](https://theconversation.com/modern-day-struggle-at-james-madisons-plantation-montpelier-to-include-the-descendants-voices-of-the-enslaved-181929)
+
 [^58]: [Princeton & Slavery | James Madison](https://slavery.princeton.edu/stories/james-madison)
+
 [^59]: [James Madison's plantation vowed to share power | Washington Post](https://www.washingtonpost.com/history/2022/04/22/james-madison-montpelier-plantation-descendants/)
+
 [^60]: [James Madison: Family Life | Miller Center](https://millercenter.org/president/madison/family-life)
+
 [^61]: [Dolley Madison - Wikipedia](https://en.wikipedia.org/wiki/Dolley_Madison)
+
 [^62]: [Dolley Madison - White House Historical Association](https://www.whitehousehistory.org/bios/dolley-madison)
+
 [^63]: [Dolley Madison | American Battlefield Trust](https://www.battlefields.org/learn/biographies/dolley-madison)
+
 [^64]: [The Surprising Raucous Home Life of the Madisons | Smithsonian](https://www.smithsonianmag.com/history/surprising-raucous-home-life-madisons-180954205/)
+
 [^65]: [Dolley Madison | Biography, First Lady, & Facts | Britannica](https://www.britannica.com/biography/Dolley-Madison)
+
 [^66]: [Dolley Madison's Life and Times](https://rotunda.upress.virginia.edu/dmde/bio-intro.xqy)
+
 [^67]: [Dolley Madison's Life | PBS](https://www.pbs.org/wgbh/americanexperience/features/dolley-madisons-life/)
+
 [^68]: [10 Things You May Not Know About James Madison | HISTORY](https://www.history.com/articles/10-things-you-may-not-know-about-james-madison)
+
 [^69]: [James Madison with Ham](https://presidentialham.com/u-s-presidents/james-madison-with-ham/)
+
 [^70]: [Character Descriptions | WGVU](https://www.wgvu.org/inventingamerica/character-descriptions/)
+
 [^71]: [What was James Madison's personality like? | Homework.Study](https://homework.study.com/explanation/what-was-james-madison-s-personality-like.html)
+
 [^72]: [What was James Madison like as a person? | Quora](https://www.quora.com/What-was-James-Madison-like-as-a-person)
+
 [^73]: [James Madison | Founders on the Founders](https://csac.history.wisc.edu/multimedia/founders-on-the-founders/james-madison/)
+
 [^74]: [James Madison Character Analysis | LitCharts](https://www.litcharts.com/lit/founding-brothers/characters/james-madison)
+
 [^75]: [James Madison, the Clearest Thinker | The Heritage Foundation](https://www.heritage.org/american-founders/commentary/james-madison-the-clearest-thinker)
+
 [^76]: [James Madison Study Guide: Secretary of State | SparkNotes](https://www.sparknotes.com/biography/madison/section7/)
+
 [^77]: [Retirement | Papers of James Madison](https://pjm.as.virginia.edu/retirement)
+
 [^78]: [James Madison (1751–1836) - Encyclopedia Virginia](https://encyclopediavirginia.org/entries/madison-james-1751-1836/)
+
 [^79]: [James Madison: Life After the Presidency | Miller Center](https://millercenter.org/president/madison/life-after-the-presidency)
+
 [^80]: [Madison's Role in the Founding of the University of Virginia](https://engagement.virginia.edu/learn/2020/02/14/madisons-role-in-the-founding-of-the-university-of-virginia)
+
 [^81]: [James Madison Study Guide: Retirement | SparkNotes](https://www.sparknotes.com/biography/madison/section10/)
+
 [^82]: [James Madison: Impact and Legacy | Miller Center](https://millercenter.org/president/madison/impact-and-legacy)
+
 [^83]: [James Madison - Founding Father, Constitution, Federalist | Britannica](https://www.britannica.com/biography/James-Madison/The-father-of-the-Constitution)
+
 [^84]: [The Avalon Project: The Federalist Papers No. 10](https://avalon.law.yale.edu/18th_century/fed10.asp)
+
 [^85]: [James Madison and the Federal Constitutional Convention | Library of Congress](https://www.loc.gov/collections/james-madison-papers/articles-and-essays/james-madison-and-the-federal-constitutional-convention-of-1787/)
+
 [^86]: [The Federalist Papers - Wikipedia](https://en.wikipedia.org/wiki/The_Federalist_Papers)
+
 [^87]: [Virginia Statute for Religious Freedom | First Amendment Encyclopedia](https://firstamendment.mtsu.edu/article/virginia-statute-for-religious-freedom/)
+
 [^88]: [James Madison and slavery - Wikipedia](https://en.wikipedia.org/wiki/James_Madison_and_slavery)
+
 [^89]: [Political enemies judge President James Madison | National Park Service](https://www.nps.gov/articles/grading-madison-wartime-president.htm)
+
 [^90]: [James Madison: Foreign Affairs | Miller Center](https://millercenter.org/president/madison/foreign-affairs)
+
 [^91]: [James Madison: Impact and Legacy | Miller Center](https://millercenter.org/president/madison/impact-and-legacy)
+
 [^92]: [James Madison as Father of the Constitution - Wikipedia](https://en.wikipedia.org/wiki/James_Madison_as_Father_of_the_Constitution)
+
 [^93]: [James Madison: Impact and Legacy | Miller Center](https://millercenter.org/president/madison/impact-and-legacy)
+
 [^94]: [James Madison: Impact and Legacy | Miller Center](https://millercenter.org/president/madison/impact-and-legacy)
+
 [^95]: [James Madison Preserved Freedoms While Waging War | Papers of James Madison](https://pjm.as.virginia.edu/oped-stagg)
+
 [^96]: [James Madison Preserved Freedoms While Waging War | Papers of James Madison](https://pjm.as.virginia.edu/oped-stagg)
+
 [^97]: [Federalist papers | History, Contents, & Facts | Britannica](https://www.britannica.com/topic/Federalist-papers)
+
 [^98]: [Full Text of The Federalist Papers | Library of Congress](https://guides.loc.gov/federalist-papers/full-text)
+
 [^99]: [James Madison: Impact and Legacy | Miller Center](https://millercenter.org/president/madison/impact-and-legacy)
+
 [^100]: [James Madison as Father of the Constitution - Wikipedia](https://en.wikipedia.org/wiki/James_Madison_as_Father_of_the_Constitution)
+
 [^101]: [James Madison: Father of the Constitution | The Heritage Foundation](https://www.heritage.org/political-process/report/james-madison-father-the-constitution)
+
 [^102]: [About James Madison - JMU](https://www.jmu.edu/civic/madison.shtml)
+
 [^103]: [The Other Madison Problem](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5846&context=flr)
+
 [^104]: [Political enemies judge President James Madison | National Park Service](https://www.nps.gov/articles/grading-madison-wartime-president.htm)
+
 [^105]: [James Madison: Foreign Affairs | Miller Center](https://millercenter.org/president/madison/foreign-affairs)
+
 [^106]: [Political enemies judge President James Madison | National Park Service](https://www.nps.gov/articles/grading-madison-wartime-president.htm)
+
 [^107]: [James Madison - US Constitution, War of 1812, Federalist | Britannica](https://www.britannica.com/biography/James-Madison/Madisons-presidency)
+
 [^108]: [Political enemies judge President James Madison | National Park Service](https://www.nps.gov/articles/grading-madison-wartime-president.htm)
+
 [^109]: [James Madison: Foreign Affairs | Miller Center](https://millercenter.org/president/madison/foreign-affairs)
+
 [^110]: [Madison, James and Slavery - Encyclopedia Virginia](https://encyclopediavirginia.org/entries/madison-james-and-slavery/)
+
 [^111]: [Princeton & Slavery | James Madison](https://slavery.princeton.edu/stories/james-madison)
+
 [^112]: [James Madison's plantation vowed to share power | Washington Post](https://www.washingtonpost.com/history/2022/04/22/james-madison-montpelier-plantation-descendants/)
+
 [^113]: [James Madison as Father of the Constitution - Wikipedia](https://en.wikipedia.org/wiki/James_Madison_as_Father_of_the_Constitution)
+
 [^114]: [Kentucky and Virginia Resolutions - Wikipedia](https://en.wikipedia.org/wiki/Kentucky_and_Virginia_Resolutions)
+
 [^115]: [James Madison Quotes | Goodreads](https://www.goodreads.com/author/quotes/63859.James_Madison)
+
 [^116]: [James Madison Quotes | JMU](http://educ.jmu.edu/~sochacjs/JamesMadisonQuotes.htm)
+
 [^117]: [James Madison Quotes About Tyranny | A-Z Quotes](https://www.azquotes.com/author/9277-James_Madison/tag/tyranny)
+
 [^118]: [TOP 25 QUOTES BY JAMES MADISON | A-Z Quotes](https://www.azquotes.com/author/9277-James_Madison)
+
 [^119]: [James Madison Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-madison-quotes)
+
 [^120]: [James Madison Quotes on Democracy | TheUSALeaders](https://theusaleaders.com/quotes/james-madison-quotes/)
+
 [^121]: [110+ James Madison Quotes | QUOTLR](https://quotlr.com/author/james-madison)

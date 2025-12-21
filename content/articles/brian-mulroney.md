@@ -133,30 +133,30 @@ The deficit continued to grow substantially during Mulroney's tenure, from about
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1939 | Born March 20 in Baie-Comeau, Quebec |
-| 1959 | Graduated from St. Francis Xavier University |
-| 1964 | Earned law degree from Laval University |
-| 1973 | Married Mila Pivnicki |
-| 1976 | Became president of Iron Ore Company of Canada; first ran for PC leadership, finishing third |
-| 1983 | Won Progressive Conservative Party leadership on June 11 |
-| 1983 | Elected to Parliament in Central Nova by-election, August 29 |
-| 1984 | Led Progressive Conservatives to landslide victory, September 4; became Prime Minister September 17 |
-| 1985 | Appointed first female Supreme Court Justice, Bertha Wilson |
-| 1987 | Signed Meech Lake Accord on June 3 |
-| 1988 | Won second majority government in "free trade election," November 21 |
-| 1988 | Canada-U.S. Free Trade Agreement came into effect January 1, 1989 |
-| 1990 | Meech Lake Accord failed to receive ratification, June 23 |
-| 1991 | Signed Canada-United States Air Quality Agreement |
-| 1991 | Introduced Goods and Services Tax (GST), January 1 |
-| 1992 | Charlottetown Accord rejected in national referendum, October 26 |
-| 1993 | North American Free Trade Agreement (NAFTA) signed |
-| 1993 | Announced retirement from politics, February 24 |
-| 1993 | Left office as Prime Minister, June 25 |
-| 2007 | Schreiber affair became public, leading to intense scrutiny |
-| 2009-2010 | Testified before Oliphant Commission investigating Schreiber payments |
-| 2024 | Died February 29 in Palm Beach, Florida at age 84 |
+| Year      | Event                                                                                               |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| 1939      | Born March 20 in Baie-Comeau, Quebec                                                                |
+| 1959      | Graduated from St. Francis Xavier University                                                        |
+| 1964      | Earned law degree from Laval University                                                             |
+| 1973      | Married Mila Pivnicki                                                                               |
+| 1976      | Became president of Iron Ore Company of Canada; first ran for PC leadership, finishing third        |
+| 1983      | Won Progressive Conservative Party leadership on June 11                                            |
+| 1983      | Elected to Parliament in Central Nova by-election, August 29                                        |
+| 1984      | Led Progressive Conservatives to landslide victory, September 4; became Prime Minister September 17 |
+| 1985      | Appointed first female Supreme Court Justice, Bertha Wilson                                         |
+| 1987      | Signed Meech Lake Accord on June 3                                                                  |
+| 1988      | Won second majority government in "free trade election," November 21                                |
+| 1988      | Canada-U.S. Free Trade Agreement came into effect January 1, 1989                                   |
+| 1990      | Meech Lake Accord failed to receive ratification, June 23                                           |
+| 1991      | Signed Canada-United States Air Quality Agreement                                                   |
+| 1991      | Introduced Goods and Services Tax (GST), January 1                                                  |
+| 1992      | Charlottetown Accord rejected in national referendum, October 26                                    |
+| 1993      | North American Free Trade Agreement (NAFTA) signed                                                  |
+| 1993      | Announced retirement from politics, February 24                                                     |
+| 1993      | Left office as Prime Minister, June 25                                                              |
+| 2007      | Schreiber affair became public, leading to intense scrutiny                                         |
+| 2009-2010 | Testified before Oliphant Commission investigating Schreiber payments                               |
+| 2024      | Died February 29 in Palm Beach, Florida at age 84                                                   |
 
 ---
 
@@ -176,49 +176,94 @@ The deficit continued to grow substantially during Mulroney's tenure, from about
 
 ## References
 
-[^1]: Sawatsky, John. *Mulroney: The Politics of Ambition*. Macfarlane Walter & Ross, 1991.
-[^2]: MacDonald, L. Ian. *Mulroney: The Making of the Prime Minister*. McClelland & Stewart, 1984.
-[^3]: Murphy, Rae, Robert Chodos, and Nick Auf der Maur. *Brian Mulroney: The Boy from Baie-Comeau*. James Lorimer & Company, 1984.
-[^4]: Newman, Peter C. *The Secret Mulroney Tapes: Unguarded Confessions of a Prime Minister*. Random House Canada, 2005.
-[^5]: Gratton, Michel. *"So, What Are the Boys Saying?": An Inside Look at Brian Mulroney in Power*. McGraw-Hill Ryerson, 1987.
-[^6]: Perlin, George. *The Tory Syndrome: Leadership Politics in the Progressive Conservative Party*. McGill-Queen's University Press, 1980.
-[^7]: Frizzell, Alan, and Anthony Westell. *The Canadian General Election of 1984*. Carleton University Press, 1985.
-[^8]: Doern, G. Bruce, and Brian W. Tomlin. *Faith and Fear: The Free Trade Story*. Stoddart, 1991.
-[^9]: Hart, Michael. *A Trading Nation: Canadian Trade Policy from Colonialism to Globalization*. UBC Press, 2002.
-[^10]: Macdonald, Douglas, and Debora VanNijnatten. "Reconciling Energy and Climate Policy in Canada: How Ottawa Mixes Carrots, Sticks, and Sermons." *Canadian Public Policy* 38, no. 2 (2012): 245-261.
-[^11]: Stairs, Denis. "The Political Culture of Canadian Foreign Policy." *Canadian Journal of Political Science* 15, no. 4 (1982): 667-690.
-[^12]: Gillespie, W. Irwin. *Tax, Borrow and Spend: Financing Federal Spending in Canada, 1867-1990*. Carleton University Press, 1991.
-[^13]: Freeman, Linda. *The Ambiguous Champion: Canada and South Africa in the Trudeau and Mulroney Years*. University of Toronto Press, 1997.
-[^14]: Cohen, Andrew. *A Deal Undone: The Making and Breaking of the Meech Lake Accord*. Douglas & McIntyre, 1990.
-[^15]: Russell, Peter H. *Constitutional Odyssey: Can Canadians Become a Sovereign People?* 3rd ed. University of Toronto Press, 2004.
-[^16]: Wilson, John. "The Canadian Political Cultures: Towards a Redefinition of the Nature of the Canadian Political System." *Canadian Journal of Political Science* 7, no. 3 (1974): 438-483.
-[^17]: Clarkson, Stephen. *Uncle Sam and Us: Globalization, Neoconservatism, and the Canadian State*. University of Toronto Press, 2002.
-[^18]: Kaplan, William. *A Secret Trial: Brian Mulroney, Stevie Cameron, and the Public Trust*. McGill-Queen's University Press, 2004.
-[^19]: Commission of Inquiry into Certain Allegations Respecting Business and Financial Dealings Between Karlheinz Schreiber and the Right Honourable Brian Mulroney (Oliphant Commission). *Final Report*. 2010.
-[^20]: Frizzell, Alan, Jon H. Pammett, and Anthony Westell. *The Canadian General Election of 1993*. Carleton University Press, 1994.
-[^21]: Mulroney, Mila. "On Being a Prime Minister's Wife." *Saturday Night*, October 1988.
-[^22]: Martin, Lawrence. *The Presidents and the Prime Ministers: Washington and Ottawa Face to Face: The Myth of Bilateral Bliss, 1867-1982*. Doubleday Canada, 1982.
-[^23]: Gratton, Michel. *Still the Boss: A Candid Look at Brian Mulroney*. Prentice-Hall Canada, 1990.
-[^24]: Simpson, Jeffrey. *The Friendly Dictatorship*. McClelland & Stewart, 2001.
-[^25]: "Former Prime Minister Brian Mulroney dies at 84." *CBC News*, February 29, 2024.
-[^26]: Bothwell, Robert. *The Penguin History of Canada*. Penguin Canada, 2006.
-[^27]: Laycock, David. *The New Right and Democracy in Canada: Understanding Reform and the Canadian Alliance*. Oxford University Press, 2002.
-[^28]: Young, Robert A. *The Secession of Quebec and the Future of Canada*. McGill-Queen's University Press, 1995.
-[^29]: Hale, Geoffrey. *So Near Yet So Far: The Public and Hidden Worlds of Canada-US Relations*. UBC Press, 2012.
-[^30]: Savoie, Donald J. *Governing from the Centre: The Concentration of Power in Canadian Politics*. University of Toronto Press, 1999.
-[^31]: "Ranking Canada's Best and Worst Prime Ministers." *Maclean's*, June 20, 2011.
-[^32]: Mintz, Jack, and Michael Smart. "Income Shifting, Investment, and Tax Competition: Theory and Evidence from Provincial Taxation in Canada." *Journal of Public Economics* 88, no. 6 (2004): 1149-1168.
-[^33]: Boyd, David R. *Unnatural Law: Rethinking Canadian Environmental Law and Policy*. UBC Press, 2003.
-[^34]: Burney, Derek H. *Getting It Done: A Memoir*. McGill-Queen's University Press, 2005.
-[^35]: Pratt, Cranford. "Competing Perspectives on Canadian Development Assistance Policy." *International Journal* 51, no. 2 (1996): 235-258.
-[^36]: Russell, Peter H. "The End of Mega Constitutional Politics in Canada?" *PS: Political Science & Politics* 26, no. 1 (1993): 33-37.
-[^37]: Cairns, Alan C. *Disruptions: Constitutional Struggles, from the Charter to Meech Lake*. McClelland & Stewart, 1991.
-[^38]: Hurtig, Mel. *The Vanishing Country: Is It Too Late to Save Canada?* McClelland & Stewart, 2002.
-[^39]: Kaplan, William. *Presumed Guilty: Brian Mulroney, the Airbus Affair, and the Government of Canada*. McClelland & Stewart, 1998.
-[^40]: McQuaig, Linda. *Shooting the Hippo: Death by Deficit and Other Canadian Myths*. Penguin Books, 1995.
-[^41]: Kneebone, Ronald D., and Kenneth J. McKenzie. "The Characteristics of Fiscal Policy in Canada." *Canadian Public Policy* 25, no. 4 (1999): 483-501.
-[^42]: Newman, Peter C. *The Secret Mulroney Tapes*.
-[^43]: MacDonald, L. Ian. *From Bourassa to Bourassa: Wilderness to Restoration*. McGill-Queen's University Press, 2002.
-[^44]: Kaplan, William. *A Secret Trial*.
-[^45]: Mulroney, Brian. *Where I Stand*. McClelland & Stewart, 1983.
-[^46]: "Mulroney's Environmental Speech." *Globe and Mail*, June 1989.
+[^1]: Sawatsky, John. _Mulroney: The Politics of Ambition_. Macfarlane Walter & Ross, 1991.
+
+[^2]: MacDonald, L. Ian. _Mulroney: The Making of the Prime Minister_. McClelland & Stewart, 1984.
+
+[^3]: Murphy, Rae, Robert Chodos, and Nick Auf der Maur. _Brian Mulroney: The Boy from Baie-Comeau_. James Lorimer & Company, 1984.
+
+[^4]: Newman, Peter C. _The Secret Mulroney Tapes: Unguarded Confessions of a Prime Minister_. Random House Canada, 2005.
+
+[^5]: Gratton, Michel. _"So, What Are the Boys Saying?": An Inside Look at Brian Mulroney in Power_. McGraw-Hill Ryerson, 1987.
+
+[^6]: Perlin, George. _The Tory Syndrome: Leadership Politics in the Progressive Conservative Party_. McGill-Queen's University Press, 1980.
+
+[^7]: Frizzell, Alan, and Anthony Westell. _The Canadian General Election of 1984_. Carleton University Press, 1985.
+
+[^8]: Doern, G. Bruce, and Brian W. Tomlin. _Faith and Fear: The Free Trade Story_. Stoddart, 1991.
+
+[^9]: Hart, Michael. _A Trading Nation: Canadian Trade Policy from Colonialism to Globalization_. UBC Press, 2002.
+
+[^10]: Macdonald, Douglas, and Debora VanNijnatten. "Reconciling Energy and Climate Policy in Canada: How Ottawa Mixes Carrots, Sticks, and Sermons." _Canadian Public Policy_ 38, no. 2 (2012): 245-261.
+
+[^11]: Stairs, Denis. "The Political Culture of Canadian Foreign Policy." _Canadian Journal of Political Science_ 15, no. 4 (1982): 667-690.
+
+[^12]: Gillespie, W. Irwin. _Tax, Borrow and Spend: Financing Federal Spending in Canada, 1867-1990_. Carleton University Press, 1991.
+
+[^13]: Freeman, Linda. _The Ambiguous Champion: Canada and South Africa in the Trudeau and Mulroney Years_. University of Toronto Press, 1997.
+
+[^14]: Cohen, Andrew. _A Deal Undone: The Making and Breaking of the Meech Lake Accord_. Douglas & McIntyre, 1990.
+
+[^15]: Russell, Peter H. _Constitutional Odyssey: Can Canadians Become a Sovereign People?_ 3rd ed. University of Toronto Press, 2004.
+
+[^16]: Wilson, John. "The Canadian Political Cultures: Towards a Redefinition of the Nature of the Canadian Political System." _Canadian Journal of Political Science_ 7, no. 3 (1974): 438-483.
+
+[^17]: Clarkson, Stephen. _Uncle Sam and Us: Globalization, Neoconservatism, and the Canadian State_. University of Toronto Press, 2002.
+
+[^18]: Kaplan, William. _A Secret Trial: Brian Mulroney, Stevie Cameron, and the Public Trust_. McGill-Queen's University Press, 2004.
+
+[^19]: Commission of Inquiry into Certain Allegations Respecting Business and Financial Dealings Between Karlheinz Schreiber and the Right Honourable Brian Mulroney (Oliphant Commission). _Final Report_. 2010.
+
+[^20]: Frizzell, Alan, Jon H. Pammett, and Anthony Westell. _The Canadian General Election of 1993_. Carleton University Press, 1994.
+
+[^21]: Mulroney, Mila. "On Being a Prime Minister's Wife." _Saturday Night_, October 1988.
+
+[^22]: Martin, Lawrence. _The Presidents and the Prime Ministers: Washington and Ottawa Face to Face: The Myth of Bilateral Bliss, 1867-1982_. Doubleday Canada, 1982.
+
+[^23]: Gratton, Michel. _Still the Boss: A Candid Look at Brian Mulroney_. Prentice-Hall Canada, 1990.
+
+[^24]: Simpson, Jeffrey. _The Friendly Dictatorship_. McClelland & Stewart, 2001.
+
+[^25]: "Former Prime Minister Brian Mulroney dies at 84." _CBC News_, February 29, 2024.
+
+[^26]: Bothwell, Robert. _The Penguin History of Canada_. Penguin Canada, 2006.
+
+[^27]: Laycock, David. _The New Right and Democracy in Canada: Understanding Reform and the Canadian Alliance_. Oxford University Press, 2002.
+
+[^28]: Young, Robert A. _The Secession of Quebec and the Future of Canada_. McGill-Queen's University Press, 1995.
+
+[^29]: Hale, Geoffrey. _So Near Yet So Far: The Public and Hidden Worlds of Canada-US Relations_. UBC Press, 2012.
+
+[^30]: Savoie, Donald J. _Governing from the Centre: The Concentration of Power in Canadian Politics_. University of Toronto Press, 1999.
+
+[^31]: "Ranking Canada's Best and Worst Prime Ministers." _Maclean's_, June 20, 2011.
+
+[^32]: Mintz, Jack, and Michael Smart. "Income Shifting, Investment, and Tax Competition: Theory and Evidence from Provincial Taxation in Canada." _Journal of Public Economics_ 88, no. 6 (2004): 1149-1168.
+
+[^33]: Boyd, David R. _Unnatural Law: Rethinking Canadian Environmental Law and Policy_. UBC Press, 2003.
+
+[^34]: Burney, Derek H. _Getting It Done: A Memoir_. McGill-Queen's University Press, 2005.
+
+[^35]: Pratt, Cranford. "Competing Perspectives on Canadian Development Assistance Policy." _International Journal_ 51, no. 2 (1996): 235-258.
+
+[^36]: Russell, Peter H. "The End of Mega Constitutional Politics in Canada?" _PS: Political Science & Politics_ 26, no. 1 (1993): 33-37.
+
+[^37]: Cairns, Alan C. _Disruptions: Constitutional Struggles, from the Charter to Meech Lake_. McClelland & Stewart, 1991.
+
+[^38]: Hurtig, Mel. _The Vanishing Country: Is It Too Late to Save Canada?_ McClelland & Stewart, 2002.
+
+[^39]: Kaplan, William. _Presumed Guilty: Brian Mulroney, the Airbus Affair, and the Government of Canada_. McClelland & Stewart, 1998.
+
+[^40]: McQuaig, Linda. _Shooting the Hippo: Death by Deficit and Other Canadian Myths_. Penguin Books, 1995.
+
+[^41]: Kneebone, Ronald D., and Kenneth J. McKenzie. "The Characteristics of Fiscal Policy in Canada." _Canadian Public Policy_ 25, no. 4 (1999): 483-501.
+
+[^42]: Newman, Peter C. _The Secret Mulroney Tapes_.
+
+[^43]: MacDonald, L. Ian. _From Bourassa to Bourassa: Wilderness to Restoration_. McGill-Queen's University Press, 2002.
+
+[^44]: Kaplan, William. _A Secret Trial_.
+
+[^45]: Mulroney, Brian. _Where I Stand_. McClelland & Stewart, 1983.
+
+[^46]: "Mulroney's Environmental Speech." _Globe and Mail_, June 1989.

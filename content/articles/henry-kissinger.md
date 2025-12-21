@@ -157,32 +157,32 @@ Legal scholars and international law experts point out that many of Kissinger's 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1923 | Born in Fürth, Bavaria, Germany on May 27 |
-| 1938 | Fled Nazi Germany with family, immigrated to United States |
-| 1943 | Became U.S. citizen; drafted into U.S. Army |
-| 1945 | Served in World War II, earned Bronze Star |
-| 1950 | Graduated summa cum laude from Harvard University |
-| 1954 | Earned Ph.D. from Harvard; joined Harvard faculty |
-| 1957 | Published "Nuclear Weapons and Foreign Policy" |
-| 1969 | Appointed National Security Advisor by President Nixon |
-| 1969-1970 | Secret bombing of Cambodia |
-| 1971 | Secret trip to Beijing to arrange Nixon's China visit |
-| 1971 | Supported Pakistan during Bangladesh genocide |
-| 1972 | Nixon visits China; SALT I treaty signed with Soviet Union |
-| 1973 | Paris Peace Accords signed; awarded Nobel Peace Prize |
-| 1973 | Appointed Secretary of State (while remaining NSA) |
-| 1973 | Supported military coup against Allende in Chile |
-| 1973 | Yom Kippur War; began shuttle diplomacy in Middle East |
-| 1974 | Married Nancy Maginnes |
-| 1975 | Gave "green light" for Indonesian invasion of East Timor |
-| 1975 | Negotiated Sinai Interim Agreement |
-| 1977 | Left government after Carter's inauguration |
-| 1982 | Founded Kissinger Associates consulting firm |
-| 1994 | Published "Diplomacy" |
-| 2014 | Published "World Order" |
-| 2023 | Died at age 100 on November 29 in Connecticut |
+| Year      | Event                                                      |
+| --------- | ---------------------------------------------------------- |
+| 1923      | Born in Fürth, Bavaria, Germany on May 27                  |
+| 1938      | Fled Nazi Germany with family, immigrated to United States |
+| 1943      | Became U.S. citizen; drafted into U.S. Army                |
+| 1945      | Served in World War II, earned Bronze Star                 |
+| 1950      | Graduated summa cum laude from Harvard University          |
+| 1954      | Earned Ph.D. from Harvard; joined Harvard faculty          |
+| 1957      | Published "Nuclear Weapons and Foreign Policy"             |
+| 1969      | Appointed National Security Advisor by President Nixon     |
+| 1969-1970 | Secret bombing of Cambodia                                 |
+| 1971      | Secret trip to Beijing to arrange Nixon's China visit      |
+| 1971      | Supported Pakistan during Bangladesh genocide              |
+| 1972      | Nixon visits China; SALT I treaty signed with Soviet Union |
+| 1973      | Paris Peace Accords signed; awarded Nobel Peace Prize      |
+| 1973      | Appointed Secretary of State (while remaining NSA)         |
+| 1973      | Supported military coup against Allende in Chile           |
+| 1973      | Yom Kippur War; began shuttle diplomacy in Middle East     |
+| 1974      | Married Nancy Maginnes                                     |
+| 1975      | Gave "green light" for Indonesian invasion of East Timor   |
+| 1975      | Negotiated Sinai Interim Agreement                         |
+| 1977      | Left government after Carter's inauguration                |
+| 1982      | Founded Kissinger Associates consulting firm               |
+| 1994      | Published "Diplomacy"                                      |
+| 2014      | Published "World Order"                                    |
+| 2023      | Died at age 100 on November 29 in Connecticut              |
 
 ---
 
@@ -205,52 +205,101 @@ Legal scholars and international law experts point out that many of Kissinger's 
 ## References
 
 [^1]: Ferguson, Niall. "Kissinger: 1923-1968: The Idealist." Penguin Press, 2015.
+
 [^2]: Suri, Jeremi. "Henry Kissinger and the American Century." Harvard University Press, 2007.
+
 [^3]: Isaacson, Walter. "Kissinger: A Biography." Simon & Schuster, 1992.
+
 [^4]: Kissinger, Henry. "A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812-1822." Houghton Mifflin, 1957.
+
 [^5]: Kissinger, Henry. "Nuclear Weapons and Foreign Policy." Harper & Brothers, 1957.
+
 [^6]: Kalb, Marvin and Bernard Kalb. "Kissinger." Little, Brown and Company, 1974.
+
 [^7]: Haldeman, H.R. "The Haldeman Diaries: Inside the Nixon White House." G.P. Putnam's Sons, 1994.
+
 [^8]: Morris, Roger. "Uncertain Greatness: Henry Kissinger and American Foreign Policy." Harper & Row, 1977.
+
 [^9]: MacMillan, Margaret. "Nixon and Mao: The Week That Changed the World." Random House, 2007.
+
 [^10]: Mann, James. "About Face: A History of America's Curious Relationship with China, from Nixon to Clinton." Alfred A. Knopf, 1999.
+
 [^11]: Garthoff, Raymond L. "Détente and Confrontation: American-Soviet Relations from Nixon to Reagan." Brookings Institution, 1985.
+
 [^12]: Litwak, Robert S. "Détente and the Nixon Doctrine: American Foreign Policy and the Pursuit of Stability, 1969-1976." Cambridge University Press, 1984.
+
 [^13]: Quandt, William B. "Peace Process: American Diplomacy and the Arab-Israeli Conflict Since 1967." Brookings Institution Press, 2005.
+
 [^14]: Siniver, Asaf. "Nixon, Kissinger, and U.S. Foreign Policy Making: The Machinery of Crisis." Cambridge University Press, 2008.
+
 [^15]: Herring, George C. "America's Longest War: The United States and Vietnam, 1950-1975." McGraw-Hill, 2002.
+
 [^16]: Owen, Taylor and Ben Kiernan. "Bombs Over Cambodia." The Walrus, October 2006.
+
 [^17]: Hersh, Seymour M. "The Price of Power: Kissinger in the Nixon White House." Summit Books, 1983.
+
 [^18]: Bass, Gary J. "The Blood Telegram: Nixon, Kissinger, and a Forgotten Genocide." Alfred A. Knopf, 2013.
+
 [^19]: Kornbluh, Peter. "The Pinochet File: A Declassified Dossier on Atrocity and Accountability." The New Press, 2003.
+
 [^20]: Dinges, John. "The Condor Years: How Pinochet and His Allies Brought Terrorism to Three Continents." The New Press, 2004.
+
 [^21]: National Security Archive. "East Timor Revisited: Ford, Kissinger and the Indonesian Invasion, 1975-76." George Washington University, 2001.
+
 [^22]: Ellsberg, Daniel. "Secrets: A Memoir of Vietnam and the Pentagon Papers." Viking, 2002.
+
 [^23]: Isaacson, Walter. "Kissinger: A Biography." Simon & Schuster, 1992.
+
 [^24]: Starr, Barbara. "Henry Kissinger, Giant of 20th Century Diplomacy, Dies at 100." CNN, November 30, 2023.
+
 [^25]: Landler, Mark. "Henry Kissinger, Diplomat of the Highest Order, Dies at 100." The New York Times, November 29, 2023.
+
 [^26]: Sanger, David E. "Kissinger's Firm Kept Client List Secret for Decades." The New York Times, November 30, 2023.
+
 [^27]: BBC News. "Henry Kissinger: Divisive Giant of US Foreign Policy Dies Aged 100." November 30, 2023.
+
 [^28]: Grandin, Greg. "Kissinger's Shadow: The Long Reach of America's Most Controversial Statesman." Metropolitan Books, 2015.
+
 [^29]: Kissinger, Henry. "Diplomacy." Simon & Schuster, 1994.
+
 [^30]: Gaddis, John Lewis. "Strategies of Containment: A Critical Appraisal of American National Security Policy During the Cold War." Oxford University Press, 2005.
+
 [^31]: Moyn, Samuel. "Humane: How the United States Abandoned Peace and Reinvented War." Farrar, Straus and Giroux, 2021.
+
 [^32]: Hitchens, Christopher. "The Trial of Henry Kissinger." Verso, 2001.
+
 [^33]: Suri, Jeremi. "The Impossible Presidency: The Rise and Fall of America's Highest Office." Basic Books, 2017.
+
 [^34]: Ferguson, Niall. "Kissinger: 1923-1968: The Idealist." Penguin Press, 2015.
+
 [^35]: Shultz, George P. "Turmoil and Triumph: My Years as Secretary of State." Charles Scribner's Sons, 1993.
+
 [^36]: Kaplan, Robert D. "Warrior Politics: Why Leadership Demands a Pagan Ethos." Random House, 2002.
+
 [^37]: Wang, Jisi. "China's Search for a Grand Strategy." Foreign Affairs, March/April 2011.
+
 [^38]: Kissinger, Henry. "World Order." Penguin Press, 2014.
+
 [^39]: Hitchens, Christopher. "The Trial of Henry Kissinger." Verso, 2001.
+
 [^40]: Democracy Now. "Protests Erupt at Kissinger Memorial Services Worldwide." December 2023.
+
 [^41]: Grandin, Greg. "Kissinger's Shadow: The Long Reach of America's Most Controversial Statesman." Metropolitan Books, 2015.
+
 [^42]: Shawcross, William. "Sideshow: Kissinger, Nixon, and the Destruction of Cambodia." Simon & Schuster, 1979.
+
 [^43]: Power, Samantha. "A Problem from Hell: America and the Age of Genocide." Basic Books, 2002.
+
 [^44]: Sands, Philippe. "East West Street: On the Origins of 'Genocide' and 'Crimes Against Humanity.'" Alfred A. Knopf, 2016.
+
 [^45]: Kalb, Marvin and Bernard Kalb. "Kissinger." Little, Brown and Company, 1974.
+
 [^46]: Morris, Roger. "Uncertain Greatness: Henry Kissinger and American Foreign Policy." Harper & Row, 1977.
+
 [^47]: Kissinger, Henry. "White House Years." Little, Brown and Company, 1979.
+
 [^48]: Kissinger, Henry. "Leadership: Six Studies in World Strategy." Penguin Press, 2022.
+
 [^49]: Kissinger, Henry. "Years of Upheaval." Little, Brown and Company, 1982.
+
 [^50]: Kissinger, Henry. "Diplomacy." Simon & Schuster, 1994.

@@ -4,7 +4,8 @@ name: "Nikita Khrushchev"
 birth: "1894-04-15"
 death: "1971-09-11"
 nationality: "Soviet Union"
-occupation: ["Political Leader", "First Secretary of the Communist Party", "Premier of the Soviet Union"]
+occupation:
+  ["Political Leader", "First Secretary of the Communist Party", "Premier of the Soviet Union"]
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nikita_Khrushchev_1959.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
@@ -123,28 +124,28 @@ Political scientists studying authoritarianism note that Khrushchev's reforms we
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1894 | Born April 15 in Kalinovka, Russian Empire |
-| 1909 | Moved to Yuzovka (Donetsk), began working in factories |
-| 1918 | Joined the Bolshevik Party during Russian Civil War |
-| 1929 | Enrolled at Industrial Academy in Moscow |
-| 1935 | Appointed First Secretary of Moscow Communist Party |
-| 1938 | Became First Secretary of Ukrainian Communist Party |
-| 1941-1945 | Served as military commissar during World War II |
-| 1949 | Returned to Moscow as party secretary |
-| 1953 | Stalin died; Khrushchev became First Secretary in September |
-| 1954 | Launched Virgin Lands Campaign |
-| 1956 | Delivered "Secret Speech" denouncing Stalin at 20th Party Congress |
-| 1956 | Ordered suppression of Hungarian Revolution |
-| 1957 | Launched Sputnik 1, first artificial satellite |
-| 1958 | Became Premier of Soviet Union (Chairman of Council of Ministers) |
-| 1959 | Made historic visit to the United States |
-| 1961 | Yuri Gagarin became first human in space; Berlin Wall constructed |
-| 1962 | Cuban Missile Crisis brought world to brink of nuclear war |
-| 1963 | Signed Limited Nuclear Test Ban Treaty with US and UK |
-| 1964 | Ousted from power in October by party colleagues |
-| 1971 | Died September 11 in Moscow |
+| Year      | Event                                                              |
+| --------- | ------------------------------------------------------------------ |
+| 1894      | Born April 15 in Kalinovka, Russian Empire                         |
+| 1909      | Moved to Yuzovka (Donetsk), began working in factories             |
+| 1918      | Joined the Bolshevik Party during Russian Civil War                |
+| 1929      | Enrolled at Industrial Academy in Moscow                           |
+| 1935      | Appointed First Secretary of Moscow Communist Party                |
+| 1938      | Became First Secretary of Ukrainian Communist Party                |
+| 1941-1945 | Served as military commissar during World War II                   |
+| 1949      | Returned to Moscow as party secretary                              |
+| 1953      | Stalin died; Khrushchev became First Secretary in September        |
+| 1954      | Launched Virgin Lands Campaign                                     |
+| 1956      | Delivered "Secret Speech" denouncing Stalin at 20th Party Congress |
+| 1956      | Ordered suppression of Hungarian Revolution                        |
+| 1957      | Launched Sputnik 1, first artificial satellite                     |
+| 1958      | Became Premier of Soviet Union (Chairman of Council of Ministers)  |
+| 1959      | Made historic visit to the United States                           |
+| 1961      | Yuri Gagarin became first human in space; Berlin Wall constructed  |
+| 1962      | Cuban Missile Crisis brought world to brink of nuclear war         |
+| 1963      | Signed Limited Nuclear Test Ban Treaty with US and UK              |
+| 1964      | Ousted from power in October by party colleagues                   |
+| 1971      | Died September 11 in Moscow                                        |
 
 ---
 
@@ -166,101 +167,198 @@ Political scientists studying authoritarianism note that Khrushchev's reforms we
 
 ## References
 
-[^1]: Taubman, William. *Khrushchev: The Man and His Era*. New York: W.W. Norton & Company, 2003, pp. 19-21.
-[^2]: Medvedev, Roy and Zhores Medvedev. *Khrushchev: The Years in Power*. New York: Columbia University Press, 1976, pp. 3-5.
-[^3]: Crankshaw, Edward. *Khrushchev: A Career*. New York: Viking Press, 1966, pp. 12-15.
-[^4]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 22-25.
-[^5]: Khrushchev, Nikita S. *Khrushchev Remembers*. Translated by Strobe Talbott. Boston: Little, Brown and Company, 1970, pp. 17-20.
-[^6]: Tompson, William J. *Khrushchev: A Political Life*. New York: St. Martin's Press, 1995, pp. 18-22.
-[^7]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 28-32.
-[^8]: Tompson, William J. *Khrushchev: A Political Life*, pp. 35-45.
-[^9]: Medvedev, Roy and Zhores Medvedev. *Khrushchev: The Years in Power*, pp. 12-15.
-[^10]: Conquest, Robert. *The Great Terror: A Reassessment*. New York: Oxford University Press, 1990, pp. 285-289.
-[^11]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 89-107.
-[^12]: Getty, J. Arch and Oleg V. Naumov. *The Road to Terror: Stalin and the Self-Destruction of the Bolsheviks, 1932-1939*. New Haven: Yale University Press, 1999, pp. 423-428.
-[^13]: Tompson, William J. *Khrushchev: A Political Life*, pp. 89-95.
-[^14]: Beevor, Antony. *Stalingrad: The Fateful Siege: 1942-1943*. New York: Viking, 1998, pp. 156-158.
-[^15]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 189-205.
-[^16]: Zubok, Vladislav and Constantine Pleshakov. *Inside the Kremlin's Cold War: From Stalin to Khrushchev*. Cambridge: Harvard University Press, 1996, pp. 154-160.
-[^17]: Knight, Amy. *Beria: Stalin's First Lieutenant*. Princeton: Princeton University Press, 1993, pp. 196-201.
-[^18]: Tompson, William J. *Khrushchev: A Political Life*, pp. 137-142.
+[^1]: Taubman, William. _Khrushchev: The Man and His Era_. New York: W.W. Norton & Company, 2003, pp. 19-21.
+
+[^2]: Medvedev, Roy and Zhores Medvedev. _Khrushchev: The Years in Power_. New York: Columbia University Press, 1976, pp. 3-5.
+
+[^3]: Crankshaw, Edward. _Khrushchev: A Career_. New York: Viking Press, 1966, pp. 12-15.
+
+[^4]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 22-25.
+
+[^5]: Khrushchev, Nikita S. _Khrushchev Remembers_. Translated by Strobe Talbott. Boston: Little, Brown and Company, 1970, pp. 17-20.
+
+[^6]: Tompson, William J. _Khrushchev: A Political Life_. New York: St. Martin's Press, 1995, pp. 18-22.
+
+[^7]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 28-32.
+
+[^8]: Tompson, William J. _Khrushchev: A Political Life_, pp. 35-45.
+
+[^9]: Medvedev, Roy and Zhores Medvedev. _Khrushchev: The Years in Power_, pp. 12-15.
+
+[^10]: Conquest, Robert. _The Great Terror: A Reassessment_. New York: Oxford University Press, 1990, pp. 285-289.
+
+[^11]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 89-107.
+
+[^12]: Getty, J. Arch and Oleg V. Naumov. _The Road to Terror: Stalin and the Self-Destruction of the Bolsheviks, 1932-1939_. New Haven: Yale University Press, 1999, pp. 423-428.
+
+[^13]: Tompson, William J. _Khrushchev: A Political Life_, pp. 89-95.
+
+[^14]: Beevor, Antony. _Stalingrad: The Fateful Siege: 1942-1943_. New York: Viking, 1998, pp. 156-158.
+
+[^15]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 189-205.
+
+[^16]: Zubok, Vladislav and Constantine Pleshakov. _Inside the Kremlin's Cold War: From Stalin to Khrushchev_. Cambridge: Harvard University Press, 1996, pp. 154-160.
+
+[^17]: Knight, Amy. _Beria: Stalin's First Lieutenant_. Princeton: Princeton University Press, 1993, pp. 196-201.
+
+[^18]: Tompson, William J. _Khrushchev: A Political Life_, pp. 137-142.
+
 [^19]: Khrushchev, Nikita S. "On the Cult of Personality and Its Consequences." Speech to 20th Congress of the Communist Party of the Soviet Union, February 25, 1956.
-[^20]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 270-296.
-[^21]: Cohen, Stephen F. "The Stalin Question since Stalin." In *An End to Silence: Uncensored Opinion in the Soviet Union*, edited by Stephen F. Cohen, pp. 22-50. New York: W.W. Norton, 1982.
-[^22]: Siddiqi, Asif A. *The Soviet Space Race with Apollo*. Gainesville: University Press of Florida, 2003, pp. 156-178.
-[^23]: McDougall, Walter A. *The Heavens and the Earth: A Political History of the Space Age*. New York: Basic Books, 1985, pp. 141-156.
-[^24]: Siddiqi, Asif A. *Challenge to Apollo: The Soviet Union and the Space Race, 1945-1974*. Washington: NASA History Division, 2000, pp. 265-285.
-[^25]: Filtzer, Donald. *The Khrushchev Era: De-Stalinization and the Limits of Reform in the USSR, 1953-1964*. London: Macmillan, 1993, pp. 45-67.
-[^26]: Harris, Steven E. *Communism on Tomorrow Street: Mass Housing and Everyday Life after Stalin*. Washington: Woodrow Wilson Center Press, 2013, pp. 89-112.
-[^27]: Smith, Mark B. *Property of Communists: The Urban Housing Program from Stalin to Khrushchev*. DeKalb: Northern Illinois University Press, 2010, pp. 156-189.
-[^28]: Zubok, Vladislav M. *A Failed Empire: The Soviet Union in the Cold War from Stalin to Gorbachev*. Chapel Hill: University of North Carolina Press, 2007, pp. 107-115.
-[^29]: Carlson, Peter. *K Blows Top: A Cold War Comic Interlude Starring Nikita Khrushchev, America's Most Unlikely Tourist*. New York: PublicAffairs, 2009.
-[^30]: Nove, Alec. *An Economic History of the USSR, 1917-1991*. London: Penguin Books, 1992, pp. 345-367.
-[^31]: Tompson, William J. *Khrushchev: A Political Life*, pp. 201-215.
-[^32]: McCauley, Martin. *Khrushchev and the Development of Soviet Agriculture: The Virgin Land Programme, 1953-1964*. London: Macmillan, 1976.
-[^33]: Breslauer, George W. *Khrushchev and Brezhnev as Leaders: Building Authority in Soviet Politics*. London: George Allen & Unwin, 1982, pp. 89-125.
-[^34]: Moon, David. *The Plough that Broke the Steppes: Agriculture and Environment on Russia's Grasslands, 1700-1914*. Oxford: Oxford University Press, 2013, pp. 267-289.
-[^35]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 378-392.
-[^36]: Fursenko, Aleksandr and Timothy Naftali. *Khrushchev's Cold War: The Inside Story of an American Adversary*. New York: W.W. Norton, 2006.
-[^37]: Dobbs, Michael. *One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War*. New York: Alfred A. Knopf, 2008.
-[^38]: Gaddis, John Lewis. *The Cold War: A New History*. New York: Penguin Press, 2005, pp. 70-88.
-[^39]: Gati, Charles. *Failed Illusions: Moscow, Washington, Budapest, and the 1956 Hungarian Revolt*. Washington: Woodrow Wilson Center Press, 2006.
-[^40]: Granville, Johanna. *The First Domino: International Decision Making during the Hungarian Crisis of 1956*. College Station: Texas A&M University Press, 2004, pp. 134-167.
-[^41]: Taylor, Frederick. *The Berlin Wall: A World Divided, 1961-1989*. New York: HarperCollins, 2006, pp. 145-178.
-[^42]: Conquest, Robert. *The Great Terror: A Reassessment*, pp. 285-295.
-[^43]: Snyder, Timothy. *Bloodlands: Europe Between Hitler and Stalin*. New York: Basic Books, 2010, pp. 89-92.
-[^44]: Tompson, William J. *Khrushchev: A Political Life*, pp. 234-256.
-[^45]: Khrushchev, Sergei. *Nikita Khrushchev and the Creation of a Superpower*. University Park: Pennsylvania State University Press, 2000, pp. 423-445.
-[^46]: Luthi, Lorenz M. *The Sino-Soviet Split: Cold War in the Communist World*. Princeton: Princeton University Press, 2008, pp. 167-201.
-[^47]: Radchenko, Sergey. *Two Suns in the Heavens: The Sino-Soviet Struggle for Supremacy, 1962-1967*. Washington: Woodrow Wilson Center Press, 2009, pp. 45-78.
-[^48]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 29-31.
-[^49]: Khrushchev, Sergei. *Memoirs of Nikita Khrushchev, Volume 1: Commissar, 1918-1945*. University Park: Pennsylvania State University Press, 2004, pp. 156-167.
-[^50]: Tompson, William J. *Khrushchev: A Political Life*, pp. 67-69.
-[^51]: Khrushchev, Sergei. *Nikita Khrushchev and the Creation of a Superpower*, pp. 12-34.
-[^52]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 8-12.
-[^53]: Beschloss, Michael R. *The Crisis Years: Kennedy and Khrushchev, 1960-1963*. New York: Edward Burlingame Books, 1991, pp. 234-256.
-[^54]: Khrushchev, Nikita S. *Khrushchev Remembers*, pp. 189-212.
-[^55]: Carlson, Peter. *K Blows Top*, pp. 156-189.
-[^56]: Khrushchev, Nikita S. *Khrushchev Remembers: The Last Testament*. Translated by Strobe Talbott. Boston: Little, Brown and Company, 1974.
-[^57]: Khrushchev, Sergei. *Nikita Khrushchev and the Creation of a Superpower*, pp. 567-589.
-[^58]: Khrushchev, Sergei. *Memoirs of Nikita Khrushchev, Volume 3: Statesman, 1953-1964*. University Park: Pennsylvania State University Press, 2007, pp. 45-67.
-[^59]: Cohen, Stephen F. *Rethinking the Soviet Experience: Politics and History Since 1917*. New York: Oxford University Press, 1985, pp. 123-145.
-[^60]: Zubok, Vladislav M. *Zhivago's Children: The Last Russian Intelligentsia*. Cambridge: Harvard University Press, 2009, pp. 89-112.
-[^61]: Spechler, Dina R. *Permitted Dissent in the USSR: Novy Mir and the Soviet Regime*. New York: Praeger, 1982, pp. 67-89.
-[^62]: Siddiqi, Asif A. *The Soviet Space Race with Apollo*, pp. 345-367.
-[^63]: Harris, Steven E. *Communism on Tomorrow Street*, pp. 267-289.
-[^64]: English, Robert D. *Russia and the Idea of the West: Gorbachev, Intellectuals, and the End of the Cold War*. New York: Columbia University Press, 2000, pp. 78-92.
-[^65]: Breslauer, George W. *Khrushchev and Brezhnev as Leaders*, pp. 234-256.
-[^66]: Doder, Dusko. *Shadows and Whispers: Power Politics Inside the Kremlin from Brezhnev to Gorbachev*. New York: Random House, 1986, pp. 45-67.
-[^67]: Sherlock, Thomas. *Historical Narratives in the Soviet Union and Post-Soviet Russia: Destroying the Settled Past, Creating an Uncertain Future*. New York: Palgrave Macmillan, 2007, pp. 123-145.
-[^68]: Yurchak, Alexei. *Everything Was Forever, Until It Was No More: The Last Soviet Generation*. Princeton: Princeton University Press, 2006, pp. 89-107.
-[^69]: Sherlock, Thomas. *Historical Narratives in the Soviet Union and Post-Soviet Russia*, pp. 189-212.
-[^70]: Gaddis, John Lewis. *The Cold War: A New History*, pp. 70-88.
-[^71]: Taubman, William. *Khrushchev: The Man and His Era*, pp. 3-8.
-[^72]: Burlatsky, Fedor. *Khrushchev and the First Russian Spring*. New York: Charles Scribner's Sons, 1988, pp. 234-256.
-[^73]: Taubman, William. "Khrushchev: The Man, His Era, and His Reforms." In *Nikita Khrushchev*, edited by William Taubman, Sergei Khrushchev, and Abbott Gleason, pp. 1-34. New Haven: Yale University Press, 2000.
-[^74]: Taubman, William. *Khrushchev: The Man and His Era*, p. 3.
-[^75]: Medvedev, Roy A. *Khrushchev*. Garden City: Anchor Press/Doubleday, 1983, pp. 267-289.
-[^76]: Solzhenitsyn, Alexander. *The Oak and the Calf: Sketches of Literary Life in the Soviet Union*. New York: Harper & Row, 1980, pp. 45-67.
-[^77]: Nove, Alec. *An Economic History of the USSR, 1917-1991*, pp. 345-367.
-[^78]: Siddiqi, Asif A. *Challenge to Apollo*, pp. 156-178.
-[^79]: Gaddis, John Lewis. *Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War*. Oxford: Oxford University Press, 2005, pp. 198-216.
-[^80]: Beschloss, Michael R. *The Crisis Years*, pp. 123-145.
-[^81]: Fursenko, Aleksandr and Timothy Naftali. *"One Hell of a Gamble": Khrushchev, Castro, and Kennedy, 1958-1964*. New York: W.W. Norton, 1997, pp. 267-289.
-[^82]: Conquest, Robert. *The Great Terror: A Reassessment*, pp. 285-295.
-[^83]: Conquest, Robert. *Stalin: Breaker of Nations*. New York: Viking, 1991, pp. 312-324.
-[^84]: Gaddis, John Lewis. *We Now Know: Rethinking Cold War History*. Oxford: Clarendon Press, 1997, pp. 234-256.
-[^85]: Zubok, Vladislav and Constantine Pleshakov. *Inside the Kremlin's Cold War*, pp. 234-267.
-[^86]: Gaddis, John Lewis. *The Cold War: A New History*, pp. 70-88.
-[^87]: Hanson, Philip. *The Rise and Fall of the Soviet Economy: An Economic History of the USSR from 1945*. London: Longman, 2003, pp. 67-89.
-[^88]: Hanson, Philip. *The Rise and Fall of the Soviet Economy*, pp. 78-92.
-[^89]: Zygar, Mikhail. *All the Kremlin's Men: Inside the Court of Vladimir Putin*. New York: PublicAffairs, 2016, pp. 123-134.
-[^90]: Sakwa, Richard. *Putin: Russia's Choice*. London: Routledge, 2008, pp. 267-278.
-[^91]: Brown, Archie. *Seven Years that Changed the World: Perestroika in Perspective*. Oxford: Oxford University Press, 2007, pp. 45-67.
-[^92]: Breslauer, George W. *Khrushchev and Brezhnev as Leaders*, pp. 267-289.
-[^93]: Khrushchev, Nikita S. Speech at reception for Polish delegation, November 18, 1956. Published in *The New York Times*, November 19, 1956.
-[^94]: Khrushchev, Nikita S. *Khrushchev Remembers: The Last Testament*, p. 234.
-[^95]: Taubman, William. *Khrushchev: The Man and His Era*, p. 456.
-[^96]: Khrushchev, Nikita S. *Khrushchev Remembers*, p. 567.
-[^97]: Crankshaw, Edward. *Khrushchev: A Career*, p. 289.
-[^98]: Medvedev, Roy and Zhores Medvedev. *Khrushchev: The Years in Power*, p. 123.
+
+[^20]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 270-296.
+
+[^21]: Cohen, Stephen F. "The Stalin Question since Stalin." In _An End to Silence: Uncensored Opinion in the Soviet Union_, edited by Stephen F. Cohen, pp. 22-50. New York: W.W. Norton, 1982.
+
+[^22]: Siddiqi, Asif A. _The Soviet Space Race with Apollo_. Gainesville: University Press of Florida, 2003, pp. 156-178.
+
+[^23]: McDougall, Walter A. _The Heavens and the Earth: A Political History of the Space Age_. New York: Basic Books, 1985, pp. 141-156.
+
+[^24]: Siddiqi, Asif A. _Challenge to Apollo: The Soviet Union and the Space Race, 1945-1974_. Washington: NASA History Division, 2000, pp. 265-285.
+
+[^25]: Filtzer, Donald. _The Khrushchev Era: De-Stalinization and the Limits of Reform in the USSR, 1953-1964_. London: Macmillan, 1993, pp. 45-67.
+
+[^26]: Harris, Steven E. _Communism on Tomorrow Street: Mass Housing and Everyday Life after Stalin_. Washington: Woodrow Wilson Center Press, 2013, pp. 89-112.
+
+[^27]: Smith, Mark B. _Property of Communists: The Urban Housing Program from Stalin to Khrushchev_. DeKalb: Northern Illinois University Press, 2010, pp. 156-189.
+
+[^28]: Zubok, Vladislav M. _A Failed Empire: The Soviet Union in the Cold War from Stalin to Gorbachev_. Chapel Hill: University of North Carolina Press, 2007, pp. 107-115.
+
+[^29]: Carlson, Peter. _K Blows Top: A Cold War Comic Interlude Starring Nikita Khrushchev, America's Most Unlikely Tourist_. New York: PublicAffairs, 2009.
+
+[^30]: Nove, Alec. _An Economic History of the USSR, 1917-1991_. London: Penguin Books, 1992, pp. 345-367.
+
+[^31]: Tompson, William J. _Khrushchev: A Political Life_, pp. 201-215.
+
+[^32]: McCauley, Martin. _Khrushchev and the Development of Soviet Agriculture: The Virgin Land Programme, 1953-1964_. London: Macmillan, 1976.
+
+[^33]: Breslauer, George W. _Khrushchev and Brezhnev as Leaders: Building Authority in Soviet Politics_. London: George Allen & Unwin, 1982, pp. 89-125.
+
+[^34]: Moon, David. _The Plough that Broke the Steppes: Agriculture and Environment on Russia's Grasslands, 1700-1914_. Oxford: Oxford University Press, 2013, pp. 267-289.
+
+[^35]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 378-392.
+
+[^36]: Fursenko, Aleksandr and Timothy Naftali. _Khrushchev's Cold War: The Inside Story of an American Adversary_. New York: W.W. Norton, 2006.
+
+[^37]: Dobbs, Michael. _One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War_. New York: Alfred A. Knopf, 2008.
+
+[^38]: Gaddis, John Lewis. _The Cold War: A New History_. New York: Penguin Press, 2005, pp. 70-88.
+
+[^39]: Gati, Charles. _Failed Illusions: Moscow, Washington, Budapest, and the 1956 Hungarian Revolt_. Washington: Woodrow Wilson Center Press, 2006.
+
+[^40]: Granville, Johanna. _The First Domino: International Decision Making during the Hungarian Crisis of 1956_. College Station: Texas A&M University Press, 2004, pp. 134-167.
+
+[^41]: Taylor, Frederick. _The Berlin Wall: A World Divided, 1961-1989_. New York: HarperCollins, 2006, pp. 145-178.
+
+[^42]: Conquest, Robert. _The Great Terror: A Reassessment_, pp. 285-295.
+
+[^43]: Snyder, Timothy. _Bloodlands: Europe Between Hitler and Stalin_. New York: Basic Books, 2010, pp. 89-92.
+
+[^44]: Tompson, William J. _Khrushchev: A Political Life_, pp. 234-256.
+
+[^45]: Khrushchev, Sergei. _Nikita Khrushchev and the Creation of a Superpower_. University Park: Pennsylvania State University Press, 2000, pp. 423-445.
+
+[^46]: Luthi, Lorenz M. _The Sino-Soviet Split: Cold War in the Communist World_. Princeton: Princeton University Press, 2008, pp. 167-201.
+
+[^47]: Radchenko, Sergey. _Two Suns in the Heavens: The Sino-Soviet Struggle for Supremacy, 1962-1967_. Washington: Woodrow Wilson Center Press, 2009, pp. 45-78.
+
+[^48]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 29-31.
+
+[^49]: Khrushchev, Sergei. _Memoirs of Nikita Khrushchev, Volume 1: Commissar, 1918-1945_. University Park: Pennsylvania State University Press, 2004, pp. 156-167.
+
+[^50]: Tompson, William J. _Khrushchev: A Political Life_, pp. 67-69.
+
+[^51]: Khrushchev, Sergei. _Nikita Khrushchev and the Creation of a Superpower_, pp. 12-34.
+
+[^52]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 8-12.
+
+[^53]: Beschloss, Michael R. _The Crisis Years: Kennedy and Khrushchev, 1960-1963_. New York: Edward Burlingame Books, 1991, pp. 234-256.
+
+[^54]: Khrushchev, Nikita S. _Khrushchev Remembers_, pp. 189-212.
+
+[^55]: Carlson, Peter. _K Blows Top_, pp. 156-189.
+
+[^56]: Khrushchev, Nikita S. _Khrushchev Remembers: The Last Testament_. Translated by Strobe Talbott. Boston: Little, Brown and Company, 1974.
+
+[^57]: Khrushchev, Sergei. _Nikita Khrushchev and the Creation of a Superpower_, pp. 567-589.
+
+[^58]: Khrushchev, Sergei. _Memoirs of Nikita Khrushchev, Volume 3: Statesman, 1953-1964_. University Park: Pennsylvania State University Press, 2007, pp. 45-67.
+
+[^59]: Cohen, Stephen F. _Rethinking the Soviet Experience: Politics and History Since 1917_. New York: Oxford University Press, 1985, pp. 123-145.
+
+[^60]: Zubok, Vladislav M. _Zhivago's Children: The Last Russian Intelligentsia_. Cambridge: Harvard University Press, 2009, pp. 89-112.
+
+[^61]: Spechler, Dina R. _Permitted Dissent in the USSR: Novy Mir and the Soviet Regime_. New York: Praeger, 1982, pp. 67-89.
+
+[^62]: Siddiqi, Asif A. _The Soviet Space Race with Apollo_, pp. 345-367.
+
+[^63]: Harris, Steven E. _Communism on Tomorrow Street_, pp. 267-289.
+
+[^64]: English, Robert D. _Russia and the Idea of the West: Gorbachev, Intellectuals, and the End of the Cold War_. New York: Columbia University Press, 2000, pp. 78-92.
+
+[^65]: Breslauer, George W. _Khrushchev and Brezhnev as Leaders_, pp. 234-256.
+
+[^66]: Doder, Dusko. _Shadows and Whispers: Power Politics Inside the Kremlin from Brezhnev to Gorbachev_. New York: Random House, 1986, pp. 45-67.
+
+[^67]: Sherlock, Thomas. _Historical Narratives in the Soviet Union and Post-Soviet Russia: Destroying the Settled Past, Creating an Uncertain Future_. New York: Palgrave Macmillan, 2007, pp. 123-145.
+
+[^68]: Yurchak, Alexei. _Everything Was Forever, Until It Was No More: The Last Soviet Generation_. Princeton: Princeton University Press, 2006, pp. 89-107.
+
+[^69]: Sherlock, Thomas. _Historical Narratives in the Soviet Union and Post-Soviet Russia_, pp. 189-212.
+
+[^70]: Gaddis, John Lewis. _The Cold War: A New History_, pp. 70-88.
+
+[^71]: Taubman, William. _Khrushchev: The Man and His Era_, pp. 3-8.
+
+[^72]: Burlatsky, Fedor. _Khrushchev and the First Russian Spring_. New York: Charles Scribner's Sons, 1988, pp. 234-256.
+
+[^73]: Taubman, William. "Khrushchev: The Man, His Era, and His Reforms." In _Nikita Khrushchev_, edited by William Taubman, Sergei Khrushchev, and Abbott Gleason, pp. 1-34. New Haven: Yale University Press, 2000.
+
+[^74]: Taubman, William. _Khrushchev: The Man and His Era_, p. 3.
+
+[^75]: Medvedev, Roy A. _Khrushchev_. Garden City: Anchor Press/Doubleday, 1983, pp. 267-289.
+
+[^76]: Solzhenitsyn, Alexander. _The Oak and the Calf: Sketches of Literary Life in the Soviet Union_. New York: Harper & Row, 1980, pp. 45-67.
+
+[^77]: Nove, Alec. _An Economic History of the USSR, 1917-1991_, pp. 345-367.
+
+[^78]: Siddiqi, Asif A. _Challenge to Apollo_, pp. 156-178.
+
+[^79]: Gaddis, John Lewis. _Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War_. Oxford: Oxford University Press, 2005, pp. 198-216.
+
+[^80]: Beschloss, Michael R. _The Crisis Years_, pp. 123-145.
+
+[^81]: Fursenko, Aleksandr and Timothy Naftali. _"One Hell of a Gamble": Khrushchev, Castro, and Kennedy, 1958-1964_. New York: W.W. Norton, 1997, pp. 267-289.
+
+[^82]: Conquest, Robert. _The Great Terror: A Reassessment_, pp. 285-295.
+
+[^83]: Conquest, Robert. _Stalin: Breaker of Nations_. New York: Viking, 1991, pp. 312-324.
+
+[^84]: Gaddis, John Lewis. _We Now Know: Rethinking Cold War History_. Oxford: Clarendon Press, 1997, pp. 234-256.
+
+[^85]: Zubok, Vladislav and Constantine Pleshakov. _Inside the Kremlin's Cold War_, pp. 234-267.
+
+[^86]: Gaddis, John Lewis. _The Cold War: A New History_, pp. 70-88.
+
+[^87]: Hanson, Philip. _The Rise and Fall of the Soviet Economy: An Economic History of the USSR from 1945_. London: Longman, 2003, pp. 67-89.
+
+[^88]: Hanson, Philip. _The Rise and Fall of the Soviet Economy_, pp. 78-92.
+
+[^89]: Zygar, Mikhail. _All the Kremlin's Men: Inside the Court of Vladimir Putin_. New York: PublicAffairs, 2016, pp. 123-134.
+
+[^90]: Sakwa, Richard. _Putin: Russia's Choice_. London: Routledge, 2008, pp. 267-278.
+
+[^91]: Brown, Archie. _Seven Years that Changed the World: Perestroika in Perspective_. Oxford: Oxford University Press, 2007, pp. 45-67.
+
+[^92]: Breslauer, George W. _Khrushchev and Brezhnev as Leaders_, pp. 267-289.
+
+[^93]: Khrushchev, Nikita S. Speech at reception for Polish delegation, November 18, 1956. Published in _The New York Times_, November 19, 1956.
+
+[^94]: Khrushchev, Nikita S. _Khrushchev Remembers: The Last Testament_, p. 234.
+
+[^95]: Taubman, William. _Khrushchev: The Man and His Era_, p. 456.
+
+[^96]: Khrushchev, Nikita S. _Khrushchev Remembers_, p. 567.
+
+[^97]: Crankshaw, Edward. _Khrushchev: A Career_, p. 289.
+
+[^98]: Medvedev, Roy and Zhores Medvedev. _Khrushchev: The Years in Power_, p. 123.

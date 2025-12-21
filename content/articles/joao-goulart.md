@@ -161,122 +161,196 @@ Some historians argue that Goulart's exile behavior and later statements reveale
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1919 | Born March 1 in São Borja, Rio Grande do Sul, Brazil |
-| 1945 | Met Getúlio Vargas, beginning political mentorship |
-| 1947 | Elected to Rio Grande do Sul state legislature (PTB) |
-| 1950 | Elected to federal Chamber of Deputies |
-| 1953 | Appointed Minister of Labour by President Vargas |
-| 1954 | Forced to resign as Labour Minister in February; Vargas commits suicide in August |
-| 1954 | Elected to Chamber of Deputies |
-| 1955 | Elected Vice President with Juscelino Kubitschek as President |
-| 1956 | Takes office as Vice President (January 31) |
-| 1960 | Reelected Vice President while Jânio Quadros wins presidency |
-| 1961 | Visiting China when President Quadros resigns (August 25) |
+| Year | Event                                                                                   |
+| ---- | --------------------------------------------------------------------------------------- |
+| 1919 | Born March 1 in São Borja, Rio Grande do Sul, Brazil                                    |
+| 1945 | Met Getúlio Vargas, beginning political mentorship                                      |
+| 1947 | Elected to Rio Grande do Sul state legislature (PTB)                                    |
+| 1950 | Elected to federal Chamber of Deputies                                                  |
+| 1953 | Appointed Minister of Labour by President Vargas                                        |
+| 1954 | Forced to resign as Labour Minister in February; Vargas commits suicide in August       |
+| 1954 | Elected to Chamber of Deputies                                                          |
+| 1955 | Elected Vice President with Juscelino Kubitschek as President                           |
+| 1956 | Takes office as Vice President (January 31)                                             |
+| 1960 | Reelected Vice President while Jânio Quadros wins presidency                            |
+| 1961 | Visiting China when President Quadros resigns (August 25)                               |
 | 1961 | Military attempts to prevent his succession; parliamentary system imposed as compromise |
-| 1961 | Assumes presidency with reduced powers (September 7) |
-| 1963 | Wins plebiscite restoring full presidential powers (January 6) |
-| 1963 | Sergeants' Revolt in Brasília raises military concerns (September 12) |
-| 1964 | Announces major reforms at March 13 rally in Rio de Janeiro |
-| 1964 | Sailors' Mutiny and amnesty decision triggers coup (March 30) |
-| 1964 | Military coup begins; Goulart flees to Rio Grande do Sul (March 31) |
-| 1964 | Congress declares presidency vacant; goes into exile in Uruguay (April 2) |
-| 1964 | Military regime strips him of political rights for 10 years (April 10) |
-| 1973 | Moves to Argentina after military coup in Uruguay |
-| 1976 | Dies December 6 in Mercedes, Argentina (officially heart attack, suspected poisoning) |
-| 2013 | Body exhumed for forensic investigation into possible assassination |
+| 1961 | Assumes presidency with reduced powers (September 7)                                    |
+| 1963 | Wins plebiscite restoring full presidential powers (January 6)                          |
+| 1963 | Sergeants' Revolt in Brasília raises military concerns (September 12)                   |
+| 1964 | Announces major reforms at March 13 rally in Rio de Janeiro                             |
+| 1964 | Sailors' Mutiny and amnesty decision triggers coup (March 30)                           |
+| 1964 | Military coup begins; Goulart flees to Rio Grande do Sul (March 31)                     |
+| 1964 | Congress declares presidency vacant; goes into exile in Uruguay (April 2)               |
+| 1964 | Military regime strips him of political rights for 10 years (April 10)                  |
+| 1973 | Moves to Argentina after military coup in Uruguay                                       |
+| 1976 | Dies December 6 in Mercedes, Argentina (officially heart attack, suspected poisoning)   |
+| 2013 | Body exhumed for forensic investigation into possible assassination                     |
 
 ---
 
 ## Famous Quotes
 
 > "I am not a communist. I am a Christian and a democrat. But I believe that we must carry out reforms to eliminate the injustices that exist in Brazil."
+
 - Statement defending his reform agenda against accusations of communism, 1963[^66]
 
 > "The people are sovereign. No military coup will prevent the Brazilian people from exercising their democratic rights."
+
 - Speech during constitutional crisis over his succession to presidency, 1961[^67]
 
 > "Land reform is not a favor to the peasants. It is a necessity for Brazil's development and a requirement of social justice."
+
 - Announcing agrarian reform decree, March 13, 1964[^68]
 
 > "I prefer to see the presidential sash in tatters rather than stained with Brazilian blood."
+
 - Explaining his decision not to resist the coup with armed force, in exile, 1964[^69]
 
 > "They call me a communist because I believe that workers should have the right to organize, that children should not go hungry, and that education should be available to all. If that is communism, then the Gospels are a communist manifesto."
+
 - Responding to critics of his social policies, 1963[^70]
 
 ---
 
 ## References
 
-[^1]: Skidmore, Thomas E. *Politics in Brazil, 1930-1964: An Experiment in Democracy*. Oxford University Press, 1967.
-[^2]: Ferreira, Jorge. *João Goulart: Uma biografia*. Civilização Brasileira, 2011.
-[^3]: Bandeira, Moniz. *O Governo João Goulart: As lutas sociais no Brasil (1961-1964)*. Editora UNESP, 2001.
-[^4]: Rabe, Stephen G. *The Most Dangerous Area in the World: John F. Kennedy Confronts Communist Revolution in Latin America*. University of North Carolina Press, 1999.
-[^5]: Levine, Robert M. *Father of the Poor? Vargas and His Era*. Cambridge University Press, 1998.
-[^6]: Gaspari, Elio. *A Ditadura Envergonhada*. Companhia das Letras, 2002.
-[^7]: D'Araújo, Maria Celina. "João Goulart and Brazilian Labour Movement." *Latin American Perspectives*, vol. 30, no. 5, 2003.
-[^8]: French, John D. *Drowning in Laws: Labor Law and Brazilian Political Culture*. University of North Carolina Press, 2004.
-[^9]: Welch, Cliff. *The Seed Was Planted: The São Paulo Roots of Brazil's Rural Labor Movement, 1924-1964*. Penn State Press, 1999.
-[^10]: Benevides, Maria Victoria de Mesquita. *O Governo Kubitschek: Desenvolvimento econômico e estabilidade política*. Paz e Terra, 1976.
-[^11]: Skidmore, Thomas E. "The Politics of Chaos: Brazil Since 1945." *Current History*, vol. 48, 1965.
-[^12]: Stepan, Alfred. *The Military in Politics: Changing Patterns in Brazil*. Princeton University Press, 1971.
-[^13]: Leacock, Ruth. *Requiem for Revolution: The United States and Brazil, 1961-1969*. Kent State University Press, 1990.
-[^14]: Parker, Phyllis R. *Brazil and the Quiet Intervention, 1964*. University of Texas Press, 1979.
-[^15]: Fico, Carlos. *O Grande Irmão: Da Operação Brother Sam aos anos de chumbo*. Civilização Brasileira, 2008.
-[^16]: Cruz, Helio Jaguaribe. *Economic and Political Development: A Theoretical Approach and a Brazilian Case Study*. Harvard University Press, 1968.
-[^17]: Furtado, Celso. *The Economic Growth of Brazil: A Survey from Colonial to Modern Times*. University of California Press, 1963.
-[^18]: Toledo, Caio Navarro de. *O Governo Goulart e o Golpe de 64*. Brasiliense, 1983.
-[^19]: Dulles, John W.F. *Unrest in Brazil: Political-Military Crises, 1955-1964*. University of Texas Press, 1970.
-[^20]: Hagopian, Frances. *Traditional Politics and Regime Change in Brazil*. Cambridge University Press, 1996.
-[^21]: Cunha, Luiz Antonio. *A Universidade Reformanda*. Francisco Alves, 1988.
-[^22]: Evans, Peter B. *Dependent Development: The Alliance of Multinational, State, and Local Capital in Brazil*. Princeton University Press, 1979.
-[^23]: Storrs, K. Larry. "Brazil's Independent Foreign Policy, 1961-1964." *Cornell University Latin American Studies Program Dissertation Series*, 1973.
-[^24]: Erickson, Kenneth Paul. *The Brazilian Corporative State and Working-Class Politics*. University of California Press, 1977.
-[^25]: Freire, Paulo. *Education for Critical Consciousness*. Continuum, 1973.
-[^26]: Green, James N. *We Cannot Remain Silent: Opposition to the Brazilian Military Dictatorship in the United States*. Duke University Press, 2010.
-[^27]: Dreifuss, René Armand. *1964: A Conquista do Estado*. Vozes, 1981.
-[^28]: Baer, Werner. *The Brazilian Economy: Growth and Development*. Praeger, 2001.
-[^29]: Leff, Nathaniel H. *Economic Policy-Making and Development in Brazil, 1947-1964*. Wiley, 1968.
-[^30]: Schneider, Ronald M. *The Political System of Brazil: Emergence of a "Modernizing" Authoritarian Regime, 1964-1970*. Columbia University Press, 1971.
-[^31]: Smallman, Shawn C. *Fear and Memory in the Brazilian Army and Society, 1889-1954*. University of North Carolina Press, 2002.
-[^32]: Ferreira, Jorge, and Angela de Castro Gomes. *Jango: As múltiplas faces*. FGV, 2007.
-[^33]: Alves, Márcio Moreira. *Torturas e Torturados*. Idade Nova, 1966.
-[^34]: Aarão Reis, Daniel. *Ditadura Militar, Esquerdas e Sociedade*. Zahar, 2000.
-[^35]: Gorender, Jacob. *Combate nas Trevas: A esquerda brasileira, das ilusões perdidas à luta armada*. Ática, 1987.
-[^36]: Goulart, João Vicente. "Meu Pai, João Goulart." Interview in *Revista Caros Amigos*, 2004.
-[^37]: Moraes, Denis de, and Francisco Viana. *Prestes: Lutas e autocríticas*. Vozes, 1982.
-[^38]: Castello Branco, Carlos. *Os Militares no Poder*. Nova Fronteira, 1977.
-[^39]: Silva, Hélio. *1964: Golpe ou Contragolpe?* Civilização Brasileira, 1975.
-[^40]: Markun, Paulo. *Meu Querido Vlado: A história de Vladimir Herzog e do sonho de uma geração*. Jorge Zahar, 2005.
-[^41]: Gaspari, Elio. *A Ditadura Escancarada*. Companhia das Letras, 2002.
-[^42]: Brazil National Truth Commission. *Final Report*, vol. 2, 2014.
-[^43]: Reis, Daniel Aarão. *Ditadura e democracia no Brasil*. Zahar, 2014.
-[^44]: Alves, Maria Helena Moreira. *State and Opposition in Military Brazil*. University of Texas Press, 1985.
-[^45]: Cervo, Amado Luiz, and Clodoaldo Bueno. *História da Política Exterior do Brasil*. Editora UnB, 2002.
-[^46]: Green, James N., and Abigail Jones. "Reinventing History: Lincoln Gordon and His Multiple Versions of 1964." *Revista Brasileira de História*, vol. 29, no. 57, 2009.
-[^47]: Martins, José de Souza. *Os Camponeses e a Política no Brasil*. Vozes, 1981.
-[^48]: Napolitano, Marcos. *1964: História do Regime Militar Brasileiro*. Contexto, 2014.
-[^49]: Motta, Rodrigo Patto Sá. "Jango e o golpe de 1964 na caricatura." *Cadernos AEL*, vol. 6, 1997.
-[^50]: Rollemberg, Denise. *Exílio: Entre raízes e radares*. Record, 1999.
-[^51]: Green, James N. "Who Was João Goulart? Memory Disputes Over Brazil's Controversial President." *ReVista: Harvard Review of Latin America*, Fall 2014.
-[^52]: Pomar, Pedro Estevam da Rocha. *A Democracia Intolerante: Dutra, Adhemar e a repressão ao Partido Comunista (1946-1950)*. Arquivo do Estado, 2002.
-[^53]: French, John D., and Alexandre Fortes. "Nurturing Hope, Deepening Democracy, and Combating Inequalities in Brazil: Lula, the Workers' Party, and Dilma Rousseff's 2010 Election as President." *New Labor Forum*, vol. 20, no. 1, 2011.
-[^54]: Mainwaring, Scott. *Rethinking Party Systems in the Third Wave of Democratization: The Case of Brazil*. Stanford University Press, 1999.
-[^55]: Kornbluh, Peter, ed. *Brazil Marks 40th Anniversary of Military Coup*. National Security Archive Electronic Briefing Book No. 118, 2004.
-[^56]: Fishlow, Albert. "Brazilian Development in Long-Term Perspective." *American Economic Review*, vol. 70, no. 2, 1980.
-[^57]: Figueiredo, Argelina Cheibub. *Democracia ou Reformas? Alternativas democráticas à crise política, 1961-1964*. Paz e Terra, 1993.
-[^58]: Carvalho, José Murilo de. *Forças Armadas e Política no Brasil*. Jorge Zahar, 2005.
-[^59]: Simonsen, Mario Henrique, and Roberto de Oliveira Campos. *A Nova Economia Brasileira*. José Olympio, 1974.
-[^60]: Couto e Silva, Golbery do. *Geopolítica do Brasil*. José Olympio, 1967.
-[^61]: Linz, Juan J., and Alfred Stepan. *The Breakdown of Democratic Regimes: Latin America*. Johns Hopkins University Press, 1978.
-[^62]: Alexander, Robert J. "Brazil's Experiment with Democracy." *Current History*, vol. 46, 1964.
-[^63]: Ridenti, Marcelo. *O Fantasma da Revolução Brasileira*. UNESP, 1993.
-[^64]: Fico, Carlos. *Além do Golpe: Versões e controvérsias sobre 1964 e a Ditadura Militar*. Record, 2004.
-[^65]: Chagas, Carlos. *A Guerra das Estrelas (1964-1984): Os bastidores das sucessões presidenciais*. L&PM, 1985.
-[^66]: Goulart, João. Speech to Brazilian Congress, May 1963. *Diário do Congresso Nacional*, May 23, 1963.
-[^67]: Goulart, João. Radio broadcast during succession crisis, September 1961. Cited in Ferreira, *João Goulart*, 2011.
-[^68]: Goulart, João. Speech at March 13 rally, Rio de Janeiro, 1964. *O Globo*, March 14, 1964.
-[^69]: Goulart, João. Interview in Montevideo, Uruguay, 1965. Cited in Bandeira, *O Governo João Goulart*, 2001.
-[^70]: Goulart, João. Press conference, Brasília, August 1963. *Jornal do Brasil*, August 19, 1963.
+[^1]: Skidmore, Thomas E. _Politics in Brazil, 1930-1964: An Experiment in Democracy_. Oxford University Press, 1967.
+
+[^2]: Ferreira, Jorge. _João Goulart: Uma biografia_. Civilização Brasileira, 2011.
+
+[^3]: Bandeira, Moniz. _O Governo João Goulart: As lutas sociais no Brasil (1961-1964)_. Editora UNESP, 2001.
+
+[^4]: Rabe, Stephen G. _The Most Dangerous Area in the World: John F. Kennedy Confronts Communist Revolution in Latin America_. University of North Carolina Press, 1999.
+
+[^5]: Levine, Robert M. _Father of the Poor? Vargas and His Era_. Cambridge University Press, 1998.
+
+[^6]: Gaspari, Elio. _A Ditadura Envergonhada_. Companhia das Letras, 2002.
+
+[^7]: D'Araújo, Maria Celina. "João Goulart and Brazilian Labour Movement." _Latin American Perspectives_, vol. 30, no. 5, 2003.
+
+[^8]: French, John D. _Drowning in Laws: Labor Law and Brazilian Political Culture_. University of North Carolina Press, 2004.
+
+[^9]: Welch, Cliff. _The Seed Was Planted: The São Paulo Roots of Brazil's Rural Labor Movement, 1924-1964_. Penn State Press, 1999.
+
+[^10]: Benevides, Maria Victoria de Mesquita. _O Governo Kubitschek: Desenvolvimento econômico e estabilidade política_. Paz e Terra, 1976.
+
+[^11]: Skidmore, Thomas E. "The Politics of Chaos: Brazil Since 1945." _Current History_, vol. 48, 1965.
+
+[^12]: Stepan, Alfred. _The Military in Politics: Changing Patterns in Brazil_. Princeton University Press, 1971.
+
+[^13]: Leacock, Ruth. _Requiem for Revolution: The United States and Brazil, 1961-1969_. Kent State University Press, 1990.
+
+[^14]: Parker, Phyllis R. _Brazil and the Quiet Intervention, 1964_. University of Texas Press, 1979.
+
+[^15]: Fico, Carlos. _O Grande Irmão: Da Operação Brother Sam aos anos de chumbo_. Civilização Brasileira, 2008.
+
+[^16]: Cruz, Helio Jaguaribe. _Economic and Political Development: A Theoretical Approach and a Brazilian Case Study_. Harvard University Press, 1968.
+
+[^17]: Furtado, Celso. _The Economic Growth of Brazil: A Survey from Colonial to Modern Times_. University of California Press, 1963.
+
+[^18]: Toledo, Caio Navarro de. _O Governo Goulart e o Golpe de 64_. Brasiliense, 1983.
+
+[^19]: Dulles, John W.F. _Unrest in Brazil: Political-Military Crises, 1955-1964_. University of Texas Press, 1970.
+
+[^20]: Hagopian, Frances. _Traditional Politics and Regime Change in Brazil_. Cambridge University Press, 1996.
+
+[^21]: Cunha, Luiz Antonio. _A Universidade Reformanda_. Francisco Alves, 1988.
+
+[^22]: Evans, Peter B. _Dependent Development: The Alliance of Multinational, State, and Local Capital in Brazil_. Princeton University Press, 1979.
+
+[^23]: Storrs, K. Larry. "Brazil's Independent Foreign Policy, 1961-1964." _Cornell University Latin American Studies Program Dissertation Series_, 1973.
+
+[^24]: Erickson, Kenneth Paul. _The Brazilian Corporative State and Working-Class Politics_. University of California Press, 1977.
+
+[^25]: Freire, Paulo. _Education for Critical Consciousness_. Continuum, 1973.
+
+[^26]: Green, James N. _We Cannot Remain Silent: Opposition to the Brazilian Military Dictatorship in the United States_. Duke University Press, 2010.
+
+[^27]: Dreifuss, René Armand. _1964: A Conquista do Estado_. Vozes, 1981.
+
+[^28]: Baer, Werner. _The Brazilian Economy: Growth and Development_. Praeger, 2001.
+
+[^29]: Leff, Nathaniel H. _Economic Policy-Making and Development in Brazil, 1947-1964_. Wiley, 1968.
+
+[^30]: Schneider, Ronald M. _The Political System of Brazil: Emergence of a "Modernizing" Authoritarian Regime, 1964-1970_. Columbia University Press, 1971.
+
+[^31]: Smallman, Shawn C. _Fear and Memory in the Brazilian Army and Society, 1889-1954_. University of North Carolina Press, 2002.
+
+[^32]: Ferreira, Jorge, and Angela de Castro Gomes. _Jango: As múltiplas faces_. FGV, 2007.
+
+[^33]: Alves, Márcio Moreira. _Torturas e Torturados_. Idade Nova, 1966.
+
+[^34]: Aarão Reis, Daniel. _Ditadura Militar, Esquerdas e Sociedade_. Zahar, 2000.
+
+[^35]: Gorender, Jacob. _Combate nas Trevas: A esquerda brasileira, das ilusões perdidas à luta armada_. Ática, 1987.
+
+[^36]: Goulart, João Vicente. "Meu Pai, João Goulart." Interview in _Revista Caros Amigos_, 2004.
+
+[^37]: Moraes, Denis de, and Francisco Viana. _Prestes: Lutas e autocríticas_. Vozes, 1982.
+
+[^38]: Castello Branco, Carlos. _Os Militares no Poder_. Nova Fronteira, 1977.
+
+[^39]: Silva, Hélio. _1964: Golpe ou Contragolpe?_ Civilização Brasileira, 1975.
+
+[^40]: Markun, Paulo. _Meu Querido Vlado: A história de Vladimir Herzog e do sonho de uma geração_. Jorge Zahar, 2005.
+
+[^41]: Gaspari, Elio. _A Ditadura Escancarada_. Companhia das Letras, 2002.
+
+[^42]: Brazil National Truth Commission. _Final Report_, vol. 2, 2014.
+
+[^43]: Reis, Daniel Aarão. _Ditadura e democracia no Brasil_. Zahar, 2014.
+
+[^44]: Alves, Maria Helena Moreira. _State and Opposition in Military Brazil_. University of Texas Press, 1985.
+
+[^45]: Cervo, Amado Luiz, and Clodoaldo Bueno. _História da Política Exterior do Brasil_. Editora UnB, 2002.
+
+[^46]: Green, James N., and Abigail Jones. "Reinventing History: Lincoln Gordon and His Multiple Versions of 1964." _Revista Brasileira de História_, vol. 29, no. 57, 2009.
+
+[^47]: Martins, José de Souza. _Os Camponeses e a Política no Brasil_. Vozes, 1981.
+
+[^48]: Napolitano, Marcos. _1964: História do Regime Militar Brasileiro_. Contexto, 2014.
+
+[^49]: Motta, Rodrigo Patto Sá. "Jango e o golpe de 1964 na caricatura." _Cadernos AEL_, vol. 6, 1997.
+
+[^50]: Rollemberg, Denise. _Exílio: Entre raízes e radares_. Record, 1999.
+
+[^51]: Green, James N. "Who Was João Goulart? Memory Disputes Over Brazil's Controversial President." _ReVista: Harvard Review of Latin America_, Fall 2014.
+
+[^52]: Pomar, Pedro Estevam da Rocha. _A Democracia Intolerante: Dutra, Adhemar e a repressão ao Partido Comunista (1946-1950)_. Arquivo do Estado, 2002.
+
+[^53]: French, John D., and Alexandre Fortes. "Nurturing Hope, Deepening Democracy, and Combating Inequalities in Brazil: Lula, the Workers' Party, and Dilma Rousseff's 2010 Election as President." _New Labor Forum_, vol. 20, no. 1, 2011.
+
+[^54]: Mainwaring, Scott. _Rethinking Party Systems in the Third Wave of Democratization: The Case of Brazil_. Stanford University Press, 1999.
+
+[^55]: Kornbluh, Peter, ed. _Brazil Marks 40th Anniversary of Military Coup_. National Security Archive Electronic Briefing Book No. 118, 2004.
+
+[^56]: Fishlow, Albert. "Brazilian Development in Long-Term Perspective." _American Economic Review_, vol. 70, no. 2, 1980.
+
+[^57]: Figueiredo, Argelina Cheibub. _Democracia ou Reformas? Alternativas democráticas à crise política, 1961-1964_. Paz e Terra, 1993.
+
+[^58]: Carvalho, José Murilo de. _Forças Armadas e Política no Brasil_. Jorge Zahar, 2005.
+
+[^59]: Simonsen, Mario Henrique, and Roberto de Oliveira Campos. _A Nova Economia Brasileira_. José Olympio, 1974.
+
+[^60]: Couto e Silva, Golbery do. _Geopolítica do Brasil_. José Olympio, 1967.
+
+[^61]: Linz, Juan J., and Alfred Stepan. _The Breakdown of Democratic Regimes: Latin America_. Johns Hopkins University Press, 1978.
+
+[^62]: Alexander, Robert J. "Brazil's Experiment with Democracy." _Current History_, vol. 46, 1964.
+
+[^63]: Ridenti, Marcelo. _O Fantasma da Revolução Brasileira_. UNESP, 1993.
+
+[^64]: Fico, Carlos. _Além do Golpe: Versões e controvérsias sobre 1964 e a Ditadura Militar_. Record, 2004.
+
+[^65]: Chagas, Carlos. _A Guerra das Estrelas (1964-1984): Os bastidores das sucessões presidenciais_. L&PM, 1985.
+
+[^66]: Goulart, João. Speech to Brazilian Congress, May 1963. _Diário do Congresso Nacional_, May 23, 1963.
+
+[^67]: Goulart, João. Radio broadcast during succession crisis, September 1961. Cited in Ferreira, _João Goulart_, 2011.
+
+[^68]: Goulart, João. Speech at March 13 rally, Rio de Janeiro, 1964. _O Globo_, March 14, 1964.
+
+[^69]: Goulart, João. Interview in Montevideo, Uruguay, 1965. Cited in Bandeira, _O Governo João Goulart_, 2001.
+
+[^70]: Goulart, João. Press conference, Brasília, August 1963. _Jornal do Brasil_, August 19, 1963.

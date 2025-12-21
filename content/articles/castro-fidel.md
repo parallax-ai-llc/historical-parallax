@@ -117,34 +117,34 @@ Many historians argue that Castro's initial promises of democratic elections and
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1926 | Born August 13 near Birán, Oriente Province, Cuba |
-| 1945 | Began studying law at the University of Havana |
-| 1948 | Married Mirta Díaz-Balart |
-| 1950 | Obtained Doctorate of Law |
-| 1953 | Led failed attack on Moncada Barracks on July 26; arrested and imprisoned |
-| 1953 | Delivered "History Will Absolve Me" speech at trial on October 16 |
-| 1955 | Released from prison; fled to Mexico |
-| 1955 | Met Che Guevara in July |
-| 1956 | Departed Mexico on yacht Granma with 82 revolutionaries on November 25 |
-| 1956 | Landed in Cuba on December 2; retreated to Sierra Maestra mountains |
-| 1959 | Overthrew Batista regime; entered Havana on January 9 |
-| 1959 | Became Prime Minister; signed First Agrarian Reform Law in May |
-| 1960 | Began nationalizing American-owned businesses |
-| 1961 | Launched National Literacy Campaign |
-| 1961 | Bay of Pigs invasion defeated in April |
-| 1961 | Declared himself a Marxist-Leninist in December |
-| 1962 | Cuban Missile Crisis in October brought world to brink of nuclear war |
-| 1972 | Cuba joined the Council for Mutual Economic Assistance (Comecon) |
-| 1975 | Launched Operation Carlota, sending troops to Angola |
-| 1976 | Became President of the Council of State |
-| 1979-1983 | Served as Secretary-General of the Non-Aligned Movement |
-| 1990 | Announced beginning of "Special Period" in September |
-| 1991 | Soviet Union collapsed, ending economic support |
-| 2006 | Transferred power to brother Raúl on July 31 due to illness |
-| 2008 | Officially retired as President on February 24 |
-| 2016 | Died November 25 at age 90 |
+| Year      | Event                                                                     |
+| --------- | ------------------------------------------------------------------------- |
+| 1926      | Born August 13 near Birán, Oriente Province, Cuba                         |
+| 1945      | Began studying law at the University of Havana                            |
+| 1948      | Married Mirta Díaz-Balart                                                 |
+| 1950      | Obtained Doctorate of Law                                                 |
+| 1953      | Led failed attack on Moncada Barracks on July 26; arrested and imprisoned |
+| 1953      | Delivered "History Will Absolve Me" speech at trial on October 16         |
+| 1955      | Released from prison; fled to Mexico                                      |
+| 1955      | Met Che Guevara in July                                                   |
+| 1956      | Departed Mexico on yacht Granma with 82 revolutionaries on November 25    |
+| 1956      | Landed in Cuba on December 2; retreated to Sierra Maestra mountains       |
+| 1959      | Overthrew Batista regime; entered Havana on January 9                     |
+| 1959      | Became Prime Minister; signed First Agrarian Reform Law in May            |
+| 1960      | Began nationalizing American-owned businesses                             |
+| 1961      | Launched National Literacy Campaign                                       |
+| 1961      | Bay of Pigs invasion defeated in April                                    |
+| 1961      | Declared himself a Marxist-Leninist in December                           |
+| 1962      | Cuban Missile Crisis in October brought world to brink of nuclear war     |
+| 1972      | Cuba joined the Council for Mutual Economic Assistance (Comecon)          |
+| 1975      | Launched Operation Carlota, sending troops to Angola                      |
+| 1976      | Became President of the Council of State                                  |
+| 1979-1983 | Served as Secretary-General of the Non-Aligned Movement                   |
+| 1990      | Announced beginning of "Special Period" in September                      |
+| 1991      | Soviet Union collapsed, ending economic support                           |
+| 2006      | Transferred power to brother Raúl on July 31 due to illness               |
+| 2008      | Officially retired as President on February 24                            |
+| 2016      | Died November 25 at age 90                                                |
 
 ---
 
@@ -165,131 +165,259 @@ Many historians argue that Castro's initial promises of democratic elections and
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^2]: https://www.britannica.com/biography/Fidel-Castro
+
 [^3]: https://www.amnesty.org/en/latest/news/2016/11/fidel-castro-s-human-rights-legacy-a-tale-of-two-worlds/
+
 [^4]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^5]: https://en.wikipedia.org/wiki/Early_life_of_Fidel_Castro
+
 [^6]: https://www.notablebiographies.com/Ca-Ch/Castro-Fidel.html
+
 [^7]: https://www.biography.com/political-figures/fidel-castro
+
 [^8]: https://www.history.com/this-day-in-history/august-13/fidel-castro-born
+
 [^9]: https://en.wikipedia.org/wiki/Early_life_of_Fidel_Castro
+
 [^10]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^11]: https://www.notablebiographies.com/Ca-Ch/Castro-Fidel.html
+
 [^12]: https://www.biography.com/political-figures/fidel-castro
+
 [^13]: https://www.notablebiographies.com/Ca-Ch/Castro-Fidel.html
+
 [^14]: https://www.biography.com/political-figures/fidel-castro
+
 [^15]: https://www.britannica.com/biography/Fidel-Castro
+
 [^16]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^17]: https://www.biography.com/political-figures/fidel-castro
+
 [^18]: https://en.wikipedia.org/wiki/Attack_on_the_Moncada_Barracks
+
 [^19]: https://www.pbs.org/wgbh/americanexperience/features/castro-failed-coup-moncada-barracks/
+
 [^20]: https://en.wikipedia.org/wiki/Attack_on_the_Moncada_Barracks
+
 [^21]: https://www.pbs.org/wgbh/americanexperience/features/castro-failed-coup-moncada-barracks/
+
 [^22]: https://en.wikipedia.org/wiki/History_Will_Absolve_Me
+
 [^23]: https://www.nbcnews.com/storyline/fidel-castros-death/fidel-castro-death-history-will-absolve-me-other-quotes-n688521
+
 [^24]: https://en.wikipedia.org/wiki/Attack_on_the_Moncada_Barracks
+
 [^25]: https://en.wikipedia.org/wiki/Cuban_Revolution
+
 [^26]: https://en.wikipedia.org/wiki/Landing_of_the_Granma
+
 [^27]: https://www.history.com/articles/cuban-revolution
+
 [^28]: https://www.thevintagenews.com/2017/04/21/granma-yacht-the-vessel-which-brought-the-cuban-revolution-in-cuba/
+
 [^29]: https://wheeleryachts.com/blog/the-boat-that-kept-the-cuban-revolution-afloat/
+
 [^30]: https://en.wikipedia.org/wiki/Landing_of_the_Granma
+
 [^31]: https://history.info/on-this-day/1956-fidel-castro-and-che-guevara-land-in-cuba/
+
 [^32]: http://www.historyofcuba.com/history/granma.htm
+
 [^33]: https://en.wikipedia.org/wiki/Cuban_Revolution
+
 [^34]: https://www.history.com/articles/cuban-revolution
+
 [^35]: https://www.britannica.com/event/Cuban-Revolution/The-rise-of-Castro-and-the-outbreak-of-revolution
+
 [^36]: https://www.history.com/articles/cuban-revolution
+
 [^37]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^38]: https://www.havefunwithhistory.com/fidel-castro-accomplishments/
+
 [^39]: https://www.commonwealthfund.org/blog/2016/fidel-castros-health-care-legacy
+
 [^40]: https://aithor.com/essay-examples/fidel-castro-and-his-achievements-term-paper
+
 [^41]: https://www.commonwealthfund.org/blog/2016/fidel-castros-health-care-legacy
+
 [^42]: https://thecubaneconomy.com/articles/2010/10/cuba%E2%80%99s-achievements-under-the-presidency-of-fidel-castro-the-top-ten/
+
 [^43]: https://www.ebsco.com/research-starters/biography/fidel-castro
+
 [^44]: https://www.havefunwithhistory.com/fidel-castro-accomplishments/
+
 [^45]: https://fee.org/articles/no-fidel-castro-didnt-improve-health-care-or-education-in-cuba/
+
 [^46]: https://cubaplatform.org/land-reform
+
 [^47]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^48]: https://en.wikipedia.org/wiki/Agrarian_reforms_in_Cuba
+
 [^49]: https://en.wikipedia.org/wiki/Agrarian_reforms_in_Cuba
+
 [^50]: https://www.ebsco.com/research-starters/politics-and-government/cuba-begins-expropriating-foreign-property
+
 [^51]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^52]: https://www.britannica.com/biography/Fidel-Castro
+
 [^53]: https://www.ebsco.com/research-starters/politics-and-government/cuba-begins-expropriating-foreign-property
+
 [^54]: https://www.britannica.com/event/Cuban-Revolution/The-rise-of-Castro-and-the-outbreak-of-revolution
+
 [^55]: https://www.britannica.com/event/Cuban-Revolution/The-rise-of-Castro-and-the-outbreak-of-revolution
+
 [^56]: https://en.wikipedia.org/wiki/Cuban_intervention_in_Angola
+
 [^57]: https://www.chathamhouse.org/2016/12/fidel-castros-greatest-legacy-africa-angola
+
 [^58]: https://www.chathamhouse.org/2016/12/fidel-castros-greatest-legacy-africa-angola
+
 [^59]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^60]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^61]: https://www.govinfo.gov/content/pkg/CHRG-108hhrg96090/html/CHRG-108hhrg96090.htm
+
 [^62]: https://www.history.com/articles/cuban-revolution
+
 [^63]: https://www.history.com/articles/cuban-revolution
+
 [^64]: https://en.wikipedia.org/wiki/Human_rights_in_Cuba
+
 [^65]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^66]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^67]: https://www.amnesty.org/en/latest/news/2016/11/fidel-castro-s-human-rights-legacy-a-tale-of-two-worlds/
+
 [^68]: https://ascecubadatabase.org/asce_proceedings/command-and-countermand-cubas-sugar-industry-under-fidel-castro/
+
 [^69]: https://ascecubadatabase.org/asce_proceedings/command-and-countermand-cubas-sugar-industry-under-fidel-castro/
+
 [^70]: https://en.wikipedia.org/wiki/Special_Period
+
 [^71]: https://en.wikipedia.org/wiki/Special_Period
+
 [^72]: https://ascecubadatabase.org/asce_proceedings/the-cuban-economic-crisis-of-the-1990s-and-the-external-sector/
+
 [^73]: https://en.wikipedia.org/wiki/Cuba–Soviet_Union_relations
+
 [^74]: https://en.wikipedia.org/wiki/Special_Period
+
 [^75]: https://en.wikipedia.org/wiki/Special_Period
+
 [^76]: https://www.britannica.com/question/What-was-Fidel-Castros-personal-life-like
+
 [^77]: https://www.biography.com/political-figures/fidel-castro
+
 [^78]: https://www.nbcnews.com/storyline/fidel-castros-death/fidel-castro-death-family-torn-apart-dysfunction-affairs-n688531
+
 [^79]: https://www.ibtimes.com/who-fidel-castros-family-children-wives-sisters-brothers-late-cuban-leader-mostly-2451638
+
 [^80]: https://www.britannica.com/question/What-was-Fidel-Castros-personal-life-like
+
 [^81]: https://www.nbcnews.com/storyline/fidel-castros-death/fidel-castro-death-family-torn-apart-dysfunction-affairs-n688531
+
 [^82]: https://www.biography.com/political-figures/fidel-castro
+
 [^83]: https://medium.com/fragments-of-history/fidel-castros-dirty-secrets-his-mistresses-wives-kids-and-lies-c2d96ce57e8d
+
 [^84]: https://www.thehistoryreader.com/historical-figures/guarding-fidel-castro-his-double-life-and-infidelity/
+
 [^85]: https://www.ibtimes.com/who-fidel-castros-family-children-wives-sisters-brothers-late-cuban-leader-mostly-2451638
+
 [^86]: https://www.voanews.com/a/fidel-castro-death-family-torn/3612431.html
+
 [^87]: https://www.nbcnews.com/storyline/fidel-castros-death/fidel-castro-death-family-torn-apart-dysfunction-affairs-n688531
+
 [^88]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^89]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^90]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^91]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^92]: https://www.pbs.org/wgbh/americanexperience/features/comandante-cold-war/
+
 [^93]: https://www.pbs.org/wgbh/americanexperience/features/comandante-cold-war/
+
 [^94]: https://www.mexicohistorico.com/paginas/the-legacy-of-fidel-castro-and-its-impact-on-cuba-52271417.html
+
 [^95]: https://www.britannica.com/event/Cuban-Revolution/The-rise-of-Castro-and-the-outbreak-of-revolution
+
 [^96]: https://theconversation.com/how-fidel-castro-changed-cuba-a-small-island-at-the-centre-of-the-world-69454
+
 [^97]: https://theconversation.com/how-fidel-castro-changed-cuba-a-small-island-at-the-centre-of-the-world-69454
+
 [^98]: https://www.bakerinstitute.org/research/fidel-castro-hero-or-tyrant
+
 [^99]: https://en.wikipedia.org/wiki/Fidel_Castro
+
 [^100]: https://theconversation.com/how-fidel-castro-changed-cuba-a-small-island-at-the-centre-of-the-world-69454
+
 [^101]: https://theconversation.com/how-fidel-castro-changed-cuba-a-small-island-at-the-centre-of-the-world-69454
+
 [^102]: https://www.mexicohistorico.com/paginas/the-legacy-of-fidel-castro-and-its-impact-on-cuba-52271417.html
+
 [^103]: https://www.amnesty.org/en/latest/news/2016/11/fidel-castro-s-human-rights-legacy-a-tale-of-two-worlds/
+
 [^104]: https://en.wikipedia.org/wiki/2006–2008_Cuban_transfer_of_presidential_duties
+
 [^105]: https://www.csmonitor.com/World/Americas/2008/0220/p01s04-woam.html
+
 [^106]: https://www.npr.org/2008/02/19/19157999/castro-resigns-presidency-of-cuba-after-49-years
+
 [^107]: https://www.britannica.com/biography/Fidel-Castro
+
 [^108]: https://isreview.org/issue/112/fidel-castro/index.html
+
 [^109]: https://hub.edubirdie.com/examples/fidel-castro-effective-leader/
+
 [^110]: https://www.commonwealthfund.org/blog/2016/fidel-castros-health-care-legacy
+
 [^111]: https://thecubaneconomy.com/articles/2010/10/cuba%E2%80%99s-achievements-under-the-presidency-of-fidel-castro-the-top-ten/
+
 [^112]: https://isreview.org/issue/112/fidel-castro/index.html
+
 [^113]: https://www.bakerinstitute.org/research/fidel-castro-hero-or-tyrant
+
 [^114]: https://www.chathamhouse.org/2016/12/fidel-castros-greatest-legacy-africa-angola
+
 [^115]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^116]: https://hub.edubirdie.com/examples/fidel-castro-effective-leader/
+
 [^117]: https://www.govinfo.gov/content/pkg/CHRG-108hhrg96090/html/CHRG-108hhrg96090.htm
+
 [^118]: https://en.wikipedia.org/wiki/Special_Period
+
 [^119]: https://fee.org/articles/no-fidel-castro-didnt-improve-health-care-or-education-in-cuba/
+
 [^120]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^121]: https://ascecubadatabase.org/asce_proceedings/the-cuban-economic-crisis-of-the-1990s-and-the-external-sector/
+
 [^122]: https://www.rferl.org/a/castro-cuba-revolutionary-power-repression/28142253.html
+
 [^123]: https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression
+
 [^124]: https://history.state.gov/milestones/1961-1968/cuban-missile-crisis
+
 [^125]: https://www.nbcnews.com/storyline/fidel-castros-death/fidel-castro-death-history-will-absolve-me-other-quotes-n688521
+
 [^126]: https://www.quoteikon.com/fidel-castro-quotes.html
+
 [^127]: https://www.azquotes.com/author/2620-Fidel_Castro
+
 [^128]: https://www.wisdomly.net/fidel-castro-14.php
+
 [^129]: https://www.brainyquote.com/authors/fidel-castro-quotes

@@ -87,6 +87,7 @@ Slogan: "Five Demands, Not One Less"[^9]
 The movement continued despite the bill's suspension:
 
 **Key Events:**
+
 - **July 1:** Protesters briefly occupied LegCo
 - **July 21:** Yuen Long attack—white-shirt mob attacked protesters at MTR station; police allegedly stood aside
 - **August:** Airport occupation paralyzed travel
@@ -141,6 +142,7 @@ Amnesty International documented instances of police brutality that "amounted to
 **Suicides:** Several protesters died by suicide, leaving notes linking deaths to movement
 
 **Injuries:** Hundreds, including:
+
 - Protester shot in chest (October 1)
 - Eye injuries from rubber bullets
 - Tear gas injuries
@@ -155,19 +157,19 @@ Amnesty International documented instances of police brutality that "amounted to
 
 ### Movement
 
-| Name/Entity | Role |
-|-------------|------|
-| Leaderless movement | By design, no single leader |
-| Joshua Wong | Prominent activist (from Umbrella Movement) |
-| Jimmy Lai | Apple Daily founder; media tycoon; arrested under NSL |
-| Nathan Law | Activist; fled to UK |
+| Name/Entity         | Role                                                  |
+| ------------------- | ----------------------------------------------------- |
+| Leaderless movement | By design, no single leader                           |
+| Joshua Wong         | Prominent activist (from Umbrella Movement)           |
+| Jimmy Lai           | Apple Daily founder; media tycoon; arrested under NSL |
+| Nathan Law          | Activist; fled to UK                                  |
 
 ### Government
 
-| Name | Role |
-|------|------|
+| Name       | Role                                                        |
+| ---------- | ----------------------------------------------------------- |
 | Carrie Lam | Chief Executive; proposed bill; became symbol of government |
-| Beijing | Ultimate authority; imposed NSL |
+| Beijing    | Ultimate authority; imposed NSL                             |
 
 ---
 
@@ -176,12 +178,14 @@ Amnesty International documented instances of police brutality that "amounted to
 On June 30, 2020, Beijing bypassed Hong Kong's legislature to impose the National Security Law:
 
 **Key Provisions:**
+
 - Criminalizes secession, subversion, terrorism, collusion with foreign powers
 - Maximum penalty: life imprisonment
 - Cases can be tried in mainland China
 - Beijing can set up own security apparatus in Hong Kong
 
 **Impact:**
+
 - Pro-democracy organizations dissolved
 - Apple Daily and Stand News forced to close
 - Opposition figures imprisoned (47 democrats tried for primary election "subversion")
@@ -232,48 +236,67 @@ Hundreds of thousands of Hong Kongers have emigrated, particularly to UK (BN(O) 
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1997 | Hong Kong returned to China; "one country, two systems" begins |
-| 2014 | Umbrella Movement (79 days) |
-| February 2019 | Extradition bill proposed |
-| June 9, 2019 | 1 million march |
-| June 12, 2019 | Protests at LegCo; tear gas |
-| June 15, 2019 | Bill "suspended"; first protest-related death |
-| June 16, 2019 | 2 million march |
-| July 1, 2019 | LegCo stormed |
-| July 21, 2019 | Yuen Long attack |
-| August 2019 | Airport occupied |
-| September 4, 2019 | Bill formally withdrawn |
-| October 1, 2019 | Protester shot with live round |
-| November 2019 | University sieges |
-| January 2020 | COVID-19 ends mass protests |
-| June 30, 2020 | National Security Law imposed |
-| 2021 | Apple Daily forced to close; 47 democrats charged |
-| 2022 | John Lee (sole candidate) elected Chief Executive |
-| 2024 | Article 23 passed; NSL 2.0 |
+| Date              | Event                                                          |
+| ----------------- | -------------------------------------------------------------- |
+| 1997              | Hong Kong returned to China; "one country, two systems" begins |
+| 2014              | Umbrella Movement (79 days)                                    |
+| February 2019     | Extradition bill proposed                                      |
+| June 9, 2019      | 1 million march                                                |
+| June 12, 2019     | Protests at LegCo; tear gas                                    |
+| June 15, 2019     | Bill "suspended"; first protest-related death                  |
+| June 16, 2019     | 2 million march                                                |
+| July 1, 2019      | LegCo stormed                                                  |
+| July 21, 2019     | Yuen Long attack                                               |
+| August 2019       | Airport occupied                                               |
+| September 4, 2019 | Bill formally withdrawn                                        |
+| October 1, 2019   | Protester shot with live round                                 |
+| November 2019     | University sieges                                              |
+| January 2020      | COVID-19 ends mass protests                                    |
+| June 30, 2020     | National Security Law imposed                                  |
+| 2021              | Apple Daily forced to close; 47 democrats charged              |
+| 2022              | John Lee (sole candidate) elected Chief Executive              |
+| 2024              | Article 23 passed; NSL 2.0                                     |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2019-2020 Hong Kong Protests](https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests)
+
 [^2]: [University of Manchester - Timeline](https://www.manchester.ac.uk/discover/news/hong-kong-protests-timeline/)
+
 [^3]: [HRW - Four Years of NSL](https://www.hrw.org/news/2024/06/30/hong-kong-four-years-national-security-law)
+
 [^4]: [Wikipedia - One Country Two Systems](https://en.wikipedia.org/wiki/One_country,_two_systems)
+
 [^5]: [Wikipedia - 2014 Umbrella Movement](https://en.wikipedia.org/wiki/2014_Hong_Kong_protests)
+
 [^6]: [Harvard Yenching - Autonomy Erosion](https://www.harvard-yenching.org/research/hong-kong-democracy/)
+
 [^7]: [SCMP - Extradition Bill](https://www.scmp.com/topics/hong-kong-extradition-bill)
+
 [^8]: [The Guardian - June Protests](https://www.theguardian.com/world/2019/jun/16/hong-kong-protests-million)
+
 [^9]: [Amnesty - Five Demands](https://www.amnesty.org/en/latest/news/2019/09/hong-kong-five-demands/)
+
 [^10]: [Wikipedia - Timeline](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%932020_Hong_Kong_protests)
+
 [^11]: [ResearchGate - Be Water](https://www.researchgate.net/publication/hong-kong-be-water)
+
 [^12]: [Amnesty - Police Brutality](https://www.amnesty.org/en/latest/news/2019/09/hong-kong-police-brutality/)
+
 [^13]: [Amnesty - Torture](https://www.amnesty.org/en/documents/asa17/0904/2019/en/)
+
 [^14]: [The Guardian - Arrests](https://www.theguardian.com/world/2022/aug/02/hong-kong-protests-arrests-sentences)
+
 [^15]: [Wikipedia - NSL](https://en.wikipedia.org/wiki/Hong_Kong_national_security_law)
+
 [^16]: [Hong Kong Watch - Anniversary](https://www.hongkongwatch.org/five-years-nsl/)
+
 [^17]: [The Guardian - Broken Promise](https://www.theguardian.com/world/2024/hong-kong-one-country-two-systems)
+
 [^18]: [SCMP - Beijing View](https://www.scmp.com/topics/national-security-law)
+
 [^19]: [Asia Thinkers - Emigration](https://www.asiathinkers.com/hong-kong-emigration/)
+
 [^20]: [Geostrategy - Global Impact](https://www.geostrategy.org.uk/research/hong-kong-implications/)

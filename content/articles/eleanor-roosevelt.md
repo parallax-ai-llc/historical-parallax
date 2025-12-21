@@ -151,34 +151,34 @@ Family members and personal acquaintances sometimes painted a less flattering pi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1884 | Born Anna Eleanor Roosevelt in New York City on October 11 |
-| 1892 | Mother Anna Hall Roosevelt dies of diphtheria |
-| 1894 | Father Elliott Roosevelt dies; Eleanor becomes an orphan at age 10 |
-| 1899 | Begins attending Allenswood Academy in England |
-| 1902 | Returns to New York; begins social reform work at settlement houses |
-| 1905 | Marries Franklin Delano Roosevelt on March 17 |
-| 1906 | Daughter Anna Eleanor Roosevelt born |
-| 1910 | Franklin elected to New York State Senate |
-| 1913 | Franklin appointed Assistant Secretary of the Navy; family moves to Washington |
-| 1918 | Discovers Franklin's affair with Lucy Mercer; marriage becomes political partnership |
-| 1921 | Franklin contracts polio; Eleanor becomes his political surrogate |
-| 1928 | Franklin elected Governor of New York |
-| 1933 | Becomes First Lady when Franklin inaugurated as President on March 4 |
-| 1933 | Begins holding press conferences exclusively for female reporters |
-| 1936 | Begins writing daily newspaper column "My Day" |
-| 1939 | Resigns from DAR after Marian Anderson is denied Constitution Hall |
-| 1941 | Becomes co-director of Office of Civilian Defense |
-| 1943 | Tours South Pacific to visit American troops |
-| 1945 | Franklin dies on April 12; Eleanor leaves White House |
-| 1945 | Appointed by President Truman as delegate to United Nations General Assembly |
-| 1946 | Elected chair of UN Commission on Human Rights |
-| 1948 | Universal Declaration of Human Rights adopted by UN General Assembly on December 10 |
-| 1952 | Resigns from UN after Dwight Eisenhower elected president |
+| Year | Event                                                                                  |
+| ---- | -------------------------------------------------------------------------------------- |
+| 1884 | Born Anna Eleanor Roosevelt in New York City on October 11                             |
+| 1892 | Mother Anna Hall Roosevelt dies of diphtheria                                          |
+| 1894 | Father Elliott Roosevelt dies; Eleanor becomes an orphan at age 10                     |
+| 1899 | Begins attending Allenswood Academy in England                                         |
+| 1902 | Returns to New York; begins social reform work at settlement houses                    |
+| 1905 | Marries Franklin Delano Roosevelt on March 17                                          |
+| 1906 | Daughter Anna Eleanor Roosevelt born                                                   |
+| 1910 | Franklin elected to New York State Senate                                              |
+| 1913 | Franklin appointed Assistant Secretary of the Navy; family moves to Washington         |
+| 1918 | Discovers Franklin's affair with Lucy Mercer; marriage becomes political partnership   |
+| 1921 | Franklin contracts polio; Eleanor becomes his political surrogate                      |
+| 1928 | Franklin elected Governor of New York                                                  |
+| 1933 | Becomes First Lady when Franklin inaugurated as President on March 4                   |
+| 1933 | Begins holding press conferences exclusively for female reporters                      |
+| 1936 | Begins writing daily newspaper column "My Day"                                         |
+| 1939 | Resigns from DAR after Marian Anderson is denied Constitution Hall                     |
+| 1941 | Becomes co-director of Office of Civilian Defense                                      |
+| 1943 | Tours South Pacific to visit American troops                                           |
+| 1945 | Franklin dies on April 12; Eleanor leaves White House                                  |
+| 1945 | Appointed by President Truman as delegate to United Nations General Assembly           |
+| 1946 | Elected chair of UN Commission on Human Rights                                         |
+| 1948 | Universal Declaration of Human Rights adopted by UN General Assembly on December 10    |
+| 1952 | Resigns from UN after Dwight Eisenhower elected president                              |
 | 1961 | Appointed by President Kennedy to chair Presidential Commission on the Status of Women |
-| 1962 | Dies on November 7 in New York City at age 78 |
-| 1968 | United Nations posthumously awards her first-ever UN Human Rights Prize |
+| 1962 | Dies on November 7 in New York City at age 78                                          |
+| 1968 | United Nations posthumously awards her first-ever UN Human Rights Prize                |
 
 ---
 
@@ -202,111 +202,218 @@ Family members and personal acquaintances sometimes painted a less flattering pi
 
 ## References
 
-[^1]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1, 1884-1933*. Viking Press, 1992, pp. 3-8.
-[^2]: Roosevelt, Eleanor. *The Autobiography of Eleanor Roosevelt*. Harper & Brothers, 1961, pp. 5-6.
-[^3]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1*, pp. 58-72.
-[^4]: Goodwin, Doris Kearns. *No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II*. Simon & Schuster, 1994, pp. 89-90.
-[^5]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1*, pp. 95-120.
-[^6]: Roosevelt, Eleanor. *The Autobiography of Eleanor Roosevelt*, pp. 32-40.
-[^7]: Black, Allida M. *Casting Her Own Shadow: Eleanor Roosevelt and the Shaping of Postwar Liberalism*. Columbia University Press, 1996, pp. 15-18.
-[^8]: Ward, Geoffrey C. *Before the Trumpet: Young Franklin Roosevelt, 1882-1905*. Harper & Row, 1985, pp. 312-315.
-[^9]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1*, pp. 178-225.
-[^10]: Persico, Joseph E. *Franklin and Lucy: President Roosevelt, Mrs. Rutherfurd, and the Other Remarkable Women in His Life*. Random House, 2008, pp. 89-105.
-[^11]: Goodwin, Doris Kearns. *No Ordinary Time*, pp. 105-110.
-[^12]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 2, 1933-1938*. Viking Press, 1999, pp. 3-15.
-[^13]: Black, Allida M. *Casting Her Own Shadow*, pp. 25-35.
-[^14]: Streitmatter, Rodger. *Empty Without You: The Intimate Letters of Eleanor Roosevelt and Lorena Hickok*. Free Press, 1998, pp. 1-20.
-[^15]: Ware, Susan. *Beyond Suffrage: Women in the New Deal*. Harvard University Press, 1981, pp. 55-78.
-[^16]: Beasley, Maurine. *Eleanor Roosevelt and the Media: A Public Quest for Self-Fulfillment*. University of Illinois Press, 1987, pp. 34-42.
-[^17]: Beasley, Maurine. *Eleanor Roosevelt and the Media*, pp. 58-89.
-[^18]: Roosevelt, Eleanor. *This I Remember*. Harper & Brothers, 1949, pp. 89-95.
-[^19]: Glendon, Mary Ann. *A World Made New: Eleanor Roosevelt and the Universal Declaration of Human Rights*. Random House, 2001, pp. 31-45.
-[^20]: United Nations. *Universal Declaration of Human Rights*. General Assembly Resolution 217A, December 10, 1948.
-[^21]: Glendon, Mary Ann. *A World Made New*, pp. 145-178.
-[^22]: Roosevelt, Eleanor. *On My Own*. Harper & Brothers, 1958, pp. 77-78.
-[^23]: Keiler, Allan. *Marian Anderson: A Singer's Journey*. Scribner, 2000, pp. 185-201.
-[^24]: Sitkoff, Harvard. *A New Deal for Blacks: The Emergence of Civil Rights as a National Issue*. Oxford University Press, 1978, pp. 58-84.
-[^25]: Black, Allida M. *Courage in a Dangerous World: The Political Writings of Eleanor Roosevelt*. Columbia University Press, 1999, pp. 89-95.
-[^26]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 2*, pp. 256-278.
-[^27]: Goodwin, Doris Kearns. *No Ordinary Time*, pp. 445-467.
-[^28]: Robinson, Greg. *By Order of the President: FDR and the Internment of Japanese Americans*. Harvard University Press, 2001, pp. 145-152.
-[^29]: Takaki, Ronald. *Double Victory: A Multicultural History of America in World War II*. Little, Brown and Company, 2000, pp. 56-67.
-[^30]: Branch, Taylor. *Parting the Waters: America in the King Years 1954-63*. Simon & Schuster, 1988, pp. 189-191.
-[^31]: Burns, James MacGregor, and Susan Dunn. *The Three Roosevelts: Patrician Leaders Who Transformed America*. Atlantic Monthly Press, 2001, pp. 534-542.
-[^32]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 2*, pp. 89-105.
-[^33]: Beasley, Maurine. *Eleanor Roosevelt and the Media*, pp. 156-167.
-[^34]: Sitkoff, Harvard. *A New Deal for Blacks*, pp. 78-82.
-[^35]: Janken, Kenneth Robert. *White: The Biography of Walter White, Mr. NAACP*. New Press, 2003, pp. 245-251.
-[^36]: Streitmatter, Rodger. *Empty Without You*, pp. 35-89.
-[^37]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1*, pp. 389-412.
-[^38]: Beasley, Maurine, Holly Cowan Shulman, and Henry R. Beasley, eds. *The Eleanor Roosevelt Encyclopedia*. Greenwood Press, 2001, pp. 279-282.
-[^39]: Medoff, Rafael. *FDR and the Holocaust: A Breach of Faith*. David S. Wyman Institute for Holocaust Studies, 2013, pp. 89-102.
-[^40]: Wyman, David S. *The Abandonment of the Jews: America and the Holocaust, 1941-1945*. Pantheon Books, 1984, pp. 312-315.
-[^41]: Schrecker, Ellen. *Many Are the Crimes: McCarthyism in America*. Little, Brown and Company, 1998, pp. 156-159.
-[^42]: Theoharis, Athan, ed. *The FBI: A Comprehensive Reference Guide*. Oryx Press, 1999, pp. 201-203.
-[^43]: Freedman, Estelle. *No Turning Back: The History of Feminism and the Future of Women*. Ballantine Books, 2002, pp. 145-148.
-[^44]: Roosevelt, James, and Bill Libby. *My Parents: A Differing View*. Playboy Press, 1976, pp. 89-112.
-[^45]: Roosevelt, James. *My Parents*, p. 95.
-[^46]: Goodwin, Doris Kearns. *No Ordinary Time*, pp. 110-125.
-[^47]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 2*, pp. 45-67.
-[^48]: Streitmatter, Rodger. *Empty Without You*, pp. 125-178.
-[^49]: Faderman, Lillian. *To Believe in Women: What Lesbians Have Done for America*. Houghton Mifflin, 1999, pp. 125-145.
-[^50]: Roosevelt, Eleanor. *The Autobiography of Eleanor Roosevelt*, pp. 65-78.
-[^51]: Persico, Joseph E. *Franklin and Lucy*, pp. 234-245.
-[^52]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1*, pp. 89-95.
-[^53]: Black, Allida M. *Casting Her Own Shadow*, pp. 178-189.
-[^54]: Emblidge, David, ed. *Eleanor Roosevelt's My Day: Her Acclaimed Columns, 1936-1962*. Pharos Books, 1989, introduction.
-[^55]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1*, pp. 402-415.
-[^56]: Rowley, Hazel. *Franklin and Eleanor: An Extraordinary Marriage*. Farrar, Straus and Giroux, 2010, pp. 312-325.
-[^57]: Caroli, Betty Boyd. *First Ladies: The Ever Changing Role, from Martha Washington to Melania Trump*. Oxford University Press, 2019, pp. 156-189.
-[^58]: Watson, Robert P. *First Ladies of the United States: A Biographical Dictionary*. Lynne Rienner Publishers, 2001, pp. 234-237.
-[^59]: Lauren, Paul Gordon. *The Evolution of International Human Rights*. University of Pennsylvania Press, 2011, pp. 212-235.
+[^1]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1, 1884-1933_. Viking Press, 1992, pp. 3-8.
+
+[^2]: Roosevelt, Eleanor. _The Autobiography of Eleanor Roosevelt_. Harper & Brothers, 1961, pp. 5-6.
+
+[^3]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1_, pp. 58-72.
+
+[^4]: Goodwin, Doris Kearns. _No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II_. Simon & Schuster, 1994, pp. 89-90.
+
+[^5]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1_, pp. 95-120.
+
+[^6]: Roosevelt, Eleanor. _The Autobiography of Eleanor Roosevelt_, pp. 32-40.
+
+[^7]: Black, Allida M. _Casting Her Own Shadow: Eleanor Roosevelt and the Shaping of Postwar Liberalism_. Columbia University Press, 1996, pp. 15-18.
+
+[^8]: Ward, Geoffrey C. _Before the Trumpet: Young Franklin Roosevelt, 1882-1905_. Harper & Row, 1985, pp. 312-315.
+
+[^9]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1_, pp. 178-225.
+
+[^10]: Persico, Joseph E. _Franklin and Lucy: President Roosevelt, Mrs. Rutherfurd, and the Other Remarkable Women in His Life_. Random House, 2008, pp. 89-105.
+
+[^11]: Goodwin, Doris Kearns. _No Ordinary Time_, pp. 105-110.
+
+[^12]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 2, 1933-1938_. Viking Press, 1999, pp. 3-15.
+
+[^13]: Black, Allida M. _Casting Her Own Shadow_, pp. 25-35.
+
+[^14]: Streitmatter, Rodger. _Empty Without You: The Intimate Letters of Eleanor Roosevelt and Lorena Hickok_. Free Press, 1998, pp. 1-20.
+
+[^15]: Ware, Susan. _Beyond Suffrage: Women in the New Deal_. Harvard University Press, 1981, pp. 55-78.
+
+[^16]: Beasley, Maurine. _Eleanor Roosevelt and the Media: A Public Quest for Self-Fulfillment_. University of Illinois Press, 1987, pp. 34-42.
+
+[^17]: Beasley, Maurine. _Eleanor Roosevelt and the Media_, pp. 58-89.
+
+[^18]: Roosevelt, Eleanor. _This I Remember_. Harper & Brothers, 1949, pp. 89-95.
+
+[^19]: Glendon, Mary Ann. _A World Made New: Eleanor Roosevelt and the Universal Declaration of Human Rights_. Random House, 2001, pp. 31-45.
+
+[^20]: United Nations. _Universal Declaration of Human Rights_. General Assembly Resolution 217A, December 10, 1948.
+
+[^21]: Glendon, Mary Ann. _A World Made New_, pp. 145-178.
+
+[^22]: Roosevelt, Eleanor. _On My Own_. Harper & Brothers, 1958, pp. 77-78.
+
+[^23]: Keiler, Allan. _Marian Anderson: A Singer's Journey_. Scribner, 2000, pp. 185-201.
+
+[^24]: Sitkoff, Harvard. _A New Deal for Blacks: The Emergence of Civil Rights as a National Issue_. Oxford University Press, 1978, pp. 58-84.
+
+[^25]: Black, Allida M. _Courage in a Dangerous World: The Political Writings of Eleanor Roosevelt_. Columbia University Press, 1999, pp. 89-95.
+
+[^26]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 2_, pp. 256-278.
+
+[^27]: Goodwin, Doris Kearns. _No Ordinary Time_, pp. 445-467.
+
+[^28]: Robinson, Greg. _By Order of the President: FDR and the Internment of Japanese Americans_. Harvard University Press, 2001, pp. 145-152.
+
+[^29]: Takaki, Ronald. _Double Victory: A Multicultural History of America in World War II_. Little, Brown and Company, 2000, pp. 56-67.
+
+[^30]: Branch, Taylor. _Parting the Waters: America in the King Years 1954-63_. Simon & Schuster, 1988, pp. 189-191.
+
+[^31]: Burns, James MacGregor, and Susan Dunn. _The Three Roosevelts: Patrician Leaders Who Transformed America_. Atlantic Monthly Press, 2001, pp. 534-542.
+
+[^32]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 2_, pp. 89-105.
+
+[^33]: Beasley, Maurine. _Eleanor Roosevelt and the Media_, pp. 156-167.
+
+[^34]: Sitkoff, Harvard. _A New Deal for Blacks_, pp. 78-82.
+
+[^35]: Janken, Kenneth Robert. _White: The Biography of Walter White, Mr. NAACP_. New Press, 2003, pp. 245-251.
+
+[^36]: Streitmatter, Rodger. _Empty Without You_, pp. 35-89.
+
+[^37]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1_, pp. 389-412.
+
+[^38]: Beasley, Maurine, Holly Cowan Shulman, and Henry R. Beasley, eds. _The Eleanor Roosevelt Encyclopedia_. Greenwood Press, 2001, pp. 279-282.
+
+[^39]: Medoff, Rafael. _FDR and the Holocaust: A Breach of Faith_. David S. Wyman Institute for Holocaust Studies, 2013, pp. 89-102.
+
+[^40]: Wyman, David S. _The Abandonment of the Jews: America and the Holocaust, 1941-1945_. Pantheon Books, 1984, pp. 312-315.
+
+[^41]: Schrecker, Ellen. _Many Are the Crimes: McCarthyism in America_. Little, Brown and Company, 1998, pp. 156-159.
+
+[^42]: Theoharis, Athan, ed. _The FBI: A Comprehensive Reference Guide_. Oryx Press, 1999, pp. 201-203.
+
+[^43]: Freedman, Estelle. _No Turning Back: The History of Feminism and the Future of Women_. Ballantine Books, 2002, pp. 145-148.
+
+[^44]: Roosevelt, James, and Bill Libby. _My Parents: A Differing View_. Playboy Press, 1976, pp. 89-112.
+
+[^45]: Roosevelt, James. _My Parents_, p. 95.
+
+[^46]: Goodwin, Doris Kearns. _No Ordinary Time_, pp. 110-125.
+
+[^47]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 2_, pp. 45-67.
+
+[^48]: Streitmatter, Rodger. _Empty Without You_, pp. 125-178.
+
+[^49]: Faderman, Lillian. _To Believe in Women: What Lesbians Have Done for America_. Houghton Mifflin, 1999, pp. 125-145.
+
+[^50]: Roosevelt, Eleanor. _The Autobiography of Eleanor Roosevelt_, pp. 65-78.
+
+[^51]: Persico, Joseph E. _Franklin and Lucy_, pp. 234-245.
+
+[^52]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1_, pp. 89-95.
+
+[^53]: Black, Allida M. _Casting Her Own Shadow_, pp. 178-189.
+
+[^54]: Emblidge, David, ed. _Eleanor Roosevelt's My Day: Her Acclaimed Columns, 1936-1962_. Pharos Books, 1989, introduction.
+
+[^55]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1_, pp. 402-415.
+
+[^56]: Rowley, Hazel. _Franklin and Eleanor: An Extraordinary Marriage_. Farrar, Straus and Giroux, 2010, pp. 312-325.
+
+[^57]: Caroli, Betty Boyd. _First Ladies: The Ever Changing Role, from Martha Washington to Melania Trump_. Oxford University Press, 2019, pp. 156-189.
+
+[^58]: Watson, Robert P. _First Ladies of the United States: A Biographical Dictionary_. Lynne Rienner Publishers, 2001, pp. 234-237.
+
+[^59]: Lauren, Paul Gordon. _The Evolution of International Human Rights_. University of Pennsylvania Press, 2011, pp. 212-235.
+
 [^60]: United Nations. "Universal Declaration of Human Rights at 70: 30 Articles on 30 Articles." UN News, 2018.
-[^61]: Glendon, Mary Ann. *A World Made New*, pp. 234-241.
-[^62]: Sitkoff, Harvard. *A New Deal for Blacks*, pp. 328-335.
-[^63]: Branch, Taylor. *Parting the Waters*, pp. 189-192.
+
+[^61]: Glendon, Mary Ann. _A World Made New_, pp. 234-241.
+
+[^62]: Sitkoff, Harvard. _A New Deal for Blacks_, pp. 328-335.
+
+[^63]: Branch, Taylor. _Parting the Waters_, pp. 189-192.
+
 [^64]: King, Martin Luther Jr. Statement on the death of Eleanor Roosevelt, November 8, 1962. Martin Luther King Jr. Papers Project, Stanford University.
-[^65]: Borgwardt, Elizabeth. *A New Deal for the World: America's Vision for Human Rights*. Harvard University Press, 2005, pp. 178-195.
-[^66]: Bell-Scott, Patricia. *The Firebrand and the First Lady: Portrait of a Friendship: Pauli Murray, Eleanor Roosevelt, and the Struggle for Social Justice*. Knopf, 2016, pp. 145-189.
-[^67]: Leuchtenburg, William E. *In the Shadow of FDR: From Harry Truman to Barack Obama*. Cornell University Press, 2009, pp. 89-95.
-[^68]: Brinkley, Alan. *The End of Reform: New Deal Liberalism in Recession and War*. Vintage Books, 1996, pp. 267-275.
-[^69]: Black, Allida M., ed. *The Eleanor Roosevelt Papers: Vol. 1, The Human Rights Years, 1945-1948*. University of Virginia Press, 2007, introduction.
+
+[^65]: Borgwardt, Elizabeth. _A New Deal for the World: America's Vision for Human Rights_. Harvard University Press, 2005, pp. 178-195.
+
+[^66]: Bell-Scott, Patricia. _The Firebrand and the First Lady: Portrait of a Friendship: Pauli Murray, Eleanor Roosevelt, and the Struggle for Social Justice_. Knopf, 2016, pp. 145-189.
+
+[^67]: Leuchtenburg, William E. _In the Shadow of FDR: From Harry Truman to Barack Obama_. Cornell University Press, 2009, pp. 89-95.
+
+[^68]: Brinkley, Alan. _The End of Reform: New Deal Liberalism in Recession and War_. Vintage Books, 1996, pp. 267-275.
+
+[^69]: Black, Allida M., ed. _The Eleanor Roosevelt Papers: Vol. 1, The Human Rights Years, 1945-1948_. University of Virginia Press, 2007, introduction.
+
 [^70]: Eleanor Roosevelt Papers Project, George Washington University. https://erpapers.columbian.gwu.edu/
+
 [^71]: Roosevelt Institute. "About Us." https://rooseveltinstitute.org/about-us/
+
 [^72]: Franklin D. Roosevelt Presidential Library and Museum. "Eleanor Roosevelt National Historic Site." National Park Service.
+
 [^73]: Truman, Harry S. Statement on the death of Eleanor Roosevelt, November 7, 1962. Truman Presidential Library.
-[^74]: Michaelis, David. *Eleanor*. Simon & Schuster, 2020, pp. 567-578.
-[^75]: Goodwin, Doris Kearns. *No Ordinary Time*, p. 632.
+
+[^74]: Michaelis, David. _Eleanor_. Simon & Schuster, 2020, pp. 567-578.
+
+[^75]: Goodwin, Doris Kearns. _No Ordinary Time_, p. 632.
+
 [^76]: Goodwin, Doris Kearns. Interview with C-SPAN, December 15, 1994.
-[^77]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 3, The War Years and After, 1939-1962*. Viking Press, 2016, pp. 589-601.
-[^78]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 1*, pp. xviii-xxv.
-[^79]: Cook, Blanche Wiesen. *Eleanor Roosevelt: Volume 2*, pp. 567-578.
-[^80]: Black, Allida M. *Casting Her Own Shadow*, pp. 234-245.
-[^81]: Black, Allida M. *Courage in a Dangerous World*, introduction, pp. 1-15.
-[^82]: Franklin, John Hope. *The Color Line: Legacy for the Twenty-First Century*. University of Missouri Press, 1993, p. 45.
-[^83]: Sitkoff, Harvard. *Toward Freedom Land: The Long Struggle for Racial Equality in America*. University Press of Kentucky, 2010, pp. 78-82.
-[^84]: Glendon, Mary Ann. *A World Made New*, pp. 189-201.
-[^85]: Glendon, Mary Ann. *A World Made New*, pp. 234-238.
-[^86]: Cott, Nancy F. *The Grounding of Modern Feminism*. Yale University Press, 1987, pp. 256-267.
-[^87]: Ware, Susan. *Beyond Suffrage*, pp. 178-189.
-[^88]: Buckley, William F. Jr. "Eleanor Roosevelt, R.I.P." *National Review*, November 20, 1962, pp. 389-390.
-[^89]: Shlaes, Amity. *The Forgotten Man: A New History of the Great Depression*. HarperCollins, 2007, pp. 267-275.
-[^90]: Kessler-Harris, Alice. *In Pursuit of Equity: Women, Men, and the Quest for Economic Citizenship in 20th-Century America*. Oxford University Press, 2001, pp. 145-152.
-[^91]: Eller, Ronald D. *Miners, Millhands, and Mountaineers: Industrialization of the Appalachian South, 1880-1930*. University of Tennessee Press, 1982, pp. 234-238.
-[^92]: Sullivan, Patricia. *Lift Every Voice: The NAACP and the Making of the Civil Rights Movement*. New Press, 2009, pp. 289-292.
-[^93]: Zangrando, Robert L. *The NAACP Crusade Against Lynching, 1909-1950*. Temple University Press, 1980, pp. 167-172.
-[^94]: Bell-Scott, Patricia. *The Firebrand and the First Lady*, pp. 267-275.
-[^95]: Medoff, Rafael. *FDR and the Holocaust*, pp. 98-102.
-[^96]: Kennan, George F. *American Diplomacy*. University of Chicago Press, 1984, expanded edition, pp. 95-103.
-[^97]: Morgenthau, Hans J. *Politics Among Nations*. McGraw-Hill, 1985, sixth edition, pp. 234-237.
-[^98]: Cott, Nancy F. *The Grounding of Modern Feminism*, pp. 278-282.
-[^99]: Rupp, Leila J., and Verta Taylor. *Survival in the Doldrums: The American Women's Rights Movement, 1945 to the 1960s*. Oxford University Press, 1987, pp. 56-62.
-[^100]: Roosevelt, James. *My Parents*, pp. 125-145.
-[^101]: Roosevelt, Anna, and Bernard Asbell. *Mother and Daughter: The Letters of Eleanor and Anna Roosevelt*. Coward, McCann & Geoghegan, 1982, pp. 234-241.
-[^102]: Roosevelt, Eleanor. *This Is My Story*. Harper & Brothers, 1937, p. 178.
-[^103]: Roosevelt, Eleanor. *You Learn by Living*. Harper & Brothers, 1960, p. 89.
-[^104]: Roosevelt, Eleanor. *You Learn by Living*, p. 29.
+
+[^77]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 3, The War Years and After, 1939-1962_. Viking Press, 2016, pp. 589-601.
+
+[^78]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 1_, pp. xviii-xxv.
+
+[^79]: Cook, Blanche Wiesen. _Eleanor Roosevelt: Volume 2_, pp. 567-578.
+
+[^80]: Black, Allida M. _Casting Her Own Shadow_, pp. 234-245.
+
+[^81]: Black, Allida M. _Courage in a Dangerous World_, introduction, pp. 1-15.
+
+[^82]: Franklin, John Hope. _The Color Line: Legacy for the Twenty-First Century_. University of Missouri Press, 1993, p. 45.
+
+[^83]: Sitkoff, Harvard. _Toward Freedom Land: The Long Struggle for Racial Equality in America_. University Press of Kentucky, 2010, pp. 78-82.
+
+[^84]: Glendon, Mary Ann. _A World Made New_, pp. 189-201.
+
+[^85]: Glendon, Mary Ann. _A World Made New_, pp. 234-238.
+
+[^86]: Cott, Nancy F. _The Grounding of Modern Feminism_. Yale University Press, 1987, pp. 256-267.
+
+[^87]: Ware, Susan. _Beyond Suffrage_, pp. 178-189.
+
+[^88]: Buckley, William F. Jr. "Eleanor Roosevelt, R.I.P." _National Review_, November 20, 1962, pp. 389-390.
+
+[^89]: Shlaes, Amity. _The Forgotten Man: A New History of the Great Depression_. HarperCollins, 2007, pp. 267-275.
+
+[^90]: Kessler-Harris, Alice. _In Pursuit of Equity: Women, Men, and the Quest for Economic Citizenship in 20th-Century America_. Oxford University Press, 2001, pp. 145-152.
+
+[^91]: Eller, Ronald D. _Miners, Millhands, and Mountaineers: Industrialization of the Appalachian South, 1880-1930_. University of Tennessee Press, 1982, pp. 234-238.
+
+[^92]: Sullivan, Patricia. _Lift Every Voice: The NAACP and the Making of the Civil Rights Movement_. New Press, 2009, pp. 289-292.
+
+[^93]: Zangrando, Robert L. _The NAACP Crusade Against Lynching, 1909-1950_. Temple University Press, 1980, pp. 167-172.
+
+[^94]: Bell-Scott, Patricia. _The Firebrand and the First Lady_, pp. 267-275.
+
+[^95]: Medoff, Rafael. _FDR and the Holocaust_, pp. 98-102.
+
+[^96]: Kennan, George F. _American Diplomacy_. University of Chicago Press, 1984, expanded edition, pp. 95-103.
+
+[^97]: Morgenthau, Hans J. _Politics Among Nations_. McGraw-Hill, 1985, sixth edition, pp. 234-237.
+
+[^98]: Cott, Nancy F. _The Grounding of Modern Feminism_, pp. 278-282.
+
+[^99]: Rupp, Leila J., and Verta Taylor. _Survival in the Doldrums: The American Women's Rights Movement, 1945 to the 1960s_. Oxford University Press, 1987, pp. 56-62.
+
+[^100]: Roosevelt, James. _My Parents_, pp. 125-145.
+
+[^101]: Roosevelt, Anna, and Bernard Asbell. _Mother and Daughter: The Letters of Eleanor and Anna Roosevelt_. Coward, McCann & Geoghegan, 1982, pp. 234-241.
+
+[^102]: Roosevelt, Eleanor. _This Is My Story_. Harper & Brothers, 1937, p. 178.
+
+[^103]: Roosevelt, Eleanor. _You Learn by Living_. Harper & Brothers, 1960, p. 89.
+
+[^104]: Roosevelt, Eleanor. _You Learn by Living_, p. 29.
+
 [^105]: Roosevelt, Eleanor. "The Great Question." Speech at the United Nations, March 27, 1958.
-[^106]: Various attributions; authenticity disputed. See Shapiro, Fred R. *The Yale Book of Quotations*. Yale University Press, 2006, p. 651.
-[^107]: Roosevelt, Eleanor. *My Day* column, various dates, 1940s.
-[^108]: Roosevelt, Eleanor. *My Day* column, October 15, 1945.
+
+[^106]: Various attributions; authenticity disputed. See Shapiro, Fred R. _The Yale Book of Quotations_. Yale University Press, 2006, p. 651.
+
+[^107]: Roosevelt, Eleanor. _My Day_ column, various dates, 1940s.
+
+[^108]: Roosevelt, Eleanor. _My Day_ column, October 15, 1945.

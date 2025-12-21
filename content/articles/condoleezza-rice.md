@@ -3,7 +3,14 @@ id: "condoleezza-rice"
 name: "Condoleezza Rice"
 birth: "1954-11-14"
 nationality: "United States"
-occupation: ["Political Scientist", "Diplomat", "Academic", "U.S. Secretary of State", "National Security Advisor"]
+occupation:
+  [
+    "Political Scientist",
+    "Diplomat",
+    "Academic",
+    "U.S. Secretary of State",
+    "National Security Advisor",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Condoleezza_Rice_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Condoleezza_Rice"
@@ -140,29 +147,29 @@ Rice's legacy regarding race has been contested within the African American comm
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1954 | Born on November 14 in Birmingham, Alabama |
-| 1963 | Childhood friend Denise McNair killed in 16th Street Baptist Church bombing |
-| 1974 | Graduated from University of Denver with B.A. in Political Science at age 19 |
-| 1975 | Earned M.A. from University of Notre Dame |
-| 1981 | Received Ph.D. from University of Denver; joined Stanford faculty |
-| 1989 | Appointed Director of Soviet and East European Affairs, National Security Council |
-| 1991 | Returned to Stanford University as professor |
-| 1993 | Became Provost of Stanford University at age 38 |
+| Year | Event                                                                                                   |
+| ---- | ------------------------------------------------------------------------------------------------------- |
+| 1954 | Born on November 14 in Birmingham, Alabama                                                              |
+| 1963 | Childhood friend Denise McNair killed in 16th Street Baptist Church bombing                             |
+| 1974 | Graduated from University of Denver with B.A. in Political Science at age 19                            |
+| 1975 | Earned M.A. from University of Notre Dame                                                               |
+| 1981 | Received Ph.D. from University of Denver; joined Stanford faculty                                       |
+| 1989 | Appointed Director of Soviet and East European Affairs, National Security Council                       |
+| 1991 | Returned to Stanford University as professor                                                            |
+| 1993 | Became Provost of Stanford University at age 38                                                         |
 | 1999 | Left Stanford provost position; became foreign policy advisor to George W. Bush's presidential campaign |
-| 2001 | Appointed National Security Advisor, becoming first woman in the position |
-| 2001 | September 11 attacks occur; Rice helps coordinate U.S. response |
-| 2003 | U.S. invades Iraq; Rice defends war as National Security Advisor |
-| 2004 | Testifies before 9/11 Commission regarding pre-attack intelligence |
-| 2005 | Becomes 66th U.S. Secretary of State, first African American woman in the position |
-| 2006 | Negotiates ceasefire between Israel and Hezbollah during Lebanon War |
-| 2007 | Organizes Annapolis Conference on Middle East peace |
-| 2008 | Russo-Georgian War occurs; Rice coordinates U.S. response |
-| 2009 | Completes service as Secretary of State; returns to Stanford University |
-| 2011 | Publishes memoir "No Higher Honor: A Memoir of My Years in Washington" |
-| 2013 | Joins College Football Playoff selection committee |
-| 2020 | Continues teaching and research at Stanford; serves on corporate boards |
+| 2001 | Appointed National Security Advisor, becoming first woman in the position                               |
+| 2001 | September 11 attacks occur; Rice helps coordinate U.S. response                                         |
+| 2003 | U.S. invades Iraq; Rice defends war as National Security Advisor                                        |
+| 2004 | Testifies before 9/11 Commission regarding pre-attack intelligence                                      |
+| 2005 | Becomes 66th U.S. Secretary of State, first African American woman in the position                      |
+| 2006 | Negotiates ceasefire between Israel and Hezbollah during Lebanon War                                    |
+| 2007 | Organizes Annapolis Conference on Middle East peace                                                     |
+| 2008 | Russo-Georgian War occurs; Rice coordinates U.S. response                                               |
+| 2009 | Completes service as Secretary of State; returns to Stanford University                                 |
+| 2011 | Publishes memoir "No Higher Honor: A Memoir of My Years in Washington"                                  |
+| 2013 | Joins College Football Playoff selection committee                                                      |
+| 2020 | Continues teaching and research at Stanford; serves on corporate boards                                 |
 
 ---
 
@@ -184,114 +191,224 @@ Rice's legacy regarding race has been contested within the African American comm
 
 ## References
 
-[^1]: Mabry, Marcus. *Twice as Good: Condoleezza Rice and Her Path to Power*. Modern Times, 2007, pp. 15-18.
-[^2]: Rice, Condoleezza. *Extraordinary, Ordinary People: A Memoir of Family*. Crown, 2010, p. 102.
-[^3]: Felix, Antonia. *Condi: The Condoleezza Rice Story*. Newmarket Press, 2005, pp. 23-27.
-[^4]: Mabry, *Twice as Good*, pp. 35-38.
-[^5]: Rice, *Extraordinary, Ordinary People*, pp. 115-120.
-[^6]: Felix, *Condi: The Condoleezza Rice Story*, pp. 31-34.
-[^7]: Rice, Condoleezza. Interview with Oprah Winfrey. *The Oprah Winfrey Show*, February 2002.
-[^8]: Kessler, Glenn. *The Confidante: Condoleezza Rice and the Creation of the Bush Legacy*. St. Martin's Press, 2007, pp. 12-15.
+[^1]: Mabry, Marcus. _Twice as Good: Condoleezza Rice and Her Path to Power_. Modern Times, 2007, pp. 15-18.
+
+[^2]: Rice, Condoleezza. _Extraordinary, Ordinary People: A Memoir of Family_. Crown, 2010, p. 102.
+
+[^3]: Felix, Antonia. _Condi: The Condoleezza Rice Story_. Newmarket Press, 2005, pp. 23-27.
+
+[^4]: Mabry, _Twice as Good_, pp. 35-38.
+
+[^5]: Rice, _Extraordinary, Ordinary People_, pp. 115-120.
+
+[^6]: Felix, _Condi: The Condoleezza Rice Story_, pp. 31-34.
+
+[^7]: Rice, Condoleezza. Interview with Oprah Winfrey. _The Oprah Winfrey Show_, February 2002.
+
+[^8]: Kessler, Glenn. _The Confidante: Condoleezza Rice and the Creation of the Bush Legacy_. St. Martin's Press, 2007, pp. 12-15.
+
 [^9]: "Condoleezza Rice." Stanford University Official Biography, 2001.
-[^10]: Rice, Condoleezza. *The Soviet Union and the Czechoslovak Army, 1948-1983*. Princeton University Press, 1984.
-[^11]: Felix, *Condi: The Condoleezza Rice Story*, pp. 67-70.
-[^12]: Kessler, *The Confidante*, pp. 18-21.
-[^13]: Mabry, *Twice as Good*, pp. 142-148.
-[^14]: Zelikow, Philip and Rice, Condoleezza. *Germany Unified and Europe Transformed*. Harvard University Press, 1995, pp. 45-67.
+
+[^10]: Rice, Condoleezza. _The Soviet Union and the Czechoslovak Army, 1948-1983_. Princeton University Press, 1984.
+
+[^11]: Felix, _Condi: The Condoleezza Rice Story_, pp. 67-70.
+
+[^12]: Kessler, _The Confidante_, pp. 18-21.
+
+[^13]: Mabry, _Twice as Good_, pp. 142-148.
+
+[^14]: Zelikow, Philip and Rice, Condoleezza. _Germany Unified and Europe Transformed_. Harvard University Press, 1995, pp. 45-67.
+
 [^15]: "Condoleezza Rice Appointed Stanford Provost." Stanford University News Service, May 1993.
-[^16]: Felix, *Condi: The Condoleezza Rice Story*, pp. 89-93.
-[^17]: Kessler, *The Confidante*, pp. 25-28.
-[^18]: Mann, James. *Rise of the Vulcans: The History of Bush's War Cabinet*. Viking, 2004, pp. 256-260.
-[^19]: Mann, *Rise of the Vulcans*, pp. 264-269.
+
+[^16]: Felix, _Condi: The Condoleezza Rice Story_, pp. 89-93.
+
+[^17]: Kessler, _The Confidante_, pp. 25-28.
+
+[^18]: Mann, James. _Rise of the Vulcans: The History of Bush's War Cabinet_. Viking, 2004, pp. 256-260.
+
+[^19]: Mann, _Rise of the Vulcans_, pp. 264-269.
+
 [^20]: "President-elect Bush Announces National Security Team." White House Archives, December 2000.
-[^21]: Rice, Condoleezza. *No Higher Honor: A Memoir of My Years in Washington*. Crown, 2011, pp. 67-82.
-[^22]: Woodward, Bob. *Bush at War*. Simon & Schuster, 2002, pp. 34-56.
-[^23]: Daalder, Ivo H. and Lindsay, James M. *America Unbound: The Bush Revolution in Foreign Policy*. Brookings Institution Press, 2003, pp. 123-145.
-[^24]: Rice, *No Higher Honor*, pp. 171-189.
+
+[^21]: Rice, Condoleezza. _No Higher Honor: A Memoir of My Years in Washington_. Crown, 2011, pp. 67-82.
+
+[^22]: Woodward, Bob. _Bush at War_. Simon & Schuster, 2002, pp. 34-56.
+
+[^23]: Daalder, Ivo H. and Lindsay, James M. _America Unbound: The Bush Revolution in Foreign Policy_. Brookings Institution Press, 2003, pp. 123-145.
+
+[^24]: Rice, _No Higher Honor_, pp. 171-189.
+
 [^25]: Rice, Condoleezza. "Transformational Diplomacy." Speech at Georgetown University, January 2006.
-[^26]: Rice, Condoleezza. "The Promise of Democratic Peace." *The Washington Post*, December 11, 2005.
-[^27]: Kessler, *The Confidante*, pp. 134-140.
-[^28]: Rice, *No Higher Honor*, pp. 463-478.
-[^29]: Tellis, Ashley J. "The Evolution of U.S.-Indian Ties: Missile Defense in an Emerging Strategic Relationship." *International Security* 30.4 (2006): 113-151.
-[^30]: Rice, *No Higher Honor*, pp. 520-532.
+
+[^26]: Rice, Condoleezza. "The Promise of Democratic Peace." _The Washington Post_, December 11, 2005.
+
+[^27]: Kessler, _The Confidante_, pp. 134-140.
+
+[^28]: Rice, _No Higher Honor_, pp. 463-478.
+
+[^29]: Tellis, Ashley J. "The Evolution of U.S.-Indian Ties: Missile Defense in an Emerging Strategic Relationship." _International Security_ 30.4 (2006): 113-151.
+
+[^30]: Rice, _No Higher Honor_, pp. 520-532.
+
 [^31]: "Annapolis Conference: Joint Understanding on Negotiations." U.S. Department of State, November 27, 2007.
-[^32]: Kessler, *The Confidante*, pp. 201-218.
-[^33]: Rice, *No Higher Honor*, pp. 671-685.
-[^34]: Stent, Angela. *The Limits of Partnership: U.S.-Russian Relations in the Twenty-First Century*. Princeton University Press, 2014, pp. 156-178.
+
+[^32]: Kessler, _The Confidante_, pp. 201-218.
+
+[^33]: Rice, _No Higher Honor_, pp. 671-685.
+
+[^34]: Stent, Angela. _The Limits of Partnership: U.S.-Russian Relations in the Twenty-First Century_. Princeton University Press, 2014, pp. 156-178.
+
 [^35]: "Condoleezza Rice: 2005-2009." U.S. Department of State, Office of the Historian.
-[^36]: Lusane, Clarence. *Colin Powell and Condoleezza Rice: Foreign Policy, Race, and the New American Century*. Praeger, 2006, pp. 187-201.
-[^37]: Isikoff, Michael and Corn, David. *Hubris: The Inside Story of Spin, Scandal, and the Selling of the Iraq War*. Crown, 2006, pp. 178-195.
-[^38]: Rice, Condoleezza. Interview with Wolf Blitzer. *CNN Late Edition*, September 8, 2002.
+
+[^36]: Lusane, Clarence. _Colin Powell and Condoleezza Rice: Foreign Policy, Race, and the New American Century_. Praeger, 2006, pp. 187-201.
+
+[^37]: Isikoff, Michael and Corn, David. _Hubris: The Inside Story of Spin, Scandal, and the Selling of the Iraq War_. Crown, 2006, pp. 178-195.
+
+[^38]: Rice, Condoleezza. Interview with Wolf Blitzer. _CNN Late Edition_, September 8, 2002.
+
 [^39]: "The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks Upon the United States." W.W. Norton, 2004, pp. 254-265.
+
 [^40]: "Bin Laden Determined to Strike in US." Presidential Daily Brief, August 6, 2001. Declassified April 10, 2004.
-[^41]: Clarke, Richard A. *Against All Enemies: Inside America's War on Terror*. Free Press, 2004, pp. 227-238.
-[^42]: Mayer, Jane. *The Dark Side: The Inside Story of How the War on Terror Turned into a War on American Ideals*. Doubleday, 2008, pp. 156-172.
+
+[^41]: Clarke, Richard A. _Against All Enemies: Inside America's War on Terror_. Free Press, 2004, pp. 227-238.
+
+[^42]: Mayer, Jane. _The Dark Side: The Inside Story of How the War on Terror Turned into a War on American Ideals_. Doubleday, 2008, pp. 156-172.
+
 [^43]: "Statement on U.S. Torture and Accountability." Human Rights Watch, December 9, 2014.
-[^44]: Carothers, Thomas. "The Backlash Against Democracy Promotion." *Foreign Affairs* 85.2 (2006): 55-68.
-[^45]: Hamid, Shadi. *Temptations of Power: Islamists and Illiberal Democracy in a New Middle East*. Oxford University Press, 2014, pp. 89-103.
-[^46]: Ross, Dennis. *The Missing Peace: The Inside Story of the Fight for Middle East Peace*. Farrar, Straus and Giroux, 2004, pp. 756-771.
-[^47]: Kessler, *The Confidante*, pp. 167-182.
-[^48]: Miller, Aaron David. *The Much Too Promised Land: America's Elusive Search for Arab-Israeli Peace*. Bantam Books, 2008, pp. 334-349.
-[^49]: Stent, *The Limits of Partnership*, pp. 198-215.
-[^50]: Rice, *No Higher Honor*, pp. 656-670.
-[^51]: Lusane, *Colin Powell and Condoleezza Rice*, pp. 245-259.
-[^52]: Dyson, Michael Eric. *Come Hell or High Water: Hurricane Katrina and the Color of Disaster*. Basic Civitas Books, 2006, pp. 178-185.
-[^53]: Felix, *Condi: The Condoleezza Rice Story*, pp. 201-205.
-[^54]: Rice, Condoleezza. Interview with Katie Couric. *CBS Evening News*, September 2008.
-[^55]: Mabry, *Twice as Good*, pp. 95-98.
-[^56]: "Condoleezza Rice Performs with Yo-Yo Ma." *The New York Times*, April 26, 2002.
-[^57]: Rice, *Extraordinary, Ordinary People*, pp. 234-238.
+
+[^44]: Carothers, Thomas. "The Backlash Against Democracy Promotion." _Foreign Affairs_ 85.2 (2006): 55-68.
+
+[^45]: Hamid, Shadi. _Temptations of Power: Islamists and Illiberal Democracy in a New Middle East_. Oxford University Press, 2014, pp. 89-103.
+
+[^46]: Ross, Dennis. _The Missing Peace: The Inside Story of the Fight for Middle East Peace_. Farrar, Straus and Giroux, 2004, pp. 756-771.
+
+[^47]: Kessler, _The Confidante_, pp. 167-182.
+
+[^48]: Miller, Aaron David. _The Much Too Promised Land: America's Elusive Search for Arab-Israeli Peace_. Bantam Books, 2008, pp. 334-349.
+
+[^49]: Stent, _The Limits of Partnership_, pp. 198-215.
+
+[^50]: Rice, _No Higher Honor_, pp. 656-670.
+
+[^51]: Lusane, _Colin Powell and Condoleezza Rice_, pp. 245-259.
+
+[^52]: Dyson, Michael Eric. _Come Hell or High Water: Hurricane Katrina and the Color of Disaster_. Basic Civitas Books, 2006, pp. 178-185.
+
+[^53]: Felix, _Condi: The Condoleezza Rice Story_, pp. 201-205.
+
+[^54]: Rice, Condoleezza. Interview with Katie Couric. _CBS Evening News_, September 2008.
+
+[^55]: Mabry, _Twice as Good_, pp. 95-98.
+
+[^56]: "Condoleezza Rice Performs with Yo-Yo Ma." _The New York Times_, April 26, 2002.
+
+[^57]: Rice, _Extraordinary, Ordinary People_, pp. 234-238.
+
 [^58]: "An Evening with Condoleezza Rice." Kennedy Center Honors, December 2010.
-[^59]: Rice, Condoleezza. "Why I Love Football." *TIME Magazine*, August 22, 2013.
+
+[^59]: Rice, Condoleezza. "Why I Love Football." _TIME Magazine_, August 22, 2013.
+
 [^60]: "Rice Joins College Football Playoff Committee." ESPN, October 15, 2013.
-[^61]: Rice interview on *60 Minutes*, CBS News, March 21, 2010.
-[^62]: Felix, *Condi: The Condoleezza Rice Story*, pp. 195-198.
-[^63]: Kessler, *The Confidante*, pp. 45-49.
-[^64]: Rice, *No Higher Honor*, pp. 15-19.
-[^65]: Bush, George W. *Decision Points*. Crown, 2010, pp. 87-92.
-[^66]: Mabry, *Twice as Good*, pp. 234-238.
-[^67]: Mann, *Rise of the Vulcans*, pp. 312-318.
-[^68]: Rice, *Extraordinary, Ordinary People*, pp. 89-95.
+
+[^61]: Rice interview on _60 Minutes_, CBS News, March 21, 2010.
+
+[^62]: Felix, _Condi: The Condoleezza Rice Story_, pp. 195-198.
+
+[^63]: Kessler, _The Confidante_, pp. 45-49.
+
+[^64]: Rice, _No Higher Honor_, pp. 15-19.
+
+[^65]: Bush, George W. _Decision Points_. Crown, 2010, pp. 87-92.
+
+[^66]: Mabry, _Twice as Good_, pp. 234-238.
+
+[^67]: Mann, _Rise of the Vulcans_, pp. 312-318.
+
+[^68]: Rice, _Extraordinary, Ordinary People_, pp. 89-95.
+
 [^69]: Rice, Condoleezza. "Faith in America." Speech at Southern Baptist Convention, June 2006.
-[^70]: Lusane, *Colin Powell and Condoleezza Rice*, pp. 279-285.
+
+[^70]: Lusane, _Colin Powell and Condoleezza Rice_, pp. 279-285.
+
 [^71]: "Breaking Barriers: Women in National Security." Council on Foreign Relations Report, 2013.
-[^72]: Rice, Condoleezza. "The Making of Soviet Strategy." In *Makers of Modern Strategy*, edited by Peter Paret. Princeton University Press, 1986, pp. 648-676.
-[^73]: Jentleson, Bruce W. "In Memoriam: The Academy and Public Service." *International Studies Review* 13.1 (2011): 123-129.
-[^74]: Crawford, Neta C. "The Iraq War and Its Costs." *Costs of War Project*, Watson Institute, Brown University, 2021.
-[^75]: Chandrasekaran, Rajiv. *Imperial Life in the Emerald City: Inside Iraq's Green Zone*. Knopf, 2006, pp. 267-289.
+
+[^72]: Rice, Condoleezza. "The Making of Soviet Strategy." In _Makers of Modern Strategy_, edited by Peter Paret. Princeton University Press, 1986, pp. 648-676.
+
+[^73]: Jentleson, Bruce W. "In Memoriam: The Academy and Public Service." _International Studies Review_ 13.1 (2011): 123-129.
+
+[^74]: Crawford, Neta C. "The Iraq War and Its Costs." _Costs of War Project_, Watson Institute, Brown University, 2021.
+
+[^75]: Chandrasekaran, Rajiv. _Imperial Life in the Emerald City: Inside Iraq's Green Zone_. Knopf, 2006, pp. 267-289.
+
 [^76]: Carothers, "The Backlash Against Democracy Promotion," pp. 61-65.
-[^77]: Lynch, Marc. *The Arab Uprising: The Unfinished Revolutions of the New Middle East*. PublicAffairs, 2012, pp. 201-218.
-[^78]: Hamid, *Temptations of Power*, pp. 267-283.
+
+[^77]: Lynch, Marc. _The Arab Uprising: The Unfinished Revolutions of the New Middle East_. PublicAffairs, 2012, pp. 201-218.
+
+[^78]: Hamid, _Temptations of Power_, pp. 267-283.
+
 [^79]: "Condoleezza Rice Returns to Stanford." Stanford News Service, March 2009.
-[^80]: Rice, Condoleezza. *Democracy: Stories from the Long Road to Freedom*. Twelve, 2017.
-[^81]: Rice, *No Higher Honor*.
+
+[^80]: Rice, Condoleezza. _Democracy: Stories from the Long Road to Freedom_. Twelve, 2017.
+
+[^81]: Rice, _No Higher Honor_.
+
 [^82]: "Condoleezza Rice Joins Dropbox Board of Directors." Dropbox Press Release, April 2014.
-[^83]: "Rice, Hadley, Gates & Manuel LLC Launches." *Foreign Policy*, October 2009.
-[^84]: Haass, Richard N. *War of Necessity, War of Choice: A Memoir of Two Iraq Wars*. Simon & Schuster, 2009, pp. 234-249.
-[^85]: Binder, Amy. "Breaking Barriers or Breaking Down? Condoleezza Rice and Symbolic Leadership." *Gender & Society* 21.5 (2007): 676-696.
-[^86]: Kennedy, David M. "The American Prospect." *The Atlantic Monthly*, September 2007.
+
+[^83]: "Rice, Hadley, Gates & Manuel LLC Launches." _Foreign Policy_, October 2009.
+
+[^84]: Haass, Richard N. _War of Necessity, War of Choice: A Memoir of Two Iraq Wars_. Simon & Schuster, 2009, pp. 234-249.
+
+[^85]: Binder, Amy. "Breaking Barriers or Breaking Down? Condoleezza Rice and Symbolic Leadership." _Gender & Society_ 21.5 (2007): 676-696.
+
+[^86]: Kennedy, David M. "The American Prospect." _The Atlantic Monthly_, September 2007.
+
 [^87]: "Women in International Security: The Rice Effect." Georgetown University Study, 2012.
-[^88]: Cheney, Dick. *In My Time: A Personal and Political Memoir*. Threshold Editions, 2011, pp. 398-405.
-[^89]: Rice, *No Higher Honor*, pp. 123-134.
-[^90]: Burns, Nicholas. "Condoleezza Rice's Diplomatic Legacy." *Foreign Affairs*, January/February 2009.
+
+[^88]: Cheney, Dick. _In My Time: A Personal and Political Memoir_. Threshold Editions, 2011, pp. 398-405.
+
+[^89]: Rice, _No Higher Honor_, pp. 123-134.
+
+[^90]: Burns, Nicholas. "Condoleezza Rice's Diplomatic Legacy." _Foreign Affairs_, January/February 2009.
+
 [^91]: Burns, Nicholas. Testimony before Senate Foreign Relations Committee, July 2008.
-[^92]: "Colleagues Remember Condoleezza Rice's Academic Career." *Stanford Report*, January 2001.
+
+[^92]: "Colleagues Remember Condoleezza Rice's Academic Career." _Stanford Report_, January 2001.
+
 [^93]: Student evaluations, Stanford University Political Science Department, 1995-1999.
-[^94]: Shultz, George P. and Rice, Condoleezza. "A Sensible Path on Nuclear Weapons." *The Wall Street Journal*, January 6, 2013.
-[^95]: Gates, Robert M. *Duty: Memoirs of a Secretary at War*. Knopf, 2014, pp. 167-173.
-[^96]: Betts, Richard K. "Intelligence Warning: Old Problems, New Agendas." *Parameters* 28.1 (1998): 26-35.
-[^97]: Packer, George. *The Assassins' Gate: America in Iraq*. Farrar, Straus and Giroux, 2005, pp. 89-107.
-[^98]: Mann, *Rise of the Vulcans*, pp. 335-342.
-[^99]: Rothkopf, David. *Running the World: The Inside Story of the National Security Council*. PublicAffairs, 2005, pp. 412-428.
+
+[^94]: Shultz, George P. and Rice, Condoleezza. "A Sensible Path on Nuclear Weapons." _The Wall Street Journal_, January 6, 2013.
+
+[^95]: Gates, Robert M. _Duty: Memoirs of a Secretary at War_. Knopf, 2014, pp. 167-173.
+
+[^96]: Betts, Richard K. "Intelligence Warning: Old Problems, New Agendas." _Parameters_ 28.1 (1998): 26-35.
+
+[^97]: Packer, George. _The Assassins' Gate: America in Iraq_. Farrar, Straus and Giroux, 2005, pp. 89-107.
+
+[^98]: Mann, _Rise of the Vulcans_, pp. 335-342.
+
+[^99]: Rothkopf, David. _Running the World: The Inside Story of the National Security Council_. PublicAffairs, 2005, pp. 412-428.
+
 [^100]: "Statement on Torture and U.S. Accountability." Amnesty International, December 2014.
-[^101]: Sands, Philippe. *Torture Team: Rumsfeld's Memo and the Betrayal of American Values*. Palgrave Macmillan, 2008, pp. 178-192.
-[^102]: Nasr, Vali. *The Dispensable Nation: American Foreign Policy in Retreat*. Doubleday, 2013, pp. 89-104.
-[^103]: Ricks, Thomas E. *Fiasco: The American Military Adventure in Iraq*. Penguin Press, 2006, pp. 267-283.
-[^104]: West, Cornel. *Democracy Matters: Winning the Fight Against Imperialism*. Penguin Press, 2004, pp. 178-185.
-[^105]: Dyson, *Come Hell or High Water*, pp. 201-215.
+
+[^101]: Sands, Philippe. _Torture Team: Rumsfeld's Memo and the Betrayal of American Values_. Palgrave Macmillan, 2008, pp. 178-192.
+
+[^102]: Nasr, Vali. _The Dispensable Nation: American Foreign Policy in Retreat_. Doubleday, 2013, pp. 89-104.
+
+[^103]: Ricks, Thomas E. _Fiasco: The American Military Adventure in Iraq_. Penguin Press, 2006, pp. 267-283.
+
+[^104]: West, Cornel. _Democracy Matters: Winning the Fight Against Imperialism_. Penguin Press, 2004, pp. 178-185.
+
+[^105]: Dyson, _Come Hell or High Water_, pp. 201-215.
+
 [^106]: Rice, Condoleezza. Address to Republican National Convention, August 1, 2000.
-[^107]: Rice interview on *CNN Late Edition*, September 8, 2002.
+
+[^107]: Rice interview on _CNN Late Edition_, September 8, 2002.
+
 [^108]: Rice, Condoleezza. Commencement Address, Boston College, May 2006.
-[^109]: Rice, *No Higher Honor*, p. 728.
+
+[^109]: Rice, _No Higher Honor_, p. 728.
+
 [^110]: Rice, Condoleezza. "Transformational Diplomacy." Georgetown University, January 18, 2006.
-[^111]: Rice interview on *60 Minutes*, CBS News, March 21, 2010.
+
+[^111]: Rice interview on _60 Minutes_, CBS News, March 21, 2010.

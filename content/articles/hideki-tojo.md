@@ -121,132 +121,207 @@ Even among those who emphasize systemic factors over individual responsibility, 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1884 | Born December 30 in Tokyo, Japan |
-| 1905 | Graduated from Japanese Military Academy, commissioned as second lieutenant |
-| 1909 | Married Katsuko Ito |
-| 1915-1916 | Served in Manchuria during World War I |
-| 1919-1922 | Military attaché in Switzerland and Germany |
-| 1924 | Promoted to lieutenant colonel |
-| 1933 | Promoted to major general |
-| 1935 | Appointed head of military police affairs (Kempeitai) |
-| 1937 | Appointed chief of staff, Kwantung Army in Manchuria |
-| 1938 | Appointed Vice-Minister of War |
-| 1940 | Appointed Minister of War in Konoe cabinet; promoted to general |
-| 1941 | Appointed Prime Minister on October 18 |
-| 1941 | Authorized attack on Pearl Harbor, December 7 |
-| 1942 | Established Greater East Asia Ministry |
-| 1943 | Assumed additional role as Chief of Army General Staff |
-| 1944 | Forced to resign as Prime Minister on July 18 after fall of Saipan |
-| 1945 | Failed suicide attempt after Japan's surrender, September 11 |
-| 1945 | Arrested by American occupation forces, September 11 |
-| 1946 | Indicted for war crimes, April 29 |
-| 1946-1948 | Tokyo War Crimes Trial |
-| 1948 | Found guilty on all counts, November 12 |
-| 1948 | Executed by hanging, December 23 |
+| Year      | Event                                                                       |
+| --------- | --------------------------------------------------------------------------- |
+| 1884      | Born December 30 in Tokyo, Japan                                            |
+| 1905      | Graduated from Japanese Military Academy, commissioned as second lieutenant |
+| 1909      | Married Katsuko Ito                                                         |
+| 1915-1916 | Served in Manchuria during World War I                                      |
+| 1919-1922 | Military attaché in Switzerland and Germany                                 |
+| 1924      | Promoted to lieutenant colonel                                              |
+| 1933      | Promoted to major general                                                   |
+| 1935      | Appointed head of military police affairs (Kempeitai)                       |
+| 1937      | Appointed chief of staff, Kwantung Army in Manchuria                        |
+| 1938      | Appointed Vice-Minister of War                                              |
+| 1940      | Appointed Minister of War in Konoe cabinet; promoted to general             |
+| 1941      | Appointed Prime Minister on October 18                                      |
+| 1941      | Authorized attack on Pearl Harbor, December 7                               |
+| 1942      | Established Greater East Asia Ministry                                      |
+| 1943      | Assumed additional role as Chief of Army General Staff                      |
+| 1944      | Forced to resign as Prime Minister on July 18 after fall of Saipan          |
+| 1945      | Failed suicide attempt after Japan's surrender, September 11                |
+| 1945      | Arrested by American occupation forces, September 11                        |
+| 1946      | Indicted for war crimes, April 29                                           |
+| 1946-1948 | Tokyo War Crimes Trial                                                      |
+| 1948      | Found guilty on all counts, November 12                                     |
+| 1948      | Executed by hanging, December 23                                            |
 
 ---
 
 ## Famous Quotes
 
 > "It is an inescapable conclusion that war with the United States, Great Britain and the Netherlands is inevitable. We must prepare for this, even at the risk of our destruction."
-> 
+>
 > - Statement to cabinet in October 1941, arguing for war rather than continued negotiations.[^72]
 
 > "At the time of the Japan-U.S. negotiations, I believed that if we did not fight we would be destroyed. Now, upon reflection, perhaps dying without fighting would have been better."
-> 
+>
 > - Testimony during the Tokyo War Crimes Trial, expressing retrospective doubt about the decision for war.[^73]
 
 > "I am very sorry for the nation and all the races of the Greater Asiatic powers. I wait for the righteous judgment of history."
-> 
+>
 > - Statement before his execution, December 23, 1948.[^74]
 
 > "The reason that our Divine Empire went to war was to preserve our existence and was a matter of life and death for our nation... I feel deeply sorry for having troubled His Majesty."
-> 
+>
 > - From his testimony at the Tokyo Tribunal, emphasizing loyalty to Emperor Hirohito.[^75]
 
 > "A person who serves in the military must be prepared to die at any moment. This is the fundamental difference between those in the military and civilians."
-> 
+>
 > - Statement reflecting his bushido-influenced military philosophy.[^76]
 
 ---
 
 ## References
 
-[^1]: Butow, Robert J.C. *Tojo and the Coming of the War*. Princeton University Press, 1961, pp. 12-15.
-[^2]: Bix, Herbert P. *Hirohito and the Making of Modern Japan*. HarperCollins, 2000, p. 361.
-[^3]: Browne, Courtney. *Tojo: The Last Banzai*. Holt, Rinehart and Winston, 1967, p. 23.
-[^4]: Hoyt, Edwin P. *Warlord: Tojo Against the World*. Scarborough House, 1993, p. 31.
-[^5]: Dower, John W. *War Without Mercy: Race and Power in the Pacific War*. Pantheon Books, 1986, pp. 223-225.
-[^6]: Toland, John. *The Rising Sun: The Decline and Fall of the Japanese Empire, 1936-1945*. Random House, 1970, p. 89.
-[^7]: Butow, *Tojo and the Coming of the War*, pp. 45-48.
-[^8]: Shillony, Ben-Ami. *Politics and Culture in Wartime Japan*. Clarendon Press, 1981, p. 67.
-[^9]: Berger, Gordon M. *Parties Out of Power in Japan, 1931-1941*. Princeton University Press, 1977, pp. 156-158.
-[^10]: Coox, Alvin D. *Nomonhan: Japan Against Russia, 1939*. Stanford University Press, 1985, p. 112.
-[^11]: Ienaga, Saburo. *The Pacific War, 1931-1945*. Pantheon Books, 1978, p. 128.
-[^12]: Weinberg, Gerhard L. *A World at Arms: A Global History of World War II*. Cambridge University Press, 1994, p. 181.
-[^13]: Bix, *Hirohito and the Making of Modern Japan*, pp. 417-421.
-[^14]: Barnhart, Michael A. *Japan Prepares for Total War: The Search for Economic Security, 1919-1941*. Cornell University Press, 1987, p. 234.
-[^15]: Iriye, Akira. *Power and Culture: The Japanese-American War, 1941-1945*. Harvard University Press, 1981, p. 45.
-[^16]: Prange, Gordon W. *At Dawn We Slept: The Untold Story of Pearl Harbor*. McGraw-Hill, 1981, pp. 537-539.
-[^17]: Willmott, H.P. *Empires in the Balance: Japanese and Allied Pacific Strategies to April 1942*. Naval Institute Press, 1982, pp. 89-112.
-[^18]: Lebra, Joyce C. *Japan's Greater East Asia Co-Prosperity Sphere in World War II*. Oxford University Press, 1975, pp. 56-61.
-[^19]: Havens, Thomas R.H. *Valley of Darkness: The Japanese People and World War Two*. W.W. Norton, 1978, pp. 71-78.
-[^20]: Large, Stephen S. *Emperor Hirohito and Showa Japan: A Political Biography*. Routledge, 1992, p. 98.
-[^21]: Hata, Ikuhiko. "The Army's Move into Northern Indochina." In *The Fateful Choice: Japan's Advance into Southeast Asia*, edited by James William Morley. Columbia University Press, 1980, p. 167.
-[^22]: Cohen, Jerome B. *Japan's Economy in War and Reconstruction*. University of Minnesota Press, 1949, pp. 134-137.
-[^23]: Hayashi, Saburo. *Kogun: The Japanese Army in the Pacific War*. Marine Corps Association, 1959, p. 78.
-[^24]: Allen, Louis. *Burma: The Longest War, 1941-1945*. Phoenix Press, 2000, p. 89.
-[^25]: Tanaka, Yuki. *Hidden Horrors: Japanese War Crimes in World War II*. Westview Press, 1996, pp. 1-5.
-[^26]: Chang, Iris. *The Rape of Nanking: The Forgotten Holocaust of World War II*. Basic Books, 1997, pp. 55-57. (Note: While Nanking preceded Tojo's premiership, similar atrocities continued under his leadership.)
-[^27]: Daws, Gavan. *Prisoners of the Japanese: POWs of World War II in the Pacific*. William Morrow, 1994, p. 357.
-[^28]: Waterford, Van. *Prisoners of the Japanese in World War II*. McFarland, 1994, pp. 23-25.
-[^29]: Weinberg, *A World at Arms*, p. 310.
-[^30]: Frank, Richard B. *Downfall: The End of the Imperial Japanese Empire*. Random House, 1999, pp. 18-21.
-[^31]: Asada, Sadao. *From Mahan to Pearl Harbor: The Imperial Japanese Navy and the United States*. Naval Institute Press, 2006, p. 267.
-[^32]: Spector, Ronald H. *Eagle Against the Sun: The American War with Japan*. Free Press, 1985, pp. 234-237.
-[^33]: Mitchell, Richard H. *Thought Control in Prewar Japan*. Cornell University Press, 1976, pp. 178-182.
-[^34]: Dower, John W. *Embracing Defeat: Japan in the Wake of World War II*. W.W. Norton, 1999, p. 34.
-[^35]: Havens, *Valley of Darkness*, pp. 45-52.
-[^36]: Browne, *Tojo: The Last Banzai*, pp. 38-40.
-[^37]: Hoyt, *Warlord: Tojo Against the World*, pp. 52-54.
-[^38]: Toland, *The Rising Sun*, p. 89.
-[^39]: Butow, *Tojo and the Coming of the War*, p. 203.
-[^40]: Hayashi, *Kogun*, p. 56.
-[^41]: Shillony, *Politics and Culture in Wartime Japan*, p. 71.
-[^42]: Hoyt, *Warlord: Tojo Against the World*, pp. 67-69.
-[^43]: Browne, *Tojo: The Last Banzai*, pp. 91-93.
-[^44]: Minear, Richard H. *Victors' Justice: The Tokyo War Crimes Trial*. Princeton University Press, 1971, p. 78.
-[^45]: Brackman, Arnold C. *The Other Nuremberg: The Untold Story of the Tokyo War Crimes Trials*. William Morrow, 1987, pp. 389-392.
-[^46]: Buruma, Ian. *The Wages of Guilt: Memories of War in Germany and Japan*. Farrar, Straus and Giroux, 1994, pp. 116-119.
-[^47]: Seraphim, Franziska. *War Memory and Social Politics in Japan, 1945-2005*. Harvard University Asia Center, 2006, pp. 234-237.
-[^48]: Breen, John. *Yasukuni, the War Dead and the Struggle for Japan's Past*. Columbia University Press, 2008, pp. 156-161.
-[^49]: Dower, *Embracing Defeat*, pp. 443-447.
-[^50]: Totani, Yuma. *The Tokyo War Crimes Trial: The Pursuit of Justice in the Wake of World War II*. Harvard University Asia Center, 2008, pp. 1-8.
-[^51]: Hastings, Max. *Retribution: The Battle for Japan, 1944-45*. Alfred A. Knopf, 2008, p. 17.
-[^52]: Murray, Williamson, and Allan R. Millett. *A War to Be Won: Fighting the Second World War*. Harvard University Press, 2000, pp. 167-169.
-[^53]: Dower, *Embracing Defeat*, pp. 395-404.
-[^54]: Samuels, Richard J. *"New Fighting Power!" Japan's Growing Maritime Capabilities and East Asian Security*. International Security 32, no. 3 (2008): 84-112.
-[^55]: Barnhart, *Japan Prepares for Total War*, pp. 267-271.
-[^56]: Utley, Jonathan G. *Going to War with Japan, 1937-1941*. Knoxville: University of Tennessee Press, 1985, pp. 153-156.
-[^57]: Bix, *Hirohito and the Making of Modern Japan*, p. 423.
-[^58]: Willmott, *Empires in the Balance*, p. 78.
-[^59]: Kobayashi, Yoshinori. *On War* [Senso-ron]. Tokyo: Gentōsha, 1998, pp. 89-94. (Japanese nationalist perspective)
-[^60]: Nishibe, Susumu. *The Lost Pride* [Ushinawareta hokori]. Tokyo: Tokuma Shoten, 1995, pp. 112-117. (Japanese revisionist perspective)
-[^61]: Dower, *War Without Mercy*, pp. 44-47.
-[^62]: Rummel, R.J. *Statistics of Democide: Genocide and Mass Murder Since 1900*. LIT Verlag, 1998, pp. 131-134.
-[^63]: Snyder, Timothy. *Bloodlands: Europe Between Hitler and Stalin*. Basic Books, 2010, pp. 45-48. (Comparative analysis of totalitarian regimes)
-[^64]: Hastings, Max. *Nemesis: The Battle for Japan, 1944-45*. HarperPress, 2007, p. 29.
-[^65]: Frank, *Downfall*, pp. 21-24.
-[^66]: Tanaka, *Hidden Horrors*, pp. 89-97.
-[^67]: Tanaka, Yuki. *Japan's Comfort Women: Sexual Slavery and Prostitution During World War II and the US Occupation*. Routledge, 2002, pp. 34-39.
-[^68]: Maruyama, Masao. *Thought and Behaviour in Modern Japanese Politics*. Oxford University Press, 1963, pp. 135-138.
-[^69]: Gluck, Carol. *Japan's Modern Myths: Ideology in the Late Meiji Period*. Princeton University Press, 1985, pp. 267-271.
-[^70]: Ienaga, *The Pacific War*, pp. 178-181.
-[^71]: Bix, *Hirohito and the Making of Modern Japan*, pp. 456-459.
-[^72]: Quoted in Butow, *Tojo and the Coming of the War*, p. 318.
-[^73]: International Military Tribunal for the Far East. *Trial Transcript*, December 1947. Quoted in Brackman, *The Other Nuremberg*, p. 285.
-[^74]: Browne, *Tojo: The Last Banzai*, p. 237.
-[^75]: International Military Tribunal for the Far East. *Trial Transcript*. Quoted in Minear, *Victors' Justice*, p. 156.
-[^76]: Hoyt, *Warlord: Tojo Against the World*, p. 88.
+[^1]: Butow, Robert J.C. _Tojo and the Coming of the War_. Princeton University Press, 1961, pp. 12-15.
+
+[^2]: Bix, Herbert P. _Hirohito and the Making of Modern Japan_. HarperCollins, 2000, p. 361.
+
+[^3]: Browne, Courtney. _Tojo: The Last Banzai_. Holt, Rinehart and Winston, 1967, p. 23.
+
+[^4]: Hoyt, Edwin P. _Warlord: Tojo Against the World_. Scarborough House, 1993, p. 31.
+
+[^5]: Dower, John W. _War Without Mercy: Race and Power in the Pacific War_. Pantheon Books, 1986, pp. 223-225.
+
+[^6]: Toland, John. _The Rising Sun: The Decline and Fall of the Japanese Empire, 1936-1945_. Random House, 1970, p. 89.
+
+[^7]: Butow, _Tojo and the Coming of the War_, pp. 45-48.
+
+[^8]: Shillony, Ben-Ami. _Politics and Culture in Wartime Japan_. Clarendon Press, 1981, p. 67.
+
+[^9]: Berger, Gordon M. _Parties Out of Power in Japan, 1931-1941_. Princeton University Press, 1977, pp. 156-158.
+
+[^10]: Coox, Alvin D. _Nomonhan: Japan Against Russia, 1939_. Stanford University Press, 1985, p. 112.
+
+[^11]: Ienaga, Saburo. _The Pacific War, 1931-1945_. Pantheon Books, 1978, p. 128.
+
+[^12]: Weinberg, Gerhard L. _A World at Arms: A Global History of World War II_. Cambridge University Press, 1994, p. 181.
+
+[^13]: Bix, _Hirohito and the Making of Modern Japan_, pp. 417-421.
+
+[^14]: Barnhart, Michael A. _Japan Prepares for Total War: The Search for Economic Security, 1919-1941_. Cornell University Press, 1987, p. 234.
+
+[^15]: Iriye, Akira. _Power and Culture: The Japanese-American War, 1941-1945_. Harvard University Press, 1981, p. 45.
+
+[^16]: Prange, Gordon W. _At Dawn We Slept: The Untold Story of Pearl Harbor_. McGraw-Hill, 1981, pp. 537-539.
+
+[^17]: Willmott, H.P. _Empires in the Balance: Japanese and Allied Pacific Strategies to April 1942_. Naval Institute Press, 1982, pp. 89-112.
+
+[^18]: Lebra, Joyce C. _Japan's Greater East Asia Co-Prosperity Sphere in World War II_. Oxford University Press, 1975, pp. 56-61.
+
+[^19]: Havens, Thomas R.H. _Valley of Darkness: The Japanese People and World War Two_. W.W. Norton, 1978, pp. 71-78.
+
+[^20]: Large, Stephen S. _Emperor Hirohito and Showa Japan: A Political Biography_. Routledge, 1992, p. 98.
+
+[^21]: Hata, Ikuhiko. "The Army's Move into Northern Indochina." In _The Fateful Choice: Japan's Advance into Southeast Asia_, edited by James William Morley. Columbia University Press, 1980, p. 167.
+
+[^22]: Cohen, Jerome B. _Japan's Economy in War and Reconstruction_. University of Minnesota Press, 1949, pp. 134-137.
+
+[^23]: Hayashi, Saburo. _Kogun: The Japanese Army in the Pacific War_. Marine Corps Association, 1959, p. 78.
+
+[^24]: Allen, Louis. _Burma: The Longest War, 1941-1945_. Phoenix Press, 2000, p. 89.
+
+[^25]: Tanaka, Yuki. _Hidden Horrors: Japanese War Crimes in World War II_. Westview Press, 1996, pp. 1-5.
+
+[^26]: Chang, Iris. _The Rape of Nanking: The Forgotten Holocaust of World War II_. Basic Books, 1997, pp. 55-57. (Note: While Nanking preceded Tojo's premiership, similar atrocities continued under his leadership.)
+
+[^27]: Daws, Gavan. _Prisoners of the Japanese: POWs of World War II in the Pacific_. William Morrow, 1994, p. 357.
+
+[^28]: Waterford, Van. _Prisoners of the Japanese in World War II_. McFarland, 1994, pp. 23-25.
+
+[^29]: Weinberg, _A World at Arms_, p. 310.
+
+[^30]: Frank, Richard B. _Downfall: The End of the Imperial Japanese Empire_. Random House, 1999, pp. 18-21.
+
+[^31]: Asada, Sadao. _From Mahan to Pearl Harbor: The Imperial Japanese Navy and the United States_. Naval Institute Press, 2006, p. 267.
+
+[^32]: Spector, Ronald H. _Eagle Against the Sun: The American War with Japan_. Free Press, 1985, pp. 234-237.
+
+[^33]: Mitchell, Richard H. _Thought Control in Prewar Japan_. Cornell University Press, 1976, pp. 178-182.
+
+[^34]: Dower, John W. _Embracing Defeat: Japan in the Wake of World War II_. W.W. Norton, 1999, p. 34.
+
+[^35]: Havens, _Valley of Darkness_, pp. 45-52.
+
+[^36]: Browne, _Tojo: The Last Banzai_, pp. 38-40.
+
+[^37]: Hoyt, _Warlord: Tojo Against the World_, pp. 52-54.
+
+[^38]: Toland, _The Rising Sun_, p. 89.
+
+[^39]: Butow, _Tojo and the Coming of the War_, p. 203.
+
+[^40]: Hayashi, _Kogun_, p. 56.
+
+[^41]: Shillony, _Politics and Culture in Wartime Japan_, p. 71.
+
+[^42]: Hoyt, _Warlord: Tojo Against the World_, pp. 67-69.
+
+[^43]: Browne, _Tojo: The Last Banzai_, pp. 91-93.
+
+[^44]: Minear, Richard H. _Victors' Justice: The Tokyo War Crimes Trial_. Princeton University Press, 1971, p. 78.
+
+[^45]: Brackman, Arnold C. _The Other Nuremberg: The Untold Story of the Tokyo War Crimes Trials_. William Morrow, 1987, pp. 389-392.
+
+[^46]: Buruma, Ian. _The Wages of Guilt: Memories of War in Germany and Japan_. Farrar, Straus and Giroux, 1994, pp. 116-119.
+
+[^47]: Seraphim, Franziska. _War Memory and Social Politics in Japan, 1945-2005_. Harvard University Asia Center, 2006, pp. 234-237.
+
+[^48]: Breen, John. _Yasukuni, the War Dead and the Struggle for Japan's Past_. Columbia University Press, 2008, pp. 156-161.
+
+[^49]: Dower, _Embracing Defeat_, pp. 443-447.
+
+[^50]: Totani, Yuma. _The Tokyo War Crimes Trial: The Pursuit of Justice in the Wake of World War II_. Harvard University Asia Center, 2008, pp. 1-8.
+
+[^51]: Hastings, Max. _Retribution: The Battle for Japan, 1944-45_. Alfred A. Knopf, 2008, p. 17.
+
+[^52]: Murray, Williamson, and Allan R. Millett. _A War to Be Won: Fighting the Second World War_. Harvard University Press, 2000, pp. 167-169.
+
+[^53]: Dower, _Embracing Defeat_, pp. 395-404.
+
+[^54]: Samuels, Richard J. _"New Fighting Power!" Japan's Growing Maritime Capabilities and East Asian Security_. International Security 32, no. 3 (2008): 84-112.
+
+[^55]: Barnhart, _Japan Prepares for Total War_, pp. 267-271.
+
+[^56]: Utley, Jonathan G. _Going to War with Japan, 1937-1941_. Knoxville: University of Tennessee Press, 1985, pp. 153-156.
+
+[^57]: Bix, _Hirohito and the Making of Modern Japan_, p. 423.
+
+[^58]: Willmott, _Empires in the Balance_, p. 78.
+
+[^59]: Kobayashi, Yoshinori. _On War_ [Senso-ron]. Tokyo: Gentōsha, 1998, pp. 89-94. (Japanese nationalist perspective)
+
+[^60]: Nishibe, Susumu. _The Lost Pride_ [Ushinawareta hokori]. Tokyo: Tokuma Shoten, 1995, pp. 112-117. (Japanese revisionist perspective)
+
+[^61]: Dower, _War Without Mercy_, pp. 44-47.
+
+[^62]: Rummel, R.J. _Statistics of Democide: Genocide and Mass Murder Since 1900_. LIT Verlag, 1998, pp. 131-134.
+
+[^63]: Snyder, Timothy. _Bloodlands: Europe Between Hitler and Stalin_. Basic Books, 2010, pp. 45-48. (Comparative analysis of totalitarian regimes)
+
+[^64]: Hastings, Max. _Nemesis: The Battle for Japan, 1944-45_. HarperPress, 2007, p. 29.
+
+[^65]: Frank, _Downfall_, pp. 21-24.
+
+[^66]: Tanaka, _Hidden Horrors_, pp. 89-97.
+
+[^67]: Tanaka, Yuki. _Japan's Comfort Women: Sexual Slavery and Prostitution During World War II and the US Occupation_. Routledge, 2002, pp. 34-39.
+
+[^68]: Maruyama, Masao. _Thought and Behaviour in Modern Japanese Politics_. Oxford University Press, 1963, pp. 135-138.
+
+[^69]: Gluck, Carol. _Japan's Modern Myths: Ideology in the Late Meiji Period_. Princeton University Press, 1985, pp. 267-271.
+
+[^70]: Ienaga, _The Pacific War_, pp. 178-181.
+
+[^71]: Bix, _Hirohito and the Making of Modern Japan_, pp. 456-459.
+
+[^72]: Quoted in Butow, _Tojo and the Coming of the War_, p. 318.
+
+[^73]: International Military Tribunal for the Far East. _Trial Transcript_, December 1947. Quoted in Brackman, _The Other Nuremberg_, p. 285.
+
+[^74]: Browne, _Tojo: The Last Banzai_, p. 237.
+
+[^75]: International Military Tribunal for the Far East. _Trial Transcript_. Quoted in Minear, _Victors' Justice_, p. 156.
+
+[^76]: Hoyt, _Warlord: Tojo Against the World_, p. 88.

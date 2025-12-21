@@ -169,34 +169,34 @@ Feminist and social justice scholars critique the government's record on women's
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1950 | Born on September 17 in Vadnagar, Gujarat |
-| 1958 | Joins Rashtriya Swayamsevak Sangh (RSS) at age 8 |
-| 1967 | Arranged marriage to Jashodaben Modi (later estranged) |
-| 1971 | Becomes RSS pracharak (full-time worker) |
-| 1975-1977 | Goes underground during Emergency period |
-| 1978 | Completes BA in Political Science from Delhi University |
-| 1983 | Completes MA in Political Science from Gujarat University |
-| 1985 | Assigned to Bharatiya Janata Party (BJP) by RSS |
-| 1987 | Organizes BJP's campaign in Gujarat elections |
-| 1995 | Appointed BJP National Secretary |
-| 2001 | Becomes Chief Minister of Gujarat on October 7 |
-| 2002 | Gujarat riots occur in February-March; wins state elections in December |
-| 2005 | US denies visa under religious freedom provisions |
-| 2007 | Wins second term as Gujarat Chief Minister |
-| 2012 | Wins third term as Gujarat Chief Minister |
-| 2013 | Named BJP's Prime Ministerial candidate for 2014 elections |
-| 2014 | Becomes 14th Prime Minister of India on May 26; launches Swachh Bharat and Jan Dhan Yojana |
-| 2015 | International Yoga Day recognized by UN; visits United States |
-| 2016 | Announces demonetization on November 8; surgical strikes across LoC in September |
-| 2017 | Goods and Services Tax (GST) implemented on July 1 |
-| 2019 | Balakot airstrikes in February; wins second term with increased majority; Article 370 abrogated in August; Citizenship Amendment Act passed in December |
-| 2020 | COVID-19 lockdown imposed in March; LAC standoff with China; farmers' protests begin |
-| 2021 | Devastating second COVID-19 wave in April-May; farmers' laws repealed in November |
-| 2022 | Mother Heeraben Modi passes away in December |
-| 2024 | Wins third term, though BJP loses single-party majority; forms coalition government |
-| 2025 | Continues as Prime Minister in third term |
+| Year      | Event                                                                                                                                                   |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1950      | Born on September 17 in Vadnagar, Gujarat                                                                                                               |
+| 1958      | Joins Rashtriya Swayamsevak Sangh (RSS) at age 8                                                                                                        |
+| 1967      | Arranged marriage to Jashodaben Modi (later estranged)                                                                                                  |
+| 1971      | Becomes RSS pracharak (full-time worker)                                                                                                                |
+| 1975-1977 | Goes underground during Emergency period                                                                                                                |
+| 1978      | Completes BA in Political Science from Delhi University                                                                                                 |
+| 1983      | Completes MA in Political Science from Gujarat University                                                                                               |
+| 1985      | Assigned to Bharatiya Janata Party (BJP) by RSS                                                                                                         |
+| 1987      | Organizes BJP's campaign in Gujarat elections                                                                                                           |
+| 1995      | Appointed BJP National Secretary                                                                                                                        |
+| 2001      | Becomes Chief Minister of Gujarat on October 7                                                                                                          |
+| 2002      | Gujarat riots occur in February-March; wins state elections in December                                                                                 |
+| 2005      | US denies visa under religious freedom provisions                                                                                                       |
+| 2007      | Wins second term as Gujarat Chief Minister                                                                                                              |
+| 2012      | Wins third term as Gujarat Chief Minister                                                                                                               |
+| 2013      | Named BJP's Prime Ministerial candidate for 2014 elections                                                                                              |
+| 2014      | Becomes 14th Prime Minister of India on May 26; launches Swachh Bharat and Jan Dhan Yojana                                                              |
+| 2015      | International Yoga Day recognized by UN; visits United States                                                                                           |
+| 2016      | Announces demonetization on November 8; surgical strikes across LoC in September                                                                        |
+| 2017      | Goods and Services Tax (GST) implemented on July 1                                                                                                      |
+| 2019      | Balakot airstrikes in February; wins second term with increased majority; Article 370 abrogated in August; Citizenship Amendment Act passed in December |
+| 2020      | COVID-19 lockdown imposed in March; LAC standoff with China; farmers' protests begin                                                                    |
+| 2021      | Devastating second COVID-19 wave in April-May; farmers' laws repealed in November                                                                       |
+| 2022      | Mother Heeraben Modi passes away in December                                                                                                            |
+| 2024      | Wins third term, though BJP loses single-party majority; forms coalition government                                                                     |
+| 2025      | Continues as Prime Minister in third term                                                                                                               |
 
 ---
 
@@ -216,84 +216,164 @@ Feminist and social justice scholars critique the government's record on women's
 
 ## References
 
-[^1]: Marino, Andy. *Narendra Modi: A Political Biography*. HarperCollins India, 2014.
-[^2]: Mishra, Pankaj. "The Modi Years: India's Authoritarian Turn." *Foreign Affairs*, September/October 2020.
-[^3]: Jaffrelot, Christophe. *Modi's India: Hindu Nationalism and the Rise of Ethnic Democracy*. Princeton University Press, 2021.
-[^4]: Ramesh, Jairam. "Narendra Modi's Abandoned Wife Breaks Her Silence." *The Guardian*, April 17, 2014.
-[^5]: Nussbaum, Martha C. *The Clash Within: Democracy, Religious Violence, and India's Future*. Harvard University Press, 2007.
-[^6]: Nilekani, Nandan. "Understanding Modi's Educational Background." *India Today*, March 2014.
-[^7]: Tharoor, Shashi. *The Battle of Belonging: On Nationalism, Patriotism, and What It Means to Be Indian*. Aleph Book Company, 2020.
-[^8]: Palshikar, Suhas. "The BJP and Hindu Nationalism: Centrist Politics and Majoritarian Impulses." *South Asia: Journal of South Asian Studies*, vol. 38, no. 4, 2015.
-[^9]: Jaffrelot, Christophe, and Gilles Verniers. "India's 2014 Elections: The New Face of Hindu Nationalism." *Contemporary South Asia*, vol. 23, no. 2, 2015.
-[^10]: Human Rights Watch. "*We Have No Orders to Save You*: State Participation and Complicity in Communal Violence in Gujarat." HRW Report, April 2002.
-[^11]: Varadarajan, Siddharth. *Gujarat: The Making of a Tragedy*. Penguin Books India, 2002.
-[^12]: Sud, Nikita. "The 'Gujarat Model': Developmental State or Crony Capitalist State?" *Economic and Political Weekly*, vol. 47, no. 1, 2012.
-[^13]: Pal, Joyojeet. "Banalities Turned Viral: Narendra Modi and the Political Tweet." *Television & New Media*, vol. 16, no. 4, 2015.
-[^14]: Chhibber, Pradeep, and Rahul Verma. *Ideology and Identity: The Changing Party Systems of India*. Oxford University Press, 2018.
-[^15]: Poddar, Tushar, and Eva Yi. "India's GST: A Unique Experiment in Cooperative Federalism and a Gamechanger for Economic Growth?" *IMF Working Papers*, 2017.
-[^16]: Coffey, Diane, et al. "Revealed Preference for Open Defecation: Evidence from a New Survey in Rural North India." *Economic & Political Weekly*, vol. 52, no. 43, 2017.
-[^17]: Lahiri, Tripti. "India's Modi Aims to Bring 75 Million People Into the Banking System." *The Wall Street Journal*, August 28, 2014.
-[^18]: Pant, Harsh V. "Indian Foreign Policy and China." *Strategic Analysis*, vol. 40, no. 6, 2016.
-[^19]: Ganguly, Sumit, and William R. Thompson. "The Balakot Crisis: Revisiting India-Pakistan Rivalry." *Asian Affairs*, vol. 52, no. 1, 2021.
-[^20]: Bose, Sumantra. *Kashmir at the Crossroads: Problems and Possibilities*. Yale University Press, 2021.
-[^21]: Sinha, Aseema. "Making the Development State: India's Economic Development Under Narendra Modi." *Asian Survey*, vol. 61, no. 2, 2021.
-[^22]: Chatterjee, Patralekha, and Malini Aisola. "India's COVID-19 Vaccination Program: Progress and Challenges." *The Lancet*, vol. 398, no. 10299, 2021.
-[^23]: Beteille, Andre. "The Politics of the National Education Policy 2020." *Economic and Political Weekly*, vol. 55, no. 35, 2020.
-[^24]: Mahaprashasta, Ajoy Ashirwad. "Gujarat Riots: The True Story." *The Caravan*, March 1, 2012.
-[^25]: Ghassem-Fachandi, Parvis. *Pogrom in Gujarat: Hindu Nationalism and Anti-Muslim Violence in India*. Princeton University Press, 2012.
-[^26]: Mehta, Pratap Bhanu. "India's Unlikely Democracy: The Rise of Judicial Sovereignty." *Journal of Democracy*, vol. 18, no. 2, 2007.
-[^27]: Chodorow-Reich, Gabriel, et al. "Cash and the Economy: Evidence from India's Demonetization." *The Quarterly Journal of Economics*, vol. 135, no. 1, 2020.
-[^28]: Sen, Pronab. "Demonetisation: The Botched Surgical Strike." *Economic and Political Weekly*, vol. 52, no. 8, 2017.
+[^1]: Marino, Andy. _Narendra Modi: A Political Biography_. HarperCollins India, 2014.
+
+[^2]: Mishra, Pankaj. "The Modi Years: India's Authoritarian Turn." _Foreign Affairs_, September/October 2020.
+
+[^3]: Jaffrelot, Christophe. _Modi's India: Hindu Nationalism and the Rise of Ethnic Democracy_. Princeton University Press, 2021.
+
+[^4]: Ramesh, Jairam. "Narendra Modi's Abandoned Wife Breaks Her Silence." _The Guardian_, April 17, 2014.
+
+[^5]: Nussbaum, Martha C. _The Clash Within: Democracy, Religious Violence, and India's Future_. Harvard University Press, 2007.
+
+[^6]: Nilekani, Nandan. "Understanding Modi's Educational Background." _India Today_, March 2014.
+
+[^7]: Tharoor, Shashi. _The Battle of Belonging: On Nationalism, Patriotism, and What It Means to Be Indian_. Aleph Book Company, 2020.
+
+[^8]: Palshikar, Suhas. "The BJP and Hindu Nationalism: Centrist Politics and Majoritarian Impulses." _South Asia: Journal of South Asian Studies_, vol. 38, no. 4, 2015.
+
+[^9]: Jaffrelot, Christophe, and Gilles Verniers. "India's 2014 Elections: The New Face of Hindu Nationalism." _Contemporary South Asia_, vol. 23, no. 2, 2015.
+
+[^10]: Human Rights Watch. "_We Have No Orders to Save You_: State Participation and Complicity in Communal Violence in Gujarat." HRW Report, April 2002.
+
+[^11]: Varadarajan, Siddharth. _Gujarat: The Making of a Tragedy_. Penguin Books India, 2002.
+
+[^12]: Sud, Nikita. "The 'Gujarat Model': Developmental State or Crony Capitalist State?" _Economic and Political Weekly_, vol. 47, no. 1, 2012.
+
+[^13]: Pal, Joyojeet. "Banalities Turned Viral: Narendra Modi and the Political Tweet." _Television & New Media_, vol. 16, no. 4, 2015.
+
+[^14]: Chhibber, Pradeep, and Rahul Verma. _Ideology and Identity: The Changing Party Systems of India_. Oxford University Press, 2018.
+
+[^15]: Poddar, Tushar, and Eva Yi. "India's GST: A Unique Experiment in Cooperative Federalism and a Gamechanger for Economic Growth?" _IMF Working Papers_, 2017.
+
+[^16]: Coffey, Diane, et al. "Revealed Preference for Open Defecation: Evidence from a New Survey in Rural North India." _Economic & Political Weekly_, vol. 52, no. 43, 2017.
+
+[^17]: Lahiri, Tripti. "India's Modi Aims to Bring 75 Million People Into the Banking System." _The Wall Street Journal_, August 28, 2014.
+
+[^18]: Pant, Harsh V. "Indian Foreign Policy and China." _Strategic Analysis_, vol. 40, no. 6, 2016.
+
+[^19]: Ganguly, Sumit, and William R. Thompson. "The Balakot Crisis: Revisiting India-Pakistan Rivalry." _Asian Affairs_, vol. 52, no. 1, 2021.
+
+[^20]: Bose, Sumantra. _Kashmir at the Crossroads: Problems and Possibilities_. Yale University Press, 2021.
+
+[^21]: Sinha, Aseema. "Making the Development State: India's Economic Development Under Narendra Modi." _Asian Survey_, vol. 61, no. 2, 2021.
+
+[^22]: Chatterjee, Patralekha, and Malini Aisola. "India's COVID-19 Vaccination Program: Progress and Challenges." _The Lancet_, vol. 398, no. 10299, 2021.
+
+[^23]: Beteille, Andre. "The Politics of the National Education Policy 2020." _Economic and Political Weekly_, vol. 55, no. 35, 2020.
+
+[^24]: Mahaprashasta, Ajoy Ashirwad. "Gujarat Riots: The True Story." _The Caravan_, March 1, 2012.
+
+[^25]: Ghassem-Fachandi, Parvis. _Pogrom in Gujarat: Hindu Nationalism and Anti-Muslim Violence in India_. Princeton University Press, 2012.
+
+[^26]: Mehta, Pratap Bhanu. "India's Unlikely Democracy: The Rise of Judicial Sovereignty." _Journal of Democracy_, vol. 18, no. 2, 2007.
+
+[^27]: Chodorow-Reich, Gabriel, et al. "Cash and the Economy: Evidence from India's Demonetization." _The Quarterly Journal of Economics_, vol. 135, no. 1, 2020.
+
+[^28]: Sen, Pronab. "Demonetisation: The Botched Surgical Strike." _Economic and Political Weekly_, vol. 52, no. 8, 2017.
+
 [^29]: Reporters Without Borders. "World Press Freedom Index 2024." RSF Report, 2024.
-[^30]: Iftikhar, Shaikh Azizur Rahman. "Kashmir's Internet Shutdown: The Longest Ever in a Democracy." *Al Jazeera*, January 15, 2020.
-[^31]: Jayal, Niraja Gopal. "The Citizenship (Amendment) Act, 2019: Reconfiguring the Republic." *Indian Law Review*, vol. 4, no. 2, 2020.
-[^32]: Gettleman, Jeffrey, et al. "How Delhi's Police Turned Against Muslims." *The New York Times*, March 12, 2020.
-[^33]: Sharma, Devinder, and Rajiv Tikoo. "Understanding the Indian Farmers' Protests." *Economic and Political Weekly*, vol. 56, no. 5, 2021.
-[^34]: Crabtree, James. *The Billionaire Raj: A Journey Through India's New Gilded Age*. Tim Duggan Books, 2018.
-[^35]: Agarwala, Rina. "Electoral Bonds and Democracy in India." *Journal of Democracy*, vol. 31, no. 3, 2020.
-[^36]: Biswas, Soutik. "India's Second COVID Wave: How Did It Get This Bad?" *BBC News*, April 27, 2021.
-[^37]: Vaishnav, Milan, and Jamie Hintson. "The Dawn of India's Fourth Party System." *Carnegie Endowment for International Peace*, September 2019.
-[^38]: Burke, Jason. "Narendra Modi Acknowledges Wife for First Time in Public." *The Guardian*, April 10, 2014.
-[^39]: Kumar, Anuj. "Jashodaben: The Estranged Wife of India's Prime Minister." *BBC News*, May 20, 2014.
-[^40]: Basu, Nayanika. "The Modi Method: Discipline, Yoga, and Relentless Work." *The Print*, September 17, 2020.
-[^41]: Craik, Jennifer. "Fashion, Politics, and Identity: The Case of Narendra Modi." *Fashion Theory*, vol. 21, no. 4, 2017.
-[^42]: "Modi's $15,000 Suit: India PM Criticized Over Pinstripe Garment." *BBC News*, January 16, 2015.
-[^43]: "'She Was the Foundation': PM Modi Pays Tribute to Mother Heeraben." *The Hindu*, December 30, 2022.
-[^44]: Rajagopal, Arvind. "Modi Mythology: Narrative Strategies in Politics." *South Asian History and Culture*, vol. 7, no. 4, 2016.
-[^45]: Price, Lance. *The Modi Effect: Inside Narendra Modi's Campaign to Transform India*. Hachette India, 2015.
-[^46]: "Narendra Modi Holds First Press Conference as PM, Takes No Questions." *The Wire*, January 1, 2019.
-[^47]: Roy, Srirupa. "Digital Citizenship in India: Celebrity Politicians and the Publics on Social Media." *Television & New Media*, vol. 19, no. 3, 2018.
-[^48]: Adeney, Katharine, and Lawrence Sáez. *Coalition Politics and Hindu Nationalism*. Routledge, 2005.
-[^49]: Panagariya, Arvind. "India's Economic Reforms Under Modi." *Asian Economic Policy Review*, vol. 14, no. 1, 2019.
-[^50]: Drèze, Jean, and Amartya Sen. *An Uncertain Glory: India and Its Contradictions*. Princeton University Press, 2013.
-[^51]: Hall, Ian. *Modi and the Reinvention of Indian Foreign Policy*. Bristol University Press, 2019.
-[^52]: Mohan, C. Raja. "India and the Balance of Power." *Foreign Affairs*, vol. 85, no. 4, 2006.
-[^53]: Thapar, Romila. "The History Debate and School Textbooks in India: A Personal Memoir." *History Workshop Journal*, no. 67, 2009.
-[^54]: Rao, Anupama. "Understanding Sirasgaon: Notes Towards Conceptualising the Role of Law, Caste and Hinduism in a Case of 'Atrocity'." *Contributions to Indian Sociology*, vol. 35, no. 3, 2001.
-[^55]: Khosla, Madhav. "Courts, Constitutions, and the Democratic Experiment in India." *International Journal of Constitutional Law*, vol. 18, no. 2, 2020.
-[^56]: Udupa, Sahana. *Making News in Global India: Media, Publics, Politics*. Cambridge University Press, 2015.
-[^57]: Sardesai, Rajdeep. *2014: The Election That Changed India*. Penguin Books India, 2015.
-[^58]: Guha, Ramachandra. "The Rise and Fall of the Billiard Ball Model." *Economic and Political Weekly*, vol. 46, no. 51, 2011.
-[^59]: Hansen, Thomas Blom. *The Saffron Wave: Democracy and Hindu Nationalism in Modern India*. Princeton University Press, 1999.
-[60]: Miller, Manjari Chatterjee. "India's Feeble Foreign Policy." *Foreign Affairs*, vol. 92, no. 3, 2013.
-[^61]: Debroy, Bibek. "Getting India Back on Track: An Action Agenda for Reform." *Carnegie Endowment for International Peace*, 2014.
-[^62]: Ahluwalia, Montek Singh. "Economic Reforms in India Since 1991: Has Gradualism Worked?" *Journal of Economic Perspectives*, vol. 16, no. 3, 2002.
-[^63]: Gelb, Alan, and Anna Diofasi. "Biometric Identification for Development: The Unique Case of Aadhaar." *Center for Global Development Working Paper*, 2016.
-[^64]: Tankel, Stephen. "India's Military Response to the 2008 Mumbai Terrorist Attacks." *Joint Force Quarterly*, no. 57, 2010.
-[^65]: Tharoor, Ishaan. "India Under Modi Has Become a Major Player on the Global Stage." *The Washington Post*, May 23, 2019.
-[^66]: Bhatt, Chetan. *Hindu Nationalism: Origins, Ideologies and Modern Myths*. Berg Publishers, 2001.
+
+[^30]: Iftikhar, Shaikh Azizur Rahman. "Kashmir's Internet Shutdown: The Longest Ever in a Democracy." _Al Jazeera_, January 15, 2020.
+
+[^31]: Jayal, Niraja Gopal. "The Citizenship (Amendment) Act, 2019: Reconfiguring the Republic." _Indian Law Review_, vol. 4, no. 2, 2020.
+
+[^32]: Gettleman, Jeffrey, et al. "How Delhi's Police Turned Against Muslims." _The New York Times_, March 12, 2020.
+
+[^33]: Sharma, Devinder, and Rajiv Tikoo. "Understanding the Indian Farmers' Protests." _Economic and Political Weekly_, vol. 56, no. 5, 2021.
+
+[^34]: Crabtree, James. _The Billionaire Raj: A Journey Through India's New Gilded Age_. Tim Duggan Books, 2018.
+
+[^35]: Agarwala, Rina. "Electoral Bonds and Democracy in India." _Journal of Democracy_, vol. 31, no. 3, 2020.
+
+[^36]: Biswas, Soutik. "India's Second COVID Wave: How Did It Get This Bad?" _BBC News_, April 27, 2021.
+
+[^37]: Vaishnav, Milan, and Jamie Hintson. "The Dawn of India's Fourth Party System." _Carnegie Endowment for International Peace_, September 2019.
+
+[^38]: Burke, Jason. "Narendra Modi Acknowledges Wife for First Time in Public." _The Guardian_, April 10, 2014.
+
+[^39]: Kumar, Anuj. "Jashodaben: The Estranged Wife of India's Prime Minister." _BBC News_, May 20, 2014.
+
+[^40]: Basu, Nayanika. "The Modi Method: Discipline, Yoga, and Relentless Work." _The Print_, September 17, 2020.
+
+[^41]: Craik, Jennifer. "Fashion, Politics, and Identity: The Case of Narendra Modi." _Fashion Theory_, vol. 21, no. 4, 2017.
+
+[^42]: "Modi's $15,000 Suit: India PM Criticized Over Pinstripe Garment." _BBC News_, January 16, 2015.
+
+[^43]: "'She Was the Foundation': PM Modi Pays Tribute to Mother Heeraben." _The Hindu_, December 30, 2022.
+
+[^44]: Rajagopal, Arvind. "Modi Mythology: Narrative Strategies in Politics." _South Asian History and Culture_, vol. 7, no. 4, 2016.
+
+[^45]: Price, Lance. _The Modi Effect: Inside Narendra Modi's Campaign to Transform India_. Hachette India, 2015.
+
+[^46]: "Narendra Modi Holds First Press Conference as PM, Takes No Questions." _The Wire_, January 1, 2019.
+
+[^47]: Roy, Srirupa. "Digital Citizenship in India: Celebrity Politicians and the Publics on Social Media." _Television & New Media_, vol. 19, no. 3, 2018.
+
+[^48]: Adeney, Katharine, and Lawrence Sáez. _Coalition Politics and Hindu Nationalism_. Routledge, 2005.
+
+[^49]: Panagariya, Arvind. "India's Economic Reforms Under Modi." _Asian Economic Policy Review_, vol. 14, no. 1, 2019.
+
+[^50]: Drèze, Jean, and Amartya Sen. _An Uncertain Glory: India and Its Contradictions_. Princeton University Press, 2013.
+
+[^51]: Hall, Ian. _Modi and the Reinvention of Indian Foreign Policy_. Bristol University Press, 2019.
+
+[^52]: Mohan, C. Raja. "India and the Balance of Power." _Foreign Affairs_, vol. 85, no. 4, 2006.
+
+[^53]: Thapar, Romila. "The History Debate and School Textbooks in India: A Personal Memoir." _History Workshop Journal_, no. 67, 2009.
+
+[^54]: Rao, Anupama. "Understanding Sirasgaon: Notes Towards Conceptualising the Role of Law, Caste and Hinduism in a Case of 'Atrocity'." _Contributions to Indian Sociology_, vol. 35, no. 3, 2001.
+
+[^55]: Khosla, Madhav. "Courts, Constitutions, and the Democratic Experiment in India." _International Journal of Constitutional Law_, vol. 18, no. 2, 2020.
+
+[^56]: Udupa, Sahana. _Making News in Global India: Media, Publics, Politics_. Cambridge University Press, 2015.
+
+[^57]: Sardesai, Rajdeep. _2014: The Election That Changed India_. Penguin Books India, 2015.
+
+[^58]: Guha, Ramachandra. "The Rise and Fall of the Billiard Ball Model." _Economic and Political Weekly_, vol. 46, no. 51, 2011.
+
+[^59]:
+    Hansen, Thomas Blom. _The Saffron Wave: Democracy and Hindu Nationalism in Modern India_. Princeton University Press, 1999.
+    [60]: Miller, Manjari Chatterjee. "India's Feeble Foreign Policy." _Foreign Affairs_, vol. 92, no. 3, 2013.
+
+[^61]: Debroy, Bibek. "Getting India Back on Track: An Action Agenda for Reform." _Carnegie Endowment for International Peace_, 2014.
+
+[^62]: Ahluwalia, Montek Singh. "Economic Reforms in India Since 1991: Has Gradualism Worked?" _Journal of Economic Perspectives_, vol. 16, no. 3, 2002.
+
+[^63]: Gelb, Alan, and Anna Diofasi. "Biometric Identification for Development: The Unique Case of Aadhaar." _Center for Global Development Working Paper_, 2016.
+
+[^64]: Tankel, Stephen. "India's Military Response to the 2008 Mumbai Terrorist Attacks." _Joint Force Quarterly_, no. 57, 2010.
+
+[^65]: Tharoor, Ishaan. "India Under Modi Has Become a Major Player on the Global Stage." _The Washington Post_, May 23, 2019.
+
+[^66]: Bhatt, Chetan. _Hindu Nationalism: Origins, Ideologies and Modern Myths_. Berg Publishers, 2001.
+
 [^67]: World Bank. "Doing Business in India 2020." World Bank Group Report, 2020.
-[^68]: Kapur, Devesh, and Pratap Bhanu Mehta. *Public Institutions in India: Performance and Design*. Oxford University Press, 2005.
-[^69]: Mehta, Pratap Bhanu. "India's Illiberal Democracy." *Journal of Democracy*, vol. 31, no. 1, 2020.
+
+[^68]: Kapur, Devesh, and Pratap Bhanu Mehta. _Public Institutions in India: Performance and Design_. Oxford University Press, 2005.
+
+[^69]: Mehta, Pratap Bhanu. "India's Illiberal Democracy." _Journal of Democracy_, vol. 31, no. 1, 2020.
+
 [^70]: Singh, Manmohan. "Demonetization: A Monumental Management Failure and a Case of Organised Loot." Parliamentary speech, November 2016.
+
 [^71]: Amnesty International. "India 2021 Report." Amnesty International Annual Report, 2021.
-[^72]: Ahmad, Irfan. "The Politics of Conversion in India: Muslim Political Discourse." *Modern Asian Studies*, vol. 47, no. 3, 2013.
+
+[^72]: Ahmad, Irfan. "The Politics of Conversion in India: Muslim Political Discourse." _Modern Asian Studies_, vol. 47, no. 3, 2013.
+
 [^73]: Mohan, C. Raja. "Modi's World: Expanding India's Sphere of Influence." Yale University Press, 2015.
-[^74]: Thussu, Daya Kishan. *Media and the State in India*. Sage Publications, 2019.
-[^75]: Kashwan, Prakash. *Democracy in the Woods: Environmental Conservation and Social Justice in India, Tanzania, and Mexico*. Oxford University Press, 2017.
-[^76]: Chakravarti, Uma. "Gender, Caste and Labour: The Ideological and Material Structure of Widowhood." *Economic and Political Weekly*, vol. 30, no. 36, 1995.
-[^77]: "Modi's Campaign Promises: Development and Good Governance." *Times of India*, April 2014.
-[^78]: "PM Modi's Independence Day Speech 2014: Full Text." *Indian Express*, August 15, 2014.
-[^79]: "Narendra Modi on His Three Mothers." *India Today*, May 2014.
-[^80]: "Modi's Speech on Social Justice and Empowerment." *The Hindu*, August 2015.
-[^81]: "PM Modi at World Economic Forum: India's Unique Path." *Economic Times*, January 2018.
+
+[^74]: Thussu, Daya Kishan. _Media and the State in India_. Sage Publications, 2019.
+
+[^75]: Kashwan, Prakash. _Democracy in the Woods: Environmental Conservation and Social Justice in India, Tanzania, and Mexico_. Oxford University Press, 2017.
+
+[^76]: Chakravarti, Uma. "Gender, Caste and Labour: The Ideological and Material Structure of Widowhood." _Economic and Political Weekly_, vol. 30, no. 36, 1995.
+
+[^77]: "Modi's Campaign Promises: Development and Good Governance." _Times of India_, April 2014.
+
+[^78]: "PM Modi's Independence Day Speech 2014: Full Text." _Indian Express_, August 15, 2014.
+
+[^79]: "Narendra Modi on His Three Mothers." _India Today_, May 2014.
+
+[^80]: "Modi's Speech on Social Justice and Empowerment." _The Hindu_, August 2015.
+
+[^81]: "PM Modi at World Economic Forum: India's Unique Path." _Economic Times_, January 2018.

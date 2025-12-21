@@ -25,12 +25,14 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Stalinist Poland
 
 **After World War II:**
+
 - Poland became a Soviet satellite state
 - Communist Polish United Workers' Party (PZPR) in power
 - Stalinist system: collectivization, political terror
 - Economy centrally planned; shortages common
 
 **The death of Stalin (March 1953):**
+
 - Opened possibility of change
 - Khrushchev's "Secret Speech" (February 1956) denouncing Stalin
 - "Thaw" in Soviet bloc—but uneven[^4]
@@ -38,6 +40,7 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Poznań in 1956
 
 **The city:**
+
 - Major industrial center in western Poland
 - Cegielski metal works (renamed Stalin works): 15,000 workers
 - Workers faced:
@@ -50,6 +53,7 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### The Immediate Trigger
 
 **June 1956:**
+
 - Workers sent delegation to Warsaw to negotiate
 - Demands: Better wages, reduced quotas
 - Delegation returned empty-handed
@@ -64,17 +68,20 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### June 28, 1956: Morning
 
 **6:00 AM:**
+
 - Shift change at Cegielski works
 - Workers gathered; decided to march
 - Approximately 16,000 workers left the factory
 
 **8:00-9:00 AM:**
+
 - March toward city center
 - Workers from other factories joined
 - Soon: 100,000+ people in streets
 - Largest spontaneous protest in communist Poland
 
 **Slogans:**
+
 - "Chleba i wolności" (Bread and freedom)
 - "Chcemy chleba" (We want bread)
 - Demands for free elections
@@ -83,6 +90,7 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Noon: Escalation
 
 **The crowd actions:**
+
 - Stormed city hall
 - Attacked Communist Party headquarters
 - Besieged and stormed Secret Police (UB) building
@@ -92,17 +100,20 @@ The government called it a provocation by "imperialist agents." It was nothing o
 - Some soldiers refused to fire
 
 **By early afternoon:**
+
 - City effectively in rebel hands
 - Some shooting between protesters and police
 
 ### Military Response
 
 **Early afternoon:**
+
 - Authorities called for military intervention
 - **10,000 soldiers** and **400 tanks** deployed
 - Orders: retake the city
 
 **Fighting:**
+
 - Heavy combat around UB building
 - Civilians with seized weapons vs. army
 - Tanks in streets
@@ -117,13 +128,14 @@ The government called it a provocation by "imperialist agents." It was nothing o
 
 **Killed:**
 
-| Source | Estimate |
-|--------|----------|
-| Official (later revised) | 57-58 |
-| Other estimates | 73-100 |
-| IPN documentation | At least 58 |
+| Source                   | Estimate    |
+| ------------------------ | ----------- |
+| Official (later revised) | 57-58       |
+| Other estimates          | 73-100      |
+| IPN documentation        | At least 58 |
 
 **Breakdown:**
+
 - 50 civilians
 - 4 soldiers
 - 1 militiaman
@@ -141,24 +153,24 @@ The government called it a provocation by "imperialist agents." It was nothing o
 
 ### Workers and Protesters
 
-| Name | Note |
-|------|------|
-| Cegielski workers | Led initial march |
+| Name               | Note                            |
+| ------------------ | ------------------------------- |
+| Cegielski workers  | Led initial march               |
 | Romek Strzałkowski | 13-year-old; symbol of uprising |
-| Various workers | Organizers and participants |
+| Various workers    | Organizers and participants     |
 
 ### Government/Party
 
-| Name | Role |
-|------|------|
-| Bolesław Bierut | Party First Secretary (died March 1956) |
-| Edward Ochab | New First Secretary |
-| Józef Cyrankiewicz | Prime Minister; harsh initial response |
+| Name               | Role                                    |
+| ------------------ | --------------------------------------- |
+| Bolesław Bierut    | Party First Secretary (died March 1956) |
+| Edward Ochab       | New First Secretary                     |
+| Józef Cyrankiewicz | Prime Minister; harsh initial response  |
 
 ### What Came After
 
-| Name | Role |
-|------|------|
+| Name              | Role                                  |
+| ----------------- | ------------------------------------- |
 | Władysław Gomułka | Reformist; came to power October 1956 |
 
 ---
@@ -168,12 +180,14 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Immediate Response
 
 **Government narrative:**
+
 - Blamed "imperialist provocateurs"
 - Called it counterrevolutionary
 - Mass arrests
 - Trials
 
 **But doubts emerged:**
+
 - Even party members questioned this explanation
 - Evidence of genuine grievances obvious
 - International Trade Fair attendees witnessed events
@@ -181,6 +195,7 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### The Trials
 
 **September 1956:**
+
 - Trials of protesters began
 - But political situation changing
 - Sentences relatively light
@@ -190,6 +205,7 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Polish October
 
 **October 1956:**
+
 - Political crisis; Soviet pressure
 - **Władysław Gomułka** returned to power
 - Had been imprisoned under Stalin
@@ -206,32 +222,38 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Why Did It Happen?
 
 **Economic:**
+
 - Real grievances: wages, conditions, quotas
 - Workers not benefiting from system supposedly for them
 
 **Political:**
+
 - Thaw after Stalin's death created expectations
 - Khrushchev's speech raised hopes
 - But reforms too slow
 
 **Sociological:**
+
 - Working class consciousness
 - "Workers' state" attacking workers—the irony was not lost
 
 ### What Did It Mean?
 
 **For Poland:**
+
 - First mass uprising against communist rule
 - Led to Gomułka's return and limited reforms
 - "October 1956" became reference point
 - Showed regime could be challenged
 
 **For Eastern Bloc:**
+
 - Demonstrated fragility of system
 - Inspired Hungarian Revolution (October 1956)
 - Showed workers would fight back
 
 **For History:**
+
 - First blood of anti-communist uprisings
 - Precursor to 1968 (Czechoslovakia), 1970 (Poland), 1980 (Solidarity)[^10]
 
@@ -239,14 +261,14 @@ The government called it a provocation by "imperialist agents." It was nothing o
 
 ## Comparison
 
-| Uprising | Year | Outcome |
-|----------|------|---------|
-| **Poznań** | **June 1956** | **Crushed; led to Polish thaw** |
-| Hungary | October 1956 | Crushed by Soviet invasion |
-| Czechoslovakia | 1968 | Crushed by Soviet invasion |
-| Poland (December 1970) | 1970 | Crushed; Gierek replaced Gomułka |
-| Poland (Solidarity) | 1980-1981 | Martial law; but survived underground |
-| Poland (1989) | 1989 | Communism fell |
+| Uprising               | Year          | Outcome                               |
+| ---------------------- | ------------- | ------------------------------------- |
+| **Poznań**             | **June 1956** | **Crushed; led to Polish thaw**       |
+| Hungary                | October 1956  | Crushed by Soviet invasion            |
+| Czechoslovakia         | 1968          | Crushed by Soviet invasion            |
+| Poland (December 1970) | 1970          | Crushed; Gierek replaced Gomułka      |
+| Poland (Solidarity)    | 1980-1981     | Martial law; but survived underground |
+| Poland (1989)          | 1989          | Communism fell                        |
 
 **Poznań was the first crack in the wall.**[^11]
 
@@ -257,11 +279,13 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Commemoration
 
 **June 28:**
+
 - National Day of Remembrance (since 1981 officially)
 - Annual ceremonies in Poznań
 - Monuments to victims
 
 **Poznań Crosses:**
+
 - Two large metal crosses erected 1981
 - Memorial to victims
 - Became important symbol
@@ -269,11 +293,13 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Memory
 
 **Under communism:**
+
 - Initially suppressed
 - Later acknowledged ambiguously
 - 1981: Solidarity era brought full recognition
 
 **After 1989:**
+
 - Full historical research
 - IPN investigations
 - Museums and education
@@ -281,6 +307,7 @@ The government called it a provocation by "imperialist agents." It was nothing o
 ### Significance
 
 **Poznań showed that:**
+
 - Workers could and would fight
 - Communist regimes were vulnerable
 - The system's claims to represent workers were hollow
@@ -290,34 +317,45 @@ The government called it a provocation by "imperialist agents." It was nothing o
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| March 1953 | Stalin dies |
-| February 1956 | Khrushchev's "Secret Speech" |
-| June 1956 | Workers' delegation to Warsaw returns empty-handed |
-| June 28, 1956 (morning) | Strike and march begin |
-| June 28, 1956 (noon) | Secret police building stormed |
-| June 28, 1956 (afternoon) | Tanks deployed; fighting |
-| June 30, 1956 | Military control restored |
-| September 1956 | Trials of protesters |
-| October 1956 | Gomułka returns; reforms |
-| October 1956 | Hungarian Revolution begins |
-| 1981 | Poznań Crosses memorial erected |
-| 1989 | Communism falls in Poland |
+| Date                      | Event                                              |
+| ------------------------- | -------------------------------------------------- |
+| March 1953                | Stalin dies                                        |
+| February 1956             | Khrushchev's "Secret Speech"                       |
+| June 1956                 | Workers' delegation to Warsaw returns empty-handed |
+| June 28, 1956 (morning)   | Strike and march begin                             |
+| June 28, 1956 (noon)      | Secret police building stormed                     |
+| June 28, 1956 (afternoon) | Tanks deployed; fighting                           |
+| June 30, 1956             | Military control restored                          |
+| September 1956            | Trials of protesters                               |
+| October 1956              | Gomułka returns; reforms                           |
+| October 1956              | Hungarian Revolution begins                        |
+| 1981                      | Poznań Crosses memorial erected                    |
+| 1989                      | Communism falls in Poland                          |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Poznań 1956 protests](https://en.wikipedia.org/wiki/Poznań_1956_protests)
+
 [^2]: [Polish History - Overview](https://polishhistory.pl/poznan-1956/)
+
 [^3]: [ENRS - European remembrance](https://enrs.eu/article/poznan-1956)
+
 [^4]: [Wikipedia - Polish October](https://en.wikipedia.org/wiki/Polish_October)
+
 [^5]: [Fandom - Background](https://military-history.fandom.com/wiki/Poznań_1956_protests)
+
 [^6]: [IPN - Investigation](https://ipn.gov.pl/en/history/1944-1989/june-1956/)
+
 [^7]: [Poznan.pl - Official account](https://www.poznan.pl/mim/info/poznan-1956/)
+
 [^8]: [IPN - Death toll](https://ipn.gov.pl/en/news/1956-investigation/)
+
 [^9]: [Victims of Communism - Overview](https://victimsofcommunism.org/witness-collection/poznan-1956/)
+
 [^10]: [Socialist Worker - Analysis](https://socialistworker.co.uk/long-reads/poznan-1956/)
+
 [^11]: [PAC Missouri - Context](https://www.pacmissouri.org/poznan-1956/)
+
 [^12]: [Polish Radio - Anniversary](https://www.polskieradio.pl/395/9768/Artykul/poznan-1956)

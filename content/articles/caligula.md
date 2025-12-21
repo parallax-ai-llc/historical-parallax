@@ -287,30 +287,30 @@ For more balanced scholarly assessments, historians cite Barrett (1989), Hurley 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| August 31, 12 CE | Born as Gaius Julius Caesar Germanicus in Antium, Latium |
-| 14-16 CE | Accompanied father Germanicus on military campaigns in Germania, earning nickname "Caligula" |
-| 19 CE | Father Germanicus dies in Antioch; family returns to Rome |
-| 23 CE | Brother Drusus Caesar dies (likely murdered on Tiberius's orders) |
-| 26 CE | Emperor Tiberius withdraws to Capri |
-| 31 CE | Brother Julius Caesar Nero dies; Caligula summoned to join Tiberius on Capri |
-| 33 CE | Mother Agrippina the Elder dies in exile; Caligula marries Junia Claudilla |
-| 34 CE | Junia Claudilla dies in childbirth |
-| March 16, 37 CE | Emperor Tiberius dies; Caligula acclaimed emperor by Praetorian Guard |
-| March 18, 37 CE | Senate ratifies Caligula as emperor, granting him full imperial powers |
-| Spring 37 CE | Ends treason trials, recalls exiles, provides bonuses to military |
-| October 37 CE | Falls seriously ill; personality change evident after recovery |
-| 38 CE | Sister Drusilla dies and is deified; executes Naevius Sutorius Macro and Tiberius Gemellus |
-| 39 CE | Marries Milonia Caesonia; constructs bridge of boats across Bay of Baiae |
-| September 39 CE | Delivers speech attacking Senate as traitors |
-| Late 39 CE | Leads military forces to Rhine frontier in Germania |
-| 40 CE | Orders execution of King Ptolemy of Mauretania; begins annexation of kingdom |
-| 40 CE | Daughter Julia Drusilla born to Caesonia |
-| 40 CE | Orders statue of himself erected in Jewish Temple (not implemented) |
-| January 24, 41 CE | Assassinated by Praetorian tribune Cassius Chaerea and co-conspirators |
-| January 24, 41 CE | Wife Caesonia and daughter Julia Drusilla murdered by conspirators |
-| January 24, 41 CE | Uncle Claudius proclaimed emperor by Praetorian Guard |
+| Year              | Event                                                                                        |
+| ----------------- | -------------------------------------------------------------------------------------------- |
+| August 31, 12 CE  | Born as Gaius Julius Caesar Germanicus in Antium, Latium                                     |
+| 14-16 CE          | Accompanied father Germanicus on military campaigns in Germania, earning nickname "Caligula" |
+| 19 CE             | Father Germanicus dies in Antioch; family returns to Rome                                    |
+| 23 CE             | Brother Drusus Caesar dies (likely murdered on Tiberius's orders)                            |
+| 26 CE             | Emperor Tiberius withdraws to Capri                                                          |
+| 31 CE             | Brother Julius Caesar Nero dies; Caligula summoned to join Tiberius on Capri                 |
+| 33 CE             | Mother Agrippina the Elder dies in exile; Caligula marries Junia Claudilla                   |
+| 34 CE             | Junia Claudilla dies in childbirth                                                           |
+| March 16, 37 CE   | Emperor Tiberius dies; Caligula acclaimed emperor by Praetorian Guard                        |
+| March 18, 37 CE   | Senate ratifies Caligula as emperor, granting him full imperial powers                       |
+| Spring 37 CE      | Ends treason trials, recalls exiles, provides bonuses to military                            |
+| October 37 CE     | Falls seriously ill; personality change evident after recovery                               |
+| 38 CE             | Sister Drusilla dies and is deified; executes Naevius Sutorius Macro and Tiberius Gemellus   |
+| 39 CE             | Marries Milonia Caesonia; constructs bridge of boats across Bay of Baiae                     |
+| September 39 CE   | Delivers speech attacking Senate as traitors                                                 |
+| Late 39 CE        | Leads military forces to Rhine frontier in Germania                                          |
+| 40 CE             | Orders execution of King Ptolemy of Mauretania; begins annexation of kingdom                 |
+| 40 CE             | Daughter Julia Drusilla born to Caesonia                                                     |
+| 40 CE             | Orders statue of himself erected in Jewish Temple (not implemented)                          |
+| January 24, 41 CE | Assassinated by Praetorian tribune Cassius Chaerea and co-conspirators                       |
+| January 24, 41 CE | Wife Caesonia and daughter Julia Drusilla murdered by conspirators                           |
+| January 24, 41 CE | Uncle Claudius proclaimed emperor by Praetorian Guard                                        |
 
 ---
 
@@ -329,134 +329,265 @@ For more balanced scholarly assessments, historians cite Barrett (1989), Hurley 
 ## References
 
 [^1]: Britannica. "Caligula | Biography & Facts." https://www.britannica.com/biography/Caligula-Roman-emperor
+
 [^2]: Wikipedia. "Caligula." https://en.wikipedia.org/wiki/Caligula
+
 [^3]: HISTORY. "Caligula - Horse, Facts & Emperor." https://www.history.com/articles/caligula
+
 [^4]: World History Encyclopedia. "Caligula." https://www.worldhistory.org/Caligula/
+
 [^5]: Notable Biographies. "Caligula Biography." https://www.notablebiographies.com/Br-Ca/Caligula.html
+
 [^6]: TheCollector. "Emperor Caligula: 18 Facts On The 'Mad' Roman Emperor." https://www.thecollector.com/caligula/
+
 [^7]: TheCollector. "Father of Emperor Caligula: Who Was Germanicus?" https://www.thecollector.com/father-of-emperor-caligula-who-was-germanicus/
+
 [^8]: Rome.us. "Roman Emperor Caligula: The Mad Tyrant of Rome." https://rome.us/roman-emperors/caligula.html
+
 [^9]: UNRV. "Caligula's Personal Life: Exploring His Marriage, Family and Relationships." https://www.unrv.com/early-empire/caligula/caligula-personal-life.php
+
 [^10]: Suetonius. "Life of Caligula." https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Caligula*.html
+
 [^11]: Wikipedia. "Germanicus." https://en.wikipedia.org/wiki/Germanicus
+
 [^12]: PMC. "Caligula: a neuropsychiatric explanation of his madness." https://pmc.ncbi.nlm.nih.gov/articles/PMC9231447/
+
 [^13]: Study.com. "Emperor Caligula | Biography, History & Facts." https://study.com/learn/lesson/who-was-emperor-caligula.html
+
 [^14]: Encyclopedia.com. "Caligula." https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/caligula
+
 [^15]: TheCollector. "How Did Caligula Rise to Power in the Roman Empire?" https://www.thecollector.com/how-did-caligula-rise-to-power-in-the-roman-empire/
+
 [^16]: PBS. "The Roman Empire: Caligula." https://www.pbs.org/empires/romans/empire/caligula.html
+
 [^17]: World History Edu. "Caligula: Biography, Facts & Achievements." https://worldhistoryedu.com/caligula-biography-facts-achievements/
+
 [^18]: The Famous People. "Caligula Biography - Facts, Childhood, Family Life & Achievements." https://www.thefamouspeople.com/profiles/caligula-6283.php
+
 [^19]: World History Encyclopedia Timeline. "Timeline: Caligula." https://www.worldhistory.org/timeline/Caligula/
+
 [^20]: Omniatlas. "Reign of Caligula." https://omniatlas.com/maps/europe/410123/
+
 [^21]: UNRV. "Caligula - Roman Emperor." https://www.unrv.com/early-empire/caligula.php
+
 [^22]: Roman Emperors. "Caligula: Madness and Tyranny in the Roman Empire." https://www.romanemperors.com/blog/caligula-madness-and-infamy-in-the-roman-empire
+
 [^23]: Amazing Bible Timeline. "Caligula 37 AD." https://amazingbibletimeline.com/blog/caligula-37-ad/
+
 [^24]: Roman-Empire.net. "Caligula AD 12-41." https://roman-empire.net/people/caligula
+
 [^25]: Timetoast. "Caligula timeline." https://www.timetoast.com/timelines/caligula-7554e9d2-7172-4838-9878-f06e07ab1a3d
+
 [^26]: National Geographic. "The chilling legacy of the Cesar imperial family in ancient Rome." https://www.nationalgeographic.com/history/article/rome-legacy-augustus-caligula
+
 [^27]: Classical Wisdom. "Caligula's Forgotten Legacy." https://classicalwisdom.substack.com/p/caligulas-forgotten-legacy
+
 [^28]: Have Fun With History. "10 Caligula Accomplishments and Achievements." https://www.havefunwithhistory.com/caligula-accomplishments/
+
 [^29]: Ancient Mysteries. "Caligula: Biography, Reign, Madness, & Facts." https://ancientmysteries.org/caligula/
+
 [^30]: TheCollector. "Emperor Caligula: Madman Or Misunderstood?" https://www.thecollector.com/emperor-caligula-madman-or-misunderstood/
+
 [^31]: History Skills. "Caligula: Rome's 'mad' emperor?" https://www.historyskills.com/classroom/ancient-history/anc-caligula-reading/
+
 [^32]: Ancient History Sites. "Caligula: The Roman Emperor and His Impact on Imperial Rome." https://www.ancient-history-sites.com/roman/emperors/caligula/
+
 [^33]: Roman Empire History. "Emperor Caligula: Biography, Controversies, and Legacy." https://romanempirehistory.com/roman-emperors/emperor-caligula/
+
 [^34]: Citizendium. "Caligula." https://en.citizendium.org/wiki/Caligula
+
 [^35]: UC Press. "Caligula by Aloys Winterling." https://www.ucpress.edu/books/caligula/paper
+
 [^36]: Medium. "Caligula: The Mad Emperor Who Danced with Shadows." https://medium.com/flamma-saga/caligula-the-mad-emperor-who-danced-with-shadows-6391e2384723
+
 [^37]: UNRV. "Caligula's Extravagance: The Financial Impact on Ancient Rome." https://www.unrv.com/early-empire/caligula/caligula-extravagance.php
+
 [^38]: CliffsNotes. "The Infamous Reign of Caligula: Power, Excess, and Assassination." https://www.cliffsnotes.com/study-notes/21930612
+
 [^39]: Hektoen International. "Caligula revisited." https://hekint.org/2025/09/05/caligula-revisited/
+
 [^40]: Bryn Mawr Classical Review. "The emperor Caligula in the ancient sources." https://bmcr.brynmawr.edu/2024/2024.09.07/
+
 [^41]: Oxford Academic. "Introduction | The Emperor Caligula in the Ancient Sources." https://academic.oup.com/book/45868/chapter/400817456
+
 [^42]: ACTA ACCLA. "XII Caesars - Caligula." https://www.accla.org/actaaccla/caligula.html
+
 [^43]: TheCollector. "What Are the Principal Sources of Emperor Caligula's Reign?" https://www.thecollector.com/what-are-the-principal-sources-of-emperor-caligulas-reign/
+
 [^44]: Rome Wiki Fandom. "Caligula." https://rome.fandom.com/wiki/Caligula
+
 [^45]: DOKUMEN.PUB. "The Emperor Caligula in the Ancient Sources." https://dokumen.pub/the-emperor-caligula-in-the-ancient-sources-2022948820-9780198854562-0198854560.html
+
 [^46]: University of Waterloo. "Primary (ancient) sources | Classical Studies." https://uwaterloo.ca/classical-studies/resources-and-services/essay-writing/primary-ancient-sources
+
 [^47]: University of Kentucky. "The Madness of Isolation in Suetonius' 'Caligula' and 'Nero'." https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1049&context=honprog
+
 [^48]: THATMuse. "Infamous Roman Emperors: Caligula the Cruel." https://thatmuse.com/2021/12/31/infamous-roman-emperors-caligula-the-cruel/
+
 [^49]: Brewminate. "'Little Boots': The Madness and Extremism of Roman Emperor Caligula." https://brewminate.com/little-boots-the-madness-and-extremism-of-roman-emperor-caligula/
+
 [^50]: Ancient Origins. "The Madness of Caligula: Rome's Cruelest Emperor?" https://www.ancient-origins.net/history-famous-people/madness-caligula-rome-s-cruelest-emperor-002132
+
 [^51]: Factinate. "Disturbed Facts About Caligula, The Mad Emperor." https://www.factinate.com/people/42-disturbed-facts-caligula
+
 [^52]: Cambridge.org. "THE MADNESS OF THE EMPEROR CALIGULA." https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5F5561404A7BB3A25AC3F4B72FA755FD/S0025727300023759a.pdf/madness_of_the_emperor_caligula.pdf
+
 [^53]: Roman-Empire.net. "Caligula the Insane - Most Evil Man?" https://roman-empire.net/emperors/caligula-the-insane-most-evil-man
+
 [^54]: Learnodo Newtonic. "10 Insane And Perverse Things Attributed To Caligula." https://learnodo-newtonic.com/crazy-caligula
+
 [^55]: Everand. "Caligula: Divine Carnage: Atrocities Of The Roman Emperors." https://www.everand.com/book/257712852/Caligula-Divine-Carnage-Atrocities-Of-The-Roman-Emperors
+
 [^56]: Walks Inside Rome. "Caligula - the Mad Emperor who Declared War on the Sea." https://www.walksinsiderome.com/blog/caligula-war-on-the-sea/
+
 [^57]: Mint Imperials Blog. "On this day in AD 41, the Roman emperor Caligula was murdered in Rome." https://blogs.nottingham.ac.uk/mintimperials/2016/01/24/on-this-day-in-ad-41-the-roman-emperor-caligula-was-murdered-in-rome/
+
 [^58]: TheCollector. "What Led to the Assassination of Emperor Caligula?" https://www.thecollector.com/what-led-to-the-assassination-of-emperor-caligula/
+
 [^59]: Wikipedia. "Cassius Chaerea." https://en.wikipedia.org/wiki/Cassius_Chaerea
+
 [^60]: Oxford Academic. "Assassination | The Emperor Caligula in the Ancient Sources." https://academic.oup.com/book/45868/chapter/400820309
+
 [^61]: EBSCO. "Emperor Caligula Is Assassinated." https://www.ebsco.com/research-starters/history/emperor-caligula-assassinated
+
 [^62]: IMPERIUM ROMANUM. "Caligula and slaughter on Palatine Hill." https://imperiumromanum.pl/en/curiosities/caligula-and-slaughter-on-palatine-hill/
+
 [^63]: VCoins Community. "The Assassination of Roman Emperor Caligula, January 24 41 A.D." https://social.vcoins.com/twih/the-assassination-of-roman-emperor-caligula-january-24-41-ad-r362/
+
 [^64]: Wikipedia. "Claudius." https://en.wikipedia.org/wiki/Claudius
+
 [^65]: IMPERIUM ROMANUM. "Caligula and his 'romances'." https://imperiumromanum.pl/en/curiosities/caligula-and-his-romances/
+
 [^66]: Wikipedia. "Milonia Caesonia." https://en.wikipedia.org/wiki/Milonia_Caesonia
+
 [^67]: Facts and Details. "Over-Sexed Emperors and Their Family Members." https://europe.factsanddetails.com/article/entry-408.html
+
 [^68]: AADAR. "CALIGULA: THE OVER-SEXED EMPEROR." https://www.aadar.co/blogs/aadarblog/caligula-the-over-sexed-emperor
+
 [^69]: The Archaic Allegory. "The sisters of Caligula." https://thearchaicallegory.substack.com/p/the-archaic-allegory-volume-xxvi
+
 [^70]: Quora. "Who was Caligula's wife?" https://www.quora.com/Who-was-Caligulas-wife
+
 [^71]: Society for Classical Studies. "'Relating at the Appropriate Time': Tacitus' Caligula." https://classicalstudies.org/relating-appropriate-time-tacitus'-caligula
+
 [^72]: Digital Sculpture Project. "The Digital Sculpture Project." http://www.digitalsculpture.org/papers/rudich/rudich_paper.html
+
 [^73]: PDXScholar. "Senatorial Bias in the Portrayal of Gaius Caligula." https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1190&context=younghistorians
+
 [^74]: History Skills. "What happened when mad emperor Caligula made his favourite horse a Roman consul?" https://www.historyskills.com/classroom/ancient-history/caligula-horse-consul/
+
 [^75]: Wikipedia. "Incitatus." https://en.wikipedia.org/wiki/Incitatus
+
 [^76]: HISTORY. "Did Caligula Make His Horse a Consul?" https://www.history.com/articles/did-caligula-really-make-his-horse-a-consul
+
 [^77]: History Collection. "Caligula, the Infamous Roman Emperor Who Made His Horse a Senator." https://historycollection.com/caligula-the-infamous-roman-emperor-who-made-his-horse-a-senator/
+
 [^78]: History is Fire. "Emperor Caligula Made His Horse a Senator." https://www.historyisfire.com/blog/caligula-horse-senator-incitatus-unhinged-rome
+
 [^79]: 4theloveofhorses. "Emperor Caligula's Consul Horse: The Strange Tale of Incitatus." https://4theloveof-horses.com/emperor-caligulas-consul-horse-incitatus/
+
 [^80]: Museum Hack. "Caligula the Mad Emperor: The Horse That Almost Became a Senator." https://museumhack.com/caligula-mad-emperor/
+
 [^81]: The Conversation. "Mythbusting Ancient Rome – Caligula's Horse." https://theconversation.com/mythbusting-ancient-rome-caligulas-horse-75837
+
 [^82]: Pololine. "Incitatus, the horse that became Consul of Rome." https://www.pololine.com/articles/incitatus-the-horse-that-became-consul-of-rome/
+
 [^83]: Newsweek. "Donald Trump, Matt Gaetz, and Caligula's Horse | Opinion." https://www.newsweek.com/donald-trump-matt-gaetz-caligulas-horse-opinion-1986540
+
 [^84]: PubMed. "Caligula: a neuropsychiatric explanation of his madness." https://pubmed.ncbi.nlm.nih.gov/34133515/
+
 [^85]: ResearchGate. "Caligula: a neuropsychiatric explanation of his madness A brief historical overview." https://www.researchgate.net/publication/352260881_Caligula_a_neuropsychiatric_explanation_of_his_madness_A_brief_historical_overview
+
 [^86]: IMPERIUM ROMANUM. "Caligula's disease." https://imperiumromanum.pl/en/curiosities/caligulas-disease/
+
 [^87]: ResearchGate. "What psychiatric disease did the roman emperor caligula suffer from?" https://www.researchgate.net/publication/287765336_What_psychiatric_disease_did_the_roman_emperor_caligula_suffer_from
+
 [^88]: Roman Empire Times. "Was Caligula mad or just sick?" https://romanempiretimes.com/was-caligula-mad-or-just-sick/
+
 [^89]: Eric Dorfman. "Understanding Caligula: The Role of Illness and Power." https://ericdorfman.com/2025/02/18/understanding-caligula-the-role-of-illness-and-power/
+
 [^90]: Gertitashko MD. "Caligula's Severe Illness (Late 37 CE)." https://gertitashkomd.com/caligulas-severe-illness-late-37-ce/
+
 [^91]: Uneasy Lies the Crown. "Rome Sick." https://uneasy-lies-the-crown.com/2020/09/11/rome-sick/
+
 [^92]: Quora. "What mental illness did Caligula suffer from?" https://www.quora.com/What-mental-illness-did-Caligula-suffer-from
+
 [^93]: Roman Army School. "CALIGULA AND THE SEA-SHELLS." https://www.ad43.org.uk/blog/caligula-and-the-sea-shells/
+
 [^94]: HISTORY. "7 Things You May Not Know About Caligula." https://www.history.com/articles/7-things-you-may-not-know-about-caligula
+
 [^95]: History Skills. "When mad emperor Caligula declared war on the sea ... and then claimed he had defeated it." https://www.historyskills.com/classroom/ancient-history/caligula-attacks-the-sea/
+
 [^96]: UNRV. "Caligula's Relationship with the Roman Army." https://www.unrv.com/early-empire/caligula/caligula-relationship-roman-army.php
+
 [^97]: Rogue Classicism. "Caligula's Bridge." https://rogueclassicism.com/2012/06/09/caligulas-bridge/
+
 [^98]: Irene Soldatos. "Caligula on campaign in Germany." https://irenesoldatos.eu/caligula-on-campaign-in-germany/
+
 [^99]: Ancient Roman History. "Military Matters." https://ancientromanhistory31-14.com/home/gaius-caligula/military-matters/
+
 [^100]: Metropolitan Museum of Art. "Marble portrait bust of the emperor Gaius, known as Caligula." https://www.metmuseum.org/art/collection/search/248851
+
 [^101]: Digital Sculpture Project. "John Pollini, The image of Caligula: Myth and reality." http://www.digitalsculpture.org/papers/pollini/pollini_paper.html
+
 [^102]: Getty Museum. "Portrait Head of Caligula." https://www.getty.edu/art/collection/object/103SXA
+
 [^103]: Blackbird. "'Portrait Statue of Caligula' by Peter Schertz." https://blackbird-archive.vcu.edu/v12n2/gallery/schertz_p/caligula.shtml
+
 [^104]: Uffizi Galleries. "So-called portrait of Caligula, Roman art." https://www.uffizi.it/en/artworks/so-called-portrait-of-caligula
+
 [^105]: Wikidata. "Marble portrait bust of the emperor Gaius, known as Caligula." https://www.wikidata.org/wiki/Q29383773
+
 [^106]: Wikipedia. "File:Marble portrait bust of the emperor Gaius, known as Caligula." https://en.m.wikipedia.org/wiki/File:Marble_portrait_bust_of_the_emperor_Gaius,_known_as_Caligula_MET_DP337262.jpg
+
 [^107]: Roman Emperors. "Caligula (Roman Emperors) Busts, Statues, Information." https://www.romanemperors.com/caligula.htm
+
 [^108]: Fitzwilliam Museum. "Head of the Emperor Caligula." https://fitzmuseum.cam.ac.uk/explore-our-collection/highlights/GR1111937
+
 [^109]: Metropolitan Museum of Art. "Bronze portrait bust of the emperor Gaius (Caligula)." https://www.metmuseum.org/art/collection/search/251367
+
 [^110]: Omniatlas. "Roman Mauretania." https://omniatlas.com/maps/northern-africa/440128/
+
 [^111]: Grokipedia. "Mauretania Tingitana." https://grokipedia.com/page/Mauretania_Tingitana
+
 [^112]: Cambridge Core. "Roman 'Grand Strategy' in Action? Claudius and the Annexation of Britain and Thrace." https://www.cambridge.org/core/journals/britannia/article/roman-grand-strategy-in-action-claudius-and-the-annexation-of-britain-and-thrace/95C5095ABF1FC16AE92BA32D1CFD0D36
+
 [^113]: Bilkent Repository. "Why did Claudius Annex Lycia?" https://repository.bilkent.edu.tr/server/api/core/bitstreams/23b3ee68-7254-4714-a3ac-f790c47ea975/content
+
 [^114]: Prabook. "Caligula (Gaius Caesar)." https://prabook.com/web/caligula/3778931
+
 [^115]: World History Encyclopedia. "Mauretania." https://www.worldhistory.org/Mauretania/
+
 [^116]: Grokipedia. "Caesarea in Mauretania." https://grokipedia.com/page/Caesarea_in_Mauretania
+
 [^117]: UNRV. "Caligula's Relationship with the Roman Senate." https://www.unrv.com/early-empire/caligula/caligula-relationship-roman-senate.php
+
 [^118]: TheCollector. "Why Is Caligula's Relationship with the Senate Controversial?" https://www.thecollector.com/caligula-senate-controversy/
+
 [^119]: Ancient Roman History. "Politics: Relations with the Senate." https://ancientromanhistory31-14.com/home/gaius-caligula/politics/
+
 [^120]: Lumen Ancient History. "DEVELOPMENT OF THE PRINCIPATE." https://lumenancient.weebly.com/development-of-the-principate.html
+
 [^121]: IMPERIUM ROMANUM. "Quotes of Caligula." https://imperiumromanum.pl/en/roman-art-and-culture/golden-thoughts-of-romans/quotes-of-caligula/
+
 [^122]: IMDb. "Caligula (1979) - Quotes." https://www.imdb.com/title/tt0080491/quotes/
+
 [^123]: Wikiquote. "Caligula." https://en.wikiquote.org/wiki/Caligula
+
 [^124]: A-Z Quotes. "TOP 5 QUOTES BY CALIGULA." https://www.azquotes.com/author/23051-Caligula
+
 [^125]: Goodreads. "Caligula Quotes (Author of Emperors of Rome)." https://www.goodreads.com/author/quotes/5621333.Caligula
+
 [^126]: SuperSummary. "Caligula Important Quotes with Page Numbers." https://www.supersummary.com/caligula/important-quotes/
+
 [^127]: Goodreads. "Caligula Quotes by Albert Camus." https://www.goodreads.com/work/quotes/3139665-caligula
+
 [^128]: Everyday Power. "25 Caligula Quotes About The Famous Ceasar." https://everydaypower.com/caligula-quotes/
+
 [^129]: Goodreads. "Caligula Quotes (16 quotes)." https://www.goodreads.com/quotes/tag/caligula
+
 [^130]: Best Quotations. "Caligula Quotes and Aphorisms." https://best-quotations.com/authquotes.php?auth=1571
+
 [^131]: Roman Emperors. "Claudius: The Unexpected Emperor and His Legacy of Achievements." https://www.romanemperors.com/blog/claudius-the-unexpected-emperor-and-his-surprising-achievements
+
 [^132]: EBSCO. "Caligula | Research Starters." https://www.ebsco.com/research-starters/history/caligula

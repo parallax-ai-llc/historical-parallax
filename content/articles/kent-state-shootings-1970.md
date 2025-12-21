@@ -36,11 +36,13 @@ The Cambodia announcement outraged the anti-war movement.[^4]
 ### Kent State Before May 4
 
 Kent State University in Ohio was not a hotbed of radicalism:
+
 - Conservative Midwest campus
 - ~21,000 students
 - Some anti-war activism but not Berkeley-level
 
 **May 1-3, 1970:**
+
 - May 1: Rally against Cambodia invasion; protests spread downtown
 - May 2: ROTC building burned down
 - Governor James Rhodes ordered National Guard to campus
@@ -55,11 +57,13 @@ Kent State University in Ohio was not a hotbed of radicalism:
 **Noon rally:** Several thousand gathered on the Commons, defying a ban on assemblies
 
 **Guard attempts dispersal:**
+
 - Tear gas fired multiple times
 - Students retreated up Blanket Hill
 - Guard advanced, then retreated toward Pagoda area
 
 **12:24 PM:**
+
 - 28 Guardsmen suddenly turned and fired
 - **67 rounds in 13 seconds**
 - Shooting stopped as suddenly as it started
@@ -68,12 +72,12 @@ Kent State University in Ohio was not a hotbed of radicalism:
 
 ### The Dead
 
-| Name | Age | Status |
-|------|-----|--------|
-| Allison Krause | 19 | Protester |
-| Jeffrey Miller | 20 | Protester |
-| Sandra Lee Scheuer | 20 | Bystander (walking to class) |
-| William Knox Schroeder | 19 | Bystander (ROTC member) |
+| Name                   | Age | Status                       |
+| ---------------------- | --- | ---------------------------- |
+| Allison Krause         | 19  | Protester                    |
+| Jeffrey Miller         | 20  | Protester                    |
+| Sandra Lee Scheuer     | 20  | Bystander (walking to class) |
+| William Knox Schroeder | 19  | Bystander (ROTC member)      |
 
 ### The Wounded
 
@@ -86,6 +90,7 @@ Nine students were wounded, including Dean Kahler, who was permanently paralyzed
 ### FBI Report
 
 The FBI concluded:
+
 - Guardsmen were not in imminent danger when they fired
 - No sniper fire (as claimed by some officials)
 - Some guardsmen may have been in physical danger moments earlier, but shooting was not justified
@@ -114,6 +119,7 @@ No one was ever held criminally accountable.[^9]
 ### Immediate Response
 
 **National strike:** The largest student strike in US history
+
 - 4 million students participated
 - 450+ universities closed
 - Protests at 1,350 campuses
@@ -133,20 +139,20 @@ No one was ever held criminally accountable.[^9]
 
 ### Victims
 
-| Name | Details |
-|------|---------|
-| Allison Krause | Honor student; boyfriend also wounded |
-| Jeffrey Miller | Art student; iconic photo subject |
-| Sandra Scheuer | Speech therapy major; walking to class |
-| William Schroeder | ROTC member; walking to class |
+| Name              | Details                                |
+| ----------------- | -------------------------------------- |
+| Allison Krause    | Honor student; boyfriend also wounded  |
+| Jeffrey Miller    | Art student; iconic photo subject      |
+| Sandra Scheuer    | Speech therapy major; walking to class |
+| William Schroeder | ROTC member; walking to class          |
 
 ### Officials
 
-| Name | Role |
-|------|------|
-| Richard Nixon | President; ordered Cambodia invasion |
-| James Rhodes | Ohio Governor; sent National Guard |
-| Sylvester DelCorso | Ohio Adjutant General |
+| Name               | Role                                 |
+| ------------------ | ------------------------------------ |
+| Richard Nixon      | President; ordered Cambodia invasion |
+| James Rhodes       | Ohio Governor; sent National Guard   |
+| Sylvester DelCorso | Ohio Adjutant General                |
 
 ### The Photograph
 
@@ -199,37 +205,51 @@ Kent State is invoked whenever American authorities use force against protesters
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| April 30, 1970 | Nixon announces Cambodia invasion |
-| May 1, 1970 | Initial protests at Kent State |
-| May 2, 1970 | ROTC building burned |
-| May 2, 1970 | Governor Rhodes orders National Guard |
-| May 3, 1970 | Confrontations; tear gas |
-| May 4, 1970 | Rally on Commons |
-| 12:24 PM, May 4 | Guard fires; 4 killed, 9 wounded |
-| May 4-8, 1970 | National student strike begins |
-| May 15, 1970 | Jackson State shootings |
-| 1974 | Guardsmen indicted; later acquitted |
-| 1979 | Civil settlement ($675,000) |
-| 2010 | Site designated National Historic Landmark |
+| Date            | Event                                      |
+| --------------- | ------------------------------------------ |
+| April 30, 1970  | Nixon announces Cambodia invasion          |
+| May 1, 1970     | Initial protests at Kent State             |
+| May 2, 1970     | ROTC building burned                       |
+| May 2, 1970     | Governor Rhodes orders National Guard      |
+| May 3, 1970     | Confrontations; tear gas                   |
+| May 4, 1970     | Rally on Commons                           |
+| 12:24 PM, May 4 | Guard fires; 4 killed, 9 wounded           |
+| May 4-8, 1970   | National student strike begins             |
+| May 15, 1970    | Jackson State shootings                    |
+| 1974            | Guardsmen indicted; later acquitted        |
+| 1979            | Civil settlement ($675,000)                |
+| 2010            | Site designated National Historic Landmark |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Kent State Shootings](https://en.wikipedia.org/wiki/Kent_State_shootings)
+
 [^2]: [Kent.edu - May 4 History](https://www.kent.edu/may4)
+
 [^3]: [Britannica - Kent State](https://www.britannica.com/event/Kent-State-shootings)
+
 [^4]: [Wikipedia - Cambodia Campaign](https://en.wikipedia.org/wiki/Cambodian_campaign)
+
 [^5]: [National Geographic - Events](https://www.nationalgeographic.com/history/article/kent-state-shootings)
+
 [^6]: [Ohio History - May 4](https://www.ohiohistory.org/may-4-1970/)
+
 [^7]: [Wikipedia - Victims](https://en.wikipedia.org/wiki/Kent_State_shootings#Victims)
+
 [^8]: [Zinn Education Project](https://www.zinnedproject.org/news/tdih/kent-state-massacre/)
+
 [^9]: [Kent.edu - Legal Aftermath](https://www.kent.edu/may4/legal-aftermath)
+
 [^10]: [PBS - Aftermath](https://www.pbs.org/wgbh/americanexperience/features/two-days-in-october-aftermath/)
+
 [^11]: [The Guardian - Photograph](https://www.theguardian.com/artanddesign/2020/may/kent-state-photo/)
+
 [^12]: [EBSCO - Analysis](https://www.ebsco.com/article/kent-state-shootings/)
+
 [^13]: [Shapell - Nixon](https://www.shapell.org/historical-perspectives/kent-state/)
+
 [^14]: [The Nation - Jackson State](https://www.thenation.com/article/society/jackson-state-kent-state/)
+
 [^15]: [Kent State University Press](https://www.kentstateuniversitypress.com/kent-state-legacy/)

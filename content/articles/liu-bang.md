@@ -139,27 +139,27 @@ Some modern analyses have questioned the historical accuracy of the more positiv
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 256 BCE | Born in Zhongyang, Pei County, during the Qin Dynasty |
-| c. 240 BCE | Became a minor official (pavilion chief) in Pei County |
-| 209 BCE | Released convicts he was escorting, became a fugitive, and joined the rebellion against Qin |
-| 208 BCE | Emerged as a prominent rebel leader in his native region |
-| 207 BCE | Advanced toward the Qin capital as part of the anti-Qin coalition |
-| 206 BCE | First to enter Xianyang, the Qin capital; implemented the "Three Articles of Law" |
-| 206 BCE | Forced to withdraw from Xianyang by Xiang Yu; beginning of Chu-Han Contention |
-| 205 BCE | Suffered crushing defeat at the Battle of Pengcheng |
-| 204 BCE | Recruited Han Xin as general; gradual military recovery against Xiang Yu |
-| 203 BCE | Temporarily divided China with Xiang Yu along the Hong Canal |
-| 202 BCE | Decisively defeated Xiang Yu at the Battle of Gaixia |
-| 202 BCE | Proclaimed Emperor of China, founding the Han Dynasty; took the title Emperor Gaozu |
-| 200 BCE | Led campaign against Xiongnu; surrounded at Battle of Baideng |
-| 200 BCE | Established heqin peace treaty system with Xiongnu |
-| 197 BCE | Began purges of former allies; several kings accused of rebellion and eliminated |
-| 196 BCE | Had general Han Xin arrested and later executed |
-| 196 BCE | General Peng Yue executed for alleged treason |
-| 195 BCE | Led campaign against rebel Ying Bu; wounded by arrow |
-| 195 BCE | Died in Chang'an at approximately age 61; succeeded by son Liu Ying (Emperor Hui) |
+| Year       | Event                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| 256 BCE    | Born in Zhongyang, Pei County, during the Qin Dynasty                                       |
+| c. 240 BCE | Became a minor official (pavilion chief) in Pei County                                      |
+| 209 BCE    | Released convicts he was escorting, became a fugitive, and joined the rebellion against Qin |
+| 208 BCE    | Emerged as a prominent rebel leader in his native region                                    |
+| 207 BCE    | Advanced toward the Qin capital as part of the anti-Qin coalition                           |
+| 206 BCE    | First to enter Xianyang, the Qin capital; implemented the "Three Articles of Law"           |
+| 206 BCE    | Forced to withdraw from Xianyang by Xiang Yu; beginning of Chu-Han Contention               |
+| 205 BCE    | Suffered crushing defeat at the Battle of Pengcheng                                         |
+| 204 BCE    | Recruited Han Xin as general; gradual military recovery against Xiang Yu                    |
+| 203 BCE    | Temporarily divided China with Xiang Yu along the Hong Canal                                |
+| 202 BCE    | Decisively defeated Xiang Yu at the Battle of Gaixia                                        |
+| 202 BCE    | Proclaimed Emperor of China, founding the Han Dynasty; took the title Emperor Gaozu         |
+| 200 BCE    | Led campaign against Xiongnu; surrounded at Battle of Baideng                               |
+| 200 BCE    | Established heqin peace treaty system with Xiongnu                                          |
+| 197 BCE    | Began purges of former allies; several kings accused of rebellion and eliminated            |
+| 196 BCE    | Had general Han Xin arrested and later executed                                             |
+| 196 BCE    | General Peng Yue executed for alleged treason                                               |
+| 195 BCE    | Led campaign against rebel Ying Bu; wounded by arrow                                        |
+| 195 BCE    | Died in Chang'an at approximately age 61; succeeded by son Liu Ying (Emperor Hui)           |
 
 ---
 
@@ -167,7 +167,7 @@ Some modern analyses have questioned the historical accuracy of the more positiv
 
 > "In command of strategies that win victories a thousand li away, I am not equal to Zhang Liang. In governing the state, caring for the people, ensuring the supply of provisions, and keeping the supply routes open, I am not equal to Xiao He. In commanding a million troops, guaranteeing victory in battle and success in attack, I am not equal to Han Xin. These three are all heroes among men, and I was able to use them. This is why I won the empire."
 
-This quote, recorded by Sima Qian in the *Records of the Grand Historian*, exemplifies Liu Bang's self-awareness and his philosophy of leadership through effective delegation rather than personal mastery of all skills.[^92]
+This quote, recorded by Sima Qian in the _Records of the Grand Historian_, exemplifies Liu Bang's self-awareness and his philosophy of leadership through effective delegation rather than personal mastery of all skills.[^92]
 
 > "Although the empire is won on horseback, it cannot be ruled on horseback."
 
@@ -189,194 +189,194 @@ This declaration, known as the "Covenant of Three Articles," was made when Liu B
 
 ## References
 
-[^1]: Sima Qian, *Records of the Grand Historian* (Shiji), "Basic Annals of Emperor Gaozu," translated by Burton Watson (New York: Columbia University Press, 1993).
+[^1]: Sima Qian, _Records of the Grand Historian_ (Shiji), "Basic Annals of Emperor Gaozu," translated by Burton Watson (New York: Columbia University Press, 1993).
 
-[^2]: Michael Loewe, "The Former Han Dynasty," in *The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 B.C.–A.D. 220*, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 103-222.
+[^2]: Michael Loewe, "The Former Han Dynasty," in _The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 B.C.–A.D. 220_, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 103-222.
 
-[^3]: Cho-yun Hsu, *Han Agriculture: The Formation of Early Chinese Agrarian Economy (206 B.C.-A.D. 220)* (Seattle: University of Washington Press, 1980), 45-48.
+[^3]: Cho-yun Hsu, _Han Agriculture: The Formation of Early Chinese Agrarian Economy (206 B.C.-A.D. 220)_ (Seattle: University of Washington Press, 1980), 45-48.
 
-[^4]: Valerie Hansen, *The Open Empire: A History of China to 1800* (New York: W.W. Norton, 2015), 89-91.
+[^4]: Valerie Hansen, _The Open Empire: A History of China to 1800_ (New York: W.W. Norton, 2015), 89-91.
 
-[^5]: Patricia Buckley Ebrey, *The Cambridge Illustrated History of China* (Cambridge: Cambridge University Press, 2010), 67-69.
+[^5]: Patricia Buckley Ebrey, _The Cambridge Illustrated History of China_ (Cambridge: Cambridge University Press, 2010), 67-69.
 
-[^6]: Mark Edward Lewis, *The Early Chinese Empires: Qin and Han* (Cambridge: Harvard University Press, 2007), 53-55.
+[^6]: Mark Edward Lewis, _The Early Chinese Empires: Qin and Han_ (Cambridge: Harvard University Press, 2007), 53-55.
 
-[^7]: Griet Vankeerberghen, *The Huainanzi and Liu An's Claim to Moral Authority* (Albany: State University of New York Press, 2001), 23-25.
+[^7]: Griet Vankeerberghen, _The Huainanzi and Liu An's Claim to Moral Authority_ (Albany: State University of New York Press, 2001), 23-25.
 
-[^8]: Derk Bodde, "The State and Empire of Ch'in," in *The Cambridge History of China, Volume 1*, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 20-102.
+[^8]: Derk Bodde, "The State and Empire of Ch'in," in _The Cambridge History of China, Volume 1_, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 20-102.
 
-[^9]: Michael Nylan and Nathan Sivin, *The Way and the Word: Science and Medicine in Early China and Greece* (Princeton: Princeton University Press, 2015), 187-189.
+[^9]: Michael Nylan and Nathan Sivin, _The Way and the Word: Science and Medicine in Early China and Greece_ (Princeton: Princeton University Press, 2015), 187-189.
 
-[^10]: Sima Qian, *Records of the Grand Historian: Han Dynasty I*, trans. Burton Watson (New York: Columbia University Press, 1993), 34-37.
+[^10]: Sima Qian, _Records of the Grand Historian: Han Dynasty I_, trans. Burton Watson (New York: Columbia University Press, 1993), 34-37.
 
-[^11]: Charles Holcombe, *A History of East Asia: From the Origins of Civilization to the Twenty-First Century* (Cambridge: Cambridge University Press, 2017), 72-73.
+[^11]: Charles Holcombe, _A History of East Asia: From the Origins of Civilization to the Twenty-First Century_ (Cambridge: Cambridge University Press, 2017), 72-73.
 
-[^12]: Cho-yun Hsu, "The Spring and Autumn Period," in *The Cambridge History of Ancient China*, ed. Michael Loewe and Edward L. Shaughnessy (Cambridge: Cambridge University Press, 1999), 545-586.
+[^12]: Cho-yun Hsu, "The Spring and Autumn Period," in _The Cambridge History of Ancient China_, ed. Michael Loewe and Edward L. Shaughnessy (Cambridge: Cambridge University Press, 1999), 545-586.
 
-[^13]: Rafe de Crespigny, *A Biographical Dictionary of Later Han to the Three Kingdoms (23-220 AD)* (Leiden: Brill, 2007), introduction, xvii-xxiii.
+[^13]: Rafe de Crespigny, _A Biographical Dictionary of Later Han to the Three Kingdoms (23-220 AD)_ (Leiden: Brill, 2007), introduction, xvii-xxiii.
 
-[^14]: Ralph D. Sawyer, *The Seven Military Classics of Ancient China* (Boulder: Westview Press, 1993), 28-31.
+[^14]: Ralph D. Sawyer, _The Seven Military Classics of Ancient China_ (Boulder: Westview Press, 1993), 28-31.
 
-[^15]: Hans van Ess, *Politics and Scholarship in Ancient China: The Liu Xiang (79-8 BCE) and His Biographies* (Leiden: Brill, 2014), 89-92.
+[^15]: Hans van Ess, _Politics and Scholarship in Ancient China: The Liu Xiang (79-8 BCE) and His Biographies_ (Leiden: Brill, 2014), 89-92.
 
-[^16]: Thomas J. Barfield, *The Perilous Frontier: Nomadic Empires and China, 221 BC to AD 1757* (Oxford: Blackwell, 1989), 45-48.
+[^16]: Thomas J. Barfield, _The Perilous Frontier: Nomadic Empires and China, 221 BC to AD 1757_ (Oxford: Blackwell, 1989), 45-48.
 
-[^17]: Nicola Di Cosmo, *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History* (Cambridge: Cambridge University Press, 2002), 161-165.
+[^17]: Nicola Di Cosmo, _Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History_ (Cambridge: Cambridge University Press, 2002), 161-165.
 
-[^18]: Jack L. Dull, "The Evolution of Government in China," in *Heritage of China: Contemporary Perspectives on Chinese Civilization*, ed. Paul S. Ropp (Berkeley: University of California Press, 1990), 55-85.
+[^18]: Jack L. Dull, "The Evolution of Government in China," in _Heritage of China: Contemporary Perspectives on Chinese Civilization_, ed. Paul S. Ropp (Berkeley: University of California Press, 1990), 55-85.
 
-[^19]: Wang Zhongshu, *Han Civilization*, trans. K.C. Chang (New Haven: Yale University Press, 1982), 1-8.
+[^19]: Wang Zhongshu, _Han Civilization_, trans. K.C. Chang (New Haven: Yale University Press, 1982), 1-8.
 
-[^20]: Homer H. Dubs, *The History of the Former Han Dynasty by Pan Ku*, 3 vols. (Baltimore: Waverly Press, 1938-1955), vol. 1, 117-142.
+[^20]: Homer H. Dubs, _The History of the Former Han Dynasty by Pan Ku_, 3 vols. (Baltimore: Waverly Press, 1938-1955), vol. 1, 117-142.
 
-[^21]: William Theodore de Bary and Irene Bloom, eds., *Sources of Chinese Tradition, Volume 1: From Earliest Times to 1600*, 2nd ed. (New York: Columbia University Press, 1999), 159-167.
+[^21]: William Theodore de Bary and Irene Bloom, eds., _Sources of Chinese Tradition, Volume 1: From Earliest Times to 1600_, 2nd ed. (New York: Columbia University Press, 1999), 159-167.
 
-[^22]: Michael Loewe, *Crisis and Conflict in Han China, 104 BC to AD 9* (London: George Allen & Unwin, 1974), 15-22.
+[^22]: Michael Loewe, _Crisis and Conflict in Han China, 104 BC to AD 9_ (London: George Allen & Unwin, 1974), 15-22.
 
-[^23]: A.F.P. Hulsewé, *Remnants of Ch'in Law: An Annotated Translation of the Ch'in Legal and Administrative Rules of the 3rd Century B.C.* (Leiden: Brill, 1985), 234-241.
+[^23]: A.F.P. Hulsewé, _Remnants of Ch'in Law: An Annotated Translation of the Ch'in Legal and Administrative Rules of the 3rd Century B.C._ (Leiden: Brill, 1985), 234-241.
 
-[^24]: Ch'ü T'ung-tsu, *Han Social Structure*, ed. Jack L. Dull (Seattle: University of Washington Press, 1972), 89-114.
+[^24]: Ch'ü T'ung-tsu, _Han Social Structure_, ed. Jack L. Dull (Seattle: University of Washington Press, 1972), 89-114.
 
-[^25]: Hans Bielenstein, "Wang Mang, the Restoration of the Han Dynasty, and Later Han," in *The Cambridge History of China, Volume 1*, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 223-290.
+[^25]: Hans Bielenstein, "Wang Mang, the Restoration of the Han Dynasty, and Later Han," in _The Cambridge History of China, Volume 1_, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 223-290.
 
-[^26]: Ying-shih Yü, *Trade and Expansion in Han China: A Study in the Structure of Sino-Barbarian Economic Relations* (Berkeley: University of California Press, 1967), 34-42.
+[^26]: Ying-shih Yü, _Trade and Expansion in Han China: A Study in the Structure of Sino-Barbarian Economic Relations_ (Berkeley: University of California Press, 1967), 34-42.
 
-[^27]: Sechin Jagchid and Van Jay Symons, *Peace, War, and Trade Along the Great Wall: Nomadic-Chinese Interaction Through Two Millennia* (Bloomington: Indiana University Press, 1989), 21-28.
+[^27]: Sechin Jagchid and Van Jay Symons, _Peace, War, and Trade Along the Great Wall: Nomadic-Chinese Interaction Through Two Millennia_ (Bloomington: Indiana University Press, 1989), 21-28.
 
-[^28]: Arthur Cotterell, *The Imperial Capitals of China: An Inside View of the Celestial Empire* (London: Pimlico, 2007), 45-62.
+[^28]: Arthur Cotterell, _The Imperial Capitals of China: An Inside View of the Celestial Empire_ (London: Pimlico, 2007), 45-62.
 
-[^29]: Nancy Lee Swann, *Food and Money in Ancient China: The Earliest Economic History of China to A.D. 25* (Princeton: Princeton University Press, 1950), 178-195.
+[^29]: Nancy Lee Swann, _Food and Money in Ancient China: The Earliest Economic History of China to A.D. 25_ (Princeton: Princeton University Press, 1950), 178-195.
 
-[^30]: Benjamin I. Schwartz, *The World of Thought in Ancient China* (Cambridge: Harvard University Press, 1985), 89-92.
+[^30]: Benjamin I. Schwartz, _The World of Thought in Ancient China_ (Cambridge: Harvard University Press, 1985), 89-92.
 
-[^31]: Anthony C. Yu, *State and Religion in China: Historical and Textual Perspectives* (Chicago: Open Court, 2005), 67-71.
+[^31]: Anthony C. Yu, _State and Religion in China: Historical and Textual Perspectives_ (Chicago: Open Court, 2005), 67-71.
 
-[^32]: Michael Loewe, "The Heritage Left to the Empires," in *The Cambridge History of Ancient China*, ed. Michael Loewe and Edward L. Shaughnessy (Cambridge: Cambridge University Press, 1999), 967-1032.
+[^32]: Michael Loewe, "The Heritage Left to the Empires," in _The Cambridge History of Ancient China_, ed. Michael Loewe and Edward L. Shaughnessy (Cambridge: Cambridge University Press, 1999), 967-1032.
 
-[^33]: David R. Knechtges and Taiping Chang, eds., *Ancient and Early Medieval Chinese Literature: A Reference Guide, Part One* (Leiden: Brill, 2010), 234-239.
+[^33]: David R. Knechtges and Taiping Chang, eds., _Ancient and Early Medieval Chinese Literature: A Reference Guide, Part One_ (Leiden: Brill, 2010), 234-239.
 
-[^34]: Howard L. Goodman, *Xun Xu and the Politics of Precision in Third-Century AD China* (Leiden: Brill, 2010), 45-48.
+[^34]: Howard L. Goodman, _Xun Xu and the Politics of Precision in Third-Century AD China_ (Leiden: Brill, 2010), 45-48.
 
-[^35]: Miranda Brown, *The Politics of Mourning in Early China* (Albany: State University of New York Press, 2007), 89-93.
+[^35]: Miranda Brown, _The Politics of Mourning in Early China_ (Albany: State University of New York Press, 2007), 89-93.
 
-[^36]: Martin Kern, *The Stele Inscriptions of Ch'in Shih-huang: Text and Ritual in Early Chinese Imperial Representation* (New Haven: American Oriental Society, 2000), 156-161.
+[^36]: Martin Kern, _The Stele Inscriptions of Ch'in Shih-huang: Text and Ritual in Early Chinese Imperial Representation_ (New Haven: American Oriental Society, 2000), 156-161.
 
-[^37]: Pi-ching Hsu, "The Changing Image of Emperor Kao-tsu of the Han in History and Fiction," in *Legend, Lore, and Religion in China: Essays in Honor of Wolfram Eberhard on His Seventieth Birthday*, ed. Sarah Allan and Alvin P. Cohen (San Francisco: Chinese Materials Center, 1979), 95-110.
+[^37]: Pi-ching Hsu, "The Changing Image of Emperor Kao-tsu of the Han in History and Fiction," in _Legend, Lore, and Religion in China: Essays in Honor of Wolfram Eberhard on His Seventieth Birthday_, ed. Sarah Allan and Alvin P. Cohen (San Francisco: Chinese Materials Center, 1979), 95-110.
 
-[^38]: Robin D.S. Yates, "Body, Space, Time and Bureaucracy: Boundary Creation and Control Mechanisms in Early China," in *Boundaries in China*, ed. John Hay (London: Reaktion Books, 1994), 56-80.
+[^38]: Robin D.S. Yates, "Body, Space, Time and Bureaucracy: Boundary Creation and Control Mechanisms in Early China," in _Boundaries in China_, ed. John Hay (London: Reaktion Books, 1994), 56-80.
 
-[^39]: Bret Hinsch, *Women in Early Imperial China* (Lanham: Rowman & Littlefield, 2002), 67-74.
+[^39]: Bret Hinsch, _Women in Early Imperial China_ (Lanham: Rowman & Littlefield, 2002), 67-74.
 
-[^40]: Lisa Raphals, *Sharing the Light: Representations of Women and Virtue in Early China* (Albany: State University of New York Press, 1998), 134-142.
+[^40]: Lisa Raphals, _Sharing the Light: Representations of Women and Virtue in Early China_ (Albany: State University of New York Press, 1998), 134-142.
 
-[^41]: Yu Ying-shih, "Han Foreign Relations," in *The Cambridge History of China, Volume 1*, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 377-462.
+[^41]: Yu Ying-shih, "Han Foreign Relations," in _The Cambridge History of China, Volume 1_, ed. Denis Twitchett and Michael Loewe (Cambridge: Cambridge University Press, 1986), 377-462.
 
-[^42]: Wolfram Eberhard, *Conquerors and Rulers: Social Forces in Medieval China* (Leiden: Brill, 1965), 23-29.
+[^42]: Wolfram Eberhard, _Conquerors and Rulers: Social Forces in Medieval China_ (Leiden: Brill, 1965), 23-29.
 
-[^43]: Robert Joe Cutter and William Gordon Crowell, *Empresses and Consorts: Selections from Chen Shou's Records of the Three States with Pei Songzhi's Commentary* (Honolulu: University of Hawai'i Press, 1999), introduction, xv-xxvii.
+[^43]: Robert Joe Cutter and William Gordon Crowell, _Empresses and Consorts: Selections from Chen Shou's Records of the Three States with Pei Songzhi's Commentary_ (Honolulu: University of Hawai'i Press, 1999), introduction, xv-xxvii.
 
-[^44]: Anne Behnke Kinney, ed., *Chinese Views of Childhood* (Honolulu: University of Hawai'i Press, 1995), 89-95.
+[^44]: Anne Behnke Kinney, ed., _Chinese Views of Childhood_ (Honolulu: University of Hawai'i Press, 1995), 89-95.
 
-[^45]: Joseph P. Yap, *Wars With The Xiongnu: A Translation From Zizhi Tongjian* (Morrisville: AuthorHouse, 2009), 34-39.
+[^45]: Joseph P. Yap, _Wars With The Xiongnu: A Translation From Zizhi Tongjian_ (Morrisville: AuthorHouse, 2009), 34-39.
 
-[^46]: Rafe de Crespigny, *Imperial Warlord: A Biography of Cao Cao 155-220 AD* (Leiden: Brill, 2010), 56-58.
+[^46]: Rafe de Crespigny, _Imperial Warlord: A Biography of Cao Cao 155-220 AD_ (Leiden: Brill, 2010), 56-58.
 
-[^47]: Keith McMahon, *Women Shall Not Rule: Imperial Wives and Concubines in China from Han to Liao* (Lanham: Rowman & Littlefield, 2013), 23-31.
+[^47]: Keith McMahon, _Women Shall Not Rule: Imperial Wives and Concubines in China from Han to Liao_ (Lanham: Rowman & Littlefield, 2013), 23-31.
 
-[^48]: Victoria Cass, *Dangerous Women: Warriors, Grannies and Geishas of the Ming* (Lanham: Rowman & Littlefield, 1999), 45-51.
+[^48]: Victoria Cass, _Dangerous Women: Warriors, Grannies and Geishas of the Ming_ (Lanham: Rowman & Littlefield, 1999), 45-51.
 
-[^49]: Wu Hung, *Monumentality in Early Chinese Art and Architecture* (Stanford: Stanford University Press, 1995), 134-142.
+[^49]: Wu Hung, _Monumentality in Early Chinese Art and Architecture_ (Stanford: Stanford University Press, 1995), 134-142.
 
-[^50]: Albert E. Dien, *Six Dynasties Civilization* (New Haven: Yale University Press, 2007), 45-48.
+[^50]: Albert E. Dien, _Six Dynasties Civilization_ (New Haven: Yale University Press, 2007), 45-48.
 
-[^51]: David L. McMullen, *State and Scholars in T'ang China* (Cambridge: Cambridge University Press, 1988), 67-71.
+[^51]: David L. McMullen, _State and Scholars in T'ang China_ (Cambridge: Cambridge University Press, 1988), 67-71.
 
-[^52]: Charles Sanft, *Communication and Cooperation in Early Imperial China: Publicizing the Qin Dynasty* (Albany: State University of New York Press, 2014), 89-94.
+[^52]: Charles Sanft, _Communication and Cooperation in Early Imperial China: Publicizing the Qin Dynasty_ (Albany: State University of New York Press, 2014), 89-94.
 
-[^53]: Mark Edward Lewis, *China Between Empires: The Northern and Southern Dynasties* (Cambridge: Harvard University Press, 2009), 23-25.
+[^53]: Mark Edward Lewis, _China Between Empires: The Northern and Southern Dynasties_ (Cambridge: Harvard University Press, 2009), 23-25.
 
-[^54]: John Kieschnick, *The Impact of Buddhism on Chinese Material Culture* (Princeton: Princeton University Press, 2003), 178-182.
+[^54]: John Kieschnick, _The Impact of Buddhism on Chinese Material Culture_ (Princeton: Princeton University Press, 2003), 178-182.
 
-[^55]: Denis Twitchett and Michael Loewe, eds., *The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 B.C.–A.D. 220* (Cambridge: Cambridge University Press, 1986), comprehensive overview.
+[^55]: Denis Twitchett and Michael Loewe, eds., _The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 B.C.–A.D. 220_ (Cambridge: Cambridge University Press, 1986), comprehensive overview.
 
-[^56]: Pamela Kyle Crossley, *The Wobbling Pivot, China since 1800: An Interpretive History* (Chichester: Wiley-Blackwell, 2010), 34-38.
+[^56]: Pamela Kyle Crossley, _The Wobbling Pivot, China since 1800: An Interpretive History_ (Chichester: Wiley-Blackwell, 2010), 34-38.
 
-[^57]: T'ung-tsu Ch'ü, *Law and Society in Traditional China* (Paris: Mouton, 1961), 45-62.
+[^57]: T'ung-tsu Ch'ü, _Law and Society in Traditional China_ (Paris: Mouton, 1961), 45-62.
 
-[^58]: Yuri Pines, *The Everlasting Empire: The Political Culture of Ancient China and Its Imperial Legacy* (Princeton: Princeton University Press, 2012), 123-145.
+[^58]: Yuri Pines, _The Everlasting Empire: The Political Culture of Ancient China and Its Imperial Legacy_ (Princeton: Princeton University Press, 2012), 123-145.
 
-[^59]: F.W. Mote, *Imperial China 900-1800* (Cambridge: Harvard University Press, 1999), 167-174.
+[^59]: F.W. Mote, _Imperial China 900-1800_ (Cambridge: Harvard University Press, 1999), 167-174.
 
-[^60]: Edward L. Farmer, *Zhu Yuanzhang and Early Ming Legislation: The Reordering of Chinese Society Following the Era of Mongol Rule* (Leiden: Brill, 1995), 12-18.
+[^60]: Edward L. Farmer, _Zhu Yuanzhang and Early Ming Legislation: The Reordering of Chinese Society Following the Era of Mongol Rule_ (Leiden: Brill, 1995), 12-18.
 
-[^61]: Peter Lorge, *The Asian Military Revolution: From Gunpowder to the Bomb* (Cambridge: Cambridge University Press, 2008), 34-38.
+[^61]: Peter Lorge, _The Asian Military Revolution: From Gunpowder to the Bomb_ (Cambridge: Cambridge University Press, 2008), 34-38.
 
-[^62]: Derek M.C. Yuen, *Deciphering Sun Tzu: How to Read The Art of War* (Oxford: Oxford University Press, 2014), 89-95.
+[^62]: Derek M.C. Yuen, _Deciphering Sun Tzu: How to Read The Art of War_ (Oxford: Oxford University Press, 2014), 89-95.
 
-[^63]: Victor Cunrui Xiong, *The Capital Cities of China* (Lanham: The Scarecrow Press, 2012), 45-78.
+[^63]: Victor Cunrui Xiong, _The Capital Cities of China_ (Lanham: The Scarecrow Press, 2012), 45-78.
 
-[^64]: John King Fairbank, ed., *The Chinese World Order: Traditional China's Foreign Relations* (Cambridge: Harvard University Press, 1968), 12-24.
+[^64]: John King Fairbank, ed., _The Chinese World Order: Traditional China's Foreign Relations_ (Cambridge: Harvard University Press, 1968), 12-24.
 
-[^65]: Hans J. van de Ven, ed., *Warfare in Chinese History* (Leiden: Brill, 2000), 134-148.
+[^65]: Hans J. van de Ven, ed., _Warfare in Chinese History_ (Leiden: Brill, 2000), 134-148.
 
-[^66]: R. Bin Wong, *China Transformed: Historical Change and the Limits of European Experience* (Ithaca: Cornell University Press, 1997), 78-84.
+[^66]: R. Bin Wong, _China Transformed: Historical Change and the Limits of European Experience_ (Ithaca: Cornell University Press, 1997), 78-84.
 
-[^67]: Wilt L. Idema and Lloyd Haft, *A Guide to Chinese Literature* (Ann Arbor: Center for Chinese Studies, University of Michigan, 1997), 89-92.
+[^67]: Wilt L. Idema and Lloyd Haft, _A Guide to Chinese Literature_ (Ann Arbor: Center for Chinese Studies, University of Michigan, 1997), 89-92.
 
-[^68]: W.J.F. Jenner, *Memories of Loyang: Yang Hsüan-chih and the Lost Capital (493-534)* (Oxford: Clarendon Press, 1981), 45-51.
+[^68]: W.J.F. Jenner, _Memories of Loyang: Yang Hsüan-chih and the Lost Capital (493-534)_ (Oxford: Clarendon Press, 1981), 45-51.
 
-[^69]: Michael Loewe, *Divination, Mythology and Monarchy in Han China* (Cambridge: Cambridge University Press, 1994), 167-189.
+[^69]: Michael Loewe, _Divination, Mythology and Monarchy in Han China_ (Cambridge: Cambridge University Press, 1994), 167-189.
 
-[^70]: Grant Hardy, *Worlds of Bronze and Bamboo: Sima Qian's Conquest of History* (New York: Columbia University Press, 1999), 134-156.
+[^70]: Grant Hardy, _Worlds of Bronze and Bamboo: Sima Qian's Conquest of History_ (New York: Columbia University Press, 1999), 134-156.
 
-[^71]: Cho-yun Hsu and Kathryn M. Linduff, *Western Chou Civilization* (New Haven: Yale University Press, 1988), 234-241.
+[^71]: Cho-yun Hsu and Kathryn M. Linduff, _Western Chou Civilization_ (New Haven: Yale University Press, 1988), 234-241.
 
-[^72]: Yuri Pines et al., eds., *Birth of an Empire: The State of Qin Revisited* (Berkeley: University of California Press, 2014), 178-194.
+[^72]: Yuri Pines et al., eds., _Birth of an Empire: The State of Qin Revisited_ (Berkeley: University of California Press, 2014), 178-194.
 
-[^73]: Roger T. Ames, *The Art of Rulership: A Study of Ancient Chinese Political Thought* (Albany: State University of New York Press, 1994), 89-107.
+[^73]: Roger T. Ames, _The Art of Rulership: A Study of Ancient Chinese Political Thought_ (Albany: State University of New York Press, 1994), 89-107.
 
-[^74]: Victoria Tin-bor Hui, *War and State Formation in Ancient China and Early Modern Europe* (Cambridge: Cambridge University Press, 2005), 156-178.
+[^74]: Victoria Tin-bor Hui, _War and State Formation in Ancient China and Early Modern Europe_ (Cambridge: Cambridge University Press, 2005), 156-178.
 
-[^75]: Yuri Pines, "Biases and Their Sources: Qin History in the Shiji," *Journal of Chinese History* 2, no. 1 (2018): 15-35.
+[^75]: Yuri Pines, "Biases and Their Sources: Qin History in the Shiji," _Journal of Chinese History_ 2, no. 1 (2018): 15-35.
 
-[^76]: Anne Cheng, "What Did It Mean to Be a Ru in Han Times?" *Asia Major*, 3rd series, 14, no. 2 (2001): 101-118.
+[^76]: Anne Cheng, "What Did It Mean to Be a Ru in Han Times?" _Asia Major_, 3rd series, 14, no. 2 (2001): 101-118.
 
-[^77]: Michael Nylan, *The Five "Confucian" Classics* (New Haven: Yale University Press, 2001), 234-256.
+[^77]: Michael Nylan, _The Five "Confucian" Classics_ (New Haven: Yale University Press, 2001), 234-256.
 
-[^78]: Kwang-chih Chang, *Art, Myth, and Ritual: The Path to Political Authority in Ancient China* (Cambridge: Harvard University Press, 1983), 145-162.
+[^78]: Kwang-chih Chang, _Art, Myth, and Ritual: The Path to Political Authority in Ancient China_ (Cambridge: Harvard University Press, 1983), 145-162.
 
-[^79]: Joanna Waley-Cohen, *The Culture of War in China: Empire and the Military under the Qing Dynasty* (London: I.B. Tauris, 2006), 23-28.
+[^79]: Joanna Waley-Cohen, _The Culture of War in China: Empire and the Military under the Qing Dynasty_ (London: I.B. Tauris, 2006), 23-28.
 
-[^80]: David Schaberg, *A Patterned Past: Form and Thought in Early Chinese Historiography* (Cambridge: Harvard University Asia Center, 2001), 178-195.
+[^80]: David Schaberg, _A Patterned Past: Form and Thought in Early Chinese Historiography_ (Cambridge: Harvard University Asia Center, 2001), 178-195.
 
-[^81]: Paul R. Goldin, *Confucianism* (Berkeley: University of California Press, 2011), 67-73.
+[^81]: Paul R. Goldin, _Confucianism_ (Berkeley: University of California Press, 2011), 67-73.
 
-[^82]: Timothy Brook, ed., *The Chinese State at the Borders* (Vancouver: UBC Press, 2010), 89-104.
+[^82]: Timothy Brook, ed., _The Chinese State at the Borders_ (Vancouver: UBC Press, 2010), 89-104.
 
-[^83]: Richard von Glahn, *The Economic History of China: From Antiquity to the Nineteenth Century* (Cambridge: Cambridge University Press, 2016), 134-148.
+[^83]: Richard von Glahn, _The Economic History of China: From Antiquity to the Nineteenth Century_ (Cambridge: Cambridge University Press, 2016), 134-148.
 
-[^84]: Cho-yun Hsu, *Ancient China in Transition: An Analysis of Social Mobility, 722-222 BC* (Stanford: Stanford University Press, 1965), 156-172.
+[^84]: Cho-yun Hsu, _Ancient China in Transition: An Analysis of Social Mobility, 722-222 BC_ (Stanford: Stanford University Press, 1965), 156-172.
 
-[^85]: Anne Behnke Kinney, *Representations of Childhood and Youth in Early China* (Stanford: Stanford University Press, 2004), 89-95.
+[^85]: Anne Behnke Kinney, _Representations of Childhood and Youth in Early China_ (Stanford: Stanford University Press, 2004), 89-95.
 
-[^86]: Rafe de Crespigny, *Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu* (Canberra: Faculty of Asian Studies, Australian National University, 1990), 23-29.
+[^86]: Rafe de Crespigny, _Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu_ (Canberra: Faculty of Asian Studies, Australian National University, 1990), 23-29.
 
-[^87]: Patricia Ebrey, *Women and the Family in Chinese History* (London: Routledge, 2003), 56-68.
+[^87]: Patricia Ebrey, _Women and the Family in Chinese History_ (London: Routledge, 2003), 56-68.
 
-[^88]: Peter Golden, *Central Asia in World History* (Oxford: Oxford University Press, 2011), 45-51.
+[^88]: Peter Golden, _Central Asia in World History_ (Oxford: Oxford University Press, 2011), 45-51.
 
-[^89]: Christopher I. Beckwith, *Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present* (Princeton: Princeton University Press, 2009), 78-84.
+[^89]: Christopher I. Beckwith, _Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present_ (Princeton: Princeton University Press, 2009), 78-84.
 
-[^90] Stephen W. Durrant, *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* (Albany: State University of New York Press, 1995), 123-145.
+[^90] Stephen W. Durrant, _The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian_ (Albany: State University of New York Press, 1995), 123-145.
 
-[^91]: Martin Kern and Dirk Meyer, eds., *Origins of Chinese Political Philosophy: Studies in the Composition and Thought of the Shangshu (Classic of Documents)* (Leiden: Brill, 2017), 234-251.
+[^91]: Martin Kern and Dirk Meyer, eds., _Origins of Chinese Political Philosophy: Studies in the Composition and Thought of the Shangshu (Classic of Documents)_ (Leiden: Brill, 2017), 234-251.
 
-[^92]: Burton Watson, trans., *Records of the Grand Historian: Han Dynasty II* (New York: Columbia University Press, 1993), 78.
+[^92]: Burton Watson, trans., _Records of the Grand Historian: Han Dynasty II_ (New York: Columbia University Press, 1993), 78.
 
-[^93]: John E. Wills Jr., *Mountain of Fame: Portraits in Chinese History* (Princeton: Princeton University Press, 1994), 67.
+[^93]: John E. Wills Jr., _Mountain of Fame: Portraits in Chinese History_ (Princeton: Princeton University Press, 1994), 67.
 
-[^94]: William H. Nienhauser Jr., ed., *The Grand Scribe's Records, Volume I: The Basic Annals of Pre-Han China* (Bloomington: Indiana University Press, 1994), 234.
+[^94]: William H. Nienhauser Jr., ed., _The Grand Scribe's Records, Volume I: The Basic Annals of Pre-Han China_ (Bloomington: Indiana University Press, 1994), 234.
 
-[^95]: Michael Loewe, *A Biographical Dictionary of the Qin, Former Han and Xin Periods (221 BC - AD 24)* (Leiden: Brill, 2000), 89.
+[^95]: Michael Loewe, _A Biographical Dictionary of the Qin, Former Han and Xin Periods (221 BC - AD 24)_ (Leiden: Brill, 2000), 89.
 
-[^96]: Sima Qian, *Shiji* (Records of the Grand Historian), juan 8, "Basic Annals of Emperor Gaozu," trans. in Burton Watson, *Records of the Grand Historian: Qin Dynasty* (New York: Columbia University Press, 1993), 45.
+[^96]: Sima Qian, _Shiji_ (Records of the Grand Historian), juan 8, "Basic Annals of Emperor Gaozu," trans. in Burton Watson, _Records of the Grand Historian: Qin Dynasty_ (New York: Columbia University Press, 1993), 45.

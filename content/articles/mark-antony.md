@@ -109,26 +109,26 @@ Ultimately, historians must acknowledge that Antony lost the civil war, and whil
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 83 BC | Born January 14 in Rome to Marcus Antonius Creticus and Julia Antonia |
-| 58 BC | Fled Rome to Greece to escape gambling debts; began military service |
-| 57-55 BC | Served as cavalry commander under Aulus Gabinius in Judaea and Egypt |
-| 54 BC | Joined Julius Caesar's staff in Gaul |
-| 52 BC | Commanded cavalry at Battle of Alesia; became quaestor and senator |
-| 49 BC | Served as tribune of the plebs; supported Caesar at outbreak of civil war |
-| 48 BC | Commanded left wing at Battle of Pharsalus; appointed master of the horse |
-| 44 BC | Served as co-consul with Caesar; delivered funeral oration after Caesar's assassination (March 15) |
-| 43 BC | Formed Second Triumvirate with Octavian and Lepidus (November 27) |
-| 42 BC | Defeated Brutus and Cassius at Battle of Philippi (October 3 and 23) |
-| 41 BC | Met Cleopatra at Tarsus; began romantic and political alliance |
-| 40 BC | Married Octavia Minor, sister of Octavian; twins with Cleopatra born |
-| 36 BC | Disastrous Parthian campaign; lost approximately 32,000 men |
-| 34 BC | Donations of Alexandria; granted eastern territories to Cleopatra and their children |
-| 33 BC | Divorced Octavia Minor |
-| 32 BC | Roman Senate declared war on Cleopatra |
-| 31 BC | Defeated at Battle of Actium (September 2) |
-| 30 BC | Committed suicide in Alexandria (August 1); died in Cleopatra's arms |
+| Year     | Event                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| 83 BC    | Born January 14 in Rome to Marcus Antonius Creticus and Julia Antonia                              |
+| 58 BC    | Fled Rome to Greece to escape gambling debts; began military service                               |
+| 57-55 BC | Served as cavalry commander under Aulus Gabinius in Judaea and Egypt                               |
+| 54 BC    | Joined Julius Caesar's staff in Gaul                                                               |
+| 52 BC    | Commanded cavalry at Battle of Alesia; became quaestor and senator                                 |
+| 49 BC    | Served as tribune of the plebs; supported Caesar at outbreak of civil war                          |
+| 48 BC    | Commanded left wing at Battle of Pharsalus; appointed master of the horse                          |
+| 44 BC    | Served as co-consul with Caesar; delivered funeral oration after Caesar's assassination (March 15) |
+| 43 BC    | Formed Second Triumvirate with Octavian and Lepidus (November 27)                                  |
+| 42 BC    | Defeated Brutus and Cassius at Battle of Philippi (October 3 and 23)                               |
+| 41 BC    | Met Cleopatra at Tarsus; began romantic and political alliance                                     |
+| 40 BC    | Married Octavia Minor, sister of Octavian; twins with Cleopatra born                               |
+| 36 BC    | Disastrous Parthian campaign; lost approximately 32,000 men                                        |
+| 34 BC    | Donations of Alexandria; granted eastern territories to Cleopatra and their children               |
+| 33 BC    | Divorced Octavia Minor                                                                             |
+| 32 BC    | Roman Senate declared war on Cleopatra                                                             |
+| 31 BC    | Defeated at Battle of Actium (September 2)                                                         |
+| 30 BC    | Committed suicide in Alexandria (August 1); died in Cleopatra's arms                               |
 
 ---
 
@@ -155,88 +155,173 @@ The historical Antony's true words have been lost to time, but his rhetorical ab
 ## References
 
 [^1]: [Mark Antony - Wikipedia](https://en.wikipedia.org/wiki/Mark_Antony)
+
 [^2]: [Notable Biographies - Mark Antony](https://www.notablebiographies.com/Lo-Ma/Mark-Antony.html)
+
 [^3]: [Biography.com - Mark Antony](https://www.biography.com/political-figures/mark-antony)
+
 [^4]: [Notable Biographies - Mark Antony Early Life](https://www.notablebiographies.com/Lo-Ma/Mark-Antony.html)
+
 [^5]: [Mark Antony: From Hero to Traitor in Ancient Rome - Brewminate](https://brewminate.com/mark-antony-from-hero-to-traitor-in-ancient-rome/)
+
 [^6]: [Potter's Wax Museum - Mark Antony Biography](https://www.potterswaxmuseum.com/ancient-history/mark-antony/)
+
 [^7]: [World History Encyclopedia - Mark Antony](https://www.worldhistory.org/Mark_Antony/)
+
 [^8]: [Britannica - Mark Antony Biography](https://www.britannica.com/biography/Mark-Antony-Roman-triumvir)
+
 [^9]: [Wikipedia - Mark Antony Gallic Wars](https://en.wikipedia.org/wiki/Mark_Antony)
+
 [^10]: [History Hit - 10 Facts About Mark Antony](https://www.historyhit.com/facts-about-mark-antony/)
+
 [^11]: [The Timeline Geek - Marc Antony Timeline](https://www.thetimelinegeek.com/marc-antony-83-bce-30-bce/)
+
 [^12]: [Britannica - Mark Antony Roman Triumvir](https://www.britannica.com/biography/Mark-Antony-Roman-triumvir)
+
 [^13]: [Wikipedia - Mark Antony Civil War](https://en.wikipedia.org/wiki/Mark_Antony)
+
 [^14]: [History.com - Mark Antony](https://www.history.com/articles/mark-antony)
+
 [^15]: [Study.com - Mark Antony of Rome](https://study.com/learn/lesson/mark-antony-biography-facts-cleopatra.html)
+
 [^16]: [World History Encyclopedia - Mark Antony's Oration](https://www.worldhistory.org/article/2372/mark-antonys-oration-at-caesars-funeral/)
+
 [^17]: [Octavian Chronicles - Antony's Funeral Oration](https://octavianchronicles.com/?page_id=1346)
+
 [^18]: [Wikipedia - Second Triumvirate](https://en.wikipedia.org/wiki/Second_Triumvirate)
+
 [^19]: [The Collector - Rome's Second Triumvirate](https://www.thecollector.com/second-triumvirate-mark-antony-octavian-lepidus/)
+
 [^20]: [Wikipedia - Philippicae](https://en.wikipedia.org/wiki/Philippicae)
+
 [^21]: [Wikipedia - Battle of Philippi](https://en.wikipedia.org/wiki/Battle_of_Philippi)
+
 [^22]: [Britannica - Battle of Philippi](https://www.britannica.com/event/Battle-of-Philippi-Roman-history-42-BC)
+
 [^23]: [World History Encyclopedia - Battle of Philippi](https://www.worldhistory.org/article/773/the-battle-of-philippi-42-bce/)
+
 [^24]: [History Skills - Second Triumvirate](https://www.historyskills.com/classroom/ancient-history/second-triumvirate-reading/)
+
 [^25]: [Roman Empire Net - Mark Antony Strategic Analysis](https://roman-empire.net/people/mark-antony-a-strategic-analysis-of-the-roman-leaders-political-career)
+
 [^26]: [Wikipedia - War of Actium](https://en.wikipedia.org/wiki/War_of_Actium)
+
 [^27]: [Biography.com - Antony and Cleopatra Love Story](https://www.biography.com/royalty/cleopatra-mark-antony-love-story-death)
+
 [^28]: [National Geographic - Cleopatra and Mark Antony](https://www.nationalgeographic.com/history/history-magazine/article/antony-and-cleopatra)
+
 [^29]: [Britannica - Fulvia](https://www.britannica.com/biography/Fulvia-wife-of-Mark-Antony)
+
 [^30]: [Wikipedia - Octavia the Younger](https://en.wikipedia.org/wiki/Octavia_the_Younger)
+
 [^31]: [Wikipedia - Philippicae Cicero](https://en.wikipedia.org/wiki/Philippicae)
+
 [^32]: [All Ancient History - Cicero vs Mark Antony](https://allancienthistory.substack.com/p/cicero-vs-mark-antony-a-very-roman)
+
 [^33]: [The Collector - Mark Antony Hero or Villain](https://www.thecollector.com/mark-antony-hero-or-villain/)
+
 [^34]: [Cambridge - Antony as Tyrant in Cicero's First Philippic](https://www.cambridge.org/core/journals/ramus/article/abs/antony-as-tyrant-in-ciceros-first-philippic/2492671283362E4E26902590F474C395)
+
 [^35]: [World History Encyclopedia - Mark Antony's Parthian Campaign](https://www.worldhistory.org/article/2373/mark-antonys-parthian-campaign/)
+
 [^36]: [Wikipedia - Antony's Atropatene Campaign](https://en.wikipedia.org/wiki/Antony's_Atropatene_campaign)
+
 [^37]: [Ancient War History - Ill-Fated Parthian Campaign](https://ancientwarhistory.com/the-ill-fated-parthian-campaign-of-mark-antony-a-clash-of-empires-in-the-ancient-near-east/)
+
 [^38]: [Encyclopaedia Iranica - Antony Mark](https://www.iranicaonline.org/articles/antony-mark-roman-gencral-ca/)
+
 [^39]: [Livius - Antony Against Parthia](https://ancientromanhistory31-14.com/an-end-of-the-republic/triumvirs/acts-of-the-triumvirs/antony-against-parthia/)
+
 [^40]: [History of the Ancient World - Characterisation of Mark Antony](https://www.historyoftheancientworld.com/2014/08/the-characterisation-of-mark-antony-2/)
+
 [^41]: [MIT Classics - Plutarch's Life of Antony](http://classics.mit.edu/Plutarch/antony.html)
+
 [^42]: [Quora - Marcus Antonius Good and Bad Qualities](https://www.quora.com/What-are-some-of-Marcus-Antonius-Mark-Antonys-good-qualities-and-what-are-some-of-his-bad-qualities)
+
 [^43]: [Oxford Academic - A Noble Ruin Mark Antony](https://global.oup.com/academic/product/a-noble-ruin-9780197694909)
+
 [^44]: [Ancient Home - Mark Antony Marriages](https://arelibeauty.com/belonging/antony-wife/)
+
 [^45]: [Wikipedia - Fulvia](https://en.wikipedia.org/wiki/Fulvia)
+
 [^46]: [Britannica - Fulvia Wife of Mark Antony](https://www.britannica.com/biography/Fulvia-wife-of-Mark-Antony)
+
 [^47]: [Encyclopedia.com - Octavia](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/octavia-c-69-11-bce)
+
 [^48]: [Livius - Octavia Minor](https://www.livius.org/articles/person/octavia-minor/)
+
 [^49]: [Octavian Chronicles - Cleopatra Meets Antony](https://octavianchronicles.com/?page_id=611)
+
 [^50]: [Smithsonian - Cleopatra's Rivals for Mark Antony's Love](https://www.smithsonianmag.com/history/who-were-cleopatras-rivals-for-mark-antonys-love-180984785/)
+
 [^51]: [World History Encyclopedia - Propaganda of Octavian and Mark Antony](https://www.worldhistory.org/article/1474/the-propaganda-of-octavian-and-mark-antonys-civil/)
+
 [^52]: [Bartleby - Leadership Qualities of Mark Antony](https://www.bartleby.com/essay/Leadership-Qualities-Of-Mark-Antony-And-Leadership-PCHWXEWWLXR)
+
 [^53]: [University of Chicago - Plutarch Life of Antony](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Antony*.html)
+
 [^54]: [History Unfettered - Mark Antony Beware the Charmer](https://historyunfettered.com/mark-antony-charmer/)
+
 [^55]: [Britannica - How Did Mark Antony Die](https://www.britannica.com/question/How-did-Mark-Antony-die)
+
 [^56]: [Octavian Chronicles - Mark Antony's Suicide](https://octavianchronicles.com/?page_id=4683)
+
 [^57]: [Wikipedia - Octavia the Younger Descendants](https://en.wikipedia.org/wiki/Octavia_the_Younger)
+
 [^58]: [World History Encyclopedia - Propaganda War](https://www.worldhistory.org/article/1474/the-propaganda-of-octavian-and-mark-antonys-civil/)
+
 [^59]: [Wikipedia - War of Actium Antony's Will](https://en.wikipedia.org/wiki/War_of_Actium)
+
 [^60]: [Marked by Teachers - Cassius Dio Characterization](https://www.markedbyteachers.com/as-and-a-level/classics/this-essay-will-analyse-how-cassius-dio-characterized-cleopatra-in-the-passage-provided-and-compare-it-with-other-written-sources.html)
+
 [^61]: [SparkNotes - Mark Antony in Julius Caesar](https://www.sparknotes.com/shakespeare/juliuscaesar/)
+
 [^62]: [SparkNotes - Mark Antony Character Analysis](https://www.sparknotes.com/shakespeare/antony/character/mark-antony/)
+
 [^63]: [Folger Shakespeare Library - Antony and Cleopatra](https://www.folger.edu/explore/shakespeares-works/antony-and-cleopatra/about-shakespeares-antony-and-cleopatra/)
+
 [^64]: [Classics for All - Quest for Mark Antony](https://classicsforall.org.uk/reading-room/ad-familiares/quest-mark-antony)
+
 [^65]: [Spartacus Educational - Mark Antony](https://spartacus-educational.com/ROMmarkantony.htm)
+
 [^66]: [Oxford Academic - A Noble Ruin](https://academic.oup.com/book/51781/chapter-abstract/420491167?redirectedFrom=fulltext)
+
 [^67]: [JSTOR - Mark Antony Biography](https://www.jstor.org/stable/10.5749/j.ctttsccd)
+
 [^68]: [Seven Swords - Battle of Philippi](https://sevenswords.uk/the-battle-of-philippi/)
+
 [^69]: [AncientPedia - Mark Antony's Military Campaigns](https://ancientpedia.com/mark-antonys-military-campaigns/)
+
 [^70]: [Project MUSE - Mark Antony](https://muse.jhu.edu/book/32050)
+
 [^71]: [History of Ancient World - Mark Antony Characterisation](https://www.historyoftheancientworld.com/2014/08/the-characterisation-of-mark-antony-2/)
+
 [^72]: [Plutarch - Life of Antony](http://classics.mit.edu/Plutarch/antony.html)
+
 [^73]: [Bartleby - Qualities of Mark Antony](https://www.bartleby.com/essay/The-Qualities-Of-Mark-Antony-In-William-FCGQX4QQL5R)
+
 [^74]: [World History Edu - Mark Antony Battles and Death](https://worldhistoryedu.com/mark-antony-biography-battles-achievements-death/)
+
 [^75]: [War History - Antonius and Parthia](https://warhistory.org/@msw/article/antonius-and-parthia)
+
 [^76]: [Dr. Kaveh Farrokh - Parthian Campaign of Marc Antony](https://www.kavehfarrokh.com/news/historia-de-la-guerra-the-parthian-persian-campaign-of-marc-antony/)
+
 [^77]: [Biography Host - Mark Antony Biography](https://biographyhost.com/p/mark-antony-biography.html)
+
 [^78]: [Gerti Tashko MD - Donations of Alexandria](https://gertitashkomd.com/donations-of-alexandria-34-bce-antony-cleopatra-and-the-politics-of-power/)
+
 [^79]: [Bartleby - Traits of Mark Anthony](https://www.bartleby.com/essay/The-Traits-of-Mark-Anthony-P3QQQ4EC8B6A)
+
 [^80]: [Wikipedia - Mark Antony Ancient Sources](https://en.wikipedia.org/wiki/Mark_Antony)
+
 [^81]: [The Collector - Battle of Actium Death of Ptolemaic Egypt](https://www.thecollector.com/battle-of-actium/)
+
 [^82]: [Classics for All - Quest for Mark Antony](https://classicsforall.org.uk/reading-room/ad-familiares/quest-mark-antony)
+
 [^83]: [Wikipedia - Friends Romans Countrymen](https://en.wikipedia.org/wiki/Friends,_Romans,_countrymen,_lend_me_your_ears)
+
 [^84]: [Poetry Foundation - Friends Romans Speech](https://www.poetryfoundation.org/poems/56968/speech-friends-romans-countrymen-lend-me-your-ears)
+
 [^85]: [Stage Milk - Marc Antony Monologue](https://www.stagemilk.com/marc-antony-monologue-julius-caesar-act-3-scene-2/)
+
 [^86]: [World History Encyclopedia - Mark Antony's Funeral Oration](https://www.worldhistory.org/article/2372/mark-antonys-oration-at-caesars-funeral/)

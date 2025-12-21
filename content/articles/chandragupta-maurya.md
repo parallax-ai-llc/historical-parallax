@@ -153,25 +153,25 @@ Critical scholars also note that while Chandragupta unified India, this unificat
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 340 BCE | Birth of Chandragupta Maurya in Pataliputra[^115] |
-| c. 330s BCE | Chandragupta sold to cowherd, later purchased by Chanakya[^116] |
-| c. 325 BCE | Education at Taxila in military tactics and statecraft[^117] |
-| c. 327 BCE | Initial rebellion against King Dhanananda; seeks refuge with Porus[^118] |
-| 324 BCE | Begins conquest of western India; drives out remaining Macedonians[^119] |
-| 323 BCE | Death of Alexander the Great creates power vacuum[^120] |
-| 322 BCE | Conquers Punjab region[^121] |
-| 322 BCE | Marches to Magadha and besieges Pataliputra[^122] |
-| 321 BCE | Defeats Nanda dynasty; Dhana Nanda killed; establishes Maurya Empire[^123] |
-| c. 320-298 BCE | Reign as first Mauryan emperor[^124] |
-| 305 BCE | Defeats Seleucus I Nicator's invasion[^125] |
-| 305 BCE | Peace treaty with Seleucus; marries Helena[^126] |
-| c. 300 BCE | Mauryan Empire at its height; extensive trade and prosperity[^127] |
-| c. 298 BCE | Converts to Jainism under influence of Bhadrabahu[^128] |
-| c. 298 BCE | Abdicates throne in favor of son Bindusara[^129] |
-| c. 298 BCE | Travels to Shravanabelagola with Bhadrabahu[^130] |
-| c. 297 BCE | Dies practicing sallekhana (fasting unto death)[^131] |
+| Year           | Event                                                                      |
+| -------------- | -------------------------------------------------------------------------- |
+| c. 340 BCE     | Birth of Chandragupta Maurya in Pataliputra[^115]                          |
+| c. 330s BCE    | Chandragupta sold to cowherd, later purchased by Chanakya[^116]            |
+| c. 325 BCE     | Education at Taxila in military tactics and statecraft[^117]               |
+| c. 327 BCE     | Initial rebellion against King Dhanananda; seeks refuge with Porus[^118]   |
+| 324 BCE        | Begins conquest of western India; drives out remaining Macedonians[^119]   |
+| 323 BCE        | Death of Alexander the Great creates power vacuum[^120]                    |
+| 322 BCE        | Conquers Punjab region[^121]                                               |
+| 322 BCE        | Marches to Magadha and besieges Pataliputra[^122]                          |
+| 321 BCE        | Defeats Nanda dynasty; Dhana Nanda killed; establishes Maurya Empire[^123] |
+| c. 320-298 BCE | Reign as first Mauryan emperor[^124]                                       |
+| 305 BCE        | Defeats Seleucus I Nicator's invasion[^125]                                |
+| 305 BCE        | Peace treaty with Seleucus; marries Helena[^126]                           |
+| c. 300 BCE     | Mauryan Empire at its height; extensive trade and prosperity[^127]         |
+| c. 298 BCE     | Converts to Jainism under influence of Bhadrabahu[^128]                    |
+| c. 298 BCE     | Abdicates throne in favor of son Bindusara[^129]                           |
+| c. 298 BCE     | Travels to Shravanabelagola with Bhadrabahu[^130]                          |
+| c. 297 BCE     | Dies practicing sallekhana (fasting unto death)[^131]                      |
 
 ---
 
@@ -192,71 +192,139 @@ Note: Direct quotes from Chandragupta Maurya himself are extremely limited in hi
 ## References
 
 [^1]: [Chandragupta Maurya - Wikipedia](https://en.wikipedia.org/wiki/Chandragupta_Maurya)
+
 [^2]: [Chandragupta | Founder of Mauryan Dynasty, First Emperor to Unify Most of India | Britannica](https://www.britannica.com/biography/Chandragupta)
+
 [^3]: [Chandragupta Maurya - World History Encyclopedia](https://www.worldhistory.org/Chandragupta_Maurya/)
+
 [^4]: [Chandragupta Maurya Biography - Facts, Life History, Reign, Administration, Death](https://www.culturalindia.net/indian-history/ancient-india/chandragupta-maurya.html)
+
 [^5]: [Chandragupta Maurya - Wikidata](https://www.wikidata.org/wiki/Q188541)
+
 [^6]: [Chandragupta Maurya Biography - History, Period, Death, and FAQs](https://www.vedantu.com/biography/chandragupta-maurya-biography)
+
 [^7]: [Emperor Of India Chandragupta Maurya - Indian History - Unacademy](https://unacademy.com/content/nda/study-material/indian-history/emperor-of-india-chandragupta-maurya/)
+
 [^8]: [Chandragupta Maurya | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/chandragupta-maurya)
+
 [^9]: [Chandragupta Maurya: Storied Founder of the All-India Mauryan Empire | Ancient Origins](https://www.ancient-origins.net/history-famous-people/chandragupta-maurya-0015449)
+
 [^10]: [History of Chandragupta Maurya](https://unacademy.com/content/nda/study-material/indian-history/history-of-chandragupta-maurya/)
+
 [^11]: [Chandragupta Maurya: Founding India's Ancient Empire - PWOnlyIAS](https://pwonlyias.com/udaan/chandragupta-maurya/)
+
 [^12]: [Chandragupta Maurya's Family & Relationships: A Detailed Exploration](https://www.poojn.in/post/22913/chandragupta-mauryas-family-relationships-a-detailed-exploration)
+
 [^13]: [Know Everything about Chandragupta Maurya and His Two Wives!](https://nationalviews.com/chandragupta-maurya-wives-nandini-durdhara-helen-facts/)
+
 [^14]: [Chanakya - Wikipedia](https://en.wikipedia.org/wiki/Chanakya)
+
 [^15]: [Kautilya and Arthashastra | MANAS](https://southasia.ucla.edu/history-politics/ancient-india/kautilya-and-arthashastra/)
+
 [^16]: [Chandragupta Maurya - Wikiquote](https://en.wikiquote.org/wiki/Chandragupta_Maurya)
+
 [^17]: [Rise of the Maurya Empire | World Civilization](https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/rise-of-the-maurya-empire/)
+
 [^18]: [Nanda–Mauryan War - Wikipedia](https://en.wikipedia.org/wiki/Nanda–Mauryan_War)
+
 [^19]: [Timeline: Chandragupta Maurya](https://www.worldhistory.org/timeline/Chandragupta_Maurya/)
+
 [^20]: [Nanda Empire - Wikipedia](https://en.wikipedia.org/wiki/Nanda_Empire)
+
 [^21]: [Maurya Empire - Wikipedia](https://en.wikipedia.org/wiki/Maurya_Empire)
+
 [^22]: [Mauryan Empire, Time Period, Capital, Key Rulers, Architecture, Decline, UPSC Notes!](https://testbook.com/ias-preparation/mauryan-empire-ancient-history-ncert-notes-for-upsc)
+
 [^23]: [The Rise of Chandragupta Maurya By Unacademy](https://unacademy.com/content/railway-exam/study-material/modern-history-of-india/the-rise-of-chandragupta-maurya/)
+
 [^24]: [Chandragupta Maurya | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/chandragupta-maurya)
+
 [^25]: [Chandragupta Maurya - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Chandragupta_Maurya)
+
 [^26]: [The Rise of Chandragupta Maurya, and the Golden Age of the Mauryan Empire | Ancient Origins](https://www.ancient-origins.net/history-famous-people/chandragupta-maurya-002277)
+
 [^27]: [Age of the Mauryas - Chandragupta Maurya, Ashoka, and Their Legacy](https://www.studento.co.in/ancient-indian-history/age-of-the-mauryas)
+
 [^28]: [Chandragupta Maurya: Origins, Rise to Power, and Major Accomplishments](https://worldhistoryedu.com/chandragupta-maurya-origins-rise-to-power-and-major-accomplishments/)
+
 [^29]: [Chandragupta Maurya and the Rise of the Mauryan Empire](https://byjus.com/free-ias-prep/ncert-notes-chandragupta-maurya-rise-of-mauryan-empire/)
+
 [^30]: [Chandragupta Maurya Biography: Rise of the Mauryan Empire](https://infinitylearn.com/surge/biography/chandragupta-maurya-biography/)
+
 [^31]: [Chandragupta Maurya : The First Historical Emperor of India](https://ancientindians.org/chandragupta-maurya-the-first-historical-emperor-of-india/)
+
 [^32]: [THE MAURYAN EMPIRE: CHANDRAGUPTA AND ...](https://www.ijrar.org/papers/IJRAR19D4522.pdf)
+
 [^33]: [5 Reasons Why Chandragupta Maurya Was a Revolutionary Emperor](https://www.cheggindia.com/general-knowledge/chandragupta-maurya/)
+
 [^34]: [Chandragupta Maurya facts for kids](https://kids.kiddle.co/Chandragupta_Maurya)
+
 [^35]: [Chandragupta Maurya – the greatest ruler in Indian history - History](https://www.mapsofindia.com/my-india/history/chandragupta-maurya-the-greatest-ruler-in-indian-history)
+
 [^36]: [How many wives did Chandragupta Maurya have? - Geographic Pedia](https://www.ncesc.com/geographic-pedia/how-many-wives-did-chandragupta-maurya-have/)
+
 [^37]: [Arthashastra - Wikipedia](https://en.wikipedia.org/wiki/Arthashastra)
+
 [^38]: [Durdhara - Wikipedia](https://en.wikipedia.org/wiki/Durdhara)
+
 [^39]: [Arthashastra - World History Encyclopedia](https://www.worldhistory.org/Arthashastra/)
+
 [^40]: [Artha-shastra | Indian economics, statecraft, politics | Britannica](https://www.britannica.com/topic/Artha-shastra)
+
 [^41]: [The Arthashastra of Kautilya or Chanakya](https://www.hinduwebsite.com/history/kautilya.asp)
+
 [^42]: [Quote | Chandragupta Maurya](https://chandraguptamaurya.wordpress.com/quote/)
+
 [^43]: [Quotes from the Dead: Aristotle— Chandragupta Maurya](https://medium.com/world-ecolate-elders-quote-packages-for-posterity/quotes-from-the-dead-aristotle-chandragupta-maurya-9d3e05e45fb9)
+
 [^44]: [Ijrar](https://ijrar.org/papers/IJRAR21A1673.pdf)
+
 [^45]: [THE HISTORICAL VIEW OF THE RELATIONSHIP ...](http://ijariie.com/AdminUploadPdf/THE_HISTORICAL_VIEW_OF_THE_RELATIONSHIP_BETWEEN_KOUTILYA_AND_MOURYA_EMPIRE_ijariie12721.pdf)
+
 [^46]: [KAUTILYA'S ARTHASHASTRA: A TIMELESS GRAND STRATEGY BY](https://apps.dtic.mil/sti/pdfs/AD1019423.pdf)
+
 [^47]: [Kautilya's Arthasastra: Contents, Importance & More | UPSC Notes](https://testbook.com/ias-preparation/kautilya-s-arthashastra)
+
 [^48]: [Kautilya - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Kautilya)
+
 [^49]: [Ijrar](https://ijrar.org/papers/IJRAR19D6410.pdf)
+
 [^50]: [(PDF) Chandra Gupta Maurya's Policies – Relevance in the Indian Society](https://www.researchgate.net/publication/362522759_Chandra_Gupta_Maurya's_Policies_-_Relevance_in_the_Indian_Society)
+
 [^51]: [The Oxford History of India • Book II — Chapter 1](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Asia/India/_Texts/OXFHOI/2/1*.html)
+
 [^52]: [Chandra Gupta Maurya's Policies – Relevance in the Indian Society](https://www.sciencepublishinggroup.com/article/10.11648/10056619)
+
 [^53]: [[FREE] Why was Chandragupta Maurya's organization of his empire considered efficient? A. His severe punishments](https://brainly.com/question/11341529)
+
 [^54]: [Chandragupta Maurya: The creation of a national hero in India on JSTOR](https://www.jstor.org/stable/j.ctv33pb005)
+
 [^55]: [Category:Chandragupta Maurya - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Chandragupta_Maurya)
+
 [^56]: [33 Chandragupta Maurya Royalty-Free Photos and Stock Images | Shutterstock](https://www.shutterstock.com/search/chandragupta-maurya)
+
 [^57]: [Chandragupta maurya Images - Free Download on Freepik](https://www.freepik.com/free-photos-vectors/chandragupta-maurya)
+
 [^58]: [3,268 Maurya Stock Photos, High-Res Pictures, and Images - Getty Images | Chandragupta maurya](https://www.gettyimages.com/photos/maurya)
+
 [^59]: [Chandragupta Maurya Images](https://www.pinterest.com/ideas/chandragupta-maurya-images/898936335181/)
+
 [^60]: [9 Chandragupta maurya Images: PICRYL - Public Domain Media Search Engine Public Domain Search](https://picryl.com/topics/chandragupta+maurya)
+
 [^61]: [Chandragupta Maurya](https://www.pinterest.com/ideas/chandragupta-maurya/920263301266/)
+
 [^62]: [Chandragupta maurya hi-res stock photography and images - Alamy](https://www.alamy.com/stock-photo/chandragupta-maurya.html)
+
 [^63]: [Chandragupta Maurya](https://laotzu.xyz/author/display?id=787)
+
 [^64]: [Chandragupta Maurya Quotes: top 13 famous quotes about Chandragupta Maurya](https://www.wisefamousquotes.com/quotes-about-chandragupta-maurya/)
+
 [^65]: [What are the best quotes of Chanakya? - Samrat Chandragupt Maurya - Quora](https://samratchandraguptmaurya.quora.com/What-are-the-best-quotes-of-Chanakya)
+
 [^66]: [Chanakya Quotes | PDF](https://www.scribd.com/document/391971355/Chanakya-Quotes)
+
 [^67]: [What are the best quotes of Chanakya? - Quora](https://www.quora.com/What-are-the-best-quotes-of-Chanakya)
+
 [^68]: [Quotes from Chanakya Neeti | LifeMathMoney](https://lifemathmoney.com/quotes-from-chanakya-neeti-part-1/)
+
 [^69]: [Chandragupta Maurya Quotes - abrainyquote](https://abrainyquote.com/tag/chandragupta-maurya/)

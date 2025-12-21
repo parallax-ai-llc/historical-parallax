@@ -94,14 +94,14 @@ One of the most horrific methods of killing was the "vuelo de la muerte" (death 
 
 ### Major Clandestine Detention Centers
 
-| Center | Location | Notes |
-|--------|----------|-------|
-| ESMA (Navy Mechanics School) | Buenos Aires | Most notorious center; estimated 5,000 passed through, fewer than 200 survived |
-| Campo de Mayo | Greater Buenos Aires | Major army facility with multiple CCDs |
-| La Perla | Córdoba | Largest center in interior Argentina |
-| El Vesubio | Greater Buenos Aires | Run by army intelligence |
-| Automotores Orletti | Buenos Aires | Operation Condor coordination center |
-| Club Atlético | Buenos Aires | Federal Police center |
+| Center                       | Location             | Notes                                                                          |
+| ---------------------------- | -------------------- | ------------------------------------------------------------------------------ |
+| ESMA (Navy Mechanics School) | Buenos Aires         | Most notorious center; estimated 5,000 passed through, fewer than 200 survived |
+| Campo de Mayo                | Greater Buenos Aires | Major army facility with multiple CCDs                                         |
+| La Perla                     | Córdoba              | Largest center in interior Argentina                                           |
+| El Vesubio                   | Greater Buenos Aires | Run by army intelligence                                                       |
+| Automotores Orletti          | Buenos Aires         | Operation Condor coordination center                                           |
+| Club Atlético                | Buenos Aires         | Federal Police center                                                          |
 
 Over 340 former CCDs have been identified across the country.[^10]
 
@@ -112,15 +112,19 @@ Over 340 former CCDs have been identified across the country.[^10]
 Estimates for victims of the Dirty War vary:
 
 **Official Government Figures:**
+
 - 1984 CONADEP (National Commission on the Disappearance of Persons) documented 8,961 cases of disappeared
 
 **Human Rights Organizations:**
+
 - Estimate 30,000 disappeared (this figure is used by the Mothers and Grandmothers of the Plaza de Mayo and by most Argentine governments since 2003)
 
 **Internal Military Estimates:**
+
 - Argentine military intelligence estimated 22,000 killed or disappeared by mid-1978—not including later years
 
 **Additional Victims:**
+
 - Thousands more were detained, tortured, and released
 - Hundreds of children were born in captivity and stolen by regime-connected families
 - Thousands were forced into exile[^11]
@@ -132,21 +136,25 @@ Estimates for victims of the Dirty War vary:
 The Argentine dictatorship participated in Operation Condor (1975-1983), a coordinated campaign of political repression among South American dictatorships:
 
 **Participating Countries:**
+
 - Argentina, Chile, Uruguay, Paraguay, Bolivia, Brazil
 - (with varying involvement from Peru and Ecuador)
 
 **Operations:**
+
 - Intelligence sharing among secret services
 - Cross-border abductions and assassinations of exiles
 - Joint operations within member countries
 - Coordination center at Automotores Orletti in Buenos Aires
 
 **Notable Condor Victims:**
+
 - Former Bolivian President Juan José Torres (killed in Buenos Aires)
 - Chilean General Carlos Prats and wife (car bomb, Buenos Aires)
 - Uruguayan legislators Zelmar Michelini and Héctor Gutiérrez Ruiz (kidnapped and killed in Buenos Aires)
 
 **US Role:**
+
 - The CIA and US Southern Command provided intelligence support
 - Secretary of State Henry Kissinger was informed of Condor operations
 - The US delayed warnings about planned assassinations[^12]
@@ -190,29 +198,29 @@ In April 1977, a group of mothers whose children had been disappeared began gath
 
 ### Military Junta Leaders
 
-| Name | Position | Fate |
-|------|----------|------|
-| Jorge Rafael Videla | Army; de facto President 1976-1981 | Convicted 1985; pardoned 1990; convicted again 2010; died in prison 2013 |
-| Emilio Eduardo Massera | Navy; junta member | Convicted 1985; pardoned 1990; later convicted; died 2010 under house arrest |
-| Leopoldo Galtieri | Army; de facto President 1981-1982 | Led Falklands invasion; convicted; pardoned; died 2003 |
-| Reynaldo Bignone | Army; de facto President 1982-1983 | Convicted of crimes against humanity; died 2018 in prison |
+| Name                   | Position                           | Fate                                                                         |
+| ---------------------- | ---------------------------------- | ---------------------------------------------------------------------------- |
+| Jorge Rafael Videla    | Army; de facto President 1976-1981 | Convicted 1985; pardoned 1990; convicted again 2010; died in prison 2013     |
+| Emilio Eduardo Massera | Navy; junta member                 | Convicted 1985; pardoned 1990; later convicted; died 2010 under house arrest |
+| Leopoldo Galtieri      | Army; de facto President 1981-1982 | Led Falklands invasion; convicted; pardoned; died 2003                       |
+| Reynaldo Bignone       | Army; de facto President 1982-1983 | Convicted of crimes against humanity; died 2018 in prison                    |
 
 ### Notorious Perpetrators
 
-| Name | Role |
-|------|------|
-| Alfredo Astiz | "Blonde Angel of Death"; ESMA torturer; infiltrated Mothers |
-| Adolfo Scilingo | Navy captain; confessed to death flights |
-| Luciano Benjamín Menéndez | Army commander; massive repression in Córdoba |
+| Name                      | Role                                                        |
+| ------------------------- | ----------------------------------------------------------- |
+| Alfredo Astiz             | "Blonde Angel of Death"; ESMA torturer; infiltrated Mothers |
+| Adolfo Scilingo           | Navy captain; confessed to death flights                    |
+| Luciano Benjamín Menéndez | Army commander; massive repression in Córdoba               |
 
 ### Human Rights Defenders
 
-| Name | Role |
-|------|------|
-| Azucena Villaflor | Mothers of Plaza de Mayo co-founder; disappeared 1977 |
-| Hebe de Bonafini | Long-time Mothers president |
-| Estela de Carlotto | Grandmothers of Plaza de Mayo president |
-| Emilio Mignone | CELS founder; daughter disappeared |
+| Name               | Role                                                  |
+| ------------------ | ----------------------------------------------------- |
+| Azucena Villaflor  | Mothers of Plaza de Mayo co-founder; disappeared 1977 |
+| Hebe de Bonafini   | Long-time Mothers president                           |
+| Estela de Carlotto | Grandmothers of Plaza de Mayo president               |
+| Emilio Mignone     | CELS founder; daughter disappeared                    |
 
 ---
 
@@ -251,6 +259,7 @@ Argentina put the junta leaders on trial—an achievement unprecedented in Latin
 ### Renewal of Trials (2000s-Present)
 
 In 2005, the Supreme Court declared the impunity laws unconstitutional. Since then:
+
 - Hundreds of perpetrators have been tried and convicted
 - Trials continue as of 2023
 - Former CCDs have been converted to memory sites
@@ -259,6 +268,7 @@ In 2005, the Supreme Court declared the impunity laws unconstitutional. Since th
 ### International Impact
 
 Argentina's transitional justice process has influenced human rights practice worldwide:
+
 - Truth commissions modeled on CONADEP
 - Prosecutions for crimes against humanity
 - Memory site preservation
@@ -268,52 +278,74 @@ Argentina's transitional justice process has influenced human rights practice wo
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1955 | Military overthrows Juan Perón |
-| 1973 | Perón returns; elected president |
-| July 1, 1974 | Perón dies; Isabel Perón becomes president |
-| 1974-1976 | Political violence escalates; "Triple A" death squads active |
-| March 24, 1976 | Military coup; junta takes power |
-| 1976-1983 | "Dirty War"; 10,000-30,000 disappeared |
-| April 30, 1977 | Mothers of Plaza de Mayo first march |
-| 1978 | World Cup in Argentina; regime attempts to improve image |
-| April 1982 | Falklands/Malvinas War with Britain |
-| June 1982 | Argentine defeat; Galtieri falls |
-| December 1983 | Alfonsín inaugurated; democracy restored |
-| 1984 | "Nunca Más" report published |
-| 1985 | Trial of the Juntas; junta leaders convicted |
-| 1986-1987 | Impunity laws passed |
-| 1989-1990 | Pardons issued by President Menem |
-| 2005 | Supreme Court strikes down impunity laws |
-| 2010 | Videla convicted again |
-| 2017 | Former dictator Menéndez convicted of stealing babies |
-| Ongoing | Trials continue; over 130 stolen children identified |
+| Date           | Event                                                        |
+| -------------- | ------------------------------------------------------------ |
+| 1955           | Military overthrows Juan Perón                               |
+| 1973           | Perón returns; elected president                             |
+| July 1, 1974   | Perón dies; Isabel Perón becomes president                   |
+| 1974-1976      | Political violence escalates; "Triple A" death squads active |
+| March 24, 1976 | Military coup; junta takes power                             |
+| 1976-1983      | "Dirty War"; 10,000-30,000 disappeared                       |
+| April 30, 1977 | Mothers of Plaza de Mayo first march                         |
+| 1978           | World Cup in Argentina; regime attempts to improve image     |
+| April 1982     | Falklands/Malvinas War with Britain                          |
+| June 1982      | Argentine defeat; Galtieri falls                             |
+| December 1983  | Alfonsín inaugurated; democracy restored                     |
+| 1984           | "Nunca Más" report published                                 |
+| 1985           | Trial of the Juntas; junta leaders convicted                 |
+| 1986-1987      | Impunity laws passed                                         |
+| 1989-1990      | Pardons issued by President Menem                            |
+| 2005           | Supreme Court strikes down impunity laws                     |
+| 2010           | Videla convicted again                                       |
+| 2017           | Former dictator Menéndez convicted of stealing babies        |
+| Ongoing        | Trials continue; over 130 stolen children identified         |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Dirty War](https://en.wikipedia.org/wiki/Dirty_War)
+
 [^2]: [Britannica - Dirty War](https://www.britannica.com/event/Dirty-War)
+
 [^3]: [HMH Holocaust Museum - Argentina](https://www.hmh.org/library/research/argentina-dirty-war/)
+
 [^4]: [EBSCO - Political Violence Pre-1976](https://www.ebscohost.com/academic/argentina-guerrillas)
+
 [^5]: [CIA - Isabel Perón](https://www.cia.gov/readingroom/docs/argentina-1976)
+
 [^6]: [Wikipedia - 1976 Argentine Coup](https://en.wikipedia.org/wiki/1976_Argentine_coup_d%27%C3%A9tat)
+
 [^7]: [ADST - National Security Doctrine](https://adst.org/oral-history/argentina-dirty-war/)
+
 [^8]: [Britannica - Disappearance System](https://www.britannica.com/event/Dirty-War)
+
 [^9]: [Goldsmiths - Death Flights](https://www.gold.ac.uk/media/documents-by-section/argentina-death-flights.pdf)
+
 [^10]: [Wikipedia - Clandestine Detention Centers](https://en.wikipedia.org/wiki/Clandestine_detention_centres_in_Argentina)
+
 [^11]: [History Hit - Death Toll](https://www.historyhit.com/dirty-war-argentina/)
+
 [^12]: [Wikipedia - Operation Condor](https://en.wikipedia.org/wiki/Operation_Condor)
+
 [^13]: [EBSCO - Stolen Children](https://www.ebscohost.com/academic/argentina-stolen-babies)
+
 [^14]: [Wikipedia - Mothers of Plaza de Mayo](https://en.wikipedia.org/wiki/Mothers_of_the_Plaza_de_Mayo)
+
 [^15]: [CELS - Human Rights Organizations](https://www.cels.org.ar/web/en/about/)
+
 [^16]: [DU - State Terrorism](https://www.du.edu/korbel/hrhw/argentina-dirty-war)
+
 [^17]: [ECCHR - Crimes Against Humanity](https://www.ecchr.eu/en/case/argentina-dirty-war/)
+
 [^18]: [The Guardian - US Complicity](https://www.theguardian.com/world/2016/argentina-declassified)
+
 [^19]: [World Without Genocide - Two Demons Theory](https://worldwithoutgenocide.org/argentina/)
+
 [^20]: [Wikipedia - CONADEP](https://en.wikipedia.org/wiki/CONADEP)
+
 [^21]: [HRW - Trial of Juntas](https://www.hrw.org/legacy/reports98/argentina/)
+
 [^22]: [Britannica - Videla](https://www.britannica.com/biography/Jorge-Rafael-Videla)
+
 [^23]: [IFSW - International Impact](https://www.ifsw.org/argentina-human-rights/)

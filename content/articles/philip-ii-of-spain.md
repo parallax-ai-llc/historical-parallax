@@ -117,29 +117,29 @@ Even in Catholic countries, particularly France and the Italian states, fear and
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1527 | Born on May 21 in Valladolid, Spain |
-| 1539 | Mother Isabella of Portugal dies |
-| 1543 | Marries Maria Manuela, Princess of Portugal |
-| 1545 | Birth of son Don Carlos; death of wife Maria Manuela |
-| 1554 | Marries Mary I of England; becomes King of England and Ireland |
-| 1556 | Father Charles V abdicates; Philip becomes King of Spain |
-| 1558 | Death of Mary I; loses English and Irish thrones |
-| 1559 | Marries Elisabeth of Valois; Peace of Cateau-Cambrésis ends Italian Wars |
-| 1561 | Establishes Madrid as permanent capital of Spain |
-| 1563 | Construction begins on El Escorial monastery-palace |
-| 1566 | Dutch Revolt begins in the Netherlands |
+| Year | Event                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------------- |
+| 1527 | Born on May 21 in Valladolid, Spain                                                             |
+| 1539 | Mother Isabella of Portugal dies                                                                |
+| 1543 | Marries Maria Manuela, Princess of Portugal                                                     |
+| 1545 | Birth of son Don Carlos; death of wife Maria Manuela                                            |
+| 1554 | Marries Mary I of England; becomes King of England and Ireland                                  |
+| 1556 | Father Charles V abdicates; Philip becomes King of Spain                                        |
+| 1558 | Death of Mary I; loses English and Irish thrones                                                |
+| 1559 | Marries Elisabeth of Valois; Peace of Cateau-Cambrésis ends Italian Wars                        |
+| 1561 | Establishes Madrid as permanent capital of Spain                                                |
+| 1563 | Construction begins on El Escorial monastery-palace                                             |
+| 1566 | Dutch Revolt begins in the Netherlands                                                          |
 | 1568 | Death of wife Elisabeth of Valois; arrest and death of son Don Carlos; Morisco Rebellion begins |
-| 1570 | Marries Anna of Austria |
-| 1571 | Battle of Lepanto - decisive victory over Ottoman fleet |
-| 1578 | Birth of future Philip III |
-| 1580 | Annexation of Portugal; death of wife Anna of Austria; becomes King of Portugal |
-| 1581 | Recognized as King of Portugal by Cortes of Tomar |
-| 1584 | El Escorial completed |
-| 1588 | Spanish Armada defeated by England |
-| 1596 | Fourth state bankruptcy declared |
-| 1598 | Dies on September 13 at El Escorial, aged 71 |
+| 1570 | Marries Anna of Austria                                                                         |
+| 1571 | Battle of Lepanto - decisive victory over Ottoman fleet                                         |
+| 1578 | Birth of future Philip III                                                                      |
+| 1580 | Annexation of Portugal; death of wife Anna of Austria; becomes King of Portugal                 |
+| 1581 | Recognized as King of Portugal by Cortes of Tomar                                               |
+| 1584 | El Escorial completed                                                                           |
+| 1588 | Spanish Armada defeated by England                                                              |
+| 1596 | Fourth state bankruptcy declared                                                                |
+| 1598 | Dies on September 13 at El Escorial, aged 71                                                    |
 
 ---
 
@@ -160,165 +160,327 @@ Even in Catholic countries, particularly France and the Italian states, fear and
 ## References
 
 [^1]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^2]: [Philip II | Biography, Accomplishments, Religion, Significance, & Facts | Britannica](https://www.britannica.com/biography/Philip-II-king-of-Spain-and-Portugal)
+
 [^3]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^4]: [Philip II of Spain | Hispanic American Historical Review | Duke University Press](https://read.dukeupress.edu/hahr/article/45/1/117/158936/Philip-II-of-Spain)
+
 [^5]: [King Philip II - Spain, Death & Definition](https://www.biography.com/royalty/philip-ii)
+
 [^6]: [Philip II Of Spain Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/philip-ii-of-spain-33583.php)
+
 [^7]: [Philip II: youth and influences | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-youth-and-influences)
+
 [^8]: [Felipe II, King of Spain, Filipe I, King of Portugal | Unofficial Royalty](https://www.unofficialroyalty.com/king-philip-ii-of-spain/)
+
 [^9]: [Philip II of Spain Facts, Worksheets, Early Life & Background](https://schoolhistory.co.uk/early-modern/philip-ii-of-spain/)
+
 [^10]: [King Philip II of Spain | Biography, Facts & Accomplishments - Lesson | Study.com](https://study.com/academy/lesson/philip-ii-of-spain-accomplishments-biography.html)
+
 [^11]: [Philip II of Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/philip-ii-spain)
+
 [^12]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^13]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^14]: [King Philip II of Spain | Biography, Facts & Accomplishments - Lesson | Study.com](https://study.com/academy/lesson/philip-ii-of-spain-accomplishments-biography.html)
+
 [^15]: [Philip II: youth and influences | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-youth-and-influences)
+
 [^16]: [Philip II Of Spain Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/philip-ii-of-spain-33583.php)
+
 [^17]: [Philip II of Spain Facts, Worksheets, Early Life & Background](https://schoolhistory.co.uk/early-modern/philip-ii-of-spain/)
+
 [^18]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^19]: [Philip II: youth and influences | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-youth-and-influences)
+
 [^20]: [Philip II Of Spain Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/philip-ii-of-spain-33583.php)
+
 [^21]: [King Philip II of Spain | Biography, Facts & Accomplishments - Lesson | Study.com](https://study.com/academy/lesson/philip-ii-of-spain-accomplishments-biography.html)
+
 [^22]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^23]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^24]: [Felipe II, King of Spain, Filipe I, King of Portugal | Unofficial Royalty](https://www.unofficialroyalty.com/king-philip-ii-of-spain/)
+
 [^25]: [Philip II Lesson for Kids: Wives & Family Tree | Study.com](https://study.com/academy/lesson/philip-ii-lesson-for-kids-wives-family-tree.html)
+
 [^26]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^27]: [Philip II as regent over the Spanish Empire | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-regent-over-spanish-empire)
+
 [^28]: [Philip II of Spain, Consort of Mary I](https://www.englishmonarchs.co.uk/tudor_23.html)
+
 [^29]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^30]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^31]: [Philip II | Biography, Accomplishments, Religion, Significance, & Facts | Britannica](https://www.britannica.com/biography/Philip-II-king-of-Spain-and-Portugal)
+
 [^32]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^33]: [Medieval and Middle Ages History Timelines - Philip (II, King of Spain 1556-1598)](https://www.timeref.com/people/philip_ii_king_of_spain_1556_1598.htm)
+
 [^34]: [Philip II of Spain Worksheets | Policies, Government, Conflicts](https://kidskonnect.com/people/philip-ii-of-spain/)
+
 [^35]: [Philip II of Spain: Accomplishment & Empire | Vaia](https://www.vaia.com/en-us/explanations/history/early-modern-spain/philip-ii-of-spain/)
+
 [^36]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^37]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^38]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^39]: [Philip II of Spain: Accomplishment & Empire | Vaia](https://www.vaia.com/en-us/explanations/history/early-modern-spain/philip-ii-of-spain/)
+
 [^40]: [Battle of Lepanto - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Lepanto)
+
 [^41]: [Battle of Lepanto: this was the Ottoman defeat before a coalition led by Spain in 1571](https://www.outono.net/elentir/2022/10/07/battle-of-lepanto-this-was-the-ottoman-defeat-before-a-coalition-led-by-spain-in-1571/)
+
 [^42]: [How Important Was the Battle of Lepanto? | History Today](https://www.historytoday.com/archive/head-head/how-important-was-battle-lepanto)
+
 [^43]: [Battle of Lepanto - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Battle_of_Lepanto)
+
 [^44]: [The Battle of Lepanto](https://www.spanishwars.net/16th-century-battle-of-lepanto.html)
+
 [^45]: [Iberian Union - Wikipedia](https://en.wikipedia.org/wiki/Iberian_Union)
+
 [^46]: [Portuguese succession crisis of 1580 - Wikipedia](https://en.wikipedia.org/wiki/Portuguese_succession_crisis_of_1580)
+
 [^47]: [The Shotgun Marriage: Spain's Annexation of Portugal | History Today](https://www.historytoday.com/archive/shotgun-marriage-spains-annexation-portugal)
+
 [^48]: [War of the Portuguese Succession | Historica Wiki | Fandom](https://historica.fandom.com/wiki/War_of_the_Portuguese_Succession)
+
 [^49]: [Iberian Union - Wikipedia](https://en.wikipedia.org/wiki/Iberian_Union)
+
 [^50]: [Spanish Golden Age - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Golden_Age)
+
 [^51]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^52]: [The Golden Age of Spain](https://hmml.org/programs/exhibitions/golden-age-of-spain/)
+
 [^53]: [El Escorial - Wikipedia](https://en.wikipedia.org/wiki/El_Escorial)
+
 [^54]: [El Escorial – Royal Monastery of San Lorenzo de El Escorial](https://el-escorial.com/)
+
 [^55]: [Spanish Golden Age - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Golden_Age)
+
 [^56]: [Philip II of Spain Worksheets | Policies, Government, Conflicts](https://kidskonnect.com/people/philip-ii-of-spain/)
+
 [^57]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^58]: [Philip II as regent over the Spanish Empire | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-regent-over-spanish-empire)
+
 [^59]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^60]: [Philip II of Spain: The Spanish Monarch Behind the Armada Invasion of England in 1588 - World History Edu](https://worldhistoryedu.com/philip-ii-spain-family-reign-spanish-armada-achievements/)
+
 [^61]: [Philip II and the Spanish Armada | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/philip-ii-and-the-spanish-armada/)
+
 [^62]: [The Failure Of King Philip II And The Spanish Armada | ipl.org](https://www.ipl.org/essay/The-Failure-Of-King-Philip-II-And-F3H9C574SCP6)
+
 [^63]: [Why the Armada failed – The Past](https://the-past.com/feature/why-the-armada-failed/)
+
 [^64]: [Spanish Armada - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Armada)
+
 [^65]: [Philip II and the Spanish Armada | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/philip-ii-and-the-spanish-armada/)
+
 [^66]: [The Failure Of King Philip II And The Spanish Armada | ipl.org](https://www.ipl.org/essay/The-Failure-Of-King-Philip-II-And-F3H9C574SCP6)
+
 [^67]: [Eighty Years' War - Wikipedia](https://en.wikipedia.org/wiki/Eighty_Years'_War)
+
 [^68]: [Dutch Wars of Independence | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/dutch-wars-independence)
+
 [^69]: [Eighty Years' War - World History Encyclopedia](https://www.worldhistory.org/Eighty_Years'_War/)
+
 [^70]: [Dutch Revolt (1568–1648) | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/dutch-revolt-1568-1648)
+
 [^71]: [Eighty Years' War - Wikipedia](https://en.wikipedia.org/wiki/Eighty_Years'_War)
+
 [^72]: [Eighty Years' War | Spanish-Dutch Conflict, Religious Conflict & Political Conflict | Britannica](https://www.britannica.com/event/Eighty-Years-War)
+
 [^73]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^74]: [Philip II of Spain: Accomplishment & Empire | Vaia](https://www.vaia.com/en-us/explanations/history/early-modern-spain/philip-ii-of-spain/)
+
 [^75]: [The Death and Legacy of Philip II - Rebels or Beggars: Renaissance History](https://rebelsorbeggars.com/blog/the-death-and-legacy-of-philip-ii/)
+
 [^76]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^77]: [Phillip and Religion - History Learning Site](https://www.historylearningsite.co.uk/spain-under-phillip-ii/phillip-and-religion/)
+
 [^78]: [Spanish Inquisition | Definition, History, & Facts | Britannica](https://www.britannica.com/topic/Spanish-Inquisition)
+
 [^79]: [Philip II 1527–1598 King of Spain | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-ii-1527-1598-king-spain)
+
 [^80]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^81]: [Morisco | Expulsion, Reconquista & Inquisition | Britannica](https://www.britannica.com/topic/Morisco)
-[^82]: [Rebellion of the Alpujarras (1568–1571) - Wikipedia](https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1568–1571))
+
+[^82]: [Rebellion of the Alpujarras (1568–1571) - Wikipedia](<https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1568–1571)>)
+
 [^83]: [Expulsion of the Moriscos - Wikipedia](https://en.wikipedia.org/wiki/Expulsion_of_the_Moriscos)
+
 [^84]: [Carlos, Prince of Asturias - Wikipedia](https://en.wikipedia.org/wiki/Carlos,_Prince_of_Asturias)
+
 [^85]: [Don Carlos: the tragedy of the king's son | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/don-carlos-tragedy-kings-son)
+
 [^86]: [Carlos de Austria | Habsburg Dynasty, Spanish Monarchy & Catholic Church | Britannica](https://www.britannica.com/biography/Carlos-de-Austria)
+
 [^87]: [Don Carlos: the tragedy of the king's son | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/don-carlos-tragedy-kings-son)
+
 [^88]: [Carlos, Prince of Asturias - Wikipedia](https://en.wikipedia.org/wiki/Carlos,_Prince_of_Asturias)
+
 [^89]: [Almost Kings: Don Carlos, Prince of Asturia](https://www.creativehistorian.co.uk/blog/read_200274/almost-kings-don-carlos.html)
+
 [^90]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^91]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^92]: [Felipe II, King of Spain, Filipe I, King of Portugal | Unofficial Royalty](https://www.unofficialroyalty.com/king-philip-ii-of-spain/)
+
 [^93]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^94]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^95]: [Desperately Seeking Sons: Philip, Maria, Mary, Elisabeth and Anna](https://creativehistorian.co.uk/blog/read_196998/desperately-seeking-sons-philip-maria-mary-elisabeth-and-anna.html)
+
 [^96]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^97]: [Felipe II, King of Spain, Filipe I, King of Portugal | Unofficial Royalty](https://www.unofficialroyalty.com/king-philip-ii-of-spain/)
+
 [^98]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^99]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^100]: [Philip II: marriages and offspring | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-marriages-and-offspring)
+
 [^101]: [Philip II: youth and influences | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-youth-and-influences)
+
 [^102]: [El Escorial, and the room where "Philip the Prudent" died](https://www.fascinatingspain.com/articulo/what-to-see-in-community-of-madrid/el-escorial-philip-the-prudent/20220627085845067371.html)
+
 [^103]: [El Escorial (Spain) – The History Mom](https://thehistorymom.com/2023/09/13/el-escorial-spain/)
+
 [^104]: [Philip II: youth and influences | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-youth-and-influences)
+
 [^105]: [Philip II | Biography, Accomplishments, Religion, Significance, & Facts | Britannica](https://www.britannica.com/biography/Philip-II-king-of-Spain-and-Portugal)
+
 [^106]: [Spanish Golden Age - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Golden_Age)
+
 [^107]: [Philip II | Biography, Accomplishments, Religion, Significance, & Facts | Britannica](https://www.britannica.com/biography/Philip-II-king-of-Spain-and-Portugal)
+
 [^108]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^109]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^110]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^111]: [Philip II of Spain | Hispanic American Historical Review | Duke University Press](https://read.dukeupress.edu/hahr/article/45/1/117/158936/Philip-II-of-Spain)
+
 [^112]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^113]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^114]: [The Death and Legacy of Philip II - Rebels or Beggars: Renaissance History](https://rebelsorbeggars.com/blog/the-death-and-legacy-of-philip-ii/)
+
 [^115]: [Philip II of Spain: Accomplishment & Empire | Vaia](https://www.vaia.com/en-us/explanations/history/early-modern-spain/philip-ii-of-spain/)
+
 [^116]: [The Death and Legacy of Philip II - Rebels or Beggars: Renaissance History](https://rebelsorbeggars.com/blog/the-death-and-legacy-of-philip-ii/)
+
 [^117]: [Philip II and the Spanish Armada | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/philip-ii-and-the-spanish-armada/)
+
 [^118]: [Philip II of Spain: Accomplishment & Empire | Vaia](https://www.vaia.com/en-us/explanations/history/early-modern-spain/philip-ii-of-spain/)
+
 [^119]: [The Death and Legacy of Philip II - Rebels or Beggars: Renaissance History](https://rebelsorbeggars.com/blog/the-death-and-legacy-of-philip-ii/)
+
 [^120]: [Philip II of Spain Worksheets | Policies, Government, Conflicts](https://kidskonnect.com/people/philip-ii-of-spain/)
+
 [^121]: [El Escorial - Wikipedia](https://en.wikipedia.org/wiki/El_Escorial)
+
 [^122]: [Philip II as regent over the Spanish Empire | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-regent-over-spanish-empire)
+
 [^123]: [Philip II & The Counter Reformation | The New GCE History Revision Blog](https://gcehistoryrevision.wordpress.com/philip-ii-the-counter-reformation/)
+
 [^124]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^125]: [Philip II and the Spanish Armada | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/philip-ii-and-the-spanish-armada/)
+
 [^126]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^127]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^128]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^129]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^130]: [Spain - Philip II | Britannica](https://www.britannica.com/place/Spain/Philip-II)
+
 [^131]: [Philip II of Spain: Accomplishment & Empire | Vaia](https://www.vaia.com/en-us/explanations/history/early-modern-spain/philip-ii-of-spain/)
+
 [^132]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^133]: [Battle of Lepanto - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Battle_of_Lepanto)
+
 [^134]: [Iberian Union - Wikipedia](https://en.wikipedia.org/wiki/Iberian_Union)
+
 [^135]: [Philip II of Spain: Champion of Catholicism | History Today](https://www.historytoday.com/archive/philip-ii-spain-champion-catholicism)
+
 [^136]: [Philip II & The Counter Reformation | The New GCE History Revision Blog](https://gcehistoryrevision.wordpress.com/philip-ii-the-counter-reformation/)
+
 [^137]: [Philip II, King of Spain, Council of Trent Document, 1564 (MSS 143)](https://dia.pitts.emory.edu/collections/digitalcollections/mss143.cfm)
+
 [^138]: [Spanish Golden Age - Wikipedia](https://en.wikipedia.org/wiki/Spanish_Golden_Age)
+
 [^139]: [El Escorial - Wikipedia](https://en.wikipedia.org/wiki/El_Escorial)
+
 [^140]: [Philip II of Spain Biography And Legacy](https://www.potterswaxmuseum.com/european-history/philip-of-spain/)
+
 [^141]: [Philip II as regent over the Spanish Empire | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-regent-over-spanish-empire)
+
 [^142]: [Philip II of Spain - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Philip_II_of_Spain)
+
 [^143]: [Philip II of Spain and the Architecture of Empire By Laura Fernández-González](https://www.psupress.org/books/titles/978-0-271-08724-5.html)
+
 [^144]: [Philip II and the Spanish Armada | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/philip-ii-and-the-spanish-armada/)
+
 [^145]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^146]: [Eighty Years' War - Wikipedia](https://en.wikipedia.org/wiki/Eighty_Years'_War)
+
 [^147]: [Philip II 1527–1598 King of Spain | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philip-ii-1527-1598-king-spain)
+
 [^148]: [Expulsion of the Moriscos - Wikipedia](https://en.wikipedia.org/wiki/Expulsion_of_the_Moriscos)
+
 [^149]: [Carlos, Prince of Asturias - Wikipedia](https://en.wikipedia.org/wiki/Carlos,_Prince_of_Asturias)
+
 [^150]: [Philip II of Spain: Accomplishment & Empire | Vaia](https://www.vaia.com/en-us/explanations/history/early-modern-spain/philip-ii-of-spain/)
+
 [^151]: [The Death and Legacy of Philip II - Rebels or Beggars: Renaissance History](https://rebelsorbeggars.com/blog/the-death-and-legacy-of-philip-ii/)
+
 [^152]: [Why the Armada failed – The Past](https://the-past.com/feature/why-the-armada-failed/)
+
 [^153]: [Philip II as regent over the Spanish Empire | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/philip-ii-regent-over-spanish-empire)
+
 [^154]: [Philip II and the Spanish Armada | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/philip-ii-and-the-spanish-armada/)
+
 [^155]: [Eighty Years' War - Wikipedia](https://en.wikipedia.org/wiki/Eighty_Years'_War)
+
 [^156]: [Philip II of Spain - Wikipedia](https://en.wikipedia.org/wiki/Philip_II_of_Spain)
+
 [^157]: [Philip II and the Spanish Armada | Western Civilization](https://courses.lumenlearning.com/atd-herkimer-westerncivilization/chapter/philip-ii-and-the-spanish-armada/)
+
 [^158]: [Philip II of Spain | Hispanic American Historical Review | Duke University Press](https://read.dukeupress.edu/hahr/article/45/1/117/158936/Philip-II-of-Spain)
+
 [^159]: [Philip II of Spain - Wikiquote](https://en.wikiquote.org/wiki/Philip_II_of_Spain)
+
 [^160]: [Philip II of Spain quotes - interesting quotes](https://yquotes.com/quotes/philip-ii-of-spain/)
+
 [^161]: [Philip II & The Counter Reformation | The New GCE History Revision Blog](https://gcehistoryrevision.wordpress.com/philip-ii-the-counter-reformation/)
+
 [^162]: [Philip II of Spain Quotes - Lib Quotes](https://libquotes.com/philip-ii-of-spain)
+
 [^163]: [Philip II of Spain - I leave to the men of God the things tha](https://quote.org/quote/i-leave-to-the-men-of-god-617073)

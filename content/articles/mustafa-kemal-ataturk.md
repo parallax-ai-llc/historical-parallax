@@ -127,39 +127,39 @@ Debates about Atatürk include those who employed a discourse of freedom referri
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1881 | Born in Salonika (now Thessaloníki, Greece) |
-| 1893 | Entered Military Secondary School at Salonika; given the name Kemal |
-| 1902 | Graduated as Lieutenant from General Staff College in Istanbul |
-| 1905 | Graduated from Army War College as Captain (January 11) |
-| 1915 | Led Ottoman defense at Gallipoli (April 25); stopped Allied advance |
-| 1916 | Promoted to Brigadier-General (April 1) |
-| 1919 | Landed in Samsun, beginning the War of Independence (May 19) |
-| 1919 | Arrived in Ankara with the Executive Committee (December 27) |
-| 1920 | Elected President of the Grand National Assembly (April 23) |
-| 1921 | Battle of Sakarya; Turkish victory against Greek forces (August 23-September 13) |
-| 1922 | Launched the Great Offensive (August 26) |
-| 1922 | Expelled occupying armies from Anatolia (September 18) |
-| 1922 | Abolished the Sultanate (November 1) |
-| 1923 | Mother Zübeyde Hanım died in İzmir (January 14) |
-| 1923 | Married Latife Uşaklıgil (January 29) |
-| 1923 | Treaty of Lausanne signed (July 24) |
-| 1923 | Proclamation of the Turkish Republic; elected first President (October 29) |
-| 1924 | Abolished the Caliphate |
-| 1924 | Wore hat at Sarayburnu as part of modernization (August 24) |
-| 1925 | Sheikh Said rebellion crushed |
-| 1925 | Divorced Latife Uşaklıgil (August 5) |
-| 1928 | Introduced new Turkish alphabet; replaced Arabic script with Latin (November) |
-| 1928 | Educated the public on new alphabet at Sarayburnu (August 9) |
-| 1931 | Established the Turkish Historical Society (April 12) |
-| 1932 | Founded the Turkish Linguistic Society (July 12) |
-| 1933 | Established Sümerbank for industrial development |
-| 1934 | Granted the surname "Atatürk" by the Grand National Assembly (June 16) |
-| 1934 | Women granted right to vote and be elected to Parliament (December 8) |
-| 1935 | Removed reference to Islam from the Constitution |
-| 1937-38 | Dersim rebellion suppressed |
-| 1938 | Died at Dolmabahçe Palace, Istanbul (November 10, 9:05 AM) |
+| Year    | Event                                                                            |
+| ------- | -------------------------------------------------------------------------------- |
+| 1881    | Born in Salonika (now Thessaloníki, Greece)                                      |
+| 1893    | Entered Military Secondary School at Salonika; given the name Kemal              |
+| 1902    | Graduated as Lieutenant from General Staff College in Istanbul                   |
+| 1905    | Graduated from Army War College as Captain (January 11)                          |
+| 1915    | Led Ottoman defense at Gallipoli (April 25); stopped Allied advance              |
+| 1916    | Promoted to Brigadier-General (April 1)                                          |
+| 1919    | Landed in Samsun, beginning the War of Independence (May 19)                     |
+| 1919    | Arrived in Ankara with the Executive Committee (December 27)                     |
+| 1920    | Elected President of the Grand National Assembly (April 23)                      |
+| 1921    | Battle of Sakarya; Turkish victory against Greek forces (August 23-September 13) |
+| 1922    | Launched the Great Offensive (August 26)                                         |
+| 1922    | Expelled occupying armies from Anatolia (September 18)                           |
+| 1922    | Abolished the Sultanate (November 1)                                             |
+| 1923    | Mother Zübeyde Hanım died in İzmir (January 14)                                  |
+| 1923    | Married Latife Uşaklıgil (January 29)                                            |
+| 1923    | Treaty of Lausanne signed (July 24)                                              |
+| 1923    | Proclamation of the Turkish Republic; elected first President (October 29)       |
+| 1924    | Abolished the Caliphate                                                          |
+| 1924    | Wore hat at Sarayburnu as part of modernization (August 24)                      |
+| 1925    | Sheikh Said rebellion crushed                                                    |
+| 1925    | Divorced Latife Uşaklıgil (August 5)                                             |
+| 1928    | Introduced new Turkish alphabet; replaced Arabic script with Latin (November)    |
+| 1928    | Educated the public on new alphabet at Sarayburnu (August 9)                     |
+| 1931    | Established the Turkish Historical Society (April 12)                            |
+| 1932    | Founded the Turkish Linguistic Society (July 12)                                 |
+| 1933    | Established Sümerbank for industrial development                                 |
+| 1934    | Granted the surname "Atatürk" by the Grand National Assembly (June 16)           |
+| 1934    | Women granted right to vote and be elected to Parliament (December 8)            |
+| 1935    | Removed reference to Islam from the Constitution                                 |
+| 1937-38 | Dersim rebellion suppressed                                                      |
+| 1938    | Died at Dolmabahçe Palace, Istanbul (November 10, 9:05 AM)                       |
 
 ---
 
@@ -186,106 +186,209 @@ Debates about Atatürk include those who employed a discourse of freedom referri
 ## References
 
 [^1]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^2]: Pluto Press. "Why Turkey is Authoritarian: From Atatürk to Erdoğan." https://www.plutobooks.com/blog/turkey-authoritarian-ataturk-erdogan/
+
 [^3]: Princeton University Press. "Atatürk." https://press.princeton.edu/books/paperback/9780691175829/ataturk
+
 [^4]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^5]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^6]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^7]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^8]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^9]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^10]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^11]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^12]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^13]: Biography of Mustafa Kemal Atatürk. Kütahya Health Sciences University. https://kho.msu.edu.tr/eng_about_tma/ataturk/Biography.html
+
 [^14]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^15]: World History Encyclopedia. "Gallipoli Campaign: Churchill's Folly in World War I." https://www.worldhistory.org/Gallipoli_Campaign/
+
 [^16]: All About Turkey. "Ataturk's Quotes and Speeches." https://www.allaboutturkey.com/ataturk-quotes.html
+
 [^17]: Imperial War Museums. "What You Need To Know About The Gallipoli Campaign In WW1." https://www.iwm.org.uk/history/what-you-need-to-know-about-the-gallipoli-campaign
+
 [^18]: Timeline of Mustafa Kemal Atatürk. Atatürk Today. https://ataturktoday.com/Chronology.htm
+
 [^19]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^20]: Origins. "The Greco-Turkish War." https://origins.osu.edu/milestones/may-2019-greco-turkish-war-smyrna-sakarya-kemal-ottoman
+
 [^21]: Wikipedia. "Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+
 [^22]: Timeline of Mustafa Kemal Atatürk. Atatürk Today. https://ataturktoday.com/Chronology.htm
+
 [^23]: Britannica. "Kemal Atatürk - Nationalist, Independence, Reforms." https://www.britannica.com/biography/Kemal-Ataturk/The-nationalist-movement-and-the-war-for-independence
+
 [^24]: Anadolu Agency. "Ataturk's legacy remains alive 81 years after his demise." https://www.aa.com.tr/en/turkey/ataturk-s-legacy-remains-alive-81-years-after-his-demise/1640534
+
 [^25]: Wikipedia. "Military career of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Military_career_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^26]: Timeline of Mustafa Kemal Atatürk. Atatürk Today. https://ataturktoday.com/Chronology.htm
+
 [^27]: Wikipedia. "Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+
 [^28]: Wikipedia. "Atatürk's reforms." https://en.wikipedia.org/wiki/Atat%C3%BCrk's_reforms
+
 [^29]: Britannica. "Kemal Atatürk - Turkish Republic, Modernization, Reforms." https://www.britannica.com/biography/Kemal-Ataturk/The-Turkish-republic
+
 [^30]: Wikipedia. "Secularism in Turkey." https://en.wikipedia.org/wiki/Secularism_in_Turkey
+
 [^31]: All About Turkey. "Ataturk's reforms." https://www.allaboutturkey.com/ataturk-reforms.html
+
 [^32]: All About Turkey. "Ataturk's reforms." https://www.allaboutturkey.com/ataturk-reforms.html
+
 [^33]: Timeline of Mustafa Kemal Atatürk. Atatürk Today. https://ataturktoday.com/Chronology.htm
+
 [^34]: Harvard DASH. "The Case of Atatürk Reforms in Early Turkish Republic Between 1923-1946." https://dash.harvard.edu/bitstreams/291d2649-230e-45ab-8a94-95e6771355ca/download
+
 [^35]: Wikipedia. "Atatürk's reforms." https://en.wikipedia.org/wiki/Atat%C3%BCrk's_reforms
+
 [^36]: Wikipedia. "Atatürk's reforms." https://en.wikipedia.org/wiki/Atat%C3%BCrk's_reforms
+
 [^37]: BrainyQuote. "Mustafa Kemal Ataturk Quotes." https://www.brainyquote.com/authors/mustafa-kemal-ataturk-quotes
+
 [^38]: All About Turkey. "Ataturk's reforms." https://www.allaboutturkey.com/ataturk-reforms.html
+
 [^39]: Timeline of Mustafa Kemal Atatürk. Atatürk Today. https://ataturktoday.com/Chronology.htm
+
 [^40]: Timeline of Mustafa Kemal Atatürk. Atatürk Today. https://ataturktoday.com/Chronology.htm
+
 [^41]: Wikipedia. "Atatürk's Main Principles." https://en.wikipedia.org/wiki/Atat%C3%BCrk's_Main_Principles
+
 [^42]: Who is Atatürk. "Atatürk's Understanding of Statism." https://whoisataturk.com/g/icerik/Ataturks-Understanding-of-Statism/223
+
 [^43]: Britannica. "Turkey - Kemalist, Policies, Reforms." https://www.britannica.com/place/Turkey/Kemalist-policies
+
 [^44]: Atatürk Araştırma Merkezi Dergisi. "SUMERBANK AND ITS EFFICIENCY IN THE DEVELOPMENT OF TURKEY (1933-1987)." https://atamdergi.gov.tr/ozet/776/eng
+
 [^45]: Academic Journals. "Economic policy during Ataturk's era in Turkey (1923 - 1938)." https://academicjournals.org/journal/AJBM/article-full-text-pdf/344C67C22351
+
 [^46]: Wikipedia. "Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+
 [^47]: Wikipedia. "Atatürk Centennial." https://en.wikipedia.org/wiki/Atat%C3%BCrk_Centennial
+
 [^48]: Pluto Press. "Why Turkey is Authoritarian: From Atatürk to Erdoğan." https://www.plutobooks.com/blog/turkey-authoritarian-ataturk-erdogan/
+
 [^49]: Chawy Kurd. "On the Centennial of Lausanne, Ataturk and the Kurds: Part One." https://chawykurd.com/en/2023/08/01/ataturk-and-the-kurds/
+
 [^50]: Chawy Kurd. "On the Centennial of Lausanne, Ataturk and the Kurds: Part One." https://chawykurd.com/en/2023/08/01/ataturk-and-the-kurds/
+
 [^51]: Wikipedia. "Sheikh Said rebellion." https://en.wikipedia.org/wiki/Sheikh_Said_rebellion
+
 [^52]: Chawy Kurd. "On the Centennial of Lausanne, Ataturk and the Kurds: Part One." https://chawykurd.com/en/2023/08/01/ataturk-and-the-kurds/
+
 [^53]: Semantic Scholar. "The Kurdish Rebellions of Sheikh Said (1925), Mt. Ararat (1930), and Dersim (1937-8)." https://www.semanticscholar.org/paper/The-Kurdish-Rebellions-of-Sheikh-Said-(1925),-Mt.-Olson/748c78bef66838e1963c7cae6834f43e4a16ccb6
+
 [^54]: Wikipedia. "Population exchange between Greece and Turkey." https://en.wikipedia.org/wiki/Population_exchange_between_Greece_and_Turkey
+
 [^55]: Origins. "The Greco-Turkish War." https://origins.osu.edu/milestones/may-2019-greco-turkish-war-smyrna-sakarya-kemal-ottoman
+
 [^56]: Greek Genocide Resource Center. "Mustafa Kemal Atatürk (1881-1938)." https://www.greek-genocide.net/index.php/overview/perpetrators/mustafa-kemal-atatuerk
+
 [^57]: Wikipedia. "Population exchange between Greece and Turkey." https://en.wikipedia.org/wiki/Population_exchange_between_Greece_and_Turkey
+
 [^58]: Journal of Economic Growth. "Human capital transfers and sub-national development: Armenian and Greek legacy in post-expulsion Turkey." https://link.springer.com/article/10.1007/s10887-022-09210-8
+
 [^59]: Pluto Press. "Why Turkey is Authoritarian: From Atatürk to Erdoğan." https://www.plutobooks.com/blog/turkey-authoritarian-ataturk-erdogan/
+
 [^60]: Politics Today. "From Single-Party Rule to Alliance Politics: 100 Years of Turkish Politics." https://politicstoday.org/from-single-party-rule-to-alliance-politics-100-years-of-turkish-politics/
+
 [^61]: Wikipedia. "One-party period of the Republic of Turkey." https://en.wikipedia.org/wiki/One-party_period_of_the_Republic_of_Turkey
+
 [^62]: Wikipedia. "One-party period of the Republic of Turkey." https://en.wikipedia.org/wiki/One-party_period_of_the_Republic_of_Turkey
+
 [^63]: GlobalSecurity.org. "Turkey - Republican People's Party (Cumhuriyet Halk Partisi--CHP)." https://www.globalsecurity.org/military/world/europe/tu-political-party-chp.htm
+
 [^64]: Wikipedia. "Republican People's Party." https://en.wikipedia.org/wiki/Republican_People's_Party
+
 [^65]: Pluto Press. "Why Turkey is Authoritarian: From Atatürk to Erdoğan." https://www.plutobooks.com/blog/turkey-authoritarian-ataturk-erdogan/
+
 [^66]: Pluto Press. "Why Turkey is Authoritarian: From Atatürk to Erdoğan." https://www.plutobooks.com/blog/turkey-authoritarian-ataturk-erdogan/
+
 [^67]: SAGE Journals. "The Racist Critics of Atatürk and Kemalism, from the 1930s to the 1960s." https://journals.sagepub.com/doi/abs/10.1177/0022009410392411
+
 [^68]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^69]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^70]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^71]: CyprusScene. "Ataturk's short lived marriage. Part 4." https://cyprusscene.com/2018/03/06/ataturks-short-lived-marriage-part-4/
+
 [^72]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^73]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^74]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^75]: Wikipedia. "Personal life of Mustafa Kemal Atatürk." https://en.wikipedia.org/wiki/Personal_life_of_Mustafa_Kemal_Atat%C3%BCrk
+
 [^76]: Timeline of Mustafa Kemal Atatürk. Atatürk Today. https://ataturktoday.com/Chronology.htm
+
 [^77]: Britannica. "Kemal Ataturk | Biography, Reforms, Death, & Facts." https://www.britannica.com/biography/Kemal-Ataturk
+
 [^78]: Princeton University Press. "Atatürk." https://press.princeton.edu/books/paperback/9780691175829/ataturk
+
 [^79]: Biography Host. "The Legacy of Kemal Atatürk: Turkey's Founder." https://biographyhost.com/p/kemal-ataturk-the-architect-of-modern-turkey.html
+
 [^80]: EBSCO Research Starters. "Atatürk." https://www.ebsco.com/research-starters/history/ataturk
+
 [^81]: Wikipedia. "Mustafa Kemal Atatürk's cult of personality." https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk's_cult_of_personality
+
 [^82]: Bradley Secker. "The iconography of Ataturk, Turkey's founder, in a changing political landscape." https://www.bradleysecker.com/ataturk-icon
+
 [^83]: All About Turkey. "Ataturk's Quotes and Speeches." https://www.allaboutturkey.com/ataturk-quotes.html
+
 [^84]: Goodreads. "Mustafa Kemal Atatürk Quotes." https://www.goodreads.com/author/quotes/2793859.Mustafa_Kemal_Atat_rk
+
 [^85]: Princeton University Press. "Atatürk." https://press.princeton.edu/books/paperback/9780691175829/ataturk
+
 [^86]: All About Turkey. "Ataturk's Quotes and Speeches." https://www.allaboutturkey.com/ataturk-quotes.html
+
 [^87]: Wikipedia. "Atatürk Centennial." https://en.wikipedia.org/wiki/Atat%C3%BCrk_Centennial
+
 [^88]: Daily Sabah. "Honoring the legend: 23 of Atatürk's best quote." https://www.dailysabah.com/life/honoring-the-legend-23-of-ataturks-best-quote/news
+
 [^89]: Cambridge University Core. "Atatürk and After: Three Perspectives on Political Change in Turkey." https://www.cambridge.org/core/journals/review-of-politics/article/abs/ataturk-and-after-three-perspectives-on-political-change-in-turkey/58549ACE2B425E53FA19BF7E094E8D8F
+
 [^90]: Cambridge University Core. "Atatürk and After: Three Perspectives on Political Change in Turkey." https://www.cambridge.org/core/journals/review-of-politics/article/abs/ataturk-and-after-three-perspectives-on-political-change-in-turkey/58549ACE2B425E53FA19BF7E094E8D8F
+
 [^91]: Princeton University Press. "Atatürk." https://press.princeton.edu/books/paperback/9780691175829/ataturk
+
 [^92]: SAGE Journals. "The Racist Critics of Atatürk and Kemalism, from the 1930s to the 1960s." https://journals.sagepub.com/doi/abs/10.1177/0022009410392411
+
 [^93]: SAGE Journals. "The Racist Critics of Atatürk and Kemalism, from the 1930s to the 1960s." https://journals.sagepub.com/doi/abs/10.1177/0022009410392411
+
 [^94]: OpenEdition Journals. "Politics of Counter-Memory in Turkey." https://journals.openedition.org/cm/830?lang=en
+
 [^95]: OpenEdition Journals. "Politics of Counter-Memory in Turkey." https://journals.openedition.org/cm/830?lang=en
+
 [^96]: OpenEdition Journals. "Politics of Counter-Memory in Turkey." https://journals.openedition.org/cm/830?lang=en
+
 [^97]: All About Turkey. "Ataturk's Quotes and Speeches." https://www.allaboutturkey.com/ataturk-quotes.html
+
 [^98]: AZ Quotes. "TOP 25 QUOTES BY MUSTAFA KEMAL ATATURK." https://www.azquotes.com/author/16269-Mustafa_Kemal_Ataturk
+
 [^99]: BrainyQuote. "Mustafa Kemal Ataturk Quotes." https://www.brainyquote.com/authors/mustafa-kemal-ataturk-quotes
+
 [^100]: All About Turkey. "Ataturk's Quotes and Speeches." https://www.allaboutturkey.com/ataturk-quotes.html
+
 [^101]: All About Turkey. "Ataturk's Quotes and Speeches." https://www.allaboutturkey.com/ataturk-quotes.html
+
 [^102]: All About Turkey. "Ataturk's Quotes and Speeches." https://www.allaboutturkey.com/ataturk-quotes.html
+
 [^103]: Goodreads. "Mustafa Kemal Atatürk Quotes." https://www.goodreads.com/author/quotes/2793859.Mustafa_Kemal_Atat_rk
+
 [^104]: Daily Sabah. "Honoring the legend: 23 of Atatürk's best quote." https://www.dailysabah.com/life/honoring-the-legend-23-of-ataturks-best-quote/news

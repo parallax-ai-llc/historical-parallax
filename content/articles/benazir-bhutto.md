@@ -159,28 +159,28 @@ The dynastic nature of Bhutto's politics draws substantial criticism. By treatin
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1953 | Born on June 21 in Karachi, Pakistan |
-| 1969 | Enters Radcliffe College, Harvard University |
-| 1973 | Graduates from Harvard; enters Oxford University |
-| 1976 | Elected president of the Oxford Union |
-| 1977 | Returns to Pakistan; father's government overthrown in military coup |
-| 1979 | Father Zulfikar Ali Bhutto executed on April 4 |
-| 1979-1984 | Repeatedly imprisoned and placed under house arrest |
-| 1984 | Leaves Pakistan for exile in London |
-| 1986 | Returns to Pakistan on April 10; receives massive public reception |
-| 1987 | Marries Asif Ali Zardari on December 18 |
-| 1988 | Gives birth to son Bilawal; becomes Prime Minister on December 2 |
-| 1990 | First government dismissed on August 6 on corruption charges |
-| 1993 | Returns as Prime Minister on October 19 |
-| 1996 | Second government dismissed on November 5 |
-| 1997 | Goes into self-imposed exile to avoid corruption charges |
-| 1999 | Convicted in absentia by Pakistani court on corruption charges |
-| 2003 | Convicted of money laundering by Swiss court |
-| 2007 | Returns to Pakistan on October 18; survives assassination attempt the same day |
-| 2007 | Assassinated on December 27 in Rawalpindi at campaign rally |
-| 2008 | Pakistan People's Party wins elections held in her memory; husband becomes President |
+| Year      | Event                                                                                |
+| --------- | ------------------------------------------------------------------------------------ |
+| 1953      | Born on June 21 in Karachi, Pakistan                                                 |
+| 1969      | Enters Radcliffe College, Harvard University                                         |
+| 1973      | Graduates from Harvard; enters Oxford University                                     |
+| 1976      | Elected president of the Oxford Union                                                |
+| 1977      | Returns to Pakistan; father's government overthrown in military coup                 |
+| 1979      | Father Zulfikar Ali Bhutto executed on April 4                                       |
+| 1979-1984 | Repeatedly imprisoned and placed under house arrest                                  |
+| 1984      | Leaves Pakistan for exile in London                                                  |
+| 1986      | Returns to Pakistan on April 10; receives massive public reception                   |
+| 1987      | Marries Asif Ali Zardari on December 18                                              |
+| 1988      | Gives birth to son Bilawal; becomes Prime Minister on December 2                     |
+| 1990      | First government dismissed on August 6 on corruption charges                         |
+| 1993      | Returns as Prime Minister on October 19                                              |
+| 1996      | Second government dismissed on November 5                                            |
+| 1997      | Goes into self-imposed exile to avoid corruption charges                             |
+| 1999      | Convicted in absentia by Pakistani court on corruption charges                       |
+| 2003      | Convicted of money laundering by Swiss court                                         |
+| 2007      | Returns to Pakistan on October 18; survives assassination attempt the same day       |
+| 2007      | Assassinated on December 27 in Rawalpindi at campaign rally                          |
+| 2008      | Pakistan People's Party wins elections held in her memory; husband becomes President |
 
 ---
 
@@ -203,123 +203,243 @@ The dynastic nature of Bhutto's politics draws substantial criticism. By treatin
 ## References
 
 [^1]: Lamb, Christina. "Benazir Bhutto: A Political Biography." Oxford University Press, 2007.
+
 [^2]: Bhutto, Benazir. "Daughter of Destiny: An Autobiography." Simon & Schuster, 1989.
+
 [^3]: "Benazir Bhutto." Harvard Radcliffe Institute. https://www.radcliffe.harvard.edu/
+
 [^4]: Wynbrandt, James. "A Brief History of Pakistan." Facts on File, 2009.
+
 [^5]: "Former Presidents of the Oxford Union." Oxford Union official records, 1976.
+
 [^6]: Bhutto, Benazir. "Daughter of Destiny: An Autobiography." Simon & Schuster, 1989.
+
 [^7]: Taseer, Shaan. "Bhutto: A Political Biography." Aakar Books, 1979.
+
 [^8]: Cohen, Stephen P. "The Idea of Pakistan." Brookings Institution Press, 2004.
+
 [^9]: Burki, Shahid Javed. "Pakistan: Fifty Years of Nationhood." Westview Press, 1999.
+
 [^10]: "Amnesty International Report on Benazir Bhutto's Detention." Amnesty International, 1982.
+
 [^11]: Bhutto, Benazir. "Daughter of Destiny: An Autobiography." Simon & Schuster, 1989.
+
 [^12]: Talbot, Ian. "Pakistan: A Modern History." Hurst Publishers, 1998.
+
 [^13]: Wirsing, Robert G. "Pakistan's Security under Zia, 1977-1988." Macmillan, 1991.
+
 [^14]: "Benazir Bhutto: The Woman Who Challenged Pakistan." BBC Documentary, 2007.
+
 [^15]: Ziring, Lawrence. "Pakistan in the Twentieth Century: A Political History." Oxford University Press, 1997.
+
 [^16]: "Million Welcome Benazir." Dawn newspaper, April 11, 1986.
+
 [^17]: Human Rights Watch. "Pakistan: Human Rights Developments." 1987 Annual Report.
+
 [^18]: "General Zia Dies in Air Crash." The New York Times, August 18, 1988.
+
 [^19]: "Benazir Bhutto Sworn In as Pakistan PM." The Times, December 3, 1988.
+
 [^20]: Jalal, Ayesha. "Democracy and Authoritarianism in South Asia." Cambridge University Press, 1995.
+
 [^21]: Rizvi, Hasan-Askari. "Military, State and Society in Pakistan." Macmillan, 2000.
+
 [^22]: "First Woman Leader of Muslim Nation." Time Magazine, December 1988.
+
 [^23]: Shaheed, Farida. "Women's Movements in Pakistan." United Nations Research Institute for Social Development, 1994.
+
 [^24]: Pakistan Ministry of Water and Power. "Annual Report 1989-1990."
+
 [^25]: "Education Reforms under Bhutto Government." Pakistan Education Statistics, 1990.
+
 [^26]: Bhutto, Benazir. "Politics and the Muslim Woman." Speech at Harvard University, 1989.
+
 [^27]: Government of Pakistan. "Women's Development Division: Initiatives and Programs." 1990.
+
 [^28]: Kux, Dennis. "The United States and Pakistan, 1947-2000." Woodrow Wilson Center Press, 2001.
+
 [^29]: Hagerty, Devin T. "The Consequences of Nuclear Proliferation." MIT Press, 1998.
+
 [^30]: Zaidi, S. Akbar. "Issues in Pakistan's Economy." Oxford University Press, 1999.
+
 [^31]: World Bank. "Pakistan Social Action Program: Review and Implementation." 1995.
+
 [^32]: Sattar, Abdul. "Pakistan's Foreign Policy 1947-2005." Oxford University Press, 2007.
+
 [^33]: United Nations General Assembly Official Records, 49th Session, 1994.
+
 [^34]: Bhutto, Benazir. "Reconciliation: Islam, Democracy and the West." HarperCollins, 2008.
+
 [^35]: Perkovich, George. "India's Nuclear Bomb: The Impact on Global Proliferation." University of California Press, 1999.
+
 [^36]: "Assassination Attempts on Benazir Bhutto." BBC News Timeline, 2007.
+
 [^37]: Levy, Adrian and Catherine Scott-Clark. "The Exile: The Stunning Inside Story of Osama bin Laden and Al Qaeda in Flight." Bloomsbury, 2017.
+
 [^38]: Bennett-Jones, Owen. "Pakistan: Eye of the Storm." Yale University Press, 2002.
+
 [^39]: "Mr. Ten Percent: Asif Ali Zardari's Controversial Rise." The Economist, September 2008.
+
 [^40]: Swiss Federal Court Judgment in Bhutto-Zardari money laundering case, 2003.
+
 [^41]: "Swiss Overturn Bhutto Conviction." BBC News, February 2008.
+
 [^42]: Cotrell SGS Investigation Report, Geneva, 1998.
+
 [^43]: "Bhutto Properties in Surrey Examined." The Guardian, 1998.
+
 [^44]: Lieven, Anatol. "Pakistan: A Hard Country." PublicAffairs, 2011.
+
 [^45]: Human Rights Commission of Pakistan. "State of Human Rights in 1995."
+
 [^46]: Committee to Protect Journalists. "Pakistan Report 1994-1996."
+
 [^47]: International Crisis Group. "Karachi's Madrasas and Violent Extremism." Asia Report No. 130, 2007.
+
 [^48]: Gayer, Laurent. "Karachi: Ordered Disorder and the Struggle for the City." Hurst Publishers, 2014.
+
 [^49]: Human Rights Watch. "Pakistan: Extrajudicial Executions in Karachi." 1996.
+
 [^50]: Khan, Shahnaz. "Zina, Transnational Feminism, and the Moral Regulation of Pakistani Women." University of British Columbia Press, 2006.
+
 [^51]: Rouse, Shahnaz. "The Outsider(s) Within: Sovereignty and Citizenship in Pakistan." Oxford University Press, 1998.
+
 [^52]: Mumtaz, Khawar and Farida Shaheed. "Women of Pakistan: Two Steps Forward, One Step Back?" Zed Books, 1987.
+
 [^53]: Rashid, Ahmed. "Taliban: Militant Islam, Oil and Fundamentalism in Central Asia." Yale University Press, 2000.
+
 [^54]: Schofield, Victoria. "Kashmir in Conflict." I.B. Tauris, 2000.
+
 [^55]: Siddiqa, Ayesha. "Military Inc.: Inside Pakistan's Military Economy." Pluto Press, 2007.
+
 [^56]: Waseem, Mohammad. "Democratization in Pakistan: A Study of the 2002 Elections." Oxford University Press, 2006.
+
 [^57]: Bhutto, Benazir. "Daughter of Destiny: An Autobiography." Simon & Schuster, 1989.
+
 [^58]: "Benazir's Arranged Marriage." Time Magazine, December 1987.
+
 [^59]: "Bhutto Family Tree." Dawn newspaper special supplement, 2007.
+
 [^60]: "PM Gives Birth: Benazir Bhutto Has a Son." The Independent, September 1988.
+
 [^61]: "Asif Zardari: The Man Behind Benazir." Newsline Pakistan, November 1996.
+
 [^62]: Herold, Stephanie. "Benazir Bhutto: Her Life, Her Death." Random House, 2008.
+
 [^63]: "Charisma and Controversy: Benazir Bhutto Profile." The New Yorker, 1994.
+
 [^64]: Shafqat, Saeed. "Political System of Pakistan and Public Policy." Progressive Publishers, 1997.
+
 [^65]: Waseem, Mohammad. "Politics and the State in Pakistan." Progressive Publishers, 1989.
+
 [^66]: Taseer, Sherbano. "Remembering Benazir." Herald Magazine, December 2008.
+
 [^67]: "Nusrat Bhutto Dies." Dawn newspaper, October 23, 2011.
+
 [^68]: "The Bhutto Family Tragedies." The Telegraph, December 2007.
+
 [^69]: "Questions Remain Over Murtaza Bhutto's Death." Herald Magazine, September 1996.
+
 [^70]: Zakaria, Rafia. "The Upstairs Wife: An Intimate History of Pakistan." Beacon Press, 2015.
+
 [^71]: "Languages and Identity: Benazir's Multilingualism." Pakistan Today, 2007.
+
 [^72]: "Bhutto's Dubai Years." Gulf News, October 2007.
+
 [^73]: Bhutto, Benazir. "Reconciliation: Islam, Democracy and the West." HarperCollins, 2008.
+
 [^74]: "Benazir Bhutto Killed in Attack." BBC News, December 27, 2007.
+
 [^75]: United Nations Commission of Inquiry Report on the Assassination of Benazir Bhutto, April 2010.
+
 [^76]: "Bhutto: Martyr for Democracy?" Al Jazeera analysis, January 2008.
+
 [^77]: "Bilawal Bhutto Zardari: Inheriting a Legacy." Dawn newspaper, 2008.
+
 [^78]: Shaheed, Farida. "The Women's Movement in Pakistan: Challenges and Achievements." Journal of South Asian Studies, 2010.
+
 [^79]: "Muslim Women in Politics: The Bhutto Effect." Middle East Quarterly, 2009.
+
 [^80]: Lieven, Anatol. "Pakistan: A Hard Country." PublicAffairs, 2011.
+
 [^81]: Haqqani, Husain. "Pakistan: Between Mosque and Military." Carnegie Endowment, 2005.
+
 [^82]: Rose, Leo E. "Pakistan: Burdens of History." Oxford University Press, 2000.
+
 [^83]: Ahmad, Eqbal. "Confronting Empire." South End Press, 2000.
+
 [^84]: Jalal, Ayesha. "The Struggle for Pakistan: A Muslim Homeland and Global Politics." Harvard University Press, 2014.
+
 [^85]: Javid, Hassan. "Patronage, Populism, and Protest: Student Politics in Pakistan." PhD thesis, London School of Economics, 2016.
+
 [^86]: "PPP's Electoral Decline Since Benazir." Herald Magazine, 2018.
+
 [^87]: "Remembering Benazir Bhutto: Western Obituaries." The Guardian compilation, 2007.
+
 [^88]: Bhutto, Benazir. "Reconciliation: Islam, Democracy and the West." HarperCollins, 2008.
+
 [^89]: Rashid, Ahmed. "Taliban: Militant Islam, Oil and Fundamentalism in Central Asia." Yale University Press, 2000.
+
 [^90]: United Nations Commission of Inquiry Report on Assassination of Benazir Bhutto, April 2010.
+
 [^91]: Fair, C. Christine. "Fighting to the End: The Pakistan Army's Way of War." Oxford University Press, 2014.
+
 [^92]: Jalal, Ayesha. "Democracy and Authoritarianism in South Asia." Cambridge University Press, 1995.
+
 [^93]: Shaheed, Farida. Interview in "Women's Movements in Pakistan." UNRISD, 1994.
+
 [^94]: Weiss, Anita M. "Interpreting Islam, Modernity, and Women's Rights in Pakistan." Palgrave Macmillan, 2014.
+
 [^95]: Bhutto, Benazir. "Reconciliation: Islam, Democracy and the West." HarperCollins, 2008.
+
 [^96]: Fair, C. Christine. "Fighting to the End: The Pakistan Army's Way of War." Oxford University Press, 2014.
+
 [^97]: Zaidi, S. Akbar. "Issues in Pakistan's Economy." Oxford University Press, 1999.
+
 [^98]: World Bank. "Pakistan Social Action Program: Final Review." 1997.
+
 [^99]: Khan, Hamid. "Constitutional and Political History of Pakistan." Oxford University Press, 2001.
+
 [^100]: "Bhutto Corruption Cases: A Legal Analysis." Herald Magazine, 2007.
+
 [^101]: Talbot, Ian. "Pakistan: A Modern History." Hurst Publishers, 1998.
+
 [^102]: Jones, Owen Bennett. "Pakistan: Eye of the Storm." Yale University Press, 2002.
+
 [^103]: Ahmad, Eqbal. "Confronting Empire." South End Press, 2000.
+
 [^104]: Bennett-Jones, Owen. "The Bhutto Dynasty." Yale University Press, 2020.
+
 [^105]: Swiss Federal Court Documentation, 2003-2008.
+
 [^106]: Rouse, Shahnaz. "The Outsider(s) Within." Oxford University Press, 1998.
+
 [^107]: Kandiyoti, Deniz. "Women, Islam and the State." Temple University Press, 1991.
+
 [^108]: Human Rights Watch. "Pakistan: Human Rights Violations in the 1990s." 1999.
+
 [^109]: Amnesty International. "Pakistan: The Pattern of Political Killings." 1996.
+
 [^110]: Rashid, Ahmed. "Descent into Chaos." Viking, 2008.
+
 [^111]: Coll, Steve. "Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden." Penguin, 2004.
+
 [^112]: Rizvi, Hasan-Askari. "The Military and Politics in Pakistan." Progressive Publishers, 2000.
+
 [^113]: Siddiqa, Ayesha. "Military Inc.: Inside Pakistan's Military Economy." Pluto Press, 2007.
+
 [^114]: Khan, Nichola. "Mohajir Militancy in Pakistan." Routledge, 2010.
+
 [^115]: Waseem, Mohammad. "Democratization in Pakistan: A Study of the 2002 Elections." Oxford University Press, 2006.
+
 [^116]: "Benazir Bhutto's Final Interview." BBC, December 2007.
+
 [^117]: Bhutto, Benazir. "Reconciliation: Islam, Democracy and the West." HarperCollins, 2008.
+
 [^118]: "Benazir Bhutto Press Conference in Dubai." Reuters, October 2007.
+
 [^119]: Bhutto, Benazir. Speech at UN General Assembly, 1989.
+
 [^120]: Bhutto, Benazir. "Politics and the Muslim Woman." Harvard University speech, 1989.
+
 [^121]: Interview with Benazir Bhutto. Time Magazine, 1986.

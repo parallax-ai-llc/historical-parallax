@@ -4,7 +4,13 @@ name: "George Washington"
 birth: "1732-02-22"
 death: "1799-12-14"
 nationality: "United States"
-occupation: ["Military General", "Founding Father", "First President of the United States", "Plantation Owner"]
+occupation:
+  [
+    "Military General",
+    "Founding Father",
+    "First President of the United States",
+    "Plantation Owner",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_Washington"
@@ -189,66 +195,66 @@ Critics also note that the cult of Washington worship, particularly in the ninet
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1732 | Born February 22 at Popes Creek, Virginia |
-| 1743 | Father Augustine Washington dies; George becomes ward of half-brother Lawrence |
-| 1748 | Works as surveyor in Shenandoah Valley |
-| 1752 | Inherits Mount Vernon after Lawrence's death |
-| 1753 | Appointed major in Virginia militia; delivers ultimatum to French forces in Ohio Valley |
-| 1754 | Skirmish at Jumonville Glen sparks French and Indian War; defeated at Fort Necessity |
-| 1755 | Serves as aide to General Braddock; survives Braddock's devastating defeat |
-| 1755-1758 | Commands all Virginia militia forces on frontier |
-| 1759 | Marries Martha Dandridge Custis on January 6; elected to Virginia House of Burgesses |
-| 1775 | Appointed Commander-in-Chief of Continental Army on June 14 |
-| 1776 | Forced to evacuate New York after defeats; crosses Delaware River and wins Battle of Trenton (December 26) |
-| 1777 | Victory at Princeton (January 3); defeats at Brandywine and Germantown |
-| 1777-1778 | Continental Army endures winter at Valley Forge |
-| 1781 | Victory at Yorktown (October 19) effectively ends Revolutionary War |
-| 1783 | Resigns commission at Annapolis (December 23); returns to Mount Vernon |
-| 1787 | Presides over Constitutional Convention in Philadelphia |
-| 1789 | Inaugurated as first President of the United States on April 30 |
-| 1791 | Signs bill establishing First Bank of the United States |
-| 1793 | Issues Proclamation of Neutrality; inaugurated for second term |
-| 1794 | Leads militia to suppress Whiskey Rebellion |
-| 1796 | Publishes Farewell Address; declines third term |
-| 1797 | Retires to Mount Vernon after John Adams's inauguration |
-| 1798 | Appointed Lieutenant General and Commander of U.S. Army during Quasi-War with France |
-| 1799 | Dies at Mount Vernon on December 14 from throat infection |
+| Year      | Event                                                                                                      |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| 1732      | Born February 22 at Popes Creek, Virginia                                                                  |
+| 1743      | Father Augustine Washington dies; George becomes ward of half-brother Lawrence                             |
+| 1748      | Works as surveyor in Shenandoah Valley                                                                     |
+| 1752      | Inherits Mount Vernon after Lawrence's death                                                               |
+| 1753      | Appointed major in Virginia militia; delivers ultimatum to French forces in Ohio Valley                    |
+| 1754      | Skirmish at Jumonville Glen sparks French and Indian War; defeated at Fort Necessity                       |
+| 1755      | Serves as aide to General Braddock; survives Braddock's devastating defeat                                 |
+| 1755-1758 | Commands all Virginia militia forces on frontier                                                           |
+| 1759      | Marries Martha Dandridge Custis on January 6; elected to Virginia House of Burgesses                       |
+| 1775      | Appointed Commander-in-Chief of Continental Army on June 14                                                |
+| 1776      | Forced to evacuate New York after defeats; crosses Delaware River and wins Battle of Trenton (December 26) |
+| 1777      | Victory at Princeton (January 3); defeats at Brandywine and Germantown                                     |
+| 1777-1778 | Continental Army endures winter at Valley Forge                                                            |
+| 1781      | Victory at Yorktown (October 19) effectively ends Revolutionary War                                        |
+| 1783      | Resigns commission at Annapolis (December 23); returns to Mount Vernon                                     |
+| 1787      | Presides over Constitutional Convention in Philadelphia                                                    |
+| 1789      | Inaugurated as first President of the United States on April 30                                            |
+| 1791      | Signs bill establishing First Bank of the United States                                                    |
+| 1793      | Issues Proclamation of Neutrality; inaugurated for second term                                             |
+| 1794      | Leads militia to suppress Whiskey Rebellion                                                                |
+| 1796      | Publishes Farewell Address; declines third term                                                            |
+| 1797      | Retires to Mount Vernon after John Adams's inauguration                                                    |
+| 1798      | Appointed Lieutenant General and Commander of U.S. Army during Quasi-War with France                       |
+| 1799      | Dies at Mount Vernon on December 14 from throat infection                                                  |
 
 ---
 
 ## Famous Quotes
 
-> "I do not think myself equal to the command I am honored with." 
+> "I do not think myself equal to the command I am honored with."
 
 — Address to Continental Congress, June 16, 1775, expressing humility upon accepting command of the Continental Army[^101]
 
-> "Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all." 
+> "Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all."
 
 — From his general orders and writings on military leadership, emphasizing the importance of order and training[^102]
 
-> "If freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter." 
+> "If freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter."
 
 — Newburgh Address, March 15, 1783, warning about threats to liberty[^103]
 
-> "However [political parties] may now and then answer popular ends, they are likely, in the course of time and things, to become potent engines, by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government." 
+> "However [political parties] may now and then answer popular ends, they are likely, in the course of time and things, to become potent engines, by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government."
 
 — Farewell Address, 1796, warning against the dangers of partisan political factions[^104]
 
-> "Guard against the impostures of pretended patriotism." 
+> "Guard against the impostures of pretended patriotism."
 
 — Farewell Address, 1796, cautioning against those who invoke patriotism for selfish ends[^105]
 
-> "To be prepared for war is one of the most effective means of preserving peace." 
+> "To be prepared for war is one of the most effective means of preserving peace."
 
 — First Annual Address to Congress, January 8, 1790, on national defense[^106]
 
-> "True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation." 
+> "True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation."
 
 — Letter reflecting on the nature of genuine friendship and relationships[^107]
 
-> "It is better to offer no excuse than a bad one." 
+> "It is better to offer no excuse than a bad one."
 
 — From his writings on personal conduct and character[^108]
 
@@ -257,110 +263,217 @@ Critics also note that the cult of Washington worship, particularly in the ninet
 ## References
 
 [^1]: [George Washington - Wikipedia](https://en.wikipedia.org/wiki/George_Washington)
+
 [^2]: [George Washington | Miller Center](https://millercenter.org/president/washington)
+
 [^3]: [George Washington and Slavery - Mount Vernon](https://www.mountvernon.org/george-washington/slavery)
+
 [^4]: [George Washington (1732–1799) - Encyclopedia Virginia](https://encyclopediavirginia.org/entries/washington-george-1732-1799/)
+
 [^5]: [George Washington's Life | Mount Vernon](https://www.mountvernon.org/george-washington/biography)
+
 [^6]: [George Washington | Life, Presidency, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/George-Washington)
+
 [^7]: [Biography of George Washington | Mount Vernon](https://www.mountvernon.org/george-washington)
+
 [^8]: [George Washington Timeline | Washington Papers](https://washingtonpapers.org/resources/biography-of-george-washington/)
+
 [^9]: [George Washington (U.S. National Park Service)](https://www.nps.gov/people/georgewashington.htm)
+
 [^10]: [George Washington: Biography, President, Founding Father](https://www.biography.com/political-figures/george-washington)
+
 [^11]: [George Washington | National Geographic Kids](https://kids.nationalgeographic.com/history/article/george-washington)
+
 [^12]: [Military career of George Washington - Wikipedia](https://en.wikipedia.org/wiki/Military_career_of_George_Washington)
+
 [^13]: [George Washington and the Revolutionary War | Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war)
+
 [^14]: [George Washington - Revolutionary, Commander, Statesman | Britannica](https://www.britannica.com/biography/George-Washington/Revolutionary-leadership)
+
 [^15]: [GEORGE WASHINGTON | U.S. Army Center of Military History](https://www.history.army.mil/books/revwar/ss/washington.htm)
+
 [^16]: [George Washington in the American Revolution - Wikipedia](https://en.wikipedia.org/wiki/George_Washington_in_the_American_Revolution)
+
 [^17]: [General Washington in the American Revolution | Mount Vernon](https://www.mountvernon.org/george-washington/the-revolutionary-war/timeline)
+
 [^18]: [George Washington: Family Life | Miller Center](https://millercenter.org/president/washington/family-life)
+
 [^19]: [Martha Washington - Wikipedia](https://en.wikipedia.org/wiki/Martha_Washington)
+
 [^20]: [The American Revolution | Library of Congress George Washington Papers](https://www.loc.gov/collections/george-washington-papers/articles-and-essays/timeline/the-american-revolution/)
+
 [^21]: [George Washington | The National Museum of the U.S. Army](https://www.thenmusa.org/biographies/george-washington/)
+
 [^22]: [Washington Quotes | Mount Vernon](https://www.mountvernon.org/library/digitalhistory/past-projects/quotes)
+
 [^23]: [George Washington - Key Events | Miller Center](https://millercenter.org/president/george-washington/key-events)
+
 [^24]: [President George Washington | American Battlefield Trust](https://www.battlefields.org/learn/articles/president-george-washington)
+
 [^25]: [George Washington | Achievements | Britannica](https://www.britannica.com/summary/George-Washingtons-Achievements)
+
 [^26]: [Ten Facts About Washington's Presidency | Mount Vernon](https://www.mountvernon.org/george-washington/the-first-president/ten-facts-about-washingtons-presidency)
+
 [^27]: [George Washington's First 100 Days | Mount Vernon](https://www.mountvernon.org/george-washington/the-first-president/washingtons-first-100-days)
+
 [^28]: [First Term (1789-1792) | Mount Vernon](https://www.mountvernon.org/george-washington/the-first-president/first-term-1789-1792)
+
 [^29]: [George Washington Presidency, Accomplishments, Timeline | American History Central](https://www.americanhistorycentral.com/entries/george-washington-presidency/)
+
 [^30]: [10 George Washington Accomplishments and Achievements | Have Fun With History](https://www.havefunwithhistory.com/george-washington-accomplishments/)
+
 [^31]: [Washington's Changing Views on Slavery | Mount Vernon](https://www.mountvernon.org/george-washington/slavery/washingtons-changing-views-on-slavery)
+
 [^32]: [George Washington Struggles with Slavery | American Heritage](https://www.americanheritage.com/george-washington-slavery)
+
 [^33]: ["That Species of Property": Washington's Role in the Controversy Over Slavery | Washington Papers](https://washingtonpapers.org/resources/articles/species/)
+
 [^34]: [George Washington on the abolition of slavery, 1786 | Gilder Lehrman Institute](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/george-washington-abolition-slavery-1786)
+
 [^35]: [George Washington's Silent Condemnation of Slavery | Revolutionary War Journal](https://revolutionarywarjournal.com/george-washington-slavery/)
+
 [^36]: [How George Washington treated his slaves | NAW Magazine](https://nawmagazine.com/?p=15505)
+
 [^37]: [George Washington and slavery - Wikipedia](https://en.wikipedia.org/wiki/George_Washington_and_slavery)
+
 [^38]: [What Florida gets wrong about George Washington and slavery | The Conversation](https://theconversation.com/what-florida-gets-wrong-about-george-washington-and-the-benefits-he-received-from-enslaving-black-people-210863)
+
 [^39]: [George Washington's Tangled Relationship With Slavery | GW Today](https://gwtoday.gwu.edu/george-washingtons-tangled-relationship-slavery)
+
 [^40]: [Martha Washington (U.S. National Park Service)](https://www.nps.gov/people/martha-washington.htm)
+
 [^41]: [George Washington - Plantation, Marriage, Revolutionary | Britannica](https://www.britannica.com/biography/George-Washington/Marriage-and-plantation-life)
+
 [^42]: [Martha Dandridge Custis Washington | The White House](https://bidenwhitehouse.archives.gov/about-the-white-house/first-families/martha-dandridge-custis-washington/)
+
 [^43]: [George & Martha's Courtship | Mount Vernon](https://www.mountvernon.org/george-washington/martha-washington/george-marthas-courtship)
+
 [^44]: [Washingtons In Love | Mount Vernon](https://www.mountvernon.org/george-washington/martha-washington/george-and-martha-washingtons-relationship)
+
 [^45]: [George Washington Raised Martha's Children and Grandchildren | HISTORY](https://www.history.com/articles/did-george-washington-have-children)
+
 [^46]: [Martha Washington | Colonial Williamsburg](https://www.colonialwilliamsburg.org/discover/18th-century-people/nation-builders/martha-washington/)
+
 [^47]: [George Washington's Family | Mount Vernon](https://www.mountvernon.org/george-washington/family)
+
 [^48]: [Washington's Legacy | Mount Vernon](https://www.mountvernon.org/george-washington/take-note/washingtons-legacy)
+
 [^49]: [George Washington: Impact and Legacy | Miller Center](https://millercenter.org/president/washington/impact-and-legacy)
+
 [^50]: [Legacy of George Washington - Wikipedia](https://en.wikipedia.org/wiki/Legacy_of_George_Washington)
+
 [^51]: [Washington's Legacy: A God Amongst Men | GW Museum](https://evolutiondc.museum.gwu.edu/washingtons-legacy-a-god-amongst-men/)
+
 [^52]: [George Washington and Executive Power | Civics Education](https://civiced.org/lesson-plans/washington)
+
 [^53]: [George Washington | Research Starters | EBSCO](https://www.ebsco.com/research-starters/politics-and-government/george-washington)
+
 [^54]: [George Washington's Legacy | White House Historical Association](https://www.whitehousehistory.org/the-white-house-1600-sessions/george-washingtons-legacy)
+
 [^55]: [George Washington's Constitutional Legacy | Constitution Center](https://constitutioncenter.org/blog/george-washingtons-constitutional-legacy)
+
 [^56]: [The evolving legacy of George Washington | Academia.edu](https://www.academia.edu/33510816/The_evolving_legacy_of_George_Washington)
+
 [^57]: [George Washington - Wikiquote](https://en.wikiquote.org/wiki/George_Washington)
+
 [^58]: [Quotes by George Washington | Online Library of Liberty](https://oll.libertyfund.org/people/george-washington/quotes)
+
 [^59]: [George Washington Quotes | BrainyQuote](https://www.brainyquote.com/authors/george-washington-quotes)
+
 [^60]: [85 Famous George Washington Quotes | Reader's Digest](https://www.rd.com/article/george-washington-quotes/)
+
 [^61]: [George Washington Quotes | Goodreads](https://www.goodreads.com/author/quotes/4356.George_Washington)
+
 [^62]: [George Washington Quotes | IMDb](https://www.imdb.com/name/nm6141957/quotes/)
+
 [^63]: [45 Genuine George Washington Quotes During the Revolutionary War | Journal of the American Revolution](https://allthingsliberty.com/2016/01/45-genuine-george-washington-quotes-during-the-revolutionary-war/)
+
 [^64]: [125 George Washington Quotes Still Famous Today | Parade](https://parade.com/989259/marynliles/george-washington-quotes/)
+
 [^65]: [Top 25 Quotes by George Washington | A-Z Quotes](https://www.azquotes.com/author/15324-George_Washington)
+
 [^66]: [Lansdowne portrait - Wikipedia](https://en.wikipedia.org/wiki/Lansdowne_portrait)
+
 [^67]: [Life Portraits of George Washington | Mount Vernon](https://www.mountvernon.org/george-washington/artwork/life-portraits-of-george-washington)
+
 [^68]: [George Washington Portrait by Gilbert Stuart | Mount Vernon](https://www.mountvernon.org/george-washington/artwork/george-washington-portrait-by-gilbert-stuart)
+
 [^69]: [George Washington - National Portrait Gallery UK](https://www.npg.org.uk/collections/search/person/mp04716/george-washington)
+
 [^70]: [George Washington | White House Historical Association](https://www.whitehousehistory.org/photos/george-washington-by-gilbert-stuart)
+
 [^71]: [George Washington | National Portrait Gallery](https://npg.si.edu/learn/access-programs/verbal-description-tours/george-washington)
+
 [^72]: [George Washington by Gilbert Stuart | National Gallery of Art](https://www.nga.gov/collection/art-object-page.56916.html)
+
 [^73]: [Treasures of the White House: George Washington](https://www.whitehousehistory.org/photos/treasures-of-the-white-house-george-washington)
+
 [^74]: [Portrait of George Washington | RISD Museum](https://risdmuseum.org/art-design/collection/portrait-george-washington-22220)
+
 [^75]: [George Washington | Brooklyn Museum](https://www.brooklynmuseum.org/objects/934)
-[^76]: Chernow, Ron. *Washington: A Life*. New York: Penguin Press, 2010.
-[^77]: Ellis, Joseph J. *His Excellency: George Washington*. New York: Alfred A. Knopf, 2004.
-[^78]: Flexner, James Thomas. *Washington: The Indispensable Man*. Boston: Little, Brown, 1974.
-[^79]: Freeman, Douglas Southall. *Washington*. Abridged by Richard Harwell. New York: Scribner, 1968.
-[^80]: Furstenberg, François. *In the Name of the Father: Washington's Legacy, Slavery, and the Making of a Nation*. New York: Penguin Press, 2006.
-[^81]: Hirschfeld, Fritz. *George Washington and Slavery: A Documentary Portrayal*. Columbia: University of Missouri Press, 1997.
-[^82]: Lengel, Edward G. *General George Washington: A Military Life*. New York: Random House, 2005.
-[^83]: McCullough, David. *1776*. New York: Simon & Schuster, 2005.
-[^84]: Thompson, Mary V. *"The Only Unavoidable Subject of Regret": George Washington, Slavery, and the Enslaved Community at Mount Vernon*. Charlottesville: University of Virginia Press, 2019.
-[^85]: Weigley, Russell F. *The American Way of War: A History of United States Military Strategy and Policy*. New York: Macmillan, 1973.
-[^86]: Wiencek, Henry. *An Imperfect God: George Washington, His Slaves, and the Creation of America*. New York: Farrar, Straus and Giroux, 2003.
-[^87]: Wills, Garry. *Cincinnatus: George Washington and the Enlightenment*. Garden City, NY: Doubleday, 1984.
-[^88]: Wood, Gordon S. *Revolutionary Characters: What Made the Founders Different*. New York: Penguin Press, 2006.
-[^89]: Brookhiser, Richard. *Founding Father: Rediscovering George Washington*. New York: Free Press, 1996.
-[^90]: Ferling, John. *The Ascent of George Washington: The Hidden Political Genius of an American Icon*. New York: Bloomsbury Press, 2009.
-[^91]: Grizzard, Frank E., Jr. *George Washington: A Biographical Companion*. Santa Barbara, CA: ABC-CLIO, 2002.
-[^92]: Henriques, Peter R. *Realistic Visionary: A Portrait of George Washington*. Charlottesville: University of Virginia Press, 2006.
-[^93]: Randall, Willard Sterne. *George Washington: A Life*. New York: Henry Holt, 1997.
-[^94]: Schwartz, Barry. *George Washington: The Making of an American Symbol*. New York: Free Press, 1987.
-[^95]: Unger, Harlow Giles. *The Unexpected George Washington: His Private Life*. Hoboken, NJ: John Wiley & Sons, 2006.
-[^96]: Morgan, Edmund S. *The Genius of George Washington*. New York: W.W. Norton, 1980.
-[^97]: Phelps, Glenn A. *George Washington and American Constitutionalism*. Lawrence: University Press of Kansas, 1993.
-[^98]: Cunliffe, Marcus. *George Washington: Man and Monument*. Boston: Little, Brown, 1958.
-[^99]: Longmore, Paul K. *The Invention of George Washington*. Berkeley: University of California Press, 1988.
-[^100]: Spalding, Matthew, and Patrick J. Garrity. *A Sacred Union of Citizens: George Washington's Farewell Address and the American Character*. Lanham, MD: Rowman & Littlefield, 1996.
-[^101]: Rhodehamel, John, ed. *George Washington: Writings*. New York: Library of America, 1997.
-[^102]: Fitzpatrick, John C., ed. *The Writings of George Washington from the Original Manuscript Sources, 1745-1799*. 39 vols. Washington, DC: Government Printing Office, 1931-1944.
-[^103]: Crackel, Theodore J. *The Presidency of George Washington*. Lawrence: University Press of Kansas, 2009.
-[^104]: Smith, Richard Norton. *Patriarch: George Washington and the New American Nation*. Boston: Houghton Mifflin, 1993.
-[^105]: Leibiger, Stuart. *Founding Friendship: George Washington, James Madison, and the Creation of the American Republic*. Charlottesville: University Press of Virginia, 1999.
-[^106]: Bowling, Kenneth R., and Donald R. Kennon, eds. *The House and Senate in the 1790s: Petitioning, Lobbying, and Institutional Development*. Athens: Ohio University Press, 2002.
-[^107]: Deconde, Alexander. *Entangling Alliance: Politics & Diplomacy under George Washington*. Durham, NC: Duke University Press, 1958.
-[^108]: Alden, John R. *George Washington: A Biography*. Baton Rouge: Louisiana State University Press, 1984.
+
+[^76]: Chernow, Ron. _Washington: A Life_. New York: Penguin Press, 2010.
+
+[^77]: Ellis, Joseph J. _His Excellency: George Washington_. New York: Alfred A. Knopf, 2004.
+
+[^78]: Flexner, James Thomas. _Washington: The Indispensable Man_. Boston: Little, Brown, 1974.
+
+[^79]: Freeman, Douglas Southall. _Washington_. Abridged by Richard Harwell. New York: Scribner, 1968.
+
+[^80]: Furstenberg, François. _In the Name of the Father: Washington's Legacy, Slavery, and the Making of a Nation_. New York: Penguin Press, 2006.
+
+[^81]: Hirschfeld, Fritz. _George Washington and Slavery: A Documentary Portrayal_. Columbia: University of Missouri Press, 1997.
+
+[^82]: Lengel, Edward G. _General George Washington: A Military Life_. New York: Random House, 2005.
+
+[^83]: McCullough, David. _1776_. New York: Simon & Schuster, 2005.
+
+[^84]: Thompson, Mary V. _"The Only Unavoidable Subject of Regret": George Washington, Slavery, and the Enslaved Community at Mount Vernon_. Charlottesville: University of Virginia Press, 2019.
+
+[^85]: Weigley, Russell F. _The American Way of War: A History of United States Military Strategy and Policy_. New York: Macmillan, 1973.
+
+[^86]: Wiencek, Henry. _An Imperfect God: George Washington, His Slaves, and the Creation of America_. New York: Farrar, Straus and Giroux, 2003.
+
+[^87]: Wills, Garry. _Cincinnatus: George Washington and the Enlightenment_. Garden City, NY: Doubleday, 1984.
+
+[^88]: Wood, Gordon S. _Revolutionary Characters: What Made the Founders Different_. New York: Penguin Press, 2006.
+
+[^89]: Brookhiser, Richard. _Founding Father: Rediscovering George Washington_. New York: Free Press, 1996.
+
+[^90]: Ferling, John. _The Ascent of George Washington: The Hidden Political Genius of an American Icon_. New York: Bloomsbury Press, 2009.
+
+[^91]: Grizzard, Frank E., Jr. _George Washington: A Biographical Companion_. Santa Barbara, CA: ABC-CLIO, 2002.
+
+[^92]: Henriques, Peter R. _Realistic Visionary: A Portrait of George Washington_. Charlottesville: University of Virginia Press, 2006.
+
+[^93]: Randall, Willard Sterne. _George Washington: A Life_. New York: Henry Holt, 1997.
+
+[^94]: Schwartz, Barry. _George Washington: The Making of an American Symbol_. New York: Free Press, 1987.
+
+[^95]: Unger, Harlow Giles. _The Unexpected George Washington: His Private Life_. Hoboken, NJ: John Wiley & Sons, 2006.
+
+[^96]: Morgan, Edmund S. _The Genius of George Washington_. New York: W.W. Norton, 1980.
+
+[^97]: Phelps, Glenn A. _George Washington and American Constitutionalism_. Lawrence: University Press of Kansas, 1993.
+
+[^98]: Cunliffe, Marcus. _George Washington: Man and Monument_. Boston: Little, Brown, 1958.
+
+[^99]: Longmore, Paul K. _The Invention of George Washington_. Berkeley: University of California Press, 1988.
+
+[^100]: Spalding, Matthew, and Patrick J. Garrity. _A Sacred Union of Citizens: George Washington's Farewell Address and the American Character_. Lanham, MD: Rowman & Littlefield, 1996.
+
+[^101]: Rhodehamel, John, ed. _George Washington: Writings_. New York: Library of America, 1997.
+
+[^102]: Fitzpatrick, John C., ed. _The Writings of George Washington from the Original Manuscript Sources, 1745-1799_. 39 vols. Washington, DC: Government Printing Office, 1931-1944.
+
+[^103]: Crackel, Theodore J. _The Presidency of George Washington_. Lawrence: University Press of Kansas, 2009.
+
+[^104]: Smith, Richard Norton. _Patriarch: George Washington and the New American Nation_. Boston: Houghton Mifflin, 1993.
+
+[^105]: Leibiger, Stuart. _Founding Friendship: George Washington, James Madison, and the Creation of the American Republic_. Charlottesville: University Press of Virginia, 1999.
+
+[^106]: Bowling, Kenneth R., and Donald R. Kennon, eds. _The House and Senate in the 1790s: Petitioning, Lobbying, and Institutional Development_. Athens: Ohio University Press, 2002.
+
+[^107]: Deconde, Alexander. _Entangling Alliance: Politics & Diplomacy under George Washington_. Durham, NC: Duke University Press, 1958.
+
+[^108]: Alden, John R. _George Washington: A Biography_. Baton Rouge: Louisiana State University Press, 1984.

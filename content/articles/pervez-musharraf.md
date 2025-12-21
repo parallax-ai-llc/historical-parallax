@@ -137,29 +137,29 @@ On foreign policy, critics accuse Musharraf of subordinating Pakistan's sovereig
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1943 | Born in Delhi, British India on August 11 |
-| 1947 | Family migrates to Pakistan after partition |
-| 1961 | Joins Pakistan Military Academy, Kakul |
-| 1964 | Commissioned as Second Lieutenant in Pakistan Army |
-| 1965 | Serves in Indo-Pakistani War, awarded commendation medal |
-| 1968 | Marries Sehba Farid |
-| 1971 | Serves as company commander in Bangladesh Liberation War |
-| 1991 | Promoted to Major General |
-| 1995 | Promoted to Lieutenant General |
-| 1998 | Appointed Chief of Army Staff by Prime Minister Nawaz Sharif |
-| 1999 | Plans and executes Kargil operation; overthrows Sharif government in October coup |
-| 2001 | Becomes President of Pakistan; joins U.S.-led War on Terror after 9/11 |
-| 2002 | Holds controversial referendum extending his term; parliamentary elections held |
-| 2004 | Appoints Shaukat Aziz as Prime Minister; peace process with India begins |
-| 2006 | Orders military operation that kills Baloch leader Nawab Akbar Bugti |
+| Year | Event                                                                                                                      |
+| ---- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1943 | Born in Delhi, British India on August 11                                                                                  |
+| 1947 | Family migrates to Pakistan after partition                                                                                |
+| 1961 | Joins Pakistan Military Academy, Kakul                                                                                     |
+| 1964 | Commissioned as Second Lieutenant in Pakistan Army                                                                         |
+| 1965 | Serves in Indo-Pakistani War, awarded commendation medal                                                                   |
+| 1968 | Marries Sehba Farid                                                                                                        |
+| 1971 | Serves as company commander in Bangladesh Liberation War                                                                   |
+| 1991 | Promoted to Major General                                                                                                  |
+| 1995 | Promoted to Lieutenant General                                                                                             |
+| 1998 | Appointed Chief of Army Staff by Prime Minister Nawaz Sharif                                                               |
+| 1999 | Plans and executes Kargil operation; overthrows Sharif government in October coup                                          |
+| 2001 | Becomes President of Pakistan; joins U.S.-led War on Terror after 9/11                                                     |
+| 2002 | Holds controversial referendum extending his term; parliamentary elections held                                            |
+| 2004 | Appoints Shaukat Aziz as Prime Minister; peace process with India begins                                                   |
+| 2006 | Orders military operation that kills Baloch leader Nawab Akbar Bugti                                                       |
 | 2007 | Suspends Chief Justice Iftikhar Chaudhry; orders Red Mosque operation; imposes emergency rule; Benazir Bhutto assassinated |
-| 2008 | Resigns as President facing impeachment on August 18 |
-| 2013 | Returns to Pakistan briefly; faces multiple criminal cases |
-| 2016 | Leaves Pakistan for medical treatment in Dubai |
-| 2019 | Convicted of high treason in absentia; sentenced to death (later annulled) |
-| 2023 | Dies in Dubai on February 5 from amyloidosis |
+| 2008 | Resigns as President facing impeachment on August 18                                                                       |
+| 2013 | Returns to Pakistan briefly; faces multiple criminal cases                                                                 |
+| 2016 | Leaves Pakistan for medical treatment in Dubai                                                                             |
+| 2019 | Convicted of high treason in absentia; sentenced to death (later annulled)                                                 |
+| 2023 | Dies in Dubai on February 5 from amyloidosis                                                                               |
 
 ---
 
@@ -182,101 +182,199 @@ On foreign policy, critics accuse Musharraf of subordinating Pakistan's sovereig
 ## References
 
 [^1]: Cohen, Stephen Philip. "The Idea of Pakistan." Brookings Institution Press, 2004, p. 287.
+
 [^2]: Musharraf, Pervez. "In the Line of Fire: A Memoir." Free Press, 2006, p. 21-23.
+
 [^3]: "Pervez Musharraf: Former Pakistan Ruler Dies in Dubai Aged 79." BBC News, February 5, 2023.
+
 [^4]: Musharraf, "In the Line of Fire," p. 29-31.
+
 [^5]: Rashid, Ahmed. "Descent into Chaos: The United States and the Failure of Nation Building in Pakistan, Afghanistan, and Central Asia." Viking, 2008, p. 167.
+
 [^6]: "Profile: Pervez Musharraf." The Guardian, August 18, 2008.
+
 [^7]: Musharraf, "In the Line of Fire," p. 35-38.
+
 [^8]: Haqqani, Husain. "Pakistan: Between Mosque and Military." Carnegie Endowment for International Peace, 2005, p. 213.
+
 [^9]: Cohen, "The Idea of Pakistan," p. 288.
+
 [^10]: Musharraf, "In the Line of Fire," p. 47-49.
+
 [^11]: Sisson, Richard and Leo Rose. "War and Secession: Pakistan, India, and the Creation of Bangladesh." University of California Press, 1990, p. 198.
+
 [^12]: Musharraf, "In the Line of Fire," p. 54-58.
+
 [^13]: "General Pervez Musharraf." GlobalSecurity.org, accessed December 2025.
+
 [^14]: Coll, Steve. "Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden, from the Soviet Invasion to September 10, 2001." Penguin Press, 2004, p. 456.
+
 [^15]: "How Musharraf Became Army Chief." Dawn, October 12, 2009.
+
 [^16]: Talbot, Ian. "Pakistan: A Modern History." Hurst & Company, 2009, p. 341.
+
 [^17]: Ganguly, Sumit and S. Paul Kapur. "India, Pakistan, and the Bomb: Debating Nuclear Stability in South Asia." Columbia University Press, 2010, p. 89-92.
+
 [^18]: Musharraf, "In the Line of Fire," p. 96-98.
+
 [^19]: "Kargil: The Inside Story." The News International, July 4, 2009.
+
 [^20]: Nawaz, Shuja. "Crossed Swords: Pakistan, Its Army, and the Wars Within." Oxford University Press, 2008, p. 524-526.
+
 [^21]: "Oct 12, 1999: Musharraf Seizes Power in Pakistan." History.com, updated October 12, 2021.
+
 [^22]: "Pakistan's Coup: The General Takes Over." The Economist, October 14, 1999.
+
 [^23]: World Bank. "Pakistan Development Update." World Bank Group, 2007.
+
 [^24]: Zaidi, S. Akbar. "Issues in Pakistan's Economy: A Political Economy Perspective." Oxford University Press, 2015, p. 198-203.
+
 [^25]: "Pakistan's Economy Under Musharraf." International Crisis Group Asia Report No. 134, February 28, 2007.
+
 [^26]: "Pakistan Economic Survey 2006-07." Government of Pakistan Finance Division.
+
 [^27]: Yusuf, Moeed. "Prospects of Youth Radicalization in Pakistan." Brookings Institution, October 2008.
+
 [^28]: "Women's Political Participation in Pakistan." United Nations Development Programme, 2012.
+
 [^29]: Mezzera, Marco and Safiya Aftab. "Pakistan State-Society Analysis." Netherlands Institute of International Relations, 2009, p. 45.
+
 [^30]: Khan, Nichola. "Mohajir Militancy in Pakistan: Violence and Transformation in the Karachi Conflict." Routledge, 2010, p. 167.
+
 [^31]: Fair, C. Christine. "Fighting to the End: The Pakistan Army's Way of War." Oxford University Press, 2014, p. 221-224.
+
 [^32]: Jones, Owen Bennett. "Pakistan: Eye of the Storm." Yale University Press, 2009, p. 267-271.
+
 [^33]: Schaffer, Teresita and Howard Schaffer. "How Pakistan Negotiates with the United States." United States Institute of Peace Press, 2011, p. 134-137.
+
 [^34]: "The Musharraf-Manmohan Peace Process." The Hindu, February 7, 2023.
+
 [^35]: "Gwadar Port: A New Hub of Activities." Pakistan & Gulf Economist, July 2007.
+
 [^36]: Hoodbhoy, Pervez. "Pakistan's Higher Education System—What Went Wrong and How to Fix It." The Pakistan Development Review, 2009.
+
 [^37]: International Crisis Group. "Devolution in Pakistan: Reform or Regression?" Asia Report No. 77, March 22, 2004.
+
 [^38]: Newberg, Paula. "Judging the State: Courts and Constitutional Politics in Pakistan." Cambridge University Press, 1995, p. 234-237.
+
 [^39]: "Musharraf's Uniform: The Constitutional Crisis." Herald Magazine, November 2007.
+
 [^40]: Gall, Carlotta. "The Wrong Enemy: America in Afghanistan, 2001-2014." Houghton Mifflin Harcourt, 2014, p. 187-192.
+
 [^41]: "Benazir Bhutto Assassination: Questions Remain." Al Jazeera, December 27, 2017.
+
 [^42]: "Pakistan's Judiciary: Broken but Defiant." International Crisis Group Asia Briefing No. 79, March 31, 2008.
+
 [^43]: "Emergency Rule in Pakistan." Human Rights Watch, November 2007.
+
 [^44]: "Balochistan: The Forgotten Conflict." Amnesty International, 2011.
+
 [^45]: "Death of Nawab Akbar Bugti." BBC News, August 26, 2006.
+
 [^46]: "We Can Torture, Kill, or Keep You for Years: Enforced Disappearances by Pakistan Security Forces in Balochistan." Human Rights Watch, July 2011.
+
 [^47]: "Pakistan's Red Mosque: Siege and Aftermath." Council on Foreign Relations, July 2007.
+
 [^48]: "The Siege of Lal Masjid." Dawn, July 10, 2017.
+
 [^49]: Ali, Imran. "The Punjab Under Imperialism, 1885-1947." Oxford University Press, 2003, p. 312.
+
 [^50]: Zaidi, "Issues in Pakistan's Economy," p. 223-227.
+
 [^51]: Husain, Ishrat. "Pakistan: The Economy of an Elitist State." Oxford University Press, 1999, p. 289-292.
+
 [^52]: Musharraf, "In the Line of Fire," p. 63.
+
 [^53]: "Profile: Sehba Musharraf." The Express Tribune, February 6, 2023.
+
 [^54]: "Musharraf's Family: Life Away from Politics." Dawn, February 5, 2023.
+
 [^55]: Musharraf, "In the Line of Fire," p. 312.
+
 [^56]: "Musharraf and His Dogs: A Controversial Affection." The Friday Times, April 2008.
+
 [^57]: "The General Who Loved Golf." The News International, February 6, 2023.
+
 [^58]: "Musharraf's Undiplomatic Moments." Foreign Policy, March 2013.
+
 [^59]: Musharraf, "In the Line of Fire," various passages.
+
 [^60]: "Pervez Musharraf's Long Illness." The New York Times, February 5, 2023.
+
 [^61]: "Musharraf Wants to Return Home." Geo News, January 2023.
+
 [^62]: Lieven, Anatol. "Pakistan: A Hard Country." PublicAffairs, 2011, p. 198-201.
+
 [^63]: "Musharraf's Legacy: Pakistan Still Divided." Reuters, February 5, 2023.
+
 [^64]: "Musharraf Convicted of High Treason." Dawn, December 17, 2019.
+
 [^65]: Siddiqa, Ayesha. "Military Inc.: Inside Pakistan's Military Economy." Pluto Press, 2007, p. 256-259.
+
 [^66]: "Economic Nostalgia: Musharraf Years Remembered." The Express Tribune, October 12, 2019.
+
 [^67]: Noman, Omar. "Pakistan: A Political and Economic History Since 1947." Kegan Paul International, 1990, p. 267.
+
 [^68]: Rashid, "Descent into Chaos," p. 234-239.
+
 [^69]: Ganguly and Kapur, "India, Pakistan, and the Bomb," p. 156-158.
+
 [^70]: Cohen, Stephen P. "The Future of Pakistan." Brookings Institution Press, 2011, p. 87-92.
+
 [^71]: Rizvi, Hasan-Askari. "Military, State and Society in Pakistan." Palgrave Macmillan, 2000, p. 278-281.
+
 [^72]: "Pakistan Divided Over Musharraf's Death." Al Jazeera, February 6, 2023.
+
 [^73]: "Muted Response to Musharraf Death." The News International, February 6, 2023.
+
 [^74]: "Musharraf Denied Burial in Pakistan." Dawn, February 6, 2023.
+
 [^75]: Kux, Dennis. "The United States and Pakistan, 1947-2000: Disenchanted Allies." Johns Hopkins University Press, 2001, p. 356.
+
 [^76]: Jalal, Ayesha. "The State of Martial Rule." Cambridge University Press, 1990, p. 312.
+
 [^77]: "Telecommunications Revolution in Pakistan." Business Recorder, March 2008.
+
 [^78]: Easterly, William. "What Worked in Pakistan's Economy?" The Review of Income and Wealth, 2001.
+
 [^79]: Ahmed, Samina. "Pakistan's Nuclear Weapons Program: Turning Points and Nuclear Choices." International Security, Summer 1999.
+
 [^80]: "In Defense of Musharraf's War on Terror." Pakistan Today, July 2017.
+
 [^81]: Dixit, J.N. "India-Pakistan in War and Peace." Routledge, 2002, p. 289-292.
+
 [^82]: "Social Liberalism Under Musharraf." Herald Magazine, August 2008.
+
 [^83]: "The Musharraf Style." The Friday Times, October 2007.
+
 [^84]: Lau, Martin. "The Role of Islam in the Legal System of Pakistan." Brill, 2006, p. 198-201.
+
 [^85]: "Human Rights Abuses in Pakistan 1999-2008." Amnesty International, 2009.
+
 [^86]: "Families of the Disappeared Demand Justice." The Express Tribune, December 2019.
+
 [^87]: "Bhutto Assassination: The Unanswered Questions." The Guardian, December 27, 2012.
+
 [^88]: Jalal, "The State of Martial Rule," p. 398-402.
+
 [^89]: Waseem, Mohammad. "Democratization in Pakistan: A Study of the 2002 Elections." Oxford University Press, 2006, p. 234-237.
+
 [^90]: Zaidi, "Issues in Pakistan's Economy," p. 267-271.
+
 [^91]: Haq, Mahbub ul. "Human Development in South Asia." Oxford University Press, 1999, p. 189.
+
 [^92]: Woods, Chris and Alice Ross. "Drone Strikes in Pakistan." Bureau of Investigative Journalism, 2014.
+
 [^93]: Gall, "The Wrong Enemy," p. 276-281.
+
 [^94]: "Musharraf Quotes That Came Back to Haunt Him." The Express Tribune, February 5, 2023.
+
 [^95]: Musharraf, "In the Line of Fire," p. 201.
+
 [^96]: Musharraf, "In the Line of Fire," p. 12.
+
 [^97]: "Musharraf on Terrorism." CNN Interview, September 2006.
+
 [^98]: "Musharraf-Manmohan Singh Joint Press Conference." The Hindu, April 2005.
+
 [^99]: "Musharraf Interview: No Regrets." Al Jazeera English, November 2013.

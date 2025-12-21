@@ -183,29 +183,29 @@ The verdict of history is clear: Nicholas I's thirty-year reign represented a tr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1796 | Born July 6 at Tsarskoye Selo, Russia |
-| 1800 | General Lamsdorf appointed as tutor |
-| 1802 | Formal education begins |
-| 1814 | Joins Russian army during Napoleonic Wars |
-| 1816 | Educational tour of Russia; visits England |
-| 1817 | Marries Princess Charlotte of Prussia (Alexandra Feodorovna) on July 13 |
-| 1818 | Birth of son Alexander (future Alexander II) |
-| 1825 | Death of Alexander I (December 1); Decembrist Revolt (December 14); Accession to throne (December 25) |
-| 1826 | Execution of five Decembrist leaders; Establishment of Third Section (secret police) |
-| 1826-28 | Russo-Persian War; acquisition of Armenia and Azerbaijan |
-| 1828-29 | Russo-Turkish War; expansion in Balkans |
-| 1830-31 | November Uprising in Poland; brutal suppression |
-| 1833 | Proclamation of "Official Nationality" ideology; codification of laws completed |
-| 1837 | Count Kiselev appointed to reform state peasants |
-| 1838 | First Russian railroad completed |
-| 1848 | Revolutions across Europe; Nicholas aids Austrian Empire in suppressing Hungarian revolution; intensified repression in Russia |
-| 1849 | Suppression of Petrashevsky Circle |
-| 1851 | St. Petersburg-Moscow railway completed |
-| 1853 | Ottoman Empire declares war on Russia (October 8); beginning of Crimean War |
-| 1854 | Britain and France enter Crimean War against Russia |
-| 1855 | Dies March 2 at Winter Palace, St. Petersburg, during Crimean War |
+| Year    | Event                                                                                                                          |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1796    | Born July 6 at Tsarskoye Selo, Russia                                                                                          |
+| 1800    | General Lamsdorf appointed as tutor                                                                                            |
+| 1802    | Formal education begins                                                                                                        |
+| 1814    | Joins Russian army during Napoleonic Wars                                                                                      |
+| 1816    | Educational tour of Russia; visits England                                                                                     |
+| 1817    | Marries Princess Charlotte of Prussia (Alexandra Feodorovna) on July 13                                                        |
+| 1818    | Birth of son Alexander (future Alexander II)                                                                                   |
+| 1825    | Death of Alexander I (December 1); Decembrist Revolt (December 14); Accession to throne (December 25)                          |
+| 1826    | Execution of five Decembrist leaders; Establishment of Third Section (secret police)                                           |
+| 1826-28 | Russo-Persian War; acquisition of Armenia and Azerbaijan                                                                       |
+| 1828-29 | Russo-Turkish War; expansion in Balkans                                                                                        |
+| 1830-31 | November Uprising in Poland; brutal suppression                                                                                |
+| 1833    | Proclamation of "Official Nationality" ideology; codification of laws completed                                                |
+| 1837    | Count Kiselev appointed to reform state peasants                                                                               |
+| 1838    | First Russian railroad completed                                                                                               |
+| 1848    | Revolutions across Europe; Nicholas aids Austrian Empire in suppressing Hungarian revolution; intensified repression in Russia |
+| 1849    | Suppression of Petrashevsky Circle                                                                                             |
+| 1851    | St. Petersburg-Moscow railway completed                                                                                        |
+| 1853    | Ottoman Empire declares war on Russia (October 8); beginning of Crimean War                                                    |
+| 1854    | Britain and France enter Crimean War against Russia                                                                            |
+| 1855    | Dies March 2 at Winter Palace, St. Petersburg, during Crimean War                                                              |
 
 ---
 
@@ -226,79 +226,155 @@ The verdict of history is clear: Nicholas I's thirty-year reign represented a tr
 ## References
 
 [^1]: [Nicholas I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Nicholas_I_of_Russia)
+
 [^2]: [Nicholas I | Biography, Facts, & Accomplishments | Britannica](https://www.britannica.com/biography/Nicholas-I-tsar-of-Russia)
+
 [^3]: [Nicholas I, Emperor of All Russia | Unofficial Royalty](https://www.unofficialroyalty.com/emperor-nicholas-i-of-russia/)
+
 [^4]: [Nicholas I Of Russia Biography - The Famous People](https://www.thefamouspeople.com/profiles/nicholas-i-of-russia-8450.php)
+
 [^5]: [Biography of Emperor Nicholas I of Russia](http://www.saint-petersburg.com/royal-family/nicholas-i/)
+
 [^6]: [Nicholas I (russia) | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/nicholas-i-russia)
+
 [^7]: [Nicholas I | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/nicholas-i)
+
 [^8]: [Birth of Emperor Nicholas I | Presidential Library](https://www.prlib.ru/en/history/619361)
+
 [^9]: [Nicholas I of Russia facts for kids](https://kids.kiddle.co/Nicholas_I_of_Russia)
-[^10]: [Alexandra Feodorovna (Charlotte of Prussia) - Wikipedia](https://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Charlotte_of_Prussia))
+
+[^10]: [Alexandra Feodorovna (Charlotte of Prussia) - Wikipedia](<https://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Charlotte_of_Prussia)>)
+
 [^11]: [Tsar Nicholas I with wife Alexandra Feodorovna | Hood Museum](https://hoodmuseum.dartmouth.edu/objects/pr.958.345.3)
+
 [^12]: [Russian interregnum of 1825 - Wikipedia](https://en.wikipedia.org/wiki/Russian_interregnum_of_1825)
+
 [^13]: [Nicholas I - Autocrat, Reforms, Crimean War | Britannica](https://www.britannica.com/biography/Nicholas-I-tsar-of-Russia/Ascent-to-the-throne)
+
 [^14]: [Nicholas I summary | Britannica](https://www.britannica.com/summary/Nicholas-I-tsar-of-Russia)
+
 [^15]: [Decembrist revolt - Wikipedia](https://en.wikipedia.org/wiki/Decembrist_revolt)
+
 [^16]: [Nikolai I's Rule & the Decembrist Revolt | Study.com](https://study.com/academy/lesson/nikolai-is-rule-the-december-revolt.html)
+
 [^17]: [The Decembrist Revolt of 1825 | Dayhist](https://dayhist.com/events/decmbrst-revolt-1825)
+
 [^18]: [Nicholas I's Crackdown | Illuminating Facts](https://illuminatingfacts.com/nicholas-i-crackdown-decembrist-revolt-rise-of-russian-conservatism/)
+
 [^19]: [Decembrist Revolt | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/decembrist-revolt)
+
 [^20]: [Fathers of Russian Liberalism: Decembrist Revolt | Isonomia Quarterly](https://isonomiaquarterly.com/archive/volume-3-issue-3/fathers-of-russian-liberalism-bicentennial-reflections-on-the-1825-decembrist-revolt/)
+
 [^21]: [Russian Empire - Autocracy, Reforms, Nicholas I | Britannica](https://www.britannica.com/place/Russian-Empire/Nicholas-I)
+
 [^22]: [Nicholas I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Nicholas_I_of_Russia)
+
 [^23]: [Nicholas I - Blog & Alexander Palace Time Machine](https://www.alexanderpalace.org/palace/NickolasPavlovich.php)
+
 [^24]: [Nicholas I Of Russia Biography - The Famous People](https://www.thefamouspeople.com/profiles/nicholas-i-of-russia-8450.php)
+
 [^25]: [Nicholas I - Autocracy, Reforms, Crimean War | Britannica](https://www.britannica.com/biography/Nicholas-I-tsar-of-Russia/Reign)
+
 [^26]: [Tsar Nicholas I | Life, Reign, Legacy | History Worksheets](https://schoolhistory.co.uk/industrial/tsar-nicholas-i/)
+
 [^27]: [Nicholas I (russia) | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/nicholas-i-russia)
+
 [^28]: [Russian Empire - Autocracy, Reforms, Nicholas I | Britannica](https://www.britannica.com/place/Russian-Empire/Nicholas-I)
+
 [^29]: [Orthodoxy, Autocracy, and Nationality](https://grokipedia.com/page/Orthodoxy,_Autocracy,_and_Nationality)
+
 [^30]: [Tsar Nicholas I - AP European History | Fiveable](https://library.fiveable.me/key-terms/ap-euro/tsar-nicholas-i)
+
 [^31]: [Nicholas I Quotes - Lib Quotes](https://libquotes.com/nicholas-i-of-russia)
+
 [^32]: [Nicholas I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Nicholas_I_of_Russia)
+
 [^33]: [The Autocrat: Nicholas I and Russia's Lost Years - Institute of Modern Russia](https://imrussia.org/en/nation/638-the-autocrat-nicholas-i-and-russias-lost-years)
+
 [^34]: [Russian Empire - Autocracy, Reforms, Nicholas I | Britannica](https://www.britannica.com/place/Russian-Empire/Nicholas-I)
+
 [^35]: [Nicholas I - Autocracy, Reforms, Crimean War | Britannica](https://www.britannica.com/biography/Nicholas-I-tsar-of-Russia/Reign)
+
 [^36]: [Nicholas I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Nicholas_I_of_Russia)
+
 [^37]: [Nicholas I (russia) | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/nicholas-i-russia)
+
 [^38]: [Nicholas I | GlobalSecurity.org](https://www.globalsecurity.org/military/world/russia/czar-nicholas-i.htm)
+
 [^39]: [1 Autocracy in crisis: Nicholas the last](https://nottingham-repository.worktribe.com/OutputFile/4630683)
+
 [^40]: [Nicholas I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Nicholas_I_of_Russia)
+
 [^41]: [The Wars of Nicholas I | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-wars-of-nicholas-i/)
+
 [^42]: [Foreign Policy of Nicholas I | GlobalSecurity.org](https://www.globalsecurity.org/military/world/russia/czar-nicholas-i-policy.htm)
+
 [^43]: [Czar Nicholas I | The Crimean War - Brandeis University](https://www.brandeis.edu/library/archives/exhibits/crimean-war/czar-nicholas-i.html)
+
 [^44]: [Nicholas I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Nicholas_I_of_Russia)
+
 [^45]: [Russian Empire - Autocracy, Reforms, Nicholas I | Britannica](https://www.britannica.com/place/Russian-Empire/Nicholas-I)
+
 [^46]: [Tsar Nicholas I | Life, Reign, Legacy | History Worksheets](https://schoolhistory.co.uk/industrial/tsar-nicholas-i/)
-[^47]: [Alexandra Feodorovna (Charlotte of Prussia) - Wikipedia](https://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Charlotte_of_Prussia))
+
+[^47]: [Alexandra Feodorovna (Charlotte of Prussia) - Wikipedia](<https://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Charlotte_of_Prussia)>)
+
 [^48]: [Nicholas I, Emperor of All Russia | Unofficial Royalty](https://www.unofficialroyalty.com/emperor-nicholas-i-of-russia/)
+
 [^49]: [Nicholas I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Nicholas_I_of_Russia)
+
 [^50]: [Nicholas I | Biography, Facts, & Accomplishments | Britannica](https://www.britannica.com/biography/Nicholas-I-tsar-of-Russia)
+
 [^51]: [Nicholas I (russia) | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/nicholas-i-russia)
+
 [^52]: [Nicholas I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Nicholas_I_of_Russia)
+
 [^53]: [Nicholas I of Russia - Wikipedia](https://en.wikipedia.org/wiki/Nicholas_I_of_Russia)
+
 [^54]: [The Wars of Nicholas I | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-wars-of-nicholas-i/)
+
 [^55]: [Crimean War - Wikipedia](https://en.wikipedia.org/wiki/Crimean_War)
+
 [^56]: [The Autocrat: Nicholas I and Russia's Lost Years - Institute of Modern Russia](https://imrussia.org/en/nation/638-the-autocrat-nicholas-i-and-russias-lost-years)
+
 [^57]: [Nicholas I | Biography, Facts, & Accomplishments | Britannica](https://www.britannica.com/biography/Nicholas-I-tsar-of-Russia)
+
 [^58]: [Nicholas I (russia) | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/nicholas-i-russia)
+
 [^59]: [Foreign Policy of Nicholas I | GlobalSecurity.org](https://www.globalsecurity.org/military/world/russia/czar-nicholas-i-policy.htm)
+
 [^60]: [Nicholas I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Nicholas_I_of_Russia)
+
 [^61]: [Russian Empire - Autocracy, Reforms, Nicholas I | Britannica](https://www.britannica.com/place/Russian-Empire/Nicholas-I)
+
 [^62]: [Orthodoxy, Autocracy, and Nationality](https://grokipedia.com/page/Orthodoxy,_Autocracy,_and_Nationality)
+
 [^63]: [Nicholas I (russia) | Encyclopedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/nicholas-i-russia)
+
 [^64]: [Tsar Nicholas I | Life, Reign, Legacy | History Worksheets](https://schoolhistory.co.uk/industrial/tsar-nicholas-i/)
+
 [^65]: [Nicholas I - Blog & Alexander Palace Time Machine](https://www.alexanderpalace.org/palace/NickolasPavlovich.php)
+
 [^66]: [Russian Empire - Autocracy, Reforms, Nicholas I | Britannica](https://www.britannica.com/place/Russian-Empire/Nicholas-I)
+
 [^67]: [The Autocrat: Nicholas I and Russia's Lost Years - Institute of Modern Russia](https://imrussia.org/en/nation/638-the-autocrat-nicholas-i-and-russias-lost-years)
+
 [^68]: [Russian Empire - Autocracy, Reforms, Nicholas I | Britannica](https://www.britannica.com/place/Russian-Empire/Nicholas-I)
+
 [^69]: [The Wars of Nicholas I | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-wars-of-nicholas-i/)
+
 [^70]: [Nicholas I of Russia - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Nicholas_I_of_Russia)
+
 [^71]: [Tsar Nicholas I | Life, Reign, Legacy | History Worksheets](https://schoolhistory.co.uk/industrial/tsar-nicholas-i/)
+
 [^72]: [Nicholas I | Biography, Facts, & Accomplishments | Britannica](https://www.britannica.com/biography/Nicholas-I-tsar-of-Russia)
+
 [^73]: [Czar Nicholas I Quotes - Inspirational Stories](https://www.inspirationalstories.com/quotes/czar-nicholas-i-i-do-not-rule-russia-10000-clerks/)
+
 [^74]: [Nicholas I of Russia - Wikiquote](https://en.wikiquote.org/wiki/Nicholas_I_of_Russia)
+
 [^75]: [Nicholas I Quotes - Lib Quotes](https://libquotes.com/nicholas-i-of-russia)
+
 [^76]: [Nicholas I of Russia - Wikiquote](https://en.wikiquote.org/wiki/Nicholas_I_of_Russia)
+
 [^77]: [Russian Revolution quotations](https://alphahistory.com/russianrevolution/russian-revolution-quotations/)

@@ -1,0 +1,162 @@
+[
+    {
+        "id": "gwangju-uprising-1980",
+        "name": "Gwangju Uprising",
+        "coordinates": [
+            126.8526,
+            35.1595
+        ]
+    },
+    {
+        "id": "tiananmen-square-1989",
+        "name": "Tiananmen Square Protests",
+        "coordinates": [
+            116.4074,
+            39.9042
+        ]
+    },
+    {
+        "id": "egyptian-revolution-2011",
+        "name": "Egyptian Revolution",
+        "coordinates": [
+            31.2357,
+            30.0444
+        ]
+    },
+    {
+        "id": "euromaidan-2014",
+        "name": "Euromaidan",
+        "coordinates": [
+            30.5234,
+            50.4501
+        ]
+    },
+    {
+        "id": "tunisian-revolution-2011",
+        "name": "Tunisian Revolution",
+        "coordinates": [
+            10.1815,
+            36.8065
+        ]
+    },
+    {
+        "id": "romania-revolution-1989",
+        "name": "Romanian Revolution",
+        "coordinates": [
+            26.1025,
+            44.4268
+        ]
+    },
+    {
+        "id": "iran-islamic-revolution-1979",
+        "name": "Iranian Revolution",
+        "coordinates": [
+            51.3890,
+            35.6892
+        ]
+    },
+    {
+        "id": "people-power-revolution-1986",
+        "name": "People Power Revolution",
+        "coordinates": [
+            120.9842,
+            14.5995
+        ]
+    },
+    {
+        "id": "argentina-dirty-war-1976",
+        "name": "Dirty War",
+        "coordinates": [
+            -58.3816,
+            -34.6037
+        ]
+    },
+    {
+        "id": "chilean-coup-1973",
+        "name": "1973 Chilean Coup",
+        "coordinates": [
+            -70.6693,
+            -33.4489
+        ]
+    },
+    {
+        "id": "hungarian-revolution-1956",
+        "name": "Hungarian Revolution",
+        "coordinates": [
+            19.0402,
+            47.4979
+        ]
+    },
+    {
+        "id": "prague-spring-1968",
+        "name": "Prague Spring",
+        "coordinates": [
+            14.4378,
+            50.0755
+        ]
+    },
+    {
+        "id": "usa-george-floyd-protests-2020",
+        "name": "George Floyd Protests",
+        "coordinates": [
+            -93.2650,
+            44.9778
+        ]
+    },
+    {
+        "id": "hong-kong-protests-2019",
+        "name": "Hong Kong Protests",
+        "coordinates": [
+            114.1694,
+            22.3193
+        ]
+    },
+    {
+        "id": "myanmar-coup-2021",
+        "name": "Myanmar Coup",
+        "coordinates": [
+            96.0785,
+            19.7633
+        ]
+    },
+    {
+        "id": "thai-protests-2020",
+        "name": "Thai Protests",
+        "coordinates": [
+            100.5018,
+            13.7563
+        ]
+    },
+    {
+        "id": "france-yellow-vests-2018",
+        "name": "Yellow Vests Protests",
+        "coordinates": [
+            2.3522,
+            48.8566
+        ]
+    },
+    {
+        "id": "brazil-1964-coup",
+        "name": "1964 Brazilian Coup",
+        "coordinates": [
+            -47.9218,
+            -15.8267
+        ]
+    },
+    {
+        "id": "419-revolution",
+        "name": "April Revolution",
+        "coordinates": [
+            126.9780,
+            37.5665
+        ]
+    },
+    {
+        "id": "june-democratic-uprising",
+        "name": "June Democratic Struggle",
+        "coordinates": [
+            126.9780,
+            37.5665
+        ]
+    }
+]

@@ -145,28 +145,28 @@ Personal critics note that Schmidt's arrogance and intellectual elitism alienate
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1918 | Born December 23 in Hamburg, Germany |
-| 1937 | Conscripted into Wehrmacht |
-| 1942 | Married Hannelore "Loki" Glaser |
-| 1945 | Captured by British forces; became prisoner of war |
-| 1946 | Joined Social Democratic Party (SPD) |
-| 1949 | Completed economics degree at University of Hamburg |
-| 1953 | Elected to Hamburg parliament |
-| 1961 | Elected to Bundestag |
-| 1962 | Coordinated emergency response to North Sea flood |
-| 1969 | Became chairman of SPD parliamentary group |
-| 1972 | Appointed Minister of Economics and Finance |
+| Year | Event                                                                               |
+| ---- | ----------------------------------------------------------------------------------- |
+| 1918 | Born December 23 in Hamburg, Germany                                                |
+| 1937 | Conscripted into Wehrmacht                                                          |
+| 1942 | Married Hannelore "Loki" Glaser                                                     |
+| 1945 | Captured by British forces; became prisoner of war                                  |
+| 1946 | Joined Social Democratic Party (SPD)                                                |
+| 1949 | Completed economics degree at University of Hamburg                                 |
+| 1953 | Elected to Hamburg parliament                                                       |
+| 1961 | Elected to Bundestag                                                                |
+| 1962 | Coordinated emergency response to North Sea flood                                   |
+| 1969 | Became chairman of SPD parliamentary group                                          |
+| 1972 | Appointed Minister of Economics and Finance                                         |
 | 1974 | Became Minister of Finance; became Chancellor in May following Brandt's resignation |
-| 1975 | Participated in first G7 summit at Rambouillet |
-| 1977 | Handled German Autumn terrorism crisis; gave London speech on SS-20 missiles |
-| 1979 | NATO double-track decision; creation of European Monetary System |
-| 1980 | Re-elected as Chancellor |
-| 1982 | Lost chancellorship through constructive vote of no confidence in October |
-| 1983 | Became co-publisher of Die Zeit newspaper |
-| 2010 | Wife Loki died in October |
-| 2015 | Died November 10 in Hamburg at age 96 |
+| 1975 | Participated in first G7 summit at Rambouillet                                      |
+| 1977 | Handled German Autumn terrorism crisis; gave London speech on SS-20 missiles        |
+| 1979 | NATO double-track decision; creation of European Monetary System                    |
+| 1980 | Re-elected as Chancellor                                                            |
+| 1982 | Lost chancellorship through constructive vote of no confidence in October           |
+| 1983 | Became co-publisher of Die Zeit newspaper                                           |
+| 2010 | Wife Loki died in October                                                           |
+| 2015 | Died November 10 in Hamburg at age 96                                               |
 
 ---
 
@@ -186,106 +186,106 @@ Personal critics note that Schmidt's arrogance and intellectual elitism alienate
 
 ## References
 
-[^1]: Soell, Hartmut. *Helmut Schmidt: 1918-1969, Vernunft und Leidenschaft*. Munich: Deutsche Verlags-Anstalt, 2003.
+[^1]: Soell, Hartmut. _Helmut Schmidt: 1918-1969, Vernunft und Leidenschaft_. Munich: Deutsche Verlags-Anstalt, 2003.
 
-[^2]: Schmidt, Helmut. *Childhood and Youth Under Hitler*. London: I.B. Tauris, 2016.
+[^2]: Schmidt, Helmut. _Childhood and Youth Under Hitler_. London: I.B. Tauris, 2016.
 
-[^3]: Carr, Jonathan. *Helmut Schmidt: Helmsman of Germany*. London: Weidenfeld and Nicolson, 1985.
+[^3]: Carr, Jonathan. _Helmut Schmidt: Helmsman of Germany_. London: Weidenfeld and Nicolson, 1985.
 
-[^4]: Pamperrien, Sabine. *Helmut Schmidt und der Scheißkrieg: Die Biografie 1918 bis 1945*. Munich: Piper, 2017.
+[^4]: Pamperrien, Sabine. _Helmut Schmidt und der Scheißkrieg: Die Biografie 1918 bis 1945_. Munich: Piper, 2017.
 
-[^5]: "Helmut Schmidt obituary." *The Guardian*, November 10, 2015.
+[^5]: "Helmut Schmidt obituary." _The Guardian_, November 10, 2015.
 
-[^6]: Wickert, Christoph. *Helmut Schmidt: Ein Leben für den Frieden*. Hamburg: Hoffmann und Campe, 2002.
+[^6]: Wickert, Christoph. _Helmut Schmidt: Ein Leben für den Frieden_. Hamburg: Hoffmann und Campe, 2002.
 
 [^7]: James, Harold. "Making the European Monetary Union." Harvard University Press, 2012.
 
-[^8]: "Helmut Schmidt, Former West German Chancellor, Dies at 96." *The New York Times*, November 10, 2015.
+[^8]: "Helmut Schmidt, Former West German Chancellor, Dies at 96." _The New York Times_, November 10, 2015.
 
-[^9]: Schöllgen, Gregor. *Die Außenpolitik der Bundesrepublik Deutschland: Von den Anfängen bis zur Gegenwart*. Munich: C.H. Beck, 2013.
+[^9]: Schöllgen, Gregor. _Die Außenpolitik der Bundesrepublik Deutschland: Von den Anfängen bis zur Gegenwart_. Munich: C.H. Beck, 2013.
 
-[^10]: Mourlon-Druol, Emmanuel. *A Europe Made of Money: The Emergence of the European Monetary System*. Cornell University Press, 2012.
+[^10]: Mourlon-Druol, Emmanuel. _A Europe Made of Money: The Emergence of the European Monetary System_. Cornell University Press, 2012.
 
-[^11]: Aust, Stefan. *The Baader-Meinhof Complex*. London: Bodley Head, 2008.
+[^11]: Aust, Stefan. _The Baader-Meinhof Complex_. London: Bodley Head, 2008.
 
-[^12]: Wiegrefe, Klaus. *Das Zerwürfnis: Helmut Schmidt, Jimmy Carter und die Krise der deutsch-amerikanischen Beziehungen*. Berlin: Propyläen, 2005.
+[^12]: Wiegrefe, Klaus. _Das Zerwürfnis: Helmut Schmidt, Jimmy Carter und die Krise der deutsch-amerikanischen Beziehungen_. Berlin: Propyläen, 2005.
 
-[^13]: Hajnal, Peter. *The G7/G8 System: Evolution, Role and Documentation*. Ashgate Publishing, 2007.
+[^13]: Hajnal, Peter. _The G7/G8 System: Evolution, Role and Documentation_. Ashgate Publishing, 2007.
 
-[^14]: Glaeßner, Gert-Joachim. *The Unification Process in Germany: From Dictatorship to Democracy*. Pinter Publishers, 1992.
+[^14]: Glaeßner, Gert-Joachim. _The Unification Process in Germany: From Dictatorship to Democracy_. Pinter Publishers, 1992.
 
-[^15]: Radkau, Joachim. *The Age of Ecology*. Cambridge: Polity Press, 2014.
+[^15]: Radkau, Joachim. _The Age of Ecology_. Cambridge: Polity Press, 2014.
 
-[^16]: Boutwell, Jeffrey, et al. *The Nuclear Confrontation in Europe*. London: Croom Helm, 1985.
+[^16]: Boutwell, Jeffrey, et al. _The Nuclear Confrontation in Europe_. London: Croom Helm, 1985.
 
-[^17]: Streeck, Wolfgang. "The Crises of Democratic Capitalism." *New Left Review*, 71, September-October 2011.
+[^17]: Streeck, Wolfgang. "The Crises of Democratic Capitalism." _New Left Review_, 71, September-October 2011.
 
-[^18]: Wesel, Uwe. *Der Gang nach Karlsruhe: Das Bundesverfassungsgericht in der Geschichte der Bundesrepublik*. Munich: Karl Blessing Verlag, 2004.
+[^18]: Wesel, Uwe. _Der Gang nach Karlsruhe: Das Bundesverfassungsgericht in der Geschichte der Bundesrepublik_. Munich: Karl Blessing Verlag, 2004.
 
-[^19]: "How Helmut Schmidt shaped modern Germany." *Deutsche Welle*, November 10, 2015.
+[^19]: "How Helmut Schmidt shaped modern Germany." _Deutsche Welle_, November 10, 2015.
 
-[^20]: Hofmann, Gunter. "Helmut Schmidt: Der Polterer." *Die Zeit*, November 12, 2015.
+[^20]: Hofmann, Gunter. "Helmut Schmidt: Der Polterer." _Die Zeit_, November 12, 2015.
 
-[^21]: Schmidt, Helmut. *Menschen und Mächte*. Berlin: Siedler Verlag, 1987.
+[^21]: Schmidt, Helmut. _Menschen und Mächte_. Berlin: Siedler Verlag, 1987.
 
-[^22]: "Hannelore Schmidt, wife of former German chancellor, dies." *The Guardian*, October 22, 2010.
+[^22]: "Hannelore Schmidt, wife of former German chancellor, dies." _The Guardian_, October 22, 2010.
 
-[^23]: Schmidt, Helmut. *A Grand Strategy for the West*. Yale University Press, 1985.
+[^23]: Schmidt, Helmut. _A Grand Strategy for the West_. Yale University Press, 1985.
 
-[^24]: Schmidt, Helmut. *Men and Powers: A Political Retrospective*. Random House, 1989.
+[^24]: Schmidt, Helmut. _Men and Powers: A Political Retrospective_. Random House, 1989.
 
-[^25]: Sontheimer, Kurt. *The Government and Politics of West Germany*. Hutchinson, 1972.
+[^25]: Sontheimer, Kurt. _The Government and Politics of West Germany_. Hutchinson, 1972.
 
-[^26]: Schmidt, Helmut. *The Powers to Come*. Die Zeit, 2004.
+[^26]: Schmidt, Helmut. _The Powers to Come_. Die Zeit, 2004.
 
-[^27]: Ash, Timothy Garton. *In Europe's Name: Germany and the Divided Continent*. New York: Random House, 1993.
+[^27]: Ash, Timothy Garton. _In Europe's Name: Germany and the Divided Continent_. New York: Random House, 1993.
 
-[^28]: Drake, Helen. "The European Commission and the Politics of Legitimacy in the European Union." In *The Legitimacy of the European Union After Enlargement*, edited by Finn Laursen. Stockholm: SIEPS, 2006.
+[^28]: Drake, Helen. "The European Commission and the Politics of Legitimacy in the European Union." In _The Legitimacy of the European Union After Enlargement_, edited by Finn Laursen. Stockholm: SIEPS, 2006.
 
-[^29]: Allen, Christopher. "The Underdevelopment of Keynesianism in the Federal Republic of Germany." In *The Political Power of Economic Ideas*, edited by Peter Hall. Princeton University Press, 1989.
+[^29]: Allen, Christopher. "The Underdevelopment of Keynesianism in the Federal Republic of Germany." In _The Political Power of Economic Ideas_, edited by Peter Hall. Princeton University Press, 1989.
 
-[^30]: Heuser, Beatrice. *NATO, Britain, France and the FRG: Nuclear Strategies and Forces for Europe, 1949-2000*. Basingstoke: Macmillan, 1997.
+[^30]: Heuser, Beatrice. _NATO, Britain, France and the FRG: Nuclear Strategies and Forces for Europe, 1949-2000_. Basingstoke: Macmillan, 1997.
 
-[^31]: "Helmut Schmidt: Germany's elder statesman." *BBC News*, November 10, 2015.
+[^31]: "Helmut Schmidt: Germany's elder statesman." _BBC News_, November 10, 2015.
 
-[^32]: Walter, Franz. *Die SPD: Vom Proletariat zur Neuen Mitte*. Berlin: Alexander Fest Verlag, 2002.
+[^32]: Walter, Franz. _Die SPD: Vom Proletariat zur Neuen Mitte_. Berlin: Alexander Fest Verlag, 2002.
 
-[^33]: Markovits, Andrei, and Philip Gorski. *The German Left: Red, Green and Beyond*. New York: Oxford University Press, 1993.
+[^33]: Markovits, Andrei, and Philip Gorski. _The German Left: Red, Green and Beyond_. New York: Oxford University Press, 1993.
 
-[^34]: Judt, Tony. *Postwar: A History of Europe Since 1945*. New York: Penguin Press, 2005.
+[^34]: Judt, Tony. _Postwar: A History of Europe Since 1945_. New York: Penguin Press, 2005.
 
-[^35]: Schöllgen, Gregor. "Helmut Schmidt: The Crisis Chancellor." *German Politics and Society*, Vol. 34, No. 1, Spring 2016.
+[^35]: Schöllgen, Gregor. "Helmut Schmidt: The Crisis Chancellor." _German Politics and Society_, Vol. 34, No. 1, Spring 2016.
 
-[^36]: Wiegrefe, Klaus. "Schmidt's Economic Legacy." *Der Spiegel*, November 11, 2015.
+[^36]: Wiegrefe, Klaus. "Schmidt's Economic Legacy." _Der Spiegel_, November 11, 2015.
 
-[^37]: James, Harold. *Europe Reborn: A History, 1914-2000*. Harlow: Pearson, 2003.
+[^37]: James, Harold. _Europe Reborn: A History, 1914-2000_. Harlow: Pearson, 2003.
 
-[^38]: Ash, Timothy Garton. "Helmut Schmidt: The Man Who Saved German Democracy." *The New York Review of Books*, December 3, 2015.
+[^38]: Ash, Timothy Garton. "Helmut Schmidt: The Man Who Saved German Democracy." _The New York Review of Books_, December 3, 2015.
 
-[^39]: Pamperrien, Sabine. "The Intellectual Chancellor." *Frankfurter Allgemeine Zeitung*, November 11, 2015.
+[^39]: Pamperrien, Sabine. "The Intellectual Chancellor." _Frankfurter Allgemeine Zeitung_, November 11, 2015.
 
-[^40]: Joffe, Josef. "Helmut Schmidt: Architect of the West." *Foreign Affairs*, January/February 2016.
+[^40]: Joffe, Josef. "Helmut Schmidt: Architect of the West." _Foreign Affairs_, January/February 2016.
 
-[^41]: Streeck, Wolfgang. *Buying Time: The Delayed Crisis of Democratic Capitalism*. London: Verso, 2014.
+[^41]: Streeck, Wolfgang. _Buying Time: The Delayed Crisis of Democratic Capitalism_. London: Verso, 2014.
 
-[^42]: Radkau, Joachim. "Helmut Schmidt and the Environmental Movement." *Environmental History Review*, Vol. 20, No. 2, 1996.
+[^42]: Radkau, Joachim. "Helmut Schmidt and the Environmental Movement." _Environmental History Review_, Vol. 20, No. 2, 1996.
 
-[^43]: Wesel, Uwe. "The Price of Security: Schmidt's Anti-Terror Laws." *Kritische Justiz*, Vol. 40, No. 3, 2007.
+[^43]: Wesel, Uwe. "The Price of Security: Schmidt's Anti-Terror Laws." _Kritische Justiz_, Vol. 40, No. 3, 2007.
 
-[^44]: Buro, Andreas. "The Peace Movement and Helmut Schmidt." In *Protest in West Germany*, edited by Richard Staar. Stanford: Hoover Institution Press, 1984.
+[^44]: Buro, Andreas. "The Peace Movement and Helmut Schmidt." In _Protest in West Germany_, edited by Richard Staar. Stanford: Hoover Institution Press, 1984.
 
-[^45]: Walter, Franz. "Schmidt and the SPD: A Difficult Relationship." *Neue Gesellschaft/Frankfurter Hefte*, Vol. 62, No. 12, 2015.
+[^45]: Walter, Franz. "Schmidt and the SPD: A Difficult Relationship." _Neue Gesellschaft/Frankfurter Hefte_, Vol. 62, No. 12, 2015.
 
-[^46]: Horn, Gustav. "The Economic Legacy of Helmut Schmidt Reconsidered." *WSI Mitteilungen*, Vol. 68, No. 6, 2015.
+[^46]: Horn, Gustav. "The Economic Legacy of Helmut Schmidt Reconsidered." _WSI Mitteilungen_, Vol. 68, No. 6, 2015.
 
-[^47]: Hofmann, Gunter. "The Limits of Arrogance: Helmut Schmidt's Political Style." *Die Zeit*, November 19, 2015.
+[^47]: Hofmann, Gunter. "The Limits of Arrogance: Helmut Schmidt's Political Style." _Die Zeit_, November 19, 2015.
 
 [^48]: Schmidt, Helmut. Various speeches and interviews, commonly cited maxim.
 
-[^49]: Schmidt, Helmut. *Weggefährten: Erinnerungen und Reflexionen*. Berlin: Siedler, 1996.
+[^49]: Schmidt, Helmut. _Weggefährten: Erinnerungen und Reflexionen_. Berlin: Siedler, 1996.
 
 [^50]: Statement during press conference, October 1977, widely reported in German and international media.
 
-[^51]: Cited in Carr, Jonathan. *Helmut Schmidt: Helmsman of Germany*. 1985.
+[^51]: Cited in Carr, Jonathan. _Helmut Schmidt: Helmsman of Germany_. 1985.
 
-[^52]: Speech at Harvard University, 1979, reported in *The Boston Globe*, September 8, 1979.
+[^52]: Speech at Harvard University, 1979, reported in _The Boston Globe_, September 8, 1979.

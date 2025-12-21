@@ -274,36 +274,36 @@ The negative historical assessment has become increasingly dominant, particularl
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1941 | Born December 19 in Osaka, Japan, given Japanese name Akihiro Tsukiyama |
-| 1945 | Family returns to Korea after WWII, shipwrecked off Tsushima Island |
-| 1961 | Enrolls at Korea University, works as garbage collector to pay tuition |
+| Year | Event                                                                              |
+| ---- | ---------------------------------------------------------------------------------- |
+| 1941 | Born December 19 in Osaka, Japan, given Japanese name Akihiro Tsukiyama            |
+| 1945 | Family returns to Korea after WWII, shipwrecked off Tsushima Island                |
+| 1961 | Enrolls at Korea University, works as garbage collector to pay tuition             |
 | 1964 | Imprisoned for participating in student protests against Japan-Korea normalization |
-| 1965 | Joins Hyundai Construction company with fewer than 100 employees |
-| 1970 | Marries Kim Yoon-ok on his 29th birthday (December 19) |
-| 1970 | Becomes company director at Hyundai at age 29 |
-| 1977 | Named CEO of Hyundai Construction at age 35, youngest CEO in Korean history |
-| 1988 | Elevated to chairman of Hyundai Construction at age 47 |
-| 1992 | Resigns from Hyundai after 27 years; company now employs 160,000 |
-| 1992 | Elected to 14th Korean National Assembly (proportional representation) |
-| 2002 | Elected mayor of Seoul, serves until 2006 |
-| 2005 | Completes Cheonggyecheon stream restoration project in Seoul |
-| 2007 | Named TIME magazine "Hero of the Environment" |
-| 2007 | Wins presidential election in landslide on December 19 (his 66th birthday) |
-| 2008 | Inaugurated as 10th President of South Korea on February 25 |
-| 2008 | Global financial crisis begins; Lee implements stabilization measures |
-| 2009 | Launches "Green New Deal" and Four Rivers Project in January |
-| 2010 | March: Cheonan warship sinking kills 46 South Korean sailors |
-| 2010 | November: North Korean artillery bombardment of Yeonpyeong Island |
-| 2010 | November: Hosts G-20 Seoul Summit, first non-G7 nation to host |
-| 2011 | Four Rivers Project declared complete on October 21 |
-| 2012 | KORUS Free Trade Agreement fully implemented |
-| 2013 | Completes presidential term on February 24 |
-| 2018 | Arrested on corruption charges on March 22 |
-| 2018 | Convicted and sentenced to 15 years in prison on October 5 |
-| 2020 | Supreme Court upholds 17-year sentence on October 29 |
-| 2022 | Granted special presidential pardon on December 27 |
+| 1965 | Joins Hyundai Construction company with fewer than 100 employees                   |
+| 1970 | Marries Kim Yoon-ok on his 29th birthday (December 19)                             |
+| 1970 | Becomes company director at Hyundai at age 29                                      |
+| 1977 | Named CEO of Hyundai Construction at age 35, youngest CEO in Korean history        |
+| 1988 | Elevated to chairman of Hyundai Construction at age 47                             |
+| 1992 | Resigns from Hyundai after 27 years; company now employs 160,000                   |
+| 1992 | Elected to 14th Korean National Assembly (proportional representation)             |
+| 2002 | Elected mayor of Seoul, serves until 2006                                          |
+| 2005 | Completes Cheonggyecheon stream restoration project in Seoul                       |
+| 2007 | Named TIME magazine "Hero of the Environment"                                      |
+| 2007 | Wins presidential election in landslide on December 19 (his 66th birthday)         |
+| 2008 | Inaugurated as 10th President of South Korea on February 25                        |
+| 2008 | Global financial crisis begins; Lee implements stabilization measures              |
+| 2009 | Launches "Green New Deal" and Four Rivers Project in January                       |
+| 2010 | March: Cheonan warship sinking kills 46 South Korean sailors                       |
+| 2010 | November: North Korean artillery bombardment of Yeonpyeong Island                  |
+| 2010 | November: Hosts G-20 Seoul Summit, first non-G7 nation to host                     |
+| 2011 | Four Rivers Project declared complete on October 21                                |
+| 2012 | KORUS Free Trade Agreement fully implemented                                       |
+| 2013 | Completes presidential term on February 24                                         |
+| 2018 | Arrested on corruption charges on March 22                                         |
+| 2018 | Convicted and sentenced to 15 years in prison on October 5                         |
+| 2020 | Supreme Court upholds 17-year sentence on October 29                               |
+| 2022 | Granted special presidential pardon on December 27                                 |
 
 ---
 
@@ -330,202 +330,401 @@ The negative historical assessment has become increasingly dominant, particularl
 ## References
 
 [^1]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^2]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^3]: [Lee Myung-Bak | Biography & Facts - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^4]: [Former South Korean President Sentenced To 15 Years In Prison On Corruption Charges - NPR](https://www.npr.org/2018/10/05/654851055/former-south-korean-president-sentenced-to-15-years-in-prison-on-corruption-char)
+
 [^5]: [Lee Myung-bak facts for kids - Kiddle](https://kids.kiddle.co/Lee_Myung-bak)
+
 [^6]: [Lee Myung-bak biography - Biographs](https://biographs.org/lee-myung-bak)
+
 [^7]: [Lee Myung-Bak - Britannica Kids](https://kids.britannica.com/students/article/Lee-Myung-Bak/625572)
+
 [^8]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^9]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^10]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^11]: [Lee Myung-bak biography - Biographs](https://biographs.org/lee-myung-bak)
+
 [^12]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^13]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^14]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^15]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^16]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^17]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^18]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^19]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^20]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^21]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^22]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^23]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/transcripts/142356376)
+
 [^24]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^25]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^26]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/transcripts/142356376)
+
 [^27]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^28]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^29]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^30]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^31]: [Lee Myung Bak - Heroes of the Environment - TIME](https://content.time.com/time/specials/2007/article/0,28804,1663317_1663319_1669884,00.html)
+
 [^32]: [Lee Myung Bak - Heroes of the Environment - TIME](https://content.time.com/time/specials/2007/article/0,28804,1663317_1663319_1669884,00.html)
+
 [^33]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^34]: [Ex-Auto CEO Elected S. Korean President - CBS News](https://www.cbsnews.com/news/ex-auto-ceo-elected-s-korean-president/)
+
 [^35]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^36]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^37]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^38]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^39]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^40]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^41]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^42]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^43]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^44]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^45]: [Four Major Rivers Project - Wikipedia](https://en.wikipedia.org/wiki/Four_Major_Rivers_Project)
+
 [^46]: [Lee Myung-bak facts for kids - Kiddle](https://kids.kiddle.co/Lee_Myung-bak)
+
 [^47]: [Lee Myung-bak facts for kids - Kiddle](https://kids.kiddle.co/Lee_Myung-bak)
+
 [^48]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^49]: [Lee Myung Bak - Heroes of the Environment - TIME](https://content.time.com/time/specials/2007/article/0,28804,1663317_1663319_1669884,00.html)
+
 [^50]: [Four Major Rivers Project - Wikipedia](https://en.wikipedia.org/wiki/Four_Major_Rivers_Project)
+
 [^51]: [Four Rivers Project: Explained - Korea Expose](https://koreaexpose.com/four-rivers-project-explained/)
+
 [^52]: [Four Major Rivers Project - Wikipedia](https://en.wikipedia.org/wiki/Four_Major_Rivers_Project)
+
 [^53]: [Korea's Four Rivers Project: Economic Boost or Boondoggle? - Yale E360](https://e360.yale.edu/features/koreas_four_rivers_project_economic_boost_or_boondoggle)
+
 [^54]: [Four Rivers Project: Explained - Korea Expose](https://koreaexpose.com/four-rivers-project-explained/)
+
 [^55]: [Four Major Rivers Project - Wikipedia](https://en.wikipedia.org/wiki/Four_Major_Rivers_Project)
+
 [^56]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^57]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^58]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^59]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^60]: [Restoring or Killing Rivers? - Asia-Pacific Journal](https://apjjf.org/2011/9/48/soonyawl-park/3653/article)
+
 [^61]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^62]: [Four Rivers Project: Explained - Korea Expose](https://koreaexpose.com/four-rivers-project-explained/)
+
 [^63]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^64]: [Korea's Four Rivers Project: Economic Boost or Boondoggle? - Yale E360](https://e360.yale.edu/features/koreas_four_rivers_project_economic_boost_or_boondoggle)
+
 [^65]: [Restoring or Killing Rivers? - Asia-Pacific Journal](https://apjjf.org/2011/9/48/soonyawl-park/3653/article)
+
 [^66]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^67]: [Four Rivers Project: Explained - Korea Expose](https://koreaexpose.com/four-rivers-project-explained/)
+
 [^68]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^69]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^70]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^71]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^72]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^73]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^74]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^75]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^76]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^77]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^78]: [The Lee Myung-Bak Government's North Korea Policy - CIAO](https://ciaotest.cc.columbia.edu/journals/ijoks/v12i1/f_0015771_13725.pdf)
+
 [^79]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^80]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^81]: [The Lee Myung-Bak Government's North Korea Policy - CIAO](https://ciaotest.cc.columbia.edu/journals/ijoks/v12i1/f_0015771_13725.pdf)
+
 [^82]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^83]: [Former South Korean President Sentenced To 15 Years - NPR](https://www.npr.org/2018/10/05/654851055/former-south-korean-president-sentenced-to-15-years-in-prison-on-corruption-char)
+
 [^84]: [Lee Myung-bak sentenced to 15 years - The Korea Herald](https://www.koreaherald.com/view.php?ud=20181005000545)
+
 [^85]: [Former South Korean president Lee Myung-bak jailed - SCMP](https://www.scmp.com/news/asia/southeast-asia/article/2167130/former-south-korean-president-lee-myung-bak-jailed-15-years)
+
 [^86]: [South Korean ex-president Lee sentenced - Daily Sabah](https://www.dailysabah.com/asia/2018/10/05/south-korean-ex-president-lee-sentenced-to-15-years-over-corruption-scandal)
+
 [^87]: [S. Korea's Top Court Upholds Ex-Leader's 17-Year Jail Term - Courthouse News](https://www.courthousenews.com/s-koreas-top-court-upholds-ex-leaders-17-year-jail-term/)
+
 [^88]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^89]: [South Korea Pardons Jailed Ex-President Lee - VOA News](https://www.voanews.com/a/south-korea-pardons-jailed-ex-president-lee/6893143.html)
+
 [^90]: [Ex-President Lee's wife may face questioning - Korea Herald](https://www.koreaherald.com/article/1617123)
+
 [^91]: [Ex-President Lee's wife may face questioning - Korea Herald](https://www.koreaherald.com/article/1617123)
+
 [^92]: [Lee Myung-bak's aides, relatives face indictments - Korea Herald](https://www.koreaherald.com/view.php?ud=20180315000960)
+
 [^93]: [Kim Yoon-ok - Wikipedia](https://en.wikipedia.org/wiki/Kim_Yoon-ok)
+
 [^94]: [Kim Yoon-ok - Wikipedia](https://en.wikipedia.org/wiki/Kim_Yoon-ok)
+
 [^95]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^96]: [Kim Yoon-ok - Wikipedia](https://en.wikipedia.org/wiki/Kim_Yoon-ok)
+
 [^97]: [Kim Yoon-ok - Wikipedia](https://en.wikipedia.org/wiki/Kim_Yoon-ok)
+
 [^98]: [South Korea's political wives - SCMP](https://www.scmp.com/week-asia/politics/article/3165966/south-koreas-political-wives-see-their-pasts-laid-bare-election)
+
 [^99]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^100]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^101]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^102]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^103]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^104]: [Making Hyundai, Remaking Seoul - AbeBooks](https://www.abebooks.com/9781442205000/Making-Hyundai-Remaking-Seoul-Ceo-1442205008/plp)
+
 [^105]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^106]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^107]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^108]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^109]: [Former South Korean President Sentenced To 15 Years - NPR](https://www.npr.org/2018/10/05/654851055/former-south-korean-president-sentenced-to-15-years-in-prison-on-corruption-char)
+
 [^110]: [Former South Korean president Lee Myung-bak jailed - SCMP](https://www.scmp.com/news/asia/southeast-asia/article/2167130/former-south-korean-president-lee-myung-bak-jailed-15-years)
+
 [^111]: [Former South Korean President Lee Myung-bak Granted Special Pardon - OCCRP](https://www.occrp.org/en/news/former-south-korean-president-lee-myung-bak-granted-special-pardon)
+
 [^112]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^113]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^114]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^115]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^116]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^117]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^118]: [Four Rivers Project: Explained - Korea Expose](https://koreaexpose.com/four-rivers-project-explained/)
+
 [^119]: [Restoring or Killing Rivers? - Asia-Pacific Journal](https://apjjf.org/2011/9/48/soonyawl-park/3653/article)
+
 [^120]: [Four Rivers Project: Explained - Korea Expose](https://koreaexpose.com/four-rivers-project-explained/)
+
 [^121]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^122]: [S. Korea's Top Court Upholds Ex-Leader's 17-Year Jail Term - Courthouse News](https://www.courthousenews.com/s-koreas-top-court-upholds-ex-leaders-17-year-jail-term/)
+
 [^123]: [Lee Myung-bak sentenced to 15 years - The Korea Herald](https://www.koreaherald.com/view.php?ud=20181005000545)
+
 [^124]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^125]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^126]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^127]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^128]: [The Lee Myung-Bak Government's North Korea Policy - CIAO](https://ciaotest.cc.columbia.edu/journals/ijoks/v12i1/f_0015771_13725.pdf)
+
 [^129]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^130]: [The Lee Myung-Bak Government's North Korea Policy - CIAO](https://ciaotest.cc.columbia.edu/journals/ijoks/v12i1/f_0015771_13725.pdf)
+
 [^131]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^132]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^133]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^134]: [Former South Korean President Sentenced To 15 Years - NPR](https://www.npr.org/2018/10/05/654851055/former-south-korean-president-sentenced-to-15-years-in-prison-on-corruption-char)
+
 [^135]: [Former South Korean President Sentenced To 15 Years - NPR](https://www.npr.org/2018/10/05/654851055/former-south-korean-president-sentenced-to-15-years-in-prison-on-corruption-char)
+
 [^136]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^137]: [Former South Korean President Lee Myung-bak Granted Special Pardon - OCCRP](https://www.occrp.org/en/news/former-south-korean-president-lee-myung-bak-granted-special-pardon)
+
 [^138]: [The Lee Myung-Bak Government's North Korea Policy - CIAO](https://ciaotest.cc.columbia.edu/journals/ijoks/v12i1/f_0015771_13725.pdf)
+
 [^139]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^140]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^141]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^142]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^143]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^144]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^145]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^146]: [Four Major Rivers Project - Wikipedia](https://en.wikipedia.org/wiki/Four_Major_Rivers_Project)
+
 [^147]: [Four Major Rivers Project - Wikipedia](https://en.wikipedia.org/wiki/Four_Major_Rivers_Project)
+
 [^148]: [Korea's Four Rivers Project: Economic Boost or Boondoggle? - Yale E360](https://e360.yale.edu/features/koreas_four_rivers_project_economic_boost_or_boondoggle)
+
 [^149]: [Lee Myung Bak - Heroes of the Environment - TIME](https://content.time.com/time/specials/2007/article/0,28804,1663317_1663319_1669884,00.html)
+
 [^150]: [Lee Myung Bak - Heroes of the Environment - TIME](https://content.time.com/time/specials/2007/article/0,28804,1663317_1663319_1669884,00.html)
+
 [^151]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^152]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^153]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^154]: [Lee Myung Bak - Heroes of the Environment - TIME](https://content.time.com/time/specials/2007/article/0,28804,1663317_1663319_1669884,00.html)
+
 [^155]: [From Crushing Poverty To South Korea's Presidency - NPR](https://www.npr.org/2011/11/15/142356376/from-crushing-poverty-to-south-koreas-presidency)
+
 [^156]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^157]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^158]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^159]: [South Korea Pardons Jailed Ex-President Lee - VOA News](https://www.voanews.com/a/south-korea-pardons-jailed-ex-president-lee/6893143.html)
+
 [^160]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^161]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^162]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^163]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^164]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^165]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^166]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^167]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^168]: [Restoring or Killing Rivers? - Asia-Pacific Journal](https://apjjf.org/2011/9/48/soonyawl-park/3653/article)
+
 [^169]: [Four Rivers Project: Explained - Korea Expose](https://koreaexpose.com/four-rivers-project-explained/)
+
 [^170]: [Restoring or Killing Rivers? - Asia-Pacific Journal](https://apjjf.org/2011/9/48/soonyawl-park/3653/article)
+
 [^171]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^172]: [Korea's Four Rivers Project: Economic Boost or Boondoggle? - Yale E360](https://e360.yale.edu/features/koreas_four_rivers_project_economic_boost_or_boondoggle)
+
 [^173]: [Restoring or Killing Rivers? - Asia-Pacific Journal](https://apjjf.org/2011/9/48/soonyawl-park/3653/article)
+
 [^174]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^175]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^176]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^177]: [LEE MYUNG PAK: HIS INTERESTING LIFE - Facts and Details](https://factsanddetails.com/korea/south_korea/modern_history/entry-7193.html)
+
 [^178]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^179]: [Former South Korean President Sentenced To 15 Years - NPR](https://www.npr.org/2018/10/05/654851055/former-south-korean-president-sentenced-to-15-years-in-prison-on-corruption-char)
+
 [^180]: [Lee Myung-bak sentenced to 15 years - The Korea Herald](https://www.koreaherald.com/view.php?ud=20181005000545)
+
 [^181]: [Ex-President Lee's wife may face questioning - Korea Herald](https://www.koreaherald.com/article/1617123)
+
 [^182]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^183]: [Former South Korean president Lee Myung-bak jailed - SCMP](https://www.scmp.com/news/asia/southeast-asia/article/2167130/former-south-korean-president-lee-myung-bak-jailed-15-years)
+
 [^184]: [Lee Myung-bak - Wikipedia](https://en.wikipedia.org/wiki/Lee_Myung-bak)
+
 [^185]: [The Lee Myung-Bak Government's North Korea Policy - CIAO](https://ciaotest.cc.columbia.edu/journals/ijoks/v12i1/f_0015771_13725.pdf)
+
 [^186]: [Lee Myung-Bak - Britannica](https://www.britannica.com/biography/Lee-Myung-Bak)
+
 [^187]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^188]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^189]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^190]: [Korea's CEO President: Lee Myung-bak - University of Hawaii Press](https://uhpress.hawaii.edu/title/koreas-ceo-president-lee-myung-bak/)
+
 [^191]: [Democracy and South Korea's Lemon Presidency - Project MUSE](https://muse.jhu.edu/pub/1/article/855085)
+
 [^192]: [Another former Korean president headed for jail - Asia Times](https://asiatimes.com/2018/10/another-former-korean-president-headed-for-jail/)
+
 [^193]: [Lee Myung-bak Quotes - BrainyQuote](https://www.brainyquote.com/authors/lee-myung-bak-quotes)
+
 [^194]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^195]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^196]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^197]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^198]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^199]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)
+
 [^200]: [Lee Myung-bak Quotes - A-Z Quotes](https://www.azquotes.com/author/10636-Lee_Myung_bak)

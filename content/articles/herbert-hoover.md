@@ -4,7 +4,8 @@ name: "Herbert Hoover"
 birth: "1874-08-10"
 death: "1964-10-20"
 nationality: "United States"
-occupation: ["Engineer", "Businessman", "Humanitarian", "Politician", "31st President of the United States"]
+occupation:
+  ["Engineer", "Businessman", "Humanitarian", "Politician", "31st President of the United States"]
 image: "https://upload.wikimedia.org/wikipedia/commons/5/57/President_Hoover_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Herbert_Hoover"
@@ -205,139 +206,221 @@ The historical consensus among scholars places Hoover in the bottom quartile of 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1874 | Born August 10 in West Branch, Iowa |
-| 1880 | Father Jesse Hoover dies of typhoid fever |
-| 1884 | Mother Hulda Hoover dies of pneumonia; Herbert becomes orphan |
-| 1891 | Enters Stanford University as part of inaugural class |
-| 1895 | Graduates from Stanford with degree in geology |
-| 1897 | Hired by Bewick, Moreing & Co.; sent to Australia |
-| 1899 | Marries Lou Henry; moves to China as chief engineer |
-| 1900 | Experiences Boxer Rebellion in Tientsin, China |
-| 1908 | Becomes partner in Bewick, Moreing & Co. |
-| 1909 | Publishes "Principles of Mining"; establishes independent consulting practice |
-| 1912 | Translates "De Re Metallica" with Lou Henry Hoover |
-| 1914 | Organizes Committee of American Residents in London; appointed head of Commission for Relief in Belgium |
-| 1917 | Appointed U.S. Food Administrator by President Wilson |
-| 1919 | Directs American Relief Administration for post-war European relief |
-| 1921 | Appointed Secretary of Commerce by President Harding |
-| 1921-1923 | Organizes famine relief for Soviet Russia |
-| 1928 | Elected 31st President of the United States in landslide victory |
-| 1929 | Inaugurated as President on March 4; Stock market crashes in October |
-| 1930 | Signs Agricultural Marketing Act; London Naval Treaty negotiated |
-| 1932 | Signs legislation creating Reconstruction Finance Corporation; Bonus Army incident in July; defeated by Franklin Roosevelt in November election |
-| 1933 | Leaves presidency on March 4 |
-| 1944 | Wife Lou Henry Hoover dies |
-| 1945-1947 | Coordinates post-World War II famine relief efforts |
-| 1947-1949 | Chairs first Commission on Organization of Executive Branch |
-| 1951-1952 | Publishes three-volume "Memoirs" |
-| 1953-1955 | Chairs second Hoover Commission |
-| 1958 | Publishes "The Ordeal of Woodrow Wilson" |
-| 1964 | Dies October 20 in New York City at age 90 |
+| Year      | Event                                                                                                                                           |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1874      | Born August 10 in West Branch, Iowa                                                                                                             |
+| 1880      | Father Jesse Hoover dies of typhoid fever                                                                                                       |
+| 1884      | Mother Hulda Hoover dies of pneumonia; Herbert becomes orphan                                                                                   |
+| 1891      | Enters Stanford University as part of inaugural class                                                                                           |
+| 1895      | Graduates from Stanford with degree in geology                                                                                                  |
+| 1897      | Hired by Bewick, Moreing & Co.; sent to Australia                                                                                               |
+| 1899      | Marries Lou Henry; moves to China as chief engineer                                                                                             |
+| 1900      | Experiences Boxer Rebellion in Tientsin, China                                                                                                  |
+| 1908      | Becomes partner in Bewick, Moreing & Co.                                                                                                        |
+| 1909      | Publishes "Principles of Mining"; establishes independent consulting practice                                                                   |
+| 1912      | Translates "De Re Metallica" with Lou Henry Hoover                                                                                              |
+| 1914      | Organizes Committee of American Residents in London; appointed head of Commission for Relief in Belgium                                         |
+| 1917      | Appointed U.S. Food Administrator by President Wilson                                                                                           |
+| 1919      | Directs American Relief Administration for post-war European relief                                                                             |
+| 1921      | Appointed Secretary of Commerce by President Harding                                                                                            |
+| 1921-1923 | Organizes famine relief for Soviet Russia                                                                                                       |
+| 1928      | Elected 31st President of the United States in landslide victory                                                                                |
+| 1929      | Inaugurated as President on March 4; Stock market crashes in October                                                                            |
+| 1930      | Signs Agricultural Marketing Act; London Naval Treaty negotiated                                                                                |
+| 1932      | Signs legislation creating Reconstruction Finance Corporation; Bonus Army incident in July; defeated by Franklin Roosevelt in November election |
+| 1933      | Leaves presidency on March 4                                                                                                                    |
+| 1944      | Wife Lou Henry Hoover dies                                                                                                                      |
+| 1945-1947 | Coordinates post-World War II famine relief efforts                                                                                             |
+| 1947-1949 | Chairs first Commission on Organization of Executive Branch                                                                                     |
+| 1951-1952 | Publishes three-volume "Memoirs"                                                                                                                |
+| 1953-1955 | Chairs second Hoover Commission                                                                                                                 |
+| 1958      | Publishes "The Ordeal of Woodrow Wilson"                                                                                                        |
+| 1964      | Dies October 20 in New York City at age 90                                                                                                      |
 
 ---
 
 ## Famous Quotes
 
 > "Older men declare war. But it is youth that must fight and die."
+
 - From a speech on war and peace, reflecting his Quaker pacifist values and humanitarian concerns developed through witnessing World War I's devastation.[^70]
 
 > "Words without actions are the assassins of idealism."
+
 - Reflecting his engineering mindset and belief in practical accomplishment over rhetoric, though critics noted the irony given his administration's inadequate Depression response.[^71]
 
 > "Blessed are the young, for they shall inherit the national debt."
+
 - A sardonic comment on government fiscal policy, reflecting his concerns about deficit spending that intensified during his opposition to New Deal programs.[^72]
 
 > "Freedom is the open window through which pours the sunlight of the human spirit and human dignity."
+
 - From his defense of individual liberty and limited government, articulating his core political philosophy that shaped his opposition to extensive federal intervention.[^73]
 
 > "Economic depression cannot be cured by legislative action or executive pronouncement. Economic wounds must be healed by the action of the cells of the economic body—the producers and consumers themselves."
+
 - Statement during the Depression reflecting his philosophy of voluntary cooperation and limited government, which critics viewed as inadequate to the crisis's scale.[^74]
 
 > "We are in danger of developing a cult of the Common Man, which means a cult of mediocrity."
+
 - Controversial statement reflecting his belief in meritocracy and expertise, though critics saw elitism disconnected from ordinary Americans' struggles.[^75]
 
 > "When there is a lack of honor in government, the morals of the whole people are poisoned."
+
 - On governmental integrity and ethical leadership, reflecting his own reputation for personal honesty even as his policies faced criticism.[^76]
 
 ---
 
 ## References
 
-[^1]: Nash, George H. *The Life of Herbert Hoover: The Engineer, 1874-1914*. W.W. Norton & Company, 1983.
-[^2]: Hoover, Herbert. *The Memoirs of Herbert Hoover: Years of Adventure, 1874-1920*. Macmillan, 1951.
-[^3]: Jeansonne, Glen. *The Life of Herbert Hoover: Fighting Quaker, 1928-1933*. Palgrave Macmillan, 2012.
-[^4]: Smith, Richard Norton. *An Uncommon Man: The Triumph of Herbert Hoover*. Simon & Schuster, 1984.
-[^5]: Nash, George H. "Herbert Hoover and the Origins of the Belgian Relief Program." *Prologue Magazine*, National Archives, Vol. 21, No. 1, Spring 1989.
-[^6]: Lloyd, Craig. *Aggressive Introvert: A Study of Herbert Hoover and Public Relations Management, 1912-1932*. Ohio State University Press, 1972.
-[^7]: Hoover, Herbert and Lou Henry Hoover, trans. *De Re Metallica* by Georgius Agricola. The Mining Magazine, 1912.
-[^8]: Gay, George I. and H.H. Fisher. *Public Relations of the Commission for Relief in Belgium*. Stanford University Press, 1929.
-[^9]: Nash, George H. *The Life of Herbert Hoover: Master of Emergencies, 1917-1918*. W.W. Norton & Company, 1996.
-[^10]: Mullendore, William C. *History of the United States Food Administration, 1917-1919*. Stanford University Press, 1941.
-[^11]: Weissman, Benjamin M. *Herbert Hoover and Famine Relief to Soviet Russia: 1921-1923*. Hoover Institution Press, 1974.
-[^12]: Hawley, Ellis W. "Herbert Hoover, the Commerce Secretariat, and the Vision of an 'Associative State', 1921-1928." *Journal of American History*, Vol. 61, No. 1, June 1974.
-[^13]: Burner, David. *Herbert Hoover: A Public Life*. Alfred A. Knopf, 1979.
-[^14]: Rickard, Edgar. "Herbert Hoover's Mining Career." *Engineering and Mining Journal*, Vol. 125, 1928.
-[^15]: Clements, Kendrick A. *The Life of Herbert Hoover: Imperfect Visionary, 1918-1928*. Palgrave Macmillan, 2010.
-[^16]: Hawley, Ellis W. "Herbert Hoover and Economic Stabilization, 1921-1922." *Annals of Iowa*, Vol. 45, 1981.
-[^17]: Hamilton, David E. *From New Day to New Deal: American Farm Policy from Hoover to Roosevelt, 1928-1933*. University of North Carolina Press, 1991.
-[^18]: Rothman, Hal K. "Shaping the Nature of a Controversy: The Park Service, the Forest Service, and the Cedar Breaks Proposal." *Utah Historical Quarterly*, Vol. 55, 1987.
-[^19]: DeConde, Alexander. *Herbert Hoover's Latin American Policy*. Stanford University Press, 1951.
-[^20]: Olson, James S. *Herbert Hoover and the Reconstruction Finance Corporation, 1931-1933*. Iowa State University Press, 1977.
-[^21]: Jones, Jesse H. with Edward Angly. *Fifty Billion Dollars: My Thirteen Years with the RFC*. Macmillan, 1951.
-[^22]: Lindenmeyer, Kriste. *"A Right to Childhood": The U.S. Children's Bureau and Child Welfare, 1912-1946*. University of Illinois Press, 1997.
-[^23]: Bertrand, Charles L. "Truman and Hoover: Perspectives on Foreign Aid." *Presidential Studies Quarterly*, Vol. 21, No. 3, Summer 1991.
-[^24]: Arnold, Peri E. *Making the Managerial Presidency: Comprehensive Reorganization Planning, 1905-1996*. University Press of Kansas, 1998.
-[^25]: Kennedy, David M. *Freedom from Fear: The American People in Depression and War, 1929-1945*. Oxford University Press, 1999.
-[^26]: Romasco, Albert U. *The Poverty of Abundance: Hoover, the Nation, the Depression*. Oxford University Press, 1965.
-[^27]: Fausold, Martin L. *The Presidency of Herbert C. Hoover*. University Press of Kansas, 1985.
-[^28]: Dickson, Paul and Thomas B. Allen. *The Bonus Army: An American Epic*. Walker & Company, 2004.
-[^29]: Daniels, Roger. *The Bonus March: An Episode of the Great Depression*. Greenwood Press, 1971.
-[^30]: Lisio, Donald J. *The President and Protest: Hoover, MacArthur, and the Bonus Riot*. University of Missouri Press, 1974.
-[^31]: Manchester, William. *American Caesar: Douglas MacArthur, 1880-1964*. Little, Brown and Company, 1978.
-[^32]: Sherman, Richard B. *The Republican Party and Black America from McKinley to Hoover, 1896-1933*. University Press of Virginia, 1973.
-[^33]: Balderrama, Francisco E. and Raymond Rodriguez. *Decade of Betrayal: Mexican Repatriation in the 1930s*. University of New Mexico Press, 1995.
-[^34]: Kyvig, David E. *Repealing National Prohibition*. University of Chicago Press, 1979.
-[^35]: Barber, William J. *From New Era to New Deal: Herbert Hoover, the Economists, and American Economic Policy, 1921-1933*. Cambridge University Press, 1985.
-[^36]: Schlesinger, Arthur M., Jr. *The Crisis of the Old Order, 1919-1933*. Houghton Mifflin, 1957.
-[^37]: Pryor, Helen B. *Lou Henry Hoover: Gallant First Lady*. Dodd, Mead & Company, 1969.
+[^1]: Nash, George H. _The Life of Herbert Hoover: The Engineer, 1874-1914_. W.W. Norton & Company, 1983.
+
+[^2]: Hoover, Herbert. _The Memoirs of Herbert Hoover: Years of Adventure, 1874-1920_. Macmillan, 1951.
+
+[^3]: Jeansonne, Glen. _The Life of Herbert Hoover: Fighting Quaker, 1928-1933_. Palgrave Macmillan, 2012.
+
+[^4]: Smith, Richard Norton. _An Uncommon Man: The Triumph of Herbert Hoover_. Simon & Schuster, 1984.
+
+[^5]: Nash, George H. "Herbert Hoover and the Origins of the Belgian Relief Program." _Prologue Magazine_, National Archives, Vol. 21, No. 1, Spring 1989.
+
+[^6]: Lloyd, Craig. _Aggressive Introvert: A Study of Herbert Hoover and Public Relations Management, 1912-1932_. Ohio State University Press, 1972.
+
+[^7]: Hoover, Herbert and Lou Henry Hoover, trans. _De Re Metallica_ by Georgius Agricola. The Mining Magazine, 1912.
+
+[^8]: Gay, George I. and H.H. Fisher. _Public Relations of the Commission for Relief in Belgium_. Stanford University Press, 1929.
+
+[^9]: Nash, George H. _The Life of Herbert Hoover: Master of Emergencies, 1917-1918_. W.W. Norton & Company, 1996.
+
+[^10]: Mullendore, William C. _History of the United States Food Administration, 1917-1919_. Stanford University Press, 1941.
+
+[^11]: Weissman, Benjamin M. _Herbert Hoover and Famine Relief to Soviet Russia: 1921-1923_. Hoover Institution Press, 1974.
+
+[^12]: Hawley, Ellis W. "Herbert Hoover, the Commerce Secretariat, and the Vision of an 'Associative State', 1921-1928." _Journal of American History_, Vol. 61, No. 1, June 1974.
+
+[^13]: Burner, David. _Herbert Hoover: A Public Life_. Alfred A. Knopf, 1979.
+
+[^14]: Rickard, Edgar. "Herbert Hoover's Mining Career." _Engineering and Mining Journal_, Vol. 125, 1928.
+
+[^15]: Clements, Kendrick A. _The Life of Herbert Hoover: Imperfect Visionary, 1918-1928_. Palgrave Macmillan, 2010.
+
+[^16]: Hawley, Ellis W. "Herbert Hoover and Economic Stabilization, 1921-1922." _Annals of Iowa_, Vol. 45, 1981.
+
+[^17]: Hamilton, David E. _From New Day to New Deal: American Farm Policy from Hoover to Roosevelt, 1928-1933_. University of North Carolina Press, 1991.
+
+[^18]: Rothman, Hal K. "Shaping the Nature of a Controversy: The Park Service, the Forest Service, and the Cedar Breaks Proposal." _Utah Historical Quarterly_, Vol. 55, 1987.
+
+[^19]: DeConde, Alexander. _Herbert Hoover's Latin American Policy_. Stanford University Press, 1951.
+
+[^20]: Olson, James S. _Herbert Hoover and the Reconstruction Finance Corporation, 1931-1933_. Iowa State University Press, 1977.
+
+[^21]: Jones, Jesse H. with Edward Angly. _Fifty Billion Dollars: My Thirteen Years with the RFC_. Macmillan, 1951.
+
+[^22]: Lindenmeyer, Kriste. _"A Right to Childhood": The U.S. Children's Bureau and Child Welfare, 1912-1946_. University of Illinois Press, 1997.
+
+[^23]: Bertrand, Charles L. "Truman and Hoover: Perspectives on Foreign Aid." _Presidential Studies Quarterly_, Vol. 21, No. 3, Summer 1991.
+
+[^24]: Arnold, Peri E. _Making the Managerial Presidency: Comprehensive Reorganization Planning, 1905-1996_. University Press of Kansas, 1998.
+
+[^25]: Kennedy, David M. _Freedom from Fear: The American People in Depression and War, 1929-1945_. Oxford University Press, 1999.
+
+[^26]: Romasco, Albert U. _The Poverty of Abundance: Hoover, the Nation, the Depression_. Oxford University Press, 1965.
+
+[^27]: Fausold, Martin L. _The Presidency of Herbert C. Hoover_. University Press of Kansas, 1985.
+
+[^28]: Dickson, Paul and Thomas B. Allen. _The Bonus Army: An American Epic_. Walker & Company, 2004.
+
+[^29]: Daniels, Roger. _The Bonus March: An Episode of the Great Depression_. Greenwood Press, 1971.
+
+[^30]: Lisio, Donald J. _The President and Protest: Hoover, MacArthur, and the Bonus Riot_. University of Missouri Press, 1974.
+
+[^31]: Manchester, William. _American Caesar: Douglas MacArthur, 1880-1964_. Little, Brown and Company, 1978.
+
+[^32]: Sherman, Richard B. _The Republican Party and Black America from McKinley to Hoover, 1896-1933_. University Press of Virginia, 1973.
+
+[^33]: Balderrama, Francisco E. and Raymond Rodriguez. _Decade of Betrayal: Mexican Repatriation in the 1930s_. University of New Mexico Press, 1995.
+
+[^34]: Kyvig, David E. _Repealing National Prohibition_. University of Chicago Press, 1979.
+
+[^35]: Barber, William J. _From New Era to New Deal: Herbert Hoover, the Economists, and American Economic Policy, 1921-1933_. Cambridge University Press, 1985.
+
+[^36]: Schlesinger, Arthur M., Jr. _The Crisis of the Old Order, 1919-1933_. Houghton Mifflin, 1957.
+
+[^37]: Pryor, Helen B. _Lou Henry Hoover: Gallant First Lady_. Dodd, Mead & Company, 1969.
+
 [^38]: Nash, Lee. "Understanding Herbert Hoover: Ten Perspectives." Stanford University, Hoover Institution Press, 1987.
-[^39]: Warren, Harris Gaylord. *Herbert Hoover and the Great Depression*. Oxford University Press, 1959.
-[^40]: Wilson, Joan Hoff. *Herbert Hoover: Forgotten Progressive*. Little, Brown and Company, 1975.
-[^41]: Best, Gary Dean. *Herbert Hoover: The Postpresidential Years, 1933-1964*. 2 volumes. Hoover Institution Press, 1983.
-[^42]: Hoover, Herbert. *The Memoirs of Herbert Hoover: The Great Depression, 1929-1941*. Macmillan, 1952.
-[^43]: Nash, George H. "The 'Great Humanitarian': Herbert Hoover, the Relief of Belgium, and the Reconstruction of Europe after War I." *Federal History*, No. 1, 2009.
-[^44]: "Herbert Hoover Dies; Ex-President, 90." *The New York Times*, October 21, 1964.
-[^45]: Leuchtenburg, William E. *In the Shadow of FDR: From Harry Truman to George W. Bush*. Cornell University Press, 2001.
-[^46]: Curti, Merle. *American Philanthropy Abroad: A History*. Rutgers University Press, 1963.
-[^47]: Pemberton, William E. *Bureaucratic Politics: Executive Reorganization During the Truman Administration*. University of Missouri Press, 1979.
-[^48]: Craig, Douglas B. *After Wilson: The Struggle for the Democratic Party, 1920-1934*. University of North Carolina Press, 1992.
-[^49]: Schwarz, Jordan A. *The Interregnum of Despair: Hoover, Congress, and the Depression*. University of Illinois Press, 1970.
-[^50]: Nash, George H. *Herbert Hoover and American Individualism: A Modern Interpretation of a National Ideal*. Hoover Institution Press, 2002.
-[^51]: Walch, Timothy. *Uncommon Americans: The Lives and Legacies of Herbert and Lou Henry Hoover*. Praeger, 2003.
-[^52]: Leuchtenburg, William E. "The Case of the Contentious Commissioner: Humphrey's Executor v. U.S." in *American Political Trials*, edited by Michal R. Belknap. Praeger, 1994.
-[^53]: Eichengreen, Barry. *Hall of Mirrors: The Great Depression, the Great Recession, and the Uses—and Misuses—of History*. Oxford University Press, 2015.
-[^54]: Hatfield, Mark O. *Vice Presidents of the United States, 1789-1993*. U.S. Government Printing Office, 1997.
-[^55]: Kennedy, David M. "What the New Deal Did." *Political Science Quarterly*, Vol. 124, No. 2, Summer 2009.
-[^56]: Jeansonne, Glen. *Herbert Hoover: A Life*. New American Library, 2016.
-[^57]: Wilson, Joan Hoff. "Herbert Hoover's Plan for Ending the Great Depression: The Forgotten Initiatives of 1931-1932." *Annals of Iowa*, Vol. 50, 1990.
-[^58]: Rothbard, Murray N. *America's Great Depression*. D. Van Nostrand Company, 1963.
-[^59]: Best, Gary Dean. *The Politics of American Individualism: Herbert Hoover in Transition, 1918-1921*. Greenwood Press, 1975.
-[^60]: Kindleberger, Charles P. *The World in Depression, 1929-1939*. University of California Press, 1973.
-[^61]: Badger, Anthony J. *The New Deal: The Depression Years, 1933-1940*. Macmillan, 1989.
-[^62]: Schlesinger, Arthur M., Jr. *The Age of Roosevelt: The Crisis of the Old Order*. Houghton Mifflin, 1957.
-[^63]: Alter, Jonathan. *The Defining Moment: FDR's Hundred Days and the Triumph of Hope*. Simon & Schuster, 2006.
-[^64]: Romer, Christina D. "The Nation in Depression." *Journal of Economic Perspectives*, Vol. 7, No. 2, Spring 1993.
-[^65]: Leuchtenburg, William E. *Herbert Hoover*. Times Books, 2009.
-[^66]: Waters, W.W. and William C. White. *B.E.F.: The Whole Story of the Bonus Army*. John Day Company, 1933.
-[^67]: Nash, George H. *Freedom Betrayed: Herbert Hoover's Secret History of the Second World War and Its Aftermath*. Hoover Institution Press, 2011.
-[^68]: Brinkley, Alan. *The End of Reform: New Deal Liberalism in Recession and War*. Alfred A. Knopf, 1995.
-[^69]: C-SPAN. "2017 Presidential Historians Survey." *C-SPAN*, February 2017.
+
+[^39]: Warren, Harris Gaylord. _Herbert Hoover and the Great Depression_. Oxford University Press, 1959.
+
+[^40]: Wilson, Joan Hoff. _Herbert Hoover: Forgotten Progressive_. Little, Brown and Company, 1975.
+
+[^41]: Best, Gary Dean. _Herbert Hoover: The Postpresidential Years, 1933-1964_. 2 volumes. Hoover Institution Press, 1983.
+
+[^42]: Hoover, Herbert. _The Memoirs of Herbert Hoover: The Great Depression, 1929-1941_. Macmillan, 1952.
+
+[^43]: Nash, George H. "The 'Great Humanitarian': Herbert Hoover, the Relief of Belgium, and the Reconstruction of Europe after War I." _Federal History_, No. 1, 2009.
+
+[^44]: "Herbert Hoover Dies; Ex-President, 90." _The New York Times_, October 21, 1964.
+
+[^45]: Leuchtenburg, William E. _In the Shadow of FDR: From Harry Truman to George W. Bush_. Cornell University Press, 2001.
+
+[^46]: Curti, Merle. _American Philanthropy Abroad: A History_. Rutgers University Press, 1963.
+
+[^47]: Pemberton, William E. _Bureaucratic Politics: Executive Reorganization During the Truman Administration_. University of Missouri Press, 1979.
+
+[^48]: Craig, Douglas B. _After Wilson: The Struggle for the Democratic Party, 1920-1934_. University of North Carolina Press, 1992.
+
+[^49]: Schwarz, Jordan A. _The Interregnum of Despair: Hoover, Congress, and the Depression_. University of Illinois Press, 1970.
+
+[^50]: Nash, George H. _Herbert Hoover and American Individualism: A Modern Interpretation of a National Ideal_. Hoover Institution Press, 2002.
+
+[^51]: Walch, Timothy. _Uncommon Americans: The Lives and Legacies of Herbert and Lou Henry Hoover_. Praeger, 2003.
+
+[^52]: Leuchtenburg, William E. "The Case of the Contentious Commissioner: Humphrey's Executor v. U.S." in _American Political Trials_, edited by Michal R. Belknap. Praeger, 1994.
+
+[^53]: Eichengreen, Barry. _Hall of Mirrors: The Great Depression, the Great Recession, and the Uses—and Misuses—of History_. Oxford University Press, 2015.
+
+[^54]: Hatfield, Mark O. _Vice Presidents of the United States, 1789-1993_. U.S. Government Printing Office, 1997.
+
+[^55]: Kennedy, David M. "What the New Deal Did." _Political Science Quarterly_, Vol. 124, No. 2, Summer 2009.
+
+[^56]: Jeansonne, Glen. _Herbert Hoover: A Life_. New American Library, 2016.
+
+[^57]: Wilson, Joan Hoff. "Herbert Hoover's Plan for Ending the Great Depression: The Forgotten Initiatives of 1931-1932." _Annals of Iowa_, Vol. 50, 1990.
+
+[^58]: Rothbard, Murray N. _America's Great Depression_. D. Van Nostrand Company, 1963.
+
+[^59]: Best, Gary Dean. _The Politics of American Individualism: Herbert Hoover in Transition, 1918-1921_. Greenwood Press, 1975.
+
+[^60]: Kindleberger, Charles P. _The World in Depression, 1929-1939_. University of California Press, 1973.
+
+[^61]: Badger, Anthony J. _The New Deal: The Depression Years, 1933-1940_. Macmillan, 1989.
+
+[^62]: Schlesinger, Arthur M., Jr. _The Age of Roosevelt: The Crisis of the Old Order_. Houghton Mifflin, 1957.
+
+[^63]: Alter, Jonathan. _The Defining Moment: FDR's Hundred Days and the Triumph of Hope_. Simon & Schuster, 2006.
+
+[^64]: Romer, Christina D. "The Nation in Depression." _Journal of Economic Perspectives_, Vol. 7, No. 2, Spring 1993.
+
+[^65]: Leuchtenburg, William E. _Herbert Hoover_. Times Books, 2009.
+
+[^66]: Waters, W.W. and William C. White. _B.E.F.: The Whole Story of the Bonus Army_. John Day Company, 1933.
+
+[^67]: Nash, George H. _Freedom Betrayed: Herbert Hoover's Secret History of the Second World War and Its Aftermath_. Hoover Institution Press, 2011.
+
+[^68]: Brinkley, Alan. _The End of Reform: New Deal Liberalism in Recession and War_. Alfred A. Knopf, 1995.
+
+[^69]: C-SPAN. "2017 Presidential Historians Survey." _C-SPAN_, February 2017.
+
 [^70]: Hoover, Herbert. Speech at the Republican National Convention, Chicago, June 1944.
-[^71]: Hoover, Herbert. *American Individualism*. Doubleday, Page & Company, 1922.
-[^72]: Hoover, Herbert. Quoted in *The Saturday Evening Post*, 1936.
+
+[^71]: Hoover, Herbert. _American Individualism_. Doubleday, Page & Company, 1922.
+
+[^72]: Hoover, Herbert. Quoted in _The Saturday Evening Post_, 1936.
+
 [^73]: Hoover, Herbert. Address upon receiving the Freedom Award, Freedom Foundation, 1950.
+
 [^74]: Hoover, Herbert. Press statement on economic recovery, December 1930.
-[^75]: Hoover, Herbert. *American Ideals versus the New Deal*. Scribner's, 1936.
+
+[^75]: Hoover, Herbert. _American Ideals versus the New Deal_. Scribner's, 1936.
+
 [^76]: Hoover, Herbert. Address to the Gridiron Club, Washington D.C., 1929.

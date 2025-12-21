@@ -147,29 +147,29 @@ Media scholars and critics of press culture argue that the royal family's compli
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1926 | Born April 21 at 17 Bruton Street, Mayfair, London |
-| 1930 | Sister Princess Margaret born |
-| 1936 | Uncle Edward VIII abdicates; father becomes King George VI; Elizabeth becomes heir presumptive |
-| 1940 | First public radio broadcast during World War II |
-| 1945 | Joins Women's Auxiliary Territorial Service, trains as driver and mechanic |
-| 1947 | Marries Lieutenant Philip Mountbatten on November 20 at Westminster Abbey |
-| 1948 | Birth of son Prince Charles on November 14 |
-| 1950 | Birth of daughter Princess Anne on August 15 |
-| 1952 | Father King George VI dies February 6; Elizabeth becomes Queen at age 25 |
-| 1953 | Coronation at Westminster Abbey on June 2, first to be televised |
-| 1960 | Birth of son Prince Andrew on February 19 |
-| 1964 | Birth of son Prince Edward on March 10 |
-| 1977 | Silver Jubilee celebrating 25 years on throne |
-| 1992 | "Annus horribilis": Windsor Castle fire, separation of Charles and Diana, divorces of Anne and Andrew |
-| 1997 | Princess Diana dies August 31; Hong Kong returned to China |
-| 2002 | Golden Jubilee celebrating 50 years; deaths of sister Princess Margaret and mother Queen Elizabeth The Queen Mother |
-| 2011 | First state visit to Republic of Ireland by British monarch since independence; marriage of Prince William and Catherine Middleton |
-| 2012 | Diamond Jubilee celebrating 60 years; appears with James Bond (Daniel Craig) in Olympics opening ceremony |
-| 2015 | Becomes longest-reigning British monarch, surpassing Queen Victoria |
-| 2020 | COVID-19 pandemic; delivers special televised address to nation |
-| 2021 | Prince Philip dies April 9 at age 99; funeral attended by Queen, alone due to COVID restrictions |
+| Year | Event                                                                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1926 | Born April 21 at 17 Bruton Street, Mayfair, London                                                                                          |
+| 1930 | Sister Princess Margaret born                                                                                                               |
+| 1936 | Uncle Edward VIII abdicates; father becomes King George VI; Elizabeth becomes heir presumptive                                              |
+| 1940 | First public radio broadcast during World War II                                                                                            |
+| 1945 | Joins Women's Auxiliary Territorial Service, trains as driver and mechanic                                                                  |
+| 1947 | Marries Lieutenant Philip Mountbatten on November 20 at Westminster Abbey                                                                   |
+| 1948 | Birth of son Prince Charles on November 14                                                                                                  |
+| 1950 | Birth of daughter Princess Anne on August 15                                                                                                |
+| 1952 | Father King George VI dies February 6; Elizabeth becomes Queen at age 25                                                                    |
+| 1953 | Coronation at Westminster Abbey on June 2, first to be televised                                                                            |
+| 1960 | Birth of son Prince Andrew on February 19                                                                                                   |
+| 1964 | Birth of son Prince Edward on March 10                                                                                                      |
+| 1977 | Silver Jubilee celebrating 25 years on throne                                                                                               |
+| 1992 | "Annus horribilis": Windsor Castle fire, separation of Charles and Diana, divorces of Anne and Andrew                                       |
+| 1997 | Princess Diana dies August 31; Hong Kong returned to China                                                                                  |
+| 2002 | Golden Jubilee celebrating 50 years; deaths of sister Princess Margaret and mother Queen Elizabeth The Queen Mother                         |
+| 2011 | First state visit to Republic of Ireland by British monarch since independence; marriage of Prince William and Catherine Middleton          |
+| 2012 | Diamond Jubilee celebrating 60 years; appears with James Bond (Daniel Craig) in Olympics opening ceremony                                   |
+| 2015 | Becomes longest-reigning British monarch, surpassing Queen Victoria                                                                         |
+| 2020 | COVID-19 pandemic; delivers special televised address to nation                                                                             |
+| 2021 | Prince Philip dies April 9 at age 99; funeral attended by Queen, alone due to COVID restrictions                                            |
 | 2022 | Platinum Jubilee celebrating 70 years; appoints 15th Prime Minister Liz Truss on September 6; dies September 8 at Balmoral Castle at age 96 |
 
 ---
@@ -193,164 +193,325 @@ Media scholars and critics of press culture argue that the royal family's compli
 ## References
 
 [^1]: "Queen Elizabeth II: The longest-reigning monarch," BBC News, September 8, 2022
+
 [^2]: Brandreth, Gyles, "Elizabeth: An Intimate Portrait," London: Michael Joseph, 2022
+
 [^3]: Lacey, Robert, "The Crown: The Official Companion, Volume 1," New York: Crown Archetype, 2017
+
 [^4]: Hardman, Robert, "Queen of Our Times: The Life of Elizabeth II," London: Macmillan, 2022
+
 [^5]: Pimlott, Ben, "The Queen: Elizabeth II and the Monarchy," London: HarperCollins, 2001
+
 [^6]: Shawcross, William, "The Queen Mother: The Official Biography," London: Macmillan, 2009
+
 [^7]: Crawford, Marion, "The Little Princesses," London: Cassell & Co, 1950
+
 [^8]: "Edward VIII abdicates," The Times, December 11, 1936
+
 [^9]: Bradford, Sarah, "Elizabeth: A Biography of Her Majesty the Queen," London: Heinemann, 1996
+
 [^10]: Marr, Andrew, "The Diamond Queen: Elizabeth II and Her People," London: Macmillan, 2011
+
 [^11]: "Royal Family wartime years at Windsor Castle," Royal Collection Trust Archives, 2020
+
 [^12]: "Princess Elizabeth's first broadcast, 1940," BBC Archive
+
 [^13]: "Princess Elizabeth joins the ATS," The Times, March 1945
+
 [^14]: Vickers, Hugo, "Elizabeth: The Queen Mother," London: Arrow Books, 2006
+
 [^15]: Eade, Philip, "Prince Philip: The Turbulent Early Life of the Man Who Married Queen Elizabeth II," London: HarperPress, 2011
+
 [^16]: Smith, Sally Bedell, "Elizabeth the Queen: The Life of a Modern Monarch," New York: Random House, 2012
+
 [^17]: Brandreth, Gyles, "Philip and Elizabeth: Portrait of a Marriage," London: Century, 2004
+
 [^18]: "Princess Elizabeth weds Lieutenant Mountbatten," The Times, November 21, 1947
+
 [^19]: "Princess Elizabeth's 21st birthday speech," South African Broadcasting Corporation, April 21, 1947
+
 [^20]: Bogdanor, Vernon, "The Monarchy and the Constitution," Oxford: Oxford University Press, 1995
+
 [^21]: Lacey, Robert, "Monarch: The Life and Reign of Elizabeth II," New York: Free Press, 2002
+
 [^22]: "King George VI's declining health," The Lancet, Historical Archives, 1952
+
 [^23]: "Royal tour of Commonwealth cut short," The Times, February 7, 1952
+
 [^24]: Hoey, Brian, "At Home with the Queen," London: HarperCollins, 2002
+
 [^25]: "The King is Dead: Elizabeth becomes Queen," Daily Telegraph, February 7, 1952
+
 [^26]: Turner, Graham, "Elizabeth: The Woman and the Queen," London: Macmillan, 2002
+
 [^27]: "Queen Elizabeth II returns to London," The Times, February 8, 1952
+
 [^28]: "Accession proclamations across the Commonwealth," Commonwealth Secretariat Records, 1952
+
 [^29]: Shawcross, William, "Queen and Country," London: BBC Books, 2002
+
 [^30]: "The Coronation of Queen Elizabeth II," Westminster Abbey Archives, June 2, 1953
+
 [^31]: "Television and the Coronation debate," BBC Written Archives Centre, 1952-53
+
 [^32]: "27 million watch Coronation on television," The Times, June 3, 1953
+
 [^33]: Hardman, Robert, "Our Queen," London: Hutchinson, 2011
+
 [^34]: "The Queen and the Commonwealth," Royal Commonwealth Society, 2022
+
 [^35]: Murphy, Philip, "Monarchy and the End of Empire," Oxford: Oxford University Press, 2013
+
 [^36]: "The Queen's Prime Ministers: From Churchill to Truss," The Guardian, September 6, 2022
+
 [^37]: Hennessy, Peter, "The Hidden Wiring: Unearthing the British Constitution," London: Gollancz, 1995
+
 [^38]: "The constitutional role of the Sovereign," Institute for Government, 2022
+
 [^39]: Bond, Jennie, "Elizabeth: Fifty Glorious Years," London: Carlton Books, 2002
+
 [^40]: "The Queen's overseas visits," Royal Archives, Windsor Castle, 2022
+
 [^41]: "Queen's historic Ireland visit," Irish Times, May 18, 2011
+
 [^42]: Seward, Ingrid, "The Queen's Speech: An Intimate Portrait," London: Simon & Schuster, 2015
+
 [^43]: "The Royal Family embraces digital age," The Guardian, 2014
+
 [^44]: "Evolution of the Queen's Christmas broadcast," BBC Archives, 2021
+
 [^45]: "Royal patronages and charities," The Royal Household official records, 2022
+
 [^46]: "The Queen by numbers," BBC News, June 2, 2012
+
 [^47]: "The Duke of Edinburgh's Award: 60 years," DofE Archives, 2016
+
 [^48]: Brazier, Rodney, "Constitutional Practice: The Foundations of British Government," Oxford: Oxford University Press, 1999
+
 [^49]: Kelly, Paul, "November 1975: The Inside Story of Australia's Greatest Political Crisis," Sydney: Allen & Unwin, 1995
+
 [^50]: Jackson, Michael D., "The Crown and Canadian Federalism," Toronto: Dundurn Press, 2013
+
 [^51]: "The Queen's addresses to the nation," Royal Archives compilation, 2020
+
 [^52]: "September 11: Queen's message of sympathy," BBC News, September 21, 2001
+
 [^53]: "Queen's coronavirus broadcast watched by 24 million," The Guardian, April 6, 2020
+
 [^54]: "From Silver to Platinum: Celebrating royal jubilees," Royal Collection Trust, 2022
+
 [^55]: "Platinum Jubilee celebrations," The Times, June 2-5, 2022
+
 [^56]: Williams, Kate, "Young Elizabeth: The Making of Our Queen," London: Weidenfeld & Nicolson, 2012
+
 [^57]: "Controversies of the reign," The Economist, September 10, 2022
+
 [^58]: "The death of Diana, Princess of Wales," The Times, August 31, 1997
+
 [^59]: Davies, Caroline, "Week that changed the monarchy," The Guardian, August 31, 2007
+
 [^60]: "Buckingham Palace flag crisis," Daily Mail, September 1997
+
 [^61]: "The Queen's tribute to Diana," BBC News, September 5, 1997
+
 [^62]: "Cost of the monarchy debate," Republic campaign materials, 2021
+
 [^63]: "Sovereign Grant and royal finances," National Audit Office Report, 2021
+
 [^64]: "Queen agrees to pay income tax," The Independent, November 27, 1992
+
 [^65]: "Royal wealth and inequality," The Guardian editorial, April 2021
+
 [^66]: Jobson, Robert, "Our Queen," London: John Blake Publishing, 2002
+
 [^67]: "Royal divorces: A timeline," Daily Telegraph, 1992-1996
+
 [^68]: "Prince Andrew and the Epstein scandal," Newsnight BBC interview, November 16, 2019
+
 [^69]: "Prince Andrew stripped of military titles," BBC News, January 13, 2022
+
 [^70]: Olusoga, David, "The Queen and Britain's colonial legacy," The Guardian, September 9, 2022
+
 [^71]: Elkins, Caroline, "Legacy of Violence: A History of the British Empire," New York: Knopf, 2022
+
 [^72]: Hyam, Ronald, "Britain's Declining Empire: The Road to Decolonisation, 1918-1968," Cambridge: Cambridge University Press, 2006
+
 [^73]: "Barbados becomes a republic," BBC News, November 30, 2021
+
 [^74]: "The Queen's political neutrality," Constitution Unit, UCL, 2014
+
 [^75]: "Should the Queen have spoken on Brexit?," The New Statesman, June 2016
+
 [^76]: Richards, David, Smith, Martin J., "Institutional Crisis in 21st Century Britain," London: Palgrave Macmillan, 2015
+
 [^77]: "The royals and the media," British Journalism Review, Vol. 23, 2012
+
 [^78]: Davies, Nick, "Flat Earth News," London: Chatto & Windus, 2008
+
 [^79]: "Oprah interview: Harry and Meghan make racism claims," BBC News, March 8, 2021
+
 [^80]: "The honours system: Reform needed?," House of Lords report, 2012
+
 [^81]: "Cash for honours allegations," The Guardian, 2006-2007
+
 [^82]: Bogdanor, Vernon, "The New British Constitution," Oxford: Hart Publishing, 2009
+
 [^83]: "Prince Philip dies aged 99," BBC News, April 9, 2021
+
 [^84]: Brandreth, Gyles, "Philip: The Final Portrait," London: Hodder & Stoughton, 2021
+
 [^85]: Vickers, Hugo, "Behind Closed Doors: The Tragic, Untold Story of the Duchess of Windsor," London: Hutchinson, 2011
+
 [^86]: "The Queen's children: Four very different lives," The Times, April 2021
+
 [^87]: "Former palace staff on the Queen's character," The Telegraph interviews, September 2022
+
 [^88]: "Inside the red boxes," The Civil Service Quarterly, 2018
+
 [^89]: Fellowes, Lord Robert, "My time as Private Secretary," The Spectator, June 2012
+
 [^90]: "The Queen's corgis: A special relationship," Vanity Fair, September 2015
+
 [^91]: "The Queen's faith," Church Times, June 2, 2022
+
 [^92]: "Christmas broadcasts: Religious themes," Journal of Anglican Studies, 2019
+
 [^93]: Carpenter, Humphrey, "Robert Runcie: The Reluctant Archbishop," London: Hodder & Stoughton, 1996
+
 [^94]: "The Queen never gave interviews: Here's why," Royal Central, 2021
+
 [^95]: "Life at Balmoral," Country Life, August 2019
+
 [^96]: "The Queen's racing interests," Racing Post, 2022
+
 [^97]: Dimbleby, Jonathan, "The Prince of Wales: A Biography," London: Little, Brown, 1994
+
 [^98]: Junor, Penny, "Charles: Victim or Villain?," London: HarperCollins, 1998
+
 [^99]: "The Queen as grandmother," Hello! Magazine, 2020
+
 [^100]: "1992: The Queen's annus horribilis," BBC On This Day, November 24
+
 [^101]: Seward, Ingrid, "My Husband and I: The Inside Story of 70 Years of Royal Marriage," London: Simon & Schuster, 2017
+
 [^102]: "Image of Queen alone at Philip's funeral resonates worldwide," The Guardian, April 17, 2021
+
 [^103]: "Queen Elizabeth II dies aged 96," The Times, September 8, 2022
+
 [^104]: Nairn, Tom, "The Enchanted Glass: Britain and its Monarchy," London: Verso, 2011
+
 [^105]: Cannadine, David, "The Context, Performance and Meaning of Ritual: The British Monarchy and the Invention of Tradition," in The Invention of Tradition, 1983
+
 [^106]: "Queue for Queen's lying in state stretches for miles," BBC News, September 14-19, 2022
+
 [^107]: "World leaders pay tribute to Queen Elizabeth II," Reuters, September 8-9, 2022
+
 [^108]: "The Queen's funeral: A farewell watched by billions," The Guardian, September 19, 2022
+
 [^109]: Judd, Denis, "Empire: The British Imperial Experience from 1765 to the Present," London: HarperCollins, 1996
+
 [^110]: "Commonwealth future without the Queen," Chatham House analysis, September 2022
+
 [^111]: Lloyd, Lorna, "The Commonwealth: 75 Years of Diplomacy," London: Commonwealth Secretariat, 2024
+
 [^112]: Balmer, Thomas, "Modern Monarchy: The British Example," Political Studies Review, 2015
+
 [^113]: "Constitutional monarchies: The British model," International Journal of Constitutional Law, 2018
+
 [^114]: Olechnowicz, Andrzej, "The Monarchy and the British Nation, 1780 to the Present," Cambridge: Cambridge University Press, 2007
+
 [^115]: Weight, Richard, "Patriots: National Identity in Britain 1940-2000," London: Macmillan, 2002
+
 [^116]: "The Queen on coins, stamps and currency," Royal Mint Museum, 2022
+
 [^117]: Marr, Andrew, "A History of Modern Britain," London: Macmillan, 2007
+
 [^118]: "The Queen and women's leadership," Gender & History Journal, Vol. 34, 2022
+
 [^119]: Campbell, John, "The Iron Lady: Margaret Thatcher from Grocer's Daughter to Prime Minister," London: Jonathan Cape, 2003
+
 [^120]: "Feminism and the monarchy," Women's Studies International Forum, 2020
+
 [^121]: "King Charles III: The challenges ahead," The Economist, September 10, 2022
+
 [^122]: "Public support for monarchy," YouGov polling data, 2022
+
 [^123]: "Republican movements in Commonwealth realms," Journal of Commonwealth Studies, 2021
+
 [^124]: Hardman, Robert, "Queen of the World," London: Century, 2018
+
 [^125]: "Working until the end: The Queen's final days," The Times, September 9, 2022
+
 [^126]: "Last photograph: Queen appoints Liz Truss," BBC News, September 6, 2022
+
 [^127]: Lacey, Robert, "Majesty: Elizabeth II and the House of Windsor," New York: Harcourt Brace Jovanovich, 1977
+
 [^128]: Lacey, Robert, "The Crown: The Inside History," London: Blink Publishing, 2021
+
 [^129]: Hennessy, Peter, "The Kingdom to Come: Thoughts on the Union Before and After the Death of Elizabeth II," London: Haus Publishing, 2022
+
 [^130]: Bogdanor, Vernon, "The Monarchy and the Constitution," Oxford: Clarendon Press, 1995
+
 [^131]: "The weekly audience: A constitutional tradition," UK Constitutional Law Association blog, 2016
+
 [^132]: Blair, Tony, "A Journey: My Political Life," London: Hutchinson, 2010
+
 [^133]: McIntyre, W. David, "The Significance of the Commonwealth, 1965-90," Contemporary Record, Vol. 9, 1995
+
 [^134]: "The Queen and decolonization," Journal of Imperial and Commonwealth History, 2018
+
 [^135]: Darwin, John, "The Empire Project: The Rise and Fall of the British World-System, 1830-1970," Cambridge: Cambridge University Press, 2009
+
 [^136]: "The Queen's work ethic: An exemplar of public service," Civil Service World, June 2022
+
 [^137]: "21,000 engagements: The Queen's public service in numbers," The Telegraph, February 2017
+
 [^138]: "Even republicans admired her dedication," Guardian letters, September 2022
+
 [^139]: Cannadine, David, "History in Our Time," London: Yale University Press, 1998
+
 [^140]: Samuel, Raphael, "Theatres of Memory: Past and Present in Contemporary Culture," London: Verso, 1994
+
 [^141]: "The cultural significance of Christmas broadcasts," Media, Culture & Society Journal, 2017
+
 [^142]: "The case against monarchy," Republic campaign, 2022
+
 [^143]: Nairn, Tom, "The Break-Up of Britain," London: Verso, 1977
+
 [^144]: "The cost of the Crown," Republic financial analysis, 2021
+
 [^145]: Gopal, Priyamvada, "Insurgent Empire: Anticolonial Resistance and British Dissent," London: Verso, 2019
+
 [^146]: Jasanoff, Maya, "The Dawn Watch: Joseph Conrad in a Global World," London: William Collins, 2017
+
 [^147]: Anderson, David, "Histories of the Hanged: The Dirty War in Kenya and the End of Empire," New York: W.W. Norton, 2005
+
 [^148]: Brown, Tina, "The Diana Chronicles," New York: Doubleday, 2007
+
 [^149]: "How Diana changed the monarchy forever," The Atlantic, August 2017
+
 [^150]: Morton, Andrew, "Diana: Her True Story - In Her Own Words," London: Michael O'Mara, 1997
+
 [^151]: "The Queen and feminism: A complicated legacy," Feminist Review, Autumn 2022
+
 [^152]: "Succession to the Crown Act 2013," UK Parliament
+
 [^153]: "Why Elizabeth II was no feminist icon," New York Times opinion, September 2022
+
 [^154]: Leveson Inquiry, "An Inquiry into the Culture, Practices and Ethics of the Press," London: The Stationery Office, 2012
+
 [^155]: "The palace and the press: A toxic relationship," British Journalism Review, September 2021
+
 [^156]: Scobie, Omid and Durand, Carolyn, "Finding Freedom: Harry and Meghan and the Making of a Modern Royal Family," London: HarperCollins, 2020
+
 [^157]: Royal Archives, "21st birthday speech transcript," April 21, 1947
+
 [^158]: "Queen's message to 9/11 families," The Guardian, September 21, 2001
+
 [^159]: "Full transcript: The Queen's coronavirus broadcast," BBC News, April 5, 2020
+
 [^160]: "The Queen's Guildhall speech," The Times, November 25, 1992
+
 [^161]: "Queen's tribute to the Queen Mother," Royal Archives, August 4, 1990
+
 [^162]: Hoey, Brian, "Not in Front of the Corgis: Secrets of Life Behind the Royal Curtains," London: Robson Press, 2011

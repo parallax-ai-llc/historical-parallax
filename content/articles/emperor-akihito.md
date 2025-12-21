@@ -151,31 +151,31 @@ Certain nationalist historians argue that Akihito was too influenced by his Amer
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1933 | Born December 23 at Tokyo Imperial Palace as Crown Prince Tsugu Akihito |
-| 1945 | Witnessed the end of World War II and American occupation of Japan |
-| 1946-1950 | Tutored by Elizabeth Gray Vining, an American Quaker |
-| 1952 | Invested as Crown Prince at age 18 |
-| 1959 | Married Michiko Shoda, breaking tradition by marrying a commoner |
-| 1960 | Birth of first son, Naruhito |
-| 1965 | Birth of second son, Fumihito (Prince Akishino) |
-| 1969 | Birth of daughter, Sayako |
-| 1975 | First published scientific paper on goby fish taxonomy |
-| 1989 | Ascended to the throne on January 7 following Emperor Hirohito's death; proclaimed Heisei era |
-| 1990 | Enthronement ceremony (Sokui no Rei) held November 12 |
-| 1992 | Historic visit to China, first Japanese emperor to visit mainland China |
-| 1995 | Visited Kobe earthquake disaster areas, beginning practice of disaster relief visits |
-| 2003 | Underwent surgery for prostate cancer |
-| 2005 | Visited Saipan to pray for war dead of all nations |
-| 2007 | Awarded Darwin-Wallace Medal by the Linnean Society of London |
-| 2011 | Visited Tohoku earthquake and tsunami disaster areas; delivered televised message to the nation |
-| 2012 | Underwent heart bypass surgery |
-| 2015 | Visited Palau for 70th anniversary of World War II end |
-| 2016 | Delivered video message expressing desire to abdicate; visited the Philippines |
-| 2017 | Japanese Diet passed special legislation allowing his abdication |
-| 2019 | Abdicated on April 30, became Emperor Emeritus; son Naruhito became Emperor, beginning Reiwa era |
-| 2020 | Continued scientific research in retirement |
+| Year      | Event                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| 1933      | Born December 23 at Tokyo Imperial Palace as Crown Prince Tsugu Akihito                          |
+| 1945      | Witnessed the end of World War II and American occupation of Japan                               |
+| 1946-1950 | Tutored by Elizabeth Gray Vining, an American Quaker                                             |
+| 1952      | Invested as Crown Prince at age 18                                                               |
+| 1959      | Married Michiko Shoda, breaking tradition by marrying a commoner                                 |
+| 1960      | Birth of first son, Naruhito                                                                     |
+| 1965      | Birth of second son, Fumihito (Prince Akishino)                                                  |
+| 1969      | Birth of daughter, Sayako                                                                        |
+| 1975      | First published scientific paper on goby fish taxonomy                                           |
+| 1989      | Ascended to the throne on January 7 following Emperor Hirohito's death; proclaimed Heisei era    |
+| 1990      | Enthronement ceremony (Sokui no Rei) held November 12                                            |
+| 1992      | Historic visit to China, first Japanese emperor to visit mainland China                          |
+| 1995      | Visited Kobe earthquake disaster areas, beginning practice of disaster relief visits             |
+| 2003      | Underwent surgery for prostate cancer                                                            |
+| 2005      | Visited Saipan to pray for war dead of all nations                                               |
+| 2007      | Awarded Darwin-Wallace Medal by the Linnean Society of London                                    |
+| 2011      | Visited Tohoku earthquake and tsunami disaster areas; delivered televised message to the nation  |
+| 2012      | Underwent heart bypass surgery                                                                   |
+| 2015      | Visited Palau for 70th anniversary of World War II end                                           |
+| 2016      | Delivered video message expressing desire to abdicate; visited the Philippines                   |
+| 2017      | Japanese Diet passed special legislation allowing his abdication                                 |
+| 2019      | Abdicated on April 30, became Emperor Emeritus; son Naruhito became Emperor, beginning Reiwa era |
+| 2020      | Continued scientific research in retirement                                                      |
 
 ---
 

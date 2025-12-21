@@ -146,21 +146,21 @@ The scholarly consensus among critics appears to be that while Milei has achieve
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1970 | Born on October 22 in Buenos Aires, Argentina |
-| 1989 | Decides to abandon football career and focus on economics due to Argentina's hyperinflation crisis |
-| 1993 | Obtains economics degree from University of Belgrano |
-| 2004 | Adopts English Mastiff named Conan |
-| 2008 | Begins working as chief economist for Corporación América |
-| 2010s | Rises to prominence as television pundit and economic commentator |
-| 2017 | Original dog Conan dies from spinal cancer in May |
-| 2018 | Pays $50,000 to clone Conan; becomes most interviewed economist on Argentine TV |
-| 2021 | Elected to Argentine Chamber of Deputies on December 18 |
-| 2022 | Announces presidential candidacy in April; officially launches campaign in June; attends CPAC Brazil |
-| 2023 | Wins PASO primary on August 13 with 29.86% of vote; places second in first round on October 22; defeats Sergio Massa in runoff on November 19 with 55.69% of vote; meets outgoing President Alberto Fernández on November 21; inaugurated as President on December 10 |
-| 2024 | Closes half of Argentina's ministries; devalues peso by 50%; attends World Economic Forum Davos in January; visits Israel in February; announces plan to move embassy to Jerusalem; monthly inflation drops from 25.5% to 2.4% by November; achieves first budget surplus in 14 years; speaks at CPAC in the United States |
-| 2025 | Returns to Davos in January; delivers controversial speech about "LGBT agenda"; monthly inflation hits five-year low of 1.5% in May; wins landslide midterm election victory in October with over 40% of vote |
+| Year  | Event                                                                                                                                                                                                                                                                                                                      |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1970  | Born on October 22 in Buenos Aires, Argentina                                                                                                                                                                                                                                                                              |
+| 1989  | Decides to abandon football career and focus on economics due to Argentina's hyperinflation crisis                                                                                                                                                                                                                         |
+| 1993  | Obtains economics degree from University of Belgrano                                                                                                                                                                                                                                                                       |
+| 2004  | Adopts English Mastiff named Conan                                                                                                                                                                                                                                                                                         |
+| 2008  | Begins working as chief economist for Corporación América                                                                                                                                                                                                                                                                  |
+| 2010s | Rises to prominence as television pundit and economic commentator                                                                                                                                                                                                                                                          |
+| 2017  | Original dog Conan dies from spinal cancer in May                                                                                                                                                                                                                                                                          |
+| 2018  | Pays $50,000 to clone Conan; becomes most interviewed economist on Argentine TV                                                                                                                                                                                                                                            |
+| 2021  | Elected to Argentine Chamber of Deputies on December 18                                                                                                                                                                                                                                                                    |
+| 2022  | Announces presidential candidacy in April; officially launches campaign in June; attends CPAC Brazil                                                                                                                                                                                                                       |
+| 2023  | Wins PASO primary on August 13 with 29.86% of vote; places second in first round on October 22; defeats Sergio Massa in runoff on November 19 with 55.69% of vote; meets outgoing President Alberto Fernández on November 21; inaugurated as President on December 10                                                      |
+| 2024  | Closes half of Argentina's ministries; devalues peso by 50%; attends World Economic Forum Davos in January; visits Israel in February; announces plan to move embassy to Jerusalem; monthly inflation drops from 25.5% to 2.4% by November; achieves first budget surplus in 14 years; speaks at CPAC in the United States |
+| 2025  | Returns to Davos in January; delivers controversial speech about "LGBT agenda"; monthly inflation hits five-year low of 1.5% in May; wins landslide midterm election victory in October with over 40% of vote                                                                                                              |
 
 ---
 
@@ -191,144 +191,285 @@ The scholarly consensus among critics appears to be that while Milei has achieve
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Javier_Milei
+
 [^2]: https://www.britannica.com/biography/Javier-Milei
+
 [^3]: https://en.wikipedia.org/wiki/2023_Argentine_general_election
+
 [^4]: https://www.chathamhouse.org/publications/the-world-today/2025-03/why-mileis-chainsaw-economics-wont-cut-it-washington
+
 [^5]: https://www.batimes.com.ar/news/argentina/the-making-of-a-president-javier-mileis-life-before-politics.phtml
+
 [^6]: https://en.majalla.com/node/307746/profiles/javier-milei-argentinas-radical-outsider-turned-president
+
 [^7]: https://leaderbiography.com/javier-milei/
+
 [^8]: https://kids.kiddle.co/Javier_Milei
+
 [^9]: https://m.allfootballapp.com/news/Headline/From-Goalkeeper-to-President-Javier-Milei%E2%80%99s-Extraordinary-Rise-to-Power/3228986
+
 [^10]: https://www.latinnews.com/component/k2/item/100863-javier-milei-profile-of-an-outsider.html
+
 [^11]: https://www.nbcnews.com/news/world/javier-milei-argentinas-president-elect-rcna125945
+
 [^12]: https://en.wikipedia.org/wiki/Javier_Milei
+
 [^13]: https://www.profolus.com/topics/javier-milei-economic-views-and-economic-policies-explained/
+
 [^14]: https://en.wikipedia.org/wiki/Javier_Milei
+
 [^15]: https://www.batimes.com.ar/news/argentina/the-making-of-a-president-javier-mileis-life-before-politics.phtml
+
 [^16]: https://mises.org/power-market/economics-javier-milei
+
 [^17]: https://www.journalofdemocracy.org/online-exclusive/who-is-the-real-javier-milei/
+
 [^18]: https://en.wikipedia.org/wiki/Javier_Milei
+
 [^19]: https://en.wikipedia.org/wiki/Javier_Milei
+
 [^20]: https://www.cnbc.com/2023/10/14/javier-milei-argentine-presidential-candidate-wants-to-abolish-central-bank.html
+
 [^21]: https://mabumbe.com/people/javier-milei-age-net-worth-career-highlights-family-timeline/
+
 [^22]: https://en.wikipedia.org/wiki/Javier_Milei_2023_presidential_campaign
+
 [^23]: https://en.wikipedia.org/wiki/2023_Argentine_general_election
+
 [^24]: https://www.cnn.com/2023/11/19/world/argentina-vote-milei-massa-nov-19/index.html
+
 [^25]: https://www.france24.com/en/live-news/20231119-argentina-s-massa-concedes-defeat-says-milei-won-presidential-election
+
 [^26]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^27]: https://sites.lsa.umich.edu/mje/2025/03/31/inflation-and-economic-health-a-case-study-of-javier-mileis-plan-for-economic-recovery-2/
+
 [^28]: https://sites.lsa.umich.edu/mje/2025/03/31/inflation-and-economic-health-a-case-study-of-javier-mileis-plan-for-economic-recovery-2/
+
 [^29]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^30]: https://thedailyeconomy.org/article/mileis-economic-miracle-how-argentina-slashed-inflation-to-1-5/
+
 [^31]: https://www.focus-economics.com/blog/argentina-economy-under-milei/
+
 [^32]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^33]: https://latinvex.com/one-year-of-javier-mileis-economic-policy/
+
 [^34]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^35]: https://www.swp-berlin.org/10.18449/2024C37/
+
 [^36]: https://buenosairesherald.com/op-ed/the-results-of-mileis-bold-economic-plan
+
 [^37]: https://www.chathamhouse.org/publications/the-world-today/2025-03/why-mileis-chainsaw-economics-wont-cut-it-washington
+
 [^38]: https://buenosairesherald.com/op-ed/the-results-of-mileis-bold-economic-plan
+
 [^39]: https://www.vizionapi.com/blog/argentinas-economic-transformation-under-javier-milei-from-crisis-to-opportunity
+
 [^40]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^41]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^42]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^43]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^44]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^45]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^46]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^47]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^48]: https://www.americasquarterly.org/article/mileis-decisive-midterm-election-victory/
+
 [^49]: https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections
+
 [^50]: https://hic-net.org/argentina-under-milei-feminist-resistance-amd-human-rights-in-crisis/
+
 [^51]: https://reason.com/2024/04/09/milei-sets-aside-dollarization-plan-due-to-politics/
+
 [^52]: https://reason.com/2024/04/09/milei-sets-aside-dollarization-plan-due-to-politics/
+
 [^53]: https://www.atlanticcouncil.org/blogs/new-atlanticist/milei-is-backing-away-from-his-radical-dollarization-idea-what-options-does-argentina-have/
+
 [^54]: https://www.americasquarterly.org/article/a-key-pending-challenge-for-mileis-argentina/
+
 [^55]: https://www.chathamhouse.org/publications/the-world-today/2025-03/why-mileis-chainsaw-economics-wont-cut-it-washington
+
 [^56]: https://en.wikipedia.org/wiki/Presidency_of_Javier_Milei
+
 [^57]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^58]: https://www.yahoo.com/news/chainsaw-never-stops-milei-support-090022728.html
+
 [^59]: https://www.chathamhouse.org/publications/the-world-today/2025-03/why-mileis-chainsaw-economics-wont-cut-it-washington
+
 [^60]: https://equalitynow.org/news_and_insights/argentina-under-milei-the-first-120-days-of-a-government-marked-by-wide-ranging-attacks-on-womens-rights/
+
 [^61]: https://equalitynow.org/news_and_insights/argentina-under-milei-the-first-120-days-of-a-government-marked-by-wide-ranging-attacks-on-womens-rights/
+
 [^62]: https://hic-net.org/argentina-under-milei-feminist-resistance-amd-human-rights-in-crisis/
+
 [^63]: https://www.batimes.com.ar/news/argentina/rights-group-warns-of-institutional-deterioration-under-milei.phtml
+
 [^64]: https://en.wikipedia.org/wiki/Political_positions_of_Javier_Milei
+
 [^65]: https://newint.org/health/2024/turning-tide-against-argentinas-anti-abortion-leader
+
 [^66]: https://hic-net.org/argentina-under-milei-feminist-resistance-amd-human-rights-in-crisis/
+
 [^67]: https://aul.org/2023/11/21/what-is-javier-mileis-stance-on-the-right-to-life/
+
 [^68]: https://www.batimes.com.ar/news/argentina/government-attempts-to-cool-backlash-to-mileis-davos-remarks.phtml
+
 [^69]: https://www.batimes.com.ar/news/argentina/government-attempts-to-cool-backlash-to-mileis-davos-remarks.phtml
+
 [^70]: https://www.openlynews.com/i/?id=1c638c5d-e7e1-4168-b960-1dd6fb3fc232
+
 [^71]: https://www.batimes.com.ar/news/argentina/rights-group-warns-of-institutional-deterioration-under-milei.phtml
+
 [^72]: https://www.swp-berlin.org/10.18449/2024C37/
+
 [^73]: https://www.swp-berlin.org/10.18449/2024C37/
+
 [^74]: https://www.batimes.com.ar/news/argentina/javier-milei-ratifies-closing-of-central-bank-and-confirms-giordano-for-anses-and-marin-for-ypf.phtml
+
 [^75]: https://www.cnbc.com/2023/10/14/javier-milei-argentine-presidential-candidate-wants-to-abolish-central-bank.html
+
 [^76]: https://leaderbiography.com/javier-milei/
+
 [^77]: https://en.majalla.com/node/307746/profiles/javier-milei-argentinas-radical-outsider-turned-president
+
 [^78]: https://www.batimes.com.ar/news/argentina/the-making-of-a-president-javier-mileis-life-before-politics.phtml
+
 [^79]: https://en.wikipedia.org/wiki/Conan_(Javier_Milei's_dog)
+
 [^80]: https://time.com/6337474/javier-milei-argentina-president-cloned-dogs-advice/
+
 [^81]: https://en.wikipedia.org/wiki/Conan_(Javier_Milei's_dog)
+
 [^82]: https://www.batimes.com.ar/news/argentina/javier-conan-and-the-clones-argentinas-new-president-doggedly-devoted-to-cloned-pooches.phtml
+
 [^83]: https://www.batimes.com.ar/news/argentina/milei-says-his-four-cloned-dogs-chose-their-own-economist-names.phtml
+
 [^84]: https://time.com/6337474/javier-milei-argentina-president-cloned-dogs-advice/
+
 [^85]: https://time.com/6337474/javier-milei-argentina-president-cloned-dogs-advice/
+
 [^86]: https://www.themirror.com/news/world-news/javier-mileis-cloned-dead-dog-199039
+
 [^87]: https://globelivemedia.com/people/javier-milei/
+
 [^88]: https://www.cambridge.org/core/journals/latin-american-research-review/article/rise-of-javier-milei-and-the-emergence-of-authoritarian-liberalism-in-argentina/D31EAD3C8B23520D0F66E589FBDDC739
+
 [^89]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^90]: https://mises.org/mises-wire/nine-months-javier-milei-president-argentina-critical-assessment
+
 [^91]: https://engelsbergideas.com/notebook/how-milei-made-austerity-popular/
+
 [^92]: https://www.weforum.org/stories/2024/01/special-address-by-javier-milei-president-of-argentina/
+
 [^93]: https://www.weforum.org/stories/2025/01/davos-2025-special-address-javier-milei-president-argentina/
+
 [^94]: https://www.cato.org/blog/javier-milei-legitimacy-libertarian-policy
+
 [^95]: https://buenosairesherald.com/politics/argentinas-milei-tells-davos-that-wokism-is-cancer-and-feminism-a-distortion
+
 [^96]: https://equalitynow.org/news_and_insights/argentina-under-milei-the-first-120-days-of-a-government-marked-by-wide-ranging-attacks-on-womens-rights/
+
 [^97]: https://www.batimes.com.ar/news/argentina/rights-group-warns-of-institutional-deterioration-under-milei.phtml
+
 [^98]: https://prospect.org/2025/11/24/argentina-bailout-javier-milei-trump-neoliberal/
+
 [^99]: https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections
+
 [^100]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^101]: https://buenosairesherald.com/op-ed/all-in-on-trump-mileis-foreign-policy-gamble
+
 [^102]: https://sites.lsa.umich.edu/mje/2025/03/31/inflation-and-economic-health-a-case-study-of-javier-mileis-plan-for-economic-recovery-2/
+
 [^103]: https://www.hoover.org/research/critics-mileis-policies-strike-out
+
 [^104]: https://mises.org/power-market/economics-javier-milei
+
 [^105]: https://www.econlib.org/javier-mileis-economic-understanding/
+
 [^106]: https://thedailyeconomy.org/article/how-did-108-economists-predict-mileis-results-exactly-wrong/
+
 [^107]: https://sites.lsa.umich.edu/mje/2025/03/31/inflation-and-economic-health-a-case-study-of-javier-mileis-plan-for-economic-recovery-2/
+
 [^108]: https://www.freiheit.org/one-year-javier-mileis-economic-policy
+
 [^109]: https://www.hoover.org/research/critics-mileis-policies-strike-out
+
 [^110]: https://schweizermonat.ch/argentina-two-years-later-javier-mileis-historic-course-correction/
+
 [^111]: https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections
+
 [^112]: https://www.hoover.org/research/critics-mileis-policies-strike-out
+
 [^113]: https://buenosairesherald.com/op-ed/all-in-on-trump-mileis-foreign-policy-gamble
+
 [^114]: https://www.weforum.org/stories/2024/01/special-address-by-javier-milei-president-of-argentina/
+
 [^115]: https://www.cato.org/blog/javier-milei-legitimacy-libertarian-policy
+
 [^116]: https://hic-net.org/argentina-under-milei-feminist-resistance-amd-human-rights-in-crisis/
+
 [^117]: https://www.cambridge.org/core/journals/latin-american-research-review/article/rise-of-javier-milei-and-the-emergence-of-authoritarian-liberalism-in-argentina/D31EAD3C8B23520D0F66E589FBDDC739
+
 [^118]: https://www.schiller.edu/blog/is-javier-milei-s-project-truly-liberal-or-populist-a-critical-analysis/
+
 [^119]: https://www.mdpi.com/2076-0760/13/11/599
+
 [^120]: https://www.batimes.com.ar/news/argentina/rights-group-warns-of-institutional-deterioration-under-milei.phtml
+
 [^121]: https://www.batimes.com.ar/news/argentina/rights-group-warns-of-institutional-deterioration-under-milei.phtml
+
 [^122]: https://hic-net.org/argentina-under-milei-feminist-resistance-amd-human-rights-in-crisis/
+
 [^123]: https://equalitynow.org/news_and_insights/argentina-under-milei-the-first-120-days-of-a-government-marked-by-wide-ranging-attacks-on-womens-rights/
+
 [^124]: https://prospect.org/2025/11/24/argentina-bailout-javier-milei-trump-neoliberal/
+
 [^125]: https://prospect.org/2025/11/24/argentina-bailout-javier-milei-trump-neoliberal/
+
 [^126]: https://www.schiller.edu/blog/is-javier-milei-s-project-truly-liberal-or-populist-a-critical-analysis/
+
 [^127]: https://www.mdpi.com/2076-0760/13/11/599
+
 [^128]: https://www.sciencespo.fr/opalc/sites/sciencespo.fr.opalc/files/Biondi,%20Milei.pdf
+
 [^129]: https://www.batimes.com.ar/news/argentina/javier-milei-ratifies-closing-of-central-bank-and-confirms-giordano-for-anses-and-marin-for-ypf.phtml
+
 [^130]: https://reason.com/2024/04/09/milei-sets-aside-dollarization-plan-due-to-politics/
+
 [^131]: https://www.atlanticcouncil.org/blogs/new-atlanticist/milei-is-backing-away-from-his-radical-dollarization-idea-what-options-does-argentina-have/
+
 [^132]: https://www.cambridge.org/core/journals/latin-american-research-review/article/rise-of-javier-milei-and-the-emergence-of-authoritarian-liberalism-in-argentina/D31EAD3C8B23520D0F66E589FBDDC739
+
 [^133]: https://en.wikiquote.org/wiki/Javier_Milei
+
 [^134]: https://www.brainyquote.com/authors/javier-milei-quotes
+
 [^135]: https://www.brainyquote.com/authors/javier-milei-quotes
+
 [^136]: https://quotlr.com/author/javier-milei
+
 [^137]: https://www.batimes.com.ar/news/argentina/javier-milei-and-his-beliefs-in-his-own-words.phtml
+
 [^138]: https://www.weforum.org/stories/2024/01/special-address-by-javier-milei-president-of-argentina/
+
 [^139]: https://www.cato.org/blog/javier-milei-cato-conference-im-liberal-libertarian-i-dont-believe-politicians-are-gods
+
 [^140]: https://quotlr.com/author/javier-milei
+
 [^141]: https://www.batimes.com.ar/news/argentina/government-attempts-to-cool-backlash-to-mileis-davos-remarks.phtml
+
 [^142]: https://globelivemedia.com/people/javier-milei/

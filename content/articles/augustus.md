@@ -145,29 +145,29 @@ Finally, some historians argue that Augustus's personal vindictiveness and paran
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 63 BCE | Born Gaius Octavius Thurinus in Rome (September 23) |
-| 59 BCE | Father Gaius Octavius dies; raised by grandmother Julia |
-| 46 BCE | Accompanies Julius Caesar in African triumph |
-| 45 BCE | Sent to Apollonia for education and military training |
-| 44 BCE | Julius Caesar assassinated; Octavius named heir and returns to Italy (March) |
+| Year   | Event                                                                            |
+| ------ | -------------------------------------------------------------------------------- |
+| 63 BCE | Born Gaius Octavius Thurinus in Rome (September 23)                              |
+| 59 BCE | Father Gaius Octavius dies; raised by grandmother Julia                          |
+| 46 BCE | Accompanies Julius Caesar in African triumph                                     |
+| 45 BCE | Sent to Apollonia for education and military training                            |
+| 44 BCE | Julius Caesar assassinated; Octavius named heir and returns to Italy (March)     |
 | 43 BCE | Forms Second Triumvirate with Antony and Lepidus; proscriptions begin (November) |
-| 42 BCE | Defeats Brutus and Cassius at Philippi; deification of Julius Caesar |
-| 40 BCE | Treaty of Brundisium divides Roman world; marries Livia Drusilla |
-| 36 BCE | Defeats Sextus Pompey; Lepidus removed from Triumvirate |
-| 32 BCE | War declared against Cleopatra (and implicitly Antony) |
-| 31 BCE | Defeats Antony and Cleopatra at Battle of Actium (September 2) |
-| 30 BCE | Antony and Cleopatra commit suicide; Egypt annexed |
-| 29 BCE | Triple triumph celebrated in Rome; closes Temple of Janus (symbolizing peace) |
-| 27 BCE | "Restores Republic" to Senate; receives title "Augustus" (January 16) |
-| 23 BCE | Constitutional settlement refined; receives tribunician power for life |
-| 19 BCE | Virgil dies; Aeneid published posthumously |
-| 12 BCE | Becomes Pontifex Maximus (chief priest) following Lepidus's death |
-| 9 BCE | Ara Pacis (Altar of Peace) dedicated |
-| 2 BCE | Receives title Pater Patriae (Father of the Fatherland); exiles daughter Julia |
-| 9 CE | Varus and three legions destroyed in Teutoburg Forest |
-| 14 CE | Dies in Nola (August 19); succeeded by stepson Tiberius; deified by Senate |
+| 42 BCE | Defeats Brutus and Cassius at Philippi; deification of Julius Caesar             |
+| 40 BCE | Treaty of Brundisium divides Roman world; marries Livia Drusilla                 |
+| 36 BCE | Defeats Sextus Pompey; Lepidus removed from Triumvirate                          |
+| 32 BCE | War declared against Cleopatra (and implicitly Antony)                           |
+| 31 BCE | Defeats Antony and Cleopatra at Battle of Actium (September 2)                   |
+| 30 BCE | Antony and Cleopatra commit suicide; Egypt annexed                               |
+| 29 BCE | Triple triumph celebrated in Rome; closes Temple of Janus (symbolizing peace)    |
+| 27 BCE | "Restores Republic" to Senate; receives title "Augustus" (January 16)            |
+| 23 BCE | Constitutional settlement refined; receives tribunician power for life           |
+| 19 BCE | Virgil dies; Aeneid published posthumously                                       |
+| 12 BCE | Becomes Pontifex Maximus (chief priest) following Lepidus's death                |
+| 9 BCE  | Ara Pacis (Altar of Peace) dedicated                                             |
+| 2 BCE  | Receives title Pater Patriae (Father of the Fatherland); exiles daughter Julia   |
+| 9 CE   | Varus and three legions destroyed in Teutoburg Forest                            |
+| 14 CE  | Dies in Nola (August 19); succeeded by stepson Tiberius; deified by Senate       |
 
 ---
 
@@ -187,101 +187,198 @@ Finally, some historians argue that Augustus's personal vindictiveness and paran
 
 ## References
 
-[^1]: Suetonius, "The Life of Augustus," in *The Twelve Caesars*, trans. Robert Graves (Penguin Classics, 2007), 1-4.
-[^2]: Everitt, Anthony, *Augustus: The Life of Rome's First Emperor* (Random House, 2006), 12-18.
-[^3]: Southern, Pat, *Augustus* (Routledge, 2014), 23-27.
-[^4]: Suetonius, *Life of Augustus*, 8.
-[^5]: Goldsworthy, Adrian, *Augustus: First Emperor of Rome* (Yale University Press, 2014), 56-62.
-[^6]: Appian, *The Civil Wars*, trans. John Carter (Penguin, 1996), 3.9-11.
-[^7]: Nicolaus of Damascus, *Life of Augustus*, Fragment 127.
-[^8]: Syme, Ronald, *The Roman Revolution* (Oxford University Press, 1939), 112-125.
-[^9]: Cicero, *Philippics*, 14.20-28.
-[^10]: Dio Cassius, *Roman History*, trans. Earnest Cary (Loeb Classical Library, 1917), 46.42-46.
-[^11]: Appian, *Civil Wars*, 4.2-6.
-[^12]: Plutarch, *Life of Cicero*, 48-49.
-[^13]: Plutarch, *Life of Brutus*, 40-53.
-[^14]: Osgood, Josiah, *Caesar's Legacy: Civil War and the Emergence of the Roman Empire* (Cambridge University Press, 2006), 189-215.
-[^15]: Dio Cassius, *Roman History*, 50.3-5.
-[^16]: Plutarch, *Life of Antony*, 63-86.
-[^17]: Augustus, *Res Gestae Divi Augusti*, ed. Alison Cooley (Cambridge University Press, 2009), 34.
-[^18]: Eck, Werner, *The Age of Augustus*, trans. Deborah Lucas Schneider (Blackwell, 2007), 49-62.
-[^19]: Keppie, Lawrence, *The Making of the Roman Army* (University of Oklahoma Press, 1998), 132-147.
-[^20]: Bingham, Sandra, *The Praetorian Guard: A History of Rome's Elite Special Forces* (Baylor University Press, 2013), 23-41.
-[^21]: Webster, Graham, *The Roman Imperial Army* (University of Oklahoma Press, 1998), 101-115.
-[^22]: Wells, Colin, *The Roman Empire* (Harvard University Press, 1995), 58-73.
-[^23]: Campbell, Brian, *The Roman Army, 31 BC–AD 337: A Sourcebook* (Routledge, 1994), 23-26.
-[^24]: Murdoch, Adrian, *Rome's Greatest Defeat: Massacre in the Teutoburg Forest* (Sutton Publishing, 2006), 145-178.
-[^25]: Augustus, *Res Gestae*, 19-21.
-[^26]: Zanker, Paul, *The Power of Images in the Age of Augustus*, trans. Alan Shapiro (University of Michigan Press, 1988), 172-192.
-[^27]: Treggiari, Susan, *Roman Marriage: Iusti Coniuges from the Time of Cicero to the Time of Ulpian* (Oxford University Press, 1991), 277-298.
-[^28]: Beard, Mary, John North, and Simon Price, *Religions of Rome: Volume 1, A History* (Cambridge University Press, 1998), 186-210.
-[^29]: Millar, Fergus, *The Emperor in the Roman World* (Cornell University Press, 1992), 230-252.
-[^30]: Richardson, John, *The Language of Empire: Rome and the Idea of Empire from the Third Century BC to the Second Century AD* (Cambridge University Press, 2008), 145-167.
-[^31]: White, Peter, *Promised Verse: Poets in the Society of Augustan Rome* (Harvard University Press, 1993), 42-78.
-[^32]: Kennedy, Duncan, "'Augustan' and 'Anti-Augustan': Reflections on Terms of Reference," in *Roman Poetry and Propaganda in the Age of Augustus*, ed. Anton Powell (Bristol Classical Press, 1992), 26-58.
-[^33]: Hinard, François, *Les proscriptions de la Rome républicaine* (École française de Rome, 1985), 405-436.
-[^34]: Osgood, *Caesar's Legacy*, 85-92.
-[^35]: Suetonius, *Life of Augustus*, 15.
-[^36]: Dio Cassius, *Roman History*, 51.15.
-[^37]: Galinsky, Karl, *Augustan Culture* (Princeton University Press, 1996), 10-41.
-[^38]: Syme, *The Roman Revolution*, 513-524.
-[^39]: Raditsa, Leo, "Augustus' Legislation Concerning Marriage, Procreation, Love Affairs and Adultery," *Aufstieg und Niedergang der römischen Welt* 2.13 (1980): 278-339.
-[^40]: Fantham, Elaine, *Julia Augusti: The Emperor's Daughter* (Routledge, 2006), 97-132.
-[^41]: Severy, Beth, *Augustus and the Family at the Birth of the Roman Empire* (Routledge, 2003), 118-156.
-[^42]: Levick, Barbara, *Tiberius the Politician* (Routledge, 1999), 41-58.
-[^43]: Gradel, Ittai, *Emperor Worship and Roman Religion* (Oxford University Press, 2002), 54-72.
-[^44]: Price, Simon, "From Noble Funerals to Divine Cult: The Consecration of Roman Emperors," in *Rituals of Royalty*, ed. David Cannadine and Simon Price (Cambridge University Press, 1987), 56-105.
-[^45]: Wells, Peter, *The Battle That Stopped Rome: Emperor Augustus, Arminius, and the Slaughter of the Legions in the Teutoburg Forest* (W.W. Norton, 2003), 18-47.
-[^46]: Hopkins, Keith, *Conquerors and Slaves* (Cambridge University Press, 1978), 25-37.
-[^47]: Suetonius, *Life of Augustus*, 62.
-[^48]: Barrett, Anthony, *Livia: First Lady of Imperial Rome* (Yale University Press, 2002), 24-35.
-[^49]: Kunst, Christiane, *Livia: Macht und Intrige am Hof des Augustus* (Klett-Cotta, 2010), 89-124.
-[^50]: Fantham, *Julia Augusti*, 29-61.
-[^51]: Richlin, Amy, "Julia's Jokes, Galla Placidia, and the Roman Use of Women as Political Icons," in *Stereotypes of Women in Power*, ed. Barbara Garlick (Greenwood Press, 1992), 65-91.
-[^52]: Suetonius, *Life of Augustus*, 79-81.
-[^53]: Retief, François, and Louise Cilliers, "The health of Augustus," *Acta Theologica* Supplementum 7 (2005): 189-202.
-[^54]: Suetonius, *Life of Augustus*, 72-78.
-[^55]: Suetonius, *Life of Augustus*, 90-92.
-[^56]: Suetonius, *Life of Augustus*, 84-89.
-[^57]: Macrobius, *Saturnalia*, 2.4.8.
-[^58]: Eck, *Age of Augustus*, 113-128.
-[^59]: Millar, *Emperor in the Roman World*, 6-12.
-[^60]: Woolf, Greg, *Rome: An Empire's Story* (Oxford University Press, 2012), 78-94.
-[^61]: Wells, *Roman Empire*, 235-256.
-[^62]: Martindale, Charles, ed., *The Cambridge Companion to Virgil* (Cambridge University Press, 1997), 1-18.
-[^63]: Galinsky, *Augustan Culture*, 225-287.
-[^64]: Fears, J. Rufus, "The Cult of Virtues and Roman Imperial Ideology," *Aufstieg und Niedergang der römischen Welt* 2.17.2 (1981): 827-948.
-[^65]: MacCormack, Sabine, *Art and Ceremony in Late Antiquity* (University of California Press, 1981), 17-89.
-[^66]: Woolf, Greg, "The Social Costs of Becoming an Empire," in *Conceiving the Empire: China and Rome Compared*, ed. Fritz-Heiner Mutschler and Achim Mittag (Oxford University Press, 2008), 239-261.
-[^67]: Dwyer, Philip, *Napoleon: The Path to Power 1769-1799* (Bloomsbury, 2007), 421-435.
-[^68]: Syme, *Roman Revolution*, 509-524.
-[^69]: Levick, *Tiberius*, 1-23.
-[^70]: Raaflaub, Kurt, and Mark Toher, eds., *Between Republic and Empire: Interpretations of Augustus and His Principate* (University of California Press, 1990), 1-22.
-[^71]: Tacitus, *Annals*, trans. A.J. Woodman (Hackett, 2004), 1.2.
-[^72]: Syme, *Roman Revolution*, 524.
-[^73]: Eck, *Age of Augustus*, 45-48.
-[^74]: Eck, Werner, "Augustus and His Time: Reflections on Method and Content of Research," *American Journal of Philology* 113.3 (1992): 445-471.
-[^75]: Millar, Fergus, "State and Subject: The Impact of Monarchy," in *Caesar Augustus: Seven Aspects*, ed. Fergus Millar and Erich Segal (Oxford University Press, 1984), 37-60.
+[^1]: Suetonius, "The Life of Augustus," in _The Twelve Caesars_, trans. Robert Graves (Penguin Classics, 2007), 1-4.
+
+[^2]: Everitt, Anthony, _Augustus: The Life of Rome's First Emperor_ (Random House, 2006), 12-18.
+
+[^3]: Southern, Pat, _Augustus_ (Routledge, 2014), 23-27.
+
+[^4]: Suetonius, _Life of Augustus_, 8.
+
+[^5]: Goldsworthy, Adrian, _Augustus: First Emperor of Rome_ (Yale University Press, 2014), 56-62.
+
+[^6]: Appian, _The Civil Wars_, trans. John Carter (Penguin, 1996), 3.9-11.
+
+[^7]: Nicolaus of Damascus, _Life of Augustus_, Fragment 127.
+
+[^8]: Syme, Ronald, _The Roman Revolution_ (Oxford University Press, 1939), 112-125.
+
+[^9]: Cicero, _Philippics_, 14.20-28.
+
+[^10]: Dio Cassius, _Roman History_, trans. Earnest Cary (Loeb Classical Library, 1917), 46.42-46.
+
+[^11]: Appian, _Civil Wars_, 4.2-6.
+
+[^12]: Plutarch, _Life of Cicero_, 48-49.
+
+[^13]: Plutarch, _Life of Brutus_, 40-53.
+
+[^14]: Osgood, Josiah, _Caesar's Legacy: Civil War and the Emergence of the Roman Empire_ (Cambridge University Press, 2006), 189-215.
+
+[^15]: Dio Cassius, _Roman History_, 50.3-5.
+
+[^16]: Plutarch, _Life of Antony_, 63-86.
+
+[^17]: Augustus, _Res Gestae Divi Augusti_, ed. Alison Cooley (Cambridge University Press, 2009), 34.
+
+[^18]: Eck, Werner, _The Age of Augustus_, trans. Deborah Lucas Schneider (Blackwell, 2007), 49-62.
+
+[^19]: Keppie, Lawrence, _The Making of the Roman Army_ (University of Oklahoma Press, 1998), 132-147.
+
+[^20]: Bingham, Sandra, _The Praetorian Guard: A History of Rome's Elite Special Forces_ (Baylor University Press, 2013), 23-41.
+
+[^21]: Webster, Graham, _The Roman Imperial Army_ (University of Oklahoma Press, 1998), 101-115.
+
+[^22]: Wells, Colin, _The Roman Empire_ (Harvard University Press, 1995), 58-73.
+
+[^23]: Campbell, Brian, _The Roman Army, 31 BC–AD 337: A Sourcebook_ (Routledge, 1994), 23-26.
+
+[^24]: Murdoch, Adrian, _Rome's Greatest Defeat: Massacre in the Teutoburg Forest_ (Sutton Publishing, 2006), 145-178.
+
+[^25]: Augustus, _Res Gestae_, 19-21.
+
+[^26]: Zanker, Paul, _The Power of Images in the Age of Augustus_, trans. Alan Shapiro (University of Michigan Press, 1988), 172-192.
+
+[^27]: Treggiari, Susan, _Roman Marriage: Iusti Coniuges from the Time of Cicero to the Time of Ulpian_ (Oxford University Press, 1991), 277-298.
+
+[^28]: Beard, Mary, John North, and Simon Price, _Religions of Rome: Volume 1, A History_ (Cambridge University Press, 1998), 186-210.
+
+[^29]: Millar, Fergus, _The Emperor in the Roman World_ (Cornell University Press, 1992), 230-252.
+
+[^30]: Richardson, John, _The Language of Empire: Rome and the Idea of Empire from the Third Century BC to the Second Century AD_ (Cambridge University Press, 2008), 145-167.
+
+[^31]: White, Peter, _Promised Verse: Poets in the Society of Augustan Rome_ (Harvard University Press, 1993), 42-78.
+
+[^32]: Kennedy, Duncan, "'Augustan' and 'Anti-Augustan': Reflections on Terms of Reference," in _Roman Poetry and Propaganda in the Age of Augustus_, ed. Anton Powell (Bristol Classical Press, 1992), 26-58.
+
+[^33]: Hinard, François, _Les proscriptions de la Rome républicaine_ (École française de Rome, 1985), 405-436.
+
+[^34]: Osgood, _Caesar's Legacy_, 85-92.
+
+[^35]: Suetonius, _Life of Augustus_, 15.
+
+[^36]: Dio Cassius, _Roman History_, 51.15.
+
+[^37]: Galinsky, Karl, _Augustan Culture_ (Princeton University Press, 1996), 10-41.
+
+[^38]: Syme, _The Roman Revolution_, 513-524.
+
+[^39]: Raditsa, Leo, "Augustus' Legislation Concerning Marriage, Procreation, Love Affairs and Adultery," _Aufstieg und Niedergang der römischen Welt_ 2.13 (1980): 278-339.
+
+[^40]: Fantham, Elaine, _Julia Augusti: The Emperor's Daughter_ (Routledge, 2006), 97-132.
+
+[^41]: Severy, Beth, _Augustus and the Family at the Birth of the Roman Empire_ (Routledge, 2003), 118-156.
+
+[^42]: Levick, Barbara, _Tiberius the Politician_ (Routledge, 1999), 41-58.
+
+[^43]: Gradel, Ittai, _Emperor Worship and Roman Religion_ (Oxford University Press, 2002), 54-72.
+
+[^44]: Price, Simon, "From Noble Funerals to Divine Cult: The Consecration of Roman Emperors," in _Rituals of Royalty_, ed. David Cannadine and Simon Price (Cambridge University Press, 1987), 56-105.
+
+[^45]: Wells, Peter, _The Battle That Stopped Rome: Emperor Augustus, Arminius, and the Slaughter of the Legions in the Teutoburg Forest_ (W.W. Norton, 2003), 18-47.
+
+[^46]: Hopkins, Keith, _Conquerors and Slaves_ (Cambridge University Press, 1978), 25-37.
+
+[^47]: Suetonius, _Life of Augustus_, 62.
+
+[^48]: Barrett, Anthony, _Livia: First Lady of Imperial Rome_ (Yale University Press, 2002), 24-35.
+
+[^49]: Kunst, Christiane, _Livia: Macht und Intrige am Hof des Augustus_ (Klett-Cotta, 2010), 89-124.
+
+[^50]: Fantham, _Julia Augusti_, 29-61.
+
+[^51]: Richlin, Amy, "Julia's Jokes, Galla Placidia, and the Roman Use of Women as Political Icons," in _Stereotypes of Women in Power_, ed. Barbara Garlick (Greenwood Press, 1992), 65-91.
+
+[^52]: Suetonius, _Life of Augustus_, 79-81.
+
+[^53]: Retief, François, and Louise Cilliers, "The health of Augustus," _Acta Theologica_ Supplementum 7 (2005): 189-202.
+
+[^54]: Suetonius, _Life of Augustus_, 72-78.
+
+[^55]: Suetonius, _Life of Augustus_, 90-92.
+
+[^56]: Suetonius, _Life of Augustus_, 84-89.
+
+[^57]: Macrobius, _Saturnalia_, 2.4.8.
+
+[^58]: Eck, _Age of Augustus_, 113-128.
+
+[^59]: Millar, _Emperor in the Roman World_, 6-12.
+
+[^60]: Woolf, Greg, _Rome: An Empire's Story_ (Oxford University Press, 2012), 78-94.
+
+[^61]: Wells, _Roman Empire_, 235-256.
+
+[^62]: Martindale, Charles, ed., _The Cambridge Companion to Virgil_ (Cambridge University Press, 1997), 1-18.
+
+[^63]: Galinsky, _Augustan Culture_, 225-287.
+
+[^64]: Fears, J. Rufus, "The Cult of Virtues and Roman Imperial Ideology," _Aufstieg und Niedergang der römischen Welt_ 2.17.2 (1981): 827-948.
+
+[^65]: MacCormack, Sabine, _Art and Ceremony in Late Antiquity_ (University of California Press, 1981), 17-89.
+
+[^66]: Woolf, Greg, "The Social Costs of Becoming an Empire," in _Conceiving the Empire: China and Rome Compared_, ed. Fritz-Heiner Mutschler and Achim Mittag (Oxford University Press, 2008), 239-261.
+
+[^67]: Dwyer, Philip, _Napoleon: The Path to Power 1769-1799_ (Bloomsbury, 2007), 421-435.
+
+[^68]: Syme, _Roman Revolution_, 509-524.
+
+[^69]: Levick, _Tiberius_, 1-23.
+
+[^70]: Raaflaub, Kurt, and Mark Toher, eds., _Between Republic and Empire: Interpretations of Augustus and His Principate_ (University of California Press, 1990), 1-22.
+
+[^71]: Tacitus, _Annals_, trans. A.J. Woodman (Hackett, 2004), 1.2.
+
+[^72]: Syme, _Roman Revolution_, 524.
+
+[^73]: Eck, _Age of Augustus_, 45-48.
+
+[^74]: Eck, Werner, "Augustus and His Time: Reflections on Method and Content of Research," _American Journal of Philology_ 113.3 (1992): 445-471.
+
+[^75]: Millar, Fergus, "State and Subject: The Impact of Monarchy," in _Caesar Augustus: Seven Aspects_, ed. Fergus Millar and Erich Segal (Oxford University Press, 1984), 37-60.
+
 [^76]: Millar, "State and Subject," 59.
-[^77]: Galinsky, Karl, "Augustus and the Power of Tradition," in *The Cambridge Companion to the Age of Augustus*, ed. Karl Galinsky (Cambridge University Press, 2005), 13-32.
-[^78]: Wallace-Hadrill, Andrew, "Civilis Princeps: Between Citizen and King," *Journal of Roman Studies* 72 (1982): 32-48.
-[^79]: Beard, Mary, *SPQR: A History of Ancient Rome* (Liveright, 2015), 344-371.
-[^80]: Isaac, Benjamin, *The Limits of Empire: The Roman Army in the East* (Oxford University Press, 1990), 372-398.
-[^81]: Garnsey, Peter, and Richard Saller, *The Roman Empire: Economy, Society and Culture* (University of California Press, 1987), 20-40.
-[^82]: Dio Cassius, *Roman History*, 56.43-44.
-[^83]: Holland, Tom, *Dynasty: The Rise and Fall of the House of Caesar* (Doubleday, 2015), 59-88.
-[^84]: Goldsworthy, *Augustus*, 143-158.
-[^85]: Meier, Christian, *Caesar: A Biography*, trans. David McLintock (Basic Books, 1995), 477-482.
-[^86]: Hallett, Judith, "Perusinae Glandes and the Changing Image of Augustus," *American Journal of Ancient History* 2 (1977): 151-171.
-[^87]: Suetonius, *Life of Augustus*, 69-71.
-[^88]: Johnson, W.R., "Vergil and the Politics of Augustanism," *Vergilius* 41 (1995): 1-16.
-[^89]: Thibault, John, *The Mystery of Ovid's Exile* (University of California Press, 1964), 7-35.
-[^90]: Mattingly, David, *Imperialism, Power, and Identity: Experiencing the Roman Empire* (Princeton University Press, 2011), 15-51.
-[^91]: Whittaker, C.R., *Frontiers of the Roman Empire: A Social and Economic Study* (Johns Hopkins University Press, 1994), 60-89.
-[^92]: Suetonius, *Life of Augustus*, 51-56.
-[^93]: Suetonius, *Life of Augustus*, 99.
-[^94]: Suetonius, *Life of Augustus*, 28.
-[^95]: Suetonius, *Life of Augustus*, 25.
-[^96]: Suetonius, *Life of Augustus*, 23.
-[^97]: Suetonius, *Life of Augustus*, 99.
-[^98]: Seneca the Elder, *Controversiae*, 2.4.13.
+
+[^77]: Galinsky, Karl, "Augustus and the Power of Tradition," in _The Cambridge Companion to the Age of Augustus_, ed. Karl Galinsky (Cambridge University Press, 2005), 13-32.
+
+[^78]: Wallace-Hadrill, Andrew, "Civilis Princeps: Between Citizen and King," _Journal of Roman Studies_ 72 (1982): 32-48.
+
+[^79]: Beard, Mary, _SPQR: A History of Ancient Rome_ (Liveright, 2015), 344-371.
+
+[^80]: Isaac, Benjamin, _The Limits of Empire: The Roman Army in the East_ (Oxford University Press, 1990), 372-398.
+
+[^81]: Garnsey, Peter, and Richard Saller, _The Roman Empire: Economy, Society and Culture_ (University of California Press, 1987), 20-40.
+
+[^82]: Dio Cassius, _Roman History_, 56.43-44.
+
+[^83]: Holland, Tom, _Dynasty: The Rise and Fall of the House of Caesar_ (Doubleday, 2015), 59-88.
+
+[^84]: Goldsworthy, _Augustus_, 143-158.
+
+[^85]: Meier, Christian, _Caesar: A Biography_, trans. David McLintock (Basic Books, 1995), 477-482.
+
+[^86]: Hallett, Judith, "Perusinae Glandes and the Changing Image of Augustus," _American Journal of Ancient History_ 2 (1977): 151-171.
+
+[^87]: Suetonius, _Life of Augustus_, 69-71.
+
+[^88]: Johnson, W.R., "Vergil and the Politics of Augustanism," _Vergilius_ 41 (1995): 1-16.
+
+[^89]: Thibault, John, _The Mystery of Ovid's Exile_ (University of California Press, 1964), 7-35.
+
+[^90]: Mattingly, David, _Imperialism, Power, and Identity: Experiencing the Roman Empire_ (Princeton University Press, 2011), 15-51.
+
+[^91]: Whittaker, C.R., _Frontiers of the Roman Empire: A Social and Economic Study_ (Johns Hopkins University Press, 1994), 60-89.
+
+[^92]: Suetonius, _Life of Augustus_, 51-56.
+
+[^93]: Suetonius, _Life of Augustus_, 99.
+
+[^94]: Suetonius, _Life of Augustus_, 28.
+
+[^95]: Suetonius, _Life of Augustus_, 25.
+
+[^96]: Suetonius, _Life of Augustus_, 23.
+
+[^97]: Suetonius, _Life of Augustus_, 99.
+
+[^98]: Seneca the Elder, _Controversiae_, 2.4.13.

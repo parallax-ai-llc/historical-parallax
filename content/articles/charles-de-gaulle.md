@@ -163,39 +163,39 @@ Economic historians question whether de Gaulle's dirigiste economic policies des
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1890 | Born November 22 in Lille, France |
-| 1912 | Graduated from Saint-Cyr Military Academy; joined 33rd Infantry Regiment |
-| 1914 | Fought in World War I; wounded multiple times |
-| 1916 | Captured by Germans at Battle of Verdun; imprisoned until 1918 |
-| 1921 | Married Yvonne Vendroux on April 7 |
-| 1925 | Appointed to staff of Supreme War Council by Marshal Pétain |
-| 1928 | Daughter Anne born with Down syndrome |
-| 1934 | Published "Vers l'Armée de Métier" advocating mechanized warfare |
+| Year | Event                                                                             |
+| ---- | --------------------------------------------------------------------------------- |
+| 1890 | Born November 22 in Lille, France                                                 |
+| 1912 | Graduated from Saint-Cyr Military Academy; joined 33rd Infantry Regiment          |
+| 1914 | Fought in World War I; wounded multiple times                                     |
+| 1916 | Captured by Germans at Battle of Verdun; imprisoned until 1918                    |
+| 1921 | Married Yvonne Vendroux on April 7                                                |
+| 1925 | Appointed to staff of Supreme War Council by Marshal Pétain                       |
+| 1928 | Daughter Anne born with Down syndrome                                             |
+| 1934 | Published "Vers l'Armée de Métier" advocating mechanized warfare                  |
 | 1940 | Promoted to Brigadier General; appointed Undersecretary of State for War (June 6) |
-| 1940 | Fled to London (June 16); delivered historic BBC broadcast Appeal (June 18) |
-| 1940 | Recognized by Britain as Leader of Free French Forces (June 28) |
-| 1941 | Formed French National Committee in London (September) |
-| 1943 | Became President of French Committee of National Liberation in Algiers |
-| 1944 | Entered liberated Paris (August 25); became head of Provisional Government |
-| 1946 | Resigned as head of government (January 20) |
-| 1948 | Daughter Anne died (February 6) |
-| 1947 | Founded Rally of the French People (Rassemblement du Peuple Français) |
-| 1954 | Published first volume of "Mémoires de Guerre" |
-| 1958 | Returned to power as Prime Minister during Algerian crisis (June 1) |
-| 1958 | New Constitution approved by referendum (September 28) |
-| 1958 | Elected first President of Fifth Republic (December 21) |
-| 1962 | Survived assassination attempt at Petit-Clamart (August 22) |
-| 1962 | Algeria granted independence (July 3) |
-| 1963 | Vetoed British entry into European Economic Community |
-| 1964 | Recognized People's Republic of China |
-| 1965 | Reelected President of France |
-| 1966 | Withdrew France from NATO integrated military command (March 10) |
-| 1967 | Declared "Vive le Québec libre" in Montreal (July 24) |
-| 1968 | Faced May protests and general strikes |
-| 1969 | Resigned presidency after referendum defeat (April 28) |
-| 1970 | Died November 9 at Colombey-les-Deux-Églises |
+| 1940 | Fled to London (June 16); delivered historic BBC broadcast Appeal (June 18)       |
+| 1940 | Recognized by Britain as Leader of Free French Forces (June 28)                   |
+| 1941 | Formed French National Committee in London (September)                            |
+| 1943 | Became President of French Committee of National Liberation in Algiers            |
+| 1944 | Entered liberated Paris (August 25); became head of Provisional Government        |
+| 1946 | Resigned as head of government (January 20)                                       |
+| 1948 | Daughter Anne died (February 6)                                                   |
+| 1947 | Founded Rally of the French People (Rassemblement du Peuple Français)             |
+| 1954 | Published first volume of "Mémoires de Guerre"                                    |
+| 1958 | Returned to power as Prime Minister during Algerian crisis (June 1)               |
+| 1958 | New Constitution approved by referendum (September 28)                            |
+| 1958 | Elected first President of Fifth Republic (December 21)                           |
+| 1962 | Survived assassination attempt at Petit-Clamart (August 22)                       |
+| 1962 | Algeria granted independence (July 3)                                             |
+| 1963 | Vetoed British entry into European Economic Community                             |
+| 1964 | Recognized People's Republic of China                                             |
+| 1965 | Reelected President of France                                                     |
+| 1966 | Withdrew France from NATO integrated military command (March 10)                  |
+| 1967 | Declared "Vive le Québec libre" in Montreal (July 24)                             |
+| 1968 | Faced May protests and general strikes                                            |
+| 1969 | Resigned presidency after referendum defeat (April 28)                            |
+| 1970 | Died November 9 at Colombey-les-Deux-Églises                                      |
 
 ---
 
@@ -220,92 +220,181 @@ Economic historians question whether de Gaulle's dirigiste economic policies des
 ## References
 
 [^1]: "Charles de Gaulle," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Charles_de_Gaulle
+
 [^2]: "Charles de Gaulle | Biography, World War II, & Facts," Britannica, accessed December 20, 2025, https://www.britannica.com/biography/Charles-de-Gaulle-president-of-France
+
 [^3]: "Charles de Gaulle Biography and Facts," Potter's Wax Museum, accessed December 20, 2025, https://www.potterswaxmuseum.com/wwii/charles-de-gaulle/
+
 [^4]: "Charles de Gaulle - Quotes, Facts & Presidency," Biography.com, accessed December 20, 2025, https://www.biography.com/political-figures/charles-de-gaulle
+
 [^5]: "Charles de Gaulle," Élysée Palace, accessed December 20, 2025, https://www.elysee.fr/en/charles-de-gaulle
+
 [^6]: "Charles De Gaulle," Encyclopedia.com, accessed December 20, 2025, https://www.encyclopedia.com/people/history/french-history-biographies/charles-de-gaulle
+
 [^7]: "Charles De Gaulle Biography - Facts, Childhood, Family Life & Achievements," The Famous People, accessed December 20, 2025, https://www.thefamouspeople.com/profiles/charles-de-gaulle-6202.php
+
 [^8]: "Biography for Kids: Charles de Gaulle," Ducksters, accessed December 20, 2025, https://www.ducksters.com/history/world_war_ii/charles_de_gaulle.php
+
 [^9]: "Charles de Gaulle," Jewish Virtual Library, accessed December 20, 2025, https://www.jewishvirtuallibrary.org/charles-de-gaulle
+
 [^10]: "Charles de Gaulle - Kids," Britannica Kids, accessed December 20, 2025, https://kids.britannica.com/kids/article/Charles-de-Gaulle/353045
+
 [^11]: "Charles de Gaulle," Wikipedia (interwar period section)
+
 [^12]: "Charles de Gaulle | Biography, World War II, & Facts," Britannica (military career section)
+
 [^13]: "Charles De Gaulle Biography," The Famous People (military theorist section)
+
 [^14]: "Charles de Gaulle," Wikipedia (1940 military service)
+
 [^15]: "Preserving the 'Flame of French Resistance': Charles de Gaulle's June 1940 Addresses," The National WWII Museum, accessed December 20, 2025, https://www.nationalww2museum.org/war/articles/preserving-flame-french-resistance-charles-de-gaulles-june-1940-addresses
+
 [^16]: "Free French | WWII Resistance, De Gaulle & Liberation," Britannica, accessed December 20, 2025, https://www.britannica.com/topic/Free-French
+
 [^17]: "Free France - Wikipedia," accessed December 20, 2025, https://en.wikipedia.org/wiki/Free_France
+
 [^18]: "Charles de Gaulle during World War II," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Charles_de_Gaulle_during_World_War_II
+
 [^19]: "Charles de Gaulle and the Free French," Defense Media Network, accessed December 20, 2025, https://www.defensemedianetwork.com/stories/the-power-of-wont-charles-de-gaulle-and-the-free-french/
+
 [^20]: "France - Resistance, WWII, Liberation," Britannica, accessed December 20, 2025, https://www.britannica.com/place/France/The-Resistance
+
 [^21]: "Overview of the French Resistance," Library of Congress Research Guide, accessed December 20, 2025, https://guides.loc.gov/french-resistance-world-war-two
+
 [^22]: "Charles de Gaulle | World War II Database," accessed December 20, 2025, https://ww2db.com/person_bio.php?person_id=68
+
 [^23]: "Free France Resurgent: Charles de Gaulle in World War II," Warfare History Network, accessed December 20, 2025, https://warfarehistorynetwork.com/article/free-france-resurgent-charles-de-gaulle-in-world-war-ii/
+
 [^24]: "Charles de Gaulle elected president of France | December 21, 1958," HISTORY, accessed December 20, 2025, https://www.history.com/this-day-in-history/december-21/de-gaulle-elected
+
 [^25]: "French Fifth Republic," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/French_Fifth_Republic
+
 [^26]: "De Gaulle Becomes President of France," EBSCO Research Starters, accessed December 20, 2025, https://www.ebsco.com/research-starters/history/de-gaulle-becomes-president-france
+
 [^27]: "Presidency of Charles de Gaulle," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Presidency_of_Charles_de_Gaulle
+
 [^28]: "De Gaulle and Algeria," Chemins de Mémoire, accessed December 20, 2025, https://www.cheminsdememoire.gouv.fr/en/de-gaulle-and-algeria
+
 [^29]: "Presidential Democracy in France's 5th Republic," Saint Leo University LibGuides, accessed December 20, 2025, https://slulibrary.saintleo.edu/c.php?g=368038&p=2487242
+
 [^30]: "Charles de Gaulle," Élysée Palace official website
+
 [^31]: "Charles de Gaulle," New World Encyclopedia, accessed December 20, 2025, https://www.newworldencyclopedia.org/entry/Charles_de_Gaulle
+
 [^32]: "Charles de Gaulle - French Leader, WWII, Resistance," Britannica, accessed December 20, 2025, https://www.britannica.com/biography/Charles-de-Gaulle-president-of-France/Return-to-public-life
+
 [^33]: "Full article: May 1968: Anticolonial Revolution for a Decolonial Future," Taylor & Francis Online, accessed December 20, 2025, https://www.tandfonline.com/doi/full/10.1080/1369801X.2020.1843517
+
 [^34]: "Greatness and failure: De Gaulle and politics," University of Navarra BeBrave, accessed December 20, 2025, https://en.unav.edu/web/bebrave/pensar-grandeza-y-fracaso
+
 [^35]: "The Emergence, Forgetting and Re-writing of May '68," University of South Carolina Scholar Commons, accessed December 20, 2025, https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=5070&context=etd
+
 [^36]: "Presidency of Charles de Gaulle," Wikipedia (May 1968 section)
+
 [^37]: "1961 Generals' Putsch of Algiers," French Foreign Legion Information, accessed December 20, 2025, https://foreignlegion.info/1961-generals-putsch-of-algiers/
+
 [^38]: "Historical Documents," Office of the Historian, accessed December 20, 2025, https://history.state.gov/historicaldocuments/frus1958-60v07p2/d201
+
 [^39]: "Presidency of Charles de Gaulle," Wikipedia (criticism section)
+
 [^40]: "De Gaulle and Algeria," Chemins de Mémoire (economic policy)
+
 [^41]: "Charles de Gaulle," Jewish Virtual Library (Middle East policy)
+
 [^42]: "Yvonne de Gaulle," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Yvonne_de_Gaulle
+
 [^43]: "Anne de Gaulle," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Anne_de_Gaulle
+
 [^44]: "A Father's Love: The Story of Charles and Anne," Catholic World Report, accessed December 20, 2025, https://www.catholicworldreport.com/2017/04/26/a-fathers-love-the-story-of-charles-and-anne/
+
 [^45]: "de Gaulle, Yvonne (1900–1979)," Encyclopedia.com, accessed December 20, 2025, https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/de-gaulle-yvonne-1900-1979
+
 [^46]: "Anne de Gaulle," Catholic Stand, accessed December 20, 2025, https://catholicstand.com/anne-de-gaulle/
+
 [^47]: "The Love Story of French President Charles de Gaulle With His Daughter, Anne, Who Had Down Syndrome," Pressenza, accessed December 20, 2025, https://www.pressenza.com/2024/06/the-love-story-of-french-president-charles-de-gaulle-with-his-daughter-anne-who-had-down-syndrome/
+
 [^48]: "Who teaches us how to really love?" City in Focus Foundation, accessed December 20, 2025, https://www.cityinfocus.ca/blog/f7rgmb32afda2d6pybktoylmu9gut4
+
 [^49]: "Anne de Gaulle and Family," b-ray bloggin', accessed December 20, 2025, https://barryraphael.wordpress.com/2024/07/14/anne-de-gaulle-and-family/
+
 [^50]: "General Charles De Gaulle and a very special person with Down's Syndrome," CMQ, accessed December 20, 2025, http://www.cmq.org.uk/CMQ/2022/Aug/Anne_de_Gaulle.html
+
 [^51]: "You've Been Graced," The Daily Dad, accessed December 20, 2025, https://dailydad.com/youve-been-graced/
+
 [^52]: "Charles de Gaulle," Wikipedia (personal life section)
+
 [^53]: "Charles de Gaulle," Britannica (personal characteristics)
+
 [^54]: "Charles de Gaulle 1890-1970," Emerson Kent, accessed December 20, 2025, https://www.emersonkent.com/history_notes/charles_de_gaulle.htm
+
 [^55]: "Gaullism," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Gaullism
+
 [^56]: "Gaullism as a legacy of Charles de Gaulle," Modern Diplomacy, accessed December 20, 2025, https://moderndiplomacy.eu/2017/07/06/gaullism-as-a-legacy-of-charles-de-gaulle/
+
 [^57]: "Charles de Gaulle's Legacy Offers Timely Lessons," City Journal, accessed December 20, 2025, https://www.city-journal.org/article/charles-de-gaulle-memoirs-legacy-lessons-government
+
 [^58]: "Charles de Gaulle: The Man Who Saved France," TheCollector, accessed December 20, 2025, https://www.thecollector.com/charles-de-gaulle-saved-france/
+
 [^59]: "Charles de Gaulle - (European History – 1945 to Present)," Fiveable, accessed December 20, 2025, https://fiveable.me/key-terms/europe-since-1945/charles-de-gaulle
+
 [^60]: "Gaullism," Oxford Reference, accessed December 20, 2025, https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095844858
+
 [^61]: "Gaullism as a doctrine and political movement," The Routledge Handbook, accessed December 20, 2025, https://www.taylorfrancis.com/chapters/edit/10.4324/9781315656717-4/gaullism-doctrine-political-movement-benjamin-leruth
+
 [^62]: "De Gaulle and Gaullism," SpringerLink, accessed December 20, 2025, https://link.springer.com/chapter/10.1057/9781137483942_2
+
 [^63]: "Gaullism," Wikipedia (economic policy evolution)
+
 [^64]: "Foreign policy of Charles de Gaulle," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Foreign_policy_of_Charles_de_Gaulle
+
 [^65]: "France and NATO - Historical events in the European integration process," CVCE Website, accessed December 20, 2025, https://www.cvce.eu/en/recherche/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/c4bbe3c4-b6d7-406d-bb2b-607dbdf37207
+
 [^66]: "France Withdraws from NATO's Military Structure," EBSCO Research Starters, accessed December 20, 2025, https://www.ebsco.com/research-starters/history/france-withdraws-natos-military-structure
+
 [^67]: "Historical Documents," Office of the Historian (NATO withdrawal), https://history.state.gov/historicaldocuments/frus1964-68v12/d42
+
 [^68]: "France has de Gaulle to Withdraw from NATO," Association for Diplomatic Studies & Training, accessed December 20, 2025, https://adst.org/2014/06/france-has-degaulle-to-withdraw-from-nato/
+
 [^69]: "France and NATO," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/France_and_NATO
+
 [^70]: "De Gaulle Between Grain and Grandeur," Princeton University, accessed December 20, 2025, https://www.princeton.edu/~amoravcs/library/grandeur1.pdf
+
 [^71]: "1966 France Withdraws From NATO Military Command," History Central, accessed December 20, 2025, https://www.historycentral.com/Europe/FNato.html
+
 [^72]: "De Gaulle and Europe: Historical Revision and Social Science Theory," University of Pittsburgh, accessed December 20, 2025, https://aei.pitt.edu/39396/1/PSGE_WP8_5.pdf
+
 [^73]: "Withdrawal from NATO," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Withdrawal_from_NATO
+
 [^74]: "Charles de Gaulle," Wikiquote, accessed December 20, 2025, https://en.wikiquote.org/wiki/Charles_de_Gaulle
+
 [^75]: "Charles de Gaulle Quotes," Goodreads, accessed December 20, 2025, https://www.goodreads.com/author/quotes/490153.Charles_de_Gaulle
+
 [^76]: "18 of the Best Quotes By Charles De Gaulle," Quoteikon, accessed December 20, 2025, https://www.quoteikon.com/charles-de-gaulle-quotes.html
+
 [^77]: "Charles de Gaulle: Quotes," Britannica, accessed December 20, 2025, https://www.britannica.com/quotes/Charles-de-Gaulle-president-of-France
+
 [^78]: "Charles de Gaulle Quotes," BrainyQuote, accessed December 20, 2025, https://www.brainyquote.com/authors/charles-de-gaulle-quotes
+
 [^79]: "Appeal of 18 June," Wikipedia, accessed December 20, 2025, https://en.wikipedia.org/wiki/Appeal_of_18_June
+
 [^80]: "TOP 25 QUOTES BY CHARLES DE GAULLE," A-Z Quotes, accessed December 20, 2025, https://www.azquotes.com/author/5392-Charles_de_Gaulle
+
 [^81]: "Charles De Gaulle Quotes," Quotes.net, accessed December 20, 2025, https://www.quotes.net/authors/Charles+De+Gaulle
+
 [^82]: "29 Charles De Gaulle Quotes That Are Still Relevant," Wisdomly, accessed December 20, 2025, https://www.wisdomly.net/charles-de-gaulle-6202.php
+
 [^83]: "General de Gaulle's Address (June 22, 1940)," France in the US, accessed December 20, 2025, https://franceintheus.org/IMG/pdf/General_de_Gaulles_Address_-_June_22_1940.pdf
+
 [^84]: "Charles de Gaulle," Wikiquote (grandeur quote)
+
 [^85]: "Appeal of 18 June," Wikipedia (famous broadcast)
+
 [^86]: "Charles de Gaulle Quotes," Goodreads (certain idea of France)
+
 [^87]: "Charles de Gaulle Quotes," BrainyQuote (1943 speech)
+
 [^88]: "Charles de Gaulle: Quotes," Britannica (sword and grandeur)
+
 [^89]: "A Father's Love: The Story of Charles and Anne," Catholic World Report (Anne's death)
+
 [^90]: "Charles de Gaulle Quotes," A-Z Quotes (patriotism vs nationalism)

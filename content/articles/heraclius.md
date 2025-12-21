@@ -193,26 +193,26 @@ The succession crisis after his death, with the rapid collapse of the Heraclian 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 575 | Birth in Cappadocia or North Africa |
-| 608 | Begins rebellion against Emperor Phocas from Africa |
-| 610 | Sails to Constantinople with fleet; Phocas overthrown and executed; Heraclius crowned emperor; marries Eudokia |
-| 612 | Death of Empress Eudokia |
-| 613 | Marries his niece Martina, causing scandal |
-| 614 | Persians capture Jerusalem and the True Cross |
-| 619 | Persians complete conquest of Egypt |
-| 622 | Launches first major offensive campaign against Persia in Anatolia |
-| 624-625 | Campaigns in Armenia and Transcaucasia |
-| 626 | Combined Persian-Avar siege of Constantinople fails |
-| 627 | Decisive victory over Persians at Battle of Nineveh |
-| 628 | Sasanian King Khosrow II overthrown; Peace treaty returns all conquered territories to Byzantium |
-| 630 | Triumphant entry into Jerusalem to restore the True Cross |
-| 634 | Arab forces defeat Byzantine army at Battle of Ajnadayn; beginning of Muslim conquests |
-| 636 | Catastrophic defeat at Battle of Yarmouk; loss of Syria |
-| 637 | Jerusalem falls to Arab forces |
-| 638 | Issues the Ecthesis promoting Monothelitism |
-| 641 | Death on February 11 in Constantinople; succeeded by Constantine III and Heraclonas |
+| Year    | Event                                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------------------- |
+| c. 575  | Birth in Cappadocia or North Africa                                                                            |
+| 608     | Begins rebellion against Emperor Phocas from Africa                                                            |
+| 610     | Sails to Constantinople with fleet; Phocas overthrown and executed; Heraclius crowned emperor; marries Eudokia |
+| 612     | Death of Empress Eudokia                                                                                       |
+| 613     | Marries his niece Martina, causing scandal                                                                     |
+| 614     | Persians capture Jerusalem and the True Cross                                                                  |
+| 619     | Persians complete conquest of Egypt                                                                            |
+| 622     | Launches first major offensive campaign against Persia in Anatolia                                             |
+| 624-625 | Campaigns in Armenia and Transcaucasia                                                                         |
+| 626     | Combined Persian-Avar siege of Constantinople fails                                                            |
+| 627     | Decisive victory over Persians at Battle of Nineveh                                                            |
+| 628     | Sasanian King Khosrow II overthrown; Peace treaty returns all conquered territories to Byzantium               |
+| 630     | Triumphant entry into Jerusalem to restore the True Cross                                                      |
+| 634     | Arab forces defeat Byzantine army at Battle of Ajnadayn; beginning of Muslim conquests                         |
+| 636     | Catastrophic defeat at Battle of Yarmouk; loss of Syria                                                        |
+| 637     | Jerusalem falls to Arab forces                                                                                 |
+| 638     | Issues the Ecthesis promoting Monothelitism                                                                    |
+| 641     | Death on February 11 in Constantinople; succeeded by Constantine III and Heraclonas                            |
 
 ---
 
@@ -242,121 +242,238 @@ Whether historical or legendary, this quote reflects the emperor's recognition t
 
 ## References
 
-[^1]: Kaegi, Walter E. *Heraclius: Emperor of Byzantium*. Cambridge University Press, 2003, pp. 19-21.
-[^2]: Ostrogorsky, George. *History of the Byzantine State*. Rutgers University Press, 1969, p. 95.
-[^3]: Kaegi, *Heraclius*, pp. 23-24.
-[^4]: Garsoïan, Nina. "The Byzantine Annexation of Armenian Cilicia." *Armenian Review* 21 (1968): 40-52.
+[^1]: Kaegi, Walter E. _Heraclius: Emperor of Byzantium_. Cambridge University Press, 2003, pp. 19-21.
+
+[^2]: Ostrogorsky, George. _History of the Byzantine State_. Rutgers University Press, 1969, p. 95.
+
+[^3]: Kaegi, _Heraclius_, pp. 23-24.
+
+[^4]: Garsoïan, Nina. "The Byzantine Annexation of Armenian Cilicia." _Armenian Review_ 21 (1968): 40-52.
+
 [^5]: Chronicon Paschale, trans. Michael Whitby and Mary Whitby. Liverpool University Press, 1989, pp. 105-107.
-[^6]: Haldon, John. *Byzantium in the Seventh Century*. Cambridge University Press, 1990, pp. 41-43.
-[^7]: Howard-Johnston, James. "Heraclius' Persian Campaigns and the Revival of the East Roman Empire, 622-630." *War in History* 6.1 (1999): 1-44.
-[^8]: Kaegi, *Heraclius*, pp. 46-52.
-[^9]: Theophanes Confessor. *The Chronicle of Theophanes Confessor*, trans. Cyril Mango and Roger Scott. Oxford: Clarendon Press, 1997, pp. 425-427.
-[^10]: Kaegi, *Heraclius*, pp. 53-59.
-[^11]: Stratos, Andreas N. *Byzantium in the Seventh Century*, vol. 1. Amsterdam: Adolf M. Hakkert, 1968, pp. 58-63.
-[^12]: Theophanes, *Chronicle*, p. 427.
+
+[^6]: Haldon, John. _Byzantium in the Seventh Century_. Cambridge University Press, 1990, pp. 41-43.
+
+[^7]: Howard-Johnston, James. "Heraclius' Persian Campaigns and the Revival of the East Roman Empire, 622-630." _War in History_ 6.1 (1999): 1-44.
+
+[^8]: Kaegi, _Heraclius_, pp. 46-52.
+
+[^9]: Theophanes Confessor. _The Chronicle of Theophanes Confessor_, trans. Cyril Mango and Roger Scott. Oxford: Clarendon Press, 1997, pp. 425-427.
+
+[^10]: Kaegi, _Heraclius_, pp. 53-59.
+
+[^11]: Stratos, Andreas N. _Byzantium in the Seventh Century_, vol. 1. Amsterdam: Adolf M. Hakkert, 1968, pp. 58-63.
+
+[^12]: Theophanes, _Chronicle_, p. 427.
+
 [^13]: Chronicon Paschale, pp. 111-112.
-[^14]: Nicephorus, Patriarch of Constantinople. *Short History*, trans. Cyril Mango. Washington, DC: Dumbarton Oaks, 1990, p. 23.
-[^15]: Kaegi, *Heraclius*, p. 69.
-[^16]: Haldon, *Byzantium in the Seventh Century*, pp. 46-48.
-[^17]: Howard-Johnston, James. *The Last Great War of Antiquity*. Oxford University Press, 2021.
-[^18]: Flusin, Bernard. *Saint Anastase le Perse et l'histoire de la Palestine au début du VIIe siècle*. Paris: CNRS, 1992, vol. 2, pp. 87-95.
-[^19]: Theophanes, *Chronicle*, p. 431.
-[^20]: Kaegi, *Heraclius*, pp. 95-110.
+
+[^14]: Nicephorus, Patriarch of Constantinople. _Short History_, trans. Cyril Mango. Washington, DC: Dumbarton Oaks, 1990, p. 23.
+
+[^15]: Kaegi, _Heraclius_, p. 69.
+
+[^16]: Haldon, _Byzantium in the Seventh Century_, pp. 46-48.
+
+[^17]: Howard-Johnston, James. _The Last Great War of Antiquity_. Oxford University Press, 2021.
+
+[^18]: Flusin, Bernard. _Saint Anastase le Perse et l'histoire de la Palestine au début du VIIe siècle_. Paris: CNRS, 1992, vol. 2, pp. 87-95.
+
+[^19]: Theophanes, _Chronicle_, p. 431.
+
+[^20]: Kaegi, _Heraclius_, pp. 95-110.
+
 [^21]: Howard-Johnston, "Heraclius' Persian Campaigns," pp. 15-28.
-[^22]: Dodgeon, Michael H., and Samuel N. C. Lieu. *The Roman Eastern Frontier and the Persian Wars (AD 226-363)*. Routledge, 1991, pp. 234-238.
-[^23]: Howard-Johnston, *Last Great War*, pp. 187-203.
-[^24]: Theophanes, *Chronicle*, p. 447.
-[^25]: Howard-Johnston, *Last Great War*, pp. 204-209.
-[^26]: Kaegi, *Heraclius*, pp. 147-151.
-[^27]: Frolow, Anatole. *La relique de la Vraie Croix*. Paris: Institut français d'études byzantines, 1961, pp. 173-186.
-[^28]: Haldon, John. "The Organization and Support of an Expeditionary Force: Manpower and Logistics in the Middle Byzantine Period." *Byzantium at War*. Ashgate, 2002, pp. 111-151.
-[^29]: Treadgold, Warren. *Byzantium and Its Army, 284-1081*. Stanford University Press, 1995, pp. 23-28.
-[^30]: Haldon, *Byzantium in the Seventh Century*, pp. 208-253.
-[^31]: Ostrogorsky, *History of the Byzantine State*, pp. 108-111.
-[^32]: Treadgold, *Byzantium and Its Army*, pp. 26-31.
-[^33]: Haldon, John. *Warfare, State and Society in the Byzantine World, 565-1204*. UCL Press, 1999, pp. 74-89.
-[^34]: Kaegi, *Heraclius*, pp. 227-241.
-[^35]: Meyendorff, John. *Imperial Unity and Christian Divisions: The Church 450-680 AD*. St. Vladimir's Seminary Press, 1989, pp. 333-359.
-[^36]: Frend, W.H.C. *The Rise of the Monophysite Movement*. Cambridge University Press, 1972, pp. 341-348.
-[^37]: Price, Richard, and Michael Gaddis, eds. *The Acts of the Council of Chalcedon*, vol. 3. Liverpool University Press, 2005, pp. 89-92.
-[^38]: Ostrogorsky, *History of the Byzantine State*, p. 105.
-[^39]: Kaldellis, Anthony. *Hellenism in Byzantium*. Cambridge University Press, 2007, pp. 143-156.
-[^40]: Reinink, G.J. "Heraclius, the New Alexander: Apocalyptic Prophecies during the Reign of Heraclius." *The Reign of Heraclius (610-641): Crisis and Confrontation*, eds. Gerrit J. Reinink and Bernard H. Stolte. Peeters, 2002, pp. 81-94.
-[^41]: Grierson, Philip. *Byzantine Coins*. University of California Press, 1982, pp. 98-105.
-[^42]: Hendy, Michael F. *Studies in the Byzantine Monetary Economy c.300-1450*. Cambridge University Press, 1985, pp. 415-428.
-[^43]: Kaegi, *Heraclius*, pp. 182-189.
-[^44]: Kennedy, Hugh. *The Great Arab Conquests*. Da Capo Press, 2007, pp. 74-112.
-[^45]: Donner, Fred M. *The Early Islamic Conquests*. Princeton University Press, 1981, pp. 91-155.
-[^46]: Kaegi, Walter E. *Byzantium and the Early Islamic Conquests*. Cambridge University Press, 1992, pp. 66-83.
-[^47]: Kaegi, *Heraclius*, pp. 209-223.
-[^48]: Gil, Moshe. *A History of Palestine, 634-1099*. Cambridge University Press, 1992, pp. 50-71.
-[^49]: Butler, Alfred J. *The Arab Conquest of Egypt*. Oxford: Clarendon Press, 1902, pp. 201-285.
-[^50]: Meyendorff, *Imperial Unity*, pp. 343-352.
-[^51]: Hovorun, Cyril. *Will, Action and Freedom: Christological Controversies in the Seventh Century*. Brill, 2008, pp. 89-134.
-[^52]: Price, Richard. "Monothelitism: A Heresy or a Form of Words?" *Studia Patristica* 34 (2001): 483-490.
-[^53]: Ekonomou, Andrew J. *Byzantine Rome and the Greek Popes*. Lexington Books, 2007, pp. 201-223.
-[^54]: Kaegi, *Byzantium and the Early Islamic Conquests*, pp. 229-235.
-[^55]: Garland, Lynda. *Byzantine Empresses: Women and Power in Byzantium AD 527-1204*. Routledge, 1999, pp. 59-63.
-[^56]: Beaucamp, Joëlle. *Le statut de la femme à Byzance (4e-7e siècle)*. Paris: De Boccard, 1990-1992, vol. 2, pp. 234-239.
-[^57]: Kaegi, *Heraclius*, p. 89.
-[^58]: Theophanes, *Chronicle*, p. 432.
-[^59]: Garland, *Byzantine Empresses*, pp. 64-66.
-[^60]: Stratos, *Byzantium in the Seventh Century*, vol. 2, pp. 89-103.
-[^61]: Howard-Johnston, *Last Great War*, pp. 436-448.
-[^62]: Kennedy, *Great Arab Conquests*, pp. 52-68.
-[^63]: Greatrex, Geoffrey, and Samuel N.C. Lieu. *The Roman Eastern Frontier and the Persian Wars, Part II: AD 363-630*. Routledge, 2002, pp. 217-223.
-[^64]: Kaegi, *Heraclius*, pp. 211-215.
-[^65]: Garland, *Byzantine Empresses*, p. 58.
-[^66]: Kaegi, *Heraclius*, pp. 88-89.
-[^67]: Garland, *Byzantine Empresses*, p. 59.
-[^68]: Herrin, Judith. *Women in Purple*. Princeton University Press, 2001, pp. 74-78.
-[^69]: Treadgold, Warren. *A History of the Byzantine State and Society*. Stanford University Press, 1997, p. 295.
+
+[^22]: Dodgeon, Michael H., and Samuel N. C. Lieu. _The Roman Eastern Frontier and the Persian Wars (AD 226-363)_. Routledge, 1991, pp. 234-238.
+
+[^23]: Howard-Johnston, _Last Great War_, pp. 187-203.
+
+[^24]: Theophanes, _Chronicle_, p. 447.
+
+[^25]: Howard-Johnston, _Last Great War_, pp. 204-209.
+
+[^26]: Kaegi, _Heraclius_, pp. 147-151.
+
+[^27]: Frolow, Anatole. _La relique de la Vraie Croix_. Paris: Institut français d'études byzantines, 1961, pp. 173-186.
+
+[^28]: Haldon, John. "The Organization and Support of an Expeditionary Force: Manpower and Logistics in the Middle Byzantine Period." _Byzantium at War_. Ashgate, 2002, pp. 111-151.
+
+[^29]: Treadgold, Warren. _Byzantium and Its Army, 284-1081_. Stanford University Press, 1995, pp. 23-28.
+
+[^30]: Haldon, _Byzantium in the Seventh Century_, pp. 208-253.
+
+[^31]: Ostrogorsky, _History of the Byzantine State_, pp. 108-111.
+
+[^32]: Treadgold, _Byzantium and Its Army_, pp. 26-31.
+
+[^33]: Haldon, John. _Warfare, State and Society in the Byzantine World, 565-1204_. UCL Press, 1999, pp. 74-89.
+
+[^34]: Kaegi, _Heraclius_, pp. 227-241.
+
+[^35]: Meyendorff, John. _Imperial Unity and Christian Divisions: The Church 450-680 AD_. St. Vladimir's Seminary Press, 1989, pp. 333-359.
+
+[^36]: Frend, W.H.C. _The Rise of the Monophysite Movement_. Cambridge University Press, 1972, pp. 341-348.
+
+[^37]: Price, Richard, and Michael Gaddis, eds. _The Acts of the Council of Chalcedon_, vol. 3. Liverpool University Press, 2005, pp. 89-92.
+
+[^38]: Ostrogorsky, _History of the Byzantine State_, p. 105.
+
+[^39]: Kaldellis, Anthony. _Hellenism in Byzantium_. Cambridge University Press, 2007, pp. 143-156.
+
+[^40]: Reinink, G.J. "Heraclius, the New Alexander: Apocalyptic Prophecies during the Reign of Heraclius." _The Reign of Heraclius (610-641): Crisis and Confrontation_, eds. Gerrit J. Reinink and Bernard H. Stolte. Peeters, 2002, pp. 81-94.
+
+[^41]: Grierson, Philip. _Byzantine Coins_. University of California Press, 1982, pp. 98-105.
+
+[^42]: Hendy, Michael F. _Studies in the Byzantine Monetary Economy c.300-1450_. Cambridge University Press, 1985, pp. 415-428.
+
+[^43]: Kaegi, _Heraclius_, pp. 182-189.
+
+[^44]: Kennedy, Hugh. _The Great Arab Conquests_. Da Capo Press, 2007, pp. 74-112.
+
+[^45]: Donner, Fred M. _The Early Islamic Conquests_. Princeton University Press, 1981, pp. 91-155.
+
+[^46]: Kaegi, Walter E. _Byzantium and the Early Islamic Conquests_. Cambridge University Press, 1992, pp. 66-83.
+
+[^47]: Kaegi, _Heraclius_, pp. 209-223.
+
+[^48]: Gil, Moshe. _A History of Palestine, 634-1099_. Cambridge University Press, 1992, pp. 50-71.
+
+[^49]: Butler, Alfred J. _The Arab Conquest of Egypt_. Oxford: Clarendon Press, 1902, pp. 201-285.
+
+[^50]: Meyendorff, _Imperial Unity_, pp. 343-352.
+
+[^51]: Hovorun, Cyril. _Will, Action and Freedom: Christological Controversies in the Seventh Century_. Brill, 2008, pp. 89-134.
+
+[^52]: Price, Richard. "Monothelitism: A Heresy or a Form of Words?" _Studia Patristica_ 34 (2001): 483-490.
+
+[^53]: Ekonomou, Andrew J. _Byzantine Rome and the Greek Popes_. Lexington Books, 2007, pp. 201-223.
+
+[^54]: Kaegi, _Byzantium and the Early Islamic Conquests_, pp. 229-235.
+
+[^55]: Garland, Lynda. _Byzantine Empresses: Women and Power in Byzantium AD 527-1204_. Routledge, 1999, pp. 59-63.
+
+[^56]: Beaucamp, Joëlle. _Le statut de la femme à Byzance (4e-7e siècle)_. Paris: De Boccard, 1990-1992, vol. 2, pp. 234-239.
+
+[^57]: Kaegi, _Heraclius_, p. 89.
+
+[^58]: Theophanes, _Chronicle_, p. 432.
+
+[^59]: Garland, _Byzantine Empresses_, pp. 64-66.
+
+[^60]: Stratos, _Byzantium in the Seventh Century_, vol. 2, pp. 89-103.
+
+[^61]: Howard-Johnston, _Last Great War_, pp. 436-448.
+
+[^62]: Kennedy, _Great Arab Conquests_, pp. 52-68.
+
+[^63]: Greatrex, Geoffrey, and Samuel N.C. Lieu. _The Roman Eastern Frontier and the Persian Wars, Part II: AD 363-630_. Routledge, 2002, pp. 217-223.
+
+[^64]: Kaegi, _Heraclius_, pp. 211-215.
+
+[^65]: Garland, _Byzantine Empresses_, p. 58.
+
+[^66]: Kaegi, _Heraclius_, pp. 88-89.
+
+[^67]: Garland, _Byzantine Empresses_, p. 59.
+
+[^68]: Herrin, Judith. _Women in Purple_. Princeton University Press, 2001, pp. 74-78.
+
+[^69]: Treadgold, Warren. _A History of the Byzantine State and Society_. Stanford University Press, 1997, p. 295.
+
 [^70]: Reinink, "Heraclius, the New Alexander," pp. 82-87.
-[^71]: Kaegi, *Heraclius*, pp. 125-134.
-[^72]: Theophanes, *Chronicle*, p. 469.
-[^73]: Kaegi, *Heraclius*, pp. 261-268.
-[^74]: Meyendorff, *Imperial Unity*, pp. 336-341.
-[^75]: Dagron, Gilbert. *Emperor and Priest: The Imperial Office in Byzantium*. Cambridge University Press, 2003, pp. 179-192.
-[^76]: Garland, *Byzantine Empresses*, pp. 65-67.
-[^77]: Stratos, *Byzantium in the Seventh Century*, vol. 2, pp. 91-98.
-[^78]: Ostrogorsky, *History of the Byzantine State*, p. 114.
-[^79]: Haldon, *Warfare, State and Society*, pp. 88-97.
-[^80]: Treadgold, *History of the Byzantine State*, pp. 287-302.
-[^81]: Fuller, J.F.C. *A Military History of the Western World*, vol. 1. Da Capo Press, 1954, pp. 462-471.
-[^82]: Dennis, George T. *Three Byzantine Military Treatises*. Dumbarton Oaks, 1985, introduction, pp. 15-19.
+
+[^71]: Kaegi, _Heraclius_, pp. 125-134.
+
+[^72]: Theophanes, _Chronicle_, p. 469.
+
+[^73]: Kaegi, _Heraclius_, pp. 261-268.
+
+[^74]: Meyendorff, _Imperial Unity_, pp. 336-341.
+
+[^75]: Dagron, Gilbert. _Emperor and Priest: The Imperial Office in Byzantium_. Cambridge University Press, 2003, pp. 179-192.
+
+[^76]: Garland, _Byzantine Empresses_, pp. 65-67.
+
+[^77]: Stratos, _Byzantium in the Seventh Century_, vol. 2, pp. 91-98.
+
+[^78]: Ostrogorsky, _History of the Byzantine State_, p. 114.
+
+[^79]: Haldon, _Warfare, State and Society_, pp. 88-97.
+
+[^80]: Treadgold, _History of the Byzantine State_, pp. 287-302.
+
+[^81]: Fuller, J.F.C. _A Military History of the Western World_, vol. 1. Da Capo Press, 1954, pp. 462-471.
+
+[^82]: Dennis, George T. _Three Byzantine Military Treatises_. Dumbarton Oaks, 1985, introduction, pp. 15-19.
+
 [^83]: Price, "Monothelitism," pp. 488-489.
-[^84]: Hovorun, *Will, Action and Freedom*, pp. 228-234.
-[^85]: Kaldellis, *Hellenism in Byzantium*, pp. 151-158.
-[^86]: Runciman, Steven. *A History of the Crusades*, vol. 1. Cambridge University Press, 1951, pp. 31-34.
-[^87]: Baert, Barbara. *A Heritage of Holy Wood: The Legend of the True Cross in Text and Image*. Brill, 2004, pp. 289-334.
-[^88]: Haldon, *Byzantium in the Seventh Century*, pp. 43-51.
-[^89]: Hoyland, Robert G. *Seeing Islam as Others Saw It*. Darwin Press, 1997, pp. 545-552.
-[^90]: Norwich, John Julius. *Byzantium: The Early Centuries*. Viking, 1989, pp. 285-310.
-[^91]: Gibbon, Edward. *The History of the Decline and Fall of the Roman Empire*, vol. 5, chapter 46. 1788.
-[^92]: Fuller, *Military History of the Western World*, vol. 1, pp. 465-470.
-[^93]: Luttwak, Edward N. *The Grand Strategy of the Byzantine Empire*. Harvard University Press, 2009, pp. 167-183.
-[^94]: Treadgold, *Byzantium and Its Army*, pp. 30-32.
-[^95]: Kaegi, *Heraclius*, pp. 285-291.
-[^96]: Frolow, *La relique de la Vraie Croix*, pp. 185-192.
-[^97]: Baert, *Heritage of Holy Wood*, pp. 308-317.
-[^98]: Howard-Johnston, *Last Great War*, pp. 445-447.
-[^99]: Kennedy, *Great Arab Conquests*, pp. 366-371.
-[^100]: Theophanes, *Chronicle*, pp. 469-470.
-[^101]: Whittow, Mark. *The Making of Byzantium, 600-1025*. University of California Press, 1996, pp. 76-83.
-[^102]: Kennedy, *Great Arab Conquests*, pp. 368-370.
-[^103]: Meyendorff, *Imperial Unity*, pp. 357-359.
-[^104]: Ekonomou, *Byzantine Rome*, pp. 220-223.
-[^105]: Garland, *Byzantine Empresses*, pp. 62-64.
-[^106]: Herrin, *Women in Purple*, pp. 76-79.
-[^107]: Greatrex and Lieu, *Roman Eastern Frontier*, pp. 222-223.
-[^108]: Luttwak, *Grand Strategy*, pp. 182-184.
-[^109]: Kaegi, *Heraclius*, pp. 213-217.
-[^110]: Treadgold, *History of the Byzantine State*, p. 301.
-[^111]: Theophanes, *Chronicle*, p. 470.
-[^112]: Stratos, *Byzantium in the Seventh Century*, vol. 2, pp. 97-103.
-[^113]: Treadgold, *History of the Byzantine State*, pp. 307-310.
-[^114]: Nicephorus, *Short History*, p. 23.
-[^115]: Kaegi, *Heraclius*, p. 126.
+
+[^84]: Hovorun, _Will, Action and Freedom_, pp. 228-234.
+
+[^85]: Kaldellis, _Hellenism in Byzantium_, pp. 151-158.
+
+[^86]: Runciman, Steven. _A History of the Crusades_, vol. 1. Cambridge University Press, 1951, pp. 31-34.
+
+[^87]: Baert, Barbara. _A Heritage of Holy Wood: The Legend of the True Cross in Text and Image_. Brill, 2004, pp. 289-334.
+
+[^88]: Haldon, _Byzantium in the Seventh Century_, pp. 43-51.
+
+[^89]: Hoyland, Robert G. _Seeing Islam as Others Saw It_. Darwin Press, 1997, pp. 545-552.
+
+[^90]: Norwich, John Julius. _Byzantium: The Early Centuries_. Viking, 1989, pp. 285-310.
+
+[^91]: Gibbon, Edward. _The History of the Decline and Fall of the Roman Empire_, vol. 5, chapter 46. 1788.
+
+[^92]: Fuller, _Military History of the Western World_, vol. 1, pp. 465-470.
+
+[^93]: Luttwak, Edward N. _The Grand Strategy of the Byzantine Empire_. Harvard University Press, 2009, pp. 167-183.
+
+[^94]: Treadgold, _Byzantium and Its Army_, pp. 30-32.
+
+[^95]: Kaegi, _Heraclius_, pp. 285-291.
+
+[^96]: Frolow, _La relique de la Vraie Croix_, pp. 185-192.
+
+[^97]: Baert, _Heritage of Holy Wood_, pp. 308-317.
+
+[^98]: Howard-Johnston, _Last Great War_, pp. 445-447.
+
+[^99]: Kennedy, _Great Arab Conquests_, pp. 366-371.
+
+[^100]: Theophanes, _Chronicle_, pp. 469-470.
+
+[^101]: Whittow, Mark. _The Making of Byzantium, 600-1025_. University of California Press, 1996, pp. 76-83.
+
+[^102]: Kennedy, _Great Arab Conquests_, pp. 368-370.
+
+[^103]: Meyendorff, _Imperial Unity_, pp. 357-359.
+
+[^104]: Ekonomou, _Byzantine Rome_, pp. 220-223.
+
+[^105]: Garland, _Byzantine Empresses_, pp. 62-64.
+
+[^106]: Herrin, _Women in Purple_, pp. 76-79.
+
+[^107]: Greatrex and Lieu, _Roman Eastern Frontier_, pp. 222-223.
+
+[^108]: Luttwak, _Grand Strategy_, pp. 182-184.
+
+[^109]: Kaegi, _Heraclius_, pp. 213-217.
+
+[^110]: Treadgold, _History of the Byzantine State_, p. 301.
+
+[^111]: Theophanes, _Chronicle_, p. 470.
+
+[^112]: Stratos, _Byzantium in the Seventh Century_, vol. 2, pp. 97-103.
+
+[^113]: Treadgold, _History of the Byzantine State_, pp. 307-310.
+
+[^114]: Nicephorus, _Short History_, p. 23.
+
+[^115]: Kaegi, _Heraclius_, p. 126.
+
 [^116]: Howard-Johnston, "Heraclius' Persian Campaigns," p. 18.
-[^117]: Theophanes, *Chronicle*, p. 468.
-[^118]: Chronicle of Zuqnin, cited in Hoyland, *Seeing Islam as Others Saw It*, p. 187.
+
+[^117]: Theophanes, _Chronicle_, p. 468.
+
+[^118]: Chronicle of Zuqnin, cited in Hoyland, _Seeing Islam as Others Saw It_, p. 187.

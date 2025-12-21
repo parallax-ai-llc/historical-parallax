@@ -129,36 +129,36 @@ Most historians argue that Louis XV's decisions damaged the power of France, wea
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1710 | Born February 15 at Palace of Versailles as Duke of Anjou |
-| 1711 | Grandfather Louis Le Grand Dauphin dies of smallpox |
-| 1712 | Parents die of measles; survives the disease himself |
-| 1715 | Becomes King Louis XV at age five upon death of Louis XIV (September 1) |
-| 1715 | Regency of Philippe II, Duke of Orléans begins |
-| 1717 | Placed under care of Governor François de Villeroy and tutor Cardinal Fleury |
-| 1723 | Reaches majority (age 13) and Regency ends (February) |
-| 1725 | Marries Marie Leszczyńska (September 5) |
-| 1726 | Cardinal Fleury becomes chief minister |
-| 1727 | Birth of first child, twins Marie Louise Élisabeth and Anne Henriette |
-| 1729 | Birth of son Louis, Dauphin of France (September 4) |
-| 1740 | War of the Austrian Succession begins |
-| 1743 | Cardinal Fleury dies (January 29); Louis begins personal rule |
-| 1744 | Falls seriously ill at Metz; earns epithet "le Bien-Aimé" upon recovery |
-| 1745 | Victory at Battle of Fontenoy; Madame de Pompadour becomes official mistress |
-| 1748 | Treaty of Aix-la-Chapelle ends War of Austrian Succession; popularity begins decline |
-| 1755 | Establishes Parc-aux-Cerfs residence |
-| 1756 | Signs Treaty of Versailles with Austria (diplomatic revolution) |
-| 1756 | Seven Years' War begins |
-| 1757 | Assassination attempt by Robert-François Damiens (January 5) |
-| 1763 | Treaty of Paris ends Seven Years' War; France loses New France |
-| 1764 | Madame de Pompadour dies; expulsion of Jesuits from France |
-| 1765 | Son Louis, Dauphin of France, dies (December 20) |
-| 1766 | Duchy of Lorraine incorporated into France |
-| 1768 | Madame du Barry becomes last official mistress |
-| 1771 | Maupeou reforms restrict Parlement of Paris |
+| Year | Event                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------- |
+| 1710 | Born February 15 at Palace of Versailles as Duke of Anjou                                   |
+| 1711 | Grandfather Louis Le Grand Dauphin dies of smallpox                                         |
+| 1712 | Parents die of measles; survives the disease himself                                        |
+| 1715 | Becomes King Louis XV at age five upon death of Louis XIV (September 1)                     |
+| 1715 | Regency of Philippe II, Duke of Orléans begins                                              |
+| 1717 | Placed under care of Governor François de Villeroy and tutor Cardinal Fleury                |
+| 1723 | Reaches majority (age 13) and Regency ends (February)                                       |
+| 1725 | Marries Marie Leszczyńska (September 5)                                                     |
+| 1726 | Cardinal Fleury becomes chief minister                                                      |
+| 1727 | Birth of first child, twins Marie Louise Élisabeth and Anne Henriette                       |
+| 1729 | Birth of son Louis, Dauphin of France (September 4)                                         |
+| 1740 | War of the Austrian Succession begins                                                       |
+| 1743 | Cardinal Fleury dies (January 29); Louis begins personal rule                               |
+| 1744 | Falls seriously ill at Metz; earns epithet "le Bien-Aimé" upon recovery                     |
+| 1745 | Victory at Battle of Fontenoy; Madame de Pompadour becomes official mistress                |
+| 1748 | Treaty of Aix-la-Chapelle ends War of Austrian Succession; popularity begins decline        |
+| 1755 | Establishes Parc-aux-Cerfs residence                                                        |
+| 1756 | Signs Treaty of Versailles with Austria (diplomatic revolution)                             |
+| 1756 | Seven Years' War begins                                                                     |
+| 1757 | Assassination attempt by Robert-François Damiens (January 5)                                |
+| 1763 | Treaty of Paris ends Seven Years' War; France loses New France                              |
+| 1764 | Madame de Pompadour dies; expulsion of Jesuits from France                                  |
+| 1765 | Son Louis, Dauphin of France, dies (December 20)                                            |
+| 1766 | Duchy of Lorraine incorporated into France                                                  |
+| 1768 | Madame du Barry becomes last official mistress                                              |
+| 1771 | Maupeou reforms restrict Parlement of Paris                                                 |
 | 1774 | Contracts smallpox (late April); dies May 10 at Versailles; succeeded by grandson Louis XVI |
-| 1774 | Buried at Basilica of Saint-Denis |
+| 1774 | Buried at Basilica of Saint-Denis                                                           |
 
 ---
 
@@ -181,137 +181,271 @@ This sentiment, expressed by Louis XV regarding the Treaty of Aix-la-Chapelle in
 ## References
 
 [^1]: [Louis XV - Wikipedia](https://en.wikipedia.org/wiki/Louis_XV)
+
 [^2]: [Louis XV | Biography, Accomplishments, Wife, & Facts | Britannica](https://www.britannica.com/biography/Louis-XV)
+
 [^3]: [France under Louis XV | World Civilizations II (HIS102) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2/chapter/france-under-louis-xv/)
+
 [^4]: [Madame de Pompadour - Wikipedia](https://en.wikipedia.org/wiki/Madame_de_Pompadour)
+
 [^5]: [King Louis XV of France | Unofficial Royalty](https://www.unofficialroyalty.com/king-louis-xv-of-france/)
+
 [^6]: [Louis XV | World History](https://courses.lumenlearning.com/suny-worldhistory/chapter/22-1-2-louis-xv/)
+
 [^7]: [Louis XV | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/louis-xv/)
+
 [^8]: [Louis XV – History of Western Civilization II](https://library.achievingthedream.org/herkimerworldhistory2/chapter/louis-xv/)
+
 [^9]: [Louis XV Of France Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/louis-xv-of-france-37471.php)
+
 [^10]: [Louis XV | Château de Versailles](https://en.chateauversailles.fr/discover/history/great-characters/louis-xv)
+
 [^11]: [Régence - Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9gence)
+
 [^12]: [LOUIS XV (FRANCE) (1710 - – - 1774; ruled 1715)](https://www.encyclopedia.com/people/history/french-history-biographies/louis-xv)
+
 [^13]: [Cardinal de Fleury | Palace of Versailles](https://en.chateauversailles.fr/discover/history/great-characters/cardinal-fleury)
+
 [^14]: [Louis XV of France: A Life of Splendor, Intrigue, and Turmoil](https://autodidactprofessor.com/2025/05/07/louis-xv-of-france-a-life-of-splendor-intrigue-and-turmoil/)
+
 [^15]: [Louis XV facts for kids](https://kids.kiddle.co/Louis_XV)
+
 [^16]: [Philippe II, duc d'Orleans | Facts & Biography | Britannica](https://www.britannica.com/biography/Philippe-II-duc-dOrleans)
+
 [^17]: [Philippe II, Duke of Orléans - Wikipedia](https://en.wikipedia.org/wiki/Philippe_II,_Duke_of_Orl%C3%A9ans)
+
 [^18]: [Regency of Philippe d'Orlèans - Royalpedia](https://royalty.miraheze.org/wiki/Regency_of_Philippe_d'Orl%C3%A8ans)
+
 [^19]: [Learn Regency of Philippe d'Orléans facts for kids](https://kids.kiddle.co/Regency_of_Philippe_d'Orl%C3%A9ans)
+
 [^20]: [Philippe, Duke of Orléans, Regent of France - Royalpedia](https://royalty.miraheze.org/wiki/Philippe,_Duke_of_Orl%C3%A9ans,_Regent_of_France)
+
 [^21]: [Mesdames: The Daughters of Louis XV and Queen Marie](https://brewminate.com/mesdames-the-daughters-of-louis-xv-and-queen-marie-leszczynska/)
+
 [^22]: [Louis XV: Biography, King of France, French Royalty](https://www.biography.com/royalty/louis-xv)
+
 [^23]: [André-Hercule de Fleury | French Cardinal & Statesman | Britannica](https://www.britannica.com/biography/Andre-Hercule-de-Fleury)
+
 [^24]: [André-Hercule de Fleury - Wikipedia](https://en.wikipedia.org/wiki/Andr%C3%A9-Hercule_de_Fleury)
+
 [^25]: [André-Hercule de Fleury](https://grokipedia.com/page/Andr%C3%A9-Hercule_de_Fleury)
+
 [^26]: [The Cardinals of the Holy Roman Church - Biographical Dictionary](https://cardinals.fiu.edu/bios1726.htm)
+
 [^27]: [Louis XV: Profile, Biography, Personality Type | Boo](https://boo.world/database/profile/154543/louis-xv-personality-type)
+
 [^28]: [France under Louis XV | Western Civilization II (HIS 104) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2-1/chapter/france-under-louis-xv/)
+
 [^29]: [France under Louis XV - History Guild](https://historyguild.org/france-under-louis-xv/)
+
 [^30]: [France under Louis XV | World Civilizations I (HIS101) – Biel](https://courses.lumenlearning.com/suny-fmcc-boundless-worldhistory/chapter/france-under-louis-xv/)
+
 [^31]: [France under Louis XV | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/france-under-louis-xv/)
+
 [^32]: [Louis XV | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/louis-xv)
+
 [^33]: [Louis XV summary | Britannica](https://www.britannica.com/summary/Louis-XV)
+
 [^34]: [Louis XV: The Beloved King of France | Inspired America](https://www.inspiredamericahq.com/louis-xv-the-beloved-king-of-france)
+
 [^35]: [Diplomatic Revolution - Wikipedia](https://en.wikipedia.org/wiki/Diplomatic_Revolution)
+
 [^36]: [The Seven Years' War | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-seven-years-war/)
+
 [^37]: [War of the Austrian Succession - Wikipedia](https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession)
+
 [^38]: [Territorial Losses | World History](https://courses.lumenlearning.com/suny-worldhistory/chapter/22-1-7-territorial-losses/)
+
 [^39]: [The Seven Years' War | Boundless World History](https://courses.lumenlearning.com/tc3-boundless-worldhistory/chapter/the-seven-years-war/)
+
 [^40]: [Territorial Losses | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/territorial-losses/)
+
 [^41]: [Oxford Public International Law: The Diplomatic Revolution](https://opil.ouplaw.com/page/539)
+
 [^42]: [France's Fiscal Woes | History of Western Civilization II](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/frances-fiscal-woes/)
+
 [^43]: [Louis XV - Project Seven Years War](https://www.kronoskaf.com/syw/index.php?title=Louis_XV)
+
 [^44]: [Imperial wars](https://alphahistory.com/frenchrevolution/imperial-wars/)
+
 [^45]: [The Seven Years' War | World History](https://courses.lumenlearning.com/suny-worldhistory/chapter/the-seven-years-war/)
+
 [^46]: [France under Louis XV | PPSC HIS 1120: The World: 1500-Present](https://pressbooks.ccconline.org/the-world-1500-present/chapter/france-under-louis-xv/)
+
 [^47]: [Louis XV Definition - AP European History Key Term | Fiveable](https://fiveable.me/key-terms/ap-euro/louis-xv)
+
 [^48]: [The French Monarchy: House of Bourbon – Louis XV "The Beloved," Louis XVI, and the French Revolution](https://greatbooksguy.com/2025/07/12/the-french-monarchy-house-of-bourbon-louis-xv-the-beloved-louis-xvi-and-the-french-revolution-1715-1792/)
+
 [^49]: [Diplomatic Revolution facts for kids](https://kids.kiddle.co/Diplomatic_Revolution)
+
 [^50]: [King Louis XV | American Battlefield Trust](https://www.battlefields.org/learn/biographies/king-louis-xv)
+
 [^51]: [Louis Xv | Encyclopedia.com](https://www.encyclopedia.com/people/history/french-history-biographies/louis-xv)
+
 [^52]: [The Great Women of Louis XV's Versailles](https://www.tours-in-paris.com/post/women-louis-xv-15-versailles)
+
 [^53]: [Jeanne-Antoinette Poisson, marquise de Pompadour | French Aristocrat | Britannica](https://www.britannica.com/biography/Jeanne-Antoinette-Poisson-marquise-de-Pompadour)
+
 [^54]: [Parc-aux-Cerfs - Wikipedia](https://en.wikipedia.org/wiki/Parc-aux-Cerfs)
+
 [^55]: [Parc-aux-Cerfs and Tales of Louis XV's Harem](https://www.geriwalton.com/parc-aux-cerfs-and-tales-of-louis-xvs-harem/)
+
 [^56]: [Deer Park - Louis XV's Harem, the Story Behind the Myth](https://www.francophilesanonymes.com/en/france/ile-de-france/parc-aux-cerfs/)
+
 [^57]: [GUYS & DOLLS:SECRET LIVES IN THE DEER PARK | Madame Pickwick Art Blog](http://www.madamepickwickartblog.com/2010/09/secret-lives-in-the-deer-park-give-the-babies-hand-grenades/)
+
 [^58]: [Robert-François Damiens - Wikipedia](https://en.wikipedia.org/wiki/Robert-Fran%C3%A7ois_Damiens)
+
 [^59]: [Assassination attempt on King Louis XV by Damiens, 1757 | Château de Versailles](https://en.chateauversailles.fr/discover/history/key-dates/assassination-attempt-king-louis-xv-damiens-1757)
+
 [^60]: [Robert-François Damiens | Executioner, Assassin, Regicide | Britannica](https://www.britannica.com/biography/Robert-Francois-Damiens)
+
 [^61]: [1757: Robert-Francois Damiens, disciplined and punished | Executed Today](https://www.executedtoday.com/2008/03/28/1757-robert-francois-damiens-discipline-and-punish/)
+
 [^62]: [Suppression of the Society of Jesus - Wikipedia](https://en.wikipedia.org/wiki/Suppression_of_the_Society_of_Jesus)
+
 [^63]: [The Expulsion of the Jesuits from France | History Today](https://www.historytoday.com/archive/expulsion-jesuits-france)
+
 [^64]: [Mesdames | Château de Versailles](https://en.chateauversailles.fr/discover/history/great-characters/mesdames)
+
 [^65]: [Madame de Pompadour and Louis XV – Sagas of She](https://sagasofshe.wordpress.com/2020/02/26/madame-de-pompadour-and-louis-xv/)
+
 [^66]: [Louis XV's Children](https://frenchtravelboutique.com/louis-xv-children/)
-[^67]: [Louis, Dauphin of France (born 1729) - Wikipedia](https://en.wikipedia.org/wiki/Louis,_Dauphin_of_France_(1729–1765))
-[^68]: [Louis, Dauphin of France (1729–1765) - Royalpedia](https://royalty.miraheze.org/wiki/Louis,_Dauphin_of_France_(1729%E2%80%931765))
+
+[^67]: [Louis, Dauphin of France (born 1729) - Wikipedia](<https://en.wikipedia.org/wiki/Louis,_Dauphin_of_France_(1729–1765)>)
+
+[^68]: [Louis, Dauphin of France (1729–1765) - Royalpedia](<https://royalty.miraheze.org/wiki/Louis,_Dauphin_of_France_(1729%E2%80%931765)>)
+
 [^69]: [The Many Sons of Louis XV | alternatehistory.com](https://www.alternatehistory.com/forum/threads/the-many-sons-of-louis-xv.199322/)
-[^70]: [Louis, Dauphin of France (1729–1765) facts for kids](https://kids.kiddle.co/Louis,_Dauphin_of_France_(1729–1765))
+
+[^70]: [Louis, Dauphin of France (1729–1765) facts for kids](<https://kids.kiddle.co/Louis,_Dauphin_of_France_(1729–1765)>)
+
 [^71]: [Madame de Pompadour | Château de Versailles](https://en.chateauversailles.fr/discover/history/great-characters/madame-pompadour)
+
 [^72]: [Madame de Pompadour: The Uncrowned Queen of France | Bonjour Paris](https://bonjourparis.com/history/madame-de-pompadour/)
+
 [^73]: [Blog - Madame de Pompadour: Royal Mistress & Patron of the Arts | Mayfair Gallery](https://www.mayfairgallery.com/blog/madame-de-pompadour-royal-mistress-patron-of-the-arts/)
+
 [^74]: [The Rise and Fall of Madame du Barry - France Today](https://francetoday.com/culture/museums-galleries/the-rise-and-fall-of-madame-du-barry/)
+
 [^75]: [Louis XV - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Louis_XV)
+
 [^76]: [Louis XV | World Civilizations II (HIS102) – Biel](https://courses.lumenlearning.com/suny-fmcc-worldcivilization2/chapter/france-under-louis-xv/)
+
 [^77]: [Madame du Barry - Wikipedia](https://en.wikipedia.org/wiki/Madame_du_Barry)
+
 [^78]: [Madame du Barry: From Prostitute to King Louis XV's Last Mistress | THE VALUE](https://en.thevalue.com/articles/madame-du-barry-mistress-king-louis-xv)
+
 [^79]: [Madame du Barry: From Versailles to the guillotine](https://www.thebusinesssoiree.com/article/madame-du-barry-from-versailles-to-the-guillotine)
+
 [^80]: [Provocative Facts About Madame Du Barry, The Last Royal Mistress Of France](https://www.factinate.com/people/facts-madame-du-barry)
+
 [^81]: [Louis XV - The Art and Popular Culture Encyclopedia](https://www.artandpopularculture.com/Louis_XV)
+
 [^82]: [Louis XV Personality Type, MBTI - Which Personality?](https://personalitylist.com/profile/392463/versailles-no-bara/louis-xv/)
+
 [^83]: [Louis XVI | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/louis-xvi)
+
 [^84]: [Louis XVI: Profile, Biography, Personality Type | Boo](https://boo.world/database/profile/154528/louis-xvi-personality-type)
+
 [^85]: [Louis le Bien-Aime "The Well-Beloved" - The Royal Court](https://lacourroyale.weebly.com/home/louis-le-bien-aime-the-well-beloved)
+
 [^86]: [Louis XVI | Biography, Reign, Execution, & Facts | Britannica](https://www.britannica.com/biography/Louis-XVI)
+
 [^87]: [Louis XV's reign - (AP European History) - Vocab, Definition, Explanations | Fiveable](https://library.fiveable.me/key-terms/ap-euro/louis-xvs-reign)
+
 [^88]: [Suppressing the Arbitrary: Political Jansenism in the French Revolution](https://quod.lib.umich.edu/w/wsfh/0642292.0045.002/--suppressing-the-arbitrary-political-jansenism-in-the-french?rgn=main;view=fulltext)
+
 [^89]: [Quotations - Ancien Régime](https://alphahistory.com/frenchrevolution/quotations-ancien-regime/)
+
 [^90]: [Louis XV](http://www1.udel.edu/karenk/webct/louisxv.html)
+
 [^91]: [Louis XV](https://grokipedia.com/page/Louis_XV)
+
 [^92]: [Louis XVI's Early Years | World Civilizations I (HIS101) – Biel](https://courses.lumenlearning.com/suny-fmcc-boundless-worldhistory/chapter/louis-xvis-early-years/)
+
 [^93]: [Louis XV](http://www.1066.co.nz/Mosaic DVD/whoswho/text/Louis_XV_of_France[1].htm)
+
 [^94]: [Louis XV by Olivier Bernier | Goodreads](https://www.goodreads.com/book/show/40869165-louis-xv)
+
 [^95]: [H-Net Reviews](https://www.h-net.org/reviews/showrev.php?id=1339)
+
 [^96]: [Louis XV - Wikiquote](https://en.wikiquote.org/wiki/Louis_XV)
+
 [^97]: [Après moi, le déluge - Wikipedia](https://en.wikipedia.org/wiki/Après_moi,_le_déluge)
+
 [^98]: [Who said "After me the deluge"? - Quora](https://www.quora.com/Who-said-After-me-the-deluge)
+
 [^99]: [Aprois moi, le deluge - TomorrowToday Global](https://tomorrowtodayglobal.com/2005/05/26/apres-moi-le-deluge/)
+
 [^100]: [Things French kings never said | Wicked Thoughts](https://bussorah.wordpress.com/2009/12/01/things-french-kings-never-said/)
+
 [^101]: [Louis XV (1710-1774) - Find a Grave Memorial](https://www.findagrave.com/memorial/84275134/louis_xv)
+
 [^102]: [The Sad and Lonely Death of Louis XV and the Smallpox Vaccine](https://www.historyback.com/en/story/1001022218.html)
+
 [^103]: [Death of Louis XV, 1774 | Château de Versailles](https://en.chateauversailles.fr/discover/history/key-dates/death-louis-xv-1774)
+
 [^104]: [Royal Deaths from Smallpox | Unofficial Royalty](https://www.unofficialroyalty.com/royal-deaths-from-smallpox/)
+
 [^105]: [The Reign of Louis XIV (1643-1715): An Overview | University of Kentucky](https://history.as.uky.edu/reign-louis-xiv-1643-1715-overview)
+
 [^106]: [The Legacy of Louis XIV: A Historical Perspective](https://www.numberanalytics.com/blog/louis-xiv-legacy)
+
 [^107]: [The Canadian Historical Review - Project MUSE](https://muse.jhu.edu/article/622904/summary)
+
 [^108]: [Louis XVI | Digital Inquiry Group](https://www.inquirygroup.org/history-assessments/louis-xvi)
+
 [^109]: [10 Major Accomplishments of Louis XIV of France | Learnodo Newtonic](https://learnodo-newtonic.com/louis-xiv-accomplishments)
+
 [^110]: [Louis XIV | Facts, Biography, Children, & Death | Britannica](https://www.britannica.com/biography/Louis-XIV-king-of-France)
+
 [^111]: [Louis XVI - Wikipedia](https://en.wikipedia.org/wiki/Louis_XVI)
+
 [^112]: [Louis XIV - Wikipedia](https://en.wikipedia.org/wiki/Louis_XIV)
+
 [^113]: [Nine Years' War - Wikipedia](https://en.wikipedia.org/wiki/Nine_Years'_War)
+
 [^114]: [Suppression of the Jesuits | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/suppression-jesuits)
+
 [^115]: [CATHOLIC ENCYCLOPEDIA: The Suppression of the Jesuits (1770-1773)](https://www.newadvent.org/cathen/14096a.htm)
+
 [^116]: [The Suppression of the Society of Jesus, 1758-1773 — EGO](https://www.ieg-ego.eu/en/threads/european-media/european-media-events/christine-vogel-suppression-of-the-society-of-jesus-1758-1773)
+
 [^117]: [From the Editor Emeritus: Imperiled Church](https://www.archindy.org/criterion/local/2016/05-27/fink.html)
+
 [^118]: [Suppression de la Compagnie de Jésus — Wikipédia](https://fr.wikipedia.org/wiki/Suppression_de_la_Compagnie_de_J%C3%A9sus)
+
 [^119]: [L'expulsion des jésuites - 1764](https://jaimeleshistoiresdelhistoire.eklablog.com/l-expulsion-des-jesuites-1764-a114655706)
+
 [^120]: [The Day the Jesuits Were Suppressed | Catholic Answers](https://www.catholic.com/magazine/online-edition/this-day-in-church-history-the-suppression-of-the-jesuits-july-21-1773)
+
 [^121]: [Jeanne Bécu, countess du Barry | Britannica](https://www.britannica.com/biography/Jeanne-Becu-comtesse-du-Barry)
+
 [^122]: [Who Is Jeanne du Barry? The True Story](https://wwd.com/pop-culture/culture-news/feature/who-is-jeanne-du-barry-king-louis-xv-mistress-1235654528/)
+
 [^123]: [Madame du Barry | Château de Versailles](https://en.chateauversailles.fr/discover/history/great-characters/madame-barry)
+
 [^124]: [Madame du Barry: the History of the Last Mistress of Versailles](https://quellochepiaceavaleria.com/en/madame-du-barry-the-history-of-the-last-mistress-of-versailles/)
+
 [^125]: [Madame du Barry](https://www.palaces-of-europe.com/madame-du-barry.html)
+
 [^126]: [Louis XV - Assassination — Parisology](https://www.parisology.net/assassination-attempt-on-louis-xv)
+
 [^127]: [Attempt to Assassinate Louis XV | History Today](https://www.historytoday.com/archive/attempt-assassinate-louis-xv)
+
 [^128]: [Robert-François Damiens: Attempted Assassin of Louis XV](https://www.geriwalton.com/assassination-attempt-of-king-louis-xv/)
+
 [^129]: [January 5, 1757: Attempted Assassination of King Louis XV](https://europeanroyalhistory.wordpress.com/2023/01/05/january-5-1757-attempted-assassination-of-king-louis-xv-of-france-and-navarre/)
+
 [^130]: [Five historical French quotes (or mis-quotes) and their origins](https://www.connexionfrance.com/magazine/five-historical-french-quotes-or-mis-quotes-and-their-origins/145470)
+
 [^131]: [The Grand Dauphin | Château de Versailles](https://en.chateauversailles.fr/discover/history/great-characters/grand-dauphin)
+
 [^132]: [Louis, Grand Dauphin - Wikipedia](https://en.wikipedia.org/wiki/Louis,_Grand_Dauphin)
+
 [^133]: [Louis, Grand Dauphin (The Diary of Samuel Pepys)](https://www.pepysdiary.com/encyclopedia/14092/)
+
 [^134]: [Maurice Quentin de La Tour - Préparation for a Portrait of Louis XV | Met Museum](https://www.metmuseum.org/art/collection/search/367557)
+
 [^135]: [Category:Portrait paintings of Louis XV of France - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Portrait_paintings_of_Louis_XV_of_France)

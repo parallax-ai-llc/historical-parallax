@@ -25,18 +25,21 @@ The events also showed something else: when Central Asian regimes call for help,
 ### Nazarbayev's Kazakhstan
 
 **Nursultan Nazarbayev:**
+
 - Communist Party boss since 1989
 - President 1991-2019 (28 years)
-- "Father of the Nation" (*Elbasy*)
+- "Father of the Nation" (_Elbasy_)
 - Capital renamed Nur-Sultan (until 2022)
 
 **The system:**
+
 - One-man authoritarian rule
 - Oil/gas wealth
 - Relative prosperity
 - Controlled politics but allowed some freedoms
 
 **March 2019:**
+
 - Nazarbayev resigned suddenly
 - Handed power to Kassym-Jomart Tokayev
 - But retained key positions:
@@ -47,12 +50,14 @@ The events also showed something else: when Central Asian regimes call for help,
 ### The Dual Power Problem
 
 **By 2022:**
+
 - Tokayev formally president
 - But Nazarbayev's network ("the Family") still powerful
 - Nazarbayev's nephews, allies in key positions
 - Who really ruled was unclear
 
 **Corruption and inequality:**
+
 - Oil wealth concentrated at top
 - Many Kazakhs struggled
 - Western regions especially resentful
@@ -64,16 +69,19 @@ The events also showed something else: when Central Asian regimes call for help,
 ### The Spark: LPG Prices (January 2-4)
 
 **January 1, 2022:**
+
 - Government lifted price cap on liquefied petroleum gas (LPG)
 - Price doubled overnight
 - LPG used by many drivers as cheap fuel
 
 **January 2:**
+
 - Protests began in **Zhanaozen** (western oil town)
 - Site of 2011 massacre of oil workers
 - Symbolic location
 
 **January 3-4:**
+
 - Protests spread to other western cities
 - Then nationwide
 - **Almaty** saw major demonstrations[^5]
@@ -81,16 +89,19 @@ The events also showed something else: when Central Asian regimes call for help,
 ### Escalation (January 4-5)
 
 **Demands expanded:**
+
 - Initially: Lower fuel prices
 - Then: Political reform
-- "Old man, go away!" (*Shal, ket!*) - referring to Nazarbayev
+- "Old man, go away!" (_Shal, ket!_) - referring to Nazarbayev
 - Systemic change demanded
 
 **January 4:**
+
 - Government reversed fuel price hike
 - Too late—protests continued
 
 **January 5:**
+
 - **Almaty descended into chaos**
 - City hall stormed and burned
 - Presidential residence attacked
@@ -101,21 +112,25 @@ The events also showed something else: when Central Asian regimes call for help,
 ### State of Emergency and Crackdown (January 5-7)
 
 **January 5:**
+
 - State of emergency declared
 - Tokayev took over Security Council from Nazarbayev
 - Internet shutdown (nationwide blackout until January 10)
 
 **January 6:**
+
 - Tokayev requested CSTO troops
 - Called protesters "terrorists and bandits"
 
 **January 7:**
+
 - **"Shoot to kill without warning" order issued**
 - Security forces swept Almaty
 - Heavy gunfire in streets
 - Bodies in morgues
 
 **Who were "the terrorists"?**
+
 - Government claimed criminal gangs and foreign agents
 - Some evidence of organized violence
 - But mostly seems to have been civilians killed[^7]
@@ -123,6 +138,7 @@ The events also showed something else: when Central Asian regimes call for help,
 ### CSTO Intervention
 
 **January 6-19:**
+
 - Russia-led CSTO deployed 2,500 troops
 - First operational use of alliance
 - Troops guarded strategic sites
@@ -130,6 +146,7 @@ The events also showed something else: when Central Asian regimes call for help,
 - Withdrew by January 19
 
 **Message:**
+
 - Russia will intervene to prevent color revolutions
 - Central Asian regimes have a backstop[^8]
 
@@ -139,14 +156,15 @@ The events also showed something else: when Central Asian regimes call for help,
 
 **Official figures (disputed):**
 
-| Category | Number |
-|----------|--------|
-| Total killed | 238 |
-| Civilians | 191 |
-| Security forces | 19 |
-| Others | 28 (unclear) |
+| Category        | Number       |
+| --------------- | ------------ |
+| Total killed    | 238          |
+| Civilians       | 191          |
+| Security forces | 19           |
+| Others          | 28 (unclear) |
 
 **Concerns:**
+
 - Many shot in head or heart (execution-style?)
 - Bodies not released to families
 - Independent verification blocked
@@ -164,26 +182,26 @@ The events also showed something else: when Central Asian regimes call for help,
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Kassym-Jomart Tokayev | President; ordered crackdown |
-| Nursultan Nazarbayev | Former president; power reduced |
-| Karim Massimov | Former security chief; arrested for treason |
+| Name                  | Role                                        |
+| --------------------- | ------------------------------------------- |
+| Kassym-Jomart Tokayev | President; ordered crackdown                |
+| Nursultan Nazarbayev  | Former president; power reduced             |
+| Karim Massimov        | Former security chief; arrested for treason |
 
 ### Military/Security
 
-| Force | Role |
-|-------|------|
+| Force                      | Role                  |
+| -------------------------- | --------------------- |
 | Kazakhstan security forces | Carried out crackdown |
-| CSTO (Russian-led) | Deployed troops |
+| CSTO (Russian-led)         | Deployed troops       |
 
 ### Protesters
 
-| Category | Note |
-|----------|------|
-| Oil workers (Zhanaozen) | Started protests |
-| Urban poor | Desperate |
-| Criminal elements | May have participated (unclear extent) |
+| Category                | Note                                   |
+| ----------------------- | -------------------------------------- |
+| Oil workers (Zhanaozen) | Started protests                       |
+| Urban poor              | Desperate                              |
+| Criminal elements       | May have participated (unclear extent) |
 
 ---
 
@@ -192,23 +210,27 @@ The events also showed something else: when Central Asian regimes call for help,
 ### Power Consolidation
 
 **Tokayev emerged stronger:**
+
 - Nazarbayev's network purged
 - **Karim Massimov** (intelligence chief, Nazarbayev ally) arrested for treason
 - Other Nazarbayev relatives/allies removed
 - "Family" weakened
 
 **March 2022:**
+
 - Capital renamed back to Astana
 - Nazarbayev's privileges reduced
 - Tokayev clearly in charge
 
 **June 2022:**
+
 - Constitutional referendum
 - Strengthened presidency; weakened Nazarbayev's role[^10]
 
 ### Repression
 
 **After January:**
+
 - Thousands prosecuted
 - Torture in detention documented
 - Journalists, activists targeted
@@ -217,6 +239,7 @@ The events also showed something else: when Central Asian regimes call for help,
 ### Economic Response
 
 **Some concessions:**
+
 - Fuel prices regulated
 - Minimum wage raised
 - Anti-corruption rhetoric (limited action)
@@ -228,12 +251,14 @@ The events also showed something else: when Central Asian regimes call for help,
 ### What Really Happened?
 
 **Still disputed:**
+
 - Were there organized "terrorists"?
 - Was it a power struggle at the top?
 - Did Nazarbayev allies provoke violence to discredit Tokayev?
 - Or genuine popular uprising exploited by various actors?
 
 **Most likely:** Combination
+
 - Genuine protest movement
 - Some criminal elements
 - Possibly elite manipulation
@@ -242,6 +267,7 @@ The events also showed something else: when Central Asian regimes call for help,
 ### Tokayev's Calculation
 
 **Tokayev's options were:**
+
 1. Lose power (to streets or Nazarbayev network)
 2. Kill enough to restore control
 
@@ -250,11 +276,13 @@ The events also showed something else: when Central Asian regimes call for help,
 ### Russian Role
 
 **Putin's message:**
+
 - CSTO works
 - Color revolutions will be crushed
 - Central Asia is Russian sphere
 
 **But also:**
+
 - Kazakhstan has to balance Russia
 - Too dependent = vulnerability
 - Tokayev seeks diversification[^11]
@@ -266,7 +294,7 @@ The events also showed something else: when Central Asian regimes call for help,
 ### For Kazakhstan
 
 - January 2022 = national trauma
-- "Bloody January" (*Қandy Қańtar*)
+- "Bloody January" (_Қandy Қańtar_)
 - Tokayev era firmly established
 - But reforms limited
 - Trust destroyed
@@ -289,34 +317,45 @@ The events also showed something else: when Central Asian regimes call for help,
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| January 1, 2022 | LPG price cap lifted |
-| January 2, 2022 | Protests begin in Zhanaozen |
-| January 3-4, 2022 | Protests spread nationwide |
-| January 5, 2022 | Almaty chaos; government buildings burned |
-| January 5, 2022 | Internet shutdown; state of emergency |
-| January 6, 2022 | Tokayev requests CSTO troops |
-| January 7, 2022 | "Shoot to kill" order |
-| January 7-10, 2022 | Crackdown in Almaty |
-| January 10, 2022 | Internet partially restored |
-| January 19, 2022 | CSTO troops withdraw |
-| March 2022 | Capital renamed Astana |
-| June 2022 | Constitutional referendum |
+| Date               | Event                                     |
+| ------------------ | ----------------------------------------- |
+| January 1, 2022    | LPG price cap lifted                      |
+| January 2, 2022    | Protests begin in Zhanaozen               |
+| January 3-4, 2022  | Protests spread nationwide                |
+| January 5, 2022    | Almaty chaos; government buildings burned |
+| January 5, 2022    | Internet shutdown; state of emergency     |
+| January 6, 2022    | Tokayev requests CSTO troops              |
+| January 7, 2022    | "Shoot to kill" order                     |
+| January 7-10, 2022 | Crackdown in Almaty                       |
+| January 10, 2022   | Internet partially restored               |
+| January 19, 2022   | CSTO troops withdraw                      |
+| March 2022         | Capital renamed Astana                    |
+| June 2022          | Constitutional referendum                 |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2022 Kazakh protests](https://en.wikipedia.org/wiki/2022_Kazakh_protests)
+
 [^2]: [Europa.eu - Analysis](https://www.europarl.europa.eu/RegData/etudes/kazakhstan-2022/)
+
 [^3]: [Al Jazeera - Coverage](https://www.aljazeera.com/news/2022/1/6/kazakhstan-protests-timeline)
+
 [^4]: [Wikipedia - Nursultan Nazarbayev](https://en.wikipedia.org/wiki/Nursultan_Nazarbayev)
+
 [^5]: [ZDNet - Internet shutdown](https://www.zdnet.com/article/kazakhstan-internet-shutdown/)
+
 [^6]: [The Guardian - Almaty violence](https://www.theguardian.com/world/2022/jan/06/kazakhstan-almaty-protests/)
+
 [^7]: [Access Now - Digital shutdown](https://www.accessnow.org/kazakhstan-internet-shutdown-2022/)
+
 [^8]: [The Diplomat - CSTO](https://thediplomat.com/2022/01/csto-kazakhstan/)
+
 [^9]: [CCDCOE - Analysis](https://ccdcoe.org/library/publications/kazakhstan-2022/)
+
 [^10]: [Euractiv - Two years later](https://www.euractiv.com/section/kazakhstan-two-years-bloody-january/)
+
 [^11]: [Internet Society - Impact](https://www.internetsociety.org/resources/doc/kazakhstan-2022/)
+
 [^12]: [Toda Institute - Analysis](https://toda.org/kazakhstan-january-2022/)

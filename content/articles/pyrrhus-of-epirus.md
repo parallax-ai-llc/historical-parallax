@@ -261,35 +261,35 @@ The scholarly consensus increasingly recognizes both Pyrrhus's genuine military 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 319/318 BC | Born to Aeacides, King of Epirus, and Phthia of Thessaly |
-| 317 BC | Fled to Illyria as an infant when his father was overthrown |
-| 307 BC | Raised in the court of King Glaucias of Illyria |
-| 306 BC | Became King of Epirus at age 13 with Glaucias's support |
-| 302 BC | Dethroned by Cassander after four years of rule |
-| 299-298 BC | Served as hostage at Ptolemy I's court in Alexandria |
-| 297 BC | Married Antigone, stepdaughter of Ptolemy I |
-| 297 BC | Regained throne of Epirus with Ptolemaic military support |
-| 295 BC | Death of his wife Antigone, possibly in childbirth |
-| 295 BC | Murdered his co-ruler Neoptolemus II to become sole king |
-| 291 BC | Married Lanassa, daughter of Agathocles of Syracuse |
-| 288 BC | Allied with Lysimachus to drive Demetrius from Macedon |
-| 288-284 BC | Co-ruled Macedon with Lysimachus |
-| 284 BC | Expelled from Macedon by Lysimachus |
-| 281 BC | Received invitation from Tarentum to defend against Rome |
-| 280 BC | Crossed to Italy with approximately 25,000 men and 20 elephants |
-| 280 BC | Won costly victory over Romans at Battle of Heraclea |
-| 279 BC | Defeated Romans at Battle of Asculum with heavy casualties |
-| 278 BC | Crossed to Sicily at invitation of Greek cities |
-| 278-276 BC | Conquered most of Sicily, proclaimed "King of Sicily" |
-| 276 BC | Sicilian Greeks revolted against his despotic rule |
-| 276/275 BC | Returned to Italy after losing Sicilian support |
-| 275 BC | Fought Battle of Beneventum against Romans (defeated or stalemated) |
-| 275 BC | Withdrew from Italy, returning to Epirus |
-| 274 BC | Invaded Macedon, briefly gaining control |
-| 272 BC | Launched attack on Sparta to restore exiled King Cleonymus |
-| 272 BC | Killed in street fighting in Argos when struck by roof tile |
+| Year       | Event                                                               |
+| ---------- | ------------------------------------------------------------------- |
+| 319/318 BC | Born to Aeacides, King of Epirus, and Phthia of Thessaly            |
+| 317 BC     | Fled to Illyria as an infant when his father was overthrown         |
+| 307 BC     | Raised in the court of King Glaucias of Illyria                     |
+| 306 BC     | Became King of Epirus at age 13 with Glaucias's support             |
+| 302 BC     | Dethroned by Cassander after four years of rule                     |
+| 299-298 BC | Served as hostage at Ptolemy I's court in Alexandria                |
+| 297 BC     | Married Antigone, stepdaughter of Ptolemy I                         |
+| 297 BC     | Regained throne of Epirus with Ptolemaic military support           |
+| 295 BC     | Death of his wife Antigone, possibly in childbirth                  |
+| 295 BC     | Murdered his co-ruler Neoptolemus II to become sole king            |
+| 291 BC     | Married Lanassa, daughter of Agathocles of Syracuse                 |
+| 288 BC     | Allied with Lysimachus to drive Demetrius from Macedon              |
+| 288-284 BC | Co-ruled Macedon with Lysimachus                                    |
+| 284 BC     | Expelled from Macedon by Lysimachus                                 |
+| 281 BC     | Received invitation from Tarentum to defend against Rome            |
+| 280 BC     | Crossed to Italy with approximately 25,000 men and 20 elephants     |
+| 280 BC     | Won costly victory over Romans at Battle of Heraclea                |
+| 279 BC     | Defeated Romans at Battle of Asculum with heavy casualties          |
+| 278 BC     | Crossed to Sicily at invitation of Greek cities                     |
+| 278-276 BC | Conquered most of Sicily, proclaimed "King of Sicily"               |
+| 276 BC     | Sicilian Greeks revolted against his despotic rule                  |
+| 276/275 BC | Returned to Italy after losing Sicilian support                     |
+| 275 BC     | Fought Battle of Beneventum against Romans (defeated or stalemated) |
+| 275 BC     | Withdrew from Italy, returning to Epirus                            |
+| 274 BC     | Invaded Macedon, briefly gaining control                            |
+| 272 BC     | Launched attack on Sparta to restore exiled King Cleonymus          |
+| 272 BC     | Killed in street fighting in Argos when struck by roof tile         |
 
 ---
 
@@ -319,210 +319,210 @@ Pyrrhus reportedly made this observation about misconduct by his Greek allies, r
 
 ## References
 
-[^1]: Pyrrhus of Epirus. (n.d.). *Wikipedia*. Retrieved December 20, 2025, from https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
+[^1]: Pyrrhus of Epirus. (n.d.). _Wikipedia_. Retrieved December 20, 2025, from https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
 
-[^2]: Pyrrhus | Macedonian Wars, Battle of Asculum, Italy. (n.d.). *Britannica*. Retrieved December 20, 2025, from https://www.britannica.com/biography/Pyrrhus
+[^2]: Pyrrhus | Macedonian Wars, Battle of Asculum, Italy. (n.d.). _Britannica_. Retrieved December 20, 2025, from https://www.britannica.com/biography/Pyrrhus
 
-[^3]: Pyrrhus Of Epirus Biography - Facts, Childhood, Family Life & Achievements. (n.d.). *The Famous People*. Retrieved December 20, 2025, from https://www.thefamouspeople.com/profiles/pyrrhus-of-epirus-38484.php
+[^3]: Pyrrhus Of Epirus Biography - Facts, Childhood, Family Life & Achievements. (n.d.). _The Famous People_. Retrieved December 20, 2025, from https://www.thefamouspeople.com/profiles/pyrrhus-of-epirus-38484.php
 
-[^4]: Pyrrhus of Epirus - Livius. (n.d.). *Livius*. Retrieved December 20, 2025, from https://www.livius.org/articles/person/pyrrhus-of-epirus/
+[^4]: Pyrrhus of Epirus - Livius. (n.d.). _Livius_. Retrieved December 20, 2025, from https://www.livius.org/articles/person/pyrrhus-of-epirus/
 
-[^5]: Pyrrhus of Epirus: The Ancient Greek King's Legacy Beyond the Battlefield. (2025, October 22). *Greek Reporter*. Retrieved December 20, 2025, from https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
+[^5]: Pyrrhus of Epirus: The Ancient Greek King's Legacy Beyond the Battlefield. (2025, October 22). _Greek Reporter_. Retrieved December 20, 2025, from https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
 
-[^6]: The Rise and Fall of Pyrrhus of Epirus: A Comprehensive Review. (n.d.). *Greek History Hub*. Retrieved December 20, 2025, from https://www.greekhistoryhub.com/pages/the-rise-and-fall-of-pyrrhus-of-epirus-a-comprehensive-review-d0c9fa9b.php
+[^6]: The Rise and Fall of Pyrrhus of Epirus: A Comprehensive Review. (n.d.). _Greek History Hub_. Retrieved December 20, 2025, from https://www.greekhistoryhub.com/pages/the-rise-and-fall-of-pyrrhus-of-epirus-a-comprehensive-review-d0c9fa9b.php
 
-[^7]: Pyrrhus of Epirus (318 BC – 272 BC). (n.d.). *In2Greece*. Retrieved December 20, 2025, from https://www.in2greece.com/english/historymyth/history/ancient/pyrrhus.htm
+[^7]: Pyrrhus of Epirus (318 BC – 272 BC). (n.d.). _In2Greece_. Retrieved December 20, 2025, from https://www.in2greece.com/english/historymyth/history/ancient/pyrrhus.htm
 
-[^8]: Pyrrhus: The King with Costly Victories. (n.d.). *World History Encyclopedia*. Retrieved December 20, 2025, from https://www.worldhistory.org/pyrrhus/
+[^8]: Pyrrhus: The King with Costly Victories. (n.d.). _World History Encyclopedia_. Retrieved December 20, 2025, from https://www.worldhistory.org/pyrrhus/
 
-[^9]: Pyrrhus of Epirus, the Ancient Greek King who Fought the Romans. (2024, July 4). *Greek Reporter*. Retrieved December 20, 2025, from https://greekreporter.com/2024/07/04/pyrrhus-epirus-ancient-greek-king-fought-romans/
+[^9]: Pyrrhus of Epirus, the Ancient Greek King who Fought the Romans. (2024, July 4). _Greek Reporter_. Retrieved December 20, 2025, from https://greekreporter.com/2024/07/04/pyrrhus-epirus-ancient-greek-king-fought-romans/
 
-[^10]: The Historical Significance of Pyrrhus of Epirus in Greek History. (n.d.). *Greek History Hub*. Retrieved December 20, 2025, from https://www.greekhistoryhub.com/pages/the-historical-significance-of-pyrrhus-of-epirus-in-greek-history-bfa2df05.php
+[^10]: The Historical Significance of Pyrrhus of Epirus in Greek History. (n.d.). _Greek History Hub_. Retrieved December 20, 2025, from https://www.greekhistoryhub.com/pages/the-historical-significance-of-pyrrhus-of-epirus-in-greek-history-bfa2df05.php
 
-[^11]: Study Guide for Plutarch's Life of Pyrrhus. (n.d.). *AmblesideOnline*. Retrieved December 20, 2025, from https://www.amblesideonline.org/plutarch-pyrrhus
+[^11]: Study Guide for Plutarch's Life of Pyrrhus. (n.d.). _AmblesideOnline_. Retrieved December 20, 2025, from https://www.amblesideonline.org/plutarch-pyrrhus
 
-[^12]: Pyrrhus of Epirus - Ancient King of Epirus. (n.d.). *Albanopedia*. Retrieved December 20, 2025, from https://albanopedia.com/biographies/pyrrhus-of-epirus
+[^12]: Pyrrhus of Epirus - Ancient King of Epirus. (n.d.). _Albanopedia_. Retrieved December 20, 2025, from https://albanopedia.com/biographies/pyrrhus-of-epirus
 
-[^13]: Pyrrhus of Epirus | Military Wiki. (n.d.). *Fandom*. Retrieved December 20, 2025, from https://military-history.fandom.com/wiki/Pyrrhus_of_Epirus
+[^13]: Pyrrhus of Epirus | Military Wiki. (n.d.). _Fandom_. Retrieved December 20, 2025, from https://military-history.fandom.com/wiki/Pyrrhus_of_Epirus
 
-[^14]: Today I Learned: Pyrrhus of Epirus — The Man Behind the Pyrrhic Victory. (n.d.). *Medium*. Retrieved December 20, 2025, from https://medium.com/@jonestnv/today-i-learned-pyrrhus-of-epirus-the-man-behind-the-pyrrhic-victory-49dea36dfb83
+[^14]: Today I Learned: Pyrrhus of Epirus — The Man Behind the Pyrrhic Victory. (n.d.). _Medium_. Retrieved December 20, 2025, from https://medium.com/@jonestnv/today-i-learned-pyrrhus-of-epirus-the-man-behind-the-pyrrhic-victory-49dea36dfb83
 
-[^15]: Heritage History | Pyrrhus by Jacob Abbott. (n.d.). *Heritage History*. Retrieved December 20, 2025, from https://www.heritage-history.com/index.php?c=read&author=abbott&book=pyrrhus&story=olympias
+[^15]: Heritage History | Pyrrhus by Jacob Abbott. (n.d.). _Heritage History_. Retrieved December 20, 2025, from https://www.heritage-history.com/index.php?c=read&author=abbott&book=pyrrhus&story=olympias
 
-[^16]: Pyrrhus of Epirus: The Life and Legacy of One of the Ancient World's Most Famous Generals. (n.d.). *Amazon*. Retrieved December 20, 2025, from https://www.amazon.com/Pyrrhus-Epirus-Legacy-Ancient-Generals/dp/1545029253
+[^16]: Pyrrhus of Epirus: The Life and Legacy of One of the Ancient World's Most Famous Generals. (n.d.). _Amazon_. Retrieved December 20, 2025, from https://www.amazon.com/Pyrrhus-Epirus-Legacy-Ancient-Generals/dp/1545029253
 
-[^17]: Who Was Pyrrhus and What is a Pyrrhic Victory? (n.d.). *History Hit*. Retrieved December 20, 2025, from https://www.historyhit.com/who-was-pyrrhus-and-what-is-a-pyrrhic-victory/
+[^17]: Who Was Pyrrhus and What is a Pyrrhic Victory? (n.d.). _History Hit_. Retrieved December 20, 2025, from https://www.historyhit.com/who-was-pyrrhus-and-what-is-a-pyrrhic-victory/
 
-[^18]: Pyrrhus of Epirus: History's Greatest Forgotten General and Why You Should Wear a Helmet. (n.d.). *Steemit*. Retrieved December 20, 2025, from https://steemit.com/history/@victor-lucas/pyrrhus-of-epirus-history-s-greatest-forgotten-general-and-why-you-should-wear-a-helmet
+[^18]: Pyrrhus of Epirus: History's Greatest Forgotten General and Why You Should Wear a Helmet. (n.d.). _Steemit_. Retrieved December 20, 2025, from https://steemit.com/history/@victor-lucas/pyrrhus-of-epirus-history-s-greatest-forgotten-general-and-why-you-should-wear-a-helmet
 
-[^19]: Plutarch • Life of Pyrrhus. (n.d.). *University of Chicago*. Retrieved December 20, 2025, from https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
+[^19]: Plutarch • Life of Pyrrhus. (n.d.). _University of Chicago_. Retrieved December 20, 2025, from https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
 
-[^20]: The Internet Classics Archive | Pyrrhus by Plutarch. (n.d.). *MIT Classics*. Retrieved December 20, 2025, from http://classics.mit.edu/Plutarch/pyrrhus.html
+[^20]: The Internet Classics Archive | Pyrrhus by Plutarch. (n.d.). _MIT Classics_. Retrieved December 20, 2025, from http://classics.mit.edu/Plutarch/pyrrhus.html
 
-[^21]: Pyrrhus of Epirus – Rome: Total War Heaven. (n.d.). *Heaven Games*. Retrieved December 20, 2025, from https://rtw.heavengames.com/history/people/pyrrhus/
+[^21]: Pyrrhus of Epirus – Rome: Total War Heaven. (n.d.). _Heaven Games_. Retrieved December 20, 2025, from https://rtw.heavengames.com/history/people/pyrrhus/
 
-[^22]: Pyrrhus. (n.d.). *Heritage History*. Retrieved December 20, 2025, from https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=pyrrhus
+[^22]: Pyrrhus. (n.d.). _Heritage History_. Retrieved December 20, 2025, from https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=pyrrhus
 
-[^23]: Pyrrhus - Wikidata. (n.d.). *Wikidata*. Retrieved December 20, 2025, from https://www.wikidata.org/wiki/Q172353
+[^23]: Pyrrhus - Wikidata. (n.d.). _Wikidata_. Retrieved December 20, 2025, from https://www.wikidata.org/wiki/Q172353
 
-[^24]: Pyrrhus - in ancient sources @ attalus.org. (n.d.). *Attalus*. Retrieved December 20, 2025, from https://www.attalus.org/names/p/pyrrhus.html
+[^24]: Pyrrhus - in ancient sources @ attalus.org. (n.d.). _Attalus_. Retrieved December 20, 2025, from https://www.attalus.org/names/p/pyrrhus.html
 
-[^25]: Pyrrhus (2) - Livius. (n.d.). *Livius*. Retrieved December 20, 2025, from https://www.livius.org/articles/person/pyrrhus-of-epirus/pyrrhus-2/
+[^25]: Pyrrhus (2) - Livius. (n.d.). _Livius_. Retrieved December 20, 2025, from https://www.livius.org/articles/person/pyrrhus-of-epirus/pyrrhus-2/
 
-[^26]: Pyrrhic victory - Wikipedia. (n.d.). *Wikipedia*. Retrieved December 20, 2025, from https://en.wikipedia.org/wiki/Pyrrhic_victory
+[^26]: Pyrrhic victory - Wikipedia. (n.d.). _Wikipedia_. Retrieved December 20, 2025, from https://en.wikipedia.org/wiki/Pyrrhic_victory
 
-[^27]: Pyrrhic War - Wikipedia. (n.d.). *Wikipedia*. Retrieved December 20, 2025, from https://en.wikipedia.org/wiki/Pyrrhic_War
+[^27]: Pyrrhic War - Wikipedia. (n.d.). _Wikipedia_. Retrieved December 20, 2025, from https://en.wikipedia.org/wiki/Pyrrhic_War
 
-[^28]: The ancient Roman slaughters that gave us the term 'Pyrrhic Victory'. (n.d.). *History Skills*. Retrieved December 20, 2025, from https://www.historyskills.com/classroom/ancient-history/pyrrhic-victory/
+[^28]: The ancient Roman slaughters that gave us the term 'Pyrrhic Victory'. (n.d.). _History Skills_. Retrieved December 20, 2025, from https://www.historyskills.com/classroom/ancient-history/pyrrhic-victory/
 
-[^29]: Pyrrhic victory | Definition, Origin, & Examples. (n.d.). *Britannica*. Retrieved December 20, 2025, from https://www.britannica.com/topic/Pyrrhic-victory
+[^29]: Pyrrhic victory | Definition, Origin, & Examples. (n.d.). _Britannica_. Retrieved December 20, 2025, from https://www.britannica.com/topic/Pyrrhic-victory
 
-[^30]: Who Was Pyrrhus and What is a Pyrrhic Victory? (n.d.). *World Atlas*. Retrieved December 20, 2025, from https://www.worldatlas.com/ancient-world/who-was-pyrrhus-and-what-is-a-pyrrhic-victory.html
+[^30]: Who Was Pyrrhus and What is a Pyrrhic Victory? (n.d.). _World Atlas_. Retrieved December 20, 2025, from https://www.worldatlas.com/ancient-world/who-was-pyrrhus-and-what-is-a-pyrrhic-victory.html
 
-[^31]: Roman Warfare in the Age of Pyrrhus. (n.d.). *World History Encyclopedia*. Retrieved December 20, 2025, from https://www.worldhistory.org/article/1881/roman-warfare-in-the-age-of-pyrrhus/
+[^31]: Roman Warfare in the Age of Pyrrhus. (n.d.). _World History Encyclopedia_. Retrieved December 20, 2025, from https://www.worldhistory.org/article/1881/roman-warfare-in-the-age-of-pyrrhus/
 
-[^32]: The Eagle at Asculum: General Pyrrhus of Epirus. (n.d.). *Warfare History Network*. Retrieved December 20, 2025, from https://warfarehistorynetwork.com/article/the-eagle-at-asculum-general-pyrrhus-of-epirus/
+[^32]: The Eagle at Asculum: General Pyrrhus of Epirus. (n.d.). _Warfare History Network_. Retrieved December 20, 2025, from https://warfarehistorynetwork.com/article/the-eagle-at-asculum-general-pyrrhus-of-epirus/
 
-[^33]: Pyrrhic War | UNRV Roman History. (n.d.). *UNRV*. Retrieved December 20, 2025, from https://www.unrv.com/empire/pyrrhic-war.php
+[^33]: Pyrrhic War | UNRV Roman History. (n.d.). _UNRV_. Retrieved December 20, 2025, from https://www.unrv.com/empire/pyrrhic-war.php
 
-[^34]: Who Was King Pyrrhus of Epirus? (n.d.). *Medium*. Retrieved December 20, 2025, from https://medium.com/@weeklydoseofhistory/who-was-king-pyrrhus-of-epirus-ded7a7ed369e
+[^34]: Who Was King Pyrrhus of Epirus? (n.d.). _Medium_. Retrieved December 20, 2025, from https://medium.com/@weeklydoseofhistory/who-was-king-pyrrhus-of-epirus-ded7a7ed369e
 
-[^35]: Why did Pyrrhus of Epirus do so badly against Rome? (n.d.). *Quora*. Retrieved December 20, 2025, from https://www.quora.com/Why-did-Pyrrhus-of-Epirus-do-so-badly-against-Rome-I-know-he-won-but-they-were-all-Pyrrhic-victories
+[^35]: Why did Pyrrhus of Epirus do so badly against Rome? (n.d.). _Quora_. Retrieved December 20, 2025, from https://www.quora.com/Why-did-Pyrrhus-of-Epirus-do-so-badly-against-Rome-I-know-he-won-but-they-were-all-Pyrrhic-victories
 
-[^36]: QUOTES BY PYRRHUS OF EPIRUS. (n.d.). *A-Z Quotes*. Retrieved December 20, 2025, from https://www.azquotes.com/author/25312-Pyrrhus_of_Epirus
+[^36]: QUOTES BY PYRRHUS OF EPIRUS. (n.d.). _A-Z Quotes_. Retrieved December 20, 2025, from https://www.azquotes.com/author/25312-Pyrrhus_of_Epirus
 
-[^37]: Top 50 PYRRHUS OF EPIRUS quotes and sayings. (n.d.). *Inspiring Quotes*. Retrieved December 20, 2025, from https://www.inspiringquotes.us/author/1444-pyrrhus-of-epirus
+[^37]: Top 50 PYRRHUS OF EPIRUS quotes and sayings. (n.d.). _Inspiring Quotes_. Retrieved December 20, 2025, from https://www.inspiringquotes.us/author/1444-pyrrhus-of-epirus
 
-[^38]: King Pyrrhus of Epirus Quotes. (n.d.). *Life Quotes Lib*. Retrieved December 20, 2025, from http://lifequoteslib.com/authors/king_pyrrhus_of_epirus.html
+[^38]: King Pyrrhus of Epirus Quotes. (n.d.). _Life Quotes Lib_. Retrieved December 20, 2025, from http://lifequoteslib.com/authors/king_pyrrhus_of_epirus.html
 
-[^39]: Top 11 Pyrrhus Of Epirus Quotes. (n.d.). *Quotestats*. Retrieved December 20, 2025, from https://quotestats.com/topic/pyrrhus-of-epirus-quotes/
+[^39]: Top 11 Pyrrhus Of Epirus Quotes. (n.d.). _Quotestats_. Retrieved December 20, 2025, from https://quotestats.com/topic/pyrrhus-of-epirus-quotes/
 
-[^40]: Pyrrhus of Epirus Quotes - Lib Quotes. (n.d.). *Lib Quotes*. Retrieved December 20, 2025, from https://libquotes.com/pyrrhus-of-epirus
+[^40]: Pyrrhus of Epirus Quotes - Lib Quotes. (n.d.). _Lib Quotes_. Retrieved December 20, 2025, from https://libquotes.com/pyrrhus-of-epirus
 
-[^41]: Pyrrhus Quotes and Aphorisms. (n.d.). *Best Quotations*. Retrieved December 20, 2025, from https://best-quotations.com/authquotes.php?auth=1343
+[^41]: Pyrrhus Quotes and Aphorisms. (n.d.). _Best Quotations_. Retrieved December 20, 2025, from https://best-quotations.com/authquotes.php?auth=1343
 
-[^42]: Pyrrhus Quotes. (n.d.). *Quotes.net*. Retrieved December 20, 2025, from https://www.quotes.net/authors/Pyrrhus
+[^42]: Pyrrhus Quotes. (n.d.). _Quotes.net_. Retrieved December 20, 2025, from https://www.quotes.net/authors/Pyrrhus
 
-[^43]: Pyrrhus of Epirus Quotes, Famous Quotes by Pyrrhus of Epirus. (n.d.). *Quoteswave*. Retrieved December 20, 2025, from https://www.quoteswave.com/authors/pyrrhus-of-epirus
+[^43]: Pyrrhus of Epirus Quotes, Famous Quotes by Pyrrhus of Epirus. (n.d.). _Quoteswave_. Retrieved December 20, 2025, from https://www.quoteswave.com/authors/pyrrhus-of-epirus
 
-[^44]: Pyrrhus of Epirus Quote. (n.d.). *Lib Quotes*. Retrieved December 20, 2025, from https://libquotes.com/pyrrhus-of-epirus/quote/lbi5v8s
+[^44]: Pyrrhus of Epirus Quote. (n.d.). _Lib Quotes_. Retrieved December 20, 2025, from https://libquotes.com/pyrrhus-of-epirus/quote/lbi5v8s
 
-[^45]: Pyrrhus of Epirus; Over-rated or not. (n.d.). *History Forum*. Retrieved December 20, 2025, from https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
+[^45]: Pyrrhus of Epirus; Over-rated or not. (n.d.). _History Forum_. Retrieved December 20, 2025, from https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
 
-[^46]: A neglected warrior - A new book on Pyrrhus. (n.d.). *Ancient World Magazine*. Retrieved December 20, 2025, from https://www.ancientworldmagazine.com/reviews/neglected-warrior-book-pyrrhus/
+[^46]: A neglected warrior - A new book on Pyrrhus. (n.d.). _Ancient World Magazine_. Retrieved December 20, 2025, from https://www.ancientworldmagazine.com/reviews/neglected-warrior-book-pyrrhus/
 
-[^47]: Pyrrhus of Epirus Research Papers. (n.d.). *Academia.edu*. Retrieved December 20, 2025, from https://www.academia.edu/Documents/in/Pyrrhus_of_Epirus
+[^47]: Pyrrhus of Epirus Research Papers. (n.d.). _Academia.edu_. Retrieved December 20, 2025, from https://www.academia.edu/Documents/in/Pyrrhus_of_Epirus
 
-[^48]: The Army of Pyrrhus of Epirus, 3rd Century BC. (n.d.). *IPMS/USA Reviews*. Retrieved December 20, 2025, from https://reviews.ipmsusa.org/review/army-pyrrhus-epirus-3rd-century-bc
+[^48]: The Army of Pyrrhus of Epirus, 3rd Century BC. (n.d.). _IPMS/USA Reviews_. Retrieved December 20, 2025, from https://reviews.ipmsusa.org/review/army-pyrrhus-epirus-3rd-century-bc
 
-[^49]: Pyrrhus of Epirus biography. *World History Encyclopedia*. https://www.worldhistory.org/pyrrhus/
+[^49]: Pyrrhus of Epirus biography. _World History Encyclopedia_. https://www.worldhistory.org/pyrrhus/
 
-[^50]: Ancient sources on Pyrrhus. *Livius.org*. https://www.livius.org/articles/person/pyrrhus-of-epirus/
+[^50]: Ancient sources on Pyrrhus. _Livius.org_. https://www.livius.org/articles/person/pyrrhus-of-epirus/
 
-[^51]: Pyrrhic War historical analysis. *UNRV Roman History*. https://www.unrv.com/empire/pyrrhic-war.php
+[^51]: Pyrrhic War historical analysis. _UNRV Roman History_. https://www.unrv.com/empire/pyrrhic-war.php
 
-[^52]: Battle of Beneventum and withdrawal from Italy. *Wikipedia*. https://en.wikipedia.org/wiki/Pyrrhic_War
+[^52]: Battle of Beneventum and withdrawal from Italy. _Wikipedia_. https://en.wikipedia.org/wiki/Pyrrhic_War
 
-[^53]: Death of Pyrrhus at Argos. *Britannica*. https://www.britannica.com/biography/Pyrrhus
+[^53]: Death of Pyrrhus at Argos. _Britannica_. https://www.britannica.com/biography/Pyrrhus
 
-[^54]: Street fighting in Argos. *History Hit*. https://www.historyhit.com/who-was-pyrrhus-and-what-is-a-pyrrhic-victory/
+[^54]: Street fighting in Argos. _History Hit_. https://www.historyhit.com/who-was-pyrrhus-and-what-is-a-pyrrhic-victory/
 
-[^55]: Circumstances of Pyrrhus's death. *Greek Reporter*. https://greekreporter.com/2024/07/04/pyrrhus-epirus-ancient-greek-king-fought-romans/
+[^55]: Circumstances of Pyrrhus's death. _Greek Reporter_. https://greekreporter.com/2024/07/04/pyrrhus-epirus-ancient-greek-king-fought-romans/
 
-[^56]: Historical debate on Pyrrhus. *History Forum*. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
+[^56]: Historical debate on Pyrrhus. _History Forum_. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
 
-[^57]: Pyrrhic victory concept and legacy. *Britannica*. https://www.britannica.com/topic/Pyrrhic-victory
+[^57]: Pyrrhic victory concept and legacy. _Britannica_. https://www.britannica.com/topic/Pyrrhic-victory
 
-[^58]: Plutarch's description of Pyrrhus. *University of Chicago Classics*. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
+[^58]: Plutarch's description of Pyrrhus. _University of Chicago Classics_. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
 
-[^59]: Physical appearance of Pyrrhus. *MIT Classics Archive*. http://classics.mit.edu/Plutarch/pyrrhus.html
+[^59]: Physical appearance of Pyrrhus. _MIT Classics Archive_. http://classics.mit.edu/Plutarch/pyrrhus.html
 
-[^60]: Pyrrhus's personal demeanor. *In2Greece*. https://www.in2greece.com/english/historymyth/history/ancient/pyrrhus.htm
+[^60]: Pyrrhus's personal demeanor. _In2Greece_. https://www.in2greece.com/english/historymyth/history/ancient/pyrrhus.htm
 
-[^61]: Marriage to Antigone. *The Famous People*. https://www.thefamouspeople.com/profiles/pyrrhus-of-epirus-38484.php
+[^61]: Marriage to Antigone. _The Famous People_. https://www.thefamouspeople.com/profiles/pyrrhus-of-epirus-38484.php
 
-[^62]: Death of Antigone. *Greek History Hub*. https://www.greekhistoryhub.com/pages/the-rise-and-fall-of-pyrrhus-of-epirus-a-comprehensive-review-d0c9fa9b.php
+[^62]: Death of Antigone. _Greek History Hub_. https://www.greekhistoryhub.com/pages/the-rise-and-fall-of-pyrrhus-of-epirus-a-comprehensive-review-d0c9fa9b.php
 
-[^63]: Marriage to Lanassa. *Wikipedia*. https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
+[^63]: Marriage to Lanassa. _Wikipedia_. https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
 
-[^64]: Lanassa's departure. *Albanopedia*. https://albanopedia.com/biographies/pyrrhus-of-epirus
+[^64]: Lanassa's departure. _Albanopedia_. https://albanopedia.com/biographies/pyrrhus-of-epirus
 
-[^65]: Other marriages of Pyrrhus. *Military Wiki*. https://military-history.fandom.com/wiki/Pyrrhus_of_Epirus
+[^65]: Other marriages of Pyrrhus. _Military Wiki_. https://military-history.fandom.com/wiki/Pyrrhus_of_Epirus
 
-[^66]: Character traits and tolerance. *Heritage History*. https://www.heritage-history.com/index.php?c=read&author=abbott&book=pyrrhus&story=olympias
+[^66]: Character traits and tolerance. _Heritage History_. https://www.heritage-history.com/index.php?c=read&author=abbott&book=pyrrhus&story=olympias
 
-[^67]: Chivalrous conduct in warfare. *Rome Total War Heaven*. https://rtw.heavengames.com/history/people/pyrrhus/
+[^67]: Chivalrous conduct in warfare. _Rome Total War Heaven_. https://rtw.heavengames.com/history/people/pyrrhus/
 
-[^68]: Instructions to generals about retreating enemies. *Livius*. https://www.livius.org/articles/person/pyrrhus-of-epirus/
+[^68]: Instructions to generals about retreating enemies. _Livius_. https://www.livius.org/articles/person/pyrrhus-of-epirus/
 
-[^69]: Habit of personal combat. *Steemit*. https://steemit.com/history/@victor-lucas/pyrrhus-of-epirus-history-s-greatest-forgotten-general-and-why-you-should-wear-a-helmet
+[^69]: Habit of personal combat. _Steemit_. https://steemit.com/history/@victor-lucas/pyrrhus-of-epirus-history-s-greatest-forgotten-general-and-why-you-should-wear-a-helmet
 
-[^70]: Appearance and demeanor. *AmblesideOnline*. https://www.amblesideonline.org/plutarch-pyrrhus
+[^70]: Appearance and demeanor. _AmblesideOnline_. https://www.amblesideonline.org/plutarch-pyrrhus
 
-[^71]: Skill at winning over powerful individuals. *Medium*. https://medium.com/@jonestnv/today-i-learned-pyrrhus-of-epirus-the-man-behind-the-pyrrhic-victory-49dea36dfb83
+[^71]: Skill at winning over powerful individuals. _Medium_. https://medium.com/@jonestnv/today-i-learned-pyrrhus-of-epirus-the-man-behind-the-pyrrhic-victory-49dea36dfb83
 
-[^72]: Plutarch on Pyrrhus's character flaw. *Plutarch Life of Pyrrhus*. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
+[^72]: Plutarch on Pyrrhus's character flaw. _Plutarch Life of Pyrrhus_. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
 
-[^73]: Relationship with Fabricius. *World History Encyclopedia*. https://www.worldhistory.org/pyrrhus/
+[^73]: Relationship with Fabricius. _World History Encyclopedia_. https://www.worldhistory.org/pyrrhus/
 
-[^74]: Murder of Neoptolemus. *Greek History Hub*. https://www.greekhistoryhub.com/pages/the-historical-significance-of-pyrrhus-of-epirus-in-greek-history-bfa2df05.php
+[^74]: Murder of Neoptolemus. _Greek History Hub_. https://www.greekhistoryhub.com/pages/the-historical-significance-of-pyrrhus-of-epirus-in-greek-history-bfa2df05.php
 
-[^75]: Pyrrhic victory in language. *History Skills*. https://www.historyskills.com/classroom/ancient-history/pyrrhic-victory/
+[^75]: Pyrrhic victory in language. _History Skills_. https://www.historyskills.com/classroom/ancient-history/pyrrhic-victory/
 
-[^76]: Famous quote after Asculum. *A-Z Quotes*. https://www.azquotes.com/author/25312-Pyrrhus_of_Epirus
+[^76]: Famous quote after Asculum. _A-Z Quotes_. https://www.azquotes.com/author/25312-Pyrrhus_of_Epirus
 
-[^77]: Military writings of Pyrrhus. *Greek Reporter*. https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
+[^77]: Military writings of Pyrrhus. _Greek Reporter_. https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
 
-[^78]: Cicero's praise of Pyrrhus's works. *Amazon book description*. https://www.amazon.com/Pyrrhus-Epirus-Legacy-Ancient-Generals/dp/1545029253
+[^78]: Cicero's praise of Pyrrhus's works. _Amazon book description_. https://www.amazon.com/Pyrrhus-Epirus-Legacy-Ancient-Generals/dp/1545029253
 
-[^79]: Hieronymus of Cardia's historical work. *Wikipedia*. https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
+[^79]: Hieronymus of Cardia's historical work. _Wikipedia_. https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
 
-[^80]: Transformation of Epirus. *Greek Reporter*. https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
+[^80]: Transformation of Epirus. _Greek Reporter_. https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
 
-[^81]: Theaters and cultural development. *Greek History Hub*. https://www.greekhistoryhub.com/pages/the-historical-significance-of-pyrrhus-of-epirus-in-greek-history-bfa2df05.php
+[^81]: Theaters and cultural development. _Greek History Hub_. https://www.greekhistoryhub.com/pages/the-historical-significance-of-pyrrhus-of-epirus-in-greek-history-bfa2df05.php
 
-[^82]: Political unification of Epirus. *World History Encyclopedia*. https://www.worldhistory.org/pyrrhus/
+[^82]: Political unification of Epirus. _World History Encyclopedia_. https://www.worldhistory.org/pyrrhus/
 
-[^83]: Hannibal's ranking of generals. *Britannica*. https://www.britannica.com/biography/Pyrrhus
+[^83]: Hannibal's ranking of generals. _Britannica_. https://www.britannica.com/biography/Pyrrhus
 
-[^84]: Source bias considerations. *Ancient World Magazine*. https://www.ancientworldmagazine.com/reviews/neglected-warrior-book-pyrrhus/
+[^84]: Source bias considerations. _Ancient World Magazine_. https://www.ancientworldmagazine.com/reviews/neglected-warrior-book-pyrrhus/
 
-[^85]: Modern scholarship on Pyrrhus. *Academia.edu*. https://www.academia.edu/Documents/in/Pyrrhus_of_Epirus
+[^85]: Modern scholarship on Pyrrhus. _Academia.edu_. https://www.academia.edu/Documents/in/Pyrrhus_of_Epirus
 
-[^86]: Hannibal's assessment. *Britannica*. https://www.britannica.com/biography/Pyrrhus
+[^86]: Hannibal's assessment. _Britannica_. https://www.britannica.com/biography/Pyrrhus
 
-[^87]: Hieronymus of Cardia. *Wikipedia*. https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
+[^87]: Hieronymus of Cardia. _Wikipedia_. https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus
 
-[^88]: Combined arms warfare innovations. *Warfare History Network*. https://warfarehistorynetwork.com/article/the-eagle-at-asculum-general-pyrrhus-of-epirus/
+[^88]: Combined arms warfare innovations. _Warfare History Network_. https://warfarehistorynetwork.com/article/the-eagle-at-asculum-general-pyrrhus-of-epirus/
 
-[^89]: Source bias discussion. *History Forum*. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
+[^89]: Source bias discussion. _History Forum_. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
 
-[^90]: Cultural achievements in Epirus. *Greek Reporter*. https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
+[^90]: Cultural achievements in Epirus. _Greek Reporter_. https://greekreporter.com/2025/10/22/pyrrhus-epirus-ancient-greek-king-legacy/
 
-[^91]: Theoretical contributions to military science. *World History Encyclopedia*. https://www.worldhistory.org/pyrrhus/
+[^91]: Theoretical contributions to military science. _World History Encyclopedia_. https://www.worldhistory.org/pyrrhus/
 
-[^92]: Structural challenges facing Pyrrhus. *Greek History Hub*. https://www.greekhistoryhub.com/pages/the-rise-and-fall-of-pyrrhus-of-epirus-a-comprehensive-review-d0c9fa9b.php
+[^92]: Structural challenges facing Pyrrhus. _Greek History Hub_. https://www.greekhistoryhub.com/pages/the-rise-and-fall-of-pyrrhus-of-epirus-a-comprehensive-review-d0c9fa9b.php
 
-[^93]: Strategic failures. *History Forum*. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
+[^93]: Strategic failures. _History Forum_. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
 
-[^94]: Battlefield technician vs strategist. *History Forum discussion*. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
+[^94]: Battlefield technician vs strategist. _History Forum discussion_. https://historum.com/t/pyrrhus-of-epirus-over-rated-or-not.60566/
 
-[^95]: Financial and focus failures. *World History Encyclopedia*. https://www.worldhistory.org/pyrrhus/
+[^95]: Financial and focus failures. _World History Encyclopedia_. https://www.worldhistory.org/pyrrhus/
 
-[^96]: Antigonus's characterization. *Plutarch*. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
+[^96]: Antigonus's characterization. _Plutarch_. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pyrrhus*.html
 
-[^97]: Linguistic legacy critique. *Britannica Pyrrhic victory*. https://www.britannica.com/topic/Pyrrhic-victory
+[^97]: Linguistic legacy critique. _Britannica Pyrrhic victory_. https://www.britannica.com/topic/Pyrrhic-victory
 
-[^98]: Death analysis. *Medium*. https://medium.com/@weeklydoseofhistory/who-was-king-pyrrhus-of-epirus-ded7a7ed369e
+[^98]: Death analysis. _Medium_. https://medium.com/@weeklydoseofhistory/who-was-king-pyrrhus-of-epirus-ded7a7ed369e
 
-[^99]: Reputation inflation argument. *Quora discussion*. https://www.quora.com/Why-did-Pyrrhus-of-Epirus-do-so-badly-against-Rome-I-know-he-won-but-they-were-all-Pyrrhic-victories
+[^99]: Reputation inflation argument. _Quora discussion_. https://www.quora.com/Why-did-Pyrrhus-of-Epirus-do-so-badly-against-Rome-I-know-he-won-but-they-were-all-Pyrrhic-victories
 
-[^100]: Famous Asculum quote. *Inspiring Quotes*. https://www.inspiringquotes.us/author/1444-pyrrhus-of-epirus
+[^100]: Famous Asculum quote. _Inspiring Quotes_. https://www.inspiringquotes.us/author/1444-pyrrhus-of-epirus
 
-[^101]: Alternative quote version. *Lib Quotes*. https://libquotes.com/pyrrhus-of-epirus
+[^101]: Alternative quote version. _Lib Quotes_. https://libquotes.com/pyrrhus-of-epirus
 
-[^102]: Observation on Roman manpower. *Life Quotes Lib*. http://lifequoteslib.com/authors/king_pyrrhus_of_epirus.html
+[^102]: Observation on Roman manpower. _Life Quotes Lib_. http://lifequoteslib.com/authors/king_pyrrhus_of_epirus.html
 
-[^103]: Plutarch's characterization quote. *Best Quotations*. https://best-quotations.com/authquotes.php?auth=1343
+[^103]: Plutarch's characterization quote. _Best Quotations_. https://best-quotations.com/authquotes.php?auth=1343
 
-[^104]: Quote on civilized conduct. *Quoteswave*. https://www.quoteswave.com/authors/pyrrhus-of-epirus
+[^104]: Quote on civilized conduct. _Quoteswave_. https://www.quoteswave.com/authors/pyrrhus-of-epirus

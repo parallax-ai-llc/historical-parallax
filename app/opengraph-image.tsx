@@ -16,39 +16,37 @@ export default async function Image() {
   const fontData = await fetch(fontUrl!).then((res) => res.arrayBuffer());
 
   return new ImageResponse(
-    (
+    <div
+      style={{
+        height: "100%",
+        width: "100%",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        backgroundColor: "#0a0a0a",
+        fontFamily: "Cormorant Garamond",
+      }}
+    >
       <div
         style={{
-          height: "100%",
-          width: "100%",
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-          backgroundColor: "#0a0a0a",
-          fontFamily: "Cormorant Garamond",
+          fontSize: "80px",
+          fontWeight: "bold",
+          color: "#fff",
+          marginBottom: "20px",
         }}
       >
-        <div
-          style={{
-            fontSize: "80px",
-            fontWeight: "bold",
-            color: "#fff",
-            marginBottom: "20px",
-          }}
-        >
-          Historical Parallax
-        </div>
-        <div
-          style={{
-            fontSize: "32px",
-            color: "#888",
-          }}
-        >
-          Every history creates a parallax
-        </div>
+        Historical Parallax
       </div>
-    ),
+      <div
+        style={{
+          fontSize: "32px",
+          color: "#888",
+        }}
+      >
+        Every history creates a parallax
+      </div>
+    </div>,
     {
       ...size,
       fonts: [

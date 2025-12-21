@@ -191,24 +191,24 @@ One modern scholar summarized the historical consensus: "Caracalla, whose reign 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 188 | Born Lucius Septimius Bassianus on April 4 in Lugdunum (Lyon), Gaul |
-| 193 | Father Septimius Severus proclaimed emperor when Caracalla was five years old |
-| 195-196 | Given imperial rank of Caesar and renamed Marcus Aurelius Antoninus Caesar |
-| 197 | Granted title of Designate (imperator destinatus) |
-| 198 | Appointed joint Augustus and co-emperor at age nine on January 28 |
-| 202 | Served as consul for the first time; married Plautilla |
-| 205 | Plautianus fell from power; Caracalla exiled wife Plautilla; served as consul |
-| 208 | Accompanied father to Britain for Caledonian campaign; served as consul |
-| 209 | Brother Geta raised to rank of Augustus as co-emperor |
-| 211 | Father Septimius Severus died at York on February 4; became co-emperor with Geta; murdered Geta in December |
-| 212 | Issued Constitutio Antoniniana granting citizenship to all free men; commissioned Baths of Caracalla; began campaigns against Germanic tribes |
-| 213 | Served as consul; continued Germanic campaigns; Legio II Traiana sent from Alexandria to Rhine |
-| 213-214 | Defeated Alamanni; strengthened frontier fortifications; awarded title Germanicus Maximus |
-| 215 | Introduced antoninianus currency; traveled to Alexandria and perpetrated massacre in late 215 |
-| 216 | Baths of Caracalla partially opened; began Parthian campaign; massacred Parthian nobles at Arbela |
-| 217 | Assassinated by Julius Martialis on April 8 near Carrhae while campaigning against Parthia; succeeded by Macrinus |
+| Year    | Event                                                                                                                                         |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 188     | Born Lucius Septimius Bassianus on April 4 in Lugdunum (Lyon), Gaul                                                                           |
+| 193     | Father Septimius Severus proclaimed emperor when Caracalla was five years old                                                                 |
+| 195-196 | Given imperial rank of Caesar and renamed Marcus Aurelius Antoninus Caesar                                                                    |
+| 197     | Granted title of Designate (imperator destinatus)                                                                                             |
+| 198     | Appointed joint Augustus and co-emperor at age nine on January 28                                                                             |
+| 202     | Served as consul for the first time; married Plautilla                                                                                        |
+| 205     | Plautianus fell from power; Caracalla exiled wife Plautilla; served as consul                                                                 |
+| 208     | Accompanied father to Britain for Caledonian campaign; served as consul                                                                       |
+| 209     | Brother Geta raised to rank of Augustus as co-emperor                                                                                         |
+| 211     | Father Septimius Severus died at York on February 4; became co-emperor with Geta; murdered Geta in December                                   |
+| 212     | Issued Constitutio Antoniniana granting citizenship to all free men; commissioned Baths of Caracalla; began campaigns against Germanic tribes |
+| 213     | Served as consul; continued Germanic campaigns; Legio II Traiana sent from Alexandria to Rhine                                                |
+| 213-214 | Defeated Alamanni; strengthened frontier fortifications; awarded title Germanicus Maximus                                                     |
+| 215     | Introduced antoninianus currency; traveled to Alexandria and perpetrated massacre in late 215                                                 |
+| 216     | Baths of Caracalla partially opened; began Parthian campaign; massacred Parthian nobles at Arbela                                             |
+| 217     | Assassinated by Julius Martialis on April 8 near Carrhae while campaigning against Parthia; succeeded by Macrinus                             |
 
 ---
 
@@ -229,151 +229,299 @@ One modern scholar summarized the historical consensus: "Caracalla, whose reign 
 ## References
 
 [^1]: [Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Caracalla)
+
 [^2]: [Caracalla - Bassianus, Antoninus, Caracallus, Caracalla](https://www.ostia-antica.org/caracalla/family/caracallus.htm)
+
 [^3]: [Caracalla | Geta, Roman Emperor, Baths, & Assassination | Britannica](https://www.britannica.com/biography/Caracalla)
+
 [^4]: [Caracalla: The Brutal and Controversial Roman Emperor | Roman Emperors](https://www.romanemperors.com/roman-emperor-caracalla-198-217-ce-co-emperor-with-septimius-severus-until-211-ce)
+
 [^5]: [Caracalla: Life, Death, and Achievements of the Cruelest Roman Emperor | History Cooperative](https://historycooperative.org/lucius-septimius-bassianus-caracalla/)
+
 [^6]: [Julia Domna - Wikipedia](https://en.wikipedia.org/wiki/Julia_Domna)
+
 [^7]: [Julia Domna, Syrian Empress of Ancient Rome (Wife of Septimius Severus) | TheCollector](https://www.thecollector.com/julia-domna-empress-ancient-rome-wife-septimius-severus/)
+
 [^8]: [Julia Domna | Empress, Syrian, Wife | Britannica](https://www.britannica.com/biography/Julia-Domna)
+
 [^9]: [Severan dynasty - Wikipedia](https://en.wikipedia.org/wiki/Severan_dynasty)
+
 [^10]: [Julia Domna - World History Encyclopedia](https://www.worldhistory.org/Julia_Domna/)
+
 [^11]: [Caracalla - World History Encyclopedia](https://www.worldhistory.org/Caracalla/)
+
 [^12]: [Ancient Rome Live | People & Personalities | Julia Domna](https://ancientromelive.org/juliadomna/)
+
 [^13]: [Caracalla AD 188-217 - a Cruel Tyrant and Savage Emperor](https://roman-empire.net/decline/caracalla)
+
 [^14]: [Timeline: Caracalla](https://www.worldhistory.org/timeline/Caracalla/)
+
 [^15]: [Ruthless Emperor & Granter of Citizenship: Who Was Caracalla? | TheCollector](https://www.thecollector.com/ruthless-emperor-granter-of-citizenship-who-was-caracalla/)
+
 [^16]: [Septimius Severus - Wikipedia](https://en.wikipedia.org/wiki/Septimius_Severus)
+
 [^17]: [Ancient Rome Live | People & Personalities | Emperor Caracalla](https://ancientromelive.org/caracalla/)
+
 [^18]: [Roman Emperors - DIR Caracalla](https://roman-emperors.sites.luc.edu/caracala.htm)
+
 [^19]: [Caracalla | Encyclopedia.com](https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/caracalla)
+
 [^20]: [On this day in AD217 the Roman emperor Caracalla was assassinated near the city of Carrhae - Mint Imperials](https://blogs.nottingham.ac.uk/mintimperials/2016/04/08/on-this-day-in-ad217-the-roman-emperor-caracalla-was-assassinated-near-the-city-of-carrhae/)
+
 [^21]: [Caracalla AD 188-217 - a Cruel Tyrant and Savage Emperor](https://roman-empire.net/decline/caracalla)
+
 [^22]: [Brothers Divided: The Tragic Tale of Caracalla and Geta](https://romanempiretimes.com/brothers-divided-the-tragic-tale-of-emperors-caracalla-and-geta/)
+
 [^23]: [Geta: The Forgotten Roman Emperor, Tragic Victim of Fratricide | Roman Emperors](https://www.romanemperors.com/roman-emperor-geta-209-211-ce-co-emperor-with-caracalla)
+
 [^24]: [Was Caracalla More than a Bloodthirsty Tyrant? (9 Facts) | TheCollector](https://www.thecollector.com/caracalla-roman-emperor/)
+
 [^25]: [Roman Emperors - DIR Geta](https://roman-emperors.sites.luc.edu/geta.htm)
+
 [^26]: [A Not-So-Festive Case of Fratricide: Caracalla Murdered His Brother on 19 December 221 CE. – Italian Art Society](https://www.italianartsociety.org/2015/12/a-not-so-festive-case-of-fratricide-on-19-december-221-ce-caracalla-killed-his-brother-geta-in-order-to-gain-full-command-of-the-roman-empire/)
+
 [^27]: [Caracalla: the Emperor Who Killed His Family One by One | Walks Inside Rome](https://www.walksinsiderome.com/blog/caracalla-the-emperor-who-killed-his-family-one-by-one/)
+
 [^28]: [Who was Caracalla, the cruel emperor of Gladiator II? | CNRS News](https://news.cnrs.fr/articles/who-was-caracalla-the-cruel-emperor-of-gladiator-ii)
+
 [^29]: [Why Did Caracalla kill his brother Geta? - Intellectual Rabbit Hole](https://intellectualrabbithole.com/why-did-caracalla-kill-his-brother-geta/)
+
 [^30]: [Brothers Divided: The Tragic Tale of Caracalla and Geta](https://romanempiretimes.com/brothers-divided-the-tragic-tale-of-emperors-caracalla-and-geta/)
+
 [^31]: [Caracalla Erased Hated Brother's Memory Using Damnatio Memoriae | Ancient Origins](https://www.ancient-origins.net/weird-facts/damnatio-memoriae-0017900)
+
 [^32]: [Smarthistory – Rewriting history: damnatio memoriae in ancient Rome](https://smarthistory.org/erased-from-memory-roman-damnatio-memoriae/)
+
 [^33]: [More Evidence of the Caracalla – Geta 'Damnatio Memoriae'](https://rogueclassicism.com/2011/10/22/more-evidence-of-the-caracalla-geta-damnatio-memoriae/)
+
 [^34]: [Constitutio Antoniniana - Wikipedia](https://en.wikipedia.org/wiki/Constitutio_Antoniniana)
+
 [^35]: [Caracalla - the Constitutio Antoniniana](https://www.ostia-antica.org/caracalla/laws/constitutio.htm)
+
 [^36]: [Edict of Caracalla « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/article/edict-of-caracalla/)
+
 [^37]: [Ancient Rome Live | Edict of Caracalla (Constitutio Antoniniana)](https://ancientromelive.org/edict-of-caracalla/)
+
 [^38]: [Caracalla: Life, Reign and Legacy | UNRV Roman History](https://www.unrv.com/decline-of-empire/caracalla.php)
+
 [^39]: [The Roman Document that Defined a First in Civil and Human Rights — Google Arts & Culture](https://artsandculture.google.com/story/the-roman-document-that-defined-a-first-in-civil-and-human-rights-unesco-memory-of-the-world/qwVhsPQ48wOc8g?hl=en)
+
 [^40]: [Caracalla, Edict Of Constitutio Antoniniana - Giving Freedom In The Roman Empire - About History](https://about-history.com/caracalla-edict-of-constitutio-antoniniana-giving-freedom-in-the-roman-empire/)
+
 [^41]: [(PDF) The constitutio Antoniniana (ad 212): Taxes or Religion?](https://www.academia.edu/53211198/The_constitutio_Antoniniana_ad_212_Taxes_or_Religion)
+
 [^42]: [Edicta Caracallae ( English translation )](https://droitromain.univ-grenoble-alpes.fr/Anglica/Antoniniana_johnson.html)
+
 [^43]: [Constitutio Antoniniana Definition - Elementary Latin Key Term | Fiveable](https://fiveable.me/key-terms/elementary-latin/constitutio-antoniniana)
+
 [^44]: [The Roman Document that Defined a First in Civil and Human Rights — Google Arts & Culture](https://artsandculture.google.com/story/the-roman-document-that-defined-a-first-in-civil-and-human-rights-unesco-memory-of-the-world/qwVhsPQ48wOc8g?hl=en)
+
 [^45]: [Exploring Roman Law and Citizenship Rights in the Ancient Roman Empire - Judicade](https://judicade.com/roman-law-and-citizenship-rights/)
+
 [^46]: [Baths of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Baths_of_Caracalla)
+
 [^47]: [Baths of Caracalla | Ancient, Roman, Architecture | Britannica](https://www.britannica.com/topic/Baths-of-Caracalla)
+
 [^48]: [Baths of Caracalla - Roman Architecture at its Finest](https://www.romewise.com/baths-of-caracalla.html)
+
 [^49]: [Roman Baths of Caracalla | History, Layout & Reconstruction | Study.com](https://study.com/academy/lesson/baths-of-caracalla-history-facts.html)
+
 [^50]: [BATHS OF CARACALLA EXPLAINED](https://atouchofrome.com/baths-of-caracalla-explained.html)
+
 [^51]: [Smarthistory – Baths of Caracalla](https://smarthistory.org/baths-of-caracalla/)
+
 [^52]: [The Baths of Caracalla | Turismo Roma](https://www.turismoroma.it/en/places/baths-caracalla)
+
 [^53]: [Baths of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Baths_of_Caracalla)
+
 [^54]: [Caracalla: Roman Emperor and Architect of Imperial Change - Ancient History Sites](https://www.ancient-history-sites.com/roman/emperors/caracalla/)
+
 [^55]: [Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Caracalla)
+
 [^56]: [Caracalla's Germanic War | Historical Atlas of Europe (September 213) | Omniatlas](https://omniatlas.com/maps/europe/2130924/)
+
 [^57]: [Parthian war of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla)
+
 [^58]: [Emperor Caracalla 🤴: one of the most evil Roman emperors](https://rome.us/roman-emperors/caracalla.html)
+
 [^59]: [Caracalla | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Caracalla)
+
 [^60]: [Currency Reform in Ancient Rome | The Daily Economy](https://thedailyeconomy.org/article/currency-reform-in-ancient-rome/)
+
 [^61]: [Antoninianus](https://grokipedia.com/page/Antoninianus)
+
 [^62]: [Currency reform in Ancient Rome — Adam Smith Institute](https://www.adamsmith.org/blog/thinkpieces/currency-reform-in-ancient-rome)
+
 [^63]: [The Debasement of Roman Coinage During the Third-Century Crisis | TheCollector](https://www.thecollector.com/inflation-third-century-crisis/)
+
 [^64]: [A Not-So-Festive Case of Fratricide: Caracalla Murdered His Brother on 19 December 221 CE. – Italian Art Society](https://www.italianartsociety.org/2015/12/a-not-so-festive-case-of-fratricide-on-19-december-221-ce-caracalla-killed-his-brother-geta-in-order-to-gain-full-command-of-the-roman-empire/)
+
 [^65]: [Brothers Divided: The Tragic Tale of Caracalla and Geta](https://romanempiretimes.com/brothers-divided-the-tragic-tale-of-emperors-caracalla-and-geta/)
+
 [^66]: [Caracalla: the Emperor Who Killed His Family One by One | Walks Inside Rome](https://www.walksinsiderome.com/blog/caracalla-the-emperor-who-killed-his-family-one-by-one/)
+
 [^67]: [Damnatio Memoriae: How the Romans Erased People from History](https://alexandermeddings.com/history/ancient-history/damnatio-memoriae-romans-erased-from-history/)
+
 [^68]: [Smarthistory – Rewriting history: damnatio memoriae in ancient Rome](https://smarthistory.org/erased-from-memory-roman-damnatio-memoriae/)
+
 [^69]: [Caracalla - Egypt: Alexandria](https://www.ostia-antica.org/caracalla/travels/egypt-alexandria.htm)
+
 [^70]: [Caracalla's Massacre of Alexandria (AD 215) | Fact# 54526 | FactRepublic.com](https://factrepublic.com/facts/54526/)
+
 [^71]: [The Law of Caracalla and the Alexandrian Massacre (Autumn of 215 AD)](https://www.jguaa.journals.ekb.eg/article_2390.html?lang=en)
+
 [^72]: [Caracalla's Massacre of Alexandria (AD 215) | Fact# 54526 | FactRepublic.com](https://factrepublic.com/facts/54526/)
+
 [^73]: [Review: Caracalla in Egypt (A.D. 215-216) « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/reviews/review-caracalla-in-egypt-a-d-215-216/)
+
 [^74]: [Did Caracalla really massacre the people of Alexandria just because he heard they ridiculed and insulted him or was it more likely something more serious was happening like a planned rebellion? - Quora](https://www.quora.com/Did-Caracalla-really-massacre-the-people-of-Alexandria-just-because-he-heard-they-ridiculed-and-insulted-him-or-was-it-more-likely-something-more-serious-was-happening-like-a-planned-rebellion)
+
 [^75]: [Caracalla and Alexandria](https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/caracalla.html)
+
 [^76]: [Caracalla: The Paradoxical Roman Emperor - From Brutal Tyrant to Legal Reformer | Roman Emperors](https://www.romanemperors.com/blog/emperor-of-bloodshed-and-the-architect-of-roman-citizenship)
+
 [^77]: [The Five Worst Roman Emperors: A Legacy of Tyranny and Excess](https://romanempiretimes.com/the-five-worst-roman-emperors-a-legacy-of-tyranny-and-excess/)
+
 [^78]: [Was Caracalla More than a Bloodthirsty Tyrant? (9 Facts) | TheCollector](https://www.thecollector.com/caracalla-roman-emperor/)
+
 [^79]: [Caracalla - Cassius Dio](https://www.ostia-antica.org/caracalla/historians/cassius-dio.htm)
+
 [^80]: [Emperor Caracalla – does he deserve his reputation? – Roman Fiction by Alex Gough](https://www.romanfiction.com/emperor-caracalla-does-he-deserve-his-reputation/)
+
 [^81]: [Historia Augusta • Life of Caracalla](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Caracalla*.html)
+
 [^82]: [Caracalla AD 188-217 - a Cruel Tyrant and Savage Emperor](https://roman-empire.net/decline/caracalla)
+
 [^83]: [Currency Reform in Ancient Rome | The Daily Economy](https://thedailyeconomy.org/article/currency-reform-in-ancient-rome/)
+
 [^84]: [Dio Cassius, "Caracalla's Extortions"](http://www.historymuse.net/readings/DioCassiusCARACALLA.htm)
+
 [^85]: [Parthian war of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla)
+
 [^86]: [Who was Caracalla, and when did he rule the Roman Empire? - World History Edu](https://worldhistoryedu.com/who-was-caracalla-and-when-did-he-rule-the-roman-empire/)
+
 [^87]: [Parthian war of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla)
+
 [^88]: [Caracalla | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Caracalla)
+
 [^89]: [Julia Domna - Wikipedia](https://en.wikipedia.org/wiki/Julia_Domna)
+
 [^90]: [Julia Domna - World History Encyclopedia](https://www.worldhistory.org/Julia_Domna/)
+
 [^91]: [Roman Emperors - DIR Caracalla](https://roman-emperors.sites.luc.edu/caracala.htm)
+
 [^92]: [Caracalla | Encyclopedia.com](https://www.encyclopedia.com/people/history/ancient-history-rome-biographies/caracalla)
+
 [^93]: [Ruthless Emperor & Granter of Citizenship: Who Was Caracalla? | TheCollector](https://www.thecollector.com/ruthless-emperor-granter-of-citizenship-who-was-caracalla/)
+
 [^94]: [The Rise and Fall of Emperor Caracalla: Military Genius and Tragic Reformer – Ancient War History](https://ancientwarhistory.com/the-rise-and-fall-of-emperor-caracalla-military-genius-and-tragic-reformer/)
+
 [^95]: [Caracalla - World History Encyclopedia](https://www.worldhistory.org/Caracalla/)
+
 [^96]: [Caracalla - Bassianus, Antoninus, Caracallus, Caracalla](https://www.ostia-antica.org/caracalla/family/caracallus.htm)
+
 [^97]: [Caracalla - Herodianus](https://www.ostia-antica.org/caracalla/historians/herodianus.htm)
+
 [^98]: [Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Caracalla)
+
 [^99]: [Marble portrait of the emperor Caracalla - Roman - Severan - The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/253592)
+
 [^100]: [Caracalla - Portraits](https://www.ostia-antica.org/caracalla/art/portraits.htm)
+
 [^101]: [Portrait of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Portrait_of_Caracalla)
+
 [^102]: [Analysis of Caracalla Portraits - SMITHDB1: APPALACHIAN STATE UNIVERSITY ART EDUCATION MAJOR](https://smithdb1.weebly.com/art-2222-journal-intro-to-art-ed--essays/analysis-of-caracalla-portraits)
+
 [^103]: [Bust of Emperor Caracalla (The J. Paul Getty Museum Collection)](https://www.getty.edu/art/collection/object/103RSX)
+
 [^104]: [Portrait of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Portrait_of_Caracalla)
+
 [^105]: [Baths of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Baths_of_Caracalla)
+
 [^106]: [The Baths of Caracalla | Turismo Roma](https://www.turismoroma.it/en/places/baths-caracalla)
+
 [^107]: [Baths of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Baths_of_Caracalla)
+
 [^108]: [Caracalla: Roman Emperor and Architect of Imperial Change - Ancient History Sites](https://www.ancient-history-sites.com/roman/emperors/caracalla/)
+
 [^109]: [Constitutio Antoniniana - Wikipedia](https://en.wikipedia.org/wiki/Constitutio_Antoniniana)
+
 [^110]: [Exploring Roman Law and Citizenship Rights in the Ancient Roman Empire - Judicade](https://judicade.com/roman-law-and-citizenship-rights/)
+
 [^111]: [The Roman Document that Defined a First in Civil and Human Rights — Google Arts & Culture](https://artsandculture.google.com/story/the-roman-document-that-defined-a-first-in-civil-and-human-rights-unesco-memory-of-the-world/qwVhsPQ48wOc8g?hl=en)
+
 [^112]: [The Roman Document that Defined a First in Civil and Human Rights — Google Arts & Culture](https://artsandculture.google.com/story/the-roman-document-that-defined-a-first-in-civil-and-human-rights-unesco-memory-of-the-world/qwVhsPQ48wOc8g?hl=en)
+
 [^113]: [(PDF) The constitutio Antoniniana (ad 212): Taxes or Religion?](https://www.academia.edu/53211198/The_constitutio_Antoniniana_ad_212_Taxes_or_Religion)
+
 [^114]: [Caracalla: Life, Reign and Legacy | UNRV Roman History](https://www.unrv.com/decline-of-empire/caracalla.php)
+
 [^115]: [The Debasement of Roman Coinage During the Third-Century Crisis | TheCollector](https://www.thecollector.com/inflation-third-century-crisis/)
+
 [^116]: [Caracalla - the assassination](https://www.ostia-antica.org/caracalla/travels/assassination.htm)
+
 [^117]: [Macrinus - Wikipedia](https://en.wikipedia.org/wiki/Macrinus)
+
 [^118]: [Damnatio memoriae - Wikipedia](https://en.wikipedia.org/wiki/Damnatio_memoriae)
+
 [^119]: [Caracalla - Cassius Dio](https://www.ostia-antica.org/caracalla/historians/cassius-dio.htm)
+
 [^120]: [The Five Worst Roman Emperors: A Legacy of Tyranny and Excess](https://romanempiretimes.com/the-five-worst-roman-emperors-a-legacy-of-tyranny-and-excess/)
+
 [^121]: [Brothers Divided: The Tragic Tale of Caracalla and Geta](https://romanempiretimes.com/brothers-divided-the-tragic-tale-of-emperors-caracalla-and-geta/)
+
 [^122]: [Julia Domna, Syrian Empress of Ancient Rome (Wife of Septimius Severus) | TheCollector](https://www.thecollector.com/julia-domna-empress-ancient-rome-wife-septimius-severus/)
+
 [^123]: [Caracalla: Life, Reign and Legacy | UNRV Roman History](https://www.unrv.com/decline-of-empire/caracalla.php)
+
 [^124]: [Constitutio Antoniniana - Wikipedia](https://en.wikipedia.org/wiki/Constitutio_Antoniniana)
+
 [^125]: [The Roman Document that Defined a First in Civil and Human Rights — Google Arts & Culture](https://artsandculture.google.com/story/the-roman-document-that-defined-a-first-in-civil-and-human-rights-unesco-memory-of-the-world/qwVhsPQ48wOc8g?hl=en)
+
 [^126]: [Caracalla: Life, Reign and Legacy | UNRV Roman History](https://www.unrv.com/decline-of-empire/caracalla.php)
+
 [^127]: [Caracalla: Roman Emperor and Architect of Imperial Change - Ancient History Sites](https://www.ancient-history-sites.com/roman/emperors/caracalla/)
+
 [^128]: [Roman Baths of Caracalla | History, Layout & Reconstruction | Study.com](https://study.com/academy/lesson/baths-of-caracalla-history-facts.html)
+
 [^129]: [Caracalla: Life, Reign and Legacy | UNRV Roman History](https://www.unrv.com/decline-of-empire/caracalla.php)
-[^130]: [CASSIUS DIO AND CARACALLA* | The Classical Quarterly | Cambridge Core](https://www.cambridge.org/core/journals/classical-quarterly/article/abs/cassius-dio-and-caracalla/51715FF35987199BD7E8871AC00DC3B8)
+
+[^130]: [CASSIUS DIO AND CARACALLA\* | The Classical Quarterly | Cambridge Core](https://www.cambridge.org/core/journals/classical-quarterly/article/abs/cassius-dio-and-caracalla/51715FF35987199BD7E8871AC00DC3B8)
+
 [^131]: [Cassius DIO and Caracalla](https://www.researchgate.net/publication/259427168_Cassius_DIO_and_Caracalla)
+
 [^132]: [Was Caracalla More than a Bloodthirsty Tyrant? (9 Facts) | TheCollector](https://www.thecollector.com/caracalla-roman-emperor/)
+
 [^133]: [Emperor Caracalla 🤴: one of the most evil Roman emperors](https://rome.us/roman-emperors/caracalla.html)
+
 [^134]: [Ruthless Emperor & Granter of Citizenship: Who Was Caracalla? | TheCollector](https://www.thecollector.com/ruthless-emperor-granter-of-citizenship-who-was-caracalla/)
+
 [^135]: [Caracalla - Cassius Dio](https://www.ostia-antica.org/caracalla/historians/cassius-dio.htm)
+
 [^136]: [Herodian - Wikipedia](https://en.wikipedia.org/wiki/Herodian)
+
 [^137]: [Historia Augusta - Wikipedia](https://en.wikipedia.org/wiki/Historia_Augusta)
+
 [^138]: [Caracalla: Life, Reign and Legacy | UNRV Roman History](https://www.unrv.com/decline-of-empire/caracalla.php)
+
 [^139]: [Brothers Divided: The Tragic Tale of Caracalla and Geta](https://romanempiretimes.com/brothers-divided-the-tragic-tale-of-emperors-caracalla-and-geta/)
+
 [^140]: [Caracalla's Massacre of Alexandria (AD 215) | Fact# 54526 | FactRepublic.com](https://factrepublic.com/facts/54526/)
+
 [^141]: [Parthian war of Caracalla - Wikipedia](https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla)
+
 [^142]: [The Debasement of Roman Coinage During the Third-Century Crisis | TheCollector](https://www.thecollector.com/inflation-third-century-crisis/)
+
 [^143]: [Caracalla: Life, Reign and Legacy | UNRV Roman History](https://www.unrv.com/decline-of-empire/caracalla.php)
+
 [^144]: [Who was Caracalla, and when did he rule the Roman Empire? - World History Edu](https://worldhistoryedu.com/who-was-caracalla-and-when-did-he-rule-the-roman-empire/)
+
 [^145]: [Caracalla: Life, Death, and Achievements of the Cruelest Roman Emperor | History Cooperative](https://historycooperative.org/lucius-septimius-bassianus-caracalla/)
+
 [^146]: [The Five Worst Roman Emperors: A Legacy of Tyranny and Excess](https://romanempiretimes.com/the-five-worst-roman-emperors-a-legacy-of-tyranny-and-excess/)
+
 [^147]: [Dio Cassius, "Caracalla's Extortions"](http://www.historymuse.net/readings/DioCassiusCARACALLA.htm)
+
 [^148]: [Caracalla - Cassius Dio](https://www.ostia-antica.org/caracalla/historians/cassius-dio.htm)
+
 [^149]: [Caracalla AD 188-217 - a Cruel Tyrant and Savage Emperor](https://roman-empire.net/decline/caracalla)

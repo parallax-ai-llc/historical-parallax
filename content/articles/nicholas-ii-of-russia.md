@@ -129,31 +129,31 @@ Even sympathetic historians acknowledge that Nicholas's personal virtues—his d
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1868 | Born May 18 at Alexander Palace, Tsarskoye Selo |
+| Year      | Event                                                                                        |
+| --------- | -------------------------------------------------------------------------------------------- |
+| 1868      | Born May 18 at Alexander Palace, Tsarskoye Selo                                              |
 | 1890-1891 | Extended tour of East including Egypt, India, Japan; survives assassination attempt in Japan |
-| 1894 | Father Alexander III dies November 1; Nicholas becomes Emperor at age 26 |
-| 1894 | Marries Princess Alix of Hesse (Alexandra Feodorovna) on November 26 |
-| 1895 | Delivers speech dismissing constitutional reform as "senseless dreams" |
-| 1896 | Coronation ceremony May 26; Khodynka Tragedy kills over 1,300 people |
-| 1899 | Initiates Hague Peace Conference establishing Permanent Court of Arbitration |
-| 1904 | Son Alexei born August 12; discovered to have hemophilia |
-| 1904-1905 | Russo-Japanese War ends in humiliating Russian defeat |
-| 1905 | Bloody Sunday massacre January 22 sparks revolution |
-| 1905 | Issues October Manifesto establishing State Duma and civil liberties |
-| 1906 | First Duma convenes; Nicholas repeatedly dissolves and restricts parliament |
-| 1906-1911 | Pyotr Stolypin serves as Prime Minister, implements agrarian reforms |
-| 1914 | Russia enters World War I against Germany and Austria-Hungary |
-| 1915 | Assumes personal command of Russian armed forces September 5 |
-| 1916 | Rasputin assassinated December 29-30 by nobles seeking to save monarchy |
-| 1917 | February Revolution forces abdication March 15; placed under house arrest |
-| 1917 | Moved to Tobolsk, Siberia in August by Provisional Government |
-| 1918 | Transferred to Yekaterinburg in April after Bolshevik Revolution |
-| 1918 | Executed with entire family by Bolsheviks on night of July 16-17 |
-| 1991 | Remains discovered in forest near Yekaterinburg |
-| 1998 | Official burial of remains in Peter and Paul Cathedral, St. Petersburg |
-| 2000 | Canonized as passion bearer by Russian Orthodox Church |
+| 1894      | Father Alexander III dies November 1; Nicholas becomes Emperor at age 26                     |
+| 1894      | Marries Princess Alix of Hesse (Alexandra Feodorovna) on November 26                         |
+| 1895      | Delivers speech dismissing constitutional reform as "senseless dreams"                       |
+| 1896      | Coronation ceremony May 26; Khodynka Tragedy kills over 1,300 people                         |
+| 1899      | Initiates Hague Peace Conference establishing Permanent Court of Arbitration                 |
+| 1904      | Son Alexei born August 12; discovered to have hemophilia                                     |
+| 1904-1905 | Russo-Japanese War ends in humiliating Russian defeat                                        |
+| 1905      | Bloody Sunday massacre January 22 sparks revolution                                          |
+| 1905      | Issues October Manifesto establishing State Duma and civil liberties                         |
+| 1906      | First Duma convenes; Nicholas repeatedly dissolves and restricts parliament                  |
+| 1906-1911 | Pyotr Stolypin serves as Prime Minister, implements agrarian reforms                         |
+| 1914      | Russia enters World War I against Germany and Austria-Hungary                                |
+| 1915      | Assumes personal command of Russian armed forces September 5                                 |
+| 1916      | Rasputin assassinated December 29-30 by nobles seeking to save monarchy                      |
+| 1917      | February Revolution forces abdication March 15; placed under house arrest                    |
+| 1917      | Moved to Tobolsk, Siberia in August by Provisional Government                                |
+| 1918      | Transferred to Yekaterinburg in April after Bolshevik Revolution                             |
+| 1918      | Executed with entire family by Bolsheviks on night of July 16-17                             |
+| 1991      | Remains discovered in forest near Yekaterinburg                                              |
+| 1998      | Official burial of remains in Peter and Paul Cathedral, St. Petersburg                       |
+| 2000      | Canonized as passion bearer by Russian Orthodox Church                                       |
 
 ---
 
@@ -173,112 +173,220 @@ Even sympathetic historians acknowledge that Nicholas's personal virtues—his d
 
 ## References
 
-[^1]: Robert K. Massie, *Nicholas and Alexandra* (New York: Ballantine Books, 2000), 21-23.
-[^2]: Simon Sebag Montefiore, *The Romanovs: 1613-1918* (New York: Knopf, 2016), 521.
-[^3]: Marc Ferro, *Nicholas II: Last of the Tsars* (New York: Oxford University Press, 1993), 12-15.
-[^4]: Massie, *Nicholas and Alexandra*, 25.
-[^5]: Greg King, *The Court of the Last Tsar* (Hoboken: Wiley, 2006), 45-52.
-[^6]: Dominic Lieven, *Nicholas II: Emperor of All the Russias* (London: John Murray, 1993), 29-31.
-[^7]: "Nicholas II," *Encyclopaedia Britannica*, accessed December 21, 2025, https://www.britannica.com/biography/Nicholas-II-tsar-of-Russia
-[^8]: Richard Pipes, *The Russian Revolution* (New York: Vintage, 1991), 21.
-[^9]: Ferro, *Nicholas II*, 18-19.
-[^10]: Edvard Radzinsky, *The Last Tsar: The Life and Death of Nicholas II* (New York: Anchor, 1993), 34-37.
-[^11]: Lieven, *Nicholas II*, 53-55.
-[^12]: Grand Duke Alexander Mikhailovich, *Once a Grand Duke* (New York: Cosmopolitan Book Corporation, 1932), 168.
-[^13]: Massie, *Nicholas and Alexandra*, 38-40.
-[^14]: King, *Court of the Last Tsar*, 89-95.
-[^15]: Montefiore, *The Romanovs*, 535-538.
-[^16]: Orlando Figes, *A People's Tragedy: The Russian Revolution 1891-1924* (New York: Penguin, 1998), 157-158.
-[^17]: Pipes, *Russian Revolution*, 23-25.
-[^18]: Lieven, *Nicholas II*, 70-72.
-[^19]: Figes, *A People's Tragedy*, 160-162.
-[^20]: Pipes, *Russian Revolution*, 27-29.
-[^21]: Robert F. Byrnes, *Pobedonostsev: His Life and Thought* (Bloomington: Indiana University Press, 1968), 278-285.
-[^22]: Lieven, *Nicholas II*, 85-87.
-[^23]: "Trans-Siberian Railway," *Encyclopaedia Britannica*, accessed December 21, 2025, https://www.britannica.com/topic/Trans-Siberian-Railroad
-[^24]: Paul R. Gregory, *Before Command: An Economic History of Russia from Emancipation to the First Five-Year Plan* (Princeton: Princeton University Press, 1994), 56-62.
-[^25]: Gregory, *Before Command*, 73-75.
-[^26]: "Hague Convention of 1899," *Encyclopaedia Britannica*, accessed December 21, 2025, https://www.britannica.com/event/Hague-Convention
-[^27]: Lieven, *Nicholas II*, 92-94.
-[^28]: Arthur Eyffinger, *The 1899 Hague Peace Conference* (The Hague: Kluwer Law International, 1999), 123-135.
-[^29]: Figes, *A People's Tragedy*, 123-128.
-[^30]: King, *Court of the Last Tsar*, 215-225.
-[^31]: Figes, *A People's Tragedy*, 125-127.
-[^32]: Pipes, *Russian Revolution*, 45-48.
-[^33]: Lieven, *Nicholas II*, 175-182.
-[^34]: Abraham Ascher, *P.A. Stolypin: The Search for Stability in Late Imperial Russia* (Stanford: Stanford University Press, 2001), 234-267.
-[^35]: Bruce W. Menning, *Bayonets Before Bullets: The Imperial Russian Army, 1861-1914* (Bloomington: Indiana University Press, 2000), 234-256.
-[^36]: Norman Stone, *The Eastern Front 1914-1917* (New York: Penguin, 2004), 45-67.
-[^37]: Massie, *Nicholas and Alexandra*, 312-318.
-[^38]: Figes, *A People's Tragedy*, 172-176.
-[^39]: W. Bruce Lincoln, *In War's Dark Shadow: The Russians Before the Great War* (New York: Dial Press, 1983), 324-328.
-[^40]: John W. Steinberg et al., eds., *The Russo-Japanese War in Global Perspective* (Leiden: Brill, 2005), 89-112.
-[^41]: Pipes, *Russian Revolution*, 31-35.
-[^42]: Steinberg, *Russo-Japanese War*, 456-478.
-[^43]: Douglas Smith, *Rasputin: Faith, Power, and the Twilight of the Romanovs* (New York: Farrar, Straus and Giroux, 2016), 234-267.
-[^44]: Smith, *Rasputin*, 389-412.
-[^45]: Massie, *Nicholas and Alexandra*, 348-365.
-[^46]: Michael Kellogg, *The Russian Roots of Nazism* (Cambridge: Cambridge University Press, 2005), 45-52.
-[^47]: John D. Klier and Shlomo Lambroza, eds., *Pogroms: Anti-Jewish Violence in Modern Russian History* (Cambridge: Cambridge University Press, 1992), 234-256.
-[^48]: Klier and Lambroza, *Pogroms*, 267-289.
-[^49]: Stone, *Eastern Front*, 187-192.
-[^50]: Lieven, *Nicholas II*, 207-213.
-[^51]: Mark Cornwall, ed., *The Last Years of Austria-Hungary* (Exeter: University of Exeter Press, 2002), 89-95.
-[^52]: Massie, *Nicholas and Alexandra*, 95-102.
-[^53]: Helen Rappaport, *The Romanov Sisters* (New York: St. Martin's Press, 2014), 12-45.
-[^54]: Evgeny I. Rogaev et al., "Genotype Analysis Identifies the Cause of the 'Royal Disease,'" *Science* 326, no. 5954 (2009): 817.
-[^55]: Massie, *Nicholas and Alexandra*, 189-201.
-[^56]: Rappaport, *Romanov Sisters*, 78-95.
-[^57]: King, *Court of the Last Tsar*, 267-289.
-[^58]: Ferro, *Nicholas II*, 78-82.
-[^59]: Lieven, *Nicholas II*, 123-126.
-[^60]: Radzinsky, *Last Tsar*, 145-152.
-[^61]: Massie, *Nicholas and Alexandra*, 134-139.
-[^62]: Montefiore, *The Romanovs*, 589-592.
-[^63]: Figes, *A People's Tragedy*, 245-248.
-[^64]: Helen Rappaport, *The Last Days of the Romanovs* (New York: St. Martin's Press, 2008), 45-67.
-[^65]: Rappaport, *Last Days*, 89-112.
-[^66]: Rappaport, *Last Days*, 156-189.
-[^67]: Radzinsky, *Last Tsar*, 345-367.
-[^68]: Peter Sarandinaki, "The Road to the Tragedy at Ekaterinburg," *Russian Review* 47, no. 3 (1988): 234-256.
-[^69]: Pipes, *Russian Revolution*, 89-95.
-[^70]: Figes, *A People's Tragedy*, 823-828.
-[^71]: Mark D. Steinberg and Vladimir M. Khrustalëv, *The Fall of the Romanovs* (New Haven: Yale University Press, 1995), 312-334.
-[^72]: Michael D. Coble et al., "Mystery Solved: The Identification of the Two Missing Romanov Children Using DNA Analysis," *PLOS ONE* 4, no. 3 (2009): e4838.
-[^73]: "Russian Orthodox Church Canonizes Tsar Nicholas II," *BBC News*, August 14, 2000, http://news.bbc.co.uk/2/hi/europe/878450.stm
-[^74]: Marlene Laruelle, "The Two Faces of Contemporary Eurasianism: An Imperial Version of Russian Nationalism," *Nationalities Papers* 32, no. 1 (2004): 115-136.
+[^1]: Robert K. Massie, _Nicholas and Alexandra_ (New York: Ballantine Books, 2000), 21-23.
+
+[^2]: Simon Sebag Montefiore, _The Romanovs: 1613-1918_ (New York: Knopf, 2016), 521.
+
+[^3]: Marc Ferro, _Nicholas II: Last of the Tsars_ (New York: Oxford University Press, 1993), 12-15.
+
+[^4]: Massie, _Nicholas and Alexandra_, 25.
+
+[^5]: Greg King, _The Court of the Last Tsar_ (Hoboken: Wiley, 2006), 45-52.
+
+[^6]: Dominic Lieven, _Nicholas II: Emperor of All the Russias_ (London: John Murray, 1993), 29-31.
+
+[^7]: "Nicholas II," _Encyclopaedia Britannica_, accessed December 21, 2025, https://www.britannica.com/biography/Nicholas-II-tsar-of-Russia
+
+[^8]: Richard Pipes, _The Russian Revolution_ (New York: Vintage, 1991), 21.
+
+[^9]: Ferro, _Nicholas II_, 18-19.
+
+[^10]: Edvard Radzinsky, _The Last Tsar: The Life and Death of Nicholas II_ (New York: Anchor, 1993), 34-37.
+
+[^11]: Lieven, _Nicholas II_, 53-55.
+
+[^12]: Grand Duke Alexander Mikhailovich, _Once a Grand Duke_ (New York: Cosmopolitan Book Corporation, 1932), 168.
+
+[^13]: Massie, _Nicholas and Alexandra_, 38-40.
+
+[^14]: King, _Court of the Last Tsar_, 89-95.
+
+[^15]: Montefiore, _The Romanovs_, 535-538.
+
+[^16]: Orlando Figes, _A People's Tragedy: The Russian Revolution 1891-1924_ (New York: Penguin, 1998), 157-158.
+
+[^17]: Pipes, _Russian Revolution_, 23-25.
+
+[^18]: Lieven, _Nicholas II_, 70-72.
+
+[^19]: Figes, _A People's Tragedy_, 160-162.
+
+[^20]: Pipes, _Russian Revolution_, 27-29.
+
+[^21]: Robert F. Byrnes, _Pobedonostsev: His Life and Thought_ (Bloomington: Indiana University Press, 1968), 278-285.
+
+[^22]: Lieven, _Nicholas II_, 85-87.
+
+[^23]: "Trans-Siberian Railway," _Encyclopaedia Britannica_, accessed December 21, 2025, https://www.britannica.com/topic/Trans-Siberian-Railroad
+
+[^24]: Paul R. Gregory, _Before Command: An Economic History of Russia from Emancipation to the First Five-Year Plan_ (Princeton: Princeton University Press, 1994), 56-62.
+
+[^25]: Gregory, _Before Command_, 73-75.
+
+[^26]: "Hague Convention of 1899," _Encyclopaedia Britannica_, accessed December 21, 2025, https://www.britannica.com/event/Hague-Convention
+
+[^27]: Lieven, _Nicholas II_, 92-94.
+
+[^28]: Arthur Eyffinger, _The 1899 Hague Peace Conference_ (The Hague: Kluwer Law International, 1999), 123-135.
+
+[^29]: Figes, _A People's Tragedy_, 123-128.
+
+[^30]: King, _Court of the Last Tsar_, 215-225.
+
+[^31]: Figes, _A People's Tragedy_, 125-127.
+
+[^32]: Pipes, _Russian Revolution_, 45-48.
+
+[^33]: Lieven, _Nicholas II_, 175-182.
+
+[^34]: Abraham Ascher, _P.A. Stolypin: The Search for Stability in Late Imperial Russia_ (Stanford: Stanford University Press, 2001), 234-267.
+
+[^35]: Bruce W. Menning, _Bayonets Before Bullets: The Imperial Russian Army, 1861-1914_ (Bloomington: Indiana University Press, 2000), 234-256.
+
+[^36]: Norman Stone, _The Eastern Front 1914-1917_ (New York: Penguin, 2004), 45-67.
+
+[^37]: Massie, _Nicholas and Alexandra_, 312-318.
+
+[^38]: Figes, _A People's Tragedy_, 172-176.
+
+[^39]: W. Bruce Lincoln, _In War's Dark Shadow: The Russians Before the Great War_ (New York: Dial Press, 1983), 324-328.
+
+[^40]: John W. Steinberg et al., eds., _The Russo-Japanese War in Global Perspective_ (Leiden: Brill, 2005), 89-112.
+
+[^41]: Pipes, _Russian Revolution_, 31-35.
+
+[^42]: Steinberg, _Russo-Japanese War_, 456-478.
+
+[^43]: Douglas Smith, _Rasputin: Faith, Power, and the Twilight of the Romanovs_ (New York: Farrar, Straus and Giroux, 2016), 234-267.
+
+[^44]: Smith, _Rasputin_, 389-412.
+
+[^45]: Massie, _Nicholas and Alexandra_, 348-365.
+
+[^46]: Michael Kellogg, _The Russian Roots of Nazism_ (Cambridge: Cambridge University Press, 2005), 45-52.
+
+[^47]: John D. Klier and Shlomo Lambroza, eds., _Pogroms: Anti-Jewish Violence in Modern Russian History_ (Cambridge: Cambridge University Press, 1992), 234-256.
+
+[^48]: Klier and Lambroza, _Pogroms_, 267-289.
+
+[^49]: Stone, _Eastern Front_, 187-192.
+
+[^50]: Lieven, _Nicholas II_, 207-213.
+
+[^51]: Mark Cornwall, ed., _The Last Years of Austria-Hungary_ (Exeter: University of Exeter Press, 2002), 89-95.
+
+[^52]: Massie, _Nicholas and Alexandra_, 95-102.
+
+[^53]: Helen Rappaport, _The Romanov Sisters_ (New York: St. Martin's Press, 2014), 12-45.
+
+[^54]: Evgeny I. Rogaev et al., "Genotype Analysis Identifies the Cause of the 'Royal Disease,'" _Science_ 326, no. 5954 (2009): 817.
+
+[^55]: Massie, _Nicholas and Alexandra_, 189-201.
+
+[^56]: Rappaport, _Romanov Sisters_, 78-95.
+
+[^57]: King, _Court of the Last Tsar_, 267-289.
+
+[^58]: Ferro, _Nicholas II_, 78-82.
+
+[^59]: Lieven, _Nicholas II_, 123-126.
+
+[^60]: Radzinsky, _Last Tsar_, 145-152.
+
+[^61]: Massie, _Nicholas and Alexandra_, 134-139.
+
+[^62]: Montefiore, _The Romanovs_, 589-592.
+
+[^63]: Figes, _A People's Tragedy_, 245-248.
+
+[^64]: Helen Rappaport, _The Last Days of the Romanovs_ (New York: St. Martin's Press, 2008), 45-67.
+
+[^65]: Rappaport, _Last Days_, 89-112.
+
+[^66]: Rappaport, _Last Days_, 156-189.
+
+[^67]: Radzinsky, _Last Tsar_, 345-367.
+
+[^68]: Peter Sarandinaki, "The Road to the Tragedy at Ekaterinburg," _Russian Review_ 47, no. 3 (1988): 234-256.
+
+[^69]: Pipes, _Russian Revolution_, 89-95.
+
+[^70]: Figes, _A People's Tragedy_, 823-828.
+
+[^71]: Mark D. Steinberg and Vladimir M. Khrustalëv, _The Fall of the Romanovs_ (New Haven: Yale University Press, 1995), 312-334.
+
+[^72]: Michael D. Coble et al., "Mystery Solved: The Identification of the Two Missing Romanov Children Using DNA Analysis," _PLOS ONE_ 4, no. 3 (2009): e4838.
+
+[^73]: "Russian Orthodox Church Canonizes Tsar Nicholas II," _BBC News_, August 14, 2000, http://news.bbc.co.uk/2/hi/europe/878450.stm
+
+[^74]: Marlene Laruelle, "The Two Faces of Contemporary Eurasianism: An Imperial Version of Russian Nationalism," _Nationalities Papers_ 32, no. 1 (2004): 115-136.
+
 [^75]: "Church on Blood in Honour of All Saints Resplendent in the Russian Land," Atlas Obscura, accessed December 21, 2025, https://www.atlasobscura.com/places/church-on-blood
-[^76]: Vladimir Shlapentokh and Joshua Woods, eds., *Contemporary Russia as a Feudal Society* (New York: Palgrave Macmillan, 2007), 156-167.
-[^77]: Figes, *A People's Tragedy*, 824-825.
-[^78]: Robert K. Massie, *The Romanovs: The Final Chapter* (New York: Random House, 1995), 23-45.
-[^79]: Lieven, *Nicholas II*, 234-240.
-[^80]: Orlando Figes, "The Last Tsar," *The Guardian*, July 14, 2018, https://www.theguardian.com/world/2018/jul/14/last-tsar-nicholas-ii-russia-romanovs
-[^81]: Dominic Lieven, "Nicholas II: A Reassessment," *Kritika: Explorations in Russian and Eurasian History* 8, no. 3 (2007): 623-648.
-[^82]: Zoe Knox, *Russian Society and the Orthodox Church* (London: Routledge, 2004), 145-167.
-[^83]: Nadieszda Kizenko, "The Cult of the Tsar-Martyr in Russia," *Slavic Review* 60, no. 1 (2001): 37-71.
-[^84]: Knox, *Russian Society*, 178-189.
-[^85]: Massie, *Nicholas and Alexandra*, 496-502.
-[^86]: Massie, *Nicholas and Alexandra*, 503-507.
-[^87]: Scott M. Kenworthy, *The Heart of Russia: Trinity-Sergius, Monasticism, and Society after 1825* (Oxford: Oxford University Press, 2010), 289-295.
+
+[^76]: Vladimir Shlapentokh and Joshua Woods, eds., _Contemporary Russia as a Feudal Society_ (New York: Palgrave Macmillan, 2007), 156-167.
+
+[^77]: Figes, _A People's Tragedy_, 824-825.
+
+[^78]: Robert K. Massie, _The Romanovs: The Final Chapter_ (New York: Random House, 1995), 23-45.
+
+[^79]: Lieven, _Nicholas II_, 234-240.
+
+[^80]: Orlando Figes, "The Last Tsar," _The Guardian_, July 14, 2018, https://www.theguardian.com/world/2018/jul/14/last-tsar-nicholas-ii-russia-romanovs
+
+[^81]: Dominic Lieven, "Nicholas II: A Reassessment," _Kritika: Explorations in Russian and Eurasian History_ 8, no. 3 (2007): 623-648.
+
+[^82]: Zoe Knox, _Russian Society and the Orthodox Church_ (London: Routledge, 2004), 145-167.
+
+[^83]: Nadieszda Kizenko, "The Cult of the Tsar-Martyr in Russia," _Slavic Review_ 60, no. 1 (2001): 37-71.
+
+[^84]: Knox, _Russian Society_, 178-189.
+
+[^85]: Massie, _Nicholas and Alexandra_, 496-502.
+
+[^86]: Massie, _Nicholas and Alexandra_, 503-507.
+
+[^87]: Scott M. Kenworthy, _The Heart of Russia: Trinity-Sergius, Monasticism, and Society after 1825_ (Oxford: Oxford University Press, 2010), 289-295.
+
 [^88]: Kizenko, "Cult of the Tsar-Martyr," 45-52.
+
 [^89]: Laruelle, "Two Faces of Contemporary Eurasianism," 125-128.
+
 [^90]: Lieven, "Nicholas II: A Reassessment," 638-642.
-[^91]: Hans Rogger, *Jewish Policies and Right-Wing Politics in Imperial Russia* (Berkeley: University of California Press, 1986), 234-245.
-[^92]: Lieven, *Nicholas II*, 245-248.
-[^93]: Figes, *A People's Tragedy*, 239-241.
-[^94]: Figes, *A People's Tragedy*, 242-245.
-[^95]: Pipes, *Russian Revolution*, 23.
-[^96]: Pipes, *Russian Revolution*, 189-192.
-[^97]: Richard Pipes, "The Tsar as Procrastinator," *The New York Times*, November 10, 1991, https://www.nytimes.com/1991/11/10/books/the-tsar-as-procrastinator.html
-[^98]: Figes, *A People's Tragedy*, 189-195.
-[^99]: Steinberg and Khrustalëv, *Fall of the Romanovs*, 123-134.
-[^100]: Klier and Lambroza, *Pogroms*, 289-302.
-[^101]: Stone, *Eastern Front*, 287-295.
-[^102]: Montefiore, *The Romanovs*, 623-628.
-[^103]: Massie, *Nicholas and Alexandra*, 503.
-[^104]: Figes, *A People's Tragedy*, 825.
-[^105]: Grand Duke Alexander Mikhailovich, *Once a Grand Duke*, 168.
-[^106]: Lieven, *Nicholas II*, 71.
-[^107]: Massie, *Nicholas and Alexandra*, 137.
-[^108]: Massie, *Nicholas and Alexandra*, 191.
-[^109]: Radzinsky, *Last Tsar*, 298.
+
+[^91]: Hans Rogger, _Jewish Policies and Right-Wing Politics in Imperial Russia_ (Berkeley: University of California Press, 1986), 234-245.
+
+[^92]: Lieven, _Nicholas II_, 245-248.
+
+[^93]: Figes, _A People's Tragedy_, 239-241.
+
+[^94]: Figes, _A People's Tragedy_, 242-245.
+
+[^95]: Pipes, _Russian Revolution_, 23.
+
+[^96]: Pipes, _Russian Revolution_, 189-192.
+
+[^97]: Richard Pipes, "The Tsar as Procrastinator," _The New York Times_, November 10, 1991, https://www.nytimes.com/1991/11/10/books/the-tsar-as-procrastinator.html
+
+[^98]: Figes, _A People's Tragedy_, 189-195.
+
+[^99]: Steinberg and Khrustalëv, _Fall of the Romanovs_, 123-134.
+
+[^100]: Klier and Lambroza, _Pogroms_, 289-302.
+
+[^101]: Stone, _Eastern Front_, 287-295.
+
+[^102]: Montefiore, _The Romanovs_, 623-628.
+
+[^103]: Massie, _Nicholas and Alexandra_, 503.
+
+[^104]: Figes, _A People's Tragedy_, 825.
+
+[^105]: Grand Duke Alexander Mikhailovich, _Once a Grand Duke_, 168.
+
+[^106]: Lieven, _Nicholas II_, 71.
+
+[^107]: Massie, _Nicholas and Alexandra_, 137.
+
+[^108]: Massie, _Nicholas and Alexandra_, 191.
+
+[^109]: Radzinsky, _Last Tsar_, 298.

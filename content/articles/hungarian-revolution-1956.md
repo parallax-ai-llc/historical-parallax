@@ -46,6 +46,7 @@ However, Rákosi regained power in 1955 and reversed these reforms, expelling Na
 The decisive catalyst came on February 25, 1956, when Nikita Khrushchev delivered his "Secret Speech" to the 20th Congress of the Communist Party of the Soviet Union, denouncing Stalin's crimes and "cult of personality." Though intended for internal party consumption, the speech was soon known throughout Eastern Europe.[^10]
 
 For Hungarians, the implications were explosive:
+
 - If Stalin's methods were criminal, what did that say about Rákosi's regime?
 - If de-Stalinization was possible in the USSR, why not in Hungary?
 - If the Poles could challenge Soviet control (as they did in the Poznań protests of June 1956), why couldn't Hungarians?
@@ -71,6 +72,7 @@ On October 22, students at Budapest Technical University organized a meeting and
 On October 23, approximately 20,000 students marched through Budapest to the statue of Polish-Hungarian hero Józef Bem, chanting slogans and gathering support. The crowd swelled to over 200,000 as workers, professionals, and ordinary citizens joined.[^13]
 
 That evening, events escalated rapidly:
+
 - Protesters gathered at the Hungarian Parliament and demanded that Imre Nagy address them
 - Another crowd surrounded the massive Stalin statue in City Park and, with industrial cutting equipment, toppled and destroyed it—leaving only his boots on the pedestal
 - When crowds gathered at the Radio Budapest building demanding their Sixteen Points be broadcast, ÁVH secret police opened fire from inside, killing an estimated 20-30 people[^14]
@@ -115,37 +117,40 @@ The Soviets had no intention of accepting Hungary's liberation. While publicly n
 
 ### Revolution Leaders
 
-| Name | Role | Fate |
-|------|------|------|
+| Name                  | Role                                                           | Fate                                                     |
+| --------------------- | -------------------------------------------------------------- | -------------------------------------------------------- |
 | Imre Nagy (Nagy Imre) | Prime Minister; declared neutrality and Warsaw Pact withdrawal | Arrested 1956; secretly tried and executed June 16, 1958 |
-| Pál Maléter | Defense Minister; led military support for revolution | Arrested during negotiations; executed with Nagy |
-| József Mindszenty | Cardinal; freed prisoner; symbol of religious resistance | Sought asylum in US Embassy for 15 years |
-| Géza Losonczy | Minister; close Nagy ally | Died in prison under suspicious circumstances, 1957 |
+| Pál Maléter           | Defense Minister; led military support for revolution          | Arrested during negotiations; executed with Nagy         |
+| József Mindszenty     | Cardinal; freed prisoner; symbol of religious resistance       | Sought asylum in US Embassy for 15 years                 |
+| Géza Losonczy         | Minister; close Nagy ally                                      | Died in prison under suspicious circumstances, 1957      |
 
 ### Communist Officials
 
-| Name | Role |
-|------|------|
-| Mátyás Rákosi | Stalinist dictator 1948-1956; fled to USSR |
-| Ernő Gerő | Party First Secretary; requested Soviet intervention October 23 |
-| János Kádár | Initially supported revolution; later led Soviet-backed government 1956-1988 |
+| Name          | Role                                                                         |
+| ------------- | ---------------------------------------------------------------------------- |
+| Mátyás Rákosi | Stalinist dictator 1948-1956; fled to USSR                                   |
+| Ernő Gerő     | Party First Secretary; requested Soviet intervention October 23              |
+| János Kádár   | Initially supported revolution; later led Soviet-backed government 1956-1988 |
 
 ---
 
 ## Death Toll and Casualties
 
 **Hungarian Casualties:**
+
 - Approximately 2,500-2,700 Hungarians killed
 - In Budapest alone, 1,569 civilians died; 53% were workers
 - Half of all casualties were under age 30
 - Over 20,000 wounded[^23]
 
 **Soviet Casualties:**
+
 - 699-722 Soviet soldiers killed
 - 1,450-1,500 wounded
 - 51 missing in action[^24]
 
 **Post-Revolution Repression:**
+
 - 22,000 Hungarians convicted of political crimes
 - 13,000 imprisoned
 - At least 229 executed, including Imre Nagy and other leaders
@@ -223,61 +228,95 @@ János Kádár, who had initially supported the revolution before switching side
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1948 | Communist Party seizes full power; Stalinist era begins |
-| 1953-1955 | Imre Nagy's first government introduces "New Course" reforms |
-| February 1956 | Khrushchev's "Secret Speech" denounces Stalin |
-| June 1956 | Poznań protests in Poland inspire Hungarians |
-| October 22, 1956 | Students formulate "Sixteen Points" demands |
-| October 23, 1956 | Mass demonstration in Budapest; ÁVH fires on crowds; revolution begins |
-| October 24, 1956 | Soviet troops enter Budapest; Imre Nagy appointed Prime Minister |
-| October 25, 1956 | Parliament Square massacre (~100 killed) |
-| October 28, 1956 | Ceasefire; Soviet troops begin withdrawal |
-| November 1, 1956 | Nagy announces Warsaw Pact withdrawal and neutrality |
-| November 4, 1956 | Massive Soviet invasion ("Operation Whirlwind") |
-| November 10, 1956 | Organized resistance ends |
-| November 22, 1956 | Imre Nagy tricked out of Yugoslav Embassy; arrested |
-| June 16, 1958 | Imre Nagy and associates secretly executed |
-| 1989 | Nagy rehabilitated; revolution commemorated as Hungary transitions to democracy |
-| October 23, 1989 | Hungarian Republic proclaimed on revolution anniversary |
+| Date              | Event                                                                           |
+| ----------------- | ------------------------------------------------------------------------------- |
+| 1948              | Communist Party seizes full power; Stalinist era begins                         |
+| 1953-1955         | Imre Nagy's first government introduces "New Course" reforms                    |
+| February 1956     | Khrushchev's "Secret Speech" denounces Stalin                                   |
+| June 1956         | Poznań protests in Poland inspire Hungarians                                    |
+| October 22, 1956  | Students formulate "Sixteen Points" demands                                     |
+| October 23, 1956  | Mass demonstration in Budapest; ÁVH fires on crowds; revolution begins          |
+| October 24, 1956  | Soviet troops enter Budapest; Imre Nagy appointed Prime Minister                |
+| October 25, 1956  | Parliament Square massacre (~100 killed)                                        |
+| October 28, 1956  | Ceasefire; Soviet troops begin withdrawal                                       |
+| November 1, 1956  | Nagy announces Warsaw Pact withdrawal and neutrality                            |
+| November 4, 1956  | Massive Soviet invasion ("Operation Whirlwind")                                 |
+| November 10, 1956 | Organized resistance ends                                                       |
+| November 22, 1956 | Imre Nagy tricked out of Yugoslav Embassy; arrested                             |
+| June 16, 1958     | Imre Nagy and associates secretly executed                                      |
+| 1989              | Nagy rehabilitated; revolution commemorated as Hungary transitions to democracy |
+| October 23, 1989  | Hungarian Republic proclaimed on revolution anniversary                         |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Hungarian Revolution of 1956](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956)
+
 [^2]: [History.com - Hungarian Revolution](https://www.history.com/topics/cold-war/hungarian-revolution)
+
 [^3]: [Britannica - Hungarian Revolution](https://www.britannica.com/event/Hungarian-Revolution-1956)
+
 [^4]: [Hoover Institution - 1956 Revolution](https://www.hoover.org/research/hungarian-revolution-1956)
+
 [^5]: [Sheffield University - Hungary Background](https://www.sheffield.ac.uk/polopoly_fs/1.24604!/file/hungarian-uprising-1956.pdf)
+
 [^6]: [Wikipedia - ÁVH](https://en.wikipedia.org/wiki/%C3%81llamv%C3%A9delmi_Hat%C3%B3s%C3%A1g)
+
 [^7]: [GCSE History - Causes](https://www.gcsehistory.com/hungary-1956/)
+
 [^8]: [Wikipedia - Imre Nagy](https://en.wikipedia.org/wiki/Imre_Nagy)
+
 [^9]: [Britannica - Imre Nagy](https://www.britannica.com/biography/Imre-Nagy)
+
 [^10]: [State.gov - Secret Speech Impact](https://history.state.gov/milestones/1953-1960/khrushchev-secret-speech)
+
 [^11]: [Study Smarter - Revolution Origins](https://www.studysmarter.co.uk/explanations/history/cold-war/hungarian-uprising/)
+
 [^12]: [Wikipedia - Sixteen Points](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956)
+
 [^13]: [John D Clare - Demonstration](https://www.johndclare.net/cold_war7_hungary.htm)
+
 [^14]: [History.com - October 23 Events](https://www.history.com/topics/cold-war/hungarian-revolution)
+
 [^15]: [Bristorian - Street Fighting](https://www.thebristorian.co.uk/1956-hungarian-revolution/)
+
 [^16]: [Wikipedia - Soviet Intervention](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956)
+
 [^17]: [Warfare History Network - Urban Combat](https://warfarehistorynetwork.com/hungarian-revolution-1956/)
+
 [^18]: [Communications Unlimited - Casualties](https://www.communications-unlimited.nl/1956-hungarian-revolution/)
+
 [^19]: [Oxford Reference - Revolutionary Days](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095943921)
+
 [^20]: [History.com - Operation Whirlwind](https://www.history.com/topics/cold-war/hungarian-revolution)
+
 [^21]: [School History - Nagy's Broadcast](https://www.schoolhistory.co.uk/notes/the-hungarian-uprising-1956/)
+
 [^22]: [Coffee or Die - Final Resistance](https://coffeeordie.com/hungarian-revolution-1956/)
+
 [^23]: [Communications Unlimited - Death Toll](https://www.communications-unlimited.nl/1956-hungarian-revolution/)
+
 [^24]: [Wikipedia - Soviet Casualties](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956)
+
 [^25]: [Communist Crimes - Repression](https://communistcrimes.org/hungary)
+
 [^26]: [UNHCR - Refugee Response](https://www.unhcr.org/news/stories/2006/10/453d02d64/fifty-years-hungarys-1956-refugees-lessons-todays-iraq-crisis.html)
+
 [^27]: [State.gov - Western Response](https://history.state.gov/milestones/1953-1960/hungarian-uprising)
+
 [^28]: [Britannica - Kádár Era](https://www.britannica.com/biography/Janos-Kadar)
+
 [^29]: [Hoover Institution - Symbol of Resistance](https://www.hoover.org/research/hungarian-revolution-1956)
+
 [^30]: [Boell Foundation - Historical Impact](https://www.boell.de/en/2016/10/21/1956-hungarian-revolution-60-years)
+
 [^31]: [Wikipedia - 1989 Rehabilitation](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956)
+
 [^32]: [Fandom History - Soviet View](https://military-history.fandom.com/wiki/Hungarian_Revolution_of_1956)
+
 [^33]: [FMReview - Western Broadcasts](https://www.fmreview.org/resettlement/hungarian-refugees)
+
 [^34]: [History.com - Contemporary Legacy](https://www.history.com/topics/cold-war/hungarian-revolution)
+
 [^35]: [USCIS - Refugee Legacy](https://www.uscis.gov/about-us/our-history/history-office-and-library/featured-stories-from-the-uscis-history-office-and-library/hungarian-refugee-program)

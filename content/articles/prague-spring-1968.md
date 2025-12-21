@@ -70,22 +70,26 @@ Dubček's program centered on:
 In April 1968, the Communist Party adopted the "Action Programme" outlining reforms:
 
 **Political Reforms:**
+
 - Guarantee of civil rights and individual freedoms
 - Separation of party and state functions
 - Multi-candidate (though not multi-party) elections
 - Rehabilitation of political prisoners and purge victims
 
 **Media Freedom:**
+
 - Abolition of censorship
 - Freedom of expression and information
 - Independent press and broadcasting
 
 **Economic Reforms:**
+
 - Decentralization of economic planning
 - Greater role for market mechanisms
 - Enterprise autonomy and worker councils
 
 **Personal Freedoms:**
+
 - Freedom to travel abroad
 - Freedom of assembly and association
 - Religious freedom[^13]
@@ -160,11 +164,13 @@ Though the army did not resist, ordinary Czechoslovaks improvised a remarkable n
 ### Death Toll
 
 **Immediate Casualties (August 21-September 1968):**
+
 - 137 Czechoslovak civilians killed
 - Approximately 500 seriously wounded
 - Causes of death: shooting, crushing by tanks, accidents during confrontations[^22]
 
 **Long-term Casualties:**
+
 - At least 267 more Czechoslovaks died between 1969-1991 from consequences of occupation
 - Many killed trying to cross borders or during ongoing resistance[^23]
 
@@ -178,28 +184,28 @@ On January 16, 1969, student Jan Palach set himself on fire in Wenceslas Square,
 
 ### Reform Leaders
 
-| Name | Role | Fate |
-|------|------|------|
+| Name             | Role                             | Fate                                                                                                                   |
+| ---------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Alexander Dubček | First Secretary, Communist Party | Forced to sign Moscow Protocol; demoted; became forestry official; rehabilitated 1989; Speaker of Parliament 1989-1992 |
-| Oldřich Černík | Prime Minister | Initially collaborated with occupation; later forced from power |
-| Josef Smrkovský | National Assembly Chairman | Demoted; died 1974; funeral was suppressed demonstration |
-| Ludvík Svoboda | President | Flew to Moscow to negotiate leaders' release; retained presidency until 1975 |
+| Oldřich Černík   | Prime Minister                   | Initially collaborated with occupation; later forced from power                                                        |
+| Josef Smrkovský  | National Assembly Chairman       | Demoted; died 1974; funeral was suppressed demonstration                                                               |
+| Ludvík Svoboda   | President                        | Flew to Moscow to negotiate leaders' release; retained presidency until 1975                                           |
 
 ### Martyrs
 
-| Name | Significance |
-|------|--------------|
+| Name       | Significance                                       |
+| ---------- | -------------------------------------------------- |
 | Jan Palach | Student who self-immolated January 1969 in protest |
-| Jan Zajíc | Student who self-immolated February 1969 |
-| The 137 | Civilians killed during invasion |
+| Jan Zajíc  | Student who self-immolated February 1969           |
+| The 137    | Civilians killed during invasion                   |
 
 ### Soviet Bloc
 
-| Name | Role |
-|------|------|
-| Leonid Brezhnev | Soviet leader; ordered invasion |
-| Gustáv Husák | Replaced Dubček April 1969; led "normalization" until 1987 |
-| Antonín Novotný | Former hardliner First Secretary |
+| Name            | Role                                                       |
+| --------------- | ---------------------------------------------------------- |
+| Leonid Brezhnev | Soviet leader; ordered invasion                            |
+| Gustáv Husák    | Replaced Dubček April 1969; led "normalization" until 1987 |
+| Antonín Novotný | Former hardliner First Secretary                           |
 
 ---
 
@@ -208,16 +214,19 @@ On January 16, 1969, student Jan Palach set himself on fire in Wenceslas Square,
 The period following the invasion, known as "normalization" (normalizace), aimed to reverse all Prague Spring reforms and impose strict ideological conformity:
 
 **Political Purges:**
+
 - Approximately 500,000 Communist Party members expelled
 - Reformist leaders removed from all positions
 - Professionals who refused to condemn 1968 lost their jobs[^25]
 
 **Cultural Repression:**
+
 - Censorship fully reinstated
 - Many writers, artists, and intellectuals banned from publishing or performing
 - "Approved" culture promoted; dissent driven underground[^26]
 
 **Surveillance State:**
+
 - StB secret police intensified monitoring
 - File kept on millions of citizens
 - Informant networks penetrated society[^27]
@@ -240,6 +249,7 @@ The invasion was justified by what became known as the "Brezhnev Doctrine"—the
 ### Critical/Soviet Perspective
 
 **Official Soviet View:**
+
 - Czechoslovakia was threatened by "counter-revolutionary forces" manipulated by Western imperialism
 - "Fraternal assistance" was necessary to protect socialism
 - The intervention preserved peace and stability in Central Europe[^32]
@@ -274,65 +284,100 @@ Ironically, the one Prague Spring reform that survived was the federalization of
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| February 1948 | Communist coup; one-party rule established |
-| 1950s | Stalinist terror and show trials |
-| 1956 | Khrushchev's Secret Speech raises reform hopes |
-| 1963-1967 | Economic stagnation; reformism grows in party |
-| November 1967 | Student protests; internal party conflict begins |
-| January 5, 1968 | Alexander Dubček becomes First Secretary |
-| March 1968 | Novotný resigns as President; Svoboda elected |
-| April 5, 1968 | Action Programme adopted |
-| June 27, 1968 | "Two Thousand Words" manifesto published |
-| July-August 1968 | Soviet pressure; negotiations at Čierna nad Tisou and Bratislava |
-| August 20-21, 1968 | Warsaw Pact invasion; 200,000 troops enter Czechoslovakia |
-| August 21-26, 1968 | Dubček and leaders arrested; forced to sign Moscow Protocol |
-| January 16, 1969 | Jan Palach's self-immolation |
-| April 17, 1969 | Dubček replaced by Husák; normalization begins |
-| August 21, 1969 | Anniversary protests brutally suppressed |
-| 1969-1989 | Normalization era |
-| January 1977 | Charter 77 dissident manifesto |
-| November 1989 | Velvet Revolution |
-| December 29, 1989 | Václav Havel becomes President |
+| Date               | Event                                                            |
+| ------------------ | ---------------------------------------------------------------- |
+| February 1948      | Communist coup; one-party rule established                       |
+| 1950s              | Stalinist terror and show trials                                 |
+| 1956               | Khrushchev's Secret Speech raises reform hopes                   |
+| 1963-1967          | Economic stagnation; reformism grows in party                    |
+| November 1967      | Student protests; internal party conflict begins                 |
+| January 5, 1968    | Alexander Dubček becomes First Secretary                         |
+| March 1968         | Novotný resigns as President; Svoboda elected                    |
+| April 5, 1968      | Action Programme adopted                                         |
+| June 27, 1968      | "Two Thousand Words" manifesto published                         |
+| July-August 1968   | Soviet pressure; negotiations at Čierna nad Tisou and Bratislava |
+| August 20-21, 1968 | Warsaw Pact invasion; 200,000 troops enter Czechoslovakia        |
+| August 21-26, 1968 | Dubček and leaders arrested; forced to sign Moscow Protocol      |
+| January 16, 1969   | Jan Palach's self-immolation                                     |
+| April 17, 1969     | Dubček replaced by Husák; normalization begins                   |
+| August 21, 1969    | Anniversary protests brutally suppressed                         |
+| 1969-1989          | Normalization era                                                |
+| January 1977       | Charter 77 dissident manifesto                                   |
+| November 1989      | Velvet Revolution                                                |
+| December 29, 1989  | Václav Havel becomes President                                   |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Prague Spring](https://en.wikipedia.org/wiki/Prague_Spring)
+
 [^2]: [Britannica - Prague Spring](https://www.britannica.com/event/Prague-Spring)
+
 [^3]: [History.com - Prague Spring](https://www.history.com/topics/cold-war/soviet-invasion-of-czechoslovakia)
+
 [^4]: [Radio Prague - Casualty Figures](https://english.radio.cz/1968-invasion-casualties)
+
 [^5]: [Wikipedia - Czechoslovak Coup 1948](https://en.wikipedia.org/wiki/1948_Czechoslovak_coup_d%27%C3%A9tat)
+
 [^6]: [USC - Stalinism in Czechoslovakia](https://dornsife.usc.edu/eastern-europe/prague-spring/)
+
 [^7]: [State.gov - Warsaw Pact Invasion](https://history.state.gov/milestones/1969-1976/warsaw-pact)
+
 [^8]: [Wikipedia - De-Stalinization](https://en.wikipedia.org/wiki/De-Stalinization)
+
 [^9]: [Not Even Past - Prague Spring Analysis](https://notevenpast.org/1968-prague-spring/)
+
 [^10]: [ENRS - Slovak Question](https://enrs.eu/article/prague-spring-1968)
+
 [^11]: [Medium - Road to January](https://medium.com/history-of-yesterday/prague-spring-1968)
+
 [^12]: [Wikipedia - Alexander Dubček](https://en.wikipedia.org/wiki/Alexander_Dub%C4%8Dek)
+
 [^13]: [GCSE History - Action Programme](https://www.gcsehistory.com/prague-spring/)
+
 [^14]: [Society for History Education - Two Thousand Words](https://societyforhistoryeducation.org/prague-spring/)
+
 [^15]: [State.gov - Soviet Concerns](https://history.state.gov/milestones/1969-1976/warsaw-pact)
+
 [^16]: [Fiveable - Diplomatic Pressure](https://library.fiveable.me/cold-war/prague-spring)
+
 [^17]: [USC - Invasion Details](https://dornsife.usc.edu/eastern-europe/prague-spring/)
+
 [^18]: [Radio Prague - Invasion Night](https://english.radio.cz/1968-invasion-timeline)
+
 [^19]: [History.com - Arrest of Dubček](https://www.history.com/topics/cold-war/soviet-invasion-of-czechoslovakia)
+
 [^20]: [Wikipedia - Moscow Protocol](https://en.wikipedia.org/wiki/Prague_Spring)
+
 [^21]: [Radio Prague - Resistance](https://english.radio.cz/non-violent-resistance-1968)
+
 [^22]: [USC - Death Toll](https://dornsife.usc.edu/eastern-europe/prague-spring/)
+
 [^23]: [MOK.sk - Long-term Deaths](https://www.mok.sk/1968-aftermath)
+
 [^24]: [Wikipedia - Jan Palach](https://en.wikipedia.org/wiki/Jan_Palach)
+
 [^25]: [Pitt - Normalization](https://www.ucis.pitt.edu/nceeer/normalization)
+
 [^26]: [Britannica - Husák Era](https://www.britannica.com/biography/Gustav-Husak)
+
 [^27]: [Socialism Realised - StB](https://www.socialismrealised.eu/czechoslovakia/)
+
 [^28]: [State.gov - Brezhnev Doctrine](https://history.state.gov/milestones/1969-1976/brezhnev-doctrine)
+
 [^29]: [GCSE History - Historical Significance](https://www.gcsehistory.com/prague-spring/)
+
 [^30]: [Study Smarter - Connection to 1989](https://www.studysmarter.co.uk/explanations/history/cold-war/prague-spring/)
+
 [^31]: [Fiveable - International Impact](https://library.fiveable.me/cold-war/prague-spring)
+
 [^32]: [Wikipedia - Soviet Justification](https://en.wikipedia.org/wiki/Brezhnev_Doctrine)
+
 [^33]: [Not Even Past - Critical Analysis](https://notevenpast.org/1968-prague-spring/)
+
 [^34]: [Wikipedia - Velvet Revolution](https://en.wikipedia.org/wiki/Velvet_Revolution)
+
 [^35]: [USTRCR - Commemoration](https://www.ustrcr.cz/en/1968-commemoration)
+
 [^36]: [Wikipedia - Czechoslovak Federation](https://en.wikipedia.org/wiki/Czechoslovakia#Federation)

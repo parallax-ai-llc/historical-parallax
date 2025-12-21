@@ -33,11 +33,13 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
     if (!search) return items.slice(0, 10);
 
     const lowerSearch = search.toLowerCase();
-    return items.filter(
-      (item) =>
-        item.name.toLowerCase().includes(lowerSearch) ||
-        item.nationality?.toLowerCase().includes(lowerSearch)
-    ).slice(0, 10);
+    return items
+      .filter(
+        (item) =>
+          item.name.toLowerCase().includes(lowerSearch) ||
+          item.nationality?.toLowerCase().includes(lowerSearch)
+      )
+      .slice(0, 10);
   }, [items, search]);
 
   const handleSelect = (id: string) => {
@@ -65,11 +67,7 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
       title="Search articles"
       description="Search for historical articles by name or nationality"
     >
-      <CommandInput
-        placeholder="Search articles..."
-        value={search}
-        onValueChange={setSearch}
-      />
+      <CommandInput placeholder="Search articles..." value={search} onValueChange={setSearch} />
       <CommandList>
         <CommandEmpty>No results found.</CommandEmpty>
         <CommandGroup heading="Articles">
@@ -83,9 +81,7 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
               <Search className="mr-2 h-4 w-4" />
               <span className="font-medium">{item.name}</span>
               {item.nationality && (
-                <span className="ml-auto text-xs text-muted-foreground">
-                  {item.nationality}
-                </span>
+                <span className="ml-auto text-xs text-muted-foreground">{item.nationality}</span>
               )}
             </CommandItem>
           ))}
@@ -94,5 +90,3 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
     </CommandDialog>
   );
 }
-
-

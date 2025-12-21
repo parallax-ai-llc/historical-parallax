@@ -177,32 +177,32 @@ Perhaps most fundamentally, critics argue that Napoleon's career demonstrates th
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1769 | Born August 15 in Ajaccio, Corsica |
-| 1779 | Enters military school at Brienne-le-Château, France |
-| 1784 | Admitted to École Militaire in Paris |
-| 1785 | Graduates and commissioned as second lieutenant in artillery, September 28 |
-| 1793 | Promoted to brigadier general after Siege of Toulon victory, December 22 |
-| 1795 | Suppresses royalist uprising on 13 Vendémiaire (October 5); appointed Commander of Army of Italy |
-| 1796 | Marries Joséphine de Beauharnais, March 9; Italian Campaign victories |
-| 1798 | Egyptian Campaign begins; Battle of the Pyramids, July 21 |
-| 1799 | Returns to France; stages coup of 18 Brumaire (November 9), becomes First Consul |
-| 1800 | Defeats Austrians at Battle of Marengo, June 14; establishes Bank of France |
-| 1801 | Signs Concordat with Pope Pius VII |
-| 1802 | Becomes Consul for Life; reinstates slavery in French colonies |
-| 1804 | Napoleonic Code enacted, March 21; crowns himself Emperor, December 2 |
+| Year | Event                                                                                                           |
+| ---- | --------------------------------------------------------------------------------------------------------------- |
+| 1769 | Born August 15 in Ajaccio, Corsica                                                                              |
+| 1779 | Enters military school at Brienne-le-Château, France                                                            |
+| 1784 | Admitted to École Militaire in Paris                                                                            |
+| 1785 | Graduates and commissioned as second lieutenant in artillery, September 28                                      |
+| 1793 | Promoted to brigadier general after Siege of Toulon victory, December 22                                        |
+| 1795 | Suppresses royalist uprising on 13 Vendémiaire (October 5); appointed Commander of Army of Italy                |
+| 1796 | Marries Joséphine de Beauharnais, March 9; Italian Campaign victories                                           |
+| 1798 | Egyptian Campaign begins; Battle of the Pyramids, July 21                                                       |
+| 1799 | Returns to France; stages coup of 18 Brumaire (November 9), becomes First Consul                                |
+| 1800 | Defeats Austrians at Battle of Marengo, June 14; establishes Bank of France                                     |
+| 1801 | Signs Concordat with Pope Pius VII                                                                              |
+| 1802 | Becomes Consul for Life; reinstates slavery in French colonies                                                  |
+| 1804 | Napoleonic Code enacted, March 21; crowns himself Emperor, December 2                                           |
 | 1805 | Defeats Austria and Russia at Battle of Austerlitz, December 2; French fleet destroyed at Trafalgar, October 21 |
-| 1806 | Defeats Prussia at Jena and Auerstädt, October 14; establishes Continental System |
-| 1807 | Defeats Russia at Battle of Friedland, June 14; Treaty of Tilsit |
-| 1809 | Divorces Joséphine, December 15 |
-| 1810 | Marries Marie-Louise of Austria, March 11 |
-| 1811 | Son Napoléon François (King of Rome) born, March 20 |
-| 1812 | Invades Russia with 600,000+ troops, June 24; retreats from Moscow, begins October 19 |
-| 1813 | Defeated at Battle of Leipzig (Battle of the Nations), October 16-19 |
-| 1814 | Abdicates and exiled to Elba, April 11; Joséphine dies, May 29 |
-| 1815 | Escapes Elba and returns to France, March 1; defeated at Waterloo, June 18; exiled to St. Helena |
-| 1821 | Dies on St. Helena, May 5 |
+| 1806 | Defeats Prussia at Jena and Auerstädt, October 14; establishes Continental System                               |
+| 1807 | Defeats Russia at Battle of Friedland, June 14; Treaty of Tilsit                                                |
+| 1809 | Divorces Joséphine, December 15                                                                                 |
+| 1810 | Marries Marie-Louise of Austria, March 11                                                                       |
+| 1811 | Son Napoléon François (King of Rome) born, March 20                                                             |
+| 1812 | Invades Russia with 600,000+ troops, June 24; retreats from Moscow, begins October 19                           |
+| 1813 | Defeated at Battle of Leipzig (Battle of the Nations), October 16-19                                            |
+| 1814 | Abdicates and exiled to Elba, April 11; Joséphine dies, May 29                                                  |
+| 1815 | Escapes Elba and returns to France, March 1; defeated at Waterloo, June 18; exiled to St. Helena                |
+| 1821 | Dies on St. Helena, May 5                                                                                       |
 
 ---
 
@@ -229,102 +229,201 @@ Perhaps most fundamentally, critics argue that Napoleon's career demonstrates th
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Napoleon
+
 [^2]: https://www.britannica.com/biography/Napoleon-I
+
 [^3]: https://en.wikipedia.org/wiki/Napoleonic_Code
+
 [^4]: https://en.wikipedia.org/wiki/Legacy_of_Napoleon
+
 [^5]: https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/
+
 [^6]: https://www.frenchempire.net/biographies/napoleon/
+
 [^7]: https://www.notablebiographies.com/Mo-Ni/Napoleon-Bonaparte.html
+
 [^8]: https://www.biography.com/political-figures/napoleon
+
 [^9]: https://www.napoleon-empire.org/en/napoleon-biography.php
+
 [^10]: https://www.worldhistory.org/Napoleon_Bonaparte/
+
 [^11]: https://www.history.com/articles/napoleon
+
 [^12]: https://www.battlefields.org/learn/biographies/napoleon-bonaparte
+
 [^13]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/napoleons-rise-to-power/
+
 [^14]: https://study.com/academy/lesson/napoleon-bonaparte-rise-to-power-and-early-reforms.html
+
 [^15]: https://www.historyhit.com/1799-napoleon-seizes-control-france/
+
 [^16]: https://www.vedantu.com/history/french-revolution-the-rise-of-napoleon-bonaparte
+
 [^17]: https://www.worldhistory.org.uk/leaders-and-rulers-napoleon-bonaparte
+
 [^18]: https://www.ebsco.com/research-starters/history/napoleon-rises-power-france
+
 [^19]: https://www.britannica.com/summary/Napoleon-Is-Achievements
+
 [^20]: https://www.pbs.org/empires/napoleon/n_war/campaign/page_12.html
+
 [^21]: https://www.sparknotes.com/biography/napoleon/timeline/
+
 [^22]: https://en.wikipedia.org/wiki/Timeline_of_the_Napoleonic_era
+
 [^23]: https://www.britannica.com/biography/Timeline-of-the-Napoleonic-Era-2236094
+
 [^24]: https://www.britannica.com/summary/Napoleon-I-Timeline
+
 [^25]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-napoleonic-code/
+
 [^26]: https://www.history.com/this-day-in-history/napoleonic-code-approved-in-france
+
 [^27]: https://brainly.com/question/37951384
+
 [^28]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/napoleons-government/
+
 [^29]: https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-10-opinion-napoleons-proudest-achievement/
+
 [^30]: https://historiana.eu/historical-content/source-collections/napoleon-and-his-legacy
+
 [^31]: https://www.confinity.com/legacies/napoleon-bonaparte
+
 [^32]: https://artsandsciences.fsu.edu/article/political-animal-fsu-history-professor-discusses-reign-and-impact-napoleon-bonaparte
+
 [^33]: https://www.numberanalytics.com/blog/napoleon-bonaparte-lasting-legacy
+
 [^34]: https://www.ebsco.com/research-starters/history/era-napoleon-bonaparte
+
 [^35]: https://www.britannica.com/topic/history-of-europe/Napoleons-influence
+
 [^36]: https://revolution.chnm.org/exhibits/show/liberty--equality--fraternity/napoleonic-experience
+
 [^37]: https://www.worldhistory.org/timeline/Napoleon_Bonaparte/
+
 [^38]: https://wavellroom.com/2025/02/26/failing-at-echelon-napoleon-in-the-1812-russia-campaign/
+
 [^39]: https://www.bcu.ac.uk/blog/sociology-and-criminology/lessons-of-the-past
+
 [^40]: https://en.wikipedia.org/wiki/French_invasion_of_Russia
+
 [^41]: https://www.historyskills.com/classroom/modern-history/napoleon-s-russian-invasion/
+
 [^42]: https://www.ebsco.com/research-starters/history/napoleon-invades-russia
+
 [^43]: https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-russian-campaign-from-the-niemen-to-moscow/
+
 [^44]: https://library.brown.edu/cds/napoleon/time6.html
+
 [^45]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/invasion-of-russia/
+
 [^46]: https://www.khanacademy.org/humanities/world-history/1600s-1800s/napoleon-bonaparte/v/french-invasion-of-russia
+
 [^47]: https://en.wikipedia.org/wiki/Jos%C3%A9phine_de_Beauharnais
+
 [^48]: https://www.napoleon.org/en/young-historians/napodoc/napoleon-i-and-his-family/
+
 [^49]: https://www.ngv.vic.gov.au/napoleon/napoleon-and-josephine/who-was-josephine.html
+
 [^50]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/napoleons-marriage-to-josephine/
+
 [^51]: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/napoleons-marriage-to-marie-louise/
+
 [^52]: https://www.napoleon.org/en/young-historians/napodoc/limperatrice-josephine-1763-1814/
+
 [^53]: https://www.britannica.com/biography/Josephine
+
 [^54]: https://www.history.com/articles/napoleon-josephine-bonaparte-love-story-marriage-divorce
+
 [^55]: https://en.wikipedia.org/wiki/Marie_Louise,_Duchess_of_Parma
+
 [^56]: https://guides.loc.gov/women-in-the-french-revolution/josephine-bonaparte
+
 [^57]: https://sites.insead.edu/facultyresearch/research/doc.cfm?did=67899
+
 [^58]: https://bxscience.edu/ourpages/auto/2011/9/22/61388672/Napoleon-DocPacket1.pdf
+
 [^59]: https://www.pbs.org/empires/napoleon/n_myth/perspective/question3.html
+
 [^60]: https://www.tracesofevil.com/p/essays-about-napoleon-from-past-ibdp.html
+
 [^61]: https://shannonselin.com/2020/06/napoleon-good-or-bad/
+
 [^62]: https://papersowl.com/examples/napoleon-was-he-good-or-bad-for-france-and-europe/
+
 [^63]: https://yougov.co.uk/international/articles/47714-what-is-the-french-publics-opinion-of-napoleon-bonaparte
+
 [^64]: https://honors.libraries.psu.edu/files/final_submissions/670
+
 [^65]: https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1389&context=jvbl
+
 [^66]: https://www.brainyquote.com/authors/napoleon-bonaparte-quotes
+
 [^67]: https://www.goodreads.com/author/quotes/210910.Napol_on_Bonaparte
+
 [^68]: https://www.azquotes.com/author/1621-Napoleon_Bonaparte
+
 [^69]: https://en.wikiquote.org/wiki/Napoleon
+
 [^70]: https://www.imdb.com/name/nm1927416/quotes/
+
 [^71]: https://vanessariley.com/blog/2025/04/18/famous-quotes-of-napoleon-bonaparte/
+
 [^72]: https://dreamsinparis.com/famous-quotes-by-napoleon-bonaparte/
+
 [^73]: https://www.thelocal.fr/20231119/17-of-napoleons-most-famous-quotes-in-french
+
 [^74]: https://shannonselin.com/2022/09/more-napoleon-quotes/
+
 [^75]: https://militaryhistorynow.com/2014/08/20/the-quotable-bonaparte-nine-of-napoleons-best-known-remarks/
+
 [^76]: https://commons.wikimedia.org/wiki/Napol%C3%A9on_Bonaparte
+
 [^77]: https://www.wikidata.org/wiki/Q517
+
 [^78]: https://commons.wikimedia.org/wiki/Category:Napoleon_I_of_France
+
 [^79]: https://commons.wikimedia.org/wiki/Category:Paintings_of_Napoleon_I
+
 [^80]: https://commons.wikimedia.org/wiki/Category:Portraits_of_Napoleon_I_of_France
+
 [^81]: https://commons.wikimedia.org/wiki/Category:Napoleon_Bonaparte
+
 [^82]: https://simple.wikipedia.org/wiki/Napoleon
+
 [^83]: https://collections.museumsvictoria.com.au/articles/17658
+
 [^84]: https://content.lib.washington.edu/napoleonweb/timeline.html
+
 [^85]: https://www.napoleon-empire.org/en/chronology/chronology-1789-1793.php
+
 [^86]: https://www.softschools.com/timelines/napoleon_bonaparte_timeline/41/
+
 [^87]: http://www.thelatinlibrary.com/imperialism/notes/napoleonchron.html
+
 [^88]: https://en.wikipedia.org/wiki/Timeline_of_the_Napoleonic_era
+
 [^89]: https://www.britannica.com/biography/Napoleon-I
+
 [^90]: https://www.history.com/articles/napoleon
+
 [^91]: https://www.worldhistory.org/Napoleon_Bonaparte/
+
 [^92]: https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/
+
 [^93]: https://www.brainyquote.com/authors/napoleon-bonaparte-quotes
+
 [^94]: https://www.goodreads.com/author/quotes/210910.Napol_on_Bonaparte
+
 [^95]: https://www.azquotes.com/author/1621-Napoleon_Bonaparte
+
 [^96]: https://en.wikiquote.org/wiki/Napoleon
+
 [^97]: https://www.imdb.com/name/nm1927416/quotes/
+
 [^98]: https://vanessariley.com/blog/2025/04/18/famous-quotes-of-napoleon-bonaparte/
+
 [^99]: https://dreamsinparis.com/famous-quotes-by-napoleon-bonaparte/
+
 [^100]: https://militaryhistorynow.com/2014/08/20/the-quotable-bonaparte-nine-of-napoleons-best-known-remarks/

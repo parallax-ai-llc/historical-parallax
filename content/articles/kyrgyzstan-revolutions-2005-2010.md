@@ -30,6 +30,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 - Called the "island of democracy" in Central Asia
 
 **But by 2005:**
+
 - 15 years in power
 - Family control of economy
 - Opposition suppressed
@@ -41,6 +42,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 **February-March 2005:** Parliamentary elections
 
 **Problems:**
+
 - International observers found significant fraud
 - Pro-Akayev candidates declared winners
 - Opposition candidates disqualified or harassed
@@ -53,17 +55,20 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 **March 2005: Protests Spread**
 
 **Southern Kyrgyzstan:**
+
 - Jalal-Abad: Opposition seized government building (March 20)
 - Osh: Similar takeovers
 - Southern regions effectively in opposition control
 
 **March 23:**
+
 - Opposition controlled two-thirds of the country
 - Akayev still held Bishkek
 
 **March 24: The Fall**
 
 **Afternoon:**
+
 - 15,000+ protesters gathered in Bishkek's Ala-Too Square
 - Marched on government buildings
 - Police resistance collapsed
@@ -71,6 +76,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 - Looting broke out
 
 **Akayev fled:**
+
 - Helicopter to Kazakhstan
 - Then to Russia
 - Never returned
@@ -80,6 +86,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 ### Aftermath
 
 **Interim government:**
+
 - **Kurmanbek Bakiyev:** Named acting president
 - **Felix Kulov:** Released from prison; became security chief
 - Uneasy alliance between north and south
@@ -87,6 +94,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 **April 4, 2005:** Akayev signed resignation in Moscow
 
 **July 10, 2005:** Elections held
+
 - Bakiyev won with 88.9%
 - Initially promising democratic reforms[^6]
 
@@ -98,14 +106,15 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 
 **Expectations vs. Reality:**
 
-| Promise | Reality |
-|---------|---------|
-| Democratic reform | Increased authoritarianism |
+| Promise            | Reality                           |
+| ------------------ | --------------------------------- |
+| Democratic reform  | Increased authoritarianism        |
 | End to family rule | Bakiyev family controlled economy |
-| Clean government | Massive corruption |
-| Free press | Media restrictions tightened |
+| Clean government   | Massive corruption                |
+| Free press         | Media restrictions tightened      |
 
 **Key issues by 2010:**
+
 - Son Maxim Bakiyev: Accused of controlling state finances
 - Energy and utility prices rising sharply
 - Political opponents arrested
@@ -116,6 +125,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 ### The Trigger: Economic Pain
 
 **Early 2010:**
+
 - Electricity prices increased 170%
 - Heating costs doubled
 - Fuel prices rose
@@ -126,6 +136,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 ### The Revolution
 
 **April 6, 2010: Talas**
+
 - Protests began in northern town of Talas
 - Government building stormed
 - Governor briefly taken hostage
@@ -134,11 +145,13 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 **April 7, 2010: Bishkek**
 
 **Morning:**
+
 - Mass protests in capital
 - Tens of thousands gathered
 - Demanded Bakiyev's resignation
 
 **Afternoon:**
+
 - Police and security forces deployed
 - Tear gas, rubber bullets used
 - **Then live ammunition**
@@ -146,6 +159,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 - State TV seized
 
 **The death toll:**
+
 - Official: 87 killed
 - Some estimates: 90+
 - **Hundreds wounded**
@@ -158,18 +172,19 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 
 **Key differences:**
 
-| 2005 | 2010 |
-|------|------|
-| Security forces didn't fire | Security forces shot protesters |
-| Akayev left quickly | Bakiyev resisted |
-| 3 dead | 87+ dead |
-| Relatively orderly transition | Chaos followed |
+| 2005                          | 2010                            |
+| ----------------------------- | ------------------------------- |
+| Security forces didn't fire   | Security forces shot protesters |
+| Akayev left quickly           | Bakiyev resisted                |
+| 3 dead                        | 87+ dead                        |
+| Relatively orderly transition | Chaos followed                  |
 
 **Bakiyev had learned from Akayev's fall—but applied the wrong lesson.** He thought force would work. It didn't.[^10]
 
 ### Aftermath and Ethnic Violence
 
 **Provisional government:**
+
 - **Roza Otunbayeva:** Became interim president
 - First female head of state in Central Asia
 - Promised genuine democratic reforms
@@ -177,12 +192,14 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 **June 2010: Osh Violence**
 
 **Catastrophe:**
+
 - Ethnic clashes between Kyrgyz and Uzbeks in southern Kyrgyzstan
 - 470+ killed (mostly Uzbeks)
 - 400,000 displaced
 - Worst ethnic violence in post-Soviet Central Asia
 
 **Causes debated:**
+
 - Bakiyev loyalists accused of inciting
 - Pre-existing ethnic tensions
 - State collapse after revolution
@@ -193,12 +210,12 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 
 ## Death Toll Comparison
 
-| Event | Deaths |
-|-------|--------|
-| Tulip Revolution (2005) | 3 (looting aftermath) |
-| 2010 Revolution | 87+ |
-| June 2010 ethnic violence | 470+ |
-| **Total 2010 events** | **~560+** |
+| Event                     | Deaths                |
+| ------------------------- | --------------------- |
+| Tulip Revolution (2005)   | 3 (looting aftermath) |
+| 2010 Revolution           | 87+                   |
+| June 2010 ethnic violence | 470+                  |
+| **Total 2010 events**     | **~560+**             |
 
 ---
 
@@ -206,19 +223,19 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 
 ### Presidents Overthrown
 
-| Name | Ruled | Fate |
-|------|-------|------|
-| Askar Akayev | 1990-2005 | Exile in Russia |
+| Name              | Ruled     | Fate             |
+| ----------------- | --------- | ---------------- |
+| Askar Akayev      | 1990-2005 | Exile in Russia  |
 | Kurmanbek Bakiyev | 2005-2010 | Exile in Belarus |
 
 ### Revolutionary Leaders
 
-| Name | Role |
-|------|------|
-| Kurmanbek Bakiyev | Led 2005 revolution; became president |
-| Felix Kulov | 2005 ally; later split with Bakiyev |
-| Roza Otunbayeva | 2010 interim president |
-| Almazbek Atambayev | Post-2010 president (2011-2017) |
+| Name               | Role                                  |
+| ------------------ | ------------------------------------- |
+| Kurmanbek Bakiyev  | Led 2005 revolution; became president |
+| Felix Kulov        | 2005 ally; later split with Bakiyev   |
+| Roza Otunbayeva    | 2010 interim president                |
+| Almazbek Atambayev | Post-2010 president (2011-2017)       |
 
 ---
 
@@ -227,6 +244,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 ### Why Two Revolutions?
 
 **Pattern in Kyrgyzstan:**
+
 1. Opposition leader rides protests to power
 2. Promises reform
 3. Consolidates power, enriches family
@@ -235,6 +253,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 6. Cycle repeats
 
 **Underlying issues:**
+
 - Weak institutions
 - Regional (north-south) divisions
 - Patronage-based politics
@@ -244,6 +263,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 ### What Made Kyrgyzstan Different from Neighbors?
 
 **Compared to Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan:**
+
 - Smaller security apparatus
 - Regional elites more autonomous
 - Civil society slightly stronger
@@ -256,11 +276,13 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 **Mixed verdict:**
 
 **Gains:**
+
 - 2010 constitution: Stronger parliament, weaker president
 - First peaceful transfer of power in Central Asia (Otunbayeva to Atambayev, 2011)
 - Some press freedom retained
 
 **Losses:**
+
 - 2010 ethnic violence showed state weakness
 - Later presidents (Atambayev, Jeenbekov) faced protests
 - 2020: Another change of power after disputed elections
@@ -288,6 +310,7 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 ### For Color Revolution Theory
 
 **The Kyrgyz case complicates simple narratives:**
+
 - Not purely democratic movements
 - Regional and clan dimensions
 - Economic grievances central
@@ -300,41 +323,54 @@ The Kyrgyz revolutions demonstrate both the power and limits of popular protest.
 
 ### 2005 (Tulip Revolution)
 
-| Date | Event |
-|------|-------|
-| February 27, 2005 | First round parliamentary elections |
-| March 2005 | Protests begin in south |
-| March 20, 2005 | Jalal-Abad government building seized |
-| March 24, 2005 | Protesters storm Bishkek; Akayev flees |
-| April 4, 2005 | Akayev resigns from Moscow |
-| July 10, 2005 | Bakiyev elected president |
+| Date              | Event                                  |
+| ----------------- | -------------------------------------- |
+| February 27, 2005 | First round parliamentary elections    |
+| March 2005        | Protests begin in south                |
+| March 20, 2005    | Jalal-Abad government building seized  |
+| March 24, 2005    | Protesters storm Bishkek; Akayev flees |
+| April 4, 2005     | Akayev resigns from Moscow             |
+| July 10, 2005     | Bakiyev elected president              |
 
 ### 2010 Revolution
 
-| Date | Event |
-|------|-------|
-| April 6, 2010 | Protests begin in Talas |
-| April 7, 2010 | 87+ killed in Bishkek; Bakiyev flees |
-| April 8, 2010 | Provisional government formed |
-| April 15, 2010 | Bakiyev leaves Kyrgyzstan |
-| June 2010 | Ethnic violence in Osh; 470+ killed |
-| December 2011 | Almazbek Atambayev elected |
+| Date           | Event                                |
+| -------------- | ------------------------------------ |
+| April 6, 2010  | Protests begin in Talas              |
+| April 7, 2010  | 87+ killed in Bishkek; Bakiyev flees |
+| April 8, 2010  | Provisional government formed        |
+| April 15, 2010 | Bakiyev leaves Kyrgyzstan            |
+| June 2010      | Ethnic violence in Osh; 470+ killed  |
+| December 2011  | Almazbek Atambayev elected           |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Tulip Revolution](https://en.wikipedia.org/wiki/Tulip_Revolution)
+
 [^2]: [Wikipedia - 2010 Kyrgyzstani revolution](https://en.wikipedia.org/wiki/2010_Kyrgyzstani_revolution)
+
 [^3]: [Swarthmore NVDB - 2005](https://nvdatabase.swarthmore.edu/content/kyrgyz-tulip-revolution-2005)
+
 [^4]: [US-Russia Relations - Elections](https://usrussiarelations.org/kyrgyzstan-2005/)
+
 [^5]: [The Guardian - Akayev falls](https://www.theguardian.com/world/2005/mar/24/kyrgyzstan)
+
 [^6]: [The New Humanitarian - Transition](https://www.thenewhumanitarian.org/report/kyrgyzstan-2005)
+
 [^7]: [Britannica - Bakiyev](https://www.britannica.com/biography/Kurmanbek-Bakiyev)
+
 [^8]: [RFE/RL - Economic triggers](https://www.rferl.org/a/kyrgyzstan-2010-revolution/)
+
 [^9]: [LA Times - 2010 violence](https://www.latimes.com/world/la-fg-kyrgyzstan-2010/)
+
 [^10]: [ETH Zurich - Analysis](https://www.ethz.ch/content/dam/ethz/kyrgyzstan-2010/)
+
 [^11]: [Wikipedia - 2010 ethnic violence](https://en.wikipedia.org/wiki/2010_South_Kyrgyzstan_ethnic_clashes)
+
 [^12]: [24.kg - Historical analysis](https://24.kg/english/kyrgyzstan-revolutions/)
+
 [^13]: [Grokipedia - Aftermath](https://grokipedia.com/kyrgyzstan-revolutions/)
+
 [^14]: [Central Asia-Caucasus Institute - Color revolutions](https://www.cacianalyst.org/kyrgyzstan-lessons/)

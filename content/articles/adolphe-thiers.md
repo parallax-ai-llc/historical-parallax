@@ -93,7 +93,7 @@ His historical works, once immensely popular, have not maintained their scholarl
 
 ### Positive Views
 
-Admirers of Thiers emphasize his crucial role in establishing the Third Republic and preventing a monarchist restoration in the 1870s. He is credited as "the most gifted of the literary statesmen who were an important feature of 19th-century French political life."[^85] His defenders point to his genuine patriotism, demonstrated by his negotiation of the best possible terms with Germany in 1871 and his successful early repayment of the war indemnity that freed France from occupation.[^86] 
+Admirers of Thiers emphasize his crucial role in establishing the Third Republic and preventing a monarchist restoration in the 1870s. He is credited as "the most gifted of the literary statesmen who were an important feature of 19th-century French political life."[^85] His defenders point to his genuine patriotism, demonstrated by his negotiation of the best possible terms with Germany in 1871 and his successful early repayment of the war indemnity that freed France from occupation.[^86]
 
 Supporters argue that his suppression of the Commune, while brutal, prevented civil war and possible foreign intervention that could have destroyed France entirely.[^87] They maintain that he faced an impossible situation in 1871, with France defeated, occupied, and on the brink of disintegration, and that his decisive action, however harsh, saved the nation and allowed the establishment of stable republican government.[^88] His political legacy of combining patriotism, liberalism, and conservatism provided a framework for the Third Republic that allowed it to endure for seventy years.[^89]
 
@@ -117,48 +117,48 @@ For the left, Thiers represents everything wrong with bourgeois liberalism: rhet
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1797 | Born April 15 in Marseille, France |
-| 1797 | Parents marry May 13; father abandons family four months later |
-| 1815 | Enters faculty of law at Aix-en-Provence |
-| 1818 | Admitted to the bar; meets lifelong friend François Mignet |
-| 1821 | Moves to Paris; becomes contributor to Le Constitutionnel |
-| 1823 | Begins publishing Histoire de la Révolution française |
-| 1827 | Completes Histoire de la Révolution française (10 volumes) |
-| 1830 | Co-founds Le National newspaper in January |
-| 1830 | Plays key role in July Revolution (July 27-29); helps establish July Monarchy |
-| 1830 | Appointed to Council of State; elected to Chamber of Deputies |
-| 1832 | First term as Minister of the Interior |
-| 1833 | Marries Elise Dosne |
-| 1833 | Minister of Trade and Public Works |
-| 1834 | Elected to Académie Française |
-| 1834-36 | Second term as Minister of the Interior |
-| 1836 | First term as Prime Minister and Minister of Foreign Affairs |
-| 1840 | Second term as Prime Minister; arranges return of Napoleon's remains to Paris |
-| 1840 | Resigns after nearly provoking war with England |
-| 1845 | Begins publishing Histoire du Consulat et de l'Empire |
-| 1848 | Elected to National Assembly (June 4) |
-| 1848 | Supports Louis-Napoleon in presidential election (December 10) |
-| 1851 | Briefly imprisoned after Louis-Napoleon's coup d'état (December 2) |
-| 1851-52 | Exile in Brussels, London, and Switzerland |
-| 1852 | Allowed to return to France (August) |
-| 1862 | Completes Histoire du Consulat et de l'Empire (20 volumes) |
-| 1870 | Franco-Prussian War begins; Second Empire collapses |
-| 1871 | Elected Chief of Executive Power (February 17) |
-| 1871 | Signs Treaty of Versailles with Germany (February 26) |
-| 1871 | Suppresses Paris Commune during "Bloody Week" (May 21-28) |
-| 1871 | Named President of the French Republic (August) |
-| 1873 | France completes repayment of war indemnity (September); German troops withdraw |
-| 1873 | Resigns as President (May 24); replaced by Patrice de MacMahon |
-| 1877 | Dies September 3 at Saint-Germain-en-Laye |
-| 1877 | State funeral led by Victor Hugo and Léon Gambetta |
+| Year    | Event                                                                           |
+| ------- | ------------------------------------------------------------------------------- |
+| 1797    | Born April 15 in Marseille, France                                              |
+| 1797    | Parents marry May 13; father abandons family four months later                  |
+| 1815    | Enters faculty of law at Aix-en-Provence                                        |
+| 1818    | Admitted to the bar; meets lifelong friend François Mignet                      |
+| 1821    | Moves to Paris; becomes contributor to Le Constitutionnel                       |
+| 1823    | Begins publishing Histoire de la Révolution française                           |
+| 1827    | Completes Histoire de la Révolution française (10 volumes)                      |
+| 1830    | Co-founds Le National newspaper in January                                      |
+| 1830    | Plays key role in July Revolution (July 27-29); helps establish July Monarchy   |
+| 1830    | Appointed to Council of State; elected to Chamber of Deputies                   |
+| 1832    | First term as Minister of the Interior                                          |
+| 1833    | Marries Elise Dosne                                                             |
+| 1833    | Minister of Trade and Public Works                                              |
+| 1834    | Elected to Académie Française                                                   |
+| 1834-36 | Second term as Minister of the Interior                                         |
+| 1836    | First term as Prime Minister and Minister of Foreign Affairs                    |
+| 1840    | Second term as Prime Minister; arranges return of Napoleon's remains to Paris   |
+| 1840    | Resigns after nearly provoking war with England                                 |
+| 1845    | Begins publishing Histoire du Consulat et de l'Empire                           |
+| 1848    | Elected to National Assembly (June 4)                                           |
+| 1848    | Supports Louis-Napoleon in presidential election (December 10)                  |
+| 1851    | Briefly imprisoned after Louis-Napoleon's coup d'état (December 2)              |
+| 1851-52 | Exile in Brussels, London, and Switzerland                                      |
+| 1852    | Allowed to return to France (August)                                            |
+| 1862    | Completes Histoire du Consulat et de l'Empire (20 volumes)                      |
+| 1870    | Franco-Prussian War begins; Second Empire collapses                             |
+| 1871    | Elected Chief of Executive Power (February 17)                                  |
+| 1871    | Signs Treaty of Versailles with Germany (February 26)                           |
+| 1871    | Suppresses Paris Commune during "Bloody Week" (May 21-28)                       |
+| 1871    | Named President of the French Republic (August)                                 |
+| 1873    | France completes repayment of war indemnity (September); German troops withdraw |
+| 1873    | Resigns as President (May 24); replaced by Patrice de MacMahon                  |
+| 1877    | Dies September 3 at Saint-Germain-en-Laye                                       |
+| 1877    | State funeral led by Victor Hugo and Léon Gambetta                              |
 
 ---
 
 ## Famous Quotes
 
-> "The king reigns but does not govern." 
+> "The king reigns but does not govern."
 
 This is Thiers's most famous saying, articulating the principle of constitutional monarchy that influenced political thought throughout nineteenth-century Europe.[^109]
 
@@ -183,115 +183,227 @@ Thiers's disastrously mistaken assessment of Louis-Napoleon Bonaparte in 1848, r
 ## References
 
 [^1]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^2]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^3]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^4]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^5]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^6]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^7]: Adolphe Thiers | Research Starters, EBSCO Research, https://www.ebsco.com/research-starters/history/adolphe-thiers
+
 [^8]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^9]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^10]: Thiers, Louis Adolphe (1797–1877), Encyclopedia.com, https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe-1797-1877
+
 [^11]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^12]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^13]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^14]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^15]: Adolphe Thiers | Research Starters, EBSCO Research, https://www.ebsco.com/research-starters/history/adolphe-thiers
+
 [^16]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^17]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^18]: Thiers, Louis Adolphe (1797–1877), Encyclopedia.com, https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe-1797-1877
+
 [^19]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^20]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^21]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^22]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^23]: Charles X and the July Revolution, History of Western Civilization II, https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/charles-x-and-the-july-revolution/
+
 [^24]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^25]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^26]: How France Overthrew Its King (Again) in the July Revolution of 1830, TheCollector, https://www.thecollector.com/july-revolution-1830-france-overthrew-king/
+
 [^27]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^28]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^29]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^30]: July Monarchy, Wikipedia, https://en.wikipedia.org/wiki/July_Monarchy
+
 [^31]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^32]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^33]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^34]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^35]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^36]: Treaty of Versailles (1871), Wikipedia, https://en.wikipedia.org/wiki/Treaty_of_Versailles_(1871)
+
 [^37]: Treaty of Versailles 1871: The End of the Franco-Prussian War, LegalClarity, https://legalclarity.org/treaty-of-versailles-1871-the-end-of-the-franco-prussian-war/
+
 [^38]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^39]: French indemnity, Wikipedia, https://en.wikipedia.org/wiki/French_indemnity
+
 [^40]: French indemnity, Wikipedia, https://en.wikipedia.org/wiki/French_indemnity
+
 [^41]: French indemnity, Grokipedia, https://grokipedia.com/page/French_indemnity
+
 [^42]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^43]: Paris Commune, Wikipedia, https://en.wikipedia.org/wiki/Paris_Commune
+
 [^44]: The War of the Paris Commune, 1871, Clausewitz.com, https://clausewitz.com/readings/Jacobsen-TheWarOfTheCommune14.htm
+
 [^45]: Paris Commune, Wikipedia, https://en.wikipedia.org/wiki/Paris_Commune
+
 [^46]: Commune of Paris | Causes, Consequences & Legacy, Britannica, https://www.britannica.com/event/Commune-of-Paris-1871
+
 [^47]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^48]: How to make a revolution: the 1871 Paris Commune, Aeon Essays, https://aeon.co/essays/how-to-make-a-revolution-the-1871-paris-commune
+
 [^49]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^50]: Adolphe Thiers | Encyclopedia.com, https://www.encyclopedia.com/people/history/french-history-biographies/adolphe-thiers
+
 [^51]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^52]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^53]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^54]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^55]: Thiers, Louis Adolphe (1797–1877), Encyclopedia.com, https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe-1797-1877
+
 [^56]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^57]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^58]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^59]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^60]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^61]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^62]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^63]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^64]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^65]: Category:Caricatures of Adolphe Thiers, Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Caricatures_of_Adolphe_Thiers
+
 [^66]: Adolphe Thiers | Research Starters, EBSCO Research, https://www.ebsco.com/research-starters/history/adolphe-thiers
+
 [^67]: Thiers, Louis Adolphe (1797–1877), Encyclopedia.com, https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe-1797-1877
+
 [^68]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^69]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^70]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^71]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^72]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^73]: Marie-Joseph-Louis-Adolphe Thiers (1797-1877), Ohio University, https://sites.ohio.edu/chastain/rz/thiers.htm
+
 [^74]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^75]: French indemnity, Wikipedia, https://en.wikipedia.org/wiki/French_indemnity
+
 [^76]: Adolphe Thiers | Research Starters, EBSCO Research, https://www.ebsco.com/research-starters/history/adolphe-thiers
+
 [^77]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^78]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^79]: Adolphe Thiers | Encyclopedia.com, https://www.encyclopedia.com/people/history/french-history-biographies/adolphe-thiers
+
 [^80]: Paris Commune, Wikipedia, https://en.wikipedia.org/wiki/Paris_Commune
+
 [^81]: How to make a revolution: the 1871 Paris Commune, Aeon Essays, https://aeon.co/essays/how-to-make-a-revolution-the-1871-paris-commune
+
 [^82]: Adolphe Thiers | Research Starters, EBSCO Research, https://www.ebsco.com/research-starters/history/adolphe-thiers
+
 [^83]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^84]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^85]: Adolphe Thiers | Encyclopedia.com, https://www.encyclopedia.com/people/history/french-history-biographies/adolphe-thiers
+
 [^86]: French indemnity, Wikipedia, https://en.wikipedia.org/wiki/French_indemnity
+
 [^87]: The War of the Paris Commune, 1871, Clausewitz.com, https://clausewitz.com/readings/Jacobsen-TheWarOfTheCommune14.htm
+
 [^88]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^89]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^90]: Adolphe Thiers, Élysée, https://www.elysee.fr/en/adolphe-thiers
+
 [^91]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^92]: Adolphe Thiers | Research Starters, EBSCO Research, https://www.ebsco.com/research-starters/history/adolphe-thiers
+
 [^93]: Adolphe Thiers | Encyclopedia.com, https://www.encyclopedia.com/people/history/french-history-biographies/adolphe-thiers
+
 [^94]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^95]: Louis Adolphe Thiers Quotes, BrainyQuote, https://www.brainyquote.com/authors/louis-adolphe-thiers-quotes
+
 [^96]: Paris Commune, Wikipedia, https://en.wikipedia.org/wiki/Paris_Commune
+
 [^97]: How to make a revolution: the 1871 Paris Commune, Aeon Essays, https://aeon.co/essays/how-to-make-a-revolution-the-1871-paris-commune
+
 [^98]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^99]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^100]: Adolphe Thiers | Encyclopedia.com, https://www.encyclopedia.com/people/history/french-history-biographies/adolphe-thiers
+
 [^101]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers
+
 [^102]: Thiers, Louis-Adolphe, Encyclopedia.com, https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe
+
 [^103]: Adolphe Thiers | French Statesman, Historian & Politician, Britannica, https://www.britannica.com/biography/Adolphe-Thiers
+
 [^104]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^105]: Thiers, Louis Adolphe (1797–1877), Encyclopedia.com, https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/thiers-louis-adolphe-1797-1877
+
 [^106]: 1911 Encyclopædia Britannica/Thiers, Louis Adolphe, Wikisource, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thiers,_Louis_Adolphe
+
 [^107]: How to make a revolution: the 1871 Paris Commune, Aeon Essays, https://aeon.co/essays/how-to-make-a-revolution-the-1871-paris-commune
+
 [^108]: Paris Commune, Wikipedia, https://en.wikipedia.org/wiki/Paris_Commune
+
 [^109]: TOP 5 QUOTES BY ADOLPHE THIERS, A-Z Quotes, https://www.azquotes.com/author/41223-Adolphe_Thiers
+
 [^110]: Louis Adolphe Thiers Quotes, BrainyQuote, https://www.brainyquote.com/authors/louis-adolphe-thiers-quotes
+
 [^111]: Louis Adolphe Thiers Quotes, BrainyQuote, https://www.brainyquote.com/authors/louis-adolphe-thiers-quotes
+
 [^112]: Three speeches of Adolphe Thiers (with introduction), Internet Archive, https://archive.org/stream/threespeechesofa00thie/threespeechesofa00thie_djvu.txt
+
 [^113]: Adolphe Thiers, Wikipedia, https://en.wikipedia.org/wiki/Adolphe_Thiers

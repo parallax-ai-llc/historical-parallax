@@ -131,30 +131,30 @@ The Whig interpretation views Charles as the author of his own downfall, with th
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1600 | Born on 19 November at Dunfermline Palace, Fife, Scotland |
-| 1605 | Created Duke of York and Knight of the Bath |
-| 1612 | Became heir apparent following death of elder brother Prince Henry |
-| 1623 | Traveled to Spain in failed attempt to marry Spanish Infanta Maria Anna |
-| 1625 | Ascended to the throne on 27 March; married Henrietta Maria of France on 13 June |
-| 1626 | Dissolved Parliament rather than allow impeachment of Duke of Buckingham |
-| 1628 | Reluctantly accepted Petition of Right; Duke of Buckingham assassinated in August |
-| 1629 | Dissolved Parliament in March; began eleven years of Personal Rule |
-| 1630 | Birth of first son, future Charles II, on 29 May |
-| 1632 | Appointed Anthony van Dyck as Principal Painter to the court |
-| 1634 | Began collecting ship money tax, extending it to inland counties |
-| 1637 | Attempted to impose Anglican Prayer Book on Scotland, sparking riots |
-| 1638 | Scottish Covenanters signed National Covenant opposing Charles's religious policies |
-| 1639 | First Bishops' War with Scotland ended in Pacification of Berwick |
-| 1640 | Called Short Parliament in April; dissolved after three weeks; Second Bishops' War; Scottish victory forced召oning of Long Parliament in November |
-| 1641 | Irish Rebellion began in October |
-| 1642 | Attempted to arrest Five Members of Parliament on 4 January; English Civil War began in August; Battle of Edgehill fought in October; established headquarters at Oxford |
-| 1644 | Royalist defeat at Battle of Marston Moor on 2 July |
-| 1645 | Decisive Royalist defeat at Battle of Naseby on 14 June |
-| 1646 | Escaped from Oxford in April; surrendered to Scottish Covenanters at Newark in May; Oxford fell to Parliament in June |
-| 1647 | Scots handed Charles to Parliament in January; seized by the Army in June |
-| 1648 | Second Civil War; Army defeated Royalist uprisings |
+| Year | Event                                                                                                                                                                                                   |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1600 | Born on 19 November at Dunfermline Palace, Fife, Scotland                                                                                                                                               |
+| 1605 | Created Duke of York and Knight of the Bath                                                                                                                                                             |
+| 1612 | Became heir apparent following death of elder brother Prince Henry                                                                                                                                      |
+| 1623 | Traveled to Spain in failed attempt to marry Spanish Infanta Maria Anna                                                                                                                                 |
+| 1625 | Ascended to the throne on 27 March; married Henrietta Maria of France on 13 June                                                                                                                        |
+| 1626 | Dissolved Parliament rather than allow impeachment of Duke of Buckingham                                                                                                                                |
+| 1628 | Reluctantly accepted Petition of Right; Duke of Buckingham assassinated in August                                                                                                                       |
+| 1629 | Dissolved Parliament in March; began eleven years of Personal Rule                                                                                                                                      |
+| 1630 | Birth of first son, future Charles II, on 29 May                                                                                                                                                        |
+| 1632 | Appointed Anthony van Dyck as Principal Painter to the court                                                                                                                                            |
+| 1634 | Began collecting ship money tax, extending it to inland counties                                                                                                                                        |
+| 1637 | Attempted to impose Anglican Prayer Book on Scotland, sparking riots                                                                                                                                    |
+| 1638 | Scottish Covenanters signed National Covenant opposing Charles's religious policies                                                                                                                     |
+| 1639 | First Bishops' War with Scotland ended in Pacification of Berwick                                                                                                                                       |
+| 1640 | Called Short Parliament in April; dissolved after three weeks; Second Bishops' War; Scottish victory forced召oning of Long Parliament in November                                                       |
+| 1641 | Irish Rebellion began in October                                                                                                                                                                        |
+| 1642 | Attempted to arrest Five Members of Parliament on 4 January; English Civil War began in August; Battle of Edgehill fought in October; established headquarters at Oxford                                |
+| 1644 | Royalist defeat at Battle of Marston Moor on 2 July                                                                                                                                                     |
+| 1645 | Decisive Royalist defeat at Battle of Naseby on 14 June                                                                                                                                                 |
+| 1646 | Escaped from Oxford in April; surrendered to Scottish Covenanters at Newark in May; Oxford fell to Parliament in June                                                                                   |
+| 1647 | Scots handed Charles to Parliament in January; seized by the Army in June                                                                                                                               |
+| 1648 | Second Civil War; Army defeated Royalist uprisings                                                                                                                                                      |
 | 1649 | Trial began on 20 January at Westminster Hall; sentenced to death on 27 January; executed on 30 January outside Banqueting House, Whitehall; buried at St George's Chapel, Windsor Castle on 9 February |
 
 ---
@@ -176,142 +176,281 @@ The Whig interpretation views Charles as the author of his own downfall, with th
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^2]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^3]: https://www.royal.uk/charles-i
+
 [^4]: https://www.havefunwithhistory.com/charles-i-accomplishments/
+
 [^5]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^6]: https://www.britannica.com/question/What-was-Charles-Is-early-life-like
+
 [^7]: https://www.englishmonarchs.co.uk/stuart_2.htm
+
 [^8]: https://www.britannica.com/question/What-was-Charles-Is-early-life-like
+
 [^9]: https://www.englishmonarchs.co.uk/stuart_2.htm
+
 [^10]: https://www.britannica.com/question/What-was-Charles-Is-early-life-like
+
 [^11]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^12]: https://www.britannica.com/question/What-was-Charles-Is-early-life-like
+
 [^13]: https://www.englishmonarchs.co.uk/stuart_2.htm
+
 [^14]: https://www.britannica.com/question/What-was-Charles-Is-early-life-like
+
 [^15]: https://www.britannica.com/question/What-was-Charles-Is-early-life-like
+
 [^16]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^17]: https://www.undiscoveredscotland.co.uk/usbiography/monarchs/charlesi.html
+
 [^18]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^19]: https://en.wikipedia.org/wiki/George_Villiers,_1st_Duke_of_Buckingham
+
 [^20]: https://www.hrp.org.uk/blog/george-villiers-first-duke-of-buckingham/
+
 [^21]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^22]: https://www.undiscoveredscotland.co.uk/usbiography/monarchs/charlesi.html
+
 [^23]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^24]: https://www.hrp.org.uk/blog/george-villiers-first-duke-of-buckingham/
+
 [^25]: https://www.britannica.com/biography/George-Villiers-1st-duke-of-Buckingham
+
 [^26]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^27]: https://en.wikipedia.org/wiki/Henrietta_Maria_of_France
+
 [^28]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^29]: https://www.royal.uk/charles-i
+
 [^30]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^31]: https://www.havefunwithhistory.com/charles-i-accomplishments/
+
 [^32]: https://www.rct.uk/collection/405322/charles-i-1600-1649-with-m-de-st-antoine
+
 [^33]: https://www.biography.com/royalty/charles-i
+
 [^34]: https://artuk.org/discover/curations/charles-i-van-dyck-and-beyond
+
 [^35]: https://www.rct.uk/collection/405322/charles-i-1600-1649-with-m-de-st-antoine
+
 [^36]: https://en.wikipedia.org/wiki/Charles_I_in_Three_Positions
+
 [^37]: https://www.biography.com/royalty/charles-i
+
 [^38]: https://www.biography.com/royalty/charles-i
+
 [^39]: https://www.havefunwithhistory.com/charles-i-accomplishments/
+
 [^40]: https://www.havefunwithhistory.com/charles-i-accomplishments/
+
 [^41]: https://en.wikipedia.org/wiki/Petition_of_Right
+
 [^42]: https://www.worldhistory.org/article/1946/petition-of-right/
+
 [^43]: https://www.worldhistory.org/article/1946/petition-of-right/
+
 [^44]: https://www.havefunwithhistory.com/charles-i-accomplishments/
+
 [^45]: https://www.havefunwithhistory.com/charles-i-accomplishments/
+
 [^46]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^47]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^48]: https://libquotes.com/charles-i-of-england
+
 [^49]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^50]: https://en.wikipedia.org/wiki/Personal_Rule
+
 [^51]: https://www.royal.uk/charles-i
+
 [^52]: https://en.wikipedia.org/wiki/Personal_Rule
+
 [^53]: https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/overview/petition-of-right/
+
 [^54]: https://www.worldhistory.org/article/1946/petition-of-right/
+
 [^55]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^56]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^57]: https://en.wikipedia.org/wiki/Bishops'_Wars
+
 [^58]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^59]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^60]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^61]: https://en.wikipedia.org/wiki/George_Villiers,_1st_Duke_of_Buckingham
+
 [^62]: https://www.britannica.com/biography/George-Villiers-1st-duke-of-Buckingham
+
 [^63]: https://www.hrp.org.uk/blog/george-villiers-first-duke-of-buckingham/
+
 [^64]: https://en.wikipedia.org/wiki/Long_Parliament
+
 [^65]: https://www.royal.uk/charles-i
+
 [^66]: https://spartacus-educational.com/STUfivemembers.htm
+
 [^67]: https://www.royal.uk/charles-i
+
 [^68]: https://en.wikipedia.org/wiki/Henrietta_Maria_of_France
+
 [^69]: https://en.wikipedia.org/wiki/Henrietta_Maria_of_France
+
 [^70]: https://www.britannica.com/biography/Henrietta-Maria
+
 [^71]: https://www.britannica.com/biography/Henrietta-Maria
+
 [^72]: https://www.seventeenthcentury.co.uk/blog/17th-century-who-s-who/2282933_valentine-s-day-charles-i-henrietta-maria-a-royal-love-story
+
 [^73]: https://www.seventeenthcentury.co.uk/blog/17th-century-who-s-who/2282933_valentine-s-day-charles-i-henrietta-maria-a-royal-love-story
+
 [^74]: https://artuk.org/discover/stories/henrietta-maria-of-france-charles-is-queen
+
 [^75]: https://www.rmg.co.uk/stories/royal-history/henrietta-maria
+
 [^76]: https://en.wikipedia.org/wiki/Henrietta_Maria_of_France
+
 [^77]: https://en.wikipedia.org/wiki/Henrietta_Maria_of_France
+
 [^78]: https://artuk.org/discover/curations/charles-i-van-dyck-and-beyond
+
 [^79]: https://www.britannica.com/biography/Henrietta-Maria
+
 [^80]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^81]: https://www.royal.uk/charles-i
+
 [^82]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^83]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^84]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^85]: https://www.biography.com/royalty/charles-i
+
 [^86]: https://www.rct.uk/collection/405322/charles-i-1600-1649-with-m-de-st-antoine
+
 [^87]: https://www.britannica.com/question/What-was-Charles-Is-early-life-like
+
 [^88]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^89]: https://www.historytoday.com/archive/execution-charles-i
+
 [^90]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^91]: https://www.hrp.org.uk/banqueting-house/history-and-stories/the-execution-of-charles-i/
+
 [^92]: https://www.historytoday.com/archive/execution-charles-i
+
 [^93]: https://en.wikipedia.org/wiki/Trial_of_Charles_I
+
 [^94]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^95]: https://www.hrp.org.uk/banqueting-house/history-and-stories/the-execution-of-charles-i/
+
 [^96]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^97]: https://www.rct.uk/collection/405322/charles-i-1600-1649-with-m-de-st-antoine
+
 [^98]: https://artuk.org/discover/curations/charles-i-van-dyck-and-beyond
+
 [^99]: https://www.biography.com/royalty/charles-i
+
 [^100]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^101]: https://www.worldhistory.org/article/1946/petition-of-right/
+
 [^102]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^103]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^104]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^105]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^106]: https://www.h-net.org/reviews/showrev.php?id=11633
+
 [^107]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^108]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^109]: https://www.h-net.org/reviews/showrev.php?id=11633
+
 [^110]: https://www.h-net.org/reviews/showrev.php?id=11633
+
 [^111]: https://www.h-net.org/reviews/showrev.php?id=11633
+
 [^112]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^113]: https://www.h-net.org/reviews/showrev.php?id=11633
+
 [^114]: https://en.wikipedia.org/wiki/Trial_of_Charles_I
+
 [^115]: https://www.historytoday.com/archive/execution-charles-i
+
 [^116]: https://en.wikiquote.org/wiki/Charles_I_of_England
+
 [^117]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^118]: https://www.biography.com/royalty/charles-i
+
 [^119]: https://www.rct.uk/collection/405322/charles-i-1600-1649-with-m-de-st-antoine
+
 [^120]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^121]: https://www.h-net.org/reviews/showrev.php?id=11633
+
 [^122]: https://en.wikipedia.org/wiki/Personal_Rule
+
 [^123]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^124]: https://www.historytoday.com/archive/british_english_monarchs/charles-i
+
 [^125]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^126]: https://en.wikipedia.org/wiki/Charles_I_of_England
+
 [^127]: https://en.wikipedia.org/wiki/Trial_of_Charles_I
+
 [^128]: https://www.rmg.co.uk/stories/topics/why-was-king-charles-i-executed
+
 [^129]: https://spartacus-educational.com/STUfivemembers.htm
+
 [^130]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^131]: https://en.wikipedia.org/wiki/Bishops'_Wars
+
 [^132]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^133]: https://www.historytoday.com/archive/charles-i-author-his-own-downfall
+
 [^134]: https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland
+
 [^135]: https://en.wikipedia.org/wiki/English_Civil_War
+
 [^136]: https://en.wikiquote.org/wiki/Charles_I_of_England
+
 [^137]: https://libquotes.com/charles-i-of-england
+
 [^138]: https://libquotes.com/charles-i-of-england
+
 [^139]: https://en.wikiquote.org/wiki/Charles_I_of_England
+
 [^140]: https://en.wikiquote.org/wiki/Charles_I_of_England

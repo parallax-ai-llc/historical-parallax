@@ -163,31 +163,31 @@ Military historians critical of Louis emphasize the enormous human cost of his w
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1638 | Born September 5 at Château de Saint-Germain-en-Laye |
-| 1643 | Succeeded to the throne at age 4 upon death of Louis XIII; Anne of Austria becomes regent |
-| 1648 | Beginning of the Fronde (civil wars against royal authority) |
-| 1653 | End of the Fronde; royal authority restored |
-| 1660 | Married Maria Theresa of Spain on June 9; Treaty of the Pyrenees ends Franco-Spanish War |
-| 1661 | Death of Cardinal Mazarin on March 9; Louis assumes personal rule; arrest of Nicolas Fouquet |
-| 1662 | Birth of Louis, Grand Dauphin, his only legitimate son to survive childhood |
-| 1664 | Major festivities at Versailles; beginning of transformation into grand palace |
-| 1667 | War of Devolution begins against Spain over the Spanish Netherlands |
-| 1668 | Treaty of Aix-la-Chapelle ends War of Devolution |
-| 1672 | Franco-Dutch War begins; Louis invades the Dutch Republic |
-| 1678 | Treaties of Nijmegen end Franco-Dutch War; France gains significant territory |
-| 1682 | Court officially moves to Palace of Versailles on May 6 |
-| 1683 | Death of Queen Maria Theresa; secret marriage to Madame de Maintenon |
-| 1685 | Revocation of the Edict of Nantes on October 22; Protestantism made illegal |
-| 1688 | War of the League of Augsburg begins; massive European coalition against France |
-| 1697 | Treaty of Ryswick ends War of the League of Augsburg; first major French setback |
-| 1700 | Death of Charles II of Spain; Spanish throne passes to Philip of Anjou, Louis's grandson |
-| 1701 | War of the Spanish Succession begins |
-| 1709 | Great Winter; severe famine and cold devastate France |
-| 1711 | Death of Louis, Grand Dauphin; succession crisis begins |
-| 1712 | Deaths of Louis, Duke of Burgundy (grandson) and his eldest son; great-grandson becomes heir |
-| 1713 | Treaty of Utrecht begins ending War of the Spanish Succession |
+| Year | Event                                                                                                     |
+| ---- | --------------------------------------------------------------------------------------------------------- |
+| 1638 | Born September 5 at Château de Saint-Germain-en-Laye                                                      |
+| 1643 | Succeeded to the throne at age 4 upon death of Louis XIII; Anne of Austria becomes regent                 |
+| 1648 | Beginning of the Fronde (civil wars against royal authority)                                              |
+| 1653 | End of the Fronde; royal authority restored                                                               |
+| 1660 | Married Maria Theresa of Spain on June 9; Treaty of the Pyrenees ends Franco-Spanish War                  |
+| 1661 | Death of Cardinal Mazarin on March 9; Louis assumes personal rule; arrest of Nicolas Fouquet              |
+| 1662 | Birth of Louis, Grand Dauphin, his only legitimate son to survive childhood                               |
+| 1664 | Major festivities at Versailles; beginning of transformation into grand palace                            |
+| 1667 | War of Devolution begins against Spain over the Spanish Netherlands                                       |
+| 1668 | Treaty of Aix-la-Chapelle ends War of Devolution                                                          |
+| 1672 | Franco-Dutch War begins; Louis invades the Dutch Republic                                                 |
+| 1678 | Treaties of Nijmegen end Franco-Dutch War; France gains significant territory                             |
+| 1682 | Court officially moves to Palace of Versailles on May 6                                                   |
+| 1683 | Death of Queen Maria Theresa; secret marriage to Madame de Maintenon                                      |
+| 1685 | Revocation of the Edict of Nantes on October 22; Protestantism made illegal                               |
+| 1688 | War of the League of Augsburg begins; massive European coalition against France                           |
+| 1697 | Treaty of Ryswick ends War of the League of Augsburg; first major French setback                          |
+| 1700 | Death of Charles II of Spain; Spanish throne passes to Philip of Anjou, Louis's grandson                  |
+| 1701 | War of the Spanish Succession begins                                                                      |
+| 1709 | Great Winter; severe famine and cold devastate France                                                     |
+| 1711 | Death of Louis, Grand Dauphin; succession crisis begins                                                   |
+| 1712 | Deaths of Louis, Duke of Burgundy (grandson) and his eldest son; great-grandson becomes heir              |
+| 1713 | Treaty of Utrecht begins ending War of the Spanish Succession                                             |
 | 1715 | Death of Louis XIV on September 1 at Versailles after 72-year reign; succeeded by great-grandson Louis XV |
 
 ---
@@ -218,114 +218,224 @@ This statement reflects Louis's obsession with etiquette, order, and the elabora
 
 ## References
 
-[^1]: Bluche, François. *Louis XIV*. New York: Franklin Watts, 1990, pp. 15-18.
-[^2]: Treasure, Geoffrey. *Mazarin: The Crisis of Absolutism in France*. London: Routledge, 1995, pp. 187-210.
-[^3]: Sonnino, Paul. *Mazarin's Quest: The Congress of Westphalia and the Coming of the Fronde*. Cambridge: Harvard University Press, 2008, pp. 234-240.
-[^4]: Ranum, Orest. *The Fronde: A French Revolution, 1648-1652*. New York: Norton, 1993, pp. 312-330.
-[^5]: Wolf, John B. *Louis XIV*. New York: Norton, 1968, pp. 52-58.
-[^6]: Bergin, Joseph. *The Politics of Religion in Early Modern France*. New Haven: Yale University Press, 2014, pp. 165-172.
-[^7]: Golden, Richard M. *The Godly Rebellion: Parisian Curés and the Religious Fronde, 1648-1653*. Chapel Hill: University of North Carolina Press, 1981, pp. 89-95.
-[^8]: Burke, Peter. *The Fabrication of Louis XIV*. New Haven: Yale University Press, 1992, pp. 49-52.
-[^9]: Lossky, Andrew. *Louis XIV and the French Monarchy*. New Brunswick: Rutgers University Press, 1994, pp. 78-85.
-[^10]: Dessert, Daniel. *Fouquet*. Paris: Fayard, 1987, pp. 298-315.
-[^11]: Rowlands, Guy. *The Financial Decline of a Great Power: War, Influence, and Money in Louis XIV's France*. Oxford: Oxford University Press, 2012, pp. 34-41.
-[^12]: Antoine, Michel. *Le Conseil du roi sous le règne de Louis XV*. Geneva: Droz, 1970, pp. 112-125.
-[^13]: Mansel, Philip. *King of the World: The Life of Louis XIV*. Chicago: University of Chicago Press, 2020, pp. 87-93.
-[^14]: Cole, Charles Woolsey. *Colbert and a Century of French Mercantilism*. New York: Columbia University Press, 1939, pp. 201-218.
-[^15]: Shovlin, John. *The Political Economy of Virtue: Luxury, Patriotism, and the Origins of the French Revolution*. Ithaca: Cornell University Press, 2006, pp. 45-52.
-[^16]: Elias, Norbert. *The Court Society*. New York: Pantheon Books, 1983, pp. 117-145.
-[^17]: Duindam, Jeroen. *Vienna and Versailles: The Courts of Europe's Dynastic Rivals*. Cambridge: Cambridge University Press, 2003, pp. 156-178.
-[^18]: Lynn, John A. *The Wars of Louis XIV, 1667-1714*. London: Longman, 1999, pp. 89-112.
-[^19]: Childs, John. *The Nine Years' War and the British Army, 1688-1697*. Manchester: Manchester University Press, 1991, pp. 23-29.
-[^20]: Rowen, Herbert H. *John de Witt, Grand Pensionary of Holland, 1625-1672*. Princeton: Princeton University Press, 1978, pp. 734-756.
-[^21]: Sonnino, Paul. *Louis XIV and the Origins of the Dutch War*. Cambridge: Cambridge University Press, 1988, pp. 178-195.
-[^22]: Symcox, Geoffrey. *The Crisis of French Sea Power, 1688-1697*. The Hague: Martinus Nijhoff, 1974, pp. 201-223.
-[^23]: Frey, Linda and Marsha Frey. *The Treaties of the War of the Spanish Succession*. Westport: Greenwood Press, 1995, pp. 312-334.
-[^24]: Saule, Béatrix. *Versailles Triomphant: Une journée de Louis XIV*. Paris: Flammarion, 1996, pp. 45-67.
-[^25]: Berger, Robert W. *The Palace of the Sun: The Louvre of Louis XIV*. University Park: Pennsylvania State University Press, 1993, pp. 134-156.
-[^26]: DeJean, Joan. *How Paris Became Paris: The Invention of the Modern City*. New York: Bloomsbury, 2014, pp. 98-112.
-[^27]: Isherwood, Robert M. *Music in the Service of the King: France in the Seventeenth Century*. Ithaca: Cornell University Press, 1973, pp. 234-251.
-[^28]: Apostolidès, Jean-Marie. *Le Roi-machine: Spectacle et politique au temps de Louis XIV*. Paris: Minuit, 1981, pp. 89-107.
-[^29]: Shennan, J.H. *The Parlement of Paris*. Ithaca: Cornell University Press, 1998, pp. 267-284.
-[^30]: Vauban, Sébastien Le Prestre de. *Projet d'une dixme royale*. Paris: 1707. Reprint, Paris: CTHS, 2007, pp. 56-73.
-[^31]: Minard, Philippe. *La Fortune du colbertisme*. Paris: Fayard, 1998, pp. 178-195.
-[^32]: Sargentson, Carolyn. *Merchants and Luxury Markets: The Marchands Merciers of Eighteenth-Century Paris*. London: V&A Publications, 1996, pp. 67-82.
-[^33]: Haudrère, Philippe. *La Compagnie française des Indes au XVIIIe siècle*. Paris: Les Indes savantes, 2005, pp. 123-141.
-[^34]: Fumaroli, Marc. *Quand l'Europe parlait français*. Paris: Editions de Fallois, 2001, pp. 34-49.
-[^35]: Roche, Daniel. *The Culture of Clothing: Dress and Fashion in the Ancien Régime*. Cambridge: Cambridge University Press, 1994, pp. 201-218.
-[^36]: Benedict, Philip. *The Huguenot Population of France, 1600-1685*. Philadelphia: American Philosophical Society, 1991, pp. 156-174.
-[^37]: Garrisson, Janine. *L'Édit de Nantes et sa révocation*. Paris: Seuil, 1985, pp. 234-256.
-[^38]: Labrousse, Elisabeth. *"Une foi, une loi, un roi?": Essai sur la révocation de l'Édit de Nantes*. Geneva: Labor et Fides, 1985, pp. 178-195.
-[^39]: Gwynn, Robin D. *Huguenot Heritage: The History and Contribution of the Huguenots in Britain*. Brighton: Sussex Academic Press, 2001, pp. 89-107.
-[^40]: Lougee, Carolyn C. *"The Great Classes and Dangerous Classes in France"*. In *Proceedings of the Western Society for French History* 14 (1987): 234-245.
-[^41]: Joutard, Philippe. *La Légende des camisards*. Paris: Gallimard, 1977, pp. 67-85.
-[^42]: Adams, Geoffrey. *The Huguenots and French Opinion, 1685-1787*. Waterloo: Wilfrid Laurier University Press, 1991, pp. 123-141.
-[^43]: Collins, James B. *The State in Early Modern France*. Cambridge: Cambridge University Press, 2009, pp. 267-289.
-[^44]: Bonney, Richard. *"The Eighteenth Century II: The Struggle to Sustain Absolute Government"*. In *Economic Systems and State Finance*, edited by Richard Bonney, 315-343. Oxford: Clarendon Press, 1995.
-[^45]: Storrs, Christopher. *The Spanish Resurgence, 1713-1748*. New Haven: Yale University Press, 2016, pp. 78-95.
-[^46]: Hoffman, Philip T. and Kathryn Norberg, eds. *Fiscal Crises, Liberty, and Representative Government, 1450-1789*. Stanford: Stanford University Press, 1994, pp. 201-223.
-[^47]: Doyle, William. *Origins of the French Revolution*. 3rd ed. Oxford: Oxford University Press, 1999, pp. 45-62.
-[^48]: Campbell, Peter R. *Louis XIV, 1661-1715*. London: Longman, 1993, pp. 112-129.
-[^49]: Solnon, Jean-François. *La Cour de France*. Paris: Fayard, 1987, pp. 289-307.
-[^50]: Van Kley, Dale K. *The Religious Origins of the French Revolution: From Calvin to the Civil Constitution, 1560-1791*. New Haven: Yale University Press, 1996, pp. 89-106.
-[^51]: Maire, Catherine. *De la cause de Dieu à la cause de la Nation: Le jansénisme au XVIIIe siècle*. Paris: Gallimard, 1998, pp. 134-152.
-[^52]: Parker, Geoffrey. *Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century*. New Haven: Yale University Press, 2013, pp. 423-441.
-[^53]: Lachiver, Marcel. *Les Années de misère: La famine au temps du Grand Roi*. Paris: Fayard, 1991, pp. 267-289.
-[^54]: Kaplan, Steven L. *Bread, Politics and Political Economy in the Reign of Louis XV*. 2 vols. The Hague: Martinus Nijhoff, 1976, vol. 1, pp. 78-95.
-[^55]: Kleinman, Ruth. *Anne of Austria: Queen of France*. Columbus: Ohio State University Press, 1985, pp. 234-251.
-[^56]: Mitford, Nancy. *The Sun King*. London: Hamish Hamilton, 1966, pp. 89-103.
-[^57]: Cavelli, F.A.B. *Les Derniers Stuarts à Saint-Germain en Laye*. 2 vols. Paris: Didier, 1871, vol. 1, pp. 156-164.
-[^58]: Dunlop, Ian. *Louis XIV*. New York: St. Martin's Press, 2000, pp. 178-195.
-[^59]: Fraser, Antonia. *Love and Louis XIV: The Women in the Life of the Sun King*. New York: Nan A. Talese, 2006, pp. 234-267.
-[^60]: Langlois, Marcel. *Madame de Maintenon*. Paris: Plon, 1932, pp. 289-312.
-[^61]: Harth, Erica. *Ideology and Culture in Seventeenth-Century France*. Ithaca: Cornell University Press, 1983, pp. 167-184.
-[^62]: Spanheim, Ezechiel. *Relation de la cour de France en 1690*. Paris: Mercure de France, 1973, pp. 123-138.
-[^63]: Saint-Simon, Louis de Rouvroy, duc de. *Mémoires*. Edited by Yves Coirault. 8 vols. Paris: Gallimard, 1983-1988, vol. 6, pp. 345-367.
-[^64]: Swann, Julian. *Politics and the Parlement of Paris under Louis XV, 1754-1774*. Cambridge: Cambridge University Press, 1995, pp. 23-41.
-[^65]: Christout, Marie-Françoise. *Le Ballet de cour de Louis XIV, 1643-1672*. Paris: Picard, 1967, pp. 156-173.
-[^66]: Newton, William R. *La Petite Cour: Services et serviteurs à la Cour de Versailles au XVIIIe siècle*. Paris: Fayard, 2006, pp. 89-104.
-[^67]: Levron, Jacques. *Daily Life at Versailles in the Seventeenth and Eighteenth Centuries*. New York: Macmillan, 1968, pp. 67-79.
-[^68]: Rule, John C. and Ben S. Trotter. *A World of Paper: Louis XIV, Colbert de Torcy, and the Rise of the Information State*. Montreal: McGill-Queen's University Press, 2014, pp. 234-251.
-[^69]: Hatton, Ragnhild. *Louis XIV and His World*. London: Thames and Hudson, 1972, pp. 112-128.
-[^70]: Jones, Colin. *The Great Nation: France from Louis XV to Napoleon*. New York: Columbia University Press, 2002, pp. 34-49.
+[^1]: Bluche, François. _Louis XIV_. New York: Franklin Watts, 1990, pp. 15-18.
+
+[^2]: Treasure, Geoffrey. _Mazarin: The Crisis of Absolutism in France_. London: Routledge, 1995, pp. 187-210.
+
+[^3]: Sonnino, Paul. _Mazarin's Quest: The Congress of Westphalia and the Coming of the Fronde_. Cambridge: Harvard University Press, 2008, pp. 234-240.
+
+[^4]: Ranum, Orest. _The Fronde: A French Revolution, 1648-1652_. New York: Norton, 1993, pp. 312-330.
+
+[^5]: Wolf, John B. _Louis XIV_. New York: Norton, 1968, pp. 52-58.
+
+[^6]: Bergin, Joseph. _The Politics of Religion in Early Modern France_. New Haven: Yale University Press, 2014, pp. 165-172.
+
+[^7]: Golden, Richard M. _The Godly Rebellion: Parisian Curés and the Religious Fronde, 1648-1653_. Chapel Hill: University of North Carolina Press, 1981, pp. 89-95.
+
+[^8]: Burke, Peter. _The Fabrication of Louis XIV_. New Haven: Yale University Press, 1992, pp. 49-52.
+
+[^9]: Lossky, Andrew. _Louis XIV and the French Monarchy_. New Brunswick: Rutgers University Press, 1994, pp. 78-85.
+
+[^10]: Dessert, Daniel. _Fouquet_. Paris: Fayard, 1987, pp. 298-315.
+
+[^11]: Rowlands, Guy. _The Financial Decline of a Great Power: War, Influence, and Money in Louis XIV's France_. Oxford: Oxford University Press, 2012, pp. 34-41.
+
+[^12]: Antoine, Michel. _Le Conseil du roi sous le règne de Louis XV_. Geneva: Droz, 1970, pp. 112-125.
+
+[^13]: Mansel, Philip. _King of the World: The Life of Louis XIV_. Chicago: University of Chicago Press, 2020, pp. 87-93.
+
+[^14]: Cole, Charles Woolsey. _Colbert and a Century of French Mercantilism_. New York: Columbia University Press, 1939, pp. 201-218.
+
+[^15]: Shovlin, John. _The Political Economy of Virtue: Luxury, Patriotism, and the Origins of the French Revolution_. Ithaca: Cornell University Press, 2006, pp. 45-52.
+
+[^16]: Elias, Norbert. _The Court Society_. New York: Pantheon Books, 1983, pp. 117-145.
+
+[^17]: Duindam, Jeroen. _Vienna and Versailles: The Courts of Europe's Dynastic Rivals_. Cambridge: Cambridge University Press, 2003, pp. 156-178.
+
+[^18]: Lynn, John A. _The Wars of Louis XIV, 1667-1714_. London: Longman, 1999, pp. 89-112.
+
+[^19]: Childs, John. _The Nine Years' War and the British Army, 1688-1697_. Manchester: Manchester University Press, 1991, pp. 23-29.
+
+[^20]: Rowen, Herbert H. _John de Witt, Grand Pensionary of Holland, 1625-1672_. Princeton: Princeton University Press, 1978, pp. 734-756.
+
+[^21]: Sonnino, Paul. _Louis XIV and the Origins of the Dutch War_. Cambridge: Cambridge University Press, 1988, pp. 178-195.
+
+[^22]: Symcox, Geoffrey. _The Crisis of French Sea Power, 1688-1697_. The Hague: Martinus Nijhoff, 1974, pp. 201-223.
+
+[^23]: Frey, Linda and Marsha Frey. _The Treaties of the War of the Spanish Succession_. Westport: Greenwood Press, 1995, pp. 312-334.
+
+[^24]: Saule, Béatrix. _Versailles Triomphant: Une journée de Louis XIV_. Paris: Flammarion, 1996, pp. 45-67.
+
+[^25]: Berger, Robert W. _The Palace of the Sun: The Louvre of Louis XIV_. University Park: Pennsylvania State University Press, 1993, pp. 134-156.
+
+[^26]: DeJean, Joan. _How Paris Became Paris: The Invention of the Modern City_. New York: Bloomsbury, 2014, pp. 98-112.
+
+[^27]: Isherwood, Robert M. _Music in the Service of the King: France in the Seventeenth Century_. Ithaca: Cornell University Press, 1973, pp. 234-251.
+
+[^28]: Apostolidès, Jean-Marie. _Le Roi-machine: Spectacle et politique au temps de Louis XIV_. Paris: Minuit, 1981, pp. 89-107.
+
+[^29]: Shennan, J.H. _The Parlement of Paris_. Ithaca: Cornell University Press, 1998, pp. 267-284.
+
+[^30]: Vauban, Sébastien Le Prestre de. _Projet d'une dixme royale_. Paris: 1707. Reprint, Paris: CTHS, 2007, pp. 56-73.
+
+[^31]: Minard, Philippe. _La Fortune du colbertisme_. Paris: Fayard, 1998, pp. 178-195.
+
+[^32]: Sargentson, Carolyn. _Merchants and Luxury Markets: The Marchands Merciers of Eighteenth-Century Paris_. London: V&A Publications, 1996, pp. 67-82.
+
+[^33]: Haudrère, Philippe. _La Compagnie française des Indes au XVIIIe siècle_. Paris: Les Indes savantes, 2005, pp. 123-141.
+
+[^34]: Fumaroli, Marc. _Quand l'Europe parlait français_. Paris: Editions de Fallois, 2001, pp. 34-49.
+
+[^35]: Roche, Daniel. _The Culture of Clothing: Dress and Fashion in the Ancien Régime_. Cambridge: Cambridge University Press, 1994, pp. 201-218.
+
+[^36]: Benedict, Philip. _The Huguenot Population of France, 1600-1685_. Philadelphia: American Philosophical Society, 1991, pp. 156-174.
+
+[^37]: Garrisson, Janine. _L'Édit de Nantes et sa révocation_. Paris: Seuil, 1985, pp. 234-256.
+
+[^38]: Labrousse, Elisabeth. _"Une foi, une loi, un roi?": Essai sur la révocation de l'Édit de Nantes_. Geneva: Labor et Fides, 1985, pp. 178-195.
+
+[^39]: Gwynn, Robin D. _Huguenot Heritage: The History and Contribution of the Huguenots in Britain_. Brighton: Sussex Academic Press, 2001, pp. 89-107.
+
+[^40]: Lougee, Carolyn C. _"The Great Classes and Dangerous Classes in France"_. In _Proceedings of the Western Society for French History_ 14 (1987): 234-245.
+
+[^41]: Joutard, Philippe. _La Légende des camisards_. Paris: Gallimard, 1977, pp. 67-85.
+
+[^42]: Adams, Geoffrey. _The Huguenots and French Opinion, 1685-1787_. Waterloo: Wilfrid Laurier University Press, 1991, pp. 123-141.
+
+[^43]: Collins, James B. _The State in Early Modern France_. Cambridge: Cambridge University Press, 2009, pp. 267-289.
+
+[^44]: Bonney, Richard. _"The Eighteenth Century II: The Struggle to Sustain Absolute Government"_. In _Economic Systems and State Finance_, edited by Richard Bonney, 315-343. Oxford: Clarendon Press, 1995.
+
+[^45]: Storrs, Christopher. _The Spanish Resurgence, 1713-1748_. New Haven: Yale University Press, 2016, pp. 78-95.
+
+[^46]: Hoffman, Philip T. and Kathryn Norberg, eds. _Fiscal Crises, Liberty, and Representative Government, 1450-1789_. Stanford: Stanford University Press, 1994, pp. 201-223.
+
+[^47]: Doyle, William. _Origins of the French Revolution_. 3rd ed. Oxford: Oxford University Press, 1999, pp. 45-62.
+
+[^48]: Campbell, Peter R. _Louis XIV, 1661-1715_. London: Longman, 1993, pp. 112-129.
+
+[^49]: Solnon, Jean-François. _La Cour de France_. Paris: Fayard, 1987, pp. 289-307.
+
+[^50]: Van Kley, Dale K. _The Religious Origins of the French Revolution: From Calvin to the Civil Constitution, 1560-1791_. New Haven: Yale University Press, 1996, pp. 89-106.
+
+[^51]: Maire, Catherine. _De la cause de Dieu à la cause de la Nation: Le jansénisme au XVIIIe siècle_. Paris: Gallimard, 1998, pp. 134-152.
+
+[^52]: Parker, Geoffrey. _Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century_. New Haven: Yale University Press, 2013, pp. 423-441.
+
+[^53]: Lachiver, Marcel. _Les Années de misère: La famine au temps du Grand Roi_. Paris: Fayard, 1991, pp. 267-289.
+
+[^54]: Kaplan, Steven L. _Bread, Politics and Political Economy in the Reign of Louis XV_. 2 vols. The Hague: Martinus Nijhoff, 1976, vol. 1, pp. 78-95.
+
+[^55]: Kleinman, Ruth. _Anne of Austria: Queen of France_. Columbus: Ohio State University Press, 1985, pp. 234-251.
+
+[^56]: Mitford, Nancy. _The Sun King_. London: Hamish Hamilton, 1966, pp. 89-103.
+
+[^57]: Cavelli, F.A.B. _Les Derniers Stuarts à Saint-Germain en Laye_. 2 vols. Paris: Didier, 1871, vol. 1, pp. 156-164.
+
+[^58]: Dunlop, Ian. _Louis XIV_. New York: St. Martin's Press, 2000, pp. 178-195.
+
+[^59]: Fraser, Antonia. _Love and Louis XIV: The Women in the Life of the Sun King_. New York: Nan A. Talese, 2006, pp. 234-267.
+
+[^60]: Langlois, Marcel. _Madame de Maintenon_. Paris: Plon, 1932, pp. 289-312.
+
+[^61]: Harth, Erica. _Ideology and Culture in Seventeenth-Century France_. Ithaca: Cornell University Press, 1983, pp. 167-184.
+
+[^62]: Spanheim, Ezechiel. _Relation de la cour de France en 1690_. Paris: Mercure de France, 1973, pp. 123-138.
+
+[^63]: Saint-Simon, Louis de Rouvroy, duc de. _Mémoires_. Edited by Yves Coirault. 8 vols. Paris: Gallimard, 1983-1988, vol. 6, pp. 345-367.
+
+[^64]: Swann, Julian. _Politics and the Parlement of Paris under Louis XV, 1754-1774_. Cambridge: Cambridge University Press, 1995, pp. 23-41.
+
+[^65]: Christout, Marie-Françoise. _Le Ballet de cour de Louis XIV, 1643-1672_. Paris: Picard, 1967, pp. 156-173.
+
+[^66]: Newton, William R. _La Petite Cour: Services et serviteurs à la Cour de Versailles au XVIIIe siècle_. Paris: Fayard, 2006, pp. 89-104.
+
+[^67]: Levron, Jacques. _Daily Life at Versailles in the Seventeenth and Eighteenth Centuries_. New York: Macmillan, 1968, pp. 67-79.
+
+[^68]: Rule, John C. and Ben S. Trotter. _A World of Paper: Louis XIV, Colbert de Torcy, and the Rise of the Information State_. Montreal: McGill-Queen's University Press, 2014, pp. 234-251.
+
+[^69]: Hatton, Ragnhild. _Louis XIV and His World_. London: Thames and Hudson, 1972, pp. 112-128.
+
+[^70]: Jones, Colin. _The Great Nation: France from Louis XV to Napoleon_. New York: Columbia University Press, 2002, pp. 34-49.
+
 [^71]: UNESCO World Heritage Centre. "Palace and Park of Versailles." https://whc.unesco.org/en/list/83
-[^72]: Liechtenhan, Francine-Dominique. *Les Trois Christianismes et la Russie: Les voyageurs occidentaux face à l'Église orthodoxe russe (XVe-XVIIIe siècle)*. Paris: CNRS Éditions, 2002, pp. 178-194.
-[^73]: Anderson, Perry. *Lineages of the Absolutist State*. London: Verso, 1974, pp. 85-112.
-[^74]: Baker, Keith Michael. *Inventing the French Revolution*. Cambridge: Cambridge University Press, 1990, pp. 67-85.
-[^75]: Voltaire. *The Age of Louis XIV*. Translated by Martyn P. Pollack. London: J.M. Dent, 1926, pp. 312-334.
-[^76]: Corvisier, André. *Louvois*. Paris: Fayard, 1983, pp. 234-256.
-[^77]: Lynn, John A. *Giant of the Grand Siècle: The French Army, 1610-1715*. Cambridge: Cambridge University Press, 1997, pp. 389-412.
-[^78]: Scott, Katie. *The Rococo Interior: Decoration and Social Spaces in Early Eighteenth-Century Paris*. New Haven: Yale University Press, 1995, pp. 45-67.
-[^79]: Pevsner, Nikolaus. *Academies of Art, Past and Present*. Cambridge: Cambridge University Press, 1940, pp. 89-107.
-[^80]: Church, Clive H. *Revolution and Red Tape: The French Ministerial Bureaucracy, 1770-1850*. Oxford: Clarendon Press, 1981, pp. 56-74.
-[^81]: Braudel, Fernand. *The Identity of France*. 2 vols. New York: Harper & Row, 1988-1990, vol. 2, pp. 312-334.
-[^82]: Voltaire. *The Age of Louis XIV*, pp. 1-23.
-[^83]: Brumfitt, J.H. *Voltaire Historian*. Oxford: Oxford University Press, 1958, pp. 78-95.
-[^84]: Lynn, John A. *The Wars of Louis XIV, 1667-1714*, pp. 367-389.
-[^85]: Blanchard, Anne, ed. *Vauban*. Paris: Fayard, 1996, pp. 234-256.
-[^86]: Bluche, François. *Louis XIV*, pp. 512-534.
-[^87]: Bluche, François. *Louis XIV*, p. 9.
-[^88]: Briggs, Robin. *Communities of Belief: Cultural and Social Tensions in Early Modern France*. Oxford: Clarendon Press, 1989, pp. 312-330.
-[^89]: Mentzer, Raymond A. and Andrew Spicer, eds. *Society and Culture in the Huguenot World, 1559-1685*. Cambridge: Cambridge University Press, 2002, pp. 234-251.
-[^90]: Saisselin, Rémy G. *The Rule of Reason and the Ruses of the Heart: A Philosophical Dictionary of Classical French Criticism, Critics, and Aesthetic Issues*. Cleveland: Press of Case Western Reserve University, 1970, pp. 89-106.
-[^91]: Berger, Robert W. *Versailles: The Château of Louis XIV*. University Park: Pennsylvania State University Press, 1985, pp. 178-201.
-[^92]: Goubert, Pierre. *Louis XIV and Twenty Million Frenchmen*. New York: Pantheon Books, 1970, pp. 267-289.
-[^93]: Fénelon, François. *Lettre à Louis XIV*. In *Œuvres*, edited by Jacques Le Brun. 2 vols. Paris: Gallimard, 1983-1997, vol. 2, pp. 1045-1051.
-[^94]: Dent, Julian. *Crisis in Finance: Crown, Financiers and Society in Seventeenth-Century France*. Newton Abbot: David & Charles, 1973, pp. 234-256.
-[^95]: Riley, James C. *The Seven Years War and the Old Regime in France: The Economic and Financial Toll*. Princeton: Princeton University Press, 1986, pp. 45-67.
-[^96]: Labrousse, Elisabeth. *"Une foi, une loi, un roi?"*, pp. 201-223.
-[^97]: Scoville, Warren C. *The Persecution of Huguenots and French Economic Development, 1680-1720*. Berkeley: University of California Press, 1960, pp. 289-312.
-[^98]: Poland, Burdette C. *French Protestantism and the French Revolution: A Study in Church and State, Thought and Religion, 1685-1815*. Princeton: Princeton University Press, 1957, pp. 34-52.
-[^99]: Goubert, Pierre. *Louis XIV and Twenty Million Frenchmen*, pp. 189-207.
-[^100]: Roche, Daniel. *France in the Enlightenment*. Cambridge: Harvard University Press, 1998, pp. 345-367.
-[^101]: Keohane, Nannerl O. *Philosophy and the State in France: The Renaissance to the Enlightenment*. Princeton: Princeton University Press, 1980, pp. 289-312.
-[^102]: Montesquieu, Charles de Secondat, baron de. *The Spirit of the Laws*. Translated by Anne M. Cohler, Basia Carolyn Miller, and Harold Samuel Stone. Cambridge: Cambridge University Press, 1989, pp. 156-178.
-[^103]: Beik, William. *Absolutism and Society in Seventeenth-Century France: State Power and Provincial Aristocracy in Languedoc*. Cambridge: Cambridge University Press, 1985, pp. 312-334.
-[^104]: Lynn, John A. *Women, Armies, and Warfare in Early Modern Europe*. Cambridge: Cambridge University Press, 2008, pp. 234-251.
-[^105]: McKay, Derek and H.M. Scott. *The Rise of the Great Powers, 1648-1815*. London: Longman, 1983, pp. 67-89.
-[^106]: Churchill, Winston S. *Marlborough: His Life and Times*. 6 vols. London: Harrap, 1933-1938, vol. 4, pp. 456-478.
-[^107]: Burke, Peter. *The Fabrication of Louis XIV*, pp. 52-54.
-[^108]: Saint-Simon, *Mémoires*, vol. 3, pp. 234-236.
-[^109]: Lynn, John A. *The Wars of Louis XIV, 1667-1714*, pp. 289-291.
-[^110]: Dunlop, Ian. *Louis XIV*, pp. 412-414.
-[^111]: Elias, Norbert. *The Court Society*, pp. 117-119.
+
+[^72]: Liechtenhan, Francine-Dominique. _Les Trois Christianismes et la Russie: Les voyageurs occidentaux face à l'Église orthodoxe russe (XVe-XVIIIe siècle)_. Paris: CNRS Éditions, 2002, pp. 178-194.
+
+[^73]: Anderson, Perry. _Lineages of the Absolutist State_. London: Verso, 1974, pp. 85-112.
+
+[^74]: Baker, Keith Michael. _Inventing the French Revolution_. Cambridge: Cambridge University Press, 1990, pp. 67-85.
+
+[^75]: Voltaire. _The Age of Louis XIV_. Translated by Martyn P. Pollack. London: J.M. Dent, 1926, pp. 312-334.
+
+[^76]: Corvisier, André. _Louvois_. Paris: Fayard, 1983, pp. 234-256.
+
+[^77]: Lynn, John A. _Giant of the Grand Siècle: The French Army, 1610-1715_. Cambridge: Cambridge University Press, 1997, pp. 389-412.
+
+[^78]: Scott, Katie. _The Rococo Interior: Decoration and Social Spaces in Early Eighteenth-Century Paris_. New Haven: Yale University Press, 1995, pp. 45-67.
+
+[^79]: Pevsner, Nikolaus. _Academies of Art, Past and Present_. Cambridge: Cambridge University Press, 1940, pp. 89-107.
+
+[^80]: Church, Clive H. _Revolution and Red Tape: The French Ministerial Bureaucracy, 1770-1850_. Oxford: Clarendon Press, 1981, pp. 56-74.
+
+[^81]: Braudel, Fernand. _The Identity of France_. 2 vols. New York: Harper & Row, 1988-1990, vol. 2, pp. 312-334.
+
+[^82]: Voltaire. _The Age of Louis XIV_, pp. 1-23.
+
+[^83]: Brumfitt, J.H. _Voltaire Historian_. Oxford: Oxford University Press, 1958, pp. 78-95.
+
+[^84]: Lynn, John A. _The Wars of Louis XIV, 1667-1714_, pp. 367-389.
+
+[^85]: Blanchard, Anne, ed. _Vauban_. Paris: Fayard, 1996, pp. 234-256.
+
+[^86]: Bluche, François. _Louis XIV_, pp. 512-534.
+
+[^87]: Bluche, François. _Louis XIV_, p. 9.
+
+[^88]: Briggs, Robin. _Communities of Belief: Cultural and Social Tensions in Early Modern France_. Oxford: Clarendon Press, 1989, pp. 312-330.
+
+[^89]: Mentzer, Raymond A. and Andrew Spicer, eds. _Society and Culture in the Huguenot World, 1559-1685_. Cambridge: Cambridge University Press, 2002, pp. 234-251.
+
+[^90]: Saisselin, Rémy G. _The Rule of Reason and the Ruses of the Heart: A Philosophical Dictionary of Classical French Criticism, Critics, and Aesthetic Issues_. Cleveland: Press of Case Western Reserve University, 1970, pp. 89-106.
+
+[^91]: Berger, Robert W. _Versailles: The Château of Louis XIV_. University Park: Pennsylvania State University Press, 1985, pp. 178-201.
+
+[^92]: Goubert, Pierre. _Louis XIV and Twenty Million Frenchmen_. New York: Pantheon Books, 1970, pp. 267-289.
+
+[^93]: Fénelon, François. _Lettre à Louis XIV_. In _Œuvres_, edited by Jacques Le Brun. 2 vols. Paris: Gallimard, 1983-1997, vol. 2, pp. 1045-1051.
+
+[^94]: Dent, Julian. _Crisis in Finance: Crown, Financiers and Society in Seventeenth-Century France_. Newton Abbot: David & Charles, 1973, pp. 234-256.
+
+[^95]: Riley, James C. _The Seven Years War and the Old Regime in France: The Economic and Financial Toll_. Princeton: Princeton University Press, 1986, pp. 45-67.
+
+[^96]: Labrousse, Elisabeth. _"Une foi, une loi, un roi?"_, pp. 201-223.
+
+[^97]: Scoville, Warren C. _The Persecution of Huguenots and French Economic Development, 1680-1720_. Berkeley: University of California Press, 1960, pp. 289-312.
+
+[^98]: Poland, Burdette C. _French Protestantism and the French Revolution: A Study in Church and State, Thought and Religion, 1685-1815_. Princeton: Princeton University Press, 1957, pp. 34-52.
+
+[^99]: Goubert, Pierre. _Louis XIV and Twenty Million Frenchmen_, pp. 189-207.
+
+[^100]: Roche, Daniel. _France in the Enlightenment_. Cambridge: Harvard University Press, 1998, pp. 345-367.
+
+[^101]: Keohane, Nannerl O. _Philosophy and the State in France: The Renaissance to the Enlightenment_. Princeton: Princeton University Press, 1980, pp. 289-312.
+
+[^102]: Montesquieu, Charles de Secondat, baron de. _The Spirit of the Laws_. Translated by Anne M. Cohler, Basia Carolyn Miller, and Harold Samuel Stone. Cambridge: Cambridge University Press, 1989, pp. 156-178.
+
+[^103]: Beik, William. _Absolutism and Society in Seventeenth-Century France: State Power and Provincial Aristocracy in Languedoc_. Cambridge: Cambridge University Press, 1985, pp. 312-334.
+
+[^104]: Lynn, John A. _Women, Armies, and Warfare in Early Modern Europe_. Cambridge: Cambridge University Press, 2008, pp. 234-251.
+
+[^105]: McKay, Derek and H.M. Scott. _The Rise of the Great Powers, 1648-1815_. London: Longman, 1983, pp. 67-89.
+
+[^106]: Churchill, Winston S. _Marlborough: His Life and Times_. 6 vols. London: Harrap, 1933-1938, vol. 4, pp. 456-478.
+
+[^107]: Burke, Peter. _The Fabrication of Louis XIV_, pp. 52-54.
+
+[^108]: Saint-Simon, _Mémoires_, vol. 3, pp. 234-236.
+
+[^109]: Lynn, John A. _The Wars of Louis XIV, 1667-1714_, pp. 289-291.
+
+[^110]: Dunlop, Ian. _Louis XIV_, pp. 412-414.
+
+[^111]: Elias, Norbert. _The Court Society_, pp. 117-119.

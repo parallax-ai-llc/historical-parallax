@@ -188,42 +188,42 @@ The fragility of Obama's legacy, quickly dismantled or undermined by his success
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1961 | Born August 4 in Honolulu, Hawaii |
-| 1967 | Moved to Jakarta, Indonesia with mother and stepfather |
-| 1971 | Returned to Hawaii; enrolled at Punahou School |
-| 1979 | Graduated from Punahou School |
-| 1981 | Transferred to Columbia University |
-| 1983 | Graduated from Columbia with degree in political science |
-| 1985 | Moved to Chicago to work as community organizer |
-| 1988 | Enrolled at Harvard Law School |
-| 1990 | Elected first Black president of Harvard Law Review |
-| 1991 | Graduated from Harvard Law School |
-| 1992 | Married Michelle Robinson on October 3 |
-| 1996 | Elected to Illinois State Senate |
-| 1998 | Daughter Malia born July 4 |
-| 2001 | Daughter Sasha born June 10 |
+| Year | Event                                                                 |
+| ---- | --------------------------------------------------------------------- |
+| 1961 | Born August 4 in Honolulu, Hawaii                                     |
+| 1967 | Moved to Jakarta, Indonesia with mother and stepfather                |
+| 1971 | Returned to Hawaii; enrolled at Punahou School                        |
+| 1979 | Graduated from Punahou School                                         |
+| 1981 | Transferred to Columbia University                                    |
+| 1983 | Graduated from Columbia with degree in political science              |
+| 1985 | Moved to Chicago to work as community organizer                       |
+| 1988 | Enrolled at Harvard Law School                                        |
+| 1990 | Elected first Black president of Harvard Law Review                   |
+| 1991 | Graduated from Harvard Law School                                     |
+| 1992 | Married Michelle Robinson on October 3                                |
+| 1996 | Elected to Illinois State Senate                                      |
+| 1998 | Daughter Malia born July 4                                            |
+| 2001 | Daughter Sasha born June 10                                           |
 | 2004 | Delivered keynote address at Democratic National Convention (July 27) |
-| 2004 | Elected to U.S. Senate (November) |
-| 2007 | Announced candidacy for President (February 10) |
-| 2008 | Elected 44th President of the United States (November 4) |
-| 2009 | Inaugurated as President (January 20) |
-| 2009 | Signed American Recovery and Reinvestment Act (February 17) |
-| 2009 | Awarded Nobel Peace Prize (October 9) |
-| 2010 | Signed Affordable Care Act (March 23) |
-| 2010 | Signed Dodd-Frank financial reform (July 21) |
-| 2011 | Announced killing of Osama bin Laden (May 2) |
-| 2011 | Ended Iraq War combat operations (December) |
-| 2012 | Announced support for same-sex marriage (May 9) |
-| 2012 | Re-elected to second term (November 6) |
+| 2004 | Elected to U.S. Senate (November)                                     |
+| 2007 | Announced candidacy for President (February 10)                       |
+| 2008 | Elected 44th President of the United States (November 4)              |
+| 2009 | Inaugurated as President (January 20)                                 |
+| 2009 | Signed American Recovery and Reinvestment Act (February 17)           |
+| 2009 | Awarded Nobel Peace Prize (October 9)                                 |
+| 2010 | Signed Affordable Care Act (March 23)                                 |
+| 2010 | Signed Dodd-Frank financial reform (July 21)                          |
+| 2011 | Announced killing of Osama bin Laden (May 2)                          |
+| 2011 | Ended Iraq War combat operations (December)                           |
+| 2012 | Announced support for same-sex marriage (May 9)                       |
+| 2012 | Re-elected to second term (November 6)                                |
 | 2014 | Announced restoration of diplomatic relations with Cuba (December 17) |
-| 2015 | Iran nuclear deal (JCPOA) finalized (July 14) |
-| 2015 | Supreme Court legalized same-sex marriage nationwide (June 26) |
-| 2016 | Became first sitting president to visit Hiroshima (May 27) |
-| 2016 | Signed Paris Climate Agreement (August 29) |
-| 2017 | Left office (January 20) |
-| 2020 | Published memoir "A Promised Land" (November) |
+| 2015 | Iran nuclear deal (JCPOA) finalized (July 14)                         |
+| 2015 | Supreme Court legalized same-sex marriage nationwide (June 26)        |
+| 2016 | Became first sitting president to visit Hiroshima (May 27)            |
+| 2016 | Signed Paris Climate Agreement (August 29)                            |
+| 2017 | Left office (January 20)                                              |
+| 2020 | Published memoir "A Promised Land" (November)                         |
 
 ---
 
@@ -252,114 +252,225 @@ The fragility of Obama's legacy, quickly dismantled or undermined by his success
 ## References
 
 [^1]: [Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama)
+
 [^2]: [Early life and career of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_career_of_Barack_Obama)
+
 [^3]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^4]: [2009 Nobel Peace Prize - Wikipedia](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize)
+
 [^5]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^6]: [Barack Obama: Life Before the Presidency | Miller Center](https://millercenter.org/president/obama/life-before-the-presidency)
+
 [^7]: [Barack Obama | Biography, Parents, Education, Presidency, Books, & Facts | Britannica](https://www.britannica.com/biography/Barack-Obama)
+
 [^8]: [Early life and career of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_career_of_Barack_Obama)
+
 [^9]: [Barack Obama Early Years and Education: 1961-1991 – ObamaInfo](https://obamainfo.org/early-years/)
+
 [^10]: [President Barack Obama | Barack Obama Presidential Library](https://www.obamalibrary.gov/obamas/president-barack-obama)
+
 [^11]: [Barack Obama: Life Before the Presidency | Miller Center](https://millercenter.org/president/obama/life-before-the-presidency)
+
 [^12]: [Early life and career of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_career_of_Barack_Obama)
+
 [^13]: [Barack Obama | Biography, Parents, Education, Presidency, Books, & Facts | Britannica](https://www.britannica.com/biography/Barack-Obama)
+
 [^14]: [Barack Obama Early Years and Education: 1961-1991 – ObamaInfo](https://obamainfo.org/early-years/)
+
 [^15]: [Early life and career of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Early_life_and_career_of_Barack_Obama)
+
 [^16]: [Barack Obama: Life Before the Presidency | Miller Center](https://millercenter.org/president/obama/life-before-the-presidency)
+
 [^17]: [US Senate career of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Barack_Obama)
+
 [^18]: [Barack Obama - 44th President, Political Career, Legacy | Britannica](https://www.britannica.com/biography/Barack-Obama/Politics-and-ascent-to-the-presidency)
+
 [^19]: [2004 Democratic National Convention keynote address - Wikipedia](https://en.wikipedia.org/wiki/2004_Democratic_National_Convention_keynote_address)
+
 [^20]: [The Speech – Chicago Magazine](https://www.chicagomag.com/chicago-magazine/june-2007/the-speech/)
+
 [^21]: [Former President Obama spoke at DNC as an elder statesman. In 2004, his speech launched him toward the White House.](https://www.chicagotribune.com/2024/08/22/former-president-obama-spoke-at-dnc-as-an-elder-statesman-in-2004-his-speech-launched-him-toward-the-white-house/)
+
 [^22]: [2004 Democratic National Convention keynote address - Wikipedia](https://en.wikipedia.org/wiki/2004_Democratic_National_Convention_keynote_address)
+
 [^23]: [Obama's 'Overnight Success' In 2004 Was A Year In The Making - OPB](https://www.opb.org/news/series/election-2016/president-barack-obama-2004-convention-speech-legacy/)
+
 [^24]: [US Senate career of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/US_Senate_career_of_Barack_Obama)
+
 [^25]: [Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama)
+
 [^26]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^27]: [Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama)
+
 [^28]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^29]: [Obama's Top 50 Accomplishments | Washington Monthly](https://washingtonmonthly.com/2012/03/01/obamas-top-50-accomplishments/)
+
 [^30]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^31]: [10 Barack Obama Accomplishments and Achievements - Have Fun With History](https://www.havefunwithhistory.com/barack-obama-accomplishments/)
+
 [^32]: [Obama's Top 50 Accomplishments | Washington Monthly](https://washingtonmonthly.com/2012/03/01/obamas-top-50-accomplishments/)
+
 [^33]: [In depth: How the Affordable Care Act changed America | The Obama Foundation](https://www.obama.org/stories/13-years-aca/)
+
 [^34]: [Barack Obama - Health Care Reform | Britannica](https://www.britannica.com/biography/Barack-Obama/Passage-of-health-care-reform)
+
 [^35]: [A look back at 14 years of the Affordable Care Act | The Obama Foundation](https://www.obama.org/stories/14-years-of-the-affordable-care-act/)
+
 [^36]: [In depth: How the Affordable Care Act changed America | The Obama Foundation](https://www.obama.org/stories/13-years-aca/)
+
 [^37]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^38]: [2009 Nobel Peace Prize - Wikipedia](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize)
+
 [^39]: [10 Barack Obama Accomplishments and Achievements - Have Fun With History](https://www.havefunwithhistory.com/barack-obama-accomplishments/)
+
 [^40]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^41]: [10 Barack Obama Accomplishments and Achievements - Have Fun With History](https://www.havefunwithhistory.com/barack-obama-accomplishments/)
+
 [^42]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^43]: [2009 Nobel Peace Prize - Wikipedia](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize)
+
 [^44]: [Obama's Top 50 Accomplishments | Washington Monthly](https://washingtonmonthly.com/2012/03/01/obamas-top-50-accomplishments/)
+
 [^45]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^46]: [Obama's covert drone war in numbers: ten times more strikes than Bush](https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush)
+
 [^47]: [Obama's covert drone war in numbers: ten times more strikes than Bush](https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush)
+
 [^48]: [Why Barack Obama ramped up drone strikes from George W. Bush | Ústav mezinárodních vztahů](https://www.iir.cz/why-barack-obama-ramped-up-drone-strikes-from-george-w-bush)
+
 [^49]: [Civilian casualties from the United States drone strikes - Wikipedia](https://en.wikipedia.org/wiki/Civilian_casualties_from_the_United_States_drone_strikes)
+
 [^50]: [Barack Obama Is A War Criminal - Harvard Political Review](https://harvardpolitics.com/obama-war-criminal/)
+
 [^51]: [Finally, Obama Breaks His Silence on Drones | Brookings](https://www.brookings.edu/articles/finally-obama-breaks-his-silence-on-drones/)
+
 [^52]: [Was the use of drone strikes by the Obama Administration racialised? - Human Security Centre](https://www.hscentre.org/africa/use-drone-strikes-obama-administration-racialised/)
+
 [^53]: [Finally, Obama Breaks His Silence on Drones | Brookings](https://www.brookings.edu/articles/finally-obama-breaks-his-silence-on-drones/)
+
 [^54]: [Ten Years after the al-Awlaki Killing: A Reckoning for the United States' Drones Wars Awaits - Modern War Institute](https://mwi.westpoint.edu/ten-years-after-the-al-awlaki-killing-a-reckoning-for-the-united-states-drones-wars-awaits/)
+
 [^55]: [2009 Nobel Peace Prize - Wikipedia](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize)
+
 [^56]: [Nobel Peace Prize 2009](https://www.nobelprize.org/prizes/peace/2009/obama/facts/)
+
 [^57]: [Years Later, Obama's Peace Prize Still Tangled in War Debates](https://www.voanews.com/a/barack-obama-nobel-peace-prize-war-debates/3540070.html)
+
 [^58]: [Despite Nobel Peace Prize, Obama has had 2 full terms of war | The Seattle Times](https://www.seattletimes.com/nation-world/despite-nobel-peace-prize-obama-has-had-2-full-terms-of-war/)
+
 [^59]: [Obama and the Nobel Peace Prize | Brookings](https://www.brookings.edu/articles/obama-and-the-nobel-peace-prize/)
+
 [^60]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^61]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^62]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^63]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^64]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^65]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^66]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^67]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^68]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^69]: [Family of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Barack_Obama)
+
 [^70]: [Michelle Obama - Wikipedia](https://en.wikipedia.org/wiki/Michelle_Obama)
+
 [^71]: [Barack Obama: Family Life | Miller Center](https://millercenter.org/president/obama/family-life)
+
 [^72]: [Michelle Obama | Biography & Facts | Britannica](https://www.britannica.com/biography/Michelle-Obama)
+
 [^73]: [Family of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Barack_Obama)
+
 [^74]: [Barack Obama: Family Life | Miller Center](https://millercenter.org/president/obama/family-life)
+
 [^75]: [Family of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Barack_Obama)
+
 [^76]: [Barack Obama: Family Life | Miller Center](https://millercenter.org/president/obama/family-life)
+
 [^77]: [Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama)
+
 [^78]: [Barack Obama: Impact and Legacy | Miller Center](https://millercenter.org/president/obama/impact-and-legacy)
+
 [^79]: [In depth: How the Affordable Care Act changed America | The Obama Foundation](https://www.obama.org/stories/13-years-aca/)
+
 [^80]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^81]: [Barack Obama: Impact and Legacy | Miller Center](https://millercenter.org/president/obama/impact-and-legacy)
+
 [^82]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^83]: [Barack Obama: Impact and Legacy | Miller Center](https://millercenter.org/president/obama/impact-and-legacy)
+
 [^84]: [President Barack Obama's Legacy: 10 Historians Weigh In | TIME](https://time.com/4632190/historians-obamas-legacy/)
+
 [^85]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^86]: [Barack Obama: Impact and Legacy | Miller Center](https://millercenter.org/president/obama/impact-and-legacy)
+
 [^87]: [President Barack Obama's Legacy: 10 Historians Weigh In | TIME](https://time.com/4632190/historians-obamas-legacy/)
+
 [^88]: [Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama)
+
 [^89]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^90]: [The Presidency of Barack Obama: A First Historical Assessment on JSTOR](https://www.jstor.org/stable/j.ctvc777dh)
+
 [^91]: [Historians Assess Obama's Legacy Under Trump's Shadow | Department of History](https://history.princeton.edu/news-events/news/historians-assess-obamas-legacy-under-trumps-shadow)
+
 [^92]: [President Barack Obama's Legacy: 10 Historians Weigh In | TIME](https://time.com/4632190/historians-obamas-legacy/)
+
 [^93]: [15 quotes that capture the essence of Obama's presidency](https://www.nbcnews.com/storyline/president-obama-the-legacy/15-most-telling-quotes-obama-s-presidency-n703081)
+
 [^94]: [Barack Obama: Impact and Legacy | Miller Center](https://millercenter.org/president/obama/impact-and-legacy)
+
 [^95]: [Looking Back on President Barack Obama's Legacy: Hope and Change | SpringerLink](https://link.springer.com/book/10.1007/978-3-030-01545-9)
+
 [^96]: [Barack Obama: Impact and Legacy | Miller Center](https://millercenter.org/president/obama/impact-and-legacy)
+
 [^97]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^98]: [Barack Obama Is A War Criminal - Harvard Political Review](https://harvardpolitics.com/obama-war-criminal/)
+
 [^99]: [Barack Obama: Impact and Legacy | Miller Center](https://millercenter.org/president/obama/impact-and-legacy)
+
 [^100]: [Presidency of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama)
+
 [^101]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^102]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^103]: [The fragile legacy of Barack Obama | Brookings](https://www.brookings.edu/articles/the-fragile-legacy-of-barack-obama/)
+
 [^104]: [2004 Democratic National Convention keynote address - Wikipedia](https://en.wikipedia.org/wiki/2004_Democratic_National_Convention_keynote_address)
+
 [^105]: [Barack Obama Quotes - BrainyQuote](https://www.brainyquote.com/authors/barack-obama-quotes)
+
 [^106]: [Speeches of Barack Obama - Wikipedia](https://en.wikipedia.org/wiki/Speeches_of_Barack_Obama)
+
 [^107]: [99 Most Inspirational Barack Obama Quotes](https://www.goodgoodgood.co/articles/barack-obama-quotes)
+
 [^108]: [99 Most Inspirational Barack Obama Quotes](https://www.goodgoodgood.co/articles/barack-obama-quotes)
+
 [^109]: [Obama's Inaugural Address: 5 Quotes History Will Remember - Government Executive](https://www.govexec.com/management/2013/01/obamas-inaugural-address-5-lines-history-will-remember/60799/)
+
 [^110]: [15 Barack Obama quotes that still hit, wisdom that moves generations](https://www.revolt.tv/article/15-inspirational-barack-obama-quotes)
+
 [^111]: [15 quotes that capture the essence of Obama's presidency](https://www.nbcnews.com/storyline/president-obama-the-legacy/15-most-telling-quotes-obama-s-presidency-n703081)
+
 [^112]: [The best of Obama's speeches | PBS News](https://www.pbs.org/newshour/politics/ahead-obamas-farewell-address-look-back-best-speeches)

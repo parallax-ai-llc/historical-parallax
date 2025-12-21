@@ -45,11 +45,13 @@ The Rustenburg platinum belt in North West Province:
 ### Union Rivalry: NUM vs. AMCU
 
 **National Union of Mineworkers (NUM):**
+
 - Historically the main mining union
 - Closely allied with ANC and COSATU federation
 - Criticized for becoming bureaucratic and too close to management
 
 **Association of Mineworkers and Construction Union (AMCU):**
+
 - Breakaway union; more militant
 - Gained support among frustrated workers
 - Rejected establishment politics
@@ -65,6 +67,7 @@ This rivalry created volatile conditions at Marikana.[^6]
 In early August 2012, rock drill operators (RDOs) at Lonmin's Marikana mine began an unprotected ("wildcat") strike:
 
 **Demands:**
+
 - Increase basic wage from approximately R4,000 (~$500) to R12,500 (~$1,500) per month
 - Improved living conditions
 - Recognition of AMCU
@@ -87,11 +90,13 @@ By August 15, ten people were already dead. Strikers gathered on a rocky hill (t
 On August 16, police deployed in force around the koppie:
 
 **Police Action:**
+
 - Armored vehicles, water cannons, barbed wire
 - Approximately 4,000 police officers
 - Officers carried R5 assault rifles
 
 **What Happened:**
+
 - Police attempted to disperse and disarm strikers
 - Tear gas and stun grenades fired
 - A portion of strikers moved toward a gap in the barbed wire
@@ -99,6 +104,7 @@ On August 16, police deployed in force around the koppie:
 - In approximately 12 seconds, 17 workers were killed at "Scene 1"
 
 **Scene 2:**
+
 - A second group of miners fled toward a small kraal (enclosure)
 - Police pursued and fired
 - 17 more workers killed—many shot at close range or in the back
@@ -109,10 +115,12 @@ On August 16, police deployed in force around the koppie:
 ## Death Toll and Casualties
 
 **August 16, 2012:**
+
 - 34 workers killed by police
 - 78 injured (many seriously)
 
 **Total during strike (August 10-16):**
+
 - 44 people killed including:
   - 34 miners (August 16)
   - 2 police officers (killed by strikers)
@@ -120,6 +128,7 @@ On August 16, police deployed in force around the koppie:
   - 6 miners (in earlier incidents)
 
 **Arrests:**
+
 - 270 miners arrested; initially charged with murder of their colleagues (charges dropped after outcry)[^10]
 
 ---
@@ -128,30 +137,30 @@ On August 16, police deployed in force around the koppie:
 
 ### Miners/Workers
 
-| Name | Role |
-|------|------|
-| Mgcineni "Mambush" Noki | Strike leader; known for green blanket; killed |
-| Thousands of rock drill operators | Strikers demanding living wage |
+| Name                              | Role                                           |
+| --------------------------------- | ---------------------------------------------- |
+| Mgcineni "Mambush" Noki           | Strike leader; known for green blanket; killed |
+| Thousands of rock drill operators | Strikers demanding living wage                 |
 
 ### Unions
 
-| Organization | Role |
-|--------------|------|
-| AMCU (Joseph Mathunjwa) | Insurgent union; represented strikers |
-| NUM | Established union; seen as too close to management |
+| Organization            | Role                                               |
+| ----------------------- | -------------------------------------------------- |
+| AMCU (Joseph Mathunjwa) | Insurgent union; represented strikers              |
+| NUM                     | Established union; seen as too close to management |
 
 ### Government/Corporate
 
-| Name | Role |
-|------|------|
-| Riah Phiyega | National Police Commissioner |
-| Cyril Ramaphosa | Lonmin board member; ANC leader (now President) |
-| Lonmin executives | Mining company; requested police action |
+| Name              | Role                                            |
+| ----------------- | ----------------------------------------------- |
+| Riah Phiyega      | National Police Commissioner                    |
+| Cyril Ramaphosa   | Lonmin board member; ANC leader (now President) |
+| Lonmin executives | Mining company; requested police action         |
 
 ### Investigation
 
-| Name | Role |
-|------|------|
+| Name       | Role                                         |
+| ---------- | -------------------------------------------- |
 | Ian Farlam | Retired judge; chaired Commission of Inquiry |
 
 ---
@@ -163,6 +172,7 @@ Following the massacre, President Jacob Zuma established a Commission of Inquiry
 **Duration:** October 2012 - June 2015
 
 **Findings:**
+
 - Criticized SAPS for inadequate planning and tactical errors
 - Found police's claim of self-defense contained "material inconsistencies"
 - Criticized Lonmin for failure to address housing and worker conditions
@@ -170,10 +180,12 @@ Following the massacre, President Jacob Zuma established a Commission of Inquiry
 - Criticized Cyril Ramaphosa's communications with police but stopped short of blaming him directly
 
 **Recommendations:**
+
 - Possible prosecutions of police officers
 - Further investigation of specific incidents
 
 **Outcome:**
+
 - No criminal prosecutions resulted
 - IPID (Independent Police Investigative Directorate) investigations remained incomplete
 - Impunity persisted[^11]
@@ -236,41 +248,58 @@ Following the massacre, President Jacob Zuma established a Commission of Inquiry
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| August 10, 2012 | Strike begins; rubber bullets used |
-| August 11, 2012 | Two Lonmin security guards killed |
-| August 12, 2012 | Two police officers and two strikers killed |
-| August 13, 2012 | NUM shop steward killed |
-| August 15, 2012 | Strikers gather on koppie with traditional weapons |
-| August 16, 2012 | Police kill 34 miners |
-| August 17, 2012 | 270 miners arrested; charged with murder |
-| September 2, 2012 | Murder charges against miners dropped |
-| October 2012 | Farlam Commission established |
-| September 2013 | Strike ends with 11-22% wage increase |
-| June 2015 | Farlam Commission report released |
-| 2018 | Cyril Ramaphosa becomes President |
-| 2024 | Still no criminal prosecutions |
+| Date              | Event                                              |
+| ----------------- | -------------------------------------------------- |
+| August 10, 2012   | Strike begins; rubber bullets used                 |
+| August 11, 2012   | Two Lonmin security guards killed                  |
+| August 12, 2012   | Two police officers and two strikers killed        |
+| August 13, 2012   | NUM shop steward killed                            |
+| August 15, 2012   | Strikers gather on koppie with traditional weapons |
+| August 16, 2012   | Police kill 34 miners                              |
+| August 17, 2012   | 270 miners arrested; charged with murder           |
+| September 2, 2012 | Murder charges against miners dropped              |
+| October 2012      | Farlam Commission established                      |
+| September 2013    | Strike ends with 11-22% wage increase              |
+| June 2015         | Farlam Commission report released                  |
+| 2018              | Cyril Ramaphosa becomes President                  |
+| 2024              | Still no criminal prosecutions                     |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Marikana Massacre](https://en.wikipedia.org/wiki/Marikana_massacre)
+
 [^2]: [SA History - Background](https://www.sahistory.org.za/article/marikana-massacre-16-august-2012)
+
 [^3]: [The Guardian - Massacre Coverage](https://www.theguardian.com/world/2012/aug/17/south-africa-mine-shootings-lonmin)
+
 [^4]: [Cambridge - Post-Apartheid Economy](https://www.cambridge.org/core/journals/marikana-south-africa)
+
 [^5]: [Mining Review - Platinum Belt](https://www.miningreview.com/marikana-massacre/)
+
 [^6]: [CUNY - NUM vs AMCU](https://academicworks.cuny.edu/gc_etds/marikana/)
+
 [^7]: [Swarthmore - Strike Origins](https://nvdatabase.swarthmore.edu/content/south-african-miners-marikana-2012)
+
 [^8]: [The Guardian - Pre-Massacre Violence](https://www.theguardian.com/world/2012/aug/16/south-africa-marikana)
+
 [^9]: [Bureau of Investigative Journalism - Scene 2](https://www.thebureauinvestigates.com/stories/marikana-massacre-scene-2)
+
 [^10]: [Daily Maverick - Death Toll](https://www.dailymaverick.co.za/article/marikana-massacre/)
+
 [^11]: [Chatham House - Farlam Commission](https://www.chathamhouse.org/publications/marikana-farlam-report)
+
 [^12]: [Conectas - Structural Violence](https://www.conectas.org/en/news/marikana-massacre-12-years/)
+
 [^13]: [Mail & Guardian - Worker Betrayal](https://mg.co.za/article/marikana-workers-betrayed/)
+
 [^14]: [Daily Maverick - Ramaphosa](https://www.dailymaverick.co.za/article/ramaphosa-marikana/)
+
 [^15]: [The Guardian - Lonmin Collusion](https://www.theguardian.com/world/2013/oct/25/marikana-lonmin-police)
+
 [^16]: [Inroads Journal - Impunity](https://inroadsjournal.ca/marikana-impunity/)
+
 [^17]: [Morning Star - Commemoration](https://morningstaronline.co.uk/article/f/marikana-massacre-anniversary)
+
 [^18]: [OUP - Compensation](https://www.oup.com/academic/marikana/)

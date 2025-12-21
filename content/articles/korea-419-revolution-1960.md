@@ -37,6 +37,7 @@ Syngman Rhee (이승만) ruled South Korea from 1948:
 Rhee's fourth term election was brazenly fraudulent:
 
 **Methods:**
+
 - Pre-marked ballots stuffed into boxes
 - Voters forced to vote in groups (open voting)
 - Opposition poll watchers excluded
@@ -53,6 +54,7 @@ The public knew it was a lie. In Masan, protests began immediately.[^5]
 ### Masan Uprising (March 15)
 
 Protests erupted in Masan on election day:
+
 - Demonstrators attacked polling stations
 - Police fired on crowds; seven killed
 - Martial law declared locally
@@ -61,6 +63,7 @@ Protests erupted in Masan on election day:
 ### Kim Ju-yul's Discovery (April 11)
 
 **April 11:** Kim Ju-yul's body found floating in Masan harbor
+
 - Tear gas grenade embedded in his skull (fired into his eye)
 - Government initially claimed drowning
 - Protesters forced into hospital morgue; saw the truth
@@ -75,6 +78,7 @@ Korea University students marched in Seoul; attacked by political thugs on their
 ### April 19: "Bloody Tuesday"
 
 **April 19, 1960:**
+
 - 100,000+ students from universities and high schools marched in Seoul
 - Protesters headed toward the Blue House (presidential residence)
 - Police opened fire with live ammunition
@@ -86,7 +90,8 @@ Korea University students marched in Seoul; attacked by political thugs on their
 
 **April 25:** University professors joined, marching in academic robes—a decisive symbolic shift
 
-**April 26:** 
+**April 26:**
+
 - National Assembly demanded Rhee's resignation
 - US expressed concern; withdrew support
 - Rhee announced resignation and exile
@@ -114,24 +119,24 @@ The youngest were teenagers; many shot in the back while fleeing.[^10]
 
 ### Students
 
-| Name | Role |
-|------|------|
+| Name                | Role                        |
+| ------------------- | --------------------------- |
 | Kim Ju-yul (김주열) | High school student; martyr |
-| Students nationwide | Main force of revolution |
+| Students nationwide | Main force of revolution    |
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Syngman Rhee (이승만) | President; resigned April 26 |
+| Name                  | Role                          |
+| --------------------- | ----------------------------- |
+| Syngman Rhee (이승만) | President; resigned April 26  |
 | Lee Ki-poong (이기붕) | Vice President-elect; suicide |
 
 ### Post-Revolution
 
-| Name | Role |
-|------|------|
-| Yun Po-sun (윤보선) | President of Second Republic |
-| Chang Myon (장면) | Prime Minister of Second Republic |
+| Name                | Role                              |
+| ------------------- | --------------------------------- |
+| Yun Po-sun (윤보선) | President of Second Republic      |
+| Chang Myon (장면)   | Prime Minister of Second Republic |
 
 ---
 
@@ -197,35 +202,48 @@ The 4.19 Revolution established that Koreans would not accept authoritarian rule
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
+| Date           | Event                                        |
+| -------------- | -------------------------------------------- |
 | March 15, 1960 | Rigged presidential election; Masan protests |
-| March 15, 1960 | Kim Ju-yul disappears |
-| April 11, 1960 | Kim Ju-yul's body discovered |
-| April 18, 1960 | Korea University students march |
-| April 19, 1960 | "Bloody Tuesday"; ~180 killed |
-| April 19, 1960 | Martial law declared |
-| April 25, 1960 | Professors march |
-| April 26, 1960 | Rhee resigns |
-| April 28, 1960 | Rhee leaves for Hawaii |
-| June 1960 | Second Republic established |
-| May 16, 1961 | Military coup ends Second Republic |
+| March 15, 1960 | Kim Ju-yul disappears                        |
+| April 11, 1960 | Kim Ju-yul's body discovered                 |
+| April 18, 1960 | Korea University students march              |
+| April 19, 1960 | "Bloody Tuesday"; ~180 killed                |
+| April 19, 1960 | Martial law declared                         |
+| April 25, 1960 | Professors march                             |
+| April 26, 1960 | Rhee resigns                                 |
+| April 28, 1960 | Rhee leaves for Hawaii                       |
+| June 1960      | Second Republic established                  |
+| May 16, 1961   | Military coup ends Second Republic           |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - April Revolution](https://en.wikipedia.org/wiki/April_Revolution)
+
 [^2]: [Working Class History - Kim Ju-yul](https://workingclasshistory.com/2020/04/11/on-this-day-11-april-1960-kim-ju-yul/)
+
 [^3]: [Swarthmore - Global Nonviolent Action Database](https://nvdatabase.swarthmore.edu/content/south-koreans-bring-down-syngman-rhee-regime-1960)
+
 [^4]: [Wikipedia - Syngman Rhee](https://en.wikipedia.org/wiki/Syngman_Rhee)
+
 [^5]: [Grokipedia - March 15 Election](https://grokipedia.com/south-korean-election-fraud-1960)
+
 [^6]: [Korea History Society](https://khs.go.kr/april-revolution/)
+
 [^7]: [KBS - Kim Ju-yul](https://www.kbs.co.kr/kim-ju-yul-1960/)
+
 [^8]: [Monash University - April 19](https://www.monash.edu/arts/april-19-revolution/)
+
 [^9]: [ADST - Rhee's Fall](https://adst.org/oral-history/syngman-rhee/)
+
 [^10]: [Wikipedia - Casualties](https://en.wikipedia.org/wiki/April_Revolution#Casualties)
+
 [^11]: [Korea Times - Legacy](https://www.koreatimes.co.kr/www/nation/2020/04/april-19-legacy/)
+
 [^12]: [Fluent Korean - Analysis](https://fluentkorean.com/april-19-revolution/)
+
 [^13]: [GGCF - 4.19 Memory](https://ggcf.kr/april-19-revolution/)
+
 [^14]: [Wikiwand - Overview](https://www.wikiwand.com/en/April_Revolution)

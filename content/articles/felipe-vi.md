@@ -155,25 +155,25 @@ Some critics argue that Felipe has inherited his father's problems without his f
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1968 | Born on January 30 in Madrid, Spain |
-| 1977 | Sworn in as Prince of Asturias and heir to the Spanish throne at age 9 |
-| 1985 | Enters the General Military Academy in Zaragoza |
-| 1988 | Completes military training in Spanish Army, Navy, and Air Force |
-| 1993 | Graduates with law degree from Autonomous University of Madrid |
-| 1995 | Earns Master's degree in International Relations from Georgetown University |
-| 2000 | Becomes president of the Príncipe de Asturias Foundation |
-| 2004 | Marries Letizia Ortiz Rocasolano on May 22 |
-| 2005 | Birth of daughter Leonor, Princess of Asturias, on October 31 |
-| 2007 | Birth of daughter Infanta Sofía on April 29 |
-| 2014 | King Juan Carlos I announces abdication on June 2 |
-| 2014 | Proclaimed King of Spain on June 19 at age 46 |
-| 2017 | Delivers controversial televised address on Catalan independence crisis on October 3 |
+| Year | Event                                                                                    |
+| ---- | ---------------------------------------------------------------------------------------- |
+| 1968 | Born on January 30 in Madrid, Spain                                                      |
+| 1977 | Sworn in as Prince of Asturias and heir to the Spanish throne at age 9                   |
+| 1985 | Enters the General Military Academy in Zaragoza                                          |
+| 1988 | Completes military training in Spanish Army, Navy, and Air Force                         |
+| 1993 | Graduates with law degree from Autonomous University of Madrid                           |
+| 1995 | Earns Master's degree in International Relations from Georgetown University              |
+| 2000 | Becomes president of the Príncipe de Asturias Foundation                                 |
+| 2004 | Marries Letizia Ortiz Rocasolano on May 22                                               |
+| 2005 | Birth of daughter Leonor, Princess of Asturias, on October 31                            |
+| 2007 | Birth of daughter Infanta Sofía on April 29                                              |
+| 2014 | King Juan Carlos I announces abdication on June 2                                        |
+| 2014 | Proclaimed King of Spain on June 19 at age 46                                            |
+| 2017 | Delivers controversial televised address on Catalan independence crisis on October 3     |
 | 2020 | Renounces inheritance from his father and removes Juan Carlos I's royal stipend in March |
-| 2020 | Former King Juan Carlos I goes into exile in UAE in August |
-| 2020 | COVID-19 pandemic; Felipe takes voluntary pay cut and makes numerous public visits |
-| 2023 | Continues reign amid ongoing debates about monarchy's future in Spain |
+| 2020 | Former King Juan Carlos I goes into exile in UAE in August                               |
+| 2020 | COVID-19 pandemic; Felipe takes voluntary pay cut and makes numerous public visits       |
+| 2023 | Continues reign amid ongoing debates about monarchy's future in Spain                    |
 
 ---
 

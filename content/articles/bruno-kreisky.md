@@ -153,32 +153,32 @@ His response to terrorism, particularly the 1973 Schönau incident where he clos
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1911 | Born January 22 in Vienna to a Jewish middle-class family |
-| 1926 | Joins the Social Democratic Party at age 15 |
-| 1929 | Begins law studies at the University of Vienna |
+| Year | Event                                                                                   |
+| ---- | --------------------------------------------------------------------------------------- |
+| 1911 | Born January 22 in Vienna to a Jewish middle-class family                               |
+| 1926 | Joins the Social Democratic Party at age 15                                             |
+| 1929 | Begins law studies at the University of Vienna                                          |
 | 1934 | Continues socialist activities underground after party ban following Austrian Civil War |
-| 1935 | Arrested by Austrofascist regime; imprisoned for 17 months; completes doctorate in law |
-| 1938 | Flees to Sweden following the Anschluss (Nazi annexation of Austria) |
-| 1942 | Marries Vera Fürth in Sweden |
-| 1946 | Returns to Austria after World War II |
-| 1951 | Appointed State Secretary for Foreign Affairs |
-| 1953 | Elected to Austrian National Council (Parliament) |
-| 1955 | Plays key role in negotiating the Austrian State Treaty |
-| 1959 | Appointed Foreign Minister in coalition government |
-| 1967 | Elected chairman of the Social Democratic Party (SPÖ) |
-| 1970 | Becomes Chancellor of Austria, leading minority government |
-| 1971 | Wins absolute majority in early elections |
-| 1973 | Schönau incident: closes Jewish transit facility under terrorist pressure |
-| 1975 | Feud with Simon Wiesenthal over Friedrich Peter's Nazi past erupts |
-| 1975 | Re-elected with increased majority |
-| 1978 | Undergoes secret kidney transplant |
-| 1979 | Becomes first Western leader to officially meet PLO's Yasser Arafat |
-| 1979 | Re-elected for third consecutive absolute majority |
-| 1983 | SPÖ loses absolute majority in elections; Kreisky resigns as Chancellor |
-| 1983 | Resigns as SPÖ chairman, ending political career |
-| 1990 | Dies July 29 in Vienna at age 79 |
+| 1935 | Arrested by Austrofascist regime; imprisoned for 17 months; completes doctorate in law  |
+| 1938 | Flees to Sweden following the Anschluss (Nazi annexation of Austria)                    |
+| 1942 | Marries Vera Fürth in Sweden                                                            |
+| 1946 | Returns to Austria after World War II                                                   |
+| 1951 | Appointed State Secretary for Foreign Affairs                                           |
+| 1953 | Elected to Austrian National Council (Parliament)                                       |
+| 1955 | Plays key role in negotiating the Austrian State Treaty                                 |
+| 1959 | Appointed Foreign Minister in coalition government                                      |
+| 1967 | Elected chairman of the Social Democratic Party (SPÖ)                                   |
+| 1970 | Becomes Chancellor of Austria, leading minority government                              |
+| 1971 | Wins absolute majority in early elections                                               |
+| 1973 | Schönau incident: closes Jewish transit facility under terrorist pressure               |
+| 1975 | Feud with Simon Wiesenthal over Friedrich Peter's Nazi past erupts                      |
+| 1975 | Re-elected with increased majority                                                      |
+| 1978 | Undergoes secret kidney transplant                                                      |
+| 1979 | Becomes first Western leader to officially meet PLO's Yasser Arafat                     |
+| 1979 | Re-elected for third consecutive absolute majority                                      |
+| 1983 | SPÖ loses absolute majority in elections; Kreisky resigns as Chancellor                 |
+| 1983 | Resigns as SPÖ chairman, ending political career                                        |
+| 1990 | Dies July 29 in Vienna at age 79                                                        |
 
 ---
 
@@ -200,144 +200,284 @@ His response to terrorism, particularly the 1973 Schönau incident where he clos
 
 ## References
 
-[^1]: Bischof, Günter; Pelinka, Anton; Gehler, Michael (eds.). *Austrian Foreign Policy in Historical Context*. Transaction Publishers, 2006, p. 234.
-[^2]: Rathkolb, Oliver. *The Paradoxical Republic: Austria, 1945-2005*. Berghahn Books, 2010, p. 156.
-[^3]: Pelinka, Anton. *Austria: Out of the Shadow of the Past*. Westview Press, 1998, p. 78.
-[^4]: Knight, Robert. "Contours of Memory in Post-Nazi Austria." *Patterns of Prejudice* 34(4), 2000, pp. 37-59.
-[^5]: Kreisky, Bruno. *Between Times: Memoirs*. English edition, 1989, p. 12.
-[^6]: Secher, Herbert Pierre. *Bruno Kreisky: Chancellor of Austria*. University of Pittsburgh Press, 1993, p. 8.
-[^7]: Wodak, Ruth; De Cillia, Rudolf. *The Discursive Construction of National Identity*. Edinburgh University Press, 2009, p. 234.
-[^8]: Secher, *Bruno Kreisky*, p. 15.
-[^9]: Kreisky, *Between Times*, p. 34.
-[^10]: Pelinka, Anton. "Bruno Kreisky: Transforming Austria." *Austrian History Yearbook* 24, 1993, pp. 173-188.
-[^11]: Bauer, Kurt. *Der Februaraufstand 1934*. Czernin Verlag, 2004, p. 456.
-[^12]: Kreisky, *Between Times*, p. 41.
-[^13]: Secher, *Bruno Kreisky*, p. 22.
-[^14]: Steininger, Rolf. *Austria in the Twentieth Century*. Transaction Publishers, 2008, p. 67.
-[^15]: Kreisky, *Between Times*, p. 48.
-[^16]: Pauley, Bruce F. *From Prejudice to Persecution: A History of Austrian Anti-Semitism*. University of North Carolina Press, 1992, p. 289.
-[^17]: Secher, *Bruno Kreisky*, p. 29.
-[^18]: Kreisky, *Between Times*, p. 62.
-[^19]: Rathkolb, *The Paradoxical Republic*, p. 89.
-[^20]: Pelinka, *Austria: Out of the Shadow*, p. 82.
-[^21]: Bischof et al., *Austrian Foreign Policy*, p. 187.
-[^22]: Stourzh, Gerald. *Um Einheit und Freiheit: Staatsvertrag, Neutralität und das Ende der Ost-West-Besetzung Österreichs 1945-1955*. Böhlau Verlag, 2005, p. 412.
-[^23]: Secher, *Bruno Kreisky*, p. 56.
-[^24]: Bischof et al., *Austrian Foreign Policy*, p. 198.
+[^1]: Bischof, Günter; Pelinka, Anton; Gehler, Michael (eds.). _Austrian Foreign Policy in Historical Context_. Transaction Publishers, 2006, p. 234.
+
+[^2]: Rathkolb, Oliver. _The Paradoxical Republic: Austria, 1945-2005_. Berghahn Books, 2010, p. 156.
+
+[^3]: Pelinka, Anton. _Austria: Out of the Shadow of the Past_. Westview Press, 1998, p. 78.
+
+[^4]: Knight, Robert. "Contours of Memory in Post-Nazi Austria." _Patterns of Prejudice_ 34(4), 2000, pp. 37-59.
+
+[^5]: Kreisky, Bruno. _Between Times: Memoirs_. English edition, 1989, p. 12.
+
+[^6]: Secher, Herbert Pierre. _Bruno Kreisky: Chancellor of Austria_. University of Pittsburgh Press, 1993, p. 8.
+
+[^7]: Wodak, Ruth; De Cillia, Rudolf. _The Discursive Construction of National Identity_. Edinburgh University Press, 2009, p. 234.
+
+[^8]: Secher, _Bruno Kreisky_, p. 15.
+
+[^9]: Kreisky, _Between Times_, p. 34.
+
+[^10]: Pelinka, Anton. "Bruno Kreisky: Transforming Austria." _Austrian History Yearbook_ 24, 1993, pp. 173-188.
+
+[^11]: Bauer, Kurt. _Der Februaraufstand 1934_. Czernin Verlag, 2004, p. 456.
+
+[^12]: Kreisky, _Between Times_, p. 41.
+
+[^13]: Secher, _Bruno Kreisky_, p. 22.
+
+[^14]: Steininger, Rolf. _Austria in the Twentieth Century_. Transaction Publishers, 2008, p. 67.
+
+[^15]: Kreisky, _Between Times_, p. 48.
+
+[^16]: Pauley, Bruce F. _From Prejudice to Persecution: A History of Austrian Anti-Semitism_. University of North Carolina Press, 1992, p. 289.
+
+[^17]: Secher, _Bruno Kreisky_, p. 29.
+
+[^18]: Kreisky, _Between Times_, p. 62.
+
+[^19]: Rathkolb, _The Paradoxical Republic_, p. 89.
+
+[^20]: Pelinka, _Austria: Out of the Shadow_, p. 82.
+
+[^21]: Bischof et al., _Austrian Foreign Policy_, p. 187.
+
+[^22]: Stourzh, Gerald. _Um Einheit und Freiheit: Staatsvertrag, Neutralität und das Ende der Ost-West-Besetzung Österreichs 1945-1955_. Böhlau Verlag, 2005, p. 412.
+
+[^23]: Secher, _Bruno Kreisky_, p. 56.
+
+[^24]: Bischof et al., _Austrian Foreign Policy_, p. 198.
+
 [^25]: Pelinka, "Bruno Kreisky: Transforming Austria," p. 176.
-[^26]: Müller, Wolfgang C. "Austria." *European Journal of Political Research* Political Data Yearbook 41, 2002, pp. 861-869.
-[^27]: Pelinka, *Austria: Out of the Shadow*, p. 91.
-[^28]: Luther, Kurt Richard. "The SPÖ: From Kreisky to Vranitzky." *West European Politics* 14(3), 1991, pp. 81-97.
-[^29]: Secher, *Bruno Kreisky*, p. 89.
-[^30]: Rathkolb, *The Paradoxical Republic*, p. 178.
-[^31]: Pelinka, *Austria: Out of the Shadow*, p. 95.
-[^32]: Butschek, Felix. *Vom Staatsvertrag zur EU: Österreichische Wirtschaftsgeschichte von 1955 bis zur Gegenwart*. Böhlau Verlag, 2004, p. 156.
-[^33]: Tálos, Emmerich; Kittel, Bernhard. *Gesetzgebung in Österreich*. WUV-Universitätsverlag, 2001, p. 234.
-[^34]: Obinger, Herbert; Tálos, Emmerich. *Sozialstaat Österreich zwischen Kontinuität und Umbau*. VS Verlag, 2006, p. 89.
+
+[^26]: Müller, Wolfgang C. "Austria." _European Journal of Political Research_ Political Data Yearbook 41, 2002, pp. 861-869.
+
+[^27]: Pelinka, _Austria: Out of the Shadow_, p. 91.
+
+[^28]: Luther, Kurt Richard. "The SPÖ: From Kreisky to Vranitzky." _West European Politics_ 14(3), 1991, pp. 81-97.
+
+[^29]: Secher, _Bruno Kreisky_, p. 89.
+
+[^30]: Rathkolb, _The Paradoxical Republic_, p. 178.
+
+[^31]: Pelinka, _Austria: Out of the Shadow_, p. 95.
+
+[^32]: Butschek, Felix. _Vom Staatsvertrag zur EU: Österreichische Wirtschaftsgeschichte von 1955 bis zur Gegenwart_. Böhlau Verlag, 2004, p. 156.
+
+[^33]: Tálos, Emmerich; Kittel, Bernhard. _Gesetzgebung in Österreich_. WUV-Universitätsverlag, 2001, p. 234.
+
+[^34]: Obinger, Herbert; Tálos, Emmerich. _Sozialstaat Österreich zwischen Kontinuität und Umbau_. VS Verlag, 2006, p. 89.
+
 [^35]: Kreisky speech to Austrian Parliament, May 1975. Quoted in Secher, p. 134.
+
 [^36]: OECD Economic Surveys: Austria 1982. OECD Publishing, 1982, p. 23.
-[^37]: Engelbrecht, Helmut. *Geschichte des österreichischen Bildungswesens*, Vol. 5. Österreichischer Bundesverlag, 1988, p. 312.
-[^38]: Tálos and Kittel, *Gesetzgebung in Österreich*, p. 267.
-[^39]: Lassnigg, Lorenz. "Education Policy in Austria." *Journal of Education Policy* 15(4), 2000, pp. 485-499.
+
+[^37]: Engelbrecht, Helmut. _Geschichte des österreichischen Bildungswesens_, Vol. 5. Österreichischer Bundesverlag, 1988, p. 312.
+
+[^38]: Tálos and Kittel, _Gesetzgebung in Österreich_, p. 267.
+
+[^39]: Lassnigg, Lorenz. "Education Policy in Austria." _Journal of Education Policy_ 15(4), 2000, pp. 485-499.
+
 [^40]: Pelinka, "Bruno Kreisky: Transforming Austria," p. 181.
-[^41]: Rosenberger, Sieglinde; Sauer, Birgit (eds.). *Politikwissenschaft und Geschlecht*. UTB, 2004, p. 178.
-[^42]: Tálos and Kittel, *Gesetzgebung in Österreich*, p. 245.
-[^43]: Gehler, Michael. "From Crisis to Crisis: Austria's International Position 1945-1955." *Contemporary Austrian Studies* 13, 2005, pp. 89-117.
-[^44]: Bischof et al., *Austrian Foreign Policy*, p. 276.
-[^45]: Schaller, Christian. "Vienna as International Host City." *Austrian Foreign Policy Yearbook* 2007, pp. 234-256.
-[^46]: Secher, *Bruno Kreisky*, p. 187.
-[^47]: Embacher, Helga; Reiter, Margit. "Bruno Kreisky and the Israeli-Palestinian Conflict." *Contemporary Austrian Studies* 22, 2013, pp. 156-178.
-[^48]: Bischof et al., *Austrian Foreign Policy*, p. 298.
-[^49]: Secher, *Bruno Kreisky*, p. 203.
-[^50]: Butschek, *Vom Staatsvertrag zur EU*, p. 189.
+
+[^41]: Rosenberger, Sieglinde; Sauer, Birgit (eds.). _Politikwissenschaft und Geschlecht_. UTB, 2004, p. 178.
+
+[^42]: Tálos and Kittel, _Gesetzgebung in Österreich_, p. 245.
+
+[^43]: Gehler, Michael. "From Crisis to Crisis: Austria's International Position 1945-1955." _Contemporary Austrian Studies_ 13, 2005, pp. 89-117.
+
+[^44]: Bischof et al., _Austrian Foreign Policy_, p. 276.
+
+[^45]: Schaller, Christian. "Vienna as International Host City." _Austrian Foreign Policy Yearbook_ 2007, pp. 234-256.
+
+[^46]: Secher, _Bruno Kreisky_, p. 187.
+
+[^47]: Embacher, Helga; Reiter, Margit. "Bruno Kreisky and the Israeli-Palestinian Conflict." _Contemporary Austrian Studies_ 22, 2013, pp. 156-178.
+
+[^48]: Bischof et al., _Austrian Foreign Policy_, p. 298.
+
+[^49]: Secher, _Bruno Kreisky_, p. 203.
+
+[^50]: Butschek, _Vom Staatsvertrag zur EU_, p. 189.
+
 [^51]: OECD Economic Surveys: Austria 1980, p. 34.
-[^52]: Venus, Theodor. "Die verstaatlichte Industrie in Österreich." *Wirtschaft und Gesellschaft* 19(2), 1993, pp. 167-189.
+
+[^52]: Venus, Theodor. "Die verstaatlichte Industrie in Österreich." _Wirtschaft und Gesellschaft_ 19(2), 1993, pp. 167-189.
+
 [^53]: Knight, "Contours of Memory," p. 45.
-[^54]: Uhl, Heidemarie. "From Victim Myth to Co-Responsibility Thesis." *Austrian History Yearbook* 36, 2005, pp. 40-72.
-[^55]: Wiesenthal, Simon. *Justice Not Vengeance*. Grove Weidenfeld, 1989, p. 278.
-[^56]: Pick, Hella. *Simon Wiesenthal: A Life in Search of Justice*. Northeastern University Press, 1996, p. 298.
-[^57]: Knight, Robert. "The Waldheim Context: Austria and Nazism." *Times Literary Supplement*, October 3, 1986, pp. 1085-1086.
+
+[^54]: Uhl, Heidemarie. "From Victim Myth to Co-Responsibility Thesis." _Austrian History Yearbook_ 36, 2005, pp. 40-72.
+
+[^55]: Wiesenthal, Simon. _Justice Not Vengeance_. Grove Weidenfeld, 1989, p. 278.
+
+[^56]: Pick, Hella. _Simon Wiesenthal: A Life in Search of Justice_. Northeastern University Press, 1996, p. 298.
+
+[^57]: Knight, Robert. "The Waldheim Context: Austria and Nazism." _Times Literary Supplement_, October 3, 1986, pp. 1085-1086.
+
 [^58]: Embacher and Reiter, "Bruno Kreisky and the Israeli-Palestinian Conflict," p. 162.
-[^59]: Bunzl, John. "Between Anti-Semitism and Arabophilia: Bruno Kreisky's Middle East Policy." *Patterns of Prejudice* 21(2), 1987, pp. 3-15.
+
+[^59]: Bunzl, John. "Between Anti-Semitism and Arabophilia: Bruno Kreisky's Middle East Policy." _Patterns of Prejudice_ 21(2), 1987, pp. 3-15.
+
 [^60]: Embacher and Reiter, p. 171.
-[^61]: Schneider, Friedrich. "The Austrian Economic Miracle and Its Decline." *Empirica* 22(3), 1995, pp. 217-241.
+
+[^61]: Schneider, Friedrich. "The Austrian Economic Miracle and Its Decline." _Empirica_ 22(3), 1995, pp. 217-241.
+
 [^62]: OECD Economic Surveys: Austria 1984, p. 56.
-[^63]: Butschek, *Vom Staatsvertrag zur EU*, p. 234.
-[^64]: Reiter, Margit. "Austria and the Middle East Conflict 1973-1989." *Contemporary Austrian Studies* 16, 2008, pp. 123-145.
-[^65]: Wistrich, Robert. "Bruno Kreisky, Austria and the Palestinians." *Jewish Political Studies Review* 7(1-2), 1995, pp. 83-106.
-[^66]: Secher, *Bruno Kreisky*, p. 167.
+
+[^63]: Butschek, _Vom Staatsvertrag zur EU_, p. 234.
+
+[^64]: Reiter, Margit. "Austria and the Middle East Conflict 1973-1989." _Contemporary Austrian Studies_ 16, 2008, pp. 123-145.
+
+[^65]: Wistrich, Robert. "Bruno Kreisky, Austria and the Palestinians." _Jewish Political Studies Review_ 7(1-2), 1995, pp. 83-106.
+
+[^66]: Secher, _Bruno Kreisky_, p. 167.
+
 [^67]: Luther, "The SPÖ: From Kreisky to Vranitzky," p. 88.
-[^68]: Müller, Wolfgang C. "Political Traditions and the Role of the State." *West European Politics* 15(1), 1992, pp. 157-176.
+
+[^68]: Müller, Wolfgang C. "Political Traditions and the Role of the State." _West European Politics_ 15(1), 1992, pp. 157-176.
+
 [^69]: Luther, p. 91.
-[^70]: Pelinka, *Austria: Out of the Shadow*, p. 134.
-[^71]: Secher, *Bruno Kreisky*, p. 298.
-[^72]: Kreisky, *Between Times*, p. 68.
-[^73]: Secher, *Bruno Kreisky*, p. 32.
-[^74]: "Vera Kreisky obituary," *Der Standard*, November 15, 2015.
-[^75]: Secher, *Bruno Kreisky*, p. 33.
-[^76]: "The Kreisky Family: Private Lives in Public Service," *Profil*, July 1990, pp. 34-38.
-[^77]: Kreisky, *Between Times*, p. 287.
+
+[^70]: Pelinka, _Austria: Out of the Shadow_, p. 134.
+
+[^71]: Secher, _Bruno Kreisky_, p. 298.
+
+[^72]: Kreisky, _Between Times_, p. 68.
+
+[^73]: Secher, _Bruno Kreisky_, p. 32.
+
+[^74]: "Vera Kreisky obituary," _Der Standard_, November 15, 2015.
+
+[^75]: Secher, _Bruno Kreisky_, p. 33.
+
+[^76]: "The Kreisky Family: Private Lives in Public Service," _Profil_, July 1990, pp. 34-38.
+
+[^77]: Kreisky, _Between Times_, p. 287.
+
 [^78]: Pelinka, "Bruno Kreisky: Transforming Austria," p. 175.
-[^79]: Secher, *Bruno Kreisky*, p. 41.
-[^80]: Kreisky, *Between Times*, p. 298.
-[^81]: Pick, *Simon Wiesenthal*, p. 302.
+
+[^79]: Secher, _Bruno Kreisky_, p. 41.
+
+[^80]: Kreisky, _Between Times_, p. 298.
+
+[^81]: Pick, _Simon Wiesenthal_, p. 302.
+
 [^82]: Wistrich, "Bruno Kreisky, Austria and the Palestinians," p. 95.
-[^83]: Secher, *Bruno Kreisky*, p. 245.
-[^84]: "Kreisky's Secret: Kidney Transplant in 1978," *Die Presse*, August 1, 1990.
-[^85]: Secher, *Bruno Kreisky*, p. 249.
+
+[^83]: Secher, _Bruno Kreisky_, p. 245.
+
+[^84]: "Kreisky's Secret: Kidney Transplant in 1978," _Die Presse_, August 1, 1990.
+
+[^85]: Secher, _Bruno Kreisky_, p. 249.
+
 [^86]: "Bruno Kreisky Forum for International Dialogue: History and Mission," official website, accessed 2025.
-[^87]: Kreisky, Bruno. *Der Kampf um Österreich: Reden und Beiträge*. Paul Zsolnay Verlag, 1988.
-[^88]: "Bruno Kreisky, Austrian Leader, Dies at 79," *New York Times*, July 30, 1990.
-[^89]: "Thousands Mourn Kreisky at State Funeral," *Der Standard*, August 3, 1990.
-[^90]: "Kreisky's Legacy Honored," *Die Presse*, August 4, 1990.
-[^91]: Rathkolb, *The Paradoxical Republic*, p. 298.
-[^92]: Pelinka, *Austria: Out of the Shadow*, p. 187.
-[^93]: Tálos, Emmerich. "Das austrokeynesianische Modell." *Wirtschaft und Gesellschaft* 25(3), 1999, pp. 407-432.
-[^94]: Obinger and Tálos, *Sozialstaat Österreich*, p. 145.
-[^95]: Karlhofer, Ferdinand; Tálos, Emmerich. *Sozialpartnerschaft und EU*. Signum Verlag, 1996, p. 67.
+
+[^87]: Kreisky, Bruno. _Der Kampf um Österreich: Reden und Beiträge_. Paul Zsolnay Verlag, 1988.
+
+[^88]: "Bruno Kreisky, Austrian Leader, Dies at 79," _New York Times_, July 30, 1990.
+
+[^89]: "Thousands Mourn Kreisky at State Funeral," _Der Standard_, August 3, 1990.
+
+[^90]: "Kreisky's Legacy Honored," _Die Presse_, August 4, 1990.
+
+[^91]: Rathkolb, _The Paradoxical Republic_, p. 298.
+
+[^92]: Pelinka, _Austria: Out of the Shadow_, p. 187.
+
+[^93]: Tálos, Emmerich. "Das austrokeynesianische Modell." _Wirtschaft und Gesellschaft_ 25(3), 1999, pp. 407-432.
+
+[^94]: Obinger and Tálos, _Sozialstaat Österreich_, p. 145.
+
+[^95]: Karlhofer, Ferdinand; Tálos, Emmerich. _Sozialpartnerschaft und EU_. Signum Verlag, 1996, p. 67.
+
 [^96]: Schaller, "Vienna as International Host City," p. 245.
-[^97]: Luif, Paul. "On the Road to Brussels: The Political Dimension of Austria's, Finland's and Sweden's Accession to the European Union." *Austrian Journal of Political Science* 24(2), 1995, pp. 187-204.
+
+[^97]: Luif, Paul. "On the Road to Brussels: The Political Dimension of Austria's, Finland's and Sweden's Accession to the European Union." _Austrian Journal of Political Science_ 24(2), 1995, pp. 187-204.
+
 [^98]: Uhl, "From Victim Myth to Co-Responsibility Thesis," p. 58.
+
 [^99]: Knight, "Contours of Memory," p. 52.
-[^100]: Wodak, Ruth. "The Waldheim Affair and Austrian National Identity." *National Identities* 9(2), 2007, pp. 143-162.
+
+[^100]: Wodak, Ruth. "The Waldheim Affair and Austrian National Identity." _National Identities_ 9(2), 2007, pp. 143-162.
+
 [^101]: Schneider, "The Austrian Economic Miracle," p. 229.
-[^102]: Butschek, *Vom Staatsvertrag zur EU*, p. 267.
-[^103]: Aiginger, Karl. "The Privatisation Experiment in Austria." *Austrian Economic Quarterly* 4(1), 1999, pp. 261-270.
-[^104]: Misgeld, Klaus; Molin, Karl; Åmark, Klas (eds.). *Creating Social Democracy: A Century of the Social Democratic Labor Party in Sweden*. Penn State Press, 1992, p. 378.
-[^105]: Sassoon, Donald. *One Hundred Years of Socialism*. The New Press, 1996, p. 489.
+
+[^102]: Butschek, _Vom Staatsvertrag zur EU_, p. 267.
+
+[^103]: Aiginger, Karl. "The Privatisation Experiment in Austria." _Austrian Economic Quarterly_ 4(1), 1999, pp. 261-270.
+
+[^104]: Misgeld, Klaus; Molin, Karl; Åmark, Klas (eds.). _Creating Social Democracy: A Century of the Social Democratic Labor Party in Sweden_. Penn State Press, 1992, p. 378.
+
+[^105]: Sassoon, Donald. _One Hundred Years of Socialism_. The New Press, 1996, p. 489.
+
 [^106]: "Bruno Kreisky Forum: Mission and Activities," accessed December 2025.
+
 [^107]: "Bruno Kreisky Prize for Human Rights," official award documentation, 2024.
-[^108]: "Greatest Austrians Poll," *Der Standard*, November 2005.
-[^109]: Pelinka, *Austria: Out of the Shadow*, p. 198.
-[^110]: Rathkolb, *The Paradoxical Republic*, p. 305.
-[^111]: Rathkolb, Oliver. Interview in *Profil*, January 2011, p. 67.
-[^112]: Obinger and Tálos, *Sozialstaat Österreich*, p. 156.
+
+[^108]: "Greatest Austrians Poll," _Der Standard_, November 2005.
+
+[^109]: Pelinka, _Austria: Out of the Shadow_, p. 198.
+
+[^110]: Rathkolb, _The Paradoxical Republic_, p. 305.
+
+[^111]: Rathkolb, Oliver. Interview in _Profil_, January 2011, p. 67.
+
+[^112]: Obinger and Tálos, _Sozialstaat Österreich_, p. 156.
+
 [^113]: Pelinka, "Bruno Kreisky: Transforming Austria," p. 187.
-[^114]: Brandt, Willy. *Erinnerungen*. Propyläen Verlag, 1989, p. 456.
+
+[^114]: Brandt, Willy. _Erinnerungen_. Propyläen Verlag, 1989, p. 456.
+
 [^115]: Brandt, eulogy for Bruno Kreisky, August 1990, quoted in Secher, p. 312.
-[^116]: Steininger, *Austria in the Twentieth Century*, p. 234.
-[^117]: Rathkolb, *The Paradoxical Republic*, p. 167.
-[^118]: Gehler, Michael. "Austria and the German Question 1987-1990." *Contemporary Austrian Studies* 5, 1997, pp. 156-178.
+
+[^116]: Steininger, _Austria in the Twentieth Century_, p. 234.
+
+[^117]: Rathkolb, _The Paradoxical Republic_, p. 167.
+
+[^118]: Gehler, Michael. "Austria and the German Question 1987-1990." _Contemporary Austrian Studies_ 5, 1997, pp. 156-178.
+
 [^119]: Tálos, "Das austrokeynesianische Modell," p. 421.
+
 [^120]: OECD Economic Surveys: Austria 1982, p. 89.
+
 [^121]: Embacher and Reiter, "Bruno Kreisky and the Israeli-Palestinian Conflict," p. 175.
-[^122]: Secher, *Bruno Kreisky*, p. 289.
+
+[^122]: Secher, _Bruno Kreisky_, p. 289.
+
 [^123]: Knight, "Contours of Memory," p. 48.
-[^124]: Knight, Robert. "Neutrality, Not Sympathy: Jews in Post-War Austria." In *The Jews in Austria: Essays on Their Life, History and Destruction*, edited by Josef Fraenkel. Vallentine Mitchell, 1967, pp. 234-256.
-[^125]: Wiesenthal, *Justice Not Vengeance*, p. 298.
-[^126]: Pick, *Simon Wiesenthal*, p. 312.
+
+[^124]: Knight, Robert. "Neutrality, Not Sympathy: Jews in Post-War Austria." In _The Jews in Austria: Essays on Their Life, History and Destruction_, edited by Josef Fraenkel. Vallentine Mitchell, 1967, pp. 234-256.
+
+[^125]: Wiesenthal, _Justice Not Vengeance_, p. 298.
+
+[^126]: Pick, _Simon Wiesenthal_, p. 312.
+
 [^127]: Schneider, "The Austrian Economic Miracle," p. 234.
-[^128]: Schneider, Friedrich. "Public Choice—Public Finance." *Public Choice* 77(1), 1993, pp. 165-175.
+
+[^128]: Schneider, Friedrich. "Public Choice—Public Finance." _Public Choice_ 77(1), 1993, pp. 165-175.
+
 [^129]: Luther, "The SPÖ: From Kreisky to Vranitzky," p. 92.
+
 [^130]: Müller, "Political Traditions and the Role of the State," p. 168.
+
 [^131]: Wistrich, "Bruno Kreisky, Austria and the Palestinians," p. 101.
+
 [^132]: Bunzl, "Between Anti-Semitism and Arabophilia," p. 12.
+
 [^133]: Embacher and Reiter, "Bruno Kreisky and the Israeli-Palestinian Conflict," p. 173.
+
 [^134]: Reiter, "Austria and the Middle East Conflict," p. 134.
+
 [^135]: Wistrich, p. 98.
+
 [^136]: Austrian Parliament records, May 1975.
-[^137]: Kreisky, *Between Times*, p. 234.
-[^138]: Interview with *Der Spiegel*, March 1973.
+
+[^137]: Kreisky, _Between Times_, p. 234.
+
+[^138]: Interview with _Der Spiegel_, March 1973.
+
 [^139]: Speech at UN General Assembly, September 1975.
+
 [^140]: Interview with Austrian television, November 1978.
-[^141]: *Der Kampf um Österreich*, p. 89.
+
+[^141]: _Der Kampf um Österreich_, p. 89.

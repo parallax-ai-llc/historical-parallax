@@ -63,16 +63,19 @@ French universities in 1968 were overcrowded and outdated:
 ### Nanterre: The Spark
 
 **March 22, 1968:**
+
 - Students at Nanterre occupied administration building
 - Led by Daniel Cohn-Bendit, known as "Dany le Rouge" (Danny the Red)
 - Protested police presence, Vietnam War, and university conditions
 - **March 22 Movement** born
 
 **April-May:**
+
 - Protests continued; authorities threatened closure
 - **May 2:** Nanterre closed
 
 **May 3:** Students gathered at Sorbonne in solidarity
+
 - Police entered campus—unprecedented violation of university autonomy
 - Clashes erupted
 - Hundreds arrested
@@ -85,12 +88,14 @@ French universities in 1968 were overcrowded and outdated:
 The police action that was meant to end the protests transformed them into something larger.
 
 **Evening of May 10:**
+
 - 20,000 students gathered in Latin Quarter
 - Police blocked all exits
 - Students began building barricades in streets of Paris
 - **Cobblestones torn up** (later iconic: "Sous les pavés, la plage"—"Under the paving stones, the beach")
 
 **Night:**
+
 - Police charged repeatedly with tear gas and batons
 - Violent clashes until 5:30 AM
 - **367 injured** (official figure; actual much higher)
@@ -110,14 +115,17 @@ The trade unions—CGT (Communist), CFDT, FO—called a one-day general strike i
 **But then something unexpected happened: workers didn't go back.**
 
 **May 14:**
+
 - Sud-Aviation factory near Nantes occupied by workers
 - Management locked in offices
 
 **May 15:**
+
 - Renault factories occupied
 - Citroën, other major industries followed
 
 **May 17-20:**
+
 - Strike spread nationwide
 - **Ten million workers** on strike—the largest in French history
 - Transportation halted
@@ -127,6 +135,7 @@ The trade unions—CGT (Communist), CFDT, FO—called a one-day general strike i
 - France paralyzed
 
 **Not led by unions:** The strikes were wildcat, spontaneous. Workers demanded:
+
 - 35% wage increase
 - 40-hour workweek
 - Retirement at 60
@@ -139,24 +148,28 @@ The trade unions—CGT (Communist), CFDT, FO—called a one-day general strike i
 For ten days, France seemed on the brink of revolution:
 
 **Occupied spaces:**
+
 - Sorbonne: 24-hour debates, art, music
 - Odéon Theatre: Seized; endless assemblies
 - Factories flying red flags
 - Radio stations broadcasting uncensored
 
 **Atmosphere:**
+
 - Festival of ideas
 - Sexual liberation
 - Artistic experimentation
 - "L'imagination au pouvoir" (Power to the imagination)
 
 **Famous graffiti:**
+
 - "Be realistic—demand the impossible"
 - "It is forbidden to forbid"
 - "Under the paving stones, the beach"
 - "Run, comrade, the old world is behind you"
 
 **But questions loomed:**
+
 - What were the demands?
 - Who was leading?
 - Was there a revolutionary organization?
@@ -165,11 +178,13 @@ For ten days, France seemed on the brink of revolution:
 ### De Gaulle's Crisis
 
 **May 24:**
+
 - De Gaulle addressed nation on television
 - Proposed referendum on reform
 - Speech fell flat; protests continued
 
 **May 25-27:**
+
 - Prime Minister Georges Pompidou negotiated with unions
 - **Grenelle Accords:** 35% minimum wage increase; 10% average wage increase; shorter hours
 - But workers rejected the deal; wanted more
@@ -183,6 +198,7 @@ For ten days, France seemed on the brink of revolution:
 **General Massu reassured him:** The army would support him.
 
 **May 30:** De Gaulle returned and addressed the nation by radio:
+
 - Announced dissolution of National Assembly
 - Called new elections
 - Warned of Communist takeover
@@ -197,12 +213,14 @@ For ten days, France seemed on the brink of revolution:
 ### June 1968
 
 **The tide turned:**
+
 - Workers gradually returned to jobs (with Grenelle benefits)
 - Students dispersed
 - Police cleared occupied buildings
 - Fuel restored; trains ran
 
 **June 23 and 30:** Elections held
+
 - Gaullists won massive majority: 358 of 487 seats
 - Biggest landslide in French history
 - Communist Party punished for appearing revolutionary
@@ -215,6 +233,7 @@ For ten days, France seemed on the brink of revolution:
 ## Casualties
 
 **Deaths:** Officially 7 (some estimates higher)
+
 - Several in various incidents during the weeks of unrest
 - Including a police officer drowned in the Seine
 - A student died in Lyon
@@ -231,34 +250,34 @@ For ten days, France seemed on the brink of revolution:
 
 ### Student Leaders
 
-| Name | Role |
-|------|------|
+| Name               | Role                                                 |
+| ------------------ | ---------------------------------------------------- |
 | Daniel Cohn-Bendit | "Dany the Red"; Nanterre leader; later EU politician |
-| Alain Geismar | SNESup (teachers' union); student organizer |
-| Jacques Sauvageot | UNEF student union vice-president |
+| Alain Geismar      | SNESup (teachers' union); student organizer          |
+| Jacques Sauvageot  | UNEF student union vice-president                    |
 
 ### Workers and Unions
 
-| Name/Organization | Role |
-|-------------------|------|
-| CGT (Communist) | Major union; tried to control strikes |
-| CFDT | Major union; more open to alliances with students |
-| Georges Séguy | CGT General Secretary |
+| Name/Organization | Role                                              |
+| ----------------- | ------------------------------------------------- |
+| CGT (Communist)   | Major union; tried to control strikes             |
+| CFDT              | Major union; more open to alliances with students |
+| Georges Séguy     | CGT General Secretary                             |
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Charles de Gaulle | President; nearly toppled |
-| Georges Pompidou | Prime Minister; negotiated Grenelle Accords |
+| Name              | Role                                        |
+| ----------------- | ------------------------------------------- |
+| Charles de Gaulle | President; nearly toppled                   |
+| Georges Pompidou  | Prime Minister; negotiated Grenelle Accords |
 
 ### Intellectuals
 
-| Name | Role |
-|------|------|
-| Jean-Paul Sartre | Philosopher; visited occupied Sorbonne; supported students |
-| Simone de Beauvoir | Feminist philosopher; supported movement |
-| Guy Debord | Situationist theorist; influenced ideas |
+| Name               | Role                                                       |
+| ------------------ | ---------------------------------------------------------- |
+| Jean-Paul Sartre   | Philosopher; visited occupied Sorbonne; supported students |
+| Simone de Beauvoir | Feminist philosopher; supported movement                   |
+| Guy Debord         | Situationist theorist; influenced ideas                    |
 
 ---
 
@@ -267,6 +286,7 @@ For ten days, France seemed on the brink of revolution:
 ### Workers' Demands
 
 **Concrete:**
+
 - Higher wages
 - Shorter hours
 - Better conditions
@@ -277,6 +297,7 @@ For ten days, France seemed on the brink of revolution:
 ### Students' Demands
 
 **More diffuse:**
+
 - University reform
 - End authoritarianism
 - Sexual freedom
@@ -291,6 +312,7 @@ For ten days, France seemed on the brink of revolution:
 **Could it have succeeded?**
 
 Arguments against:
+
 - No unified leadership
 - Communist Party (CGT) opposed revolution
 - Army loyal to de Gaulle
@@ -298,6 +320,7 @@ Arguments against:
 - Majority of French wanted order
 
 Arguments for:
+
 - State was paralyzed for weeks
 - De Gaulle nearly resigned
 - If Communist Party had joined...
@@ -310,17 +333,20 @@ Arguments for:
 ### Immediate
 
 **De Gaulle's fall:**
+
 - Won the election, but authority weakened
 - April 1969: Lost a referendum on reform
 - Resigned immediately
 - Died in November 1970
 
 **University reform:**
+
 - Faure Law (1968) decentralized universities
 - More student participation established
 - But fundamental structures remained
 
 **Economic:**
+
 - Wage increases achieved (Grenelle)
 - But inflation followed
 - Workers gained in short term[^15]
@@ -330,6 +356,7 @@ Arguments for:
 **What May '68 actually changed:**
 
 **Culture:**
+
 - End of paternalistic authority
 - Sexual revolution accelerated
 - Feminism strengthened (though male-dominated in '68)
@@ -337,6 +364,7 @@ Arguments for:
 - Media freed from state control
 
 **Politics:**
+
 - Rise of "New Left" movements
 - Environmentalism
 - Feminism
@@ -352,6 +380,7 @@ Arguments for:
 ### Conservative View
 
 The events of May 1968 were:
+
 - Irresponsible utopian fantasy
 - Threat to order and democracy
 - Beginning of moral decline
@@ -362,6 +391,7 @@ The events of May 1968 were:
 ### Progressive View
 
 The events were:
+
 - Genuine popular uprising
 - Expansion of freedom and rights
 - Critique of authoritarianism
@@ -382,15 +412,15 @@ The events were:
 
 May 1968 in France was part of a worldwide wave:
 
-| Location | Events |
-|----------|--------|
-| Czechoslovakia | Prague Spring; crushed by Soviet invasion |
-| Mexico | Tlatelolco Massacre (October) |
-| United States | MLK assassination; RFK assassination; Chicago DNC protests |
-| Japan | Massive student protests |
-| West Germany | Student movement; RAF beginnings |
-| Poland | March '68 antisemitic campaign |
-| Brazil | March of 100,000 |
+| Location       | Events                                                     |
+| -------------- | ---------------------------------------------------------- |
+| Czechoslovakia | Prague Spring; crushed by Soviet invasion                  |
+| Mexico         | Tlatelolco Massacre (October)                              |
+| United States  | MLK assassination; RFK assassination; Chicago DNC protests |
+| Japan          | Massive student protests                                   |
+| West Germany   | Student movement; RAF beginnings                           |
+| Poland         | March '68 antisemitic campaign                             |
+| Brazil         | March of 100,000                                           |
 
 **1968 was a global moment of rebellion—and global suppression.**[^18]
 
@@ -415,13 +445,16 @@ May 1968 in France was part of a worldwide wave:
 ### Cultural Memory
 
 **Films:**
+
 - "The Dreamers" (Bertolucci, 2003)
 - Numerous documentaries
 
 **Books:**
+
 - Thousands of memoirs, analyses, histories
 
 **Images:**
+
 - Cobblestones and barricades iconic
 - Posters of Atelier Populaire collectors' items
 - "Under the paving stones, the beach" on t-shirts worldwide[^19]
@@ -430,43 +463,61 @@ May 1968 in France was part of a worldwide wave:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| March 22, 1968 | Nanterre occupation begins |
-| May 2, 1968 | Nanterre closed |
-| May 3, 1968 | Sorbonne protests; police intervention |
-| May 10-11, 1968 | Night of the Barricades |
-| May 13, 1968 | General strike; 1 million march |
-| May 14-20, 1968 | Factory occupations spread nationwide |
-| May 20, 1968 | 10 million workers on strike |
-| May 24, 1968 | De Gaulle's failed address |
-| May 27, 1968 | Grenelle Accords signed (rejected by workers) |
-| May 29, 1968 | De Gaulle disappears to Baden-Baden |
-| May 30, 1968 | De Gaulle's radio address; Gaullist demonstration |
-| June 1968 | Workers return; occupations cleared |
-| June 23-30, 1968 | Elections; Gaullist landslide |
-| April 1969 | De Gaulle resigns after lost referendum |
+| Date             | Event                                             |
+| ---------------- | ------------------------------------------------- |
+| March 22, 1968   | Nanterre occupation begins                        |
+| May 2, 1968      | Nanterre closed                                   |
+| May 3, 1968      | Sorbonne protests; police intervention            |
+| May 10-11, 1968  | Night of the Barricades                           |
+| May 13, 1968     | General strike; 1 million march                   |
+| May 14-20, 1968  | Factory occupations spread nationwide             |
+| May 20, 1968     | 10 million workers on strike                      |
+| May 24, 1968     | De Gaulle's failed address                        |
+| May 27, 1968     | Grenelle Accords signed (rejected by workers)     |
+| May 29, 1968     | De Gaulle disappears to Baden-Baden               |
+| May 30, 1968     | De Gaulle's radio address; Gaullist demonstration |
+| June 1968        | Workers return; occupations cleared               |
+| June 23-30, 1968 | Elections; Gaullist landslide                     |
+| April 1969       | De Gaulle resigns after lost referendum           |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - May 1968 events in France](https://en.wikipedia.org/wiki/May_1968_events_in_France)
+
 [^2]: [Britannica - May 1968](https://www.britannica.com/event/May-1968)
+
 [^3]: [Frenchly - May 1968 explained](https://frenchly.us/may-1968-france/)
+
 [^4]: [Swarthmore NVDB - French movement](https://nvdatabase.swarthmore.edu/content/french-students-and-workers-launch-may-1968-rebellion)
+
 [^5]: [EBSCO - Context](https://www.ebsco.com/research-starters/history/may-1968-france)
+
 [^6]: [MagellanTV - University crisis](https://www.magellantv.com/articles/may-1968-france)
+
 [^7]: [Wikipedia - March 22 Movement](https://en.wikipedia.org/wiki/22_March_Movement)
+
 [^8]: [Frenchly - Night of Barricades](https://frenchly.us/may-1968-france/)
+
 [^9]: [Rozenberg Quarterly - Workers strike](http://rozenbergquarterly.com/may-1968-france-workers/)
+
 [^10]: [CVCE - Analysis](https://www.cvce.eu/en/collections/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/02bb76df-d066-4c08-a58a-d4686a3e68ff)
+
 [^11]: [Virginia Tech - De Gaulle's response](https://vtnews.vt.edu/articles/2018/05/clahs-degaullee1968.html)
+
 [^12]: [Britannica - Elections](https://www.britannica.com/event/May-1968)
+
 [^13]: [Wikipedia - Casualties](https://en.wikipedia.org/wiki/May_1968_events_in_France)
+
 [^14]: [Le Monde diplomatique - Analysis](https://mondediplo.com/2008/05/07may68)
+
 [^15]: [Wikipedia - Aftermath](https://en.wikipedia.org/wiki/May_1968_events_in_France#Aftermath)
+
 [^16]: [The Guardian - Legacy](https://www.theguardian.com/world/2008/mar/30/france.may1968)
+
 [^17]: [Jacobin - Historical assessment](https://jacobinmag.com/tag/may-68)
+
 [^18]: [JSTOR - Global 1968](https://www.jstor.org/stable/i25044145)
+
 [^19]: [BFI - Cultural legacy](https://www.bfi.org.uk/sight-and-sound/features/may-68-film/)

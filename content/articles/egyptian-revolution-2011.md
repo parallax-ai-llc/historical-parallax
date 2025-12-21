@@ -27,18 +27,21 @@ The revolution's aftermath proved tragically complex. After Egypt's first free p
 Hosni Mubarak came to power in October 1981 following the assassination of President Anwar Sadat. For nearly three decades, he maintained authoritarian rule through:
 
 **Political Repression:**
+
 - Continuous "state of emergency" (1981-2012) granting police unlimited powers
 - Rigged elections maintaining National Democratic Party (NDP) dominance
 - Suppression of opposition parties and civil society
 - Extensive surveillance and censorship[^4]
 
 **Economic Grievances:**
+
 - High unemployment, especially among youth (estimated 25%+ for ages 15-29)
 - Rising food prices and inflation
 - Extreme inequality—while Mubarak's circle enriched themselves, 40% lived on under $2/day
 - Crony capitalism benefiting regime-connected elites[^5]
 
 **Police Brutality:**
+
 - The security services (particularly the hated State Security Investigations) operated with impunity
 - Torture in detention was routine
 - Extrajudicial killings, arbitrary arrests, and forced disappearances were common[^6]
@@ -60,6 +63,7 @@ On December 17, 2010, Tunisian street vendor Mohamed Bouazizi set himself on fir
 Egyptian activists chose January 25, 2011—National Police Day—to begin protests, deliberately challenging the security forces Egyptians most resented. Organizers used Facebook, Twitter, and other social media to coordinate demonstrations in Cairo, Alexandria, Suez, and other cities.[^9]
 
 The initial demands focused on:
+
 - End to police brutality
 - End to the state of emergency
 - Free and fair elections
@@ -70,6 +74,7 @@ As crowds grew larger than expected—tens of thousands in Cairo alone—demands
 ### January 28: "Friday of Rage"
 
 After Friday prayers on January 28, millions joined protests across Egypt. The government responded with:
+
 - Cutting internet and mobile phone services nationwide
 - Deploying riot police with tear gas, rubber bullets, and live ammunition
 - Curfew declarations (widely ignored)
@@ -103,6 +108,7 @@ Tahrir Square erupted in celebration. Egyptians across the country took to the s
 ## Death Toll
 
 **During the 18 Days (January 25 - February 11, 2011):**
+
 - At least 846 people killed
 - Over 6,000 injured
 - Most deaths caused by police gunfire; many victims shot in the head or chest
@@ -110,6 +116,7 @@ Tahrir Square erupted in celebration. Egyptians across the country took to the s
 
 **Beyond February 11:**
 Violence continued during the transitional period under SCAF, with additional casualties at:
+
 - Maspero massacre (October 2011): 28 Coptic Christian protesters killed
 - Port Said stadium riot (February 2012): 74 killed
 - Mohamed Mahmoud Street clashes (2011-2012): dozens killed[^15]
@@ -120,21 +127,21 @@ Violence continued during the transitional period under SCAF, with additional ca
 
 ### Revolutionary Movement
 
-| Name | Role |
-|------|------|
-| Wael Ghonim | Google executive; "We Are All Khaled Said" Facebook page administrator |
-| Asmaa Mahfouz | Activist whose viral video helped spark January 25 protests |
-| Ahmed Maher | April 6 Youth Movement co-founder |
-| Alaa Abd El Fattah | Blogger and activist (later imprisoned under Sisi) |
+| Name               | Role                                                                   |
+| ------------------ | ---------------------------------------------------------------------- |
+| Wael Ghonim        | Google executive; "We Are All Khaled Said" Facebook page administrator |
+| Asmaa Mahfouz      | Activist whose viral video helped spark January 25 protests            |
+| Ahmed Maher        | April 6 Youth Movement co-founder                                      |
+| Alaa Abd El Fattah | Blogger and activist (later imprisoned under Sisi)                     |
 
 ### Mubarak Regime
 
-| Name | Role | Fate |
-|------|------|------|
-| Hosni Mubarak | President 1981-2011 | Resigned; tried; convicted and later acquitted; died 2020 |
-| Omar Suleiman | Vice President; Intelligence Chief | Announced Mubarak's resignation; died 2012 |
-| Ahmed Shafik | Prime Minister (late Mubarak era) | Lost 2012 election to Morsi |
-| Habib el-Adly | Interior Minister | Convicted of corruption |
+| Name          | Role                               | Fate                                                      |
+| ------------- | ---------------------------------- | --------------------------------------------------------- |
+| Hosni Mubarak | President 1981-2011                | Resigned; tried; convicted and later acquitted; died 2020 |
+| Omar Suleiman | Vice President; Intelligence Chief | Announced Mubarak's resignation; died 2012                |
+| Ahmed Shafik  | Prime Minister (late Mubarak era)  | Lost 2012 election to Morsi                               |
+| Habib el-Adly | Interior Minister                  | Convicted of corruption                                   |
 
 ---
 
@@ -212,6 +219,7 @@ Sisi was elected president in 2014 and has maintained authoritarian control:
 ### Regional Impact
 
 The Egyptian revolution was central to the Arab Spring, which also saw:
+
 - Tunisia: Successful democratic transition
 - Libya: Overthrow of Gaddafi followed by civil war
 - Syria: Revolution became devastating civil war
@@ -221,6 +229,7 @@ The Egyptian revolution was central to the Arab Spring, which also saw:
 ### Activism and Memory
 
 Despite repression, the memory of Tahrir remains powerful:
+
 - Annual commemorations (often suppressed)
 - Cultural production: films, novels, music remember 2011
 - Diaspora activism continues
@@ -229,6 +238,7 @@ Despite repression, the memory of Tahrir remains powerful:
 ### Lessons
 
 The Egyptian experience offers lessons about:
+
 - The limits of social media-driven movements
 - The importance of building institutions alongside protests
 - The danger of military "guardianship" of democracy
@@ -238,55 +248,83 @@ The Egyptian experience offers lessons about:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1981 | Mubarak becomes president after Sadat's assassination |
-| June 6, 2010 | Khaled Said beaten to death by police |
-| December 17, 2010 | Tunisian revolution begins |
-| January 14, 2011 | Tunisian President Ben Ali flees |
-| January 25, 2011 | "Day of Rage" protests begin in Egypt |
-| January 28, 2011 | "Friday of Rage"; police overwhelmed; army deployed |
-| February 2, 2011 | "Battle of the Camel" at Tahrir Square |
-| February 11, 2011 | Mubarak resigns; SCAF takes power |
-| November 2011 | Mohamed Mahmoud Street clashes in Cairo |
-| June 24, 2012 | Mohamed Morsi elected president |
-| November 2012 | Constitutional crisis; anti-Morsi protests |
-| June 30, 2013 | Mass protests against Morsi |
-| July 3, 2013 | Military coup; Morsi arrested |
-| August 14, 2013 | Rabaa massacre; 800+ killed |
-| June 8, 2014 | Sisi inaugurated as president |
-| 2014-present | Continued repression under Sisi regime |
+| Date              | Event                                                 |
+| ----------------- | ----------------------------------------------------- |
+| 1981              | Mubarak becomes president after Sadat's assassination |
+| June 6, 2010      | Khaled Said beaten to death by police                 |
+| December 17, 2010 | Tunisian revolution begins                            |
+| January 14, 2011  | Tunisian President Ben Ali flees                      |
+| January 25, 2011  | "Day of Rage" protests begin in Egypt                 |
+| January 28, 2011  | "Friday of Rage"; police overwhelmed; army deployed   |
+| February 2, 2011  | "Battle of the Camel" at Tahrir Square                |
+| February 11, 2011 | Mubarak resigns; SCAF takes power                     |
+| November 2011     | Mohamed Mahmoud Street clashes in Cairo               |
+| June 24, 2012     | Mohamed Morsi elected president                       |
+| November 2012     | Constitutional crisis; anti-Morsi protests            |
+| June 30, 2013     | Mass protests against Morsi                           |
+| July 3, 2013      | Military coup; Morsi arrested                         |
+| August 14, 2013   | Rabaa massacre; 800+ killed                           |
+| June 8, 2014      | Sisi inaugurated as president                         |
+| 2014-present      | Continued repression under Sisi regime                |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Egyptian Revolution of 2011](https://en.wikipedia.org/wiki/Egyptian_revolution_of_2011)
+
 [^2]: [Al Jazeera - Egypt Revolution Timeline](https://www.aljazeera.com/news/2021/1/25/egypt-revolution-timeline)
+
 [^3]: [Wikipedia - 2013 Egyptian Coup](https://en.wikipedia.org/wiki/2013_Egyptian_coup_d%27%C3%A9tat)
+
 [^4]: [Britannica - Hosni Mubarak](https://www.britannica.com/biography/Hosni-Mubarak)
+
 [^5]: [Egypt Revolution 2011 UK - Economic Grievances](https://egyptrevolution2011.ac.uk/context/)
+
 [^6]: [Amnesty International - Egypt Police](https://www.amnesty.org/en/location/middle-east-and-north-africa/egypt/)
+
 [^7]: [Wikipedia - Khaled Said](https://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed)
+
 [^8]: [Britannica - Arab Spring](https://www.britannica.com/event/Arab-Spring)
+
 [^9]: [Al Jazeera - January 25](https://www.aljazeera.com/news/2011/1/25/egypt-protests-rage)
+
 [^10]: [Swarthmore - Friday of Rage](https://nvdatabase.swarthmore.edu/content/egyptians-bring-down-dictator-hosni-mubarak-2011)
-[^11]: [Wikipedia - Tahrir Square Protests](https://en.wikipedia.org/wiki/Tahrir_Square_protests_(2011))
-[^12]: [Wikipedia - Battle of the Camel](https://en.wikipedia.org/wiki/Battle_of_the_Camel_(Egypt))
+
+[^11]: [Wikipedia - Tahrir Square Protests](<https://en.wikipedia.org/wiki/Tahrir_Square_protests_(2011)>)
+
+[^12]: [Wikipedia - Battle of the Camel](<https://en.wikipedia.org/wiki/Battle_of_the_Camel_(Egypt)>)
+
 [^13]: [Al Jazeera - Mubarak Resigns](https://www.aljazeera.com/news/2011/2/11/egypt-mubarak-resigns)
+
 [^14]: [CBS News - Death Toll](https://www.cbsnews.com/news/egypt-revolution-death-toll-846/)
+
 [^15]: [Arab Center DC - Violence 2011-2013](https://arabcenterdc.org/resource/egypt-revolution-violence/)
+
 [^16]: [Wikipedia - SCAF Rule](https://en.wikipedia.org/wiki/Egyptian_revolution_of_2011)
+
 [^17]: [Britannica - Morsi Presidency](https://www.britannica.com/biography/Mohamed-Morsi)
+
 [^18]: [Middle East Eye - 2013 Coup](https://www.middleeasteye.net/news/egypt-coup-2013-sisi-morsi-anniversary)
+
 [^19]: [Wikipedia - Rabaa Massacre](https://en.wikipedia.org/wiki/August_2013_Rabaa_massacre)
+
 [^20]: [Cato Institute - Sisi's Repression](https://www.cato.org/commentary/egypts-general-sisi-anniversary)
+
 [^21]: [MERIP - Breaking Fear](https://www.merip.org/mero/mero012711)
+
 [^22]: [Hudson Institute - Democratic Moment](https://www.hudson.org/research/egypt-morsi-democracy)
+
 [^23]: [France 24 - Global Impact](https://www.france24.com/en/middle-east/tahrir-square-revolution-legacy)
+
 [^24]: [Cairo Review - Critical Assessment](https://www.thecairoreview.com/tahrir-forum/lessons-egypt-revolution/)
+
 [^25]: [Daily News Egypt - Stability Argument](https://www.dailynewsegypt.com/revolution-aftermath/)
+
 [^26]: [Al Ahram - Unfinished Business](https://english.ahram.org.eg/NewsContent/revolution-10-years)
+
 [^27]: [Wikipedia - Arab Spring](https://en.wikipedia.org/wiki/Arab_Spring)
+
 [^28]: [Embrace ME - Memory and Activism](https://embraceme.org/egypt-revolution-memory/)
+
 [^29]: [ORSAM - Lessons Learned](https://www.orsam.org.tr/en/egypt-muslim-brotherhood-future/)

@@ -113,30 +113,30 @@ Scholars studying North Korea emphasize that many of Kim's claimed revolutionary
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1912 | Born Kim Song-ju on April 15 in Mangyongdae, near Pyongyang, Korea |
-| 1919 | Family flees to Manchuria to escape Japanese occupation |
-| 1929 | Arrested and jailed for involvement in communist youth organization |
-| 1932 | Joins Communist Party of China |
-| 1935 | Joins Northeast Anti-Japanese United Army |
-| 1937 | Appointed commander of 6th division at age 24 |
-| 1940 | Flees to Soviet Union; serves in Soviet Red Army |
-| 1945 | Returns to Soviet-occupied North Korea in September |
-| 1945 | Elevated to leadership of Communist Party in December |
+| Year | Event                                                                             |
+| ---- | --------------------------------------------------------------------------------- |
+| 1912 | Born Kim Song-ju on April 15 in Mangyongdae, near Pyongyang, Korea                |
+| 1919 | Family flees to Manchuria to escape Japanese occupation                           |
+| 1929 | Arrested and jailed for involvement in communist youth organization               |
+| 1932 | Joins Communist Party of China                                                    |
+| 1935 | Joins Northeast Anti-Japanese United Army                                         |
+| 1937 | Appointed commander of 6th division at age 24                                     |
+| 1940 | Flees to Soviet Union; serves in Soviet Red Army                                  |
+| 1945 | Returns to Soviet-occupied North Korea in September                               |
+| 1945 | Elevated to leadership of Communist Party in December                             |
 | 1948 | Becomes premier when Democratic People's Republic of Korea founded on September 9 |
-| 1949 | Becomes chairman of Korean Workers' Party |
-| 1949 | Wife Kim Jong-suk dies in childbirth |
-| 1950 | Invades South Korea on June 25, starting Korean War |
-| 1952 | Marries Kim Song-ae |
-| 1953 | Korean War ends in armistice on July 27 |
-| 1955 | Delivers first speech on Juche ideology |
-| 1956 | Survives Soviet and Chinese efforts to remove him from power |
-| 1961 | 4th Party Congress consolidates Kim loyalist control of all key positions |
-| 1972 | Assumes position of president and head of state |
-| 1980 | Publicly designates son Kim Jong-il as successor at 6th Party Congress |
-| 1994 | Dies of heart attack on July 8 in Pyongyang at age 82 |
-| 1994 | Declared "Eternal President" of North Korea |
+| 1949 | Becomes chairman of Korean Workers' Party                                         |
+| 1949 | Wife Kim Jong-suk dies in childbirth                                              |
+| 1950 | Invades South Korea on June 25, starting Korean War                               |
+| 1952 | Marries Kim Song-ae                                                               |
+| 1953 | Korean War ends in armistice on July 27                                           |
+| 1955 | Delivers first speech on Juche ideology                                           |
+| 1956 | Survives Soviet and Chinese efforts to remove him from power                      |
+| 1961 | 4th Party Congress consolidates Kim loyalist control of all key positions         |
+| 1972 | Assumes position of president and head of state                                   |
+| 1980 | Publicly designates son Kim Jong-il as successor at 6th Party Congress            |
+| 1994 | Dies of heart attack on July 8 in Pyongyang at age 82                             |
+| 1994 | Declared "Eternal President" of North Korea                                       |
 
 ---
 
@@ -157,166 +157,329 @@ Scholars studying North Korea emphasize that many of Kim's claimed revolutionary
 ## References
 
 [^1]: https://www.britannica.com/biography/Kim-Il-Sung
+
 [^2]: https://en.wikipedia.org/wiki/Kim_Il_Sung
+
 [^3]: https://www.wilsoncenter.org/publication/mostly-propaganda-nature-kim-il-sung-the-juche-ideology-and-the-second-korean-war
+
 [^4]: https://en.wikipedia.org/wiki/North_Korean_cult_of_personality
+
 [^5]: https://www.pbs.org/tpt/dictators-playbook/episodes/kim-il-sung/
+
 [^6]: https://alphahistory.com/coldwar/kim-il-sung/
+
 [^7]: https://study.com/academy/lesson/kim-il-sung-leadership-death-biography.html
+
 [^8]: https://www.biography.com/political-figures/kim-il-sung
+
 [^9]: https://guides.library.cornell.edu/c.php?g=225914&p=1497380
+
 [^10]: https://en.wikipedia.org/wiki/Kim_Hyong-jik
+
 [^11]: https://www.geni.com/people/Kim-Il-sung-1st-President-of-the-Democratic-People-s-Republic-of-Korea/6000000013356093211
+
 [^12]: https://factsanddetails.com/korea/North_Korea/Modern_History_2/entry-7165.html
+
 [^13]: https://kids.kiddle.co/Kim_Il-sung
+
 [^14]: https://www.encyclopedia.com/people/history/korean-history-biographies/kim-il-sung
+
 [^15]: https://www.nkleadershipwatch.org/kim-family/
+
 [^16]: https://www.britannica.com/summary/Kim-Il-Sung
+
 [^17]: https://digitalarchive.wilsoncenter.org/people/kim-il-sung
+
 [^18]: https://www.imdb.com/name/nm0453487/
+
 [^19]: https://www.aljazeera.com/features/2017/2/24/meet-the-kims-whos-who-in-north-koreas-first-family
+
 [^20]: https://www.hrw.org/news/2016/04/13/north-korea-kim-il-sungs-catastrophic-rights-legacy
+
 [^21]: https://alphahistory.com/coldwar/north-korea/
+
 [^22]: https://scholarworks.arcadia.edu/cgi/viewcontent.cgi?article=1011&context=senior_theses
+
 [^23]: https://www.thefamouspeople.com/profiles/kim-il-sung-5792.php
+
 [^24]: https://cup.columbia.edu/book/kim-il-sung/9780231065733/
+
 [^25]: https://www.asianstudies.org/publications/eaa/archives/kim-il-sung-the-north-korean-leader/
+
 [^26]: https://www.hurstpublishers.com/book/accidental-tyrant/
+
 [^27]: https://en.wikipedia.org/wiki/Human_rights_in_North_Korea
+
 [^28]: https://law.bepress.com/cgi/viewcontent.cgi?article=6372&context=expresso
+
 [^29]: https://www.hrnkinsider.org/2016/08/the-human-rights-factor-changes-under.html
+
 [^30]: https://1997-2001.state.gov/global/human_rights/1997_hrp_report/northkor.html
+
 [^31]: https://www.hrw.org/news/2021/12/16/north-korea-abusive-rule-10-years-after-kim-jong-il
+
 [^32]: https://partnersinjustice.org/our-work/where-we-work/dprk/
+
 [^33]: https://www.hawaii.edu/powerkills/SOD.CHAP10.HTM
+
 [^34]: https://military-history.fandom.com/wiki/Kim_Il-sung
+
 [^35]: https://en.prolewiki.org/wiki/Kim_Il_Sung
+
 [^36]: https://historica.fandom.com/wiki/Kim-il-sung
+
 [^37]: https://www.wikidata.org/wiki/Q41117
+
 [^38]: https://commons.wikimedia.org/wiki/Kim_Il-sung
+
 [^39]: https://commons.wikimedia.org/wiki/Category:Portraits_of_Kim_Il-sung
+
 [^40]: https://en.wikipedia.org/wiki/Kim_Il-sung_University
+
 [^41]: https://en.wikipedia.org/wiki/Juche
+
 [^42]: https://link.springer.com/chapter/10.1057/9781137455666_14
+
 [^43]: https://time.com/wp-content/uploads/2014/12/korea1.pdf
+
 [^44]: https://philarchive.org/archive/KIMDJA
+
 [^45]: https://kfausa.org/wp-content/uploads/2020/04/President-Kim-Il-Sung-and-Juche-Idea-In-the-Historic-Days-of-External-Activities.pdf
+
 [^46]: https://huxley.media/en/10-laws-of-tyranny-kim-il-sung-of-north-korea/
+
 [^47]: https://medium.com/@alaricus96/kim-il-sung-on-the-universal-significance-of-the-juche-idea-8738836eecd1
+
 [^48]: https://en.wikipedia.org/wiki/Ideology_of_the_Workers'_Party_of_Korea
+
 [^49]: https://factsanddetails.com/korea/North_Korea/Modern_History_2/entry-7166.html
+
 [^50]: https://www.nknews.org/2018/12/how-the-kim-cult-of-personality-came-to-dominate-north-korean-life/
+
 [^51]: https://sites.uab.edu/humanrights/2022/12/05/how-the-north-korean-regime-uses-cult-like-tactics-to-maintain-power/
+
 [^52]: https://www.peninsuladispatch.com/p/the-evolution-of-kim-jong-uns-cult
+
 [^53]: https://www.numberanalytics.com/blog/kim-il-sung-asian-history
+
 [^54]: https://scholarworks.arcadia.edu/senior_theses/10/
+
 [^55]: https://en.wikipedia.org/wiki/Kim_Il_Sung_and_Kim_Jong_Il_portraits
+
 [^56]: https://www.wilsonquarterly.com/quarterly/korea-70-years-on/past-present
+
 [^57]: https://fiveable.me/key-terms/hs-honors-world-history/kim-il-sung
+
 [^58]: https://academic.oup.com/ehr/article-abstract/140/603/515/8102988
+
 [^59]: https://www.tandfonline.com/doi/abs/10.1080/14682745.2016.1265508?tab=permissions&scroll=top
+
 [^60]: https://www.tandfonline.com/doi/full/10.1080/10357823.2023.2226814
+
 [^61]: https://usakoreainstitute.org/wp-content/uploads/2010/02/USKI_WP09_Jensen.pdf
+
 [^62]: https://www.biography.com/political-figures/kim-jong-il
+
 [^63]: https://factsanddetails.com/korea/North_Korea/Modern_History_2/entry-7194.html
+
 [^64]: https://digitalarchive.wilsoncenter.org/people/kim-jeong-suk
+
 [^65]: https://archive-yaleglobal.yale.edu/content/north-korea-life-after-kim
+
 [^66]: https://en.wikipedia.org/wiki/Kim_family_(North_Korea)
+
 [^67]: https://en.wikiquote.org/wiki/Kim_Il-sung
+
 [^68]: https://www.brainyquote.com/authors/kim-il-sung-quotes
+
 [^69]: https://www.azquotes.com/author/14397-Kim_Il_sung
+
 [^70]: https://www.quotetab.com/quotes/by-kim-il-sung
+
 [^71]: https://www.goodreads.com/quotes/tag/kim-il-sung
+
 [^72]: https://sinonk.com/wp-content/uploads/2012/01/quotes-from-chairman-kim-il-sung.pdf
+
 [^73]: https://www.marxists.org/archive/kim-jong-il/bio/aphorisms.pdf
+
 [^74]: https://www.inspiringquotes.us/author/2547-kim-il-sung
+
 [^75]: https://quotesgram.com/kim-il-sung-quotes/
+
 [^76]: https://www.deseret.com/2011/12/19/20239107/key-events-in-the-life-of-north-korea-s-kim-jong-il/
+
 [^77]: Kim Il Sung - Wikipedia
+
 [^78]: The Kims: Leaders' Biographies - Cornell University LibGuides
+
 [^79]: Kim Il-Sung | Life, Presidency & Death | Study.com
+
 [^80]: Kim Il-Sung | Biography, Facts, Leadership of North Korea | Britannica
+
 [^81]: Kim Il-sung - Alpha History
+
 [^82]: North Korea under Kim Il-Sung - Alpha History
+
 [^83]: Kim Il Sung | The Dictator's Playbook - PBS
+
 [^84]: Cult of Personality: North Korea under Kim Il-Sung - Arcadia University
+
 [^85]: Kim, Il Sung | Wilson Center Digital Archive
+
 [^86]: North Korea: Kim Il-Sung's Catastrophic Rights Legacy | Human Rights Watch
+
 [^87]: Human rights in North Korea - Wikipedia
+
 [^88]: A Case for the Prosecution of Kim Jong Il for Crimes against Humanity
+
 [^89]: The Human Rights Factor: Changes Under Kim Jong-un
+
 [^90]: 1997 Human Rights Report: Democratic People's Republic of Korea
+
 [^91]: North Korea: Abusive Rule 10 Years after Kim Jong Il | Human Rights Watch
+
 [^92]: The Democratic People's Republic of Korea - Partners in Justice
+
 [^93]: STATISTICS OF NORTH KOREAN GENOCIDE AND MASS MURDER
+
 [^94]: Kim Family | North Korea Leadership Watch
+
 [^95]: Kim family (North Korea) - Wikipedia
+
 [^96]: Kim Jong Il - Death, North Korea & Family - Biography.com
+
 [^97]: KIM JONG IL: HIS EARLY LIFE, WOMEN, FAMILY AND CHILDREN
+
 [^98]: Meet the Kims: Who's who in North Korea's first family | Al Jazeera
+
 [^99]: Kim Il-sung - Geni
+
 [^100]: Kim Jeong-suk | Wilson Center Digital Archive
+
 [^101]: Kim Il-Sung | Life, Presidency & Death - Study.com
+
 [^102]: North Korea: Life After Kim | YaleGlobal Online
+
 [^103]: North Korean cult of personality - Wikipedia
+
 [^104]: Cult of Personality: North Korea under Kim Il-Sung - Arcadia University
+
 [^105]: The Evolution of Kim Jong Un's Cult of Personality - Peninsula Dispatch
+
 [^106]: JUCHE AND THE CULT OF PERSONALITY OF KIM IL SUNG
+
 [^107]: The Legacy of Kim Il-sung in Asian History
+
 [^108]: "Cult of Personality: North Korea under Kim Il-Sung" by Tyler Lutz
+
 [^109]: How the North Korean Regime Uses Cult-Like Tactics - UAB Institute for Human Rights
+
 [^110]: How the Kim cult of personality came to dominate North Korean life | NK News
+
 [^111]: Kim Il-sung - Wikiquote
+
 [^112]: Kim Il-sung Quotes - BrainyQuote
+
 [^113]: TOP 17 QUOTES BY KIM IL-SUNG | A-Z Quotes
+
 [^114]: Quotes by 'Kim Il-sung' | QuoteTab
+
 [^115]: Kim Il Sung Quotes (11 quotes) - Goodreads
+
 [^116]: Quotes from Chairman Kim Il Sung - Sino-NK
+
 [^117]: Il-Sung Kim - Quotes - IMDb
+
 [^118]: KIM JONG IL'S APHORISMS
+
 [^119]: Top 50 KIM IL-SUNG quotes and sayings
+
 [^120]: Kim Il-sung Quotes - QuotesGram
+
 [^121]: APA STUDIES | ASIAN AND ASIAN AMERICAN PHILOSOPHERS
+
 [^122]: Kim Il Sung - Wikipedia
+
 [^123]: North Korea's Mundane Revolution - Oxford Academic
+
 [^124]: 'Red on White': Kim Il Sung, Park Chung Hee, and the Failure of Korea's Reunification
+
 [^125]: "Mostly Propaganda in Nature" - Wilson Center
+
 [^126]: Kim Il Sung - Columbia University Press
+
 [^127]: Cult of Personality: North Korea under Kim Il-Sung
+
 [^128]: Kim Il Sung | The Dictator's Playbook - PBS
+
 [^129]: Collective Memory and Everyday Politics in North Korea - Taylor & Francis
+
 [^130]: Working Paper Series - US-Korea Institute
+
 [^131]: Kim Il-Sung | Biography, Facts, Leadership of North Korea | Britannica
+
 [^132]: Kim Il-sung summary | Britannica
+
 [^133]: Kim, Il Sung | Wilson Center Digital Archive
+
 [^134]: Kim Il Sung - Wikipedia
+
 [^135]: Key events in the life of North Korea's Kim Jong Il – Deseret News
+
 [^136]: Kim Il-Sung | Life, Presidency & Death | Study.com
+
 [^137]: Kim Il-sung - Biography.com
+
 [^138]: Alpha History - Kim Il-sung
+
 [^139]: The Dictator's Playbook - Kim Il Sung
+
 [^140]: Cornell LibGuides - The Kims: Leaders' Biographies
+
 [^141]: Facts and Details - KIM IL SUNG'S LIFE, DEATH, FAMILY
+
 [^142]: Encyclopedia.com - Kim Il Sung
+
 [^143]: Human Rights Watch - North Korea: Kim Il-Sung's Catastrophic Rights Legacy
+
 [^144]: Wikipedia - Human rights in North Korea
+
 [^145]: BePress - A Case for the Prosecution of Kim Jong Il
+
 [^146]: HRNK Insider - The Human Rights Factor
+
 [^147]: State.gov - 1997 Human Rights Report: North Korea
+
 [^148]: Human Rights Watch - North Korea: Abusive Rule 10 Years after Kim Jong Il
+
 [^149]: Partners in Justice - The Democratic People's Republic of Korea
+
 [^150]: Hawaii.edu - STATISTICS OF NORTH KOREAN GENOCIDE
+
 [^151]: Wikipedia - Kim Il Sung and Kim Jong Il portraits
+
 [^152]: Wikipedia - Juche
+
 [^153]: SpringerLink - North Korea's Guiding Ideology
+
 [^154]: The Political Philosophy of Juche - Time.com
+
 [^155]: PhilArchive - Defending Juche Against an Uncharitable Analysis
+
 [^156]: KFAUSA - President Kim Il Sung and Juche Idea
+
 [^157]: Huxley Media - 10 LAWS OF TYRANNY: Kim Il-sung
+
 [^158]: Medium - Kim Il Sung and Kim Jong Il on Juche
+
 [^159]: Wikipedia - Ideology of the Workers' Party of Korea
+
 [^160]: Wikiquote - Kim Il-sung
+
 [^161]: BrainyQuote - Kim Il-sung Quotes
+
 [^162]: A-Z Quotes - TOP 17 QUOTES BY KIM IL-SUNG
+
 [^163]: QuoteTab - Quotes by 'Kim Il-sung'
+
 [^164]: Goodreads - Kim Il Sung Quotes

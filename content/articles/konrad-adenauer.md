@@ -155,34 +155,34 @@ Some historians argue that Adenauer's legacy has been mythologized and that he b
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1876 | Born in Cologne, Germany on January 5 |
-| 1894-1897 | Studied law at Universities of Freiburg, Munich, and Bonn |
-| 1901 | Received doctorate in law; began legal practice in Cologne |
-| 1904 | Married Emma Weyer |
-| 1906 | Elected to Cologne City Council |
-| 1916 | Death of first wife Emma Weyer |
-| 1917 | Elected Mayor of Cologne at age 41 |
-| 1919 | Married Auguste "Gussi" Zinsser |
-| 1921 | Considered as candidate for Reich Chancellor but declined |
-| 1933 | Dismissed as Mayor of Cologne by the Nazis; went into internal exile |
-| 1944 | Briefly imprisoned following July 20 assassination attempt on Hitler |
-| 1945 | Reinstated as Mayor of Cologne by Americans; dismissed by British; co-founded Christian Democratic Union (CDU) |
-| 1948 | Elected President of the Parliamentary Council; death of second wife Gussi |
-| 1949 | Elected first Chancellor of West Germany on September 15 at age 73 |
-| 1951 | West Germany joined European Coal and Steel Community |
-| 1952 | Negotiated Luxembourg Agreement for reparations to Israel |
-| 1954 | Paris Agreements ended Allied occupation; West Germany gained sovereignty |
-| 1955 | West Germany joined NATO; Adenauer visited Moscow and established diplomatic relations with Soviet Union |
-| 1957 | West Germany became founding member of European Economic Community; re-elected Chancellor; major pension reform enacted |
-| 1958 | Foreign Policy crisis over Berlin |
-| 1961 | Berlin Wall constructed; CDU lost absolute majority in elections |
-| 1962 | Spiegel Affair constitutional crisis |
-| 1963 | Signed Élysée Treaty with France; resigned as Chancellor on October 15 at age 87 |
-| 1964 | Konrad Adenauer Foundation established |
-| 1966 | Stepped down as CDU party chairman |
-| 1967 | Died in Rhöndorf on April 19 at age 91 |
+| Year      | Event                                                                                                                   |
+| --------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1876      | Born in Cologne, Germany on January 5                                                                                   |
+| 1894-1897 | Studied law at Universities of Freiburg, Munich, and Bonn                                                               |
+| 1901      | Received doctorate in law; began legal practice in Cologne                                                              |
+| 1904      | Married Emma Weyer                                                                                                      |
+| 1906      | Elected to Cologne City Council                                                                                         |
+| 1916      | Death of first wife Emma Weyer                                                                                          |
+| 1917      | Elected Mayor of Cologne at age 41                                                                                      |
+| 1919      | Married Auguste "Gussi" Zinsser                                                                                         |
+| 1921      | Considered as candidate for Reich Chancellor but declined                                                               |
+| 1933      | Dismissed as Mayor of Cologne by the Nazis; went into internal exile                                                    |
+| 1944      | Briefly imprisoned following July 20 assassination attempt on Hitler                                                    |
+| 1945      | Reinstated as Mayor of Cologne by Americans; dismissed by British; co-founded Christian Democratic Union (CDU)          |
+| 1948      | Elected President of the Parliamentary Council; death of second wife Gussi                                              |
+| 1949      | Elected first Chancellor of West Germany on September 15 at age 73                                                      |
+| 1951      | West Germany joined European Coal and Steel Community                                                                   |
+| 1952      | Negotiated Luxembourg Agreement for reparations to Israel                                                               |
+| 1954      | Paris Agreements ended Allied occupation; West Germany gained sovereignty                                               |
+| 1955      | West Germany joined NATO; Adenauer visited Moscow and established diplomatic relations with Soviet Union                |
+| 1957      | West Germany became founding member of European Economic Community; re-elected Chancellor; major pension reform enacted |
+| 1958      | Foreign Policy crisis over Berlin                                                                                       |
+| 1961      | Berlin Wall constructed; CDU lost absolute majority in elections                                                        |
+| 1962      | Spiegel Affair constitutional crisis                                                                                    |
+| 1963      | Signed Élysée Treaty with France; resigned as Chancellor on October 15 at age 87                                        |
+| 1964      | Konrad Adenauer Foundation established                                                                                  |
+| 1966      | Stepped down as CDU party chairman                                                                                      |
+| 1967      | Died in Rhöndorf on April 19 at age 91                                                                                  |
 
 ---
 
@@ -206,120 +206,120 @@ Some historians argue that Adenauer's legacy has been mythologized and that he b
 
 ## References
 
-[^1]: Williams, Charles. *Adenauer: The Father of the New Germany*. New York: Wiley, 2000, pp. 15-28.
+[^1]: Williams, Charles. _Adenauer: The Father of the New Germany_. New York: Wiley, 2000, pp. 15-28.
 
-[^2]: Schwarz, Hans-Peter. *Konrad Adenauer: A German Politician and Statesman in a Period of War, Revolution and Reconstruction*. Vol. 1. Providence: Berghahn Books, 1995, pp. 42-58.
+[^2]: Schwarz, Hans-Peter. _Konrad Adenauer: A German Politician and Statesman in a Period of War, Revolution and Reconstruction_. Vol. 1. Providence: Berghahn Books, 1995, pp. 42-58.
 
-[^3]: Köhler, Henning. *Adenauer: Eine politische Biographie*. Frankfurt: Propyläen, 1994, pp. 76-89.
+[^3]: Köhler, Henning. _Adenauer: Eine politische Biographie_. Frankfurt: Propyläen, 1994, pp. 76-89.
 
-[^4]: Williams, *Adenauer*, pp. 45-62.
+[^4]: Williams, _Adenauer_, pp. 45-62.
 
-[^5]: Schwarz, *Konrad Adenauer*, Vol. 1, pp. 124-187.
+[^5]: Schwarz, _Konrad Adenauer_, Vol. 1, pp. 124-187.
 
-[^6]: Patch, William L. *Christian Democracy in Europe Since 1945*. Cambridge: Cambridge University Press, 2002, pp. 45-52.
+[^6]: Patch, William L. _Christian Democracy in Europe Since 1945_. Cambridge: Cambridge University Press, 2002, pp. 45-52.
 
-[^7]: Fest, Joachim. "Konrad Adenauer." In *The Face of the Third Reich: Portraits of the Nazi Leadership*. New York: Pantheon, 1970, pp. 287-294.
+[^7]: Fest, Joachim. "Konrad Adenauer." In _The Face of the Third Reich: Portraits of the Nazi Leadership_. New York: Pantheon, 1970, pp. 287-294.
 
-[^8]: Adenauer, Konrad. *Memoirs 1945-1953*. Translated by Beate Ruhm von Oppen. Chicago: Henry Regnery Company, 1966, pp. 31-74.
+[^8]: Adenauer, Konrad. _Memoirs 1945-1953_. Translated by Beate Ruhm von Oppen. Chicago: Henry Regnery Company, 1966, pp. 31-74.
 
-[^9]: Schwarz, Hans-Peter. *Konrad Adenauer: A German Politician and Statesman in a Period of War, Revolution and Reconstruction*. Vol. 2. Providence: Berghahn Books, 1997, pp. 412-438.
+[^9]: Schwarz, Hans-Peter. _Konrad Adenauer: A German Politician and Statesman in a Period of War, Revolution and Reconstruction_. Vol. 2. Providence: Berghahn Books, 1997, pp. 412-438.
 
-[^10]: Hanrieder, Wolfram F. *Germany, America, Europe: Forty Years of German Foreign Policy*. New Haven: Yale University Press, 1989, pp. 34-67.
+[^10]: Hanrieder, Wolfram F. _Germany, America, Europe: Forty Years of German Foreign Policy_. New Haven: Yale University Press, 1989, pp. 34-67.
 
-[^11]: Abelshauser, Werner. *The Dynamics of German Industry: Germany's Path toward the New Economy and the American Challenge*. New York: Berghahn Books, 2005, pp. 78-112.
+[^11]: Abelshauser, Werner. _The Dynamics of German Industry: Germany's Path toward the New Economy and the American Challenge_. New York: Berghahn Books, 2005, pp. 78-112.
 
-[^12]: Krotz, Ulrich, and Joachim Schild. *Shaping Europe: France, Germany, and Embedded Bilateralism from the Elysée Treaty to Twenty-First Century Politics*. Oxford: Oxford University Press, 2013, pp. 67-89.
+[^12]: Krotz, Ulrich, and Joachim Schild. _Shaping Europe: France, Germany, and Embedded Bilateralism from the Elysée Treaty to Twenty-First Century Politics_. Oxford: Oxford University Press, 2013, pp. 67-89.
 
-[^13]: Gillingham, John. *Coal, Steel, and the Rebirth of Europe, 1945-1955*. Cambridge: Cambridge University Press, 1991, pp. 228-267.
+[^13]: Gillingham, John. _Coal, Steel, and the Rebirth of Europe, 1945-1955_. Cambridge: Cambridge University Press, 1991, pp. 228-267.
 
-[^14]: Large, David Clay. *Germans to the Front: West German Rearmament in the Adenauer Era*. Chapel Hill: University of North Carolina Press, 1996, pp. 145-178.
+[^14]: Large, David Clay. _Germans to the Front: West German Rearmament in the Adenauer Era_. Chapel Hill: University of North Carolina Press, 1996, pp. 145-178.
 
-[^15]: Hockerts, Hans Günter. "German Post-War Social Policies against the Background of the Beveridge Plan." In *The Emergence of the Welfare State in Britain and Germany*, edited by Wolfgang Mommsen, 315-339. London: Croom Helm, 1981.
+[^15]: Hockerts, Hans Günter. "German Post-War Social Policies against the Background of the Beveridge Plan." In _The Emergence of the Welfare State in Britain and Germany_, edited by Wolfgang Mommsen, 315-339. London: Croom Helm, 1981.
 
-[^16]: Feldman, Lily Gardner. *The Special Relationship between West Germany and Israel*. Boston: George Allen & Unwin, 1984, pp. 56-94.
+[^16]: Feldman, Lily Gardner. _The Special Relationship between West Germany and Israel_. Boston: George Allen & Unwin, 1984, pp. 56-94.
 
-[^17]: Krieger, Wolfgang. "German Intelligence History: A Field in Search of Scholars." *Intelligence and National Security* 19, no. 2 (2004): 185-198.
+[^17]: Krieger, Wolfgang. "German Intelligence History: A Field in Search of Scholars." _Intelligence and National Security_ 19, no. 2 (2004): 185-198.
 
-[^18]: Winkler, Heinrich August. *Germany: The Long Road West, 1933-1990*. Translated by Alexander J. Sager. Oxford: Oxford University Press, 2007, pp. 178-195.
+[^18]: Winkler, Heinrich August. _Germany: The Long Road West, 1933-1990_. Translated by Alexander J. Sager. Oxford: Oxford University Press, 2007, pp. 178-195.
 
-[^19]: Loth, Wilfried. *Stalin's Unwanted Child: The Soviet Union, the German Question, and the Founding of the GDR*. New York: St. Martin's Press, 1998, pp. 267-289.
+[^19]: Loth, Wilfried. _Stalin's Unwanted Child: The Soviet Union, the German Question, and the Founding of the GDR_. New York: St. Martin's Press, 1998, pp. 267-289.
 
-[^20]: Frei, Norbert. *Adenauer's Germany and the Nazi Past: The Politics of Amnesty and Integration*. Translated by Joel Golb. New York: Columbia University Press, 2002, pp. 115-198.
+[^20]: Frei, Norbert. _Adenauer's Germany and the Nazi Past: The Politics of Amnesty and Integration_. Translated by Joel Golb. New York: Columbia University Press, 2002, pp. 115-198.
 
-[^21]: Childs, David. "The 1962 Spiegel Affair and Freedom of the Press in the Federal Republic of Germany." *German Life and Letters* 36, no. 3 (1983): 234-247.
+[^21]: Childs, David. "The 1962 Spiegel Affair and Freedom of the Press in the Federal Republic of Germany." _German Life and Letters_ 36, no. 3 (1983): 234-247.
 
-[^22]: Brandt, Willy. *People and Politics: The Years 1960-1975*. Boston: Little, Brown and Company, 1978, pp. 89-112.
+[^22]: Brandt, Willy. _People and Politics: The Years 1960-1975_. Boston: Little, Brown and Company, 1978, pp. 89-112.
 
-[^23]: Spotts, Frederic. *The Churches and Politics in Germany*. Middletown, CT: Wesleyan University Press, 1973, pp. 234-256.
+[^23]: Spotts, Frederic. _The Churches and Politics in Germany_. Middletown, CT: Wesleyan University Press, 1973, pp. 234-256.
 
-[^24]: Harrison, Hope M. *Driving the Soviets Up the Wall: Soviet-East German Relations, 1953-1961*. Princeton: Princeton University Press, 2003, pp. 198-221.
+[^24]: Harrison, Hope M. _Driving the Soviets Up the Wall: Soviet-East German Relations, 1953-1961_. Princeton: Princeton University Press, 2003, pp. 198-221.
 
-[^25]: Streit, Clarence K. "The German Economic Miracle." *Foreign Affairs* 36, no. 4 (1958): 568-580.
+[^25]: Streit, Clarence K. "The German Economic Miracle." _Foreign Affairs_ 36, no. 4 (1958): 568-580.
 
-[^26]: Williams, *Adenauer*, pp. 234-245.
+[^26]: Williams, _Adenauer_, pp. 234-245.
 
-[^27]: Adenauer, Konrad. *Erinnerungen 1953-1955*. Stuttgart: Deutsche Verlags-Anstalt, 1966, pp. 12-18.
+[^27]: Adenauer, Konrad. _Erinnerungen 1953-1955_. Stuttgart: Deutsche Verlags-Anstalt, 1966, pp. 12-18.
 
-[^28]: Baring, Arnulf. *Foreign Policy in Adenauer's Germany: Dilemmas of Detached Politics*. Ithaca, NY: Cornell University Press, 1972, pp. 45-67.
+[^28]: Baring, Arnulf. _Foreign Policy in Adenauer's Germany: Dilemmas of Detached Politics_. Ithaca, NY: Cornell University Press, 1972, pp. 45-67.
 
-[^29]: Prittie, Terence. *Konrad Adenauer, 1876-1967*. London: Tom Stacey, 1972, pp. 156-167.
+[^29]: Prittie, Terence. _Konrad Adenauer, 1876-1967_. London: Tom Stacey, 1972, pp. 156-167.
 
-[^30]: Schwarz, *Konrad Adenauer*, Vol. 2, pp. 789-834.
+[^30]: Schwarz, _Konrad Adenauer_, Vol. 2, pp. 789-834.
 
-[^31]: Mitchell, Maria. "Materialism and Secularism: CDU Politicians and National Socialism, 1945-1949." *Journal of Modern History* 67, no. 2 (1995): 278-308.
+[^31]: Mitchell, Maria. "Materialism and Secularism: CDU Politicians and National Socialism, 1945-1949." _Journal of Modern History_ 67, no. 2 (1995): 278-308.
 
-[^32]: Conze, Eckart. *Die Suche nach Sicherheit: Eine Geschichte der Bundesrepublik Deutschland von 1949 bis in die Gegenwart*. Munich: Siedler, 2009, pp. 123-178.
+[^32]: Conze, Eckart. _Die Suche nach Sicherheit: Eine Geschichte der Bundesrepublik Deutschland von 1949 bis in die Gegenwart_. Munich: Siedler, 2009, pp. 123-178.
 
-[^33]: Judt, Tony. *Postwar: A History of Europe Since 1945*. New York: Penguin Press, 2005, pp. 245-267.
+[^33]: Judt, Tony. _Postwar: A History of Europe Since 1945_. New York: Penguin Press, 2005, pp. 245-267.
 
-[^34]: Nicholls, A. J. *Freedom with Responsibility: The Social Market Economy in Germany, 1918-1963*. Oxford: Clarendon Press, 1994, pp. 289-334.
+[^34]: Nicholls, A. J. _Freedom with Responsibility: The Social Market Economy in Germany, 1918-1963_. Oxford: Clarendon Press, 1994, pp. 289-334.
 
 [^35]: "Konrad Adenauer Foundation." Accessed December 21, 2025. https://www.kas.de/en/web/geschichte-der-cdu/personen/biogramm-detail/-/content/konrad-adenauer
 
-[^36]: Moses, A. Dirk. *German Intellectuals and the Nazi Past*. Cambridge: Cambridge University Press, 2007, pp. 134-167.
+[^36]: Moses, A. Dirk. _German Intellectuals and the Nazi Past_. Cambridge: Cambridge University Press, 2007, pp. 134-167.
 
-[^37]: Garton Ash, Timothy. *In Europe's Name: Germany and the Divided Continent*. New York: Random House, 1993, pp. 67-89.
+[^37]: Garton Ash, Timothy. _In Europe's Name: Germany and the Divided Continent_. New York: Random House, 1993, pp. 67-89.
 
-[^38]: Rudzio, Wolfgang. *Das politische System der Bundesrepublik Deutschland*. Wiesbaden: VS Verlag für Sozialwissenschaften, 2011, pp. 178-195.
+[^38]: Rudzio, Wolfgang. _Das politische System der Bundesrepublik Deutschland_. Wiesbaden: VS Verlag für Sozialwissenschaften, 2011, pp. 178-195.
 
-[^39]: Craig, Gordon A. "Konrad Adenauer and His Legacy." *Foreign Affairs* 65, no. 5 (1987): 1087-1102.
+[^39]: Craig, Gordon A. "Konrad Adenauer and His Legacy." _Foreign Affairs_ 65, no. 5 (1987): 1087-1102.
 
-[^40]: Schwarz, Hans-Peter. "Adenauer's Foreign Policy." In *Adenauer and the New Germany*, edited by Reiner Pommerin, 23-45. Oxford: Berg Publishers, 1990.
+[^40]: Schwarz, Hans-Peter. "Adenauer's Foreign Policy." In _Adenauer and the New Germany_, edited by Reiner Pommerin, 23-45. Oxford: Berg Publishers, 1990.
 
-[^41]: Craig, Gordon A. *Germany 1866-1945*. Oxford: Oxford University Press, 1978, pp. 789-801.
+[^41]: Craig, Gordon A. _Germany 1866-1945_. Oxford: Oxford University Press, 1978, pp. 789-801.
 
-[^42]: Judt, *Postwar*, pp. 303-320.
+[^42]: Judt, _Postwar_, pp. 303-320.
 
-[^43]: Erhard, Ludwig. *Prosperity Through Competition*. New York: Praeger, 1958, pp. 45-78.
+[^43]: Erhard, Ludwig. _Prosperity Through Competition_. New York: Praeger, 1958, pp. 45-78.
 
-[^44]: Stürmer, Michael. "Memory in a Divided Germany." In *Coping with the Past: Germany and Austria After 1945*, edited by Kathy Harms, Lutz R. Reuter, and Volker Dürr, 56-73. Madison: University of Wisconsin Press, 1990.
+[^44]: Stürmer, Michael. "Memory in a Divided Germany." In _Coping with the Past: Germany and Austria After 1945_, edited by Kathy Harms, Lutz R. Reuter, and Volker Dürr, 56-73. Madison: University of Wisconsin Press, 1990.
 
-[^45]: Gaddis, John Lewis. *The Cold War: A New History*. New York: Penguin Press, 2005, pp. 123-134.
+[^45]: Gaddis, John Lewis. _The Cold War: A New History_. New York: Penguin Press, 2005, pp. 123-134.
 
-[^46]: Winkler, *Germany: The Long Road West*, pp. 234-256.
+[^46]: Winkler, _Germany: The Long Road West_, pp. 234-256.
 
-[^47]: Herf, Jeffrey. *Divided Memory: The Nazi Past in the Two Germanys*. Cambridge: Harvard University Press, 1997, pp. 267-301.
+[^47]: Herf, Jeffrey. _Divided Memory: The Nazi Past in the Two Germanys_. Cambridge: Harvard University Press, 1997, pp. 267-301.
 
-[^48]: Loth, *Stalin's Unwanted Child*, pp. 312-345.
+[^48]: Loth, _Stalin's Unwanted Child_, pp. 312-345.
 
-[^49]: Frevert, Ute. *Women in German History: From Bourgeois Emancipation to Sexual Liberation*. Translated by Stuart McKinnon-Evans. Oxford: Berg Publishers, 1989, pp. 256-278.
+[^49]: Frevert, Ute. _Women in German History: From Bourgeois Emancipation to Sexual Liberation_. Translated by Stuart McKinnon-Evans. Oxford: Berg Publishers, 1989, pp. 256-278.
 
-[^50]: Bahr, Egon. *Zu meiner Zeit*. Munich: Karl Blessing Verlag, 1996, pp. 134-156.
+[^50]: Bahr, Egon. _Zu meiner Zeit_. Munich: Karl Blessing Verlag, 1996, pp. 134-156.
 
-[^51]: Abelshauser, Werner. "The First Post-Liberal Nation: Stages in the Development of Modern Corporatism in Germany." *European History Quarterly* 14, no. 3 (1984): 285-318.
+[^51]: Abelshauser, Werner. "The First Post-Liberal Nation: Stages in the Development of Modern Corporatism in Germany." _European History Quarterly_ 14, no. 3 (1984): 285-318.
 
-[^52]: Baring, Arnulf. *Machtwechsel: Die Ära Brandt-Scheel*. Stuttgart: Deutsche Verlags-Anstalt, 1982, pp. 23-45.
+[^52]: Baring, Arnulf. _Machtwechsel: Die Ära Brandt-Scheel_. Stuttgart: Deutsche Verlags-Anstalt, 1982, pp. 23-45.
 
-[^53]: Adenauer, Konrad. Speech to the Bundestag, September 20, 1949. In *Reden 1917-1967*, edited by Hans-Peter Schwarz. Stuttgart: Deutsche Verlags-Anstalt, 1975, p. 156.
+[^53]: Adenauer, Konrad. Speech to the Bundestag, September 20, 1949. In _Reden 1917-1967_, edited by Hans-Peter Schwarz. Stuttgart: Deutsche Verlags-Anstalt, 1975, p. 156.
 
-[^54]: Prittie, *Konrad Adenauer*, p. 289.
+[^54]: Prittie, _Konrad Adenauer_, p. 289.
 
-[^55]: Adenauer, Konrad. Quoted in Paul Johnson, *Modern Times: The World from the Twenties to the Nineties*. New York: HarperCollins, 1991, p. 567.
+[^55]: Adenauer, Konrad. Quoted in Paul Johnson, _Modern Times: The World from the Twenties to the Nineties_. New York: HarperCollins, 1991, p. 567.
 
-[^56]: Williams, *Adenauer*, p. 423.
+[^56]: Williams, _Adenauer_, p. 423.
 
-[^57]: Adenauer, Konrad. Speech on Soviet policy, 1952. In *Adenauer: Memoirs 1945-1953*, p. 412.
+[^57]: Adenauer, Konrad. Speech on Soviet policy, 1952. In _Adenauer: Memoirs 1945-1953_, p. 412.
 
-[^58]: Adenauer, Konrad. Quoted in Terence Prittie, *Germany*. New York: Time-Life Books, 1961, p. 78.
+[^58]: Adenauer, Konrad. Quoted in Terence Prittie, _Germany_. New York: Time-Life Books, 1961, p. 78.
 
-[^59]: Adenauer, Konrad. Speech at the Bundestag, March 1952. In *Konrad Adenauer: Reden 1917-1967*, p. 234.
+[^59]: Adenauer, Konrad. Speech at the Bundestag, March 1952. In _Konrad Adenauer: Reden 1917-1967_, p. 234.

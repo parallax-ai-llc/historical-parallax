@@ -140,138 +140,138 @@ Commentators across the political spectrum have criticized her management of the
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1947 | Born December 14 in Belo Horizonte, Minas Gerais, Brazil |
-| 1962 | Father Petar Rousseff dies |
-| 1964 | Military coup establishes dictatorship in Brazil |
-| 1967 | Begins studying economics at Federal University of Minas Gerais; joins left-wing resistance movements |
-| 1969 | Becomes involved with militant organizations COLINA and VAR Palmares |
-| 1970 | Arrested by military regime in January |
-| 1970-1972 | Imprisoned and tortured in various detention facilities |
-| 1972 | Released from prison |
-| 1976 | Daughter Paula Rousseff Araújo born |
-| 1977 | Completes economics degree at Federal University of Rio Grande do Sul |
-| 1985 | Military dictatorship ends; Brazil returns to civilian rule |
-| 1986 | Appointed Municipal Secretary of Treasury in Porto Alegre |
-| 1991-1994 | Serves as Secretary of Energy of Rio Grande do Sul |
-| 1999-2000 | President of Foundation of Economics and Statistics (FEE) |
-| 2000 | Marries lawyer Carlos Araújo |
-| 2003 | Appointed Minister of Mines and Energy by President Lula |
-| 2005 | Appointed Chief of Staff (Casa Civil), becoming Lula's right hand |
-| 2010 | Elected President of Brazil in October, becoming first female president |
-| 2011 | Inaugurated as President on January 1; launches Brasil Sem Miséria program |
-| 2013 | Massive protests erupt across Brazil in June; NSA spying scandal revealed by Edward Snowden |
-| 2014 | Re-elected President in October with 51.6% in runoff; Brazil hosts FIFA World Cup; Operation Car Wash corruption investigation begins |
-| 2015 | Brazil enters severe recession; appoints Joaquim Levy as Finance Minister; approval ratings collapse |
-| 2016 | Impeachment proceedings begin; suspended from office in May; convicted and removed from presidency on August 31 |
-| 2017-2022 | Remains politically active, speaking against impeachment and supporting Workers' Party |
-| 2023 | Appointed President of the New Development Bank (BRICS Bank) |
-| 2025 | Continues serving as President of New Development Bank |
+| Year      | Event                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1947      | Born December 14 in Belo Horizonte, Minas Gerais, Brazil                                                                              |
+| 1962      | Father Petar Rousseff dies                                                                                                            |
+| 1964      | Military coup establishes dictatorship in Brazil                                                                                      |
+| 1967      | Begins studying economics at Federal University of Minas Gerais; joins left-wing resistance movements                                 |
+| 1969      | Becomes involved with militant organizations COLINA and VAR Palmares                                                                  |
+| 1970      | Arrested by military regime in January                                                                                                |
+| 1970-1972 | Imprisoned and tortured in various detention facilities                                                                               |
+| 1972      | Released from prison                                                                                                                  |
+| 1976      | Daughter Paula Rousseff Araújo born                                                                                                   |
+| 1977      | Completes economics degree at Federal University of Rio Grande do Sul                                                                 |
+| 1985      | Military dictatorship ends; Brazil returns to civilian rule                                                                           |
+| 1986      | Appointed Municipal Secretary of Treasury in Porto Alegre                                                                             |
+| 1991-1994 | Serves as Secretary of Energy of Rio Grande do Sul                                                                                    |
+| 1999-2000 | President of Foundation of Economics and Statistics (FEE)                                                                             |
+| 2000      | Marries lawyer Carlos Araújo                                                                                                          |
+| 2003      | Appointed Minister of Mines and Energy by President Lula                                                                              |
+| 2005      | Appointed Chief of Staff (Casa Civil), becoming Lula's right hand                                                                     |
+| 2010      | Elected President of Brazil in October, becoming first female president                                                               |
+| 2011      | Inaugurated as President on January 1; launches Brasil Sem Miséria program                                                            |
+| 2013      | Massive protests erupt across Brazil in June; NSA spying scandal revealed by Edward Snowden                                           |
+| 2014      | Re-elected President in October with 51.6% in runoff; Brazil hosts FIFA World Cup; Operation Car Wash corruption investigation begins |
+| 2015      | Brazil enters severe recession; appoints Joaquim Levy as Finance Minister; approval ratings collapse                                  |
+| 2016      | Impeachment proceedings begin; suspended from office in May; convicted and removed from presidency on August 31                       |
+| 2017-2022 | Remains politically active, speaking against impeachment and supporting Workers' Party                                                |
+| 2023      | Appointed President of the New Development Bank (BRICS Bank)                                                                          |
+| 2025      | Continues serving as President of New Development Bank                                                                                |
 
 ---
 
 ## Famous Quotes
 
 > "I am not afraid of challenges. I faced torture and survived. I can face anything."
-> 
+>
 > Reflecting on her imprisonment during the dictatorship and her resilience in facing political challenges during her presidency.[^36]
 
 > "In my veins runs the blood of those who fought for democracy and freedom. I will never betray that struggle."
-> 
+>
 > Spoken during her impeachment defense, connecting her current political struggle to her resistance against military dictatorship.[^37]
 
 > "They can impeach the president, but they cannot impeach the dignity of the Brazilian people who elected me."
-> 
+>
 > From her final speech as president, characterizing the impeachment as an attack on democracy and the popular will.[^38]
 
 > "When I was tortured, they wanted me to betray my comrades. I didn't. When I became president, they wanted me to betray my principles. I didn't. This is who I am."
-> 
+>
 > Addressing supporters during the impeachment crisis, emphasizing her consistency and integrity across decades.[^39]
 
 > "Brazil chose to have a woman president. This choice says that we are building a country without discrimination, a country that men and women have equal opportunities."
-> 
+>
 > From her inaugural address in 2011, emphasizing the historic nature of her election and its significance for gender equality.[^40]
 
 > "Espionage against a country is unacceptable, and espionage against a president is an affront to democracy."
-> 
+>
 > From her United Nations speech in September 2013, condemning U.S. NSA surveillance revealed by Edward Snowden.[^41]
 
 ---
 
 ## References
 
-[^1]: Hall, Anthony. "From Fome Zero to Bolsa Família: Social Policies and Poverty Alleviation under Lula." *Journal of Latin American Studies* 38.4 (2006): 689-709.
+[^1]: Hall, Anthony. "From Fome Zero to Bolsa Família: Social Policies and Poverty Alleviation under Lula." _Journal of Latin American Studies_ 38.4 (2006): 689-709.
 
-[^2]: Comes, Yago, et al. "The More Doctors Program in Brazil: An Analysis of Its Implementation and Impact on Primary Health Care in Remote Areas." *BMC Health Services Research* 16.1 (2016): 19-33.
+[^2]: Comes, Yago, et al. "The More Doctors Program in Brazil: An Analysis of Its Implementation and Impact on Primary Health Care in Remote Areas." _BMC Health Services Research_ 16.1 (2016): 19-33.
 
-[^3]: Aveiro, Thais Mere Marques. "Science Without Borders Program: Internationalization of Brazilian Universities." *Revista Brasileira de Educação* 19.57 (2014): 481-498.
+[^3]: Aveiro, Thais Mere Marques. "Science Without Borders Program: Internationalization of Brazilian Universities." _Revista Brasileira de Educação_ 19.57 (2014): 481-498.
 
-[^4]: Greenwald, Glenn. "NSA Collecting Phone Records of Millions of Verizon Customers Daily." *The Guardian*, June 6, 2013.
+[^4]: Greenwald, Glenn. "NSA Collecting Phone Records of Millions of Verizon Customers Daily." _The Guardian_, June 6, 2013.
 
-[^5]: Hunter, Wendy, and Timothy J. Power. "Rewarding Lula: Executive Power, Social Policy, and the Brazilian Elections of 2006." *Latin American Politics and Society* 49.1 (2007): 1-30.
+[^5]: Hunter, Wendy, and Timothy J. Power. "Rewarding Lula: Executive Power, Social Policy, and the Brazilian Elections of 2006." _Latin American Politics and Society_ 49.1 (2007): 1-30.
 
-[^6]: Rochedo, Pedro R. R., et al. "The Legacy of Dilma Rousseff's Energy Policies in Brazil." *Energy Policy* 126 (2019): 484-495.
+[^6]: Rochedo, Pedro R. R., et al. "The Legacy of Dilma Rousseff's Energy Policies in Brazil." _Energy Policy_ 126 (2019): 484-495.
 
-[^7]: Taylor, Matthew M. "The Challenges of Fighting Corruption Through Judicial Accountability: Brazil's Operation Car Wash in Comparative Perspective." *American Journal of Comparative Law* 66.3 (2018): 679-714.
+[^7]: Taylor, Matthew M. "The Challenges of Fighting Corruption Through Judicial Accountability: Brazil's Operation Car Wash in Comparative Perspective." _American Journal of Comparative Law_ 66.3 (2018): 679-714.
 
-[^8]: Barbosa Filho, Fernando de Holanda. "The Brazilian Economic Crisis and the Government's Reform Agenda." *Brazilian Journal of Political Economy* 37.1 (2017): 158-177.
+[^8]: Barbosa Filho, Fernando de Holanda. "The Brazilian Economic Crisis and the Government's Reform Agenda." _Brazilian Journal of Political Economy_ 37.1 (2017): 158-177.
 
-[^9]: Pérez-Liñán, Aníbal. "A Two-Level Theory of Presidential Instability." *Latin American Politics and Society* 56.1 (2014): 34-54.
+[^9]: Pérez-Liñán, Aníbal. "A Two-Level Theory of Presidential Instability." _Latin American Politics and Society_ 56.1 (2014): 34-54.
 
-[^10]: Power, Timothy J., and Matthew M. Taylor. "Introduction: Brazilian Democracy Under Dilma Rousseff." In *Corruption and Democracy in Brazil: The Struggle for Accountability*, edited by Timothy J. Power and Matthew M. Taylor, 1-28. Notre Dame: University of Notre Dame Press, 2011.
+[^10]: Power, Timothy J., and Matthew M. Taylor. "Introduction: Brazilian Democracy Under Dilma Rousseff." In _Corruption and Democracy in Brazil: The Struggle for Accountability_, edited by Timothy J. Power and Matthew M. Taylor, 1-28. Notre Dame: University of Notre Dame Press, 2011.
 
-[^11]: Saad-Filho, Alfredo, and Lecio Morais. "Mass Protests: Brazilian Spring or Brazilian Malaise?" *Socialist Register* 50 (2014): 227-246.
+[^11]: Saad-Filho, Alfredo, and Lecio Morais. "Mass Protests: Brazilian Spring or Brazilian Malaise?" _Socialist Register_ 50 (2014): 227-246.
 
-[^12]: Anderson, Perry. "Crisis in Brazil." *London Review of Books* 38.8 (2016): 15-22.
+[^12]: Anderson, Perry. "Crisis in Brazil." _London Review of Books_ 38.8 (2016): 15-22.
 
-[^13]: "Dilma Rousseff and Carlos Araújo Separate After 16 Years." *Folha de S.Paulo*, September 12, 2016.
+[^13]: "Dilma Rousseff and Carlos Araújo Separate After 16 Years." _Folha de S.Paulo_, September 12, 2016.
 
-[^14]: Chaia, Vera, and Danilo Rothberg. "Political Communication and Democracy in Brazil: The Dilma Effect." *Brazilian Political Science Review* 9.2 (2015): 8-35.
+[^14]: Chaia, Vera, and Danilo Rothberg. "Political Communication and Democracy in Brazil: The Dilma Effect." _Brazilian Political Science Review_ 9.2 (2015): 8-35.
 
-[^15]: Almeida, Maria Hermínia Tavares de. "The Evolution of Executive-Legislative Relations in Brazil." In *The New Separation of Powers: Democracy and the Transformation of Executive Politics*, edited by Rebecca Bill Chavez, 147-169. Cambridge: Cambridge University Press, 2017.
+[^15]: Almeida, Maria Hermínia Tavares de. "The Evolution of Executive-Legislative Relations in Brazil." In _The New Separation of Powers: Democracy and the Transformation of Executive Politics_, edited by Rebecca Bill Chavez, 147-169. Cambridge: Cambridge University Press, 2017.
 
-[^16]: Green, James N., and Abigail Jones. "Reckoning with Dictatorship in Brazil: The Torture Never Stops." *Radical History Review* 2016.124 (2016): 85-103.
+[^16]: Green, James N., and Abigail Jones. "Reckoning with Dictatorship in Brazil: The Torture Never Stops." _Radical History Review_ 2016.124 (2016): 85-103.
 
-[^17]: "Dilma Rousseff Appointed as New Development Bank President." *Reuters*, March 23, 2023.
+[^17]: "Dilma Rousseff Appointed as New Development Bank President." _Reuters_, March 23, 2023.
 
-[^18]: Schipani, Andres. "Dilma Rousseff: The Ousted President Who Became a Symbol." *Financial Times*, August 31, 2016.
+[^18]: Schipani, Andres. "Dilma Rousseff: The Ousted President Who Became a Symbol." _Financial Times_, August 31, 2016.
 
-[^19]: Avritzer, Leonardo. "The Rousseff Impeachment and the Crisis of Democracy in Brazil." *Critical Policy Studies* 11.3 (2017): 352-357.
+[^19]: Avritzer, Leonardo. "The Rousseff Impeachment and the Crisis of Democracy in Brazil." _Critical Policy Studies_ 11.3 (2017): 352-357.
 
-[^20]: Schneider, Nina. "The Brazilian Truth Commission: Challenging Political Amnesia?" *Journal of Latin American Studies* 48.4 (2016): 777-800.
+[^20]: Schneider, Nina. "The Brazilian Truth Commission: Challenging Political Amnesia?" _Journal of Latin American Studies_ 48.4 (2016): 777-800.
 
-[^21]: Alston, Lee J., et al. "The Institutional and Economic Development of Dilma Rousseff's Brazil." *Quarterly Review of Economics and Finance* 62 (2016): 108-119.
+[^21]: Alston, Lee J., et al. "The Institutional and Economic Development of Dilma Rousseff's Brazil." _Quarterly Review of Economics and Finance_ 62 (2016): 108-119.
 
-[^22]: Schwindt-Bayer, Leslie A., and Renato Corbetta. "Gender Turnover and Roll-Call Voting in the US House of Representatives." *Legislative Studies Quarterly* 29.2 (2004): 215-229.
+[^22]: Schwindt-Bayer, Leslie A., and Renato Corbetta. "Gender Turnover and Roll-Call Voting in the US House of Representatives." _Legislative Studies Quarterly_ 29.2 (2004): 215-229.
 
-[^23]: Hunter, Wendy, and Timothy J. Power. "Bolsonaro and Brazil's Illiberal Backlash." *Journal of Democracy* 30.1 (2019): 68-82.
+[^23]: Hunter, Wendy, and Timothy J. Power. "Bolsonaro and Brazil's Illiberal Backlash." _Journal of Democracy_ 30.1 (2019): 68-82.
 
-[^24]: Stuenkel, Oliver. "Brazil's BRICS Policy and the New Development Bank." *International Affairs* 91.5 (2015): 1031-1049.
+[^24]: Stuenkel, Oliver. "Brazil's BRICS Policy and the New Development Bank." _International Affairs_ 91.5 (2015): 1031-1049.
 
-[^25]: Saad-Filho, Alfredo. "A Critical Review of Dilma Rousseff's Developmental Strategy." *Brazilian Journal of Political Economy* 35.1 (2015): 133-141.
+[^25]: Saad-Filho, Alfredo. "A Critical Review of Dilma Rousseff's Developmental Strategy." _Brazilian Journal of Political Economy_ 35.1 (2015): 133-141.
 
-[^26]: Htun, Mala, and S. Laurel Weldon. "When Do Governments Promote Women's Rights? A Framework for the Comparative Analysis of Sex Equality Policy." *Perspectives on Politics* 8.1 (2010): 207-216.
+[^26]: Htun, Mala, and S. Laurel Weldon. "When Do Governments Promote Women's Rights? A Framework for the Comparative Analysis of Sex Equality Policy." _Perspectives on Politics_ 8.1 (2010): 207-216.
 
-[^27]: Bresser-Pereira, Luiz Carlos. "Reflecting on New Developmentalism and Classical Developmentalism." *Review of Keynesian Economics* 4.3 (2016): 331-352.
+[^27]: Bresser-Pereira, Luiz Carlos. "Reflecting on New Developmentalism and Classical Developmentalism." _Review of Keynesian Economics_ 4.3 (2016): 331-352.
 
-[^28]: Anderson, Perry. "Lula's Brazil." *London Review of Books* 33.7 (2011): 3-12.
+[^28]: Anderson, Perry. "Lula's Brazil." _London Review of Books_ 33.7 (2011): 3-12.
 
-[^29]: Green, James N. *We Cannot Remain Silent: Opposition to the Brazilian Military Dictatorship in the United States*. Durham: Duke University Press, 2010.
+[^29]: Green, James N. _We Cannot Remain Silent: Opposition to the Brazilian Military Dictatorship in the United States_. Durham: Duke University Press, 2010.
 
-[^30]: Fraga, Arminio. "Brazil's Economic Policy Mistakes." *Peterson Institute for International Economics*, Policy Brief 15-23 (2015).
+[^30]: Fraga, Arminio. "Brazil's Economic Policy Mistakes." _Peterson Institute for International Economics_, Policy Brief 15-23 (2015).
 
-[^31]: Pereira, Carlos, and João Augusto de Castro Neves. "Brazil Under Dilma Rousseff: A Midterm Assessment." *Revista de Ciencia Política* 31.2 (2011): 365-382.
+[^31]: Pereira, Carlos, and João Augusto de Castro Neves. "Brazil Under Dilma Rousseff: A Midterm Assessment." _Revista de Ciencia Política_ 31.2 (2011): 365-382.
 
-[^32]: Reale Júnior, Miguel. "The Constitutional Basis for Presidential Impeachment in Brazil." *Revista Brasileira de Direito Constitucional* 28.1 (2016): 87-105.
+[^32]: Reale Júnior, Miguel. "The Constitutional Basis for Presidential Impeachment in Brazil." _Revista Brasileira de Direito Constitucional_ 28.1 (2016): 87-105.
 
-[^33]: Azevedo, Reinaldo. "The Workers' Party and the Normalization of Corruption." *Veja*, August 2015.
+[^33]: Azevedo, Reinaldo. "The Workers' Party and the Normalization of Corruption." _Veja_, August 2015.
 
-[^34]: Singer, André. "The Rousseff Government and the Abandonment of the New Developmentalist Project." *Novos Estudos* 102 (2015): 5-25.
+[^34]: Singer, André. "The Rousseff Government and the Abandonment of the New Developmentalist Project." _Novos Estudos_ 102 (2015): 5-25.
 
-[^35]: Miguel, Luis Felipe. "The Collapse of Dilma Rousseff's Presidency: From the 2013 Protests to the Impeachment." *Critical Sociology* 44.4-5 (2018): 683-697.
+[^35]: Miguel, Luis Felipe. "The Collapse of Dilma Rousseff's Presidency: From the 2013 Protests to the Impeachment." _Critical Sociology_ 44.4-5 (2018): 683-697.
 
-[^36]: Rousseff, Dilma. Interview with *El País*, March 15, 2015.
+[^36]: Rousseff, Dilma. Interview with _El País_, March 15, 2015.
 
 [^37]: Rousseff, Dilma. "Final Defense Speech to the Brazilian Senate." August 29, 2016.
 

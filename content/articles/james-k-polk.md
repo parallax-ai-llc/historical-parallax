@@ -4,7 +4,14 @@ name: "James K. Polk"
 birth: "1795-11-02"
 death: "1849-06-15"
 nationality: "United States"
-occupation: ["Politician", "Lawyer", "11th President of the United States", "Speaker of the House", "Governor of Tennessee"]
+occupation:
+  [
+    "Politician",
+    "Lawyer",
+    "11th President of the United States",
+    "Speaker of the House",
+    "Governor of Tennessee",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/1/14/James_K._Polk_by_GPA_Healy%2C_1858.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_K._Polk"
@@ -137,27 +144,27 @@ Finally, Polk's presidency is sometimes criticized for its short-term thinking a
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1795 | Born November 2 in Pineville, North Carolina |
-| 1806 | Moved with family to Tennessee |
-| 1812 | Underwent bladder stone surgery without anesthesia |
-| 1816 | Enrolled at University of North Carolina at Chapel Hill |
-| 1818 | Graduated as salutatorian and top student |
-| 1820 | Admitted to the Tennessee bar, began law practice |
-| 1823 | Elected to Tennessee state legislature |
-| 1824 | Married Sarah Childress on January 1 |
-| 1825 | Elected to U.S. House of Representatives |
-| 1835 | Elected Speaker of the House |
-| 1839 | Elected Governor of Tennessee; left House of Representatives |
-| 1841 | Lost reelection as Tennessee governor |
-| 1843 | Lost second gubernatorial campaign |
-| 1844 | Nominated as Democratic presidential candidate; won presidential election |
-| 1845 | Inaugurated as 11th President on March 4; Texas admitted as 28th state on December 29 |
-| 1846 | Oregon Treaty signed June 15; Mexican-American War declared May 13; Walker Tariff passed |
-| 1847 | U.S. forces capture Mexico City in September |
+| Year | Event                                                                                                     |
+| ---- | --------------------------------------------------------------------------------------------------------- |
+| 1795 | Born November 2 in Pineville, North Carolina                                                              |
+| 1806 | Moved with family to Tennessee                                                                            |
+| 1812 | Underwent bladder stone surgery without anesthesia                                                        |
+| 1816 | Enrolled at University of North Carolina at Chapel Hill                                                   |
+| 1818 | Graduated as salutatorian and top student                                                                 |
+| 1820 | Admitted to the Tennessee bar, began law practice                                                         |
+| 1823 | Elected to Tennessee state legislature                                                                    |
+| 1824 | Married Sarah Childress on January 1                                                                      |
+| 1825 | Elected to U.S. House of Representatives                                                                  |
+| 1835 | Elected Speaker of the House                                                                              |
+| 1839 | Elected Governor of Tennessee; left House of Representatives                                              |
+| 1841 | Lost reelection as Tennessee governor                                                                     |
+| 1843 | Lost second gubernatorial campaign                                                                        |
+| 1844 | Nominated as Democratic presidential candidate; won presidential election                                 |
+| 1845 | Inaugurated as 11th President on March 4; Texas admitted as 28th state on December 29                     |
+| 1846 | Oregon Treaty signed June 15; Mexican-American War declared May 13; Walker Tariff passed                  |
+| 1847 | U.S. forces capture Mexico City in September                                                              |
 | 1848 | Treaty of Guadalupe Hidalgo signed February 2; Gold discovered in California; declined to seek reelection |
-| 1849 | Left presidency March 4; died of cholera June 15 in Nashville, Tennessee |
+| 1849 | Left presidency March 4; died of cholera June 15 in Nashville, Tennessee                                  |
 
 ---
 
@@ -192,156 +199,309 @@ This statement reflects Polk's democratic principles, though his support for sla
 ## References
 
 [^1]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^2]: [James K. Polk | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/James-K-Polk)
+
 [^3]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^4]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^5]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^6]: [James K. Polk: Life Before the Presidency | Miller Center](https://millercenter.org/president/polk/life-before-the-presidency)
+
 [^7]: [James K. Polk (1795-1849) - North Carolina History](https://northcarolinahistory.org/encyclopedia/james-k-polk-1795-1849/)
+
 [^8]: [James K. Polk 1795-1849 (L-78) | NC DNCR](https://www.dncr.nc.gov/blog/2024/01/16/james-k-polk-1795-1849-l-78)
+
 [^9]: [James K. Polk - James K. Polk Museum. Columbia, TN](https://jameskpolk.com/history/james-k-polk/)
+
 [^10]: [President James K. Polk: Sarah Polk](https://www.jameskpolk.org/p/sarah-polk.html)
+
 [^11]: [James K. Polk: Life in Brief | Miller Center](https://millercenter.org/president/polk/life-in-brief)
+
 [^12]: [James K. Polk: Life Before the Presidency | Miller Center](https://millercenter.org/president/polk/life-before-the-presidency)
+
 [^13]: [History | NC Historic Sites](https://historicsites.nc.gov/all-sites/president-james-k-polk/history)
+
 [^14]: [James K. Polk - James K. Polk Museum. Columbia, TN](https://jameskpolk.com/history/james-k-polk/)
+
 [^15]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^16]: [James K. Polk | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/James-K-Polk)
+
 [^17]: [James K. Polk: Life Before the Presidency | Miller Center](https://millercenter.org/president/polk/life-before-the-presidency)
+
 [^18]: [Who is James K. Polk? - Tennessee Politics - Tennessee Historical Society](https://tennesseehistory.org/james-k-polk/)
+
 [^19]: [James K. Polk History - James K. Polk Museum. Columbia, TN](https://jameskpolk.com/history/)
-[^20]: [POLK, James Knox | US House of Representatives: History, Art & Archives](https://history.house.gov/People/Listing/P/POLK,-James-Knox-(P000409)/)
+
+[^20]: [POLK, James Knox | US House of Representatives: History, Art & Archives](<https://history.house.gov/People/Listing/P/POLK,-James-Knox-(P000409)/>)
+
 [^21]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^22]: [James K. Polk - Facts, Presidency & Accomplishments](https://www.history.com/articles/james-polk)
+
 [^23]: [James Polk | American Battlefield Trust](https://www.battlefields.org/learn/biographies/james-polk)
-[^24]: [POLK, James Knox | US House of Representatives: History, Art & Archives](https://history.house.gov/People/Listing/P/POLK,-James-Knox-(P000409)/)
+
+[^24]: [POLK, James Knox | US House of Representatives: History, Art & Archives](<https://history.house.gov/People/Listing/P/POLK,-James-Knox-(P000409)/>)
+
 [^25]: [James K. Polk: Life Before the Presidency | Miller Center](https://millercenter.org/president/polk/life-before-the-presidency)
+
 [^26]: [James K. Polk | Miller Center](https://millercenter.org/president/polk)
+
 [^27]: [James K. Polk: Life Before the Presidency | Miller Center](https://millercenter.org/president/polk/life-before-the-presidency)
+
 [^28]: [James Knox Polk - National Governors Association](https://www.nga.org/governor/james-knox-polk/)
-[^29]: [POLK, James Knox | US House of Representatives: History, Art & Archives](https://history.house.gov/People/Listing/P/POLK,-James-Knox-(P000409)/)
+
+[^29]: [POLK, James Knox | US House of Representatives: History, Art & Archives](<https://history.house.gov/People/Listing/P/POLK,-James-Knox-(P000409)/>)
+
 [^30]: [James Knox Polk - National Governors Association](https://www.nga.org/governor/james-knox-polk/)
+
 [^31]: [James K. Polk: Life Before the Presidency | Miller Center](https://millercenter.org/president/polk/life-before-the-presidency)
+
 [^32]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^33]: [James K. Polk - Facts, Presidency & Accomplishments](https://www.history.com/articles/james-polk)
+
 [^34]: [James K. Polk | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/James-K-Polk)
+
 [^35]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^36]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^37]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^38]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)
+
 [^39]: [James K. Polk - Facts, Presidency & Accomplishments](https://www.history.com/articles/james-polk)
+
 [^40]: [Texas annexation - Wikipedia](https://en.wikipedia.org/wiki/Texas_annexation)
+
 [^41]: [The Annexation of Texas, the Mexican-American War](https://history.state.gov/milestones/1830-1860/texas-annexation)
+
 [^42]: [James K. Polk: Foreign Affairs | Miller Center](https://millercenter.org/president/polk/foreign-affairs)
+
 [^43]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^44]: [James K. Polk: Foreign Affairs | Miller Center](https://millercenter.org/president/polk/foreign-affairs)
+
 [^45]: [James K. Polk: Foreign Affairs | Miller Center](https://millercenter.org/president/polk/foreign-affairs)
+
 [^46]: [A Clear Shot across the Continent | TeachingHistory.org](https://teachinghistory.org/history-content/ask-a-historian/23937)
+
 [^47]: [James K. Polk: Foreign Affairs | Miller Center](https://millercenter.org/president/polk/foreign-affairs)
+
 [^48]: [May 11, 1846: War Message to Congress | Miller Center](https://millercenter.org/the-presidency/presidential-speeches/may-11-1846-war-message-congress)
+
 [^49]: [James Polk (1795–1849) - civiced.org](https://www.civiced.org/lincoln-lesson/james-polk-1795-1849)
+
 [^50]: [Mexican–American War - Wikipedia](https://en.wikipedia.org/wiki/Mexican–American_War)
+
 [^51]: [James K. Polk - Key Events | Miller Center](https://millercenter.org/president/james-k-polk/key-events)
+
 [^52]: [The Annexation of Texas, the Mexican-American War](https://history.state.gov/milestones/1830-1860/texas-annexation)
+
 [^53]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^54]: [James K. Polk: Domestic Affairs | Miller Center](https://millercenter.org/president/polk/domestic-affairs)
+
 [^55]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^56]: [James K. Polk: Domestic Affairs | Miller Center](https://millercenter.org/president/polk/domestic-affairs)
+
 [^57]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^58]: [James K. Polk - Facts, Presidency & Accomplishments](https://www.history.com/articles/james-polk)
+
 [^59]: [James K. Polk - James K. Polk Museum. Columbia, TN](https://jameskpolk.com/history/james-k-polk/)
+
 [^60]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^61]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^62]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^63]: [Expansionism, Slavery, and Sectionalism: James K. Polk and ...](https://vurj.vanderbilt.edu/index.php/vurj/article/download/2743/1158/10395)
+
 [^64]: [James Polk (1795–1849) - civiced.org](https://www.civiced.org/lincoln-lesson/james-polk-1795-1849)
+
 [^65]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^66]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^67]: [Expansionism, Slavery, and Sectionalism: James K. Polk and ...](https://vurj.vanderbilt.edu/index.php/vurj/article/download/2743/1158/10395)
+
 [^68]: [James K. Polk's Vision for America: Expansionism and Its Discontents](https://www.usahistorytimeline.com/pages/james-k-polk-s-vision-for-america-expansionism-and-its-discontents-0d293b80.php)
+
 [^69]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^70]: [Expansionism, Slavery, and Sectionalism: James K. Polk and ...](https://vurj.vanderbilt.edu/index.php/vurj/article/download/2743/1158/10395)
+
 [^71]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^72]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^73]: [James K. Polk & Manifest Destiny - Lesson | Study.com](https://study.com/academy/lesson/james-k-polk-manifest-destiny.html)
+
 [^74]: [James K. Polk's Vision for America: Expansionism and Its Discontents](https://www.usahistorytimeline.com/pages/james-k-polk-s-vision-for-america-expansionism-and-its-discontents-0d293b80.php)
+
 [^75]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^76]: [James K. Polk's Vision for America: Expansionism and Its Discontents](https://www.usahistorytimeline.com/pages/james-k-polk-s-vision-for-america-expansionism-and-its-discontents-0d293b80.php)
+
 [^77]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^78]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^79]: [May 11, 1846: War Message to Congress | Miller Center](https://millercenter.org/the-presidency/presidential-speeches/may-11-1846-war-message-congress)
+
 [^80]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^81]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^82]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)
+
 [^83]: [James K. Polk Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-k-polk-quotes)
+
 [^84]: [Sarah Childress Polk - Wikipedia](https://en.wikipedia.org/wiki/Sarah_Childress_Polk)
+
 [^85]: [Sarah Polk - White House Historical Association](https://www.whitehousehistory.org/bios/sarah-polk)
+
 [^86]: [Polk, Sarah Childress | Tennessee Encyclopedia](https://tennesseeencyclopedia.net/entries/sarah-childress-polk/)
+
 [^87]: [Sarah Polk: A Natural Politician When Women Couldn't Vote](https://tnmuseum.org/Stories/posts/sarah-polk)
+
 [^88]: [President James K. Polk: Sarah Polk](https://www.jameskpolk.org/p/sarah-polk.html)
+
 [^89]: [Sarah Polk | Biography, First Lady, & Facts | Britannica](https://www.britannica.com/biography/Sarah-Polk)
+
 [^90]: [Sarah Polk » National First Ladies](https://firstladies.org/home/first-ladies/sarah-polk)
+
 [^91]: [Sarah Polk - White House Historical Association](https://www.whitehousehistory.org/bios/sarah-polk)
+
 [^92]: [Sarah Childress Polk - Wikipedia](https://en.wikipedia.org/wiki/Sarah_Childress_Polk)
+
 [^93]: [Booking It Through History: First Ladies – Sarah Polk](https://thehistorymom.com/2023/11/22/booking-it-through-history-first-ladies-sarah-polk/)
+
 [^94]: [Sarah Childress Polk - Wikipedia](https://en.wikipedia.org/wiki/Sarah_Childress_Polk)
+
 [^95]: [President James K. Polk: Sarah Polk](https://www.jameskpolk.org/p/sarah-polk.html)
+
 [^96]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^97]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^98]: [James K. Polk - Facts, Presidency & Accomplishments](https://www.history.com/articles/james-polk)
+
 [^99]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)
+
 [^100]: [A Somewhat Forgotten President: The Legacy of James K. Polk : We're History](https://werehistory.org/polk/)
+
 [^101]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^102]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^103]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^104]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^105]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^106]: [Expansionism, Slavery, and Sectionalism: James K. Polk and ...](https://vurj.vanderbilt.edu/index.php/vurj/article/download/2743/1158/10395)
+
 [^107]: [James K. Polk's Vision for America: Expansionism and Its Discontents](https://www.usahistorytimeline.com/pages/james-k-polk-s-vision-for-america-expansionism-and-its-discontents-0d293b80.php)
+
 [^108]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^109]: [Was James K Polk a Great President? Considering the War with Mexico | Teaching American History](https://teachingamericanhistory.org/blog/was-james-k-polk-a-great-president-considering-the-war-with-mexico/)
+
 [^110]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^111]: [May 11, 1846: War Message to Congress | Miller Center](https://millercenter.org/the-presidency/presidential-speeches/may-11-1846-war-message-congress)
+
 [^112]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^113]: [A Somewhat Forgotten President: The Legacy of James K. Polk : We're History](https://werehistory.org/polk/)
+
 [^114]: [President James K. Polk | The Charlotte Museum of History](https://charlottemuseum.org/learn/articles/president-james-k-polk/)
+
 [^115]: [A Somewhat Forgotten President: The Legacy of James K. Polk : We're History](https://werehistory.org/polk/)
+
 [^116]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^117]: [Polk, Trump, and Manifest Destiny | American Enterprise Institute - AEI](https://www.aei.org/op-eds/polk-trump-and-manifest-destiny/)
+
 [^118]: [James K. Polk & Manifest Destiny - Lesson | Study.com](https://study.com/academy/lesson/james-k-polk-manifest-destiny.html)
+
 [^119]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^120]: [Rating the Presidents: James K. Polk: potus_geeks — LiveJournal](https://potus-geeks.livejournal.com/1127967.html)
+
 [^121]: [Why do historians rank James K. Polk as one of the greatest Presidents?](https://blog.americanheritage1.com/blog/why-do-historians-rank-polk-as-one-of-the-greatest-presidents)
+
 [^122]: [James K. Polk | C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?personid=39795)
+
 [^123]: [Why do historians rank James K. Polk as one of the greatest Presidents?](https://blog.americanheritage1.com/blog/why-do-historians-rank-polk-as-one-of-the-greatest-presidents)
+
 [^124]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^125]: [James K. Polk - Facts, Presidency & Accomplishments](https://www.history.com/articles/james-polk)
+
 [^126]: [James K. Polk & Manifest Destiny - Lesson | Study.com](https://study.com/academy/lesson/james-k-polk-manifest-destiny.html)
+
 [^127]: [James K. Polk: Foreign Affairs | Miller Center](https://millercenter.org/president/polk/foreign-affairs)
+
 [^128]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^129]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^130]: [James K. Polk - White House Historical Association](https://www.whitehousehistory.org/bios/james-polk)
+
 [^131]: [James K. Polk - Facts, Presidency & Accomplishments](https://www.history.com/articles/james-polk)
+
 [^132]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^133]: [Was James K Polk a Great President? Considering the War with Mexico | Teaching American History](https://teachingamericanhistory.org/blog/was-james-k-polk-a-great-president-considering-the-war-with-mexico/)
+
 [^134]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^135]: [James K. Polk's Vision for America: Expansionism and Its Discontents](https://www.usahistorytimeline.com/pages/james-k-polk-s-vision-for-america-expansionism-and-its-discontents-0d293b80.php)
+
 [^136]: [Expansionism, Slavery, and Sectionalism: James K. Polk and ...](https://vurj.vanderbilt.edu/index.php/vurj/article/download/2743/1158/10395)
+
 [^137]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^138]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^139]: [Expansionism, Slavery, and Sectionalism: James K. Polk and ...](https://vurj.vanderbilt.edu/index.php/vurj/article/download/2743/1158/10395)
+
 [^140]: [James Polk (1795–1849) - civiced.org](https://www.civiced.org/lincoln-lesson/james-polk-1795-1849)
+
 [^141]: [James K. Polk: A Controversial Figure in the History of American Presidents](https://www.usahistorytimeline.com/pages/james-k-polk-a-controversial-figure-in-the-history-of-american-presidents-4ae3ead6.php)
+
 [^142]: [May 11, 1846: War Message to Congress | Miller Center](https://millercenter.org/the-presidency/presidential-speeches/may-11-1846-war-message-congress)
+
 [^143]: [James K. Polk's Vision for America: Expansionism and Its Discontents](https://www.usahistorytimeline.com/pages/james-k-polk-s-vision-for-america-expansionism-and-its-discontents-0d293b80.php)
+
 [^144]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^145]: [James K. Polk & Manifest Destiny - Lesson | Study.com](https://study.com/academy/lesson/james-k-polk-manifest-destiny.html)
+
 [^146]: [James K. Polk: Impact and Legacy | Miller Center](https://millercenter.org/president/polk/impact-and-legacy)
+
 [^147]: [A Somewhat Forgotten President: The Legacy of James K. Polk : We're History](https://werehistory.org/polk/)
+
 [^148]: [James K. Polk - Wikipedia](https://en.wikipedia.org/wiki/James_K._Polk)
+
 [^149]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)
+
 [^150]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)
+
 [^151]: [James K. Polk Quotes - BrainyQuote](https://www.brainyquote.com/authors/james-k-polk-quotes)
+
 [^152]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)
+
 [^153]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)
+
 [^154]: [TOP 25 QUOTES BY JAMES K. POLK | A-Z Quotes](https://www.azquotes.com/author/11751-James_K_Polk)

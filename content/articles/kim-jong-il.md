@@ -4,7 +4,13 @@ name: "Kim Jong-il"
 birth: "1941-02-16"
 death: "2011-12-17"
 nationality: "North Korea"
-occupation: ["Supreme Leader", "General Secretary of the Workers' Party", "Chairman of the National Defence Commission", "Film Director"]
+occupation:
+  [
+    "Supreme Leader",
+    "General Secretary of the Workers' Party",
+    "Chairman of the National Defence Commission",
+    "Film Director",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kim_Jong_il_Portrait-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jong_Il"
@@ -37,7 +43,7 @@ In 1967, Kim Jong-il was appointed to the state propaganda and information depar
 
 The first public confirmation of Kim Jong-il's position as successor came in 1977, when in a booklet he was designated as Kim Il-sung's only heir[^22]. In 1980, he was elevated to the Politburo and was granted the title "Dear Leader," distinguishing him from his father while maintaining the dynastic mystique[^23]. In 1991, he was named commander of the Democratic People's Republic of Korea (DPRK) armed forces[^24].
 
-Kim Jong-il's succession strategy included the early distribution of photographs of the successor, the institutionalization of the Kim-family cult, and the use of mass campaigns, including the Three Revolutions Movement, to build a base of support among cadres in the ruling Korean Workers' Party and among the masses[^25]. He personally guided the production of revolutionary films such as *Sea of Blood* (1969), *The Fate of a Self-Defence Corps Man* (1970), and *The Flower Girl* (1972), using cinema as a tool for ideological indoctrination[^26].
+Kim Jong-il's succession strategy included the early distribution of photographs of the successor, the institutionalization of the Kim-family cult, and the use of mass campaigns, including the Three Revolutions Movement, to build a base of support among cadres in the ruling Korean Workers' Party and among the masses[^25]. He personally guided the production of revolutionary films such as _Sea of Blood_ (1969), _The Fate of a Self-Defence Corps Man_ (1970), and _The Flower Girl_ (1972), using cinema as a tool for ideological indoctrination[^26].
 
 On July 8, 1994, Kim Il-sung died of a heart attack, and Kim Jong-il inherited power[^27]. However, he did not immediately assume all of his father's titles. In October 1997, Kim Jong-il was named General Secretary of the Workers' Party[^28]. In April 1993, he had been named Chairman of the National Defense Commission, a position that became increasingly important under his "military-first" ideology[^29]. This dynastic succession was unprecedented in a communist country, marking a unique development in communist political systems and setting a precedent that would later be followed when Kim Jong-il's own son, Kim Jong-un, succeeded him.
 
@@ -67,7 +73,7 @@ In 1998, Kim Jong-il revised the Constitution to consolidate power and address e
 
 ### Cultural Legacy
 
-Kim Jong-il was a passionate cinephile with a collection of approximately 20,000 films, including James Bond movies, action films, and all Academy Award winners[^44]. His treatise *On the Art of the Cinema* from 1973 is considered the most authoritative work on North Korean filmmaking[^45]. In his 1987 essay "The Cinema and Directing," Kim wrote that cinema occupies an important place in art and literature development and "is a powerful ideological weapon for the revolution and construction"[^46].
+Kim Jong-il was a passionate cinephile with a collection of approximately 20,000 films, including James Bond movies, action films, and all Academy Award winners[^44]. His treatise _On the Art of the Cinema_ from 1973 is considered the most authoritative work on North Korean filmmaking[^45]. In his 1987 essay "The Cinema and Directing," Kim wrote that cinema occupies an important place in art and literature development and "is a powerful ideological weapon for the revolution and construction"[^46].
 
 ---
 
@@ -137,7 +143,7 @@ Some analysts acknowledge that Kim Jong-il did implement certain economic reform
 
 Kim Jong-il's diplomatic engagement, particularly the historic 2000 inter-Korean summit with South Korean President Kim Dae-jung, demonstrated a willingness to engage in dialogue and reduced tensions on the Korean Peninsula, at least temporarily[^88]. For this achievement, some credit Kim with pragmatism and strategic flexibility, even if subsequent developments undermined these gains.
 
-Defenders of Kim Jong-il's cultural legacy point to his genuine passion for cinema and his theoretical writings on film, particularly *On the Art of the Cinema*, which some film scholars consider a serious work of film theory, albeit one serving an authoritarian ideology[^89]. His emphasis on culture and propaganda as tools of governance showed sophistication in understanding the importance of narrative and symbolism in maintaining political power.
+Defenders of Kim Jong-il's cultural legacy point to his genuine passion for cinema and his theoretical writings on film, particularly _On the Art of the Cinema_, which some film scholars consider a serious work of film theory, albeit one serving an authoritarian ideology[^89]. His emphasis on culture and propaganda as tools of governance showed sophistication in understanding the importance of narrative and symbolism in maintaining political power.
 
 ### Negative Views
 
@@ -157,30 +163,30 @@ Western scholars and defectors emphasize that any apparent popular support for K
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1941 | Born February 16 in Vyatskoye, Soviet Union |
-| 1945 | Returned to Korea after World War II ended |
-| 1950-1953 | Moved to China during Korean War |
-| 1963 | Graduated from Kim Il-sung University |
-| 1967 | Appointed to state propaganda and information department |
-| 1973 | Became party secretary of the propaganda department |
-| 1974 | Formally proclaimed as successor to Kim Il-sung |
-| 1977 | Publicly designated as Kim Il-sung's only heir |
-| 1980 | Elevated to Politburo; granted title "Dear Leader" |
-| 1991 | Named commander of DPRK armed forces |
-| 1993 | Named Chairman of the National Defense Commission |
-| 1994 | Kim Il-sung died; Kim Jong-il inherited power (July 8) |
-| 1997 | Named General Secretary of the Workers' Party |
-| 2000 | Historic inter-Korean summit with Kim Dae-jung (June 15) |
-| 2002 | Admitted to producing nuclear weapons; launched July 1 economic measures |
-| 2003 | Kaesong Industrial Park opened |
-| 2006 | Conducted first nuclear test (October) |
-| 2007 | Second inter-Korean summit with Roh Moo-hyun |
-| 2008 | Suffered debilitating stroke (August) |
-| 2009 | Conducted second nuclear test |
-| 2010 | Kim Jong-un promoted to four-star general, designated successor |
-| 2011 | Died December 17 of heart attack while traveling by train |
+| Year      | Event                                                                    |
+| --------- | ------------------------------------------------------------------------ |
+| 1941      | Born February 16 in Vyatskoye, Soviet Union                              |
+| 1945      | Returned to Korea after World War II ended                               |
+| 1950-1953 | Moved to China during Korean War                                         |
+| 1963      | Graduated from Kim Il-sung University                                    |
+| 1967      | Appointed to state propaganda and information department                 |
+| 1973      | Became party secretary of the propaganda department                      |
+| 1974      | Formally proclaimed as successor to Kim Il-sung                          |
+| 1977      | Publicly designated as Kim Il-sung's only heir                           |
+| 1980      | Elevated to Politburo; granted title "Dear Leader"                       |
+| 1991      | Named commander of DPRK armed forces                                     |
+| 1993      | Named Chairman of the National Defense Commission                        |
+| 1994      | Kim Il-sung died; Kim Jong-il inherited power (July 8)                   |
+| 1997      | Named General Secretary of the Workers' Party                            |
+| 2000      | Historic inter-Korean summit with Kim Dae-jung (June 15)                 |
+| 2002      | Admitted to producing nuclear weapons; launched July 1 economic measures |
+| 2003      | Kaesong Industrial Park opened                                           |
+| 2006      | Conducted first nuclear test (October)                                   |
+| 2007      | Second inter-Korean summit with Roh Moo-hyun                             |
+| 2008      | Suffered debilitating stroke (August)                                    |
+| 2009      | Conducted second nuclear test                                            |
+| 2010      | Kim Jong-un promoted to four-star general, designated successor          |
+| 2011      | Died December 17 of heart attack while traveling by train                |
 
 ---
 
@@ -219,106 +225,209 @@ This quote emphasizes the North Korean ideological emphasis on hardship and stru
 ## References
 
 [^1]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
+
 [^2]: [Political Succession in North Korea | FSI](https://spice.fsi.stanford.edu/docs/political_succession_in_north_korea)
+
 [^3]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^4]: [North Korea - Nuclear, Juche, Reunification | Britannica](https://www.britannica.com/place/North-Korea/North-Korea-under-Kim-Jong-Il)
+
 [^5]: [Kim Jong Il | Biography & Facts | Britannica](https://www.britannica.com/biography/Kim-Jong-Il)
+
 [^6]: [Kim Jong Il - Death, North Korea & Family](https://www.biography.com/political-figures/kim-jong-il)
+
 [^7]: [KIM JONG IL'S CULT OF PERSONALITY | Facts and Details](https://factsanddetails.com/korea/North_Korea/Modern_History_2/entry-7200.html)
+
 [^8]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
+
 [^9]: [Kim Jong Il Biography, Leadership & Legacy | Study.com](https://study.com/academy/lesson/kim-jong-il-biography-leadership-legacy.html)
+
 [^10]: [Kim Jong II Biography - Vedantu](https://www.vedantu.com/biography/kim-jong-ii)
+
 [^11]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
+
 [^12]: [Kim Jong Il | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/kim-jong-il)
+
 [^13]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
+
 [^14]: [Kim Jong II Biography - Vedantu](https://www.vedantu.com/biography/kim-jong-ii)
+
 [^15]: [Kim Jong-il and North Korean Films | Library of Congress](https://www.loc.gov/item/2021687522/)
+
 [^16]: [Political Succession in North Korea | FSI](https://spice.fsi.stanford.edu/docs/political_succession_in_north_korea)
+
 [^17]: [The Rise of Kim Jong Il - Evidence from East German Archives | Wilson Center](https://www.wilsoncenter.org/publication/the-rise-kim-jong-il-evidence-east-german-archives)
+
 [^18]: [Kim Jong Il Succeeds His Father in North Korea | EBSCO Research](https://www.ebsco.com/research-starters/history/kim-jong-il-succeeds-his-father-north-korea)
+
 [^19]: [North Korean cult of personality - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_cult_of_personality)
+
 [^20]: [KIM JONG IL'S LEADERSHIP STYLE | Facts and Details](https://factsanddetails.com/korea/North_Korea/Modern_History_2/entry-7198.html)
+
 [^21]: [The Rise of Kim Jong Il - Evidence from East German Archives | Wilson Center](https://www.wilsoncenter.org/publication/the-rise-kim-jong-il-evidence-east-german-archives)
+
 [^22]: [Kim Jong Il Succeeds His Father in North Korea | EBSCO Research](https://www.ebsco.com/research-starters/history/kim-jong-il-succeeds-his-father-north-korea)
+
 [^23]: [North Korean cult of personality - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_cult_of_personality)
+
 [^24]: [Kim Jong Il | Biography & Facts | Britannica](https://www.britannica.com/biography/Kim-Jong-Il)
+
 [^25]: [Hereditary Succession in North Korea: Lessons of the Past | 38 North](https://www.38north.org/2012/04/carmstrong042412/)
+
 [^26]: [Kim Jong-il and North Korean Films | Library of Congress](https://www.loc.gov/item/2021687522/)
+
 [^27]: [Kim Jong Il | Biography & Facts | Britannica](https://www.britannica.com/biography/Kim-Jong-Il)
+
 [^28]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
+
 [^29]: [Kim Jong Il summary | Britannica](https://www.britannica.com/summary/Kim-Jong-Il)
+
 [^30]: [How Kim Jong-un Advanced North Korea's Military | Council on Foreign Relations](https://www.cfr.org/in-brief/north-korea-kim-jong-un-nuclear-decade-ten-years)
+
 [^31]: [North Korea's Nuclear Weapons Program | NCNK](https://www.ncnk.org/resources/briefing-papers/all-briefing-papers/north-koreas-nuclear-weapons-program)
+
 [^32]: [North Korea - Nuclear, Juche, Reunification | Britannica](https://www.britannica.com/place/North-Korea/North-Korea-under-Kim-Jong-Il)
+
 [^33]: [How Kim Jong-un Advanced North Korea's Military | Council on Foreign Relations](https://www.cfr.org/in-brief/north-korea-kim-jong-un-nuclear-decade-ten-years)
+
 [^34]: [North Korea - Nuclear, Juche, Reunification | Britannica](https://www.britannica.com/place/North-Korea/North-Korea-under-Kim-Jong-Il)
+
 [^35]: [North Korea - Nuclear, Juche, Reunification | Britannica](https://www.britannica.com/place/North-Korea/North-Korea-under-Kim-Jong-Il)
+
 [^36]: [Kim Jong-il's military-first politics | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0967067X14000221)
+
 [^37]: [Sunshine Policy - Wikipedia](https://en.wikipedia.org/wiki/Sunshine_Policy)
+
 [^38]: [KIM DAE JUNG AND THE SUNSHINE POLICY](https://ejournal.um.edu.my/index.php/SARJANA/article/download/11013/7598/21755)
+
 [^39]: [Inter-Korean Relations | NCNK](https://www.ncnk.org/resources/briefing-papers/all-briefing-papers/inter-korean-relations)
+
 [^40]: [The Case for Kaesong | International Crisis Group](https://www.crisisgroup.org/asia/north-east-asia/korean-peninsula/300-case-kaesong-fostering-korean-peace-through-economic-ties)
+
 [^41]: [North Korean economic reform - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_economic_reform)
+
 [^42]: [Kim Jong Un's Tortuous Path to Economic Reform | War on the Rocks](https://warontherocks.com/2022/06/kim-jong-uns-tortuous-path-to-economic-reform/)
+
 [^43]: [North Korean economic reform - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_economic_reform)
+
 [^44]: [The endless fascination Kim Jong Il had with global cinema | Far Out Magazine](https://faroutmagazine.co.uk/kim-jong-il-unlikely-cinephile/)
+
 [^45]: [On the Art of the Cinema - Wikipedia](https://en.wikipedia.org/wiki/On_the_Art_of_the_Cinema)
+
 [^46]: [Kim Jong-il and North Korean Films | Library of Congress](https://www.loc.gov/item/2021687522/)
+
 [^47]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^48]: [North Korea: Abusive Rule 10 Years after Kim Jong Il | Human Rights Watch](https://www.hrw.org/news/2021/12/16/north-korea-abusive-rule-10-years-after-kim-jong-il)
+
 [^49]: [Power-Hungry North Korean Leaders Blamed for Famine | Radio Free Asia](https://www.rfa.org/english/news/korea/food-10312013185353.html)
+
 [^50]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^51]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^52]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
+
 [^53]: [North Korea: Nothing to Celebrate About Kim Jong-Il | Human Rights Watch](https://www.hrw.org/news/2015/02/13/north-korea-nothing-celebrate-about-kim-jong-il)
+
 [^54]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^55]: [Abduction of Shin Sang-ok and Choi Eun-hee - Wikipedia](https://en.wikipedia.org/wiki/Abduction_of_Shin_Sang-ok_and_Choi_Eun-hee)
+
 [^56]: [North Korea - Nuclear, Juche, Reunification | Britannica](https://www.britannica.com/place/North-Korea/North-Korea-under-Kim-Jong-Il)
+
 [^57]: [KIM JONG IL'S CULT OF PERSONALITY | Facts and Details](https://factsanddetails.com/korea/North_Korea/Modern_History_2/entry-7200.html)
+
 [^58]: [North Korean cult of personality - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_cult_of_personality)
+
 [^59]: [North Korean cult of personality - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_cult_of_personality)
-[^60]: [Kim family (North Korea) - Wikipedia](https://en.wikipedia.org/wiki/Kim_family_(North_Korea))
+
+[^60]: [Kim family (North Korea) - Wikipedia](<https://en.wikipedia.org/wiki/Kim_family_(North_Korea)>)
+
 [^61]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
+
 [^62]: [Kim Jong-un's mysterious family tree | Brookings](https://www.brookings.edu/articles/kim-jong-uns-mysterious-family-tree/)
+
 [^63]: [Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Kim_Jong_Il)
-[^64]: [Kim family (North Korea) - Wikipedia](https://en.wikipedia.org/wiki/Kim_family_(North_Korea))
+
+[^64]: [Kim family (North Korea) - Wikipedia](<https://en.wikipedia.org/wiki/Kim_family_(North_Korea)>)
+
 [^65]: [Kim Jong Il - Death, North Korea & Family](https://www.biography.com/political-figures/kim-jong-il)
-[^66]: [Kim family (North Korea) - Wikipedia](https://en.wikipedia.org/wiki/Kim_family_(North_Korea))
+
+[^66]: [Kim family (North Korea) - Wikipedia](<https://en.wikipedia.org/wiki/Kim_family_(North_Korea)>)
+
 [^67]: [Death and state funeral of Kim Jong Il - Wikipedia](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Kim_Jong_Il)
+
 [^68]: [A Look At North Korean Dictator Kim Jong Un's Family Tree | Time](https://time.com/4681304/north-korea-kim-family-album/)
+
 [^69]: [The endless fascination Kim Jong Il had with global cinema | Far Out Magazine](https://faroutmagazine.co.uk/kim-jong-il-unlikely-cinephile/)
+
 [^70]: [The endless fascination Kim Jong Il had with global cinema | Far Out Magazine](https://faroutmagazine.co.uk/kim-jong-il-unlikely-cinephile/)
+
 [^71]: [Kim Jong Il (1941-2011) | North Korea Leadership Watch](https://www.nkleadershipwatch.org/kim-jong-il/)
+
 [^72]: [Kim Jong Il | Biography & Facts | Britannica](https://www.britannica.com/biography/Kim-Jong-Il)
+
 [^73]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^74]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^75]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^76]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^77]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^78]: [Hereditary Succession in North Korea: Lessons of the Past | 38 North](https://www.38north.org/2012/04/carmstrong042412/)
+
 [^79]: [Kim Jong-il's military-first politics | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0967067X14000221)
+
 [^80]: [North Korean cult of personality - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_cult_of_personality)
+
 [^81]: [North Korean cult of personality - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_cult_of_personality)
+
 [^82]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^83]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^84]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^85]: [Collective Memory and Everyday Politics in North Korea | Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/10357823.2023.2226814)
+
 [^86]: [North Korean economic reform - Wikipedia](https://en.wikipedia.org/wiki/North_Korean_economic_reform)
+
 [^87]: [The Case for Kaesong | International Crisis Group](https://www.crisisgroup.org/asia/north-east-asia/korean-peninsula/300-case-kaesong-fostering-korean-peace-through-economic-ties)
+
 [^88]: [Sunshine Policy - Wikipedia](https://en.wikipedia.org/wiki/Sunshine_Policy)
+
 [^89]: [On the Art of the Cinema - Wikipedia](https://en.wikipedia.org/wiki/On_the_Art_of_the_Cinema)
+
 [^90]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^91]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^92]: [North Korea: Kim Jong-Il's Legacy of Mass Atrocity | Human Rights Watch](https://www.hrw.org/news/2011/12/19/north-korea-kim-jong-ils-legacy-mass-atrocity)
+
 [^93]: [Power-Hungry North Korean Leaders Blamed for Famine | Radio Free Asia](https://www.rfa.org/english/news/korea/food-10312013185353.html)
+
 [^94]: [Kim Jong Un's Tortuous Path to Economic Reform | War on the Rocks](https://warontherocks.com/2022/06/kim-jong-uns-tortuous-path-to-economic-reform/)
+
 [^95]: [KIM JONG IL'S CULT OF PERSONALITY | Facts and Details](https://factsanddetails.com/korea/North_Korea/Modern_History_2/entry-7200.html)
+
 [^96]: [North Korea's Nuclear Weapons Program | NCNK](https://www.ncnk.org/resources/briefing-papers/all-briefing-papers/north-koreas-nuclear-weapons-program)
+
 [^97]: [Kim Jong-Il: leadership and legacy | openDemocracy](https://www.opendemocracy.net/en/kim-jong-il-leadership-and-legacy/)
+
 [^98]: [TOP 24 QUOTES BY KIM JONG IL | A-Z Quotes](https://www.azquotes.com/author/7153-Kim_Jong_Il)
+
 [^99]: [Kim Jong Il Quotes - BrainyQuote](https://www.brainyquote.com/authors/kim-jong-il-quotes)
+
 [^100]: [15 of the best Quotes By Kim Jong il | Quoteikon](https://www.quoteikon.com/kim-jong-il-quotes.html)
+
 [^101]: [Top 23 KIM JONG IL famous quotes](https://www.inspiringquotes.us/author/3603-kim-jong-il)
+
 [^102]: [Kim Jong Il Quotes - BrainyQuote](https://www.brainyquote.com/authors/kim-jong-il-quotes)
+
 [^103]: [Top 23 KIM JONG IL famous quotes](https://www.inspiringquotes.us/author/3603-kim-jong-il)
+
 [^104]: [TOP 24 QUOTES BY KIM JONG IL | A-Z Quotes](https://www.azquotes.com/author/7153-Kim_Jong_Il)

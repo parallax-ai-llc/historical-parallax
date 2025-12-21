@@ -151,28 +151,28 @@ Modern critical scholarship has also examined how Bayezid's expansionist policie
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1354 | Born on May 10 in Ottoman Beylik to Sultan Murad I and Gülçiçek Hatun |
-| 1381 | Appointed governor of Kayseri |
-| 1389 | Father Murad I killed at Battle of Kosovo (June 15); Bayezid ascends to throne |
-| 1389 | Orders execution of younger brother Yakub Çelebi to prevent succession challenges |
-| 1390 | Conquers beyliks of Aydin, Saruhan, and Menteshe in single campaign |
-| 1390 | Marries Princess Olivera Despina, daughter of Serbian Prince Lazar |
-| 1391 | Captures Skopje, establishing it as major base of operations |
-| 1393 | Occupies Tirnova in Bulgaria (July) |
-| 1394 | Begins siege and blockade of Constantinople |
-| 1394 | Conquers Salonika (April) |
-| 1394 | Defeated by Wallachians at Battle of Rovine (October 31) |
-| 1396 | Achieves crushing victory over crusaders at Battle of Nicopolis (September 25) |
-| 1396 | Named sultan by Abbasid caliph of Cairo following Nicopolis victory |
-| 1397 | Defeats and kills emir of Karaman at Battle of Akçay, annexing his territory |
+| Year    | Event                                                                               |
+| ------- | ----------------------------------------------------------------------------------- |
+| 1354    | Born on May 10 in Ottoman Beylik to Sultan Murad I and Gülçiçek Hatun               |
+| 1381    | Appointed governor of Kayseri                                                       |
+| 1389    | Father Murad I killed at Battle of Kosovo (June 15); Bayezid ascends to throne      |
+| 1389    | Orders execution of younger brother Yakub Çelebi to prevent succession challenges   |
+| 1390    | Conquers beyliks of Aydin, Saruhan, and Menteshe in single campaign                 |
+| 1390    | Marries Princess Olivera Despina, daughter of Serbian Prince Lazar                  |
+| 1391    | Captures Skopje, establishing it as major base of operations                        |
+| 1393    | Occupies Tirnova in Bulgaria (July)                                                 |
+| 1394    | Begins siege and blockade of Constantinople                                         |
+| 1394    | Conquers Salonika (April)                                                           |
+| 1394    | Defeated by Wallachians at Battle of Rovine (October 31)                            |
+| 1396    | Achieves crushing victory over crusaders at Battle of Nicopolis (September 25)      |
+| 1396    | Named sultan by Abbasid caliph of Cairo following Nicopolis victory                 |
+| 1397    | Defeats and kills emir of Karaman at Battle of Akçay, annexing his territory        |
 | 1397-98 | Conquers emirate of Karaman and ex-emirate of Burhan-ad-Din (Tokat, Sivas, Kayseri) |
-| 1402 | Defeated and captured by Timur at Battle of Ankara (July 28) |
-| 1402 | Siege of Constantinople lifted as Bayezid confronts Timur's invasion |
-| 1403 | Dies in captivity in Akşehir (March 8), triggering Ottoman Interregnum |
-| 1403-13 | Ottoman Interregnum: civil war among Bayezid's sons |
-| 1413 | Empire reunified under Bayezid's son Mehmed I after Battle of Çamurlu |
+| 1402    | Defeated and captured by Timur at Battle of Ankara (July 28)                        |
+| 1402    | Siege of Constantinople lifted as Bayezid confronts Timur's invasion                |
+| 1403    | Dies in captivity in Akşehir (March 8), triggering Ottoman Interregnum              |
+| 1403-13 | Ottoman Interregnum: civil war among Bayezid's sons                                 |
+| 1413    | Empire reunified under Bayezid's son Mehmed I after Battle of Çamurlu               |
 
 ---
 
@@ -184,112 +184,214 @@ Modern critical scholarship has also examined how Bayezid's expansionist policie
 
 > "A feared man, precipitate in deeds of war, a persecutor of Christians as no other around him, and in the religion of the Arabs a most ardent disciple of Muhammad." - Greek historian Doukas's contemporary description of Bayezid I[^103]
 
-*Note: Direct quotations from Bayezid I are rare in surviving historical sources. Most historical records provide descriptions and accounts of his actions rather than his own words. The exchange with Timur regarding the cage is reported by Ottoman historian Mehmed Neshri (1450-1520) but should be treated as possibly apocryphal.*
+_Note: Direct quotations from Bayezid I are rare in surviving historical sources. Most historical records provide descriptions and accounts of his actions rather than his own words. The exchange with Timur regarding the cage is reported by Ottoman historian Mehmed Neshri (1450-1520) but should be treated as possibly apocryphal._
 
 ---
 
 ## References
 
 [^1]: Britannica, "[Bayezid I | Conqueror, Expansion & Legacy](https://www.britannica.com/biography/Bayezid-I)"
+
 [^2]: Daily Sabah, "[Mighty sovereigns of Ottoman throne: Sultan Bayezid the Thunderbolt](https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-bayezid-the-thunderbolt)"
+
 [^3]: Britannica, "[Bayezid I | Conqueror, Expansion & Legacy](https://www.britannica.com/biography/Bayezid-I)"
+
 [^4]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^5]: The Collector, "[The Tumultuous Ottoman Interregnum](https://www.thecollector.com/ottoman-empire-interregnum-bayezid-fall-civil-war/)"
+
 [^6]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^7]: Geni, "[Bayezid I ottoman sultan](https://www.geni.com/people/Bayezid-I-ottoman-sultan/385217766960003428)"
+
 [^8]: All About Turkey, "[Sultan Yildirim Bayezit](https://www.allaboutturkey.com/yildirim.html)"
+
 [^9]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^10]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^11]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^12]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^13]: Everything About Turkey, "[The Life and Legacy of Sultan Bayezid I](https://everythingabouturkey.com/the-life-and-legacy-of-sultan-bayezid-i-the-thunderbolt-of-the-ottoman-empire)"
+
 [^14]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^15]: People Pill, "[Bayezid I: Ottoman sultan](https://peoplepill.com/i/bayezid-i)"
+
 [^16]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^17]: Wikipedia, "[Ottoman Interregnum](https://en.wikipedia.org/wiki/Ottoman_Interregnum)"
+
 [^18]: Everything About Turkey, "[The Life and Legacy of Sultan Bayezid I](https://everythingabouturkey.com/the-life-and-legacy-of-sultan-bayezid-i-the-thunderbolt-of-the-ottoman-empire)"
+
 [^19]: Military Wiki, "[Bayezid I](https://military-history.fandom.com/wiki/Bayezid_I)"
+
 [^20]: Military Wiki, "[Bayezid I](https://military-history.fandom.com/wiki/Bayezid_I)"
+
 [^21]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^22]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^23]: Military Wiki, "[Bayezid I](https://military-history.fandom.com/wiki/Bayezid_I)"
+
 [^24]: Military Wiki, "[Bayezid I](https://military-history.fandom.com/wiki/Bayezid_I)"
+
 [^25]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^26]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^27]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^28]: Wikipedia, "[Battle of Nicopolis](https://en.wikipedia.org/wiki/Battle_of_Nicopolis)"
+
 [^29]: Britannica, "[Battle of Nicopolis (1396)](https://www.britannica.com/event/Battle-of-Nicopolis)"
+
 [^30]: Daily Sabah, "[Mighty sovereigns of Ottoman throne: Sultan Bayezid the Thunderbolt](https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-bayezid-the-thunderbolt)"
+
 [^31]: Britannica, "[Battle of Nicopolis (1396)](https://www.britannica.com/event/Battle-of-Nicopolis)"
+
 [^32]: Wikipedia, "[Battle of Nicopolis](https://en.wikipedia.org/wiki/Battle_of_Nicopolis)"
+
 [^33]: World History Encyclopedia, "[Battle of Nicopolis](https://www.worldhistory.org/Battle_of_Nicopolis/)"
+
 [^34]: Britannica, "[Ottoman Empire - Institutions, Expansion, Reforms](https://www.britannica.com/place/Ottoman-Empire/Ottoman-institutions-in-the-14th-and-15th-centuries)"
+
 [^35]: World History Encyclopedia, "[Battle of Nicopolis](https://www.worldhistory.org/Battle_of_Nicopolis/)"
-[^36]: Wikipedia, "[Siege of Constantinople (1394–1402)](https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1394–1402))"
-[^37]: Wikipedia, "[Siege of Constantinople (1394–1402)](https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1394–1402))"
-[^38]: Military Wiki, "[Siege of Constantinople (1394–1402)](https://military-history.fandom.com/wiki/Siege_of_Constantinople_(1394–1402))"
+
+[^36]: Wikipedia, "[Siege of Constantinople (1394–1402)](<https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1394–1402)>)"
+
+[^37]: Wikipedia, "[Siege of Constantinople (1394–1402)](<https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1394–1402)>)"
+
+[^38]: Military Wiki, "[Siege of Constantinople (1394–1402)](<https://military-history.fandom.com/wiki/Siege_of_Constantinople_(1394–1402)>)"
+
 [^39]: Britannica, "[Bayezid I | Conqueror, Expansion & Legacy](https://www.britannica.com/biography/Bayezid-I)"
+
 [^40]: Britannica, "[Bayezid I | Conqueror, Expansion & Legacy](https://www.britannica.com/biography/Bayezid-I)"
+
 [^41]: Britannica, "[Ottoman Empire - Institutions, Expansion, Reforms](https://www.britannica.com/place/Ottoman-Empire/Ottoman-institutions-in-the-14th-and-15th-centuries)"
+
 [^42]: Britannica, "[Ottoman Empire - Institutions, Expansion, Reforms](https://www.britannica.com/place/Ottoman-Empire/Ottoman-institutions-in-the-14th-and-15th-centuries)"
+
 [^43]: Everything About Turkey, "[The Life and Legacy of Sultan Bayezid I](https://everythingabouturkey.com/the-life-and-legacy-of-sultan-bayezid-i-the-thunderbolt-of-the-ottoman-empire)"
+
 [^44]: Wikipedia, "[Bayezid I Mosque](https://en.wikipedia.org/wiki/Bayezid_I_Mosque)"
+
 [^45]: Wikipedia, "[Bayezid I Mosque](https://en.wikipedia.org/wiki/Bayezid_I_Mosque)"
+
 [^46]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^47]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^48]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^49]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^50]: Magnificent Century History, "[Bayezid and Bayezid: history did not repeat itself](https://magnitoria.tumblr.com/post/123119408186/bayezid-and-bayezid-history-did-not-repeat-itself)"
+
 [^51]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^52]: Warfare History Network, "[Clash of the Tyrants](https://warfarehistorynetwork.com/article/clash-of-the-tyrants/)"
+
 [^53]: Wikipedia, "[Battle of Ankara](https://en.wikipedia.org/wiki/Battle_of_Ankara)"
+
 [^54]: Wikipedia, "[Battle of Ankara](https://en.wikipedia.org/wiki/Battle_of_Ankara)"
+
 [^55]: The Collector, "[Bayezid the Thunderbolt, the Ottoman Sultan Who Died in Captivity](https://www.thecollector.com/bayezid-thunderbolt-ottoman-sultan-died-captivity/)"
+
 [^56]: The Collector, "[The Tumultuous Ottoman Interregnum](https://www.thecollector.com/ottoman-empire-interregnum-bayezid-fall-civil-war/)"
+
 [^57]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^58]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^59]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^60]: The Collector, "[Bayezid the Thunderbolt, the Ottoman Sultan Who Died in Captivity](https://www.thecollector.com/bayezid-thunderbolt-ottoman-sultan-died-captivity/)"
+
 [^61]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^62]: Geni, "[Bayezid I ottoman sultan](https://www.geni.com/people/Bayezid-I-ottoman-sultan/385217766960003428)"
+
 [^63]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^64]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^65]: Warfare History Network, "[Clash of the Tyrants](https://warfarehistorynetwork.com/article/clash-of-the-tyrants/)"
+
 [^66]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^67]: Britannica, "[Bayezid I | Conqueror, Expansion & Legacy](https://www.britannica.com/biography/Bayezid-I)"
+
 [^68]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^69]: Britannica, "[Bayezid I | Conqueror, Expansion & Legacy](https://www.britannica.com/biography/Bayezid-I)"
+
 [^70]: World History Encyclopedia, "[Battle of Nicopolis](https://www.worldhistory.org/Battle_of_Nicopolis/)"
+
 [^71]: Britannica, "[Ottoman Empire - Institutions, Expansion, Reforms](https://www.britannica.com/place/Ottoman-Empire/Ottoman-institutions-in-the-14th-and-15th-centuries)"
+
 [^72]: Everything About Turkey, "[The Life and Legacy of Sultan Bayezid I](https://everythingabouturkey.com/the-life-and-legacy-of-sultan-bayezid-i-the-thunderbolt-of-the-ottoman-empire)"
+
 [^73]: Wikipedia, "[Bayezid I Mosque](https://en.wikipedia.org/wiki/Bayezid_I_Mosque)"
+
 [^74]: Everything About Turkey, "[The Life and Legacy of Sultan Bayezid I](https://everythingabouturkey.com/the-life-and-legacy-of-sultan-bayezid-i-the-thunderbolt-of-the-ottoman-empire)"
+
 [^75]: The Collector, "[The Tumultuous Ottoman Interregnum](https://www.thecollector.com/ottoman-empire-interregnum-bayezid-fall-civil-war/)"
+
 [^76]: The Collector, "[Bayezid the Thunderbolt, the Ottoman Sultan Who Died in Captivity](https://www.thecollector.com/bayezid-thunderbolt-ottoman-sultan-died-captivity/)"
+
 [^77]: The Collector, "[Bayezid the Thunderbolt, the Ottoman Sultan Who Died in Captivity](https://www.thecollector.com/bayezid-thunderbolt-ottoman-sultan-died-captivity/)"
+
 [^78]: ResearchGate, "[Bayezid's Cage: A Re-examination of a Venerable Academic Controversy](https://www.researchgate.net/publication/232020996_Bayezid's_Cage_A_Re-examination_of_a_Venerable_Academic_Controversy)"
+
 [^79]: The Collector, "[Bayezid the Thunderbolt, the Ottoman Sultan Who Died in Captivity](https://www.thecollector.com/bayezid-thunderbolt-ottoman-sultan-died-captivity/)"
+
 [^80]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^81]: ResearchGate, "[Histories of Bayezid I, historians of Bayezid II](https://www.researchgate.net/publication/259436994_Histories_of_Bayezid_I_historians_of_Bayezid_II_Rethinking_late_fifteenth-century_Ottoman_historiography)"
+
 [^82]: Cambridge Core, "[Histories of Bayezid I, historians of Bayezid II](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/histories-of-bayezid-i-historians-of-bayezid-ii-rethinking-late-fifteenthcentury-ottoman-historiography/7FF67B09E9CF89780E8EE8BC55404610)"
+
 [^83]: Everything About Turkey, "[The Life and Legacy of Sultan Bayezid I](https://everythingabouturkey.com/the-life-and-legacy-of-sultan-bayezid-i-the-thunderbolt-of-the-ottoman-empire)"
+
 [^84]: Britannica, "[Bayezid I | Conqueror, Expansion & Legacy](https://www.britannica.com/biography/Bayezid-I)"
+
 [^85]: Daily Sabah, "[Mighty sovereigns of Ottoman throne: Sultan Bayezid the Thunderbolt](https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-bayezid-the-thunderbolt)"
+
 [^86]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^87]: World History Encyclopedia, "[Battle of Nicopolis](https://www.worldhistory.org/Battle_of_Nicopolis/)"
+
 [^88]: The Collector, "[Bayezid the Thunderbolt, the Ottoman Sultan Who Died in Captivity](https://www.thecollector.com/bayezid-thunderbolt-ottoman-sultan-died-captivity/)"
+
 [^89]: Everything About Turkey, "[The Life and Legacy of Sultan Bayezid I](https://everythingabouturkey.com/the-life-and-legacy-of-sultan-bayezid-i-the-thunderbolt-of-the-ottoman-empire)"
+
 [^90]: Wikipedia, "[Bayezid I Mosque](https://en.wikipedia.org/wiki/Bayezid_I_Mosque)"
+
 [^91]: The Collector, "[The Tumultuous Ottoman Interregnum](https://www.thecollector.com/ottoman-empire-interregnum-bayezid-fall-civil-war/)"
+
 [^92]: Medium, "[Introduction: Setting the Stage for the Battle of Ankara](https://medium.com/@managing2024/introduction-setting-the-stage-for-the-battle-of-ankara-73a5ff96440a)"
+
 [^93]: Wikipedia, "[Battle of Ankara](https://en.wikipedia.org/wiki/Battle_of_Ankara)"
+
 [^94]: Wikipedia, "[Battle of Ankara](https://en.wikipedia.org/wiki/Battle_of_Ankara)"
+
 [^95]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^96]: The Famous People, "[Bayezid I Biography](https://www.thefamouspeople.com/profiles/bayezid-i-36857.php)"
+
 [^97]: Warfare History Network, "[Clash of the Tyrants](https://warfarehistorynetwork.com/article/clash-of-the-tyrants/)"
+
 [^98]: The Collector, "[The Tumultuous Ottoman Interregnum](https://www.thecollector.com/ottoman-empire-interregnum-bayezid-fall-civil-war/)"
+
 [^99]: ResearchGate, "[Bayezid's Cage: A Re-examination of a Venerable Academic Controversy](https://www.researchgate.net/publication/232020996_Bayezid's_Cage_A_Re-examination_of_a_Venerable_Academic_Controversy)"
+
 [^100]: Wikipedia, "[Bayezid I](https://en.wikipedia.org/wiki/Bayezid_I)"
+
 [^101]: The Collector, "[Bayezid the Thunderbolt, the Ottoman Sultan Who Died in Captivity](https://www.thecollector.com/bayezid-thunderbolt-ottoman-sultan-died-captivity/)"
+
 [^102]: Warfare History Network, "[Clash of the Tyrants](https://warfarehistorynetwork.com/article/clash-of-the-tyrants/)"
+
 [^103]: Warfare History Network, "[Clash of the Tyrants](https://warfarehistorynetwork.com/article/clash-of-the-tyrants/)"

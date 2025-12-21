@@ -135,22 +135,22 @@ Finally, critics note that Arthur made no effort to use his presidency as a plat
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1829 | Born October 5 in Fairfield, Vermont |
-| 1848 | Graduated Phi Beta Kappa from Union College |
-| 1854 | Admitted to the New York bar; won Jennings v. Third Avenue Railroad case desegregating streetcars |
-| 1859 | Married Ellen Lewis Herndon |
-| 1861-1863 | Served as Engineer-in-Chief of New York State Militia during Civil War |
-| 1871 | Appointed Collector of the Port of New York by President Grant |
-| 1878 | Suspended from customs house position by President Hayes |
-| 1880 | Wife Ellen died January 12; nominated for Vice President in June; elected in November |
-| 1881 | Inaugurated as Vice President March 4; became President September 19 after Garfield's death |
-| 1882 | Diagnosed with Bright's disease; signed Chinese Exclusion Act; vetoed Rivers and Harbors Act |
-| 1883 | Signed Pendleton Civil Service Reform Act January 16; authorized first steel-hulled warships |
-| 1884 | Failed to secure Republican nomination; succeeded by Grover Cleveland |
-| 1885 | Left office March 4 |
-| 1886 | Died November 18 in New York City at age 57 |
+| Year      | Event                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------- |
+| 1829      | Born October 5 in Fairfield, Vermont                                                              |
+| 1848      | Graduated Phi Beta Kappa from Union College                                                       |
+| 1854      | Admitted to the New York bar; won Jennings v. Third Avenue Railroad case desegregating streetcars |
+| 1859      | Married Ellen Lewis Herndon                                                                       |
+| 1861-1863 | Served as Engineer-in-Chief of New York State Militia during Civil War                            |
+| 1871      | Appointed Collector of the Port of New York by President Grant                                    |
+| 1878      | Suspended from customs house position by President Hayes                                          |
+| 1880      | Wife Ellen died January 12; nominated for Vice President in June; elected in November             |
+| 1881      | Inaugurated as Vice President March 4; became President September 19 after Garfield's death       |
+| 1882      | Diagnosed with Bright's disease; signed Chinese Exclusion Act; vetoed Rivers and Harbors Act      |
+| 1883      | Signed Pendleton Civil Service Reform Act January 16; authorized first steel-hulled warships      |
+| 1884      | Failed to secure Republican nomination; succeeded by Grover Cleveland                             |
+| 1885      | Left office March 4                                                                               |
+| 1886      | Died November 18 in New York City at age 57                                                       |
 
 ---
 
@@ -170,57 +170,110 @@ Finally, critics note that Arthur made no effort to use his presidency as a plat
 
 ## References
 
-[^1]: Reeves, Thomas C. *Gentleman Boss: The Life of Chester Alan Arthur*. New York: Knopf, 1975.
-[^2]: Howe, George Frederick. *Chester A. Arthur: A Quarter-Century of Machine Politics*. New York: Dodd, Mead, 1934.
-[^3]: Doenecke, Justus D. *The Presidencies of James A. Garfield and Chester A. Arthur*. Lawrence: University Press of Kansas, 1981.
-[^4]: Greenberger, Scott S. *The Unexpected President: The Life and Times of Chester A. Arthur*. Boston: Da Capo Press, 2017.
-[^5]: Finkelman, Paul. "The Protection of Black Rights in Seward's New York." *Civil War History* 34, no. 3 (1988): 211-234.
-[^6]: Welke, Barbara Young. *Recasting American Liberty: Gender, Race, Law, and the Railroad Revolution, 1865-1920*. Cambridge: Cambridge University Press, 2001.
-[^7]: McElroy, Robert. *Levi Parsons Morton: Banker, Diplomat and Statesman*. New York: Putnam, 1930.
-[^8]: Jordan, David M. *Roscoe Conkling of New York: Voice in the Senate*. Ithaca: Cornell University Press, 1971.
-[^9]: Hoogenboom, Ari. *Outlawing the Spoils: A History of the Civil Service Reform Movement, 1865-1883*. Urbana: University of Illinois Press, 1961.
-[^10]: White, Leonard D. *The Republican Era: A Study in Administrative History, 1869-1901*. New York: Macmillan, 1958.
-[^11]: Peskin, Allan. "Who Were the Stalwarts?" *Political Science Quarterly* 99, no. 4 (1984): 703-716.
-[^12]: Clancy, Herbert J. *The Presidential Election of 1880*. Chicago: Loyola University Press, 1958.
-[^13]: Ackerman, Kenneth D. *Dark Horse: The Surprise Election and Political Murder of President James A. Garfield*. New York: Carroll & Graf, 2003.
-[^14]: Rutkow, Ira. *James A. Garfield*. New York: Times Books, 2006.
-[^15]: Van Riper, Paul P. *History of the United States Civil Service*. Evanston: Row, Peterson, 1958.
-[^16]: Skowronek, Stephen. *Building a New American State: The Expansion of National Administrative Capacities, 1877-1920*. Cambridge: Cambridge University Press, 1982.
-[^17]: Herrick, Walter R. *The American Naval Revolution*. Baton Rouge: Louisiana State University Press, 1966.
-[^18]: Thompson, Margaret Susan. *The "Spider Web": Congress and Lobbying in the Age of Grant*. Ithaca: Cornell University Press, 1985.
-[^19]: Gyory, Andrew. *Closing the Gate: Race, Politics, and the Chinese Exclusion Act*. Chapel Hill: University of North Carolina Press, 1998.
-[^20]: Lowitt, Richard. "The Origins of Western Water Rights and the Development of Water Law." *Journal of the West* 7, no. 4 (1968): 534-555.
-[^21]: Marcus, Robert D. *Grand Old Party: Political Structure in the Gilded Age, 1880-1896*. New York: Oxford University Press, 1971.
-[^22]: Lew-Williams, Beth. *The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America*. Cambridge: Harvard University Press, 2018.
-[^23]: Summers, Mark Wahlgren. *Rum, Romanism, and Rebellion: The Making of a President, 1884*. Chapel Hill: University of North Carolina Press, 2000.
-[^24]: Montgomery, David. *The Fall of the House of Labor: The Workplace, the State, and American Labor Activism, 1865-1925*. Cambridge: Cambridge University Press, 1987.
-[^25]: Seale, William. *The President's House: A History*. 2 vols. Washington: White House Historical Association, 1986.
-[^26]: Goldstein, Joel K. "The Rising Power of the Modern Vice Presidency." *Presidential Studies Quarterly* 38, no. 3 (2008): 374-389.
-[^27]: Crapol, Edward P. "Ellen Lewis Herndon Arthur." In *American First Ladies: Their Lives and Their Legacy*, edited by Lewis L. Gould, 189-198. New York: Garland, 1996.
-[^28]: Boller, Paul F. *Presidential Wives: An Anecdotal History*. New York: Oxford University Press, 1988.
-[^29]: Holloway, Laura C. *The Ladies of the White House*. Philadelphia: Bradley & Co., 1882.
-[^30]: Whitcomb, John, and Claire Whitcomb. *Real Life at the White House: 200 Years of Daily Life at America's Most Famous Residence*. New York: Routledge, 2000.
-[^31]: Park, Bert Edward. *The Impact of Illness on World Leaders*. Philadelphia: University of Pennsylvania Press, 1986.
-[^32]: Karabell, Zachary. *Chester Alan Arthur*. New York: Times Books, 2004.
-[^33]: Felzenberg, Alvin S. *The Leaders We Deserved (and a Few We Didn't): Rethinking the Presidential Rating Game*. New York: Basic Books, 2008.
-[^34]: Johnson, Ronald N., and Gary D. Libecap. *The Federal Civil Service System and the Problem of Bureaucracy*. Chicago: University of Chicago Press, 1994.
-[^35]: Challener, Richard D. *Admirals, Generals, and American Foreign Policy, 1898-1914*. Princeton: Princeton University Press, 1973.
-[^36]: Summers, Mark Wahlgren. *The Era of Good Stealings*. New York: Oxford University Press, 1993.
-[^37]: Wang, Xi. *The Trial of Democracy: Black Suffrage and Northern Republicans, 1860-1910*. Athens: University of Georgia Press, 1997.
+[^1]: Reeves, Thomas C. _Gentleman Boss: The Life of Chester Alan Arthur_. New York: Knopf, 1975.
+
+[^2]: Howe, George Frederick. _Chester A. Arthur: A Quarter-Century of Machine Politics_. New York: Dodd, Mead, 1934.
+
+[^3]: Doenecke, Justus D. _The Presidencies of James A. Garfield and Chester A. Arthur_. Lawrence: University Press of Kansas, 1981.
+
+[^4]: Greenberger, Scott S. _The Unexpected President: The Life and Times of Chester A. Arthur_. Boston: Da Capo Press, 2017.
+
+[^5]: Finkelman, Paul. "The Protection of Black Rights in Seward's New York." _Civil War History_ 34, no. 3 (1988): 211-234.
+
+[^6]: Welke, Barbara Young. _Recasting American Liberty: Gender, Race, Law, and the Railroad Revolution, 1865-1920_. Cambridge: Cambridge University Press, 2001.
+
+[^7]: McElroy, Robert. _Levi Parsons Morton: Banker, Diplomat and Statesman_. New York: Putnam, 1930.
+
+[^8]: Jordan, David M. _Roscoe Conkling of New York: Voice in the Senate_. Ithaca: Cornell University Press, 1971.
+
+[^9]: Hoogenboom, Ari. _Outlawing the Spoils: A History of the Civil Service Reform Movement, 1865-1883_. Urbana: University of Illinois Press, 1961.
+
+[^10]: White, Leonard D. _The Republican Era: A Study in Administrative History, 1869-1901_. New York: Macmillan, 1958.
+
+[^11]: Peskin, Allan. "Who Were the Stalwarts?" _Political Science Quarterly_ 99, no. 4 (1984): 703-716.
+
+[^12]: Clancy, Herbert J. _The Presidential Election of 1880_. Chicago: Loyola University Press, 1958.
+
+[^13]: Ackerman, Kenneth D. _Dark Horse: The Surprise Election and Political Murder of President James A. Garfield_. New York: Carroll & Graf, 2003.
+
+[^14]: Rutkow, Ira. _James A. Garfield_. New York: Times Books, 2006.
+
+[^15]: Van Riper, Paul P. _History of the United States Civil Service_. Evanston: Row, Peterson, 1958.
+
+[^16]: Skowronek, Stephen. _Building a New American State: The Expansion of National Administrative Capacities, 1877-1920_. Cambridge: Cambridge University Press, 1982.
+
+[^17]: Herrick, Walter R. _The American Naval Revolution_. Baton Rouge: Louisiana State University Press, 1966.
+
+[^18]: Thompson, Margaret Susan. _The "Spider Web": Congress and Lobbying in the Age of Grant_. Ithaca: Cornell University Press, 1985.
+
+[^19]: Gyory, Andrew. _Closing the Gate: Race, Politics, and the Chinese Exclusion Act_. Chapel Hill: University of North Carolina Press, 1998.
+
+[^20]: Lowitt, Richard. "The Origins of Western Water Rights and the Development of Water Law." _Journal of the West_ 7, no. 4 (1968): 534-555.
+
+[^21]: Marcus, Robert D. _Grand Old Party: Political Structure in the Gilded Age, 1880-1896_. New York: Oxford University Press, 1971.
+
+[^22]: Lew-Williams, Beth. _The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America_. Cambridge: Harvard University Press, 2018.
+
+[^23]: Summers, Mark Wahlgren. _Rum, Romanism, and Rebellion: The Making of a President, 1884_. Chapel Hill: University of North Carolina Press, 2000.
+
+[^24]: Montgomery, David. _The Fall of the House of Labor: The Workplace, the State, and American Labor Activism, 1865-1925_. Cambridge: Cambridge University Press, 1987.
+
+[^25]: Seale, William. _The President's House: A History_. 2 vols. Washington: White House Historical Association, 1986.
+
+[^26]: Goldstein, Joel K. "The Rising Power of the Modern Vice Presidency." _Presidential Studies Quarterly_ 38, no. 3 (2008): 374-389.
+
+[^27]: Crapol, Edward P. "Ellen Lewis Herndon Arthur." In _American First Ladies: Their Lives and Their Legacy_, edited by Lewis L. Gould, 189-198. New York: Garland, 1996.
+
+[^28]: Boller, Paul F. _Presidential Wives: An Anecdotal History_. New York: Oxford University Press, 1988.
+
+[^29]: Holloway, Laura C. _The Ladies of the White House_. Philadelphia: Bradley & Co., 1882.
+
+[^30]: Whitcomb, John, and Claire Whitcomb. _Real Life at the White House: 200 Years of Daily Life at America's Most Famous Residence_. New York: Routledge, 2000.
+
+[^31]: Park, Bert Edward. _The Impact of Illness on World Leaders_. Philadelphia: University of Pennsylvania Press, 1986.
+
+[^32]: Karabell, Zachary. _Chester Alan Arthur_. New York: Times Books, 2004.
+
+[^33]: Felzenberg, Alvin S. _The Leaders We Deserved (and a Few We Didn't): Rethinking the Presidential Rating Game_. New York: Basic Books, 2008.
+
+[^34]: Johnson, Ronald N., and Gary D. Libecap. _The Federal Civil Service System and the Problem of Bureaucracy_. Chicago: University of Chicago Press, 1994.
+
+[^35]: Challener, Richard D. _Admirals, Generals, and American Foreign Policy, 1898-1914_. Princeton: Princeton University Press, 1973.
+
+[^36]: Summers, Mark Wahlgren. _The Era of Good Stealings_. New York: Oxford University Press, 1993.
+
+[^37]: Wang, Xi. _The Trial of Democracy: Black Suffrage and Northern Republicans, 1860-1910_. Athens: University of Georgia Press, 1997.
+
 [^38]: New York Times. "Ex-President Arthur Dead." November 19, 1886.
-[^39]: Reeves, Thomas C. "Chester A. Arthur and Campaign Assessments in the Election of 1880." *The Historian* 31, no. 4 (1969): 573-582.
-[^40]: Skowronek, Stephen. "The Reassociation of Ideas and Purposes: Racism, Liberalism, and the American Political Tradition." *American Political Science Review* 100, no. 3 (2006): 385-401.
-[^41]: Milkis, Sidney M., and Michael Nelson. *The American Presidency: Origins and Development, 1776-2014*. Washington: CQ Press, 2015.
-[^42]: Taranto, James, and Leonard Leo, eds. *Presidential Leadership: Rating the Best and the Worst in the White House*. New York: Wall Street Journal Books, 2004.
-[^43]: Foner, Eric. *Gateway to Freedom: The Hidden History of the Underground Railroad*. New York: W.W. Norton, 2015.
-[^44]: Crenson, Matthew A., and Benjamin Ginsberg. *Presidential Power: Unchecked and Unbalanced*. New York: W.W. Norton, 2007.
-[^45]: Lew-Williams, Beth. "Before Restriction Became Exclusion: America's Experiment in Diplomatic Immigration Control." *Pacific Historical Review* 83, no. 1 (2014): 24-56.
-[^46]: Brands, H.W. *American Colossus: The Triumph of Capitalism, 1865-1900*. New York: Doubleday, 2010.
-[^47]: Trachtenberg, Alan. *The Incorporation of America: Culture and Society in the Gilded Age*. New York: Hill and Wang, 1982.
-[^48]: Goldstein, Joel K. *The White House Vice Presidency: The Path to Significance, Mondale to Biden*. Lawrence: University Press of Kansas, 2016.
-[^49]: Lears, Jackson. *Rebirth of a Nation: The Making of Modern America, 1877-1920*. New York: HarperCollins, 2009.
-[^50]: Atchison, Albert. "Personal Recollections of Chester A. Arthur." *McClure's Magazine* 33 (1909): 512-519.
-[^51]: Arthur, Chester A. "First Annual Message to Congress." December 6, 1881. *The American Presidency Project*.
+
+[^39]: Reeves, Thomas C. "Chester A. Arthur and Campaign Assessments in the Election of 1880." _The Historian_ 31, no. 4 (1969): 573-582.
+
+[^40]: Skowronek, Stephen. "The Reassociation of Ideas and Purposes: Racism, Liberalism, and the American Political Tradition." _American Political Science Review_ 100, no. 3 (2006): 385-401.
+
+[^41]: Milkis, Sidney M., and Michael Nelson. _The American Presidency: Origins and Development, 1776-2014_. Washington: CQ Press, 2015.
+
+[^42]: Taranto, James, and Leonard Leo, eds. _Presidential Leadership: Rating the Best and the Worst in the White House_. New York: Wall Street Journal Books, 2004.
+
+[^43]: Foner, Eric. _Gateway to Freedom: The Hidden History of the Underground Railroad_. New York: W.W. Norton, 2015.
+
+[^44]: Crenson, Matthew A., and Benjamin Ginsberg. _Presidential Power: Unchecked and Unbalanced_. New York: W.W. Norton, 2007.
+
+[^45]: Lew-Williams, Beth. "Before Restriction Became Exclusion: America's Experiment in Diplomatic Immigration Control." _Pacific Historical Review_ 83, no. 1 (2014): 24-56.
+
+[^46]: Brands, H.W. _American Colossus: The Triumph of Capitalism, 1865-1900_. New York: Doubleday, 2010.
+
+[^47]: Trachtenberg, Alan. _The Incorporation of America: Culture and Society in the Gilded Age_. New York: Hill and Wang, 1982.
+
+[^48]: Goldstein, Joel K. _The White House Vice Presidency: The Path to Significance, Mondale to Biden_. Lawrence: University Press of Kansas, 2016.
+
+[^49]: Lears, Jackson. _Rebirth of a Nation: The Making of Modern America, 1877-1920_. New York: HarperCollins, 2009.
+
+[^50]: Atchison, Albert. "Personal Recollections of Chester A. Arthur." _McClure's Magazine_ 33 (1909): 512-519.
+
+[^51]: Arthur, Chester A. "First Annual Message to Congress." December 6, 1881. _The American Presidency Project_.
+
 [^52]: Arthur, Chester A. "Proclamation on the Death of President Garfield." September 22, 1881.
-[^53]: Richardson, James D., ed. *A Compilation of the Messages and Papers of the Presidents*. Vol. 8. Washington: Bureau of National Literature, 1897.
+
+[^53]: Richardson, James D., ed. _A Compilation of the Messages and Papers of the Presidents_. Vol. 8. Washington: Bureau of National Literature, 1897.
+
 [^54]: Arthur, Chester A. "Executive Order—Announcing the Death of President Garfield." September 20, 1881.

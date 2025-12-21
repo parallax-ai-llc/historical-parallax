@@ -141,27 +141,27 @@ Critics also note that Eva's politics of resentment contributed to Argentina's p
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1919 | Born María Eva Duarte on May 7 in Los Toldos, Buenos Aires Province |
-| 1926 | Father Juan Duarte dies; family faces poverty and social stigma |
-| 1934 | Moves to Buenos Aires at age 15 to pursue acting career |
-| 1935-1943 | Works as actress in theater, film, and radio with increasing success |
-| 1944 | Meets Colonel Juan Perón on January 22 at charity event |
-| 1945 | Helps mobilize workers for Perón's release from arrest (October 17) |
-| 1945 | Marries Juan Perón on October 22 |
-| 1946 | Becomes First Lady when Juan Perón inaugurated as President (June 4) |
-| 1947 | Women's suffrage law passed (September 23); undertakes European "Rainbow Tour" |
-| 1948 | Establishes the Eva Perón Foundation |
-| 1949 | Founds the Female Peronist Party |
-| 1950 | Health begins deteriorating; first symptoms of cervical cancer |
-| 1951 | Congress declares her "Spiritual Leader of the Nation"; renounces vice-presidential nomination (August 22); undergoes surgery (November 5) |
-| 1952 | Makes final public appearance at Juan Perón's second inauguration (June 4) |
-| 1952 | Dies of cervical cancer on July 26 at age 33 |
-| 1952 | Body embalmed and displayed; over 2 million people file past |
-| 1955 | After Perón's overthrow, body hidden by military regime |
-| 1971 | Body returned to Juan Perón in Madrid, Spain |
-| 1976 | Body finally returned to Argentina and interred in Recoleta Cemetery |
+| Year      | Event                                                                                                                                      |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1919      | Born María Eva Duarte on May 7 in Los Toldos, Buenos Aires Province                                                                        |
+| 1926      | Father Juan Duarte dies; family faces poverty and social stigma                                                                            |
+| 1934      | Moves to Buenos Aires at age 15 to pursue acting career                                                                                    |
+| 1935-1943 | Works as actress in theater, film, and radio with increasing success                                                                       |
+| 1944      | Meets Colonel Juan Perón on January 22 at charity event                                                                                    |
+| 1945      | Helps mobilize workers for Perón's release from arrest (October 17)                                                                        |
+| 1945      | Marries Juan Perón on October 22                                                                                                           |
+| 1946      | Becomes First Lady when Juan Perón inaugurated as President (June 4)                                                                       |
+| 1947      | Women's suffrage law passed (September 23); undertakes European "Rainbow Tour"                                                             |
+| 1948      | Establishes the Eva Perón Foundation                                                                                                       |
+| 1949      | Founds the Female Peronist Party                                                                                                           |
+| 1950      | Health begins deteriorating; first symptoms of cervical cancer                                                                             |
+| 1951      | Congress declares her "Spiritual Leader of the Nation"; renounces vice-presidential nomination (August 22); undergoes surgery (November 5) |
+| 1952      | Makes final public appearance at Juan Perón's second inauguration (June 4)                                                                 |
+| 1952      | Dies of cervical cancer on July 26 at age 33                                                                                               |
+| 1952      | Body embalmed and displayed; over 2 million people file past                                                                               |
+| 1955      | After Perón's overthrow, body hidden by military regime                                                                                    |
+| 1971      | Body returned to Juan Perón in Madrid, Spain                                                                                               |
+| 1976      | Body finally returned to Argentina and interred in Recoleta Cemetery                                                                       |
 
 ---
 
@@ -185,106 +185,106 @@ Critics also note that Eva's politics of resentment contributed to Argentina's p
 
 ## References
 
-[^1]: Fraser, Nicholas and Marysa Navarro. *Evita: The Real Life of Eva Perón*. New York: W.W. Norton & Company, 1996, pp. 3-15.
+[^1]: Fraser, Nicholas and Marysa Navarro. _Evita: The Real Life of Eva Perón_. New York: W.W. Norton & Company, 1996, pp. 3-15.
 
-[^2]: Page, Joseph A. *Perón: A Biography*. New York: Random House, 1983, pp. 45-52.
+[^2]: Page, Joseph A. _Perón: A Biography_. New York: Random House, 1983, pp. 45-52.
 
-[^3]: Taylor, J.M. *Eva Perón: The Myths of a Woman*. Chicago: University of Chicago Press, 1979, pp. 21-28.
+[^3]: Taylor, J.M. _Eva Perón: The Myths of a Woman_. Chicago: University of Chicago Press, 1979, pp. 21-28.
 
-[^4]: Dujovne Ortiz, Alicia. *Eva Perón: A Biography*. New York: St. Martin's Press, 1996, pp. 34-61.
+[^4]: Dujovne Ortiz, Alicia. _Eva Perón: A Biography_. New York: St. Martin's Press, 1996, pp. 34-61.
 
-[^5]: Borroni, Otelo and Roberto Vacca. *La vida de Eva Perón: Testimonios para su historia*. Buenos Aires: Editorial Galerna, 1970, pp. 87-95.
+[^5]: Borroni, Otelo and Roberto Vacca. _La vida de Eva Perón: Testimonios para su historia_. Buenos Aires: Editorial Galerna, 1970, pp. 87-95.
 
-[^6]: James, Daniel. *Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976*. Cambridge: Cambridge University Press, 1988, pp. 23-35.
+[^6]: James, Daniel. _Resistance and Integration: Peronism and the Argentine Working Class, 1946-1976_. Cambridge: Cambridge University Press, 1988, pp. 23-35.
 
-[^7]: Navarro, Marysa. "Evita and Peronism," in Michael L. Conniff, ed., *Latin American Populism in Comparative Perspective*. Albuquerque: University of New Mexico Press, 1982, pp. 15-32.
+[^7]: Navarro, Marysa. "Evita and Peronism," in Michael L. Conniff, ed., _Latin American Populism in Comparative Perspective_. Albuquerque: University of New Mexico Press, 1982, pp. 15-32.
 
-[^8]: "The Eva Perón Foundation: Social Aid and Political Propaganda," *Hispanic American Historical Review* 64:1 (1984), pp. 47-73.
+[^8]: "The Eva Perón Foundation: Social Aid and Political Propaganda," _Hispanic American Historical Review_ 64:1 (1984), pp. 47-73.
 
-[^9]: Plotkin, Mariano. *Mañana es San Perón: A Cultural History of Perón's Argentina*. Wilmington: SR Books, 2003, pp. 145-178.
+[^9]: Plotkin, Mariano. _Mañana es San Perón: A Cultural History of Perón's Argentina_. Wilmington: SR Books, 2003, pp. 145-178.
 
-[^10]: Bianchi, Susana and Norma Sanchis. *El Partido Peronista Femenino*. Buenos Aires: Centro Editor de América Latina, 1988, pp. 34-56.
+[^10]: Bianchi, Susana and Norma Sanchis. _El Partido Peronista Femenino_. Buenos Aires: Centro Editor de América Latina, 1988, pp. 34-56.
 
-[^11]: Torre, Juan Carlos. *La vieja guardia sindical y Perón*. Buenos Aires: Sudamericana, 1990, pp. 112-134.
+[^11]: Torre, Juan Carlos. _La vieja guardia sindical y Perón_. Buenos Aires: Sudamericana, 1990, pp. 112-134.
 
-[^12]: Barnes, John. *Evita, First Lady: A Biography of Eva Perón*. New York: Grove Press, 1978, pp. 123-156.
+[^12]: Barnes, John. _Evita, First Lady: A Biography of Eva Perón_. New York: Grove Press, 1978, pp. 123-156.
 
-[^13]: Perón, Eva. *La razón de mi vida*. Buenos Aires: Ediciones Peuser, 1951, pp. 234-245.
+[^13]: Perón, Eva. _La razón de mi vida_. Buenos Aires: Ediciones Peuser, 1951, pp. 234-245.
 
-[^14]: Rock, David. *Argentina 1516-1987: From Spanish Colonization to Alfonsín*. Berkeley: University of California Press, 1987, pp. 267-289.
+[^14]: Rock, David. _Argentina 1516-1987: From Spanish Colonization to Alfonsín_. Berkeley: University of California Press, 1987, pp. 267-289.
 
-[^15]: Crassweller, Robert D. *Perón and the Enigmas of Argentina*. New York: W.W. Norton, 1987, pp. 198-215.
+[^15]: Crassweller, Robert D. _Perón and the Enigmas of Argentina_. New York: W.W. Norton, 1987, pp. 198-215.
 
-[^16]: Di Tella, Guido and Rudiger Dornbusch, eds. *The Political Economy of Argentina, 1946-83*. London: Macmillan, 1989, pp. 45-78.
+[^16]: Di Tella, Guido and Rudiger Dornbusch, eds. _The Political Economy of Argentina, 1946-83_. London: Macmillan, 1989, pp. 45-78.
 
-[^17]: "Press Freedom and Peronist Argentina, 1946-1955," *Journal of Latin American Studies* 28:3 (1996), pp. 639-662.
+[^17]: "Press Freedom and Peronist Argentina, 1946-1955," _Journal of Latin American Studies_ 28:3 (1996), pp. 639-662.
 
-[^18]: Martínez, Tomás Eloy. *Santa Evita*. Buenos Aires: Planeta, 1995, pp. 156-189.
+[^18]: Martínez, Tomás Eloy. _Santa Evita_. Buenos Aires: Planeta, 1995, pp. 156-189.
 
-[^19]: Luna, Félix. *Perón y su tiempo*. Buenos Aires: Sudamericana, 1984, Vol. 1, pp. 287-312.
+[^19]: Luna, Félix. _Perón y su tiempo_. Buenos Aires: Sudamericana, 1984, Vol. 1, pp. 287-312.
 
-[^20]: Feinmann, José Pablo. *Evita*. Buenos Aires: Ariel, 2012, pp. 178-203.
+[^20]: Feinmann, José Pablo. _Evita_. Buenos Aires: Ariel, 2012, pp. 178-203.
 
-[^21]: Fraser and Navarro, *Evita: The Real Life of Eva Perón*, pp. 89-92.
+[^21]: Fraser and Navarro, _Evita: The Real Life of Eva Perón_, pp. 89-92.
 
-[^22]: Saulquin, Susana. *La moda en Argentina*. Buenos Aires: Emecé, 2006, pp. 123-145.
+[^22]: Saulquin, Susana. _La moda en Argentina_. Buenos Aires: Emecé, 2006, pp. 123-145.
 
-[^23]: Page, Joseph A. *Perón: A Biography*, pp. 234-256.
+[^23]: Page, Joseph A. _Perón: A Biography_, pp. 234-256.
 
-[^24]: Dujovne Ortiz, *Eva Perón: A Biography*, pp. 145-167.
+[^24]: Dujovne Ortiz, _Eva Perón: A Biography_, pp. 145-167.
 
-[^25]: "The Death of Eva Perón: Medicine, Politics, and Popular Emotion," *The Americas* 63:4 (2007), pp. 591-622.
+[^25]: "The Death of Eva Perón: Medicine, Politics, and Popular Emotion," _The Americas_ 63:4 (2007), pp. 591-622.
 
-[^26]: González, Ernesto. *El entierro de Evita*. Buenos Aires: Sudamericana, 2007, pp. 45-89.
+[^26]: González, Ernesto. _El entierro de Evita_. Buenos Aires: Sudamericana, 2007, pp. 45-89.
 
-[^27]: Chamosa, Oscar. *The Argentine Folklore Movement: Sugar Elites, Criollo Workers, and the Politics of Cultural Nationalism, 1900-1955*. Tucson: University of Arizona Press, 2010, pp. 256-278.
+[^27]: Chamosa, Oscar. _The Argentine Folklore Movement: Sugar Elites, Criollo Workers, and the Politics of Cultural Nationalism, 1900-1955_. Tucson: University of Arizona Press, 2010, pp. 256-278.
 
-[^28]: Lloyd Webber, Andrew and Tim Rice. *Evita: The Legend of Eva Perón*. London: Elm Tree Books, 1978.
+[^28]: Lloyd Webber, Andrew and Tim Rice. _Evita: The Legend of Eva Perón_. London: Elm Tree Books, 1978.
 
-[^29]: Lobato, Mirta Zaida, ed. *Cuando las mujeres reinaban: Belleza, virtud y poder en la Argentina del siglo XX*. Buenos Aires: Biblos, 2005, pp. 167-198.
+[^29]: Lobato, Mirta Zaida, ed. _Cuando las mujeres reinaban: Belleza, virtud y poder en la Argentina del siglo XX_. Buenos Aires: Biblos, 2005, pp. 167-198.
 
-[^30]: Tedesco, Juan Carlos. *Educación y sociedad en la Argentina (1880-1945)*. Buenos Aires: Solar, 1986, pp. 289-312.
+[^30]: Tedesco, Juan Carlos. _Educación y sociedad en la Argentina (1880-1945)_. Buenos Aires: Solar, 1986, pp. 289-312.
 
-[^31]: O'Donnell, Guillermo. *Bureaucratic Authoritarianism: Argentina, 1966-1973, in Comparative Perspective*. Berkeley: University of California Press, 1988, pp. 134-156.
+[^31]: O'Donnell, Guillermo. _Bureaucratic Authoritarianism: Argentina, 1966-1973, in Comparative Perspective_. Berkeley: University of California Press, 1988, pp. 134-156.
 
-[^32]: Gerchunoff, Pablo and Lucas Llach. *El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas*. Buenos Aires: Ariel, 2003, pp. 178-234.
+[^32]: Gerchunoff, Pablo and Lucas Llach. _El ciclo de la ilusión y el desencanto: Un siglo de políticas económicas argentinas_. Buenos Aires: Ariel, 2003, pp. 178-234.
 
-[^33]: Navarro, Marysa. "Evita's Charismatic Leadership," in Michael L. Conniff, ed., *Latin American Populism in Comparative Perspective*. Albuquerque: University of New Mexico Press, 1982, pp. 47-66.
+[^33]: Navarro, Marysa. "Evita's Charismatic Leadership," in Michael L. Conniff, ed., _Latin American Populism in Comparative Perspective_. Albuquerque: University of New Mexico Press, 1982, pp. 47-66.
 
-[^34]: Page, Joseph A. *Perón: A Biography*, p. 289.
+[^34]: Page, Joseph A. _Perón: A Biography_, p. 289.
 
-[^35]: Skidmore, Thomas E. and Peter H. Smith. *Modern Latin America*, 7th edition. Oxford: Oxford University Press, 2009, pp. 156-178.
+[^35]: Skidmore, Thomas E. and Peter H. Smith. _Modern Latin America_, 7th edition. Oxford: Oxford University Press, 2009, pp. 156-178.
 
-[^36]: Carlson, Marifran. *¡Feminismo! The Woman's Movement in Argentina from Its Beginnings to Eva Perón*. Chicago: Academy Chicago Publishers, 1988, pp. 189-234.
+[^36]: Carlson, Marifran. _¡Feminismo! The Woman's Movement in Argentina from Its Beginnings to Eva Perón_. Chicago: Academy Chicago Publishers, 1988, pp. 189-234.
 
-[^37]: Belmartino, Susana. *La atención médica argentina en el siglo XX*. Buenos Aires: Siglo XXI, 2005, pp. 123-156.
+[^37]: Belmartino, Susana. _La atención médica argentina en el siglo XX_. Buenos Aires: Siglo XXI, 2005, pp. 123-156.
 
-[^38]: Svampa, Maristella. *La sociedad excluyente: La Argentina bajo el signo del neoliberalismo*. Buenos Aires: Taurus, 2005, pp. 234-267.
+[^38]: Svampa, Maristella. _La sociedad excluyente: La Argentina bajo el signo del neoliberalismo_. Buenos Aires: Taurus, 2005, pp. 234-267.
 
-[^39]: Plotkin, Mariano. *Mañana es San Perón*, pp. 89-134.
+[^39]: Plotkin, Mariano. _Mañana es San Perón_, pp. 89-134.
 
-[^40]: Rodríguez, Carlos A. "The Argentine Economic Decline," *The Cato Journal* 22:3 (2003), pp. 389-411.
+[^40]: Rodríguez, Carlos A. "The Argentine Economic Decline," _The Cato Journal_ 22:3 (2003), pp. 389-411.
 
-[^41]: Masiello, Francine. *Between Civilization and Barbarism: Women, Nation, and Literary Culture in Modern Argentina*. Lincoln: University of Nebraska Press, 1992, pp. 178-203.
+[^41]: Masiello, Francine. _Between Civilization and Barbarism: Women, Nation, and Literary Culture in Modern Argentina_. Lincoln: University of Nebraska Press, 1992, pp. 178-203.
 
-[^42]: Romero, Luis Alberto. *A History of Argentina in the Twentieth Century*. University Park: Pennsylvania State University Press, 2002, pp. 123-145.
+[^42]: Romero, Luis Alberto. _A History of Argentina in the Twentieth Century_. University Park: Pennsylvania State University Press, 2002, pp. 123-145.
 
-[^43]: Fraser and Navarro, *Evita: The Real Life of Eva Perón*, p. 178.
+[^43]: Fraser and Navarro, _Evita: The Real Life of Eva Perón_, p. 178.
 
 [^44]: British Foreign Office Documents on Argentina, 1947-1948, National Archives, Kew, FO 371/61489.
 
-[^45]: Lewis, Paul H. *Guerrillas and Generals: The "Dirty War" in Argentina*. Westport, CT: Praeger, 2002, pp. 34-56.
+[^45]: Lewis, Paul H. _Guerrillas and Generals: The "Dirty War" in Argentina_. Westport, CT: Praeger, 2002, pp. 34-56.
 
 [^46]: Speech transcript, August 22, 1951, Archivo General de la Nación, Buenos Aires.
 
-[^47]: Perón, Eva. *La razón de mi vida*, p. 167.
+[^47]: Perón, Eva. _La razón de mi vida_, p. 167.
 
-[^48]: Interview, *Democracia*, March 8, 1949.
+[^48]: Interview, _Democracia_, March 8, 1949.
 
-[^49]: Quoted in Fraser and Navarro, *Evita: The Real Life of Eva Perón*, p. 134.
+[^49]: Quoted in Fraser and Navarro, _Evita: The Real Life of Eva Perón_, p. 134.
 
 [^50]: Radio address, October 17, 1951, Archivo de Radio Nacional.
 
-[^51]: Speech at inauguration of Hospital de Niños, 1948, cited in Page, *Perón: A Biography*, p. 241.
+[^51]: Speech at inauguration of Hospital de Niños, 1948, cited in Page, _Perón: A Biography_, p. 241.
 
-[^52]: Quoted in Dujovne Ortiz, *Eva Perón: A Biography*, p. 312.
+[^52]: Quoted in Dujovne Ortiz, _Eva Perón: A Biography_, p. 312.

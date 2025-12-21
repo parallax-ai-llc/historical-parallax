@@ -137,26 +137,26 @@ At the time of his death in 1970, some characterized Cárdenas as "an authoritar
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1895 | Born on May 21 in Jiquilpan, Michoacán |
-| 1911 | Father dies; Cárdenas becomes family breadwinner at age 16 |
-| 1913 | Joins the Mexican Revolution at age 18, fighting against Victoriano Huerta |
-| 1920s | Rises through military ranks to brigadier general and division general |
-| 1928-1932 | Serves as Governor of Michoacán, implementing progressive policies |
-| 1933 | Selected as presidential candidate by Plutarco Elías Calles |
-| 1934 | Wins presidential election and takes office on December 1 |
-| 1935-1936 | Outmaneuvers and exiles Calles, consolidating presidential power |
-| 1936 | Expropriates 448,000 hectares in La Laguna region; founds CTM labor confederation |
-| 1936 | Passes comprehensive agrarian reform law |
-| 1938 | Nationalizes oil industry on March 18; creates PEMEX; reorganizes ruling party into PRM |
-| 1940 | Presidential term ends; succeeded by Manuel Ávila Camacho |
-| 1942 | Serves as Secretary of National Defense during World War II |
-| 1942 | U.S.-Mexico agreement on oil compensation signed (Cooke-Zevada accord) |
-| 1947 | British government accepts compensation for expropriated oil companies |
-| 1960s | Active in progressive causes and anti-imperialist movements |
-| 1970 | Dies of lung cancer on October 19 in Mexico City at age 75 |
-| 1970 | Buried in Monument to the Revolution alongside other revolutionary leaders |
+| Year      | Event                                                                                   |
+| --------- | --------------------------------------------------------------------------------------- |
+| 1895      | Born on May 21 in Jiquilpan, Michoacán                                                  |
+| 1911      | Father dies; Cárdenas becomes family breadwinner at age 16                              |
+| 1913      | Joins the Mexican Revolution at age 18, fighting against Victoriano Huerta              |
+| 1920s     | Rises through military ranks to brigadier general and division general                  |
+| 1928-1932 | Serves as Governor of Michoacán, implementing progressive policies                      |
+| 1933      | Selected as presidential candidate by Plutarco Elías Calles                             |
+| 1934      | Wins presidential election and takes office on December 1                               |
+| 1935-1936 | Outmaneuvers and exiles Calles, consolidating presidential power                        |
+| 1936      | Expropriates 448,000 hectares in La Laguna region; founds CTM labor confederation       |
+| 1936      | Passes comprehensive agrarian reform law                                                |
+| 1938      | Nationalizes oil industry on March 18; creates PEMEX; reorganizes ruling party into PRM |
+| 1940      | Presidential term ends; succeeded by Manuel Ávila Camacho                               |
+| 1942      | Serves as Secretary of National Defense during World War II                             |
+| 1942      | U.S.-Mexico agreement on oil compensation signed (Cooke-Zevada accord)                  |
+| 1947      | British government accepts compensation for expropriated oil companies                  |
+| 1960s     | Active in progressive causes and anti-imperialist movements                             |
+| 1970      | Dies of lung cancer on October 19 in Mexico City at age 75                              |
+| 1970      | Buried in Monument to the Revolution alongside other revolutionary leaders              |
 
 ---
 
@@ -177,90 +177,177 @@ At the time of his death in 1970, some characterized Cárdenas as "an authoritar
 ## References
 
 [^1]: Britannica. "Lázaro Cárdenas | Mexican President, Revolutionary Hero." https://www.britannica.com/biography/Lazaro-Cardenas
+
 [^2]: Wikipedia. "Lázaro Cárdenas." https://en.wikipedia.org/wiki/Lázaro_Cárdenas
+
 [^3]: Notable Biographies. "Lázaro Cárdenas Biography - life, family, name, school, young, son." https://www.notablebiographies.com/Ca-Ch/C-rdenas-L-zaro.html
+
 [^4]: Encyclopedia.com. "Lazaro Cardenas." https://www.encyclopedia.com/people/history/mexican-history-biographies/lazaro-cardenas
+
 [^5]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^6]: Encyclopedia.com. "Lazaro Cardenas."
+
 [^7]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^8]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^9]: Encyclopedia.com. "Lazaro Cardenas."
+
 [^10]: Encyclopedia.com. "Cárdenas del Río, Lázaro (1895–1970)." https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/cardenas-del-rio-lazaro-1895-1970
+
 [^11]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^12]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^13]: Wikipedia. "Lázaro Cárdenas."
+
 [^14]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^15]: Britannica. "Lázaro Cárdenas | Mexican President, Revolutionary Hero."
+
 [^16]: Wikipedia. "Lázaro Cárdenas."
+
 [^17]: Encyclopedia.com. "Lazaro Cardenas."
+
 [^18]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^19]: Encyclopedia.com. "Lazaro Cardenas."
+
 [^20]: Encyclopedia.com. "Lazaro Cardenas."
+
 [^21]: Wikipedia. "Lázaro Cárdenas."
+
 [^22]: Wikipedia. "Mexican oil expropriation." https://en.wikipedia.org/wiki/Mexican_oil_expropriation
+
 [^23]: U.S. Department of State. "Mexican Expropriation of Foreign Oil, 1938." https://history.state.gov/milestones/1937-1945/mexican-oil
+
 [^24]: Wikipedia. "Mexican oil expropriation."
+
 [^25]: EBSCO Research. "Mexico Nationalizes Foreign Oil Properties." https://www.ebsco.com/research-starters/politics-and-government/mexico-nationalizes-foreign-oil-properties
+
 [^26]: Wikipedia. "Mexican oil expropriation."
+
 [^27]: Mexico Solidarity Media. "PEMEX: Why Lázaro Cárdenas Created Mexico's State Oil Company." https://mexicosolidarity.com/pemex-why-lazaro-cardenas-created-mexicos-state-oil-company/
+
 [^28]: U.S. Department of State. "Mexican Expropriation of Foreign Oil, 1938."
+
 [^29]: The Yucatan Times. "Mexican Oil Expropriation Day: March 18, 1938." https://theyucatantimes.com/2021/03/march-18-1938/
+
 [^30]: Wikipedia. "Mexican oil expropriation."
+
 [^31]: U.S. Department of State. "Mexican Expropriation of Foreign Oil, 1938."
+
 [^32]: U.S. Department of State. "Mexican Expropriation of Foreign Oil, 1938."
+
 [^33]: Wikipedia. "Lázaro Cárdenas."
+
 [^34]: Wikipedia. "Land reform in Mexico." https://en.wikipedia.org/wiki/Land_reform_in_Mexico
+
 [^35]: Wikipedia. "Lázaro Cárdenas."
+
 [^36]: Mexico Historico. "The Presidency of Lázaro Cárdenas: Land Reforms and Nationalization of Oil." https://www.mexicohistorico.com/paginas/The-Presidency-of-L--zaro-C--rdenas--Land-Reforms-and-Nationalization-of-Oil.html
+
 [^37]: Wikipedia. "Lázaro Cárdenas."
+
 [^38]: Mexico Historico. "The Presidency of Lázaro Cárdenas."
+
 [^39]: Oxford Research Encyclopedia. "Lázaro Cárdenas and Cardenismo." https://oxfordre.com/latinamericanhistory/display/10.1093/acrefore/9780199366439.001.0001/acrefore-9780199366439-e-376
+
 [^40]: Wikipedia. "Lázaro Cárdenas."
+
 [^41]: Duke University Press. "Organized Labor and the Mexican Revolution under Lázaro Cárdenas." https://read.dukeupress.edu/hahr/article/49/2/351/157185/Organized-Labor-and-the-Mexican-Revolution-under
+
 [^42]: EBSCO Research. "Lázaro Cárdenas." https://www.ebsco.com/research-starters/history/lazaro-cardenas
+
 [^43]: Wikipedia. "Lázaro Cárdenas."
+
 [^44]: Encyclopedia.com. "Cárdenas del Río, Lázaro (1895–1970)."
+
 [^45]: Wikipedia. "Lázaro Cárdenas."
+
 [^46]: Wikipedia. "Lázaro Cárdenas."
+
 [^47]: JSTOR. "The Political Legacy of Lázaro Cárdenas." https://www.jstor.org/stable/981231
+
 [^48]: Cambridge Core. "The Political Legacy of Lázaro Cárdenas." https://www.cambridge.org/core/journals/americas/article/abs/political-legacy-of-lazaro-cardenas/4071FCEEDE8607F700EEC796F27FFEE7
+
 [^49]: Duke University Press. "Organized Labor and the Mexican Revolution."
+
 [^50]: Duke University Press. "Organized Labor and the Mexican Revolution."
+
 [^51]: Project MUSE. "Cardenas Compromised: The Failure of Reform in Postrevolutionary Yucatan." https://muse.jhu.edu/article/43276/summary
+
 [^52]: Wikipedia. "Lázaro Cárdenas."
+
 [^53]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^54]: Wikipedia. "Lázaro Cárdenas."
+
 [^55]: Wikipedia. "Lázaro Cárdenas."
+
 [^56]: Notable Biographies. "Lázaro Cárdenas Biography."
+
 [^57]: National Security Archive. "After the Revolution: Lázaro Cárdenas and the Movimiento de Liberación Nacional." https://nsarchive2.gwu.edu/NSAEBB/NSAEBB124/index.htm
+
 [^58]: JSTOR. "The Political Legacy of Lázaro Cárdenas."
+
 [^59]: Wikipedia. "Lázaro Cárdenas."
+
 [^60]: Encyclopedia.com. "Cárdenas del Río, Lázaro (1895–1970)."
+
 [^61]: Wikipedia. "Lázaro Cárdenas."
+
 [^62]: Wikipedia. "Lázaro Cárdenas."
+
 [^63]: Mexico Solidarity Media. "PEMEX: Why Lázaro Cárdenas Created Mexico's State Oil Company."
+
 [^64]: U.S. Department of State. "Mexican Expropriation of Foreign Oil, 1938."
+
 [^65]: The Yucatan Times. "Mexican Oil Expropriation Day: March 18, 1938."
+
 [^66]: Wikipedia. "Lázaro Cárdenas."
+
 [^67]: JSTOR. "The Political Legacy of Lázaro Cárdenas."
+
 [^68]: JSTOR. "The Political Legacy of Lázaro Cárdenas."
+
 [^69]: PMC. "The Legacy of President Lázaro Cárdenas for Health Care Reform in Today's Mexico." https://pmc.ncbi.nlm.nih.gov/articles/PMC11157996/
+
 [^70]: Wikipedia. "Lázaro Cárdenas."
+
 [^71]: Cambridge Core. "The Political Legacy of Lázaro Cárdenas."
+
 [^72]: JSTOR. "The Political Legacy of Lázaro Cárdenas."
+
 [^73]: JSTOR. "The Political Legacy of Lázaro Cárdenas."
+
 [^74]: Oxford Bibliographies. "Cárdenas and Cardenismo." https://www.oxfordbibliographies.com/display/document/obo-9780199766581/obo-9780199766581-0058.xml
+
 [^75]: PMC. "The Legacy of President Lázaro Cárdenas for Health Care Reform."
+
 [^76]: Oxford Research Encyclopedia. "Lázaro Cárdenas and Cardenismo."
+
 [^77]: JSTOR. "The Political Legacy of Lázaro Cárdenas."
+
 [^78]: Cambridge Core. "The Political Legacy of Lázaro Cárdenas."
+
 [^79]: Wikipedia. "Lázaro Cárdenas."
+
 [^80]: Cambridge Core. "The Political Legacy of Lázaro Cárdenas."
+
 [^81]: Project MUSE. "Cardenas Compromised."
+
 [^82]: Duke University Press. "Organized Labor and the Mexican Revolution."
+
 [^83]: Wikipedia. "Lázaro Cárdenas."
+
 [^84]: Wise Famous Quotes. "Lazaro Cardenas Quotes." https://www.wisefamousquotes.com/quotes-about-lazaro-cardenas/
+
 [^85]: Quote Stats. "Top 12 Lazaro Cardenas Quotes." https://quotestats.com/topic/lazaro-cardenas-quotes/
+
 [^86]: Quote Stats. "Top 12 Lazaro Cardenas Quotes."
+
 [^87]: Milestone Documents. "Lázaro Cárdenas: Speech to the Nation on the Nationalization of Mexican Oil." https://www.milestonedocuments.com/documents/view/lazaro-cardenas-speech-to-the-nation-on-the-nationalization-of-mexican-oil
+
 [^88]: Mexico Historico. "The Agrarian Reforms of Lázaro Cárdenas and Their Long-Term Impact." https://www.mexicohistorico.com/paginas/The-Agrarian-Reforms-of-L--zaro-C--rdenas-and-Their-Long-Term-Impact.html

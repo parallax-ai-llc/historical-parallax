@@ -159,27 +159,27 @@ International observers, particularly from countries that experienced Japanese i
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 711 BCE | Traditional birth year of Emperor Jimmu (February 13) |
-| 667 BCE | Jimmu begins his Eastern Expedition from Hyuga in Kyushu at age 45 |
-| 663 BCE | Jimmu's forces enter the Seto Inland Sea, beginning naval journey eastward |
+| Year    | Event                                                                                  |
+| ------- | -------------------------------------------------------------------------------------- |
+| 711 BCE | Traditional birth year of Emperor Jimmu (February 13)                                  |
+| 667 BCE | Jimmu begins his Eastern Expedition from Hyuga in Kyushu at age 45                     |
+| 663 BCE | Jimmu's forces enter the Seto Inland Sea, beginning naval journey eastward             |
 | 662 BCE | Battle at Naniwa (present-day Osaka area); Jimmu's brother Itsuse no Mikoto is wounded |
-| 661 BCE | Death of Itsuse no Mikoto; Jimmu regroups and changes strategy |
-| 660 BCE | Victory over Nagasunehiko in Yamato with aid of the sacred crow Yatagarasu |
-| 660 BCE | Jimmu ascends to the throne at Kashihara (February 11, traditional founding of Japan) |
-| 660 BCE | Construction of the first imperial palace at Kashihara begins |
-| 658 BCE | Marriage to Ahira-tsu-hime (Himetatara-isuzu-hime) |
-| 651 BCE | Birth of Crown Prince Kamu-nunakawa-mimi (later Emperor Suizei) |
-| 640 BCE | Consolidation of Yamato state; integration of defeated tribes |
-| 630 BCE | Promulgation of early laws and establishment of agricultural policies |
-| 610 BCE | Expansion of imperial authority to surrounding regions |
-| 600 BCE | Construction of major shrines honoring Amaterasu and other kami |
-| 585 BCE | Death of Emperor Jimmu on March 11 at age 127 (traditional account) |
-| 585 BCE | Burial at Unebi Yama no e no Misasagi (Mount Unebi) |
-| 581 BCE | Accession of Emperor Suizei, beginning of second imperial reign |
+| 661 BCE | Death of Itsuse no Mikoto; Jimmu regroups and changes strategy                         |
+| 660 BCE | Victory over Nagasunehiko in Yamato with aid of the sacred crow Yatagarasu             |
+| 660 BCE | Jimmu ascends to the throne at Kashihara (February 11, traditional founding of Japan)  |
+| 660 BCE | Construction of the first imperial palace at Kashihara begins                          |
+| 658 BCE | Marriage to Ahira-tsu-hime (Himetatara-isuzu-hime)                                     |
+| 651 BCE | Birth of Crown Prince Kamu-nunakawa-mimi (later Emperor Suizei)                        |
+| 640 BCE | Consolidation of Yamato state; integration of defeated tribes                          |
+| 630 BCE | Promulgation of early laws and establishment of agricultural policies                  |
+| 610 BCE | Expansion of imperial authority to surrounding regions                                 |
+| 600 BCE | Construction of major shrines honoring Amaterasu and other kami                        |
+| 585 BCE | Death of Emperor Jimmu on March 11 at age 127 (traditional account)                    |
+| 585 BCE | Burial at Unebi Yama no e no Misasagi (Mount Unebi)                                    |
+| 581 BCE | Accession of Emperor Suizei, beginning of second imperial reign                        |
 
-*Note: Dates are based on traditional Japanese chronicles and are not historically verified. Modern historians generally consider these dates to be legendary rather than historical.*
+_Note: Dates are based on traditional Japanese chronicles and are not historically verified. Modern historians generally consider these dates to be legendary rather than historical._
 
 ---
 
@@ -187,100 +187,100 @@ International observers, particularly from countries that experienced Japanese i
 
 > "It is here that our empire should be established, for this is undoubtedly the center of the world. Let us make this our capital."
 
-*Attributed to Jimmu upon first viewing the Yamato plain. This quote, recorded in the Nihon Shoki, reflects the geopolitical reasoning for establishing the imperial capital in central Japan and the concept of Japan as the center of civilization. This statement has been invoked throughout Japanese history to justify the centrality of Yamato/Nara region in Japanese culture and politics.*
+_Attributed to Jimmu upon first viewing the Yamato plain. This quote, recorded in the Nihon Shoki, reflects the geopolitical reasoning for establishing the imperial capital in central Japan and the concept of Japan as the center of civilization. This statement has been invoked throughout Japanese history to justify the centrality of Yamato/Nara region in Japanese culture and politics._
 
 > "I have heard that in the East there is a beautiful land encircled by blue mountains. I think that this land will undoubtedly be suitable for the extension of our heavenly task, so that its glory should fill the universe. It is doubtless the center of the world."
 
-*From the Nihon Shoki, this declaration represents Jimmu's justification for the Eastern Expedition. The phrase "extension of our heavenly task" (天業, tengyo) became central to Japanese imperial ideology, suggesting that the emperor's rule was a divine mission. This quote was frequently invoked during the Meiji period to justify Japanese expansion and modernization.*
+_From the Nihon Shoki, this declaration represents Jimmu's justification for the Eastern Expedition. The phrase "extension of our heavenly task" (天業, tengyo) became central to Japanese imperial ideology, suggesting that the emperor's rule was a divine mission. This quote was frequently invoked during the Meiji period to justify Japanese expansion and modernization._
 
 > "Though the imperial throne is firm as the eternal heaven and earth, yet the people are our treasure. Let us love them and protect them always."
 
-*This benevolent statement, attributed to Jimmu in later Confucian-influenced texts, reflects the ideal of the emperor as a caring parent to his subjects. While likely not historical, it represents an important principle in Japanese political philosophy that rulers should govern for the benefit of the people rather than for personal gain.*
+_This benevolent statement, attributed to Jimmu in later Confucian-influenced texts, reflects the ideal of the emperor as a caring parent to his subjects. While likely not historical, it represents an important principle in Japanese political philosophy that rulers should govern for the benefit of the people rather than for personal gain._
 
 > "I will extend the line of my imperial ancestors and make my dwelling in this land. May my descendants for a myriad generations preserve it in peace."
 
-*Recorded in the Kojiki, this proclamation emphasizes the continuity of the imperial line and the sacred duty to preserve the throne for future generations. This concept of eternal imperial succession has been fundamental to Japanese political culture and remains relevant in contemporary debates about imperial succession.*
+_Recorded in the Kojiki, this proclamation emphasizes the continuity of the imperial line and the sacred duty to preserve the throne for future generations. This concept of eternal imperial succession has been fundamental to Japanese political culture and remains relevant in contemporary debates about imperial succession._
 
 > "The sacred crow sent by the sun goddess has guided us through the mountains. With the blessings of heaven, we cannot fail."
 
-*This quote, referencing the mythological three-legged crow (Yatagarasu) that guided Jimmu to victory, illustrates the intimate connection between imperial authority and divine will. The Yatagarasu has become an enduring symbol in Japanese culture, even appearing as the emblem of the Japan Football Association, demonstrating the continuing cultural influence of Jimmu mythology.*
+_This quote, referencing the mythological three-legged crow (Yatagarasu) that guided Jimmu to victory, illustrates the intimate connection between imperial authority and divine will. The Yatagarasu has become an enduring symbol in Japanese culture, even appearing as the emblem of the Japan Football Association, demonstrating the continuing cultural influence of Jimmu mythology._
 
 ---
 
 ## References
 
-[^1]: Aston, W.G. (translator). (1896). *Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697*. London: Kegan Paul, Trench, Trubner & Co.
+[^1]: Aston, W.G. (translator). (1896). _Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697_. London: Kegan Paul, Trench, Trubner & Co.
 
-[^2]: Chamberlain, Basil Hall (translator). (1882). *The Kojiki: Records of Ancient Matters*. Transactions of the Asiatic Society of Japan, Vol. 10.
+[^2]: Chamberlain, Basil Hall (translator). (1882). _The Kojiki: Records of Ancient Matters_. Transactions of the Asiatic Society of Japan, Vol. 10.
 
-[^3]: Brownlee, John S. (1997). *Japanese Historians and the National Myths, 1600-1945: The Age of the Gods and Emperor Jimmu*. Vancouver: UBC Press.
+[^3]: Brownlee, John S. (1997). _Japanese Historians and the National Myths, 1600-1945: The Age of the Gods and Emperor Jimmu_. Vancouver: UBC Press.
 
-[^4]: Varley, H. Paul. (1980). *Jinnō Shōtōki: A Chronicle of Gods and Sovereigns*. New York: Columbia University Press.
+[^4]: Varley, H. Paul. (1980). _Jinnō Shōtōki: A Chronicle of Gods and Sovereigns_. New York: Columbia University Press.
 
-[^5]: Piggott, Joan R. (1997). *The Emergence of Japanese Kingship*. Stanford: Stanford University Press.
+[^5]: Piggott, Joan R. (1997). _The Emergence of Japanese Kingship_. Stanford: Stanford University Press.
 
-[^6]: Kidder, J. Edward. (2007). *Himiko and Japan's Elusive Chiefdom of Yamatai: Archaeology, History, and Mythology*. Honolulu: University of Hawaii Press.
+[^6]: Kidder, J. Edward. (2007). _Himiko and Japan's Elusive Chiefdom of Yamatai: Archaeology, History, and Mythology_. Honolulu: University of Hawaii Press.
 
-[^7]: Tsuda, Sokichi. (1963). *An Inquiry into the Japanese Mind as Mirrored in Literature*. Tokyo: Japan Society for the Promotion of Science.
+[^7]: Tsuda, Sokichi. (1963). _An Inquiry into the Japanese Mind as Mirrored in Literature_. Tokyo: Japan Society for the Promotion of Science.
 
-[^8]: Barnes, Gina L. (2007). *State Formation in Japan: Emergence of a 4th-Century Ruling Elite*. London: Routledge.
+[^8]: Barnes, Gina L. (2007). _State Formation in Japan: Emergence of a 4th-Century Ruling Elite_. London: Routledge.
 
-[^9]: Breen, John and Mark Teeuwen. (2010). *A New History of Shinto*. Oxford: Wiley-Blackwell.
+[^9]: Breen, John and Mark Teeuwen. (2010). _A New History of Shinto_. Oxford: Wiley-Blackwell.
 
-[^10]: Gluck, Carol. (1985). *Japan's Modern Myths: Ideology in the Late Meiji Period*. Princeton: Princeton University Press.
+[^10]: Gluck, Carol. (1985). _Japan's Modern Myths: Ideology in the Late Meiji Period_. Princeton: Princeton University Press.
 
-[^11]: Hardacre, Helen. (1989). *Shinto and the State, 1868-1988*. Princeton: Princeton University Press.
+[^11]: Hardacre, Helen. (1989). _Shinto and the State, 1868-1988_. Princeton: Princeton University Press.
 
-[^12]: Walter, Lutz. (2004). *Japan: A Cartographic Vision*. Munich: Prestel Publishing.
+[^12]: Walter, Lutz. (2004). _Japan: A Cartographic Vision_. Munich: Prestel Publishing.
 
-[^13]: Batten, Bruce. (2003). *To the Ends of Japan: Premodern Frontiers, Boundaries, and Interactions*. Honolulu: University of Hawaii Press.
+[^13]: Batten, Bruce. (2003). _To the Ends of Japan: Premodern Frontiers, Boundaries, and Interactions_. Honolulu: University of Hawaii Press.
 
-[^14]: Como, Michael. (2008). *Shotoku: Ethnicity, Ritual, and Violence in the Japanese Buddhist Tradition*. Oxford: Oxford University Press.
+[^14]: Como, Michael. (2008). _Shotoku: Ethnicity, Ritual, and Violence in the Japanese Buddhist Tradition_. Oxford: Oxford University Press.
 
-[^15]: Edwards, Walter. (1983). "Event and Process in the Founding of Japan: The Horserider Theory in Archaeological Perspective." *Journal of Japanese Studies* 9(2): 265-295.
+[^15]: Edwards, Walter. (1983). "Event and Process in the Founding of Japan: The Horserider Theory in Archaeological Perspective." _Journal of Japanese Studies_ 9(2): 265-295.
 
-[^16]: Kiley, Cornelius J. (1973). "State and Dynasty in Archaic Yamato." *Journal of Asian Studies* 33(1): 25-49.
+[^16]: Kiley, Cornelius J. (1973). "State and Dynasty in Archaic Yamato." _Journal of Asian Studies_ 33(1): 25-49.
 
-[^17]: Miller, Richard J. (1982). *Japan's Modern Myth: The Language and Beyond*. New York: Weatherhill.
+[^17]: Miller, Richard J. (1982). _Japan's Modern Myth: The Language and Beyond_. New York: Weatherhill.
 
-[^18]: Antoni, Klaus. (1991). "Momotarō (The Peach Boy) and the Spirit of Japan: Concerning the Function of a Fairy Tale in Japanese Nationalism of the Early Shōwa Age." *Asian Folklore Studies* 50(1): 155-188.
+[^18]: Antoni, Klaus. (1991). "Momotarō (The Peach Boy) and the Spirit of Japan: Concerning the Function of a Fairy Tale in Japanese Nationalism of the Early Shōwa Age." _Asian Folklore Studies_ 50(1): 155-188.
 
-[^19]: Ooms, Herman. (2009). *Imperial Politics and Symbolics in Ancient Japan: The Tenmu Dynasty, 650-800*. Honolulu: University of Hawaii Press.
+[^19]: Ooms, Herman. (2009). _Imperial Politics and Symbolics in Ancient Japan: The Tenmu Dynasty, 650-800_. Honolulu: University of Hawaii Press.
 
-[^20]: Rubinger, Richard. (2007). *Popular Literacy in Early Modern Japan*. Honolulu: University of Hawaii Press.
+[^20]: Rubinger, Richard. (2007). _Popular Literacy in Early Modern Japan_. Honolulu: University of Hawaii Press.
 
-[^21]: Smits, Gregory. (1999). *Visions of Ryukyu: Identity and Ideology in Early-Modern Thought and Politics*. Honolulu: University of Hawaii Press.
+[^21]: Smits, Gregory. (1999). _Visions of Ryukyu: Identity and Ideology in Early-Modern Thought and Politics_. Honolulu: University of Hawaii Press.
 
-[^22]: Nitobe, Inazo. (1905). "The Japanese Nation: Its Land, Its People, and Its Life." *G.P. Putnam's Sons*, New York.
+[^22]: Nitobe, Inazo. (1905). "The Japanese Nation: Its Land, Its People, and Its Life." _G.P. Putnam's Sons_, New York.
 
-[^23]: Havens, Thomas R.H. (1970). "The Kigensetsu Celebration." *Monumenta Nipponica* 25(3/4): 375-397.
+[^23]: Havens, Thomas R.H. (1970). "The Kigensetsu Celebration." _Monumenta Nipponica_ 25(3/4): 375-397.
 
-[^24]: Ruoff, Kenneth J. (2010). *Imperial Japan at Its Zenith: The Wartime Celebration of the Empire's 2,600th Anniversary*. Ithaca: Cornell University Press.
+[^24]: Ruoff, Kenneth J. (2010). _Imperial Japan at Its Zenith: The Wartime Celebration of the Empire's 2,600th Anniversary_. Ithaca: Cornell University Press.
 
-[^25]: Sakamoto, Taro. (1991). *The Six National Histories of Japan*. Translated by John S. Brownlee. Vancouver: UBC Press.
+[^25]: Sakamoto, Taro. (1991). _The Six National Histories of Japan_. Translated by John S. Brownlee. Vancouver: UBC Press.
 
-[^26]: Hudson, Mark J. (1999). *Ruins of Identity: Ethnogenesis in the Japanese Islands*. Honolulu: University of Hawaii Press.
+[^26]: Hudson, Mark J. (1999). _Ruins of Identity: Ethnogenesis in the Japanese Islands_. Honolulu: University of Hawaii Press.
 
-[^27]: Leibo, Steven. (2015). "Emperor Jimmu: Examining Japan's First Emperor." *East Asian History* 39: 12-28.
+[^27]: Leibo, Steven. (2015). "Emperor Jimmu: Examining Japan's First Emperor." _East Asian History_ 39: 12-28.
 
-[^28]: Dower, John W. (1999). *Embracing Defeat: Japan in the Wake of World War II*. New York: W.W. Norton & Company.
+[^28]: Dower, John W. (1999). _Embracing Defeat: Japan in the Wake of World War II_. New York: W.W. Norton & Company.
 
-[^29]: Bix, Herbert P. (2000). *Hirohito and the Making of Modern Japan*. New York: HarperCollins.
+[^29]: Bix, Herbert P. (2000). _Hirohito and the Making of Modern Japan_. New York: HarperCollins.
 
-[^30]: Totman, Conrad. (2000). *A History of Japan*. Oxford: Blackwell Publishers.
+[^30]: Totman, Conrad. (2000). _A History of Japan_. Oxford: Blackwell Publishers.
 
-[^31]: Holtom, D.C. (1938). "The Meaning of Kami." *Monumenta Nipponica* 1(1): 1-27.
+[^31]: Holtom, D.C. (1938). "The Meaning of Kami." _Monumenta Nipponica_ 1(1): 1-27.
 
-[^32]: Friday, Karl F. (2004). *Samurai, Warfare and the State in Early Medieval Japan*. London: Routledge.
+[^32]: Friday, Karl F. (2004). _Samurai, Warfare and the State in Early Medieval Japan_. London: Routledge.
 
-[^33]: Mason, R.H.P. and J.G. Caiger. (1997). *A History of Japan*. Revised Edition. Tokyo: Tuttle Publishing.
+[^33]: Mason, R.H.P. and J.G. Caiger. (1997). _A History of Japan_. Revised Edition. Tokyo: Tuttle Publishing.
 
-[^34]: Nosco, Peter, ed. (1997). *Confucianism and Tokugawa Culture*. Honolulu: University of Hawaii Press.
+[^34]: Nosco, Peter, ed. (1997). _Confucianism and Tokugawa Culture_. Honolulu: University of Hawaii Press.
 
-[^35]: Coaldrake, William H. (1996). *Architecture and Authority in Japan*. London: Routledge.
+[^35]: Coaldrake, William H. (1996). _Architecture and Authority in Japan_. London: Routledge.
 
-[^36]: Takeda, Kiyoko. (1976). *The Dual-Image of the Japanese Emperor*. London: Macmillan.
+[^36]: Takeda, Kiyoko. (1976). _The Dual-Image of the Japanese Emperor_. London: Macmillan.
 
-[^37]: Earhart, H. Byron. (2004). *Japanese Religion: Unity and Diversity*. Fourth Edition. Belmont: Wadsworth/Thomson Learning.
+[^37]: Earhart, H. Byron. (2004). _Japanese Religion: Unity and Diversity_. Fourth Edition. Belmont: Wadsworth/Thomson Learning.
 
-[^38]: Hall, John Whitney, ed. (1988). *The Cambridge History of Japan, Volume 1: Ancient Japan*. Cambridge: Cambridge University Press.
+[^38]: Hall, John Whitney, ed. (1988). _The Cambridge History of Japan, Volume 1: Ancient Japan_. Cambridge: Cambridge University Press.

@@ -4,7 +4,8 @@ name: "George H. W. Bush"
 birth: "1924-06-12"
 death: "2018-11-30"
 nationality: "United States"
-occupation: ["Naval Aviator", "Businessman", "Diplomat", "CIA Director", "Vice President", "President"]
+occupation:
+  ["Naval Aviator", "Businessman", "Diplomat", "CIA Director", "Vice President", "President"]
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_H._W._Bush"
@@ -163,32 +164,32 @@ Economic critics note that Bush presided over a recession and failed to respond 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1924 | Born June 12 in Milton, Massachusetts |
-| 1941 | Meets Barbara Pierce at Christmas dance in Greenwich, Connecticut |
-| 1942 | Enlists in U.S. Navy on his 18th birthday |
-| 1943 | Becomes youngest commissioned pilot in naval aviation |
-| 1944 | Shot down over Pacific on September 2; rescued by USS Finback submarine |
-| 1945 | Marries Barbara Pierce in January; honorably discharged from Navy in September |
-| 1948 | Graduates from Yale University with degree in economics; moves to Texas for oil industry |
-| 1952 | Co-founds Zapata Petroleum |
-| 1953 | Daughter Robin dies of leukemia at age 3 |
-| 1962 | Becomes chairman of Harris County Republican Committee |
-| 1964 | Loses U.S. Senate race against Ralph Yarborough |
-| 1967 | Begins serving in U.S. House of Representatives (serves until 1971) |
-| 1971 | Appointed Ambassador to United Nations (serves until 1973) |
-| 1973 | Becomes Chairman of Republican National Committee during Watergate crisis |
-| 1974 | Appointed Chief of U.S. Liaison Office to People's Republic of China |
-| 1976 | Serves as Director of Central Intelligence (CIA Director) |
-| 1981 | Becomes 43rd Vice President under Ronald Reagan |
-| 1988 | Wins presidential election against Michael Dukakis |
-| 1989 | Inaugurated as 41st President on January 20; Berlin Wall falls in November; invades Panama |
+| Year | Event                                                                                                          |
+| ---- | -------------------------------------------------------------------------------------------------------------- |
+| 1924 | Born June 12 in Milton, Massachusetts                                                                          |
+| 1941 | Meets Barbara Pierce at Christmas dance in Greenwich, Connecticut                                              |
+| 1942 | Enlists in U.S. Navy on his 18th birthday                                                                      |
+| 1943 | Becomes youngest commissioned pilot in naval aviation                                                          |
+| 1944 | Shot down over Pacific on September 2; rescued by USS Finback submarine                                        |
+| 1945 | Marries Barbara Pierce in January; honorably discharged from Navy in September                                 |
+| 1948 | Graduates from Yale University with degree in economics; moves to Texas for oil industry                       |
+| 1952 | Co-founds Zapata Petroleum                                                                                     |
+| 1953 | Daughter Robin dies of leukemia at age 3                                                                       |
+| 1962 | Becomes chairman of Harris County Republican Committee                                                         |
+| 1964 | Loses U.S. Senate race against Ralph Yarborough                                                                |
+| 1967 | Begins serving in U.S. House of Representatives (serves until 1971)                                            |
+| 1971 | Appointed Ambassador to United Nations (serves until 1973)                                                     |
+| 1973 | Becomes Chairman of Republican National Committee during Watergate crisis                                      |
+| 1974 | Appointed Chief of U.S. Liaison Office to People's Republic of China                                           |
+| 1976 | Serves as Director of Central Intelligence (CIA Director)                                                      |
+| 1981 | Becomes 43rd Vice President under Ronald Reagan                                                                |
+| 1988 | Wins presidential election against Michael Dukakis                                                             |
+| 1989 | Inaugurated as 41st President on January 20; Berlin Wall falls in November; invades Panama                     |
 | 1990 | Signs Americans with Disabilities Act; Iraq invades Kuwait in August; agrees to budget deal with tax increases |
-| 1991 | Gulf War begins in January with Operation Desert Storm; signs Strategic Arms Reduction Treaty (START I) |
-| 1992 | Los Angeles riots in April; pardons Iran-Contra figures on Christmas Eve; loses reelection to Bill Clinton |
-| 1993 | Leaves office on January 20 |
-| 2018 | Barbara Bush dies on April 17; George H.W. Bush dies on November 30 at age 94 |
+| 1991 | Gulf War begins in January with Operation Desert Storm; signs Strategic Arms Reduction Treaty (START I)        |
+| 1992 | Los Angeles riots in April; pardons Iran-Contra figures on Christmas Eve; loses reelection to Bill Clinton     |
+| 1993 | Leaves office on January 20                                                                                    |
+| 2018 | Barbara Bush dies on April 17; George H.W. Bush dies on November 30 at age 94                                  |
 
 ---
 
@@ -209,133 +210,263 @@ Economic critics note that Bush presided over a recession and failed to respond 
 ## References
 
 [^1]: [George H. W. Bush - Wikipedia](https://en.wikipedia.org/wiki/George_H._W._Bush)
+
 [^2]: [George H.W. Bush | Biography, Presidency, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/George-H-W-Bush)
+
 [^3]: [George H. W. Bush: Life in Brief | Miller Center](https://millercenter.org/president/bush/life-in-brief)
+
 [^4]: [The Ignored Legacy of George H.W. Bush: War Crimes, Racism, and Obstruction of Justice](https://theintercept.com/2018/12/01/the-ignored-legacy-of-george-h-w-bush-war-crimes-racism-and-obstruction-of-justice/)
+
 [^5]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^6]: [George H.W. Bush's Biography](https://www.bush41.org/history/biography)
+
 [^7]: [George H.W. Bush | American Experience | Official Site | PBS](https://www.pbs.org/wgbh/americanexperience/features/bush-george/)
+
 [^8]: [George H. W. Bush - White House Historical Association](https://www.whitehousehistory.org/bios/george-bush)
+
 [^9]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^10]: [George H.W. Bush's Biography](https://www.bush41.org/history/biography)
+
 [^11]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^12]: [George H.W. Bush's Biography](https://www.bush41.org/history/biography)
+
 [^13]: [George H.W. Bush and Barbara Bush's Amazing Love Story](https://www.biography.com/political-figures/george-h-w-bush-barbara-bush-love-story)
+
 [^14]: [George H.W. Bush and Barbara Bush's Amazing Love Story](https://www.biography.com/political-figures/george-h-w-bush-barbara-bush-love-story)
+
 [^15]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^16]: [George H.W. Bush's Biography](https://www.bush41.org/history/biography)
+
 [^17]: [Bush, George H. W. | Naval History and Heritage Command](https://www.history.navy.mil/research/histories/biographies-list/bios-b/bush-george-h-w.html)
+
 [^18]: [A Timeline: George H.W. Bush: 41st US President](https://www.voanews.com/a/a-timeline-george-h-w-bush-41st-us-president/4682432.html)
+
 [^19]: [Bush, George H. W. | Naval History and Heritage Command](https://www.history.navy.mil/research/histories/biographies-list/bios-b/bush-george-h-w.html)
+
 [^20]: [Bush, George H. W. | Naval History and Heritage Command](https://www.history.navy.mil/research/histories/biographies-list/bios-b/bush-george-h-w.html)
+
 [^21]: [George H.W. Bush and Barbara Bush's Amazing Love Story](https://www.biography.com/political-figures/george-h-w-bush-barbara-bush-love-story)
+
 [^22]: [Barbara Bush - Wikipedia](https://en.wikipedia.org/wiki/Barbara_Bush)
+
 [^23]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^24]: [George H.W. Bush's Biography](https://www.bush41.org/history/biography)
+
 [^25]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^26]: [A Timeline: George H.W. Bush: 41st US President](https://www.voanews.com/a/a-timeline-george-h-w-bush-41st-us-president/4682432.html)
+
 [^27]: [George H. W. Bush Timeline](https://www.softschools.com/timelines/george_h_w_bush_timeline/203/)
+
 [^28]: [A Timeline: George H.W. Bush: 41st US President](https://www.voanews.com/a/a-timeline-george-h-w-bush-41st-us-president/4682432.html)
+
 [^29]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^30]: [A Timeline: George H.W. Bush: 41st US President](https://www.voanews.com/a/a-timeline-george-h-w-bush-41st-us-president/4682432.html)
+
 [^31]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^32]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^33]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^34]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^35]: [George H.W. Bush—the 11th Director of Central Intelligence - CIA](https://www.cia.gov/stories/story/george-h-w-bush-the-11th-director-of-central-intelligence/)
+
 [^36]: [Bush as Director of Central Intelligence - CIA](https://www.cia.gov/stories/story/bush-as-director-of-central-intelligence/)
+
 [^37]: [George H.W. Bush—the 11th Director of Central Intelligence - CIA](https://www.cia.gov/stories/story/george-h-w-bush-the-11th-director-of-central-intelligence/)
+
 [^38]: [George H.W. Bush—the 11th Director of Central Intelligence - CIA](https://www.cia.gov/stories/story/george-h-w-bush-the-11th-director-of-central-intelligence/)
+
 [^39]: [Bush as Director of Central Intelligence - CIA](https://www.cia.gov/stories/story/bush-as-director-of-central-intelligence/)
+
 [^40]: [George H. W. Bush - Wikipedia](https://en.wikipedia.org/wiki/George_H._W._Bush)
+
 [^41]: [George H. W. Bush - Wikipedia](https://en.wikipedia.org/wiki/George_H._W._Bush)
+
 [^42]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^43]: [George H. W. Bush: Life Before the Presidency | Miller Center](https://millercenter.org/president/bush/life-before-the-presidency)
+
 [^44]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^45]: [George H. W. Bush: Foreign Affairs | Miller Center](https://millercenter.org/president/bush/foreign-affairs)
+
 [^46]: [George H. W. Bush: Foreign Affairs | Miller Center](https://millercenter.org/president/bush/foreign-affairs)
+
 [^47]: [George H.W. Bush - Cold War, Diplomacy, Leadership | Britannica](https://www.britannica.com/biography/George-H-W-Bush/Presidency)
+
 [^48]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^49]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^50]: [Foreign policy of the George H. W. Bush administration - Wikipedia](https://en.wikipedia.org/wiki/Foreign_policy_of_the_George_H._W._Bush_administration)
+
 [^51]: [George H. W. Bush: Foreign Affairs | Miller Center](https://millercenter.org/president/bush/foreign-affairs)
+
 [^52]: [George H.W. Bush's Persian Gulf War: Victory, With Tragedy](https://www.justsecurity.org/61769/george-h-w-bushs-persian-gulf-war-victory-tragedy/)
+
 [^53]: [President George H.W. Bush: the Man and the Statesman | American Diplomacy Est 1996](https://americandiplomacy.web.unc.edu/2019/02/president-george-h-w-bush-the-man-and-the-statesman/)
+
 [^54]: [George H.W. Bush's Persian Gulf War: Victory, With Tragedy](https://www.justsecurity.org/61769/george-h-w-bushs-persian-gulf-war-victory-tragedy/)
+
 [^55]: [Address to the Nation Announcing Operation Desert Storm, 1991 | Gilder Lehrman Institute of American History](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/address-nation-announcing-operation-desert-storm-1991)
+
 [^56]: [George H.W. Bush's Persian Gulf War: Victory, With Tragedy](https://www.justsecurity.org/61769/george-h-w-bushs-persian-gulf-war-victory-tragedy/)
+
 [^57]: [George H. W. Bush: Foreign Affairs | Miller Center](https://millercenter.org/president/bush/foreign-affairs)
+
 [^58]: [Presidency of George H. W. Bush - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush)
+
 [^59]: [Presidency of George H. W. Bush - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush)
+
 [^60]: [George H. W. Bush - Wikipedia](https://en.wikipedia.org/wiki/George_H._W._Bush)
+
 [^61]: [George H. W. Bush, Grace, and Gracelessness | Brennan Center for Justice](https://www.brennancenter.org/our-work/analysis-opinion/george-h-w-bush-grace-and-gracelessness)
+
 [^62]: [George H.W. Bush wasn't Trump — but from Willie Horton to the AIDS crisis, we shouldn't whitewash his legacy](https://www.nbcnews.com/think/opinion/george-h-w-bush-wasn-t-trump-willie-horton-aids-ncna943331)
+
 [^63]: [The Ignored Legacy of George H.W. Bush: War Crimes, Racism, and Obstruction of Justice](https://theintercept.com/2018/12/01/the-ignored-legacy-of-george-h-w-bush-war-crimes-racism-and-obstruction-of-justice/)
+
 [^64]: [Mehdi Hasan on George H.W. Bush's Ignored Legacy: War Crimes, Racism and Obstruction of Justice | Democracy Now!](https://www.democracynow.org/2018/12/3/mehdi_hasan_on_george_hw_bushs)
+
 [^65]: [Let's Talk About George H.W. Bush's Role in the Iran-Contra Scandal](https://theintercept.com/2018/12/07/george-h-w-bush-iran-contra/)
+
 [^66]: [Let's Talk About George H.W. Bush's Role in the Iran-Contra Scandal](https://theintercept.com/2018/12/07/george-h-w-bush-iran-contra/)
+
 [^67]: [Let's Talk About George H.W. Bush's Role in the Iran-Contra Scandal](https://theintercept.com/2018/12/07/george-h-w-bush-iran-contra/)
+
 [^68]: [Let's Talk About George H.W. Bush's Role in the Iran-Contra Scandal](https://theintercept.com/2018/12/07/george-h-w-bush-iran-contra/)
+
 [^69]: [Walsh Iran / Contra Report - Chapter 28 George Bush](https://irp.fas.org/offdocs/walsh/chap_28.htm)
+
 [^70]: [George H.W. Bush wasn't Trump — but from Willie Horton to the AIDS crisis, we shouldn't whitewash his legacy](https://www.nbcnews.com/think/opinion/george-h-w-bush-wasn-t-trump-willie-horton-aids-ncna943331)
+
 [^71]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^72]: [George H.W. Bush's Persian Gulf War: Victory, With Tragedy](https://www.justsecurity.org/61769/george-h-w-bushs-persian-gulf-war-victory-tragedy/)
+
 [^73]: [Category:George H. W. Bush administration controversies - Wikipedia](https://en.wikipedia.org/wiki/Category:George_H._W._Bush_administration_controversies)
+
 [^74]: [George H.W. Bush and Barbara Bush's Amazing Love Story](https://www.biography.com/political-figures/george-h-w-bush-barbara-bush-love-story)
+
 [^75]: [George H.W. Bush and Barbara Bush's Amazing Love Story](https://www.biography.com/political-figures/george-h-w-bush-barbara-bush-love-story)
+
 [^76]: [Barbara Bush - Wikipedia](https://en.wikipedia.org/wiki/Barbara_Bush)
+
 [^77]: [Barbara Bush | Biography, First Lady, & Facts | Britannica](https://www.britannica.com/biography/Barbara-Bush)
+
 [^78]: [George H.W. Bush and Barbara Bush's Amazing Love Story](https://www.biography.com/political-figures/george-h-w-bush-barbara-bush-love-story)
+
 [^79]: [Who's Who In The Bush Family At Wednesday's State Funeral : NPR](https://www.npr.org/2018/12/05/673407101/whos-who-in-the-bush-family-at-wednesday-s-state-funeral)
+
 [^80]: [The Bush Family | George W. Bush Library](https://www.georgewbushlibrary.gov/bush-family)
+
 [^81]: [Who's Who In The Bush Family At Wednesday's State Funeral : NPR](https://www.npr.org/2018/12/05/673407101/whos-who-in-the-bush-family-at-wednesday-s-state-funeral)
+
 [^82]: [Bush family - Wikipedia](https://en.wikipedia.org/wiki/Bush_family)
+
 [^83]: [Who's Who In The Bush Family At Wednesday's State Funeral : NPR](https://www.npr.org/2018/12/05/673407101/whos-who-in-the-bush-family-at-wednesday-s-state-funeral)
+
 [^84]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^85]: [George H. W. Bush: Family Life | Miller Center](https://millercenter.org/president/bush/family-life)
+
 [^86]: [George H.W. Bush](https://georgeandbarbarabush.org/george-barbara-bush/george-h-w-bush)
+
 [^87]: [George H. W. Bush: Family Life | Miller Center](https://millercenter.org/president/bush/family-life)
+
 [^88]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^89]: [George H. W. Bush: Family Life | Miller Center](https://millercenter.org/president/bush/family-life)
+
 [^90]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^91]: [The Legacy of the George H.W. Bush Administration | Council on Foreign Relations](https://www.cfr.org/event/legacy-george-hw-bush-administration)
+
 [^92]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^93]: [George H.W. Bush's Persian Gulf War: Victory, With Tragedy](https://www.justsecurity.org/61769/george-h-w-bushs-persian-gulf-war-victory-tragedy/)
+
 [^94]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^95]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^96]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^97]: [Reflections on the Economic Legacy of President George H.W. Bush | George W. Bush Presidential Center](https://www.bushcenter.org/publications/reflections-on-the-economic-legacy-of-president-george-h-w-bush)
+
 [^98]: [The Ignored Legacy of George H.W. Bush: War Crimes, Racism, and Obstruction of Justice](https://theintercept.com/2018/12/01/the-ignored-legacy-of-george-h-w-bush-war-crimes-racism-and-obstruction-of-justice/)
+
 [^99]: [Let's Talk About George H.W. Bush's Role in the Iran-Contra Scandal](https://theintercept.com/2018/12/07/george-h-w-bush-iran-contra/)
+
 [^100]: [George H. W. Bush: Family Life | Miller Center](https://millercenter.org/president/bush/family-life)
+
 [^101]: [President George HW Bush's 'thousand points of light' legacy of service, volunteerism - ABC7 San Francisco](https://abc7news.com/thousand-points-of-light-daily-point-foundation-george-hw-bush/4814168/)
+
 [^102]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^103]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^104]: [Bush family - Wikipedia](https://en.wikipedia.org/wiki/Bush_family)
+
 [^105]: [President George H.W. Bush: the Man and the Statesman | American Diplomacy Est 1996](https://americandiplomacy.web.unc.edu/2019/02/president-george-h-w-bush-the-man-and-the-statesman/)
+
 [^106]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^107]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^108]: [President George H.W. Bush: the Man and the Statesman | American Diplomacy Est 1996](https://americandiplomacy.web.unc.edu/2019/02/president-george-h-w-bush-the-man-and-the-statesman/)
+
 [^109]: [George H.W. Bush's Persian Gulf War: Victory, With Tragedy](https://www.justsecurity.org/61769/george-h-w-bushs-persian-gulf-war-victory-tragedy/)
+
 [^110]: [Presidency of George H. W. Bush - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush)
+
 [^111]: [Reflections on the Economic Legacy of President George H.W. Bush | George W. Bush Presidential Center](https://www.bushcenter.org/publications/reflections-on-the-economic-legacy-of-president-george-h-w-bush)
+
 [^112]: [George H. W. Bush: Family Life | Miller Center](https://millercenter.org/president/bush/family-life)
+
 [^113]: [Remembering George H.W. Bush | AmeriCorps](https://www.americorps.gov/newsroom/other-news/2018/remembering-george-hw-bush)
+
 [^114]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^115]: [The Ignored Legacy of George H.W. Bush: War Crimes, Racism, and Obstruction of Justice](https://theintercept.com/2018/12/01/the-ignored-legacy-of-george-h-w-bush-war-crimes-racism-and-obstruction-of-justice/)
+
 [^116]: [Mehdi Hasan on George H.W. Bush's Ignored Legacy: War Crimes, Racism and Obstruction of Justice | Democracy Now!](https://www.democracynow.org/2018/12/3/mehdi_hasan_on_george_hw_bushs)
+
 [^117]: [Let's Talk About George H.W. Bush's Role in the Iran-Contra Scandal](https://theintercept.com/2018/12/07/george-h-w-bush-iran-contra/)
+
 [^118]: [Walsh Iran / Contra Report - Chapter 28 George Bush](https://irp.fas.org/offdocs/walsh/chap_28.htm)
+
 [^119]: [George H.W. Bush wasn't Trump — but from Willie Horton to the AIDS crisis, we shouldn't whitewash his legacy](https://www.nbcnews.com/think/opinion/george-h-w-bush-wasn-t-trump-willie-horton-aids-ncna943331)
+
 [^120]: [Category:George H. W. Bush administration controversies - Wikipedia](https://en.wikipedia.org/wiki/Category:George_H._W._Bush_administration_controversies)
+
 [^121]: [George H.W. Bush's Persian Gulf War: Victory, With Tragedy](https://www.justsecurity.org/61769/george-h-w-bushs-persian-gulf-war-victory-tragedy/)
+
 [^122]: [The Ignored Legacy of George H.W. Bush: War Crimes, Racism, and Obstruction of Justice](https://theintercept.com/2018/12/01/the-ignored-legacy-of-george-h-w-bush-war-crimes-racism-and-obstruction-of-justice/)
+
 [^123]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^124]: ['Bush seemed determined to go to war': The Legacy of President George H. W. Bush - Howard Zinn](https://www.howardzinn.org/collection/legacy-of-president-george-bush/)
+
 [^125]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^126]: [George H. W. Bush: Impact and Legacy | Miller Center](https://millercenter.org/president/bush/impact-and-legacy)
+
 [^127]: [The Avalon Project : Inaugural Address of George Bush](https://avalon.law.yale.edu/20th_century/bush.asp)
+
 [^128]: [Thousand points of light - Wikipedia](https://en.wikipedia.org/wiki/Thousand_points_of_light)
+
 [^129]: [George HW Bush quotes: Memorable lines from the 41st president - ABC13 Houston](https://abc13.com/george-hw-bush-president-h-w-jimmy-carter-w/4815364/)
+
 [^130]: [The Avalon Project : Inaugural Address of George Bush](https://avalon.law.yale.edu/20th_century/bush.asp)
+
 [^131]: [The Avalon Project : Inaugural Address of George Bush](https://avalon.law.yale.edu/20th_century/bush.asp)

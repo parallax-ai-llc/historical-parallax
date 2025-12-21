@@ -135,39 +135,39 @@ The fundamental debate centers on whether Karl was a well-intentioned but ineffe
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1887 | Born August 17 at Persenbeug Castle, Lower Austria |
-| 1889 | Crown Prince Rudolf's suicide alters succession |
-| 1906-1908 | Serves as army officer in Prague, studies law and political science |
-| 1911 | Marries Princess Zita of Bourbon-Parma on October 21 |
-| 1912 | Son and heir Otto born November 20 |
-| 1914 | Assassination of Archduke Franz Ferdinand (June 28); Karl becomes heir presumptive; World War I begins |
-| 1914-1916 | Serves as military commander on Italian and Eastern fronts |
-| 1916 | Emperor Franz Joseph dies November 21; Karl succeeds as Emperor of Austria |
-| 1916 | Crowned King of Hungary (as Karl IV) on December 30 in Budapest |
-| 1917 | Dismisses Chief of Staff Conrad von Hötzendorf (March 1) |
-| 1917 | Secret peace negotiations via Sixtus letters (early 1917) |
-| 1917 | Founds Ministry of Social Welfare |
-| 1917 | Supports Pope Benedict XV's peace proposal (August) |
-| 1918 | Founds Ministry of Public Health |
-| 1918 | Sixtus Affair becomes public (April); humiliating visit to Kaiser Wilhelm at Spa (May 12) |
-| 1918 | Issues federalization manifesto (October 16) |
-| 1918 | Dissolves alliance with Germany (October 26) |
-| 1918 | Issues declaration relinquishing participation in government (November 11) |
-| 1918 | Issues similar proclamation for Hungary (November 13) |
-| 1918 | Empire dissolves; goes into exile in Switzerland |
-| 1919 | National Assembly formally dethrones Habsburgs and banishes Karl (April) |
-| 1921 | First restoration attempt in Hungary (March 24-April 5) |
-| 1921 | Second restoration attempt in Hungary (October 20-23); 19 killed in skirmish |
-| 1921 | Exiled to Madeira, arrives November 19 |
-| 1922 | Catches cold March 9; develops pneumonia |
-| 1922 | Dies April 1 at age 34 in Funchal, Madeira |
-| 1949 | Cause for Canonization formally opened in Vienna |
-| 1972 | Tomb opened; body discovered incorrupt |
-| 2003 | Vatican recognizes first miracle (healing of Sister Maria Zita Gradowska in 1960) |
-| 2004 | Beatified by Pope John Paul II on October 3 |
-| 2008 | Second miracle recognized (January 31) |
+| Year      | Event                                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------------------ |
+| 1887      | Born August 17 at Persenbeug Castle, Lower Austria                                                     |
+| 1889      | Crown Prince Rudolf's suicide alters succession                                                        |
+| 1906-1908 | Serves as army officer in Prague, studies law and political science                                    |
+| 1911      | Marries Princess Zita of Bourbon-Parma on October 21                                                   |
+| 1912      | Son and heir Otto born November 20                                                                     |
+| 1914      | Assassination of Archduke Franz Ferdinand (June 28); Karl becomes heir presumptive; World War I begins |
+| 1914-1916 | Serves as military commander on Italian and Eastern fronts                                             |
+| 1916      | Emperor Franz Joseph dies November 21; Karl succeeds as Emperor of Austria                             |
+| 1916      | Crowned King of Hungary (as Karl IV) on December 30 in Budapest                                        |
+| 1917      | Dismisses Chief of Staff Conrad von Hötzendorf (March 1)                                               |
+| 1917      | Secret peace negotiations via Sixtus letters (early 1917)                                              |
+| 1917      | Founds Ministry of Social Welfare                                                                      |
+| 1917      | Supports Pope Benedict XV's peace proposal (August)                                                    |
+| 1918      | Founds Ministry of Public Health                                                                       |
+| 1918      | Sixtus Affair becomes public (April); humiliating visit to Kaiser Wilhelm at Spa (May 12)              |
+| 1918      | Issues federalization manifesto (October 16)                                                           |
+| 1918      | Dissolves alliance with Germany (October 26)                                                           |
+| 1918      | Issues declaration relinquishing participation in government (November 11)                             |
+| 1918      | Issues similar proclamation for Hungary (November 13)                                                  |
+| 1918      | Empire dissolves; goes into exile in Switzerland                                                       |
+| 1919      | National Assembly formally dethrones Habsburgs and banishes Karl (April)                               |
+| 1921      | First restoration attempt in Hungary (March 24-April 5)                                                |
+| 1921      | Second restoration attempt in Hungary (October 20-23); 19 killed in skirmish                           |
+| 1921      | Exiled to Madeira, arrives November 19                                                                 |
+| 1922      | Catches cold March 9; develops pneumonia                                                               |
+| 1922      | Dies April 1 at age 34 in Funchal, Madeira                                                             |
+| 1949      | Cause for Canonization formally opened in Vienna                                                       |
+| 1972      | Tomb opened; body discovered incorrupt                                                                 |
+| 2003      | Vatican recognizes first miracle (healing of Sister Maria Zita Gradowska in 1960)                      |
+| 2004      | Beatified by Pope John Paul II on October 3                                                            |
+| 2008      | Second miracle recognized (January 31)                                                                 |
 
 ---
 
@@ -192,123 +192,243 @@ The fundamental debate centers on whether Karl was a well-intentioned but ineffe
 ## References
 
 [^1]: [Charles I of Austria - Wikipedia](https://en.wikipedia.org/wiki/Charles_I_of_Austria)
+
 [^2]: [First World War.com - Who's Who - Emperor Karl I](https://www.firstworldwar.com/bio/karl.htm)
+
 [^3]: [The beatification of Emperor Karl I | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/beatification-emperor-karl-i)
+
 [^4]: [Charles I of Austria - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Charles_I_of_Austria)
+
 [^5]: [Karl I, Emperor of Austria | Unofficial Royalty](https://www.unofficialroyalty.com/karl-i-emperor-of-austria/)
+
 [^6]: [The problem of the succession | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/problem-succession)
+
 [^7]: [Emperor Karl – childhood, education and family | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/emperor-karl-childhood-education-and-family)
+
 [^8]: [A Man of Faith — Blessed Karl of Austria](https://www.emperorcharles.org/man-of-faith)
+
 [^9]: Emperor Karl – childhood, education and family | Die Welt der Habsburger
+
 [^10]: A Man of Faith — Blessed Karl of Austria
+
 [^11]: Emperor Karl – childhood, education and family | Die Welt der Habsburger
+
 [^12]: Emperor Karl – childhood, education and family | Die Welt der Habsburger
+
 [^13]: Emperor Karl – childhood, education and family | Die Welt der Habsburger
+
 [^14]: [Zita of Bourbon-Parma - Wikipedia](https://en.wikipedia.org/wiki/Zita_of_Bourbon-Parma)
+
 [^15]: [Blessed Karl and Princess Zita: A Royal Engagement Rooted in Faith, Love, and Legacy - Exodus 90](https://exodus90.com/blog/blessed-karl-and-princess-zita-a-royal-engagement-rooted-in-faith-love-and-legacy/)
+
 [^16]: [A Christian Family Man — Blessed Karl of Austria](https://www.emperorcharles.org/christian-family-man)
+
 [^17]: [Zita, the last empress | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/zita-last-empress)
+
 [^18]: The problem of the succession | Die Welt der Habsburger
+
 [^19]: The problem of the succession | Die Welt der Habsburger
+
 [^20]: First World War.com - Who's Who - Emperor Karl I
+
 [^21]: First World War.com - Who's Who - Emperor Karl I
+
 [^22]: First World War.com - Who's Who - Emperor Karl I
+
 [^23]: Charles I of Austria - Wikipedia
+
 [^24]: First World War.com - Who's Who - Emperor Karl I
+
 [^25]: [Coronation of Emperor Charles I of Austria as King of Hungary, 1916 | The Royal Watcher](https://royalwatcherblog.com/2019/12/30/coronation-of-charles-iv-of-hungary/)
+
 [^26]: [Charles IV and the Last Coronation Ceremony of Hungary - Hungarian Conservative](https://www.hungarianconservative.com/articles/culture_society/charles-iv-and-the-last-coronation-ceremony-of-hungary/)
+
 [^27]: [Lessons from Blessed Karl's coronation | Catholic Culture](https://www.catholicculture.org/commentary/beauty-blessed-karls-coronation/)
+
 [^28]: [Emperor Karl I and the collapse of the Monarchy | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/emperor-karl-i-and-collapse-monarchy)
+
 [^29]: Emperor Karl I and the collapse of the Monarchy | Die Welt der Habsburger
+
 [^30]: First World War.com - Who's Who - Emperor Karl I
+
 [^31]: [Karl I: The peace emperor? | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/karl-i-peace-emperor)
+
 [^32]: [Franz Conrad von Hötzendorf - Wikipedia](https://en.wikipedia.org/wiki/Franz_Conrad_von_H%C3%B6tzendorf)
+
 [^33]: Franz Conrad von Hötzendorf - Wikipedia
+
 [^34]: [First World War.com - Who's Who - Conrad von Hotzendorf](https://www.firstworldwar.com/bio/conrad.htm)
+
 [^35]: [Charles I, Emperor of Austria / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia](https://encyclopedia.1914-1918-online.net/article/charles-i-emperor-of-austria/)
-[^36]: [Ministry of Social Affairs, Health, Care and Consumer Protection - Wikipedia](https://en.wikipedia.org/wiki/Ministry_of_Labour,_Social_Affairs_and_Consumer_Protection_(Austria))
+
+[^36]: [Ministry of Social Affairs, Health, Care and Consumer Protection - Wikipedia](<https://en.wikipedia.org/wiki/Ministry_of_Labour,_Social_Affairs_and_Consumer_Protection_(Austria)>)
+
 [^37]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^38]: [Sixtus Affair - Wikipedia](https://en.wikipedia.org/wiki/Sixtus_Affair)
+
 [^39]: [The Sixtus Letters – Karl's quest for a way out | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/sixtus-letters-karls-quest-way-out)
+
 [^40]: [World War I's Pope Benedict XV and the pursuit of peace | National Catholic Reporter](https://www.ncronline.org/news/justice/world-war-pope-benedict-xv-and-pursuit-peace)
+
 [^41]: [First World War.com - Primary Documents - Pope Benedict XV's Peace Note of 1 August 1917](https://www.firstworldwar.com/source/papalpeacenote.htm)
+
 [^42]: [Pope Benedict XV and the forgotten campaign to end World War I - America Magazine](https://www.americamagazine.org/arts-culture/2017/08/03/pope-benedict-xv-and-forgotten-campaign-end-world-war-i/)
+
 [^43]: ['To My faithful Austrian peoples' – Emperor Karl's manifesto | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/my-faithful-austrian-peoples-emperor-karls-manifesto)
+
 [^44]: [Karl Quotes — Blessed Karl of Austria](https://www.emperorcharles.org/karl-quotes)
+
 [^45]: [Karl I and the collapse of the Monarchy | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/karl-i-and-collapse-monarchy)
+
 [^46]: [The Sixtus Affair: A major diplomatic débacle | Der Erste Weltkrieg](https://ww1.habsburger.net/en/chapters/sixtus-affair-major-diplomatic-debacle)
+
 [^47]: [Sixtus Affair / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia](https://encyclopedia.1914-1918-online.net/article/sixtus-affair/)
+
 [^48]: The Sixtus Letters – Karl's quest for a way out | Der Erste Weltkrieg
+
 [^49]: The Sixtus Affair: A major diplomatic débacle | Der Erste Weltkrieg
+
 [^50]: The Sixtus Affair: A major diplomatic débacle | Der Erste Weltkrieg
+
 [^51]: The Sixtus Affair: A major diplomatic débacle | Der Erste Weltkrieg
+
 [^52]: [Austria's holy uproar - NBC News](https://www.nbcnews.com/id/wbna6126292)
+
 [^53]: Austria's holy uproar - NBC News
+
 [^54]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^55]: Austria's holy uproar - NBC News
+
 [^56]: [Putsch attempts in Hungary | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/putsch-attempts-hungary)
+
 [^57]: Putsch attempts in Hungary | Die Welt der Habsburger
+
 [^58]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^59]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^60]: Karl I and the collapse of the Monarchy | Der Erste Weltkrieg
+
 [^61]: Karl I and the collapse of the Monarchy | Der Erste Weltkrieg
+
 [^62]: Zita of Bourbon-Parma - Wikipedia
+
 [^63]: A Christian Family Man — Blessed Karl of Austria
+
 [^64]: A Christian Family Man — Blessed Karl of Austria
+
 [^65]: A Christian Family Man — Blessed Karl of Austria
+
 [^66]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^67]: [Blessed Karl of Austria: A saint for those who suffer | Simply Catholic](https://www.simplycatholic.com/blessed-karl-of-austria-a-saint-for-those-who-suffer/)
+
 [^68]: Blessed Karl of Austria: A saint for those who suffer | Simply Catholic
+
 [^69]: Blessed Karl of Austria: A saint for those who suffer | Simply Catholic
+
 [^70]: A Man of Faith — Blessed Karl of Austria
+
 [^71]: A Man of Faith — Blessed Karl of Austria
+
 [^72]: A Man of Faith — Blessed Karl of Austria
+
 [^73]: Zita of Bourbon-Parma - Wikipedia
+
 [^74]: Karl I, Emperor of Austria | Unofficial Royalty
+
 [^75]: Charles I of Austria - Wikipedia
+
 [^76]: [Zita – to the very last for 'God, Emperor and Fatherland' | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/zita-very-last-god-emperor-and-fatherland)
+
 [^77]: Zita – to the very last for 'God, Emperor and Fatherland' | Die Welt der Habsburger
+
 [^78]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^79]: [Saint of the Month: Blessed Karl of Austria | Galway Cathedral](https://www.galwaycathedral.ie/node/838)
+
 [^80]: [Blessed Karl of Austria: Life, Beatification, League of Prayer - Hozana](https://hozana.org/en/saints/blessed-karl-of-austria)
+
 [^81]: [Karl's Tomb — Blessed Karl of Austria](https://www.emperorcharles.org/karls-tomb)
+
 [^82]: Blessed Karl of Austria: Life, Beatification, League of Prayer - Hozana
+
 [^83]: [Cause for Canonization — Blessed Karl of Austria](https://www.emperorcharles.org/cause-for-canonization)
+
 [^84]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^85]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^86]: [Karl I: the Last Emperor of Austria - Biographies by Biographics](https://biographics.org/karl-i-the-last-emperor-of-austria/)
+
 [^87]: Karl I: the Last Emperor of Austria - Biographies by Biographics
+
 [^88]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^89]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^90]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^91]: [Otto's path from 'last crown prince' to European politician | Die Welt der Habsburger](https://www.habsburger.net/en/chapter/ottos-path-last-crown-prince-european-politician)
+
 [^92]: [Otto von Habsburg - Wikipedia](https://en.wikipedia.org/wiki/Otto_von_Habsburg)
+
 [^93]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^94]: Charles I of Austria - New World Encyclopedia
+
 [^95]: Saint of the Month: Blessed Karl of Austria | Galway Cathedral
+
 [^96]: Saint of the Month: Blessed Karl of Austria | Galway Cathedral
+
 [^97]: First World War.com - Who's Who - Emperor Karl I
+
 [^98]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^99]: Charles I of Austria - New World Encyclopedia
+
 [^100]: Karl I and the collapse of the Monarchy | Der Erste Weltkrieg
+
 [^101]: The Sixtus Letters – Karl's quest for a way out | Der Erste Weltkrieg
+
 [^102]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^103]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^104]: The Sixtus Affair: A major diplomatic débacle | Der Erste Weltkrieg
+
 [^105]: The Sixtus Affair: A major diplomatic débacle | Der Erste Weltkrieg
+
 [^106]: Emperor Karl I and the collapse of the Monarchy | Die Welt der Habsburger
+
 [^107]: Karl I and the collapse of the Monarchy | Der Erste Weltkrieg
+
 [^108]: Austria's holy uproar - NBC News
+
 [^109]: Austria's holy uproar - NBC News
+
 [^110]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^111]: The beatification of Emperor Karl I | Die Welt der Habsburger
+
 [^112]: The Sixtus Affair: A major diplomatic débacle | Der Erste Weltkrieg
+
 [^113]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^114]: Karl I: The peace emperor? | Die Welt der Habsburger
+
 [^115]: Karl Quotes — Blessed Karl of Austria
+
 [^116]: Karl Quotes — Blessed Karl of Austria
+
 [^117]: Karl Quotes — Blessed Karl of Austria
+
 [^118]: 'To My faithful Austrian peoples' – Emperor Karl's manifesto | Der Erste Weltkrieg
+
 [^119]: [November 11, 1918: Emperor Karl of Austria-Hungary and the end of the Habsburg Monarchy. | European Royal History](https://europeanroyalhistory.wordpress.com/2019/11/11/november-11-1918-emperor-karl-of-austria-hungary-and-the-end-of-the-habsburg-monarchy/)
+
 [^120]: Zita of Bourbon-Parma - Wikipedia
+
 [^121]: Karl Quotes — Blessed Karl of Austria

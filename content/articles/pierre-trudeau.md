@@ -35,7 +35,7 @@ This extensive international education—spanning Montreal, Cambridge, Paris, an
 
 ## Rise to Power
 
-After completing his formal education, Trudeau spent much of the 1950s as a public intellectual, labor activist, and constitutional scholar rather than seeking electoral office.[^19] He co-founded the influential journal *Cité Libre* in 1950, which became a crucial vehicle for progressive, anti-establishment critique of Quebec's conservative government under Premier Maurice Duplessis.[^20] Through *Cité Libre*, Trudeau and his collaborators challenged the Catholic Church's dominant role in Quebec society, advocated for separation of church and state, and promoted individual freedoms against the collectivist nationalism then prevailing in the province.[^21]
+After completing his formal education, Trudeau spent much of the 1950s as a public intellectual, labor activist, and constitutional scholar rather than seeking electoral office.[^19] He co-founded the influential journal _Cité Libre_ in 1950, which became a crucial vehicle for progressive, anti-establishment critique of Quebec's conservative government under Premier Maurice Duplessis.[^20] Through _Cité Libre_, Trudeau and his collaborators challenged the Catholic Church's dominant role in Quebec society, advocated for separation of church and state, and promoted individual freedoms against the collectivist nationalism then prevailing in the province.[^21]
 
 During this period, Trudeau also worked as a labor lawyer, representing unions and advocating for workers' rights during several major strikes, cementing his reputation as a progressive intellectual aligned with the social democratic left.[^22] His scholarly work focused on constitutional law and federalism, and he became recognized as one of Canada's foremost experts on the division of powers between federal and provincial governments.[^23]
 
@@ -227,40 +227,40 @@ Constitutional scholar Eugénie Brouillet has argued that Trudeau's centralist v
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1919 | Born on October 18 in Montreal, Quebec[^195] |
-| 1935 | Father Charles-Émile Trudeau dies; Pierre inherits wealth[^196] |
-| 1940 | Graduates from Collège Jean-de-Brébeuf[^197] |
-| 1943 | Graduates from University of Montreal Law School[^198] |
-| 1946 | Earns Master's degree in Political Economy from Harvard University[^199] |
-| 1948 | Completes studies at London School of Economics under Harold Laski[^200] |
-| 1950 | Co-founds the intellectual journal *Cité Libre*[^201] |
-| 1965 | Elected to House of Commons representing Mount Royal[^202] |
-| 1967 | Appointed Minister of Justice and Attorney General[^203] |
+| Year | Event                                                                              |
+| ---- | ---------------------------------------------------------------------------------- |
+| 1919 | Born on October 18 in Montreal, Quebec[^195]                                       |
+| 1935 | Father Charles-Émile Trudeau dies; Pierre inherits wealth[^196]                    |
+| 1940 | Graduates from Collège Jean-de-Brébeuf[^197]                                       |
+| 1943 | Graduates from University of Montreal Law School[^198]                             |
+| 1946 | Earns Master's degree in Political Economy from Harvard University[^199]           |
+| 1948 | Completes studies at London School of Economics under Harold Laski[^200]           |
+| 1950 | Co-founds the intellectual journal _Cité Libre_[^201]                              |
+| 1965 | Elected to House of Commons representing Mount Royal[^202]                         |
+| 1967 | Appointed Minister of Justice and Attorney General[^203]                           |
 | 1968 | Wins Liberal Party leadership on April 6; becomes Prime Minister on April 20[^204] |
-| 1968 | Wins federal election with majority government; Trudeaumania peaks[^205] |
-| 1969 | Passes Official Languages Act, making Canada officially bilingual[^206] |
-| 1970 | Establishes diplomatic relations with People's Republic of China[^207] |
-| 1970 | Invokes War Measures Act during October Crisis[^208] |
-| 1971 | Marries Margaret Sinclair on March 4[^209] |
-| 1971 | Announces Canada's official multiculturalism policy on October 8[^210] |
-| 1971 | Son Justin Trudeau born on December 25[^211] |
-| 1972 | Wins federal election but reduced to minority government[^212] |
-| 1974 | Wins federal election, regaining majority[^213] |
-| 1977 | Separates from wife Margaret[^214] |
-| 1979 | Loses federal election to Progressive Conservatives under Joe Clark[^215] |
-| 1980 | Returns to power with majority government in February election[^216] |
-| 1980 | Defeats Quebec sovereignty referendum on May 20[^217] |
-| 1980 | Introduces National Energy Program in October[^218] |
-| 1982 | Successfully patriates Constitution on April 17[^219] |
-| 1982 | Canadian Charter of Rights and Freedoms comes into force[^220] |
-| 1984 | Announces retirement on February 29[^221] |
-| 1984 | Resigns as Prime Minister on June 30[^222] |
-| 1984 | Divorces Margaret Trudeau[^223] |
-| 1991 | Daughter Sarah Elisabeth born to Deborah Coyne[^224] |
-| 1998 | Son Michel dies in avalanche on November 13[^225] |
-| 2000 | Dies on September 28 in Montreal at age 80[^226] |
+| 1968 | Wins federal election with majority government; Trudeaumania peaks[^205]           |
+| 1969 | Passes Official Languages Act, making Canada officially bilingual[^206]            |
+| 1970 | Establishes diplomatic relations with People's Republic of China[^207]             |
+| 1970 | Invokes War Measures Act during October Crisis[^208]                               |
+| 1971 | Marries Margaret Sinclair on March 4[^209]                                         |
+| 1971 | Announces Canada's official multiculturalism policy on October 8[^210]             |
+| 1971 | Son Justin Trudeau born on December 25[^211]                                       |
+| 1972 | Wins federal election but reduced to minority government[^212]                     |
+| 1974 | Wins federal election, regaining majority[^213]                                    |
+| 1977 | Separates from wife Margaret[^214]                                                 |
+| 1979 | Loses federal election to Progressive Conservatives under Joe Clark[^215]          |
+| 1980 | Returns to power with majority government in February election[^216]               |
+| 1980 | Defeats Quebec sovereignty referendum on May 20[^217]                              |
+| 1980 | Introduces National Energy Program in October[^218]                                |
+| 1982 | Successfully patriates Constitution on April 17[^219]                              |
+| 1982 | Canadian Charter of Rights and Freedoms comes into force[^220]                     |
+| 1984 | Announces retirement on February 29[^221]                                          |
+| 1984 | Resigns as Prime Minister on June 30[^222]                                         |
+| 1984 | Divorces Margaret Trudeau[^223]                                                    |
+| 1991 | Daughter Sarah Elisabeth born to Deborah Coyne[^224]                               |
+| 1998 | Son Michel dies in avalanche on November 13[^225]                                  |
+| 2000 | Dies on September 28 in Montreal at age 80[^226]                                   |
 
 ---
 
@@ -268,266 +268,498 @@ Constitutional scholar Eugénie Brouillet has argued that Trudeau's centralist v
 
 > "There's no place for the state in the bedrooms of the nation."
 
-*Spoken in 1967 as Justice Minister defending decriminalization of homosexuality, this quote became the defining statement of his commitment to individual liberty and the separation of public morality from criminal law.*[^227]
+_Spoken in 1967 as Justice Minister defending decriminalization of homosexuality, this quote became the defining statement of his commitment to individual liberty and the separation of public morality from criminal law._[^227]
 
 > "Just watch me."
 
-*Trudeau's defiant response to CBC reporter Tim Ralfe in October 1970 when asked how far he would go to stop the FLQ terrorists. This terse statement became emblematic of his decisive, sometimes authoritarian leadership style.*[^228]
+_Trudeau's defiant response to CBC reporter Tim Ralfe in October 1970 when asked how far he would go to stop the FLQ terrorists. This terse statement became emblematic of his decisive, sometimes authoritarian leadership style._[^228]
 
 > "Bilingualism is not an imposition on the citizens. The citizens can go on speaking one language or six languages, or no languages if they so choose. Bilingualism is an imposition on the state and not the citizens."
 
-*This quote captures Trudeau's philosophy that official bilingualism meant government services in both languages, not requiring individual citizens to be bilingual—a common misunderstanding about his language policies.*[^229]
+_This quote captures Trudeau's philosophy that official bilingualism meant government services in both languages, not requiring individual citizens to be bilingual—a common misunderstanding about his language policies._[^229]
 
 > "A policy of multiculturalism within a bilingual framework commends itself to the government as the most suitable means of assuring the cultural freedom of Canadians."
 
-*From Trudeau's October 8, 1971 announcement of Canada's official multiculturalism policy, establishing the framework for Canada's approach to immigration and cultural diversity.*[^230]
+_From Trudeau's October 8, 1971 announcement of Canada's official multiculturalism policy, establishing the framework for Canada's approach to immigration and cultural diversity._[^230]
 
 > "Although there are two official languages, there is no official culture, nor does any ethnic group take precedence over any other."
 
-*Part of the 1971 multiculturalism statement, this quote articulated Trudeau's vision of Canada as fundamentally pluralistic, with no dominant ethnic or cultural identity.*[^231]
+_Part of the 1971 multiculturalism statement, this quote articulated Trudeau's vision of Canada as fundamentally pluralistic, with no dominant ethnic or cultural identity._[^231]
 
 > "The Charter is an expression of my long-held view that the subject of law must be the individual human being; the law is made for man, not man for the law."
 
-*Trudeau's explanation of the philosophical foundation of the Charter of Rights and Freedoms, emphasizing individual rights over collective or group identities.*[^232]
+_Trudeau's explanation of the philosophical foundation of the Charter of Rights and Freedoms, emphasizing individual rights over collective or group identities._[^232]
 
 > "National unity if it is to mean anything in the deeply personal sense, must be founded on confidence in one's own individual identity; out of this can grow respect for that of others and a willingness to share ideas, attitudes and assumptions."
 
-*From the 1971 multiculturalism statement, this quote reveals Trudeau's belief that individual identity and confidence were prerequisites for genuine multiculturalism.*[^233]
+_From the 1971 multiculturalism statement, this quote reveals Trudeau's belief that individual identity and confidence were prerequisites for genuine multiculturalism._[^233]
 
 ---
 
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^2]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^3]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^4]: https://en.wikipedia.org/wiki/Historical_rankings_of_prime_ministers_of_Canada
+
 [^5]: https://www.biography.com/political-figures/pierre-trudeau
+
 [^6]: https://www.biographi.ca/en/bio/trudeau_pierre_elliott_22E.html
+
 [^7]: https://www.ebsco.com/research-starters/biography/pierre-trudeau
+
 [^8]: https://www.thefamouspeople.com/profiles/pierre-trudeau-5069.php
+
 [^9]: https://study.com/academy/lesson/pierre-trudeau-family-facts-legacy.html
+
 [^10]: https://www.encyclopedia.com/people/history/canadian-history-biographies/pierre-elliott-trudeau
+
 [^11]: https://kids.britannica.com/kids/article/Pierre-Elliott-Trudeau/438304
+
 [^12]: https://www.biographi.ca/en/bio/trudeau_pierre_elliott_22E.html
+
 [^13]: https://www.ebsco.com/research-starters/biography/pierre-trudeau
+
 [^14]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^15]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^16]: https://www.thefamouspeople.com/profiles/pierre-trudeau-5069.php
+
 [^17]: https://www.biographi.ca/en/bio/trudeau_pierre_elliott_22E.html
+
 [^18]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^19]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^20]: https://www.ubcpress.ca/the-constant-liberal
+
 [^21]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^22]: https://muse.jhu.edu/article/772878/summary
+
 [^23]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^24]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^25]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^26]: https://www.biographi.ca/en/bio/trudeau_pierre_elliott_22E.html
+
 [^27]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^28]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^29]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^30]: https://www.biography.com/political-figures/pierre-trudeau
+
 [^31]: https://en.wikipedia.org/wiki/Trudeaumania
+
 [^32]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^33]: https://reviewcanada.ca/magazine/2016/11/the-truth-about-trudeaumania/
+
 [^34]: https://en.wikipedia.org/wiki/Trudeaumania
+
 [^35]: https://canadaehx.com/2024/01/23/trudeaumania/
+
 [^36]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^37]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^38]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^39]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^40]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^41]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^42]: https://www.edu.gov.mb.ca/k12/cur/socstud/foundation_gr6/blms/6-3-2g.pdf
+
 [^43]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^44]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^45]: https://canadahistory.com/sections/documents/leaders/Pierre_Trudeau/On_Multiculturalism.html
+
 [^46]: https://ca.news.yahoo.com/pierre-elliot-trudeau-praised-the-value-of-diversity-inclusiveness-in-1971-223029284.html
+
 [^47]: https://www.edu.gov.mb.ca/k12/cur/socstud/foundation_gr9/blms/9-1-4g.pdf
+
 [^48]: https://exhibits.library.utoronto.ca/exhibits/show/canadianlawandidentity/cdnlawmulti1/cdnlawmulti1b
+
 [^49]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^50]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^51]: https://patimes.org/the-canadian-charter-of-rights-and-freedoms-40-years-after-the-trudeau-era/
+
 [^52]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^53]: https://policyoptions.irpp.org/magazines/the-year-in-review/the-making-of-a-deal-trudeau-patriation-and-the-charter/
+
 [^54]: https://www.pm.gc.ca/en/news/statements/2022/04/17/statement-prime-minister-40th-anniversary-canadian-charter-rights-and
+
 [^55]: https://www.thecanadianencyclopedia.ca/en/article/canadian-charter-of-rights-and-freedoms
+
 [^56]: https://canadahistoryproject.ca/1982/1982-09-trudeau.html
+
 [^57]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^58]: https://patimes.org/the-canadian-charter-of-rights-and-freedoms-40-years-after-the-trudeau-era/
+
 [^59]: https://www.lermuseum.org/cost-of-freedom/rights-a-freedoms/the-charter
+
 [^60]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^61]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^62]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^63]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^64]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^65]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^66]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^67]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^68]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^69]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^70]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^71]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^72]: https://en.wikipedia.org/wiki/October_Crisis
+
 [^73]: https://www.wsws.org/en/articles/2020/10/23/wmat-o23.html
+
 [^74]: https://www.ebsco.com/research-starters/politics-and-government/canada-invokes-war-measures-act-against-quebec
+
 [^75]: https://en.wikipedia.org/wiki/War_Measures_Act
+
 [^76]: https://www.cbc.ca/archives/just-watch-me-when-pierre-trudeau-confronted-the-october-crisis-1.4676740
+
 [^77]: https://www.ebsco.com/research-starters/politics-and-government/october-crisis
+
 [^78]: https://www.wsws.org/en/articles/2020/10/23/wmat-o23.html
+
 [^79]: https://www.ebsco.com/research-starters/politics-and-government/canada-invokes-war-measures-act-against-quebec
+
 [^80]: https://www.wsws.org/en/articles/2020/10/23/wmat-o23.html
+
 [^81]: https://www.ebsco.com/research-starters/politics-and-government/october-crisis
+
 [^82]: https://www.socialist.ca/node/2506
+
 [^83]: https://theccf.ca/the-trudeau-family-tradition-of-invoking-unnecessary-emergency-powers/
+
 [^84]: https://en.wikipedia.org/wiki/October_Crisis
+
 [^85]: https://www.wsws.org/en/articles/2020/10/23/wmat-o23.html
+
 [^86]: https://www.cbc.ca/archives/just-watch-me-when-pierre-trudeau-confronted-the-october-crisis-1.4676740
+
 [^87]: https://en.wikipedia.org/wiki/National_Energy_Program
+
 [^88]: https://www.thecanadianencyclopedia.ca/en/article/national-energy-program
+
 [^89]: https://www.cbc.ca/alberta/features/tories40/nep.html
+
 [^90]: https://www.history.alberta.ca/energyheritage/gas/transformation/west-vs-east/nep.aspx
+
 [^91]: https://newsinteractives.cbc.ca/longform/notorious-nep/
+
 [^92]: https://www.cbc.ca/alberta/features/tories40/nep.html
+
 [^93]: https://www.history.alberta.ca/energyheritage/gas/transformation/west-vs-east/nep.aspx
+
 [^94]: https://www.saskoer.ca/primeministersandcrisis/chapter/how-the-west-was-lost/
+
 [^95]: https://www.cbc.ca/alberta/features/tories40/nep.html
+
 [^96]: https://newsinteractives.cbc.ca/longform/notorious-nep/
+
 [^97]: https://www.fraserinstitute.org/commentary/trudeaus-emissions-cap-reminds-westerns-his-fathers-national-energy-program
+
 [^98]: https://www.saskoer.ca/primeministersandcrisis/chapter/how-the-west-was-lost/
+
 [^99]: https://jacobin.com/2021/10/canada-pierre-trudeau-nep-oil-economic-planning-fossil-fuels
+
 [^100]: https://www.cbc.ca/alberta/features/tories40/nep.html
+
 [^101]: https://www.britannica.com/place/Canada/The-Trudeau-years-1968-84
+
 [^102]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^103]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^104]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^105]: https://en.wikipedia.org/wiki/Premierships_of_Pierre_Trudeau
+
 [^106]: https://www.britannica.com/place/Canada/The-Trudeau-years-1968-84
+
 [^107]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^108]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^109]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^110]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^111]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^112]: https://policyoptions.irpp.org/magazines/the-year-in-review/the-making-of-a-deal-trudeau-patriation-and-the-charter/
+
 [^113]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^114]: https://en.wikipedia.org/wiki/Margaret_Trudeau
+
 [^115]: https://www.canadashistory.ca/explore/prime-ministers/history-spotlight-pierre-and-margaret-trudeau
+
 [^116]: https://time.com/4080306/pierre-justin-margaret-trudeau/
+
 [^117]: https://en.wikipedia.org/wiki/Trudeau_family
+
 [^118]: https://www.canadashistory.ca/explore/prime-ministers/history-spotlight-pierre-and-margaret-trudeau
+
 [^119]: https://www.scmp.com/magazines/style/entertainment/article/3271818/meet-justin-trudeaus-wild-child-mum-margaret-trudeau-who-was-rumoured-have-slept-mick-jagger-rolling
+
 [^120]: https://en.wikipedia.org/wiki/Trudeau_family
+
 [^121]: https://time.com/4080306/pierre-justin-margaret-trudeau/
+
 [^122]: https://en.wikipedia.org/wiki/Margaret_Trudeau
+
 [^123]: https://www.scmp.com/magazines/style/entertainment/article/3271818/meet-justin-trudeaus-wild-child-mum-margaret-trudeau-who-was-rumoured-have-slept-mick-jagger-rolling
+
 [^124]: https://www.canadashistory.ca/explore/prime-ministers/history-spotlight-pierre-and-margaret-trudeau
+
 [^125]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^126]: https://en.wikipedia.org/wiki/Margaret_Trudeau
+
 [^127]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^128]: https://www.biographi.ca/en/bio/trudeau_pierre_elliott_22E.html
+
 [^129]: https://en.wikipedia.org/wiki/Trudeau_family
+
 [^130]: https://www.biographi.ca/en/bio/trudeau_pierre_elliott_22E.html
+
 [^131]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^132]: https://en.wikipedia.org/wiki/Trudeaumania
+
 [^133]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^134]: https://canadaehx.com/2024/01/23/trudeaumania/
+
 [^135]: https://en.wikipedia.org/wiki/Trudeaumania
+
 [^136]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^137]: https://patimes.org/the-canadian-charter-of-rights-and-freedoms-40-years-after-the-trudeau-era/
+
 [^138]: https://www.saskoer.ca/primeministersandcrisis/chapter/how-the-west-was-lost/
+
 [^139]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^140]: https://www.thecanadianencyclopedia.ca/en/article/canadian-charter-of-rights-and-freedoms
+
 [^141]: https://patimes.org/the-canadian-charter-of-rights-and-freedoms-40-years-after-the-trudeau-era/
+
 [^142]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^143]: https://www.lermuseum.org/cost-of-freedom/rights-a-freedoms/the-charter
+
 [^144]: https://www.thecanadianencyclopedia.ca/en/article/canadian-charter-of-rights-and-freedoms
+
 [^145]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^146]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^147]: https://canadahistory.com/sections/documents/leaders/Pierre_Trudeau/On_Multiculturalism.html
+
 [^148]: https://policyoptions.irpp.org/magazines/the-year-in-review/the-making-of-a-deal-trudeau-patriation-and-the-charter/
+
 [^149]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^150]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^151]: https://www.cbc.ca/alberta/features/tories40/nep.html
+
 [^152]: https://www.saskoer.ca/primeministersandcrisis/chapter/how-the-west-was-lost/
+
 [^153]: https://newsinteractives.cbc.ca/longform/notorious-nep/
+
 [^154]: https://www.britannica.com/place/Canada/The-Trudeau-years-1968-84
+
 [^155]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^156]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^157]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^158]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^159]: https://reviewcanada.ca/magazine/2016/11/the-truth-about-trudeaumania/
+
 [^160]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^161]: https://en.wikipedia.org/wiki/Trudeaumania
+
 [^162]: https://time.com/4080306/pierre-justin-margaret-trudeau/
+
 [^163]: https://en.wikipedia.org/wiki/Trudeau_family
+
 [^164]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^165]: https://en.wikipedia.org/wiki/Historical_rankings_of_prime_ministers_of_Canada
+
 [^166]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^167]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^168]: https://policyoptions.irpp.org/magazines/the-year-in-review/the-making-of-a-deal-trudeau-patriation-and-the-charter/
+
 [^169]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^170]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^171]: https://patimes.org/the-canadian-charter-of-rights-and-freedoms-40-years-after-the-trudeau-era/
+
 [^172]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^173]: https://www.thecanadianencyclopedia.ca/en/article/trudeau-30-years-later
+
 [^174]: https://canadahistory.com/sections/documents/leaders/Pierre_Trudeau/On_Multiculturalism.html
+
 [^175]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^176]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^177]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^178]: https://www.biography.com/political-figures/pierre-trudeau
+
 [^179]: https://www.saskoer.ca/primeministersandcrisis/chapter/how-the-west-was-lost/
+
 [^180]: https://www.britannica.com/place/Canada/The-Trudeau-years-1968-84
+
 [^181]: https://www.cbc.ca/alberta/features/tories40/nep.html
+
 [^182]: https://newsinteractives.cbc.ca/longform/notorious-nep/
+
 [^183]: https://policyoptions.irpp.org/magazines/the-year-in-review/the-making-of-a-deal-trudeau-patriation-and-the-charter/
+
 [^184]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^185]: https://www.socialist.ca/node/2506
+
 [^186]: https://www.wsws.org/en/articles/2020/10/23/wmat-o23.html
+
 [^187]: https://theccf.ca/the-trudeau-family-tradition-of-invoking-unnecessary-emergency-powers/
+
 [^188]: https://www.britannica.com/place/Canada/The-Trudeau-years-1968-84
+
 [^189]: https://www.fraserinstitute.org/commentary/trudeaus-emissions-cap-reminds-westerns-his-fathers-national-energy-program
+
 [^190]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^191]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^192]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^193]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^194]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^195]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^196]: https://www.biography.com/political-figures/pierre-trudeau
+
 [^197]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^198]: https://www.ebsco.com/research-starters/biography/pierre-trudeau
+
 [^199]: https://www.thefamouspeople.com/profiles/pierre-trudeau-5069.php
+
 [^200]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^201]: https://www.ubcpress.ca/the-constant-liberal
+
 [^202]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^203]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^204]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^205]: https://en.wikipedia.org/wiki/Trudeaumania
+
 [^206]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^207]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^208]: https://en.wikipedia.org/wiki/October_Crisis
+
 [^209]: https://www.canadashistory.ca/explore/prime-ministers/history-spotlight-pierre-and-margaret-trudeau
+
 [^210]: https://canadahistory.com/sections/documents/leaders/Pierre_Trudeau/On_Multiculturalism.html
+
 [^211]: https://time.com/4080306/pierre-justin-margaret-trudeau/
+
 [^212]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^213]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^214]: https://www.canadashistory.ca/explore/prime-ministers/history-spotlight-pierre-and-margaret-trudeau
+
 [^215]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^216]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^217]: https://www.thecanadianencyclopedia.ca/en/article/pierre-elliott-trudeau
+
 [^218]: https://en.wikipedia.org/wiki/National_Energy_Program
+
 [^219]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^220]: https://thehub.ca/2022/03/04/charter-at-forty-the-legacy-of-pierre-elliott-trudeau/
+
 [^221]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^222]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^223]: https://en.wikipedia.org/wiki/Margaret_Trudeau
+
 [^224]: https://en.wikipedia.org/wiki/Pierre_Trudeau
+
 [^225]: https://en.wikipedia.org/wiki/Trudeau_family
+
 [^226]: https://www.britannica.com/biography/Pierre-Elliott-Trudeau
+
 [^227]: https://www.biography.com/political-figures/pierre-trudeau
+
 [^228]: https://www.cbc.ca/archives/just-watch-me-when-pierre-trudeau-confronted-the-october-crisis-1.4676740
+
 [^229]: https://www.edu.gov.mb.ca/k12/cur/socstud/foundation_gr6/blms/6-3-2g.pdf
+
 [^230]: https://www.edu.gov.mb.ca/k12/cur/socstud/foundation_gr9/blms/9-1-4g.pdf
+
 [^231]: https://exhibits.library.utoronto.ca/exhibits/show/canadianlawandidentity/cdnlawmulti1/cdnlawmulti1b
+
 [^232]: https://canadahistoryproject.ca/1982/1982-09-trudeau.html
+
 [^233]: https://www.edu.gov.mb.ca/k12/cur/socstud/foundation_gr9/blms/9-1-4g.pdf

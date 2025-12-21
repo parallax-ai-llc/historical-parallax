@@ -141,26 +141,26 @@ Ronald Syme influentially argued that Brutus failed to recognize that the Republ
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 85 BCE | Born in Rome to Marcus Junius Brutus the Elder and Servilia |
-| 77 BCE | Father killed by Pompey; Brutus raised by uncle Cato the Younger |
-| ~58 BCE | Studies philosophy in Athens; becomes devoted to Stoic principles |
-| 54 BCE | Marries Claudia, daughter of Appius Claudius Pulcher |
-| 53 BCE | Serves as quaestor in Cilicia; involved in controversial moneylending |
-| 49 BCE | Civil war begins between Caesar and Pompey |
-| 48 BCE | Fights for Pompey at Battle of Pharsalus; pardoned by Caesar after defeat |
-| 46 BCE | Appointed governor of Cisalpine Gaul by Caesar |
-| 45 BCE | Divorces Claudia and marries Porcia, daughter of Cato the Younger |
-| 44 BCE | Appointed urban praetor; joins conspiracy against Caesar |
-| March 15, 44 BCE | Participates in assassination of Julius Caesar on the Ides of March |
-| March-April 44 BCE | Flees Rome after Mark Antony turns public opinion against conspirators |
-| 44 BCE | Assigned command of Crete, then Macedonia |
-| 43 BCE | Defeats Gaius Antonius at Dyrrhachium; consolidates control in the East |
-| 43 BCE | Proscriptions declared by Second Triumvirate; Cicero killed |
-| October 3, 42 BCE | First Battle of Philippi; defeats Octavian's forces |
-| October 3, 42 BCE | Cassius defeated by Antony and commits suicide based on false reports |
-| October 23, 42 BCE | Second Battle of Philippi; Brutus decisively defeated |
+| Year               | Event                                                                          |
+| ------------------ | ------------------------------------------------------------------------------ |
+| 85 BCE             | Born in Rome to Marcus Junius Brutus the Elder and Servilia                    |
+| 77 BCE             | Father killed by Pompey; Brutus raised by uncle Cato the Younger               |
+| ~58 BCE            | Studies philosophy in Athens; becomes devoted to Stoic principles              |
+| 54 BCE             | Marries Claudia, daughter of Appius Claudius Pulcher                           |
+| 53 BCE             | Serves as quaestor in Cilicia; involved in controversial moneylending          |
+| 49 BCE             | Civil war begins between Caesar and Pompey                                     |
+| 48 BCE             | Fights for Pompey at Battle of Pharsalus; pardoned by Caesar after defeat      |
+| 46 BCE             | Appointed governor of Cisalpine Gaul by Caesar                                 |
+| 45 BCE             | Divorces Claudia and marries Porcia, daughter of Cato the Younger              |
+| 44 BCE             | Appointed urban praetor; joins conspiracy against Caesar                       |
+| March 15, 44 BCE   | Participates in assassination of Julius Caesar on the Ides of March            |
+| March-April 44 BCE | Flees Rome after Mark Antony turns public opinion against conspirators         |
+| 44 BCE             | Assigned command of Crete, then Macedonia                                      |
+| 43 BCE             | Defeats Gaius Antonius at Dyrrhachium; consolidates control in the East        |
+| 43 BCE             | Proscriptions declared by Second Triumvirate; Cicero killed                    |
+| October 3, 42 BCE  | First Battle of Philippi; defeats Octavian's forces                            |
+| October 3, 42 BCE  | Cassius defeated by Antony and commits suicide based on false reports          |
+| October 23, 42 BCE | Second Battle of Philippi; Brutus decisively defeated                          |
 | October 23, 42 BCE | Commits suicide after defeat; body reportedly decapitated by Octavian's orders |
 
 ---
@@ -191,216 +191,216 @@ Context: Whether genuine public sentiment or planted by conspirators, these mess
 
 ## References
 
-[^1]: Plutarch, *Life of Brutus*, 1.1-2; discusses Brutus's legendary ancestry from Lucius Junius Brutus, founder of the Roman Republic.
+[^1]: Plutarch, _Life of Brutus_, 1.1-2; discusses Brutus's legendary ancestry from Lucius Junius Brutus, founder of the Roman Republic.
 
-[^2]: Appian, *Civil Wars*, 2.112; describes the death of Brutus's father at Pompey's hands in 77 BCE.
+[^2]: Appian, _Civil Wars_, 2.112; describes the death of Brutus's father at Pompey's hands in 77 BCE.
 
-[^3]: Suetonius, *Life of Julius Caesar*, 50.2; mentions rumors of Caesar's paternity based on his affair with Servilia.
+[^3]: Suetonius, _Life of Julius Caesar_, 50.2; mentions rumors of Caesar's paternity based on his affair with Servilia.
 
-[^4]: Plutarch, *Life of Brutus*, 2.1-3; discusses Brutus's upbringing by his uncle Cato the Younger.
+[^4]: Plutarch, _Life of Brutus_, 2.1-3; discusses Brutus's upbringing by his uncle Cato the Younger.
 
-[^5]: Cicero, *Brutus*, 149; praises Brutus's philosophical education and intellectual accomplishments.
+[^5]: Cicero, _Brutus_, 149; praises Brutus's philosophical education and intellectual accomplishments.
 
-[^6]: Strasburger, Hermann, "Der 'Scipionenkreis'," *Hermes* 94 (1966): discusses philosophical education of Roman aristocrats.
+[^6]: Strasburger, Hermann, "Der 'Scipionenkreis'," _Hermes_ 94 (1966): discusses philosophical education of Roman aristocrats.
 
-[^7]: Tacitus, *Dialogus de Oratoribus*, 21; compares oratorical styles of various Romans including Brutus.
+[^7]: Tacitus, _Dialogus de Oratoribus_, 21; compares oratorical styles of various Romans including Brutus.
 
-[^8]: Syme, Ronald, *The Roman Revolution* (Oxford, 1939), 60; discusses Brutus's first marriage to Claudia.
+[^8]: Syme, Ronald, _The Roman Revolution_ (Oxford, 1939), 60; discusses Brutus's first marriage to Claudia.
 
-[^9]: Gruen, Erich, *The Last Generation of the Roman Republic* (Berkeley, 1974), 45-73; analyzes political context of Brutus's youth.
+[^9]: Gruen, Erich, _The Last Generation of the Roman Republic_ (Berkeley, 1974), 45-73; analyzes political context of Brutus's youth.
 
-[^10]: Gelzer, Matthias, *Caesar: Politician and Statesman* (Harvard, 1968), 89-112; examines the First Triumvirate's domination of Roman politics.
+[^10]: Gelzer, Matthias, _Caesar: Politician and Statesman_ (Harvard, 1968), 89-112; examines the First Triumvirate's domination of Roman politics.
 
-[^11]: Cicero, *Letters to Atticus*, 5.21, 6.1; discusses Brutus's usurious lending practices in Cyprus.
+[^11]: Cicero, _Letters to Atticus_, 5.21, 6.1; discusses Brutus's usurious lending practices in Cyprus.
 
-[^12]: Plutarch, *Life of Brutus*, 4.1-3; describes Brutus's difficult choice between Caesar and Pompey.
+[^12]: Plutarch, _Life of Brutus_, 4.1-3; describes Brutus's difficult choice between Caesar and Pompey.
 
-[^13]: Appian, *Civil Wars*, 2.64; mentions Brutus's participation in Pompey's forces at Pharsalus.
+[^13]: Appian, _Civil Wars_, 2.64; mentions Brutus's participation in Pompey's forces at Pharsalus.
 
-[^14]: Plutarch, *Life of Caesar*, 46; describes Caesar's immediate pardon of Brutus after Pharsalus.
+[^14]: Plutarch, _Life of Caesar_, 46; describes Caesar's immediate pardon of Brutus after Pharsalus.
 
-[^15]: Dio Cassius, *Roman History*, 43.46; lists Brutus's appointments under Caesar's patronage.
+[^15]: Dio Cassius, _Roman History_, 43.46; lists Brutus's appointments under Caesar's patronage.
 
-[^16]: Suetonius, *Life of Julius Caesar*, 53; reports Caesar's favoritism toward Brutus.
+[^16]: Suetonius, _Life of Julius Caesar_, 53; reports Caesar's favoritism toward Brutus.
 
-[^17]: Appian, *Civil Wars*, 2.106; discusses Caesar's appointment as dictator perpetuo in 44 BCE.
+[^17]: Appian, _Civil Wars_, 2.106; discusses Caesar's appointment as dictator perpetuo in 44 BCE.
 
-[^18]: Plutarch, *Life of Brutus*, 9.2-3; describes the anonymous messages challenging Brutus to act against Caesar.
+[^18]: Plutarch, _Life of Brutus_, 9.2-3; describes the anonymous messages challenging Brutus to act against Caesar.
 
-[^19]: Plutarch, *Life of Brutus*, 10.1-5; narrates Cassius's recruitment of Brutus to the conspiracy.
+[^19]: Plutarch, _Life of Brutus_, 10.1-5; narrates Cassius's recruitment of Brutus to the conspiracy.
 
-[^20]: Cicero, *Philippics*, 2.26; alludes to Brutus's internal struggle over joining the conspiracy.
+[^20]: Cicero, _Philippics_, 2.26; alludes to Brutus's internal struggle over joining the conspiracy.
 
-[^21]: Nicolaus of Damascus, *Life of Augustus*, 19; emphasizes the conspirators' need for Brutus's participation to legitimize their cause.
+[^21]: Nicolaus of Damascus, _Life of Augustus_, 19; emphasizes the conspirators' need for Brutus's participation to legitimize their cause.
 
-[^22]: Suetonius, *Life of Julius Caesar*, 82; provides detailed account of Caesar's assassination on March 15, 44 BCE.
+[^22]: Suetonius, _Life of Julius Caesar_, 82; provides detailed account of Caesar's assassination on March 15, 44 BCE.
 
-[^23]: Plutarch, *Life of Caesar*, 66; describes the assassination scene at the Theatre of Pompey.
+[^23]: Plutarch, _Life of Caesar_, 66; describes the assassination scene at the Theatre of Pompey.
 
-[^24]: Suetonius, *Life of Julius Caesar*, 82.2; discusses the debate over Caesar's last words.
+[^24]: Suetonius, _Life of Julius Caesar_, 82.2; discusses the debate over Caesar's last words.
 
-[^25]: Appian, *Civil Wars*, 2.119-122; describes Brutus's attempts to justify the assassination to the Senate and people.
+[^25]: Appian, _Civil Wars_, 2.119-122; describes Brutus's attempts to justify the assassination to the Senate and people.
 
-[^26]: Cicero, *Letters to Brutus*, 1.15; discusses Brutus's framing of the assassination as tyrannicide.
+[^26]: Cicero, _Letters to Brutus_, 1.15; discusses Brutus's framing of the assassination as tyrannicide.
 
-[^27]: Plutarch, *Life of Brutus*, 20-21; narrates Mark Antony's funeral oration and its effect on public opinion.
+[^27]: Plutarch, _Life of Brutus_, 20-21; narrates Mark Antony's funeral oration and its effect on public opinion.
 
-[^28]: Appian, *Civil Wars*, 3.63; describes Brutus's military activities in Macedonia.
+[^28]: Appian, _Civil Wars_, 3.63; describes Brutus's military activities in Macedonia.
 
-[^29]: Dio Cassius, *Roman History*, 47.21; discusses Brutus's victory over Gaius Antonius.
+[^29]: Dio Cassius, _Roman History_, 47.21; discusses Brutus's victory over Gaius Antonius.
 
-[^30]: Plutarch, *Life of Brutus*, 24; praises Brutus's treatment of Greek cities during his eastern campaigns.
+[^30]: Plutarch, _Life of Brutus_, 24; praises Brutus's treatment of Greek cities during his eastern campaigns.
 
-[^31]: Cicero, *Letters to Brutus*, entire collection; demonstrates continued philosophical and political correspondence.
+[^31]: Cicero, _Letters to Brutus_, entire collection; demonstrates continued philosophical and political correspondence.
 
-[^32]: Sedley, David, "The Ethics of Brutus and Cassius," *Journal of Roman Studies* 87 (1997): 41-53; analyzes Brutus's philosophical justifications.
+[^32]: Sedley, David, "The Ethics of Brutus and Cassius," _Journal of Roman Studies_ 87 (1997): 41-53; analyzes Brutus's philosophical justifications.
 
-[^33]: Cicero, *Letters to Atticus*, 15.4; contains Cicero's private criticisms of Brutus's political judgment.
+[^33]: Cicero, _Letters to Atticus_, 15.4; contains Cicero's private criticisms of Brutus's political judgment.
 
-[^34]: Appian, *Civil Wars*, 4.110-112; describes the first Battle of Philippi and Brutus's initial success.
+[^34]: Appian, _Civil Wars_, 4.110-112; describes the first Battle of Philippi and Brutus's initial success.
 
-[^35]: Plutarch, *Life of Brutus*, 41-43; narrates Cassius's suicide and Brutus's decision to fight a second battle.
+[^35]: Plutarch, _Life of Brutus_, 41-43; narrates Cassius's suicide and Brutus's decision to fight a second battle.
 
-[^36]: Appian, *Civil Wars*, 4.128-131; describes the second Battle of Philippi and final defeat of the republican cause.
+[^36]: Appian, _Civil Wars_, 4.128-131; describes the second Battle of Philippi and final defeat of the republican cause.
 
-[^37]: Clarke, M.L., *The Noblest Roman: Marcus Brutus and His Reputation* (Cornell, 1981), 1-15; surveys the contested legacy of Brutus.
+[^37]: Clarke, M.L., _The Noblest Roman: Marcus Brutus and His Reputation_ (Cornell, 1981), 1-15; surveys the contested legacy of Brutus.
 
-[^38]: Shakespeare, *Julius Caesar*, Act 4, Scene 3; dramatizes Caesar's ghost prophesying Brutus's doom.
+[^38]: Shakespeare, _Julius Caesar_, Act 4, Scene 3; dramatizes Caesar's ghost prophesying Brutus's doom.
 
-[^39]: Syme, *The Roman Revolution*, 96-119; analyzes how the assassination triggered another civil war.
+[^39]: Syme, _The Roman Revolution_, 96-119; analyzes how the assassination triggered another civil war.
 
-[^40]: Eder, Walter, "Augustus and the Power of Tradition," in *The Cambridge Companion to the Age of Augustus* (Cambridge, 2005), 13-32.
+[^40]: Eder, Walter, "Augustus and the Power of Tradition," in _The Cambridge Companion to the Age of Augustus_ (Cambridge, 2005), 13-32.
 
-[^41]: Yavetz, Zvi, *Julius Caesar and His Public Image* (Cornell, 1983), 178-192; discusses popular support for Caesar's policies.
+[^41]: Yavetz, Zvi, _Julius Caesar and His Public Image_ (Cornell, 1983), 178-192; discusses popular support for Caesar's policies.
 
-[^42]: Cicero, *Letters to Atticus*, 5.21; details Brutus's exploitation of Cypriot debtors.
+[^42]: Cicero, _Letters to Atticus_, 5.21; details Brutus's exploitation of Cypriot debtors.
 
-[^43]: Shatzman, Israel, *Senatorial Wealth and Roman Politics* (Brussels, 1975), 254-255; discusses Brutus's financial practices.
+[^43]: Shatzman, Israel, _Senatorial Wealth and Roman Politics_ (Brussels, 1975), 254-255; discusses Brutus's financial practices.
 
-[^44]: Cicero, *Letters to Atticus*, 14.21; contains Cicero's famous criticism of the conspirators' planning.
+[^44]: Cicero, _Letters to Atticus_, 14.21; contains Cicero's famous criticism of the conspirators' planning.
 
-[^45]: Appian, *Civil Wars*, 2.118; discusses the conspirators' failure to eliminate Mark Antony.
+[^45]: Appian, _Civil Wars_, 2.118; discusses the conspirators' failure to eliminate Mark Antony.
 
-[^46]: Dio Cassius, *Roman History*, 44.12-13; suggests mixed motives for Brutus's participation in the conspiracy.
+[^46]: Dio Cassius, _Roman History_, 44.12-13; suggests mixed motives for Brutus's participation in the conspiracy.
 
-[^47]: Osgood, Josiah, *Caesar's Legacy: Civil War and the Emergence of the Roman Empire* (Cambridge, 2006), 18-35.
+[^47]: Osgood, Josiah, _Caesar's Legacy: Civil War and the Emergence of the Roman Empire_ (Cambridge, 2006), 18-35.
 
-[^48]: Yavetz, *Julius Caesar and His Public Image*, 156-177; analyzes popular reaction to Caesar's assassination.
+[^48]: Yavetz, _Julius Caesar and His Public Image_, 156-177; analyzes popular reaction to Caesar's assassination.
 
-[^49]: Parenti, Michael, *The Assassination of Julius Caesar: A People's History of Ancient Rome* (New Press, 2003), 161-189.
+[^49]: Parenti, Michael, _The Assassination of Julius Caesar: A People's History of Ancient Rome_ (New Press, 2003), 161-189.
 
-[^50]: Münzer, Friedrich, *Roman Aristocratic Parties and Families* (Johns Hopkins, 1999), 254-267; discusses Servilia's political influence.
+[^50]: Münzer, Friedrich, _Roman Aristocratic Parties and Families_ (Johns Hopkins, 1999), 254-267; discusses Servilia's political influence.
 
-[^51]: Suetonius, *Life of Julius Caesar*, 50.2; mentions the pearl Caesar gave Servilia.
+[^51]: Suetonius, _Life of Julius Caesar_, 50.2; mentions the pearl Caesar gave Servilia.
 
-[^52]: Plutarch, *Life of Brutus*, 13.1-2; describes Brutus's divorce and remarriage to Porcia.
+[^52]: Plutarch, _Life of Brutus_, 13.1-2; describes Brutus's divorce and remarriage to Porcia.
 
-[^53]: Valerius Maximus, *Memorable Doings and Sayings*, 3.2.15; tells the story of Porcia proving her trustworthiness.
+[^53]: Valerius Maximus, _Memorable Doings and Sayings_, 3.2.15; tells the story of Porcia proving her trustworthiness.
 
-[^54]: Plutarch, *Life of Cato the Younger*, 70; describes Cato's suicide and posthumous symbolic importance.
+[^54]: Plutarch, _Life of Cato the Younger_, 70; describes Cato's suicide and posthumous symbolic importance.
 
-[^55]: Appian, *Civil Wars*, 4.136; discusses conflicting accounts of Porcia's death.
+[^55]: Appian, _Civil Wars_, 4.136; discusses conflicting accounts of Porcia's death.
 
-[^56]: Cicero, *Brutus*, 331; praises Brutus's intellectual qualities and character.
+[^56]: Cicero, _Brutus_, 331; praises Brutus's intellectual qualities and character.
 
-[^57]: Rawson, Elizabeth, *Intellectual Life in the Late Roman Republic* (Johns Hopkins, 1985), 233-252.
+[^57]: Rawson, Elizabeth, _Intellectual Life in the Late Roman Republic_ (Johns Hopkins, 1985), 233-252.
 
-[^58]: Velleius Paterculus, *Roman History*, 2.62; describes Brutus's physical appearance and intellectual strengths.
+[^58]: Velleius Paterculus, _Roman History_, 2.62; describes Brutus's physical appearance and intellectual strengths.
 
-[^59]: Plutarch, *Life of Brutus*, 36.3; mentions Brutus's habit of reading late into the night.
+[^59]: Plutarch, _Life of Brutus_, 36.3; mentions Brutus's habit of reading late into the night.
 
-[^60]: Griffin, Miriam, "Philosophy, Politics, and Politicians at Rome," in *Philosophia Togata* (Oxford, 1989), 1-37.
+[^60]: Griffin, Miriam, "Philosophy, Politics, and Politicians at Rome," in _Philosophia Togata_ (Oxford, 1989), 1-37.
 
-[^61]: Pelling, Christopher, "Plutarch's Caesar: A Caesar for the Caesars?" in *Julius Caesar as Artful Reporter* (Classical Press of Wales, 1999), 213-226.
+[^61]: Pelling, Christopher, "Plutarch's Caesar: A Caesar for the Caesars?" in _Julius Caesar as Artful Reporter_ (Classical Press of Wales, 1999), 213-226.
 
-[^62]: Raaflaub, Kurt, "Caesar the Liberator?" in *Alternatives to Athens* (University of Oklahoma Press, 2010), 262-286.
+[^62]: Raaflaub, Kurt, "Caesar the Liberator?" in _Alternatives to Athens_ (University of Oklahoma Press, 2010), 262-286.
 
-[^63]: Clarke, *The Noblest Roman*, 16-180; comprehensive survey of Brutus's changing reputation through history.
+[^63]: Clarke, _The Noblest Roman_, 16-180; comprehensive survey of Brutus's changing reputation through history.
 
-[^64]: Grant, Michael, *Roman Imperial Money* (Routledge, 1954), 73-74; discusses coins celebrating defeat of Brutus and Cassius.
+[^64]: Grant, Michael, _Roman Imperial Money_ (Routledge, 1954), 73-74; discusses coins celebrating defeat of Brutus and Cassius.
 
-[^65]: Syme, *The Roman Revolution*, 197-198; notes disappearance of Brutus family from historical record.
+[^65]: Syme, _The Roman Revolution_, 197-198; notes disappearance of Brutus family from historical record.
 
-[^66]: Gowing, Alain, *Empire and Memory: The Representation of the Roman Republic in Imperial Culture* (Cambridge, 2005), 104-128.
+[^66]: Gowing, Alain, _Empire and Memory: The Representation of the Roman Republic in Imperial Culture_ (Cambridge, 2005), 104-128.
 
-[^67]: Pelling, Christopher, *Plutarch and History* (Classical Press of Wales, 2002), 237-265.
+[^67]: Pelling, Christopher, _Plutarch and History_ (Classical Press of Wales, 2002), 237-265.
 
-[^68]: Dante Alighieri, *Inferno*, Canto 34; places Brutus in the ninth circle of Hell.
+[^68]: Dante Alighieri, _Inferno_, Canto 34; places Brutus in the ninth circle of Hell.
 
-[^69]: Worden, Blair, "Shakespeare and Politics," *Shakespeare Survey* 44 (1992): 1-15.
+[^69]: Worden, Blair, "Shakespeare and Politics," _Shakespeare Survey_ 44 (1992): 1-15.
 
-[^70]: Shakespeare, *Julius Caesar*, Act 5, Scene 5; Antony's eulogy calling Brutus "the noblest Roman of them all."
+[^70]: Shakespeare, _Julius Caesar_, Act 5, Scene 5; Antony's eulogy calling Brutus "the noblest Roman of them all."
 
-[^71]: Wills, Garry, *Cincinnatus: George Washington and the Enlightenment* (Doubleday, 1984), 178-192.
+[^71]: Wills, Garry, _Cincinnatus: George Washington and the Enlightenment_ (Doubleday, 1984), 178-192.
 
-[^72]: Kauffman, Michael, *American Brutus: John Wilkes Booth and the Lincoln Conspiracies* (Random House, 2004), 210-227.
+[^72]: Kauffman, Michael, _American Brutus: John Wilkes Booth and the Lincoln Conspiracies_ (Random House, 2004), 210-227.
 
-[^73]: Syme, *The Roman Revolution*, 53-60; influential interpretation of Brutus as defending a dead republic.
+[^73]: Syme, _The Roman Revolution_, 53-60; influential interpretation of Brutus as defending a dead republic.
 
-[^74]: Meier, Christian, *Caesar: A Biography* (Basic Books, 1982), 467-489; analyzes class dimensions of the conspiracy.
+[^74]: Meier, Christian, _Caesar: A Biography_ (Basic Books, 1982), 467-489; analyzes class dimensions of the conspiracy.
 
-[^75]: White, Richard, "The Cultural Legacy of 'Et Tu Brute?,'" *Classical World* 103 (2010): 321-337.
+[^75]: White, Richard, "The Cultural Legacy of 'Et Tu Brute?,'" _Classical World_ 103 (2010): 321-337.
 
-[^76]: Wyke, Maria, *Projecting the Past: Ancient Rome, Cinema, and History* (Routledge, 1997), 88-112.
+[^76]: Wyke, Maria, _Projecting the Past: Ancient Rome, Cinema, and History_ (Routledge, 1997), 88-112.
 
-[^77]: Raaflaub, Kurt, "Caesar the Liberator? Factional Politics, Civil War, and Political Ideology," in *Caesar Against Liberty?* (Wiley-Blackwell, 2003), 35-67.
+[^77]: Raaflaub, Kurt, "Caesar the Liberator? Factional Politics, Civil War, and Political Ideology," in _Caesar Against Liberty?_ (Wiley-Blackwell, 2003), 35-67.
 
-[^78]: Woolf, Greg, "Et Tu Brute? The Murder of Caesar and Political Assassination," *Journal of Roman Studies* 97 (2007): 1-15.
+[^78]: Woolf, Greg, "Et Tu Brute? The Murder of Caesar and Political Assassination," _Journal of Roman Studies_ 97 (2007): 1-15.
 
-[^79]: Plutarch, *Life of Brutus*, 6-8; emphasizes Brutus's principled motivations.
+[^79]: Plutarch, _Life of Brutus_, 6-8; emphasizes Brutus's principled motivations.
 
-[^80]: Meier, *Caesar: A Biography*, 456-478; defends legitimacy of concerns about Caesar's autocratic ambitions.
+[^80]: Meier, _Caesar: A Biography_, 456-478; defends legitimacy of concerns about Caesar's autocratic ambitions.
 
-[^81]: Bleicken, Jochen, *Die Verfassung der römischen Republik* (UTB, 1995), 267-289; analyzes Caesar's accumulation of power.
+[^81]: Bleicken, Jochen, _Die Verfassung der römischen Republik_ (UTB, 1995), 267-289; analyzes Caesar's accumulation of power.
 
 [^82]: Sedley, "The Ethics of Brutus and Cassius," 41-53; defends sincerity of Brutus's philosophical commitments.
 
-[^83]: Rawson, *Intellectual Life in the Late Roman Republic*, 233-252; discusses Brutus's genuine intellectual engagement.
+[^83]: Rawson, _Intellectual Life in the Late Roman Republic_, 233-252; discusses Brutus's genuine intellectual engagement.
 
-[^84]: Appian, *Civil Wars*, 4.75; praises Brutus's relatively humane conduct during civil wars.
+[^84]: Appian, _Civil Wars_, 4.75; praises Brutus's relatively humane conduct during civil wars.
 
-[^85]: Plutarch, *Life of Brutus*, 40-41; describes Brutus's strategic wisdom at Philippi.
+[^85]: Plutarch, _Life of Brutus_, 40-41; describes Brutus's strategic wisdom at Philippi.
 
-[^86]: Rahe, Paul, *Republics Ancient and Modern* (University of North Carolina Press, 1994), 456-478; discusses Brutus's influence on republican political theory.
+[^86]: Rahe, Paul, _Republics Ancient and Modern_ (University of North Carolina Press, 1994), 456-478; discusses Brutus's influence on republican political theory.
 
-[^87]: Wills, *Cincinnatus*, 178-192; examines American founders' use of Brutus as republican model.
+[^87]: Wills, _Cincinnatus_, 178-192; examines American founders' use of Brutus as republican model.
 
-[^88]: Osgood, *Caesar's Legacy*, 11-50; analyzes catastrophic consequences of the assassination.
+[^88]: Osgood, _Caesar's Legacy_, 11-50; analyzes catastrophic consequences of the assassination.
 
-[^89]: Syme, *The Roman Revolution*, 113-119; argues assassination accelerated rather than prevented monarchy.
+[^89]: Syme, _The Roman Revolution_, 113-119; argues assassination accelerated rather than prevented monarchy.
 
-[^90]: Plutarch, *Life of Caesar*, 46; emphasizes Caesar's exceptional favor toward Brutus.
+[^90]: Plutarch, _Life of Caesar_, 46; emphasizes Caesar's exceptional favor toward Brutus.
 
-[^91]: Dio Cassius, *Roman History*, 44.14-16; discusses Roman reactions to Brutus's betrayal.
+[^91]: Dio Cassius, _Roman History_, 44.14-16; discusses Roman reactions to Brutus's betrayal.
 
-[^92]: Zanker, Paul, *The Power of Images in the Age of Augustus* (University of Michigan Press, 1988), 44-77.
+[^92]: Zanker, Paul, _The Power of Images in the Age of Augustus_ (University of Michigan Press, 1988), 44-77.
 
-[^93]: Cicero, *Letters to Atticus*, 14.14; criticizes conspirators' lack of post-assassination planning.
+[^93]: Cicero, _Letters to Atticus_, 14.14; criticizes conspirators' lack of post-assassination planning.
 
-[^94]: Appian, *Civil Wars*, 2.118-119; discusses conspirators' strategic failures.
+[^94]: Appian, _Civil Wars_, 2.118-119; discusses conspirators' strategic failures.
 
-[^95]: Cicero, *Letters to Atticus*, 14.21; famous criticism of conspirators' judgment.
+[^95]: Cicero, _Letters to Atticus_, 14.21; famous criticism of conspirators' judgment.
 
-[^96]: Lintott, Andrew, *Violence in Republican Rome* (Oxford, 1968), 62-84; analyzes political violence and its justifications.
+[^96]: Lintott, Andrew, _Violence in Republican Rome_ (Oxford, 1968), 62-84; analyzes political violence and its justifications.
 
-[^97]: Cornell, Tim, *The Beginnings of Rome* (Routledge, 1995), 215-242; discusses Lucius Junius Brutus and foundation of Republic.
+[^97]: Cornell, Tim, _The Beginnings of Rome_ (Routledge, 1995), 215-242; discusses Lucius Junius Brutus and foundation of Republic.
 
-[^98]: Shatzman, *Senatorial Wealth and Roman Politics*, 254-255; discusses Brutus's financial corruption.
+[^98]: Shatzman, _Senatorial Wealth and Roman Politics_, 254-255; discusses Brutus's financial corruption.
 
-[^99]: Parenti, *The Assassination of Julius Caesar*, 161-189; Marxist analysis of class dimensions.
+[^99]: Parenti, _The Assassination of Julius Caesar_, 161-189; Marxist analysis of class dimensions.
 
-[^100]: Brunt, P.A., *Social Conflicts in the Roman Republic* (Norton, 1971), 148-169; discusses popular vs. senatorial interests.
+[^100]: Brunt, P.A., _Social Conflicts in the Roman Republic_ (Norton, 1971), 148-169; discusses popular vs. senatorial interests.
 
-[^101]: Syme, *The Roman Revolution*, 7-27; argues Republic was already dead before Caesar's dictatorship.
+[^101]: Syme, _The Roman Revolution_, 7-27; argues Republic was already dead before Caesar's dictatorship.
 
-[^102]: Gruen, *The Last Generation of the Roman Republic*, 498-507; analyzes structural crisis of late Republic.
+[^102]: Gruen, _The Last Generation of the Roman Republic_, 498-507; analyzes structural crisis of late Republic.
 
-[^103]: Cicero, *Brutus*, 331; assessment of Brutus's character and abilities.
+[^103]: Cicero, _Brutus_, 331; assessment of Brutus's character and abilities.
 
-[^104]: Shakespeare, *Julius Caesar*, Act 3, Scene 2; famous line from Brutus's speech justifying the assassination.
+[^104]: Shakespeare, _Julius Caesar_, Act 3, Scene 2; famous line from Brutus's speech justifying the assassination.
 
-[^105]: Preserved in Seneca, *Moral Epistles*, 95.45; fragment from Brutus's philosophical writings.
+[^105]: Preserved in Seneca, _Moral Epistles_, 95.45; fragment from Brutus's philosophical writings.
 
-[^106]: Dio Cassius, *Roman History*, 47.49; reports Brutus's last words before suicide.
+[^106]: Dio Cassius, _Roman History_, 47.49; reports Brutus's last words before suicide.
 
-[^107]: Plutarch, *Life of Brutus*, 9.2; describes anonymous messages challenging Brutus to act against Caesar.
+[^107]: Plutarch, _Life of Brutus_, 9.2; describes anonymous messages challenging Brutus to act against Caesar.

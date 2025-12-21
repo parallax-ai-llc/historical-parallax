@@ -154,32 +154,32 @@ Critics and scholarly opponents of Bush's legacy emphasize the catastrophic cons
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1946 | Born on July 6 in New Haven, Connecticut |
-| 1964 | Enrolls at Yale University |
-| 1968 | Graduates from Yale; joins Texas Air National Guard |
-| 1975 | Earns MBA from Harvard Business School |
-| 1977 | Marries Laura Welch on November 5 |
-| 1978 | Loses congressional race for Texas's 19th district |
-| 1981 | Twin daughters Barbara and Jenna born on November 25 |
-| 1986 | Quits drinking entirely on his 40th birthday |
-| 1989 | Becomes managing general partner of Texas Rangers baseball team |
-| 1994 | Elected Governor of Texas, defeating Ann Richards |
-| 1998 | Re-elected Governor with 69% of vote |
-| 2000 | Wins presidency in controversial election decided by Supreme Court |
-| 2001 | Inaugurated as 43rd President on January 20; September 11 terrorist attacks; launches War in Afghanistan |
-| 2002 | Signs No Child Left Behind Act; establishes Department of Homeland Security |
-| 2003 | Launches Iraq War on March 19; creates PEPFAR to combat HIV/AIDS |
-| 2004 | Re-elected President, defeating John Kerry |
+| Year | Event                                                                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------ |
+| 1946 | Born on July 6 in New Haven, Connecticut                                                                           |
+| 1964 | Enrolls at Yale University                                                                                         |
+| 1968 | Graduates from Yale; joins Texas Air National Guard                                                                |
+| 1975 | Earns MBA from Harvard Business School                                                                             |
+| 1977 | Marries Laura Welch on November 5                                                                                  |
+| 1978 | Loses congressional race for Texas's 19th district                                                                 |
+| 1981 | Twin daughters Barbara and Jenna born on November 25                                                               |
+| 1986 | Quits drinking entirely on his 40th birthday                                                                       |
+| 1989 | Becomes managing general partner of Texas Rangers baseball team                                                    |
+| 1994 | Elected Governor of Texas, defeating Ann Richards                                                                  |
+| 1998 | Re-elected Governor with 69% of vote                                                                               |
+| 2000 | Wins presidency in controversial election decided by Supreme Court                                                 |
+| 2001 | Inaugurated as 43rd President on January 20; September 11 terrorist attacks; launches War in Afghanistan           |
+| 2002 | Signs No Child Left Behind Act; establishes Department of Homeland Security                                        |
+| 2003 | Launches Iraq War on March 19; creates PEPFAR to combat HIV/AIDS                                                   |
+| 2004 | Re-elected President, defeating John Kerry                                                                         |
 | 2005 | Hurricane Katrina devastates Gulf Coast; nominates John Roberts as Chief Justice and Samuel Alito to Supreme Court |
-| 2006 | Republicans lose control of Congress in midterm elections |
-| 2007 | Announces "surge" of additional troops to Iraq |
-| 2008 | Financial crisis and Great Recession begin; signs TARP legislation |
-| 2009 | Leaves office with 24% approval rating on January 20 |
-| 2010 | Publishes memoir Decision Points |
-| 2017 | Publishes Portraits of Courage, featuring paintings of wounded veterans |
-| 2018 | Father George H.W. Bush dies on November 30 |
+| 2006 | Republicans lose control of Congress in midterm elections                                                          |
+| 2007 | Announces "surge" of additional troops to Iraq                                                                     |
+| 2008 | Financial crisis and Great Recession begin; signs TARP legislation                                                 |
+| 2009 | Leaves office with 24% approval rating on January 20                                                               |
+| 2010 | Publishes memoir Decision Points                                                                                   |
+| 2017 | Publishes Portraits of Courage, featuring paintings of wounded veterans                                            |
+| 2018 | Father George H.W. Bush dies on November 30                                                                        |
 
 ---
 
@@ -202,97 +202,191 @@ Critics and scholarly opponents of Bush's legacy emphasize the catastrophic cons
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/George_W._Bush
+
 [^2]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^3]: https://en.wikipedia.org/wiki/Early_life_of_George_W._Bush
+
 [^4]: https://millercenter.org/president/gwbush/life-before-the-presidency
+
 [^5]: https://www.biography.com/political-figures/george-w-bush
+
 [^6]: https://millercenter.org/president/gwbush/life-before-the-presidency
+
 [^7]: https://www.britannica.com/biography/George-W-Bush
+
 [^8]: https://en.wikipedia.org/wiki/Early_life_of_George_W._Bush
+
 [^9]: https://www.bushinfo.org/early-years/
+
 [^10]: https://millercenter.org/president/gwbush/life-before-the-presidency
+
 [^11]: https://en.wikipedia.org/wiki/George_W._Bush
+
 [^12]: https://www.britannica.com/biography/George-W-Bush
+
 [^13]: https://millercenter.org/president/gwbush/life-before-the-presidency
+
 [^14]: https://www.britannica.com/biography/George-W-Bush/Governor-of-Texas
+
 [^15]: https://en.wikipedia.org/wiki/George_W._Bush
+
 [^16]: https://www.britannica.com/biography/George-W-Bush
+
 [^17]: https://en.wikipedia.org/wiki/Governorship_of_George_W._Bush
+
 [^18]: https://www.britannica.com/biography/George-W-Bush/Governor-of-Texas
+
 [^19]: https://texaspolitics.utexas.edu/archive/html/exec/governors/32.html
+
 [^20]: https://texapedia.info/bush-texas-governorship/
+
 [^21]: https://www.tsl.texas.gov/governors/modern/bush-p07.html
+
 [^22]: https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/factsheets/taxrelief.html
+
 [^23]: https://en.wikipedia.org/wiki/Economic_policy_of_the_George_W._Bush_administration
+
 [^24]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^25]: https://georgewbush-whitehouse.archives.gov/infocus/achievement/index.html
+
 [^26]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^27]: https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010911-16.html
+
 [^28]: https://www.georgewbushlibrary.gov/explore/exhibits/9-11-the-steel-of-american-resolve
+
 [^29]: https://www.gilderlehrman.org/history-resources/spotlight-primary-source/george-w-bush-911-attacks-2001
+
 [^30]: https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/factsheets/9-11.html
+
 [^31]: https://abcnews.go.com/blogs/politics/2013/04/george-w-bushs-legacy-on-africa-wins-praise-even-from-foes
+
 [^32]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^33]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^34]: https://www.bushcenter.org/publications/five-highlights-of-president-bushs-continued-commitment-to-africa
+
 [^35]: https://www.georgewbushlibrary.gov/research/topic-guides/nominations-and-appointments-federal-office
+
 [^36]: https://en.wikipedia.org/wiki/George_W._Bush_Supreme_Court_candidates
+
 [^37]: https://en.wikipedia.org/wiki/Economic_policy_of_the_George_W._Bush_administration
+
 [^38]: https://en.wikipedia.org/wiki/Economic_policy_of_the_George_W._Bush_administration
+
 [^39]: https://en.wikipedia.org/wiki/Economic_policy_of_the_George_W._Bush_administration
+
 [^40]: https://en.wikipedia.org/wiki/Rationale_for_the_Iraq_War
+
 [^41]: https://en.wikipedia.org/wiki/Criticism_of_the_Iraq_War
+
 [^42]: https://www.pewresearch.org/politics/2023/03/14/a-look-back-at-how-fear-and-false-beliefs-bolstered-u-s-public-support-for-war-in-iraq/
+
 [^43]: https://en.wikipedia.org/wiki/Mission_Accomplished_speech
+
 [^44]: https://millercenter.org/americas-war-in-iraq/bush-43-advisors-war-iraq
+
 [^45]: https://www.ebsco.com/research-starters/law/bush-administration-scandals
+
 [^46]: https://www.usnews.com/news/the-report/articles/2015/08/28/hurricane-katrina-was-the-beginning-of-the-end-for-george-w-bush
+
 [^47]: https://www.pewresearch.org/politics/2005/09/08/two-in-three-critical-of-bushs-relief-efforts/
+
 [^48]: https://en.wikipedia.org/wiki/Criticism_of_the_government_response_to_Hurricane_Katrina
+
 [^49]: https://www.usnews.com/news/the-report/articles/2015/08/28/hurricane-katrina-was-the-beginning-of-the-end-for-george-w-bush
+
 [^50]: https://www.nola.com/news/george-w-bush-never-recovered-politically-from-katrina/article_9b0ff883-2078-5662-8e6b-b8296249a161.html
+
 [^51]: https://en.wikipedia.org/wiki/2000_United_States_presidential_election_recount_in_Florida
+
 [^52]: https://www.britannica.com/event/Bush-v-Gore
+
 [^53]: https://constitutioncenter.org/blog/on-this-day-bush-v-gore-anniversary
+
 [^54]: https://en.wikipedia.org/wiki/Economic_policy_of_the_George_W._Bush_administration
+
 [^55]: https://www.americanprogress.org/article/idea-of-the-day-great-recession-could-have-been-prevented-by-bush-administration/
+
 [^56]: https://www.ebsco.com/research-starters/law/bush-administration-scandals
+
 [^57]: https://en.wikipedia.org/wiki/Laura_Bush
+
 [^58]: https://www.today.com/popculture/jenna-bush-hager-parents-george-laura-rcna196238
+
 [^59]: https://www.georgewbushlibrary.gov/bush-family
+
 [^60]: https://en.wikipedia.org/wiki/Barbara_Bush_(born_1981)
+
 [^61]: https://en.wikipedia.org/wiki/Barbara_Bush_(born_1981)
+
 [^62]: https://www.hellomagazine.com/healthandbeauty/mother-and-baby/860033/meet-george-w-bush-twin-daughters-barbara-jenna/
+
 [^63]: https://en.wikipedia.org/wiki/Jenna_Bush_Hager
+
 [^64]: https://www.georgewbushlibrary.gov/bush-family
+
 [^65]: https://www.biography.com/political-figures/george-w-bush
+
 [^66]: https://www.biography.com/political-figures/george-w-bush
+
 [^67]: https://www.theconservativetoday.com/george-w-bush-paintings/
+
 [^68]: https://en.wikipedia.org/wiki/Portraits_of_Courage
+
 [^69]: https://news.gallup.com/poll/116500/presidential-approval-ratings-george-bush.aspx
+
 [^70]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^71]: https://journals.shareok.org/arp/article/view/265/243
+
 [^72]: https://millercenter.org/president/gwbush/foreign-affairs
+
 [^73]: https://abcnews.go.com/blogs/politics/2013/04/george-w-bushs-legacy-on-africa-wins-praise-even-from-foes
+
 [^74]: https://www.cnn.com/2013/07/02/politics/africa-bush-legacy/index.html
+
 [^75]: https://scholarship.law.wm.edu/wmborj/vol22/iss3/2/
+
 [^76]: https://www.cbpp.org/research/economic-downturn-and-legacy-of-bush-policies-continue-to-drive-large-deficits
+
 [^77]: https://www.georgewbushlibrary.gov/explore/exhibits/9-11-the-steel-of-american-resolve
+
 [^78]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^79]: https://millercenter.org/president/gwbush/impact-and-legacy
+
 [^80]: https://www.bushcenter.org/publications/five-highlights-of-president-bushs-continued-commitment-to-africa
+
 [^81]: https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/factsheets/9-11.html
+
 [^82]: https://www.cfr.org/event/lessons-history-series-meeting-foreign-policy-legacy-george-w-bush-administration
+
 [^83]: https://en.wikipedia.org/wiki/Criticism_of_the_Iraq_War
+
 [^84]: https://www.ebsco.com/research-starters/law/bush-administration-scandals
+
 [^85]: https://en.wikipedia.org/wiki/Criticism_of_the_government_response_to_Hurricane_Katrina
+
 [^86]: https://en.wikipedia.org/wiki/Economic_policy_of_the_George_W._Bush_administration
+
 [^87]: https://www.cbpp.org/research/economic-downturn-and-legacy-of-bush-policies-continue-to-drive-large-deficits
+
 [^88]: https://www.ebsco.com/research-starters/law/bush-administration-scandals
+
 [^89]: https://www.pewresearch.org/politics/2008/12/18/bush-and-public-opinion/
+
 [^90]: https://www.georgewbushlibrary.gov/explore/exhibits/9-11-the-steel-of-american-resolve
+
 [^91]: https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010911-16.html
+
 [^92]: https://www.brainyquote.com/authors/george-w-bush-quotes
+
 [^93]: https://en.wikiquote.org/wiki/George_W._Bush
+
 [^94]: https://en.wikipedia.org/wiki/Bushism
+
 [^95]: https://www.goodreads.com/author/quotes/13747.George_W_Bush

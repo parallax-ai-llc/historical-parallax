@@ -3,7 +3,8 @@ id: "haiti-protests-2018-2019"
 name: "Haitian Protests and PetroCaribe Scandal (2018-2019)"
 date: "2018-07-06"
 location: "Port-au-Prince and nationwide, Haiti"
-category: ["Historical Event", "Anti-Corruption Protests", "Failed State Crisis", "Fuel Price Protests"]
+category:
+  ["Historical Event", "Anti-Corruption Protests", "Failed State Crisis", "Fuel Price Protests"]
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Haiti_protests_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2018-2019_Haitian_protests"
@@ -25,16 +26,19 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### Haiti's Cycles of Crisis
 
 **The world's first free Black republic:**
+
 - Independence 1804
 - Forced to pay France
 - Centuries of exploitation
 
 **20th century:**
+
 - US occupation (1915-1934)
 - Duvalier dictatorship (1957-1986)
 - Coups, elections, interventions
 
 **21st century:**
+
 - 2004: Aristide ousted
 - 2010: Earthquake (200,000+ dead)
 - Foreign aid, NGOs, UN mission
@@ -43,6 +47,7 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### PetroCaribe
 
 **What it was:**
+
 - Venezuelan program (2005-2018)
 - Subsidized oil to Caribbean nations
 - Haiti paid only 60% upfront
@@ -50,12 +55,14 @@ The protests did not remove Moïse, who clung to power until his assassination i
 - Savings (~$4 billion) for development
 
 **What happened:**
+
 - Money "disappeared"
 - Projects incomplete or fictional
 - 2017 Senate report documented fraud
 - Multiple administrations implicated
 
 **Jovenel Moïse:**
+
 - Elected 2017 (after 2016 election canceled for fraud)
 - Low turnout; legitimacy questioned
 - Audit showed his company received millions for phantom road work[^5]
@@ -67,6 +74,7 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### Phase 1: Fuel Riots (July 2018)
 
 **July 6-8, 2018:**
+
 - Government announced 38-51% fuel price hike
 - Removing subsidies (IMF-related)
 - Violent protests erupted
@@ -78,15 +86,18 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### Phase 2: PetroCaribe Movement (2018-2019)
 
 **The hashtag:**
+
 - #PetroCaribeChallenge went viral
 - Haitians asked: Where did the money go?
 - Young people, diaspora, artists mobilized
 
 **November 2018:**
+
 - Major protests demanding accountability
 - President Moïse implicated in audit
 
 **February 2019:**
+
 - New wave of protests
 - Called for Moïse's resignation
 
@@ -95,6 +106,7 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### Phase 3: "Peyi Lok" (September-November 2019)
 
 **"Country lockdown":**
+
 - Barricades across Port-au-Prince
 - Roads blocked for weeks
 - Fuel shortages
@@ -102,12 +114,14 @@ The protests did not remove Moïse, who clung to power until his assassination i
 - Schools shut months
 
 **Demands:**
+
 - Moïse must resign
 - PetroCaribe accountability
 - Transitional government
 - New elections
 
 **Government response:**
+
 - Moïse refused to resign
 - Ruled by decree (no functioning parliament)
 - Accusations of gangs used against protesters[^7]
@@ -118,11 +132,11 @@ The protests did not remove Moïse, who clung to power until his assassination i
 
 **Difficult to verify (ongoing chaos):**
 
-| Period | Deaths |
-|--------|--------|
-| July 2018 fuel riots | 4-7 |
-| 2018-2019 protests | Dozens |
-| Related violence | Unknown |
+| Period               | Deaths  |
+| -------------------- | ------- |
+| July 2018 fuel riots | 4-7     |
+| 2018-2019 protests   | Dozens  |
+| Related violence     | Unknown |
 
 **Injuries:** Hundreds
 
@@ -134,25 +148,25 @@ The protests did not remove Moïse, who clung to power until his assassination i
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Jovenel Moïse | President; refused to resign; assassinated 2021 |
-| Various prime ministers | Resigned under pressure |
+| Name                    | Role                                            |
+| ----------------------- | ----------------------------------------------- |
+| Jovenel Moïse           | President; refused to resign; assassinated 2021 |
+| Various prime ministers | Resigned under pressure                         |
 
 ### Opposition
 
-| Name | Role |
-|------|------|
+| Name               | Role                                         |
+| ------------------ | -------------------------------------------- |
 | Jean-Charles Moïse | Opposition leader (no relation to president) |
-| Civil society | Artists, journalists, youth led movement |
+| Civil society      | Artists, journalists, youth led movement     |
 
 ### International
 
-| Actor | Role |
-|-------|------|
-| Venezuela (PetroCaribe) | Program suspended 2018 |
-| IMF | Pushed fuel subsidy removal |
-| US | Continued supporting Moïse |
+| Actor                   | Role                        |
+| ----------------------- | --------------------------- |
+| Venezuela (PetroCaribe) | Program suspended 2018      |
+| IMF                     | Pushed fuel subsidy removal |
+| US                      | Continued supporting Moïse  |
 
 ---
 
@@ -161,6 +175,7 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### Moïse's Survival
 
 **Why he stayed:**
+
 - No constitutional mechanism to remove
 - Parliament not functioning
 - International community didn't push
@@ -169,12 +184,14 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### 2020-2021: Escalation to Collapse
 
 **After 2019:**
+
 - Moïse ruled by decree
 - Gang power grew
 - Kidnappings epidemic
 - Economy collapsed further
 
 **July 7, 2021:**
+
 - **Moïse assassinated** in his home
 - Mercenaries; unknown masterminds
 - Haiti fell into chaos
@@ -182,6 +199,7 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### 2024: Failed State
 
 **Where Haiti is now:**
+
 - No elected government
 - Gangs control much of capital
 - UN mission returned
@@ -196,32 +214,38 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### Why Did Protests Fail?
 
 **No unified leadership:**
+
 - Multiple opposition factions
 - No agreed alternative
 
 **Institutional collapse:**
+
 - No parliament
 - Courts compromised
 - No constitutional path
 
 **Gang dimension:**
+
 - Armed groups complicated picture
 - Some aligned with government
 - Some with opposition
 - Violence muddied moral clarity
 
 **International support for Moïse:**
+
 - US backed him until assassination
 - No external pressure for change
 
 ### What Did They Reveal?
 
 **Corruption's scale:**
+
 - Billions stolen across administrations
 - Foreign aid didn't reach people
 - State captured by elites
 
 **Haitian capacity for mobilization:**
+
 - Movement was genuinely popular
 - Young Haitians connected to diaspora
 - Social media crucial
@@ -248,6 +272,7 @@ The protests did not remove Moïse, who clung to power until his assassination i
 ### "Kot Kòb?"
 
 **The question remains:**
+
 - Money never recovered
 - Some officials later sanctioned (Canada, US)
 - No Haitian accountability
@@ -257,31 +282,40 @@ The protests did not remove Moïse, who clung to power until his assassination i
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 2005-2018 | PetroCaribe provides billions |
-| 2017 | Senate report exposes corruption |
-| February 2017 | Moïse elected |
-| July 6-8, 2018 | Fuel price protests; 4+ killed |
-| August 2018 | #PetroCaribeChallenge goes viral |
-| November 2018 | Major protests |
-| February 2019 | Protests demanding Moïse resign |
-| September-November 2019 | "Peyi Lok" (country lockdown) |
-| 2020 | COVID; gang power expands; Moïse rules by decree |
-| July 7, 2021 | **Moïse assassinated** |
-| 2022-2024 | Haiti collapses; gangs control capital |
+| Date                    | Event                                            |
+| ----------------------- | ------------------------------------------------ |
+| 2005-2018               | PetroCaribe provides billions                    |
+| 2017                    | Senate report exposes corruption                 |
+| February 2017           | Moïse elected                                    |
+| July 6-8, 2018          | Fuel price protests; 4+ killed                   |
+| August 2018             | #PetroCaribeChallenge goes viral                 |
+| November 2018           | Major protests                                   |
+| February 2019           | Protests demanding Moïse resign                  |
+| September-November 2019 | "Peyi Lok" (country lockdown)                    |
+| 2020                    | COVID; gang power expands; Moïse rules by decree |
+| July 7, 2021            | **Moïse assassinated**                           |
+| 2022-2024               | Haiti collapses; gangs control capital           |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 2018-2019 Haitian protests](https://en.wikipedia.org/wiki/2018-2019_Haitian_protests)
+
 [^2]: [COHA - Protests analysis](https://www.coha.org/haiti-petrocaribe-protests/)
+
 [^3]: [Time - PetroCaribe scandal](https://time.com/haiti-petrocaribe-scandal/)
+
 [^4]: [Wikipedia - History of Haiti](https://en.wikipedia.org/wiki/History_of_Haiti)
+
 [^5]: [Miami Herald - Moïse audit](https://www.miamiherald.com/news/nation-world/world/americas/haiti/)
+
 [^6]: [People's Dispatch - Movement](https://peoplesdispatch.org/2019/haiti-petrocaribe/)
+
 [^7]: [CIVICUS - Peyi Lok](https://www.civicus.org/index.php/haiti-2019/)
+
 [^8]: [Concern - Haiti crisis](https://www.concern.net/news/haiti-crisis/)
+
 [^9]: [CFR - Haiti backgrounder](https://www.cfr.org/backgrounder/haiti-political-crisis)
+
 [^10]: [CIJN - PetroCaribe money](https://www.cijn.org/petrocaribe-haiti/)

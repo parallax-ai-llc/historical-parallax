@@ -121,207 +121,360 @@ The brutality of Lorenzo's response to the Pazzi Conspiracy—executing over eig
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1449 | Birth of Lorenzo de' Medici in Florence on January 1[^126] |
-| 1462 | Platonic Academy founded in Florence under patronage of Cosimo de' Medici[^127] |
-| 1464 | Death of Cosimo de' Medici; Piero de' Medici assumes leadership[^128] |
-| 1469 | Lorenzo marries Clarice Orsini on June 4[^129] |
-| 1469 | Death of Piero de' Medici; Lorenzo assumes leadership of Florence at age 20[^130] |
-| 1469 | Lorenzo and brother Giuliano begin joint rule of Florence[^131] |
+| Year | Event                                                                                  |
+| ---- | -------------------------------------------------------------------------------------- |
+| 1449 | Birth of Lorenzo de' Medici in Florence on January 1[^126]                             |
+| 1462 | Platonic Academy founded in Florence under patronage of Cosimo de' Medici[^127]        |
+| 1464 | Death of Cosimo de' Medici; Piero de' Medici assumes leadership[^128]                  |
+| 1469 | Lorenzo marries Clarice Orsini on June 4[^129]                                         |
+| 1469 | Death of Piero de' Medici; Lorenzo assumes leadership of Florence at age 20[^130]      |
+| 1469 | Lorenzo and brother Giuliano begin joint rule of Florence[^131]                        |
 | 1471 | Lorenzo calculates family has spent 663,000 florins on civic projects since 1434[^132] |
-| 1472 | Birth of son Piero on February 15[^133] |
-| 1475 | Birth of son Giovanni (future Pope Leo X) on December 11[^134] |
-| 1477 | Lorenzo lobbies for new inheritance law favoring male heirs[^135] |
-| 1478 | Pazzi Conspiracy on April 26; Giuliano assassinated, Lorenzo wounded[^136] |
-| 1478 | Over eighty conspirators executed; Pazzi family banished[^137] |
-| 1478 | War with papacy begins following failed conspiracy[^138] |
-| 1479 | Lorenzo travels to Naples as virtual prisoner to negotiate peace[^139] |
-| 1480 | Peace achieved; Lorenzo becomes sole ruler of Florence[^140] |
-| 1488 | Death of wife Clarice Orsini from tuberculosis on July 30[^141] |
-| 1490 | Michelangelo enters Lorenzo's household and sculpture garden[^142] |
-| 1490 | Savonarola returns to Florence and takes leadership of San Marco monastery[^143] |
-| 1491 | Savonarola begins public sermons criticizing Medici government[^144] |
-| 1492 | Lorenzo suffers severe illness with gout complications and gangrene[^145] |
-| 1492 | Death of Lorenzo at Careggi villa on April 8/9 at age 43[^146] |
-| 1494 | Medici Bank closes all branches and faces bankruptcy[^147] |
-| 1494 | French invasion of Italy; son Piero exiled from Florence[^148] |
-| 1513 | Lorenzo's son Giovanni elected Pope Leo X[^149] |
+| 1472 | Birth of son Piero on February 15[^133]                                                |
+| 1475 | Birth of son Giovanni (future Pope Leo X) on December 11[^134]                         |
+| 1477 | Lorenzo lobbies for new inheritance law favoring male heirs[^135]                      |
+| 1478 | Pazzi Conspiracy on April 26; Giuliano assassinated, Lorenzo wounded[^136]             |
+| 1478 | Over eighty conspirators executed; Pazzi family banished[^137]                         |
+| 1478 | War with papacy begins following failed conspiracy[^138]                               |
+| 1479 | Lorenzo travels to Naples as virtual prisoner to negotiate peace[^139]                 |
+| 1480 | Peace achieved; Lorenzo becomes sole ruler of Florence[^140]                           |
+| 1488 | Death of wife Clarice Orsini from tuberculosis on July 30[^141]                        |
+| 1490 | Michelangelo enters Lorenzo's household and sculpture garden[^142]                     |
+| 1490 | Savonarola returns to Florence and takes leadership of San Marco monastery[^143]       |
+| 1491 | Savonarola begins public sermons criticizing Medici government[^144]                   |
+| 1492 | Lorenzo suffers severe illness with gout complications and gangrene[^145]              |
+| 1492 | Death of Lorenzo at Careggi villa on April 8/9 at age 43[^146]                         |
+| 1494 | Medici Bank closes all branches and faces bankruptcy[^147]                             |
+| 1494 | French invasion of Italy; son Piero exiled from Florence[^148]                         |
+| 1513 | Lorenzo's son Giovanni elected Pope Leo X[^149]                                        |
 
 ---
 
 ## Famous Quotes
 
 > "What I have dreamed in an hour is worth more than what you have done in four."[^150]
-*Attributed to Lorenzo, reflecting his confidence and creative vision*
+> _Attributed to Lorenzo, reflecting his confidence and creative vision_
 
 > "Youth is sweet and well, But doth speed away!, Let who will be gay, Tomorrow none can tell."[^151]
-*From his famous "Song of Bacchus" (Canzone di Bacco), celebrating living in the present moment*
+> _From his famous "Song of Bacchus" (Canzone di Bacco), celebrating living in the present moment_
 
 > "All things are transient here below and frail. Death only standeth fast for evermore."[^152]
-*Reflecting Renaissance meditation on mortality*
+> _Reflecting Renaissance meditation on mortality_
 
 > "All citizens must place the common good before the private good."[^153]
-*Lorenzo's statement on civic duty and republican ideals*
+> _Lorenzo's statement on civic duty and republican ideals_
 
 > "Let no one despise this Tuscan tongue as poor and rude, for he who can rightly estimate its value will find it rich and well cultivated."[^154]
-*From a letter to Prince Federigo of Aragon, defending the literary value of Tuscan Italian*
+> _From a letter to Prince Federigo of Aragon, defending the literary value of Tuscan Italian_
 
 ---
 
 ## References
 
 [^1]: [Lorenzo de' Medici | Biography, Facts, Family, Accomplishments, & Death | Britannica](https://www.britannica.com/biography/Lorenzo-de-Medici)
+
 [^2]: [Lorenzo de' Medici: the 'Magnificent' Patron of the Renaissance | Ancient Origins](https://www.ancient-origins.net/history-famous-people/lorenzo-de-medici-0020644)
+
 [^3]: [Lorenzo de' Medici - Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_de'_Medici)
+
 [^4]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^5]: [Lorenzo de' Medici Biography - Facts, Childhood, Family Life & Achievements of Italian Leader](https://www.thefamouspeople.com/profiles/lorenzo-de-medici-33657.php)
+
 [^6]: [The Medici Bank – The Medici Family](https://themedicifamily.com/the-medici-bank)
+
 [^7]: [Lorenzo de' Medici Biography](https://www.renaissance-spell.com/Lorenzo-de-Medici.html)
+
 [^8]: [Lorenzo de' Medici (The Magnificent) > Life and Death](https://www.florenceinferno.com/lorenzo-the-magnificent/)
+
 [^9]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^10]: [Lorenzo de' Medici. Biography of the Magnificent and fun facts - The Florence Insider](https://theflorenceinsider.com/lorenzo-magnificent-medici/)
+
 [^11]: [Lorenzo de Medici | Biography, Accomplishment & Death - Lesson | Study.com](https://study.com/academy/lesson/lorenzo-demedici-of-florence-biography-accomplishments-tomb.html)
+
 [^12]: [Marsilio Ficino (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/ficino/)
-[^13]: [Platonic Academy (Florence) - Wikipedia](https://en.wikipedia.org/wiki/Platonic_Academy_(Florence))
+
+[^13]: [Platonic Academy (Florence) - Wikipedia](<https://en.wikipedia.org/wiki/Platonic_Academy_(Florence)>)
+
 [^14]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^15]: [Lorenzo de' Medici - World History Edu](https://worldhistoryedu.com/lorenzo-de-medici/)
+
 [^16]: [Lorenzo de' Medici Biography](https://www.renaissance-spell.com/Lorenzo-de-Medici.html)
+
 [^17]: [Lorenzo de' Medici summary | Britannica](https://www.britannica.com/summary/Lorenzo-de-Medici)
+
 [^18]: [The History and Power of the Medici family of Florence - Destination Florence](https://www.destinationflorence.com/en/blog/417-the-medici-family-in-florence-who-are-the-and-what-did-they-achieve)
+
 [^19]: [Rule of Lorenzo de' Medici | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/rule-lorenzo-de-medici)
+
 [^20]: [The Medici and a Florentine Plutocracy in the Quattrocento](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=3238&context=etd)
+
 [^21]: [Lorenzo de' Medici | Biography, Facts, Family, Accomplishments, & Death | Britannica](https://www.britannica.com/biography/Lorenzo-de-Medici)
+
 [^22]: [How the Medici family created and lost their banking empire - Big Think](https://bigthink.com/culture-religion/how-the-medici-family-created-and-lost-their-banking-empire/)
+
 [^23]: [Medici Bank - Wikipedia](https://en.wikipedia.org/wiki/Medici_Bank)
+
 [^24]: [The Medici Bank: Rise and Fall of History's First Modern Banking Family | Logic Atlas](https://logicatlas.org/cases/medici-bank/)
+
 [^25]: [Lorenzo de Medici (The Magnificent) Timeline 1449-1492 | TheTimelineGeek](https://www.thetimelinegeek.com/lorenzo-de-medici-1449-1492/)
+
 [^26]: [Clarice Orsini: The Unseen Power Behind the Medici Throne](https://www.salonprivemag.com/clarice-orsini-power-behind-medici-throne/)
+
 [^27]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^28]: [Medici, Clarice de (c. 1453–1487) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/medici-clarice-de-c-1453-1487)
+
 [^29]: [Lorenzo de Medici's Peace Offensive – History Moments](https://historyweblog.com/2015/03/lorenzo-de-medicis-peace-offensive/)
+
 [^30]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^31]: [Italic League - Wikipedia](https://en.wikipedia.org/wiki/Italic_League)
+
 [^32]: [Lorenzo de' Medici - Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_de'_Medici)
+
 [^33]: [Lorenzo de' Medici: the 'Magnificent' Patron of the Renaissance | Ancient Origins](https://www.ancient-origins.net/history-famous-people/lorenzo-de-medici-0020644)
+
 [^34]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^35]: [How did the de Medici contribute to the Renaissance - DailyHistory.org](https://www.dailyhistory.org/How_did_the_de_Medici_contribute_to_the_Renaissance)
+
 [^36]: [Florence in the Rain: The Genius Renaissance Artists of Lorenzo de Medici, Part-1. - Travel Examiner](https://travelexaminer.net/florence-in-the-rain-the-genius-renaissance-artists-of-lorenzo-de-medici-part-1/)
+
 [^37]: [Who is Lorenzo de' Medici of Renaissance Florence?](https://www.artsq.org/historical-people-and-places/v/lorenzo-de-medici-the-magnificent-renaissance-florence)
+
 [^38]: [The Garden of Lorenzo de' Medici at San Marco](https://www.latoscanadileonardo.it/en/places/metropolitan-city-of-florence/municipality-of-florence/the-garden-of-lorenzo-de-medici-at-san-marco.html)
+
 [^39]: [Bertoldo di Giovanni: The Renaissance of Sculpture in Medici Florence](https://www.frick.org/press/bertoldo_di_giovanni_renaissance_sculpture_medici_florence)
+
 [^40]: [Michelangelo and the Medici - Wikipedia](https://en.wikipedia.org/wiki/Michelangelo_and_the_Medici)
+
 [^41]: [Palazzo Medici · Lorenzo De' Medici's Sculpture Garden and the Florence of Michelangelo's Youth · Fordham Art History](https://michelangelo.ace.fordham.edu/exhibits/show/michelangelosyouth/palazzomedici)
+
 [^42]: [Art And Power: How The Medici Family Shaped The Renaissance | Rock & Art](https://www.rockandart.org/how-the-medici-family-shaped-the-renaissance/)
+
 [^43]: [The Medici Family: Ultimate Power and Legacy In The Renaissance | TheCollector](https://www.thecollector.com/the-medici-family-legacy/)
+
 [^44]: [Lorenzo de' Medici: Selected Poems and Prose Edited and Translated by Jon Thiem](https://www.psupress.org/books/titles/0-271-00772-9.html)
+
 [^45]: [Medici, Lorenzo de' | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/medici-lorenzo-de)
+
 [^46]: [The Project Gutenberg eBook of Lorenzo De' Medici vol 2, by Alfred Von Reumont.](https://www.gutenberg.org/files/50625/50625-h/50625-h.htm)
+
 [^47]: [Complete Literary Works of Lorenzo de' Medici "The Magnificent\" on JSTOR](https://www.jstor.org/stable/j.ctt1t88tg3)
+
 [^48]: [Elfinspell: Lorenzo de' Medici, Poems](https://elfinspell.com/MediciPoem.html)
+
 [^49]: [Poetry and Politics in the Comento of Lorenzo de' Medici | Renaissance Quarterly | Cambridge Core](https://www.cambridge.org/core/journals/renaissance-quarterly/article/abs/poetry-and-politics-in-the-comento-of-lorenzo-de-medici/C065330F9B8143DAE140DADA2E49F175)
+
 [^50]: [Lorenzo de' Medici: Selected Poems and Prose](https://www.amazon.com/Lorenzo-Medici-Selected-Poems-Prose/dp/0271007729)
+
 [^51]: [Platonic Academy | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/platonic-academy)
-[^52]: [Platonic Academy (Florence) - Wikipedia](https://en.wikipedia.org/wiki/Platonic_Academy_(Florence))
+
+[^52]: [Platonic Academy (Florence) - Wikipedia](<https://en.wikipedia.org/wiki/Platonic_Academy_(Florence)>)
+
 [^53]: [Marsilio Ficino - Wikipedia](https://en.wikipedia.org/wiki/Marsilio_Ficino)
+
 [^54]: [Ficino, Marsilio | Internet Encyclopedia of Philosophy](https://iep.utm.edu/ficino/)
+
 [^55]: [Pazzi conspiracy - Wikipedia](https://en.wikipedia.org/wiki/Pazzi_conspiracy)
+
 [^56]: [Pazzi conspiracy | Renaissance, Florence, Lorenzo de' Medici | Britannica](https://www.britannica.com/event/Pazzi-conspiracy)
+
 [^57]: [How the Pazzi Family Conspired to Overthrow the Medicis | TheCollector](https://www.thecollector.com/pazzi-conspiracy/)
+
 [^58]: [Pazzi Conspiracy | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/politics-and-government/pazzi-conspiracy)
+
 [^59]: [THE "PAZZI CONSPIRACY"](https://duomo.firenze.it/en/opera-magazine/post/5894/the-pazzi-conspiracy)
+
 [^60]: [The Pazzi Conspiracy: How A Florentine Family Failed And Was Banished | Ancient Origins](https://www.ancient-origins.net/history-important-events/pazzi-conspiracy-0016010)
+
 [^61]: [Pazzi Conspiracy | Encyclopedia.com](https://www.encyclopedia.com/history/modern-europe/italian-history/pazzi-conspiracy)
+
 [^62]: [The Pazzi Conspiracy - The 1440 Review](https://1440review.com/2024/01/15/the-pazzi-conspiracy/)
+
 [^63]: [Crisis, Conspiracy, and the Fall of the Medici - The British Institute of Florence](https://www.britishinstitute.it/en/the-medici-and-the-making-of-renaissance-florence/crisis-conspiracy-and-the-fall-of-the-medici)
+
 [^64]: [History of Florence: Pazzi's Conspiracy](http://www.aboutflorence.com/pazzi-conspiracy.html)
+
 [^65]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^66]: [Medici Bank - Wikipedia](https://en.wikipedia.org/wiki/Medici_Bank)
+
 [^67]: [Lorenzo de' Medici, Florence's Fruitful Funder](https://www.factinate.com/people/27-dark-facts-lorenzo-de-medici)
+
 [^68]: [Why Did the Medici Family Fall](https://www.leonardodavincisinventions.com/renaissance/why-did-the-medici-family-fall/)
+
 [^69]: [How the Medici family created and lost their banking empire - Big Think](https://bigthink.com/culture-religion/how-the-medici-family-created-and-lost-their-banking-empire/)
+
 [^70]: [Girolamo Savonarola - Wikipedia](https://en.wikipedia.org/wiki/Girolamo_Savonarola)
+
 [^71]: [Girolamo Savonarola and the Medici](https://www.wondriumdaily.com/girolamo-savonarola-and-the-medici/)
+
 [^72]: [Savonarola | empire and apocalypse](https://blogs.uoregon.edu/rel414w15drreis/savonarola/)
+
 [^73]: [The Friar Who Faced The Medici of Florence - History Guild](https://historyguild.org/the-friar-who-faced-the-medici-of-florence/)
+
 [^74]: [CATHOLIC ENCYCLOPEDIA: Girolamo Savonarola](https://www.newadvent.org/cathen/13490a.htm)
+
 [^75]: [Episode 26: The Private Life and Patronage of Lorenzo de' Medici](https://medicipodcast.com/2022/03/08/episode-26-the-private-life-and-patronage-of-lorenzo-de-medici/)
+
 [^76]: [Emotion and Sexuality in the Early Medici Family](https://escholarship.org/content/qt77q9m9cg/qt77q9m9cg.pdf)
+
 [^77]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^78]: [Medici, Clarice de (c. 1453–1487) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/medici-clarice-de-c-1453-1487)
+
 [^79]: [Clarice Orsini](https://www.conoscifirenze.it/history/1125-clarice-orsini.html)
+
 [^80]: [Clarice Orsini Timeline 1450-1488 | TheTimelineGeek](https://www.thetimelinegeek.com/clarice-orsini-1450-1488/)
+
 [^81]: [House of Medici - Wikipedia](https://en.wikipedia.org/wiki/House_of_Medici)
+
 [^82]: [Clarice Orsini (1453-1488), the wife of Lorenzo \"il Magnifico\" de' Medici – kleio.org](https://www.kleio.org/en/history/famtree/vip/640d/)
+
 [^83]: [Clarice Orsini: The Unseen Power Behind the Medici Throne](https://www.salonprivemag.com/clarice-orsini-power-behind-medici-throne/)
+
 [^84]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^85]: [Medici, Clarice de (c. 1453–1487) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/medici-clarice-de-c-1453-1487)
+
 [^86]: [Clarice Orsini](https://www.conoscifirenze.it/history/1125-clarice-orsini.html)
+
 [^87]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^88]: [Episode 26: The Private Life and Patronage of Lorenzo de' Medici](https://medicipodcast.com/2022/03/08/episode-26-the-private-life-and-patronage-of-lorenzo-de-medici/)
+
 [^89]: [Lorenzo de Medici's Health in His Final Days](https://www.wondriumdaily.com/lorenzo-de-medicis-health-in-his-final-days/)
+
 [^90]: [Episode 28: The End of the Golden Age – The Medici Podcast](https://medicipodcast.com/2022/04/03/episode-28-the-end-of-the-golden-age/)
+
 [^91]: [Lorenzo de' Medici | Biography, Facts, Family, Accomplishments, & Death | Britannica](https://www.britannica.com/biography/Lorenzo-de-Medici)
+
 [^92]: [Lorenzo de Medici's Health in His Final Days](https://www.wondriumdaily.com/lorenzo-de-medicis-health-in-his-final-days/)
+
 [^93]: [Lorenzo de' Medici - Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_de'_Medici)
+
 [^94]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^95]: [Italic League - Wikipedia](https://en.wikipedia.org/wiki/Italic_League)
+
 [^96]: [House of Medici - Wikipedia](https://en.wikipedia.org/wiki/House_of_Medici)
+
 [^97]: [Lorenzo de' Medici | Biography, Facts, Family, Accomplishments, & Death | Britannica](https://www.britannica.com/biography/Lorenzo-de-Medici)
+
 [^98]: [The Medici Family: Ultimate Power and Legacy In The Renaissance | TheCollector](https://www.thecollector.com/the-medici-family-legacy/)
+
 [^99]: [Medici: The Magnificent Legacy of Lorenzo de' Medici](https://cteec.org/de-medici-2/)
+
 [^100]: [Lorenzo de' Medici: the 'Magnificent' Patron of the Renaissance | Ancient Origins](https://www.ancient-origins.net/history-famous-people/lorenzo-de-medici-0020644)
+
 [^101]: [The Medici Legacy: Florence's Iconic Family - ISI Florence - Study Abroad in Italy - Florence](https://isiflorence.org/the-medici-legacy-florences-iconic-family/)
+
 [^102]: [The Medici Family and Their Influence on the Renaissance](https://www.theartinstitute.co.uk/us/en/blog-the-medici-familys-influence-on-renaissance-art)
+
 [^103]: [How did the de Medici contribute to the Renaissance - DailyHistory.org](https://www.dailyhistory.org/How_did_the_de_Medici_contribute_to_the_Renaissance)
+
 [^104]: [Italic League - Wikipedia](https://en.wikipedia.org/wiki/Italic_League)
+
 [^105]: [Lorenzo de' Medici and the Art of Magnificence](https://www.researchgate.net/publication/289913009_Lorenzo_de'_Medici_and_the_Art_of_Magnificence)
+
 [^106]: [Rule of Lorenzo de' Medici | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/rule-lorenzo-de-medici)
+
 [^107]: [Lorenzo de' Medici: the 'Magnificent' Patron of the Renaissance | Ancient Origins](https://www.ancient-origins.net/history-famous-people/lorenzo-de-medici-0020644)
+
 [^108]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^109]: [Lorenzo de Medici's Peace Offensive – History Moments](https://historyweblog.com/2015/03/lorenzo-de-medicis-peace-offensive/)
+
 [^110]: [Art And Power: How The Medici Family Shaped The Renaissance | Rock & Art](https://www.rockandart.org/how-the-medici-family-shaped-the-renaissance/)
+
 [^111]: [The Medici Family: Ultimate Power and Legacy In The Renaissance | TheCollector](https://www.thecollector.com/the-medici-family-legacy/)
+
 [^112]: [Lorenzo de' Medici: Selected Poems and Prose Edited and Translated by Jon Thiem](https://www.psupress.org/books/titles/0-271-00772-9.html)
+
 [^113]: [Platonic Academy | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/platonic-academy)
+
 [^114]: [Lorenzo de' Medici and the Art of Magnificence](https://www.researchgate.net/publication/289913009_Lorenzo_de'_Medici_and_the_Art_of_Magnificence)
+
 [^115]: [Lorenzo de' Medici - Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_de'_Medici)
+
 [^116]: [Lorenzo de' Medici – The Medici Family](https://themedicifamily.com/lorenzo-de-medici)
+
 [^117]: [The Malevolently Benevolent Medici: The Corruption of the Renaissance's Favorite Family - Cameron Ormiston](https://www.cameronormiston.com/the-malevolently-benevolent-medici-the-corruption-of-the-renaissance-s-favorite-family)
+
 [^118]: [The Medici and a Florentine Plutocracy in the Quattrocento](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=3238&context=etd)
+
 [^119]: [The Malevolently Benevolent Medici: The Corruption of the Renaissance's Favorite Family - Cameron Ormiston](https://www.cameronormiston.com/the-malevolently-benevolent-medici-the-corruption-of-the-renaissance-s-favorite-family)
+
 [^120]: [Medici Bank - Wikipedia](https://en.wikipedia.org/wiki/Medici_Bank)
+
 [^121]: [How the Medici family created and lost their banking empire - Big Think](https://bigthink.com/culture-religion/how-the-medici-family-created-and-lost-their-banking-empire/)
+
 [^122]: [The Medici Bank: Rise and Fall of History's First Modern Banking Family | Logic Atlas](https://logicatlas.org/cases/medici-bank/)
+
 [^123]: [Pazzi conspiracy - Wikipedia](https://en.wikipedia.org/wiki/Pazzi_conspiracy)
+
 [^124]: [The Pazzi Conspiracy: How A Florentine Family Failed And Was Banished | Ancient Origins](https://www.ancient-origins.net/history-important-events/pazzi-conspiracy-0016010)
+
 [^125]: [Girolamo Savonarola and the Medici](https://www.wondriumdaily.com/girolamo-savonarola-and-the-medici/)
+
 [^126]: [Lorenzo de Medici (The Magnificent) Timeline 1449-1492 | TheTimelineGeek](https://www.thetimelinegeek.com/lorenzo-de-medici-1449-1492/)
+
 [^127]: [Platonic Academy | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/platonic-academy)
+
 [^128]: [House of Medici - Wikipedia](https://en.wikipedia.org/wiki/House_of_Medici)
+
 [^129]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^130]: [Lorenzo de' Medici | Biography, Facts, Family, Accomplishments, & Death | Britannica](https://www.britannica.com/biography/Lorenzo-de-Medici)
+
 [^131]: [Rule of Lorenzo de' Medici | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/rule-lorenzo-de-medici)
+
 [^132]: [Who is Lorenzo de' Medici of Renaissance Florence?](https://www.artsq.org/historical-people-and-places/v/lorenzo-de-medici-the-magnificent-renaissance-florence)
+
 [^133]: [Clarice Orsini (1453-1488), the wife of Lorenzo \"il Magnifico\" de' Medici – kleio.org](https://www.kleio.org/en/history/famtree/vip/640d/)
+
 [^134]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^135]: [The Pazzi Conspiracy: How A Florentine Family Failed And Was Banished | Ancient Origins](https://www.ancient-origins.net/history-important-events/pazzi-conspiracy-0016010)
+
 [^136]: [Pazzi conspiracy - Wikipedia](https://en.wikipedia.org/wiki/Pazzi_conspiracy)
+
 [^137]: [Pazzi Conspiracy | Encyclopedia.com](https://www.encyclopedia.com/history/modern-europe/italian-history/pazzi-conspiracy)
+
 [^138]: [Crisis, Conspiracy, and the Fall of the Medici - The British Institute of Florence](https://www.britishinstitute.it/en/the-medici-and-the-making-of-renaissance-florence/crisis-conspiracy-and-the-fall-of-the-medici)
+
 [^139]: [Lorenzo De Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/italian-history-biographies/lorenzo-de-medici)
+
 [^140]: [Lorenzo de Medici's Peace Offensive – History Moments](https://historyweblog.com/2015/03/lorenzo-de-medicis-peace-offensive/)
+
 [^141]: [Clarice Orsini - Wikipedia](https://en.wikipedia.org/wiki/Clarice_Orsini)
+
 [^142]: [Michelangelo and the Medici - Wikipedia](https://en.wikipedia.org/wiki/Michelangelo_and_the_Medici)
+
 [^143]: [The Friar Who Faced The Medici of Florence - History Guild](https://historyguild.org/the-friar-who-faced-the-medici-of-florence/)
+
 [^144]: [CATHOLIC ENCYCLOPEDIA: Girolamo Savonarola](https://www.newadvent.org/cathen/13490a.htm)
+
 [^145]: [Lorenzo de Medici's Health in His Final Days](https://www.wondriumdaily.com/lorenzo-de-medicis-health-in-his-final-days/)
+
 [^146]: [Lorenzo de' Medici - Wikipedia](https://en.wikipedia.org/wiki/Lorenzo_de'_Medici)
+
 [^147]: [How the Medici family created and lost their banking empire - Big Think](https://bigthink.com/culture-religion/how-the-medici-family-created-and-lost-their-banking-empire/)
+
 [^148]: [House of Medici - Wikipedia](https://en.wikipedia.org/wiki/House_of_Medici)
+
 [^149]: [Clarice Orsini (1453-1488), the wife of Lorenzo \"il Magnifico\" de' Medici – kleio.org](https://www.kleio.org/en/history/famtree/vip/640d/)
+
 [^150]: [22 of the Best Quotes By Lorenzo de' Medici | Quoteikon](https://www.quoteikon.com/lorenzo-de-medici-quotes.html)
+
 [^151]: [Lorenzo de' Medici on love and beauty - Italian Renaissance Learning Resources](https://www.italianrenaissanceresources.com/units/unit-2/sub-page-03/lorenzo-de-medici-on-love-and-beauty/)
+
 [^152]: [Lorenzo de' Medici Quotes (Author of Poesie)](https://www.goodreads.com/author/quotes/1189681.Lorenzo_de_Medici)
+
 [^153]: [21 Best LORENZO DE' MEDICI Quotes - The Cite Site](https://thecitesite.com/authors/lorenzo-de-medici/)
+
 [^154]: [Complete Literary Works of Lorenzo de' Medici "The Magnificent\" on JSTOR](https://www.jstor.org/stable/j.ctt1t88tg3)

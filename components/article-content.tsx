@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
 import { ArticleImage } from "./article-image";
@@ -40,22 +39,26 @@ function isHistoricalEvent(meta: ArticleMeta): boolean {
 function formatDate(dateStr: string): string {
   if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
     const date = new Date(dateStr);
-    return date.toLocaleDateString('en-US', {
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric'
+    return date.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
     });
   }
   return dateStr;
 }
 
-function parseContentIntoSections(html: string): { intro: string; sections: ContentSection[]; references: string } {
+function parseContentIntoSections(html: string): {
+  intro: string;
+  sections: ContentSection[];
+  references: string;
+} {
   const refMatch = html.match(/<h2[^>]*id="references"[^>]*>.*?<\/h2>/i);
   const refHeadingMatch = html.match(/<h2[^>]*>References<\/h2>/i);
   const splitPoint = refMatch || refHeadingMatch;
 
   let mainContent = html;
-  let references = '';
+  let references = "";
 
   if (splitPoint) {
     const index = html.indexOf(splitPoint[0]);
@@ -65,7 +68,7 @@ function parseContentIntoSections(html: string): { intro: string; sections: Cont
 
   const h2Regex = /<h2[^>]*(?:id="([^"]*)")?[^>]*>(.*?)<\/h2>/gi;
   const sections: ContentSection[] = [];
-  let intro = '';
+  let intro = "";
   let lastIndex = 0;
   let match;
   let isFirst = true;
@@ -78,13 +81,13 @@ function parseContentIntoSections(html: string): { intro: string; sections: Cont
       sections[sections.length - 1].content = mainContent.substring(lastIndex, match.index);
     }
 
-    const id = match[1] || match[2].toLowerCase().replace(/[^a-z0-9]+/g, '-');
-    const title = match[2].replace(/<[^>]*>/g, '');
+    const id = match[1] || match[2].toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    const title = match[2].replace(/<[^>]*>/g, "");
 
     sections.push({
       id,
       title,
-      content: ''
+      content: "",
     });
 
     lastIndex = match.index + match[0].length;
@@ -122,20 +125,12 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
               {meta.death ? ` – ${meta.death}` : " – Present"}
             </span>
           )}
-          {isEvent && meta.date && (
-            <span className="font-medium">
-              {formatDate(meta.date)}
-            </span>
-          )}
+          {isEvent && meta.date && <span className="font-medium">{formatDate(meta.date)}</span>}
           {meta.nationality && (
-            <span className="px-2 py-0.5 bg-secondary rounded">
-              {meta.nationality}
-            </span>
+            <span className="px-2 py-0.5 bg-secondary rounded">{meta.nationality}</span>
           )}
           {isEvent && meta.location && (
-            <span className="px-2 py-0.5 bg-secondary rounded">
-              📍 {meta.location}
-            </span>
+            <span className="px-2 py-0.5 bg-secondary rounded">📍 {meta.location}</span>
           )}
         </div>
 
@@ -166,18 +161,11 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
         )}
       </div>
 
-      {meta.image && (
-        <ArticleImage src={meta.image} alt={meta.name} />
-      )}
-
-
+      {meta.image && <ArticleImage src={meta.image} alt={meta.name} />}
 
       {/* Intro Content */}
       {intro && (
-        <div
-          className="article-content mb-8"
-          dangerouslySetInnerHTML={{ __html: intro }}
-        />
+        <div className="article-content mb-8" dangerouslySetInnerHTML={{ __html: intro }} />
       )}
 
       {/* Accordion Sections - Pure HTML */}

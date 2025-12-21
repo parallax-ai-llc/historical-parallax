@@ -197,175 +197,298 @@ Critics also note the inherent violence of absolute monarchy and the concentrati
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 2609 BCE | Birth of Khufu to Pharaoh Sneferu and Queen Hetepheres I |
-| c. 2589 BCE | Accession to the throne as second pharaoh of Fourth Dynasty |
-| c. 2589-2588 BCE | Appointment of Hemiunu as vizier and royal seal bearer |
-| c. 2588 BCE | Beginning of Great Pyramid construction at Giza |
-| c. 2585 BCE | Establishment of trade expeditions to Byblos for cedar wood |
-| c. 2580 BCE | Mining expeditions to Sinai for copper and turquoise documented at Wadi Maghareh |
-| c. 2575 BCE | Development of harbor at Wadi al-Jarf on Red Sea |
-| c. 2570 BCE | Continued construction of Great Pyramid, internal chambers taking shape |
-| c. 2562 BCE | Year 27 of reign: Diary of Merer documents limestone transport from Tura to Giza |
-| c. 2561 BCE | Year 28-29 of reign: Latest dated graffiti from pyramid construction workers |
-| c. 2566 BCE | Death of Khufu after approximately 23-27 years of reign |
-| c. 2566 BCE | Funeral conducted by son Djedefre, burial of solar barque in pit beside pyramid |
-| c. 2566 BCE | Completion and sealing of Great Pyramid complex |
-| c. 2566-2558 BCE | Reign of Djedefre (Khufu's son), first king to use title "Son of Ra" |
-| c. 2558-2532 BCE | Reign of Khafre (Khufu's son), construction of second pyramid at Giza |
-| c. 664-525 BCE | 26th Dynasty: Khufu's mortuary cult still active after 2,000 years |
-| 1440 BCE | Westcar Papyrus composed, depicting Khufu as curious and interested ruler |
-| 440 BCE | Herodotus writes negative account of Khufu in his Histories |
-| 1903 CE | Discovery of ivory statuette of Khufu by Sir William Petrie at Abydos |
-| 1925 CE | Discovery of tomb of Queen Hetepheres I east of Great Pyramid |
-| 1954 CE | Discovery of Khufu ship by Kamal el-Mallakh in sealed pit |
-| 2013 CE | Discovery of Diary of Merer papyri at Wadi al-Jarf |
+| Year             | Event                                                                            |
+| ---------------- | -------------------------------------------------------------------------------- |
+| c. 2609 BCE      | Birth of Khufu to Pharaoh Sneferu and Queen Hetepheres I                         |
+| c. 2589 BCE      | Accession to the throne as second pharaoh of Fourth Dynasty                      |
+| c. 2589-2588 BCE | Appointment of Hemiunu as vizier and royal seal bearer                           |
+| c. 2588 BCE      | Beginning of Great Pyramid construction at Giza                                  |
+| c. 2585 BCE      | Establishment of trade expeditions to Byblos for cedar wood                      |
+| c. 2580 BCE      | Mining expeditions to Sinai for copper and turquoise documented at Wadi Maghareh |
+| c. 2575 BCE      | Development of harbor at Wadi al-Jarf on Red Sea                                 |
+| c. 2570 BCE      | Continued construction of Great Pyramid, internal chambers taking shape          |
+| c. 2562 BCE      | Year 27 of reign: Diary of Merer documents limestone transport from Tura to Giza |
+| c. 2561 BCE      | Year 28-29 of reign: Latest dated graffiti from pyramid construction workers     |
+| c. 2566 BCE      | Death of Khufu after approximately 23-27 years of reign                          |
+| c. 2566 BCE      | Funeral conducted by son Djedefre, burial of solar barque in pit beside pyramid  |
+| c. 2566 BCE      | Completion and sealing of Great Pyramid complex                                  |
+| c. 2566-2558 BCE | Reign of Djedefre (Khufu's son), first king to use title "Son of Ra"             |
+| c. 2558-2532 BCE | Reign of Khafre (Khufu's son), construction of second pyramid at Giza            |
+| c. 664-525 BCE   | 26th Dynasty: Khufu's mortuary cult still active after 2,000 years               |
+| 1440 BCE         | Westcar Papyrus composed, depicting Khufu as curious and interested ruler        |
+| 440 BCE          | Herodotus writes negative account of Khufu in his Histories                      |
+| 1903 CE          | Discovery of ivory statuette of Khufu by Sir William Petrie at Abydos            |
+| 1925 CE          | Discovery of tomb of Queen Hetepheres I east of Great Pyramid                    |
+| 1954 CE          | Discovery of Khufu ship by Kamal el-Mallakh in sealed pit                        |
+| 2013 CE          | Discovery of Diary of Merer papyri at Wadi al-Jarf                               |
 
 ---
 
 ## Famous Quotes
 
 > "Hor-Medjedu, Khnum-Khuf, Bikuj-Nebu, the great god and smiter of the troglodytes, all protection and life are with him"
-— Rock inscription at Wadi Maghareh in Sinai, documenting Khufu's mining expeditions and using his royal titles[^120]
+> — Rock inscription at Wadi Maghareh in Sinai, documenting Khufu's mining expeditions and using his royal titles[^120]
 
 > "The Friends of Khufu Gang"
-— Worker graffiti found near the King's Chamber in the Great Pyramid, indicating the name of a construction crew and suggesting worker pride in their association with the royal project[^121]
+> — Worker graffiti found near the King's Chamber in the Great Pyramid, indicating the name of a construction crew and suggesting worker pride in their association with the royal project[^121]
 
 > "Kheops brought the country into all kinds of misery. He closed the temples, forbade his subjects to offer sacrifices, and compelled them without exception to labor upon his works... The Egyptians can hardly bring themselves to mention him, so great is their hatred"
-— Herodotus, Greek historian (c. 440 BCE), providing the most famous negative characterization of Khufu, though modern scholars question the reliability of this account written 2,000 years after Khufu's reign[^122]
+> — Herodotus, Greek historian (c. 440 BCE), providing the most famous negative characterization of Khufu, though modern scholars question the reliability of this account written 2,000 years after Khufu's reign[^122]
 
 > "Year after the 13th cattle count under Hor-Medjedu"
-— Diary of Merer papyrus (Year 27 of Khufu's reign), documenting the transport of limestone blocks from Tura quarries to the Great Pyramid construction site—the oldest known papyri in the world[^123]
+> — Diary of Merer papyrus (Year 27 of Khufu's reign), documenting the transport of limestone blocks from Tura quarries to the Great Pyramid construction site—the oldest known papyri in the world[^123]
 
 > "Month 1 of the season Shemu, the 14th census"
-— Worker graffiti from Great Pyramid dated to Year 28 or 29 of Khufu's reign, providing precise chronological information about the construction timeline[^124]
+> — Worker graffiti from Great Pyramid dated to Year 28 or 29 of Khufu's reign, providing precise chronological information about the construction timeline[^124]
 
 ---
 
 ## References
 
 [^1]: "Khufu," Britannica, https://www.britannica.com/biography/Khufu
+
 [^2]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^3]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^4]: "10 Facts About Khufu: The Pharaoh Who Built the Great Pyramid," History Hit, https://www.historyhit.com/facts-about-khufu/
+
 [^5]: "Khufu," Encyclopedia.com, https://www.encyclopedia.com/people/history/ancient-history-egypt-biographies/khufu
+
 [^6]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^7]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^8]: "Khufu facts for kids," Kiddle, https://kids.kiddle.co/Khufu
+
 [^9]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^10]: "Fourth Dynasty of Egypt: History, Major Facts and Accomplishments," World History Edu, https://worldhistoryedu.com/fourth-dynasty-of-egypt-history-and-major-facts/
+
 [^11]: "Old Kingdom Rulers Khufu," Egyptian Museum, https://egyptianmuseum.org/explore/old-kingdom-ruler-khufu
+
 [^12]: "Khufu," Britannica, https://www.britannica.com/biography/Khufu
+
 [^13]: "The Old Kingdom," Early World Civilizations, https://courses.lumenlearning.com/atd-herkimer-worldcivilization/chapter/the-old-kingdom/
+
 [^14]: "Ep. 007 - Old Kingdom Egypt Expands Its Reach," The Maritime History Podcast, https://maritimehistorypodcast.com/ep-007-old-kingdom-egypt-expands-reach/
+
 [^15]: "Old Kingdom Architects Hemiunu," Egyptian Museum, https://egyptianmuseum.org/explore/old-kingdom-architects-hemiunu
+
 [^16]: "The Role Of Viziers In Ancient Egyptian Government: The Power Behind The Throne," History Rise, https://historyrise.com/the-role-of-viziers-in-ancient-egyptian-government/
+
 [^17]: "Vizier (Ancient Egypt)," Wikipedia, https://en.wikipedia.org/wiki/Vizier_(Ancient_Egypt)
+
 [^18]: "WHO WAS KHUFU?" Andrew Gough, https://andrewgough.co.uk/articles_khufu/
+
 [^19]: "Fourth Dynasty of Egypt," Wikipedia, https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt
+
 [^20]: "Smarthistory – Pyramid of Khufu," Smarthistory, https://smarthistory.org/pyramid-of-khufu/
+
 [^21]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^22]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^23]: "Great Pyramid of Giza," Britannica, https://www.britannica.com/place/Great-Pyramid-of-Giza
+
 [^24]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^25]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^26]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^27]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^28]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^29]: "What's Inside the Great Pyramid?" Britannica, https://www.britannica.com/story/whats-inside-the-great-pyramid
+
 [^30]: "Great Pyramid: King's Chamber," Ancient Egypt Online, https://ancientegyptonline.co.uk/kingschambergp/
+
 [^31]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^32]: "Smarthistory – Pyramid of Khufu," Smarthistory, https://smarthistory.org/pyramid-of-khufu/
+
 [^33]: "Features - Journeys of the Pyramid Builders," Archaeology Magazine, https://www.archaeology.org/issues/473-2207/features/10601-egypt-wadi-el-jarf-port-papyri
+
 [^34]: "The World's Oldest Papyrus and What It Can Tell Us About the Great Pyramids," Smithsonian Magazine, https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/
+
 [^35]: "Great Pyramid of Giza," Wikipedia, https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+
 [^36]: "Pyramid Builders," Middle East And North Africa — Facts and Details, https://africame.factsanddetails.com/article/entry-190.html
+
 [^37]: "Giza Secret Revealed: How 10,000 Pyramid Builders Got Fed," Live Science, https://www.livescience.com/28961-ancient-giza-pyramid-builders-camp-unearthed.html
+
 [^38]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^39]: "Fourth Dynasty of Egypt: History, Major Facts and Accomplishments," World History Edu, https://worldhistoryedu.com/fourth-dynasty-of-egypt-history-and-major-facts/
+
 [^40]: "Ancient Egypt – Pharaoh Khufu," DW World History, https://www.dwworldhistory.com/post/ancient-egypt-pharaoh-khufu
+
 [^41]: "Fourth Dynasty of Egypt: History, Major Facts and Accomplishments," World History Edu, https://worldhistoryedu.com/fourth-dynasty-of-egypt-history-and-major-facts/
+
 [^42]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^43]: "Khufu ship," Wikipedia, https://en.wikipedia.org/wiki/Khufu_ship
+
 [^44]: "Khufu ship," Wikipedia, https://en.wikipedia.org/wiki/Khufu_ship
+
 [^45]: "Why King Khufu's Solar Boat Is on the Move After 4,600 Years," Smithsonian Magazine, https://www.smithsonianmag.com/smart-news/egypts-ancient-king-khufus-boat-moved-pyramids-giza-new-grand-egyptian-museum-180978413/
+
 [^46]: "WHO WAS KHUFU?" Andrew Gough, https://andrewgough.co.uk/articles_khufu/
+
 [^47]: "Fourth Dynasty of Egypt," Wikipedia, https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt
+
 [^48]: "Herodotus on Cheops (Khufu)," Ancient Egypt Online, https://ancientegyptonline.co.uk/herodcheops/
+
 [^49]: "Egypt: Herodotus on Khufu," Tour Egypt, https://www.touregypt.net/herodotuskhufu.htm
+
 [^50]: "Herodotus on Cheops (Khufu)," Ancient Egypt Online, https://ancientegyptonline.co.uk/herodcheops/
+
 [^51]: "Egypt: Herodotus on Khufu," Tour Egypt, https://www.touregypt.net/herodotuskhufu.htm
+
 [^52]: "Was the Great Pyramid of Giza the Work of a Tyrant?" TheCollector, https://www.thecollector.com/khufu-great-pyramid-giza/
+
 [^53]: "A Description of Khufu's Rule in Ancient Egypt," Synonym, https://classroom.synonym.com/description-khufus-rule-ancient-egypt-22796.html
+
 [^54]: "Was the Great Pyramid of Giza the Work of a Tyrant?" TheCollector, https://www.thecollector.com/khufu-great-pyramid-giza/
+
 [^55]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^56]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^57]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^58]: "The Mystery Behind Where King Khufu's Body Is Buried," Grunge, https://www.grunge.com/846424/the-mystery-behind-where-king-khufus-body-is-buried/
+
 [^59]: "Uncovering the Workers' Village of the Giza Pyramid Builders," Egypt Tours Portal, https://www.egypttoursportal.com/en-us/blog/cairo-attractions/giza-workers-village/
+
 [^60]: "Giza Secret Revealed: How 10,000 Pyramid Builders Got Fed," Live Science, https://www.livescience.com/28961-ancient-giza-pyramid-builders-camp-unearthed.html
+
 [^61]: "This is What Life Was Like for an Egyptian Worker Building the Pyramids," History Collection, https://historycollection.com/this-is-what-life-was-like-for-an-egyptian-worker-building-the-pyramids/
+
 [^62]: "The Discovery of the Tombs of the Pyramid Builders at Giza: Dr. Zahi Hawass," Guardians.net, https://www.guardians.net/hawass/buildtomb.htm
+
 [^63]: "The Discovery of the Tombs of the Pyramid Builders at Giza: Dr. Zahi Hawass," Guardians.net, https://www.guardians.net/hawass/buildtomb.htm
+
 [^64]: "Were the Egyptian pyramids built by slaves?" BBC Science Focus Magazine, https://www.sciencefocus.com/science/were-the-egyptian-pyramids-built-by-slaves
+
 [^65]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^66]: "The Mystery Behind Where King Khufu's Body Is Buried," Grunge, https://www.grunge.com/846424/the-mystery-behind-where-king-khufus-body-is-buried/
+
 [^67]: "Great Pyramid: King's Chamber," Ancient Egypt Online, https://ancientegyptonline.co.uk/kingschambergp/
+
 [^68]: "The Mystery Behind Where King Khufu's Body Is Buried," Grunge, https://www.grunge.com/846424/the-mystery-behind-where-king-khufus-body-is-buried/
+
 [^69]: "Secret Chambers of the Great Pyramid of Khufu in Egypt," Tour Egypt, https://www.touregypt.net/featurestories/pyramidchambers.htm
+
 [^70]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^71]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^72]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^73]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^74]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^75]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^76]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^77]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^78]: "Biography of Pharaoh Khufu," Wonders of the World, https://www.wonders-of-the-world.net/Pyramids-of-Egypt/Khufu.php
+
 [^79]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^80]: "Khufu ship," Wikipedia, https://en.wikipedia.org/wiki/Khufu_ship
+
 [^81]: "Fourth Dynasty of Egypt," Wikipedia, https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt
+
 [^82]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^83]: "Westcar Papyrus," Wikipedia, https://en.wikipedia.org/wiki/Westcar_Papyrus
+
 [^84]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^85]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^86]: "Khufu and the Magician (& 3 More Egyptian Tales from Papyrus Westcar)," TheCollector, https://www.thecollector.com/khufu-magician-egyptian-tale/
+
 [^87]: "Giza Secret Revealed: How 10,000 Pyramid Builders Got Fed," Live Science, https://www.livescience.com/28961-ancient-giza-pyramid-builders-camp-unearthed.html
+
 [^88]: "Discover King Khufu's Life, Legacy, Facts, & Achievements," Egypt Tours Portal, https://www.egypttoursportal.com/king-khufu/
+
 [^89]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^90]: "10 Facts About Khufu: The Pharaoh Who Built the Great Pyramid," History Hit, https://www.historyhit.com/facts-about-khufu/
+
 [^91]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^92]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^93]: "The World's Oldest Papyrus and What It Can Tell Us About the Great Pyramids," Smithsonian Magazine, https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/
+
 [^94]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^95]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^96]: "Fourth Dynasty of Egypt: History, Major Facts and Accomplishments," World History Edu, https://worldhistoryedu.com/fourth-dynasty-of-egypt-history-and-major-facts/
+
 [^97]: "Fourth Dynasty of Egypt," Wikipedia, https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt
+
 [^98]: "Smarthistory – Pyramid of Khufu," Smarthistory, https://smarthistory.org/pyramid-of-khufu/
+
 [^99]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^100]: "Features - Journeys of the Pyramid Builders," Archaeology Magazine, https://www.archaeology.org/issues/473-2207/features/10601-egypt-wadi-el-jarf-port-papyri
+
 [^101]: "Khufu," Encyclopedia.com, https://www.encyclopedia.com/people/history/ancient-history-egypt-biographies/khufu
+
 [^102]: "Discover King Khufu's Life, Legacy, Facts, & Achievements," Egypt Tours Portal, https://www.egypttoursportal.com/king-khufu/
+
 [^103]: "Khufu," Britannica, https://www.britannica.com/biography/Khufu
+
 [^104]: "King Khufu," ICN, https://icn.com/en-jo/blog/king-khufu
+
 [^105]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^106]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^107]: "Uncovering the Workers' Village of the Giza Pyramid Builders," Egypt Tours Portal, https://www.egypttoursportal.com/en-us/blog/cairo-attractions/giza-workers-village/
+
 [^108]: "Were the Egyptian pyramids built by slaves?" BBC Science Focus Magazine, https://www.sciencefocus.com/science/were-the-egyptian-pyramids-built-by-slaves
+
 [^109]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^110]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^111]: "Khufu," Britannica, https://www.britannica.com/biography/Khufu
+
 [^112]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^113]: "The World's Oldest Papyrus and What It Can Tell Us About the Great Pyramids," Smithsonian Magazine, https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/
+
 [^114]: "Pharaoh Khufu: Life, Reign and Major Accomplishments," World History Edu, https://worldhistoryedu.com/pharaoh-khufu-life-reign-and-major-accomplishments/
+
 [^115]: "The Discovery of the Tombs of the Pyramid Builders at Giza: Dr. Zahi Hawass," Guardians.net, https://www.guardians.net/hawass/buildtomb.htm
+
 [^116]: "Was the Great Pyramid of Giza the Work of a Tyrant?" TheCollector, https://www.thecollector.com/khufu-great-pyramid-giza/
+
 [^117]: "Herodotus on Cheops (Khufu)," Ancient Egypt Online, https://ancientegyptonline.co.uk/herodcheops/
+
 [^118]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu
+
 [^119]: "The Mystery Behind Where King Khufu's Body Is Buried," Grunge, https://www.grunge.com/846424/the-mystery-behind-where-king-khufus-body-is-buried/
+
 [^120]: "Khufu (Cheops)," Ancient Egypt Online, https://ancientegyptonline.co.uk/khufu/
+
 [^121]: "Giza Secret Revealed: How 10,000 Pyramid Builders Got Fed," Live Science, https://www.livescience.com/28961-ancient-giza-pyramid-builders-camp-unearthed.html
+
 [^122]: "Herodotus on Cheops (Khufu)," Ancient Egypt Online, https://ancientegyptonline.co.uk/herodcheops/
+
 [^123]: "The World's Oldest Papyrus and What It Can Tell Us About the Great Pyramids," Smithsonian Magazine, https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/
+
 [^124]: "Khufu," Wikipedia, https://en.wikipedia.org/wiki/Khufu

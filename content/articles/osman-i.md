@@ -227,23 +227,23 @@ Scholars question whether many administrative systems and governance principles 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 1258 | Birth of Osman in Söğüt, Anatolia[^111] |
-| c. 1280-1281 | Death of Ertuğrul; Osman becomes bey of his tribe[^112] |
-| c. 1288 | Osman marries Rabia Bala Hatun, daughter of Sheikh Edebali[^113] |
-| c. 1290s | Capture of Kulucahisar and Eskişehir fortresses[^114] |
-| c. 1299 | Traditional (symbolic) date for the founding of the Ottoman state[^115] |
-| c. 1299-1301 | Conquest of Yenişehir, which becomes the Ottoman capital[^116] |
-| c. 1300 | Capture of Bilecik, İnegöl, and Yarhisar[^117] |
-| July 27, 1302 | Victory at the Battle of Bapheus against Byzantine forces[^118] |
-| 1302-1308 | Expansion north along the Sakarya River and southwest toward the Sea of Marmara[^119] |
-| c. 1308 | Completion of initial territorial consolidation[^120] |
-| c. 1320s | Beginning of the siege of Bursa[^121] |
-| 1323-1324 | Death of Osman from gout; exact date debated among historians[^122] |
-| 1324 | Death of Rabia Bala Hatun, buried in Bilecik[^123] |
-| April 6, 1326 | Orhan captures Bursa; news reportedly reaches dying or recently deceased Osman[^124] |
-| 1326 | Osman's body moved from Söğüt to Bursa according to his final wishes[^125] |
+| Year          | Event                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------- |
+| c. 1258       | Birth of Osman in Söğüt, Anatolia[^111]                                               |
+| c. 1280-1281  | Death of Ertuğrul; Osman becomes bey of his tribe[^112]                               |
+| c. 1288       | Osman marries Rabia Bala Hatun, daughter of Sheikh Edebali[^113]                      |
+| c. 1290s      | Capture of Kulucahisar and Eskişehir fortresses[^114]                                 |
+| c. 1299       | Traditional (symbolic) date for the founding of the Ottoman state[^115]               |
+| c. 1299-1301  | Conquest of Yenişehir, which becomes the Ottoman capital[^116]                        |
+| c. 1300       | Capture of Bilecik, İnegöl, and Yarhisar[^117]                                        |
+| July 27, 1302 | Victory at the Battle of Bapheus against Byzantine forces[^118]                       |
+| 1302-1308     | Expansion north along the Sakarya River and southwest toward the Sea of Marmara[^119] |
+| c. 1308       | Completion of initial territorial consolidation[^120]                                 |
+| c. 1320s      | Beginning of the siege of Bursa[^121]                                                 |
+| 1323-1324     | Death of Osman from gout; exact date debated among historians[^122]                   |
+| 1324          | Death of Rabia Bala Hatun, buried in Bilecik[^123]                                    |
+| April 6, 1326 | Orhan captures Bursa; news reportedly reaches dying or recently deceased Osman[^124]  |
+| 1326          | Osman's body moved from Söğüt to Bursa according to his final wishes[^125]            |
 
 ---
 
@@ -251,7 +251,7 @@ Scholars question whether many administrative systems and governance principles 
 
 Due to the absence of contemporary written sources from Osman I's lifetime, no verifiably authentic quotes from him have survived. The quotations commonly attributed to Osman derive primarily from later Ottoman chronicles written more than a century after his death, or from modern dramatizations such as the Turkish television series "Kuruluş: Osman."[^126]
 
-> "The sword may break, but the spirit of the Turk will never kneel!" 
+> "The sword may break, but the spirit of the Turk will never kneel!"
 
 This quote appears in the modern television series "Kuruluş: Osman" but lacks historical documentation from Osman's actual lifetime.[^127]
 
@@ -274,132 +274,261 @@ Later Ottoman sources attribute various pieces of wisdom to Sheikh Edebali's cou
 ## References
 
 [^1]: [Osman I - Britannica](https://www.britannica.com/biography/Osman-I)
+
 [^2]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^3]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^4]: [Osman I | Research Starters - EBSCO Research](https://www.ebsco.com/research-starters/biography/osman-i)
+
 [^5]: [Osman I Biography - The Famous People](https://www.thefamouspeople.com/profiles/osman-i-37028.php)
+
 [^6]: [Ertuğrul - Wikipedia](https://en.wikipedia.org/wiki/Ertu%C4%9Frul)
+
 [^7]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^8]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^9]: [Legendary Facts About Osman I - Factinate](https://www.factinate.com/people/osman-ottoman-empire)
+
 [^10]: [Osman Gazi - Ottoman](http://www.theottomans.org/english/family/osman.asp)
+
 [^11]: [Osman I Biography - Study.com](https://study.com/academy/lesson/osman-i-family-accomplishments-ottoman-empire.html)
+
 [^12]: [Sultan Osman Gazi - All About Turkey](https://www.allaboutturkey.com/osmangazi.html)
+
 [^13]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^14]: [Rise of the Ottoman Empire - Wikipedia](https://en.wikipedia.org/wiki/Rise_of_the_Ottoman_Empire)
+
 [^15]: [Byzantine-Ottoman Wars - Wikipedia](https://en.wikipedia.org/wiki/Byzantine–Ottoman_wars)
+
 [^16]: [Osman's Rise: The Dawn of the Ottoman Empire - Medieval History](https://historymedieval.com/osmans-rise-the-dawn-of-the-ottoman-empire/)
+
 [^17]: [Sheikh Edebali - Wikipedia](https://en.wikipedia.org/wiki/Sheikh_Edebali)
+
 [^18]: [Osman's Dream - Wikipedia](https://en.wikipedia.org/wiki/Osman's_Dream)
+
 [^19]: [Rabia Bala Hatun - Wikipedia](https://en.wikipedia.org/wiki/Rabia_Bala_Hatun)
+
 [^20]: [Osman's Dream - Grokipedia](https://grokipedia.com/page/Osman's_Dream)
+
 [^21]: [Ottoman Empire - Osman and Orhan - Britannica](https://www.britannica.com/place/Ottoman-Empire/Osman-and-Orhan)
+
 [^22]: [Osman I: Founder of the Ottoman Empire - World History Edu](https://worldhistoryedu.com/osman-i-founder-of-the-ottoman-empire/)
+
 [^23]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^24]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^25]: [Osman I | Research Starters - EBSCO Research](https://www.ebsco.com/research-starters/biography/osman-i)
+
 [^26]: [Battle of Bapheus - EBSCO Research](https://www.ebsco.com/research-starters/military-history-and-science/battle-bapheus)
+
 [^27]: [Osman I - Military Wiki](https://military-history.fandom.com/wiki/Osman_I)
+
 [^28]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^29]: [Battle of Bapheus - EBSCO Research](https://www.ebsco.com/research-starters/military-history-and-science/battle-bapheus)
+
 [^30]: [Osman I: Founder of the Ottoman Empire & Architect of a Dynasty - Vocal Media](https://vocal.media/history/osman-i-founder-of-the-ottoman-empire-and-architect-of-a-dynasty)
+
 [^31]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^32]: [Osman I - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^33]: [Osman I | Research Starters - EBSCO Research](https://www.ebsco.com/research-starters/biography/osman-i)
+
 [^34]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^35]: [Osman I: The Visionary Founder - Medium](https://medium.com/@sa4599229/osman-i-the-visionary-founder-of-the-ottoman-empire-27fbf2c8c70d)
+
 [^36]: [Ottoman Sultan Osman I - Mehbooba](https://www.mehbooba.com/ottoman-sultan-osman-i-osman-ghazi/)
+
 [^37]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^38]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^39]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^40]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^41]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^42]: [Siege of Bursa - Grokipedia](https://grokipedia.com/page/Siege_of_Bursa)
+
 [^43]: [Osman I - Britannica](https://www.britannica.com/biography/Osman-I)
+
 [^44]: [How Osman Ghazi Died - Historic Point](https://historicpoint.com/how-osman-ghazi-died-founder-of-the-ottoman-empire/)
+
 [^45]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^46]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^47]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^48]: [Osman I | Research Starters - EBSCO Research](https://www.ebsco.com/research-starters/biography/osman-i)
+
 [^49]: [Rise of the Ottoman Empire - Wikipedia](https://en.wikipedia.org/wiki/Rise_of_the_Ottoman_Empire)
+
 [^50]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^51]: [Legendary Facts About Osman I - Factinate](https://www.factinate.com/people/osman-ottoman-empire)
+
 [^52]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^53]: [Historiography of the Ottoman Empire - Wikipedia](https://en.wikipedia.org/wiki/Historiography_of_the_Ottoman_Empire)
+
 [^54]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^55]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^56]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^57]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^58]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^59]: [Rabia Bala Hatun - Wikipedia](https://en.wikipedia.org/wiki/Rabia_Bala_Hatun)
+
 [^60]: [The Family of Osman I - Ottoman Ladies on Tumblr](https://www.tumblr.com/ottomanladies/188278159768/the-family-of-osman-i)
+
 [^61]: [Rabia Bala Hatun - TS Historical](https://tshistorical.com/rabia-bala-hatun/)
+
 [^62]: [Malhun Hatun - Wikipedia](https://en.wikipedia.org/wiki/Malhun_Hatun)
+
 [^63]: [Malhun Hatun - World History Edu](https://worldhistoryedu.com/malhun-hatun/)
+
 [^64]: [The Woman of Many Names: Malhun Rabia Hatun - Medium](https://medium.com/@historybyzainab/the-woman-of-many-names-malhun-rabia-hatun-42b0b6ddb1df)
+
 [^65]: [The Family of Osman I - Ottoman Ladies on Tumblr](https://www.tumblr.com/ottomanladies/188278159768/the-family-of-osman-i)
+
 [^66]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^67]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^68]: [How Osman Ghazi Died - Historic Point](https://historicpoint.com/how-osman-ghazi-died-founder-of-the-ottoman-empire/)
+
 [^69]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^70]: [How Osman Ghazi Died - Historic Point](https://historicpoint.com/how-osman-ghazi-died-founder-of-the-ottoman-empire/)
+
 [^71]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^72]: [Osman I - Britannica](https://www.britannica.com/biography/Osman-I)
+
 [^73]: [Osman I - Britannica](https://www.britannica.com/biography/Osman-I)
+
 [^74]: [Ottoman Empire - Wikipedia](https://en.wikipedia.org/wiki/Ottoman_Empire)
+
 [^75]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^76]: [Siege of Bursa - Grokipedia](https://grokipedia.com/page/Siege_of_Bursa)
+
 [^77]: [Tombs of Osman and Orhan Gazi - Ebla](https://www.eblagroup.net/2022/03/02/tombs-of-osman-and-orhan-gazi/?lang=en)
+
 [^78]: [Tombs of Sultans Osman & Orhan - Lonely Planet](https://www.lonelyplanet.com/turkey/bursa/attractions/tombs-of-sultans-osman-orhan/a/poi-sig/474316/360872)
+
 [^79]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^80]: [Tomb of Osman Ghazi Bey - GeziBilen](https://gezibilen.com/en/travelpoint/bursa/osman-gazi-bey-turbesi)
+
 [^81]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^82]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^83]: [Government of the Classical Ottoman Empire - Wikipedia](https://en.wikipedia.org/wiki/Government_of_the_classical_Ottoman_Empire)
+
 [^84]: [Osman's Dream - Wikipedia](https://en.wikipedia.org/wiki/Osman's_Dream)
+
 [^85]: [Osman's Dream - Wikipedia](https://en.wikipedia.org/wiki/Osman's_Dream)
+
 [^86]: [Osman's Dream - Grokipedia](https://grokipedia.com/page/Osman's_Dream)
+
 [^87]: [Kuruluş Osman Real History vs Drama - Kurulus Osman](https://xn--kuruluosman-wgc.com/kurulus-osman-real-history-vs-drama/)
+
 [^88]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^89]: [Osman's Rise: The Dawn of the Ottoman Empire - Medieval History](https://historymedieval.com/osmans-rise-the-dawn-of-the-ottoman-empire/)
+
 [^90]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^91]: [Osman I: The Visionary Founder - Medium](https://medium.com/@sa4599229/osman-i-the-visionary-founder-of-the-ottoman-empire-27fbf2c8c70d)
+
 [^92]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^93]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^94]: [Osman I | Research Starters - EBSCO Research](https://www.ebsco.com/research-starters/biography/osman-i)
+
 [^95]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^96]: [Battle of Bapheus - EBSCO Research](https://www.ebsco.com/research-starters/military-history-and-science/battle-bapheus)
+
 [^97]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^98]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^99]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^100]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^101]: [Legendary Facts About Osman I - Factinate](https://www.factinate.com/people/osman-ottoman-empire)
+
 [^102]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^103]: [Historiography of the Ottoman Empire - Wikipedia](https://en.wikipedia.org/wiki/Historiography_of_the_Ottoman_Empire)
+
 [^104]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^105]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^106]: [Osman I - Britannica](https://www.britannica.com/biography/Osman-I)
+
 [^107]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^108]: [Osman I: Founder & Visionary Leader Legacy - Confinity](https://www.confinity.com/legacies/osman-gazi)
+
 [^109]: [Osman I - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Osman_I)
+
 [^110]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^111]: [Osman I Biography - The Famous People](https://www.thefamouspeople.com/profiles/osman-i-37028.php)
+
 [^112]: [Sultan Osman Gazi - All About Turkey](https://www.allaboutturkey.com/osmangazi.html)
+
 [^113]: [Rabia Bala Hatun - Wikipedia](https://en.wikipedia.org/wiki/Rabia_Bala_Hatun)
+
 [^114]: [Ottoman Empire - Osman and Orhan - Britannica](https://www.britannica.com/place/Ottoman-Empire/Osman-and-Orhan)
+
 [^115]: [Osman I - Wikipedia](https://en.wikipedia.org/wiki/Osman_I)
+
 [^116]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^117]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^118]: [Battle of Bapheus - EBSCO Research](https://www.ebsco.com/research-starters/military-history-and-science/battle-bapheus)
+
 [^119]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^120]: [Osman I - World History Encyclopedia](https://www.worldhistory.org/Osman_I/)
+
 [^121]: [Siege of Bursa - Grokipedia](https://grokipedia.com/page/Siege_of_Bursa)
+
 [^122]: [How Osman Ghazi Died - Historic Point](https://historicpoint.com/how-osman-ghazi-died-founder-of-the-ottoman-empire/)
+
 [^123]: [Rabia Bala Hatun - TS Historical](https://tshistorical.com/rabia-bala-hatun/)
+
 [^124]: [Osman I - Britannica](https://www.britannica.com/biography/Osman-I)
+
 [^125]: [Tombs of Osman and Orhan Gazi - Ebla](https://www.eblagroup.net/2022/03/02/tombs-of-osman-and-orhan-gazi/?lang=en)
+
 [^126]: [Best Dialogues from Kuruluş Osman - Kurulus Osman](https://xn--kuruluosman-wgc.com/best-dialogues-from-kurulus-osman/)
+
 [^127]: [Top 9 Kurulus Osman Quotes - QuotesSayings](https://quotessayings.net/topics/kurulus-osman/)
+
 [^128]: [Best Dialogues from Kuruluş Osman - Kurulus Osman](https://xn--kuruluosman-wgc.com/best-dialogues-from-kurulus-osman/)
+
 [^129]: [Osman's Dream - Wikipedia](https://en.wikipedia.org/wiki/Osman's_Dream)
+
 [^130]: [Osman's Dream - Grokipedia](https://grokipedia.com/page/Osman's_Dream)

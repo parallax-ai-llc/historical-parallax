@@ -35,6 +35,7 @@ The name "Rolihlahla" means "troublemaker" in Xhosa. The English name "Nelson" w
 In 1944, Mandela joined the African National Congress (ANC) and co-founded the Youth League. [^3]
 
 Major activities:
+
 - **1952 Defiance Campaign**: Large-scale civil disobedience against apartheid laws
 - **1955 Freedom Charter Adoption**: Presented a vision of a non-racial democratic South Africa
 - **1960 Sharpeville Massacre**: Police fired on peaceful protesters, killing 69 people
@@ -84,19 +85,19 @@ After stepping down from the presidency, Mandela continued to dedicate himself t
 
 ## Career Timeline
 
-| Year | Event |
-|------|------|
-| 1918 | Born in Mvezo |
-| 1944 | Co-founded ANC Youth League |
-| 1952 | Opened first Black law firm |
-| 1961 | Founded Umkhonto we Sizwe |
-| 1962 | Arrested |
+| Year | Event                          |
+| ---- | ------------------------------ |
+| 1918 | Born in Mvezo                  |
+| 1944 | Co-founded ANC Youth League    |
+| 1952 | Opened first Black law firm    |
+| 1961 | Founded Umkhonto we Sizwe      |
+| 1962 | Arrested                       |
 | 1964 | Sentenced to life imprisonment |
-| 1990 | Released |
-| 1993 | Awarded Nobel Peace Prize |
-| 1994 | Inaugurated as President |
-| 1999 | Retired from presidency |
-| 2013 | Passed away |
+| 1990 | Released                       |
+| 1993 | Awarded Nobel Peace Prize      |
+| 1994 | Inaugurated as President       |
+| 1999 | Retired from presidency        |
+| 2013 | Passed away                    |
 
 ## Historical Assessment
 
@@ -177,43 +178,81 @@ Mandela explicitly cited Gandhi's influence, though he ultimately embraced armed
 ## References
 
 [^1]: Mandela, Nelson. "Long Walk to Freedom" (1994)
-[^2]: Sampson, Anthony. "Mandela: The Authorized Biography" (1999)
-[^3]: Lodge, Tom. "Mandela: A Critical Life" (2006)
-[^4]: Meer, Fatima. "Higher than Hope: The Authorized Biography of Nelson Mandela" (1988)
-[^5]: Sparks, Allister. "Tomorrow is Another Country" (1995)
-[^6]: Carlin, John. "Invictus: Nelson Mandela and the Game That Made a Nation" (2008)
-[^7]: Tutu, Desmond. "No Future Without Forgiveness" (1999)
-[^8]: Nobel Prize Official Website - https://www.nobelprize.org/
-[^9]: Ellis, Stephen. "External Mission: The ANC in Exile, 1960-1990" (2012)
-[^10]: Meredith, Martin. "Nelson Mandela: A Biography" (2010)
-[^11]: Sampson, "Mandela: The Authorized Biography"
-[^12]: Truth and Reconciliation Commission archives
-[^13]: Major biography analyses
-[^14]: Nobel Prize Committee records
-[^15]: United Nations documentation
-[^16]: Nelson Mandela International Day UN resolution
-[^17]: Robben Island Museum statistics
-[^18]: Sharpeville Massacre historical documentation
-[^19]: Human Rights Museum, "Nelson Mandela and the Formation of MK"
-[^20]: US terrorism watch list documentation
-[^21]: Ellis, Stephen. "Mandela and the SACP," various archival sources
-[^22]: Academic debates on MK's formation
-[^23]: Cato Institute and critical post-apartheid analyses
-[^24]: Scholarly debates on Mandela's legacy
-[^25]: Transition negotiations scholarship
-[^26]: South African constitutional analysis
-[^27]: Comparative transitional justice studies
-[^28]: Film portrayals of Mandela
-[^29]: Educational materials analysis
-[^30]: UNESCO World Heritage Site documentation
-[^31]: Global Mandela monuments
-[^32]: Mandela-de Klerk relationship scholarship
-[^33]: Winnie Mandela biographies and scholarship
-[^34]: Gandhi-Mandela comparative studies
-[^35]: Mandela in national memory scholarship
-[^36]: Education quote, various sources
-[^37]: "Long Walk to Freedom" quotations
-[^38]: "Impossible" quote, various sources
-[^39]: "Long Walk to Freedom" quotations
-[^40]: Freedom quote, various sources
 
+[^2]: Sampson, Anthony. "Mandela: The Authorized Biography" (1999)
+
+[^3]: Lodge, Tom. "Mandela: A Critical Life" (2006)
+
+[^4]: Meer, Fatima. "Higher than Hope: The Authorized Biography of Nelson Mandela" (1988)
+
+[^5]: Sparks, Allister. "Tomorrow is Another Country" (1995)
+
+[^6]: Carlin, John. "Invictus: Nelson Mandela and the Game That Made a Nation" (2008)
+
+[^7]: Tutu, Desmond. "No Future Without Forgiveness" (1999)
+
+[^8]: Nobel Prize Official Website - https://www.nobelprize.org/
+
+[^9]: Ellis, Stephen. "External Mission: The ANC in Exile, 1960-1990" (2012)
+
+[^10]: Meredith, Martin. "Nelson Mandela: A Biography" (2010)
+
+[^11]: Sampson, "Mandela: The Authorized Biography"
+
+[^12]: Truth and Reconciliation Commission archives
+
+[^13]: Major biography analyses
+
+[^14]: Nobel Prize Committee records
+
+[^15]: United Nations documentation
+
+[^16]: Nelson Mandela International Day UN resolution
+
+[^17]: Robben Island Museum statistics
+
+[^18]: Sharpeville Massacre historical documentation
+
+[^19]: Human Rights Museum, "Nelson Mandela and the Formation of MK"
+
+[^20]: US terrorism watch list documentation
+
+[^21]: Ellis, Stephen. "Mandela and the SACP," various archival sources
+
+[^22]: Academic debates on MK's formation
+
+[^23]: Cato Institute and critical post-apartheid analyses
+
+[^24]: Scholarly debates on Mandela's legacy
+
+[^25]: Transition negotiations scholarship
+
+[^26]: South African constitutional analysis
+
+[^27]: Comparative transitional justice studies
+
+[^28]: Film portrayals of Mandela
+
+[^29]: Educational materials analysis
+
+[^30]: UNESCO World Heritage Site documentation
+
+[^31]: Global Mandela monuments
+
+[^32]: Mandela-de Klerk relationship scholarship
+
+[^33]: Winnie Mandela biographies and scholarship
+
+[^34]: Gandhi-Mandela comparative studies
+
+[^35]: Mandela in national memory scholarship
+
+[^36]: Education quote, various sources
+
+[^37]: "Long Walk to Freedom" quotations
+
+[^38]: "Impossible" quote, various sources
+
+[^39]: "Long Walk to Freedom" quotations
+
+[^40]: Freedom quote, various sources

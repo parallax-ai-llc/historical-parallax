@@ -126,31 +126,31 @@ Perhaps the harshest criticism comes from former Sandinista revolutionaries who 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1945 | Born November 11 in La Libertad, Nicaragua[^90] |
-| 1963 | Joined the Sandinista National Liberation Front (FSLN)[^91] |
-| 1967 | Arrested and imprisoned for bank robbery; served seven years[^92] |
-| 1974 | Released from prison in hostage exchange; exiled to Cuba[^93] |
+| Year | Event                                                                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------ |
+| 1945 | Born November 11 in La Libertad, Nicaragua[^90]                                                                    |
+| 1963 | Joined the Sandinista National Liberation Front (FSLN)[^91]                                                        |
+| 1967 | Arrested and imprisoned for bank robbery; served seven years[^92]                                                  |
+| 1974 | Released from prison in hostage exchange; exiled to Cuba[^93]                                                      |
 | 1979 | Returned to Nicaragua; Sandinista Revolution overthrows Somoza; appointed to Junta of National Reconstruction[^94] |
-| 1981 | Became coordinator of the Junta of National Reconstruction[^95] |
-| 1984 | Elected president with 67% of the vote[^96] |
-| 1985 | Inaugurated as president of Nicaragua[^97] |
-| 1990 | Lost presidential election to Violeta Chamorro; peacefully transferred power[^98] |
-| 1996 | Lost presidential election to Arnoldo Alemán[^99] |
-| 1998 | Stepdaughter Zoilamérica Narváez publicly accused him of sexual abuse[^100] |
-| 2000 | Negotiated "El Pacto" with Liberal Party, gaining control of key state institutions[^101] |
-| 2001 | Lost presidential election to Enrique Bolaños[^102] |
-| 2005 | Remarried Rosario Murillo in Catholic ceremony[^103] |
-| 2006 | Won presidential election with 38% of the vote[^104] |
-| 2007 | Returned to presidency; began consolidating power over state institutions[^105] |
-| 2009 | Supreme Court lifted ban on consecutive reelection[^106] |
-| 2011 | Reelected president; FSLN gained supermajority in National Assembly[^107] |
-| 2016 | Elected to third consecutive term with wife Rosario Murillo as vice president[^108] |
-| 2018 | Violently suppressed mass protests; at least 325 people killed[^109] |
-| 2021 | Elected to fourth consecutive term after imprisoning opposition candidates[^110] |
-| 2023 | Stripped 94 political opponents of citizenship[^111] |
-| 2025 | Constitutional reforms establish Ortega and Murillo as co-presidents with absolute power[^112] |
+| 1981 | Became coordinator of the Junta of National Reconstruction[^95]                                                    |
+| 1984 | Elected president with 67% of the vote[^96]                                                                        |
+| 1985 | Inaugurated as president of Nicaragua[^97]                                                                         |
+| 1990 | Lost presidential election to Violeta Chamorro; peacefully transferred power[^98]                                  |
+| 1996 | Lost presidential election to Arnoldo Alemán[^99]                                                                  |
+| 1998 | Stepdaughter Zoilamérica Narváez publicly accused him of sexual abuse[^100]                                        |
+| 2000 | Negotiated "El Pacto" with Liberal Party, gaining control of key state institutions[^101]                          |
+| 2001 | Lost presidential election to Enrique Bolaños[^102]                                                                |
+| 2005 | Remarried Rosario Murillo in Catholic ceremony[^103]                                                               |
+| 2006 | Won presidential election with 38% of the vote[^104]                                                               |
+| 2007 | Returned to presidency; began consolidating power over state institutions[^105]                                    |
+| 2009 | Supreme Court lifted ban on consecutive reelection[^106]                                                           |
+| 2011 | Reelected president; FSLN gained supermajority in National Assembly[^107]                                          |
+| 2016 | Elected to third consecutive term with wife Rosario Murillo as vice president[^108]                                |
+| 2018 | Violently suppressed mass protests; at least 325 people killed[^109]                                               |
+| 2021 | Elected to fourth consecutive term after imprisoning opposition candidates[^110]                                   |
+| 2023 | Stripped 94 political opponents of citizenship[^111]                                                               |
+| 2025 | Constitutional reforms establish Ortega and Murillo as co-presidents with absolute power[^112]                     |
 
 ---
 
@@ -175,121 +175,239 @@ Perhaps the harshest criticism comes from former Sandinista revolutionaries who 
 ## References
 
 [^1]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^2]: [Daniel Ortega | Biography & Facts | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^3]: [Nicaragua: Ortega Tightening Authoritarian Grip | Human Rights Watch](https://www.hrw.org/news/2020/10/08/nicaragua-ortega-tightening-authoritarian-grip)
+
 [^4]: [Nicaragua amends constitution, grants 'absolute power' to president and his wife | France24](https://www.france24.com/en/live-news/20250131-nicaragua-legislature-cements-absolute-power-of-president-wife)
+
 [^5]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^6]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/daniel-ortega)
+
 [^7]: [Daniel Ortega: 1945—: Former Nicaragua President, Revolutionary | JRank](https://biography.jrank.org/pages/3960/Ortega-Daniel-1945-Former-Nicaragua-President-Revolutionary-Learned-Rebellion-at-an-Early-Age.html)
+
 [^8]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^9]: [Daniel Ortega | Spartacus Educational](https://spartacus-educational.com/COLDortega.htm)
+
 [^10]: [Daniel Ortega Biography | The Famous People](https://www.thefamouspeople.com/profiles/daniel-ortega-5804.php)
+
 [^11]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/journals/culture-magazines/ortega-daniel)
+
 [^12]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^13]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^14]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^15]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/daniel-ortega)
+
 [^16]: [Daniel Ortega | Spartacus Educational](https://spartacus-educational.com/COLDortega.htm)
+
 [^17]: [Timeline: Daniel Ortega | Timetoast](https://www.timetoast.com/timelines/daniel-ortega)
+
 [^18]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^19]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^20]: [Backgrounder: The Rise of Daniel Ortega in Nicaragua | Geopolitical Monitor](https://www.geopoliticalmonitor.com/backgrounder-politics-in-nicaragua/)
+
 [^21]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^22]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^23]: [The Sandinista Revolution, Reconsidered - JSTOR Daily](https://daily.jstor.org/the-sandinista-revolution-reconsidered/)
+
 [^24]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^25]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/daniel-ortega)
+
 [^26]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^27]: [The Sandinista Revolution, Reconsidered - JSTOR Daily](https://daily.jstor.org/the-sandinista-revolution-reconsidered/)
+
 [^28]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^29]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^30]: [Backgrounder: The Rise of Daniel Ortega in Nicaragua | Geopolitical Monitor](https://www.geopoliticalmonitor.com/backgrounder-politics-in-nicaragua/)
+
 [^31]: [Backgrounder: The Rise of Daniel Ortega in Nicaragua | Geopolitical Monitor](https://www.geopoliticalmonitor.com/backgrounder-politics-in-nicaragua/)
+
 [^32]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^33]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^34]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^35]: [2018 Nicaraguan Protests: President Ortega's Violent Crackdown | Hudson Institute](https://www.hudson.org/events/1586-2018-nicaraguan-protests-president-ortega-s-violent-crackdown82018)
+
 [^36]: [Crackdown in Nicaragua: Torture, Ill-Treatment, and Prosecutions | Human Rights Watch](https://www.hrw.org/report/2019/06/19/crackdown-nicaragua/torture-ill-treatment-and-prosecutions-protesters-and)
+
 [^37]: [2018 Nicaraguan protests - Wikipedia](https://en.wikipedia.org/wiki/2018_Nicaraguan_protests)
+
 [^38]: [Nicaragua: The evolution of the regime of President Daniel Ortega since 2007 – CADTM](https://www.cadtm.org/Nicaragua-The-evolution-of-the-regime-of-President-Daniel-Ortega-since-2007)
+
 [^39]: [The 'deep human rights crisis' hanging over Nicaragua's elections | Al Jazeera](https://www.aljazeera.com/news/2021/11/5/the-deep-human-rights-crisis-looming-over-nicaragua-elections)
+
 [^40]: [Timeline: Nicaragua's authoritarian slide | France24](https://www.france24.com/en/live-news/20211108-timeline-nicaragua-s-authoritarian-slide)
+
 [^41]: [What Led Ortega to Expel Hundreds of Political Opponents? – Inter-American Dialogue](https://thedialogue.org/analysis/what-led-ortega-to-expel-hundreds-of-political-opponents)
+
 [^42]: [Extreme Repression and the Erosion of Democracy Under the Ortega Regime in Nicaragua | Immigration and Human Rights Law Review](https://lawblogs.uc.edu/ihrlr/2024/12/01/extreme-repression-and-the-erosion-of-democracy-under-the-ortega-regime-in-nicaragua/)
+
 [^43]: [Nicaragua: Ortega Tightening Authoritarian Grip | Human Rights Watch](https://www.hrw.org/news/2020/10/08/nicaragua-ortega-tightening-authoritarian-grip)
+
 [^44]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^45]: [Rosario Murillo - Wikipedia](https://en.wikipedia.org/wiki/Rosario_Murillo)
+
 [^46]: [Daniel Ortega Biography | The Famous People](https://www.thefamouspeople.com/profiles/daniel-ortega-5804.php)
+
 [^47]: [Ortega and Murillo: Nicaragua's power couple | France24](https://www.france24.com/en/live-news/20211105-ortega-and-murillo-nicaragua-s-power-couple)
+
 [^48]: [Rosario Murillo - Wikipedia](https://en.wikipedia.org/wiki/Rosario_Murillo)
+
 [^49]: [Daniel Ortega Biography | The Famous People](https://www.thefamouspeople.com/profiles/daniel-ortega-5804.php)
+
 [^50]: [Rosario Murillo: The Iron Fist Behind Nicaragua's Daniel Ortega | The Tico Times](https://ticotimes.net/2024/11/23/rosario-murillo-the-iron-fist-behind-nicaraguas-daniel-ortega)
+
 [^51]: [Ortega and Murillo: Nicaragua's power couple | France24](https://www.france24.com/en/live-news/20211105-ortega-and-murillo-nicaragua-s-power-couple)
+
 [^52]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^53]: [Rosario Murillo: The Iron Fist Behind Nicaragua's Daniel Ortega | The Tico Times](https://ticotimes.net/2024/11/23/rosario-murillo-the-iron-fist-behind-nicaraguas-daniel-ortega)
+
 [^54]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/daniel-ortega)
+
 [^55]: [The Stunning Loss Daniel Ortega Never Forgot | Americas Quarterly](https://www.americasquarterly.org/article/the-stunning-loss-daniel-ortega-never-forgot/)
+
 [^56]: [Daniel Ortega's secret fortune linked to his years in power | Expediente Público](https://www.expedientepublico.org/daniel-ortegas-secret-fortune-linked-to-his-years-in-power/)
+
 [^57]: [Daniel Ortega Biography | The Famous People](https://www.thefamouspeople.com/profiles/daniel-ortega-5804.php)
+
 [^58]: [The Sandinista Revolution, Reconsidered - JSTOR Daily](https://daily.jstor.org/the-sandinista-revolution-reconsidered/)
+
 [^59]: [A Review of The Sandinista Revolution: A Global Latin American History | ReVista](https://revista.drclas.harvard.edu/the-sandinista-revolution-a-global-latin-american-history/)
+
 [^60]: [Nicaragua: Ortega Tightening Authoritarian Grip | Human Rights Watch](https://www.hrw.org/news/2020/10/08/nicaragua-ortega-tightening-authoritarian-grip)
+
 [^61]: [Daniel Ortega: from revolutionary to absolute overlord | Responsible Statecraft](https://responsiblestatecraft.org/2021/06/16/daniel-ortega-from-revolutionary-to-absolute-overlord/)
+
 [^62]: [Explainer: Nicaragua's descent into dictatorship | Chatham House](https://www.chathamhouse.org/publications/the-world-today/2023-04/explainer-nicaraguas-descent-dictatorship)
+
 [^63]: [Daniel Ortega's Journey from Hero to Tyrant | El Faro](https://elfaro.net/en/202303/opinion/26747/Daniel-Ortega's-Journey-from-Hero-to-Tyrant.htm)
+
 [^64]: [Timeline: Nicaragua's authoritarian slide | France24](https://www.france24.com/en/live-news/20211108-timeline-nicaragua-s-authoritarian-slide)
+
 [^65]: [Backed by Russia, Nicaragua's Ortega Cracks Down on Dissent | Foreign Policy](https://foreignpolicy.com/2023/03/09/nicaragua-ortega-crackdown-surveillance-authoritarianism-russia-opposition-dissent/)
+
 [^66]: [Nicaragua approves constitutional reforms giving president expansive powers | Al Jazeera](https://www.aljazeera.com/news/2025/1/30/nicaragua-approves-constitutional-reforms-giving-president-expansive-powers)
+
 [^67]: [The Sandinista Revolution, Reconsidered - JSTOR Daily](https://daily.jstor.org/the-sandinista-revolution-reconsidered/)
+
 [^68]: [A Review of The Sandinista Revolution: A Global Latin American History | ReVista](https://revista.drclas.harvard.edu/the-sandinista-revolution-a-global-latin-american-history/)
+
 [^69]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^70]: [Nicaragua: The evolution of the regime of President Daniel Ortega since 2007 – CADTM](https://www.cadtm.org/Nicaragua-The-evolution-of-the-regime-of-President-Daniel-Ortega-since-2007)
+
 [^71]: [Backgrounder: The Rise of Daniel Ortega in Nicaragua | Geopolitical Monitor](https://www.geopoliticalmonitor.com/backgrounder-politics-in-nicaragua/)
+
 [^72]: [Daniel Ortega, Nicaragua's Nov. 6 Election, and the Betrayal of a Revolution - New Politics](https://newpol.org/daniel-ortega-nicaraguas-nov-6-election-and-betrayal-revolution/)
+
 [^73]: [Daniel Ortega Made Reagan 'See Red.' He's Still in Power | TIME](https://time.com/6957847/nicaragua-history-politics/)
+
 [^74]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/daniel-ortega)
+
 [^75]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^76]: [A Review of The Sandinista Revolution: A Global Latin American History | ReVista](https://revista.drclas.harvard.edu/the-sandinista-revolution-a-global-latin-american-history/)
+
 [^77]: [Daniel Ortega's Journey from Hero to Tyrant | El Faro](https://elfaro.net/en/202303/opinion/26747/Daniel-Ortega's-Journey-from-Hero-to-Tyrant.htm)
+
 [^78]: [The Stunning Loss Daniel Ortega Never Forgot | Americas Quarterly](https://www.americasquarterly.org/article/the-stunning-loss-daniel-ortega-never-forgot/)
+
 [^79]: [Nicaragua: A continuum of repression and systematic human rights violations | Amnesty International](https://www.amnesty.org/en/latest/news/2023/04/nicaragua-systematic-human-rights-violations-ortega-murillo/)
+
 [^80]: [Nicaragua: Ortega Tightening Authoritarian Grip | Human Rights Watch](https://www.hrw.org/news/2020/10/08/nicaragua-ortega-tightening-authoritarian-grip)
+
 [^81]: [Extreme Repression and the Erosion of Democracy Under the Ortega Regime in Nicaragua | Immigration and Human Rights Law Review](https://lawblogs.uc.edu/ihrlr/2024/12/01/extreme-repression-and-the-erosion-of-democracy-under-the-ortega-regime-in-nicaragua/)
+
 [^82]: [The End of Democracy in Nicaragua: How the Ortega-Murillo Regime Took Over | Geopolitics Unplugged](https://geopoliticsunplugged.substack.com/p/the-end-of-democracy-in-nicaragua)
+
 [^83]: [Ortega Government's Authoritarian Crackdown Seeks to Repress All Dissent | WOLA](https://www.wola.org/analysis/ortega-governments-authoritarian-crackdown-seeks-repress-all-dissent/)
+
 [^84]: ["It's completely Orwellian": How Daniel Ortega tightened his grip on power in Nicaragua | CBS 60 Minutes](https://www.cbsnews.com/news/nicaragua-daniel-ortega-60-minutes-2022-06-19/)
+
 [^85]: [Explainer: Nicaragua's descent into dictatorship | Chatham House](https://www.chathamhouse.org/publications/the-world-today/2023-04/explainer-nicaraguas-descent-dictatorship)
+
 [^86]: [Backed by Russia, Nicaragua's Ortega Cracks Down on Dissent | Foreign Policy](https://foreignpolicy.com/2023/03/09/nicaragua-ortega-crackdown-surveillance-authoritarianism-russia-opposition-dissent/)
+
 [^87]: [Nicaragua: The evolution of the regime of President Daniel Ortega since 2007 – CADTM](https://www.cadtm.org/Nicaragua-The-evolution-of-the-regime-of-President-Daniel-Ortega-since-2007)
+
 [^88]: [Daniel Ortega's Journey from Hero to Tyrant | El Faro](https://elfaro.net/en/202303/opinion/26747/Daniel-Ortega's-Journey-from-Hero-to-Tyrant.htm)
+
 [^89]: [Daniel Ortega, Nicaragua's Nov. 6 Election, and the Betrayal of a Revolution - New Politics](https://newpol.org/daniel-ortega-nicaraguas-nov-6-election-and-betrayal-revolution/)
+
 [^90]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^91]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^92]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/daniel-ortega)
+
 [^93]: [Timeline: Daniel Ortega | Timetoast](https://www.timetoast.com/timelines/daniel-ortega)
+
 [^94]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^95]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^96]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^97]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^98]: [The Stunning Loss Daniel Ortega Never Forgot | Americas Quarterly](https://www.americasquarterly.org/article/the-stunning-loss-daniel-ortega-never-forgot/)
+
 [^99]: [Daniel Ortega | Encyclopedia.com](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/daniel-ortega)
+
 [^100]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^101]: [Backgrounder: The Rise of Daniel Ortega in Nicaragua | Geopolitical Monitor](https://www.geopoliticalmonitor.com/backgrounder-politics-in-nicaragua/)
+
 [^102]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^103]: [Daniel Ortega Biography | The Famous People](https://www.thefamouspeople.com/profiles/daniel-ortega-5804.php)
+
 [^104]: [Daniel Ortega | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/biography/daniel-ortega)
+
 [^105]: [Daniel Ortega: from revolutionary to absolute overlord | Responsible Statecraft](https://responsiblestatecraft.org/2021/06/16/daniel-ortega-from-revolutionary-to-absolute-overlord/)
+
 [^106]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^107]: [Daniel Ortega | Britannica](https://www.britannica.com/biography/Daniel-Ortega)
+
 [^108]: [Daniel Ortega - Wikipedia](https://en.wikipedia.org/wiki/Daniel_Ortega)
+
 [^109]: [2018 Nicaraguan protests - Wikipedia](https://en.wikipedia.org/wiki/2018_Nicaraguan_protests)
+
 [^110]: [The 'deep human rights crisis' hanging over Nicaragua's elections | Al Jazeera](https://www.aljazeera.com/news/2021/11/5/the-deep-human-rights-crisis-looming-over-nicaragua-elections)
+
 [^111]: [What Led Ortega to Expel Hundreds of Political Opponents? – Inter-American Dialogue](https://thedialogue.org/analysis/what-led-ortega-to-expel-hundreds-of-political-opponents)
+
 [^112]: [Nicaragua approves constitutional reforms giving president expansive powers | Al Jazeera](https://www.aljazeera.com/news/2025/1/30/nicaragua-approves-constitutional-reforms-giving-president-expansive-powers)
+
 [^113]: [Daniel Ortega Quotes | A-Z Quotes](https://www.azquotes.com/author/45896-Daniel_Ortega)
+
 [^114]: [Daniel Ortega - Wikiquote](https://en.wikiquote.org/wiki/Daniel_Ortega)
+
 [^115]: [30 Best Daniel Ortega Quotes | Bookey](https://www.bookey.app/quote-author/daniel-ortega)
+
 [^116]: [Daniel Ortega Quotes | BrainyQuote](https://www.brainyquote.com/authors/daniel-ortega-quotes)
+
 [^117]: [Daniel Ortega - Wikiquote](https://en.wikiquote.org/wiki/Daniel_Ortega)
+
 [^118]: [Lies, smears, and rambling: Ortega's rants against the April Rebellion - Confidencial](https://confidencial.digital/english/lies-smears-and-rambling-ortegas-rants-against-the-april-rebellion/)
+
 [^119]: [Daniel Ortega Quotes | Quoteswave](https://www.quoteswave.com/authors/daniel-ortega)

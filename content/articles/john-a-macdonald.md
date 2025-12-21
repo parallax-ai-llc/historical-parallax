@@ -165,28 +165,28 @@ University of Saskatchewan scholars concluded that "John A. Macdonald should not
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1815 | Born January 11 in Glasgow, Scotland |
-| 1820 | Emigrated with family to Kingston, Upper Canada |
-| 1830 | Began articling with lawyer George Mackenzie at age 15 |
-| 1836 | Called to the bar; established own legal practice |
-| 1843 | Married first wife Isabella Clark |
-| 1844 | Elected to Legislative Assembly of Province of Canada |
-| 1847 | Son John Alexander born (died 1848) |
-| 1850 | Son Hugh John born |
-| 1854 | Helped form Liberal-Conservative alliance |
-| 1857 | Became Premier of Province of Canada; wife Isabella died |
-| 1864 | Formed Great Coalition; attended Charlottetown and Quebec Conferences |
-| 1866 | Attended London Conference on Confederation |
-| 1867 | Married second wife Agnes Bernard; became first Prime Minister of Canada; knighted KCB |
-| 1869 | Daughter Margaret Mary Theodora born |
-| 1870 | Manitoba entered Confederation; Rupert's Land purchased |
-| 1871 | British Columbia joined Confederation |
-| 1873 | Prince Edward Island joined Confederation; North-West Mounted Police created; resigned over Pacific Scandal |
-| 1878 | Returned to power with National Policy platform |
+| Year | Event                                                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1815 | Born January 11 in Glasgow, Scotland                                                                                      |
+| 1820 | Emigrated with family to Kingston, Upper Canada                                                                           |
+| 1830 | Began articling with lawyer George Mackenzie at age 15                                                                    |
+| 1836 | Called to the bar; established own legal practice                                                                         |
+| 1843 | Married first wife Isabella Clark                                                                                         |
+| 1844 | Elected to Legislative Assembly of Province of Canada                                                                     |
+| 1847 | Son John Alexander born (died 1848)                                                                                       |
+| 1850 | Son Hugh John born                                                                                                        |
+| 1854 | Helped form Liberal-Conservative alliance                                                                                 |
+| 1857 | Became Premier of Province of Canada; wife Isabella died                                                                  |
+| 1864 | Formed Great Coalition; attended Charlottetown and Quebec Conferences                                                     |
+| 1866 | Attended London Conference on Confederation                                                                               |
+| 1867 | Married second wife Agnes Bernard; became first Prime Minister of Canada; knighted KCB                                    |
+| 1869 | Daughter Margaret Mary Theodora born                                                                                      |
+| 1870 | Manitoba entered Confederation; Rupert's Land purchased                                                                   |
+| 1871 | British Columbia joined Confederation                                                                                     |
+| 1873 | Prince Edward Island joined Confederation; North-West Mounted Police created; resigned over Pacific Scandal               |
+| 1878 | Returned to power with National Policy platform                                                                           |
 | 1885 | Canadian Pacific Railway completed; Electoral Franchise Act passed; North-West Resistance suppressed; Louis Riel executed |
-| 1891 | Died June 6 in Ottawa; state funeral held |
+| 1891 | Died June 6 in Ottawa; state funeral held                                                                                 |
 
 ---
 
@@ -209,88 +209,173 @@ University of Saskatchewan scholars concluded that "John A. Macdonald should not
 ## References
 
 [^1]: [John A. Macdonald - Wikipedia](https://en.wikipedia.org/wiki/John_A._Macdonald)
+
 [^2]: [Sir John Macdonald | Canada's 1st Prime Minister, Father of Confederation | Britannica](https://www.britannica.com/biography/John-Alexander-Macdonald)
+
 [^3]: [MACDONALD, Sir JOHN ALEXANDER – Dictionary of Canadian Biography](https://www.biographi.ca/en/bio/macdonald_john_alexander_12E.html)
+
 [^4]: [Sir John A. Macdonald: Biography on Undiscovered Scotland](https://www.undiscoveredscotland.co.uk/usbiography/mac/johnamacdonald.html)
+
 [^5]: [Macdonald, Sir John A. (1815-1891) | Queen's Encyclopedia](https://www.queensu.ca/encyclopedia/m/macdonald-sir-john)
+
 [^6]: [Sir John A. Macdonald | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/sir-john-alexander-macdonald)
+
 [^7]: [John A. Macdonald, The Indispensable Politician | Macdonald-Laurier Institute](https://macdonaldlaurier.ca/confederation-project/john-a-macdonald/)
+
 [^8]: [John A. Macdonald - CBC History](https://www.cbc.ca/history/EPCONTENTSE1EP8CH3PA1LE.html)
+
 [^9]: [Sir John A. Macdonald (1815-1891) National Historic Person](https://parks.canada.ca/culture/designation/personnage-person/john-a-macdonald)
+
 [^10]: [The Politician - Sir John A. Macdonald: Canada's Patriot Statesman](https://epe.lac-bac.gc.ca/100/201/301/communique_bac/2009/02-10/sir-john-a-macdonald/023013-2000-e.html)
+
 [^11]: [Sir John A. Macdonald – Dictionary of Canadian Biography](https://www.biographi.ca/en/theme_macdonald.html)
+
 [^12]: [4.2 John A. Macdonald's Canada – Canadian History: Post-Confederation](https://opentextbc.ca/postconfederation/chapter/4-2-john-a-macdonalds-canada/)
+
 [^13]: [John A. Macdonald: the Chieftain](https://macdonaldlaurier.ca/mli-files/pdf/201502FEBRUARYInside%20PolicyPLAMONDON.pdf)
+
 [^14]: [Canada History Politics Prime Ministers John A Macdonald](https://canadahistory.com/sections/politics/Prime_Ministers/John_A_Macdonald.html)
+
 [^15]: [Sir John A. Macdonald, Speech in the Confederation Debates – February 6, 1865 | Macdonald-Laurier Institute](https://macdonaldlaurier.ca/18745/)
+
 [^16]: [Canada A Country by Consent: Confederation: John A. Macdonald](https://www.canadahistoryproject.ca/1867/1867-06-macdonald.html)
+
 [^17]: [Sir John A. Macdonald - CIHE](https://cihe.ca/historical-figures/)
+
 [^18]: [John A. Macdonald - Students | Britannica Kids](https://kids.britannica.com/students/article/John-A-Macdonald/275581)
+
 [^19]: [Sir John A. Macdonald - Canadian Heritage — Google Arts & Culture](https://artsandculture.google.com/exhibit/sir-john-a-macdonald/QRFWD7Z-)
+
 [^20]: [Sir John A. Macdonald – Dictionary of Canadian Biography](https://www.biographi.ca/en/theme_macdonald.html?p=18)
+
 [^21]: [The road of confederation](https://histoiredurailhistory.ca/confederation_en.html)
+
 [^22]: [Important Figures in Canadian Railway History](https://histoiredurailhistory.ca/personnages_en.html)
+
 [^23]: [The Ties that Bind](https://www.mhso.ca/tiesthatbind/BuildingCPR.php)
+
 [^24]: [LESSON 28: Macdonald's National Dream](https://www.cbc.ca/history/LESSONSSE4EP10CH1PA28LE.html)
+
 [^25]: [Canadian Pacific Railway - Wikipedia](https://en.wikipedia.org/wiki/Canadian_Pacific_Railway)
+
 [^26]: [Pacific Scandal - Wikipedia](https://en.wikipedia.org/wiki/Pacific_Scandal)
+
 [^27]: [The Formation of the RCMP | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/the-formation-of-the-rcmp-feature)
+
 [^28]: [Serving and Protecting Canada's Settler Capitalist Status Quo Since 1873](https://rcmpheritage.ca/rcmp-history/origins/serving-and-protecting-canadas-settler-capitalist-status-quo-since-1873/)
+
 [^29]: [Pacific Scandal | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/pacific-scandal)
+
 [^30]: [Pacific Scandal | Political Corruption, Bribery & Scandal | Britannica](https://www.britannica.com/event/Pacific-Scandal)
+
 [^31]: [Canadian Pacific Scandal](http://faculty.marianopolis.edu/c.belanger/quebechistory/encyclopedia/CanadianPacificScandal.htm)
+
 [^32]: [Reconsidering Sir John A. Macdonald](https://haveyoursay.thecounty.ca/sir-john-a-macdonald-truth-and-reconciliation/stories/reconsidering-sir-john-a-macdonald)
+
 [^33]: [Sir John A. MacDonald Fact Sheet](https://educ.queensu.ca/sites/educwww/files/uploaded_files/JAM%20Fact%20Sheet.pdf)
+
 [^34]: [The controversy over Sir John A. Macdonald, Canada's first prime minister, explained | Global News](https://globalnews.ca/news/3693078/sir-john-a-macdonald-controversy-canadas-first-prime-minister/)
+
 [^35]: [LETTER: Macdonald made policy to assimilate Indigenous peoples - Picton Gazette](https://pictongazette.ca/post/letter-macdonald-made-policy-to-assimilate-indigenous-peoples)
+
 [^36]: [Why should Sir John A. take all the blame for Canada's injustices to Indigenous peoples? - The Globe and Mail](https://www.theglobeandmail.com/politics/article-why-should-sir-john-a-take-all-the-blame-for-canadas-injustices-to/)
+
 [^37]: [Sir John 'Aryan' Macdonald Revisited: A Reply to Unreasonable Critics](https://carleton.ca/polisci/wp-content/uploads/Williams.Publication2018_Macdonald-DR-final2.pdf)
+
 [^38]: [Manitoba Act, 1870 - Wikipedia](https://en.wikipedia.org/wiki/Manitoba_Act,_1870)
+
 [^39]: [The Mounties: 150 years of conflict with Indigenous Peoples](https://www.aptnnews.ca/national-news/150-years-conflict-rcmp/)
+
 [^40]: [The North West Mounted Police: Canada's Legendary Law Enforcement Force](https://joinrcmp.ca/north-west-mounted-police/)
+
 [^41]: [Electoral Franchise Act - Wikipedia](https://en.wikipedia.org/wiki/Electoral_Franchise_Act)
+
 [^42]: [John A. Macdonald, "the Chinese" and Racist State Formation](https://jcri.ca/index.php/CRI/article/view/5974/5934)
+
 [^43]: [The Canadian Citizenship Debates: the Franchise Act of 1885](https://womensuffrage.org/?p=21338)
+
 [^44]: [Chapter 2 – A History of the Vote in Canada](https://www.elections.ca/content.aspx?section=res&dir=his/chap2&document=index&lang=e)
+
 [^45]: [Indigenous Suffrage | The Canadian Encyclopedia](https://thecanadianencyclopedia.ca/en/article/indigenous-suffrage)
+
 [^46]: [Sir John Macdonald - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Sir_John_Macdonald)
+
 [^47]: [Today in Canada's Political History: Sir John A. Macdonald marries Isabella Clark](https://nationalnewswatch.com/2022/09/01/today-in-canadas-political-history-sir-john-a-macdonald-marries-isabella-clark)
+
 [^48]: [Isabella Macdonald (Clark) (1809 - 1857) - Genealogy](https://www.geni.com/people/Isabella-Macdonald/6000000003194047509)
+
 [^49]: [Isabella Macdonald - Wikipedia](https://en.wikipedia.org/wiki/Isabella_Macdonald)
+
 [^50]: [Agnes Macdonald, 1st Baroness Macdonald of Earnscliffe - Wikipedia](https://en.wikipedia.org/wiki/Agnes_Macdonald,_1st_Baroness_Macdonald_of_Earnscliffe)
+
 [^51]: [BERNARD, SUSAN AGNES (Macdonald) (Baroness Macdonald, Lady Macdonald) – Dictionary of Canadian Biography](https://www.biographi.ca/en/bio/bernard_susan_agnes_14E.html)
+
 [^52]: [Agnes Macdonald, 1st Baroness Macdonald of Earnscliffe](https://grokipedia.com/page/Agnes_Macdonald,_1st_Baroness_Macdonald_of_Earnscliffe)
+
 [^53]: [Sir John A. Macdonald / SamePassage](https://samepassage.org/sir-john-a-macdonald/)
+
 [^54]: [John A. Macdonald, Alcohol and Gallstones - Ged Martin](https://www.gedmartin.net/martinalia-mainmenu-3/310-john-a-macdonald-alcohol-and-gallstones)
+
 [^55]: [Sir John A. Macdonald, drunk and in flames - Spacing Toronto](https://spacing.ca/toronto/2015/01/06/sir-john-a-macdonald-drunk-flames/)
+
 [^56]: [Sir John A. Macdonald, notorious drinker, honoured with Kingston whisky tasting | Global News](https://globalnews.ca/news/2819245/sir-john-a-macdonald-notorious-drinker-honoured-with-kingston-whiskey-tasting/)
+
 [^57]: [The Many Vices of Sir John A. Macdonald – The Black Creek Growler](https://blackcreekbrewery.wordpress.com/2017/06/22/the-many-vices-of-sir-john-a-macdonald/)
+
 [^58]: [John A. MacDonald and the Bottle | Journal of Canadian Studies](https://utppublishing.com/doi/abs/10.3138/jcs.40.3.162)
+
 [^59]: [John A. Macdonald: Canada's First Prime Minister and His Legacy](https://cedarvia.ca/resources/biographies-settler/john-a-macdonald)
+
 [^60]: [John A. Macdonald should not be forgotten, nor celebrated - University of Saskatchewan](https://news.usask.ca/articles/colleges/2018/john-a.-macdonald-should-not-be-forgotten,-nor-celebrated.php)
+
 [^61]: [Statue of Limitations: John A. Macdonald's very challenging year](https://reviewcanada.ca/magazine/2025/06/statue-of-limitations/)
+
 [^62]: [Beheading Canada's history: The desecration of Sir John A. Macdonald's image | Macdonald-Laurier Institute](https://macdonaldlaurier.ca/beheading-canadas-history-the-desecration-of-sir-john-a-macdonalds-image-in-the-canadian-national-memory/)
+
 [^63]: [Trudeau condemns destruction of Sir John A. Macdonald statue in Montreal](https://www.cbc.ca/amp/1.5706247)
+
 [^64]: [Resurrecting John A. Macdonald statues ignores critical lessons about Canada's history](https://theconversation.com/resurrecting-john-a-macdonald-statues-ignores-critical-lessons-about-canadas-history-259351)
+
 [^65]: [Why Removing Statues of John A. Macdonald (and others) is Not Erasing History](https://marl.mb.ca/blogs/why-removing-statues-of-john-a-macdonald-and-others-is-not-erasing-history/)
+
 [^66]: [Sir John A. Macdonald: National Hero or Architect of Genocide?](https://www.uncomfortableoxford.com/sir-john-a-macdonald-national-hero-or-architect-of-genocide)
+
 [^67]: [The Politician - Sir John A. Macdonald: Canada's Patriot Statesman](https://epe.lac-bac.gc.ca/100/201/301/communique_bac/2009/02-10/sir-john-a-macdonald/023013-2000-e.html)
+
 [^68]: [In Defence of Sir John A. Macdonald and his legacy | Macdonald-Laurier Institute](https://macdonaldlaurier.ca/defence-sir-john-macdonald-legacy/)
+
 [^69]: [130 Prominent Canadians Defend John A. Macdonald's Racist Legacy In Full-Page Ad](https://www.vice.com/en/article/130-prominent-canadians-defend-john-a-macdonalds-racist-legacy-in-full-page-ad/)
+
 [^70]: [Sir John A Macdonald and the fog of cancel culture - Aristotle Foundation](https://aristotlefoundation.org/columns/sir-john-a-macdonald-and-the-fog-of-cancel-culture/)
+
 [^71]: [Sir John A. Macdonald - Canada History Society](https://canadahistorysociety.ca/sir-john-a-macdonald/)
+
 [^72]: [John A. Macdonald, The Indispensable Politician | Macdonald-Laurier Institute](https://macdonaldlaurier.ca/confederation-project/john-a-macdonald/)
+
 [^73]: [4.2 John A. Macdonald's Canada – Canadian History: Post-Confederation](https://opentextbc.ca/postconfederation/chapter/4-2-john-a-macdonalds-canada/)
+
 [^74]: [Sir John A. Macdonald (1815-1891) National Historic Person](https://parks.canada.ca/culture/designation/personnage-person/john-a-macdonald)
+
 [^75]: [John A. Macdonald should not be forgotten, nor celebrated - University of Saskatchewan](https://news.usask.ca/articles/colleges/2018/john-a.-macdonald-should-not-be-forgotten,-nor-celebrated.php)
+
 [^76]: [Resurrecting John A. Macdonald statues ignores critical lessons about Canada's history](https://theconversation.com/resurrecting-john-a-macdonald-statues-ignores-critical-lessons-about-canadas-history-259351)
+
 [^77]: [The controversy over Sir John A. Macdonald, Canada's first prime minister, explained | Global News](https://globalnews.ca/news/3693078/sir-john-a-macdonald-controversy-canadas-first-prime-minister/)
+
 [^78]: [Why Removing Statues of John A. Macdonald (and others) is Not Erasing History](https://marl.mb.ca/blogs/why-removing-statues-of-john-a-macdonald-and-others-is-not-erasing-history/)
+
 [^79]: [Sir John A. Macdonald: National Hero or Architect of Genocide?](https://www.uncomfortableoxford.com/sir-john-a-macdonald-national-hero-or-architect-of-genocide)
+
 [^80]: [John A. Macdonald should not be forgotten, nor celebrated - University of Saskatchewan](https://news.usask.ca/articles/colleges/2018/john-a.-macdonald-should-not-be-forgotten,-nor-celebrated.php)
+
 [^81]: [TOP 11 QUOTES BY JOHN A. MACDONALD | A-Z Quotes](https://www.azquotes.com/author/21336-John_A_Macdonald)
+
 [^82]: [Great Quotes of Sir John A. Macdonald – By George Journal](https://www.bygeorgejournal.ca/?p=961)
+
 [^83]: [Sir John A. Macdonald - Notable quotes from Sir John](https://sites.google.com/a/bobplamondon.com/sir-john-a-macdonald/notable-quotes-from-sir-john)
+
 [^84]: [10 Quotes John A. MacDonald Made About First Nations](https://www.ictinc.ca/blog/10-quotes-john-a.-macdonald-made-about-first-nations)
+
 [^85]: [Reconsidering Sir John A. Macdonald](https://haveyoursay.thecounty.ca/sir-john-a-macdonald-truth-and-reconciliation/stories/reconsidering-sir-john-a-macdonald)
+
 [^86]: [John A. Macdonald - Wikiquote](https://en.wikiquote.org/wiki/John_A._Macdonald)

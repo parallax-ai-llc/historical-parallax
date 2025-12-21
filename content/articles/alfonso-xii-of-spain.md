@@ -185,26 +185,26 @@ Some historians criticize Alfonso's personal conduct, particularly his extramari
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1857 | Born November 28 in Madrid as Prince of Asturias, son of Queen Isabella II |
-| 1865 | Education transferred to Count of Ezpeleta with General Álvarez Osorio as head of studies |
-| 1868 | Forced into exile following the Glorious Revolution that deposed his mother |
-| 1868-1869 | Studies at Collège Stanislas in Paris |
-| 1872 | Continues education at Theresianum in Vienna |
-| 1870 | Mother Queen Isabella II abdicates in his favor on June 25 |
-| 1873 | Attends Royal Military College, Sandhurst, in England |
-| 1874 | Issues Sandhurst Manifesto on December 1; General Martínez Campos proclaims him king on December 29 |
-| 1875 | Arrives in Barcelona January 9; enters Madrid January 14; begins reign at age 17 |
-| 1876 | Participates in final offensive against Carlists; Third Carlist War ends February 28; Constitution of 1876 promulgated |
-| 1878 | Marries Princess María de las Mercedes on January 23; she dies of typhoid fever June 26; survives assassination attempt in October; Ten Years' War in Cuba ends with Pact of Zanjón |
-| 1879 | Survives second assassination attempt in December; marries Archduchess Maria Christina of Austria on November 29 |
-| 1880 | Birth of first daughter, Infanta María de las Mercedes, on September 11; slavery abolition law passed in February |
-| 1882 | Birth of second daughter, Infanta María Teresa, on November 12 |
-| 1883 | Military pronunciamiento against regime fails to disrupt Restoration stability |
-| 1884 | Personally visits victims of Andalusian earthquake |
-| 1885 | Visits cholera-affected areas in summer despite declining health; dies of tuberculosis and dysentery at El Pardo Palace on November 25, three days before his 28th birthday |
-| 1886 | Posthumous son born May 17 as Alfonso XIII, becoming king at birth |
+| Year      | Event                                                                                                                                                                               |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1857      | Born November 28 in Madrid as Prince of Asturias, son of Queen Isabella II                                                                                                          |
+| 1865      | Education transferred to Count of Ezpeleta with General Álvarez Osorio as head of studies                                                                                           |
+| 1868      | Forced into exile following the Glorious Revolution that deposed his mother                                                                                                         |
+| 1868-1869 | Studies at Collège Stanislas in Paris                                                                                                                                               |
+| 1872      | Continues education at Theresianum in Vienna                                                                                                                                        |
+| 1870      | Mother Queen Isabella II abdicates in his favor on June 25                                                                                                                          |
+| 1873      | Attends Royal Military College, Sandhurst, in England                                                                                                                               |
+| 1874      | Issues Sandhurst Manifesto on December 1; General Martínez Campos proclaims him king on December 29                                                                                 |
+| 1875      | Arrives in Barcelona January 9; enters Madrid January 14; begins reign at age 17                                                                                                    |
+| 1876      | Participates in final offensive against Carlists; Third Carlist War ends February 28; Constitution of 1876 promulgated                                                              |
+| 1878      | Marries Princess María de las Mercedes on January 23; she dies of typhoid fever June 26; survives assassination attempt in October; Ten Years' War in Cuba ends with Pact of Zanjón |
+| 1879      | Survives second assassination attempt in December; marries Archduchess Maria Christina of Austria on November 29                                                                    |
+| 1880      | Birth of first daughter, Infanta María de las Mercedes, on September 11; slavery abolition law passed in February                                                                   |
+| 1882      | Birth of second daughter, Infanta María Teresa, on November 12                                                                                                                      |
+| 1883      | Military pronunciamiento against regime fails to disrupt Restoration stability                                                                                                      |
+| 1884      | Personally visits victims of Andalusian earthquake                                                                                                                                  |
+| 1885      | Visits cholera-affected areas in summer despite declining health; dies of tuberculosis and dysentery at El Pardo Palace on November 25, three days before his 28th birthday         |
+| 1886      | Posthumous son born May 17 as Alfonso XIII, becoming king at birth                                                                                                                  |
 
 ---
 
@@ -223,81 +223,159 @@ Some historians criticize Alfonso's personal conduct, particularly his extramari
 ## References
 
 [^1]: [Alfonso XII - Wikipedia](https://en.wikipedia.org/wiki/Alfonso_XII)
+
 [^2]: [Alfonso XII | Reign of Isabella II, Liberalism, Restoration | Britannica](https://www.britannica.com/biography/Alfonso-XII)
+
 [^3]: [Reign of Alfonso XII - Wikipedia](https://en.wikipedia.org/wiki/Reign_of_Alfonso_XII)
+
 [^4]: [Alfonso XII facts for kids](https://kids.kiddle.co/Alfonso_XII)
+
 [^5]: [King Alfonso XII of Spain | Unofficial Royalty](https://www.unofficialroyalty.com/king-alfonso-xii-of-spain/)
+
 [^6]: [Alfonso XII, Prince of Asturias | Heirs to the Throne Project](http://heirstothethrone-project.net/?page_id=969)
+
 [^7]: [Alfons 12 biography. King of spain](https://biographs.org/alfons-12)
+
 [^8]: [Alfonso XII - La Galería de las Colecciones Reales](https://www.galeriadelascoleccionesreales.es/en/monarch/alfonso-xii/5b1e2875-aab7-25c0-08e9-ab641b877c62)
+
 [^9]: [Alfonso XII | Military Wiki | Fandom](https://military-history.fandom.com/wiki/Alfonso_XII)
-[^10]: [Restoration (Spain) - Wikipedia](https://en.wikipedia.org/wiki/Restoration_(Spain))
+
+[^10]: [Restoration (Spain) - Wikipedia](<https://en.wikipedia.org/wiki/Restoration_(Spain)>)
+
 [^11]: [The Restoration, History of Spain | Andalucia.com](https://www.andalucia.com/history/restoration)
+
 [^12]: [Alfonso Xii | Encyclopedia.com](https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/alfonso-xii)
+
 [^13]: [Alfonso XII of Spain – European Royal History](https://europeanroyalhistory.wordpress.com/tag/alfonso-xii-of-spain/)
+
 [^14]: [House of Bourbon (1874–1931)](https://www.bestofspain.es/index.php/en/history/rulers-of-spain/house-of-bourbon-3)
+
 [^15]: [THE BOURBON DYNASTY II - History of Spain](https://historyofspain.es/en/video/the-bourbon-dynasty-ii/)
-[^16]: [Restoration (Spain) - Grokipedia](https://grokipedia.com/page/Restoration_(Spain))
+
+[^16]: [Restoration (Spain) - Grokipedia](<https://grokipedia.com/page/Restoration_(Spain)>)
+
 [^17]: [Restoration of the Bourbon Monarchy in Spain: 1874-1900 - Student Notes](https://www.student-notes.net/restoration-of-the-bourbon-monarchy-in-spain-1874-1900/)
+
 [^18]: [Restoration (Spain) wiki | TheReaderWiki](https://thereaderwiki.com/en/Bourbon_Restoration_in_Spain)
-[^19]: [About: Restoration (Spain)](https://dbpedia.org/page/Restoration_(Spain))
+
+[^19]: [About: Restoration (Spain)](<https://dbpedia.org/page/Restoration_(Spain)>)
+
 [^20]: [The Bourbon Restoration in Spain: A Historical Analysis (1874-1923) - Student Notes](https://www.student-notes.net/the-bourbon-restoration-in-spain-a-historical-analysis-1874-1923/)
+
 [^21]: [Alfonso XIII - Wikipedia](https://en.wikipedia.org/wiki/Alfonso_XIII)
+
 [^22]: [Alfonso XIII, King of Spain / 1.0 / encyclopedic - 1914-1918-Online (WW1) Encyclopedia](https://encyclopedia.1914-1918-online.net/article/alfonso-xiii-king-of-spain/)
+
 [^23]: [Antonio Cánovas del Castillo | Spanish Prime Minister, Author of Spain's 1876 Constitution | Britannica](https://www.britannica.com/biography/Antonio-Canovas-del-Castillo)
-[^24]: [Spanish Constitution of 1876 _ AcademiaLab](https://academia-lab.com/encyclopedia/spanish-constitution-of-1876/)
+
+[^24]: [Spanish Constitution of 1876 \_ AcademiaLab](https://academia-lab.com/encyclopedia/spanish-constitution-of-1876/)
+
 [^25]: [Spanish Constitution of 1876 | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/law/spanish-constitution-1876)
+
 [^26]: [Spain's Restoration Era (1875-1931): Alfonso XII & the Cánovas System - Student Notes](https://www.student-notes.net/spains-restoration-era-1875-1931-alfonso-xii-the-canovas-system/)
+
 [^27]: [Spanish Constitution of 1876: Key Articles and Historical Context - Student Notes](https://www.student-notes.net/spanish-constitution-of-1876-key-articles-and-historical-context/)
+
 [^28]: [Antonio Cánovas del Castillo - Wikipedia](https://en.wikipedia.org/wiki/Antonio_C%C3%A1novas_del_Castillo)
+
 [^29]: [Alfonso XII — Google Arts & Culture](https://artsandculture.google.com/entity/alfonso-xii/m0s2c?hl=en)
+
 [^30]: [Alfonso XII of Spain - Royalpedia](https://royalty.miraheze.org/wiki/Alfonso_XII_of_Spain)
+
 [^31]: [Carlism - Wikipedia](https://en.wikipedia.org/wiki/Carlism)
+
 [^32]: [Carlist wars | Spanish history | Britannica](https://www.britannica.com/event/Carlist-wars)
+
 [^33]: [Third Carlist War - Wikipedia](https://en.wikipedia.org/wiki/Third_Carlist_War)
+
 [^34]: [Carlism | Spanish Monarchist Movement & Civil War | Britannica](https://www.britannica.com/topic/Carlism)
+
 [^35]: [Carlist Civil Wars](https://www.heritage-history.com/index.php?c=resources&s=war-dir&f=wars_carlist)
+
 [^36]: [The Third Carlist War - Spanish Wars](https://www.spanishwars.net/19th-century-third-carlist-war.html)
+
 [^37]: [Carlist Wars - Wikipedia](https://en.wikipedia.org/wiki/Carlist_Wars)
+
 [^38]: [Third Carlist War facts for kids](https://kids.kiddle.co/Third_Carlist_War)
+
 [^39]: [Carlist Wars Unsettle Spain | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/carlist-wars-unsettle-spain)
+
 [^40]: [The Life of Princess María de las Mercedes of Orléans | European Royal History](https://europeanroyalhistory.wordpress.com/2023/10/17/the-life-of-princess-maria-de-las-mercedes-of-orleans/)
+
 [^41]: [María de las Mercedes, Princess of Asturias - Wikipedia](https://en.wikipedia.org/wiki/Mar%C3%ADa_de_las_Mercedes,_Princess_of_Asturias)
+
 [^42]: [Maria Christina of Austria - Wikipedia](https://en.wikipedia.org/wiki/Maria_Christina_of_Austria)
+
 [^43]: [Alfonso Francisco de Asís Fernando Pío Juan María de la Concepción Gregorio Pelayo 'el Pacificador' of Bourbon and Habsburg, King of Spain - Genealogy](https://www.geni.com/people/Alfonso-XII-Rey-de-Espa%C3%B1a/6000000003231194028)
+
 [^44]: [King Alfonso XII and Wives | The Royal Forums](https://www.theroyalforums.com/forums/f190/king-alfonso-xii-and-wives-queen-mercedes-and-queen-maria-cristina-15801.html)
+
 [^45]: [infanta Luisa Fernanda of Spain – European Royal History](https://europeanroyalhistory.wordpress.com/tag/infanta-luisa-fernanda-of-spain/)
+
 [^46]: [Death caused by tuberculosis of the King of Spain, Alfonso XII - Album](https://www.album-online.com/detail/en/MmQ5MDE2MA/death-caused-by-tuberculosis-king-spain-alfonso-xii-1857-1885-alb5432538)
+
 [^47]: [Death caused by tuberculosis of the King of Spain - Alamy](https://www.alamy.com/death-caused-by-tuberculosis-of-the-king-of-spain-alfonso-xii-1857-1885-on-25-november-1885-his-widow-queen-maria-cristina-the-monarchs-second-wife-is-depicted-at-the-head-of-the-bed-illustration-after-the-painting-by-benlliure-y-gil-death-of-don-alfonso-xii-the-last-kiss-chromolithography-historia-general-de-espaa-general-history-of-spain-by-miguel-morayta-volume-ix-madrid-1896-image454242727.html)
+
 [^48]: [The early death of Alfonso XII - Hektoen International](https://hekint.org/2025/07/21/the-early-death-of-alfonso-xii/)
+
 [^49]: [Alfonso XII of Spain - Wikidata](https://www.wikidata.org/wiki/Q32347)
+
 [^50]: [Death caused by tuberculosis of the King of Spain - SuperStock](https://www.superstock.com/asset/death-caused-tuberculosis-king-spain-alfonso-xii-november-his-widow/4409-18763828)
+
 [^51]: [Alfonso X, El Sabio | Hispanic American Historical Review](https://read.dukeupress.edu/hahr/article/48/4/684/157933/Alfonso-X-El-Sabio)
+
 [^52]: [Chronicle of Alfonso X](https://uknowledge.uky.edu/upk_european_history/28/)
+
 [^53]: [THE CROWN AND THE NATION. STUDYING ALFONSO XIII OF SPAIN - Academia.edu](https://www.academia.edu/11974535/THE_CROWN_AND_THE_NATION_STUDYING_ALFONSO_XIII_OF_SPAIN)
+
 [^54]: [Kings of Spain Timeline - Have Fun With History](https://www.havefunwithhistory.com/kings-of-spain-timeline/)
+
 [^55]: [Alfonso XIII of Spain | Heirs to the Throne Project](http://heirstothethrone-project.net/?page_id=2553)
+
 [^56]: [Alfonso XIII | King of Spain, Second Republic | Britannica](https://www.britannica.com/biography/Alfonso-XIII)
+
 [^57]: [Reign of Alfonso XIII - Wikipedia](https://en.wikipedia.org/wiki/Reign_of_Alfonso_XIII)
+
 [^58]: [King Alfonso XIII - Quotes - IMDb](https://m.imdb.com/name/nm0454367/quotes/)
+
 [^59]: [Alfonso X of Castile Quotes and Sayings | Citatis](https://citatis.com/a26815/)
+
 [^60]: [Alfonso the Wise Quotes](https://www.quotes.net/authors/Alfonso+the+Wise)
+
 [^61]: [TOP 5 QUOTES BY ALFONSO X OF CASTILE | A-Z Quotes](https://www.azquotes.com/author/27161-Alfonso_X_of_Castile)
+
 [^62]: [Alfonso X of Castile Quotes - Goodreads](https://www.goodreads.com/author/quotes/8136298.Alfonso_X_of_Castile)
+
 [^63]: [Quotations from Alfonso X | WIST Quotations](https://wist.info/author/alfonso-x/)
+
 [^64]: [Alfonso X: Quotes | Britannica](https://www.britannica.com/quotes/Alfonso-X)
+
 [^65]: [2 Quotes by Alfonso X of Castile](https://www.greatest-quotations.com/search/quotes_by-alfonso_x_of_castile.html)
+
 [^66]: [Felipe VI of Spain Quotes - BrainyQuote](https://www.brainyquote.com/authors/felipe-vi-of-spain-quotes)
+
 [^67]: [Alfonso X of Castile - Lib Quotes](https://libquotes.com/alfonso-x-of-castile)
+
 [^68]: [Alfonso X of Castile - Wikiquote](https://en.wikiquote.org/wiki/Alfonso_X_of_Castile)
+
 [^69]: [Alfonso X of Castile Quotes - Science Quotes](https://todayinsci.com/A/AlfonsoX/AlfonsoX-Quotations.htm)
+
 [^70]: [Alfonso XII - Grokipedia](https://grokipedia.com/page/Alfonso_XII)
+
 [^71]: [Reign of Alfonso XII: Canovist system - Wikiteka](https://www.wikiteka.com/document/reign-of-alfonso-xii-canovist-system-and-the-constitution-of-1876/)
+
 [^72]: [Alfonso XII of Spain: pareja, novia, esposa](https://quienquedaconquien.com/alfonso-xii-of-spain/)
+
 [^173]: Reign of Alfonso XII - Wikipedia
+
 [^174]: Maria Christina of Austria - Wikipedia
+
 [^175]: Alfonso XII - Britannica
+
 [^176]: Reign of Alfonso XII - Wikipedia (derived from historical records)
+
 [^177]: Third Carlist War - Wikipedia
+
 [^178]: Alfonso XII - Wikipedia
+
 [^179]: Spanish Constitution of 1876 - AcademiaLab

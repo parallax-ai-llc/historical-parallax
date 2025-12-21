@@ -159,30 +159,30 @@ Some scholars argue that Chiang's historical significance lies primarily in what
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1887 | Born on October 31 in Xikou, Zhejiang Province |
-| 1895 | Father dies; raised by mother |
-| 1907 | Enters Tokyo Shinbu Gakko (Military Preparatory Academy) in Japan |
-| 1908 | Joins Sun Yat-sen's Tongmenghui revolutionary alliance |
-| 1911 | Returns to China to participate in Xinhai Revolution |
-| 1923 | Travels to Soviet Union; appointed commandant of Whampoa Military Academy |
-| 1925 | Sun Yat-sen dies; Chiang begins consolidating power |
-| 1926 | Launches Northern Expedition to unify China |
-| 1927 | Shanghai Massacre; breaks with Communists and establishes Nanjing government |
-| 1928 | Nominally unifies China; becomes leader of the Republic of China |
-| 1930-1934 | Conducts encirclement campaigns against Communist base areas |
-| 1934 | Launches New Life Movement |
-| 1936 | Xi'an Incident; kidnapped and forced to agree to united front against Japan |
-| 1937 | Second Sino-Japanese War begins; leads Chinese resistance |
-| 1943 | Attends Cairo Conference with Roosevelt and Churchill |
-| 1945 | Japan surrenders; renewed civil war with Communists begins |
-| 1947 | February 28 Incident in Taiwan |
-| 1949 | Retreats to Taiwan after Communist victory on mainland |
-| 1950 | Establishes authoritarian rule on Taiwan; resumes presidency of ROC |
-| 1954 | Signs Mutual Defense Treaty with United States |
-| 1971 | Republic of China loses UN seat to People's Republic of China |
-| 1975 | Dies on April 5 in Taipei at age 87 |
+| Year      | Event                                                                        |
+| --------- | ---------------------------------------------------------------------------- |
+| 1887      | Born on October 31 in Xikou, Zhejiang Province                               |
+| 1895      | Father dies; raised by mother                                                |
+| 1907      | Enters Tokyo Shinbu Gakko (Military Preparatory Academy) in Japan            |
+| 1908      | Joins Sun Yat-sen's Tongmenghui revolutionary alliance                       |
+| 1911      | Returns to China to participate in Xinhai Revolution                         |
+| 1923      | Travels to Soviet Union; appointed commandant of Whampoa Military Academy    |
+| 1925      | Sun Yat-sen dies; Chiang begins consolidating power                          |
+| 1926      | Launches Northern Expedition to unify China                                  |
+| 1927      | Shanghai Massacre; breaks with Communists and establishes Nanjing government |
+| 1928      | Nominally unifies China; becomes leader of the Republic of China             |
+| 1930-1934 | Conducts encirclement campaigns against Communist base areas                 |
+| 1934      | Launches New Life Movement                                                   |
+| 1936      | Xi'an Incident; kidnapped and forced to agree to united front against Japan  |
+| 1937      | Second Sino-Japanese War begins; leads Chinese resistance                    |
+| 1943      | Attends Cairo Conference with Roosevelt and Churchill                        |
+| 1945      | Japan surrenders; renewed civil war with Communists begins                   |
+| 1947      | February 28 Incident in Taiwan                                               |
+| 1949      | Retreats to Taiwan after Communist victory on mainland                       |
+| 1950      | Establishes authoritarian rule on Taiwan; resumes presidency of ROC          |
+| 1954      | Signs Mutual Defense Treaty with United States                               |
+| 1971      | Republic of China loses UN seat to People's Republic of China                |
+| 1975      | Dies on April 5 in Taipei at age 87                                          |
 
 ---
 
@@ -202,120 +202,120 @@ Some scholars argue that Chiang's historical significance lies primarily in what
 
 ## References
 
-[^1]: Taylor, Jay. *The Generalissimo: Chiang Kai-shek and the Struggle for Modern China*. Harvard University Press, 2009.
+[^1]: Taylor, Jay. _The Generalissimo: Chiang Kai-shek and the Struggle for Modern China_. Harvard University Press, 2009.
 
-[^2]: Fenby, Jonathan. *Chiang Kai-shek: China's Generalissimo and the Nation He Lost*. Carroll & Graf, 2003.
+[^2]: Fenby, Jonathan. _Chiang Kai-shek: China's Generalissimo and the Nation He Lost_. Carroll & Graf, 2003.
 
-[^3]: Dreyer, Edward L. *China at War 1901-1949*. Longman, 1995.
+[^3]: Dreyer, Edward L. _China at War 1901-1949_. Longman, 1995.
 
-[^4]: Lary, Diana. *China's Republic*. Cambridge University Press, 2007.
+[^4]: Lary, Diana. _China's Republic_. Cambridge University Press, 2007.
 
-[^5]: Wilbur, C. Martin. *The Nationalist Revolution in China, 1923-1928*. Cambridge University Press, 1984.
+[^5]: Wilbur, C. Martin. _The Nationalist Revolution in China, 1923-1928_. Cambridge University Press, 1984.
 
-[^6]: Eastman, Lloyd E. *The Abortive Revolution: China Under Nationalist Rule, 1927-1937*. Harvard University Press, 1974.
+[^6]: Eastman, Lloyd E. _The Abortive Revolution: China Under Nationalist Rule, 1927-1937_. Harvard University Press, 1974.
 
-[^7]: Jordan, Donald A. *The Northern Expedition: China's National Revolution of 1926-1928*. University Press of Hawaii, 1976.
+[^7]: Jordan, Donald A. _The Northern Expedition: China's National Revolution of 1926-1928_. University Press of Hawaii, 1976.
 
-[^8]: Wakeman, Frederic. *Policing Shanghai 1927-1937*. University of California Press, 1995.
+[^8]: Wakeman, Frederic. _Policing Shanghai 1927-1937_. University of California Press, 1995.
 
-[^9]: Bergère, Marie-Claire. *Sun Yat-sen*. Stanford University Press, 1998.
+[^9]: Bergère, Marie-Claire. _Sun Yat-sen_. Stanford University Press, 1998.
 
-[^10]: Hsi-sheng, Ch'i. *Nationalist China at War: Military Defeats and Political Collapse, 1937-1945*. University of Michigan Press, 1982.
+[^10]: Hsi-sheng, Ch'i. _Nationalist China at War: Military Defeats and Political Collapse, 1937-1945_. University of Michigan Press, 1982.
 
-[^11]: Tuchman, Barbara. *Stilwell and the American Experience in China, 1911-1945*. Macmillan, 1971.
+[^11]: Tuchman, Barbara. _Stilwell and the American Experience in China, 1911-1945_. Macmillan, 1971.
 
-[^12]: Coble, Parks M. *The Shanghai Capitalists and the Nationalist Government, 1927-1937*. Harvard University Council on East Asian Studies, 1980.
+[^12]: Coble, Parks M. _The Shanghai Capitalists and the Nationalist Government, 1927-1937_. Harvard University Council on East Asian Studies, 1980.
 
-[^13]: Dirlik, Arif. "The Ideological Foundations of the New Life Movement: A Study in Counterrevolution." *Journal of Asian Studies* 34.4 (1975): 945-980.
+[^13]: Dirlik, Arif. "The Ideological Foundations of the New Life Movement: A Study in Counterrevolution." _Journal of Asian Studies_ 34.4 (1975): 945-980.
 
-[^14]: Garver, John W. *Chinese-Soviet Relations, 1937-1945: The Diplomacy of Chinese Nationalism*. Oxford University Press, 1988.
+[^14]: Garver, John W. _Chinese-Soviet Relations, 1937-1945: The Diplomacy of Chinese Nationalism_. Oxford University Press, 1988.
 
-[^15]: Westad, Odd Arne. *Decisive Encounters: The Chinese Civil War, 1946-1950*. Stanford University Press, 2003.
+[^15]: Westad, Odd Arne. _Decisive Encounters: The Chinese Civil War, 1946-1950_. Stanford University Press, 2003.
 
-[^16]: Gold, Thomas B. *State and Society in the Taiwan Miracle*. M.E. Sharpe, 1986.
+[^16]: Gold, Thomas B. _State and Society in the Taiwan Miracle_. M.E. Sharpe, 1986.
 
-[^17]: Eastman, Lloyd E. "Nationalist China during the Nanking Decade 1927-1937." *The Cambridge History of China*, Vol. 13. Cambridge University Press, 1986.
+[^17]: Eastman, Lloyd E. "Nationalist China during the Nanking Decade 1927-1937." _The Cambridge History of China_, Vol. 13. Cambridge University Press, 1986.
 
-[^18]: Pepper, Suzanne. *Civil War in China: The Political Struggle, 1945-1949*. University of California Press, 1978.
+[^18]: Pepper, Suzanne. _Civil War in China: The Political Struggle, 1945-1949_. University of California Press, 1978.
 
-[^19]: Perry, Elizabeth J. *Shanghai on Strike: The Politics of Chinese Labor*. Stanford University Press, 1993.
+[^19]: Perry, Elizabeth J. _Shanghai on Strike: The Politics of Chinese Labor_. Stanford University Press, 1993.
 
-[^20]: Edmondson, Robert. "The February 28 Incident and National Identity." *Memories of the Future: National Identity Issues and the Search for a New Taiwan*. M.E. Sharpe, 2002.
+[^20]: Edmondson, Robert. "The February 28 Incident and National Identity." _Memories of the Future: National Identity Issues and the Search for a New Taiwan_. M.E. Sharpe, 2002.
 
-[^21]: Chang, Kia-ngau. *The Inflationary Spiral: The Experience in China, 1939-1950*. MIT Press, 1958.
+[^21]: Chang, Kia-ngau. _The Inflationary Spiral: The Experience in China, 1939-1950_. MIT Press, 1958.
 
-[^22]: Benton, Gregor, and Lin Chun, eds. *Was Mao Really a Monster?: The Academic Response to Chang and Halliday's "Mao: The Unknown Story"*. Routledge, 2010.
+[^22]: Benton, Gregor, and Lin Chun, eds. _Was Mao Really a Monster?: The Academic Response to Chang and Halliday's "Mao: The Unknown Story"_. Routledge, 2010.
 
-[^23]: Martin, Brian G. *The Shanghai Green Gang: Politics and Organized Crime, 1919-1937*. University of California Press, 1996.
+[^23]: Martin, Brian G. _The Shanghai Green Gang: Politics and Organized Crime, 1919-1937_. University of California Press, 1996.
 
-[^24]: Van de Ven, Hans J. *War and Nationalism in China: 1925-1945*. Routledge, 2003.
+[^24]: Van de Ven, Hans J. _War and Nationalism in China: 1925-1945_. Routledge, 2003.
 
-[^25]: Li, Laura Tyson. *Madame Chiang Kai-shek: China's Eternal First Lady*. Atlantic Monthly Press, 2006.
+[^25]: Li, Laura Tyson. _Madame Chiang Kai-shek: China's Eternal First Lady_. Atlantic Monthly Press, 2006.
 
-[^26]: Pakula, Hannah. *The Last Empress: Madame Chiang Kai-shek and the Birth of Modern China*. Simon & Schuster, 2009.
+[^26]: Pakula, Hannah. _The Last Empress: Madame Chiang Kai-shek and the Birth of Modern China_. Simon & Schuster, 2009.
 
-[^27]: Furth, Charlotte, ed. *The Limits of Change: Essays on Conservative Alternatives in Republican China*. Harvard University Press, 1976.
+[^27]: Furth, Charlotte, ed. _The Limits of Change: Essays on Conservative Alternatives in Republican China_. Harvard University Press, 1976.
 
-[^28]: Taylor, Jay. "Chiang Kai-shek's Diary as a Historical Source." *China Review International* 9.1 (2002): 15-33.
+[^28]: Taylor, Jay. "Chiang Kai-shek's Diary as a Historical Source." _China Review International_ 9.1 (2002): 15-33.
 
-[^29]: Crozier, Brian. *The Man Who Lost China: The First Full Biography of Chiang Kai-shek*. Scribner, 1976.
+[^29]: Crozier, Brian. _The Man Who Lost China: The First Full Biography of Chiang Kai-shek_. Scribner, 1976.
 
-[^30]: Taylor, Jay. *The Generalissimo's Son: Chiang Ching-kuo and the Revolutions in China and Taiwan*. Harvard University Press, 2000.
+[^30]: Taylor, Jay. _The Generalissimo's Son: Chiang Ching-kuo and the Revolutions in China and Taiwan_. Harvard University Press, 2000.
 
-[^31]: Mitter, Rana. *Forgotten Ally: China's World War II, 1937-1945*. Houghton Mifflin Harcourt, 2013.
+[^31]: Mitter, Rana. _Forgotten Ally: China's World War II, 1937-1945_. Houghton Mifflin Harcourt, 2013.
 
-[^32]: Wang, T.Y. "Changing Attitudes toward Taiwan Independence." *Taiwan in Troubled Times: Essays on the Chen Shui-bian Era*. Brookings Institution Press, 2008.
+[^32]: Wang, T.Y. "Changing Attitudes toward Taiwan Independence." _Taiwan in Troubled Times: Essays on the Chen Shui-bian Era_. Brookings Institution Press, 2008.
 
-[^33]: Tucker, Nancy Bernkopf. *Taiwan, Hong Kong, and the United States, 1945-1992: Uncertain Friendships*. Twayne Publishers, 1994.
+[^33]: Tucker, Nancy Bernkopf. _Taiwan, Hong Kong, and the United States, 1945-1992: Uncertain Friendships_. Twayne Publishers, 1994.
 
-[^34]: Romanus, Charles F., and Riley Sunderland. *Stilwell's Mission to China*. Center of Military History, United States Army, 1953.
+[^34]: Romanus, Charles F., and Riley Sunderland. _Stilwell's Mission to China_. Center of Military History, United States Army, 1953.
 
-[^35]: Wade, Robert. *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press, 1990.
+[^35]: Wade, Robert. _Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization_. Princeton University Press, 1990.
 
-[^36]: Rigger, Shelley. *Why Taiwan Matters: Small Island, Global Powerhouse*. Rowman & Littlefield, 2011.
+[^36]: Rigger, Shelley. _Why Taiwan Matters: Small Island, Global Powerhouse_. Rowman & Littlefield, 2011.
 
-[^37]: Wakeman, Frederic E. "A Revisionist View of the Nanjing Decade: Confucian Fascism." *The China Quarterly* 150 (1997): 395-432.
+[^37]: Wakeman, Frederic E. "A Revisionist View of the Nanjing Decade: Confucian Fascism." _The China Quarterly_ 150 (1997): 395-432.
 
-[^38]: Shambaugh, David, ed. *Contemporary Taiwan*. Oxford University Press, 1998.
+[^38]: Shambaugh, David, ed. _Contemporary Taiwan_. Oxford University Press, 1998.
 
-[^39]: Fairbank, John K., and Albert Feuerwerker, eds. *The Cambridge History of China, Vol. 13: Republican China 1912-1949, Part 2*. Cambridge University Press, 1986.
+[^39]: Fairbank, John K., and Albert Feuerwerker, eds. _The Cambridge History of China, Vol. 13: Republican China 1912-1949, Part 2_. Cambridge University Press, 1986.
 
-[^40]: Taylor, Jay. "The Generalissimo's Diaries." *Hoover Digest* 2 (2007).
+[^40]: Taylor, Jay. "The Generalissimo's Diaries." _Hoover Digest_ 2 (2007).
 
-[^41]: Kirby, William C. *Germany and Republican China*. Stanford University Press, 1984.
+[^41]: Kirby, William C. _Germany and Republican China_. Stanford University Press, 1984.
 
-[^42]: Tsang, Steve. "Chiang Kai-shek and the Kuomintang's Policy to Reconquer the Chinese Mainland, 1949-1958." *China's Transition from Communism—New Perspectives*. Palgrave Macmillan, 1998.
+[^42]: Tsang, Steve. "Chiang Kai-shek and the Kuomintang's Policy to Reconquer the Chinese Mainland, 1949-1958." _China's Transition from Communism—New Perspectives_. Palgrave Macmillan, 1998.
 
-[^43]: Levine, Steven I. *Anvil of Victory: The Communist Revolution in Manchuria, 1945-1948*. Columbia University Press, 1987.
+[^43]: Levine, Steven I. _Anvil of Victory: The Communist Revolution in Manchuria, 1945-1948_. Columbia University Press, 1987.
 
-[^44]: Cheng, Tun-jen, and Stephan Haggard, eds. *Political Change in Taiwan*. Lynne Rienner Publishers, 1992.
+[^44]: Cheng, Tun-jen, and Stephan Haggard, eds. _Political Change in Taiwan_. Lynne Rienner Publishers, 1992.
 
-[^45]: Kagan, Richard C. "The Politics of Biography: The Case of Chiang Kai-shek." *Biography* 1.4 (1978): 1-21.
+[^45]: Kagan, Richard C. "The Politics of Biography: The Case of Chiang Kai-shek." _Biography_ 1.4 (1978): 1-21.
 
-[^46]: Lary, Diana, and Stephen MacKinnon, eds. *Scars of War: The Impact of Warfare on Modern China*. UBC Press, 2001.
+[^46]: Lary, Diana, and Stephen MacKinnon, eds. _Scars of War: The Impact of Warfare on Modern China_. UBC Press, 2001.
 
-[^47]: Tuchman, Barbara W. *Stilwell and the American Experience in China, 1911-1945*. Grove Press, 2001.
+[^47]: Tuchman, Barbara W. _Stilwell and the American Experience in China, 1911-1945_. Grove Press, 2001.
 
-[^48]: Eastman, Lloyd E. *Seeds of Destruction: Nationalist China in War and Revolution, 1937-1949*. Stanford University Press, 1984.
+[^48]: Eastman, Lloyd E. _Seeds of Destruction: Nationalist China in War and Revolution, 1937-1949_. Stanford University Press, 1984.
 
-[^49]: Lai, Tse-han, Ramon H. Myers, and Wei Wou. *A Tragic Beginning: The Taiwan Uprising of February 28, 1947*. Stanford University Press, 1991.
+[^49]: Lai, Tse-han, Ramon H. Myers, and Wei Wou. _A Tragic Beginning: The Taiwan Uprising of February 28, 1947_. Stanford University Press, 1991.
 
-[^50]: Phillips, Steven E. *Between Assimilation and Independence: The Taiwanese Encounter Nationalist China, 1945-1950*. Stanford University Press, 2003.
+[^50]: Phillips, Steven E. _Between Assimilation and Independence: The Taiwanese Encounter Nationalist China, 1945-1950_. Stanford University Press, 2003.
 
-[^51]: Dreyer, Edward L. "The Transformation of China's Military, 1895-1949." *A Military History of China*. University Press of Kentucky, 2012.
+[^51]: Dreyer, Edward L. "The Transformation of China's Military, 1895-1949." _A Military History of China_. University Press of Kentucky, 2012.
 
-[^52]: Chou, Shun-hsin. *The Chinese Inflation, 1937-1949*. Columbia University Press, 1963.
+[^52]: Chou, Shun-hsin. _The Chinese Inflation, 1937-1949_. Columbia University Press, 1963.
 
-[^53]: Van Slyke, Lyman P. "The Chinese Communist Movement during the Sino-Japanese War 1937-1945." *The Cambridge History of China, Vol. 13*. Cambridge University Press, 1986.
+[^53]: Van Slyke, Lyman P. "The Chinese Communist Movement during the Sino-Japanese War 1937-1945." _The Cambridge History of China, Vol. 13_. Cambridge University Press, 1986.
 
-[^54]: Wachman, Alan M. *Taiwan: National Identity and Democratization*. M.E. Sharpe, 1994.
+[^54]: Wachman, Alan M. _Taiwan: National Identity and Democratization_. M.E. Sharpe, 1994.
 
-[^55]: Spence, Jonathan D. *The Search for Modern China*. W.W. Norton & Company, 1990.
+[^55]: Spence, Jonathan D. _The Search for Modern China_. W.W. Norton & Company, 1990.
 
-[^56]: Yu, Maochun. *The Dragon's War: Allied Operations and the Fate of China, 1937-1947*. Naval Institute Press, 2006.
+[^56]: Yu, Maochun. _The Dragon's War: Allied Operations and the Fate of China, 1937-1947_. Naval Institute Press, 2006.
 
-[^57]: Seagrave, Sterling. *The Soong Dynasty*. Harper & Row, 1985.
+[^57]: Seagrave, Sterling. _The Soong Dynasty_. Harper & Row, 1985.
 
-[^58]: Hsu, Immanuel C.Y. *The Rise of Modern China*. Oxford University Press, 2000.
+[^58]: Hsu, Immanuel C.Y. _The Rise of Modern China_. Oxford University Press, 2000.
 
-[^59]: Hood, Steven J. *The Kuomintang and the Democratization of Taiwan*. Westview Press, 1997.
+[^59]: Hood, Steven J. _The Kuomintang and the Democratization of Taiwan_. Westview Press, 1997.

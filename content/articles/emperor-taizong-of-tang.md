@@ -179,35 +179,35 @@ Critics of great man history argue that focusing on Taizong obscures the contrib
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 598 | Born Li Shimin in Wugong, Shaanxi Province |
-| 613 | Married Empress Zhangsun at age fifteen |
-| 617 | Urged father Li Yuan to rebel against Sui Dynasty; participated in founding campaigns |
-| 618 | Tang Dynasty formally established; Li Yuan became Emperor Gaozu |
-| 620 | Led campaign against Xue Rengao, demonstrating military prowess |
-| 621 | Defeated Wang Shichong and Dou Jiande in decisive battles |
-| 622-624 | Continued campaigns against rival warlords throughout China |
-| 626 | July 2: Xuanwu Gate Incident—killed brothers Li Jiancheng and Li Yuanji |
-| 626 | September 4: Formally ascended throne as Emperor Taizong; began Zhenguan reign era |
-| 628-630 | Campaign against Eastern Turkic Khaganate |
-| 630 | Defeated Eastern Turks; received title "Heavenly Khaghan" |
-| 634-635 | Campaign against Tuyuhun Kingdom |
-| 636 | Death of Empress Zhangsun; Taizong deeply grieved |
-| 637 | Promulgation of Tang Code, comprehensive legal reforms |
-| 638 | Established Hongwen Academy for advanced scholarship |
-| 640-644 | Expansion into Central Asia; subjugation of various kingdoms |
-| 643 | Death of chief remonstrator Wei Zheng |
-| 644-645 | Failed campaigns against Goguryeo (Korea) |
-| 645 | Monk Xuanzang returned from India with Buddhist scriptures |
-| 647-648 | Further military campaigns in Central Asia and Tibet |
-| 649 | July 10: Died at age fifty-one; succeeded by son Li Zhi (Emperor Gaozong) |
+| Year    | Event                                                                                 |
+| ------- | ------------------------------------------------------------------------------------- |
+| 598     | Born Li Shimin in Wugong, Shaanxi Province                                            |
+| 613     | Married Empress Zhangsun at age fifteen                                               |
+| 617     | Urged father Li Yuan to rebel against Sui Dynasty; participated in founding campaigns |
+| 618     | Tang Dynasty formally established; Li Yuan became Emperor Gaozu                       |
+| 620     | Led campaign against Xue Rengao, demonstrating military prowess                       |
+| 621     | Defeated Wang Shichong and Dou Jiande in decisive battles                             |
+| 622-624 | Continued campaigns against rival warlords throughout China                           |
+| 626     | July 2: Xuanwu Gate Incident—killed brothers Li Jiancheng and Li Yuanji               |
+| 626     | September 4: Formally ascended throne as Emperor Taizong; began Zhenguan reign era    |
+| 628-630 | Campaign against Eastern Turkic Khaganate                                             |
+| 630     | Defeated Eastern Turks; received title "Heavenly Khaghan"                             |
+| 634-635 | Campaign against Tuyuhun Kingdom                                                      |
+| 636     | Death of Empress Zhangsun; Taizong deeply grieved                                     |
+| 637     | Promulgation of Tang Code, comprehensive legal reforms                                |
+| 638     | Established Hongwen Academy for advanced scholarship                                  |
+| 640-644 | Expansion into Central Asia; subjugation of various kingdoms                          |
+| 643     | Death of chief remonstrator Wei Zheng                                                 |
+| 644-645 | Failed campaigns against Goguryeo (Korea)                                             |
+| 645     | Monk Xuanzang returned from India with Buddhist scriptures                            |
+| 647-648 | Further military campaigns in Central Asia and Tibet                                  |
+| 649     | July 10: Died at age fifty-one; succeeded by son Li Zhi (Emperor Gaozong)             |
 
 ---
 
 ## Famous Quotes
 
-> "Using copper as a mirror, one can adjust one's appearance; using history as a mirror, one can understand the rise and fall of dynasties; using men as mirrors, one can distinguish right from wrong." 
+> "Using copper as a mirror, one can adjust one's appearance; using history as a mirror, one can understand the rise and fall of dynasties; using men as mirrors, one can distinguish right from wrong."
 
 Context: Reportedly said after the death of Wei Zheng, his most critical advisor, expressing how valuable frank criticism had been to his governance[^114].
 
@@ -232,120 +232,237 @@ Context: Explaining the heavy responsibility of imperial decision-making and why
 ## References
 
 [^1]: Wechsler, Howard J. "Mirror to the Son of Heaven: Wei Cheng at the Court of T'ang T'ai-tsung." Yale University Press, 1974.
+
 [^2]: Twitchett, Denis, ed. "The Cambridge History of China, Volume 3: Sui and T'ang China, 589-906, Part 1." Cambridge University Press, 1979.
+
 [^3]: Graff, David A. "Medieval Chinese Warfare, 300-900." Routledge, 2002.
+
 [^4]: Peterson, Charles A. "Court and Province in Mid- and Late T'ang." Cambridge University Press, 1979.
+
 [^5]: Wright, Arthur F. "The Sui Dynasty: The Unification of China, A.D. 581-617." Alfred A. Knopf, 1978.
+
 [^6]: Fitzgerald, C.P. "Son of Heaven: A Biography of Li Shih-min, Founder of the T'ang Dynasty." Cambridge University Press, 1933.
+
 [^7]: Graff, David A. "The Eurasian Way of War: Military Practice in Seventh-Century China and Byzantium." Routledge, 2016.
+
 [^8]: Dien, Albert E. "Six Dynasties Civilization." Yale University Press, 2007.
+
 [^9]: Pearce, Scott, Audrey Spiro, and Patricia Ebrey, eds. "Culture and Power in the Reconstitution of the Chinese Realm, 200-600." Harvard University Press, 2001.
+
 [^10]: Wechsler, Howard J. "The Founding of the T'ang Dynasty: Kao-tsu." State University of New York Press, 1979.
+
 [^11]: Xiong, Victor Cunrui. "Emperor Yang of the Sui Dynasty: His Life, Times, and Legacy." State University of New York Press, 2006.
+
 [^12]: McMullen, David. "State and Scholars in T'ang China." Cambridge University Press, 1988.
+
 [^13]: "Old Book of Tang" (Jiu Tang Shu), compiled by Liu Xu et al., 945 CE.
+
 [^14]: "New Book of Tang" (Xin Tang Shu), compiled by Ouyang Xiu and Song Qi, 1060 CE.
+
 [^15]: Wechsler, Howard J. "Factionalism in Early T'ang Government." University of Arizona Press, 1979.
+
 [^16]: Sima Guang. "Comprehensive Mirror in Aid of Governance" (Zizhi Tongjian), 1084 CE.
+
 [^17]: Lewis, Mark Edward. "China's Cosmopolitan Empire: The Tang Dynasty." Harvard University Press, 2009.
+
 [^18]: Wu Jing. "Zhenguan Zhengyao" (Essentials of Government in the Zhenguan Era), compiled 8th century CE.
+
 [^19]: Barfield, Thomas J. "The Perilous Frontier: Nomadic Empires and China." Basil Blackwell, 1989.
+
 [^20]: Hansen, Valerie. "The Silk Road: A New History." Oxford University Press, 2012.
+
 [^21]: Holcombe, Charles. "A History of East Asia: From the Origins of Civilization to the Twenty-First Century." Cambridge University Press, 2011.
+
 [^22]: Beckwith, Christopher I. "Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present." Princeton University Press, 2009.
+
 [^23]: Di Cosmo, Nicola. "Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History." Cambridge University Press, 2002.
+
 [^24]: Hucker, Charles O. "A Dictionary of Official Titles in Imperial China." Stanford University Press, 1985.
+
 [^25]: Sun Guodong. "Tang Song Shi Lunwenji" (Collected Essays on Tang and Song History). Hong Kong: Longmen Books, 1980.
+
 [^26]: Johnson, Wallace. "The T'ang Code, Volume I: General Principles." Princeton University Press, 1979.
+
 [^27]: Johnson, Wallace. "The T'ang Code, Volume II: Specific Articles." Princeton University Press, 1997.
+
 [^28]: Twitchett, Denis. "Financial Administration Under the T'ang Dynasty." Cambridge University Press, 1970.
+
 [^29]: Bielenstein, Hans. "The Census of China During the Period 2-742 AD." Bulletin of the Museum of Far Eastern Antiquities, 1947.
+
 [^30]: Chen Yinke. "Sui Tang Zhidu Yuanyuan Luelun Gao" (A Brief Discussion on the Origins of Sui and Tang Institutions). Beijing: Zhonghua Book Company, 2011.
+
 [^31]: Needham, Joseph. "Science and Civilization in China, Volume 4: Physics and Physical Technology, Part 3: Civil Engineering and Nautics." Cambridge University Press, 1971.
+
 [^32]: Lee, Thomas H.C. "Education in Traditional China: A History." Brill, 2000.
+
 [^33]: Pulleyblank, E.G. "The Background of the Rebellion of An Lu-shan." Oxford University Press, 1955.
+
 [^34]: Owen, Stephen. "The Poetry of the Early T'ang." Yale University Press, 1977.
+
 [^35]: Weinstein, Stanley. "Buddhism Under the T'ang." Cambridge University Press, 1987.
+
 [^36]: Wechsler, Howard J. "Mirror to the Son of Heaven: Wei Cheng at the Court of T'ang T'ai-tsung." Yale University Press, 1974.
+
 [^37]: Wu Jing. "Zhenguan Zhengyao." Translation by Thomas Cleary as "The Essential Tang Taizong." Shambhala, 2021.
+
 [^38]: Zhu Xizu. "Tang Taizong yu Xuanwumen Zhi Bian" (Tang Taizong and the Xuanwu Gate Incident). Commercial Press, 1935.
+
 [^39]: Wechsler, Howard J. "The Founding of the T'ang Dynasty: Kao-tsu." State University of New York Press, 1979.
+
 [^40]: "Old Book of Tang" (Jiu Tang Shu), Biography of Li Jiancheng.
+
 [^41]: McMullen, David. "State and Scholars in T'ang China." Cambridge University Press, 1988.
+
 [^42]: Bol, Peter K. "This Culture of Ours: Intellectual Transitions in T'ang and Sung China." Stanford University Press, 1992.
+
 [^43]: Kim, Djun Kil. "The History of Korea, 2nd Edition." Greenwood, 2014.
+
 [^44]: Graff, David A. "Medieval Chinese Warfare, 300-900." Routledge, 2002.
+
 [^45]: Xiong, Victor Cunrui. "Historical Dictionary of Medieval China." Scarecrow Press, 2009.
+
 [^46]: Twitchett, Denis. "The Writing of Official History Under the T'ang." Cambridge University Press, 1992.
+
 [^47]: McMullen, David. "Historical and Literary Theory in the Mid-Eighth Century." Cambridge University Press, 1973.
+
 [^48]: Zhu Xizu. "Tang Taizong zhuan" (Biography of Tang Taizong). Beijing: People's Press, 1984.
+
 [^49]: Beckwith, Christopher I. "The Tibetan Empire in Central Asia." Princeton University Press, 1987.
+
 [^50]: Abramson, Marc S. "Ethnic Identity in Tang China." University of Pennsylvania Press, 2008.
+
 [^51]: Wu Jing. "Zhenguan Zhengyao." Original 8th century compilation.
+
 [^52]: Needham, Joseph. "Science and Civilisation in China, Volume 5: Chemistry and Chemical Technology, Part 2: Spagyrical Discovery and Invention." Cambridge University Press, 1974.
+
 [^53]: Lewis, Mark Edward. "China's Cosmopolitan Empire: The Tang Dynasty." Harvard University Press, 2009.
+
 [^54]: "New Book of Tang" (Xin Tang Shu), Biography of Empress Zhangsun.
+
 [^55]: Rothschild, N. Harry. "Emperor Wu Zhao and Her Pantheon of Devis, Divinities, and Dynastic Mothers." Columbia University Press, 2015.
+
 [^56]: Wechsler, Howard J. "Mirror to the Son of Heaven: Wei Cheng at the Court of T'ang T'ai-tsung." Yale University Press, 1974.
+
 [^57]: "Old Book of Tang" (Jiu Tang Shu), Imperial Annals of Emperor Taizong.
+
 [^58]: McMahon, Keith. "Women Shall Not Rule: Imperial Wives and Concubines in China from Han to Liao." Rowman & Littlefield, 2013.
+
 [^59]: Fitzgerald, C.P. "Son of Heaven: A Biography of Li Shih-min, Founder of the T'ang Dynasty." Cambridge University Press, 1933.
+
 [^60]: Graff, David A. "Medieval Chinese Warfare, 300-900." Routledge, 2002.
+
 [^61]: Lewis, Mark Edward. "China's Cosmopolitan Empire: The Tang Dynasty." Harvard University Press, 2009.
+
 [^62]: Wu Jing. "Zhenguan Zhengyao." 8th century compilation.
+
 [^63]: McMullen, David. "State and Scholars in T'ang China." Cambridge University Press, 1988.
+
 [^64]: Ledderose, Lothar. "Mi Fu and the Classical Tradition of Chinese Calligraphy." Princeton University Press, 1979.
+
 [^65]: Wechsler, Howard J. "Mirror to the Son of Heaven: Wei Cheng at the Court of T'ang T'ai-tsung." Yale University Press, 1974.
+
 [^66]: Lewis, Mark Edward. "China's Cosmopolitan Empire: The Tang Dynasty." Harvard University Press, 2009.
+
 [^67]: Weinstein, Stanley. "Buddhism Under the T'ang." Cambridge University Press, 1987.
+
 [^68]: Wriggins, Sally Hovey. "The Silk Road Journey with Xuanzang." Westview Press, 2004.
+
 [^69]: Needham, Joseph. "Science and Civilisation in China, Volume 5: Chemistry and Chemical Technology." Cambridge University Press, 1974.
+
 [^70]: Bol, Peter K. "This Culture of Ours: Intellectual Transitions in T'ang and Sung China." Stanford University Press, 1992.
+
 [^71]: Hucker, Charles O. "China's Imperial Past: An Introduction to Chinese History and Culture." Stanford University Press, 1975.
+
 [^72]: Johnson, Wallace. "The T'ang Code, Volume I: General Principles." Princeton University Press, 1979.
+
 [^73]: Elman, Benjamin A. "A Cultural History of Civil Examinations in Late Imperial China." University of California Press, 2000.
+
 [^74]: Wu Jing. "Zhenguan Zhengyao." Multiple editions and translations published across East Asia.
+
 [^75]: Jansen, Marius B. "The Making of Modern Japan." Harvard University Press, 2000.
+
 [^76]: Whitfield, Susan. "Life Along the Silk Road." University of California Press, 1999.
+
 [^77]: Barfield, Thomas J. "The Perilous Frontier: Nomadic Empires and China." Basil Blackwell, 1989.
+
 [^78]: Abramson, Marc S. "Ethnic Identity in Tang China." University of Pennsylvania Press, 2008.
+
 [^79]: Owen, Stephen. "The Great Age of Chinese Poetry: The High T'ang." Yale University Press, 1981.
+
 [^80]: Weinstein, Stanley. "Buddhism Under the T'ang." Cambridge University Press, 1987.
+
 [^81]: Twitchett, Denis. "The Writing of Official History Under the T'ang." Cambridge University Press, 1992.
+
 [^82]: "Xi Jinping on Governance." Foreign Languages Press, Beijing, 2014.
+
 [^83]: Yao Dali. "Zhongguo Zhonggu Shehui yu Guojia" (Medieval Chinese Society and State). Beijing University Press, 2018.
+
 [^84]: Xi Jinping. "The Governance of China, Volume II." Foreign Languages Press, Beijing, 2017.
+
 [^85]: Chen Chunsheng. "Zhenguan Zhengzhi yu Xiandai Guanli" (Zhenguan Governance and Modern Management). Guangdong People's Press, 2016.
+
 [^86]: Ye Guangqin, director. "Zhenguan Chang Ge" (The Long Ballad of Zhenguan). Television series, 2007.
+
 [^87]: Bo Yang. "Zhongguo Diwang Huanghou Qinqin Cidian" (Dictionary of Chinese Emperors, Empresses, and Royal Relatives). Yuanliu Publishing, 2000.
+
 [^88]: Twitchett, Denis. "The Writing of Official History Under the T'ang." Cambridge University Press, 1992.
+
 [^89]: Lewis, Mark Edward. "China's Cosmopolitan Empire: The Tang Dynasty." Harvard University Press, 2009.
+
 [^90]: Sima Guang. "Comprehensive Mirror in Aid of Governance" (Zizhi Tongjian), 1084 CE.
+
 [^91]: De Bary, William Theodore, and Irene Bloom. "Sources of Chinese Tradition, Volume I." Columbia University Press, 1999.
+
 [^92]: Bo Yang. "Bo Yang Edition: Zizhi Tongjian" (Bo Yang's Annotated Comprehensive Mirror). Yuanliu Publishing, 1983-1993.
+
 [^93]: Tang Changru. "Wei Jin Nan Bei Chao Sui Tang Shi San Lun" (Three Essays on Wei, Jin, Northern and Southern Dynasties, Sui and Tang History). Wuhan University Press, 1992.
+
 [^94]: Wechsler, Howard J. "Mirror to the Son of Heaven: Wei Cheng at the Court of T'ang T'ai-tsung." Yale University Press, 1974.
+
 [^95]: Twitchett, Denis, ed. "The Cambridge History of China, Volume 3: Sui and T'ang China, 589-906, Part 1." Cambridge University Press, 1979.
+
 [^96]: Wu Jing. "Zhenguan Zhengyao." Translation by Thomas Cleary, Shambhala, 2021.
+
 [^97]: Hucker, Charles O. "A Dictionary of Official Titles in Imperial China." Stanford University Press, 1985.
+
 [^98]: Abramson, Marc S. "Ethnic Identity in Tang China." University of Pennsylvania Press, 2008.
+
 [^99]: Beckwith, Christopher I. "Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present." Princeton University Press, 2009.
+
 [^100]: Bol, Peter K. "Neo-Confucianism in History." Harvard University Asia Center, 2008.
+
 [^101]: Huang Zongxi. "Mingyi Daifang Lu" (A Plan for the Prince). 17th century Qing Dynasty text.
+
 [^102]: Zhu Xizu. "Tang Taizong zhuan" (Biography of Tang Taizong). Beijing: People's Press, 1984.
+
 [^103]: Twitchett, Denis. "The Writing of Official History Under the T'ang." Cambridge University Press, 1992.
+
 [^104]: McMahon, Keith. "Women Shall Not Rule: Imperial Wives and Concubines in China from Han to Liao." Rowman & Littlefield, 2013.
+
 [^105]: Ebrey, Patricia Buckley. "The Inner Quarters: Marriage and the Lives of Chinese Women in the Sung Period." University of California Press, 1993.
+
 [^106]: Graff, David A. "Medieval Chinese Warfare, 300-900." Routledge, 2002.
+
 [^107]: Beckwith, Christopher I. "The Tibetan Empire in Central Asia." Princeton University Press, 1987.
+
 [^108]: Golden, Peter B. "Central Asia in World History." Oxford University Press, 2011.
+
 [^109]: Hucker, Charles O. "China's Imperial Past: An Introduction to Chinese History and Culture." Stanford University Press, 1975.
+
 [^110]: Twitchett, Denis. "Financial Administration Under the T'ang Dynasty." Cambridge University Press, 1970.
+
 [^111]: Kuhn, Dieter. "The Age of Confucian Rule: The Song Transformation of China." Harvard University Press, 2009.
+
 [^112]: Wechsler, Howard J. "Mirror to the Son of Heaven: Wei Cheng at the Court of T'ang T'ai-tsung." Yale University Press, 1974.
+
 [^113]: Lewis, Mark Edward. "China's Cosmopolitan Empire: The Tang Dynasty." Harvard University Press, 2009.
+
 [^114]: Wu Jing. "Zhenguan Zhengyao," Chapter on Wei Zheng.
+
 [^115]: Wu Jing. "Zhenguan Zhengyao," Chapter on Selecting Officials.
+
 [^116]: Wu Jing. "Zhenguan Zhengyao," Chapter on Governance Principles.
+
 [^117]: "New Book of Tang" (Xin Tang Shu), Imperial Annals of Emperor Taizong.
+
 [^118]: Wu Jing. "Zhenguan Zhengyao," Chapter on Decision-Making.

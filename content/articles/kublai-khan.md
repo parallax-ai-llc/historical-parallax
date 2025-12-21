@@ -137,31 +137,31 @@ The civil war he fought against his brother Ariq Böke from 1260 to 1264 marked 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1215 | Born on September 23 as the second son of Tolui and grandson of Genghis Khan |
-| 1224 | Participated in first hunt ceremony with grandfather Genghis Khan near the Ili River |
-| 1227 | Genghis Khan died; Kublai was twelve years old |
-| 1236 | Granted a fiefdom of 10,000 households in Hopei (Hebei) province by Great Khan Ögedei |
-| 1240 | Married Chabi of the Khongirad, who became his most beloved empress |
-| 1242 | Met Buddhist monk Hai-yun, who became a close friend and advisor |
-| 1251 | Brother Möngke became Great Khan; Kublai named viceroy of Northern China |
-| 1252-1256 | Conquered the Dali Kingdom in Yunnan on Möngke's orders |
-| 1259 | Möngke Khan died during campaign against Song Dynasty |
-| 1260 | Proclaimed himself Great Khan on May 6; began civil war with brother Ariq Böke; created first unified paper currency (Jiaochao) in August |
-| 1262 | Captured Karakorum from Ariq Böke |
-| 1264 | Ariq Böke surrendered, ending the Toluid Civil War; moved capital to Khanbalik (modern Beijing) |
-| 1268 | Resumed military campaign against Song Dynasty in southern China |
-| 1270 | Conquered part of northern Korea |
-| 1271 | Proclaimed his dynasty the Yuan (Origin) Dynasty |
-| 1274 | First invasion attempt of Japan failed; Song conquest campaign intensified |
-| 1275 | Marco Polo arrived at his court in Xanadu |
-| 1279 | Completed conquest of Song Dynasty, becoming first Mongol to rule all of China |
-| 1281 | Second invasion of Japan failed catastrophically; Empress Chabi died |
-| 1285 | Heir apparent Zhenjin died; began personal decline |
-| 1292 | Invasion of Java launched (ultimately failed) |
-| 1293 | Refused to participate in New Year's ceremony due to declining health |
-| 1294 | Died on February 18 at age 78; succeeded by grandson Temür |
+| Year      | Event                                                                                                                                     |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1215      | Born on September 23 as the second son of Tolui and grandson of Genghis Khan                                                              |
+| 1224      | Participated in first hunt ceremony with grandfather Genghis Khan near the Ili River                                                      |
+| 1227      | Genghis Khan died; Kublai was twelve years old                                                                                            |
+| 1236      | Granted a fiefdom of 10,000 households in Hopei (Hebei) province by Great Khan Ögedei                                                     |
+| 1240      | Married Chabi of the Khongirad, who became his most beloved empress                                                                       |
+| 1242      | Met Buddhist monk Hai-yun, who became a close friend and advisor                                                                          |
+| 1251      | Brother Möngke became Great Khan; Kublai named viceroy of Northern China                                                                  |
+| 1252-1256 | Conquered the Dali Kingdom in Yunnan on Möngke's orders                                                                                   |
+| 1259      | Möngke Khan died during campaign against Song Dynasty                                                                                     |
+| 1260      | Proclaimed himself Great Khan on May 6; began civil war with brother Ariq Böke; created first unified paper currency (Jiaochao) in August |
+| 1262      | Captured Karakorum from Ariq Böke                                                                                                         |
+| 1264      | Ariq Böke surrendered, ending the Toluid Civil War; moved capital to Khanbalik (modern Beijing)                                           |
+| 1268      | Resumed military campaign against Song Dynasty in southern China                                                                          |
+| 1270      | Conquered part of northern Korea                                                                                                          |
+| 1271      | Proclaimed his dynasty the Yuan (Origin) Dynasty                                                                                          |
+| 1274      | First invasion attempt of Japan failed; Song conquest campaign intensified                                                                |
+| 1275      | Marco Polo arrived at his court in Xanadu                                                                                                 |
+| 1279      | Completed conquest of Song Dynasty, becoming first Mongol to rule all of China                                                            |
+| 1281      | Second invasion of Japan failed catastrophically; Empress Chabi died                                                                      |
+| 1285      | Heir apparent Zhenjin died; began personal decline                                                                                        |
+| 1292      | Invasion of Java launched (ultimately failed)                                                                                             |
+| 1293      | Refused to participate in New Year's ceremony due to declining health                                                                     |
+| 1294      | Died on February 18 at age 78; succeeded by grandson Temür                                                                                |
 
 ---
 
@@ -186,171 +186,339 @@ Attributed to Kublai Khan, this question represents a deeper inquiry into identi
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Kublai_Khan
+
 [^2]: https://www.britannica.com/biography/Kublai-Khan
+
 [^3]: https://www.ebsco.com/research-starters/biography/kublai-khan
+
 [^4]: https://www.history.com/articles/kublai-khan
+
 [^5]: https://www.worldhistory.org/Kublai_Khan/
+
 [^6]: https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/kublai-khan/
+
 [^7]: https://asiasociety.org/education/mongol-dynasty
+
 [^8]: https://www.biography.com/political-figures/kublai-khan
+
 [^9]: https://education.nationalgeographic.org/resource/kublai-khan/
+
 [^10]: https://www.notablebiographies.com/Ki-Lo/Kublai-Khan.html
+
 [^11]: https://study.com/learn/lesson/kublai-khan-facts-accomplishments.html
+
 [^12]: https://www.ducksters.com/biography/world_leaders/kublai_khan.php
+
 [^13]: https://kids.kiddle.co/Kublai_Khan
+
 [^14]: https://kids.britannica.com/students/article/Kublai-Khan/275334
+
 [^15]: https://www.timetoast.com/timelines/events-throughout-kublai-khan-s-life
+
 [^16]: https://www.worldhistory.org/timeline/Kublai_Khan/
+
 [^17]: https://www.softschools.com/timelines/kublai_khan_timeline/339/
+
 [^18]: https://amazingbibletimeline.com/blog/kublai-khan-ruled-china/
+
 [^19]: https://medium.com/chronicles-of-curiosity/kublai-khan-the-mongol-who-became-emperor-of-china-founding-the-yuan-dynasty-0acdd160458a
+
 [^20]: https://en.wikipedia.org/wiki/Yuan_dynasty
+
 [^21]: https://human.libretexts.org/Bookshelves/History/World_History/Early_World_Civilizations_(Lumen)/09:_The_Mongol_Empire/9.07:_Kublai_Khan
+
 [^22]: https://worldhistoryedu.com/kublai-khan/
+
 [^23]: https://fiveable.me/key-terms/world-history-to-1500/kublai-khan
+
 [^24]: https://www.thecollector.com/kublai-khan-reign-achievements/
+
 [^25]: https://www.theproductiveteacher.com/the-mongol-empire-for-ap-world-history
+
 [^26]: https://factsanddetails.com/japan/cat16/sub107/item494.html
+
 [^27]: https://www.thecollector.com/mongols-invading-japan/
+
 [^28]: https://brainly.com/question/39881460
+
 [^29]: https://www.britannica.com/biography/Kublai-Khan/Unification-of-China
+
 [^30]: https://afe.easia.columbia.edu/mongols/pop/khubilai/chabi_reading.htm
+
 [^31]: https://en.wikipedia.org/wiki/Chabi
+
 [^32]: https://teamqueens.org/chabi/
+
 [^33]: https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/chabi-fl-13th-c
+
 [^34]: https://www.qries.com/How-many-children-did-Kublai-Khan-had-Who-was-Kublai-Khan-s-wife
+
 [^35]: https://marco-polo.fandom.com/wiki/Empress_Chabi
+
 [^36]: https://kolibri.teacherinabox.org.au/modules/en-wikipedia_for_schools-static/wp/k/Kublai_Khan.htm
+
 [^37]: https://solarspell-dls.sfis.asu.edu/mea/wikipedia/wp/k/Kublai_Khan.htm
+
 [^38]: https://www.azquotes.com/author/50435-Kublai_Khan
+
 [^39]: https://www.magicalquote.com/character/kublai-khan/
+
 [^40]: https://www.brainyquote.com/quotes/kublai_khan_262412
+
 [^41]: https://quoteunquote2016.wordpress.com/2017/09/23/kublai-khan/
+
 [^42]: https://quotesgram.com/kublai-khan-quotes/
+
 [^43]: https://quotlr.com/author/kublai-khan
+
 [^44]: https://www.sparknotes.com/poetry/kubla-khan/quotes/
+
 [^45]: https://quotecatalog.com/communicator/kublai-khan
+
 [^46]: https://www.inspiringquotes.us/author/4994-kublai-khan
+
 [^47]: https://www.goodreads.com/work/quotes/6943698-kubla-khan-or-a-vision-in-a-dream
+
 [^48]: https://factsanddetails.com/china/cat2/4sub8/entry-5457.html
+
 [^49]: https://www.worldhistory.org/Xanadu/
+
 [^50]: https://en.wikipedia.org/wiki/Shangdu
+
 [^51]: https://online.kidsdiscover.com/unit/marco-polo/topic/polo-travels-on-behalf-of-kublai-khan
+
 [^52]: https://historum.com/t/marco-polo-xanadu.196820/
+
 [^53]: https://www.history.com/articles/marco-polo
+
 [^54]: https://www.biography.com/history-culture/marco-polo
+
 [^55]: https://memorycherish.com/xanadu-kublai-khan-yuan-dynasty/
+
 [^56]: https://brewminate.com/xanadu-marco-polos-famed-nirvana/
+
 [^57]: https://www.historicmysteries.com/archaeology/xanadu/29981/
+
 [^58]: https://brainly.com/question/27783548
+
 [^59]: https://en-academic.com/dic.nsf/enwiki/128812
+
 [^60]: https://www.classace.io/answers/which-of-the-following-are-examples-of-reforms-during-the-rule-of-kublai-khan-merchant-class-laws-and-extensive-new-roads-religious-tolerance-and-increased-literacy-paper-money-and-a-mongol-alphabet-i
+
 [^61]: https://historyrise.com/the-yuan-dynasty-mongol-rule-over-china/
+
 [^62]: https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/trade-and-currency-under-the-yuan/
+
 [^63]: https://www.degruyterbrill.com/document/doi/10.1515/modi-2023-2007/html?lang=en
+
 [^64]: https://factsanddetails.com/china/cat2/sub90/entry-5492.html
+
 [^65]: https://en.unesco.org/silkroad/countries-alongside-silk-road-routes/mongolia
+
 [^66]: https://historyguild.org/the-yuan-dynasty/
+
 [^67]: https://study.com/academy/lesson/kublai-khan-marco-polo.html
+
 [^68]: https://education.nationalgeographic.org/resource/pax-mongolica/
+
 [^69]: https://en.wikipedia.org/wiki/Marco_Polo
+
 [^70]: https://brainly.com/question/480078
+
 [^71]: https://www.quora.com/How-did-the-Mongols-contribute-to-the-development-of-trade-and-commerce-along-the-Silk-Road-and-what-was-the-impact-of-their-commercial-networks-on-regional-and-global-economies
+
 [^72]: https://homework.study.com/explanation/how-did-kublai-khan-die.html
+
 [^73]: https://yuan-dynasty.weebly.com/kublai-khan-dies-1294.html
+
 [^74]: https://mylens.ai/space/geverlieguitao2025s-workspace-zhsw37/kublai-khans-death-causes-context-god10n
+
 [^75]: https://www.vedantu.com/biography/kublai-khan
+
 [^76]: https://kublaikhan2.weebly.com/death-and-legacy.html
+
 [^77]: https://www.worldhistory.org/image/11204/portrait-of-kublai-khan/
+
 [^78]: https://www.gettyimages.com/photos/kublai-khan
+
 [^79]: https://www.istockphoto.com/photos/kublai-khan
+
 [^80]: https://www.gettyimages.com/photos/emperor-kublai-kahn
+
 [^81]: https://www.istockphoto.com/illustrations/kublai-khan
+
 [^82]: https://theme.npm.edu.tw/khan/Article.aspx?sNo=03009223&lang=2
+
 [^83]: https://www.alamy.com/stock-photo/kublai-khan-portrait.html
+
 [^84]: https://artsandculture.google.com/asset/khubilai-khan-portrait-araniko/ZAFjimQJeb0rPg?hl=en
+
 [^85]: https://www.alamy.com/stock-photo/kublai-khan.html
+
 [^86]: https://www.csusb.edu/inside/article/451906/influences-good-and-bad-genghis-khan-and-kublai-khan-topic-next-modern-china
+
 [^87]: https://www.iseas.edu.sg/wp-content/uploads/pdfs/nscwps25.pdf
+
 [^88]: https://cmrs.ucla.edu/event/kublai-khans-body-marco-polo-and-the-making-of-history/
+
 [^89]: https://www.asianstudies.org/wp-content/uploads/Case-Study-Mongol-Invasions-of-Northeast-Asia-1.pdf
+
 [^90]: https://www.cambridge.org/core/journals/european-review/article/abs/kublai-khan-in-the-eyes-of-marco-polo/DAE80E6C2A151647E19959F687C5192B
+
 [^91]: https://en.wikipedia.org/wiki/Kublai_Khan
+
 [^92]: https://www.britannica.com/biography/Kublai-Khan
+
 [^93]: https://www.history.com/articles/kublai-khan
+
 [^94]: https://www.worldhistory.org/Kublai_Khan/
+
 [^95]: https://education.nationalgeographic.org/resource/kublai-khan/
+
 [^96]: https://www.biography.com/political-figures/kublai-khan
+
 [^97]: https://www.ebsco.com/research-starters/biography/kublai-khan
+
 [^98]: https://www.notablebiographies.com/Ki-Lo/Kublai-Khan.html
+
 [^99]: https://study.com/learn/lesson/kublai-khan-facts-accomplishments.html
+
 [^100]: https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/kublai-khan/
+
 [^101]: https://factsanddetails.com/japan/cat16/sub107/item494.html
+
 [^102]: https://asiasociety.org/education/mongol-dynasty
+
 [^103]: https://www.thecollector.com/mongols-invading-japan/
+
 [^104]: https://brainly.com/question/39881460
+
 [^105]: https://www.britannica.com/biography/Kublai-Khan/Unification-of-China
+
 [^106]: https://afe.easia.columbia.edu/mongols/pop/khubilai/chabi_reading.htm
+
 [^107]: https://en.wikipedia.org/wiki/Chabi
+
 [^108]: https://teamqueens.org/chabi/
+
 [^109]: https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/chabi-fl-13th-c
+
 [^110]: https://www.qries.com/How-many-children-did-Kublai-Khan-had-Who-was-Kublai-Khan-s-wife
+
 [^111]: https://marco-polo.fandom.com/wiki/Empress_Chabi
+
 [^112]: https://kolibri.teacherinabox.org.au/modules/en-wikipedia_for_schools-static/wp/k/Kublai_Khan.htm
+
 [^113]: https://solarspell-dls.sfis.asu.edu/mea/wikipedia/wp/k/Kublai_Khan.htm
+
 [^114]: https://kids.kiddle.co/Kublai_Khan
+
 [^115]: https://www.ducksters.com/biography/world_leaders/kublai_khan.php
+
 [^116]: https://kids.britannica.com/students/article/Kublai-Khan/275334
+
 [^117]: https://homework.study.com/explanation/how-did-kublai-khan-die.html
+
 [^118]: https://yuan-dynasty.weebly.com/kublai-khan-dies-1294.html
+
 [^119]: https://mylens.ai/space/geverlieguitao2025s-workspace-zhsw37/kublai-khans-death-causes-context-god10n
+
 [^120]: https://www.vedantu.com/biography/kublai-khan
+
 [^121]: https://kublaikhan2.weebly.com/death-and-legacy.html
+
 [^122]: https://www.worldhistory.org/Kublai_Khan/
+
 [^123]: https://worldhistoryedu.com/kublai-khan/
+
 [^124]: https://fiveable.me/key-terms/world-history-to-1500/kublai-khan
+
 [^125]: https://www.britannica.com/biography/Kublai-Khan/Legacy
+
 [^126]: https://www.britannica.com/biography/Kublai-Khan/Unification-of-China
+
 [^127]: https://www.thecollector.com/kublai-khan-reign-achievements/
+
 [^128]: https://www.theproductiveteacher.com/the-mongol-empire-for-ap-world-history
+
 [^129]: https://en.wikipedia.org/wiki/Yuan_dynasty
+
 [^130]: https://human.libretexts.org/Bookshelves/History/World_History/Early_World_Civilizations_(Lumen)/09:_The_Mongol_Empire/9.07:_Kublai_Khan
+
 [^131]: https://www.ebsco.com/research-starters/biography/kublai-khan
+
 [^132]: https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/trade-and-currency-under-the-yuan/
+
 [^133]: https://www.degruyterbrill.com/document/doi/10.1515/modi-2023-2007/html?lang=en
+
 [^134]: https://factsanddetails.com/china/cat2/sub90/entry-5492.html
+
 [^135]: https://en.unesco.org/silkroad/countries-alongside-silk-road-routes/mongolia
+
 [^136]: https://factsanddetails.com/china/cat2/4sub8/entry-5457.html
+
 [^137]: https://www.worldhistory.org/Xanadu/
+
 [^138]: https://en.wikipedia.org/wiki/Shangdu
+
 [^139]: https://www.history.com/articles/kublai-khan
+
 [^140]: https://www.biography.com/political-figures/kublai-khan
+
 [^141]: https://medium.com/chronicles-of-curiosity/kublai-khan-the-mongol-who-became-emperor-of-china-founding-the-yuan-dynasty-0acdd160458a
+
 [^142]: https://amazingbibletimeline.com/blog/kublai-khan-ruled-china/
+
 [^143]: https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/kublai-khan/
+
 [^144]: https://www.ebsco.com/research-starters/biography/kublai-khan
+
 [^145]: https://www.csusb.edu/inside/article/451906/influences-good-and-bad-genghis-khan-and-kublai-khan-topic-next-modern-china
+
 [^146]: https://worldhistoryedu.com/kublai-khan/
+
 [^147]: https://www.cambridge.org/core/journals/european-review/article/abs/kublai-khan-in-the-eyes-of-marco-polo/DAE80E6C2A151647E19959F687C5192B
+
 [^148]: https://www.britannica.com/biography/Kublai-Khan/Unification-of-China
+
 [^149]: https://brainly.com/question/27783548
+
 [^150]: https://amazingbibletimeline.com/blog/kublai-khan-ruled-china/
+
 [^151]: https://fiveable.me/key-terms/world-history-to-1500/kublai-khan
+
 [^152]: https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/kublai-khan/
+
 [^153]: https://en.wikipedia.org/wiki/Kublai_Khan
+
 [^154]: https://www.ebsco.com/research-starters/biography/kublai-khan
+
 [^155]: https://factsanddetails.com/japan/cat16/sub107/item494.html
+
 [^156]: https://www.thecollector.com/mongols-invading-japan/
+
 [^157]: https://asiasociety.org/education/mongol-dynasty
+
 [^158]: https://www.britannica.com/biography/Kublai-Khan/Unification-of-China
+
 [^159]: https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/kublai-khan/
+
 [^160]: https://asiasociety.org/education/mongol-dynasty
+
 [^161]: https://factsanddetails.com/japan/cat16/sub107/item494.html
+
 [^162]: https://brainly.com/question/27783548
+
 [^163]: https://homework.study.com/explanation/how-did-kublai-khan-die.html
+
 [^164]: https://www.cambridge.org/core/journals/european-review/article/abs/kublai-khan-in-the-eyes-of-marco-polo/DAE80E6C2A151647E19959F687C5192B
+
 [^165]: https://en.wikipedia.org/wiki/Kublai_Khan
+
 [^166]: https://www.azquotes.com/author/50435-Kublai_Khan
+
 [^167]: https://www.magicalquote.com/character/kublai-khan/
+
 [^168]: https://www.brainyquote.com/quotes/kublai_khan_262412
+
 [^169]: https://quotlr.com/author/kublai-khan

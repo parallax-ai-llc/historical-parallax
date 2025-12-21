@@ -149,32 +149,32 @@ Some analysts argue that by creating a system of market economics combined with 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1904 | Born on August 22 in Guang'an, Sichuan province |
-| 1920 | Traveled to France for work-study program |
-| 1922 | Joined Chinese Socialist Youth League in Paris |
-| 1924 | Became formal member of Chinese Communist Party |
-| 1925-1926 | Studied at Communist University in Moscow |
-| 1934-1935 | Participated in the Long March |
-| 1949 | Communist victory; became regional party leader of southwestern China |
-| 1952 | Summoned to Beijing, appointed vice-premier |
-| 1954 | Became general secretary of the CCP |
-| 1955 | Appointed to the Politburo |
-| 1963 | Led Chinese delegation to Moscow to meet with Khrushchev |
-| 1966-1976 | Cultural Revolution; purged twice by Mao |
-| 1968 | Son Deng Pufang crippled by Red Guards |
-| 1969 | Sent to tractor factory in Jiangxi province |
-| 1973 | First rehabilitation, appointed vice-premier |
-| 1976 | Second purge after Zhou Enlai's death; Mao dies; second rehabilitation begins |
-| 1977 | Officially rehabilitated, returned to posts |
-| 1978 | Became paramount leader; launched Reform and Opening Up policy at Third Plenum |
-| 1979 | Launched Four Modernizations; encouraged one-child policy |
-| 1980 | Established first Special Economic Zones including Shenzhen; suppressed Democracy Wall |
-| 1984 | Signed Sino-British Joint Declaration on Hong Kong handover |
-| 1989 | Ordered military crackdown on Tiananmen Square protests on June 4 |
-| 1992 | Conducted Southern Tour to reinvigorate economic reforms |
-| 1997 | Died on February 19 in Beijing from Parkinson's disease complications |
+| Year      | Event                                                                                  |
+| --------- | -------------------------------------------------------------------------------------- |
+| 1904      | Born on August 22 in Guang'an, Sichuan province                                        |
+| 1920      | Traveled to France for work-study program                                              |
+| 1922      | Joined Chinese Socialist Youth League in Paris                                         |
+| 1924      | Became formal member of Chinese Communist Party                                        |
+| 1925-1926 | Studied at Communist University in Moscow                                              |
+| 1934-1935 | Participated in the Long March                                                         |
+| 1949      | Communist victory; became regional party leader of southwestern China                  |
+| 1952      | Summoned to Beijing, appointed vice-premier                                            |
+| 1954      | Became general secretary of the CCP                                                    |
+| 1955      | Appointed to the Politburo                                                             |
+| 1963      | Led Chinese delegation to Moscow to meet with Khrushchev                               |
+| 1966-1976 | Cultural Revolution; purged twice by Mao                                               |
+| 1968      | Son Deng Pufang crippled by Red Guards                                                 |
+| 1969      | Sent to tractor factory in Jiangxi province                                            |
+| 1973      | First rehabilitation, appointed vice-premier                                           |
+| 1976      | Second purge after Zhou Enlai's death; Mao dies; second rehabilitation begins          |
+| 1977      | Officially rehabilitated, returned to posts                                            |
+| 1978      | Became paramount leader; launched Reform and Opening Up policy at Third Plenum         |
+| 1979      | Launched Four Modernizations; encouraged one-child policy                              |
+| 1980      | Established first Special Economic Zones including Shenzhen; suppressed Democracy Wall |
+| 1984      | Signed Sino-British Joint Declaration on Hong Kong handover                            |
+| 1989      | Ordered military crackdown on Tiananmen Square protests on June 4                      |
+| 1992      | Conducted Southern Tour to reinvigorate economic reforms                               |
+| 1997      | Died on February 19 in Beijing from Parkinson's disease complications                  |
 
 ---
 
@@ -213,145 +213,287 @@ Deng's insistence on adapting policies to Chinese conditions rather than followi
 ## References
 
 [^1]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^2]: [Deng Xiaoping | Biography, Reforms, Transformation of China, & Facts | Britannica](https://www.britannica.com/biography/Deng-Xiaoping)
+
 [^3]: [1989 Tiananmen Square protests and massacre - Wikipedia](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+
 [^4]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)
+
 [^5]: [Deng Xiaoping Biography - Notable Biographies](https://www.notablebiographies.com/De-Du/Deng-Xiaoping.html)
+
 [^6]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^7]: [Deng Xiaoping Biography - Notable Biographies](https://www.notablebiographies.com/De-Du/Deng-Xiaoping.html)
+
 [^8]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^9]: [Deng Xiaoping | Encyclopedia.com](https://www.encyclopedia.com/people/history/chinese-and-taiwanese-history-biographies/deng-xiaoping)
+
 [^10]: [Deng Xiaoping - Alpha History](https://alphahistory.com/chineserevolution/deng-xiaoping/)
+
 [^11]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^12]: [Deng Xiaoping Biography - Notable Biographies](https://www.notablebiographies.com/De-Du/Deng-Xiaoping.html)
+
 [^13]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^14]: [Crossing the River by Feeling the Stones - Asian Studies](https://www.asianstudies.org/publications/eaa/archives/crossing-the-river-by-feeling-the-stones-deng-xiaoping-in-the-making-of-modern-china/)
+
 [^15]: [Deng Xiaoping | Biography, Reforms, Transformation of China, & Facts | Britannica](https://www.britannica.com/biography/Deng-Xiaoping)
+
 [^16]: [World politics explainer: Deng Xiaoping's rise to power](https://theconversation.com/world-politics-explainer-deng-xiaopings-rise-to-power-103032)
+
 [^17]: [Deng Xiaoping | Biography, Reforms, Transformation of China, & Facts | Britannica](https://www.britannica.com/biography/Deng-Xiaoping)
+
 [^18]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^19]: [Commanding Heights: Deng Xiaoping | PBS](https://www.pbs.org/wgbh/commandingheights/shared/minitext/prof_dengxiaoping.html)
+
 [^20]: [Deng Xiaoping | Biography, Reforms, Transformation of China, & Facts | Britannica](https://www.britannica.com/biography/Deng-Xiaoping)
+
 [^21]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^22]: [Deng Xiaoping | Biography, Reforms, Transformation of China, & Facts | Britannica](https://www.britannica.com/biography/Deng-Xiaoping)
+
 [^23]: [FOREIGN POLICY UNDER DENG XIAOPING | Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-5540.html)
+
 [^24]: [Deng Xiaoping | Encyclopedia.com](https://www.encyclopedia.com/people/history/chinese-and-taiwanese-history-biographies/deng-xiaoping)
+
 [^25]: [FOREIGN POLICY UNDER DENG XIAOPING | Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-5540.html)
+
 [^26]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^27]: [Deng Xiaoping - Alpha History](https://alphahistory.com/chineserevolution/deng-xiaoping/)
+
 [^28]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^29]: [Family of Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Deng_Xiaoping)
+
 [^30]: [Deng Xiaoping | Biography, Reforms, Transformation of China, & Facts | Britannica](https://www.britannica.com/biography/Deng-Xiaoping)
+
 [^31]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^32]: [Crossing the River by Feeling the Stones - Asian Studies](https://www.asianstudies.org/publications/eaa/archives/crossing-the-river-by-feeling-the-stones-deng-xiaoping-in-the-making-of-modern-china/)
+
 [^33]: [World politics explainer: Deng Xiaoping's rise to power](https://theconversation.com/world-politics-explainer-deng-xiaopings-rise-to-power-103032)
+
 [^34]: [Reform and opening up - Wikipedia](https://en.wikipedia.org/wiki/Reform_and_opening_up)
+
 [^35]: [Reform and opening up - Wikipedia](https://en.wikipedia.org/wiki/Reform_and_opening_up)
+
 [^36]: [Deng Xiaoping and the Economic Reform | World History](https://courses.lumenlearning.com/suny-worldhistory/chapter/35-1-7-deng-xiaoping-and-the-economic-reform/)
+
 [^37]: [Reform and opening up - Wikipedia](https://en.wikipedia.org/wiki/Reform_and_opening_up)
+
 [^38]: [Reform and opening up - Wikipedia](https://en.wikipedia.org/wiki/Reform_and_opening_up)
+
 [^39]: [Special economic zones of China - Wikipedia](https://en.wikipedia.org/wiki/Special_economic_zones_of_China)
+
 [^40]: [Shenzhen Special Economic Zone - Wikipedia](https://en.wikipedia.org/wiki/Shenzhen_Special_Economic_Zone)
+
 [^41]: [Reform and opening up - Wikipedia](https://en.wikipedia.org/wiki/Reform_and_opening_up)
+
 [^42]: [Special economic zones of China - Wikipedia](https://en.wikipedia.org/wiki/Special_economic_zones_of_China)
+
 [^43]: [Shenzhen - Wikipedia](https://en.wikipedia.org/wiki/Shenzhen)
+
 [^44]: [Reform and opening up - Wikipedia](https://en.wikipedia.org/wiki/Reform_and_opening_up)
+
 [^45]: [Reform and opening up - Wikipedia](https://en.wikipedia.org/wiki/Reform_and_opening_up)
+
 [^46]: [Impact of Deng Xiaoping's Economic Reforms in China](https://pubs.lib.umn.edu/index.php/aisthesis/article/download/6058/3583/34281)
+
 [^47]: [Deng Xiaoping and the Economic Reform | World History](https://courses.lumenlearning.com/suny-worldhistory/chapter/35-1-7-deng-xiaoping-and-the-economic-reform/)
+
 [^48]: [FOREIGN POLICY UNDER DENG XIAOPING | Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-5540.html)
+
 [^49]: [FOREIGN POLICY UNDER DENG XIAOPING | Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-5540.html)
+
 [^50]: [FOREIGN POLICY UNDER DENG XIAOPING | Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-5540.html)
+
 [^51]: [One country, two systems - Wikipedia](https://en.wikipedia.org/wiki/One_country,_two_systems)
+
 [^52]: [One country, two systems - Wikipedia](https://en.wikipedia.org/wiki/One_country,_two_systems)
+
 [^53]: [Hong Kong's Freedoms: What China Promised | Council on Foreign Relations](https://www.cfr.org/backgrounder/hong-kong-freedoms-democracy-protests-china-crackdown)
+
 [^54]: [One country, two systems - Wikipedia](https://en.wikipedia.org/wiki/One_country,_two_systems)
+
 [^55]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^56]: [Cultural Revolution - Wikipedia](https://en.wikipedia.org/wiki/Cultural_Revolution)
+
 [^57]: [Crossing the River by Feeling the Stones - Asian Studies](https://www.asianstudies.org/publications/eaa/archives/crossing-the-river-by-feeling-the-stones-deng-xiaoping-in-the-making-of-modern-china/)
+
 [^58]: [1989 Tiananmen Square protests and massacre - Wikipedia](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+
 [^59]: [Tiananmen Square incident | Britannica](https://www.britannica.com/event/Tiananmen-Square-incident)
+
 [^60]: [1989 Tiananmen Square protests and massacre - Wikipedia](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+
 [^61]: [June 9 Deng speech - Wikipedia](https://en.wikipedia.org/wiki/June_9_Deng_speech)
+
 [^62]: [China Crushes Prodemocracy Demonstration | EBSCO Research](https://www.ebsco.com/research-starters/history/china-crushes-prodemocracy-demonstration-tiananmen-square)
+
 [^63]: [Tiananmen Square, 1989 | U.S. Department of State](https://history.state.gov/milestones/1989-1992/tiananmen-square)
+
 [^64]: [1989 Tiananmen Square protests and massacre - Wikipedia](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+
 [^65]: [PRC at 75: Deng Xiaoping never delivered freedom | Radio Free Asia](https://www.rfa.org/english/news/china/prc-75th-deng-xiaoping-chinese-communist-party-10032024161305.html)
+
 [^66]: [Democracy Wall - Wikipedia](https://en.wikipedia.org/wiki/Democracy_Wall)
+
 [^67]: [Wei Jingsheng: Deng Xiaoping and Economic Development | Bush Center](https://www.bushcenter.org/freedom-collection/wei-jingsheng-deng-xiaoping-and-economic-development)
+
 [^68]: [Democracy Wall - Wikipedia](https://en.wikipedia.org/wiki/Democracy_Wall)
+
 [^69]: [PRC at 75: Deng Xiaoping never delivered freedom | Radio Free Asia](https://www.rfa.org/english/news/china/prc-75th-deng-xiaoping-chinese-communist-party-10032024161305.html)
+
 [^70]: [China: Nipped In The Bud | Human Rights Watch](https://www.hrw.org/reports/2000/china/china009-01.htm)
+
 [^71]: [One-child policy - Wikipedia](https://en.wikipedia.org/wiki/One-child_policy)
+
 [^72]: [China's One-Child Policy | Embryo Project Encyclopedia](https://embryo.asu.edu/pages/chinas-one-child-policy)
+
 [^73]: [One-child policy - Wikipedia](https://en.wikipedia.org/wiki/One-child_policy)
+
 [^74]: [One-child policy - Wikipedia](https://en.wikipedia.org/wiki/One-child_policy)
+
 [^75]: [One-child policy | Britannica](https://www.britannica.com/topic/one-child-policy)
+
 [^76]: [The one child family policy: the good, the bad, and the ugly | PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2126838/)
+
 [^77]: [Legacy of Deng Xiaoping | JSTOR](https://www.jstor.org/stable/4405222)
+
 [^78]: [Assessing Deng Xiaoping | Jacobin](https://jacobin.com/2019/01/deng-xiaoping-china-mao-communist-party)
+
 [^79]: [Editorial Introduction: Assessing Deng Xiaoping's Legacy | JSTOR](https://www.jstor.org/stable/654095)
+
 [^80]: [Deng Xiaoping Biography - Notable Biographies](https://www.notablebiographies.com/De-Du/Deng-Xiaoping.html)
+
 [^81]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^82]: [Family of Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Deng_Xiaoping)
+
 [^83]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^84]: [Deng Xiaoping Biography - Notable Biographies](https://www.notablebiographies.com/De-Du/Deng-Xiaoping.html)
+
 [^85]: [Family of Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Deng_Xiaoping)
+
 [^86]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^87]: [Deng Pufang - Wikipedia](https://en.wikipedia.org/wiki/Deng_Pufang)
+
 [^88]: [Deng Pufang - Wikipedia](https://en.wikipedia.org/wiki/Deng_Pufang)
+
 [^89]: [Deng Rong - Wikipedia](https://en.wikipedia.org/wiki/Deng_Rong)
+
 [^90]: [DENG XIAOPING'S LIFE | Facts and Details](https://factsanddetails.com/china/cat2/sub7/item81.html)
+
 [^91]: [Deng Xiaoping Biography - Notable Biographies](https://www.notablebiographies.com/De-Du/Deng-Xiaoping.html)
+
 [^92]: [Deng's five children became his legs, eyes and ears | The Irish Times](https://www.irishtimes.com/news/deng-s-five-children-became-his-legs-eyes-and-ears-1.44697)
+
 [^93]: [The Man Who Re-Invented China | Origins](https://origins.osu.edu/review/man-who-re-invented-china)
+
 [^94]: [Crossing the River by Feeling the Stones - Asian Studies](https://www.asianstudies.org/publications/eaa/archives/crossing-the-river-by-feeling-the-stones-deng-xiaoping-in-the-making-of-modern-china/)
+
 [^95]: [Deng Xiaoping passed away | Our China Story](https://www.ourchinastory.com/en/14109/Deng-Xiaoping-passed-away)
+
 [^96]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^97]: [The Man Who Re-Invented China | Origins](https://origins.osu.edu/review/man-who-re-invented-china)
+
 [^98]: [To get rich is glorious: how Deng Xiaoping set China on a path to rule the world](https://theconversation.com/to-get-rich-is-glorious-how-deng-xiaoping-set-china-on-a-path-to-rule-the-world-156836)
+
 [^99]: [Deng Xiaoping's legacy on reform is just as relevant today](https://www.chinadailyhk.com/hk/article/591160)
+
 [^100]: [Special economic zones of China - Wikipedia](https://en.wikipedia.org/wiki/Special_economic_zones_of_China)
+
 [^101]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)
+
 [^102]: [1989 Tiananmen Square protests and massacre - Wikipedia](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+
 [^103]: [Assessing Deng Xiaoping | Jacobin](https://jacobin.com/2019/01/deng-xiaoping-china-mao-communist-party)
+
 [^104]: [Deng Xiaoping - Wikipedia](https://en.wikipedia.org/wiki/Deng_Xiaoping)
+
 [^105]: [Deng Xiaoping | Chinese Posters](https://chineseposters.net/themes/dengxiaoping)
+
 [^106]: [Legacy of Deng Xiaoping | JSTOR](https://www.jstor.org/stable/4405222)
+
 [^107]: [China's 40-year history of economic transformation | World Economic Forum](https://www.weforum.org/stories/2025/06/how-china-got-rich-40-year-history-of-economic-transformation/)
+
 [^108]: [China Promises to Correct Human Rights Abuses | EBSCO Research](https://www.ebsco.com/research-starters/history/china-promises-correct-human-rights-abuses)
+
 [^109]: [Deng Xiaoping and the Cold War](https://www.wilsoncenter.org/sites/default/files/media/documents/publication/CWIHPBulletin10_p4.pdf)
+
 [^110]: [Deng Xiaoping and the Transformation of China | Ezra Vogel](https://scholar.harvard.edu/ezravogel/pages/deng-xiaoping-book)
+
 [^111]: [The Man Who Re-Invented China | Origins](https://origins.osu.edu/review/man-who-re-invented-china)
+
 [^112]: [Deng Xiaoping and the Transformation of China | Ezra Vogel](https://scholar.harvard.edu/ezravogel/pages/deng-xiaoping-book)
+
 [^113]: [Deng Xiaoping and the Economic Reform | World History](https://courses.lumenlearning.com/suny-worldhistory/chapter/35-1-7-deng-xiaoping-and-the-economic-reform/)
+
 [^114]: [DENG XIAOPING'S EARLY ECONOMIC REFORMS | Facts and Details](https://factsanddetails.com/china/cat2/sub7/item79.html)
+
 [^115]: [Impact of Deng Xiaoping's Economic Reforms in China](https://pubs.lib.umn.edu/index.php/aisthesis/article/download/6058/3583/34281)
+
 [^116]: [Cultural Revolution - Wikipedia](https://en.wikipedia.org/wiki/Cultural_Revolution)
+
 [^117]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)
+
 [^118]: [Editorial Introduction: Assessing Deng Xiaoping's Legacy | JSTOR](https://www.jstor.org/stable/654095)
+
 [^119]: [Deng Xiaoping: China's greatest statesman? | TheArticle](https://www.thearticle.com/deng-xiaoping-chinas-greatest-statesman)
+
 [^120]: [FOREIGN POLICY UNDER DENG XIAOPING | Facts and Details](https://factsanddetails.com/china/cat2/sub7/entry-5540.html)
+
 [^121]: [One country, two systems - Wikipedia](https://en.wikipedia.org/wiki/One_country,_two_systems)
+
 [^122]: [Crossing the River by Feeling the Stones - Asian Studies](https://www.asianstudies.org/publications/eaa/archives/crossing-the-river-by-feeling-the-stones-deng-xiaoping-in-the-making-of-modern-china/)
+
 [^123]: [Crossing the River by Feeling the Stones - Asian Studies](https://www.asianstudies.org/publications/eaa/archives/crossing-the-river-by-feeling-the-stones-deng-xiaoping-in-the-making-of-modern-china/)
+
 [^124]: [Deng Xiaoping - Chinese Studies | Oxford Bibliographies](https://www.oxfordbibliographies.com/display/document/obo-9780199920082/obo-9780199920082-0064.xml)
+
 [^125]: [1989 Tiananmen Square protests and massacre - Wikipedia](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+
 [^126]: [China Promises to Correct Human Rights Abuses | EBSCO Research](https://www.ebsco.com/research-starters/history/china-promises-correct-human-rights-abuses)
+
 [^127]: [China Crushes Prodemocracy Demonstration | EBSCO Research](https://www.ebsco.com/research-starters/history/china-crushes-prodemocracy-demonstration-tiananmen-square)
+
 [^128]: [Assessing Deng Xiaoping | Jacobin](https://jacobin.com/2019/01/deng-xiaoping-china-mao-communist-party)
+
 [^129]: [Legacy of Deng Xiaoping | JSTOR](https://www.jstor.org/stable/4405222)
+
 [^130]: [Democracy Wall - Wikipedia](https://en.wikipedia.org/wiki/Democracy_Wall)
+
 [^131]: [One-child policy | Britannica](https://www.britannica.com/topic/one-child-policy)
+
 [^132]: [The one child family policy: the good, the bad, and the ugly | PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2126838/)
+
 [^133]: [Editorial Introduction: Assessing Deng Xiaoping's Legacy | JSTOR](https://www.jstor.org/stable/654095)
+
 [^134]: [Assessing Deng Xiaoping | Jacobin](https://jacobin.com/2019/01/deng-xiaoping-china-mao-communist-party)
+
 [^135]: [PRC at 75: Deng Xiaoping never delivered freedom | Radio Free Asia](https://www.rfa.org/english/news/china/prc-75th-deng-xiaoping-chinese-communist-party-10032024161305.html)
+
 [^136]: [Legacy of Deng Xiaoping | JSTOR](https://www.jstor.org/stable/4405222)
+
 [^137]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)
+
 [^138]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)
+
 [^139]: [Compilation of Deng Xiaoping Quotes](https://www.fohb.gov.cn/info/2024-08/20240810211400_5262.html)
+
 [^140]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)
+
 [^141]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)
+
 [^142]: [Crossing the River by Feeling the Stones - Asian Studies](https://www.asianstudies.org/publications/eaa/archives/crossing-the-river-by-feeling-the-stones-deng-xiaoping-in-the-making-of-modern-china/)
+
 [^143]: [Deng Xiaoping - Wikiquote](https://en.wikiquote.org/wiki/Deng_Xiaoping)

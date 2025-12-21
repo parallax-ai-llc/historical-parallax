@@ -27,6 +27,7 @@ The Pinochet regime that followed became one of the most notorious human rights 
 Unlike most of Latin America, Chile had a long tradition of stable democratic governance. Since the 1930s, leftist parties had participated openly in electoral politics, and the Communist Party was one of the largest in the hemisphere. This "exceptional" Chilean democracy would make Allende's election—and his overthrow—particularly shocking.[^4]
 
 **Salvador Allende:**
+
 - A physician and lifelong socialist, Allende ran for president four times
 - First won major political office in the 1930s; served as Minister of Health, Senator, and Senate President
 - Represented a coalition of socialists, communists, and other leftist parties[^5]
@@ -44,6 +45,7 @@ Even before Allende took office, the United States attempted to prevent his conf
 **Track I:** Persuade the Chilean Congress to choose the second-place finisher (conservative Jorge Alessandri)
 
 **Track II:** Promote a military coup before Allende could take office. The CIA:
+
 - Established contact with coup-minded military officers
 - Provided weapons for an attempted kidnapping of Army Commander René Schneider
 - On October 22, 1970, Schneider was shot during the kidnapping attempt and died—but the attack backfired, generating sympathy for constitutional government and ensuring Allende's confirmation[^7]
@@ -53,17 +55,20 @@ Even before Allende took office, the United States attempted to prevent his conf
 Once in office, Allende's Popular Unity (Unidad Popular / UP) government pursued ambitious reforms:
 
 **Nationalizations:**
+
 - Copper mines (Chile's main export, largely owned by US companies)
 - Banks and key industries
 - Land redistribution to peasants
 
 **Social Programs:**
+
 - Free milk for children
 - Expanded education and healthcare
 - Wage increases for workers[^8]
 
 **Opposition and Economic Crisis:**
 By 1972-1973, Chile faced severe economic difficulties:
+
 - Nixon's "make the economy scream" policy: US cut off credit, discouraged foreign investment
 - Internal opposition: strikes by truck owners, merchants, and professionals
 - Inflation soared; shortages spread
@@ -117,11 +122,13 @@ The junta dissolved Congress, outlawed leftist political parties, suspended the 
 In the days and weeks following the coup, the military conducted a systematic campaign of terror:
 
 **Mass Detention:**
+
 - The National Stadium in Santiago was converted into a massive detention center, holding up to 40,000 political prisoners
 - Thousands were processed, interrogated, tortured, and many were executed
 - Similar detention centers operated throughout the country[^16]
 
 **Targeted Killings:**
+
 - The "Caravan of Death" (Caravana de la Muerte) – a military death squad that traveled by helicopter, executing political prisoners in provincial cities
 - 75 confirmed victims of the Caravan alone[^17]
 
@@ -130,6 +137,7 @@ In the days and weeks following the coup, the military conducted a systematic ca
 ### Operation Condor
 
 Chile participated in Operation Condor, a coordinated campaign of political repression among South American military dictatorships (Argentina, Brazil, Bolivia, Paraguay, Uruguay) to track down and eliminate leftist opponents across borders. The operation involved:
+
 - Assassination of exiled dissidents
 - Intelligence sharing between dictatorships
 - US support and coordination
@@ -140,13 +148,13 @@ The most notorious Condor operation was the 1976 car bombing in Washington, D.C.
 
 Over the 17 years of Pinochet's rule:
 
-| Category | Estimated Number |
-|----------|-----------------|
-| Killed or Disappeared | 3,065-3,216 |
-| Tortured | 27,000-38,000 |
-| Politically Imprisoned | 28,000+ |
-| Exiled | 200,000+ |
-| Total Victims | 40,000+ |
+| Category               | Estimated Number |
+| ---------------------- | ---------------- |
+| Killed or Disappeared  | 3,065-3,216      |
+| Tortured               | 27,000-38,000    |
+| Politically Imprisoned | 28,000+          |
+| Exiled                 | 200,000+         |
+| Total Victims          | 40,000+          |
 
 **1,469 bodies remain unfound as of 2023**[^20]
 
@@ -169,17 +177,20 @@ Critics called this "shock therapy" applied under conditions of political terror
 US involvement in the Chilean coup is extensively documented through declassified materials:
 
 ### Before the Coup
+
 - **1970:** CIA spent over $3 million supporting anti-Allende forces in the election
 - **1970:** Track II operations attempted to instigate a military coup
 - **1970-1973:** Economic destabilization; $8+ million to opposition groups, media, and strikers
 - **1971:** Nixon ordered the "make the economy scream" policy[^22]
 
 ### During the Coup
+
 - CIA maintained close intelligence relationships with coup plotters
 - US personnel were aware of coup planning and did not discourage it
 - Washington immediately recognized the new junta[^23]
 
 ### After the Coup
+
 - US provided $463 million in aid within months
 - Continued intelligence cooperation
 - Defended regime in international forums
@@ -191,27 +202,27 @@ US involvement in the Chilean coup is extensively documented through declassifie
 
 ### Popular Unity Government
 
-| Name | Role | Fate |
-|------|------|------|
-| Salvador Allende | President of Chile | Died September 11, 1973 during coup |
-| Víctor Jara | Folk singer, activist | Tortured and murdered in National Stadium |
-| Orlando Letelier | Ambassador/Minister | Assassinated in Washington DC, 1976 |
-| Miguel Enríquez | MIR leader | Killed in shootout, 1974 |
+| Name             | Role                  | Fate                                      |
+| ---------------- | --------------------- | ----------------------------------------- |
+| Salvador Allende | President of Chile    | Died September 11, 1973 during coup       |
+| Víctor Jara      | Folk singer, activist | Tortured and murdered in National Stadium |
+| Orlando Letelier | Ambassador/Minister   | Assassinated in Washington DC, 1976       |
+| Miguel Enríquez  | MIR leader            | Killed in shootout, 1974                  |
 
 ### Military Junta
 
-| Name | Role | Fate |
-|------|------|------|
-| Augusto Pinochet | Army; became dictator | Ruled 1973-1990; died 2006, never convicted |
-| Manuel Contreras | DINA Chief | Convicted of human rights crimes; died in prison 2015 |
-| José Toribio Merino | Navy representative | Died 1996 |
-| Gustavo Leigh | Air Force | Removed 1978 for criticizing Pinochet |
+| Name                | Role                  | Fate                                                  |
+| ------------------- | --------------------- | ----------------------------------------------------- |
+| Augusto Pinochet    | Army; became dictator | Ruled 1973-1990; died 2006, never convicted           |
+| Manuel Contreras    | DINA Chief            | Convicted of human rights crimes; died in prison 2015 |
+| José Toribio Merino | Navy representative   | Died 1996                                             |
+| Gustavo Leigh       | Air Force             | Removed 1978 for criticizing Pinochet                 |
 
 ### US Officials
 
-| Name | Role |
-|------|------|
-| Richard Nixon | US President |
+| Name            | Role                                         |
+| --------------- | -------------------------------------------- |
+| Richard Nixon   | US President                                 |
 | Henry Kissinger | National Security Advisor/Secretary of State |
 
 ---
@@ -229,6 +240,7 @@ US involvement in the Chilean coup is extensively documented through declassifie
 ### Alternative Views (Cold War/Conservative Perspective)
 
 **Anti-Communist Justification:** Supporters of the coup argued that:
+
 - Allende was leading Chile toward Cuban-style communism
 - Economic crisis threatened social order
 - Military intervention prevented civil war
@@ -263,70 +275,102 @@ In 1988, under its own constitution, the Pinochet regime held a plebiscite on wh
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1970 | |
-| September 4 | Allende wins presidential election |
-| October 22 | General René Schneider shot in CIA-backed plot; dies October 25 |
-| November 3 | Allende inaugurated as President |
-| 1971 | |
-| July 11 | Congress unanimously approves copper nationalization |
-| 1972 | |
-| October | "October Strike" by truckers and business owners |
-| 1973 | |
-| June 29 | Failed coup attempt ("Tanquetazo") |
-| August 22 | Congress declares Allende's government unconstitutional |
-| September 11 | Military coup; La Moneda bombed; Allende dies |
-| September 13 | Junta dissolves Congress |
-| 1974 | |
-| June 26 | DINA established |
-| 1976 | |
-| September 21 | Orlando Letelier and Ronni Moffitt assassinated in DC |
-| 1988 | |
-| October 5 | Plebiscite: 55% vote "No" to continued Pinochet rule |
-| 1990 | |
-| March 11 | Pinochet transfers power to President Aylwin |
-| 1998 | |
-| October 16 | Pinochet arrested in London |
-| 2006 | |
-| December 10 | Pinochet dies without facing trial |
-| 2023 | |
-| September 11 | 50th anniversary commemorations |
+| Date         | Event                                                           |
+| ------------ | --------------------------------------------------------------- |
+| 1970         |                                                                 |
+| September 4  | Allende wins presidential election                              |
+| October 22   | General René Schneider shot in CIA-backed plot; dies October 25 |
+| November 3   | Allende inaugurated as President                                |
+| 1971         |                                                                 |
+| July 11      | Congress unanimously approves copper nationalization            |
+| 1972         |                                                                 |
+| October      | "October Strike" by truckers and business owners                |
+| 1973         |                                                                 |
+| June 29      | Failed coup attempt ("Tanquetazo")                              |
+| August 22    | Congress declares Allende's government unconstitutional         |
+| September 11 | Military coup; La Moneda bombed; Allende dies                   |
+| September 13 | Junta dissolves Congress                                        |
+| 1974         |                                                                 |
+| June 26      | DINA established                                                |
+| 1976         |                                                                 |
+| September 21 | Orlando Letelier and Ronni Moffitt assassinated in DC           |
+| 1988         |                                                                 |
+| October 5    | Plebiscite: 55% vote "No" to continued Pinochet rule            |
+| 1990         |                                                                 |
+| March 11     | Pinochet transfers power to President Aylwin                    |
+| 1998         |                                                                 |
+| October 16   | Pinochet arrested in London                                     |
+| 2006         |                                                                 |
+| December 10  | Pinochet dies without facing trial                              |
+| 2023         |                                                                 |
+| September 11 | 50th anniversary commemorations                                 |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - 1973 Chilean Coup d'état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
+
 [^2]: [Britannica - Chile Coup](https://www.britannica.com/event/Chilean-coup-of-1973)
+
 [^3]: [Amnesty International - Chile](https://www.amnesty.org/en/latest/news/2023/09/chile-50-years-pinochet-coup/)
+
 [^4]: [Wikipedia - Chilean Politics](https://en.wikipedia.org/wiki/History_of_Chile)
+
 [^5]: [Wikipedia - Salvador Allende](https://en.wikipedia.org/wiki/Salvador_Allende)
+
 [^6]: [Britannica - 1970 Election](https://www.britannica.com/biography/Salvador-Allende)
+
 [^7]: [Wikipedia - Project FUBELT](https://en.wikipedia.org/wiki/United_States_intervention_in_Chile)
+
 [^8]: [Al Jazeera - Allende's Reforms](https://www.aljazeera.com/news/2023/9/11/chile-coup-50-years)
+
 [^9]: [Zinn Education Project - Economic Destabilization](https://www.zinnedproject.org/news/tdih/coup-in-chile/)
+
 [^10]: [Wikipedia - US Involvement](https://en.wikipedia.org/wiki/United_States_intervention_in_Chile)
+
 [^11]: [The Guardian - Coup Timeline](https://www.theguardian.com/world/2013/sep/07/chile-coup-40-years-allende)
+
 [^12]: [State.gov - Allende's Speech](https://history.state.gov/milestones/1969-1976/chile)
+
 [^13]: [Britannica - La Moneda Attack](https://www.britannica.com/event/Chilean-coup-of-1973)
+
 [^14]: [The Guardian - Autopsy Confirms Suicide](https://www.theguardian.com/world/2011/jul/19/salvador-allende-committed-suicide-autopsy)
+
 [^15]: [Wikipedia - Military Junta](https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile)
+
 [^16]: [Wikipedia - National Stadium](https://en.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Pr%C3%A1danes)
+
 [^17]: [Wikipedia - Caravan of Death](https://en.wikipedia.org/wiki/Caravan_of_Death)
-[^18]: [Wikipedia - DINA](https://en.wikipedia.org/wiki/DINA_(Chile))
+
+[^18]: [Wikipedia - DINA](<https://en.wikipedia.org/wiki/DINA_(Chile)>)
+
 [^19]: [Wikipedia - Operation Condor](https://en.wikipedia.org/wiki/Operation_Condor)
+
 [^20]: [Amnesty - Human Rights Toll](https://www.amnesty.org/en/latest/news/2023/09/chile-50-years-pinochet-coup/)
+
 [^21]: [Wikipedia - Chicago Boys](https://en.wikipedia.org/wiki/Chicago_Boys)
+
 [^22]: [The Collector - CIA Documents](https://www.thecollector.com/1973-chilean-coup-cia/)
+
 [^23]: [Xinhua - US Role](http://www.news.cn/english/2023-09/11/c_1129855958.htm)
+
 [^24]: [Britannica - Kissinger Quote](https://www.britannica.com/topic/Pinochet-regime)
+
 [^25]: [Tricontinental - Allende Legacy](https://thetricontinental.org/allende-coup-1973/)
+
 [^26]: [EBSCO - Symbol of Resistance](https://www.ebscohost.com/academic/chile-1973)
+
 [^27]: [Wikipedia - Rettig Report](https://en.wikipedia.org/wiki/Rettig_Report)
+
 [^28]: [Fandom - Conservative View](https://military-history.fandom.com/wiki/1973_Chilean_coup_d%27%C3%A9tat)
+
 [^29]: [Wikipedia - Economic Debate](https://en.wikipedia.org/wiki/Miracle_of_Chile)
+
 [^30]: [Wikipedia - 1988 Plebiscite](https://en.wikipedia.org/wiki/1988_Chilean_plebiscite)
+
 [^31]: [BBC - Pinochet Arrest](https://www.bbc.com/news/world-latin-america-12227790)
+
 [^32]: [CBC - 50th Anniversary](https://www.cbc.ca/news/world/chile-pinochet-coup-50th-anniversary-1.6962104)
+
 [^33]: [LA Times - Ongoing Legacy](https://www.latimes.com/world-nation/story/2023-09-11/chile-coup-50-years-pinochet)

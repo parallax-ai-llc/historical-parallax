@@ -291,44 +291,44 @@ Historical rankings consistently place Franklin D. Roosevelt among the greatest 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1882 | Born January 30 in Hyde Park, New York |
-| 1896-1900 | Attended Groton School |
-| 1900-1903 | Attended Harvard University |
-| 1905 | Married Eleanor Roosevelt on March 17 |
-| 1906 | Daughter Anna Eleanor Roosevelt born |
-| 1907 | Passed New York bar examination; son James Roosevelt born |
-| 1910 | Elected to New York State Senate |
-| 1913 | Appointed Assistant Secretary of the Navy by President Wilson |
-| 1914 | Son Franklin D. Roosevelt Jr. born |
-| 1916 | Son John Aspinwall Roosevelt born |
-| 1918 | Eleanor discovered Franklin's affair with Lucy Mercer |
-| 1920 | Democratic vice-presidential nominee (lost election) |
-| 1921 | Contracted polio in August at Campobello Island |
-| 1928 | Elected Governor of New York |
-| 1929 | Stock market crash; Great Depression begins |
-| 1932 | Elected President of the United States (first term) |
-| 1933 | Inaugurated March 4; First Hundred Days; First Fireside Chat |
-| 1933 | Took United States off gold standard (April) |
-| 1935 | Social Security Act signed; Wagner Act signed; WPA created |
-| 1936 | Reelected president in landslide victory (second term) |
-| 1937 | Court-packing plan announced and defeated |
-| 1937-38 | Roosevelt Recession |
-| 1938 | Fair Labor Standards Act signed |
-| 1939 | World War II begins in Europe (September) |
-| 1940 | Elected to unprecedented third term |
-| 1941 | Four Freedoms speech (January 6) |
-| 1941 | Lend-Lease Act signed (March) |
-| 1941 | Atlantic Charter with Churchill (August) |
-| 1941 | Pearl Harbor attacked; U.S. enters World War II (December 7-8) |
-| 1942 | Executive Order 9066 authorizing Japanese internment (February) |
-| 1943 | Tehran Conference with Churchill and Stalin (November-December) |
-| 1944 | D-Day invasion of Normandy (June 6) |
-| 1944 | Elected to fourth term (November) |
-| 1945 | Yalta Conference with Churchill and Stalin (February) |
-| 1945 | Died April 12 at Warm Springs, Georgia |
-| 1945 | Germany surrendered (May 8); Japan surrendered (August 15) |
+| Year      | Event                                                           |
+| --------- | --------------------------------------------------------------- |
+| 1882      | Born January 30 in Hyde Park, New York                          |
+| 1896-1900 | Attended Groton School                                          |
+| 1900-1903 | Attended Harvard University                                     |
+| 1905      | Married Eleanor Roosevelt on March 17                           |
+| 1906      | Daughter Anna Eleanor Roosevelt born                            |
+| 1907      | Passed New York bar examination; son James Roosevelt born       |
+| 1910      | Elected to New York State Senate                                |
+| 1913      | Appointed Assistant Secretary of the Navy by President Wilson   |
+| 1914      | Son Franklin D. Roosevelt Jr. born                              |
+| 1916      | Son John Aspinwall Roosevelt born                               |
+| 1918      | Eleanor discovered Franklin's affair with Lucy Mercer           |
+| 1920      | Democratic vice-presidential nominee (lost election)            |
+| 1921      | Contracted polio in August at Campobello Island                 |
+| 1928      | Elected Governor of New York                                    |
+| 1929      | Stock market crash; Great Depression begins                     |
+| 1932      | Elected President of the United States (first term)             |
+| 1933      | Inaugurated March 4; First Hundred Days; First Fireside Chat    |
+| 1933      | Took United States off gold standard (April)                    |
+| 1935      | Social Security Act signed; Wagner Act signed; WPA created      |
+| 1936      | Reelected president in landslide victory (second term)          |
+| 1937      | Court-packing plan announced and defeated                       |
+| 1937-38   | Roosevelt Recession                                             |
+| 1938      | Fair Labor Standards Act signed                                 |
+| 1939      | World War II begins in Europe (September)                       |
+| 1940      | Elected to unprecedented third term                             |
+| 1941      | Four Freedoms speech (January 6)                                |
+| 1941      | Lend-Lease Act signed (March)                                   |
+| 1941      | Atlantic Charter with Churchill (August)                        |
+| 1941      | Pearl Harbor attacked; U.S. enters World War II (December 7-8)  |
+| 1942      | Executive Order 9066 authorizing Japanese internment (February) |
+| 1943      | Tehran Conference with Churchill and Stalin (November-December) |
+| 1944      | D-Day invasion of Normandy (June 6)                             |
+| 1944      | Elected to fourth term (November)                               |
+| 1945      | Yalta Conference with Churchill and Stalin (February)           |
+| 1945      | Died April 12 at Warm Springs, Georgia                          |
+| 1945      | Germany surrendered (May 8); Japan surrendered (August 15)      |
 
 ---
 

@@ -25,12 +25,14 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### Gomułka's Poland
 
 **Władysław Gomułka:**
+
 - Came to power during "Polish October" (1956)
 - Initially: Hope for reform, "Polish road to socialism"
 - But gradually hardened
 - By 1970: Seen as rigid, authoritarian
 
 **Economic situation (late 1960s):**
+
 - Growth slowing
 - Consumer goods scarce
 - Agriculture struggling
@@ -41,6 +43,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### The Price Increases
 
 **December 12, 1970:**
+
 - Government announced major price increases
 - Effective immediately
 - Meat: Up 17%
@@ -59,18 +62,21 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### December 14: Gdańsk
 
 **Morning:**
+
 - Workers at Lenin Shipyard learned of price increases
 - Spontaneous work stoppage began
 - By 6 AM: Strike underway
 - Workers gathered; decided to march
 
 **The march:**
+
 - Thousands of shipyard workers
 - Headed for Communist Party (PZPR) headquarters
 - Joined by workers from other factories
 - Crowd grew to 20,000+
 
 **Afternoon:**
+
 - Workers surrounded the Party building
 - Demanded meeting with officials
 - Clashes with police
@@ -78,6 +84,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 - Party headquarters attacked
 
 **Night:**
+
 - Riots continued
 - Police unable to control
 - Military placed on alert[^6]
@@ -85,12 +92,14 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### December 15-16: Spreading
 
 **December 15:**
+
 - Strikes and protests spread
 - Gdynia, Szczecin, Elbląg joined
 - Railways struck
 - Military deployed
 
 **December 16:**
+
 - Fighting continued in Gdańsk
 - Helicopters over the city
 - Armored vehicles in streets
@@ -102,11 +111,13 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 **The worst day.**
 
 **Gdynia:**
+
 - Workers' shifts were not canceled
 - Commuter trains brought workers toward shipyard
 - Near Gdynia Stocznia station, army waited
 
 **What happened:**
+
 - Workers got off trains
 - Began walking toward shipyard
 - **Soldiers opened fire on unarmed workers**
@@ -115,6 +126,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 - Fighting continued through day
 
 **Other cities:**
+
 - Szczecin: Continued protests
 - Elbląg: Strikes and clashes
 - Tensions high everywhere[^7]
@@ -122,18 +134,22 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### December 18-22: Aftermath
 
 **Strike continued:**
+
 - December 18-19: Szczecin saw heaviest fighting
 - Tanks in streets
 - More deaths
 
 **December 20:**
+
 - Gomułka collapsed (stroke or exhaustion)
 - Emergency Party meeting
 
 **December 20:**
+
 - **Edward Gierek** replaced Gomułka as First Secretary
 
 **December 22:**
+
 - Situation calming
 - Military control established
 - Strikes ending
@@ -145,15 +161,16 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 
 **Official figures (later revised):**
 
-| City | Deaths |
-|------|--------|
-| Gdańsk | 18 |
-| Gdynia | 18+ |
-| Szczecin | 8+ |
-| Elbląg | 2 |
+| City      | Deaths    |
+| --------- | --------- |
+| Gdańsk    | 18        |
+| Gdynia    | 18+       |
+| Szczecin  | 8+        |
+| Elbląg    | 2         |
 | **Total** | **44-45** |
 
 **Some estimates suggest higher:**
+
 - 50-100+ possible
 - Government minimized numbers
 - Full truth emerged only after 1989
@@ -168,18 +185,18 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 
 ### Workers
 
-| Name | Note |
-|------|------|
-| Shipyard workers | Led uprising |
+| Name               | Note                                               |
+| ------------------ | -------------------------------------------------- |
+| Shipyard workers   | Led uprising                                       |
 | Zbigniew Godlewski | Became symbol; photographed carrying fellow worker |
-| Edmund Bałuka | Strike leader; later emigrated |
+| Edmund Bałuka      | Strike leader; later emigrated                     |
 
 ### Government
 
-| Name | Role |
-|------|------|
-| Władysław Gomułka | First Secretary; removed |
-| Edward Gierek | Replaced Gomułka |
+| Name                | Role                                  |
+| ------------------- | ------------------------------------- |
+| Władysław Gomułka   | First Secretary; removed              |
+| Edward Gierek       | Replaced Gomułka                      |
 | Wojciech Jaruzelski | Defense Minister; ordered military in |
 
 ---
@@ -189,6 +206,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### Gierek's Promise
 
 **January 1971:**
+
 - Gierek visited Gdańsk shipyard
 - Famous dialogue with workers:
   - Gierek: "Will you help?"
@@ -202,11 +220,13 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### The Pattern Repeats
 
 **1976:**
+
 - New price increases attempted
 - Protests in Radom, Ursus
 - Workers beaten; Gierek backed down
 
 **1980:**
+
 - Price increases again
 - **Gdańsk shipyard struck again**
 - This time: **Solidarity** formed
@@ -224,11 +244,13 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### Why Did It Happen?
 
 **Economic:**
+
 - Price increases hit workers hard
 - Timing (Christmas) especially cruel
 - Years of frustration
 
 **Political:**
+
 - Workers had no voice
 - Unions were state-controlled
 - Gomułka regime had lost legitimacy
@@ -236,12 +258,14 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### Why Was It So Bloody?
 
 **Government panic:**
+
 - Feared losing control
 - Ordered military response
 - Soldiers often confused, frightened
 - Orders to fire unclear (or all too clear)
 
 **Lack of alternatives:**
+
 - No channels for negotiation
 - No independent unions
 - Only force remained
@@ -249,11 +273,13 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### Did It Matter?
 
 **Immediately:**
+
 - Leadership change (Gomułka → Gierek)
 - Economic concessions
 - But system unchanged
 
 **Long-term:**
+
 - Created martyrs
 - Workers learned: They had power
 - Solidarity would build on this
@@ -266,6 +292,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### Monuments
 
 **Three Crosses Monument (Gdańsk):**
+
 - Erected December 1980
 - At Gdańsk shipyard entrance
 - 42 meters tall
@@ -274,6 +301,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 - Built by workers themselves during Solidarity period
 
 **Annual commemoration:**
+
 - December 16-17 observed
 - Wreaths laid
 - Silence at memorials
@@ -281,6 +309,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### In Memory
 
 **For Poles:**
+
 - December 1970 = Workers' martyrdom
 - Connected to Poznań 1956, Solidarity 1980
 - Part of narrative of resistance
@@ -289,6 +318,7 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 ### In Polish Film
 
 **"Man of Iron" (1981):**
+
 - Andrzej Wajda film
 - Features December 1970 events
 - Won Palme d'Or at Cannes
@@ -299,13 +329,13 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 
 ## Comparison
 
-| Workers' Uprising | Year | Deaths | Outcome |
-|-------------------|------|--------|---------|
-| Poznań | 1956 | 57+ | Led to Gomułka |
-| **December 1970** | **1970** | **44+** | **Led to Gierek** |
-| Solidarity | 1980 | Minimal | Formation of movement |
-| Martial Law | 1981 | ~100 | Military rule |
-| Collapse | 1989 | None | End of communism |
+| Workers' Uprising | Year     | Deaths  | Outcome               |
+| ----------------- | -------- | ------- | --------------------- |
+| Poznań            | 1956     | 57+     | Led to Gomułka        |
+| **December 1970** | **1970** | **44+** | **Led to Gierek**     |
+| Solidarity        | 1980     | Minimal | Formation of movement |
+| Martial Law       | 1981     | ~100    | Military rule         |
+| Collapse          | 1989     | None    | End of communism      |
 
 **Each wave built on the previous.**[^13]
 
@@ -313,37 +343,49 @@ The immediate result was a change of leadership: Władysław Gomułka, who had c
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| December 12, 1970 | Price increases announced |
-| December 14, 1970 | Strikes begin in Gdańsk |
-| December 15, 1970 | Protests spread to other cities |
-| December 16, 1970 | Army deployed; deaths in Gdańsk |
-| December 17, 1970 | "Black Thursday"; Gdynia massacre |
-| December 18-19, 1970 | Szczecin fighting |
-| December 20, 1970 | Gomułka removed; Gierek takes over |
-| December 22, 1970 | Order restored |
-| January 1971 | Gierek visits Gdańsk |
-| June 1976 | New protests (Radom, Ursus) |
-| August 1980 | Gdańsk strikes; Solidarity formed |
-| December 1980 | Three Crosses Monument erected |
-| December 1981 | Martial law declared |
-| 1989 | Communism falls |
+| Date                 | Event                              |
+| -------------------- | ---------------------------------- |
+| December 12, 1970    | Price increases announced          |
+| December 14, 1970    | Strikes begin in Gdańsk            |
+| December 15, 1970    | Protests spread to other cities    |
+| December 16, 1970    | Army deployed; deaths in Gdańsk    |
+| December 17, 1970    | "Black Thursday"; Gdynia massacre  |
+| December 18-19, 1970 | Szczecin fighting                  |
+| December 20, 1970    | Gomułka removed; Gierek takes over |
+| December 22, 1970    | Order restored                     |
+| January 1971         | Gierek visits Gdańsk               |
+| June 1976            | New protests (Radom, Ursus)        |
+| August 1980          | Gdańsk strikes; Solidarity formed  |
+| December 1980        | Three Crosses Monument erected     |
+| December 1981        | Martial law declared               |
+| 1989                 | Communism falls                    |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Polish protests of 1970](https://en.wikipedia.org/wiki/Polish_protests_of_1970)
+
 [^2]: [Libcom - Detailed account](https://libcom.org/library/poland-december-1970)
+
 [^3]: [TVP World - Anniversary](https://tvpworld.com/65689376/poland-commemorates-50-years-since-december-1970-massacre)
+
 [^4]: [Wikipedia - Władysław Gomułka](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka)
+
 [^5]: [Polish History - Price increases](https://polishhistory.pl/december-1970/)
+
 [^6]: [Socialist Alternative - Detailed timeline](https://www.socialistalternative.org/poland-december-1970/)
+
 [^7]: [Swarthmore NVDB - Case study](https://nvdatabase.swarthmore.edu/content/polish-workers-protest-1970)
+
 [^8]: [Marxist.com - Analysis](https://www.marxist.com/poland-december-1970/)
+
 [^9]: [Wikipedia - Casualties](https://en.wikipedia.org/wiki/Polish_protests_of_1970#Casualties)
-[^10]: [Wikipedia - Solidarity](https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union))
+
+[^10]: [Wikipedia - Solidarity](<https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)>)
+
 [^11]: [WordPress - Legacy](https://polishhistory.wordpress.com/december-1970-legacy/)
+
 [^12]: [IMDb - Man of Iron](https://www.imdb.com/title/tt0082757/)
+
 [^13]: [European Remembrance - Context](https://enrs.eu/article/december-1970-poland/)

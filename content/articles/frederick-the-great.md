@@ -123,28 +123,28 @@ Revisionist historians also criticize the long-term consequences of Frederick's 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1712 | Born January 24 in Berlin Palace |
+| Year | Event                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 1712 | Born January 24 in Berlin Palace                                                             |
 | 1730 | Failed escape attempt; imprisoned at Küstrin; witness to execution of Hans Hermann von Katte |
-| 1733 | Married Elisabeth Christine of Brunswick-Bevern |
-| 1736 | Appointed colonel and governor of Ruppin |
-| 1740 | Ascended throne as King of Prussia on May 31; invaded Silesia in December |
-| 1741 | Victory at Battle of Mollwitz (April 10) |
-| 1742 | Victory at Chotusitz; Treaty of Berlin secures Silesia |
-| 1744 | Re-entered War of Austrian Succession (Second Silesian War) |
-| 1745 | Victory at Hohenfriedberg; Treaty of Dresden confirms Silesian possession |
-| 1747 | Completed initial construction of Sanssouci Palace |
-| 1750 | Voltaire arrived at Prussian court (departed 1753) |
-| 1756 | Initiated Seven Years' War by invading Saxony |
-| 1757 | Victories at Rossbach (November 5) and Leuthen (December 5) |
-| 1759 | Devastating defeat at Kunersdorf (August 12) |
-| 1762 | Death of Empress Elizabeth of Russia ("Miracle of the House of Brandenburg") |
-| 1763 | Treaty of Hubertusburg ended Seven Years' War, confirmed Silesian possession |
-| 1772 | First Partition of Poland; Prussia acquired Polish Prussia |
-| 1785 | Formed Fürstenbund (League of Princes) to counter Austrian expansion |
-| 1786 | Died August 17 at Sanssouci Palace |
-| 1991 | Remains finally interred at Sanssouci according to his wishes |
+| 1733 | Married Elisabeth Christine of Brunswick-Bevern                                              |
+| 1736 | Appointed colonel and governor of Ruppin                                                     |
+| 1740 | Ascended throne as King of Prussia on May 31; invaded Silesia in December                    |
+| 1741 | Victory at Battle of Mollwitz (April 10)                                                     |
+| 1742 | Victory at Chotusitz; Treaty of Berlin secures Silesia                                       |
+| 1744 | Re-entered War of Austrian Succession (Second Silesian War)                                  |
+| 1745 | Victory at Hohenfriedberg; Treaty of Dresden confirms Silesian possession                    |
+| 1747 | Completed initial construction of Sanssouci Palace                                           |
+| 1750 | Voltaire arrived at Prussian court (departed 1753)                                           |
+| 1756 | Initiated Seven Years' War by invading Saxony                                                |
+| 1757 | Victories at Rossbach (November 5) and Leuthen (December 5)                                  |
+| 1759 | Devastating defeat at Kunersdorf (August 12)                                                 |
+| 1762 | Death of Empress Elizabeth of Russia ("Miracle of the House of Brandenburg")                 |
+| 1763 | Treaty of Hubertusburg ended Seven Years' War, confirmed Silesian possession                 |
+| 1772 | First Partition of Poland; Prussia acquired Polish Prussia                                   |
+| 1785 | Formed Fürstenbund (League of Princes) to counter Austrian expansion                         |
+| 1786 | Died August 17 at Sanssouci Palace                                                           |
+| 1991 | Remains finally interred at Sanssouci according to his wishes                                |
 
 ---
 
@@ -166,118 +166,232 @@ Revisionist historians also criticize the long-term consequences of Frederick's 
 
 ## References
 
-[^1]: Blanning, Tim. *Frederick the Great: King of Prussia*. Random House, 2016, pp. 12-15.
-[^2]: MacDonough, Giles. *Frederick the Great: A Life in Deed and Letters*. St. Martin's Press, 2001, pp. 25-32.
-[^3]: Asprey, Robert B. *Frederick the Great: The Magnificent Enigma*. Ticknor & Fields, 1986, pp. 18-24.
-[^4]: Ritter, Gerhard. *Frederick the Great: A Historical Profile*. University of California Press, 1968, pp. 28-31.
-[^5]: Blanning, *Frederick the Great*, pp. 45-52.
-[^6]: MacDonough, *Frederick the Great*, pp. 56-60.
-[^7]: Asprey, *Frederick the Great*, pp. 71-78.
-[^8]: Clark, Christopher. *Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947*. Harvard University Press, 2006, pp. 198-201.
-[^9]: Gay, Peter. "The Enlightenment as Medicine and as Cure." *The Age of Enlightenment*, ed. W. H. Barber. Oliver & Boyd, 1967, pp. 375-386.
-[^10]: Blanning, *Frederick the Great*, pp. 89-95.
-[^11]: Hubatsch, Walther. *Frederick the Great of Prussia: Absolutism and Administration*. Thames and Hudson, 1975, pp. 42-45.
-[^12]: Gooch, G. P. *Frederick the Great: The Ruler, the Writer, the Man*. Longmans, 1947, pp. 15-19.
-[^13]: Anderson, M. S. *The War of the Austrian Succession, 1740-1748*. Longman, 1995, pp. 38-52.
-[^14]: Showalter, Dennis E. *The Wars of Frederick the Great*. Longman, 1996, pp. 67-74.
-[^15]: Frederick II. *Political Testament of 1752*. In *Die Politischen Testamente Friedrichs des Großen*, ed. Gustav Berthold Volz. Hobbing, 1920.
-[^16]: Duffy, Christopher. *Frederick the Great: A Military Life*. Routledge, 1985, pp. 42-58.
-[^17]: Henderson, W. O. *Studies in the Economic Policy of Frederick the Great*. Frank Cass, 1963, pp. 112-125.
-[^18]: Browning, Reed. *The War of the Austrian Succession*. St. Martin's Press, 1993, pp. 156-178.
-[^19]: Schroeder, Paul W. *The Transformation of European Politics, 1763-1848*. Oxford University Press, 1994, pp. 11-15.
-[^20]: Rosenberg, Hans. *Bureaucracy, Aristocracy, and Autocracy: The Prussian Experience, 1660-1815*. Harvard University Press, 1958, pp. 78-92.
-[^21]: Hubatsch, *Frederick the Great of Prussia*, pp. 115-134.
-[^22]: Clark, *Iron Kingdom*, pp. 215-228.
-[^23]: Szabo, Franz A. J. *The Seven Years War in Europe, 1756-1763*. Pearson, 2008, pp. 91-95.
-[^24]: Duffy, *Frederick the Great: A Military Life*, pp. 142-168.
-[^25]: Rothenberg, Gunther E. "The Age of Frederick the Great and Napoleon." In *The Laws of War: Constraints on Warfare in the Western World*, ed. Michael Howard et al. Yale University Press, 1994, pp. 86-98.
-[^26]: Szabo, *The Seven Years War in Europe*, pp. 387-402.
-[^27]: Scott, H. M. *The Birth of a Great Power System, 1740-1815*. Pearson, 2006, pp. 156-162.
-[^28]: Chandler, David G. *The Campaigns of Napoleon*. Macmillan, 1966, pp. 133-138.
-[^29]: Gagliardo, John G. *Enlightened Despotism*. Thomas Y. Crowell, 1967, pp. 45-62.
-[^30]: Carsten, F. L. "The Great Elector and the Foundation of the Hohenzollern Despotism." *The English Historical Review* 65, no. 256 (1950): 175-202.
-[^31]: Henderson, *Studies in the Economic Policy*, pp. 89-145.
-[^32]: Gay, Peter. *The Enlightenment: An Interpretation*. Vol. 2, *The Science of Freedom*. W. W. Norton, 1969, pp. 89-126.
-[^33]: Schieder, Theodor. *Frederick the Great*. Translated by Sabina Berkeley and H. M. Scott. Longman, 2000, pp. 234-267.
-[^34]: Blanning, *Frederick the Great*, pp. 412-445.
-[^35]: Lukowski, Jerzy. *The Partitions of Poland: 1772, 1793, 1795*. Longman, 1999, pp. 38-74.
-[^36]: Davies, Norman. *God's Playground: A History of Poland*. Vol. 1. Columbia University Press, 1982, pp. 394-412.
-[^37]: Clark, *Iron Kingdom*, pp. 248-252.
-[^38]: Craig, Gordon A. *The Politics of the Prussian Army, 1640-1945*. Oxford University Press, 1955, pp. 15-42.
-[^39]: Schroeder, *The Transformation of European Politics*, pp. 25-28.
-[^40]: Wehler, Hans-Ulrich. *The German Empire, 1871-1918*. Berg Publishers, 1985, pp. 35-42.
-[^41]: Gagliardo, *Enlightened Despotism*, pp. 78-85.
-[^42]: Rosenberg, *Bureaucracy, Aristocracy, and Autocracy*, pp. 156-178.
-[^43]: Gooch, *Frederick the Great*, pp. 312-328.
-[^44]: MacDonough, *Frederick the Great*, pp. 178-185.
-[^45]: Blanning, *Frederick the Great*, pp. 52-68, 445-467.
-[^46]: Asprey, *Frederick the Great*, pp. 412-425.
-[^47]: Lukowski, *The Partitions of Poland*, pp. 89-112.
-[^48]: Davies, *God's Playground*, Vol. 1, pp. 402-408.
-[^49]: Wandycz, Piotr S. *The Lands of Partitioned Poland, 1795-1918*. University of Washington Press, 1974, pp. 8-15.
-[^50]: Carsten, F. L. *A History of the Prussian Junkers*. Scolar Press, 1989, pp. 67-89.
-[^51]: Hagen, William W. *Ordinary Prussians: Brandenburg Junkers and Villagers, 1500-1840*. Cambridge University Press, 2002, pp. 456-478.
-[^52]: Hubatsch, *Frederick the Great of Prussia*, pp. 189-203.
-[^53]: Blanning, *Frederick the Great*, pp. 112-125.
-[^54]: MacDonough, *Frederick the Great*, pp. 185-192.
-[^55]: Asprey, *Frederick the Great*, pp. 203-210.
-[^56]: Blanning, *Frederick the Great*, pp. 445-467.
-[^57]: Steakley, James D. "Sodomy in Enlightenment Prussia: From Execution to Suicide." In *The Pursuit of Sodomy: Male Homosexuality in Renaissance and Enlightenment Europe*, ed. Kent Gerard and Gert Hekma. Harworth Press, 1989, pp. 163-175.
-[^58]: MacDonough, *Frederick the Great*, pp. 56-68.
-[^59]: Schieder, *Frederick the Great*, pp. 234-256.
-[^60]: Helm, Eugene. *Music at the Court of Frederick the Great*. University of Oklahoma Press, 1960, pp. 45-78.
-[^61]: Besterman, Theodore. *Voltaire*. Harcourt, Brace & World, 1969, pp. 345-378.
-[^62]: Blanning, *Frederick the Great*, pp. 512-534.
-[^63]: Gooch, *Frederick the Great*, pp. 278-295.
-[^64]: Clark, *Iron Kingdom*, pp. 685-687.
-[^65]: Showalter, Dennis E. "The Prusso-German RMA, 1840-1871." In *The Dynamics of Military Revolution, 1300-2050*, ed. MacGregor Knox and Williamson Murray. Cambridge University Press, 2001, pp. 92-113.
-[^66]: Nipperdey, Thomas. *Germany from Napoleon to Bismarck, 1800-1866*. Princeton University Press, 1996, pp. 56-78.
-[^67]: Rosenberg, *Bureaucracy, Aristocracy, and Autocracy*, pp. 201-245.
-[^68]: Chandler, *The Campaigns of Napoleon*, pp. 133-142.
-[^69]: Paret, Peter. *Clausewitz and the State*. Oxford University Press, 1976, pp. 156-178.
-[^70]: Craig, *The Politics of the Prussian Army*, pp. 234-267.
-[^71]: Gagliardo, *Enlightened Despotism*, pp. 112-134.
-[^72]: Frederick II. *Anti-Machiavel*. In *Oeuvres de Frédéric le Grand*, ed. J. D. E. Preuss. R. Decker, 1846-1857.
-[^73]: Krieger, Leonard. *An Essay on the Theory of Enlightened Despotism*. University of Chicago Press, 1975, pp. 45-67.
-[^74]: Craig, *The Politics of the Prussian Army*, pp. 15-89.
-[^75]: Evans, Richard J. *The Coming of the Third Reich*. Penguin Press, 2004, pp. 78-82.
-[^76]: Iggers, Georg G. *The German Conception of History*. Wesleyan University Press, 1968, pp. 234-256.
-[^77]: Schieder, *Frederick the Great*, pp. 1-15.
-[^78]: Clark, *Iron Kingdom*, pp. 1-8, 685-698.
+[^1]: Blanning, Tim. _Frederick the Great: King of Prussia_. Random House, 2016, pp. 12-15.
+
+[^2]: MacDonough, Giles. _Frederick the Great: A Life in Deed and Letters_. St. Martin's Press, 2001, pp. 25-32.
+
+[^3]: Asprey, Robert B. _Frederick the Great: The Magnificent Enigma_. Ticknor & Fields, 1986, pp. 18-24.
+
+[^4]: Ritter, Gerhard. _Frederick the Great: A Historical Profile_. University of California Press, 1968, pp. 28-31.
+
+[^5]: Blanning, _Frederick the Great_, pp. 45-52.
+
+[^6]: MacDonough, _Frederick the Great_, pp. 56-60.
+
+[^7]: Asprey, _Frederick the Great_, pp. 71-78.
+
+[^8]: Clark, Christopher. _Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947_. Harvard University Press, 2006, pp. 198-201.
+
+[^9]: Gay, Peter. "The Enlightenment as Medicine and as Cure." _The Age of Enlightenment_, ed. W. H. Barber. Oliver & Boyd, 1967, pp. 375-386.
+
+[^10]: Blanning, _Frederick the Great_, pp. 89-95.
+
+[^11]: Hubatsch, Walther. _Frederick the Great of Prussia: Absolutism and Administration_. Thames and Hudson, 1975, pp. 42-45.
+
+[^12]: Gooch, G. P. _Frederick the Great: The Ruler, the Writer, the Man_. Longmans, 1947, pp. 15-19.
+
+[^13]: Anderson, M. S. _The War of the Austrian Succession, 1740-1748_. Longman, 1995, pp. 38-52.
+
+[^14]: Showalter, Dennis E. _The Wars of Frederick the Great_. Longman, 1996, pp. 67-74.
+
+[^15]: Frederick II. _Political Testament of 1752_. In _Die Politischen Testamente Friedrichs des Großen_, ed. Gustav Berthold Volz. Hobbing, 1920.
+
+[^16]: Duffy, Christopher. _Frederick the Great: A Military Life_. Routledge, 1985, pp. 42-58.
+
+[^17]: Henderson, W. O. _Studies in the Economic Policy of Frederick the Great_. Frank Cass, 1963, pp. 112-125.
+
+[^18]: Browning, Reed. _The War of the Austrian Succession_. St. Martin's Press, 1993, pp. 156-178.
+
+[^19]: Schroeder, Paul W. _The Transformation of European Politics, 1763-1848_. Oxford University Press, 1994, pp. 11-15.
+
+[^20]: Rosenberg, Hans. _Bureaucracy, Aristocracy, and Autocracy: The Prussian Experience, 1660-1815_. Harvard University Press, 1958, pp. 78-92.
+
+[^21]: Hubatsch, _Frederick the Great of Prussia_, pp. 115-134.
+
+[^22]: Clark, _Iron Kingdom_, pp. 215-228.
+
+[^23]: Szabo, Franz A. J. _The Seven Years War in Europe, 1756-1763_. Pearson, 2008, pp. 91-95.
+
+[^24]: Duffy, _Frederick the Great: A Military Life_, pp. 142-168.
+
+[^25]: Rothenberg, Gunther E. "The Age of Frederick the Great and Napoleon." In _The Laws of War: Constraints on Warfare in the Western World_, ed. Michael Howard et al. Yale University Press, 1994, pp. 86-98.
+
+[^26]: Szabo, _The Seven Years War in Europe_, pp. 387-402.
+
+[^27]: Scott, H. M. _The Birth of a Great Power System, 1740-1815_. Pearson, 2006, pp. 156-162.
+
+[^28]: Chandler, David G. _The Campaigns of Napoleon_. Macmillan, 1966, pp. 133-138.
+
+[^29]: Gagliardo, John G. _Enlightened Despotism_. Thomas Y. Crowell, 1967, pp. 45-62.
+
+[^30]: Carsten, F. L. "The Great Elector and the Foundation of the Hohenzollern Despotism." _The English Historical Review_ 65, no. 256 (1950): 175-202.
+
+[^31]: Henderson, _Studies in the Economic Policy_, pp. 89-145.
+
+[^32]: Gay, Peter. _The Enlightenment: An Interpretation_. Vol. 2, _The Science of Freedom_. W. W. Norton, 1969, pp. 89-126.
+
+[^33]: Schieder, Theodor. _Frederick the Great_. Translated by Sabina Berkeley and H. M. Scott. Longman, 2000, pp. 234-267.
+
+[^34]: Blanning, _Frederick the Great_, pp. 412-445.
+
+[^35]: Lukowski, Jerzy. _The Partitions of Poland: 1772, 1793, 1795_. Longman, 1999, pp. 38-74.
+
+[^36]: Davies, Norman. _God's Playground: A History of Poland_. Vol. 1. Columbia University Press, 1982, pp. 394-412.
+
+[^37]: Clark, _Iron Kingdom_, pp. 248-252.
+
+[^38]: Craig, Gordon A. _The Politics of the Prussian Army, 1640-1945_. Oxford University Press, 1955, pp. 15-42.
+
+[^39]: Schroeder, _The Transformation of European Politics_, pp. 25-28.
+
+[^40]: Wehler, Hans-Ulrich. _The German Empire, 1871-1918_. Berg Publishers, 1985, pp. 35-42.
+
+[^41]: Gagliardo, _Enlightened Despotism_, pp. 78-85.
+
+[^42]: Rosenberg, _Bureaucracy, Aristocracy, and Autocracy_, pp. 156-178.
+
+[^43]: Gooch, _Frederick the Great_, pp. 312-328.
+
+[^44]: MacDonough, _Frederick the Great_, pp. 178-185.
+
+[^45]: Blanning, _Frederick the Great_, pp. 52-68, 445-467.
+
+[^46]: Asprey, _Frederick the Great_, pp. 412-425.
+
+[^47]: Lukowski, _The Partitions of Poland_, pp. 89-112.
+
+[^48]: Davies, _God's Playground_, Vol. 1, pp. 402-408.
+
+[^49]: Wandycz, Piotr S. _The Lands of Partitioned Poland, 1795-1918_. University of Washington Press, 1974, pp. 8-15.
+
+[^50]: Carsten, F. L. _A History of the Prussian Junkers_. Scolar Press, 1989, pp. 67-89.
+
+[^51]: Hagen, William W. _Ordinary Prussians: Brandenburg Junkers and Villagers, 1500-1840_. Cambridge University Press, 2002, pp. 456-478.
+
+[^52]: Hubatsch, _Frederick the Great of Prussia_, pp. 189-203.
+
+[^53]: Blanning, _Frederick the Great_, pp. 112-125.
+
+[^54]: MacDonough, _Frederick the Great_, pp. 185-192.
+
+[^55]: Asprey, _Frederick the Great_, pp. 203-210.
+
+[^56]: Blanning, _Frederick the Great_, pp. 445-467.
+
+[^57]: Steakley, James D. "Sodomy in Enlightenment Prussia: From Execution to Suicide." In _The Pursuit of Sodomy: Male Homosexuality in Renaissance and Enlightenment Europe_, ed. Kent Gerard and Gert Hekma. Harworth Press, 1989, pp. 163-175.
+
+[^58]: MacDonough, _Frederick the Great_, pp. 56-68.
+
+[^59]: Schieder, _Frederick the Great_, pp. 234-256.
+
+[^60]: Helm, Eugene. _Music at the Court of Frederick the Great_. University of Oklahoma Press, 1960, pp. 45-78.
+
+[^61]: Besterman, Theodore. _Voltaire_. Harcourt, Brace & World, 1969, pp. 345-378.
+
+[^62]: Blanning, _Frederick the Great_, pp. 512-534.
+
+[^63]: Gooch, _Frederick the Great_, pp. 278-295.
+
+[^64]: Clark, _Iron Kingdom_, pp. 685-687.
+
+[^65]: Showalter, Dennis E. "The Prusso-German RMA, 1840-1871." In _The Dynamics of Military Revolution, 1300-2050_, ed. MacGregor Knox and Williamson Murray. Cambridge University Press, 2001, pp. 92-113.
+
+[^66]: Nipperdey, Thomas. _Germany from Napoleon to Bismarck, 1800-1866_. Princeton University Press, 1996, pp. 56-78.
+
+[^67]: Rosenberg, _Bureaucracy, Aristocracy, and Autocracy_, pp. 201-245.
+
+[^68]: Chandler, _The Campaigns of Napoleon_, pp. 133-142.
+
+[^69]: Paret, Peter. _Clausewitz and the State_. Oxford University Press, 1976, pp. 156-178.
+
+[^70]: Craig, _The Politics of the Prussian Army_, pp. 234-267.
+
+[^71]: Gagliardo, _Enlightened Despotism_, pp. 112-134.
+
+[^72]: Frederick II. _Anti-Machiavel_. In _Oeuvres de Frédéric le Grand_, ed. J. D. E. Preuss. R. Decker, 1846-1857.
+
+[^73]: Krieger, Leonard. _An Essay on the Theory of Enlightened Despotism_. University of Chicago Press, 1975, pp. 45-67.
+
+[^74]: Craig, _The Politics of the Prussian Army_, pp. 15-89.
+
+[^75]: Evans, Richard J. _The Coming of the Third Reich_. Penguin Press, 2004, pp. 78-82.
+
+[^76]: Iggers, Georg G. _The German Conception of History_. Wesleyan University Press, 1968, pp. 234-256.
+
+[^77]: Schieder, _Frederick the Great_, pp. 1-15.
+
+[^78]: Clark, _Iron Kingdom_, pp. 1-8, 685-698.
+
 [^79]: UNESCO World Heritage Centre. "Palaces and Parks of Potsdam and Berlin." Accessed December 21, 2025. https://whc.unesco.org/en/list/532
-[^80]: Helm, *Music at the Court of Frederick the Great*, pp. 123-156.
-[^81]: Giersberg, Hans-Joachim. *Frederick as Architect*. Edition Leipzig, 1986, pp. 67-134.
-[^82]: Blanning, *Frederick the Great*, pp. 412-445.
-[^83]: Duffy, *Frederick the Great: A Military Life*, pp. 1-12, 312-328.
-[^84]: Chandler, *The Campaigns of Napoleon*, pp. 138-142.
-[^85]: Szabo, *The Seven Years War in Europe*, pp. 456-478.
-[^86]: Hubatsch, *Frederick the Great of Prussia*, pp. 234-267.
-[^87]: Gagliardo, *Enlightened Despotism*, pp. 78-95.
-[^88]: Krieger, *An Essay on the Theory of Enlightened Despotism*, pp. 89-112.
-[^89]: Gay, *The Enlightenment*, Vol. 2, pp. 89-134.
-[^90]: Besterman, *Voltaire*, pp. 345-389.
-[^91]: Helm, *Music at the Court of Frederick the Great*, pp. 178-203.
-[^92]: Gagliardo, *Enlightened Despotism*, pp. 156-178.
-[^93]: Rosenberg, *Bureaucracy, Aristocracy, and Autocracy*, pp. 234-267.
-[^94]: Hubatsch, *Frederick the Great of Prussia*, pp. 289-312.
-[^95]: Craig, *The Politics of the Prussian Army*, pp. 23-56.
-[^96]: Schroeder, *The Transformation of European Politics*, pp. 25-42.
-[^97]: Wehler, *The German Empire*, pp. 35-67.
-[^98]: Krieger, *An Essay on the Theory of Enlightened Despotism*, pp. 123-145.
-[^99]: Hagen, *Ordinary Prussians*, pp. 456-489.
-[^100]: Carsten, *A History of the Prussian Junkers*, pp. 89-112.
-[^101]: Lukowski, *The Partitions of Poland*, pp. 156-178.
-[^102]: Davies, *God's Playground*, Vol. 1, pp. 408-428.
-[^103]: Wandycz, *The Lands of Partitioned Poland*, pp. 15-34.
-[^104]: Asprey, *Frederick the Great*, pp. 412-445.
-[^105]: MacDonough, *Frederick the Great*, pp. 234-267.
-[^106]: Blanning, *Frederick the Great*, pp. 512-534.
-[^107]: Craig, *The Politics of the Prussian Army*, pp. 234-289.
-[^108]: Wehler, *The German Empire*, pp. 78-112.
-[^109]: Evans, *The Coming of the Third Reich*, pp. 78-95.
-[^110]: Gooch, *Frederick the Great*, p. 156.
-[^111]: Duffy, *Frederick the Great: A Military Life*, p. 89.
-[^112]: Frederick II, *Anti-Machiavel*.
-[^113]: Asprey, *Frederick the Great*, p. 267.
-[^114]: Blanning, *Frederick the Great*, p. 412.
-[^115]: MacDonough, *Frederick the Great*, p. 512.
+
+[^80]: Helm, _Music at the Court of Frederick the Great_, pp. 123-156.
+
+[^81]: Giersberg, Hans-Joachim. _Frederick as Architect_. Edition Leipzig, 1986, pp. 67-134.
+
+[^82]: Blanning, _Frederick the Great_, pp. 412-445.
+
+[^83]: Duffy, _Frederick the Great: A Military Life_, pp. 1-12, 312-328.
+
+[^84]: Chandler, _The Campaigns of Napoleon_, pp. 138-142.
+
+[^85]: Szabo, _The Seven Years War in Europe_, pp. 456-478.
+
+[^86]: Hubatsch, _Frederick the Great of Prussia_, pp. 234-267.
+
+[^87]: Gagliardo, _Enlightened Despotism_, pp. 78-95.
+
+[^88]: Krieger, _An Essay on the Theory of Enlightened Despotism_, pp. 89-112.
+
+[^89]: Gay, _The Enlightenment_, Vol. 2, pp. 89-134.
+
+[^90]: Besterman, _Voltaire_, pp. 345-389.
+
+[^91]: Helm, _Music at the Court of Frederick the Great_, pp. 178-203.
+
+[^92]: Gagliardo, _Enlightened Despotism_, pp. 156-178.
+
+[^93]: Rosenberg, _Bureaucracy, Aristocracy, and Autocracy_, pp. 234-267.
+
+[^94]: Hubatsch, _Frederick the Great of Prussia_, pp. 289-312.
+
+[^95]: Craig, _The Politics of the Prussian Army_, pp. 23-56.
+
+[^96]: Schroeder, _The Transformation of European Politics_, pp. 25-42.
+
+[^97]: Wehler, _The German Empire_, pp. 35-67.
+
+[^98]: Krieger, _An Essay on the Theory of Enlightened Despotism_, pp. 123-145.
+
+[^99]: Hagen, _Ordinary Prussians_, pp. 456-489.
+
+[^100]: Carsten, _A History of the Prussian Junkers_, pp. 89-112.
+
+[^101]: Lukowski, _The Partitions of Poland_, pp. 156-178.
+
+[^102]: Davies, _God's Playground_, Vol. 1, pp. 408-428.
+
+[^103]: Wandycz, _The Lands of Partitioned Poland_, pp. 15-34.
+
+[^104]: Asprey, _Frederick the Great_, pp. 412-445.
+
+[^105]: MacDonough, _Frederick the Great_, pp. 234-267.
+
+[^106]: Blanning, _Frederick the Great_, pp. 512-534.
+
+[^107]: Craig, _The Politics of the Prussian Army_, pp. 234-289.
+
+[^108]: Wehler, _The German Empire_, pp. 78-112.
+
+[^109]: Evans, _The Coming of the Third Reich_, pp. 78-95.
+
+[^110]: Gooch, _Frederick the Great_, p. 156.
+
+[^111]: Duffy, _Frederick the Great: A Military Life_, p. 89.
+
+[^112]: Frederick II, _Anti-Machiavel_.
+
+[^113]: Asprey, _Frederick the Great_, p. 267.
+
+[^114]: Blanning, _Frederick the Great_, p. 412.
+
+[^115]: MacDonough, _Frederick the Great_, p. 512.

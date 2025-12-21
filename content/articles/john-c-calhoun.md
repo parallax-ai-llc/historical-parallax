@@ -4,7 +4,15 @@ name: "John C. Calhoun"
 birth: "1782-03-18"
 death: "1850-03-31"
 nationality: "United States"
-occupation: ["Politician", "Vice President", "U.S. Senator", "Secretary of War", "Secretary of State", "Political Theorist"]
+occupation:
+  [
+    "Politician",
+    "Vice President",
+    "U.S. Senator",
+    "Secretary of War",
+    "Secretary of State",
+    "Political Theorist",
+  ]
 image: "https://upload.wikimedia.org/wikipedia/commons/4/43/John_C._Calhoun_by_Mathew_Brady%2C_March_1849.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_C._Calhoun"
@@ -149,28 +157,28 @@ Critical scholarship emphasizes that Calhoun's theories of nullification and sec
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1782 | Born March 18 in Abbeville District, South Carolina |
-| 1796 | Father dies; assumes management of family farms at age 14 |
-| 1802 | Enters Yale College at age 20 |
-| 1804 | Graduates from Yale College; enters Litchfield Law School |
-| 1807 | Admitted to South Carolina bar |
-| 1808 | Elected to South Carolina state legislature |
-| 1810 | Elected to United States House of Representatives |
-| 1811 | Marries Floride Bonneau Colhoun; enters U.S. House as War Hawk |
-| 1812 | Supports declaration of War of 1812 |
-| 1817 | Appointed Secretary of War by President James Monroe |
-| 1824 | Creates Bureau of Indian Affairs |
-| 1825 | Elected Vice President under John Quincy Adams |
+| Year | Event                                                                                                        |
+| ---- | ------------------------------------------------------------------------------------------------------------ |
+| 1782 | Born March 18 in Abbeville District, South Carolina                                                          |
+| 1796 | Father dies; assumes management of family farms at age 14                                                    |
+| 1802 | Enters Yale College at age 20                                                                                |
+| 1804 | Graduates from Yale College; enters Litchfield Law School                                                    |
+| 1807 | Admitted to South Carolina bar                                                                               |
+| 1808 | Elected to South Carolina state legislature                                                                  |
+| 1810 | Elected to United States House of Representatives                                                            |
+| 1811 | Marries Floride Bonneau Colhoun; enters U.S. House as War Hawk                                               |
+| 1812 | Supports declaration of War of 1812                                                                          |
+| 1817 | Appointed Secretary of War by President James Monroe                                                         |
+| 1824 | Creates Bureau of Indian Affairs                                                                             |
+| 1825 | Elected Vice President under John Quincy Adams                                                               |
 | 1828 | Anonymously publishes "South Carolina Exposition and Protest"; reelected Vice President under Andrew Jackson |
-| 1832 | Nullification Crisis escalates; resigns as Vice President in December; elected to U.S. Senate |
-| 1833 | Helps broker compromise ending Nullification Crisis |
-| 1837 | Delivers famous "positive good" speech defending slavery (February 6) |
-| 1843 | Leaves Senate |
-| 1844 | Appointed Secretary of State by President Tyler (April 1) |
-| 1845 | Leaves office as Secretary of State (March 10); returns to U.S. Senate |
-| 1850 | Final Senate speech on slavery and sectional crisis (March); dies March 31 in Washington, D.C. |
+| 1832 | Nullification Crisis escalates; resigns as Vice President in December; elected to U.S. Senate                |
+| 1833 | Helps broker compromise ending Nullification Crisis                                                          |
+| 1837 | Delivers famous "positive good" speech defending slavery (February 6)                                        |
+| 1843 | Leaves Senate                                                                                                |
+| 1844 | Appointed Secretary of State by President Tyler (April 1)                                                    |
+| 1845 | Leaves office as Secretary of State (March 10); returns to U.S. Senate                                       |
+| 1850 | Final Senate speech on slavery and sectional crisis (March); dies March 31 in Washington, D.C.               |
 
 ---
 
@@ -191,68 +199,133 @@ Critical scholarship emphasizes that Calhoun's theories of nullification and sec
 ## References
 
 [^1]: https://www.britannica.com/biography/John-C-Calhoun
+
 [^2]: https://www.scencyclopedia.org/sce/entries/calhoun-john-caldwell/
+
 [^3]: https://en.wikipedia.org/wiki/John_C._Calhoun
+
 [^4]: https://www.ebsco.com/research-starters/history/john-c-calhoun
+
 [^5]: https://www.americanhistorycentral.com/entries/john-c-calhoun/
+
 [^6]: https://www.clemson.edu/about/history/bios/john-c-calhoun.html
+
 [^7]: https://www.battlefields.org/learn/biographies/john-c-calhoun
+
 [^8]: https://www.history.com/articles/john-c-calhoun
+
 [^9]: https://www.encyclopedia.com/people/history/us-history-biographies/john-c-calhoun
+
 [^10]: https://millercenter.org/president/monroe/essays/calhoun-1817-secretary-of-war
+
 [^11]: https://en.wikipedia.org/wiki/John_C._Calhoun
+
 [^12]: https://www.battlefields.org/learn/biographies/john-c-calhoun
+
 [^13]: https://millercenter.org/president/monroe/essays/calhoun-1817-secretary-of-war
+
 [^14]: https://constitutioncenter.org/blog/vice-president-profile-john-c-calhoun
+
 [^15]: https://en.wikipedia.org/wiki/John_C._Calhoun
+
 [^16]: https://millercenter.org/president/monroe/essays/calhoun-1817-secretary-of-war
+
 [^17]: https://www.battlefields.org/learn/biographies/john-c-calhoun
+
 [^18]: https://history.state.gov/departmenthistory/people/calhoun-john-caldwell
+
 [^19]: https://www.britannica.com/biography/John-C-Calhoun
+
 [^20]: https://history.state.gov/departmenthistory/people/calhoun-john-caldwell
+
 [^21]: https://en.wikipedia.org/wiki/John_C._Calhoun
+
 [^22]: https://oll.libertyfund.org/quotes/john-calhoun-concurrent-majorities
+
 [^23]: https://oll.libertyfund.org/titles/calhoun-union-and-liberty-the-political-philosophy-of-john-c-calhoun
+
 [^24]: https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Calhoun.htm
+
 [^25]: https://www.clemson.edu/about/history/bios/john-c-calhoun.html
+
 [^26]: https://billofrightsinstitute.org/activities/john-c-calhoun-slavery-as-a-positive-good-1837
+
 [^27]: https://www.nps.gov/people/john-c-calhoun.htm
+
 [^28]: https://sc.edu/uofsc/posts/2020/06/06_conversation_calhoun.php
+
 [^29]: https://www.yesmagazine.org/opinion/2020/07/03/john-c-calhoun-racist-legacy
+
 [^30]: https://www.deseret.com/2012/12/17/20511294/this-week-in-history-john-c-calhoun-and-the-nullification-crisis/
+
 [^31]: https://federalism.org/encyclopedia/no-topic/calhoun-john-c/
+
 [^32]: https://en.wikipedia.org/wiki/John_C._Calhoun
+
 [^33]: https://www.battlefields.org/learn/articles/nullification-crisis
+
 [^34]: https://muse.jhu.edu/article/419417/summary
+
 [^35]: https://ysrp.yale.edu/john-c-calhoun
+
 [^36]: https://www.clemson.edu/about/history/bios/floride-calhoun.html
+
 [^37]: https://en.wikipedia.org/wiki/John_C._Calhoun
+
 [^38]: https://www.clemson.edu/about/history/bios/floride-calhoun.html
+
 [^39]: https://www.britannica.com/biography/John-C-Calhoun
+
 [^40]: https://www.scencyclopedia.org/sce/entries/calhoun-john-caldwell/
+
 [^41]: https://www.clemson.edu/about/history/bios/john-c-calhoun.html
+
 [^42]: https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Calhoun.htm
+
 [^43]: https://www.worldhistory.org/timeline/John_C._Calhoun/
+
 [^44]: https://www.findagrave.com/memorial/12260832/floride-bonneau-calhoun
+
 [^45]: https://sc.edu/uofsc/posts/2020/06/06_conversation_calhoun.php
+
 [^46]: https://oll.libertyfund.org/publications/liberty-matters/keith-whittington-on-john-c-calhoun-constitutionalism-and-slavery
+
 [^47]: https://oll.libertyfund.org/publications/liberty-matters/keith-whittington-on-john-c-calhoun-constitutionalism-and-slavery
+
 [^48]: https://sc.edu/uofsc/posts/2020/06/06_conversation_calhoun.php
+
 [^49]: https://www.yesmagazine.org/opinion/2020/07/03/john-c-calhoun-racist-legacy
+
 [^50]: https://ysrp.yale.edu/john-c-calhoun
+
 [^51]: https://www.historynet.com/john-c-calhoun-the-man-who-started-the-civil-war/
+
 [^52]: https://sc.edu/uofsc/posts/2020/06/06_conversation_calhoun.php
+
 [^53]: https://dcc.newberry.org/?p=14420
+
 [^54]: https://lawliberty.org/classic/calhoun-and-constitutionalism/
+
 [^55]: https://www.abbevilleinstitute.org/john-c-calhoun-and-states-rights/
+
 [^56]: https://theimaginativeconservative.org/2025/10/essential-john-c-calhoun-daniel-j-sundahl.html
+
 [^57]: https://openlettersreview.com/posts/calhoun-american-heretic-by-robert-elder
+
 [^58]: https://courses.lumenlearning.com/suny-ushistory1os2xmaster/chapter/primary-source-reading-john-calhoun-on-slavery/
+
 [^59]: https://oll.libertyfund.org/publications/liberty-matters/keith-whittington-on-john-c-calhoun-constitutionalism-and-slavery
+
 [^60]: https://study.com/academy/lesson/john-c-calhoun-slavery-views-facts-quotes.html
+
 [^61]: https://ysrp.yale.edu/john-c-calhoun
+
 [^62]: https://www.yesmagazine.org/opinion/2020/07/03/john-c-calhoun-racist-legacy
+
 [^63]: https://sc.edu/uofsc/posts/2020/06/06_conversation_calhoun.php
+
 [^64]: https://www.historynet.com/john-c-calhoun-the-man-who-started-the-civil-war/
+
 [^65]: https://oll.libertyfund.org/quotes/john-calhoun-slavery-positive-good
+
 [^66]: https://www.azquotes.com/author/2341-John_C_Calhoun

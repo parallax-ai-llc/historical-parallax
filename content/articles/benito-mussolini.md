@@ -131,29 +131,29 @@ Contemporary anti-fascist scholarship emphasizes the necessity of remembering Mu
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1883 | Born July 29 in Predappio, Italy |
-| 1902 | Emigrated to Switzerland to avoid military service |
-| 1904 | Returned to Italy and completed military service |
-| 1912 | Became editor of Avanti!, the Italian Socialist Party newspaper |
-| 1914 | Expelled from Socialist Party for supporting WWI intervention |
-| 1915 | Founded Il Popolo d'Italia newspaper; married Rachele Guidi |
-| 1917 | Severely wounded by grenade accident during military training |
-| 1919 | Founded Fasci Italiani di Combattimento (Combat Squads) on March 23 |
-| 1921 | Elected to Parliament as part of National Bloc coalition |
-| 1922 | March on Rome (October 28); appointed Prime Minister (October 30) |
-| 1924 | Fascists won disputed elections; Socialist deputy Giacomo Matteotti murdered |
-| 1925 | Declared dictatorship in January 3 speech to Parliament |
-| 1926 | Banned all opposition parties; established totalitarian state |
-| 1929 | Signed Lateran Treaty with Vatican, resolving Roman Question |
-| 1935 | Invaded Ethiopia in October, beginning Second Italo-Ethiopian War |
-| 1936 | Proclaimed Italian Empire (May); formed Rome-Berlin Axis with Hitler |
-| 1938 | Enacted anti-Semitic racial laws |
-| 1939 | Signed Pact of Steel military alliance with Nazi Germany |
-| 1940 | Entered World War II on Germany's side (June 10) |
-| 1943 | Allied invasion of Sicily; arrested after Grand Council voted no confidence (July 25) |
-| 1943 | Rescued by German commandos (September 12); established puppet Italian Social Republic |
+| Year | Event                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------- |
+| 1883 | Born July 29 in Predappio, Italy                                                                     |
+| 1902 | Emigrated to Switzerland to avoid military service                                                   |
+| 1904 | Returned to Italy and completed military service                                                     |
+| 1912 | Became editor of Avanti!, the Italian Socialist Party newspaper                                      |
+| 1914 | Expelled from Socialist Party for supporting WWI intervention                                        |
+| 1915 | Founded Il Popolo d'Italia newspaper; married Rachele Guidi                                          |
+| 1917 | Severely wounded by grenade accident during military training                                        |
+| 1919 | Founded Fasci Italiani di Combattimento (Combat Squads) on March 23                                  |
+| 1921 | Elected to Parliament as part of National Bloc coalition                                             |
+| 1922 | March on Rome (October 28); appointed Prime Minister (October 30)                                    |
+| 1924 | Fascists won disputed elections; Socialist deputy Giacomo Matteotti murdered                         |
+| 1925 | Declared dictatorship in January 3 speech to Parliament                                              |
+| 1926 | Banned all opposition parties; established totalitarian state                                        |
+| 1929 | Signed Lateran Treaty with Vatican, resolving Roman Question                                         |
+| 1935 | Invaded Ethiopia in October, beginning Second Italo-Ethiopian War                                    |
+| 1936 | Proclaimed Italian Empire (May); formed Rome-Berlin Axis with Hitler                                 |
+| 1938 | Enacted anti-Semitic racial laws                                                                     |
+| 1939 | Signed Pact of Steel military alliance with Nazi Germany                                             |
+| 1940 | Entered World War II on Germany's side (June 10)                                                     |
+| 1943 | Allied invasion of Sicily; arrested after Grand Council voted no confidence (July 25)                |
+| 1943 | Rescued by German commandos (September 12); established puppet Italian Social Republic               |
 | 1945 | Captured by Italian partisans while fleeing (April 27); executed (April 28); body displayed in Milan |
 
 ---
@@ -176,94 +176,94 @@ Contemporary anti-fascist scholarship emphasizes the necessity of remembering Mu
 
 ## References
 
-[^1]: Bosworth, R.J.B. *Mussolini*. London: Arnold, 2002, pp. 34-42.
+[^1]: Bosworth, R.J.B. _Mussolini_. London: Arnold, 2002, pp. 34-42.
 
-[^2]: Smith, Denis Mack. *Mussolini: A Biography*. New York: Vintage Books, 1983, pp. 3-9.
+[^2]: Smith, Denis Mack. _Mussolini: A Biography_. New York: Vintage Books, 1983, pp. 3-9.
 
-[^3]: Ridley, Jasper. *Mussolini: A Biography*. New York: Cooper Square Press, 1998, pp. 23-31.
+[^3]: Ridley, Jasper. _Mussolini: A Biography_. New York: Cooper Square Press, 1998, pp. 23-31.
 
-[^4]: Gregor, A. James. *Mussolini's Intellectuals: Fascist Social and Political Thought*. Princeton: Princeton University Press, 2005, pp. 47-55.
+[^4]: Gregor, A. James. _Mussolini's Intellectuals: Fascist Social and Political Thought_. Princeton: Princeton University Press, 2005, pp. 47-55.
 
-[^5]: De Grand, Alexander. *Italian Fascism: Its Origins and Development*. Lincoln: University of Nebraska Press, 2000, pp. 18-24.
+[^5]: De Grand, Alexander. _Italian Fascism: Its Origins and Development_. Lincoln: University of Nebraska Press, 2000, pp. 18-24.
 
-[^6]: Payne, Stanley G. *A History of Fascism, 1914-1945*. Madison: University of Wisconsin Press, 1995, pp. 87-95.
+[^6]: Payne, Stanley G. _A History of Fascism, 1914-1945_. Madison: University of Wisconsin Press, 1995, pp. 87-95.
 
-[^7]: Lyttelton, Adrian. *The Seizure of Power: Fascism in Italy, 1919-1929*. London: Routledge, 2004, pp. 40-58.
+[^7]: Lyttelton, Adrian. _The Seizure of Power: Fascism in Italy, 1919-1929_. London: Routledge, 2004, pp. 40-58.
 
-[^8]: Corner, Paul, ed. *Popular Opinion in Totalitarian Regimes: Fascism, Nazism, Communism*. Oxford: Oxford University Press, 2009, pp. 89-103.
+[^8]: Corner, Paul, ed. _Popular Opinion in Totalitarian Regimes: Fascism, Nazism, Communism_. Oxford: Oxford University Press, 2009, pp. 89-103.
 
-[^9]: Cardoza, Anthony L. *Benito Mussolini: The First Fascist*. New York: Pearson Longman, 2006, pp. 67-75.
+[^9]: Cardoza, Anthony L. _Benito Mussolini: The First Fascist_. New York: Pearson Longman, 2006, pp. 67-75.
 
-[^10]: Morgan, Philip. *Italian Fascism, 1915-1945*. Second edition. New York: Palgrave Macmillan, 2004, pp. 82-95.
+[^10]: Morgan, Philip. _Italian Fascism, 1915-1945_. Second edition. New York: Palgrave Macmillan, 2004, pp. 82-95.
 
-[^11]: Gentile, Emilio. *The Sacralization of Politics in Fascist Italy*. Cambridge: Harvard University Press, 1996, pp. 112-128.
+[^11]: Gentile, Emilio. _The Sacralization of Politics in Fascist Italy_. Cambridge: Harvard University Press, 1996, pp. 112-128.
 
-[^12]: Pollard, John F. *The Vatican and Italian Fascism, 1929-32: A Study in Conflict*. Cambridge: Cambridge University Press, 2005, pp. 34-51.
+[^12]: Pollard, John F. _The Vatican and Italian Fascism, 1929-32: A Study in Conflict_. Cambridge: Cambridge University Press, 2005, pp. 34-51.
 
-[^13]: Sarti, Roland. *Fascism and the Industrial Leadership in Italy, 1919-1940*. Berkeley: University of California Press, 1971, pp. 89-107.
+[^13]: Sarti, Roland. _Fascism and the Industrial Leadership in Italy, 1919-1940_. Berkeley: University of California Press, 1971, pp. 89-107.
 
-[^14]: Del Boca, Angelo. *The Ethiopian War, 1935-1941*. Chicago: University of Chicago Press, 1969, pp. 78-96.
+[^14]: Del Boca, Angelo. _The Ethiopian War, 1935-1941_. Chicago: University of Chicago Press, 1969, pp. 78-96.
 
-[^15]: Griffin, Roger. *The Nature of Fascism*. London: Routledge, 1993, pp. 45-67.
+[^15]: Griffin, Roger. _The Nature of Fascism_. London: Routledge, 1993, pp. 45-67.
 
-[^16]: Franzinelli, Mimmo. *I tentacoli dell'Ovra: Agenti, collaboratori e vittime della polizia politica fascista*. Turin: Bollati Boringhieri, 1999, pp. 156-178.
+[^16]: Franzinelli, Mimmo. _I tentacoli dell'Ovra: Agenti, collaboratori e vittime della polizia politica fascista_. Turin: Bollati Boringhieri, 1999, pp. 156-178.
 
-[^17]: Cohen, Jon S. "Fascism and Agriculture in Italy: Policies and Consequences." *Economic History Review* 32, no. 1 (1979): 70-87.
+[^17]: Cohen, Jon S. "Fascism and Agriculture in Italy: Policies and Consequences." _Economic History Review_ 32, no. 1 (1979): 70-87.
 
-[^18]: Sbacchi, Alberto. *Ethiopia Under Mussolini: Fascism and the Colonial Experience*. London: Zed Books, 1985, pp. 123-145.
+[^18]: Sbacchi, Alberto. _Ethiopia Under Mussolini: Fascism and the Colonial Experience_. London: Zed Books, 1985, pp. 123-145.
 
-[^19]: Knox, MacGregor. *Common Destiny: Dictatorship, Foreign Policy, and War in Fascist Italy and Nazi Germany*. Cambridge: Cambridge University Press, 2000, pp. 78-94.
+[^19]: Knox, MacGregor. _Common Destiny: Dictatorship, Foreign Policy, and War in Fascist Italy and Nazi Germany_. Cambridge: Cambridge University Press, 2000, pp. 78-94.
 
-[^20]: Sarfatti, Michele. *The Jews in Mussolini's Italy: From Equality to Persecution*. Madison: University of Wisconsin Press, 2006, pp. 134-167.
+[^20]: Sarfatti, Michele. _The Jews in Mussolini's Italy: From Equality to Persecution_. Madison: University of Wisconsin Press, 2006, pp. 134-167.
 
-[^21]: Gooch, John. *Mussolini and His Generals: The Armed Forces and Fascist Foreign Policy, 1922-1940*. Cambridge: Cambridge University Press, 2007, pp. 456-489.
+[^21]: Gooch, John. _Mussolini and His Generals: The Armed Forces and Fascist Foreign Policy, 1922-1940_. Cambridge: Cambridge University Press, 2007, pp. 456-489.
 
-[^22]: Cannistraro, Philip V., and Brian R. Sullivan. *Il Duce's Other Woman: The Untold Story of Margherita Sarfatti*. New York: William Morrow, 1993, pp. 234-256.
+[^22]: Cannistraro, Philip V., and Brian R. Sullivan. _Il Duce's Other Woman: The Untold Story of Margherita Sarfatti_. New York: William Morrow, 1993, pp. 234-256.
 
-[^23]: Moseley, Ray. *Mussolini: The Last 600 Days of Il Duce*. Dallas: Taylor Trade Publishing, 2004, pp. 67-84.
+[^23]: Moseley, Ray. _Mussolini: The Last 600 Days of Il Duce_. Dallas: Taylor Trade Publishing, 2004, pp. 67-84.
 
-[^24]: Petacci, Claretta. *Mussolini segreto: Diari 1932-1938*. Edited by Mauro Suttora. Milan: Rizzoli, 2009, pp. 189-212.
+[^24]: Petacci, Claretta. _Mussolini segreto: Diari 1932-1938_. Edited by Mauro Suttora. Milan: Rizzoli, 2009, pp. 189-212.
 
-[^25]: Falasca-Zamponi, Simonetta. *Fascist Spectacle: The Aesthetics of Power in Mussolini's Italy*. Berkeley: University of California Press, 1997, pp. 45-71.
+[^25]: Falasca-Zamponi, Simonetta. _Fascist Spectacle: The Aesthetics of Power in Mussolini's Italy_. Berkeley: University of California Press, 1997, pp. 45-71.
 
-[^26]: Mussolini, Benito. *My Autobiography*. New York: Charles Scribner's Sons, 1928, pp. 112-145.
+[^26]: Mussolini, Benito. _My Autobiography_. New York: Charles Scribner's Sons, 1928, pp. 112-145.
 
-[^27]: Ginsborg, Paul. *A History of Contemporary Italy: Society and Politics, 1943-1988*. London: Penguin Books, 1990, pp. 34-67.
+[^27]: Ginsborg, Paul. _A History of Contemporary Italy: Society and Politics, 1943-1988_. London: Penguin Books, 1990, pp. 34-67.
 
-[^28]: Arthurs, Joshua. *Excavating Modernity: The Roman Past in Fascist Italy*. Ithaca: Cornell University Press, 2012, pp. 178-203.
+[^28]: Arthurs, Joshua. _Excavating Modernity: The Roman Past in Fascist Italy_. Ithaca: Cornell University Press, 2012, pp. 178-203.
 
-[^29]: Paxton, Robert O. *The Anatomy of Fascism*. New York: Vintage Books, 2005, pp. 89-118.
+[^29]: Paxton, Robert O. _The Anatomy of Fascism_. New York: Vintage Books, 2005, pp. 89-118.
 
-[^30]: Gentile, Giovanni, and Benito Mussolini. "The Doctrine of Fascism." In *Fascism: An Anthology*, edited by Roger Griffin, 42-58. Oxford: Oxford University Press, 1995.
+[^30]: Gentile, Giovanni, and Benito Mussolini. "The Doctrine of Fascism." In _Fascism: An Anthology_, edited by Roger Griffin, 42-58. Oxford: Oxford University Press, 1995.
 
-[^31]: Ben-Ghiat, Ruth. *Fascist Modernities: Italy, 1922-1945*. Berkeley: University of California Press, 2001, pp. 23-47.
+[^31]: Ben-Ghiat, Ruth. _Fascist Modernities: Italy, 1922-1945_. Berkeley: University of California Press, 2001, pp. 23-47.
 
-[^32]: Duggan, Christopher. *Fascist Voices: An Intimate History of Mussolini's Italy*. Oxford: Oxford University Press, 2013, pp. 289-315.
+[^32]: Duggan, Christopher. _Fascist Voices: An Intimate History of Mussolini's Italy_. Oxford: Oxford University Press, 2013, pp. 289-315.
 
-[^33]: Bosworth, R.J.B. *The Italian Dictatorship: Problems and Perspectives in the Interpretation of Mussolini and Fascism*. London: Arnold, 1998, pp. 134-156.
+[^33]: Bosworth, R.J.B. _The Italian Dictatorship: Problems and Perspectives in the Interpretation of Mussolini and Fascism_. London: Arnold, 1998, pp. 134-156.
 
-[^34]: Berezin, Mabel. *Making the Fascist Self: The Political Culture of Interwar Italy*. Ithaca: Cornell University Press, 1997, pp. 89-112.
+[^34]: Berezin, Mabel. _Making the Fascist Self: The Political Culture of Interwar Italy_. Ithaca: Cornell University Press, 1997, pp. 89-112.
 
-[^35]: Mammone, Andrea. *Transnational Neofascism in France and Italy*. Cambridge: Cambridge University Press, 2015, pp. 67-89.
+[^35]: Mammone, Andrea. _Transnational Neofascism in France and Italy_. Cambridge: Cambridge University Press, 2015, pp. 67-89.
 
-[^36]: Kallis, Aristotle. *Fascist Ideology: Territory and Expansionism in Italy and Germany, 1922-1945*. London: Routledge, 2000, pp. 45-73.
+[^36]: Kallis, Aristotle. _Fascist Ideology: Territory and Expansionism in Italy and Germany, 1922-1945_. London: Routledge, 2000, pp. 45-73.
 
-[^37]: Smith, Denis Mack. *Mussolini*. New York: Knopf, 1982, pp. 367-389.
+[^37]: Smith, Denis Mack. _Mussolini_. New York: Knopf, 1982, pp. 367-389.
 
-[^38]: Morgan, Philip. *Fascism in Europe, 1919-1945*. London: Routledge, 2003, pp. 112-134.
+[^38]: Morgan, Philip. _Fascism in Europe, 1919-1945_. London: Routledge, 2003, pp. 112-134.
 
-[^39]: Kershaw, Ian, and Moshe Lewin, eds. *Stalinism and Nazism: Dictatorships in Comparison*. Cambridge: Cambridge University Press, 1997, pp. 145-167.
+[^39]: Kershaw, Ian, and Moshe Lewin, eds. _Stalinism and Nazism: Dictatorships in Comparison_. Cambridge: Cambridge University Press, 1997, pp. 145-167.
 
-[^40]: Ben-Ghiat, Ruth. *Strongmen: Mussolini to the Present*. New York: W.W. Norton, 2020, pp. 34-56.
+[^40]: Ben-Ghiat, Ruth. _Strongmen: Mussolini to the Present_. New York: W.W. Norton, 2020, pp. 34-56.
 
-[^41]: Mussolini, Benito. Speech in Trieste, September 20, 1920. In *Opera Omnia di Benito Mussolini*, vol. 15, edited by Edoardo and Duilio Susmel. Florence: La Fenice, 1951-1963, p. 234.
+[^41]: Mussolini, Benito. Speech in Trieste, September 20, 1920. In _Opera Omnia di Benito Mussolini_, vol. 15, edited by Edoardo and Duilio Susmel. Florence: La Fenice, 1951-1963, p. 234.
 
-[^42]: While widely attributed, the exact source is disputed. See Pauley, Bruce F. *Hitler, Stalin, and Mussolini: Totalitarianism in the Twentieth Century*. Wheeling: Harlan Davidson, 2003, p. 117.
+[^42]: While widely attributed, the exact source is disputed. See Pauley, Bruce F. _Hitler, Stalin, and Mussolini: Totalitarianism in the Twentieth Century_. Wheeling: Harlan Davidson, 2003, p. 117.
 
-[^43]: Mussolini, Benito. Interview with George Sylvester Viereck, *Liberty Magazine*, July 1934.
+[^43]: Mussolini, Benito. Interview with George Sylvester Viereck, _Liberty Magazine_, July 1934.
 
-[^44]: Mussolini, Benito. "The Doctrine of Fascism" (1932). In *The Social and Political Doctrines of Contemporary Europe*, edited by Michael Oakeshott. Cambridge: Cambridge University Press, 1939, p. 171.
+[^44]: Mussolini, Benito. "The Doctrine of Fascism" (1932). In _The Social and Political Doctrines of Contemporary Europe_, edited by Michael Oakeshott. Cambridge: Cambridge University Press, 1939, p. 171.
 
-[^45]: Mussolini, Benito. Speech in Udine, September 1922. In *Opera Omnia*, vol. 18, p. 456.
+[^45]: Mussolini, Benito. Speech in Udine, September 1922. In _Opera Omnia_, vol. 18, p. 456.
 
-[^46]: Mussolini, Benito. "The Doctrine of Fascism" (1932), article in *Enciclopedia Italiana*.
+[^46]: Mussolini, Benito. "The Doctrine of Fascism" (1932), article in _Enciclopedia Italiana_.

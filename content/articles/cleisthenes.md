@@ -191,27 +191,27 @@ Revisionist scholars like Greg Anderson argue that Cleisthenes' reforms have bee
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| c. 570 BCE | Birth of Cleisthenes in Athens |
-| 546 BCE | Pisistratus establishes tyranny in Athens; Alcmaeonids go into exile |
-| 528 BCE | Death of Pisistratus; succeeded by his sons Hippias and Hipparchus |
-| 514 BCE | Assassination of Hipparchus; Hippias' rule becomes harsher |
-| 548 BCE | Temple of Apollo at Delphi burns down; Alcmaeonids finance rebuilding |
-| 511 BCE | First Spartan attempt to overthrow Hippias (failed) |
-| 510 BCE | Spartan king Cleomenes I successfully expels Hippias from Athens |
-| 508/7 BCE | Isagoras elected archon; political struggle with Cleisthenes begins |
-| 508 BCE | Cleisthenes "takes the people into partnership" and proposes democratic reforms |
-| 508 BCE | Isagoras calls in Spartans; Cleisthenes exiled along with 700 families |
-| 508 BCE | Athenian people revolt; Spartans besieged on Acropolis and forced to withdraw |
-| 508 BCE | Cleisthenes recalled; begins implementing his reforms |
-| 508/7 BCE | Creation of ten tribes, Council of 500, and reorganization into demes |
-| 507 BCE | Cleisthenes' reforms fully implemented |
-| c. 507 BCE | Last certain mention of Cleisthenes in historical sources |
-| 506 BCE | Athens defeats coalition of Spartans, Boeotians, and Chalcidians |
-| c. 508-500 BCE | Probable death of Cleisthenes (exact date unknown) |
-| 490 BCE | Battle of Marathon - Cleisthenic tribal military system proves effective |
-| 487 BCE | First recorded use of ostracism (possibly instituted by Cleisthenes) |
+| Year           | Event                                                                           |
+| -------------- | ------------------------------------------------------------------------------- |
+| c. 570 BCE     | Birth of Cleisthenes in Athens                                                  |
+| 546 BCE        | Pisistratus establishes tyranny in Athens; Alcmaeonids go into exile            |
+| 528 BCE        | Death of Pisistratus; succeeded by his sons Hippias and Hipparchus              |
+| 514 BCE        | Assassination of Hipparchus; Hippias' rule becomes harsher                      |
+| 548 BCE        | Temple of Apollo at Delphi burns down; Alcmaeonids finance rebuilding           |
+| 511 BCE        | First Spartan attempt to overthrow Hippias (failed)                             |
+| 510 BCE        | Spartan king Cleomenes I successfully expels Hippias from Athens                |
+| 508/7 BCE      | Isagoras elected archon; political struggle with Cleisthenes begins             |
+| 508 BCE        | Cleisthenes "takes the people into partnership" and proposes democratic reforms |
+| 508 BCE        | Isagoras calls in Spartans; Cleisthenes exiled along with 700 families          |
+| 508 BCE        | Athenian people revolt; Spartans besieged on Acropolis and forced to withdraw   |
+| 508 BCE        | Cleisthenes recalled; begins implementing his reforms                           |
+| 508/7 BCE      | Creation of ten tribes, Council of 500, and reorganization into demes           |
+| 507 BCE        | Cleisthenes' reforms fully implemented                                          |
+| c. 507 BCE     | Last certain mention of Cleisthenes in historical sources                       |
+| 506 BCE        | Athens defeats coalition of Spartans, Boeotians, and Chalcidians                |
+| c. 508-500 BCE | Probable death of Cleisthenes (exact date unknown)                              |
+| 490 BCE        | Battle of Marathon - Cleisthenic tribal military system proves effective        |
+| 487 BCE        | First recorded use of ostracism (possibly instituted by Cleisthenes)            |
 
 ---
 
@@ -219,23 +219,23 @@ Revisionist scholars like Greg Anderson argue that Cleisthenes' reforms have bee
 
 While no direct quotations from Cleisthenes survive in ancient sources, several ancient authors provided memorable characterizations of his actions and reforms:
 
-> "Cleisthenes, being worsted in his struggle with his rivals, took the people into his partnership." - Herodotus, *Histories* 5.66
+> "Cleisthenes, being worsted in his struggle with his rivals, took the people into his partnership." - Herodotus, _Histories_ 5.66
 
 This famous phrase by Herodotus captures the revolutionary moment when Cleisthenes made his populist appeal, fundamentally changing the nature of Athenian politics by enlisting mass support.[^103]
 
-> "After this the constitution became much more democratic than that of Solon. For it had come about that the tyranny had obliterated Solon's laws by disuse, and Cleisthenes, aiming at the multitude, established different laws." - Aristotle, *Constitution of the Athenians* 22.1
+> "After this the constitution became much more democratic than that of Solon. For it had come about that the tyranny had obliterated Solon's laws by disuse, and Cleisthenes, aiming at the multitude, established different laws." - Aristotle, _Constitution of the Athenians_ 22.1
 
 Aristotle's assessment emphasizes how Cleisthenes' reforms went beyond earlier efforts and created a genuinely more democratic system by appealing to the masses.[^104]
 
-> "He divided the country into thirty parts... and he assigned three parts by lot to each tribe, in order that each tribe might have a share in all the districts." - Aristotle, *Constitution of the Athenians* 21.3
+> "He divided the country into thirty parts... and he assigned three parts by lot to each tribe, in order that each tribe might have a share in all the districts." - Aristotle, _Constitution of the Athenians_ 21.3
 
 This description highlights the sophisticated geographic distribution that characterized Cleisthenes' tribal system.[^105]
 
-> "Cleisthenes established a democracy for the Athenians." - Herodotus, *Histories* 6.131
+> "Cleisthenes established a democracy for the Athenians." - Herodotus, _Histories_ 6.131
 
 This straightforward statement by Herodotus reflects the ancient understanding of Cleisthenes as the founder of Athenian democracy.[^106]
 
-> "The Council resolved that if it seemed that anyone was aiming at tyranny, there should be a vote concerning him... and if he were voted out, he should be ostracized and banished from the country for ten years." - Aristotle, *Constitution of the Athenians* 22.1
+> "The Council resolved that if it seemed that anyone was aiming at tyranny, there should be a vote concerning him... and if he were voted out, he should be ostracized and banished from the country for ten years." - Aristotle, _Constitution of the Athenians_ 22.1
 
 Though Aristotle attributes ostracism to Cleisthenes, this describes the mechanism designed to protect democracy from would-be tyrants.[^107]
 
@@ -243,110 +243,216 @@ Though Aristotle attributes ostracism to Cleisthenes, this describes the mechani
 
 ## References
 
-[^1]: Herodotus, *Histories*, 5.66; Davies, J.K., *Athenian Propertied Families, 600-300 B.C.* (Oxford: Clarendon Press, 1971), 368-372.
-[^2]: Herodotus, *Histories*, 6.126-130; Griffin, Alan, *Sikyon* (Oxford: Clarendon Press, 1982), 45-52.
-[^3]: Lewis, David M., "Cleisthenes and Attica," *Historia* 12 (1963): 22-40.
-[^4]: Thucydides, *History of the Peloponnesian War*, 1.126; Parker, Robert, *Miasma: Pollution and Purification in Early Greek Religion* (Oxford: Clarendon Press, 1983), 257-280.
-[^5]: Aristotle, *Constitution of the Athenians*, 14-17; Lavelle, Brian M., *Fame, Money, and Power: The Rise of Peisistratos and "Democratic" Tyranny at Athens* (Ann Arbor: University of Michigan Press, 1993).
-[^6]: Herodotus, *Histories*, 1.64, 5.62-63; Sealey, Raphael, *A History of the Greek City States, 700-338 B.C.* (Berkeley: University of California Press, 1976), 155-162.
-[^7]: Herodotus, *Histories*, 5.62; Neer, Richard T., "The Athenian Treasury at Delphi and the Material of Politics," *Classical Antiquity* 23 (2004): 63-93.
-[^8]: Herodotus, *Histories*, 5.63-65; Aristotle, *Constitution of the Athenians*, 19.
-[^9]: Herodotus, *Histories*, 5.63; Parke, H.W. and D.E.W. Wormell, *The Delphic Oracle* (Oxford: Blackwell, 1956), vol. 1, 169-170.
-[^10]: Herodotus, *Histories*, 5.64-65; Forrest, W.G., "The Tradition of Hippias' Expulsion from Athens," *Greek, Roman and Byzantine Studies* 10 (1969): 277-286.
-[^11]: Herodotus, *Histories*, 5.66, 5.70; Anderson, Greg, "Before Turannoi Were Tyrants: Rethinking a Chapter of Early Greek History," *Classical Antiquity* 24 (2005): 173-222.
-[^12]: Aristotle, *Constitution of the Athenians*, 20.1; Rhodes, P.J., *A Commentary on the Aristotelian Athenaion Politeia* (Oxford: Clarendon Press, 1981), 240-244.
-[^13]: Herodotus, *Histories*, 5.66.2; translation from Godley, A.D., *Herodotus* (Cambridge, MA: Harvard University Press, 1922).
-[^14]: Herodotus, *Histories*, 5.66; Raaflaub, Kurt, *The Discovery of Freedom in Ancient Greece* (Chicago: University of Chicago Press, 2004), 87-95.
-[^15]: Herodotus, *Histories*, 5.70, 5.72; Aristotle, *Constitution of the Athenians*, 20.3.
-[^16]: Herodotus, *Histories*, 5.72; Stockton, David, *The Classical Athenian Democracy* (Oxford: Oxford University Press, 1990), 26-28.
-[^17]: Herodotus, *Histories*, 5.73; Aristotle, *Constitution of the Athenians*, 20.4.
-[^18]: Ober, Josiah, *The Rise and Fall of Classical Greece* (Princeton: Princeton University Press, 2015), 103-118.
-[^19]: Aristotle, *Constitution of the Athenians*, 21.2; Hignett, C., *A History of the Athenian Constitution to the End of the Fifth Century B.C.* (Oxford: Clarendon Press, 1952), 124-135.
-[^20]: Aristotle, *Constitution of the Athenians*, 21.3-4; Traill, John S., *The Political Organization of Attica* (Princeton: American School of Classical Studies at Athens, 1975).
-[^21]: Lewis, David M., "Cleisthenes and Attica," *Historia* 12 (1963): 22-40.
-[^22]: Manville, Philip Brook, *The Origins of Citizenship in Ancient Athens* (Princeton: Princeton University Press, 1990), 173-196.
-[^23]: Aristotle, *Constitution of the Athenians*, 21.3; Hansen, Mogens Herman, *The Athenian Democracy in the Age of Demosthenes* (Oxford: Blackwell, 1991), 246-253.
-[^24]: Headlam, J.W., *Election by Lot at Athens* (Cambridge: Cambridge University Press, 1891); Hansen, *Athenian Democracy*, 236-240.
-[^25]: Rhodes, P.J., *The Athenian Boule* (Oxford: Clarendon Press, 1972), 1-82.
-[^26]: Aristotle, *Constitution of the Athenians*, 43-44; Hansen, *Athenian Democracy*, 253-256.
-[^27]: Robinson, Eric W., *Democracy Beyond Athens: Popular Government in the Greek Classical Age* (Cambridge: Cambridge University Press, 2011), 38-52.
-[^28]: Hansen, *Athenian Democracy*, 125-160; Ober, Josiah, *Mass and Elite in Democratic Athens* (Princeton: Princeton University Press, 1989), 104-127.
-[^29]: Aristotle, *Constitution of the Athenians*, 22.1; Plutarch, *Life of Aristides*, 7.2-6; debate over dating in Thomsen, Rudi, *The Origin of Ostracism* (Copenhagen: Gyldendal, 1972).
-[^30]: Philochorus FGrH 328 F 30; Forsdyke, Sara, *Exile, Ostracism, and Democracy* (Princeton: Princeton University Press, 2005), 144-177.
-[^31]: Plato, *Laws*, 855d-856a; Forsdyke, *Exile*, 151-161.
-[^32]: Aristotle, *Constitution of the Athenians*, 21.3; Frost, Frank J., "The Athenian Military before Cleisthenes," *Historia* 33 (1984): 283-294.
-[^33]: Herodotus, *Histories*, 6.109; Hamel, Debra, *Athenian Generals: Military Authority in the Classical Period* (Leiden: Brill, 1998), 5-32.
-[^34]: Herodotus, *Histories*, 3.80, 3.142; Ostwald, Martin, *Nomos and the Beginnings of Athenian Democracy* (Oxford: Clarendon Press, 1969), 96-136.
-[^35]: Raaflaub, Kurt, "Equalities and Inequalities in Athenian Democracy," in *Demokratia: A Conversation on Democracies, Ancient and Modern*, ed. Josiah Ober and Charles Hedrick (Princeton: Princeton University Press, 1996), 139-174.
-[^36]: Roberts, Jennifer Tolbert, *Athens on Trial: The Antidemocratic Tradition in Western Thought* (Princeton: Princeton University Press, 1994).
-[^37]: Connor, W. Robert, "The Razing of the House in Greek Society," *Transactions of the American Philological Association* 115 (1985): 79-102.
-[^38]: Lavelle, Brian M., "Adikia, the Decree of Kannonus, and the Trial of the Generals," *Classica et Mediaevalia* 39 (1988): 19-41.
-[^39]: Hansen, Mogens Herman, *Demography and Democracy: The Number of Athenian Citizens in the Fourth Century B.C.* (Herning: Systime, 1986); Patterson, Cynthia, "The Hospitality of Athenian Justice," in *Greek Law in Its Political Setting*, ed. Lin Foxhall and A.D.E. Lewis (Oxford: Clarendon Press, 1996), 93-112.
-[^40]: Just, Roger, *Women in Athenian Law and Life* (London: Routledge, 1989); Vlassopoulos, Kostas, "Greek Slavery: From Domination to Property and Back Again," *Journal of Hellenic Studies* 131 (2011): 115-130.
-[^41]: Forsdyke, *Exile, Ostracism, and Democracy*, 144-177; Mossé, Claude, "How a Political Myth Takes Shape: Solon, 'Founding Father' of the Athenian Democracy," in *Democracy: A Conversation on Democracies, Ancient and Modern*, ed. Josiah Ober and Charles Hedrick (Princeton: Princeton University Press, 1996), 122-138.
-[^42]: Plutarch, *Life of Aristides*, 7; *Life of Themistocles*, 22; *Life of Cimon*, 17.
-[^43]: Pseudo-Xenophon, *Constitution of the Athenians*, 1.1-9; Plato, *Republic*, 555b-562a; Aristotle, *Politics*, 1279b-1280a.
-[^44]: Plato, *Protagoras*, 319b-d; Aristotle, *Politics*, 1281a-1282b.
-[^45]: Lewis, "Cleisthenes and Attica," 22-40; Trail, *Political Organization of Attica*, 73-103.
-[^46]: Anderson, Greg, *The Athenian Experiment: Building an Imagined Political Community in Ancient Attica, 508-490 BC* (Ann Arbor: University of Michigan Press, 2003), 112-145.
-[^47]: Connor, W. Robert, *The New Politicians of Fifth-Century Athens* (Princeton: Princeton University Press, 1971), 99-156.
-[^48]: Ostwald, Martin, *From Popular Sovereignty to the Sovereignty of Law* (Berkeley: University of California Press, 1986), 212-273.
-[^49]: Rhodes, *Commentary*, 240-273; limited biographical information in ancient sources.
-[^50]: Davies, *Athenian Propertied Families*, 368-372; scattered genealogical references.
-[^51]: Cox, Cheryl Anne, *Household Interests: Property, Marriage Strategies, and Family Dynamics in Ancient Athens* (Princeton: Princeton University Press, 1998), 63-89.
-[^52]: Plutarch, *Life of Pericles*, 3.2; Davies, *Athenian Propertied Families*, 455-460.
-[^53]: Osborne, Robin, *Classical Landscape with Figures* (London: George Philip, 1987), 53-82.
-[^54]: Ober, *Mass and Elite*, 248-292; elite culture and democratic politics.
-[^55]: Raaflaub, *Discovery of Freedom*, 87-95.
-[^56]: Meier, Christian, *The Greek Discovery of Politics* (Cambridge, MA: Harvard University Press, 1990), 53-81.
-[^57]: Last certain references in Herodotus, *Histories*, 6.131; Aristotle, *Constitution of the Athenians*, 22.
+[^1]: Herodotus, _Histories_, 5.66; Davies, J.K., _Athenian Propertied Families, 600-300 B.C._ (Oxford: Clarendon Press, 1971), 368-372.
+
+[^2]: Herodotus, _Histories_, 6.126-130; Griffin, Alan, _Sikyon_ (Oxford: Clarendon Press, 1982), 45-52.
+
+[^3]: Lewis, David M., "Cleisthenes and Attica," _Historia_ 12 (1963): 22-40.
+
+[^4]: Thucydides, _History of the Peloponnesian War_, 1.126; Parker, Robert, _Miasma: Pollution and Purification in Early Greek Religion_ (Oxford: Clarendon Press, 1983), 257-280.
+
+[^5]: Aristotle, _Constitution of the Athenians_, 14-17; Lavelle, Brian M., _Fame, Money, and Power: The Rise of Peisistratos and "Democratic" Tyranny at Athens_ (Ann Arbor: University of Michigan Press, 1993).
+
+[^6]: Herodotus, _Histories_, 1.64, 5.62-63; Sealey, Raphael, _A History of the Greek City States, 700-338 B.C._ (Berkeley: University of California Press, 1976), 155-162.
+
+[^7]: Herodotus, _Histories_, 5.62; Neer, Richard T., "The Athenian Treasury at Delphi and the Material of Politics," _Classical Antiquity_ 23 (2004): 63-93.
+
+[^8]: Herodotus, _Histories_, 5.63-65; Aristotle, _Constitution of the Athenians_, 19.
+
+[^9]: Herodotus, _Histories_, 5.63; Parke, H.W. and D.E.W. Wormell, _The Delphic Oracle_ (Oxford: Blackwell, 1956), vol. 1, 169-170.
+
+[^10]: Herodotus, _Histories_, 5.64-65; Forrest, W.G., "The Tradition of Hippias' Expulsion from Athens," _Greek, Roman and Byzantine Studies_ 10 (1969): 277-286.
+
+[^11]: Herodotus, _Histories_, 5.66, 5.70; Anderson, Greg, "Before Turannoi Were Tyrants: Rethinking a Chapter of Early Greek History," _Classical Antiquity_ 24 (2005): 173-222.
+
+[^12]: Aristotle, _Constitution of the Athenians_, 20.1; Rhodes, P.J., _A Commentary on the Aristotelian Athenaion Politeia_ (Oxford: Clarendon Press, 1981), 240-244.
+
+[^13]: Herodotus, _Histories_, 5.66.2; translation from Godley, A.D., _Herodotus_ (Cambridge, MA: Harvard University Press, 1922).
+
+[^14]: Herodotus, _Histories_, 5.66; Raaflaub, Kurt, _The Discovery of Freedom in Ancient Greece_ (Chicago: University of Chicago Press, 2004), 87-95.
+
+[^15]: Herodotus, _Histories_, 5.70, 5.72; Aristotle, _Constitution of the Athenians_, 20.3.
+
+[^16]: Herodotus, _Histories_, 5.72; Stockton, David, _The Classical Athenian Democracy_ (Oxford: Oxford University Press, 1990), 26-28.
+
+[^17]: Herodotus, _Histories_, 5.73; Aristotle, _Constitution of the Athenians_, 20.4.
+
+[^18]: Ober, Josiah, _The Rise and Fall of Classical Greece_ (Princeton: Princeton University Press, 2015), 103-118.
+
+[^19]: Aristotle, _Constitution of the Athenians_, 21.2; Hignett, C., _A History of the Athenian Constitution to the End of the Fifth Century B.C._ (Oxford: Clarendon Press, 1952), 124-135.
+
+[^20]: Aristotle, _Constitution of the Athenians_, 21.3-4; Traill, John S., _The Political Organization of Attica_ (Princeton: American School of Classical Studies at Athens, 1975).
+
+[^21]: Lewis, David M., "Cleisthenes and Attica," _Historia_ 12 (1963): 22-40.
+
+[^22]: Manville, Philip Brook, _The Origins of Citizenship in Ancient Athens_ (Princeton: Princeton University Press, 1990), 173-196.
+
+[^23]: Aristotle, _Constitution of the Athenians_, 21.3; Hansen, Mogens Herman, _The Athenian Democracy in the Age of Demosthenes_ (Oxford: Blackwell, 1991), 246-253.
+
+[^24]: Headlam, J.W., _Election by Lot at Athens_ (Cambridge: Cambridge University Press, 1891); Hansen, _Athenian Democracy_, 236-240.
+
+[^25]: Rhodes, P.J., _The Athenian Boule_ (Oxford: Clarendon Press, 1972), 1-82.
+
+[^26]: Aristotle, _Constitution of the Athenians_, 43-44; Hansen, _Athenian Democracy_, 253-256.
+
+[^27]: Robinson, Eric W., _Democracy Beyond Athens: Popular Government in the Greek Classical Age_ (Cambridge: Cambridge University Press, 2011), 38-52.
+
+[^28]: Hansen, _Athenian Democracy_, 125-160; Ober, Josiah, _Mass and Elite in Democratic Athens_ (Princeton: Princeton University Press, 1989), 104-127.
+
+[^29]: Aristotle, _Constitution of the Athenians_, 22.1; Plutarch, _Life of Aristides_, 7.2-6; debate over dating in Thomsen, Rudi, _The Origin of Ostracism_ (Copenhagen: Gyldendal, 1972).
+
+[^30]: Philochorus FGrH 328 F 30; Forsdyke, Sara, _Exile, Ostracism, and Democracy_ (Princeton: Princeton University Press, 2005), 144-177.
+
+[^31]: Plato, _Laws_, 855d-856a; Forsdyke, _Exile_, 151-161.
+
+[^32]: Aristotle, _Constitution of the Athenians_, 21.3; Frost, Frank J., "The Athenian Military before Cleisthenes," _Historia_ 33 (1984): 283-294.
+
+[^33]: Herodotus, _Histories_, 6.109; Hamel, Debra, _Athenian Generals: Military Authority in the Classical Period_ (Leiden: Brill, 1998), 5-32.
+
+[^34]: Herodotus, _Histories_, 3.80, 3.142; Ostwald, Martin, _Nomos and the Beginnings of Athenian Democracy_ (Oxford: Clarendon Press, 1969), 96-136.
+
+[^35]: Raaflaub, Kurt, "Equalities and Inequalities in Athenian Democracy," in _Demokratia: A Conversation on Democracies, Ancient and Modern_, ed. Josiah Ober and Charles Hedrick (Princeton: Princeton University Press, 1996), 139-174.
+
+[^36]: Roberts, Jennifer Tolbert, _Athens on Trial: The Antidemocratic Tradition in Western Thought_ (Princeton: Princeton University Press, 1994).
+
+[^37]: Connor, W. Robert, "The Razing of the House in Greek Society," _Transactions of the American Philological Association_ 115 (1985): 79-102.
+
+[^38]: Lavelle, Brian M., "Adikia, the Decree of Kannonus, and the Trial of the Generals," _Classica et Mediaevalia_ 39 (1988): 19-41.
+
+[^39]: Hansen, Mogens Herman, _Demography and Democracy: The Number of Athenian Citizens in the Fourth Century B.C._ (Herning: Systime, 1986); Patterson, Cynthia, "The Hospitality of Athenian Justice," in _Greek Law in Its Political Setting_, ed. Lin Foxhall and A.D.E. Lewis (Oxford: Clarendon Press, 1996), 93-112.
+
+[^40]: Just, Roger, _Women in Athenian Law and Life_ (London: Routledge, 1989); Vlassopoulos, Kostas, "Greek Slavery: From Domination to Property and Back Again," _Journal of Hellenic Studies_ 131 (2011): 115-130.
+
+[^41]: Forsdyke, _Exile, Ostracism, and Democracy_, 144-177; Mossé, Claude, "How a Political Myth Takes Shape: Solon, 'Founding Father' of the Athenian Democracy," in _Democracy: A Conversation on Democracies, Ancient and Modern_, ed. Josiah Ober and Charles Hedrick (Princeton: Princeton University Press, 1996), 122-138.
+
+[^42]: Plutarch, _Life of Aristides_, 7; _Life of Themistocles_, 22; _Life of Cimon_, 17.
+
+[^43]: Pseudo-Xenophon, _Constitution of the Athenians_, 1.1-9; Plato, _Republic_, 555b-562a; Aristotle, _Politics_, 1279b-1280a.
+
+[^44]: Plato, _Protagoras_, 319b-d; Aristotle, _Politics_, 1281a-1282b.
+
+[^45]: Lewis, "Cleisthenes and Attica," 22-40; Trail, _Political Organization of Attica_, 73-103.
+
+[^46]: Anderson, Greg, _The Athenian Experiment: Building an Imagined Political Community in Ancient Attica, 508-490 BC_ (Ann Arbor: University of Michigan Press, 2003), 112-145.
+
+[^47]: Connor, W. Robert, _The New Politicians of Fifth-Century Athens_ (Princeton: Princeton University Press, 1971), 99-156.
+
+[^48]: Ostwald, Martin, _From Popular Sovereignty to the Sovereignty of Law_ (Berkeley: University of California Press, 1986), 212-273.
+
+[^49]: Rhodes, _Commentary_, 240-273; limited biographical information in ancient sources.
+
+[^50]: Davies, _Athenian Propertied Families_, 368-372; scattered genealogical references.
+
+[^51]: Cox, Cheryl Anne, _Household Interests: Property, Marriage Strategies, and Family Dynamics in Ancient Athens_ (Princeton: Princeton University Press, 1998), 63-89.
+
+[^52]: Plutarch, _Life of Pericles_, 3.2; Davies, _Athenian Propertied Families_, 455-460.
+
+[^53]: Osborne, Robin, _Classical Landscape with Figures_ (London: George Philip, 1987), 53-82.
+
+[^54]: Ober, _Mass and Elite_, 248-292; elite culture and democratic politics.
+
+[^55]: Raaflaub, _Discovery of Freedom_, 87-95.
+
+[^56]: Meier, Christian, _The Greek Discovery of Politics_ (Cambridge, MA: Harvard University Press, 1990), 53-81.
+
+[^57]: Last certain references in Herodotus, _Histories_, 6.131; Aristotle, _Constitution of the Athenians_, 22.
+
 [^58]: Dating uncertain; likely died early 5th century BCE before Persian Wars.
-[^59]: Unlike contemporaries like Miltiades or later democratic leaders; Davies, *Athenian Propertied Families*, 372.
-[^60]: Dunn, John, *Democracy: A History* (New York: Atlantic Monthly Press, 2005), 13-33.
-[^61]: Ober, *Rise and Fall of Classical Greece*, 118-156; connection between democratic institutions and cultural flourishing.
-[^62]: Cartledge, Paul, *Democracy: A Life* (Oxford: Oxford University Press, 2016), 73-98.
-[^63]: Raaflaub, Kurt A., Josiah Ober, and Robert W. Wallace, *Origins of Democracy in Ancient Greece* (Berkeley: University of California Press, 2007), 105-148.
-[^64]: Hansen, *Athenian Democracy*, 67-72; institutional continuity despite brief interruptions in 411 and 404 BCE.
-[^65]: Ober, Josiah, "The Athenian Revolution of 508/7 BCE: Violence, Authority, and the Origins of Democracy," in *Cultural Poetics in Archaic Greece*, ed. Carol Dougherty and Leslie Kurke (Oxford: Oxford University Press, 1993), 215-232.
-[^66]: Lane, Melissa, "The Origins of the Statesman-Demagogue Distinction in and after Ancient Athens," *Journal of the History of Ideas* 73 (2012): 179-200.
-[^67]: Saxonhouse, Arlene W., *Free Speech and Democracy in Ancient Athens* (Cambridge: Cambridge University Press, 2006), 72-98.
-[^68]: Wills, Garry, *Lincoln at Gettysburg: The Words That Remade America* (New York: Simon & Schuster, 1992), 41-62; American founders' engagement with Athenian example.
-[^69]: Canfora, Luciano, *Democracy in Europe: A History* (Oxford: Blackwell, 2006), 3-24.
-[^70]: Fishkin, James S., *Democracy When the People Are Thinking* (Oxford: Oxford University Press, 2018), 67-89; modern revival of sortition.
-[^71]: Manin, Bernard, *The Principles of Representative Government* (Cambridge: Cambridge University Press, 1997), 42-93.
-[^72]: Forsdyke, *Exile*, 283-307; modern parallels and applications.
-[^73]: Anderson, *Athenian Experiment*, 56-111; reimagining political community.
-[^74]: Meier, *Greek Discovery of Politics*, 53-81; political innovation and tradition.
-[^75]: Traill, *Political Organization*, 1-72; administrative geography.
+
+[^59]: Unlike contemporaries like Miltiades or later democratic leaders; Davies, _Athenian Propertied Families_, 372.
+
+[^60]: Dunn, John, _Democracy: A History_ (New York: Atlantic Monthly Press, 2005), 13-33.
+
+[^61]: Ober, _Rise and Fall of Classical Greece_, 118-156; connection between democratic institutions and cultural flourishing.
+
+[^62]: Cartledge, Paul, _Democracy: A Life_ (Oxford: Oxford University Press, 2016), 73-98.
+
+[^63]: Raaflaub, Kurt A., Josiah Ober, and Robert W. Wallace, _Origins of Democracy in Ancient Greece_ (Berkeley: University of California Press, 2007), 105-148.
+
+[^64]: Hansen, _Athenian Democracy_, 67-72; institutional continuity despite brief interruptions in 411 and 404 BCE.
+
+[^65]: Ober, Josiah, "The Athenian Revolution of 508/7 BCE: Violence, Authority, and the Origins of Democracy," in _Cultural Poetics in Archaic Greece_, ed. Carol Dougherty and Leslie Kurke (Oxford: Oxford University Press, 1993), 215-232.
+
+[^66]: Lane, Melissa, "The Origins of the Statesman-Demagogue Distinction in and after Ancient Athens," _Journal of the History of Ideas_ 73 (2012): 179-200.
+
+[^67]: Saxonhouse, Arlene W., _Free Speech and Democracy in Ancient Athens_ (Cambridge: Cambridge University Press, 2006), 72-98.
+
+[^68]: Wills, Garry, _Lincoln at Gettysburg: The Words That Remade America_ (New York: Simon & Schuster, 1992), 41-62; American founders' engagement with Athenian example.
+
+[^69]: Canfora, Luciano, _Democracy in Europe: A History_ (Oxford: Blackwell, 2006), 3-24.
+
+[^70]: Fishkin, James S., _Democracy When the People Are Thinking_ (Oxford: Oxford University Press, 2018), 67-89; modern revival of sortition.
+
+[^71]: Manin, Bernard, _The Principles of Representative Government_ (Cambridge: Cambridge University Press, 1997), 42-93.
+
+[^72]: Forsdyke, _Exile_, 283-307; modern parallels and applications.
+
+[^73]: Anderson, _Athenian Experiment_, 56-111; reimagining political community.
+
+[^74]: Meier, _Greek Discovery of Politics_, 53-81; political innovation and tradition.
+
+[^75]: Traill, _Political Organization_, 1-72; administrative geography.
+
 [^76]: Lewis, "Cleisthenes and Attica," 22-40; political geography and power distribution.
-[^77]: Vlassopoulos, Kostas, *Politics: Antiquity and Its Legacy* (London: I.B. Tauris, 2010), 88-112.
-[^78]: Low, Polly, "Looking for the Language of Athenian Imperialism," *Journal of Hellenic Studies* 125 (2005): 93-111.
-[^79]: Ober, *Rise and Fall*, 103-118; modern scholarly consensus.
-[^80]: Ober, Josiah, *Democracy and Knowledge: Innovation and Learning in Classical Athens* (Princeton: Princeton University Press, 2008), 71-89.
-[^81]: Ober, *Mass and Elite*, 53-103; popular sovereignty in practice.
-[^82]: Manin, *Principles of Representative Government*, 42-93.
+
+[^77]: Vlassopoulos, Kostas, _Politics: Antiquity and Its Legacy_ (London: I.B. Tauris, 2010), 88-112.
+
+[^78]: Low, Polly, "Looking for the Language of Athenian Imperialism," _Journal of Hellenic Studies_ 125 (2005): 93-111.
+
+[^79]: Ober, _Rise and Fall_, 103-118; modern scholarly consensus.
+
+[^80]: Ober, Josiah, _Democracy and Knowledge: Innovation and Learning in Classical Athens_ (Princeton: Princeton University Press, 2008), 71-89.
+
+[^81]: Ober, _Mass and Elite_, 53-103; popular sovereignty in practice.
+
+[^82]: Manin, _Principles of Representative Government_, 42-93.
+
 [^83]: Lewis, "Cleisthenes and Attica," 22-40; sophisticated political design.
-[^84]: Meier, Christian, "Cleisthenes and the Institutionalizing of the Civic Presence in Athens," in *City States in Classical Antiquity and Medieval Italy*, ed. Anthony Molho et al. (Stuttgart: Franz Steiner Verlag, 1991), 29-44.
-[^85]: Manville, *Origins of Citizenship*, 173-196; transformation of political identity.
-[^86]: Raaflaub, *Origins of Democracy*, 105-148.
-[^87]: Ostwald, *Nomos*, 137-180; pragmatic reform and existing institutions.
-[^88]: Lanni, Adriaan, "The Athenian Institution of the Antidosis," *Classical Quarterly* 59 (2009): 393-409.
-[^89]: Ober, *Democracy and Knowledge*, 71-89; institutional effects beyond intentions.
-[^90]: Roberts, *Athens on Trial*, 12-47; anti-democratic intellectual tradition.
-[^91]: Connor, W. Robert, "Tribes, Festivals, and Processions: Civic Ceremonial and Political Manipulation in Archaic Greece," *Journal of Hellenic Studies* 107 (1987): 40-50.
-[^92]: Connor, *New Politicians*, 99-156; elite continuity after reforms.
-[^93]: Roberts, Jennifer Tolbert, *Accountability in Athenian Government* (Madison: University of Wisconsin Press, 1982), 3-28.
-[^94]: Ober, *Mass and Elite*, 156-191; elite speakers dominating democratic institutions.
-[^95]: Finley, M.I., *Democracy Ancient and Modern* (New Brunswick: Rutgers University Press, 1985), 9-36.
-[^96]: Samons, Loren J., *What's Wrong with Democracy? From Athenian Practice to American Worship* (Berkeley: University of California Press, 2004), 45-89.
-[^97]: Cartledge, Paul, "The Democratic Invention: The Greeks Created the Idea of Democracy But Also the Problems of the Demagogue and Mob Rule," in *The Experiment of Democracy*, ed. Various (London: BBC, 2005), 34-56.
-[^98]: Euben, J. Peter, "Reading Democracy: 'Socratic' Dialogues and the Political Education of Democratic Citizens," in *Demokratia*, ed. Josiah Ober and Charles Hedrick (Princeton: Princeton University Press, 1996), 327-359.
-[^99]: Pseudo-Xenophon, *Constitution of the Athenians*, 1.1-9; ancient anti-democratic critique.
-[^100]: Kagan, Donald, *The Outbreak of the Peloponnesian War* (Ithaca: Cornell University Press, 1969), 345-374; democratic decision-making flaws.
-[^101]: Anderson, *Athenian Experiment*, 1-26; methodological critique of modern interpretations.
+
+[^84]: Meier, Christian, "Cleisthenes and the Institutionalizing of the Civic Presence in Athens," in _City States in Classical Antiquity and Medieval Italy_, ed. Anthony Molho et al. (Stuttgart: Franz Steiner Verlag, 1991), 29-44.
+
+[^85]: Manville, _Origins of Citizenship_, 173-196; transformation of political identity.
+
+[^86]: Raaflaub, _Origins of Democracy_, 105-148.
+
+[^87]: Ostwald, _Nomos_, 137-180; pragmatic reform and existing institutions.
+
+[^88]: Lanni, Adriaan, "The Athenian Institution of the Antidosis," _Classical Quarterly_ 59 (2009): 393-409.
+
+[^89]: Ober, _Democracy and Knowledge_, 71-89; institutional effects beyond intentions.
+
+[^90]: Roberts, _Athens on Trial_, 12-47; anti-democratic intellectual tradition.
+
+[^91]: Connor, W. Robert, "Tribes, Festivals, and Processions: Civic Ceremonial and Political Manipulation in Archaic Greece," _Journal of Hellenic Studies_ 107 (1987): 40-50.
+
+[^92]: Connor, _New Politicians_, 99-156; elite continuity after reforms.
+
+[^93]: Roberts, Jennifer Tolbert, _Accountability in Athenian Government_ (Madison: University of Wisconsin Press, 1982), 3-28.
+
+[^94]: Ober, _Mass and Elite_, 156-191; elite speakers dominating democratic institutions.
+
+[^95]: Finley, M.I., _Democracy Ancient and Modern_ (New Brunswick: Rutgers University Press, 1985), 9-36.
+
+[^96]: Samons, Loren J., _What's Wrong with Democracy? From Athenian Practice to American Worship_ (Berkeley: University of California Press, 2004), 45-89.
+
+[^97]: Cartledge, Paul, "The Democratic Invention: The Greeks Created the Idea of Democracy But Also the Problems of the Demagogue and Mob Rule," in _The Experiment of Democracy_, ed. Various (London: BBC, 2005), 34-56.
+
+[^98]: Euben, J. Peter, "Reading Democracy: 'Socratic' Dialogues and the Political Education of Democratic Citizens," in _Demokratia_, ed. Josiah Ober and Charles Hedrick (Princeton: Princeton University Press, 1996), 327-359.
+
+[^99]: Pseudo-Xenophon, _Constitution of the Athenians_, 1.1-9; ancient anti-democratic critique.
+
+[^100]: Kagan, Donald, _The Outbreak of the Peloponnesian War_ (Ithaca: Cornell University Press, 1969), 345-374; democratic decision-making flaws.
+
+[^101]: Anderson, _Athenian Experiment_, 1-26; methodological critique of modern interpretations.
+
 [^102]: Anderson, Greg, "Before Turannoi Were Tyrants," 173-222; rethinking ancient political categories.
-[^103]: Herodotus, *Histories*, 5.66.2; Godley translation.
-[^104]: Aristotle, *Constitution of the Athenians*, 22.1; Kenyon translation.
-[^105]: Aristotle, *Constitution of the Athenians*, 21.3; Rhodes translation.
-[^106]: Herodotus, *Histories*, 6.131.1; Waterfield translation.
-[^107]: Aristotle, *Constitution of the Athenians*, 22.1; Moore translation.
+
+[^103]: Herodotus, _Histories_, 5.66.2; Godley translation.
+
+[^104]: Aristotle, _Constitution of the Athenians_, 22.1; Kenyon translation.
+
+[^105]: Aristotle, _Constitution of the Athenians_, 21.3; Rhodes translation.
+
+[^106]: Herodotus, _Histories_, 6.131.1; Waterfield translation.
+
+[^107]: Aristotle, _Constitution of the Athenians_, 22.1; Moore translation.

@@ -49,7 +49,7 @@ Despite his notorious personal life, Pope Alexander VI made significant contribu
 
 ### Division of the New World
 
-Perhaps Alexander's most historically consequential act was his role in resolving territorial disputes between Spain and Portugal over newly discovered lands. On May 4, 1493, he issued the papal bull *Inter caetera*, which established a line of demarcation 100 leagues west of the Azores or Cape Verde Islands, granting Spain exclusive rights to all lands west of this line.[^21] This decision, influenced by Alexander's Spanish origins, initially favored Spain dramatically. However, Portuguese King John II protested vigorously, leading to direct negotiations between the two Iberian powers.
+Perhaps Alexander's most historically consequential act was his role in resolving territorial disputes between Spain and Portugal over newly discovered lands. On May 4, 1493, he issued the papal bull _Inter caetera_, which established a line of demarcation 100 leagues west of the Azores or Cape Verde Islands, granting Spain exclusive rights to all lands west of this line.[^21] This decision, influenced by Alexander's Spanish origins, initially favored Spain dramatically. However, Portuguese King John II protested vigorously, leading to direct negotiations between the two Iberian powers.
 
 The subsequent Treaty of Tordesillas, signed on June 7, 1494, moved the demarcation line to 370 leagues west of the Cape Verde Islands, approximately 46°30′ west of Greenwich.[^22] Though negotiated without papal involvement, Pope Julius II later sanctioned the treaty in 1506.[^23] This agreement effectively divided the non-Christian world between the two great Catholic maritime powers, with profound consequences for colonization, global trade, and the spread of European culture and Christianity. The treaty inadvertently granted Portugal control over what would become Brazil, fundamentally shaping the linguistic and cultural map of South America.
 
@@ -59,7 +59,7 @@ Alexander VI was a discriminating patron of the arts who employed numerous notew
 
 A letter dated March 29, 1493, indicates Alexander interrupted Pinturicchio's work on the Duomo of Orvieto to bring him to the Vatican for this prestigious commission.[^27] The resulting frescoes, including the Room of the Sibyls, Room of the Creed, Room of the Liberal Arts, Room of the Saints, and Room of the Faith, represent some of the finest art of the period.[^28] Alexander's patronage of Pinturicchio set a new standard that ignited an artistic competition among subsequent popes, ultimately culminating in Raphael's era-defining works in the Papal Palace.[^29]
 
-Alexander also persuaded Michelangelo to create his *Pietà* and to draw preliminary plans for the rebuilding of St. Peter's Basilica.[^30] He erected a center for the University of Rome, restored the Castel Sant'Angelo, built the monumental mansion of the Apostolic Chancery, and generally embellished the Vatican palaces.[^31] These cultural investments transformed Rome into a center of Renaissance art and learning.
+Alexander also persuaded Michelangelo to create his _Pietà_ and to draw preliminary plans for the rebuilding of St. Peter's Basilica.[^30] He erected a center for the University of Rome, restored the Castel Sant'Angelo, built the monumental mansion of the Apostolic Chancery, and generally embellished the Vatican palaces.[^31] These cultural investments transformed Rome into a center of Renaissance art and learning.
 
 ### The Holy Year Jubilee of 1500
 
@@ -85,7 +85,7 @@ The very foundation of Alexander's papacy was tainted by allegations of massive 
 
 Alexander VI elevated not fewer than ten of his relatives to the College of Cardinals during his pontificate.[^42] He shamelessly used papal authority to advance the fortunes of his illegitimate children, particularly his sons Cesare and Juan, and his daughter Lucrezia. Cesare was made a cardinal at the unprecedented age of eighteen and later became Duke of Valentinois.[^43] Juan received the title Duke of Gandia and was appointed Captain General of the Church.[^44] Lucrezia became a crucial pawn in Alexander's political schemes, with her marriages repeatedly annulled and rearranged to suit papal diplomatic needs.[^45]
 
-The pope's relentless pursuit of territories and titles for his children destabilized Italian politics and diverted Church resources for personal dynastic ambitions. Cesare Borgia's ruthless military campaigns to carve out a state in central Italy became legendary for their brutality and served as inspiration for Niccolò Machiavelli's *The Prince*.[^46]
+The pope's relentless pursuit of territories and titles for his children destabilized Italian politics and diverted Church resources for personal dynastic ambitions. Cesare Borgia's ruthless military campaigns to carve out a state in central Italy became legendary for their brutality and served as inspiration for Niccolò Machiavelli's _The Prince_.[^46]
 
 ### Acknowledged Illegitimate Children and Mistresses
 
@@ -179,27 +179,27 @@ The scholarly consensus maintains that Alexander VI embodies the contradictions 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1431 | Born Rodrigo de Borja in Xàtiva, Kingdom of Valencia |
-| 1445 | Appointed sacristan at Cathedral of Valencia at age 14 |
-| 1455 | Uncle Alonso de Borja becomes Pope Callixtus III |
-| 1456 | Ordained deacon and made cardinal |
-| 1457 | Appointed vice-chancellor of the Holy Roman Church |
-| 1471 | Becomes Cardinal-Bishop of Albano |
-| 1476 | Made Cardinal-Bishop of Porto and Dean of the Sacred College |
-| 1492 | Elected Pope Alexander VI on August 11 |
-| 1493 | Issues papal bull *Inter caetera* establishing Line of Demarcation (May 4) |
-| 1494 | Treaty of Tordesillas signed between Spain and Portugal (June 7) |
-| 1494 | Charles VIII of France enters Rome (December 31) |
-| 1495 | Forms League of Venice against French |
-| 1497 | Excommunicates Girolamo Savonarola (May 12) |
-| 1497 | Son Juan Borgia murdered in Rome (June 14) |
-| 1498 | Savonarola executed in Florence (May 23) |
-| 1499 | Opens first Holy Door at St. Peter's Basilica (December 24) |
-| 1500 | Proclaims and celebrates Holy Year Jubilee |
-| 1503 | Falls ill with fever (August 12) |
-| 1503 | Dies in Rome at age 72 (August 18) |
+| Year | Event                                                                      |
+| ---- | -------------------------------------------------------------------------- |
+| 1431 | Born Rodrigo de Borja in Xàtiva, Kingdom of Valencia                       |
+| 1445 | Appointed sacristan at Cathedral of Valencia at age 14                     |
+| 1455 | Uncle Alonso de Borja becomes Pope Callixtus III                           |
+| 1456 | Ordained deacon and made cardinal                                          |
+| 1457 | Appointed vice-chancellor of the Holy Roman Church                         |
+| 1471 | Becomes Cardinal-Bishop of Albano                                          |
+| 1476 | Made Cardinal-Bishop of Porto and Dean of the Sacred College               |
+| 1492 | Elected Pope Alexander VI on August 11                                     |
+| 1493 | Issues papal bull _Inter caetera_ establishing Line of Demarcation (May 4) |
+| 1494 | Treaty of Tordesillas signed between Spain and Portugal (June 7)           |
+| 1494 | Charles VIII of France enters Rome (December 31)                           |
+| 1495 | Forms League of Venice against French                                      |
+| 1497 | Excommunicates Girolamo Savonarola (May 12)                                |
+| 1497 | Son Juan Borgia murdered in Rome (June 14)                                 |
+| 1498 | Savonarola executed in Florence (May 23)                                   |
+| 1499 | Opens first Holy Door at St. Peter's Basilica (December 24)                |
+| 1500 | Proclaims and celebrates Holy Year Jubilee                                 |
+| 1503 | Falls ill with fever (August 12)                                           |
+| 1503 | Dies in Rome at age 72 (August 18)                                         |
 
 ---
 
@@ -220,96 +220,189 @@ The scholarly consensus maintains that Alexander VI embodies the contradictions 
 ## References
 
 [^1]: [Pope Alexander VI - Wikipedia](https://en.wikipedia.org/wiki/Pope_Alexander_VI)
+
 [^2]: [Alexander VI | Biography, Legacy, & Facts | Britannica](https://www.britannica.com/biography/Alexander-VI)
+
 [^3]: [CATHOLIC ENCYCLOPEDIA: Pope Alexander VI](https://www.newadvent.org/cathen/01289a.htm)
+
 [^4]: [The Scandalous Life of Alexander VI, the Borgia Who Became a Pope | TheCollector](https://www.thecollector.com/pope-alexander-vi-borgia-legacy/)
+
 [^5]: [Pope Alexander VI: Unscrupulous Borgia Patriarch With a Lust for Power | Ancient Origins](https://www.ancient-origins.net/history-famous-people/pope-alexander-vi-0014104)
+
 [^6]: [Alexander VI | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/alexander-vi)
+
 [^7]: [Pope Alexander VI | History, Biography & Corruption - Study.com](https://study.com/academy/lesson/pope-alexander-vi-biography-corruption-quiz.html)
+
 [^8]: [The Papal Election of 1492: Rodrigo Borgia and the Conclave | DIG](https://digpodcast.org/2021/01/03/papal-election-1492/)
+
 [^9]: [The long apprenticeship: Rodrigo Borgia as Papal Vice-Chancellor, 1457-1492 - ORA](https://ora.ox.ac.uk/objects/uuid:5c8b67df-2fea-4104-baae-c3fbf5adb096)
+
 [^10]: [Alexander VI - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Alexander_VI)
+
 [^11]: [Alexander VI, Pope | Encyclopedia.com](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/alexander-vi-pope)
+
 [^12]: [Borgia, House of | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/borgia-house)
+
 [^13]: [Learn Pope Alexander VI facts for kids](https://kids.kiddle.co/Pope_Alexander_VI)
+
 [^14]: [1492 papal conclave - Wikipedia](https://en.wikipedia.org/wiki/1492_papal_conclave)
+
 [^15]: [sede vacante 1492](http://www.csun.edu/~hcfll004/SV1492.html)
+
 [^16]: [The Cardinals of the Holy Roman Church - Papal elections - XV Century](https://cardinals.fiu.edu/election-alexandervi.htm)
+
 [^17]: [1492 conclave - Wikipedia](https://en.wikipedia.org/wiki/1492_papal_conclave)
+
 [^18]: [Pope Alexander VI - The 214th Pope - PopeHistory.com](https://popehistory.com/popes/pope-alexander-vi/)
+
 [^19]: [1492 conclave](https://grokipedia.com/page/1492_papal_conclave)
+
 [^20]: [Papal conclave, 1492 | Religion Wiki](https://religion.fandom.com/wiki/Papal_conclave,_1492)
+
 [^21]: [Treaty of Tordesillas - Wikipedia](https://en.wikipedia.org/wiki/Treaty_of_Tordesillas)
+
 [^22]: [Treaty of Tordesillas | Summary, Definition, Map, & Facts | Britannica](https://www.britannica.com/event/Treaty-of-Tordesillas)
+
 [^23]: [Treaty of Tordesillas | Definition, History & Importance - Study.com](https://study.com/academy/lesson/treaty-of-tordesillas-definition-and-lesson.html)
+
 [^24]: [Alexander Vi | Encyclopedia.com](https://www.encyclopedia.com/people/philosophy-and-religion/roman-catholic-popes-and-antipopes/alexander-vi)
+
 [^25]: [Art in Tuscany | Pinturicchio | Frescoes in the Borgia Apartments](http://www.travelingintuscany.com/art/pinturicchio/borgiaapartment.htm)
+
 [^26]: [The Borgia Family and Their Patronage of the Arts | For Art Lovers](https://lightisdark.com/borgia/)
+
 [^27]: [Pinturicchio and the Borgia | EWTN](https://www.ewtn.com/catholicism/library/pinturicchio-and-the-borgia-1705)
+
 [^28]: [Borgia Apartments - Wikipedia](https://en.wikipedia.org/wiki/Borgia_Apartments)
+
 [^29]: [Beautiful Frescoes and Bloody Intrigue: The Borgia Apartments | Through Eternity Tours](https://www.througheternity.com/en/blog/art/borgia-apartments-guide.html)
+
 [^30]: [10 Popes Who Shaped Rome | Through Eternity Tours](https://www.througheternity.com/en/blog/vatican-guide/history-papacy-popes-who-shaped-rome.html)
+
 [^31]: [Alexander VI Biography - Achievements | TheFamousPeople](https://www.thefamouspeople.com/profiles/pope-alexander-vi-33598.php)
+
 [^32]: [Pope Alexander VI – Papal Artifacts](http://www.papalartifacts.com/portfolio-item/pope-alexander-vi/)
+
 [^33]: [Holy door - Wikipedia](https://en.wikipedia.org/wiki/Holy_door)
+
 [^34]: [Jubilees throughout History](https://www.iubilaeum2025.va/en/giubileo-2025/giubilei-nella-storia.html)
+
 [^35]: [An Artful Pope; Knights of Honor - Catholic Online](https://www.catholic.org/featured/headline.php?ID=3289)
+
 [^36]: [Pope Alexander VI, c.1431-1503 | History of War](https://www.historyofwar.org/articles/people_pope_alexander_VI.html)
+
 [^37]: [Oxford Bibliographies - Pope Alexander VI](https://www.oxfordbibliographies.com/display/document/obo-9780195399301/obo-9780195399301-0357.xml)
+
 [^38]: [Inside Pope Alexander VI's Corrupt And Sinful Reign | All That's Interesting](https://allthatsinteresting.com/pope-alexander-vi)
+
 [^39]: [Alexander VI - Top 10 Controversial Popes - TIME](https://content.time.com/time/specials/packages/article/0,28804,1981842_1981844_1981620,00.html)
+
 [^40]: [Papal conclave of 1492 | Richard III Wiki](https://richard-iii-of-england.fandom.com/wiki/Papal_conclave_of_1492)
+
 [^41]: [What 'Conclave' gets right about papal politics | Yahoo](https://www.yahoo.com/entertainment/articles/conclave-gets-wrong-papal-politics-173510860.html)
+
 [^42]: [Scandalous Facts About Pope Alexander VI | Factinate](https://www.factinate.com/people/pope-alexander-vi/)
+
 [^43]: [Cesare Borgia - Wikipedia](https://en.wikipedia.org/wiki/Cesare_Borgia)
+
 [^44]: [Giovanni Borgia, 2nd Duke of Gandía - Wikipedia](https://en.wikipedia.org/wiki/Giovanni_Borgia,_2nd_Duke_of_Gand%C3%ADa)
+
 [^45]: [Lucrezia Borgia - Wikipedia](https://en.wikipedia.org/wiki/Lucrezia_Borgia)
+
 [^46]: [The Borgia - Alexander VI](http://www.rutaborjaborgia.com/en/epoca/12-335/alexander-vi.php)
+
 [^47]: [How Pope Alexander VI Hosted Orgies | All That's Interesting](https://allthatsinteresting.com/pope-alexander-vi)
+
 [^48]: [House of Borgia - Wikipedia](https://en.wikipedia.org/wiki/House_of_Borgia)
+
 [^49]: [The real history of the Borgia family | National Geographic](https://www.nationalgeographic.com/history/article/pope-alexander-borgia-family-black-legend)
+
 [^50]: [Lucrezia Borgia | Biography, Child, & Facts | Britannica](https://www.britannica.com/biography/Lucrezia-Borgia)
+
 [^51]: [Giovanni Borgia - murdered son of Pope | Italy On This Day](https://www.italyonthisday.com/2022/06/giovanni-borgia-popes-son.html)
+
 [^52]: [Cold Cases of History: The Murder of Juan Borgia | CrimeReads](https://crimereads.com/cold-cases-of-history-the-murder-of-juan-borgia/)
+
 [^53]: [The Borgia - The death of Giovanni Borgia](http://rutaborjaborgia.com/en/epoca/2-349/la-muerte-de-juan-borgia.php)
+
 [^54]: [Giovanni Borgia, 2nd Duke of Gandía | Military Wiki](https://military-history.fandom.com/wiki/Giovanni_Borgia,_2nd_Duke_of_Gand%C3%ADa)
+
 [^55]: [Girolamo Savonarola - Wikipedia](https://en.wikipedia.org/wiki/Girolamo_Savonarola)
+
 [^56]: [CATHOLIC ENCYCLOPEDIA: Girolamo Savonarola](https://www.newadvent.org/cathen/13490a.htm)
+
 [^57]: [EXCOMMUNICATING A FRIAR – GKSihat](https://gksihat.com/excommunicating-a-friar/)
+
 [^58]: [Girolamo Savonarola | Encyclopedia.com](https://www.encyclopedia.com/people/philosophy-and-religion/roman-catholic-and-orthodox-churches-general-biographies/girolamo-savonarola)
+
 [^59]: [The Florentine Forerunner: Girolamo Savonarola | Desiring God](https://www.desiringgod.org/articles/the-florentine-forerunner)
+
 [^60]: [Execution of Girolamo Savonarola | History Today](https://www.historytoday.com/archive/months-past/execution-girolamo-savonarola)
+
 [^61]: [LUCREZIA BORGIA'S HISTORY](https://www.hotellucreziaborgia.it/en/blog/lucrezia-borgia-s-history)
+
 [^62]: [Alexander VI | Research Starters | EBSCO](https://www.ebsco.com/research-starters/history/alexander-vi)
+
 [^63]: [Pope Alexander VI - Wikipedia](https://en.wikipedia.org/wiki/Pope_Alexander_VI)
+
 [^64]: [The real history of the Borgia family | National Geographic](https://www.nationalgeographic.com/history/article/pope-alexander-borgia-family-black-legend)
+
 [^65]: [The Borgia - The death of Giovanni Borgia](http://rutaborjaborgia.com/en/epoca/2-349/la-muerte-de-juan-borgia.php)
+
 [^66]: [Lucrezia Borgia | Britannica](https://www.britannica.com/biography/Lucrezia-Borgia)
+
 [^67]: [Were the Borgias Really So Bad? | History Today](https://www.historytoday.com/history-matters/were-borgias-really-so-bad)
+
 [^68]: [An Artful Pope; Knights of Honor - Catholic Online](https://www.catholic.org/featured/headline.php?ID=3289)
+
 [^69]: [Pope Alexander VI - Wikiquote](https://en.wikiquote.org/wiki/Pope_Alexander_VI)
+
 [^70]: [Pope Alexander VI: The Corrupt Reign | HistoryExplained.org](https://historyexplained.org/pope-alexander-vi-the-corrupt-reign-of-the-borgia-pope/)
+
 [^71]: [Holy door - Wikipedia](https://en.wikipedia.org/wiki/Holy_door)
+
 [^72]: [Treaty of Tordesillas | Britannica](https://www.britannica.com/event/Treaty-of-Tordesillas)
+
 [^73]: [Pope Alexander VI | Religion Wiki](https://religion.fandom.com/wiki/Pope_Alexander_VI)
+
 [^74]: [Cesare Borgia - Wikipedia](https://en.wikipedia.org/wiki/Cesare_Borgia)
+
 [^75]: [Lucrezia Borgia - Wikipedia](https://en.wikipedia.org/wiki/Lucrezia_Borgia)
+
 [^76]: [The Lamp Magazine | A Good Word For Alexander VI](https://thelampmagazine.com/issues/issue-05/a-good-word-for-alexander-vi)
+
 [^77]: [Oxford Bibliographies - Pope Alexander VI](https://www.oxfordbibliographies.com/display/document/obo-9780195399301/obo-9780195399301-0357.xml)
+
 [^78]: [Were the Borgias Really So Bad? | History Today](https://www.historytoday.com/history-matters/were-borgias-really-so-bad)
+
 [^79]: [How do historians view Pope Alexander VI? | Quora](https://www.quora.com/How-do-historians-view-the-legacy-of-Pope-Alexander-VI-Rodrigo-Borgia-How-is-he-viewed-by-Catholics)
+
 [^80]: [Alexander VI - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Alexander_VI)
+
 [^81]: [The long apprenticeship: Rodrigo Borgia | ORA](https://ora.ox.ac.uk/objects/uuid:5c8b67df-2fea-4104-baae-c3fbf5adb096)
+
 [^82]: [CATHOLIC ENCYCLOPEDIA: Pope Alexander VI](https://www.newadvent.org/cathen/01289a.htm)
+
 [^83]: [Alexander VI - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Alexander_VI)
+
 [^84]: [Alexander VI | Biography, Legacy, & Facts | Britannica](https://www.britannica.com/biography/Alexander-VI)
+
 [^85]: [Alexander VI | Research Starters | EBSCO](https://www.ebsco.com/research-starters/history/alexander-vi)
+
 [^86]: [Pope Alexander VI | Religion Wiki](https://religion.fandom.com/wiki/Pope_Alexander_VI)
+
 [^87]: [Alexander VI - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Alexander_VI)
+
 [^88]: [Oxford Bibliographies - Pope Alexander VI](https://www.oxfordbibliographies.com/display/document/obo-9780195399301/obo-9780195399301-0357.xml)
+
 [^89]: [Were the Borgias Really So Bad? | History Today](https://www.historytoday.com/history-matters/were-borgias-really-so-bad)
+
 [^90]: [Pope Alexander VI - Wikiquote](https://en.wikiquote.org/wiki/Pope_Alexander_VI)
+
 [^91]: [Pope Alexander VI Quotes | A-Z Quotes](https://www.azquotes.com/author/37753-Pope_Alexander_VI)
+
 [^92]: [Pope Alexander VI Quotes | Lib Quotes](https://libquotes.com/pope-alexander-vi)
+
 [^93]: [Details About Pope Alexander VI's Death | Ranker](https://www.ranker.com/list/pope-alexander-vi-last-days/melissa-sartore)
+
 [^94]: [Pope Alexander VI - Wikipedia](https://en.wikipedia.org/wiki/Pope_Alexander_VI)

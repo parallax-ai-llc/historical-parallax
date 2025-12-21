@@ -173,53 +173,59 @@ The ultimate negative assessment holds that Johnson's presidency represents a ca
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1908 | Born August 27 in Stonewall, Texas |
-| 1924 | Graduated from Johnson City High School |
-| 1927 | Entered Southwest Texas State Teachers College |
-| 1930 | Received bachelor's degree and teaching certificate |
-| 1931 | Became secretary to Congressman Richard Kleberg |
-| 1934 | Married Claudia Alta "Lady Bird" Taylor on November 17 |
-| 1937 | Elected to U.S. House of Representatives |
-| 1941 | Enlisted in U.S. Navy after Pearl Harbor |
-| 1944 | Daughter Lynda Bird Johnson born |
-| 1947 | Daughter Luci Baines Johnson born |
-| 1948 | Elected to U.S. Senate by 87-vote margin |
-| 1951 | Became Senate Democratic Whip |
-| 1953 | Elected Senate Minority Leader, youngest ever |
-| 1955 | Became Senate Majority Leader after Democratic victory |
-| 1957 | Guided Civil Rights Act of 1957 through Senate |
-| 1960 | Ran for Democratic presidential nomination; became Vice President |
-| 1963 | Sworn in as 36th President following Kennedy assassination, November 22 |
+| Year | Event                                                                                                                                             |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1908 | Born August 27 in Stonewall, Texas                                                                                                                |
+| 1924 | Graduated from Johnson City High School                                                                                                           |
+| 1927 | Entered Southwest Texas State Teachers College                                                                                                    |
+| 1930 | Received bachelor's degree and teaching certificate                                                                                               |
+| 1931 | Became secretary to Congressman Richard Kleberg                                                                                                   |
+| 1934 | Married Claudia Alta "Lady Bird" Taylor on November 17                                                                                            |
+| 1937 | Elected to U.S. House of Representatives                                                                                                          |
+| 1941 | Enlisted in U.S. Navy after Pearl Harbor                                                                                                          |
+| 1944 | Daughter Lynda Bird Johnson born                                                                                                                  |
+| 1947 | Daughter Luci Baines Johnson born                                                                                                                 |
+| 1948 | Elected to U.S. Senate by 87-vote margin                                                                                                          |
+| 1951 | Became Senate Democratic Whip                                                                                                                     |
+| 1953 | Elected Senate Minority Leader, youngest ever                                                                                                     |
+| 1955 | Became Senate Majority Leader after Democratic victory                                                                                            |
+| 1957 | Guided Civil Rights Act of 1957 through Senate                                                                                                    |
+| 1960 | Ran for Democratic presidential nomination; became Vice President                                                                                 |
+| 1963 | Sworn in as 36th President following Kennedy assassination, November 22                                                                           |
 | 1964 | Signed Civil Rights Act, July 2; signed Economic Opportunity Act; elected President in landslide; Gulf of Tonkin incidents and resolution, August |
-| 1965 | Signed Elementary and Secondary Education Act, April 11; signed Voting Rights Act, August 6; began major Vietnam escalation |
-| 1966 | U.S. troop levels in Vietnam exceeded 400,000 |
-| 1967 | Nominated Thurgood Marshall to Supreme Court, June 13; troop levels exceeded 500,000 |
-| 1968 | Tet Offensive, January; announced he would not seek reelection, March 31; signed Fair Housing Act |
-| 1969 | Retired to LBJ Ranch in Texas, January 20 |
-| 1973 | Died of heart attack at LBJ Ranch, January 22 |
+| 1965 | Signed Elementary and Secondary Education Act, April 11; signed Voting Rights Act, August 6; began major Vietnam escalation                       |
+| 1966 | U.S. troop levels in Vietnam exceeded 400,000                                                                                                     |
+| 1967 | Nominated Thurgood Marshall to Supreme Court, June 13; troop levels exceeded 500,000                                                              |
+| 1968 | Tet Offensive, January; announced he would not seek reelection, March 31; signed Fair Housing Act                                                 |
+| 1969 | Retired to LBJ Ranch in Texas, January 20                                                                                                         |
+| 1973 | Died of heart attack at LBJ Ranch, January 22                                                                                                     |
 
 ---
 
 ## Famous Quotes
 
 > "Yesterday is not ours to recover, but tomorrow is ours to win or lose."
+
 - Reflecting on hope and the future[^111]
 
 > "As a son of a tenant farmer, I know that education is the only valid passport from poverty."
+
 - On the importance of educational opportunity[^112]
 
 > "Let us close the springs of racial poison. Let us pray for wise and understanding hearts. Let us lay aside irrelevant differences and make our nation whole."
+
 - Upon signing the Civil Rights Act, July 2, 1964[^113]
 
 > "I am going to build the kind of nation that President Roosevelt hoped for, President Truman worked for, and President Kennedy died for."
+
 - Articulating his vision for the Great Society[^114]
 
 > "You aren't learning anything when you're talking."
+
 - On the importance of listening[^115]
 
 > "We shall overcome."
+
 - From his March 15, 1965 speech to Congress on voting rights, adopting the language of the civil rights movement[^116]
 
 ---
@@ -227,118 +233,233 @@ The ultimate negative assessment holds that Johnson's presidency represents a ca
 ## References
 
 [^1]: Miller Center, "Lyndon B. Johnson," https://millercenter.org/president/lbjohnson
+
 [^2]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^3]: Notable Biographies, "Lyndon B. Johnson Biography," https://www.notablebiographies.com/Ho-Jo/Johnson-Lyndon-B.html
+
 [^4]: Wikipedia, "Lyndon B. Johnson," https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+
 [^5]: Notable Biographies, "Lyndon B. Johnson Biography," https://www.notablebiographies.com/Ho-Jo/Johnson-Lyndon-B.html
+
 [^6]: George W. Bush White House Archives, "Biography of Lyndon B. Johnson," https://georgewbush-whitehouse.archives.gov/history/presidents/lj36.html
+
 [^7]: Notable Biographies, "Lyndon B. Johnson Biography," https://www.notablebiographies.com/Ho-Jo/Johnson-Lyndon-B.html
+
 [^8]: Wikipedia, "Lyndon B. Johnson," https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+
 [^9]: Texas State University, "Lyndon B. Johnson - Special Collections and Archives Guide," https://guides.library.txstate.edu/univhistory/LBJ
+
 [^10]: Miller Center, "Lyndon B. Johnson: Life in Brief," https://millercenter.org/president/lbjohnson/life-in-brief
+
 [^11]: Wikipedia, "Lyndon B. Johnson," https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+
 [^12]: Lady Bird Johnson, "Biography," http://www.ladybirdjohnson.org/biography
+
 [^13]: LBJ Library, "Lady Bird Johnson," https://www.lbjlibrary.org/life-and-legacy/lady-bird-johnson
+
 [^14]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^15]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^16]: U.S. Senate, "Senate Leaders," https://www.senate.gov/about/parties-leadership/johnson-b-lyndon.htm
+
 [^17]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^18]: LBJ Library, "Lyndon B. Johnson - Biography," https://www.lbjlibrary.org/life-and-legacy/the-man-himself/biography
+
 [^19]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^20]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^21]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^22]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^23]: Wikipedia, "Lyndon B. Johnson," https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+
 [^24]: Miller Center, "Lyndon B. Johnson: Key Events," https://millercenter.org/president/lyndon-b-johnson/key-events
+
 [^25]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^26]: Wikipedia, "Great Society," https://en.wikipedia.org/wiki/Great_Society
+
 [^27]: USHistory.org, "Lyndon Johnson's Great Society," https://www.ushistory.org/us/56e.asp
+
 [^28]: Wikipedia, "Great Society," https://en.wikipedia.org/wiki/Great_Society
+
 [^29]: Obama White House Archives, "Lyndon B. Johnson," https://obamawhitehouse.archives.gov/1600/presidents/lyndonbjohnson
+
 [^30]: USHistory.org, "Lyndon Johnson's Great Society," https://www.ushistory.org/us/56e.asp
+
 [^31]: Miller Center, "Lyndon B. Johnson: Domestic Affairs," https://millercenter.org/president/lbjohnson/domestic-affairs
+
 [^32]: HISTORY, "Lyndon B. Johnson - Facts, Great Society & Civil Rights," https://www.history.com/articles/lyndon-b-johnson
+
 [^33]: USHistory.org, "Lyndon Johnson's Great Society," https://www.ushistory.org/us/56e.asp
+
 [^34]: A-Z Quotes, "Lyndon B. Johnson Quotes," https://www.azquotes.com/author/7511-Lyndon_B_Johnson
+
 [^35]: National Park Service, "International Civil Rights: Walk of Fame - Lyndon Johnson," https://www.nps.gov/features/malu/feat0002/wof/Lyndon_Johnson.htm
+
 [^36]: Wikipedia, "Lyndon B. Johnson," https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+
 [^37]: LBJ Museum, "Lyndon Baines Johnson Quotes," https://lbjmuseum.com/exhibits/online-exhibits/lyndon-baines-johnson-quotes/
+
 [^38]: Miller Center, "Lyndon B. Johnson: Key Events," https://millercenter.org/president/lyndon-b-johnson/key-events
+
 [^39]: Wikipedia, "Great Society," https://en.wikipedia.org/wiki/Great_Society
+
 [^40]: Wikipedia, "Great Society," https://en.wikipedia.org/wiki/Great_Society
+
 [^41]: Wikipedia, "Great Society," https://en.wikipedia.org/wiki/Great_Society
+
 [^42]: Miller Center, "Lyndon B. Johnson: Key Events," https://millercenter.org/president/lyndon-b-johnson/key-events
+
 [^43]: PBS, "JFK & LBJ: Quotes by Lyndon B. Johnson," https://www.pbs.org/wnet/secrets/jfk-lbj-time-greatness-quotes-lyndon-b-johnson/2211/
+
 [^44]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^45]: Santa Clara University Digital Exhibits, "Lyndon B. Johnson: Collapse," https://dh.scu.edu/exhibits/exhibits/show/vietnam-war-from-truman-to-nix/lyndon-b-johnson
+
 [^46]: University of Virginia Press, "Lyndon B. Johnson and the Vietnam War," https://prde.upress.virginia.edu/content/Vietnam
+
 [^47]: University of Virginia Press, "Lyndon B. Johnson and the Vietnam War," https://prde.upress.virginia.edu/content/Vietnam
+
 [^48]: Lumen Learning, "Lyndon Johnson and Vietnam," https://courses.lumenlearning.com/wm-ushistory2/chapter/lyndon-johnson-and-vietnam/
+
 [^49]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^50]: Santa Clara University Digital Exhibits, "Lyndon B. Johnson: Collapse," https://dh.scu.edu/exhibits/exhibits/show/vietnam-war-from-truman-to-nix/lyndon-b-johnson
+
 [^51]: Digital History, "The Vietnam War," https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=3461
+
 [^52]: Santa Clara University Digital Exhibits, "Lyndon B. Johnson: Collapse," https://dh.scu.edu/exhibits/exhibits/show/vietnam-war-from-truman-to-nix/lyndon-b-johnson
+
 [^53]: The Strategy Bridge, "Political Interference, Strategic Incoherence, and Johnson's Escalation in Vietnam," https://thestrategybridge.org/the-bridge/2019/7/19/political-interference-strategic-incoherence-and-johnsons-escalation-in-vietnam
+
 [^54]: Britannica, "Lyndon B. Johnson - Vietnam War, Civil Rights, Presidency," https://www.britannica.com/biography/Lyndon-B-Johnson/Last-days
+
 [^55]: Santa Clara University Digital Exhibits, "Lyndon B. Johnson: Collapse," https://dh.scu.edu/exhibits/exhibits/show/vietnam-war-from-truman-to-nix/lyndon-b-johnson
+
 [^56]: Wikipedia, "Lady Bird Johnson," https://en.wikipedia.org/wiki/Lady_Bird_Johnson
+
 [^57]: Britannica, "Lady Bird Johnson," https://www.britannica.com/biography/Lady-Bird-Johnson
+
 [^58]: National Women's History Museum, "Claudia 'Lady Bird' Johnson," https://www.womenshistory.org/education-resources/biographies/claudia-lady-bird-johnson
+
 [^59]: LBJ Library, "Lady Bird Johnson," https://www.lbjlibrary.org/life-and-legacy/lady-bird-johnson
+
 [^60]: Wikipedia, "Lady Bird Johnson," https://en.wikipedia.org/wiki/Lady_Bird_Johnson
+
 [^61]: National Women's History Museum, "Claudia 'Lady Bird' Johnson," https://www.womenshistory.org/education-resources/biographies/claudia-lady-bird-johnson
+
 [^62]: Wikipedia, "Family of Lyndon B. Johnson," https://en.wikipedia.org/wiki/Family_of_Lyndon_B._Johnson
+
 [^63]: Lady Bird Johnson, "Biography," http://www.ladybirdjohnson.org/biography
+
 [^64]: LBJ Library, "Lady Bird Johnson," https://www.lbjlibrary.org/life-and-legacy/lady-bird-johnson
+
 [^65]: Wikipedia, "Lady Bird Johnson," https://en.wikipedia.org/wiki/Lady_Bird_Johnson
+
 [^66]: Biography, "Lady Bird Johnson's Personal Audio Diaries," https://www.biography.com/history-culture/lady-bird-johnson
+
 [^67]: White House Historical Association, "Lady Bird Johnson," https://www.whitehousehistory.org/bios/claudia-johnson
+
 [^68]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^69]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^70]: Wikipedia, "Lyndon B. Johnson," https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+
 [^71]: Miller Center, "Lyndon B. Johnson: Life in Brief," https://millercenter.org/president/lbjohnson/life-in-brief
+
 [^72]: Wikipedia, "Lady Bird Johnson," https://en.wikipedia.org/wiki/Lady_Bird_Johnson
+
 [^73]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^74]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^75]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^76]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^77]: National Park Service, "International Civil Rights: Walk of Fame - Lyndon Johnson," https://www.nps.gov/features/malu/feat0002/wof/Lyndon_Johnson.htm
+
 [^78]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^79]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^80]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^81]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^82]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^83]: National Archives, "LBJ: Still Casting a Long Shadow," https://www.archives.gov/publications/prologue/2008/summer/lbj.html
+
 [^84]: Robert Caro, "Master of the Senate," https://www.robertcaro.org/master-of-the-senate
+
 [^85]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^86]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^87]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^88]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^89]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^90]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^91]: USHistory.org, "Lyndon Johnson's Great Society," https://www.ushistory.org/us/56e.asp
+
 [^92]: Smithsonian Magazine, "When Lyndon B. Johnson Chose the Middle Ground on Civil Rights," https://www.smithsonianmag.com/history/to-fight-for-civil-rights-lyndon-b-johnson-settled-for-the-middle-ground-180981482/
+
 [^93]: Miller Center, "Lyndon B. Johnson: Key Events," https://millercenter.org/president/lyndon-b-johnson/key-events
+
 [^94]: Wikipedia, "Great Society," https://en.wikipedia.org/wiki/Great_Society
+
 [^95]: U.S. Senate, "Lyndon B. Johnson: A Featured Biography," https://www.senate.gov/senators/FeaturedBios/Featured_Bio_JohnsonLyndonBaines.htm
+
 [^96]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^97]: TIME, "Examining President LBJ's Legacy, 50 Years After His Death," https://time.com/6248416/lyndon-b-johnson-legacy-social-reforms/
+
 [^98]: PBS, "JFK & LBJ: Quotes by Lyndon B. Johnson," https://www.pbs.org/wnet/secrets/jfk-lbj-time-greatness-quotes-lyndon-b-johnson/2211/
+
 [^99]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^100]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^101]: The Strategy Bridge, "Political Interference, Strategic Incoherence, and Johnson's Escalation in Vietnam," https://thestrategybridge.org/the-bridge/2019/7/19/political-interference-strategic-incoherence-and-johnsons-escalation-in-vietnam
+
 [^102]: Britannica, "Lyndon B. Johnson - Vietnam War, Civil Rights, Presidency," https://www.britannica.com/biography/Lyndon-B-Johnson/Last-days
+
 [^103]: Digital History, "The Vietnam War," https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=3461
+
 [^104]: Santa Clara University Digital Exhibits, "Lyndon B. Johnson: Collapse," https://dh.scu.edu/exhibits/exhibits/show/vietnam-war-from-truman-to-nix/lyndon-b-johnson
+
 [^105]: Urban Institute, "Reckoning with Structural Racism in Research: LBJ's Legacy," https://www.urban.org/urban-wire/reckoning-structural-racism-research-lbjs-legacy-and-urbans-next-50
+
 [^106]: Santa Clara University Digital Exhibits, "Lyndon B. Johnson: Collapse," https://dh.scu.edu/exhibits/exhibits/show/vietnam-war-from-truman-to-nix/lyndon-b-johnson
+
 [^107]: Biography, "Lady Bird Johnson's Personal Audio Diaries," https://www.biography.com/history-culture/lady-bird-johnson
+
 [^108]: Wikipedia, "Lyndon B. Johnson," https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+
 [^109]: Santa Clara University Digital Exhibits, "Lyndon B. Johnson: Collapse," https://dh.scu.edu/exhibits/exhibits/show/vietnam-war-from-truman-to-nix/lyndon-b-johnson
+
 [^110]: Miller Center, "Lyndon B. Johnson: Impact and Legacy," https://millercenter.org/president/lbjohnson/impact-and-legacy
+
 [^111]: BrainyQuote, "Lyndon B. Johnson Quotes," https://www.brainyquote.com/authors/lyndon-b-johnson-quotes
+
 [^112]: A-Z Quotes, "Lyndon B. Johnson Quotes," https://www.azquotes.com/author/7511-Lyndon_B_Johnson
+
 [^113]: LBJ Museum, "Lyndon Baines Johnson Quotes," https://lbjmuseum.com/exhibits/online-exhibits/lyndon-baines-johnson-quotes/
+
 [^114]: PBS, "JFK & LBJ: Quotes by Lyndon B. Johnson," https://www.pbs.org/wnet/secrets/jfk-lbj-time-greatness-quotes-lyndon-b-johnson/2211/
+
 [^115]: A-Z Quotes, "Lyndon B. Johnson Quotes," https://www.azquotes.com/author/7511-Lyndon_B_Johnson
+
 [^116]: Miller Center, "Lyndon B. Johnson: Key Events," https://millercenter.org/president/lyndon-b-johnson/key-events

@@ -25,18 +25,21 @@ The leader who emerged was Lajos Kossuth, a lawyer and journalist whose oratory 
 ### Hungary Under the Habsburgs
 
 **The Kingdom of Hungary:**
+
 - Part of Habsburg dominions since 1526
 - Retained its own Diet (parliament) and constitution
 - Separate kingdom, not an Austrian province
 - But increasingly subordinated to Vienna
 
 **By the 1840s:**
+
 - Hungarian national consciousness growing
 - Language movement: Hungarian vs. German
 - Reform movement in Diet
 - Young radicals pushing further
 
 **The system:**
+
 - Feudal; serfdom still existed
 - Nobility dominated politics
 - Peasants had few rights
@@ -45,6 +48,7 @@ The leader who emerged was Lajos Kossuth, a lawyer and journalist whose oratory 
 ### The European Context
 
 **1848: Year of Revolutions:**
+
 - February: Revolution in France; Louis Philippe abdicated
 - March: Uprisings across German states, Italian states
 - Habsburg Empire: Vienna, Prague, Budapest all saw revolution
@@ -60,6 +64,7 @@ The leader who emerged was Lajos Kossuth, a lawyer and journalist whose oratory 
 
 **The Twelve Points:**
 Young radicals drafted demands:
+
 1. Freedom of the press
 2. Responsible government
 3. Annual parliament in Pest
@@ -74,6 +79,7 @@ Young radicals drafted demands:
 12. Union with Transylvania
 
 **The day:**
+
 - Students and young intellectuals gathered
 - Petőfi recited "National Song"
 - Crowds marched through Pest
@@ -85,10 +91,12 @@ Young radicals drafted demands:
 ### The April Laws
 
 **March 17:**
+
 - Emperor Ferdinand V agreed to Hungarian constitutional government
 - **Count Lajos Batthyány** became Prime Minister
 
 **April 10:**
+
 - **April Laws** enacted
 - Transformed Hungary:
   - Serfdom abolished
@@ -103,6 +111,7 @@ Young radicals drafted demands:
 ### Rising Tensions
 
 **Summer 1848:**
+
 - Austria initially accepted Hungary's new status
 - But problems emerged:
   - Non-Hungarian nationalities (Croats, Romanians, Slovaks, Serbs) resented Hungarian dominance
@@ -110,6 +119,7 @@ Young radicals drafted demands:
   - Conservative forces regrouped
 
 **Croatian invasion:**
+
 - **Josip Jelačić**, Ban of Croatia, refused to recognize Hungarian government
 - September: Invaded Hungary with Croatian forces
 - **September 29:** Hungarians defeated him at Pákozd
@@ -119,23 +129,27 @@ Young radicals drafted demands:
 ### War of Independence
 
 **December 2, 1848:**
+
 - Ferdinand abdicated
 - **Franz Joseph I** became Emperor (age 18)
 - Rejected April Laws
 - Declared Kossuth and government outlaws
 
 **Winter 1848-1849:**
+
 - Austrian forces invaded Hungary
 - Pest-Buda occupied
 - Hungarian government fled to Debrecen
 - But Hungarian armies rallied
 
 **Spring 1849:**
+
 - **Artúr Görgei** and other commanders led successful campaigns
 - Austrians pushed back
 - Budapest liberated (May 21)
 
 **April 14, 1849:**
+
 - Hungarian Diet declared independence
 - **Habsburgs deposed**
 - Kossuth elected Governor-President
@@ -145,16 +159,19 @@ Young radicals drafted demands:
 ### Russian Intervention
 
 **May 1849:**
+
 - Franz Joseph asked Tsar Nicholas I for help
 - Russia agreed—feared revolution spreading
 
 **June-August 1849:**
+
 - **200,000 Russian troops** entered Hungary from the east
 - 80,000 more auxiliary forces
 - Hungarians outnumbered, outgunned
 - Fighting on two fronts (Austria from west, Russia from east)
 
 **August 13, 1849:**
+
 - Hungarian army surrendered at Világos
 - Görgei surrendered to Russians (not Austrians)
 - Revolution over[^10]
@@ -165,14 +182,15 @@ Young radicals drafted demands:
 
 **Estimated casualties:**
 
-| Category | Estimate |
-|----------|----------|
-| Hungarian military deaths | 40,000-50,000 |
-| Austrian/Russian military deaths | 30,000-40,000 |
-| Civilians | Unknown thousands |
-| **Total** | **100,000+** |
+| Category                         | Estimate          |
+| -------------------------------- | ----------------- |
+| Hungarian military deaths        | 40,000-50,000     |
+| Austrian/Russian military deaths | 30,000-40,000     |
+| Civilians                        | Unknown thousands |
+| **Total**                        | **100,000+**      |
 
 **Post-war executions:**
+
 - **October 6, 1849:** 13 Hungarian generals executed at Arad (the "Martyrs of Arad")
 - Prime Minister Batthyány executed
 - Hundreds more imprisoned
@@ -184,29 +202,29 @@ Young radicals drafted demands:
 
 ### Hungarian Leaders
 
-| Name | Role |
-|------|------|
-| Lajos Kossuth | Leader; Governor-President |
-| Count Lajos Batthyány | First PM; executed October 1849 |
-| Sándor Petőfi | Poet; likely died in battle July 1849 |
-| Artúr Görgei | Military commander; surrendered |
-| 13 Martyrs of Arad | Generals executed October 6, 1849 |
+| Name                  | Role                                  |
+| --------------------- | ------------------------------------- |
+| Lajos Kossuth         | Leader; Governor-President            |
+| Count Lajos Batthyány | First PM; executed October 1849       |
+| Sándor Petőfi         | Poet; likely died in battle July 1849 |
+| Artúr Görgei          | Military commander; surrendered       |
+| 13 Martyrs of Arad    | Generals executed October 6, 1849     |
 
 ### Habsburg Side
 
-| Name | Role |
-|------|------|
-| Emperor Ferdinand V | Initially accepted reforms; abdicated |
-| Emperor Franz Joseph I | New emperor; crushed revolution |
-| Josip Jelačić | Croatian Ban; led anti-Hungarian forces |
-| Julius Haynau | Austrian general; brutal repression |
+| Name                   | Role                                    |
+| ---------------------- | --------------------------------------- |
+| Emperor Ferdinand V    | Initially accepted reforms; abdicated   |
+| Emperor Franz Joseph I | New emperor; crushed revolution         |
+| Josip Jelačić          | Croatian Ban; led anti-Hungarian forces |
+| Julius Haynau          | Austrian general; brutal repression     |
 
 ### Russian
 
-| Name | Role |
-|------|------|
+| Name            | Role                       |
+| --------------- | -------------------------- |
 | Tsar Nicholas I | Sent army to crush Hungary |
-| Ivan Paskevich | Russian commander |
+| Ivan Paskevich  | Russian commander          |
 
 ---
 
@@ -215,6 +233,7 @@ Young radicals drafted demands:
 ### Immediate Repression
 
 **"Bach Era" (1849-1860):**
+
 - Hungary under martial law
 - Constitution suspended
 - German as official language
@@ -222,6 +241,7 @@ Young radicals drafted demands:
 - Political repression
 
 **Kossuth in exile:**
+
 - Fled to Ottoman Empire
 - Later to Britain, Italy, United States
 - Continued advocating for Hungarian independence
@@ -230,6 +250,7 @@ Young radicals drafted demands:
 ### Long-Term Impact
 
 **The Compromise of 1867:**
+
 - Austria weakened by defeats (Italy, Prussia)
 - Negotiated with Hungarians
 - **Austro-Hungarian Compromise:** Dual Monarchy
@@ -237,6 +258,7 @@ Young radicals drafted demands:
 - Franz Joseph crowned King of Hungary
 
 **What the revolution achieved (eventually):**
+
 - Serfdom remained abolished
 - Hungarian autonomy restored
 - Constitutional government
@@ -245,6 +267,7 @@ Young radicals drafted demands:
 ### Why Did It Fail?
 
 **Factors:**
+
 1. **Russian intervention:** 200,000 troops overwhelming
 2. **Ethnic minorities:** Croats, Romanians, Serbs fought Hungarians
 3. **Diplomatic isolation:** No foreign support
@@ -258,24 +281,26 @@ Young radicals drafted demands:
 ### Significance
 
 **For Hungary:**
+
 - March 15 is national day
 - 1848 became foundational myth
 - Petőfi and Kossuth are national heroes
 - "Freedom or death" spirit
 
 **For Europe:**
+
 - Longest-lasting 1848 revolution
 - Only one requiring external intervention to crush
 - Showed power of nationalism
 
 ### Comparison to Other 1848 Revolutions
 
-| Country | Duration | Outcome |
-|---------|----------|---------|
-| France | February-June 1848 | Republic, then Louis Napoleon |
-| Prussia | March 1848-1849 | Failed; constitution revoked |
-| Austria (Vienna) | March-October 1848 | Crushed |
-| **Hungary** | **March 1848-August 1849** | **17 months; required Russian army** |
+| Country          | Duration                   | Outcome                              |
+| ---------------- | -------------------------- | ------------------------------------ |
+| France           | February-June 1848         | Republic, then Louis Napoleon        |
+| Prussia          | March 1848-1849            | Failed; constitution revoked         |
+| Austria (Vienna) | March-October 1848         | Crushed                              |
+| **Hungary**      | **March 1848-August 1849** | **17 months; required Russian army** |
 
 **Hungary fought longest and hardest.**[^14]
 
@@ -294,6 +319,7 @@ Young radicals drafted demands:
 ### The Martyrs
 
 **The 13 Martyrs of Arad:**
+
 - Executed October 6, 1849
 - Austrian general Haynau allegedly toasted with beer
 - (Hungarians didn't clink beer glasses for 150 years)
@@ -302,6 +328,7 @@ Young radicals drafted demands:
 ### What Remained
 
 **Even in defeat:**
+
 - Serfdom gone forever
 - Hungarian language secured
 - National consciousness forged
@@ -312,38 +339,52 @@ Young radicals drafted demands:
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| March 3, 1848 | Kossuth's speech in Diet |
-| March 15, 1848 | Revolution in Pest; Twelve Points |
-| March 17, 1848 | Emperor accepts Hungarian government |
-| April 10, 1848 | April Laws enacted |
-| September 29, 1848 | Battle of Pákozd; Jelačić defeated |
-| December 2, 1848 | Franz Joseph becomes Emperor |
-| Winter 1848-1849 | Austrian invasion; government flees |
-| April 14, 1849 | Independence declared; Habsburgs deposed |
-| May 21, 1849 | Budapest liberated |
-| June 1849 | Russian intervention begins |
-| August 13, 1849 | Surrender at Világos |
-| October 6, 1849 | 13 generals executed at Arad |
-| 1867 | Austro-Hungarian Compromise |
+| Date               | Event                                    |
+| ------------------ | ---------------------------------------- |
+| March 3, 1848      | Kossuth's speech in Diet                 |
+| March 15, 1848     | Revolution in Pest; Twelve Points        |
+| March 17, 1848     | Emperor accepts Hungarian government     |
+| April 10, 1848     | April Laws enacted                       |
+| September 29, 1848 | Battle of Pákozd; Jelačić defeated       |
+| December 2, 1848   | Franz Joseph becomes Emperor             |
+| Winter 1848-1849   | Austrian invasion; government flees      |
+| April 14, 1849     | Independence declared; Habsburgs deposed |
+| May 21, 1849       | Budapest liberated                       |
+| June 1849          | Russian intervention begins              |
+| August 13, 1849    | Surrender at Világos                     |
+| October 6, 1849    | 13 generals executed at Arad             |
+| 1867               | Austro-Hungarian Compromise              |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - Hungarian Revolution of 1848](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848)
+
 [^2]: [Habsburger.net - Revolution 1848](https://www.habsburger.net/en/chapter/revolution-1848-hungary)
+
 [^3]: [Britannica - Lajos Kossuth](https://www.britannica.com/biography/Lajos-Kossuth)
+
 [^4]: [Reach the World - Background](https://www.reachtheworld.org/articles/hungary-1848/)
+
 [^5]: [Wikipedia - Revolutions of 1848](https://en.wikipedia.org/wiki/Revolutions_of_1848)
+
 [^6]: [Daily News Hungary - March 15](https://dailynewshungary.com/march-15-1848-revolution/)
+
 [^7]: [Wikipedia - April Laws](https://en.wikipedia.org/wiki/April_laws)
+
 [^8]: [Wikipedia - Josip Jelačić](https://en.wikipedia.org/wiki/Josip_Jelačić)
+
 [^9]: [American Hungarian Federation - History](https://www.americanhungarianfederation.org/1848-revolution/)
+
 [^10]: [WordPress - Világos surrender](https://hungarianhistory.com/vilagos-1849/)
+
 [^11]: [Wikipedia - Martyrs of Arad](https://en.wikipedia.org/wiki/The_13_Martyrs_of_Arad)
+
 [^12]: [Raab Collection - Kossuth exile](https://www.raabcollection.com/lajos-kossuth/)
+
 [^13]: [Fiveable - Analysis](https://fiveable.me/ap-euro/unit-7/hungarian-revolution-1848/)
+
 [^14]: [WordPress - Comparison](https://hungarianhistory.com/1848-comparisons/)
+
 [^15]: [Hungary Today - Legacy](https://hungarytoday.hu/march-15-meaning/)

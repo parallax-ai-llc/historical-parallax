@@ -160,30 +160,30 @@ Diplomatic historians question the long-term value of Hollande's military interv
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1954 | Born August 12 in Rouen, France |
-| 1967 | Family moves to Neuilly-sur-Seine |
-| 1974 | Volunteers for François Mitterrand's presidential campaign; studies in United States |
-| 1979 | Joins the Socialist Party |
-| 1980 | Graduates from École Nationale d'Administration (ENA) |
-| 1988 | Elected to National Assembly representing Corrèze |
-| 1993 | Loses National Assembly seat |
-| 1994 | Becomes National Secretary of Socialist Party for economic issues |
-| 1995 | Appointed Socialist Party spokesperson by Lionel Jospin |
-| 1997 | Regains National Assembly seat; elected First Secretary of Socialist Party |
-| 2001 | Elected mayor of Tulle |
-| 2007 | Separates from Ségolène Royal after her presidential election defeat |
-| 2008 | Resigns as First Secretary; becomes President of General Council of Corrèze |
-| 2010 | Relationship with Valérie Trierweiler becomes public |
-| 2011 | Wins Socialist Party primary election in October |
-| 2012 | Elected President of France on May 6 with 51.6% of vote |
-| 2013 | Launches military intervention in Mali (Operation Serval) January 11; same-sex marriage legalized |
+| Year | Event                                                                                                                                                                                        |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1954 | Born August 12 in Rouen, France                                                                                                                                                              |
+| 1967 | Family moves to Neuilly-sur-Seine                                                                                                                                                            |
+| 1974 | Volunteers for François Mitterrand's presidential campaign; studies in United States                                                                                                         |
+| 1979 | Joins the Socialist Party                                                                                                                                                                    |
+| 1980 | Graduates from École Nationale d'Administration (ENA)                                                                                                                                        |
+| 1988 | Elected to National Assembly representing Corrèze                                                                                                                                            |
+| 1993 | Loses National Assembly seat                                                                                                                                                                 |
+| 1994 | Becomes National Secretary of Socialist Party for economic issues                                                                                                                            |
+| 1995 | Appointed Socialist Party spokesperson by Lionel Jospin                                                                                                                                      |
+| 1997 | Regains National Assembly seat; elected First Secretary of Socialist Party                                                                                                                   |
+| 2001 | Elected mayor of Tulle                                                                                                                                                                       |
+| 2007 | Separates from Ségolène Royal after her presidential election defeat                                                                                                                         |
+| 2008 | Resigns as First Secretary; becomes President of General Council of Corrèze                                                                                                                  |
+| 2010 | Relationship with Valérie Trierweiler becomes public                                                                                                                                         |
+| 2011 | Wins Socialist Party primary election in October                                                                                                                                             |
+| 2012 | Elected President of France on May 6 with 51.6% of vote                                                                                                                                      |
+| 2013 | Launches military intervention in Mali (Operation Serval) January 11; same-sex marriage legalized                                                                                            |
 | 2014 | Affair with Julie Gayet revealed by Closer magazine January; separates from Trierweiler January 25; introduces Responsibility Pact; Trierweiler publishes "Thank You for This Moment" memoir |
-| 2015 | Charlie Hebdo terrorist attack January 7; Paris attacks November 13; deploys 10,000 troops under Operation Sentinelle |
-| 2016 | Nice truck attack July 14; "A President Shouldn't Say That" book published October; announces he will not seek reelection December |
-| 2017 | Leaves office May 14; Socialist Party collapses in presidential election |
-| 2022 | Marries Julie Gayet on June 4 in Tulle |
+| 2015 | Charlie Hebdo terrorist attack January 7; Paris attacks November 13; deploys 10,000 troops under Operation Sentinelle                                                                        |
+| 2016 | Nice truck attack July 14; "A President Shouldn't Say That" book published October; announces he will not seek reelection December                                                           |
+| 2017 | Leaves office May 14; Socialist Party collapses in presidential election                                                                                                                     |
+| 2022 | Marries Julie Gayet on June 4 in Tulle                                                                                                                                                       |
 
 ---
 
@@ -210,181 +210,359 @@ Diplomatic historians question the long-term value of Hollande's military interv
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^2]: https://www.britannica.com/biography/Francois-Hollande
+
 [^3]: https://www.france24.com/en/20170405-france-president-francois-hollande-five-years-not-normal-look-back
+
 [^4]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^5]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^6]: https://www.cnn.com/world/europe/francois-hollande-fast-facts
+
 [^7]: https://www.thefamouspeople.com/profiles/franois-hollande-6865.php
+
 [^8]: https://kids.britannica.com/students/article/Fran%C3%A7ois-Hollande/598970
+
 [^9]: https://www.elysee.fr/en/francois-hollande
+
 [^10]: https://kids.kiddle.co/Fran%C3%A7ois_Hollande
+
 [^11]: https://allworldspresidents.com/president/francois-hollande/
+
 [^12]: https://famousbio.net/francois-hollande-11240.html
+
 [^13]: https://www.mofa.go.jp/mofaj/files/000004209.pdf
+
 [^14]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^15]: https://www.britannica.com/biography/Francois-Hollande
+
 [^16]: https://www.thefamouspeople.com/profiles/franois-hollande-6865.php
+
 [^17]: https://www.cnn.com/world/europe/francois-hollande-fast-facts
+
 [^18]: https://www.britannica.com/biography/Francois-Hollande
+
 [^19]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^20]: https://www.mofa.go.jp/mofaj/files/000004209.pdf
+
 [^21]: https://www.britannica.com/biography/Francois-Hollande
+
 [^22]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^23]: https://allworldspresidents.com/president/francois-hollande/
+
 [^24]: https://www.britannica.com/biography/Francois-Hollande
+
 [^25]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^26]: https://www.britannica.com/biography/Francois-Hollande
+
 [^27]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^28]: https://allworldspresidents.com/president/francois-hollande/
+
 [^29]: https://www.britannica.com/biography/Francois-Hollande
+
 [^30]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^31]: https://www.mofa.go.jp/mofaj/files/000004209.pdf
+
 [^32]: https://leaders-wiki.com/2025/07/francois-hollande-from-monsieur-normal-to-president-of-france/
+
 [^33]: https://www.britannica.com/biography/Francois-Hollande
+
 [^34]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^35]: https://www.britannica.com/biography/Francois-Hollande
+
 [^36]: https://leaders-wiki.com/2025/07/francois-hollande-from-monsieur-normal-to-president-of-france/
+
 [^37]: https://www.thelocal.fr/20161202/hollande-how-he-went-from-mr-normal-to-mr-unpopular
+
 [^38]: https://www.britannica.com/biography/Francois-Hollande
+
 [^39]: https://www.britannica.com/biography/Francois-Hollande
+
 [^40]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^41]: https://www.britannica.com/biography/Francois-Hollande
+
 [^42]: https://allworldspresidents.com/president/francois-hollande/
+
 [^43]: https://www.thefamouspeople.com/profiles/franois-hollande-6865.php
+
 [^44]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^45]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^46]: https://allworldspresidents.com/president/francois-hollande/
+
 [^47]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^48]: https://www.britannica.com/place/France/The-Hollande-administration
+
 [^49]: https://www.britannica.com/place/France/The-Hollande-administration
+
 [^50]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^51]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^52]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^53]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^54]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^55]: https://allworldspresidents.com/president/francois-hollande/
+
 [^56]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^57]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^58]: https://www.thefamouspeople.com/profiles/franois-hollande-6865.php
+
 [^59]: https://allworldspresidents.com/president/francois-hollande/
+
 [^60]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^61]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^62]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^63]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^64]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^65]: https://www.france24.com/en/20170405-france-president-francois-hollande-five-years-not-normal-look-back
+
 [^66]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^67]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^68]: https://www.newsweek.com/francois-hollande-exits-presidency-five-things-he-will-be-remembered-608841
+
 [^69]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^70]: https://www.france24.com/en/20170405-france-president-francois-hollande-five-years-not-normal-look-back
+
 [^71]: https://www.newsweek.com/francois-hollande-exits-presidency-five-things-he-will-be-remembered-608841
+
 [^72]: https://www.newsweek.com/francois-hollande-exits-presidency-five-things-he-will-be-remembered-608841
+
 [^73]: https://www.newsweek.com/francois-hollande-exits-presidency-five-things-he-will-be-remembered-608841
+
 [^74]: https://www.britannica.com/place/France/The-Hollande-administration
+
 [^75]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^76]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^77]: https://www.quora.com/Why-is-French-President-Fran%C3%A7ois-Hollande-so-unpopular-Low-figures-indicate-a-lack-of-support-from-the-left-wing-electorate-as-well-How-has-he-disappointed-them
+
 [^78]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^79]: https://www.thelocal.fr/20161202/hollande-how-he-went-from-mr-normal-to-mr-unpopular
+
 [^80]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^81]: https://www.quora.com/Why-did-former-French-President-Fran%C3%A7ois-Hollande-become-unpopular
+
 [^82]: https://time.com/3397070/francois-hollande-fights-personal-scandal/
+
 [^83]: https://world.time.com/2014/01/13/why-francois-hollandes-personal-life-is-a-public-matter/
+
 [^84]: https://en.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler
+
 [^85]: https://slate.com/news-and-politics/2014/01/francois-hollande-and-julie-gayet-the-french-do-care-about-their-president-s-sex-life.html
+
 [^86]: https://www.cnn.com/2014/09/04/world/europe/hollande-ex-girlfriend-book/index.html
+
 [^87]: https://www.cnn.com/2014/09/04/world/europe/hollande-ex-girlfriend-book/index.html
+
 [^88]: https://time.com/3397070/francois-hollande-fights-personal-scandal/
+
 [^89]: https://www.france24.com/en/20170405-france-president-francois-hollande-five-years-not-normal-look-back
+
 [^90]: https://www.france24.com/en/20170405-france-president-francois-hollande-five-years-not-normal-look-back
+
 [^91]: https://www.france24.com/en/20170405-france-president-francois-hollande-five-years-not-normal-look-back
+
 [^92]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^93]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^94]: https://www.quora.com/Why-is-French-President-Fran%C3%A7ois-Hollande-so-unpopular-Low-figures-indicate-a-lack-of-support-from-the-left-wing-electorate-as-well-How-has-he-disappointed-them
+
 [^95]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^96]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^97]: https://www.france24.com/en/live-news/20220608-french-ex-president-hollande-weds-actress-julie-gayet
+
 [^98]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^99]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^100]: https://www.thefamouspeople.com/profiles/franois-hollande-6865.php
+
 [^101]: https://www.britannica.com/biography/Francois-Hollande
+
 [^102]: https://www.britannica.com/biography/Francois-Hollande
+
 [^103]: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande
+
 [^104]: https://en.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler
+
 [^105]: https://en.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler
+
 [^106]: https://en.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler
+
 [^107]: https://www.irishtimes.com/life-and-style/people/inside-hollande-s-love-triangle-1.1659391
+
 [^108]: https://www.irishtimes.com/life-and-style/people/inside-hollande-s-love-triangle-1.1659391
+
 [^109]: https://world.time.com/2014/01/13/why-francois-hollandes-personal-life-is-a-public-matter/
+
 [^110]: https://en.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler
+
 [^111]: https://www.irishtimes.com/life-and-style/people/inside-hollande-s-love-triangle-1.1659391
+
 [^112]: https://en.wikipedia.org/wiki/Julie_Gayet
+
 [^113]: https://www.france24.com/en/live-news/20220608-french-ex-president-hollande-weds-actress-julie-gayet
+
 [^114]: https://www.france24.com/en/live-news/20220608-french-ex-president-hollande-weds-actress-julie-gayet
+
 [^115]: https://www.brookings.edu/articles/the-mysterious-francois-hollande/
+
 [^116]: https://www.brookings.edu/articles/the-mysterious-francois-hollande/
+
 [^117]: https://www.thefamouspeople.com/profiles/franois-hollande-6865.php
+
 [^118]: https://leaders-wiki.com/2025/07/francois-hollande-from-monsieur-normal-to-president-of-france/
+
 [^119]: https://www.brookings.edu/articles/the-mysterious-francois-hollande/
+
 [^120]: https://time.com/3397070/francois-hollande-fights-personal-scandal/
+
 [^121]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^122]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^123]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^124]: https://www.newsweek.com/francois-hollande-exits-presidency-five-things-he-will-be-remembered-608841
+
 [^125]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^126]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^127]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^128]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^129]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^130]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^131]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^132]: https://www.newsweek.com/francois-hollande-exits-presidency-five-things-he-will-be-remembered-608841
+
 [^133]: https://allworldspresidents.com/president/francois-hollande/
+
 [^134]: https://en.wikipedia.org/wiki/Presidency_of_Fran%C3%A7ois_Hollande
+
 [^135]: https://allworldspresidents.com/president/francois-hollande/
+
 [^136]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^137]: https://mabumbe.com/people/francois-hollande-age-net-worth-family-legacy/
+
 [^138]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^139]: https://theweek.com/articles/665085/franois-hollande-bad-president-but-history-might-smile
+
 [^140]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^141]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^142]: https://www.thelocal.fr/20161202/hollande-how-he-went-from-mr-normal-to-mr-unpopular
+
 [^143]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^144]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^145]: https://www.britannica.com/place/France/The-Hollande-administration
+
 [^146]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^147]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^148]: https://allworldspresidents.com/president/francois-hollande/
+
 [^149]: https://allworldspresidents.com/president/francois-hollande/
+
 [^150]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^151]: https://theweek.com/articles/665085/franois-hollande-bad-president-but-history-might-smile
+
 [^152]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^153]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^154]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^155]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^156]: https://www.newsweek.com/francois-hollande-exits-presidency-five-things-he-will-be-remembered-608841
+
 [^157]: https://www.quora.com/Why-is-French-President-Fran%C3%A7ois-Hollande-so-unpopular-Low-figures-indicate-a-lack-of-support-from-the-left-wing-electorate-as-well-How-has-he-disappointed-them
+
 [^158]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^159]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^160]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^161]: https://fundweb.co.uk/the-legacy-of-francois-hollande-a-president-who-defied-normalcy/
+
 [^162]: https://www.quora.com/Why-is-French-President-Fran%C3%A7ois-Hollande-so-unpopular-Low-figures-indicate-a-lack-of-support-from-the-left-wing-electorate-as-well-How-has-he-disappointed-them
+
 [^163]: https://time.com/3397070/francois-hollande-fights-personal-scandal/
+
 [^164]: https://www.cnn.com/2014/09/04/world/europe/hollande-ex-girlfriend-book/index.html
+
 [^165]: https://www.france24.com/en/20170405-france-president-francois-hollande-five-years-not-normal-look-back
+
 [^166]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^167]: https://www.quora.com/Why-did-former-French-President-Fran%C3%A7ois-Hollande-become-unpopular
+
 [^168]: https://theconversation.com/where-did-it-all-go-wrong-francois-hollande-flops-out-of-presidential-race-69806
+
 [^169]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^170]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^171]: https://www.brookings.edu/articles/francois-hollandes-legacy-strong-abroad-weak-at-home/
+
 [^172]: https://www.azquotes.com/author/6828-Francois_Hollande
+
 [^173]: https://www.wisdomly.net/franois-hollande-6865.php
+
 [^174]: https://www.brainyquote.com/authors/francois-hollande-quotes
+
 [^175]: https://onu.delegfrance.org/Francois-Hollande-s-Speech-Before-a-Joint-Session-of-Parliament
+
 [^176]: https://www.inspiringquotes.us/author/2930-francois-hollande
+
 [^177]: https://quotefancy.com/francois-hollande-quotes
+
 [^178]: https://quotlr.com/author/francois-hollande
+
 [^179]: https://www.weforum.org/stories/2015/01/13-quotes-from-francois-hollande-at-davos-2015/

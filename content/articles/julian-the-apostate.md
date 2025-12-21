@@ -145,27 +145,27 @@ Psychological critics suggest that Julian's religious and political positions we
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 331 | Born November 6 in Constantinople |
-| 337 | Father Julius Constantius murdered in post-succession purges; Julian orphaned |
-| 337-348 | Confined at Macellum estate in Cappadocia; receives Christian education |
-| 348 | Allowed to leave Macellum; begins advanced studies in Constantinople and Nicomedia |
-| 351 | Studies in Athens; initiated into Eleusinian Mysteries; secret conversion to paganism |
-| 355 | Appointed Caesar by Constantius II; marries Helena; sent to govern Gaul |
-| 356-359 | Campaigns against Germanic tribes in Gaul; restores Rhine frontier |
-| 357 | Wins decisive victory at Battle of Strasbourg against Alamanni confederation |
-| 360 | Proclaimed Augustus by troops at Lutetia; death of wife Helena; preparations for civil war |
-| 361 | Death of Constantius II in November; Julian becomes sole emperor in December |
-| 361 | Publicly declares rejection of Christianity and devotion to traditional gods |
-| 362 | Issues School Edict banning Christians from teaching classical literature |
-| 362 | Initiates temple restoration program and pagan religious reforms throughout empire |
-| 362 | Orders rebuilding of Jewish Temple in Jerusalem (project fails) |
-| 362-363 | Winters in Antioch; tensions with Christian population; writes "Misopogon" |
-| 363 | Launches invasion of Persian Empire in March with 65,000 troops |
-| 363 | Advances down Euphrates; wins battles at Ctesiphon vicinity; burns fleet |
-| 363 | Orders retreat; wounded in skirmish on June 26; dies same night at age 31 |
-| 363 | Succeeded by Jovian; immediate reversal of pagan restoration policies |
+| Year    | Event                                                                                      |
+| ------- | ------------------------------------------------------------------------------------------ |
+| 331     | Born November 6 in Constantinople                                                          |
+| 337     | Father Julius Constantius murdered in post-succession purges; Julian orphaned              |
+| 337-348 | Confined at Macellum estate in Cappadocia; receives Christian education                    |
+| 348     | Allowed to leave Macellum; begins advanced studies in Constantinople and Nicomedia         |
+| 351     | Studies in Athens; initiated into Eleusinian Mysteries; secret conversion to paganism      |
+| 355     | Appointed Caesar by Constantius II; marries Helena; sent to govern Gaul                    |
+| 356-359 | Campaigns against Germanic tribes in Gaul; restores Rhine frontier                         |
+| 357     | Wins decisive victory at Battle of Strasbourg against Alamanni confederation               |
+| 360     | Proclaimed Augustus by troops at Lutetia; death of wife Helena; preparations for civil war |
+| 361     | Death of Constantius II in November; Julian becomes sole emperor in December               |
+| 361     | Publicly declares rejection of Christianity and devotion to traditional gods               |
+| 362     | Issues School Edict banning Christians from teaching classical literature                  |
+| 362     | Initiates temple restoration program and pagan religious reforms throughout empire         |
+| 362     | Orders rebuilding of Jewish Temple in Jerusalem (project fails)                            |
+| 362-363 | Winters in Antioch; tensions with Christian population; writes "Misopogon"                 |
+| 363     | Launches invasion of Persian Empire in March with 65,000 troops                            |
+| 363     | Advances down Euphrates; wins battles at Ctesiphon vicinity; burns fleet                   |
+| 363     | Orders retreat; wounded in skirmish on June 26; dies same night at age 31                  |
+| 363     | Succeeded by Jovian; immediate reversal of pagan restoration policies                      |
 
 ---
 
@@ -185,75 +185,146 @@ Psychological critics suggest that Julian's religious and political positions we
 
 ## References
 
-[^1]: Bowersock, G.W. (1978). *Julian the Apostate*. Harvard University Press.
-[^2]: Athanassiadi, Polymnia (1992). *Julian: An Intellectual Biography*. Routledge.
-[^3]: Ammianus Marcellinus. *Res Gestae* 25.3.1-2.
-[^4]: Barnes, Timothy D. (1993). *Athanasius and Constantius: Theology and Politics in the Constantinian Empire*. Harvard University Press.
-[^5]: Browning, Robert (1975). *The Emperor Julian*. University of California Press.
-[^6]: Gregory of Nazianzus. *Oration* 4.23-25.
-[^7]: Julian. *Letter to the Athenians* 271d-272a.
-[^8]: Sozomen. *Ecclesiastical History* 5.2.
-[^9]: Eunapius. *Lives of the Philosophers and Sophists* 475-476.
-[^10]: Wright, Wilmer Cave (1913). *The Works of the Emperor Julian*, Vol. 1. Loeb Classical Library.
-[^11]: Ammianus Marcellinus. *Res Gestae* 15.8.1-17.
-[^12]: Drinkwater, John F. (2007). *The Alamanni and Rome 213-496*. Oxford University Press.
-[^13]: Ammianus Marcellinus. *Res Gestae* 16.12.1-63.
-[^14]: Julian. *Letter to the Athenians* 279d-280b.
-[^15]: Ammianus Marcellinus. *Res Gestae* 20.4.1-22.
-[^16]: Ammianus Marcellinus. *Res Gestae* 21.15.2.
-[^17]: Teitler, Hans (2017). *The Last Pagan Emperor: Julian the Apostate and the War Against Christianity*. Oxford University Press.
-[^18]: Julian. *Letter to the Alexandrians*.
-[^19]: Socrates Scholasticus. *Ecclesiastical History* 3.1.
-[^20]: Ammianus Marcellinus. *Res Gestae* 22.12.6-7.
-[^21]: Julian. *Letter to Arsacius* (Fragment 84).
-[^22]: Ammianus Marcellinus. *Res Gestae* 22.4.1-10.
-[^23]: Libanius. *Oration* 18.130-132.
+[^1]: Bowersock, G.W. (1978). _Julian the Apostate_. Harvard University Press.
+
+[^2]: Athanassiadi, Polymnia (1992). _Julian: An Intellectual Biography_. Routledge.
+
+[^3]: Ammianus Marcellinus. _Res Gestae_ 25.3.1-2.
+
+[^4]: Barnes, Timothy D. (1993). _Athanasius and Constantius: Theology and Politics in the Constantinian Empire_. Harvard University Press.
+
+[^5]: Browning, Robert (1975). _The Emperor Julian_. University of California Press.
+
+[^6]: Gregory of Nazianzus. _Oration_ 4.23-25.
+
+[^7]: Julian. _Letter to the Athenians_ 271d-272a.
+
+[^8]: Sozomen. _Ecclesiastical History_ 5.2.
+
+[^9]: Eunapius. _Lives of the Philosophers and Sophists_ 475-476.
+
+[^10]: Wright, Wilmer Cave (1913). _The Works of the Emperor Julian_, Vol. 1. Loeb Classical Library.
+
+[^11]: Ammianus Marcellinus. _Res Gestae_ 15.8.1-17.
+
+[^12]: Drinkwater, John F. (2007). _The Alamanni and Rome 213-496_. Oxford University Press.
+
+[^13]: Ammianus Marcellinus. _Res Gestae_ 16.12.1-63.
+
+[^14]: Julian. _Letter to the Athenians_ 279d-280b.
+
+[^15]: Ammianus Marcellinus. _Res Gestae_ 20.4.1-22.
+
+[^16]: Ammianus Marcellinus. _Res Gestae_ 21.15.2.
+
+[^17]: Teitler, Hans (2017). _The Last Pagan Emperor: Julian the Apostate and the War Against Christianity_. Oxford University Press.
+
+[^18]: Julian. _Letter to the Alexandrians_.
+
+[^19]: Socrates Scholasticus. _Ecclesiastical History_ 3.1.
+
+[^20]: Ammianus Marcellinus. _Res Gestae_ 22.12.6-7.
+
+[^21]: Julian. _Letter to Arsacius_ (Fragment 84).
+
+[^22]: Ammianus Marcellinus. _Res Gestae_ 22.4.1-10.
+
+[^23]: Libanius. _Oration_ 18.130-132.
+
 [^24]: Codex Theodosianus 13.3.5.
-[^25]: Julian. *Against the Galileans* (fragments preserved in Cyril of Alexandria's refutation).
-[^26]: Ammianus Marcellinus. *Res Gestae* 23.2.1-7.
-[^27]: Ammianus Marcellinus. *Res Gestae* 24.7.1-8.
-[^28]: Julian. *Misopogon* 338a-370b.
-[^29]: Freeman, Charles (2008). *A.D. 381: Heretics, Pagans, and the Christian State*. Overlook Press.
-[^30]: Salzman, Michele Renee (1993). "The Evidence for the Conversion of the Roman Empire to Christianity in Book 16 of the Theodosian Code." *Historia* 42(3): 362-378.
-[^31]: Ammianus Marcellinus. *Res Gestae* 23.1.2-3.
-[^32]: Ammianus Marcellinus. *Res Gestae* 22.10.7.
-[^33]: Baker-Brian, Nicholas & Tougher, Shaun (2012). *Emperor and Author: The Writings of Julian the Apostate*. Classical Press of Wales.
-[^34]: Ammianus Marcellinus. *Res Gestae* 25.4.17.
-[^35]: Downey, Glanville (1959). "Julian and Justinian and the Unity of Faith and Culture." *Church History* 28(4): 339-349.
-[^36]: Austin, Norman J.E. (1979). "Julian at Ctesiphon: A Fresh Look at Ammianus' Account." *Athenaeum* 57: 301-309.
-[^37]: MacMullen, Ramsay (1984). *Christianizing the Roman Empire*. Yale University Press.
-[^38]: Theodoret. *Ecclesiastical History* 3.3-11.
-[^39]: Julian. *Against the Galileans* Fragment 39.
-[^40]: Ammianus Marcellinus. *Res Gestae* 16.10.18-19.
-[^41]: Julian. *Misopogon* 335c.
-[^42]: Ammianus Marcellinus. *Res Gestae* 25.4.1-27.
-[^43]: Libanius. *Oration* 18.25.
-[^44]: Ammianus Marcellinus. *Res Gestae* 16.5.4-5.
-[^45]: Eunapius. *Lives of the Philosophers and Sophists* 476-477.
-[^46]: Smith, Rowland (1995). *Julian's Gods: Religion and Philosophy in the Thought and Action of Julian the Apostate*. Routledge.
-[^47]: Ammianus Marcellinus. *Res Gestae* 25.5.1-5.
-[^48]: Cameron, Averil (1993). *The Later Roman Empire, AD 284-430*. Harvard University Press.
-[^49]: Gregory of Nazianzus. *Orations* 4-5 (Against Julian).
-[^50]: Gibbon, Edward (1776-1789). *The History of the Decline and Fall of the Roman Empire*, Chapter 23.
-[^51]: Cyril of Alexandria. *Against Julian* (c. 438 CE).
-[^52]: Dodgeon, Michael H. & Lieu, Samuel N.C. (1991). *The Roman Eastern Frontier and the Persian Wars AD 226-363*. Routledge.
-[^53]: Brown, Peter (1971). "The Rise and Function of the Holy Man in Late Antiquity." *Journal of Roman Studies* 61: 80-101.
-[^54]: Elm, Susanna (2012). *Sons of Hellenism, Fathers of the Church: Emperor Julian, Gregory of Nazianzus, and the Vision of Rome*. University of California Press.
-[^55]: Ammianus Marcellinus. *Res Gestae* 25.4.1-27 (Julian's character assessment).
-[^56]: Bowersock, G.W. (1978). *Julian the Apostate*. Harvard University Press, pp. 93-105.
-[^57]: Athanassiadi, Polymnia (1981). *Julian and Hellenism: An Intellectual Biography*. Oxford University Press.
-[^58]: Elton, Hugh (1996). *Warfare in Roman Europe, AD 350-425*. Oxford University Press, pp. 89-92.
-[^59]: Jones, A.H.M. (1964). *The Later Roman Empire, 284-602*, Vol. 1. Johns Hopkins University Press, pp. 152-157.
-[^60]: Voltaire (1768). *Histoire de l'établissement du christianisme*, Chapter 43.
-[^61]: Gregory of Nazianzus. *Orations* 4.1-125, 5.1-42.
-[^62]: O'Meara, Dominic J. (2003). *Platonopolis: Platonic Political Philosophy in Late Antiquity*. Oxford University Press, pp. 156-162.
-[^63]: Salzman, Michele Renee (2010). "Pagans and Christians." In *The Oxford Handbook of Late Antiquity*, pp. 186-210.
-[^64]: Lane Fox, Robin (1986). *Pagans and Christians*. Alfred A. Knopf, pp. 609-662.
-[^65]: Matthews, John (1989). *The Roman Empire of Ammianus*. Johns Hopkins University Press, pp. 136-173.
-[^66]: Ward-Perkins, Bryan (2005). *The Fall of Rome and the End of Civilization*. Oxford University Press, pp. 41-47.
-[^67]: Murdoch, Adrian (2003). *The Last Pagan: Julian the Apostate and the Death of the Ancient World*. Inner Traditions, pp. 34-56.
-[^68]: Theodoret. *Ecclesiastical History* 3.25 (though historical authenticity disputed).
-[^69]: Julian. *Letter to Photinus* (Letter 41).
-[^70]: Julian. *Misopogon* 339a.
-[^71]: Julian. *Oration 7: To the Cynic Heracleios* 229d.
-[^72]: Julian. *Oration 4: Hymn to King Helios* 132c.
+
+[^25]: Julian. _Against the Galileans_ (fragments preserved in Cyril of Alexandria's refutation).
+
+[^26]: Ammianus Marcellinus. _Res Gestae_ 23.2.1-7.
+
+[^27]: Ammianus Marcellinus. _Res Gestae_ 24.7.1-8.
+
+[^28]: Julian. _Misopogon_ 338a-370b.
+
+[^29]: Freeman, Charles (2008). _A.D. 381: Heretics, Pagans, and the Christian State_. Overlook Press.
+
+[^30]: Salzman, Michele Renee (1993). "The Evidence for the Conversion of the Roman Empire to Christianity in Book 16 of the Theodosian Code." _Historia_ 42(3): 362-378.
+
+[^31]: Ammianus Marcellinus. _Res Gestae_ 23.1.2-3.
+
+[^32]: Ammianus Marcellinus. _Res Gestae_ 22.10.7.
+
+[^33]: Baker-Brian, Nicholas & Tougher, Shaun (2012). _Emperor and Author: The Writings of Julian the Apostate_. Classical Press of Wales.
+
+[^34]: Ammianus Marcellinus. _Res Gestae_ 25.4.17.
+
+[^35]: Downey, Glanville (1959). "Julian and Justinian and the Unity of Faith and Culture." _Church History_ 28(4): 339-349.
+
+[^36]: Austin, Norman J.E. (1979). "Julian at Ctesiphon: A Fresh Look at Ammianus' Account." _Athenaeum_ 57: 301-309.
+
+[^37]: MacMullen, Ramsay (1984). _Christianizing the Roman Empire_. Yale University Press.
+
+[^38]: Theodoret. _Ecclesiastical History_ 3.3-11.
+
+[^39]: Julian. _Against the Galileans_ Fragment 39.
+
+[^40]: Ammianus Marcellinus. _Res Gestae_ 16.10.18-19.
+
+[^41]: Julian. _Misopogon_ 335c.
+
+[^42]: Ammianus Marcellinus. _Res Gestae_ 25.4.1-27.
+
+[^43]: Libanius. _Oration_ 18.25.
+
+[^44]: Ammianus Marcellinus. _Res Gestae_ 16.5.4-5.
+
+[^45]: Eunapius. _Lives of the Philosophers and Sophists_ 476-477.
+
+[^46]: Smith, Rowland (1995). _Julian's Gods: Religion and Philosophy in the Thought and Action of Julian the Apostate_. Routledge.
+
+[^47]: Ammianus Marcellinus. _Res Gestae_ 25.5.1-5.
+
+[^48]: Cameron, Averil (1993). _The Later Roman Empire, AD 284-430_. Harvard University Press.
+
+[^49]: Gregory of Nazianzus. _Orations_ 4-5 (Against Julian).
+
+[^50]: Gibbon, Edward (1776-1789). _The History of the Decline and Fall of the Roman Empire_, Chapter 23.
+
+[^51]: Cyril of Alexandria. _Against Julian_ (c. 438 CE).
+
+[^52]: Dodgeon, Michael H. & Lieu, Samuel N.C. (1991). _The Roman Eastern Frontier and the Persian Wars AD 226-363_. Routledge.
+
+[^53]: Brown, Peter (1971). "The Rise and Function of the Holy Man in Late Antiquity." _Journal of Roman Studies_ 61: 80-101.
+
+[^54]: Elm, Susanna (2012). _Sons of Hellenism, Fathers of the Church: Emperor Julian, Gregory of Nazianzus, and the Vision of Rome_. University of California Press.
+
+[^55]: Ammianus Marcellinus. _Res Gestae_ 25.4.1-27 (Julian's character assessment).
+
+[^56]: Bowersock, G.W. (1978). _Julian the Apostate_. Harvard University Press, pp. 93-105.
+
+[^57]: Athanassiadi, Polymnia (1981). _Julian and Hellenism: An Intellectual Biography_. Oxford University Press.
+
+[^58]: Elton, Hugh (1996). _Warfare in Roman Europe, AD 350-425_. Oxford University Press, pp. 89-92.
+
+[^59]: Jones, A.H.M. (1964). _The Later Roman Empire, 284-602_, Vol. 1. Johns Hopkins University Press, pp. 152-157.
+
+[^60]: Voltaire (1768). _Histoire de l'établissement du christianisme_, Chapter 43.
+
+[^61]: Gregory of Nazianzus. _Orations_ 4.1-125, 5.1-42.
+
+[^62]: O'Meara, Dominic J. (2003). _Platonopolis: Platonic Political Philosophy in Late Antiquity_. Oxford University Press, pp. 156-162.
+
+[^63]: Salzman, Michele Renee (2010). "Pagans and Christians." In _The Oxford Handbook of Late Antiquity_, pp. 186-210.
+
+[^64]: Lane Fox, Robin (1986). _Pagans and Christians_. Alfred A. Knopf, pp. 609-662.
+
+[^65]: Matthews, John (1989). _The Roman Empire of Ammianus_. Johns Hopkins University Press, pp. 136-173.
+
+[^66]: Ward-Perkins, Bryan (2005). _The Fall of Rome and the End of Civilization_. Oxford University Press, pp. 41-47.
+
+[^67]: Murdoch, Adrian (2003). _The Last Pagan: Julian the Apostate and the Death of the Ancient World_. Inner Traditions, pp. 34-56.
+
+[^68]: Theodoret. _Ecclesiastical History_ 3.25 (though historical authenticity disputed).
+
+[^69]: Julian. _Letter to Photinus_ (Letter 41).
+
+[^70]: Julian. _Misopogon_ 339a.
+
+[^71]: Julian. _Oration 7: To the Cynic Heracleios_ 229d.
+
+[^72]: Julian. _Oration 4: Hymn to King Helios_ 132c.

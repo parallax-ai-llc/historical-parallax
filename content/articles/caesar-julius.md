@@ -107,26 +107,26 @@ Critics point out that replacing the Republic with a dictatorial regime contradi
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 100 BCE | Born in Rome on July 12/13 to the patrician gens Julia family |
-| 84 BCE | Father dies; marries Cornelia, daughter of Cinna |
-| 81 BCE | Refuses Sulla's order to divorce Cornelia and flees Rome |
-| 78 BCE | Returns to Rome after Sulla's death; gains fame prosecuting corrupt officials |
-| 69 BCE | Serves as quaestor; later becomes Pontifex Maximus |
-| 60 BCE | Forms First Triumvirate with Pompey and Crassus |
-| 59 BCE | Elected Consul; secures governorship of Gaul |
-| 58 BCE | Begins Gallic Wars; defeats Helvetii and Ariovistus |
-| 57 BCE | Campaigns against Belgian tribes in northeast Gaul |
-| 55 BCE | Conducts first Roman expeditions to Britain; crosses Rhine |
-| 52 BCE | Defeats Vercingetorix at Battle of Alesia |
-| 50 BCE | Gallic Wars conclude; Senate orders him to disband army |
-| 49 BCE | Crosses Rubicon River on January 10, starting civil war |
-| 48 BCE | Defeats Pompey at Battle of Pharsalus; meets Cleopatra in Egypt |
-| 47 BCE | Wins Battle of Zela; declares "Veni, vidi, vici"; Caesarion born |
-| 46 BCE | Celebrates quadruple triumph; implements Julian calendar; appointed dictator |
-| 45 BCE | Julian calendar takes effect on January 1 |
-| 44 BCE | Proclaimed dictator for life in February; assassinated March 15 (Ides of March) |
+| Year    | Event                                                                           |
+| ------- | ------------------------------------------------------------------------------- |
+| 100 BCE | Born in Rome on July 12/13 to the patrician gens Julia family                   |
+| 84 BCE  | Father dies; marries Cornelia, daughter of Cinna                                |
+| 81 BCE  | Refuses Sulla's order to divorce Cornelia and flees Rome                        |
+| 78 BCE  | Returns to Rome after Sulla's death; gains fame prosecuting corrupt officials   |
+| 69 BCE  | Serves as quaestor; later becomes Pontifex Maximus                              |
+| 60 BCE  | Forms First Triumvirate with Pompey and Crassus                                 |
+| 59 BCE  | Elected Consul; secures governorship of Gaul                                    |
+| 58 BCE  | Begins Gallic Wars; defeats Helvetii and Ariovistus                             |
+| 57 BCE  | Campaigns against Belgian tribes in northeast Gaul                              |
+| 55 BCE  | Conducts first Roman expeditions to Britain; crosses Rhine                      |
+| 52 BCE  | Defeats Vercingetorix at Battle of Alesia                                       |
+| 50 BCE  | Gallic Wars conclude; Senate orders him to disband army                         |
+| 49 BCE  | Crosses Rubicon River on January 10, starting civil war                         |
+| 48 BCE  | Defeats Pompey at Battle of Pharsalus; meets Cleopatra in Egypt                 |
+| 47 BCE  | Wins Battle of Zela; declares "Veni, vidi, vici"; Caesarion born                |
+| 46 BCE  | Celebrates quadruple triumph; implements Julian calendar; appointed dictator    |
+| 45 BCE  | Julian calendar takes effect on January 1                                       |
+| 44 BCE  | Proclaimed dictator for life in February; assassinated March 15 (Ides of March) |
 
 ---
 
@@ -147,103 +147,203 @@ Critics point out that replacing the Republic with a dictatorial regime contradi
 ## References
 
 [^1]: Britannica, "[Julius Caesar | Biography, Conquests, Facts, & Death](https://www.britannica.com/biography/Julius-Caesar-Roman-ruler)"
+
 [^2]: Biography.com, "[Julius Caesar: Biography, Roman Emperor and General, Dictator](https://www.biography.com/political-figures/julius-caesar)"
+
 [^3]: History.com, "[The Ides of March | March 15, 44 B.C.](https://www.history.com/this-day-in-history/the-ides-of-march)"
+
 [^4]: Crisis Magazine, "[Caesar's Enduring Influence on Western Civilization](https://crisismagazine.com/opinion/caesars-enduring-influence-on-western-civilization)"
+
 [^5]: Study.com, "[Julius Caesar | Birth, Time Period & Family](https://study.com/academy/lesson/where-when-was-julius-caesar-born.html)"
+
 [^6]: UNRV Roman History, "[Julius Caesar - The Early Years](https://www.unrv.com/julius-caesar/early-years.php)"
+
 [^7]: Study.com, "[Julius Caesar | Biography, Rule & Family - Lesson](https://study.com/academy/lesson/julius-caesars-early-life-parents.html)"
+
 [^8]: Wikipedia, "[Early life and career of Julius Caesar](https://en.wikipedia.org/wiki/Early_life_and_career_of_Julius_Caesar)"
+
 [^9]: Bedtime History Stories, "[History of Julius Caesar for Kids](https://bedtimehistorystories.com/history-of-julius-caesar-for-kids/)"
+
 [^10]: Ibid.
+
 [^11]: Livius, "[Gaius Julius Caesar: Youth](https://www.livius.org/articles/person/caesar/caesar-01/)"
+
 [^12]: Ducksters, "[Biography for Kids: Julius Caesar](https://www.ducksters.com/history/ancient_rome/julius_caesar.php)"
+
 [^13]: Study.com, "[Julius Caesar | Biography, Rule & Family - Lesson](https://study.com/academy/lesson/julius-caesars-early-life-parents.html)"
+
 [^14]: Wikipedia, "[Early life and career of Julius Caesar](https://en.wikipedia.org/wiki/Early_life_and_career_of_Julius_Caesar)"
+
 [^15]: Ibid.
+
 [^16]: UNRV Roman History, "[Julius Caesar - The Early Years](https://www.unrv.com/julius-caesar/early-years.php)"
+
 [^17]: Biography.com, "[Julius Caesar: Biography, Roman Emperor and General, Dictator](https://www.biography.com/political-figures/julius-caesar)"
+
 [^18]: History Skills, "[How the First Triumvirate changed ancient Rome](https://www.historyskills.com/classroom/ancient-history/anc-1st-triumvirate-reading/)"
+
 [^19]: ushistory.org, "[Julius Caesar](https://www.ushistory.org/civ/6b.asp)"
+
 [^20]: Ibid.
+
 [^21]: DailyHistory.org, "[How did Julius Caesar rise to power](https://www.dailyhistory.org/How_did_Julius_Caesar_rise_to_power)"
+
 [^22]: Britannica, "[Julius Caesar - Roman Ruler, Triumvirate, Gaul](https://www.britannica.com/biography/Julius-Caesar-Roman-ruler/The-first-triumvirate-and-the-conquest-of-Gaul)"
+
 [^23]: PBS, "[Who Was Julius Caesar?](https://www.pbs.org/articles/who-was-julius-caesar)"
+
 [^24]: UNRV Roman History, "[Julius Caesar and Political Opposition](https://www.unrv.com/julius-caesar/political-opposition.php)"
+
 [^25]: History Skills, "[How the First Triumvirate changed ancient Rome](https://www.historyskills.com/classroom/ancient-history/anc-1st-triumvirate-reading/)"
+
 [^26]: Wikipedia, "[Military campaigns of Julius Caesar](https://en.wikipedia.org/wiki/Military_campaigns_of_Julius_Caesar)"
+
 [^27]: Wikipedia, "[Gallic Wars](https://en.wikipedia.org/wiki/Gallic_Wars)"
+
 [^28]: Study.com, "[Julius Caesar & the Gallic Wars | Timeline & Conquest of Gaul](https://study.com/academy/lesson/julius-caesar-the-gallic-wars.html)"
+
 [^29]: TheCollector, "[Why Caesar's Battle of Alesia Is Still a Military Masterclass](https://www.thecollector.com/caesar-battle-of-alesia/)"
+
 [^30]: BattleMerchant, "[Caesar's Triumph at Alesia: An Epic Battle Full of Strategy and Mystique](https://www.battlemerchant.com/en/blog/caesar-s-triumph-at-alesia-an-epic-battle-full-of-strategy-and-mystique)"
+
 [^31]: TheCollector, "[Why Caesar's Battle of Alesia Is Still a Military Masterclass](https://www.thecollector.com/caesar-battle-of-alesia/)"
+
 [^32]: Wikipedia, "[Battle of Alesia](https://en.wikipedia.org/wiki/Battle_of_Alesia)"
+
 [^33]: World History Encyclopedia, "[Battle of Alesia](https://www.worldhistory.org/article/1734/battle-of-alesia/)"
+
 [^34]: Wikipedia, "[Constitutional reforms of Julius Caesar](https://en.wikipedia.org/wiki/Constitutional_reforms_of_Julius_Caesar)"
+
 [^35]: Study.com, "[Julius Caesar | Life, Rule & Reforms - Lesson](https://study.com/learn/lesson/julius-caesar-rule-reforms.html)"
+
 [^36]: World History Encyclopedia, "[Caesar As Dictator: His Impact on the City of Rome](https://www.worldhistory.org/article/112/caesar-as-dictator-his-impact-on-the-city-of-rome/)"
+
 [^37]: Wikipedia, "[Constitutional reforms of Julius Caesar](https://en.wikipedia.org/wiki/Constitutional_reforms_of_Julius_Caesar)"
+
 [^38]: DailyHistory.org, "[How did Julius Caesar rise to power](https://www.dailyhistory.org/How_did_Julius_Caesar_rise_to_power)"
+
 [^39]: History Tools, "[Why Did Julius Caesar Cross the Rubicon? A Historian's Perspective](https://www.historytools.org/stories/why-did-julius-caesar-cross-the-rubicon-a-historians-perspective)"
+
 [^40]: Ibid.
+
 [^41]: Wikipedia, "[Crossing the Rubicon](https://en.wikipedia.org/wiki/Crossing_the_Rubicon)"
+
 [^42]: Wikipedia, "[Alea iacta est](https://en.wikipedia.org/wiki/Alea_iacta_est)"
+
 [^43]: Ibid.
+
 [^44]: Wikipedia, "[Caesar's civil war](https://en.wikipedia.org/wiki/Caesar's_civil_war)"
+
 [^45]: R Street Institute, "[Calls for an American Julius Caesar are ignorant, dangerous](https://www.rstreet.org/commentary/calls-for-an-american-julius-caesar-are-ignorant-dangerous/)"
+
 [^46]: Study.com, "[Julius Caesar's Leadership as a Consul, Governor & Dictator - Lesson](https://study.com/learn/lesson/julius-caesar-history-leadership-what-did-julius-caesar-do.html)"
+
 [^47]: Wikipedia, "[Constitutional reforms of Julius Caesar](https://en.wikipedia.org/wiki/Constitutional_reforms_of_Julius_Caesar)"
+
 [^48]: Wikipedia, "[Gallic Wars](https://en.wikipedia.org/wiki/Gallic_Wars)"
+
 [^49]: The Conversation, "[What was the deal with Julius Caesar and Cleopatra's 'situationship'?](https://theconversation.com/what-was-the-deal-with-julius-caesar-and-cleopatras-situationship-237868)"
+
 [^50]: Wikipedia, "[Assassination of Julius Caesar](https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar)"
+
 [^51]: Ancient Origins, "[How the Light of the Wives of Julius Caesar Was Dimmed by an Egyptian Lover](https://www.ancient-origins.net/history-famous-people/how-light-wives-julius-caesar-was-dimmed-egyptian-lover-006037)"
+
 [^52]: Wikipedia, "[Early life and career of Julius Caesar](https://en.wikipedia.org/wiki/Early_life_and_career_of_Julius_Caesar)"
+
 [^53]: Ancient Origins, "[How the Light of the Wives of Julius Caesar Was Dimmed by an Egyptian Lover](https://www.ancient-origins.net/history-famous-people/how-light-wives-julius-caesar-was-dimmed-egyptian-lover-006037)"
+
 [^54]: The Conversation, "[What was the deal with Julius Caesar and Cleopatra's 'situationship'?](https://theconversation.com/what-was-the-deal-with-julius-caesar-and-cleopatras-situationship-237868)"
+
 [^55]: Ibid.
+
 [^56]: Study.com, "[Julius Caesar and Cleopatra VII | Overview & Relationship - Lesson](https://study.com/academy/lesson/julius-caesar-cleopatra.html)"
+
 [^57]: The Conversation, "[What was the deal with Julius Caesar and Cleopatra's 'situationship'?](https://theconversation.com/what-was-the-deal-with-julius-caesar-and-cleopatras-situationship-237868)"
+
 [^58]: Wikipedia, "[Caesarion](https://en.wikipedia.org/wiki/Caesarion)"
+
 [^59]: Ancient Origins, "[How the Light of the Wives of Julius Caesar Was Dimmed by an Egyptian Lover](https://www.ancient-origins.net/history-famous-people/how-light-wives-julius-caesar-was-dimmed-egyptian-lover-006037)"
+
 [^60]: Wikipedia, "[Commentarii de Bello Gallico](https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico)"
+
 [^61]: Stories Preschool, "[Julius Caesar (100-44 BC)](https://storiespreschool.com/caesar6.html)"
+
 [^62]: Britannica, "[Julius Caesar - Roman Ruler, Conqueror, Dictator | Personality and reputation](https://www.britannica.com/biography/Julius-Caesar-Roman-ruler/Personality-and-reputation)"
+
 [^63]: Ibid.
+
 [^64]: Study.com, "[Legacy of Julius Caesar | Military & Political Accomplishments - Lesson](https://study.com/academy/lesson/julius-caesars-legacy.html)"
+
 [^65]: Crisis Magazine, "[Caesar's Enduring Influence on Western Civilization](https://crisismagazine.com/opinion/caesars-enduring-influence-on-western-civilization)"
+
 [^66]: Ibid.
+
 [^67]: History Facts, "[5 Ways Julius Caesar Changed the World](https://historyfacts.com/famous-figures/article/5-ways-julius-caesar-changed-the-world/)"
+
 [^68]: Ibid.
+
 [^69]: Crisis Magazine, "[Caesar's Enduring Influence on Western Civilization](https://crisismagazine.com/opinion/caesars-enduring-influence-on-western-civilization)"
+
 [^70]: TheCollector, "[Why Caesar's Battle of Alesia Is Still a Military Masterclass](https://www.thecollector.com/caesar-battle-of-alesia/)"
+
 [^71]: High Speed History, "[The Life of Julius Caesar](https://highspeedhistory.com/2024/08/29/the-life-of-julius-caesar/)"
+
 [^72]: PapersOwl, "[The Legacy of Julius Caesar: His Impact on Rome and Beyond](https://papersowl.com/examples/the-legacy-of-julius-caesar-his-impact-on-rome-and-beyond/)"
+
 [^73]: Wikipedia, "[Assassination of Julius Caesar](https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar)"
+
 [^74]: Study.com, "[Legacy of Julius Caesar | Military & Political Accomplishments - Lesson](https://study.com/academy/lesson/julius-caesars-legacy.html)"
+
 [^75]: Crisis Magazine, "[Caesar's Enduring Influence on Western Civilization](https://crisismagazine.com/opinion/caesars-enduring-influence-on-western-civilization)"
+
 [^76]: Plutarch, "[Life of Caesar](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html)"
+
 [^77]: Ibid.
+
 [^78]: Biography.com, "[Julius Caesar: Biography, Roman Emperor and General, Dictator](https://www.biography.com/political-figures/julius-caesar)"
+
 [^79]: Plutarch, "[Life of Caesar](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html)"
+
 [^80]: Ibid.
+
 [^81]: Britannica, "[Julius Caesar - Roman Ruler, Conqueror, Dictator | Personality and reputation](https://www.britannica.com/biography/Julius-Caesar-Roman-ruler/Personality-and-reputation)"
+
 [^82]: Study.com, "[Julius Caesar | Life, Rule & Reforms - Lesson](https://study.com/learn/lesson/julius-caesar-rule-reforms.html)"
+
 [^83]: Medium, "[How Julius Caesar's Role is Questioned: Hero, Tyrant, or Dictator?](https://medium.com/@MustafaJamalNasser/how-julius-caesars-role-is-questioned-hero-tyrant-or-dictator-7da352536979)"
+
 [^84]: PapersOwl, "[The Legacy of Julius Caesar: His Impact on Rome and Beyond](https://papersowl.com/examples/the-legacy-of-julius-caesar-his-impact-on-rome-and-beyond/)"
+
 [^85]: R Street Institute, "[Calls for an American Julius Caesar are ignorant, dangerous](https://www.rstreet.org/commentary/calls-for-an-american-julius-caesar-are-ignorant-dangerous/)"
+
 [^86]: SparkNotes, "[Julius Caesar: Central Idea: Is a Republic Better Than a Monarchy?](https://www.sparknotes.com/shakespeare/juliuscaesar/central-idea-essay/is-a-republic-better-than-a-monarchy/)"
+
 [^87]: History Tools, "[Why Did Julius Caesar Cross the Rubicon? A Historian's Perspective](https://www.historytools.org/stories/why-did-julius-caesar-cross-the-rubicon-a-historians-perspective)"
+
 [^88]: Wikipedia, "[Crossing the Rubicon](https://en.wikipedia.org/wiki/Crossing_the_Rubicon)"
+
 [^89]: History Hit, "[Why Did Caesar Cross the Rubicon?](https://www.historyhit.com/why-did-caesar-cross-the-rubicon/)"
+
 [^90]: Wikipedia, "[Gallic Wars](https://en.wikipedia.org/wiki/Gallic_Wars)"
+
 [^91]: Medium, "[How Julius Caesar's Role is Questioned: Hero, Tyrant, or Dictator?](https://medium.com/@MustafaJamalNasser/how-julius-caesars-role-is-questioned-hero-tyrant-or-dictator-7da352536979)"
+
 [^92]: BYU Scholars Archive, "[Hero or Tyrant: Images of Julius Caesar in Selected Works](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2151&context=etd)"
+
 [^93]: R Street Institute, "[Calls for an American Julius Caesar are ignorant, dangerous](https://www.rstreet.org/commentary/calls-for-an-american-julius-caesar-are-ignorant-dangerous/)"
+
 [^94]: Wikipedia, "[Assassination of Julius Caesar](https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar)"
+
 [^95]: Ibid.
+
 [^96]: Study.com, "[Legacy of Julius Caesar | Military & Political Accomplishments - Lesson](https://study.com/academy/lesson/julius-caesars-legacy.html)"
+
 [^97]: History.info, "[49 BC - Why did Julius Caesar Say: 'The Die is Cast'?](https://history.info/society/civilization/49-bc-why-did-julius-caesar-say-the-die-is-cast/)"
+
 [^98]: Wikipedia, "[Alea iacta est](https://en.wikipedia.org/wiki/Alea_iacta_est)"
+
 [^99]: Tales of Times Forgotten, "[Did Julius Caesar Really Say 'The Die Is Cast'?](https://talesoftimesforgotten.com/2024/05/08/did-julius-caesar-really-say-the-die-is-cast/)"
+
 [^100]: ushistory.org, "[Julius Caesar](https://www.ushistory.org/civ/6b.asp)"
+
 [^101]: Ibid.

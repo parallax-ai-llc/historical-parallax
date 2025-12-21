@@ -201,32 +201,32 @@ Some historians argue that Harrison lacked vision and leadership qualities neces
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1833 | Born on August 20 in North Bend, Ohio |
-| 1847 | Enrolled in Farmer's College near Cincinnati |
-| 1850 | Transferred to Miami University in Oxford, Ohio |
-| 1852 | Graduated from Miami University with distinction |
-| 1853 | Married Caroline Lavinia Scott on October 20 |
-| 1854 | Moved to Indianapolis, Indiana to practice law; son Russell born |
-| 1857 | Elected city attorney of Indianapolis |
-| 1858 | Daughter Mary "Mamie" Scott Harrison born |
-| 1860 | Appointed reporter of the Indiana Supreme Court |
-| 1862 | Commissioned as colonel of the 70th Indiana Regiment |
-| 1864 | Participated in major Civil War battles including Resaca and Atlanta |
-| 1865 | Confirmed as brevet brigadier general; mustered out June 8 |
-| 1876 | Unsuccessful campaign for Governor of Indiana |
-| 1878 | Helped found Indianapolis Bar Association |
-| 1881 | Elected to United States Senate by Indiana legislature |
-| 1888 | Nominated for president on eighth ballot at Republican Convention; won Electoral College 233-168 while losing popular vote |
-| 1889 | Inaugurated as 23rd President on March 4; first Pan-American Conference convened October 2; admitted North Dakota, South Dakota, Montana, and Washington to statehood in November |
+| Year | Event                                                                                                                                                                                                         |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1833 | Born on August 20 in North Bend, Ohio                                                                                                                                                                         |
+| 1847 | Enrolled in Farmer's College near Cincinnati                                                                                                                                                                  |
+| 1850 | Transferred to Miami University in Oxford, Ohio                                                                                                                                                               |
+| 1852 | Graduated from Miami University with distinction                                                                                                                                                              |
+| 1853 | Married Caroline Lavinia Scott on October 20                                                                                                                                                                  |
+| 1854 | Moved to Indianapolis, Indiana to practice law; son Russell born                                                                                                                                              |
+| 1857 | Elected city attorney of Indianapolis                                                                                                                                                                         |
+| 1858 | Daughter Mary "Mamie" Scott Harrison born                                                                                                                                                                     |
+| 1860 | Appointed reporter of the Indiana Supreme Court                                                                                                                                                               |
+| 1862 | Commissioned as colonel of the 70th Indiana Regiment                                                                                                                                                          |
+| 1864 | Participated in major Civil War battles including Resaca and Atlanta                                                                                                                                          |
+| 1865 | Confirmed as brevet brigadier general; mustered out June 8                                                                                                                                                    |
+| 1876 | Unsuccessful campaign for Governor of Indiana                                                                                                                                                                 |
+| 1878 | Helped found Indianapolis Bar Association                                                                                                                                                                     |
+| 1881 | Elected to United States Senate by Indiana legislature                                                                                                                                                        |
+| 1888 | Nominated for president on eighth ballot at Republican Convention; won Electoral College 233-168 while losing popular vote                                                                                    |
+| 1889 | Inaugurated as 23rd President on March 4; first Pan-American Conference convened October 2; admitted North Dakota, South Dakota, Montana, and Washington to statehood in November                             |
 | 1890 | Signed Sherman Antitrust Act on July 2; signed Sherman Silver Purchase Act on July 14; signed McKinley Tariff in October; Idaho and Wyoming admitted to statehood; Wounded Knee Massacre occurred December 29 |
-| 1892 | Wife Caroline died on October 25; defeated by Grover Cleveland in November election 277-145 in Electoral College |
-| 1893 | Left office March 4; appointed non-resident professor of constitutional law at Stanford University |
-| 1895 | Began service on Board of Trustees of Purdue University |
-| 1896 | Married Mary Scott Lord Dimmick |
-| 1897 | Book "This Country of Ours" published; served as chief counsel for Venezuela in boundary dispute with Great Britain |
-| 1901 | Book "Views of an Ex-President" published; died from pneumonia on March 13 in Indianapolis at age 67 |
+| 1892 | Wife Caroline died on October 25; defeated by Grover Cleveland in November election 277-145 in Electoral College                                                                                              |
+| 1893 | Left office March 4; appointed non-resident professor of constitutional law at Stanford University                                                                                                            |
+| 1895 | Began service on Board of Trustees of Purdue University                                                                                                                                                       |
+| 1896 | Married Mary Scott Lord Dimmick                                                                                                                                                                               |
+| 1897 | Book "This Country of Ours" published; served as chief counsel for Venezuela in boundary dispute with Great Britain                                                                                           |
+| 1901 | Book "Views of an Ex-President" published; died from pneumonia on March 13 in Indianapolis at age 67                                                                                                          |
 
 ---
 
@@ -251,160 +251,317 @@ Some historians argue that Harrison lacked vision and leadership qualities neces
 ## References
 
 [^1]: Britannica, "Benjamin Harrison | Biography, Presidency, Accomplishments, & Facts," https://www.britannica.com/biography/Benjamin-Harrison-president-of-United-States
+
 [^2]: White House Historical Association, "The Life and Presidency of Benjamin Harrison," https://www.whitehousehistory.org/the-life-and-presidency-of-benjamin-harrison
+
 [^3]: Miller Center, "Benjamin Harrison: Impact and Legacy," https://millercenter.org/president/bharrison/impact-and-legacy
+
 [^4]: Wikipedia, "Benjamin Harrison," https://en.wikipedia.org/wiki/Benjamin_Harrison
+
 [^5]: American Battlefield Trust, "Benjamin Harrison," https://www.battlefields.org/learn/biographies/benjamin-harrison
+
 [^6]: Miller Center, "Benjamin Harrison: Life Before the Presidency," https://millercenter.org/president/bharrison/life-before-the-presidency
+
 [^7]: Benjamin Harrison Presidential Site, "Early Years," https://bhpsite.org/learn/benjamin-harrison/early-years/
+
 [^8]: Ibid.
+
 [^9]: Ibid.
+
 [^10]: Miller Center, "Life Before the Presidency"
+
 [^11]: Ibid.
+
 [^12]: Wikipedia, "Benjamin Harrison"
+
 [^13]: Miller Center, "Life Before the Presidency"
+
 [^14]: Britannica, "Benjamin Harrison"
+
 [^15]: Benjamin Harrison Presidential Site, "Caroline Scott Harrison," https://bhpsite.org/learn/the-harrison-family/caroline-scott-harrison/
+
 [^16]: White House Historical Association, "Four Generations of President Benjamin Harrison's Family," https://www.whitehousehistory.org/photos/four-generations-of-president-benjamin-harrisons-family
+
 [^17]: The Indiana Lawyer, "Lawyerly legacy: President Benjamin Harrison was a renowned attorney too," https://www.theindianalawyer.com/articles/leadership-in-law-2025-lawyerly-legacy-president-benjamin-harrison-was-a-renowned-attorney-too
+
 [^18]: Benjamin Harrison Presidential Site, "The Lawyer," https://bhpsite.org/learn/benjamin-harrison/the-lawyer/
+
 [^19]: Miller Center, "Life Before the Presidency"
+
 [^20]: Ibid.
+
 [^21]: The Indiana Lawyer, "Lawyerly legacy"
+
 [^22]: American Battlefield Trust, "Benjamin Harrison"
+
 [^23]: Benjamin Harrison Presidential Site, "The Civil War," https://bhpsite.org/learn/benjamin-harrison/the-civil-war/
+
 [^24]: American Battlefield Trust, "Benjamin Harrison"
+
 [^25]: Ibid.
+
 [^26]: U.S. Army, "Benjamin Harrison Presidential Wreath Laying Ceremony emphasizes Civil War Service," https://www.army.mil/article/133847/benjamin_harrison_presidential_wreath_laying_ceremony_emphasizes_civil_war_service
+
 [^27]: Wikipedia, "Benjamin Harrison"
+
 [^28]: Miller Center, "Life Before the Presidency"
+
 [^29]: Benjamin Harrison Presidential Site, "The Lawyer"
+
 [^30]: Ibid.
+
 [^31]: Britannica, "Benjamin Harrison"
+
 [^32]: Miller Center, "Benjamin Harrison: Domestic Affairs," https://millercenter.org/president/bharrison/domestic-affairs
+
 [^33]: White House Historical Association, "Life and Presidency"
+
 [^34]: Wikipedia, "Benjamin Harrison"
+
 [^35]: Wikipedia, "1888 United States presidential election," https://en.wikipedia.org/wiki/1888_United_States_presidential_election
+
 [^36]: Britannica, "United States presidential election of 1888," https://www.britannica.com/event/United-States-presidential-election-of-1888
+
 [^37]: U.S. News, "Worst Presidents: Benjamin Harrison," https://www.usnews.com/news/special-reports/the-worst-presidents/articles/worst-presidents-benjamin-harrison-1889-1893
+
 [^38]: Britannica, "United States - Sherman Antitrust, Competition, Monopoly," https://www.britannica.com/place/United-States/The-Sherman-Antitrust-Act
+
 [^39]: Miller Center, "Domestic Affairs"
+
 [^40]: Ibid.
+
 [^41]: Britannica, "McKinley Tariff Act," https://www.britannica.com/topic/McKinley-Tariff-Act
+
 [^42]: Miller Center, "Domestic Affairs"
+
 [^43]: Ibid.
+
 [^44]: Wikipedia, "Sherman Silver Purchase Act," https://en.wikipedia.org/wiki/Sherman_Silver_Purchase_Act
+
 [^45]: Britannica, "Sherman Silver Purchase Act," https://www.britannica.com/event/Sherman-Silver-Purchase-Act
+
 [^46]: Ibid.
+
 [^47]: White House Historical Association, "Life and Presidency"
+
 [^48]: Benjamin Harrison Presidential Site, "Statehood," https://bhpsite.org/23rd-in-the-21st/statehood/
+
 [^49]: Have Fun With History, "10 Benjamin Harrison Accomplishments and Achievements," https://www.havefunwithhistory.com/benjamin-harrison-accomplishments/
+
 [^50]: SDPB, "SD 125th Anniversary Feature: Statehood," https://listen.sdpb.org/web-exclusive/2014-09-26/sd-125th-anniversary-feature-statehood
+
 [^51]: Benjamin Harrison Presidential Site, "Statehood"
+
 [^52]: Miller Center, "Benjamin Harrison: Foreign Affairs," https://millercenter.org/president/bharrison/foreign-affairs
+
 [^53]: President Profiles, "Foreign affairs - Benjamin Harrison," https://www.presidentprofiles.com/Grant-Eisenhower/Benjamin-Harrison-Foreign-affairs.html
+
 [^54]: Ibid.
+
 [^55]: EBSCO Research, "First Pan American Conference Convenes," https://www.ebsco.com/research-starters/history/first-pan-american-conference-convenes
+
 [^56]: Miller Center, "Foreign Affairs"
+
 [^57]: Ibid.
+
 [^58]: Miller Center, "Impact and Legacy"
+
 [^59]: Ibid.
+
 [^60]: A-Z Quotes, "Benjamin Harrison Quotes," https://www.azquotes.com/author/6315-Benjamin_Harrison
+
 [^61]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^62]: Miller Center, "Domestic Affairs"
+
 [^63]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^64]: Miller Center, "Domestic Affairs"
+
 [^65]: Wikipedia, "Sherman Silver Purchase Act"
+
 [^66]: Britannica, "Sherman Silver Purchase Act"
+
 [^67]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^68]: White House Historical Association, "Life and Presidency"
+
 [^69]: Miller Center, "Campaigns and Elections," https://millercenter.org/president/bharrison/campaigns-and-elections
+
 [^70]: Miller Center, "Impact and Legacy"
+
 [^71]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^72]: Ibid.
+
 [^73]: Quora, "What were Benjamin Harrison's failures?" https://www.quora.com/What-were-Benjamin-Harrisons-failures
+
 [^74]: The American Moms, "The Centennial President with the Icy Personality," https://theamericanmoms.com/centennial-president-icy-personality/
+
 [^75]: Ibid.
+
 [^76]: Ibid.
+
 [^77]: Indian Country Today, "Benjamin Harrison: Busted Up Sioux Nation, No Remorse for Wounded Knee," https://ictnews.org/archive/benjamin-harrison-busted-up-sioux-nation-no-remorse-for-wounded-knee/
+
 [^78]: Ibid.
+
 [^79]: Ibid.
+
 [^80]: Governing, "Good Government and the Road to Wounded Knee," https://www.governing.com/context/good-government-and-the-road-to-wounded-knee
+
 [^81]: Ibid.
+
 [^82]: Indian Country Today, "Busted Up Sioux Nation"
+
 [^83]: Ibid.
+
 [^84]: Wikipedia, "1888 United States presidential election"
+
 [^85]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^86]: Britannica, "United States presidential election of 1888"
+
 [^87]: Benjamin Harrison Presidential Site, "Caroline Scott Harrison"
+
 [^88]: Miller Center, "Life Before the Presidency"
+
 [^89]: White House Historical Association, "Four Generations"
+
 [^90]: White House, "Caroline Lavinia Scott Harrison," https://bidenwhitehouse.archives.gov/about-the-white-house/first-families/caroline-lavinia-scott-harrison/
+
 [^91]: Ibid.
+
 [^92]: Miller Center, "Campaigns and Elections"
+
 [^93]: Wikipedia, "Benjamin Harrison"
+
 [^94]: Ibid.
+
 [^95]: Ibid.
+
 [^96]: The American Moms, "Centennial President"
+
 [^97]: Ibid.
+
 [^98]: Miller Center, "Life in Brief," https://millercenter.org/president/bharrison/life-in-brief
+
 [^99]: Watson Adventures, "Was This President Truly a 'Human Iceberg'?" https://watsonadventures.com/blog/fun-stuff/was-this-president-truly-a-human-iceberg/
+
 [^100]: Miller Center, "Impact and Legacy"
+
 [^101]: Miller Center, "Life Before the Presidency"
+
 [^102]: Ibid.
+
 [^103]: Wikipedia, "Benjamin Harrison"
+
 [^104]: Ibid.
+
 [^105]: Ibid.
+
 [^106]: The Indiana Lawyer, "Lawyerly legacy"
+
 [^107]: Ibid.
+
 [^108]: Britannica, "Benjamin Harrison"
+
 [^109]: Wikipedia, "Benjamin Harrison"
+
 [^110]: Ibid.
+
 [^111]: Ibid.
+
 [^112]: Ibid.
+
 [^113]: Miller Center, "Impact and Legacy"
+
 [^114]: Ibid.
+
 [^115]: Ibid.
+
 [^116]: Ibid.
+
 [^117]: Ibid.
+
 [^118]: Ibid.
+
 [^119]: Miller Center, "Foreign Affairs"
+
 [^120]: Miller Center, "Impact and Legacy"
+
 [^121]: Ibid.
+
 [^122]: Ibid.
+
 [^123]: White House Historical Association, "Life and Presidency"
+
 [^124]: Benjamin Harrison Presidential Site, "Statehood"
+
 [^125]: Miller Center, "Impact and Legacy"
+
 [^126]: Ibid.
+
 [^127]: Britannica, "Sherman Antitrust"
+
 [^128]: Miller Center, "Impact and Legacy"
+
 [^129]: Ibid.
+
 [^130]: A-Z Quotes, "Benjamin Harrison Quotes"
+
 [^131]: Miller Center, "Impact and Legacy"
+
 [^132]: White House Historical Association, "Life and Presidency"
+
 [^133]: The Indiana Lawyer, "Lawyerly legacy"
+
 [^134]: Ibid.
+
 [^135]: Britannica, "Sherman Antitrust"
+
 [^136]: Miller Center, "Foreign Affairs"
+
 [^137]: Benjamin Harrison Presidential Site, "Statehood"
+
 [^138]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^139]: Ibid.
+
 [^140]: Wikipedia, "Sherman Silver Purchase Act"
+
 [^141]: Miller Center, "Campaigns and Elections"
+
 [^142]: Wikipedia, "1892 United States presidential election," https://en.wikipedia.org/wiki/1892_United_States_presidential_election
+
 [^143]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^144]: Indian Country Today, "Busted Up Sioux Nation"
+
 [^145]: Governing, "Good Government and the Road to Wounded Knee"
+
 [^146]: Indian Country Today, "Busted Up Sioux Nation"
+
 [^147]: Wikipedia, "1888 United States presidential election"
+
 [^148]: The American Moms, "Centennial President"
+
 [^149]: Ibid.
+
 [^150]: U.S. News, "Worst Presidents: Benjamin Harrison"
+
 [^151]: Ibid.
+
 [^152]: BrainyQuote, "Benjamin Harrison Quotes," https://www.brainyquote.com/authors/benjamin-harrison-quotes
+
 [^153]: A-Z Quotes, "Benjamin Harrison Quotes"
+
 [^154]: Ibid.
+
 [^155]: Ibid.
+
 [^156]: Ibid.
+
 [^157]: Ibid.
+
 [^158]: Ibid.

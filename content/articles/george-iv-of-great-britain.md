@@ -149,29 +149,29 @@ Contemporary sources reveal the depth of public contempt for George IV. Newspape
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1762 | Born at St. James's Palace, London on August 12 |
-| 1762 | Created Prince of Wales and Earl of Chester |
-| 1780 | Given separate establishment at age 18 |
-| 1784 | Began relationship with Maria Fitzherbert |
-| 1785 | Secretly married Maria Fitzherbert (invalid marriage) |
-| 1787 | Commissioned building of Brighton's Royal Pavilion |
-| 1795 | Officially married Caroline of Brunswick on April 8 |
-| 1796 | Birth of daughter Princess Charlotte; separated from Caroline |
-| 1806 | "Delicate Investigation" into Caroline's conduct |
+| Year | Event                                                             |
+| ---- | ----------------------------------------------------------------- |
+| 1762 | Born at St. James's Palace, London on August 12                   |
+| 1762 | Created Prince of Wales and Earl of Chester                       |
+| 1780 | Given separate establishment at age 18                            |
+| 1784 | Began relationship with Maria Fitzherbert                         |
+| 1785 | Secretly married Maria Fitzherbert (invalid marriage)             |
+| 1787 | Commissioned building of Brighton's Royal Pavilion                |
+| 1795 | Officially married Caroline of Brunswick on April 8               |
+| 1796 | Birth of daughter Princess Charlotte; separated from Caroline     |
+| 1806 | "Delicate Investigation" into Caroline's conduct                  |
 | 1811 | Became Prince Regent on February 5 during father's mental illness |
-| 1813 | Privately opposed Catholic Relief Bill |
-| 1815 | Britain and allies defeated Napoleon at Waterloo |
-| 1817 | Daughter Princess Charlotte died in childbirth |
-| 1820 | Became King on January 29 upon George III's death |
-| 1820 | Attempted to divorce Caroline through Pains and Penalties Bill |
-| 1820 | Founded the Royal Society of Literature |
-| 1821 | Coronation held on July 19; Caroline barred from ceremony |
-| 1821 | Queen Caroline died on August 7 |
-| 1822 | First visit to Scotland by reigning monarch since 1650 |
-| 1829 | Reluctantly agreed to Catholic Emancipation Act |
-| 1830 | Died at Windsor Castle on June 26, aged 67 |
+| 1813 | Privately opposed Catholic Relief Bill                            |
+| 1815 | Britain and allies defeated Napoleon at Waterloo                  |
+| 1817 | Daughter Princess Charlotte died in childbirth                    |
+| 1820 | Became King on January 29 upon George III's death                 |
+| 1820 | Attempted to divorce Caroline through Pains and Penalties Bill    |
+| 1820 | Founded the Royal Society of Literature                           |
+| 1821 | Coronation held on July 19; Caroline barred from ceremony         |
+| 1821 | Queen Caroline died on August 7                                   |
+| 1822 | First visit to Scotland by reigning monarch since 1650            |
+| 1829 | Reluctantly agreed to Catholic Emancipation Act                   |
+| 1830 | Died at Windsor Castle on June 26, aged 67                        |
 
 ---
 
@@ -188,73 +188,143 @@ Contemporary sources reveal the depth of public contempt for George IV. Newspape
 ## References
 
 [^1]: "George IV," Britannica, https://www.britannica.com/biography/George-IV
+
 [^2]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^3]: "George IV," Wikipedia, https://en.wikipedia.org/wiki/George_IV
+
 [^4]: "King George IV," Britroyals, https://www.britroyals.com/kings.asp?id=george4
+
 [^5]: "George IV," Wikipedia, https://en.wikipedia.org/wiki/George_IV
+
 [^6]: "George IV - Historic UK," Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofBritain/George-IV/
+
 [^7]: "King George IV: Biography on Undiscovered Scotland," Undiscovered Scotland, https://www.undiscoveredscotland.co.uk/usbiography/monarchs/georgeiv.html
+
 [^8]: "Timeline: George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/timeline/George_IV_of_Great_Britain/
+
 [^9]: "George IV of England (reign: 1820-1830)," World History Edu, https://worldhistoryedu.com/george-iv-of-england/
+
 [^10]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^11]: "King George IV | Life, Children & Reign," Study.com, https://study.com/academy/lesson/king-george-iv-life-reign.html
+
 [^12]: "The Prince Regent (1762 - 1830)," CandiceHern.com, https://candicehern.com/regencyworld/the-prince-regent-1762-1830/
+
 [^13]: "George IV (r. 1820-1830)," The Royal Family, https://www.royal.uk/george-iv
+
 [^14]: "George IV | House of Hanover | Royal History," Visit Heritage, https://www.visitheritage.co.uk/discover/royal-history/house-of-hanover/george-iv-the-regency-influencer
+
 [^15]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^16]: "George IV," Britannica, https://www.britannica.com/biography/George-IV
+
 [^17]: "George IV of England (reign: 1820-1830)," World History Edu, https://worldhistoryedu.com/george-iv-of-england/
+
 [^18]: "Evidence that George IV was a leading collector," The Church of England Newspaper, https://www.churchnewspaper.com/evidence-that-george-iv-was-a-leading-collector/
+
 [^19]: "George IV | House of Hanover | Royal History," Visit Heritage, https://www.visitheritage.co.uk/discover/royal-history/house-of-hanover/george-iv-the-regency-influencer
+
 [^20]: "George IV of England (reign: 1820-1830)," World History Edu, https://worldhistoryedu.com/george-iv-of-england/
+
 [^21]: "George IV," Britannica, https://www.britannica.com/biography/George-IV
+
 [^22]: "George IV - Historic UK," Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofBritain/George-IV/
+
 [^23]: "George IV and Queen Caroline: a disastrous royal marriage," Regency History, https://www.regencyhistory.net/blog/george-iv-marriage-princess-caroline
+
 [^24]: "QUOTES BY GEORGE IV OF THE UNITED KINGDOM," A-Z Quotes, https://www.azquotes.com/author/32966-George_IV_of_the_United_Kingdom
+
 [^25]: "Royal Scandals: The Marriages of King George IV," Inside the MFAH, https://www.mfah.org/blogs/inside-mfah/royal-scandals-the-marriages-of-king-george-iv
+
 [^26]: "George IV and Queen Caroline: a disastrous royal marriage," Regency History, https://www.regencyhistory.net/blog/george-iv-marriage-princess-caroline
+
 [^27]: "Caroline of Brunswick - Wikipedia," Wikipedia, https://en.wikipedia.org/wiki/Caroline_of_Brunswick
+
 [^28]: "The Queen Caroline Affair, 1820," History of Parliament Online, https://www.historyofparliamentonline.org/periods/hanoverians/queen-caroline-affair-1820
+
 [^29]: "George IV & Caroline of Brunswick: Adultery, Conspiracy and a Match Made in Hell," All About History, https://www.historyanswers.co.uk/kings-queens/george-iv-and-caroline-of-brunswick-adultery-conspiracy-and-a-match-made-in-hell/
+
 [^30]: "Queen Caroline of Brunswick, wife of George IV," Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofBritain/Queen-Caroline/
+
 [^31]: "Caroline of Brunswick: The Injured Queen of England," Brighton & Hove Museums, https://brightonmuseums.org.uk/discovery/history-stories/caroline-of-brunswick-the-injured-queen-of-england/
+
 [^32]: "Timeline: George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/timeline/George_IV_of_Great_Britain/
+
 [^33]: "George IV," Wikipedia, https://en.wikipedia.org/wiki/George_IV
+
 [^34]: "Royal Scandals: The Marriages of King George IV," Inside the MFAH, https://www.mfah.org/blogs/inside-mfah/royal-scandals-the-marriages-of-king-george-iv
+
 [^35]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^36]: "Timeline: George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/timeline/George_IV_of_Great_Britain/
+
 [^37]: "George IV," Wikipedia, https://en.wikipedia.org/wiki/George_IV
+
 [^38]: "Maria Fitzherbert, Mistress of King George IV," Unofficial Royalty, https://www.unofficialroyalty.com/maria-fitzherbert-mistress-of-king-george-iv-of-the-united-kingdom/
+
 [^39]: "Maria Fitzherbert | British Royal Mistress, Catholic Convert," Britannica, https://www.britannica.com/biography/Maria-Fitzherbert
+
 [^40]: "Royal Scandals: The Marriages of King George IV," Inside the MFAH, https://www.mfah.org/blogs/inside-mfah/royal-scandals-the-marriages-of-king-george-iv
+
 [^41]: "Maria Fitzherbert, Mistress of King George IV," Unofficial Royalty, https://www.unofficialroyalty.com/maria-fitzherbert-mistress-of-king-george-iv-of-the-united-kingdom/
+
 [^42]: "Mary Robinson, Mistress of King George IV," Unofficial Royalty, https://www.unofficialroyalty.com/mary-robinson-mistress-of-king-george-iv-of-the-united-kingdom/
+
 [^43]: "Royal Scandals: The Marriages of King George IV," Inside the MFAH, https://www.mfah.org/blogs/inside-mfah/royal-scandals-the-marriages-of-king-george-iv
+
 [^44]: "George IV and Queen Caroline: a disastrous royal marriage," Regency History, https://www.regencyhistory.net/blog/george-iv-marriage-princess-caroline
+
 [^45]: "Royal Scandals: The Marriages of King George IV," Inside the MFAH, https://www.mfah.org/blogs/inside-mfah/royal-scandals-the-marriages-of-king-george-iv
+
 [^46]: "George IV," Wikipedia, https://en.wikipedia.org/wiki/George_IV
+
 [^47]: "George IV - Historic UK," Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofBritain/George-IV/
+
 [^48]: "George IV," Britannica, https://www.britannica.com/biography/George-IV
+
 [^49]: "George IV | House of Hanover | Royal History," Visit Heritage, https://www.visitheritage.co.uk/discover/royal-history/house-of-hanover/george-iv-the-regency-influencer
+
 [^50]: "Evidence that George IV was a leading collector," The Church of England Newspaper, https://www.churchnewspaper.com/evidence-that-george-iv-was-a-leading-collector/
+
 [^51]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^52]: "The royal scandal that helped change British politics: the 1820 Queen Caroline affair," The History of Parliament, https://historyofparliament.com/2020/06/17/the-1820-queen-caroline-affair/
+
 [^53]: "King George IV | Life, Children & Reign," Study.com, https://study.com/academy/lesson/king-george-iv-life-reign.html
+
 [^54]: "George IV | House of Hanover | Royal History," Visit Heritage, https://www.visitheritage.co.uk/discover/royal-history/house-of-hanover/george-iv-the-regency-influencer
+
 [^55]: "George IV | Research Starters," EBSCO Research, https://www.ebsco.com/research-starters/history/george-iv
+
 [^56]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^57]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^58]: "Evidence that George IV was a leading collector," The Church of England Newspaper, https://www.churchnewspaper.com/evidence-that-george-iv-was-a-leading-collector/
+
 [^59]: "George IV | Research Starters," EBSCO Research, https://www.ebsco.com/research-starters/history/george-iv
+
 [^60]: "The Prince Regent (1762 - 1830)," CandiceHern.com, https://candicehern.com/regencyworld/the-prince-regent-1762-1830/
+
 [^61]: "George IV of England (reign: 1820-1830)," World History Edu, https://worldhistoryedu.com/george-iv-of-england/
+
 [^62]: "George IV of Great Britain," World History Encyclopedia, https://www.worldhistory.org/George_IV_of_Great_Britain/
+
 [^63]: "George IV - Historic UK," Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofBritain/George-IV/
+
 [^64]: "George IV & Caroline of Brunswick: Adultery, Conspiracy and a Match Made in Hell," All About History, https://www.historyanswers.co.uk/kings-queens/george-iv-and-caroline-of-brunswick-adultery-conspiracy-and-a-match-made-in-hell/
+
 [^65]: "George IV," Wikipedia, https://en.wikipedia.org/wiki/George_IV
+
 [^66]: "George IV," Britannica, https://www.britannica.com/biography/George-IV
+
 [^67]: "King George IV | Life, Children & Reign," Study.com, https://study.com/academy/lesson/king-george-iv-life-reign.html
+
 [^68]: "8 Facts About King George IV's Life and Reign," History Hit, https://www.historyhit.com/facts-about-king-george-ivs-life-and-reign/
+
 [^69]: "QUOTES BY GEORGE IV OF THE UNITED KINGDOM," A-Z Quotes, https://www.azquotes.com/author/32966-George_IV_of_the_United_Kingdom
+
 [^70]: "QUOTES BY GEORGE IV OF THE UNITED KINGDOM," A-Z Quotes, https://www.azquotes.com/author/32966-George_IV_of_the_United_Kingdom
+
 [^71]: "Queen Caroline of Brunswick, wife of George IV," Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofBritain/Queen-Caroline/

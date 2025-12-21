@@ -156,36 +156,36 @@ Scholars of race and inequality in France argue that Macron's presidency has don
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1977 | Born December 21 in Amiens, France |
-| 1992-1994 | Attends Lycée La Providence; meets Brigitte Trogneux |
-| 1995 | Moves to Paris to attend Lycée Henri-IV |
-| 2001 | Graduates from Sciences Po with master's in public affairs |
-| 2004 | Graduates from École nationale d'administration (ENA) |
-| 2004-2008 | Works as inspector of finances at Ministry of Economy |
-| 2007 | Marries Brigitte Trogneux |
-| 2008 | Joins Rothschild & Cie as investment banker |
-| 2012 | Appointed Deputy Secretary-General of the Élysée Palace under President Hollande |
-| 2014 | Appointed Minister of Economy, Industry and Digital Affairs |
-| 2015 | Passes Macron Law (Loi Macron) liberalizing economy |
-| 2016 | Founds political movement En Marche! (April); resigns from government (August) |
-| 2017 | Elected President of France on May 7 at age 39 |
-| 2017 | Passes labor law reforms by decree (ordonnances) |
-| 2017 | Abolishes wealth tax (ISF) |
-| 2017 | Hosts One Planet Summit on climate change |
-| 2018 | Benalla affair scandal erupts |
-| 2018 | Yellow Vest (Gilets Jaunes) protests begin in November |
-| 2019 | Fire at Notre-Dame Cathedral; Macron pledges reconstruction |
-| 2020 | COVID-19 pandemic; implements lockdowns and economic support measures |
-| 2021 | Controversial health pass system introduced |
-| 2022 | Re-elected President on April 24, defeating Marine Le Pen |
-| 2022 | Loses absolute majority in National Assembly in June legislative elections |
-| 2023 | Forces pension reform through parliament using Article 49.3 |
-| 2023 | Survives no-confidence votes over pension reform |
-| 2023 | Riots following police killing of Nahel Merzouk |
-| 2024 | State visit to Germany; addresses European Parliament |
-| 2025 | Continues second term with focus on European defense and economic competitiveness |
+| Year      | Event                                                                             |
+| --------- | --------------------------------------------------------------------------------- |
+| 1977      | Born December 21 in Amiens, France                                                |
+| 1992-1994 | Attends Lycée La Providence; meets Brigitte Trogneux                              |
+| 1995      | Moves to Paris to attend Lycée Henri-IV                                           |
+| 2001      | Graduates from Sciences Po with master's in public affairs                        |
+| 2004      | Graduates from École nationale d'administration (ENA)                             |
+| 2004-2008 | Works as inspector of finances at Ministry of Economy                             |
+| 2007      | Marries Brigitte Trogneux                                                         |
+| 2008      | Joins Rothschild & Cie as investment banker                                       |
+| 2012      | Appointed Deputy Secretary-General of the Élysée Palace under President Hollande  |
+| 2014      | Appointed Minister of Economy, Industry and Digital Affairs                       |
+| 2015      | Passes Macron Law (Loi Macron) liberalizing economy                               |
+| 2016      | Founds political movement En Marche! (April); resigns from government (August)    |
+| 2017      | Elected President of France on May 7 at age 39                                    |
+| 2017      | Passes labor law reforms by decree (ordonnances)                                  |
+| 2017      | Abolishes wealth tax (ISF)                                                        |
+| 2017      | Hosts One Planet Summit on climate change                                         |
+| 2018      | Benalla affair scandal erupts                                                     |
+| 2018      | Yellow Vest (Gilets Jaunes) protests begin in November                            |
+| 2019      | Fire at Notre-Dame Cathedral; Macron pledges reconstruction                       |
+| 2020      | COVID-19 pandemic; implements lockdowns and economic support measures             |
+| 2021      | Controversial health pass system introduced                                       |
+| 2022      | Re-elected President on April 24, defeating Marine Le Pen                         |
+| 2022      | Loses absolute majority in National Assembly in June legislative elections        |
+| 2023      | Forces pension reform through parliament using Article 49.3                       |
+| 2023      | Survives no-confidence votes over pension reform                                  |
+| 2023      | Riots following police killing of Nahel Merzouk                                   |
+| 2024      | State visit to Germany; addresses European Parliament                             |
+| 2025      | Continues second term with focus on European defense and economic competitiveness |
 
 ---
 
@@ -224,80 +224,157 @@ Context: This controversial statement was later clarified but became ammunition 
 ## References
 
 [^1]: Fulda, Anne. _Emmanuel Macron: A Perfect Young Man_. London: Hurst Publishers, 2018.
+
 [^2]: Pedder, Sophie. _Revolution Française: Emmanuel Macron and the Quest to Reinvent a Nation_. London: Bloomsbury Publishing, 2018.
+
 [^3]: "Emmanuel and Brigitte Macron: The Love Story That Defied Convention." _The Guardian_, May 6, 2017.
+
 [^4]: Fenby, Jonathan. _France: A Modern History from the Revolution to the War with Terror_. New York: St. Martin's Press, 2016.
+
 [^5]: Bousseau, Vincent. "The ENA and the Making of France's Political Elite." _French Politics, Culture & Society_ 35, no. 2 (2017): 1-22.
+
 [^6]: Charnay, Pierre. "The Inspection Générale des Finances: Power and Influence in French Administration." _Governance_ 29, no. 3 (2016): 345-360.
+
 [^7]: "Macron's Rothschild Years: Banking on Politics." _Financial Times_, April 28, 2017.
+
 [^8]: Bauer, Anne-Laure. "From Banker to President: Emmanuel Macron's Career Path." _Le Monde Diplomatique_, May 2017.
+
 [^9]: Raffy, Serge. _Macron Revealed: The Inside Story_. Paris: Fayard, 2017.
+
 [^10]: "François Hollande Appoints Emmanuel Macron as Economy Minister." _BBC News_, August 26, 2014.
+
 [^11]: Cole, Alistair. "The Macron Law and French Economic Reform." _Modern & Contemporary France_ 24, no. 4 (2016): 383-398.
+
 [^12]: Ivaldi, Gilles. "The En Marche Movement and the Transformation of French Politics." _French Politics_ 16, no. 2 (2018): 138-159.
+
 [^13]: "Emmanuel Macron Resigns as Economy Minister to Focus on Presidential Campaign." _The Telegraph_, August 30, 2016.
+
 [^14]: Evans, Jocelyn and Gilles Ivaldi. "The 2017 French Presidential Election: A Political Reformation?" _Parliamentary Affairs_ 71, no. 1 (2018): 161-184.
+
 [^15]: "France Election 2017: Macron Defeats Le Pen." _BBC News_, May 7, 2017.
+
 [^16]: Parsons, Nick. "Macron's Labor Reforms: Revolution or Continuity?" _West European Politics_ 42, no. 3 (2019): 624-644.
+
 [^17]: "Macron and Trump's Rocky Relationship." _Politico Europe_, April 23, 2018.
+
 [^18]: Krotz, Ulrich and Joachim Schild. "Back to the Future? Franco-German Relations After Merkel." _Survival_ 64, no. 2 (2022): 133-150.
+
 [^19]: "One Planet Summit: Macron's Climate Ambitions." _France 24_, December 12, 2017.
+
 [^20]: "France to Ban Oil and Gas Exploration by 2040." _Reuters_, December 19, 2017.
+
 [^21]: Meuret, Denis. "The Macron Education Reforms: Ambitions and Contradictions." _European Journal of Education_ 54, no. 2 (2019): 201-215.
+
 [^22]: "France Unveils €100 Billion Recovery Plan." _Euronews_, September 3, 2020.
+
 [^23]: "France's Health Pass Boosts Vaccination Rate." _The Lancet_ 398, no. 10301 (2021): 653.
+
 [^24]: "France Election 2022: Macron Defeats Le Pen Again." _BBC News_, April 24, 2022.
+
 [^25]: Clift, Ben. "Macron's Second Term: Continuity and Change in French Economic Policy." _Government and Opposition_ 58, no. 1 (2023): 45-63.
+
 [^26]: "Macron's Ukraine Diplomacy: Between Dialogue and Support." _Carnegie Europe_, March 15, 2022.
+
 [^27]: "France Passes Controversial Immigration Law." _Deutsche Welle_, December 19, 2023.
+
 [^28]: Jardin, Alexandre. "The Yellow Vests: Understanding France's Latest Revolt." _The Journal of Modern History_ 92, no. 1 (2020): 136-162.
+
 [^29]: Jeanpierre, Laurent. _In Girum: The Yellow Vests and the Politics of Resentment_. Paris: La Découverte, 2019.
+
 [^30]: "Macron, the 'President of the Rich'?" _The Economist_, December 8, 2018.
+
 [^31]: "France Pension Reform Protests: Millions Take to Streets." _Al Jazeera_, January 19, 2023.
+
 [^32]: "Macron Uses Article 49.3 to Force Through Pension Reform." _Le Figaro_, March 16, 2023.
+
 [^33]: Landais, Camille, Thomas Piketty, and Emmanuel Saez. "Winners and Losers from Macron's Tax Reforms." _Economic Policy_ 35, no. 103 (2020): 457-496.
+
 [^34]: Kuhn, Raymond. "Jupiter Descending: Emmanuel Macron's Leadership Style." _French Politics_ 17, no. 3 (2019): 319-338.
+
 [^35]: "Macron to Unemployed Man: 'I'll Find You a Job'." _France 24_, September 17, 2018.
+
 [^36]: Alduy, Cécile. "The Benalla Affair and French Democracy." _The New York Review of Books_, July 26, 2018.
+
 [^37]: "McKinsey Scandal Rocks Macron's Government." _Politico Europe_, March 30, 2022.
+
 [^38]: "France Yellow Vest Protests: Police Violence Under Scrutiny." _Human Rights Watch_, February 14, 2019.
+
 [^39]: "Nahel Merzouk Killing Sparks French Riots." _The Guardian_, July 1, 2023.
+
 [^40]: "Macron's Russia Gambit and the Ukraine Crisis." _Foreign Affairs_, February 8, 2022.
+
 [^41]: "France's Wavering on Ukraine Support." _The Kyiv Independent_, June 12, 2022.
+
 [^42]: Peltier, Elian. "Brigitte Macron: France's Unconventional First Lady." _The New York Times_, May 6, 2017.
+
 [^43]: "The Love Story of Emmanuel and Brigitte Macron." _Vanity Fair_, October 2017.
+
 [^44]: "Brigitte Macron's Role: First Lady or Not?" _France Inter_, August 7, 2017.
+
 [^45]: "A Day in the Life of Emmanuel Macron." _L'Express_, November 2017.
+
 [^46]: "Macron's Philosophical Influences." _The New Yorker_, May 15, 2017.
+
 [^47]: "Fort de Brégançon: The French Presidential Retreat." _Le Point_, August 2018.
+
 [^48]: Fulda, Anne. "The Making of Emmanuel Macron." _Paris Match_, April 2017.
+
 [^49]: Cole, Alistair. _French Politics and Society_. 4th ed. London: Routledge, 2019.
+
 [^50]: OECD. _Employment Outlook 2019: France_. Paris: OECD Publishing, 2019.
+
 [^51]: Chopin, Thierry and Christian Lequesne. "Macron and Europe: Between Ambition and Reality." _Politique Européenne_ 64, no. 2 (2019): 8-37.
+
 [^52]: "Macron's Mixed Environmental Record." _Greenpeace France Report_, 2022.
+
 [^53]: Huard, Raymond. "Presidential Power and Democracy Under Macron." _French Historical Studies_ 43, no. 2 (2020): 315-338.
+
 [^54]: "LREM After Macron: Can the Movement Survive?" _Libération_, June 20, 2022.
+
 [^55]: Fassin, Didier. "Police Violence and Racial Inequality in France." _The Nation_, July 10, 2023.
+
 [^56]: "Macron's Global Diplomacy: Pragmatism or Incoherence?" _World Politics Review_, May 2023.
+
 [^57]: Padis, Marc-Olivier. "In Defense of Macron's Reforms." _Esprit_, June 2018.
+
 [^58]: Pisani-Ferry, Jean. "France's Economic Reforms: Necessary and Overdue." _Project Syndicate_, October 2, 2017.
+
 [^59]: Grant, Charles. "Macron Savior of Europe?" _Centre for European Reform_, May 2019.
+
 [^60]: Godement, François. "Macron's Multipolar Diplomacy." _European Council on Foreign Relations_, April 2023.
+
 [^61]: INSEE. _French Economic Performance 2020-2022_. Paris: French National Institute of Statistics, 2023.
+
 [^62]: Grunberg, Gérard and Florence Haegel. _The End of the Bipolar Party System in France_. Paris: Presses de Sciences Po, 2018.
+
 [^63]: "One Planet Summit: Assessing Macron's Climate Leadership." _Climate Policy_ 19, no. 8 (2019): 989-1003.
+
 [^64]: Piketty, Thomas. "Macron's Inequality Engine." _Le Monde_, September 2019.
+
 [^65]: Eribon, Didier. _Returning to Reims_. Translated by Michael Lucey. Los Angeles: Semiotext(e), 2013.
+
 [^66]: Zemmour, Éric. _France Has Not Said Its Last Word_. Paris: Rubempré, 2021.
+
 [^67]: Rousseau, Dominique. "The Imperial Presidency of Emmanuel Macron." _Pouvoirs_ 166, no. 3 (2018): 29-44.
+
 [^68]: Rousseau, Dominique. "Article 49.3 and Democratic Deficit." _Revue française de droit constitutionnel_ 135 (2023): 557-574.
+
 [^69]: CGT. _Report on Labor Reforms Under Macron_. Paris: Confédération Générale du Travail, 2022.
+
 [^70]: "France Missing Climate Targets Under Macron." _Climate Action Network Report_, November 2023.
+
 [^71]: Ndiaye, Pap. _The Black Condition in France_. Paris: Calmann-Lévy, 2008.
+
 [^72]: "Macron's Inaugural Address: Full Text." _Élysée Palace Official Transcript_, May 14, 2017.
+
 [^73]: "Macron's Climate Challenge to Trump." _CNN_, June 2, 2017.
+
 [^74]: "Macron's Confrontation at Agricultural Fair." _BFM TV_, February 24, 2018.
+
 [^75]: "Emmanuel Macron Interview with Der Spiegel." _Der Spiegel_, October 13, 2017.
+
 [^76]: "Macron on Abortion Rights." _France Info_, June 25, 2022.
+
 [^77]: "Macron's Sorbonne Speech on European Sovereignty." _Élysée Palace Official Transcript_, September 26, 2017.
+
 [^78]: "Macron's Immigration Comments Spark Controversy." _Le Monde_, December 10, 2016.

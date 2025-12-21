@@ -67,7 +67,7 @@ Perhaps most disturbing was Murad's personal participation in killings. He would
 
 ### Fratricide and Family Murders
 
-Following Ottoman tradition but with exceptional cruelty, Murad IV executed several of his own brothers to eliminate potential rivals. After his victory at Yerevan in 1635, he had his half-brothers Bayezid, Selim, and Süleyman executed during the victory celebrations.[^45] His brother Bayezid had been particularly popular and highly skilled in jousting; in 1635, he threw Murad off his horse during a joust, and shortly thereafter was executed by the sultan's order.[^46] In 1638, following the Baghdad campaign, Murad executed his full brother Kasım.[^47] 
+Following Ottoman tradition but with exceptional cruelty, Murad IV executed several of his own brothers to eliminate potential rivals. After his victory at Yerevan in 1635, he had his half-brothers Bayezid, Selim, and Süleyman executed during the victory celebrations.[^45] His brother Bayezid had been particularly popular and highly skilled in jousting; in 1635, he threw Murad off his horse during a joust, and shortly thereafter was executed by the sultan's order.[^46] In 1638, following the Baghdad campaign, Murad executed his full brother Kasım.[^47]
 
 According to some accounts, on his deathbed in 1640, Murad ordered the execution of his only surviving brother Ibrahim, who suffered from mental illness, which would have ended the Ottoman royal line entirely.[^48] Only the intervention of their mother Kösem Sultan, who argued that Ibrahim was too insane to pose any threat, prevented this final fratricide.[^49] The context for these killings was complex—rebels had demanded that Murad produce his brothers to use as potential alternative sultans, making them genuine political threats—but the pattern of familial murder contributed significantly to Murad's reputation for paranoid brutality.[^50]
 
@@ -139,26 +139,26 @@ Historians critical of Murad also note that his fratricide went beyond political
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1612 | Born on July 27 in Constantinople to Sultan Ahmed I and Kösem Sultan |
-| 1617 | Father Ahmed I dies; Murad (age 6) is confined to the Kafes with his brothers |
-| 1623 | Ascends to Ottoman throne on September 10 at age 11, succeeding Mustafa I |
-| 1623-1632 | Regency period with mother Kösem Sultan ruling as official regent |
-| 1631 | Janissaries storm the palace and kill the Grand Vizier and other officials |
-| 1632 | Assumes direct personal power at age 20 after suppressing Sipahi revolt; bans tobacco, opium, and closes coffeehouses |
-| 1634 | Bans alcohol consumption despite being fond of drinking himself |
-| 1635 | Launches eastward military campaign against Safavid Persia |
-| 1635 | Captures Yerevan (Erivan) in July after 11-day siege |
-| 1635 | Captures Tabriz in September; executes brothers Bayezid, Selim, and Süleyman |
-| 1635-1636 | Constructs Revan Kiosk to commemorate Yerevan victory |
-| 1636 | Safavids recapture Yerevan and defeat Ottoman forces |
-| 1638 | Begins Baghdad campaign; arrives before the city on November 16 |
-| 1638 | Recaptures Baghdad in December after 40-day siege; executes brother Kasım |
-| 1638 | Evliya Çelebi joins Murad's court as body cavalryman |
-| 1638-1639 | Constructs Baghdad Kiosk to commemorate Baghdad conquest |
-| 1639 | Signs Treaty of Kasr-i Shirin (Treaty of Zuhab) on May 17, establishing Ottoman-Persian border |
-| 1640 | Dies on February 9 from cirrhosis of the liver at age 27; succeeded by brother Ibrahim |
+| Year      | Event                                                                                                                 |
+| --------- | --------------------------------------------------------------------------------------------------------------------- |
+| 1612      | Born on July 27 in Constantinople to Sultan Ahmed I and Kösem Sultan                                                  |
+| 1617      | Father Ahmed I dies; Murad (age 6) is confined to the Kafes with his brothers                                         |
+| 1623      | Ascends to Ottoman throne on September 10 at age 11, succeeding Mustafa I                                             |
+| 1623-1632 | Regency period with mother Kösem Sultan ruling as official regent                                                     |
+| 1631      | Janissaries storm the palace and kill the Grand Vizier and other officials                                            |
+| 1632      | Assumes direct personal power at age 20 after suppressing Sipahi revolt; bans tobacco, opium, and closes coffeehouses |
+| 1634      | Bans alcohol consumption despite being fond of drinking himself                                                       |
+| 1635      | Launches eastward military campaign against Safavid Persia                                                            |
+| 1635      | Captures Yerevan (Erivan) in July after 11-day siege                                                                  |
+| 1635      | Captures Tabriz in September; executes brothers Bayezid, Selim, and Süleyman                                          |
+| 1635-1636 | Constructs Revan Kiosk to commemorate Yerevan victory                                                                 |
+| 1636      | Safavids recapture Yerevan and defeat Ottoman forces                                                                  |
+| 1638      | Begins Baghdad campaign; arrives before the city on November 16                                                       |
+| 1638      | Recaptures Baghdad in December after 40-day siege; executes brother Kasım                                             |
+| 1638      | Evliya Çelebi joins Murad's court as body cavalryman                                                                  |
+| 1638-1639 | Constructs Baghdad Kiosk to commemorate Baghdad conquest                                                              |
+| 1639      | Signs Treaty of Kasr-i Shirin (Treaty of Zuhab) on May 17, establishing Ottoman-Persian border                        |
+| 1640      | Dies on February 9 from cirrhosis of the liver at age 27; succeeded by brother Ibrahim                                |
 
 ---
 
@@ -175,108 +175,213 @@ Historians critical of Murad also note that his fratricide went beyond political
 ## References
 
 [^1]: Britannica. "Murad IV | Reign, Military Campaigns & Succession." https://www.britannica.com/biography/Murad-IV
+
 [^2]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^3]: Ancient War History. "The Reign of Terror and Redemption: Murad IV and the Crisis of the Ottoman Empire." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^4]: Find a Grave. "Murad IV (1612-1640)." https://www.findagrave.com/memorial/31427465/murad
+
 [^5]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^6]: Magnificent Century: Kosem Wikia. "Sultan Murad IV." https://magnificent-century-kosem.fandom.com/wiki/Sultan_Murad_IV
+
 [^7]: All About Turkey. "Sultan Murad IV." https://www.allaboutturkey.com/murat4.html
+
 [^8]: Real Life Sultanas. "Portrait of Murad IV / IV. Murad portréja." https://reallifesultanas.tumblr.com/post/641039770851606528/portrait-of-murad-iv-iv-murad-portr%C3%A9ja
+
 [^9]: Magnificent Century: Kosem Wikia. "Sultan Murad IV." https://magnificent-century-kosem.fandom.com/wiki/Sultan_Murad_IV
+
 [^10]: Real Life Sultanas. "Portrait of Murad IV." https://reallifesultanas.tumblr.com/post/641039770851606528/portrait-of-murad-iv-iv-murad-portr%C3%A9ja
+
 [^11]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^12]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^13]: Britannica. "Murad IV | Reign, Military Campaigns & Succession." https://www.britannica.com/biography/Murad-IV
+
 [^14]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^15]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^16]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^17]: All About Turkey. "Sultan Murad IV." https://www.allaboutturkey.com/murat4.html
+
 [^18]: Magnificent Century: Kosem Wikia. "Sultan Murad IV." https://magnificent-century-kosem.fandom.com/wiki/Sultan_Murad_IV
+
 [^19]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^20]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^21]: Ancient War History. "The Reign of Terror and Redemption." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^22]: Britannica. "Murad IV | Reign, Military Campaigns & Succession." https://www.britannica.com/biography/Murad-IV
+
 [^23]: Daily Sabah. "Mighty sovereigns of Ottoman throne: Sultan Murad IV." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-murad-iv
+
 [^24]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^25]: Wikipedia. "Capture of Tabriz (1635)." https://en.wikipedia.org/wiki/Capture_of_Tabriz_(1635)
+
 [^26]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^27]: Britannica. "Murad IV | Reign, Military Campaigns & Succession." https://www.britannica.com/biography/Murad-IV
+
 [^28]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^29]: Wikipedia. "Treaty of Zuhab." https://en.wikipedia.org/wiki/Treaty_of_Zuhab
+
 [^30]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^31]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^32]: Ancient War History. "The Reign of Terror and Redemption." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^33]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^34]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^35]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^36]: Britannica. "5 Buildings to See in Istanbul, Turkey." https://www.britannica.com/list/5-buildings-to-see-in-istanbul
+
 [^37]: Istanbul University Press. "Topkapı Palace Baghdad Kiosk Tiles." https://iupress.istanbul.edu.tr/en/journal/art-sanat/article/topkapi-sarayi-bagdat-kosku-cinileri
+
 [^38]: Wikipedia. "Ottoman architecture." https://en.wikipedia.org/wiki/Ottoman_architecture
+
 [^39]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^40]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^41]: Badass of the Week. "Murad IV." https://www.badassoftheweek.com/murad
+
 [^42]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^43]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^44]: Badass of the Week. "Murad IV." https://www.badassoftheweek.com/murad
+
 [^45]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^46]: Tumblr. "Why did Murad IV execute his brothers?" https://www.tumblr.com/ottomanladies/181637379668/why-did-murad-iv-execute-his-brothers-he-also
+
 [^47]: Wikipedia. "Şehzade Kasım." https://en.wikipedia.org/wiki/Şehzade_Kasım
+
 [^48]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^49]: Tumblr. "Why did Murad IV execute his brothers?" https://www.tumblr.com/ottomanladies/181637379668/why-did-murad-iv-execute-his-brothers-he-also
+
 [^50]: Wikipedia. "Şehzade Kasım." https://en.wikipedia.org/wiki/Şehzade_Kasım
+
 [^51]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^52]: Atlas Obscura. "In Istanbul, Drinking Coffee in Public Was Once Punishable by Death." https://www.atlasobscura.com/articles/was-coffee-ever-illegal
+
 [^53]: NPR. "Drink Coffee? Off With Your Head!" https://www.npr.org/sections/thesalt/2012/01/10/144988133/drink-coffee-off-with-your-head
+
 [^54]: Ancient War History. "The Reign of Terror and Redemption." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^55]: The Vintage News. "Dangerous Brew: Coffee Drinkers Lost their Head under this Sultan's Rule." https://www.thevintagenews.com/2018/08/17/sultan-bans-coffee/
+
 [^56]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^57]: Specialty Coffee Slovenia. "The History of Coffee Prohibition." https://specialtykava.si/en/the-history-of-coffee-prohibition-attempts-to-ban-the-worlds-beloved-brew/
+
 [^58]: Magnificent Century: Kosem Wikia. "Sultan Murad IV." https://magnificent-century-kosem.fandom.com/wiki/Sultan_Murad_IV
+
 [^59]: Magnificent Century: Kosem Wikia. "Sultan Murad IV." https://magnificent-century-kosem.fandom.com/wiki/Sultan_Murad_IV
+
 [^60]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^61]: Real Life Sultanas. "Portrait of Murad IV's consorts." https://reallifesultanas.tumblr.com/post/641114059589255168/portrait-of-murad-ivs-consorts-iv-murad
+
 [^62]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^63]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^64]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^65]: Real Life Sultanas. "Family of Murad IV." https://reallifesultanas.tumblr.com/post/669742719639371776/family-of-murad-iv-its-terrible-to-see-how-many
+
 [^66]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^67]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^68]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^69]: Daily Sabah. "Mighty sovereigns of Ottoman throne: Sultan Murad IV." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-murad-iv
+
 [^70]: Alaturka. "Evliya Çelebi - Traveler on behalf of the Sultan." https://www.alaturka.info/en/history/middle-ages/5622-evliya-celebi-traveler-on-behalf-of-the-sultan/amp?layout=default/amp/amp/amp/amp
+
 [^71]: Daily Sabah. "Mighty sovereigns of Ottoman throne: Sultan Murad IV." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-murad-iv
+
 [^72]: TheFamousPeople. "Murad IV Biography." https://www.thefamouspeople.com/profiles/murad-iv-33299.php
+
 [^73]: TheFamousPeople. "Murad IV Biography." https://www.thefamouspeople.com/profiles/murad-iv-33299.php
+
 [^74]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^75]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^76]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^77]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^78]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^79]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^80]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^81]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^82]: Ancient War History. "The Reign of Terror and Redemption." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^83]: Wikipedia. "Treaty of Zuhab." https://en.wikipedia.org/wiki/Treaty_of_Zuhab
+
 [^84]: Wikipedia. "Treaty of Zuhab." https://en.wikipedia.org/wiki/Treaty_of_Zuhab
+
 [^85]: Britannica. "Treaty of Qaṣr-i Shīrīn | Iraq, 1639." https://www.britannica.com/topic/Treaty-of-Qasr-i-Shirin
+
 [^86]: Britannica. "5 Buildings to See in Istanbul, Turkey." https://www.britannica.com/list/5-buildings-to-see-in-istanbul
+
 [^87]: Daily Sabah. "Mighty sovereigns of Ottoman throne: Sultan Murad IV." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-murad-iv
+
 [^88]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^89]: Ancient War History. "The Reign of Terror and Redemption." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^90]: Britannica. "Murad IV | Reign, Military Campaigns & Succession." https://www.britannica.com/biography/Murad-IV
+
 [^91]: EBSCO Research. "Reign of Murad IV." https://www.ebsco.com/research-starters/history/reign-murad-iv
+
 [^92]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^93]: Ancient War History. "The Reign of Terror and Redemption." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^94]: Daily Sabah. "Mighty sovereigns of Ottoman throne: Sultan Murad IV." https://www.dailysabah.com/arts/portrait/mighty-sovereigns-of-ottoman-throne-sultan-murad-iv
+
 [^95]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^96]: EBSCO Research. "Murad IV." https://www.ebsco.com/research-starters/history/murad-iv
+
 [^97]: Badass of the Week. "Murad IV." https://www.badassoftheweek.com/murad
+
 [^98]: Wikipedia. "Murad IV." https://en.wikipedia.org/wiki/Murad_IV
+
 [^99]: Atlas Obscura. "In Istanbul, Drinking Coffee in Public Was Once Punishable by Death." https://www.atlasobscura.com/articles/was-coffee-ever-illegal
+
 [^100]: The Vintage News. "Dangerous Brew: Coffee Drinkers Lost their Head under this Sultan's Rule." https://www.thevintagenews.com/2018/08/17/sultan-bans-coffee/
+
 [^101]: Tumblr. "Why did Murad IV execute his brothers?" https://www.tumblr.com/ottomanladies/181637379668/why-did-murad-iv-execute-his-brothers-he-also
+
 [^102]: Ancient War History. "The Reign of Terror and Redemption." https://ancientwarhistory.com/the-reign-of-terror-and-redemption-murad-iv-and-the-crisis-of-the-ottoman-empire/
+
 [^103]: Confinity. "Murad IV Legacy." https://www.confinity.com/legacies/murad-iv
+
 [^104]: History Forum. "Ottoman empire's greatest tyrant -Murad IV." https://historum.com/t/ottoman-empires-greatest-tyrant-murad-iv.170763/
+
 [^105]: Atlas Obscura. "In Istanbul, Drinking Coffee in Public Was Once Punishable by Death." https://www.atlasobscura.com/articles/was-coffee-ever-illegal
+
 [^106]: Badass of the Week. "Murad IV." https://www.badassoftheweek.com/murad

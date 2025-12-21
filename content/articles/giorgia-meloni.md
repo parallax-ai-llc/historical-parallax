@@ -214,29 +214,29 @@ Critics, including many academics, journalists, and opposition politicians, offe
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1977 | Born January 15 in Rome, Italy |
-| 1978 | Father abandons family; raised by single mother |
-| 1992 | Joins Youth Front, youth wing of Italian Social Movement (MSI), at age 15 |
-| 1995 | MSI transforms into National Alliance; becomes leader of Student Action |
-| 1996 | States in interview that Mussolini was a "good politician" |
-| 1998 | Elected councillor to provincial government of Rome at age 21 |
-| 2000 | Receives law degree (Laurea in Giurisprudenza) from University of Rome La Sapienza |
-| 2002 | Completes term as provincial councillor |
-| 2006 | Elected to Chamber of Deputies at age 29 |
-| 2008 | Appointed Minister for Youth at age 31, youngest minister in postwar Italian history |
-| 2011 | Completes term as Minister for Youth |
-| 2012 | Founds Brothers of Italy (Fratelli d'Italia) on December 21 |
-| 2014 | Elected president of Brothers of Italy party |
-| 2015 | Begins relationship with journalist Andrea Giambruno |
-| 2016 | Daughter Ginevra born |
-| 2019 | Brothers of Italy wins 6%+ in European Parliament elections; gives famous "I am Giorgia" speech at World Congress of Families |
-| 2020 | Named president of European Conservatives and Reformists (ECR) bloc |
-| 2022 | Leads coalition to victory with 26% of vote; sworn in as Italy's first female Prime Minister on October 22 |
-| 2023 | Visits Ukraine and meets President Zelenskyy; announces separation from Andrea Giambruno in October; addresses UN General Assembly |
+| Year | Event                                                                                                                                             |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1977 | Born January 15 in Rome, Italy                                                                                                                    |
+| 1978 | Father abandons family; raised by single mother                                                                                                   |
+| 1992 | Joins Youth Front, youth wing of Italian Social Movement (MSI), at age 15                                                                         |
+| 1995 | MSI transforms into National Alliance; becomes leader of Student Action                                                                           |
+| 1996 | States in interview that Mussolini was a "good politician"                                                                                        |
+| 1998 | Elected councillor to provincial government of Rome at age 21                                                                                     |
+| 2000 | Receives law degree (Laurea in Giurisprudenza) from University of Rome La Sapienza                                                                |
+| 2002 | Completes term as provincial councillor                                                                                                           |
+| 2006 | Elected to Chamber of Deputies at age 29                                                                                                          |
+| 2008 | Appointed Minister for Youth at age 31, youngest minister in postwar Italian history                                                              |
+| 2011 | Completes term as Minister for Youth                                                                                                              |
+| 2012 | Founds Brothers of Italy (Fratelli d'Italia) on December 21                                                                                       |
+| 2014 | Elected president of Brothers of Italy party                                                                                                      |
+| 2015 | Begins relationship with journalist Andrea Giambruno                                                                                              |
+| 2016 | Daughter Ginevra born                                                                                                                             |
+| 2019 | Brothers of Italy wins 6%+ in European Parliament elections; gives famous "I am Giorgia" speech at World Congress of Families                     |
+| 2020 | Named president of European Conservatives and Reformists (ECR) bloc                                                                               |
+| 2022 | Leads coalition to victory with 26% of vote; sworn in as Italy's first female Prime Minister on October 22                                        |
+| 2023 | Visits Ukraine and meets President Zelenskyy; announces separation from Andrea Giambruno in October; addresses UN General Assembly                |
 | 2024 | Youth wing scandal involving fascist salutes; receives Atlantic Council Global Citizen Award; government becomes third-longest of Second Republic |
-| 2025 | Ranked fourth-most-powerful woman by Forbes; named most powerful person in Europe by Politico; surpasses 1,000 days in office |
+| 2025 | Ranked fourth-most-powerful woman by Forbes; named most powerful person in Europe by Politico; surpasses 1,000 days in office                     |
 
 ---
 
@@ -261,103 +261,203 @@ Critics, including many academics, journalists, and opposition politicians, offe
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^2]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^3]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^4]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^5]: https://www.governo.it/en/governo/meloni/president-council-ministers/giorgia-meloni
+
 [^6]: https://time.com/7304882/giorgia-meloni-interview/
+
 [^7]: https://www.vedantu.com/biography/giorgia-meloni
+
 [^8]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^9]: https://biographs.org/giorgia-meloni
+
 [^10]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^11]: https://www.cnn.com/2023/10/20/europe/italian-prime-minister-partner-split-sexist-comments-intl-scli
+
 [^12]: https://www.vedantu.com/biography/giorgia-meloni
+
 [^13]: https://biographs.org/giorgia-meloni
+
 [^14]: https://www.vedantu.com/biography/giorgia-meloni
+
 [^15]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^16]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^17]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^18]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^19]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^20]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^21]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^22]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^23]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^24]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^25]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^26]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^27]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^28]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^29]: https://www.governo.it/en/articolo/two-years-meloni-government-two-years-achievements-and-milestones-italy/26896
+
 [^30]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^31]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^32]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^33]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^34]: https://www.understandingitaly.com/giorgia-meloni.html
+
 [^35]: https://time.com/7304882/giorgia-meloni-interview/
+
 [^36]: https://time.com/7304882/giorgia-meloni-interview/
+
 [^37]: https://www.governo.it/en/articolo/president-meloni-s-speech-atlantic-council-global-citizen-awards/26632
+
 [^38]: https://www.understandingitaly.com/giorgia-meloni.html
+
 [^39]: https://www.understandingitaly.com/giorgia-meloni.html
+
 [^40]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^41]: https://foreignpolicy.com/2023/02/06/why-giorgia-meloni-wont-distance-herself-from-italys-fascist-past/
+
 [^42]: https://foreignpolicy.com/2023/02/06/why-giorgia-meloni-wont-distance-herself-from-italys-fascist-past/
+
 [^43]: https://foreignpolicy.com/2023/02/06/why-giorgia-meloni-wont-distance-herself-from-italys-fascist-past/
+
 [^44]: https://foreignpolicy.com/2023/02/06/why-giorgia-meloni-wont-distance-herself-from-italys-fascist-past/
+
 [^45]: https://www.courthousenews.com/italys-meloni-rules-out-changes-to-her-post-fascist-partys-logo/
+
 [^46]: https://www.courthousenews.com/italys-meloni-rules-out-changes-to-her-post-fascist-partys-logo/
+
 [^47]: https://www.nbcnews.com/news/world/italy-giorgia-meloni-brothers-of-italy-youth-fascist-salutes-video-rcna160108
+
 [^48]: https://www.nbcnews.com/news/world/italy-giorgia-meloni-brothers-of-italy-youth-fascist-salutes-video-rcna160108
+
 [^49]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^50]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^51]: https://www.courthousenews.com/in-melonis-authoritarianism-some-italians-see-echoes-of-mussolini/
+
 [^52]: https://www.courthousenews.com/in-melonis-authoritarianism-some-italians-see-echoes-of-mussolini/
+
 [^53]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^54]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^55]: https://www.academia.edu/122596534/Giorgia_Meloni_and_Gray_Neofascism_A_Conservative_Party_of_the_Right_in_Power
+
 [^56]: https://www.populismstudies.org/giorgia-melonis-brothers-of-italy-fdi-conservative-populist-or-extreme-right/
+
 [^57]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^58]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^59]: https://www.cnn.com/2023/10/20/europe/italian-prime-minister-partner-split-sexist-comments-intl-scli
+
 [^60]: https://politicalgaze.com/ginevra-giambruno-giorgia-meloni-daughter-age-and-husband-andrea-giambruno
+
 [^61]: https://www.cnn.com/2023/10/20/europe/italian-prime-minister-partner-split-sexist-comments-intl-scli
+
 [^62]: https://www.cnn.com/2023/10/20/europe/italian-prime-minister-partner-split-sexist-comments-intl-scli
+
 [^63]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^64]: https://biographs.org/giorgia-meloni
+
 [^65]: https://www.cnn.com/2023/10/20/europe/italian-prime-minister-partner-split-sexist-comments-intl-scli
+
 [^66]: https://en.wikiquote.org/wiki/Giorgia_Meloni
+
 [^67]: https://hir.harvard.edu/giorgia-melonis-legacy-breaking-glass-ceilings-and-closing-borders/
+
 [^68]: https://hir.harvard.edu/giorgia-melonis-legacy-breaking-glass-ceilings-and-closing-borders/
+
 [^69]: https://hir.harvard.edu/giorgia-melonis-legacy-breaking-glass-ceilings-and-closing-borders/
+
 [^70]: https://feps-europe.eu/giorgia-melonis-historical-victory-three-or-four-lessons-for-the-italian-centre-left/
+
 [^71]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^72]: https://time.com/7304882/giorgia-meloni-interview/
+
 [^73]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^74]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^75]: https://www.academia.edu/122596534/Giorgia_Meloni_and_Gray_Neofascism_A_Conservative_Party_of_the_Right_in_Power
+
 [^76]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^77]: https://journals.sagepub.com/doi/10.1177/13505068241230819
+
 [^78]: https://www.governo.it/en/articolo/two-years-meloni-government-two-years-achievements-and-milestones-italy/26896
+
 [^79]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^80]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^81]: https://www.governo.it/en/articolo/president-meloni-s-speech-atlantic-council-global-citizen-awards/26632
+
 [^82]: https://hir.harvard.edu/giorgia-melonis-legacy-breaking-glass-ceilings-and-closing-borders/
+
 [^83]: https://www.understandingitaly.com/giorgia-meloni.html
+
 [^84]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^85]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^86]: https://www.britannica.com/biography/Giorgia-Meloni
+
 [^87]: https://foreignpolicy.com/2023/02/06/why-giorgia-meloni-wont-distance-herself-from-italys-fascist-past/
+
 [^88]: https://www.academia.edu/122596534/Giorgia_Meloni_and_Gray_Neofascism_A_Conservative_Party_of_the_Right_in_Power
+
 [^89]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^90]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^91]: https://www.tandfonline.com/doi/full/10.1080/14782804.2024.2390161
+
 [^92]: https://journals.sagepub.com/doi/10.1177/13505068241230819
+
 [^93]: https://www.iris-france.org/en/giorgia-meloni-three-years-in-power-between-european-pragmatism-and-national-ambiguities/
+
 [^94]: https://www.tandfonline.com/doi/full/10.1080/14782804.2025.2491212
+
 [^95]: https://en.wikiquote.org/wiki/Giorgia_Meloni
+
 [^96]: https://en.wikiquote.org/wiki/Giorgia_Meloni
+
 [^97]: https://meloniwords.com/
+
 [^98]: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
 [^99]: https://www.nbcnews.com/news/world/italy-giorgia-meloni-brothers-of-italy-youth-fascist-salutes-video-rcna160108
+
 [^100]: https://meloniwords.com/speeches/
+
 [^101]: https://www.governo.it/en/articolo/president-meloni-s-speech-78th-united-nations-general-assembly/23621

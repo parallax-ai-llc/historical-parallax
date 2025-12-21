@@ -103,20 +103,20 @@ The most intense violence lasted about two weeks, but sporadic killings and arre
 
 ### KMT Officials
 
-| Name | Role | Fate |
-|------|------|------|
-| Chen Yi (陳儀) | Governor of Taiwan | Removed from office; executed 1950 for alleged communist sympathies |
-| Chiang Kai-shek (蔣介石) | ROC President | Authorized military deployment; never held accountable |
-| Ko Yuan-fen (柯遠芬) | Military commander | Oversaw crackdown; later promoted |
+| Name                     | Role               | Fate                                                                |
+| ------------------------ | ------------------ | ------------------------------------------------------------------- |
+| Chen Yi (陳儀)           | Governor of Taiwan | Removed from office; executed 1950 for alleged communist sympathies |
+| Chiang Kai-shek (蔣介石) | ROC President      | Authorized military deployment; never held accountable              |
+| Ko Yuan-fen (柯遠芬)     | Military commander | Oversaw crackdown; later promoted                                   |
 
 ### Taiwanese Victims (Notable Examples)
 
-| Name | Profession | Fate |
-|------|-----------|------|
-| Wang Tien-eng (王添灯) | Journalist, Settlement Committee member | Arrested, tortured, killed |
-| Lim Bo-seng (林茂生) | Philosopher, Taiwan's first PhD | Arrested and disappeared |
-| Thomas Liao (廖文毅) | Engineer, politician | Escaped; led independence movement in exile |
-| Chen Cheng-po (陳澄波) | Painter, councilman | Publicly executed in Chiayi |
+| Name                   | Profession                              | Fate                                        |
+| ---------------------- | --------------------------------------- | ------------------------------------------- |
+| Wang Tien-eng (王添灯) | Journalist, Settlement Committee member | Arrested, tortured, killed                  |
+| Lim Bo-seng (林茂生)   | Philosopher, Taiwan's first PhD         | Arrested and disappeared                    |
+| Thomas Liao (廖文毅)   | Engineer, politician                    | Escaped; led independence movement in exile |
+| Chen Cheng-po (陳澄波) | Painter, councilman                     | Publicly executed in Chiayi                 |
 
 ---
 
@@ -125,14 +125,17 @@ The most intense violence lasted about two weeks, but sporadic killings and arre
 The exact number killed in the 228 Incident remains unknown due to government suppression of records and mass disposal of bodies:
 
 **Initial Government Claims:**
+
 - Chen Yi's administration claimed 3,000-4,000 deaths[^22]
 
 **Later Estimates:**
+
 - 1992 Executive Yuan report: approximately 18,000-28,000 deaths
 - Some scholars estimate up to 30,000
 - The 228 Memorial Foundation has documented over 800 confirmed cases, with many more believed undocumented[^23]
 
 **Why Uncertainty Persists:**
+
 - Bodies were dumped at sea, in rivers, or in mass graves
 - Records were destroyed during the White Terror
 - Families kept silent for decades out of fear
@@ -225,66 +228,105 @@ UNESCO has not formally inscribed 228-related documents on Memory of the World R
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 1895 | Taiwan ceded to Japan after First Sino-Japanese War |
-| 1895-1945 | Japanese colonial rule; Taiwan modernizes significantly |
-| August 15, 1945 | Japan surrenders; Taiwan placed under ROC administration |
-| October 25, 1945 | Chen Yi arrives as Governor of Taiwan |
-| 1945-1947 | KMT corruption, economic exploitation, and political exclusion fuel resentment |
-| February 27, 1947 | Monopoly Bureau agents beat widow Lin Jiang-mai; bystander shot |
+| Date              | Event                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| 1895              | Taiwan ceded to Japan after First Sino-Japanese War                                       |
+| 1895-1945         | Japanese colonial rule; Taiwan modernizes significantly                                   |
+| August 15, 1945   | Japan surrenders; Taiwan placed under ROC administration                                  |
+| October 25, 1945  | Chen Yi arrives as Governor of Taiwan                                                     |
+| 1945-1947         | KMT corruption, economic exploitation, and political exclusion fuel resentment            |
+| February 27, 1947 | Monopoly Bureau agents beat widow Lin Jiang-mai; bystander shot                           |
 | February 28, 1947 | Crowds march on Governor's office; guards fire on protesters; island-wide uprising begins |
-| March 1-7, 1947 | Settlement Committee negotiates with Chen Yi while he secretly requests military |
-| March 8, 1947 | 21st Division lands at Keelung; systematic crackdown begins |
-| March 1947 | Targeted killings of Taiwanese elites throughout island |
-| May 19, 1949 | Martial law declared (continues until 1987) |
-| 1949-1987 | White Terror period |
-| 1987 | Martial law lifted |
-| 1995 | President Lee Teng-hui apologizes for 228 |
-| 1997 | February 28 established as Peace Memorial Day |
-| 2007 | 228 Memorial Museum opens in Taipei |
+| March 1-7, 1947   | Settlement Committee negotiates with Chen Yi while he secretly requests military          |
+| March 8, 1947     | 21st Division lands at Keelung; systematic crackdown begins                               |
+| March 1947        | Targeted killings of Taiwanese elites throughout island                                   |
+| May 19, 1949      | Martial law declared (continues until 1987)                                               |
+| 1949-1987         | White Terror period                                                                       |
+| 1987              | Martial law lifted                                                                        |
+| 1995              | President Lee Teng-hui apologizes for 228                                                 |
+| 1997              | February 28 established as Peace Memorial Day                                             |
+| 2007              | 228 Memorial Museum opens in Taipei                                                       |
 
 ---
 
 ## References
 
 [^1]: [Wikipedia - February 28 Incident](https://en.wikipedia.org/wiki/February_28_incident)
+
 [^2]: [228 Memorial Foundation](https://www.228.org.tw/eng_about228.php)
+
 [^3]: [Wikipedia - Death Toll Estimates](https://en.wikipedia.org/wiki/February_28_incident)
+
 [^4]: [Global Taiwan Institute - 228 Anniversary](https://globaltaiwan.org/2023/02/228-anniversary/)
+
 [^5]: [Britannica - Taiwan Under Japanese Rule](https://www.britannica.com/place/Taiwan/Japanese-rule)
+
 [^6]: [Of Taiwan - Japanese Colonial Legacy](https://www.oftaiwan.org/history/japanese-era/)
+
 [^7]: [228 Foundation - Retrocession](https://www.228.org.tw/eng_about228.php)
+
 [^8]: [Wikipedia - Benshengren](https://en.wikipedia.org/wiki/Benshengren)
+
 [^9]: [Brookings - 228 Analysis](https://www.brookings.edu/articles/taiwan-228-incident/)
+
 [^10]: [Of Taiwan - Dogs and Pigs](https://www.oftaiwan.org/history/228/)
+
 [^11]: [Taipei Times - Cultural Tensions](https://www.taipeitimes.com/News/editorials/archives/228)
+
 [^12]: [Taiwan CSS - Trigger Events](https://www.taiwancss.org/228-incident/)
+
 [^13]: [228 Foundation - February 27](https://www.228.org.tw/)
+
 [^14]: [Wikipedia - February 28 Events](https://en.wikipedia.org/wiki/February_28_incident)
+
 [^15]: [University of Alberta - Island-wide Uprising](https://www.ualberta.ca/east-asian-studies/228-incident)
+
 [^16]: [228 Foundation - Settlement Committee](https://www.228.org.tw/)
+
 [^17]: [FPRI - Chen Yi's Deception](https://www.fpri.org/article/taiwan-228/)
+
 [^18]: [Taiwan CSS - Keelung Landing](https://www.taiwancss.org/228-incident/)
+
 [^19]: [World Without Genocide - Targeted Killings](https://worldwithoutgenocide.org/genocides-and-conflicts/taiwan-228/)
+
 [^20]: [Of Taiwan - Island-wide Suppression](https://www.oftaiwan.org/history/228/)
+
 [^21]: [Britannica - Aftermath](https://www.britannica.com/event/228-Incident)
+
 [^22]: [Wikipedia - Official Figures](https://en.wikipedia.org/wiki/February_28_incident)
+
 [^23]: [228 Foundation - Documented Cases](https://www.228.org.tw/)
+
 [^24]: [FPRI - Why Uncertainty](https://www.fpri.org/article/taiwan-228/)
+
 [^25]: [Taiwan Insight - Martial Law](https://taiwaninsight.org/white-terror/)
+
 [^26]: [World Without Genocide - White Terror](https://worldwithoutgenocide.org/genocides-and-conflicts/taiwan-228/)
+
 [^27]: [Brookings - Taboo History](https://www.brookings.edu/articles/taiwan-228-incident/)
+
 [^28]: [Britannica - KMT Rule](https://www.britannica.com/place/Taiwan/Nationalist-rule)
+
 [^29]: [Taiwan CSS - State Terror Analysis](https://www.taiwancss.org/228-incident/)
+
 [^30]: [Wikipedia - Historical Debate](https://en.wikipedia.org/wiki/February_28_incident)
+
 [^31]: [Global Taiwan Institute - Colonial Transition](https://globaltaiwan.org/2023/02/228-anniversary/)
+
 [^32]: [Wikipedia - Ethnic Relations](https://en.wikipedia.org/wiki/Benshengren)
+
 [^33]: [Taipei Times - Taiwanese Identity](https://www.taipeitimes.com/News/feat/archives/2023/02/28/)
+
 [^34]: [Of Taiwan - Symbol of Resistance](https://www.oftaiwan.org/history/228/)
+
 [^35]: [Taiwan Insight - Transitional Justice](https://taiwaninsight.org/transitional-justice/)
+
 [^36]: [Wikipedia - KMT Narrative](https://en.wikipedia.org/wiki/February_28_incident)
+
 [^37]: [FPRI - Historical Debates](https://www.fpri.org/article/taiwan-228/)
+
 [^38]: [228 Foundation - Compensation](https://www.228.org.tw/)
+
 [^39]: [Global Taiwan Institute - Political Legacy](https://globaltaiwan.org/2023/02/228-anniversary/)
+
 [^40]: [Brookings - International Recognition](https://www.brookings.edu/articles/taiwan-228-incident/)

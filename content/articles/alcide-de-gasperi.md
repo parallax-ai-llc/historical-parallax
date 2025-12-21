@@ -127,33 +127,33 @@ Some scholars have also questioned whether De Gasperi's success in establishing 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1881 | Born on April 3 in Pieve Tesino, Tyrol, Austria-Hungary |
-| 1900 | Graduated from Imperial Royal Gymnasium; enrolled at University of Vienna |
-| 1904 | Participated in student demonstrations for Italian-language university; imprisoned for 20 days |
-| 1905 | Obtained degree in philology; began work as newspaper editor |
-| 1911 | Elected to Austrian Parliament and Tyrolean regional parliament |
-| 1921 | Elected to Italian Chamber of Deputies representing Italian Popular Party |
-| 1924 | Became political secretary of Italian Popular Party |
-| 1926 | Italian Popular Party dissolved by fascist government |
-| 1927 | Arrested in March; sentenced to four years in prison |
-| 1928 | Released from prison in July |
-| 1929 | Secured position as cataloger at Vatican Library |
-| 1942 | Led clandestine meetings to establish Christian Democracy party in December |
-| 1943 | Published "Ideas for Reconstruction"; fascism collapsed in July |
-| 1944 | Became secretary of Christian Democratic Party; appointed minister in Bonomi cabinet (June) |
-| 1945 | Formed his own cabinet on December 10, beginning tenure as Prime Minister |
-| 1946 | Italy became a republic (June 2); served as provisional Head of State (June 12-July 1) |
-| 1946 | Signed Gruber-De Gasperi Agreement with Austria (September) |
-| 1947 | Signed peace treaty with Allies (February); toured United States; negotiated Marshall Plan |
-| 1948 | New constitution enacted (January); Christian Democracy won 48.5% in April elections |
-| 1949 | Italy joined NATO |
-| 1950 | Established Southern Italian Development Fund (Cassa per il Mezzogiorno); implemented agrarian reform |
-| 1951 | Italy joined European Coal and Steel Community; enacted tax reform |
-| 1952 | Received Karlspreis (Charlemagne Prize); conflict with Pope Pius XII over Roman elections |
+| Year | Event                                                                                                    |
+| ---- | -------------------------------------------------------------------------------------------------------- |
+| 1881 | Born on April 3 in Pieve Tesino, Tyrol, Austria-Hungary                                                  |
+| 1900 | Graduated from Imperial Royal Gymnasium; enrolled at University of Vienna                                |
+| 1904 | Participated in student demonstrations for Italian-language university; imprisoned for 20 days           |
+| 1905 | Obtained degree in philology; began work as newspaper editor                                             |
+| 1911 | Elected to Austrian Parliament and Tyrolean regional parliament                                          |
+| 1921 | Elected to Italian Chamber of Deputies representing Italian Popular Party                                |
+| 1924 | Became political secretary of Italian Popular Party                                                      |
+| 1926 | Italian Popular Party dissolved by fascist government                                                    |
+| 1927 | Arrested in March; sentenced to four years in prison                                                     |
+| 1928 | Released from prison in July                                                                             |
+| 1929 | Secured position as cataloger at Vatican Library                                                         |
+| 1942 | Led clandestine meetings to establish Christian Democracy party in December                              |
+| 1943 | Published "Ideas for Reconstruction"; fascism collapsed in July                                          |
+| 1944 | Became secretary of Christian Democratic Party; appointed minister in Bonomi cabinet (June)              |
+| 1945 | Formed his own cabinet on December 10, beginning tenure as Prime Minister                                |
+| 1946 | Italy became a republic (June 2); served as provisional Head of State (June 12-July 1)                   |
+| 1946 | Signed Gruber-De Gasperi Agreement with Austria (September)                                              |
+| 1947 | Signed peace treaty with Allies (February); toured United States; negotiated Marshall Plan               |
+| 1948 | New constitution enacted (January); Christian Democracy won 48.5% in April elections                     |
+| 1949 | Italy joined NATO                                                                                        |
+| 1950 | Established Southern Italian Development Fund (Cassa per il Mezzogiorno); implemented agrarian reform    |
+| 1951 | Italy joined European Coal and Steel Community; enacted tax reform                                       |
+| 1952 | Received Karlspreis (Charlemagne Prize); conflict with Pope Pius XII over Roman elections                |
 | 1953 | Electoral law controversy; coalition failed to achieve supermajority (June); forced to resign (August 2) |
-| 1954 | Elected president of ECSC Common Assembly (May 11); died August 19 in Sella di Valsugana |
+| 1954 | Elected president of ECSC Common Assembly (May 11); died August 19 in Sella di Valsugana                 |
 
 ---
 
@@ -176,135 +176,267 @@ Some scholars have also questioned whether De Gasperi's success in establishing 
 ## References
 
 [^1]: Britannica. "Alcide De Gasperi | Italian Statesman, Politician & Diplomat." https://www.britannica.com/biography/Alcide-de-Gasperi
+
 [^2]: European Union. "Alcide De Gasperi – EU pioneer." https://european-union.europa.eu/principles-countries-history/history-eu/eu-pioneers/alcide-de-gasperi_en
+
 [^3]: EBSCO Research. "Alcide De Gasperi | Research Starters." https://www.ebsco.com/research-starters/history/alcide-de-gasperi
+
 [^4]: New World Encyclopedia. "Alcide De Gasperi." https://www.newworldencyclopedia.org/entry/Alcide_De_Gasperi
+
 [^5]: Wikipedia. "Alcide De Gasperi." https://en.wikipedia.org/wiki/Alcide_De_Gasperi
+
 [^6]: Histouring. "Alcide De Gasperi." https://www.histouring.com/en/historical-figure/alcide-de-gasperi/
+
 [^7]: Visit Trentino. "Alcide De Gasperi, a global citizen from Trentino." https://www.visittrentino.info/en/articles/art-and-culture/de-gasperi-the-statesman-his-places-and-history
+
 [^8]: Trentino Tourism. "Alcide De Gasperi - Trentino - Italy." https://www.trentino.com/en/highlights/history-of-the-trentino/alcide-degasperi/
+
 [^9]: European Union. "Alcide De Gasperi: an inspired mediator for democracy and peace." https://european-union.europa.eu/system/files/2021-06/eu-pioneers-alcide-de-gasperi_en.pdf
+
 [^10]: WSGE. "Alcide De Gasperi." https://wsge.edu.pl/en/alcide-de-gasperi/
+
 [^11]: Wikipedia. "Alcide De Gasperi."
+
 [^12]: EBSCO Research. "Alcide De Gasperi | Research Starters."
+
 [^13]: Histouring. "Alcide De Gasperi."
+
 [^14]: Wikipedia. "Alcide De Gasperi."
+
 [^15]: EBSCO Research. "Alcide De Gasperi | Research Starters."
+
 [^16]: European Union. "Alcide De Gasperi: an inspired mediator."
+
 [^17]: Wikipedia. "Alcide De Gasperi."
+
 [^18]: Trentino Tourism. "Alcide De Gasperi - Trentino."
+
 [^19]: Wikipedia. "Alcide De Gasperi."
+
 [^20]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism." https://www.zocalopublicsquare.org/forgotten-politician-alcide-de-gasperi-italy-fascism/
+
 [^21]: Wikipedia. "Alcide De Gasperi."
+
 [^22]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^23]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^24]: Wikipedia. "Alcide De Gasperi."
+
 [^25]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^26]: Wikipedia. "Alcide De Gasperi."
+
 [^27]: Britannica. "Alcide De Gasperi."
+
 [^28]: Wikipedia. "Alcide De Gasperi."
+
 [^29]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^30]: Cambridge Core. "Christian democracy as political spirituality." https://www.cambridge.org/core/journals/politics-and-religion/article/christian-democracy-as-political-spirituality-transcendence-as-transformationitalian-politics-19421953/F0BD0EA84BE91EEF25FAF3A384AFBC63
+
 [^31]: Cambridge Core. "Christian democracy as political spirituality."
+
 [^32]: Wikipedia. "Alcide De Gasperi."
+
 [^33]: Britannica. "Alcide De Gasperi."
+
 [^34]: Wikipedia. "Alcide De Gasperi."
+
 [^35]: Wikipedia. "Christian Democracy (Italy)." https://en.wikipedia.org/wiki/Christian_Democracy_(Italy)
+
 [^36]: Wikipedia. "Christian Democracy (Italy)."
+
 [^37]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^38]: Wikipedia. "Christian Democracy (Italy)."
+
 [^39]: Wikipedia. "Alcide De Gasperi."
+
 [^40]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^41]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^42]: Wikipedia. "Alcide De Gasperi."
+
 [^43]: Wikipedia. "Alcide De Gasperi."
+
 [^44]: Wikipedia. "Alcide De Gasperi."
+
 [^45]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^46]: Wikipedia. "Alcide De Gasperi."
+
 [^47]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^48]: Wikipedia. "Alcide De Gasperi."
+
 [^49]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^50]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^51]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^52]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^53]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^54]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^55]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^56]: Wikipedia. "Alcide De Gasperi."
+
 [^57]: Wikipedia. "Alcide De Gasperi."
+
 [^58]: Wikipedia. "Alcide De Gasperi."
+
 [^59]: Beyond Intractability. "Love and Forgiveness in Governance: Exemplars: Alcide de Gasperi." https://www.beyondintractability.org/lfg/exemplars/degasperi
+
 [^60]: Wikipedia. "Alcide De Gasperi."
+
 [^61]: Wikipedia. "Alcide De Gasperi."
+
 [^62]: Wikipedia. "Alcide De Gasperi."
+
 [^63]: Wikipedia. "Alcide De Gasperi."
+
 [^64]: Wikipedia. "Alcide De Gasperi."
+
 [^65]: Beyond Intractability. "Love and Forgiveness in Governance."
+
 [^66]: Wikipedia. "Alcide De Gasperi."
+
 [^67]: Aleteia. "De Gasperi, a founding father of Europe on path to sainthood." https://aleteia.org/2025/03/03/alcide-de-gasperi-a-founding-father-of-european-union-on-path-to-sainthood/
+
 [^68]: Aleteia. "De Gasperi, a founding father of Europe on path to sainthood."
+
 [^69]: Aleteia. "De Gasperi, a founding father of Europe on path to sainthood."
+
 [^70]: Beyond Intractability. "Love and Forgiveness in Governance."
+
 [^71]: Wikipedia. "Alcide De Gasperi."
+
 [^72]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^73]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^74]: Wikipedia. "Alcide De Gasperi."
+
 [^75]: Genealogy.com. "Alcide Amedeo De Gasperi." https://www.geni.com/people/Alcide-Amedeo-De-Gasperi/6000000068366407870
+
 [^76]: Visit Trentino. "Alcide De Gasperi, a global citizen from Trentino."
+
 [^77]: Wikipedia. "Alcide De Gasperi."
+
 [^78]: Histouring. "Alcide De Gasperi."
+
 [^79]: Aleteia. "De Gasperi, a founding father of Europe on path to sainthood."
+
 [^80]: Vatican. "To council members of the Alcide De Gasperi Foundation." https://www.vatican.va/content/benedict-xvi/en/speeches/2009/june/documents/hf_ben-xvi_spe_20090620_alcide-de-gasperi.html
+
 [^81]: Commonweal Magazine. "The De Gasperi Method." https://www.commonwealmagazine.org/de-gasperi-method
+
 [^82]: Commonweal Magazine. "The De Gasperi Method."
+
 [^83]: Beyond Intractability. "Love and Forgiveness in Governance."
+
 [^84]: Commonweal Magazine. "The De Gasperi Method."
+
 [^85]: Beyond Intractability. "Love and Forgiveness in Governance."
+
 [^86]: Wikipedia. "Alcide De Gasperi."
+
 [^87]: Wikipedia. "Alcide De Gasperi."
+
 [^88]: EBSCO Research. "Alcide De Gasperi | Research Starters."
+
 [^89]: Atalayar. "70 years after the death of Alcide de Gasperi." https://www.atalayar.com/en/opinion/carlos-uriarte-sanchez/70-years-after-the-death-of-alcide-gasperi-father-of-italian-reconstruction-and-european-integration/20250104170000209469.html
+
 [^90]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^91]: Atalayar. "70 years after the death of Alcide de Gasperi."
+
 [^92]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^93]: Peter Lang Publishers. "Alcide de Gasperi: European Founding Father." https://www.peterlang.com/document/1113479
+
 [^94]: EBSCO Research. "Alcide De Gasperi | Research Starters."
+
 [^95]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^96]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^97]: European University Institute. "Alcide De Gasperi Research Centre." https://www.eui.eu/en/academic-units/historical-archives-of-the-european-union/alcide-de-gasperi-research-centre
+
 [^98]: Aleteia. "De Gasperi, a founding father of Europe on path to sainthood."
+
 [^99]: Aleteia. "De Gasperi, a founding father of Europe on path to sainthood."
+
 [^100]: Vatican. "To council members of the Alcide De Gasperi Foundation."
+
 [^101]: Trentino Tourism. "Alcide De Gasperi - Trentino."
+
 [^102]: Luxembourg Official. "Alcide De Gasperi: Founding father of European unity." https://luxembourgofficial.com/alcidedegasperi/
+
 [^103]: Peter Lang Publishers. "Alcide de Gasperi: European Founding Father."
+
 [^104]: Commonweal Magazine. "The De Gasperi Method."
+
 [^105]: Modern Italy Journal (Cambridge). "Alcide de Gasperi: 1881–1954–a political life in a troubled century." https://www.cambridge.org/core/journals/modern-italy/article/abs/alcide-de-gasperi-18811954a-political-life-in-a-troubled-century/EB0D96B07E7BDDED8C9FB5C4DEF4D5F9
+
 [^106]: EBSCO Research. "Alcide De Gasperi | Research Starters."
+
 [^107]: Histouring. "Alcide De Gasperi."
+
 [^108]: Modern Italy Journal (Taylor & Francis). "Alcide de Gasperi: 1881–1954–a political life in a troubled century." https://www.tandfonline.com/doi/abs/10.1080/13532940903237409
+
 [^109]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^110]: European Central Bank. "Reviving the spirit of De Gasperi: working together for an effective and inclusive Union." https://www.ecb.europa.eu/press/key/date/2016/html/sp160913.en.html
+
 [^111]: EPP Group. "Alcide De Gasperi - Christian, Democrat, European." https://www.eppgroup.eu/newsroom/alcide-de-gasperi-christian-democrat-european
+
 [^112]: Commonweal Magazine. "The De Gasperi Method."
+
 [^113]: Commonweal Magazine. "The De Gasperi Method."
+
 [^114]: Beyond Intractability. "Love and Forgiveness in Governance."
+
 [^115]: Commonweal Magazine. "The De Gasperi Method."
+
 [^116]: New York Review of Books. "Democracy Italian Style." https://www.nybooks.com/articles/2025/12/18/democracy-italian-style-italy-reborn-gilbert/
+
 [^117]: Zócalo Public Square. "The Forgotten Politician Who Helped Italy Beat Fascism."
+
 [^118]: Wikipedia. "Alcide De Gasperi."
+
 [^119]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^120]: Wikipedia. "Alcide De Gasperi."
+
 [^121]: Beyond Intractability. "Love and Forgiveness in Governance."
+
 [^122]: Cambridge Core. "Christian democracy as political spirituality."
+
 [^123]: New World Encyclopedia. "Alcide De Gasperi."
+
 [^124]: New York Review of Books. "Democracy Italian Style."
+
 [^125]: Modern Italy Journal (Taylor & Francis). "Alcide de Gasperi."
+
 [^126]: Modern Italy Journal (Cambridge). "Alcide de Gasperi."
+
 [^127]: Commonweal Magazine. "The De Gasperi Method."
+
 [^128]: Quoteikon. "10 of the Best Quotes By Alcide de Gasperi." https://www.quoteikon.com/alcide-de-gasperi-quotes.html
+
 [^129]: Wikiquote. "Alcide De Gasperi." https://en.wikiquote.org/wiki/Alcide_De_Gasperi
+
 [^130]: European Union. "Alcide De Gasperi – EU pioneer."
+
 [^131]: Quoteikon. "10 of the Best Quotes By Alcide de Gasperi."
+
 [^132]: Karlspreis. "Speech (extract) by Alcide de Gasperi." https://www.karlspreis.de/en/laureates/alcide-de-gasperi-1952/speech-extract-by-alcide-de-gasperi
+
 [^133]: Quoteikon. "10 of the Best Quotes By Alcide de Gasperi."

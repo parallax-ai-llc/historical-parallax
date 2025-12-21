@@ -31,7 +31,7 @@ In 1948, Guevara entered the University of Buenos Aires to study medicine, with 
 
 ## Rise to Power
 
-Guevara's transformation from medical student to revolutionary began with a transformative journey across Latin America. In January 1952, the 23-year-old Guevara and his friend Alberto Granado, a 29-year-old biochemist, departed Buenos Aires on a 1939 Norton 500cc motorcycle dubbed "La Poderosa II" ("The Mighty One").[^15][^16] 
+Guevara's transformation from medical student to revolutionary began with a transformative journey across Latin America. In January 1952, the 23-year-old Guevara and his friend Alberto Granado, a 29-year-old biochemist, departed Buenos Aires on a 1939 Norton 500cc motorcycle dubbed "La Poderosa II" ("The Mighty One").[^15][^16]
 
 They traveled for nine months by motorcycle, steamship, raft, horse, bus, and hitchhiking, covering more than 8,000 kilometers across Argentina, Chile, Peru, Ecuador, Colombia, Venezuela, and Panama.[^17] During this formative odyssey, Guevara was transformed by witnessing the social injustices of exploited mine workers, persecuted communists, ostracized lepers, and the tattered descendants of a once-great Inca civilization.[^18] In Peru, he worked at a leper colony treating patients, an experience that deeply affected him.[^19]
 
@@ -157,32 +157,32 @@ The question of whether Guevara succeeded as a revolutionary remains the princip
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1928 | Born June 14 in Rosario, Argentina |
-| 1930 | Develops chronic asthma at age two |
-| 1948 | Enters University of Buenos Aires to study medicine |
-| 1952 | Embarks on motorcycle journey across Latin America with Alberto Granado (January-July) |
-| 1953 | Receives medical degree from University of Buenos Aires; travels to Guatemala |
-| 1954 | Witnesses CIA-backed coup against Arbenz government in Guatemala |
-| 1955 | Marries Hilda Gadea; meets Fidel Castro in Mexico City (July) |
-| 1956 | Daughter Hilda Beatriz born; joins Castro's 26th of July Movement; lands in Cuba aboard Granma (December 2) |
-| 1957 | Promoted to comandante, first rebel to achieve this rank |
-| 1958 | Leads decisive campaign in Las Villas province; captures Santa Clara (December) |
+| Year | Event                                                                                                                                                                                                                |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1928 | Born June 14 in Rosario, Argentina                                                                                                                                                                                   |
+| 1930 | Develops chronic asthma at age two                                                                                                                                                                                   |
+| 1948 | Enters University of Buenos Aires to study medicine                                                                                                                                                                  |
+| 1952 | Embarks on motorcycle journey across Latin America with Alberto Granado (January-July)                                                                                                                               |
+| 1953 | Receives medical degree from University of Buenos Aires; travels to Guatemala                                                                                                                                        |
+| 1954 | Witnesses CIA-backed coup against Arbenz government in Guatemala                                                                                                                                                     |
+| 1955 | Marries Hilda Gadea; meets Fidel Castro in Mexico City (July)                                                                                                                                                        |
+| 1956 | Daughter Hilda Beatriz born; joins Castro's 26th of July Movement; lands in Cuba aboard Granma (December 2)                                                                                                          |
+| 1957 | Promoted to comandante, first rebel to achieve this rank                                                                                                                                                             |
+| 1958 | Leads decisive campaign in Las Villas province; captures Santa Clara (December)                                                                                                                                      |
 | 1959 | Enters Havana (January 1); appointed commander of La Cabaña fortress; declared Cuban citizen by birth (February); divorces Hilda Gadea; marries Aleida March (June 2); becomes president of National Bank (November) |
-| 1961 | Appointed Minister of Industries; helps prepare forces that repel Bay of Pigs Invasion (April) |
-| 1962 | Admits Four Year economic plan was "absurd" (March); involved in Cuban Missile Crisis |
-| 1963 | Economic policies bring Cuban economy to its lowest point since revolution |
-| 1964 | Addresses United Nations General Assembly in New York (December 11) |
-| 1965 | Delivers farewell letter to Castro (April 1); leaves Cuba for Congo using alias "Tatú"; abandons Congo mission after seven months (November 20) |
-| 1966 | Arrives secretly in Bolivia under false name Adolfo Mena González (November 3) |
-| 1967 | Leads guerrilla campaign in Bolivia; captured by Bolivian Special Forces (October 8); executed in La Higuera, Bolivia (October 9) |
+| 1961 | Appointed Minister of Industries; helps prepare forces that repel Bay of Pigs Invasion (April)                                                                                                                       |
+| 1962 | Admits Four Year economic plan was "absurd" (March); involved in Cuban Missile Crisis                                                                                                                                |
+| 1963 | Economic policies bring Cuban economy to its lowest point since revolution                                                                                                                                           |
+| 1964 | Addresses United Nations General Assembly in New York (December 11)                                                                                                                                                  |
+| 1965 | Delivers farewell letter to Castro (April 1); leaves Cuba for Congo using alias "Tatú"; abandons Congo mission after seven months (November 20)                                                                      |
+| 1966 | Arrives secretly in Bolivia under false name Adolfo Mena González (November 3)                                                                                                                                       |
+| 1967 | Leads guerrilla campaign in Bolivia; captured by Bolivian Special Forces (October 8); executed in La Higuera, Bolivia (October 9)                                                                                    |
 
 ---
 
 ## Famous Quotes
 
-> "Above all, always be capable of feeling deeply any injustice committed against anyone, anywhere in the world. This is the most beautiful quality in a revolutionary." 
+> "Above all, always be capable of feeling deeply any injustice committed against anyone, anywhere in the world. This is the most beautiful quality in a revolutionary."
 
 This quote encapsulates Guevara's philosophy of universal solidarity and revolutionary consciousness.[^97]
 
@@ -215,105 +215,207 @@ Guevara's activist philosophy rejected passive waiting for revolutionary conditi
 ## References
 
 [^1]: https://www.britannica.com/biography/Che-Guevara
+
 [^2]: https://en.wikipedia.org/wiki/Che_Guevara
+
 [^3]: https://www.history.com/articles/che-guevara
+
 [^4]: https://www.aljazeera.com/news/2017/10/8/who-was-che-guevara
+
 [^5]: https://en.wikipedia.org/wiki/Guerrillero_Heroico
+
 [^6]: https://www.britannica.com/biography/Che-Guevara
+
 [^7]: https://en.wikipedia.org/wiki/Che_Guevara
+
 [^8]: https://www.history.com/articles/che-guevara
+
 [^9]: https://www.columbia.edu/~lnp3/mydocs/state_and_revolution/Che_Guevara.htm
+
 [^10]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^11]: https://www.britannica.com/biography/Che-Guevara
+
 [^12]: https://mabumbe.com/people/che-guevara-age-net-worth-relationships-family-career-highlights-more/
+
 [^13]: https://en.wikipedia.org/wiki/Che_Guevara
+
 [^14]: https://www.hcplive.com/view/3066
+
 [^15]: https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(book)
+
 [^16]: https://www.nationalgeographic.com/pages/article/-motorcycle-diaries-shows-che-guevara-at-crossroads
+
 [^17]: https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(book)
+
 [^18]: https://www.nationalgeographic.com/pages/article/-motorcycle-diaries-shows-che-guevara-at-crossroads
+
 [^19]: https://www.cheguevara.org/che-guevara-timeline.jsp
+
 [^20]: https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(book)
+
 [^21]: https://www.britannica.com/biography/Che-Guevara
+
 [^22]: https://www.cheguevara.org/che-guevara-timeline.jsp
+
 [^23]: https://www.britannica.com/biography/Che-Guevara
+
 [^24]: https://www.cheguevara.org/che-guevara-timeline.jsp
+
 [^25]: https://www.hcplive.com/view/3066
+
 [^26]: https://www.cheguevara.org/che-guevara-timeline.jsp
+
 [^27]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^28]: http://www.historyofcuba.com/history/time/Che-1.html
+
 [^29]: https://www.history.com/articles/che-guevara
+
 [^30]: http://www.historyofcuba.com/history/time/Che-1.html
+
 [^31]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^32]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^33]: https://en.wikipedia.org/wiki/La_Cabaña
+
 [^34]: https://www.britannica.com/biography/Che-Guevara
+
 [^35]: https://www.britannica.com/biography/Che-Guevara
+
 [^36]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^37]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^38]: https://www.cheguevara.org/che-guevara-timeline.jsp
+
 [^39]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^40]: https://www.cheguevara.org/che-guevara-timeline.jsp
+
 [^41]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^42]: https://colorado.pressbooks.pub/revolution/chapter/che-guevara-and-the-guerilla-foco/
+
 [^43]: https://revista.drclas.harvard.edu/the-legacy-of-che-guevara-his-significance-in-the-americas/
+
 [^44]: https://www.ukessays.com/essays/history/a-overview-che-guevara-history-essay.php
+
 [^45]: https://en.wikipedia.org/wiki/La_Cabaña
+
 [^46]: https://en.wikipedia.org/wiki/La_Cabaña
+
 [^47]: https://www.independent.org/news/article.asp?id=1535
+
 [^48]: https://en.wikipedia.org/wiki/Che_Guevara
+
 [^49]: https://www.britannica.com/biography/Che-Guevara
+
 [^50]: https://www.independent.org/news/article.asp?id=1535
+
 [^51]: https://humanprogress.org/the-truth-about-che-guevara-racist-homophobe-and-mass-murderer/
+
 [^52]: https://humanprogress.org/the-truth-about-che-guevara-racist-homophobe-and-mass-murderer/
+
 [^53]: https://humanprogress.org/the-truth-about-che-guevara-racist-homophobe-and-mass-murderer/
+
 [^54]: https://humanprogress.org/the-truth-about-che-guevara-racist-homophobe-and-mass-murderer/
+
 [^55]: https://humanprogress.org/the-truth-about-che-guevara-racist-homophobe-and-mass-murderer/
+
 [^56]: https://en.wikipedia.org/wiki/Four_Year_Plan_(Cuba)
+
 [^57]: https://en.wikipedia.org/wiki/Four_Year_Plan_(Cuba)
+
 [^58]: https://en.wikipedia.org/wiki/Four_Year_Plan_(Cuba)
+
 [^59]: https://en.wikipedia.org/wiki/Four_Year_Plan_(Cuba)
+
 [^60]: https://en.wikipedia.org/wiki/Four_Year_Plan_(Cuba)
+
 [^61]: https://en.wikipedia.org/wiki/Four_Year_Plan_(Cuba)
+
 [^62]: https://www.britannica.com/biography/Che-Guevara/The-Congo-Bolivia-and-death
+
 [^63]: https://www.britannica.com/biography/Che-Guevara/The-Congo-Bolivia-and-death
+
 [^64]: https://en.wikipedia.org/wiki/Ñancahuazú_Guerrilla
+
 [^65]: https://en.wikipedia.org/wiki/Che_Guevara
+
 [^66]: https://www.columbia.edu/~lnp3/mydocs/state_and_revolution/Che_Guevara.htm
+
 [^67]: https://www.cheguevara.org/che-guevara-timeline.jsp
+
 [^68]: https://www.pbs.org/wgbh/americanexperience/features/castro-che-guevara-1928-1967/
+
 [^69]: https://cuba-solidarity.org.uk/news/article/3559/lsquowe-were-just-a-normal-familyrsquo-che-guevararsquos-daughter-remembers-her-father
+
 [^70]: https://cuba-solidarity.org.uk/news/article/3559/lsquowe-were-just-a-normal-familyrsquo-che-guevararsquos-daughter-remembers-her-father
+
 [^71]: https://www.periodico26.cu/index.php/en/cuba-news-2/6470-che-and-the-family
+
 [^72]: https://en.wikipedia.org/wiki/Legacy_of_Che_Guevara
+
 [^73]: https://en.wikipedia.org/wiki/Guerrillero_Heroico
+
 [^74]: https://popspotsnyc.com/che/
+
 [^75]: https://www.history.com/this-day-in-history/march-5/iconic-photo-of-che-guevara-taken
+
 [^76]: https://www.smithsonianmag.com/travel/iconic-photography-che-guevara-alberto-korda-cultural-travel-180960615/
+
 [^77]: https://www.smithsonianmag.com/travel/iconic-photography-che-guevara-alberto-korda-cultural-travel-180960615/
+
 [^78]: https://revista.drclas.harvard.edu/the-legacy-of-che-guevara-his-significance-in-the-americas/
+
 [^79]: https://en.wikipedia.org/wiki/Legacy_of_Che_Guevara
+
 [^80]: https://en.wikipedia.org/wiki/Legacy_of_Che_Guevara
+
 [^81]: https://en.wikipedia.org/wiki/Legacy_of_Che_Guevara
+
 [^82]: https://pulitzercenter.org/education/global-perception-che-guevara
+
 [^83]: https://www.mstbrazil.org/news/che-guevara's-legacy
+
 [^84]: https://www.jstor.org/stable/2633996
+
 [^85]: https://www.ukessays.com/essays/history/a-overview-che-guevara-history-essay.php
+
 [^86]: https://en.wikipedia.org/wiki/La_Cabaña
+
 [^87]: https://apps.dtic.mil/sti/pdfs/AD1046588.pdf
+
 [^88]: https://humanprogress.org/the-truth-about-che-guevara-racist-homophobe-and-mass-murderer/
+
 [^89]: https://www.independent.org/news/article.asp?id=1535
+
 [^90]: https://academic.oup.com/pmj/article/98/1156/155/6958940
+
 [^91]: https://humanprogress.org/the-truth-about-che-guevara-racist-homophobe-and-mass-murderer/
+
 [^92]: https://en.wikipedia.org/wiki/Four_Year_Plan_(Cuba)
+
 [^93]: https://www.cia.gov/readingroom/document/cia-rdp79t00472a000800020004-5
+
 [^94]: https://bibliotecavirtual.clacso.org.ar/ar/libros/lasa98/Zimmermann.pdf
+
 [^95]: https://yaf.org/news/exposing-the-real-che-guevara/
+
 [^96]: https://www.ukessays.com/essays/history/a-overview-che-guevara-history-essay.php
+
 [^97]: https://www.goodreads.com/author/quotes/76172.Ernesto_Che_Guevara
+
 [^98]: https://www.brainyquote.com/authors/che-guevara-quotes
+
 [^99]: https://en.wikiquote.org/wiki/Che_Guevara
+
 [^100]: https://www.imdb.com/name/nm0346466/quotes/
+
 [^101]: https://www.azquotes.com/author/5993-Che_Guevara
+
 [^102]: https://quotefancy.com/ernesto-che-guevara-quotes
+
 [^103]: https://www.quoteikon.com/che-guevara-quotes.html

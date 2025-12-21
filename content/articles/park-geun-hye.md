@@ -172,31 +172,31 @@ Moon Jae-in's decision to pardon Park, while framed as an act of reconciliation,
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1952 | Born February 2 in Daegu, South Korea |
-| 1963 | Moved to the Blue House after father became president |
-| 1970 | Graduated from Sungshim Girls' High School |
-| 1974 | Graduated from Sogang University with degree in electronic engineering |
-| 1974 | Mother Yuk Young-soo assassinated; became First Lady at age 22 |
-| 1979 | Father Park Chung-hee assassinated by intelligence chief |
-| 1998 | Entered politics, won parliamentary seat |
-| 2004 | Became chairwoman of Grand National Party |
-| 2006 | Led party to majority in general election |
-| 2006 | Attacked with box cutter while campaigning |
-| 2011 | Appointed chairwoman of Saenuri Party |
-| 2012 | Led Saenuri Party to victory in general election |
-| 2012 | Won presidential election with 51.6% of vote (December 19) |
-| 2013 | Inaugurated as 11th President of South Korea (February 25) |
-| 2014 | Sewol ferry disaster kills 304 people, mostly students (April 16) |
-| 2014 | Delivered Dresden speech on Korean unification (March) |
-| 2016 | Choi Soon-sil scandal breaks (October) |
-| 2016 | Impeached by National Assembly (December 9) |
+| Year | Event                                                                    |
+| ---- | ------------------------------------------------------------------------ |
+| 1952 | Born February 2 in Daegu, South Korea                                    |
+| 1963 | Moved to the Blue House after father became president                    |
+| 1970 | Graduated from Sungshim Girls' High School                               |
+| 1974 | Graduated from Sogang University with degree in electronic engineering   |
+| 1974 | Mother Yuk Young-soo assassinated; became First Lady at age 22           |
+| 1979 | Father Park Chung-hee assassinated by intelligence chief                 |
+| 1998 | Entered politics, won parliamentary seat                                 |
+| 2004 | Became chairwoman of Grand National Party                                |
+| 2006 | Led party to majority in general election                                |
+| 2006 | Attacked with box cutter while campaigning                               |
+| 2011 | Appointed chairwoman of Saenuri Party                                    |
+| 2012 | Led Saenuri Party to victory in general election                         |
+| 2012 | Won presidential election with 51.6% of vote (December 19)               |
+| 2013 | Inaugurated as 11th President of South Korea (February 25)               |
+| 2014 | Sewol ferry disaster kills 304 people, mostly students (April 16)        |
+| 2014 | Delivered Dresden speech on Korean unification (March)                   |
+| 2016 | Choi Soon-sil scandal breaks (October)                                   |
+| 2016 | Impeached by National Assembly (December 9)                              |
 | 2017 | Constitutional Court upholds impeachment, removed from office (March 10) |
-| 2018 | Sentenced to 24 years in prison (April 6) |
-| 2018 | Total sentence increased to 25 years (August) |
-| 2021 | Pardoned by President Moon Jae-in (December 24) |
-| 2021 | Released from prison (December 31) |
+| 2018 | Sentenced to 24 years in prison (April 6)                                |
+| 2018 | Total sentence increased to 25 years (August)                            |
+| 2021 | Pardoned by President Moon Jae-in (December 24)                          |
+| 2021 | Released from prison (December 31)                                       |
 
 ---
 
@@ -225,120 +225,237 @@ Moon Jae-in's decision to pardon Park, while framed as an act of reconciliation,
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Park_Geun-hye
+
 [^2]: https://www.britannica.com/biography/Park-Geun-Hye
+
 [^3]: https://en.wikipedia.org/wiki/Impeachment_of_Park_Geun-hye
+
 [^4]: https://www.cnbc.com/2021/12/24/south-korea-pardons-disgraced-former-president-park-geun-hye.html
+
 [^5]: https://www.thefamouspeople.com/profiles/park-geun-hye-6895.php
+
 [^6]: https://en.wikipedia.org/wiki/Park_Chung_Hee
+
 [^7]: https://kids.britannica.com/students/article/Park-Geun-Hye/625574
+
 [^8]: https://biographs.org/park-geun-hye
+
 [^9]: https://www.globalsecurity.org/military/world/rok/president-park-geun-hye.htm
+
 [^10]: https://awpc.cattcenter.iastate.edu/directory/geun-hye-park/
+
 [^11]: https://en.wikipedia.org/wiki/Yuk_Young-soo
+
 [^12]: https://edition.cnn.com/2017/03/09/asia/south-korea-park-geun-hye-profile
+
 [^13]: https://www.britannica.com/explore/100women/profiles/park-geun-hye
+
 [^14]: https://kids.kiddle.co/Park_Geun-hye
+
 [^15]: https://www.aljazeera.com/news/2017/3/10/profile-south-koreas-park-geun-hye
+
 [^16]: https://www.cambridge.org/core/journals/politics-and-gender/article/trailblazer-or-a-barrier-dynastic-politics-and-symbolic-representation-of-the-first-female-president-of-south-korea-park-geunhye/AEBAC63414CBC5857542C84CB50E93CA
+
 [^17]: https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/park-geun-hye
+
 [^18]: https://en.wikipedia.org/wiki/Choi_Tae-min
+
 [^19]: https://www.voanews.com/a/timeline-impeachment-south-korea-park-geun-hye/3758360.html
+
 [^20]: https://en.wikipedia.org/wiki/2016_South_Korean_political_scandal
+
 [^21]: https://www.koreaherald.com/view.php?ud=20161030000180
+
 [^22]: https://prabook.com/web/park.geun-hye/960340
+
 [^23]: https://www.girlmuseum.org/political-powerhouses-park-geun-hye/
+
 [^24]: https://en.wikipedia.org/wiki/Liberty_Korea_Party
+
 [^25]: https://www.britannica.com/topic/Saenuri-Party
+
 [^26]: https://www.csis.org/analysis/south-korea-elects-president-park-geun-hye
+
 [^27]: https://www.foxnews.com/world/timeline-the-rise-and-fall-of-south-koreas-park-geun-hye
+
 [^28]: https://en.namu.wiki/w/박근혜
+
 [^29]: https://www.councilwomenworldleaders.org/park-geun-hye
+
 [^30]: https://journals.sagepub.com/doi/10.1177/0021909617722376
+
 [^31]: https://www.cfr.org/report/park-geun-hye-presidency-and-future-us-south-korea-alliance
+
 [^32]: https://en.wikipedia.org/wiki/2012_South_Korean_presidential_election
+
 [^33]: https://www.brookings.edu/articles/park-geun-hyes-electoral-victory-a-sigh-of-relief-from-washington/
+
 [^34]: https://www.washingtonpost.com/world/asia_pacific/park-geun-hye-leads-in-south-koreas-presidential-election/2012/12/19/783398d4-49e6-11e2-b6f0-e851e741d196_story.html
+
 [^35]: https://www.voanews.com/a/south-korea-media-project-park-as-next-president/1567778.html
+
 [^36]: https://www.csis.org/analysis/inauguration-south-koreas-new-president-park-geun-hye
+
 [^37]: https://www.cnn.com/2012/12/18/world/asia/south-korea-presidential-election
+
 [^38]: https://keia.org/publication/the-creative-economy-of-the-park-geun-hye-administration/
+
 [^39]: https://keia.org/the-peninsula/where-do-chaebols-fit-in-park-geun-hyes-creative-economy/
+
 [^40]: https://www.kocis.go.kr/ebook/access/ecatalogt.jsp?callmode=normal&eclang=en&Dir=333&um=s&start=12
+
 [^41]: https://www.brookings.edu/articles/outlook-for-nations-first-female-leader/
+
 [^42]: https://koreaherald.com/view.php?ud=20130225000590
+
 [^43]: https://eastasiaforum.org/2018/04/12/what-parks-sentence-means-for-south-koreas-economy/
+
 [^44]: https://nostalgiaandpop.omeka.net/exhibits/show/nations
+
 [^45]: https://digitalarchive.wilsoncenter.org/people/park-chung-hee
+
 [^46]: https://www.npr.org/sections/thetwo-way/2012/12/19/167633522/south-korea-to-get-its-first-woman-leader
+
 [^47]: https://en.wikipedia.org/wiki/Moon_Jae-in
+
 [^48]: https://www.pmindia.gov.in/en/news_updates/pms-remarks-at-the-press-briefing-with-president-park-geun-hye/
+
 [^49]: https://www.koreaherald.com/view.php?ud=20140328001400
+
 [^50]: https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-president-park-geun-hye-south-korea-seoul-south-korea
+
 [^51]: https://www.brainyquote.com/authors/park-geun-hye-quotes
+
 [^52]: https://en.wikiquote.org/wiki/Park_Geun-hye
+
 [^53]: https://www.quotes.net/authors/Park+Geun-hye
+
 [^54]: https://en.wikipedia.org/wiki/Sinking_of_MV_Sewol
+
 [^55]: https://www.korea.net/NewsFocus/policies/view?articleId=119459
+
 [^56]: https://www.koreaherald.com/view.php?ud=20180329000933
+
 [^57]: https://nvdatabase.swarthmore.edu/content/citizens-south-korea-campaign-investigation-sewol-ferry-accident-2014-2017
+
 [^58]: https://www.koreaherald.com/article/108892
+
 [^59]: https://www.monash.edu/arts/languages-literatures-cultures-linguistics/korean-studies-research-hub/research/on-this-day-in-korean-history/5-4.16-the-sewol-ferry-disaster
+
 [^60]: https://academic.oup.com/book/38990/chapter/338235944
+
 [^61]: https://www.sciencedirect.com/science/article/abs/pii/S2212420921007032
+
 [^62]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7169149/
+
 [^63]: https://www.eurasiagroup.net/live-post/south-koreas-familial-presidential-family-scandal
+
 [^64]: https://www.nbcnews.com/news/world/south-korean-president-park-geun-hye-brink-amid-scandal-n690556
+
 [^65]: https://en.wikipedia.org/wiki/Choi_Soon-sil
+
 [^66]: https://www.koreatimes.co.kr/www/news/nation/2016/11/116_217297.html
+
 [^67]: https://www.aljazeera.com/news/2016/10/31/south-koreas-park-in-trouble-over-choi-soon-sil-links
+
 [^68]: https://www.cnn.com/2016/11/02/asia/south-korea-president-scandal-explained/index.html
+
 [^69]: https://www.lowyinstitute.org/the-interpreter/cults-cabals-corruption-south-korea
+
 [^70]: https://www.inspiringquotes.us/author/9299-park-geun-hye
+
 [^71]: https://quotepark.com/authors/park-geun-hye/
+
 [^72]: https://www.quotes.net/authors/South+Korean+President+Park+Geun-hye
+
 [^73]: https://personalitylist.com/profile/124073/government-asia/park-geun-hye/
+
 [^74]: https://grokipedia.com/page/Park_Geun-hye
+
 [^75]: https://digitalarchive.wilsoncenter.org/people/yuk-yeong-su
+
 [^76]: https://www.famousbirthdays.com/people/park-geun-hye.html
+
 [^77]: https://overseas.mofa.go.kr/gb-en/brd/m_8348/view.do?amp=&amp=&amp=&amp=&amp=&amp=&amp=&amp=&company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&seq=760859&srchFr=&srchTo=&srchTp=&srchWord=
+
 [^78]: https://www.carnegiecouncil.org/media/series/asia/the-impeachment-of-south-korean-president-park-geun-hye
+
 [^79]: https://globalasia.org/v11no4/feature/out-of-the-shadows-the-collapse-of-park-geun-hye-and-the-future-of-south-korea_ho-ki-kim
+
 [^80]: https://yjil.yale.edu/posts/2017-05-18-a-closer-look-at-the-korean-constitutional-courts-ruling-on-park-geun-hyes
+
 [^81]: https://time.com/4596318/south-korea-president-impeachment-park-geun-hye-corruption-choi-soon-sil-protests/
+
 [^82]: https://www.tandfonline.com/doi/abs/10.1080/09512748.2018.1523804
+
 [^83]: https://www.cnn.com/2016/12/09/asia/south-korea-park-geun-hye-impeachment-vote/index.html
+
 [^84]: https://www.koreaherald.com/article/1206844
+
 [^85]: https://asiasociety.org/korea/park-geun-hye-impeached
+
 [^86]: https://thegroundtruthproject.org/groundtruth-explains-south-koreas-democracy/
+
 [^87]: https://www.jurist.org/news/2021/12/south-korea-grants-amnesty-to-former-president-park-geun-hye/
+
 [^88]: https://www.aljazeera.com/news/2021/12/31/s-koreas-disgraced-ex-president-park-freed-after-nearly-5-years-in-prison
+
 [^89]: https://www.npr.org/2021/12/23/1067749297/south-korea-president-pardoned
+
 [^90]: https://www.aljazeera.com/news/2021/12/24/skorea-ex-president-park-jailed-for-corruption-is-pardoned
+
 [^91]: https://www.nknews.org/2021/12/moon-jae-in-pardons-predecessor-park-geun-hye-and-pro-north-korea-lawmaker/
+
 [^92]: https://www.nbcnews.com/news/world/south-korea-pardons-jailed-former-president-park-geun-hye-rcna9882
+
 [^93]: https://www.cnn.com/2021/12/23/asia/south-korea-park-pardoned-intl-hnk/index.html
+
 [^94]: https://www.france24.com/en/asia-pacific/20211224-south-korea-pardons-disgraced-former-president-park-geun-hye
+
 [^95]: https://www.brookings.edu/blog/up-front/2012/12/19/park-geun-hyes-electoral-victory-a-sigh-of-relief-from-washington/
+
 [^96]: https://www.britannica.com/biography/Park-Geun-Hye
+
 [^97]: https://en.wikipedia.org/wiki/Park_Geun-hye
+
 [^98]: https://www.csis.org/analysis/south-korea-elects-president-park-geun-hye
+
 [^99]: https://koreaherald.com/view.php?ud=20140328001400
+
 [^100]: https://biographs.org/park-geun-hye
+
 [^101]: https://globalasia.org/v11no4/feature/out-of-the-shadows-the-collapse-of-park-geun-hye-and-the-future-of-south-korea_ho-ki-kim
+
 [^102]: https://www.koreaherald.com/view.php?ud=20180329000933
+
 [^103]: https://www.korea.net/NewsFocus/policies/view?articleId=119459
+
 [^104]: https://en.wikipedia.org/wiki/2016_South_Korean_political_scandal
+
 [^105]: https://en.wikipedia.org/wiki/Choi_Tae-min
+
 [^106]: https://www.cambridge.org/core/journals/politics-and-gender/article/trailblazer-or-a-barrier-dynastic-politics-and-symbolic-representation-of-the-first-female-president-of-south-korea-park-geunhye/AEBAC63414CBC5857542C84CB50E93CA
+
 [^107]: https://journals.sagepub.com/doi/10.1177/0021909617722376
+
 [^108]: https://thegroundtruthproject.org/groundtruth-explains-south-koreas-democracy/
+
 [^109]: https://www.cnbc.com/2021/12/24/south-korea-pardons-disgraced-former-president-park-geun-hye.html
+
 [^110]: https://www.inspiringquotes.us/author/9299-park-geun-hye
+
 [^111]: https://koreaherald.com/view.php?ud=20130225000590
+
 [^112]: https://www.brainyquote.com/authors/park-geun-hye-quotes
+
 [^113]: https://en.wikiquote.org/wiki/Park_Geun-hye
+
 [^114]: https://www.quotes.net/authors/Park+Geun-hye
+
 [^115]: https://quotepark.com/authors/park-geun-hye/
+
 [^116]: https://www.pmindia.gov.in/en/news_updates/pms-remarks-at-the-press-briefing-with-president-park-geun-hye/
+
 [^117]: https://www.koreaherald.com/article/108892
+
 [^118]: https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-president-park-geun-hye-south-korea-seoul-south-korea

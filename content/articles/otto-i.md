@@ -135,26 +135,26 @@ Recent scholarship has questioned the extent of Otto's actual control over his r
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 912 | Born November 23 in Wallhausen, Saxony |
-| 929 | Designated as heir by father Henry I; married Eadgyth of England |
-| 936 | Succeeded father as King of Germany; crowned at Aachen on August 7 |
-| 938 | Suppressed rebellion of half-brother Thankmar |
-| 939-941 | Defeated rebellion of brother Henry and Dukes Eberhard and Giselbert |
-| 946 | Death of first wife Eadgyth |
-| 951 | First Italian campaign; crowned King of Italy; married Adelaide of Italy |
-| 953-954 | Suppressed rebellion of son Liudolf and son-in-law Conrad the Red |
-| 955 | Decisive victory over Magyars at Battle of Lechfeld on August 10 |
-| 957 | Death of son Liudolf |
-| 961 | Second Italian campaign in response to Pope John XII's appeal |
-| 962 | Crowned Holy Roman Emperor on February 2 in Rome |
-| 963 | Deposed Pope John XII; installed Pope Leo VIII |
-| 965 | Defeated Berengar II definitively |
-| 967 | Had son Otto II crowned co-emperor |
-| 968 | Established Archbishopric of Magdeburg |
-| 972 | Arranged marriage of Otto II to Byzantine princess Theophanu |
-| 973 | Died May 7 in Memleben; buried in Magdeburg Cathedral |
+| Year    | Event                                                                    |
+| ------- | ------------------------------------------------------------------------ |
+| 912     | Born November 23 in Wallhausen, Saxony                                   |
+| 929     | Designated as heir by father Henry I; married Eadgyth of England         |
+| 936     | Succeeded father as King of Germany; crowned at Aachen on August 7       |
+| 938     | Suppressed rebellion of half-brother Thankmar                            |
+| 939-941 | Defeated rebellion of brother Henry and Dukes Eberhard and Giselbert     |
+| 946     | Death of first wife Eadgyth                                              |
+| 951     | First Italian campaign; crowned King of Italy; married Adelaide of Italy |
+| 953-954 | Suppressed rebellion of son Liudolf and son-in-law Conrad the Red        |
+| 955     | Decisive victory over Magyars at Battle of Lechfeld on August 10         |
+| 957     | Death of son Liudolf                                                     |
+| 961     | Second Italian campaign in response to Pope John XII's appeal            |
+| 962     | Crowned Holy Roman Emperor on February 2 in Rome                         |
+| 963     | Deposed Pope John XII; installed Pope Leo VIII                           |
+| 965     | Defeated Berengar II definitively                                        |
+| 967     | Had son Otto II crowned co-emperor                                       |
+| 968     | Established Archbishopric of Magdeburg                                   |
+| 972     | Arranged marriage of Otto II to Byzantine princess Theophanu             |
+| 973     | Died May 7 in Memleben; buried in Magdeburg Cathedral                    |
 
 ---
 
@@ -184,127 +184,250 @@ This statement, recorded by Liudprand of Cremona, reflects Otto's conception of 
 
 ## References
 
-[^1]: Reuter, Timothy. *Germany in the Early Middle Ages, 800-1056*. London: Longman, 1991, pp. 148-156.
-[^2]: Leyser, Karl. *Rule and Conflict in an Early Medieval Society: Ottonian Saxony*. London: Edward Arnold, 1979, pp. 9-18.
-[^3]: Thietmar of Merseburg. *Chronicon*. Translated by David A. Warner. Manchester: Manchester University Press, 2001, Book II, pp. 75-76.
-[^4]: Corbet, Patrick. *Les saints ottoniens*. Sigmaringen: Jan Thorbecke Verlag, 1986, pp. 45-52.
-[^5]: Bowlus, Charles R. *The Battle of Lechfeld and Its Aftermath, August 955*. Aldershot: Ashgate, 2006, pp. 21-28.
-[^6]: Widukind of Corvey. *Deeds of the Saxons*. Translated by Bernard S. Bachrach and David S. Bachrach. Washington, DC: Catholic University of America Press, 2014, Book II.1, pp. 81-82.
-[^7]: Reuter, Timothy. "The 'Imperial Church System' of the Ottonian and Salian Rulers: a Reconsideration." *Journal of Ecclesiastical History* 33 (1982): 347-374.
-[^8]: Yorke, Barbara. "Eadgyth, Wife of Otto I: An Anglo-Saxon Princess in East Francia." In *England and the Continent in the Tenth Century*, edited by David Rollason, Conrad Leyser, and Hannah Williams, 155-170. Turnhout: Brepols, 2010.
-[^9]: Althoff, Gerd. *Family, Friends and Followers: Political and Social Bonds in Early Medieval Europe*. Cambridge: Cambridge University Press, 2004, pp. 89-95.
-[^10]: Bak, János M. "Medieval Symbology of the State: Percy E. Schramm's Contribution." *Viator* 4 (1973): 33-63.
-[^11]: Widukind of Corvey. *Deeds of the Saxons*, Book II.2, pp. 82-84.
-[^12]: Leyser, Karl. "The German Aristocracy from the Ninth to the Early Twelfth Century." *Past & Present* 41 (1968): 25-53.
-[^13]: Beumann, Helmut. *Die Ottonen*. Stuttgart: W. Kohlhammer, 1987, pp. 34-37.
-[^14]: Warner, David A. "Thietmar of Merseburg on Rituals of Kingship." *Viator* 26 (1995): 53-76.
-[^15]: Reuter, Timothy. *Germany in the Early Middle Ages*, pp. 158-162.
-[^16]: Bachrach, Bernard S. "The Fortification of Gaul and the Economy of the Third and Fourth Centuries." *Journal of Late Antiquity* 3 (2010): 38-64.
-[^17]: Leyser, Karl. "Ottonian Government." *English Historical Review* 96 (1981): 721-753.
-[^18]: Althoff, Gerd. *Otto III*. University Park: Pennsylvania State University Press, 2003, pp. 12-18.
+[^1]: Reuter, Timothy. _Germany in the Early Middle Ages, 800-1056_. London: Longman, 1991, pp. 148-156.
+
+[^2]: Leyser, Karl. _Rule and Conflict in an Early Medieval Society: Ottonian Saxony_. London: Edward Arnold, 1979, pp. 9-18.
+
+[^3]: Thietmar of Merseburg. _Chronicon_. Translated by David A. Warner. Manchester: Manchester University Press, 2001, Book II, pp. 75-76.
+
+[^4]: Corbet, Patrick. _Les saints ottoniens_. Sigmaringen: Jan Thorbecke Verlag, 1986, pp. 45-52.
+
+[^5]: Bowlus, Charles R. _The Battle of Lechfeld and Its Aftermath, August 955_. Aldershot: Ashgate, 2006, pp. 21-28.
+
+[^6]: Widukind of Corvey. _Deeds of the Saxons_. Translated by Bernard S. Bachrach and David S. Bachrach. Washington, DC: Catholic University of America Press, 2014, Book II.1, pp. 81-82.
+
+[^7]: Reuter, Timothy. "The 'Imperial Church System' of the Ottonian and Salian Rulers: a Reconsideration." _Journal of Ecclesiastical History_ 33 (1982): 347-374.
+
+[^8]: Yorke, Barbara. "Eadgyth, Wife of Otto I: An Anglo-Saxon Princess in East Francia." In _England and the Continent in the Tenth Century_, edited by David Rollason, Conrad Leyser, and Hannah Williams, 155-170. Turnhout: Brepols, 2010.
+
+[^9]: Althoff, Gerd. _Family, Friends and Followers: Political and Social Bonds in Early Medieval Europe_. Cambridge: Cambridge University Press, 2004, pp. 89-95.
+
+[^10]: Bak, János M. "Medieval Symbology of the State: Percy E. Schramm's Contribution." _Viator_ 4 (1973): 33-63.
+
+[^11]: Widukind of Corvey. _Deeds of the Saxons_, Book II.2, pp. 82-84.
+
+[^12]: Leyser, Karl. "The German Aristocracy from the Ninth to the Early Twelfth Century." _Past & Present_ 41 (1968): 25-53.
+
+[^13]: Beumann, Helmut. _Die Ottonen_. Stuttgart: W. Kohlhammer, 1987, pp. 34-37.
+
+[^14]: Warner, David A. "Thietmar of Merseburg on Rituals of Kingship." _Viator_ 26 (1995): 53-76.
+
+[^15]: Reuter, Timothy. _Germany in the Early Middle Ages_, pp. 158-162.
+
+[^16]: Bachrach, Bernard S. "The Fortification of Gaul and the Economy of the Third and Fourth Centuries." _Journal of Late Antiquity_ 3 (2010): 38-64.
+
+[^17]: Leyser, Karl. "Ottonian Government." _English Historical Review_ 96 (1981): 721-753.
+
+[^18]: Althoff, Gerd. _Otto III_. University Park: Pennsylvania State University Press, 2003, pp. 12-18.
+
 [^19]: Reuter, Timothy. "The 'Imperial Church System,'" pp. 350-356.
-[^20]: Bowlus, Charles R. *The Battle of Lechfeld*, pp. 112-145.
-[^21]: Widukind of Corvey. *Deeds of the Saxons*, Book III.44-46, pp. 128-132.
-[^22]: Engel, Pál. *The Realm of St. Stephen: A History of Medieval Hungary, 895-1526*. London: I.B. Tauris, 2001, pp. 28-35.
-[^23]: Laudage, Johannes. *Otto der Große: Eine Biographie*. Regensburg: Pustet, 2001, pp. 178-189.
+
+[^20]: Bowlus, Charles R. _The Battle of Lechfeld_, pp. 112-145.
+
+[^21]: Widukind of Corvey. _Deeds of the Saxons_, Book III.44-46, pp. 128-132.
+
+[^22]: Engel, Pál. _The Realm of St. Stephen: A History of Medieval Hungary, 895-1526_. London: I.B. Tauris, 2001, pp. 28-35.
+
+[^23]: Laudage, Johannes. _Otto der Große: Eine Biographie_. Regensburg: Pustet, 2001, pp. 178-189.
+
 [^24]: Reuter, Timothy. "The 'Imperial Church System,'" pp. 347-374.
-[^25]: Robinson, I.S. *The Papacy, 1073-1198: Continuity and Innovation*. Cambridge: Cambridge University Press, 1990, pp. 15-22.
-[^26]: Leyser, Karl. *Communications and Power in Medieval Europe: The Carolingian and Ottonian Centuries*. London: Hambledon Press, 1994, pp. 75-91.
-[^27]: Haverkamp, Alfred. *Medieval Germany, 1056-1273*. Oxford: Oxford University Press, 1988, pp. 9-14.
-[^28]: Liudprand of Cremona. *The Complete Works of Liudprand of Cremona*. Translated by Paolo Squatriti. Washington, DC: Catholic University of America Press, 2007, pp. 187-192.
-[^29]: Leyser, Karl. *Rule and Conflict*, pp. 28-34.
-[^30]: Partner, Peter. *The Lands of St. Peter*. Berkeley: University of California Press, 1972, pp. 156-162.
-[^31]: Brühl, Carlrichard. *Deutschland - Frankreich: Die Geburt zweier Völker*. Cologne: Böhlau, 1990, pp. 445-458.
-[^32]: Folz, Robert. *The Concept of Empire in Western Europe from the Fifth to the Fourteenth Century*. London: Edward Arnold, 1969, pp. 45-58.
-[^33]: Ullmann, Walter. *The Growth of Papal Government in the Middle Ages*. London: Methuen, 1955, pp. 201-208.
-[^34]: Liudprand of Cremona. *Complete Works*, pp. 234-247.
-[^35]: Blumenthal, Uta-Renate. *The Investiture Controversy: Church and Monarchy from the Ninth to the Twelfth Century*. Philadelphia: University of Pennsylvania Press, 1988, pp. 45-51.
-[^36]: Laudage, Johannes. *Otto der Große*, pp. 267-273.
+
+[^25]: Robinson, I.S. _The Papacy, 1073-1198: Continuity and Innovation_. Cambridge: Cambridge University Press, 1990, pp. 15-22.
+
+[^26]: Leyser, Karl. _Communications and Power in Medieval Europe: The Carolingian and Ottonian Centuries_. London: Hambledon Press, 1994, pp. 75-91.
+
+[^27]: Haverkamp, Alfred. _Medieval Germany, 1056-1273_. Oxford: Oxford University Press, 1988, pp. 9-14.
+
+[^28]: Liudprand of Cremona. _The Complete Works of Liudprand of Cremona_. Translated by Paolo Squatriti. Washington, DC: Catholic University of America Press, 2007, pp. 187-192.
+
+[^29]: Leyser, Karl. _Rule and Conflict_, pp. 28-34.
+
+[^30]: Partner, Peter. _The Lands of St. Peter_. Berkeley: University of California Press, 1972, pp. 156-162.
+
+[^31]: Brühl, Carlrichard. _Deutschland - Frankreich: Die Geburt zweier Völker_. Cologne: Böhlau, 1990, pp. 445-458.
+
+[^32]: Folz, Robert. _The Concept of Empire in Western Europe from the Fifth to the Fourteenth Century_. London: Edward Arnold, 1969, pp. 45-58.
+
+[^33]: Ullmann, Walter. _The Growth of Papal Government in the Middle Ages_. London: Methuen, 1955, pp. 201-208.
+
+[^34]: Liudprand of Cremona. _Complete Works_, pp. 234-247.
+
+[^35]: Blumenthal, Uta-Renate. _The Investiture Controversy: Church and Monarchy from the Ninth to the Twelfth Century_. Philadelphia: University of Pennsylvania Press, 1988, pp. 45-51.
+
+[^36]: Laudage, Johannes. _Otto der Große_, pp. 267-273.
+
 [^37]: Airlie, Stuart. "The Political Behaviour of Secular Magnates in Francia, 829-879." PhD dissertation, University of Oxford, 1985, pp. 156-178.
-[^38]: Lübke, Christian. *Das östliche Europa*. Munich: Siedler, 2004, pp. 89-107.
-[^39]: Thietmar of Merseburg. *Chronicon*, Book II.20-23, pp. 98-104.
-[^40]: Třeštík, Dušan. *Počátky Přemyslovců*. Prague: Nakladatelství Lidové noviny, 1997, pp. 234-246.
-[^41]: Morrison, Karl F. "The Investiture Controversy: Issues, Ideals, and Results." In *Tradition and Change in Medieval Society*, edited by S. Thrupp, 129-151. New York: Appleton-Century-Crofts, 1964.
-[^42]: Tellenbach, Gerd. *Church, State and Christian Society at the Time of the Investiture Contest*. Oxford: Basil Blackwell, 1940, pp. 48-67.
-[^43]: Blumenthal, Uta-Renate. *The Investiture Controversy*, pp. 89-115.
-[^44]: Leyser, Karl. *Rule and Conflict*, pp. 28-34.
-[^45]: Beumann, Helmut. *Die Ottonen*, pp. 78-84.
-[^46]: Althoff, Gerd. *Family, Friends and Followers*, pp. 102-108.
-[^47]: Bartlett, Robert. *The Making of Europe: Conquest, Colonization and Cultural Change, 950-1350*. Princeton: Princeton University Press, 1993, pp. 24-59.
-[^48]: Lübke, Christian. "The Elbe and Saale Slavs." In *The New Cambridge Medieval History, Vol. 3*, edited by Timothy Reuter, 537-553. Cambridge: Cambridge University Press, 1999.
-[^49]: Schubert, Ernst. "Die Capitulatio de partibus Saxoniae." In *Politik, Gesellschaft, Geschichtsschreibung*, edited by Helmut Beumann, 3-28. Cologne: Böhlau, 1982.
-[^50]: Bartlett, Robert. *The Making of Europe*, pp. 306-314.
-[^51]: Haverkamp, Alfred. *Medieval Germany*, pp. 18-26.
-[^52]: Bryce, James. *The Holy Roman Empire*. London: Macmillan, 1904, pp. 112-128.
-[^53]: Barraclough, Geoffrey. *The Origins of Modern Germany*. Oxford: Basil Blackwell, 1946, pp. 45-67.
-[^54]: Partner, Peter. *The Lands of St. Peter*, pp. 162-168.
-[^55]: Ullmann, Walter. *The Growth of Papal Government*, pp. 210-225.
+
+[^38]: Lübke, Christian. _Das östliche Europa_. Munich: Siedler, 2004, pp. 89-107.
+
+[^39]: Thietmar of Merseburg. _Chronicon_, Book II.20-23, pp. 98-104.
+
+[^40]: Třeštík, Dušan. _Počátky Přemyslovců_. Prague: Nakladatelství Lidové noviny, 1997, pp. 234-246.
+
+[^41]: Morrison, Karl F. "The Investiture Controversy: Issues, Ideals, and Results." In _Tradition and Change in Medieval Society_, edited by S. Thrupp, 129-151. New York: Appleton-Century-Crofts, 1964.
+
+[^42]: Tellenbach, Gerd. _Church, State and Christian Society at the Time of the Investiture Contest_. Oxford: Basil Blackwell, 1940, pp. 48-67.
+
+[^43]: Blumenthal, Uta-Renate. _The Investiture Controversy_, pp. 89-115.
+
+[^44]: Leyser, Karl. _Rule and Conflict_, pp. 28-34.
+
+[^45]: Beumann, Helmut. _Die Ottonen_, pp. 78-84.
+
+[^46]: Althoff, Gerd. _Family, Friends and Followers_, pp. 102-108.
+
+[^47]: Bartlett, Robert. _The Making of Europe: Conquest, Colonization and Cultural Change, 950-1350_. Princeton: Princeton University Press, 1993, pp. 24-59.
+
+[^48]: Lübke, Christian. "The Elbe and Saale Slavs." In _The New Cambridge Medieval History, Vol. 3_, edited by Timothy Reuter, 537-553. Cambridge: Cambridge University Press, 1999.
+
+[^49]: Schubert, Ernst. "Die Capitulatio de partibus Saxoniae." In _Politik, Gesellschaft, Geschichtsschreibung_, edited by Helmut Beumann, 3-28. Cologne: Böhlau, 1982.
+
+[^50]: Bartlett, Robert. _The Making of Europe_, pp. 306-314.
+
+[^51]: Haverkamp, Alfred. _Medieval Germany_, pp. 18-26.
+
+[^52]: Bryce, James. _The Holy Roman Empire_. London: Macmillan, 1904, pp. 112-128.
+
+[^53]: Barraclough, Geoffrey. _The Origins of Modern Germany_. Oxford: Basil Blackwell, 1946, pp. 45-67.
+
+[^54]: Partner, Peter. _The Lands of St. Peter_, pp. 162-168.
+
+[^55]: Ullmann, Walter. _The Growth of Papal Government_, pp. 210-225.
+
 [^56]: Yorke, Barbara. "Eadgyth, Wife of Otto I," pp. 160-165.
-[^57]: Corbet, Patrick. *Les saints ottoniens*, pp. 78-84.
-[^58]: Meckseper, Cord. "Der Dom zu Magdeburg." In *Deutsche Königspfalzen*, edited by Lutz Fenske, 145-178. Göttingen: Vandenhoeck & Ruprecht, 1996.
-[^59]: Liudprand of Cremona. *Complete Works*, pp. 187-195.
-[^60]: Gilsdorf, Sean. *Queenship and Sanctity: The Lives of Mathilda and the Epitaph of Adelheid*. Washington, DC: Catholic University of America Press, 2004, pp. 23-45.
-[^61]: Laudage, Johannes. "Adelheid von Burgund." In *Lexikon des Mittelalters*, Vol. 1, 152-153. Munich: Artemis, 1980.
-[^62]: Althoff, Gerd. *Otto III*, pp. 18-24.
-[^63]: Widukind of Corvey. *Deeds of the Saxons*, Book III.75, pp. 158-159.
-[^64]: Becher, Matthias. "Widukind von Corvey." In *Lexikon des Mittelalters*, Vol. 9, 121-122. Munich: LexMA, 1998.
-[^65]: Squatriti, Paolo. "Introduction." In *Complete Works of Liudprand of Cremona*, pp. 1-43.
-[^66]: Leyser, Karl. *Communications and Power*, pp. 115-142.
+
+[^57]: Corbet, Patrick. _Les saints ottoniens_, pp. 78-84.
+
+[^58]: Meckseper, Cord. "Der Dom zu Magdeburg." In _Deutsche Königspfalzen_, edited by Lutz Fenske, 145-178. Göttingen: Vandenhoeck & Ruprecht, 1996.
+
+[^59]: Liudprand of Cremona. _Complete Works_, pp. 187-195.
+
+[^60]: Gilsdorf, Sean. _Queenship and Sanctity: The Lives of Mathilda and the Epitaph of Adelheid_. Washington, DC: Catholic University of America Press, 2004, pp. 23-45.
+
+[^61]: Laudage, Johannes. "Adelheid von Burgund." In _Lexikon des Mittelalters_, Vol. 1, 152-153. Munich: Artemis, 1980.
+
+[^62]: Althoff, Gerd. _Otto III_, pp. 18-24.
+
+[^63]: Widukind of Corvey. _Deeds of the Saxons_, Book III.75, pp. 158-159.
+
+[^64]: Becher, Matthias. "Widukind von Corvey." In _Lexikon des Mittelalters_, Vol. 9, 121-122. Munich: LexMA, 1998.
+
+[^65]: Squatriti, Paolo. "Introduction." In _Complete Works of Liudprand of Cremona_, pp. 1-43.
+
+[^66]: Leyser, Karl. _Communications and Power_, pp. 115-142.
+
 [^67]: Meckseper, Cord. "Der Dom zu Magdeburg," pp. 145-178.
-[^68]: Garrison, Eliza. "Ottonian Imperial Art and Portraiture." In *A Companion to Medieval Art*, edited by Conrad Rudolph, 305-328. Oxford: Blackwell, 2006.
-[^69]: Leyser, Karl. *Rule and Conflict*, pp. 28-34.
-[^70]: Althoff, Gerd. *Family, Friends and Followers*, pp. 102-108.
-[^71]: Beumann, Helmut. *Die Ottonen*, pp. 78-84.
-[^72]: Folz, Robert. *The Concept of Empire*, pp. 58-76.
-[^73]: Whaley, Joachim. *Germany and the Holy Roman Empire*, Vol. 1. Oxford: Oxford University Press, 2012, pp. 1-8.
-[^74]: Bryce, James. *The Holy Roman Empire*, pp. 89-134.
-[^75]: Mayr-Harting, Henry. *Church and Cosmos in Early Ottonian Germany: The View from Cologne*. Oxford: Oxford University Press, 2007, pp. 1-24.
-[^76]: McKitterick, Rosamond. "Ottonian Intellectual Culture in the Tenth Century and the Role of Theophanu." *Early Medieval Europe* 2 (1993): 53-74.
+
+[^68]: Garrison, Eliza. "Ottonian Imperial Art and Portraiture." In _A Companion to Medieval Art_, edited by Conrad Rudolph, 305-328. Oxford: Blackwell, 2006.
+
+[^69]: Leyser, Karl. _Rule and Conflict_, pp. 28-34.
+
+[^70]: Althoff, Gerd. _Family, Friends and Followers_, pp. 102-108.
+
+[^71]: Beumann, Helmut. _Die Ottonen_, pp. 78-84.
+
+[^72]: Folz, Robert. _The Concept of Empire_, pp. 58-76.
+
+[^73]: Whaley, Joachim. _Germany and the Holy Roman Empire_, Vol. 1. Oxford: Oxford University Press, 2012, pp. 1-8.
+
+[^74]: Bryce, James. _The Holy Roman Empire_, pp. 89-134.
+
+[^75]: Mayr-Harting, Henry. _Church and Cosmos in Early Ottonian Germany: The View from Cologne_. Oxford: Oxford University Press, 2007, pp. 1-24.
+
+[^76]: McKitterick, Rosamond. "Ottonian Intellectual Culture in the Tenth Century and the Role of Theophanu." _Early Medieval Europe_ 2 (1993): 53-74.
+
 [^77]: Garrison, Eliza. "Ottonian Imperial Art," pp. 305-328.
+
 [^78]: Reuter, Timothy. "The 'Imperial Church System,'" pp. 347-374.
-[^79]: Robinson, I.S. *The Papacy*, pp. 15-22.
-[^80]: Tellenbach, Gerd. *Church, State and Christian Society*, pp. 89-112.
-[^81]: Bryce, James. *The Holy Roman Empire*, pp. 201-234.
-[^82]: Scales, Len. "Germany and the Empire." In *The New Cambridge Medieval History, Vol. 5*, edited by David Abulafia, 337-366. Cambridge: Cambridge University Press, 1999.
-[^83]: Bartlett, Robert. *The Making of Europe*, pp. 24-84.
-[^84]: Lübke, Christian. *Das östliche Europa*, pp. 134-167.
-[^85]: Folz, Robert. *The Concept of Empire*, pp. 67-76.
-[^86]: Barraclough, Geoffrey. *The Origins of Modern Germany*, pp. 45-89.
-[^87]: Corbet, Patrick. *Les saints ottoniens*, pp. 234-267.
-[^88]: Fried, Johannes. *The Middle Ages*. Cambridge, MA: Harvard University Press, 2015, pp. 187-201.
-[^89]: Widukind of Corvey. *Deeds of the Saxons*, Book III.75-76, pp. 158-160.
+
+[^79]: Robinson, I.S. _The Papacy_, pp. 15-22.
+
+[^80]: Tellenbach, Gerd. _Church, State and Christian Society_, pp. 89-112.
+
+[^81]: Bryce, James. _The Holy Roman Empire_, pp. 201-234.
+
+[^82]: Scales, Len. "Germany and the Empire." In _The New Cambridge Medieval History, Vol. 5_, edited by David Abulafia, 337-366. Cambridge: Cambridge University Press, 1999.
+
+[^83]: Bartlett, Robert. _The Making of Europe_, pp. 24-84.
+
+[^84]: Lübke, Christian. _Das östliche Europa_, pp. 134-167.
+
+[^85]: Folz, Robert. _The Concept of Empire_, pp. 67-76.
+
+[^86]: Barraclough, Geoffrey. _The Origins of Modern Germany_, pp. 45-89.
+
+[^87]: Corbet, Patrick. _Les saints ottoniens_, pp. 234-267.
+
+[^88]: Fried, Johannes. _The Middle Ages_. Cambridge, MA: Harvard University Press, 2015, pp. 187-201.
+
+[^89]: Widukind of Corvey. _Deeds of the Saxons_, Book III.75-76, pp. 158-160.
+
 [^90]: Becher, Matthias. "Widukind von Corvey," pp. 121-122.
-[^91]: Laudage, Johannes. *Otto der Große*, pp. 1-12.
-[^92]: Barraclough, Geoffrey. *The Origins of Modern Germany*, pp. 54-67.
-[^93]: Barraclough, Geoffrey. *The Medieval Empire: Idea and Reality*. London: Historical Association, 1950, pp. 12-18.
-[^94]: Leyser, Karl. *Rule and Conflict*, pp. 75-108.
+
+[^91]: Laudage, Johannes. _Otto der Große_, pp. 1-12.
+
+[^92]: Barraclough, Geoffrey. _The Origins of Modern Germany_, pp. 54-67.
+
+[^93]: Barraclough, Geoffrey. _The Medieval Empire: Idea and Reality_. London: Historical Association, 1950, pp. 12-18.
+
+[^94]: Leyser, Karl. _Rule and Conflict_, pp. 75-108.
+
 [^95]: Leyser, Karl. "Ottonian Government," pp. 721-753.
-[^96]: Giesebrecht, Wilhelm von. *Geschichte der deutschen Kaiserzeit*, Vol. 1. Brunswick: C.A. Schwetschke, 1863, pp. 456-512.
-[^97]: Hampe, Karl. *Deutsche Kaisergeschichte in der Zeit der Salier und Staufer*. Leipzig: Quelle & Meyer, 1909, pp. 1-23.
-[^98]: Reuter, Timothy. *Germany in the Early Middle Ages*, pp. 1-8.
-[^99]: Fleckenstein, Josef. *Early Medieval Germany*. Amsterdam: North-Holland, 1978, pp. 89-112.
-[^100]: Mayr-Harting, Henry. *Church and Cosmos*, pp. 78-104.
+
+[^96]: Giesebrecht, Wilhelm von. _Geschichte der deutschen Kaiserzeit_, Vol. 1. Brunswick: C.A. Schwetschke, 1863, pp. 456-512.
+
+[^97]: Hampe, Karl. _Deutsche Kaisergeschichte in der Zeit der Salier und Staufer_. Leipzig: Quelle & Meyer, 1909, pp. 1-23.
+
+[^98]: Reuter, Timothy. _Germany in the Early Middle Ages_, pp. 1-8.
+
+[^99]: Fleckenstein, Josef. _Early Medieval Germany_. Amsterdam: North-Holland, 1978, pp. 89-112.
+
+[^100]: Mayr-Harting, Henry. _Church and Cosmos_, pp. 78-104.
+
 [^101]: McKitterick, Rosamond. "Ottonian Intellectual Culture," pp. 53-74.
-[^102]: Garrison, Eliza. *Ottonian Imperial Art and Portraiture: The Artistic Patronage of Otto III and Henry II*. Farnham: Ashgate, 2012, pp. 1-45.
-[^103]: Engelberg, Ernst. "Die Ottonische Reichskirchenpolitik." *Zeitschrift für Geschichtswissenschaft* 8 (1960): 1234-1256.
-[^104]: Kuczynski, Jürgen. *Allgemeine Wirtschaftsgeschichte*, Vol. 1. Berlin: Akademie-Verlag, 1952, pp. 234-256.
-[^105]: Epperlein, Siegfried. *Herrschaft und Volk im karolingischen Imperium*. Berlin: Akademie-Verlag, 1969, pp. 178-201.
+
+[^102]: Garrison, Eliza. _Ottonian Imperial Art and Portraiture: The Artistic Patronage of Otto III and Henry II_. Farnham: Ashgate, 2012, pp. 1-45.
+
+[^103]: Engelberg, Ernst. "Die Ottonische Reichskirchenpolitik." _Zeitschrift für Geschichtswissenschaft_ 8 (1960): 1234-1256.
+
+[^104]: Kuczynski, Jürgen. _Allgemeine Wirtschaftsgeschichte_, Vol. 1. Berlin: Akademie-Verlag, 1952, pp. 234-256.
+
+[^105]: Epperlein, Siegfried. _Herrschaft und Volk im karolingischen Imperium_. Berlin: Akademie-Verlag, 1969, pp. 178-201.
+
 [^106]: Lübke, Christian. "The Elbe and Saale Slavs," pp. 537-553.
-[^107]: Bartlett, Robert. *The Making of Europe*, pp. 306-314.
-[^108]: Davies, Norman. *God's Playground: A History of Poland*, Vol. 1. Oxford: Oxford University Press, 1981, pp. 45-67.
-[^109]: Partner, Peter. *The Lands of St. Peter*, pp. 162-178.
-[^110]: Ullmann, Walter. *The Growth of Papal Government*, pp. 210-234.
-[^111]: Blumenthal, Uta-Renate. *The Investiture Controversy*, pp. 89-115.
-[^112]: Barraclough, Geoffrey. *The Origins of Modern Germany*, pp. 67-89.
-[^113]: Haverkamp, Alfred. *Medieval Germany*, pp. 18-34.
-[^114]: Strayer, Joseph R. *On the Medieval Origins of the Modern State*. Princeton: Princeton University Press, 1970, pp. 23-45.
-[^115]: Althoff, Gerd. *Family, Friends and Followers*, pp. 89-108.
-[^116]: Leyser, Karl. *Rule and Conflict*, pp. 28-42.
-[^117]: Schmid, Karl. "The Structure of the Nobility in the Earlier Middle Ages." In *The Medieval Nobility*, edited by Timothy Reuter, 37-59. Amsterdam: North-Holland, 1978.
+
+[^107]: Bartlett, Robert. _The Making of Europe_, pp. 306-314.
+
+[^108]: Davies, Norman. _God's Playground: A History of Poland_, Vol. 1. Oxford: Oxford University Press, 1981, pp. 45-67.
+
+[^109]: Partner, Peter. _The Lands of St. Peter_, pp. 162-178.
+
+[^110]: Ullmann, Walter. _The Growth of Papal Government_, pp. 210-234.
+
+[^111]: Blumenthal, Uta-Renate. _The Investiture Controversy_, pp. 89-115.
+
+[^112]: Barraclough, Geoffrey. _The Origins of Modern Germany_, pp. 67-89.
+
+[^113]: Haverkamp, Alfred. _Medieval Germany_, pp. 18-34.
+
+[^114]: Strayer, Joseph R. _On the Medieval Origins of the Modern State_. Princeton: Princeton University Press, 1970, pp. 23-45.
+
+[^115]: Althoff, Gerd. _Family, Friends and Followers_, pp. 89-108.
+
+[^116]: Leyser, Karl. _Rule and Conflict_, pp. 28-42.
+
+[^117]: Schmid, Karl. "The Structure of the Nobility in the Earlier Middle Ages." In _The Medieval Nobility_, edited by Timothy Reuter, 37-59. Amsterdam: North-Holland, 1978.
+
 [^118]: Airlie, Stuart. "The Political Behaviour of Secular Magnates," pp. 234-267.
-[^119]: Reuter, Timothy. "Plunder and Tribute in the Carolingian Empire." *Transactions of the Royal Historical Society*, 5th series, 35 (1985): 75-94.
-[^120]: Widukind of Corvey. *Deeds of the Saxons*, Book II.2, pp. 82-83.
-[^121]: Thietmar of Merseburg. *Chronicon*, Book II.28, pp. 108-109.
-[^122]: Liudprand of Cremona. *Complete Works*, pp. 278-279.
-[^123]: Beumann, Helmut. *Die Ottonen*, pp. 82-83.
-[^124]: Liudprand of Cremona. *Complete Works*, pp. 245-246.
+
+[^119]: Reuter, Timothy. "Plunder and Tribute in the Carolingian Empire." _Transactions of the Royal Historical Society_, 5th series, 35 (1985): 75-94.
+
+[^120]: Widukind of Corvey. _Deeds of the Saxons_, Book II.2, pp. 82-83.
+
+[^121]: Thietmar of Merseburg. _Chronicon_, Book II.28, pp. 108-109.
+
+[^122]: Liudprand of Cremona. _Complete Works_, pp. 278-279.
+
+[^123]: Beumann, Helmut. _Die Ottonen_, pp. 82-83.
+
+[^124]: Liudprand of Cremona. _Complete Works_, pp. 245-246.

@@ -151,31 +151,31 @@ Contemporary Brazilian historians emphasize that the political transition occurr
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1905 | Born December 4 in Bagé, Rio Grande do Sul, Brazil |
-| 1917 | Entered military school in Porto Alegre at age 12 |
-| 1927 | Commissioned as second lieutenant in the cavalry |
-| 1930 | Supported the Revolution that brought Getúlio Vargas to power |
-| 1932 | Fought against São Paulo rebels opposing Vargas government |
-| 1934 | Joined Command and General Staff School in Rio de Janeiro |
-| 1957-1960 | Served as chief of staff to Artur da Costa e Silva |
-| 1964 | Military coup overthrows João Goulart; Médici appointed military attaché to USA |
-| 1967 | Appointed chief of the National Intelligence Service (SNI) |
-| 1969 | Became commander of Third Army; selected as president by military junta |
-| October 30, 1969 | Inaugurated as 28th President of Brazil |
-| 1969 | Operation Bandeirante (OBAN) created in São Paulo; later institutionalized as DOI-CODI |
-| June 1970 | Brazil wins FIFA World Cup in Mexico; Médici exploits victory for political legitimacy |
-| December 1971 | State visit to USA; coordinates with Nixon on overthrowing Allende and Castro |
-| 1972 | Inaugurates first stretch of Trans-Amazonian Highway near Altamira |
-| 1973 | Agreement reached with Paraguay for construction of Itaipu Dam |
-| 1969-1974 | "Brazilian Miracle": GDP grows at average of 10.9% annually |
-| 1969-1974 | "Years of Lead": Systematic torture and repression peak; 170 political opponents killed |
-| March 15, 1974 | Leaves presidency; succeeded by Ernesto Geisel |
-| 1974-1985 | Lives in retirement, rarely speaking publicly |
-| October 9, 1985 | Dies of kidney failure at age 79 in Rio de Janeiro |
-| 2015 | Federal University of Rio de Janeiro (UFRJ) revokes honorary doctorate |
-| 2024 | Federal University of Pelotas (UFPel) revokes honorary doctorate |
+| Year             | Event                                                                                   |
+| ---------------- | --------------------------------------------------------------------------------------- |
+| 1905             | Born December 4 in Bagé, Rio Grande do Sul, Brazil                                      |
+| 1917             | Entered military school in Porto Alegre at age 12                                       |
+| 1927             | Commissioned as second lieutenant in the cavalry                                        |
+| 1930             | Supported the Revolution that brought Getúlio Vargas to power                           |
+| 1932             | Fought against São Paulo rebels opposing Vargas government                              |
+| 1934             | Joined Command and General Staff School in Rio de Janeiro                               |
+| 1957-1960        | Served as chief of staff to Artur da Costa e Silva                                      |
+| 1964             | Military coup overthrows João Goulart; Médici appointed military attaché to USA         |
+| 1967             | Appointed chief of the National Intelligence Service (SNI)                              |
+| 1969             | Became commander of Third Army; selected as president by military junta                 |
+| October 30, 1969 | Inaugurated as 28th President of Brazil                                                 |
+| 1969             | Operation Bandeirante (OBAN) created in São Paulo; later institutionalized as DOI-CODI  |
+| June 1970        | Brazil wins FIFA World Cup in Mexico; Médici exploits victory for political legitimacy  |
+| December 1971    | State visit to USA; coordinates with Nixon on overthrowing Allende and Castro           |
+| 1972             | Inaugurates first stretch of Trans-Amazonian Highway near Altamira                      |
+| 1973             | Agreement reached with Paraguay for construction of Itaipu Dam                          |
+| 1969-1974        | "Brazilian Miracle": GDP grows at average of 10.9% annually                             |
+| 1969-1974        | "Years of Lead": Systematic torture and repression peak; 170 political opponents killed |
+| March 15, 1974   | Leaves presidency; succeeded by Ernesto Geisel                                          |
+| 1974-1985        | Lives in retirement, rarely speaking publicly                                           |
+| October 9, 1985  | Dies of kidney failure at age 79 in Rio de Janeiro                                      |
+| 2015             | Federal University of Rio de Janeiro (UFRJ) revokes honorary doctorate                  |
+| 2024             | Federal University of Pelotas (UFPel) revokes honorary doctorate                        |
 
 ---
 
@@ -196,112 +196,221 @@ Contemporary Brazilian historians emphasize that the political transition occurr
 ## References
 
 [^1]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^2]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^3]: [Brazil Conspired with U.S. to Overthrow Allende](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB282/index.htm)
+
 [^4]: [Presidency of Emílio Médici - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Emílio_Médici)
+
 [^5]: [Médici, Emílio Garrastazú (1905–1985) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/medici-emilio-garrastazu-1905-1985)
+
 [^6]: [Get to Know a Brazilian – Emílio Garrastazu Médici | Americas South and North](https://americasouthandnorth.wordpress.com/2013/02/03/get-to-know-a-brazilian-emilio-garrastazu-medici/)
+
 [^7]: [Biography of Médici, Emílio Garrastazu — Archontology](https://www.archontology.org/nations/braz/braz_rep3/medici.php)
+
 [^8]: [Emilio Garrastazu Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/brazilian-history-biographies/emilio-garrastazu-medici)
+
 [^9]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^10]: [Get to Know a Brazilian – Emílio Garrastazu Médici | Americas South and North](https://americasouthandnorth.wordpress.com/2013/02/03/get-to-know-a-brazilian-emilio-garrastazu-medici/)
+
 [^11]: [Biography of Médici, Emílio Garrastazu — Archontology](https://www.archontology.org/nations/braz/braz_rep3/medici.php)
+
 [^12]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^13]: [Biography of Médici, Emílio Garrastazu — Archontology](https://www.archontology.org/nations/braz/braz_rep3/medici.php)
+
 [^14]: [Emilio Garrastazu Medici | Encyclopedia.com](https://www.encyclopedia.com/people/history/brazilian-history-biographies/emilio-garrastazu-medici)
+
 [^15]: [Médici, Emílio Garrastazú (1905–1985) | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/medici-emilio-garrastazu-1905-1985)
+
 [^16]: [Military dictatorship in Brazil - Wikipedia](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil)
+
 [^17]: [Brazil, National Security Doctrine | Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/brazil-national-security-doctrine)
+
 [^18]: [Brazil's Military Regime: Technocrats, Torturers, and the Myth of Order (1964–1985)](https://explaininghistory.org/2025/10/16/brazils-military-regime-technocrats-torturers-and-the-myth-of-order-1964-1985/)
+
 [^19]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^20]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^21]: [Get to Know a Brazilian – Emílio Garrastazu Médici | Americas South and North](https://americasouthandnorth.wordpress.com/2013/02/03/get-to-know-a-brazilian-emilio-garrastazu-medici/)
+
 [^22]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^23]: [Presidency of Emílio Médici - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Emílio_Médici)
+
 [^24]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^25]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^26]: [Presidency of Emílio Médici - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Emílio_Médici)
+
 [^27]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^28]: [Brazilian economic miracle – Acervo Lima](https://wiki.acervolima.com/brazilian-economic-miracle/)
+
 [^29]: [Antônio Delfim Netto, Brazilian Economic Czar, Dies at 96 – DNyuz](https://dnyuz.com/2024/09/28/antonio-delfim-netto-brazilian-economic-czar-dies-at-96/)
+
 [^30]: [Brazilian economic miracle – Acervo Lima](https://wiki.acervolima.com/brazilian-economic-miracle/)
+
 [^31]: [An "Irresponsible" Miracle: The Economics of the Brazilian Military Dictatorship (1964-1985)](https://retrospectjournal.com/2025/03/23/an-irresponsible-miracle-the-economics-of-the-brazilian-military-dictatorship-1964-1985/)
+
 [^32]: [Brazilian Miracle - Wikipedia](https://en.wikipedia.org/wiki/Brazilian_Miracle)
+
 [^33]: [Transamargura — TOMMASO PROTTI](https://www.tomprotti.com/transamargura)
+
 [^34]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^35]: [Itaipu Dam - Wikipedia](https://en.wikipedia.org/wiki/Itaipu_Dam)
+
 [^36]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^37]: [Remarks of Welcome to President Emilio Garrastazu Medici of Brazil | The American Presidency Project](https://www.presidency.ucsb.edu/documents/remarks-welcome-president-emilio-garrastazu-medici-brazil)
+
 [^38]: [Brazil Conspired with U.S. to Overthrow Allende](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB282/index.htm)
+
 [^39]: [Brazil Conspired with U.S. to Overthrow Allende](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB282/index.htm)
+
 [^40]: [Brazil Conspired with U.S. to Overthrow Allende](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB282/index.htm)
+
 [^41]: [Brazil Conspired with U.S. to Overthrow Allende](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB282/index.htm)
+
 [^42]: [1973 Chilean coup d'état - Wikipedia](https://en.wikipedia.org/wiki/1973_Chilean_coup_d'%C3%A9tat)
+
 [^43]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)
+
 [^44]: [Political football: how Brazil's military hijacked the beautiful game - World Soccer](https://www.worldsoccer.com/world-soccer-latest/political-football-how-brazils-military-hijacked-the-beautiful-game-340119)
+
 [^45]: [Political football: how Brazil's military hijacked the beautiful game - World Soccer](https://www.worldsoccer.com/world-soccer-latest/political-football-how-brazils-military-hijacked-the-beautiful-game-340119)
+
 [^46]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)
+
 [^47]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)
+
 [^48]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)
+
 [^49]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)
+
 [^50]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^51]: [Presidency of Emílio Médici - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Emílio_Médici)
+
 [^52]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^53]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^54]: [DOI-CODI - Wikipedia](https://en.wikipedia.org/wiki/DOI-CODI)
+
 [^55]: [Doi-Codi: Building History and Transitional Justice in Brazil](https://transitionaljustice.net/doi-codi-building-history-and-transitional-justice-in-brazil/)
+
 [^56]: [DOI-CODI - Wikipedia](https://en.wikipedia.org/wiki/DOI-CODI)
+
 [^57]: [Operation Bandeirante – Acervo Lima](https://wiki.acervolima.com/operation-bandeirante/)
+
 [^58]: [DOI-CODI - Wikipedia](https://en.wikipedia.org/wiki/DOI-CODI)
+
 [^59]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^60]: [SciELO Brazil - The Economist and Human Rights Violations in Brazil During the Military Dictatorship](https://www.scielo.br/j/cint/a/3c3x8Vqss4qZLhk3fwLsPTG/?format=html&lang=en)
+
 [^61]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^62]: [Antônio Delfim Netto, Brazilian Economic Czar, Dies at 96 – DNyuz](https://dnyuz.com/2024/09/28/antonio-delfim-netto-brazilian-economic-czar-dies-at-96/)
+
 [^63]: [Brazilian economic miracle – Acervo Lima](https://wiki.acervolima.com/brazilian-economic-miracle/)
+
 [^64]: [The other side of fortune : Revista Pesquisa Fapesp](https://revistapesquisa.fapesp.br/en/other-side-of-fortune/)
+
 [^65]: [An "Irresponsible" Miracle: The Economics of the Brazilian Military Dictatorship (1964-1985)](https://retrospectjournal.com/2025/03/23/an-irresponsible-miracle-the-economics-of-the-brazilian-military-dictatorship-1964-1985/)
+
 [^66]: [Antônio Delfim Netto, Brazilian Economic Czar, Dies at 96 – DNyuz](https://dnyuz.com/2024/09/28/antonio-delfim-netto-brazilian-economic-czar-dies-at-96/)
+
 [^67]: [An "Irresponsible" Miracle: The Economics of the Brazilian Military Dictatorship (1964-1985)](https://retrospectjournal.com/2025/03/23/an-irresponsible-miracle-the-economics-of-the-brazilian-military-dictatorship-1964-1985/)
+
 [^68]: [Transamargura — TOMMASO PROTTI](https://www.tomprotti.com/transamargura)
+
 [^69]: [Transamargura — TOMMASO PROTTI](https://www.tomprotti.com/transamargura)
+
 [^70]: [Transamargura — TOMMASO PROTTI](https://www.tomprotti.com/transamargura)
+
 [^71]: [The $80 Billion Itaipu Dam Scam - by Laurence Blair](https://www.theparaguaypost.com/p/itaipu-dam-scam-reparations)
+
 [^72]: [The $80 Billion Itaipu Dam Scam - by Laurence Blair](https://www.theparaguaypost.com/p/itaipu-dam-scam-reparations)
+
 [^73]: [Itaipu Binational Dam: A Quantitative Analysis of the Economic and Social Impacts in Paraguay. Successful or not? - Vicente Fruet, Daniel Campos, Lorena Caridad, 2023](https://journals.sagepub.com/doi/10.1177/21582440231216820)
+
 [^74]: [Energy, cash and climate shape talks over the giant Itaipu dam | Dialogue Earth](https://dialogue.earth/en/energy/energy-cash-and-climate-shape-talks-over-the-giant-itaipu-dam/)
+
 [^75]: [Remembering the Years of Lead under Brazil's military rule: AI-5 never again! – Liberation School](https://liberationschool.org/remembering-the-years-of-lead-under-brazils-military-rule-ai-5-never-again/)
+
 [^76]: [Remembering the Years of Lead under Brazil's military rule: AI-5 never again! – Liberation School](https://liberationschool.org/remembering-the-years-of-lead-under-brazils-military-rule-ai-5-never-again/)
+
 [^77]: [Emílio Garrastazu Médici - Wikipedia](https://en.wikipedia.org/wiki/Emílio_Garrastazu_Médici)
+
 [^78]: [Get to Know a Brazilian – Emílio Garrastazu Médici | Americas South and North](https://americasouthandnorth.wordpress.com/2013/02/03/get-to-know-a-brazilian-emilio-garrastazu-medici/)
+
 [^79]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^80]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)
+
 [^81]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^82]: [Get to Know a Brazilian – Emílio Garrastazu Médici | Americas South and North](https://americasouthandnorth.wordpress.com/2013/02/03/get-to-know-a-brazilian-emilio-garrastazu-medici/)
+
 [^83]: [Emílio Garrastazu Médici (1905-1985) - Find a Grave Memorial](https://www.findagrave.com/memorial/172241028/emilio-garrastazu-medici)
+
 [^84]: [Velório e o funeral do ex-presidente Emílio Garrastazu Médici - Badarq](https://atom-museurepublica.museus.gov.br/index.php/velorio-e-o-funeral-do-ex-presidente-emilio-garrastazu-medici;isad?sf_culture=en)
+
 [^85]: [Emílio Garrastazu Médici (1905-1985) - Find a Grave Memorial](https://www.findagrave.com/memorial/172241028/emilio-garrastazu-medici)
+
 [^86]: [Presidency of Emílio Médici - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Emílio_Médici)
+
 [^87]: [National Truth Commission in Brazil: the Thread of History and the Right to Memory and Truth](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-25302021000300113)
+
 [^88]: [National Truth Commission in Brazil: the Thread of History and the Right to Memory and Truth](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-25302021000300113)
+
 [^89]: [National Truth Commission in Brazil: the Thread of History and the Right to Memory and Truth](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-25302021000300113)
+
 [^90]: [Project MUSE - Overcoming the Legacy of the Military Dictatorship through the National Truth Commission in Brazil: An Ongoing Debate](https://muse.jhu.edu/article/814870)
+
 [^91]: [Presidency of Emílio Médici - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Emílio_Médici)
+
 [^92]: [Presidency of Emílio Médici - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Emílio_Médici)
+
 [^93]: [Military dictatorship in Brazil - Wikipedia](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil)
+
 [^94]: [Brazilian Miracle - Wikipedia](https://en.wikipedia.org/wiki/Brazilian_Miracle)
+
 [^95]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^96]: [SciELO Brazil - The Economist and Human Rights Violations in Brazil During the Military Dictatorship](https://www.scielo.br/j/cint/a/3c3x8Vqss4qZLhk3fwLsPTG/?format=html&lang=en)
+
 [^97]: [An "Irresponsible" Miracle: The Economics of the Brazilian Military Dictatorship (1964-1985)](https://retrospectjournal.com/2025/03/23/an-irresponsible-miracle-the-economics-of-the-brazilian-military-dictatorship-1964-1985/)
+
 [^98]: [The other side of fortune : Revista Pesquisa Fapesp](https://revistapesquisa.fapesp.br/en/other-side-of-fortune/)
+
 [^99]: [An "Irresponsible" Miracle: The Economics of the Brazilian Military Dictatorship (1964-1985)](https://retrospectjournal.com/2025/03/23/an-irresponsible-miracle-the-economics-of-the-brazilian-military-dictatorship-1964-1985/)
+
 [^100]: [DOI-CODI - Wikipedia](https://en.wikipedia.org/wiki/DOI-CODI)
+
 [^101]: [SciELO Brazil - The Economist and Human Rights Violations in Brazil During the Military Dictatorship](https://www.scielo.br/j/cint/a/3c3x8Vqss4qZLhk3fwLsPTG/?format=html&lang=en)
+
 [^102]: [Médici | Brazil: Five Centuries of Change](https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-7/military-rule/medici/)
+
 [^103]: [Transamargura — TOMMASO PROTTI](https://www.tomprotti.com/transamargura)
+
 [^104]: [Brazil Conspired with U.S. to Overthrow Allende](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB282/index.htm)
+
 [^105]: [Project MUSE - Overcoming the Legacy of the Military Dictatorship through the National Truth Commission in Brazil: An Ongoing Debate](https://muse.jhu.edu/article/814870)
+
 [^106]: [Remarks of Welcome to President Emilio Garrastazu Medici of Brazil | The American Presidency Project](https://www.presidency.ucsb.edu/documents/remarks-welcome-president-emilio-garrastazu-medici-brazil)
+
 [^107]: [Remarks of Welcome to President Emilio Garrastazu Medici of Brazil | The American Presidency Project](https://www.presidency.ucsb.edu/documents/remarks-welcome-president-emilio-garrastazu-medici-brazil)
+
 [^108]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)
+
 [^109]: [Brazil Conspired with U.S. to Overthrow Allende](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB282/index.htm)
+
 [^110]: [A History of Sports & Dictators, Part 3: Post-WWII Soft Power - Human Rights Foundation](https://hrf.org/latest/a-history-of-sports-dictators-part-3-post-wwii-soft-power/)

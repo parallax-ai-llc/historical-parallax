@@ -1,13 +1,14 @@
 "use client";
 
 import * as React from "react";
-import { Search, GitPullRequest } from "lucide-react";
+import { Search, GitPullRequest, MapIcon } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { SearchDialog, SearchItem } from "@/components/search-dialog";
 import { RecentArticles } from "@/components/recent-articles";
 import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
 import { ArticleMeta } from "@/lib/articles";
+import Link from "next/link";
 
 interface HomeClientProps {
   articles: ArticleMeta[];
@@ -29,20 +30,21 @@ export function HomeClient({ articles }: HomeClientProps) {
   return (
     <div className="flex min-h-screen flex-col">
       <header className="absolute right-4 top-4 z-50 flex items-center gap-2">
-        <a
+        <Link
           href="/contribute"
           className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3"
         >
           <GitPullRequest className="h-4 w-4" />
           Contribute
-        </a>
-        <a
-          href="/ufo-map"
-          className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
-          title="Project Blue Map"
+        </Link>
+        <Link
+          href="/maps/ufo-mysteries"
+          className="hidden sm:inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
+          title="View Incident Maps"
         >
-          <span className="text-xl leading-none" role="img" aria-label="ufo">🛸</span>
-        </a>
+          <MapIcon className="h-4 w-4" />
+          <span className="sr-only">Maps</span>
+        </Link>
         <ThemeToggle />
       </header>
 
@@ -82,11 +84,7 @@ export function HomeClient({ articles }: HomeClientProps) {
 
       {mounted && (
         <div suppressHydrationWarning>
-          <SearchDialog
-            open={searchOpen}
-            onOpenChange={setSearchOpen}
-            items={searchItems}
-          />
+          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} items={searchItems} />
         </div>
       )}
     </div>

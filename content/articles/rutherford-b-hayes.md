@@ -217,30 +217,30 @@ Finally, critics argue that Hayes's single term demonstrated his limited politic
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1822 | Born October 4 in Delaware, Ohio, ten weeks after father's death |
-| 1838 | Entered Kenyon College in Gambier, Ohio |
-| 1842 | Graduated as valedictorian from Kenyon College |
-| 1845 | Earned law degree from Harvard Law School; admitted to Ohio bar |
-| 1850 | Moved to Cincinnati to practice law |
-| 1852 | Married Lucy Webb on December 30 |
-| 1853 | Began defending fugitive slaves in court; first child born |
-| 1858 | Elected Cincinnati city solicitor |
-| 1861 | Joined Union Army at outbreak of Civil War |
-| 1862 | Seriously wounded at Battle of South Mountain |
-| 1864 | Elected to U.S. House of Representatives while still serving in military |
-| 1865 | Promoted to brevet major general; began congressional service |
-| 1867 | Left Congress to run for Governor of Ohio |
-| 1868 | Elected Governor of Ohio, first of three terms |
-| 1872 | Completed second gubernatorial term |
-| 1876 | Elected to third term as governor; nominated for president |
+| Year | Event                                                                                                                                                                                                                                               |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1822 | Born October 4 in Delaware, Ohio, ten weeks after father's death                                                                                                                                                                                    |
+| 1838 | Entered Kenyon College in Gambier, Ohio                                                                                                                                                                                                             |
+| 1842 | Graduated as valedictorian from Kenyon College                                                                                                                                                                                                      |
+| 1845 | Earned law degree from Harvard Law School; admitted to Ohio bar                                                                                                                                                                                     |
+| 1850 | Moved to Cincinnati to practice law                                                                                                                                                                                                                 |
+| 1852 | Married Lucy Webb on December 30                                                                                                                                                                                                                    |
+| 1853 | Began defending fugitive slaves in court; first child born                                                                                                                                                                                          |
+| 1858 | Elected Cincinnati city solicitor                                                                                                                                                                                                                   |
+| 1861 | Joined Union Army at outbreak of Civil War                                                                                                                                                                                                          |
+| 1862 | Seriously wounded at Battle of South Mountain                                                                                                                                                                                                       |
+| 1864 | Elected to U.S. House of Representatives while still serving in military                                                                                                                                                                            |
+| 1865 | Promoted to brevet major general; began congressional service                                                                                                                                                                                       |
+| 1867 | Left Congress to run for Governor of Ohio                                                                                                                                                                                                           |
+| 1868 | Elected Governor of Ohio, first of three terms                                                                                                                                                                                                      |
+| 1872 | Completed second gubernatorial term                                                                                                                                                                                                                 |
+| 1876 | Elected to third term as governor; nominated for president                                                                                                                                                                                          |
 | 1877 | Electoral Commission awards presidency to Hayes on March 2; inaugurated March 5; withdraws federal troops from South in April, ending Reconstruction; issues executive order prohibiting political assessments June 22; Great Strike begins in July |
-| 1878 | Issues executive order mandating competitive examinations for federal positions |
-| 1881 | Completes single presidential term; retires to Fremont, Ohio |
-| 1889 | Wife Lucy dies on June 25 |
-| 1893 | Dies January 17 at age 70 from heart attack complications |
-| 1915 | Remains moved to Spiegel Grove for burial with Lucy |
+| 1878 | Issues executive order mandating competitive examinations for federal positions                                                                                                                                                                     |
+| 1881 | Completes single presidential term; retires to Fremont, Ohio                                                                                                                                                                                        |
+| 1889 | Wife Lucy dies on June 25                                                                                                                                                                                                                           |
+| 1893 | Dies January 17 at age 70 from heart attack complications                                                                                                                                                                                           |
+| 1915 | Remains moved to Spiegel Grove for burial with Lucy                                                                                                                                                                                                 |
 
 ---
 
@@ -263,66 +263,129 @@ Finally, critics argue that Hayes's single term demonstrated his limited politic
 ## References
 
 [^1]: [Rutherford B. Hayes - Wikipedia](https://en.wikipedia.org/wiki/Rutherford_B._Hayes)
+
 [^2]: [Compromise of 1877 - Wikipedia](https://en.wikipedia.org/wiki/Compromise_of_1877)
+
 [^3]: [Rutherford B. Hayes: Impact and Legacy | Miller Center](https://millercenter.org/president/hayes/impact-and-legacy)
+
 [^4]: [Rutherford B. Hayes | Biography, Presidency, & Facts | Britannica](https://www.britannica.com/biography/Rutherford-B-Hayes)
+
 [^5]: [Biography - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/biography/)
+
 [^6]: [Rutherford B. Hayes: Life Before the Presidency | Miller Center](https://millercenter.org/president/hayes/life-before-the-presidency)
+
 [^7]: [Rutherford B. Hayes | Biography & Career | Study.com](https://study.com/academy/lesson/rutherford-b-hayes-birthplace-early-life-education.html)
+
 [^8]: [Rutherford B. Hayes (U.S. National Park Service)](https://www.nps.gov/people/rutherford-b-hayes.htm)
+
 [^9]: [Rutherford B. Hayes | American Battlefield Trust](https://www.battlefields.org/learn/biographies/rutherford-b-hayes)
+
 [^10]: [Rutherford Birchard Hayes (Oct. 4, 1822 - Jan. 17, 1893) » Supreme Court of Ohio](https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/mjc/interest/grand-concourse/rutherford-birchard-hayes/)
+
 [^11]: [Rutherford B. Hayes - White House Historical Association](https://www.whitehousehistory.org/bios/rutherford-b-hayes)
+
 [^12]: [Rutherford Birchard Hayes - National Governors Association](https://www.nga.org/governor/rutherford-birchard-hayes/)
+
 [^13]: [Rutherford B. Hayes | Miller Center](https://millercenter.org/president/hayes)
+
 [^14]: [Rutherford B. Hayes Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/rutherford-b-hayes-4107.php)
+
 [^15]: [Rutherford B. Hayes - Ballotpedia](https://ballotpedia.org/Rutherford_B._Hayes)
+
 [^16]: [Rutherford B. Hayes summary | Britannica](https://www.britannica.com/summary/Rutherford-B-Hayes)
+
 [^17]: [Rutherford B. Hayes Biography - Presidential Pet Museum](https://www.presidentialpetmuseum.com/presidents/19rh/)
+
 [^18]: [1876 United States presidential election - Wikipedia](https://en.wikipedia.org/wiki/1876_United_States_presidential_election)
+
 [^19]: [Disputed Election of 1876 | Miller Center](https://millercenter.org/the-presidency/educational-resources/disputed-election-1876)
+
 [^20]: [The Election of 1876 | American Battlefield Trust](https://www.battlefields.org/learn/articles/election-1876)
+
 [^21]: [The Compromise of 1877 Ends Reconstruction](https://www.studentsofhistory.com/compromise=1877)
+
 [^22]: [Rutherford B. Hayes: Campaigns and Elections | Miller Center](https://millercenter.org/president/hayes/campaigns-and-elections)
+
 [^23]: [The "Election" of Rutherford B. Hayes - The American Leader](https://theamericanleader.org/timeline-event/the-election-of-rutherford-b-hayes/)
+
 [^24]: [March 2, 1877: The President Rutherford B. Hayes Electoral Compromise and End of Southern Reconstruction | American Civil Rights Project](https://www.americancivilrightsproject.org/blog/march-2-1877-the-president-rutherford-b-hayes-electoral-compromise-and-end-of-southern-reconstruction/)
+
 [^25]: [How the 1876 Election Tested the Constitution and Effectively Ended Reconstruction | HISTORY](https://www.history.com/articles/reconstruction-1876-election-rutherford-hayes)
+
 [^26]: [The Tumultuous 1876 Presidential Election & the Compromise of 1877: A Turning Point in American History](https://socialstudieshelp.com/american-history-lessons/the-1876-presidential-election-compromise-of-1877/)
+
 [^27]: [Overview of the Hayes Presidency - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/overview-of-the-hayes-presidency/)
+
 [^28]: [Presidency of Rutherford B. Hayes - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Rutherford_B._Hayes)
+
 [^29]: [Rutherford B. Hayes: Domestic Affairs | Miller Center](https://millercenter.org/president/hayes/domestic-affairs)
+
 [^30]: [TOP 25 QUOTES BY RUTHERFORD B. HAYES (of 128) | A-Z Quotes](https://www.azquotes.com/author/6440-Rutherford_B_Hayes)
+
 [^31]: [First Words: Rutherford B. Hayes, March 4, 1877](https://firstyear2017.org/blog/first-words-rutherford-b.-hayes-march-4-1877.html)
+
 [^32]: [Rutherford B. Hayes: The President Who Advocated for Civil Service Reform](https://www.usahistorytimeline.com/pages/rutherford-b-hayes-the-president-who-advocated-for-civil-service-reform-1cd6e248.php)
+
 [^33]: [Hayes Historical Journal: The Politics and Practice of Civil Service Reform - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/research/hayes-historical-journal-the-politics-and-practice-of-civil-service-reform/)
+
 [^34]: [Hayes' Evolving Views on Anti-Slavery, Reconstruction - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/hayes-evolving-views-on-anti-slavery-reconstruction/)
+
 [^35]: [Rutherford B. Hayes: Controversial and little remembered | Constitution Center](https://constitutioncenter.org/blog/rutherford-b-hayes-a-misunderstood-president)
+
 [^36]: [Rutherford B. Hayes and the End of Reconstruction | Britannica](https://www.britannica.com/video/overview-Rutherford-B-Hayes/-211176)
+
 [^37]: ["Did Rutherford B. Hayes End Reconstruction?" - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/did-rutherford-b.-hayes-end-reconstruction/)
+
 [^38]: [The misconception about Hayes, Reconstruction and Jim Crow - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/the-misconception-about-hayes-reconstruction-and-jim-crow/)
+
 [^39]: [Rutherford B. Hayes Becomes President | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/history/rutherford-b-hayes-becomes-president)
+
 [^40]: [Apr. 24, 1877 | President Hayes Withdraws U.S. Troops From South, Ending Reconstruction](https://calendar.eji.org/racial-injustice/apr/24)
+
 [^41]: [Compromise of 1877 - Definition, Results & Significance](https://www.history.com/articles/compromise-of-1877)
+
 [^42]: [Rutherford B. Hayes: Family Life | Miller Center](https://millercenter.org/president/hayes/family-life)
+
 [^43]: [Lucy Webb Hayes - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/lucy-webb-hayes/)
+
 [^44]: [Hayes Historical Journal: Rutherford B. Hayes Family - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/research/hayes-historical-journal-rutherford-b.-hayes-family/)
+
 [^45]: [Lucy Webb Hayes - Wikipedia](https://en.wikipedia.org/wiki/Lucy_Webb_Hayes)
+
 [^46]: ["My Lucy": Rutherford B. Hayes Loses His Love | by Anthony Bergen | Medium](https://anthonybergen.medium.com/my-lucy-rutherford-b-hayes-loses-his-love-559ff34991c5)
+
 [^47]: [Rutherford Birchard Hayes (1822-1893) | WikiTree FREE Family Tree](https://www.wikitree.com/wiki/Hayes-229)
+
 [^48]: [Hayes Children - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/hayes-children/)
+
 [^49]: [Hayes Family Genealogy - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/hayes-family-genealogy/)
+
 [^50]: [Speeches & Messages of Rutherford B. Hayes - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/speeches-messages-of-rutherford-b.-hayes/)
+
 [^51]: [Memorable Quotes from the Diary and Letters of Rutherford B. Hayes - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/hayes/memorable-quotes-from-the-diary-and-letters-of-rutherford-b.-hayes/)
+
 [^52]: [Quotes by 'Rutherford B. Hayes' | QuoteTab](https://www.quotetab.com/quotes/by-rutherford-b-hayes)
+
 [^53]: [Rutherford B. Hayes Quotes - BrainyQuote](https://www.brainyquote.com/authors/rutherford-b-hayes-quotes)
+
 [^54]: [Rutherford B. Hayes - Wikiquote](https://en.wikiquote.org/wiki/Rutherford_B._Hayes)
+
 [^55]: [Rutherford B. Hayes - Quotes - IMDb](https://www.imdb.com/name/nm0371212/quotes/)
+
 [^56]: [Top 10 Rutherford B. Hayes Quotes - BrainyQuote](https://www.brainyquote.com/lists/authors/top-10-rutherford-b-hayes-quotes)
+
 [^57]: [Rutherford B. Hayes Quotes (Author of Conspicuous Gallantry)](https://www.goodreads.com/author/quotes/1004143.Rutherford_B_Hayes)
+
 [^58]: [Top 25 RUTHERFORD B. HAYES famous quotes and sayings](https://www.inspiringquotes.us/author/2031-rutherford-b-hayes)
+
 [^59]: [Rutherford B. Hayes | Kansas University Press](https://kansaspress.ku.edu/9780700606412/)
+
 [^60]: [Rutherford B. Hayes | The First Amendment Encyclopedia](https://firstamendment.mtsu.edu/article/rutherford-b-hayes/)
+
 [^61]: [Rutherford B. Hayes | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/politics-and-government/rutherford-b-hayes)
+
 [^62]: [Hayes Historical Journal: Very Victorian - Rutherford B. Hayes Presidential Library & Museums](https://www.rbhayes.org/research/hayes-historical-journal-very-victorian/)
+
 [^63]: [Rutherford B. Hayes - White House Historical Association](https://www.whitehousehistory.org/bios/rutherford-b-hayes)
+
 [^64]: [Rutherford B. Hayes | History.com](https://www.history.com/articles/rutherford-b-hayes)

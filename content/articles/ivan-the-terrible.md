@@ -183,29 +183,29 @@ Modern human rights perspectives view Ivan as an unambiguous monster, regardless
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1530 | Born August 25 in Kolomenskoye near Moscow to Grand Prince Vasili III and Elena Glinskaya |
-| 1533 | Father Vasili III dies; Ivan becomes Grand Prince at age three under mother's regency |
-| 1538 | Mother Elena Glinskaya dies (possibly poisoned); boyar families fight for control during Ivan's childhood |
-| 1543 | Orders his first execution (Andrei Shuisky) at age thirteen, asserting personal authority |
-| 1547 | Crowned as first Tsar of Russia (January 16); marries Anastasia Romanovna (February) |
-| 1549 | Convenes first Zemsky Sobor (Assembly of the Land) |
-| 1550 | Issues new law code (Sudebnik of 1550) with judicial and administrative reforms |
-| 1552 | Conquers Kazan Khanate after successful siege; commissions construction of St. Basil's Cathedral |
-| 1556 | Conquers Astrakhan, giving Russia control of entire Volga River |
-| 1558 | Begins Livonian War to gain access to Baltic Sea (continues until 1583) |
-| 1560 | First wife Anastasia Romanovna dies; Ivan becomes convinced of boyar poisoning conspiracy |
+| Year | Event                                                                                                          |
+| ---- | -------------------------------------------------------------------------------------------------------------- |
+| 1530 | Born August 25 in Kolomenskoye near Moscow to Grand Prince Vasili III and Elena Glinskaya                      |
+| 1533 | Father Vasili III dies; Ivan becomes Grand Prince at age three under mother's regency                          |
+| 1538 | Mother Elena Glinskaya dies (possibly poisoned); boyar families fight for control during Ivan's childhood      |
+| 1543 | Orders his first execution (Andrei Shuisky) at age thirteen, asserting personal authority                      |
+| 1547 | Crowned as first Tsar of Russia (January 16); marries Anastasia Romanovna (February)                           |
+| 1549 | Convenes first Zemsky Sobor (Assembly of the Land)                                                             |
+| 1550 | Issues new law code (Sudebnik of 1550) with judicial and administrative reforms                                |
+| 1552 | Conquers Kazan Khanate after successful siege; commissions construction of St. Basil's Cathedral               |
+| 1556 | Conquers Astrakhan, giving Russia control of entire Volga River                                                |
+| 1558 | Begins Livonian War to gain access to Baltic Sea (continues until 1583)                                        |
+| 1560 | First wife Anastasia Romanovna dies; Ivan becomes convinced of boyar poisoning conspiracy                      |
 | 1564 | Prince Andrei Kurbsky defects to Poland-Lithuania; Ivan establishes printing press; departs Moscow in December |
-| 1565 | Establishes the oprichnina, dividing realm and creating terror apparatus |
-| 1569 | Metropolitan Philip strangled on Ivan's orders after condemning the oprichnina |
-| 1570 | Sack of Novgorod; thousands massacred on suspicion of treason |
-| 1571 | Crimean Tatars raid and burn Moscow while oprichniki fail to defend the city |
-| 1572 | Formally abolishes the oprichnina (though terror continues in different forms) |
-| 1581 | Kills his eldest son and heir Ivan Ivanovich in fit of rage (November) |
-| 1582 | Yermak Timofeyevich begins conquest of Siberian Khanate with Ivan's support |
-| 1583 | Livonian War ends in Russian defeat; loses Baltic territories |
-| 1584 | Dies March 28 in Moscow; succeeded by weak son Feodor I |
+| 1565 | Establishes the oprichnina, dividing realm and creating terror apparatus                                       |
+| 1569 | Metropolitan Philip strangled on Ivan's orders after condemning the oprichnina                                 |
+| 1570 | Sack of Novgorod; thousands massacred on suspicion of treason                                                  |
+| 1571 | Crimean Tatars raid and burn Moscow while oprichniki fail to defend the city                                   |
+| 1572 | Formally abolishes the oprichnina (though terror continues in different forms)                                 |
+| 1581 | Kills his eldest son and heir Ivan Ivanovich in fit of rage (November)                                         |
+| 1582 | Yermak Timofeyevich begins conquest of Siberian Khanate with Ivan's support                                    |
+| 1583 | Livonian War ends in Russian defeat; loses Baltic territories                                                  |
+| 1584 | Dies March 28 in Moscow; succeeded by weak son Feodor I                                                        |
 
 ---
 
@@ -227,239 +227,239 @@ Modern human rights perspectives view Ivan as an unambiguous monster, regardless
 
 ## References
 
-[^1]: Martin, Janet. *Medieval Russia, 980-1584*. Cambridge University Press, 2007, pp. 352-353.
+[^1]: Martin, Janet. _Medieval Russia, 980-1584_. Cambridge University Press, 2007, pp. 352-353.
 
-[^2]: De Madariaga, Isabel. *Ivan the Terrible: First Tsar of Russia*. Yale University Press, 2005, pp. 12-15.
+[^2]: De Madariaga, Isabel. _Ivan the Terrible: First Tsar of Russia_. Yale University Press, 2005, pp. 12-15.
 
-[^3]: Platonov, S.F. *Ivan the Terrible*. Academic International Press, 1974, p. 28.
+[^3]: Platonov, S.F. _Ivan the Terrible_. Academic International Press, 1974, p. 28.
 
-[^4]: Crummey, Robert O. *The Formation of Muscovy 1304-1613*. Longman, 1987, p. 142.
+[^4]: Crummey, Robert O. _The Formation of Muscovy 1304-1613_. Longman, 1987, p. 142.
 
-[^5]: Kollmann, Nancy Shields. "The Boyar Clan and Court Politics: The Founding of the Muscovite Political System." *Cahiers du Monde russe et soviétique*, vol. 23, no. 1, 1982, pp. 5-31.
+[^5]: Kollmann, Nancy Shields. "The Boyar Clan and Court Politics: The Founding of the Muscovite Political System." _Cahiers du Monde russe et soviétique_, vol. 23, no. 1, 1982, pp. 5-31.
 
-[^6]: Payne, Robert, and Nikita Romanoff. *Ivan the Terrible*. Thomas Y. Crowell Company, 1975, pp. 45-48.
+[^6]: Payne, Robert, and Nikita Romanoff. _Ivan the Terrible_. Thomas Y. Crowell Company, 1975, pp. 45-48.
 
-[^7]: Kurbsky, Andrei. *History of Ivan IV*. Cambridge University Press, 1965, pp. 78-79.
+[^7]: Kurbsky, Andrei. _History of Ivan IV_. Cambridge University Press, 1965, pp. 78-79.
 
-[^8]: Hellie, Richard. "What Happened? How Did He Get Away with It? Ivan Groznyi's Paranoia and the Problem of Institutional Restraints." *Russian History*, vol. 14, no. 1-4, 1987, pp. 199-224.
+[^8]: Hellie, Richard. "What Happened? How Did He Get Away with It? Ivan Groznyi's Paranoia and the Problem of Institutional Restraints." _Russian History_, vol. 14, no. 1-4, 1987, pp. 199-224.
 
-[^9]: Fennell, J.L.I. *Ivan the Great of Moscow*. Macmillan, 1961, p. 334.
+[^9]: Fennell, J.L.I. _Ivan the Great of Moscow_. Macmillan, 1961, p. 334.
 
-[^10]: Berry, Lloyd E., and Robert O. Crummey, eds. *Rude & Barbarous Kingdom: Russia in the Accounts of Sixteenth-Century English Voyagers*. University of Wisconsin Press, 1968, pp. 156-157.
+[^10]: Berry, Lloyd E., and Robert O. Crummey, eds. _Rude & Barbarous Kingdom: Russia in the Accounts of Sixteenth-Century English Voyagers_. University of Wisconsin Press, 1968, pp. 156-157.
 
-[^11]: Cherniavsky, Michael. "Ivan the Terrible as Renaissance Prince." *Slavic Review*, vol. 27, no. 2, 1968, pp. 195-211.
+[^11]: Cherniavsky, Michael. "Ivan the Terrible as Renaissance Prince." _Slavic Review_, vol. 27, no. 2, 1968, pp. 195-211.
 
-[^12]: Rowland, Daniel. "Moscow—The Third Rome or the New Israel?" *Russian Review*, vol. 55, no. 4, 1996, pp. 591-614.
+[^12]: Rowland, Daniel. "Moscow—The Third Rome or the New Israel?" _Russian Review_, vol. 55, no. 4, 1996, pp. 591-614.
 
-[^13]: Ostrowski, Donald. *Muscovy and the Mongols: Cross-Cultural Influences on the Steppe Frontier*. Cambridge University Press, 1998, pp. 187-189.
+[^13]: Ostrowski, Donald. _Muscovy and the Mongols: Cross-Cultural Influences on the Steppe Frontier_. Cambridge University Press, 1998, pp. 187-189.
 
-[^14]: Skrynnikov, Ruslan G. *Ivan the Terrible*. Academic International Press, 1981, pp. 38-40.
+[^14]: Skrynnikov, Ruslan G. _Ivan the Terrible_. Academic International Press, 1981, pp. 38-40.
 
-[^15]: De Madariaga, Isabel. "Ivan the Terrible: Problems of a Troubled Mind." *History Today*, vol. 42, 1992, pp. 21-27.
+[^15]: De Madariaga, Isabel. "Ivan the Terrible: Problems of a Troubled Mind." _History Today_, vol. 42, 1992, pp. 21-27.
 
-[^16]: Keenan, Edward L. "Muscovite Political Folkways." *Russian Review*, vol. 45, no. 2, 1986, pp. 115-181.
+[^16]: Keenan, Edward L. "Muscovite Political Folkways." _Russian Review_, vol. 45, no. 2, 1986, pp. 115-181.
 
-[^17]: Vernadsky, George. *A History of Russia, Vol. 5: The Tsardom of Moscow*. Yale University Press, 1969, pp. 84-86.
+[^17]: Vernadsky, George. _A History of Russia, Vol. 5: The Tsardom of Moscow_. Yale University Press, 1969, pp. 84-86.
 
-[^18]: Kaiser, Daniel H. *The Growth of the Law in Medieval Russia*. Princeton University Press, 1980, pp. 198-203.
+[^18]: Kaiser, Daniel H. _The Growth of the Law in Medieval Russia_. Princeton University Press, 1980, pp. 198-203.
 
-[^19]: Keep, John L.H. *Soldiers of the Tsar: Army and Society in Russia, 1462-1874*. Oxford University Press, 1985, pp. 48-52.
+[^19]: Keep, John L.H. _Soldiers of the Tsar: Army and Society in Russia, 1462-1874_. Oxford University Press, 1985, pp. 48-52.
 
-[^20]: Kollmann, Nancy Shields. *By Honor Bound: State and Society in Early Modern Russia*. Cornell University Press, 1999, pp. 167-170.
+[^20]: Kollmann, Nancy Shields. _By Honor Bound: State and Society in Early Modern Russia_. Cornell University Press, 1999, pp. 167-170.
 
-[^21]: Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985, pp. 129-132.
+[^21]: Halperin, Charles J. _Russia and the Golden Horde: The Mongol Impact on Medieval Russian History_. Indiana University Press, 1985, pp. 129-132.
 
-[^22]: Martin, Janet. "The Land of Darkness and the Golden Horde: The Fur Trade under the Mongols XIII-XIVth Centuries." *Cahiers du Monde russe et soviétique*, vol. 19, no. 4, 1978, pp. 401-421.
+[^22]: Martin, Janet. "The Land of Darkness and the Golden Horde: The Fur Trade under the Mongols XIII-XIVth Centuries." _Cahiers du Monde russe et soviétique_, vol. 19, no. 4, 1978, pp. 401-421.
 
-[^23]: Brumfield, William Craft. *A History of Russian Architecture*. Cambridge University Press, 1993, pp. 98-102.
+[^23]: Brumfield, William Craft. _A History of Russian Architecture_. Cambridge University Press, 1993, pp. 98-102.
 
-[^24]: Voyce, Arthur. "The Architectural Enigma of the Church of St. Basil the Blessed." *Journal of the Society of Architectural Historians*, vol. 10, no. 1, 1951, pp. 13-16.
+[^24]: Voyce, Arthur. "The Architectural Enigma of the Church of St. Basil the Blessed." _Journal of the Society of Architectural Historians_, vol. 10, no. 1, 1951, pp. 13-16.
 
-[^25]: Fisher, Alan W. *The Russian Annexation of the Crimea, 1772-1783*. Cambridge University Press, 1970, pp. 12-15.
+[^25]: Fisher, Alan W. _The Russian Annexation of the Crimea, 1772-1783_. Cambridge University Press, 1970, pp. 12-15.
 
-[^26]: Lantzeff, George V., and Richard A. Pierce. *Eastward to Empire: Exploration and Conquest on the Russian Open Frontier*. McGill-Queen's University Press, 1973, pp. 89-94.
+[^26]: Lantzeff, George V., and Richard A. Pierce. _Eastward to Empire: Exploration and Conquest on the Russian Open Frontier_. McGill-Queen's University Press, 1973, pp. 89-94.
 
-[^27]: Kappeler, Andreas. *The Russian Empire: A Multiethnic History*. Pearson Education, 2001, pp. 28-31.
+[^27]: Kappeler, Andreas. _The Russian Empire: A Multiethnic History_. Pearson Education, 2001, pp. 28-31.
 
-[^28]: Marker, Gary. *Publishing, Printing, and the Origins of Intellectual Life in Russia, 1700-1800*. Princeton University Press, 1985, pp. 9-11.
+[^28]: Marker, Gary. _Publishing, Printing, and the Origins of Intellectual Life in Russia, 1700-1800_. Princeton University Press, 1985, pp. 9-11.
 
-[^29]: Simmons, Ernest J. "The Origins of Literary Control." *Survey*, no. 36, 1961, pp. 78-84.
+[^29]: Simmons, Ernest J. "The Origins of Literary Control." _Survey_, no. 36, 1961, pp. 78-84.
 
-[^30]: Fennell, J.L.I., ed. *The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV of Russia, 1564-1579*. Cambridge University Press, 1963.
+[^30]: Fennell, J.L.I., ed. _The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV of Russia, 1564-1579_. Cambridge University Press, 1963.
 
-[^31]: Poe, Marshall T. "'A People Born to Slavery': Russia in Early Modern European Ethnography." *Ithaca: Cornell University Press*, 2000, pp. 134-137.
+[^31]: Poe, Marshall T. "'A People Born to Slavery': Russia in Early Modern European Ethnography." _Ithaca: Cornell University Press_, 2000, pp. 134-137.
 
-[^32]: Dewey, Horace W. "The 1550 Sudebnik as an Instrument of Reform." *Jahrbücher für Geschichte Osteuropas*, vol. 10, no. 2, 1962, pp. 161-180.
+[^32]: Dewey, Horace W. "The 1550 Sudebnik as an Instrument of Reform." _Jahrbücher für Geschichte Osteuropas_, vol. 10, no. 2, 1962, pp. 161-180.
 
-[^33]: Stevens, Carol B. *Russia's Wars of Emergence, 1460-1730*. Pearson, 2007, pp. 56-59.
+[^33]: Stevens, Carol B. _Russia's Wars of Emergence, 1460-1730_. Pearson, 2007, pp. 56-59.
 
-[^34]: Blum, Jerome. *Lord and Peasant in Russia from the Ninth to the Nineteenth Century*. Princeton University Press, 1961, pp. 156-159.
+[^34]: Blum, Jerome. _Lord and Peasant in Russia from the Ninth to the Nineteenth Century_. Princeton University Press, 1961, pp. 156-159.
 
-[^35]: Baron, Samuel H. "The Origins of the Moscow Baroque." *Jahrbücher für Geschichte Osteuropas*, vol. 25, no. 4, 1977, pp. 503-522.
+[^35]: Baron, Samuel H. "The Origins of the Moscow Baroque." _Jahrbücher für Geschichte Osteuropas_, vol. 25, no. 4, 1977, pp. 503-522.
 
-[^36]: Cross, Anthony. *By the Banks of the Neva: Chapters from the Lives and Careers of the British in Eighteenth-Century Russia*. Cambridge University Press, 1997, pp. 12-15.
+[^36]: Cross, Anthony. _By the Banks of the Neva: Chapters from the Lives and Careers of the British in Eighteenth-Century Russia_. Cambridge University Press, 1997, pp. 12-15.
 
-[^37]: Bogatyrev, Sergei. "Ivan IV (1533-1584)." In *The Cambridge History of Russia, Vol. 1: From Early Rus' to 1689*, edited by Maureen Perrie, Cambridge University Press, 2006, pp. 240-263.
+[^37]: Bogatyrev, Sergei. "Ivan IV (1533-1584)." In _The Cambridge History of Russia, Vol. 1: From Early Rus' to 1689_, edited by Maureen Perrie, Cambridge University Press, 2006, pp. 240-263.
 
-[^38]: Hunt, Priscilla. "Ivan IV's Personal Mythology of Kingship." *Slavic Review*, vol. 52, no. 4, 1993, pp. 769-809.
+[^38]: Hunt, Priscilla. "Ivan IV's Personal Mythology of Kingship." _Slavic Review_, vol. 52, no. 4, 1993, pp. 769-809.
 
-[^39]: Platonov, S.F. *The Time of Troubles: A Historical Study of the Internal Crisis and Social Struggle in Sixteenth- and Seventeenth-Century Muscovy*. University Press of Kansas, 1970, pp. 45-48.
+[^39]: Platonov, S.F. _The Time of Troubles: A Historical Study of the Internal Crisis and Social Struggle in Sixteenth- and Seventeenth-Century Muscovy_. University Press of Kansas, 1970, pp. 45-48.
 
-[^40]: Zimin, A.A. *Oprichnina Ivana Groznogo* [The Oprichnina of Ivan the Terrible]. Moscow: Mysl, 1964, pp. 89-92.
+[^40]: Zimin, A.A. _Oprichnina Ivana Groznogo_ [The Oprichnina of Ivan the Terrible]. Moscow: Mysl, 1964, pp. 89-92.
 
-[^41]: Dunning, Chester S.L. "Terror in the Time of Ivan the Terrible." *Comparative Studies in Society and History*, vol. 52, no. 3, 2010, pp. 491-521.
+[^41]: Dunning, Chester S.L. "Terror in the Time of Ivan the Terrible." _Comparative Studies in Society and History_, vol. 52, no. 3, 2010, pp. 491-521.
 
-[^42]: Pavlov, Andrei, and Maureen Perrie. *Ivan the Terrible*. Pearson Education, 2003, pp. 98-105.
+[^42]: Pavlov, Andrei, and Maureen Perrie. _Ivan the Terrible_. Pearson Education, 2003, pp. 98-105.
 
-[^43]: Staden, Heinrich von. *The Land and Government of Muscovy: A Sixteenth-Century Account*. Stanford University Press, 1967, pp. 23-27.
+[^43]: Staden, Heinrich von. _The Land and Government of Muscovy: A Sixteenth-Century Account_. Stanford University Press, 1967, pp. 23-27.
 
-[^44]: Skrynnikov, Ruslan G. "Ivan the Terrible's 'Oprichnina' and the Struggle Against the Boyars (1565-1572)." *Canadian-American Slavic Studies*, vol. 17, no. 4, 1983, pp. 489-501.
+[^44]: Skrynnikov, Ruslan G. "Ivan the Terrible's 'Oprichnina' and the Struggle Against the Boyars (1565-1572)." _Canadian-American Slavic Studies_, vol. 17, no. 4, 1983, pp. 489-501.
 
-[^45]: Massa, Isaac. *A Short History of the Beginnings and Origins of These Present Wars in Moscow*. University of Toronto Press, 1982, pp. 67-71.
+[^45]: Massa, Isaac. _A Short History of the Beginnings and Origins of These Present Wars in Moscow_. University of Toronto Press, 1982, pp. 67-71.
 
-[^46]: Staden, Heinrich von. *The Land and Government of Muscovy*, pp. 34-38.
+[^46]: Staden, Heinrich von. _The Land and Government of Muscovy_, pp. 34-38.
 
-[^47]: Fedotov, George P. *The Russian Religious Mind, Vol. 2: The Middle Ages*. Harvard University Press, 1966, pp. 267-270.
+[^47]: Fedotov, George P. _The Russian Religious Mind, Vol. 2: The Middle Ages_. Harvard University Press, 1966, pp. 267-270.
 
-[^48]: Keenan, Edward L. "Ivan the Terrible: Fabricated Legacy." *Harvard Ukrainian Studies*, vol. 19, 1995, pp. 341-357.
+[^48]: Keenan, Edward L. "Ivan the Terrible: Fabricated Legacy." _Harvard Ukrainian Studies_, vol. 19, 1995, pp. 341-357.
 
-[^49]: Hellie, Richard. *Enserfment and Military Change in Muscovy*. University of Chicago Press, 1971, pp. 98-103.
+[^49]: Hellie, Richard. _Enserfment and Military Change in Muscovy_. University of Chicago Press, 1971, pp. 98-103.
 
-[^50]: Dunning, Chester. *Russia's First Civil War: The Time of Troubles and the Founding of the Romanov Dynasty*. Pennsylvania State University Press, 2001, pp. 34-39.
+[^50]: Dunning, Chester. _Russia's First Civil War: The Time of Troubles and the Founding of the Romanov Dynasty_. Pennsylvania State University Press, 2001, pp. 34-39.
 
-[^51]: Alef, Gustave. "Muscovite Military Reforms in the Second Half of the Fifteenth Century." *Forschungen zur osteuropäischen Geschichte*, vol. 18, 1973, pp. 73-108.
+[^51]: Alef, Gustave. "Muscovite Military Reforms in the Second Half of the Fifteenth Century." _Forschungen zur osteuropäischen Geschichte_, vol. 18, 1973, pp. 73-108.
 
-[^52]: Crummey, Robert O. "Court Spectacles in Seventeenth-Century Russia: Illusion and Reality." In *Essays in Honor of A.A. Zimin*, Moscow, 1988, pp. 130-158.
+[^52]: Crummey, Robert O. "Court Spectacles in Seventeenth-Century Russia: Illusion and Reality." In _Essays in Honor of A.A. Zimin_, Moscow, 1988, pp. 130-158.
 
-[^53]: Neuberger, Joan. "The Politics of Biography: Ivan the Terrible in the Films of Sergei Eisenstein." In *Epic Revisionism: Russian History and Literature as Stalinist Propaganda*, edited by Kevin M.F. Platt and David Brandenberger, University of Wisconsin Press, 2006, pp. 163-186.
+[^53]: Neuberger, Joan. "The Politics of Biography: Ivan the Terrible in the Films of Sergei Eisenstein." In _Epic Revisionism: Russian History and Literature as Stalinist Propaganda_, edited by Kevin M.F. Platt and David Brandenberger, University of Wisconsin Press, 2006, pp. 163-186.
 
-[^54]: Frost, Robert I. *The Northern Wars: War, State and Society in Northeastern Europe, 1558-1721*. Routledge, 2000, pp. 15-28.
+[^54]: Frost, Robert I. _The Northern Wars: War, State and Society in Northeastern Europe, 1558-1721_. Routledge, 2000, pp. 15-28.
 
-[^55]: Kirchner, Walther. *The Rise of the Baltic Question*. University of Delaware Press, 1954, pp. 67-74.
+[^55]: Kirchner, Walther. _The Rise of the Baltic Question_. University of Delaware Press, 1954, pp. 67-74.
 
-[^56]: Pushkareva, Natalia. *Women in Russian History: From the Tenth to the Twentieth Century*. M.E. Sharpe, 1997, pp. 78-82.
+[^56]: Pushkareva, Natalia. _Women in Russian History: From the Tenth to the Twentieth Century_. M.E. Sharpe, 1997, pp. 78-82.
 
-[^57]: Hughes, Lindsey. *Sophia, Regent of Russia, 1657-1704*. Yale University Press, 1990, pp. 23-25.
+[^57]: Hughes, Lindsey. _Sophia, Regent of Russia, 1657-1704_. Yale University Press, 1990, pp. 23-25.
 
-[^58]: De Madariaga, Isabel. *Ivan the Terrible*, pp. 134-137.
+[^58]: De Madariaga, Isabel. _Ivan the Terrible_, pp. 134-137.
 
-[^59]: Weickhardt, George. "The Pre-Petrine Law of Property." *Slavic Review*, vol. 52, no. 4, 1993, pp. 663-679.
+[^59]: Weickhardt, George. "The Pre-Petrine Law of Property." _Slavic Review_, vol. 52, no. 4, 1993, pp. 663-679.
 
-[^60]: Khodarkovsky, Michael. *Russia's Steppe Frontier: The Making of a Colonial Empire, 1500-1800*. Indiana University Press, 2002, pp. 45-48.
+[^60]: Khodarkovsky, Michael. _Russia's Steppe Frontier: The Making of a Colonial Empire, 1500-1800_. Indiana University Press, 2002, pp. 45-48.
 
-[^61]: Clements, Barbara Evans. *A History of Women in Russia: From Earliest Times to the Present*. Indiana University Press, 2012, pp. 56-58.
+[^61]: Clements, Barbara Evans. _A History of Women in Russia: From Earliest Times to the Present_. Indiana University Press, 2012, pp. 56-58.
 
-[^62]: Kollmann, Nancy Shields. "The Seclusion of Elite Muscovite Women." *Russian History*, vol. 10, no. 2, 1983, pp. 170-187.
+[^62]: Kollmann, Nancy Shields. "The Seclusion of Elite Muscovite Women." _Russian History_, vol. 10, no. 2, 1983, pp. 170-187.
 
-[^63]: Levin, Eve. *Sex and Society in the World of the Orthodox Slavs, 900-1700*. Cornell University Press, 1989, pp. 234-237.
+[^63]: Levin, Eve. _Sex and Society in the World of the Orthodox Slavs, 900-1700_. Cornell University Press, 1989, pp. 234-237.
 
-[^64]: Staden, Heinrich von. *The Land and Government of Muscovy*, pp. 45-49.
+[^64]: Staden, Heinrich von. _The Land and Government of Muscovy_, pp. 45-49.
 
-[^65]: Andreyev, Nikolay. "Piety and Prestige: Literature in the Court of Grand Prince Vasilii III." *Slavonic and East European Review*, vol. 76, no. 1, 1998, pp. 1-25.
+[^65]: Andreyev, Nikolay. "Piety and Prestige: Literature in the Court of Grand Prince Vasilii III." _Slavonic and East European Review_, vol. 76, no. 1, 1998, pp. 1-25.
 
-[^66]: Meehan-Waters, Brenda. *Autocracy and Aristocracy: The Russian Service Elite of 1730*. Rutgers University Press, 1982, pp. 34-37.
+[^66]: Meehan-Waters, Brenda. _Autocracy and Aristocracy: The Russian Service Elite of 1730_. Rutgers University Press, 1982, pp. 34-37.
 
-[^67]: Bushkovitch, Paul. "The Epiphany Ceremony of the Russian Court in the Sixteenth and Seventeenth Centuries." *Russian Review*, vol. 49, no. 1, 1990, pp. 1-18.
+[^67]: Bushkovitch, Paul. "The Epiphany Ceremony of the Russian Court in the Sixteenth and Seventeenth Centuries." _Russian Review_, vol. 49, no. 1, 1990, pp. 1-18.
 
-[^68]: Horsey, Jerome. "Travels." In *Russia at the Close of the Sixteenth Century*, edited by Edward A. Bond, Hakluyt Society, 1856, pp. 156-159.
+[^68]: Horsey, Jerome. "Travels." In _Russia at the Close of the Sixteenth Century_, edited by Edward A. Bond, Hakluyt Society, 1856, pp. 156-159.
 
-[^69]: Mamonova, N.N., and V.V. Gromov. "The Remains of Ivan IV: Anthropological Analysis." *Soviet Anthropology and Archaeology*, vol. 5, no. 3, 1966, pp. 23-31.
+[^69]: Mamonova, N.N., and V.V. Gromov. "The Remains of Ivan IV: Anthropological Analysis." _Soviet Anthropology and Archaeology_, vol. 5, no. 3, 1966, pp. 23-31.
 
-[^70]: Zhivov, Viktor, and Boris Uspenskii. "Tsar and God: Semiotic Aspects of the Sacralization of the Monarch in Russia." In *Religion and Culture in Early Modern Russia and Ukraine*, edited by Samuel H. Baron and Nancy Shields Kollmann, Northern Illinois University Press, 1997, pp. 47-74.
+[^70]: Zhivov, Viktor, and Boris Uspenskii. "Tsar and God: Semiotic Aspects of the Sacralization of the Monarch in Russia." In _Religion and Culture in Early Modern Russia and Ukraine_, edited by Samuel H. Baron and Nancy Shields Kollmann, Northern Illinois University Press, 1997, pp. 47-74.
 
-[^71]: Cherniavsky, Michael. "Khan or Basileus: An Aspect of Russian Mediaeval Political Theory." *Journal of the History of Ideas*, vol. 20, no. 4, 1959, pp. 459-476.
+[^71]: Cherniavsky, Michael. "Khan or Basileus: An Aspect of Russian Mediaeval Political Theory." _Journal of the History of Ideas_, vol. 20, no. 4, 1959, pp. 459-476.
 
-[^72]: Berry, Lloyd E., and Robert O. Crummey. *Rude & Barbarous Kingdom*, pp. 167-170.
+[^72]: Berry, Lloyd E., and Robert O. Crummey. _Rude & Barbarous Kingdom_, pp. 167-170.
 
-[^73]: Bushkovitch, Paul. *Religion and Society in Russia: The Sixteenth and Seventeenth Centuries*. Oxford University Press, 1992, pp. 89-92.
+[^73]: Bushkovitch, Paul. _Religion and Society in Russia: The Sixteenth and Seventeenth Centuries_. Oxford University Press, 1992, pp. 89-92.
 
-[^74]: Perrie, Maureen. *The Image of Ivan the Terrible in Russian Folklore*. Cambridge University Press, 1987, pp. 1-8.
+[^74]: Perrie, Maureen. _The Image of Ivan the Terrible in Russian Folklore_. Cambridge University Press, 1987, pp. 1-8.
 
-[^75]: Khodarkovsky, Michael. "The Stepan Razin Uprising: Was It a 'Peasant War'?" *Jahrbücher für Geschichte Osteuropas*, vol. 42, no. 1, 1994, pp. 1-19.
+[^75]: Khodarkovsky, Michael. "The Stepan Razin Uprising: Was It a 'Peasant War'?" _Jahrbücher für Geschichte Osteuropas_, vol. 42, no. 1, 1994, pp. 1-19.
 
-[^76]: Kappeler, Andreas. *The Russian Empire: A Multiethnic History*, pp. 45-52.
+[^76]: Kappeler, Andreas. _The Russian Empire: A Multiethnic History_, pp. 45-52.
 
-[^77]: Tucker, Robert C. "The Image of Dual Russia." In *The Soviet Political Mind*, edited by Robert C. Tucker, Norton, 1971, pp. 121-142.
+[^77]: Tucker, Robert C. "The Image of Dual Russia." In _The Soviet Political Mind_, edited by Robert C. Tucker, Norton, 1971, pp. 121-142.
 
-[^78]: Crummey, Robert O. *The Formation of Muscovy*, p. 168.
+[^78]: Crummey, Robert O. _The Formation of Muscovy_, p. 168.
 
-[^79]: Pipes, Richard. *Russia Under the Old Regime*. Charles Scribner's Sons, 1974, pp. 78-84.
+[^79]: Pipes, Richard. _Russia Under the Old Regime_. Charles Scribner's Sons, 1974, pp. 78-84.
 
-[^80]: Dukes, Paul. *A History of Russia: Medieval, Modern, Contemporary*. Duke University Press, 1998, pp. 67-71.
+[^80]: Dukes, Paul. _A History of Russia: Medieval, Modern, Contemporary_. Duke University Press, 1998, pp. 67-71.
 
-[^81]: Hellie, Richard. *Enserfment and Military Change in Muscovy*, pp. 134-140.
+[^81]: Hellie, Richard. _Enserfment and Military Change in Muscovy_, pp. 134-140.
 
-[^82]: Blum, Jerome. *Lord and Peasant in Russia*, pp. 178-185.
+[^82]: Blum, Jerome. _Lord and Peasant in Russia_, pp. 178-185.
 
-[^83]: Dunning, Chester. *Russia's First Civil War*, pp. 56-63.
+[^83]: Dunning, Chester. _Russia's First Civil War_, pp. 56-63.
 
-[^84]: Brumfield, William Craft. *A History of Russian Architecture*, pp. 112-118.
+[^84]: Brumfield, William Craft. _A History of Russian Architecture_, pp. 112-118.
 
-[^85]: Likhachev, Dmitry S. "The Type and Character of the Byzantine Influence on Old Russian Literature." *Oxford Slavonic Papers*, vol. 13, 1967, pp. 14-32.
+[^85]: Likhachev, Dmitry S. "The Type and Character of the Byzantine Influence on Old Russian Literature." _Oxford Slavonic Papers_, vol. 13, 1967, pp. 14-32.
 
-[^86]: Brandenberger, David. *National Bolshevism: Stalinist Mass Culture and the Formation of Modern Russian National Identity, 1931-1956*. Harvard University Press, 2002, pp. 89-95.
+[^86]: Brandenberger, David. _National Bolshevism: Stalinist Mass Culture and the Formation of Modern Russian National Identity, 1931-1956_. Harvard University Press, 2002, pp. 89-95.
 
 [^87]: Neuberger, Joan. "The Politics of Biography: Ivan the Terrible in the Films of Sergei Eisenstein," pp. 172-181.
 
-[^88]: Platt, Kevin M.F., and David Brandenberger, eds. *Epic Revisionism: Russian History and Literature as Stalinist Propaganda*. University of Wisconsin Press, 2006, pp. 45-52.
+[^88]: Platt, Kevin M.F., and David Brandenberger, eds. _Epic Revisionism: Russian History and Literature as Stalinist Propaganda_. University of Wisconsin Press, 2006, pp. 45-52.
 
-[^89]: Bennetts, Marc. "Statue of Ivan the Terrible Sparks Protests in Russia." *The Guardian*, October 14, 2016.
+[^89]: Bennetts, Marc. "Statue of Ivan the Terrible Sparks Protests in Russia." _The Guardian_, October 14, 2016.
 
-[^90]: Garrard, John, and Carol Garrard. *Russian Orthodoxy Resurgent: Faith and Power in the New Russia*. Princeton University Press, 2008, pp. 167-170.
+[^90]: Garrard, John, and Carol Garrard. _Russian Orthodoxy Resurgent: Faith and Power in the New Russia_. Princeton University Press, 2008, pp. 167-170.
 
-[^91]: De Madariaga, Isabel. *Ivan the Terrible*, pp. 388-395.
+[^91]: De Madariaga, Isabel. _Ivan the Terrible_, pp. 388-395.
 
-[^92]: Crummey, Robert O. "Reform Under Ivan IV: Gradualism and Terror." In *Modernization and Revolution: Dilemmas of Progress in Late Imperial Russia*, edited by Theodore Taranovski, Slavica Publishers, 1981, pp. 12-27.
+[^92]: Crummey, Robert O. "Reform Under Ivan IV: Gradualism and Terror." In _Modernization and Revolution: Dilemmas of Progress in Late Imperial Russia_, edited by Theodore Taranovski, Slavica Publishers, 1981, pp. 12-27.
 
-[^93]: Platonov, S.F. *Boris Godunov, Tsar of Russia*. Academic International Press, 1973, pp. 23-29.
+[^93]: Platonov, S.F. _Boris Godunov, Tsar of Russia_. Academic International Press, 1973, pp. 23-29.
 
-[^94]: Dunning, Chester. *Russia's First Civil War*, pp. 89-98.
+[^94]: Dunning, Chester. _Russia's First Civil War_, pp. 89-98.
 
-[^95]: Skrynnikov, Ruslan G. *Ivan the Terrible*, pp. 187-195.
+[^95]: Skrynnikov, Ruslan G. _Ivan the Terrible_, pp. 187-195.
 
-[^96]: Payne, Robert, and Nikita Romanoff. *Ivan the Terrible*, p. 312.
+[^96]: Payne, Robert, and Nikita Romanoff. _Ivan the Terrible_, p. 312.
 
 [^97]: Cherniavsky, Michael. "Ivan the Terrible as Renaissance Prince," pp. 203-208.
 
-[^98]: Wipper, Robert. *Ivan Grozny* [Ivan the Terrible]. Moscow: State Publishing House, 1922, pp. 234-241.
+[^98]: Wipper, Robert. _Ivan Grozny_ [Ivan the Terrible]. Moscow: State Publishing House, 1922, pp. 234-241.
 
-[^99]: Brandenberger, David. *National Bolshevism*, pp. 102-109.
+[^99]: Brandenberger, David. _National Bolshevism_, pp. 102-109.
 
-[^100]: Filjushkin, Alexander. "Ivan the Terrible in Russian Historiography." *Russian Studies in History*, vol. 46, no. 3, 2007, pp. 6-31.
+[^100]: Filjushkin, Alexander. "Ivan the Terrible in Russian Historiography." _Russian Studies in History_, vol. 46, no. 3, 2007, pp. 6-31.
 
-[^101]: Pavlov, Andrei, and Maureen Perrie. *Ivan the Terrible*, pp. 145-152.
+[^101]: Pavlov, Andrei, and Maureen Perrie. _Ivan the Terrible_, pp. 145-152.
 
-[^102]: Meyendorff, John. *Byzantium and the Rise of Russia*. Cambridge University Press, 1981, pp. 267-273.
+[^102]: Meyendorff, John. _Byzantium and the Rise of Russia_. Cambridge University Press, 1981, pp. 267-273.
 
-[^103]: De Madariaga, Isabel. *Ivan the Terrible*, p. 389.
+[^103]: De Madariaga, Isabel. _Ivan the Terrible_, p. 389.
 
-[^104]: Hughes, Lindsey. *Russia in the Age of Peter the Great*. Yale University Press, 1998, p. 17.
+[^104]: Hughes, Lindsey. _Russia in the Age of Peter the Great_. Yale University Press, 1998, p. 17.
 
-[^105]: Kollmann, Nancy Shields. "The Principalities of Rus' in the Fourteenth Century." In *The Cambridge History of Russia, Vol. 1*, edited by Maureen Perrie, Cambridge University Press, 2006, pp. 167-187.
+[^105]: Kollmann, Nancy Shields. "The Principalities of Rus' in the Fourteenth Century." In _The Cambridge History of Russia, Vol. 1_, edited by Maureen Perrie, Cambridge University Press, 2006, pp. 167-187.
 
 [^106]: Keenan, Edward L. "Ivan the Terrible: Fabricated Legacy," pp. 348-353.
 
 [^107]: Hellie, Richard. "What Happened? How Did He Get Away with It?" pp. 210-218.
 
-[^108]: Blum, Jerome. *Lord and Peasant in Russia*, p. 183.
+[^108]: Blum, Jerome. _Lord and Peasant in Russia_, p. 183.
 
 [^109]: Horsey, Jerome. "Travels," pp. 178-182.
 
-[^110]: Volkogonov, Dmitri. *Autopsy for an Empire: The Seven Leaders Who Built the Soviet Regime*. Free Press, 1998, pp. 23-27.
+[^110]: Volkogonov, Dmitri. _Autopsy for an Empire: The Seven Leaders Who Built the Soviet Regime_. Free Press, 1998, pp. 23-27.
 
-[^111]: Klyuchevsky, Vasily. *A History of Russia, Vol. 2*. J.M. Dent, 1912, p. 289.
+[^111]: Klyuchevsky, Vasily. _A History of Russia, Vol. 2_. J.M. Dent, 1912, p. 289.
 
-[^112]: Fedotov, George P. *The Russian Religious Mind, Vol. 2*, pp. 278-283.
+[^112]: Fedotov, George P. _The Russian Religious Mind, Vol. 2_, pp. 278-283.
 
-[^113]: Applebaum, Anne. "The Worst of the Worst." *New York Review of Books*, March 11, 2010.
+[^113]: Applebaum, Anne. "The Worst of the Worst." _New York Review of Books_, March 11, 2010.
 
-[^114]: Fennell, J.L.I. *The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV*, p. 78.
+[^114]: Fennell, J.L.I. _The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV_, p. 78.
 
-[^115]: Fennell, J.L.I. *The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV*, p. 92.
+[^115]: Fennell, J.L.I. _The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV_, p. 92.
 
-[^116]: Fennell, J.L.I. *The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV*, p. 45.
+[^116]: Fennell, J.L.I. _The Correspondence between Prince A.M. Kurbsky and Tsar Ivan IV_, p. 45.
 
-[^117]: Cherniavsky, Michael. *Tsar and People: Studies in Russian Myths*. Yale University Press, 1961, p. 67.
+[^117]: Cherniavsky, Michael. _Tsar and People: Studies in Russian Myths_. Yale University Press, 1961, p. 67.
 
 [^118]: Rowland, Daniel. "Moscow—The Third Rome or the New Israel?" p. 603.
 

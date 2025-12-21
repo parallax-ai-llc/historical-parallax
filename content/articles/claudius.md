@@ -201,21 +201,21 @@ Ancient sources, while biased, were written by educated people closer to events 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 10 BC | Born August 1 in Lugdunum (Lyon), Gaul |
-| AD 37 | Serves as consul alongside his nephew Caligula |
-| AD 41 | January 24: Emperor Caligula assassinated |
-| AD 41 | January 25: Proclaimed emperor by Praetorian Guard |
-| AD 41-42 | Annexation of Mauretania in North Africa |
-| AD 43 | Invasion and conquest of Britain; establishment of province of Britannia |
-| AD 47 | Trial and forced suicide of Valerius Asiaticus |
-| AD 48 | Execution of third wife Messalina for conspiracy |
-| AD 49 | Marriage to Agrippina the Younger, his niece |
-| AD 50 | February 25: Adoption of Nero (Lucius Domitius Ahenobarbus) |
-| AD 52 | Completion of Aqua Claudia and Aqua Anio Novus aqueducts |
-| AD 54 | October 13: Death by poisoning (allegedly by Agrippina); succeeded by Nero |
-| AD 54 | October 24: Ashes interred in the Mausoleum of Augustus |
+| Year     | Event                                                                      |
+| -------- | -------------------------------------------------------------------------- |
+| 10 BC    | Born August 1 in Lugdunum (Lyon), Gaul                                     |
+| AD 37    | Serves as consul alongside his nephew Caligula                             |
+| AD 41    | January 24: Emperor Caligula assassinated                                  |
+| AD 41    | January 25: Proclaimed emperor by Praetorian Guard                         |
+| AD 41-42 | Annexation of Mauretania in North Africa                                   |
+| AD 43    | Invasion and conquest of Britain; establishment of province of Britannia   |
+| AD 47    | Trial and forced suicide of Valerius Asiaticus                             |
+| AD 48    | Execution of third wife Messalina for conspiracy                           |
+| AD 49    | Marriage to Agrippina the Younger, his niece                               |
+| AD 50    | February 25: Adoption of Nero (Lucius Domitius Ahenobarbus)                |
+| AD 52    | Completion of Aqua Claudia and Aqua Anio Novus aqueducts                   |
+| AD 54    | October 13: Death by poisoning (allegedly by Agrippina); succeeded by Nero |
+| AD 54    | October 24: Ashes interred in the Mausoleum of Augustus                    |
 
 ---
 
@@ -236,131 +236,259 @@ Ancient sources, while biased, were written by educated people closer to events 
 ## References
 
 [^1]: [Claudius - Wikipedia](https://en.wikipedia.org/wiki/Claudius)
+
 [^2]: [Claudius | Biography, Achievements, Death, Meaning, & Facts | Britannica](https://www.britannica.com/biography/Claudius-Roman-emperor)
+
 [^3]: [The Life and Reign of Emperor Claudius | Walks Inside Rome](https://www.walksinsiderome.com/blog/the-life-and-reign-of-emperor-claudius/)
+
 [^4]: [Claudius - World History Encyclopedia](https://www.worldhistory.org/claudius/)
+
 [^5]: [Claudius - Roman Emperor | UNRV Roman History](https://www.unrv.com/early-empire/claudius.php)
+
 [^6]: [Emperor Claudius of Rome | Reign, Achievements & Death - Lesson | Study.com](https://study.com/academy/lesson/the-roman-emperor-claudius-facts-achievements-quiz.html)
+
 [^7]: [A neurological mystery from history: the case of Claudius Caesar - PubMed](https://pubmed.ncbi.nlm.nih.gov/20628951/)
+
 [^8]: [Between Disability and Illness in Ancient Rome - The Case of Emperor Claudius - PubMed](https://pubmed.ncbi.nlm.nih.gov/40443273/)
+
 [^9]: [The neurology of Emperor Claudius - Hektoen International](https://hekint.org/2024/09/10/the-neurology-of-emperor-claudius/)
+
 [^10]: [Claudius: The Unexpected Emperor and His Legacy of Achievements | Roman Emperors](https://www.romanemperors.com/blog/claudius-the-unexpected-emperor-and-his-surprising-achievements)
+
 [^11]: [8 Things You May Not Know About Emperor Claudius | HISTORY](https://www.history.com/articles/8-things-you-may-not-know-about-emperor-claudius)
+
 [^12]: [Roman Emperors - DIR Claudius](https://roman-emperors.sites.luc.edu/claudius.htm)
+
 [^13]: [Cla…Cla…Claudius the Scholar](https://classicalassociationni.wordpress.com/2020/09/20/claclaclaudius-the-scholar/)
+
 [^14]: [Livy - Wikipedia](https://en.wikipedia.org/wiki/Livy)
+
 [^15]: [Emperor Claudius I and the Etruscans by Keith Armstrong | PDF](https://www.slideshare.net/yourkamden/claudius-i-and-the-etruscans)
+
 [^16]: [Tyrrhenika - Wikipedia](https://en.wikipedia.org/wiki/Tyrrhenika)
-[^17]: [(PDF) Claudius I and the Etruscans by Keith Armstrong=_](https://www.academia.edu/5874305/Claudius_I_and_the_Etruscans_by_Keith_Armstrong_)
+
+[^17]: [(PDF) Claudius I and the Etruscans by Keith Armstrong=\_](https://www.academia.edu/5874305/Claudius_I_and_the_Etruscans_by_Keith_Armstrong_)
+
 [^18]: [Livy - Livius](https://www.livius.org/articles/person/livy/)
+
 [^19]: [The Roman Empire: in the First Century. The Roman Empire. Emperors. Claudius | PBS](https://www.pbs.org/empires/romans/empire/claudius.html)
+
 [^20]: [Claudius: Roman Emperor's Life & History for Education](https://www.storyboardthat.com/biography/claudius)
+
 [^21]: [Claudius (10 BC – 54 AD) – The fourth emperor of Rome, who ruled from 41 AD until his death in 54 AD. full history | 01](https://vocal.media/01/claudius-10-bc-54-ad-the-fourth-emperor-of-rome-who-ruled-from-41-ad-until-his-death-in-54-ad-full-history)
+
 [^22]: [Emperor Claudius - the 1. leader who got victory over Britain](https://roman-empire.net/people/emperor-claudius)
+
 [^23]: [Claudius: The Renaissance of Roman Leadership](https://rome.us/roman-emperors/claudius.html)
+
 [^24]: [The Complete Roman Empire Timeline: All Important Events in Order](https://historycooperative.org/roman-empire-timeline/)
+
 [^25]: [Chronological List of Roman Emperors | Augustus, Tiberius, Diocletian | Britannica](https://www.britannica.com/place/list-of-Roman-emperors-2043294)
+
 [^26]: [Emperor Claudius: Facts, Legacy, and Invasion of Britannia – Roman Empire](https://romanempirehistory.com/roman-emperors/emperor-claudius/)
+
 [^27]: [Was Claudius an effective Roman Emperor - DailyHistory.org](https://www.dailyhistory.org/Was_Claudius_an_effective_Roman_Emperor)
+
 [^28]: [Claudius: Roman Emperor and Administrator of the Julio-Claudian Dynasty - Ancient History Sites](https://www.ancient-history-sites.com/roman/emperors/claudius/)
+
 [^29]: [Claudius 41 AD – Amazing Bible Timeline with World History](https://amazingbibletimeline.com/blog/claudius-41-ad/)
+
 [^30]: [Roman conquest of Britain - Wikipedia](https://en.wikipedia.org/wiki/Roman_conquest_of_Britain)
+
 [^31]: [Claudian Invasion and Conquest (43-60AD) - Roman Britain](https://www.roman-britain.co.uk/roman-conquest-and-occupation-of-britain/initial-claudian-invasion-and-conquest-43-60-ad/)
+
 [^32]: [The Roman Invasion of Britain | English Heritage](https://www.english-heritage.org.uk/learn/story-of-england/romans/invasion/)
+
 [^33]: [Romans in Britain - The Roman Invasion of Britain by Emporor Claudius (43 AD)](https://www.romanobritain.org/6-history/his_roman_invasion.php)
+
 [^34]: [The Roman Invasions of Britain](https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/romancoventry/resources/interactions/invasion/)
+
 [^35]: [Claudius' invasion of Britain | Historical Atlas of Europe (August 43 AD) | Omniatlas](https://omniatlas.com/maps/europe/430816/)
+
 [^36]: [Roman Britain - Wikipedia](https://en.wikipedia.org/wiki/Roman_Britain)
+
 [^37]: [Roman England, the Roman in Britain 43 - 410 AD](https://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Romans-in-England/)
+
 [^38]: [Conquest of Britain by Claudius (43 CE) « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/wars/conquest-of-britain-by-claudius/)
+
 [^39]: [The Claudian Invasion of Britain (43AD) - Roman Britain](https://www.roman-britain.co.uk/roman-conquest-and-occupation-of-britain/initial-claudian-invasion-and-conquest-43-60-ad/the-claudian-invasion-of-britain/)
+
 [^40]: [Amazon.com: Claudius: The Life and Legacy of the Emperor Who Stabilized the Ancient Roman Empire after Caligula: 9781722653910: Charles River Editors: Books](https://www.amazon.com/Claudius-Emperor-Stabilized-Ancient-Caligula/dp/1722653914)
+
 [^41]: [Claudius summary | Britannica](https://www.britannica.com/summary/Claudius-Roman-emperor)
+
 [^42]: [Timeline Of The 29 Roman Emperors | Preceden](https://www.preceden.com/timelines/520135-timeline-of-the-29-roman-emperors)
+
 [^43]: [Marcus Antonius Pallas, the Treasurer of Two Roman Emperors Who Became Rich Without Ever Embezzling Public Funds](https://www.labrujulaverde.com/en/2024/09/marcus-antonius-pallas-the-treasurer-of-two-roman-emperors-who-became-rich-without-ever-embezzling-public-funds/)
+
 [^44]: [A Dictionary of Greek and Roman biography and mythology, Pallas](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry%3Dpallas-bio-10)
+
 [^45]: [Agrippina - Themes: Claudius's freedmen](https://www.johndclare.net/AncientHistory/Agrippina_Themes2.htm)
-[^46]: [Pallas (freedman) - Wikipedia](https://en.wikipedia.org/wiki/Pallas_(freedman))
+
+[^46]: [Pallas (freedman) - Wikipedia](<https://en.wikipedia.org/wiki/Pallas_(freedman)>)
+
 [^47]: [Tiberius Claudius Narcissus - Wikipedia](https://en.wikipedia.org/wiki/Tiberius_Claudius_Narcissus)
+
 [^48]: [Two ministers of Emperor Claudius « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/curiosities/two-ministers-of-emperor-claudius/)
+
 [^49]: [Household Administration « Roman History 31 BC - AD 117](https://ancientromanhistory31-14.com/home/claudius/household-administration/)
+
 [^50]: [Julio-Claudian Emperors](https://www.uvm.edu/~bsaylor/rome/notes/julioclaudians.html)
+
 [^51]: [Claudius « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/biographies/claudius/)
+
 [^52]: [What were some of Emperor Claudius's worst moves. | History Forum](https://historum.com/t/what-were-some-of-emperor-claudiuss-worst-moves.58804/)
+
 [^53]: [Nero | Biography, Claudius, Rome, Burning, Fate, Accomplishments, & Facts | Britannica](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^54]: [Messalina - the Empress Who Remarried While the Emperor Was Out of Town | Walks Inside Rome](https://www.walksinsiderome.com/blog/messalina-the-empress-who-remarried-while-the-emperor-was-out-of-town/)
+
 [^55]: [Uncovering the Real Story of Empress Messalina: Comparing Ancient Sources to Reveal the Truth - Roman Empire](https://roman-empire.net/people/empress-messalina)
+
 [^56]: [This empress was the most dangerous woman in Rome | National Geographic](https://www.nationalgeographic.com/history/history-magazine/article/messalina-sex-politics-power-ancient-rome-empress)
+
 [^57]: [Questioning the Dramatic Story of the Empress Messalina, Was She a Cruel Doxy or the Victim of a Smear Campaign? | Ancient Origins](https://www.ancient-origins.net/history-famous-people/questioning-dramatic-story-empress-messalina-was-she-cruel-doxy-or-victim-020725)
+
 [^58]: [Messalina - Wikipedia](https://en.wikipedia.org/wiki/Messalina)
+
 [^59]: [The Empress Messalina - Teenage nymphomaniac or smooth operator? - Ancient World Magazine](https://www.ancientworldmagazine.com/articles/empress-messalina/)
+
 [^60]: [Top Ten Most Scandalous Women Of Ancient Rome](https://classicalwisdom.substack.com/p/top-ten-most-scandalous-women-of)
+
 [^61]: [The Notorious Empress Messalina: Honor Cargill Martin (48 AD) | Travels Through Time](https://www.tttpodcast.com/season-6/the-notorious-empress-messalina-honor-cargill-martin-49-ad)
+
 [^62]: [The Untold Story of Messalina: The most Notorious Woman of the Roman Empire - Intelligence Squared](https://www.intelligencesquared.com/events/the-untold-story-of-messalina-the-most-notorious-woman-of-the-roman-empire/)
+
 [^63]: [The Empress Messalina: Whore or Victim? | History and Archaeology Online](https://historyandarchaeologyonline.com/the-empress-messalina-whore-or-victim/)
+
 [^64]: [Britannicus - Wikipedia](https://en.wikipedia.org/wiki/Britannicus)
+
 [^65]: [Britannicus - World History Encyclopedia](https://www.worldhistory.org/Britannicus/)
+
 [^66]: [Roman Emperors - DIR Britannicus](https://roman-emperors.sites.luc.edu/britty.htm)
+
 [^67]: [Nero - Wikipedia](https://en.wikipedia.org/wiki/Nero)
+
 [^68]: [Death of Britannicus « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/curiosities/death-of-britannicus/)
+
 [^69]: [Emperor Nero Allegedly Murdered His Step-Brother - The Historian's Hut](https://thehistorianshut.com/2022/11/09/emperor-nero-allegedly-murdered-his-step-brother/)
+
 [^70]: [Britannicus « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/biographies/britannicus/)
+
 [^71]: [Nero: A Mother's Son - Memoria Press: Classical Education](https://www.memoriapress.com/articles/nero-a-mothers-son/)
+
 [^72]: [Romans in Britain - Biography of Valeria Messalina, wife of Emperer Claudius](https://www.romanobritain.org/3_bio/bio_messalina.php)
+
 [^73]: [Claudius's Wives: the Nymphomaniac Messalina and the Schemer Agrippina | Early European History And Religion — Facts and Details](https://europe.factsanddetails.com/article/entry-1132.html)
+
 [^74]: [Wives of Claudius – I, Cladius](https://www.i-claudius.com/wives-of-claudius/)
+
 [^75]: [Roman Emperors - DIR Valeria Messalina (Wife of Claudius)](https://roman-emperors.sites.luc.edu/valmess.htm)
+
 [^76]: [Tiberius Claudius, married to Messalina and Agrippina, was not so bad a Roman emperor as Seneca wrote](https://www.stone-ideas.com/70983/tiberius-claudius-not-so-bad-a-roman-emperor/)
+
 [^77]: [Messalina, Valeria (c. 23–48 CE) | Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/messalina-valeria-c-23-48-ce)
+
 [^78]: [The death of Claudius - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1279685/)
+
 [^79]: [A Neurological Mystery from History: The Case of Claudius Caesar](https://www.researchgate.net/publication/45186189_A_Neurological_Mystery_from_History_The_Case_of_Claudius_Caesar)
+
 [^80]: [The death of Claudius - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1279685/)
+
 [^81]: [Claudius » Tom Shakespeare](https://farmerofthoughts.co.uk/collected_pieces/claudius-stale/)
+
 [^82]: [(PDF) Emperor Claudius I: the man, his physical impairment, and reactions to it by Keith Armstrong](https://www.academia.edu/4779256/Emperor_Claudius_I_the_man_his_physical_impairment_and_reactions_to_it_by_Keith_Armstrong)
+
 [^83]: [Emperor Claudius' Neuropsychiatric Presentation: From Tics to Behavioral Symptoms | The Journal of Neuropsychiatry and Clinical Neurosciences](https://psychiatryonline.org/doi/10.1176/appi.neuropsych.13070163)
+
 [^84]: [Titus Livius (Livy) | UNRV Roman History](https://www.unrv.com/culture/livy.php)
+
 [^85]: [10 pieces of wisdom from Roman emperors - Big Think](https://bigthink.com/the-past/10-quotes-roman-emperors/)
+
 [^86]: [I, Claudius (1937) - Quotes - IMDb](https://www.imdb.com/title/tt0028723/quotes/)
+
 [^87]: [Claudius Quotes - BrainyQuote](https://www.brainyquote.com/authors/claudius-quotes)
+
 [^88]: [I, Claudius Quotes by Robert Graves](https://www.goodreads.com/work/quotes/4232388-i-claudius)
+
 [^89]: [Greatest Quotes from Roman Emperors | Mental Itch](https://mentalitch.com/greatest-quotes-from-roman-emperors/)
+
 [^90]: [Emperors Quotations | Famous People's Quotes](https://www.quotes.stevenredhead.com/ancient/Emperors.html)
+
 [^91]: [Claudius (-2054), Roman Leader, inspiring quotations, biography, related authors and quotes, and quotes about at Quote.org](https://quote.org/author/claudius)
+
 [^92]: [TOP 10 QUOTES BY CLAUDIUS | A-Z Quotes](https://www.azquotes.com/author/37769-Claudius)
+
 [^93]: ["I, Claudius" Old King Log (TV Episode 1976) - Quotes - IMDb](https://www.imdb.com/title/tt1255278/quotes/)
+
 [^94]: [Roman Empire Quotes (65 quotes)](https://www.goodreads.com/quotes/tag/roman-empire)
+
 [^95]: [Scholarly sources - Roman Republic and Empire - Research Guides at CSU Pueblo Library at Colorado State University - Pueblo](https://guides.library.csupueblo.edu/rome/scholarly)
+
 [^96]: [I, Claudius - Wikipedia](https://en.wikipedia.org/wiki/I,_Claudius)
+
 [^97]: [Amazon.com: Claudius (Roman Imperial Biographies): 9780415166195: Levick, Barbara: Books](https://www.amazon.com/Claudius-Imperial-Biographies-Barbara-Levick/dp/0415166195)
+
 [^98]: [Amazon.com: Claudius: A Life From Beginning to End (Roman Emperors): 9781798126639: History, Hourly: Books](https://www.amazon.com/Claudius-Life-Beginning-Hourly-History/dp/179812663X)
+
 [^99]: [I, Claudius by Robert Graves | Research Starters | EBSCO Research](https://www.ebsco.com/research-starters/literature-and-writing/i-claudius-robert-graves)
+
 [^100]: [Emperor Claudius: 14 Facts about an Unlikely Hero | TheCollector](https://www.thecollector.com/emperor-claudius/)
+
 [^101]: [Caligula: The Worst Roman Emperor](https://www.worldatlas.com/ancient-world/caligula-the-worst-roman-emperor.html)
+
 [^102]: [Nero Claudius, the worst and craziest Emperor of Rome, but was he all that bad? | History Forum](https://historum.com/t/nero-claudius-the-worst-and-craziest-emperor-of-rome-but-was-he-all-that-bad.177253/)
+
 [^103]: [Claudius - History for kids](https://www.historyforkids.net/claudius.html)
+
 [^104]: [Io Saturnalia! « IMPERIUM ROMANUM](https://imperiumromanum.pl/en/curiosities/io-saturnalia/)
+
 [^105]: [Claudius Gothicus - Wikipedia](https://en.wikipedia.org/wiki/Claudius_Gothicus)
+
 [^106]: [Emperor of the Roman Empire, Claudius Biography | UNRV](https://www.unrv.com/early-empire/claudius.php)
+
 [^107]: [I Claudius by Robert Graves, Novel Study](https://www.goodreads.com/work/quotes/4232388-i-claudius)
+
 [^108]: [Emperor Claudius Educational Resources](https://www.storyboardthat.com/biography/claudius)
+
 [^109]: [Roman History Academic Research](https://guides.library.csupueblo.edu/rome/scholarly)
+
 [^110]: [Modern Historiography Claudius](https://roman-emperors.sites.luc.edu/claudius.htm)
+
 [^111]: [Barbara Levick Claudius Biography](https://www.amazon.com/Claudius-Imperial-Biographies-Barbara-Levick/dp/0415166195)
+
 [^112]: [Claudius Historical Legacy Assessment](https://romanempirehistory.com/roman-emperors/emperor-claudius/)
+
 [^113]: [Claudius Principate Significance](https://rome.us/roman-emperors/claudius.html)
+
 [^114]: [Claudius Governance and Administration](https://www.romanemperors.com/blog/claudius-the-unexpected-emperor-and-his-surprising-achievements)
+
 [^115]: [Ancient Sources Bias Against Claudius](https://www.dailyhistory.org/Was_Claudius_an_effective_Roman_Emperor)
+
 [^116]: [Claudius Freedmen Administration](https://ancientromanhistory31-14.com/home/claudius/household-administration/)
+
 [^117]: [Claudius Leadership Legacy](https://romanempirehistory.com/roman-emperors/emperor-claudius/)
+
 [^118]: [Claudius Disability Studies Perspective](https://farmerofthoughts.co.uk/collected_pieces/claudius-stale/)
+
 [^119]: [Claudius Character Assessment](https://www.romanemperors.com/blog/claudius-the-unexpected-emperor-and-his-surprising-achievements)
+
 [^120]: [Claudius Executions Historical Record](https://historum.com/t/what-were-some-of-emperor-claudiuss-worst-moves.58804/)
+
 [^121]: [Claudius Judicial Misconduct](https://roman-emperors.sites.luc.edu/claudius.htm)
+
 [^122]: [Claudius Wives Freedmen Influence](https://www.dailyhistory.org/Was_Claudius_an_effective_Roman_Emperor)
+
 [^123]: [Claudius Succession Failure Nero](https://www.britannica.com/biography/Nero-Roman-emperor)
+
 [^124]: [Britain Invasion Strategic Assessment](https://historum.com/t/what-were-some-of-emperor-claudiuss-worst-moves.58804/)
+
 [^125]: [Claudius Administrative Corruption](https://imperiumromanum.pl/en/curiosities/two-ministers-of-emperor-claudius/)
+
 [^126]: [Claudius Death Circumstances](https://pmc.ncbi.nlm.nih.gov/articles/PMC1279685/)
+
 [^127]: [Claudius Political Judgment Failures](https://www.britannica.com/biography/Claudius-Roman-emperor)
+
 [^128]: [Ancient Sources Historical Value](https://www.ancient-history-sites.com/roman/emperors/claudius/)
+
 [^129]: [Claudius Balanced Historical Assessment](https://www.worldhistory.org/claudius/)

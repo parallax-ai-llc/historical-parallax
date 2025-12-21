@@ -144,7 +144,7 @@ Imran Khan's personal life has been as scrutinized and controversial as his prof
 
 ### Marriages
 
-**Jemima Goldsmith (1995-2004)**: Khan's first marriage, on May 16, 1995, was to Jemima Goldsmith, daughter of British billionaire financier Sir James Goldsmith.[^83] The marriage captured international attention due to the stark cultural differences—Jemima was 21 and Jewish by heritage (though she converted to Islam), while Khan was 42 and a Pakistani Muslim seeking to establish himself politically.[^84] The couple had two sons, Sulaiman Isa Khan (born 1996) and Kasim Khan (born 1999).[^85] 
+**Jemima Goldsmith (1995-2004)**: Khan's first marriage, on May 16, 1995, was to Jemima Goldsmith, daughter of British billionaire financier Sir James Goldsmith.[^83] The marriage captured international attention due to the stark cultural differences—Jemima was 21 and Jewish by heritage (though she converted to Islam), while Khan was 42 and a Pakistani Muslim seeking to establish himself politically.[^84] The couple had two sons, Sulaiman Isa Khan (born 1996) and Kasim Khan (born 1999).[^85]
 
 The marriage proved difficult, with Jemima struggling to adapt to life in Pakistan amid intense media scrutiny and cultural challenges.[^86] Khan himself described the marriage as "tough."[^87] They divorced on June 22, 2004, after nine years of marriage, with Jemima returning to the UK with their sons.[^88] Despite the divorce, Jemima has remained supportive of Khan, particularly during his recent legal troubles, describing him as a devoted father and defending him against corruption allegations.[^89]
 
@@ -228,32 +228,32 @@ International observers note that Khan's foreign policy, while rhetorically inde
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1952 | Born on October 5 in Lahore, Pakistan |
-| 1971 | Made Test cricket debut for Pakistan |
-| 1974 | Captained Oxford University cricket team; made ODI debut |
-| 1975 | Graduated from Keble College, Oxford with degree in PPE |
-| 1982 | Appointed captain of Pakistan cricket team |
-| 1985 | Mother Shaukat Khanum died of cancer |
-| 1987 | Led Pakistan to first Test series victories in India and England |
-| 1992 | Captained Pakistan to Cricket World Cup victory; retired from cricket |
-| 1994 | Shaukat Khanum Memorial Cancer Hospital opened in Lahore |
-| 1995 | Married Jemima Goldsmith on May 16 |
-| 1996 | Founded Pakistan Tehreek-e-Insaf (PTI) political party |
-| 2002 | Elected to National Assembly for the first time |
-| 2004 | Divorced Jemima Goldsmith on June 22 |
-| 2008 | Founded Namal University in Mianwali |
-| 2009 | Inducted into ICC Cricket Hall of Fame |
-| 2011 | Held massive rally in Lahore, marking PTI's emergence as major political force |
-| 2013 | PTI became third-largest party in National Assembly elections |
-| 2015 | Married Reham Khan on January 8; divorced October 30 |
-| 2018 | Married Bushra Bibi on February 18; became Prime Minister on August 18 |
-| 2019 | Opened Kartarpur Corridor for Indian Sikh pilgrims |
-| 2022 | Visited Moscow on February 24 (day of Ukraine invasion); removed as Prime Minister through no-confidence vote on April 10 |
-| 2023 | First arrest on May 9 (deemed unlawful); second arrest and imprisonment beginning August 5 |
+| Year | Event                                                                                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1952 | Born on October 5 in Lahore, Pakistan                                                                                                                             |
+| 1971 | Made Test cricket debut for Pakistan                                                                                                                              |
+| 1974 | Captained Oxford University cricket team; made ODI debut                                                                                                          |
+| 1975 | Graduated from Keble College, Oxford with degree in PPE                                                                                                           |
+| 1982 | Appointed captain of Pakistan cricket team                                                                                                                        |
+| 1985 | Mother Shaukat Khanum died of cancer                                                                                                                              |
+| 1987 | Led Pakistan to first Test series victories in India and England                                                                                                  |
+| 1992 | Captained Pakistan to Cricket World Cup victory; retired from cricket                                                                                             |
+| 1994 | Shaukat Khanum Memorial Cancer Hospital opened in Lahore                                                                                                          |
+| 1995 | Married Jemima Goldsmith on May 16                                                                                                                                |
+| 1996 | Founded Pakistan Tehreek-e-Insaf (PTI) political party                                                                                                            |
+| 2002 | Elected to National Assembly for the first time                                                                                                                   |
+| 2004 | Divorced Jemima Goldsmith on June 22                                                                                                                              |
+| 2008 | Founded Namal University in Mianwali                                                                                                                              |
+| 2009 | Inducted into ICC Cricket Hall of Fame                                                                                                                            |
+| 2011 | Held massive rally in Lahore, marking PTI's emergence as major political force                                                                                    |
+| 2013 | PTI became third-largest party in National Assembly elections                                                                                                     |
+| 2015 | Married Reham Khan on January 8; divorced October 30                                                                                                              |
+| 2018 | Married Bushra Bibi on February 18; became Prime Minister on August 18                                                                                            |
+| 2019 | Opened Kartarpur Corridor for Indian Sikh pilgrims                                                                                                                |
+| 2022 | Visited Moscow on February 24 (day of Ukraine invasion); removed as Prime Minister through no-confidence vote on April 10                                         |
+| 2023 | First arrest on May 9 (deemed unlawful); second arrest and imprisonment beginning August 5                                                                        |
 | 2024 | Convicted in multiple cases including Toshakhana, cypher, and iddat cases; PTI-backed candidates won most seats in February elections despite Khan's imprisonment |
-| 2025 | Sentenced with wife to 17 years in Al-Qadir Trust corruption case; remains imprisoned |
+| 2025 | Sentenced with wife to 17 years in Al-Qadir Trust corruption case; remains imprisoned                                                                             |
 
 ---
 
@@ -278,149 +278,295 @@ International observers note that Khan's foreign policy, while rhetorically inde
 ## References
 
 [^1]: [Pakistan PM Imran Khan gone after losing no-confidence vote | Al Jazeera](https://www.aljazeera.com/news/2022/4/9/pakistan-prime-minister-imran-khan-no-confidence-vote)
+
 [^2]: [Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan)
+
 [^3]: [Imran Khan's Humanitarian Legacy Uplifting Pakistan's Poor - The Borgen Project](https://borgenproject.org/uplifting-pakistans-poor/)
+
 [^4]: [Arrest of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan)
+
 [^5]: [Imran Khan | Pakistan, Biography, Cricketer, Prime Minister, & PTI | Britannica](https://www.britannica.com/biography/Imran-Khan)
+
 [^6]: [Imran Khan Biography - Facts, Childhood, Family Life & Achievements](https://www.thefamouspeople.com/profiles/imran-khan-niazi-1668.php)
+
 [^7]: [The Life of Imran Khan | History](https://vocal.media/history/the-life-of-imran-khan)
+
 [^8]: [Learn Imran Khan facts for kids](https://kids.kiddle.co/Imran_Khan)
+
 [^9]: [Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan)
+
 [^10]: [Imran Khan | Pakistan, Biography, Cricketer, Prime Minister, & PTI | Britannica](https://www.britannica.com/biography/Imran-Khan)
+
 [^11]: [Imran Khan's Humanitarian Work - Insaf Blog](https://insaf.pk/blog/imran-khans-humanitarian-work-insaf-blog)
+
 [^12]: [Imran Khan Profile - Cricket Player Pakistan | Stats, Records, Video](https://www.espncricinfo.com/cricketers/imran-khan-40560)
+
 [^13]: [ICC Hall of Famers | ICC](https://www.icc-cricket.com/hall-of-fame/hall-of-famers/hall-of-famer-imran-khan)
+
 [^14]: [The 1992 World Cup - an ambition fulfilled for Pakistan | ESPNcricinfo](https://www.espncricinfo.com/story/the-1992-world-cup-an-ambition-fulfilled-for-pakistan-119141)
+
 [^15]: [1992 Cricket World Cup final - Wikipedia](https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_final)
+
 [^16]: [The miracle of '92](https://www.thecricketmonthly.com/story/793785/the-miracle-of--92)
+
 [^17]: [When Pakistan won the 1992 World Cup like cornered tigers](https://www.cricket.com/news/when-pakistan-won-the-1992-world-cup-like-cornered-tigers-3252024-1711363964347)
+
 [^18]: [Imran Khan and the Cricket World Cup of 1992 | Medium](https://medium.com/@amberdilawer/imran-khan-and-the-cricket-world-cup-of-1992-b451410dc6f8)
+
 [^19]: [Imran Khan's Legacy, the captain of 1992 world cup winning team](https://www.meavana.com/blogs/unforgettable-captaincy-imran-khan-s-legacy-beyond-championships)
+
 [^20]: [ICC Hall of Famers | ICC](https://www.icc-cricket.com/hall-of-fame/hall-of-famers/hall-of-famer-imran-khan)
+
 [^21]: [Pakistan Tehreek-e-Insaf - Wikipedia](https://en.wikipedia.org/wiki/Pakistan_Tehreek-e-Insaf)
+
 [^22]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^23]: [Imran Khan: From Cricket Hero to Political Icon | History](https://vocal.media/history/imran-khan-from-cricket-hero-to-political-icon-311xui0u4i)
+
 [^24]: [Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan)
+
 [^25]: [Who is Imran Khan? - News, Cricket, Politics and Career](https://www.business-standard.com/about/who-is-imran-khan)
+
 [^26]: [Imran Khan - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Imran_Khan)
+
 [^27]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unraveling-pakistans-political-drama/)
+
 [^28]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^29]: [Premiership of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Premiership_of_Imran_Khan)
+
 [^30]: [Imran Khan | Pakistan Tehreek-e-Insaf](https://insaf.pk/leadership/imran-khan)
+
 [^31]: [Imran Khan government - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan_government)
+
 [^32]: [Premiership of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Premiership_of_Imran_Khan)
+
 [^33]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unraveling-pakistans-political-drama/)
+
 [^34]: [Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan)
+
 [^35]: [ICC Hall of Famers | ICC](https://www.icc-cricket.com/hall-of-fame/hall-of-famers/hall-of-famer-imran-khan)
+
 [^36]: [ICC Hall of Famers | ICC](https://www.icc-cricket.com/hall-of-fame/hall-of-famers/hall-of-famer-imran-khan)
+
 [^37]: [Imran Khan Profile - Cricket Player Pakistan | Stats, Records, Video](https://www.espncricinfo.com/cricketers/imran-khan-40560)
+
 [^38]: [The 1992 World Cup - an ambition fulfilled for Pakistan | ESPNcricinfo](https://www.espncricinfo.com/story/the-1992-world-cup-an-ambition-fulfilled-for-pakistan-119141)
+
 [^39]: [Imran Khan's Humanitarian Legacy Uplifting Pakistan's Poor - The Borgen Project](https://borgenproject.org/uplifting-pakistans-poor/)
+
 [^40]: [The Imran Khan as Social Worker! - Republic Policy](https://republicpolicy.com/the-imran-khan-as-social-worker/)
+
 [^41]: [Shaukat Khanum Memorial Trust | Benevity Causes](https://causes.benevity.org/causes/586-5788277658223_206b)
+
 [^42]: [About Us - Shaukat Khanum Memorial Cancer Hospital](https://shaukatkhanum.org.pk/about-us/)
+
 [^43]: [Imran Khan | Cricket & Philanthropy | Imran Khan Cancer Appeal](https://www.ikca.org.uk/about-ikca/imran-khan/)
+
 [^44]: [Imran Khan's Humanitarian Work - Insaf Blog](https://insaf.pk/blog/imran-khans-humanitarian-work-insaf-blog)
+
 [^45]: [Imran Khan's Humanitarian Legacy Uplifting Pakistan's Poor - The Borgen Project](https://borgenproject.org/uplifting-pakistans-poor/)
+
 [^46]: [Former Prime Minister Imran Khan's 101 Biggest Achievements | PTI](https://insaf.pk/tabdeeli-ka-safar/101-biggest-achievements-imran-khans-government)
+
 [^47]: [Former Prime Minister Imran Khan's 101 Biggest Achievements | PTI](https://insaf.pk/tabdeeli-ka-safar/101-biggest-achievements-imran-khans-government)
+
 [^48]: [Imran Khan | 5 Powerful Achievements of Pakistan's Leader](https://starxbio.com/imran-khan/)
+
 [^49]: [Former Prime Minister Imran Khan's 101 Biggest Achievements | PTI](https://insaf.pk/tabdeeli-ka-safar/101-biggest-achievements-imran-khans-government)
+
 [^50]: [Premiership of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Premiership_of_Imran_Khan)
+
 [^51]: [One Year in Office: Revisiting Imran Khan's Foreign Policy - CSCR](https://cscr.pk/explore/publications/assorted-readings/one-year-in-office-revisiting-imran-khans-foreign-policy/)
+
 [^52]: [Imran Khan's Foreign Policy Was Full of Contradictions - Inkstick](https://inkstickmedia.com/imran-khans-foreign-policy-was-full-of-contradictions/)
+
 [^53]: [Overview of Imran Khan's Foreign Policy - CISS Pakistan](https://ciss.org.pk/overview-of-imran-khans-foreign-policy/)
+
 [^54]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unraveling-pakistans-political-drama/)
+
 [^55]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^56]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^57]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unravaling-pakistans-political-drama/)
+
 [^58]: [No-confidence motion against Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/No-confidence_motion_against_Imran_Khan)
+
 [^59]: [Imran Khan's Fall: Political and Security Implications for Pakistan | International Crisis Group](https://www.crisisgroup.org/asia-pacific/pakistan/imran-khans-fall-political-and-security-implications-pakistan)
+
 [^60]: [What led to leader Imran Khan's downfall in Pakistan? | Al Jazeera](https://www.aljazeera.com/news/2022/4/9/analysis-end-of-imran-khans-term)
+
 [^61]: [Imran Khan's Fall: Political and Security Implications for Pakistan | International Crisis Group](https://www.crisisgroup.org/asia-pacific/pakistan/imran-khans-fall-political-and-security-implications-pakistan)
+
 [^62]: [What led to leader Imran Khan's downfall in Pakistan? | Al Jazeera](https://www.aljazeera.com/news/2022/4/9/analysis-end-of-imran-khans-term)
+
 [^63]: [Arrest of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan)
+
 [^64]: [Former Pakistani PM Imran Khan arrested at Islamabad court | Al Jazeera](https://www.aljazeera.com/news/2023/5/9/former-pakistan-pm-imran-khan-arrested-outside-islamabad-court)
+
 [^65]: [Arrest of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan)
+
 [^66]: [Pakistan's former Prime Minister Imran Khan sentenced to 14 years in jail for corruption | Euronews](https://www.euronews.com/2025/01/17/pakistans-former-prime-minister-imran-khan-sentenced-to-14-years-in-jail-for-corruption)
+
 [^67]: [Former Pakistani Prime Minister Imran Khan and wife sentenced to 17 years in graft case | PBS News](https://www.pbs.org/newshour/world/former-pakistani-prime-minister-imran-khan-and-wife-sentenced-to-17-years-in-graft-case)
+
 [^68]: [Al-Qadir Trust case - Wikipedia](https://en.wikipedia.org/wiki/Al-Qadir_Trust_case)
+
 [^69]: [Ex-Pakistan PM Imran Khan and wife sentenced to 17 years in corruption case | Al Jazeera](https://www.aljazeera.com/news/2025/12/20/ex-pakistan-pm-imran-khan-wife-sentenced-to-17-years-in-corruption-case)
+
 [^70]: [Pakistan: Imran Khan Faces Legal Charges as Elections Approach](https://foreignpolicy.com/2023/04/05/pakistan-imran-khan-court-cases-elections-corruption/)
+
 [^71]: [Arrest of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan)
+
 [^72]: [Arrest of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan)
+
 [^73]: [Opinion No. 22/2024 concerning Imran Ahmad Khan Niazi](https://www.ohchr.org/sites/default/files/documents/issues/detention-wg/opinions/session99/a-hrc-wgad-2024-22-pakistan-aev.pdf)
+
 [^74]: [Imran Khan's Foreign Policy Was Full of Contradictions - Inkstick](https://inkstickmedia.com/imran-khans-foreign-policy-was-full-of-contradictions/)
+
 [^75]: [One Year in Office: Revisiting Imran Khan's Foreign Policy - CSCR](https://cscr.pk/explore/publications/assorted-readings/one-year-in-office-revisiting-imran-khans-foreign-policy/)
+
 [^76]: [Imran Khan's Foreign Policy Was Full of Contradictions - Inkstick](https://inkstickmedia.com/imran-khans-foreign-policy-was-full-of-contradictions/)
+
 [^77]: [Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan)
+
 [^78]: [Premiership of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Premiership_of_Imran_Khan)
+
 [^79]: [Imran Khan's Fall: Political and Security Implications for Pakistan | International Crisis Group](https://www.crisisgroup.org/asia-pacific/pakistan/imran-khans-fall-political-and-security-implications-pakistan)
+
 [^80]: [What led to leader Imran Khan's downfall in Pakistan? | Al Jazeera](https://www.aljazeera.com/news/2022/4/9/analysis-end-of-imran-khans-term)
+
 [^81]: [Imran Khan's Fall: Political and Security Implications for Pakistan | International Crisis Group](https://www.crisisgroup.org/asia-pacific/pakistan/imran-khans-fall-political-and-security-implications-pakistan)
+
 [^82]: [What led to leader Imran Khan's downfall in Pakistan? | Al Jazeera](https://www.aljazeera.com/news/2022/4/9/analysis-end-of-imran-khans-term)
+
 [^83]: [Family of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Imran_Khan)
+
 [^84]: [Imran and Jemima: A Love Across Continents, A Life Across Battles | Art](https://vocal.media/art/imran-and-jemima-a-love-across-continents-a-life-across-battles)
+
 [^85]: [Imran Khan is sentenced to jail, a look at his marriage to Jemima Goldsmith and kids](https://www.nationalworld.com/news/world/imran-khan-and-wife-bushra-bibi-are-sentenced-to-jail-when-was-he-married-to-jemima-khan-does-he-have-kids-4948438)
+
 [^86]: [Family of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Imran_Khan)
+
 [^87]: [Imran Khan Wife | OneCricket](https://cricket.one/imran-khan/imran-khan-wife/65ba271f68e37ae27dde9052)
+
 [^88]: [Family of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Imran_Khan)
+
 [^89]: [Imran and Jemima: A Love Across Continents, A Life Across Battles | Art](https://vocal.media/art/imran-and-jemima-a-love-across-continents-a-life-across-battles)
+
 [^90]: [Imran Khan's Three Wives: Pakistan's Ex-PM Was Married To Bushra Bibi, Reham Khan, Jemina Goldsmith](https://www.bollywoodshaadis.com/articles/imran-khan-three-wives-pakistan-ex-pm-two-divorces-five-bushra-bibi-illegitimate-kids-al-qadir-59979)
+
 [^91]: [Meet Imran Khan's Three Wives: From Jemima Goldsmith to Bushra Maneka](https://www.dnaindia.com/world/photo-gallery-meet-imran-khan-s-three-wives-from-jemima-goldsmith-to-bushra-maneka-here-s-all-you-need-to-know-about-his-relationships-3190668)
+
 [^92]: [How many wives and children does Imran Khan have? – Divorce Central](https://divorcentral.com/how-many-wives-and-children-does-imran-khan-have/)
+
 [^93]: [Imran Khan's Three Wives: Pakistan's Ex-PM Was Married To Bushra Bibi, Reham Khan, Jemina Goldsmith](https://www.bollywoodshaadis.com/articles/imran-khan-three-wives-pakistan-ex-pm-two-divorces-five-bushra-bibi-illegitimate-kids-al-qadir-59979)
+
 [^94]: [Family of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Family_of_Imran_Khan)
+
 [^95]: [Who is Bushra Bibi? Imran Khan's third wife, leading protest in Pakistan | World News](https://www.business-standard.com/world-news/who-is-bushra-bibi-imran-khan-s-third-wife-leading-protest-in-pakistan-124112700352_1.html)
+
 [^96]: [Arrest of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan)
+
 [^97]: [Arrest of Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Arrest_of_Imran_Khan)
+
 [^98]: [Who is Bushra Bibi? Imran Khan's third wife, leading protest in Pakistan | World News](https://www.business-standard.com/world-news/who-is-bushra-bibi-imran-khan-s-third-wife-leading-protest-in-pakistan-124112700352_1.html)
+
 [^99]: [Dozens of affairs, children outside wedlock, three marriages... : Imran Khan's controversial personal life](https://www.india.com/viral/dozens-of-affairs-children-outside-wedlock-three-marriages-imran-khan-controversial-personal-life-was-in-love-with-famous-indian-actress-rekha-8205094/)
+
 [^100]: [Imran Khan's Three Wives: Pakistan's Ex-PM Was Married To Bushra Bibi, Reham Khan, Jemina Goldsmith](https://www.bollywoodshaadis.com/articles/imran-khan-three-wives-pakistan-ex-pm-two-divorces-five-bushra-bibi-illegitimate-kids-al-qadir-59979)
+
 [^101]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^102]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^103]: [Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan)
+
 [^104]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unraveling-pakistans-political-drama/)
+
 [^105]: [ICC Hall of Famers | ICC](https://www.icc-cricket.com/hall-of-fame/hall-of-famers/hall-of-famer-imran-khan)
+
 [^106]: [The 1992 World Cup - an ambition fulfilled for Pakistan | ESPNcricinfo](https://www.espncricinfo.com/story/the-1992-world-cup-an-ambition-fulfilled-for-pakistan-119141)
+
 [^107]: [Imran Khan's Humanitarian Legacy Uplifting Pakistan's Poor - The Borgen Project](https://borgenproject.org/uplifting-pakistans-poor/)
+
 [^108]: [About Us - Shaukat Khanum Memorial Cancer Hospital](https://shaukatkhanum.org.pk/about-us/)
+
 [^109]: [The Imran Khan as Social Worker! - Republic Policy](https://republicpolicy.com/the-imran-khan-as-social-worker/)
+
 [^110]: [The Imran Khan Factor in Pakistan's Politics](https://intpolicydigest.org/the-platform/the-imran-khan-factor-in-pakistan-s-politics/)
+
 [^111]: [Imran Khan: The Revolutionary Leader Transforming Pakistan's Future with Visionary Leadership | History](https://vocal.media/history/imran-khan-the-revolutionary-leader-transforming-pakistan-s-future-with-visionary-leadership)
+
 [^112]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unraveling-pakistans-political-drama/)
+
 [^113]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^114]: [The Imran Khan Factor in Pakistan's Politics](https://intpolicydigest.org/the-platform/the-imran-khan-factor-in-pakistan-s-politics/)
+
 [^115]: [Imran Khan - Wikipedia](https://en.wikipedia.org/wiki/Imran_Khan)
+
 [^116]: [The Imran Khan Factor in Pakistan's Politics](https://intpolicydigest.org/the-platform/the-imran-khan-factor-in-pakistan-s-politics/)
+
 [^117]: [The Imran Khan Factor in Pakistan's Politics](https://intpolicydigest.org/the-platform/the-imran-khan-factor-in-pakistan-s-politics/)
+
 [^118]: [Imran Khan's Fall: Political and Security Implications for Pakistan | International Crisis Group](https://www.crisisgroup.org/asia-pacific/pakistan/imran-khans-fall-political-and-security-implications-pakistan)
+
 [^119]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unraveling-pakistans-political-drama/)
+
 [^120]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^121]: [Imran Khan: The Revolutionary Leader Transforming Pakistan's Future with Visionary Leadership | History](https://vocal.media/history/imran-khan-the-revolutionary-leader-transforming-pakistan-s-future-with-visionary-leadership)
+
 [^122]: [Imran Khan | Pakistan Tehreek-e-Insaf](https://insaf.pk/leadership/imran-khan)
+
 [^123]: [Imran Khan's Humanitarian Legacy Uplifting Pakistan's Poor - The Borgen Project](https://borgenproject.org/uplifting-pakistans-poor/)
+
 [^124]: [Imran Khan's Humanitarian Work - Insaf Blog](https://insaf.pk/blog/imran-khans-humanitarian-work-insaf-blog)
+
 [^125]: [Former Prime Minister Imran Khan's 101 Biggest Achievements | PTI](https://insaf.pk/tabdeeli-ka-safar/101-biggest-achievements-imran-khans-government)
+
 [^126]: [Former Prime Minister Imran Khan's 101 Biggest Achievements | PTI](https://insaf.pk/tabdeeli-ka-safar/101-biggest-achievements-imran-khans-government)
+
 [^127]: [The Imran Khan Factor in Pakistan's Politics](https://intpolicydigest.org/the-platform/the-imran-khan-factor-in-pakistan-s-politics/)
+
 [^128]: [Opinion No. 22/2024 concerning Imran Ahmad Khan Niazi](https://www.ohchr.org/sites/default/files/documents/issues/detention-wg/opinions/session99/a-hrc-wgad-2024-22-pakistan-aev.pdf)
+
 [^129]: [Overview of Imran Khan's Foreign Policy - CISS Pakistan](https://ciss.org.pk/overview-of-imran-khans-foreign-policy/)
+
 [^130]: [Imran Khan and the Dance of Democracy: Unraveling Pakistan's Political Drama - JURIST](https://www.jurist.org/commentary/2024/04/imran-khan-and-the-dance-of-democracy-unraveling-pakistans-political-drama/)
+
 [^131]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^132]: [Imran Khan's Fall: Political and Security Implications for Pakistan | International Crisis Group](https://www.crisisgroup.org/asia-pacific/pakistan/imran-khans-fall-political-and-security-implications-pakistan)
+
 [^133]: [What led to leader Imran Khan's downfall in Pakistan? | Al Jazeera](https://www.aljazeera.com/news/2022/4/9/analysis-end-of-imran-khans-term)
+
 [^134]: [Imran Khan's Fall: Political and Security Implications for Pakistan | International Crisis Group](https://www.crisisgroup.org/asia-pacific/pakistan/imran-khans-fall-political-and-security-implications-pakistan)
+
 [^135]: [Imran Khan's Foreign Policy Was Full of Contradictions - Inkstick](https://inkstickmedia.com/imran-khans-foreign-policy-was-full-of-contradictions/)
+
 [^136]: [Dozens of affairs, children outside wedlock, three marriages... : Imran Khan's controversial personal life](https://www.india.com/viral/dozens-of-affairs-children-outside-wedlock-three-marriages-imran-khan-controversial-personal-life-was-in-love-with-famous-indian-actress-rekha-8205094/)
+
 [^137]: [Making sense of Imran Khan's politics and the limits of secular liberalism](https://blogs.lse.ac.uk/religionglobalsociety/2025/02/making-sense-of-imran-khans-politics-and-the-limits-of-secular-liberalism/)
+
 [^138]: [Al-Qadir Trust case - Wikipedia](https://en.wikipedia.org/wiki/Al-Qadir_Trust_case)
+
 [^139]: [Pakistan: Imran Khan Faces Legal Charges as Elections Approach](https://foreignpolicy.com/2023/04/05/pakistan-imran-khan-court-cases-elections-corruption/)
+
 [^140]: [Imran Khan's Foreign Policy Was Full of Contradictions - Inkstick](https://inkstickmedia.com/imran-khans-foreign-policy-was-full-of-contradictions/)
+
 [^141]: [Imran Khan Quotes (Author of Pakistan)](https://www.goodreads.com/author/quotes/399523.Imran_Khan)
+
 [^142]: [TOP 25 QUOTES BY IMRAN KHAN (of 75) | A-Z Quotes](https://www.azquotes.com/author/7971-Imran_Khan)
+
 [^143]: [Imran Khan Quotes - BrainyQuote](https://www.brainyquote.com/authors/imran-khan-quotes)
+
 [^144]: [5 quotes from Pakistan's Prime Minister at Davos | World Economic Forum](https://www.weforum.org/stories/2020/01/5-key-quotes-from-pakistans-prime-minister-imran-khan-at-davos/)
+
 [^145]: [TOP 25 QUOTES BY IMRAN KHAN (of 75) | A-Z Quotes](https://www.azquotes.com/author/7971-Imran_Khan)
+
 [^146]: [32 Famous Quotes By Imran Khan, The Celebrated Pakistani Cricketer And Politician](https://www.wisdomly.net/imran-khan-1668.php)
+
 [^147]: [When Pakistan won the 1992 World Cup like cornered tigers](https://www.cricket.com/news/when-pakistan-won-the-1992-world-cup-like-cornered-tigers-3252024-1711363964347)

@@ -244,37 +244,37 @@ Historians note that Clinton, despite his considerable political talents, failed
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1946 | Born William Jefferson Blythe III in Hope, Arkansas (August 19) |
-| 1950 | Mother marries Roger Clinton; family moves to Hot Springs, Arkansas |
-| 1963 | Meets President John F. Kennedy as Boys Nation delegate |
-| 1964 | Enrolls at Georgetown University |
-| 1968 | Graduates from Georgetown; wins Rhodes Scholarship to Oxford University |
-| 1970 | Attends Yale Law School |
-| 1973 | Graduates from Yale Law School; begins teaching at University of Arkansas |
-| 1974 | Loses congressional race to John Paul Hammerschmidt |
-| 1975 | Marries Hillary Rodham (October 11) |
-| 1976 | Elected Attorney General of Arkansas |
-| 1978 | Elected Governor of Arkansas at age 32 |
-| 1980 | Daughter Chelsea Victoria Clinton born (February 27); loses gubernatorial reelection |
-| 1982 | Reclaims Arkansas governorship |
-| 1986-1987 | Serves as chair of National Governors Association |
-| 1991 | Announces candidacy for President of the United States (October 3) |
-| 1992 | Elected 42nd President of the United States |
-| 1993 | Signs Family and Medical Leave Act; signs NAFTA; passes Omnibus Budget Reconciliation Act |
-| 1994 | Signs Violent Crime Control and Law Enforcement Act; health care reform fails; Democrats lose Congress in midterm elections |
-| 1995 | Dayton Accords end Bosnian War; relationship with Monica Lewinsky begins |
-| 1996 | Signs welfare reform legislation; wins reelection over Bob Dole |
-| 1998 | Lewinsky scandal becomes public (January); testifies before grand jury (August 17); impeached by House of Representatives (December 19) |
-| 1999 | Acquitted by Senate (February 12); NATO bombing campaign in Kosovo |
-| 2000 | Achieves budget surplus of $236 billion |
-| 2001 | Leaves office (January 20); issues controversial pardons; founds William J. Clinton Foundation |
-| 2004 | Publishes memoir "My Life"; undergoes quadruple bypass surgery |
-| 2005 | Launches Clinton Global Initiative |
-| 2009 | Appointed UN special envoy to Haiti |
-| 2010 | Oversees Haiti earthquake relief efforts; has coronary stents implanted |
-| 2024 | Publishes memoir "Citizen: My Life After the White House" |
+| Year      | Event                                                                                                                                   |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1946      | Born William Jefferson Blythe III in Hope, Arkansas (August 19)                                                                         |
+| 1950      | Mother marries Roger Clinton; family moves to Hot Springs, Arkansas                                                                     |
+| 1963      | Meets President John F. Kennedy as Boys Nation delegate                                                                                 |
+| 1964      | Enrolls at Georgetown University                                                                                                        |
+| 1968      | Graduates from Georgetown; wins Rhodes Scholarship to Oxford University                                                                 |
+| 1970      | Attends Yale Law School                                                                                                                 |
+| 1973      | Graduates from Yale Law School; begins teaching at University of Arkansas                                                               |
+| 1974      | Loses congressional race to John Paul Hammerschmidt                                                                                     |
+| 1975      | Marries Hillary Rodham (October 11)                                                                                                     |
+| 1976      | Elected Attorney General of Arkansas                                                                                                    |
+| 1978      | Elected Governor of Arkansas at age 32                                                                                                  |
+| 1980      | Daughter Chelsea Victoria Clinton born (February 27); loses gubernatorial reelection                                                    |
+| 1982      | Reclaims Arkansas governorship                                                                                                          |
+| 1986-1987 | Serves as chair of National Governors Association                                                                                       |
+| 1991      | Announces candidacy for President of the United States (October 3)                                                                      |
+| 1992      | Elected 42nd President of the United States                                                                                             |
+| 1993      | Signs Family and Medical Leave Act; signs NAFTA; passes Omnibus Budget Reconciliation Act                                               |
+| 1994      | Signs Violent Crime Control and Law Enforcement Act; health care reform fails; Democrats lose Congress in midterm elections             |
+| 1995      | Dayton Accords end Bosnian War; relationship with Monica Lewinsky begins                                                                |
+| 1996      | Signs welfare reform legislation; wins reelection over Bob Dole                                                                         |
+| 1998      | Lewinsky scandal becomes public (January); testifies before grand jury (August 17); impeached by House of Representatives (December 19) |
+| 1999      | Acquitted by Senate (February 12); NATO bombing campaign in Kosovo                                                                      |
+| 2000      | Achieves budget surplus of $236 billion                                                                                                 |
+| 2001      | Leaves office (January 20); issues controversial pardons; founds William J. Clinton Foundation                                          |
+| 2004      | Publishes memoir "My Life"; undergoes quadruple bypass surgery                                                                          |
+| 2005      | Launches Clinton Global Initiative                                                                                                      |
+| 2009      | Appointed UN special envoy to Haiti                                                                                                     |
+| 2010      | Oversees Haiti earthquake relief efforts; has coronary stents implanted                                                                 |
+| 2024      | Publishes memoir "Citizen: My Life After the White House"                                                                               |
 
 ---
 
@@ -301,101 +301,199 @@ Historians note that Clinton, despite his considerable political talents, failed
 ## References
 
 [^1]: [Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
+
 [^2]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^3]: [Impeachment of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton)
+
 [^4]: [Bill Clinton is born | August 19, 1946 | HISTORY](https://www.history.com/this-day-in-history/august-19/bill-clinton-born)
+
 [^5]: [Bill Clinton: Life Before the Presidency | Miller Center](https://millercenter.org/president/clinton/life-before-the-presidency)
+
 [^6]: [Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
+
 [^7]: [Bill Clinton: Life Before the Presidency | Miller Center](https://millercenter.org/president/clinton/life-before-the-presidency)
+
 [^8]: [Bill Clinton | Clinton House Museum](https://clintonhousemuseum.org/bill-clinton/)
+
 [^9]: [Bill Clinton: Life Before the Presidency | Miller Center](https://millercenter.org/president/clinton/life-before-the-presidency)
+
 [^10]: [Bill Clinton: Life Before the Presidency | Miller Center](https://millercenter.org/president/clinton/life-before-the-presidency)
+
 [^11]: [Bill Clinton | American Experience | Official Site | PBS](https://www.pbs.org/wgbh/americanexperience/features/clinton-bill/)
+
 [^12]: [Bill Clinton: Life Before the Presidency | Miller Center](https://millercenter.org/president/clinton/life-before-the-presidency)
+
 [^13]: [Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
+
 [^14]: [Bill Clinton: Life Before the Presidency | Miller Center](https://millercenter.org/president/clinton/life-before-the-presidency)
+
 [^15]: [Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
+
 [^16]: [Bill Clinton: Life Before the Presidency | Miller Center](https://millercenter.org/president/clinton/life-before-the-presidency)
+
 [^17]: [Bill Clinton (1946–) - Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/bill-clinton-95/)
+
 [^18]: [Bill Clinton (1946–) - Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/bill-clinton-95/)
+
 [^19]: [Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
+
 [^20]: [Bill Clinton (1946–) - Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/bill-clinton-95/)
+
 [^21]: [Governorships of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Governorships_of_Bill_Clinton)
+
 [^22]: [Bill Clinton (1946–) - Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/bill-clinton-95/)
+
 [^23]: [Governorships of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Governorships_of_Bill_Clinton)
+
 [^24]: [Governorships of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Governorships_of_Bill_Clinton)
+
 [^25]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^26]: [Governorships of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Governorships_of_Bill_Clinton)
+
 [^27]: [Timeline: President Bill Clinton Through the Years - ABC News](https://abcnews.go.com/Politics/Bill_Clinton/timeline-president-bill-clinton-years-life-presidency-post/story?id=247332)
+
 [^28]: [The Clinton Presidency: Historic Economic Growth](https://clintonwhitehouse5.archives.gov/WH/Accomplishments/eightyears-03.html)
+
 [^29]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^30]: [Power of Progressive Economics: The Clinton Years - Center for American Progress](https://www.americanprogress.org/article/power-of-progressive-economics-the-clinton-years/)
+
 [^31]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^32]: [The Clinton Presidency: Historic Economic Growth](https://clintonwhitehouse5.archives.gov/WH/Accomplishments/eightyears-03.html)
+
 [^33]: [Power of Progressive Economics: The Clinton Years - Center for American Progress](https://www.americanprogress.org/article/power-of-progressive-economics-the-clinton-years/)
+
 [^34]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^35]: [The Clinton Presidency: Key Accomplishments](https://clintonwhitehouse5.archives.gov/WH/Accomplishments/eightyears-01.html)
+
 [^36]: [Bill Clinton: Domestic Affairs | Miller Center](https://millercenter.org/president/clinton/domestic-affairs)
+
 [^37]: [Personal Responsibility and Work Opportunity Act - Wikipedia](https://en.wikipedia.org/wiki/Personal_Responsibility_and_Work_Opportunity_Act)
+
 [^38]: [Power of Progressive Economics: The Clinton Years - Center for American Progress](https://www.americanprogress.org/article/power-of-progressive-economics-the-clinton-years/)
+
 [^39]: [Bill Clinton: Domestic Affairs | Miller Center](https://millercenter.org/president/clinton/domestic-affairs)
+
 [^40]: [Bill Clinton's Presidency Was a Disaster for Labor](https://jacobin.com/2024/01/bill-clinton-neoliberalism-welfare-nafta)
+
 [^41]: [Presidency of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton)
+
 [^42]: [The Clinton Presidency: Key Accomplishments](https://clintonwhitehouse5.archives.gov/WH/Accomplishments/eightyears-01.html)
+
 [^43]: [Clinton–Lewinsky scandal - Wikipedia](https://en.wikipedia.org/wiki/Clinton–Lewinsky_scandal)
+
 [^44]: [Clinton–Lewinsky scandal - Wikipedia](https://en.wikipedia.org/wiki/Clinton–Lewinsky_scandal)
+
 [^45]: [Bill Clinton-Monica Lewinsky Scandal—Timeline of Key Moments | TIME](https://time.com/5120561/bill-clinton-monica-lewinsky-timeline/)
+
 [^46]: [The Clinton impeachment and its fallout | Miller Center](https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout)
+
 [^47]: [Impeachment of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton)
+
 [^48]: [Impeachment of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton)
+
 [^49]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^50]: [Paula Jones - Wikipedia](https://en.wikipedia.org/wiki/Paula_Jones)
+
 [^51]: [Paula Jones accuses Bill Clinton of sexual harassment | May 6, 1994 | HISTORY](https://www.history.com/this-day-in-history/May-6/paula-jones-accuses-bill-clinton-of-sexual-harassment)
+
 [^52]: [Clinton v. Jones | 520 U.S. 681 (1997) | Justia U.S. Supreme Court Center](https://supreme.justia.com/cases/federal/us/520/681/)
+
 [^53]: [Paula Jones - Wikipedia](https://en.wikipedia.org/wiki/Paula_Jones)
+
 [^54]: [Whitewater Scandal - Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/whitewater-scandal-4061/)
+
 [^55]: [Whitewater Scandal - Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/whitewater-scandal-4061/)
+
 [^56]: [Clinton Scandals: A Guide From Whitewater To The Clinton Foundation](https://www.npr.org/2016/06/12/481718785/clinton-scandals-a-guide-from-whitewater-to-the-clinton-foundation)
+
 [^57]: [Post-presidency of Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Post-presidency_of_Bill_Clinton)
+
 [^58]: [Bill Clinton: Domestic Affairs | Miller Center](https://millercenter.org/president/clinton/domestic-affairs)
+
 [^59]: [Opinion | To Save Our Democracy, We Must Transcend Bill Clinton's Legacy | Common Dreams](https://www.commondreams.org/opinion/democracy-bill-clinton-s-legacy)
+
 [^60]: [Bill Clinton: Family Life | Miller Center](https://millercenter.org/president/clinton/family-life)
+
 [^61]: [Bill Clinton - Wikipedia](https://en.wikipedia.org/wiki/Bill_Clinton)
+
 [^62]: [Bill Clinton: Family Life | Miller Center](https://millercenter.org/president/clinton/family-life)
+
 [^63]: [Chelsea Clinton | Biography, Education, Career, Books, & Facts | Britannica](https://www.britannica.com/biography/Chelsea-Clinton)
+
 [^64]: [Clinton Biographies | William J. Clinton Presidential Library and Museum](https://www.clintonlibrary.gov/research/clinton-biographies)
+
 [^65]: [Chelsea Clinton | Biography, Education, Career, Books, & Facts | Britannica](https://www.britannica.com/biography/Chelsea-Clinton)
+
 [^66]: [Clinton Biographies | William J. Clinton Presidential Library and Museum](https://www.clintonlibrary.gov/research/clinton-biographies)
+
 [^67]: [Bill Clinton: Family Life | Miller Center](https://millercenter.org/president/clinton/family-life)
+
 [^68]: [Bill Clinton: Family Life | Miller Center](https://millercenter.org/president/clinton/family-life)
+
 [^69]: [Bill Clinton: Family Life | Miller Center](https://millercenter.org/president/clinton/family-life)
+
 [^70]: [Bill Clinton: Family Life | Miller Center](https://millercenter.org/president/clinton/family-life)
+
 [^71]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^72]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^73]: [Bill Clinton: Foreign Affairs | Miller Center](https://millercenter.org/president/clinton/foreign-affairs)
+
 [^74]: [Bill Clinton and the Bosnian Crisis | American Experience | Official Site | PBS](https://www.pbs.org/wgbh/americanexperience/features/clinton-and-policing-world-bosnia/)
+
 [^75]: [Bill Clinton: Foreign Affairs | Miller Center](https://millercenter.org/president/clinton/foreign-affairs)
+
 [^76]: [Bill Clinton: Foreign Affairs | Miller Center](https://millercenter.org/president/clinton/foreign-affairs)
+
 [^77]: [Clinton Foundation - Wikipedia](https://en.wikipedia.org/wiki/Clinton_Foundation)
+
 [^78]: [Clinton Foundation - Wikipedia](https://en.wikipedia.org/wiki/Clinton_Foundation)
+
 [^79]: [Clinton Foundation - Wikipedia](https://en.wikipedia.org/wiki/Clinton_Foundation)
+
 [^80]: [Bill Clinton - Post-Presidency, Activism, Diplomacy | Britannica](https://www.britannica.com/biography/Bill-Clinton/Life-after-the-presidency)
+
 [^81]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^82]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^83]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^84]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^85]: [Assessing Bill Clinton's Legacy: How Will History Remember Him? | Brookings](https://www.brookings.edu/events/assessing-bill-clintons-legacy-how-will-history-remember-him/)
+
 [^86]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^87]: [Opinion | To Save Our Democracy, We Must Transcend Bill Clinton's Legacy | Common Dreams](https://www.commondreams.org/opinion/democracy-bill-clinton-s-legacy)
+
 [^88]: [Bill Clinton's Presidency Was a Disaster for Labor](https://jacobin.com/2024/01/bill-clinton-neoliberalism-welfare-nafta)
+
 [^89]: [Bill Clinton: Foreign Affairs | Miller Center](https://millercenter.org/president/clinton/foreign-affairs)
+
 [^90]: [Bill Clinton: Impact and Legacy | Miller Center](https://millercenter.org/president/clinton/impact-and-legacy)
+
 [^91]: [Clinton–Lewinsky scandal - Wikipedia](https://en.wikipedia.org/wiki/Clinton–Lewinsky_scandal)
+
 [^92]: [Famous Quotes from US President Bill Clinton](https://www.loriferber.com/research/famous-quotes-of-u-s-presidents/bill-clinton-quotes.html)
+
 [^93]: [Bill Clinton Quotes (Author of The President Is Missing)](https://www.goodreads.com/author/quotes/5944.Bill_Clinton)
+
 [^94]: [25 Inspirational Quotes From Bill Clinton on His 70th Birthday](https://www.entrepreneur.com/leadership/25-inspirational-quotes-from-bill-clinton-on-his-70th/281175)
+
 [^95]: [32 Famous Bill Clinton Quotes To Ponder Over](https://www.wisdomly.net/bill-clinton-848.php)
+
 [^96]: [Bill Clinton - Wikiquote](https://en.wikiquote.org/wiki/Bill_Clinton)
+
 [^97]: [Funny and Memorable Bill Clinton Quotes](https://www.liveabout.com/bill-clinton-quotes-2733509)
+
 [^98]: [Bill Clinton-Monica Lewinsky Scandal—Timeline of Key Moments | TIME](https://time.com/5120561/bill-clinton-monica-lewinsky-timeline/)
+
 [^99]: [Bill Clinton - Wikiquote](https://en.wikiquote.org/wiki/Bill_Clinton)

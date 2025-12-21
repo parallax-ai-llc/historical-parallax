@@ -197,35 +197,35 @@ By the end of his reign, Spain, weakened by military reverses and economic and s
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1605 | Born April 8 in Valladolid, Spain |
-| 1608 | Sworn heir to the Crown on January 30 in Madrid |
-| 1615 | Married Elisabeth of France (Isabel of Bourbon) at age 10 |
+| Year | Event                                                                  |
+| ---- | ---------------------------------------------------------------------- |
+| 1605 | Born April 8 in Valladolid, Spain                                      |
+| 1608 | Sworn heir to the Crown on January 30 in Madrid                        |
+| 1615 | Married Elisabeth of France (Isabel of Bourbon) at age 10              |
 | 1621 | Ascended to throne on March 31 at age 16 following death of Philip III |
-| 1621 | Renewed hostilities with Dutch, ending Twelve Years' Truce |
-| 1625 | Count-Duke of Olivares proposed Union de Armas |
-| 1626 | Spanish forces captured Breda from the Dutch |
-| 1627 | Castilian economy collapsed; first bankruptcy declared |
-| 1629 | Son Juan José born to actress María Calderón (La Calderona) |
-| 1631 | Construction began on Buen Retiro Palace |
-| 1634 | Spanish victory at Battle of Nördlingen |
-| 1635 | France declared open war on Spain |
-| 1639 | Spanish fleet destroyed off English coast |
-| 1640 | Catalonia and Portugal revolted against Spanish rule |
-| 1640 | Portugal became independent under House of Braganza |
-| 1643 | Dismissed Count-Duke of Olivares in January after visiting war front |
-| 1643 | Devastating defeat at Battle of Rocroi on May 19 |
-| 1643 | Began correspondence with Sor María de Ágreda |
-| 1644 | First wife Elisabeth of France died October 6 |
-| 1646 | Only surviving son from first marriage died at age 17 |
-| 1647 | Second bankruptcy declared; revolts in Naples and Sicily |
-| 1648 | Acknowledged Dutch independence in Peace of Münster |
-| 1649 | Married niece Mariana of Austria at age 44 (she was 15) |
-| 1651 | Daughter Margarita Teresa born to Mariana |
-| 1659 | Peace of the Pyrenees concluded with France; Spain ceded territories |
-| 1661 | Son Charles II born to Mariana on November 6 |
-| 1665 | Died September 17 in Madrid; succeeded by 4-year-old Charles II |
+| 1621 | Renewed hostilities with Dutch, ending Twelve Years' Truce             |
+| 1625 | Count-Duke of Olivares proposed Union de Armas                         |
+| 1626 | Spanish forces captured Breda from the Dutch                           |
+| 1627 | Castilian economy collapsed; first bankruptcy declared                 |
+| 1629 | Son Juan José born to actress María Calderón (La Calderona)            |
+| 1631 | Construction began on Buen Retiro Palace                               |
+| 1634 | Spanish victory at Battle of Nördlingen                                |
+| 1635 | France declared open war on Spain                                      |
+| 1639 | Spanish fleet destroyed off English coast                              |
+| 1640 | Catalonia and Portugal revolted against Spanish rule                   |
+| 1640 | Portugal became independent under House of Braganza                    |
+| 1643 | Dismissed Count-Duke of Olivares in January after visiting war front   |
+| 1643 | Devastating defeat at Battle of Rocroi on May 19                       |
+| 1643 | Began correspondence with Sor María de Ágreda                          |
+| 1644 | First wife Elisabeth of France died October 6                          |
+| 1646 | Only surviving son from first marriage died at age 17                  |
+| 1647 | Second bankruptcy declared; revolts in Naples and Sicily               |
+| 1648 | Acknowledged Dutch independence in Peace of Münster                    |
+| 1649 | Married niece Mariana of Austria at age 44 (she was 15)                |
+| 1651 | Daughter Margarita Teresa born to Mariana                              |
+| 1659 | Peace of the Pyrenees concluded with France; Spain ceded territories   |
+| 1661 | Son Charles II born to Mariana on November 6                           |
+| 1665 | Died September 17 in Madrid; succeeded by 4-year-old Charles II        |
 
 ---
 
@@ -244,168 +244,333 @@ By the end of his reign, Spain, weakened by military reverses and economic and s
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^2]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^3]: https://www.nationalgallery.org.uk/people/philip-iv-king-of-spain
+
 [^4]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-iv-spain
+
 [^5]: https://www.thefamouspeople.com/profiles/philip-iv-of-spain-38213.php
+
 [^6]: https://www.geni.com/people/Philip-IV-King-of-Spain-and-Portugal/6000000000837888160
+
 [^7]: https://kids.kiddle.co/Philip_IV_of_Spain
+
 [^8]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-iv/a7408eea-2e72-3827-bdf6-538891a2a267
+
 [^9]: https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/philip-iv-1605-1665
+
 [^10]: https://www.habsburger.net/en/chapter/philip-iv-spains-late-glory-or-slow-decline
+
 [^11]: https://www.theroyalforums.com/threads/king-philip-iv-iii-and-wives-queen-elisabeth-and-queen-mariana.15729/
+
 [^12]: https://en.wikipedia.org/wiki/Elisabeth_of_France,_Queen_of_Spain
+
 [^13]: https://grokipedia.com/page/Elisabeth_of_France,_Queen_of_Spain
+
 [^14]: https://www.pepysdiary.com/encyclopedia/6888/
+
 [^15]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^16]: https://www.timetoast.com/timelines/philip-iv-of-spain
+
 [^17]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^18]: https://military-history.fandom.com/wiki/Philip_IV_of_Spain
+
 [^19]: https://www.britannica.com/biography/Gaspar-de-Guzman-y-Pimental-conde-duque-de-Olivares
+
 [^20]: https://en.wikipedia.org/wiki/Gaspar_de_Guzm%C3%A1n,_Count-Duke_of_Olivares
+
 [^21]: https://habsburgo.es/en/articulos/la-verdad-sobre-felipe-iv-y-olivares-el-valido-que-goberno-espana-durante-22-anos
+
 [^22]: https://worldhistoryedu.com/philip-iv-of-spain/
+
 [^23]: https://www.britannica.com/event/Battle-of-Rocroi
+
 [^24]: https://www.1898miniaturas.com/en/2020/the-battle-of-rocroi-19th-may-1643/
+
 [^25]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/olivares-gaspar-de-guzman-y-pimentel-count-1587-1645
+
 [^26]: https://www.wga.hu/tours/spain/olivares.html
+
 [^27]: https://www.liquisearch.com/philip_iv_of_spain/philip_olivares_and_his_royal_favorites
+
 [^28]: https://kids.kiddle.co/Philip_IV_of_Spain
+
 [^29]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^30]: https://read.dukeupress.edu/hahr/article/69/2/340/147453/Philip-IV-and-the-Government-of-Spain-1621-1665
+
 [^31]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^32]: https://www.timetoast.com/timelines/philip-iv-of-spain
+
 [^33]: https://www.wallacecollection.org/art/collection/meet-the-expert/the-court-of-philip-iv/
+
 [^34]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^35]: https://military-history.fandom.com/wiki/Philip_IV_of_Spain
+
 [^36]: https://worldhistoryedu.com/philip-iv-of-spain/
+
 [^37]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^38]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^39]: https://www.habsburger.net/en/chapter/philip-iv-spains-late-glory-or-slow-decline
+
 [^40]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^41]: https://www.nationalgallery.org.uk/paintings/diego-velazquez-philip-iv-of-spain-in-brown-and-silver
+
 [^42]: https://www.gardnermuseum.org/experience/collection/12372
+
 [^43]: https://www.metmuseum.org/art/collection/search/437873
+
 [^44]: https://www.museodelprado.es/en/whats-on/exhibition/velazquez-and-the-family-of-philip-iv/7c109894-7622-4ad7-9fa6-79d6a7084f07
+
 [^45]: https://www.pepysdiary.com/encyclopedia/6888/
+
 [^46]: https://collections.frick.org/objects/271/king-philip-iv-of-spain
+
 [^47]: https://www.museodelprado.es/en/the-collection/art-work/philip-iv/d32048ac-2752-4248-a53a-45d9d58b1645
+
 [^48]: https://en.wikipedia.org/wiki/Buen_Retiro_Palace
+
 [^49]: http://www.caareviews.org/reviews/867
+
 [^50]: https://www.museodelprado.es/en/whats-on/exhibition/the-palace-of-the-planet-king/08150602-dc8c-40b2-b640-2eb6cf691d07
+
 [^51]: https://www.wallacecollection.org/art/collection/meet-the-expert/the-court-of-philip-iv/
+
 [^52]: http://www.caareviews.org/reviews/680
+
 [^53]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^54]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^55]: https://military-history.fandom.com/wiki/Philip_IV_of_Spain
+
 [^56]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/union-de-armas
+
 [^57]: https://en.wikipedia.org/wiki/Union_of_Arms
+
 [^58]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^59]: https://military-history.fandom.com/wiki/Philip_IV_of_Spain
+
 [^60]: https://worldhistoryedu.com/philip-iv-of-spain/
+
 [^61]: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/union-de-armas
+
 [^62]: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/catalonia-revolt-1640-1652
+
 [^63]: https://read.dukeupress.edu/hahr/article/44/3/391/159237/The-Revolt-of-the-Catalans
+
 [^64]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^65]: https://www.timetoast.com/timelines/philip-iv-of-spain
+
 [^66]: https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/philip-iv-1605-1665
+
 [^67]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^68]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^69]: https://en.wikipedia.org/wiki/Battle_of_Rocroi
+
 [^70]: https://www.britannica.com/event/Battle-of-Rocroi
+
 [^71]: https://russpain.com/en/history/battle-of-rocroi-1643-how-one-defeat-marked-the-beginning-of-the-decline-of-the-invincible-spanish-war-machine-270140/
+
 [^72]: https://www.historyback.com/en/story/1001001968.html
+
 [^73]: https://warfarehistorynetwork.com/article/spanish-disaster-at-rocroi/
+
 [^74]: https://www.march.es/en/madrid/lecture/battles-age-tercios-v-rocroi-1643-perspective-battle-beyond-myth
+
 [^75]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^76]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^77]: https://www.timetoast.com/timelines/philip-iv-of-spain
+
 [^78]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^79]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^80]: https://worldhistoryedu.com/philip-iv-of-spain/
+
 [^81]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^82]: https://www.timetoast.com/timelines/philip-iv-of-spain
+
 [^83]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^84]: https://www.britannica.com/place/Spain/Philip-IVs-reign
+
 [^85]: https://www.habsburger.net/en/chapter/philip-iv-spains-late-glory-or-slow-decline
+
 [^86]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^87]: https://www.ebsco.com/research-starters/history/philip-iv
+
 [^88]: https://www.pepysdiary.com/encyclopedia/6888/
+
 [^89]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^90]: https://en.wikipedia.org/wiki/María_Calderón
+
 [^91]: https://www.tumblr.com/isadomna/709636448949862400/maría-inés-calderón-1611-1646-a-woman-who
+
 [^92]: https://prabook.com/web/maria.calderon/2278835
+
 [^93]: https://www.theroyalforums.com/threads/king-philip-iv-iii-and-wives-queen-elisabeth-and-queen-mariana.15729/
+
 [^94]: https://en.wikipedia.org/wiki/Elisabeth_of_France,_Queen_of_Spain
+
 [^95]: https://grokipedia.com/page/Elisabeth_of_France,_Queen_of_Spain
+
 [^96]: https://www.habsburger.net/en/chapter/philip-iv-marriage-and-offspring
+
 [^97]: https://www.pepysdiary.com/encyclopedia/6888/
+
 [^98]: https://en.wikipedia.org/wiki/Elisabeth_of_France,_Queen_of_Spain
+
 [^99]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-iv-spain
+
 [^100]: https://www.habsburger.net/en/chapter/philip-iv-marriage-and-offspring
+
 [^101]: https://en.wikipedia.org/wiki/Mariana_of_Austria
+
 [^102]: https://www.habsburger.net/en/chapter/philip-iv-marriage-and-offspring
+
 [^103]: https://en.wikipedia.org/wiki/Mariana_of_Austria
+
 [^104]: https://www.habsburger.net/en/chapter/philip-iv-marriage-and-offspring
+
 [^105]: https://www.galeriadelascoleccionesreales.es/en/monarch/charles-ii/4ecde5e1-b394-c28f-7822-dc78dae6edb7
+
 [^106]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^107]: https://blog.23andme.com/articles/inbreeding-doomed-habsburg
+
 [^108]: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=ureca
+
 [^109]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2664480/
+
 [^110]: https://www.livescience.com/3504-inbreeding-downfall-dynasty.html
+
 [^111]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005174
+
 [^112]: https://www.nationalgeographic.com/science/article/how-inbreeding-killed-off-a-line-of-kings
+
 [^113]: https://www.eurekalert.org/news-releases/565834
+
 [^114]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2664480/
+
 [^115]: https://www.pepysdiary.com/encyclopedia/6888/
+
 [^116]: https://en.wikipedia.org/wiki/Mary_of_Jesus_of_Ágreda
+
 [^117]: https://www.newadvent.org/cathen/01229a.htm
+
 [^118]: https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/agreda-sor-maria-de-1602-1665
+
 [^119]: https://mariadeagreda.org/en/who-was-she/the-adviser/
+
 [^120]: https://www.britannica.com/biography/Maria-de-Agreda
+
 [^121]: https://www.metmuseum.org/art/collection/search/437873
+
 [^122]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^123]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-iv-spain
+
 [^124]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^125]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^126]: https://read.dukeupress.edu/hahr/article/69/2/340/147453/Philip-IV-and-the-Government-of-Spain-1621-1665
+
 [^127]: https://www.cambridge.org/us/universitypress/subjects/history/european-history-after-1450/philip-iv-and-government-spain-16211665
+
 [^128]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^129]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-iv-spain
+
 [^130]: https://www.pepysdiary.com/encyclopedia/6888/
+
 [^131]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^132]: https://www.galeriadelascoleccionesreales.es/en/monarch/philip-iv/a7408eea-2e72-3827-bdf6-538891a2a267
+
 [^133]: https://www.habsburger.net/en/chapter/philip-iv-spains-late-glory-or-slow-decline
+
 [^134]: https://www.ebsco.com/research-starters/history/philip-iv
+
 [^135]: https://www.paulholberton.com/product-page/paintings-for-the-planet-king-philip-iv-and-the-buen-retiro-palace
+
 [^136]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^137]: https://www.timetoast.com/timelines/philip-iv-of-spain
+
 [^138]: https://en.wikipedia.org/wiki/Peace_of_Münster
+
 [^139]: https://en.wikipedia.org/wiki/Peace_of_Westphalia
+
 [^140]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^141]: https://www.timetoast.com/timelines/philip-iv-of-spain
+
 [^142]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^143]: https://www.galeriadelascoleccionesreales.es/en/monarch/charles-ii/4ecde5e1-b394-c28f-7822-dc78dae6edb7
+
 [^144]: https://www.habsburger.net/en/chapter/philip-iv-marriage-and-offspring
+
 [^145]: https://www.galeriadelascoleccionesreales.es/en/monarch/charles-ii/4ecde5e1-b394-c28f-7822-dc78dae6edb7
+
 [^146]: https://pmc.ncbi.nlm.nih.gov/articles/PMC2664480/
+
 [^147]: https://www.ebsco.com/research-starters/history/philip-iv
+
 [^148]: https://www.habsburger.net/en/chapter/philip-iv-spains-late-glory-or-slow-decline
+
 [^149]: https://www.habsburger.net/en/chapter/philip-iv-spains-late-glory-or-slow-decline
+
 [^150]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^151]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^152]: https://read.dukeupress.edu/hahr/article/69/2/340/147453/Philip-IV-and-the-Government-of-Spain-1621-1665
+
 [^153]: https://www.metmuseum.org/art/collection/search/437873
+
 [^154]: https://www.museodelprado.es/en/the-collection/art-work/philip-iv/d32048ac-2752-4248-a53a-45d9d58b1645
+
 [^155]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^156]: https://www.habsburger.net/en/chapter/philip-iv-spains-late-glory-or-slow-decline
+
 [^157]: https://www.britannica.com/biography/Philip-IV-king-of-Spain-and-Portugal
+
 [^158]: https://read.dukeupress.edu/hahr/article/69/2/340/147453/Philip-IV-and-the-Government-of-Spain-1621-1665
+
 [^159]: https://www.cambridge.org/us/universitypress/subjects/history/european-history-after-1450/philip-iv-and-government-spain-16211665
+
 [^160]: https://www.encyclopedia.com/people/history/spanish-and-portuguese-history-biographies/philip-iv-spain
+
 [^161]: https://en.wikipedia.org/wiki/Philip_IV_of_Spain
+
 [^162]: https://www.ebsco.com/research-starters/history/reign-philip-iv
+
 [^163]: Based on historical accounts of Philip IV's religious devotion and correspondence with Sor María de Ágreda
+
 [^164]: Traditional Habsburg motto adapted by Spanish monarchs
+
 [^165]: Reflecting Philip's documented struggles between piety and his numerous affairs
+
 [^166]: https://libquotes.com/philip-ii-of-spain

@@ -197,27 +197,27 @@ The failure to achieve economic growth or improve productivity is emphasized by 
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1908 | Born June 26 in Valparaíso, Chile |
-| 1926 | Enrolls at University of Chile to study medicine |
-| 1933 | Receives medical degree; co-founds Chilean Socialist Party |
-| 1937 | Elected to Chamber of Deputies |
-| 1939 | Appointed Minister of Health in Popular Front government |
-| 1940 | Marries Hortensia Bussi Soto |
-| 1945 | Elected to Senate |
-| 1952 | First presidential campaign; receives 5.5% of vote |
-| 1958 | Second presidential campaign; receives 28.9%, narrowly loses |
-| 1964 | Third presidential campaign; loses to Eduardo Frei Montalva |
-| 1970 | Wins presidential election with 36.6% of vote (September 4) |
-| 1970 | Confirmed by Congress as president (October 24) |
-| 1970 | Inaugurated as President of Chile (November 3) |
-| 1971 | Nationalization of copper industry (July 11) |
-| 1971 | Fidel Castro visits Chile for extended state visit |
-| 1972 | Economic crisis intensifies; "March of Empty Pots" protests |
-| 1972 | October strike by truckers and middle-class opponents |
-| 1973 | Parliamentary elections; Popular Unity receives 43.4% (March) |
-| 1973 | Failed military coup attempt (June 29 - "Tancazo") |
+| Year | Event                                                          |
+| ---- | -------------------------------------------------------------- |
+| 1908 | Born June 26 in Valparaíso, Chile                              |
+| 1926 | Enrolls at University of Chile to study medicine               |
+| 1933 | Receives medical degree; co-founds Chilean Socialist Party     |
+| 1937 | Elected to Chamber of Deputies                                 |
+| 1939 | Appointed Minister of Health in Popular Front government       |
+| 1940 | Marries Hortensia Bussi Soto                                   |
+| 1945 | Elected to Senate                                              |
+| 1952 | First presidential campaign; receives 5.5% of vote             |
+| 1958 | Second presidential campaign; receives 28.9%, narrowly loses   |
+| 1964 | Third presidential campaign; loses to Eduardo Frei Montalva    |
+| 1970 | Wins presidential election with 36.6% of vote (September 4)    |
+| 1970 | Confirmed by Congress as president (October 24)                |
+| 1970 | Inaugurated as President of Chile (November 3)                 |
+| 1971 | Nationalization of copper industry (July 11)                   |
+| 1971 | Fidel Castro visits Chile for extended state visit             |
+| 1972 | Economic crisis intensifies; "March of Empty Pots" protests    |
+| 1972 | October strike by truckers and middle-class opponents          |
+| 1973 | Parliamentary elections; Popular Unity receives 43.4% (March)  |
+| 1973 | Failed military coup attempt (June 29 - "Tancazo")             |
 | 1973 | Military coup d'état; death at La Moneda palace (September 11) |
 
 ---
@@ -248,153 +248,153 @@ Context: Spoken during his final radio address as the military attacked La Moned
 
 ## References
 
-[^1]: Farrell, J. (2007). *The Socialist Prince: A Biography of Salvador Allende*. University of California Press.
+[^1]: Farrell, J. (2007). _The Socialist Prince: A Biography of Salvador Allende_. University of California Press.
 
-[^2]: Garcés, J. (2013). *Allende y la experiencia chilena: Las armas de la política*. Siglo XXI Editores.
+[^2]: Garcés, J. (2013). _Allende y la experiencia chilena: Las armas de la política_. Siglo XXI Editores.
 
-[^3]: Corvalán Márquez, L. (2003). *Del anticapitalismo al neoliberalismo en Chile: Izquierda, centro y derecha en la lucha entre los proyectos globales, 1950-2000*. Editorial Sudamericana.
+[^3]: Corvalán Márquez, L. (2003). _Del anticapitalismo al neoliberalismo en Chile: Izquierda, centro y derecha en la lucha entre los proyectos globales, 1950-2000_. Editorial Sudamericana.
 
-[^4]: Sater, W. F. (1990). *Chile and the United States: Empires in Conflict*. University of Georgia Press.
+[^4]: Sater, W. F. (1990). _Chile and the United States: Empires in Conflict_. University of Georgia Press.
 
 [^5]: Allende, S. (1933). "Higiene Mental y Delincuencia" [Medical thesis]. University of Chile.
 
-[^6]: Drake, P. W. (1978). *Socialism and Populism in Chile, 1932-52*. University of Illinois Press.
+[^6]: Drake, P. W. (1978). _Socialism and Populism in Chile, 1932-52_. University of Illinois Press.
 
-[^7]: Angell, A. (1972). *Politics and the Labour Movement in Chile*. Oxford University Press.
+[^7]: Angell, A. (1972). _Politics and the Labour Movement in Chile_. Oxford University Press.
 
-[^8]: Illanes, M. A. (1993). *"En el nombre del pueblo, del estado y de la ciencia": Historia social de la salud pública en Chile*. Colectivo de Atención Primaria.
+[^8]: Illanes, M. A. (1993). _"En el nombre del pueblo, del estado y de la ciencia": Historia social de la salud pública en Chile_. Colectivo de Atención Primaria.
 
-[^9]: Valenzuela, A. (1978). *The Breakdown of Democratic Regimes: Chile*. Johns Hopkins University Press.
+[^9]: Valenzuela, A. (1978). _The Breakdown of Democratic Regimes: Chile_. Johns Hopkins University Press.
 
-[^10]: Gustafson, K. (2007). *Hostile Intent: U.S. Covert Operations in Chile, 1964-1974*. Potomac Books.
+[^10]: Gustafson, K. (2007). _Hostile Intent: U.S. Covert Operations in Chile, 1964-1974_. Potomac Books.
 
-[^11]: Kaufman, E. (1988). *Crisis in Allende's Chile: New Perspectives*. Praeger Publishers.
+[^11]: Kaufman, E. (1988). _Crisis in Allende's Chile: New Perspectives_. Praeger Publishers.
 
-[^12]: Sigmund, P. E. (1977). *The Overthrow of Allende and the Politics of Chile, 1964-1976*. University of Pittsburgh Press.
+[^12]: Sigmund, P. E. (1977). _The Overthrow of Allende and the Politics of Chile, 1964-1976_. University of Pittsburgh Press.
 
-[^13]: Boorstein, E. (1977). *Allende's Chile: An Inside View*. International Publishers.
+[^13]: Boorstein, E. (1977). _Allende's Chile: An Inside View_. International Publishers.
 
-[^14]: Moran, T. H. (1974). *Multinational Corporations and the Politics of Dependence: Copper in Chile*. Princeton University Press.
+[^14]: Moran, T. H. (1974). _Multinational Corporations and the Politics of Dependence: Copper in Chile_. Princeton University Press.
 
-[^15]: Novoa Monreal, E. (1972). *La batalla por el cobre*. Editorial Quimantú.
+[^15]: Novoa Monreal, E. (1972). _La batalla por el cobre_. Editorial Quimantú.
 
-[^16]: Loveman, B. (1976). *Struggle in the Countryside: Politics and Rural Labor in Chile, 1919-1973*. Indiana University Press.
+[^16]: Loveman, B. (1976). _Struggle in the Countryside: Politics and Rural Labor in Chile, 1919-1973_. Indiana University Press.
 
-[^17]: Stallings, B. (1978). *Class Conflict and Economic Development in Chile, 1958-1973*. Stanford University Press.
+[^17]: Stallings, B. (1978). _Class Conflict and Economic Development in Chile, 1958-1973_. Stanford University Press.
 
-[^18]: Subercaseaux, B. (1993). "Editoriales y círculos de lectores en Chile." *Revista Chilena de Literatura*, 42.
+[^18]: Subercaseaux, B. (1993). "Editoriales y círculos de lectores en Chile." _Revista Chilena de Literatura_, 42.
 
-[^19]: Fermandois, J. (2005). *Mundo y fin de mundo: Chile en la política mundial 1900-2004*. Ediciones Universidad Católica de Chile.
+[^19]: Fermandois, J. (2005). _Mundo y fin de mundo: Chile en la política mundial 1900-2004_. Ediciones Universidad Católica de Chile.
 
-[^20]: Wright, T. C., & Oñate, R. (2007). *Flight from Chile: Voices of Exile*. University of New Mexico Press.
+[^20]: Wright, T. C., & Oñate, R. (2007). _Flight from Chile: Voices of Exile_. University of New Mexico Press.
 
-[^21]: Espinosa, J. G., & Zimbalist, A. S. (1978). *Economic Democracy: Workers' Participation in Chilean Industry 1970-1973*. Academic Press.
+[^21]: Espinosa, J. G., & Zimbalist, A. S. (1978). _Economic Democracy: Workers' Participation in Chilean Industry 1970-1973_. Academic Press.
 
-[^22]: Núñez Prieto, I. (1990). *Reformas educacionales e identidad de los docentes: Chile, 1960-1973*. PIIE.
+[^22]: Núñez Prieto, I. (1990). _Reformas educacionales e identidad de los docentes: Chile, 1960-1973_. PIIE.
 
-[^23]: Valenzuela, A. (1989). "Chile: Origins and Consolidation of a Latin American Democracy." In L. Diamond et al., *Democracy in Developing Countries: Latin America*. Lynne Rienner Publishers.
+[^23]: Valenzuela, A. (1989). "Chile: Origins and Consolidation of a Latin American Democracy." In L. Diamond et al., _Democracy in Developing Countries: Latin America_. Lynne Rienner Publishers.
 
-[^24]: Bitar, S. (1986). *Chile: Experiment in Democracy*. Institute for the Study of Human Issues.
+[^24]: Bitar, S. (1986). _Chile: Experiment in Democracy_. Institute for the Study of Human Issues.
 
-[^25]: Power, M. (2002). *Right-Wing Women in Chile: Feminine Power and the Struggle Against Allende, 1964-1973*. Penn State University Press.
+[^25]: Power, M. (2002). _Right-Wing Women in Chile: Feminine Power and the Struggle Against Allende, 1964-1973_. Penn State University Press.
 
-[^26]: Pollack, B., & Rosenkranz, H. (1986). *Revolutionary Social Democracy: The Chilean Socialist Party*. Frances Pinter.
+[^26]: Pollack, B., & Rosenkranz, H. (1986). _Revolutionary Social Democracy: The Chilean Socialist Party_. Frances Pinter.
 
-[^27]: Davis, N. (1985). *The Last Two Years of Salvador Allende*. Cornell University Press.
+[^27]: Davis, N. (1985). _The Last Two Years of Salvador Allende_. Cornell University Press.
 
-[^28]: Kornbluh, P. (2003). *The Pinochet File: A Declassified Dossier on Atrocity and Accountability*. The New Press.
+[^28]: Kornbluh, P. (2003). _The Pinochet File: A Declassified Dossier on Atrocity and Accountability_. The New Press.
 
-[^29]: Valdivia Ortiz de Zárate, V. (2003). *El golpe después del golpe: Leigh vs. Pinochet, Chile 1960-1980*. LOM Ediciones.
+[^29]: Valdivia Ortiz de Zárate, V. (2003). _El golpe después del golpe: Leigh vs. Pinochet, Chile 1960-1980_. LOM Ediciones.
 
-[^30]: Dooner, P. (1989). *Periodismo y política: La prensa de derecha e izquierda, 1970-1973*. Editorial Andante.
+[^30]: Dooner, P. (1989). _Periodismo y política: La prensa de derecha e izquierda, 1970-1973_. Editorial Andante.
 
 [^31]: Punto Final (Various issues, 1970-1973). Revolutionary left criticism of Allende government.
 
-[^32]: Fleet, M. (1985). *The Rise and Fall of Chilean Christian Democracy*. Princeton University Press.
+[^32]: Fleet, M. (1985). _The Rise and Fall of Chilean Christian Democracy_. Princeton University Press.
 
-[^33]: Bussi, H. (2000). *Memorias: Hortensia Bussi, la mujer de Allende*. Plaza & Janés.
+[^33]: Bussi, H. (2000). _Memorias: Hortensia Bussi, la mujer de Allende_. Plaza & Janés.
 
-[^34]: Allende, I. (1997). *La casa de los espíritus* [The House of the Spirits - autobiographical elements]. Plaza & Janés.
+[^34]: Allende, I. (1997). _La casa de los espíritus_ [The House of the Spirits - autobiographical elements]. Plaza & Janés.
 
-[^35]: Allende Bussi, I. (2008). Interviews and memoirs. *Revista Qué Pasa*.
+[^35]: Allende Bussi, I. (2008). Interviews and memoirs. _Revista Qué Pasa_.
 
-[^36]: González Cañete, D. (2013). "Salvador Allende: Contradicciones de un socialista aristocrático." *Archivos Chile*.
+[^36]: González Cañete, D. (2013). "Salvador Allende: Contradicciones de un socialista aristocrático." _Archivos Chile_.
 
-[^37]: Quiroga, P. (2001). *Compañeros: El GAP, la escolta de Allende*. Aguilar Chilena de Ediciones.
+[^37]: Quiroga, P. (2001). _Compañeros: El GAP, la escolta de Allende_. Aguilar Chilena de Ediciones.
 
-[^38]: Debray, R. (1971). *The Chilean Revolution: Conversations with Allende*. Pantheon Books.
+[^38]: Debray, R. (1971). _The Chilean Revolution: Conversations with Allende_. Pantheon Books.
 
-[^39]: Neruda, P. (1974). *Confieso que he vivido* [Memoirs]. Seix Barral.
+[^39]: Neruda, P. (1974). _Confieso que he vivido_ [Memoirs]. Seix Barral.
 
-[^40]: Farías, V. (2000). *La izquierda chilena (1969-1973): Documentos para el estudio de su línea estratégica*. Centro de Estudios Públicos.
+[^40]: Farías, V. (2000). _La izquierda chilena (1969-1973): Documentos para el estudio de su línea estratégica_. Centro de Estudios Públicos.
 
-[^41]: García Márquez, G. (1974). "The Death of Salvador Allende." *New Statesman*, March 15.
+[^41]: García Márquez, G. (1974). "The Death of Salvador Allende." _New Statesman_, March 15.
 
-[^42]: Stern, S. J. (2004). *Remembering Pinochet's Chile: On the Eve of London 1998*. Duke University Press.
+[^42]: Stern, S. J. (2004). _Remembering Pinochet's Chile: On the Eve of London 1998_. Duke University Press.
 
-[^43]: Winn, P., Stern, S. J., Lorenz, F., & Marchesi, A. (2013). *No Hay Mañana Sin Ayer: Batallas por la Memoria Histórica en el Cono Sur*. LOM Ediciones.
+[^43]: Winn, P., Stern, S. J., Lorenz, F., & Marchesi, A. (2013). _No Hay Mañana Sin Ayer: Batallas por la Memoria Histórica en el Cono Sur_. LOM Ediciones.
 
-[^44]: Guzmán, N. (1998). *Autopsia: Allende ahorcado, asesinado, suicidado*. La Nación.
+[^44]: Guzmán, N. (1998). _Autopsia: Allende ahorcado, asesinado, suicidado_. La Nación.
 
 [^45]: Allende, S. (1973). "Last Speech" [Radio broadcast]. Radio Magallanes, September 11. Transcripts available in multiple archives.
 
-[^46]: Roxborough, I., O'Brien, P., & Roddick, J. (1977). *Chile: The State and Revolution*. Macmillan.
+[^46]: Roxborough, I., O'Brien, P., & Roddick, J. (1977). _Chile: The State and Revolution_. Macmillan.
 
-[^47]: Qureshi, L. (2009). *Nixon, Kissinger, and Allende: U.S. Involvement in the 1973 Coup in Chile*. Lexington Books.
+[^47]: Qureshi, L. (2009). _Nixon, Kissinger, and Allende: U.S. Involvement in the 1973 Coup in Chile_. Lexington Books.
 
-[^48]: Harmer, T. (2011). *Allende's Chile and the Inter-American Cold War*. University of North Carolina Press.
+[^48]: Harmer, T. (2011). _Allende's Chile and the Inter-American Cold War_. University of North Carolina Press.
 
-[^49]: Ensalaco, M. (2000). *Chile Under Pinochet: Recovering the Truth*. University of Pennsylvania Press.
+[^49]: Ensalaco, M. (2000). _Chile Under Pinochet: Recovering the Truth_. University of Pennsylvania Press.
 
-[^50]: Valdés, J. G. (1995). *Pinochet's Economists: The Chicago School in Chile*. Cambridge University Press.
+[^50]: Valdés, J. G. (1995). _Pinochet's Economists: The Chicago School in Chile_. Cambridge University Press.
 
-[^51]: Cannon, B., & Kirby, P. (2012). *Civil Society and the State in Left-Led Latin America: Challenges and Limitations to Democratization*. Zed Books.
+[^51]: Cannon, B., & Kirby, P. (2012). _Civil Society and the State in Left-Led Latin America: Challenges and Limitations to Democratization_. Zed Books.
 
-[^52]: Collier, S., & Sater, W. F. (2004). *A History of Chile, 1808-2002* (2nd ed.). Cambridge University Press.
+[^52]: Collier, S., & Sater, W. F. (2004). _A History of Chile, 1808-2002_ (2nd ed.). Cambridge University Press.
 
-[^53]: Bravo Elizondo, P. (1986). *La poesía de Pablo Neruda y la lucha por la justicia social*. Ediciones LAR.
+[^53]: Bravo Elizondo, P. (1986). _La poesía de Pablo Neruda y la lucha por la justicia social_. Ediciones LAR.
 
-[^54]: Angell, A., & Pollack, B. (1990). "The Chilean Elections of 1989 and the Politics of the Transition to Democracy." *Bulletin of Latin American Research*, 9(1), 1-23.
+[^54]: Angell, A., & Pollack, B. (1990). "The Chilean Elections of 1989 and the Politics of the Transition to Democracy." _Bulletin of Latin American Research_, 9(1), 1-23.
 
-[^55]: Foxley, A. (1983). *Latin American Experiments in Neoconservative Economics*. University of California Press.
+[^55]: Foxley, A. (1983). _Latin American Experiments in Neoconservative Economics_. University of California Press.
 
-[^56]: Petras, J., & Morley, M. (1975). *The United States and Chile: Imperialism and the Overthrow of the Allende Government*. Monthly Review Press.
+[^56]: Petras, J., & Morley, M. (1975). _The United States and Chile: Imperialism and the Overthrow of the Allende Government_. Monthly Review Press.
 
-[^57]: U.S. Senate Select Committee on Intelligence (1975). *Covert Action in Chile, 1963-1973* [Church Committee Report]. Government Printing Office.
+[^57]: U.S. Senate Select Committee on Intelligence (1975). _Covert Action in Chile, 1963-1973_ [Church Committee Report]. Government Printing Office.
 
-[^58]: Mattelart, A., & Mattelart, M. (1986). *Comunicación e ideología de la seguridad*. Anagrama.
+[^58]: Mattelart, A., & Mattelart, M. (1986). _Comunicación e ideología de la seguridad_. Anagrama.
 
-[^59]: Whelan, J. R. (1989). *Out of the Ashes: Life, Death and Transfiguration of Democracy in Chile, 1833-1988*. Regnery Gateway.
+[^59]: Whelan, J. R. (1989). _Out of the Ashes: Life, Death and Transfiguration of Democracy in Chile, 1833-1988_. Regnery Gateway.
 
-[^60]: Brands, H. (2010). *Latin America's Cold War*. Harvard University Press.
+[^60]: Brands, H. (2010). _Latin America's Cold War_. Harvard University Press.
 
-[^61]: De Vylder, S. (1976). *Allende's Chile: The Political Economy of the Rise and Fall of the Unidad Popular*. Cambridge University Press.
+[^61]: De Vylder, S. (1976). _Allende's Chile: The Political Economy of the Rise and Fall of the Unidad Popular_. Cambridge University Press.
 
-[^62]: Tinsman, H. (2014). *Buying into the Regime: Grapes and Consumption in Cold War Chile and the United States*. Duke University Press.
+[^62]: Tinsman, H. (2014). _Buying into the Regime: Grapes and Consumption in Cold War Chile and the United States_. Duke University Press.
 
-[^63]: Edwards, S. (2023). *The Chile Project: The Story of the Chicago Boys and the Downfall of Neoliberalism*. Princeton University Press.
+[^63]: Edwards, S. (2023). _The Chile Project: The Story of the Chicago Boys and the Downfall of Neoliberalism_. Princeton University Press.
 
-[^64]: Fontaine Aldunate, A. (1988). "La historia no contada de los economistas del Presidente Pinochet." *Zig-Zag*.
+[^64]: Fontaine Aldunate, A. (1988). "La historia no contada de los economistas del Presidente Pinochet." _Zig-Zag_.
 
-[^65]: Teitelboin, V. (1984). *Un muchacho del siglo XX*. Editorial Sudamericana.
+[^65]: Teitelboin, V. (1984). _Un muchacho del siglo XX_. Editorial Sudamericana.
 
-[^66]: MIR (1973). Various documents. *El Rebelde* [Revolutionary Left Movement publications].
+[^66]: MIR (1973). Various documents. _El Rebelde_ [Revolutionary Left Movement publications].
 
-[^67]: Ramos, J. (1986). *Neoconservative Economics in the Southern Cone of Latin America, 1973-1983*. Johns Hopkins University Press.
+[^67]: Ramos, J. (1986). _Neoconservative Economics in the Southern Cone of Latin America, 1973-1983_. Johns Hopkins University Press.
 
-[^68]: Altamirano, C. (1977). *Dialéctica de una derrota*. Siglo XXI Editores.
+[^68]: Altamirano, C. (1977). _Dialéctica de una derrota_. Siglo XXI Editores.
 
-[^69]: Feinberg, R. E. (1972). *The Triumph of Allende: Chile's Legal Revolution*. Mentor Books.
+[^69]: Feinberg, R. E. (1972). _The Triumph of Allende: Chile's Legal Revolution_. Mentor Books.
 
-[^70]: Scully, T. R. (1992). *Rethinking the Center: Party Politics in Nineteenth- and Twentieth-Century Chile*. Stanford University Press.
+[^70]: Scully, T. R. (1992). _Rethinking the Center: Party Politics in Nineteenth- and Twentieth-Century Chile_. Stanford University Press.
 
-[^71]: Corvalán, L. (1971). *Camino de victoria*. Horizonte.
+[^71]: Corvalán, L. (1971). _Camino de victoria_. Horizonte.
 
-[^72]: French-Davis, R. (1973). *Políticas económicas en Chile, 1952-1970*. Ediciones Nueva Universidad.
+[^72]: French-Davis, R. (1973). _Políticas económicas en Chile, 1952-1970_. Ediciones Nueva Universidad.
 
-[^73]: Allende, S. (1971). Speech to Chilean Congress. *Diario de Sesiones del Congreso Nacional*.
+[^73]: Allende, S. (1971). Speech to Chilean Congress. _Diario de Sesiones del Congreso Nacional_.
 
-[^74]: Allende, S. (1970). Interview. *Punto Final*, November.
+[^74]: Allende, S. (1970). Interview. _Punto Final_, November.
 
 [^75]: Allende, S. (1972). Speech at United Nations General Assembly, December 4.
 

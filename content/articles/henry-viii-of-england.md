@@ -23,7 +23,7 @@ Henry VIII was born at the Palace of Placentia in Greenwich, Kent, on 28 June 14
 
 As a second son, Henry was not born to be king—he was the spare, not the heir—and his early life was shaped by the expectation that Arthur would rule.[^8] Despite his young age, Henry received remarkable ceremonial appointments: at age two he was named Constable of Dover Castle and Lord Warden of the Cinque Ports, and by age three he became Earl Marshal of England and Lord Lieutenant of Ireland.[^9] These appointments were designed to enable his father to retain personal control of these lucrative positions while nominally granting them to the young prince.[^10]
 
-Henry's early education was exceptional, befitting a Renaissance prince. His first tutor was the poet and satirist John Skelton, though it was his mother who taught him to read and write.[^11] Beginning his formal education at age four, Henry learned to speak Latin, French, Spanish, and Greek fluently.[^12] He was an excellent student who excelled not only in academics but also in athletics, enjoying hunting, dancing, and jousting.[^13] His schoolroom copy of Cicero's *De officiis*, printed in 1502, survives with an ownership inscription in his bold handwriting: "Thys Boke is Myne, Prince Henry".[^14]
+Henry's early education was exceptional, befitting a Renaissance prince. His first tutor was the poet and satirist John Skelton, though it was his mother who taught him to read and write.[^11] Beginning his formal education at age four, Henry learned to speak Latin, French, Spanish, and Greek fluently.[^12] He was an excellent student who excelled not only in academics but also in athletics, enjoying hunting, dancing, and jousting.[^13] His schoolroom copy of Cicero's _De officiis_, printed in 1502, survives with an ownership inscription in his bold handwriting: "Thys Boke is Myne, Prince Henry".[^14]
 
 The trajectory of Henry's life changed dramatically when his elder brother Arthur died in 1502 at the age of fifteen.[^15] At only ten years old, Henry suddenly became heir to the throne, receiving the titles Duke of Cornwall, Prince of Wales, and Earl of Chester.[^16] This unexpected elevation meant that young Henry, who had spent his childhood in the calm expectation of a privileged but secondary role, now faced the prospect of kingship.[^17] Of all the Tudor monarchs, he alone spent his formative years with the assurance of majesty, which helped give his character an air of righteous willfulness and ebullient confidence.[^18]
 
@@ -67,7 +67,7 @@ The total receipts from the monastic confiscations from April 1536 to Michaelmas
 
 Henry VIII is sometimes known as the "Father of the Royal Navy" for his significant expansion and modernization of England's naval forces.[^58] He inherited only fifteen vessels from his father Henry VII, but by 1540 the English Navy had tripled in size, boasting forty-five warships.[^59] Henry built the first naval dock at Portsmouth and established the Navy Board to run the service professionally.[^60] This expansion laid the foundation for England's emergence as a maritime power, which would prove crucial in later centuries.[^61]
 
-Among Henry's naval achievements was the construction of the *Mary Rose*, launched in 1511, which served as a flagship vessel and participated in numerous military campaigns.[^62] The ship played a role during the 1513 Scottish invasion, delivering troops to Newcastle upon Tyne before the Battle of Flodden.[^63] Though the *Mary Rose* famously sank in 1545, Henry's investment in naval infrastructure and shipbuilding established precedents that future English monarchs would build upon.[^64]
+Among Henry's naval achievements was the construction of the _Mary Rose_, launched in 1511, which served as a flagship vessel and participated in numerous military campaigns.[^62] The ship played a role during the 1513 Scottish invasion, delivering troops to Newcastle upon Tyne before the Battle of Flodden.[^63] Though the _Mary Rose_ famously sank in 1545, Henry's investment in naval infrastructure and shipbuilding established precedents that future English monarchs would build upon.[^64]
 
 ### Territorial and Administrative Expansion
 
@@ -75,7 +75,7 @@ Henry VIII oversaw the annexation of Wales to England through the Laws in Wales 
 
 ### Cultural and Scholarly Patronage
 
-Before his break with Rome, Henry VIII received the title "Defender of the Faith" (*Fidei Defensor*) from Pope Leo X on 11 October 1521, in recognition of his theological treatise *Assertio Septem Sacramentorum* (Defence of the Seven Sacraments).[^68] Written in response to Martin Luther's reformist pamphlets, Henry's work became a major bestseller, running to over a dozen editions in German and Latin by the end of 1524.[^69] Though Henry was ultimately excommunicated and stripped of this title in 1538, the English Parliament restored it in 1543, and British monarchs still use it today.[^70]
+Before his break with Rome, Henry VIII received the title "Defender of the Faith" (_Fidei Defensor_) from Pope Leo X on 11 October 1521, in recognition of his theological treatise _Assertio Septem Sacramentorum_ (Defence of the Seven Sacraments).[^68] Written in response to Martin Luther's reformist pamphlets, Henry's work became a major bestseller, running to over a dozen editions in German and Latin by the end of 1524.[^69] Though Henry was ultimately excommunicated and stripped of this title in 1538, the English Parliament restored it in 1543, and British monarchs still use it today.[^70]
 
 Henry was also a patron of the arts and architecture, building magnificent palaces including Hampton Court, Whitehall, and the spectacular Nonsuch Palace.[^71] At Hampton Court alone, Henry spent £62,000 (approximately £18 million today) in just ten years, transforming it into a principal royal residence capable of accommodating his court of over one thousand people.[^72] He established what would become the Royal College of Physicians by Royal Decree, followed by an Act of Parliament that remains in force today.[^73] His cultural patronage brought Renaissance ideals to England and established a court that was a center of artistic and scholarly innovation.[^74]
 
@@ -203,234 +203,419 @@ Ultimately, critics argue that Henry's legacy is that of a fundamentally selfish
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1491 | Born 28 June at Palace of Placentia, Greenwich |
-| 1502 | Brother Arthur dies; Henry becomes heir to throne |
-| 1509 | Becomes King of England on 22 April; marries Catherine of Aragon on 11 June |
-| 1513 | Defeats French at Battle of the Spurs; Scots defeated at Battle of Flodden |
-| 1516 | Daughter Mary born to Catherine of Aragon |
-| 1521 | Receives title "Defender of the Faith" from Pope Leo X |
-| 1527 | Begins seeking annulment from Catherine of Aragon |
-| 1529 | Fall of Cardinal Wolsey; Reformation Parliament begins |
-| 1533 | Secretly marries Anne Boleyn in January; daughter Elizabeth born in September |
-| 1534 | Act of Supremacy declares Henry Supreme Head of Church of England |
-| 1535 | Execution of Sir Thomas More on 6 July |
+| Year | Event                                                                                                                                                                         |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1491 | Born 28 June at Palace of Placentia, Greenwich                                                                                                                                |
+| 1502 | Brother Arthur dies; Henry becomes heir to throne                                                                                                                             |
+| 1509 | Becomes King of England on 22 April; marries Catherine of Aragon on 11 June                                                                                                   |
+| 1513 | Defeats French at Battle of the Spurs; Scots defeated at Battle of Flodden                                                                                                    |
+| 1516 | Daughter Mary born to Catherine of Aragon                                                                                                                                     |
+| 1521 | Receives title "Defender of the Faith" from Pope Leo X                                                                                                                        |
+| 1527 | Begins seeking annulment from Catherine of Aragon                                                                                                                             |
+| 1529 | Fall of Cardinal Wolsey; Reformation Parliament begins                                                                                                                        |
+| 1533 | Secretly marries Anne Boleyn in January; daughter Elizabeth born in September                                                                                                 |
+| 1534 | Act of Supremacy declares Henry Supreme Head of Church of England                                                                                                             |
+| 1535 | Execution of Sir Thomas More on 6 July                                                                                                                                        |
 | 1536 | Jousting accident on 24 January; Anne Boleyn executed 19 May; marries Jane Seymour 30 May; Pilgrimage of Grace rebellion begins in October; Dissolution of Monasteries begins |
-| 1537 | Son Edward born 12 October; Jane Seymour dies 24 October |
-| 1540 | Marries Anne of Cleves in January; marriage annulled in July; marries Catherine Howard 28 July; Thomas Cromwell executed 28 July |
-| 1542 | Catherine Howard executed in February; assumes title King of Ireland |
-| 1543 | Marries Catherine Parr in July |
-| 1544 | Final will and testament establishes succession order |
-| 1545 | *Mary Rose* sinks during Battle of the Solent |
-| 1547 | Dies 28 January at Palace of Whitehall; succeeded by son Edward VI |
+| 1537 | Son Edward born 12 October; Jane Seymour dies 24 October                                                                                                                      |
+| 1540 | Marries Anne of Cleves in January; marriage annulled in July; marries Catherine Howard 28 July; Thomas Cromwell executed 28 July                                              |
+| 1542 | Catherine Howard executed in February; assumes title King of Ireland                                                                                                          |
+| 1543 | Marries Catherine Parr in July                                                                                                                                                |
+| 1544 | Final will and testament establishes succession order                                                                                                                         |
+| 1545 | _Mary Rose_ sinks during Battle of the Solent                                                                                                                                 |
+| 1547 | Dies 28 January at Palace of Whitehall; succeeded by son Edward VI                                                                                                            |
 
 ---
 
 ## Famous Quotes
 
 > "Of all losses, time is the most irrecuperable for it can never be redeemed."[^182]  
-Context: Reflects Henry's philosophical views on the passage of time and mortality.
+> Context: Reflects Henry's philosophical views on the passage of time and mortality.
 
 > "Thou hast sent me a Flanders Mare!"[^183]  
-Context: Reportedly said to Thomas Cromwell about Anne of Cleves upon first meeting her, expressing his profound disappointment with her appearance.
+> Context: Reportedly said to Thomas Cromwell about Anne of Cleves upon first meeting her, expressing his profound disappointment with her appearance.
 
 > "Alas, how can the poor souls live in Concord when you preachers sow amongst them in your sermons debate and discord? They look to you for light and you bring them darkness. Amend these crimes, I exhort you..."[^184]  
-Context: From Henry's last speech to Parliament on 24 December 1545, addressing religious divisions among preachers.
+> Context: From Henry's last speech to Parliament on 24 December 1545, addressing religious divisions among preachers.
 
 > "Blighted in the eyes of God."[^185]  
-Context: Henry's characterization of his marriage to Catherine of Aragon, claiming divine punishment explained why he never received the son he desired from that union.
+> Context: Henry's characterization of his marriage to Catherine of Aragon, claiming divine punishment explained why he never received the son he desired from that union.
 
 > "The King's good servant but God's first."[^186]  
-Context: Sir Thomas More's final words on the scaffold (not Henry's words, but definitively associated with Henry's reign and his conflict between royal and religious authority).
+> Context: Sir Thomas More's final words on the scaffold (not Henry's words, but definitively associated with Henry's reign and his conflict between royal and religious authority).
 
 ---
 
 ## References
 
 [^1]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^2]: Henry VIII | Biography, Wives, Religion, Death, & Facts | Britannica, https://www.britannica.com/biography/Henry-VIII-king-of-England
+
 [^3]: Henry VIII, Terrible Tudor? | Hampton Court Palace, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viii/
+
 [^4]: Henry VIII's children | Hampton Court Palace, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viiis-children/
+
 [^5]: Henry VIII - Wives, Siblings & Children | Biography, https://www.biography.com/royalty/henry-viii
+
 [^6]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^7]: Henry VIII Early Life, https://www.sixwives.info/henry-viii-early-life.htm
+
 [^8]: Henry VIII's early life - Simple History, https://simplehistory.co.uk/henry-viiis-early-life/
+
 [^9]: What was Henry VIII's childhood like? | Britannica, https://www.britannica.com/question/What-was-Henry-VIIIs-childhood-like
+
 [^10]: Biography: Henry VIII for Kids, https://www.ducksters.com/biography/world_leaders/henry_viii.php
+
 [^11]: The education of Henry VIII | Folger Shakespeare Library, https://www.folger.edu/blogs/shakespeare-and-beyond/education-of-henry-viii-excerpt-hunting-the-falcon/
+
 [^12]: Henry VIII Biography | Henry VIII Facts, https://www.potterswaxmuseum.com/european-history/henry-viii/
+
 [^13]: Biography: Henry VIII for Kids, https://www.ducksters.com/biography/world_leaders/henry_viii.php
+
 [^14]: The education of Henry VIII | Folger Shakespeare Library, https://www.folger.edu/blogs/shakespeare-and-beyond/education-of-henry-viii-excerpt-hunting-the-falcon/
+
 [^15]: Henry VIII (r.1509-1547) | The Royal Family, https://www.royal.uk/henry-viii
+
 [^16]: What was Henry VIII's childhood like? | Britannica, https://www.britannica.com/question/What-was-Henry-VIIIs-childhood-like
+
 [^17]: Henry VIII's early life - Simple History, https://simplehistory.co.uk/henry-viiis-early-life/
+
 [^18]: What was Henry VIII's childhood like? | Britannica, https://www.britannica.com/question/What-was-Henry-VIIIs-childhood-like
+
 [^19]: What was Henry VIII's childhood like? | Britannica, https://www.britannica.com/question/What-was-Henry-VIIIs-childhood-like
+
 [^20]: The education of Henry VIII | Folger Shakespeare Library, https://www.folger.edu/blogs/shakespeare-and-beyond/education-of-henry-viii-excerpt-hunting-the-falcon/
+
 [^21]: Henry VIII: Renaissance Prince and King - The Anne Boleyn Files, https://www.theanneboleynfiles.com/henry-viii-renaissance-prince-and-king/
+
 [^22]: King Henry VIII of England, Wales and Ireland Timeline 1491-1547, https://www.thetimelinegeek.com/henry-viii-1491-1547/
+
 [^23]: Henry VIII | Biography, Wives, Religion, Death, & Facts | Britannica, https://www.britannica.com/biography/Henry-VIII-king-of-England
+
 [^24]: Henry VIII Timeline, https://www.henryviiithereign.co.uk/henry-viii-timeline.html
+
 [^25]: Henry VIII's Deteriorating Health 1509-1547 - Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofEngland/Henry-VIII-Health-Problems/
+
 [^26]: Henry VIII: Renaissance Prince and King - The Anne Boleyn Files, https://www.theanneboleynfiles.com/henry-viii-renaissance-prince-and-king/
+
 [^27]: Wives of Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Wives_of_Henry_VIII
+
 [^28]: Henry VIII | Biography, Wives, Religion, Death, & Facts | Britannica, https://www.britannica.com/biography/Henry-VIII-king-of-England
+
 [^29]: United Kingdom - Henry VIII, Tudor, Reformation | Britannica, https://www.britannica.com/place/United-Kingdom/Henry-VIII-1509-47
+
 [^30]: Tudor Minute August 16, 1513: The Battle of the Spurs, https://www.englandcast.com/2022/08/battle-of-the-spurs/
+
 [^31]: Battle of Flodden - Wikipedia, https://en.wikipedia.org/wiki/Battle_of_Flodden
+
 [^32]: Thomas Wolsey - Wikipedia, https://en.wikipedia.org/wiki/Thomas_Wolsey
+
 [^33]: What was Wolsey's involvement in the foreign policy of Henry VIII?, https://studymind.co.uk/notes/what-was-wolseys-involvement-in-the-foreign-policy-of-henry-viii/
+
 [^34]: Analyzing Henry VIII's Foreign Policy, http://www.napoleonsthelena.com/analyzing-henry-viiis-foreign-policy-power-allies-and-conflicts/
+
 [^35]: Henry VIII's wives: six queens, six women, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viii-s-wives-six-queens-six-women/
+
 [^36]: Who were Henry VIII's wives? | Royal Museums Greenwich, https://www.rmg.co.uk/stories/royal-history/who-were-henry-viiis-wives
+
 [^37]: Anne Boleyn and Henry VIII: A Love Story for the Ages, https://katdevitt.com/2025/04/30/anne-boleyn-and-henry-viii-a-love-story-for-the-ages-until-he-cut-off-her-head/
+
 [^38]: How Henry VIII's Divorce Led to Reformation | HISTORY, https://www.history.com/articles/henry-viii-divorce-reformation-catholic-church
+
 [^39]: Why did Henry VIII break with Rome? | Royal Museums Greenwich, https://www.rmg.co.uk/stories/topics/why-did-henry-viii-break-rome
+
 [^40]: Acts of Supremacy - Wikipedia, https://en.wikipedia.org/wiki/Acts_of_Supremacy
+
 [^41]: Act of Supremacy | Henry VIII, Church of England | Britannica, https://www.britannica.com/topic/Act-of-Supremacy-England-1534
+
 [^42]: English Reformation - Wikipedia, https://en.wikipedia.org/wiki/English_Reformation
+
 [^43]: English Reformation - Wikipedia, https://en.wikipedia.org/wiki/English_Reformation
+
 [^44]: Acts of Supremacy - Wikipedia, https://en.wikipedia.org/wiki/Acts_of_Supremacy
+
 [^45]: Act of Supremacy | Henry VIII, Church of England | Britannica, https://www.britannica.com/topic/Act-of-Supremacy-England-1534
+
 [^46]: Act of Supremacy | Henry VIII, Church of England | Britannica, https://www.britannica.com/topic/Act-of-Supremacy-England-1534
+
 [^47]: How Henry VIII's Divorce Led to Reformation | HISTORY, https://www.history.com/articles/henry-viii-divorce-reformation-catholic-church
+
 [^48]: English Reformation - Wikipedia, https://en.wikipedia.org/wiki/English_Reformation
+
 [^49]: United Kingdom - Reformation, Henry VIII, Church of England | Britannica, https://www.britannica.com/place/United-Kingdom/The-break-with-Rome
+
 [^50]: Dissolution of the monasteries - Wikipedia, https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries
+
 [^51]: Dissolution of the monasteries - Wikipedia, https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries
+
 [^52]: Why Did Henry VIII Dissolve the Monasteries in England?, https://www.historyhit.com/why-did-henry-viii-dissolve-the-monasteries-in-england/
+
 [^53]: Dissolution of the Monasteries - World History Encyclopedia, https://www.worldhistory.org/Dissolution_of_the_Monasteries/
+
 [^54]: Dissolution of the Monasteries, https://www.historic-uk.com/HistoryUK/HistoryofEngland/Dissolution-of-the-Monasteries/
+
 [^55]: Dissolution of the Monasteries - World History Encyclopedia, https://www.worldhistory.org/Dissolution_of_the_Monasteries/
+
 [^56]: CATHOLIC ENCYCLOPEDIA: Suppression of English Monasteries, https://www.newadvent.org/cathen/10455a.htm
+
 [^57]: Dissolution of the Monasteries, https://www.historic-uk.com/HistoryUK/HistoryofEngland/Dissolution-of-the-Monasteries/
+
 [^58]: 5 of Henry VIII's Greatest Achievements | History Hit, https://www.historyhit.com/henry-viii-greatest-achievements/
+
 [^59]: 5 of Henry VIII's Greatest Achievements | History Hit, https://www.historyhit.com/henry-viii-greatest-achievements/
+
 [^60]: Henry VIII (r.1509-1547) | The Royal Family, https://www.royal.uk/henry-viii
+
 [^61]: 5 of Henry VIII's Greatest Achievements | History Hit, https://www.historyhit.com/henry-viii-greatest-achievements/
+
 [^62]: The life of the Mary Rose - Mary Rose, https://maryrose.org/discover/history/life-of-the-mary-rose/
+
 [^63]: The Mary Rose and the Battle of Flodden Field - Mary Rose, https://maryrose.org/the-battle-of-flodden-field/
+
 [^64]: The story of the Mary Rose - A Bit About Britain, https://bitaboutbritain.com/the-story-of-the-mary-rose/
+
 [^65]: Henry VIII of England - World History Encyclopedia, https://www.worldhistory.org/Henry_VIII_of_England/
+
 [^66]: 5 of Henry VIII's Greatest Achievements | History Hit, https://www.historyhit.com/henry-viii-greatest-achievements/
+
 [^67]: Henry VIII of England - World History Encyclopedia, https://www.worldhistory.org/Henry_VIII_of_England/
+
 [^68]: Defender of the Faith - Wikipedia, https://en.wikipedia.org/wiki/Defender_of_the_Faith
+
 [^69]: HENRY VIII AS DEFENDER OF THE FAITH, https://tudortreasures.net/henry-viii-as-defender-of-the-faith-against-martin-luther/
+
 [^70]: Defender of the Faith - Medieval manuscripts blog, https://blogs.bl.uk/digitisedmanuscripts/2020/07/defender-of-the-faith.html
+
 [^71]: The Legacy of Henry VIII - Tudors Dynasty, https://tudorsdynasty.com/the-legacy-of-henry-viii/
+
 [^72]: Hampton Court Palace - Wikipedia, https://en.wikipedia.org/wiki/Hampton_Court_Palace
+
 [^73]: Henry VIII Accomplishments, https://www.sixwives.info/henry-viii-accomplishments.htm
+
 [^74]: Henry VIII: Renaissance Prince and King - The Anne Boleyn Files, https://www.theanneboleynfiles.com/henry-viii-renaissance-prince-and-king/
+
 [^75]: Henry VIII's Betrayals and Executions, https://www.englandcast.com/2025/06/henry-viiis-betrayals-and-executions/
+
 [^76]: How many people did Henry VIII execute? | Sky HISTORY, https://www.history.co.uk/article/the-killer-king-how-many-people-did-henry-viii-execute
+
 [^77]: The Real Story Behind Wolf Hall and Thomas Cromwell, https://www.smithsonianmag.com/history/the-real-story-behind-wolf-hall-and-the-fall-of-thomas-cromwell-henry-viiis-most-controversial-adviser-180986258/
+
 [^78]: The Execution of Sir Thomas More, https://blogs.bl.uk/digitisedmanuscripts/2016/07/the-execution-of-sir-thomas-more.html
+
 [^79]: The Treason of Sir Thomas More - History Guild, https://historyguild.org/the-treason-of-sir-thomas-more/
+
 [^80]: The Treason of Sir Thomas More - History Guild, https://historyguild.org/the-treason-of-sir-thomas-more/
+
 [^81]: Thomas Cromwell - Wikipedia, https://en.wikipedia.org/wiki/Thomas_Cromwell
+
 [^82]: The Real Story Behind Wolf Hall and Thomas Cromwell, https://www.smithsonianmag.com/history/the-real-story-behind-wolf-hall-and-the-fall-of-thomas-cromwell-henry-viiis-most-controversial-adviser-180986258/
+
 [^83]: The Execution of Thomas Cromwell - The Anne Boleyn Files, https://www.theanneboleynfiles.com/the-execution-of-thomas-cromwell/
+
 [^84]: Henry VIII's Betrayals and Executions, https://www.englandcast.com/2025/06/henry-viiis-betrayals-and-executions/
+
 [^85]: Anne Boleyn | Tower of London, https://www.hrp.org.uk/tower-of-london/history-and-stories/anne-boleyn/
+
 [^86]: Anne Boleyn - Wikipedia, https://en.wikipedia.org/wiki/Anne_Boleyn
+
 [^87]: Anne Boleyn | Tower of London, https://www.hrp.org.uk/tower-of-london/history-and-stories/anne-boleyn/
+
 [^88]: Anne Boleyn and Henry VIII: A Love Story for the Ages, https://katdevitt.com/2025/04/30/anne-boleyn-and-henry-viii-a-love-story-for-the-ages-until-he-cut-off-her-head/
+
 [^89]: Catherine Howard - Wikipedia, https://en.wikipedia.org/wiki/Catherine_Howard
+
 [^90]: Henry VIII's wives: six queens, six women, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viii-s-wives-six-queens-six-women/
+
 [^91]: Pilgrimage of Grace - Wikipedia, https://en.wikipedia.org/wiki/Pilgrimage_of_Grace
+
 [^92]: The Pilgrimage of Grace: England's forgotten uprising, https://www.historyskills.com/classroom/year-8/pilgrimage-of-grace/
+
 [^93]: Pilgrimage of Grace | Rebellion, Henry VIII & Catholicism | Britannica, https://www.britannica.com/event/Pilgrimage-of-Grace
+
 [^94]: Pilgrimage of Grace | Rebellion, Henry VIII & Catholicism | Britannica, https://www.britannica.com/event/Pilgrimage-of-Grace
+
 [^95]: Robert Aske, https://spartacus-educational.com/TUDaske.htm
+
 [^96]: The Pilgrimage of Grace: England's forgotten uprising, https://www.historyskills.com/classroom/year-8/pilgrimage-of-grace/
+
 [^97]: Henry VIII's Deteriorating Health 1509-1547 - Historic UK, https://www.historic-uk.com/HistoryUK/HistoryofEngland/Henry-VIII-Health-Problems/
+
 [^98]: Henry VIII's obesity following traumatic brain injury | Endocrine, https://link.springer.com/article/10.1007/s12020-011-9581-z
+
 [^99]: 500 years later: Henry VIII, leg ulcers and the course of history, https://pmc.ncbi.nlm.nih.gov/articles/PMC2789029/
+
 [^100]: The Physical Decline of Henry VIII - The Tudor Society, https://www.tudorsociety.com/the-physical-decline-of-henry-viii-by-sarah-bryson/
+
 [^101]: Did Henry VIII suffer same brain injury as some NFL players?, https://news.yale.edu/2016/02/02/did-henry-viii-suffer-same-brain-injury-some-nfl-players
+
 [^102]: Henry VIII's jousting accident: The injury that transformed a kingdom, https://www.historyskills.com/classroom/year-8/henry-viii-jousting-accident/
+
 [^103]: Wives of Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Wives_of_Henry_VIII
+
 [^104]: Who were Henry VIII's wives? | Royal Museums Greenwich, https://www.rmg.co.uk/stories/royal-history/who-were-henry-viiis-wives
+
 [^105]: The six wives of Henry VIII | Britannica, https://www.britannica.com/topic/The-six-wives-of-Henry-VIII
+
 [^106]: Anne Boleyn and Henry VIII: A Love Story for the Ages, https://katdevitt.com/2025/04/30/anne-boleyn-and-henry-viii-a-love-story-for-the-ages-until-he-cut-off-her-head/
+
 [^107]: Henry VIII's Love Letters to Anne Boleyn - The Anne Boleyn Files, https://www.theanneboleynfiles.com/resources/anne-boleyn-words/henry-viiis-love-letters-to-anne-boleyn/
+
 [^108]: How Anne Boleyn won (and lost) the heart of Henry VIII, https://www.nationalgeographic.com/history/history-magazine/article/anne-boleyn-used-flirtation-fertility-faith-seduce-henry-viii
+
 [^109]: Anne Boleyn - Wikipedia, https://en.wikipedia.org/wiki/Anne_Boleyn
+
 [^110]: Jane Seymour - Wikipedia, https://en.wikipedia.org/wiki/Jane_Seymour
+
 [^111]: Jane Seymour - Wikipedia, https://en.wikipedia.org/wiki/Jane_Seymour
+
 [^112]: Jane Seymour - Wikipedia, https://en.wikipedia.org/wiki/Jane_Seymour
+
 [^113]: Who were Henry VIII's wives? | Royal Museums Greenwich, https://www.rmg.co.uk/stories/royal-history/who-were-henry-viiis-wives
+
 [^114]: TOP 13 QUOTES BY HENRY VIII | A-Z Quotes, https://www.azquotes.com/author/20839-Henry_VIII_of_England
+
 [^115]: Who were Henry VIII's wives? | Royal Museums Greenwich, https://www.rmg.co.uk/stories/royal-history/who-were-henry-viiis-wives
+
 [^116]: Who were Henry VIII's wives? | Royal Museums Greenwich, https://www.rmg.co.uk/stories/royal-history/who-were-henry-viiis-wives
+
 [^117]: Catherine Howard - Wikipedia, https://en.wikipedia.org/wiki/Catherine_Howard
+
 [^118]: Catherine Howard | Hampton Court Palace, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/catherine-howard/
+
 [^119]: The six wives of Henry VIII | Britannica, https://www.britannica.com/topic/The-six-wives-of-Henry-VIII
+
 [^120]: The six wives of Henry VIII | Britannica, https://www.britannica.com/topic/The-six-wives-of-Henry-VIII
+
 [^121]: The six wives of Henry VIII | Britannica, https://www.britannica.com/topic/The-six-wives-of-Henry-VIII
+
 [^122]: Wives of Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Wives_of_Henry_VIII
+
 [^123]: Henry VIII's children | Hampton Court Palace, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viiis-children/
+
 [^124]: Edward VI | Death, Successor, & Facts | Britannica, https://www.britannica.com/biography/Edward-VI
+
 [^125]: Children of Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Children_of_Henry_VIII
+
 [^126]: Elizabeth I - Wikipedia, https://en.wikipedia.org/wiki/Elizabeth_I
+
 [^127]: House of Tudor | History, Monarchs, & Facts | Britannica, https://www.britannica.com/topic/House-of-Tudor
+
 [^128]: House of Tudor | History, Monarchs, & Facts | Britannica, https://www.britannica.com/topic/House-of-Tudor
+
 [^129]: Who was a True Renaissance Prince? Part III: Henry VIII, https://maidensandmanuscripts.com/2018/02/16/who-was-a-true-renaissance-prince-part-iii-henry-viii-of-england/
+
 [^130]: Henry VIII: Renaissance Prince and King - The Anne Boleyn Files, https://www.theanneboleynfiles.com/henry-viii-renaissance-prince-and-king/
+
 [^131]: Henry VIII: Renaissance Prince and King - The Anne Boleyn Files, https://www.theanneboleynfiles.com/henry-viii-renaissance-prince-and-king/
+
 [^132]: Henry VIII - The Renaissance King, https://tudorhub.com/henry-viii/
+
 [^133]: Henry VIII: Renaissance Prince and King - The Anne Boleyn Files, https://www.theanneboleynfiles.com/henry-viii-renaissance-prince-and-king/
+
 [^134]: Henry VIII - The Renaissance King, https://tudorhub.com/henry-viii/
+
 [^135]: Henry VIII: Renaissance Prince and King - The Anne Boleyn Files, https://www.theanneboleynfiles.com/henry-viii-renaissance-prince-and-king/
+
 [^136]: The Reign of Henry VIII and its Impact on England, https://cards.algoreducation.com/en/content/AGiRHXo6/henry-viii-legacy
+
 [^137]: English Reformation - Wikipedia, https://en.wikipedia.org/wiki/English_Reformation
+
 [^138]: 6 Key Changes During the Reign of Henry VIII | History Hit, https://www.historyhit.com/key-changes-during-henry-viiis-reign/
+
 [^139]: The Conflicting Legacies of King Henry VIII | Britannica, https://www.britannica.com/video/Overview-Henry-VIII-reign/-192049
+
 [^140]: Dissolution of the monasteries - Wikipedia, https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries
+
 [^141]: How Henry VIII's dissolution of the monasteries traumatized Tudor England, https://www.historyskills.com/classroom/year-8/dissolution-of-the-monasteries/
+
 [^142]: 5 of Henry VIII's Greatest Achievements | History Hit, https://www.historyhit.com/henry-viii-greatest-achievements/
+
 [^143]: The Enduring Legacy of Henry VIII, https://www.historytools.org/stories/the-enduring-legacy-of-henry-viii-10-key-changes-that-shaped-englands-future
+
 [^144]: Henry VIII of England - World History Encyclopedia, https://www.worldhistory.org/Henry_VIII_of_England/
+
 [^145]: Henry VIII's children | Hampton Court Palace, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viiis-children/
+
 [^146]: Children of Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Children_of_Henry_VIII
+
 [^147]: The Legacy of Henry VIII - Tudors Dynasty, https://tudorsdynasty.com/the-legacy-of-henry-viii/
+
 [^148]: The Palaces of Henry VIII - Renaissance English History Podcast, https://www.englandcast.com/2024/05/palaces-henry-viii/
+
 [^149]: Portrait of Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Portrait_of_Henry_VIII
+
 [^150]: The Conflicting Legacies of King Henry VIII | Britannica, https://www.britannica.com/video/Overview-Henry-VIII-reign/-192049
+
 [^151]: The Complex Legacy of Henry VIII, https://www.superprof.co.uk/resources/academic/social-sciences-academic/history-resources/a-level-history/the-complex-legacy-of-henry-viii.html
+
 [^152]: The Enduring Legacy of Henry VIII, https://www.historytools.org/stories/the-enduring-legacy-of-henry-viii-10-key-changes-that-shaped-englands-future
+
 [^153]: The Complex Legacy of Henry VIII, https://www.superprof.co.uk/resources/academic/social-sciences-academic/history-resources/a-level-history/the-complex-legacy-of-henry-viii.html
+
 [^154]: Henry VIII, Terrible Tudor? | Hampton Court Palace, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viii/
+
 [^155]: The Conflicting Legacies of King Henry VIII | Britannica, https://www.britannica.com/video/Overview-Henry-VIII-reign/-192049
+
 [^156]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^157]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^158]: Henry VIII (r.1509-1547) | The Royal Family, https://www.royal.uk/henry-viii
+
 [^159]: 6 Key Changes During the Reign of Henry VIII | History Hit, https://www.historyhit.com/key-changes-during-henry-viiis-reign/
+
 [^160]: 5 of Henry VIII's Greatest Achievements | History Hit, https://www.historyhit.com/henry-viii-greatest-achievements/
+
 [^161]: Henry VIII | Biography, Wives, Religion, Death, & Facts | Britannica, https://www.britannica.com/biography/Henry-VIII-king-of-England
+
 [^162]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^163]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^164]: English Reformation - Wikipedia, https://en.wikipedia.org/wiki/English_Reformation
+
 [^165]: The Legacy of Henry VIII - Tudors Dynasty, https://tudorsdynasty.com/the-legacy-of-henry-viii/
+
 [^166]: The Enduring Legacy of Henry VIII, https://www.historytools.org/stories/the-enduring-legacy-of-henry-viii-10-key-changes-that-shaped-englands-future
+
 [^167]: How many people did Henry VIII execute? | Sky HISTORY, https://www.history.co.uk/article/the-killer-king-how-many-people-did-henry-viii-execute
+
 [^168]: Henry VIII's Betrayals and Executions, https://www.englandcast.com/2025/06/henry-viiis-betrayals-and-executions/
+
 [^169]: Wives of Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Wives_of_Henry_VIII
+
 [^170]: The six wives of Henry VIII | Britannica, https://www.britannica.com/topic/The-six-wives-of-Henry-VIII
+
 [^171]: Henry VIII's Betrayals and Executions, https://www.englandcast.com/2025/06/henry-viiis-betrayals-and-executions/
+
 [^172]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^173]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^174]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^175]: How Henry VIII's dissolution of the monasteries traumatized Tudor England, https://www.historyskills.com/classroom/year-8/dissolution-of-the-monasteries/
+
 [^176]: The Pilgrimage of Grace: England's forgotten uprising, https://www.historyskills.com/classroom/year-8/pilgrimage-of-grace/
+
 [^177]: Henry VIII - Wikipedia, https://en.wikipedia.org/wiki/Henry_VIII
+
 [^178]: Did Henry VIII suffer same brain injury as some NFL players?, https://news.yale.edu/2016/02/02/did-henry-viii-suffer-same-brain-injury-some-nfl-players
+
 [^179]: Henry VIII's jousting accident: The injury that transformed a kingdom, https://www.historyskills.com/classroom/year-8/henry-viii-jousting-accident/
+
 [^180]: Henry VIII, Terrible Tudor? | Hampton Court Palace, https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viii/
+
 [^181]: The Conflicting Legacies of King Henry VIII | Britannica, https://www.britannica.com/video/Overview-Henry-VIII-reign/-192049
+
 [^182]: TOP 13 QUOTES BY HENRY VIII | A-Z Quotes, https://www.azquotes.com/author/20839-Henry_VIII_of_England
+
 [^183]: TOP 13 QUOTES BY HENRY VIII | A-Z Quotes, https://www.azquotes.com/author/20839-Henry_VIII_of_England
+
 [^184]: King Henry VIII Some More Famous Quotes, https://elizabethanenglandlife.com/thetudorsfacts/king-henry-viii-quotes.html
+
 [^185]: King Henry VIII Quotes, https://www.sixwives.info/king-henry-viii-quotes.htm
+
 [^186]: The Execution of Sir Thomas More, https://blogs.bl.uk/digitisedmanuscripts/2016/07/the-execution-of-sir-thomas-more.html

@@ -145,28 +145,28 @@ Finally, the enduring mystery of his assassination and the failure to bring anyo
 
 ## Timeline
 
-| Year | Event |
-|------|-------|
-| 1895 | Born on October 1 in Karnal, British India |
-| 1913 | Enrolled at Muhammadan Anglo-Oriental College, Aligarh |
-| 1918 | Graduated with BSc in Political Science and LLB; married Jehangira Begum |
-| 1921 | Awarded Master's degree from Exeter College, Oxford University |
-| 1922 | Qualified as a barrister in England; returned to India |
-| 1923 | Entered politics; elected to United Provinces provincial legislature |
-| 1933 | Married Begum Ra'ana (Irene Pant); convinced Jinnah to return to India |
-| 1940 | Participated in Lahore Resolution demanding separate Muslim state |
-| 1943 | Reelected General Secretary of Muslim League; called Jinnah's "right hand" |
-| 1946 | Appointed Finance Minister in interim government of India |
-| 1947 | Became Pakistan's first Prime Minister on August 15 |
-| 1948 | Managed refugee crisis and administrative challenges following partition |
+| Year | Event                                                                               |
+| ---- | ----------------------------------------------------------------------------------- |
+| 1895 | Born on October 1 in Karnal, British India                                          |
+| 1913 | Enrolled at Muhammadan Anglo-Oriental College, Aligarh                              |
+| 1918 | Graduated with BSc in Political Science and LLB; married Jehangira Begum            |
+| 1921 | Awarded Master's degree from Exeter College, Oxford University                      |
+| 1922 | Qualified as a barrister in England; returned to India                              |
+| 1923 | Entered politics; elected to United Provinces provincial legislature                |
+| 1933 | Married Begum Ra'ana (Irene Pant); convinced Jinnah to return to India              |
+| 1940 | Participated in Lahore Resolution demanding separate Muslim state                   |
+| 1943 | Reelected General Secretary of Muslim League; called Jinnah's "right hand"          |
+| 1946 | Appointed Finance Minister in interim government of India                           |
+| 1947 | Became Pakistan's first Prime Minister on August 15                                 |
+| 1948 | Managed refugee crisis and administrative challenges following partition            |
 | 1949 | Promulgated Objectives Resolution on March 12 establishing constitutional framework |
-| 1949 | Established State Bank of Pakistan in November |
-| 1950 | Signed Liaquat-Nehru Pact on minority rights in April |
-| 1950 | Made historic state visit to United States in May |
-| 1951 | Rawalpindi Conspiracy Case uncovered alleged communist coup plot |
-| 1951 | Assassinated on October 16 at Company Bagh, Rawalpindi |
-| 1951 | Assassin Said Akbar Babrak shot dead immediately; conspiracy never solved |
-| 1951 | Posthumously awarded titles "Quaid-e-Millat" and "Shaheed-e-Millat" |
+| 1949 | Established State Bank of Pakistan in November                                      |
+| 1950 | Signed Liaquat-Nehru Pact on minority rights in April                               |
+| 1950 | Made historic state visit to United States in May                                   |
+| 1951 | Rawalpindi Conspiracy Case uncovered alleged communist coup plot                    |
+| 1951 | Assassinated on October 16 at Company Bagh, Rawalpindi                              |
+| 1951 | Assassin Said Akbar Babrak shot dead immediately; conspiracy never solved           |
+| 1951 | Posthumously awarded titles "Quaid-e-Millat" and "Shaheed-e-Millat"                 |
 
 ---
 
@@ -174,93 +174,164 @@ Finally, the enduring mystery of his assassination and the failure to bring anyo
 
 > "The movement of Pakistan which the Quaid-i-Azam launched was ethical in inspiration and ideological in content. The story of this movement is a story of the ideals of equality, fraternity and social and economic justice struggling against the forces of domination, exploitation, intolerance and tyranny."
 
-*From speeches articulating the ideological foundations of Pakistan, emphasizing its basis in social justice rather than merely religious separatism.*[^69]
+_From speeches articulating the ideological foundations of Pakistan, emphasizing its basis in social justice rather than merely religious separatism._[^69]
 
 > "May God protect Pakistan. Pakistan zindabad!"
 
-*His last words before being shot at Company Bagh in Rawalpindi on October 16, 1951, expressing his final thoughts for the nation he helped build.*[^70]
+_His last words before being shot at Company Bagh in Rawalpindi on October 16, 1951, expressing his final thoughts for the nation he helped build._[^70]
 
 > "Dark forces are at work threatening to extinguish the torch of civilisation which liberal institutions are trying to keep alive."
 
-*Statement during his 1950 visit to the United States, referring to communism and explaining Pakistan's alignment with Western democracies.*[^71]
+_Statement during his 1950 visit to the United States, referring to communism and explaining Pakistan's alignment with Western democracies._[^71]
 
 > "If Jinnah founded Pakistan, I established it."
 
-*Attributed statement reflecting his role in building Pakistan's institutions and administrative structures after independence.*[^72]
+_Attributed statement reflecting his role in building Pakistan's institutions and administrative structures after independence._[^72]
 
 ---
 
 ## References
 
 [^1]: Encyclopedia.com, "Khan, Liaquat Ali," https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/khan-liaquat-ali
+
 [^2]: Wikipedia, "Liaquat Ali Khan," https://en.wikipedia.org/wiki/Liaquat_Ali_Khan
+
 [^3]: History Pak, "Liaqat Ali Khan (1895–1951)," https://historypak.com/liaqat-ali-khan-1895-1951/
+
 [^4]: History Of Pakistan, "Liaqat ALi Khan," https://historyofpak.com/person/liaqat-ali-khan
+
 [^5]: Britannica, "Liaquat Ali Khan | Founder of Pakistan," https://www.britannica.com/biography/Liaquat-Ali-Khan
+
 [^6]: Punjab University, "Liaquat Ali Khan – His Role and Contribution in the Pakistan Movement," https://pu.edu.pk/images/journal/studies/PDF-FILES/18_v21_1_20.pdf
+
 [^7]: Kids Kiddle, "Liaquat Ali Khan facts for kids," https://kids.kiddle.co/Liaquat_Ali_Khan
+
 [^8]: Oxford Reference, "Liaqat Ali Khan," https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100103706
+
 [^9]: New World Encyclopedia, "Liaquat Ali Khan," https://www.newworldencyclopedia.org/entry/Liaquat_Ali_Khan
+
 [^10]: Encyclopedia.com, "Liaquat Ali Khan," https://www.encyclopedia.com/people/history/south-asian-history-biographies/liaquat-ali-khan
+
 [^11]: Geo News, "Remembering my parents, Liaquat Ali Khan and Begum Ra'ana Liaquat," https://www.geo.tv/latest/375972-remembering-my-parents-liaquat-ali-khan-and-begum-raana-liaquat
+
 [^12]: PBS Frontline, "Pakistan: Timeline," https://www.pbs.org/frontlineworld/stories/pakistan703/history/timeline_1.html
+
 [^13]: National Portrait Gallery, "Liaquat Ali Khan - Person," https://www.npg.org.uk/collections/search/person/mp77640/liaquat-ali-khan
+
 [^14]: Wikipedia, "Liaquat Ali Khan government," https://en.wikipedia.org/wiki/Liaquat_Ali_Khan_government
+
 [^15]: The Famous People, "Liaquat Ali Khan Biography," https://www.thefamouspeople.com/profiles/liaquat-ali-khan-7279.php
+
 [^16]: Herald Dawn, "Liaquat Ali Khan: The founding father of Pakistan's state policies," https://herald.dawn.com/news/1153880
+
 [^17]: Saudi Gazette, "Tribute to Pakistan's first Premier Liaquat Ali Khan on 118th birth anniversary," https://saudigazette.com.sa/article/61295
+
 [^18]: History Pak, "Liaqat Ali Khan (1895–1951)," https://historypak.com/liaqat-ali-khan-1895-1951/
+
 [^19]: New World Encyclopedia, "Liaquat Ali Khan," https://www.newworldencyclopedia.org/entry/Liaquat_Ali_Khan
+
 [^20]: Punjab University, "Liaquat Ali Khan – His Role and Contribution," https://pu.edu.pk/images/journal/studies/PDF-FILES/18_v21_1_20.pdf
+
 [^21]: History Of Pakistan, "Liaqat ALi Khan," https://historyofpak.com/person/liaqat-ali-khan
+
 [^22]: Britannica, "Liaquat Ali Khan," https://www.britannica.com/biography/Liaquat-Ali-Khan
+
 [^23]: PBS Frontline, "Pakistan: Timeline," https://www.pbs.org/frontlineworld/stories/pakistan703/history/timeline_1.html
+
 [^24]: Wikiquote, "Liaquat Ali Khan," https://en.wikiquote.org/wiki/Liaquat_Ali_Khan
+
 [^25]: Herald Dawn, "Liaquat Ali Khan: The founding father," https://herald.dawn.com/news/1153880
+
 [^26]: Saudi Gazette, "Tribute to Pakistan's first Premier," https://saudigazette.com.sa/article/61295
+
 [^27]: Encyclopedia.com, "Khan, Liaquat Ali," https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/khan-liaquat-ali
+
 [^28]: Dawn, "Special report: The legendary Liaquat 1895-1951," https://www.dawn.com/news/1362909
+
 [^29]: Dawn, "THE ASSASSINATION OF LIAQUAT ALI KHAN," https://www.dawn.com/news/1962166
+
 [^30]: JSTOR, "THE FOREIGN POLICY OF MR. LIAQUAT ALI KHAN," https://www.jstor.org/stable/41392491
+
 [^31]: Dawn, "The assassination of Liaquat Ali Khan — a death foretold," https://www.dawn.com/news/1948626
+
 [^32]: Arab News, "Declassified Papers Shed Light on US Role in Liaquat's Murder," https://www.arabnews.com/node/287940
+
 [^33]: Dawn, "Special report: The legendary Liaquat," https://www.dawn.com/news/1362909
+
 [^34]: The Print, "Saif Ali Khan to Gen Musharraf to Liaquat Ali Khan. A tale of 'enemies' and property," https://theprint.in/past-forward/saif-ali-khan-to-gen-musharraf-to-liaquat-ali-khan-a-tale-of-enemies-and-property/2494533/
+
 [^35]: Dawn, "THE ASSASSINATION OF LIAQUAT ALI KHAN," https://www.dawn.com/news/1962166
+
 [^36]: Dawn, "The legendary Liaquat 1895-1951," https://www.dawn.com/news/1362909
+
 [^37]: Kids Kiddle, "Liaquat Ali Khan facts," https://kids.kiddle.co/Liaquat_Ali_Khan
+
 [^38]: Wikipedia, "Ra'ana Liaquat Ali Khan," https://en.wikipedia.org/wiki/Ra'ana_Liaquat_Ali_Khan
+
 [^39]: Asian Voice, "A Love story of Ra'ana Liaquat Ali Khan," https://www.asian-voice.com/Opinion/Columnists/Hari-Desai/A-Love-story-of-Ra%E2%80%99ana-Liaquat-Ali-Khan
+
 [^40]: Encyclopedia.com, "Khan, Begum Liaquat Ali (1905–1990)," https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/khan-begum-liaquat-ali-1905-1990
+
 [^41]: National Herald India, "The Begum: From Almora to Pakistan," https://www.nationalheraldindia.com/book-extract/the-begum-a-portrait-of-raana-liaquat-ali-khan-pakistans-pioneering-first-lady-from-almora-to-pakistan
+
 [^42]: Medium, "Begum Ra'ana Liaquat Ali Khan. #WomensHistoryMonth," https://medium.com/@theasianfeminist/begum-raana-liaquat-ali-khan-7abee2d038ec
+
 [^43]: Geo News, "Remembering my parents, Liaquat Ali Khan and Begum Ra'ana Liaquat," https://www.geo.tv/latest/375972-remembering-my-parents-liaquat-ali-khan-and-begum-raana-liaquat
+
 [^44]: Wikipedia, "Ra'ana Liaquat Ali Khan," https://en.wikipedia.org/wiki/Ra'ana_Liaquat_Ali_Khan
+
 [^45]: Britannica, "Liaquat Ali Khan," https://www.britannica.com/biography/Liaquat-Ali-Khan
+
 [^46]: Encyclopedia.com, "Khan, Begum Liaquat Ali," https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/khan-begum-liaquat-ali-1905-1990
+
 [^47]: History Pak, "Liaqat Ali Khan," https://historypak.com/liaqat-ali-khan-1895-1951/
+
 [^48]: New World Encyclopedia, "Liaquat Ali Khan," https://www.newworldencyclopedia.org/entry/Liaquat_Ali_Khan
+
 [^49]: Hilal, "Liaquat Ali Khan: an Assessment," https://hilal.gov.pk/view-article.php?i=727
+
 [^50]: Remittances Review, "The Legacy of Liaquat Ali Khan: Balancing National and..." https://remittancesreview.com/menu-script/index.php/remittances/article/download/2538/2041/5944
+
 [^51]: Punjab University, "Liaquat Ali Khan – His Role and Contribution," https://pu.edu.pk/images/journal/studies/PDF-FILES/18_v21_1_20.pdf
+
 [^52]: Office of the Historian, "Historical Documents," https://history.state.gov/historicaldocuments/frus1951v06p2/d499
+
 [^53]: History Of Pakistan, "Liaqat ALi Khan," https://historyofpak.com/person/liaqat-ali-khan
+
 [^54]: Dawn, "The mystery that shrouds Liaquat Ali Khan's murder," https://www.dawn.com/news/1213461
+
 [^55]: Oxford University Press, "Liaquat Ali Khan - Muhammad Reza Kazimi," https://global.oup.com/academic/product/liaquat-ali-khan-9780199402212
+
 [^56]: History Pak, "Liaqat Ali Khan," https://historypak.com/liaqat-ali-khan-1895-1951/
+
 [^57]: Herald Dawn, "Liaquat Ali Khan: The founding father," https://herald.dawn.com/news/1153880
+
 [^58]: Saudi Gazette, "Tribute to Pakistan's first Premier," https://saudigazette.com.sa/article/61295
+
 [^59]: Hilal, "Liaquat Ali Khan: an Assessment," https://hilal.gov.pk/view-article.php?i=727
+
 [^60]: PBS Frontline, "Pakistan: Timeline," https://www.pbs.org/frontlineworld/stories/pakistan703/history/timeline_1.html
+
 [^61]: Hilal, "Liaquat Ali Khan: an Assessment," https://hilal.gov.pk/view-article.php?i=727
+
 [^62]: Dawn, "THE ASSASSINATION OF LIAQUAT ALI KHAN," https://www.dawn.com/news/1962166
+
 [^63]: JSTOR, "THE FOREIGN POLICY OF MR. LIAQUAT ALI KHAN," https://www.jstor.org/stable/41392491
+
 [^64]: Dawn, "Special report: The legendary Liaquat," https://www.dawn.com/news/1362909
+
 [^65]: The Print, "A tale of 'enemies' and property," https://theprint.in/past-forward/saif-ali-khan-to-gen-musharraf-to-liaquat-ali-khan-a-tale-of-enemies-and-property/2494533/
+
 [^66]: History Of Pakistan, "Liaqat ALi Khan," https://historyofpak.com/person/liaqat-ali-khan
+
 [^67]: Remittances Review, "The Legacy of Liaquat Ali Khan," https://remittancesreview.com/menu-script/index.php/remittances/article/download/2538/2041/5944
+
 [^68]: Wikipedia, "Assassination of Liaquat Ali Khan," https://en.wikipedia.org/wiki/Assassination_of_Liaquat_Ali_Khan
+
 [^69]: Wikiquote, "Liaquat Ali Khan," https://en.wikiquote.org/wiki/Liaquat_Ali_Khan
+
 [^70]: TIME Magazine, "PAKISTAN: The Murder of Liaquat," https://content.time.com/time/magazine/article/0,9171,815599,00.html
+
 [^71]: Brandsynario, "Celebrating Pakistan Day with 5 Memorable Quotes," https://www.brandsynario.com/celebrating-pakistan-day-with-5-memorable-quotes-from-national-heroes/
+
 [^72]: Britannica, "Liaquat Ali Khan," https://www.britannica.com/biography/Liaquat-Ali-Khan
