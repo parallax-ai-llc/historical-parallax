@@ -10,11 +10,13 @@ import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
 
 export default function HomePage() {
+  const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
   const [searchItems, setSearchItems] = React.useState<SearchItem[]>([]);
   const [recentArticles, setRecentArticles] = React.useState<RecentArticle[]>([]);
 
   React.useEffect(() => {
+    setMounted(true);
     fetch("/api/search")
       .then((res) => res.json())
       .then((data) => {
@@ -66,11 +68,14 @@ export default function HomePage() {
 
       <Footer />
 
-      <SearchDialog
-        open={searchOpen}
-        onOpenChange={setSearchOpen}
-        items={searchItems}
-      />
+      {/* 클라이언트에서만 SearchDialog 렌더링 */}
+      {mounted && (
+        <SearchDialog
+          open={searchOpen}
+          onOpenChange={setSearchOpen}
+          items={searchItems}
+        />
+      )}
     </div>
   );
 }
