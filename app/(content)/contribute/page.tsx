@@ -1,8 +1,6 @@
-import Link from "next/link";
-import { ArrowLeft, ExternalLink, GitFork, GitPullRequest, FileEdit, CheckCircle } from "lucide-react";
+import { ExternalLink, GitFork, GitPullRequest, FileEdit, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
-import { ThemeToggle } from "@/components/theme-toggle";
 
 export const metadata = {
   title: "Contribute",
@@ -13,18 +11,8 @@ const GITHUB_REPO = "https://github.com/joshephan/historical-parallax";
 
 export default function ContributePage() {
   return (
-    <div className="min-h-screen bg-background overflow-x-hidden">
-      <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-        <div className="flex h-14 items-center justify-between px-4 md:px-6">
-          <Link href="/" className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors">
-            <ArrowLeft className="h-4 w-4" />
-            <span className="font-serif text-xl font-semibold tracking-tight text-foreground">
-              Historical Parallax
-            </span>
-          </Link>
-          <ThemeToggle />
-        </div>
-      </header>
+    <div className="bg-background overflow-x-hidden">
+
 
       <main className="container max-w-4xl py-12 px-4">
         <div className="space-y-2 mb-8">

@@ -3,6 +3,7 @@
 import * as React from "react";
 import { Search, GitPullRequest } from "lucide-react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
 
@@ -11,6 +12,7 @@ interface SiteHeaderProps {
 }
 
 export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
+    const pathname = usePathname();
     return (
         <header
             className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60"
@@ -57,15 +59,15 @@ export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
                         <Search className="h-4 w-4" aria-hidden="true" />
                     </Button>
 
-
-
-                    <Link
-                        href="/contribute"
-                        className="hidden sm:inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3"
-                    >
-                        <GitPullRequest className="h-4 w-4" />
-                        <span className="sr-only sm:not-sr-only">Contribute</span>
-                    </Link>
+                    {pathname !== "/contribute" && (
+                        <Link
+                            href="/contribute"
+                            className="hidden sm:inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3"
+                        >
+                            <GitPullRequest className="h-4 w-4" />
+                            <span className="sr-only sm:not-sr-only">Contribute</span>
+                        </Link>
+                    )}
 
                     <ThemeToggle />
                 </nav>
