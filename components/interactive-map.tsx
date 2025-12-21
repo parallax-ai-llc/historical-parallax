@@ -5,7 +5,7 @@ import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from "re
 import { useRouter } from "next/navigation";
 import { Plus, Minus, RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import type { UfoLocation } from "@/lib/ufo-map";
+import type { UfoLocation } from "@/lib/maps";
 
 const geoUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 

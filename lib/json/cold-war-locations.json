@@ -1,12 +1,13 @@
 [
   {"id": "korean-war-1950", "name": "Korean War (DMZ)", "coordinates": [126.7052, 37.9479]},
-  {"id": "vietnam-war-1955", "name": "Vietnam War (Saigon/Ho Chi Minh)", "coordinates": [106.6297, 10.8231]},
+  {"id": "vietnam-war-1955", "name": "Vietnam War (Saigon)", "coordinates": [106.6297, 10.8231]},
   {"id": "cuban-missile-crisis-1962", "name": "Cuban Missile Crisis (Havana)", "coordinates": [-82.3666, 23.1136]},
-  {"id": "berlin-wall", "name": "Berlin Wall (Germany)", "coordinates": [13.4050, 52.5200]},
-  {"id": "prague-spring-1968", "name": "Prague Spring (Czechoslovakia)", "coordinates": [14.4378, 50.0755]},
+  {"id": "berlin-wall-construction-1961", "name": "Berlin Wall Construction (Berlin)", "coordinates": [13.4050, 52.5200]},
+  {"id": "fall-of-berlin-wall-1989", "name": "Fall of Berlin Wall (Berlin)", "coordinates": [13.4050, 52.5200]},
+  {"id": "prague-spring-1968", "name": "Prague Spring (Prague)", "coordinates": [14.4378, 50.0755]},
   {"id": "hungarian-revolution-1956", "name": "Hungarian Revolution (Budapest)", "coordinates": [19.0402, 47.4979]},
-  {"id": "afghan-soviet-war-1979", "name": "Soviet-Afghan War (Kabul)", "coordinates": [69.2075, 34.5553]},
+  {"id": "soviet-afghan-war-1979", "name": "Soviet-Afghan War (Kabul)", "coordinates": [69.2075, 34.5553]},
   {"id": "tiananmen-square-1989", "name": "Tiananmen Square (Beijing)", "coordinates": [116.3972, 39.9042]},
   {"id": "chernobyl-disaster-1986", "name": "Chernobyl Disaster (Pripyat)", "coordinates": [30.2194, 51.2763]},
-  {"id": "space-race-1957", "name": "Space Race (Baikonur)", "coordinates": [63.3052, 45.9646]}
+  {"id": "assassination-of-john-f-kennedy-1963", "name": "Assassination of JFK (Dallas)", "coordinates": [-96.8088, 32.7791]}
 ]
