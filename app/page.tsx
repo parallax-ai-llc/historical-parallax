@@ -15,6 +15,7 @@ export default function HomePage() {
   const [recentArticles, setRecentArticles] = React.useState<RecentArticle[]>([])
 
   React.useEffect(() => {
+    console.log("HomePage Mounted at:", new Date().toISOString())
     setMounted(true)
     // 캐싱 방지를 위해 timestamp 추가
     fetch(`/api/search?t=${Date.now()}`)
@@ -44,14 +45,14 @@ export default function HomePage() {
 
       <main className="flex flex-1 flex-col items-center justify-center px-4">
         <div className="w-full max-w-xl space-y-8 text-center">
-          <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em]">
+          <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em] text-primary">
             Historical Parallax
           </h1>
           <p className="text-muted-foreground text-sm md:text-base italic leading-relaxed min-h-[1.625em]">
             &ldquo;Every history creates a parallax&rdquo;
           </p>
 
-          {/* <Button
+          <Button
             variant="outline"
             className="h-12 w-full justify-start px-4 text-muted-foreground"
             onClick={() => setSearchOpen(true)}
@@ -63,7 +64,7 @@ export default function HomePage() {
             </kbd>
           </Button>
 
-          <RecentArticles articles={recentArticles} /> */}
+          <RecentArticles articles={recentArticles} />
         </div>
       </main>
 
