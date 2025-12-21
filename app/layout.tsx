@@ -1,23 +1,14 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Cormorant_Garamond, Libre_Caslon_Text } from "next/font/google";
+import { Cormorant_Garamond } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 
-// 로고 전용 폰트
+// Serif 폰트 (로고, 기사 제목 등)
 const cormorant = Cormorant_Garamond({
-  variable: "--font-logo-serif",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  display: "swap",
-  preload: true,
-});
-
-// 본문 serif 폰트 (기사 제목, 헤딩 등)
-const libreCaslon = Libre_Caslon_Text({
   variable: "--font-serif",
   subsets: ["latin"],
-  weight: ["400", "700"],
+  weight: ["400", "500", "600", "700"],
   display: "swap",
   preload: true,
 });
@@ -108,7 +99,7 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className={`${cormorant.variable} ${gideonRoman.variable} font-sans antialiased`}>
+      <body className={`${cormorant.variable} font-sans antialiased`}>
         {/* WCAG AAA: 스킵 네비게이션 링크 */}
         <a href="#main-content" className="skip-link">
           Skip to main content

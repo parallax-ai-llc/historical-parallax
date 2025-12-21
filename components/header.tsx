@@ -16,7 +16,7 @@ export function Header({ onSearchClick, showContribute, editUrl }: HeaderProps) 
     <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="flex h-14 items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2">
-          <span className="font-logo-serif text-xl font-semibold tracking-tight font-bold">
+          <span className="font-serif text-xl font-semibold tracking-tight font-bold">
             Historical Parallax
           </span>
         </Link>
