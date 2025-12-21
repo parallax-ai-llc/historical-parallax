@@ -28,10 +28,10 @@ function getRelativeTime(dateString: string): string {
   return `${Math.floor(diffDays / 365)} years ago`;
 }
 
-// 스켈레톤 컴포넌트
+// 스켈레톤 컴포넌트 - 높이 고정: h-20(80px) + mt-4(16px) + h-1.5(6px) = 102px
 function RecentArticlesSkeleton() {
   return (
-    <section className="w-full max-w-xl">
+    <section className="w-full max-w-xl h-[102px]">
       {/* 카드 스켈레톤 */}
       <div className="relative h-20 overflow-hidden rounded-lg border border-border/50 bg-card px-4 py-4 md:px-5">
         <div className="animate-pulse">
@@ -43,13 +43,13 @@ function RecentArticlesSkeleton() {
         </div>
       </div>
 
-      {/* 인디케이터 스켈레톤 - 레이아웃 공간 확보 (h-1.5 = 6px, mt-4 = 16px) */}
+      {/* 인디케이터 스켈레톤 - invisible로 공간만 확보 */}
       <div className="flex justify-center gap-1.5 mt-4 h-1.5">
-        <div className="h-1.5 w-6 rounded-full bg-transparent" />
-        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
-        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
-        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
-        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
+        <div className="h-1.5 w-6 rounded-full bg-muted-foreground/30 invisible" />
+        <div className="h-1.5 w-1.5 rounded-full bg-muted-foreground/30 invisible" />
+        <div className="h-1.5 w-1.5 rounded-full bg-muted-foreground/30 invisible" />
+        <div className="h-1.5 w-1.5 rounded-full bg-muted-foreground/30 invisible" />
+        <div className="h-1.5 w-1.5 rounded-full bg-muted-foreground/30 invisible" />
       </div>
     </section>
   );
@@ -200,7 +200,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
 
   return (
     <section
-      className="w-full max-w-xl"
+      className="w-full max-w-xl h-[102px]"
       aria-label="Recent articles carousel"
       aria-roledescription="carousel"
     >
