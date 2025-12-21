@@ -60,7 +60,7 @@ function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
           className="flex items-center gap-2 rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
           aria-label="Historical Parallax - Go to home page"
         >
-          <span className="font-serif text-xl font-semibold tracking-tight font-bold">
+          <span className="font-serif text-xl md:text-2xl font-bold tracking-tight">
             Historical Parallax
           </span>
         </Link>

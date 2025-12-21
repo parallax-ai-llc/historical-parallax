@@ -63,7 +63,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   return (
     <div className="flex min-h-screen flex-col">
       <ClientInteractions searchIndex={searchIndex} editUrl={editUrl}>
-        <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96">
+        <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96 2xl:pl-0">
           {/* Sidebar TOC - fixed to viewport left */}
           <SidebarToc items={article.toc} articleTitle={article.meta.name} />
 
