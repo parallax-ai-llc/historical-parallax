@@ -9,8 +9,11 @@ const cormorant = Cormorant_Garamond({
   variable: "--font-serif",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
-  display: "swap",
+  // display: 'swap'을 제거하여 FOIT(Flash of Invisible Text) 방식으로 변경하거나
+  // preload를 통해 최대한 빨리 로드하여 시프팅 방지
   preload: true,
+  fallback: ["Times New Roman", "serif"], // 비슷한 크기의 fallback 폰트 명시
+  adjustFontFallback: true,
 });
 
 export const metadata: Metadata = {
