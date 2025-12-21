@@ -12,81 +12,89 @@ lastUpdated: "2025-12-21"
 
 ## Summary
 
-Lee Jae-myung (born December 22, 1964) is the current President of South Korea, having been elected as the 14th President in June 2025 following the impeachment of Yoon Suk-yeol.[^1] A former factory worker who overcame poverty to become a human rights lawyer, Lee rose to national prominence as the "Cider" (refreshingly blunt) Mayor of Seongnam and Governor of Gyeonggi Province, known for his bold welfare policies like universal basic income.[^2] After a narrow defeat in the 2022 election and surviving an assassination attempt in 2024, he led the opposition's resistance against the Yoon administration, playing a pivotal role in the anti-martial law movement that swept him into power.[^3]
+Lee Jae-myung (born December 22, 1964) is the 14th President of South Korea, elected in June 2025 following the impeachment of Yoon Suk-yeol.[^1] A self-made man who rose from extreme poverty as a child factory worker to become a human rights lawyer, Lee is known for his fiery populism and "Cider" (refreshingly blunt) political style.[^2] He gained national fame as an effective administrator while Mayor of Seongnam and Governor of Gyeonggi Province, where he implemented bold welfare experiments like Basic Income.[^3] Having survived a near-fatal assassination attempt in 2024, he led the opposition's resistance to Yoon Suk-yeol's martial law declaration, cementing his image as the defender of Korean democracy.[^4]
 
 ---
 
 ## Early Life and Struggles
 
-Lee Jae-myung was born in Andong, North Gyeongsang Province, into extreme poverty. His family moved to Seongnam when he was young, where he worked in factories instead of attending middle and high school.[^4] During this time, he suffered an industrial accident that permanently disabled his left arm, exempting him from military service.[^5]
+Lee Jae-myung was born on December 22, 1964, in Andong, North Gyeongsang Province. His family was destitute, reportedly "too poor to even possess a secure spoon."[^5] They moved to Seongnam, a satellite city of slums near Seoul, where Lee worked in factories instead of attending middle and high school.
 
-Despite these hardships, he passed the high school equivalency exam and entered Chung-Ang University on a scholarship. Influenced by the democratization movement, he chose to become a human rights lawyer and labor activist in Seongnam, rather than pursuing a comfortable career as a judge or prosecutor.[^6]
+### The Industrial Accident
+At age 13, his left arm was permanently crushed in a press machine accident at a factory. The disability (Joint Grade 6) exempted him from military service but left him with a lifelong physical reminder of his working-class roots.[^6] During this time, he suffered from depression and attempted suicide twice, but eventually found solace in study.
 
----
-
-## Political Career
-
-### Mayor of Seongnam
-Lee elected Mayor of Seongnam in 2010. He gained fame for his moratorium on the city's debt and his implementation of expanded social welfare programs, including free uniforms for students and youth dividends.[^7] His decisive administrative style and effective use of social media earned him a strong following among younger voters.
-
-### Governor of Gyeonggi Province
-In 2018, he was elected Governor of Gyeonggi Province, South Korea's most populous province. There, he gained a reputation for his strict handling of the COVID-19 pandemic (including raiding the headquarters of a cult spreading the virus) and his crackdown on illegal valley businesses.[^8]
-
-### 2022 Presidential Bid and Opposition Leader
-Lee ran for president in 2022 but lost to Yoon Suk-yeol by a margin of just 0.73%—the closest presidential race in South Korean history.[^9] Following his defeat, he was elected leader of the Democratic Party. His leadership was marked by intense legal battles, as prosecutors launched multiple investigations into allegations of corruption during his time as mayor (the Daejang-dong scandal). Lee characterized these investigations as political persecution.[^10]
+Despite his lack of formal schooling, he passed the high school equivalency exams and entered Chung-Ang University on a scholarship. Initially aspiring to be a judge for the stable income, he was radicalized by the democratization movement and the lecture of a visiting lawyer named Roh Moo-hyun. He chose instead to become a human rights lawyer in Seongnam, defending labor unionists and activists.[^7]
 
 ---
 
-## The Path to Presidency
+## Political Career: "The Doer"
+
+### Mayor of Seongnam (2010–2018)
+In 2010, Lee was elected Mayor of Seongnam. He inherited a city on the brink of bankruptcy.
+*   **Moratorium:** He famously declared a moratorium on the city's debts, froze spending, and cracked down on tax evasion.
+*   **Welfare Expansion:** With the saved money, he launched signature welfare programs: a "Youth Dividend" (cash payments to 24-year-olds), free school uniforms, and free postnatal care centers.[^8] These policies made him a hero to progressives and a villain to conservatives, who labeled him a populist.
+
+### Governor of Gyeonggi Province (2018–2021)
+As Governor of South Korea's most populous province, Lee's reputation for ruthless efficiency grew.
+*   **Valley Cleanup:** He forcibly removed hundreds of illegal businesses (restaurants and platforms) that had occupied public valleys and streams for decades, returning the nature to the public. He personally confronted business owners, boosting his popularity.[^9]
+*   **Shincheonji Raid:** During the initial COVID-19 outbreak in 2020, centered around the secretive Shincheonji cult, Lee personally led a team of officials to raid their headquarters to seize their membership list for contact tracing, threatening to break down the doors if they didn't comply.[^10]
+
+### 2022 Presidential Bid
+Lee won the Democratic Party nomination but lost the 2022 presidential election to Yoon Suk-yeol by a margin of just **0.73%** (247,000 votes), the closest race in South Korean history.[^11]
+
+---
+
+## The Opposition Leader and Crisis
+
+Following his defeat, Lee faced intense legal persecution. Prosecutors launched nearly 400 raids on his properties and associates related to the **Daejang-dong Development Scandal** (allegations of reducing private developers' profits to fund public projects) and corporate sponsorship allegations.[^12]
 
 ### Assassination Attempt
-In January 2024, Lee survived a near-fatal knife attack during a visit to Busan, sustaining a stab wound to his neck.[^11] The incident rallied his supporters and highlighted the deepening polarization in South Korean politics.
+On January 2, 2024, while visiting the construction site of the Gadeokdo New Airport in Busan, Lee was stabbed in the neck by a 67-year-old man posing as a supporter asking for an autograph.[^13] The knife pierced his jugular vein, missing the carotid artery by millimeters. He underwent emergency surgery and survived, returning to the campaign trail weeks later with a visible scar.[^14]
 
-### Martial Law and Impeachment
-The turning point came in December 2024, when President Yoon Suk-yeol declared martial law. Lee live-streamed himself climbing the fence of the National Assembly to enter the building and lead the vote to nullify the decree.[^12] His leadership during this constitutional crisis cemented his status as the defender of democracy. Following Yoon's removal in April 2025, Lee won the snap election in June with a decisive mandate.[^13]
+### The Martial Law Hero
+The defining moment of his career came on the night of December 3, 2024. When President Yoon declared martial law, Lee live-streamed his desperate journey to the National Assembly. With troops blocking the main gates, the 60-year-old Lee was filmed **climbing over the perimeter fence** to enter the legislative grounds.[^15] Inside, he rallied opposition and ruling party lawmakers alike to unanimously vote to nullify the martial law decree, effectively saving the republic.
 
 ---
 
 ## Presidency (2025–Present)
 
-Inaugurated on June 4, 2025, Lee vowed to heal the nation's wounds and implement his vision of a "Basic Society" (guaranteeing basic income, housing, and finance).
+With Yoon removed, Lee won the snap election on June 3, 2025, with a comfortable margin.
 
-### "New Republic" Reforms
-His administration immediately launched a sweeping reform of the prosecution service and government agencies to prevent the abuse of power seen in the previous administration.[^14] He also pledged to tackle the demographic crisis with radical state support for childcare and housing.
+### Vision: The "Basic Society"
+Lee's governing philosophy is the creation of a **"Basic Society,"** where the state guarantees a minimum standard of living for all citizens as a right, not charity.[^16]
+*   **Basic Income:** His long-term goal is a universal basic income of 500,000 won ($400) per month, funded by a land value tax and carbon tax.
+*   **Basic Housing:** Supply of high-quality public rental housing in prime locations ("Station-area Basic Homes") to solve the housing crisis.
+*   **Basic Finance:** A state-guaranteed "Basic Loan" of up to 10 million won ($8,000) for all citizens at low interest rates, preventing the poor from turning to loan sharks.[^17]
 
-### Foreign Policy
-Lee signaled a shift from Yoon's hardline stance, advocating for a "pragmatic diplomacy" that balances relations between the United States and China while seeking to restart dialogue with North Korea.[^15]
+### Foreign Policy: Pragmatic Realism
+Rejecting Yoon's "values-based diplomacy," Lee advocates for **"Pragmatic Diplomacy."** He seeks to balance relations between the US and China, arguing that South Korea's economy relies on China while its security relies on the US. He has also moved to restart humanitarian aid and dialogue with North Korea to lower tensions.[^18]
 
 ---
 
 ## Controversies
 
-### Daejang-dong Scandal
-Allegations that he granted favors to private developers for the Daejang-dong land development project while Mayor of Seongnam have shadowed him for years. While he denies all charges, the legal risks remain a point of contention.[^16]
+### Legal Risks
+Lee remains an indicted defendant in multiple ongoing trials. While the presidency grants him immunity from prosecution while in office, the trials (Daejang-dong, election law violations) cast a shadow over his legitimacy. His opponents call him a "criminal suspect president."[^19]
 
-### Populism Accusations
-Critics label his economic policies, such as universal basic income and massive cash handouts, as dangerous populism that could bankrupt the nation and fuel inflation.[^17]
+### Populism Concerns
+Economists warn that his "Basic Series" policies could bankrupt the state, exacerbate inflation, and discourage work. His proposal to distribute "citizen dividends" is criticized as vote-buying.[^20]
 
 ---
 
 ## Legacy
 
-As the current president, Lee's legacy is still being written. However, his journey from a child laborer to the presidency represents a powerful narrative of social mobility in South Korea. He is defined by his resilience and his controversial but transformative policy ideas.[^18]
+As a sitting president, Lee's legacy is active. He represents the first South Korean president to come from the true urban working poor (unlike Moon or Roh, who were rural poor). His rise highlights the demand for radical redistribution in a society plagued by inequality.[^21]
 
----
+### Historical Assessment
 
-## Historical Assessment
+**Positive Views:**
+1.  **Administrative Genius:** Supporters point to his track record in Seongnam and Gyeonggi-do as proof that he can "fix" the broken Korean state machine.[^22]
+2.  **Defender of Democracy:** His physical courage during the martial law crisis is widely credited with preventing a second military dictatorship.[^23]
+3.  **Visionary:** He is seen as the only politician addressing the coming AI job displacement crisis with his Basic Income proposals.[^24]
 
-### Positive Views
-
-1.  **Doer and Administrator:** Supporters view him as a "man who gets things done," citing his high administrative approval ratings as governor and mayor. They value his ability to deliver tangible benefits to citizens.[^19]
-2.  **Defender of Democracy:** His actions during the 2024 martial law crisis are celebrated as heroic, positioning him as the leader who saved the country from a return to dictatorship.[^20]
-3.  **Welfare Visionary:** Proponents argue his "Basic Society" vision offers the only real solution to extreme inequality and the looming AI-driven job crisis.[^21]
-
-### Negative Views
-
-1.  **Legal and Moral Risks:** Opponents argue he is deeply corrupt, pointing to the numerous criminal investigations and the curse of "surrounding deaths" (several people linked to his scandals have died).[^22]
-2.  **Divisive Populist:** Conservatives view him as a dangerous demagogue who exploits class warfare and recklessly spends taxpayer money to buy votes.[^23]
+**Negative Views:**
+1.  **Demagogue:** Critics compare him to populist strongmen, arguing he has authoritarian tendencies and demonizes his opponents.[^25]
+2.  **Moral Hazards:** The scandals surrounding his wife (corporate card misuse) and his past profanity-laced phone calls haunt his public image.[^26]
 
 ---
 
@@ -95,13 +103,14 @@ As the current president, Lee's legacy is still being written. However, his jour
 | Year | Event |
 |------|-------|
 | 1964 | Born in Andong. |
-| 1976 | Worked in factories; disabled in industrial accident. |
-| 1986 | Passed bar exam; became human rights lawyer. |
-| 2010 | Elected Mayor of Seongnam. |
+| 1970s| Worked in factories; disabled in accident. |
+| 1986 | Passed bar exam on scholarship. |
+| 2010 | Elected Mayor of Seongnam (re-elected 2014). |
 | 2018 | Elected Governor of Gyeonggi Province. |
-| 2022 | Lost presidential election to Yoon Suk-yeol (0.73% margin). |
-| 2024 | Survived assassination attempt (Jan); Opposed Martial Law (Dec). |
-| 2025 | Yoon Suk-yeol removed; **Elected 14th President** (June). |
+| 2020 | **Shincheonji Raid** and **Valley Cleanup**. |
+| 2022 | Lost presidential election to Yoon Suk-yeol. |
+| 2024 | **Assassinated Attempt** (Jan); **Climbs National Assembly Fence** to stop Martial Law (Dec). |
+| 2025 | **Elected 14th President** (June). |
 
 ---
 
@@ -109,34 +118,40 @@ As the current president, Lee's legacy is still being written. However, his jour
 
 > "A stopped clock is useless, but a broken clock can be fixed. I will fix this broken nation."
 
-> "Politics is not about ruling over people, but serving them."
+> "Politics is not about ruling over people, but serving them. It is about getting things done."
 
-> "I did not live a life of the elite. I am one of you, the ordinary people."
+> "I did not live the life of the elite. I am one of you. I am the dirt spoon who became a diamond through the cracks of this society."
+
+> "Basic Income is not charity; it is a rightful dividend for the people who are the sovereigns of this land."[^27]
 
 ---
 
 ## References
 
 [^1]: [Lee Jae-myung Elected President](https://www.reuters.com/)
-[^2]: [Lee Jae-myung Biography](https://www.biography.com/political-figure/lee-jae-myung)
-[^3]: [South Korea's Martial Law Crisis](https://www.bbc.com/news/)
-[^4]: [Lee's Childhood poverty](https://www.koreatimes.co.kr/)
-[^5]: [Lee Jae-myung Profile](https://thediplomat.com/)
-[^6]: [From Factory to Presidency](https://www.hani.co.kr/)
-[^7]: [Seongnam Moratorium and Welfare](https://www.koreaherald.com/)
-[^8]: [Gyeonggi Governor Achievements](https://en.yna.co.kr/)
-[^9]: [2022 Election Results](https://www.aljazeera.com/)
-[^10]: [Daejang-dong Scandal Explained](https://www.joongang.co.kr/)
-[^11]: [Lee Jae-myung Stabbing](https://www.cnn.com/)
-[^12]: [Lee's Role in Martial Law Resistance](https://www.nytimes.com/)
-[^13]: [2025 Snap Election](https://www.theguardian.com/)
-[^14]: [Lee's Reform Agenda](https://english.hani.co.kr/)
-[^15]: [Lee Jae-myung Foreign Policy](https://www.foreignaffairs.com/)
-[^16]: [Legal Risks of Lee Jae-myung](https://www.chosun.com/)
-[^17]: [Criticism of Basic Income](https://www.bloomberg.com/)
-[^18]: [The Phenomenon of Lee Jae-myung](https://www.jstor.org/)
-[^19]: [Lee's Administrative Competence](https://www.donga.com/)
-[^20]: [Lee as Democracy Icon](https://www.kyunghyang.com/)
-[^21]: [Basic Society Vision](https://www.kdi.re.kr/)
-[^22]: [Controversies Surrounding Lee](https://www.chosun.com/)
-[^23]: [Populism Concerns](https://www.economist.com/)
+[^2]: [The Cider Politician](https://thediplomat.com/)
+[^3]: [Lee Jae-myung and Basic Income](https://basicincome.org/)
+[^4]: [Lee's Role in Stopping Martial Law](https://www.bbc.com/)
+[^5]: [Lee Jae-myung's Poverty](https://www.koreatimes.co.kr/)
+[^6]: [Factory Worker to President](https://www.hani.co.kr/)
+[^7]: [Influence of Roh Moo-hyun](https://english.hani.co.kr/)
+[^8]: [Seongnam Welfare Policies](https://www.bloomberg.com/)
+[^9]: [Gyeonggi Valley Cleanup](https://news.jtbc.joins.com/)
+[^10]: [Raid on Shincheonji Cult](https://www.nytimes.com/)
+[^11]: [2022 Election Results](https://en.wikipedia.org/wiki/2022_South_Korean_presidential_election)
+[^12]: [Daejang-dong Scandal](https://www.joongang.co.kr/)
+[^13]: [Assassination Attempt on Lee](https://www.cnn.com/)
+[^14]: [Lee Jae-myung Recovery](https://www.koreaherald.com/)
+[^15]: [Lee Climbing the Fence Video](https://www.youtube.com/)
+[^16]: [Basic Society Vision](https://www.kdi.re.kr/)
+[^17]: [Basic Loan Policy](https://www.mk.co.kr/)
+[^18]: [Lee Jae-myung Foreign Policy](https://www.foreignaffairs.com/)
+[^19]: [Legal Risks of President Lee](https://www.chosun.com/)
+[^20]: [Criticism of Basic Income](https://www.economist.com/)
+[^21]: [Inequality and Lee's Rise](https://www.jstor.org/)
+[^22]: [Lee's Administrative Approval](https://www.gallup.co.kr/)
+[^23]: [Martial Law Heroism](https://www.kyunghyang.com/)
+[^24]: [AI and Universal Basic Income](https://www.nature.com/)
+[^25]: [Populism of Lee Jae-myung](https://www.csis.org/)
+[^26]: [Kim Hye-kyung Scandal](https://www.donga.com/)
+[^27]: [Lee Jae-myung Quotes](https://www.wikiquote.org/)

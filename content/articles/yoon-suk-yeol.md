@@ -12,74 +12,72 @@ lastUpdated: "2025-12-21"
 
 ## Summary
 
-Yoon Suk-yeol (born December 18, 1960) served as the 13th President of South Korea from 2022 until his impeachment and removal from office in 2025.[^1] A career prosecutor who rose to fame for investigating high-profile corruption scandals involving former presidents, Yoon entered politics as an outsider and won the 2022 election by a razor-thin margin.[^2] His presidency was characterized by a hardline stance on North Korea, a strengthening of the US-South Korea alliance, and a controversial attempt to relocate the presidential office.[^3] However, his term ended abruptly after he declared martial law in December 2024, an unconstitutional move that led to his impeachment by the National Assembly and subsequent removal by the Constitutional Court in April 2025, making him the second president in South Korean history to be removed from office.[^4]
+Yoon Suk-yeol (born December 18, 1960) served as the 13th President of South Korea from 2022 until his impeachment and removal from office in 2025.[^1] A career prosecutor who rose to fame for investigating high-profile corruption scandals involving former presidents, Yoon entered politics as a conservative outsider and won the 2022 election by the narrowest margin in history (0.73%).[^2] His presidency was characterized by a staunchly pro-American foreign policy, including the historic **Camp David Summit** and a controversial rapprochement with Japan.[^3] However, his tenure ended in catastrophe after he declared **Emergency Martial Law** on December 3, 2024. This unconstitutional act led to his immediate impeachment by the National Assembly and his subsequent removal by the Constitutional Court on April 4, 2025, making him the second president in South Korean history to be removed from office.[^4]
 
 ---
 
 ## Early Life and Legal Career
 
-Yoon Suk-yeol was born in Seoul in 1960 to academic parents. He studied law at Seoul National University but struggled with the bar exam, passing it on his ninth attempt in 1991.[^5]
+Yoon Suk-yeol was born in Seoul in 1960 to academic parents; his father was a renowned economics professor at Yonsei University.[^5] He studied law at the prestigious Seoul National University. Famous for his stubborn streak, it took him nine attempts to pass the bar exam, finally succeeding in 1991 at the age of 30.[^6]
 
-As a prosecutor, Yoon developed a reputation as a fierce, independent investigator who did not bow to political pressure. He gained national prominence in 2013 for investigating the National Intelligence Service's election interference, famously stating, "I am not loyal to people" (implying loyalty only to the organization/law).[^6] In 2016, he led the special investigation team that indicted President Park Geun-hye for the Choi Soon-sil gate scandal, which led to her impeachment.[^7]
+As a prosecutor, Yoon developed a reputation as a fierce, independent investigator who "did not bow to people." He gained national prominence in 2013 for investigating the National Intelligence Service's election interference, famously stating during a parliamentary hearing, **"I am not loyal to people,"** implying his loyalty was only to the law and the organization.[^7] In 2016, he led the special investigation team that indicted President Park Geun-hye and her confidante Choi Soon-sil, leading to Park's impeachment.[^8]
 
-Appointed Prosecutor General by President Moon Jae-in in 2019, Yoon later clashed with the Moon administration over the investigation of Justice Minister Cho Kuk, turning him into a hero for the conservative opposition.[^8]
+Appointed Prosecutor General by President Moon Jae-in in 2019, Yoon later clashed violently with the Moon administration over the corruption investigation of Justice Minister Cho Kuk. This conflict transformed him into an icon of the conservative opposition and a presidential contender.[^9]
 
 ---
 
 ## Presidency (2022–2025)
 
-Yoon narrowly defeated liberal candidate Lee Jae-myung in the 2022 presidential election.[^9]
+Yoon defeated liberal candidate Lee Jae-myung in the 2022 election. His presidency was marked by a dramatic shift in foreign policy and persistent domestic political deadlock.
 
-### Relocation and "Imperial Presidency"
-One of his first acts was to fulfill a campaign pledge to move the presidential office out of the Blue House (Cheong Wa Dae) to the Ministry of National Defense compound in Yongsan, aiming to end the "imperial presidential culture." This move was criticized for its high cost and security concerns.[^10]
+### Relocation to Yongsan
+One of his first acts was to fulfill a campaign pledge to move the presidential office out of the "imperial" Blue House (Cheong Wa Dae) to the Ministry of National Defense compound in Yongsan. This move, intended to improve communication with the public, was criticized for its high cost, security risks, and hastiness.[^10]
 
-### Foreign Policy and Defense
-Yoon adopted a "peace through strength" approach, resuming large-scale military exercises with the United States and taking a tougher line against North Korea's nuclear provocations.[^11] He also prioritized improving frayed ties with Japan, making controversial concessions on the forced labor issue to solidify trilateral security cooperation with the US and Japan.[^12]
+### Foreign Policy: The "Global Pivotal State"
+Yoon adopted a "peace through strength" approach.
+*   **Japan Rapprochement:** In March 2023, he announced a "third-party reimbursement" plan for victims of wartime forced labor, effectively absolving Japanese companies of direct liability. While deeply unpopular domestically, this move thawed frozen relations with Tokyo.[^11]
+*   **Camp David Summit:** In August 2023, Yoon joined US President Joe Biden and Japanese Prime Minister Fumio Kishida at Camp David for a historic trilateral summit. They established the "Camp David Principles," committing to unprecedented security cooperation and consulting on threats, effectively cementing a trilateral quasi-alliance.[^12]
 
 ### Domestic Struggles
-Domestically, Yoon struggled with low approval ratings throughout his tenure alongside a hostile, opposition-controlled National Assembly.[^13] His administration faced repeated criticism for its lack of communication, the "Scallion Incident" (appearing out of touch with inflation), and ongoing controversies surrounding his wife, First Lady Kim Keon-hee.[^14]
+Domestically, Yoon faced a hostile, opposition-controlled National Assembly and stubbornly low approval ratings (often below 30%). His administration was plagued by the **"First Lady Risks"** involving his wife, Kim Keon-hee (allegations of stock manipulation and the acceptance of a luxury Christian Dior bag). Yoon's repeated use of the presidential veto to block special investigations into his wife fueled public anger and accusations of hypocrisy.[^13]
 
 ---
 
 ## The December Martial Law Crisis
 
-On the night of December 3, 2024, facing political deadlock and impending impeachment motions against his cabinet members, President Yoon declared **emergency martial law**, accusing the opposition Democratic Party of "anti-state" activities and paralyzing the government.[^15]
+The defining moment of his presidency began on the night of **December 3, 2024**.
 
-The declaration shocked the nation and the world. Troops attempted to enter the National Assembly building, but lawmakers managed to convene and unanimously voted to lift the martial law in the early hours of December 4.[^16] The military withdrew, and the decree was rescinded.
+### The Declaration
+At **10:27 PM**, facing impending impeachment motions against his top auditor and prosecutors, President Yoon appeared on live television and declared **Emergency Martial Law**. He accused the opposition Democratic Party of being "anti-state forces" paralyzed by pro-North Korean sympathies and vowed to "eradicate the shameless pro-North anti-state forces."[^14]
+
+### The Night of Chaos
+For the first time since 1980, martial law troops were deployed to the National Assembly. Soldiers smashed windows and attempted to storm the main chamber to arrest lawmakers. However, opposition leader **Lee Jae-myung** and Speaker **Woo Won-shik**, along with other lawmakers, managed to scale fences and enter the building before the military could secure it.[^15]
+
+### The Lift
+At **1:00 AM on December 4**, with 190 lawmakers present, the National Assembly unanimously voted to lift the martial law. Under the constitution, the president must comply. At **4:30 AM**, Yoon rescinded the order, ending the six-hour crisis.[^16]
 
 ### Impeachment and Removal
-The failed martial law declaration was widely condemned as an act of insurrection. The National Assembly voted to impeach Yoon on December 14, 2024.[^17] On April 10, 2025, the Constitutional Court upheld the impeachment, stripping him of his office and presidential immunity, ending his presidency after less than three years.
-
----
-
-## Controversies
-
-### "First Lady Risks"
-Throughout his term, allegations involving First Lady Kim Keon-hee—ranging from stock manipulation to the acceptance of a luxury Dior bag—plagued his administration. Yoon's repeated use of the presidential veto to block special investigations into his wife fueled public anger.[^18]
-
-### Erosion of Democracy
-Critics argued that Yoon used the prosecution service as a political tool to target opponents and the media, leading to a decline in South Korea's democracy indices.[^19] The V-Dem Institute notably downgraded South Korea's democratic status during his term.[^20]
+The failed coup attempt was widely condemned as an act of insurrection.
+*   **Dec 14, 2024:** The National Assembly voted overwhelmingly to impeach Yoon.[^17]
+*   **Jan 15, 2025:** Yoon was arrested and detained while awaiting trial.
+*   **Apr 4, 2025:** The Constitutional Court upheld the impeachment, stripping him of his office. He is currently standing trial for rebellion.[^18]
 
 ---
 
 ## Legacy
 
-Yoon Suk-yeol's legacy is defined by his catastrophic end. While he sought to realign South Korea's foreign policy and establish the rule of law, his authoritarian turn in declaring martial law cemented his image as a threat to the very democracy he pledged to protect.[^21] He is remembered as a warning against the politicization of the prosecution and the dangers of unchecked executive power.
+Yoon Suk-yeol's legacy is catastrophic. He is the only president in South Korea's democratic history to attempt a self-coup (autogolpe) via martial law.[^19] While his foreign policy realigned South Korea with the West, his domestic authoritarianism erased those achievements. He serves as a grim warning about the fragility of democracy and the dangers of unchecked executive power.
 
----
+### Historical Assessment
 
-## Historical Assessment
+**Positive Views (Pre-Martial Law):**
+1.  **Strategic Clarity:** Supporters argued he correctly identified the threats from North Korea and China, and prioritized the alliance with the US and Japan, which was essential for long-term security.[^20]
+2.  **Labor Reform:** His crackdown on militant labor unions and "construction site cartels" was initially welcomed by the business community as necessary for economic competitiveness.[^21]
 
-### Positive Views
-
-1.  **Strengthened Alliance:** Supporters credit him with restoring the South Korea-US alliance and normalizing relations with Japan, which they argue was necessary for national security in the face of North Korean and Chinese threats.[^22]
-2.  **Anti-Cartel Drive:** His focus on breaking up what he termed "interest cartels" (e.g., in unions and the construction sector) was seen by some conservatives as a necessary structural reform.[^23]
-
-### Negative Views
-
-1.  **Martial Law Dictator:** The declaration of martial law in 2024 is viewed as the darkest moment in South Korean democracy since the military dictatorships, effectively erasing any other achievements.[^24]
-2.  **Incompetence and Stubbornness:** Critics argue his "prosecutor mindset"—seeing the world in black and white—made him unsuited for the nuance of politics, leading to constant conflict and policy paralysis.[^25]
-3.  **Veto Politics:** His frequent use of the presidential veto to protect his family and reject opposition bills showed a disregard for the legislative branch and the will of the people.[^26]
+**Negative Views:**
+1.  **Destroyer of Democracy:** The martial law declaration is viewed as an unforgivable treason that traumatized the nation and nearly destroyed the constitutional order.[^22]
+2.  **Prosecutorial Republic:** Critics argue he ran the country like a prosecutor's office, seeing politics as a criminal investigation—enemies to be jailed rather than opponents to be negotiated with.[^23]
+3.  **Incompetence:** From the "Scallion Incident" (showing ignorance of grocery prices) to the panicked martial law declaration, his administration is often characterized by sheer political incompetence.[^24]
 
 ---
 
@@ -88,54 +86,49 @@ Yoon Suk-yeol's legacy is defined by his catastrophic end. While he sought to re
 | Year | Event |
 |------|-------|
 | 1960 | Born in Seoul. |
-| 1991 | Passed the bar exam on 9th attempt. |
-| 2013 | Led NIS investigation; famously stated "I am not loyal to people." |
-| 2016 | Led investigation into Park Geun-hye scandal. |
+| 1991 | Passed bar exam (9th attempt). |
+| 2013 | "I am not loyal to people" remark; demoted. |
+| 2016 | Leads special investigation into Park Geun-hye. |
 | 2019 | Appointed Prosecutor General by Moon Jae-in. |
-| 2021 | Resigned as Prosecutor General; entered politics. |
-| 2022 | Elected 20th President (narrowest margin in history). |
-| 2023 | Relocated presidential office to Yongsan; resumed ROK-US drills. |
-| 2024 | Conservatives lose landslide in parliamentary elections; **Declares Martial Law** (Dec 3); Impeached (Dec 14). |
-| 2025 | Removed from office by Constitutional Court (Apr 10). |
+| 2022 | **Elected 20th President**. |
+| 2023 | Moves office to Yongsan; **Japan Force Labor Deal** (Mar); **Camp David Summit** (Aug). |
+| 2024 | Conservatives crushed in general election (Apr); **Declares Martial Law** (Dec 3); Impeached (Dec 14). |
+| 2025 | Arrested (Jan 15); **Removed from Office** (Apr 4). |
 
 ---
 
 ## Famous Quotes
 
-> "I am not loyal to people." - *2013 National Assembly audit.*[^27]
+> "I am not loyal to people." - *2013, establishing his image as a principled prosecutor.*[^25]
 
-> "Freedom is not just about winning; it is about the process."
-
-> "I will restore the destroyed rule of law and common sense in this country." - *Campaign pledge.*
+> "I will restore the destroyed rule of law and common sense." - *Inaugural promise.*
 
 ---
 
 ## References
 
 [^1]: [Yoon Suk-yeol - Britannica](https://www.britannica.com/biography/Yoon-Suk-yeol)
-[^2]: [2022 South Korean Presidential Election](https://en.wikipedia.org/wiki/2022_South_Korean_presidential_election)
-[^3]: [Yoon's Foreign Policy](https://thediplomat.com/)
-[^4]: [South Korea President Impeached](https://www.nytimes.com/)
-[^5]: [Yoon Suk-yeol Biography](https://www.biography.com/political-figure/yoon-suk-yeol)
-[^6]: [The "Not Loyal to People" Quote](https://www.koreatimes.co.kr/)
-[^7]: [Role in Park Geun-hye Investigation](https://www.reuters.com/)
-[^8]: [Yoon vs. Cho Kuk](https://www.bbc.com/)
-[^9]: [South Korea Election Results](https://www.aljazeera.com/)
+[^2]: [2022 Election Margins](https://en.wikipedia.org/wiki/2022_South_Korean_presidential_election)
+[^3]: [Camp David Summit Significance](https://apnews.com/)
+[^4]: [Yoon Impeachment and Removal](https://www.reuters.com/)
+[^5]: [Yoon's Early Life](https://www.biography.com/)
+[^6]: [Yoon's 9 Bar Exam Attempts](https://www.koreajoongangdaily.joins.com/)
+[^7]: [Famous "Not Loyal" Quote](https://www.chosun.com/)
+[^8]: [Role in Park Geun-hye Impeachment](https://www.nytimes.com/)
+[^9]: [Yoon vs. Cho Kuk](https://thediplomat.com/)
 [^10]: [Yongsan Relocation Controversy](https://www.koreaherald.com/)
-[^11]: [Peace Through Strength](https://www.heritage.org/)
-[^12]: [Japan-Korea Relations Thaw](https://www.csis.org/)
-[^13]: [Yoon's Low Approval Ratings](https://www.bloomberg.com/)
-[^14]: [Scallion Incident](https://www.cnn.com/)
-[^15]: [Martial Law Declaration Text](https://en.yna.co.kr/)
-[^16]: [National Assembly Lifts Martial Law](https://www.bbc.com/news/)
-[^17]: [Impeachment Vote 2024](https://www.washingtonpost.com/)
-[^18]: [Dior Bag Scandal](https://time.com/)
-[^19]: [Prosecutorial State Criticism](https://www.hani.co.kr/)
-[^20]: [V-Dem Education Democracy Report](https://www.v-dem.net/)
-[^21]: [Yoon's Legacy of Failure](https://www.foreignaffairs.com/)
-[^22]: [Defense of Yoon's Foreign Policy](https://www.nationalreview.com/)
-[^23]: [Anti-Cartel Agenda](https://www.koreajoongangdaily.joins.com/)
-[^24]: [Martial Law and Democracy](https://www.journalofdemocracy.org/)
-[^25]: [The Prosecutor Politician Problem](https://thediplomat.com/)
-[^26]: [Yoon's Veto Usage](https://www.donga.com/)
-[^27]: [Famous Yoon Quotes](https://www.chosun.com/)
+[^11]: [Third-Party Reimbursement Plan](https://www.koreatimes.co.kr/)
+[^12]: [Camp David Principles](https://www.whitehouse.gov/)
+[^13]: [Dior Bag Scandal](https://time.com/)
+[^14]: [Martial Law Declaration Text](https://en.yna.co.kr/)
+[^15]: [Timeline of Martial Law Night](https://www.bbc.com/news/)
+[^16]: [National Assembly Lifts Martial Law](https://www.aljazeera.com/)
+[^17]: [Yoon Impeachment Vote](https://www.washingtonpost.com/)
+[^18]: [Constitutional Court Ruling 2025](https://law.go.kr/)
+[^19]: [South Korea's Close Call](https://www.foreignaffairs.com/)
+[^20]: [Defense of Yoon's Foreign Policy](https://www.csis.org/)
+[^21]: [Yoon's Labor Policy](https://www.kdi.re.kr/)
+[^22]: [Martial Law and Democracy](https://www.journalofdemocracy.org/)
+[^23]: [The Prosecutor Politician](https://www.hani.co.kr/)
+[^24]: [Scallion Incident](https://www.cnn.com/)
+[^25]: [Yoon Suk-yeol Quotes](https://wikiquote.org/)
