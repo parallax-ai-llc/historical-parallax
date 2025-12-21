@@ -1,7 +1,6 @@
 "use client";
 
 import * as React from "react";
-import Link from "next/link";
 import { Search, GitPullRequest } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { SearchDialog, SearchItem } from "@/components/search-dialog";
@@ -30,14 +29,15 @@ export default function HomePage() {
   }, []);
 
   return (
-    <div className="flex min-h-screen flex-col">
-      <header className="absolute right-4 top-4 z-50 flex items-center gap-2">
-        <Button variant="outline" size="sm" asChild>
-          <Link href="/contribute">
-            <GitPullRequest className="mr-2 h-4 w-4" />
-            Contribute
-          </Link>
-        </Button>
+    <div className="flex min-h-screen flex-col" suppressHydrationWarning>
+      <header className="absolute right-4 top-4 z-50 flex items-center gap-2" suppressHydrationWarning>
+        <a
+          href="/contribute"
+          className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3"
+        >
+          <GitPullRequest className="h-4 w-4" />
+          Contribute
+        </a>
         <ThemeToggle />
       </header>
 
@@ -70,11 +70,13 @@ export default function HomePage() {
 
       {/* 클라이언트에서만 SearchDialog 렌더링 */}
       {mounted && (
-        <SearchDialog
-          open={searchOpen}
-          onOpenChange={setSearchOpen}
-          items={searchItems}
-        />
+        <div suppressHydrationWarning>
+          <SearchDialog
+            open={searchOpen}
+            onOpenChange={setSearchOpen}
+            items={searchItems}
+          />
+        </div>
       )}
     </div>
   );

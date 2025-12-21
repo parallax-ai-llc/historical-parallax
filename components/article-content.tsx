@@ -1,7 +1,6 @@
 
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
-import { Separator } from "@/components/ui/separator";
 import { ArticleImage } from "./article-image";
 
 export interface ArticleMeta {
@@ -171,7 +170,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
         <ArticleImage src={meta.image} alt={meta.name} />
       )}
 
-      <Separator className="my-8" />
+
 
       {/* Intro Content */}
       {intro && (
@@ -186,7 +185,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
         <div>
           {sections.map((section) => (
             <details key={section.id} open className="group">
-              <summary className="flex w-full items-center justify-between py-4 cursor-pointer list-none transition-colors hover:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-sm [&::-webkit-details-marker]:hidden border-b border-border/20">
+              <summary className="flex w-full items-center justify-between py-4 cursor-pointer list-none transition-colors hover:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-sm [&::-webkit-details-marker]:hidden">
                 <h2
                   id={section.id}
                   className="font-serif text-[1.75rem] md:text-3xl font-bold tracking-tight"
@@ -219,7 +218,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
 
       {/* References Section */}
       {references && (
-        <div className="mt-12 pt-8 border-t-2 border-border">
+        <div className="mt-12 pt-8">
           <div
             className="article-content references-section"
             dangerouslySetInnerHTML={{ __html: references }}
@@ -230,8 +229,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
       {/* External Links */}
       {meta.socialLinks && Object.keys(meta.socialLinks).length > 0 && (
         <>
-          <Separator className="my-8" />
-          <div className="space-y-3">
+          <div className="space-y-3 mt-8">
             <h3 className="font-serif text-lg font-semibold">External Links</h3>
             <div className="flex flex-wrap gap-4">
               {meta.socialLinks.wikipedia && (
