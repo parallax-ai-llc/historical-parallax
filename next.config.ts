@@ -52,6 +52,11 @@ const nextConfig: NextConfig = {
             key: "Referrer-Policy",
             value: "strict-origin-when-cross-origin",
           },
+          // 캐싱 헤더 (정적 자산)
+          {
+            key: "Cache-Control",
+            value: "public, max-age=86400, immutable",
+          },
         ],
       },
       // 폰트 캐싱

@@ -16,9 +16,8 @@ export default function HomePage() {
 
   React.useEffect(() => {
     console.log("HomePage Mounted at:", new Date().toISOString())
-    setMounted(true)
-    // 캐싱 방지를 위해 timestamp 추가
-    fetch(`/api/search?t=${Date.now()}`)
+    setMounted(true);
+    fetch(`/api/search`)
       .then((res) => res.json())
       .then((data) => {
         setSearchItems(data)
