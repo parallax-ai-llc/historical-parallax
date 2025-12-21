@@ -54,16 +54,6 @@ const nextConfig: NextConfig = {
           },
         ],
       },
-      // HTML 페이지는 revalidation 허용
-      {
-        source: "/((?!_next|api).*)",
-        headers: [
-          {
-            key: "Cache-Control",
-            value: "no-store, no-cache, must-revalidate, proxy-revalidate",
-          },
-        ],
-      },
     ];
   },
 };
