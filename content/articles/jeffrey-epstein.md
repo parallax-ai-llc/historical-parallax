@@ -4,7 +4,7 @@ birth: "1953-01-20"
 death: "2019-08-10"
 nationality: American
 occupation: ["Financier", "Convicted Sex Offender"]
-image: "/images/jeffrey-epstein.jpg"
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/J.e.epstein.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeffrey_Epstein"
 lastUpdated: "2025-12-22"

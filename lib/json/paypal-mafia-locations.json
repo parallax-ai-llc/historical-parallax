@@ -1,0 +1,11 @@
+[
+  {"id": "peter-thiel", "name": "Peter Thiel (San Francisco)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "elon-musk", "name": "Elon Musk (Palo Alto)", "coordinates": [-122.1430, 37.4419]},
+  {"id": "reid-hoffman", "name": "Reid Hoffman (Mountain View)", "coordinates": [-122.0838, 37.3861]},
+  {"id": "max-levchin", "name": "Max Levchin (San Francisco)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "david-sacks", "name": "David Sacks (San Francisco)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "roelof-botha", "name": "Roelof Botha (Menlo Park)", "coordinates": [-122.1817, 37.4530]},
+  {"id": "steve-chen", "name": "Steve Chen (San Bruno)", "coordinates": [-122.4111, 37.6249]},
+  {"id": "jeremy-stoppelman", "name": "Jeremy Stoppelman (San Francisco)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "keith-rabois", "name": "Keith Rabois (Miami)", "coordinates": [-80.1918, 25.7617]}
+]

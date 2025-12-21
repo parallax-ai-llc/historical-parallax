@@ -10,6 +10,7 @@ import europeMonarchsLocations from "@/lib/json/europe-monarchs-locations.json";
 import foundingFathersLocations from "@/lib/json/founding-fathers-locations.json";
 import leaders21stLocations from "@/lib/json/leaders-21st-locations.json";
 import epsteinNetworkLocations from "@/lib/json/epstein-network-locations.json";
+import paypalMafiaLocations from "@/lib/json/paypal-mafia-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -29,6 +30,7 @@ const mapData: Record<string, UfoLocation[]> = {
   "founding-fathers": foundingFathersLocations as UfoLocation[],
   "21st-century-leaders": leaders21stLocations as UfoLocation[],
   "epstein-network": epsteinNetworkLocations as UfoLocation[],
+  "paypal-mafia": paypalMafiaLocations as UfoLocation[],
 };
 
 export function getMapLocations(mapId: string, articles: ArticleMeta[]): UfoLocation[] {
@@ -94,6 +96,11 @@ export const MAP_CATEGORIES = [
   {
     id: "epstein-network",
     name: "Epstein Network",
-    description: "Key figures connected to Jeffrey Epstein and the sex trafficking scandal.",
+    description: "Individuals mentioned in court documents related to Jeffrey Epstein. Note: Being named does not imply guilt or criminal involvement—many are victims, witnesses, or mentioned in passing.",
+  },
+  {
+    id: "paypal-mafia",
+    name: "PayPal Mafia",
+    description: "Former PayPal employees who became Silicon Valley's most influential entrepreneurs and investors.",
   },
 ];

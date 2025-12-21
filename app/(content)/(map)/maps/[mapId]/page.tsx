@@ -49,7 +49,6 @@ export default async function MapPage({ params }: MapPageProps) {
     return {
       id: loc.id,
       name: loc.name,
-      // @ts-ignore - date and birth exist on ArticleMeta but might be optional in type def
       date: article?.date || article?.birth || "Unknown",
     };
   });

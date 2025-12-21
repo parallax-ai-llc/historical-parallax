@@ -2,7 +2,6 @@
 title: Epstein 2019 Arrest
 date: "2019-07-06"
 location: "Teterboro, New Jersey"
-image: "/images/epstein-arrest-2019.jpg"
 lastUpdated: "2025-12-22"
 ---
 

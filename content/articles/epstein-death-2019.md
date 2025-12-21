@@ -2,7 +2,6 @@
 title: Epstein's Death in Custody
 date: "2019-08-10"
 location: "New York, New York"
-image: "/images/epstein-death.jpg"
 lastUpdated: "2025-12-22"
 ---
 

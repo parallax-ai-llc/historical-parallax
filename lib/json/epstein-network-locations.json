@@ -9,5 +9,11 @@
   {"id": "donald-trump", "name": "Donald Trump (New York)", "coordinates": [-73.9654, 40.7829]},
   {"id": "bill-gates", "name": "Bill Gates (Seattle)", "coordinates": [-122.3321, 47.6062]},
   {"id": "alan-dershowitz", "name": "Alan Dershowitz (Cambridge)", "coordinates": [-71.1167, 42.3736]},
-  {"id": "les-wexner", "name": "Les Wexner (Columbus, OH)", "coordinates": [-82.9988, 39.9612]}
+  {"id": "les-wexner", "name": "Les Wexner (Columbus, OH)", "coordinates": [-82.9988, 39.9612]},
+  {"id": "al-gore", "name": "Al Gore (Nashville)", "coordinates": [-86.7816, 36.1627]},
+  {"id": "stephen-hawking", "name": "Stephen Hawking (Cambridge, UK)", "coordinates": [0.1218, 52.2053]},
+  {"id": "noam-chomsky", "name": "Noam Chomsky (Cambridge, MA)", "coordinates": [-71.0589, 42.3601]},
+  {"id": "michael-jackson", "name": "Michael Jackson (Los Angeles)", "coordinates": [-118.2437, 34.0522]},
+  {"id": "david-copperfield", "name": "David Copperfield (Las Vegas)", "coordinates": [-115.1398, 36.1699]},
+  {"id": "leonardo-dicaprio", "name": "Leonardo DiCaprio (Los Angeles)", "coordinates": [-118.3287, 34.0736]}
 ]

@@ -3,7 +3,7 @@ name: Ghislaine Maxwell
 birth: "1961-12-25"
 nationality: British
 occupation: ["Socialite", "Convicted Sex Trafficker"]
-image: "/images/ghislaine-maxwell.jpg"
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ghislaine_Maxwell_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ghislaine_Maxwell"
 lastUpdated: "2025-12-22"

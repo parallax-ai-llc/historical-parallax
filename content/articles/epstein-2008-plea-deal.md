@@ -2,7 +2,6 @@
 title: Epstein 2008 Plea Deal
 date: "2008-06-30"
 location: "Palm Beach, Florida"
-image: "/images/epstein-2008-plea.jpg"
 lastUpdated: "2025-12-22"
 ---
 
