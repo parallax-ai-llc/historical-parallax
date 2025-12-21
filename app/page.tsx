@@ -29,22 +29,17 @@ export default function HomePage() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <header
-        className="absolute right-4 top-4 z-50 flex items-center gap-2"
-        role="banner"
-      >
-        <nav aria-label="Main navigation" className="flex items-center gap-2">
-          <Button variant="outline" size="sm" asChild>
-            <Link
-              href="/contribute"
-              aria-label="Contribute to Historical Parallax"
-            >
-              <GitPullRequest className="mr-2 h-4 w-4" aria-hidden="true" />
-              Contribute
-            </Link>
-          </Button>
-          <ThemeToggle />
-        </nav>
+      <header className="absolute right-4 top-4 z-50 flex items-center gap-2">
+        <Button variant="outline" size="sm" asChild>
+          <Link
+            href="/contribute"
+            aria-label="Contribute to Historical Parallax"
+          >
+            <GitPullRequest className="mr-2 h-4 w-4" aria-hidden="true" />
+            Contribute
+          </Link>
+        </Button>
+        <ThemeToggle />
       </header>
 
       <main

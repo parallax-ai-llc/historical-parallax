@@ -157,13 +157,10 @@
   font-family: inherit;
 }
 
+/* h2는 아코디언 버튼에서 별도로 렌더링되므로 스타일 최소화 */
 .article-content h2 {
   font-size: 1.75rem;
   font-weight: 700;
-  margin-top: 3rem;
-  margin-bottom: 1.25rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid hsl(var(--border));
   color: hsl(var(--foreground));
 }
 
