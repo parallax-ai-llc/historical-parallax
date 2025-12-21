@@ -6,9 +6,10 @@ import Image from "next/image";
 interface ArticleImageProps {
     src: string;
     alt: string;
+    priority?: boolean;
 }
 
-export function ArticleImage({ src, alt }: ArticleImageProps) {
+export function ArticleImage({ src, alt, priority = false }: ArticleImageProps) {
     const [hasError, setHasError] = React.useState(false);
 
     if (hasError) {
@@ -16,7 +17,7 @@ export function ArticleImage({ src, alt }: ArticleImageProps) {
     }
 
     return (
-        <div className="mb-8">
+        <figure className="mb-8">
             <Image
                 src={src}
                 alt={alt}
@@ -25,7 +26,15 @@ export function ArticleImage({ src, alt }: ArticleImageProps) {
                 className="object-cover rounded-lg"
                 unoptimized
                 onError={() => setHasError(true)}
+                // LCP 최적화: 첫 번째 이미지는 priority 설정
+                priority={priority}
+                // CLS 방지: 로딩 중 공간 확보
+                placeholder="empty"
+                loading={priority ? "eager" : "lazy"}
+                sizes="(max-width: 768px) 100vw, 320px"
             />
-        </div>
+            <figcaption className="sr-only">{alt}</figcaption>
+        </figure>
     );
 }
+

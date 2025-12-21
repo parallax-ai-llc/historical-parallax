@@ -58,24 +58,49 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
     return () => document.removeEventListener("keydown", down);
   }, [open, onOpenChange]);
 
+  // 검색이 변경될 때 결과 수 알림
+  const resultCount = filteredItems.length;
+
   return (
-    <CommandDialog open={open} onOpenChange={onOpenChange}>
+    <CommandDialog
+      open={open}
+      onOpenChange={onOpenChange}
+      title="Search articles"
+      description="Search for historical articles by name or nationality"
+    >
       <CommandInput
         placeholder="Search articles..."
         value={search}
         onValueChange={setSearch}
+        aria-label="Search articles"
+        aria-describedby="search-results-count"
       />
-      <CommandList>
-        <CommandEmpty>No results found.</CommandEmpty>
+      {/* 스크린 리더용 결과 카운트 */}
+      <div
+        id="search-results-count"
+        className="sr-only"
+        aria-live="polite"
+        aria-atomic="true"
+      >
+        {search
+          ? `${resultCount} results found for "${search}"`
+          : `Showing ${resultCount} recent articles`
+        }
+      </div>
+      <CommandList aria-label="Search results">
+        <CommandEmpty>
+          <span role="status">No results found.</span>
+        </CommandEmpty>
         <CommandGroup heading="Articles">
           {filteredItems.map((item) => (
             <CommandItem
               key={item.id}
               value={item.id}
               onSelect={() => handleSelect(item.id)}
-              className="cursor-pointer"
+              className="cursor-pointer focus-visible:outline-none"
+              aria-label={`${item.name}${item.nationality ? `, ${item.nationality}` : ""}`}
             >
-              <Search className="mr-2 h-4 w-4" />
+              <Search className="mr-2 h-4 w-4" aria-hidden="true" />
               <span className="font-medium">{item.name}</span>
               {item.nationality && (
                 <span className="ml-auto text-xs text-muted-foreground">
@@ -89,3 +114,4 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
     </CommandDialog>
   );
 }
+

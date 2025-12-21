@@ -1,14 +1,25 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Cormorant_Garamond } from "next/font/google";
+import { Cormorant_Garamond, Libre_Caslon_Text } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 
+// 로고 전용 폰트
 const cormorant = Cormorant_Garamond({
-  variable: "--font-serif",
+  variable: "--font-logo-serif",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
   display: "swap",
+  preload: true,
+});
+
+// 본문 serif 폰트 (기사 제목, 헤딩 등)
+const libreCaslon = Libre_Caslon_Text({
+  variable: "--font-serif",
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  display: "swap",
+  preload: true,
 });
 
 export const metadata: Metadata = {
@@ -68,15 +79,27 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        {/* LCP 최적화: 폰트 프리로드 */}
+        <link
+          rel="preconnect"
+          href="https://fonts.googleapis.com"
+          crossOrigin="anonymous"
+        />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
         <link
           href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
+        {/* INP 최적화: 분석 스크립트는 worker에서 로드 */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-M5WB8XPRPT"
-          strategy="afterInteractive"
+          strategy="worker"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script id="google-analytics" strategy="worker">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -85,16 +108,24 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className={`${cormorant.variable} font-sans antialiased`}>
+      <body className={`${cormorant.variable} ${gideonRoman.variable} font-sans antialiased`}>
+        {/* WCAG AAA: 스킵 네비게이션 링크 */}
+        <a href="#main-content" className="skip-link">
+          Skip to main content
+        </a>
+
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
           enableSystem
           disableTransitionOnChange
         >
-          {children}
+          <div id="main-content" role="main" tabIndex={-1}>
+            {children}
+          </div>
         </ThemeProvider>
       </body>
     </html>
   );
 }
+

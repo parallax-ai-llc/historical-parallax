@@ -6,7 +6,7 @@ import { useTheme } from "next-themes";
 import { Button } from "@/components/ui/button";
 
 export function ThemeToggle() {
-  const { theme, setTheme } = useTheme();
+  const { theme, setTheme, resolvedTheme } = useTheme();
   const [mounted, setMounted] = React.useState(false);
 
   React.useEffect(() => {
@@ -15,11 +15,20 @@ export function ThemeToggle() {
 
   if (!mounted) {
     return (
-      <Button variant="ghost" size="icon" className="h-9 w-9">
-        <Sun className="h-4 w-4" />
+      <Button
+        variant="ghost"
+        size="icon"
+        className="h-9 w-9"
+        aria-label="Toggle theme"
+      >
+        <Sun className="h-4 w-4" aria-hidden="true" />
       </Button>
     );
   }
+
+  const isDark = resolvedTheme === "dark";
+  const nextTheme = isDark ? "light" : "dark";
+  const ariaLabel = `Switch to ${nextTheme} mode. Currently in ${isDark ? "dark" : "light"} mode.`;
 
   return (
     <Button
@@ -27,13 +36,17 @@ export function ThemeToggle() {
       size="icon"
       className="h-9 w-9"
       onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+      aria-label={ariaLabel}
+      aria-pressed={isDark}
+      role="switch"
     >
-      {theme === "dark" ? (
-        <Sun className="h-4 w-4" />
+      {isDark ? (
+        <Sun className="h-4 w-4" aria-hidden="true" />
       ) : (
-        <Moon className="h-4 w-4" />
+        <Moon className="h-4 w-4" aria-hidden="true" />
       )}
-      <span className="sr-only">Toggle theme</span>
+      <span className="sr-only">{ariaLabel}</span>
     </Button>
   );
 }
+

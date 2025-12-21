@@ -18,7 +18,7 @@ export default function ContributePage() {
         <div className="flex h-14 items-center justify-between px-4 md:px-6">
           <Link href="/" className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors">
             <ArrowLeft className="h-4 w-4" />
-            <span className="font-serif text-xl font-semibold tracking-tight text-foreground">
+            <span className="font-logo-serif text-xl font-semibold tracking-tight text-foreground">
               Historical Parallax
             </span>
           </Link>

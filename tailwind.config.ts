@@ -19,7 +19,8 @@ export default {
     extend: {
       fontFamily: {
         sans: ['"Google Sans Flex"', "system-ui", "sans-serif"],
-        serif: ["var(--font-serif)"],
+        serif: ["var(--font-serif)", "Georgia", "serif"],
+        "logo-serif": ["var(--font-logo-serif)", "Georgia", "serif"],
       },
       colors: {
         border: "hsl(var(--border))",

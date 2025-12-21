@@ -29,19 +29,30 @@ export default function HomePage() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <header className="absolute right-4 top-4 z-50 flex items-center gap-2">
-        <Button variant="outline" size="sm" asChild>
-          <Link href="/contribute">
-            <GitPullRequest className="mr-2 h-4 w-4" />
-            Contribute
-          </Link>
-        </Button>
-        <ThemeToggle />
+      <header
+        className="absolute right-4 top-4 z-50 flex items-center gap-2"
+        role="banner"
+      >
+        <nav aria-label="Main navigation" className="flex items-center gap-2">
+          <Button variant="outline" size="sm" asChild>
+            <Link
+              href="/contribute"
+              aria-label="Contribute to Historical Parallax"
+            >
+              <GitPullRequest className="mr-2 h-4 w-4" aria-hidden="true" />
+              Contribute
+            </Link>
+          </Button>
+          <ThemeToggle />
+        </nav>
       </header>
 
-      <main className="flex flex-1 flex-col items-center justify-center px-4">
+      <main
+        className="flex flex-1 flex-col items-center justify-center px-4"
+        aria-label="Search for historical articles"
+      >
         <div className="w-full max-w-xl space-y-8 text-center">
-          <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl">
+          <h1 className="font-logo-serif text-4xl font-bold tracking-tight md:text-5xl">
             Historical Parallax
           </h1>
           <p className="text-muted-foreground text-sm md:text-base italic">
@@ -52,10 +63,16 @@ export default function HomePage() {
             variant="outline"
             className="h-12 w-full justify-start px-4 text-muted-foreground"
             onClick={() => setSearchOpen(true)}
+            aria-label="Open search dialog. Press Ctrl+K to search."
+            aria-haspopup="dialog"
+            aria-expanded={searchOpen}
           >
-            <Search className="mr-3 h-5 w-5" />
+            <Search className="mr-3 h-5 w-5" aria-hidden="true" />
             <span>Search articles...</span>
-            <kbd className="pointer-events-none ml-auto hidden h-6 select-none items-center gap-1 rounded border bg-muted px-2 font-mono text-xs font-medium sm:flex">
+            <kbd
+              className="pointer-events-none ml-auto hidden h-6 select-none items-center gap-1 rounded border bg-muted px-2 font-mono text-xs font-medium sm:flex"
+              aria-hidden="true"
+            >
               <span>Ctrl</span>K
             </kbd>
           </Button>
@@ -74,3 +91,4 @@ export default function HomePage() {
     </div>
   );
 }
+

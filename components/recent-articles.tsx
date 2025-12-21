@@ -155,8 +155,23 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
       : "opacity-0 translate-x-4";
   };
 
+  // 키보드 탐색 핸들러
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === "ArrowLeft") {
+      e.preventDefault();
+      goPrev();
+    } else if (e.key === "ArrowRight") {
+      e.preventDefault();
+      goNext();
+    }
+  };
+
   return (
-    <div className="w-full max-w-xl">
+    <section
+      className="w-full max-w-xl"
+      aria-label="Recent articles carousel"
+      aria-roledescription="carousel"
+    >
       <div
         ref={containerRef}
         className="relative h-20 overflow-hidden cursor-grab active:cursor-grabbing select-none"
@@ -167,7 +182,21 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
         onTouchStart={handleTouchStart}
         onTouchMove={handleTouchMove}
         onTouchEnd={handleTouchEnd}
+        onKeyDown={handleKeyDown}
+        tabIndex={0}
+        role="group"
+        aria-roledescription="slide"
+        aria-label={`Article ${currentIndex + 1} of ${displayArticles.length}: ${currentArticle.name}`}
       >
+        {/* 스크린 리더용 라이브 리전 */}
+        <div
+          aria-live="polite"
+          aria-atomic="true"
+          className="sr-only"
+        >
+          Showing article {currentIndex + 1} of {displayArticles.length}: {currentArticle.name}
+        </div>
+
         <Link
           href={`/a/${currentArticle.id}`}
           onClick={(e) => {
@@ -181,6 +210,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
             rounded-lg border border-border/50 bg-card px-4 py-4 md:px-5
             transition-all duration-300 ease-out
             hover:bg-accent hover:border-border
+            focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2
             ${getAnimationClass()}
           `}
           style={{
@@ -189,8 +219,9 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
               : undefined,
             transition: isDragging ? "none" : undefined,
           }}
+          aria-label={`Read article: ${currentArticle.name}`}
         >
-          <div className="min-w-0 flex-1">
+          <article className="min-w-0 flex-1">
             <h3 className="font-medium text-foreground truncate text-left">
               {currentArticle.name}
             </h3>
@@ -199,19 +230,26 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
                 {currentArticle.nationality || "Historical Figure"}
               </p>
               {currentArticle.lastUpdated && (
-                <span className="text-xs text-muted-foreground/70">
+                <time
+                  className="text-xs text-muted-foreground/70"
+                  dateTime={currentArticle.lastUpdated}
+                >
                   · {getRelativeTime(currentArticle.lastUpdated)}
-                </span>
+                </time>
               )}
             </div>
-          </div>
+          </article>
         </Link>
       </div>
 
       {/* Progress indicators */}
       {displayArticles.length > 1 && (
-        <div className="flex justify-center gap-1.5 mt-4">
-          {displayArticles.map((_, index) => (
+        <nav
+          className="flex justify-center gap-1.5 mt-4"
+          aria-label="Article carousel navigation"
+          role="tablist"
+        >
+          {displayArticles.map((article, index) => (
             <button
               key={index}
               onClick={() => {
@@ -220,16 +258,20 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
               }}
               className={`
                 h-1.5 rounded-full transition-all duration-300
+                focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2
                 ${index === currentIndex
                   ? "w-6 bg-primary"
                   : "w-1.5 bg-muted-foreground/30 hover:bg-muted-foreground/50"
                 }
               `}
-              aria-label={`Go to article ${index + 1}`}
+              role="tab"
+              aria-selected={index === currentIndex}
+              aria-label={`Go to article ${index + 1}: ${article.name}`}
+              tabIndex={index === currentIndex ? 0 : -1}
             />
           ))}
-        </div>
+        </nav>
       )}
-    </div>
+    </section>
   );
 }
