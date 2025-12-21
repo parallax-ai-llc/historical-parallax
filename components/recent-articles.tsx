@@ -28,6 +28,33 @@ function getRelativeTime(dateString: string): string {
   return `${Math.floor(diffDays / 365)} years ago`;
 }
 
+// 스켈레톤 컴포넌트
+function RecentArticlesSkeleton() {
+  return (
+    <section className="w-full max-w-xl">
+      {/* 카드 스켈레톤 */}
+      <div className="relative h-20 overflow-hidden rounded-lg border border-border/50 bg-card px-4 py-4 md:px-5">
+        <div className="animate-pulse">
+          <div className="h-5 w-48 bg-muted rounded mb-2" />
+          <div className="flex items-center gap-2">
+            <div className="h-4 w-24 bg-muted rounded" />
+            <div className="h-3 w-16 bg-muted/50 rounded" />
+          </div>
+        </div>
+      </div>
+
+      {/* 인디케이터 스켈레톤 - 레이아웃 공간 확보 (h-1.5 = 6px, mt-4 = 16px) */}
+      <div className="flex justify-center gap-1.5 mt-4 h-1.5">
+        <div className="h-1.5 w-6 rounded-full bg-transparent" />
+        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
+        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
+        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
+        <div className="h-1.5 w-1.5 rounded-full bg-transparent" />
+      </div>
+    </section>
+  );
+}
+
 export function RecentArticles({ articles }: RecentArticlesProps) {
   const [currentIndex, setCurrentIndex] = React.useState(0);
   const [isAnimating, setIsAnimating] = React.useState(false);
@@ -166,6 +193,11 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
     }
   };
 
+  // 로딩 중이면 스켈레톤 표시
+  if (displayArticles.length === 0) {
+    return <RecentArticlesSkeleton />;
+  }
+
   return (
     <section
       className="w-full max-w-xl"
@@ -242,14 +274,14 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
         </Link>
       </div>
 
-      {/* Progress indicators */}
-      {displayArticles.length > 1 && (
-        <nav
-          className="flex justify-center gap-1.5 mt-4"
-          aria-label="Article carousel navigation"
-          role="tablist"
-        >
-          {displayArticles.map((article, index) => (
+      {/* Progress indicators - 항상 공간 확보 */}
+      <nav
+        className="flex justify-center gap-1.5 mt-4 h-1.5"
+        aria-label="Article carousel navigation"
+        role="tablist"
+      >
+        {displayArticles.length > 1 ? (
+          displayArticles.map((article, index) => (
             <button
               key={index}
               onClick={() => {
@@ -269,9 +301,12 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
               aria-label={`Go to article ${index + 1}: ${article.name}`}
               tabIndex={index === currentIndex ? 0 : -1}
             />
-          ))}
-        </nav>
-      )}
+          ))
+        ) : (
+          // 1개일 때 투명 placeholder
+          <div className="h-1.5 w-6 rounded-full bg-transparent" />
+        )}
+      </nav>
     </section>
   );
 }
