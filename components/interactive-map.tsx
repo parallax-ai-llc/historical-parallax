@@ -13,6 +13,24 @@ interface InteractiveMapProps {
   locations: UfoLocation[];
 }
 
+interface GeoGeometry {
+  type: string;
+  coordinates: number[][][] | number[][];
+}
+
+interface GeoProperties {
+  name: string;
+  [key: string]: unknown;
+}
+
+interface GeoFeature {
+  type: "Feature";
+  properties: GeoProperties;
+  geometry: GeoGeometry;
+  id?: string | number;
+  rsmKey: string;
+}
+
 export function InteractiveMap({ locations }: InteractiveMapProps) {
   const router = useRouter();
   const [hovered, setHovered] = React.useState<string | null>(null);
@@ -121,8 +139,8 @@ export function InteractiveMap({ locations }: InteractiveMapProps) {
           maxZoom={4}
         >
           <Geographies geography={geoUrl}>
-            {({ geographies }: { geographies: any[] }) =>
-              geographies.map((geo: any) => (
+            {({ geographies }: { geographies: GeoFeature[] }) =>
+              geographies.map((geo) => (
                 <Geography
                   key={geo.rsmKey}
                   geography={geo}

@@ -6,7 +6,10 @@
   {"id": "syngman-rhee", "name": "Syngman Rhee (Seoul)", "coordinates": [126.9780, 37.5665]},
   {"id": "king-taejo", "name": "King Taejo (Gaeseong)", "coordinates": [126.5500, 37.9667]},
   {"id": "king-jeongjo", "name": "King Jeongjo (Suwon Hwaseong)", "coordinates": [127.0142, 37.2851]},
-  {"id": "gwangju-uprising-1980", "name": "Gwangju Uprising (1980)", "coordinates": [126.8526, 35.1595]},
-  {"id": "april-revolution-1960", "name": "April Revolution (1960)", "coordinates": [126.9780, 37.5665]},
-  {"id": "march-1st-movement-1919", "name": "March 1st Movement (1919)", "coordinates": [126.9860, 37.5710]}
+  {"id": "march-1st-movement-1919", "name": "March 1st Movement (Tapgol Park)", "coordinates": [126.9860, 37.5710]},
+  {"id": "april-revolution-1960", "name": "April Revolution (Seoul)", "coordinates": [126.9780, 37.5665]},
+  {"id": "gwangju-uprising-1980", "name": "Gwangju Uprising (Gwangju)", "coordinates": [126.8526, 35.1595]},
+  {"id": "assassination-of-ito-hirobumi-1909", "name": "Assassination of Ito Hirobumi (Harbin)", "coordinates": [126.6212, 45.7594]},
+  {"id": "donghak-peasant-revolution-1894", "name": "Donghak Peasant Revolution (Jeongeup)", "coordinates": [126.8576, 35.5699]},
+  {"id": "battle-of-myeongnyang-1597", "name": "Battle of Myeongnyang (Myeongnyang Strait)", "coordinates": [126.3039, 34.5675]}
 ]
