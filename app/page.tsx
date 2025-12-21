@@ -51,7 +51,7 @@ export default function HomePage() {
             &ldquo;Every history creates a parallax&rdquo;
           </p>
 
-          {/* <Button
+          <Button
             variant="outline"
             className="h-12 w-full justify-start px-4 text-muted-foreground"
             onClick={() => setSearchOpen(true)}
@@ -63,7 +63,7 @@ export default function HomePage() {
             </kbd>
           </Button>
 
-          <RecentArticles articles={recentArticles} /> */}
+          <RecentArticles articles={recentArticles} />
         </div>
       </main>
 
