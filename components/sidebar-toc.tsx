@@ -56,34 +56,33 @@ export function SidebarToc({ items, activeId, articleTitle }: SidebarTocProps) {
 
   return (
     <aside
-      className="hidden w-64 shrink-0 lg:block"
+      className="hidden fixed top-14 left-0 z-30 w-80 h-[calc(100vh-3.5rem)] bg-background/50 backdrop-blur-sm lg:block"
       aria-label="Table of contents"
     >
-      <div className="sticky top-20">
-        <ScrollArea className="h-[calc(100vh-6rem)]">
+      <div className="h-full py-6 pl-6 pr-4">
+        <ScrollArea className="h-full">
           <nav aria-label="Article sections">
             {articleTitle && (
               <h2
-                className="mb-3 text-sm font-semibold text-foreground"
+                className="mb-4 text-sm font-semibold text-foreground/80 tracking-tight"
                 id="toc-heading"
               >
-                {articleTitle}
+                On this page
               </h2>
             )}
-            <ul className="space-y-1" aria-labelledby="toc-heading">
+            <ul className="space-y-2" aria-labelledby="toc-heading">
               {items.map((item) => (
                 <li key={item.id}>
                   <button
                     onClick={() => handleClick(item.id)}
                     aria-current={currentActive === item.id ? "location" : undefined}
                     className={cn(
-                      "block w-full text-left text-sm transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-sm",
-                      item.level === 2 && "py-1",
-                      item.level === 3 && "py-0.5 pl-4 text-xs",
-                      item.level === 4 && "py-0.5 pl-8 text-xs",
+                      "block w-full text-left text-sm transition-colors duration-200 hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-sm border-l-2 pl-3 -ml-[1px]",
+                      item.level === 3 && "ml-3 border-l-0 pl-1", // h3 indentation
+                      item.level === 4 && "ml-6 border-l-0 pl-1", // h4 indentation
                       currentActive === item.id
-                        ? "font-medium text-foreground"
-                        : "text-muted-foreground"
+                        ? "border-primary font-medium text-foreground"
+                        : "border-transparent text-muted-foreground hover:border-border"
                     )}
                   >
                     {item.text}

@@ -165,11 +165,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
   }, []);
 
   if (!mounted || displayArticles.length === 0) {
-    return (
-      <div className="w-full max-w-xl">
-        <div className="h-20 rounded-lg border border-border/50 bg-card animate-pulse" />
-      </div>
-    );
+    return <RecentArticlesSkeleton />;
   }
 
   const currentArticle = displayArticles[currentIndex];

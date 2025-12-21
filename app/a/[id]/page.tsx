@@ -63,12 +63,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   return (
     <div className="flex min-h-screen flex-col">
       <ClientInteractions searchIndex={searchIndex} editUrl={editUrl}>
-        <div className="mx-auto max-w-[1400px] flex flex-1 gap-8 py-8 px-4 md:px-6">
-          {/* Sidebar TOC - client component for scroll tracking */}
+        <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-72">
+          {/* Sidebar TOC - fixed to viewport left */}
           <SidebarToc items={article.toc} articleTitle={article.meta.name} />
 
-          {/* Article Content - server rendered */}
-          <ArticleContent meta={article.meta} content={article.content} />
+          {/* Article Content - centered in remaining space */}
+          <div className="mx-auto w-full max-w-4xl">
+            <ArticleContent meta={article.meta} content={article.content} />
+          </div>
         </div>
 
         <Footer />
