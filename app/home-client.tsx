@@ -20,7 +20,7 @@ export function HomeClient({ articles }: HomeClientProps) {
   // Use the passed articles directly
   // SearchDialog expects SearchItem[], which is compatible with ArticleMeta[] based on usage
   const searchItems: SearchItem[] = articles;
-  const recentArticles = articles.slice(0, 10);
+  const randomArticles = articles.sort(() => 0.5 - Math.random()).slice(0, 10);
 
   React.useEffect(() => {
     setMounted(true);
@@ -67,7 +67,7 @@ export function HomeClient({ articles }: HomeClientProps) {
             </kbd>
           </Button>
 
-          <RecentArticles articles={recentArticles} />
+          <RecentArticles articles={randomArticles} />
         </div>
       </main>
 

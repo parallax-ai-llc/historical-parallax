@@ -56,7 +56,6 @@ export function getAllArticleIds(): string[] {
 
 export function getAllArticles(): ArticleMeta[] {
   const ids = getAllArticleIds();
-
   const articles = ids
     .map((id) => {
       try {
