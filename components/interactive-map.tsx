@@ -7,10 +7,13 @@ import { Plus, Minus, RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { UfoLocation } from "@/lib/maps";
 
+import { cn } from "@/lib/utils";
+
 const geoUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 
 interface InteractiveMapProps {
   locations: UfoLocation[];
+  className?: string;
 }
 
 interface GeoGeometry {
@@ -31,7 +34,7 @@ interface GeoFeature {
   rsmKey: string;
 }
 
-export function InteractiveMap({ locations }: InteractiveMapProps) {
+export function InteractiveMap({ locations, className }: InteractiveMapProps) {
   const router = useRouter();
   const [hovered, setHovered] = React.useState<string | null>(null);
   const [position, setPosition] = React.useState({
@@ -87,7 +90,7 @@ export function InteractiveMap({ locations }: InteractiveMapProps) {
   }
 
   return (
-    <div className="w-full h-auto md:h-[600px] border rounded-lg bg-slate-950 overflow-hidden relative">
+    <div className={cn("w-full h-auto md:h-[600px] border rounded-lg bg-slate-950 overflow-hidden relative", className)}>
       <div className="absolute top-4 left-4 z-10 bg-black/50 p-2 rounded text-white text-sm pointer-events-none">
         <p className="text-xs text-muted-foreground">
           Click on a marker to view the incident file.
@@ -131,6 +134,7 @@ export function InteractiveMap({ locations }: InteractiveMapProps) {
         }}
         height={600}
         width={800}
+        style={{ width: "100%", height: "100%" }}
       >
         <ZoomableGroup
           zoom={position.zoom}

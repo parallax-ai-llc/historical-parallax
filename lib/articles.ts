@@ -18,6 +18,7 @@ export interface ArticleMeta {
     twitter?: string;
     official?: string;
   };
+  date?: string; // Add date field for events
   lastUpdated?: string;
 }
 
@@ -65,9 +66,10 @@ export function getAllArticles(): ArticleMeta[] {
 
         return {
           id,
-          name: data.name || id,
+          name: data.name || data.title || id, // Fallback to title if name is missing
           birth: data.birth,
           death: data.death,
+          date: data.date, // Map the date field
           nationality: data.nationality,
           occupation: data.occupation,
           image: data.image,

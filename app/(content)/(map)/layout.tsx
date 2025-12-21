@@ -7,9 +7,9 @@ export default function MapsLayout({
   children: React.ReactNode
 }) {
   return (
-    <div className="flex flex-1 flex-col py-8 px-2 md:px-4 lg:pl-80 2xl:pl-0">
+    <div className="flex flex-1 flex-col py-8 px-2 md:px-4 lg:pl-80">
       <MapSidebar />
-      <main className="mx-auto w-full max-w-5xl">
+      <main className="mx-auto w-full max-w-[1400px]">
         <MapMobileNav />
         {children}
       </main>
