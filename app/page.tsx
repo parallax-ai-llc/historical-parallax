@@ -1,32 +1,33 @@
-"use client";
+"use client"
 
-import * as React from "react";
-import { Search, GitPullRequest } from "lucide-react";
-import { ThemeToggle } from "@/components/theme-toggle";
-import { SearchDialog, SearchItem } from "@/components/search-dialog";
-import { RecentArticles, RecentArticle } from "@/components/recent-articles";
-import { Footer } from "@/components/footer";
-import { Button } from "@/components/ui/button";
+import * as React from "react"
+import { Search, GitPullRequest } from "lucide-react"
+import { ThemeToggle } from "@/components/theme-toggle"
+import { SearchDialog, SearchItem } from "@/components/search-dialog"
+import { RecentArticles, RecentArticle } from "@/components/recent-articles"
+import { Footer } from "@/components/footer"
+import { Button } from "@/components/ui/button"
 
 export default function HomePage() {
-  const [mounted, setMounted] = React.useState(false);
-  const [searchOpen, setSearchOpen] = React.useState(false);
-  const [searchItems, setSearchItems] = React.useState<SearchItem[]>([]);
-  const [recentArticles, setRecentArticles] = React.useState<RecentArticle[]>([]);
+  const [mounted, setMounted] = React.useState(false)
+  const [searchOpen, setSearchOpen] = React.useState(false)
+  const [searchItems, setSearchItems] = React.useState<SearchItem[]>([])
+  const [recentArticles, setRecentArticles] = React.useState<RecentArticle[]>([])
 
   React.useEffect(() => {
-    setMounted(true);
-    fetch("/api/search")
+    setMounted(true)
+    // 캐싱 방지를 위해 timestamp 추가
+    fetch(`/api/search?t=${Date.now()}`)
       .then((res) => res.json())
       .then((data) => {
-        setSearchItems(data);
-        setRecentArticles(data.slice(0, 10));
+        setSearchItems(data)
+        setRecentArticles(data.slice(0, 10))
       })
       .catch(() => {
-        setSearchItems([]);
-        setRecentArticles([]);
-      });
-  }, []);
+        setSearchItems([])
+        setRecentArticles([])
+      })
+  }, [])
 
   return (
     <div className="flex min-h-screen flex-col" suppressHydrationWarning>
@@ -50,7 +51,7 @@ export default function HomePage() {
             &ldquo;Every history creates a parallax&rdquo;
           </p>
 
-          <Button
+          {/* <Button
             variant="outline"
             className="h-12 w-full justify-start px-4 text-muted-foreground"
             onClick={() => setSearchOpen(true)}
@@ -62,7 +63,7 @@ export default function HomePage() {
             </kbd>
           </Button>
 
-          <RecentArticles articles={recentArticles} />
+          <RecentArticles articles={recentArticles} /> */}
         </div>
       </main>
 
@@ -79,7 +80,5 @@ export default function HomePage() {
         </div>
       )}
     </div>
-  );
+  )
 }
-
-
