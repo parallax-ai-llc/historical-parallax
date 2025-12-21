@@ -281,10 +281,9 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
               className={`
                 h-1.5 rounded-full transition-all duration-300
                 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2
-                ${
-                  index === currentIndex
-                    ? "w-6 bg-primary"
-                    : "w-1.5 bg-muted-foreground/30 hover:bg-muted-foreground/50"
+                ${index === currentIndex
+                  ? "w-6 bg-primary"
+                  : "w-1.5 bg-muted-foreground/30 hover:bg-muted-foreground/50"
                 }
               `}
               role="tab"
