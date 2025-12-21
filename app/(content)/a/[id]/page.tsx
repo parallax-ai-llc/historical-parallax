@@ -1,9 +1,7 @@
 import { notFound } from "next/navigation";
-import { getArticle, getAllArticleIds, getSearchIndex } from "@/lib/articles";
-import { ClientInteractions } from "./client";
+import { getArticle, getAllArticleIds } from "@/lib/articles";
 import { SidebarToc } from "@/components/sidebar-toc";
 import { ArticleContent } from "@/components/article-content";
-import { Footer } from "@/components/footer";
 
 const GITHUB_REPO = "https://github.com/joshephan/historical-parallax";
 
@@ -57,24 +55,28 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     notFound();
   }
 
-  const searchIndex = getSearchIndex();
   const editUrl = `${GITHUB_REPO}/edit/main/content/articles/${article.meta.id}.md`;
 
   return (
-    <div className="flex min-h-screen flex-col">
-      <ClientInteractions searchIndex={searchIndex} editUrl={editUrl}>
-        <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96 2xl:pl-0">
-          {/* Sidebar TOC - fixed to viewport left */}
-          <SidebarToc items={article.toc} articleTitle={article.meta.name} />
+    <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96 2xl:pl-0">
+      {/* Sidebar TOC - fixed to viewport left */}
+      <SidebarToc items={article.toc} articleTitle={article.meta.name} />
 
-          {/* Article Content - centered in remaining space */}
-          <div className="mx-auto w-full max-w-4xl">
-            <ArticleContent meta={article.meta} content={article.content} />
-          </div>
+      {/* Article Content - centered in remaining space */}
+      <div className="mx-auto w-full max-w-4xl">
+        <ArticleContent meta={article.meta} content={article.content} />
+
+        <div className="mt-8 pt-4 border-t text-sm text-muted-foreground">
+          <a
+            href={editUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center hover:text-foreground transition-colors"
+          >
+            Edit this page on GitHub
+          </a>
         </div>
-
-        <Footer />
-      </ClientInteractions>
+      </div>
     </div>
   );
 }

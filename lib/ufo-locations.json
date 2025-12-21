@@ -166,5 +166,85 @@
             61.7583,
             59.4450
         ]
+    },
+    {
+        "id": "frederick-valentich-disappearance-1978",
+        "name": "Fred Valentich Disappearance",
+        "coordinates": [
+            143.9167,
+            -39.7567
+        ]
+    },
+    {
+        "id": "chicago-ohare-ufo-2006",
+        "name": "Chicago O'Hare UFO",
+        "coordinates": [
+            -87.9073,
+            41.9742
+        ]
+    },
+    {
+        "id": "manises-ufo-incident-1979",
+        "name": "Manises Incident",
+        "coordinates": [
+            -0.4914,
+            39.4895
+        ]
+    },
+    {
+        "id": "jal-1628-incident-1986",
+        "name": "JAL Flight 1628",
+        "coordinates": [
+            -145.4056,
+            64.4839
+        ]
+    },
+    {
+        "id": "colares-ufo-flap-1977",
+        "name": "Colares UFO Flap",
+        "coordinates": [
+            -48.2831,
+            -0.9333
+        ]
+    },
+    {
+        "id": "kenneth-arnold-sighting-1947",
+        "name": "Kenneth Arnold Sighting",
+        "coordinates": [
+            -121.7603,
+            46.8523
+        ]
+    },
+    {
+        "id": "solway-firth-spaceman-1964",
+        "name": "Solway Firth Spaceman",
+        "coordinates": [
+            -3.0886,
+            54.9189
+        ]
+    },
+    {
+        "id": "trans-en-provence-1981",
+        "name": "Trans-en-Provence",
+        "coordinates": [
+            6.4862,
+            43.5042
+        ]
+    },
+    {
+        "id": "ouezzane-landing-1976",
+        "name": "Ouezzane Landing",
+        "coordinates": [
+            -5.5750,
+            34.7967
+        ]
+    },
+    {
+        "id": "falcon-lake-incident-1967",
+        "name": "Falcon Lake Incident",
+        "coordinates": [
+            -95.2158,
+            49.7333
+        ]
     }
 ]
