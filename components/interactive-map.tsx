@@ -21,6 +21,35 @@ export function InteractiveMap({ locations }: InteractiveMapProps) {
     zoom: 1,
   });
 
+  React.useEffect(() => {
+    if (locations.length === 0) {
+      setPosition({ coordinates: [0, 0], zoom: 1 });
+      return;
+    }
+
+    const lons = locations.map((l) => l.coordinates[0]);
+    const lats = locations.map((l) => l.coordinates[1]);
+
+    const minLon = Math.min(...lons);
+    const maxLon = Math.max(...lons);
+    const minLat = Math.min(...lats);
+    const maxLat = Math.max(...lats);
+
+    const centerLon = (minLon + maxLon) / 2;
+    const centerLat = (minLat + maxLat) / 2;
+
+    const maxDiff = Math.max(maxLon - minLon, maxLat - minLat);
+
+    // Heuristic for zoom level
+    let zoom = 1;
+    if (maxDiff < 20) zoom = 4;
+    else if (maxDiff < 60) zoom = 3;
+    else if (maxDiff < 120) zoom = 2;
+    else zoom = 1;
+
+    setPosition({ coordinates: [centerLon, centerLat], zoom });
+  }, [locations]);
+
   function handleZoomIn() {
     if (position.zoom >= 4) return;
     setPosition((pos) => ({ ...pos, zoom: pos.zoom * 2 }));

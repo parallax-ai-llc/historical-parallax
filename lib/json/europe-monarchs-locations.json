@@ -1,0 +1,12 @@
+[
+  {"id": "louis-xiv-of-france", "name": "Louis XIV (Versailles)", "coordinates": [2.1204, 48.8049]},
+  {"id": "queen-victoria", "name": "Queen Victoria (London)", "coordinates": [-0.1278, 51.5074]},
+  {"id": "elizabeth-i", "name": "Elizabeth I (London)", "coordinates": [-0.1278, 51.5074]},
+  {"id": "philip-ii-of-spain", "name": "Philip II (Madrid)", "coordinates": [-3.7038, 40.4168]},
+  {"id": "peter-the-great", "name": "Peter the Great (St. Petersburg)", "coordinates": [30.3349, 59.9343]},
+  {"id": "charlemagne", "name": "Charlemagne (Aachen)", "coordinates": [6.0839, 50.7753]},
+  {"id": "henry-viii", "name": "Henry VIII (London)", "coordinates": [-0.1278, 51.5074]},
+  {"id": "catherine-the-great", "name": "Catherine the Great (St. Petersburg)", "coordinates": [30.3349, 59.9343]},
+  {"id": "maria-theresa", "name": "Maria Theresa (Vienna)", "coordinates": [16.3738, 48.2082]},
+  {"id": "frederick-the-great", "name": "Frederick the Great (Potsdam)", "coordinates": [13.0645, 52.3906]}
+]

@@ -28,7 +28,6 @@ function getRelativeTime(dateString: string): string {
   return `${Math.floor(diffDays / 365)} years ago`;
 }
 
-// 스켈레톤 컴포넌트 - 높이 고정: h-20(80px) + mt-4(16px) + h-1.5(6px) = 102px
 function RecentArticlesSkeleton() {
   return (
     <section className="w-full max-w-xl h-[102px]">

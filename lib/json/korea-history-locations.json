@@ -1,0 +1,12 @@
+[
+  {"id": "king-sejong-the-great", "name": "King Sejong (Gyeongbokgung)", "coordinates": [126.9769, 37.5796]},
+  {"id": "admiral-yi-sun-sin", "name": "Admiral Yi Sun-sin (Hansan Island)", "coordinates": [128.4550, 34.7930]},
+  {"id": "park-chung-hee", "name": "Park Chung-hee (Seoul)", "coordinates": [126.9780, 37.5665]},
+  {"id": "kim-dae-jung", "name": "Kim Dae-jung (Gwangju)", "coordinates": [126.8526, 35.1595]},
+  {"id": "syngman-rhee", "name": "Syngman Rhee (Seoul)", "coordinates": [126.9780, 37.5665]},
+  {"id": "king-taejo", "name": "King Taejo (Gaeseong)", "coordinates": [126.5500, 37.9667]},
+  {"id": "king-jeongjo", "name": "King Jeongjo (Suwon Hwaseong)", "coordinates": [127.0142, 37.2851]},
+  {"id": "gwangju-uprising-1980", "name": "Gwangju Uprising (1980)", "coordinates": [126.8526, 35.1595]},
+  {"id": "april-revolution-1960", "name": "April Revolution (1960)", "coordinates": [126.9780, 37.5665]},
+  {"id": "march-1st-movement-1919", "name": "March 1st Movement (1919)", "coordinates": [126.9860, 37.5710]}
+]

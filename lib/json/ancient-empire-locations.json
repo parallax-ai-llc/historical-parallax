@@ -1,0 +1,12 @@
+[
+  {"id": "alexander-the-great", "name": "Alexander the Great (Pella)", "coordinates": [22.5200, 40.7600]},
+  {"id": "julius-caesar", "name": "Julius Caesar (Rome)", "coordinates": [12.4964, 41.9028]},
+  {"id": "cleopatra-vii", "name": "Cleopatra (Alexandria)", "coordinates": [29.9187, 31.2001]},
+  {"id": "augustus", "name": "Augustus (Rome)", "coordinates": [12.4964, 41.9028]},
+  {"id": "qin-shi-huang", "name": "Qin Shi Huang (Xian)", "coordinates": [108.9398, 34.3416]},
+  {"id": "cyrus-the-great", "name": "Cyrus the Great (Pasargadae)", "coordinates": [53.1667, 30.2000]},
+  {"id": "hammurabi", "name": "Hammurabi (Babylon)", "coordinates": [44.4222, 32.5364]},
+  {"id": "ramesses-ii", "name": "Ramesses II (Pi-Ramesses)", "coordinates": [31.8333, 30.8000]},
+  {"id": "ashoka-the-great", "name": "Ashoka the Great (Pataliputra)", "coordinates": [85.1200, 25.6000]},
+  {"id": "genghis-khan", "name": "Genghis Khan (Mongolia)", "coordinates": [109.0000, 47.0000]}
+]

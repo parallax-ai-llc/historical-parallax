@@ -1,0 +1,12 @@
+[
+  {"id": "george-washington", "name": "George Washington (Mt. Vernon)", "coordinates": [-77.0861, 38.7080]},
+  {"id": "thomas-jefferson", "name": "Thomas Jefferson (Monticello)", "coordinates": [-78.4529, 38.0105]},
+  {"id": "benjamin-franklin", "name": "Benjamin Franklin (Philadelphia)", "coordinates": [-75.1652, 39.9526]},
+  {"id": "alexander-hamilton", "name": "Alexander Hamilton (New York)", "coordinates": [-74.0060, 40.7128]},
+  {"id": "john-adams", "name": "John Adams (Quincy)", "coordinates": [-71.0023, 42.2529]},
+  {"id": "james-madison", "name": "James Madison (Montpelier)", "coordinates": [-78.1189, 38.2201]},
+  {"id": "john-jay", "name": "John Jay (New York)", "coordinates": [-74.0060, 40.7128]},
+  {"id": "samuel-adams", "name": "Samuel Adams (Boston)", "coordinates": [-71.0589, 42.3601]},
+  {"id": "patrick-henry", "name": "Patrick Henry (Virginia)", "coordinates": [-77.4360, 37.5407]},
+  {"id": "thomas-paine", "name": "Thomas Paine (New York)", "coordinates": [-74.0060, 40.7128]}
+]

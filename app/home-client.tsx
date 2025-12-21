@@ -8,6 +8,7 @@ import { RecentArticles } from "@/components/recent-articles";
 import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
 import { ArticleMeta } from "@/lib/articles";
+import { createRandomStream, take } from "@/lib/lisp/utils";
 import Link from "next/link";
 
 interface HomeClientProps {
@@ -18,10 +19,10 @@ export function HomeClient({ articles }: HomeClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
-  // Use the passed articles directly
   // SearchDialog expects SearchItem[], which is compatible with ArticleMeta[] based on usage
   const searchItems: SearchItem[] = articles;
-  const randomArticles = articles.sort(() => 0.5 - Math.random()).slice(0, 10);
+  const stream = createRandomStream(articles);
+  const randomArticles = take(stream, 10);
 
   React.useEffect(() => {
     setMounted(true);

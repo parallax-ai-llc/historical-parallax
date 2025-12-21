@@ -1,0 +1,19 @@
+[
+  {"id": "adolf-hitler", "name": "Adolf Hitler (Berlin)", "coordinates": [13.4050, 52.5200]},
+  {"id": "stalin-joseph", "name": "Joseph Stalin (Moscow)", "coordinates": [37.6173, 55.7558]},
+  {"id": "mao-zedong", "name": "Mao Zedong (Beijing)", "coordinates": [116.4074, 39.9042]},
+  {"id": "benito-mussolini", "name": "Benito Mussolini (Rome)", "coordinates": [12.4964, 41.9028]},
+  {"id": "pol-pot", "name": "Pol Pot (Phnom Penh)", "coordinates": [104.9282, 11.5564]},
+  {"id": "saddam-hussein", "name": "Saddam Hussein (Baghdad)", "coordinates": [44.3661, 33.3152]},
+  {"id": "muammar-gaddafi", "name": "Muammar Gaddafi (Tripoli)", "coordinates": [13.1913, 32.8872]},
+  {"id": "kim-ilsung", "name": "Kim Il-sung (Pyongyang)", "coordinates": [125.7625, 39.0392]},
+  {"id": "kim-jong-il", "name": "Kim Jong-il (Pyongyang)", "coordinates": [125.7625, 39.0392]},
+  {"id": "augusto-pinochet", "name": "Augusto Pinochet (Santiago)", "coordinates": [-70.6693, -33.4489]},
+  {"id": "francisco-franco", "name": "Francisco Franco (Madrid)", "coordinates": [-3.7038, 40.4168]},
+  {"id": "idi-amin", "name": "Idi Amin (Kampala)", "coordinates": [32.5825, 0.3476]},
+  {"id": "castro-fidel", "name": "Fidel Castro (Havana)", "coordinates": [-82.3666, 23.1136]},
+  {"id": "vladimir-lenin", "name": "Vladimir Lenin (Moscow)", "coordinates": [37.6173, 55.7558]},
+  {"id": "nicolae-ceausescu", "name": "Nicolae Ceaușescu (Bucharest)", "coordinates": [26.1025, 44.4268]},
+  {"id": "robert-mugabe", "name": "Robert Mugabe (Harare)", "coordinates": [31.0540, -17.8216]},
+  {"id": "francois-duvalier", "name": "François Duvalier (Port-au-Prince)", "coordinates": [-72.3333, 18.5333]}
+]

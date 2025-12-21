@@ -1,0 +1,12 @@
+[
+  {"id": "assassination-of-abraham-lincoln-1865", "name": "Abraham Lincoln (Washington D.C.)", "coordinates": [-77.0259, 38.8966]},
+  {"id": "assassination-of-john-f-kennedy-1963", "name": "John F. Kennedy (Dallas)", "coordinates": [-96.8088, 32.7791]},
+  {"id": "assassination-of-martin-luther-king-jr-1968", "name": "Martin Luther King Jr. (Memphis)", "coordinates": [-90.0573, 35.1345]},
+  {"id": "assassination-of-mahatma-gandhi-1948", "name": "Mahatma Gandhi (Delhi)", "coordinates": [77.2144, 28.6019]},
+  {"id": "assassination-of-archduke-franz-ferdinand-1914", "name": "Archduke Franz Ferdinand (Sarajevo)", "coordinates": [18.4131, 43.8563]},
+  {"id": "park-chungee", "name": "Park Chung-hee (Seoul)", "coordinates": [126.9780, 37.5665]}, 
+  {"id": "assassination-of-shinzo-abe-2022", "name": "Shinzo Abe (Nara)", "coordinates": [135.8073, 34.6937]},
+  {"id": "assassination-of-anwar-sadat-1981", "name": "Anwar Sadat (Cairo)", "coordinates": [31.2357, 30.0444]},
+  {"id": "assassination-of-yitzhak-rabin-1995", "name": "Yitzhak Rabin (Tel Aviv)", "coordinates": [34.7818, 32.0800]},
+  {"id": "indira-gandhi", "name": "Indira Gandhi (New Delhi)", "coordinates": [77.2090, 28.6139]}
+]
