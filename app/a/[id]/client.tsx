@@ -2,6 +2,7 @@
 
 import * as React from "react";
 import { Search, Pencil } from "lucide-react";
+import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
 import { SearchDialog, SearchItem } from "@/components/search-dialog";
@@ -54,7 +55,7 @@ function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
       suppressHydrationWarning
     >
       <div className="flex h-14 items-center justify-between px-4 md:px-6">
-        <a
+        <Link
           href="/"
           className="flex items-center gap-2 rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
           aria-label="Historical Parallax - Go to home page"
@@ -62,7 +63,7 @@ function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
           <span className="font-serif text-xl font-semibold tracking-tight font-bold">
             Historical Parallax
           </span>
-        </a>
+        </Link>
 
         <nav aria-label="Main navigation" className="flex items-center gap-2">
           <Button
