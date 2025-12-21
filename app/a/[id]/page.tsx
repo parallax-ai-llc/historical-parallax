@@ -7,8 +7,8 @@ import { Footer } from "@/components/footer";
 
 const GITHUB_REPO = "https://github.com/joshephan/historical-parallax";
 
-// ISR: Revalidate every 24 hours (86400 seconds)
-export const revalidate = 86400;
+// ISR disabled for dev testing (set to 86400 for production)
+export const revalidate = 0;
 
 interface ArticlePageProps {
   params: Promise<{ id: string }>;

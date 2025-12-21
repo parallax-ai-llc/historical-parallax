@@ -183,7 +183,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
 
       {/* Accordion Sections - Pure HTML */}
       {sections.length > 0 && (
-        <div className="divide-y divide-border/50 border-t border-border/50">
+        <div className="divide-y">
           {sections.map((section) => (
             <details key={section.id} open className="group">
               <summary className="flex w-full items-center justify-between py-4 cursor-pointer list-none transition-colors hover:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-sm [&::-webkit-details-marker]:hidden">
