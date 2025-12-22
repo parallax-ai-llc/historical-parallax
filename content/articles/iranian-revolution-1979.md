@@ -1,300 +1,238 @@
 ---
 id: "iranian-revolution-1979"
-name: "Iranian Revolution (1979)"
+title: "Iranian Revolution (Islamic Revolution)"
 date: "1979-02-11"
-location: "Nationwide, Iran"
-category: ["Historical Event", "Revolution", "Islamic Revolution", "Cold War"]
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Tehran_demonstration%2C_1979.jpg"
+location: "Tehran, Iran"
+coordinates: [51.3890, 35.6892]
+category: ["Revolution", "Middle East", "20th Century", "Islamic"]
+outcome: "End of Pahlavi monarchy; establishment of Islamic Republic"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mass_demonstration_in_Iran%2C_1979.jpg/800px-Mass_demonstration_in_Iran%2C_1979.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Iranian_Revolution"
-lastUpdated: "2025-12-21"
+lastUpdated: "2025-12-22"
 ---
 
-## Summary
+## Overview
 
-The 1979 Iranian Revolution was one of the most consequential upheavals of the 20th century. In just over a year of mass protests, strikes, and demonstrations, Iranians overthrew Shah Mohammad Reza Pahlavi—a US-backed monarch who had ruled for 38 years—and replaced the 2,500-year-old Persian monarchy with a theocratic Islamic Republic led by Ayatollah Ruhollah Khomeini. It remains the only successful Islamist revolution in modern history.[^1]
-
-The revolution defied Cold War logic. It was not communist, not Western liberal, and not led by the military. Instead, an exiled cleric mobilized millions through cassette tapes of sermons, while bazaar merchants, students, leftists, and ordinary Iranians united in opposition to the Shah's authoritarianism, corruption, and subservience to the West. The movement was largely peaceful—until the regime responded with bullets.[^2]
-
-"Black Friday" (September 8, 1978) saw army troops fire on demonstrators in Tehran's Jaleh Square, killing around 100 and ending any hope of compromise. The Shah fled on January 16, 1979; Khomeini returned triumphantly on February 1; ten days later, the army's neutrality sealed the old regime's fate. A referendum established the Islamic Republic with 98% approval. What followed—the hostage crisis, purges, Iran-Iraq war, and four decades of theocratic rule—continues to shape the Middle East and the world.[^3]
+The Iranian Revolution (1978-1979) overthrew the Western-backed Shah Mohammad Reza Pahlavi and established the world's first modern theocracy—the Islamic Republic of Iran—under Ayatollah Ruhollah Khomeini. The revolution was driven by diverse grievances: opposition to authoritarianism, economic inequality, Western cultural influence, and the Shah's brutal secret police (SAVAK). Though initially a broad coalition revolution, Khomeini's Islamist faction soon dominated, creating a revolutionary Shia Islamic state that transformed Middle Eastern politics and U.S.-Iran relations for decades to come.
 
 ---
 
-## Historical Background
+## Background
 
-### The Pahlavi Monarchy
+### Shah Mohammad Reza Pahlavi
 
-**Reza Shah (r. 1925-1941):** Founded the Pahlavi dynasty; modernized Iran; forced to abdicate by British and Soviets in WWII.
+**Reign:** 1941-1979
+**Character:** Modernizing autocrat; relied on Western support
 
-**Mohammad Reza Shah (r. 1941-1979):**
+**1953 Coup:**
+CIA and MI6 backed coup against democratically elected Prime Minister Mosaddegh. Shah returned to power. Left lasting bitterness.
 
-- Restored to power in 1953 CIA/MI6-backed coup after nationalizing oil
-- "White Revolution" (1963): Land reform, women's suffrage, literacy corps
-- Modernization alongside severe repression
-- Close alliance with United States; major arms purchaser
-- Increasingly authoritarian and isolated from population[^4]
+### White Revolution (1963)
+
+**Modernization Reforms:**
+- Land reform
+- Women's suffrage
+- Literacy corps
+- Industrialization
+
+**Opposition:**
+Clergy opposed secularization. Traditional merchants (bazaaris) hurt by economic changes. Intellectuals wanted democracy, not reform from above.
 
 ### SAVAK
 
-Iran's secret police (1957-1979):
+**Secret Police:**
+Brutal repression. Torture, imprisonment, murder of dissidents. Tens of thousands political prisoners.
 
-- Established with US and Israeli support
-- Extensive surveillance network
-- Torture, imprisonment, execution of dissidents
-- Created atmosphere of fear
-- Became hated symbol of regime[^5]
+### Economic Boom and Bust
 
-### Grievances
-
-By the 1970s, discontent was widespread:
-
-**Economic:** Oil boom benefited elites; inflation hurt workers; rural-urban migration created slums
-
-**Political:** No meaningful participation; rigged elections; censorship; SAVAK persecution
-
-**Cultural:** Westernization seen as culturally corrosive; traditional values undermined
-
-**Religious:** Clerics opposed modernization that diminished their role
-
-**National:** Shah seen as American puppet; 1953 coup remembered[^6]
+**Oil Wealth:**
+1970s oil boom brought wealth but also inflation, corruption, inequality, and resentment.
 
 ---
 
-## The Revolution
+## Ayatollah Khomeini
 
-### 1977: Signs of Crisis
+### Background
 
-- Carter administration pressured Shah on human rights
-- Liberalization raised expectations, then disappointed
-- Opposition intellectuals, lawyers organized
-- Economic troubles; inflation; unemployment
+**Ruhollah Khomeini (1902-1989):**
+Senior Shia cleric. Opposed Shah since 1963.
 
-### 1978: Mass Mobilization
+**Exile (1964):**
+Expelled to Turkey, then Iraq, finally France. Continued leading opposition from abroad.
 
-**January 1978:** Government newspaper attacked Khomeini; protests in Qom; security forces killed demonstrators
-
-**Forty-Day Cycle:** Shi'a tradition of mourning created repeated mobilization: each killing triggered commemoration 40 days later, which produced more killings, perpetuating the cycle.
-
-**Summer 1978:** Protests spread to major cities; Cinema Rex fire in Abadan (400+ killed) blamed on regime
-
-**September 8, 1978 - "Black Friday":**
-
-- Martial law declared
-- Army fired on demonstrators in Jaleh Square, Tehran
-- ~94-100 killed (opposition claimed thousands)
-- Ended possibility of compromise; radicalized movement[^7]
-
-### The Fall
-
-**October-December 1978:**
-
-- General strikes paralyzed economy
-- Oil workers' strike cut exports
-- Bazaars closed
-- Millions marched demanding Shah's overthrow
-
-**January 16, 1979:** Shah left Iran ("on vacation")
-
-**February 1, 1979:** Khomeini returned from exile (15 years in Iraq, then France); millions greeted him
-
-**February 9-11, 1979:** Imperial Guard fought revolutionary forces; army declared neutrality; regime collapsed[^8]
+**Ideology:**
+- Velayat-e faqih (Guardianship of the Islamic Jurist)—clerical rule
+- Opposition to Western influence ("Westoxification")
+- Islamic government
 
 ---
 
-## Death Toll
+## Revolution Timeline
 
-**During the revolution (1978-1979):**
+### 1978: Year of Protests
 
-- Historians estimate 532-2,781 deaths
-- Iranian government later claimed 2,000-3,000 "martyrs"
-- Khomeini claimed 60,000 (considered propagandistic exaggeration)
+**January 1978:**
+Government newspaper attacked Khomeini. Seminary students in Qom protested. Security forces killed several. 
 
-**Black Friday:** ~94-100 killed in Jaleh Square
+**40-Day Cycle:**
+Shia mourning traditions (memorial every 40 days) created repeating protest cycle.
 
-**Most casualties occurred in final months as regime attempted to crush protests with force.**[^9]
+**Throughout 1978:**
+Escalating demonstrations in cities. Strikes. Shah's position weakened.
 
----
+**September 8 (Black Friday):**
+Troops fired on protesters in Tehran. Hundreds killed. Point of no return.
 
-## Key Figures
+**Oil Workers Strike (October):**
+Massive economic pressure.
 
-### Revolutionary Leadership
+### Khomeini's Return
 
-| Name                        | Role                                             |
-| --------------------------- | ------------------------------------------------ |
-| Ayatollah Ruhollah Khomeini | Supreme Leader; architect of Islamic Republic    |
-| Mehdi Bazargan              | First Prime Minister of revolutionary government |
-| Abolhassan Banisadr         | First elected President (later exiled)           |
-| Ali Khamenei                | Cleric; later Supreme Leader (1989-present)      |
+**January 16, 1979:**
+Shah left Iran (officially for "vacation"). Never returned. Died in Egypt (1980).
 
-### Pahlavi Regime
+**February 1, 1979:**
+Khomeini returned to Tehran. Greeted by millions.
 
-| Name                       | Role                                                |
-| -------------------------- | --------------------------------------------------- |
-| Mohammad Reza Shah Pahlavi | Shah of Iran; fled January 1979; died in exile 1980 |
-| Farah Diba                 | Empress                                             |
-| General Gholam Ali Oveisi  | "Butcher of Tehran"; martial law commander          |
-| SAVAK                      | Secret police                                       |
+### Victory
 
-### Other Opposition
+**February 9-11, 1979:**
+Armed revolutionaries and defecting soldiers battled Imperial Guard. Regime collapsed.
 
-| Name/Group              | Role                          |
-| ----------------------- | ----------------------------- |
-| Tudeh Party             | Communist party               |
-| Mojahedin-e Khalq (MEK) | Islamic-Marxist group         |
-| National Front          | Liberal nationalists          |
-| Bazaar merchants        | Economic backbone of protests |
+**February 11:**
+Military declared neutrality. Revolution victorious.
 
 ---
 
-## Establishment of the Islamic Republic
+## Islamic Republic
 
-### April 1, 1979: Referendum
+### Referendum (March 30-31, 1979)
 
-Question: "Islamic Republic: Yes or No?"
-Result: 98.2% voted "Yes" (opposition boycotted)
+98.2% voted for Islamic Republic (only option offered).
 
-### Revolutionary Institutions
+### Constitution
 
-- **Revolutionary Council:** Directed transition
-- **Revolutionary Guards (IRGC):** Parallel military force
-- **Revolutionary Tribunals:** Summary trials; executions of regime figures
-- **Komitehs:** Revolutionary committees in neighborhoods
+**Velayat-e Faqih:**
+Supreme Leader (Khomeini) held ultimate power. President and parliament existed but subordinate.
 
-### December 1979: Constitution
+**Islamic Law:**
+Sharia law basis of legal system. Women's rights restricted.
 
-- Approved by referendum
-- Established "velayat-e faqih" (guardianship of the jurist)
-- Khomeini became Supreme Leader for life
-- Elected president and parliament subordinate to clerical authority[^10]
+### Consolidation
 
----
+**Purges:**
+Liberals, leftists, nationalists who had joined revolution were marginalized, imprisoned, or executed.
 
-## Aftermath
-
-### Consolidation of Power (1979-1982)
-
-- Leftist and liberal forces initially allied with Islamists
-- By 1982, Khomeini's forces had purged rivals
-- MEK crushed; Tudeh banned; liberals marginalized
-- Universities closed for "cultural revolution"
-- Compulsory hijab imposed on women
-
-### Hostage Crisis (1979-1981)
-
-**November 4, 1979:** Students seized US Embassy in Tehran
-
-- 52 Americans held hostage for 444 days
-- Demanded Shah's extradition (he was in US for cancer treatment)
-- Damaged US-Iran relations permanently
-- Shah died in Egypt, July 1980
-
-### Iran-Iraq War (1980-1988)
-
-- September 1980: Iraq (Saddam Hussein) invaded
-- Eight-year war; ~1 million casualties
-- Consolidated revolutionary regime through external enemy
-- US supported Iraq; shaped ongoing enmity[^11]
+**Revolutionary Guards:**
+Parallel military loyal to Supreme Leader formed.
 
 ---
 
-## Historical Assessment
+## Hostage Crisis (1979-1981)
 
-### Revolutionary Perspective
+### November 4, 1979
 
-**Liberation from Tyranny:** The revolution ended a despotic, Western-puppet monarchy. Iranians regained national dignity and created a system based on their own values and Islamic principles. The revolution exported hope to other Muslims and challenged Western hegemony in the region.[^12]
+**U.S. Embassy Seized:**
+Student militants took 52 American diplomats hostage.
 
-### Secular/Opposition Perspective
+**Demand:**
+Return Shah for trial.
 
-**Hijacked Revolution:** The 1979 revolution was broad-based; Khomeini's Islamists were one faction among many. By eliminating rivals, establishing theocracy, and imposing strict social controls, Khomeini betrayed the revolution's diverse goals. What followed was not liberation but a new form of tyranny.[^13]
+**444 Days:**
+Hostages held until January 20, 1981 (released as Reagan inaugurated).
 
-### Western/Cold War Perspective
+**Impact:**
+Destroyed U.S.-Iran relations. Carter's presidency ruined. Patterns of confrontation set.
 
-**Strategic Disaster:** The US lost a key ally; gained an adversary. The revolution disrupted oil markets, inspired Islamic militancy, and destabilized the region. The hostage crisis traumatized America.
+---
 
-### Critical Analysis
+## Iran-Iraq War (1980-1988)
 
-**Unintended Consequences:** Neither the Shah's modernization nor the revolution's Islamization fully succeeded. Iran combined modern state capacity with theocratic legitimacy—a durable but contested combination. The revolution's children (2009, 2022) continue to challenge its legacy.[^14]
+**Saddam Hussein's Invasion:**
+Iraq invaded Iran (September 1980), hoping to exploit revolutionary chaos.
+
+**8-Year War:**
+- 500,000-1 million killed
+- Chemical weapons used
+- "War of the Cities"
+- Neither side won
+
+**Effect:**
+Solidified Islamic Republic. "Sacred defense" legitimized regime.
 
 ---
 
 ## Legacy
 
-### For Iran
+### Iran Transformed
 
-- Theocratic system persists 45+ years later
-- Revolutionary generation aging; youth alienated
-- Economic problems; international isolation
-- Periodic uprisings (2009, 2019, 2022) challenge system
-- Women's status a constant battleground
+**Before Revolution:**
+- U.S. ally
+- Secular (officially)
+- Women unveiled
+- Westernized elite
 
-### For the Middle East
+**After:**
+- Anti-American
+- Islamic theocracy
+- Women must wear hijab
+- Clerical rule
 
-- Inspired Islamist movements
-- Hezbollah (Lebanon); Hamas connections
-- Sectarian dynamics (Sunni-Shia tensions)
-- Saudi-Iranian rivalry
+### Regional Impact
 
-### For the World
+**Shia Revival:**
+Inspired Shia movements in Lebanon (Hezbollah), Iraq, elsewhere.
 
-- Demonstrated that secular modernization isn't inevitable
-- Religious revolution possible in modern state
-- Challenged Cold War binary
-- Ongoing nuclear standoff with West[^15]
+**Islamist Model:**
+Showed Islamist politics could succeed (though Sunni movements developed differently).
+
+**U.S.-Iran Conflict:**
+Sanctions, tensions, proxy wars continue to present day.
+
+---
+
+## Key Figures
+
+| Person | Role |
+|--------|------|
+| Mohammad Reza Pahlavi | Shah; overthrown |
+| Ruhollah Khomeini | Supreme Leader |
+| Shapour Bakhtiar | Last PM under Shah |
+| Mehdi Bazargan | First PM after revolution |
+| Ali Khamenei | Current Supreme Leader (since 1989) |
 
 ---
 
 ## Timeline
 
-| Date                  | Event                                        |
-| --------------------- | -------------------------------------------- |
-| 1941                  | Mohammad Reza Shah takes throne              |
-| 1953                  | CIA-backed coup restores Shah                |
-| 1963                  | White Revolution; Khomeini opposition begins |
-| 1964                  | Khomeini exiled                              |
-| January 1978          | Protests begin in Qom                        |
-| September 8, 1978     | "Black Friday" - Jaleh Square massacre       |
-| October-December 1978 | General strikes paralyze country             |
-| January 16, 1979      | Shah leaves Iran                             |
-| February 1, 1979      | Khomeini returns                             |
-| February 11, 1979     | Monarchy falls                               |
-| April 1, 1979         | Referendum establishes Islamic Republic      |
-| November 4, 1979      | Hostage crisis begins                        |
-| December 1979         | Constitution approved                        |
-| September 1980        | Iran-Iraq War begins                         |
-| July 27, 1980         | Shah dies in exile                           |
-| January 1981          | Hostages released                            |
-| 1988                  | Iran-Iraq War ends                           |
+| Date | Event |
+|------|-------|
+| January 1978 | Qom protests begin |
+| September 8, 1978 | Black Friday massacre |
+| January 16, 1979 | Shah leaves Iran |
+| February 1, 1979 | Khomeini returns |
+| February 11, 1979 | Revolution succeeds |
+| March 1979 | Islamic Republic referendum |
+| November 4, 1979 | U.S. Embassy hostage crisis begins |
+| September 1980 | Iran-Iraq War begins |
+| 1981 | Hostages released |
+| 1988 | Iran-Iraq War ends |
+| 1989 | Khomeini dies |
+
+---
+
+## Famous Quotes
+
+> "Neither East nor West, only the Islamic Republic!" — Revolutionary slogan
+
+> "America is the Great Satan." — Khomeini
 
 ---
 
 ## References
 
-[^1]: [Wikipedia - Iranian Revolution](https://en.wikipedia.org/wiki/Iranian_Revolution)
-
-[^2]: [Britannica - Iranian Revolution](https://www.britannica.com/event/Iranian-Revolution)
-
-[^3]: [Wikipedia - Black Friday](<https://en.wikipedia.org/wiki/Black_Friday_(1978)>)
-
-[^4]: [Britannica - Mohammad Reza Shah](https://www.britannica.com/biography/Mohammad-Reza-Shah-Pahlavi)
-
-[^5]: [Wikipedia - SAVAK](https://en.wikipedia.org/wiki/SAVAK)
-
-[^6]: [Swarthmore - Revolution Database](https://nvdatabase.swarthmore.edu/content/iranian-revolution-1977-1979)
-
-[^7]: [Brookings - Revolution Timeline](https://www.brookings.edu/articles/iran-revolution-1979/)
-
-[^8]: [USIP - Revolution](https://www.usip.org/publications/iranian-revolution)
-
-[^9]: [Study.com - Death Toll](https://study.com/academy/lesson/iranian-revolution-casualties/)
-
-[^10]: [Britannica - Khomeini](https://www.britannica.com/biography/Ruhollah-Khomeini)
-
-[^11]: [History.com - Hostage Crisis](https://www.history.com/topics/middle-east/iran-hostage-crisis)
-
-[^12]: [Iran Chamber - Revolution](https://www.iranchamber.com/history/islamic_revolution/)
-
-[^13]: [ICNC - Nonviolent Conflict](https://www.nonviolent-conflict.org/iranian-revolution/)
-
-[^14]: [Lumen Learning - Revolution](https://courses.lumenlearning.com/boundless-worldhistory/iranian-revolution/)
-
-[^15]: [AP News - Revolution Legacy](https://apnews.com/article/iran-revolution-1979-anniversary)
+- Ervand Abrahamian, *Iran Between Two Revolutions*
+- Marvin Zonis, *Majestic Failure*
+- Documentary footage
+- Participant testimonies
