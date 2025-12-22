@@ -12,6 +12,7 @@ import leaders21stLocations from "@/lib/json/leaders-21st-locations.json";
 import epsteinNetworkLocations from "@/lib/json/epstein-network-locations.json";
 import paypalMafiaLocations from "@/lib/json/paypal-mafia-locations.json";
 import religiousFoundersLocations from "@/lib/json/religious-founders-locations.json";
+import scientistsInventorsLocations from "@/lib/json/scientists-inventors-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -38,6 +39,7 @@ const mapData: Record<string, UfoLocation[]> = {
   "epstein-network": epsteinNetworkLocations as UfoLocation[],
   "paypal-mafia": paypalMafiaLocations as UfoLocation[],
   "religious-founders": religiousFoundersLocations as UfoLocation[],
+  "scientists-inventors": scientistsInventorsLocations as UfoLocation[],
 };
 
 // Custom initial view for specific maps
@@ -138,5 +140,10 @@ export const MAP_CATEGORIES = [
     id: "religious-founders",
     name: "Religious Founders & Philosophers",
     description: "Founders of major world religions and influential ancient philosophers who shaped human thought and civilization.",
+  },
+  {
+    id: "scientists-inventors",
+    name: "Scientists & Inventors",
+    description: "Pioneering scientists and inventors whose discoveries and innovations revolutionized our understanding of the universe and transformed modern life.",
   },
 ];

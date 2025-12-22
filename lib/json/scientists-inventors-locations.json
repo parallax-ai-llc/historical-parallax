@@ -1,0 +1,8 @@
+[
+  {"id": "isaac-newton", "name": "Isaac Newton (Woolsthorpe)", "coordinates": [-0.6409, 52.8085]},
+  {"id": "albert-einstein", "name": "Albert Einstein (Ulm)", "coordinates": [9.9917, 48.3984]},
+  {"id": "marie-curie", "name": "Marie Curie (Warsaw)", "coordinates": [21.0122, 52.2297]},
+  {"id": "galileo-galilei", "name": "Galileo Galilei (Pisa)", "coordinates": [10.4017, 43.7228]},
+  {"id": "charles-darwin", "name": "Charles Darwin (Shrewsbury)", "coordinates": [-2.7496, 52.7077]},
+  {"id": "nikola-tesla", "name": "Nikola Tesla (Smiljan)", "coordinates": [15.3196, 44.5569]}
+]
