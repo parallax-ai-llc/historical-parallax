@@ -1,0 +1,11 @@
+[
+  {"id": "jesus-christ", "name": "Jesus Christ (Bethlehem)", "coordinates": [35.2033, 31.7054]},
+  {"id": "gautama-buddha", "name": "Gautama Buddha (Lumbini)", "coordinates": [83.2769, 27.4750]},
+  {"id": "muhammad", "name": "Muhammad (Mecca)", "coordinates": [39.8262, 21.4225]},
+  {"id": "confucius", "name": "Confucius (Qufu)", "coordinates": [116.9852, 35.5950]},
+  {"id": "laozi", "name": "Laozi (China)", "coordinates": [113.0, 33.0]},
+  {"id": "socrates", "name": "Socrates (Athens)", "coordinates": [23.7275, 37.9838]},
+  {"id": "plato", "name": "Plato (Athens)", "coordinates": [23.7275, 37.9838]},
+  {"id": "aristotle", "name": "Aristotle (Stagira)", "coordinates": [23.8309, 40.5336]},
+  {"id": "moses", "name": "Moses (Mount Sinai)", "coordinates": [33.9753, 28.5393]}
+]
