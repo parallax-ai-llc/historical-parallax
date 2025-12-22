@@ -18,6 +18,11 @@ export interface UfoLocation {
   coordinates: [number, number]; // [longitude, latitude]
 }
 
+export interface MapViewConfig {
+  center: [number, number]; // [longitude, latitude]
+  zoom: number;
+}
+
 const mapData: Record<string, UfoLocation[]> = {
   "ufo-mysteries": ufoLocations as UfoLocation[],
   "civil-unrest": unrestLocations as UfoLocation[],
@@ -32,6 +37,30 @@ const mapData: Record<string, UfoLocation[]> = {
   "epstein-network": epsteinNetworkLocations as UfoLocation[],
   "paypal-mafia": paypalMafiaLocations as UfoLocation[],
 };
+
+// Custom initial view for specific maps
+const mapViewConfigs: Record<string, MapViewConfig> = {
+  "epstein-network": {
+    center: [-40, 45], // Centered between US East Coast and UK
+    zoom: 2.5,
+  },
+  "paypal-mafia": {
+    center: [-122.4, 37.7], // San Francisco Bay Area
+    zoom: 4,
+  },
+  "korean-history": {
+    center: [127.5, 37.5], // South Korea
+    zoom: 4,
+  },
+  "founding-fathers": {
+    center: [-77, 38.5], // US East Coast
+    zoom: 3,
+  },
+};
+
+export function getMapViewConfig(mapId: string): MapViewConfig | undefined {
+  return mapViewConfigs[mapId];
+}
 
 export function getMapLocations(mapId: string, articles: ArticleMeta[]): UfoLocation[] {
   const locations = mapData[mapId] || [];

@@ -66,7 +66,7 @@ export default async function MapPage({ params }: MapPageProps) {
             </p>
           </div>
           <div className="min-h-[250px] xl:h-[600px] rounded-lg overflow-hidden bg-slate-950">
-            <InteractiveMap locations={locations} className="h-full border-none rounded-none" />
+            <InteractiveMap mapId={mapId} locations={locations} className="h-full border-none rounded-none" />
           </div>
 
           {/* Timeline below map on smaller screens */}

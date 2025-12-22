@@ -6,12 +6,14 @@ import { useRouter } from "next/navigation";
 import { Plus, Minus, RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { UfoLocation } from "@/lib/maps";
+import { getMapViewConfig } from "@/lib/maps";
 
 import { cn } from "@/lib/utils";
 
 const geoUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 
 interface InteractiveMapProps {
+  mapId: string;
   locations: UfoLocation[];
   className?: string;
 }
@@ -34,7 +36,7 @@ interface GeoFeature {
   rsmKey: string;
 }
 
-export function InteractiveMap({ locations, className }: InteractiveMapProps) {
+export function InteractiveMap({ mapId, locations, className }: InteractiveMapProps) {
   const router = useRouter();
   const [hovered, setHovered] = React.useState<string | null>(null);
   const [position, setPosition] = React.useState({
@@ -43,6 +45,18 @@ export function InteractiveMap({ locations, className }: InteractiveMapProps) {
   });
 
   React.useEffect(() => {
+    // Check if there's a custom view config for this map
+    const customConfig = getMapViewConfig(mapId);
+
+    if (customConfig) {
+      setPosition({
+        coordinates: customConfig.center,
+        zoom: customConfig.zoom
+      });
+      return;
+    }
+
+    // Otherwise, auto-calculate based on locations
     if (locations.length === 0) {
       setPosition({ coordinates: [0, 0], zoom: 1 });
       return;
@@ -69,7 +83,7 @@ export function InteractiveMap({ locations, className }: InteractiveMapProps) {
     else zoom = 1;
 
     setPosition({ coordinates: [centerLon, centerLat], zoom });
-  }, [locations]);
+  }, [mapId, locations]);
 
   function handleZoomIn() {
     if (position.zoom >= 4) return;
@@ -165,7 +179,7 @@ export function InteractiveMap({ locations, className }: InteractiveMapProps) {
             <Marker
               key={id}
               coordinates={coordinates}
-              onClick={() => router.push(`/a/${id}`)}
+              onClick={() => router.push(`/ a / ${id} `)}
               onMouseEnter={() => setHovered(name)}
               onMouseLeave={() => setHovered(null)}
               className="cursor-pointer"
@@ -186,7 +200,7 @@ export function InteractiveMap({ locations, className }: InteractiveMapProps) {
                   style={{
                     fontFamily: "system-ui",
                     fill: "#ffffff",
-                    fontSize: `${10 / position.zoom}px`,
+                    fontSize: `${10 / position.zoom} px`,
                     fontWeight: "bold",
                     textShadow: "0px 1px 2px rgba(0,0,0,0.8)",
                     pointerEvents: "none",
