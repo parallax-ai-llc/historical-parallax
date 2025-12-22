@@ -2,5 +2,21 @@
   {"id": "pearl-harbor", "name": "Pearl Harbor (1941)", "coordinates": [-157.9399, 21.3647]},
   {"id": "battle-of-stalingrad", "name": "Battle of Stalingrad (1942-43)", "coordinates": [44.5133, 48.7194]},
   {"id": "d-day-normandy", "name": "D-Day Normandy (1944)", "coordinates": [-0.8577, 49.4144]},
-  {"id": "hiroshima-nagasaki", "name": "Hiroshima/Nagasaki (1945)", "coordinates": [132.4553, 34.3853]}
+  {"id": "hiroshima-nagasaki", "name": "Hiroshima/Nagasaki (1945)", "coordinates": [132.4553, 34.3853]},
+  {"id": "battle-of-midway-1942", "name": "Battle of Midway (1942)", "coordinates": [-177.3800, 28.2072]},
+  {"id": "battle-of-berlin-1945", "name": "Battle of Berlin (1945)", "coordinates": [13.4050, 52.5200]},
+  {"id": "battle-of-britain-1940", "name": "Battle of Britain (1940)", "coordinates": [-0.1278, 51.5074]},
+  {"id": "dunkirk-evacuation-1940", "name": "Dunkirk Evacuation (1940)", "coordinates": [2.3768, 51.0504]},
+  {"id": "siege-of-leningrad-1941", "name": "Siege of Leningrad (1941)", "coordinates": [30.3300, 59.9311]},
+  {"id": "battle-of-el-alamein-1942", "name": "Battle of El Alamein (1942)", "coordinates": [28.9567, 30.8364]},
+  {"id": "battle-of-kursk-1943", "name": "Battle of Kursk (1943)", "coordinates": [36.1926, 51.7373]},
+  {"id": "battle-of-monte-cassino-1944", "name": "Battle of Monte Cassino (1944)", "coordinates": [13.8159, 41.4902]},
+  {"id": "battle-of-the-bulge-1944", "name": "Battle of the Bulge (1944)", "coordinates": [5.7224, 50.0435]},
+  {"id": "battle-of-guadalcanal-1942", "name": "Battle of Guadalcanal (1942)", "coordinates": [160.0385, -9.4588]},
+  {"id": "battle-of-coral-sea-1942", "name": "Battle of Coral Sea (1942)", "coordinates": [155.0000, -15.0000]},
+  {"id": "battle-of-leyte-gulf-1944", "name": "Battle of Leyte Gulf (1944)", "coordinates": [125.7500, 10.7500]},
+  {"id": "battle-of-iwo-jima-1945", "name": "Battle of Iwo Jima (1945)", "coordinates": [141.3283, 24.7828]},
+  {"id": "battle-of-okinawa-1945", "name": "Battle of Okinawa (1945)", "coordinates": [127.8056, 26.3353]},
+  {"id": "battle-of-singapore-1942", "name": "Battle of Singapore (1942)", "coordinates": [103.8198, 1.3521]},
+  {"id": "operation-barbarossa-1941", "name": "Operation Barbarossa (1941)", "coordinates": [30.5234, 50.4501]}
 ]

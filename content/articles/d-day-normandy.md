@@ -1,297 +1,117 @@
 ---
-name: "D-Day: Normandy Landings"
+id: "d-day-normandy"
+title: "D-Day (Operation Overlord)"
 date: "1944-06-06"
 location: "Normandy, France"
-conflict: "World War II"
-belligerents: ["Allied Forces", "Nazi Germany"]
-outcome: "Allied victory; liberation of Western Europe begins"
-coordinates: [-0.8607, 49.3497]
+coordinates: [-0.8577, 49.4144]
+category: ["WWII", "Western Front", "Amphibious", "Allies"]
+outcome: "Successful Allied landing; Opening of the Second Front in Europe"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Into_the_Jaws_of_Death_23-0455M_edit.jpg/800px-Into_the_Jaws_of_Death_23-0455M_edit.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Normandy_landings"
 lastUpdated: "2025-12-22"
 ---
 
-## Summary
+## Overview
 
-D-Day (June 6, 1944) was the Allied invasion of Nazi-occupied France—the largest amphibious military operation in history. Code-named Operation Overlord, the assault sent 156,000 American, British, Canadian, and Allied troops across the English Channel to storm five Normandy beaches (Utah, Omaha, Gold, Juno, Sword). Supported by 7,000 ships and 11,000 aircraft, the invasion breached Hitler's "Atlantic Wall." Despite fierce German resistance, especially the bloodbath at Omaha Beach, the Allies established a beachhead by nightfall. D-Day opened the Western Front, leading to the liberation of France and ultimately Nazi Germany's defeat. It remains the defining moment of the Western Allies' contribution to World War II.
-
----
-
-## Background
-
-### Strategic Context
-
-**Two-Front War:**
-Stalin demanded "Second Front" to relieve pressure on USSR fighting Germany in the East.
-
-**Mediterranean First:**
-Churchill preferred attacking "soft underbelly" (North Africa, Sicily, Italy). By 1944, full cross-Channel invasion agreed.
-
-**Operation Overlord:**
-Code name for liberation of Western Europe. D-Day was initial assault.
-
-**Supreme Commander:**
-General Dwight D. Eisenhower (U.S.) led Allied Expeditionary Force.
+D-Day (June 6, 1944) was the largest amphibious invasion in military history. Codenamed **Operation Overlord**, it marked the liberation of Western Europe from Nazi control. An Allied armada of 6,939 vessels landed 156,000 US, British, and Canadian troops on five beaches along a 50-mile stretch of the Normandy coast. Preceded by a massive airborne drop, the assault breached Hitler's "Atlantic Wall." Despite heavy casualties (especially at Omaha Beach), the Allies secured a foothold, opening the Second Front that Stalin had demanded, and beginning the race to Berlin.
 
 ---
 
-## Planning
+## The Atlantic Wall
 
-### Location
-
-**Why Normandy:**
-- Within fighter aircraft range
-- Less defended than Pas-de-Calais
-- Wider beaches
-- Could achieve surprise
-
-### Forces
-
-**Allied:**
-- 156,000 troops on D-Day
-- 7,000 ships and landing craft
-- 11,000 aircraft
-- U.S., British, Canadian, Free French, Polish, and others
-
-**German:**
-- 50,000+ defenders in Normandy
-- Rommel's Army Group B
-- Atlantic Wall fortifications
-
-### Deception: Operation Fortitude
-
-**Fake Army:**
-Patton commanded phantom "First U.S. Army Group" (FUSAG) supposedly targeting Calais.
-
-**Deception:**
-- Inflatable tanks
-- False radio traffic
-- Double agents feeding misinformation
-
-**Effect:**
-Germans kept 15 divisions at Calais even after D-Day began. Rommel couldn't get reinforcements released.
-
-### Weather Delay
-
-**Original Date:** June 5, 1944
-
-**Storm:**
-Eisenhower postponed 24 hours. June 6: brief improvement forecast.
-
-**Decision:**
-> "O.K., let's go." — Eisenhower, approving invasion
-
-If delayed further, next suitable tide: late June.
+Hitler appointed **Field Marshal Erwin Rommel** to defend the coast.
+Rommel knew the invasion must be stopped on the beaches ("The first 24 hours will be decisive").
+**Defenses:**
+- 6 million mines.
+- "Rommel's Asparagus" (wooden stakes to impale gliders).
+- Concrete bunkers (Tobouks).
+- Underwater obstacles to rip boat hulls.
 
 ---
 
-## The Assault
+## The Deception (Operation Fortitude)
 
-### H-Hour Sequence
-
-**Airborne Drops (12:15-3:30 AM):**
-- U.S. 82nd Airborne: Ste-Mère-Église, river crossings
-- U.S. 101st Airborne: Utah Beach exits
-- British 6th Airborne: Orne bridges, Merville battery
-
-**Problems:**
-Paratroopers scattered, some drowned, disoriented. But disrupted German response.
-
-**Naval Bombardment (5:50 AM):**
-195,700 sailors; heaviest naval bombardment ever. Pounded defenses (with limited effect on bunkers).
-
-**Beach Landings (6:30 AM onward):**
-
-### The Five Beaches
-
-**Utah Beach (U.S.):**
-- Westernmost, Cotentin Peninsula
-- Landed 1 mile south of target (current drift)—actually less defended area
-- Relatively light casualties: ~200 killed
-- Linked with 101st Airborne
-
-**Omaha Beach (U.S.):**
-- Bloodiest beach
-- Strong defenses: bluffs, bunkers, veteran German troops
-- Naval bombardment largely missed targets
-- First waves decimated
-- Pinned down for hours under withering fire
-- Individual heroism eventually broke through
-- ~2,000+ casualties
-
-**Gold Beach (British):**
-- Central beach
-- Moderate resistance
-- Arromanches captured (Mulberry harbor site)
-
-**Juno Beach (Canadian):**
-- Heavy losses in initial assault (obstacles, rough seas)
-- Canadians pushed furthest inland by day's end
-
-**Sword Beach (British):**
-- Easternmost
-- Linked with British 6th Airborne
-- Attacked toward Caen (not captured until July)
+The Allies convinced Hitler the invasion would land at **Pas de Calais** (the shortest distance from England).
+- **FUSAG:** A fake army commanded by General Patton (inflatable tanks, wooden planes).
+- **Double Agents:** Juan Pujol García ("Garbo") fed Germans fake intel.
+**Result:** Hitler kept his best Panzer divisions at Calais, far from Normandy, even days after D-Day began.
 
 ---
 
-## German Response
+## Order of Battle
 
-### Confusion
+### Supreme Allied Commander: Dwight D. Eisenhower
 
-**Rommel Absent:**
-Birthday trip to Germany. Returned late D-Day.
+**The Plan:**
+1.  **Airborne (Midnight):** 24,000 paratroopers (US 101st/82nd, British 6th) drop behind lines to seize bridges/roads.
+2.  **Naval Bombardment (Dawn):** Soften defenses.
+3.  **Amphibious Landing (06:30):** 5 Beaches.
 
-**Panzer Reserves:**
-Hitler controlled. Officers afraid to wake him. Armored divisions released late.
+### The Beaches
 
-**Deception Working:**
-Many Germans believed Normandy was diversion; real attack still at Calais.
-
-### Hitler's Reaction
-
-Initially elated—thought invasion could be crushed. Then realized scale.
-
----
-
-## Heroism and Horror
-
-### Omaha Beach
-
-**"Bloody Omaha":**
-First waves suffered 90%+ casualties in some companies. Bodies piling in surf.
-
-**Breakthrough:**
-Small groups of soldiers climbed bluffs, attacked bunkers from behind. Naval destroyers came dangerously close to shore for fire support.
-
-**General Cota:**
-> "Gentlemen, we are being killed on the beaches. Let us go inland and be killed."
-
-### Pointe du Hoc
-
-**Rangers:**
-Scaled 100-foot cliffs under fire to assault German guns (which had been moved). 135 of 225 Rangers became casualties.
-
-### Pegasus Bridge
-
-British glider troops captured Orne River bridges minutes after midnight—first objectives.
+| Beach | Sector | Troops | Outcome |
+|:---|:---|:---|:---|
+| **Utah** | Western | US 4th Infantry | **Light resistance.** (Landed 1 mile off target, fortuitously less defended). 197 casualties. |
+| **Omaha** | Western | US 1st & 29th | **Bloody hell.** High bluffs, elite German 352nd Division. Tanks (DD tanks) sank. 2,000+ casualties. "Bloody Omaha." |
+| **Gold** | Center | British 50th | Successful. 400 casualties. |
+| **Juno** | Center | Canadian 3rd | Heavy mining/rough seas. 1,200 casualties. Broke through furthest inland. |
+| **Sword** | Eastern | British 3rd | Successful link with Airborne. Faced Panzer counterattack (21st Panzer). |
 
 ---
 
-## Aftermath
+## The Battle (June 6)
 
-### By Nightfall, June 6
+### 00:16 - The Drops
+Scattered mess. Pilots flew too fast/high due to flak.
+Troops landed miles off target.
+**Unintended Benefit:** Confusion. Germans reported "paratroopers everywhere." Couldn't pinpoint main attack.
 
-**Beached Secured:**
-All five beaches connected or nearly so. ~156,000 troops ashore.
+### 06:30 - H-Hour
+**Omaha Beach:**
+Ramps dropped. Men cut down by MG42s instantly.
+General Omar Bradley considered abandoning the beach.
+Small groups (Col. George Taylor: "Two kinds of people staying on this beach: the dead and those who are going to die. Now let's get the hell out of here!") rallied and scaled the bluffs.
 
-**Casualties:**
-- Allies: ~10,000 (4,414 confirmed killed)
-- Germans: ~4,000-9,000
-
-**Objectives:**
-Not all met (Caen not taken), but critical beachhead established.
-
-### The Build-Up
-
-**Mulberry Harbors:**
-Artificial harbors constructed to land supplies (one destroyed by storm June 19).
-
-**Reinforcement Race:**
-Allies brought troops/supplies faster than Germans could reinforce.
-
-### Breakout
-
-**July-August 1944:**
-- Battle of Caen (British)
-- Battle of Saint-Lô (U.S.)
-- Operation Cobra: American breakout
-- Falaise Pocket: German army surrounded, destroyed
-
-**August 25, 1944:**
-Paris liberated.
-
-### War's End
-
-**Less than a year later:**
-Germany surrendered May 8, 1945.
+### The German Response
+Hitler was asleep. His aides refused to wake him.
+Field Marshal Rundstedt requested Panzer reserves. OKW (High Command) refused until Hitler woke up (noon).
+**Result:** Panzers arrived too late. Air superiority (Ally planes) decimated them on roads.
 
 ---
 
-## Significance
+## Casualties (D-Day Only)
 
-### Military
+| Force | Landed | Killed/Wounded/Missing |
+|:---|:---|:---|
+| **USA** | 73,000 | ~6,603 |
+| **UK** | 61,715 | ~2,700 |
+| **Canada** | 21,400 | ~1,074 |
+| **Germany** | Unknown | ~4,000 - 9,000 |
 
-- Largest amphibious invasion ever
-- Demonstrated Allied logistical capability
-- Opened two-front war Germany couldn't win
-- Combined arms: sea, air, land integration
+**French Civilians:** ~3,000 killed by Allied bombing on D-Day (Often overlooked tragedy).
 
-### Political
+---
 
-- Allied cooperation (U.S., UK, Canada, France)
-- Showed Western commitment to liberation
-- Set stage for postwar order
+## Technology
 
-### Human
-
-- ~425,000 Allied and German troops killed/wounded/missing in Normandy campaign
-- Liberation of Western Europe
+- **Higgins Boat (LCVP):** Plywood flat-bottomed boat. "The boat that won the war" (Eisenhower).
+- **Mulberry Harbours:** Artificial portable harbors towed across channel.
+- **DD Tanks (Donald Duck):** Swimming Sherman tanks (canvas screens). Most sank at Omaha due to high waves.
+- **Hobart's Funnies:** British modified tanks (flail chains for mines, carpet layers for mud).
 
 ---
 
 ## Legacy
 
-### Commemoration
-
-- Normandy American Cemetery: 9,388 graves, Omaha Beach
-- Annual ceremonies (anniversary)
-- Films: *The Longest Day*, *Saving Private Ryan*, *Band of Brothers*
-
-### "The Longest Day"
-
-Rommel allegedly said:
-> "The first 24 hours of the invasion will be decisive... For the Allies, as well as Germany, it will be the longest day."
-
----
-
-## Key Figures
-
-| Person | Role |
-|--------|------|
-| Dwight D. Eisenhower | Supreme Allied Commander |
-| Bernard Montgomery | Ground forces commander |
-| Omar Bradley | U.S. First Army |
-| Erwin Rommel | German Army Group B |
-| Theodore Roosevelt Jr. | Oldest soldier on D-Day (Utah Beach) |
-
----
-
-## Timeline
-
-| Time | Event |
-|------|-------|
-| 12:15 AM | Airborne drops begin |
-| 5:50 AM | Naval bombardment |
-| 6:30 AM | Utah, Omaha landings |
-| 7:25 AM | Gold, Juno, Sword landings |
-| Afternoon | Omaha breakthrough |
-| Nightfall | Beachhead secured |
-
----
-
-## Famous Quotes
-
-> "O.K., let's go." — Eisenhower
-
-> "You are about to embark upon the Great Crusade." — Eisenhower's Order of the Day
+- **The Longest Day:** Ended the Third Reich's dominance.
+- **Logistics Wonder:** By end of June, Allies landed 850,000 men and 150,000 vehicles.
+- **Soviet Relief:** Took pressure off Eastern Front.
 
 ---
 
 ## References
 
-- Cornelius Ryan, *The Longest Day*
-- Stephen Ambrose, *D-Day*
-- Antony Beevor, *D-Day: The Battle for Normandy*
-- National WWII Museum archives
-- Veteran testimonies
+- **D-Day** (Stephen Ambrose)
+- **The Longest Day** (Cornelius Ryan)
+- **Normandy '44** (James Holland)
