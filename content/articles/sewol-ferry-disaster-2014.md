@@ -1,242 +1,59 @@
 ---
 id: "sewol-ferry-disaster-2014"
-title: "세월호 침몰 사고 (Sewol Ferry Disaster)"
+title: "Sewol Ferry Disaster"
 date: "2014-04-16"
-location: "Jindo, South Jeolla Province, South Korea"
-coordinates: [125.9500, 34.2167]
-category: ["Disaster", "Maritime", "Korea", "21st Century"]
-casualties: "304 deaths (250 students)"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sewol_capsized.jpg/800px-Sewol_capsized.jpg"
+location: "Jindo, South Korea"
+coordinates: [125.9600, 34.2250]
+category: ["Disasters", "Maritime", "South Korea", "Negligence"]
+outcome: "Sinking of MV Sewol; 304 deaths (mostly high school students); Impeachment of President Park Geun-hye"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sewol_Ferry_Capsized.jpg/800px-Sewol_Ferry_Capsized.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sinking_of_MV_Sewol"
-lastUpdated: "2025-12-22"
+lastUpdated: "2025-12-23"
 ---
 
-## 개요 (Overview)
+## Overview
 
-세월호 침몰 사고는 2014년 4월 16일 대한민국 전라남도 진도군 해상에서 발생한 대형 해난 사고입니다. 인천에서 제주도로 향하던 여객선 세월호가 전복되어 304명이 사망했으며, 희생자 중 250명은 수학여행 중이던 안산 단원고등학교 2학년 학생들이었습니다. 승무원들이 승객들에게 "가만히 있으라"고 방송한 뒤 먼저 탈출한 사실, 정부의 늑장 대응, 그리고 구조 작업의 실패는 대한민국 사회에 깊은 상처를 남겼습니다. 이 사고는 박근혜 정부에 대한 신뢰를 무너뜨렸고, 한국 사회의 안전 의식과 정부 대응 시스템에 근본적인 변화를 요구하는 계기가 되었습니다.
-
----
-
-## 배경 (Background)
-
-### 세월호
-
-**선박 정보:**
-- 총톤수: 6,825톤
-- 길이: 145.61m
-- 건조: 1994년 (일본)
-- 운항: 청해진해운
-- 인천-제주 노선
-
-**개조:**
-2012년 한국으로 수입 후 객실 증설 개조. 복원력 저하 우려 제기.
-
-**과적:**
-출항 당시 화물 3,608톤 적재 (허용치 987톤의 약 3배 이상)
-
-### 승객 현황
-
-**총 승선 인원:** 476명
-- 단원고등학교 2학년 학생: 325명
-- 단원고 교사: 14명
-- 일반 승객: 104명
-- 승무원: 33명
+The sinking of the MV *Sewol* on April 16, 2014, is widely considered the most traumatic event in modern South Korean history. The ferry, carrying 476 people (mostly students from Danwon High School on a field trip to Jeju Island), capsized and sank. 304 people died. The tragedy was not the accident itself, but the **failure of command**: the captain and crew abandoned the ship while ordering students to "stay put," and the Coast Guard failed to enter the vessel to rescue trapped passengers. It exposed systemic corruption, regulatory failure, and incompetence at the highest levels of government.
 
 ---
 
-## 사고 경과
+## Causes: A Floating Time Bomb
 
-### 4월 16일
-
-**8:48 AM:**
-진도 해상에서 급격한 좌현 선회. 배가 기울기 시작.
-
-**8:49 AM:**
-최초 조타수가 선장에게 보고. 이후 복원 불가능한 경사.
-
-**8:52 AM:**
-승객들에게 "가만히 있으라"는 첫 안내 방송.
-
-**8:55 AM:**
-학생이 119에 신고. "배가 가라앉고 있어요."
-
-**8:58 AM:**
-진도 VTS(해상교통관제센터)에 조난 신호.
-
-**9:23 AM:**
-헬기 도착. 이준석 선장 등 승무원들이 먼저 탈출.
-
-**9:30 AM:**
-배가 심하게 기움. 탈출 불가능해짐.
-
-**9:46 AM:**
-"가만히 있으라"는 마지막 방송.
-
-**10:17 AM:**
-선수(船首)만 해수면 위로 남음.
-
-**10:30 AM:**
-완전 전복. 대부분의 승객이 선실에 갇힘.
+**1. Illegal Redesign:**
+The ship was bought used from Japan and illegally modified to add more passenger cabins (top-heavy).
+**2. Overloading:**
+To sustain profit, it carried 2,142 tons of cargo (3x the limit) and dumped ballast water to hide the weight line.
+**3. The Turn:**
+The inexperienced Third Mate made a sharp turn. The cargo (improperly secured) shifted. The ship tilted and never recovered.
 
 ---
 
-## "가만히 있으라" (Stay Put)
+## The Golden Time (Timeline of Failure)
 
-### 치명적 방송
-
-승무원들은 반복적으로 "선실에서 움직이지 말라"고 방송했습니다.
-
-> "위험하오니 여러분의 자리에서 대기해 주시기 바랍니다."
-
-**결과:**
-학생들은 교사와 방송을 믿고 선실에 남았습니다. 배가 뒤집히면서 탈출할 수 없게 되었습니다.
-
-### 승무원 탈출
-
-**이준석 선장:**
-속옷 차림으로 승객들보다 먼저 탈출. 구조 당시 "승객"이라고 속임.
-
-**다른 승무원들:**
-대부분의 항해사, 기관사들도 승객을 버리고 먼저 탈출.
+**08:49:** The ship lists.
+**08:52:** First distress call (by a student, Choi Duk-ha, who later died).
+**Orders:** The intercom repeatedly announced: *"Do not move. Stay where you are. It is dangerous if you move."* Students obeyed, waiting in their cabins as the water rose.
+**09:30:** The Captain (Lee Joon-seok) and crew were the first to be rescued by the Coast Guard. They did not inform rescuers that hundreds were trapped inside.
+**10:17:** The ship fully capsized.
+**The "Blue House" Response:**
+President Park Geun-hye was unreachable for 7 crucial hours. When she appeared at 5 PM, she asked, "The students are wearing life vests, so why is it so hard to find them?" (Showing she had no understanding that they were trapped *inside* the hull).
 
 ---
 
-## 구조 실패
+## The Yellow Ribbon
 
-### 해경의 대응
-
-**논란:**
-- 구조 헬기, 선박이 도착했으나 적극적 구조 실패
-- 민간 잠수사 투입 지연
-- 정부 발표 혼선 (전원 구조 오보)
-
-### 골든타임 상실
-
-전복 후 약 2시간 동안 배 내부에서 생존자 구출 가능성 있었으나 적극적 구조 이루어지지 않음.
+The disaster sparked a nationwide movement.
+**The Divers:** Civilian divers risked their lives (and some died) to retrieve bodies from the dark, silt-filled interior.
+**Political Impact:**
+The "7 Hours" became a central issue in the candlelight protests that led to President Park's impeachment in 2017.
+**Safety Culture:**
+Before Sewol: "Speed and Efficiency."
+After Sewol: "Safety First." (Though critics argue systemic changes are slow).
 
 ---
 
-## 희생자
+## References
 
-### 최종 사망자
-
-**304명 사망 (실종 5명 포함):**
-- 단원고 학생: 250명
-- 단원고 교사: 11명
-- 일반 승객: 38명
-- 승무원: 5명
-
-**생존자:** 172명
-
-### 영웅들
-
-**박지영 승무원:**
-구명조끼를 학생들에게 나눠주며 탈출을 도왔습니다. 자신은 배에 남아 사망.
-
-**희생된 교사들:**
-학생들을 구하려다 함께 희생된 교사들.
-
----
-
-## 재판과 처벌
-
-### 선장 이준석
-
-**혐의:** 살인 방조죄 등
-**1심:** 징역 36년
-**대법원 (2015):** 살인죄 인정, 무기징역 확정
-
-### 청해진해운
-
-**실질적 소유주 유병언:**
-사고 후 도피. 수개월 뒤 변사체로 발견.
-
-**회사:**
-폐업.
-
----
-
-## 정치적 영향
-
-### 박근혜 대통령
-
-**7시간 의혹:**
-사고 당일 박근혜 대통령의 7시간 동안 행적 논란.
-
-**지지율 추락:**
-세월호 대응 실패로 정부 신뢰도 급락.
-
-**탄핵 (2017):**
-세월호는 박근혜 탄핵의 여러 원인 중 하나가 됨.
-
-### 해경 해체
-
-해양경찰청 해체 후 국민안전처로 통합 (2014). 이후 재창설 (2017).
-
----
-
-## 선체 인양
-
-### 2017년 3월
-
-**인양:**
-사고 3년 만에 세월호 선체 인양.
-
-**미수습자:**
-인양 과정에서 5명의 미수습 유해 일부 수습.
-
-### 목포 신항
-
-선체는 목포 신항으로 이동. 조사 및 보존.
-
----
-
-## 추모와 기억
-
-### 노란 리본
-
-노란 리본은 세월호 희생자 추모의 상징이 되었습니다.
-
-### 4.16 기억저장소
-
-희생자들의 유품, 기록을 보존하는 아카이브.
-
-### 특별법
-
-세월호 특별법 제정. 진상규명 및 피해자 지원.
-
-### 안산 추모공원
-
-안산시에 단원고 학생들을 추모하는 공간 조성.
-
----
-
-## 시간표
-
-| 시간 | 사건 |
-|------|------|
-| 4월 15일 21:00 | 인천항 출발 |
-| 4월 16일 08:48 | 급선회, 기울기 시작 |
-| 08:52 | "가만히 있으라" 첫 방송 |
-| 09:23 | 선장 등 승무원 탈출 |
-| 10:30 | 완전 전복 |
-| 4월 18일 | 최초 시신 수습 |
-| 2015년 11월 | 선장 무기징역 확정 |
-| 2017년 3월 | 선체 인양 |
-
----
-
-## 명언
-
-> "아직 목포는 춥습니다." (유가족의 말)
-
----
-
-## 참고 자료
-
-- 세월호 특별조사위원회 보고서
-- 법원 판결문
-- 뉴스 보도
-- 생존자 증언
-- 4.16 기억저장소
+- **The Truth of Sewol** (Investigative Documentary)
+- **Sewol** (New York Times Reporting)

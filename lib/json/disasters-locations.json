@@ -1,9 +1,17 @@
 [
-  {"id": "titanic-sinking-1912", "name": "Titanic Sinking", "coordinates": [-49.9469, 41.7325]},
-  {"id": "chernobyl-disaster-1986", "name": "Chernobyl Disaster", "coordinates": [30.0915, 51.2763]},
-  {"id": "fukushima-disaster-2011", "name": "Fukushima Disaster", "coordinates": [141.0336, 37.4229]},
-  {"id": "hindenburg-disaster-1937", "name": "Hindenburg Disaster", "coordinates": [-74.3146, 40.0333]},
-  {"id": "sewol-ferry-disaster-2014", "name": "Sewol Ferry Disaster", "coordinates": [125.9600, 34.2250]},
-  {"id": "bhopal-disaster-1984", "name": "Bhopal Disaster", "coordinates": [77.4126, 23.2599]},
-  {"id": "san-francisco-earthquake-1906", "name": "1906 SF Earthquake", "coordinates": [-122.4194, 37.7749]}
+  {"id": "pompeii-eruption-79", "name": "Pompeii Eruption (79 AD)", "coordinates": [14.4854, 40.7505]},
+  {"id": "lisbon-earthquake-1755", "name": "Lisbon Earthquake (1755)", "coordinates": [-9.1393, 38.7223]},
+  {"id": "krakatoa-eruption-1883", "name": "Krakatoa Eruption (1883)", "coordinates": [105.4233, -6.1021]},
+  {"id": "san-francisco-earthquake-1906", "name": "SF Earthquake (1906)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "titanic-sinking-1912", "name": "Titanic Sinking (1912)", "coordinates": [-49.9469, 41.7325]},
+  {"id": "halifax-explosion-1917", "name": "Halifax Explosion (1917)", "coordinates": [-63.5952, 44.6659]},
+  {"id": "spanish-flu-pandemic-1918", "name": "Spanish Flu (1918)", "coordinates": [-96.7668, 39.0646]},
+  {"id": "hindenburg-disaster-1937", "name": "Hindenburg Disaster (1937)", "coordinates": [-74.3146, 40.0333]},
+  {"id": "bhopal-disaster-1984", "name": "Bhopal Gas Tragedy (1984)", "coordinates": [77.4126, 23.2599]},
+  {"id": "chernobyl-disaster-1986", "name": "Chernobyl Disaster (1986)", "coordinates": [30.0915, 51.2763]},
+  {"id": "haiti-earthquake-2010", "name": "Haiti Earthquake (2010)", "coordinates": [-72.5450, 18.5333]},
+  {"id": "deepwater-horizon-spill-2010", "name": "Deepwater Horizon (2010)", "coordinates": [-88.3659, 28.7366]},
+  {"id": "fukushima-disaster-2011", "name": "Fukushima Disaster (2011)", "coordinates": [141.0336, 37.4229]},
+  {"id": "sewol-ferry-disaster-2014", "name": "Sewol Ferry (2014)", "coordinates": [125.9600, 34.2250]},
+  {"id": "great-fire-london-1666", "name": "Great Fire of London (1666)", "coordinates": [-0.0878, 51.5104]}
 ]
