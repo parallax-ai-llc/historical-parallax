@@ -13,6 +13,9 @@ import epsteinNetworkLocations from "@/lib/json/epstein-network-locations.json";
 import paypalMafiaLocations from "@/lib/json/paypal-mafia-locations.json";
 import religiousFoundersLocations from "@/lib/json/religious-founders-locations.json";
 import scientistsInventorsLocations from "@/lib/json/scientists-inventors-locations.json";
+import wwiiBattlesLocations from "@/lib/json/wwii-battles-locations.json";
+import ancientSitesLocations from "@/lib/json/ancient-sites-locations.json";
+import explorersLocations from "@/lib/json/explorers-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -40,6 +43,9 @@ const mapData: Record<string, UfoLocation[]> = {
   "paypal-mafia": paypalMafiaLocations as UfoLocation[],
   "religious-founders": religiousFoundersLocations as UfoLocation[],
   "scientists-inventors": scientistsInventorsLocations as UfoLocation[],
+  "wwii-battles": wwiiBattlesLocations as UfoLocation[],
+  "ancient-sites": ancientSitesLocations as UfoLocation[],
+  "explorers": explorersLocations as UfoLocation[],
 };
 
 // Custom initial view for specific maps
@@ -145,5 +151,20 @@ export const MAP_CATEGORIES = [
     id: "scientists-inventors",
     name: "Scientists & Inventors",
     description: "Pioneering scientists and inventors whose discoveries and innovations revolutionized our understanding of the universe and transformed modern life.",
+  },
+  {
+    id: "wwii-battles",
+    name: "World War II Battles",
+    description: "Decisive battles of World War II that shaped the outcome of history's deadliest conflict and transformed the modern world.",
+  },
+  {
+    id: "ancient-sites",
+    name: "Ancient Civilizations",
+    description: "Monumental archaeological sites and wonders from ancient civilizations that showcased human ingenuity and cultural achievement.",
+  },
+  {
+    id: "explorers",
+    name: "Explorers & Discoverers",
+    description: "Pioneering explorers and navigators who charted unknown waters, connected distant civilizations, and expanded humanity's geographical knowledge.",
   },
 ];

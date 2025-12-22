@@ -1,0 +1,6 @@
+[
+  {"id": "christopher-columbus", "name": "Christopher Columbus (Genoa)", "coordinates": [8.9463, 44.4056]},
+  {"id": "ferdinand-magellan", "name": "Ferdinand Magellan (Portugal)", "coordinates": [-9.1393, 38.7223]},
+  {"id": "marco-polo", "name": "Marco Polo (Venice)", "coordinates": [12.3155, 45.4408]},
+  {"id": "zheng-he", "name": "Zheng He (Yunnan, China)", "coordinates": [102.7103, 25.0406]}
+]

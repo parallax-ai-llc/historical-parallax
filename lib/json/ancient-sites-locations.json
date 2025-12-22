@@ -1,0 +1,6 @@
+[
+  {"id": "pyramids-of-giza", "name": "Pyramids of Giza (Egypt)", "coordinates": [31.1342, 29.9792]},
+  {"id": "colosseum-rome", "name": "Colosseum (Rome)", "coordinates": [12.4924, 41.8902]},
+  {"id": "machu-picchu", "name": "Machu Picchu (Peru)", "coordinates": [-72.5450, -13.1631]},
+  {"id": "terracotta-army", "name": "Terracotta Army (Xi'an)", "coordinates": [109.2733, 34.3848]}
+]

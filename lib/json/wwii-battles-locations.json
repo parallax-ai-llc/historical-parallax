@@ -1,0 +1,6 @@
+[
+  {"id": "pearl-harbor", "name": "Pearl Harbor (1941)", "coordinates": [-157.9399, 21.3647]},
+  {"id": "battle-of-stalingrad", "name": "Battle of Stalingrad (1942-43)", "coordinates": [44.5133, 48.7194]},
+  {"id": "d-day-normandy", "name": "D-Day Normandy (1944)", "coordinates": [-0.8577, 49.4144]},
+  {"id": "hiroshima-nagasaki", "name": "Hiroshima/Nagasaki (1945)", "coordinates": [132.4553, 34.3853]}
+]
