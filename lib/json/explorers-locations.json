@@ -1,6 +1,16 @@
 [
-  {"id": "christopher-columbus", "name": "Christopher Columbus (Genoa)", "coordinates": [8.9463, 44.4056]},
-  {"id": "ferdinand-magellan", "name": "Ferdinand Magellan (Portugal)", "coordinates": [-9.1393, 38.7223]},
-  {"id": "marco-polo", "name": "Marco Polo (Venice)", "coordinates": [12.3155, 45.4408]},
-  {"id": "zheng-he", "name": "Zheng He (Yunnan, China)", "coordinates": [102.7103, 25.0406]}
+  {"id": "christopher-columbus", "name": "Christopher Columbus (1492)", "coordinates": [8.9463, 44.4056]},
+  {"id": "ferdinand-magellan", "name": "Ferdinand Magellan (1519)", "coordinates": [-9.1393, 38.7223]},
+  {"id": "marco-polo", "name": "Marco Polo (1271)", "coordinates": [12.3155, 45.4408]},
+  {"id": "zheng-he", "name": "Zheng He (1405)", "coordinates": [102.7103, 25.0406]},
+  {"id": "vasco-da-gama-india-1498", "name": "Vasco da Gama (1498)", "coordinates": [75.7804, 11.2588]},
+  {"id": "james-cook-australia-1770", "name": "James Cook (1770)", "coordinates": [151.2313, -34.0007]},
+  {"id": "roald-amundsen-south-pole-1911", "name": "Roald Amundsen (1911)", "coordinates": [0.0000, -90.0000]},
+  {"id": "ernest-shackleton-endurance-1914", "name": "Ernest Shackleton (1914)", "coordinates": [-52.0000, -68.0000]},
+  {"id": "ibn-battuta-travels-1325", "name": "Ibn Battuta (1325)", "coordinates": [39.8262, 21.4225]},
+  {"id": "leif-erikson-vinland-1000", "name": "Leif Erikson (1000)", "coordinates": [-55.5325, 51.5953]},
+  {"id": "lewis-and-clark-expedition-1804", "name": "Lewis & Clark (1804)", "coordinates": [-124.0535, 46.2777]},
+  {"id": "francis-drake-circumnavigation-1577", "name": "Francis Drake (1577)", "coordinates": [-4.1427, 50.3755]},
+  {"id": "hillary-tenzing-everest-1953", "name": "Hillary & Tenzing (1953)", "coordinates": [86.9250, 27.9881]},
+  {"id": "amerigo-vespucci-new-world-1502", "name": "Amerigo Vespucci (1502)", "coordinates": [-38.0000, -11.0000]}
 ]
