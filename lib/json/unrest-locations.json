@@ -32,7 +32,7 @@
         ]
     },
     {
-        "id": "tunisian-revolution-2011",
+        "id": "arab-spring-tunisia-2010",
         "name": "Tunisian Revolution",
         "coordinates": [
             10.1815,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": "iran-islamic-revolution-1979",
+        "id": "iranian-revolution-1979",
         "name": "Iranian Revolution",
         "coordinates": [
             51.3890,
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "id": "chilean-coup-1973",
+        "id": "chile-coup-1973",
         "name": "1973 Chilean Coup",
         "coordinates": [
             -70.6693,
@@ -157,6 +157,30 @@
         "coordinates": [
             126.9780,
             37.5665
+        ]
+    },
+    {
+        "id": "french-revolution-1789",
+        "name": "French Revolution",
+        "coordinates": [
+            2.3522,
+            48.8566
+        ]
+    },
+    {
+        "id": "russian-revolution-1917",
+        "name": "Russian Revolution",
+        "coordinates": [
+            30.3300,
+            59.9311
+        ]
+    },
+    {
+        "id": "cuban-revolution-1959",
+        "name": "Cuban Revolution",
+        "coordinates": [
+            -82.3666,
+            23.1136
         ]
     }
 ]

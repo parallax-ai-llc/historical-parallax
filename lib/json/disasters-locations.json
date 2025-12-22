@@ -1,0 +1,9 @@
+[
+  {"id": "titanic-sinking-1912", "name": "Titanic Sinking", "coordinates": [-49.9469, 41.7325]},
+  {"id": "chernobyl-disaster-1986", "name": "Chernobyl Disaster", "coordinates": [30.0915, 51.2763]},
+  {"id": "fukushima-disaster-2011", "name": "Fukushima Disaster", "coordinates": [141.0336, 37.4229]},
+  {"id": "hindenburg-disaster-1937", "name": "Hindenburg Disaster", "coordinates": [-74.3146, 40.0333]},
+  {"id": "sewol-ferry-disaster-2014", "name": "Sewol Ferry Disaster", "coordinates": [125.9600, 34.2250]},
+  {"id": "bhopal-disaster-1984", "name": "Bhopal Disaster", "coordinates": [77.4126, 23.2599]},
+  {"id": "san-francisco-earthquake-1906", "name": "1906 SF Earthquake", "coordinates": [-122.4194, 37.7749]}
+]

@@ -1,0 +1,9 @@
+[
+  {"id": "september-11-attacks-2001", "name": "9/11 Attacks", "coordinates": [-74.0134, 40.7129]},
+  {"id": "munich-massacre-1972", "name": "Munich Massacre", "coordinates": [11.5530, 48.1731]},
+  {"id": "oklahoma-city-bombing-1995", "name": "Oklahoma City Bombing", "coordinates": [-97.5171, 35.4730]},
+  {"id": "tokyo-sarin-attack-1995", "name": "Tokyo Sarin Attack", "coordinates": [139.7523, 35.6713]},
+  {"id": "norway-attacks-2011", "name": "2011 Norway Attacks", "coordinates": [10.2505, 60.0245]},
+  {"id": "beslan-school-siege-2004", "name": "Beslan School Siege", "coordinates": [44.5369, 43.1843]},
+  {"id": "heysel-stadium-disaster-1985", "name": "Heysel Disaster", "coordinates": [4.3921, 50.8950]}
+]

@@ -1,0 +1,8 @@
+[
+  {"id": "great-depression-1929", "name": "Great Depression", "coordinates": [-74.0060, 40.7128]},
+  {"id": "asian-financial-crisis-1997", "name": "Asian Financial Crisis", "coordinates": [100.5018, 13.7563]},
+  {"id": "global-financial-crisis-2008", "name": "2008 Financial Crisis", "coordinates": [-74.0060, 40.7128]},
+  {"id": "tulip-mania-1637", "name": "Tulip Mania", "coordinates": [4.9041, 52.3676]},
+  {"id": "dotcom-bubble-2000", "name": "Dot-com Bubble", "coordinates": [-122.4194, 37.7749]},
+  {"id": "ftx-collapse-2022", "name": "FTX Collapse", "coordinates": [-77.3963, 25.0343]}
+]

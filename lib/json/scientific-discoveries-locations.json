@@ -1,0 +1,8 @@
+[
+  {"id": "moon-landing-1969", "name": "Apollo 11 Moon Landing", "coordinates": [-80.6480, 28.5729]},
+  {"id": "dna-discovery-1953", "name": "Discovery of DNA", "coordinates": [0.1218, 52.2053]},
+  {"id": "theory-of-relativity-1905", "name": "Theory of Relativity", "coordinates": [7.4474, 46.9480]},
+  {"id": "wright-brothers-flight-1903", "name": "First Powered Flight", "coordinates": [-75.6681, 36.0128]},
+  {"id": "penicillin-discovery-1928", "name": "Discovery of Penicillin", "coordinates": [-0.1749, 51.5168]},
+  {"id": "darwin-evolution-1859", "name": "Origin of Species", "coordinates": [-0.0763, 51.5260]}
+]

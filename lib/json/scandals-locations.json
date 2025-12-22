@@ -1,0 +1,8 @@
+[
+  {"id": "bernie-madoff-scheme-2008", "name": "Madoff Ponzi Scheme", "coordinates": [-73.9680, 40.7624]},
+  {"id": "enron-scandal-2001", "name": "Enron Scandal", "coordinates": [-95.3698, 29.7604]},
+  {"id": "theranos-scandal-2015", "name": "Theranos Scandal", "coordinates": [-122.1430, 37.4419]},
+  {"id": "charles-ponzi-scheme-1920", "name": "Charles Ponzi Scheme", "coordinates": [-71.0589, 42.3601]},
+  {"id": "volkswagen-dieselgate-2015", "name": "VW Dieselgate", "coordinates": [10.7915, 52.4227]},
+  {"id": "dreyfus-affair-1894", "name": "Dreyfus Affair", "coordinates": [2.3522, 48.8566]}
+]

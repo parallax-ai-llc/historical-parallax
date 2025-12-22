@@ -16,6 +16,13 @@ import scientistsInventorsLocations from "@/lib/json/scientists-inventors-locati
 import wwiiBattlesLocations from "@/lib/json/wwii-battles-locations.json";
 import ancientSitesLocations from "@/lib/json/ancient-sites-locations.json";
 import explorersLocations from "@/lib/json/explorers-locations.json";
+import disastersLocations from "@/lib/json/disasters-locations.json";
+import economicCrisisLocations from "@/lib/json/economic-crisis-locations.json";
+import trialsLocations from "@/lib/json/trials-locations.json";
+import scientificDiscoveriesLocations from "@/lib/json/scientific-discoveries-locations.json";
+import terrorAttacksLocations from "@/lib/json/terror-attacks-locations.json";
+import espionageLocations from "@/lib/json/espionage-locations.json";
+import scandalsLocations from "@/lib/json/scandals-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -46,6 +53,13 @@ const mapData: Record<string, UfoLocation[]> = {
   "wwii-battles": wwiiBattlesLocations as UfoLocation[],
   "ancient-sites": ancientSitesLocations as UfoLocation[],
   "explorers": explorersLocations as UfoLocation[],
+  "disasters": disastersLocations as UfoLocation[],
+  "economic-crisis": economicCrisisLocations as UfoLocation[],
+  "trials": trialsLocations as UfoLocation[],
+  "scientific-discoveries": scientificDiscoveriesLocations as UfoLocation[],
+  "terror-attacks": terrorAttacksLocations as UfoLocation[],
+  "espionage": espionageLocations as UfoLocation[],
+  "scandals": scandalsLocations as UfoLocation[],
 };
 
 // Custom initial view for specific maps
@@ -166,5 +180,40 @@ export const MAP_CATEGORIES = [
     id: "explorers",
     name: "Explorers & Discoverers",
     description: "Pioneering explorers and navigators who charted unknown waters, connected distant civilizations, and expanded humanity's geographical knowledge.",
+  },
+  {
+    id: "disasters",
+    name: "Disasters & Catastrophes",
+    description: "Major historical disasters, both natural and man-made, that left a lasting impact on humanity.",
+  },
+  {
+    id: "economic-crisis",
+    name: "Economic Crises",
+    description: "Financial panics, crashes, and bubbles that devastated economies and reshaped global finance.",
+  },
+  {
+    id: "trials",
+    name: "Historical Trials",
+    description: "Courtroom dramas and legal battles that defined justice, religion, and human rights throughout history.",
+  },
+  {
+    id: "scientific-discoveries",
+    name: "Scientific Discoveries",
+    description: "Breakthrough moments in science and exploration that fundamentally changed our understanding of the world.",
+  },
+  {
+    id: "terror-attacks",
+    name: "Terror Attacks",
+    description: "Major acts of terrorism that shocked the world and altered global security policies.",
+  },
+  {
+    id: "espionage",
+    name: "Spies & Espionage",
+    description: "Secret operations, spy rings, and intelligence breaches that shaped the outcome of wars and geopolitics.",
+  },
+  {
+    id: "scandals",
+    name: "Frauds & Scandals",
+    description: "Notorious scams, corporate frauds, and political scandals that exposed corruption and greed.",
   },
 ];
