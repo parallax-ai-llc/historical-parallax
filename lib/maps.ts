@@ -23,6 +23,8 @@ import scientificDiscoveriesLocations from "@/lib/json/scientific-discoveries-lo
 import terrorAttacksLocations from "@/lib/json/terror-attacks-locations.json";
 import espionageLocations from "@/lib/json/espionage-locations.json";
 import scandalsLocations from "@/lib/json/scandals-locations.json";
+import darkWebLocations from "@/lib/json/dark-web-locations.json";
+import organizedCrimeLocations from "@/lib/json/organized-crime-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -60,6 +62,8 @@ const mapData: Record<string, UfoLocation[]> = {
   "terror-attacks": terrorAttacksLocations as UfoLocation[],
   "espionage": espionageLocations as UfoLocation[],
   "scandals": scandalsLocations as UfoLocation[],
+  "dark-web": darkWebLocations as UfoLocation[],
+  "organized-crime": organizedCrimeLocations as UfoLocation[],
 };
 
 // Custom initial view for specific maps
@@ -215,5 +219,15 @@ export const MAP_CATEGORIES = [
     id: "scandals",
     name: "Frauds & Scandals",
     description: "Notorious scams, corporate frauds, and political scandals that exposed corruption and greed.",
+  },
+  {
+    id: "dark-web",
+    name: "Dark Web & Cybercrime",
+    description: "Major cyberattacks, darknet markets, and cryptocurrency heists that defined the digital underworld.",
+  },
+  {
+    id: "organized-crime",
+    name: "Cartels & Organized Crime",
+    description: "The rise and fall of powerful criminal empires and drug lords.",
   },
 ];
