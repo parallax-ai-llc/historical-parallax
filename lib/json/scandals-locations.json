@@ -1,8 +1,12 @@
 [
-  {"id": "bernie-madoff-scheme-2008", "name": "Madoff Ponzi Scheme", "coordinates": [-73.9680, 40.7624]},
-  {"id": "enron-scandal-2001", "name": "Enron Scandal", "coordinates": [-95.3698, 29.7604]},
-  {"id": "theranos-scandal-2015", "name": "Theranos Scandal", "coordinates": [-122.1430, 37.4419]},
-  {"id": "charles-ponzi-scheme-1920", "name": "Charles Ponzi Scheme", "coordinates": [-71.0589, 42.3601]},
-  {"id": "volkswagen-dieselgate-2015", "name": "VW Dieselgate", "coordinates": [10.7915, 52.4227]},
-  {"id": "dreyfus-affair-1894", "name": "Dreyfus Affair", "coordinates": [2.3522, 48.8566]}
+  {"id": "bernie-madoff-scheme-2008", "name": "Madoff Ponzi Scheme (2008)", "coordinates": [-73.9680, 40.7624]},
+  {"id": "enron-scandal-2001", "name": "Enron Scandal (2001)", "coordinates": [-95.3698, 29.7604]},
+  {"id": "theranos-scandal-2015", "name": "Theranos (2015)", "coordinates": [-122.1430, 37.4419]},
+  {"id": "charles-ponzi-scheme-1920", "name": "Original Ponzi Scheme (1920)", "coordinates": [-71.0589, 42.3601]},
+  {"id": "volkswagen-dieselgate-2015", "name": "VW Dieselgate (2015)", "coordinates": [10.7915, 52.4227]},
+  {"id": "dreyfus-affair-1894", "name": "Dreyfus Affair (1894)", "coordinates": [2.3522, 48.8566]},
+  {"id": "clinton-lewinsky-scandal-1998", "name": "Clinton-Lewinsky (1998)", "coordinates": [-77.0365, 38.8977]},
+  {"id": "profumo-affair-1963", "name": "Profumo Affair (1963)", "coordinates": [-0.1276, 51.5074]},
+  {"id": "1mdb-scandal-2015", "name": "1MDB Scandal (2015)", "coordinates": [101.6869, 3.1390]},
+  {"id": "diamond-necklace-affair-1785", "name": "Diamond Necklace Affair (1785)", "coordinates": [2.1204, 48.8049]}
 ]

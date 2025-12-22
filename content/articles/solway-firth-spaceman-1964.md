@@ -1,53 +1,57 @@
 ---
 id: "solway-firth-spaceman-1964"
-name: "Solway Firth Spaceman"
+title: "Solway Firth Spaceman"
 date: "1964-05-23"
 location: "Solway Firth, Cumbria, UK"
-category: ["Photo Anomaly", "Men In Black", "Blue Streak Missile", "Kodak Verified"]
-image: "https://upload.wikimedia.org/wikipedia/en/c/cd/Solway_Firth_Spaceman.jpg"
+coordinates: [-3.4500, 54.9167]
+category: ["UFO", "Photography", "Debunked", "Mystery"]
+outcome: "Famous photograph of a 'spaceman' behind a girl; Likely an optical illusion (the mother walking away)"
+image: "https://upload.wikimedia.org/wikipedia/en/e/e2/Solway_Firth_Spaceman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Solway_Firth_Spaceman"
-lastUpdated: "2025-12-21"
+lastUpdated: "2025-12-23"
 ---
 
-## Summary
+## Overview
 
-On a sunny day in 1964, fireman **Jim Templeton** took a photo of his 5-year-old daughter in a meadow. When developed, the photo clearly showed a tall figure in a white spacesuit standing behind her.
-
-Templeton insisted they were alone. Kodak analyzed the negative and confirmed it was not tampered with. The case became stranger when Templeton reported being visited by **"Men in Black"** (who drove a Jaguar and referred to each other by numbers) and when technicians from a nearby missile range (Blue Streak) claimed the same figure aborted a launch that day.[^1]
-
----
-
-## The Photo
-
-### The Analysis
-*   **The Figure:** Looks like a modern astronaut: white helmet, dark visor, white suit.
-*   **Skeptics:** Argue it is Templeton's wife, Annie, walking away from the camera, overexposed so her blue dress looks white. The "helmet" is her dark hair.
-*   **Counter-point:** Templeton swore his wife was not in the frame, and the Kodak labs found no evidence of a double exposure.
+On a sunny day in 1964, Jim Templeton, a firefighter from Carlisle, took three photos of his 5-year-old daughter Elizabeth sitting on the grass at Burgh Marsh.
+He didn't see anyone else around.
+When he got the Kodak film developed, the chemist said: *"Who's the astronaut in the background?"*
+The photo clearly showed a tall, white-suited figure with a helmet/visor looming behind the girl.
 
 ---
 
-## The High Strangeness
+## The Media Circus
 
-### Men in Black (MIB)
-Weeks later, two men in dark suits visited Templeton. They refused to show ID, used code names ("Number 9"), and demanded he take them to the site. When Templeton refused to admit it was a fake, they got angry and left him on the road.
-
-### The Blue Streak Connection
-The Woomera Missile Range in Australia (using British Blue Streak technology) reportedly aborted a launch on the same day because "two white spacemen" were seen on the firing range cameras.
+The photo went viral worldwide.
+Kodak offered a reward to anyone who could prove the photo was faked. No one could. It wasn't a double exposure.
+**Men in Black:**
+Templeton claimed that shortly after the photo was published, he was visited by two men in dark suits driving a dark Jaguar who demanded to know "where the larger bird was" and referred to each other by numbers (Number 9 and Number 11). When he refused to cooperate, they drove off angrily.
 
 ---
 
-## Timeline
+## The Woomera Connection
 
-| Date | Event |
-|------|-------|
-| **May 23, 1964** | Jim Templeton takes the photo. |
-| **May 1964** | Film developed; "Spaceman" discovered. |
-| **June 1964** | Police and Kodak investigate; find no fraud. |
-| **1964** | MIB visit Templeton. |
+Days later, a Blue Streak missile launch at the Woomera Test Range in Australia was aborted because two "white figures" were seen on the firing range cameras.
+Technicians claimed the figures looked exactly like the Solway Spaceman.
+This added to the mystery: Was there a connection between the spaceman and missile technology?
+
+---
+
+## The Likely Explanation
+
+Years later, analysts used modern image processing.
+The "Spaceman" is almost certainly **Templeton's wife, Annie**.
+- She was present that day.
+- She was wearing a pale blue dress (which looks white in the overexposed photo).
+- She had dark bobbed hair (which looks like a helmet visor).
+- She was walking away from the camera, with her back turned.
+Templeton likely just didn't notice her in the viewfinder (blind spot) or the frame was wider than he thought.
+Despite the debunking, it remains one of the most iconic "fortean" images of the 20th century.
 
 ---
 
 ## References
 
-[^1]: [BBC - The Solway Spaceman](https://www.bbc.com/news/uk-england-cumbria-27391210)
+- **BBC News: The mystery of the Solway Spaceman**
+- **Dr. David Clarke's investigation**

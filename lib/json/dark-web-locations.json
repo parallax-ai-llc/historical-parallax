@@ -1,6 +1,12 @@
 [
-  {"id": "silk-road-capture-2013", "name": "Silk Road Capture", "coordinates": [-122.4312, 37.7648]},
-  {"id": "mt-gox-collapse-2014", "name": "Mt. Gox Collapse", "coordinates": [139.6917, 35.6895]},
-  {"id": "wannacry-ransomware-2017", "name": "WannaCry Kill Switch", "coordinates": [-4.05, 51.15]},
-  {"id": "alphabay-takedown-2017", "name": "AlphaBay HQ (Bangkok)", "coordinates": [100.5018, 13.7563]}
+  {"id": "silk-road-capture-2013", "name": "Silk Road Capture (2013)", "coordinates": [-122.4312, 37.7648]},
+  {"id": "mt-gox-collapse-2014", "name": "Mt. Gox Collapse (2014)", "coordinates": [139.6917, 35.6895]},
+  {"id": "wannacry-ransomware-2017", "name": "WannaCry Kill Switch (2017)", "coordinates": [-4.05, 51.15]},
+  {"id": "alphabay-takedown-2017", "name": "AlphaBay HQ (Bangkok) (2017)", "coordinates": [100.5018, 13.7563]},
+  {"id": "stuxnet-worm-2010", "name": "Stuxnet Attack (2010)", "coordinates": [51.7280, 33.7225]},
+  {"id": "edward-snowden-leaks-2013", "name": "Snowden Leaks (2013)", "coordinates": [114.1694, 22.3193]},
+  {"id": "lulzsec-sony-hack-2011", "name": "LulzSec Sony Hack (2011)", "coordinates": [-0.1278, 51.5074]},
+  {"id": "dao-hack-ethereum-2016", "name": "The DAO Hack (2016)", "coordinates": [47.1662, 8.5155]},
+  {"id": "welcome-to-video-2018", "name": "Welcome to Video Takedown (2018)", "coordinates": [126.9780, 37.5665]},
+  {"id": "bitfinex-hack-2016", "name": "Bitfinex Stolen Funds (2016)", "coordinates": [-74.0060, 40.7128]}
 ]

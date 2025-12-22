@@ -1,56 +1,50 @@
 ---
 id: "jeongjong"
-name: "Jeongjong"
-birth: "1357-07-26"
-nationality: "Joseon Dynasty"
-occupation: ["King of Joseon"]
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/King_Jeongjong_of_Joseon.jpg"
+title: "King Jeongjong of Joseon"
+date: "1398-10-14"
+location: "Kaesong, Joseon"
+coordinates: [126.5503, 37.9697]
+category: ["Joseon Dynasty", "Korea", "King", "Abdication"]
+outcome: "2nd King of Joseon; Puppet king under his brother Yi Bang-won; Peacefully abdicated to survive"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Joseon_Dynasty_Flag.svg/800px-Joseon_Dynasty_Flag.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeongjong_of_Joseon"
-lastUpdated: "2025-12-21"
+lastUpdated: "2025-12-23"
 ---
 
-## Summary
+## Overview
 
-Jeongjong (born July 26, 1357; died October 26, 1419) was the 2nd King of the Joseon Dynasty, reigning briefly from 1398 to 1400.[^1] Born **Yi Bang-gwa**, he was the second son of King Taejo. He was a capable military general who fought alongside his father, but he had no political ambition to be King. He was thrust onto the throne after the **First Strife of Princes** as a figurehead, while real power was held by his younger brother, **Yi Bang-won** (Taejong). Recognizing the reality of the situation, he wisely abdicated after only two years to ensure his own survival and political stability.[^2]
+**Jeongjong** (1357–1419) was the 2nd King of Joseon. He is often forgotten, sandwiched between his legendary father (Taejo) and his powerful younger brother (Taejong/Yi Bang-won). His reign lasted only 2 years (1398–1400). He was essentially a placeholder. After the **First Strife of Princes**, where Yi Bang-won killed his half-brothers to seize power, Taejo abdicated in disgust. Yi Bang-won, feeling it was too early to take the throne himself, installed his older brother Jeongjong as a puppet.
 
 ---
 
 ## The Reluctant King
 
-After Yi Bang-won killed the Crown Prince (their half-brother) in 1398, Taejo abdicated in shock. Yi Bang-won declined to take the throne immediately to avoid looking like a usurper, so the crown passed to the oldest surviving legitimate son, Yi Bang-gwa.
-
-- **Puppet Reign:** Jeongjong spent his reign indulging in hunting and the game of **Gyeokgu** (Korean polo) to signal to his ambitious brother that he had no desire for power.
-- **Capital Move:** He briefly moved the capital back to **Kaesong** (the old Goryeo capital), driven by bad omens and the fratricidal bloodshed in Seoul.[^3]
-
----
-
-## Abdication and Later Life
-
-In 1400, after the **Second Strife of Princes** (where Yi Bang-won defeated another brother, Yi Bang-gan), Jeongjong officially appointed Yi Bang-won as Crown Prince and abdicated.
-
-- **Survival:** By giving up power voluntarily, he lived a long and peaceful life as King Emeritus, dying of natural causes in 1419. He is often praised for his wisdom in knowing when to step down.[^4]
+Jeongjong knew his position was precarious. He knew his brother Bang-won held the real power (control of the private armies).
+To convince Bang-won he had no political ambition, Jeongjong spent his time playing **Gyeokgu** (Korean polo) and hunting, deliberately ignoring state affairs.
+This "acting stupid/disinterested" strategy likely saved his life.
 
 ---
 
-## Timeline
+## Achievements
 
-| Year | Event                                           |
-| ---- | ----------------------------------------------- |
-| 1357 | Born to Yi Seong-gye.                           |
-| 1398 | Ascends throne after **1st Strife of Princes**. |
-| 1399 | Moves capital to Kaesong.                       |
-| 1400 | Abdicates to **Taejong**.                       |
-| 1419 | Dies at age 62.                                 |
+Despite being a figurehead, he did make some decisions (likely dictated by Bang-won):
+- **Moved Capital back to Kaesong:** Briefly moved the capital from Hanyang back to Kaesong (the old Goryeo capital), hoping to escape the bad omens of the the fratricide in Hanyang.
+- **Banned Private Armies:** He initiated the disbandment of private armies (innovation of Bang-won), which centralized military power to the King.
+
+---
+
+## The Second Strife and Abdication
+
+In 1400, another brother (Yi Bang-gan) rebelled against Yi Bang-won (**Second Strife of Princes**).
+Bang-won crushed the rebellion.
+Jeongjong realized it was time to leave. He declared Bang-won his heir and abdicated voluntarily.
+**Life After Throne:**
+He lived for another 19 years as a Retired King (Taesangwang). He lived a comfortable, hedonistic life, fathering 15 princes and 8 princesses with various concubines, and died of old age at 63—a rare happy ending for a deposed monarch.
 
 ---
 
 ## References
 
-[^1]: [Jeongjong of Joseon - Britannica](https://www.britannica.com/biography/Jeongjong)
-
-[^2]: [Jeongjong's Reign](http://encykorea.aks.ac.kr/)
-
-[^3]: [Move to Kaesong](https://www.newworldencyclopedia.org/)
-
-[^4]: [Abdication and Legacy](http://contents.history.go.kr/)
+- **Six Flying Dragons** (TV Series)
+- **Tears of the Dragon** (TV Series)

@@ -1,8 +1,12 @@
 [
-  {"id": "great-depression-1929", "name": "Great Depression", "coordinates": [-74.0060, 40.7128]},
-  {"id": "asian-financial-crisis-1997", "name": "Asian Financial Crisis", "coordinates": [100.5018, 13.7563]},
-  {"id": "global-financial-crisis-2008", "name": "2008 Financial Crisis", "coordinates": [-74.0060, 40.7128]},
-  {"id": "tulip-mania-1637", "name": "Tulip Mania", "coordinates": [4.9041, 52.3676]},
-  {"id": "dotcom-bubble-2000", "name": "Dot-com Bubble", "coordinates": [-122.4194, 37.7749]},
-  {"id": "ftx-collapse-2022", "name": "FTX Collapse", "coordinates": [-77.3963, 25.0343]}
+  {"id": "great-depression-1929", "name": "Great Depression (1929)", "coordinates": [-74.0060, 40.7128]},
+  {"id": "tulip-mania-1637", "name": "Tulip Mania (1637)", "coordinates": [4.9041, 52.3676]},
+  {"id": "south-sea-bubble-1720", "name": "South Sea Bubble (1720)", "coordinates": [-0.0903, 51.5134]},
+  {"id": "weimar-hyperinflation-1923", "name": "Weimar Hyperinflation (1923)", "coordinates": [13.4050, 52.5200]},
+  {"id": "japan-asset-bubble-1991", "name": "Japan's Lost Decade (1991)", "coordinates": [139.6917, 35.6895]},
+  {"id": "asian-financial-crisis-1997", "name": "Asian Financial Crisis (1997)", "coordinates": [100.5018, 13.7563]},
+  {"id": "dotcom-bubble-2000", "name": "Dot-com Bubble (2000)", "coordinates": [-122.4194, 37.7749]},
+  {"id": "global-financial-crisis-2008", "name": "2008 Financial Crisis (2008)", "coordinates": [-74.0060, 40.7128]},
+  {"id": "greek-debt-crisis-2009", "name": "Greek Debt Crisis (2009)", "coordinates": [23.7275, 37.9838]},
+  {"id": "ftx-collapse-2022", "name": "FTX Collapse (2022)", "coordinates": [-77.3963, 25.0343]}
 ]

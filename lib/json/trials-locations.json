@@ -1,8 +1,12 @@
 [
-  {"id": "nuremberg-trials-1945", "name": "Nuremberg Trials", "coordinates": [11.0753, 49.4533]},
-  {"id": "oj-simpson-trial-1995", "name": "O.J. Simpson Trial", "coordinates": [-118.2437, 34.0522]},
-  {"id": "scopes-trial-1925", "name": "Scopes Monkey Trial", "coordinates": [-85.0127, 35.4942]},
-  {"id": "rivonia-trial-1963", "name": "Rivonia Trial (Mandela)", "coordinates": [28.2293, -25.7479]},
-  {"id": "salem-witch-trials-1692", "name": "Salem Witch Trials", "coordinates": [-70.9329, 42.5584]},
-  {"id": "galileo-trial-1633", "name": "Trial of Galileo", "coordinates": [12.4534, 41.9029]}
+  {"id": "nuremberg-trials-1945", "name": "Nuremberg Trials (1945)", "coordinates": [11.0753, 49.4533]},
+  {"id": "oj-simpson-trial-1995", "name": "O.J. Simpson Trial (1995)", "coordinates": [-118.2437, 34.0522]},
+  {"id": "scopes-trial-1925", "name": "Scopes Monkey Trial (1925)", "coordinates": [-85.0127, 35.4942]},
+  {"id": "rivonia-trial-1963", "name": "Rivonia Trial (Mandela) (1963)", "coordinates": [28.2293, -25.7479]},
+  {"id": "salem-witch-trials-1692", "name": "Salem Witch Trials (1692)", "coordinates": [-70.9329, 42.5584]},
+  {"id": "galileo-trial-1633", "name": "Trial of Galileo (1633)", "coordinates": [12.4534, 41.9029]},
+  {"id": "dreyfus-affair-1894", "name": "Dreyfus Affair (1894)", "coordinates": [2.3522, 48.8566]},
+  {"id": "eichmann-trial-1961", "name": "Eichmann Trial (1961)", "coordinates": [35.2137, 31.7683]},
+  {"id": "oscar-wilde-trial-1895", "name": "Oscar Wilde Trial (1895)", "coordinates": [-0.1130, 51.5152]},
+  {"id": "trial-of-socrates-399bc", "name": "Trial of Socrates (399 BC)", "coordinates": [23.723, 37.975]}
 ]

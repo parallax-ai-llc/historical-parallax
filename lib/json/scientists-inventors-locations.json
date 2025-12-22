@@ -1,8 +1,12 @@
 [
-  {"id": "isaac-newton", "name": "Isaac Newton (Woolsthorpe)", "coordinates": [-0.6409, 52.8085]},
-  {"id": "albert-einstein", "name": "Albert Einstein (Ulm)", "coordinates": [9.9917, 48.3984]},
-  {"id": "marie-curie", "name": "Marie Curie (Warsaw)", "coordinates": [21.0122, 52.2297]},
-  {"id": "galileo-galilei", "name": "Galileo Galilei (Pisa)", "coordinates": [10.4017, 43.7228]},
-  {"id": "charles-darwin", "name": "Charles Darwin (Shrewsbury)", "coordinates": [-2.7496, 52.7077]},
-  {"id": "nikola-tesla", "name": "Nikola Tesla (Smiljan)", "coordinates": [15.3196, 44.5569]}
+  {"id": "isaac-newton", "name": "Isaac Newton (1642)", "coordinates": [-0.6409, 52.8085]},
+  {"id": "albert-einstein", "name": "Albert Einstein (1879)", "coordinates": [9.9917, 48.3984]},
+  {"id": "marie-curie", "name": "Marie Curie (1867)", "coordinates": [21.0122, 52.2297]},
+  {"id": "galileo-galilei", "name": "Galileo Galilei (1564)", "coordinates": [10.4017, 43.7228]},
+  {"id": "charles-darwin", "name": "Charles Darwin (1809)", "coordinates": [-2.7496, 52.7077]},
+  {"id": "nikola-tesla", "name": "Nikola Tesla (1856)", "coordinates": [15.3196, 44.5569]},
+  {"id": "alan-turing-computer-1936", "name": "Alan Turing (1936)", "coordinates": [-0.7430, 51.9977]},
+  {"id": "louis-pasteur-germ-theory-1861", "name": "Louis Pasteur (1861)", "coordinates": [2.3490, 48.8566]},
+  {"id": "wright-brothers-flight-1903", "name": "Wright Brothers (1903)", "coordinates": [-75.6346, 36.0123]},
+  {"id": "alexander-fleming-penicillin-1928", "name": "Alexander Fleming (1928)", "coordinates": [-0.1746, 51.5168]}
 ]
