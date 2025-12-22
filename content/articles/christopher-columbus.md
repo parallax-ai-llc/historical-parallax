@@ -11,59 +11,240 @@ lastUpdated: "2025-12-22"
 
 ## Summary
 
-Christopher Columbus (1451-1506) was an Italian explorer who completed four voyages across the Atlantic Ocean under Spanish sponsorship, opening the way for widespread European exploration and colonization of the Americas. His 1492 expedition, seeking a western route to Asia, instead reached the Caribbean, marking the beginning of sustained European contact with the Americas. While credited with "discovering" the New World, indigenous peoples had inhabited these lands for millennia, and Norse explorers had reached North America 500 years earlier. Columbus's voyages initiated the Columbian Exchange and European colonization, leading to massive demographic, cultural, and ecological changes—including the devastating depopulation of indigenous peoples through disease, violence, and exploitation.
+Christopher Columbus (1451-1506) was a Genoese explorer who completed four voyages across the Atlantic Ocean under Spanish sponsorship, initiating sustained European contact with the Americas. His 1492 expedition, seeking a westward route to Asia, instead reached the Caribbean, fundamentally changing world history. While Columbus is credited with "discovering" the New World in European consciousness, indigenous peoples had inhabited these lands for tens of thousands of years, and Norse explorers had reached North America 500 years earlier. Columbus's voyages initiated the Columbian Exchange, European colonization, and the catastrophic depopulation of indigenous peoples. His legacy remains deeply controversial.
 
 ---
 
-## Background
+## Early Life
 
-Born in Genoa (Republic of Genoa, now Italy), Columbus became an experienced sailor. Inspired by Marco Polo's accounts and believing Earth was smaller than it is, he proposed sailing west to reach Asia's spice markets.
+**Birth:** c. 1451, Genoa, Republic of Genoa (modern Italy)
+**Family:** Domenico Colombo (wool weaver), Susanna Fontanarossa
 
-Portuguese King John II rejected his proposal. Spanish monarchs Ferdinand and Isabella eventually agreed (1492), seeking glory, gold, and spreading Christianity.
+**Youth:**
+- Little formal education
+- Went to sea as teenager
+- Sailed Mediterranean, Atlantic (possibly Iceland, West Africa)
+- Settled in Portugal (1476), married Filipa Perestrelo
+
+**Maritime Knowledge:**
+- Expert navigator
+- Studied Portuguese charts, sailing routes
+- Inspired by Marco Polo's descriptions of Asia
 
 ---
 
-## The 1492 Voyage
+## The Enterprise of the Indies
 
-**Three Ships**: *Niña*, *Pinta*, *Santa María*
-**Departed**: August 3, 1492 (Palos de la Frontera, Spain)
-**Landed**: October 12, 1492 (Bahamas, probably Guanahani/San Salvador)
+### The Proposal
 
-Columbus believed he'd reached East Indies (hence "Indians" for indigenous people). Actually reached Caribbean.
+**Concept:**
+Columbus believed he could reach Asia (the "Indies") by sailing west. Crucially, he vastly underestimated Earth's circumference.
 
-Explored Cuba, Hispaniola (Haiti/Dominican Republic). *Santa María* wrecked; left 39 men at La Navidad (first European settlement, destroyed by time of his return).
+**Calculations:**
+Columbus estimated ~2,400 miles from Canary Islands to Japan. Actual distance: ~10,600 miles. Had the Americas not been there, his crew would have perished.
 
-**Returned**: March 1493, triumphant reception in Spain.
+### Seeking Sponsorship
+
+**Portugal (1484):**
+King John II's experts correctly concluded distance too great. Rejected.
+
+**Spain (1486-1492):**
+After years of lobbying, Spanish monarchs Ferdinand and Isabella agreed (Granada conquest just concluded). Santángel fund money from Spanish treasury.
+
+**Capitulations of Santa Fe (1492):**
+Agreement granting Columbus:
+- Title "Admiral of the Ocean Sea"
+- Governorship of discovered lands
+- 10% of all riches
+
+---
+
+## First Voyage (1492-1493)
+
+### The Expedition
+
+**Ships:**
+- *Santa María* (largest, Columbus's flagship)
+- *Pinta*
+- *Niña*
+
+**Crew:** ~90 men
+**Departed:** August 3, 1492, Palos de la Frontera
+
+### The Crossing
+
+**Canary Islands:**
+Resupply, repairs.
+
+**Atlantic:**
+33 days sailing west. Crew grew restive; near mutiny.
+
+**October 12, 1492:**
+Land sighted. Probably San Salvador (Guanahani) in Bahamas.
+
+**Indigenous Contact:**
+Taíno people. Columbus called them "Indians" (believing he'd reached Indies).
+
+### Exploration
+
+- Explored Bahamas
+- Cuba (thought it was Chinese mainland)
+- Hispaniola (Haiti/Dominican Republic)
+
+**December 25, 1492:**
+*Santa María* ran aground. Used timbers to build La Navidad, first European settlement. Left 39 men.
+
+### Return
+
+**January 1493:**
+Departed for Spain with captive Taínos, gold samples, exotic goods.
+
+**March 1493:**
+Triumphant arrival in Barcelona. Heroes' welcome from Ferdinand and Isabella.
 
 ---
 
 ## Subsequent Voyages
 
-**Second (1493-1496)**: 17 ships, 1,200 men. Established colonies, enslaved natives, found La Navidad destroyed.
+### Second Voyage (1493-1496)
 
-**Third (1498-1500)**: Reached South American mainland (Venezuela). Colony in chaos; Columbus arrested, sent back to Spain in chains (later released).
+**Scale:** 17 ships, 1,200+ men (soldiers, settlers, priests)
+**Goal:** Colonization and conversion
 
-**Fourth (1502-1504)**: Explored Central America. Stranded in Jamaica for a year. Returned to Spain, died in 1506 in relative obscurity.
+**Findings:**
+- La Navidad destroyed, all men dead
+- Founded Isabela (first planned European settlement in Americas)
+- Explored Jamaica, southern Cuba
+- Enslaved indigenous people; instituted brutal tribute system
+
+### Third Voyage (1498-1500)
+
+**Discovery:**
+Reached mainland South America (Venezuela). First European to touch American continent.
+
+**Colony in Crisis:**
+Hispaniola in chaos. Rebellion against Columbus's harsh rule. Spanish officials arrested Columbus and brothers, sent to Spain in chains.
+
+**Released:**
+Ferdinand and Isabella freed Columbus but stripped him of governorship.
+
+### Fourth Voyage (1502-1504)
+
+**"High Voyage":**
+Explored Central American coast seeking passage to Indian Ocean.
+
+**Stranded:**
+Ships rotted in Jamaica. Marooned for a year. Used eclipse prediction to trick natives into providing food.
+
+**Return:**
+Returned to Spain broken in health.
 
 ---
 
-## Legacy
+## Death
 
-**Columbian Exchange**: Transfer of plants, animals, culture, diseases, people between Old and New Worlds. Transformed global agriculture, cuisine, ecology.
+**May 20, 1506:**
+Died in Valladolid, Spain. Probably from reactive arthritis (Reiter's syndrome). Wealthy but believing he'd failed (never found Asia).
 
-**Colonization**: Opened Americas to European settlement and exploitation. Spanish Empire expanded massively.
+**Age:** ~54-55
 
-**Indigenous Catastrophe**: 
-- Diseases (smallpox, measles, etc.) killed ~90% of indigenous population
-- Violence, slavery, forced labor
-- Cultural destruction
+**Buried:**
+Remains moved multiple times. Possibly in Seville Cathedral (DNA inconclusive).
 
-**Controversy**: Columbus's role as enslaver and brutal governor has led to reevaluation. Columbus Day increasingly replaced or supplemented with Indigenous Peoples' Day in many places.
+---
+
+## The Columbian Exchange
+
+### Transfers to Americas
+
+- European diseases (smallpox, measles, influenza, typhus)
+- Horses, cattle, pigs, sheep
+- Wheat, grapes, sugarcane
+- Christianity
+- European legal/political systems
+
+### Transfers to Old World
+
+- Potatoes, tomatoes, corn (maize), beans
+- Tobacco, chocolate, rubber
+- Turkeys
+- Syphilis (possibly)
+
+### Impact
+
+Transformed agriculture, diet, economy, ecology worldwide.
+
+---
+
+## Indigenous Catastrophe
+
+### Disease
+
+**Epidemic Deaths:**
+Diseases killed up to 90% of indigenous population within decades. No immunity to European pathogens.
+
+**Taíno Population:**
+Hispaniola: estimated 250,000-1,000,000 in 1492. By 1548: ~500 Taíno remained.
+
+### Violence and Exploitation
+
+**Slavery:**
+Columbus enslaved Taíno from first voyage. Shipped hundreds to Spain.
+
+**Encomienda:**
+Forced labor system. Tribute demands. Punishment by mutilation, death.
+
+**Brutality:**
+Columbus authorized cutting off hands of those who failed to deliver gold quotas.
+
+**Contemporary Criticism:**
+Bartolomé de las Casas documented Spanish atrocities (* Destruction of the Indies*).
+
+---
+
+## Legacy and Controversy
+
+### Celebration
+
+- Columbus Day (U.S. federal holiday since 1937)
+- Monuments worldwide
+- "Discoverer of America" mythology
+
+### Reappraisal
+
+**Modern Criticism:**
+- Opened era of colonialism, slavery, genocide
+- Brutal governor
+- Enslavement of indigenous people
+- Hero worship obscures victims
+
+**Indigenous Peoples' Day:**
+Many U.S. cities/states now observe instead of or alongside Columbus Day.
+
+---
+
+## Timeline
+
+| Year | Event |
+|------|-------|
+| 1451 | Born in Genoa |
+| 1492 | First voyage; reached Americas |
+| 1493-1496 | Second voyage |
+| 1498-1500 | Third voyage; arrested |
+| 1502-1504 | Fourth voyage |
+| 1506 | Died in Spain |
+
+---
+
+## Famous Quote
+
+> "Following the light of the sun, we left the Old World." — Columbus (attributed)
 
 ---
 
 ## References
 
-- Columbus's diaries and letters
-- Historical accounts (Bartolomé de las Casas, etc.)
-- Modern biographies and scholarship
+- Columbus's journals and letters
+- Bartolomé de las Casas, *A Short Account of the Destruction of the Indies*
+- Laurence Bergreen, *Columbus: The Four Voyages*
+- Academic scholarship on Columbian Exchange
