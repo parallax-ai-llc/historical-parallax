@@ -99,6 +99,14 @@ export function getMapLocations(mapId: string, articles: ArticleMeta[]): UfoLoca
   return locations.filter((loc) => existingIds.has(loc.id));
 }
 
+export function getMapCounts(): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const [key, locations] of Object.entries(mapData)) {
+    counts[key] = locations.length;
+  }
+  return counts;
+}
+
 export const MAP_CATEGORIES = [
   {
     id: "ufo-mysteries",
