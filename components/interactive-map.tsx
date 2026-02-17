@@ -3,6 +3,7 @@
 import * as React from "react";
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from "react-simple-maps";
 import { useRouter } from "next/navigation";
+import { useTheme } from "next-themes";
 import { Plus, Minus, RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { UfoLocation } from "@/lib/maps";
@@ -38,6 +39,8 @@ interface GeoFeature {
 
 export function InteractiveMap({ mapId, locations, className }: InteractiveMapProps) {
   const router = useRouter();
+  const { resolvedTheme } = useTheme();
+  const isDark = resolvedTheme === "dark";
   const [hovered, setHovered] = React.useState<string | null>(null);
   const [position, setPosition] = React.useState({
     coordinates: [0, 0] as [number, number],
@@ -104,8 +107,8 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
   }
 
   return (
-    <div className={cn("w-full h-auto md:h-[600px] border rounded-lg bg-slate-950 overflow-hidden relative", className)}>
-      <div className="absolute top-4 left-4 z-10 bg-black/50 p-2 rounded text-white text-sm pointer-events-none">
+    <div className={cn("w-full h-auto md:h-[600px] border rounded-lg overflow-hidden relative bg-slate-100 dark:bg-slate-950", className)}>
+      <div className="absolute top-4 left-4 z-10 bg-white/70 dark:bg-black/50 p-2 rounded text-sm pointer-events-none">
         <p className="text-xs text-muted-foreground">
           Click on a marker to view the incident file.
         </p>
@@ -115,7 +118,7 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
         <Button
           variant="secondary"
           size="icon"
-          className="h-8 w-8 bg-slate-800 hover:bg-slate-700 text-white border-slate-700"
+          className="h-8 w-8 bg-slate-200 hover:bg-slate-300 text-slate-800 border-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-white dark:border-slate-700"
           onClick={handleZoomIn}
           title="Zoom In"
         >
@@ -124,7 +127,7 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
         <Button
           variant="secondary"
           size="icon"
-          className="h-8 w-8 bg-slate-800 hover:bg-slate-700 text-white border-slate-700"
+          className="h-8 w-8 bg-slate-200 hover:bg-slate-300 text-slate-800 border-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-white dark:border-slate-700"
           onClick={handleZoomOut}
           title="Zoom Out"
         >
@@ -133,7 +136,7 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
         <Button
           variant="secondary"
           size="icon"
-          className="h-8 w-8 bg-slate-800 hover:bg-slate-700 text-white border-slate-700"
+          className="h-8 w-8 bg-slate-200 hover:bg-slate-300 text-slate-800 border-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-white dark:border-slate-700"
           onClick={handleReset}
           title="Reset View"
         >
@@ -162,12 +165,12 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
                 <Geography
                   key={geo.rsmKey}
                   geography={geo}
-                  fill="#1e293b"
-                  stroke="#334155"
+                  fill={isDark ? "#1e293b" : "#cbd5e1"}
+                  stroke={isDark ? "#334155" : "#94a3b8"}
                   strokeWidth={0.5}
                   style={{
                     default: { outline: "none" },
-                    hover: { outline: "none", fill: "#334155" },
+                    hover: { outline: "none", fill: isDark ? "#334155" : "#94a3b8" },
                     pressed: { outline: "none" },
                   }}
                 />
@@ -187,7 +190,7 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
               <circle
                 r={4 / position.zoom}
                 fill="#ef4444"
-                stroke="#ffffff"
+                stroke={isDark ? "#ffffff" : "#1e293b"}
                 strokeWidth={1.5 / position.zoom}
                 className="animate-pulse"
               />
@@ -199,10 +202,12 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
                   y={-10 / position.zoom}
                   style={{
                     fontFamily: "system-ui",
-                    fill: "#ffffff",
+                    fill: isDark ? "#ffffff" : "#0f172a",
                     fontSize: `${10 / position.zoom} px`,
                     fontWeight: "bold",
-                    textShadow: "0px 1px 2px rgba(0,0,0,0.8)",
+                    textShadow: isDark
+                      ? "0px 1px 2px rgba(0,0,0,0.8)"
+                      : "0px 1px 2px rgba(255,255,255,0.8)",
                     pointerEvents: "none",
                   }}
                 >
