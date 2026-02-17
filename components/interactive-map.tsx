@@ -182,7 +182,7 @@ export function InteractiveMap({ mapId, locations, className }: InteractiveMapPr
             <Marker
               key={id}
               coordinates={coordinates}
-              onClick={() => router.push(`/ a / ${id} `)}
+              onClick={() => router.push(`/a/${id}`)}
               onMouseEnter={() => setHovered(name)}
               onMouseLeave={() => setHovered(null)}
               className="cursor-pointer"
