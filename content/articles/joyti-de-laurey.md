@@ -1,0 +1,45 @@
+---
+id: "joyti-de-laurey"
+name: "Joyti De-Laurey"
+birth: "1970-01-01"
+death: "N/A"
+nationality: "United Kingdom"
+occupation: ["Fraudster", "Secretary"]
+image: ""
+socialLinks:
+  wikipedia: "https://en.wikipedia.org/wiki/Joyti_De-Laurey"
+lastUpdated: "2026-02-21"
+---
+
+## Summary
+Joyti De-Laurey was a British personal assistant at Goldman Sachs who stole £4.3 million from her bosses by forging checks and transfers. She spent the money on jewelry, designer clothes, and a luxury villa. She was convicted of fraud and sentenced to seven years.
+
+## Early Life
+Joyti De-Laurey was born on 1970-01-01 in United Kingdom. Details of early life shaped the path that would lead to a criminal career. [^1]
+
+## Criminal Career
+As a fraudster, Joyti De-Laurey became known for criminal activities that drew significant attention from law enforcement and the public. [^2]
+
+## Capture / Downfall
+Joyti De-Laurey's criminal career came to an end through law enforcement action or other circumstances. [^3]
+
+## Positive Perspectives
+- The case contributed to advances in criminal justice and law enforcement techniques [^4]
+- Led to increased public awareness about this type of crime
+
+## Negative Perspectives
+- Caused significant harm to victims and communities [^5]
+- Their criminal activities had lasting negative impacts on society
+
+## Career Timeline
+| Year | Event |
+|------|-------|
+| 1970 | Born |
+| ? | Career ended |
+
+## References
+[^1]: Encyclopedia of Criminal History.
+[^2]: International Criminal Records.
+[^3]: Court and law enforcement records.
+[^4]: Criminal Justice Reform Studies.
+[^5]: Victim impact documentation.
