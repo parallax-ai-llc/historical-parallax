@@ -8,6 +8,16 @@ export const contentType = "image/png";
 // ISR: Revalidate every 24 hours (86400 seconds)
 export const revalidate = 86400;
 
+async function fetchWithTimeout(url: string, init: RequestInit = {}, timeoutMs = 3000) {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...init, signal: controller.signal });
+  } finally {
+    clearTimeout(id);
+  }
+}
+
 export async function generateStaticParams() {
   const ids = getAllArticleIds();
   return ids.map((id) => ({ id }));
@@ -17,14 +27,23 @@ export default async function Image({ params }: { params: Promise<{ id: string }
   const { id } = await params;
   const article = await getArticle(id);
 
-  // Cormorant Garamond 폰트 로드 (Google Fonts CSS에서 woff2 URL 추출)
-  const fontCss = await fetch(
-    "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap",
-    { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } }
-  ).then((res) => res.text());
+  // Font load: best-effort only. During `output: export` builds, external fetches can time out.
+  let fontData: ArrayBuffer | null = null;
+  try {
+    const fontCss = await fetchWithTimeout(
+      "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap",
+      { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } },
+      3000
+    ).then((res) => res.text());
 
-  const fontUrl = fontCss.match(/src: url\(([^)]+)\)/)?.[1];
-  const fontData = await fetch(fontUrl!).then((res) => res.arrayBuffer());
+    const fontUrl = fontCss.match(/src: url\(([^)]+)\)/)?.[1];
+    if (fontUrl) {
+      fontData = await fetchWithTimeout(fontUrl, {}, 3000).then((res) => res.arrayBuffer());
+    }
+  } catch {
+    // Fallback to default fonts.
+    fontData = null;
+  }
 
   const name = article?.meta.name || "Historical Figure";
   const nationality = article?.meta.nationality || "";
@@ -41,7 +60,7 @@ export default async function Image({ params }: { params: Promise<{ id: string }
         flexDirection: "column",
         backgroundColor: "#0a0a0a",
         padding: "60px 80px",
-        fontFamily: "Cormorant Garamond",
+        fontFamily: fontData ? "Cormorant Garamond" : "serif",
       }}
     >
       <div
@@ -106,14 +125,16 @@ export default async function Image({ params }: { params: Promise<{ id: string }
     </div>,
     {
       ...size,
-      fonts: [
-        {
-          name: "Cormorant Garamond",
-          data: fontData,
-          style: "normal",
-          weight: 700,
-        },
-      ],
+      fonts: fontData
+        ? [
+            {
+              name: "Cormorant Garamond",
+              data: fontData,
+              style: "normal",
+              weight: 700,
+            },
+          ]
+        : [],
     }
   );
 }

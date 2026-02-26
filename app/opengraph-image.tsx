@@ -5,15 +5,33 @@ export const alt = "Historical Parallax";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-export default async function Image() {
-  // Cormorant Garamond 폰트 로드 (Google Fonts CSS에서 woff2 URL 추출)
-  const fontCss = await fetch(
-    "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap",
-    { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } }
-  ).then((res) => res.text());
+async function fetchWithTimeout(url: string, init: RequestInit = {}, timeoutMs = 3000) {
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...init, signal: controller.signal });
+  } finally {
+    clearTimeout(id);
+  }
+}
 
-  const fontUrl = fontCss.match(/src: url\(([^)]+)\)/)?.[1];
-  const fontData = await fetch(fontUrl!).then((res) => res.arrayBuffer());
+export default async function Image() {
+  // Font load: best-effort only. During `output: export` builds, external fetches can time out.
+  let fontData: ArrayBuffer | null = null;
+  try {
+    const fontCss = await fetchWithTimeout(
+      "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap",
+      { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } },
+      3000
+    ).then((res) => res.text());
+
+    const fontUrl = fontCss.match(/src: url\(([^)]+)\)/)?.[1];
+    if (fontUrl) {
+      fontData = await fetchWithTimeout(fontUrl, {}, 3000).then((res) => res.arrayBuffer());
+    }
+  } catch {
+    fontData = null;
+  }
 
   return new ImageResponse(
     <div
@@ -25,7 +43,7 @@ export default async function Image() {
         alignItems: "center",
         justifyContent: "center",
         backgroundColor: "#0a0a0a",
-        fontFamily: "Cormorant Garamond",
+        fontFamily: fontData ? "Cormorant Garamond" : "serif",
       }}
     >
       <div
@@ -49,14 +67,16 @@ export default async function Image() {
     </div>,
     {
       ...size,
-      fonts: [
-        {
-          name: "Cormorant Garamond",
-          data: fontData,
-          style: "normal",
-          weight: 700,
-        },
-      ],
+      fonts: fontData
+        ? [
+            {
+              name: "Cormorant Garamond",
+              data: fontData,
+              style: "normal",
+              weight: 700,
+            },
+          ]
+        : [],
     }
   );
 }
