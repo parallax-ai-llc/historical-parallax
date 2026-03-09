@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Holmes_(mass_murderer)"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 James Holmes killed 12 and injured 70 at a movie theater in Aurora, Colorado on July 20, 2012. He opened fire during a midnight screening of The Dark Knight Rises. Sentenced to life.
 
@@ -59,3 +58,18 @@ James Holmes killed 12 and injured 70 at a movie theater in Aurora, Colorado on 
 ## Further Reading
 - Contemporary court filings and trial transcripts (where available)
 - Major U.S. newspaper coverage from 2012–2015 focusing on the attack, victims, and trial
+## Overview
+
+James Holmes is an American man convicted for the 2012 mass shooting at a movie theater in Aurora, Colorado, during a midnight screening of *The Dark Knight Rises*. The attack resulted in multiple deaths and injuries and became one of the most widely covered mass shootings in the United States.
+
+## Investigation and prosecution (high level)
+
+The case involved extensive investigation, forensic review, and public scrutiny. In court proceedings, questions about mental health were a prominent feature of the defense and prosecution arguments. Holmes was ultimately convicted and sentenced to multiple life terms in prison rather than receiving the death penalty.
+
+## Public impact
+
+The Aurora shooting influenced national debates on gun policy, mental health, public safety, and emergency response planning for large venues. Survivors’ accounts and community responses have been central to how the event is remembered.
+
+## Caution on detail
+
+Reporting on mass violence can inadvertently amplify perpetrators; many summaries therefore focus on verified legal outcomes and the broader impact on victims, communities, and policy discussions.

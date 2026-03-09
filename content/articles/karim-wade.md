@@ -8,7 +8,7 @@ occupation: ["Corrupt Politician"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karim_Wade"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,3 +25,26 @@ Son of former Senegalese President Abdoulaye Wade convicted of illicit enrichmen
 ## References
 
 [^1]: Wikipedia, "Karim Wade" - https://en.wikipedia.org/wiki/Karim_Wade
+
+## Overview
+
+Karim Wade is a Senegalese political figure and former senior official, widely known as the son of former President Abdoulaye Wade and for holding prominent roles during his father’s administration.
+
+## Political prominence
+
+In many systems, close relatives of national leaders can become focal points for debates about succession, patronage, and elite competition, especially when they accumulate high-visibility portfolios.
+
+## Legal controversies
+
+Cases involving senior political figures are often framed domestically as anti-corruption efforts and internationally as indicators of institutional strength. Public interpretations may vary depending on party alignment and trust in state bodies.
+
+## Broader context
+
+Senegal is frequently compared with regional peers for relative political stability and competitive elections, which can make major prosecution episodes especially salient in public discourse.
+
+## Further reading prompts
+
+Readers often look for:
+- a clear timeline of key events,
+- the institutions involved (courts, agencies, organizations),
+- and the longer-term impact on policy, public debate, or historical interpretation.

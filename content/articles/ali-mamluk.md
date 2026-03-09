@@ -49,3 +49,14 @@ Syrian intelligence chief sanctioned for overseeing systematic torture and deten
 
 - Exact titles and dates can vary across sources; the entries above are intended as a high-level orientation rather than a comprehensive biography.
 - For detailed chronology and citations, see the reference link and related sanction listings from relevant governments.
+
+### Related Institutions and Terms
+
+- **National Security Bureau (Syria)**: Often described as a coordinating body across multiple intelligence and security branches.
+- **General Intelligence/General Security Directorate**: A central element of Syria’s internal security architecture in many public descriptions.
+- **Sanctions regimes**: Listings by jurisdictions such as the EU, US, and UK (where applicable) commonly summarize the alleged conduct and basis for designation.
+
+### Why He Appears in Open-Source Datasets
+
+- Frequently referenced in human-rights reporting and sanctions documentation as a senior decision-maker within Syria’s security establishment during the civil-war period.
+- Public reporting tends to focus on command responsibility and oversight rather than on a narrow set of discrete incidents.

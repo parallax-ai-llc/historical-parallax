@@ -41,6 +41,13 @@ Luciano Liggio was the boss of the Corleonesi clan in Sicily. He was the mentor 
 - **Mentorship narrative**: Biographical treatments frequently frame him as a formative influence on Riina and Provenzano’s later methods.
 - **Historical significance**: His career is used as a case study for how Mafia leadership can persist despite imprisonment, via delegation and clandestine communications.
 
+## Cosa Nostra structure (high level)
+- In broad summaries, Sicilian Mafia organization is often described in terms of:
+  - **local “families”** tied to specific territories,
+  - coordination bodies (sometimes described as commissions),
+  - and shifting alliances and conflict cycles.
+- The Corleonesi story is frequently used to illustrate how a faction can move from a peripheral base into central leadership through coercion and strategic alliance.
+
 ## Notes (Factual, Non-Speculative)
 - This article provides a concise, high-level overview intended for quick reference.
 - Specific allegations, dates, and criminal acts vary across sources; readers should consult primary court records and reputable historical studies for granular detail.

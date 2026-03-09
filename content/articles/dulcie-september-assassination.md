@@ -52,3 +52,37 @@ This article summarizes the assassination as an event and the broad context in w
 ## References
 
 [^1]: Wikipedia, "Dulcie September Assassination" - https://en.wikipedia.org/wiki/Dulcie_September_Assassination
+
+## Dulcie September (Who She Was)
+
+High-level summaries typically describe Dulcie September as an anti-apartheid activist and a representative of the African National Congress (ANC) working internationally. In many accounts, her role in Paris is framed as part of the ANC’s external mission: building political support, public awareness, and pressure on the apartheid government through diplomatic and civil-society channels.[^1]
+
+## Broader Historical Context (Late Apartheid)
+
+- **Exile politics**: The ANC operated internationally for much of the apartheid period, maintaining offices and representatives in various countries.
+- **Covert conflict**: Public histories of the era often describe a parallel struggle involving intelligence services, covert disruption, and violence beyond South Africa’s borders.
+- **Information and legitimacy**: International advocacy, sanctions debates, and publicity campaigns made foreign-based representatives influential targets in narratives about political violence abroad.[^1]
+
+## Impact and Ongoing Attention
+
+- The assassination is repeatedly cited as a prominent case of political violence affecting the anti-apartheid movement in Europe.
+- It remains referenced in discussions about unresolved crimes linked to apartheid-era operations and accountability after the transition to democracy.
+- The lack of a widely accepted, definitive resolution contributes to recurring public and media interest.[^1]
+
+## Data Quality Note (This File)
+
+Some metadata fields in this repository may be standardized placeholders or contain errors (for example, the frontmatter birth/death fields). The narrative sections and cited references should be treated as more reliable than unverified metadata when discrepancies arise.
+
+## External Links
+
+- Wikipedia: https://en.wikipedia.org/wiki/Dulcie_September_Assassination
+
+## Open Questions Often Mentioned (Non-Exhaustive)
+
+Because the case is widely described as unresolved in secondary summaries, recurring questions in public discussion include:
+
+- who ordered and carried out the killing,
+- whether the assassination connected to specific intelligence operations,
+- and whether any investigative leads were missed or deprioritized over time.
+
+This section is intentionally framed as questions rather than conclusions, reflecting the limits of widely available, agreed-upon public findings.[^1]

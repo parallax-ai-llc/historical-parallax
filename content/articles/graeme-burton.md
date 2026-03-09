@@ -51,3 +51,18 @@ New Zealand murderer who killed again while on parole, shooting a man in the Rim
 
 - Parole (general concept)
 - New Zealand Department of Corrections (context for supervision and policy discussion)
+
+## Overview
+Graeme Burton is a New Zealand man known in public reporting for violent offending and for killing again after being released from prison. His case is commonly cited in discussions of parole decision-making, supervision after release, and the management of people assessed as high risk.
+
+## Why the case is cited
+In New Zealand public debate, Burton’s name has appeared in the context of:
+- Whether risk assessment and rehabilitation can reliably predict future violence.
+- How parole boards balance public safety against legal standards for release.
+- The practical limits of post-release monitoring, support, and enforcement.
+
+## Institutional response (high level)
+High-profile cases of serious reoffending often lead to reviews of procedures, scrutiny of parole systems, and changes to supervision practices. Specific reforms and timelines are usually described in official reviews and major contemporaneous reporting.
+
+## Notes
+Because coverage spans multiple incidents and legal steps, summaries can differ in chronology and emphasis. For detailed timelines, consult court records and primary reporting.

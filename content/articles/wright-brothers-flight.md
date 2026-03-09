@@ -8,7 +8,7 @@ occupation: ["Historical Event", "Discovery", "Aviation"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wright_Brothers_Flight"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -29,3 +29,23 @@ On December 17, 1903, the Wright Brothers made the first sustained powered fligh
 ## References
 
 [^1]: Wikipedia, "Wright Brothers Flight" - https://en.wikipedia.org/wiki/Wright_Brothers_Flight
+
+## Technical Approach
+
+The Wright brothers focused on **three linked problems**: generating lift, providing power, and (most importantly) maintaining control. Their aircraft design paired a lightweight engine with carefully shaped propellers and control mechanisms that allowed a pilot to correct roll and pitch during flight.
+
+## Why Kitty Hawk Matters
+
+Kitty Hawk and the nearby Outer Banks offered steady winds and soft sand, making it a practical test range. The site also reflects a broader pattern in early aviation: experimentation often happened far from major cities, where conditions were safer and more predictable.
+
+## From Demonstration to Practical Aircraft
+
+The 1903 flights were a proof of concept. In the following years, improvements in control, airframe strength, and pilot technique helped transform an experimental craft into aircraft capable of longer, more reliable flights.
+
+## Broader Impact
+
+The Wrights’ work helped establish key expectations for aviation progress:
+
+- measured testing and iteration
+- public demonstrations and documentation
+- rapid diffusion of ideas into military and civilian applications

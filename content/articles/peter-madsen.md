@@ -48,6 +48,14 @@ Peter Madsen was a Danish inventor who murdered Swedish journalist Kim Wall aboa
 - The murder of Kim Wall prompted widespread discussion about personal safety, journalism fieldwork risk, and the responsibilities of hosts/interview subjects.
 - The case has been covered in documentaries, long-form journalism, and true-crime reporting internationally.
 
+## Context (high-level)
+- High-profile cases involving media figures and unusual crime scenes often generate extensive public interest and large investigative footprints.
+- In such cases, public summaries typically center on court outcomes and verified forensic findings rather than speculative narratives.
+
+## Documentation notes
+- When updating this entry, prioritize Danish court documents and official statements for legal outcomes and custody status.
+- Details about the investigation can be summarized at a high level without repeating graphic or sensational elements.
+
 ## See also
 - Kim Wall
 - UC3 Nautilus

@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heydrich"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Duplicate consolidated.

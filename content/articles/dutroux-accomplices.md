@@ -63,3 +63,27 @@ Key, widely noted features of the case aftermath include:
 
 [^2]: Wikipedia, "Marc Dutroux" - https://en.wikipedia.org/wiki/Marc_Dutroux
 [^3]: Wikipedia, "White March" - https://en.wikipedia.org/wiki/White_March
+
+## Why This Topic Remains Contested
+
+High-level accounts often emphasize that the concept of a broader "network" around Dutroux became part of public debate for several reasons:
+
+- the extreme nature of the crimes,
+- perceived investigative and coordination failures,
+- and a prolonged period of uncertainty for families and the public.
+
+As a result, discussion of "accomplices" can blend **proven legal findings** with **speculation**. This repository entry treats the term as a descriptive label used in sources, not as a blanket assertion about any specific individual beyond what court outcomes and major summaries support.[^1][^2]
+
+## Reading the Sources Carefully
+
+When reviewing secondary sources on the case, it is often useful to separate:
+
+- **convictions and sentences** (claims with clear legal disposition),
+- **allegations** (claims asserted but not proven in court), and
+- **institutional critiques** (failures of procedure, oversight, or coordination that may not map to individual criminal liability).
+
+## External Links
+
+- Wikipedia (topic page): https://en.wikipedia.org/wiki/Dutroux_accomplices
+- Marc Dutroux: https://en.wikipedia.org/wiki/Marc_Dutroux
+- White March: https://en.wikipedia.org/wiki/White_March

@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cemal_Pasha"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,27 @@ Ottoman military leader and one of the ruling 'Three Pashas' during WWI. He over
 ## References
 
 [^1]: Wikipedia, "Cemal Pasha" - https://en.wikipedia.org/wiki/Cemal_Pasha
+
+## Additional Context
+
+- Cemal Pasha (Ahmed Cemal) was a leading member of the Committee of Union and Progress (CUP) and, together with Talaat and Enver, formed the wartime triumvirate often referred to as the "Three Pashas".
+- In the Ottoman government during World War I he served as Minister of the Navy and was also a military commander, including authority in the Syrian provinces.
+
+### World War I and administration in Syria
+
+- He was closely associated with harsh wartime security policies, censorship, and the suppression of dissent.
+- The executions of Arab nationalist figures in Beirut and Damascus (1915–1916) became a major symbol in later Arab nationalist memory and helped deepen political alienation from Ottoman rule.
+
+### Postwar flight and assassination
+
+- After the Ottoman defeat, leading CUP figures fled; Cemal lived in exile and was killed in Tbilisi in 1922.
+- The assassination is commonly discussed in the context of Armenian revolutionary efforts to target former Ottoman officials held responsible for mass violence during the war.
+
+### Historical assessment
+
+- Cemal Pasha is widely regarded as one of the senior officials implicated in wartime atrocities, including actions tied to the Armenian Genocide.
+- Biographies and regional histories often evaluate his legacy through both his role in central CUP decision-making and his conduct as a provincial military-administrator.
+
+## See also
+
+- Committee of Union and Progress (CUP)

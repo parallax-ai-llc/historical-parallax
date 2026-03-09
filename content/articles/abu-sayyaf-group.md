@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Sayyaf_Group"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,24 @@ Philippine Islamic militant group responsible for kidnappings, bombings, and pir
 ## References
 
 [^1]: Wikipedia, "Abu Sayyaf Group" - https://en.wikipedia.org/wiki/Abu_Sayyaf_Group
+
+## Additional Context
+
+- Abu Sayyaf is typically characterized as a **militant network operating mainly in the southern Philippines**, particularly in parts of Mindanao and the Sulu archipelago.
+- The group has been associated in open sources with **kidnapping-for-ransom**, maritime attacks, and intermittent alliances or pledges to larger jihadist movements.
+
+## Tactics and Funding (High-Level)
+
+- Kidnapping-for-ransom has been repeatedly described as a major revenue source, influencing both the group's operational tempo and its internal fragmentation into sub-factions.
+- Maritime geography (small islands, porous borders) is often cited as enabling movement, concealment, and cross-border criminal activity.
+
+## Counterterrorism Pressure (General)
+
+- Philippine security operations, as well as international cooperation, have periodically reduced the group's leadership cadre; open sources also describe cycles of splintering and regrouping.
+
+## Further Reading
+
+- Wikipedia entry linked above (overview and citations).
+- Contemporary news reporting and court documents where available.
+- Academic or policy analyses for historical and political context.
+- For contested topics, compare multiple reputable sources and primary documents when available.

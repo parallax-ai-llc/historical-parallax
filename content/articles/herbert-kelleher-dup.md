@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Herbert_Kelleher_dup"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Duplicate.

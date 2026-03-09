@@ -61,3 +61,14 @@ Japanese nuclear worker who received the highest recorded radiation dose in the 
 - Tokaimura nuclear accident
 - Criticality accident
 - Nuclear safety and regulation in Japan
+
+## Notes on Reporting and Misconceptions
+
+- Many retellings on the internet focus on sensational details; for a historical record, prefer **official investigation summaries** and reputable journalism.
+- The term “highest recorded radiation dose” is often repeated; exact dose estimates can vary by source and methodology.
+- Ethical discussions sometimes arise about end-of-life care, consent, and medical decision-making during severe radiation injuries; these should be handled with care and sourced responsibly.
+
+## Safety Lessons (general)
+
+- Criticality safety depends heavily on **procedural controls** (mass, geometry, and concentration limits) as much as on hardware.
+- Robust safety culture includes training, clear supervision, and stopping-work authority when procedures are unclear or bypassed.

@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Iv%C3%A1n_Archivaldo_Guzm%C3%A1n"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 Iván Archivaldo Guzmán Salazar is a son of El Chapo and a leader of the Los Chapitos faction of the Sinaloa Cartel, heavily involved in fentanyl trafficking. Arrested in 2024.
 
@@ -63,3 +62,18 @@ Iván Archivaldo Guzmán Salazar is a son of El Chapo and a leader of the Los Ch
 - Wikipedia: Iván Archivaldo Guzmán — https://en.wikipedia.org/wiki/Iv%C3%A1n_Archivaldo_Guzm%C3%A1n
 - U.S. Department of the Treasury (sanctions/designations pages; entries vary by date)
 - Major investigative reporting summaries on "Los Chapitos" and Sinaloa Cartel faction dynamics
+## Overview
+
+Ivan Archivaldo Guzmán Salazar is a Mexican organized-crime figure widely reported as one of the leading members of the Sinaloa Cartel’s so‑called “Los Chapitos” faction. Public reporting frequently describes him as a son of Joaquín “El Chapo” Guzmán, and as part of a broader family network that became prominent after shifts in Sinaloa’s leadership following El Chapo’s arrests and extradition.
+
+## Public profile and allegations
+
+Media and government statements generally portray Ivan Archivaldo as involved in coordinating trafficking operations, security, and internal decision‑making within the Los Chapitos group. Many specific claims about his day‑to‑day role come from investigative reporting and official allegations rather than open court findings available to the general public.
+
+## Context
+
+Within Mexican cartel history, the “Los Chapitos” label is often used to describe a younger leadership cohort associated with the Guzmán family. The faction’s rise is commonly discussed alongside intensifying conflict with rival groups and increased pressure from Mexican and U.S. authorities.
+
+## Notes on sources
+
+Because cartel leadership structures are opaque and frequently contested, descriptions of hierarchy and responsibility can vary across sources. High‑level summaries typically rely on a mix of journalism, official designations, and court filings when available.

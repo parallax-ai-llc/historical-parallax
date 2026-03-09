@@ -44,6 +44,21 @@ Bruinsma was killed on **27 June 1991**. Sources commonly note that he was **sho
 - **Symbol of an era:** In Dutch crime history, he is frequently referenced as a symbol of the 1980s period when organized narcotics trafficking grew in visibility and sophistication.
 - **Public memory:** His story is revisited in crime journalism and documentaries as part of broader narratives about Dutch organized crime.
 
+## Dutch organized crime context (1980s, high level)
+- The Netherlands’ role as a major logistics and port hub made it relevant to European trafficking routes for multiple commodities, including drugs.
+- Large-scale trafficking organizations typically combine:
+  - **importation and warehousing** (ports, trucking, storage)
+  - **distribution networks** (regional wholesalers)
+  - **money movement** (cash handling, laundering through businesses, and cross-border transfers)
+- Public understanding of such figures often blends court outcomes, police reporting, and journalism; these can differ in detail and certainty.
+
+## Notes on sourcing
+- For biographical and organizational claims, prioritize:
+  - court judgments and official investigative summaries (when public)
+  - reputable historical works on Dutch organized crime
+  - high-quality investigative journalism with named documentation
+- Treat headline numbers (e.g., “worth billions”) as *reporting claims* unless they can be tied to a specific assessment method.
+
 ## See Also
 - Organized crime in the Netherlands
 - Drug trafficking in Europe

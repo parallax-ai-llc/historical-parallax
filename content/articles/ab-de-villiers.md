@@ -8,7 +8,7 @@ occupation: ["Athlete", "Cricket Player"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/AB_de_Villiers"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,30 @@ AB de Villiers was called 'Mr. 360' for his ability to hit the ball anywhere. He
 ## References
 
 [^1]: Wikipedia, "AB de Villiers" - https://en.wikipedia.org/wiki/AB_de_Villiers
+
+## Background
+
+Abraham Benjamin de Villiers is widely regarded as one of South Africa's most creative modern batters. Beyond batting, he also served as a wicket-keeper in parts of his career, contributing to his reputation as an all-format, multi-skill player.
+
+## Signature reputation: "Mr. 360"
+
+The nickname reflects:
+
+- Unconventional shot selection (ramps, scoops, and improvised angles)
+- Ability to score quickly without relying solely on orthodox strokes
+- High adaptability across bowling styles and field settings
+
+## Format highlights (high level)
+
+- **Tests**: recognized for technically strong batting and long innings.
+- **ODIs**: associated with record-setting strike rates and acceleration.
+- **T20**: valued for innovation and late-innings finishing.
+
+## Career arc and retirement
+
+- Played a major role for South Africa during an era of strong international competition.
+- Retired from international cricket in 2018; discussions around workload management and modern schedule pressure are often linked to retirements of this period.
+
+## Legacy
+
+De Villiers is frequently cited as an influence on later generations of batters who emphasize range, creativity, and high-tempo scoring.

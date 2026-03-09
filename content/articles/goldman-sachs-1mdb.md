@@ -59,3 +59,20 @@ Goldman Sachs arranged $6.5 billion in bonds for 1MDB and paid over $5 billion i
 ## References
 
 [^1]: Wikipedia, "Goldman Sachs 1MDB" - https://en.wikipedia.org/wiki/Goldman_Sachs_1MDB
+
+## Deal Structure (Simplified)
+
+- **Bond offerings:** Public reporting commonly describes multiple 1MDB-related bond deals arranged by Goldman Sachs, marketed to investors as sovereign- or quasi-sovereign-linked financing.
+- **Intermediaries:** Investigations and reporting emphasize the role of **third-party intermediaries** and politically exposed persons (PEPs) in routing funds.
+- **Use-of-proceeds gap:** A central allegation across jurisdictions was that substantial proceeds were **misappropriated** rather than applied to stated development objectives.
+
+## Compliance & Governance Themes (High-Level)
+
+- **High-fee transactions:** The reported scale of fees is frequently cited in compliance commentary as a red flag requiring enhanced scrutiny.
+- **KYC / due diligence:** The case is often discussed as a reminder that complex cross-border deals may require deeper verification of counterparties, beneficial owners, and political exposure.
+- **Control failures vs. bad actors:** Public narratives typically separate (a) alleged misconduct by specific individuals from (b) broader questions about institutional controls and incentives.
+
+## Lasting Significance
+
+- The 1MDB scandal became a widely referenced case study for **anti-money-laundering (AML)**, **anti-bribery**, and **third-party risk** management in global finance.
+- It also illustrated how reputational and regulatory consequences can persist long after a transaction closes, especially when sovereign-linked funds are involved.

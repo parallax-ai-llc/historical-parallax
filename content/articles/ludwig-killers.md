@@ -52,6 +52,13 @@ Wolfgang Abel and Marco Furlan, the 'Ludwig' killers, committed 15 murders in No
   - extremist symbolism as a **psychological tactic**
   - the intersection of moral panic and violence against marginalized groups
 
+## Notes on sourcing and description
+- Avoid sensational framing: the core historical interest is the pattern of ideology-justified violence and the investigative response.
+- Incident-by-incident counts can vary by source; careful treatments distinguish between:
+  - confirmed convictions,
+  - attributed incidents,
+  - and disputed or reclassified events.
+
 ## Notes for Further Study
 - Compare with other mission-oriented serial cases where offenders claim a moral mandate and communicate with authorities.
 - Review Italian court summaries and reputable historical overviews for incident-by-incident attribution, since public accounts can differ in counts and categorization.

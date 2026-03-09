@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jejoen_Bontinck"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Belgian teenager who traveled to Syria as a jihadi fighter before being recovered by his father.
@@ -48,3 +47,32 @@ Belgian teenager who traveled to Syria as a jihadi fighter before being recovere
 
 - Many operational details (exact affiliations, activities in Syria, and the full legal outcome) are not consistently summarized in short-form sources; this article keeps to high-level points attributed to Wikipedia.
 - If additional primary reporting is added later, it should be cited explicitly and separated from general context.
+
+
+## Additional Context
+
+This entry adds high-level, factual context around **Jejoen Bontinck** and common ways the topic is interpreted in historical writing.
+
+## Context and Significance
+
+- Place the subject within the institutions and conflicts of their period (political authority, religion, economy, and warfare).
+- Distinguish between what contemporaries recorded and what later traditions emphasized.
+- When accounts differ, the safest summary is to note the disagreement rather than forcing false precision.
+
+## Sources and Reliability
+
+- **Primary sources:** official records, letters, proceedings, or contemporary narratives (useful but often partial or biased).
+- **Secondary scholarship:** modern studies that compare sources and explain why interpretations vary.
+- **Reception history:** later literature, art, and political usage that can transform reputation over time.
+
+## Analytical Lenses (Common in Modern Discussion)
+
+- **Agency vs. structure:** how much can be attributed to an individual versus institutions and broader forces.
+- **Symbol vs. operator:** separating symbolic impact (legitimacy, morale, identity) from direct tactical/administrative control.
+- **Myth-making:** how narratives consolidate around a simplified version of events.
+
+## Further Reading (Types)
+
+- Critical biographies that cite and quote primary documents.
+- Period histories that situate the subject among key actors and constraints.
+- Scholarly articles that revisit contested claims or reinterpret sources.

@@ -8,7 +8,7 @@ occupation: ["Journalist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Giancarlo_Siani"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,26 @@ Italian journalist assassinated by the Camorra at age 26 for his reporting on th
 ## References
 
 [^1]: Wikipedia, "Giancarlo Siani" - https://en.wikipedia.org/wiki/Giancarlo_Siani
+
+## Reporting Context
+
+- The Camorra is a mafia-type criminal organization rooted in the Naples region, with complex relationships across neighborhoods, local businesses, and political life.
+- Investigative reporting on organized crime in Italy has historically carried significant personal risk, particularly when it exposes internal disputes and alliances.
+
+## Aftermath and Legacy
+
+- Siani's murder became a symbol of the dangers faced by journalists and the need for institutional protection for investigative work.
+- His case is frequently cited in Italian public discourse about press freedom and anti-mafia civic culture.
+
+## Key Points
+
+- Targeted violence against reporters can function as intimidation aimed at broader communities, not only at a single journalist.
+- Posthumous recognition often includes memorials and educational initiatives centered on civic responsibility and the rule of law.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.

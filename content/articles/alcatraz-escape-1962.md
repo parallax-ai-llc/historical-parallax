@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alcatraz_Escape_1962"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Frank Morris and the Anglin brothers escaped from Alcatraz using fake heads, a raft made of raincoats, and a drill made from a vacuum cleaner motor. Never found.

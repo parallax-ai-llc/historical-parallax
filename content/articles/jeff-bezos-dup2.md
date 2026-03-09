@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeff_Bezos_dup2"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Duplicate.

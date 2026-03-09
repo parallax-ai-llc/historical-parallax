@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 Already covered as John George Haigh.
 
@@ -57,3 +56,18 @@ Because historical datasets and name variants occasionally split him into multip
 ## See Also
 - John George Haigh (alternate full-name form)
 - 20th-century British serial murder cases
+## Overview
+
+John George Haigh was an English serial killer known as the “Acid Bath Murderer.” Active in the 1940s, he murdered multiple victims and attempted to conceal the crimes by dissolving bodies in acid, a method that captured public attention and contributed to his enduring infamy in British criminal history.
+
+## Crimes and investigation (high level)
+
+Haigh’s scheme involved financial motives and deception, including forging documents and creating false narratives to explain victims’ disappearances. The investigation combined witness statements, physical evidence, and forensic analysis—particularly important given his attempt to destroy remains.
+
+## Trial and execution
+
+Haigh was convicted of murder and was executed in 1949. His case remains a notable example of mid‑20th‑century British criminal investigation and courtroom proceedings.
+
+## Legacy
+
+The case is frequently referenced in true‑crime literature as an illustration of both criminal ingenuity and the limits of concealment when investigators pursue financial trails and corroborating testimony.

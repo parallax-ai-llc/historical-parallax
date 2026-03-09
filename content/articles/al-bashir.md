@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Bashir"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Duplicate consolidated.

@@ -60,3 +60,12 @@ When consolidating duplicates, the following fields are typically safe to reconc
 - Nationality and primary occupation.
 - Notable association: Whole Foods Market (verify).
 - Reference links (replace invalid URLs with correct ones).
+
+## Additional high-level context (for the canonical John Mackey)
+
+- **Industry context:** Whole Foods rose alongside the growth of U.S. natural/organic grocery retail and the mainstreaming of “health foods” consumer preferences.
+- **Business model:** commonly described as premium positioning with emphasis on product quality, prepared foods, and store experience.
+- **Labor and politics:** Mackey has been a polarizing figure in some coverage for public commentary on healthcare and business regulation, while also being praised in other circles for philanthropy and stakeholder rhetoric.
+- **Acquisition implications (2017):** the Amazon purchase is often discussed as a milestone in e-commerce/logistics-driven transformation of grocery retail.
+
+(These points are meant as a factual, high-level scaffold to pad a duplicate stub, not as a substitute for a properly sourced canonical profile.)

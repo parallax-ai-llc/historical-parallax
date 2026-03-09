@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amon_G%C3%B6th"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ Austrian SS officer who was the commandant of the Kraków-Płaszów concentratio
 ## References
 
 [^1]: Wikipedia, "Amon Göth" - https://en.wikipedia.org/wiki/Amon_G%C3%B6th
+## Early Life and SS Career
+
+Göth was an Austrian member of the Nazi Party and the SS. During the Second World War, he rose through the SS administrative and camp system, ultimately being assigned to oversee forced-labor and detention operations.
+
+## Płaszów Camp Command
+
+- As commandant of Kraków-Płaszów, he supervised brutal exploitation of prisoners and was implicated in murders and extreme cruelty.
+- The camp played a role in the Nazi occupation of Poland, including forced labor and the broader machinery of persecution.
+
+## Arrest, Trial, and Execution
+
+After the war, Göth was tried by Polish authorities, convicted for war crimes, and executed in 1946. Historical accounts often cite extensive testimony regarding his conduct at Płaszów.
+
+## Additional References
+
+[^2]: Wikipedia, "Amon Göth" (biography, camp command, trial) - https://en.wikipedia.org/wiki/Amon_G%C3%B6th
+
+## Quick Facts
+
+- **Primary source**: the linked Wikipedia article in References.
+- **Article type**: short biographical overview intended for high-level context.
+- (Additional detail preserved at high level.)

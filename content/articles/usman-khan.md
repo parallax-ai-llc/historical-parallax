@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Usman_Khan"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ British terrorist who stabbed two people to death at a prisoner rehabilitation e
 ## References
 
 [^1]: Wikipedia, "Usman Khan" - https://en.wikipedia.org/wiki/Usman_Khan
+
+## Background
+
+- Khan was convicted in the UK on terrorism-related charges and received a prison sentence with a minimum term.
+- He was later released on licence (conditional release) before the end of his sentence.
+
+## 2019 Fishmongers' Hall attack
+
+- The stabbing occurred during a prison rehabilitation-related event near London Bridge.
+- Multiple bystanders intervened to restrain Khan; police later shot him dead at the scene.
+- Two victims were killed and additional people were injured.
+
+## Significance
+
+- The incident drew attention to the management of terrorism offenders, including licence conditions, risk assessment, and supervision after release.
+- It was widely cited in UK discussions about sentencing policy and counter-terrorism procedures.
+
+## Additional context
+
+- UK media and officials highlighted the role of civilians in the immediate response.
+- Subsequent inquiries and reporting discussed whether existing monitoring arrangements were adequate.
+- Public debate focused on balancing rehabilitation efforts with public safety in cases involving extremist violence.

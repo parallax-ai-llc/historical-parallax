@@ -58,3 +58,20 @@ This entry is kept intentionally concise because many article sets consolidate D
 ## References
 
 [^1]: Wikipedia, "Duch" - https://en.wikipedia.org/wiki/Duch
+
+## Additional Context (High-Level)
+
+- **Archival record**: Tuol Sleng/S-21 is frequently discussed in scholarship and court materials because a substantial volume of administrative documentation survived, including prisoner lists, interrogation records, and photographs. Summaries of this point commonly appear in overviews of the prison and ECCC case materials.[^1]
+- **Position within the regime**: Duch is generally described as an official within the Khmer Rouge security system rather than a battlefield commander; most public accounts focus on detention, interrogation, and bureaucratic control inside the Democratic Kampuchea apparatus.[^1]
+- **Public visibility after 1979**: Biographical summaries often note that he was not publicly prominent for many years after the fall of Democratic Kampuchea and later came to wider attention in reporting that connected him to his prior identity and role.[^1]
+
+## Related Entries
+
+- **Kaing Guek Eav** (canonical name / consolidated profile)
+- **Khmer Rouge**
+- **Tuol Sleng (S-21)**
+- **Extraordinary Chambers in the Courts of Cambodia (ECCC)**
+
+## External Links
+
+- Wikipedia: https://en.wikipedia.org/wiki/Duch

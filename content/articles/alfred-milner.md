@@ -65,3 +65,18 @@ British High Commissioner in South Africa who engineered the Boer War and oversa
 ## References
 
 [^1]: Wikipedia, "Alfred Milner" - https://en.wikipedia.org/wiki/Alfred_Milner
+
+## Overview
+Alfred Milner (1854–1925) was a British statesman and colonial administrator, closely associated with British policy in Southern Africa and later with wartime governance during World War I.
+
+## Career highlights
+- Served as High Commissioner for Southern Africa and Governor of the Cape Colony during the period surrounding the Second Boer War.
+- Worked with a group of young administrators and advisers sometimes called “Milner’s Kindergarten,” several of whom later held senior posts.
+
+## Political significance
+- Frequently connected to arguments for stronger imperial coordination and administrative reform.
+- His South Africa tenure is discussed in relation to post-war reconstruction, political settlement, and debates over labor and governance.
+
+## Historical debates
+- Admirers emphasize administrative capacity and strategic focus.
+- Critics highlight coercive dimensions of imperial policy and the costs borne by local populations.

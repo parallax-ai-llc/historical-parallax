@@ -48,3 +48,17 @@ Thomas Hamilton carried out the Dunblane school massacre in Scotland on March 13
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Dunblane massacre," https://en.wikipedia.org/wiki/Dunblane_massacre
+
+## Key Facts (High-Level)
+- **Location:** Dunblane, Stirling, Scotland.
+- **Date:** 13 March 1996.
+- **Victims:** 16 children and 1 teacher were killed.
+- **Historical significance:** The event is commonly cited as the primary catalyst for the UK’s late-1990s tightening of handgun controls.
+
+## Public Inquiry and Policy Response
+- Post-incident analysis in the UK focused on firearms licensing practices and the handling of prior complaints.
+- The episode is frequently referenced in comparative discussions of firearm policy, particularly the relationship between licensing regimes and public safety outcomes.
+
+## Legacy
+- Dunblane remains a defining case in UK public memory around mass violence and school safety.
+- It is also a recurring example in policy debates about how institutions should record, share, and act on risk signals communicated through complaints.

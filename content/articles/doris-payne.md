@@ -8,7 +8,7 @@ occupation: ["Thief"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Doris_Payne"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ American jewel thief who has been stealing diamonds and jewelry from high-end st
 ## References
 
 [^1]: Wikipedia, "Doris Payne" - https://en.wikipedia.org/wiki/Doris_Payne
+
+## Background
+
+Payne became known for a long-running pattern of jewelry thefts carried out in luxury retail environments. Reporting typically emphasizes a non-violent approach centered on social engineering, distraction, and confidence tactics.
+
+## Methods (High Level)
+
+Accounts of her thefts often describe techniques such as engaging staff in conversation, exploiting moments of reduced attention, and concealing items in ways that avoid immediate detection. Such methods are commonly categorized as a form of shoplifting enabled by interpersonal manipulation rather than force.
+
+## Legal History
+
+Over decades, she faced multiple arrests and court cases in different jurisdictions. Her notoriety increased because of the unusually long timespan of the alleged activity and the high-value nature of the items involved.
+
+## Cultural Depictions
+
+Her story has been covered in documentary and media profiles that frame her as a charismatic figure while also acknowledging the harms and illegality of theft.
+
+## See Also
+
+- Shoplifting
+- Confidence trick
+- Jewelry theft cases

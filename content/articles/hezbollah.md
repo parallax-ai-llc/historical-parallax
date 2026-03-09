@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hezbollah"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 See Hassan Nasrallah. Lebanese militant group. Duplicate entry.

@@ -8,7 +8,7 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/B%C3%A9la_Kiss"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary

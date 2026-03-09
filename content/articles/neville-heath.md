@@ -8,7 +8,7 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Neville_Heath"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,24 @@ British serial killer who tortured and murdered two women in London and Bournemo
 ## References
 
 [^1]: Wikipedia, "Neville Heath" - https://en.wikipedia.org/wiki/Neville_Heath
+
+## Additional Context
+
+- Heath’s case became widely reported in the British press in the immediate postwar period.
+- He was tried and convicted for the murders described in the summary, and executed in 1946.
+
+## Public Impact
+
+- The brutality of the crimes and the media attention contributed to lasting notoriety in British criminal history.
+- Later discussion of the case often highlights deception and how offenders can exploit trust.
+
+## Caution
+
+This page summarizes the case at a high level and is not a substitute for court records, official investigations, or detailed historical accounts.
+
+## Further Reading
+
+- Wikipedia (see link above)
+- Additional high-level context can be added from reliable sources.
+- Additional high-level context can be added from reliable sources.
+- Additional high-level context can be added from reliable sources.

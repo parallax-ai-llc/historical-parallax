@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joseph_Bonanno"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 Joseph 'Joe Bananas' Bonanno was one of the original Five Families bosses. He attempted to take over the Commission in 1964 ('Banana War'). He retired to Arizona and wrote an autobiography.
 
@@ -52,3 +51,18 @@ Joseph 'Joe Bananas' Bonanno was one of the original Five Families bosses. He at
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, “Joseph Bonanno,” *Wikipedia, The Free Encyclopedia*.
+## Overview
+
+Joseph “Joe” Bonanno was an Italian‑American mafia boss and one of the most prominent figures in mid‑20th‑century U.S. organized crime. He led what became known as the Bonanno crime family and was active during the era in which the national “Commission” structure is commonly described as coordinating relationships among major New York families.
+
+## Leadership and internal conflict (high level)
+
+Bonanno’s tenure is often discussed in relation to shifting alliances and internal disputes within organized crime, including conflicts over succession and influence. Historical accounts frequently emphasize that power struggles in this period could involve both negotiation and violence, with law enforcement pressure adding to instability.
+
+## Later life and public narrative
+
+Bonanno later became notable for public interviews and the publication of a memoir, which contributed to debate about the reliability of self‑authored accounts versus investigative records. His later years are sometimes framed as unusual for a major organized‑crime leader because of the degree of public visibility he embraced.
+
+## Legacy
+
+In popular history, Bonanno’s name remains closely tied to the Bonanno family itself, and to broader narratives about the evolution of American organized crime from the mid‑century into the later era of federal prosecutions and racketeering cases.

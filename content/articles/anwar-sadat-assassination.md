@@ -61,4 +61,3 @@ Egyptian President Anwar Sadat was assassinated during a military parade by Isla
 - Egypt–Israel peace treaty
 - Egyptian Islamic Jihad
 - Hosni Mubarak
-

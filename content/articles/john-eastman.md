@@ -50,3 +50,9 @@ Legal scholar disbarred for crafting the legal theory to overturn the 2020 elect
 
 - 2020 United States presidential election
 - January 6 United States Capitol attack
+
+## Notes on the legal debate (high level)
+
+- The public controversy around Eastman’s memoranda centered on separation of powers and the limited, largely ministerial role of the Vice President in counting Electoral College votes under modern practice.
+- Subsequent litigation and investigations (as summarized in widely reported sources) treated the proposed approach as a stress-test of constitutional interpretation, statutory procedure, and democratic legitimacy.
+- In commentary about attorney ethics, the case is often used to illustrate the difference between novel legal argumentation and claims that rely on factual predicates (e.g., fraud allegations) that courts did not accept.

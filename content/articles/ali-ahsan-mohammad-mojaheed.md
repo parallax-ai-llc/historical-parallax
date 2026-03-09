@@ -60,3 +60,17 @@ Bangladeshi Islamist leader executed for crimes against humanity during the 1971
 ## References
 
 [^1]: Wikipedia, "Ali Ahsan Mohammad Mojaheed" - https://en.wikipedia.org/wiki/Ali_Ahsan_Mohammad_Mojaheed
+
+## Overview
+Ali Ahsan Mohammad Mojaheed was a Bangladeshi politician associated with Jamaat-e-Islami who was convicted and executed for crimes connected to Bangladesh’s 1971 Liberation War.
+
+## Context: 1971 and accountability
+- The 1971 war involved mass violence and severe human rights abuses.
+- Decades later, Bangladesh pursued war-crimes trials through domestic judicial processes that remained politically contentious.
+
+## Legal and political significance
+- Supporters framed the trials as long-delayed accountability.
+- Critics raised concerns about due process and political polarization.
+
+## Why it remains debated
+The legacy of 1971 continues to shape political identity and public memory in Bangladesh, making these prosecutions a recurring point of national controversy.

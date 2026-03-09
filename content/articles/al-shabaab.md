@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Shabaab"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 See Ahmed Abdi Godane. Somali militant group. Duplicate entry.

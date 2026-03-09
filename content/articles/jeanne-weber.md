@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeanne_Weber"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 French serial killer known as 'The Ogress' who strangled children including her own nephews.

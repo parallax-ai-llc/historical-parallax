@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeff_Fort"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Leader of the El Rukn gang convicted of conspiring with Libya to commit terrorism in the United States.

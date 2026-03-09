@@ -75,3 +75,19 @@ Repeat escapes typically become a major part of criminal notoriety because they 
 ## Sources & Verification Notes
 
 - The reference link in this file points to a Wikipedia URL. At times, Wikipedia pages can be renamed, merged, deleted, or temporarily unavailable; when expanding this article further, prefer adding **stable secondary sources** (books, reputable journalism) or **primary records** where available.
+
+## Overview
+Alfredo Ríos Galeana is a Mexican criminal figure known in public reporting for high-profile robberies and repeated escapes from custody.
+
+## Why he is notable
+- Often described as a bank robber whose escapes became symbols of institutional weakness.
+- His story is cited in discussions about prison security, corruption, and challenges for law enforcement.
+
+## Public narrative and limitations
+- Popular accounts emphasize daring escapes and a prolonged pursuit.
+- Details can vary by source; careful writing should separate documented facts from folklore.
+
+## Themes and context
+- Prison administration and corruption risks.
+- How notoriety is amplified through media attention.
+- The relationship between organized crime networks and weak oversight.

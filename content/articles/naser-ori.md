@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Naser_Ori%C4%87"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,24 @@ Bosnian military commander who defended Srebrenica before its fall and was charg
 ## References
 
 [^1]: Wikipedia, "Naser Orić" - https://en.wikipedia.org/wiki/Naser_Ori%C4%87
+
+## Historical Context
+
+Orić’s name is closely tied to the Bosnian War and to Srebrenica, a location that later became globally recognized as a symbol of mass atrocity and the limits of international protection. Accounts of events in and around Srebrenica are highly contested in regional politics and memory.
+
+## Legal and Political Afterlife
+
+- International tribunal cases can take years and often hinge on standards of command responsibility, witness credibility, and the availability of documentary evidence.
+- Even when an individual is acquitted, public controversy may persist because legal findings do not automatically resolve broader political narratives.
+- Orić has therefore been referenced both in discussions of wartime defense and in accusations regarding abuses against prisoners and civilians.
+
+## Notes on Terminology
+
+This page uses short labels for readability, but the events described relate to complex legal categories under international humanitarian law. Readers should consult the referenced sources for the specific charges, procedural history, and appellate reasoning.
+
+## Related Topics
+
+- International Criminal Tribunal for the former Yugoslavia (ICTY)
+- Command responsibility
+- Srebrenica in postwar memory
+- Post-conflict justice and reconciliation

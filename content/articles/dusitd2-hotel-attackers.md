@@ -64,3 +64,25 @@ The timeline above is retained as originally written; this addendum provides a s
 
 [^2]: Wikipedia, "2019 Nairobi attack" - https://en.wikipedia.org/wiki/2019_Nairobi_attack
 [^3]: Wikipedia, "Al-Shabaab (militant group)" - https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group)
+
+## How This Entry Is Typically Used
+
+This page functions primarily as a **pointer entry** for an incident where:
+
+- the event itself (timing, location, casualties, and response) is well covered in summaries, and
+- individual-level biographies of perpetrators are either limited, inconsistently reported, or not treated as central to most mainstream references.
+
+In that context, the collective label helps connect readers to:
+
+- the main incident write-up (2019 Nairobi / DusitD2 / 14 Riverside attack), and
+- the broader organizational profile (Al-Shabaab).[^2][^3]
+
+## Terminology and Caution
+
+- **"Attackers" vs. "suspects"**: When sources differ on identities, it is safer to distinguish between confirmed perpetrators and people arrested or accused in later investigations.
+- **Attribution**: Al-Shabaab claimed responsibility in public messaging; attribution is commonly reported through those claims and through official statements summarized in secondary sources.[^2][^3]
+
+## External Links
+
+- Incident overview: https://en.wikipedia.org/wiki/2019_Nairobi_attack
+- Al-Shabaab: https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group)

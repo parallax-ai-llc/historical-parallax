@@ -8,7 +8,7 @@ occupation: ["Financier", "Industrialist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_K._Vanderbilt"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,6 +25,27 @@ William Kissam Vanderbilt was an American member of the Vanderbilt family who se
 | 1892 | Built Marble House in Newport, Rhode Island |
 | 1903 | Divorced and married Anne Harriman Sands Rutherford |
 | 1920 | Died in Paris, France |
+
+## Business and Social Context
+
+As part of the Vanderbilt dynasty, William Kissam Vanderbilt belonged to a family whose wealth was closely tied to rail transportation and the consolidation of industrial-era infrastructure in the United States. His roles as a railroad director reflected the era's intersection of finance, corporate governance, and large-scale logistics.
+
+## Architecture and Patronage
+
+Vanderbilt is remembered in popular history largely through the residences he commissioned, which became emblematic of Gilded Age display and taste.
+
+- The Petit Chateau on Fifth Avenue was associated with New York's high-society culture in the late 19th century.
+- Marble House in Newport is frequently cited as an icon of American "summer cottage" architecture and elite leisure culture.
+
+These projects are often discussed not only as private homes but also as cultural statements about wealth, status, and American aspirations at the time.
+
+## Legacy
+
+Vanderbilt's life illustrates how family capital and social networks shaped business influence in the late-1800s United States. The buildings connected to his name remain points of interest in architectural history and public memory of the Gilded Age.
+
+## Further Notes
+
+Accounts of Vanderbilt’s life are often used as case studies of how industrial-era fortunes translated into cultural capital through architecture, travel, and elite social institutions.
 
 ## References
 

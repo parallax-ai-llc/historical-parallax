@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heng_Samrin"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,3 +25,28 @@ Former Khmer Rouge division commander who later became head of state after the V
 ## References
 
 [^1]: Wikipedia, "Heng Samrin" - https://en.wikipedia.org/wiki/Heng_Samrin
+
+## Additional Context
+
+- Heng Samrin is a long-serving Cambodian political figure associated with the post-1979 government that replaced the Khmer Rouge.
+- He is often discussed in the context of defections from the Khmer Rouge and the reconstitution of a new ruling coalition aligned with Vietnam.
+
+## Role During and After the Khmer Rouge Era (High-Level)
+
+- Accounts describe him as having held command responsibilities during the Khmer Rouge period, followed by a break with the movement.
+- After the Vietnamese intervention in late 1978 and the fall of Democratic Kampuchea, he became a senior leader in the new state structure.
+
+## Political Career
+
+- He served as a de facto head of state figure in the People's Republic of Kampuchea and later the State of Cambodia during the transition years.
+- In later decades, he continued to hold high office, including leadership roles in the National Assembly.
+
+## Controversy and Accountability Debates
+
+- Because many post-1979 leaders had prior Khmer Rouge affiliations, Cambodian politics has faced recurring debates over responsibility, vetting, and transitional justice.
+- These debates are complicated by the reality that defections were central to building a government capable of defeating and administering territory after the Khmer Rouge collapse.
+
+## Why He Matters (High-Level)
+
+- Samrin's trajectory illustrates how revolutionary movements can fragment, and how former insiders can become pillars of successor regimes.
+- His career is also a case study in the tradeoffs between political stabilization and retrospective accountability after mass-atrocity periods.

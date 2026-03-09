@@ -55,3 +55,9 @@ The single dated entry (1995) should be treated as a placeholder indicator that 
 
 [^1]: Wikipedia title URL (no active article visible as of 2026-03-02): https://en.wikipedia.org/wiki/Hiram_Nakamura
 [^2]: National Police Agency (Japan), English portal (general background on policing and publications): https://www.npa.go.jp/english/
+
+## Data Hygiene (why this entry is conservative)
+
+- When a biography page does not exist (or has been deleted/merged), secondary sites sometimes propagate **stale or fabricated summaries**.
+- For organized-crime figures, names may represent **aliases**, transliterations, or conflations across multiple individuals.
+- If stronger sources become available (court records, major-reputation journalism, academic histories), this entry should be revised to separate **confirmed facts** from **attributed claims**.

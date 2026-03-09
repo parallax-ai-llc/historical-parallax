@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sudesh_Amman"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,27 @@ British terrorist who stabbed two people in Streatham, London, just 10 days afte
 ## References
 
 [^1]: Wikipedia, "Sudesh Amman" - https://en.wikipedia.org/wiki/Sudesh_Amman
+
+## Additional Context
+
+### Background
+
+Sudesh Amman became known in the UK due to his involvement in extremist-related activity at a young age and subsequent conviction for terrorism-related offenses. His case later drew attention because the Streatham attack occurred shortly after his release from prison under existing sentencing and release rules.
+
+### Streatham Attack (2020)
+
+- The attack involved a stabbing in a busy public area.
+- Amman wore what was described as a hoax explosive device, which increased public fear and complicated immediate response.
+- Undercover police officers who had been monitoring him intervened and shot him at the scene.
+
+### Policy and Security Significance
+
+The incident became part of a broader public debate about:
+
+- risk assessment and monitoring of terrorism offenders after release,
+- the use of surveillance and armed response in public spaces,
+- changes to sentencing and early-release policies for serious terrorist crimes.
+
+### Notes
+
+Public accounts emphasize that the speed of the attack and the presence of armed surveillance teams were central to limiting further casualties.

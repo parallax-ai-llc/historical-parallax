@@ -8,7 +8,7 @@ occupation: ["Organized Crime"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arellano_F%C3%A9lix_Brothers"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,25 @@ Mexican crime family that led the Tijuana Cartel, one of Mexico's most powerful 
 ## References
 
 [^1]: Wikipedia, "Arellano Félix Brothers" - https://en.wikipedia.org/wiki/Arellano_F%C3%A9lix_Brothers
+
+## Origins and Organization
+
+The Arellano Félix brothers were associated with the leadership of the Tijuana Cartel (also known as the Arellano Félix Organization), which operated from the Baja California region and controlled key trafficking corridors along the U.S.–Mexico border. Their rise is often linked to the fragmentation of larger Mexican trafficking networks in the late 1980s and early 1990s.
+
+## Operations and Rivalries
+
+During the 1990s the organization was known for moving cocaine and other drugs into the United States and for intense competition with rival cartels seeking access to border routes. Violence, corruption, and the use of armed enforcers were recurring features of this period in Mexico's drug war.
+
+## Law Enforcement Pressure and Decline
+
+High-profile investigations in Mexico and the United States, combined with arrests, killings, and internal fractures, weakened the group over time. The deaths or capture of key figures (including Ramón and Benjamin Arellano Félix) are commonly cited as turning points, after which rival organizations expanded influence in the region.
+
+## Broader Impact
+
+The history of the Arellano Félix Organization is frequently referenced in studies of transnational organized crime, border security, and the evolution of cartel structures. It also illustrates how control of logistics corridors can shape patterns of conflict between criminal groups.
+
+## See Also
+
+- Tijuana Cartel
+- Mexican Drug War
+- Sinaloa Cartel

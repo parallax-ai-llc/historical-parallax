@@ -42,6 +42,15 @@ Already covered as Martin Bryant.
 - It is widely associated with the National Firearms Agreement (1996) and subsequent firearm regulation changes, including buyback measures and tighter licensing.
 - The case is frequently cited in comparative policy debates about the relationship between mass-casualty events, political consensus-building, and regulatory reform.
 
+## Themes (high level)
+- **Policy response**: How rapid national coordination can occur after a mass-casualty event when federal and state governments align on a framework.
+- **Implementation**: The role of licensing systems, registration, and buyback programs in changing firearm availability.
+- **Public memory**: The way a single event can become a reference point for later debates about prevention and regulation.
+
+## Documentation notes
+- For summary purposes, the most stable factual anchors are (a) court outcomes, (b) the text and implementation history of the National Firearms Agreement, and (c) reputable institutional histories.
+- Claims about motive, psychological assessment, or disputed details should be attributed carefully and separated from sentencing facts.
+
 ## Notes
 - This entry intentionally stays at a factual, non-graphic level and prioritizes court outcomes and historical consequences.
 

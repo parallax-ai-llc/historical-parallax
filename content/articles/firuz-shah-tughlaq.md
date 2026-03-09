@@ -8,7 +8,7 @@ occupation: ["Historical Criminal", "Persecutor"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Firuz_Shah_Tughlaq"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,3 +25,27 @@ Delhi Sultanate ruler who is recorded as having persecuted Hindus and destroyed 
 ## References
 
 [^1]: Wikipedia, "Firuz Shah Tughlaq" - https://en.wikipedia.org/wiki/Firuz_Shah_Tughlaq
+
+## Historical Context
+
+- Firuz Shah Tughlaq ruled the Delhi Sultanate in the 14th century, a period marked by court factionalism, regional revolts, and fluctuating state capacity.
+- Medieval chroniclers are a major source for descriptions of policy and religious enforcement; interpretations often vary depending on the author and later historiography.
+
+## Governance and Policy Themes
+
+- Administration and revenue: accounts describe a focus on tax policy, state projects, and efforts to stabilize governance after prior turmoil.
+- Religious policy: multiple sources record discriminatory treatment of non-Muslim subjects, including punitive measures and destruction of religious sites in certain contexts.
+
+## Public Works and Statecraft (as commonly described)
+
+- Urban and irrigation works: rulers of the era are frequently associated with canals, fortifications, and new settlements intended to support agriculture and logistics.
+- Patronage: the sultanate court relied on grants and appointments that tied military elites and administrators to the regime.
+
+## Legacy and Modern Discussion
+
+- Firuz Shah's reputation is contested: some narratives emphasize construction and administration, while others foreground persecution and coercive religious policy.
+- Modern scholarship often treats such reigns through multiple lenses—state-building, ideology, and violence—rather than a single-dimensional account.
+
+## Notes
+
+This page provides a high-level overview; detailed evaluation depends on specific primary sources and modern academic interpretations.

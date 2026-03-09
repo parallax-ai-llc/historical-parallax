@@ -11,6 +11,7 @@ socialLinks:
 lastUpdated: "2026-02-26"
 ---
 
+
 ## Summary
 
 Leader of the Norte del Valle Cartel captured after a massive manhunt.

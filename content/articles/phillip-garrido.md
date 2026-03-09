@@ -58,6 +58,14 @@ Phillip Garrido kidnapped 11-year-old Jaycee Dugard in 1991 and held her captive
   - **Missing-person investigations** and the possibility of prolonged captivity
 - Jaycee Dugard later published memoirs and participated in advocacy/public education on survivor experiences.
 
+## Context (high-level)
+- Long-term abduction cases are often analyzed through the lens of coercive control, concealment, and missed opportunities in earlier contacts with institutions.
+- Public-interest discussions tend to separate (a) what is established in court records from (b) broader systemic critiques (e.g., parole supervision, investigative resourcing).
+
+## Documentation notes
+- For factual claims about supervision or system failures, the most reliable sources are sentencing documents, parole records (where public), and official investigative reviews.
+- Survivor-focused accounts (memoirs, interviews) can provide experiential detail but should be distinguished from adjudicated facts when summarizing criminal responsibility.
+
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, “Kidnapping of Jaycee Dugard,” *Wikipedia* (accessed 2026-02-26): https://en.wikipedia.org/wiki/Kidnapping_of_Jaycee_Dugard

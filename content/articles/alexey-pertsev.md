@@ -61,3 +61,22 @@ Tornado Cash developer convicted in Netherlands of money laundering via the cryp
 ## References
 
 [^1]: Wikipedia, "Alexey Pertsev" - https://en.wikipedia.org/wiki/Alexey_Pertsev
+
+## Overview
+Alexey Pertsev is a developer associated with Tornado Cash, a cryptocurrency mixing service used for privacy-preserving transactions and also alleged to have been used for laundering illicit funds.
+
+## Why he is notable
+- Tornado Cash became a focal point for policy and law-enforcement attention around cryptocurrency money laundering.
+- The case is frequently discussed in connection with the question of developer responsibility for software that can be misused.
+
+## Key legal developments (high level)
+- Pertsev was arrested in the Netherlands in 2022 in relation to allegations involving facilitating money laundering.
+- Dutch proceedings have included disputes about pre-trial detention and how to evaluate intent, control, and contribution when the subject is software.
+
+## Broader context
+“Mixers” and similar privacy tools can protect lawful users, but they can also complicate tracing of funds from hacks, sanctions evasion, and other financial crime.
+
+## What to verify in reporting
+- Whether claims refer to smart contracts, a web interface, relay infrastructure, or identifiable operators.
+- The specific alleged predicate crimes connected to the laundering allegations.
+- The degree of practical control or influence attributed to developers.

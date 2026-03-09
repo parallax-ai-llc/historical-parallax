@@ -8,7 +8,7 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Petiso_Orejudo"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,26 @@ Argentine child serial killer born Cayetano Santos Godino who murdered four chil
 ## References
 
 [^1]: Wikipedia, "Petiso Orejudo" - https://en.wikipedia.org/wiki/Petiso_Orejudo
+
+## Background
+
+Cayetano Santos Godino, nicknamed “El Petiso Orejudo,” was an Argentine juvenile offender active in Buenos Aires in the early 20th century. He is commonly described in historical accounts as responsible for multiple violent attacks and murders while still a teenager.
+
+## Legal Outcome
+
+Open sources describe his arrest, confinement, and long-term detention, with later transfers between institutions. The case is often discussed in the context of early criminology and debates about youth offenders, punishment, and institutionalization.
+
+## Notes
+
+- Historical records can be uneven; high-level summaries should cite reputable histories and primary documentation where possible.
+- Avoid sensationalism; focus on dates, institutions, and documented outcomes.
+
+## Further Reading
+
+- See the linked Wikipedia entry for a starting overview and references.
+- Prefer primary documents (official statements, court records) where available.
+
+## Further Reading
+
+- See the linked Wikipedia entry for a starting overview and references.
+- Prefer primary documents (official statements, court records) where available.

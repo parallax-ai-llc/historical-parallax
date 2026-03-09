@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hernando_de_Magallanes"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Already covered as Ferdinand Magellan.

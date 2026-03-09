@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heysel_Stadium_Disaster"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 39 people, mostly Italian fans, were crushed when a wall collapsed after Liverpool fans charged at them before the European Cup Final. English clubs were banned from European competition for 5 years.

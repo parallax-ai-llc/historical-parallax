@@ -52,6 +52,13 @@ Los Pepes (People Persecuted by Pablo Escobar) was a vigilante group that target
   - the ethics and consequences of **vigilante/paramilitary collaboration** against a common enemy,
   - and how cartels leveraged **proxy violence** to reshape the competitive landscape.
 
+## Ethical and legal debates (high level)
+- In many countries, vigilantism and paramilitary action raise questions about:
+  - due process and the rule of law,
+  - civilian harm and collective punishment,
+  - and long-run institutional consequences when non-state violence is tolerated.
+- Discussions of Los Pepes often sit inside broader debates about whether “ends justify means” in counter-cartel campaigns.
+
 ## Notes on Sources
 - Public narratives rely heavily on **journalistic reporting**, **testimony**, and **retrospective investigations**, which can conflict.
 - For a careful read, compare **multiple independent accounts** and distinguish between documented events and attribution claims.

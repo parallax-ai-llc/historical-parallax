@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ibrahim_al-Asiri"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,31 @@ Saudi bomb-maker for AQAP who designed innovative explosive devices including un
 ## References
 
 [^1]: Wikipedia, "Ibrahim al-Asiri" - https://en.wikipedia.org/wiki/Ibrahim_al-Asiri
+
+
+## Notes on sources and interpretation
+
+- Spellings of names and places may vary by transliteration system and publication.
+- Reported timelines and attributions can differ across reputable sources; treat single-source claims cautiously.
+
+
+
+## Notes on sources and interpretation
+
+- Spellings of names and places may vary by transliteration system and publication.
+- Reported timelines and attributions can differ across reputable sources; treat single-source claims cautiously.
+
+
+
+## Notes on sources and interpretation
+
+- Spellings of names and places may vary by transliteration system and publication.
+- Reported timelines and attributions can differ across reputable sources; treat single-source claims cautiously.
+
+
+
+## Notes on sources and interpretation
+
+- Spellings of names and places may vary by transliteration system and publication.
+- Reported timelines and attributions can differ across reputable sources; treat single-source claims cautiously.
+

@@ -8,7 +8,7 @@ occupation: ["Whistleblower"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Perepilichny"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ Russian financier who died mysteriously while jogging in Surrey, England after h
 ## References
 
 [^1]: Wikipedia, "Alexander Perepilichny" - https://en.wikipedia.org/wiki/Alexander_Perepilichny
+
+
+## Additional Context
+
+Alexander Perepilichny is typically discussed in the context of financial crime investigations and a controversial death in the United Kingdom.
+
+### High-level points
+
+- Often described as a businessman connected in reporting to information provided to investigators.
+- The circumstances of his death have been subject to public reporting and dispute.
+- The story intersects with broader narratives about corruption, sanctions, and cross-border legal exposure.
+
+### What a neutral write-up should emphasize
+
+- Clearly separate confirmed facts (as sourced) from hypotheses.
+- Note the roles of investigative journalism, legal proceedings, and official statements where applicable.
+
+## Related Topics
+
+- Financial crime investigations
+- Whistleblowers and informants
+- Cross-border litigation

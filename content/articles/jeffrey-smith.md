@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeffrey_Smith"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Metropolitan Police officer who died by suicide after responding to the January 6 Capitol attack.

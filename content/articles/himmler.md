@@ -49,3 +49,15 @@ Duplicate consolidated.
 ## References
 
 [^1]: Wikipedia, "Himmler" - https://en.wikipedia.org/wiki/Himmler
+
+## Additional Context (high-level)
+
+### Institutional Architecture
+
+- Under Himmler, the SS developed multiple overlapping branches (general SS, Waffen-SS, police structures, intelligence/security offices), which helped it **accumulate power** and reduce external oversight.
+- The concentration camp system expanded into a network that served ideological, political, and economic functions—repression, forced labor, and extraction—administered through SS bureaucracies.
+
+### End of War
+
+- As the Third Reich collapsed, internal rivalries intensified and late-war maneuvering included attempts by some leaders to secure postwar survival.
+- Himmler’s suicide after capture is commonly cited as an example of senior Nazi leaders avoiding legal accountability at the moment of defeat.

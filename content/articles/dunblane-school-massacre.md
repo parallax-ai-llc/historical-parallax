@@ -53,3 +53,21 @@ Thomas Hamilton shot dead 16 children and their teacher at Dunblane Primary Scho
 - In 1997, Parliament enacted major reforms that **effectively banned private ownership of most handguns** in Great Britain.
 - The Dunblane massacre is frequently cited in discussions of UK gun-control policy and its long-term effects.
 - Memorials and commemorations have remained central in Dunblane and across Scotland.
+
+## Public Response (High-Level)
+
+- The massacre prompted sustained public campaigning for tighter firearms controls in the UK.
+- One widely referenced element of the public response was the **Snowdrop Petition**, associated with bereaved families and supporters, which is often cited in accounts of the political momentum for reform.[^1]
+
+## Firearms Legislation (UK)
+
+High-level summaries commonly link Dunblane to the **Firearms (Amendment) Acts 1997**, which tightened restrictions and are often described as removing most handguns from private circulation in Great Britain.[^1]
+
+## Commemoration
+
+- Local remembrance practices in Dunblane have been described as careful and community-led, balancing mourning with privacy.
+- The event remains a reference point in UK discussions of mass violence, public safety, and firearms policy.[^1]
+
+## External Links
+
+- Wikipedia: https://en.wikipedia.org/wiki/Dunblane_school_massacre

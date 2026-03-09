@@ -8,7 +8,7 @@ occupation: ["Cybercriminal", "Spy"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandworm"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,26 @@ Russian military intelligence (GRU) cyber warfare unit also known as Unit 74455.
 ## References
 
 [^1]: Wikipedia, "Sandworm" - https://en.wikipedia.org/wiki/Sandworm
+
+## Identity and attribution
+
+"Sandworm" is a threat-actor label used by researchers and governments to describe a cluster of activity widely attributed to Russia's military intelligence service (GRU). Public attributions have referenced both technical evidence (malware tooling, infrastructure, tradecraft) and intelligence assessments.
+
+## Tactics and operations (high level)
+
+- **Disruptive intrusions:** Operations have included destructive or disruptive malware designed to degrade services, not merely steal data.
+- **Critical infrastructure targeting:** Ukraine has been a central focus in public reporting, including campaigns against energy and government entities.
+- **Global spillover:** The NotPetya incident is often cited as a case where a campaign aimed at one region produced outsized collateral damage worldwide.
+
+## Why it matters
+
+Sandworm is frequently used as a canonical example in cyber conflict analysis because it combines:
+
+- state-backed capability and resourcing
+- willingness to cause real-world disruption
+- broad strategic effects beyond the immediate target set
+
+## Related terms
+
+- GRU
+- state-sponsored cyber operations

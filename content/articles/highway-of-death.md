@@ -58,3 +58,8 @@ US forces bombed retreating Iraqi military and civilian vehicles on Highway 80 f
 
 - “Highway of Death” is a journalistic/popular label rather than an official operation name.
 - Some accounts distinguish between Highway 80 and adjacent routes; usage varies across sources.
+
+## Analytical Notes (high-level)
+
+- The event is often used in case studies about how **information (photos, video, later reporting)** can shape public perception of legality and morality in war.
+- Even when an action is argued to be militarily justified, the **symbolic power of imagery** can become strategically significant in hindsight.

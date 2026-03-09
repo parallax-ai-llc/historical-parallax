@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bahr_Idriss_Abu_Garda"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ Sudanese rebel leader charged by the ICC with war crimes for directing an attack
 ## References
 
 [^1]: Wikipedia, "Bahr Idriss Abu Garda" - https://en.wikipedia.org/wiki/Bahr_Idriss_Abu_Garda
+
+## Background
+
+Abu Garda is associated with armed opposition movements connected to the conflict in **Darfur**, a region where multiple rebel factions, government forces, and militias were involved in prolonged violence and displacement.
+
+## ICC Proceedings (High Level)
+
+The International Criminal Court (ICC) process involving Abu Garda is often cited because he **voluntarily appeared** before the Court. The case also illustrates how the ICC’s pre-trial phase works:
+
+- prosecutors present evidence to support charges
+- a pre-trial chamber evaluates whether the evidence meets the standard to confirm charges for trial
+- charges may be confirmed, amended, or not confirmed
+
+In this instance, the pre-trial chamber did not confirm the charges listed in the warrant application.
+
+## Significance
+
+The episode is frequently used to explain:
+
+- the limits and evidentiary thresholds of international criminal proceedings
+- the political and security context that affects cooperation with international courts
+- how allegations of attacks on peacekeepers can become focal points in conflict accountability debates

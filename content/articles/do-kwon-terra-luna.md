@@ -8,7 +8,7 @@ occupation: ["Con Artist", "Cybercriminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Do_Kwon_Terra_Luna"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,26 @@ South Korean cryptocurrency entrepreneur whose TerraUSD and Luna tokens collapse
 ## References
 
 [^1]: Wikipedia, "Do Kwon Terra Luna" - https://en.wikipedia.org/wiki/Do_Kwon_Terra_Luna
+
+## Terra Ecosystem (High-Level)
+
+- TerraUSD (UST) was designed as an **algorithmic stablecoin**, aiming to maintain a peg through on-chain mechanisms rather than fully backed reserves.
+- LUNA functioned as a related token within the design, used in stabilization and governance narratives.
+
+## Collapse and Market Impact
+
+- The May 2022 de-pegging and subsequent collapse became a major stress event for the crypto sector.
+- Losses were widely reported across retail holders, funds, and crypto-lending/market-making firms that had exposure.
+
+## Investigations and Legal Proceedings
+
+- After the collapse, regulators and prosecutors in multiple jurisdictions publicly described investigations and filed charges.
+- The specific legal outcomes depend on court proceedings; public allegations and indictments are not the same as convictions.
+
+## Why the Episode Matters
+
+The Terra/Luna collapse is often used as a case study in the risks of algorithmic stabilization designs, reflexive market dynamics, and the difficulty of risk communication in rapidly growing financial-technology ecosystems.
+
+## See also
+
+- Algorithmic stablecoin

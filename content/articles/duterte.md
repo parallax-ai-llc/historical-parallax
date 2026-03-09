@@ -53,3 +53,34 @@ Duterte’s legacy is widely debated: supporters credit reduced visible street c
 ## References
 
 [^1]: Wikipedia, "Duterte" - https://en.wikipedia.org/wiki/Duterte
+
+## Disambiguation
+
+This entry uses the short form **"Duterte"** as a pointer. Most detailed biographical coverage is under **Rodrigo Duterte** in standard references.[^1]
+
+## Accountability and Investigations (High-Level)
+
+Public reporting and reference summaries frequently note international and domestic scrutiny of killings associated with the anti-drug campaign.
+
+- Some overviews discuss engagement with international mechanisms (including references to the International Criminal Court in secondary sources), while the status and scope of proceedings can evolve over time.
+- For readers seeking the most current procedural status, consult official statements and up-to-date reporting; this article keeps the discussion high-level to avoid overclaiming beyond stable summaries.[^1]
+
+## Related Entries
+
+- **Rodrigo Duterte** (canonical biography)
+- **Philippine drug war**
+- **Ferdinand Marcos Jr.**
+
+## External Links
+
+- Wikipedia: https://en.wikipedia.org/wiki/Duterte
+
+## Common Descriptors in Coverage
+
+In mainstream summaries, Duterte is frequently characterized in terms of:
+
+- **populism and "law-and-order" politics**,
+- **institutional and human-rights controversy** tied to the anti-drug campaign,
+- and a foreign-policy posture described as more flexible or less traditionally aligned than prior administrations.
+
+(These are descriptors of coverage patterns rather than endorsements of any specific framing.)[^1]

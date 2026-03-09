@@ -57,3 +57,18 @@ A fishing trawler carrying up to 750 migrants sank off the Greek coast killing a
 [^2]: UNHCR (UN Refugee Agency) statements and situation updates on the Pylos shipwreck (June 2023).
 [^3]: International Organization for Migration (IOM), Missing Migrants Project entries and Mediterranean migration reporting.
 [^4]: Amnesty International and other human-rights organizations’ reporting calling for investigation and accountability (2023–2024).
+
+## Overview
+The 2023 Greek migrant shipwreck refers to a deadly maritime disaster involving people attempting to cross the Mediterranean. It renewed international attention on the risks of irregular sea migration routes, the role of smuggling networks, and the responsibilities of states and maritime authorities in search-and-rescue situations.
+
+## Broader context
+Mediterranean crossings have been among the most dangerous migration routes globally. Factors often cited include overcrowded vessels, unseaworthy boats, limited safety equipment, and delayed or disputed rescue efforts.
+
+## Search and rescue and accountability
+After major shipwrecks, discussion and investigation commonly focus on:
+- The timeline of sightings, distress communications, and official responses.
+- Survivors’ testimonies and the role of smugglers or intermediaries.
+- Whether assistance was adequate, timely, and consistent with legal obligations.
+
+## Humanitarian impact
+Beyond immediate loss of life, such disasters affect families across multiple countries and can prompt renewed calls for safer pathways, improved rescue capacity, and coordinated international policy.

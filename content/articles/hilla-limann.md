@@ -8,7 +8,7 @@ occupation: ["Corrupt Politician"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hilla_Limann"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,3 +25,29 @@ President of Ghana whose Third Republic was overthrown by Jerry Rawlings for cor
 ## References
 
 [^1]: Wikipedia, "Hilla Limann" - https://en.wikipedia.org/wiki/Hilla_Limann
+
+## Early life and career
+
+Limann was a Ghanaian politician and diplomat who became a leading figure in the People's National Party (PNP) during Ghana's transition back to civilian rule in the late 1970s.
+
+## Presidency and the Third Republic
+
+He served as President of Ghana from 1979 to 1981, during the period known as the Third Republic. His government faced acute economic pressures, including inflation, shortages, and fiscal constraints.
+
+## 1981 coup
+
+On 31 December 1981, Flight Lieutenant Jerry John Rawlings led a coup that overthrew Limann's civilian administration. Rawlings and coup supporters cited mismanagement and corruption among their justifications, a claim that remains part of the political narrative of the period.
+
+## Historical assessment
+
+Academic and journalistic accounts often frame Limann's short tenure as constrained by inherited economic problems and institutional instability, with debates about the extent and nature of corruption during the era.
+
+## Related topics
+
+- Jerry John Rawlings
+- Third Republic of Ghana
+- People's National Party (Ghana)
+
+## Notes
+
+Coup-era statements are an important source, but they should be weighed against later historical research.

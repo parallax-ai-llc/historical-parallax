@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Uwe_B%C3%B6hnhardt"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,26 @@ German neo-Nazi terrorist and member of the NSU who personally carried out most 
 ## References
 
 [^1]: Wikipedia, "Uwe Böhnhardt" - https://en.wikipedia.org/wiki/Uwe_B%C3%B6hnhardt
+
+## Background
+
+- Böhnhardt emerged from the neo-Nazi milieu in Thuringia in the 1990s.
+- He became part of the core NSU trio together with Uwe Mundlos and Beate Zschäpe.
+- After going underground, the group used false identities and relied on support networks.
+
+## NSU crimes (high-level)
+
+- The NSU was linked to a series of murders, bombings, and bank robberies in Germany.
+- Most victims of the murders were immigrants; the killings remained unsolved for years.
+- The group’s robberies helped finance life underground and other activities.
+
+## 2011 discovery and deaths
+
+- The NSU case came to light in 2011 after a failed bank robbery and police pursuit.
+- Böhnhardt and Mundlos were found dead in a camper van in Eisenach.
+- The exposure of the NSU prompted major public scrutiny of investigative failures.
+
+## Significance
+
+- The NSU revelations led to parliamentary inquiries and extensive debate over far-right violence.
+- The case is frequently cited in discussions of intelligence oversight and policing of extremist networks.

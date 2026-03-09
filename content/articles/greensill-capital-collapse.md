@@ -58,3 +58,18 @@ Supply chain finance firm whose collapse exposed political cronyism and cost inv
 - Receivables securitization
 - Credit insurance dependence
 - Liquidity runs in non-bank finance
+
+## Overview
+The Greensill Capital collapse refers to the failure of a supply-chain finance firm whose rapid growth and subsequent insolvency affected investors, corporate borrowers, and financial institutions. The episode is often cited as a case study in financial opacity, concentration risk, and the fragility of structures dependent on a small number of funding and insurance counterparties.
+
+## Supply-chain finance (high level)
+Supply-chain finance can allow suppliers to be paid earlier, with a financier providing funds and later collecting from a buyer. In practice, arrangements can become complex when receivables are repackaged into investment products or when future receivables are treated as financeable assets.
+
+## Themes in coverage
+Analysis and reporting commonly emphasize:
+- Reliance on short-term funding and continued investor demand.
+- The role of credit insurance and questions about underlying asset quality.
+- Governance and disclosure issues, including how exposures are presented to clients and regulators.
+
+## Aftermath
+Such failures often trigger litigation, regulatory scrutiny, and reputational damage for associated firms. Longer-term discussion often focuses on transparency and oversight in non-bank financial intermediation.

@@ -8,7 +8,7 @@ occupation: ["Physician", "Pharmacologist", "Botanist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedanius_Dioscorides"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,26 @@ Pedanius Dioscorides wrote De Materia Medica, the most influential pharmacologic
 ## References
 
 [^1]: Wikipedia, "Pedanius Dioscorides" - https://en.wikipedia.org/wiki/Pedanius_Dioscorides
+
+## De Materia Medica
+
+De Materia Medica is a five-volume work that systematized medicinal knowledge of the ancient Mediterranean world. It cataloged substances of plant, animal, and mineral origin, describing preparation methods, dosages (as understood at the time), and therapeutic uses.
+
+## Method and Sources
+
+Dioscorides' approach combined earlier written traditions with practical experience. His service as a military physician likely exposed him to a wide range of regional remedies and trade goods, helping explain the breadth of the text and its attention to identification and adulteration.
+
+## Transmission and Influence
+
+The work circulated widely in Greek and was translated into other languages, including Latin and Arabic, becoming a core reference in medieval and Renaissance medicine. Illustrated manuscripts played a major role in preserving and interpreting the text, influencing botanical illustration and the development of herbals.
+
+## Place in the History of Science
+
+Although ancient pharmacology differed substantially from modern biomedical standards, Dioscorides is often credited with shaping the genre of the pharmacopeia: organizing materia medica in a way that could be consulted by practitioners. Many later authors referenced or adapted his classifications and descriptions.
+
+## See Also
+
+- Herbalism
+- History of medicine
+- Pharmacopeia
+- Ancient Greek medicine

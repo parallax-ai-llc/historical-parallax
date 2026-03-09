@@ -54,3 +54,18 @@ Former police officer convicted of murdering Ahmaud Arbery alongside his son.
 ## Additional references
 
 [^2]: Wikipedia, "Murder of Ahmaud Arbery" - https://en.wikipedia.org/wiki/Murder_of_Ahmaud_Arbery
+
+## Overview
+Gregory McMichael is an American man known publicly in connection with the killing of Ahmaud Arbery in Georgia. The case became a major national story in the United States and was widely discussed in relation to racism, the criminal justice system, and the use (and misuse) of citizen’s-arrest concepts.
+
+## Public significance
+The incident drew wide attention after video of the killing circulated and after questions were raised about the timing and handling of the early investigation.
+
+## Legal and social context
+High-profile homicide cases like this often intersect with:
+- Debates over self-defense claims and the limits of civilian pursuit or detention.
+- The role of prosecutorial discretion and potential conflicts of interest.
+- Broader civil-rights concerns and public protest.
+
+## Aftermath
+The case is frequently cited in discussions of legal reform, including changes to citizen’s-arrest laws and calls for more transparent investigative procedures.

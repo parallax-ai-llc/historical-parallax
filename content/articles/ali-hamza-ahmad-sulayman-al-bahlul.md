@@ -57,3 +57,17 @@ Al-Qaeda propagandist convicted by US military tribunal of conspiracy and creati
 
 [^1]: Wikipedia, "Ali Hamza Ahmad Sulayman al-Bahlul" - https://en.wikipedia.org/wiki/Ali_Hamza_Ahmad_Sulayman_al-Bahlul
 [^2]: United States Court of Appeals for the D.C. Circuit (case history summarized via Wikipedia and linked citations) - https://en.wikipedia.org/wiki/Ali_Hamza_Ahmad_Sulayman_al-Bahlul
+
+## Overview
+Ali Hamza Ahmad Sulayman al-Bahlul is a Yemeni detainee held at Guantánamo Bay who was prosecuted in the U.S. military commission system.
+
+## Context: military commissions
+- The U.S. established military commissions to try certain terrorism-related cases outside the traditional federal court system.
+- The system has been marked by extensive litigation over jurisdiction, charges, evidence rules, and appellate review.
+
+## Why his case is notable
+- It is discussed in relation to how conspiracy and similar offenses are treated under the law-of-war framework.
+- Its procedural history is often used to illustrate the complexity and instability of the commission regime.
+
+## Broader significance
+The case is referenced in debates about national security law, detention policy, and the legal legacy of post-9/11 counterterrorism.

@@ -8,7 +8,7 @@ occupation: ["Journalist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Prageeth_Eknaligoda"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,26 @@ Sri Lankan journalist and cartoonist who was forcibly disappeared by Sri Lankan 
 ## References
 
 [^1]: Wikipedia, "Prageeth Eknaligoda" - https://en.wikipedia.org/wiki/Prageeth_Eknaligoda
+
+## Context
+
+- Eknaligoda’s disappearance is frequently cited in discussions of press freedom and accountability in Sri Lanka, especially in the post–civil war period.
+- Cases of enforced disappearance have been a major human-rights concern in Sri Lanka, with families often seeking truth and legal remedies over long time horizons.
+
+## Investigations and Legal Proceedings (High-Level)
+
+- Domestic investigations and court proceedings have periodically advanced, including arrests and alleged involvement of security personnel.
+- The case has drawn attention from civil society, media organizations, and international human-rights observers.
+
+## Legacy
+
+- Eknaligoda is remembered for his journalism and political cartoons, and for the symbolic role his case plays in debates over state power, dissent, and rule of law.
+
+## Notes
+
+This article summarizes widely reported claims and legal developments; consult court records and credible human-rights reporting for the most current procedural status.
+
+## See Also
+
+- Enforced disappearance
+- Human rights in Sri Lanka

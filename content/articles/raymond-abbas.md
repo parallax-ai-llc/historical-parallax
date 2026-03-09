@@ -8,7 +8,7 @@ occupation: ["Cybercriminal", "Organized Crime"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Raymond_Abbas"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,25 @@ Nigerian socialite known as Hushpuppi who ran a global online fraud network that
 ## References
 
 [^1]: Wikipedia, "Raymond Abbas" - https://en.wikipedia.org/wiki/Raymond_Abbas
+
+## Identity and Online Persona
+
+Abbas is widely known under the nickname "Hushpuppi" (also rendered as Hush/Hushpuppi in media). Wikipedia biographical material uses the name Ramon Olorunwa Abbas and describes a public-facing lifestyle and luxury brand built largely through social media.
+
+## Fraud Schemes (High-Level)
+
+Reporting summarized on Wikipedia ties the criminal case to business email compromise-style scams and related money-laundering activity, including large attempted thefts and high-value frauds against institutional victims.
+
+## Arrest and Sentencing
+
+- Arrested in Dubai in 2020 and extradited to the United States.
+- Pleaded guilty to conspiracy to launder money.
+- Sentenced in U.S. federal court to an 11-year prison term.
+
+[^2]: Wikipedia, "Hushpuppi" - https://en.wikipedia.org/wiki/Hushpuppi
+
+## Further Reading
+
+Wikipedia’s entry summarizes the allegations, victim profiles, and sentencing details used by U.S. prosecutors and the court.
+
+Related topics include business email compromise scams and money-laundering typologies.

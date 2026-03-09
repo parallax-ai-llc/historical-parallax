@@ -60,3 +60,17 @@ Reinado was killed during the attacks and is widely described as being among the
 ## References
 
 [^1]: Wikipedia, "Alfredo Reinado" - https://en.wikipedia.org/wiki/Alfredo_Reinado
+
+## Overview
+Alfredo Reinado (also reported as Alfredo Alves Reinado) was a Timor-Leste military figure who became a central actor during the 2006 political-military crisis and subsequent instability.
+
+## Background
+- Timor-Leste’s early post-independence period involved fragile institutions and internal tensions within the security forces.
+- Reinado became associated with soldiers who broke with the chain of command amid broader unrest.
+
+## Role in the crisis
+- He emerged as a prominent figure linked to armed dissent and negotiations with authorities.
+- Events around his activities were intertwined with debates about accountability, amnesties, and the role of international stabilization forces.
+
+## Broader significance
+The 2006 crisis is often studied as an early test of post-conflict state-building and civil–military relations in Timor-Leste.

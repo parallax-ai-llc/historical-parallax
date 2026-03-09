@@ -64,3 +64,30 @@ Al-Shabaab militants attacked the DusitD2 hotel complex in Nairobi killing 21 pe
 ## References (additional)
 
 [^2]: Wikipedia, "Al-Shabaab" - https://en.wikipedia.org/wiki/Al-Shabaab
+
+## Regional Security Context (High-Level)
+
+- Public summaries commonly place the DusitD2/14 Riverside attack within a broader pattern of Al-Shabaab attacks in East Africa, particularly actions aimed at Kenya.
+- The stated motivations in Al-Shabaab communications are often linked (in reporting) to Kenya’s role in regional military operations and security cooperation.[^2]
+
+## Operational Characteristics (High-Level)
+
+- The attack is often described as a **complex assault** combining an initial blast with an armed incursion.
+- Such incidents typically generate prolonged, uncertain conditions for civilians on-site, requiring coordinated evacuation, medical response, and building-clearing operations.
+
+## After-Action Themes Discussed Publicly
+
+Without asserting conclusions beyond public summaries, discussions after the attack frequently emphasized:
+
+- **Access control and screening** at mixed-use developments.
+- **Crisis communications** (public alerts, family reunification, and rumor control).
+- **Interoperability** among police, military, and specialized response units during multi-hour incidents.
+
+## Related Entries
+
+- **Al-Shabaab**
+- **Westgate shopping mall attack (2013)** (Kenya)
+
+## External Links
+
+- Wikipedia: https://en.wikipedia.org/wiki/Dusit_Hotel_Attack_2019

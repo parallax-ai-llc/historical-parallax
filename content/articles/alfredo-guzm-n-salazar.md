@@ -62,3 +62,20 @@ Son of El Chapo who co-leads Los Chapitos faction of the Sinaloa Cartel.
   - official court documents and indictments,
   - government press releases,
   - well-sourced investigative reporting with primary citations.
+
+## Overview
+Alfredo Guzmán Salazar is a member of the Guzmán family, which has been widely reported in media and law-enforcement contexts as central to the Sinaloa Cartel’s leadership and succession dynamics.
+
+## Context
+- The Sinaloa Cartel is one of Mexico’s best-known transnational criminal organizations, involved in large-scale drug trafficking.
+- International attention to the family increased after the U.S. prosecution and conviction of Joaquín “El Chapo” Guzmán.
+
+## What is commonly reported
+- Reporting often describes multiple sons of “El Chapo” (sometimes referred to collectively as “Los Chapitos”) as influential figures.
+- Coverage frequently emphasizes internal rivalries, state crackdowns, and disputes over trafficking routes and markets.
+
+## Important caveats
+Specific claims about roles, timelines, and operational responsibility can vary across sources; stronger versions of these claims should be cross-checked against court filings and official statements.
+
+## Broader significance
+High-profile cartel-family narratives are often used to discuss larger issues: state capacity, corruption risk, U.S.–Mexico security cooperation, and the evolution of synthetic-drug markets.

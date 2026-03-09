@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Herbert_Blaize"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Grenadian PM who presided over the controversial post-invasion trials after the 1983 US intervention.

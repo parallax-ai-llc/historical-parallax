@@ -44,6 +44,17 @@ Kenneth Noye was a British criminal involved in the Brink's-Mat gold laundering 
   - The risks faced by detectives investigating organized crime networks.
 - Noye's cases (Fordham and Cameron) are frequently cited for how different legal outcomes can arise from different evidentiary records and contexts.
 
+## Legal and investigative context (high level)
+- **Commodity laundering:** Gold and bullion crimes often involve melting, re-casting, or mixing stolen material into legitimate supply chains, making attribution difficult over time.
+- **Prosecution timelines:** Major organized-crime cases can span many years because investigations rely on financial tracing, informant testimony, and multi-agency coordination.
+- **Evidence constraints:** Outcomes such as acquittal vs. conviction frequently turn on specific fact patterns (e.g., forensics, eyewitness reliability, and self-defense claims) rather than general notoriety.
+- **Custody regimes:** The mention of an *open prison* reflects a custodial classification choice; escapes from lower-security settings are a recurring issue in corrections policy debates.
+
+## Themes for researchers
+- **Criminal networks vs. individuals:** Brink's-Mat narratives often emphasize how one robbery can generate long-lived downstream networks of handlers, financiers, and facilitators.
+- **Media framing:** High-profile cases can become shorthand for a wider period of organized crime, but journalistic accounts should be separated from court findings.
+- **Institutional lessons:** In retrospective analysis, such cases are frequently used to discuss investigative trade-offs, witness management, and the limits of asset recovery.
+
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Kenneth Noye," *Wikipedia, The Free Encyclopedia* (accessed 2026-02-26): https://en.wikipedia.org/wiki/Kenneth_Noye

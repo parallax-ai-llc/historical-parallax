@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Schweitzer"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Although celebrated, his African hospital maintained paternalistic colonial attitudes toward Africans.

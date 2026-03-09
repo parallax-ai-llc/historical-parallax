@@ -8,7 +8,7 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ivan_Pavlovich_Barakov"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,35 @@ Russian serial killer who murdered 8 women in the Belgorod region between 2002 a
 ## References
 
 [^1]: Wikipedia, "Ivan Pavlovich Barakov" - https://en.wikipedia.org/wiki/Ivan_Pavlovich_Barakov
+
+
+## Additional Context
+
+- **Geography and period**: The murders attributed to Barakov occurred over a decade in Russia's Belgorod region, a timeframe that can complicate investigations due to dispersed crime scenes.
+- **Investigation**: DNA profiling is described as the decisive link connecting multiple attacks and enabling attribution across cases.
+- **Judicial outcome**: Russian courts can impose life sentences for serial murder; in this case, a life term is reported following conviction.
+
+## Case Notes (High-Level)
+
+- Summaries characterize the victims as women targeted in the region over multiple years.
+- The case is often cited as an example of forensic evidence (DNA matches) overcoming limited early leads.
+
+## References (Additional)
+
+[^2]: Wikipedia, "Ivan Pavlovich Barakov" (case summary and legal outcome) - https://en.wikipedia.org/wiki/Ivan_Pavlovich_Barakov
+
+
+## Additional Context
+
+- **Geography and period**: The murders attributed to Barakov occurred over a decade in Russia's Belgorod region, a timeframe that can complicate investigations due to dispersed crime scenes.
+- **Investigation**: DNA profiling is described as the decisive link connecting multiple attacks and enabling attribution across cases.
+- **Judicial outcome**: Russian courts can impose life sentences for serial murder; in this case, a life term is reported following conviction.
+
+## Case Notes (High-Level)
+
+- Summaries characterize the victims as women targeted in the region over multiple years.
+- The case is often cited as an example of forensic evidence (DNA matches) overcoming limited early leads.
+
+## References (Additional)
+
+[^2]: Wikipedia, "Ivan Pavlovich Barakov" (case summary and legal outcome) - https://en.wikipedia.org/wiki/Ivan_Pavlovich_Barakov

@@ -55,3 +55,16 @@ Peter R. de Vries was a Dutch investigative journalist murdered in Amsterdam in 
 
 ## Additional References
 - Wikipedia: Peter R. de Vries — https://en.wikipedia.org/wiki/Peter_R._de_Vries
+
+## Context (high-level)
+- The Netherlands has seen multiple high-profile cases in which organized-crime prosecutions and witness protection became central public issues.
+- In such environments, journalists, lawyers, and witnesses can face elevated security risks due to intimidation and retaliation dynamics.
+
+## Themes commonly discussed in coverage
+- **Press freedom and safety**: How democracies protect journalists who cover organized crime and violence.
+- **Witness protection and legal security**: The practical limits of protective measures during major trials.
+- **Public trust in institutions**: How high-profile attacks can affect confidence in policing, prosecution, and courts.
+
+## Documentation notes
+- Public summaries typically distinguish between (a) established court findings and (b) allegations or investigative reporting.
+- When updating biographical entries like this, prioritize court documents and official statements for claims about motive, planning, and attribution.

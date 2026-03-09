@@ -64,3 +64,17 @@ High-level themes that frequently appear in accounts of Ekpemupolo’s influence
 ## References
 
 [^1]: Wikipedia, "Government Ekpemupolo" - https://en.wikipedia.org/wiki/Government_Ekpemupolo
+
+## Overview
+Government Ekpemupolo (often known by the nickname *Tompolo*) is a Nigerian figure associated in reporting with militancy and later security-related roles in the Niger Delta. Public accounts of his prominence are commonly tied to the wider history of unrest, oil-industry disputes, and amnesty-era politics in the region.
+
+## Context: Niger Delta politics and conflict
+The Niger Delta has experienced repeated cycles of conflict involving armed groups, state security forces, and the oil and gas industry. Coverage often connects these cycles to grievances about environmental impacts, local economic exclusion, and governance.
+
+## Public debate
+Discussions of Ekpemupolo frequently include competing narratives:
+- Supporters may emphasize claims of community protection, security provision, or stabilizing effects in oil-producing areas.
+- Critics may emphasize allegations linked to armed activity and the risks of legitimizing non-state force.
+
+## Notes on sourcing
+Details can vary by source and period. It is common to see differences between contemporaneous news coverage, government statements, and later retrospective accounts.

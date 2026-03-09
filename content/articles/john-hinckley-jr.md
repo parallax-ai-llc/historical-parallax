@@ -53,3 +53,8 @@ Shot President Reagan in 1981 to impress actress Jodie Foster, found not guilty 
 
 - The case is frequently cited in legal and forensic-psychiatry discussions as an example of how a single, widely publicized trial can reshape standards, statutes, and public perceptions.
 - It is also referenced in media-history contexts because of the high-profile nature of the victim and the immediate national coverage.
+
+### Later public profile (high-level)
+
+- Decades after the shooting and hospital commitment, Hinckley became the subject of renewed public attention as courts modified conditions and, eventually, ended some restrictions.
+- Public reporting in the 2010s–2020s also noted his attempts at a public creative life (including music and online presence), which revived debate about rehabilitation, public safety, and media sensationalism.

@@ -8,7 +8,7 @@ occupation: ["Criminal Event"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/In_Amenas_Hostage_Crisis"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ Terrorist attack on a gas plant in In Amenas, Algeria in January 2013 that kille
 ## References
 
 [^1]: Wikipedia, "In Amenas Hostage Crisis" - https://en.wikipedia.org/wiki/In_Amenas_Hostage_Crisis
+
+## Background
+
+The In Amenas crisis occurred in January 2013 at a major natural-gas facility near the Libyan border. It unfolded amid heightened regional instability following the Libyan civil war and the escalation of conflict in Mali, including international intervention against jihadist groups in northern Mali.
+
+## Perpetrators (High Level)
+
+Open-source reporting commonly links the attack to Islamist militant networks operating in the Sahara-Sahel region, including factions associated with Mokhtar Belmokhtar. The incident is often discussed as part of a broader pattern of attacks on energy infrastructure and foreign workers in North Africa during this period.
+
+## Crisis and Response
+
+Militants seized the site and took a large number of hostages, including Algerian and foreign workers. Algerian security forces conducted an operation to end the siege; the outcome involved substantial loss of life among hostages and attackers. The approach taken by Algeria drew international attention and, in some countries, debate about coordination and risk management during hostage crises.
+
+## Aftermath and Impact
+
+The attack had significant implications for corporate security planning in the energy sector and for regional counterterrorism policy. It also heightened awareness of cross-border militant mobility and the vulnerability of remote industrial sites.
+
+## See Also
+
+- Mokhtar Belmokhtar
+- Insurgency in the Maghreb and Sahel
+- Energy infrastructure security

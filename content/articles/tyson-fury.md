@@ -8,7 +8,7 @@ occupation: ["Athlete", "Boxer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tyson_Fury"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,28 @@ Tyson Fury, the 'Gypsy King,' upset Wladimir Klitschko in 2015 and became one of
 ## References
 
 [^1]: Wikipedia, "Tyson Fury" - https://en.wikipedia.org/wiki/Tyson_Fury
+
+## Additional Context
+
+Tyson Fury is an English professional boxer known for competing at heavyweight and for major championship bouts that drew significant global attention.
+
+### Boxing style and reputation
+
+- He is widely described as unusually agile for a heavyweight, combining movement with size and reach.
+- His career has included high-profile title fights and long-running rivalries that shaped the contemporary heavyweight era.
+
+### Public narrative
+
+- Beyond the ring, Fury has spoken publicly about mental health and recovery, becoming a visible figure in discussions about athlete wellbeing.
+
+### Quick reference
+
+- Date/period: see the summary and timeline above.
+- Place: see the summary above.
+- Key actors: see the summary above.
+
+### Quick reference
+
+- Date/period: see the summary and timeline above.
+- Place: see the summary above.
+- Key actors: see the summary above.

@@ -8,8 +8,7 @@ occupation: ["Tyrant", "Mass Murderer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Critias"
-lastUpdated: "2026-02-26"
----
+lastUpdated: "2026-02-26"---
 
 ## Summary
 

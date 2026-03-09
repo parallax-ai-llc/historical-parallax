@@ -45,8 +45,24 @@ Diamond’s public image was shaped by repeated shootings he survived. Newspaper
 | Late 1920s | Survived multiple shootings, reinforcing his notoriety and nickname. |
 | 1931 | Shot and killed in Albany, New York. |
 
+## Prohibition-era context (high level)
+- The **18th Amendment** and **Volstead Act** (1920–1933) created a large illicit market for alcohol.
+- Bootlegging enterprises typically required:
+  - supply (imported liquor, industrial alcohol diversion, or domestic production),
+  - distribution routes (trucking, waterfront access, speakeasies),
+  - and enforcement capacity (violence and corruption risk management).
+- Public images of gangsters from this era were shaped heavily by newspapers, which sometimes blurred factual reporting with sensational narrative.
+
+## Cultural depiction and “gangster folklore”
+- Prohibition figures are often remembered through later films, novels, and popular histories.
+- For research, it is useful to separate:
+  - contemporaneous court and police records,
+  - period newspaper accounts,
+  - and later retellings that may compress timelines or simplify rivalries.
+
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## See Also
 - Wikipedia: Legs Diamond
+- Prohibition in the United States

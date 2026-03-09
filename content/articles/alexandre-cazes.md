@@ -8,7 +8,7 @@ occupation: ["Cybercriminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexandre_Cazes"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ Canadian founder and administrator of AlphaBay, the largest darknet marketplace 
 ## References
 
 [^1]: Wikipedia, "Alexandre Cazes" - https://en.wikipedia.org/wiki/Alexandre_Cazes
+
+
+## Additional Context
+
+Alexandre Cazes is most commonly associated in public sources with the creation and operation of the AlphaBay online marketplace and with law-enforcement action against it.
+
+### High-level outline
+
+- AlphaBay was one of the best-known darknet marketplaces of its time.
+- The takedown was part of broader international cooperation targeting illicit online markets.
+- His death in custody became a notable part of public coverage around the case.
+
+### Broader significance
+
+- Illustrates how online platforms, payment systems, and anonymity tools interact.
+- Often cited in cybersecurity, digital policing, and illicit-market analyses.
+
+## Related Topics
+
+- Darknet marketplaces
+- Cybercrime investigations
+- International law enforcement cooperation

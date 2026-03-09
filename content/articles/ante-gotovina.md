@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ante_Gotovina"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,24 @@ Croatian army general initially convicted by the ICTY for war crimes during Oper
 ## References
 
 [^1]: Wikipedia, "Ante Gotovina" - https://en.wikipedia.org/wiki/Ante_Gotovina
+
+## ICTY Case and Appeal
+
+Gotovina was indicted by the International Criminal Tribunal for the former Yugoslavia (ICTY) in connection with alleged crimes committed during and after Operation Storm. In 2011 he was convicted at trial, including findings related to unlawful attacks and the displacement of civilians, and received a lengthy prison sentence.
+
+In 2012, the ICTY Appeals Chamber overturned key aspects of the trial judgment and entered an acquittal. The appeal decision became widely discussed because it turned on questions of how to assess artillery targeting, command responsibility, and the evidentiary standards for proving a joint criminal enterprise.
+
+## Political and Social Impact
+
+In Croatia, Gotovina has been celebrated by many as a symbol of the independence war, while critics emphasize the humanitarian consequences for displaced Croatian Serb communities. The case illustrates how post-conflict justice outcomes can diverge sharply across different national and international audiences.
+
+## After Release
+
+Following acquittal and release, Gotovina returned to Croatia and lived largely outside formal politics, remaining a prominent public figure due to the continuing debates about wartime conduct and accountability.
+
+## Related Topics
+
+- Operation Storm (1995)
+- ICTY (International Criminal Tribunal for the former Yugoslavia)
+- Laws of armed conflict and command responsibility
+- Post-Yugoslav war crimes prosecutions

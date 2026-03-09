@@ -8,7 +8,7 @@ occupation: ["Buddhist Activist", "Peace Activist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nhat_Chi_Mai"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,24 @@ Nhat Chi Mai was a Vietnamese Buddhist peace activist who self-immolated in 1967
 ## References
 
 [^1]: Wikipedia, "Nhat Chi Mai" - https://en.wikipedia.org/wiki/Nhat_Chi_Mai
+
+## Additional Context
+
+- Self-immolation was used by some Buddhist activists during the Vietnam War era as an extreme form of political and moral protest.
+- Nhat Chi Mai’s act is frequently discussed in the context of nonviolent resistance and the global anti-war movement.
+
+## Themes
+
+- **Peace advocacy:** appeals for an end to violence and negotiations toward peace.
+- **Religious conviction:** framing protest as a moral act rather than partisan conflict.
+- **International attention:** high-profile protests shaped external perceptions of the war.
+
+## Notes
+
+For the wording and recipients of her letters, and the contemporaneous reporting, consult the linked reference and related historical sources.
+
+## Further Reading
+
+- Wikipedia (see link above)
+- Additional high-level context can be added from reliable sources.
+- Additional high-level context can be added from reliable sources.

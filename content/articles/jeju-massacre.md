@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeju_Massacre"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 South Korean government forces killed an estimated 30,000 residents of Jeju island to suppress a leftist uprising. One of the worst massacres in Korean history, suppressed for decades.

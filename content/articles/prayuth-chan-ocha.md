@@ -8,7 +8,7 @@ occupation: ["Dictator"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Prayuth_Chan-ocha"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,3 +25,27 @@ Thai general who seized power in a 2014 coup and imposed martial law. He banned 
 ## References
 
 [^1]: Wikipedia, "Prayuth Chan-ocha" - https://en.wikipedia.org/wiki/Prayuth_Chan-ocha
+
+## 2014 Coup and Military Rule
+
+Prayuth Chan-ocha, then army commander, led the 2014 coup that removed an elected government amid political polarization and street protests. After the takeover, the military governed through the National Council for Peace and Order (NCPO), which restricted political activity and used security laws to control dissent.
+
+## Constitution and Electoral Framework
+
+A major legacy of the coup period was the drafting of a new constitutional order that shaped subsequent elections and coalition formation. Critics argued that the framework entrenched military influence, while supporters framed it as a stabilizing reset after years of turmoil.
+
+## Civil Liberties and Legal Pressure
+
+During Prayuth’s tenure, observers frequently noted:
+
+- Restrictions on assembly and political organizing.
+- Expanded use of legal tools against critics, including charges linked to lèse-majesté and computer-crime provisions.
+- A climate of self-censorship in parts of the media and civil society.
+
+## Transition Out of Office
+
+Following the 2023 general election and the formation of a new government, Prayuth left the premiership and later stepped back from active politics. His period in power remains a central reference point in debates over Thailand’s democratic backsliding and civil-military relations.
+
+## Historical Significance
+
+Prayuth is often discussed as part of a broader pattern in Thai politics where the military has repeatedly intervened in civilian governance, shaping institutions and limiting the scope of electoral mandates.

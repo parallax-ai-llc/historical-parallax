@@ -8,8 +8,7 @@ occupation: ["Criminal Incident"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cutro_Shipwreck_2023"
-lastUpdated: "2026-02-26"
----
+lastUpdated: "2026-02-26"---
 
 ## Summary
 

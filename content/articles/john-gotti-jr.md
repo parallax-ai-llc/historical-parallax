@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_A._Gotti"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 John A. Gotti Jr. was the acting boss of the Gambino family after his father's imprisonment. He faced four racketeering trials, all ending in mistrials. He claims to have left organized crime.
 
@@ -54,3 +53,14 @@ He is the son of Gambino boss John Gotti (“The Teflon Don”) and became a pro
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, “John A. Gotti,” *Wikipedia, The Free Encyclopedia* (accessed 2026-02-26): https://en.wikipedia.org/wiki/John_A._Gotti
 [^3]: U.S. Department of Justice / federal court reporting on RICO and racketeering cases (general background): https://www.justice.gov/criminal/criminal-vc/overview-racketeer-influenced-and-corrupt-organizations-rico-act
+## Overview
+
+John A. “John Gotti Jr.” Gotti is the son of Gambino crime family boss John Gotti. He became a well‑known figure in U.S. organized‑crime reporting in the late 1990s and 2000s, with authorities alleging he acted in a leadership capacity after his father’s imprisonment.
+
+## Legal proceedings (high level)
+
+Gotti Jr. faced multiple prosecutions and trials related to racketeering and other charges. Several cases ended without conviction, including mistrials in high‑profile proceedings. Public reporting also notes a later guilty plea in a separate case, followed by claims that he stepped away from organized‑crime involvement.
+
+## Public perception
+
+Because his profile is inseparable from his father’s notoriety, coverage often blends family legacy, law enforcement narratives, and court outcomes. As with many organized‑crime cases, distinguishing allegations from proven facts depends on the specific case record.

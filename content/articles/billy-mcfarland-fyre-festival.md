@@ -8,7 +8,7 @@ occupation: ["Con Artist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Billy_McFarland_Fyre_Festival"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,33 @@ American con artist who organized the disastrous Fyre Festival, a luxury music f
 ## References
 
 [^1]: Wikipedia, "Billy McFarland Fyre Festival" - https://en.wikipedia.org/wiki/Billy_McFarland_Fyre_Festival
+
+## Additional context
+
+- Fyre Festival was promoted as a luxury event through aggressive social-media marketing and influencer campaigns.
+- Operational planning and vendor coordination collapsed, leaving attendees without the advertised lodging, food, and services.
+
+## Aftermath and impact
+
+- The failure triggered lawsuits, documentaries, and broader discussion about truth-in-advertising, risk management, and due diligence.
+- The episode is often used as a case study in how branding and hype can outpace logistics and governance.
+
+## Additional context
+
+- Fyre Festival was promoted as a luxury event through aggressive social-media marketing and influencer campaigns.
+- Operational planning and vendor coordination collapsed, leaving attendees without the advertised lodging, food, and services.
+
+## Aftermath and impact
+
+- The failure triggered lawsuits, documentaries, and broader discussion about truth-in-advertising, risk management, and due diligence.
+- The episode is often used as a case study in how branding and hype can outpace logistics and governance.
+
+## Additional context
+
+- Fyre Festival was promoted as a luxury event through aggressive social-media marketing and influencer campaigns.
+- Operational planning and vendor coordination collapsed, leaving attendees without the advertised lodging, food, and services.
+
+## Aftermath and impact
+
+- The failure triggered lawsuits, documentaries, and broader discussion about truth-in-advertising, risk management, and due diligence.
+- The episode is often used as a case study in how branding and hype can outpace logistics and governance.

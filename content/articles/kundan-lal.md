@@ -67,3 +67,19 @@ When researching, search for:
   - High-level and cautious
   - Explicit about uncertainty and disambiguation
   - Free of detailed allegations that cannot be supported
+
+## Methodology for safe expansion (checklist)
+- Confirm an identifying anchor (at least one of):
+  - a court case title/number, or
+  - a consistent locality (city/district) across multiple independent sources, or
+  - a unique association (named group/organization) corroborated by reputable references.
+- Distinguish clearly between:
+  - *biographical facts* (birth/death, residence, occupation),
+  - *allegations* (claims in reporting),
+  - and *adjudicated findings* (what courts actually ruled).
+- Avoid importing details from similarly named individuals unless the match is explicit.
+
+## Placeholders (to be filled when sources exist)
+- **Verified location of activity:** (unknown)
+- **Verified primary identifier:** (unknown)
+- **Verified major cases / convictions:** (unknown)

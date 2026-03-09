@@ -48,6 +48,12 @@ Gopalasamudram Narayana Ramachandran (G. N. Ramachandran) was an Indian biophysi
 
 Ramachandran is remembered as a leading figure in establishing structural biology in India and as a scientist whose geometric/steric approach produced tools that outlived the limitations of the experimental data of his era.
 
+## Additional Notes (High-Level)
+
+- **Model validation culture:** In modern practice, Ramachandran plots are routinely included in validation reports for protein structures, making his steric-geometry approach part of the field’s everyday quality control.
+- **Secondary structure signatures:** Common regions on the plot correspond to familiar conformations (e.g., α-helix and β-sheet), which helps connect abstract torsion angles to recognizable structural motifs.
+- **Beyond proteins:** Variants and related conformational maps are used in broader polymer and peptide analysis, reflecting the generality of torsional constraints.
+
 ## References
 
 [^1]: Wikipedia, "Gopalasamudram Ramachandran" - https://en.wikipedia.org/wiki/Gopalasamudram_Ramachandran

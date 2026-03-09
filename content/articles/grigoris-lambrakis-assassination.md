@@ -57,3 +57,18 @@ Greek left-wing politician Grigoris Lambrakis was murdered by right-wing extremi
 ## References
 
 [^1]: Wikipedia, "Grigoris Lambrakis assassination" - https://en.wikipedia.org/wiki/Grigoris_Lambrakis_assassination
+
+## Overview
+The assassination of Grigoris Lambrakis refers to the 1963 killing of a Greek politician and peace activist. It is historically significant in modern Greek political history and is often associated with political violence, extremist networks, and debates about state accountability.
+
+## Political climate
+Early-1960s Greece experienced intense polarization, with struggles over governance, security institutions, and the boundaries of political dissent. In many accounts, Lambrakis’s activism and public profile placed him at the center of these tensions.
+
+## Investigation and public reaction
+The assassination produced widespread outrage and became a focal point for debates about:
+- Whether para-state or extremist groups operated with tolerance or support from elements of the state.
+- The independence and effectiveness of investigators and courts.
+- The broader health of democratic institutions.
+
+## Cultural legacy
+The case has been depicted in journalism and popular culture, including works that helped shape international awareness of Greek political turmoil in the period.

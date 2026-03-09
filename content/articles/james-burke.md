@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Burke_(gangster)"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 James 'Jimmy the Gent' Burke was a Lucchese associate who masterminded the 1978 Lufthansa heist at JFK Airport — at $5.8 million, the largest cash robbery in US history at the time. Portrayed by Robert De Niro in Goodfellas.
 
@@ -49,3 +48,18 @@ James 'Jimmy the Gent' Burke was a Lucchese associate who masterminded the 1978 
 ## See Also
 - Lucchese crime family
 - Lufthansa heist
+## Overview
+
+James “Jimmy” Burke was an American organized‑crime associate best known for his connection to the 1978 Lufthansa heist at John F. Kennedy International Airport, one of the largest cash robberies in U.S. history at the time. Burke’s life is frequently discussed in accounts of the New York underworld and is closely associated—through later testimony and reporting—with the Lucchese crime family’s orbit.
+
+## Criminal activities (high level)
+
+Burke is commonly described as involved in theft, hijacking, and related rackets that flourished around airports and trucking routes, where cargo could be targeted and fenced through established networks. Large robberies in that era often depended on insider information, careful logistics, and rapid laundering of proceeds.
+
+## Lufthansa heist and aftermath
+
+Historical narratives emphasize that the period after the heist was marked by intense suspicion, internal pressure, and violence as participants feared detection and disputes over money escalated. Many details about who ordered what actions come from later investigations and witness accounts rather than a single, uncontested record.
+
+## Cultural portrayals
+
+Burke has been portrayed or referenced in multiple books and films about U.S. organized crime, contributing to his enduring notoriety. Popular portrayals often compress events for narrative effect, so timelines and motivations can differ from the documentary record.

@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeffrey_Sabol"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Geophysicist convicted of dragging a police officer down the Capitol steps on January 6.

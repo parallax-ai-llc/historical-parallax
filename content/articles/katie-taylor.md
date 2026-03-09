@@ -8,7 +8,7 @@ occupation: ["Athlete", "Olympic Champion", "Boxer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katie_Taylor"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,25 @@ Katie Taylor won Olympic boxing gold at 2012 London and became undisputed lightw
 ## References
 
 [^1]: Wikipedia, "Katie Taylor" - https://en.wikipedia.org/wiki/Katie_Taylor
+
+## Amateur career and the Olympics
+
+- Taylor was a major figure in the rise of women's boxing in Ireland and internationally, competing at a time when the sport was gaining broader recognition.
+- Her Olympic gold in 2012 is often highlighted as a landmark moment for Irish boxing and for women's boxing on the Olympic stage.
+- She is frequently referenced as part of the generation that helped normalize elite pathways for female boxers.
+
+## Professional achievements (high level)
+
+- As a professional, Taylor is known for winning major titles across multiple weight classes.
+- The label "undisputed" reflects holding all recognized major world titles in a division at the same time, a rare achievement in boxing.
+- Her most prominent bouts have been widely covered as evidence of growing commercial audiences for women's professional boxing.
+
+## Style and influence
+
+- Taylor is commonly described as a high-output boxer with strong footwork, combination punching, and a willingness to engage in fast-paced exchanges.
+- Her career is often cited in discussions about elevating standards, pay, and visibility for women's boxing.
+
+## Additional notes
+
+- This article is a short, high-level overview intended for quick reference.
+- For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.

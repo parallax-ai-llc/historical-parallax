@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Herod_the_Great"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 King of Judea who ordered the Massacre of the Innocents and murdered his own wife and sons.

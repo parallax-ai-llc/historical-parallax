@@ -58,3 +58,26 @@ Nine Soviet hikers died under mysterious circumstances in the Ural Mountains. Th
 
 - **Late Jan 1959**: Departure for the expedition.
 - **Feb 1959**: Search effort began after the group failed to return on schedule; discoveries followed over subsequent weeks.
+
+## Later Reviews and Modern Summaries
+
+- Later official and semi-official reviews have been reported in secondary sources, including renewed examinations of likely physical mechanisms (weather, terrain, snow conditions) rather than extraordinary causes.
+- Wikipedia summaries describe a modern prosecutorial review (reported around 2019–2020) that favored a snow-related explanation (often framed as an avalanche or snow-slab event) combined with severe weather and limited visibility.[^1]
+
+## Why Theories Proliferate
+
+The Dyatlov Pass incident has several features that make it unusually "theory-friendly" in popular culture:
+
+- **Partial information**: many people rely on secondhand retellings rather than primary records.
+- **Unusual but explainable details**: injuries, missing clothing, and the tent exit are striking, but can be interpreted in multiple ways.
+- **Harsh environment**: extreme cold, wind, and darkness can produce fast-moving, fatal decision cascades.
+
+## How To Read Claims Responsibly
+
+- Prefer claims grounded in **known geography**, **weather**, and **forensic basics**.
+- Treat sensational elements as hypotheses unless supported by primary documents or consistent expert analysis.
+- Separate the **sequence of recoveries** (what was found and when) from interpretations about why it happened.[^1]
+
+## External Links
+
+- Wikipedia: https://en.wikipedia.org/wiki/Dyatlov_Pass_Incident

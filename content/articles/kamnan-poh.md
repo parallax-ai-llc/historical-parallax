@@ -8,7 +8,7 @@ occupation: ["Gangster", "Corrupt Politician"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kamnan_Poh"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,3 +25,26 @@ Notorious Thai mafia boss and former village headman who ran a criminal empire f
 ## References
 
 [^1]: Wikipedia, "Kamnan Poh" - https://en.wikipedia.org/wiki/Kamnan_Poh
+
+## Overview
+
+Kamnan Poh is the name commonly used for Somchai Khunpluem, a Thai local political figure known for influence in Chonburi Province and for long-running allegations and legal cases connected to organized crime and corruption.
+
+## Local power networks
+
+In Thai political commentary, influential local figures are sometimes described as “godfathers,” reflecting a mix of electoral clout, business interests, patronage, and informal enforcement capacity.
+
+## Legal and political significance
+
+High-profile prosecutions involving powerful local actors are often treated as signals of wider state efforts to curb corruption and criminal influence, though interpretations differ across time and political context.
+
+## Terminology
+
+The label “Kamnan” refers to a local administrative role (subdistrict headman), and translated titles and nicknames can vary by source.
+
+## Further reading prompts
+
+Readers often look for:
+- a clear timeline of key events,
+- the institutions involved (courts, agencies, organizations),
+- and the longer-term impact on policy, public debate, or historical interpretation.

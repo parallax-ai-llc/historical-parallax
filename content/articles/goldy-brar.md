@@ -50,3 +50,15 @@ Indian gangster who allegedly ordered the murder of Punjabi rapper Sidhu Moose W
 
 - The Wikipedia entry provides a starting point but may summarize contested allegations; for high-confidence factual detail, corroborate with primary records and reputable investigative reporting.
 - When expanding this article further, prefer: court filings, official police statements, and established news organizations with named reporting.
+
+## Broader Context (High-Level)
+
+- **Diaspora and transnational crime:** Reporting on Brar often appears in the wider context of how Punjab-linked organized crime networks can operate across borders, including alleged financing, communications, and facilitation from abroad.
+- **Media vs. court record:** Many widely circulated details come from press reporting and police briefings; the evidentiary status of individual claims can vary depending on whether they are tested in court.
+- **Operational uncertainty:** Public sources may differ on structure, affiliations, and command responsibility within criminal groups; attribution is sometimes contested.
+
+## Commonly Reported Investigation Elements
+
+- **Multi-accused cases:** Coverage of the Moose Wala killing frequently involves multiple suspects, intermediaries, and alleged shooters, with separate arrest and charge developments over time.
+- **International coordination:** Because suspects are sometimes reported to be outside India, news accounts often mention extradition, immigration status, and cross-border law-enforcement cooperation.
+- **Ongoing updates:** The public picture can change as prosecutions progress; reliable summaries typically note what is alleged vs. what is proven.

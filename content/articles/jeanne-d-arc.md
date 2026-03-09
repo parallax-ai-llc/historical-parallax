@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeanne_d'Arc"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Already in the database as Joan of Arc.

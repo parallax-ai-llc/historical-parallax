@@ -8,7 +8,7 @@ occupation: ["Physicist", "Mathematician"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Mostafazadeh"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,29 @@ Ali Mostafazadeh is an Iranian theoretical physicist who made significant contri
 ## References
 
 [^1]: Wikipedia, "Ali Mostafazadeh" - https://en.wikipedia.org/wiki/Ali_Mostafazadeh
+
+## Research focus
+
+Mostafazadeh is widely associated with work on non-Hermitian quantum mechanics, including the mathematical conditions under which non-Hermitian operators can yield real spectra and consistent probabilistic interpretations. His publications are often cited in discussions of:
+
+- Pseudo-Hermiticity and metric operators
+- PT symmetry and related spectral properties
+- Foundations of quantum theory beyond standard Hermitian Hamiltonians
+
+## Academic trajectory
+
+Biographical summaries commonly note graduate training in mathematical physics and subsequent academic appointments in Turkey. His work connects abstract operator theory with questions motivated by physical models.
+
+## Influence and applications
+
+Although much of the work is formal, non-Hermitian and PT-symmetric frameworks have been explored in applied contexts (especially in optics), where effective non-Hermitian descriptions can model gain/loss and open-system behavior.
+
+## Notes on sourcing
+
+This article summarizes high-level themes reported in public biographies and selected publications lists. Detailed claims about particular results should be verified against the original papers.
+
+## See also
+
+- PT symmetry
+- Non-Hermitian Hamiltonian
+- Mathematical physics

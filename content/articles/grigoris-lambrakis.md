@@ -61,3 +61,18 @@ Greek politician assassinated by right-wing extremists in Thessaloniki, inspirin
 
 [^2]: Vassilis Vassilikos, *Z* (novel) — fictionalized account based on the Lambrakis case.
 [^3]: Costa-Gavras, *Z* (1969 film) — dramatization popularizing the case internationally.
+
+## Overview
+Grigoris Lambrakis was a Greek politician, physician, and peace activist remembered as an emblematic figure in a turbulent period of modern Greek history. He is widely associated with anti-war activism and with his assassination in 1963.
+
+## Public life
+Lambrakis’s public profile was shaped by professional standing and political engagement. Historical summaries often situate his activism within broader peace movements and debates over Greece’s postwar political direction.
+
+## Significance
+Lambrakis is often discussed in relation to:
+- Political violence and intimidation in the era.
+- The role of civil society mobilization in pushing for accountability.
+- The way a single high-profile event can catalyze political change and long-term cultural memory.
+
+## Legacy
+His legacy has been sustained through commemorations, historical writing, and cultural representations that connect his life and death to questions about democracy and the rule of law.

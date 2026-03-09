@@ -8,7 +8,7 @@ occupation: ["Athlete", "Baseball Player"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sadaharu_Oh"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,29 @@ Sadaharu Oh hit 868 career home runs for the Yomiuri Giants, the most in profess
 ## References
 
 [^1]: Wikipedia, "Sadaharu Oh" - https://en.wikipedia.org/wiki/Sadaharu_Oh
+
+
+## Playing Style and Cultural Impact
+
+- **Signature technique:** Oh's one-legged ("flamingo") batting stance is widely cited as an iconic example of individualized hitting mechanics in baseball.
+- **Era and league context:** Much of his record-setting career took place in Japan's Nippon Professional Baseball (NPB), where he became a central figure in the sport's postwar popularity.
+
+## Records and Recognition
+
+- Career home run totals and seasonal home run titles are among the most referenced measures of his dominance as a power hitter.
+- He is commonly discussed in comparisons between NPB and Major League Baseball (MLB), especially around how to contextualize records across leagues and eras.
+
+## After Playing
+
+- Retired stars in Japanese baseball often move into coaching, management, and leadership roles; Oh is frequently referenced as an example of an athlete whose influence extended beyond his playing years.
+
+
+## See also
+
+- Related topics and primary sources linked in the References section.
+
+
+## Further reading
+
+- Wikipedia (overview)
+- Reputable news and academic references

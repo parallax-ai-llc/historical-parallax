@@ -8,7 +8,7 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnfinn_Nesset"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,27 @@ Norwegian serial killer and nursing home manager who murdered at least 22 elderl
 ## References
 
 [^1]: Wikipedia, "Arnfinn Nesset" - https://en.wikipedia.org/wiki/Arnfinn_Nesset
+
+## Modus Operandi (High-Level)
+
+- As a nursing home manager, Nesset had access to vulnerable residents and to medications.
+- The murders involved administering a muscle relaxant (often reported as **curacit**) to elderly patients, leading to fatal outcomes.
+
+## Investigation and Prosecution
+
+A pattern of unexpected deaths and concerns from staff contributed to scrutiny. The case became notable in Norway for the scale of the crimes and for the way institutional settings can conceal serial harm until statistical or anecdotal anomalies are recognized.
+
+## Sentencing and Aftermath
+
+- He was convicted of multiple murders and received a lengthy prison sentence under Norwegian law.
+- The case has been referenced in discussions of patient safety, oversight, and safeguards within long-term care institutions.
+
+## Broader Context
+
+Medical and caregiving environments can create opportunities for abuse when there is insufficient monitoring, poor documentation, or an imbalance of authority. High-profile cases like this often lead to renewed attention to reporting mechanisms and internal controls.
+
+## Related
+
+- Medical serial killers and institutional detection.
+- Patient-safety reporting and mortality review practices.
+

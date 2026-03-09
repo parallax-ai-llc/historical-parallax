@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Robert"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 French 'Spiderman' who illegally climbs skyscrapers worldwide without safety equipment.

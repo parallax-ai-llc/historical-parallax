@@ -8,7 +8,7 @@ occupation: ["Chan Master", "Author"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wumen_Huikai"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -29,3 +29,23 @@ Wumen Huikai was a Chinese Chan master who compiled the Wumenguan (Gateless Gate
 ## References
 
 [^1]: Wikipedia, "Wumen Huikai" - https://en.wikipedia.org/wiki/Wumen_Huikai
+
+## The Wumenguan (Mumonkan)
+
+The *Wumenguan* is a structured compilation of **48 koans**, each accompanied by Wumen’s brief prose commentary and a verse. In koan practice, the point is not solving a riddle intellectually, but using a phrase or story to press a practitioner beyond habitual conceptual thinking.
+
+## "Mu" and Koan Training
+
+Wumen’s account of sustained work with the koan "Mu" is frequently cited in Zen training literature as a model of **single-pointed inquiry**. The story emphasizes persistence and direct experience rather than accumulation of doctrinal knowledge.
+
+## Legacy in Zen Traditions
+
+The *Mumonkan* became especially influential in Rinzai lineages, where it is widely used as an introductory set of cases. Wumen’s writing style—compact, sharp, and often paradoxical—helped set the tone for later koan commentarial traditions.
+
+## How the Text Is Used
+
+In many Zen training contexts, a koan collection functions as a curriculum of encounters: the case, the teacher’s checking, and the student’s presentation are all part of the practice. The *Wumenguan* endures because it can be revisited repeatedly, with different cases becoming salient at different stages of training.
+
+## Related Tradition
+
+The *Wumenguan* is often mentioned alongside other major koan collections, and together these texts shaped later Zen/Chan literary culture. Their endurance reflects a continuing interest in concise teaching stories and commentaries as practice tools.

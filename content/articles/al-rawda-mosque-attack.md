@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Rawda_Mosque_Attack"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 ISIS-linked terrorists killed 311 worshippers at a Sufi mosque in northern Sinai.

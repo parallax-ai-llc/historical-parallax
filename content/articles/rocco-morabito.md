@@ -45,6 +45,20 @@ Rocco Morabito was a leader of the 'Ndrangheta involved in cocaine trafficking f
 - **2019 (Uruguay):** Escaped from Montevideo's central penitentiary with other inmates via the roof, prompting an international manhunt.
 - **2021 (Brazil):** Captured again and returned to custody; subsequent proceedings centered on extradition and enforcement of prior convictions.
 
+## Context (high-level)
+- Major 'Ndrangheta cases are commonly framed as transnational organized-crime investigations, involving:
+  - cross-border intelligence sharing,
+  - extradition and mutual legal assistance,
+  - financial investigations and asset tracing,
+  - and long time horizons due to fugitivity.
+- Fugitive histories are often reconstructed from a mix of official statements and investigative reporting; the level of detail varies by jurisdiction.
+
+## Documentation notes
+- When summarizing organized-crime figures, distinguish between:
+  - allegations in indictments and investigative narratives,
+  - convictions and final judgments,
+  - and media-applied nicknames that may not be used in court records.
+
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Rocco Morabito (mobster, born 1966)", Wikipedia, The Free Encyclopedia: https://en.wikipedia.org/wiki/Rocco_Morabito_(mobster,_born_1966)

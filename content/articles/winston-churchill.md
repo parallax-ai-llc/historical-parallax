@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Winston_Churchill"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -19,7 +19,41 @@ Note: While Churchill's colonial policies caused immense suffering (especially t
 
 | Year | Event |
 |------|-------|
+| 1900 | Elected to Parliament (MP) for the first time |
+| 1911–1915 | First Lord of the Admiralty during World War I |
+| 1924–1929 | Chancellor of the Exchequer |
+| 1940–1945 | Prime Minister during the Second World War |
+| 1951–1955 | Prime Minister (second term) |
+| 1953 | Awarded the Nobel Prize in Literature |
 
+## Overview
+
+Winston Churchill was a British statesman, writer, and military officer who played a central role in UK politics across the first half of the 20th century. He is widely associated with Britain's leadership and rhetoric during World War II, and he also produced extensive historical writing.
+
+## Early Life and Military Service
+
+- Born into an aristocratic family, he pursued a career that combined military service, journalism, and politics.
+- His early public profile grew through reporting and participation in late-19th-century conflicts and imperial campaigns.
+
+## Political Career (High-Level)
+
+- Churchill held multiple senior cabinet posts before World War II, with shifting party affiliations early in his career.
+- During the interwar years, he spent periods both inside and outside government, and became known for warnings about Nazi Germany's rearmament.
+
+## World War II Leadership
+
+- As Prime Minister from 1940, he helped lead Britain through the war years in coordination with major Allied leaders.
+- His speeches and broadcasts are often cited as influential in sustaining public morale during periods of severe military pressure.
+
+## Postwar Period and Writing
+
+- After the war, he returned to office in the early 1950s and remained an important public figure until retirement.
+- He wrote multi-volume histories and memoirs and is noted for a literary style that contributed to his Nobel Prize in Literature.
+
+## Controversies and Historical Debate
+
+- Churchill's record is debated, particularly regarding the British Empire, colonial governance, and wartime decision-making.
+- Scholarly and public assessments vary widely, and discussions often distinguish between his wartime leadership and his views and policies on imperial and racial questions.
 
 ## References
 

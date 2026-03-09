@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Ducasse_duplicate"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Duplicate.

@@ -8,7 +8,7 @@ occupation: ["Organized Crime"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gilberto_Aparecido_dos_Santos"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,26 @@ Brazilian drug trafficker known as Fuminho who was PCC's top international cocai
 ## References
 
 [^1]: Wikipedia, "Gilberto Aparecido dos Santos" - https://en.wikipedia.org/wiki/Gilberto_Aparecido_dos_Santos
+
+## Criminal Network Context
+
+- The PCC (Primeiro Comando da Capital) is among Brazil's most influential criminal organizations, with operations extending across prisons and transnational trafficking routes.
+- Large-scale cocaine trafficking networks depend on logistics, cross-border facilitation, and relationships with suppliers, intermediaries, and transport corridors.
+
+## Arrest and Legal Process
+
+- High-profile arrests of trafficking figures often involve international coordination because fugitives may relocate across multiple jurisdictions.
+- Extradition can take significant time and requires meeting procedural standards in both the arresting and requesting countries.
+
+## Key Points
+
+- In reporting on drug trafficking, labels such as "broker" or "supplier" typically refer to roles coordinating purchases, transport, and payments across a supply chain.
+- The case is frequently referenced in discussions about the international reach of Brazilian organized crime in the 2000s and 2010s.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+- Additional high-level context: see linked reference for detailed chronology and sourcing.

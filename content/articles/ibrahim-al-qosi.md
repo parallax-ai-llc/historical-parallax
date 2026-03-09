@@ -50,3 +50,15 @@ Al-Qaeda operative and Guantanamo detainee who became an AQAP leader after relea
 ## References
 
 [^1]: Wikipedia, "Ibrahim al-Qosi" - https://en.wikipedia.org/wiki/Ibrahim_al-Qosi
+
+## Additional Context: Military Commissions and Transfers
+
+- The U.S. **military commissions** system at Guantánamo has been a long-running legal and political issue, with debates over jurisdiction, due process, admissibility standards, and the pace of cases.
+- Transfer/repatriation decisions typically involve diplomatic arrangements and security assurances; open reporting often notes that post-transfer outcomes are difficult to evaluate from the outside.
+- In many such cases, public understanding is shaped by a mix of court documents, government statements, and media reporting, which can differ in detail and certainty.
+
+## Related Topics
+
+- Guantánamo Bay detention policy and transfer mechanisms
+- AQAP’s media strategy and propaganda outputs
+- Challenges of verification in conflict-zone reporting

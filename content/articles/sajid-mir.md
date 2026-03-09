@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sajid_Mir"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,29 @@ Pakistani militant and LeT handler who guided the Mumbai attackers via phone and
 ## References
 
 [^1]: Wikipedia, "Sajid Mir" - https://en.wikipedia.org/wiki/Sajid_Mir
+
+
+## Case Context
+
+- **Handler role:** In coordinated attacks, a "handler" may provide remote direction, encouragement, and tactical guidance, including relaying information and adjusting plans in real time.
+- **Cross-border investigations:** High-profile terrorism cases commonly involve disputes over jurisdiction, evidence-sharing, and political constraints that can delay arrests or prosecutions.
+
+## Legal and Diplomatic Significance
+
+- The Mumbai attacks became a defining event in India–Pakistan security relations and a major reference point in global counterterrorism cooperation.
+- Bounties and designations are used by governments to pressure networks and to signal the priority of a case internationally.
+
+## Notes
+
+Specific details about roles and communications are typically sourced to investigative records and official statements; consult primary documentation where available.
+
+
+## See also
+
+- Related topics and primary sources linked in the References section.
+
+
+## Further reading
+
+- Wikipedia (overview)
+- Reputable news and academic references

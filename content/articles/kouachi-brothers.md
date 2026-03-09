@@ -47,6 +47,18 @@ The attack prompted major public responses and policy debate, including:
 - Renewed scrutiny of domestic extremism, intelligence coordination, and counterterrorism laws.
 - International discussion about satire, religion, and freedom of speech.
 
+## Media and legal framing (high level)
+- Coverage of terrorism cases often combines:
+  - contemporaneous reporting during fast-moving investigations,
+  - later judicial findings and official reports,
+  - and retrospective documentary or academic analysis.
+- When details differ between sources, it is typically because early reporting can be incomplete or corrected later.
+
+## Responsible coverage note
+- This article is intended to be descriptive and historical.
+- It avoids operational detail and focuses on widely reported public facts and context.
+- For rigorous study, consult primary legal documents and reputable investigative reconstructions rather than secondary summaries.
+
 ## Related people and organizations
 - **Charlie Hebdo**: French satirical magazine targeted in the attack.
 - **AQAP (reported)**: Al-Qaeda in the Arabian Peninsula was frequently referenced in reporting regarding alleged training and claims of responsibility.

@@ -8,7 +8,7 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Erno_Soto"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,26 @@ Filipino serial killer convicted of raping and murdering at least 7 women in Que
 ## References
 
 [^1]: Wikipedia, "Erno Soto" - https://en.wikipedia.org/wiki/Erno_Soto
+
+## Additional Context
+
+- **Geographic focus:** Accounts of the case place a number of attacks in **Quezon City**, particularly around areas where victims were walking alone at night.
+- **Victim selection and pattern:** The crimes are typically described as a series of **sexual assaults and homicides** against women, with investigators and media emphasizing repeat-offender patterns.
+- **Investigation:** Serial cases in dense urban areas can involve linkage analysis (connecting incidents by common features), witness statements, and forensic evidence; public summaries generally frame Soto’s arrest as the result of sustained police work during the 1990s.
+- **Court outcome:** Reporting describes a conviction with a severe sentence that was later changed through commutation and/or legal shifts in Philippine capital punishment policy.
+
+## Why It Matters
+
+This case is often referenced in discussions of:
+
+- **Public safety** and policing challenges in large metropolitan regions.
+- The impact of **media coverage** on public fear and investigative pressure.
+- How criminal justice systems handle **serial sexual violence**, including victim protection and evidentiary standards.
+
+## Caution on Sources
+
+Many easily accessible sources are short summaries. For careful historical work, it is usually better to rely on:
+
+- Court reporting and contemporaneous news coverage.
+- Official statements from law enforcement and judicial bodies.
+- Secondary analyses that avoid sensationalism and respect victim dignity.

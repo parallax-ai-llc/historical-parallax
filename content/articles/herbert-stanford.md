@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Herbert_Stanford"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Trinidadian crime boss who controlled drug distribution and gang operations in Laventille.

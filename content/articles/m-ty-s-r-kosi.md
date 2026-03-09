@@ -8,7 +8,7 @@ occupation: ["Dictator"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/M%C3%A1ty%C3%A1s_R%C3%A1kosi"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,31 @@ Hungarian communist dictator who ruled from 1945 to 1956, known as 'Stalin's bes
 ## References
 
 [^1]: Wikipedia, "Mátyás Rákosi" - https://en.wikipedia.org/wiki/M%C3%A1ty%C3%A1s_R%C3%A1kosi
+
+## Rise to power
+
+Rákosi was a longtime communist organizer who returned to prominence in Hungary after World War II, when the Soviet Union's influence over Central and Eastern Europe expanded. He became a dominant political figure through coalition maneuvering and the gradual elimination of rivals.
+
+## Rule and institutions
+
+- His government established a Stalinist political model with a single-party state.
+- The security apparatus, including the ÁVH (state protection authority), played a major role in arrests, interrogations, and political repression.
+- Show trials and forced confessions were used to remove perceived opponents and consolidate control.
+
+## Economic and social policies
+
+Rákosi-era policy emphasized rapid industrialization, collectivization of agriculture, and centralized planning. These measures imposed heavy social costs and contributed to economic discontent.
+
+## Decline and removal
+
+After Stalin's death, pressures associated with de-Stalinization and internal unrest weakened Rákosi's position. He was ultimately removed and sent into exile within the Soviet Union.
+
+## Legacy
+
+Rákosi remains associated in Hungarian memory with political terror and the hardline Stalinist phase of postwar rule. Later reforms and the 1956 uprising are frequently discussed in relation to the backlash against his system.
+
+## See also
+
+- Hungarian People's Republic
+- ÁVH
+- Hungarian Revolution of 1956

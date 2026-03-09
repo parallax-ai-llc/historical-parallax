@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kanji_Ishiwara"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -25,3 +25,26 @@ Japanese general who masterminded the Mukden Incident and invasion of Manchuria.
 ## References
 
 [^1]: Wikipedia, "Kanji Ishiwara" - https://en.wikipedia.org/wiki/Kanji_Ishiwara
+
+## Overview
+
+Kanji Ishiwara was an officer in the Imperial Japanese Army and an influential military thinker in the early 20th century. He is commonly discussed in relation to debates over Japanese strategy and the politics of military expansion in East Asia.
+
+## Strategic ideas
+
+He is associated with grand-strategic concepts emphasizing national mobilization, industrial capacity, and the belief that major future conflict would be shaped by economic and technological systems as well as battlefield tactics.
+
+## Historical context
+
+The interwar period in Japan saw intense factionalism within military and political institutions. Competing visions for Japan’s direction, together with international tensions, contributed to significant policy shifts and growing instability.
+
+## Legacy
+
+Modern historical discussion often treats Ishiwara as both an individual actor and a lens into broader institutional incentives and ideological currents in the pre-1945 Japanese state.
+
+## Further reading prompts
+
+Readers often look for:
+- a clear timeline of key events,
+- the institutions involved (courts, agencies, organizations),
+- and the longer-term impact on policy, public debate, or historical interpretation.

@@ -46,6 +46,18 @@ Robert Bowers killed 11 worshippers at the Tree of Life synagogue in Pittsburgh 
 - The attack intensified U.S. public discussion around antisemitism, domestic extremism, and security for religious institutions.
 - The case is frequently cited in discussions of federal hate-crime enforcement and mass-violence prevention.
 
+## Context (high-level)
+- Attacks on houses of worship are often discussed in U.S. policy and security contexts as a subset of targeted violence where symbolic location and community identity are central.
+- In major hate-crime prosecutions, case narratives commonly rely on a combination of:
+  - eyewitness testimony,
+  - physical/forensic evidence,
+  - digital communications and social-media posts,
+  - and statements made during or after the offense.
+
+## Documentation notes
+- Sentencing posture and custody status can change over time due to appeals; summaries should distinguish between jury verdicts, sentencing judgments, and later appellate outcomes.
+- Descriptions of motive should be grounded in court findings and filings (e.g., charging documents, trial evidence, sentencing memoranda) rather than general commentary.
+
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Pittsburgh synagogue shooting" (accessed 2026-02-26): https://en.wikipedia.org/wiki/Pittsburgh_synagogue_shooting

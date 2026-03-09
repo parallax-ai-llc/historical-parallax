@@ -8,7 +8,7 @@ occupation: ["Bacteriologist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Frederick_Griffith"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,25 @@ Frederick Griffith was a British bacteriologist who discovered bacterial transfo
 ## References
 
 [^1]: Wikipedia, "Frederick Griffith" - https://en.wikipedia.org/wiki/Frederick_Griffith
+
+## Griffith Experiment (Why It Mattered)
+
+- Griffith’s work implied that a “transforming principle” could carry heritable information between organisms.
+- This finding set up later experiments (notably by Avery, MacLeod, and McCarty) that identified DNA as the material responsible for transformation.
+- The transformation concept became foundational for genetics, microbiology, and modern biotechnology techniques that rely on introducing genetic material into cells.
+
+## Historical Context
+
+Griffith worked during a period when pneumonia was a major public health threat and bacteriology was central to medical research. His death during the Blitz underscored how scientific communities were affected by wartime conditions.
+
+## Key Takeaways
+
+- The transformation result was empirical: it showed a reproducible change in bacterial traits under specific conditions.
+- The experiment helped shift debate toward the existence of a physical, transferable genetic substance.
+- It remains a canonical example of how careful controls can reveal unexpected mechanisms.
+
+## See Also
+
+- Avery–MacLeod–McCarty experiment
+- Bacterial transformation
+- History of molecular biology

@@ -50,3 +50,17 @@ Saudi man sentenced to death by crucifixion for protesting as a teenager during 
 
 [^2]: Amnesty International — coverage and updates related to Ali al-Nimr (campaign and case background).
 [^3]: Human Rights Watch — reporting on protest-related prosecutions and juvenile capital cases in Saudi Arabia.
+
+## Overview
+Ali al-Nimr is a Saudi national whose case drew international attention after a severe sentence connected to protest-related offenses when he was a young person.
+
+## Context
+- Saudi Arabia has faced sustained scrutiny regarding criminal justice, political dissent, and the use of harsh penalties.
+- Protest activity in the Eastern Province has been linked to broader political and sectarian tensions.
+
+## Why the case became high-profile
+- Human-rights organizations highlighted concerns about age at the time of alleged acts, interrogation practices, and fair-trial standards.
+- Advocacy commonly connected the case to broader debates about juvenile sentencing and capital punishment.
+
+## Broader significance
+The case is frequently cited in discussions about human-rights norms, legal reform, and the limits of external pressure on sovereign legal systems.

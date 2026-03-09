@@ -8,7 +8,7 @@ occupation: ["Criminal Event"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ashley_Madison_Hack"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,28 @@ Data breach of extramarital affairs website Ashley Madison in 2015 by hackers ca
 ## References
 
 [^1]: Wikipedia, "Ashley Madison Hack" - https://en.wikipedia.org/wiki/Ashley_Madison_Hack
+
+## What Happened (High-Level)
+
+- The attackers, identifying themselves as the **Impact Team**, claimed to have accessed internal systems and exfiltrated user and corporate data.
+- The breach drew outsized attention because the site’s purpose involved sensitive relationships, increasing the risk of personal harm if identities were exposed.
+
+## Data and Exposure
+
+Reports about the leak commonly mention:
+
+- Account details and profile information.
+- Email addresses and other identifying metadata.
+- Internal company materials released alongside user data.
+
+## Consequences
+
+- Significant reputational damage to the company and broader scrutiny of its security practices.
+- Users faced risks of **doxxing, extortion, and targeted scams**, especially when attackers or third parties tried to monetize the dataset.
+- The event became a frequently cited case study in how privacy failures can escalate into real-world harm.
+
+## Security and Privacy Lessons
+
+- “Sensitive” services must treat **data minimization** and strong access controls as core requirements.
+- Breach response planning matters because leaked data spreads quickly and is difficult to contain once published.
+

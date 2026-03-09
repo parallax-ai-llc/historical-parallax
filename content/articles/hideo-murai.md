@@ -48,3 +48,9 @@ Aum Shinrikyo's science minister stabbed to death on camera by a Korean-Japanese
 [^1]: Wikipedia, "Hideo Murai" - https://en.wikipedia.org/wiki/Hideo_Murai
 [^2]: Nicholas D. Kristof, "Attacker Fatally Stabs High Official of Japanese Sect" (1995-04-24), The New York Times - https://www.nytimes.com/1995/04/24/world/attacker-fatally-stabs-high-official-of-japanese-sect.html
 [^3]: "Weapons of mass destruction and terrorism: proliferation by nonstate actors" (archived) - https://web.archive.org/web/20170517213839/https://www.hsdl.org/?view&did=438937
+
+## Significance (high-level)
+
+- Murai is frequently cited in analyses of how **highly educated specialists** can be recruited into extremist organizations and redirected toward harmful ends.
+- The public nature of his killing—recorded in front of media—became part of the broader 1995 narrative in Japan, as the country grappled with Aum Shinrikyo’s crimes and the state response.
+- Discussions of Aum’s technical ambitions often use Murai as a concrete example of the group’s attempts to build a quasi-bureaucratic structure (“ministries”) around scientific and engineering work.

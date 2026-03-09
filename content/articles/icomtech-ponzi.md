@@ -62,3 +62,15 @@ Crypto Ponzi scheme that defrauded Latino communities of millions with false min
 ## References
 
 [^1]: Wikipedia (link status may change), "IcomTech Ponzi" - https://en.wikipedia.org/wiki/IcomTech_Ponzi
+
+## Why This Case Is Notable
+
+- It is often cited as an example of how crypto-themed fraud can be packaged with familiar **MLM recruitment tactics**.
+- Community-based marketing can create strong social proof, which increases the risk that victims rely on trusted relationships instead of verifiable financial disclosures.
+- The case is also used in consumer-protection discussions about financial literacy, due diligence, and skepticism toward “too good to be true” yield claims.
+
+## Related Topics
+
+- Ponzi schemes and pyramid/MLM-style recruiting structures
+- Affinity fraud (targeting communities through trust networks)
+- Common withdrawal-delay patterns in investment fraud

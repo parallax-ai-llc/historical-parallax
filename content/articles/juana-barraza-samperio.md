@@ -8,12 +8,14 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Juana_Barraza_Samperio"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
 
 See Juana Barraza.
+
+Juana Dayanara Barraza Samperio is a Mexican **convicted serial killer** and former professional wrestler, widely known by the nickname **"La Mataviejitas"** ("the old lady killer"). She was convicted in connection with the murders of **elderly women** in Mexico City and received an exceptionally long sentence reported as **759 years**.
 
 ## Career Timeline
 
@@ -26,3 +28,27 @@ See Juana Barraza.
 ## References
 
 [^1]: Wikipedia, "Juana Barraza Samperio" - https://en.wikipedia.org/wiki/Juana_Barraza_Samperio
+
+## Additional Context
+
+### Background and Public Persona
+
+Open-source biographies describe Barraza as having grown up in rural Hidalgo and later moving into the world of **lucha libre** (Mexican professional wrestling). She competed as a wrestler under the ring persona **"La Dama del Silencio"** ("The Lady of Silence"), a detail frequently cited to highlight the contrast between her public image and her crimes.
+
+### Victim Pattern and Modus Operandi (High-Level)
+
+Reporting on the case consistently describes a narrow victim profile: **women aged 60 or older**, often living alone. Accounts commonly describe killings carried out through **strangulation or blunt-force assault**, sometimes followed by **robbery**, and suggest that the perpetrator gained entry by appearing trustworthy.
+
+### Investigation Notes
+
+The long-running investigation produced conflicting leads at different points, including mistaken identifications of other suspects and theories that more than one person might be involved. These issues are often discussed as examples of the difficulties in solving serial crimes when offenses are spread across neighborhoods and early cases are not recognized as connected.
+
+### Conviction and Sentence
+
+She was convicted for **16 murders** (with higher totals sometimes alleged in press accounts) and sentenced to **759 years** in prison. In practice, such sentences are frequently reported as symbolic totals that communicate scale and severity within the legal framework.
+
+### Naming and Redirect Note
+
+The Wikipedia link in this file’s frontmatter sometimes resolves under the shorter title **"Juana Barraza"** rather than her full name; references may therefore appear under different page names.
+
+[^2]: Wikipedia, "Juana Barraza" (often used as the primary article title) - https://en.wikipedia.org/wiki/Juana_Barraza

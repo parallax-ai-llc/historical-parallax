@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ramzi_bin_al-Shibh"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -27,3 +27,26 @@ Yemeni terrorist who was a key facilitator of the 9/11 attacks. He helped coordi
 ## References
 
 [^1]: Wikipedia, "Ramzi bin al-Shibh" - https://en.wikipedia.org/wiki/Ramzi_bin_al-Shibh
+
+## Hamburg Cell and Facilitator Role
+
+Bin al-Shibh moved to Hamburg in the 1990s and became closely associated with members of the so-called Hamburg cell, including Mohamed Atta and other future 9/11 hijackers. Public accounts describe him as an intermediary who helped communicate with and support operatives, including through money transfers and relaying information.
+
+## Capture, Detention, and Proceedings
+
+- Captured in Karachi, Pakistan (2002) and held in U.S. custody.
+- Reported to have been held by the CIA before transfer to Guantánamo Bay (2006).
+- Charged before a U.S. military commission (2008) in connection with the 9/11 case.
+
+## Competency and Torture Allegations (High-Level)
+
+Later reporting summarized on Wikipedia notes that questions about his mental competency and the impact of torture allegations have affected the pace and feasibility of legal proceedings.
+
+## Further Reading
+
+Wikipedia’s entry collects references on the Hamburg cell, the post-2002 detention program, and the long-running 9/11 military commission case.
+
+## Related Topics
+
+- Hamburg cell
+- Guantánamo military commissions

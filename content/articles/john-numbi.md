@@ -58,3 +58,9 @@ The following items summarize major roles commonly attributed to him in public b
 - 2018: Reported appointment as Inspector General of FARDC.
 - 2020: Reported replacement in the FARDC inspector general role.
 - 2021: Some biographies report he left/fled the DRC amid shifting political conditions.
+
+## Significance (high level)
+
+- The Chebeya–Bazanaa affair is frequently cited by human-rights groups and governance analysts as a test case for accountability within security services in the DRC.
+- Numbi’s prominence in multiple senior security roles makes him a recurring figure in narratives about civil-military relations and the politicization of police and armed forces leadership.
+- Because many claims around the case are contested and politically charged, neutral summaries often rely on court outcomes, official statements, and well-sourced investigative reporting.

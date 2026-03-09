@@ -49,3 +49,15 @@ Chechen-American killed by FBI while being questioned about connection to Boston
 
 - He is primarily notable in public records for the circumstances of his death during an FBI interview tied to a high-profile terrorism investigation.[^1]
 - Many details commonly discussed online come from reporting and summaries rather than court findings, and readers should distinguish confirmed facts from interpretation.[^1]
+
+## Investigations and Accountability (High-Level)
+
+- In incidents involving law-enforcement use of deadly force, multiple layers of review can occur (agency internal review, prosecutorial review, and/or inspector-general style oversight), depending on the jurisdiction and facts.
+- Public interest in this case often centered on: what prompted the shooting, what was said or done immediately beforehand, and what documentation (reports, timelines, witness statements) supported official conclusions.
+- The event is sometimes cited in broader discussions about interrogation practices, transparency, and civil liberties in terrorism-related investigations.
+
+## Related Topics
+
+- Boston Marathon bombing investigation (2013)
+- Use-of-force policy and post-incident review processes
+- Media narratives and uncertainty in fast-moving criminal investigations

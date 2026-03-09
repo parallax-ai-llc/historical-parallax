@@ -8,7 +8,7 @@ occupation: ["War Criminal"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joshua_Arap_Sang"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -26,3 +26,26 @@ Kenyan radio broadcaster charged by the ICC with crimes against humanity for usi
 ## References
 
 [^1]: Wikipedia, "Joshua Arap Sang" - https://en.wikipedia.org/wiki/Joshua_Arap_Sang
+
+## Context: Kenya’s 2007–2008 post-election violence
+
+After Kenya’s 2007 general election, the disputed results were followed by widespread violence and displacement. The International Criminal Court (ICC) opened investigations focused on alleged orchestrators of violence, including claims that media and political networks contributed to mobilization.
+
+## Allegations and ICC proceedings
+
+Sang was a radio presenter associated with Kass FM (a Kalenjin-language station). ICC prosecutors alleged that broadcasts and on-air coordination helped organize attacks and encouraged audiences to participate, framing his role as part of a broader alleged network.
+
+He was tried alongside William Ruto, with the case turning heavily on witness testimony and the ability to sustain evidence over time.
+
+## Outcome
+
+In 2016, the ICC vacated the charges against Sang (and Ruto) due to evidentiary issues, including the unavailability or unreliability of key testimony as described in public reporting.
+
+## Historical significance
+
+The case is often discussed in relation to:
+
+- The limits of international criminal prosecutions when witness protection and cooperation are difficult
+- The role of media in conflict settings, including speech that may contribute to violence
+- The challenges of attributing criminal liability to broadcasters versus direct perpetrators
+

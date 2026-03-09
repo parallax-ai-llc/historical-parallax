@@ -47,6 +47,13 @@ Salvador Ramos killed 19 children and 2 teachers at Robb Elementary School in Uv
 - The shooting intensified public debate in the United States over firearm regulation, school security, and policing standards.
 - Public memorials and vigils were held; the event remains a focal point in discussions about preventing school shootings.
 
+## Context (high-level)
+- After major school shootings in the U.S., public documentation frequently includes a mix of:
+  - official incident reviews and after-action reports,
+  - legislative hearings and investigative committees,
+  - and civil litigation filings that surface additional factual timelines.
+- Response critiques commonly focus on incident command, communications interoperability, and alignment with active-shooter doctrine.
+
 ## Notes on Sources
 - Many details are drawn from contemporaneous news reporting, official briefings, and subsequent investigative summaries.
 - Where accounts differ across investigations, timelines and conclusions may be reported with varying emphasis.
