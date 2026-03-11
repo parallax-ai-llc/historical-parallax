@@ -18,5 +18,12 @@
   { "name": "Warren Buffett", "born": "1930-08-30", "nationality": "American", "occupation": ["Investor", "CEO", "Philanthropist"], "wikipedia": "https://en.wikipedia.org/wiki/Warren_Buffett" },
   { "name": "Bill Gates", "born": "1955-10-28", "nationality": "American", "occupation": ["Entrepreneur", "Philanthropist", "Software Engineer"], "wikipedia": "https://en.wikipedia.org/wiki/Bill_Gates" },
   { "name": "Oprah Winfrey", "born": "1954-01-29", "nationality": "American", "occupation": ["Media Executive", "TV Host", "Philanthropist"], "wikipedia": "https://en.wikipedia.org/wiki/Oprah_Winfrey" },
-  { "name": "Rihanna", "born": "1988-02-20", "nationality": "Barbadian", "occupation": ["Singer", "Entrepreneur", "Fashion Designer"], "wikipedia": "https://en.wikipedia.org/wiki/Rihanna" }
+  { "name": "Rihanna", "born": "1988-02-20", "nationality": "Barbadian", "occupation": ["Singer", "Entrepreneur", "Fashion Designer"], "wikipedia": "https://en.wikipedia.org/wiki/Rihanna" },
+  { "name": "Kai Cenat", "born": "2001-12-16", "nationality": "American", "occupation": ["Streamer", "Content Creator", "YouTuber"], "wikipedia": "https://en.wikipedia.org/wiki/Kai_Cenat" },
+  { "name": "IShowSpeed", "born": "2005-01-21", "nationality": "American", "occupation": ["Streamer", "Content Creator", "Singer"], "wikipedia": "https://en.wikipedia.org/wiki/IShowSpeed" },
+  { "name": "Dua Lipa", "born": "1995-08-22", "nationality": "British (Albanian-born)", "occupation": ["Singer", "Songwriter", "Model"], "wikipedia": "https://en.wikipedia.org/wiki/Dua_Lipa" },
+  { "name": "Jake Paul", "born": "1997-01-17", "nationality": "American", "occupation": ["Content Creator", "Boxer", "Entrepreneur"], "wikipedia": "https://en.wikipedia.org/wiki/Jake_Paul" },
+  { "name": "Logan Paul", "born": "1995-04-01", "nationality": "American", "occupation": ["Content Creator", "Boxer", "Entrepreneur"], "wikipedia": "https://en.wikipedia.org/wiki/Logan_Paul" },
+  { "name": "xQc", "born": "1995-11-12", "nationality": "Canadian", "occupation": ["Streamer", "Content Creator", "Esports Player"], "wikipedia": "https://en.wikipedia.org/wiki/XQc" },
+  { "name": "Pokimane", "born": "1996-05-14", "nationality": "Canadian (Moroccan-born)", "occupation": ["Streamer", "Content Creator", "Entrepreneur"], "wikipedia": "https://en.wikipedia.org/wiki/Pokimane" }
 ]
