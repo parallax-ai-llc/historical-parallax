@@ -1,11 +1,21 @@
 [
   {"id": "jesus-christ", "name": "Jesus Christ (Bethlehem)", "coordinates": [35.2033, 31.7054]},
   {"id": "gautama-buddha", "name": "Gautama Buddha (Lumbini)", "coordinates": [83.2769, 27.4750]},
-  {"id": "muhammad", "name": "Muhammad (Mecca)", "coordinates": [39.8262, 21.4225]},
+  {"id": "prophet-muhammad", "name": "Prophet Muhammad (Mecca)", "coordinates": [39.8262, 21.4225]},
   {"id": "confucius", "name": "Confucius (Qufu)", "coordinates": [116.9852, 35.5950]},
   {"id": "laozi", "name": "Laozi (China)", "coordinates": [113.0, 33.0]},
   {"id": "socrates", "name": "Socrates (Athens)", "coordinates": [23.7275, 37.9838]},
   {"id": "plato", "name": "Plato (Athens)", "coordinates": [23.7275, 37.9838]},
   {"id": "aristotle", "name": "Aristotle (Stagira)", "coordinates": [23.8309, 40.5336]},
-  {"id": "moses", "name": "Moses (Mount Sinai)", "coordinates": [33.9753, 28.5393]}
+  {"id": "moses", "name": "Moses (Mount Sinai)", "coordinates": [33.9753, 28.5393]},
+  {"id": "zoroaster", "name": "Zoroaster (Persia)", "coordinates": [53.6880, 32.4279]},
+  {"id": "guru-nanak", "name": "Guru Nanak (Nankana Sahib)", "coordinates": [73.7096, 31.4484]},
+  {"id": "mahavira", "name": "Mahavira (Vaishali)", "coordinates": [85.1320, 25.9861]},
+  {"id": "martin-luther", "name": "Martin Luther (Eisleben)", "coordinates": [11.5500, 51.5290]},
+  {"id": "saint-teresa-of-avila", "name": "Teresa of Ávila (Ávila)", "coordinates": [-4.7012, 40.6567]},
+  {"id": "swami-vivekananda", "name": "Swami Vivekananda (Kolkata)", "coordinates": [88.3639, 22.5726]},
+  {"id": "ramakrishna-paramahamsa", "name": "Ramakrishna (Dakshineswar)", "coordinates": [88.3573, 22.6568]},
+  {"id": "bahaullah", "name": "Bahá'u'lláh (Tehran)", "coordinates": [51.3890, 35.6892]},
+  {"id": "milarepa", "name": "Milarepa (Western Tibet)", "coordinates": [84.1290, 29.6500]},
+  {"id": "rumi", "name": "Rumi (Konya)", "coordinates": [32.4869, 37.8713]}
 ]

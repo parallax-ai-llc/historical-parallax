@@ -25,6 +25,7 @@ import espionageLocations from "@/lib/json/espionage-locations.json";
 import scandalsLocations from "@/lib/json/scandals-locations.json";
 import darkWebLocations from "@/lib/json/dark-web-locations.json";
 import organizedCrimeLocations from "@/lib/json/organized-crime-locations.json";
+import worldReligionsSacredSitesLocations from "@/lib/json/world-religions-sacred-sites-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -64,6 +65,7 @@ const mapData: Record<string, UfoLocation[]> = {
   "scandals": scandalsLocations as UfoLocation[],
   "dark-web": darkWebLocations as UfoLocation[],
   "organized-crime": organizedCrimeLocations as UfoLocation[],
+  "world-religions-sacred-sites": worldReligionsSacredSitesLocations as UfoLocation[],
 };
 
 // Custom initial view for specific maps
@@ -83,6 +85,10 @@ const mapViewConfigs: Record<string, MapViewConfig> = {
   "founding-fathers": {
     center: [-77, 38.5], // US East Coast
     zoom: 3,
+  },
+  "world-religions-sacred-sites": {
+    center: [43.0, 25.0], // Middle East / Asia centered
+    zoom: 1.8,
   },
 };
 
@@ -229,5 +235,10 @@ export const MAP_CATEGORIES = [
     id: "organized-crime",
     name: "Cartels & Organized Crime",
     description: "The rise and fall of powerful criminal empires and drug lords.",
+  },
+  {
+    id: "world-religions-sacred-sites",
+    name: "World Religions & Sacred Sites",
+    description: "A geographic survey of humanity's most sacred pilgrimage destinations, temples, mosques, churches, and shrines — the physical anchors of the world's great spiritual traditions.",
   },
 ];
