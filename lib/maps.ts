@@ -27,6 +27,14 @@ import darkWebLocations from "@/lib/json/dark-web-locations.json";
 import organizedCrimeLocations from "@/lib/json/organized-crime-locations.json";
 import worldReligionsSacredSitesLocations from "@/lib/json/world-religions-sacred-sites-locations.json";
 import religiousConflictsLocations from "@/lib/json/religious-conflicts-locations.json";
+import pandemicsLocations from "@/lib/json/pandemics-locations.json";
+import nuclearSitesLocations from "@/lib/json/nuclear-sites-locations.json";
+import spaceRaceLocations from "@/lib/json/space-race-locations.json";
+import colonialEmpiresLocations from "@/lib/json/colonial-empires-locations.json";
+import genocidesMassAtrocitiesLocations from "@/lib/json/genocides-locations.json";
+import heistsLocations from "@/lib/json/heists-locations.json";
+import piratesLocations from "@/lib/json/pirates-locations.json";
+import revolutionsLocations from "@/lib/json/revolutions-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -68,6 +76,14 @@ const mapData: Record<string, UfoLocation[]> = {
   "organized-crime": organizedCrimeLocations as UfoLocation[],
   "world-religions-sacred-sites": worldReligionsSacredSitesLocations as UfoLocation[],
   "religious-conflicts": religiousConflictsLocations as UfoLocation[],
+  "pandemics": pandemicsLocations as UfoLocation[],
+  "nuclear-sites": nuclearSitesLocations as UfoLocation[],
+  "space-race": spaceRaceLocations as UfoLocation[],
+  "colonial-empires": colonialEmpiresLocations as UfoLocation[],
+  "genocides-mass-atrocities": genocidesMassAtrocitiesLocations as UfoLocation[],
+  "heists": heistsLocations as UfoLocation[],
+  "pirates": piratesLocations as UfoLocation[],
+  "revolutions": revolutionsLocations as UfoLocation[],
 };
 
 // Custom initial view for specific maps
@@ -112,15 +128,52 @@ export function getMapLocations(mapId: string, articles: ArticleMeta[]): UfoLoca
 }
 
 export const MAP_CATEGORIES = [
+  // Ancient & Classical World
   {
-    id: "ufo-mysteries",
-    name: "UFOs & Mysteries",
-    description: "Visualizing verified historic anomalies and close encounters.",
+    id: "ancient-empires",
+    name: "Ancient Empires",
+    description: "Key locations and figures of ancient civilizations.",
   },
   {
-    id: "civil-unrest",
-    name: "Civil Unrest & Revolutions",
-    description: "Mapping major protests, revolutions, and uprisings throughout history.",
+    id: "ancient-sites",
+    name: "Ancient Civilizations",
+    description: "Monumental archaeological sites and wonders from ancient civilizations that showcased human ingenuity and cultural achievement.",
+  },
+  {
+    id: "world-religions-sacred-sites",
+    name: "World Religions & Sacred Sites",
+    description: "A geographic survey of humanity's most sacred pilgrimage destinations, temples, mosques, churches, and shrines — the physical anchors of the world's great spiritual traditions.",
+  },
+  {
+    id: "religious-founders",
+    name: "Religious Founders & Philosophers",
+    description: "Founders of major world religions and influential ancient philosophers who shaped human thought and civilization.",
+  },
+  {
+    id: "explorers",
+    name: "Explorers & Discoverers",
+    description: "Pioneering explorers and navigators who charted unknown waters, connected distant civilizations, and expanded humanity's geographical knowledge.",
+  },
+  {
+    id: "colonial-empires",
+    name: "Colonial Empires",
+    description: "Conquistadors, governors, and trade companies that built and dismantled the world's great colonial empires — and the peoples who resisted them.",
+  },
+  {
+    id: "pirates",
+    name: "Pirates & Privateers",
+    description: "Buccaneers, sea rovers, and state-sanctioned privateers who terrorized the oceans and shaped the age of sail.",
+  },
+  // War & Conflict
+  {
+    id: "wwii-battles",
+    name: "World War II Battles",
+    description: "Decisive battles of World War II that shaped the outcome of history's deadliest conflict and transformed the modern world.",
+  },
+  {
+    id: "cold-war",
+    name: "Cold War Flashpoints",
+    description: "Critical events and proxy wars during the Cold War era.",
   },
   {
     id: "political-assassinations",
@@ -128,25 +181,36 @@ export const MAP_CATEGORIES = [
     description: "Map of assassinations that changed the course of history.",
   },
   {
-    id: "ancient-empires",
-    name: "Ancient Empires",
-    description: "Key locations and figures of ancient civilizations.",
-  },
-  {
     id: "dictators-autocrats",
     name: "Dictators & Autocrats",
     description: "Locations associated with 20th-century authoritarian regimes.",
   },
   {
-    id: "korean-history",
-    name: "Korean History",
-    description: "Major events and figures from the Joseon Dynasty to modern Korea.",
+    id: "civil-unrest",
+    name: "Civil Unrest & Revolutions",
+    description: "Mapping major protests, revolutions, and uprisings throughout history.",
   },
   {
-    id: "cold-war",
-    name: "Cold War Flashpoints",
-    description: "Critical events and proxy wars during the Cold War era.",
+    id: "terror-attacks",
+    name: "Terror Attacks",
+    description: "Major acts of terrorism that shocked the world and altered global security policies.",
   },
+  {
+    id: "religious-conflicts",
+    name: "Religious Conflicts & Turning Points",
+    description: "Key battles, councils, schisms, and confrontations that reshaped religious history — mapped with perspectives from every side of the conflict.",
+  },
+  {
+    id: "genocides-mass-atrocities",
+    name: "Genocides & Mass Atrocities",
+    description: "The Holocaust, Rwanda, Cambodia, Srebrenica — sites of history's most devastating crimes against humanity, documented so they are never forgotten.",
+  },
+  {
+    id: "nuclear-sites",
+    name: "Nuclear Sites & Near-Misses",
+    description: "From Trinity to Chernobyl — the laboratories, test sites, and disaster zones that defined the atomic age and brought the world to the brink.",
+  },
+  // Power & Politics
   {
     id: "europe-monarchs",
     name: "Monarchs of Europe",
@@ -163,39 +227,35 @@ export const MAP_CATEGORIES = [
     description: "World leaders shaping the modern geopolitical landscape.",
   },
   {
-    id: "epstein-network",
-    name: "Epstein Network",
-    description: "Individuals mentioned in court documents related to Jeffrey Epstein. Note: Being named does not imply guilt or criminal involvement—many are victims, witnesses, or mentioned in passing.",
+    id: "korean-history",
+    name: "Korean History",
+    description: "Major events and figures from the Joseon Dynasty to modern Korea.",
   },
   {
-    id: "paypal-mafia",
-    name: "PayPal Mafia",
-    description: "Former PayPal employees who became Silicon Valley's most influential entrepreneurs and investors.",
+    id: "revolutions",
+    name: "Revolutions & Independence",
+    description: "From the American and French Revolutions to the Arab Spring — the uprisings, independence movements, and regime changes that redrew the political map.",
   },
-  {
-    id: "religious-founders",
-    name: "Religious Founders & Philosophers",
-    description: "Founders of major world religions and influential ancient philosophers who shaped human thought and civilization.",
-  },
+  // Science & Discovery
   {
     id: "scientists-inventors",
     name: "Scientists & Inventors",
     description: "Pioneering scientists and inventors whose discoveries and innovations revolutionized our understanding of the universe and transformed modern life.",
   },
   {
-    id: "wwii-battles",
-    name: "World War II Battles",
-    description: "Decisive battles of World War II that shaped the outcome of history's deadliest conflict and transformed the modern world.",
+    id: "scientific-discoveries",
+    name: "Scientific Discoveries",
+    description: "Breakthrough moments in science and exploration that fundamentally changed our understanding of the world.",
   },
   {
-    id: "ancient-sites",
-    name: "Ancient Civilizations",
-    description: "Monumental archaeological sites and wonders from ancient civilizations that showcased human ingenuity and cultural achievement.",
+    id: "space-race",
+    name: "The Space Race",
+    description: "From Sputnik to Apollo 11 — the launch sites, mission control centers, and key figures of humanity's greatest technological competition.",
   },
   {
-    id: "explorers",
-    name: "Explorers & Discoverers",
-    description: "Pioneering explorers and navigators who charted unknown waters, connected distant civilizations, and expanded humanity's geographical knowledge.",
+    id: "pandemics",
+    name: "Pandemics & Epidemics",
+    description: "The Black Death, Spanish Flu, and COVID-19 — mapping the origins and spread of the diseases that have periodically reshaped human civilization.",
   },
   {
     id: "disasters",
@@ -212,16 +272,7 @@ export const MAP_CATEGORIES = [
     name: "Historical Trials",
     description: "Courtroom dramas and legal battles that defined justice, religion, and human rights throughout history.",
   },
-  {
-    id: "scientific-discoveries",
-    name: "Scientific Discoveries",
-    description: "Breakthrough moments in science and exploration that fundamentally changed our understanding of the world.",
-  },
-  {
-    id: "terror-attacks",
-    name: "Terror Attacks",
-    description: "Major acts of terrorism that shocked the world and altered global security policies.",
-  },
+  // Crime & Shadows
   {
     id: "espionage",
     name: "Spies & Espionage",
@@ -233,23 +284,35 @@ export const MAP_CATEGORIES = [
     description: "Notorious scams, corporate frauds, and political scandals that exposed corruption and greed.",
   },
   {
-    id: "dark-web",
-    name: "Dark Web & Cybercrime",
-    description: "Major cyberattacks, darknet markets, and cryptocurrency heists that defined the digital underworld.",
-  },
-  {
     id: "organized-crime",
     name: "Cartels & Organized Crime",
     description: "The rise and fall of powerful criminal empires and drug lords.",
   },
   {
-    id: "world-religions-sacred-sites",
-    name: "World Religions & Sacred Sites",
-    description: "A geographic survey of humanity's most sacred pilgrimage destinations, temples, mosques, churches, and shrines — the physical anchors of the world's great spiritual traditions.",
+    id: "dark-web",
+    name: "Dark Web & Cybercrime",
+    description: "Major cyberattacks, darknet markets, and cryptocurrency heists that defined the digital underworld.",
   },
   {
-    id: "religious-conflicts",
-    name: "Religious Conflicts & Turning Points",
-    description: "Key battles, councils, schisms, and confrontations that reshaped religious history — mapped with perspectives from every side of the conflict.",
+    id: "heists",
+    name: "Heists & Art Theft",
+    description: "The Antwerp diamond heist, Gardner Museum theft, and Hatton Garden job — audacious robberies that captivated the world.",
+  },
+  // Networks & Power Brokers
+  {
+    id: "epstein-network",
+    name: "Epstein Network",
+    description: "Individuals mentioned in court documents related to Jeffrey Epstein. Note: Being named does not imply guilt or criminal involvement—many are victims, witnesses, or mentioned in passing.",
+  },
+  {
+    id: "paypal-mafia",
+    name: "PayPal Mafia",
+    description: "Former PayPal employees who became Silicon Valley's most influential entrepreneurs and investors.",
+  },
+  // Unknown
+  {
+    id: "ufo-mysteries",
+    name: "UFOs & Mysteries",
+    description: "Visualizing verified historic anomalies and close encounters.",
   },
 ];

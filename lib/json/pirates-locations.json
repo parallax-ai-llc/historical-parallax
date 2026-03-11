@@ -1,0 +1,15 @@
+[
+  { "id": "blackbeard", "name": "Blackbeard (Edward Teach)", "coordinates": [-76.47, 35.03] },
+  { "id": "captain-kidd", "name": "Captain Kidd (William Kidd)", "coordinates": [-4.28, 55.86] },
+  { "id": "anne-bonny", "name": "Anne Bonny", "coordinates": [-6.26, 53.35] },
+  { "id": "calico-jack", "name": "Calico Jack (John Rackham)", "coordinates": [-77.30, 25.05] },
+  { "id": "calico-jack-rackham", "name": "Calico Jack Rackham", "coordinates": [-77.30, 25.05] },
+  { "id": "bartholomew-roberts", "name": "Bartholomew Roberts (Black Bart)", "coordinates": [-3.92, 51.48] },
+  { "id": "henry-morgan", "name": "Henry Morgan", "coordinates": [-77.80, 18.11] },
+  { "id": "francis-drake", "name": "Francis Drake", "coordinates": [-3.92, 51.48] },
+  { "id": "sir-francis-drake", "name": "Sir Francis Drake", "coordinates": [-4.14, 50.38] },
+  { "id": "francis-drake-circumnavigation-1577", "name": "Drake Circumnavigation 1577", "coordinates": [-4.14, 50.38] },
+  { "id": "samuel-bellamy", "name": "Samuel Bellamy", "coordinates": [-70.07, 41.67] },
+  { "id": "mary-read", "name": "Mary Read", "coordinates": [-0.13, 51.51] },
+  { "id": "william-dampier", "name": "William Dampier", "coordinates": [-3.00, 51.00] }
+]

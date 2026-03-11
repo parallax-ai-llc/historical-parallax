@@ -1,0 +1,17 @@
+[
+  { "id": "black-death", "name": "Black Death", "coordinates": [15.0, 50.0] },
+  { "id": "black-death-pandemic", "name": "Black Death Pandemic", "coordinates": [12.5, 45.0] },
+  { "id": "spanish-flu-1918", "name": "Spanish Flu 1918", "coordinates": [-97.86, 39.14] },
+  { "id": "spanish-flu-pandemic", "name": "Spanish Flu Pandemic", "coordinates": [-96.77, 39.06] },
+  { "id": "spanish-flu-pandemic-1918", "name": "Spanish Flu Pandemic 1918", "coordinates": [-97.86, 39.14] },
+  { "id": "covid-19-pandemic", "name": "COVID-19 Pandemic", "coordinates": [114.31, 30.59] },
+  { "id": "smallpox-eradication", "name": "Smallpox Eradication", "coordinates": [2.35, 48.86] },
+  { "id": "edward-jenner", "name": "Edward Jenner", "coordinates": [-2.17, 51.45] },
+  { "id": "alexander-fleming", "name": "Alexander Fleming", "coordinates": [-4.28, 55.86] },
+  { "id": "alexander-fleming-penicillin-1928", "name": "Penicillin Discovery 1928", "coordinates": [-0.13, 51.51] },
+  { "id": "joseph-lister", "name": "Joseph Lister", "coordinates": [-4.28, 55.86] },
+  { "id": "louis-pasteur", "name": "Louis Pasteur", "coordinates": [2.35, 48.86] },
+  { "id": "louis-pasteur-germ-theory-1861", "name": "Germ Theory 1861", "coordinates": [2.35, 48.86] },
+  { "id": "jonas-salk", "name": "Jonas Salk", "coordinates": [-71.06, 42.36] },
+  { "id": "robert-koch", "name": "Robert Koch", "coordinates": [13.41, 52.52] }
+]

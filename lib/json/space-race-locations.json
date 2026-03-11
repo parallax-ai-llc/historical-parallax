@@ -1,0 +1,21 @@
+[
+  { "id": "apollo-11-moon-landing", "name": "Apollo 11 Moon Landing", "coordinates": [-80.60, 28.39] },
+  { "id": "moon-landing-apollo-11", "name": "Moon Landing Apollo 11", "coordinates": [-80.60, 28.39] },
+  { "id": "moon-landing-1969", "name": "Moon Landing 1969", "coordinates": [-80.60, 28.39] },
+  { "id": "sputnik-launch", "name": "Sputnik Launch", "coordinates": [63.31, 45.97] },
+  { "id": "sputnik-satellite-launch", "name": "Sputnik Satellite Launch", "coordinates": [63.31, 45.97] },
+  { "id": "yuri-gagarin", "name": "Yuri Gagarin", "coordinates": [36.53, 55.14] },
+  { "id": "first-human-in-space-gagarin", "name": "First Human in Space", "coordinates": [63.31, 45.97] },
+  { "id": "first-human-in-space", "name": "First Human in Space", "coordinates": [63.31, 45.97] },
+  { "id": "neil-armstrong", "name": "Neil Armstrong", "coordinates": [-84.19, 40.54] },
+  { "id": "alan-shepard", "name": "Alan Shepard", "coordinates": [-71.57, 42.87] },
+  { "id": "john-glenn", "name": "John Glenn", "coordinates": [-82.99, 39.96] },
+  { "id": "buzz-aldrin", "name": "Buzz Aldrin", "coordinates": [-74.22, 40.82] },
+  { "id": "chris-hadfield", "name": "Chris Hadfield", "coordinates": [-79.69, 43.63] },
+  { "id": "challenger-disaster", "name": "Challenger Disaster", "coordinates": [-80.60, 28.39] },
+  { "id": "challenger-shuttle-disaster", "name": "Challenger Shuttle Disaster", "coordinates": [-80.60, 28.39] },
+  { "id": "columbia-shuttle-disaster", "name": "Columbia Shuttle Disaster", "coordinates": [-80.60, 28.39] },
+  { "id": "hubble-space-telescope-launch", "name": "Hubble Space Telescope Launch", "coordinates": [-80.60, 28.39] },
+  { "id": "hubble-telescope-launch", "name": "Hubble Telescope Launch", "coordinates": [-80.60, 28.39] },
+  { "id": "outer-space-treaty", "name": "Outer Space Treaty", "coordinates": [-77.04, 38.90] }
+]

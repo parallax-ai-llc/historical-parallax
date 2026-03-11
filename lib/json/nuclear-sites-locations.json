@@ -1,0 +1,22 @@
+[
+  { "id": "hiroshima-bombing", "name": "Hiroshima Bombing", "coordinates": [132.45, 34.39] },
+  { "id": "hiroshima-atomic-bombing", "name": "Hiroshima Atomic Bombing", "coordinates": [132.45, 34.39] },
+  { "id": "nagasaki-bombing", "name": "Nagasaki Bombing", "coordinates": [129.87, 32.75] },
+  { "id": "nagasaki-atomic-bombing", "name": "Nagasaki Atomic Bombing", "coordinates": [129.87, 32.75] },
+  { "id": "chernobyl-disaster", "name": "Chernobyl Disaster", "coordinates": [30.09, 51.28] },
+  { "id": "chernobyl-disaster-1986", "name": "Chernobyl Disaster 1986", "coordinates": [30.09, 51.28] },
+  { "id": "chernobyl-nuclear-disaster", "name": "Chernobyl Nuclear Disaster", "coordinates": [30.09, 51.28] },
+  { "id": "fukushima-disaster", "name": "Fukushima Disaster", "coordinates": [141.03, 37.42] },
+  { "id": "fukushima-disaster-2011", "name": "Fukushima Disaster 2011", "coordinates": [141.03, 37.42] },
+  { "id": "fukushima-nuclear-disaster", "name": "Fukushima Nuclear Disaster", "coordinates": [141.03, 37.42] },
+  { "id": "fukushima-nuclear-disaster-2011", "name": "Fukushima Nuclear Disaster 2011", "coordinates": [141.03, 37.42] },
+  { "id": "first-atomic-bomb-test", "name": "Trinity Test Site", "coordinates": [-106.48, 33.68] },
+  { "id": "first-atomic-bomb-test-trinity", "name": "Trinity Test", "coordinates": [-106.48, 33.68] },
+  { "id": "chicago-pile-nuclear-reactor", "name": "Chicago Pile-1", "coordinates": [-87.63, 41.88] },
+  { "id": "first-nuclear-reactor-chicago-pile", "name": "First Nuclear Reactor", "coordinates": [-87.63, 41.88] },
+  { "id": "j-robert-oppenheimer", "name": "J. Robert Oppenheimer", "coordinates": [-122.26, 37.87] },
+  { "id": "robert-oppenheimer", "name": "Robert Oppenheimer", "coordinates": [-106.48, 33.68] },
+  { "id": "enrico-fermi", "name": "Enrico Fermi", "coordinates": [-87.63, 41.88] },
+  { "id": "edward-teller", "name": "Edward Teller", "coordinates": [19.04, 47.50] },
+  { "id": "nuclear-non-proliferation-treaty", "name": "Nuclear Non-Proliferation Treaty", "coordinates": [2.35, 48.86] }
+]

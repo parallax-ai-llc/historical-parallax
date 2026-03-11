@@ -1,0 +1,17 @@
+[
+  { "id": "christopher-columbus", "name": "Christopher Columbus", "coordinates": [8.95, 44.41] },
+  { "id": "columbus-reaches-americas", "name": "Columbus Reaches Americas", "coordinates": [-76.0, 18.0] },
+  { "id": "discovery-of-america-by-columbus", "name": "Discovery of America", "coordinates": [-76.0, 18.0] },
+  { "id": "vasco-da-gama", "name": "Vasco da Gama", "coordinates": [-8.13, 37.95] },
+  { "id": "vasco-da-gama-reaches-india", "name": "Vasco da Gama Reaches India", "coordinates": [75.78, 11.26] },
+  { "id": "vasco-da-gama-india-1498", "name": "Vasco da Gama India 1498", "coordinates": [75.78, 11.26] },
+  { "id": "vasco-da-gama-india-route", "name": "Vasco da Gama India Route", "coordinates": [-8.13, 37.95] },
+  { "id": "francisco-pizarro", "name": "Francisco Pizarro", "coordinates": [-77.0, -12.0] },
+  { "id": "gonzalo-pizarro", "name": "Gonzalo Pizarro", "coordinates": [-75.5, -9.0] },
+  { "id": "cortez-massacre-at-cholula", "name": "Cortez Massacre at Cholula", "coordinates": [-98.31, 19.06] },
+  { "id": "british-raj-begins", "name": "British Raj Begins", "coordinates": [77.22, 28.64] },
+  { "id": "cecil-rhodes", "name": "Cecil Rhodes", "coordinates": [28.05, -26.20] },
+  { "id": "hernan-cortes", "name": "Hernán Cortés", "coordinates": [-99.13, 19.43] },
+  { "id": "dutch-east-india-company", "name": "Dutch East India Company", "coordinates": [4.90, 52.37] },
+  { "id": "east-india-company", "name": "East India Company", "coordinates": [-0.13, 51.51] }
+]
