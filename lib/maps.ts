@@ -120,11 +120,18 @@ export function getMapViewConfig(mapId: string): MapViewConfig | undefined {
 
 export function getMapLocations(mapId: string, articles: ArticleMeta[]): UfoLocation[] {
   const locations = mapData[mapId] || [];
-  // Filter to only include locations for articles that actually exist
   const existingIds = new Set(articles.map((a) => a.id));
 
-  // Some IDs in json might be simplified or legacy, we should check matches
-  return locations.filter((loc) => existingIds.has(loc.id));
+  const filtered = locations.filter((loc) => existingIds.has(loc.id));
+
+  // Deduplicate by exact coordinates — same [lng, lat] = same person/event, keep first
+  const seen = new Set<string>();
+  return filtered.filter((loc) => {
+    const key = `${loc.coordinates[0]},${loc.coordinates[1]}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 export const MAP_CATEGORIES = [
