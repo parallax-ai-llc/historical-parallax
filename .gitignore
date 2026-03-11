@@ -39,6 +39,17 @@ yarn-error.log*
 # data collector (managed separately in tool-factory)
 /data-collector
 
+# local claude settings
+.claude/settings.local.json
+
+# temporary batch generation files
+batch3*.json
+
+# content generation scripts (one-off tools)
+gen_*.js
+generate_*.js
+mass_gen.js
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
