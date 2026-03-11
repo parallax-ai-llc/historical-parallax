@@ -1,0 +1,22 @@
+[
+  { "name": "MrBeast", "nationality": "American", "occupation": ["YouTuber", "Content Creator", "Philanthropist"], "wikipedia": "https://en.wikipedia.org/wiki/MrBeast" },
+  { "name": "Elon Musk", "born": "1971-06-28", "nationality": "American (South African-born)", "occupation": ["Entrepreneur", "CEO", "Investor"], "wikipedia": "https://en.wikipedia.org/wiki/Elon_Musk" },
+  { "name": "Mark Zuckerberg", "born": "1984-05-14", "nationality": "American", "occupation": ["Entrepreneur", "CEO", "Software Engineer"], "wikipedia": "https://en.wikipedia.org/wiki/Mark_Zuckerberg" },
+  { "name": "Jeff Bezos", "born": "1964-01-12", "nationality": "American", "occupation": ["Entrepreneur", "CEO", "Investor"], "wikipedia": "https://en.wikipedia.org/wiki/Jeff_Bezos" },
+  { "name": "Sam Altman", "born": "1985-04-22", "nationality": "American", "occupation": ["Entrepreneur", "CEO", "Investor"], "wikipedia": "https://en.wikipedia.org/wiki/Sam_Altman" },
+  { "name": "Jensen Huang", "born": "1963-02-17", "nationality": "American (Taiwanese-born)", "occupation": ["Entrepreneur", "CEO", "Engineer"], "wikipedia": "https://en.wikipedia.org/wiki/Jensen_Huang" },
+  { "name": "Taylor Swift", "born": "1989-12-13", "nationality": "American", "occupation": ["Singer", "Songwriter", "Musician"], "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift" },
+  { "name": "Cristiano Ronaldo", "born": "1985-02-05", "nationality": "Portuguese", "occupation": ["Footballer", "Athlete"], "wikipedia": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo" },
+  { "name": "Lionel Messi", "born": "1987-06-24", "nationality": "Argentine", "occupation": ["Footballer", "Athlete"], "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Messi" },
+  { "name": "LeBron James", "born": "1984-12-30", "nationality": "American", "occupation": ["Basketball Player", "Athlete", "Entrepreneur"], "wikipedia": "https://en.wikipedia.org/wiki/LeBron_James" },
+  { "name": "Kim Jong-un", "born": "1984-01-08", "nationality": "North Korean", "occupation": ["Dictator", "Supreme Leader", "Politician"], "wikipedia": "https://en.wikipedia.org/wiki/Kim_Jong-un" },
+  { "name": "Xi Jinping", "born": "1953-06-15", "nationality": "Chinese", "occupation": ["Politician", "General Secretary", "President"], "wikipedia": "https://en.wikipedia.org/wiki/Xi_Jinping" },
+  { "name": "Vladimir Putin", "born": "1952-10-07", "nationality": "Russian", "occupation": ["Politician", "President", "Former KGB Officer"], "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin" },
+  { "name": "Volodymyr Zelensky", "born": "1978-01-25", "nationality": "Ukrainian", "occupation": ["Politician", "President", "Former Actor"], "wikipedia": "https://en.wikipedia.org/wiki/Volodymyr_Zelensky" },
+  { "name": "Donald Trump", "born": "1946-06-14", "nationality": "American", "occupation": ["Politician", "President", "Businessman"], "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump" },
+  { "name": "Barack Obama", "born": "1961-08-04", "nationality": "American", "occupation": ["Politician", "President", "Lawyer"], "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama" },
+  { "name": "Warren Buffett", "born": "1930-08-30", "nationality": "American", "occupation": ["Investor", "CEO", "Philanthropist"], "wikipedia": "https://en.wikipedia.org/wiki/Warren_Buffett" },
+  { "name": "Bill Gates", "born": "1955-10-28", "nationality": "American", "occupation": ["Entrepreneur", "Philanthropist", "Software Engineer"], "wikipedia": "https://en.wikipedia.org/wiki/Bill_Gates" },
+  { "name": "Oprah Winfrey", "born": "1954-01-29", "nationality": "American", "occupation": ["Media Executive", "TV Host", "Philanthropist"], "wikipedia": "https://en.wikipedia.org/wiki/Oprah_Winfrey" },
+  { "name": "Rihanna", "born": "1988-02-20", "nationality": "Barbadian", "occupation": ["Singer", "Entrepreneur", "Fashion Designer"], "wikipedia": "https://en.wikipedia.org/wiki/Rihanna" }
+]

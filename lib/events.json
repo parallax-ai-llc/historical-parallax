@@ -1,0 +1,17 @@
+[
+  { "name": "Invasion of Ukraine", "start": "2022-02-24", "location": "Ukraine", "type": ["War", "Geopolitics", "Modern Conflict"], "wikipedia": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine" },
+  { "name": "COVID-19 Pandemic", "start": "2019-12-01", "end": "2023-05-05", "location": "Global", "type": ["Pandemic", "Health Crisis", "Modern Event"], "wikipedia": "https://en.wikipedia.org/wiki/COVID-19_pandemic" },
+  { "name": "September 11 Attacks", "start": "2001-09-11", "end": "2001-09-11", "location": "United States", "type": ["Terrorism", "Terror Attack", "Modern Conflict"], "wikipedia": "https://en.wikipedia.org/wiki/September_11_attacks" },
+  { "name": "Arab Spring", "start": "2010-12-17", "end": "2012-12-31", "location": "Middle East, North Africa", "type": ["Revolution", "Civil Unrest", "Geopolitics"], "wikipedia": "https://en.wikipedia.org/wiki/Arab_Spring" },
+  { "name": "Global Financial Crisis 2008", "start": "2007-08-01", "end": "2009-06-30", "location": "Global", "type": ["Economic Crisis", "Financial Crash"], "wikipedia": "https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis" },
+  { "name": "Fall of the Berlin Wall", "start": "1989-11-09", "end": "1989-11-09", "location": "Germany", "type": ["Cold War", "Revolution", "Geopolitics"], "wikipedia": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall" },
+  { "name": "Dissolution of the Soviet Union", "start": "1991-12-25", "end": "1991-12-25", "location": "Soviet Union", "type": ["Cold War", "Geopolitics", "Revolution"], "wikipedia": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union" },
+  { "name": "Tiananmen Square Massacre", "start": "1989-06-04", "end": "1989-06-04", "location": "China", "type": ["Civil Unrest", "Political Repression", "Modern Event"], "wikipedia": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre" },
+  { "name": "Apollo 11 Moon Landing", "start": "1969-07-16", "end": "1969-07-24", "location": "Moon", "type": ["Space Race", "Scientific Discovery", "Cold War"], "wikipedia": "https://en.wikipedia.org/wiki/Apollo_11" },
+  { "name": "Chernobyl Nuclear Disaster", "start": "1986-04-26", "end": "1986-04-26", "location": "Soviet Union (Ukraine)", "type": ["Nuclear Sites", "Disasters", "Cold War"], "wikipedia": "https://en.wikipedia.org/wiki/Chernobyl_disaster" },
+  { "name": "Rwandan Genocide", "start": "1994-04-07", "end": "1994-07-15", "location": "Rwanda", "type": ["Genocide", "Mass Atrocities", "African History"], "wikipedia": "https://en.wikipedia.org/wiki/Rwandan_genocide" },
+  { "name": "Gaza War 2023", "start": "2023-10-07", "location": "Gaza, Israel", "type": ["War", "Modern Conflict", "Geopolitics"], "wikipedia": "https://en.wikipedia.org/wiki/Israel%E2%80%93Hamas_war" },
+  { "name": "Brexit", "start": "2016-06-23", "end": "2020-01-31", "location": "United Kingdom", "type": ["Geopolitics", "Modern Event", "Politics"], "wikipedia": "https://en.wikipedia.org/wiki/Brexit" },
+  { "name": "assassination of Archduke Franz Ferdinand", "start": "1914-06-28", "end": "1914-06-28", "location": "Sarajevo, Bosnia", "type": ["Assassination", "WWI", "Historical Event"], "wikipedia": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand" },
+  { "name": "Atomic Bombing of Hiroshima", "start": "1945-08-06", "end": "1945-08-06", "location": "Hiroshima, Japan", "type": ["WWII", "Nuclear", "War"], "wikipedia": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" }
+]
