@@ -1,0 +1,1 @@
+Article written to `content/articles/len-blavatnik.md`. It covers his background, Access Industries, the TNK-BP and Warner Music deals, philanthropy, and controversies — approximately 550 words of body content.

@@ -1,0 +1,1 @@
+The article has been written to `content/articles/yordan-alvarez.md`. It covers approximately 550 words of body content with factual coverage of Alvarez's Cuban origins, the lopsided Dodgers trade, his unanimous Rookie of the Year award, the 2022 World Series championship, key stats, and his long-term contract extension.

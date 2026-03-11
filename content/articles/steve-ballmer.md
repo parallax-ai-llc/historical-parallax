@@ -1,0 +1,1 @@
+The article has been written to `content/articles/steve-ballmer.md`. It covers Ballmer's life from his Detroit upbringing and Harvard years through his 14-year tenure as Microsoft CEO, his purchase of the LA Clippers, and his USAFacts initiative, with balanced coverage of both achievements and criticisms around mobile strategy and stack ranking.

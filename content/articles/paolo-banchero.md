@@ -1,0 +1,1 @@
+Article written to `content/articles/paolo-banchero.md`. Covers his Seattle upbringing, Duke career under Coach K, first overall pick by the Magic, Rookie of the Year award, All-Star selection, Italian national team representation, and his emerging legacy as a franchise cornerstone.

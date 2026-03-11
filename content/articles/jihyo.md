@@ -1,0 +1,1 @@
+The article has been written to `content/articles/jihyo.md`. It covers Jihyo's decade-long trainee period, TWICE's debut and commercial success, her solo career with *Zone*, the Kang Daniel relationship coverage, and her legacy as a leader — all within the ~550 word body content range matching the project's existing article format.

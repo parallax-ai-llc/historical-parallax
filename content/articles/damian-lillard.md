@@ -1,0 +1,1 @@
+The article for Damian Lillard has been written to `content/articles/damian-lillard.md`. It covers his Oakland upbringing, Weber State career, rise with the Trail Blazers, iconic buzzer-beaters, trade to Milwaukee, key stats, and legacy — all within the requested format and word count.

@@ -1,0 +1,1 @@
+The article has been written to `content/articles/zion-williamson.md` — approximately 550 words of body content covering his background, Duke career, NBA achievements, injury history, controversies, and legacy.

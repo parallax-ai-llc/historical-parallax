@@ -1,0 +1,1 @@
+The article has been created at `content/articles/freddie-freeman.md`. It follows the same format as the other baseball player articles in the project, covering Freeman's early life in Orange County, his rise through the Braves organization, his MVP season, both World Series titles, the controversial departure from Atlanta, and his legacy trajectory toward the Hall of Fame.

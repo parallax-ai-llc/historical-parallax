@@ -1,0 +1,1 @@
+Article created at `content/articles/nikola-jokic.md`. It includes all requested sections with factual coverage of Jokic's career from Sombor to three-time MVP and 2023 NBA champion, with 27 footnoted references.

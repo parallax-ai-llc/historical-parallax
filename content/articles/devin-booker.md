@@ -1,0 +1,1 @@
+The article for Devin Booker has been written to `content/articles/devin-booker.md`.

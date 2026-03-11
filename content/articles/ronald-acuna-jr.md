@@ -1,0 +1,1 @@
+The article for Ronald Acuña Jr. has been written to `content/articles/ronald-acuna-jr.md`. It covers his Venezuelan roots, rapid rise through the Braves' system, the historic 40-70 season, his MVP and Rookie of the Year awards, injury setbacks, and his legacy as a generational talent.

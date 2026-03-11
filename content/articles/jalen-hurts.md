@@ -1,0 +1,1 @@
+Article written to `content/articles/jalen-hurts.md`. Covers his Houston upbringing, Alabama and Oklahoma college career, Eagles rise through Super Bowl LVII, key stats/achievements, injury and performance criticisms, and his resilience legacy — approximately 550 words of body content.

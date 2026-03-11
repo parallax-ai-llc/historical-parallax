@@ -1,0 +1,1 @@
+Article written to `content/articles/ceedee-lamb.md`. It covers his Louisiana origins, standout Oklahoma career, rise as Dallas's WR1 after Cooper's trade, his NFL-leading 2023 season (135 receptions, 1,749 yards), the $136M contract extension, holdout controversy, playoff criticism, and his growing legacy as one of the league's premier receivers.

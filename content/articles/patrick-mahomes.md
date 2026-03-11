@@ -1,0 +1,1 @@
+Article written to `content/articles/patrick-mahomes.md`. It covers his background as Pat Mahomes Sr.'s son, his Texas Tech career, his record-breaking 2018 MVP season, three Super Bowl wins (LIV, LVII, LVIII), his $503 million contract, and his legacy as a generational quarterback talent.

@@ -1,0 +1,1 @@
+The article has been created at `content/articles/joel-embiid.md` with all requested sections, factual coverage of Embiid's career from Yaoundé to NBA MVP, and approximately 550 words of body content.

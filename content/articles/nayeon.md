@@ -1,0 +1,1 @@
+The article has been written to `content/articles/nayeon.md`. It covers Nayeon's background, TWICE debut via *Sixteen*, solo career milestones (including her historic Billboard 200 top-ten debut), the stalking controversy, and her legacy — all within the ~550 word body content range matching the project's existing article format.

@@ -1,0 +1,1 @@
+Article created at `content/articles/jayson-tatum.md`. It covers Tatum's career from his St. Louis upbringing and Duke season through his rise with the Celtics, the 2024 NBA championship, Olympic gold in Paris, key achievements, balanced criticism regarding shot selection and the Brown/Tatum dynamic, and his growing legacy as a defining modern wing player.

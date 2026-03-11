@@ -1,0 +1,1 @@
+The article has been written to `content/articles/vladimir-guerrero-jr.md`. It covers his background as the son of a Hall of Famer, his rise through the Blue Jays system, his breakout 2021 season (48 HR, .311 AVG, 1.002 OPS), key achievements, the conditioning/position change discussion, and his legacy bridging Dominican and Canadian baseball culture.

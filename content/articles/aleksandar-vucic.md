@@ -1,0 +1,1 @@
+The article has been written to `content/articles/aleksandar-vucic.md`. It covers Vucic's full trajectory from 1990s ultranationalist to current president, including economic achievements, democratic backsliding concerns, the Kosovo dialogue, and the 2024 Novi Sad station collapse protests.

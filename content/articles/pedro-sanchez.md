@@ -1,0 +1,1 @@
+Article created at `content/articles/pedro-sanchez.md`.

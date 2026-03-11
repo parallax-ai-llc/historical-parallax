@@ -1,0 +1,1 @@
+The article has been written to `content/articles/joe-burrow.md`. It covers Burrow's background, his historic 2019 LSU season, his NFL career with the Bengals including the Super Bowl LVI run, key achievements, injury concerns, and his growing legacy — all within the requested format and word count.
