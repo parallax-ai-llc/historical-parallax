@@ -1,0 +1,22 @@
+[
+  {"id": "battle-of-karbala", "name": "Battle of Karbala (Iraq)", "coordinates": [44.0247, 32.6162]},
+  {"id": "council-of-nicaea-325", "name": "Council of Nicaea (Iznik, Turkey)", "coordinates": [29.7212, 40.4316]},
+  {"id": "great-schism-1054", "name": "Great Schism – Rome", "coordinates": [12.4964, 41.9028]},
+  {"id": "ottoman-conquest-of-constantinople", "name": "Fall of Constantinople", "coordinates": [28.9784, 41.0086]},
+  {"id": "first-crusade", "name": "First Crusade – Clermont (launch)", "coordinates": [3.0795, 45.7796]},
+  {"id": "fourth-crusade-sack-of-constantinople", "name": "Sack of Constantinople (1204)", "coordinates": [28.9200, 41.0200]},
+  {"id": "saladin-reconquest-of-jerusalem", "name": "Saladin Reconquers Jerusalem", "coordinates": [35.2354, 31.7781]},
+  {"id": "destruction-of-second-temple", "name": "Destruction of Second Temple", "coordinates": [35.2341, 31.7767]},
+  {"id": "protestant-reformation", "name": "Protestant Reformation – Wittenberg", "coordinates": [12.6497, 51.8660]},
+  {"id": "reformation-95-theses", "name": "95 Theses – Wittenberg", "coordinates": [12.6520, 51.8670]},
+  {"id": "diet-of-worms-1521", "name": "Diet of Worms", "coordinates": [8.3669, 49.6333]},
+  {"id": "thirty-years-war", "name": "Thirty Years' War – Prague", "coordinates": [14.4378, 50.0755]},
+  {"id": "spanish-inquisition-established", "name": "Spanish Inquisition – Seville", "coordinates": [-5.9963, 37.3891]},
+  {"id": "reconquista", "name": "Reconquista – Granada (final battle)", "coordinates": [-3.5986, 37.1773]},
+  {"id": "st-bartholomews-day-massacre", "name": "St. Bartholomew's Day Massacre – Paris", "coordinates": [2.3522, 48.8566]},
+  {"id": "galileo-affair", "name": "Galileo Trial – Vatican", "coordinates": [12.4534, 41.9022]},
+  {"id": "council-of-trent", "name": "Council of Trent – Trento", "coordinates": [11.1217, 46.0747]},
+  {"id": "second-crusade", "name": "Second Crusade – Damascus", "coordinates": [36.2910, 33.5102]},
+  {"id": "third-crusade", "name": "Third Crusade – Acre", "coordinates": [35.0818, 32.9239]},
+  {"id": "battle-of-tours", "name": "Battle of Tours – Poitiers, France", "coordinates": [0.3404, 46.5803]}
+]
