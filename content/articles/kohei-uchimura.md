@@ -8,7 +8,8 @@ occupation: ["Athlete", "Olympic Champion", "Gymnast"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kohei_Uchimura"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 

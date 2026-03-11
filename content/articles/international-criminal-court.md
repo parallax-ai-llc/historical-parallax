@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/International_Criminal_Court"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Permanent international court established in 2002 to prosecute genocide, war crimes, and crimes against humanity. It has issued arrest warrants for leaders including Putin and al-Bashir.

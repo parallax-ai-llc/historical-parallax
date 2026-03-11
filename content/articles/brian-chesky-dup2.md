@@ -1,4 +1,5 @@
 ---
+
 id: "brian-chesky-dup2"
 name: "Brian Chesky dup2"
 birth: "1981-08-29"

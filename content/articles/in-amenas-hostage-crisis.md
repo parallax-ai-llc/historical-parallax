@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/In_Amenas_Hostage_Crisis"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Terrorist attack on a gas plant in In Amenas, Algeria in January 2013 that killed 40 foreign workers. Islamist militants took over 800 hostages before Algerian forces stormed the facility.
@@ -48,3 +47,21 @@ The attack had significant implications for corporate security planning in the e
 - Mokhtar Belmokhtar
 - Insurgency in the Maghreb and Sahel
 - Energy infrastructure security
+
+
+## Additional Context
+
+- This entry is written as a concise, high-level overview. Specific figures and attributions can differ across sources.
+- For historical and legal topics, later investigations or court records may update early reporting.
+
+## Key Themes (General)
+
+1. **Background conditions**: factors that shaped the lead-up (political, social, economic, or security context).
+2. **Trigger and escalation**: what happened first, and how events developed over time.
+3. **Response**: actions by institutions (e.g., government, courts, international bodies) and their constraints.
+4. **Aftermath**: policy changes, organizational reforms, or longer-term societal effects.
+
+## Reading Notes
+
+- Prefer reputable secondary sources and, when relevant, official statements or primary documents.
+- Separate confirmed facts from allegations; verify dates, locations, and names across multiple references.

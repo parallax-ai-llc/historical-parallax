@@ -55,3 +55,19 @@ Work on innate immunity helped clarify how organisms detect pathogens quickly an
 - Toll pathway / Toll receptor
 - Toll-like receptors (TLRs)
 - *Drosophila* as a model organism
+
+## Key scientific contribution (plain-language)
+
+Hoffmann’s work helped show that innate immunity is not merely a generic, non-specific barrier. In *Drosophila*, the **Toll signaling pathway** was shown to be crucial for activating defenses against infection (notably antifungal responses in prominent summaries). This provided a genetic and molecular handle for studying how an organism senses pathogens and turns on protective programs.
+
+## Connection to mammalian Toll-like receptors
+
+A major reason the discovery mattered is that related receptors and pathways were identified in mammals, helping establish a conserved framework for **pattern recognition** in immunity. This line of research influenced fields ranging from infectious disease to inflammation and vaccine adjuvant design.
+
+## Broader legacy
+
+Beyond specific pathway discovery, Hoffmann is often associated with:
+
+- advancing the legitimacy of invertebrate models in immunology
+- building research institutions and training networks in European life sciences
+- contributing to science policy and academy leadership through French scientific bodies

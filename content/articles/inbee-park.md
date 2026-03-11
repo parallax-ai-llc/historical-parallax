@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Inbee_Park"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Inbee Park won seven LPGA major championships and Olympic gold at the 2016 Rio Games. She dominated women's golf in the 2010s.

@@ -56,3 +56,19 @@ High-level facts commonly reported about the canonical subject:
 
 - Aliko Dangote (canonical article)
 - Dangote Group
+
+## Canonical Reference Link
+
+- Wikipedia (canonical): https://en.wikipedia.org/wiki/Aliko_Dangote
+
+## How to Handle Duplicates (General Guidance)
+
+- Prefer **canonical identifiers** that do not encode import artifacts (e.g., avoid `-duplicate` in the stable ID).
+- If you need to preserve provenance, store it in metadata fields (source dataset id, import batch, confidence score).
+- When merging, preserve the most specific factual fields (birth date, nationality, primary roles) and discard redundant placeholders.
+
+## Related Topics (High-Level)
+
+- Conglomerates and industrial policy in Nigeria
+- Cement markets and infrastructure development (general)
+- Corporate governance and concentration (general)

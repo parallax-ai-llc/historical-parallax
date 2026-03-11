@@ -49,3 +49,21 @@ Open sources commonly note his major role in Brazil’s World Cup successes and 
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+## Additional Context
+
+### Club career
+
+Pelé spent most of his prime at Santos FC, where he won major domestic and continental titles and became a central figure in the club’s international tours. He later played for the New York Cosmos, contributing to increased attention to football (soccer) in the United States.
+
+### Playing style
+
+Contemporary and retrospective accounts describe him as a complete forward: a prolific finisher with two-footed shooting, strong aerial ability, creativity in tight spaces, and an ability to combine playmaking with goal scoring.
+
+### Cultural impact
+
+Pelé’s fame made him one of the first truly global sports superstars. His name became closely associated with the international commercialization of football and with Brazil’s national sporting identity.
+
+## Additional References
+
+[^2]: Britannica, “Pelé” (overview) — https://www.britannica.com/biography/Pele-Brazilian-athlete

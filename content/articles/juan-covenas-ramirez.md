@@ -48,3 +48,19 @@ Cases described as serial predation against vulnerable populations tend to gener
 ## References
 
 [^1]: Prior public listing (often cited), "Juan Covenas Ramirez" (link may not always resolve) - https://en.wikipedia.org/wiki/Juan_Covenas_Ramirez
+
+## Challenges highlighted by the case
+
+High-level summaries of the “Monster of La Merced” case are often used to illustrate structural problems that can arise in investigations of repeated disappearances:
+
+- **geography and mobility**: remote or forested terrain can delay discovery of evidence
+- **underreporting**: marginalized victims may receive less sustained institutional attention
+- **case linkage**: disappearances over many years may not be treated as connected until patterns become unmistakable
+
+## Community response
+
+Accounts that mention a community-led component generally describe local residents and families comparing information about disappearances, pressuring for action, and supporting the eventual identification of a suspect. Such community efforts are frequently noted when formal investigative resources are limited.
+
+## Caution on figures
+
+Victim counts in open summaries typically represent **minimum confirmed numbers**. Press reports may cite higher totals, but unless corroborated by court findings, they are best treated as allegations rather than definitive tallies.

@@ -81,3 +81,21 @@ This article is intentionally high-level and relies on broadly cited public summ
 - **Nickname:** El Chapo[^1]
 - **Primary association (as commonly reported):** Sinaloa Cartel[^1]
 - **Legal outcome (U.S. case):** Convicted and sentenced in U.S. federal court[^1]
+
+## Additional Context (High-Level)
+
+### Sinaloa Cartel in Brief
+
+- The **Sinaloa Cartel** is widely described as a networked organization rather than a single rigid hierarchy, with factions and alliances that can shift over time.[^1]
+- In public reporting, the cartel is frequently associated with trafficking of cocaine, heroin, methamphetamine, and (in later years) synthetic opioids, though specific commodity emphasis changes by period and source.[^1]
+
+### Why the Case Drew Global Attention
+
+- **Cross-border scope:** The prosecution narrative emphasized large-scale trafficking into the United States, making the case a central U.S.–Mexico law-enforcement reference point.[^1]
+- **Custody episodes:** Highly publicized captures and escapes turned the story into a recurring international news event.[^1]
+- **Symbolic role:** In many accounts, Guzmán became a symbol for broader issues: corruption risk, violence, and the difficulty of dismantling resilient trafficking networks.[^1]
+
+### Data Notes
+
+- This page keeps dates at a high level and avoids repeating detailed allegations that require primary-source verification.
+- For precise charge counts, trial venue, and sentencing terms, consult court records and reputable reporting alongside the reference link.

@@ -1,4 +1,5 @@
 ---
+
 id: "brian-sicknick"
 name: "Brian Sicknick"
 birth: "1978-07-30"

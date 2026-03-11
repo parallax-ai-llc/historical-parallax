@@ -62,3 +62,18 @@ Francesco 'Sandokan' Schiavone was the boss of the Casalesi clan of the Camorra 
 
 ## Additional references
 - Wikipedia: Francesco Schiavone — https://en.wikipedia.org/wiki/Francesco_Schiavone
+
+## Overview
+
+- Francesco Schiavone, known as “Sandokan,” is an Italian Camorra boss associated with the Casalesi clan in Campania. His name is frequently connected to organized-crime investigations and landmark anti-mafia prosecutions.
+
+## Organized-crime context
+
+- The Camorra is typically described as a networked criminal system with multiple clans, with influence over extortion, illegal markets, and (in some accounts) infiltrations into legitimate business sectors.
+- The Casalesi clan became a focal point for Italian law enforcement and anti-mafia efforts, including the use of pentiti (state witnesses) and asset-seizure tools.
+
+## Why this case is referenced
+
+- It is used to illustrate modern organized-crime governance: territorial control, violence as enforcement, and the role of financial investigation in dismantling networks.
+- It also highlights the social and economic impacts of entrenched criminal organizations on local institutions and communities.
+

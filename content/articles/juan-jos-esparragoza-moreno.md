@@ -48,3 +48,27 @@ He has been described as a long-term **fugitive** and as a target of both Mexica
 ### Unconfirmed Death Reports
 
 Reports in 2014 claimed he died of a **heart attack**, but coverage has repeatedly emphasized that the claim was **not conclusively confirmed**, contributing to continuing uncertainty about his ultimate fate.
+
+## Reputation as an intermediary
+
+In many open-source profiles, Esparragoza Moreno is characterized less as a public-facing enforcer and more as a **broker** within trafficking alliances. This portrayal—sometimes simplified in popular media—emphasizes:
+
+- dispute resolution between factions
+- managing payments and corridors across regions
+- maintaining operational continuity during leadership arrests
+
+## U.S. sanctions and international pressure (high-level)
+
+Major cartel figures are often targeted not only through arrest warrants but also through **financial measures** (asset freezes, sanctions designations, and rewards). Such tools are intended to disrupt networks by restricting the ability to move funds and use formal banking or front businesses.
+
+## Uncertainty and information warfare
+
+The unresolved nature of the 2014 death reports is frequently cited as an example of how:
+
+- rumors can shape public perception in organized-crime contexts
+- authorities may withhold confirmation when intelligence is incomplete
+- criminal groups may benefit from ambiguity to protect networks
+
+## Place in Mexico’s cartel history
+
+“El Azul” is typically mentioned in timelines that track the transition from older cartel structures into shifting alliances and “federation” models, especially as the Mexican drug-war period intensified and organizations fractured into competing splinters.

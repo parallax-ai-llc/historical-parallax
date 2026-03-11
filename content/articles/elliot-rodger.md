@@ -60,3 +60,20 @@ Elliot Rodger killed 6 and injured 14 in Isla Vista, California on May 23, 2014.
   - gender-based violence,
   - targeted mass violence warning signs,
   - the intersection of mental health, misogyny, and online communities.
+
+## Context and background
+
+- Rodger was a U.S. citizen whose 2014 attack in Isla Vista, California, drew major attention to online radicalization, misogynistic grievance communities, and threat assessment failures.
+- Investigators and journalists later analyzed his writings and videos as part of understanding how ideology, personal grievance, and mental-health factors can intersect in targeted violence.
+
+## Impact and legacy
+
+- The case is often discussed in research and policy conversations about preventing lone-actor violence, including the role of online platforms in amplification and community formation.
+- It also influenced public debate about campus-area safety, reporting pathways for warning signs, and the limits of pre-incident intervention.
+
+## Key themes for analysis
+
+- Online ecosystems: how certain forums can normalize harmful beliefs and reinforce escalation.
+- Behavioral indicators: leakage, explicit planning cues, and changes in day-to-day functioning that can be missed by peers or institutions.
+- Prevention approach: multi-agency coordination, family/community reporting, and clear escalation protocols.
+

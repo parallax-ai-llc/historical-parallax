@@ -51,3 +51,20 @@ Eric Harris and Dylan Klebold carried out the Columbine High School massacre on 
 ## Notes on Attribution
 - Many accounts portray Harris as a primary instigator, but the attack was planned and executed by both perpetrators.
 - Details can vary across sources; official investigative reports are typically treated as the baseline for factual timelines.
+
+## Context and background
+
+- Eric Harris was one of the perpetrators of the 1999 Columbine High School massacre in Colorado, a watershed event in modern discussions of school violence in the United States.
+- The attack prompted extensive investigation and later informed academic work on school threat assessment, media effects, and the sociology of peer violence.
+
+## Aftermath and wider effects
+
+- Columbine became a reference point for law-enforcement response doctrine, school security planning, and emergency communications practices.
+- It also shaped long-running debates over gun access, bullying narratives, copycat dynamics, and how to report on perpetrators without incentivizing notoriety-seeking.
+
+## How the case is studied
+
+- Incident reconstruction: timelines, planning behaviors, and points of intervention that failed or were unavailable.
+- Institutional lessons: information-sharing between schools, families, and police; and the design of reporting mechanisms for credible threats.
+- Media framing: the tension between public information and the risk of myth-making.
+

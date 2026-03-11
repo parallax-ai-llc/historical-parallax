@@ -50,3 +50,22 @@ After losing the 2014 election, Banda continued to be a prominent political figu
 - Constitutional succession and executive legitimacy
 - Donor relations and macroeconomic stabilization
 - Anti-corruption enforcement versus entrenched patronage systems
+
+## Background and non-governmental work
+
+Before reaching the presidency, Banda was known for work related to **women’s economic participation** and community development. Open biographies frequently mention her role in founding or leading organizations that supported women entrepreneurs and girls’ education, and she has been associated with advocacy work addressing **poverty and gender inequality**.
+
+## Policy focus and governance constraints (high-level)
+
+Analyses of Banda’s short presidency often highlight a mix of policy objectives and institutional constraints:
+
+- restoring relations with donors and pursuing macroeconomic stabilization
+- managing public-sector payroll and procurement systems vulnerable to abuse
+- navigating party fragmentation and elite bargaining in a tight political timeline
+
+Because “Cashgate” involved weaknesses in payment controls and oversight, the scandal is commonly discussed as an example of how **systems-level corruption** can persist even amid stated reform agendas.
+
+## Post-presidency political activity
+
+After 2014, Banda remained politically active, including efforts to return to Malawian electoral politics. Public reporting has also noted periods of investigation and legal scrutiny connected to corruption allegations, alongside continued public advocacy initiatives.
+

@@ -49,3 +49,21 @@ Martínez was known for elite command, a powerful fastball, and swing-and-miss s
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+## Additional Context
+
+### Peak seasons and context
+
+Martínez’s best-known seasons came during a high-offense era in Major League Baseball, which makes his run-prevention metrics especially notable in retrospective analysis. Statistical measures such as ERA+ are commonly used to compare his dominance across eras.
+
+### Major teams
+
+Over his career, he pitched for the Los Angeles Dodgers, Montreal Expos, Boston Red Sox, New York Mets, and Philadelphia Phillies. His tenure in Boston is often highlighted as the period when he became a league-defining ace.
+
+### Recognition
+
+He was elected to the National Baseball Hall of Fame, reflecting sustained excellence and historical impact at his position.
+
+## Additional References
+
+[^2]: National Baseball Hall of Fame, “Pedro Martínez” — https://baseballhall.org/hall-of-famers/martinez-pedro

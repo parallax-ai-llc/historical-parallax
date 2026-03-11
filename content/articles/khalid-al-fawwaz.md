@@ -51,3 +51,26 @@ Al-Qaeda operative convicted in US of conspiracy to kill Americans in the 1998 e
 
 - **1998 U.S. embassy bombings (Kenya/Tanzania):** Major al-Qaeda attacks that generated long-running investigations, indictments, and trials in U.S. federal court.
 - **SDNY terrorism prosecutions:** Al-Fawwaz’s case is part of a broader set of terrorism cases handled in the Southern District of New York involving overseas plots and extraditions.
+
+## Embassy bombings context (high-level)
+
+- The 1998 bombings of U.S. embassies in **Nairobi (Kenya)** and **Dar es Salaam (Tanzania)** are widely described as pivotal al-Qaeda attacks that prompted major international investigations.
+- These cases produced long-running legal proceedings, including U.S. indictments against multiple individuals tied to the conspiracy.
+
+## Extradition and jurisdiction (general)
+
+- Many terrorism cases involving overseas conspiracies rely on cooperation between national authorities, including arrest and extradition processes.
+- The Southern District of New York (SDNY) has been a frequent venue for international terrorism prosecutions involving U.S. targets.
+
+## Why sanctions listings appear in biographies
+
+For individuals linked (in public government statements) to terrorist organizations, biographies often note:
+
+- **UN Security Council sanctions** listings (e.g., the 1267/1989/2253 regime).
+- **U.S. Treasury/OFAC designations**, which can freeze assets and restrict dealings.
+
+These listings are administrative measures and separate from criminal conviction, though they are often discussed together in public summaries.
+
+## Source note
+
+This entry summarizes commonly cited open sources. For precise charge counts, specific overt acts, and sentencing details, consult federal court records and official public filings.

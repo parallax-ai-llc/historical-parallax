@@ -48,3 +48,14 @@ American doctor convicted of murdering three infants born alive during illegal l
 ## References
 
 [^1]: Wikipedia, "Kermit Gosnell" - https://en.wikipedia.org/wiki/Kermit_Gosnell
+
+## Sentencing and incarceration (high level)
+
+- Following conviction, Gosnell received a life sentence, and the case became a lasting reference point in discussions of criminal liability in healthcare settings.
+- Summaries of the case typically distinguish between the criminal findings in court and broader political arguments that various actors attached to the story.
+
+## Oversight lessons often discussed
+
+- The case is frequently cited as an example of how fragmented oversight and limited inspection capacity can allow dangerous practices to persist.
+- It is also referenced in conversations about whistleblowing, complaint handling, and the role of professional licensing bodies.
+- Because the subject matter is polarizing, careful sourcing and precise language are commonly recommended when writing about the case.

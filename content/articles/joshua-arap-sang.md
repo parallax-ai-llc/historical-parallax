@@ -49,3 +49,21 @@ The case is often discussed in relation to:
 - The role of media in conflict settings, including speech that may contribute to violence
 - The challenges of attributing criminal liability to broadcasters versus direct perpetrators
 
+
+## Media, incitement, and accountability (high-level)
+
+Debates around Sang’s case often focus on how international law treats **speech and broadcast activity** in mass-violence settings. Prosecutors generally must show more than inflammatory language: they must connect communication to **specific criminal acts**, demonstrate **intent**, and establish a clear contribution to a broader criminal plan.
+
+In Kenya’s post-election context, radio was a major source of information in multiple languages, which amplified questions about:
+
+- how political actors and local networks used media ecosystems
+- the line between political advocacy, hate speech, and operational coordination
+- how evidence is gathered and preserved when events unfold rapidly
+
+## Aftermath and public discourse
+
+After the ICC proceedings ended, commentary around the case continued to be cited in discussions of:
+
+- witness protection challenges and alleged interference in international cases
+- the limits of prosecutions that rely heavily on testimonial evidence
+- accountability mechanisms beyond the ICC (domestic reform, commissions, and civil society monitoring)

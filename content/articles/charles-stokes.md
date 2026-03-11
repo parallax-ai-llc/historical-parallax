@@ -60,3 +60,13 @@ British-Irish arms trader in East Africa hanged by Belgians for selling weapons 
 
 - Congo Free State (history)
 - International criticism of colonial governance in the late 19th century
+
+## Why Historians Reference the Case
+
+- **Due process norms:** The controversy is often used to contrast imperial legal ideals with colonial practice.
+- **Diplomacy and leverage:** The affair illustrates how European states sometimes used individual cases to pressure or criticize rival colonial administrations.
+- **Narratives about the Congo Free State:** It is frequently mentioned alongside later, broader critiques of forced labor, violence, and extractive governance.
+
+## Source Notes
+
+- This article is intentionally concise and high-level; specific operational allegations (who purchased arms, the precise proceedings, and diplomatic correspondence) vary across historical accounts and should be checked against the reference and specialist histories.

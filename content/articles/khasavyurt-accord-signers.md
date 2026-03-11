@@ -60,3 +60,31 @@ The agreement is commonly described as being signed by the lead representatives 
 
 [^2]: Wikipedia, "Khasavyurt Accord" - https://en.wikipedia.org/wiki/Khasavyurt_Accord
 [^3]: Encyclopaedia Britannica, "Chechnya" (background on the wars and settlement attempts) - https://www.britannica.com/place/Chechnya
+
+## Negotiation and implementation (high-level)
+
+### Why the signatories matter
+
+- **Alexander Lebed** was a prominent Russian security official at the time, often portrayed as playing a decisive role in pushing for an end to active combat.
+- **Aslan Maskhadov** represented the Chechen separatist side’s military leadership and later became a key political figure.
+
+### What was "deferred"
+
+- Many accounts emphasize that the accord did not fully resolve sovereignty.
+- Instead, it established an interim arrangement intended to stop fighting while postponing the political settlement.
+
+### Why the accord is debated
+
+- Supporters describe it as a pragmatic cessation of hostilities that reduced immediate casualties.
+- Critics argue that deferring the status question left fundamental issues unresolved, contributing to later instability.
+
+## Data-model note
+
+This page is a conceptual "signers" entry rather than a single-person biography. In structured datasets, it may function better as:
+
+- a topic page about the accord itself, or
+- a list-style page focused on the principal signatories and negotiating teams.
+
+## Source note
+
+This entry summarizes widely repeated framing in open sources. If the repository requires a precise list of all participants, use primary documents or reputable historical works to avoid over- or under-attribution.

@@ -53,3 +53,27 @@ Drove a car into pedestrians on Westminster Bridge and stabbed a police officer,
 
 - This article summarizes high-level facts about the incident; details such as exact casualty counts and investigative findings can vary by source and were updated over time.
 - For primary context and updates, refer to official UK statements and reputable contemporaneous reporting.
+
+## High-level incident characteristics
+
+### Attack mode
+
+- The incident is widely categorized as a **vehicle-ramming** attack followed by a **knife assault**, a pattern seen in other low-complexity attacks.
+- Such attacks can be carried out with limited planning and without specialized equipment.
+
+### Location significance
+
+- Westminster is a symbolic and high-security area given the presence of Parliament and major government institutions.
+- The attack contributed to public and policy discussions about protecting crowded public spaces near national landmarks.
+
+## Public response and security implications (general)
+
+- Rapid medical and police response is frequently highlighted in summaries of the day.
+- The incident is often referenced in discussions about:
+  - temporary security measures (barriers, road access changes),
+  - balancing openness of civic spaces with protective design,
+  - the challenge of identifying lone-actor threats.
+
+## Source note
+
+This entry stays at a descriptive level and does not attempt to reconstruct disputed motives beyond what official investigations and reputable reporting conclude.

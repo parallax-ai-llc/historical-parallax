@@ -57,3 +57,18 @@ Florisvaldo de Oliveira, known as 'Esquerdinha,' was a Brazilian death squad kil
 ## References
 [^2]: Brazilian newspaper archives and police/court reporting in São Paulo state (Portuguese-language sources).
 [^3]: Academic and journalistic overviews of Brazilian “esquadrões da morte” and extrajudicial violence (contextual background).
+
+## Overview
+
+- Florisvaldo de Oliveira, known as “Caboclo,” was a Brazilian criminal figure associated in reporting with the Primeiro Comando da Capital (PCC), one of Brazil’s most prominent prison-based criminal organizations.
+
+## Context: prison-based organizations in Brazil
+
+- Groups like the PCC are commonly analyzed through their origins in prison systems, their internal governance, and their ability to coordinate activities across regions.
+- The Brazilian context involves a mix of overcrowded prisons, fragmented local enforcement capacity, and complex relationships between street networks and incarcerated leadership.
+
+## Significance
+
+- The broader story is often used to discuss how prison governance and criminal markets can intertwine, affecting public security outcomes beyond prison walls.
+- It also informs debates about incarceration policy, intelligence-led policing, and the risks of organizational consolidation among criminal groups.
+

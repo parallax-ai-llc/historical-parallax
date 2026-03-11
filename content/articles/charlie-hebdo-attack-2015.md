@@ -61,3 +61,19 @@ Two brothers attacked the Charlie Hebdo magazine office in Paris killing 12, inc
 
 [^2]: Wikipedia, "Charlie Hebdo" - https://en.wikipedia.org/wiki/Charlie_Hebdo
 [^3]: Wikipedia, "Je suis Charlie" - https://en.wikipedia.org/wiki/Je_suis_Charlie
+
+## Longer-Term Effects (High-Level)
+
+- **Security posture:** The attack contributed to sustained increases in visible security around media organizations, public events, and perceived high-risk targets.
+- **Legal and political debate:** It intensified debates over counterterrorism powers, surveillance, and the balance between security and civil liberties.
+- **Cultural impact:** The episode became a reference point in ongoing arguments about satire, blasphemy, pluralism, and the responsibilities of publishers in multicultural societies.
+
+## Memory and Commemoration
+
+- The attack is frequently referenced in anniversaries and public remembrance, often alongside other incidents in France during the same period.
+- Public discourse has remained polarized: some emphasize free-expression solidarity, while others emphasize concerns about stigmatization of minority communities.
+
+## Data Notes
+
+- This page focuses on widely reported, non-technical facts and avoids detailed operational claims.
+- For a precise timeline of the wider January 2015 events (including the manhunt and related incidents), consult detailed chronologies in reputable sources in addition to the summary reference.

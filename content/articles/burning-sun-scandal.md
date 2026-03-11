@@ -51,6 +51,14 @@ The scandal contributed to sustained public debate in South Korea about:
 - policing standards and anti-corruption measures
 - entertainment-industry governance and agency responsibilities
 
+## Related Cases and Broader Context (High Level)
+
+In public discourse, “Burning Sun” is sometimes used as a shorthand for a broader set of interconnected issues in the late-2010s South Korean entertainment and nightlife ecosystem, including:
+
+- **Venue operations and safety:** scrutiny of security practices, drug enforcement, and patron protection in club settings.
+- **Online exploitation and privacy crimes:** renewed attention to digital sex crimes and the role of chatrooms, recording, and distribution of illegal material (not all of which were part of the same case file).
+- **Regulatory and industry response:** calls for clearer oversight, stronger reporting pathways, and organizational accountability in entertainment management.
+
 ## Additional references
 
 (See the reference section above.)

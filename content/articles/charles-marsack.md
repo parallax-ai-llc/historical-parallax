@@ -54,3 +54,22 @@ Colonial judge accused of harsh and racially biased sentencing in Western Samoa.
 - Warren Hastings (context for the Wikipedia-linked figure)
 - East India Company (military/administrative context)
 - Caversham Park (estate referenced on the Wikipedia-linked page)
+
+## Implications for Repository Use
+
+- **Entity mismatch risk:** If downstream tooling relies on the `id`/`name` pair, an identity collision can contaminate timelines, statistics, or knowledge-graph links.
+- **Citation integrity:** The single Wikipedia link currently supports the East India Company profile, not the Samoa-related claims in the Summary.
+
+## What Would Resolve the Ambiguity (High-Level)
+
+- A second reliable reference specifically for the Samoa-related judge (if that person exists), such as:
+  - historical newspapers,
+  - legal archives,
+  - academic histories of Western Samoa colonial administration,
+  - government records.
+- Alternatively, if this article is meant to be the East India Company figure, the metadata (`birth`, `death`, `nationality`, `occupation`, `Summary`, `Career Timeline`) should be aligned to that person.
+
+## Current Handling Policy (for now)
+
+- This page intentionally preserves existing claims **without deleting them**.
+- Added notes above are meant to prevent accidental overconfidence when using the record for analysis.

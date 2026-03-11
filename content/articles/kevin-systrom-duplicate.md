@@ -55,3 +55,25 @@ Kevin Systrom (born 1983) is an American entrepreneur best known as the co-found
 [^2]: Wikipedia, "Kevin Systrom" - https://en.wikipedia.org/wiki/Kevin_Systrom
 [^3]: Wikipedia, "Instagram" - https://en.wikipedia.org/wiki/Instagram
 [^4]: Meta (Facebook) Newsroom archive, "Facebook to Acquire Instagram" (2012) - https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/
+
+## Data quality and de-duplication notes
+
+### Why duplicates happen in biographical datasets
+
+- Automated imports can generate multiple rows when a source has redirects, disambiguation pages, or non-canonical slugs.
+- A suffix like "_duplicate" may be produced by a scraping or normalization step to avoid collisions.
+
+### Recommended handling (high-level)
+
+- Treat this page as a **non-canonical** record unless there is evidence that a separate notability exists.
+- Prefer the primary biography page ("Kevin Systrom") for factual details and references.
+- If the project supports merging, keep this page as an alias/redirect target rather than duplicating the full biography in two places.
+
+### What to verify before merging
+
+- Whether the "*_duplicate" Wikipedia URL resolves to the canonical Kevin Systrom page, a redirect, or a non-existent stub.
+- Whether internal links in the repo reference this id ("kevin-systrom-duplicate") and need to be updated.
+
+### Scope note
+
+This file intentionally preserves the "Duplicate" label in the summary to reflect its provenance in the dataset, while providing enough context to understand the intended subject.

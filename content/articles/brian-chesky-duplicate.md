@@ -1,4 +1,5 @@
 ---
+
 id: "brian-chesky-duplicate"
 name: "Brian Chesky duplicate"
 birth: "1981-08-29"

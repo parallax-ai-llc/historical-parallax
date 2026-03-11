@@ -52,3 +52,6 @@ Olga Hepnarová was the last woman executed in Czechoslovakia. She drove a truck
 
 ## Data Notes
 - This article’s infobox may differ from some sources on biographical details (e.g., reported birth date). When in doubt, defer to the linked references and primary documents where available.
+
+## Further reading (starting points)
+- The Wikipedia entry provides a bibliography trail into Czech-language reporting and later historical summaries.[^2]

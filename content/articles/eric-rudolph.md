@@ -51,3 +51,19 @@ Eric Robert Rudolph carried out the 1996 Centennial Olympic Park bombing in Atla
 [^2]: FBI and major U.S. news coverage summaries of the 1998–2003 manhunt and 2003 capture.
 [^3]: “Army of God” / manifesto-style writings attributed to Rudolph; secondary reporting summarizing stated motives.
 [^4]: U.S. Department of Justice case releases and federal court plea/sentencing records (2005).
+
+## Overview
+
+- Eric Robert Rudolph is an American domestic terrorist convicted for a series of bombings in the United States in the 1990s, including the 1996 Centennial Olympic Park bombing in Atlanta.
+- His case is commonly referenced in discussions of ideologically motivated violence and the long-term investigative effort sometimes required to locate fugitives.
+
+## Investigation and capture
+
+- Rudolph evaded capture for years and was ultimately arrested in North Carolina, illustrating how persistent law-enforcement work, public tips, and mundane encounters can converge.
+- The prosecution and plea process consolidated multiple bombing cases and produced life sentences in federal prison.
+
+## Significance
+
+- The episode is used to study domestic extremism, target selection, and how security posture changes around high-profile events.
+- It also highlights the practical challenges of manhunts in rural terrain and the resource demands placed on multi-jurisdiction investigations.
+

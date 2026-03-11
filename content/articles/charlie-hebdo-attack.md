@@ -68,3 +68,18 @@ Attack on Charlie Hebdo offices in Paris on January 7, 2015 killing 12 people ov
 
 - The Charlie Hebdo attack remains a landmark case in modern European terrorism history.
 - It continues to be referenced in discussions on the boundaries of satire, religious offense, and the risks faced by journalists and publishers.
+
+## Interpretive Themes (High-Level)
+
+- **Freedom of expression:** The attack became a focal point for arguments about the protection of satire and editorial independence.
+- **Social cohesion:** Public debate often centered on how to defend pluralism while avoiding collective blame or stigmatization.
+- **Security vs. liberty:** The response and later policy discussions reflected recurring tension between expanded security powers and civil-liberties concerns.
+
+## Notes on Terminology
+
+- In some sources, the incident is treated as a single event; in others, it is discussed as part of a broader sequence of January 2015 attacks in France.
+- The exact naming convention ("Charlie Hebdo attack" vs. "January 2015 Île-de-France attacks") can affect what is included in a timeline.
+
+## Source Note
+
+This page is a high-level consolidation. For detailed day-by-day chronology, legal proceedings, and the broader January 2015 sequence, consult specialized timelines and court reporting in addition to summary references.

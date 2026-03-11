@@ -65,3 +65,20 @@ Use this checklist when consolidating duplicates:
 ## Additional References (Canonical)
 
 - Wikipedia: https://en.wikipedia.org/wiki/Aliko_Dangote
+
+## Dataset Hygiene (More Detail)
+
+- Duplicate suffixes like `dup99` often indicate a batch import or imperfect entity resolution step.
+- If your downstream tooling supports it, consider adding explicit metadata such as `duplicateOf: aliko-dangote` (instead of creating multiple near-empty pages).
+
+## Canonical Topics Commonly Associated With Dangote (High-Level)
+
+- **Cement and building materials**: A major recurring theme in coverage, often tied to infrastructure growth.
+- **Industrial self-sufficiency**: Profiles frequently frame investment decisions as attempts to reduce import dependence.
+- **Large projects**: Some coverage highlights large-scale industrial facilities (e.g., refineries or petrochemical-related projects) as emblematic of long-horizon capital deployment.
+
+## See Also
+
+- Dangote Group
+- African industrial policy (general)
+- Conglomerates and market concentration (general)

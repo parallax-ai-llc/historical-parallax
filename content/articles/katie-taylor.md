@@ -48,3 +48,18 @@ Katie Taylor won Olympic boxing gold at 2012 London and became undisputed lightw
 
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
+
+## Multi-sport background (high level)
+
+- Taylor is notable not only for boxing: she has also been associated with association football at a high level, reflecting an unusually broad elite-sport profile.
+- This multi-sport pathway is sometimes discussed in terms of athletic transfer, coordination, and competitive temperament.
+
+## Rivalries and major events
+
+- Her biggest fights have often been promoted as milestones for women’s boxing, drawing large audiences and significant media attention.
+- Close scorecards and high-tempo exchanges in marquee bouts have contributed to debates about judging criteria and scoring transparency in boxing.
+
+## Place in Irish sport
+
+- In Ireland, Taylor is widely treated as a modern sporting icon, frequently referenced alongside the country’s most recognized Olympic and professional champions.
+- Her success is often credited with expanding participation and ambition for women in combat sports and beyond.

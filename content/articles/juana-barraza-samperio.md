@@ -52,3 +52,19 @@ She was convicted for **16 murders** (with higher totals sometimes alleged in pr
 The Wikipedia link in this file’s frontmatter sometimes resolves under the shorter title **"Juana Barraza"** rather than her full name; references may therefore appear under different page names.
 
 [^2]: Wikipedia, "Juana Barraza" (often used as the primary article title) - https://en.wikipedia.org/wiki/Juana_Barraza
+
+## Social context and victim vulnerability (high-level)
+
+The “La Mataviejitas” case is frequently discussed in relation to urban safety for older adults. Commentaries often point to:
+
+- isolation of elderly people living alone
+- reliance on informal service visits (deliveries, religious outreach, home assistance)
+- the way trust can be leveraged to gain entry without forced break-in
+
+## Media coverage and stereotyping
+
+During the investigation, some reporting focused on speculative suspect profiles and sensational narratives. Retrospectives sometimes critique how stereotyping can divert attention from evidence-based investigation and can stigmatize unrelated communities.
+
+## Sentencing in practice
+
+Although the sentence is often reported as **759 years**, discussions of sentencing practice note that multi-century totals can function as a **symbolic aggregate** for multiple counts. Actual time served depends on statutory limits, sentencing rules, and later legal developments.

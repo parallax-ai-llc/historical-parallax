@@ -48,3 +48,14 @@ Australian murderer who killed and skinned her partner John Price in 2000, then 
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
 - Use care with graphic or sensational retellings; focus on verified facts and victim-centered reporting.
+
+## Incarceration and continuing relevance
+
+- Knight remains a notable case in Australian criminal history because of the severity of the crime and the sentencing outcome.
+- Discussions of the case often emphasize the importance of early intervention and risk assessment in patterns of escalating domestic violence.
+- In public policy contexts, the case is sometimes used as a reminder that protective systems depend on reporting, resourcing, and timely action.
+
+## Media coverage (high level)
+
+- The case has been covered in documentaries and true-crime media, sometimes raising questions about privacy, sensationalism, and trauma to surviving families.
+- Responsible summaries typically avoid unnecessary graphic detail and prioritize verifiable facts, the victim’s dignity, and legal outcomes.

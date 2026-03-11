@@ -67,3 +67,28 @@ Pakistani serial killer who murdered 17 boys in Lahore.
 ## Additional References
 
 - Wikipedia entry (primary quick reference): https://en.wikipedia.org/wiki/Khalil_Ur_Rehman
+
+## Additional high-level discussion
+
+### Victimology (general)
+
+- Serial crimes targeting children often involve exploitation of routine activities (school routes, markets, public spaces).
+- Investigations may be complicated by under-reporting, delayed reporting, and limited forensic capacity.
+
+### Social and institutional context (general)
+
+In many cities, including large urban centers like Lahore, large caseloads and resource constraints can affect:
+
+- the speed of missing-person investigations,
+- inter-district coordination,
+- and long-term case documentation.
+
+These points are general context and not specific claims about any single investigation.
+
+### Ethical note
+
+Because the victims are minors, summaries should avoid sensational detail and focus on verified facts, legal outcomes, and prevention-relevant context.
+
+## Source note
+
+This article remains intentionally brief on specifics because widely available sources often provide only the conviction headline. Expansion should rely on reputable Pakistani reporting and court documentation where accessible.

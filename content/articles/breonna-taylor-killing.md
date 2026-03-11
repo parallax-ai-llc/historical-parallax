@@ -1,4 +1,5 @@
 ---
+
 id: "breonna-taylor-killing"
 name: "Breonna Taylor Killing"
 birth: "2020-03-13"

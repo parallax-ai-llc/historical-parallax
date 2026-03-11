@@ -1,4 +1,5 @@
 ---
+
 id: "brennus"
 name: "Brennus"
 birth: "-400-01-01"

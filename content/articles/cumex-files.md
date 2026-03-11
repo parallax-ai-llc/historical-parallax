@@ -8,7 +8,8 @@ occupation: ["Tax Fraud"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/CumEx_Files"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 

@@ -50,3 +50,25 @@ Some sources differ on exact biographical specifics (for example, the precise bi
 He has been portrayed in dramatizations related to Pablo Escobar-era narratives; for example, the 2012 TV series *Pablo Escobar, The Drug Lord* included a character based on him.
 
 [^2]: New York Times (historical reporting on the Ochoa family and imprisonment context): James Brooke, "At Home (That's Prison) With Medellin's Ochoas" (1995).
+
+## Ochoa family and “narco-elite” profile (high-level)
+
+The Ochoa brothers have often been described as representing a strand of cartel leadership that combined:
+
+- rural business roots (including ranching and horse culture in popular accounts)
+- social ties to regional elites
+- logistics and finance capabilities that supported large-scale trafficking
+
+This “business-facing” image is frequently contrasted with more overtly violent public narratives around other Medellín Cartel figures, though the organization as a whole was associated with extreme violence.
+
+## Negotiated surrenders in Colombia (context)
+
+The early-1990s surrender process is commonly discussed in scholarship and journalism about Colombia’s conflict-era governance. It is frequently framed as a state effort to reduce violence through negotiated incarceration terms, but critics argued it created incentives and unequal accountability.
+
+## Continuing historical interest
+
+Ochoa’s life is often referenced in broader analyses of:
+
+- how cartel leadership adapted during intense state pressure
+- the relationship between extradition policy and surrender incentives
+- long-term social and institutional impact of the cocaine boom on Colombia

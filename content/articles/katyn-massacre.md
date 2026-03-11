@@ -53,3 +53,15 @@ Mass execution of 22,000 Polish military officers, police, and intellectuals by 
 ## References
 
 [^1]: Wikipedia, "Katyn Massacre" - https://en.wikipedia.org/wiki/Katyn_Massacre
+
+## Postwar investigations and remembrance (high level)
+
+- In the decades after World War II, the massacre remained politically sensitive, with competing narratives affecting diplomacy and public history.
+- Exhumations, archival research, and historical commissions have been important for clarifying victim identities, sites, and chain-of-command decisions.
+- In Poland, Katyn functions as a major national trauma and a symbol of the costs of occupation, repression, and information control.
+
+## Why the episode remains contentious
+
+- The long period of denial and propaganda makes Katyn a case study in how states can shape historical memory and constrain access to evidence.
+- Debates about documents, legal classification, and responsibility have persisted, reflecting broader conflicts over interpretation of twentieth-century history.
+- Commemoration practices often emphasize mourning, documentation, and the ethical obligation to preserve records for future generations.

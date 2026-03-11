@@ -53,3 +53,19 @@ Kenenisa Bekele holds the 10,000m world record and won both 5,000m and 10,000m a
 ## References
 
 [^1]: Wikipedia, "Kenenisa Bekele" - https://en.wikipedia.org/wiki/Kenenisa_Bekele
+
+## Competitive context (high level)
+
+- Bekele’s peak years coincided with an era of intense global competition in distance running, particularly among East African athletes on the track and in cross-country.
+- His ability to win both tactical championship races and fast, record-oriented races is a key theme in summaries of his career.
+- Analysts often highlight the difficulty of excelling simultaneously at track championships, cross-country, and later road racing due to differing demands and season timing.
+
+## Training, durability, and career arc
+
+- Long-distance careers frequently involve cycles of injury management, training adaptation, and event selection; Bekele’s record is often discussed with these constraints in mind.
+- Even when setbacks interrupted seasons, his reputation remained anchored in exceptional peak performance and major-title consistency.
+
+## Legacy (additional)
+
+- In historical comparisons, he is commonly grouped with the most accomplished distance runners for combining world records with Olympic and world championship success.
+- His results remain a reference point for athletes attempting the track-to-marathon transition at the highest level.

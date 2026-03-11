@@ -8,7 +8,8 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kozo_Okamoto_JRA"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 

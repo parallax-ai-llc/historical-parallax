@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ingrid_Betancourt"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Colombian-French politician kidnapped by FARC guerrillas while campaigning for president and held captive in the jungle for over six years. She was rescued in a dramatic Colombian military operation.

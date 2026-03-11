@@ -8,7 +8,8 @@ occupation: ["Banking Failure"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Credit_Suisse_Collapse"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 

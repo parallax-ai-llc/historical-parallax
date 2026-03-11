@@ -54,3 +54,20 @@ Sudanese Janjaweed leader convicted by ICC of war crimes in Darfur.
 
 [^2]: International Criminal Court (ICC) — official site and case information portal: https://www.icc-cpi.int/
 [^3]: United Nations documentation on Darfur (reports and background): https://www.un.org/
+
+## Names, Transliteration, and Aliases
+
+- Open-source materials may spell the name in multiple ways (e.g., Abd al-Rahman / Abd-Al-Rahman).
+- The alias **Ali Kushayb** is widely used in media and policy writing and is helpful for cross-referencing.
+
+## Why the Case Is Frequently Cited (High-Level)
+
+- **Command responsibility themes**: Coverage often focuses on how militia leaders were organized, supplied, and coordinated during attacks.
+- **Accountability precedent**: ICC outcomes in Darfur-related cases are often discussed as signals about feasibility and limits of international criminal justice.
+- **Documentation patterns**: Darfur is also cited as a case where large bodies of investigative reporting and UN documentation shaped legal narratives.
+
+## Related Institutions and Terms
+
+- **Janjaweed**: A label commonly used for Arab militias linked to violence in Darfur; definitions vary by source and over time.
+- **ICC arrest warrant / surrender**: Mechanisms by which suspects may be transferred to The Hague.
+- **War crimes vs. crimes against humanity**: Legal categories that differ in required elements and contextual thresholds.

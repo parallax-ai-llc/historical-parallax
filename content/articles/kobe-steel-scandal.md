@@ -8,7 +8,8 @@ occupation: ["Criminal Event"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kobe_Steel_Scandal"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 

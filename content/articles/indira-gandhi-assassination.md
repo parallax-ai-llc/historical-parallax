@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Indira_Gandhi_Assassination"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Assassination of Indian PM Indira Gandhi by her Sikh bodyguards on October 31, 1984 in retaliation for Operation Blue Star. Her death triggered the 1984 anti-Sikh riots killing 3,000.

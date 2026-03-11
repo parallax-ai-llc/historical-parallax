@@ -49,3 +49,21 @@ Popoff became widely known after investigators and media reports alleged that he
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+## Additional Context
+
+### Media and skepticism
+
+The Popoff controversy is frequently cited in skeptical and media-criticism circles as an example of how stagecraft, audience data collection, and televised presentation can create a perception of supernatural knowledge.
+
+### Business model
+
+After earlier setbacks, Popoff’s later operations were widely reported as relying on direct-mail fundraising and the marketing of religiously framed “miracle” items. Public interest organizations have periodically tracked the scale and messaging of these campaigns.
+
+### Legal and regulatory context
+
+In the United States, religious broadcasting and fundraising operate within a mix of nonprofit rules, consumer-protection enforcement, and broadcaster policies. Specific claims about products and healing are typically evaluated through documented complaints, settlements, or investigations when they occur.
+
+## Additional References
+
+[^2]: James Randi Educational Foundation (archived materials and reporting) — https://web.randi.org/

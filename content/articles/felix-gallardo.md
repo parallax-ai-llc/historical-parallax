@@ -60,3 +60,18 @@ Already covered as Miguel Ángel Félix Gallardo.
 - Guadalajara Cartel
 - Enrique “Kiki” Camarena
 - Sinaloa (region) and early trafficking corridors
+
+## Overview
+
+- Miguel Ángel Félix Gallardo is a Mexican drug trafficker associated with the Guadalajara Cartel and is often described as a key figure in the early consolidation of modern Mexican drug trafficking networks.
+
+## Role in organized crime history
+
+- Analysts frequently discuss this period as one in which trafficking routes, corruption mechanisms, and cartel governance structures became more formalized.
+- The era also features prominently in U.S.–Mexico counternarcotics history, including shifting enforcement strategies and the evolution of bilateral cooperation.
+
+## Why the topic matters
+
+- It provides a case study in how illicit markets scale: logistics, finance, protection arrangements, and the fragmentation of groups over time.
+- The longer-term consequences include intensified competition among successor organizations and persistent institutional challenges around corruption and violence.
+

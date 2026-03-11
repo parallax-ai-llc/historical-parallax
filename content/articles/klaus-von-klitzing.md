@@ -47,3 +47,8 @@ It shows that material systems can produce exact numerical values tied to univer
 
 ## References
 [^1]: Wikipedia, "Klaus von Klitzing" - https://en.wikipedia.org/wiki/Klaus_von_Klitzing
+
+## Further Reading
+
+- Overviews of the quantum Hall effect in condensed-matter textbooks and review articles.
+- Materials from national metrology institutes on quantum electrical standards.

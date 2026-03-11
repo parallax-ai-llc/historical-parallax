@@ -51,3 +51,11 @@ Nikolas Cruz killed 17 people at Marjory Stoneman Douglas High School in Parklan
 - Marjory Stoneman Douglas High School
 - March for Our Lives
 - Gun politics in the United States
+
+## Aftermath (High-Level)
+- The case led to extensive scrutiny of **school security practices**, including campus access control and the role of on-site law enforcement.
+- Investigations and public reporting also examined **prior warning signs** and the effectiveness of threat-reporting systems that were intended to surface risks before violence occurred.
+
+## Why the Case Remains Notable
+- It is frequently cited in discussions about the **limits of background-check and risk-assessment systems** when a perpetrator is legally able to obtain firearms.
+- The public response became a prominent example of **youth-led political mobilization** following a mass-casualty event.

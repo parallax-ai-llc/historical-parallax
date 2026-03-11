@@ -49,3 +49,21 @@ Public information emphasizes charges and convictions at state level, including 
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+## Additional Context
+
+### Charges and sentencing
+
+Public records describe guilty pleas and convictions in New York State court, including findings related to hate-crime motivation. He received a sentence of life imprisonment without the possibility of parole.
+
+### Broader implications
+
+The Buffalo attack has been discussed in policy debates about domestic violent extremism, firearm access, and the role of online platforms in radicalization, as well as in reviews of threat reporting and prevention mechanisms.
+
+### Responsible coverage
+
+High-level summaries should avoid amplifying extremist propaganda or operational details, and instead emphasize verified facts, victim impact, and legal outcomes.
+
+## Additional References
+
+[^2]: U.S. Department of Justice, Civil Rights Division — https://www.justice.gov/crt

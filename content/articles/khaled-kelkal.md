@@ -58,3 +58,23 @@ Kelkal was the subject of an intensive manhunt. He was **killed by French police
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Khaled Kelkal" - https://www.britannica.com/biography/Khaled-Kelkal
+
+## Broader historical context (high-level)
+
+### Link to the Algerian civil-war era
+
+Many summaries situate the 1995 France bombing campaign within the broader context of the **1990s Algerian conflict** and the spillover of related militant activity into Europe. Sources often mention the **Armed Islamic Group (GIA)** in discussions of the campaign.
+
+### Why Kelkal became a symbol in public debate
+
+- The distribution of his image and the high-profile manhunt made him one of the most recognizable faces of the 1995 campaign.
+- Later commentary sometimes used his story as an example in debates about **integration**, **marginalization**, and **radicalization pathways** in France.
+
+### Media and policing implications
+
+- The broadcast of the killing raised questions about rules of engagement and the public’s exposure to violent imagery.
+- The case is also cited in discussions about how counterterrorism investigations use identification evidence and public alerts.
+
+## Source note
+
+This article intentionally stays at a high level and avoids operational detail. For authoritative specifics (exact attribution of incidents, legal findings, and investigative chronology), consult court records and major contemporaneous reporting.

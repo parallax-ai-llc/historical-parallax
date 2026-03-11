@@ -53,3 +53,18 @@ Kevin De Bruyne is one of the greatest midfielders of his generation, winning mu
 ## References
 
 [^1]: Wikipedia, "Kevin De Bruyne" - https://en.wikipedia.org/wiki/Kevin_De_Bruyne
+
+## International career (high level)
+
+- With Belgium, De Bruyne has been a central figure in a nationally strong generation, contributing creativity and final-ball quality in major tournaments.
+- Tournament football often compresses preparation time; his role has typically emphasized chance creation, set-piece delivery, and tempo control.
+
+## Tactical roles
+
+- He has been used both as a central attacking midfielder and in wider half-spaces, depending on team structure and opponent pressing schemes.
+- His value is frequently described in terms of “expected assists”-style chance creation, progressive passing, and the ability to break defensive blocks with early deliveries.
+
+## Reputation
+
+- In broader football discourse, he is regularly cited among the defining playmakers of the Premier League era.
+- His peak seasons are often used as examples of how elite midfielders can combine volume creation with efficiency.

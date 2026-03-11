@@ -55,3 +55,24 @@ Belarusian dictator who hijacked a Ryanair plane to arrest a journalist, sparkin
 ## References
 
 [^1]: Wikipedia, "Aliaksandr Lukashenka" - https://en.wikipedia.org/wiki/Aliaksandr_Lukashenka
+
+## Elections and Legitimacy (High-Level)
+
+- International election-observation discussions around Belarus often emphasize issues such as media access, candidate eligibility, vote counting transparency, and the ability of observers to verify results.
+- In authoritarian systems, these disputes typically become entangled with broader questions about the independence of courts, electoral commissions, and security institutions.
+
+## Security Apparatus and State Control (Overview)
+
+- Analyses of Lukashenka’s durability in office often focus on the alignment of security agencies, internal policing capacity, and control of state-owned enterprises.
+- Restrictions on independent unions, NGOs, and journalism are frequently cited as mechanisms that limit organized opposition.
+
+## Regional Geopolitics (Context)
+
+- Belarus’s relationship with Russia is commonly framed as both economic (energy, trade, financing) and security (military basing, exercises, intelligence cooperation).
+- This alignment has shaped Belarus’s exposure to sanctions and limited its room for maneuver with Western states.
+
+## Related Topics
+
+- 2020 Belarus protests
+- Ryanair Flight 4978 diversion
+- Belarus–Russia integration frameworks

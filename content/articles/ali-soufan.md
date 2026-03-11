@@ -49,3 +49,20 @@ Former FBI agent who warned about al-Qaeda before 9/11 and interrogated key terr
 [^2]: Ali Soufan, *The Black Banners* (book, 2011) — overview and publication details.
 [^3]: Ali Soufan, *The Way of the Strangers* (book, 2017) — overview and publication details.
 [^4]: The Soufan Center — https://thesoufancenter.org/
+
+## Public Debate and Testimony (Overview)
+
+- Soufan has been involved in public debates over post-9/11 detention and interrogation policy, including arguments about effectiveness, legality, and long-term strategic costs.
+- He has appeared in hearings and media discussions where the central question is often **what actually produces reliable intelligence** in high-stakes investigations.
+
+## Concepts Often Associated With His Work
+
+- **Rapport-based interrogation**: Building cooperation through information control, credibility, and psychological insight rather than coercion.
+- **Intelligence sharing**: Institutional mechanisms for reducing siloing between agencies and between domestic and foreign intelligence streams.
+- **Radicalization pathways**: How recruitment narratives and social networks can influence mobilization over time.
+
+## Related Topics
+
+- FBI counterterrorism (general)
+- al-Qaeda and Islamic State (comparative analysis)
+- Post-9/11 intelligence reforms

@@ -50,3 +50,6 @@ Patrick Crusius killed 23 people at a Walmart in El Paso, Texas on August 3, 201
 
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
+
+## Notes on terminology
+- News and court filings commonly describe the case using **hate-crime** and **domestic terrorism** frameworks; the exact labels can vary by jurisdiction and charging strategy.

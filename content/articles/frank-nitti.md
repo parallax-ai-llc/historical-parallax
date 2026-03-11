@@ -57,3 +57,18 @@ These are the major categories of activity widely associated with the Outfit dur
 
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
+
+## Overview
+
+- Frank Nitti was an Italian-American gangster active during the Prohibition era and later years, associated with Al Capone’s Chicago Outfit.
+
+## Historical context
+
+- Prohibition-era organized crime is often analyzed as a period where illegal alcohol markets generated large cash flows, enabling corruption, professionalization of criminal networks, and violent competition.
+- The Chicago Outfit’s structure, influence, and links to labor racketeering became a major focus of U.S. law-enforcement and political attention in the early-to-mid 20th century.
+
+## Legacy in public history
+
+- Nitti and related figures appear frequently in American cultural memory through journalism, popular histories, and film/television portrayals of Prohibition-era crime.
+- The era is also used to study how policy choices can create lucrative illegal markets and the downstream institutional effects of widespread corruption.
+

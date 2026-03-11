@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Indian_Parliament_Attack"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Terrorist attack on the Indian Parliament in New Delhi on December 13, 2001 by Jaish-e-Mohammed and Lashkar-e-Taiba militants. 14 people were killed including all 5 attackers.

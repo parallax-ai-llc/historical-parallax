@@ -47,3 +47,8 @@ In the long run, the term “-gate” became a linguistic template for political
 ## Enduring lessons (high level)
 
 Watergate is often taught as a case where the decisive issue was not only the initial illegal act but the subsequent attempt to obstruct oversight. The episode also demonstrates how independent institutions—courts, legislatures, and a free press—can interact to surface evidence and enforce accountability.
+
+## Why it remains a reference point
+
+In public-administration and law contexts, Watergate is used as a concrete example of how informal political incentives can collide with formal constitutional constraints.
+It also illustrates how record-keeping (including contemporaneous recordings and documents) can decisively shape accountability outcomes when disputes turn on intent and knowledge.

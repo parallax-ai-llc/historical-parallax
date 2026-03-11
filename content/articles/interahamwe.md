@@ -10,7 +10,6 @@ socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Interahamwe"
 lastUpdated: "2026-02-26"
 ---
-
 ## Summary
 
 Hutu paramilitary militia that was the primary perpetrator of the 1994 Rwandan genocide. They systematically murdered Tutsi civilians using machetes and clubs.

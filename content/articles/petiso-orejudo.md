@@ -49,3 +49,21 @@ Open sources describe his arrest, confinement, and long-term detention, with lat
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+## Additional Context
+
+### Historical setting
+
+Godino’s crimes and confinement occurred during a period when modern criminology and psychiatric theories were gaining influence in Argentina and Europe. Later retellings often connect the case to early debates over moral responsibility, youth incarceration, and the limits of rehabilitation.
+
+### Institutionalization
+
+High-level accounts describe transfers among facilities and long-term detention, culminating in imprisonment in Ushuaia. Because older records can be incomplete, summaries should prioritize well-sourced historical treatments and avoid embellishment.
+
+### Modern reception
+
+The case has remained part of Argentine criminal folklore and appears in books and documentaries. Responsible summaries typically focus on verified dates, locations, and legal outcomes rather than sensational detail.
+
+## Additional References
+
+[^2]: Britannica, “Cayetano Santos Godino” (portal entry) — https://www.britannica.com/

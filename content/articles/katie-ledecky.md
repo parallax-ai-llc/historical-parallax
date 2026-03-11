@@ -48,3 +48,15 @@ Katie Ledecky is the most decorated female Olympic swimmer, dominating distance 
 
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
+
+## Competitive context (high level)
+
+- Distance freestyle success is typically driven by a combination of aerobic capacity, efficiency, and the ability to sustain race pace with minimal technical degradation.
+- At the elite level, small differences in split consistency and turn quality can compound across long races, creating decisive margins.
+- Ledecky’s results are often discussed alongside the broader evolution of training methodology and depth of international competition.
+
+## Legacy and comparisons
+
+- Her sustained success across multiple Olympic cycles is frequently cited when comparing modern-era swimmers by longevity, peak dominance, and versatility.
+- Beyond medals, her public profile has contributed to increased visibility for women’s swimming, especially in endurance-oriented events.
+- In historical discussion, she is commonly included among the defining swimmers of the 2010s–2020s era.

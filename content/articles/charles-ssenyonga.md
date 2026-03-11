@@ -62,3 +62,22 @@ Ugandan man who deliberately infected over 100 women with HIV, convicted of murd
 - HIV/AIDS in Uganda
 - HIV criminalization (comparative legal topic)
 - Public health law and infectious disease control
+
+## Broader Framing (High-Level)
+
+### Public Health vs. Criminal Law
+
+- Cases framed as intentional infection often sit at the intersection of:
+  - public health strategy (testing, treatment, prevention messaging), and
+  - criminal law concepts (intent, harm, causation, and victim impact).
+- Critics of criminalization frameworks argue they can discourage testing or increase stigma; supporters argue they are necessary for deterrence in intentional harm scenarios.
+
+### Evidence and Causation (General Issues)
+
+- Establishing that one specific person infected another can require careful medical and timeline evidence.
+- Public reporting may omit such nuance; headlines can overstate certainty compared with what a court record supports.
+
+### Data Notes
+
+- The "over 100" figure is widely repeated, but it should be treated as an approximate media summary unless corroborated by primary documents.
+- For detailed findings (counts, dates, medical evidence), consult court coverage or official records where available.

@@ -48,3 +48,7 @@ The 'Ndrangheta is a powerful Italian mafia from Calabria. It has surpassed the 
 
 ## References
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
+
+## Notes on terminology
+- The name is often written **'Ndrangheta**; capitalization and the leading apostrophe vary across English-language sources.
+- Many descriptions use Italian terms such as **'ndrina** (clan) and **locale** (local unit) to reflect how groups self-identify in Calabria.

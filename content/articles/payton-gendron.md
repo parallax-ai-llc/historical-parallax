@@ -58,3 +58,8 @@ Payton Gendron killed 10 Black people at a supermarket in Buffalo, New York on M
 ## Notes
 - This article intentionally stays at a **high level** and avoids operational details.
 - For precise dates, charge counts, and procedural posture, prefer primary court records and reputable local reporting.
+
+## See Also
+- 2022 Buffalo shooting
+- Hate crime law in the United States
+- Content moderation and livestreaming policy

@@ -55,3 +55,24 @@ Former CIA officer convicted of selling classified national defense information 
 - Espionage Act (United States)
 - Counterintelligence
 - Insider threat
+
+## Additional context (high-level)
+
+### What "national defense information" generally means
+
+In U.S. espionage-related prosecutions, reporting often references **national defense information (NDI)** as a legal concept rather than a single document type. In general terms, NDI can include information that the government closely holds and that could harm U.S. security if disclosed.
+
+### Why former officials can remain high-value targets
+
+- Former intelligence officers may retain **domain knowledge**, **credibility**, and **professional networks**, even after leaving service.
+- Recruitment approaches can focus on the perception that a person can still obtain or interpret sensitive material.
+
+### Counterintelligence themes commonly discussed alongside the case
+
+- **Insider-risk mitigation:** training, reporting channels, and monitoring for suspicious contacts.
+- **Travel and contact reporting:** expectations for cleared personnel can extend beyond active service depending on roles and clearances.
+- **Tradecraft indicators in open sources:** unusual payment arrangements, covert communications, or attempts to conceal the true counterpart.
+
+### Source limitations
+
+This entry is a high-level overview based on widely available summaries; more precise detail requires court documents, sentencing memoranda, and contemporaneous reporting.

@@ -47,3 +47,8 @@ Later decades in Czechoslovakia saw reassessments of early communist rule, inclu
 
 ## References
 [^1]: Wikipedia, "Klement Gottwald" - https://en.wikipedia.org/wiki/Klement_Gottwald
+
+## Further Reading
+
+- Histories of postwar Czechoslovakia and the 1948 communist takeover.
+- Studies of Stalinism and political show trials in Eastern Europe.

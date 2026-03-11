@@ -52,3 +52,26 @@ Duplicate consolidated.
 ## References
 
 [^1]: Wikipedia, "Chapo Isidro" - https://en.wikipedia.org/wiki/Chapo_Isidro
+
+## Organization and Aliases (High-Level)
+
+- **Common alias:** "El Chapo Isidro" (nickname used in media and government notices).[^1]
+- **Commonly reported group name:** **Los Mazatlecos** (sometimes described as a splinter or aligned faction within broader cartel ecosystems).[^1]
+- **Association:** Frequently linked in open sources to the **Beltrán Leyva Cartel** milieu, though relationships and labels can change across years and reporting contexts.[^1]
+
+## Geography (Broad, non-technical)
+
+- Open-source summaries commonly point to activity in **Sinaloa** and adjacent areas.
+- Territorial influence is often described as contested and fluid, especially during periods of cartel fragmentation.[^1]
+
+## Why This Entry Matters
+
+- The figure is often used in public reporting to illustrate:
+  - how "mid-level" or regional leaders can persist through leadership decapitation strategies,
+  - how alliances and branding (cartel names) may shift while trafficking logistics continue,
+  - the difficulty of resolving fugitive status when protection networks and remote terrain are involved (as described in general terms in reporting).[^1]
+
+## Notes on Verification
+
+- Many popular summaries compress complex networks into a single hierarchy; treat that as a simplification.
+- Reward amounts, wanted-list placement, and legal status are **time-sensitive**; verify with the latest official notice when accuracy is required.[^1]

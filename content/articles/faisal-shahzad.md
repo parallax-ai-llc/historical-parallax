@@ -49,3 +49,19 @@ Faisal Shahzad attempted to detonate a car bomb in Times Square, New York on May
 [^1]: https://en.wikipedia.org/wiki/Faisal_Shahzad
 [^2]: U.S. Department of Justice and contemporaneous federal court reporting on the Times Square bombing attempt (2010).
 [^3]: Major-news coverage and public safety briefings following the May 1, 2010 Times Square incident.
+
+## Overview
+
+- Faisal Shahzad is known for the 2010 attempted car bombing in Times Square, New York City. The device failed to detonate as intended and the incident became a major counterterrorism case.
+
+## Law-enforcement response
+
+- The investigation rapidly combined physical evidence, surveillance, vehicle records, and public reporting to identify and locate the suspect.
+- Shahzad was arrested and later convicted in U.S. federal court, receiving a life sentence.
+
+## Lessons frequently discussed
+
+- Urban counterterrorism: the importance of surveillance coverage, rapid forensics, and coordinated interagency response.
+- Public vigilance: how civilian observations can contribute when communicated through reliable channels.
+- Risk management: assessing vulnerabilities in crowded public spaces and adapting protective measures without excessive disruption.
+

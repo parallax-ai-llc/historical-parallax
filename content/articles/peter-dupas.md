@@ -49,3 +49,21 @@ Open reporting describes police investigations that led to charges and convictio
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+## Additional Context
+
+### Pattern of offending and supervision debates
+
+Public summaries of the case emphasize that Dupas had a long record of sexual offending and violence, including periods of imprisonment and release. The sequence of offenses and releases became part of broader debate in Australia about supervision of high-risk offenders, parole decisions, and information-sharing.
+
+### Investigations and evidence
+
+Reporting on the convictions notes that investigators and prosecutors relied on case-specific evidence assessed by the courts. High-level accounts typically frame the prosecutions as major, resource-intensive investigations in Victoria.
+
+### Sentencing and custody
+
+Dupas received life sentences for murder convictions. The case is often mentioned in discussions of victim advocacy and policy responses to repeat violent offending.
+
+## Additional References
+
+[^2]: Supreme Court of Victoria / Victorian court resources (case and sentencing information, where available) — https://www.supremecourt.vic.gov.au/
