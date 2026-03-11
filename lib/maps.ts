@@ -122,7 +122,11 @@ export function getMapLocations(mapId: string, articles: ArticleMeta[]): UfoLoca
   const locations = mapData[mapId] || [];
   const existingIds = new Set(articles.map((a) => a.id));
 
-  const filtered = locations.filter((loc) => existingIds.has(loc.id));
+  const filtered = locations.filter((loc) => {
+    // Exclude explicit duplicate articles (e.g. foo-duplicate, foo-dup99)
+    if (/-duplicate\d*$|-dup\d+$/.test(loc.id)) return false;
+    return existingIds.has(loc.id);
+  });
 
   // Deduplicate by exact coordinates — same [lng, lat] = same person/event, keep first
   const seen = new Set<string>();
