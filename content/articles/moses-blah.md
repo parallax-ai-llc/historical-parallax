@@ -1,4 +1,8 @@
 ---
+lastUpdated: "2026-02-26"
+---
+
+---
 id: "moses-blah"
 name: "Moses Blah"
 birth: "1947-09-18"

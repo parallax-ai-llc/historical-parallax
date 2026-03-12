@@ -9,7 +9,7 @@ outcome: "Personal data of 147 million people exposed"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2017_Equifax_data_breach"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,23 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2017-07-29 | Event occurred |
+
+## Root Cause and Vulnerability Management
+Public reporting and official findings tied the breach to a failure to patch a known vulnerability in a widely used web-application component. The incident became a commonly cited case study in asset inventory, patch management, and security governance failures at scale.
+
+## Notification and Consumer Remediation
+Equifax disclosed the breach publicly in September 2017, after the intrusion window that began earlier that summer. The company offered credit monitoring and identity-theft services, while regulators and legislators criticized the clarity and usability of consumer guidance. The event also heightened awareness of credit freezes and their role in reducing certain forms of identity fraud.
+
+## Legal and Regulatory Outcomes
+Equifax faced investigations by U.S. federal and state authorities as well as civil lawsuits. A large settlement framework was announced in 2019, including monetary relief and commitments to improve security. In 2020, the U.S. Department of Justice indicted multiple members of China’s military for alleged involvement.
+
+## Timeline (expanded)
+| Date | Event |
+|------|-------|
+| 2017-07 to 2017-08 | Intrusion period widely reported in investigations |
+| 2017-09 | Breach publicly disclosed |
+| 2019-07 | Major settlement framework announced |
+| 2020-02 | U.S. indictments announced against alleged Chinese military hackers |
 
 ## References
 [^1]: Historical records and journalistic accounts.

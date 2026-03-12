@@ -9,7 +9,7 @@ outcome: "£26 million in gold stolen; partial recovery"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Brink%27s-Mat_robbery"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,17 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 1983-11-26 | Event occurred |
+
+## Disposal of the Gold and Money Laundering
+A major challenge for the perpetrators was converting large quantities of identifiable bullion into usable proceeds. Significant portions of the stolen gold were believed to have been melted down and reintroduced into legitimate markets through layers of intermediaries, highlighting how precious metals can be used in large-scale criminal money laundering.
+
+The complexity of fencing and laundering the proceeds extended the case’s impact well beyond the initial robbery, drawing attention to weaknesses in supply-chain controls and financial oversight.
+
+## Organized Crime and Violence
+The robbery became linked to wider criminal networks and was associated in reporting with subsequent violence as different groups contested control over the proceeds. This reinforced the pattern that high-value criminal windfalls can generate secondary crimes, including intimidation and homicide, long after the initial offense.
+
+## Security and Regulatory Impact
+The Brink’s-Mat case influenced security thinking around high-value cargo storage and transport, particularly in and around major airports. It also added pressure for better tracking, auditing, and verification procedures for precious metals, given how rapidly stolen bullion can be transformed and dispersed.
 
 ## References
 [^1]: Historical records and journalistic accounts.

@@ -55,6 +55,31 @@ prefer the canonical references below for biography-level details.
 - William Procter (co-founder of Procter & Gamble)
 - Procter & Gamble
 
+## Practical Use of This Record
+
+In projects that maintain many short biographies, a duplicate page can still be useful when:
+
+- external links point to the duplicate id and you want to avoid broken references,
+- automated pipelines require every id to resolve to a page, or
+- a curator needs a "holding place" while sources are reconciled.
+
+When keeping a duplicate record, the usual best practice is to clearly label it (as done here),
+minimize speculative biography content, and point readers to the canonical entry.
+
+## Disambiguation and Naming Notes
+
+- The name **William Procter** has been used by multiple historical figures. A repository may temporarily create separate pages to avoid accidentally merging distinct people.
+- The canonical P&G founder is typically identified with the middle initial **"W."** in some sources and is associated with **Cincinnati, Ohio**, and the early growth of Procter & Gamble.
+- If another William Procter is intended, the distinguishing attributes are usually **dates**, **region**, and **occupation**; those should be used to confirm identity before merging.
+
+## Canonical Snapshot (High-Level)
+
+Without duplicating the full biography, a minimal, widely cited outline for the P&G co-founder includes:
+
+- A 19th-century **candlemaker** and business leader in the United States.
+- Partnership with **James Gamble**, initially in soap and candles.
+- Leadership and early organizational practices that helped P&G persist beyond a single generation of founders.
+
 ## References
 
 [^1]: Wikipedia, "William Procter duplicate" - https://en.wikipedia.org/wiki/William_Procter_duplicate

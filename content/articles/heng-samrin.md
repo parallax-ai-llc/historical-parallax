@@ -50,3 +50,18 @@ Former Khmer Rouge division commander who later became head of state after the V
 
 - Samrin's trajectory illustrates how revolutionary movements can fragment, and how former insiders can become pillars of successor regimes.
 - His career is also a case study in the tradeoffs between political stabilization and retrospective accountability after mass-atrocity periods.
+
+## Post-1979 State-Building (High-Level)
+
+- The post-1979 government faced the task of rebuilding institutions after the Khmer Rouge period, including basic administration, security forces, and economic management.
+- Vietnam’s military and political backing is widely described as central to the new regime’s early stability and international alignment.
+
+## Long-Run Political System
+
+- Cambodian politics in subsequent decades is often characterized by dominant-party continuity, negotiated transitions, and periodic electoral contestation under significant incumbency advantages.
+- Senior figures from the post-1979 leadership cohort remained influential for decades, shaping legislative and party structures.
+
+## Accountability and Historical Memory
+
+- Public debate about culpability for Khmer Rouge-era crimes has intersected with questions of who defected, when, and under what circumstances.
+- The existence of later tribunals and documentation initiatives has kept attention on the difficulty of separating individual responsibility from survival-driven choices inside violent systems.

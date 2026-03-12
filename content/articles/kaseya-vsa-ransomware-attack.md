@@ -52,3 +52,7 @@ Readers often look for:
 - a clear timeline of key events,
 - the institutions involved (courts, agencies, organizations),
 - and the longer-term impact on policy, public debate, or historical interpretation.
+
+## MSP risk lessons (overview)
+
+Because MSPs administer many customer environments, incidents like this are often used to highlight “shared fate” risk: a single compromised administrative channel can propagate across many small and mid-sized businesses. Common mitigations discussed include least-privilege administration, network segmentation between tenants, and rehearsed shutdown procedures for remote tooling during active exploitation.

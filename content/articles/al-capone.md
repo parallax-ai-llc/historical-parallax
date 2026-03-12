@@ -8,7 +8,7 @@ occupation: ["Gangster", "Crime Boss"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al_Capone"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -21,7 +21,13 @@ Al Capone was born on 1899-01-17 in United States / Italy. Details of early life
 As a gangster, Al Capone became known for criminal activities that drew significant attention from law enforcement and the public. [^2]
 
 ## Capture / Downfall
-Al Capone's criminal career came to an end through law enforcement action or other circumstances. [^3]
+Despite being linked in public discourse to high-profile violence associated with Prohibition-era gang wars (including the 1929 St. Valentine's Day Massacre, for which he was never convicted), Capone was ultimately brought down through financial investigation. Federal authorities pursued tax and accounting-based charges that were easier to prove than racketeering-linked murders and intimidation. In 1931 he was convicted of tax evasion and related offenses and received an 11-year federal sentence.
+
+## Imprisonment and Decline
+Capone served time in federal facilities including Alcatraz. After release, his health deteriorated significantly, and he lived a largely secluded life before dying in 1947.
+
+## Law Enforcement Significance
+Capone's prosecution became a canonical example of using “follow the money” tactics—financial records, income analysis, and tax statutes—to dismantle organized crime leadership when direct witness testimony was unreliable or too dangerous to secure.
 
 ## Positive Perspectives
 - The case contributed to advances in criminal justice and law enforcement techniques [^4]

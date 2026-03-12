@@ -9,7 +9,7 @@ outcome: "Dark web marketplace shut down; founder arrested"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Silk_Road_(marketplace)"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,14 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Additional Notes
+- Silk Road operated as a hidden service, using anonymity networks and cryptocurrency payments to reduce direct traceability for buyers and sellers.
+- The takedown combined traditional investigative work with digital forensics and financial tracing focused on cryptocurrency flows.
+- The arrest and prosecution became a widely discussed test case for how courts treat online-platform operators whose services facilitate illegal trade.
+- After the shutdown, copycat markets and successor platforms quickly emerged, illustrating a "whack-a-mole" dynamic in darknet enforcement.
+- The case helped accelerate broader awareness of operational-security (OPSEC) failures as a primary vulnerability in supposedly anonymous systems.
+- Policy debates around the event often split between harm-reduction arguments, privacy concerns, and a push for stronger anti-money-laundering controls.
+
+## Interpretation
+The takedown is frequently cited as an early inflection point where cybercrime, crypto-finance, and federal law enforcement priorities visibly converged.

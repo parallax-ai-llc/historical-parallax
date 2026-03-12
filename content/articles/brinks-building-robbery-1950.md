@@ -9,7 +9,7 @@ outcome: "$2.7 million stolen; called 'crime of the century'"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Brink%27s_robbery"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,17 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 1950-01-17 | Event occurred |
+
+## Modus Operandi
+Accounts of the robbery emphasize extensive preparation and an approach designed to minimize identification: the perpetrators used disguises and controlled the scene by restraining employees and limiting access to communication. The theft targeted cash and other valuables stored on-site, and the scale of the haul contributed to the robbery’s notoriety.
+
+## Investigation and Prosecution
+The case became a landmark for investigators because it combined careful planning, limited immediate leads, and a large number of participants. Federal investigators ultimately assembled the case through a combination of informants, surveillance, and financial tracing, bringing charges only shortly before the statute of limitations would have barred prosecution.
+
+The subsequent convictions reinforced the importance of long-running investigative work in complex, multi-defendant crimes, where evidence can take years to develop.
+
+## Cultural Legacy
+The Brink’s robbery has been frequently referenced in discussions of mid-20th-century organized crime and in popular culture as a prototypical “big score” heist. Its long investigative timeline is often cited as an example of persistence and the strategic use of investigative resources in major property crimes.
 
 ## References
 [^1]: Historical records and journalistic accounts.

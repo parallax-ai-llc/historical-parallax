@@ -9,7 +9,7 @@ outcome: "13 artworks worth $500 million stolen; unsolved"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum_theft"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,13 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Security Weaknesses and Tactics
+The commonly reported tactic—impersonating police—underscored how social engineering can bypass physical barriers when staff are trained to comply with authority figures. The theft is frequently discussed alongside other museum incidents as an example of why procedures, staffing, and verification protocols matter as much as locks and alarms.
+
+## Ongoing Investigation
+Because the stolen works are widely recognizable, they are often described as "too hot" to sell openly, which has contributed to theories about their use as collateral within criminal networks. Law enforcement agencies and the museum have periodically renewed appeals and public tips, keeping the case active decades later.
+
+## Legacy in the Art World
+The robbery influenced museum security standards and public awareness of art crime, and it remains a reference point in discussions of provenance, private collections, and illicit trafficking. The continued absence of the works has also shaped how the museum presents its collection and tells its own institutional history.
+It is still widely cited as the largest-value unsolved art theft in the United States.

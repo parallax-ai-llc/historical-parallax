@@ -9,7 +9,7 @@ outcome: "32 killed, 340 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2016_Brussels_bombings"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,17 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2016-03-22 | Event occurred |
+
+## Investigation and Network Context
+Investigations focused on identifying the operational cell, its logistics, and its connections to other attacks in Europe during the same period. The Brussels bombings were frequently discussed alongside the 2015 Paris attacks as part of a broader security challenge involving cross-border movement, clandestine support networks, and the use of common tactics across multiple incidents.
+
+Law enforcement efforts emphasized intelligence sharing between Belgian agencies and international partners, given the transnational nature of the networks involved.
+
+## Emergency Response and Public Safety
+The attacks required immediate mass-casualty response at both an international airport and a metro station, stressing medical services, transportation systems, and crisis communications. Temporary closures and heightened alert measures affected travel and daily life in Brussels, and the event became a reference point for emergency preparedness planning in urban transit environments.
+
+## Policy and Security Measures
+After the bombings, authorities reviewed security procedures in transport hubs, including screening practices, perimeter controls, and rapid response protocols. The incident also intensified public debate about counterterrorism resources, legal authorities, and the balance between civil liberties and preventive security in a major European capital.
 
 ## References
 [^1]: Historical records and journalistic accounts.

@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amedy_Coulibaly"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -36,6 +36,15 @@ Amedy Coulibaly's criminal career came to an end through law enforcement action 
 |------|-------|
 | 1982 | Born |
 | 2015 | Career ended |
+
+## Additional Context
+- Coulibaly pledged allegiance to the Islamic State (ISIS) in statements released around the time of the attack.
+- The January 2015 events in Paris were treated by investigators as connected incidents, including the Charlie Hebdo shootings and the Hypercacher siege.
+- He had prior convictions and periods of imprisonment, which were often cited in reporting about his radicalization and networks.
+
+## Aftermath
+- The siege ended when French police stormed the supermarket; Coulibaly was killed during the assault.
+- The attack intensified security debates in France and contributed to expanded counterterrorism operations and public vigilance.
 
 ## References
 [^1]: Encyclopedia of Criminal History.

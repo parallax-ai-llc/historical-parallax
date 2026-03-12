@@ -1,4 +1,8 @@
 ---
+lastUpdated: "2026-02-26"
+---
+
+---
 id: "monika-janowska"
 name: "Monika Janowska"
 birth: "1980-01-01"

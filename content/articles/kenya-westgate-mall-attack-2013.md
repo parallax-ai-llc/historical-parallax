@@ -9,7 +9,7 @@ outcome: "67 killed, 175 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,13 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Siege and Emergency Response
+The attack developed into a prolonged siege that required coordination among police, military, and emergency medical services. Post-incident analyses frequently focus on command-and-control challenges during multi-day urban incidents and on the importance of clear incident leadership, interoperable communications, and evacuation planning.
+
+## Investigations and Accountability
+Following the siege, Kenyan authorities and independent observers examined preparedness, security procedures at public venues, and the flow of intelligence prior to the attack. The event also prompted renewed attention to corruption risks in building and security systems, as well as the need for regular drills and standardized response protocols.
+
+## Regional Security Implications
+Westgate is often cited as a milestone in al-Shabaab's external operations and in the broader pattern of cross-border militant violence in East Africa. It influenced subsequent counterterrorism policies, public-venue security practices, and regional cooperation efforts aimed at disrupting recruitment, financing, and operational planning.
+The attack remains a key reference point in Kenyan security discourse and memorialization.

@@ -8,7 +8,7 @@ occupation: ["Terrorist", "Mass Murderer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anders_Behring_Breivik"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -36,6 +36,15 @@ Anders Breivik's criminal career came to an end through law enforcement action o
 |------|-------|
 | 1979 | Born |
 | ? | Career ended |
+
+## Additional Context
+- Breivik circulated a lengthy manifesto commonly referred to as "2083" that outlined his far-right, anti-immigration ideology.
+- Norwegian courts sentenced him to 21 years of preventive detention (forvaring), a framework that can be extended if he is deemed to remain a danger.
+- The case generated extensive debate about extremist online ecosystems, lone-actor violence, and the limits of risk assessment.
+
+## Aftermath
+- Norway held major public memorials and inquiries, and the attacks shaped national discussions on security, policing, and democratic resilience.
+- Survivors and families have remained prominent voices in public remembrance and policy conversations.
 
 ## References
 [^1]: Encyclopedia of Criminal History.

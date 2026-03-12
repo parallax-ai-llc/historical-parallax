@@ -9,7 +9,7 @@ outcome: "193 killed, 2,000 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -30,7 +30,19 @@ This event had significant impact on law enforcement practices, public policy, a
 ## Timeline
 | Date | Event |
 |------|-------|
-| 2004-03-11 | Event occurred |
+| 2004-03-11 | Bombs detonated on multiple commuter trains during the morning rush |
+
+## Investigation and Perpetrators
+Spanish authorities conducted a large-scale investigation involving forensic evidence, telecommunications records, and cooperation with international partners. The case led to arrests and prosecutions of individuals linked to an extremist cell inspired by al-Qaeda, and it shaped subsequent counterterrorism investigations in Europe.
+
+## Political and Social Impact
+The attacks occurred days before Spain’s general election and became a major national event, affecting public debate and crisis communication. Public demonstrations and commemorations highlighted solidarity with victims and the broader consequences of terrorism on civic life.
+
+## Security and Emergency Response Lessons
+The bombings accelerated discussion of rail security, intelligence sharing, and coordinated emergency medical response for mass-casualty incidents. They are frequently studied for lessons in inter-agency coordination and public information management.
+
+## Memorials
+Madrid established memorial sites and annual remembrance events for victims and survivors, and the date remains a significant marker in Spain’s modern history.
 
 ## References
 [^1]: Historical records and journalistic accounts.

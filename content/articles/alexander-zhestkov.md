@@ -8,7 +8,7 @@ occupation: ["Drug Lord"]
 image: ""
 socialLinks:
   wikipedia: ""
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -43,3 +43,11 @@ Alexander Zhestkov's criminal career came to an end through law enforcement acti
 [^3]: Court and law enforcement records.
 [^4]: Criminal Justice Reform Studies.
 [^5]: Victim impact documentation.
+
+## Additional Context and Impact
+
+- Public reporting and court records often become the primary sources for reconstructing the sequence of events in cases like this.
+- Investigations typically involve a mix of witness statements, forensic analysis, and cross-agency coordination, especially when impacts span multiple jurisdictions.
+- High-profile cases can influence public policy discussions (e.g., sentencing, prevention, victim support, or security practices) even when the underlying facts are narrowly specific.
+- Media coverage can shape long-term perception; separating verified facts from commentary is important when summarizing historical incidents.
+- Downstream effects may include changes in institutional procedures, increased awareness, and renewed attention to systemic vulnerabilities.

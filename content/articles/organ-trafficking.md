@@ -50,3 +50,14 @@ Demand for transplantable organs can far exceed legal supply, creating incentive
 
 In policy discussions, “organ trafficking” is often grouped with **transplant tourism** and **trafficking in persons for organ removal**, but these categories are not identical.
 
+## How organ trafficking is investigated and prosecuted
+
+Because procurement, travel, and transplantation can occur in different jurisdictions, investigations often rely on financial records, hospital auditing, and cross-border cooperation. Common enforcement targets include brokers, corrupt medical staff, and document forgers, while victim testimony can be hard to obtain due to fear, stigma, or migration status.
+
+## Data and measurement challenges
+
+Reliable prevalence estimates are difficult: illicit transplants are designed to evade reporting systems, and legitimate transplant statistics do not always capture coercion or fraud in the supply chain. As a result, many figures are presented as ranges and are sensitive to the definitions used (organ trafficking vs. transplant tourism vs. trafficking in persons).
+
+## Public health and ethics considerations
+
+Organ trafficking raises major ethical issues around consent, exploitation, and medical harm. It also creates public health risks when surgeries are performed without adequate screening, follow-up care, or infection control, potentially harming both donors and recipients.

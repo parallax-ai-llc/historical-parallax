@@ -9,7 +9,7 @@ outcome: "8,372 Bosniak men and boys killed"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Srebrenica_massacre"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,14 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Additional Notes
+- Srebrenica had been designated a UN "safe area" during the Bosnian War, and the massacre became a symbol of the limits of international protection mandates when political and military backing is insufficient.
+- The killings were accompanied by forced displacement and systematic separation of men and boys from women, children, and the elderly.
+- International tribunals treated the event as a central case for modern atrocity-law, with prosecutions at the ICTY alongside later national proceedings.
+- Identification of victims relied heavily on forensic exhumations, DNA matching, and long-running efforts to locate and document mass graves.
+- Annual commemorations and burials at the Srebrenica–Potočari Memorial Center remain an important site of remembrance and public education.
+- The massacre continues to influence debates on early warning, civilian protection, and the responsibility of states and institutions in preventing mass atrocities.
+
+## Ongoing Significance
+It is frequently referenced in discussions about genocide recognition, denial, and the long-term social repair required after mass violence.

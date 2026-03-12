@@ -8,8 +8,7 @@ occupation: ["Activist", "Performance Artist", "Actress", "Social Advocate"]
 image: null
 socialLinks:
   wikipedia: null
-lastUpdated: "2026-01-15"
----
+lastUpdated: "2026-02-26"---
 
 ## Summary
 
@@ -40,3 +39,19 @@ Beyond performance activism, Paner founded KAWA Pilipinas, a community kitchen i
 ## Legacy
 
 Mae Paner represents a contemporary form of Filipino activism that blends performance art, satire, and direct community service. Her work demonstrates how cultural and artistic practices can be integrated with social advocacy and grassroots organizing.
+
+## Methods and Public Persona
+
+The "Juana Change" persona operates at the intersection of street theater and civic education: by using humor, parody, and recognizable visual cues, performances can communicate political critique to audiences beyond typical policy circles. This approach is commonly used in contemporary protest cultures to lower barriers to participation and to make complex issues legible in public spaces.
+
+## Community Work and Organizing
+
+KAWA Pilipinas is often described as mutual-aid infrastructure rather than a one-off charity effort. Community kitchens can serve multiple functions at once:
+
+- immediate relief (meals and essentials),
+- community trust-building through repeated local engagement,
+- a platform for volunteer coordination during crises.
+
+## Context
+
+Paner's visibility should be understood within a broader Philippine tradition of socially engaged art and activism, where performance has been used to comment on governance, inequality, and human rights. Specific claims about totals, dates, and institutional relationships should be verified against primary reporting or organizational records when used in academic or legal contexts.

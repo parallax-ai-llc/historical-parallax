@@ -9,7 +9,7 @@ outcome: "148 killed"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Garissa_University_College_attack"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,22 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2015-04-02 | Event occurred |
+
+## Security Response
+Kenyan security forces responded and eventually retook the campus after an extended siege. Reports in the aftermath debated response times, coordination, and preparedness for complex attacks, particularly in remote areas.
+
+## Perpetrators and Motivation
+Al-Shabaab claimed responsibility and framed the attack as retaliation for Kenya’s military involvement in Somalia and for counterterrorism operations. The incident fit a broader pattern of al-Shabaab targeting civilians and institutions in Kenya in the mid-2010s.
+
+## National Impact
+The attack intensified Kenyan public discussion about security policy, border management, and the protection of educational institutions. It also led to calls for improved intelligence gathering, rapid-response capacity, and support systems for survivors and affected families.
+
+## Timeline (expanded)
+| Date | Event |
+|------|-------|
+| 2015-04-02 | Attack begins at Garissa University College |
+| 2015-04-02 | Siege ends after security forces regain control; casualty figures reported |
+| 2015-04 | National mourning and policy debate on security measures |
 
 ## References
 [^1]: Historical records and journalistic accounts.

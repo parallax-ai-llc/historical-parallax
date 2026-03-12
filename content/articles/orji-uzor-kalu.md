@@ -51,3 +51,10 @@ His career is commonly used as an example in debates over political accountabili
 
 Biographical details and legal proceedings are frequently summarized differently across sources; timelines can vary depending on which court stage is being referenced.
 
+## Political context and institutions
+
+Nigeria’s anti-corruption architecture includes agencies and courts tasked with investigating and prosecuting financial crimes involving public officials. High-profile cases like Kalu’s are often discussed in terms of institutional capacity, procedural safeguards, and the pace of litigation, including how appeals and retrials can extend timelines.
+
+## Media and public debate
+
+Public commentary around the case has typically focused on two competing themes: (1) the importance of accountability for public funds, and (2) due process concerns when convictions are challenged on jurisdictional or procedural grounds. This tension is common in corruption cases where political careers continue alongside ongoing legal disputes.

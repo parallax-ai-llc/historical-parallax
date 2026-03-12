@@ -8,7 +8,7 @@ occupation: ["Terrorist", "ISIS Leader"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Bakr_al-Baghdadi"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -43,3 +43,12 @@ Abu Bakr al-Baghdadi's criminal career came to an end through law enforcement ac
 [^3]: Court and law enforcement records.
 [^4]: Criminal Justice Reform Studies.
 [^5]: Victim impact documentation.
+
+## Key Context
+
+Baghdadi rose within the Iraqi jihadist insurgency that followed the 2003 invasion of Iraq and later led ISIS through its rapid territorial expansion during the Syrian civil war and the collapse of Iraqi security positions in 2014.
+
+## Declared “Caliphate” and Collapse
+
+In 2014, ISIS proclaimed a caliphate from Mosul, drawing global attention and foreign fighters. A sustained international military campaign and local ground forces gradually rolled back ISIS territorial control, culminating in the group’s loss of its last significant enclave by 2019.
+

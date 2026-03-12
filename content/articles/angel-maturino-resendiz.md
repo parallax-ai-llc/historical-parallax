@@ -8,7 +8,7 @@ occupation: ["Serial Killer"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angel_Maturino_Resendiz"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -36,6 +36,15 @@ Angel Maturino Resendiz's criminal career came to an end through law enforcement
 |------|-------|
 | 1959 | Born |
 | 2006 | Career ended |
+
+## Additional Context
+- Reséndiz was linked to crimes in multiple states and was known for transient travel that complicated investigations.
+- He was arrested after surrendering in 1999, and prosecutors relied on confessions and physical evidence to connect him to several murders.
+- The "Railroad Killer" label reflected the pattern of using rail lines and freight trains for movement between locations.
+
+## Aftermath
+- The case influenced public awareness of serial violence involving transient offenders and prompted coordination across jurisdictions.
+- It also raised questions about border enforcement, missing-person investigations, and information sharing among agencies.
 
 ## References
 [^1]: Encyclopedia of Criminal History.

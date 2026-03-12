@@ -55,6 +55,22 @@ Winston Churchill was a British statesman, writer, and military officer who play
 - Churchill's record is debated, particularly regarding the British Empire, colonial governance, and wartime decision-making.
 - Scholarly and public assessments vary widely, and discussions often distinguish between his wartime leadership and his views and policies on imperial and racial questions.
 
+## Major Themes in Scholarship (High-Level)
+
+- **Grand strategy and alliance politics**: Churchill is studied for decisions about Britain’s strategic priorities, relationships with the United States and the Soviet Union, and management of resources during total war.
+- **Rhetoric and political communication**: his speeches, parliamentary style, and use of language are frequently analyzed as part of modern political oratory.
+- **Imperial governance**: historians evaluate his views on the British Empire and how those views interacted with policy choices and attitudes toward self-determination.
+
+## Legacy
+
+- In the UK, Churchill remains one of the most recognizable 20th-century political figures; monuments, museums, and extensive biographies contribute to a large public memory ecosystem.
+- Internationally, he is often remembered primarily for World War II leadership, while academic and activist discourse also foregrounds critique of imperial-era policy and attitudes.
+
+## Notes for Repository Curation
+
+- This record contains an explicit caution that categorizing Churchill as a "criminal" is **politically and historiographically contentious**; many databases would instead classify him as a statesman with debated responsibility for harmful policies.
+- If a strict "criminal" taxonomy is required, curators often set higher sourcing thresholds and define inclusion criteria (e.g., formal conviction, international tribunal findings, or a clear legal classification) to avoid using the category as a proxy for moral judgment.
+
 ## References
 
 [^1]: Wikipedia, "Winston Churchill" - https://en.wikipedia.org/wiki/Winston_Churchill

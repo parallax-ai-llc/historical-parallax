@@ -9,7 +9,7 @@ outcome: "23 killed, 23 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2019_El_Paso_shooting"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,22 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2019-08-03 | Event occurred |
+
+## Investigation and Charges
+Police arrested the suspect shortly after the shooting. Prosecutors pursued both state and federal cases, emphasizing alleged intent to target Hispanic victims. The federal case resulted in a guilty plea to hate-crime charges and a sentence of multiple consecutive life terms.
+
+## Community Response
+El Paso held vigils and memorials and emphasized cross-border community solidarity given the city’s close ties to Ciudad Juárez. Local organizations expanded victim support services, and the attack became a focal point for debates about anti-immigrant rhetoric, extremist violence, and community resilience.
+
+## Broader Context
+The shooting was widely discussed as part of an era of mass-casualty attacks linked to online radicalization and white supremacist ideology. It also renewed scrutiny of how extremist manifestos are disseminated and how law enforcement monitors domestic violent extremism.
+
+## Timeline (expanded)
+| Date | Event |
+|------|-------|
+| 2019-08-03 | Shooting at Walmart in El Paso; suspect taken into custody |
+| 2019-08 | Authorities announce hate-crime and terrorism-related allegations |
+| 2023 | Federal guilty plea and sentencing to consecutive life terms |
 
 ## References
 [^1]: Historical records and journalistic accounts.

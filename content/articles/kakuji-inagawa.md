@@ -48,3 +48,11 @@ Readers often look for:
 - a clear timeline of key events,
 - the institutions involved (courts, agencies, organizations),
 - and the longer-term impact on policy, public debate, or historical interpretation.
+
+## Organization and role
+
+High-level profiles typically describe Inagawa as a consolidator: someone who helped turn a local group into a durable, hierarchical organization with a recognizable “brand” across multiple affiliated crews.
+
+## Regulation and public debate
+
+Modern Japanese anti-gang measures and social pressure campaigns have shaped how yakuza groups operate and how their leadership is discussed in public sources, especially in retrospective biographies.

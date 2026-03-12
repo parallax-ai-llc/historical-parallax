@@ -77,3 +77,19 @@ To build a rigorous, citation-forward account beyond a short overview, typical s
 ## References (Extended)
 
 - [^1] provides a consolidated overview and links to additional sources for dates, casualty figures, and procedural milestones.
+
+## Overview
+
+The El Paso shooting refers to a mass shooting that took place in El Paso, Texas, at a retail location. It became a major national story in the United States because of the number of victims and the broader debates it triggered around public safety, extremism, and gun violence.
+
+## Immediate response
+
+Local law enforcement and emergency medical responders secured the area, treated the wounded, and began an investigation into what happened and why. In the days that followed, city and state officials provided public updates, while federal authorities evaluated whether additional charges or classifications applied based on the alleged motive.
+
+## Investigation and legal process
+
+Investigations in large-scale attacks typically involve reviewing surveillance footage, interviewing witnesses, reconstructing a timeline, and collecting digital evidence. Prosecutors may pursue charges at multiple jurisdictional levels, and legal proceedings can take years due to the volume of evidence and the number of affected families.
+
+## Public impact
+
+The attack intensified public discussion about hate crimes, online radicalization, and policy responses. Community vigils and memorials became a focal point for grief and solidarity, and the event is often referenced in later debates about preventing mass violence.

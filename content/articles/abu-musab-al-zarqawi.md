@@ -8,7 +8,7 @@ occupation: ["Terrorist", "Al-Qaeda in Iraq Leader"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -43,3 +43,12 @@ Abu Musab al-Zarqawi's criminal career came to an end through law enforcement ac
 [^3]: Court and law enforcement records.
 [^4]: Criminal Justice Reform Studies.
 [^5]: Victim impact documentation.
+
+## Role in the Iraq War
+
+Zarqawi’s organization became notorious for spectacular mass-casualty attacks and propaganda violence, and it sought to inflame sectarian conflict in Iraq—an approach that shaped the trajectory of jihadist insurgency in the mid-2000s.
+
+## Connection to ISIS
+
+Al-Qaeda in Iraq later evolved through successive rebrandings and leadership changes into the Islamic State of Iraq and, eventually, ISIS/ISIL, making Zarqawi a key precursor figure in that organizational lineage.
+

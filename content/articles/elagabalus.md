@@ -71,3 +71,19 @@ A more careful profile typically triangulates:
 ## References (Extended)
 
 - [^1] provides a modern summary and an index of references; specialized academic works are recommended for contested claims and interpretation.
+
+## Overview
+
+Elagabalus was a Roman emperor whose short reign is often discussed through the lens of court politics, religious controversy, and the difficulties of governing the Roman Empire during periods of instability. Much of what is popularly repeated about Elagabalus comes from ancient sources that can be hostile, sensational, or agenda-driven, so modern accounts often separate widely attested events from later moralizing stories.
+
+## Accession and court politics
+
+Roman imperial successions could turn quickly on military support, elite alliances, and the ability of the court to manage competing factions. Elagabalus’s rise and fall are commonly framed as examples of how palace politics and the loyalty of key armed forces shaped outcomes more than formal institutions.
+
+## Religion and public image
+
+Accounts of Elagabalus frequently emphasize religious policy and the emperor’s personal patronage of particular cult practices. In the Roman world, religion and statecraft were closely linked; changes to public ritual or imperial priorities could be interpreted as political statements, provoking support or resistance among different groups.
+
+## Sources and interpretation
+
+Ancient historiography is uneven: some surviving narratives were written long after the events, sometimes with rhetorical goals rather than neutral reporting. As a result, biographies of Elagabalus often include a discussion of source reliability and how later writers shaped the emperor’s reputation.

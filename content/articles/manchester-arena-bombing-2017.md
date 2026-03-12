@@ -9,7 +9,7 @@ outcome: "22 killed, 1,017 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Manchester_Arena_bombing"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -30,7 +30,16 @@ This event had significant impact on law enforcement practices, public policy, a
 ## Timeline
 | Date | Event |
 |------|-------|
-| 2017-05-22 | Event occurred |
+| 2017-05-22 | Attack at the Manchester Arena as attendees exited a concert |
+
+## Investigation and Associated Cases
+UK authorities treated the bombing as a major counterterrorism investigation, examining the attacker’s movements, contacts, and preparation. In addition to the immediate scene investigation, subsequent cases focused on individuals who assisted with planning or logistics and on how the device was constructed.
+
+## Reviews and Inquiries
+The attack prompted reviews of venue security, emergency response, and information-sharing practices. Public discussion also focused on how intelligence and travel indicators are evaluated, and on lessons for protecting crowded places.
+
+## Community Response and Victim Support
+Manchester saw large public gatherings, fundraising efforts, and long-term support initiatives for survivors and bereaved families. The event became a reference point for resilience narratives and for improving coordinated care after mass-casualty incidents.
 
 ## References
 [^1]: Historical records and journalistic accounts.
@@ -38,3 +47,4 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+[^6]: Public inquiry and official review materials.

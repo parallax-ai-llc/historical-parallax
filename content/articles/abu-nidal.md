@@ -8,7 +8,7 @@ occupation: ["Terrorist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Nidal"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -43,3 +43,12 @@ Abu Nidal's criminal career came to an end through law enforcement action or oth
 [^3]: Court and law enforcement records.
 [^4]: Criminal Justice Reform Studies.
 [^5]: Victim impact documentation.
+
+## Organizational Context
+
+The Abu Nidal Organization (ANO) operated as a splinter militant group and became known for international operations across the Middle East and Europe. Accounts of its sponsorship and safe havens varied over time, reflecting shifting regional politics.
+
+## Death and Uncertainty
+
+Abu Nidal died in Baghdad in 2002. Public reporting at the time described the death as a shooting that Iraqi authorities portrayed as suicide; some later accounts questioned the precise circumstances.
+

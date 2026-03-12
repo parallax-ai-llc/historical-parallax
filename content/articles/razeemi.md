@@ -8,8 +8,7 @@ occupation: ["Unknown"]
 image: ""
 socialLinks:
   wikipedia: ""
-lastUpdated: "2025-01-15"
----
+lastUpdated: "2026-02-26"---
 
 ## Summary
 
@@ -41,3 +40,20 @@ To generate a more comprehensive article, the following details would be helpful
 - [Greatest Burmese Politicians | Pantheon](https://pantheon.world/profile/occupation/politician/country/myanmar-burma)
 - [Famous People From Burma Famous Natives - Worldatlas.com](https://www.worldatlas.com/webimage/countrys/asia/burma/mmfamous2.htm)
 - [Myanmar's Political Parties and Personalities | Carnegie Endowment for International Peace](https://carnegieendowment.org/posts/2015/05/myanmars-political-parties-and-personalities?lang=en)
+
+## Transliteration and Identification Notes
+
+Myanmar names often appear in English with multiple transliterations due to differences between Burmese script, pronunciation, and romanization choices. A single Burmese name can produce several plausible spellings in Latin characters, which can make database searching unreliable if the original Burmese spelling is unknown.
+
+## How to Validate the Entry
+
+When a name cannot be found in mainstream online references, a careful workflow is:
+
+1. obtain the Burmese-script spelling (if available),
+2. search local-language sources (Burmese media archives, academic repositories),
+3. check for near-matches that may reflect alternate transliteration,
+4. identify the domain of activity (politics, military, arts, religion), then search within that domain.
+
+## Editorial Caution
+
+Until a verifiable source is identified, this article should remain a limited, transparent note about the absence of documentation rather than a narrative biography.

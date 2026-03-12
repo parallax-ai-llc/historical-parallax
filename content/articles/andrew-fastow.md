@@ -8,7 +8,7 @@ occupation: ["Fraudster", "CFO"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrew_Fastow"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -36,6 +36,15 @@ Andrew Fastow's criminal career came to an end through law enforcement action or
 |------|-------|
 | 1961 | Born |
 | ? | Career ended |
+
+## Additional Context
+- Fastow helped design and manage special purpose entities (SPEs) that allowed Enron to move debt off its balance sheet while reporting improved financial results.
+- Two of the best-known structures were partnerships often referred to in coverage as LJM entities, which became emblematic of Enron’s conflicts of interest.
+- He later entered a plea agreement and cooperated with prosecutors in cases against other Enron executives.
+
+## Aftermath
+- The Enron scandal contributed to major corporate-governance reforms and heightened scrutiny of auditor independence and executive accountability.
+- The case is frequently used as a teaching example in finance and accounting ethics.
 
 ## References
 [^1]: Encyclopedia of Criminal History.

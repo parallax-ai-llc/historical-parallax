@@ -51,3 +51,18 @@ Former Séléka commander who became a government minister despite being sanctio
 
 - Bouba is a representative case of how armed-group leadership can convert battlefield leverage into political protection.
 - The controversy around his ministerial role is frequently cited in debates over peace processes, sanctions effectiveness, and transitional justice in the Central African Republic.
+
+## Conflict Context (High-Level)
+
+- The Central African Republic conflict featured shifting coalitions among ex-Séléka factions, anti-Balaka groups, and community self-defense forces, alongside foreign involvement and UN peacekeeping.
+- Armed-group leaders often exercised authority through both coercion and patronage, with control over movement, markets, and local taxation.
+
+## Sanctions and Political Bargains
+
+- UN sanctions are typically designed to restrict travel and access to resources, but their effect depends on enforcement by neighboring states and domestic authorities.
+- Bouba’s case is often referenced to illustrate how sanctioned individuals can still retain leverage when they command fighters or territory.
+
+## Transitional Justice Lens
+
+- The use of special courts and international monitoring in CAR is frequently framed as an attempt to address impunity after repeated cycles of violence.
+- Observers debate whether incorporating armed leaders into government reduces violence in the short term or entrenches a precedent that violence is rewarded.

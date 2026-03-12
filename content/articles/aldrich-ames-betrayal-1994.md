@@ -9,8 +9,7 @@ outcome: "Exposed dozens of US assets in USSR (10 executed); Paid $4.6 million b
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aldrich_ames.jpg/800px-Aldrich_ames.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aldrich_Ames"
-lastUpdated: "2025-12-23"
----
+lastUpdated: "2026-02-26"---
 
 ## Overview
 
@@ -40,3 +39,19 @@ When arrested, he said simply: *"You're making a big mistake! You must have the 
 
 - **Circle of Treason** (Sandra Grimes & Jeanne Vertefeuille)
 - **Confessions of a Spy** (Pete Earley)
+
+## Damage and Operational Consequences
+
+Ames's espionage compromised numerous human intelligence operations and forced a reassessment of CIA asset-handling in the late Cold War period. The most severe consequences involved the exposure of agents inside the USSR, some of whom were executed after identification by Soviet security services.
+
+## Tradecraft and Detection
+
+Several themes recur in retrospective analyses:
+
+- **Financial indicators:** Unexplained wealth (cash payments, lifestyle changes) became a critical analytic signal.
+- **Counterintelligence process:** The prolonged period before identification highlighted institutional friction between agencies and the difficulty of distinguishing personal misconduct from espionage.
+- **Insider risk:** The case is commonly cited in training as an example of how access, grievance/greed, and weak oversight can combine into catastrophic failure.
+
+## Reforms and Legacy
+
+After the arrest, U.S. intelligence organizations tightened financial review procedures, improved interagency coordination, and expanded counterintelligence awareness programs. The Ames case remains a benchmark incident in discussions of insider threats and the limits of technical security controls when human trust is exploited.

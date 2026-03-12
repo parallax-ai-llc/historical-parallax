@@ -8,7 +8,7 @@ occupation: ["Assassin", "Independence Activist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahn_Jung-geun"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -17,11 +17,20 @@ Ahn Jung-geun was a Korean independence activist who assassinated Itō Hirobumi,
 ## Early Life
 Ahn Jung-geun was born on 1879-09-02 in Korea. Details of early life shaped the path that would lead to a criminal career. [^1]
 
+## Political Context
+Ahn's assassination of Itō occurred during Japan's increasing control over Korea following the 1905 protectorate treaty and the establishment of the Resident-General system. To many Koreans, Itō represented imperial authority and the erosion of sovereignty; to Japanese authorities, the act was treated as a political murder and a security threat.
+
 ## Criminal Career
-As a assassin, Ahn Jung-geun became known for criminal activities that drew significant attention from law enforcement and the public. [^2]
+The Harbin assassination was a targeted political act rather than a pattern of serial criminality. Ahn approached the scene with a pistol, fired multiple shots at Itō, and was immediately detained. The incident rapidly became an international news story because it occurred in a contested geopolitical space (Manchuria) and involved prominent state actors.
 
 ## Capture / Downfall
-Ahn Jung-geun's criminal career came to an end through law enforcement action or other circumstances. [^3]
+Ahn was arrested at the scene and later tried by Japanese authorities. He used the proceedings to argue that he acted as a combatant in a struggle for Korean independence, not as a common criminal. He was sentenced to death and executed in 1910.
+
+## Trial, Writings, and Stated Aims
+While imprisoned, Ahn wrote and dictated political and ethical arguments, including ideas sometimes summarized under the theme “Peace in East Asia.” He framed his actions as part of a broader effort to resist imperial domination and to articulate a regional vision of coexistence, even as the authorities treated the case through a colonial legal lens.
+
+## Legacy
+In South Korea he is widely commemorated as an independence activist and martyr, and memorials and museums emphasize the anti-colonial context of his actions. Internationally, interpretations vary: some focus on the assassination as political violence, while others foreground it as resistance under occupation and a symbol in modern Korean nationalism.
 
 ## Positive Perspectives
 - The case contributed to advances in criminal justice and law enforcement techniques [^4]

@@ -49,3 +49,23 @@ Sudanese Islamist leader who invited Osama bin Laden to Sudan and helped transfo
 - For Sudanese history, he is central to understanding the Islamist turn of the state, elite factionalism, and the long-running contest between civilian, religious, and military authorities.
 
 - His legacy remains contested, with supporters emphasizing intellectual leadership and critics emphasizing the downstream harms of radicalization and political repression.
+
+## Early Life and Education (High-Level)
+
+- He was trained in law and is often described as an intellectual figure within Sudanese Islamism, not only a party organizer.
+- Biographical summaries commonly note extended study abroad and a role in shaping Islamist discourse for an educated, professional audience.
+
+## Organizations and Governance Approach
+
+- He helped build party and movement structures (including youth and professional networks) that could operate both inside and outside formal government.
+- The governance model associated with his circle emphasized ideological cadre-building, control of key institutions, and legal transformation through courts and legislation.
+
+## International Dimension
+
+- Sudan in the early-to-mid 1990s was repeatedly characterized by observers as a permissive environment for transnational Islamist travel, fundraising, and networking.
+- Analyses of that period frequently cite elite political cover—rather than purely covert activity—as a major enabling factor.
+
+## Legacy and Ongoing Debate
+
+- In retrospective accounts, al-Turabi is treated as a pivotal figure for understanding how a domestic political project can intersect with transnational militancy.
+- His career is also used as a case study in how ideological entrepreneurship and state power can mutually reinforce—and later fracture through internal rivalry.

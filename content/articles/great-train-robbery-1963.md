@@ -9,7 +9,7 @@ outcome: "15 men convicted; £2.6 million stolen"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Great_Train_Robbery_(1963)"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,13 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Modus Operandi
+Retellings of the robbery commonly describe the gang manipulating railway signaling to force the train to stop, then overpowering crew members and removing cash containers. The scale of the haul and the logistical planning required for transport and concealment made it a landmark case for organized robbery in postwar Britain.
+
+## Investigation and Arrests
+The investigation is often summarized as a combination of traditional detective work, forensic evidence left at temporary hideouts, and follow-on inquiries into how the stolen cash might be laundered or spent. Trials and sentencing drew intense public attention, and the case contributed to debates about deterrence, prison terms, and the glamorization of criminals in popular media.
+
+## Cultural Legacy
+The Great Train Robbery has been repeatedly dramatized in books, television, and film, which helped keep the event in public memory long after the original court proceedings. It is also used as a case study in transport security for the importance of protecting critical signaling infrastructure and conducting careful chain-of-custody controls for high-value shipments.
+The episode remains one of the most discussed robberies in modern British history.

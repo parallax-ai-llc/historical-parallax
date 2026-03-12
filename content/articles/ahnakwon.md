@@ -8,8 +8,7 @@ occupation: ["Unknown"]
 image: ""
 socialLinks:
   wikipedia: ""
-lastUpdated: "2025-12-31"
----
+lastUpdated: "2026-02-26"---
 
 ## Summary
 
@@ -41,3 +40,25 @@ To create an accurate historical article, the following information would be hel
 - Any additional biographical details
 
 Without verifiable historical sources, a comprehensive biographical article cannot be created at this time.
+
+## Historical-Record Context (Baekje)
+
+For the Baekje period, many personal names and official titles are preserved through later compilations rather than contemporary archives. Key secondary gateways for named figures include Korean dynastic histories (such as the *Samguk Sagi*) and related chronicles, which can introduce inconsistencies in transcription and later editorial interpretation.
+
+## Why a Name May Not Appear
+
+A missing name in major indexes can occur when:
+
+- the individual is referenced only by **title** or **clan** rather than a personal name,
+- later historians used **different characters** or abbreviations for the same person,
+- the name belongs to a **local tradition** (genealogy, temple record, regional chronicle) not widely digitized.
+
+## Practical Next Steps for Verification
+
+To confirm whether "Ahnakwon" corresponds to a recorded figure, the most useful inputs are:
+
+1. the original Korean spelling (hangul and, if known, hanja),
+2. the source where the name was encountered (book, inscription, website),
+3. an approximate date range or association (king's reign, region, office).
+
+This entry remains intentionally conservative to avoid presenting speculation as history.

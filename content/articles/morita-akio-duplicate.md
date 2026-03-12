@@ -1,4 +1,8 @@
 ---
+lastUpdated: "2026-02-26"
+---
+
+---
 id: "morita-akio-duplicate"
 name: "Morita Akio duplicate"
 birth: "1921-01-26"

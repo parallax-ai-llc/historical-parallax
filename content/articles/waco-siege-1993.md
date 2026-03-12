@@ -9,7 +9,7 @@ outcome: "86 Branch Davidians dead; 4 ATF agents killed"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Waco_siege"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,14 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Additional Notes
+- The standoff began after a federal raid related to firearms allegations, followed by an extended siege and negotiation effort once the FBI assumed primary control.
+- Communication strategies included attempts at dialogue, psychological pressure, and staged releases; the pace and efficacy of negotiations have remained subjects of debate.
+- The final assault and the resulting fire became intensely contested in public discourse, with multiple investigations examining decision-making, tactics, and accountability.
+- Waco influenced subsequent law-enforcement doctrine for high-risk operations, including an increased emphasis on negotiation, intelligence preparation, and proportionality.
+- The event also left a lasting cultural imprint through media coverage, documentaries, and political rhetoric, shaping how some communities interpret federal power.
+- In later years it was frequently cited in discussions of domestic extremism, conspiracy narratives, and the dangers of escalating confrontations with heavily armed groups.
+
+## Interpretation
+Waco is often used as a case study in crisis governance: how institutions manage legitimacy, patience, and force under intense public scrutiny.

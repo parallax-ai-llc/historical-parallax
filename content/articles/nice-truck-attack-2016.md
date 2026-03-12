@@ -9,7 +9,7 @@ outcome: "86 killed, 458 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2016_Nice_truck_attack"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -30,7 +30,16 @@ This event had significant impact on law enforcement practices, public policy, a
 ## Timeline
 | Date | Event |
 |------|-------|
-| 2016-07-14 | Event occurred |
+| 2016-07-14 | Vehicle attack during Bastille Day celebrations on the Promenade des Anglais |
+
+## Investigation and Security Review
+French authorities investigated the attacker’s preparation, contacts, and access to the vehicle, and the case prompted scrutiny of event security planning and the use of barriers in high-footfall public spaces. Subsequent prosecutions addressed alleged logistical support and facilitation.
+
+## Broader Counterterrorism Context
+The attack occurred amid a period of heightened terrorist threats in Europe and was widely discussed in relation to “vehicle-ramming” tactics used against crowds. It influenced public guidance and planning for open-air events, particularly around perimeter control and rapid incident response.
+
+## Commemoration and Community Response
+Nice established memorials and annual remembrance events, and victim-support efforts continued for years due to the large number of injured and affected families. The attack remains a major reference point in France’s modern security and resilience discourse.
 
 ## References
 [^1]: Historical records and journalistic accounts.
@@ -38,3 +47,4 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+[^6]: Court proceedings and official security review reporting.

@@ -9,7 +9,7 @@ outcome: "$5.8 million stolen; perpetrators murdered"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lufthansa_heist"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -30,7 +30,16 @@ This event had significant impact on law enforcement practices, public policy, a
 ## Timeline
 | Date | Event |
 |------|-------|
-| 1978-12-11 | Event occurred |
+| 1978-12-11 | Robbery at the Lufthansa cargo facility at JFK Airport |
+
+## Planning and Insider Information
+Accounts of the heist commonly emphasize the role of insider knowledge about cash shipments and airport procedures. The robbery exploited predictable routines, access controls at the cargo terminal, and the ability to control staff long enough to remove money and valuables.
+
+## Investigation and Case Resolution
+The crime drew intense attention because of the amount stolen and the involvement of organized-crime figures. Over time, investigators connected participants through informants and related criminal cases, though much of the stolen money was never definitively recovered.
+
+## Legacy in Popular Culture
+The heist became one of the best-known American robberies of the late 20th century and has been repeatedly discussed in books and documentaries. It is also frequently referenced in dramatizations of organized crime in New York.
 
 ## References
 [^1]: Historical records and journalistic accounts.
@@ -38,3 +47,4 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+[^6]: Court records and organized crime reporting.

@@ -52,3 +52,7 @@ Readers often look for:
 - a clear timeline of key events,
 - the institutions involved (courts, agencies, organizations),
 - and the longer-term impact on policy, public debate, or historical interpretation.
+
+## Impact and regulatory response
+
+Large-scale investment frauds can produce long tails of harm: dispersed victims across countries, complex restitution efforts, and secondary scams that target victims again with false “recovery” services. They also tend to accelerate scrutiny of crypto-adjacent marketing claims by regulators and consumer watchdogs.

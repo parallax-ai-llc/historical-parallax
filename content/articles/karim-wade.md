@@ -48,3 +48,11 @@ Readers often look for:
 - a clear timeline of key events,
 - the institutions involved (courts, agencies, organizations),
 - and the longer-term impact on policy, public debate, or historical interpretation.
+
+## Institutions and process (high level)
+
+High-profile illicit-enrichment cases typically involve questions about evidentiary standards for assets and declarations, the role of specialized investigative bodies, and the relationship between criminal procedure and political accountability.
+
+## Political impact
+
+Regardless of legal outcomes, such cases can reshape party dynamics by influencing leadership succession debates, elite alliances, and voter trust. They may also affect how international observers assess governance reforms and anti-corruption commitments.

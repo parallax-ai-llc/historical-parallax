@@ -8,7 +8,7 @@ occupation: ["Historical Figure (Unverified)"]
 image: ""
 socialLinks:
   wikipedia: ""
-lastUpdated: "2026-01-07"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -35,6 +35,20 @@ To provide accurate and comprehensive biographical information, clarification is
 2. **Name Verification** - Confirmation of whether "Oh Sang-soo" is the correct romanization or if this is an alternate name for another documented Korean historical figure
 3. **Historical Role** - Specific contributions, occupations, or significance in Korean history
 4. **Primary Sources** - Documentary evidence or historical references that establish this individual's historical importance
+
+## Name and romanization considerations
+
+Korean personal names can be difficult to disambiguate in English-language records because the same Hangul spelling may be romanized in multiple ways (e.g., Sang-su, Sang-soo, Sangsoo), and different Hangul names may converge to similar spellings in older, inconsistent transliterations. In addition, some historical figures are documented under:
+
+- **Courtesy names (자)** or **pen names (호)**
+- **Aliases used in activist or military contexts**
+- **Japanese-era name records** that do not map cleanly to modern indexing
+
+These factors make it plausible that “Oh Sang-soo” is either (a) a rarely used romanization of a known person, or (b) a misread/mis-cited name that drifted through secondary references.
+
+## How this entry should be used
+
+This article is intentionally conservative: it records the uncertainty and the most plausible nearby entities, rather than inventing a biography. Until stronger evidence appears, “Oh Sang-soo” should be treated as a **disambiguation/placeholder** entry that helps prevent accidental conflation in a dataset.
 
 ## Note on Sources
 

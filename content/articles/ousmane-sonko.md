@@ -48,3 +48,14 @@ Regardless of interpretation, the disputes contributed to heightened political t
 
 Senegal’s politics are often described as comparatively institutionalized in the region, which is why high-stakes legal disputes involving major opposition figures can trigger outsized national attention.
 
+## Protest dynamics and public order
+
+Large-scale demonstrations around Sonko’s case highlighted long-running pressures in Senegalese society, including youth unemployment, rising living costs, and distrust of political elites. Protest episodes also raised scrutiny of policing practices and the proportionality of state responses during periods of unrest.
+
+## Role of the judiciary and “political trial” claims
+
+In contentious cases involving major political figures, public confidence can hinge on perceptions of judicial independence, procedural fairness, and transparency. Competing claims about whether cases are “political” often revolve less around the existence of charges and more around timing, prosecutorial discretion, and selective enforcement.
+
+## International and regional attention
+
+Political instability in Senegal draws regional interest because the country is often portrayed as a relatively stable democracy in West Africa. As a result, domestic political crises can be framed internationally as a test of democratic resilience, civil liberties, and electoral credibility.

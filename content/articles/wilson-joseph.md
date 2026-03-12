@@ -49,3 +49,22 @@ Biographical details about alleged gang leaders can be sparse or disputed in ope
 
 - Gang violence in Haiti
 - Kidnapping in Haiti
+
+## Operating Environment (High-Level)
+
+- Many Haitian armed groups operating around **Port-au-Prince** have been described as combining territorial control with revenue from kidnapping, extortion, and control of transport corridors.
+- Coverage of 400 Mawozo often situates the group in areas to the east/northeast of the capital and along routes that are strategically important for movement of people and goods.
+
+## Kidnapping Dynamics
+
+- Kidnapping-for-ransom cases in Haiti are frequently reported as involving rapid abductions, negotiated demands, and high risk to victims.
+- Analysts and humanitarian reporting often emphasize that kidnappings can spike during periods of political crisis and weakened policing capacity.
+
+## Information Quality and Attribution
+
+- Public biographical profiles of suspected gang leaders may rely on a small number of repeating sources; details such as **birth date**, **family**, and **early life** are often unknown or contested.
+- When updating this article, prefer information that is attributed to: (a) official Haitian statements, (b) reputable international reporting, or (c) well-cited secondary summaries.
+
+## Broader Significance
+
+- The 400 Mawozo case is often used in broader discussions of Haiti’s security situation, including the limits of state capacity, the humanitarian impact of violence, and debates over the role of international assistance.

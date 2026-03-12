@@ -9,7 +9,7 @@ outcome: "17 US sailors killed, 37 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/USS_Cole_bombing"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,14 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Additional Notes
+- The attack occurred during a routine logistics stop, highlighting the vulnerability of naval vessels during refueling and port operations.
+- The explosion tore a large hole in the ship’s hull and required extensive repair, with the damaged vessel later transported for restoration.
+- The incident triggered a major investigation spanning multiple jurisdictions, and it remained a prominent terrorism case in US–Yemen security relations.
+- In the US military, the bombing influenced force-protection doctrine for ships in foreign ports, including standoff distances, screening of small craft, and layered security.
+- The event is often discussed as part of the pre-9/11 escalation in al-Qaeda attacks against US targets and the evolving threat of suicide operations.
+- Long-term remembrance efforts center on the sailors killed, including annual ceremonies and educational materials on maritime security.
+
+## Strategic Context
+Analysts frequently treat the bombing as an example of how asymmetric tactics can impose outsized operational and political costs.

@@ -48,3 +48,14 @@ Deforestation contributes to biodiversity loss and can alter regional rainfall p
 
 Public claims about the scale of illegal clearing are typically derived from satellite products and administrative records, and can vary depending on definitions (cleared vs. burned vs. degraded) and the time window measured.
 
+## Land tenure and incentives
+
+In many Amazon frontier areas, uncertainty over land titles and weak cadastral systems can create incentives to clear forest as a way to demonstrate “productive use” or to strengthen informal claims. This can make enforcement difficult even when protected-area boundaries exist on paper.
+
+## Environmental governance tools
+
+Common governance tools used to address illegal clearing include satellite-based monitoring, fines and embargoes, criminal investigations, and restrictions on cattle supply chains (for example, due-diligence checks by buyers). Effectiveness varies depending on political support, institutional capacity, and follow-through in courts.
+
+## Social and community impacts
+
+Large-scale land clearing can affect indigenous territories and local communities by increasing conflict over land, degrading water and forest resources, and changing local fire regimes. These impacts often become part of the broader controversy around agricultural expansion in the region.

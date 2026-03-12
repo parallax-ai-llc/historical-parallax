@@ -8,7 +8,7 @@ occupation: ["Unknown"]
 image: ""
 socialLinks:
   wikipedia: ""
-lastUpdated: "2026-01-08"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -42,3 +42,11 @@ To create an accurate and properly cited article, please provide:
 - Any additional biographical details
 
 Without reliable sources and verifiable information, a comprehensive historical article meeting academic standards cannot be produced.
+
+## Research Approach (What Was Attempted)
+
+Because Thai personal names can be romanized in multiple ways, a practical next step is to search by likely variant spellings and, when possible, the original Thai script rather than relying on a single English transliteration.
+
+## Disambiguation Tips
+
+If a source mentions this name, capturing the original spelling (Thai script if available), associated location/agency, and approximate dates (even a decade range) is usually enough to verify whether the reference is to a real individual, a mistranslation, or an erroneous/fictional entry.

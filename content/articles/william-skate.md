@@ -61,6 +61,23 @@ Skate is often referenced as an example in PNG governance discussions of:
 - Prime Minister of Papua New Guinea
 - Corruption in politics (general topic)
 
+## Prime Ministership (Context)
+
+- Skate served as **Prime Minister of Papua New Guinea** during a period when PNG politics was characterized by shifting parliamentary coalitions and frequent changes of leadership.
+- His government is generally placed in the **1997–1999** window in standard summaries; sources typically frame his tenure as short and politically turbulent.
+- Discussions of his term often connect national-level instability with controversies surrounding funding, procurement, and governance in the capital district.
+
+## Legal Proceedings and Aftermath (High-Level)
+
+- After leaving office, Skate’s public profile remained closely tied to the corruption case referenced above.
+- Popular accounts of the case emphasize the themes of **public accountability** and **judicial enforcement** rather than policy achievements during his time in office.
+- Reporting on the sequence of investigations, court proceedings, and sentencing can differ across outlets and time periods; for a precise timeline, the Wikipedia reference and linked citations are the starting point.
+
+## Notes on Sourcing and Scope
+
+- This page intentionally avoids granular allegations (e.g., specific transfers, intermediaries, or amounts) unless multiple reliable sources are cited consistently.
+- The central claim retained here is the widely repeated one: Skate was a PNG Prime Minister who was later **convicted** in a case involving **misappropriation of public funds**.
+
 ## References
 
 [^1]: Wikipedia, "William Skate" - https://en.wikipedia.org/wiki/William_Skate

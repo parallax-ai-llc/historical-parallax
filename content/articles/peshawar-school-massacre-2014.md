@@ -9,7 +9,7 @@ outcome: "149 killed including 132 children"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2014_Peshawar_school_massacre"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,21 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2014-12-16 | Event occurred |
+| 2014-12 | National mourning and mass public vigils took place across Pakistan. |
+| 2014-12 to 2015 | Government announced major counterterrorism measures (often summarized under the “National Action Plan”). |
+
+## Perpetrators and motivation (high-level)
+The attack was widely attributed to Pakistan Taliban (Tehrik-i-Taliban Pakistan, TTP) militants. Public accounts described it as retaliation for Pakistani military operations against militant groups, and as a deliberate attempt to inflict mass civilian casualties and psychological trauma.
+
+## National and policy response
+Beyond immediate security operations and investigations, the massacre is frequently cited as a turning point in Pakistan’s domestic security debate:
+
+- **Death penalty policy:** The government lifted a moratorium on executions for terrorism-related convictions, and later broadened its application.
+- **Counterterrorism coordination:** Authorities emphasized coordinated action against armed groups and hate networks, alongside changes in policing, intelligence, and prosecution.
+- **Public and institutional security:** The attack increased pressure to harden school security, particularly for institutions perceived to have military affiliation.
+
+## Remembrance
+Commemorations have focused on the victims—especially the children killed—and on the long-term impact on survivors, families, and the national psyche. The event continues to be referenced in discussions about protecting educational institutions in conflict-affected regions.
 
 ## References
 [^1]: Historical records and journalistic accounts.

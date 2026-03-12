@@ -9,7 +9,7 @@ outcome: "Five teenagers wrongfully convicted; exonerated in 2002"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Central_Park_jogger_case"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,18 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 1989-04-19 | Event occurred |
+
+## Evidence, Confessions, and Due Process Concerns
+The case became widely cited in discussions of wrongful convictions, particularly around the reliability of confessions obtained during intense interrogations and the risks of investigative tunnel vision. Public review of the case raised questions about how statements were collected, how inconsistencies were handled, and how broader social pressure can shape prosecutorial decision-making.
+
+## Exoneration and Civil Settlement
+In 2002, the convictions were vacated after a confession by another individual, supported by DNA evidence, led authorities to conclude the five had been wrongfully convicted. The case later resulted in a civil settlement with New York City, reinforcing the long-term institutional and financial consequences of investigative and judicial failures.
+
+## Impact on Policy and Public Discourse
+The Central Park Five case influenced debate about interrogation practices, the presence of counsel for juveniles, recording of interviews, and the handling of forensic evidence. It also became a major reference point in media and cultural works, shaping public understanding of how miscarriages of justice can occur and persist.
+
+## Naming and Later Coverage
+The incident is also commonly referred to as the “Central Park jogger case,” and later reporting and documentaries revisited the original investigation, the trial record, and the human impact on those wrongfully convicted.
 
 ## References
 [^1]: Historical records and journalistic accounts.

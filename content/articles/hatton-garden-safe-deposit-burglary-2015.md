@@ -9,7 +9,7 @@ outcome: "Estimated £14 million stolen"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hatton_Garden_safe_deposit_burglary"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,13 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Entry and Method
+Public accounts describe the burglars exploiting a holiday period, gaining access to the building, and using heavy tools to breach the vault structure. The prolonged timeframe—spanning multiple visits—became a central detail of the story, contrasting with the "in-and-out" pattern typical of many burglaries.
+
+## Investigation and Court Proceedings
+The case drew sustained media coverage during the investigation and subsequent trials, with attention focused on how the group coordinated, transported valuables, and attempted to dispose of stolen items. Reporting also highlighted the role of surveillance and communications evidence in tying individual participants to the planning and execution.
+
+## Impact on the Safe-Deposit Industry
+The burglary is frequently cited in discussions about third-party custody and the assumptions customers make about physical security. It reinforced the value of layered controls such as monitored access logs, rapid alarm response, robust vault design, and independent audits of security practices.
+The event remains a prominent modern example of high-value burglary in London.

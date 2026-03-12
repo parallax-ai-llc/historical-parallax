@@ -51,3 +51,18 @@ Brazen 2015 jewelry heist in London where a gang of elderly men drilled into the
 
 - The Hatton Garden heist illustrates how experienced criminals can combine low-visibility planning with specialized tools to defeat hard targets.
 - It also became a cultural touchstone in the UK, inspiring dramatizations and renewed attention on the business model of safe-deposit firms.
+
+## Operational Lessons Often Cited (High-Level)
+
+- Security commentary on the case often emphasizes the importance of layered detection (alarms, monitoring, access logs) rather than reliance on a single physical barrier.
+- The incident is also used to illustrate how time-on-target can defeat even strong materials when adversaries have the right tools and can work without interruption.
+
+## Impact on the Safe-Deposit Industry
+
+- Following high-profile vault burglaries, firms and customers frequently re-evaluate insurance assumptions, monitoring practices, and chain-of-custody documentation.
+- Media coverage underscored that private safe-deposit arrangements can vary widely in oversight and that customers may not have clear visibility into facility security controls.
+
+## Cultural Afterlife
+
+- The “elderly gang” framing contributed to a lasting narrative in British tabloids and documentaries, blending true-crime fascination with generational stereotypes.
+- The case continues to be referenced as a modern example of an old-fashioned, tool-heavy burglary rather than a purely digital financial crime.

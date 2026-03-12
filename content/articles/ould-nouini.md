@@ -50,3 +50,14 @@ AQIM and related factions have operated in a shifting ecosystem of alliances and
 
 Operational details about clandestine groups are often based on intelligence assessments and post-incident reporting, and may not be fully verifiable in public sources.
 
+## What “commander” can mean in AQIM-linked networks
+
+In reporting on Sahelian insurgent groups, labels like “commander” can refer to different functions: operational planning, facilitation across borders, recruitment, or control of a particular zone or smuggling corridor. The same individual may be described differently depending on the source and time period.
+
+## Border sanctuaries and mobility
+
+The Algeria–Mali border region is frequently described as operationally significant because militants can exploit remote terrain, sparse state presence, and cross-border movement to evade pursuit. This mobility complicates conventional policing and can shift the burden to intelligence-driven operations.
+
+## Effects and limits of leadership targeting
+
+Targeted operations against senior figures can reduce short-term coordination capacity and create succession struggles. However, many analyses emphasize that armed groups may replace leaders and continue operations if funding sources, local grievances, and safe operating spaces remain.

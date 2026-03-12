@@ -49,3 +49,23 @@ The case is frequently cited in conversations about systemic risk factors faced 
 ## Notes
 
 Biographical and case summaries commonly distinguish between the six murders proven at trial and additional allegations discussed in reporting and later proceedings.
+
+## Location and Social Context
+
+- Many missing-persons reports associated with the case involved women connected to Vancouver’s **Downtown Eastside**, an area often discussed in Canadian public policy for its concentration of poverty, addiction, and housing insecurity.
+- Commentators frequently frame the case as an example of how violence against marginalized groups can be under-recognized until patterns become undeniable.
+
+## Legal Proceedings and Evidence (High-Level)
+
+- The prosecution relied on extensive investigative work after the 2002 search, including forensic analysis tied to the Port Coquitlam property.
+- Canadian coverage and legal discussion has included debate over what evidence could be presented at trial and how publication bans affected public understanding until later decisions.
+
+## Inquiries and Public Lessons
+
+- Beyond the convictions, the case became part of broader Canadian discussions about policing practices, missing-persons investigations, and the need for coordination across jurisdictions.
+- The public impact is often described not only in terms of criminal justice outcomes but also in terms of institutional learning: improving how authorities respond when multiple disappearances show a consistent pattern.
+
+## Cultural and Media Presence
+
+- The Pickton case has been the subject of sustained media coverage, books, and documentary treatment, typically focusing on the investigative timeline, the victims’ stories, and the policy questions raised.
+- When reading such materials, it is important to separate confirmed trial findings from later allegations or narrative reconstructions.

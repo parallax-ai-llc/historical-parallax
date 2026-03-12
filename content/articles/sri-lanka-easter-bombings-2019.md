@@ -9,7 +9,7 @@ outcome: "269 killed, 500+ injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2019_Sri_Lanka_Easter_bombings"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,14 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Additional Notes
+- The attacks struck multiple sites in a short time window, including major churches during Easter services and prominent hotels frequented by locals and international visitors.
+- Beyond the immediate casualties, the bombings caused significant economic shock, particularly to Sri Lanka’s tourism sector.
+- Authorities conducted large-scale investigations and arrests in the weeks following, alongside heightened security measures and temporary emergency powers.
+- Public discussion and official inquiries emphasized intelligence-sharing and coordination failures, including the handling of prior warnings.
+- The incident also fueled communal tensions and raised concerns about retaliatory violence and stigmatization of minority communities.
+- The bombings remain a reference point in regional counterterrorism planning and in debates about balancing security with civil liberties.
+
+## Legacy
+Memorials and ongoing legal proceedings have kept the event in national politics and in discussions about accountability for preventable risk.

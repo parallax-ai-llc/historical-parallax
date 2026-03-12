@@ -9,7 +9,7 @@ outcome: "918 dead including 304 children"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jonestown"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,13 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Events Leading Up to November 18
+Historical summaries of Jonestown often note escalating internal control, reports from concerned relatives, and growing scrutiny by journalists and U.S. officials. The crisis intensified after a congressional delegation visited the settlement, and violence occurred during attempted departures, contributing to the rapid collapse of the situation.
+
+## Investigations and Accountability
+In the aftermath, governments and investigators examined how the group was able to relocate and operate with limited external oversight, and how warning signs were missed or discounted. The incident influenced later discussions about safeguarding vulnerable people, the responsibilities of institutions, and the practical limits of intervention across borders.
+
+## Cultural and Policy Legacy
+Jonestown became a lasting reference point in public conversations about cult dynamics, coercive control, and group violence. It is frequently cited in academic work on new religious movements and in training contexts that emphasize early detection of abuse, credible reporting channels, and support for people attempting to leave high-control groups.
+The phrase associated with the tragedy entered popular culture as a cautionary shorthand for mass conformity.

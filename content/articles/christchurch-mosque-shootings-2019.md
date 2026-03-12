@@ -9,7 +9,7 @@ outcome: "51 killed, 40 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christchurch_mosque_shootings"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,24 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2019-03-15 | Event occurred |
+
+## Investigation and Prosecution
+Police arrested the attacker the same day as the shootings. Prosecutors brought charges including murder and terrorism-related offenses under New Zealand law. In 2020, the attacker pleaded guilty; later that year the High Court sentenced him to life imprisonment without parole, the first such sentence in New Zealand.
+
+## Government Response and Gun Law Reform
+In the weeks after the attack, the New Zealand government moved quickly to restrict military-style semi-automatic firearms and certain high-capacity magazines. A mandatory buyback and amnesty program was implemented to remove newly prohibited weapons from circulation.
+
+## Online Extremism and Media Spillover
+The livestream and manifesto circulated online despite rapid takedown efforts, highlighting the difficulty of moderating extremist content at scale. The event helped catalyze the “Christchurch Call,” an international initiative aimed at reducing terrorist and violent extremist content online.
+
+## Timeline (expanded)
+| Date | Event |
+|------|-------|
+| 2019-03-15 | Attacks at Al Noor Mosque and Linwood Islamic Centre; suspect arrested |
+| 2019-04 | New Zealand passes initial firearms restrictions |
+| 2019-07 to 2019-12 | National firearms buyback and amnesty period |
+| 2020-03 | Attacker pleads guilty |
+| 2020-08 | Life imprisonment without parole sentence imposed |
 
 ## References
 [^1]: Historical records and journalistic accounts.

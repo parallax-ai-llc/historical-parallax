@@ -9,7 +9,7 @@ outcome: "587 killed (deadliest terrorist attack in Africa)"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/14_October_2017_Mogadishu_bombings"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -30,7 +30,16 @@ This event had significant impact on law enforcement practices, public policy, a
 ## Timeline
 | Date | Event |
 |------|-------|
-| 2017-10-14 | Event occurred |
+| 2017-10-14 | Large vehicle bomb detonated in Mogadishu, causing mass casualties |
+
+## Attribution and Investigation
+Somali authorities and international observers widely attributed the attack to al-Shabaab based on patterns of previous operations and intelligence reporting, although the group did not issue a formal claim. Investigations focused on the supply chain for the vehicle and explosives and on identifying organizers and facilitators.
+
+## Humanitarian and Emergency Response
+Hospitals and first responders faced an immediate surge of casualties, and local volunteers played a major role in transport and aid. The scale of the incident highlighted chronic constraints in emergency medical capacity and the importance of rapid coordination in dense urban settings.
+
+## Public Mourning and Political Effects
+The bombing led to widespread public mourning and large solidarity gatherings in Somalia and in diaspora communities. It intensified pressure for improved security, checkpoint management, and counterterrorism capabilities, and it remains a defining event in Somalia’s recent history.
 
 ## References
 [^1]: Historical records and journalistic accounts.
@@ -38,3 +47,4 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+[^6]: Humanitarian response reporting and official statements.

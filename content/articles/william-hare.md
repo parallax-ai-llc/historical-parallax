@@ -51,6 +51,29 @@ Partner of William Burke in the Edinburgh murder-for-anatomy scheme, escaped pro
 - The murders became a major scandal and contributed to pressure for reform.
 - The broader context—grave robbing, shortage of legal cadavers, and the Burke/Hare case—is frequently cited among the factors leading to the UK **Anatomy Act 1832**.
 
+## Legal and Historical Notes
+
+- Hare’s decision to testify is typically described in modern summaries as turning **king’s evidence** (i.e., cooperating with prosecutors in exchange for protection). In the Burke/Hare case, this resulted in **immunity** for Hare while Burke faced trial.
+- Contemporary and later accounts often emphasize that the prosecution’s leverage came from needing a cooperative witness to secure a conviction, given the difficulties of proving each killing and identifying victims in an era with limited forensic practice.
+- The Burke and Hare murders are frequently discussed alongside the wider "resurrectionist" economy (grave robbing and illegal body supply). The case helped intensify scrutiny of how anatomy schools obtained cadavers.
+
+## Key Figures and Relationships
+
+- **William Burke**: Hare’s partner in the scheme; tried, convicted, and executed in 1829.
+- **Robert Knox**: Edinburgh anatomist who purchased bodies from Burke and Hare; his role remains controversial historically, though he was not convicted of involvement in murder.
+- **Margaret Hare**: Hare’s wife; commonly mentioned in accounts of the lodging house and the social milieu around the victims.
+- **Helen McDougal**: Burke’s partner; also linked to the events in popular histories of the case.
+
+## Impact on Anatomy Reform
+
+- Public outrage over the murders fed into a larger policy debate: whether legal access to bodies for medical education could be expanded to reduce incentives for grave robbing and illicit supply.
+- The UK **Anatomy Act 1832** is often cited as a turning point in formalizing legal donation/transfer pathways for dissection. The Burke/Hare case is not the sole cause, but it is routinely referenced as an emblematic scandal that sharpened reform efforts.
+
+## Cultural Depictions
+
+- The Burke and Hare story has been repeatedly adapted in books, stage works, and film/television, typically portraying Hare as the survivor who escaped punishment by cooperating.
+- Because Hare’s later life is poorly documented, fictional accounts often invent an ending for him; these portrayals vary widely and should be treated as dramatization rather than evidence.
+
 ## References
 
 [^1]: Wikipedia, "William Hare" (disambiguation) - https://en.wikipedia.org/wiki/William_Hare

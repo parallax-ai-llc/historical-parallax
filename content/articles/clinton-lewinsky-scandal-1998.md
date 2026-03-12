@@ -9,7 +9,7 @@ outcome: "Impeachment of Bill Clinton; Rise of 24-hour partisan news (Drudge Rep
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bill_Clinton.jpg/800px-Bill_Clinton.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clinton%E2%80%93Lewinsky_scandal"
-lastUpdated: "2025-12-23"
+lastUpdated: "2026-02-26"
 ---
 
 ## Overview
@@ -42,3 +42,14 @@ The impeachment became a partisan war, setting the tone for the brutal divide in
 
 - **The Death of American Virtue** (Ken Gormley)
 - **Impeachment: American Crime Story** (TV Series)
+
+## Key Milestones (High Level)
+
+- **Jan 1998:** Public reporting triggers a political and legal crisis around alleged misconduct and sworn testimony.
+- **Aug 1998:** Clinton gives grand jury testimony and later acknowledges an inappropriate relationship.
+- **Sep 1998:** The independent counsel submits the **Starr Report** to Congress, summarizing findings and alleged grounds for impeachment.
+
+## Aftermath
+
+Clinton was impeached by the House of Representatives on charges including perjury and obstruction of justice, but **acquitted in the Senate**, allowing him to complete his second term.
+

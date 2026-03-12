@@ -50,3 +50,14 @@ Modern references to Oruç Reis appear in Ottoman naval history and popular narr
 
 Accounts of corsair careers often rely on a mix of Ottoman, European, and later historiography; details can differ across narratives.
 
+## Corsair vs. “pirate” terminology
+
+Many sources describe Oruç Reis as a pirate, but in the early modern Mediterranean the label often depended on perspective. Raiders who aligned with a state and operated with some form of authorization could be framed as corsairs or privateers by their patrons, while opponents described the same actions as piracy.
+
+## Strategic effects on trade and coastal communities
+
+Corsair campaigns influenced shipping routes, convoy practices, and the fortification of port cities. They also contributed to a captive economy in which prisoners could be ransomed, exchanged, or incorporated into labor systems. These practices were common across multiple Mediterranean powers during the period.
+
+## Tlemcen episode (high level)
+
+The fighting around Tlemcen is typically presented as part of a wider contest involving local North African politics and Iberian expansion. Oruç Reis’ death in that context is often treated as a turning point after which Hayreddin Barbarossa became the better-known figure in Ottoman naval history.

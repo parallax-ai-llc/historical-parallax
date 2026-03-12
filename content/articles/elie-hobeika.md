@@ -71,3 +71,19 @@ To develop a careful, source-grounded account:
 - Reports by international commissions and human-rights organizations on the 1982 massacre.
 - Scholarly histories of the Lebanese Civil War that map factional structures and timelines.
 - Credible investigative reporting on the 2002 assassination and related political dynamics.[^1]
+
+## Overview
+
+Elie Hobeika was a Lebanese political and militia figure associated with the Lebanese Civil War era. His public profile is closely linked to the conflict’s factional politics and the long-term controversies surrounding accountability for wartime atrocities.
+
+## Lebanese Civil War context
+
+The Lebanese Civil War involved shifting alliances among militias, political parties, and external actors. Leadership figures often moved between military command roles and formal political positions, reflecting how power structures evolved during and after the war.
+
+## Post-war politics and accountability
+
+In post-conflict societies, the question of accountability can remain unresolved for decades. Investigations, commissions, and international attention may reopen old cases, while domestic political settlements can limit prosecutions and complicate historical reckoning.
+
+## Historical interpretation
+
+Because the war is still politically sensitive, accounts of key figures vary by community, source, and political alignment. Scholarly and journalistic work often emphasizes careful sourcing and the distinction between documented events and partisan narratives.

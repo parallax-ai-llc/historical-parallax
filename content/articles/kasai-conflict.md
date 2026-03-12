@@ -48,3 +48,11 @@ Readers often look for:
 - a clear timeline of key events,
 - the institutions involved (courts, agencies, organizations),
 - and the longer-term impact on policy, public debate, or historical interpretation.
+
+## Actors and escalation (overview)
+
+Reporting on the conflict commonly distinguishes between local militia mobilization and state security responses, with cycles of retaliation contributing to rapid spread across communities. Analysts often note that identity, customary authority, and national-level political uncertainty can interact in ways that make de-escalation difficult.
+
+## Accountability and investigations
+
+Atrocity allegations in Kasai have been linked to calls for credible investigations, protection of witnesses, and longer-term security-sector reform. In many such crises, accountability efforts are challenged by limited access, ongoing insecurity, and weak judicial capacity.

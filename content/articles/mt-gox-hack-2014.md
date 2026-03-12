@@ -9,7 +9,7 @@ outcome: "850,000 bitcoins stolen; exchange collapsed"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mt._Gox"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -30,7 +30,16 @@ This event had significant impact on law enforcement practices, public policy, a
 ## Timeline
 | Date | Event |
 |------|-------|
-| 2014-02-07 | Event occurred |
+| 2014-02-07 | Crisis became public as withdrawals halted and losses were disclosed |
+
+## Technical and Operational Factors
+Public reporting on Mt. Gox emphasized weak internal controls, poor accounting of customer balances, and inadequate security practices for hot-wallet exposure and key management. The incident is often cited as an example of how exchange operations can fail even without a single, clearly bounded “hack moment.”
+
+## Bankruptcy and Creditor Proceedings
+After the collapse, proceedings in Japan addressed creditor claims and the disposition of remaining assets. A separate civil rehabilitation process became closely watched because changes in bitcoin’s price raised complex questions about fair compensation and distribution.
+
+## Industry and Regulatory Effects
+The Mt. Gox failure helped push the cryptocurrency industry toward stronger custody practices, proof-of-reserves discussions, and clearer regulatory oversight for exchanges. It is frequently referenced in debates about whether crypto platforms should be regulated more like financial institutions.
 
 ## References
 [^1]: Historical records and journalistic accounts.
@@ -38,3 +47,4 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+[^6]: Bankruptcy filings and civil rehabilitation reporting.

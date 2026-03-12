@@ -8,7 +8,7 @@ occupation: ["Serial Killer", "Rapist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angelo_Buono_Jr."
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -36,6 +36,15 @@ Angelo Buono Jr's criminal career came to an end through law enforcement action 
 |------|-------|
 | 1934 | Born |
 | 2002 | Career ended |
+
+## Additional Context
+- Buono and Bianchi became known as the "Hillside Stranglers" due to where some victims’ bodies were found in the Los Angeles area.
+- Kenneth Bianchi ultimately cooperated with prosecutors and testified against Buono, a pivotal factor in the case.
+- The crimes involved abduction, sexual assault, and strangulation, and the investigation drew heavy media attention in the late 1970s.
+
+## Aftermath
+- The case remains a landmark in Los Angeles criminal history and influenced how multi-defendant serial cases are investigated and prosecuted.
+- It also shaped public understanding of sexual violence and the role of forensic evidence in complex homicide cases.
 
 ## References
 [^1]: Encyclopedia of Criminal History.

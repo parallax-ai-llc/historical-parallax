@@ -8,7 +8,7 @@ occupation: ["Con Artist"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anna_Sorokin"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -43,3 +43,13 @@ Anna Sorokin's criminal career came to an end through law enforcement action or 
 [^3]: Court and law enforcement records.
 [^4]: Criminal Justice Reform Studies.
 [^5]: Victim impact documentation.
+
+## Modus Operandi (High-Level)
+Public reporting describes Sorokin's fraud as relying on an invented identity, forged or misleading financial documentation, and the reputational leverage created by high-end social settings.
+
+## Sentencing / Consequences
+- New York courts convicted Sorokin in 2019 for multiple theft- and fraud-related offenses.
+- The case is frequently cited in discussions of due diligence failures within hospitality, private lending, and social networks.
+
+## Media and Legacy
+Sorokin's story has been covered extensively in journalism and popular culture, including dramatized adaptations that helped popularize the term "scam heiress" in mainstream discourse.

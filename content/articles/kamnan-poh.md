@@ -48,3 +48,11 @@ Readers often look for:
 - a clear timeline of key events,
 - the institutions involved (courts, agencies, organizations),
 - and the longer-term impact on policy, public debate, or historical interpretation.
+
+## Political family context
+
+A recurring theme in public reporting is the overlap between local business interests and electoral organization in provincial politics. In such settings, influence can persist through networks of allies and relatives who hold office or control key local institutions.
+
+## Interpreting sources
+
+Much of what is written about “godfather” figures blends court outcomes, investigative reporting, and political narrative. When expanding timelines, it is useful to distinguish between allegations, convictions, and broader reputational claims.

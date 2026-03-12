@@ -9,7 +9,7 @@ outcome: "175 deaths; 60 hours of siege; Exposed India's security gaps; Strained
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Taj_Hotel_Mumbai_Burning.jpg/800px-Taj_Hotel_Mumbai_Burning.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2008_Mumbai_attacks"
-lastUpdated: "2025-12-23"
+lastUpdated: "2026-02-26"
 ---
 
 ## Overview
@@ -42,3 +42,12 @@ It took days for the NSG (National Security Guard) commandos to arrive from Delh
 
 - **The Siege: 68 Hours Inside the Taj Hotel** (Cathy Scott-Clark & Adrian Levy)
 - **Hotel Mumbai** (Film)
+
+## Aftermath
+
+India’s investigation linked the attackers to Pakistan-based militant networks, intensifying long-running India–Pakistan tensions. Domestically, the attacks accelerated debates over coastal surveillance, inter-agency coordination, and rapid-response counterterror capabilities in major cities.
+
+## Why It Mattered
+
+The event is frequently cited as a turning point in modern terrorism coverage: a multi-site assault designed to maximize duration, media visibility, and tactical complexity rather than a single, instantaneous blast.
+

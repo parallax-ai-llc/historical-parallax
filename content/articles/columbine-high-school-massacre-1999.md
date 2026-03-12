@@ -9,7 +9,7 @@ outcome: "13 killed, 24 injured; both shooters dead"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Columbine_High_School_massacre"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,22 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 1999-04-20 | Event occurred |
+
+## Investigation and Findings
+Investigators concluded the perpetrators had planned the attack in advance, including the use of firearms and improvised explosive devices. Subsequent reviews also examined law-enforcement response, information sharing, and how threat indicators were handled prior to the shooting.
+
+## Community and School Response
+The attack caused long-lasting trauma for survivors, families, and the broader community. Columbine High School reopened after extensive repairs and security changes. Memorials, counseling programs, and victim-support efforts became central to recovery, and anniversary observances continue to this day.
+
+## Broader Influence
+Columbine heavily shaped how U.S. schools approached security and emergency preparedness, including the adoption of lockdown procedures and active-shooter drills. It also influenced media coverage practices and academic research on school violence, contagion effects, and prevention strategies.
+
+## Timeline (expanded)
+| Date | Event |
+|------|-------|
+| 1999-04-20 | Shooting occurs; perpetrators die by suicide |
+| 1999-04 to 1999-05 | Investigations, victim services, and public vigils intensify |
+| 1999-08 | Columbine High School reopens |
 
 ## References
 [^1]: Historical records and journalistic accounts.

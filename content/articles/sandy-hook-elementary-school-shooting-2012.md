@@ -9,7 +9,7 @@ outcome: "26 killed (20 children); shooter dead"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,21 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2012-12-14 | Event occurred |
+| 2013 | Connecticut enacted major firearm law changes; national debate over gun policy and school security intensified. |
+| 2016 | The National Memorial in Newtown opened to the public (commemoration continued through multiple initiatives). |
+
+## Incident overview (high-level)
+Publicly documented investigations reported that the perpetrator also killed a family member prior to the school attack and then died at the scene by suicide. The event produced extensive after-action analysis focused on emergency response, communication, and the difficulties of preventing rapid, high-casualty attacks in “soft targets” such as schools.
+
+## Policy and societal consequences
+The shooting became a major reference point in multiple long-running policy discussions in the United States:
+
+- **Firearm regulation:** Proposals ranged from restrictions on certain firearms and magazines to expanded background checks; some measures passed at the state level, while federal action remained contested.
+- **School safety:** Many districts reviewed physical security, threat assessment processes, and coordination with law enforcement.
+- **Mental health and risk assessment:** Public conversations often highlighted the complexity of identifying and managing risk, while also cautioning against stigmatizing mental illness.
+
+## Misinformation and harassment
+The event also became entangled with high-profile conspiracy theories that falsely claimed the shooting was staged. This misinformation caused additional harm, including harassment of some victims’ families, and led to prominent defamation-related legal actions.
 
 ## References
 [^1]: Historical records and journalistic accounts.

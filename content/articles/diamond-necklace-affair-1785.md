@@ -9,8 +9,7 @@ outcome: "Destroyed the reputation of Queen Marie Antoinette; Paved the way for 
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Affaire_du_collier_de_la_reine.jpg/800px-Affaire_du_collier_de_la_reine.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Affair_of_the_Diamond_Necklace"
-lastUpdated: "2025-12-23"
----
+lastUpdated: "2026-02-26"---
 
 ## Overview
 
@@ -39,3 +38,20 @@ She was nicknamed *"Madame Deficit"* and hated more than ever. Napoleon later sa
 
 - **The Queen's Necklace** (Alexandre Dumas)
 - **Marie Antoinette: The Journey** (Antonia Fraser)
+
+## Key Participants
+
+- **Jeanne de la Motte:** Central organizer of the fraud; exploited court gossip and public hostility toward the monarchy.
+- **Cardinal Louis de Rohan:** A powerful churchman seeking rehabilitation at court; his eagerness to regain favor made him vulnerable.
+- **Charles-Auguste Boehmer and Paul Bassenge:** Jewelers who created the necklace and sought a buyer after earlier royal rejection.
+
+## How the Scheme Worked (Simplified)
+
+1. Rohan was persuaded that the Queen wished to purchase the necklace secretly.
+2. Forged correspondence was used to create the illusion of royal approval.
+3. The necklace was obtained on credit, then dismantled and the diamonds sold.
+4. When payment was demanded, the deception became public and politically explosive.
+
+## Political Significance
+
+The affair mattered less for the financial loss than for the symbolism: it fed perceptions that the court was corrupt, extravagant, and indifferent to hardship. Even though Marie Antoinette was not the architect of the fraud, the public narrative that crystallized around her became part of the broader crisis of legitimacy that culminated in revolution.

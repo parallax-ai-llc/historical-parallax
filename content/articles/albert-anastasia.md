@@ -8,7 +8,7 @@ occupation: ["Crime Boss", "Mafioso"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Anastasia"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -21,7 +21,13 @@ Albert Anastasia was born on 1902-09-26 in Italy / United States. Details of ear
 As a crime boss, Albert Anastasia became known for criminal activities that drew significant attention from law enforcement and the public. [^2]
 
 ## Capture / Downfall
-Albert Anastasia's criminal career came to an end through law enforcement action or other circumstances. [^3]
+Anastasia was murdered on 1957-10-25 while seated in a barbershop at the Park Sheraton Hotel in Manhattan. The killing is widely viewed as an organized-crime hit connected to internal power struggles and shifting alliances within the American Mafia. No one was definitively convicted for the assassination, and it remains one of the most infamous unsolved mob murders of the era.
+
+## Organized Crime Context
+Anastasia's rise was tied to the consolidation of nationwide criminal networks during the early-to-mid 20th century, including labor racketeering on the waterfront and the formation of the National Crime Syndicate. After his death, leadership dynamics in what became known as the Gambino crime family stabilized around figures associated with a more discreet style of governance, reflecting a broader trend toward reducing public attention and law-enforcement pressure.
+
+## Law Enforcement and Historical Significance
+The case illustrates recurring challenges in prosecuting organized-crime leadership: witness intimidation, code-of-silence norms, and the use of intermediaries to separate decision-makers from violent acts. Anastasia's murder is often discussed in histories of the Mafia as a turning point that marked the end of an unusually volatile leadership phase.
 
 ## Positive Perspectives
 - The case contributed to advances in criminal justice and law enforcement techniques [^4]

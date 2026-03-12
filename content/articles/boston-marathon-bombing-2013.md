@@ -9,7 +9,7 @@ outcome: "3 killed, 264 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Boston_Marathon_bombing"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,17 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2013-04-15 | Event occurred |
+
+## Investigation and Manhunt
+The attack prompted a major, fast-moving investigation that relied heavily on public video and photographic evidence from the race area and surrounding streets. After images of the suspects were released, the search escalated rapidly across the Boston area.
+
+In the days following the bombing, the manhunt included additional violence and a confrontation with law enforcement in the suburb of Watertown. One of the brothers was killed during the confrontation, and the other was later found and taken into custody after an intensive search effort.
+
+## Legal Proceedings
+The surviving perpetrator was prosecuted in federal court and convicted on multiple counts. The case drew national attention not only for the underlying crime but also for appeals and litigation related to sentencing, jury selection, and the use of the federal death penalty.
+
+## Security and Public-Space Planning
+The bombing became a widely cited case in discussions about securing large public events without eliminating their openness. Marathon and mass-gathering organizers expanded practices such as coordinated multi-agency planning, clearer perimeter control near finish lines, and public guidance on reporting suspicious activity.
 
 ## References
 [^1]: Historical records and journalistic accounts.

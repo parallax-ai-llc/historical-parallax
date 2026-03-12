@@ -65,3 +65,19 @@ For a deeper, well-cited profile:
 - Contemporary Polish press coverage and parliamentary debates (where accessible in archives).
 - Scholarly histories of the Second Polish Republic’s early political conflicts.
 - Biographical studies that separate verified facts from later mythologizing around the assassin.[^1]
+
+## Overview
+
+Eligiusz Niewiadomski was a Polish painter and critic who is primarily remembered for the assassination of Poland’s first president, Gabriel Narutowicz, in the early years of the Second Polish Republic. The case is frequently discussed as an example of political polarization and the fragility of new democratic institutions.
+
+## Political climate
+
+Interwar Poland contained intense ideological conflict, including disputes over nationalism, minority rights, and the legitimacy of parliamentary politics. Public demonstrations, press campaigns, and elite rivalry contributed to a volatile atmosphere in which political violence became more conceivable.
+
+## Assassination and trial
+
+High-profile political assassinations typically generate immediate security crackdowns and a rapid judicial response. Niewiadomski’s case has been examined for what it reveals about radicalization, the role of propaganda, and how states attempt to reassert authority after a shock event.
+
+## Legacy
+
+The assassination left a lasting mark on Polish political memory. Later interpretations often focus on lessons about civic norms, institutional resilience, and how inflammatory rhetoric can translate into real-world harm.

@@ -8,7 +8,7 @@ occupation: ["Terrorist", "Revolutionary Leader"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abimael_Guzm%C3%A1n"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -43,3 +43,12 @@ Abimael Guzman's criminal career came to an end through law enforcement action o
 [^3]: Court and law enforcement records.
 [^4]: Criminal Justice Reform Studies.
 [^5]: Victim impact documentation.
+
+## Historical Context
+
+Shining Path emerged from radical left politics in Peru and pursued a Maoist “people’s war” strategy, combining guerrilla actions with mass intimidation and targeted killings. Peruvian state forces also committed abuses during the conflict, making the period one of the country’s most traumatic modern chapters.
+
+## Legacy
+
+Guzmán’s 1992 capture became a symbolic turning point, though the conflict’s social and political aftermath continued for years. Later truth-and-reconciliation efforts documented the scale of violence and the disproportionate impact on rural and Indigenous communities.
+

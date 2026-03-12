@@ -8,7 +8,7 @@ occupation: ["Terrorist", "Revolutionary"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andreas_Baader"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -36,6 +36,15 @@ Andreas Baader's criminal career came to an end through law enforcement action o
 |------|-------|
 | 1943 | Born |
 | 1977 | Career ended |
+
+## Additional Context
+- Baader was a central figure in what became widely known as the "Baader–Meinhof" era, reflecting the public profile of the Red Army Faction (RAF).
+- The RAF’s early campaigns included bank robberies, bombings, and attacks that targeted state and corporate institutions, with significant civilian harm.
+- His death in Stammheim Prison occurred the same night as other RAF deaths, fueling long-running controversy despite official findings of suicide.
+
+## Aftermath
+- The period of RAF activity culminated in the 1977 "German Autumn," a defining episode for West Germany’s security policy and political culture.
+- The RAF’s legacy remains a touchstone in debates about political violence, policing, and state power.
 
 ## References
 [^1]: Encyclopedia of Criminal History.

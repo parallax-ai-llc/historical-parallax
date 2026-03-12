@@ -50,3 +50,18 @@ Japanese general convicted for atrocities committed during the Burma campaign in
 ## Notes
 
 - In many summaries, his wartime role is discussed alongside other senior commanders prosecuted after World War II to show how international tribunals attempted to define individual liability for state violence.
+
+## Command Responsibility (Context)
+
+- Postwar tribunals advanced the idea that senior commanders can bear responsibility for crimes committed by forces under their authority when they fail to prevent, stop, or punish abuses.
+- This concept is often explained as bridging the gap between direct perpetrators and the higher-level decision-makers who create permissive conditions for atrocities.
+
+## Southeast Asia Theater (High-Level)
+
+- The Burma theater combined military operations with forced labor and harsh occupation practices, contributing to widespread suffering among civilians, prisoners, and conscripted workers.
+- Historical accounts repeatedly emphasize that disease, starvation, and physical abuse were integral to the lethal environment around major construction and logistics projects.
+
+## Legacy in Legal History
+
+- Kimura’s prosecution is often cited in teaching materials and summaries about the Tokyo Trials as an example of how responsibility was attributed to field commanders.
+- The case remains part of broader debates on the consistency of postwar justice and how tribunals balanced individual culpability against the scale of systemic violence.

@@ -9,7 +9,7 @@ outcome: "£53 million stolen; largest cash robbery in UK"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Securitas_depot_robbery"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -38,3 +38,13 @@ This event had significant impact on law enforcement practices, public policy, a
 [^3]: Government and policy documents.
 [^4]: Academic studies and analysis.
 [^5]: Media coverage and documentation.
+
+## Additional Notes
+- The robbery is widely described as highly organized: the manager and his family were abducted and coerced into assisting with access.
+- Offenders used deception and control tactics to enter and dominate the cash depot environment, enabling a rapid removal of cash.
+- The scale of the theft prompted renewed scrutiny of cash-in-transit security, depot controls, and staff safeguarding.
+- In subsequent prosecutions, multiple participants were convicted and received lengthy custodial sentences.
+- A significant portion of the stolen money was not publicly known to have been recovered, underscoring the challenges of asset tracing in large cash crimes.
+
+## Why It Matters
+The case is often cited as a benchmark for UK cash-robbery risk and as an example of how coercion against families can bypass conventional physical security.

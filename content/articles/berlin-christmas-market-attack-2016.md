@@ -9,7 +9,7 @@ outcome: "12 killed, 56 injured"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2016_Berlin_truck_attack"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -31,6 +31,17 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2016-12-19 | Event occurred |
+
+## Investigation and Security Response
+German and European authorities investigated the planning, weapons procurement, and movements of Anis Amri, including his interactions with informal networks and prior contacts with law enforcement. The case became a high-profile example in debates about threat assessment, information sharing across agencies, and the limits of surveillance.
+
+In the months and years that followed, many public venues—especially seasonal markets—expanded visible security measures such as vehicle barriers, controlled access points, and increased police presence during large public gatherings.
+
+## Political and Policy Debate
+The attack intensified political debate in Germany around asylum procedures, deportation mechanisms for rejected applicants, and the coordination between federal and state authorities. It also contributed to broader European discussions on counterterrorism cooperation and cross-border intelligence coordination.
+
+## Commemoration
+Victims were publicly mourned in Berlin, and commemorations have been held to mark the anniversary of the attack. Memorial practices have included official ceremonies and community-led remembrance, reflecting both the local impact and the event’s wider symbolic significance.
 
 ## References
 [^1]: Historical records and journalistic accounts.

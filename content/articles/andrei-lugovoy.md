@@ -8,7 +8,7 @@ occupation: ["Assassin", "Politician"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrei_Lugovoy"
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -36,6 +36,15 @@ Andrei Lugovoy's criminal career came to an end through law enforcement action o
 |------|-------|
 | 1966 | Born |
 | ? | Career ended |
+
+## Additional Context
+- UK authorities alleged that Lugovoy and Dmitry Kovtun were involved in the poisoning of Alexander Litvinenko using polonium-210.
+- A UK public inquiry concluded that the operation was likely approved at senior levels of the Russian state; Russia rejected the findings.
+- After the extradition dispute, Lugovoy entered politics and served as a member of the State Duma, which further complicated legal accountability.
+
+## Aftermath
+- The case became a landmark example in discussions of state-linked assassination methods and radioactive poisoning.
+- It contributed to diplomatic tensions, including expulsions and sanctions measures linked to the investigation.
 
 ## References
 [^1]: Encyclopedia of Criminal History.

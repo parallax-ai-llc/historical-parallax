@@ -70,3 +70,19 @@ For a more source-grounded profile beyond a short overview:
 - U.S. federal court filings and sentencing documents.
 - Regulatory correspondence and inspection records where available.
 - Credible investigative journalism timelines and contemporaneous reporting.[^1]
+
+## Overview
+
+Elizabeth Holmes is an American former business executive best known for founding Theranos, a blood-testing startup that attracted major investment and media attention before collapsing amid allegations that its technology did not work as claimed. The Theranos story became a widely cited case study in startup culture, governance, and the limits of “fake it till you make it” narratives in healthcare.
+
+## Company narrative and scrutiny
+
+Theranos rose during a period when technology platforms and venture capital were reshaping expectations for rapid growth. Healthcare, however, imposes stricter constraints because clinical claims require validation and patient safety risks are high. As scrutiny increased, reporting and regulatory attention focused on whether the company’s testing methods and results were reliable.
+
+## Legal and regulatory issues
+
+When a company’s public claims diverge from verified performance, consequences can include investor lawsuits, regulatory sanctions, and criminal charges. High-profile trials also highlight how boards, auditors, and partners can fail to detect problems when access is restricted and messaging is tightly controlled.
+
+## Broader impact
+
+The case is often taught and discussed in business, law, and ethics contexts. It is used to illustrate due diligence failures, the importance of independent verification, and how charismatic leadership can distort decision-making in high-stakes sectors.

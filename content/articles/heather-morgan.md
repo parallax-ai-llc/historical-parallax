@@ -49,3 +49,18 @@ lastUpdated: "2026-02-26"
 ## Note on Sources
 
 - Some general-purpose pages titled "Heather Morgan" may refer to other individuals with the same name; reliable summaries distinguish Morgan in this case as "Heather R. Morgan" ("Razzlekhan").
+
+## Bitfinex Hack Context (High-Level)
+
+- The 2016 Bitfinex incident is commonly described as one of the largest cryptocurrency thefts by dollar value, making later laundering efforts unusually high-profile.
+- Because many blockchains are publicly auditable, large thefts often become long-running investigations focused on tracing flows rather than immediately identifying the original hacker.
+
+## Common Techniques Discussed in Reporting
+
+- Public descriptions of crypto laundering frequently mention wallet-to-wallet “peeling,” use of intermediaries, and attempts to cash out through exchanges, gift cards, or nominee accounts.
+- Large seizures in such cases are often used as examples of how investigative tooling can correlate on-chain activity with off-chain identities over time.
+
+## Significance for Compliance and Enforcement
+
+- The case is cited in debates about exchange KYC/AML controls, the role of chain-analysis firms, and whether pseudonymity meaningfully protects criminals at scale.
+- It also highlights how lifestyle and online footprints can create leads that complement purely technical tracing.

@@ -9,7 +9,7 @@ outcome: "Infiltrated Syrian high command; Suggested planting trees at Golan bun
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Eli_cohen_in_Damascus.jpg/800px-Eli_cohen_in_Damascus.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eli_Cohen"
-lastUpdated: "2025-12-23"
+lastUpdated: "2026-02-26"
 ---
 
 ## Overview
@@ -42,3 +42,13 @@ Despite pleas from the Pope and governments worldwide, Syria publicly hanged him
 
 - **The Spy** (Netflix Series)
 - **Our Man in Damascus** (Eli Ben-Hanan)
+
+## Historical Notes
+
+- The eucalyptus-tree anecdote is widely repeated as a vivid illustration of how human terrain cues can become military intelligence; some accounts treat the story as partly disputed or simplified in retelling.
+- Cohen’s case became a reference point for the risks of **high-volume radio traffic** in hostile capitals once direction-finding equipment and coordinated counter-intelligence operations are in place.
+
+## Legacy
+
+In Israel, Cohen is remembered as a symbol of strategic intelligence work and personal sacrifice; periodic diplomatic efforts have sought the return of his remains, which Syria has not provided.
+

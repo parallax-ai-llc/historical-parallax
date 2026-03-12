@@ -8,7 +8,7 @@ occupation: ["Con Artist"]
 image: ""
 socialLinks:
   wikipedia: ""
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-02-26"
 ---
 
 ## Summary
@@ -43,3 +43,13 @@ Anna Delvey's criminal career came to an end through law enforcement action or o
 [^3]: Court and law enforcement records.
 [^4]: Criminal Justice Reform Studies.
 [^5]: Victim impact documentation.
+
+## Clarifying Note (Alias)
+"Anna Delvey" is widely reported to be the alias used by Anna Sorokin in New York City, and many accounts treat the two names as referring to the same individual.
+
+## Legal / Aftermath (High-Level)
+- Public reporting describes the scheme as involving unpaid hotel stays, loans, and expenses amounting to hundreds of thousands of dollars.
+- Sorokin was convicted in New York in 2019 on multiple fraud-related counts; later developments involved immigration detention and ongoing legal proceedings reported in U.S. media.
+
+## Cultural Impact
+The case became a widely discussed example of social engineering and status-based fraud, and it was adapted into dramatized media.
