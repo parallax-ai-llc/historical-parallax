@@ -5169,5 +5169,4660 @@
       "Athlete"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Bearman"
+  },
+  {
+    "name": "Marilyn Monroe",
+    "born": "1926-06-01",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Singer",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Monroe"
+  },
+  {
+    "name": "Audrey Hepburn",
+    "born": "1929-05-04",
+    "nationality": "British",
+    "occupation": [
+      "Actress",
+      "Humanitarian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Audrey_Hepburn"
+  },
+  {
+    "name": "James Dean",
+    "born": "1931-02-08",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Dean"
+  },
+  {
+    "name": "Marlon Brando",
+    "born": "1924-04-03",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Marlon_Brando"
+  },
+  {
+    "name": "Humphrey Bogart",
+    "born": "1899-12-25",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Bogart"
+  },
+  {
+    "name": "Elizabeth Taylor",
+    "born": "1932-02-27",
+    "nationality": "British-American",
+    "occupation": [
+      "Actress",
+      "Humanitarian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Taylor"
+  },
+  {
+    "name": "Grace Kelly",
+    "born": "1929-11-12",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Kelly"
+  },
+  {
+    "name": "Cary Grant",
+    "born": "1904-01-18",
+    "nationality": "British-American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cary_Grant"
+  },
+  {
+    "name": "Clark Gable",
+    "born": "1901-02-01",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Clark_Gable"
+  },
+  {
+    "name": "Ingrid Bergman",
+    "born": "1915-08-29",
+    "nationality": "Swedish",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingrid_Bergman"
+  },
+  {
+    "name": "Katharine Hepburn",
+    "born": "1907-05-12",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Hepburn"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "born": "1889-04-16",
+    "nationality": "British",
+    "occupation": [
+      "Actor",
+      "Filmmaker",
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Chaplin"
+  },
+  {
+    "name": "Buster Keaton",
+    "born": "1895-10-04",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Filmmaker",
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buster_Keaton"
+  },
+  {
+    "name": "Gene Kelly",
+    "born": "1912-08-23",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gene_Kelly"
+  },
+  {
+    "name": "Fred Astaire",
+    "born": "1899-05-10",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Dancer",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fred_Astaire"
+  },
+  {
+    "name": "Gregory Peck",
+    "born": "1916-04-05",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Peck"
+  },
+  {
+    "name": "James Stewart",
+    "born": "1908-05-20",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Stewart"
+  },
+  {
+    "name": "John Wayne",
+    "born": "1907-05-26",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne"
+  },
+  {
+    "name": "Sophia Loren",
+    "born": "1934-09-20",
+    "nationality": "Italian",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophia_Loren"
+  },
+  {
+    "name": "Brigitte Bardot",
+    "born": "1934-09-28",
+    "nationality": "French",
+    "occupation": [
+      "Actress",
+      "Model",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brigitte_Bardot"
+  },
+  {
+    "name": "Timothée Chalamet",
+    "born": "1995-12-27",
+    "nationality": "American-French",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet"
+  },
+  {
+    "name": "Zendaya",
+    "born": "1996-09-01",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zendaya"
+  },
+  {
+    "name": "Florence Pugh",
+    "born": "1996-01-03",
+    "nationality": "British",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence_Pugh"
+  },
+  {
+    "name": "Tom Holland",
+    "born": "1996-06-01",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Holland"
+  },
+  {
+    "name": "Margot Robbie",
+    "born": "1990-07-02",
+    "nationality": "Australian",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Margot_Robbie"
+  },
+  {
+    "name": "Pedro Pascal",
+    "born": "1975-04-02",
+    "nationality": "Chilean-American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Pascal"
+  },
+  {
+    "name": "Oscar Isaac",
+    "born": "1979-03-09",
+    "nationality": "Guatemalan-American",
+    "occupation": [
+      "Actor",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Isaac"
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "born": "1965-04-04",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Downey_Jr."
+  },
+  {
+    "name": "Scarlett Johansson",
+    "born": "1984-11-22",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Scarlett_Johansson"
+  },
+  {
+    "name": "Chris Hemsworth",
+    "born": "1983-08-11",
+    "nationality": "Australian",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Hemsworth"
+  },
+  {
+    "name": "Cate Blanchett",
+    "born": "1969-05-14",
+    "nationality": "Australian",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cate_Blanchett"
+  },
+  {
+    "name": "Nicole Kidman",
+    "born": "1967-06-20",
+    "nationality": "Australian-American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Kidman"
+  },
+  {
+    "name": "Meryl Streep",
+    "born": "1949-06-22",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Meryl_Streep"
+  },
+  {
+    "name": "Denzel Washington",
+    "born": "1954-12-28",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Denzel_Washington"
+  },
+  {
+    "name": "Tom Hanks",
+    "born": "1956-07-09",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Filmmaker"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Hanks"
+  },
+  {
+    "name": "Brad Pitt",
+    "born": "1963-12-18",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brad_Pitt"
+  },
+  {
+    "name": "Angelina Jolie",
+    "born": "1975-06-04",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Filmmaker",
+      "Humanitarian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelina_Jolie"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "born": "1974-11-11",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio"
+  },
+  {
+    "name": "Johnny Depp",
+    "born": "1963-06-09",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Musician",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Depp"
+  },
+  {
+    "name": "Keanu Reeves",
+    "born": "1964-09-02",
+    "nationality": "Canadian",
+    "occupation": [
+      "Actor",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Keanu_Reeves"
+  },
+  {
+    "name": "Morgan Freeman",
+    "born": "1937-06-01",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Narrator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Freeman"
+  },
+  {
+    "name": "Al Pacino",
+    "born": "1940-04-25",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Al_Pacino"
+  },
+  {
+    "name": "Robert De Niro",
+    "born": "1943-08-17",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_De_Niro"
+  },
+  {
+    "name": "Samuel L. Jackson",
+    "born": "1948-12-21",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_L._Jackson"
+  },
+  {
+    "name": "Sandra Bullock",
+    "born": "1964-07-26",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Bullock"
+  },
+  {
+    "name": "Julia Roberts",
+    "born": "1967-10-28",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Roberts"
+  },
+  {
+    "name": "Matt Damon",
+    "born": "1970-10-08",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Screenwriter",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Matt_Damon"
+  },
+  {
+    "name": "Ben Affleck",
+    "born": "1972-08-15",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Director",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Affleck"
+  },
+  {
+    "name": "Ryan Gosling",
+    "born": "1980-11-12",
+    "nationality": "Canadian",
+    "occupation": [
+      "Actor",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Gosling"
+  },
+  {
+    "name": "Emma Stone",
+    "born": "1988-11-06",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Stone"
+  },
+  {
+    "name": "Jennifer Lawrence",
+    "born": "1990-08-15",
+    "nationality": "American",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Lawrence"
+  },
+  {
+    "name": "Natalie Portman",
+    "born": "1981-06-09",
+    "nationality": "Israeli-American",
+    "occupation": [
+      "Actress",
+      "Director",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Portman"
+  },
+  {
+    "name": "Viola Davis",
+    "born": "1965-08-11",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Viola_Davis"
+  },
+  {
+    "name": "Joaquin Phoenix",
+    "born": "1974-10-28",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joaquin_Phoenix"
+  },
+  {
+    "name": "Christian Bale",
+    "born": "1974-01-30",
+    "nationality": "British",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Bale"
+  },
+  {
+    "name": "Jake Gyllenhaal",
+    "born": "1980-12-19",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+  },
+  {
+    "name": "Adam Driver",
+    "born": "1983-11-19",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver"
+  },
+  {
+    "name": "Austin Butler",
+    "born": "1991-08-17",
+    "nationality": "American",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Austin_Butler"
+  },
+  {
+    "name": "Paul Mescal",
+    "born": "1996-02-02",
+    "nationality": "Irish",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Mescal"
+  },
+  {
+    "name": "Barry Keoghan",
+    "born": "1992-10-18",
+    "nationality": "Irish",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Keoghan"
+  },
+  {
+    "name": "Sydney Sweeney",
+    "born": "1997-09-12",
+    "nationality": "American",
+    "occupation": [
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Sweeney"
+  },
+  {
+    "name": "Lee Min-ho",
+    "born": "1987-06-22",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Min-ho_(actor)"
+  },
+  {
+    "name": "Song Joong-ki",
+    "born": "1985-09-19",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Joong-ki"
+  },
+  {
+    "name": "Park Seo-joon",
+    "born": "1988-12-16",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Seo-joon"
+  },
+  {
+    "name": "Hyun Bin",
+    "born": "1982-09-25",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hyun_Bin"
+  },
+  {
+    "name": "Son Ye-jin",
+    "born": "1982-01-11",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Son_Ye-jin"
+  },
+  {
+    "name": "Jun Ji-hyun",
+    "born": "1981-10-30",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actress",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jun_Ji-hyun"
+  },
+  {
+    "name": "Park Bo-gum",
+    "born": "1993-06-16",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Park_Bo-gum"
+  },
+  {
+    "name": "Kim Soo-hyun",
+    "born": "1988-02-16",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Soo-hyun_(actor)"
+  },
+  {
+    "name": "Lee Jong-suk",
+    "born": "1989-09-14",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Jong-suk"
+  },
+  {
+    "name": "Bae Suzy",
+    "born": "1994-10-10",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actress",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bae_Suzy"
+  },
+  {
+    "name": "Song Hye-kyo",
+    "born": "1981-11-22",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actress",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Song_Hye-kyo"
+  },
+  {
+    "name": "Gong Yoo",
+    "born": "1979-07-10",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gong_Yoo"
+  },
+  {
+    "name": "Lee Dong-wook",
+    "born": "1981-11-06",
+    "nationality": "South Korean",
+    "occupation": [
+      "Actor",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Dong-wook"
+  },
+  {
+    "name": "Shah Rukh Khan",
+    "born": "1965-11-02",
+    "nationality": "Indian",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Television Personality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan"
+  },
+  {
+    "name": "Aamir Khan",
+    "born": "1965-03-14",
+    "nationality": "Indian",
+    "occupation": [
+      "Actor",
+      "Filmmaker",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aamir_Khan"
+  },
+  {
+    "name": "Salman Khan",
+    "born": "1965-12-27",
+    "nationality": "Indian",
+    "occupation": [
+      "Actor",
+      "Producer",
+      "Television Host"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Salman_Khan"
+  },
+  {
+    "name": "Deepika Padukone",
+    "born": "1986-01-05",
+    "nationality": "Indian",
+    "occupation": [
+      "Actress",
+      "Model",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Deepika_Padukone"
+  },
+  {
+    "name": "Priyanka Chopra",
+    "born": "1982-07-18",
+    "nationality": "Indian",
+    "occupation": [
+      "Actress",
+      "Singer",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Priyanka_Chopra"
+  },
+  {
+    "name": "Ranveer Singh",
+    "born": "1985-07-06",
+    "nationality": "Indian",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ranveer_Singh"
+  },
+  {
+    "name": "Alia Bhatt",
+    "born": "1993-03-15",
+    "nationality": "Indian",
+    "occupation": [
+      "Actress",
+      "Singer",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alia_Bhatt"
+  },
+  {
+    "name": "Hrithik Roshan",
+    "born": "1974-01-10",
+    "nationality": "Indian",
+    "occupation": [
+      "Actor",
+      "Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hrithik_Roshan"
+  },
+  {
+    "name": "Amitabh Bachchan",
+    "born": "1942-10-11",
+    "nationality": "Indian",
+    "occupation": [
+      "Actor",
+      "Filmmaker",
+      "Television Host"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amitabh_Bachchan"
+  },
+  {
+    "name": "Aishwarya Rai",
+    "born": "1973-11-01",
+    "nationality": "Indian",
+    "occupation": [
+      "Actress",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aishwarya_Rai"
+  },
+  {
+    "name": "Mads Mikkelsen",
+    "born": "1965-11-22",
+    "nationality": "Danish",
+    "occupation": [
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mads_Mikkelsen"
+  },
+  {
+    "name": "Penélope Cruz",
+    "born": "1974-04-28",
+    "nationality": "Spanish",
+    "occupation": [
+      "Actress",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz"
+  },
+  {
+    "name": "Jimi Hendrix",
+    "born": "1942-11-27",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+  },
+  {
+    "name": "Freddie Mercury",
+    "born": "1946-09-05",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Mercury"
+  },
+  {
+    "name": "David Bowie",
+    "born": "1947-01-08",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Bowie"
+  },
+  {
+    "name": "Prince",
+    "born": "1958-06-07",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Prince_(musician)"
+  },
+  {
+    "name": "John Lennon",
+    "born": "1940-10-09",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lennon"
+  },
+  {
+    "name": "Paul McCartney",
+    "born": "1942-06-18",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney"
+  },
+  {
+    "name": "Mick Jagger",
+    "born": "1943-07-26",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mick_Jagger"
+  },
+  {
+    "name": "Kurt Cobain",
+    "born": "1967-02-20",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Cobain"
+  },
+  {
+    "name": "Jim Morrison",
+    "born": "1943-12-08",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Poet"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Morrison"
+  },
+  {
+    "name": "Janis Joplin",
+    "born": "1943-01-19",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Janis_Joplin"
+  },
+  {
+    "name": "Bob Dylan",
+    "born": "1941-05-24",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Dylan"
+  },
+  {
+    "name": "Elvis Presley",
+    "born": "1935-01-08",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley"
+  },
+  {
+    "name": "Chuck Berry",
+    "born": "1926-10-18",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Guitarist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chuck_Berry"
+  },
+  {
+    "name": "Eric Clapton",
+    "born": "1945-03-30",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Clapton"
+  },
+  {
+    "name": "Jimmy Page",
+    "born": "1944-01-09",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Page"
+  },
+  {
+    "name": "Robert Plant",
+    "born": "1948-08-20",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Plant"
+  },
+  {
+    "name": "Keith Richards",
+    "born": "1943-12-18",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Richards"
+  },
+  {
+    "name": "Roger Waters",
+    "born": "1943-09-06",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Waters"
+  },
+  {
+    "name": "David Gilmour",
+    "born": "1946-03-06",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Gilmour"
+  },
+  {
+    "name": "Pete Townshend",
+    "born": "1945-05-19",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Townshend"
+  },
+  {
+    "name": "Stevie Ray Vaughan",
+    "born": "1954-10-03",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan"
+  },
+  {
+    "name": "Eddie Van Halen",
+    "born": "1955-01-26",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Guitarist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Van_Halen"
+  },
+  {
+    "name": "Slash",
+    "born": "1965-07-23",
+    "nationality": "British-American",
+    "occupation": [
+      "Musician",
+      "Guitarist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Slash_(musician)"
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "born": "1948-12-03",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozzy_Osbourne"
+  },
+  {
+    "name": "Bruce Springsteen",
+    "born": "1949-09-23",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Springsteen"
+  },
+  {
+    "name": "Bono",
+    "born": "1960-05-10",
+    "nationality": "Irish",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bono"
+  },
+  {
+    "name": "Michael Jackson",
+    "born": "1958-08-29",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jackson"
+  },
+  {
+    "name": "Whitney Houston",
+    "born": "1963-08-09",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitney_Houston"
+  },
+  {
+    "name": "Madonna",
+    "born": "1958-08-16",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Madonna"
+  },
+  {
+    "name": "Beyoncé",
+    "born": "1981-09-04",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+  },
+  {
+    "name": "Lady Gaga",
+    "born": "1986-03-28",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Gaga"
+  },
+  {
+    "name": "Adele",
+    "born": "1988-05-05",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adele"
+  },
+  {
+    "name": "Ed Sheeran",
+    "born": "1991-02-17",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_Sheeran"
+  },
+  {
+    "name": "Billie Eilish",
+    "born": "2001-12-18",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Billie_Eilish"
+  },
+  {
+    "name": "SZA",
+    "born": "1990-11-08",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/SZA"
+  },
+  {
+    "name": "Frank Ocean",
+    "born": "1987-10-28",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Ocean"
+  },
+  {
+    "name": "Kendrick Lamar",
+    "born": "1987-06-17",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kendrick_Lamar"
+  },
+  {
+    "name": "Kanye West",
+    "born": "1977-06-08",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Musician",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kanye_West"
+  },
+  {
+    "name": "Jay-Z",
+    "born": "1969-12-04",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Musician",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jay-Z"
+  },
+  {
+    "name": "Eminem",
+    "born": "1972-10-17",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eminem"
+  },
+  {
+    "name": "Snoop Dogg",
+    "born": "1971-10-20",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Musician",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Snoop_Dogg"
+  },
+  {
+    "name": "Tupac Shakur",
+    "born": "1971-06-16",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tupac_Shakur"
+  },
+  {
+    "name": "The Notorious B.I.G.",
+    "born": "1972-05-21",
+    "nationality": "American",
+    "occupation": [
+      "Rapper"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Notorious_B.I.G."
+  },
+  {
+    "name": "Lauryn Hill",
+    "born": "1975-05-26",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Rapper"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lauryn_Hill"
+  },
+  {
+    "name": "Amy Winehouse",
+    "born": "1983-09-14",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amy_Winehouse"
+  },
+  {
+    "name": "Stevie Wonder",
+    "born": "1950-05-13",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stevie_Wonder"
+  },
+  {
+    "name": "Marvin Gaye",
+    "born": "1939-04-02",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Gaye"
+  },
+  {
+    "name": "Aretha Franklin",
+    "born": "1942-03-25",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aretha_Franklin"
+  },
+  {
+    "name": "Nina Simone",
+    "born": "1933-02-21",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nina_Simone"
+  },
+  {
+    "name": "Ella Fitzgerald",
+    "born": "1917-04-25",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald"
+  },
+  {
+    "name": "Louis Armstrong",
+    "born": "1901-08-04",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Trumpeter",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Armstrong"
+  },
+  {
+    "name": "Bob Marley",
+    "born": "1945-02-06",
+    "nationality": "Jamaican",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Marley"
+  },
+  {
+    "name": "Fela Kuti",
+    "born": "1938-10-15",
+    "nationality": "Nigerian",
+    "occupation": [
+      "Musician",
+      "Composer",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fela_Kuti"
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "born": "1756-01-27",
+    "nationality": "Austrian",
+    "occupation": [
+      "Composer",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+  },
+  {
+    "name": "Ludwig van Beethoven",
+    "born": "1770-12-17",
+    "nationality": "German",
+    "occupation": [
+      "Composer",
+      "Musician",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
+  },
+  {
+    "name": "Johann Sebastian Bach",
+    "born": "1685-03-31",
+    "nationality": "German",
+    "occupation": [
+      "Composer",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+  },
+  {
+    "name": "Frédéric Chopin",
+    "born": "1810-03-01",
+    "nationality": "Polish",
+    "occupation": [
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin"
+  },
+  {
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "born": "1840-05-07",
+    "nationality": "Russian",
+    "occupation": [
+      "Composer",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
+  },
+  {
+    "name": "Claude Debussy",
+    "born": "1862-08-22",
+    "nationality": "French",
+    "occupation": [
+      "Composer",
+      "Musician",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Debussy"
+  },
+  {
+    "name": "Antonio Vivaldi",
+    "born": "1678-03-04",
+    "nationality": "Italian",
+    "occupation": [
+      "Composer",
+      "Violinist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Vivaldi"
+  },
+  {
+    "name": "Johannes Brahms",
+    "born": "1833-05-07",
+    "nationality": "German",
+    "occupation": [
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Brahms"
+  },
+  {
+    "name": "Franz Schubert",
+    "born": "1797-01-31",
+    "nationality": "Austrian",
+    "occupation": [
+      "Composer",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert"
+  },
+  {
+    "name": "Franz Liszt",
+    "born": "1811-10-22",
+    "nationality": "Hungarian",
+    "occupation": [
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Liszt"
+  },
+  {
+    "name": "Richard Wagner",
+    "born": "1813-05-22",
+    "nationality": "German",
+    "occupation": [
+      "Composer",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner"
+  },
+  {
+    "name": "Giuseppe Verdi",
+    "born": "1813-10-10",
+    "nationality": "Italian",
+    "occupation": [
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Verdi"
+  },
+  {
+    "name": "Giacomo Puccini",
+    "born": "1858-12-22",
+    "nationality": "Italian",
+    "occupation": [
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Puccini"
+  },
+  {
+    "name": "Sergei Rachmaninoff",
+    "born": "1873-04-01",
+    "nationality": "Russian",
+    "occupation": [
+      "Composer",
+      "Pianist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff"
+  },
+  {
+    "name": "Igor Stravinsky",
+    "born": "1882-06-17",
+    "nationality": "Russian",
+    "occupation": [
+      "Composer",
+      "Conductor",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Igor_Stravinsky"
+  },
+  {
+    "name": "Gustav Mahler",
+    "born": "1860-07-07",
+    "nationality": "Austrian",
+    "occupation": [
+      "Composer",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Mahler"
+  },
+  {
+    "name": "Antonín Dvořák",
+    "born": "1841-09-08",
+    "nationality": "Czech",
+    "occupation": [
+      "Composer",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k"
+  },
+  {
+    "name": "George Frideric Handel",
+    "born": "1685-02-23",
+    "nationality": "German-British",
+    "occupation": [
+      "Composer",
+      "Organist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Frideric_Handel"
+  },
+  {
+    "name": "Joseph Haydn",
+    "born": "1732-03-31",
+    "nationality": "Austrian",
+    "occupation": [
+      "Composer",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Haydn"
+  },
+  {
+    "name": "Felix Mendelssohn",
+    "born": "1809-02-03",
+    "nationality": "German",
+    "occupation": [
+      "Composer",
+      "Pianist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Mendelssohn"
+  },
+  {
+    "name": "Bad Bunny",
+    "born": "1994-03-10",
+    "nationality": "Puerto Rican",
+    "occupation": [
+      "Musician",
+      "Rapper",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bad_Bunny"
+  },
+  {
+    "name": "Shakira",
+    "born": "1977-02-02",
+    "nationality": "Colombian",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shakira"
+  },
+  {
+    "name": "J Balvin",
+    "born": "1985-05-07",
+    "nationality": "Colombian",
+    "occupation": [
+      "Musician",
+      "Rapper",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/J_Balvin"
+  },
+  {
+    "name": "Daddy Yankee",
+    "born": "1977-02-03",
+    "nationality": "Puerto Rican",
+    "occupation": [
+      "Musician",
+      "Rapper",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Daddy_Yankee"
+  },
+  {
+    "name": "Maluma",
+    "born": "1994-01-28",
+    "nationality": "Colombian",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maluma"
+  },
+  {
+    "name": "Ozuna",
+    "born": "1992-03-13",
+    "nationality": "Puerto Rican",
+    "occupation": [
+      "Musician",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ozuna_(singer)"
+  },
+  {
+    "name": "Becky G",
+    "born": "1997-03-02",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Becky_G"
+  },
+  {
+    "name": "Natti Natasha",
+    "born": "1986-12-10",
+    "nationality": "Dominican",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Natti_Natasha"
+  },
+  {
+    "name": "Miles Davis",
+    "born": "1926-05-26",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Trumpeter",
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_Davis"
+  },
+  {
+    "name": "John Coltrane",
+    "born": "1926-09-23",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Saxophonist",
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Coltrane"
+  },
+  {
+    "name": "Ray Charles",
+    "born": "1930-09-23",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Charles"
+  },
+  {
+    "name": "James Brown",
+    "born": "1933-05-03",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Brown"
+  },
+  {
+    "name": "Tina Turner",
+    "born": "1939-11-26",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tina_Turner"
+  },
+  {
+    "name": "Diana Ross",
+    "born": "1944-03-26",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana_Ross"
+  },
+  {
+    "name": "Johnny Cash",
+    "born": "1932-02-26",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Cash"
+  },
+  {
+    "name": "Neil Young",
+    "born": "1945-11-12",
+    "nationality": "Canadian",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Young"
+  },
+  {
+    "name": "Joni Mitchell",
+    "born": "1943-11-07",
+    "nationality": "Canadian",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joni_Mitchell"
+  },
+  {
+    "name": "Tom Waits",
+    "born": "1949-12-07",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Waits"
+  },
+  {
+    "name": "Leonard Cohen",
+    "born": "1934-09-21",
+    "nationality": "Canadian",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Cohen"
+  },
+  {
+    "name": "Elton John",
+    "born": "1947-03-25",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elton_John"
+  },
+  {
+    "name": "David Byrne",
+    "born": "1952-05-14",
+    "nationality": "Scottish-American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Byrne"
+  },
+  {
+    "name": "Patti Smith",
+    "born": "1946-12-30",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Poet"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Patti_Smith"
+  },
+  {
+    "name": "Tom Petty",
+    "born": "1950-10-20",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Petty"
+  },
+  {
+    "name": "George Harrison",
+    "born": "1943-02-25",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Guitarist",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Harrison"
+  },
+  {
+    "name": "Ringo Starr",
+    "born": "1940-07-07",
+    "nationality": "British",
+    "occupation": [
+      "Musician",
+      "Drummer",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ringo_Starr"
+  },
+  {
+    "name": "Billy Joel",
+    "born": "1949-05-09",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Joel"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "born": "1967-01-01",
+    "nationality": "British-American",
+    "occupation": [
+      "Band",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fleetwood_Mac"
+  },
+  {
+    "name": "Dolly Parton",
+    "born": "1946-01-19",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolly_Parton"
+  },
+  {
+    "name": "Willie Nelson",
+    "born": "1933-04-29",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Nelson"
+  },
+  {
+    "name": "Chet Baker",
+    "born": "1929-12-23",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Trumpeter",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chet_Baker"
+  },
+  {
+    "name": "Charlie Parker",
+    "born": "1920-08-29",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Saxophonist",
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Parker"
+  },
+  {
+    "name": "Duke Ellington",
+    "born": "1899-04-29",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Duke_Ellington"
+  },
+  {
+    "name": "Billie Holiday",
+    "born": "1915-04-07",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Billie_Holiday"
+  },
+  {
+    "name": "Nat King Cole",
+    "born": "1919-03-17",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nat_King_Cole"
+  },
+  {
+    "name": "Frank Sinatra",
+    "born": "1915-12-12",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Sinatra"
+  },
+  {
+    "name": "Dmitri Shostakovich",
+    "born": "1906-09-25",
+    "nationality": "Russian",
+    "occupation": [
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich"
+  },
+  {
+    "name": "Béla Bartók",
+    "born": "1881-03-25",
+    "nationality": "Hungarian",
+    "occupation": [
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k"
+  },
+  {
+    "name": "Aaron Copland",
+    "born": "1900-11-14",
+    "nationality": "American",
+    "occupation": [
+      "Composer",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Copland"
+  },
+  {
+    "name": "Edvard Grieg",
+    "born": "1843-06-15",
+    "nationality": "Norwegian",
+    "occupation": [
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Grieg"
+  },
+  {
+    "name": "Camille Saint-Saëns",
+    "born": "1835-10-09",
+    "nationality": "French",
+    "occupation": [
+      "Composer",
+      "Pianist",
+      "Organist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns"
+  },
+  {
+    "name": "Georges Bizet",
+    "born": "1838-10-25",
+    "nationality": "French",
+    "occupation": [
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Bizet"
+  },
+  {
+    "name": "Hector Berlioz",
+    "born": "1803-12-11",
+    "nationality": "French",
+    "occupation": [
+      "Composer",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hector_Berlioz"
+  },
+  {
+    "name": "Robert Schumann",
+    "born": "1810-06-08",
+    "nationality": "German",
+    "occupation": [
+      "Composer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Schumann"
+  },
+  {
+    "name": "Alicia Keys",
+    "born": "1981-01-25",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Keys"
+  },
+  {
+    "name": "John Legend",
+    "born": "1978-12-28",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Legend"
+  },
+  {
+    "name": "Mary J. Blige",
+    "born": "1971-01-11",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Songwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_J._Blige"
+  },
+  {
+    "name": "Usher",
+    "born": "1978-10-14",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Usher_(musician)"
+  },
+  {
+    "name": "Janet Jackson",
+    "born": "1966-05-16",
+    "nationality": "American",
+    "occupation": [
+      "Musician",
+      "Singer",
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Janet_Jackson"
+  },
+  {
+    "name": "Missy Elliott",
+    "born": "1971-07-01",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Singer",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Missy_Elliott"
+  },
+  {
+    "name": "Lil Wayne",
+    "born": "1982-09-27",
+    "nationality": "American",
+    "occupation": [
+      "Rapper",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lil_Wayne"
+  },
+  {
+    "name": "Drake",
+    "born": "1986-10-24",
+    "nationality": "Canadian",
+    "occupation": [
+      "Rapper",
+      "Singer",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Drake_(musician)"
+  },
+  {
+    "name": "William Shakespeare",
+    "born": "1564-04-26",
+    "nationality": "English",
+    "occupation": [
+      "Playwright",
+      "Poet",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Shakespeare"
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "born": "1892-01-03",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Philologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+  },
+  {
+    "name": "Stephen King",
+    "born": "1947-09-21",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_King"
+  },
+  {
+    "name": "J.K. Rowling",
+    "born": "1965-07-31",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/J._K._Rowling"
+  },
+  {
+    "name": "Haruki Murakami",
+    "born": "1949-01-12",
+    "nationality": "Japanese",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Translator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Haruki_Murakami"
+  },
+  {
+    "name": "George Orwell",
+    "born": "1903-06-25",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Essayist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Orwell"
+  },
+  {
+    "name": "F. Scott Fitzgerald",
+    "born": "1896-09-24",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Short Story Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+  },
+  {
+    "name": "Ernest Hemingway",
+    "born": "1899-07-21",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Journalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+  },
+  {
+    "name": "Mark Twain",
+    "born": "1835-11-30",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Humorist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain"
+  },
+  {
+    "name": "Charles Dickens",
+    "born": "1812-02-07",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Social Critic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens"
+  },
+  {
+    "name": "Jane Austen",
+    "born": "1775-12-16",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen"
+  },
+  {
+    "name": "Leo Tolstoy",
+    "born": "1828-09-09",
+    "nationality": "Russian",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+  },
+  {
+    "name": "Fyodor Dostoevsky",
+    "born": "1821-11-11",
+    "nationality": "Russian",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"
+  },
+  {
+    "name": "Franz Kafka",
+    "born": "1883-07-03",
+    "nationality": "Czech",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Short Story Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Kafka"
+  },
+  {
+    "name": "Gabriel García Márquez",
+    "born": "1927-03-06",
+    "nationality": "Colombian",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Journalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+  },
+  {
+    "name": "Virginia Woolf",
+    "born": "1882-01-25",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Essayist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Woolf"
+  },
+  {
+    "name": "Oscar Wilde",
+    "born": "1854-10-16",
+    "nationality": "Irish",
+    "occupation": [
+      "Author",
+      "Playwright",
+      "Poet"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+  },
+  {
+    "name": "Edgar Allan Poe",
+    "born": "1809-01-19",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Poet",
+      "Short Story Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+  },
+  {
+    "name": "Agatha Christie",
+    "born": "1890-09-15",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Playwright"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Agatha_Christie"
+  },
+  {
+    "name": "Arthur Conan Doyle",
+    "born": "1859-05-22",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  {
+    "name": "George R.R. Martin",
+    "born": "1948-09-20",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_R._R._Martin"
+  },
+  {
+    "name": "Brandon Sanderson",
+    "born": "1975-12-19",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandon_Sanderson"
+  },
+  {
+    "name": "Neil Gaiman",
+    "born": "1960-11-10",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Comic Book Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Gaiman"
+  },
+  {
+    "name": "Terry Pratchett",
+    "born": "1948-04-28",
+    "nationality": "British",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Satirist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Pratchett"
+  },
+  {
+    "name": "Isaac Asimov",
+    "born": "1920-01-02",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Biochemist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+  },
+  {
+    "name": "Philip K. Dick",
+    "born": "1928-12-16",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Short Story Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_K._Dick"
+  },
+  {
+    "name": "Ursula K. Le Guin",
+    "born": "1929-10-21",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Essayist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  },
+  {
+    "name": "Toni Morrison",
+    "born": "1931-02-18",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Editor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Morrison"
+  },
+  {
+    "name": "Maya Angelou",
+    "born": "1928-04-04",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Poet",
+      "Memoirist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_Angelou"
+  },
+  {
+    "name": "Margaret Atwood",
+    "born": "1939-11-18",
+    "nationality": "Canadian",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Poet"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Atwood"
+  },
+  {
+    "name": "Kazuo Ishiguro",
+    "born": "1954-11-08",
+    "nationality": "British (Japanese-born)",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro"
+  },
+  {
+    "name": "Chimamanda Ngozi Adichie",
+    "born": "1977-09-15",
+    "nationality": "Nigerian",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Essayist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie"
+  },
+  {
+    "name": "Colleen Hoover",
+    "born": "1979-12-11",
+    "nationality": "American",
+    "occupation": [
+      "Author",
+      "Novelist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Colleen_Hoover"
+  },
+  {
+    "name": "Sally Rooney",
+    "born": "1991-02-20",
+    "nationality": "Irish",
+    "occupation": [
+      "Author",
+      "Novelist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Rooney"
+  },
+  {
+    "name": "Han Kang",
+    "born": "1970-11-27",
+    "nationality": "South Korean",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Poet"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Han_Kang"
+  },
+  {
+    "name": "Paulo Coelho",
+    "born": "1947-08-24",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Author",
+      "Novelist",
+      "Lyricist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Coelho"
+  },
+  {
+    "name": "Pablo Picasso",
+    "born": "1881-10-25",
+    "nationality": "Spanish",
+    "occupation": [
+      "Painter",
+      "Sculptor",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+  },
+  {
+    "name": "Vincent van Gogh",
+    "born": "1853-03-30",
+    "nationality": "Dutch",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+  },
+  {
+    "name": "Frida Kahlo",
+    "born": "1907-07-06",
+    "nationality": "Mexican",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+  },
+  {
+    "name": "Claude Monet",
+    "born": "1840-11-14",
+    "nationality": "French",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Monet"
+  },
+  {
+    "name": "Salvador Dalí",
+    "born": "1904-05-11",
+    "nationality": "Spanish",
+    "occupation": [
+      "Painter",
+      "Sculptor",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+  },
+  {
+    "name": "Andy Warhol",
+    "born": "1928-08-06",
+    "nationality": "American",
+    "occupation": [
+      "Artist",
+      "Painter",
+      "Filmmaker"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Warhol"
+  },
+  {
+    "name": "Banksy",
+    "nationality": "British",
+    "occupation": [
+      "Street Artist",
+      "Painter",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Banksy"
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "born": "1452-04-15",
+    "nationality": "Italian",
+    "occupation": [
+      "Painter",
+      "Sculptor",
+      "Inventor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+  },
+  {
+    "name": "Michelangelo",
+    "born": "1475-03-06",
+    "nationality": "Italian",
+    "occupation": [
+      "Sculptor",
+      "Painter",
+      "Architect"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelangelo"
+  },
+  {
+    "name": "Rembrandt",
+    "born": "1606-07-15",
+    "nationality": "Dutch",
+    "occupation": [
+      "Painter",
+      "Printmaker",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rembrandt"
+  },
+  {
+    "name": "Caravaggio",
+    "born": "1571-09-29",
+    "nationality": "Italian",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Caravaggio"
+  },
+  {
+    "name": "Gustav Klimt",
+    "born": "1862-07-14",
+    "nationality": "Austrian",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Klimt"
+  },
+  {
+    "name": "Edvard Munch",
+    "born": "1863-12-12",
+    "nationality": "Norwegian",
+    "occupation": [
+      "Painter",
+      "Printmaker",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Munch"
+  },
+  {
+    "name": "René Magritte",
+    "born": "1898-11-21",
+    "nationality": "Belgian",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
+  },
+  {
+    "name": "Jackson Pollock",
+    "born": "1912-01-28",
+    "nationality": "American",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+  },
+  {
+    "name": "Jean-Michel Basquiat",
+    "born": "1960-12-22",
+    "nationality": "American",
+    "occupation": [
+      "Painter",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Michel_Basquiat"
+  },
+  {
+    "name": "Keith Haring",
+    "born": "1958-05-04",
+    "nationality": "American",
+    "occupation": [
+      "Artist",
+      "Painter",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Haring"
+  },
+  {
+    "name": "Yayoi Kusama",
+    "born": "1929-03-22",
+    "nationality": "Japanese",
+    "occupation": [
+      "Artist",
+      "Painter",
+      "Sculptor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yayoi_Kusama"
+  },
+  {
+    "name": "Ai Weiwei",
+    "born": "1957-05-28",
+    "nationality": "Chinese",
+    "occupation": [
+      "Artist",
+      "Sculptor",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ai_Weiwei"
+  },
+  {
+    "name": "KAWS",
+    "born": "1974-11-04",
+    "nationality": "American",
+    "occupation": [
+      "Artist",
+      "Designer",
+      "Painter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/KAWS"
+  },
+  {
+    "name": "Takashi Murakami",
+    "born": "1962-02-01",
+    "nationality": "Japanese",
+    "occupation": [
+      "Artist",
+      "Painter",
+      "Sculptor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Takashi_Murakami"
+  },
+  {
+    "name": "Damien Hirst",
+    "born": "1965-06-07",
+    "nationality": "British",
+    "occupation": [
+      "Artist",
+      "Painter",
+      "Sculptor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Damien_Hirst"
+  },
+  {
+    "name": "Socrates",
+    "born": "",
+    "nationality": "Greek",
+    "occupation": [
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Socrates"
+  },
+  {
+    "name": "Plato",
+    "born": "",
+    "nationality": "Greek",
+    "occupation": [
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Plato"
+  },
+  {
+    "name": "Aristotle",
+    "born": "",
+    "nationality": "Greek",
+    "occupation": [
+      "Philosopher",
+      "Polymath"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristotle"
+  },
+  {
+    "name": "Friedrich Nietzsche",
+    "born": "1844-10-15",
+    "nationality": "German",
+    "occupation": [
+      "Philosopher",
+      "Poet",
+      "Cultural Critic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+  },
+  {
+    "name": "Immanuel Kant",
+    "born": "1724-04-22",
+    "nationality": "German",
+    "occupation": [
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Kant"
+  },
+  {
+    "name": "René Descartes",
+    "born": "1596-03-31",
+    "nationality": "French",
+    "occupation": [
+      "Philosopher",
+      "Mathematician",
+      "Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+  },
+  {
+    "name": "John Locke",
+    "born": "1632-08-29",
+    "nationality": "English",
+    "occupation": [
+      "Philosopher",
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Locke"
+  },
+  {
+    "name": "Karl Marx",
+    "born": "1818-05-05",
+    "nationality": "German",
+    "occupation": [
+      "Philosopher",
+      "Economist",
+      "Political Theorist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Marx"
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "born": "1908-01-09",
+    "nationality": "French",
+    "occupation": [
+      "Philosopher",
+      "Author",
+      "Feminist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+  },
+  {
+    "name": "Jean-Paul Sartre",
+    "born": "1905-06-21",
+    "nationality": "French",
+    "occupation": [
+      "Philosopher",
+      "Author",
+      "Playwright"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
+  },
+  {
+    "name": "Michel Foucault",
+    "born": "1926-10-15",
+    "nationality": "French",
+    "occupation": [
+      "Philosopher",
+      "Social Theorist",
+      "Historian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Foucault"
+  },
+  {
+    "name": "Noam Chomsky",
+    "born": "1928-12-07",
+    "nationality": "American",
+    "occupation": [
+      "Philosopher",
+      "Linguist",
+      "Political Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Noam_Chomsky"
+  },
+  {
+    "name": "Slavoj Žižek",
+    "born": "1949-03-21",
+    "nationality": "Slovenian",
+    "occupation": [
+      "Philosopher",
+      "Cultural Critic",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek"
+  },
+  {
+    "name": "Byung-Chul Han",
+    "born": "1959-01-01",
+    "nationality": "South Korean",
+    "occupation": [
+      "Philosopher",
+      "Cultural Theorist",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Byung-Chul_Han"
+  },
+  {
+    "name": "Confucius",
+    "born": "",
+    "nationality": "Chinese",
+    "occupation": [
+      "Philosopher",
+      "Teacher",
+      "Political Theorist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Confucius"
+  },
+  {
+    "name": "Laozi",
+    "born": "",
+    "nationality": "Chinese",
+    "occupation": [
+      "Philosopher",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Laozi"
+  },
+  {
+    "name": "Sun Tzu",
+    "born": "",
+    "nationality": "Chinese",
+    "occupation": [
+      "Philosopher",
+      "Military Strategist",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sun_Tzu"
+  },
+  {
+    "name": "Voltaire",
+    "born": "1694-11-21",
+    "nationality": "French",
+    "occupation": [
+      "Philosopher",
+      "Author",
+      "Historian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Voltaire"
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "born": "1712-06-28",
+    "nationality": "French (Genevan-born)",
+    "occupation": [
+      "Philosopher",
+      "Author",
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
+  },
+  {
+    "name": "Niccolò Machiavelli",
+    "born": "1469-05-03",
+    "nationality": "Italian",
+    "occupation": [
+      "Philosopher",
+      "Political Theorist",
+      "Diplomat"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"
+  },
+  {
+    "name": "Thomas Hobbes",
+    "born": "1588-04-05",
+    "nationality": "English",
+    "occupation": [
+      "Philosopher",
+      "Political Theorist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hobbes"
+  },
+  {
+    "name": "David Hume",
+    "born": "1711-05-07",
+    "nationality": "Scottish",
+    "occupation": [
+      "Philosopher",
+      "Historian",
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Hume"
+  },
+  {
+    "name": "Søren Kierkegaard",
+    "born": "1813-05-05",
+    "nationality": "Danish",
+    "occupation": [
+      "Philosopher",
+      "Author",
+      "Theologian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"
+  },
+  {
+    "name": "Arthur Schopenhauer",
+    "born": "1788-02-22",
+    "nationality": "German",
+    "occupation": [
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer"
+  },
+  {
+    "name": "Hannah Arendt",
+    "born": "1906-10-14",
+    "nationality": "German-American",
+    "occupation": [
+      "Philosopher",
+      "Political Theorist",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Arendt"
+  },
+  {
+    "name": "Hayao Miyazaki",
+    "born": "1941-01-05",
+    "nationality": "Japanese",
+    "occupation": [
+      "Anime Director",
+      "Animator",
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayao_Miyazaki"
+  },
+  {
+    "name": "Akira Toriyama",
+    "born": "1955-04-05",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist",
+      "Character Designer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Akira_Toriyama"
+  },
+  {
+    "name": "Eiichiro Oda",
+    "born": "1975-01-01",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eiichiro_Oda"
+  },
+  {
+    "name": "Masashi Kishimoto",
+    "born": "1974-11-08",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Masashi_Kishimoto"
+  },
+  {
+    "name": "Tite Kubo",
+    "born": "1977-06-26",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tite_Kubo"
+  },
+  {
+    "name": "Hajime Isayama",
+    "born": "1986-08-29",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hajime_Isayama"
+  },
+  {
+    "name": "Gege Akutami",
+    "born": "1992-02-26",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gege_Akutami"
+  },
+  {
+    "name": "Kentaro Miura",
+    "born": "1966-07-11",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kentaro_Miura"
+  },
+  {
+    "name": "Naoko Takeuchi",
+    "born": "1967-03-15",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+  },
+  {
+    "name": "Rumiko Takahashi",
+    "born": "1957-10-10",
+    "nationality": "Japanese",
+    "occupation": [
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rumiko_Takahashi"
+  },
+  {
+    "name": "Hideaki Anno",
+    "born": "1960-05-22",
+    "nationality": "Japanese",
+    "occupation": [
+      "Anime Director",
+      "Animator",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideaki_Anno"
+  },
+  {
+    "name": "Mamoru Hosoda",
+    "born": "1967-09-19",
+    "nationality": "Japanese",
+    "occupation": [
+      "Anime Director",
+      "Animator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamoru_Hosoda"
+  },
+  {
+    "name": "Satoshi Kon",
+    "born": "1963-10-12",
+    "nationality": "Japanese",
+    "occupation": [
+      "Anime Director",
+      "Animator",
+      "Manga Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Kon"
+  },
+  {
+    "name": "Shinichiro Watanabe",
+    "born": "1965-05-24",
+    "nationality": "Japanese",
+    "occupation": [
+      "Anime Director",
+      "Animator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinichiro_Watanabe"
+  },
+  {
+    "name": "Shigeru Miyamoto",
+    "born": "1952-11-16",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Producer",
+      "Director"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto"
+  },
+  {
+    "name": "Hideo Kojima",
+    "born": "1963-08-24",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Game Director",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideo_Kojima"
+  },
+  {
+    "name": "Hidetaka Miyazaki",
+    "born": "1974-01-19",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Game Director",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hidetaka_Miyazaki"
+  },
+  {
+    "name": "Todd Howard",
+    "born": "1971-04-09",
+    "nationality": "American",
+    "occupation": [
+      "Game Designer",
+      "Game Director",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Todd_Howard"
+  },
+  {
+    "name": "Gabe Newell",
+    "born": "1962-11-03",
+    "nationality": "American",
+    "occupation": [
+      "Game Designer",
+      "Entrepreneur",
+      "CEO"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabe_Newell"
+  },
+  {
+    "name": "John Carmack",
+    "born": "1970-08-20",
+    "nationality": "American",
+    "occupation": [
+      "Game Designer",
+      "Programmer",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Carmack"
+  },
+  {
+    "name": "Sid Meier",
+    "born": "1954-02-24",
+    "nationality": "American (Canadian-born)",
+    "occupation": [
+      "Game Designer",
+      "Programmer",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sid_Meier"
+  },
+  {
+    "name": "Will Wright",
+    "born": "1960-01-20",
+    "nationality": "American",
+    "occupation": [
+      "Game Designer",
+      "Programmer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Will_Wright_(game_designer)"
+  },
+  {
+    "name": "Markus Persson",
+    "born": "1979-06-01",
+    "nationality": "Swedish",
+    "occupation": [
+      "Game Designer",
+      "Programmer",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Markus_Persson"
+  },
+  {
+    "name": "Yoko Taro",
+    "born": "1970-01-06",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Game Director",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoko_Taro"
+  },
+  {
+    "name": "Fumito Ueda",
+    "born": "1970-01-01",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Game Director",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fumito_Ueda"
+  },
+  {
+    "name": "Masahiro Sakurai",
+    "born": "1970-08-03",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Game Director"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Masahiro_Sakurai"
+  },
+  {
+    "name": "Yu Suzuki",
+    "born": "1958-06-10",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Programmer",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yu_Suzuki"
+  },
+  {
+    "name": "Shinji Mikami",
+    "born": "1965-08-11",
+    "nationality": "Japanese",
+    "occupation": [
+      "Game Designer",
+      "Game Director",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinji_Mikami"
+  },
+  {
+    "name": "Neil Druckmann",
+    "born": "1978-12-05",
+    "nationality": "Israeli-American",
+    "occupation": [
+      "Game Designer",
+      "Game Director",
+      "Screenwriter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Druckmann"
+  },
+  {
+    "name": "Pelé",
+    "born": "1940-10-23",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Footballer",
+      "Athlete",
+      "Ambassador"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pel%C3%A9"
+  },
+  {
+    "name": "Diego Maradona",
+    "born": "1960-10-30",
+    "nationality": "Argentine",
+    "occupation": [
+      "Footballer",
+      "Athlete",
+      "Coach"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Maradona"
+  },
+  {
+    "name": "Zinedine Zidane",
+    "born": "1972-06-23",
+    "nationality": "French",
+    "occupation": [
+      "Footballer",
+      "Coach",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zinedine_Zidane"
+  },
+  {
+    "name": "Ronaldinho",
+    "born": "1980-03-21",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Footballer",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronaldinho"
+  },
+  {
+    "name": "Ronaldo Nazário",
+    "born": "1976-09-18",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Footballer",
+      "Athlete",
+      "Businessman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)"
+  },
+  {
+    "name": "Thierry Henry",
+    "born": "1977-08-17",
+    "nationality": "French",
+    "occupation": [
+      "Footballer",
+      "Coach",
+      "TV Pundit"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thierry_Henry"
+  },
+  {
+    "name": "David Beckham",
+    "born": "1975-05-02",
+    "nationality": "British",
+    "occupation": [
+      "Footballer",
+      "Entrepreneur",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Beckham"
+  },
+  {
+    "name": "Zlatan Ibrahimovic",
+    "born": "1981-10-03",
+    "nationality": "Swedish",
+    "occupation": [
+      "Footballer",
+      "Athlete",
+      "Executive"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87"
+  },
+  {
+    "name": "Neymar",
+    "born": "1992-02-05",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Footballer",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neymar"
+  },
+  {
+    "name": "Kylian Mbappé",
+    "born": "1998-12-20",
+    "nationality": "French",
+    "occupation": [
+      "Footballer",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9"
+  },
+  {
+    "name": "Erling Haaland",
+    "born": "2000-07-21",
+    "nationality": "Norwegian",
+    "occupation": [
+      "Footballer",
+      "Striker",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Erling_Haaland"
+  },
+  {
+    "name": "Robert Lewandowski",
+    "born": "1988-08-21",
+    "nationality": "Polish",
+    "occupation": [
+      "Footballer",
+      "Striker",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Lewandowski"
+  },
+  {
+    "name": "Karim Benzema",
+    "born": "1987-12-19",
+    "nationality": "French",
+    "occupation": [
+      "Footballer",
+      "Striker",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Karim_Benzema"
+  },
+  {
+    "name": "Luka Modric",
+    "born": "1985-09-09",
+    "nationality": "Croatian",
+    "occupation": [
+      "Footballer",
+      "Midfielder",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+  },
+  {
+    "name": "Toni Kroos",
+    "born": "1990-01-04",
+    "nationality": "German",
+    "occupation": [
+      "Footballer",
+      "Midfielder",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Kroos"
+  },
+  {
+    "name": "Andrés Iniesta",
+    "born": "1984-05-11",
+    "nationality": "Spanish",
+    "occupation": [
+      "Footballer",
+      "Midfielder",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta"
+  },
+  {
+    "name": "Xavi Hernandez",
+    "born": "1980-01-25",
+    "nationality": "Spanish",
+    "occupation": [
+      "Footballer",
+      "Coach",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Xavi"
+  },
+  {
+    "name": "Sergio Ramos",
+    "born": "1986-03-30",
+    "nationality": "Spanish",
+    "occupation": [
+      "Footballer",
+      "Defender",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergio_Ramos"
+  },
+  {
+    "name": "Gianluigi Buffon",
+    "born": "1978-01-28",
+    "nationality": "Italian",
+    "occupation": [
+      "Footballer",
+      "Goalkeeper",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianluigi_Buffon"
+  },
+  {
+    "name": "Paolo Maldini",
+    "born": "1968-06-26",
+    "nationality": "Italian",
+    "occupation": [
+      "Footballer",
+      "Defender",
+      "Executive"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Maldini"
+  },
+  {
+    "name": "Vinicius Jr.",
+    "born": "2000-07-12",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Footballer",
+      "Winger",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vinicius_J%C3%BAnior"
+  },
+  {
+    "name": "Mohamed Salah",
+    "born": "1992-06-15",
+    "nationality": "Egyptian",
+    "occupation": [
+      "Footballer",
+      "Winger",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Salah"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "born": "1991-06-28",
+    "nationality": "Belgian",
+    "occupation": [
+      "Footballer",
+      "Midfielder",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
+  },
+  {
+    "name": "Son Heung-min",
+    "born": "1992-07-08",
+    "nationality": "South Korean",
+    "occupation": [
+      "Footballer",
+      "Winger",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Son_Heung-min"
+  },
+  {
+    "name": "Harry Kane",
+    "born": "1993-07-28",
+    "nationality": "English",
+    "occupation": [
+      "Footballer",
+      "Striker",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Kane"
+  },
+  {
+    "name": "Bukayo Saka",
+    "born": "2001-09-05",
+    "nationality": "English",
+    "occupation": [
+      "Footballer",
+      "Winger",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bukayo_Saka"
+  },
+  {
+    "name": "Phil Foden",
+    "born": "2000-05-28",
+    "nationality": "English",
+    "occupation": [
+      "Footballer",
+      "Midfielder",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Foden"
+  },
+  {
+    "name": "Lionel Scaloni",
+    "born": "1978-05-16",
+    "nationality": "Argentine",
+    "occupation": [
+      "Football Coach",
+      "Manager",
+      "Former Footballer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Scaloni"
+  },
+  {
+    "name": "Roger Federer",
+    "born": "1981-08-08",
+    "nationality": "Swiss",
+    "occupation": [
+      "Tennis Player",
+      "Athlete",
+      "Businessman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Federer"
+  },
+  {
+    "name": "Rafael Nadal",
+    "born": "1986-06-03",
+    "nationality": "Spanish",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rafael_Nadal"
+  },
+  {
+    "name": "Novak Djokovic",
+    "born": "1987-05-22",
+    "nationality": "Serbian",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Novak_Djokovic"
+  },
+  {
+    "name": "Serena Williams",
+    "born": "1981-09-26",
+    "nationality": "American",
+    "occupation": [
+      "Tennis Player",
+      "Athlete",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Serena_Williams"
+  },
+  {
+    "name": "Venus Williams",
+    "born": "1980-06-17",
+    "nationality": "American",
+    "occupation": [
+      "Tennis Player",
+      "Athlete",
+      "Businesswoman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Venus_Williams"
+  },
+  {
+    "name": "Naomi Osaka",
+    "born": "1997-10-16",
+    "nationality": "Japanese",
+    "occupation": [
+      "Tennis Player",
+      "Athlete",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Naomi_Osaka"
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "born": "2003-05-05",
+    "nationality": "Spanish",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Alcaraz"
+  },
+  {
+    "name": "Iga Swiatek",
+    "born": "2001-05-31",
+    "nationality": "Polish",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek"
+  },
+  {
+    "name": "Coco Gauff",
+    "born": "2004-03-13",
+    "nationality": "American",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Coco_Gauff"
+  },
+  {
+    "name": "Steffi Graf",
+    "born": "1969-06-14",
+    "nationality": "German",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Steffi_Graf"
+  },
+  {
+    "name": "Andre Agassi",
+    "born": "1970-04-29",
+    "nationality": "American",
+    "occupation": [
+      "Tennis Player",
+      "Athlete",
+      "Philanthropist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andre_Agassi"
+  },
+  {
+    "name": "Pete Sampras",
+    "born": "1971-08-12",
+    "nationality": "American",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Sampras"
+  },
+  {
+    "name": "Bjorn Borg",
+    "born": "1956-06-06",
+    "nationality": "Swedish",
+    "occupation": [
+      "Tennis Player",
+      "Athlete",
+      "Businessman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg"
+  },
+  {
+    "name": "John McEnroe",
+    "born": "1959-02-16",
+    "nationality": "American",
+    "occupation": [
+      "Tennis Player",
+      "TV Commentator",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_McEnroe"
+  },
+  {
+    "name": "Andy Murray",
+    "born": "1987-05-15",
+    "nationality": "British",
+    "occupation": [
+      "Tennis Player",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Murray"
+  },
+  {
+    "name": "Muhammad Ali",
+    "born": "1942-01-17",
+    "nationality": "American",
+    "occupation": [
+      "Boxer",
+      "Athlete",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Ali"
+  },
+  {
+    "name": "Mike Tyson",
+    "born": "1966-06-30",
+    "nationality": "American",
+    "occupation": [
+      "Boxer",
+      "Athlete",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mike_Tyson"
+  },
+  {
+    "name": "Floyd Mayweather Jr.",
+    "born": "1977-02-24",
+    "nationality": "American",
+    "occupation": [
+      "Boxer",
+      "Athlete",
+      "Promoter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr."
+  },
+  {
+    "name": "Manny Pacquiao",
+    "born": "1978-12-17",
+    "nationality": "Filipino",
+    "occupation": [
+      "Boxer",
+      "Athlete",
+      "Politician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Manny_Pacquiao"
+  },
+  {
+    "name": "Conor McGregor",
+    "born": "1988-07-14",
+    "nationality": "Irish",
+    "occupation": [
+      "MMA Fighter",
+      "Boxer",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Conor_McGregor"
+  },
+  {
+    "name": "Canelo Álvarez",
+    "born": "1990-07-18",
+    "nationality": "Mexican",
+    "occupation": [
+      "Boxer",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez"
+  },
+  {
+    "name": "Tyson Fury",
+    "born": "1988-08-12",
+    "nationality": "British",
+    "occupation": [
+      "Boxer",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyson_Fury"
+  },
+  {
+    "name": "Anthony Joshua",
+    "born": "1989-10-15",
+    "nationality": "British",
+    "occupation": [
+      "Boxer",
+      "Athlete",
+      "Businessman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Joshua"
+  },
+  {
+    "name": "Deontay Wilder",
+    "born": "1985-10-22",
+    "nationality": "American",
+    "occupation": [
+      "Boxer",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Deontay_Wilder"
+  },
+  {
+    "name": "Sugar Ray Leonard",
+    "born": "1956-05-17",
+    "nationality": "American",
+    "occupation": [
+      "Boxer",
+      "Athlete",
+      "TV Commentator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugar_Ray_Leonard"
+  },
+  {
+    "name": "Oscar De La Hoya",
+    "born": "1973-02-04",
+    "nationality": "American",
+    "occupation": [
+      "Boxer",
+      "Promoter",
+      "Athlete"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_De_La_Hoya"
+  },
+  {
+    "name": "Amanda Nunes",
+    "born": "1988-05-30",
+    "nationality": "Brazilian",
+    "occupation": [
+      "MMA Fighter",
+      "Athlete",
+      "UFC Champion"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amanda_Nunes"
+  },
+  {
+    "name": "Khabib Nurmagomedov",
+    "born": "1988-09-20",
+    "nationality": "Russian",
+    "occupation": [
+      "MMA Fighter",
+      "Athlete",
+      "Coach"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Khabib_Nurmagomedov"
+  },
+  {
+    "name": "Jon Jones",
+    "born": "1987-07-19",
+    "nationality": "American",
+    "occupation": [
+      "MMA Fighter",
+      "Athlete",
+      "UFC Champion"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jon_Jones"
+  },
+  {
+    "name": "Israel Adesanya",
+    "born": "1989-07-22",
+    "nationality": "New Zealander (Nigerian-born)",
+    "occupation": [
+      "MMA Fighter",
+      "Athlete",
+      "UFC Champion"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Israel_Adesanya"
+  },
+  {
+    "name": "Queen Elizabeth II",
+    "born": "1926-04-21",
+    "nationality": "British",
+    "occupation": [
+      "Monarch",
+      "Head of State",
+      "Queen"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_II"
+  },
+  {
+    "name": "King Charles III",
+    "born": "1948-11-14",
+    "nationality": "British",
+    "occupation": [
+      "Monarch",
+      "King",
+      "Environmentalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_III"
+  },
+  {
+    "name": "Princess Diana",
+    "born": "1961-07-01",
+    "nationality": "British",
+    "occupation": [
+      "Princess of Wales",
+      "Humanitarian",
+      "Icon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales"
+  },
+  {
+    "name": "Prince William",
+    "born": "1982-06-21",
+    "nationality": "British",
+    "occupation": [
+      "Prince of Wales",
+      "Royal",
+      "Philanthropist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/William,_Prince_of_Wales"
+  },
+  {
+    "name": "Prince Harry",
+    "born": "1984-09-15",
+    "nationality": "British",
+    "occupation": [
+      "Duke of Sussex",
+      "Royal",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Prince_Harry,_Duke_of_Sussex"
+  },
+  {
+    "name": "Catherine, Princess of Wales",
+    "born": "1982-01-09",
+    "nationality": "British",
+    "occupation": [
+      "Princess of Wales",
+      "Royal",
+      "Patron"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine,_Princess_of_Wales"
+  },
+  {
+    "name": "Meghan Markle",
+    "born": "1981-08-04",
+    "nationality": "American",
+    "occupation": [
+      "Duchess of Sussex",
+      "Actress",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Meghan,_Duchess_of_Sussex"
+  },
+  {
+    "name": "Queen Victoria",
+    "born": "1819-05-24",
+    "nationality": "British",
+    "occupation": [
+      "Monarch",
+      "Queen",
+      "Empress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Queen_Victoria"
+  },
+  {
+    "name": "Emperor Hirohito",
+    "born": "1901-04-29",
+    "nationality": "Japanese",
+    "occupation": [
+      "Emperor",
+      "Monarch",
+      "Marine Biologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hirohito"
+  },
+  {
+    "name": "Emperor Naruhito",
+    "born": "1960-02-23",
+    "nationality": "Japanese",
+    "occupation": [
+      "Emperor",
+      "Monarch",
+      "Scholar"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Naruhito"
+  },
+  {
+    "name": "Crown Prince Mohammed bin Salman",
+    "born": "1985-08-31",
+    "nationality": "Saudi Arabian",
+    "occupation": [
+      "Crown Prince",
+      "Prime Minister",
+      "Royal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman"
+  },
+  {
+    "name": "King Felipe VI",
+    "born": "1968-01-30",
+    "nationality": "Spanish",
+    "occupation": [
+      "Monarch",
+      "King",
+      "Former Olympian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Felipe_VI_of_Spain"
+  },
+  {
+    "name": "Queen Letizia",
+    "born": "1972-09-15",
+    "nationality": "Spanish",
+    "occupation": [
+      "Queen Consort",
+      "Royal",
+      "Former Journalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Letizia_of_Spain"
+  },
+  {
+    "name": "King Willem-Alexander",
+    "born": "1967-04-27",
+    "nationality": "Dutch",
+    "occupation": [
+      "Monarch",
+      "King",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Willem-Alexander_of_the_Netherlands"
+  },
+  {
+    "name": "Dave Chappelle",
+    "born": "1973-08-24",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dave_Chappelle"
+  },
+  {
+    "name": "Kevin Hart",
+    "born": "1979-07-06",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Hart"
+  },
+  {
+    "name": "Ali Wong",
+    "born": "1982-04-19",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ali_Wong"
+  },
+  {
+    "name": "John Mulaney",
+    "born": "1982-08-26",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Writer",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mulaney"
+  },
+  {
+    "name": "Trevor Noah",
+    "born": "1984-02-20",
+    "nationality": "South African",
+    "occupation": [
+      "Comedian",
+      "TV Host",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevor_Noah"
+  },
+  {
+    "name": "Hannah Gadsby",
+    "born": "1978-01-12",
+    "nationality": "Australian",
+    "occupation": [
+      "Comedian",
+      "Writer",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Gadsby"
+  },
+  {
+    "name": "Bo Burnham",
+    "born": "1990-08-21",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Singer",
+      "Film Director"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bo_Burnham"
+  },
+  {
+    "name": "Jerry Seinfeld",
+    "born": "1954-04-29",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Seinfeld"
+  },
+  {
+    "name": "Chris Rock",
+    "born": "1965-02-07",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Director"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Rock"
+  },
+  {
+    "name": "Eddie Murphy",
+    "born": "1961-04-03",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Murphy"
+  },
+  {
+    "name": "Robin Williams",
+    "born": "1951-07-21",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robin_Williams"
+  },
+  {
+    "name": "Jim Carrey",
+    "born": "1962-01-17",
+    "nationality": "Canadian-American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Carrey"
+  },
+  {
+    "name": "Steve Martin",
+    "born": "1945-08-14",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Playwright"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Martin"
+  },
+  {
+    "name": "Bill Murray",
+    "born": "1950-09-21",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Murray"
+  },
+  {
+    "name": "Ricky Gervais",
+    "born": "1961-06-25",
+    "nationality": "British",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ricky_Gervais"
+  },
+  {
+    "name": "Russell Brand",
+    "born": "1975-06-04",
+    "nationality": "British",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Brand"
+  },
+  {
+    "name": "Conan O'Brien",
+    "born": "1963-04-18",
+    "nationality": "American",
+    "occupation": [
+      "TV Host",
+      "Comedian",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Conan_O%27Brien"
+  },
+  {
+    "name": "Jimmy Fallon",
+    "born": "1974-09-19",
+    "nationality": "American",
+    "occupation": [
+      "TV Host",
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Fallon"
+  },
+  {
+    "name": "Stephen Colbert",
+    "born": "1964-05-13",
+    "nationality": "American",
+    "occupation": [
+      "TV Host",
+      "Comedian",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Colbert"
+  },
+  {
+    "name": "John Oliver",
+    "born": "1977-04-23",
+    "nationality": "British-American",
+    "occupation": [
+      "TV Host",
+      "Comedian",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Oliver"
+  },
+  {
+    "name": "Kim Kardashian",
+    "born": "1980-10-21",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "Entrepreneur",
+      "Media Personality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Kardashian"
+  },
+  {
+    "name": "Kylie Jenner",
+    "born": "1997-08-10",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "Entrepreneur",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kylie_Jenner"
+  },
+  {
+    "name": "Khloé Kardashian",
+    "born": "1984-06-27",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "Entrepreneur",
+      "Media Personality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Khlo%C3%A9_Kardashian"
+  },
+  {
+    "name": "Kourtney Kardashian",
+    "born": "1979-04-18",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "Entrepreneur",
+      "Media Personality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kourtney_Kardashian"
+  },
+  {
+    "name": "Kris Jenner",
+    "born": "1955-11-05",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "Manager",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kris_Jenner"
+  },
+  {
+    "name": "Paris Hilton",
+    "born": "1981-02-17",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "DJ",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris_Hilton"
+  },
+  {
+    "name": "Gordon Ramsay",
+    "born": "1966-11-08",
+    "nationality": "British",
+    "occupation": [
+      "Chef",
+      "TV Host",
+      "Restaurateur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Ramsay"
+  },
+  {
+    "name": "Simon Cowell",
+    "born": "1959-10-07",
+    "nationality": "British",
+    "occupation": [
+      "TV Producer",
+      "TV Host",
+      "Music Executive"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Cowell"
+  },
+  {
+    "name": "Martha Stewart",
+    "born": "1941-08-03",
+    "nationality": "American",
+    "occupation": [
+      "TV Host",
+      "Entrepreneur",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Stewart"
+  },
+  {
+    "name": "Ryan Reynolds",
+    "born": "1976-10-23",
+    "nationality": "Canadian-American",
+    "occupation": [
+      "Actor",
+      "Entrepreneur",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Reynolds"
+  },
+  {
+    "name": "Dwayne Johnson",
+    "born": "1972-05-02",
+    "nationality": "American",
+    "occupation": [
+      "Actor",
+      "Wrestler",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwayne_Johnson"
+  },
+  {
+    "name": "Caitlyn Jenner",
+    "born": "1949-10-28",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "Former Athlete",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Caitlyn_Jenner"
+  },
+  {
+    "name": "Rob Kardashian",
+    "born": "1987-03-17",
+    "nationality": "American",
+    "occupation": [
+      "Reality TV Star",
+      "Entrepreneur",
+      "Media Personality"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rob_Kardashian"
+  },
+  {
+    "name": "Martin Luther King Jr.",
+    "born": "1929-01-15",
+    "nationality": "American",
+    "occupation": [
+      "Civil Rights Leader",
+      "Minister",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+  },
+  {
+    "name": "Rosa Parks",
+    "born": "1913-02-04",
+    "nationality": "American",
+    "occupation": [
+      "Civil Rights Activist",
+      "Seamstress",
+      "Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosa_Parks"
+  },
+  {
+    "name": "Malala Yousafzai",
+    "born": "1997-07-12",
+    "nationality": "Pakistani",
+    "occupation": [
+      "Activist",
+      "Author",
+      "Education Advocate"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Malala_Yousafzai"
+  },
+  {
+    "name": "Greta Thunberg",
+    "born": "2003-01-03",
+    "nationality": "Swedish",
+    "occupation": [
+      "Climate Activist",
+      "Author",
+      "Speaker"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Greta_Thunberg"
+  },
+  {
+    "name": "Nelson Mandela",
+    "born": "1918-07-18",
+    "nationality": "South African",
+    "occupation": [
+      "President",
+      "Anti-Apartheid Activist",
+      "Lawyer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "born": "1869-10-02",
+    "nationality": "Indian",
+    "occupation": [
+      "Independence Activist",
+      "Lawyer",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+  },
+  {
+    "name": "Desmond Tutu",
+    "born": "1931-10-07",
+    "nationality": "South African",
+    "occupation": [
+      "Archbishop",
+      "Anti-Apartheid Activist",
+      "Theologian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Desmond_Tutu"
+  },
+  {
+    "name": "Harvey Milk",
+    "born": "1930-05-22",
+    "nationality": "American",
+    "occupation": [
+      "Politician",
+      "LGBT Rights Activist",
+      "Businessman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Milk"
+  },
+  {
+    "name": "Gloria Steinem",
+    "born": "1934-03-25",
+    "nationality": "American",
+    "occupation": [
+      "Feminist Activist",
+      "Journalist",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Steinem"
+  },
+  {
+    "name": "Angela Davis",
+    "born": "1944-01-26",
+    "nationality": "American",
+    "occupation": [
+      "Political Activist",
+      "Author",
+      "Academic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Angela_Davis"
+  },
+  {
+    "name": "Wangari Maathai",
+    "born": "1940-04-01",
+    "nationality": "Kenyan",
+    "occupation": [
+      "Environmental Activist",
+      "Politician",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wangari_Maathai"
+  },
+  {
+    "name": "Rigoberta Menchú",
+    "born": "1959-01-09",
+    "nationality": "Guatemalan",
+    "occupation": [
+      "Indigenous Rights Activist",
+      "Author",
+      "Nobel Laureate"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rigoberta_Mench%C3%BA"
+  },
+  {
+    "name": "Bryan Stevenson",
+    "born": "1959-11-14",
+    "nationality": "American",
+    "occupation": [
+      "Lawyer",
+      "Social Justice Activist",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Stevenson"
+  },
+  {
+    "name": "Tarana Burke",
+    "born": "1973-09-12",
+    "nationality": "American",
+    "occupation": [
+      "Activist",
+      "MeToo Founder",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tarana_Burke"
   }
 ]
