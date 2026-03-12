@@ -1,0 +1,1 @@
+The article has been written to `content/articles/anitta.md`. It follows the same format as the existing articles in the project, covering Anitta's background, rise from Honório Gurgel in Rio de Janeiro, global breakthrough with "Envolver," controversies around her political endorsements and public persona, and her legacy as Brazil's foremost pop export.

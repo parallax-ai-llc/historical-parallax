@@ -1,0 +1,1 @@
+The article for Chitose Abe has been written to `content/articles/chitose-abe.md`.

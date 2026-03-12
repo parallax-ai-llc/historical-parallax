@@ -1,0 +1,1 @@
+Article written to `content/articles/newjeans.md`. It covers their formation under ADOR, unconventional debut strategy, chart records including Billboard 200 #1, major brand partnerships, the Min Hee-jin/HYBE corporate dispute, contract termination, and their influence on fourth-generation K-pop — all within ~580 words of body content.

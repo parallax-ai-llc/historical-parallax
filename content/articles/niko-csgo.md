@@ -1,0 +1,1 @@
+The article has been written to `content/articles/niko.md`. It covers NiKo's background from Sarajevo, his career trajectory through mousesports, FaZe Clan, and G2 Esports, key achievements including multiple HLTV top rankings and tournament wins, the IGL controversy on FaZe, and his legacy as one of Counter-Strike's greatest riflers.

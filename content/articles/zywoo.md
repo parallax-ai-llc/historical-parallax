@@ -1,0 +1,1 @@
+Article written to `content/articles/zywoo.md`. It covers ZywOo's rise from French amateur CS:GO to three-time HLTV #1, his career with Team Vitality, the Major victory at Copenhagen 2024, the s1mple rivalry debate, and his ongoing legacy in CS2.

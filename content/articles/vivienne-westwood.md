@@ -1,0 +1,1 @@
+Article written to `content/articles/vivienne-westwood.md`. It includes her death date (2022-12-29), covers all requested sections with factual detail — punk origins with McLaren, British Designer of the Year awards, DBE honour, activism, controversies, and lasting influence — within the 400–600 word body target.

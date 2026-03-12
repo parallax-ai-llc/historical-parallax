@@ -1,0 +1,1 @@
+The article has been written to `content/articles/elige.md`. It covers EliGE's career from his early days in New Jersey through his legendary tenure on Team Liquid, the 2019 Intel Grand Slam dominance, his iconic ESL One Cologne 2016 performance, and his legacy as the greatest North American rifler in Counter-Strike history.

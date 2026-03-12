@@ -1,0 +1,1 @@
+Article written to `content/articles/21-savage.md`. It covers his London birth and Atlanta upbringing, rise through *Savage Mode* and "Rockstar," Grammy win for "A Lot," the 2019 ICE arrest and immigration controversy, community activism, and lasting influence on trap music — all within ~560 words of body content.

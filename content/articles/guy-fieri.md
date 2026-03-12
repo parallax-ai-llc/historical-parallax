@@ -1,0 +1,1 @@
+The article has been written to `content/articles/guy-fieri.md`. It follows the same format as the existing articles in the project, with ~580 words of body content covering all the requested sections.

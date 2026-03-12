@@ -1,0 +1,1 @@
+The article has been written to `content/articles/thomas-keller.md`. It follows the same format as the existing articles and covers Keller's life from Camp Pendleton to The French Laundry and Per Se, including key achievements, the notable Pete Wells review controversy, and his lasting influence on American fine dining.

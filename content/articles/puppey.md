@@ -1,0 +1,1 @@
+The article has been written to `content/articles/puppey.md`. It covers Puppey's life from his upbringing in Estonia through his TI1 victory with Na'Vi, the founding of Team Secret, his record TI attendance streak, the 2016 payment controversies, and his lasting legacy as one of Dota 2's greatest captains.

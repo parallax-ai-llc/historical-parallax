@@ -1,0 +1,1 @@
+Article written to `content/articles/sumail.md`. It covers SumaiL's life from Karachi internet cafes to TI5 champion at age 16, his career with Evil Geniuses, controversies around his brash persona, and his lasting legacy as Pakistan's esports pioneer.

@@ -1,0 +1,1 @@
+The article for f0rest has been written to `content/articles/f0rest.md`.

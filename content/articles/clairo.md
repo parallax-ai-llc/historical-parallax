@@ -1,0 +1,1 @@
+The article for Clairo has been written to `content/articles/clairo.md`.

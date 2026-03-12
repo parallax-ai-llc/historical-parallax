@@ -1,0 +1,1 @@
+Article written to `content/articles/ariana-grande.md`. It covers her early life in Boca Raton, Nickelodeon career, chart-topping albums, the historic Billboard Hot 100 achievement, Manchester Arena bombing and benefit concert, and her role in *Wicked* — all within ~550 words of body content.

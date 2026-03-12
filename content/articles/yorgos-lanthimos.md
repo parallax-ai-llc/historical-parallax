@@ -1,0 +1,1 @@
+Article created at `content/articles/yorgos-lanthimos.md`. It covers his Athens upbringing and film school education, breakthrough with *Dogtooth* at Cannes, transition to English-language filmmaking, key achievements including *The Favourite* and *Poor Things*, critical reception debates, and his legacy within the Greek Weird Wave and contemporary cinema.

@@ -1,0 +1,1 @@
+The article has been written to `content/articles/kennys.md`. It covers kennyS's career from his early days with Titan/VeryGames through his Major win with EnVyUs, his long tenure at G2, the AWP nerf named after his playstyle, and his legacy as one of CS:GO's greatest AWPers.

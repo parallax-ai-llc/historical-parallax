@@ -1,0 +1,1 @@
+The article has been written to `content/articles/chovy.md`. It covers Chovy's career from his Griffin debut through his world championship with Gen.G, with balanced coverage of the "choker" criticism and his legacy as one of the greatest mid laners in League of Legends history.

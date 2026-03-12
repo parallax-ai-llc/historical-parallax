@@ -1,0 +1,1 @@
+The article has been written to `content/articles/fallen.md`. It covers FalleN's journey from São Paulo through the Luminosity/SK Gaming dynasty, his back-to-back Major wins in 2016, the Games Academy initiative, his later career through MIBR and beyond, and his lasting legacy as the "Professor" of Brazilian Counter-Strike.

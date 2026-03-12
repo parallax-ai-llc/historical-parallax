@@ -1,0 +1,1 @@
+Article written to `content/articles/childish-gambino.md`.

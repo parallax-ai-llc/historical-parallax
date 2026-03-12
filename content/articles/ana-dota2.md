@@ -1,0 +1,1 @@
+The article has been written to `content/articles/ana.md`. It covers ana (Anathan Pham) — the two-time TI-winning Australian Dota 2 carry player — with sections on his early life, rise through OG, key achievements at TI8 and TI9, his breaks from competition, and his lasting legacy in competitive Dota 2.

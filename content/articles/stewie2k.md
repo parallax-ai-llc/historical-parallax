@@ -1,0 +1,1 @@
+The article has been written to `content/articles/stewie2k.md`. It covers Stewie2K's background, his rise through Cloud9, the historic ELEAGUE Boston Major 2018 win, his stints with MIBR and Team Liquid, key achievements, controversies around roster moves, and his legacy as an NA CS trailblazer.

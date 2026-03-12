@@ -1,0 +1,1 @@
+The article has been written to `content/articles/get-right.md`. It covers GeT_RiGhT's career from his 1.6 days with Fnatic and SK Gaming, through NiP's historic 87-map win streak and Major victory, his back-to-back HLTV #1 awards (2013–2014), his battle with Crohn's disease, and his lasting legacy as the greatest lurker in Counter-Strike history.

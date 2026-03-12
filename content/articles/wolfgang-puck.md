@@ -1,0 +1,1 @@
+Article written to `content/articles/wolfgang-puck.md`.

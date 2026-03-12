@@ -1,0 +1,1 @@
+The article has been written to `content/articles/bjergsen.md`. It covers Bjergsen's career from his origins in Denmark through his dominant TSM era, coaching stint, and return to play — with balanced coverage of his international shortcomings and his legacy as NA's greatest player.

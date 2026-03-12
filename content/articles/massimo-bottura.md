@@ -1,0 +1,1 @@
+The article has been written to `content/articles/massimo-bottura.md`. It covers Bottura's background in Modena, his training under Ducasse and Adrià, the rise of Osteria Francescana to World's Best Restaurant (2016, 2018), his Food for Soul initiative, criticisms from traditionalists, and his broader legacy in gastronomy and food activism.

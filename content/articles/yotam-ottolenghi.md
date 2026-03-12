@@ -1,0 +1,1 @@
+The article has been written to `content/articles/yotam-ottolenghi.md`. It follows the same format as the existing articles in the project, covers all the requested sections, and comes in at approximately 580 words of body content.

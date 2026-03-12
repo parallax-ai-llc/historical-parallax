@@ -1,0 +1,1 @@
+Article written to `content/articles/alix-earle.md`. It covers her New Jersey upbringing and University of Miami education, the GRWM video format that drove her viral growth, the Tarte Dubai trip, the "Alix Earle effect" on consumer products, family-related controversies, and her influence on the shift toward authenticity-driven creator culture — ~580 words of body content.

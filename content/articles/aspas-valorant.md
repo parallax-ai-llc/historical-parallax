@@ -1,0 +1,1 @@
+The article has been written to `content/articles/aspas.md`. It covers aspas's rise from the Brazilian Valorant scene through LOUD's international dominance, his Champions 2022 MVP performance, key achievements including two major international titles, and his legacy as one of Valorant's most iconic players.

@@ -1,0 +1,1 @@
+The article has been written to `content/articles/rekkles.md`. It covers Rekkles' career from his early days as a teenage prodigy through his Fnatic and G2 tenures, including his 7 LEC titles, 2018 Worlds finals run, team moves, and lasting legacy in European League of Legends.

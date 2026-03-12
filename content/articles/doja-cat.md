@@ -1,0 +1,1 @@
+Article written to `content/articles/doja-cat.md`. It covers her LA upbringing, viral "Mooo!" breakthrough, chart success with *Hot Pink* and *Planet Her*, Grammy wins, the pivot to rap on *Scarlet*, controversies around chat room incidents and fan disputes, and her cultural influence — all within ~580 words of body content.

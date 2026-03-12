@@ -1,0 +1,1 @@
+The article for Phoebe Philo has been written to `content/articles/phoebe-philo.md`.

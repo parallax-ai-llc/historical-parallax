@@ -1,0 +1,1 @@
+Article written to `content/articles/oscar-de-la-renta.md`.

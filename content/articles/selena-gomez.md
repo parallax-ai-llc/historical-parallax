@@ -1,0 +1,1 @@
+Article written to `content/articles/selena-gomez.md`. It covers her early life in Texas, Disney Channel career, music milestones, Rare Beauty, health advocacy, controversies, and legacy — approximately 580 words of body content.

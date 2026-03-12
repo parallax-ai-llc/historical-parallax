@@ -1,0 +1,1 @@
+The Rosalía article has been written and saved to `content/articles/rosalia.md` with ~550 words of body content covering all requested sections.

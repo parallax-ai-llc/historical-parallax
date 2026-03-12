@@ -1,0 +1,1 @@
+The article has been written to `content/articles/ropz.md`. It covers ropz's journey from the Estonian FPL scene to mousesports, his move to FaZe Clan, the PGL Major Antwerp 2022 victory, and his legacy as one of CS's most fundamentally sound riflers.

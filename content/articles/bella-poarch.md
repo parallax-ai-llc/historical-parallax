@@ -1,0 +1,1 @@
+Article written to `content/articles/bella-poarch.md`. It covers her Filipino upbringing, Navy service, the record-breaking "M to the B" TikTok, her Warner Records deal and "Build a Bitch" debut, the Rising Sun tattoo controversy, and her broader influence on the creator-to-artist pipeline — all within ~570 words of body content.

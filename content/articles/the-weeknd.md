@@ -1,0 +1,1 @@
+Article written to `content/articles/the-weeknd.md`. It covers his early life in Scarborough, anonymous YouTube debut, the Trilogy mixtapes, chart-topping albums, the "Blinding Lights" records, Super Bowl LV, Grammy controversy, *The Idol* backlash, and his lasting influence on modern R&B — all within the project's existing article format.

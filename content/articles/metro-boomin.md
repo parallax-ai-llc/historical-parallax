@@ -1,0 +1,1 @@
+The Metro Boomin article has been written to `content/articles/metro-boomin.md`.

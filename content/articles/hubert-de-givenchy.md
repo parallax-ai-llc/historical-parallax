@@ -1,0 +1,1 @@
+The article has been written to `content/articles/hubert-de-givenchy.md`. It covers Givenchy's aristocratic upbringing in Beauvais, his apprenticeships under Fath, Piguet, and Schiaparelli, the founding of his house in 1952, his iconic partnership with Audrey Hepburn, key achievements including the Bettina Blouse and L'Interdit perfume, and his lasting legacy in haute couture.

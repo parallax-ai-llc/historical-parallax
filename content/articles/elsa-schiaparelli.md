@@ -1,0 +1,1 @@
+The article for Elsa Schiaparelli has been written to `content/articles/elsa-schiaparelli.md`.

@@ -1,0 +1,1 @@
+The article has been written to `content/articles/olofmeister.md`. It covers olofmeister's career from his LGB days through the legendary Fnatic era and his time on FaZe Clan, including the Fnatic boost controversy, the burning defuse, his wrist injury, and his legacy as one of CS:GO's all-time greats.

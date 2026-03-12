@@ -1,0 +1,1 @@
+The article has been created at `content/articles/jiro-ono.md` following the project's existing format. It covers Jiro Ono's life from his difficult childhood in Shizuoka to his rise as the world's most celebrated sushi chef, including key facts like the 2007 three-star Michelin rating, the 2011 documentary, and the Obama-Abe dinner in 2014.

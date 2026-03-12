@@ -1,0 +1,1 @@
+The ShowMaker article has been written to `content/articles/showmaker.md`. It follows the same format as the other esports player articles in the project, with ~550 words of body content covering his career with DAMWON Gaming/DWG KIA/Dplus KIA, his 2020 World Championship win, back-to-back finals appearances, and his legacy as a generational mid laner.

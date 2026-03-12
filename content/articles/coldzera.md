@@ -1,0 +1,1 @@
+The article has been written to `content/articles/coldzera.md`. It covers coldzera's career from his early days in Porto Alegre through the Luminosity/SK Gaming dynasty, his back-to-back HLTV #1 rankings (2016–2017), two Major wins, his later stints with MIBR and FaZe Clan, and his lasting legacy in Brazilian and global CS:GO.
