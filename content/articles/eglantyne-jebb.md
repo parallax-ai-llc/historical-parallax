@@ -1,0 +1,1 @@
+Article written to `content/articles/eglantyne-jebb.md` — approximately 580 words of body content covering Jebb's life from her Shropshire upbringing and Oxford education through the founding of Save the Children in 1919, the League of Nations adoption of her Declaration of the Rights of the Child in 1924, and her lasting influence on global child protection policy.

@@ -1,0 +1,1 @@
+The article has been written to `content/articles/henri-dunant.md`. It covers Dunant's life from his Geneva upbringing through the Battle of Solferino, the founding of the Red Cross, his financial downfall, and his lasting legacy — approximately 580 words of body content.

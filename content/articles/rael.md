@@ -1,0 +1,1 @@
+The article for Rael has been written to `content/articles/rael.md`.

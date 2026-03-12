@@ -1,0 +1,1 @@
+The article has been written to `content/articles/jean-vanier.md`. It covers Vanier's naval background and philosophical education, the founding of L'Arche in 1964, his key achievements and honours, the 2020 posthumous abuse revelations, and his complex legacy — approximately 580 words of body content.

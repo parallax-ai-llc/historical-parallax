@@ -1,0 +1,1 @@
+The article for Giorgio Perlasca has been written to `content/articles/giorgio-perlasca.md`.

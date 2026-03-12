@@ -1,0 +1,1 @@
+Article written to `content/articles/doc-holliday.md`.

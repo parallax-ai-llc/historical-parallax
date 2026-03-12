@@ -1,0 +1,1 @@
+The article has been written to `content/articles/petrarch.md`. It follows the project's existing format (matching the frontmatter structure with `id` field and footnoted references) and covers all requested sections with ~580 words of body content.

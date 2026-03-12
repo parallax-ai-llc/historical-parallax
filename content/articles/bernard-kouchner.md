@@ -1,0 +1,1 @@
+The article for Bernard Kouchner has been written to `content/articles/bernard-kouchner.md`.
