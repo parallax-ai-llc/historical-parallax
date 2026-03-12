@@ -1,0 +1,1 @@
+The article for Bronislaw Malinowski has been written to `content/articles/bronislaw-malinowski.md`.

@@ -1,0 +1,1 @@
+The article for Lewis Binford has been written to `content/articles/lewis-binford.md`.

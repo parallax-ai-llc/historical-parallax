@@ -1,0 +1,1 @@
+The article for J.M. Coetzee has been written to `content/articles/jm-coetzee.md`.

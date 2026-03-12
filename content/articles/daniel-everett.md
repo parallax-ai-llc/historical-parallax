@@ -1,0 +1,1 @@
+The article for Daniel Everett has been written to `content/articles/daniel-everett.md`.

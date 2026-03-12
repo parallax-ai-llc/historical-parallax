@@ -1,0 +1,1 @@
+The article for Roy Wilkins has been written to `content/articles/roy-wilkins.md`.

@@ -1,0 +1,1 @@
+The article for Menes has been written to `content/articles/menes.md`.

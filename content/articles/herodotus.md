@@ -1,0 +1,1 @@
+The article has been created at `content/articles/herodotus.md`, following the same format as the existing articles in the project.

@@ -1,0 +1,1 @@
+The article for Robert Shiller has been written to `content/articles/robert-shiller.md`.

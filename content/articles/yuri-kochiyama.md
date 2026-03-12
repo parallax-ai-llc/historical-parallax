@@ -1,0 +1,1 @@
+The article for Yuri Kochiyama has been written to `content/articles/yuri-kochiyama.md`.

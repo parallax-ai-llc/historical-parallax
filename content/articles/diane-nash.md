@@ -1,0 +1,1 @@
+The article for Diane Nash has been written to `content/articles/diane-nash.md`.

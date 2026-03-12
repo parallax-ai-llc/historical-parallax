@@ -1,0 +1,1 @@
+The article for J.J. Thomson has been written to `content/articles/jj-thomson.md`.

@@ -1,0 +1,1 @@
+The article for Lucretius has been written to `content/articles/lucretius.md`.

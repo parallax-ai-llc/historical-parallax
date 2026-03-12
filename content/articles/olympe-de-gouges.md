@@ -1,0 +1,1 @@
+Article written to `content/articles/olympe-de-gouges.md`.

@@ -1,0 +1,1 @@
+The article for Ella Baker has been written to `content/articles/ella-baker.md`.

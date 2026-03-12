@@ -1,0 +1,1 @@
+The article for Max Martin has been written to `content/articles/max-martin.md`.

@@ -1,0 +1,1 @@
+The article for Andrea Palladio has been written to `content/articles/andrea-palladio.md`.

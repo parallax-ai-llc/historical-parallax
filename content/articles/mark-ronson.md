@@ -1,0 +1,1 @@
+The article for Mark Ronson has been written to `content/articles/mark-ronson.md`.

@@ -1,0 +1,1 @@
+The article for Whitney Young has been written to `content/articles/whitney-young.md`.

@@ -1,0 +1,1 @@
+The article for Bertha von Suttner has been written to `content/articles/bertha-von-suttner.md`.

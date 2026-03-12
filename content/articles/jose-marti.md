@@ -1,0 +1,1 @@
+The article for José Martí has been written to `content/articles/jose-marti.md`. It covers his life from his 1853 birth in Havana through his political awakening, exile, literary achievements, founding of the Cuban Revolutionary Party, and death at the Battle of Dos Ríos in 1895, with balanced coverage of the ideological debates surrounding his legacy.

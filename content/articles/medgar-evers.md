@@ -1,0 +1,1 @@
+The article has been written to `content/articles/medgar-evers.md`.

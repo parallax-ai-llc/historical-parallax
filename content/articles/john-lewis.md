@@ -1,0 +1,1 @@
+The article has been written to `content/articles/john-lewis.md` with approximately 580 words of body content covering Lewis's life from sharecropper's son to civil rights icon and 17-term congressman, including his role in the Freedom Rides, the March on Washington, Bloody Sunday, and his legacy of "good trouble."

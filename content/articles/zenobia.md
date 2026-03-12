@@ -1,0 +1,1 @@
+Done. Created `content/articles/zenobia.md` with the full article (~550 words of body content) and added Zenobia to `lib/people.json`.

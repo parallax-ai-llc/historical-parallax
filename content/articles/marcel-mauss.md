@@ -1,0 +1,1 @@
+The article for Marcel Mauss has been written to `content/articles/marcel-mauss.md`.

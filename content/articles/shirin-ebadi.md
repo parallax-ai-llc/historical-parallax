@@ -1,0 +1,1 @@
+The article for Shirin Ebadi has been written to `content/articles/shirin-ebadi.md`. It covers her life as Iran's first female judge, her forced demotion after the 1979 revolution, her human rights advocacy, her 2003 Nobel Peace Prize, government persecution, and her lasting legacy — all within the requested format and word count.

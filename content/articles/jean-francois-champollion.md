@@ -1,0 +1,1 @@
+Article created at `content/articles/jean-francois-champollion.md`. It follows the project's existing article format with frontmatter, ~560 words of body content covering his early linguistic genius, the 1822 hieroglyphic decipherment, the Young controversy, and his foundational role in Egyptology.

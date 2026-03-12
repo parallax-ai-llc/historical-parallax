@@ -1,0 +1,1 @@
+The article for Tawakkol Karman has been written to `content/articles/tawakkol-karman.md`. It covers her founding of Women Journalists Without Chains, leadership during Yemen's 2011 uprising, Nobel Peace Prize at age 32, controversies around her Islah party ties, and ongoing legacy in human rights advocacy.
