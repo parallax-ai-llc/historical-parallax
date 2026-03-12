@@ -1,0 +1,1 @@
+The article for Garry Shandling has been written to `content/articles/garry-shandling.md`.

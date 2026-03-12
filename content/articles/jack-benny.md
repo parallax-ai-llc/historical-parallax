@@ -1,0 +1,1 @@
+Article written to `content/articles/jack-benny.md`.

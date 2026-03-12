@@ -14220,5 +14220,4615 @@
       "Songwriter"
     ],
     "wikipedia": "https://en.wikipedia.org/wiki/Compay_Segundo"
+  },
+  {
+    "name": "Hannibal Barca",
+    "born": "247 BC",
+    "died": "183 BC",
+    "nationality": "Carthaginian",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannibal"
+  },
+  {
+    "name": "Saladin",
+    "born": "1137",
+    "died": "1193-03-04",
+    "nationality": "Kurdish",
+    "occupation": [
+      "Military Leader",
+      "Sultan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Saladin"
+  },
+  {
+    "name": "Khalid ibn al-Walid",
+    "born": "592",
+    "died": "642",
+    "nationality": "Arab",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Khalid_ibn_al-Walid"
+  },
+  {
+    "name": "Erwin Rommel",
+    "born": "1891-11-15",
+    "died": "1944-10-14",
+    "nationality": "German",
+    "occupation": [
+      "Military Leader",
+      "Field Marshal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Erwin_Rommel"
+  },
+  {
+    "name": "George S. Patton",
+    "born": "1885-11-11",
+    "died": "1945-12-21",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_S._Patton"
+  },
+  {
+    "name": "Dwight D. Eisenhower",
+    "born": "1890-10-14",
+    "died": "1969-03-28",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "General",
+      "President"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+  },
+  {
+    "name": "Douglas MacArthur",
+    "born": "1880-01-26",
+    "died": "1964-04-05",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_MacArthur"
+  },
+  {
+    "name": "Georgy Zhukov",
+    "born": "1896-12-01",
+    "died": "1974-06-18",
+    "nationality": "Russian",
+    "occupation": [
+      "Military Leader",
+      "Marshal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgy_Zhukov"
+  },
+  {
+    "name": "Horatio Nelson",
+    "born": "1758-09-29",
+    "died": "1805-10-21",
+    "nationality": "British",
+    "occupation": [
+      "Military Leader",
+      "Admiral"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson"
+  },
+  {
+    "name": "Duke of Wellington",
+    "born": "1769-05-01",
+    "died": "1852-09-14",
+    "nationality": "British",
+    "occupation": [
+      "Military Leader",
+      "Field Marshal",
+      "Prime Minister"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Duke_of_Wellington"
+  },
+  {
+    "name": "Scipio Africanus",
+    "born": "236 BC",
+    "died": "183 BC",
+    "nationality": "Roman",
+    "occupation": [
+      "Military Leader",
+      "General",
+      "Consul"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Scipio_Africanus"
+  },
+  {
+    "name": "Yi Sun-sin",
+    "born": "1545-04-28",
+    "died": "1598-12-16",
+    "nationality": "Korean",
+    "occupation": [
+      "Military Leader",
+      "Admiral"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yi_Sun-sin"
+  },
+  {
+    "name": "Tokugawa Ieyasu",
+    "born": "1543-01-31",
+    "died": "1616-06-01",
+    "nationality": "Japanese",
+    "occupation": [
+      "Military Leader",
+      "Shogun"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+  },
+  {
+    "name": "Spartacus",
+    "born": "111 BC",
+    "died": "71 BC",
+    "nationality": "Thracian",
+    "occupation": [
+      "Military Leader",
+      "Gladiator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Spartacus"
+  },
+  {
+    "name": "Shaka Zulu",
+    "born": "1787",
+    "died": "1828-09-22",
+    "nationality": "Zulu",
+    "occupation": [
+      "Military Leader",
+      "King"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaka"
+  },
+  {
+    "name": "Simón Bolívar",
+    "born": "1783-07-24",
+    "died": "1830-12-17",
+    "nationality": "Venezuelan",
+    "occupation": [
+      "Military Leader",
+      "Liberator",
+      "President"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar"
+  },
+  {
+    "name": "Hernán Cortés",
+    "born": "1485-12-02",
+    "died": "1547-12-02",
+    "nationality": "Spanish",
+    "occupation": [
+      "Military Leader",
+      "Conquistador"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s"
+  },
+  {
+    "name": "Sitting Bull",
+    "born": "1831",
+    "died": "1890-12-15",
+    "nationality": "Lakota",
+    "occupation": [
+      "Military Leader",
+      "Chief"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sitting_Bull"
+  },
+  {
+    "name": "Bernard Montgomery",
+    "born": "1887-11-17",
+    "died": "1976-03-24",
+    "nationality": "British",
+    "occupation": [
+      "Military Leader",
+      "Field Marshal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Montgomery"
+  },
+  {
+    "name": "Robert E. Lee",
+    "born": "1807-01-19",
+    "died": "1870-10-12",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Lee"
+  },
+  {
+    "name": "Ulysses S. Grant",
+    "born": "1822-04-27",
+    "died": "1885-07-23",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "General",
+      "President"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_S._Grant"
+  },
+  {
+    "name": "Carl von Clausewitz",
+    "born": "1780-06-01",
+    "died": "1831-11-16",
+    "nationality": "Prussian",
+    "occupation": [
+      "Military Leader",
+      "Military Theorist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_von_Clausewitz"
+  },
+  {
+    "name": "Che Guevara",
+    "born": "1928-06-14",
+    "died": "1967-10-09",
+    "nationality": "Argentine",
+    "occupation": [
+      "Military Leader",
+      "Revolutionary",
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Che_Guevara"
+  },
+  {
+    "name": "Cyrus the Great",
+    "born": "600 BC",
+    "died": "530 BC",
+    "nationality": "Persian",
+    "occupation": [
+      "Military Leader",
+      "Emperor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+  },
+  {
+    "name": "Tamerlane",
+    "born": "1336-04-09",
+    "died": "1405-02-18",
+    "nationality": "Turco-Mongol",
+    "occupation": [
+      "Military Leader",
+      "Conqueror"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Timur"
+  },
+  {
+    "name": "Oda Nobunaga",
+    "born": "1534-06-23",
+    "died": "1582-06-21",
+    "nationality": "Japanese",
+    "occupation": [
+      "Military Leader",
+      "Daimyo"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Oda_Nobunaga"
+  },
+  {
+    "name": "William Tecumseh Sherman",
+    "born": "1820-02-08",
+    "died": "1891-02-14",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman"
+  },
+  {
+    "name": "Stonewall Jackson",
+    "born": "1824-01-21",
+    "died": "1863-05-10",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_Jackson"
+  },
+  {
+    "name": "Gustavus Adolphus",
+    "born": "1594-12-19",
+    "died": "1632-11-16",
+    "nationality": "Swedish",
+    "occupation": [
+      "Military Leader",
+      "King"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Adolphus"
+  },
+  {
+    "name": "Subutai",
+    "born": "1175",
+    "died": "1248",
+    "nationality": "Mongolian",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Subutai"
+  },
+  {
+    "name": "Toyotomi Hideyoshi",
+    "born": "1537-03-17",
+    "died": "1598-09-18",
+    "nationality": "Japanese",
+    "occupation": [
+      "Military Leader",
+      "Regent"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi"
+  },
+  {
+    "name": "Francisco Pizarro",
+    "born": "1478-03-16",
+    "died": "1541-06-26",
+    "nationality": "Spanish",
+    "occupation": [
+      "Military Leader",
+      "Conquistador"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Pizarro"
+  },
+  {
+    "name": "Belisarius",
+    "born": "505",
+    "died": "565",
+    "nationality": "Byzantine",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Belisarius"
+  },
+  {
+    "name": "Zhuge Liang",
+    "born": "181",
+    "died": "234-10-08",
+    "nationality": "Chinese",
+    "occupation": [
+      "Military Strategist",
+      "Chancellor",
+      "Statesman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhuge_Liang"
+  },
+  {
+    "name": "Frederick the Great",
+    "born": "1712-01-24",
+    "died": "1786-08-17",
+    "nationality": "Prussian",
+    "occupation": [
+      "Military Leader",
+      "King"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_the_Great"
+  },
+  {
+    "name": "Vo Nguyen Giap",
+    "born": "1911-08-25",
+    "died": "2013-10-04",
+    "nationality": "Vietnamese",
+    "occupation": [
+      "Military Leader",
+      "General",
+      "Politician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+  },
+  {
+    "name": "Moshe Dayan",
+    "born": "1915-05-20",
+    "died": "1981-10-16",
+    "nationality": "Israeli",
+    "occupation": [
+      "Military Leader",
+      "General",
+      "Politician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Moshe_Dayan"
+  },
+  {
+    "name": "Geronimo",
+    "born": "1829-06-16",
+    "died": "1909-02-17",
+    "nationality": "Apache",
+    "occupation": [
+      "Military Leader",
+      "War Chief"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Geronimo"
+  },
+  {
+    "name": "Suleiman the Magnificent",
+    "born": "1494-11-06",
+    "died": "1566-09-06",
+    "nationality": "Ottoman",
+    "occupation": [
+      "Military Leader",
+      "Sultan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
+  },
+  {
+    "name": "Babur",
+    "born": "1483-02-14",
+    "died": "1530-12-26",
+    "nationality": "Timurid",
+    "occupation": [
+      "Military Leader",
+      "Emperor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Babur"
+  },
+  {
+    "name": "Cao Cao",
+    "born": "155-03-15",
+    "died": "220-03-15",
+    "nationality": "Chinese",
+    "occupation": [
+      "Military Leader",
+      "Warlord",
+      "Poet"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cao_Cao"
+  },
+  {
+    "name": "Epaminondas",
+    "born": "418 BC",
+    "died": "362 BC",
+    "nationality": "Greek",
+    "occupation": [
+      "Military Leader",
+      "General",
+      "Statesman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Epaminondas"
+  },
+  {
+    "name": "Jan Žižka",
+    "born": "1360",
+    "died": "1424-10-11",
+    "nationality": "Czech",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka"
+  },
+  {
+    "name": "Arturo Toscanini",
+    "born": "1867-03-25",
+    "died": "1957-01-16",
+    "nationality": "Italian",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arturo_Toscanini"
+  },
+  {
+    "name": "Vladimir Horowitz",
+    "born": "1903-10-01",
+    "died": "1989-11-05",
+    "nationality": "American",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Horowitz"
+  },
+  {
+    "name": "Arthur Rubinstein",
+    "born": "1887-01-28",
+    "died": "1982-12-20",
+    "nationality": "Polish-American",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Rubinstein"
+  },
+  {
+    "name": "Jascha Heifetz",
+    "born": "1901-02-02",
+    "died": "1987-12-10",
+    "nationality": "American",
+    "occupation": [
+      "Violinist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jascha_Heifetz"
+  },
+  {
+    "name": "Glenn Gould",
+    "born": "1932-09-25",
+    "died": "1982-10-04",
+    "nationality": "Canadian",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Gould"
+  },
+  {
+    "name": "Leopold Stokowski",
+    "born": "1882-04-18",
+    "died": "1977-09-13",
+    "nationality": "British-American",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopold_Stokowski"
+  },
+  {
+    "name": "Georg Solti",
+    "born": "1912-10-21",
+    "died": "1997-09-05",
+    "nationality": "Hungarian-British",
+    "occupation": [
+      "Conductor",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Solti"
+  },
+  {
+    "name": "Zubin Mehta",
+    "born": "1936-04-29",
+    "nationality": "Indian",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Zubin_Mehta"
+  },
+  {
+    "name": "Seiji Ozawa",
+    "born": "1935-09-01",
+    "died": "2024-02-06",
+    "nationality": "Japanese",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Seiji_Ozawa"
+  },
+  {
+    "name": "Mstislav Rostropovich",
+    "born": "1927-03-27",
+    "died": "2007-04-27",
+    "nationality": "Russian",
+    "occupation": [
+      "Cellist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mstislav_Rostropovich"
+  },
+  {
+    "name": "Pablo Casals",
+    "born": "1876-12-29",
+    "died": "1973-10-22",
+    "nationality": "Spanish",
+    "occupation": [
+      "Cellist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Casals"
+  },
+  {
+    "name": "Yehudi Menuhin",
+    "born": "1916-04-22",
+    "died": "1999-03-12",
+    "nationality": "American-British",
+    "occupation": [
+      "Violinist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yehudi_Menuhin"
+  },
+  {
+    "name": "Martha Argerich",
+    "born": "1941-06-05",
+    "nationality": "Argentine",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Argerich"
+  },
+  {
+    "name": "Daniel Barenboim",
+    "born": "1942-11-15",
+    "nationality": "Argentine-Israeli",
+    "occupation": [
+      "Pianist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Barenboim"
+  },
+  {
+    "name": "Claudio Abbado",
+    "born": "1933-06-26",
+    "died": "2014-01-20",
+    "nationality": "Italian",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Abbado"
+  },
+  {
+    "name": "Carlo Maria Giulini",
+    "born": "1914-05-09",
+    "died": "2005-06-14",
+    "nationality": "Italian",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Maria_Giulini"
+  },
+  {
+    "name": "Anne-Sophie Mutter",
+    "born": "1963-06-29",
+    "nationality": "German",
+    "occupation": [
+      "Violinist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne-Sophie_Mutter"
+  },
+  {
+    "name": "Sviatoslav Richter",
+    "born": "1915-03-20",
+    "died": "1997-08-01",
+    "nationality": "Ukrainian-Russian",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sviatoslav_Richter"
+  },
+  {
+    "name": "Jacqueline du Pré",
+    "born": "1945-01-26",
+    "died": "1987-10-19",
+    "nationality": "British",
+    "occupation": [
+      "Cellist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_du_Pr%C3%A9"
+  },
+  {
+    "name": "Mitsuko Uchida",
+    "born": "1948-12-20",
+    "nationality": "Japanese-British",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitsuko_Uchida"
+  },
+  {
+    "name": "Hilary Hahn",
+    "born": "1979-11-27",
+    "nationality": "American",
+    "occupation": [
+      "Violinist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hilary_Hahn"
+  },
+  {
+    "name": "Riccardo Muti",
+    "born": "1941-07-28",
+    "nationality": "Italian",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Muti"
+  },
+  {
+    "name": "Valery Gergiev",
+    "born": "1953-05-02",
+    "nationality": "Russian",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Valery_Gergiev"
+  },
+  {
+    "name": "Simon Rattle",
+    "born": "1955-01-19",
+    "nationality": "British",
+    "occupation": [
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Rattle"
+  },
+  {
+    "name": "Murray Perahia",
+    "born": "1947-04-19",
+    "nationality": "American",
+    "occupation": [
+      "Pianist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Murray_Perahia"
+  },
+  {
+    "name": "Maxim Vengerov",
+    "born": "1974-08-20",
+    "nationality": "Israeli-Russian",
+    "occupation": [
+      "Violinist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxim_Vengerov"
+  },
+  {
+    "name": "Krystian Zimerman",
+    "born": "1956-12-05",
+    "nationality": "Polish",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Krystian_Zimerman"
+  },
+  {
+    "name": "Evgeny Kissin",
+    "born": "1971-10-10",
+    "nationality": "Russian-British",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Evgeny_Kissin"
+  },
+  {
+    "name": "Andrés Segovia",
+    "born": "1893-02-21",
+    "died": "1987-06-02",
+    "nationality": "Spanish",
+    "occupation": [
+      "Classical Guitarist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Segovia"
+  },
+  {
+    "name": "Nikolaus Harnoncourt",
+    "born": "1929-12-06",
+    "died": "2016-03-05",
+    "nationality": "Austrian",
+    "occupation": [
+      "Conductor",
+      "Cellist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolaus_Harnoncourt"
+  },
+  {
+    "name": "Wilhelm Furtwängler",
+    "born": "1886-01-25",
+    "died": "1954-11-30",
+    "nationality": "German",
+    "occupation": [
+      "Conductor",
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Furtw%C3%A4ngler"
+  },
+  {
+    "name": "Alfred Brendel",
+    "born": "1931-01-05",
+    "nationality": "Austrian",
+    "occupation": [
+      "Pianist",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Brendel"
+  },
+  {
+    "name": "Yuja Wang",
+    "born": "1987-02-10",
+    "nationality": "Chinese",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuja_Wang"
+  },
+  {
+    "name": "Daniil Trifonov",
+    "born": "1991-03-05",
+    "nationality": "Russian",
+    "occupation": [
+      "Pianist",
+      "Composer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniil_Trifonov"
+  },
+  {
+    "name": "Jean-Pierre Rampal",
+    "born": "1922-01-07",
+    "died": "2000-05-20",
+    "nationality": "French",
+    "occupation": [
+      "Flutist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Rampal"
+  },
+  {
+    "name": "James Galway",
+    "born": "1939-12-08",
+    "nationality": "British",
+    "occupation": [
+      "Flutist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Galway"
+  },
+  {
+    "name": "Midori Gotō",
+    "born": "1971-10-25",
+    "nationality": "Japanese-American",
+    "occupation": [
+      "Violinist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Midori_(violinist)"
+  },
+  {
+    "name": "Isaac Stern",
+    "born": "1920-07-21",
+    "died": "2001-09-22",
+    "nationality": "American",
+    "occupation": [
+      "Violinist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Stern"
+  },
+  {
+    "name": "David Oistrakh",
+    "born": "1908-09-30",
+    "died": "1974-10-24",
+    "nationality": "Soviet",
+    "occupation": [
+      "Violinist",
+      "Conductor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Oistrakh"
+  },
+  {
+    "name": "Claudio Arrau",
+    "born": "1903-02-06",
+    "died": "1991-06-09",
+    "nationality": "Chilean",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Arrau"
+  },
+  {
+    "name": "Grigory Sokolov",
+    "born": "1950-04-18",
+    "nationality": "Russian",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Grigory_Sokolov"
+  },
+  {
+    "name": "Maurizio Pollini",
+    "born": "1942-01-05",
+    "died": "2024-03-23",
+    "nationality": "Italian",
+    "occupation": [
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurizio_Pollini"
+  },
+  {
+    "name": "Adam Smith",
+    "born": "1723-06-16",
+    "died": "1790-07-17",
+    "nationality": "Scottish",
+    "occupation": [
+      "Economist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith"
+  },
+  {
+    "name": "John Maynard Keynes",
+    "born": "1883-06-05",
+    "died": "1946-04-21",
+    "nationality": "British",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Maynard_Keynes"
+  },
+  {
+    "name": "Milton Friedman",
+    "born": "1912-07-31",
+    "died": "2006-11-16",
+    "nationality": "American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Milton_Friedman"
+  },
+  {
+    "name": "Thomas Piketty",
+    "born": "1971-05-07",
+    "nationality": "French",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Piketty"
+  },
+  {
+    "name": "Friedrich Hayek",
+    "born": "1899-05-08",
+    "died": "1992-03-23",
+    "nationality": "Austrian-British",
+    "occupation": [
+      "Economist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Hayek"
+  },
+  {
+    "name": "Joseph Schumpeter",
+    "born": "1883-02-08",
+    "died": "1950-01-08",
+    "nationality": "Austrian-American",
+    "occupation": [
+      "Economist",
+      "Political Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Schumpeter"
+  },
+  {
+    "name": "David Ricardo",
+    "born": "1772-04-18",
+    "died": "1823-09-11",
+    "nationality": "British",
+    "occupation": [
+      "Economist",
+      "Politician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Ricardo"
+  },
+  {
+    "name": "Paul Samuelson",
+    "born": "1915-05-15",
+    "died": "2009-12-13",
+    "nationality": "American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Samuelson"
+  },
+  {
+    "name": "Amartya Sen",
+    "born": "1933-11-03",
+    "nationality": "Indian",
+    "occupation": [
+      "Economist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amartya_Sen"
+  },
+  {
+    "name": "John Kenneth Galbraith",
+    "born": "1908-10-15",
+    "died": "2006-04-29",
+    "nationality": "Canadian-American",
+    "occupation": [
+      "Economist",
+      "Diplomat",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Kenneth_Galbraith"
+  },
+  {
+    "name": "Thorstein Veblen",
+    "born": "1857-07-30",
+    "died": "1929-08-03",
+    "nationality": "American",
+    "occupation": [
+      "Economist",
+      "Sociologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thorstein_Veblen"
+  },
+  {
+    "name": "John Stuart Mill",
+    "born": "1806-05-20",
+    "died": "1873-05-08",
+    "nationality": "British",
+    "occupation": [
+      "Economist",
+      "Philosopher",
+      "Politician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stuart_Mill"
+  },
+  {
+    "name": "Max Weber",
+    "born": "1864-04-21",
+    "died": "1920-06-14",
+    "nationality": "German",
+    "occupation": [
+      "Sociologist",
+      "Economist",
+      "Political Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Weber"
+  },
+  {
+    "name": "Émile Durkheim",
+    "born": "1858-04-15",
+    "died": "1917-11-15",
+    "nationality": "French",
+    "occupation": [
+      "Sociologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim"
+  },
+  {
+    "name": "Joseph Stiglitz",
+    "born": "1943-02-09",
+    "nationality": "American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Stiglitz"
+  },
+  {
+    "name": "Paul Krugman",
+    "born": "1953-02-28",
+    "nationality": "American",
+    "occupation": [
+      "Economist",
+      "Columnist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Krugman"
+  },
+  {
+    "name": "Kenneth Arrow",
+    "born": "1921-08-23",
+    "died": "2017-02-21",
+    "nationality": "American",
+    "occupation": [
+      "Economist",
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Arrow"
+  },
+  {
+    "name": "John Nash",
+    "born": "1928-06-13",
+    "died": "2015-05-23",
+    "nationality": "American",
+    "occupation": [
+      "Mathematician",
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr."
+  },
+  {
+    "name": "Thomas Malthus",
+    "born": "1766-02-13",
+    "died": "1834-12-23",
+    "nationality": "British",
+    "occupation": [
+      "Economist",
+      "Demographer",
+      "Cleric"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus"
+  },
+  {
+    "name": "Daron Acemoglu",
+    "born": "1967-09-03",
+    "nationality": "Turkish-American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Daron_Acemoglu"
+  },
+  {
+    "name": "Hernando de Soto",
+    "born": "1941-06-02",
+    "nationality": "Peruvian",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hernando_de_Soto_(economist)"
+  },
+  {
+    "name": "Karl Polanyi",
+    "born": "1886-10-25",
+    "died": "1964-04-23",
+    "nationality": "Hungarian",
+    "occupation": [
+      "Economist",
+      "Anthropologist",
+      "Sociologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Polanyi"
+  },
+  {
+    "name": "Talcott Parsons",
+    "born": "1902-12-13",
+    "died": "1979-05-08",
+    "nationality": "American",
+    "occupation": [
+      "Sociologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Talcott_Parsons"
+  },
+  {
+    "name": "Pierre Bourdieu",
+    "born": "1930-08-01",
+    "died": "2002-01-23",
+    "nationality": "French",
+    "occupation": [
+      "Sociologist",
+      "Anthropologist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Bourdieu"
+  },
+  {
+    "name": "Erving Goffman",
+    "born": "1922-06-11",
+    "died": "1982-11-19",
+    "nationality": "Canadian-American",
+    "occupation": [
+      "Sociologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Erving_Goffman"
+  },
+  {
+    "name": "Margaret Mead",
+    "born": "1901-12-16",
+    "died": "1978-11-15",
+    "nationality": "American",
+    "occupation": [
+      "Anthropologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mead"
+  },
+  {
+    "name": "Claude Lévi-Strauss",
+    "born": "1908-11-28",
+    "died": "2009-10-30",
+    "nationality": "French",
+    "occupation": [
+      "Anthropologist",
+      "Ethnologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss"
+  },
+  {
+    "name": "Vilfredo Pareto",
+    "born": "1848-07-15",
+    "died": "1923-08-19",
+    "nationality": "Italian",
+    "occupation": [
+      "Economist",
+      "Sociologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vilfredo_Pareto"
+  },
+  {
+    "name": "Ludwig von Mises",
+    "born": "1881-09-29",
+    "died": "1973-10-10",
+    "nationality": "Austrian-American",
+    "occupation": [
+      "Economist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_von_Mises"
+  },
+  {
+    "name": "Janet Yellen",
+    "born": "1946-08-13",
+    "nationality": "American",
+    "occupation": [
+      "Economist",
+      "Government Official"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Janet_Yellen"
+  },
+  {
+    "name": "Esther Duflo",
+    "born": "1972-10-25",
+    "nationality": "French-American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Esther_Duflo"
+  },
+  {
+    "name": "Muhammad Yunus",
+    "born": "1940-06-28",
+    "nationality": "Bangladeshi",
+    "occupation": [
+      "Economist",
+      "Banker",
+      "Civil Society Leader"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus"
+  },
+  {
+    "name": "Robert Solow",
+    "born": "1924-08-23",
+    "died": "2023-12-21",
+    "nationality": "American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Solow"
+  },
+  {
+    "name": "James Buchanan",
+    "born": "1919-10-03",
+    "died": "2013-01-09",
+    "nationality": "American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/James_M._Buchanan"
+  },
+  {
+    "name": "Gary Becker",
+    "born": "1930-12-02",
+    "died": "2014-05-03",
+    "nationality": "American",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Becker"
+  },
+  {
+    "name": "Herbert Simon",
+    "born": "1916-06-15",
+    "died": "2001-02-09",
+    "nationality": "American",
+    "occupation": [
+      "Economist",
+      "Political Scientist",
+      "Cognitive Psychologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_A._Simon"
+  },
+  {
+    "name": "Elinor Ostrom",
+    "born": "1933-08-07",
+    "died": "2012-06-12",
+    "nationality": "American",
+    "occupation": [
+      "Political Economist",
+      "Political Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elinor_Ostrom"
+  },
+  {
+    "name": "Alfred Marshall",
+    "born": "1842-07-26",
+    "died": "1924-07-13",
+    "nationality": "British",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Marshall"
+  },
+  {
+    "name": "W.E.B. Du Bois",
+    "born": "1868-02-23",
+    "died": "1963-08-27",
+    "nationality": "American",
+    "occupation": [
+      "Sociologist",
+      "Historian",
+      "Civil Rights Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+  },
+  {
+    "name": "Ansel Adams",
+    "born": "1902-02-20",
+    "died": "1984-04-22",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Environmentalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ansel_Adams"
+  },
+  {
+    "name": "Dorothea Lange",
+    "born": "1895-05-26",
+    "died": "1965-10-11",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_Lange"
+  },
+  {
+    "name": "Robert Capa",
+    "born": "1913-10-22",
+    "died": "1954-05-25",
+    "nationality": "Hungarian-American",
+    "occupation": [
+      "Photographer",
+      "War Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Capa"
+  },
+  {
+    "name": "Annie Leibovitz",
+    "born": "1949-10-02",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Portrait Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Annie_Leibovitz"
+  },
+  {
+    "name": "Henri Cartier-Bresson",
+    "born": "1908-08-22",
+    "died": "2004-08-03",
+    "nationality": "French",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Cartier-Bresson"
+  },
+  {
+    "name": "Richard Avedon",
+    "born": "1923-05-15",
+    "died": "2004-10-01",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Fashion Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Avedon"
+  },
+  {
+    "name": "Man Ray",
+    "born": "1890-08-27",
+    "died": "1976-11-18",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Painter",
+      "Filmmaker"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Man_Ray"
+  },
+  {
+    "name": "Alfred Stieglitz",
+    "born": "1864-01-01",
+    "died": "1946-07-13",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Art Promoter"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Stieglitz"
+  },
+  {
+    "name": "Diane Arbus",
+    "born": "1923-03-14",
+    "died": "1971-07-26",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Diane_Arbus"
+  },
+  {
+    "name": "Steve McCurry",
+    "born": "1950-04-24",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_McCurry"
+  },
+  {
+    "name": "Sebastião Salgado",
+    "born": "1944-02-08",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Salgado"
+  },
+  {
+    "name": "Gordon Parks",
+    "born": "1912-11-30",
+    "died": "2006-03-07",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Filmmaker",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Parks"
+  },
+  {
+    "name": "Irving Penn",
+    "born": "1917-06-16",
+    "died": "2009-10-07",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Irving_Penn"
+  },
+  {
+    "name": "Edward Weston",
+    "born": "1886-03-24",
+    "died": "1958-01-01",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Weston"
+  },
+  {
+    "name": "Walker Evans",
+    "born": "1903-11-03",
+    "died": "1975-04-10",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Walker_Evans"
+  },
+  {
+    "name": "Robert Doisneau",
+    "born": "1912-04-14",
+    "died": "1994-04-01",
+    "nationality": "French",
+    "occupation": [
+      "Photographer",
+      "Street Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Doisneau"
+  },
+  {
+    "name": "Helmut Newton",
+    "born": "1920-10-31",
+    "died": "2004-01-23",
+    "nationality": "Australian-German",
+    "occupation": [
+      "Photographer",
+      "Fashion Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmut_Newton"
+  },
+  {
+    "name": "Margaret Bourke-White",
+    "born": "1904-06-14",
+    "died": "1971-08-27",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Bourke-White"
+  },
+  {
+    "name": "James Nachtwey",
+    "born": "1948-03-14",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "War Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Nachtwey"
+  },
+  {
+    "name": "Cindy Sherman",
+    "born": "1954-01-19",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cindy_Sherman"
+  },
+  {
+    "name": "Andreas Gursky",
+    "born": "1955-01-15",
+    "nationality": "German",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Gursky"
+  },
+  {
+    "name": "Robert Frank",
+    "born": "1924-11-09",
+    "died": "2019-09-09",
+    "nationality": "Swiss-American",
+    "occupation": [
+      "Photographer",
+      "Filmmaker"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Frank"
+  },
+  {
+    "name": "W. Eugene Smith",
+    "born": "1918-12-30",
+    "died": "1978-10-15",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/W._Eugene_Smith"
+  },
+  {
+    "name": "Weegee",
+    "born": "1899-06-12",
+    "died": "1968-12-26",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Photojournalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Weegee"
+  },
+  {
+    "name": "Yousuf Karsh",
+    "born": "1908-12-23",
+    "died": "2002-07-13",
+    "nationality": "Canadian",
+    "occupation": [
+      "Photographer",
+      "Portrait Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yousuf_Karsh"
+  },
+  {
+    "name": "Lee Miller",
+    "born": "1907-04-23",
+    "died": "1977-07-21",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "War Correspondent",
+      "Model"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Miller"
+  },
+  {
+    "name": "Berenice Abbott",
+    "born": "1898-07-17",
+    "died": "1991-12-09",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Berenice_Abbott"
+  },
+  {
+    "name": "Imogen Cunningham",
+    "born": "1883-04-12",
+    "died": "1976-06-23",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Imogen_Cunningham"
+  },
+  {
+    "name": "Nan Goldin",
+    "born": "1953-09-12",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nan_Goldin"
+  },
+  {
+    "name": "Don McCullin",
+    "born": "1935-10-09",
+    "nationality": "British",
+    "occupation": [
+      "Photographer",
+      "War Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Don_McCullin"
+  },
+  {
+    "name": "Peter Lindbergh",
+    "born": "1944-11-23",
+    "died": "2019-09-03",
+    "nationality": "German",
+    "occupation": [
+      "Photographer",
+      "Fashion Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Lindbergh"
+  },
+  {
+    "name": "William Eggleston",
+    "born": "1939-07-27",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Eggleston"
+  },
+  {
+    "name": "Garry Winogrand",
+    "born": "1928-01-14",
+    "died": "1984-03-19",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Street Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Garry_Winogrand"
+  },
+  {
+    "name": "Brassaï",
+    "born": "1899-09-09",
+    "died": "1984-07-08",
+    "nationality": "Hungarian-French",
+    "occupation": [
+      "Photographer",
+      "Sculptor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Brassa%C3%AF"
+  },
+  {
+    "name": "Joel-Peter Witkin",
+    "born": "1939-09-13",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joel-Peter_Witkin"
+  },
+  {
+    "name": "Sally Mann",
+    "born": "1951-05-01",
+    "nationality": "American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Mann"
+  },
+  {
+    "name": "Nobuyoshi Araki",
+    "born": "1940-05-25",
+    "nationality": "Japanese",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nobuyoshi_Araki"
+  },
+  {
+    "name": "David LaChapelle",
+    "born": "1963-03-11",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Director"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_LaChapelle"
+  },
+  {
+    "name": "Elliott Erwitt",
+    "born": "1928-07-26",
+    "died": "2023-11-29",
+    "nationality": "French-American",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elliott_Erwitt"
+  },
+  {
+    "name": "Edward Steichen",
+    "born": "1879-03-27",
+    "died": "1973-03-25",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Painter",
+      "Curator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Steichen"
+  },
+  {
+    "name": "Mikhail Baryshnikov",
+    "born": "1948-01-27",
+    "nationality": "Latvian-American",
+    "occupation": [
+      "Ballet Dancer",
+      "Choreographer",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Baryshnikov"
+  },
+  {
+    "name": "Rudolf Nureyev",
+    "born": "1938-03-17",
+    "died": "1993-01-06",
+    "nationality": "Russian-Austrian",
+    "occupation": [
+      "Ballet Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Nureyev"
+  },
+  {
+    "name": "José Carreras",
+    "born": "1946-12-05",
+    "nationality": "Spanish",
+    "occupation": [
+      "Opera Singer",
+      "Tenor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Carreras"
+  },
+  {
+    "name": "Anna Pavlova",
+    "born": "1881-02-12",
+    "died": "1931-01-23",
+    "nationality": "Russian",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Pavlova"
+  },
+  {
+    "name": "Vaslav Nijinsky",
+    "born": "1889-03-12",
+    "died": "1950-04-08",
+    "nationality": "Russian",
+    "occupation": [
+      "Ballet Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vaslav_Nijinsky"
+  },
+  {
+    "name": "Margot Fonteyn",
+    "born": "1919-05-18",
+    "died": "1991-02-21",
+    "nationality": "British",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Margot_Fonteyn"
+  },
+  {
+    "name": "George Balanchine",
+    "born": "1904-01-22",
+    "died": "1983-04-30",
+    "nationality": "Georgian-American",
+    "occupation": [
+      "Ballet Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Balanchine"
+  },
+  {
+    "name": "Enrico Caruso",
+    "born": "1873-02-25",
+    "died": "1921-08-02",
+    "nationality": "Italian",
+    "occupation": [
+      "Opera Singer",
+      "Tenor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Caruso"
+  },
+  {
+    "name": "Renée Fleming",
+    "born": "1959-02-14",
+    "nationality": "American",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Fleming"
+  },
+  {
+    "name": "Jessye Norman",
+    "born": "1945-09-15",
+    "died": "2019-09-30",
+    "nationality": "American",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jessye_Norman"
+  },
+  {
+    "name": "Dietrich Fischer-Dieskau",
+    "born": "1925-05-28",
+    "died": "2012-05-18",
+    "nationality": "German",
+    "occupation": [
+      "Opera Singer",
+      "Baritone"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dietrich_Fischer-Dieskau"
+  },
+  {
+    "name": "Cecilia Bartoli",
+    "born": "1966-06-04",
+    "nationality": "Italian",
+    "occupation": [
+      "Opera Singer",
+      "Mezzo-soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecilia_Bartoli"
+  },
+  {
+    "name": "Joan Sutherland",
+    "born": "1926-11-07",
+    "died": "2010-10-10",
+    "nationality": "Australian",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Sutherland"
+  },
+  {
+    "name": "Birgit Nilsson",
+    "born": "1918-05-17",
+    "died": "2005-12-25",
+    "nationality": "Swedish",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Birgit_Nilsson"
+  },
+  {
+    "name": "Leontyne Price",
+    "born": "1927-02-10",
+    "died": "2024-10-10",
+    "nationality": "American",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Leontyne_Price"
+  },
+  {
+    "name": "Natalia Makarova",
+    "born": "1940-11-21",
+    "nationality": "Russian-American",
+    "occupation": [
+      "Ballet Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalia_Makarova"
+  },
+  {
+    "name": "Misty Copeland",
+    "born": "1982-09-10",
+    "nationality": "American",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Misty_Copeland"
+  },
+  {
+    "name": "Martha Graham",
+    "born": "1894-05-11",
+    "died": "1991-04-01",
+    "nationality": "American",
+    "occupation": [
+      "Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Graham"
+  },
+  {
+    "name": "Alicia Alonso",
+    "born": "1920-12-21",
+    "died": "2019-10-17",
+    "nationality": "Cuban",
+    "occupation": [
+      "Ballet Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Alonso"
+  },
+  {
+    "name": "Galina Ulanova",
+    "born": "1910-01-08",
+    "died": "1998-03-21",
+    "nationality": "Russian",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Galina_Ulanova"
+  },
+  {
+    "name": "Sylvie Guillem",
+    "born": "1965-02-25",
+    "nationality": "French",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvie_Guillem"
+  },
+  {
+    "name": "Carlos Acosta",
+    "born": "1973-06-02",
+    "nationality": "Cuban-British",
+    "occupation": [
+      "Ballet Dancer",
+      "Director"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Acosta"
+  },
+  {
+    "name": "Marius Petipa",
+    "born": "1818-03-11",
+    "died": "1910-07-14",
+    "nationality": "French-Russian",
+    "occupation": [
+      "Ballet Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Marius_Petipa"
+  },
+  {
+    "name": "Bryn Terfel",
+    "born": "1965-11-09",
+    "nationality": "Welsh",
+    "occupation": [
+      "Opera Singer",
+      "Bass-baritone"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryn_Terfel"
+  },
+  {
+    "name": "Anna Netrebko",
+    "born": "1971-09-18",
+    "nationality": "Russian-Austrian",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Netrebko"
+  },
+  {
+    "name": "Montserrat Caballé",
+    "born": "1933-04-12",
+    "died": "2018-10-06",
+    "nationality": "Spanish",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Montserrat_Caball%C3%A9"
+  },
+  {
+    "name": "Jonas Kaufmann",
+    "born": "1969-07-10",
+    "nationality": "German",
+    "occupation": [
+      "Opera Singer",
+      "Tenor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Kaufmann"
+  },
+  {
+    "name": "Nellie Melba",
+    "born": "1861-05-19",
+    "died": "1931-02-23",
+    "nationality": "Australian",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nellie_Melba"
+  },
+  {
+    "name": "Isadora Duncan",
+    "born": "1877-05-26",
+    "died": "1927-09-14",
+    "nationality": "American",
+    "occupation": [
+      "Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Isadora_Duncan"
+  },
+  {
+    "name": "Alvin Ailey",
+    "born": "1931-01-05",
+    "died": "1989-12-01",
+    "nationality": "American",
+    "occupation": [
+      "Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alvin_Ailey"
+  },
+  {
+    "name": "Maurice Béjart",
+    "born": "1927-01-01",
+    "died": "2007-11-22",
+    "nationality": "French",
+    "occupation": [
+      "Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_B%C3%A9jart"
+  },
+  {
+    "name": "Merce Cunningham",
+    "born": "1919-04-16",
+    "died": "2009-07-26",
+    "nationality": "American",
+    "occupation": [
+      "Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Merce_Cunningham"
+  },
+  {
+    "name": "Pina Bausch",
+    "born": "1940-07-27",
+    "died": "2009-06-30",
+    "nationality": "German",
+    "occupation": [
+      "Dancer",
+      "Choreographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pina_Bausch"
+  },
+  {
+    "name": "Maya Plisetskaya",
+    "born": "1925-11-20",
+    "died": "2015-05-02",
+    "nationality": "Russian",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_Plisetskaya"
+  },
+  {
+    "name": "Tamara Karsavina",
+    "born": "1885-03-10",
+    "died": "1978-05-26",
+    "nationality": "Russian-British",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamara_Karsavina"
+  },
+  {
+    "name": "Kiri Te Kanawa",
+    "born": "1944-03-06",
+    "nationality": "New Zealand",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiri_Te_Kanawa"
+  },
+  {
+    "name": "Mirella Freni",
+    "born": "1935-02-27",
+    "died": "2020-02-09",
+    "nationality": "Italian",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirella_Freni"
+  },
+  {
+    "name": "Dmitri Hvorostovsky",
+    "born": "1962-10-16",
+    "died": "2017-11-22",
+    "nationality": "Russian",
+    "occupation": [
+      "Opera Singer",
+      "Baritone"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Hvorostovsky"
+  },
+  {
+    "name": "Sergei Diaghilev",
+    "born": "1872-03-31",
+    "died": "1929-08-19",
+    "nationality": "Russian",
+    "occupation": [
+      "Ballet Impresario",
+      "Art Critic"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Diaghilev"
+  },
+  {
+    "name": "Darcey Bussell",
+    "born": "1969-04-27",
+    "nationality": "British",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Darcey_Bussell"
+  },
+  {
+    "name": "Richard the Lionheart",
+    "born": "1157-09-08",
+    "died": "1199-04-06",
+    "nationality": "English",
+    "occupation": [
+      "Military Leader",
+      "King"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+  },
+  {
+    "name": "Mehmed the Conqueror",
+    "born": "1432-03-30",
+    "died": "1481-05-03",
+    "nationality": "Ottoman",
+    "occupation": [
+      "Military Leader",
+      "Sultan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehmed_the_Conqueror"
+  },
+  {
+    "name": "Vercingetorix",
+    "born": "82 BC",
+    "died": "46 BC",
+    "nationality": "Gallic",
+    "occupation": [
+      "Military Leader",
+      "Chieftain"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vercingetorix"
+  },
+  {
+    "name": "Boudicca",
+    "born": "30",
+    "died": "61",
+    "nationality": "British Celtic",
+    "occupation": [
+      "Military Leader",
+      "Queen"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Boudica"
+  },
+  {
+    "name": "Nader Shah",
+    "born": "1688-08-22",
+    "died": "1747-06-19",
+    "nationality": "Persian",
+    "occupation": [
+      "Military Leader",
+      "Shah"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nader_Shah"
+  },
+  {
+    "name": "Chester Nimitz",
+    "born": "1885-02-24",
+    "died": "1966-02-20",
+    "nationality": "American",
+    "occupation": [
+      "Military Leader",
+      "Fleet Admiral"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chester_W._Nimitz"
+  },
+  {
+    "name": "Isoroku Yamamoto",
+    "born": "1884-04-04",
+    "died": "1943-04-18",
+    "nationality": "Japanese",
+    "occupation": [
+      "Military Leader",
+      "Admiral"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Isoroku_Yamamoto"
+  },
+  {
+    "name": "Erich von Manstein",
+    "born": "1887-11-24",
+    "died": "1973-06-09",
+    "nationality": "German",
+    "occupation": [
+      "Military Leader",
+      "Field Marshal"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Erich_von_Manstein"
+  },
+  {
+    "name": "Heinz Guderian",
+    "born": "1888-06-17",
+    "died": "1954-05-14",
+    "nationality": "German",
+    "occupation": [
+      "Military Leader",
+      "General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinz_Guderian"
+  },
+  {
+    "name": "Wanda Landowska",
+    "born": "1879-07-05",
+    "died": "1959-08-16",
+    "nationality": "Polish",
+    "occupation": [
+      "Harpsichordist",
+      "Pianist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wanda_Landowska"
+  },
+  {
+    "name": "Friedrich List",
+    "born": "1789-08-06",
+    "died": "1846-11-30",
+    "nationality": "German",
+    "occupation": [
+      "Economist",
+      "Political Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_List"
+  },
+  {
+    "name": "Raghuram Rajan",
+    "born": "1963-02-03",
+    "nationality": "Indian",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Raghuram_Rajan"
+  },
+  {
+    "name": "Ha-Joon Chang",
+    "born": "1963-10-07",
+    "nationality": "South Korean",
+    "occupation": [
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ha-Joon_Chang"
+  },
+  {
+    "name": "Nassim Nicholas Taleb",
+    "born": "1960-09-12",
+    "nationality": "Lebanese-American",
+    "occupation": [
+      "Economist",
+      "Essayist",
+      "Statistician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb"
+  },
+  {
+    "name": "Daniel Kahneman",
+    "born": "1934-03-05",
+    "died": "2024-03-27",
+    "nationality": "Israeli-American",
+    "occupation": [
+      "Psychologist",
+      "Economist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Kahneman"
+  },
+  {
+    "name": "Vivian Maier",
+    "born": "1926-02-01",
+    "died": "2009-04-21",
+    "nationality": "American",
+    "occupation": [
+      "Photographer",
+      "Street Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivian_Maier"
+  },
+  {
+    "name": "Mario Testino",
+    "born": "1954-10-30",
+    "nationality": "Peruvian",
+    "occupation": [
+      "Photographer",
+      "Fashion Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Testino"
+  },
+  {
+    "name": "Daido Moriyama",
+    "born": "1938-10-10",
+    "nationality": "Japanese",
+    "occupation": [
+      "Photographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Daido_Moriyama"
+  },
+  {
+    "name": "Adelina Patti",
+    "born": "1843-02-10",
+    "died": "1919-09-27",
+    "nationality": "Italian",
+    "occupation": [
+      "Opera Singer",
+      "Soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Adelina_Patti"
+  },
+  {
+    "name": "Marilyn Horne",
+    "born": "1934-01-16",
+    "nationality": "American",
+    "occupation": [
+      "Opera Singer",
+      "Mezzo-soprano"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Horne"
+  },
+  {
+    "name": "Fyodor Chaliapin",
+    "born": "1873-02-13",
+    "died": "1938-04-12",
+    "nationality": "Russian",
+    "occupation": [
+      "Opera Singer",
+      "Bass"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Feodor_Chaliapin"
+  },
+  {
+    "name": "Roberto Bolle",
+    "born": "1975-03-26",
+    "nationality": "Italian",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Bolle"
+  },
+  {
+    "name": "Alessandra Ferri",
+    "born": "1963-05-06",
+    "nationality": "Italian",
+    "occupation": [
+      "Ballet Dancer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandra_Ferri"
+  },
+  {
+    "name": "Tipu Sultan",
+    "born": "1751-11-20",
+    "died": "1799-05-04",
+    "nationality": "Indian",
+    "occupation": [
+      "Military Leader",
+      "Sultan"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tipu_Sultan"
+  },
+  {
+    "name": "Józef Piłsudski",
+    "born": "1867-12-05",
+    "died": "1935-05-12",
+    "nationality": "Polish",
+    "occupation": [
+      "Military Leader",
+      "Statesman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski"
+  },
+  {
+    "name": "Mustafa Kemal Atatürk",
+    "born": "1881-05-19",
+    "died": "1938-11-10",
+    "nationality": "Turkish",
+    "occupation": [
+      "Military Leader",
+      "President"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
+  },
+  {
+    "name": "Yuri Gagarin",
+    "born": "1934-03-09",
+    "died": "1968-03-27",
+    "nationality": "Soviet",
+    "occupation": [
+      "Cosmonaut",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuri_Gagarin"
+  },
+  {
+    "name": "Neil Armstrong",
+    "born": "1930-08-05",
+    "died": "2012-08-25",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Pilot",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Armstrong"
+  },
+  {
+    "name": "Buzz Aldrin",
+    "born": "1930-01-20",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Pilot",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Buzz_Aldrin"
+  },
+  {
+    "name": "Sally Ride",
+    "born": "1951-05-26",
+    "died": "2012-07-23",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Physicist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Ride"
+  },
+  {
+    "name": "John Glenn",
+    "born": "1921-07-18",
+    "died": "2016-12-08",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Pilot",
+      "Senator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Glenn"
+  },
+  {
+    "name": "Chris Hadfield",
+    "born": "1959-08-29",
+    "nationality": "Canadian",
+    "occupation": [
+      "Astronaut",
+      "Pilot",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Hadfield"
+  },
+  {
+    "name": "Valentina Tereshkova",
+    "born": "1937-03-06",
+    "nationality": "Soviet",
+    "occupation": [
+      "Cosmonaut",
+      "Engineer",
+      "Politician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentina_Tereshkova"
+  },
+  {
+    "name": "Alan Shepard",
+    "born": "1923-11-18",
+    "died": "1998-07-21",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Naval Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Shepard"
+  },
+  {
+    "name": "Alexei Leonov",
+    "born": "1934-05-30",
+    "died": "2019-10-11",
+    "nationality": "Soviet",
+    "occupation": [
+      "Cosmonaut",
+      "Air Force Pilot",
+      "Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Leonov"
+  },
+  {
+    "name": "Mae Jemison",
+    "born": "1956-10-17",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Physician",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mae_Jemison"
+  },
+  {
+    "name": "Michael Collins",
+    "born": "1930-10-31",
+    "died": "2021-04-28",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Test Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Collins_(astronaut)"
+  },
+  {
+    "name": "Peggy Whitson",
+    "born": "1960-02-09",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Biochemist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Whitson"
+  },
+  {
+    "name": "Sunita Williams",
+    "born": "1965-09-19",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Naval Officer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunita_Williams"
+  },
+  {
+    "name": "Scott Kelly",
+    "born": "1964-02-21",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Naval Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Kelly"
+  },
+  {
+    "name": "Sergei Korolev",
+    "born": "1907-01-12",
+    "died": "1966-01-14",
+    "nationality": "Soviet",
+    "occupation": [
+      "Rocket Engineer",
+      "Spacecraft Designer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Korolev"
+  },
+  {
+    "name": "Wernher von Braun",
+    "born": "1912-03-23",
+    "died": "1977-06-16",
+    "nationality": "German-American",
+    "occupation": [
+      "Rocket Engineer",
+      "Aerospace Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wernher_von_Braun"
+  },
+  {
+    "name": "Gherman Titov",
+    "born": "1935-09-11",
+    "died": "2000-09-20",
+    "nationality": "Soviet",
+    "occupation": [
+      "Cosmonaut",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gherman_Titov"
+  },
+  {
+    "name": "Gus Grissom",
+    "born": "1926-04-03",
+    "died": "1967-01-27",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Test Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gus_Grissom"
+  },
+  {
+    "name": "Jim Lovell",
+    "born": "1928-03-25",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Naval Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Lovell"
+  },
+  {
+    "name": "Yang Liwei",
+    "born": "1965-06-21",
+    "nationality": "Chinese",
+    "occupation": [
+      "Astronaut",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Yang_Liwei"
+  },
+  {
+    "name": "Kalpana Chawla",
+    "born": "1962-03-17",
+    "died": "2003-02-01",
+    "nationality": "Indian-American",
+    "occupation": [
+      "Astronaut",
+      "Aerospace Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalpana_Chawla"
+  },
+  {
+    "name": "Rakesh Sharma",
+    "born": "1949-01-13",
+    "nationality": "Indian",
+    "occupation": [
+      "Astronaut",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rakesh_Sharma"
+  },
+  {
+    "name": "Eugene Cernan",
+    "born": "1934-03-14",
+    "died": "2017-01-16",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Naval Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Cernan"
+  },
+  {
+    "name": "Pete Conrad",
+    "born": "1930-06-02",
+    "died": "1999-07-08",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Naval Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Conrad"
+  },
+  {
+    "name": "Eileen Collins",
+    "born": "1956-11-19",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Test Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Collins"
+  },
+  {
+    "name": "Samantha Cristoforetti",
+    "born": "1977-04-26",
+    "nationality": "Italian",
+    "occupation": [
+      "Astronaut",
+      "Pilot",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Samantha_Cristoforetti"
+  },
+  {
+    "name": "Thomas Pesquet",
+    "born": "1978-02-27",
+    "nationality": "French",
+    "occupation": [
+      "Astronaut",
+      "Pilot",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Pesquet"
+  },
+  {
+    "name": "Svetlana Savitskaya",
+    "born": "1948-08-08",
+    "nationality": "Soviet",
+    "occupation": [
+      "Cosmonaut",
+      "Test Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Svetlana_Savitskaya"
+  },
+  {
+    "name": "Christa McAuliffe",
+    "born": "1948-09-02",
+    "died": "1986-01-28",
+    "nationality": "American",
+    "occupation": [
+      "Teacher",
+      "Astronaut"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christa_McAuliffe"
+  },
+  {
+    "name": "Sigmund Jaehn",
+    "born": "1937-02-13",
+    "died": "2019-09-21",
+    "nationality": "German",
+    "occupation": [
+      "Cosmonaut",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_J%C3%A4hn"
+  },
+  {
+    "name": "Chiaki Mukai",
+    "born": "1952-05-06",
+    "nationality": "Japanese",
+    "occupation": [
+      "Astronaut",
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chiaki_Mukai"
+  },
+  {
+    "name": "Tim Peake",
+    "born": "1972-04-07",
+    "nationality": "British",
+    "occupation": [
+      "Astronaut",
+      "Army Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Peake"
+  },
+  {
+    "name": "Marcos Pontes",
+    "born": "1963-03-11",
+    "nationality": "Brazilian",
+    "occupation": [
+      "Astronaut",
+      "Pilot",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcos_Pontes"
+  },
+  {
+    "name": "Koichi Wakata",
+    "born": "1963-08-01",
+    "nationality": "Japanese",
+    "occupation": [
+      "Astronaut",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Wakata"
+  },
+  {
+    "name": "Julie Payette",
+    "born": "1963-10-20",
+    "nationality": "Canadian",
+    "occupation": [
+      "Astronaut",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Payette"
+  },
+  {
+    "name": "Story Musgrave",
+    "born": "1935-08-19",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Story_Musgrave"
+  },
+  {
+    "name": "Ed White",
+    "born": "1930-11-14",
+    "died": "1967-01-27",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Test Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_White_(astronaut)"
+  },
+  {
+    "name": "Valeri Polyakov",
+    "born": "1942-04-27",
+    "died": "2022-09-07",
+    "nationality": "Soviet",
+    "occupation": [
+      "Cosmonaut",
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Valeri_Polyakov"
+  },
+  {
+    "name": "Robert Goddard",
+    "born": "1882-10-05",
+    "died": "1945-08-10",
+    "nationality": "American",
+    "occupation": [
+      "Rocket Engineer",
+      "Physicist",
+      "Inventor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_H._Goddard"
+  },
+  {
+    "name": "Konstantin Tsiolkovsky",
+    "born": "1857-09-17",
+    "died": "1935-09-19",
+    "nationality": "Russian",
+    "occupation": [
+      "Rocket Scientist",
+      "Mathematician",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky"
+  },
+  {
+    "name": "Christina Koch",
+    "born": "1979-01-29",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Electrical Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Koch"
+  },
+  {
+    "name": "Jessica Watkins",
+    "born": "1988-05-14",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Geologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Watkins"
+  },
+  {
+    "name": "Soichi Noguchi",
+    "born": "1965-04-15",
+    "nationality": "Japanese",
+    "occupation": [
+      "Astronaut",
+      "Aeronautical Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Soichi_Noguchi"
+  },
+  {
+    "name": "Sergei Krikalev",
+    "born": "1958-08-27",
+    "nationality": "Russian",
+    "occupation": [
+      "Cosmonaut",
+      "Mechanical Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Krikalev"
+  },
+  {
+    "name": "Anatoly Solovyev",
+    "born": "1948-01-16",
+    "nationality": "Soviet",
+    "occupation": [
+      "Cosmonaut",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anatoly_Solovyev"
+  },
+  {
+    "name": "Wang Yaping",
+    "born": "1980-01-27",
+    "nationality": "Chinese",
+    "occupation": [
+      "Astronaut",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wang_Yaping"
+  },
+  {
+    "name": "Takao Doi",
+    "born": "1954-09-18",
+    "nationality": "Japanese",
+    "occupation": [
+      "Astronaut",
+      "Aerospace Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Takao_Doi"
+  },
+  {
+    "name": "Guion Bluford",
+    "born": "1942-11-22",
+    "nationality": "American",
+    "occupation": [
+      "Astronaut",
+      "Aerospace Engineer",
+      "Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Guion_Bluford"
+  },
+  {
+    "name": "Anousheh Ansari",
+    "born": "1966-09-12",
+    "nationality": "Iranian-American",
+    "occupation": [
+      "Space Tourist",
+      "Engineer",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Anousheh_Ansari"
+  },
+  {
+    "name": "Dennis Tito",
+    "born": "1940-08-08",
+    "nationality": "American",
+    "occupation": [
+      "Space Tourist",
+      "Engineer",
+      "Entrepreneur"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dennis_Tito"
+  },
+  {
+    "name": "Leonhard Euler",
+    "born": "1707-04-15",
+    "died": "1783-09-18",
+    "nationality": "Swiss",
+    "occupation": [
+      "Mathematician",
+      "Physicist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler"
+  },
+  {
+    "name": "Carl Friedrich Gauss",
+    "born": "1777-04-30",
+    "died": "1855-02-23",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician",
+      "Physicist",
+      "Astronomer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"
+  },
+  {
+    "name": "Bernhard Riemann",
+    "born": "1826-09-17",
+    "died": "1866-07-20",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernhard_Riemann"
+  },
+  {
+    "name": "Pierre-Simon Laplace",
+    "born": "1749-03-23",
+    "died": "1827-03-05",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician",
+      "Astronomer",
+      "Physicist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace"
+  },
+  {
+    "name": "Joseph-Louis Lagrange",
+    "born": "1736-01-25",
+    "died": "1813-04-10",
+    "nationality": "Italian-French",
+    "occupation": [
+      "Mathematician",
+      "Astronomer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange"
+  },
+  {
+    "name": "Augustin-Louis Cauchy",
+    "born": "1789-08-21",
+    "died": "1857-05-23",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy"
+  },
+  {
+    "name": "David Hilbert",
+    "born": "1862-01-23",
+    "died": "1943-02-14",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Hilbert"
+  },
+  {
+    "name": "Henri Poincare",
+    "born": "1854-04-29",
+    "died": "1912-07-17",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician",
+      "Physicist",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9"
+  },
+  {
+    "name": "Emmy Noether",
+    "born": "1882-03-23",
+    "died": "1935-04-14",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmy_Noether"
+  },
+  {
+    "name": "Terence Tao",
+    "born": "1975-07-17",
+    "nationality": "Australian-American",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence_Tao"
+  },
+  {
+    "name": "Andrew Wiles",
+    "born": "1953-04-11",
+    "nationality": "British",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Wiles"
+  },
+  {
+    "name": "Grigori Perelman",
+    "born": "1966-06-13",
+    "nationality": "Russian",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Grigori_Perelman"
+  },
+  {
+    "name": "Kurt Goedel",
+    "born": "1906-04-28",
+    "died": "1978-01-14",
+    "nationality": "Austrian-American",
+    "occupation": [
+      "Mathematician",
+      "Logician",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_G%C3%B6del"
+  },
+  {
+    "name": "Euclid",
+    "born": "c. 325 BC",
+    "died": "c. 265 BC",
+    "nationality": "Greek",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Euclid"
+  },
+  {
+    "name": "Archimedes",
+    "born": "c. 287 BC",
+    "died": "c. 212 BC",
+    "nationality": "Greek",
+    "occupation": [
+      "Mathematician",
+      "Physicist",
+      "Engineer",
+      "Inventor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Archimedes"
+  },
+  {
+    "name": "Pythagoras",
+    "born": "c. 570 BC",
+    "died": "c. 495 BC",
+    "nationality": "Greek",
+    "occupation": [
+      "Mathematician",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pythagoras"
+  },
+  {
+    "name": "Blaise Pascal",
+    "born": "1623-06-19",
+    "died": "1662-08-19",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician",
+      "Physicist",
+      "Philosopher",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal"
+  },
+  {
+    "name": "Pierre de Fermat",
+    "born": "1601-08-17",
+    "died": "1665-01-12",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician",
+      "Lawyer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Fermat"
+  },
+  {
+    "name": "Gottfried Wilhelm Leibniz",
+    "born": "1646-07-01",
+    "died": "1716-11-14",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician",
+      "Philosopher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+  },
+  {
+    "name": "Georg Cantor",
+    "born": "1845-03-03",
+    "died": "1918-01-06",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Cantor"
+  },
+  {
+    "name": "John von Neumann",
+    "born": "1903-12-28",
+    "died": "1957-02-08",
+    "nationality": "Hungarian-American",
+    "occupation": [
+      "Mathematician",
+      "Physicist",
+      "Computer Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/John_von_Neumann"
+  },
+  {
+    "name": "Paul Erdos",
+    "born": "1913-03-26",
+    "died": "1996-09-20",
+    "nationality": "Hungarian",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Erd%C5%91s"
+  },
+  {
+    "name": "Evariste Galois",
+    "born": "1811-10-25",
+    "died": "1832-05-31",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89variste_Galois"
+  },
+  {
+    "name": "Niels Henrik Abel",
+    "born": "1802-08-05",
+    "died": "1829-04-06",
+    "nationality": "Norwegian",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Niels_Henrik_Abel"
+  },
+  {
+    "name": "Sofia Kovalevskaya",
+    "born": "1850-01-15",
+    "died": "1891-02-10",
+    "nationality": "Russian",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofia_Kovalevskaya"
+  },
+  {
+    "name": "Maryam Mirzakhani",
+    "born": "1977-05-12",
+    "died": "2017-07-14",
+    "nationality": "Iranian",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
+  },
+  {
+    "name": "Rene Descartes",
+    "born": "1596-03-31",
+    "died": "1650-02-11",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician",
+      "Philosopher",
+      "Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+  },
+  {
+    "name": "Carl Gustav Jacob Jacobi",
+    "born": "1804-12-10",
+    "died": "1851-02-18",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi"
+  },
+  {
+    "name": "Andrey Kolmogorov",
+    "born": "1903-04-25",
+    "died": "1987-10-20",
+    "nationality": "Soviet",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrey_Kolmogorov"
+  },
+  {
+    "name": "Alexander Grothendieck",
+    "born": "1928-03-28",
+    "died": "2014-11-13",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Grothendieck"
+  },
+  {
+    "name": "Katherine Johnson",
+    "born": "1918-08-26",
+    "died": "2020-02-24",
+    "nationality": "American",
+    "occupation": [
+      "Mathematician",
+      "Physicist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+  },
+  {
+    "name": "Benoit Mandelbrot",
+    "born": "1924-11-20",
+    "died": "2010-10-14",
+    "nationality": "Polish-French-American",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Benoit_Mandelbrot"
+  },
+  {
+    "name": "G.H. Hardy",
+    "born": "1877-02-07",
+    "died": "1947-12-01",
+    "nationality": "British",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/G._H._Hardy"
+  },
+  {
+    "name": "Felix Klein",
+    "born": "1849-04-25",
+    "died": "1925-06-22",
+    "nationality": "German",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Klein"
+  },
+  {
+    "name": "Hermann Weyl",
+    "born": "1885-11-09",
+    "died": "1955-12-08",
+    "nationality": "German-American",
+    "occupation": [
+      "Mathematician",
+      "Physicist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Weyl"
+  },
+  {
+    "name": "Elie Cartan",
+    "born": "1869-04-09",
+    "died": "1951-05-06",
+    "nationality": "French",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89lie_Cartan"
+  },
+  {
+    "name": "Norbert Wiener",
+    "born": "1894-11-26",
+    "died": "1964-03-18",
+    "nationality": "American",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Norbert_Wiener"
+  },
+  {
+    "name": "Stefan Banach",
+    "born": "1892-03-30",
+    "died": "1945-08-31",
+    "nationality": "Polish",
+    "occupation": [
+      "Mathematician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Banach"
+  },
+  {
+    "name": "Hippocrates",
+    "born": "c. 460 BC",
+    "died": "c. 370 BC",
+    "nationality": "Greek",
+    "occupation": [
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippocrates"
+  },
+  {
+    "name": "Florence Nightingale",
+    "born": "1820-05-12",
+    "died": "1910-08-13",
+    "nationality": "British",
+    "occupation": [
+      "Nurse",
+      "Social Reformer",
+      "Statistician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+  },
+  {
+    "name": "Jonas Salk",
+    "born": "1914-10-28",
+    "died": "1995-06-23",
+    "nationality": "American",
+    "occupation": [
+      "Physician",
+      "Virologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Salk"
+  },
+  {
+    "name": "Alexander Fleming",
+    "born": "1881-08-06",
+    "died": "1955-03-11",
+    "nationality": "British",
+    "occupation": [
+      "Physician",
+      "Microbiologist",
+      "Pharmacologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Fleming"
+  },
+  {
+    "name": "Louis Pasteur",
+    "born": "1822-12-27",
+    "died": "1895-09-28",
+    "nationality": "French",
+    "occupation": [
+      "Chemist",
+      "Microbiologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+  },
+  {
+    "name": "Edward Jenner",
+    "born": "1749-05-17",
+    "died": "1823-01-26",
+    "nationality": "British",
+    "occupation": [
+      "Physician",
+      "Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Jenner"
+  },
+  {
+    "name": "Joseph Lister",
+    "born": "1827-04-05",
+    "died": "1912-02-10",
+    "nationality": "British",
+    "occupation": [
+      "Surgeon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Lister"
+  },
+  {
+    "name": "William Harvey",
+    "born": "1578-04-01",
+    "died": "1657-06-03",
+    "nationality": "English",
+    "occupation": [
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Harvey"
+  },
+  {
+    "name": "Robert Koch",
+    "born": "1843-12-11",
+    "died": "1910-05-27",
+    "nationality": "German",
+    "occupation": [
+      "Physician",
+      "Microbiologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Koch"
+  },
+  {
+    "name": "Galen",
+    "born": "129",
+    "died": "c. 216",
+    "nationality": "Roman",
+    "occupation": [
+      "Physician",
+      "Philosopher",
+      "Surgeon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Galen"
+  },
+  {
+    "name": "Ignaz Semmelweis",
+    "born": "1818-07-01",
+    "died": "1865-08-13",
+    "nationality": "Hungarian",
+    "occupation": [
+      "Physician",
+      "Obstetrician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+  },
+  {
+    "name": "Albert Schweitzer",
+    "born": "1875-01-14",
+    "died": "1965-09-04",
+    "nationality": "German-French",
+    "occupation": [
+      "Physician",
+      "Theologian",
+      "Philosopher",
+      "Musician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Schweitzer"
+  },
+  {
+    "name": "Christiaan Barnard",
+    "born": "1922-11-08",
+    "died": "2001-09-02",
+    "nationality": "South African",
+    "occupation": [
+      "Cardiac Surgeon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiaan_Barnard"
+  },
+  {
+    "name": "Virginia Apgar",
+    "born": "1909-06-07",
+    "died": "1974-08-07",
+    "nationality": "American",
+    "occupation": [
+      "Physician",
+      "Anesthesiologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Apgar"
+  },
+  {
+    "name": "Paul Ehrlich",
+    "born": "1854-03-14",
+    "died": "1915-08-20",
+    "nationality": "German",
+    "occupation": [
+      "Physician",
+      "Immunologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Ehrlich"
+  },
+  {
+    "name": "Elizabeth Blackwell",
+    "born": "1821-02-03",
+    "died": "1910-05-31",
+    "nationality": "British-American",
+    "occupation": [
+      "Physician"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Blackwell"
+  },
+  {
+    "name": "Andreas Vesalius",
+    "born": "1514-12-31",
+    "died": "1564-10-15",
+    "nationality": "Flemish",
+    "occupation": [
+      "Physician",
+      "Anatomist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Vesalius"
+  },
+  {
+    "name": "Avicenna",
+    "born": "980",
+    "died": "1037-06-22",
+    "nationality": "Persian",
+    "occupation": [
+      "Physician",
+      "Philosopher",
+      "Astronomer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Avicenna"
+  },
+  {
+    "name": "Walter Reed",
+    "born": "1851-09-13",
+    "died": "1902-11-22",
+    "nationality": "American",
+    "occupation": [
+      "Physician",
+      "Army Surgeon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Reed"
+  },
+  {
+    "name": "Albert Sabin",
+    "born": "1906-08-26",
+    "died": "1993-03-03",
+    "nationality": "Polish-American",
+    "occupation": [
+      "Physician",
+      "Virologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Sabin"
+  },
+  {
+    "name": "Charles Drew",
+    "born": "1904-06-03",
+    "died": "1950-04-01",
+    "nationality": "American",
+    "occupation": [
+      "Physician",
+      "Surgeon",
+      "Medical Researcher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_R._Drew"
+  },
+  {
+    "name": "Mary Edwards Walker",
+    "born": "1832-11-26",
+    "died": "1919-02-21",
+    "nationality": "American",
+    "occupation": [
+      "Physician",
+      "Surgeon",
+      "Women's Rights Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Edwards_Walker"
+  },
+  {
+    "name": "Harvey Cushing",
+    "born": "1869-04-08",
+    "died": "1939-10-07",
+    "nationality": "American",
+    "occupation": [
+      "Neurosurgeon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Cushing"
+  },
+  {
+    "name": "Willem Einthoven",
+    "born": "1860-05-21",
+    "died": "1927-09-29",
+    "nationality": "Dutch",
+    "occupation": [
+      "Physician",
+      "Physiologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Willem_Einthoven"
+  },
+  {
+    "name": "Atul Gawande",
+    "born": "1965-11-05",
+    "nationality": "American",
+    "occupation": [
+      "Surgeon",
+      "Author",
+      "Public Health Researcher"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Atul_Gawande"
+  },
+  {
+    "name": "Paul Farmer",
+    "born": "1959-10-26",
+    "died": "2022-02-21",
+    "nationality": "American",
+    "occupation": [
+      "Physician",
+      "Anthropologist",
+      "Humanitarian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Farmer"
+  },
+  {
+    "name": "Denis Mukwege",
+    "born": "1955-03-01",
+    "nationality": "Congolese",
+    "occupation": [
+      "Gynecologist",
+      "Human Rights Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Mukwege"
+  },
+  {
+    "name": "Tu Youyou",
+    "born": "1930-12-30",
+    "nationality": "Chinese",
+    "occupation": [
+      "Pharmaceutical Chemist",
+      "Malariologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tu_Youyou"
+  },
+  {
+    "name": "Siddhartha Mukherjee",
+    "born": "1970-07-21",
+    "nationality": "Indian-American",
+    "occupation": [
+      "Physician",
+      "Oncologist",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Siddhartha_Mukherjee"
+  },
+  {
+    "name": "Crawford Long",
+    "born": "1815-11-01",
+    "died": "1878-06-16",
+    "nationality": "American",
+    "occupation": [
+      "Physician",
+      "Surgeon",
+      "Pharmacist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Crawford_Long"
+  },
+  {
+    "name": "William Osler",
+    "born": "1849-07-12",
+    "died": "1919-12-29",
+    "nationality": "Canadian",
+    "occupation": [
+      "Physician",
+      "Professor of Medicine"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Osler"
+  },
+  {
+    "name": "Frederick Banting",
+    "born": "1891-11-14",
+    "died": "1941-02-21",
+    "nationality": "Canadian",
+    "occupation": [
+      "Physician",
+      "Medical Scientist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Banting"
+  },
+  {
+    "name": "Clara Barton",
+    "born": "1821-12-25",
+    "died": "1912-04-12",
+    "nationality": "American",
+    "occupation": [
+      "Nurse",
+      "Humanitarian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Clara_Barton"
+  },
+  {
+    "name": "Mary Seacole",
+    "born": "1805-11-23",
+    "died": "1881-05-14",
+    "nationality": "Jamaican",
+    "occupation": [
+      "Nurse",
+      "Businesswoman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Seacole"
+  },
+  {
+    "name": "Joseph Murray",
+    "born": "1919-04-01",
+    "died": "2012-11-26",
+    "nationality": "American",
+    "occupation": [
+      "Surgeon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Murray"
+  },
+  {
+    "name": "Michael DeBakey",
+    "born": "1908-09-07",
+    "died": "2008-07-11",
+    "nationality": "American",
+    "occupation": [
+      "Cardiovascular Surgeon"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_DeBakey"
+  },
+  {
+    "name": "James Parkinson",
+    "born": "1755-04-11",
+    "died": "1824-12-21",
+    "nationality": "British",
+    "occupation": [
+      "Physician",
+      "Geologist",
+      "Paleontologist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Parkinson"
+  },
+  {
+    "name": "Rosalind Franklin",
+    "born": "1920-07-25",
+    "died": "1958-04-16",
+    "nationality": "British",
+    "occupation": [
+      "Chemist",
+      "X-ray Crystallographer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+  },
+  {
+    "name": "Charles Lindbergh",
+    "born": "1902-02-04",
+    "died": "1974-08-26",
+    "nationality": "American",
+    "occupation": [
+      "Aviator",
+      "Author",
+      "Explorer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+  },
+  {
+    "name": "Chuck Yeager",
+    "born": "1923-02-13",
+    "died": "2020-12-07",
+    "nationality": "American",
+    "occupation": [
+      "Test Pilot",
+      "Air Force General"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Chuck_Yeager"
+  },
+  {
+    "name": "Bessie Coleman",
+    "born": "1892-01-26",
+    "died": "1926-04-30",
+    "nationality": "American",
+    "occupation": [
+      "Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bessie_Coleman"
+  },
+  {
+    "name": "Wilbur Wright",
+    "born": "1867-04-16",
+    "died": "1912-05-30",
+    "nationality": "American",
+    "occupation": [
+      "Aviator",
+      "Inventor",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wright_brothers"
+  },
+  {
+    "name": "Orville Wright",
+    "born": "1871-08-19",
+    "died": "1948-01-30",
+    "nationality": "American",
+    "occupation": [
+      "Aviator",
+      "Inventor",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wright_brothers"
+  },
+  {
+    "name": "Louis Bleriot",
+    "born": "1872-07-01",
+    "died": "1936-08-01",
+    "nationality": "French",
+    "occupation": [
+      "Aviator",
+      "Inventor",
+      "Engineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Bl%C3%A9riot"
+  },
+  {
+    "name": "Manfred von Richthofen",
+    "born": "1892-05-02",
+    "died": "1918-04-21",
+    "nationality": "German",
+    "occupation": [
+      "Fighter Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen"
+  },
+  {
+    "name": "Howard Hughes",
+    "born": "1905-12-24",
+    "died": "1976-04-05",
+    "nationality": "American",
+    "occupation": [
+      "Aviator",
+      "Film Producer",
+      "Businessman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Hughes"
+  },
+  {
+    "name": "Antoine de Saint-Exupery",
+    "born": "1900-06-29",
+    "died": "1944-07-31",
+    "nationality": "French",
+    "occupation": [
+      "Aviator",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
+  },
+  {
+    "name": "Jacqueline Cochran",
+    "born": "1906-05-11",
+    "died": "1980-08-09",
+    "nationality": "American",
+    "occupation": [
+      "Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_Cochran"
+  },
+  {
+    "name": "Roald Amundsen",
+    "born": "1872-07-16",
+    "died": "1928-06-18",
+    "nationality": "Norwegian",
+    "occupation": [
+      "Explorer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Roald_Amundsen"
+  },
+  {
+    "name": "Ernest Shackleton",
+    "born": "1874-02-15",
+    "died": "1922-01-05",
+    "nationality": "British",
+    "occupation": [
+      "Explorer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Shackleton"
+  },
+  {
+    "name": "Robert Falcon Scott",
+    "born": "1868-06-06",
+    "died": "1912-03-29",
+    "nationality": "British",
+    "occupation": [
+      "Explorer",
+      "Naval Officer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott"
+  },
+  {
+    "name": "Edmund Hillary",
+    "born": "1919-07-20",
+    "died": "2008-01-11",
+    "nationality": "New Zealander",
+    "occupation": [
+      "Mountaineer",
+      "Explorer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Hillary"
+  },
+  {
+    "name": "Tenzing Norgay",
+    "born": "1914-05-29",
+    "died": "1986-05-09",
+    "nationality": "Nepali-Indian",
+    "occupation": [
+      "Mountaineer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Tenzing_Norgay"
+  },
+  {
+    "name": "Reinhold Messner",
+    "born": "1944-09-17",
+    "nationality": "Italian",
+    "occupation": [
+      "Mountaineer",
+      "Explorer",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Reinhold_Messner"
+  },
+  {
+    "name": "Jacques Cousteau",
+    "born": "1910-06-11",
+    "died": "1997-06-25",
+    "nationality": "French",
+    "occupation": [
+      "Explorer",
+      "Conservationist",
+      "Filmmaker"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Cousteau"
+  },
+  {
+    "name": "Steve Fossett",
+    "born": "1944-04-22",
+    "died": "2007-09-03",
+    "nationality": "American",
+    "occupation": [
+      "Aviator",
+      "Adventurer",
+      "Businessman"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Fossett"
+  },
+  {
+    "name": "Ranulph Fiennes",
+    "born": "1944-03-07",
+    "nationality": "British",
+    "occupation": [
+      "Explorer",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Ranulph_Fiennes"
+  },
+  {
+    "name": "Amy Johnson",
+    "born": "1903-07-01",
+    "died": "1941-01-05",
+    "nationality": "British",
+    "occupation": [
+      "Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Amy_Johnson"
+  },
+  {
+    "name": "Harriet Quimby",
+    "born": "1875-05-11",
+    "died": "1912-07-01",
+    "nationality": "American",
+    "occupation": [
+      "Aviator",
+      "Journalist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Quimby"
+  },
+  {
+    "name": "Dick Rutan",
+    "born": "1938-07-01",
+    "died": "2024-05-04",
+    "nationality": "American",
+    "occupation": [
+      "Aviator",
+      "Test Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dick_Rutan"
+  },
+  {
+    "name": "Jeana Yeager",
+    "born": "1952-05-18",
+    "nationality": "American",
+    "occupation": [
+      "Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeana_Yeager"
+  },
+  {
+    "name": "Bertrand Piccard",
+    "born": "1958-03-01",
+    "nationality": "Swiss",
+    "occupation": [
+      "Psychiatrist",
+      "Balloonist",
+      "Adventurer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertrand_Piccard"
+  },
+  {
+    "name": "Felix Baumgartner",
+    "born": "1969-04-20",
+    "nationality": "Austrian",
+    "occupation": [
+      "Skydiver",
+      "Daredevil"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Baumgartner"
+  },
+  {
+    "name": "Fridtjof Nansen",
+    "born": "1861-10-10",
+    "died": "1930-05-13",
+    "nationality": "Norwegian",
+    "occupation": [
+      "Explorer",
+      "Scientist",
+      "Diplomat",
+      "Humanitarian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Fridtjof_Nansen"
+  },
+  {
+    "name": "Thor Heyerdahl",
+    "born": "1914-10-06",
+    "died": "2002-04-18",
+    "nationality": "Norwegian",
+    "occupation": [
+      "Explorer",
+      "Ethnographer",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Thor_Heyerdahl"
+  },
+  {
+    "name": "Wiley Post",
+    "born": "1898-11-22",
+    "died": "1935-08-15",
+    "nationality": "American",
+    "occupation": [
+      "Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wiley_Post"
+  },
+  {
+    "name": "Beryl Markham",
+    "born": "1902-10-26",
+    "died": "1986-08-03",
+    "nationality": "British-Kenyan",
+    "occupation": [
+      "Aviator",
+      "Author",
+      "Horse Trainer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Beryl_Markham"
+  },
+  {
+    "name": "Jean-Loup Chretien",
+    "born": "1938-08-20",
+    "nationality": "French",
+    "occupation": [
+      "Astronaut",
+      "Fighter Pilot"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Loup_Chr%C3%A9tien"
+  },
+  {
+    "name": "Umberto Nobile",
+    "born": "1885-01-21",
+    "died": "1978-07-30",
+    "nationality": "Italian",
+    "occupation": [
+      "Aviator",
+      "Explorer",
+      "Airship Designer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Umberto_Nobile"
+  },
+  {
+    "name": "Pancho Barnes",
+    "born": "1901-07-22",
+    "died": "1975-03-30",
+    "nationality": "American",
+    "occupation": [
+      "Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Pancho_Barnes"
+  },
+  {
+    "name": "Lincoln Ellsworth",
+    "born": "1880-05-12",
+    "died": "1951-05-26",
+    "nationality": "American",
+    "occupation": [
+      "Explorer",
+      "Aviator"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lincoln_Ellsworth"
+  },
+  {
+    "name": "Jacques Piccard",
+    "born": "1922-07-28",
+    "died": "2008-11-01",
+    "nationality": "Swiss",
+    "occupation": [
+      "Oceanographer",
+      "Engineer",
+      "Explorer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Piccard"
+  },
+  {
+    "name": "George Carlin",
+    "born": "1937-05-12",
+    "died": "2008-06-22",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Carlin"
+  },
+  {
+    "name": "Richard Pryor",
+    "born": "1940-12-01",
+    "died": "2005-12-10",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Pryor"
+  },
+  {
+    "name": "Lenny Bruce",
+    "born": "1925-10-13",
+    "died": "1966-08-03",
+    "nationality": "American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lenny_Bruce"
+  },
+  {
+    "name": "Joan Rivers",
+    "born": "1933-06-08",
+    "died": "2014-09-04",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress",
+      "Television Host"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Rivers"
+  },
+  {
+    "name": "Mitch Hedberg",
+    "born": "1968-02-24",
+    "died": "2005-03-30",
+    "nationality": "American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitch_Hedberg"
+  },
+  {
+    "name": "Bill Hicks",
+    "born": "1961-12-16",
+    "died": "1994-02-26",
+    "nationality": "American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Hicks"
+  },
+  {
+    "name": "Don Rickles",
+    "born": "1926-05-08",
+    "died": "2017-04-06",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Don_Rickles"
+  },
+  {
+    "name": "Rodney Dangerfield",
+    "born": "1921-11-22",
+    "died": "2004-10-05",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Dangerfield"
+  },
+  {
+    "name": "Sam Kinison",
+    "born": "1953-12-08",
+    "died": "1992-04-10",
+    "nationality": "American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Kinison"
+  },
+  {
+    "name": "Bob Hope",
+    "born": "1903-05-29",
+    "died": "2003-07-27",
+    "nationality": "British-American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Hope"
+  },
+  {
+    "name": "Lucille Ball",
+    "born": "1911-08-06",
+    "died": "1989-04-26",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucille_Ball"
+  },
+  {
+    "name": "Red Skelton",
+    "born": "1913-07-18",
+    "died": "1997-09-17",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Clown"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Skelton"
+  },
+  {
+    "name": "Jonathan Winters",
+    "born": "1925-11-11",
+    "died": "2013-04-11",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Winters"
+  },
+  {
+    "name": "Phyllis Diller",
+    "born": "1917-07-17",
+    "died": "2012-08-20",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Phyllis_Diller"
+  },
+  {
+    "name": "Mort Sahl",
+    "born": "1927-05-11",
+    "died": "2021-10-26",
+    "nationality": "Canadian-American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mort_Sahl"
+  },
+  {
+    "name": "Henny Youngman",
+    "born": "1906-03-16",
+    "died": "1998-02-24",
+    "nationality": "British-American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Henny_Youngman"
+  },
+  {
+    "name": "Dick Gregory",
+    "born": "1932-10-12",
+    "died": "2017-08-19",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Civil Rights Activist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Dick_Gregory"
+  },
+  {
+    "name": "Norm Macdonald",
+    "born": "1959-10-17",
+    "died": "2021-09-14",
+    "nationality": "Canadian",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Norm_Macdonald"
+  },
+  {
+    "name": "Redd Foxx",
+    "born": "1922-12-09",
+    "died": "1991-10-11",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Redd_Foxx"
+  },
+  {
+    "name": "Lily Tomlin",
+    "born": "1939-09-01",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress",
+      "Writer",
+      "Producer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Lily_Tomlin"
+  },
+  {
+    "name": "Andy Kaufman",
+    "born": "1949-01-17",
+    "died": "1984-05-16",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Performance Artist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Kaufman"
+  },
+  {
+    "name": "Bernie Mac",
+    "born": "1957-10-05",
+    "died": "2008-08-09",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernie_Mac"
+  },
+  {
+    "name": "Flip Wilson",
+    "born": "1933-12-08",
+    "died": "1998-11-25",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Flip_Wilson"
+  },
+  {
+    "name": "Bob Newhart",
+    "born": "1929-09-05",
+    "died": "2024-07-18",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Newhart"
+  },
+  {
+    "name": "Steven Wright",
+    "born": "1955-12-06",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Wright"
+  },
+  {
+    "name": "Margaret Cho",
+    "born": "1968-12-05",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress",
+      "Author"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Cho"
+  },
+  {
+    "name": "Cedric the Entertainer",
+    "born": "1964-04-24",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Cedric_the_Entertainer"
+  },
+  {
+    "name": "Wanda Sykes",
+    "born": "1964-03-07",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Wanda_Sykes"
+  },
+  {
+    "name": "George Burns",
+    "born": "1896-01-20",
+    "died": "1996-03-09",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Singer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Burns"
+  },
+  {
+    "name": "Jackie Gleason",
+    "born": "1916-02-26",
+    "died": "1987-06-24",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Gleason"
+  },
+  {
+    "name": "Bill Cosby",
+    "born": "1937-07-12",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Cosby"
+  },
+  {
+    "name": "Jack Benny",
+    "born": "1894-02-14",
+    "died": "1974-12-26",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Violinist"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Benny"
+  },
+  {
+    "name": "Totie Fields",
+    "born": "1930-05-07",
+    "died": "1978-08-02",
+    "nationality": "American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Totie_Fields"
+  },
+  {
+    "name": "Carl Reiner",
+    "born": "1922-03-20",
+    "died": "2020-06-29",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Director",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Reiner"
+  },
+  {
+    "name": "Mel Brooks",
+    "born": "1926-06-28",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Director",
+      "Producer",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Mel_Brooks"
+  },
+  {
+    "name": "Richard Lewis",
+    "born": "1947-06-29",
+    "died": "2024-02-27",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Lewis_(comedian)"
+  },
+  {
+    "name": "Garry Shandling",
+    "born": "1949-11-29",
+    "died": "2016-03-24",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor",
+      "Writer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Garry_Shandling"
+  },
+  {
+    "name": "Gallagher",
+    "born": "1946-07-24",
+    "died": "2022-11-11",
+    "nationality": "American",
+    "occupation": [
+      "Comedian"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Gallagher_(comedian)"
+  },
+  {
+    "name": "Maria Bamford",
+    "born": "1970-09-03",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actress"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Bamford"
+  },
+  {
+    "name": "Patrice O'Neal",
+    "born": "1969-12-07",
+    "died": "2011-11-29",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Actor"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrice_O%27Neal"
+  },
+  {
+    "name": "Greg Giraldo",
+    "born": "1965-12-10",
+    "died": "2010-09-29",
+    "nationality": "American",
+    "occupation": [
+      "Comedian",
+      "Lawyer"
+    ],
+    "wikipedia": "https://en.wikipedia.org/wiki/Greg_Giraldo"
   }
 ]
