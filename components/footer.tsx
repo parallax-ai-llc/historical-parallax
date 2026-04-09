@@ -29,6 +29,14 @@ export function Footer() {
             Legal Parallax
           </Link>
           <Link
+            href="https://truth.parallax.kr"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+          >
+            Truth Parallax
+          </Link>
+          <Link
             href="/terms-of-service"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >

@@ -5,6 +5,7 @@ import { Search, GitPullRequest, Map as MapIcon } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { LanguageSwitcher } from "@/components/language-switcher";
 import { Button } from "@/components/ui/button";
 
 interface SiteHeaderProps {
@@ -76,6 +77,7 @@ export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
             <MapIcon className="h-4 w-4" />
             <span className="sr-only">Maps</span>
           </Link>
+          <LanguageSwitcher />
           <ThemeToggle />
         </nav>
       </div>
