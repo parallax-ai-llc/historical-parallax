@@ -8,6 +8,7 @@ import { SearchDialog, SearchItem } from "@/components/search-dialog";
 import { RecentArticles } from "@/components/recent-articles";
 import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
+import { useLocale } from "@/lib/i18n";
 import { ArticleMeta } from "@/lib/articles";
 import { createRandomStream, take } from "@/lib/lisp/utils";
 import Link from "next/link";
@@ -17,10 +18,10 @@ interface HomeClientProps {
 }
 
 export function HomeClient({ articles }: HomeClientProps) {
+  const { t } = useLocale();
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
-  // SearchDialog expects SearchItem[], which is compatible with ArticleMeta[] based on usage
   const searchItems: SearchItem[] = articles;
   const stream = createRandomStream(articles);
   const randomArticles = take(stream, 10);
@@ -37,7 +38,7 @@ export function HomeClient({ articles }: HomeClientProps) {
           className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3"
         >
           <GitPullRequest className="h-4 w-4" />
-          Contribute
+          {t("contribute")}
         </Link>
         <Link
           href="/maps/ancient-empires"
@@ -58,11 +59,11 @@ export function HomeClient({ articles }: HomeClientProps) {
               Historical Parallax
             </h1>
             <p className="text-muted-foreground text-sm md:text-base italic leading-relaxed">
-              &ldquo;Every history creates a parallax&rdquo;
+              &ldquo;{t("tagline")}&rdquo;
             </p>
             {articles.length > 0 && (
               <p className="mt-2 text-xs text-muted-foreground/60">
-                {articles.length.toLocaleString()} documents archived
+                {t("docsCount", { count: articles.length.toLocaleString() })}
               </p>
             )}
           </div>
@@ -73,7 +74,7 @@ export function HomeClient({ articles }: HomeClientProps) {
             onClick={() => setSearchOpen(true)}
           >
             <Search className="mr-3 h-5 w-5" />
-            <span>Search articles...</span>
+            <span>{t("searchPlaceholder")}</span>
             <kbd className="pointer-events-none ml-auto hidden h-6 select-none items-center gap-1 rounded border bg-muted px-2 font-mono text-xs font-medium sm:flex">
               <span>Ctrl</span>K
             </kbd>
