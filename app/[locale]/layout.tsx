@@ -73,6 +73,7 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
                locale === "pt" ? "Ir para o conteúdo principal" :
                locale === "ru" ? "Перейти к основному содержанию" :
                locale === "ja" ? "メインコンテンツへスキップ" :
+               locale === "ko" ? "본문으로 건너뛰기" :
                "Skip to main content"}
             </a>
             <div id="main-content" role="main" tabIndex={-1}>

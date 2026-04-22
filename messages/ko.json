@@ -1,0 +1,220 @@
+{
+  "common": {
+    "siteName": "역사적 시차",
+    "siteDescription": "다양한 관점에서 역사적 인물과 사건을 탐구합니다",
+    "tagline": "모든 역사는 시차를 만든다",
+    "lastUpdated": "최종 수정"
+  },
+  "header": {
+    "search": "검색...",
+    "searchAriaLabel": "검색 대화상자 열기. Ctrl+K로 검색하세요.",
+    "contribute": "기여하기",
+    "edit": "편집",
+    "maps": "지도",
+    "homeAriaLabel": "Historical Parallax - 홈페이지로 이동",
+    "editAriaLabel": "GitHub에서 이 문서 편집 (새 탭에서 열림)",
+    "skipToContent": "본문으로 건너뛰기"
+  },
+  "home": {
+    "documentsArchived": "{count}개의 문서가 보관됨",
+    "searchPlaceholder": "문서 검색...",
+    "recentArticles": "최근 문서"
+  },
+  "footer": {
+    "poweredBy": "제공:",
+    "legal": "Legal Parallax",
+    "terms": "이용약관",
+    "privacy": "개인정보처리방침",
+    "footerAriaLabel": "사이트 하단",
+    "navAriaLabel": "하단 내비게이션",
+    "poweredByAriaLabel": "Parallax AI, LLC (새 탭에서 열림)"
+  },
+  "article": {
+    "editPage": "GitHub에서 이 페이지 편집",
+    "contentInEnglish": "이 문서는 현재 영어로만 제공됩니다.",
+    "notFound": "문서를 찾을 수 없습니다"
+  },
+  "maps": {
+    "showing": "{count}건의 사건을 표시 중입니다.",
+    "timeline": "타임라인",
+    "chronological": "시간순",
+    "notFound": "지도를 찾을 수 없습니다",
+    "viewMaps": "사건 지도 보기"
+  },
+  "contribute": {
+    "title": "Historical Parallax에 기여하기",
+    "subtitle": "역사적 인물과 사건에 대한 포괄적이고 균형 잡힌 자료를 함께 만들어주세요.",
+    "viewOnGitHub": "GitHub에서 보기",
+    "forkRepository": "저장소 포크",
+    "gettingStarted": {
+      "title": "시작하기",
+      "description": "{directory} 디렉토리에 있는 마크다운 파일 형태로 기여를 받고 있습니다. 새 문서를 작성하거나 기존 문서를 개선할 수 있습니다."
+    },
+    "creatingArticle": {
+      "title": "새 문서 작성하기",
+      "step1": {
+        "title": "저장소 포크하기",
+        "description": "{link}에서 \"Fork\" 버튼을 클릭하여 자신의 사본을 만드세요."
+      },
+      "step2": {
+        "title": "포크 클론하기"
+      },
+      "step3": {
+        "title": "새 브랜치 만들기"
+      },
+      "step4": {
+        "title": "문서 작성하기",
+        "description": "{directory}에 다음 형식으로 새 파일을 만드세요:",
+        "example": "예시: {examples}"
+      },
+      "step5": {
+        "title": "커밋 및 푸시"
+      },
+      "step6": {
+        "title": "풀 리퀘스트 열기",
+        "description": "GitHub에서 포크한 저장소로 가서 \"Compare & pull request\"를 클릭하세요. 기여 내용을 명확하게 설명해주세요."
+      }
+    },
+    "articleFormat": {
+      "title": "문서 형식",
+      "description": "모든 문서는 다음 마크다운 구조를 따라야 합니다:"
+    },
+    "guidelines": {
+      "title": "콘텐츠 가이드라인",
+      "doTitle": "권장사항",
+      "doItems": [
+        "모든 콘텐츠를 영어로 작성",
+        "긍정적/부정적 관점 모두 포함",
+        "모든 사실 주장에 각주 인용",
+        "신뢰할 수 있는 출처 사용 (학술, 언론)",
+        "위키미디어 공용 이미지만 사용",
+        "ISO 날짜 형식 사용 (YYYY-MM-DD)"
+      ],
+      "dontTitle": "금지사항",
+      "dontItems": [
+        "코드나 설정 파일 수정",
+        "저작권 이미지 사용",
+        "출처 없는 주장 포함",
+        "편향적이거나 일방적인 콘텐츠 작성",
+        "홍보 자료 포함",
+        "출처 없는 개인 의견 추가"
+      ]
+    },
+    "editingArticles": {
+      "title": "기존 문서 편집",
+      "description": "기존 문서를 편집하려면:",
+      "step1": "웹사이트에서 해당 문서 페이지로 이동",
+      "step2": "헤더의 \"편집\" 버튼을 클릭하여 GitHub 파일로 이동",
+      "step3": "GitHub에서 연필 아이콘을 클릭하여 파일 편집",
+      "step4": "변경 사항을 작성하고 풀 리퀘스트 제출",
+      "tip": "팁: {link}에서 모든 문서를 직접 탐색할 수도 있습니다"
+    },
+    "reviewProcess": {
+      "title": "리뷰 과정",
+      "description": "풀 리퀘스트를 제출하면:",
+      "step1": "형식 준수 여부를 검토합니다",
+      "step2": "AI 기반 팩트체크로 내용의 정확성을 검증합니다",
+      "step3": "균형성과 품질에 대한 편집 리뷰를 진행합니다",
+      "step4": "승인되면 기여 내용이 병합되어 배포됩니다"
+    },
+    "cta": {
+      "title": "기여할 준비가 되셨나요?",
+      "description": "여러분의 기여가 역사에 대한 더 포괄적인 이해를 만들어갑니다.",
+      "button": "GitHub로 이동"
+    }
+  },
+  "privacy": {
+    "title": "개인정보처리방침",
+    "lastUpdated": "최종 수정: 2025년 12월",
+    "sections": {
+      "intro": {
+        "title": "1. 소개",
+        "content": "Historical Parallax는 귀하의 개인정보를 보호하기 위해 최선을 다하고 있습니다. 이 정책은 서비스 이용 시 정보를 어떻게 처리하는지 설명합니다."
+      },
+      "collection": {
+        "title": "2. 수집하는 정보",
+        "content": "Historical Parallax는 회원가입이나 로그인을 요구하지 않습니다. 사용자의 개인정보를 수집하지 않습니다.",
+        "analytics": "서비스 개선을 위해 표준 웹 분석을 통해 익명의 사용 데이터를 수집할 수 있습니다:",
+        "items": ["방문한 페이지", "페이지 체류 시간", "브라우저 종류 및 버전", "운영체제", "유입 경로"]
+      },
+      "cookies": {
+        "title": "3. 쿠키",
+        "content": "다음 목적으로 쿠키를 사용할 수 있습니다:",
+        "items": ["테마 설정 (라이트/다크 모드)", "익명 분석"],
+        "control": "브라우저 설정에서 쿠키를 관리할 수 있습니다."
+      },
+      "thirdParty": {
+        "title": "4. 제3자 서비스",
+        "content": "다음 목적으로 제3자 서비스를 사용할 수 있습니다:",
+        "items": ["웹 호스팅 (Vercel)", "분석 (익명 데이터만)", "외부 미디어 (위키미디어 공용)"]
+      },
+      "security": {
+        "title": "5. 데이터 보안",
+        "content": "개인 데이터를 수집하지 않으므로 사용자 개인정보에 대한 위험이 최소화됩니다. 안전한 연결을 보장하기 위해 HTTPS를 통해 서비스를 제공합니다."
+      },
+      "children": {
+        "title": "6. 아동 개인정보 보호",
+        "content": "모든 연령의 사용자가 이용할 수 있습니다. 13세 미만 아동의 정보를 의도적으로 수집하지 않습니다."
+      },
+      "changes": {
+        "title": "7. 정책 변경",
+        "content": "개인정보처리방침은 수시로 업데이트될 수 있습니다. 변경 시 이 페이지에 새 정책을 게시하여 알려드립니다."
+      },
+      "contact": {
+        "title": "8. 문의",
+        "content": "개인정보처리방침에 대한 문의는 다음으로 연락해주세요:"
+      }
+    }
+  },
+  "terms": {
+    "title": "이용약관",
+    "lastUpdated": "최종 수정: 2025년 12월",
+    "sections": {
+      "acceptance": {
+        "title": "1. 약관 동의",
+        "content": "Historical Parallax에 접속하고 이용함으로써 본 약관의 조건에 동의하게 됩니다."
+      },
+      "use": {
+        "title": "2. 서비스 이용",
+        "content": "Historical Parallax는 역사적 인물과 사건에 대한 정보를 제공합니다. 콘텐츠는 교육 및 참고 목적으로만 제공됩니다."
+      },
+      "accuracy": {
+        "title": "3. 콘텐츠 정확성",
+        "content": "정확하고 최신의 정보를 제공하기 위해 노력하지만, 제공된 정보의 완전성, 정확성, 신뢰성 또는 적합성에 대해 어떠한 보증도 하지 않습니다."
+      },
+      "perspectives": {
+        "title": "4. 다양한 관점",
+        "content": "Historical Parallax는 역사적 인물과 사건에 대한 다양한 관점을 제시합니다. 특정 관점의 포함이 Historical Parallax나 운영자의 지지를 의미하지 않습니다."
+      },
+      "sources": {
+        "title": "5. 출처 및 인용",
+        "content": "모든 정보는 공개적으로 이용 가능한 자료에서 제공됩니다. 가능한 경우 인용을 제공하지만, 중요한 용도에는 독립적으로 정보를 확인하시기 바랍니다."
+      },
+      "ip": {
+        "title": "6. 지적 재산권",
+        "content": "Historical Parallax의 콘텐츠, 구성 및 표현은 저작권법 및 기타 지적 재산권법의 보호를 받습니다. 이미지와 미디어는 명시된 별도의 라이선스가 적용될 수 있습니다."
+      },
+      "liability": {
+        "title": "7. 책임 제한",
+        "content": "어떠한 경우에도 Historical Parallax 또는 운영자는 본 서비스의 사용으로 인한 직접적, 간접적, 부수적, 특수적 또는 결과적 손해에 대해 책임을 지지 않습니다."
+      },
+      "changes": {
+        "title": "8. 약관 변경",
+        "content": "본 약관은 언제든지 수정될 수 있습니다. 변경 후 서비스를 계속 사용하면 새 약관에 동의한 것으로 간주됩니다."
+      },
+      "contact": {
+        "title": "9. 문의",
+        "content": "본 약관에 대한 문의는 다음으로 연락해주세요:"
+      }
+    }
+  },
+  "notFound": {
+    "title": "404 - 페이지를 찾을 수 없습니다",
+    "description": "요청하신 페이지가 존재하지 않습니다.",
+    "backHome": "홈으로 돌아가기"
+  },
+  "language": {
+    "select": "언어 선택",
+    "current": "언어"
+  }
+}
