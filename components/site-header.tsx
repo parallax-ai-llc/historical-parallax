@@ -2,11 +2,10 @@
 
 import * as React from "react";
 import { Search, GitPullRequest, Map as MapIcon } from "lucide-react";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { useTranslations } from "next-intl";
+import { usePathname, Link } from "@/i18n/navigation";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageSwitcher } from "@/components/language-switcher";
-import { useLocale } from "@/lib/i18n";
 import { Button } from "@/components/ui/button";
 
 interface SiteHeaderProps {
@@ -14,8 +13,9 @@ interface SiteHeaderProps {
 }
 
 export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
+  const t = useTranslations();
   const pathname = usePathname();
-  const { t } = useLocale();
+
   return (
     <header
       className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60"
@@ -26,10 +26,10 @@ export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
         <Link
           href="/"
           className="flex items-center gap-2 rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
-          aria-label="Historical Parallax - Go to home page"
+          aria-label={t("header.homeAriaLabel")}
         >
           <span className="font-serif text-xl md:text-2xl font-bold tracking-tight">
-            Historical Parallax
+            {t("common.siteName")}
           </span>
         </Link>
 
@@ -38,11 +38,11 @@ export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
             variant="outline"
             className="hidden h-9 w-64 justify-start px-3 text-sm text-muted-foreground md:flex"
             onClick={onSearchClick}
-            aria-label="Open search dialog. Press Ctrl+K to search."
+            aria-label={t("header.searchAriaLabel")}
             aria-haspopup="dialog"
           >
             <Search className="mr-2 h-4 w-4" aria-hidden="true" />
-            <span>{t("searchPlaceholder")}</span>
+            <span>{t("header.search")}</span>
             <kbd
               className="pointer-events-none ml-auto hidden h-5 select-none items-center gap-1 rounded border bg-muted px-1.5 font-mono text-[10px] font-medium opacity-100 sm:flex"
               aria-hidden="true"
@@ -56,7 +56,7 @@ export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
             size="icon"
             className="h-9 w-9 md:hidden"
             onClick={onSearchClick}
-            aria-label="Open search"
+            aria-label={t("header.search")}
             aria-haspopup="dialog"
           >
             <Search className="h-4 w-4" aria-hidden="true" />
@@ -68,16 +68,16 @@ export function SiteHeader({ onSearchClick }: SiteHeaderProps) {
               className="hidden sm:inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3"
             >
               <GitPullRequest className="h-4 w-4" />
-              <span className="sr-only sm:not-sr-only">{t("contribute")}</span>
+              <span className="sr-only sm:not-sr-only">{t("header.contribute")}</span>
             </Link>
           )}
           <Link
             href="/maps/ancient-empires"
             className="hidden sm:inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
-            title="View Incident Maps"
+            title={t("maps.viewMaps")}
           >
             <MapIcon className="h-4 w-4" />
-            <span className="sr-only">Maps</span>
+            <span className="sr-only">{t("header.maps")}</span>
           </Link>
           <LanguageSwitcher />
           <ThemeToggle />

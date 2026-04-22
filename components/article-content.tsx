@@ -81,12 +81,18 @@ function parseContentIntoSections(html: string): {
       sections[sections.length - 1].content = mainContent.substring(lastIndex, match.index);
     }
 
-    const id = match[1] || match[2].toLowerCase().replace(/[^a-z0-9]+/g, "-");
-    const title = match[2].replace(/<[^>]*>/g, "");
+    const rawTitle = match[2].replace(/<[^>]*>/g, "");
+    const generatedId = rawTitle
+      .toLowerCase()
+      .replace(/\s+/g, "-")
+      .replace(/[^\p{L}\p{N}-]/gu, "")
+      .replace(/-+/g, "-")
+      .replace(/^-|-$/g, "");
+    const id = match[1] || generatedId || `section-${sections.length}`;
 
     sections.push({
       id,
-      title,
+      title: rawTitle,
       content: "",
     });
 

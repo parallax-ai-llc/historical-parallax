@@ -1,21 +1,5 @@
 import type { Metadata } from "next";
-import Script from "next/script";
-import { Cormorant_Garamond } from "next/font/google";
-import { ThemeProvider } from "@/components/theme-provider";
-import { LocaleProvider } from "@/lib/i18n";
 import "./globals.css";
-
-// Serif 폰트 (로고, 기사 제목 등)
-const cormorant = Cormorant_Garamond({
-  variable: "--font-serif",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  // display: 'swap'을 제거하여 FOIT(Flash of Invisible Text) 방식으로 변경하거나
-  // preload를 통해 최대한 빨리 로드하여 시프팅 방지
-  preload: true,
-  fallback: ["Times New Roman", "serif"], // 비슷한 크기의 fallback 폰트 명시
-  adjustFontFallback: true,
-});
 
 export const metadata: Metadata = {
   title: {
@@ -33,7 +17,6 @@ export const metadata: Metadata = {
     url: "https://historical.parallax.kr",
     siteName: "Historical Parallax",
     type: "website",
-    locale: "en_US",
     images: [
       {
         url: "/og-image.png",
@@ -69,46 +52,5 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return (
-    <html lang="en" suppressHydrationWarning>
-      <head>
-        {/* LCP 최적화: 폰트 프리로드 */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap"
-          rel="stylesheet"
-        />
-        {/* Google Analytics */}
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5WB8XPRPT" strategy="afterInteractive" />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-M5WB8XPRPT');
-          `}
-        </Script>
-      </head>
-      <body className={`${cormorant.variable} font-sans antialiased`}>
-        {/* WCAG AAA: 스킵 네비게이션 링크 */}
-        <a href="#main-content" className="skip-link">
-          Skip to main content
-        </a>
-
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
-        >
-          <LocaleProvider>
-            <div id="main-content" role="main" tabIndex={-1}>
-              {children}
-            </div>
-          </LocaleProvider>
-        </ThemeProvider>
-      </body>
-    </html>
-  );
+  return children;
 }

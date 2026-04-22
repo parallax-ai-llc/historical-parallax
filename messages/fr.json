@@ -1,0 +1,220 @@
+{
+  "common": {
+    "siteName": "Historical Parallax",
+    "siteDescription": "Explorez les personnages et événements historiques sous plusieurs angles",
+    "tagline": "Chaque histoire crée une parallaxe",
+    "lastUpdated": "Dernière mise à jour"
+  },
+  "header": {
+    "search": "Rechercher...",
+    "searchAriaLabel": "Ouvrir la boîte de recherche. Appuyez sur Ctrl+K pour rechercher.",
+    "contribute": "Contribuer",
+    "edit": "Modifier",
+    "maps": "Cartes",
+    "homeAriaLabel": "Historical Parallax - Aller à la page d'accueil",
+    "editAriaLabel": "Modifier cet article sur GitHub (s'ouvre dans un nouvel onglet)",
+    "skipToContent": "Passer au contenu principal"
+  },
+  "home": {
+    "documentsArchived": "{count} documents archivés",
+    "searchPlaceholder": "Rechercher des articles...",
+    "recentArticles": "Articles Récents"
+  },
+  "footer": {
+    "poweredBy": "Propulsé par",
+    "legal": "Legal Parallax",
+    "terms": "Conditions d'Utilisation",
+    "privacy": "Politique de Confidentialité",
+    "footerAriaLabel": "Pied de page du site",
+    "navAriaLabel": "Navigation du pied de page",
+    "poweredByAriaLabel": "Parallax AI, LLC (s'ouvre dans un nouvel onglet)"
+  },
+  "article": {
+    "editPage": "Modifier cette page sur GitHub",
+    "contentInEnglish": "Cet article n'est actuellement disponible qu'en anglais.",
+    "notFound": "Article introuvable"
+  },
+  "maps": {
+    "showing": "Affichage de {count} incidents.",
+    "timeline": "Chronologie",
+    "chronological": "Ordre chronologique",
+    "notFound": "Carte introuvable",
+    "viewMaps": "Voir les Cartes d'Incidents"
+  },
+  "contribute": {
+    "title": "Contribuer à Historical Parallax",
+    "subtitle": "Aidez-nous à construire une ressource complète et équilibrée sur les personnages et événements historiques.",
+    "viewOnGitHub": "Voir sur GitHub",
+    "forkRepository": "Dupliquer le Dépôt",
+    "gettingStarted": {
+      "title": "Premiers Pas",
+      "description": "Nous acceptons les contributions sous forme de fichiers Markdown situés dans le répertoire {directory}. Vous pouvez créer de nouveaux articles ou améliorer les articles existants."
+    },
+    "creatingArticle": {
+      "title": "Créer un Nouvel Article",
+      "step1": {
+        "title": "Dupliquer le Dépôt",
+        "description": "Rendez-vous sur notre {link} et cliquez sur le bouton \"Fork\" pour créer votre propre copie."
+      },
+      "step2": {
+        "title": "Cloner votre Fork"
+      },
+      "step3": {
+        "title": "Créer une Nouvelle Branche"
+      },
+      "step4": {
+        "title": "Créer votre Article",
+        "description": "Créez un nouveau fichier dans {directory} avec le format de nommage :",
+        "example": "Exemple : {examples}"
+      },
+      "step5": {
+        "title": "Valider et Pousser"
+      },
+      "step6": {
+        "title": "Ouvrir une Demande de Fusion",
+        "description": "Rendez-vous sur votre fork sur GitHub et cliquez sur \"Compare & pull request\". Fournissez une description claire de votre contribution."
+      }
+    },
+    "articleFormat": {
+      "title": "Format de l'Article",
+      "description": "Chaque article doit suivre cette structure Markdown exacte :"
+    },
+    "guidelines": {
+      "title": "Directives de Contenu",
+      "doTitle": "À Faire",
+      "doItems": [
+        "Rédigez tout le contenu en anglais",
+        "Incluez des perspectives à la fois positives et négatives",
+        "Citez chaque affirmation factuelle avec des notes de bas de page",
+        "Utilisez des sources fiables (académiques, organismes de presse)",
+        "Utilisez uniquement des images de Wikimedia Commons",
+        "Utilisez le format de date ISO (YYYY-MM-DD)"
+      ],
+      "dontTitle": "À Éviter",
+      "dontItems": [
+        "Modifier les fichiers de code ou de configuration",
+        "Utiliser des images protégées par le droit d'auteur",
+        "Inclure des affirmations sans source",
+        "Rédiger un contenu biaisé ou partial",
+        "Inclure du matériel promotionnel",
+        "Ajouter des opinions personnelles sans attribution"
+      ]
+    },
+    "editingArticles": {
+      "title": "Modifier des Articles Existants",
+      "description": "Pour modifier un article existant :",
+      "step1": "Accédez à la page de l'article sur notre site web",
+      "step2": "Cliquez sur le bouton \"Modifier\" dans l'en-tête pour accéder directement au fichier sur GitHub",
+      "step3": "Cliquez sur l'icône en forme de crayon sur GitHub pour modifier le fichier",
+      "step4": "Effectuez vos modifications et soumettez une demande de fusion",
+      "tip": "Conseil : Vous pouvez également parcourir tous les articles directement sur {link}"
+    },
+    "reviewProcess": {
+      "title": "Processus de Révision",
+      "description": "Après avoir soumis une demande de fusion :",
+      "step1": "Votre PR sera examiné pour la conformité au format",
+      "step2": "Le contenu sera vérifié pour l'exactitude à l'aide de la vérification des faits par IA",
+      "step3": "Une révision éditoriale vérifiera l'équilibre et la qualité",
+      "step4": "Une fois approuvé, votre contribution sera fusionnée et déployée"
+    },
+    "cta": {
+      "title": "Prêt à Contribuer ?",
+      "description": "Vos contributions aident à créer une compréhension plus complète de l'histoire.",
+      "button": "Aller sur GitHub"
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : décembre 2025",
+    "sections": {
+      "intro": {
+        "title": "1. Introduction",
+        "content": "Historical Parallax s'engage à protéger votre confidentialité. Cette politique explique comment nous traitons toute information lorsque vous utilisez notre service."
+      },
+      "collection": {
+        "title": "2. Informations que Nous Collectons",
+        "content": "Historical Parallax ne nécessite pas d'inscription ou de connexion utilisateur. Nous ne collectons pas d'informations personnelles de nos utilisateurs.",
+        "analytics": "Nous pouvons collecter des données d'utilisation anonymes via des analyses web standard pour améliorer notre service, notamment :",
+        "items": ["Pages visitées", "Temps passé sur les pages", "Type et version du navigateur", "Système d'exploitation", "Source de référence"]
+      },
+      "cookies": {
+        "title": "3. Cookies",
+        "content": "Nous pouvons utiliser des cookies pour :",
+        "items": ["Préférence de thème (mode clair/sombre)", "Analyses anonymes"],
+        "control": "Vous pouvez contrôler les paramètres des cookies via les préférences de votre navigateur."
+      },
+      "thirdParty": {
+        "title": "4. Services Tiers",
+        "content": "Nous pouvons utiliser des services tiers pour :",
+        "items": ["Hébergement web (Vercel)", "Analyses (données anonymes uniquement)", "Médias externes (Wikimedia Commons)"]
+      },
+      "security": {
+        "title": "5. Sécurité des Données",
+        "content": "Étant donné que nous ne collectons pas de données personnelles, le risque pour la vie privée des utilisateurs est minime. Notre service est fourni via HTTPS pour garantir des connexions sécurisées."
+      },
+      "children": {
+        "title": "6. Confidentialité des Enfants",
+        "content": "Notre service est disponible pour les utilisateurs de tous âges. Nous ne collectons pas sciemment d'informations auprès d'enfants de moins de 13 ans."
+      },
+      "changes": {
+        "title": "7. Modifications de Cette Politique",
+        "content": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Nous informerons les utilisateurs de tout changement en publiant la nouvelle politique sur cette page."
+      },
+      "contact": {
+        "title": "8. Nous Contacter",
+        "content": "Si vous avez des questions sur cette politique de confidentialité, veuillez nous contacter à"
+      }
+    }
+  },
+  "terms": {
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : décembre 2025",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptation des Conditions",
+        "content": "En accédant à Historical Parallax et en l'utilisant, vous acceptez et vous engagez à respecter les termes et dispositions de cet accord."
+      },
+      "use": {
+        "title": "2. Utilisation du Service",
+        "content": "Historical Parallax fournit du contenu informatif sur les personnages et événements historiques. Le contenu est fourni uniquement à des fins éducatives et de référence."
+      },
+      "accuracy": {
+        "title": "3. Exactitude du Contenu",
+        "content": "Bien que nous nous efforcions de fournir des informations exactes et à jour, nous ne faisons aucune déclaration ni garantie d'aucune sorte concernant l'exhaustivité, l'exactitude, la fiabilité ou l'adéquation des informations fournies."
+      },
+      "perspectives": {
+        "title": "4. Perspectives Multiples",
+        "content": "Historical Parallax présente plusieurs perspectives sur les personnages et événements historiques. L'inclusion d'une perspective ne constitue pas un aval de la part de Historical Parallax ou de ses opérateurs."
+      },
+      "sources": {
+        "title": "5. Sources et Citations",
+        "content": "Toutes les informations proviennent de documents accessibles au public. Nous fournissons des citations lorsque cela est possible, mais les utilisateurs doivent vérifier les informations de manière indépendante pour les usages critiques."
+      },
+      "ip": {
+        "title": "6. Propriété Intellectuelle",
+        "content": "Le contenu, l'organisation et la présentation de Historical Parallax sont protégés par le droit d'auteur et d'autres lois sur la propriété intellectuelle. Les images et les médias peuvent être soumis à des licences séparées comme indiqué."
+      },
+      "liability": {
+        "title": "7. Limitation de Responsabilité",
+        "content": "En aucun cas Historical Parallax ou ses opérateurs ne pourront être tenus responsables de dommages directs, indirects, accidentels, spéciaux ou consécutifs découlant de l'utilisation de ce service."
+      },
+      "changes": {
+        "title": "8. Modifications des Conditions",
+        "content": "Nous nous réservons le droit de modifier ces conditions à tout moment. L'utilisation continue du service après les modifications constitue une acceptation des nouvelles conditions."
+      },
+      "contact": {
+        "title": "9. Contact",
+        "content": "Pour des questions sur ces conditions, veuillez nous contacter à"
+      }
+    }
+  },
+  "notFound": {
+    "title": "404 - Page Introuvable",
+    "description": "La page que vous recherchez n'existe pas.",
+    "backHome": "Retour à l'Accueil"
+  },
+  "language": {
+    "select": "Sélectionner la Langue",
+    "current": "Langue"
+  }
+}

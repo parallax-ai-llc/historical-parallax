@@ -18,7 +18,7 @@ export interface ArticleMeta {
     twitter?: string;
     official?: string;
   };
-  date?: string; // Add date field for events
+  date?: string;
   lastUpdated?: string;
 }
 
@@ -26,6 +26,7 @@ export interface Article {
   meta: ArticleMeta;
   content: string;
   toc: TocItem[];
+  isTranslated?: boolean;
 }
 
 export interface TocItem {
@@ -36,9 +37,9 @@ export interface TocItem {
 
 const articlesDirectory = path.join(process.cwd(), "content/articles");
 
-function ensureDirectoryExists() {
-  if (!fs.existsSync(articlesDirectory)) {
-    fs.mkdirSync(articlesDirectory, { recursive: true });
+function ensureDirectoryExists(dir: string = articlesDirectory) {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
   }
 }
 
@@ -55,21 +56,26 @@ export function getAllArticleIds(): string[] {
   }
 }
 
-export function getAllArticles(): ArticleMeta[] {
-  const ids = getAllArticleIds();
+export function getAllArticles(locale: string = "en"): ArticleMeta[] {
+  const ids = locale === "en"
+    ? getAllArticleIds()
+    : getTranslatedArticleIds(locale);
+
   const articles = ids
     .map((id) => {
       try {
-        const fullPath = path.join(articlesDirectory, `${id}.md`);
+        const fullPath = locale !== "en" && fs.existsSync(path.join(articlesDirectory, locale, `${id}.md`))
+          ? path.join(articlesDirectory, locale, `${id}.md`)
+          : path.join(articlesDirectory, `${id}.md`);
         const fileContents = fs.readFileSync(fullPath, "utf8");
         const { data } = matter(fileContents);
 
         return {
           id,
-          name: data.name || data.title || id, // Fallback to title if name is missing
+          name: data.name || data.title || id,
           birth: data.birth,
           death: data.death,
-          date: data.date, // Map the date field
+          date: data.date,
           nationality: data.nationality,
           occupation: data.occupation,
           image: data.image,
@@ -88,6 +94,22 @@ export function getAllArticles(): ArticleMeta[] {
   });
 }
 
+/**
+ * Get article IDs that have translations for the given locale.
+ */
+function getTranslatedArticleIds(locale: string): string[] {
+  const localeDir = path.join(articlesDirectory, locale);
+  if (!fs.existsSync(localeDir)) return [];
+
+  try {
+    return fs.readdirSync(localeDir)
+      .filter((fileName) => fileName.endsWith(".md"))
+      .map((fileName) => fileName.replace(/\.md$/, ""));
+  } catch {
+    return [];
+  }
+}
+
 function extractToc(content: string): TocItem[] {
   const headingRegex = /^(#{2,4})\s+(.+)$/gm;
   const toc: TocItem[] = [];
@@ -96,10 +118,13 @@ function extractToc(content: string): TocItem[] {
   while ((match = headingRegex.exec(content)) !== null) {
     const level = match[1].length;
     const text = match[2].replace(/\[.*?\]\(.*?\)/g, "").trim();
-    const id = text
+    const generatedId = text
       .toLowerCase()
-      .replace(/[^a-z0-9\s-]/g, "")
-      .replace(/\s+/g, "-");
+      .replace(/\s+/g, "-")
+      .replace(/[^\p{L}\p{N}-]/gu, "")
+      .replace(/-+/g, "-")
+      .replace(/^-|-$/g, "");
+    const id = generatedId || `section-${toc.length}`;
 
     toc.push({ id, text, level });
   }
@@ -107,11 +132,38 @@ function extractToc(content: string): TocItem[] {
   return toc;
 }
 
-export async function getArticle(id: string): Promise<Article | null> {
+/**
+ * Get article for a given ID and locale.
+ * First tries locale-specific version at content/articles/[locale]/[id].md,
+ * then falls back to the English version at content/articles/[id].md.
+ */
+export async function getArticle(id: string, locale: string = "en"): Promise<Article | null> {
   ensureDirectoryExists();
 
+  // Try locale-specific article first (non-English)
+  if (locale !== "en") {
+    const localePath = path.join(articlesDirectory, locale, `${id}.md`);
+    if (fs.existsSync(localePath)) {
+      const result = await parseArticleFile(localePath, id);
+      if (result) {
+        return { ...result, isTranslated: true };
+      }
+    }
+  }
+
+  // Fall back to English
+  const englishPath = path.join(articlesDirectory, `${id}.md`);
+  const result = await parseArticleFile(englishPath, id);
+  if (!result) return null;
+
+  return {
+    ...result,
+    isTranslated: locale === "en",
+  };
+}
+
+async function parseArticleFile(fullPath: string, id: string): Promise<Omit<Article, "isTranslated"> | null> {
   try {
-    const fullPath = path.join(articlesDirectory, `${id}.md`);
     const fileContents = fs.readFileSync(fullPath, "utf8");
     const { data, content } = matter(fileContents);
 
@@ -124,7 +176,6 @@ export async function getArticle(id: string): Promise<Article | null> {
 
     let htmlContent = processedContent.toString();
 
-    // Add IDs to headings for TOC navigation
     toc.forEach((item) => {
       const regex = new RegExp(
         `<h${item.level}>([^<]*${item.text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}[^<]*)</h${item.level}>`,
@@ -148,11 +199,7 @@ export async function getArticle(id: string): Promise<Article | null> {
       lastUpdated: data.lastUpdated,
     };
 
-    return {
-      meta,
-      content: htmlContent,
-      toc,
-    };
+    return { meta, content: htmlContent, toc };
   } catch {
     return null;
   }

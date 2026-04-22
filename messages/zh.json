@@ -1,0 +1,220 @@
+{
+  "common": {
+    "siteName": "历史视差",
+    "siteDescription": "从多个角度探索历史人物与事件",
+    "tagline": "每段历史都创造视差",
+    "lastUpdated": "最后更新"
+  },
+  "header": {
+    "search": "搜索...",
+    "searchAriaLabel": "打开搜索对话框。按 Ctrl+K 进行搜索。",
+    "contribute": "贡献",
+    "edit": "编辑",
+    "maps": "地图",
+    "homeAriaLabel": "历史视差 - 返回首页",
+    "editAriaLabel": "在 GitHub 上编辑本文章（在新标签页中打开）",
+    "skipToContent": "跳到主要内容"
+  },
+  "home": {
+    "documentsArchived": "已收录 {count} 份文档",
+    "searchPlaceholder": "搜索文章...",
+    "recentArticles": "最新文章"
+  },
+  "footer": {
+    "poweredBy": "技术支持",
+    "legal": "法律视差",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "footerAriaLabel": "网站页脚",
+    "navAriaLabel": "页脚导航",
+    "poweredByAriaLabel": "Parallax AI, LLC（在新标签页中打开）"
+  },
+  "article": {
+    "editPage": "在 GitHub 上编辑此页面",
+    "contentInEnglish": "本文目前仅提供英文版本。",
+    "notFound": "文章未找到"
+  },
+  "maps": {
+    "showing": "正在显示 {count} 个事件。",
+    "timeline": "时间线",
+    "chronological": "按时间顺序",
+    "notFound": "地图未找到",
+    "viewMaps": "查看事件地图"
+  },
+  "contribute": {
+    "title": "为历史视差做贡献",
+    "subtitle": "帮助我们建立关于历史人物和事件的全面、平衡的资源。",
+    "viewOnGitHub": "在 GitHub 上查看",
+    "forkRepository": "Fork 仓库",
+    "gettingStarted": {
+      "title": "入门指南",
+      "description": "我们接受位于 {directory} 目录中的 Markdown 文件形式的贡献。您可以创建新文章或改进现有文章。"
+    },
+    "creatingArticle": {
+      "title": "创建新文章",
+      "step1": {
+        "title": "Fork 仓库",
+        "description": "访问我们的 {link}，点击「Fork」按钮创建您自己的副本。"
+      },
+      "step2": {
+        "title": "克隆您的 Fork"
+      },
+      "step3": {
+        "title": "创建新分支"
+      },
+      "step4": {
+        "title": "创建您的文章",
+        "description": "在 {directory} 中按照以下命名格式创建新文件：",
+        "example": "示例：{examples}"
+      },
+      "step5": {
+        "title": "提交并推送"
+      },
+      "step6": {
+        "title": "发起拉取请求",
+        "description": "前往您在 GitHub 上的 Fork，点击「Compare & pull request」。请提供对您贡献内容的清晰描述。"
+      }
+    },
+    "articleFormat": {
+      "title": "文章格式",
+      "description": "每篇文章必须遵循以下确切的 Markdown 结构："
+    },
+    "guidelines": {
+      "title": "内容指南",
+      "doTitle": "应该做",
+      "doItems": [
+        "用英文撰写所有内容",
+        "包含正面和负面两种视角",
+        "为每个事实陈述添加脚注引用",
+        "使用可靠的来源（学术机构、新闻组织）",
+        "仅使用 Wikimedia Commons 图片",
+        "使用 ISO 日期格式（YYYY-MM-DD）"
+      ],
+      "dontTitle": "不应该做",
+      "dontItems": [
+        "修改代码或配置文件",
+        "使用受版权保护的图片",
+        "包含无来源的声明",
+        "撰写带有偏见或片面的内容",
+        "包含宣传性内容",
+        "添加未注明来源的个人观点"
+      ]
+    },
+    "editingArticles": {
+      "title": "编辑现有文章",
+      "description": "要编辑现有文章：",
+      "step1": "在我们的网站上导航至文章页面",
+      "step2": "点击页眉中的「编辑」按钮，直接跳转到 GitHub 上的文件",
+      "step3": "点击 GitHub 上的铅笔图标以编辑文件",
+      "step4": "进行更改并提交拉取请求",
+      "tip": "提示：您也可以直接在 {link} 浏览所有文章"
+    },
+    "reviewProcess": {
+      "title": "审核流程",
+      "description": "提交拉取请求后：",
+      "step1": "您的 PR 将接受格式合规性审查",
+      "step2": "内容将通过 AI 驱动的事实核查进行准确性验证",
+      "step3": "编辑审查将检查内容的平衡性和质量",
+      "step4": "获批后，您的贡献将被合并并部署"
+    },
+    "cta": {
+      "title": "准备好贡献了吗？",
+      "description": "您的贡献有助于创建对历史更全面的理解。",
+      "button": "前往 GitHub"
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2025年12月",
+    "sections": {
+      "intro": {
+        "title": "1. 简介",
+        "content": "历史视差致力于保护您的隐私。本政策说明我们在您使用我们的服务时如何处理任何信息。"
+      },
+      "collection": {
+        "title": "2. 我们收集的信息",
+        "content": "历史视差不需要用户注册或登录。我们不收集用户的个人信息。",
+        "analytics": "我们可能通过标准网络分析收集匿名使用数据以改进我们的服务，包括：",
+        "items": ["访问的页面", "在页面上花费的时间", "浏览器类型和版本", "操作系统", "引荐来源"]
+      },
+      "cookies": {
+        "title": "3. Cookie",
+        "content": "我们可能使用 Cookie 用于：",
+        "items": ["主题偏好（亮色/暗色模式）", "匿名分析"],
+        "control": "您可以通过浏览器偏好设置来控制 Cookie 设置。"
+      },
+      "thirdParty": {
+        "title": "4. 第三方服务",
+        "content": "我们可能使用第三方服务用于：",
+        "items": ["网站托管（Vercel）", "分析（仅匿名数据）", "外部媒体（Wikimedia Commons）"]
+      },
+      "security": {
+        "title": "5. 数据安全",
+        "content": "由于我们不收集个人数据，因此对用户隐私的风险极小。我们的服务通过 HTTPS 提供，以确保安全连接。"
+      },
+      "children": {
+        "title": "6. 儿童隐私",
+        "content": "我们的服务面向所有年龄段的用户。我们不会故意收集13岁以下儿童的信息。"
+      },
+      "changes": {
+        "title": "7. 本政策的变更",
+        "content": "我们可能会不时更新本隐私政策。我们将通过在此页面发布新政策来通知用户任何变更。"
+      },
+      "contact": {
+        "title": "8. 联系我们",
+        "content": "如果您对本隐私政策有疑问，请通过以下方式联系我们"
+      }
+    }
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2025年12月",
+    "sections": {
+      "acceptance": {
+        "title": "1. 条款接受",
+        "content": "通过访问和使用历史视差，您接受并同意受本协议条款和条件的约束。"
+      },
+      "use": {
+        "title": "2. 服务使用",
+        "content": "历史视差提供有关历史人物和事件的信息性内容。该内容仅供教育和参考目的。"
+      },
+      "accuracy": {
+        "title": "3. 内容准确性",
+        "content": "尽管我们力求提供准确和最新的信息，但我们对所提供信息的完整性、准确性、可靠性或适用性不作任何形式的陈述或保证。"
+      },
+      "perspectives": {
+        "title": "4. 多元视角",
+        "content": "历史视差呈现关于历史人物和事件的多种视角。任何视角的收录并不构成历史视差或其运营者的背书。"
+      },
+      "sources": {
+        "title": "5. 来源与引用",
+        "content": "所有信息均来源于公开可获得的材料。我们尽可能提供引用，但用户在关键用途中应独立核实信息。"
+      },
+      "ip": {
+        "title": "6. 知识产权",
+        "content": "历史视差的内容、组织和展示受版权及其他知识产权法律的保护。图片和媒体可能受到所注明的单独许可证的约束。"
+      },
+      "liability": {
+        "title": "7. 责任限制",
+        "content": "在任何情况下，历史视差或其运营者均不对因使用本服务而产生的任何直接、间接、偶然、特殊或后果性损害承担责任。"
+      },
+      "changes": {
+        "title": "8. 条款变更",
+        "content": "我们保留随时修改这些条款的权利。在变更后继续使用本服务即表示接受新条款。"
+      },
+      "contact": {
+        "title": "9. 联系方式",
+        "content": "如有关于这些条款的问题，请通过以下方式联系我们"
+      }
+    }
+  },
+  "notFound": {
+    "title": "404 - 页面未找到",
+    "description": "您正在查找的页面不存在。",
+    "backHome": "返回首页"
+  },
+  "language": {
+    "select": "选择语言",
+    "current": "语言"
+  }
+}

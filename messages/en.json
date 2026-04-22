@@ -1,0 +1,220 @@
+{
+  "common": {
+    "siteName": "Historical Parallax",
+    "siteDescription": "Explore historical figures and events from multiple perspectives",
+    "tagline": "Every history creates a parallax",
+    "lastUpdated": "Last updated"
+  },
+  "header": {
+    "search": "Search...",
+    "searchAriaLabel": "Open search dialog. Press Ctrl+K to search.",
+    "contribute": "Contribute",
+    "edit": "Edit",
+    "maps": "Maps",
+    "homeAriaLabel": "Historical Parallax - Go to home page",
+    "editAriaLabel": "Edit this article on GitHub (opens in new tab)",
+    "skipToContent": "Skip to main content"
+  },
+  "home": {
+    "documentsArchived": "{count} documents archived",
+    "searchPlaceholder": "Search articles...",
+    "recentArticles": "Recent Articles"
+  },
+  "footer": {
+    "poweredBy": "Powered by",
+    "legal": "Legal Parallax",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "footerAriaLabel": "Site footer",
+    "navAriaLabel": "Footer navigation",
+    "poweredByAriaLabel": "Parallax AI, LLC (opens in new tab)"
+  },
+  "article": {
+    "editPage": "Edit this page on GitHub",
+    "contentInEnglish": "This article is currently only available in English.",
+    "notFound": "Article not found"
+  },
+  "maps": {
+    "showing": "Showing {count} incidents.",
+    "timeline": "Timeline",
+    "chronological": "Chronological order",
+    "notFound": "Map not found",
+    "viewMaps": "View Incident Maps"
+  },
+  "contribute": {
+    "title": "Contribute to Historical Parallax",
+    "subtitle": "Help us build a comprehensive, balanced resource on historical figures and events.",
+    "viewOnGitHub": "View on GitHub",
+    "forkRepository": "Fork Repository",
+    "gettingStarted": {
+      "title": "Getting Started",
+      "description": "We accept contributions in the form of Markdown files located in the {directory} directory. You can either create new articles or improve existing ones."
+    },
+    "creatingArticle": {
+      "title": "Creating a New Article",
+      "step1": {
+        "title": "Fork the Repository",
+        "description": "Go to our {link} and click the \"Fork\" button to create your own copy."
+      },
+      "step2": {
+        "title": "Clone Your Fork"
+      },
+      "step3": {
+        "title": "Create a New Branch"
+      },
+      "step4": {
+        "title": "Create Your Article",
+        "description": "Create a new file in {directory} with the naming format:",
+        "example": "Example: {examples}"
+      },
+      "step5": {
+        "title": "Commit and Push"
+      },
+      "step6": {
+        "title": "Open a Pull Request",
+        "description": "Go to your fork on GitHub and click \"Compare & pull request\". Provide a clear description of your contribution."
+      }
+    },
+    "articleFormat": {
+      "title": "Article Format",
+      "description": "Every article must follow this exact Markdown structure:"
+    },
+    "guidelines": {
+      "title": "Content Guidelines",
+      "doTitle": "Do",
+      "doItems": [
+        "Write all content in English",
+        "Include both positive and negative perspectives",
+        "Cite every factual claim with footnotes",
+        "Use reputable sources (academic, news organizations)",
+        "Use Wikimedia Commons images only",
+        "Use ISO date format (YYYY-MM-DD)"
+      ],
+      "dontTitle": "Don't",
+      "dontItems": [
+        "Modify code or configuration files",
+        "Use copyrighted images",
+        "Include unsourced claims",
+        "Write biased or one-sided content",
+        "Include promotional material",
+        "Add personal opinions without attribution"
+      ]
+    },
+    "editingArticles": {
+      "title": "Editing Existing Articles",
+      "description": "To edit an existing article:",
+      "step1": "Navigate to the article page on our website",
+      "step2": "Click the \"Edit\" button in the header to go directly to the file on GitHub",
+      "step3": "Click the pencil icon on GitHub to edit the file",
+      "step4": "Make your changes and submit a pull request",
+      "tip": "Tip: You can also browse all articles directly at {link}"
+    },
+    "reviewProcess": {
+      "title": "Review Process",
+      "description": "After you submit a pull request:",
+      "step1": "Your PR will be reviewed for formatting compliance",
+      "step2": "Content will be verified for accuracy using AI-powered fact-checking",
+      "step3": "An editorial review will check for balance and quality",
+      "step4": "Once approved, your contribution will be merged and deployed"
+    },
+    "cta": {
+      "title": "Ready to Contribute?",
+      "description": "Your contributions help create a more comprehensive understanding of history.",
+      "button": "Go to GitHub"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: December 2025",
+    "sections": {
+      "intro": {
+        "title": "1. Introduction",
+        "content": "Historical Parallax is committed to protecting your privacy. This policy explains how we handle any information when you use our service."
+      },
+      "collection": {
+        "title": "2. Information We Collect",
+        "content": "Historical Parallax does not require user registration or login. We do not collect personal information from our users.",
+        "analytics": "We may collect anonymous usage data through standard web analytics to improve our service, including:",
+        "items": ["Pages visited", "Time spent on pages", "Browser type and version", "Operating system", "Referral source"]
+      },
+      "cookies": {
+        "title": "3. Cookies",
+        "content": "We may use cookies for:",
+        "items": ["Theme preference (light/dark mode)", "Anonymous analytics"],
+        "control": "You can control cookie settings through your browser preferences."
+      },
+      "thirdParty": {
+        "title": "4. Third-Party Services",
+        "content": "We may use third-party services for:",
+        "items": ["Web hosting (Vercel)", "Analytics (anonymous data only)", "External media (Wikimedia Commons)"]
+      },
+      "security": {
+        "title": "5. Data Security",
+        "content": "Since we do not collect personal data, there is minimal risk to user privacy. Our service is served over HTTPS to ensure secure connections."
+      },
+      "children": {
+        "title": "6. Children's Privacy",
+        "content": "Our service is available to users of all ages. We do not knowingly collect information from children under 13."
+      },
+      "changes": {
+        "title": "7. Changes to This Policy",
+        "content": "We may update this privacy policy from time to time. We will notify users of any changes by posting the new policy on this page."
+      },
+      "contact": {
+        "title": "8. Contact Us",
+        "content": "If you have questions about this privacy policy, please contact us at"
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: December 2025",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using Historical Parallax, you accept and agree to be bound by the terms and provisions of this agreement."
+      },
+      "use": {
+        "title": "2. Use of Service",
+        "content": "Historical Parallax provides informational content about historical figures and events. The content is provided for educational and reference purposes only."
+      },
+      "accuracy": {
+        "title": "3. Content Accuracy",
+        "content": "While we strive to provide accurate and up-to-date information, we make no representations or warranties of any kind about the completeness, accuracy, reliability, or suitability of the information provided."
+      },
+      "perspectives": {
+        "title": "4. Multiple Perspectives",
+        "content": "Historical Parallax presents multiple perspectives on historical figures and events. The inclusion of any perspective does not constitute endorsement by Historical Parallax or its operators."
+      },
+      "sources": {
+        "title": "5. Sources and Citations",
+        "content": "All information is sourced from publicly available materials. We provide citations where possible, but users should verify information independently for critical uses."
+      },
+      "ip": {
+        "title": "6. Intellectual Property",
+        "content": "The content, organization, and presentation of Historical Parallax are protected by copyright and other intellectual property laws. Images and media may be subject to separate licenses as indicated."
+      },
+      "liability": {
+        "title": "7. Limitation of Liability",
+        "content": "In no event shall Historical Parallax or its operators be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of this service."
+      },
+      "changes": {
+        "title": "8. Changes to Terms",
+        "content": "We reserve the right to modify these terms at any time. Continued use of the service after changes constitutes acceptance of the new terms."
+      },
+      "contact": {
+        "title": "9. Contact",
+        "content": "For questions about these terms, please contact us at"
+      }
+    }
+  },
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "description": "The page you are looking for does not exist.",
+    "backHome": "Back to Home"
+  },
+  "language": {
+    "select": "Select Language",
+    "current": "Language"
+  }
+}

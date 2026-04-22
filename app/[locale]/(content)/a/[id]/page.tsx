@@ -1,30 +1,26 @@
 import { notFound } from "next/navigation";
-import { getArticle, getAllArticleIds } from "@/lib/articles";
+import { getTranslations } from "next-intl/server";
+import { getArticle } from "@/lib/articles";
 import { SidebarToc } from "@/components/sidebar-toc";
 import { ArticleContent } from "@/components/article-content";
 
 const GITHUB_REPO = "https://github.com/parallax-ai-llc/historical-parallax";
 
-// ISR disabled for dev testing (set to 86400 for production)
-export const revalidate = 0;
+// ISR: 첫 요청 시 생성 후 캐시, 24시간마다 백그라운드 갱신
+// generateStaticParams 없음 → 빌드 시 생성 안 함, 요청 시 생성
+export const revalidate = 86400; // 24시간
+export const dynamicParams = true;
 
 interface ArticlePageProps {
-  params: Promise<{ id: string }>;
-}
-
-export async function generateStaticParams() {
-  const ids = getAllArticleIds();
-  return ids.map((id) => ({ id }));
+  params: Promise<{ id: string; locale: string }>;
 }
 
 export async function generateMetadata({ params }: ArticlePageProps) {
-  const { id } = await params;
-  const article = await getArticle(id);
+  const { id, locale } = await params;
+  const article = await getArticle(id, locale);
 
   if (!article) {
-    return {
-      title: "Not Found",
-    };
+    return { title: "Not Found" };
   }
 
   const { name, nationality, birth, death } = article.meta;
@@ -34,22 +30,15 @@ export async function generateMetadata({ params }: ArticlePageProps) {
   return {
     title: name,
     description,
-    openGraph: {
-      title: name,
-      description,
-      type: "article",
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: name,
-      description,
-    },
+    openGraph: { title: name, description, type: "article" },
+    twitter: { card: "summary_large_image", title: name, description },
   };
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-  const { id } = await params;
-  const article = await getArticle(id);
+  const { id, locale } = await params;
+  const t = await getTranslations({ locale });
+  const article = await getArticle(id, locale);
 
   if (!article) {
     notFound();
@@ -59,11 +48,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   return (
     <div className="flex flex-1 py-8 px-4 md:px-6 lg:pl-96 2xl:pl-0">
-      {/* Sidebar TOC - fixed to viewport left */}
       <SidebarToc items={article.toc} articleTitle={article.meta.name} />
 
-      {/* Article Content - centered in remaining space */}
       <div className="mx-auto w-full max-w-4xl">
+        {article.isTranslated === false && locale !== "en" && (
+          <div className="mb-4 rounded-md border border-amber-200 bg-amber-50 px-4 py-2 text-sm text-amber-800 dark:border-amber-800 dark:bg-amber-950 dark:text-amber-200">
+            {t("article.contentInEnglish")}
+          </div>
+        )}
         <ArticleContent meta={article.meta} content={article.content} />
 
         <div className="mt-8 pt-4 border-t text-sm text-muted-foreground">
@@ -73,7 +65,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             rel="noopener noreferrer"
             className="inline-flex items-center hover:text-foreground transition-colors"
           >
-            Edit this page on GitHub
+            {t("article.editPage")}
           </a>
         </div>
       </div>

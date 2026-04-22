@@ -1,0 +1,220 @@
+{
+  "common": {
+    "siteName": "Historical Parallax",
+    "siteDescription": "Explora personajes y eventos históricos desde múltiples perspectivas",
+    "tagline": "Cada historia crea un paralaje",
+    "lastUpdated": "Última actualización"
+  },
+  "header": {
+    "search": "Buscar...",
+    "searchAriaLabel": "Abrir cuadro de búsqueda. Presiona Ctrl+K para buscar.",
+    "contribute": "Contribuir",
+    "edit": "Editar",
+    "maps": "Mapas",
+    "homeAriaLabel": "Historical Parallax - Ir a la página de inicio",
+    "editAriaLabel": "Editar este artículo en GitHub (se abre en una nueva pestaña)",
+    "skipToContent": "Saltar al contenido principal"
+  },
+  "home": {
+    "documentsArchived": "{count} documentos archivados",
+    "searchPlaceholder": "Buscar artículos...",
+    "recentArticles": "Artículos Recientes"
+  },
+  "footer": {
+    "poweredBy": "Desarrollado por",
+    "legal": "Legal Parallax",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "footerAriaLabel": "Pie de página del sitio",
+    "navAriaLabel": "Navegación del pie de página",
+    "poweredByAriaLabel": "Parallax AI, LLC (se abre en una nueva pestaña)"
+  },
+  "article": {
+    "editPage": "Editar esta página en GitHub",
+    "contentInEnglish": "Este artículo solo está disponible actualmente en inglés.",
+    "notFound": "Artículo no encontrado"
+  },
+  "maps": {
+    "showing": "Mostrando {count} incidentes.",
+    "timeline": "Línea de tiempo",
+    "chronological": "Orden cronológico",
+    "notFound": "Mapa no encontrado",
+    "viewMaps": "Ver Mapas de Incidentes"
+  },
+  "contribute": {
+    "title": "Contribuir a Historical Parallax",
+    "subtitle": "Ayúdanos a crear un recurso completo y equilibrado sobre personajes y eventos históricos.",
+    "viewOnGitHub": "Ver en GitHub",
+    "forkRepository": "Fork del Repositorio",
+    "gettingStarted": {
+      "title": "Primeros Pasos",
+      "description": "Aceptamos contribuciones en forma de archivos Markdown ubicados en el directorio {directory}. Puedes crear nuevos artículos o mejorar los existentes."
+    },
+    "creatingArticle": {
+      "title": "Crear un Nuevo Artículo",
+      "step1": {
+        "title": "Fork del Repositorio",
+        "description": "Ve a nuestro {link} y haz clic en el botón \"Fork\" para crear tu propia copia."
+      },
+      "step2": {
+        "title": "Clona tu Fork"
+      },
+      "step3": {
+        "title": "Crea una Nueva Rama"
+      },
+      "step4": {
+        "title": "Crea tu Artículo",
+        "description": "Crea un nuevo archivo en {directory} con el formato de nombre:",
+        "example": "Ejemplo: {examples}"
+      },
+      "step5": {
+        "title": "Confirma y Sube los Cambios"
+      },
+      "step6": {
+        "title": "Abre una Solicitud de Cambios",
+        "description": "Ve a tu fork en GitHub y haz clic en \"Compare & pull request\". Proporciona una descripción clara de tu contribución."
+      }
+    },
+    "articleFormat": {
+      "title": "Formato del Artículo",
+      "description": "Cada artículo debe seguir esta estructura exacta de Markdown:"
+    },
+    "guidelines": {
+      "title": "Directrices de Contenido",
+      "doTitle": "Hacer",
+      "doItems": [
+        "Escribe todo el contenido en inglés",
+        "Incluye perspectivas tanto positivas como negativas",
+        "Cita cada afirmación factual con notas al pie",
+        "Usa fuentes de confianza (académicas, organizaciones de noticias)",
+        "Usa únicamente imágenes de Wikimedia Commons",
+        "Usa el formato de fecha ISO (YYYY-MM-DD)"
+      ],
+      "dontTitle": "No Hacer",
+      "dontItems": [
+        "Modificar archivos de código o configuración",
+        "Usar imágenes con derechos de autor",
+        "Incluir afirmaciones sin fuente",
+        "Escribir contenido sesgado o unilateral",
+        "Incluir material promocional",
+        "Agregar opiniones personales sin atribución"
+      ]
+    },
+    "editingArticles": {
+      "title": "Editar Artículos Existentes",
+      "description": "Para editar un artículo existente:",
+      "step1": "Navega a la página del artículo en nuestro sitio web",
+      "step2": "Haz clic en el botón \"Editar\" en el encabezado para ir directamente al archivo en GitHub",
+      "step3": "Haz clic en el ícono del lápiz en GitHub para editar el archivo",
+      "step4": "Realiza tus cambios y envía una solicitud de cambios",
+      "tip": "Consejo: También puedes explorar todos los artículos directamente en {link}"
+    },
+    "reviewProcess": {
+      "title": "Proceso de Revisión",
+      "description": "Después de enviar una solicitud de cambios:",
+      "step1": "Tu PR será revisado para verificar el cumplimiento del formato",
+      "step2": "El contenido será verificado en cuanto a precisión mediante verificación de hechos impulsada por IA",
+      "step3": "Una revisión editorial comprobará el equilibrio y la calidad",
+      "step4": "Una vez aprobado, tu contribución será fusionada e implementada"
+    },
+    "cta": {
+      "title": "¿Listo para Contribuir?",
+      "description": "Tus contribuciones ayudan a crear una comprensión más completa de la historia.",
+      "button": "Ir a GitHub"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: diciembre de 2025",
+    "sections": {
+      "intro": {
+        "title": "1. Introducción",
+        "content": "Historical Parallax está comprometido a proteger tu privacidad. Esta política explica cómo manejamos cualquier información cuando usas nuestro servicio."
+      },
+      "collection": {
+        "title": "2. Información que Recopilamos",
+        "content": "Historical Parallax no requiere registro de usuario ni inicio de sesión. No recopilamos información personal de nuestros usuarios.",
+        "analytics": "Podemos recopilar datos de uso anónimos a través de análisis web estándar para mejorar nuestro servicio, incluyendo:",
+        "items": ["Páginas visitadas", "Tiempo pasado en las páginas", "Tipo y versión del navegador", "Sistema operativo", "Fuente de referencia"]
+      },
+      "cookies": {
+        "title": "3. Cookies",
+        "content": "Podemos usar cookies para:",
+        "items": ["Preferencia de tema (modo claro/oscuro)", "Análisis anónimo"],
+        "control": "Puedes controlar la configuración de cookies a través de las preferencias de tu navegador."
+      },
+      "thirdParty": {
+        "title": "4. Servicios de Terceros",
+        "content": "Podemos usar servicios de terceros para:",
+        "items": ["Alojamiento web (Vercel)", "Análisis (solo datos anónimos)", "Medios externos (Wikimedia Commons)"]
+      },
+      "security": {
+        "title": "5. Seguridad de Datos",
+        "content": "Dado que no recopilamos datos personales, existe un riesgo mínimo para la privacidad del usuario. Nuestro servicio se sirve a través de HTTPS para garantizar conexiones seguras."
+      },
+      "children": {
+        "title": "6. Privacidad de los Niños",
+        "content": "Nuestro servicio está disponible para usuarios de todas las edades. No recopilamos intencionalmente información de menores de 13 años."
+      },
+      "changes": {
+        "title": "7. Cambios en Esta Política",
+        "content": "Podemos actualizar esta política de privacidad de vez en cuando. Notificaremos a los usuarios sobre cualquier cambio publicando la nueva política en esta página."
+      },
+      "contact": {
+        "title": "8. Contáctanos",
+        "content": "Si tienes preguntas sobre esta política de privacidad, contáctanos en"
+      }
+    }
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: diciembre de 2025",
+    "sections": {
+      "acceptance": {
+        "title": "1. Aceptación de los Términos",
+        "content": "Al acceder y usar Historical Parallax, aceptas y acuerdas estar sujeto a los términos y disposiciones de este acuerdo."
+      },
+      "use": {
+        "title": "2. Uso del Servicio",
+        "content": "Historical Parallax proporciona contenido informativo sobre personajes y eventos históricos. El contenido se proporciona únicamente con fines educativos y de referencia."
+      },
+      "accuracy": {
+        "title": "3. Precisión del Contenido",
+        "content": "Aunque nos esforzamos por proporcionar información precisa y actualizada, no hacemos ningún tipo de declaraciones o garantías sobre la integridad, exactitud, fiabilidad o idoneidad de la información proporcionada."
+      },
+      "perspectives": {
+        "title": "4. Múltiples Perspectivas",
+        "content": "Historical Parallax presenta múltiples perspectivas sobre personajes y eventos históricos. La inclusión de cualquier perspectiva no constituye un respaldo por parte de Historical Parallax o sus operadores."
+      },
+      "sources": {
+        "title": "5. Fuentes y Citas",
+        "content": "Toda la información proviene de materiales de acceso público. Proporcionamos citas cuando es posible, pero los usuarios deben verificar la información de forma independiente para usos críticos."
+      },
+      "ip": {
+        "title": "6. Propiedad Intelectual",
+        "content": "El contenido, la organización y la presentación de Historical Parallax están protegidos por derechos de autor y otras leyes de propiedad intelectual. Las imágenes y los medios pueden estar sujetos a licencias separadas según se indique."
+      },
+      "liability": {
+        "title": "7. Limitación de Responsabilidad",
+        "content": "En ningún caso Historical Parallax ni sus operadores serán responsables de daños directos, indirectos, incidentales, especiales o consecuentes derivados del uso de este servicio."
+      },
+      "changes": {
+        "title": "8. Cambios en los Términos",
+        "content": "Nos reservamos el derecho de modificar estos términos en cualquier momento. El uso continuado del servicio después de los cambios constituye la aceptación de los nuevos términos."
+      },
+      "contact": {
+        "title": "9. Contacto",
+        "content": "Para preguntas sobre estos términos, contáctanos en"
+      }
+    }
+  },
+  "notFound": {
+    "title": "404 - Página No Encontrada",
+    "description": "La página que buscas no existe.",
+    "backHome": "Volver al Inicio"
+  },
+  "language": {
+    "select": "Seleccionar Idioma",
+    "current": "Idioma"
+  }
+}
