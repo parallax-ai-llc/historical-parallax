@@ -29,8 +29,8 @@ const LOCALES: Record<string, string> = {
 };
 
 const articlesDir = path.join(process.cwd(), "content/articles");
-const BATCH_SIZE = 5; // concurrent translations
-const DELAY_MS = 500; // delay between batches to avoid rate limits
+const BATCH_SIZE = 1; // sequential to avoid rate limits
+const DELAY_MS = 2000; // delay between requests
 
 async function translateArticle(
   content: string,
@@ -40,11 +40,12 @@ async function translateArticle(
   const prompt = `Translate the following Markdown article to ${langName}. Rules:
 - Translate the frontmatter "name" field to ${langName}
 - Keep all other frontmatter fields (birth, death, nationality, occupation, socialLinks, lastUpdated, image) UNCHANGED
-- Translate ALL body content (headings, paragraphs, lists) to ${langName}
-- Keep markdown formatting (##, ---, links, etc.) intact
-- Keep dates, URLs, and reference links as-is
+- Translate ALL body content to ${langName}, including ALL section headings (e.g. "## Summary" → translated heading, "## Career Timeline" → translated heading, "## References" → translated heading)
+- Translate table headers and bold labels too (e.g. "| Year | Event |" → translated, "**Date and setting:**" → translated)
+- Keep markdown formatting (##, ---, links, |, etc.) intact
+- Keep dates, URLs, reference links, and citation markers ([^1]) as-is
 - Maintain the same section structure
-- Return ONLY the translated markdown, no explanations
+- Return ONLY the translated markdown, no explanations or code fences
 
 ${content}`;
 
