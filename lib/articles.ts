@@ -57,15 +57,15 @@ export function getAllArticleIds(): string[] {
 }
 
 export function getAllArticles(locale: string = "en"): ArticleMeta[] {
-  const ids = locale === "en"
-    ? getAllArticleIds()
-    : getTranslatedArticleIds(locale);
+  const ids = getAllArticleIds();
 
   const articles = ids
     .map((id) => {
       try {
-        const fullPath = locale !== "en" && fs.existsSync(path.join(articlesDirectory, locale, `${id}.md`))
-          ? path.join(articlesDirectory, locale, `${id}.md`)
+        // Try locale-specific file first, fall back to English
+        const localePath = path.join(articlesDirectory, locale, `${id}.md`);
+        const fullPath = locale !== "en" && fs.existsSync(localePath)
+          ? localePath
           : path.join(articlesDirectory, `${id}.md`);
         const fileContents = fs.readFileSync(fullPath, "utf8");
         const { data } = matter(fileContents);
