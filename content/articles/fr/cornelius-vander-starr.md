@@ -1,0 +1,1 @@
+The French translation has been saved to `content/articles/fr/cornelius-vander-starr.md`.

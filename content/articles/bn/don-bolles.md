@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/don-bolles.md`. All body text (headings, paragraphs, table cells, list items) has been translated, while the YAML frontmatter, URLs, Markdown formatting, and the newspaper name *The Arizona Republic* are preserved as-is.

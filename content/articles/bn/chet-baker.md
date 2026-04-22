@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/chet-baker.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (song titles, album names, place names) are preserved as-is, while all body text has been translated into Bengali.

@@ -1,0 +1,1 @@
+Created `content/articles/ja/end-of-apartheid.md` with the Japanese translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

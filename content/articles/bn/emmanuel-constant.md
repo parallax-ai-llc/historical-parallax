@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/emmanuel-constant.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns (FRAPH, etc.) are preserved as-is, with all body text translated into বাংলা.

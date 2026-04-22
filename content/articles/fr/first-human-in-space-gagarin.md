@@ -1,0 +1,1 @@
+French translation saved to `content/articles/fr/first-human-in-space-gagarin.md`. YAML frontmatter kept intact, all body text translated, formatting and URLs preserved.

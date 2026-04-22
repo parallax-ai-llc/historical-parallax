@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/chung-se-yung.md`.

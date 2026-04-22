@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/gian-gastone-de-medici.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated into Spanish.

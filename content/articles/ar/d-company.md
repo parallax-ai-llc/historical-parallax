@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/d-company.md`. The YAML frontmatter is preserved as-is, all Markdown formatting is intact, and the body text has been fully translated into Arabic.

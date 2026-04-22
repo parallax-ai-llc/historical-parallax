@@ -1,0 +1,1 @@
+Done. Created `content/articles/pt/zhenli-ye-gon.md` with the Brazilian Portuguese translation. Frontmatter kept intact, all body text translated.

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/fernandinho-beira-mar.md`. All YAML frontmatter, Markdown formatting, URLs, and technical terms are preserved as-is, with only the body text translated into Russian.

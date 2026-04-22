@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/eljko-ra-natovi.md`. The YAML frontmatter, Markdown formatting, URLs, and all structural elements are preserved as-is, with all body text translated into Japanese.

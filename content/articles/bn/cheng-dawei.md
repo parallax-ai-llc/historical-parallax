@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/cheng-dawei.md`.

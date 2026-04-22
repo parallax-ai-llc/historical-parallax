@@ -1,0 +1,1 @@
+Done. The Arabic translation has been saved to `content/articles/ar/bob-newhart.md`. The YAML frontmatter, URLs, Markdown formatting, and show/album titles are all preserved as-is.

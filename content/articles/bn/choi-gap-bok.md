@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/choi-gap-bok.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is, with all body text translated into Bengali.

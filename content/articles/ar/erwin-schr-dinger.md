@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/erwin-schr-dinger.md`. Frontmatter, URLs, and Markdown formatting are preserved unchanged.

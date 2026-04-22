@@ -1,0 +1,1 @@
+Created `content/articles/es/georg-philipp-telemann.md` with the Spanish translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

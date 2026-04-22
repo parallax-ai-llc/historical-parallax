@@ -1,0 +1,1 @@
+Created `content/articles/ar/f-lice-orsini.md` with the full Arabic translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

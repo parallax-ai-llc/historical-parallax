@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/george-r-r-martin.md`. The YAML frontmatter, URLs, Markdown formatting, and book/show titles were preserved as-is, while all body text (headings, paragraphs, table headers, list items) was translated into Portuguese.

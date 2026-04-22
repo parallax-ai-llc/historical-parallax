@@ -1,0 +1,1 @@
+The French translation has been saved to `content/articles/fr/calan-abdullah.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

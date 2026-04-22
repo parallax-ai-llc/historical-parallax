@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been written to `content/articles/zh/colleen-stan.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

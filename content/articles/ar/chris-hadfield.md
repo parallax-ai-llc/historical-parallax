@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/chris-hadfield.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (STS-74, STS-100, ISS) were preserved as-is.

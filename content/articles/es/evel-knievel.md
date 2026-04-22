@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/evel-knievel.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, with all body text translated into Spanish.

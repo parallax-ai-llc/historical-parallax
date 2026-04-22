@@ -1,0 +1,1 @@
+Created `content/articles/zh/frank-stella.md` with the Simplified Chinese translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

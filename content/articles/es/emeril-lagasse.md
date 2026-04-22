@@ -1,0 +1,1 @@
+It seems like you've pasted an instruction confirmation rather than an actual article. Could you provide the actual Markdown article content you'd like translated into Spanish? I need the full text with the YAML frontmatter and body sections to perform the translation.

@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/felix-stray-kids.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with all body text translated into Arabic.

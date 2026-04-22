@@ -1,0 +1,1 @@
+Created the Japanese translation at `content/articles/ja/eknath.md`. The YAML frontmatter is preserved as-is, and all body text (headings, paragraphs, table cells, references label) has been translated into Japanese.

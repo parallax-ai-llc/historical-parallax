@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/dudjom-rinpoche.md`. YAML frontmatter kept unchanged, all body text translated, Markdown formatting and URLs preserved.

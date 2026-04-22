@@ -1,0 +1,1 @@
+Created `content/articles/ja/frank-gehry.md` with the full Japanese translation. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

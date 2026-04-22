@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/daniel-bovet.md`.

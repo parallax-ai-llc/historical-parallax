@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/bn/elba-esther-gordillo.md`.

@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/gege-akutami.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (titles, studio names, etc.) were preserved as-is.

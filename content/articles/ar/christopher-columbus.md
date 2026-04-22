@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/christopher-columbus.md`. The YAML frontmatter, Markdown formatting, URLs, and all structural elements are preserved as-is, with all body text translated into Arabic.

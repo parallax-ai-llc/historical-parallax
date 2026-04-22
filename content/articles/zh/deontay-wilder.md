@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been written to `content/articles/zh/deontay-wilder.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs are unchanged.

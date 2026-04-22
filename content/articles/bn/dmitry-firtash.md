@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/dmitry-firtash.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns like "RosUkrEnergo" are preserved as-is, while all body text has been translated into Bengali.

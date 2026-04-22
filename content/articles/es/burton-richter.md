@@ -1,0 +1,1 @@
+The Spanish translation has been created at `content/articles/es/burton-richter.md`.

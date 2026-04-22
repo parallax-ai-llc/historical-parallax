@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/bo-burnham.md`. All YAML frontmatter values, URLs, Markdown formatting, and English titles (film/special names) were preserved as-is, while all body text was translated into Arabic.

@@ -1,0 +1,1 @@
+Created `content/articles/ru/francis-de-sales.md` with the Russian translation.

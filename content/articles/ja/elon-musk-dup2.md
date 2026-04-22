@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/elon-musk-dup2.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items) has been translated into Japanese.

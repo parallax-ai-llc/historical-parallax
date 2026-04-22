@@ -1,0 +1,1 @@
+Done. The Arabic translation has been saved to `content/articles/ar/chibok-girls-kidnapping.md`. The YAML frontmatter, URLs, Markdown formatting, and hashtags are preserved as-is, with all body text translated into Arabic.

@@ -1,0 +1,1 @@
+The translated Spanish article has been saved to `content/articles/es/gertrude-elion.md`. Frontmatter values, URLs, and Markdown formatting were preserved as-is.

@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/enrique-plancarte-sol-s.md`. The YAML frontmatter, URLs, Markdown formatting, and reference links are all preserved unchanged.

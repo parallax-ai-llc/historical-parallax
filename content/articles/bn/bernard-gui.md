@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/bernard-gui.md`. All YAML frontmatter, URLs, Markdown formatting, and Latin titles are preserved as-is, with all body text translated into Bengali.

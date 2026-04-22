@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/georges-ruggiu.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items, references) was translated into Spanish.

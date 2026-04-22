@@ -1,0 +1,1 @@
+The translated file has been saved to `content/articles/pt/daniel-barrera-barrera.md`.

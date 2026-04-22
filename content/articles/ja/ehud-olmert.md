@@ -1,0 +1,1 @@
+The Japanese translation has been saved to `content/articles/ja/ehud-olmert.md`. All YAML frontmatter values, URLs, Markdown formatting, and reference labels were kept intact.

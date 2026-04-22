@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/dawood-brar.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (like FIR) were preserved as-is.

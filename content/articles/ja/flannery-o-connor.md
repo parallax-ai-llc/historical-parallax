@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/flannery-o-connor.md`. The YAML frontmatter is preserved as-is, and all body text including headings, table cells, and paragraphs has been translated into Japanese.

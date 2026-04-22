@@ -1,0 +1,1 @@
+Created `content/articles/ru/ferenc-krausz.md` with the Russian translation. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

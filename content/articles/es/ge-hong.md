@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/ge-hong.md`. All frontmatter values, URLs, and Markdown formatting were preserved as-is.

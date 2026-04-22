@@ -1,0 +1,1 @@
+Created `content/articles/pt/derek-barton.md` with the Brazilian Portuguese translation.

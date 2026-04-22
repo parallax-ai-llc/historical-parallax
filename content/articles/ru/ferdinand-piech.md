@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/ferdinand-piech.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns (brand names like Bentley, Bugatti, Lamborghini, Porsche, Volkswagen) are preserved as-is.

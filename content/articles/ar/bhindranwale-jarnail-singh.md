@@ -1,0 +1,1 @@
+Arabic translation saved to `content/articles/ar/bhindranwale-jarnail-singh.md`.

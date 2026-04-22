@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/emomali-rahmon.md`. The YAML frontmatter was kept intact, all Markdown formatting preserved, and all body text translated into Spanish.

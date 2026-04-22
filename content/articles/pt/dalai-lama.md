@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/dalai-lama.md`. All body text (headings, paragraphs, table cells, list items, quotes) was translated to Brazilian Portuguese, while the YAML frontmatter values, URLs, Markdown formatting, and footnote references were kept unchanged.

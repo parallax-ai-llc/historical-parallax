@@ -1,0 +1,1 @@
+Created `content/articles/ja/emanuel-swedenborg.md` with the Japanese translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Japanese.

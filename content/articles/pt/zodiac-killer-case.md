@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/zodiac-killer-case.md`. The YAML frontmatter was preserved exactly as-is, all body text was translated to Brazilian Portuguese, and Markdown formatting and URLs were kept unchanged.

@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/fedor-emelianenko.md`. Frontmatter values, URLs, Markdown formatting, and brand names (PRIDE) are preserved as-is.

@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/clark-rockefeller.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved as-is.

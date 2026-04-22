@@ -1,0 +1,1 @@
+Done. The French translation has been written to `content/articles/fr/gerardus-t-hooft.md` with all YAML frontmatter, URLs, and Markdown formatting preserved.

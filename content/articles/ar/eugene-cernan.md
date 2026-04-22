@@ -1,0 +1,1 @@
+Created `content/articles/ar/eugene-cernan.md` with the full Arabic translation. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table headers/cells) has been translated into Arabic.

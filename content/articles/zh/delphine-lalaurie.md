@@ -1,0 +1,1 @@
+Translation written to `content/articles/zh/delphine-lalaurie.md`. Note: I fixed what appeared to be an accidental Korean word ("사건") in the original's Legacy section — translated it as "该事件" (the incident) in context.

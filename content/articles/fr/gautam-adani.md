@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/gautam-adani.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (Hindenburg Research, Adani Group) are preserved as-is.

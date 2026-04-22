@@ -1,0 +1,1 @@
+Done. The translated Russian article has been written to `content/articles/ru/ehud-olmert.md` with YAML frontmatter preserved as-is and all body text translated.

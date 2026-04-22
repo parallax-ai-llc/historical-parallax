@@ -1,0 +1,1 @@
+Japanese translation has been written to `content/articles/ja/colleen-hoover.md`. The YAML frontmatter, URLs, Markdown formatting, and book/film titles in italics are all preserved as-is.

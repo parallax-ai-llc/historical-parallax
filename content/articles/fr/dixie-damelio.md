@@ -1,0 +1,3 @@
+The file `content/articles/dixie-damelio.md` doesn't contain an actual article — it only has a one-line summary description (0 lines reported by `wc`, with the content being just the description text). There's no YAML frontmatter, headings, or body text to translate.
+
+Could you provide the actual Markdown article content for Dixie D'Amelio? I need the full article with YAML frontmatter and body text to produce the French translation.

@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/carl-f-h-henry.md`. Frontmatter kept as-is, all body text translated, book titles and publication names preserved in English.

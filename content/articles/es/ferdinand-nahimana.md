@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/ferdinand-nahimana.md`. The YAML frontmatter was preserved unchanged, all body text was translated, and Markdown formatting and URLs were kept intact.

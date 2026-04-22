@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/fanny-kaplan.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as in the original.

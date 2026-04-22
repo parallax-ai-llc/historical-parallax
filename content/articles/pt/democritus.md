@@ -1,10 +1,10 @@
 ---
 id: "democritus"
-name: "Democritus"
+name: "Demócrito"
 birth: "0460-01-01"
 death: "0370-01-01"
 nationality: "Greece"
-occupation: ["Philosopher", "Mathematician", "Natural Scientist", "Ethicist"]
+occupation: ["Philosopher","Mathematician","Natural Scientist","Ethicist"]
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Democritus2.jpg/800px-Democritus2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Democritus"

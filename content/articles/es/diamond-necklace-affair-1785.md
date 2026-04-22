@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/diamond-necklace-affair-1785.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

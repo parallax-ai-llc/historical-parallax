@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/chen-shih-hsin.md`. The YAML frontmatter, Markdown formatting, and all URLs are preserved exactly as-is, with all body text translated into বাংলা.

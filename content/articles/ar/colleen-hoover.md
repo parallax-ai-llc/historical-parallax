@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/colleen-hoover.md`. The YAML frontmatter, URLs, book titles, and Markdown formatting are preserved as-is, with all body text translated into Arabic.

@@ -1,0 +1,1 @@
+Created `content/articles/bn/charlotte-corday.md` with the Bengali translation. All YAML frontmatter, Markdown formatting, URLs, and reference titles are preserved as-is.

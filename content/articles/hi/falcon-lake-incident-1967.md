@@ -1,0 +1,1 @@
+Done. The Hindi translation has been written to `content/articles/hi/falcon-lake-incident-1967.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with all body text translated into Hindi.

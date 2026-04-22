@@ -1,0 +1,1 @@
+The Hindi translation has been saved to `content/articles/hi/conor-fitzpatrick.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (BreachForums, Pompompurin) were preserved as-is.

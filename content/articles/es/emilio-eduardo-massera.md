@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/emilio-eduardo-massera.md`. The YAML frontmatter, URLs, Markdown formatting, and reference links are preserved unchanged.

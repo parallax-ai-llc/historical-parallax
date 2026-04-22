@@ -1,0 +1,1 @@
+The Bengali translation has been saved to `content/articles/bn/clop-ransomware-group.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (MOVEit, RaaS, Clop) are preserved as-is, with all body text translated into বাংলা.

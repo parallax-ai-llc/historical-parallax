@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/cho-young-gul.md`.

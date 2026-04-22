@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/enrico-de-pedis.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved exactly as-is, with all body text translated into Bengali.

@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/fran-ois-englert.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

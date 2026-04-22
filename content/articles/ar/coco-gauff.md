@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/coco-gauff.md`. The YAML frontmatter, URLs, Markdown formatting, and brand names are preserved as-is, with all body text translated into Arabic.

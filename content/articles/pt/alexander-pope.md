@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/alexander-pope.md`. The YAML frontmatter was kept exactly as-is, all Markdown formatting and URLs were preserved, and all body text (headings, paragraphs, table cells, quotes, etc.) was translated into Brazilian Portuguese.

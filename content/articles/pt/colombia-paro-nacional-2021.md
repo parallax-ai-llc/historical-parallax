@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/colombia-paro-nacional-2021.md`. The YAML frontmatter, URLs, Markdown formatting, and references are all preserved unchanged, with all body text translated to Brazilian Portuguese.

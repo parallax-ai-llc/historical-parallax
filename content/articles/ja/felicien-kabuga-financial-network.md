@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/ja/felicien-kabuga-financial-network.md`. YAML frontmatter is preserved as-is, all body text is in Japanese, and Markdown formatting/URLs are unchanged.

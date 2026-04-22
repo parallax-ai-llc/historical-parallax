@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/bruno-dey.md`. The YAML frontmatter, Markdown formatting, URLs, and references were all preserved as-is, with only the body text translated.

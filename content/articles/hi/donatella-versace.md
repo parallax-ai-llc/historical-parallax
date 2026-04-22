@@ -1,0 +1,3 @@
+The source file at `content/articles/donatella-versace.md` only contains the placeholder text `Article written to 'content/articles/donatella-versace.md'.` — there's no actual article content to translate.
+
+Could you provide the actual Markdown article content for Donatella Versace, or would you like me to generate the article first? I can look at other articles in the repo for the expected format if you'd like me to create it.

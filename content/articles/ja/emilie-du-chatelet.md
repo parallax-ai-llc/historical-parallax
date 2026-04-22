@@ -1,0 +1,1 @@
+Japanese translation has been written to `content/articles/ja/emilie-du-chatelet.md`.

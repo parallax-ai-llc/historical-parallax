@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/ernest-hemingway.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs are unchanged.

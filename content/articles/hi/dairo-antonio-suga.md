@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/dairo-antonio-suga.md`. All YAML frontmatter, URLs, and Markdown formatting preserved as-is; body text fully translated into Hindi.

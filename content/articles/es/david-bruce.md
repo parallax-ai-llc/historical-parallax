@@ -1,0 +1,1 @@
+The Spanish translation has been created at `content/articles/es/david-bruce.md`. The YAML frontmatter was preserved as-is, and all body text (headings, table headers/cells, paragraphs) was translated into Spanish.

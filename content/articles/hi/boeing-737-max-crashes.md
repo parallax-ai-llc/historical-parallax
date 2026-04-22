@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/boeing-737-max-crashes.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (MCAS, MCAS system names) are preserved as-is, with all body text translated into Hindi.

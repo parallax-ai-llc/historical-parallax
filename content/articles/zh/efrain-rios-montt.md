@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/efrain-rios-montt.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting was kept intact, and all body text was translated into 简体中文.

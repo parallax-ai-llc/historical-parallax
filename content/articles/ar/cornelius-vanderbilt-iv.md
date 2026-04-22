@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/cornelius-vanderbilt-iv.md`. The YAML frontmatter is preserved as-is, and all body text (headings, paragraphs, table cells) has been translated into Arabic.

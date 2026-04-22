@@ -1,0 +1,1 @@
+Translated file created at `content/articles/zh/david-attenborough.md`. YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting and URLs are unchanged.

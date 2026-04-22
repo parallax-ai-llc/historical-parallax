@@ -1,0 +1,1 @@
+Translated file written to `content/articles/zh/david-oistrakh.md`.

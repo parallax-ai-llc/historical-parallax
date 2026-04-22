@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/christy-kinahan.md`. All YAML frontmatter values, URLs, and Markdown formatting have been preserved as-is.

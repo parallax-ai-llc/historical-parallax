@@ -1,0 +1,1 @@
+Created the translated file at `content/articles/pt/sewol-ferry-disaster-2014.md`. The YAML frontmatter was kept unchanged, all body text was translated to Brazilian Portuguese, and Markdown formatting/URLs were preserved.

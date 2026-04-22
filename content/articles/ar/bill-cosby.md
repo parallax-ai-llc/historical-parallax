@@ -1,0 +1,1 @@
+The Arabic translation has been created at `content/articles/ar/bill-cosby.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved exactly as in the original.

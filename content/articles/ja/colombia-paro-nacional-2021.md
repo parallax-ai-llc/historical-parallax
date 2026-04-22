@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/colombia-paro-nacional-2021.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved unchanged.

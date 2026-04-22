@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/george-foreman.md`. YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

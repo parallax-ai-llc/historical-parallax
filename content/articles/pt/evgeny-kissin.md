@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/evgeny-kissin.md`. All frontmatter values, URLs, and Markdown formatting are preserved; only the body text has been translated to Brazilian Portuguese.

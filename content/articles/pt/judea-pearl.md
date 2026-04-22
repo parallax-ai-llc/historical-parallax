@@ -1,0 +1,1 @@
+Created `content/articles/pt/judea-pearl.md` with the Brazilian Portuguese translation.

@@ -1,0 +1,1 @@
+French translation created at `content/articles/fr/felix-konotey-ahulu.md`.

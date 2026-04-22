@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/cindy-sherman.md`, following the same conventions as existing Russian articles in the project (e.g., "Краткая биография", "Хронология карьеры", "Источники" as section headers).

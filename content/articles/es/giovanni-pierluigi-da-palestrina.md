@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/giovanni-pierluigi-da-palestrina.md`.

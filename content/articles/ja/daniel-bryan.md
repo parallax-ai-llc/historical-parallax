@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/daniel-bryan.md`. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

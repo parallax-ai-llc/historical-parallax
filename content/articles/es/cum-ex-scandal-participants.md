@@ -1,0 +1,1 @@
+Spanish translation saved to `content/articles/es/cum-ex-scandal-participants.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

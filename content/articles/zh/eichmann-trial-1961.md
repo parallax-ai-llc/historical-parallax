@@ -1,0 +1,1 @@
+Translation saved to `content/articles/zh/eichmann-trial-1961.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into Simplified Chinese.

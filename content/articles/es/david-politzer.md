@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/david-politzer.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (QCD, gauge, quarks, hadrones) are preserved as required.

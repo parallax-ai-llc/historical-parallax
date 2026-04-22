@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/pt/mary-kingsley.md`. The YAML frontmatter, URLs, Markdown formatting, and the book title *Travels in West Africa* were all preserved as-is, while all body text was translated into Brazilian Portuguese.

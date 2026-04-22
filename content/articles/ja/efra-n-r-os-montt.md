@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/efra-n-r-os-montt.md`.

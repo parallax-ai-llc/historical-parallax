@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/comayagua-prison-fire-2012.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Russian.

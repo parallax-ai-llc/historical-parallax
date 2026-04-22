@@ -1,0 +1,1 @@
+The Japanese translation has been written to `content/articles/ja/daido-moriyama.md`. The frontmatter is preserved as-is, and all body text (summary, timeline, references heading) has been translated into Japanese with the correct book titles (『日本劇場写真帖』and『写真よさようなら』).

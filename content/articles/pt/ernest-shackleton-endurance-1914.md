@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/ernest-shackleton-endurance-1914.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/donghak-peasant-revolution.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, summary, table, references) has been translated into Arabic.

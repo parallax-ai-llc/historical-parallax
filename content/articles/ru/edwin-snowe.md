@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/edwin-snowe.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

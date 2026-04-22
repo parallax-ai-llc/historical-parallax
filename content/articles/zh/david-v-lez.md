@@ -1,0 +1,1 @@
+The article has been translated to Simplified Chinese and saved to `content/articles/zh/david-v-lez.md`.

@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/clarence-birdseye.md`.

@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/erna-schneider-hoover.md`.

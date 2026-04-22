@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dotcom-bubble-2000.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table cells, list items, quotes) has been translated into Arabic.

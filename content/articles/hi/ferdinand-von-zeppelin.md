@@ -1,0 +1,1 @@
+Hindi translation saved to `content/articles/hi/ferdinand-von-zeppelin.md`.

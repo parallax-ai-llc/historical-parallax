@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/gallagher.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns are preserved. Body text including headings, paragraphs, and table headers have been translated.

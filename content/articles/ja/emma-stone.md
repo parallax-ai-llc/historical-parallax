@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/emma-stone.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table headers/cells) has been translated into natural Japanese.

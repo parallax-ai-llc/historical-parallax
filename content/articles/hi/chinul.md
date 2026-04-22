@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/chinul.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with body text fully translated into Hindi.

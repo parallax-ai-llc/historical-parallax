@@ -1,0 +1,1 @@
+The file only contains the placeholder text. There's no actual article content to translate. Could you provide the full Markdown article content for Elie Wiesel, or point me to where the actual article is located?

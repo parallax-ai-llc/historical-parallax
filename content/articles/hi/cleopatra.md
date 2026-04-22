@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/cleopatra-vii.md`. The YAML frontmatter, Markdown formatting, URLs, and book titles in the references section are preserved as-is, while all body text has been translated into Hindi.

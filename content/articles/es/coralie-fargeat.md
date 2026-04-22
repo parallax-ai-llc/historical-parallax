@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/coralie-fargeat.md`. All YAML frontmatter values, URLs, Markdown formatting, and film titles were preserved as-is, with only body text translated.

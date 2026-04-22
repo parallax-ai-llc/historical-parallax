@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/danske-bank-scandal.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with all body text translated into Simplified Chinese.

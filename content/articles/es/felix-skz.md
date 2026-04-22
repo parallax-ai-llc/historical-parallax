@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/felix-stray-kids.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (song titles, album names, brand names) were preserved as-is.

@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/fall-of-saigon.md`. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

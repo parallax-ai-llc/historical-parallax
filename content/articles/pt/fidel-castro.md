@@ -1,0 +1,1 @@
+Created `content/articles/pt/fidel-castro.md` with the Brazilian Portuguese translation. Frontmatter, URLs, and Markdown formatting were preserved as-is.

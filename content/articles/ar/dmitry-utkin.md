@@ -1,0 +1,1 @@
+Created the Arabic translation at `content/articles/ar/dmitry-utkin.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are unchanged, and all body text has been translated into Arabic.

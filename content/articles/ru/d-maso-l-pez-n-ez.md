@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/d-maso-l-pez-n-ez.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Russian.

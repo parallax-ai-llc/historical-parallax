@@ -1,0 +1,1 @@
+Translated file written to `content/articles/ja/egon-schiele.md`.

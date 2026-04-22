@@ -1,0 +1,1 @@
+The Japanese translation has been saved to `content/articles/ja/christy-kinahan.md`.

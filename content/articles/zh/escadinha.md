@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/escadinha.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is, with all body text translated into Simplified Chinese.

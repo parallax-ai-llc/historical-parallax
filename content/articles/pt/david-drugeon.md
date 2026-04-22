@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/pt/david-drugeon.md`. All YAML frontmatter, URLs, and Markdown formatting were preserved as-is, with only the body text translated to Brazilian Portuguese.

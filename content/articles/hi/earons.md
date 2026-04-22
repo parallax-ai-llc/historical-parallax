@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/earons.md`. The YAML frontmatter is preserved exactly, all Markdown formatting is intact, URLs are unchanged, and proper nouns like "EARONS", "Joseph DeAngelo", and "DNA" are kept in English. The "See also" items include both Hindi translations and English originals in parentheses for clarity.

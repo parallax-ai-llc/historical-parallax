@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/oscar-isaac.md`. The YAML frontmatter was kept intact, all Markdown formatting and URLs preserved, and film titles that have official Brazilian Portuguese names were translated (e.g., *O Despertar da Força*, *Cavaleiro da Lua*, *O Ano Mais Violento*, *Aniquilação*, *Duna*, *Rede de Mentiras*).

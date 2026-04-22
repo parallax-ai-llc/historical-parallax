@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/conor-fitzpatrick.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (BreachForums, Pompompurin) were preserved as-is.

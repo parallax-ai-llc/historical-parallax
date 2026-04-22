@@ -1,0 +1,1 @@
+The Russian translation has been created at `content/articles/ru/colin-ireland.md`. All YAML frontmatter values, Markdown formatting, URLs, and footnote references are preserved as-is.

@@ -1,0 +1,1 @@
+Created `content/articles/pt/amano-hiroshi.md` with the Brazilian Portuguese translation.

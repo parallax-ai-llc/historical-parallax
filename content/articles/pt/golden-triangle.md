@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/golden-triangle.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs are unchanged, and the body text has been translated into Brazilian Portuguese.

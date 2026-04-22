@@ -1,0 +1,1 @@
+Created `content/articles/pt/gerty-cori.md` with the Brazilian Portuguese translation. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as the original.

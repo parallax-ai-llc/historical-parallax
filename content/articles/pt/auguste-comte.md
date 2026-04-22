@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/auguste-comte.md`. All body text (headings, paragraphs, table cells, quotes) has been translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, URLs, and references unchanged.

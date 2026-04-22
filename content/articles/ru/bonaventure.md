@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/bonaventure.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into Russian.

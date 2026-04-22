@@ -1,0 +1,1 @@
+Bengali translation created at `content/articles/bn/christian-bale.md`. The YAML frontmatter, URLs, Markdown formatting, and all proper nouns are preserved as-is, with all body text translated into Bengali.

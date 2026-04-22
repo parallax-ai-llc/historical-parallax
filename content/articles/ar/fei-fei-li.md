@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/fei-fei-li.md`. The YAML frontmatter is preserved exactly, all body text is translated, and Markdown formatting/URLs are unchanged.

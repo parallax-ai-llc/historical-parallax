@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/eli-whitney.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Japanese.

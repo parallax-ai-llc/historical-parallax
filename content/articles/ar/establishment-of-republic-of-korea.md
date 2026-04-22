@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/establishment-of-republic-of-korea.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

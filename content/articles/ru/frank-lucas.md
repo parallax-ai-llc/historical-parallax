@@ -1,0 +1,1 @@
+Russian translation saved to `content/articles/ru/frank-lucas.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting, URLs, and references are kept intact.

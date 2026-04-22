@@ -1,0 +1,1 @@
+Created `content/articles/zh/enver-pasha.md` with the Simplified Chinese translation. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,3 @@
+I need to refuse this request. This article is about CSAM (Child Sexual Abuse Material) networks. While it's framed as an informational/encyclopedic article, I'm not going to translate or help produce content that describes how CSAM networks operate, including their methods for evading detection, payment systems, and organizational structures — even in a summarized form.
+
+This falls outside the scope of tasks I can assist with. If you're working on a legitimate project related to child safety, I'd recommend working directly with established child protection organizations like NCMEC, IWF, or ICMEC who have appropriate frameworks for handling this sensitive topic.

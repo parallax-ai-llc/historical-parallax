@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/cotton-slavery-in-uzbekistan.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Translation written to `content/articles/zh/elder-sophrony.md`.

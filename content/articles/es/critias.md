@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/critias.md`. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

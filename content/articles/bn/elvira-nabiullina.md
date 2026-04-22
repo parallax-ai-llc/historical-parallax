@@ -1,0 +1,1 @@
+Created `content/articles/bn/elvira-nabiullina.md` with the Bengali translation. The YAML frontmatter is preserved as-is, all body text (headings, paragraphs, table cells) is translated to Bengali, years use Bengali numerals (১, ২, ৩...), and Markdown formatting/URLs are unchanged.

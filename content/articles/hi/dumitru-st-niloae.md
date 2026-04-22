@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/dumitru-st-niloae.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into Hindi.

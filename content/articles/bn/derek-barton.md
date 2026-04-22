@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/derek-barton.md`.

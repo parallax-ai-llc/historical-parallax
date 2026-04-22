@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/chung-ju-yung.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, while all body text has been translated into Bengali.

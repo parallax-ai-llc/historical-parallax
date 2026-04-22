@@ -1,0 +1,1 @@
+The Portuguese translation has been written to `content/articles/pt/cambridge-five-exposed-1951.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into Brazilian Portuguese.

@@ -1,0 +1,1 @@
+Created `content/articles/pt/carlo-rubbia.md` with the Brazilian Portuguese translation.

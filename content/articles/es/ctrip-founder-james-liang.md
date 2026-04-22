@@ -1,0 +1,1 @@
+The Spanish translation has been created at `content/articles/es/ctrip-founder-james-liang.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

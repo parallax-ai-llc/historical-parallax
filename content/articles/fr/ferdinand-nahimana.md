@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/ferdinand-nahimana.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and the body text is fully translated into French.

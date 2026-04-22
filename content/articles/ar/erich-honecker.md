@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/erich-honecker.md` with all YAML frontmatter preserved as-is and all body text translated.

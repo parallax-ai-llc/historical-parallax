@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/eirik-jensen.md`. All YAML frontmatter values, URLs, Markdown formatting, and the Netflix documentary title were preserved as-is, while all body text was translated into Russian.

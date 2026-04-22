@@ -1,0 +1,1 @@
+French translation saved to `content/articles/fr/garrett-morgan.md`.

@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/elinor-ostrom.md`. All body text is translated into Simplified Chinese, while the YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

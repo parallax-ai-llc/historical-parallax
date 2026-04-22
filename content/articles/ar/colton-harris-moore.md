@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/colton-harris-moore.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved exactly as in the original.

@@ -1,0 +1,1 @@
+Created the translated article at `content/articles/pt/georges-charpak.md`.

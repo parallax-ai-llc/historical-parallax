@@ -1,0 +1,1 @@
+Created `content/articles/ja/faxian.md` with the Japanese translation. The YAML frontmatter is preserved exactly as-is, and all body text (headings, table cells, paragraphs, references) has been translated into Japanese.

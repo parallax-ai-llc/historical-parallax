@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been written to `content/articles/zh/gary-glitter.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Translation written to `content/articles/pt/im-kkeok-jeong.md`. The YAML frontmatter was kept unchanged, all body text was translated to Brazilian Portuguese, and all Markdown formatting and URLs were preserved.

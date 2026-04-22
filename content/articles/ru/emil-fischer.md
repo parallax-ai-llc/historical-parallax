@@ -1,0 +1,1 @@
+Created `content/articles/ru/emil-fischer.md` with the Russian translation. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Russian.

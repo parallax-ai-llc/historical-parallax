@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/chiaki-mukai.md`. All YAML frontmatter, URLs, Markdown formatting, and technical identifiers (like STS-65, STS-95) were preserved as-is.

@@ -1,0 +1,3 @@
+Unfortunately, the file `content/articles/chloe-zhao.md` only contains the text `Article written to \`content/articles/chloe-zhao.md\`.` — it's a placeholder, not an actual article. There is no real Markdown article with YAML frontmatter and body content to translate.
+
+Could you provide the actual article content for Chloé Zhao, or point me to where the full article lives? Then I'll translate it into Brazilian Portuguese.

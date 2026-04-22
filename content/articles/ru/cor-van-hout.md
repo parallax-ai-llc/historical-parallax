@@ -1,0 +1,1 @@
+Russian translation saved to `content/articles/ru/cor-van-hout.md`.

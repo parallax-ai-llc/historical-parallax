@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/dionysius-i-of-syracuse.md`. The YAML frontmatter, URLs, Markdown formatting, and reference links are preserved unchanged; all body text has been translated into বাংলা.

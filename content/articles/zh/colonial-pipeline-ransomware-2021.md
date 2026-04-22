@@ -1,0 +1,1 @@
+Translation written to `content/articles/zh/colonial-pipeline-ransomware-2021.md`. YAML frontmatter kept intact, all body text translated to Simplified Chinese, and Markdown formatting preserved.

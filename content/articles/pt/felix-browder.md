@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/felix-browder.md`. The YAML frontmatter was kept intact, all Markdown formatting preserved, and all body text translated into Brazilian Portuguese.

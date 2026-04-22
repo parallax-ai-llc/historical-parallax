@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/zh/etel-adnan.md`. The YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting and URLs are unchanged.

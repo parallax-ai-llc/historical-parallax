@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/farc.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are intact, and all body text has been translated into Hindi.

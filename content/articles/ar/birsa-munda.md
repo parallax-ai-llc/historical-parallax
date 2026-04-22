@@ -1,0 +1,1 @@
+Arabic translation saved to `content/articles/ar/birsa-munda.md`.

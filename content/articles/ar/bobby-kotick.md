@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/bobby-kotick.md`. The YAML frontmatter, Markdown formatting, URLs, and game titles (Call of Duty, World of Warcraft, Candy Crush) were kept as-is.

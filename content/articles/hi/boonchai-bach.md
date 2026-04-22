@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/boonchai-bach.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

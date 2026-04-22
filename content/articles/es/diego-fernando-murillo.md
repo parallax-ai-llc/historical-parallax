@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/diego-fernando-murillo.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is, while all body text was translated into Spanish.

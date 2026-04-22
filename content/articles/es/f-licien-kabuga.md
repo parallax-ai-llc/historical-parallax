@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/f-licien-kabuga.md`. Frontmatter kept intact, all body text translated, and Markdown formatting preserved.

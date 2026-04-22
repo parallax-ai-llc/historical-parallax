@@ -1,0 +1,3 @@
+The file `content/articles/george-martin.md` appears to be empty (0 lines). There's no actual article content to translate — it just contains the placeholder text "Article written to `content/articles/george-martin.md`."
+
+Could you provide the actual article content for George Martin, or point me to where the real source file is? Alternatively, if you'd like me to look for a different George Martin article (e.g., in a different location or with a different filename), let me know.

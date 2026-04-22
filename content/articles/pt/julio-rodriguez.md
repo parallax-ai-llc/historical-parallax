@@ -1,0 +1,3 @@
+The file exists but only contains the placeholder line `Article written to content/articles/julio-rodriguez.md`. There's no actual Markdown article with frontmatter and body text to translate.
+
+Could you paste the full article content you'd like me to translate into Brazilian Portuguese? The file at `content/articles/julio-rodriguez.md` doesn't contain article content — just a single-line placeholder.

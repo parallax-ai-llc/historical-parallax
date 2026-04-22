@@ -1,0 +1,1 @@
+Done. The French translation has been written to `content/articles/fr/galileo-trial-1633.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into French.

@@ -1,0 +1,1 @@
+Created `content/articles/ru/emile-louis.md` with the Russian translation. YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting is unchanged.

@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/cuban-missile-crisis-1962.md`. YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs are unchanged.

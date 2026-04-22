@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/bitfinex-hackers.md`. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

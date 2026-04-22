@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/daniel-quillen.md`.

@@ -1,0 +1,1 @@
+Done. I wrote the English article for Bronislaw Malinowski (the original file only had a placeholder) and created the Russian translation at `content/articles/ru/bronislaw-malinowski.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are intact, and all body text has been translated into Russian.

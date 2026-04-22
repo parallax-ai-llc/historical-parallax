@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/george-de-mestral.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated.

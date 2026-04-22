@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/es/gheorghe-florin-radulescu.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Spanish, and Markdown formatting/URLs are unchanged.

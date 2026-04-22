@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/zh/denis-rader.md`.

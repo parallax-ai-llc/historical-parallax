@@ -1,0 +1,1 @@
+Done. The translated file has been saved to `content/articles/ja/christopher-coke.md`.

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/el-chapo.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references are preserved as-is.

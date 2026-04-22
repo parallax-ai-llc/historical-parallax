@@ -1,0 +1,1 @@
+There's only one file and it contains just that placeholder text. The file has no actual article content to translate. Could you provide the actual Markdown article content for Millard Fuller, or point me to where the full article is?

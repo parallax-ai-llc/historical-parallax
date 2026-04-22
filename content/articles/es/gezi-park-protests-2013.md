@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/gezi-park-protests-2013.md`. The YAML frontmatter, Markdown formatting, URLs, and all proper nouns (names, places, organizations) were preserved as-is, while all body text was fully translated into Spanish.

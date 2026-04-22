@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/charoen-sirivadhanabhakdi.md`. The YAML frontmatter, URLs, company names, and Markdown formatting are preserved as-is, with all body text translated into Bengali.

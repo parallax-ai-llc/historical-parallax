@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/david-attenborough.md`. Series titles were kept in their original English names as they are proper titles.

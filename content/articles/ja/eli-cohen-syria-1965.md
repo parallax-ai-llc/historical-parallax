@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/eli-cohen-syria-1965.md`. The YAML frontmatter, Markdown formatting, URLs, and all structural elements are preserved as-is.

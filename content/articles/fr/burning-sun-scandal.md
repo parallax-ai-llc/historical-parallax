@@ -1,0 +1,1 @@
+The French translation has been saved to `content/articles/fr/burning-sun-scandal.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

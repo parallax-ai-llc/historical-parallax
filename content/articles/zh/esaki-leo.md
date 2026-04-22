@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/zh/esaki-leo.md`. The YAML frontmatter is preserved as-is, all body text (summary, table headers/cells, section headings, references) is translated into Simplified Chinese, and Markdown formatting and URLs are unchanged.

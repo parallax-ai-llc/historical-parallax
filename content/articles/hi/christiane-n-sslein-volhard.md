@@ -1,0 +1,1 @@
+Hindi translation has been written to `content/articles/hi/christiane-n-sslein-volhard.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Hindi.

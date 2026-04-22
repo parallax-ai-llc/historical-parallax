@@ -1,0 +1,1 @@
+Created the Arabic translation at `content/articles/ar/dilip-shanghvi.md`. The YAML frontmatter is preserved exactly, and all body text (summary, timeline headings, table content, references label) has been translated into Arabic.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/falcon-lake-incident-1967.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, while all body text (headings, paragraphs, lists) has been translated into Arabic.

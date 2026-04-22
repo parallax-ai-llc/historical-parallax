@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/damien-chazelle.md`. The YAML frontmatter, URLs, Markdown formatting, and film titles were preserved as-is, while all body text was translated into Spanish.

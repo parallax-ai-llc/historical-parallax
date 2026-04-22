@@ -1,0 +1,1 @@
+Created `content/articles/pt/gerard-john-schaefer.md` with the Brazilian Portuguese translation. The YAML frontmatter is preserved exactly as-is, and all body text has been translated.

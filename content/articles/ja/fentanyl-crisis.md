@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/fentanyl-crisis.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

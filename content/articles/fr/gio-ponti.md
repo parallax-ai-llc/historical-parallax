@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/gio-ponti.md`.

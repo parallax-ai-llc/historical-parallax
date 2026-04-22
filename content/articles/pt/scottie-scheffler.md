@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/scottie-scheffler.md`. The YAML frontmatter was kept intact, all Markdown formatting and URLs preserved, and all body text translated into Brazilian Portuguese.

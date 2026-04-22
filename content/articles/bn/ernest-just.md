@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/ernest-just.md`. The YAML frontmatter, Markdown formatting, URLs, and the book title "The Biology of the Cell Surface" were kept as-is, while all body text was translated into Bengali.

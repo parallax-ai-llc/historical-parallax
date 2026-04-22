@@ -1,0 +1,1 @@
+Created `content/articles/ja/elliot-page.md` with the Japanese translation. YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dooman-khang.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

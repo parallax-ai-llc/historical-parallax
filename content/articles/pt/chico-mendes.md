@@ -1,0 +1,1 @@
+The file `content/articles/chico-mendes.md` doesn't contain an actual article — it only has the instruction text. Could you paste the full Markdown content of the Chico Mendes article (with YAML frontmatter and body) so I can translate it into Brazilian Portuguese?

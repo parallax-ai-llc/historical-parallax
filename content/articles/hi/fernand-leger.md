@@ -1,0 +1,1 @@
+Created `content/articles/hi/fernand-leger.md` with the Hindi translation. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into Hindi.

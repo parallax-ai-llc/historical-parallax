@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/zh/cz-binance.md`.

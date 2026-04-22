@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/emmanuel-constant.md`. All YAML frontmatter, URLs, Markdown formatting, and reference links are preserved as-is.

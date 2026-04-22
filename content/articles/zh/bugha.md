@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/zh/bugha.md`. All YAML frontmatter values, Markdown formatting, URLs, and footnote references are preserved as-is, with body text translated into Simplified Chinese.

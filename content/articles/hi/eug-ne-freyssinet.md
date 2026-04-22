@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/eug-ne-freyssinet.md`. The YAML frontmatter is preserved exactly, and all body text (headings, paragraphs, table cells) has been translated into Hindi.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dmitri-hvorostovsky.md`. All body text (headings, paragraphs, table cells) is translated, while the YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

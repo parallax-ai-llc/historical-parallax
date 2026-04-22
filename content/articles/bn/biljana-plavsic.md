@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/biljana-plavsic.md`. All body text is translated to বাংলা while YAML frontmatter, URLs, Markdown formatting, and reference titles are preserved as-is.

@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/chile-coup-1973.md`. YAML frontmatter is preserved exactly as-is, all body text is translated into Hindi, and Markdown formatting/URLs are unchanged.

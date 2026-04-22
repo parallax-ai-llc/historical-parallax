@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/ctrip-founder-james-liang.md`. Frontmatter kept as-is, all body text translated, and Markdown formatting preserved.

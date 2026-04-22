@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/friedrich-list.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table headers/cells) has been translated into Russian.

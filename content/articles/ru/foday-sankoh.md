@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/foday-sankoh.md`. YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are intact.

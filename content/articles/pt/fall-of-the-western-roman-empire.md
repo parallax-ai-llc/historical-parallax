@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/fall-of-the-western-roman-empire.md`.

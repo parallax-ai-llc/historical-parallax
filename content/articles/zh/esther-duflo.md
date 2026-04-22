@@ -1,0 +1,1 @@
+Created the Simplified Chinese translation at `content/articles/zh/esther-duflo.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting/URLs are intact.

@@ -1,0 +1,1 @@
+Russian translation written to `content/articles/ru/francoise-bettencourt-meyers.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated.

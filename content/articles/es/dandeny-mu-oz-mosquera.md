@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/dandeny-mu-oz-mosquera.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

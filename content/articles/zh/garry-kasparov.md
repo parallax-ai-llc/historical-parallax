@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been created at `content/articles/zh/garry-kasparov.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is; only the body text has been translated.

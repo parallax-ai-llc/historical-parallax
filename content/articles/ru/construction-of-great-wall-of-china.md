@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/construction-of-great-wall-of-china.md`. Frontmatter is preserved as-is, and all body text (headings, paragraphs, table headers/cells) is translated to Russian following the existing convention in the repo.

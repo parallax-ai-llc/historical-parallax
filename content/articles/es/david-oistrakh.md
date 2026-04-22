@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/david-oistrakh.md`. Frontmatter values, URLs, and Markdown formatting are preserved as-is; all body text has been translated.

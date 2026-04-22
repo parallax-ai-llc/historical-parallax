@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/chung-hyeon.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms are preserved as-is, with all body text translated into Bengali.

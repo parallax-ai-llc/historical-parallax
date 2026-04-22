@@ -1,0 +1,1 @@
+Written to `content/articles/bn/elaine-thompson-herah.md`. The YAML frontmatter is preserved exactly, all body text is translated into Bengali, and Markdown formatting/URLs are unchanged.

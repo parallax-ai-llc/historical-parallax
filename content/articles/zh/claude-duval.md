@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/claude-duval.md`. YAML frontmatter is preserved as-is, and all body text has been translated into Simplified Chinese.

@@ -1,0 +1,1 @@
+Created the Spanish translation at `content/articles/es/daewoo-accounting-fraud.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated to Spanish while keeping Markdown formatting, URLs, and references unchanged.

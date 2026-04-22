@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/gong-yoo.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into Brazilian Portuguese.

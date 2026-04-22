@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/chung-mong-joon.md`.

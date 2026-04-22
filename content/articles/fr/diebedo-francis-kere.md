@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/diebedo-francis-kere.md`. Frontmatter, URLs, and Markdown formatting preserved as-is.

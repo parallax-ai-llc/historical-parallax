@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/federica-pellegrini.md`. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

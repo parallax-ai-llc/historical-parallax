@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/easter-bombings-2019.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Created `content/articles/ja/brian-eno.md` with the Japanese translation.

@@ -1,0 +1,1 @@
+Created `content/articles/pt/dorothea-lange.md` with the Brazilian Portuguese translation.

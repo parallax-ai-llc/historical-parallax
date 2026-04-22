@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/ed-gein.md`. All YAML frontmatter, Markdown formatting, URLs, and references are preserved as-is.

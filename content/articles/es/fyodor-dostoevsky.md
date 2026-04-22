@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/fyodor-dostoevsky.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs remain unchanged.

@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/fujishima-takeji.md`. The YAML frontmatter is preserved exactly, and all body text (headings, paragraphs, table headers/cells) has been translated into Russian.

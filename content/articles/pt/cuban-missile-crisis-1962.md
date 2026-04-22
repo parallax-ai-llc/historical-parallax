@@ -1,0 +1,1 @@
+File created at `content/articles/pt/cuban-missile-crisis-1962.md`.

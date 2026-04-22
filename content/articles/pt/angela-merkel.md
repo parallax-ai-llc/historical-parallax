@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/angela-merkel.md`. All body text (headings, paragraphs, table cells, quotes) is translated to Brazilian Portuguese, while the YAML frontmatter values, Markdown formatting, URLs, and references remain unchanged.

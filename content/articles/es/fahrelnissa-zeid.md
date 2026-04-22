@@ -1,0 +1,1 @@
+Created `content/articles/es/fahrelnissa-zeid.md` with the Spanish translation. Frontmatter kept as-is, all body text translated.

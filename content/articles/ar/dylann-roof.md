@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dylann-roof.md`. All YAML frontmatter values, Markdown formatting, and URLs were preserved as-is, with only the body text translated into Arabic.

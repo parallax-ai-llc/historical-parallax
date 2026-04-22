@@ -1,0 +1,1 @@
+The Russian translation has been created at `content/articles/ru/florence-rey.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved exactly as in the original.

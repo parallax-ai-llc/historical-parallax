@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/fancy-bear.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (APT28, GRU, DNC, Sofacy) are all preserved as-is, with all body text translated into Arabic.

@@ -1,0 +1,1 @@
+Created `content/articles/hi/eta.md` with the Hindi translation. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are unchanged, and all body text has been translated into Hindi.

@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/chung-yong-jin.md`. Frontmatter kept as-is, all body text translated, formatting and URLs preserved.

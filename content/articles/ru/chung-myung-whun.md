@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/chung-myung-whun.md`. Frontmatter kept as-is, all body text translated to Russian.

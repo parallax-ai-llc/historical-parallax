@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/david-geffen.md`.

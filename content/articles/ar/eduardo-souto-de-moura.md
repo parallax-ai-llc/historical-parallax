@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/eduardo-souto-de-moura.md`. The YAML frontmatter is preserved exactly, all Markdown formatting is intact, and the body text (headings, paragraphs, table cells) has been translated into Arabic.

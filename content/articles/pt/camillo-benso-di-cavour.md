@@ -1,0 +1,1 @@
+The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/camillo-benso-di-cavour.md`. The YAML frontmatter, URLs, Markdown formatting, and references were all preserved as-is.

@@ -1,0 +1,1 @@
+The file only contains a single line of placeholder text — it looks like the article content was never actually written to it. Could you share the actual article content you'd like translated, or let me know how/where the article was generated so I can find it?

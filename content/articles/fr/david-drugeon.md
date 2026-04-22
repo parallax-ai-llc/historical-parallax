@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/david-drugeon.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

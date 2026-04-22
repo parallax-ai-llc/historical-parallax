@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/enron-scandal.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated into French, and Markdown formatting and URLs are unchanged.

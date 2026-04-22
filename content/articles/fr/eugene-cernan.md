@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/eugene-cernan.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with only the body text translated into French.

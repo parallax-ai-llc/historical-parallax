@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/dan-harmon.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with only the body text translated.

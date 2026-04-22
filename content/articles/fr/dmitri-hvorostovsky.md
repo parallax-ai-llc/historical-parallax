@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/dmitri-hvorostovsky.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, while all body text (headings, paragraphs, table headers) has been translated into French.

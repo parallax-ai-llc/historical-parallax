@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/daymond-john.md`. The YAML frontmatter, URLs, Markdown formatting, and brand names (FUBU) are preserved as-is, while all body text has been translated into Bengali.

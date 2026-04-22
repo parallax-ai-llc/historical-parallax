@@ -1,0 +1,3 @@
+The file only contains 58 bytes — just the placeholder text "Article written to `content/articles/dag-hammarskjold.md`." and not the actual article content.
+
+There's no actual article to translate. The file at `content/articles/dag-hammarskjold.md` is a stub/placeholder with no real content. Could you provide the actual article text, or would you like me to check if there's a different source for the Dag Hammarskjöld article?

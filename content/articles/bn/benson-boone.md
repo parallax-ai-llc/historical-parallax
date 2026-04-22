@@ -1,0 +1,1 @@
+The file only contains a single line: `Article written to \`content/articles/benson-boone.md\`.` — it appears the article content was never actually written. Could you provide the article text you'd like translated, or check if the file was created correctly?

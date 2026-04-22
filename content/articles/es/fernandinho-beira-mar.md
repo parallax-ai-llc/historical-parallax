@@ -1,0 +1,1 @@
+Done. The Spanish translation has been saved to `content/articles/es/fernandinho-beira-mar.md`. The YAML frontmatter was preserved as-is, all Markdown formatting and URLs were kept unchanged, and all body text was translated into Spanish.

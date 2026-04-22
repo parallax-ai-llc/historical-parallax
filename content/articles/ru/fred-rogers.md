@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/fred-rogers.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact.

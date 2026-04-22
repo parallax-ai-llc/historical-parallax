@@ -1,0 +1,1 @@
+Russian translation written to `content/articles/ru/elizabeth-holmes-theranos.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

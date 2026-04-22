@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/cole-palmer.md`. All body text (headings, paragraphs, list items, table cells) has been translated, while the YAML frontmatter, Markdown formatting, and URLs remain unchanged.

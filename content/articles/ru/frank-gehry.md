@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/frank-gehry.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated into Russian, and Markdown formatting and URLs are unchanged.

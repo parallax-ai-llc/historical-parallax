@@ -1,0 +1,1 @@
+Created `content/articles/ru/first-human-in-space-gagarin.md` with the Russian translation. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

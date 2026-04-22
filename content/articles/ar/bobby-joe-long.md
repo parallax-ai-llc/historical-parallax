@@ -1,0 +1,1 @@
+Arabic translation saved to `content/articles/ar/bobby-joe-long.md`. YAML frontmatter, URLs, and markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+The file exists but its content is just the description text, not an actual Markdown article with frontmatter and body content. Could you paste the actual article content so I can translate it?

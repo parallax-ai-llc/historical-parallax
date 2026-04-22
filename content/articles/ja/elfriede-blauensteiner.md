@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/ja/elfriede-blauensteiner.md`. YAML frontmatter was preserved as-is, and all body text (headings, paragraphs, table cells, list items, and references) was translated into Japanese.

@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/george-washington-carver.md`.

@@ -1,0 +1,1 @@
+Created the Japanese translation at `content/articles/ja/elizabeth-of-hungary.md`. The YAML frontmatter is preserved as-is, and all body text (headings, summary, timeline table, references heading) has been translated into Japanese.

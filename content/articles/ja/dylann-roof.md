@@ -1,0 +1,1 @@
+The Japanese translation has been written to `content/articles/ja/dylann-roof.md`. Frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Japanese.

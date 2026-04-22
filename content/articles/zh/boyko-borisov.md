@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/boyko-borisov.md`. All YAML frontmatter, URLs, Markdown formatting, and reference links are preserved as-is.

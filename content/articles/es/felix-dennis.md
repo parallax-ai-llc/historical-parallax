@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/felix-dennis.md`. Frontmatter, URLs, Markdown formatting, and proper nouns (book titles, project names, place names) are preserved as-is.

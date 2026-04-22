@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/declaration-of-independence-signing.md`. All body text (headings, paragraphs, table cells) has been translated while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

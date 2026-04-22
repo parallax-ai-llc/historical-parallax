@@ -1,0 +1,1 @@
+Created the Simplified Chinese translation at `content/articles/zh/gennadiy-modestov.md`. The YAML frontmatter is preserved exactly, all body text is translated, and Markdown formatting and URLs are unchanged.

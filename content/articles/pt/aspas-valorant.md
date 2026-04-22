@@ -1,0 +1,1 @@
+The article has already been translated into Brazilian Portuguese at `content/articles/pt/aspas.md`. The translation looks complete and well done — all body text is in Portuguese, the YAML frontmatter is preserved as-is, Markdown formatting is intact, and URLs are unchanged. No further action needed.

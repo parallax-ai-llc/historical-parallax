@@ -1,0 +1,3 @@
+The file `content/articles/david-miscavige.md` doesn't contain an actual article — it only has the placeholder text `"The article has been written to content/articles/david-miscavige.md."` Both on disk and in git history, there's no real article content.
+
+Could you provide the actual Markdown content for the David Miscavige article? Alternatively, would you like me to generate the article first and then translate it to Russian?

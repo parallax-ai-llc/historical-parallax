@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/dilip-shanghvi.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Bengali.

@@ -1,0 +1,1 @@
+Hindi translation saved to `content/articles/hi/dubai-slave-labor.md`. The YAML frontmatter, Markdown formatting, and all URLs are preserved as-is.

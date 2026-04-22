@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dionysius-i-of-syracuse.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with all body text translated into Arabic.

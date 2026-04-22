@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/claude-levi-strauss.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Arabic.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/do-won-chang.md`. The YAML frontmatter is preserved exactly, and all body text (headings, paragraphs, table cells) has been translated into Arabic.

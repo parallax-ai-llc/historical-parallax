@@ -1,0 +1,1 @@
+The Japanese translation has been written to `content/articles/ja/eileen-gu.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references were preserved as-is, with only the body text translated into Japanese.

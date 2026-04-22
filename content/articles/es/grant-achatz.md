@@ -1,0 +1,1 @@
+The file only contains the text "Article written to `content/articles/grant-achatz.md`." — it was never properly populated with article content. Could you share the actual article content you'd like translated? Or if it should have been generated, it needs to be written first.

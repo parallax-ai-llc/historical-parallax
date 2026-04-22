@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/daut-kadriovski.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as in the original.

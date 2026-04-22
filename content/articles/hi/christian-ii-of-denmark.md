@@ -1,0 +1,1 @@
+Hindi translation saved to `content/articles/hi/christian-ii-of-denmark.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Hindi.

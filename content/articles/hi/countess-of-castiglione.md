@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/countess-of-castiglione.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Hindi.

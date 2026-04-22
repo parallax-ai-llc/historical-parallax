@@ -1,0 +1,1 @@
+Japanese translation saved to `content/articles/ja/edward-dyer.md`. YAML frontmatter kept intact, all body text translated, and Markdown formatting/URLs preserved.

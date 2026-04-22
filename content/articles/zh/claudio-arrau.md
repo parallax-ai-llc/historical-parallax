@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been created at `content/articles/zh/claudio-arrau.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

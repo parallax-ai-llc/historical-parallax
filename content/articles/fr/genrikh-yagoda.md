@@ -1,0 +1,1 @@
+French translation created at `content/articles/fr/genrikh-yagoda.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is; all body text (including the Korean supplementary notes) has been translated into French.

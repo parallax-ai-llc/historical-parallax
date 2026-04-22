@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/gene-kelly.md`. The YAML frontmatter, film titles, URLs, and Markdown formatting are preserved as-is, with all body text translated into Spanish.

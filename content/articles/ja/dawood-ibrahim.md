@@ -1,0 +1,1 @@
+Japanese translation saved to `content/articles/ja/dawood-ibrahim.md`. All YAML frontmatter, Markdown formatting, URLs, and references are preserved as-is.

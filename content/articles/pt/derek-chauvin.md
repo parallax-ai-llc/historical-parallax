@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/derek-chauvin.md`. All body text is translated to Brazilian Portuguese while the YAML frontmatter values and Markdown formatting remain unchanged.

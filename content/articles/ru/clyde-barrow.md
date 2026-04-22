@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/clyde-barrow.md`. The YAML frontmatter is preserved as-is, all Markdown formatting is intact, and all body text has been translated into Russian.

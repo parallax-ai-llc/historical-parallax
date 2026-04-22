@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/fusako-shigenobu-jra.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

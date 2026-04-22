@@ -1,0 +1,1 @@
+Created `content/articles/es/george-stokes.md` with the Spanish translation. Frontmatter is preserved exactly, and all body text (summary, timeline headings, table cells) has been translated.

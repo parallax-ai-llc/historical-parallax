@@ -1,0 +1,3 @@
+The file exists but its content is just the description paragraph, not actual article markdown. There's no real article content to translate — the file contains only the summary text you pasted.
+
+Could you provide the actual markdown content of the Father Divine article (with YAML frontmatter, headings, body text, etc.)? The file at `content/articles/father-divine.md` currently only contains the description text, not a proper markdown article.

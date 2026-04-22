@@ -1,0 +1,1 @@
+Translation complete. The file has been created at `content/articles/zh/david-rockefeller.md`.

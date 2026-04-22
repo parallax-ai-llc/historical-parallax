@@ -1,0 +1,1 @@
+The Bengali translation has been created at `content/articles/bn/collis-p-huntington.md`. YAML frontmatter is preserved as-is, all body text is translated, and years are converted to Bengali numerals.

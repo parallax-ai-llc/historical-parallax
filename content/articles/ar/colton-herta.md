@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/colton-herta.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (team names, circuit names) are preserved as-is, while all body text has been translated into Arabic.

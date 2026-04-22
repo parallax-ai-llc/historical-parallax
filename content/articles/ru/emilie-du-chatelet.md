@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/emilie-du-chatelet.md`.

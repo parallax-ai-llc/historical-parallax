@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/exxon-valdez-oil-spill.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (OPA 90, etc.) are preserved as-is; all body text has been translated into Hindi.

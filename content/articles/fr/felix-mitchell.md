@@ -1,0 +1,1 @@
+French translation saved to `content/articles/fr/felix-mitchell.md`. The YAML frontmatter is preserved unchanged and all body text has been translated.

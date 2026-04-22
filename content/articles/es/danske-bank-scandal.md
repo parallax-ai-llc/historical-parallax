@@ -1,0 +1,1 @@
+Written to `content/articles/es/danske-bank-scandal.md`. The frontmatter is preserved as-is, all body text is translated to Spanish, and formatting/URLs are unchanged.

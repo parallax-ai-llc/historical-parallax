@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/david-drugeon.md`. All YAML frontmatter, URLs, and Markdown formatting preserved as-is.

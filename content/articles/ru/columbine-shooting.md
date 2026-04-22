@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/columbine-shooting.md`. Frontmatter kept as-is, all body text translated.

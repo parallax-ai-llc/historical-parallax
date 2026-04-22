@@ -1,0 +1,1 @@
+Created `content/articles/ru/fidel-castro.md` with the Russian translation. Frontmatter kept intact, all body text translated.

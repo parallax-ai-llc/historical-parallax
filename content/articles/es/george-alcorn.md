@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/george-alcorn.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

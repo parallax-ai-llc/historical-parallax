@@ -1,0 +1,1 @@
+Created the Arabic translation at `content/articles/ar/dairo-antonio-suga.md`. The YAML frontmatter is preserved exactly, all Markdown formatting is intact, and all body text has been translated into Arabic.

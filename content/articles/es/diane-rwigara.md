@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/diane-rwigara.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as required.

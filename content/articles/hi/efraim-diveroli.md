@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/efraim-diveroli.md`. Frontmatter, URLs, Markdown formatting, and technical terms preserved as-is.

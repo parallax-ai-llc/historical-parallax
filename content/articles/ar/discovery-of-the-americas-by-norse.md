@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/discovery-of-the-americas-by-norse.md`. The YAML frontmatter is preserved as-is, and all body text (headings, table cells, paragraphs, references) has been translated into Arabic.

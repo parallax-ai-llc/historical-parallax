@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/daniel-barbosa.md`. The YAML frontmatter was kept intact, all body text was translated, and Markdown formatting was preserved.

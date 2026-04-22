@@ -1,0 +1,1 @@
+Bengali translation saved to `content/articles/bn/chimaroke-nnamani.md`.

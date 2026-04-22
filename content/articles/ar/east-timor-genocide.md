@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/east-timor-genocide.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

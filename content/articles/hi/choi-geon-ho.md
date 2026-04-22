@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/choi-geon-ho.md`.

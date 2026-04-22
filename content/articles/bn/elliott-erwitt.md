@@ -1,0 +1,1 @@
+Bengali translation saved to `content/articles/bn/elliott-erwitt.md`. The YAML frontmatter is preserved exactly as-is, all body text (headings, paragraphs, table headers) is translated into Bengali, and Markdown formatting/URLs remain unchanged.

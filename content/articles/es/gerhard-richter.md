@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/gerhard-richter.md`. Frontmatter kept as-is, all body text translated.

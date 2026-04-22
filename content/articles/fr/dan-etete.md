@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/dan-etete.md`. YAML frontmatter kept intact, all body text translated, formatting and URLs preserved.

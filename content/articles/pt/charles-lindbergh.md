@@ -1,0 +1,1 @@
+The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/charles-lindbergh.md`. The YAML frontmatter was preserved as-is, all Markdown formatting and URLs are unchanged, and I converted the distance from 3,600 miles to approximately 5,800 km for the Portuguese-speaking audience.

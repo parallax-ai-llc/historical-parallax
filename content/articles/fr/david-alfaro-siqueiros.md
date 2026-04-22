@@ -1,0 +1,1 @@
+The French translation has been saved to `content/articles/fr/david-alfaro-siqueiros.md`.

@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/fedor-emelianenko.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with only the body text translated.

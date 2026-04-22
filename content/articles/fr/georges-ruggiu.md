@@ -1,0 +1,1 @@
+French translation created at `content/articles/fr/georges-ruggiu.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are intact.

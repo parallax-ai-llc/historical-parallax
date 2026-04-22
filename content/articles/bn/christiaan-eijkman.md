@@ -1,0 +1,1 @@
+Created `content/articles/bn/christiaan-eijkman.md` with the Bengali translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

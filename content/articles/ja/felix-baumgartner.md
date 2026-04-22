@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/ja/felix-baumgartner.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (Red Bull Stratos, Mach 1.25, FAA) are preserved as-is.

@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/zheng-yi-sao.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated to Brazilian Portuguese.

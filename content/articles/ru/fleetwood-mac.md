@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/fleetwood-mac.md`. The YAML frontmatter, URLs, Markdown formatting, and song/album titles are preserved as-is, while all body text has been translated into Russian.

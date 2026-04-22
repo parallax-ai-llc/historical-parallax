@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/choe-jeong-ho.md`.

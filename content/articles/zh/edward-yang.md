@@ -1,0 +1,1 @@
+Created `content/articles/zh/edward-yang.md` with the Simplified Chinese translation. Film titles are translated using their official Chinese names (e.g., 《一一》, 《牯岭街少年杀人事件》, 《青梅竹马》, 《恐怖分子》, 《光阴的故事》).

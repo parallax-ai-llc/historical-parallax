@@ -1,0 +1,1 @@
+Done. The Hindi translation has been written to `content/articles/hi/edward-snowden-revelations.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (NSA, HTTPS, etc.) are preserved as-is.

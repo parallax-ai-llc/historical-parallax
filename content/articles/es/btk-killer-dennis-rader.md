@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/btk-killer-dennis-rader.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated to Spanish.

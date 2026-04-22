@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/daniel-duggan.md`. All body text is translated to Simplified Chinese while YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

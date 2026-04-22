@@ -1,0 +1,3 @@
+The file `content/articles/donald-johanson.md` only contains the text "Article written to `content/articles/donald-johanson.md`." — it doesn't have actual article content. It seems like the article was never properly written to that file.
+
+Could you paste the actual Markdown content of the Donald Johanson article so I can translate it into French? Or if there's another location where the article exists, let me know.

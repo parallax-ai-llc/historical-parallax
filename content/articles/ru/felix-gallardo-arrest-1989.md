@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/felix-gallardo-arrest-1989.md` with YAML frontmatter preserved exactly as-is and all body text translated.

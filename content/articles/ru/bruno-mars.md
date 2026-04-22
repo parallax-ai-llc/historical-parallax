@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/bruno-mars.md`. The YAML frontmatter is preserved as-is, all body text is translated, and markdown formatting/URLs remain unchanged.

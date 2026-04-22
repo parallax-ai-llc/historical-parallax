@@ -1,0 +1,1 @@
+Created `content/articles/ru/fernand-leger.md` with the Russian translation.

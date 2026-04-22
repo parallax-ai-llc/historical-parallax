@@ -1,0 +1,1 @@
+The file exists but only contains a placeholder line. It seems the article content wasn't actually written to the file. Could you provide the actual Markdown content of the f0rest article that you'd like me to translate into Brazilian Portuguese?

@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/ettore-sottsass.md`.

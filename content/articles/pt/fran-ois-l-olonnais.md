@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/fran-ois-l-olonnais.md`. The YAML frontmatter was preserved unchanged, and all body text was translated into Brazilian Portuguese.

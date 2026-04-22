@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/delphine-lalaurie.md`. Note: I fixed what appeared to be an accidental Korean word ("사건") in the original Legacy section, translating the intended meaning ("l'affaire") into French.

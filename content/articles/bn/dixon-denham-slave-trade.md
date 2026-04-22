@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/dixon-denham-slave-trade.md`. YAML frontmatter kept intact, all body text translated to বাংলা, Markdown formatting and URLs preserved.

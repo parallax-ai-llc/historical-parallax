@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/curtis-warren.md`. The YAML frontmatter, Markdown formatting, URLs, and references are preserved as-is, with all body text translated into Hindi.

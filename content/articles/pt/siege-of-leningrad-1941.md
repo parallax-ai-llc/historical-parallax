@@ -1,0 +1,1 @@
+Done. The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/siege-of-leningrad-1941.md`. The YAML frontmatter, URLs, Markdown formatting, and book titles in the references were kept unchanged as requested.

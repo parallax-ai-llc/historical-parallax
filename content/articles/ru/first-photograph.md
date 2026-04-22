@@ -1,0 +1,1 @@
+Created `content/articles/ru/first-photograph.md` with the Russian translation. YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

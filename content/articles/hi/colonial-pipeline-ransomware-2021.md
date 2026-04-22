@@ -1,0 +1,1 @@
+Created the Hindi translation at `content/articles/hi/colonial-pipeline-ransomware-2021.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated into Hindi, and Markdown formatting, URLs, dates, and technical terms (DarkSide, ransomware, FBI, IT, etc.) are kept intact.

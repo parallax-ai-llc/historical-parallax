@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/david-headley.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are unchanged, and all body text has been translated to Russian.

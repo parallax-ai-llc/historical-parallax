@@ -1,0 +1,1 @@
+Created `content/articles/ja/francois-englert.md` with the Japanese translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/ja/elizabeth-bathory.md`. All body text is in Japanese, YAML frontmatter values and URLs are preserved as-is, and Markdown formatting is unchanged.

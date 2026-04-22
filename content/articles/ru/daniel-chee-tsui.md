@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/daniel-chee-tsui.md`.

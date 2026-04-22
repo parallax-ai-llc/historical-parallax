@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/el-mayo-zambada-jr.md`.

@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/glorious-revolution.md`. Frontmatter kept intact, all body text translated, and Markdown formatting preserved.

@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/efra-n-b-maca-vel-squez.md`.

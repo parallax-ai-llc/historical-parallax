@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/d-angelo.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

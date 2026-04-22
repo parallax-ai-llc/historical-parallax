@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/gary-becker.md`. Frontmatter, URLs, Markdown formatting, and book/article titles kept intact.

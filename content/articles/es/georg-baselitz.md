@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/georg-baselitz.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Russian translation written to `content/articles/ru/g-n-ramachandran.md`.

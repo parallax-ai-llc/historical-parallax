@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/cobra-matata.md`. All frontmatter values are preserved as-is, body text is fully translated, and Markdown formatting/URLs are unchanged.

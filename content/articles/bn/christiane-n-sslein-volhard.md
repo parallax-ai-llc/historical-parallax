@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/christiane-n-sslein-volhard.md`.

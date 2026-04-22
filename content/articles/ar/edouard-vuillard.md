@@ -1,0 +1,1 @@
+Created the Arabic translation at `content/articles/ar/edouard-vuillard.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, paragraphs, table cells) has been translated into Arabic.

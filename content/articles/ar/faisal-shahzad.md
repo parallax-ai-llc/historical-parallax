@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/faisal-shahzad.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (like VBIED) are preserved as-is, with all body text translated into Arabic.

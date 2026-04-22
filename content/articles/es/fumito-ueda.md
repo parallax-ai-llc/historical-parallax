@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/fumito-ueda.md`. Frontmatter values, URLs, Markdown formatting, and game titles are all preserved as-is.

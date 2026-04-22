@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/edward-colston.md`. All YAML frontmatter values, Markdown formatting, URLs, and footnote references are preserved unchanged.

@@ -1,0 +1,1 @@
+Created `content/articles/zh/erna-schneider-hoover.md` with the Simplified Chinese translation. YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting is intact.

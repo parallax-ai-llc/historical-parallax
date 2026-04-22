@@ -1,0 +1,1 @@
+Created `content/articles/pt/fleetwood-mac.md` with the full Brazilian Portuguese translation. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (song titles, album names, people names) are preserved as-is.

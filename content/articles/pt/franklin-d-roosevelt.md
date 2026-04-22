@@ -1,0 +1,1 @@
+Translated article written to `content/articles/pt/franklin-d-roosevelt.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved; all body text is in Brazilian Portuguese.

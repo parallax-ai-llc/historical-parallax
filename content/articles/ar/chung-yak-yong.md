@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/chung-yak-yong.md`. YAML frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

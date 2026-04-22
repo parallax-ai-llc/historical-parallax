@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dilraba-dilmurat.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Arabic.

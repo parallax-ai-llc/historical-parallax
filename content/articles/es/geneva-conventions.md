@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/geneva-conventions.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated.

@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/ru/elizabeth-b-thory.md`.

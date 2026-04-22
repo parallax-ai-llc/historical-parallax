@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/bronislaw-malinowski.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

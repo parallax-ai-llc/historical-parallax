@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/daewoo-accounting-fraud.md`. The YAML frontmatter is preserved unchanged, all body text is translated into Russian, and Markdown formatting and URLs are kept intact.

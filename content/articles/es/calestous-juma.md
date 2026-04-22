@@ -1,0 +1,1 @@
+The Spanish translation has been created at `content/articles/es/calestous-juma.md`. Frontmatter, URLs, book titles, and Markdown formatting were preserved as-is.

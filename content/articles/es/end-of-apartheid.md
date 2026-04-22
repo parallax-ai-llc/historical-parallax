@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/end-of-apartheid.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Spanish.

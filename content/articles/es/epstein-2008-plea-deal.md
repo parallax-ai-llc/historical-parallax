@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/epstein-2008-plea-deal.md`. The YAML frontmatter was preserved as-is, all body text was translated, and Markdown formatting and URLs were kept unchanged.

@@ -1,0 +1,1 @@
+Created `content/articles/ru/emilio-segre.md` with the Russian translation, matching the existing style (section headers: Краткая биография, Хронология карьеры, Источники; table headers: Год, Событие). Frontmatter kept as-is.

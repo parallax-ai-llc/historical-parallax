@@ -1,0 +1,1 @@
+Done. The Brazilian Portuguese translation has been saved to `content/articles/pt/shigenobu-fusako.md`.

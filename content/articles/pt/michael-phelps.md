@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/michael-phelps.md`. All body text (headings, paragraphs, table cells, list items, quotes) is translated to Brazilian Portuguese, while the YAML frontmatter, URLs, Markdown formatting, and references are preserved as-is.

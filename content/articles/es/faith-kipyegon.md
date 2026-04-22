@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/faith-kipyegon.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items) has been translated into Spanish.

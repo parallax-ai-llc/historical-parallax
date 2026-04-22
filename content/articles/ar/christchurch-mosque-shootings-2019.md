@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/christchurch-mosque-shootings-2019.md`. The YAML frontmatter, Markdown formatting, URLs, and dates are all preserved as-is, with only the body text translated into Arabic.

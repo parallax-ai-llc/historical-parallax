@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/georg-cantor.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/clop-ransomware-group.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (MOVEit, RaaS, Clop) are preserved as-is.

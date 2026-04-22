@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/dietrich-bonhoeffer.md`. The YAML frontmatter was kept unchanged, all body text was translated, and Markdown formatting and URLs were preserved.

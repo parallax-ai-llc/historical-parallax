@@ -1,0 +1,1 @@
+Translated file written to `content/articles/zh/enriqueta-mart.md`. YAML frontmatter kept unchanged; all body text translated to Simplified Chinese.

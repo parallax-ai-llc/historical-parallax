@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/battle-of-vienna-1683.md`.

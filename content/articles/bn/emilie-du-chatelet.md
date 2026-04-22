@@ -1,0 +1,1 @@
+Created `content/articles/bn/emilie-du-chatelet.md` with the Bengali translation.

@@ -1,0 +1,1 @@
+Done. The French translation has been saved to `content/articles/fr/giovanni-cassini.md`.

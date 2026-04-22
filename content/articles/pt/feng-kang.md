@@ -1,0 +1,1 @@
+Created `content/articles/pt/feng-kang.md` with the Brazilian Portuguese translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

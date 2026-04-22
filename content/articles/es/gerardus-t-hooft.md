@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/gerardus-t-hooft.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

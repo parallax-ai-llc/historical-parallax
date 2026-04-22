@@ -1,10 +1,10 @@
 ---
 id: "belisarius"
-name: "Belisarius"
+name: "Belisário"
 birth: "505-01-01"
 death: "565-03-01"
 nationality: "Byzantine Empire"
-occupation: ["Military General", "Commander", "Strategist"]
+occupation: ["Military General","Commander","Strategist"]
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Meister_von_San_Vitale_in_Ravenna_004.jpg/800px-Meister_von_San_Vitale_in_Ravenna_004.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Belisarius"

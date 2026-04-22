@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/brink-s-mat-robbery.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

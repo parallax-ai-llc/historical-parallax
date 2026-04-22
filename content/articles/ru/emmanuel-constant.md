@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/emmanuel-constant.md`. YAML frontmatter, URLs, Markdown formatting, and technical terms (FRAPH) are preserved as-is.

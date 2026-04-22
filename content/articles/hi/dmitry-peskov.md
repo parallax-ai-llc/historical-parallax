@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/dmitry-peskov.md`. YAML frontmatter kept as-is, all body text translated, and Markdown formatting/URLs preserved.

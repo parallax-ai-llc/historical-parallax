@@ -1,0 +1,1 @@
+Done. The Brazilian Portuguese translation has been written to `content/articles/pt/george-weah.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved exactly as-is, while all body text (including the Korean supplementary notes) was translated into Portuguese.

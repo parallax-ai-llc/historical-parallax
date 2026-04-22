@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/chung-un-chan.md`.

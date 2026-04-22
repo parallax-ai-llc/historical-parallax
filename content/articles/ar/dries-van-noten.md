@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/dries-van-noten.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as the original, with all body text translated into Arabic.

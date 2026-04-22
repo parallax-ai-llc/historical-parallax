@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/deft.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (LCK, LPL, AD carry, MVP, etc.) are preserved as-is, while all body text has been translated into Bengali.

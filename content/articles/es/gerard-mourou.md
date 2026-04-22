@@ -1,0 +1,1 @@
+Created `content/articles/es/gerard-mourou.md` with the Spanish translation. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Spanish.

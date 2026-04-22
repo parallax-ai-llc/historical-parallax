@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/choi-min-ho.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references are preserved as-is.

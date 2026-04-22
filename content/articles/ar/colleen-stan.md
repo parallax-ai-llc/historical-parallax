@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/colleen-stan.md`. All YAML frontmatter, URLs, Markdown formatting, and proper names are preserved as-is, with only the body text translated.

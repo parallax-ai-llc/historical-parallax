@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/eric-clapton.md`. The YAML frontmatter, URLs, Markdown formatting, and all proper nouns (band names, album titles, song titles) are preserved as-is, with all body text translated into Arabic.

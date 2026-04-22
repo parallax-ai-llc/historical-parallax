@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/filippo-brunelleschi.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

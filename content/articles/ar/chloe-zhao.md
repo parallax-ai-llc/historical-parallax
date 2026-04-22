@@ -1,0 +1,3 @@
+The file `content/articles/chloe-zhao.md` only contains the placeholder text "Article written to `content/articles/chloe-zhao.md`." — there's no actual article content (no YAML frontmatter, no headings, no body text) to translate.
+
+Could you provide the actual article content for Chloé Zhao, or point me to where the full article exists? I need the real Markdown with frontmatter and body text to produce the Arabic translation.

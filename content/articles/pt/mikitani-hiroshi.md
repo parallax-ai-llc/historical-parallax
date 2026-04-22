@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/mikitani-hiroshi.md`.

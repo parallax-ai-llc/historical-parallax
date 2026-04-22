@@ -1,0 +1,1 @@
+Done. The translated file has been created at `content/articles/pt/annika-s-renstam.md`.

@@ -1,0 +1,1 @@
+Created `content/articles/zh/gene-kelly.md` with the Simplified Chinese translation. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is.

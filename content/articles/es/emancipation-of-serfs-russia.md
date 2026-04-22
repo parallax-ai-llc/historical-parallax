@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/emancipation-of-serfs-russia.md`. Frontmatter, URLs, and markdown formatting are preserved as-is.

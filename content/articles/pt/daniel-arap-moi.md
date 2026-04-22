@@ -1,0 +1,1 @@
+Created the translated file at `content/articles/pt/daniel-arap-moi.md`.

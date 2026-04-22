@@ -1,0 +1,1 @@
+Created the Spanish translation at `content/articles/es/enver-had-ihasanovi.md`. The frontmatter is preserved exactly as-is, and all body text has been translated to Spanish while keeping Markdown formatting and URLs unchanged.

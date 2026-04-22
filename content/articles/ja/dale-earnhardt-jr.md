@@ -1,0 +1,1 @@
+The Japanese translation has been written to `content/articles/ja/dale-earnhardt-jr.md`. All body text (headings, paragraphs, table cells, list items) has been translated while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/chung-ju-yung.md`.

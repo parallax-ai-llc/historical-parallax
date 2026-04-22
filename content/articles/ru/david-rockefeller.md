@@ -1,0 +1,1 @@
+Created `content/articles/ru/david-rockefeller.md` with the Russian translation.

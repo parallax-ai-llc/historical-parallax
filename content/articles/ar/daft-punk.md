@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/daft-punk.md`. All YAML frontmatter, URLs, Markdown formatting, and album/song titles were preserved as-is, while all body text was translated into Arabic.

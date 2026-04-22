@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/denis-parsons-burkitt.md`. The YAML frontmatter is preserved as-is, all body text is translated into Bengali, and Markdown formatting and URLs are kept unchanged.

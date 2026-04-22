@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/fran-ois-englert.md`. The YAML frontmatter was preserved as-is, and all body text (headings, summary, table contents, references label) was translated to Portuguese.

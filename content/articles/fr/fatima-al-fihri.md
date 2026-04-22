@@ -1,0 +1,1 @@
+Created `content/articles/fr/fatima-al-fihri.md` with the French translation. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

@@ -1,0 +1,1 @@
+Translation saved to `content/articles/zh/eric-harris.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is; all body text has been translated into Simplified Chinese.

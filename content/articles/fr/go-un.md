@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/go-un.md`. The YAML frontmatter, URLs, Markdown formatting, and work titles were preserved as-is.

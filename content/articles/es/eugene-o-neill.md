@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/eugene-o-neill.md`. The frontmatter is preserved exactly as-is, and all body text (headings, table cells, paragraphs) has been translated into Spanish.

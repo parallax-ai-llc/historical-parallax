@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/credonia-mwerinde.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as provided, with all body text translated into Hindi.

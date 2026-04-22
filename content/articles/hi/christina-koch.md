@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/christina-koch.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Hindi.

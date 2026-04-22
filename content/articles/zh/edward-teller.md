@@ -1,0 +1,1 @@
+Translated article written to `content/articles/zh/edward-teller.md`.

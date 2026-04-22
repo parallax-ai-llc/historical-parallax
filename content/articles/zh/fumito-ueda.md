@@ -1,0 +1,1 @@
+Translation saved to `content/articles/zh/fumito-ueda.md`. The YAML frontmatter is preserved unchanged, all body text is translated to Simplified Chinese, and proper nouns like game titles use their established Chinese localizations (《ICO》, 《旺达与巨像》, 《最后的守护者》, 《黑暗之魂》). Markdown formatting, URLs, and technical terms (HUD, AI, genDESIGN) are kept as-is.

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/frank-ocean.md`. The YAML frontmatter, URLs, markdown formatting, and album/mixtape titles were preserved as-is, while all body text was translated into Russian.

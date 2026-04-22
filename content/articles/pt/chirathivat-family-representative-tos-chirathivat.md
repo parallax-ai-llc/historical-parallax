@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/chirathivat-family-representative-tos-chirathivat.md`.

@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/evander-holyfield.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved unchanged.

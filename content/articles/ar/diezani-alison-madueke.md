@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/diezani-alison-madueke.md`. All YAML frontmatter, URLs, and Markdown formatting preserved as-is.

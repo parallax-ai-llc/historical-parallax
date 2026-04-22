@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/george-best.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, while all body text (including the Korean supplementary notes) was translated into French.

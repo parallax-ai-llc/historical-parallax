@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/pt/sarita-devi.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Brazilian Portuguese.

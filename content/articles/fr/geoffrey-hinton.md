@@ -1,0 +1,1 @@
+Done. The French translation has been written to `content/articles/fr/geoffrey-hinton.md`.

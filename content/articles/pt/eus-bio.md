@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/eusebio.md`. All body text is in Brazilian Portuguese, while the YAML frontmatter, Markdown formatting, and URLs remain unchanged.

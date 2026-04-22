@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/construction-of-the-pyramids-of-giza.md`.

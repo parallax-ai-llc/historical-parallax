@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/d-day-normandy.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (MG42, LCVP, DD tanks, OKW, FUSAG, etc.) are preserved as-is.

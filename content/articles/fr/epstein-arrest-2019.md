@@ -1,0 +1,1 @@
+Created `content/articles/fr/epstein-arrest-2019.md` with the full French translation. The YAML frontmatter, Markdown formatting, URLs, and reference titles are preserved as-is.

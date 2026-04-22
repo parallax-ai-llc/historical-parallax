@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/critias.md`. The YAML frontmatter is preserved as-is, all body text is translated into Russian, and Markdown formatting/URLs are unchanged.

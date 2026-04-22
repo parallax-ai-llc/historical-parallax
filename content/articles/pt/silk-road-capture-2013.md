@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/silk-road-capture-2013.md`. All body text is in Brazilian Portuguese while the YAML frontmatter values, URLs, Markdown formatting, and proper nouns are preserved as-is.

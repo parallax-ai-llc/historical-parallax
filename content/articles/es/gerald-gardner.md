@@ -1,0 +1,1 @@
+The file only contains a placeholder. There's no actual article content to translate. Could you provide the Gerald Gardner article content, or would you like me to check a different file path?

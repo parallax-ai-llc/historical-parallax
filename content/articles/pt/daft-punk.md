@@ -1,0 +1,3 @@
+The file only contains the placeholder text "Article written to `content/articles/daft-punk.md`." — it doesn't have actual article content to translate. 
+
+Could you provide the actual Markdown article content for Daft Punk that you'd like me to translate into Brazilian Portuguese? The file at `content/articles/daft-punk.md` only contains a single line referencing itself rather than an actual article.

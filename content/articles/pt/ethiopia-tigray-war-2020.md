@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/ethiopia-tigray-war-2020.md`. The YAML frontmatter, URLs, Markdown formatting, and references were kept unchanged, while all body text was translated to Brazilian Portuguese.

@@ -1,0 +1,1 @@
+The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/chen-duxiu.md`. The YAML frontmatter, URLs, Markdown formatting, and references were all preserved unchanged.

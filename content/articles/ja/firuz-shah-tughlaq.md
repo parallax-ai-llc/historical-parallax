@@ -1,0 +1,1 @@
+Done. The Japanese translation has been saved to `content/articles/ja/firuz-shah-tughlaq.md`. YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

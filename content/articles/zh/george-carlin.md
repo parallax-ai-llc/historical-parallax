@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/zh/george-carlin.md`. All body text (headings, paragraphs, table cells) is translated into Simplified Chinese, while the YAML frontmatter values, URLs, and Markdown formatting are preserved exactly as-is.

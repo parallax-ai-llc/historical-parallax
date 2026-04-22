@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/diana-ross.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs are unchanged, and song titles were kept in their original English.

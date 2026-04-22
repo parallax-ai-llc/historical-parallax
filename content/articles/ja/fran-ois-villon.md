@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/fran-ois-villon.md`. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

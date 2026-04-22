@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/gi-dae-jin.md`. All body text is translated, YAML frontmatter is preserved as-is, and Markdown formatting remains unchanged.

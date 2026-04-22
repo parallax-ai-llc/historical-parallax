@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/erykah-badu.md`. The YAML frontmatter, Markdown formatting, album names, and URLs are all preserved as-is, with only the body text translated into Arabic.

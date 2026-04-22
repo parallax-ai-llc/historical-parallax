@@ -1,0 +1,1 @@
+Done. The translated Japanese article has been written to `content/articles/ja/fourniret-and-olivier.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved as-is.

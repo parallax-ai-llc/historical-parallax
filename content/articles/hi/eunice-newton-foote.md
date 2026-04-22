@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/eunice-newton-foote.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (CO2, AAAS) are preserved as-is.

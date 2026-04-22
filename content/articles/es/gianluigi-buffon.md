@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/gianluigi-buffon.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are unchanged, and all body text has been translated into Spanish.

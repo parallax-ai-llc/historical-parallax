@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/cornelius.md`. Frontmatter, URLs, formatting, and album titles are preserved as-is.

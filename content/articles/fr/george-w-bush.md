@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/george-w-bush.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting is intact.

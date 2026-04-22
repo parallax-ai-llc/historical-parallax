@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/florence-pugh.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with all body text translated into natural Japanese.

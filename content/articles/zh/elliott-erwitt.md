@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/elliott-erwitt.md`. All body text (headings, paragraphs, table cells) is translated to Simplified Chinese while the YAML frontmatter values, Markdown formatting, and URLs are preserved unchanged.

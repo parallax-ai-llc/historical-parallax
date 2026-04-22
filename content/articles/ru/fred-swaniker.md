@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/fred-swaniker.md`. The YAML frontmatter, Markdown formatting, URLs, and organization names were preserved as-is, while all body text was translated into Russian.

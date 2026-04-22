@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/elaine-thompson-herah.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs are unchanged.

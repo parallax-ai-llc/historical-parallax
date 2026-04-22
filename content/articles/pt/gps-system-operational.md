@@ -1,0 +1,1 @@
+Done. Created `content/articles/pt/gps-system-operational.md` with the Brazilian Portuguese translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

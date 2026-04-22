@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/deft.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns (team names, game terms like "AD carry", "LCK", "LPL", etc.) were preserved as-is.

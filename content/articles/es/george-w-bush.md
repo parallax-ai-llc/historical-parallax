@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/george-w-bush.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Spanish.

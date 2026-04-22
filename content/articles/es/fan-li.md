@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/fan-li.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is, with all body text translated into Spanish.

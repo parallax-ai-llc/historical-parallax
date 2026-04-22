@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/federico-garcia-lorca.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

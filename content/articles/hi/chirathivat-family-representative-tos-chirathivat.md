@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/chirathivat-family-representative-tos-chirathivat.md`.

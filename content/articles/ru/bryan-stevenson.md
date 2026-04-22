@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/bryan-stevenson.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Russian.

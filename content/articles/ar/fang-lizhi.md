@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/fang-lizhi.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Arabic.

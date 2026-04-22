@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/elijah-mccoy.md`. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

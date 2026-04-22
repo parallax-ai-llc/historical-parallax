@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/dennis-nilsen.md`. The YAML frontmatter, Markdown formatting, URLs, and references are preserved exactly as-is, with all body text translated into Spanish.

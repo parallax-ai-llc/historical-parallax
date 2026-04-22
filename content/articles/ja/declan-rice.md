@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/declan-rice.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

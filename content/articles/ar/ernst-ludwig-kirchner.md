@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/ernst-ludwig-kirchner.md`. Frontmatter kept intact, all body text translated, and Markdown formatting preserved.

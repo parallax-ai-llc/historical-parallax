@@ -1,0 +1,1 @@
+Created `content/articles/bn/ernst-abbe.md` with the Bengali translation. The YAML frontmatter is preserved as-is, all body text (headings, summary, table cells, references label) is translated to বাংলা, and Markdown formatting/URLs are unchanged.

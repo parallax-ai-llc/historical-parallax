@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/francisco-mac-as-nguema.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is; only the body text has been translated.

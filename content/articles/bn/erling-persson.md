@@ -1,0 +1,1 @@
+Created `content/articles/bn/erling-persson.md` with the Bengali translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into বাংলা.

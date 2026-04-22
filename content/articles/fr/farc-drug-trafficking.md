@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/farc-drug-trafficking.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

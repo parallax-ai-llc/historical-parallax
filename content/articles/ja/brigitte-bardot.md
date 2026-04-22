@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/brigitte-bardot.md`. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

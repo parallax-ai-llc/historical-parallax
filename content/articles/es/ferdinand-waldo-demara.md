@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/ferdinand-waldo-demara.md` with the YAML frontmatter preserved exactly as-is and all body text translated.

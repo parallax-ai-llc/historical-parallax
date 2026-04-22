@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/choi-in-hee.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, while all body text has been translated into Bengali.

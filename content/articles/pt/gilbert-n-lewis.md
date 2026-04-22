@@ -1,0 +1,1 @@
+Translated file created at `content/articles/pt/gilbert-n-lewis.md`. The YAML frontmatter was kept unchanged, and all body text (summary, timeline headings, table cells) was translated into Brazilian Portuguese.

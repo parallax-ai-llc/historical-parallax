@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/enrico-de-pedis.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved as-is.

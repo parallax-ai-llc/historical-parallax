@@ -1,0 +1,1 @@
+The Arabic translation has been created at `content/articles/ar/cuthbert-nyack.md`. The YAML frontmatter, URLs, Markdown formatting, and proper names are preserved as-is, with all body text translated into Arabic.

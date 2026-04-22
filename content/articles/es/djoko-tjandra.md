@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/djoko-tjandra.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved exactly as-is, with all body text translated into Spanish.

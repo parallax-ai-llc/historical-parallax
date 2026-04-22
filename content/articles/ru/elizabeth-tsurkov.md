@@ -1,0 +1,1 @@
+Done. The translated Russian article has been saved to `content/articles/ru/elizabeth-tsurkov.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

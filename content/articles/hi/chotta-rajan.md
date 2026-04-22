@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/chotta-rajan.md`. YAML frontmatter preserved as-is, all body text translated, and Markdown formatting/URLs kept intact.

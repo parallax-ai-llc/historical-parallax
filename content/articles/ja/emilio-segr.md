@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/emilio-segr.md`. Frontmatter kept as-is, all body text translated, and Markdown formatting/URLs preserved.

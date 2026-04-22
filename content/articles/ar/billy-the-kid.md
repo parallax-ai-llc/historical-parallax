@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/billy-the-kid.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is, with only the body text translated.

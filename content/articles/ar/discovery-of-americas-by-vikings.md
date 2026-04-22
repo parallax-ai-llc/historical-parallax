@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/discovery-of-americas-by-vikings.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+The Bengali translation has been created at `content/articles/bn/beulah-louise-henry.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is, while all body text has been translated into Bengali.

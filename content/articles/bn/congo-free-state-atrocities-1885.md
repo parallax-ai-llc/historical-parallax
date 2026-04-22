@@ -1,0 +1,1 @@
+Written to `content/articles/bn/congo-free-state-atrocities.md`. The YAML frontmatter is preserved as-is, all body text is translated to Bengali, and Markdown formatting/URLs/book titles are kept intact.

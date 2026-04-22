@@ -1,0 +1,1 @@
+Created `content/articles/bn/choi-moon-kyu.md` with the Bengali translation.

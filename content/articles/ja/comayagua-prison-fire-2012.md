@@ -1,0 +1,1 @@
+Japanese translation saved to `content/articles/ja/comayagua-prison-fire-2012.md`.

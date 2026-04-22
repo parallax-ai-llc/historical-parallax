@@ -1,0 +1,1 @@
+Translation saved to `content/articles/pt/damaso-torres-gillo.md`.

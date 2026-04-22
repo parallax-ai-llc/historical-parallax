@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/denis-rader.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (BTK, metadata, floppy disk) are preserved as required.

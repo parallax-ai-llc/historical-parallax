@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/end-of-apartheid.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into Simplified Chinese.

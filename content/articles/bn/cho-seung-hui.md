@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/cho-seung-hui.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs remain unchanged.

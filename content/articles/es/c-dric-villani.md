@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/c-dric-villani.md`. Note: I used "El teorema viviente" as the Spanish title for "Birth of a Theorem," which is the published Spanish edition title.

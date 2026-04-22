@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/pt/daisetz-teitaro-suzuki.md`. Book titles were kept in English as they are proper titles of published works.

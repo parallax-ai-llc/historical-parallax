@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/ghislaine-maxwell.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into natural Brazilian Portuguese.

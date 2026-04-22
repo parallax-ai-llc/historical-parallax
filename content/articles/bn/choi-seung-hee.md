@@ -1,0 +1,1 @@
+Bengali translation created at `content/articles/bn/choi-seung-hee.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, while all body text including headings, table headers, table cells, and section titles have been translated into Bengali.

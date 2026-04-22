@@ -1,0 +1,1 @@
+Done. The Spanish translation has been saved to `content/articles/es/costa-concordia-disaster.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

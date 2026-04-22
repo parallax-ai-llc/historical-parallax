@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/franz-kafka.md`. All body text is translated to Simplified Chinese while keeping the YAML frontmatter values, Markdown formatting, and URLs intact.

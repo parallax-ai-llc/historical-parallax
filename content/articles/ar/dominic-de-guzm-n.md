@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/dominic-de-guzm-n.md`.

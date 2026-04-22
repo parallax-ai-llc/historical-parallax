@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/emanuel-swedenborg.md`. The YAML frontmatter is preserved as-is, all body text is translated into Russian, and Markdown formatting and URLs are kept unchanged.

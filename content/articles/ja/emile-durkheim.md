@@ -1,0 +1,1 @@
+Created `content/articles/ja/emile-durkheim.md` with the full Japanese translation. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

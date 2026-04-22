@@ -1,0 +1,1 @@
+Done. The Japanese translation has been saved to `content/articles/ja/ellen-johnson-sirleaf.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is, with all body text translated into Japanese.

@@ -1,0 +1,1 @@
+Done. The Brazilian Portuguese translation has been written to `content/articles/pt/francisco-ortiz-franco.md`. All YAML frontmatter, Markdown formatting, and URLs were preserved as-is.

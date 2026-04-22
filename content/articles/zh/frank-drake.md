@@ -1,0 +1,1 @@
+Translated article saved to `content/articles/zh/frank-drake.md`.

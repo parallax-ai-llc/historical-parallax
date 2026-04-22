@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/ernst-mach.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is.

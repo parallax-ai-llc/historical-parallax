@@ -1,0 +1,1 @@
+Translated article written to `content/articles/es/farc-drug-trafficking.md`. Frontmatter kept intact, all body text translated to Spanish.

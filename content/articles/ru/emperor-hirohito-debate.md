@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/emperor-hirohito-debate.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Russian.

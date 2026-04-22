@@ -1,0 +1,1 @@
+Japanese translation saved to `content/articles/ja/el-paso-walmart-shooting.md`. YAML frontmatter kept unchanged, all body text translated, and Markdown formatting preserved.

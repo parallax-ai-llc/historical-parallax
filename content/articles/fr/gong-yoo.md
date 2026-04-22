@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/gong-yoo.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into French.

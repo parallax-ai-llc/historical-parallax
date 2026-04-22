@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/zh/fran-ois-jacob.md`.

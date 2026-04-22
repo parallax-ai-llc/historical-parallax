@@ -1,0 +1,1 @@
+Created `content/articles/hi/correggio.md` with the Hindi translation.

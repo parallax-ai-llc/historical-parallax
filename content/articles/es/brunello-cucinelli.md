@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/brunello-cucinelli.md`. All frontmatter values, URLs, and Markdown formatting were preserved as-is.

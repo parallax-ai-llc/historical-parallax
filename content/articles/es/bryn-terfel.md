@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/bryn-terfel.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is, with only the body text translated.

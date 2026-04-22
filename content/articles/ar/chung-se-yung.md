@@ -1,0 +1,1 @@
+The Arabic translation has been saved to `content/articles/ar/chung-se-yung.md`.

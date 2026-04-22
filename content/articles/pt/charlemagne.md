@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/charlemagne.md`. All body text (headings, paragraphs, table cells, quotes, list items) was translated, while the YAML frontmatter values, Markdown formatting, URLs, and reference links were preserved exactly as-is.

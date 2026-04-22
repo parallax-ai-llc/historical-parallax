@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/dawood-john.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact.

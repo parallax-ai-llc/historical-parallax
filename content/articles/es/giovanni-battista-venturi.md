@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/giovanni-battista-venturi.md`.

@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/convict-leasing.md`. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Created the translated file at `content/articles/pt/georges-lema-tre.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated to Brazilian Portuguese.

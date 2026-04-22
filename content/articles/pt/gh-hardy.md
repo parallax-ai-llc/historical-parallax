@@ -1,0 +1,1 @@
+Created `content/articles/pt/gh-hardy.md` with the Brazilian Portuguese translation. The YAML frontmatter, URLs, Markdown formatting, and book/film titles were preserved as-is, while all body text (headings, paragraphs, table headers) was translated.

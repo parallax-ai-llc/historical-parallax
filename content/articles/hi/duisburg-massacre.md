@@ -1,0 +1,1 @@
+Created `content/articles/hi/duisburg-massacre.md` with the Hindi translation. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is.

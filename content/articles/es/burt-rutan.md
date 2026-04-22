@@ -1,0 +1,1 @@
+The Spanish translation has been created at `content/articles/es/burt-rutan.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

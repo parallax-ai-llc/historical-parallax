@@ -1,0 +1,1 @@
+Created `content/articles/bn/clodius-pulcher.md` with the Bengali translation. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Bengali.

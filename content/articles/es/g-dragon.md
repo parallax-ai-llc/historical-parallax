@@ -1,0 +1,1 @@
+Created `content/articles/es/g-dragon.md` with the full Spanish translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is; all body text (headings, paragraphs, list items, table headers) has been translated into Spanish.

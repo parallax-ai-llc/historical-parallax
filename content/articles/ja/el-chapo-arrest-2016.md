@@ -1,0 +1,1 @@
+Japanese translation saved to `content/articles/ja/el-chapo-arrest-2016.md`. All body text has been translated, YAML frontmatter kept as-is, and Markdown formatting preserved.

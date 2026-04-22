@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/don-mccullin.md`. Frontmatter, URLs, Markdown formatting, and proper nouns (book titles, awards, place names) were preserved as-is.

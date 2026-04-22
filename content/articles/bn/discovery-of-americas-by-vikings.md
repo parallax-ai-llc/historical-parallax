@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/discovery-of-americas-by-vikings.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is; all body text (headings, table headers/cells, summary) is translated into Bengali.

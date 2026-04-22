@@ -1,0 +1,1 @@
+Article translated and saved to `content/articles/pt/oklahoma-city-bombing-1995.md`.

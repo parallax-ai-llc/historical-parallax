@@ -1,0 +1,1 @@
+Created the Spanish translation at `content/articles/es/eric-wieschaus.md`. The frontmatter is preserved exactly, and all body text (headings, table headers/cells, summary) has been translated to Spanish.

@@ -1,0 +1,1 @@
+The file only contains the placeholder message — the actual article content hasn't been written yet. Do you have the article content, or should I generate it first? If you have a source file or template I should base it on, please share it.

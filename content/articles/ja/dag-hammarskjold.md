@@ -1,0 +1,1 @@
+Now I understand the format. The `dag-hammarskjold.md` file is a stub with no real article. Would you like me to **generate the full English article first** (in the same format as the other articles), and then translate it to Japanese? Or should I just generate the Japanese version directly?

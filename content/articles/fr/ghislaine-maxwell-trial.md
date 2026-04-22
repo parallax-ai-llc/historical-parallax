@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/fr/ghislaine-maxwell-trial.md`.

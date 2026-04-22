@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/sbf-trial.md`. YAML frontmatter was kept unchanged, all body text translated to Brazilian Portuguese, and Markdown formatting preserved.

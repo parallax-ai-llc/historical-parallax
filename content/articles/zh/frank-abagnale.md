@@ -1,0 +1,1 @@
+Created `content/articles/zh/frank-abagnale.md` with the Simplified Chinese translation. YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting is unchanged.

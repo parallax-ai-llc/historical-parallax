@@ -1,0 +1,1 @@
+Created `content/articles/es/georges-de-la-tour.md` with the Spanish translation. The YAML frontmatter, URLs, and Markdown formatting are preserved unchanged.

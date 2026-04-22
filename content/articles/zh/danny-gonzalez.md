@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/danny-gonzalez.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

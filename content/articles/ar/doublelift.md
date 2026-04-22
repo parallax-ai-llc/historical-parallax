@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/doublelift.md`. All frontmatter values, URLs, Markdown formatting, and proper nouns (team names, game titles) are preserved as-is, with all body text translated into Arabic.

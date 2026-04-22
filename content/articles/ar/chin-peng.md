@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/chin-peng.md`. The YAML frontmatter, Markdown formatting, URLs, and proper nouns are preserved as-is, with all body text translated into Arabic.

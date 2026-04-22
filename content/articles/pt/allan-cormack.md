@@ -1,0 +1,1 @@
+The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/allan-cormack.md`.

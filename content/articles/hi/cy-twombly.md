@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/cy-twombly.md`. The YAML frontmatter, artwork titles (Fifty Days at Iliam, Lepanto), URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/eliezer-berkovits.md`. Frontmatter kept as-is, all body text translated to Russian.

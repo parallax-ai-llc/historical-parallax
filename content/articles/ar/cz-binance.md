@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/cz-binance.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (AML, KYC) are preserved as-is.

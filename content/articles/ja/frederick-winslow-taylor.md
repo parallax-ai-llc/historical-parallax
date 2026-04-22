@@ -1,0 +1,1 @@
+Created `content/articles/ja/frederick-winslow-taylor.md` with the Japanese translation, following the existing article format (概要, 経歴年表, 参考文献 headings, frontmatter kept as-is).

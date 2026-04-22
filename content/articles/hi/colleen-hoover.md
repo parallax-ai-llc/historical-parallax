@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/colleen-hoover.md`. The YAML frontmatter, URLs, book titles, and markdown formatting are preserved as-is, with all body text translated into Hindi.

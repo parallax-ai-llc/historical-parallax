@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/bill-murray.md`. All body text (headings, paragraphs, table headers) is translated to বাংলা, while the YAML frontmatter, Markdown formatting, URLs, and film titles are preserved as-is.

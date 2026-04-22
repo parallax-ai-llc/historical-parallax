@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/francois-villon.md`. All YAML frontmatter values, URLs, Markdown formatting, and French literary titles were preserved as-is.

@@ -1,0 +1,1 @@
+Done. The Simplified Chinese translation has been written to `content/articles/zh/ernest-bai-koroma.md` with the YAML frontmatter preserved exactly as-is and all body text translated.

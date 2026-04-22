@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/elizabeth-bathory.md`. All YAML frontmatter, Markdown formatting, URLs, and references are preserved as-is.

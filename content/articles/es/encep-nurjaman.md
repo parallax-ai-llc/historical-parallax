@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/encep-nurjaman.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

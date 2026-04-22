@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/francesco-schettino.md`. The YAML frontmatter was preserved unchanged, all body text was translated to Brazilian Portuguese, and Markdown formatting and URLs were kept intact.

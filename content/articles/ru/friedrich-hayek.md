@@ -1,0 +1,1 @@
+The Russian translation has been created at `content/articles/ru/friedrich-hayek.md`. All body text (headings, paragraphs, table headers) is translated into Russian, while the YAML frontmatter, Markdown formatting, and URLs remain unchanged.

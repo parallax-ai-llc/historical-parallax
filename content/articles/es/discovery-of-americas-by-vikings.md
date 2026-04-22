@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/discovery-of-americas-by-vikings.md`.

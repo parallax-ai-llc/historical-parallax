@@ -1,0 +1,1 @@
+Created `content/articles/es/gia.md` with the Spanish translation. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

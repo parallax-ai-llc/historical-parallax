@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/falcon-lake-incident-1967.md`. The YAML frontmatter, URLs, Markdown formatting, and book titles in the references are all preserved as-is, while all body text has been translated into Spanish.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dietrich-mateschitz-dup5.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only body text translated.

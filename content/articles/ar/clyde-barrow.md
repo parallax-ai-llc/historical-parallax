@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/clyde-barrow.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references were preserved as-is.

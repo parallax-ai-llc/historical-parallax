@@ -1,0 +1,1 @@
+Translated article written to `content/articles/pt/baba-ladd.md`. The YAML frontmatter, URLs, Markdown formatting, and French terms were preserved as-is, with all body text translated to Brazilian Portuguese.

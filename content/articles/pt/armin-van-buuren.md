@@ -1,0 +1,1 @@
+The file exists but contains only the placeholder text. It seems the article content wasn't actually written to the file. Could you provide the actual Markdown content of the Armin van Buuren article that you'd like me to translate into Brazilian Portuguese?

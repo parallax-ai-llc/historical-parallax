@@ -1,0 +1,1 @@
+Translated file written to `content/articles/zh/brian-eno.md`. YAML frontmatter kept intact, all body text translated to Simplified Chinese, formatting and URLs preserved.

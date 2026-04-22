@@ -1,0 +1,1 @@
+Created `content/articles/es/gerhard-sessler.md` with the Spanish translation. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

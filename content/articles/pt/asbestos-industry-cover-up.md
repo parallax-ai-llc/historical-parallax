@@ -1,0 +1,1 @@
+The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/asbestos-industry-cover-up.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is.

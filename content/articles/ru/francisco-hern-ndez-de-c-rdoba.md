@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/francisco-hern-ndez-de-c-rdoba.md` with YAML frontmatter preserved exactly as-is.

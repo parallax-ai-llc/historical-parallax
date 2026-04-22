@@ -1,0 +1,1 @@
+Russian translation written to `content/articles/ru/chun-doo-hwan-coup.md`.

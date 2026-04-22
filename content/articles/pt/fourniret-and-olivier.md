@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/fourniret-and-olivier.md`. All body text is in Brazilian Portuguese, YAML frontmatter and URLs are preserved as-is, and Markdown formatting is unchanged.

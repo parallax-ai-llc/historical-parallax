@@ -1,0 +1,1 @@
+Done. The Arabic translation has been saved to `content/articles/ar/completion-of-human-genome-project.md`.

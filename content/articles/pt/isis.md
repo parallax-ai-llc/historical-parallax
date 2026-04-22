@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/isis.md`. All body text is in Brazilian Portuguese, YAML frontmatter is unchanged, and Markdown formatting and URLs are preserved.

@@ -1,0 +1,1 @@
+Created `content/articles/ru/efim-zelmanov.md` with the Russian translation. The YAML frontmatter is preserved exactly, and all body text has been translated.

@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/charles-schwab.md`. YAML frontmatter is preserved unchanged, all body text is translated to বাংলা, and Markdown formatting/URLs are intact.

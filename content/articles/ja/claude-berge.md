@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/claude-berge.md`.

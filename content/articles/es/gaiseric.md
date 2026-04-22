@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/gaiseric.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved unchanged.

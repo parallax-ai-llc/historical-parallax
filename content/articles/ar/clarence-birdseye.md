@@ -1,0 +1,1 @@
+Created the Arabic translation at `content/articles/ar/clarence-birdseye.md`.

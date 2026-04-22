@@ -1,0 +1,1 @@
+Created `content/articles/es/fe-del-mundo.md` with the Spanish translation. Frontmatter kept intact, all body text translated.

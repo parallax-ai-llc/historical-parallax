@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/billy-joel.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns (album titles, song titles, venue names) were preserved as-is, while all body text was translated into Arabic.

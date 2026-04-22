@@ -1,0 +1,1 @@
+File written to `content/articles/zh/genrikh-yagoda.md`. The YAML frontmatter is preserved as-is, all body text (including the Korean supplementary notes section) has been translated into Simplified Chinese, and Markdown formatting/URLs are unchanged.

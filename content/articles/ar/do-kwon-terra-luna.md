@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/do-kwon.md`. All body text is translated, YAML frontmatter is preserved as-is, and Markdown formatting/URLs are unchanged.

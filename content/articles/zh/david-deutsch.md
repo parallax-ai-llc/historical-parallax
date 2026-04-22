@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/zh/david-deutsch.md`.

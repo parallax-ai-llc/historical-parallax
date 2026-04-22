@@ -1,0 +1,1 @@
+Japanese translation has been written to `content/articles/ja/cm-punk.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into natural Japanese.

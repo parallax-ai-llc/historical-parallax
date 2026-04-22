@@ -1,0 +1,1 @@
+Done. The translated Simplified Chinese article has been written to `content/articles/zh/eric-yuan.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

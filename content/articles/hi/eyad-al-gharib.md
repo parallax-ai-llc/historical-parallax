@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/eyad-al-gharib.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into Hindi.

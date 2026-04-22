@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/friedrich-nietzsche.md`. The frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Japanese.

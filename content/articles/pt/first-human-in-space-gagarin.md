@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/first-human-in-space-gagarin.md`.

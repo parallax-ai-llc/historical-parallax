@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/fatmir-limaj.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (Llapushnik/Lapushnik, ICTY→TPIY, KLA→ELK) were all handled appropriately.

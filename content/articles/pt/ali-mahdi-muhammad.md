@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/pt/ali-mahdi-muhammad.md` with all YAML frontmatter preserved as-is and all body text translated to Brazilian Portuguese.

@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/gilberto-aparecido-dos-santos.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, with all body text translated into Brazilian Portuguese.

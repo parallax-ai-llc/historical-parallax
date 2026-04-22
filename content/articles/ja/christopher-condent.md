@@ -1,0 +1,1 @@
+Japanese translation saved to `content/articles/ja/christopher-condent.md`.

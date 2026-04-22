@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/enzo-ferrari.md`.

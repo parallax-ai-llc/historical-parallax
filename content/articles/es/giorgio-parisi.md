@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/giorgio-parisi.md`, following the same style conventions as other Spanish articles in the project (e.g., "Resumen", "Cronología profesional", "Acontecimiento", guillemets «» for quoted titles).

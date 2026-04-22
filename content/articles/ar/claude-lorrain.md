@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/claude-lorrain.md`. The YAML frontmatter, URLs, Markdown formatting, and the Latin title *Liber Veritatis* were kept as-is.

@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/frederick-lugard.md`. All body text (headings, paragraphs, table cells, list items) has been translated, while the YAML frontmatter values, URLs, Markdown formatting, and footnote references are preserved unchanged.

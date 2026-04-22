@@ -1,0 +1,1 @@
+Created the Spanish translation at `content/articles/es/fazlur-rahman-khan.md`. Frontmatter kept intact, all body text translated to Spanish.

@@ -1,0 +1,1 @@
+Done. The Bengali translation has been written to `content/articles/bn/construction-of-the-pyramids-of-giza.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

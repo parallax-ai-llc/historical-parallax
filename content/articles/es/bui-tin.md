@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/bui-tin.md`. All YAML frontmatter values, URLs, Markdown formatting, and the book title (kept in English as it's the published title) were preserved.

@@ -1,0 +1,1 @@
+The file exists but only contains that placeholder line. Could you share the actual article content you'd like translated? It seems the article text wasn't written to the file yet.

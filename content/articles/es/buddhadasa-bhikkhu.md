@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/buddhadasa-bhikkhu.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

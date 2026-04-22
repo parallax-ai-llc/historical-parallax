@@ -1,0 +1,1 @@
+Done. The Japanese translation has been written to `content/articles/ja/francisco-ortiz-franco.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

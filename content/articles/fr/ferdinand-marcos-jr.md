@@ -1,0 +1,1 @@
+Created `content/articles/fr/ferdinand-marcos-jr.md` with the French translation. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

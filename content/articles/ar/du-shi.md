@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/du-shi.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table cells, and list items) has been translated into Arabic.

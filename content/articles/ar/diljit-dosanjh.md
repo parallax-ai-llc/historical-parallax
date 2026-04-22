@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/diljit-dosanjh.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are kept unchanged.

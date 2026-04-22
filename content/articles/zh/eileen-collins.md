@@ -1,0 +1,1 @@
+Translated file created at `content/articles/zh/eileen-collins.md`.

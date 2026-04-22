@@ -1,0 +1,1 @@
+Created `content/articles/pt/sergio-cabral.md` with the Brazilian Portuguese translation. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

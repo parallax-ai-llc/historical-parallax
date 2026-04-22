@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/chris-hemsworth.md`. The YAML frontmatter, URLs, Markdown formatting, and all proper nouns are preserved as-is, with all body text translated into Hindi.

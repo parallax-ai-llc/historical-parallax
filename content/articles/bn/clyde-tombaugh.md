@@ -1,0 +1,1 @@
+Created `content/articles/bn/clyde-tombaugh.md` with the Bengali translation.

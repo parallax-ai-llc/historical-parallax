@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/dan-harmon.md`. The YAML frontmatter is preserved unchanged, all body text (headings, paragraphs, list items, table cells) is translated into Hindi, and Markdown formatting and URLs are kept intact.

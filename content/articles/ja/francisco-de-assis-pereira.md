@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/francisco-de-assis-pereira.md`. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

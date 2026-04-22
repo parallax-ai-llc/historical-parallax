@@ -1,0 +1,1 @@
+The Arabic translation has been created at `content/articles/ar/cobra-matata.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

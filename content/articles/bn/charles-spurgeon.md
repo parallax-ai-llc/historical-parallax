@@ -1,0 +1,1 @@
+Bengali translation created at `content/articles/bn/charles-spurgeon.md`. The YAML frontmatter is preserved as-is, all body text is translated to Bengali, and Markdown formatting and URLs are kept unchanged.

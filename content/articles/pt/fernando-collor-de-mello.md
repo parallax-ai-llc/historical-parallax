@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/fernando-collor-de-mello.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, with all body text translated into Brazilian Portuguese.

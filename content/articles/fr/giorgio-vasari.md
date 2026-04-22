@@ -1,0 +1,3 @@
+The file has never contained actual article content — it was committed with just that placeholder line. There's no real Giorgio Vasari article to translate.
+
+Could you provide the actual Markdown article content for Giorgio Vasari that you'd like translated into French? The file at `content/articles/giorgio-vasari.md` only contains the placeholder text `Article written to \`content/articles/giorgio-vasari.md\`.` and has never had real content in the git history.

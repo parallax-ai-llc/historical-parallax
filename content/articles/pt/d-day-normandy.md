@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/pt/d-day-normandy.md`. The YAML frontmatter was preserved exactly as-is, all body text was translated to Brazilian Portuguese, and Markdown formatting/URLs remain unchanged.

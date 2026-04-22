@@ -1,0 +1,1 @@
+Russian translation saved to `content/articles/ru/countess-erzs-bet-b-thory.md`.

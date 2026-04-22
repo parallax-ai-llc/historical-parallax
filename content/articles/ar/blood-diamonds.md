@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/blood-diamonds.md`. The YAML frontmatter, Markdown formatting, URLs, and the KPCS abbreviation are all preserved as-is.

@@ -1,0 +1,1 @@
+Created `content/articles/ar/eric-liddell.md` with the Arabic translation. Frontmatter is preserved exactly, all body text is translated, and Markdown formatting/URLs are unchanged.

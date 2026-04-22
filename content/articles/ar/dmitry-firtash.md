@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dmitry-firtash.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Created `content/articles/ja/ferdinand-marcos-jr.md` with the Japanese translation. YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

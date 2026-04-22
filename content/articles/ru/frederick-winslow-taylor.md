@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/frederick-winslow-taylor.md`.

@@ -1,0 +1,1 @@
+Created `content/articles/ru/fritz-strassmann.md` with the full Russian translation. All YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

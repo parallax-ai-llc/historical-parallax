@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/evgeny-kissin.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Hindi.

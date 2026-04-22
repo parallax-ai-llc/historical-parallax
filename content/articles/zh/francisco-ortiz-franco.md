@@ -1,0 +1,1 @@
+Created the Simplified Chinese translation at `content/articles/zh/francisco-ortiz-franco.md`. All body text is translated, YAML frontmatter and URLs are preserved as-is, and Markdown formatting is unchanged.

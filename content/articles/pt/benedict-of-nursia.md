@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/benedict-of-nursia.md`.

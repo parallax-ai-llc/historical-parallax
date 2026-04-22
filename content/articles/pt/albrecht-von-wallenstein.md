@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/albrecht-von-wallenstein.md`. All body text (headings, paragraphs, table cells, list items, quotes) has been translated to Brazilian Portuguese, while the YAML frontmatter, Markdown formatting, URLs, footnote references, and Latin terms were kept unchanged.

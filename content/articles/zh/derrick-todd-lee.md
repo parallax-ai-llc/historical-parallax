@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been written to `content/articles/zh/derrick-todd-lee.md`. The YAML frontmatter is preserved as-is, and all body text has been translated.

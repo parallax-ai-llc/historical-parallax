@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/giovanni-schiaparelli.md`. All body text is translated, YAML frontmatter and URLs are preserved as-is.

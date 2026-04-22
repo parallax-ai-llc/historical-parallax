@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/fouad-belkacem.md`.

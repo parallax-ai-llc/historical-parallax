@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/dor-ngel-vargas.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

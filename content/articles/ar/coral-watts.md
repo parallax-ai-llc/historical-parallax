@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/coral-watts.md`. The YAML frontmatter was kept exactly as-is, all body text was translated, and Markdown formatting was preserved.

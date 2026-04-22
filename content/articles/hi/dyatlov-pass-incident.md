@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/dyatlov-pass-incident.md`. The YAML frontmatter, Markdown formatting, URLs, and references are all preserved as-is, with all body text translated into Hindi.

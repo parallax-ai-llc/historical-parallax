@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/carlos-castano-gil.md`. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

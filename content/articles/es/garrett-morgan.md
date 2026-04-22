@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/garrett-morgan.md` with all frontmatter preserved exactly and all body text translated.

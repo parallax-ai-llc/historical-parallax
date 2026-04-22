@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/darren-osborne.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

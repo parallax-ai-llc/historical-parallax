@@ -1,0 +1,1 @@
+Created `content/articles/ar/esaki-leo.md` with the Arabic translation. The YAML frontmatter is preserved exactly, and all body text (headings, summary, table cells, references label) has been translated into Arabic.

@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/execution-of-louis-xvi.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, while all body text (headings, paragraphs, table cells) has been translated to Spanish.

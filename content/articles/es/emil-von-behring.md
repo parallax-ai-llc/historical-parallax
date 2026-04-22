@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/emil-von-behring.md`.

@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/fall-of-the-qing-dynasty.md`. The YAML frontmatter, Markdown formatting, URLs, and dates are all preserved as-is.

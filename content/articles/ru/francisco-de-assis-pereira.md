@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/francisco-de-assis-pereira.md`. YAML frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

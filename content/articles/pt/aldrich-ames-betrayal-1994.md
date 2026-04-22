@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/aldrich-ames.md`. All body text was translated while the YAML frontmatter, Markdown formatting, URLs, and book titles in the references were preserved as-is.

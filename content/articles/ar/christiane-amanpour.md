@@ -1,0 +1,1 @@
+The Arabic translation has been created at `content/articles/ar/christiane-amanpour.md`. All body text (headings, paragraphs, table cells, list items) has been translated, while the YAML frontmatter values, URLs, and Markdown formatting remain unchanged.

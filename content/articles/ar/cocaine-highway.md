@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/cocaine-highway.md`. All YAML frontmatter, URLs, Markdown formatting, and references are preserved as-is, with only the body text translated into Arabic.

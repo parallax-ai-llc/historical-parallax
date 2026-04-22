@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/drug-sub-trafficking.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical abbreviations (LPVs, GPS) were preserved as-is.

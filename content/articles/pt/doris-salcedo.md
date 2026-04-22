@@ -1,0 +1,1 @@
+Created `content/articles/pt/doris-salcedo.md` with the Brazilian Portuguese translation.

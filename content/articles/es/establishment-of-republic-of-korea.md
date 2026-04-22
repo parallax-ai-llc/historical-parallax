@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/establishment-of-republic-of-korea.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, table cells, paragraphs) was translated into Spanish.

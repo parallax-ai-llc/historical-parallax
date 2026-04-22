@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/choe-si-hyeong.md`. YAML frontmatter kept intact, all body text translated, and Markdown formatting/URLs preserved.

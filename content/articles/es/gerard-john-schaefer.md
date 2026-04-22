@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/gerard-john-schaefer.md`. The YAML frontmatter was preserved as-is, and all body text (headings, paragraphs, table cells, list items, and references) was translated into Spanish.

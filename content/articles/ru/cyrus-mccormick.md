@@ -1,0 +1,1 @@
+Created `content/articles/ru/cyrus-mccormick.md` with the Russian translation. YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting/URLs are intact.

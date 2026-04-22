@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/pt/federico-garcia-lorca.md`.

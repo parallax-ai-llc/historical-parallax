@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/emmanuel-constant.md`. All frontmatter values, URLs, Markdown formatting, and reference links are preserved as-is.

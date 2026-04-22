@@ -1,0 +1,1 @@
+Created `content/articles/ar/esther-duflo.md` with the full Arabic translation. The YAML frontmatter, URLs, Markdown formatting, and technical terms (J-PAL, RCTs, MIT) are preserved as-is.

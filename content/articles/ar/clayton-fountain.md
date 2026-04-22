@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/clayton-fountain.md`. The YAML frontmatter, URLs, Markdown formatting, and references are preserved exactly as-is, with all body text translated into Arabic.

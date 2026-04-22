@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/diane-arbus.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

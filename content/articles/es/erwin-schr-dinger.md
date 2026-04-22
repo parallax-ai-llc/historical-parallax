@@ -1,0 +1,1 @@
+Created the Spanish translation at `content/articles/es/erwin-schr-dinger.md`. Frontmatter kept intact, all body text translated.

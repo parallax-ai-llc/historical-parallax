@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/daniel-abed-khalife.md`. YAML frontmatter kept unchanged, all body text translated, formatting and URLs preserved.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/djemal-pasha.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

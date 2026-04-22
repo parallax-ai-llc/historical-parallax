@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/galileo-trial-1633.md`. YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Spanish.

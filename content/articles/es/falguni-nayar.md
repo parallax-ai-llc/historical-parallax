@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/falguni-nayar.md`. Frontmatter kept intact, all body text translated including headings, table headers/cells, and the summary paragraph.

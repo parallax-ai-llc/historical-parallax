@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/dreyfus-affair-1894.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved exactly as in the original.

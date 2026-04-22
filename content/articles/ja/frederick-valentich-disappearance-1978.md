@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/frederick-valentich-disappearance-1978.md`. Frontmatter, URLs, Markdown formatting, and footnote references are all preserved as-is.

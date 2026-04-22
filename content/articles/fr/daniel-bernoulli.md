@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/daniel-bernoulli.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

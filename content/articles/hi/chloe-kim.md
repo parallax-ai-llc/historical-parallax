@@ -1,0 +1,1 @@
+The Hindi translation has been saved to `content/articles/hi/chloe-kim.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is, with all body text translated into Hindi.

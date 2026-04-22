@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/don-mccullin.md`. All body text is translated, YAML frontmatter and URLs are preserved as-is, and Markdown formatting is maintained.

@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/christine-keeler.md`. YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

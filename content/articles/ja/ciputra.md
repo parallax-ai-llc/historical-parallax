@@ -1,0 +1,1 @@
+Created `content/articles/ja/ciputra.md` with the Japanese translation.

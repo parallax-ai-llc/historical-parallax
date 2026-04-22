@@ -1,0 +1,1 @@
+Created `content/articles/pt/milton-friedman.md` with the full Brazilian Portuguese translation. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

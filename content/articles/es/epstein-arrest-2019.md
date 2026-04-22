@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/epstein-arrest-2019.md`. The YAML frontmatter, Markdown formatting, URLs, and reference titles were preserved as-is, while all body text was translated into Spanish.

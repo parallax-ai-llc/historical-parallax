@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/gerardus-t-hooft.md`. The frontmatter is preserved exactly, all body text is translated, and Markdown formatting/URLs are unchanged.

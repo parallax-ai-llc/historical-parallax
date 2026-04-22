@@ -1,0 +1,1 @@
+Translation complete. The file has been written to `content/articles/zh/emilio-eduardo-massera.md`.

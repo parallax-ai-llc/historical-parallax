@@ -1,0 +1,1 @@
+The Japanese translation has been written to `content/articles/ja/david-beckham.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with all body text translated into natural Japanese.

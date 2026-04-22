@@ -1,0 +1,1 @@
+Created the Simplified Chinese translation at `content/articles/zh/c-dric-villani.md`. The YAML frontmatter is preserved exactly, and all body text (headings, summary, table cells, references label) has been translated into 简体中文.

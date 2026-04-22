@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/evelyn-baring.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms are preserved as-is, with all body text translated into Spanish.

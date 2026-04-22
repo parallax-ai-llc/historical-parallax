@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/buddhadasa-bhikkhu.md`.

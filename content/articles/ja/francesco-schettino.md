@@ -1,0 +1,1 @@
+Done. The translated Japanese article has been written to `content/articles/ja/francesco-schettino.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is.

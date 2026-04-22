@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/cornelius.md`. The YAML frontmatter was preserved as-is, all Markdown formatting and URLs were kept unchanged, and all body text was translated.

@@ -1,0 +1,1 @@
+Created `content/articles/ar/epstein-2008-plea-deal.md` with the full Arabic translation. The YAML frontmatter, Markdown formatting, and all structural elements are preserved exactly as in the original.

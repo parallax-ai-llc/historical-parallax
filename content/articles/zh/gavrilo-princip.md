@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/gavrilo-princip.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is, with all body text translated.

@@ -1,0 +1,1 @@
+Created `content/articles/pt/florence-pugh.md` with the full Brazilian Portuguese translation. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (film titles kept with original names where no established Brazilian release title exists) are all preserved.

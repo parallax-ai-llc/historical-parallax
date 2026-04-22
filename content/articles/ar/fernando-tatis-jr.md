@@ -1,0 +1,1 @@
+The file only contains 59 bytes — it appears the article was never actually written to disk, just a placeholder message. Do you have the article content you'd like me to translate, or should I look elsewhere for it?

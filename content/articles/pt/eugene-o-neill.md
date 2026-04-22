@@ -1,0 +1,1 @@
+Translation written to `content/articles/pt/eugene-o-neill.md`.

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/edward-dyer.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as required.

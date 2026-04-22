@@ -1,0 +1,1 @@
+Done. The Spanish translation has been written to `content/articles/es/daniel-rodriguez.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

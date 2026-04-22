@@ -1,0 +1,1 @@
+Created `content/articles/zh/eugene-wigner.md` with the Simplified Chinese translation. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+Created the Spanish translation at `content/articles/es/dionysius-i-of-syracuse.md`. All body text is translated, frontmatter values and URLs are preserved as-is.

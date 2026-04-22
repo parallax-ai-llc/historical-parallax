@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/georg-ohm.md`. All YAML frontmatter values, URLs, Markdown formatting, and the German book title are preserved as-is, with all body text translated into Simplified Chinese.

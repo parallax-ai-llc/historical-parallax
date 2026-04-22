@@ -1,0 +1,1 @@
+Done. The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/alan-turing-computer-1936.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as-is.

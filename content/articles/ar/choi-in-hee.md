@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/choi-in-hee.md`. All YAML frontmatter values, Markdown formatting, and URLs were preserved as-is.

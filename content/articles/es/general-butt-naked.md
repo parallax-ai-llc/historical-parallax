@@ -1,0 +1,1 @@
+Spanish translation saved to `content/articles/es/general-butt-naked.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as-is, while all body text (including the Korean supplementary notes) was translated into Spanish.

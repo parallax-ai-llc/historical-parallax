@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/gao-chengyong.md`. The YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting is unchanged.

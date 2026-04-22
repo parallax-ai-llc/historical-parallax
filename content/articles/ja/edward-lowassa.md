@@ -1,0 +1,1 @@
+Japanese translation has been written to `content/articles/ja/edward-lowassa.md`. The YAML frontmatter is preserved as-is, and all body text (headings, paragraphs, table cells, list items) has been translated into Japanese.

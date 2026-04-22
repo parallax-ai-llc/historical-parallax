@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/evans-the-kidnapper.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with all body text translated into Spanish.

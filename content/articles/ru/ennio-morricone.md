@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/ennio-morricone.md`. The YAML frontmatter is preserved exactly, and all body text (headings, table cells, references) has been translated into Russian.

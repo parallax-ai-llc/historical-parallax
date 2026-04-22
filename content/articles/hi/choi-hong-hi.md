@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/choi-hong-hi.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (ITF, etc.) are preserved as-is, with all body text translated into Hindi.

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/francisco-garcia-escalero.md`. The YAML frontmatter, Markdown formatting, URLs, and reference sources are preserved exactly as-is, with all body text translated into Russian following the existing translation style in the project.

@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/carlos-acosta.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as required.

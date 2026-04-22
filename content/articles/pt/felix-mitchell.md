@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/felix-mitchell.md` with all frontmatter preserved exactly as-is and all body text translated to Brazilian Portuguese.

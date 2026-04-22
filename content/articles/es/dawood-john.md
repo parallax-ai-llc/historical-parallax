@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/dawood-john.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

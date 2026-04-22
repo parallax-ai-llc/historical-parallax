@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/dreyfus-affair-1894.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, URLs are unchanged, and the French term *"J'Accuse...!"* is kept in its original form since it's a historically recognized title.

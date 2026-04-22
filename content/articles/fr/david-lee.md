@@ -1,0 +1,1 @@
+French translation saved to `content/articles/fr/david-lee.md`. The YAML frontmatter is preserved unchanged, and all body text has been translated into French.

@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/easter-bombings-2019.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is; all body text has been translated into Arabic.

@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/camp-speicher-massacre-2014.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

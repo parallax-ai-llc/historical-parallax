@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/donald-glaser.md`. Frontmatter, formatting, and URLs are preserved as-is.

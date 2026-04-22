@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/claude-lorrain.md`.

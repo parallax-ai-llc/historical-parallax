@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/choi-gyu-ha.md`. YAML frontmatter is preserved exactly as-is, all body text is translated to Bengali, and Markdown formatting/URLs are kept unchanged.

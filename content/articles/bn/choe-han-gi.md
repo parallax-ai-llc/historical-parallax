@@ -1,0 +1,1 @@
+The Bengali translation has been created at `content/articles/bn/choe-han-gi.md`. The YAML frontmatter, Markdown formatting, URLs, and work titles are preserved as-is, while all body text has been translated into Bengali.

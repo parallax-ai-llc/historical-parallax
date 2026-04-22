@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/frank-stronach.md`.

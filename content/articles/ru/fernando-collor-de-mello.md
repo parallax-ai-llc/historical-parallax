@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/fernando-collor-de-mello.md`. The YAML frontmatter is preserved unchanged, all Markdown formatting is intact, and the body text has been fully translated into Russian.

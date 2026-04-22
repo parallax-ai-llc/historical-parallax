@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/carlos-alcaraz.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, table cells, list items, paragraphs) has been translated into French.

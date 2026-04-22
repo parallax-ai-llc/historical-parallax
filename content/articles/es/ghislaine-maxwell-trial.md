@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/ghislaine-maxwell-trial.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is; all body text has been translated.

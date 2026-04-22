@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/farc-drug-trafficking.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (FARC, etc.) are preserved as-is, with all body text translated into Hindi.

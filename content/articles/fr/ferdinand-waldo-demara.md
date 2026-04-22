@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/ferdinand-waldo-demara.md`. YAML frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

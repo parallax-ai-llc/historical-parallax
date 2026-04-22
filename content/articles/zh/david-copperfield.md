@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/david-copperfield.md`. The YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with all body text translated.

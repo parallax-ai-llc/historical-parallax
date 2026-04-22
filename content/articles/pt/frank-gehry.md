@@ -1,0 +1,1 @@
+Created `content/articles/pt/frank-gehry.md` with the Brazilian Portuguese translation. The YAML frontmatter, Markdown formatting, URLs, and proper nouns (building names, institutions, awards) were preserved while all body text was translated.

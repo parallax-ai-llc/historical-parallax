@@ -1,0 +1,1 @@
+Created `content/articles/ar/chung-ju-yung.md` with the Arabic translation. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

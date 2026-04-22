@@ -1,0 +1,1 @@
+The Arabic translation has been created at `content/articles/ar/colleen-stan-kidnapping.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved exactly as-is, with all body text translated into Arabic.

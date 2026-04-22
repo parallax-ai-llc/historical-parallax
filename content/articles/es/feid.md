@@ -1,0 +1,1 @@
+Created `content/articles/es/feid.md` with the full Spanish translation. Frontmatter values, URLs, Markdown formatting, and album/song titles are preserved as-is.

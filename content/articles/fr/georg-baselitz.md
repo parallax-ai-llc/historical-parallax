@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/georg-baselitz.md`. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/felix-vallotton.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with all body text translated into French.

@@ -1,0 +1,1 @@
+The translated Spanish article has been written to `content/articles/es/georges-lema-tre.md`. Frontmatter was kept intact, and all body text (headings, table cells, paragraphs) was translated to Spanish.

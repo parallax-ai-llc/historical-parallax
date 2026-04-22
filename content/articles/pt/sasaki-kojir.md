@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/sasaki-kojir.md`. The YAML frontmatter was preserved as-is, and all body text was translated to Brazilian Portuguese.

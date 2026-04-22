@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/zeno-of-citium.md`. The YAML frontmatter, URLs, references, and Markdown formatting are preserved as-is, with all body text translated to Brazilian Portuguese.

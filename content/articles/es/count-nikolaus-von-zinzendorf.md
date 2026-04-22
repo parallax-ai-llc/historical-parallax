@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/count-nikolaus-von-zinzendorf.md`. Frontmatter kept as-is, all body text translated.

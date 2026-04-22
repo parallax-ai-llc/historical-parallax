@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/ali-yerlikaya.md`. All body text is translated to Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs are unchanged.

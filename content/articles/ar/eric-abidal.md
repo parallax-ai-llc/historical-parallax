@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/eric-abidal.md`. The YAML frontmatter, Markdown formatting, URLs, and technical field names were all preserved as-is, with all body text translated into Arabic.

@@ -1,0 +1,1 @@
+Japanese translation has been written to `content/articles/ja/fraser-stoddart.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (rotaxane, catenane, etc.) are preserved as-is.

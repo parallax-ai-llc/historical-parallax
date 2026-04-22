@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/augustus-de-morgan.md`.

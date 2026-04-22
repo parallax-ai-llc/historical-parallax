@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/david-parker-ray.md`. YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting is unchanged.

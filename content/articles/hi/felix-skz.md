@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/felix-stray-kids.md`. All body text (headings, paragraphs, table headers) has been translated while keeping the YAML frontmatter values, Markdown formatting, and URLs unchanged.

@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/don-lemon.md`. The YAML frontmatter, URLs, Markdown formatting, and program/show names are preserved as-is, with all body text translated into Bengali.

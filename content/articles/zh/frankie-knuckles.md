@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/frankie-knuckles.md`. YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs are unchanged.

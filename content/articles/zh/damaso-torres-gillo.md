@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been created at `content/articles/zh/damaso-torres-gillo.md`. YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

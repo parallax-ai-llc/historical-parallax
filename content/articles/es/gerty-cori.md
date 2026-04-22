@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/gerty-cori.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, paragraphs, table headers/cells) has been translated into Spanish.

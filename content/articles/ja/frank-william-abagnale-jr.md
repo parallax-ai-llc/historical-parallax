@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/frank-william-abagnale-jr.md`. All YAML frontmatter, URLs, and Markdown formatting preserved as-is; all body text translated into Japanese.

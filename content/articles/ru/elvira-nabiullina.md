@@ -1,0 +1,1 @@
+Translated article saved to `content/articles/ru/elvira-nabiullina.md`.

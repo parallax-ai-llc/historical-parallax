@@ -1,0 +1,3 @@
+Both the English and Chinese versions contain placeholder text rather than actual articles. The file at `content/articles/elige.md` doesn't have a real Markdown article with YAML frontmatter — it just contains the description sentence.
+
+Could you provide the actual article content for EliGE? Either paste it here or let me know the correct file path where the full article with YAML frontmatter lives.

@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/federico-garcia-lorca.md`.

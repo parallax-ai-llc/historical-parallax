@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/bill-hicks.md`. The YAML frontmatter, Markdown formatting, URLs, and show/album titles are preserved as-is.

@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/gary-vaynerchuk.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (book titles, company names, platform names) were preserved as-is, with all body text translated into Spanish.

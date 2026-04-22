@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/ashley-graham.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as-is, with all body text translated.

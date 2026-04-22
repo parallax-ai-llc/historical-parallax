@@ -1,0 +1,3 @@
+The file `content/articles/dmitri-muratov.md` only contains a single placeholder line — there's no actual article content to translate. It appears the article was never actually written.
+
+Could you provide the actual Markdown content for the Dmitri Muratov article? Or would you like me to generate the article first (based on the format used by other articles in this project) and then translate it into Hindi?

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/daniel-ellsberg.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

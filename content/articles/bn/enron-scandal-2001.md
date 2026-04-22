@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/enron-scandal-2001.md`. The YAML frontmatter, URLs, Markdown formatting, and technical/proper names are preserved as-is, while all body text has been translated into বাংলা.

@@ -1,0 +1,1 @@
+Created `content/articles/ar/enriqueta-mart.md` with the full Arabic translation. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is.

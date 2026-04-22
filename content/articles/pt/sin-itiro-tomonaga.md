@@ -1,0 +1,1 @@
+Done. The translated article has been created at `content/articles/pt/sin-itiro-tomonaga.md`.

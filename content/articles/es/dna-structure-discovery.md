@@ -1,0 +1,1 @@
+Created `content/articles/es/dna-structure-discovery.md` with the Spanish translation. Frontmatter, URLs, formatting, and references kept intact.

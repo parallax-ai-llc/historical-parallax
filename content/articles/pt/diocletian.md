@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/diocletian.md`. The YAML frontmatter was kept exactly as-is, all body text was translated to Brazilian Portuguese, and all Markdown formatting, URLs, and references were preserved unchanged.

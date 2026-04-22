@@ -1,0 +1,1 @@
+Translated article written to `content/articles/pt/guo-wengui.md`. All body text is in Brazilian Portuguese, YAML frontmatter and URLs are preserved as-is, and Markdown formatting is unchanged.

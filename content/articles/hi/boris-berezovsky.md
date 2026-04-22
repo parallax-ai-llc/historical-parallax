@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/boris-berezovsky.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved exactly as in the original.

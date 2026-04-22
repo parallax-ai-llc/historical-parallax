@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/edward-colston.md`. All YAML frontmatter values, URLs, Markdown formatting, and reference sources were kept unchanged.

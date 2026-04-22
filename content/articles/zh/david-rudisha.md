@@ -1,0 +1,1 @@
+Written to `content/articles/zh/david-rudisha.md`.

@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/fernandinho-beira-mar.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into Brazilian Portuguese.

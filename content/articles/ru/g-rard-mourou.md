@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/g-rard-mourou.md`. The YAML frontmatter is preserved as-is, all body text is translated, and the formatting matches the existing convention used by other Russian articles in the project.

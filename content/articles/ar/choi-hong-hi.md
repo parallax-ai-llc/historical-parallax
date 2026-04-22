@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/choi-hong-hi.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (ITF, kwan, tul) are preserved as-is, with all body text translated into Arabic.

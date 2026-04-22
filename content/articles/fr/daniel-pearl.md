@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/daniel-pearl.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

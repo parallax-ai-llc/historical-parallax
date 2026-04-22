@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/galileo-galilei.md`. The YAML frontmatter is preserved exactly as-is, all body text (headings, paragraphs, table cells, list items, quotes) is translated into French, and all Markdown formatting and URLs are kept unchanged.

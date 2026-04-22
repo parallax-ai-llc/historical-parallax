@@ -1,0 +1,1 @@
+Done. The Spanish translation has been saved to `content/articles/es/construction-of-great-wall-of-china.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

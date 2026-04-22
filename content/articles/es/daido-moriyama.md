@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/daido-moriyama.md`. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

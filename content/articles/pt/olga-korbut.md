@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/olga-korbut.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items) was translated into Brazilian Portuguese.

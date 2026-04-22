@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/columban.md`. The YAML frontmatter is preserved as-is, all body text is translated into Bengali (including Bengali numerals for years), and Markdown formatting and URLs are kept unchanged.

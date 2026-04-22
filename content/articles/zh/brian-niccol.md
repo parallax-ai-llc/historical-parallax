@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/brian-niccol.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is, with only the body text translated.

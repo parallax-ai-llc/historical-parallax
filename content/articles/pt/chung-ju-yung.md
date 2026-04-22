@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/chung-ju-yung.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated.

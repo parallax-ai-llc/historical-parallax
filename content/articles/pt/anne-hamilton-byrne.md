@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/anne-hamilton-byrne.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as required.

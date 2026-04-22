@@ -1,0 +1,1 @@
+Done. The Arabic translation has been saved to `content/articles/ar/chris-watts.md` with YAML frontmatter preserved as-is and all body text translated.

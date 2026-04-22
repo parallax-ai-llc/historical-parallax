@@ -1,0 +1,1 @@
+Translation written to `content/articles/zh/daisuke-ono.md`. All body text is translated to Simplified Chinese while YAML frontmatter values, URLs, and Markdown formatting are preserved unchanged.

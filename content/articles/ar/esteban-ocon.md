@@ -1,0 +1,1 @@
+Created `content/articles/ar/esteban-ocon.md` with the full Arabic translation. The YAML frontmatter is preserved exactly, all Markdown formatting is intact, and all body text has been translated into Arabic.

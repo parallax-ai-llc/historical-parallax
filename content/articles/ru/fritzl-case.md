@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/fritzl-case.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

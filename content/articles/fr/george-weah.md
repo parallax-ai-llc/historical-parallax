@@ -1,0 +1,1 @@
+Created `content/articles/fr/george-weah.md` with the full French translation. The YAML frontmatter is preserved as-is, all body text (including the Korean supplementary notes section) is translated into French, and all Markdown formatting and URLs are unchanged.

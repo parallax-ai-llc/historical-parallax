@@ -1,0 +1,1 @@
+Written to `content/articles/ru/elliot-rodger.md`. The YAML frontmatter is preserved exactly, all body text is translated to Russian, and Markdown formatting/URLs are unchanged.

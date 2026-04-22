@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/canelo-alvarez.md`. All body text (headings, paragraphs, table headers, list items) has been translated while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

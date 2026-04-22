@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/emilio-segr.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms are preserved as-is, with all body text translated into Bengali.

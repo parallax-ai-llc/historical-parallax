@@ -1,0 +1,1 @@
+Translated article saved to `content/articles/pt/masashi-kishimoto.md`. All body text is in Brazilian Portuguese while the YAML frontmatter, Markdown formatting, and URLs remain unchanged.

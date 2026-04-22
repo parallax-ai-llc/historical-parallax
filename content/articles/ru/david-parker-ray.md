@@ -1,0 +1,1 @@
+The article has been translated into Russian and saved to `content/articles/ru/david-parker-ray.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

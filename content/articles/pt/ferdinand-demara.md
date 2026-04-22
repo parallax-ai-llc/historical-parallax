@@ -1,0 +1,1 @@
+Created `content/articles/pt/ferdinand-demara.md` with the Brazilian Portuguese translation. Frontmatter was kept unchanged, all body text translated, and Markdown formatting preserved.

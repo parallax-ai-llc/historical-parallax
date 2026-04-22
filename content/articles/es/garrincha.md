@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/garrincha.md`. The YAML frontmatter was preserved exactly as-is, all body text was translated, and Markdown formatting and URLs were kept unchanged.

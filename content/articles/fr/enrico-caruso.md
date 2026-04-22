@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/enrico-caruso.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into French.

@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/fancy-bear.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (APT28, GRU, DNC, Sofacy, etc.) are preserved as-is, while all body text has been translated into Hindi.

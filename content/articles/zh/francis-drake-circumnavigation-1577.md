@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/francis-drake-circumnavigation-1577.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated into Simplified Chinese, and Markdown formatting/URLs are unchanged.

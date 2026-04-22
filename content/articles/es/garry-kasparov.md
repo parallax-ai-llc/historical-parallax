@@ -1,0 +1,1 @@
+Created `content/articles/es/garry-kasparov.md` with the Spanish translation. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs remain unchanged.

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/consuelo-loera-p-rez.md`. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

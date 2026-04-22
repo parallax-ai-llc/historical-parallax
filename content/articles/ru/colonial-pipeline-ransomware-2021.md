@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/colonial-pipeline-ransomware-2021.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Russian.

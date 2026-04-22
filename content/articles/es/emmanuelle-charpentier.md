@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/emmanuelle-charpentier.md`. Frontmatter, URLs, Markdown formatting, and technical terms (CRISPR-Cas9, tracrRNA, Streptococcus pyogenes) were all preserved as-is.

@@ -1,0 +1,1 @@
+Done. The translated file has been saved to `content/articles/pt/gerald-stano.md` with all YAML frontmatter preserved as-is and all body text translated to Brazilian Portuguese.

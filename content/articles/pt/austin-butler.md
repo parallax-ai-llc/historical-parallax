@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/austin-butler.md`. The YAML frontmatter was kept unchanged, all Markdown formatting and URLs preserved, and all body text translated.

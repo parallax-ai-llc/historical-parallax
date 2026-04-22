@@ -1,0 +1,1 @@
+Hindi translation saved to `content/articles/hi/columbine-shooting.md`. The YAML frontmatter is preserved as-is, all Markdown formatting is intact, and all body text has been translated.

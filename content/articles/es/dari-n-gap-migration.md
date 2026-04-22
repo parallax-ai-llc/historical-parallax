@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/es/dari-n-gap-migration.md` with all frontmatter preserved as-is and all body text translated to Spanish.

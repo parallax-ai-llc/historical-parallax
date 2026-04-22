@@ -1,0 +1,1 @@
+Translation written to `content/articles/pt/gertrude-the-great.md`.

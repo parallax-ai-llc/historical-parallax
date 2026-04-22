@@ -1,0 +1,1 @@
+Bengali translation created at `content/articles/bn/cho-soonsung.md`.

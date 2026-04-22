@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/equifax-data-breach.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (Apache Struts, CVE-2017-5638, Equifax, FTC) were preserved as-is.

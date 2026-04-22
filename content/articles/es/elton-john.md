@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/elton-john.md`.

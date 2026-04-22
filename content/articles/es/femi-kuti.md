@@ -1,0 +1,1 @@
+Created `content/articles/es/femi-kuti.md` with the Spanish translation. Frontmatter, URLs, album titles, proper nouns, and markdown formatting are preserved as-is.

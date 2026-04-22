@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/bob-denard.md`. All YAML frontmatter, URLs, Markdown formatting, and structural elements are preserved as-is, with only the body text translated into Hindi.

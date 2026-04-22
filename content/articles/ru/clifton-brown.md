@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/clifton-brown.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

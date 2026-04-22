@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/brian-kobilka.md`.

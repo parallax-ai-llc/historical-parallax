@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/eustace-the-monk.md`. Frontmatter kept as-is, all body text translated, and Markdown formatting preserved.

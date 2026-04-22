@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/dylan-klebold.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs are unchanged.

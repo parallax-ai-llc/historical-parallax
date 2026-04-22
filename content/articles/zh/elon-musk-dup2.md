@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/zh/elon-musk-dup2.md`. All YAML frontmatter values, URLs, Markdown formatting, and company/product names are preserved as-is, with all body text translated into Simplified Chinese.

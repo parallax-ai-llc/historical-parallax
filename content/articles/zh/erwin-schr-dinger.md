@@ -1,0 +1,1 @@
+Created `content/articles/zh/erwin-schr-dinger.md` with the Simplified Chinese translation. Frontmatter kept intact, all body text translated.

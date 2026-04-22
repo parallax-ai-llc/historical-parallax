@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/el-anatsui.md`.

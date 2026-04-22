@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/chandra-wickramasinghe.md`. Book titles were kept in English as they don't have widely established Portuguese translations.

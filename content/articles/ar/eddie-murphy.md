@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/eddie-murphy.md`. The YAML frontmatter, URLs, film titles, and Markdown formatting are all preserved as-is, with all body text translated into Arabic.

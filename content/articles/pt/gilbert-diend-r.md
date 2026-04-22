@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/pt/gilbert-diend-r.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is; all body text was translated into Brazilian Portuguese.

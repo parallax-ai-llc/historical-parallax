@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dietmar-hopp.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (SAP, CureVac, etc.) were preserved as-is.

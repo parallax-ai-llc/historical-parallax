@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/gopalasamudram-ramachandran.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (like φ/ψ, cryo-EM, NMR) were preserved as-is, while all body text was translated into Brazilian Portuguese.

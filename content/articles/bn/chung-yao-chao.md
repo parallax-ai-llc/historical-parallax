@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/chung-yao-chao.md`. The YAML frontmatter is preserved as-is, and all body text (headings, summary, table cells, references label) has been translated into Bengali.

@@ -1,0 +1,1 @@
+Done. The Russian translation has been saved to `content/articles/ru/brenda-fassie.md`. Frontmatter, URLs, Markdown formatting, and song/album titles are preserved as-is.

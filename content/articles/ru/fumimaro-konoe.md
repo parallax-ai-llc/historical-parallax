@@ -1,0 +1,1 @@
+Created `content/articles/ru/fumimaro-konoe.md` with the Russian translation.

@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/byeongja-horan.md`.

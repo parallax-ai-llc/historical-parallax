@@ -1,0 +1,1 @@
+Created `content/articles/hi/edward-yang.md` with the Hindi translation. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and the body text (headings, paragraphs, table cells) is translated into Hindi following the same conventions as existing Hindi articles in the project.

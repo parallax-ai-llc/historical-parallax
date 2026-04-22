@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been written to `content/articles/zh/brinks-mat-robbery-1983.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into 简体中文.

@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/daniel-rolling.md`. The YAML frontmatter was preserved unchanged, and all body text (headings, paragraphs, table cells, list items, and references) was translated into Spanish.

@@ -1,0 +1,1 @@
+Created `content/articles/ar/eric-lefkofsky.md` with the Arabic translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

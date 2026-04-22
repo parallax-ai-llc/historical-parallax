@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/exxon-valdez-oil-spill.md`. All body text is translated, YAML frontmatter and URLs are preserved as-is.

@@ -1,0 +1,1 @@
+Created `content/articles/pt/butch-cassidy.md` with the Brazilian Portuguese translation. The YAML frontmatter was preserved exactly as-is, and all body text was translated.

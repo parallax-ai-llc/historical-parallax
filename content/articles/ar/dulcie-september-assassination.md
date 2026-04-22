@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dulcie-september-assassination.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved exactly as in the original.

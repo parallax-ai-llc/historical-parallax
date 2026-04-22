@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/clara-barton.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are intact.

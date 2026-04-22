@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/dhyan-chand.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated into Bengali.

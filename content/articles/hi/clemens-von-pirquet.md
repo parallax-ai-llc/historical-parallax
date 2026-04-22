@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/clemens-von-pirquet.md`.

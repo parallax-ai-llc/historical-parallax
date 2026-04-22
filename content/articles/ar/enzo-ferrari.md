@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/enzo-ferrari.md`. The YAML frontmatter is preserved as-is, all body text (headings, paragraphs, table cells) is translated, and Markdown formatting and URLs are unchanged.

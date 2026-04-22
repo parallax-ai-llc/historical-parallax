@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/felix-browder.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact.

@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been saved to `content/articles/pt/du-shi.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/ernest-just.md`.

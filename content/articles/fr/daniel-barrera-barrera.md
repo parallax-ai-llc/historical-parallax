@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/daniel-barrera-barrera.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into French.

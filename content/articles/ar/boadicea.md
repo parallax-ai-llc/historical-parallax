@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/boudica-boadicea.md`. The YAML frontmatter values are preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Arabic.

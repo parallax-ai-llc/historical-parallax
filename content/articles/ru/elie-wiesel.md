@@ -1,0 +1,3 @@
+The file `content/articles/elie-wiesel.md` only contains the placeholder text `"Article written to content/articles/elie-wiesel.md."` — both in the working tree and in git history. There's no actual article content to translate.
+
+Could you provide the full article content for Elie Wiesel, or would you like me to generate the article first (following the format used by other articles in this project) and then translate it to Russian?

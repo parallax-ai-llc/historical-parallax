@@ -1,0 +1,1 @@
+Created `content/articles/ja/francis-kere.md` with the Japanese translation. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

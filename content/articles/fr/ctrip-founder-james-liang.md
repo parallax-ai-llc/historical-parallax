@@ -1,0 +1,1 @@
+French translation created at `content/articles/fr/ctrip-founder-james-liang.md`.

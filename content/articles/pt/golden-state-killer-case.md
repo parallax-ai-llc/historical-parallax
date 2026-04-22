@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/golden-state-killer-case.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Created `content/articles/es/dietrich-mateschitz.md` with the Spanish translation. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Arabic translation saved to `content/articles/ar/chung-yoo-ra.md`. YAML frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

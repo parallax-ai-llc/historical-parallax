@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/jack-kerouac.md`. The YAML frontmatter, URLs, Markdown formatting, book titles, and references were all kept intact, with all body text translated into Brazilian Portuguese.

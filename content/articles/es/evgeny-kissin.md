@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/evgeny-kissin.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved exactly as in the original.

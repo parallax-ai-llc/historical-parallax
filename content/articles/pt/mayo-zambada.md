@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/pt/mayo-zambada.md`. All body text is translated to Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs are unchanged.

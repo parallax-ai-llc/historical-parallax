@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/ida-noddack.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated to Brazilian Portuguese.

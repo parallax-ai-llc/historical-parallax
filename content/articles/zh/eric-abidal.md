@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/eric-abidal.md`. All body text (headings, paragraphs, table cells, list items) is translated to Simplified Chinese, while the YAML frontmatter values, Markdown formatting, URLs, and technical field names (like `birth`, `nationality`, etc.) are preserved as-is.

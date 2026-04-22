@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/pt/felix-konotey-ahulu.md`.

@@ -1,0 +1,1 @@
+Created `content/articles/pt/eugene-wigner.md` with the Brazilian Portuguese translation. Frontmatter kept intact, all body text translated.

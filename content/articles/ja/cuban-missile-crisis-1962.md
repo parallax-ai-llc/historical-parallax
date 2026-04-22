@@ -1,0 +1,1 @@
+Created the Japanese translation at `content/articles/ja/cuban-missile-crisis-1962.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into Japanese.

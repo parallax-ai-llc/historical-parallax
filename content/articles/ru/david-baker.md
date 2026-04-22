@@ -1,0 +1,1 @@
+Created `content/articles/ru/david-baker.md` with the Russian translation. Frontmatter, URLs, Markdown formatting, and technical terms (Rosetta, Rosetta@home, Top7, de novo) are preserved as-is.

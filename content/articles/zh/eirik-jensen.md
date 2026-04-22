@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/eirik-jensen.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/fabio-quartararo.md`. All body text (headings, paragraphs, table cells, list items) has been translated while keeping the YAML frontmatter, Markdown formatting, URLs, and technical terms (MotoGP, Moto2, Moto3, Yamaha M1, etc.) intact.

@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/dastur-noshirwan.md`.

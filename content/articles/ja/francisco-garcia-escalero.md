@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/francisco-garcia-escalero.md`.

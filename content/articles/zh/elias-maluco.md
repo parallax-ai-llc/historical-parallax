@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/elias-maluco.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references are preserved as-is.

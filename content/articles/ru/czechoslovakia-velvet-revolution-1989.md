@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/czechoslovakia-velvet-revolution-1989.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved unchanged, with all body text translated into Russian.

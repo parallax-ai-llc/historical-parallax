@@ -1,0 +1,1 @@
+Bengali translation created at `content/articles/bn/bernie-ebbers.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references are preserved as-is.

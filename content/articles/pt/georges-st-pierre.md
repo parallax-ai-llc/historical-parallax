@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/georges-st-pierre.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved exactly as-is, with all body text translated into Brazilian Portuguese.

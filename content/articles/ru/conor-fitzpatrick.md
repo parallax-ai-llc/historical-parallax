@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/ru/conor-fitzpatrick.md` with all YAML frontmatter preserved unchanged, Markdown formatting intact, and all body text translated into Russian.

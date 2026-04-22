@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/dolores-ibarruri.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns like party abbreviations (PCE) are preserved as-is, while all body text has been translated into বাংলা.

@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/fidel-castro.md`. Frontmatter kept intact, all body text translated, and Markdown formatting preserved.

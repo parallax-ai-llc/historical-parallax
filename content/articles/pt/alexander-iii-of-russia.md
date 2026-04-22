@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/alexander-iii-of-russia.md`. All body text (headings, paragraphs, table cells, list items, quote attributions) is translated to Brazilian Portuguese, while the YAML frontmatter values, Markdown formatting, URLs, and footnote references are preserved unchanged.

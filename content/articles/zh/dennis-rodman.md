@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/dennis-rodman.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated into Simplified Chinese.

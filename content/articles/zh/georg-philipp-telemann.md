@@ -1,0 +1,1 @@
+Created the Simplified Chinese translation at `content/articles/zh/georg-philipp-telemann.md`.

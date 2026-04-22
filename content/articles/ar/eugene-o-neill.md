@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/eugene-o-neill.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

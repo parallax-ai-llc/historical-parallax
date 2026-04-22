@@ -1,0 +1,1 @@
+Created `content/articles/ru/frank-cali.md` with the Russian translation. Frontmatter kept intact, all body text translated, Markdown formatting preserved.

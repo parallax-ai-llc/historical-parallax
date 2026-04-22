@@ -1,0 +1,1 @@
+Created `content/articles/ru/enriqueta-mart.md` with the Russian translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

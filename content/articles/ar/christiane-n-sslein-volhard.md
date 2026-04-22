@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/christiane-n-sslein-volhard.md`. The YAML frontmatter is preserved exactly, all Markdown formatting is intact, and the body text (summary, timeline, references) has been translated into Arabic.

@@ -1,0 +1,1 @@
+French translation saved to `content/articles/fr/do-kwon-trial.md`. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,0 +1,1 @@
+Created `content/articles/pt/db-cooper-hijacking.md` with the Brazilian Portuguese translation. Frontmatter kept as-is, all body text translated.

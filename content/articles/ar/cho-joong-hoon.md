@@ -1,0 +1,1 @@
+Arabic translation created at `content/articles/ar/cho-joong-hoon.md`.

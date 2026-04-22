@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been written to `content/articles/zh/g-i-gurdjieff.md`.

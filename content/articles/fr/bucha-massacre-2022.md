@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/bucha-massacre-2022.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into French.

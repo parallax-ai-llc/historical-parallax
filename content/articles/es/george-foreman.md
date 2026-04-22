@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/george-foreman.md`. Frontmatter, URLs, and Markdown formatting were preserved as-is.

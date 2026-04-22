@@ -1,0 +1,3 @@
+The article at `content/articles/clifford-geertz.md` doesn't contain actual article content — it only has the placeholder text `Article written to \`content/articles/clifford-geertz.md\`.` This was never populated with a real article.
+
+There's no source content to translate. Could you provide the actual Markdown content of the Clifford Geertz article, or would you like me to look at an existing article as a template and generate the article first?

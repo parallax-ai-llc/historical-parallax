@@ -1,0 +1,1 @@
+Created `content/articles/es/cuban-missile-crisis-1962.md` with the full Spanish translation. The YAML frontmatter is preserved exactly as-is, and all body text has been translated including headings, paragraphs, table cells, list items, and the timeline.

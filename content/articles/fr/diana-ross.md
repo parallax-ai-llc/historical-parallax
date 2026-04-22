@@ -1,0 +1,1 @@
+The French translation has been created at `content/articles/fr/diana-ross.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, list items, table headers) has been translated into French.

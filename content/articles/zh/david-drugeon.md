@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/zh/david-drugeon.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with body text translated into Simplified Chinese.

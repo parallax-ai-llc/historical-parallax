@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/dreyfus-affair-1894.md`. The YAML frontmatter was kept unchanged, all body text was translated to Brazilian Portuguese, and Markdown formatting/URLs were preserved.

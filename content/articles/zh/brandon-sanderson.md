@@ -1,0 +1,1 @@
+Created `content/articles/zh/brandon-sanderson.md` with the Simplified Chinese translation. The YAML frontmatter, Markdown formatting, and URLs are all preserved unchanged.

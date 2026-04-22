@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/fathur-rahman-al-ghozi.md`. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

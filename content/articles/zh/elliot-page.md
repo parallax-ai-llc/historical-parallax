@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/zh/elliot-page.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

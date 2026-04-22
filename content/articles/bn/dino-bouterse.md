@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/dino-bouterse.md`. The YAML frontmatter, URLs, Markdown formatting, and reference links are preserved unchanged, while all body text has been translated into Bengali.

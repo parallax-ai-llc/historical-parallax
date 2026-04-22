@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/clark-olofsson.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references are preserved as-is.

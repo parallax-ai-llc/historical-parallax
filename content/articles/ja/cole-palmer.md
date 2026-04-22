@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/cole-palmer.md`. All body text (headings, paragraphs, table headers, list items) has been translated, while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

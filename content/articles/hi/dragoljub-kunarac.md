@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/dragoljub-kunarac.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

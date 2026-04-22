@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/captain-kidd.md`. Frontmatter, URLs, Markdown formatting, and proper nouns like *Quedagh Merchant* and *William Moore* were preserved as-is.

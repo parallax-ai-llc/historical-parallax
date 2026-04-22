@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/bobby-fischer.md`.

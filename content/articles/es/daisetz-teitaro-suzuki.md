@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/daisetz-teitaro-suzuki.md`. Book titles were kept in their original English as they are published works.

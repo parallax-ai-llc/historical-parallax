@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/cuba-revolution-1959.md`. All body text is in Brazilian Portuguese, YAML frontmatter values are preserved as-is, and all markdown formatting and URLs remain unchanged.

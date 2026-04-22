@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/boris-nemtsov.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

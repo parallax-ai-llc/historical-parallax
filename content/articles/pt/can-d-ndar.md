@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/can-d-ndar.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

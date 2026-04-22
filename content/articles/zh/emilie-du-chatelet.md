@@ -1,0 +1,1 @@
+Created the Simplified Chinese translation at `content/articles/zh/emilie-du-chatelet.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into 简体中文.

@@ -1,0 +1,1 @@
+The Arabic translation has been saved to `content/articles/ar/dorothea-puente.md`. All YAML frontmatter, Markdown formatting, URLs, and references are preserved as-is, with only the body text translated into Arabic.

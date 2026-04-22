@@ -1,0 +1,1 @@
+The translated file has been saved to `content/articles/pt/cary-stayner.md`. The YAML frontmatter was kept exactly as-is, all Markdown formatting preserved, and all body text translated into Brazilian Portuguese.

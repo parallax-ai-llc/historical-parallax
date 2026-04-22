@@ -1,0 +1,1 @@
+Translated article written to `content/articles/zh/francisco-de-assis-pereira.md`. All body text is in Simplified Chinese, YAML frontmatter and URLs are preserved as-is.

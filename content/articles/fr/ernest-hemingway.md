@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/ernest-hemingway.md`. The YAML frontmatter, Markdown formatting, URLs, and book titles were preserved as-is, while all body text was translated into French.

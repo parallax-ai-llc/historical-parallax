@@ -1,0 +1,1 @@
+Created `content/articles/ru/brazil-diretas-ja-1984.md` with the full Russian translation. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs remain unchanged.

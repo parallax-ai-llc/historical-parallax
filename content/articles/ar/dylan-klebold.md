@@ -1,0 +1,1 @@
+Created `content/articles/ar/dylan-klebold.md` with the full Arabic translation. YAML frontmatter is preserved as-is, all Markdown formatting and URLs are intact, and book titles are kept in their original English.

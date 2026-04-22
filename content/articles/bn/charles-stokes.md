@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/charles-stokes.md`. The YAML frontmatter, URLs, Markdown formatting, and reference links are all preserved as-is.

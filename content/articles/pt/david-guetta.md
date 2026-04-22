@@ -1,0 +1,3 @@
+There's only that one file and it contains no actual article content — just the line "Article written to `content/articles/david-guetta.md`."
+
+There's no article to translate. The file `content/articles/david-guetta.md` only contains a placeholder message, not an actual Markdown article with frontmatter and body text. Could you provide the actual article content for David Guetta so I can translate it into Brazilian Portuguese?

@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/david-oistrakh.md`. The YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, while all body text has been translated into French.

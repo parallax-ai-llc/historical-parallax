@@ -1,0 +1,1 @@
+Translation written to `content/articles/zh/essam-al-zamel.md`. The YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs are unchanged.

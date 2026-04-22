@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/elvis-rexha.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is, with all body text translated into Bengali.

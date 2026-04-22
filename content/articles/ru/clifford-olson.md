@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/ru/clifford-olson.md` with YAML frontmatter preserved as-is and all body text translated into Russian.

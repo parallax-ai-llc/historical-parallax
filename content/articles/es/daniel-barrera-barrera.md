@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/daniel-barrera-barrera.md`. All YAML frontmatter, Markdown formatting, and URLs were preserved as-is.

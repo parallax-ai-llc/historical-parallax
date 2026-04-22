@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been saved to `content/articles/pt/matt-damon.md`. The YAML frontmatter was preserved as-is, all body text was translated, and film titles were localized to their official Brazilian Portuguese names (e.g., *Good Will Hunting* → *Gênio Indomável*, *The Martian* → *Perdido em Marte*, *The Departed* → *Os Infiltrados*).

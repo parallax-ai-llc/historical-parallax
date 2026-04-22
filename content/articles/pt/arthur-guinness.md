@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/arthur-guinness.md`.

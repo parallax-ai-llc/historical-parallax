@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/gherman-titov.md`. Frontmatter kept intact, all body text translated, and Markdown formatting/URLs preserved.

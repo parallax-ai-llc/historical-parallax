@@ -1,0 +1,1 @@
+Spanish translation written to `content/articles/es/daw-hnin-thit.md`. Frontmatter, URLs, Markdown formatting, and the Myanmar script name are preserved as-is.

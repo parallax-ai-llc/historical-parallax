@@ -1,0 +1,1 @@
+Created `content/articles/fr/eric-wieschaus.md` with the French translation. YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting/URLs are kept intact.

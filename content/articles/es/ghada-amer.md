@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/ghada-amer.md`. Frontmatter, URLs, and Markdown formatting are preserved exactly as-is.

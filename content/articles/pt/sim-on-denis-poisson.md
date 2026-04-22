@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/sim-on-denis-poisson.md`. YAML frontmatter was preserved unchanged, and all body text (headings, table cells, paragraphs) was translated.

@@ -1,0 +1,1 @@
+French translation written to `content/articles/fr/farid-ud-din-attar.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into French.

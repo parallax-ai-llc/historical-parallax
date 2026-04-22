@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/erling-haaland.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns (club names, competition names) were preserved as-is.

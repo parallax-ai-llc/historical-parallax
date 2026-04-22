@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/conan-obrien.md`. Frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is.

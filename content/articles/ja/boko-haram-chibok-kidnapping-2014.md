@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/boko-haram-chibok-kidnapping-2014.md`. Frontmatter, Markdown formatting, URLs, and hashtags are preserved as-is.

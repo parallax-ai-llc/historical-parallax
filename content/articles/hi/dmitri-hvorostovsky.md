@@ -1,0 +1,1 @@
+The Hindi translation has been written to `content/articles/hi/dmitri-hvorostovsky.md`. The YAML frontmatter, Markdown formatting, and all URLs are preserved exactly as in the original.

@@ -1,0 +1,1 @@
+Created `content/articles/ja/francois-jacob.md` with the Japanese translation. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/fanny-blankers-koen.md`. Frontmatter kept as-is, all body text translated, formatting and URLs preserved.

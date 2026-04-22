@@ -1,0 +1,1 @@
+Translated article saved to `content/articles/pt/mitch-hedberg.md`.

@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/frank-costello.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated.

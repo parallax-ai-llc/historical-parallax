@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/ergys-dashi.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved exactly as-is, with all body text translated into বাংলা.

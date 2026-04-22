@@ -1,0 +1,1 @@
+Translated article written to `content/articles/zh/demi-lovato.md`. All body text is in Simplified Chinese, YAML frontmatter and URLs are preserved as-is, and Markdown formatting is unchanged.

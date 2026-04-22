@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/falguni-nayar.md`. YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as required.

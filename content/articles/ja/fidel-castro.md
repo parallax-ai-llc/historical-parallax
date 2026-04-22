@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/fidel-castro.md`. Frontmatter kept as-is, all body text translated.

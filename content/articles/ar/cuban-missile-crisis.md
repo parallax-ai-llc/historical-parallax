@@ -1,0 +1,1 @@
+Created `content/articles/ar/cuban-missile-crisis.md` with the Arabic translation. The YAML frontmatter, URLs, Markdown formatting, and technical terms (U-2) are preserved as-is.

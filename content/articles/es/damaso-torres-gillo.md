@@ -1,0 +1,1 @@
+The Spanish translation has been created at `content/articles/es/damaso-torres-gillo.md`. The YAML frontmatter was preserved exactly as-is, and all body text was translated to Spanish.

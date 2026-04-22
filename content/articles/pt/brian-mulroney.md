@@ -1,0 +1,1 @@
+Translated article written to `content/articles/pt/brian-mulroney.md`. All body text (headings, paragraphs, table cells, quotes) translated to Brazilian Portuguese while keeping YAML frontmatter values, URLs, Markdown formatting, and references unchanged.

@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/elon-musk-dup2.md`. The YAML frontmatter, URLs, Markdown formatting, and company names (PayPal, SpaceX, Tesla, Neuralink, The Boring Company) are preserved as-is, while all body text has been translated into Russian.

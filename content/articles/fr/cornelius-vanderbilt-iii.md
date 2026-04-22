@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/cornelius-vanderbilt-iii.md`. The YAML frontmatter was preserved as-is, and all body text (headings, paragraphs, table headers/cells, references) was translated into French.

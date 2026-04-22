@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/dhyan-chand.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is.

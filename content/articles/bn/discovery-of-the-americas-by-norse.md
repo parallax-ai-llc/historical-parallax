@@ -1,0 +1,1 @@
+Bengali translation created at `content/articles/bn/discovery-of-the-americas-by-norse.md`. The YAML frontmatter is preserved as-is, all body text is translated to বাংলা, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/daniel-camargo-barbosa.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references are preserved as-is.

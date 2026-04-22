@@ -1,0 +1,1 @@
+Created the Spanish translation at `content/articles/es/george-harrison.md`. The YAML frontmatter, URLs, song/album titles, proper nouns, and Markdown formatting are all preserved as-is, with all body text translated into Spanish.

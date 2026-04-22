@@ -1,0 +1,1 @@
+The translated file has been written to `content/articles/pt/alek-minassian.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is, with only the body text translated into Brazilian Portuguese.

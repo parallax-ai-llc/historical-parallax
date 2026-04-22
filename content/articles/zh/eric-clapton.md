@@ -1,0 +1,1 @@
+Created `content/articles/zh/eric-clapton.md` with the Simplified Chinese translation. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns (band names, album titles, song titles) are preserved as-is.

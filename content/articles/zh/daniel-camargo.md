@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/zh/daniel-camargo.md`. All body text is translated to Simplified Chinese while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

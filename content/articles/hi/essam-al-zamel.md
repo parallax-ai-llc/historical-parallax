@@ -1,0 +1,1 @@
+Done. The Hindi translation has been saved to `content/articles/hi/essam-al-zamel.md` with YAML frontmatter preserved exactly as-is, all Markdown formatting and URLs intact, and all body text translated into Hindi.

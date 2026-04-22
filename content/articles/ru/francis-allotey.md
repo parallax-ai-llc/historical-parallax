@@ -1,0 +1,1 @@
+Done. The Russian translation has been written to `content/articles/ru/francis-allotey.md` with the YAML frontmatter preserved exactly as-is.

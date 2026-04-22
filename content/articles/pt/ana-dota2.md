@@ -1,0 +1,1 @@
+The article has already been translated into Brazilian Portuguese at `content/articles/pt/ana.md`. The translation looks complete and well done — all body text is translated, YAML frontmatter values are preserved as-is, Markdown formatting and URLs are unchanged.

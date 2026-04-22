@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/chuck-berry.md`. The YAML frontmatter, URLs, song titles, and Markdown formatting are preserved as-is, while all body text has been translated into Bengali.

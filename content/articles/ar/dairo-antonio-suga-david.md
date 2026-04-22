@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/dairo-antonio-suga-david.md`. The YAML frontmatter, URLs, Markdown formatting, and references are all preserved as-is, with only the body text translated.

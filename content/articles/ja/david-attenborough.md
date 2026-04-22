@@ -1,0 +1,1 @@
+Created `content/articles/ja/david-attenborough.md` with the Japanese translation. Frontmatter kept as-is, section headings translated to 概要/経歴年表/参考文献, and all body text translated to Japanese following the existing style in the project.

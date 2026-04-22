@@ -1,0 +1,1 @@
+Created `content/articles/zh/eulsa-treaty.md` with the Simplified Chinese translation. The YAML frontmatter is preserved as-is, and all body text (headings, table headers/cells, paragraphs, references) has been translated.

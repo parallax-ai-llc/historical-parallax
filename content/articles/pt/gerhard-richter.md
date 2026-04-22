@@ -1,0 +1,1 @@
+Created `content/articles/pt/gerhard-richter.md` with the Brazilian Portuguese translation. Frontmatter, URLs, and Markdown formatting were preserved as-is.

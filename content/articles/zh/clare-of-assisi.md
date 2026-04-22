@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/clare-of-assisi.md`.

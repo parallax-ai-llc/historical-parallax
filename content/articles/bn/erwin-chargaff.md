@@ -1,0 +1,1 @@
+Bengali translation created at `content/articles/bn/erwin-chargaff.md`. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

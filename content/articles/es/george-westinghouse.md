@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/george-westinghouse.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (company names, person names) were preserved as-is, while all body text was translated into Spanish.

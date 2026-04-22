@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/zh/butler-lampson.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is, with body text translated to Simplified Chinese.

@@ -1,0 +1,1 @@
+French translation created at `content/articles/fr/f-licien-kabuga.md`.

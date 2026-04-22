@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/chi-mak.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved exactly as-is, with only the body text translated into Bengali.

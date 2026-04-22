@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been written to `content/articles/zh/eric-ripert.md`. All body text (headings, paragraphs, table headers) is translated, while the YAML frontmatter values, Markdown formatting, and URLs are preserved unchanged.

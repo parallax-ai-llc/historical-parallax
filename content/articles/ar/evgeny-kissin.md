@@ -1,0 +1,1 @@
+Done. The Arabic translation has been written to `content/articles/ar/evgeny-kissin.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

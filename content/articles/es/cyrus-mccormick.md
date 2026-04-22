@@ -1,0 +1,1 @@
+The Spanish translation has been saved to `content/articles/es/cyrus-mccormick.md`. The YAML frontmatter is preserved as-is, all Markdown formatting is intact, and all body text has been translated.

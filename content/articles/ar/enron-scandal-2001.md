@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/enron-scandal-2001.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is maintained, and all body text (headings, paragraphs, blockquotes, list items, bold text) has been translated into Arabic.

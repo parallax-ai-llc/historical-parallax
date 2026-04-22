@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/federico-valverde.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs were kept unchanged, and all body text was translated into natural Spanish.

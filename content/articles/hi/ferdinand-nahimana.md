@@ -1,0 +1,1 @@
+Hindi translation created at `content/articles/hi/ferdinand-nahimana.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and all body text including headings, table cells, list items, and paragraphs has been translated into Hindi.

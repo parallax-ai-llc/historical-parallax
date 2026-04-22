@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/felix-bloch.md`. All body text has been translated while keeping the YAML frontmatter, Markdown formatting, URLs, and technical terms (NMR, MRI, T1, T2) intact.

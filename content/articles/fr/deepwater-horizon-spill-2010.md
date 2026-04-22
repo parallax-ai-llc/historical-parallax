@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/deepwater-horizon-spill-2010.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (like BOP, Corexit, Top Kill) were preserved as-is, while all body text was translated into French.

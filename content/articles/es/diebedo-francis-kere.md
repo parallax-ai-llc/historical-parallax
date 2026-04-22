@@ -1,0 +1,1 @@
+Spanish translation created at `content/articles/es/diebedo-francis-kere.md`. Frontmatter, URLs, and Markdown formatting preserved; all body text translated.

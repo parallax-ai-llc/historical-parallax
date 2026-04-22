@@ -1,0 +1,1 @@
+French translation created at `content/articles/fr/fidel-castro.md`. Frontmatter kept as-is, all body text translated.

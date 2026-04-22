@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been written to `content/articles/zh/dario-antonio-usuga-david.md`. The YAML frontmatter, Markdown formatting, URLs, and reference sources are all preserved as-is, with only the body text translated.

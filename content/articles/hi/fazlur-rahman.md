@@ -1,0 +1,1 @@
+Hindi translation saved to `content/articles/hi/fazlur-rahman.md`.

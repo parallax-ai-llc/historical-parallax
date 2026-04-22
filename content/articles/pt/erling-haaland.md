@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/erling-haaland.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns were preserved, with body text translated to Brazilian Portuguese.

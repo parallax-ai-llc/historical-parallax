@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/encep-nurjaman.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with all body text translated into Japanese.

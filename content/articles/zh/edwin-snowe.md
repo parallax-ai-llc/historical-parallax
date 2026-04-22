@@ -1,0 +1,1 @@
+Created the Simplified Chinese translation at `content/articles/zh/edwin-snowe.md`. The YAML frontmatter, Markdown formatting, URLs, and reference links are all preserved as-is, with all body text translated.

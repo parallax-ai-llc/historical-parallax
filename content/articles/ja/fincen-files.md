@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/fincen-files.md`. YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

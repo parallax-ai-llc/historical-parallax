@@ -1,0 +1,1 @@
+Done. The Portuguese translation has been created at `content/articles/pt/mary-anning.md` with all body text translated, YAML frontmatter preserved as-is, and Markdown formatting kept intact.

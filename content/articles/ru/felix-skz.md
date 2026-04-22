@@ -1,0 +1,1 @@
+Translated article written to `content/articles/ru/felix-stray-kids.md`. The YAML frontmatter is preserved as-is, all body text is translated to Russian, and Markdown formatting/URLs are unchanged.

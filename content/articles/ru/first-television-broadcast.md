@@ -1,0 +1,1 @@
+Russian translation saved to `content/articles/ru/first-television-broadcast.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

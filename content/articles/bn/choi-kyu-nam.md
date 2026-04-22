@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/choi-kyu-nam.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated to Bengali.

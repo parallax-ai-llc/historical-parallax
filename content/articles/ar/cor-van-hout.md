@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/cor-van-hout.md`. All YAML frontmatter values, Markdown formatting, URLs, and references are preserved exactly as in the original.

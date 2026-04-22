@@ -1,0 +1,1 @@
+Created the Brazilian Portuguese translation at `content/articles/pt/fall-of-france-1940.md`. The frontmatter is preserved as-is, and all body text (headings, paragraphs, table cells) has been translated.

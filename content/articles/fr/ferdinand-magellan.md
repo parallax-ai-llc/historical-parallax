@@ -1,0 +1,1 @@
+French translation created at `content/articles/fr/ferdinand-magellan.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with all body text translated into French.

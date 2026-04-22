@@ -1,0 +1,1 @@
+Japanese translation has been saved to `content/articles/ja/daley-thompson.md`.

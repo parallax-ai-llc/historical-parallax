@@ -1,0 +1,1 @@
+Done. The translated article has been saved to `content/articles/pt/akio-morita.md`. All body text was translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, URLs, and references unchanged.

@@ -1,0 +1,1 @@
+Russian translation created at `content/articles/ru/emile-durkheim.md`. All body text (headings, paragraphs, table headers/cells) is translated, while the YAML frontmatter values, Markdown formatting, and URLs are preserved unchanged.

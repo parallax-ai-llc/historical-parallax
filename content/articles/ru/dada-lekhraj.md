@@ -1,0 +1,1 @@
+The Russian translation has been saved to `content/articles/ru/dada-lekhraj.md`.

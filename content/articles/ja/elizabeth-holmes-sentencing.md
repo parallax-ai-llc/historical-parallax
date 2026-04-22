@@ -1,0 +1,1 @@
+The translated Japanese article has been written to `content/articles/ja/elizabeth-holmes-sentencing.md`.

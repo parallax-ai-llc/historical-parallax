@@ -1,0 +1,1 @@
+The Japanese translation has been written to `content/articles/ja/felix-gallardo.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is maintained, and all body text has been translated into Japanese.

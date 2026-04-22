@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/fall-of-berlin-wall-1989.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into French.

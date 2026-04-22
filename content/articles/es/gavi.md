@@ -1,0 +1,1 @@
+Created `content/articles/es/gavi.md` with the full Spanish translation. All body text is translated, YAML frontmatter is preserved as-is, and Markdown formatting/URLs are unchanged.

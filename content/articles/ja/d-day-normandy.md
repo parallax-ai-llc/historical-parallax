@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/d-day-normandy.md`. The YAML frontmatter, URLs, Markdown formatting, and table structure are all preserved as-is.

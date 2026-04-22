@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/doja-cat.md`. All body text (headings, paragraphs, table cells, list items) has been translated, while the YAML frontmatter values, URLs, Markdown formatting, and proper nouns (album titles, song titles, award names) have been preserved as-is.

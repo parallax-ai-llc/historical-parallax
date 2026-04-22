@@ -1,0 +1,1 @@
+The article has been translated into Brazilian Portuguese and saved to `content/articles/pt/fe-del-mundo.md`.

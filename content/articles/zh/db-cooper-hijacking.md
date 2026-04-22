@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/zh/db-cooper-hijacking.md`. YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting and URLs are kept intact.

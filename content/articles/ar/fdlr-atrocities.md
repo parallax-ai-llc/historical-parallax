@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/fdlr-atrocities.md`. The YAML frontmatter, Markdown formatting, URLs, and acronyms (FDLR, FARDC, MONUSCO, DDRRR) are all preserved as-is.

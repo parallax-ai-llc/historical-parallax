@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/minamoto-no-yoshitsune.md`. All body text (headings, paragraphs, table cells, quotes) was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, URLs, and references unchanged.

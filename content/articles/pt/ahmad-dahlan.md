@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/ahmad-dahlan.md`. The YAML frontmatter was preserved exactly as-is, all body text was translated to Brazilian Portuguese, and all Markdown formatting, URLs, and footnote references were kept unchanged.

@@ -1,0 +1,1 @@
+Russian translation saved to `content/articles/ru/cornelius-mcgillicuddy.md`. YAML frontmatter kept intact, all body text translated, formatting and URLs preserved.

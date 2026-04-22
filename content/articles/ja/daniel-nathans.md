@@ -1,0 +1,1 @@
+Japanese translation has been written to `content/articles/ja/daniel-nathans.md`.

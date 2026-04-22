@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/fazlur-rahman.md`. The YAML frontmatter was preserved unchanged, and all body text (headings, summary, table headers/cells, references) was translated into French.

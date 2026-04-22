@@ -1,0 +1,1 @@
+Done. The translated Japanese article has been written to `content/articles/ja/friedrich-schleiermacher.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

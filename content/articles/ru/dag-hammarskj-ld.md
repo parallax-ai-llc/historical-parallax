@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/dag-hammarskj-ld.md`. The YAML frontmatter is preserved exactly, and all body text has been translated into Russian.

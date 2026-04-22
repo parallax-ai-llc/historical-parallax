@@ -1,0 +1,1 @@
+French translation saved to `content/articles/fr/cambridge-five-exposed-1951.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into French.

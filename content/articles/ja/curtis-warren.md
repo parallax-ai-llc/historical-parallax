@@ -1,0 +1,1 @@
+Japanese translation created at `content/articles/ja/curtis-warren.md`. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

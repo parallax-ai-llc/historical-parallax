@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/ru/elinor-ostrom.md`. The YAML frontmatter is preserved as-is, all body text is translated into Russian, and Markdown formatting and URLs are unchanged.

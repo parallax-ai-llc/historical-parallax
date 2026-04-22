@@ -1,0 +1,1 @@
+Done. The translated file has been written to `content/articles/zh/colton-harris-moore.md` with YAML frontmatter preserved exactly as-is and all body text translated to Simplified Chinese.

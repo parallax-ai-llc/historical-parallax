@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/fahd-jamil.md`. YAML frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

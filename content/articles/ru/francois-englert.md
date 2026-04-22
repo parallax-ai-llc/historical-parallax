@@ -1,0 +1,1 @@
+Created the Russian translation at `content/articles/ru/francois-englert.md`. The YAML frontmatter is preserved exactly, and all body text (headings, table cells, paragraphs, references) has been translated into Russian.

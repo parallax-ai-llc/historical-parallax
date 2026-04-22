@@ -1,0 +1,1 @@
+Done. The translated file has been created at `content/articles/pt/dandeny-mu-oz-mosquera.md` with all body text translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

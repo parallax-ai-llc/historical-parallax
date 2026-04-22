@@ -1,0 +1,1 @@
+Written the Bengali translation to `content/articles/bn/dietrich-mateschitz-dup2.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged. All body text — including the Korean expanded notes — has been translated into Bengali.

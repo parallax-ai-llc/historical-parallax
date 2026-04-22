@@ -1,0 +1,1 @@
+The Simplified Chinese translation has been saved to `content/articles/zh/friedrich-nietzsche.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with all body text translated into 简体中文.

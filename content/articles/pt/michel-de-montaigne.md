@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/michel-de-montaigne.md`. All body text (headings, paragraphs, table cells, list items, quotes) was translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, URLs, and footnote references unchanged.

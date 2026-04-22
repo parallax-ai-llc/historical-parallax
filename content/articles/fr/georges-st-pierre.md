@@ -1,0 +1,1 @@
+Done. The French translation has been written to `content/articles/fr/georges-st-pierre.md` with all YAML frontmatter, URLs, and Markdown formatting preserved as-is.

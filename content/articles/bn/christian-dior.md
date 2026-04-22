@@ -1,0 +1,1 @@
+Created the Bengali translation at `content/articles/bn/christian-dior.md`. The frontmatter is preserved exactly as-is, all body text (headings, summary, table headers, and table cells) is translated into Bengali, and Markdown formatting is unchanged.

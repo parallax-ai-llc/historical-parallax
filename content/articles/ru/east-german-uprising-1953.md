@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/east-german-uprising-1953.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references are preserved as-is, with all body text translated into Russian.

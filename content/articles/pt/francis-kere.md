@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/francis-kere.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and all body text is translated into Brazilian Portuguese.

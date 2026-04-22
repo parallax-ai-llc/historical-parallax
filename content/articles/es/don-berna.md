@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/don-berna.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with all body text translated into Spanish.

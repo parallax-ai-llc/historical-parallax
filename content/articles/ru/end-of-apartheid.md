@@ -1,0 +1,1 @@
+Russian translation saved to `content/articles/ru/end-of-apartheid.md`.

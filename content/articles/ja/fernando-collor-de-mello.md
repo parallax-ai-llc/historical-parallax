@@ -1,0 +1,1 @@
+Japanese translation written to `content/articles/ja/fernando-collor-de-mello.md`.

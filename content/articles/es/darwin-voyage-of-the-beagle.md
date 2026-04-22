@@ -1,0 +1,1 @@
+Spanish translation saved to `content/articles/es/darwin-voyage-of-the-beagle.md`.

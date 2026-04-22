@@ -1,0 +1,1 @@
+The Russian translation has been written to `content/articles/ru/emil-z-topek.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

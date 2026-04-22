@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/cyril-of-alexandria.md`. Frontmatter is preserved as-is, and all body text (headings, summary, table) has been translated into Spanish.

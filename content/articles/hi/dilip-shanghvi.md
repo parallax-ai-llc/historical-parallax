@@ -1,0 +1,1 @@
+Created the Hindi translation at `content/articles/hi/dilip-shanghvi.md`. The YAML frontmatter is preserved as-is, all body text is translated to Hindi, and Markdown formatting and URLs are kept unchanged.

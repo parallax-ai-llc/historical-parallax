@@ -1,0 +1,1 @@
+Arabic translation written to `content/articles/ar/farc.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are intact, and all body text (headings, paragraphs, table cells, list items) is translated into Arabic.

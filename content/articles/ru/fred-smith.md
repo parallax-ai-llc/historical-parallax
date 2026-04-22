@@ -1,0 +1,1 @@
+Created `content/articles/ru/fred-smith.md` with the Russian translation. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

@@ -1,0 +1,1 @@
+Translated article written to `content/articles/zh/enrico-caruso.md`.

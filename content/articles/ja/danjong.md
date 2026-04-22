@@ -1,0 +1,1 @@
+Created `content/articles/ja/danjong.md` with the full Japanese translation. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,0 +1,1 @@
+The Spanish translation has been written to `content/articles/es/emilio-segr.md`. All frontmatter values, URLs, and Markdown formatting were preserved as-is.

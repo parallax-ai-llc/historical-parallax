@@ -1,0 +1,1 @@
+Translation written to `content/articles/pt/charlie-chaplin.md`. YAML frontmatter kept intact, all body text translated to Brazilian Portuguese, Markdown formatting and URLs preserved.

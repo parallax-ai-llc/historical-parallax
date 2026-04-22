@@ -1,0 +1,1 @@
+Hindi translation written to `content/articles/hi/fausto-coppi.md`. The YAML frontmatter, Markdown formatting, URLs, and proper nouns are preserved as-is.

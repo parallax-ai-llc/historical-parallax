@@ -1,0 +1,1 @@
+The translated Simplified Chinese article has been created at `content/articles/zh/craig-federighi.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

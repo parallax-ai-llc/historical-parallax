@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/godfrey-hounsfield.md` with all body text in Brazilian Portuguese, frontmatter preserved as-is, and all formatting/URLs unchanged.

@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been saved to `content/articles/pt/daniel-rolling.md`. The YAML frontmatter was kept intact while all body text was translated.

@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/christa-lehmann.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (E605, parathion) are preserved as-is, with all body text translated into Bengali.

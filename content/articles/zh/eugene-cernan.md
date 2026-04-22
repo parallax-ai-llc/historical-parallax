@@ -1,0 +1,1 @@
+Created `content/articles/zh/eugene-cernan.md` with the full Simplified Chinese translation. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

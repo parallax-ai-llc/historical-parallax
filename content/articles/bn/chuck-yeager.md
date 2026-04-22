@@ -1,0 +1,1 @@
+Bengali translation written to `content/articles/bn/chuck-yeager.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (Bell X-1, P-51 Mustang, Me 262, etc.) are preserved as-is, with all body text translated into বাংলা.

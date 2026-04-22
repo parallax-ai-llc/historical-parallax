@@ -1,0 +1,1 @@
+Created `content/articles/ar/ernst-abbe.md` with the Arabic translation. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

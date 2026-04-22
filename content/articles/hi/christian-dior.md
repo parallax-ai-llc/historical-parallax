@@ -1,0 +1,1 @@
+Hindi translation has been written to `content/articles/hi/christian-dior.md`.

@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/count-nikolaus-von-zinzendorf.md`. The YAML frontmatter is preserved exactly, all body text is translated, and Markdown formatting and URLs are kept intact.

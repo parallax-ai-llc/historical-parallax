@@ -1,0 +1,1 @@
+The Bengali translation has been saved to `content/articles/bn/conan-obrien.md`. All YAML frontmatter, URLs, Markdown formatting, and show/episode titles are preserved as-is, with all body text translated into Bengali.

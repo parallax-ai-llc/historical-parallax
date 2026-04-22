@@ -1,0 +1,1 @@
+The French translation has been written to `content/articles/fr/cornelius-mcgillicuddy.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated into French.

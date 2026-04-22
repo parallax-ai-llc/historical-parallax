@@ -1,0 +1,1 @@
+The Bengali translation has been written to `content/articles/bn/emomali-rahmon.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with only the body text translated into Bengali.

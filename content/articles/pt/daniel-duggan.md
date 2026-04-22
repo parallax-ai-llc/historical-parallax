@@ -1,0 +1,1 @@
+The Brazilian Portuguese translation has been written to `content/articles/pt/daniel-duggan.md`. All YAML frontmatter, Markdown formatting, and URLs were preserved as-is.

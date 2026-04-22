@@ -1,0 +1,1 @@
+The translated Brazilian Portuguese article has been created at `content/articles/pt/g-n-ramachandran.md`.

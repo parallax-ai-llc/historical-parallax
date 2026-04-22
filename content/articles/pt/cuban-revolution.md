@@ -1,0 +1,1 @@
+The translated file has been created at `content/articles/pt/cuban-revolution.md`. All body text was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, and URLs unchanged.

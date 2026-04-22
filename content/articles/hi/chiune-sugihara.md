@@ -1,0 +1,3 @@
+The file at `content/articles/chiune-sugihara.md` only contains the text `Article written to \`content/articles/chiune-sugihara.md\`.` — it doesn't have an actual article to translate. It seems the article was never actually written; the file just has a placeholder message.
+
+Could you provide the actual Markdown content of the Chiune Sugihara article you'd like translated into Hindi? Or if it needs to be generated first, let me know and I can help with that.

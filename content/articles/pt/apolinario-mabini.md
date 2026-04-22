@@ -1,0 +1,1 @@
+The translated article has been written to `content/articles/pt/apolinario-mabini.md`. The YAML frontmatter was kept exactly as-is, all Markdown formatting and URLs were preserved, and all body text (headings, paragraphs, table cells, quotes, and footnote descriptions) was translated into Brazilian Portuguese.

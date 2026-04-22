@@ -1,0 +1,1 @@
+The translated article has been saved to `content/articles/pt/draco.md`. All body text is translated to Brazilian Portuguese while YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

@@ -1,0 +1,1 @@
+Russian translation saved to `content/articles/ru/efra-n-r-os-montt.md`.

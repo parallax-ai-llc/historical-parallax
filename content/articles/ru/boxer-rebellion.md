@@ -1,0 +1,1 @@
+Done. The translated Russian article has been saved to `content/articles/ru/boxer-rebellion.md`.

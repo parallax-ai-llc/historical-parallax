@@ -1,0 +1,1 @@
+The Arabic translation has been written to `content/articles/ar/choi-hyung-seop.md`.

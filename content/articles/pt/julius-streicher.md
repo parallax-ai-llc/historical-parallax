@@ -1,0 +1,1 @@
+The article has been translated into Brazilian Portuguese and saved to `content/articles/pt/julius-streicher.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

@@ -1,0 +1,1 @@
+Done. The Brazilian Portuguese translation has been saved to `content/articles/pt/francois-l-olonnais.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

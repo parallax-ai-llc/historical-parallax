@@ -1,0 +1,1 @@
+Translated and saved to `content/articles/ja/colares-ufo-flap-1977.md`.

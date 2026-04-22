@@ -1,0 +1,1 @@
+Done. The translated article has been written to `content/articles/pt/frank-sinatra.md`. Frontmatter, URLs, song/film titles, and Markdown formatting were preserved as-is.

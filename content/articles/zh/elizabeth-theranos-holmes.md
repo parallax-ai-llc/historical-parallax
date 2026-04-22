@@ -1,0 +1,1 @@
+Translated file written to `content/articles/zh/elizabeth-theranos-holmes.md`.
