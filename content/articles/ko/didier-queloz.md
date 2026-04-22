@@ -1,0 +1,50 @@
+---
+id: "didier-queloz"
+name: "디디에 켈로"
+birth: "1966-02-23"
+death: "Unknown"
+nationality: "Swiss"
+occupation: ["Astronomer"]
+image: ""
+socialLinks:
+  wikipedia: "https://en.wikipedia.org/wiki/Didier_Queloz"
+lastUpdated: "2026-02-26"
+---
+
+## 개요
+
+Didier Queloz shared the 2019 노벨상 for discovering the first exoplanet orbiting a sun-like star.
+
+## 경력 연표
+
+| 연도 | 사건 |
+|------|-------|
+| 1966 | 출생 에서 Lausanne |
+| 1995 | Co-discovered 51 Pegasi b |
+| 2019 | Nobel Prize |
+
+## 참고 문헌
+
+[^1]: Wikipedia, "Didier Queloz" - https://en.wikipedia.org/wiki/Didier_Queloz
+
+## Why He Matters
+
+The discovery of 51 Pegasi b helped establish that planets around other stars are common and scientifically accessible, not merely speculative.
+
+At the time, a Jupiter-mass planet in a very short orbit challenged then-popular assumptions that planetary systems would resemble the Solar System's layout.
+
+## Scientific Context (High Level)
+
+The 1995 result is closely associated with precision measurements of a star's motion along our line of sight (the radial-velocity or Doppler method).
+
+That technique infers an unseen companion by detecting periodic shifts in stellar spectral lines, and it ~의 하나가 되었다 the foundational tools of exoplanet 과학.
+
+## 유산
+
+현대의 exoplanet research combines multiple methods (radial velocity, transits, direct imaging, astrometry) to estimate masses, radii, and orbital properties.
+
+Queloz's Nobel recognition is widely cited as a milestone marking exoplanets as a mature field of physics and astronomy.
+
+## Notes on Sources
+
+This short profile is intentionally high-level and based on the linked reference; details such as institutional appointments and specific instruments should be verified in dedicated biographies.

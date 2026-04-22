@@ -1,0 +1,55 @@
+---
+id: "sajid-mir"
+name: "사지드 미르"
+birth: "1971-01-01"
+death: "Unknown"
+nationality: "Pakistan"
+occupation: ["Terrorist"]
+image: ""
+socialLinks:
+  wikipedia: "https://en.wikipedia.org/wiki/Sajid_Mir"
+lastUpdated: "2026-02-26"
+---
+
+## 요약
+
+Pakistani militant and LeT handler who guided the Mumbai attackers via phone and was considered the project manager of the 2008 attacks. He had a $5 million US bounty and was eventually convicted in Pakistan.
+
+## 경력 연표
+
+| 연도 | 사건 |
+|------|-------|
+| 2008 | Served as handler directing Mumbai attackers |
+| 2012 | $5 million US bounty placed |
+| 2022 | Arrested in Pakistan |
+| 2023 | Convicted and sentenced to 15 years |
+
+## 참고 문헌
+
+[^1]: Wikipedia, "Sajid Mir" - https://en.wikipedia.org/wiki/Sajid_Mir
+
+
+## Case Context
+
+- **Handler role:** In coordinated attacks, a "handler" may provide remote direction, encouragement, and tactical guidance, including relaying information and adjusting plans in real time.
+- **Cross-border investigations:** High-profile terrorism cases commonly involve disputes over jurisdiction, evidence-sharing, and political constraints that can delay arrests or prosecutions.
+
+## Legal and Diplomatic Significance
+
+- The Mumbai attacks became a defining event in India–Pakistan security relations and a major reference point in global counterterrorism cooperation.
+- Bounties and designations are used by governments to pressure networks and to signal the priority of a case internationally.
+
+## 주석
+
+Specific details about roles and communications are typically sourced to investigative records and official statements; consult primary documentation where available.
+
+
+## 같이 보기
+
+- Related topics and primary sources linked in the References section.
+
+
+## Further reading
+
+- Wikipedia (overview)
+- Reputable news and academic references
