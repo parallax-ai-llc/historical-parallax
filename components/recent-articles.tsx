@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { Link } from "@/i18n/navigation";
+import Link from "next/link";
 
 export interface RecentArticle {
   id: string;
@@ -31,7 +31,6 @@ function getRelativeTime(dateString: string): string {
 function RecentArticlesSkeleton() {
   return (
     <section className="w-full max-w-xl h-[102px]">
-      {/* 카드 스켈레톤 */}
       <div className="relative h-20 overflow-hidden rounded-lg border border-border/50 bg-card px-4 py-4 md:px-5">
         <div className="animate-pulse">
           <div className="h-5 w-48 bg-muted rounded mb-2" />
@@ -42,7 +41,6 @@ function RecentArticlesSkeleton() {
         </div>
       </div>
 
-      {/* 인디케이터 스켈레톤 - invisible로 공간만 확보 */}
       <div className="flex justify-center gap-1.5 mt-4 h-1.5">
         <div className="h-1.5 w-6 rounded-full bg-muted-foreground/30 invisible" />
         <div className="h-1.5 w-1.5 rounded-full bg-muted-foreground/30 invisible" />
@@ -160,7 +158,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
     setDragOffset(0);
   };
 
-  // SSR 대응: 클라이언트에서만 렌더링
+  // SSR: only render on client
   const [mounted, setMounted] = React.useState(false);
   React.useEffect(() => {
     setMounted(true);
@@ -178,7 +176,6 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
     return direction === "left" ? "opacity-0 -translate-x-4" : "opacity-0 translate-x-4";
   };
 
-  // 키보드 탐색 핸들러
   const handleKeyDown = (e: React.KeyboardEvent) => {
     if (e.key === "ArrowLeft") {
       e.preventDefault();
@@ -189,7 +186,6 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
     }
   };
 
-  // 로딩 중이면 스켈레톤 표시
   if (displayArticles.length === 0) {
     return <RecentArticlesSkeleton />;
   }
@@ -216,7 +212,6 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
         aria-roledescription="slide"
         aria-label={`Article ${currentIndex + 1} of ${displayArticles.length}: ${currentArticle.name}`}
       >
-        {/* 스크린 리더용 라이브 리전 */}
         <div aria-live="polite" aria-atomic="true" className="sr-only">
           Showing article {currentIndex + 1} of {displayArticles.length}: {currentArticle.name}
         </div>
@@ -264,7 +259,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
         </Link>
       </div>
 
-      {/* Progress indicators - 항상 공간 확보 */}
+      {/* Progress indicators */}
       <nav
         className="flex justify-center gap-1.5 mt-4 h-1.5"
         aria-label="Article carousel navigation"
@@ -293,7 +288,6 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
             />
           ))
         ) : (
-          // 1개일 때 투명 placeholder
           <div className="h-1.5 w-6 rounded-full bg-transparent" />
         )}
       </nav>

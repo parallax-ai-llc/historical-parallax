@@ -26,7 +26,6 @@ export interface Article {
   meta: ArticleMeta;
   content: string;
   toc: TocItem[];
-  isTranslated?: boolean;
 }
 
 export interface TocItem {
@@ -56,17 +55,13 @@ export function getAllArticleIds(): string[] {
   }
 }
 
-export function getAllArticles(locale: string = "en"): ArticleMeta[] {
+export function getAllArticles(): ArticleMeta[] {
   const ids = getAllArticleIds();
 
   const articles = ids
     .map((id) => {
       try {
-        // Try locale-specific file first, fall back to English
-        const localePath = path.join(articlesDirectory, locale, `${id}.md`);
-        const fullPath = locale !== "en" && fs.existsSync(localePath)
-          ? localePath
-          : path.join(articlesDirectory, `${id}.md`);
+        const fullPath = path.join(articlesDirectory, `${id}.md`);
         const fileContents = fs.readFileSync(fullPath, "utf8");
         const { data } = matter(fileContents);
 
@@ -94,22 +89,6 @@ export function getAllArticles(locale: string = "en"): ArticleMeta[] {
   });
 }
 
-/**
- * Get article IDs that have translations for the given locale.
- */
-function getTranslatedArticleIds(locale: string): string[] {
-  const localeDir = path.join(articlesDirectory, locale);
-  if (!fs.existsSync(localeDir)) return [];
-
-  try {
-    return fs.readdirSync(localeDir)
-      .filter((fileName) => fileName.endsWith(".md"))
-      .map((fileName) => fileName.replace(/\.md$/, ""));
-  } catch {
-    return [];
-  }
-}
-
 function extractToc(content: string): TocItem[] {
   const headingRegex = /^(#{2,4})\s+(.+)$/gm;
   const toc: TocItem[] = [];
@@ -132,37 +111,14 @@ function extractToc(content: string): TocItem[] {
   return toc;
 }
 
-/**
- * Get article for a given ID and locale.
- * First tries locale-specific version at content/articles/[locale]/[id].md,
- * then falls back to the English version at content/articles/[id].md.
- */
-export async function getArticle(id: string, locale: string = "en"): Promise<Article | null> {
+export async function getArticle(id: string): Promise<Article | null> {
   ensureDirectoryExists();
 
-  // Try locale-specific article first (non-English)
-  if (locale !== "en") {
-    const localePath = path.join(articlesDirectory, locale, `${id}.md`);
-    if (fs.existsSync(localePath)) {
-      const result = await parseArticleFile(localePath, id);
-      if (result) {
-        return { ...result, isTranslated: true };
-      }
-    }
-  }
-
-  // Fall back to English
-  const englishPath = path.join(articlesDirectory, `${id}.md`);
-  const result = await parseArticleFile(englishPath, id);
-  if (!result) return null;
-
-  return {
-    ...result,
-    isTranslated: locale === "en",
-  };
+  const fullPath = path.join(articlesDirectory, `${id}.md`);
+  return parseArticleFile(fullPath, id);
 }
 
-async function parseArticleFile(fullPath: string, id: string): Promise<Omit<Article, "isTranslated"> | null> {
+async function parseArticleFile(fullPath: string, id: string): Promise<Article | null> {
   try {
     const fileContents = fs.readFileSync(fullPath, "utf8");
     const { data, content } = matter(fileContents);

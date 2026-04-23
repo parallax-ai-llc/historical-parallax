@@ -1,5 +1,17 @@
+import Script from "next/script";
 import type { Metadata } from "next";
+import { Cormorant_Garamond } from "next/font/google";
+import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
+
+const cormorant = Cormorant_Garamond({
+  variable: "--font-serif",
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  preload: true,
+  fallback: ["Times New Roman", "serif"],
+  adjustFontFallback: true,
+});
 
 export const metadata: Metadata = {
   title: {
@@ -52,5 +64,40 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return children;
+  return (
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;600;700&display=swap"
+          rel="stylesheet"
+        />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5WB8XPRPT" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-M5WB8XPRPT');
+          `}
+        </Script>
+      </head>
+      <body className={`${cormorant.variable} font-sans antialiased`}>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <a href="#main-content" className="skip-link">
+            Skip to main content
+          </a>
+          <div id="main-content" role="main" tabIndex={-1}>
+            {children}
+          </div>
+        </ThemeProvider>
+      </body>
+    </html>
+  );
 }
