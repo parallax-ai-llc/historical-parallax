@@ -1,6 +1,6 @@
 ---
 id: "hans-dehmelt"
-name: "汉斯·德默尔特"
+name: "汉斯·德梅尔特"
 birth: "1922-09-09"
 death: "2017-03-07"
 nationality: "German-American"
@@ -13,17 +13,17 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-汉斯·德默尔特因开发用于精密测量的离子阱技术而共同获得1989年诺贝尔物理学奖。
+汉斯·德梅尔特因开发用于精确测量的离子阱技术而分享了1989年的诺贝尔奖。
 
-## 生平年表
+## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
-| 1922 | 出生于格尔利茨 |
+| 1922 | 出生于戈尔利茨 |
 | 1955 | 开发离子阱 |
 | 1989 | 诺贝尔奖 |
-| 2017 | 逝世 |
+| 2017 | 去世 |
 
 ## 参考文献
 
-[^1]: 维基百科，"汉斯·德默尔特" - https://en.wikipedia.org/wiki/Hans_Dehmelt
+[^1]: Wikipedia, "Hans Dehmelt" - https://en.wikipedia.org/wiki/Hans_Dehmelt

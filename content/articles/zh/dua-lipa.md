@@ -1,6 +1,5 @@
-```markdown
 ---
-name: "Dua Lipa"
+name: "杜阿·利帕"
 birth: "1995-08-22"
 nationality: "British (Albanian-born)"
 occupation: ["Singer", "Songwriter", "Model"]
@@ -9,61 +8,60 @@ socialLinks:
 lastUpdated: "2026-03-11"
 ---
 
-## Summary
+## 简介
 
-Dua Lipa is a British-Albanian singer and songwriter who emerged as one of the defining pop artists of the late 2010s and 2020s. Born in London to Kosovar Albanian parents, she rose from working as a model and waitress to becoming a Grammy Award-winning global superstar with a sound rooted in disco, synth-pop, and dance music.
+杜阿·利帕（Dua Lipa）是一位英籍阿尔巴尼亚歌手兼词曲作者，她已成为2010年代末和2020年代最具代表性的流行音乐人之一。她出生于伦敦，父母是科索沃阿尔巴尼亚人，她从模特和女服务员的工作起步，最终成为一位格莱美奖得主、全球巨星，其音乐风格根植于迪斯科、合成器流行和舞曲。
 
-Her 2020 album *Future Nostalgia* cemented her status as a generational talent, earning widespread critical acclaim and commercial success. With over 90 million records sold worldwide, Lipa has established herself as one of the best-selling music artists of her generation, consistently breaking streaming records and winning major industry awards.
+她2020年的专辑《Future Nostalgia》巩固了她作为一代人才的地位，获得了广泛的评论赞誉和商业成功。在全球售出超过9000万张唱片，利帕已成为她这一代最畅销的音乐艺术家之一，持续打破流媒体记录并赢得各大行业奖项。
 
-Beyond music, she has become a cultural figure — a fashion icon, activist, and entrepreneur whose influence extends into advocacy for Kosovo's cultural identity and causes including LGBTQ+ rights.
-
----
-
-## Early Life & Background
-
-Dua Lipa was born on August 22, 1995, in London, England, to Kosovar Albanian parents Dukagjin Lipa, a rock musician, and Anesa Lipa. She spent much of her childhood between London and Pristina, Kosovo, after her family relocated there in 2006. She attended Pristina's American School of Kosovo before returning to London at age 15 to pursue a career in music.
-
-Back in London, she worked as a model for Next and as a waitress to support herself while pursuing singing. She attended the Sylvia Young Theatre School part-time and began posting covers online, which drew early industry attention.
+除了音乐，她还成为了一位文化偶像——一位时尚偶像、活动家和企业家，她的影响力延伸到对科索沃文化认同的倡导以及包括LGBTQ+权利在内的事业。
 
 ---
 
-## Rise to Prominence
+## 早年生活与背景
 
-Lipa signed with Tap Music in 2014 and later with Warner Music Group. Her self-titled debut album was released in June 2017, featuring singles including "Be the One," "IDGAF," and "New Rules." "New Rules" became a breakthrough hit, reaching number one in the UK and peaking at number six in the United States, and its music video became a cultural moment, amassing over two billion YouTube views.
+杜阿·利帕于1995年8月22日出生在英格兰伦敦，父母是科索沃阿尔巴尼亚人，父亲 Dukagjin Lipa 是一位摇滚音乐家，母亲 Anesa Lipa。她的童年大部分时间都在伦敦和科索沃的普里什蒂纳之间度过，因为她的家人于2006年搬迁至此。在15岁返回伦敦追求音乐事业之前，她曾在普里什蒂纳的美国科索沃学校就读。
 
-In 2018, she won two BRIT Awards for British Female Solo Artist and British Breakthrough Act. Her collaboration with Calvin Harris, "One Kiss" (2018), spent eight weeks at number one in the UK.
-
----
-
-## Key Achievements
-
-Her second studio album, *Future Nostalgia* (April 2020), was released during the COVID-19 pandemic and became one of the most acclaimed pop albums of the decade. It won the Grammy Award for Best Pop Vocal Album in 2021 and spawned hits including "Don't Start Now," "Levitating," and "Physical." "Levitating" spent a record-breaking 77 weeks on the Billboard Hot 100.
-
-She has received six Grammy nominations, winning two, alongside multiple BRIT, MTV EMA, and Billboard Music Awards. *Future Nostalgia* was ranked among the best albums of the 2020s by numerous publications.
-
-Her third album, *Radical Optimism*, was released in May 2024 and debuted at number one in the UK.
+回到伦敦后，她曾为Next模特公司担任模特，并做女服务员以维持生计，同时追求歌唱事业。她曾半日制就读于西尔维亚·杨戏剧学校，并开始在网上发布翻唱歌曲，引起了早期业界的关注。
 
 ---
 
-## Controversies & Criticism
+## 崭露头角
 
-Lipa has faced criticism for her public political positions, particularly regarding the Israeli-Palestinian conflict, where she expressed support for Palestinian civilians on social media. She also received backlash in 2021 over her attendance at large social gatherings during COVID-19 restrictions.
+利帕于2014年与Tap Music签约，随后与华纳音乐集团签约。她的同名首张专辑于2017年6月发行，其中包括单曲“Be the One”、“IDGAF”和“New Rules”。“New Rules”成为一首突破性热门歌曲，在英国排行榜上名列第一，在美国排行榜上达到第六名，其音乐视频成为一个文化时刻，在YouTube上的观看次数超过20亿。
 
-She has been subject to copyright infringement lawsuits, including a 2023 case alleging "Levitating" borrowed elements from a 1979 reggae song, though a federal judge dismissed the suit in 2023.
-
----
-
-## Legacy & Influence
-
-Lipa is credited with helping revive disco and synth-pop aesthetics in mainstream pop music. *Future Nostalgia* influenced a wave of artists and producers who adopted its polished, retro-forward sound. She has been cited as a blueprint for modern pop stardom: critically respected, commercially dominant, and culturally engaged.
-
-Her Albanian heritage has made her a prominent symbol of pride for the Albanian diaspora, and she was awarded honorary citizenship by Kosovo in 2020.
+2018年，她凭借“最佳英国女性独唱艺术家”和“英国突破艺人”两项BRIT奖。她与Calvin Harris合作的歌曲《One Kiss》（2018）在英国排行榜上蝉联了八周冠军。
 
 ---
 
-## References
+## 主要成就
 
-| Source | Link |
+她的第二张录音室专辑《Future Nostalgia》（2020年4月）在COVID-19大流行期间发行，并成为十年来最受好评的流行专辑之一。它在2021年获得了格莱美奖“最佳流行声乐专辑”奖，并诞生了包括“Don't Start Now”、“Levitating”和“Physical”在内的热门歌曲。“Levitating”在美国Billboard Hot 100排行榜上创下了77周的记录。
+
+她获得了六项格莱美奖提名，赢得了两项，此外还获得了多个BRIT奖、MTV EMA奖和Billboard音乐奖。《Future Nostalgia》被多家出版物评为2020年代最佳专辑之一。
+
+她的第三张专辑《Radical Optimism》于2024年5月发行，并登顶英国专辑排行榜榜首。
+
+---
+
+## 争议与批评
+
+利帕因其公开的政治立场而受到批评，特别是在以色列-巴勒斯坦冲突问题上，她曾在社交媒体上表达对巴勒斯坦平民的支持。她还在2021年因在COVID-19限制期间参加大型社交聚会而受到强烈抨击。
+
+她曾面临侵犯版权的诉讼，包括2023年一项指控“Levitating”借鉴了1979年雷鬼歌曲的元素，尽管联邦法官在2023年驳回了该诉讼。
+
+---
+
+## 传承与影响力
+
+利帕被认为帮助复兴了主流流行音乐中的迪斯科和合成器流行美学。《Future Nostalgia》影响了大量采纳其精致、复古前沿声音的艺术家和制作人。她被誉为现代流行巨星的蓝图：备受评论界尊重，商业上占据主导地位，并积极参与文化事务。
+
+她的阿尔巴尼亚血统使她成为阿尔巴尼亚侨民的杰出骄傲象征，并于2020年被科索沃授予荣誉公民身份。
+
+---
+
+## 参考资料
+
+| 来源 | 链接 |
 |--------|------|
 | Wikipedia | https://en.wikipedia.org/wiki/Dua_Lipa |
-```

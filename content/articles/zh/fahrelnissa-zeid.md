@@ -1,6 +1,6 @@
 ---
 id: "fahrelnissa-zeid"
-name: "法赫尔尼萨·泽德"
+name: "法赫雷尔尼萨·泽伊德"
 birth: "1901-01-07"
 death: "1991-09-05"
 nationality: "Turkish-Jordanian"
@@ -11,20 +11,20 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 概述
+## 简介
 
-土耳其画家，创作了将伊斯兰书法与欧洲抽象艺术相结合的大型抽象画作。她是中东地区最重要的现代主义艺术家之一。
+土耳其画家，创作了融合伊斯兰书法与欧洲抽象艺术的宏大抽象画作。她是中东最重要的现代主义艺术家之一。
 
-## 生涯年表
+## 职业生涯时间表
 
 | 年份 | 事件 |
 |------|-------|
 | 1901 | 出生于伊斯坦布尔 |
-| 1944 | 举办首次个展 |
-| 1948 | 在巴黎展出 |
+| 1944 | 首次个人画展 |
+| 1948 | 在巴黎展出作品 |
 | 1975 | 定居约旦安曼 |
-| 1991 | 在安曼逝世 |
+| 1991 | 在安曼去世 |
 
 ## 参考资料
 
-[^1]: Wikipedia, "Fahrelnissa Zeid" - https://en.wikipedia.org/wiki/Fahrelnissa_Zeid
+[^1]: 维基百科，“法赫雷尔尼萨·泽伊德” - https://en.wikipedia.org/wiki/Fahrelnissa_Zeid

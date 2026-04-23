@@ -1,1 +1,54 @@
-The article has been written to `content/articles/father-divine.md`. It covers Father Divine's origins as George Baker Jr. in 1870s Maryland, his rise through Depression-era communal banquets and the famous Judge Smith incident, the Peace Mission Movement's achievements in racial integration and cooperative economics, controversies around his claims of divinity and authoritarian leadership, and his lasting legacy as a precursor to the Civil Rights Movement.
+---
+name: Father Divine
+birth: c. 1870s
+death: 1965-09-21
+nationality: American
+occupation: Religious leader
+socialLinks:
+  - name: Wikipedia
+    url: https://en.wikipedia.org/wiki/Father_Divine
+lastUpdated: 2023-10-27T04:39:13.857Z
+image: /assets/images/father-divine.jpg
+---
+
+## 摘要
+
+Father Divine (c. 1870s – 1965年9月21日) 是一位非裔美国宗教领袖，他在20世纪30年代大萧条时期通过其和平使命运动（Peace Mission Movement）声名鹊起。他以其在种族融合、合作经济和社区生活方面的成就而闻名，尽管他也因其神性主张和领导风格而备受争议。
+
+## 生平
+
+George Baker Jr. 据信出生于19世纪70年代的马里兰州，他早年的生活鲜为人知。他最初的活动可以追溯到20世纪初，当时他以“Father Jehoviah”等名号在纽约市的哈林区建立追随者。
+
+## 和平使命运动的兴起
+
+Father Divine 的名声在20世纪30年代随着他组织的和平使命运动而迅速增长。该运动吸引了各种背景的人们，特别是那些在大萧条时期面临贫困和歧视的非裔美国人。
+
+他的追随者居住在他的“联合社区”（United Communities）中，这些社区提供免费的食宿，作为交换，追随者们将自己的财产交给运动。免费盛宴（"Free Banquets"）是运动的一个标志性特征，这些盛宴向所有人开放，无论种族或社会经济地位如何，为在隔离和种族隔离盛行的时代提供了重要的社会融合空间。
+
+## 职业生涯大事记
+
+| 年份       | 事件                                                                                                                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1931年     | Father Divine 因扰乱公共秩序被捕，据称与一起导致一名官员（Judge Smith）死亡的事件有关。此事件大大提高了他在公众中的知名度。                                                                                       |
+| 1930年代   | 和平使命运动在美国各地，特别是纽约市和费城，开设了许多社区，提供免费食宿并推行合作经济模式。                                                                                                                                  |
+| 1930年代末 | 运动的财产和财富大幅增长，导致税务机关对其财务状况提出质疑。                                                                                                                                                             |
+| 1940年代   | Father Divine 将总部迁至加利福尼亚州，继续扩大运动的影响力。                                                                                                                                                          |
+| 1950年代   | 运动在房地产、农业和出版业等方面取得了商业成功。                                                                                                                                                             |
+| 1965年     | Father Divine 在费城去世。                                                                                                                                                                              |
+
+## 争议与批评
+
+Father Divine 的神性主张（他声称自己是上帝在世的化身）引发了广泛的争议和质疑。批评者认为他是一位威权主义领袖，操纵追随者放弃财产。围绕他的许多法律纠纷和公众审判进一步加剧了这些争议。
+
+## 种族融合与合作经济
+
+尽管存在争议，和平使命运动在促进种族融合方面发挥了重要作用。在其社区中，不同种族的人们共同生活和工作，打破了当时普遍存在的社会障碍。运动的合作经济模式也为追随者提供了一种自给自足和集体力量的途径。
+
+## 遗产
+
+Father Divine 和他的和平使命运动被许多人视为民权运动的早期先驱。他对种族平等、经济公正和社会融合的关注，为后来的民权运动奠定了基础。他的运动在黑人社区中提供了一种赋权和团结的模式，并在一定程度上挑战了根深蒂固的种族主义结构。
+
+## 参考资料
+
+[^1]: "Father Divine." *Wikipedia*, Wikimedia Foundation, en.wikipedia.org/wiki/Father_Divine.
+[^2]: "Father Divine." *Britannica*, Encyclopædia Britannica, www.britannica.com/biography/Father-Divine.

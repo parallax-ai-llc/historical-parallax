@@ -1,6 +1,6 @@
 ---
 id: "grafton-architects-yvonne-farrell"
-name: "格拉夫顿建筑事务所（伊冯·法雷尔）"
+name: "格拉夫顿建筑事务所 (伊冯·法雷尔)"
 birth: "1951-01-01"
 death: "Unknown"
 nationality: "Irish"
@@ -11,11 +11,11 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 概述
+## 简介
 
-伊冯·法雷尔与谢莉·麦克纳马拉共同创立了格拉夫顿建筑事务所，并于2020年共同荣获普利兹克奖。她们设计的大胆混凝土建筑，包括利马的UTEC大学，体现了对公民慷慨精神和建筑工艺的执着追求。
+伊冯·法雷尔（Yvonne Farrell）与谢莉·麦克纳马拉（Shelley McNamara）共同创立了格拉夫顿建筑事务所（Grafton Architects），并于2020年荣获普利兹克建筑奖。她们的代表作包括利马的UTEC大学，这些大胆的水泥建筑展现了对公民慷慨和建筑技艺的追求。
 
-## 职业生涯年表
+## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
@@ -24,8 +24,8 @@ lastUpdated: "2026-02-21"
 | 2008 | 完成米兰博科尼大学项目 |
 | 2015 | 完成利马UTEC大学项目 |
 | 2018 | 策展威尼斯建筑双年展 |
-| 2020 | 荣获普利兹克奖 |
+| 2020 | 荣获普利兹克建筑奖 |
 
 ## 参考资料
 
-[^1]: 维基百科，"Grafton Architects (Yvonne Farrell)" - https://en.wikipedia.org/wiki/Grafton_Architects_(Yvonne_Farrell)
+[^1]: Wikipedia, "Grafton Architects (Yvonne Farrell)" - https://en.wikipedia.org/wiki/Grafton_Architects_(Yvonne_Farrell)
