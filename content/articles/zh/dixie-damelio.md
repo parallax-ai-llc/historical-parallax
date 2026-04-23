@@ -1,0 +1,1 @@
+Article written to `content/articles/dixie-damelio.md`. It covers her Connecticut upbringing, TikTok rise alongside Charli, HitCo record deal and "Be Happy" debut, the D'Amelio Show on Hulu, the chef dinner controversy, and her influence on the creator-to-entertainer pipeline — all within ~560 words of body content.

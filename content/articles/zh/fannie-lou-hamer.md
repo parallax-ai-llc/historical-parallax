@@ -1,0 +1,1 @@
+The article has been written to `content/articles/fannie-lou-hamer.md`. It covers Hamer's life from sharecropper to civil rights icon, including her SNCC work, the 1964 DNC testimony, the Mississippi Freedom Democratic Party, and the Freedom Farm Cooperative — approximately 570 words of body content.

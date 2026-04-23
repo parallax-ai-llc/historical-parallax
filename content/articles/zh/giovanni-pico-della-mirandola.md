@@ -1,0 +1,1 @@
+The article has been written to `content/articles/giovanni-pico-della-mirandola.md`. It covers his life from 1463–1494, including his prodigious education, the 900 Theses and *Oration on the Dignity of Man*, the papal condemnation, and his lasting influence on Renaissance humanism and Christian Kabbalah.
