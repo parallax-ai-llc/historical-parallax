@@ -28,6 +28,22 @@ const nextConfig = {
     optimizePackageImports: ["lucide-react"],
   },
 
+  outputFileTracingExcludes: {
+    "*": [
+      "./content/articles/ar/**",
+      "./content/articles/bn/**",
+      "./content/articles/es/**",
+      "./content/articles/fr/**",
+      "./content/articles/hi/**",
+      "./content/articles/ja/**",
+      "./content/articles/ko/**",
+      "./content/articles/pt/**",
+      "./content/articles/ru/**",
+      "./content/articles/zh/**",
+      "./messages/**",
+    ],
+  },
+
   async headers() {
     return [
       {
