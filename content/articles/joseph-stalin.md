@@ -5,7 +5,7 @@ birth: "1878-12-18"
 death: "1953-03-05"
 nationality: "Soviet Union"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Stalin_Full_Image.jpg/800px-Stalin_Full_Image.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joseph_Stalin"
 lastUpdated: "2026-02-21"

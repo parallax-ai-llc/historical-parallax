@@ -4,6 +4,7 @@ birth: "1869-10-02"
 death: "1948-01-30"
 nationality: "Indian"
 occupation: ["Lawyer", "Independence Leader", "Political Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio_1931.jpg/800px-Mahatma-Gandhi%2C_studio_1931.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
 lastUpdated: "2025-12-22"

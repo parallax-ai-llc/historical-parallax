@@ -4,6 +4,7 @@ birth: "4 BC"
 death: "30-33 AD" 
 nationality: "Jewish (Judea, Roman Empire)"
 occupation: ["Religious Leader", "Prophet", "Messiah (Christianity)", "Teacher"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Spas_vsederzhitel_sinay.jpg/800px-Spas_vsederzhitel_sinay.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jesus"
 lastUpdated: "2025-12-22"

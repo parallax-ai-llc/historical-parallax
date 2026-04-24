@@ -4,6 +4,7 @@ birth: "1955-02-24"
 death: "2011-10-05"
 nationality: "American"
 occupation: ["Entrepreneur", "Inventor", "Business Magnate"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/800px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Steve_Jobs"
 lastUpdated: "2025-12-22"

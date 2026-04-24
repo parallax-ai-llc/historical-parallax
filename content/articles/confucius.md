@@ -4,6 +4,7 @@ birth: "551 BC"
 death: "479 BC"
 nationality: "Chinese (State of Lu)"
 occupation: ["Philosopher", "Teacher", "Political Theorist", "Sage"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Confucius_Tang_Dynasty.jpg/800px-Confucius_Tang_Dynasty.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Confucius"
 lastUpdated: "2025-12-22"

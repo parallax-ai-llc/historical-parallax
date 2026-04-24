@@ -4,6 +4,7 @@ birth: "1867-11-07"
 death: "1934-07-04"
 nationality: "Polish, French"
 occupation: ["Physicist", "Chemist", "Nobel Laureate", "Professor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/800px-Marie_Curie_c._1920s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marie_Curie"
 lastUpdated: "2025-12-22"

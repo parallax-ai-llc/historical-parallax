@@ -4,6 +4,7 @@ birth: "1856-07-10"
 death: "1943-01-07"
 nationality: "Serbian-American"
 occupation: ["Inventor", "Electrical Engineer", "Physicist", "Futurist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/800px-Tesla_circa_1890.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nikola_Tesla"
 lastUpdated: "2025-12-22"

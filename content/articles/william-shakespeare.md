@@ -4,6 +4,7 @@ birth: "1564-04-26"
 death: "1616-04-23"
 nationality: "English"
 occupation: ["Playwright", "Poet", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/800px-Shakespeare.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Shakespeare"
 lastUpdated: "2025-12-22"

@@ -4,6 +4,7 @@ birth: "100 BC-07-12"
 death: "44 BC-03-15"
 nationality: Roman
 occupation: ["Dictator of Rome", "Military Commander", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaius_Iulius_Caesar_%28Vatican_Museum%29.jpg/800px-Gaius_Iulius_Caesar_%28Vatican_Museum%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Julius_Caesar"
 lastUpdated: "2025-12-22"

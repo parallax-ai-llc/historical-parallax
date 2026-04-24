@@ -4,6 +4,7 @@ birth: "1847-02-11"
 death: "1931-10-18"
 nationality: "American"
 occupation: ["Inventor", "Businessman"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thomas_Edison2-crop.jpg/800px-Thomas_Edison2-crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thomas_Edison"
 lastUpdated: "2025-12-22"

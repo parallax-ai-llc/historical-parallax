@@ -4,6 +4,7 @@ birth: "1929-01-15"
 death: "1968-04-04"
 nationality: "American"
 occupation: ["Baptist Minister", "Civil Rights Leader", "Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
 lastUpdated: "2025-12-22"

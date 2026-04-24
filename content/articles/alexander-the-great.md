@@ -4,6 +4,7 @@ birth: "356 BC-07-20"
 death: "323 BC-06-10"
 nationality: Macedonian
 occupation: ["King of Macedonia", "Pharaoh of Egypt", "Shah of Persia", "Military Commander"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alexander_the_Great_mosaic.jpg/800px-Alexander_the_Great_mosaic.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_the_Great"
 lastUpdated: "2025-12-22"

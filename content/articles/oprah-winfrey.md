@@ -5,7 +5,7 @@ birth: "1954-01-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/800px-Oprah_in_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oprah_Winfrey"
 lastUpdated: "2026-02-21"

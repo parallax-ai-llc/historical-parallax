@@ -4,6 +4,7 @@ birth: "1899-07-21"
 death: "1961-07-02"
 nationality: "American"
 occupation: ["Novelist", "Journalist", "Short Story Writer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/800px-ErnestHemingway.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ernest_Hemingway"
 lastUpdated: "2025-12-22"

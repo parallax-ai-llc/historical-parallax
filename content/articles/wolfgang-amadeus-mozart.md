@@ -4,6 +4,7 @@ birth: "1756-01-27"
 death: "1791-12-05"
 nationality: "Austrian (Salzburg)"
 occupation: ["Composer", "Pianist", "Violinist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/800px-Wolfgang-amadeus-mozart_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
 lastUpdated: "2025-12-22"

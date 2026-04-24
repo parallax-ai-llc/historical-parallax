@@ -3,6 +3,7 @@ name: Bill Gates
 birth: "1955-10-28"
 nationality: American
 occupation: ["Business Magnate", "Philanthropist", "Microsoft Co-founder"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/800px-Bill_Gates_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bill_Gates"
 lastUpdated: "2025-12-22"

@@ -4,6 +4,7 @@ birth: "1942-01-17"
 death: "2016-06-03"
 nationality: "American"
 occupation: ["Boxer", "Activist", "Philanthropist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Muhammad_Ali_NYWTS.jpg/800px-Muhammad_Ali_NYWTS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Muhammad_Ali"
 lastUpdated: "2025-12-22"

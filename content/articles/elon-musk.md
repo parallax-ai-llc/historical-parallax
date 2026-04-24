@@ -3,6 +3,7 @@ name: Elon Musk
 birth: "1971-06-28"
 nationality: South African, Canadian, American
 occupation: ["Entrepreneur", "CEO", "Engineer", "Inventor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/800px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elon_Musk"
 lastUpdated: "2025-12-22"

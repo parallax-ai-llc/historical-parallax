@@ -4,6 +4,7 @@ birth: "1963-02-17"
 death: null
 nationality: "American"
 occupation: ["Basketball Player", "Business Owner", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Michael_Jordan_in_2014.jpg/800px-Michael_Jordan_in_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Jordan"
 lastUpdated: "2025-12-22"

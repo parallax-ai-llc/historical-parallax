@@ -4,6 +4,7 @@ birth: "1940-10-23"
 death: "2022-12-29"
 nationality: "Brazilian"
 occupation: ["Football Player", "Sports Minister", "Ambassador"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pele_by_John_Mathew_Smith.jpg/800px-Pele_by_John_Mathew_Smith.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pel%C3%A9"
 lastUpdated: "2025-12-22"

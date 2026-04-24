@@ -4,6 +4,7 @@ birth: "69 BCE"
 death: "30 BCE-08-12"
 nationality: "Egyptian (Ptolemaic)"
 occupation: ["Pharaoh", "Queen"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/800px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cleopatra"
 lastUpdated: "2025-12-22"

@@ -3,6 +3,7 @@ name: "Queen Elizabeth II"
 birth: "1926-04-21"
 nationality: "British"
 occupation: ["Monarch", "Head of State", "Queen"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Queen_Elizabeth_II_in_March_2015.jpg/800px-Queen_Elizabeth_II_in_March_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_II"
 lastUpdated: "2026-03-12"

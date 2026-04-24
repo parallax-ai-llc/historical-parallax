@@ -3,6 +3,7 @@ name: George W. Bush
 birth: "1946-07-06"
 nationality: American
 occupation: ["43rd President of the United States", "Governor of Texas"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/800px-George-W-Bush.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_W._Bush"
 lastUpdated: "2025-12-22"

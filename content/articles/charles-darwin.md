@@ -4,6 +4,7 @@ birth: "1809-02-12"
 death: "1882-04-19"
 nationality: "British (English)"
 occupation: ["Naturalist", "Biologist", "Geologist", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/800px-Charles_Darwin_seated_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Darwin"
 lastUpdated: "2025-12-22"

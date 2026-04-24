@@ -4,6 +4,7 @@ birth: "1879-03-14"
 death: "1955-04-18"
 nationality: "German, Swiss, American"
 occupation: ["Theoretical Physicist", "Scientist", "Nobel Laureate", "Philosopher of Science"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/800px-Albert_Einstein_Head.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Einstein"
 lastUpdated: "2025-12-22"

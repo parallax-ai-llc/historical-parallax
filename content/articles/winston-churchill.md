@@ -5,7 +5,7 @@ birth: "1874-11-30"
 death: "1965-01-24"
 nationality: "United Kingdom"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Winston_Churchill"
 lastUpdated: "2026-02-26"

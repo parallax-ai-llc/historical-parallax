@@ -4,6 +4,7 @@ birth: "1942-01-08"
 death: "2018-03-14"
 nationality: British
 occupation: ["Theoretical Physicist", "Cosmologist", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/800px-Stephen_Hawking.StarChild.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Stephen_Hawking"
 lastUpdated: "2025-12-22"

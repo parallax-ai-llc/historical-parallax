@@ -4,6 +4,7 @@ birth: "1643-01-04"
 death: "1727-03-31"
 nationality: "English"
 occupation: ["Physicist", "Mathematician", "Astronomer", "Natural Philosopher", "Alchemist", "Theologian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Isaac_Newton"
 lastUpdated: "2025-12-22"

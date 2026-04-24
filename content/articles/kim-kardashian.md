@@ -3,6 +3,7 @@ name: "Kim Kardashian"
 birth: "1980-10-21"
 nationality: "American"
 occupation: ["Reality TV Star", "Entrepreneur", "Media Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kim_Kardashian_2019.jpg/800px-Kim_Kardashian_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Kardashian"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1926-08-13"
 death: "2016-11-25"
 nationality: "Cuba"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CheyFidel.jpg/800px-CheyFidel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fidel_Castro"
 lastUpdated: "2026-02-21"

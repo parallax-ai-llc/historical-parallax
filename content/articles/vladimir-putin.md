@@ -3,6 +3,7 @@ name: Vladimir Putin
 birth: "1952-10-07"
 nationality: Russian
 occupation: ["President of Russia", "Prime Minister", "Former KGB Officer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Vladimir_Putin_-_2016-06-23_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Putin"
 lastUpdated: "2025-12-22"

@@ -4,6 +4,7 @@ birth: "1958-08-29"
 death: "2009-06-25"
 nationality: American
 occupation: ["Singer", "Songwriter", "Dancer", "Entertainer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Michael_Jackson_in_1988.jpg/800px-Michael_Jackson_in_1988.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Jackson"
 lastUpdated: "2025-12-22"

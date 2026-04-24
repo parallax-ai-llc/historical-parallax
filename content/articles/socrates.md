@@ -4,6 +4,7 @@ birth: "470 BC"
 death: "399 BC"
 nationality: "Greek (Athens)"
 occupation: ["Philosopher", "Teacher"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Socrates_Louvre.jpg/800px-Socrates_Louvre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Socrates"
 lastUpdated: "2025-12-22"

@@ -4,6 +4,7 @@ birth: "1769-08-15"
 death: "1821-05-05"
 nationality: "French (Corsican-born)"
 occupation: ["Military Commander", "Emperor", "Statesman"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/800px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Napoleon"
 lastUpdated: "2025-12-22"

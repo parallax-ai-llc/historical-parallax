@@ -4,6 +4,7 @@ birth: "1452-04-15"
 death: "1519-05-02"
 nationality: "Italian (Florentine)"
 occupation: ["Artist", "Scientist", "Inventor", "Polymath"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Francesco_Melzi_-_Portrait_of_Leonardo_-_WGA14795.jpg/800px-Francesco_Melzi_-_Portrait_of_Leonardo_-_WGA14795.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
 lastUpdated: "2025-12-22"

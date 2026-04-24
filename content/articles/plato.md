@@ -4,6 +4,7 @@ birth: "428/427 BC"
 death: "348/347 BC"
 nationality: "Greek (Athens)"
 occupation: ["Philosopher", "Mathematician", "Founder of the Academy"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plato_Silanion_Musei_Capitolini_MC1377.jpg/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Plato"
 lastUpdated: "2025-12-22"

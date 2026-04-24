@@ -4,6 +4,7 @@ birth: "1770-12-17"
 death: "1827-03-26"
 nationality: "German"
 occupation: ["Composer", "Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/800px-Beethoven.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
 lastUpdated: "2025-12-22"

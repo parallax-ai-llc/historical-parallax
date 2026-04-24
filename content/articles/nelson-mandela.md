@@ -4,6 +4,7 @@ birth: "1918-07-18"
 death: "2013-12-05"
 nationality: "South African"
 occupation: ["Anti-Apartheid Revolutionary", "President", "Political Leader"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/800px-Nelson_Mandela_1994.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nelson_Mandela"
 lastUpdated: "2025-12-22"

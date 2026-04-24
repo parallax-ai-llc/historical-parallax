@@ -4,6 +4,7 @@ birth: "1984-05-14"
 death: null
 nationality: "American"
 occupation: ["Entrepreneur", "Business Magnate", "Philanthropist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/800px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mark_Zuckerberg"
 lastUpdated: "2025-12-22"

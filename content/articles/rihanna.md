@@ -5,7 +5,7 @@ birth: "1988-02-20"
 death: "Unknown"
 nationality: "Barbadian"
 occupation: ["Entrepreneur", "Musician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rihanna_Fenty_2018.png/800px-Rihanna_Fenty_2018.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rihanna"
 lastUpdated: "2026-02-21"

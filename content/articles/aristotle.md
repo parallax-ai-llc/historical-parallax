@@ -4,6 +4,7 @@ birth: "384 BC"
 death: "322 BC"
 nationality: "Greek (Stagira, Macedon)"
 occupation: ["Philosopher", "Scientist", "Tutor of Alexander the Great"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/800px-Aristotle_Altemps_Inv8575.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aristotle"
 lastUpdated: "2025-12-22"

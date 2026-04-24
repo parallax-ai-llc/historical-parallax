@@ -4,6 +4,7 @@ birth: "1981-09-26"
 death: null
 nationality: "American"
 occupation: ["Tennis Player", "Entrepreneur", "Investor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Serena_Williams_at_2013_US_Open.jpg/800px-Serena_Williams_at_2013_US_Open.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Serena_Williams"
 lastUpdated: "2025-12-22"

@@ -4,6 +4,7 @@ birth: "1930-08-30"
 death: null
 nationality: "American"
 occupation: ["Investor", "Business Magnate", "Philanthropist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Warren_Buffett_KU_Visit.jpg/800px-Warren_Buffett_KU_Visit.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Warren_Buffett"
 lastUpdated: "2025-12-22"

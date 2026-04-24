@@ -4,6 +4,7 @@ birth: "1475-03-06"
 death: "1564-02-18"
 nationality: "Italian (Florentine)"
 occupation: ["Sculptor", "Painter", "Architect", "Poet"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/800px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michelangelo"
 lastUpdated: "2025-12-22"

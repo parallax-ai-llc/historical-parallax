@@ -4,6 +4,7 @@ birth: "1564-02-15"
 death: "1642-01-08"
 nationality: "Italian (Grand Duchy of Tuscany)"
 occupation: ["Astronomer", "Physicist", "Mathematician", "Philosopher"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/800px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Galileo_Galilei"
 lastUpdated: "2025-12-22"

@@ -3,6 +3,7 @@ name: "Abraham Lincoln"
 birth: "1809-02-12"
 nationality: "American"
 occupation: ["Politician", "Lawyer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abraham_Lincoln"
 lastUpdated: "2026-03-12"

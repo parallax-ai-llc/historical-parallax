@@ -3,6 +3,7 @@ name: "Franklin D. Roosevelt"
 birth: "1882-01-30"
 nationality: "American"
 occupation: ["Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/FDR_1944_Color_Portrait.jpg/800px-FDR_1944_Color_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
 lastUpdated: "2026-03-12"

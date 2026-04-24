@@ -4,6 +4,7 @@ birth: "1881-10-25"
 death: "1973-04-08"
 nationality: "Spanish"
 occupation: ["Painter", "Sculptor", "Printmaker", "Ceramicist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pablo_picasso_1.jpg/800px-Pablo_picasso_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pablo_Picasso"
 lastUpdated: "2025-12-22"

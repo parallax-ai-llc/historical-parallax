@@ -4,6 +4,7 @@ birth: "1853-03-30"
 death: "1890-07-29"
 nationality: "Dutch"
 occupation: ["Painter", "Draftsman"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/800px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
 lastUpdated: "2025-12-22"
