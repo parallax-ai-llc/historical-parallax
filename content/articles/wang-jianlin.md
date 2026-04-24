@@ -5,7 +5,7 @@ birth: "1954-10-24"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Wang_Jianlin.jpg/800px-Wang_Jianlin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Jianlin"
 lastUpdated: "2026-02-21"

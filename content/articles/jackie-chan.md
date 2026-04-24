@@ -3,6 +3,7 @@ name: "Jackie Chan"
 birth: "1954-04-07"
 nationality: "Hong Kong"
 occupation: ["Actor", "Martial Artist", "Stuntman", "Director"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jackie_Chan_July_2016.jpg/800px-Jackie_Chan_July_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jackie_Chan"
 lastUpdated: "2026-03-12"

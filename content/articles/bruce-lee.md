@@ -5,7 +5,7 @@ birth: "1940-11-27"
 death: "1973-07-20"
 nationality: "American/Chinese"
 occupation: ["Martial Artist", "Actor", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bruce_Lee_1973.jpg/800px-Bruce_Lee_1973.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bruce_Lee"
 lastUpdated: "2026-02-26"

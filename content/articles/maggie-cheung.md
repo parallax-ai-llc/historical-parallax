@@ -3,6 +3,7 @@ name: "Maggie Cheung"
 birth: "1964-09-20"
 nationality: "Hong Kong"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maggie_Cheung_Cannes_2007.jpg/800px-Maggie_Cheung_Cannes_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maggie_Cheung"
 lastUpdated: "2026-03-12"

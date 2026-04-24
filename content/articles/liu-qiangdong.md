@@ -3,6 +3,7 @@ name: "Liu Qiangdong"
 birth: "1974-02-14"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "CEO"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Liu_Qiangdong_2018.jpg/800px-Liu_Qiangdong_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Liu_Qiangdong"
 lastUpdated: "2026-03-12"

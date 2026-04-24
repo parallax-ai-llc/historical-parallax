@@ -5,7 +5,7 @@ birth: "1971-10-29"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pony_Ma_in_2007.jpg/800px-Pony_Ma_in_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ma_Huateng"
 lastUpdated: "2026-02-21"

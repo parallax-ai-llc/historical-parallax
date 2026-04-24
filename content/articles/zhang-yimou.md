@@ -5,7 +5,7 @@ birth: "1950-04-02"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Director", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Zhang_Yimou_Cannes_2013.jpg/800px-Zhang_Yimou_Cannes_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zhang_Yimou"
 lastUpdated: "2026-02-26"

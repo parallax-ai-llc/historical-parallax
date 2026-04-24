@@ -5,7 +5,7 @@ birth: "1983-04-01"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Zhang_Yiming_CEO_of_ByteDance.jpg/800px-Zhang_Yiming_CEO_of_ByteDance.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zhang_Yiming"
 lastUpdated: "2026-02-21"

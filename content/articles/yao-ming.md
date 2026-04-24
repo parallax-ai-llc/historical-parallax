@@ -5,7 +5,7 @@ birth: "1980-09-12"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Athlete", "Basketball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Yao_Ming_in_2011.jpg/800px-Yao_Ming_in_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yao_Ming"
 lastUpdated: "2026-02-26"

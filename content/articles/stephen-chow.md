@@ -3,6 +3,7 @@ name: "Stephen Chow"
 birth: "1962-06-22"
 nationality: "Hong Kong"
 occupation: ["Actor", "Director", "Producer", "Screenwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Stephen_Chow_cropped.jpg/800px-Stephen_Chow_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Stephen_Chow"
 lastUpdated: "2026-03-12"

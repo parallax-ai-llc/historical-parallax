@@ -3,6 +3,7 @@ name: "Chow Yun-fat"
 birth: "1955-05-18"
 nationality: "Hong Kong"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Chow_Yun-fat_Cannes_2007.jpg/800px-Chow_Yun-fat_Cannes_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chow_Yun-fat"
 lastUpdated: "2026-03-12"

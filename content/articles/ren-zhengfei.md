@@ -5,7 +5,7 @@ birth: "1944-10-25"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ren_Zhengfei_2014.jpg/800px-Ren_Zhengfei_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ren_Zhengfei"
 lastUpdated: "2026-02-21"

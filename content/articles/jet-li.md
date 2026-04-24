@@ -3,6 +3,7 @@ name: "Jet Li"
 birth: "1963-04-26"
 nationality: "Chinese"
 occupation: ["Actor", "Martial Artist", "Film Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jet_Li_AAFF_2009.jpg/800px-Jet_Li_AAFF_2009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jet_Li"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Gong Li"
 birth: "1965-12-31"
 nationality: "Chinese"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gong_Li_Cannes_2014_2.jpg/800px-Gong_Li_Cannes_2014_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gong_Li"
 lastUpdated: "2026-03-12"

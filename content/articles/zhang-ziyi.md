@@ -3,6 +3,7 @@ name: "Zhang Ziyi"
 birth: "1979-02-09"
 nationality: "Chinese"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zhang_Ziyi_Cannes_2013.jpg/800px-Zhang_Ziyi_Cannes_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zhang_Ziyi"
 lastUpdated: "2026-03-12"

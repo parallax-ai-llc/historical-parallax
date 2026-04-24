@@ -4,6 +4,7 @@ birth: "c. 544 BCE"
 death: "c. 496 BCE"
 nationality: "Chinese (State of Wu)"
 occupation: ["Military Strategist", "General", "Philosopher"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Enchoen27n3200.jpg/800px-Enchoen27n3200.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sun_Tzu"
 lastUpdated: "2025-12-22"

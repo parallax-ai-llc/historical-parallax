@@ -3,6 +3,7 @@ name: "Andy Lau"
 birth: "1961-09-27"
 nationality: "Hong Kong"
 occupation: ["Actor", "Singer", "Lyricist", "Film Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Andy_Lau_2017.png/800px-Andy_Lau_2017.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andy_Lau"
 lastUpdated: "2026-03-12"

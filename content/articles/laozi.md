@@ -4,6 +4,7 @@ birth: "6th century BC (uncertain)"
 death: "Unknown"
 nationality: "Chinese (Zhou Dynasty)"
 occupation: ["Philosopher", "Sage", "Archivist", "Founder of Daoism"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%E8%80%81%E5%AD%90.jpg/800px-%E8%80%81%E5%AD%90.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laozi"
 lastUpdated: "2025-12-22"

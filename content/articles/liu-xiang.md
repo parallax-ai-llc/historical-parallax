@@ -5,7 +5,7 @@ birth: "1983-07-13"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Athlete", "Olympic Champion", "Hurdler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Liu_Xiang_2007_Osaka.jpg/800px-Liu_Xiang_2007_Osaka.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Liu_Xiang"
 lastUpdated: "2026-02-26"
