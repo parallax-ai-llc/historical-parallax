@@ -5,7 +5,7 @@ birth: "1968-06-23"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Politician", "Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jay_Y._Lee_at_2017.jpg/800px-Jay_Y._Lee_at_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Jae-yong"
 lastUpdated: "2026-02-21"

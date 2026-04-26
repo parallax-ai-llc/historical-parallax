@@ -3,6 +3,7 @@ name: Leonardo DiCaprio
 birth: "1974-11-11"
 nationality: American
 occupation: ["Actor", "Producer", "Environmental Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/800px-Leonardo_Dicaprio_Cannes_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonardo_DiCaprio"
 lastUpdated: "2025-12-22"

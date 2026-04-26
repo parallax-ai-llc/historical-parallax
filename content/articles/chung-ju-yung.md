@@ -5,7 +5,7 @@ birth: "1915-11-25"
 death: "2001-03-21"
 nationality: "Korean"
 occupation: ["Industrialist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chung_Ju-yung.jpg/800px-Chung_Ju-yung.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Ju-yung"
 lastUpdated: "2026-02-21"

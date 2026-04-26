@@ -4,6 +4,7 @@ birth: "1839-07-08"
 death: "1937-05-23"
 nationality: "American"
 occupation: ["Industrialist", "Business Magnate", "Philanthropist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_D._Rockefeller_1885.jpg/800px-John_D._Rockefeller_1885.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_D._Rockefeller"
 lastUpdated: "2025-12-22"

@@ -5,7 +5,7 @@ birth: "1915-12-12"
 death: "1998-05-14"
 nationality: "American"
 occupation: ["Singer", "Actor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frank_Sinatra_laughing_1957.jpg/800px-Frank_Sinatra_laughing_1957.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Frank_Sinatra"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1945-02-06"
 death: "1981-05-11"
 nationality: "Jamaican"
 occupation: ["Singer", "Songwriter", "Musician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bob-Marley.jpg/800px-Bob-Marley.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bob_Marley"
 lastUpdated: "2026-02-21"

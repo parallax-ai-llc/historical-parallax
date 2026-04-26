@@ -4,6 +4,7 @@ birth: "1903-06-25"
 death: "1950-01-21"
 nationality: "British"
 occupation: ["Novelist", "Essayist", "Journalist", "Critic"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/George_Orwell_press_photo.jpg/800px-George_Orwell_press_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_Orwell"
 lastUpdated: "2025-12-22"

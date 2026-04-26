@@ -5,7 +5,7 @@ birth: "1977-08-17"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Thierry_Henry_2018.jpg/800px-Thierry_Henry_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thierry_Henry"
 lastUpdated: "2026-02-26"

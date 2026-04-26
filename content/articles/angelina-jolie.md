@@ -3,6 +3,7 @@ name: "Angelina Jolie"
 birth: "1975-06-04"
 nationality: "American"
 occupation: ["Actress", "Filmmaker", "Humanitarian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Angelina_Jolie_2_June_2014_%28cropped%29.jpg/800px-Angelina_Jolie_2_June_2014_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angelina_Jolie"
 lastUpdated: "2026-03-12"

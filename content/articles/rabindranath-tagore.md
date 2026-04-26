@@ -5,7 +5,7 @@ birth: "1861-05-07"
 death: "1941-08-07"
 nationality: "Indian"
 occupation: ["Poet", "Novelist", "Playwright", "Composer", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rabindranath_Tagore_in_1909.jpg/800px-Rabindranath_Tagore_in_1909.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
 lastUpdated: "2026-02-21"

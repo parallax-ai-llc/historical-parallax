@@ -3,6 +3,7 @@ name: "Arthur Conan Doyle"
 birth: "1859-05-22"
 nationality: "British"
 occupation: ["Author", "Novelist", "Physician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Conan_doyle.jpg/800px-Conan_doyle.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
 lastUpdated: "2026-03-12"

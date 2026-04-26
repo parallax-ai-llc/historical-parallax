@@ -4,6 +4,7 @@ birth: "1883-07-03"
 death: "1924-06-03"
 nationality: "Bohemian (Austrian-Hungarian Empire)"
 occupation: ["Novelist", "Short Story Writer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kafka1906_cropped.jpg/800px-Kafka1906_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Franz_Kafka"
 lastUpdated: "2025-12-22"

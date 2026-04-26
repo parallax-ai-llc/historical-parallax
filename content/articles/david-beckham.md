@@ -5,7 +5,7 @@ birth: "1975-05-02"
 death: "Unknown"
 nationality: "English"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/David_Beckham_2018.jpg/800px-David_Beckham_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Beckham"
 lastUpdated: "2026-02-26"

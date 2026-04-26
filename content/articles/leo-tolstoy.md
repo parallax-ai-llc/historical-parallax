@@ -4,6 +4,7 @@ birth: "1828-09-09"
 death: "1910-11-20"
 nationality: "Russian"
 occupation: ["Novelist", "Philosopher", "Social Reformer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/L.N.Tolstoy_Prokudin-Gorsky.jpg/800px-L.N.Tolstoy_Prokudin-Gorsky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
 lastUpdated: "2025-12-22"

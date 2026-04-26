@@ -5,7 +5,7 @@ birth: "1988-09-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Basketball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kevin_Durant_2018.jpg/800px-Kevin_Durant_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_Durant"
 lastUpdated: "2026-02-21"

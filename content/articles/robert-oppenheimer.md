@@ -5,7 +5,7 @@ birth: "1904-04-22"
 death: "1967-02-18"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JROppenheimer-LosAlamos.jpg/800px-JROppenheimer-LosAlamos.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Oppenheimer"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1976-08-15"
 death: "Unknown"
 nationality: "Ethiopia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Prime_Minister_Abiy_Ahmed.jpg/800px-Prime_Minister_Abiy_Ahmed.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abiy_Ahmed"
 lastUpdated: "2026-02-26"

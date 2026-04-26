@@ -3,6 +3,7 @@ name: "Julia Roberts"
 birth: "1967-10-28"
 nationality: "American"
 occupation: ["Actress", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Julia_Roberts_2011_Shankbone_2.JPG/800px-Julia_Roberts_2011_Shankbone_2.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Julia_Roberts"
 lastUpdated: "2026-03-12"

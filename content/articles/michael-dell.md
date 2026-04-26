@@ -5,7 +5,7 @@ birth: "1965-02-23"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Michael_Dell_-_World_Economic_Forum_Annual_Meeting_2011_%28cropped%29.jpg/800px-Michael_Dell_-_World_Economic_Forum_Annual_Meeting_2011_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Dell"
 lastUpdated: "2026-02-21"

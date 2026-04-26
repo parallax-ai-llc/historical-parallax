@@ -3,6 +3,7 @@ name: "Scarlett Johansson"
 birth: "1984-11-22"
 nationality: "American"
 occupation: ["Actress", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Scarlett_Johansson_in_Kuwait_01b-tweaked.jpg/800px-Scarlett_Johansson_in_Kuwait_01b-tweaked.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Scarlett_Johansson"
 lastUpdated: "2026-03-12"

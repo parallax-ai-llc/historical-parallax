@@ -5,7 +5,7 @@ birth: "1942-01-09"
 death: "2020-10-25"
 nationality: "South Korea"
 occupation: ["Corrupt Politician", "Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lee_Kun-hee_at_a_meeting_in_2010.jpg/800px-Lee_Kun-hee_at_a_meeting_in_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Kun-hee"
 lastUpdated: "2026-02-21"

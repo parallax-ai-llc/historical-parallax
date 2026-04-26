@@ -5,7 +5,7 @@ birth: "1992-02-05"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bra-Cos_%2812%29_%28cropped%29.jpg/800px-Bra-Cos_%2812%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Neymar"
 lastUpdated: "2026-02-26"

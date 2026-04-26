@@ -4,6 +4,7 @@ birth: "1895-02-06"
 death: "1948-08-16"
 nationality: "American"
 occupation: ["Baseball Player"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Babe_Ruth2.jpg/800px-Babe_Ruth2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Babe_Ruth"
 lastUpdated: "2025-12-22"

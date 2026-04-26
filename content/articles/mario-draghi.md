@@ -5,7 +5,7 @@ birth: "1947-09-03"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Banker", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mario_Draghi_2021_cropped.jpg/800px-Mario_Draghi_2021_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mario_Draghi"
 lastUpdated: "2026-02-21"

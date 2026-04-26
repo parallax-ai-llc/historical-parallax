@@ -4,6 +4,7 @@ birth: "1596-03-31"
 death: "1650-02-11"
 nationality: "French"
 occupation: ["Philosopher", "Mathematician", "Scientist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/800px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/René_Descartes"
 lastUpdated: "2025-12-22"

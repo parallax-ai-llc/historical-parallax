@@ -3,6 +3,7 @@ name: "Jennifer Lawrence"
 birth: "1990-08-15"
 nationality: "American"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jennifer_Lawrence_at_the_83rd_Academy_Awards_crop.jpg/800px-Jennifer_Lawrence_at_the_83rd_Academy_Awards_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jennifer_Lawrence"
 lastUpdated: "2026-03-12"

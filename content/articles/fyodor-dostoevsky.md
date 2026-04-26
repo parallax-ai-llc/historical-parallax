@@ -4,6 +4,7 @@ birth: "1821-11-11"
 death: "1881-02-09"
 nationality: "Russian"
 occupation: ["Novelist", "Philosopher", "Essayist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/800px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"
 lastUpdated: "2025-12-22"

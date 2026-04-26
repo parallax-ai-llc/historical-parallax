@@ -5,7 +5,7 @@ birth: "1957-03-20"
 death: "Unknown"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Spike_Lee_at_the_2009_Tribeca_Film_Festival.jpg/800px-Spike_Lee_at_the_2009_Tribeca_Film_Festival.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Spike_Lee"
 lastUpdated: "2026-02-21"
