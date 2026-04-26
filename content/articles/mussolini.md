@@ -5,7 +5,7 @@ birth: "1883-07-29"
 death: "1945-04-28"
 nationality: "Italy"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mussolini_mezzobusto.jpg/800px-Mussolini_mezzobusto.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mussolini"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1917-11-14"
 death: "1979-10-26"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Park_Chung-hee_1963.jpg/800px-Park_Chung-hee_1963.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Chung-hee"
 lastUpdated: "2026-02-26"

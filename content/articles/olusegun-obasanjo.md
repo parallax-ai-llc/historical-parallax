@@ -5,7 +5,7 @@ birth: "1937-03-05"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Olusegun_Obasanjo_2014.jpg/800px-Olusegun_Obasanjo_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Olusegun_Obasanjo"
 lastUpdated: "2026-02-26"

@@ -4,6 +4,7 @@ birth: "1945-06-19"
 death: null
 nationality: "Burmese (Myanmar)"
 occupation: ["Politician", "Democracy Activist", "Nobel Laureate"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Remise_du_Prix_Sakharov_%C3%A0_Aung_San_Suu_Kyi_Strasbourg_22_octobre_2013-18.jpg/800px-Remise_du_Prix_Sakharov_%C3%A0_Aung_San_Suu_Kyi_Strasbourg_22_octobre_2013-18.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi"
 lastUpdated: "2025-12-22"

@@ -5,7 +5,7 @@ birth: "1964-06-19"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Boris_Johnson_official_portrait_%28cropped%29.jpg/800px-Boris_Johnson_official_portrait_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Boris_Johnson"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: Benjamin Netanyahu
 birth: "1949-10-21"
 nationality: Israeli
 occupation: ["Prime Minister of Israel", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Benjamin_Netanyahu_portrait.jpg/800px-Benjamin_Netanyahu_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
 lastUpdated: "2025-12-22"

@@ -3,6 +3,7 @@ name: Tony Blair
 birth: "1953-05-06"
 nationality: British
 occupation: ["Prime Minister of the United Kingdom", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tony_Blair_2010_%28cropped%29.jpg/800px-Tony_Blair_2010_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tony_Blair"
 lastUpdated: "2025-12-22"

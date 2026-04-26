@@ -3,6 +3,7 @@ name: "Queen Elizabeth I"
 birth: "1533-09-07"
 nationality: "British"
 occupation: ["Monarch"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Darnley_stage_3.jpg/800px-Darnley_stage_3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_I"
 lastUpdated: "2026-03-12"

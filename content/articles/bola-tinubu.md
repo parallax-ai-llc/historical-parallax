@@ -5,7 +5,7 @@ birth: "1952-03-29"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bola_Ahmed_Tinubu_2023.jpg/800px-Bola_Ahmed_Tinubu_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bola_Tinubu"
 lastUpdated: "2026-02-26"

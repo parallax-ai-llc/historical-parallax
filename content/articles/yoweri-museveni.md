@@ -5,7 +5,7 @@ birth: "1944-09-15"
 death: "Unknown"
 nationality: "Uganda"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Yoweri_Museveni_September_2015.jpg/800px-Yoweri_Museveni_September_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yoweri_Museveni"
 lastUpdated: "2026-02-21"

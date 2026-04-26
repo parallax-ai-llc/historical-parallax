@@ -3,6 +3,7 @@ name: "Prince Harry"
 birth: "1984-09-15"
 nationality: "British"
 occupation: ["Duke of Sussex", "Royal", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prince_Harry_in_London_-_2014.jpg/800px-Prince_Harry_in_London_-_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Prince_Harry,_Duke_of_Sussex"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Emperor Hirohito"
 birth: "1901-04-29"
 nationality: "Japanese"
 occupation: ["Emperor", "Monarch", "Marine Biologist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hirohito_in_dress_uniform.jpg/800px-Hirohito_in_dress_uniform.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hirohito"
 lastUpdated: "2026-03-12"

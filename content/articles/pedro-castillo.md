@@ -5,7 +5,7 @@ birth: "1969-10-19"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pedro_Castillo_2021_%28cropped%29.jpg/800px-Pedro_Castillo_2021_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_Castillo"
 lastUpdated: "2026-02-26"

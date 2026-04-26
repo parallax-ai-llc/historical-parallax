@@ -5,7 +5,7 @@ birth: "1945-11-18"
 death: "Unknown"
 nationality: "Sri Lanka"
 occupation: ["War Criminal", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mahinda_Rajapaksa_April_2014.jpg/800px-Mahinda_Rajapaksa_April_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mahinda_Rajapaksa"
 lastUpdated: "2026-02-26"

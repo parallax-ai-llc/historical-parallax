@@ -5,7 +5,7 @@ birth: "1926-05-10"
 death: "2002-05-05"
 nationality: "Bolivia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hugo_Banzer_Su%C3%A1rez.jpg/800px-Hugo_Banzer_Su%C3%A1rez.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hugo_Banzer"
 lastUpdated: "2026-02-21"

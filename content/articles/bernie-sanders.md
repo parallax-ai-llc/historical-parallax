@@ -3,6 +3,7 @@ name: "Bernie Sanders"
 birth: "1941-09-08"
 nationality: "American"
 occupation: ["Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bernie_Sanders_in_March_2020.jpg/800px-Bernie_Sanders_in_March_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bernie_Sanders"
 lastUpdated: "2026-03-12"

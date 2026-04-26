@@ -5,7 +5,7 @@ birth: "1926-07-15"
 death: "2003-01-12"
 nationality: "Argentina"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Galtieri.jpg/800px-Galtieri.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leopoldo_Galtieri"
 lastUpdated: "2026-02-26"

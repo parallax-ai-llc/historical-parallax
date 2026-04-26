@@ -5,7 +5,7 @@ birth: "1924-02-21"
 death: "2019-09-06"
 nationality: "Zimbabwe"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Robert_Mugabe_May_2015.jpg/800px-Robert_Mugabe_May_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Mugabe_Zimbabwe"
 lastUpdated: "2026-02-26"

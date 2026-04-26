@@ -3,6 +3,7 @@ name: "King Charles III"
 birth: "1948-11-14"
 nationality: "British"
 occupation: ["Monarch", "King", "Environmentalist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/King_Charles_III_%282023%29_%28cropped%29.jpg/800px-King_Charles_III_%282023%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_III"
 lastUpdated: "2026-03-12"

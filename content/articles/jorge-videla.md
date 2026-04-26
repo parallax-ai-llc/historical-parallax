@@ -5,7 +5,7 @@ birth: "1925-08-02"
 death: "2013-05-17"
 nationality: "Argentina"
 occupation: ["Dictator", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jorge_Rafael_Videla_-_circa_1976.jpg/800px-Jorge_Rafael_Videla_-_circa_1976.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jorge_Videla"
 lastUpdated: "2026-02-26"

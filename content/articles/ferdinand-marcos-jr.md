@@ -5,7 +5,7 @@ birth: "1957-09-13"
 death: "Unknown"
 nationality: "Philippines"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bongbong_Marcos_2022.jpg/800px-Bongbong_Marcos_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ferdinand_Marcos_Jr."
 lastUpdated: "2026-02-26"

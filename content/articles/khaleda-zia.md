@@ -5,7 +5,7 @@ birth: "1945-08-15"
 death: "Unknown"
 nationality: "Bangladesh"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Khaleda_Zia.jpg/800px-Khaleda_Zia.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khaleda_Zia"
 lastUpdated: "2026-02-21"

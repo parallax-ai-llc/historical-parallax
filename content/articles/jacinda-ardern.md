@@ -3,6 +3,7 @@ name: Jacinda Ardern
 birth: "1980-07-26"
 nationality: New Zealander
 occupation: ["Former Prime Minister of New Zealand", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Jacinda_Ardern_2018.jpg/800px-Jacinda_Ardern_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jacinda_Ardern"
 lastUpdated: "2025-12-22"

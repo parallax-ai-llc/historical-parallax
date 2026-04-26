@@ -5,7 +5,7 @@ birth: "1924-08-12"
 death: "1988-08-17"
 nationality: "Pakistan"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mohammad_Zia-ul-Haq.jpg/800px-Mohammad_Zia-ul-Haq.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zia-ul-Haq"
 lastUpdated: "2026-02-21"

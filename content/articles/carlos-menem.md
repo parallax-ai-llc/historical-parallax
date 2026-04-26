@@ -5,7 +5,7 @@ birth: "1930-07-02"
 death: "2021-02-14"
 nationality: "Argentina"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Carlos_Menem_in_1995.jpg/800px-Carlos_Menem_in_1995.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Carlos_Menem"
 lastUpdated: "2026-02-26"

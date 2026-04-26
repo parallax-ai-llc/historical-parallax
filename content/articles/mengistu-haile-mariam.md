@@ -5,7 +5,7 @@ birth: "1937-05-21"
 death: "Unknown"
 nationality: "Ethiopia"
 occupation: ["Dictator", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mengistu_Haile_Mariam_in_East_Berlin_1981.jpg/800px-Mengistu_Haile_Mariam_in_East_Berlin_1981.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mengistu_Haile_Mariam"
 lastUpdated: "2026-02-26"

@@ -4,6 +4,7 @@ name: "Volodymyr Zelensky"
 birth: "1978-01-25"
 nationality: "Ukrainian"
 occupation: ["Politician", "President", "Former Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Volodymyr_Zelensky_Official_portrait.jpg/800px-Volodymyr_Zelensky_Official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Volodymyr_Zelensky"
 lastUpdated: "2026-03-11"

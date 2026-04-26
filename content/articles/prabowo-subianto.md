@@ -5,7 +5,7 @@ birth: "1951-10-17"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Military Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Prabowo_Subianto_2024_official_portrait.jpg/800px-Prabowo_Subianto_2024_official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Prabowo_Subianto"
 lastUpdated: "2026-02-26"

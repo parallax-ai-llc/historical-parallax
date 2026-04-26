@@ -5,7 +5,7 @@ birth: "1945-10-27"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lula_-_foto_oficial05012007.jpg/800px-Lula_-_foto_oficial05012007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lula_da_Silva"
 lastUpdated: "2026-02-21"

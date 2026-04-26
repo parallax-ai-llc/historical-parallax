@@ -4,6 +4,7 @@ birth: "c. 406 CE"
 death: "453 CE"
 nationality: "Hunnic"
 occupation: ["King", "Military Commander", "Conqueror"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mor_Than_-_Feast_of_Attila.jpg/800px-Mor_Than_-_Feast_of_Attila.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Attila"
 lastUpdated: "2025-12-22"

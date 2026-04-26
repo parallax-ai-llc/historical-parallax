@@ -5,7 +5,7 @@ birth: "1949-12-01"
 death: "2024-02-06"
 nationality: "Chilean"
 occupation: ["Entrepreneur", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sebastian_Pinera_2010.png/800px-Sebastian_Pinera_2010.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sebastian_Pinera"
 lastUpdated: "2026-02-21"

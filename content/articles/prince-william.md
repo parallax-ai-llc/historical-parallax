@@ -3,6 +3,7 @@ name: "Prince William"
 birth: "1982-06-21"
 nationality: "British"
 occupation: ["Prince of Wales", "Royal", "Philanthropist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Prince_William_in_June_2023.jpg/800px-Prince_William_in_June_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William,_Prince_of_Wales"
 lastUpdated: "2026-03-12"
