@@ -5,7 +5,7 @@ birth: "1952-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Wireless communications engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/251230_Hong_Min-gi.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeong_Min-gi"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1953-11-25"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Jeffrey_Skilling_mug_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeff_Skilling"
 lastUpdated: "2026-02-26"

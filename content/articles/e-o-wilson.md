@@ -5,7 +5,7 @@ birth: "1929-06-10"
 death: "2021-12-26"
 nationality: "American"
 occupation: ["Biologist", "Naturalist", "Entomologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/E._O._Wilson_sitting%2C_October_16%2C_2007_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/E._O._Wilson"
 lastUpdated: "2026-02-21"

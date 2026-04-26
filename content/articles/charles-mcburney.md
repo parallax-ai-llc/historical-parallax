@@ -5,7 +5,7 @@ birth: "1845-02-17"
 death: "1913-11-07"
 nationality: "American"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Charles_McBurney_%28surgeon%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_McBurney"
 lastUpdated: "2026-02-21"

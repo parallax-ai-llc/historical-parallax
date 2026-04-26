@@ -5,7 +5,7 @@ birth: "1913-07-29"
 death: "2013-10-11"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Erich_Priebke_in_servizio_presso_l%27ambasciata_tedesca_di_Roma.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Erich_Priebke"
 lastUpdated: "2026-02-26"

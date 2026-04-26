@@ -5,7 +5,7 @@ birth: "1762-06-16"
 death: "1836-04-07"
 nationality: "Korean"
 occupation: ["Philosopher", "Scholar", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Jeong_Yak-yong.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeong_Yagyong"
 lastUpdated: "2026-02-21"

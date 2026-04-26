@@ -5,7 +5,7 @@ birth: "1791-12-26"
 death: "1871-10-18"
 nationality: "British"
 occupation: ["Mathematician", "Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Charles_Babbage_-_1860.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Babbage"
 lastUpdated: "2026-02-21"

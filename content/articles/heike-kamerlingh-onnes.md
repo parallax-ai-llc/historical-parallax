@@ -5,7 +5,7 @@ birth: "1853-09-21"
 death: "1926-02-21"
 nationality: "Dutch"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Kamerlingh_portret.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes"
 lastUpdated: "2026-02-21"

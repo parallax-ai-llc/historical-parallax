@@ -5,7 +5,7 @@ birth: "1832-12-15"
 death: "1923-12-27"
 nationality: "French"
 occupation: ["Engineer", "Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gustave_Eiffel_1888_Nadar2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustave_Eiffel"
 lastUpdated: "2026-02-21"

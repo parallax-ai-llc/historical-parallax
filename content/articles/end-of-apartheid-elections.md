@@ -5,7 +5,7 @@ birth: "1994-04-27"
 death: "1994-04-27"
 nationality: "South Africa"
 occupation: ["Historical Event", "Social Movement", "Democracy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/63398276-apartheid-flag-ruling-banned.jpg.optimal.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/End_of_Apartheid_Elections"
 lastUpdated: "2026-02-21"

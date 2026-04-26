@@ -5,7 +5,7 @@ birth: "0310-01-01"
 death: "0390-01-01"
 nationality: "Indian"
 occupation: ["Philosopher", "Buddhist Monk"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ashtamangala_Lotus.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asanga"
 lastUpdated: "2026-02-21"

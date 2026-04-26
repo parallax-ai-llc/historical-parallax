@@ -5,7 +5,7 @@ birth: "1771-08-22"
 death: "1831-02-14"
 nationality: "British"
 occupation: ["Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Henry_Maudslay_by_Grevedon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Maudslay"
 lastUpdated: "2026-02-21"

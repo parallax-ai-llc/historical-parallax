@@ -5,7 +5,7 @@ birth: "1925-09-16"
 death: "2015-05-14"
 nationality: "American"
 occupation: ["Guitarist", "Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bbking.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/B.B._King"
 lastUpdated: "2026-02-21"

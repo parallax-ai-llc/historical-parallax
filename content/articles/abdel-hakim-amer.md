@@ -5,7 +5,7 @@ birth: "1919-06-11"
 death: "1967-09-14"
 nationality: "Egypt"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Abdel_Hakim_Amer%2C_1955.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdel_Hakim_Amer"
 lastUpdated: "2026-02-26"

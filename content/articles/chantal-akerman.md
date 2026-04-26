@@ -5,7 +5,7 @@ birth: "1950-06-06"
 death: "2015-10-05"
 nationality: "Belgian"
 occupation: ["Film Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Chantal_Akerman_-_video_still_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chantal_Akerman"
 lastUpdated: "2026-02-26"

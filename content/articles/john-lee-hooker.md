@@ -5,7 +5,7 @@ birth: "1917-08-22"
 death: "2001-06-21"
 nationality: "American"
 occupation: ["Blues Singer", "Guitarist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/John_Lee_Hooker_two.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Lee_Hooker"
 lastUpdated: "2026-02-21"

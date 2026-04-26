@@ -5,7 +5,7 @@ birth: "1964-01-01"
 death: "Unknown"
 nationality: "Ecuador"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Chevron_Logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chevron_Ecuador"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1869-02-14"
 death: "1959-11-15"
 nationality: "Scottish"
 occupation: ["Physicist", "Meteorologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/CTR_Wilson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson"
 lastUpdated: "2026-02-21"

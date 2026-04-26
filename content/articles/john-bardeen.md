@@ -5,7 +5,7 @@ birth: "1908-05-23"
 death: "1991-01-30"
 nationality: "American"
 occupation: ["Physicist", "Electrical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bardeen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Bardeen"
 lastUpdated: "2026-02-21"

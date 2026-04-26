@@ -3,6 +3,7 @@ name: "Cem Yılmaz"
 birth: "1973-04-05"
 nationality: "Turkish"
 occupation: ["Comedian", "Actor", "Screenwriter", "Painter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/YilmazCem_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cem_Y%C4%B1lmaz"
 lastUpdated: "2026-03-12"

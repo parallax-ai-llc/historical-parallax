@@ -5,7 +5,7 @@ birth: "1908-09-08"
 death: "1992-08-20"
 nationality: "Romanian-Israeli Jewish"
 occupation: ["Rabbi", "Philosopher", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/EliezerBerkivitsReading.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eliezer_Berkovits"
 lastUpdated: "2026-02-21"

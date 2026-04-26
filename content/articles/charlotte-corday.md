@@ -5,7 +5,7 @@ birth: "1768-07-27"
 death: "1793-07-17"
 nationality: "France"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Charlotte_Corday.PNG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charlotte_Corday"
 lastUpdated: "2026-02-21"

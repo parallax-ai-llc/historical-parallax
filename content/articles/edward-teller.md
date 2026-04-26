@@ -5,7 +5,7 @@ birth: "1908-01-15"
 death: "2003-09-09"
 nationality: "Hungarian-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/EdwardTeller1958_fewer_smudges.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Teller"
 lastUpdated: "2026-02-21"

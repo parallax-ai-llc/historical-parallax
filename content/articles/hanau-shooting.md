@@ -5,7 +5,7 @@ birth: "2020-02-19"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/FUJI6350_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanau_Shooting"
 lastUpdated: "2026-02-26"

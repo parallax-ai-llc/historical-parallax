@@ -5,7 +5,7 @@ birth: "1955-09-07"
 death: "Unknown"
 nationality: "Russian-American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/EfimIZelmanov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Efim_Zelmanov"
 lastUpdated: "2026-02-21"

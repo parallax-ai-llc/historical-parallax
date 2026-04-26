@@ -5,7 +5,7 @@ birth: "1964-10-09"
 death: "Unknown"
 nationality: "Mexican"
 occupation: ["Film Director", "Screenwriter", "Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Guillermo_del_Toro_at_the_2026_Sundance_Film_Festival_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guillermo_del_Toro"
 lastUpdated: "2026-02-21"

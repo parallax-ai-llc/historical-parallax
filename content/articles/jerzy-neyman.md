@@ -5,7 +5,7 @@ birth: "1894-04-16"
 death: "1981-08-05"
 nationality: "Polish-American"
 occupation: ["Mathematician", "Statistician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jerzy_Neyman2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerzy_Neyman"
 lastUpdated: "2026-02-21"

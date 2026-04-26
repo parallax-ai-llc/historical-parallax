@@ -3,6 +3,7 @@ name: "Celia Cruz"
 birth: "1925-10-21"
 nationality: "Cuban"
 occupation: ["Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Celia_Cruz_1957_color.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Celia_Cruz"
 lastUpdated: "2026-03-12"

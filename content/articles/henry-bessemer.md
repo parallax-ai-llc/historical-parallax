@@ -5,7 +5,7 @@ birth: "1813-01-19"
 death: "1898-03-15"
 nationality: "British"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Henry_Bessemer_1890s2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Bessemer"
 lastUpdated: "2026-02-26"

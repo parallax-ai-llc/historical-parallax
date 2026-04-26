@@ -5,7 +5,7 @@ birth: "1906-04-26"
 death: "1976-12-11"
 nationality: "Hungary"
 occupation: ["Counterfeiter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/12/Elmyr_de_hory.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elmyr_de_Hory"
 lastUpdated: "2026-02-26"

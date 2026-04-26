@@ -5,7 +5,7 @@ birth: "1913-10-01"
 death: "2009-01-29"
 nationality: "Brazilian"
 occupation: ["Martial Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Helio_Gracie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Helio_Gracie"
 lastUpdated: "2026-02-26"

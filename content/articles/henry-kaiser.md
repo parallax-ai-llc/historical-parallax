@@ -5,7 +5,7 @@ birth: "1882-05-09"
 death: "1967-08-24"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Hkaiser.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Kaiser"
 lastUpdated: "2026-02-21"

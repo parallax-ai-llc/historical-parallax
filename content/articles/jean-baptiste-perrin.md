@@ -5,7 +5,7 @@ birth: "1870-09-30"
 death: "1942-04-17"
 nationality: "French"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jean_Perrin_1926.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean_Baptiste_Perrin"
 lastUpdated: "2026-02-21"

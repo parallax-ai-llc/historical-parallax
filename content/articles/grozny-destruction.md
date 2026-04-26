@@ -5,7 +5,7 @@ birth: "1999-10-01"
 death: "2000-02-06"
 nationality: "Russia"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Russian_troops_in_DUBAI-YURT.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grozny_Destruction"
 lastUpdated: "2026-02-26"

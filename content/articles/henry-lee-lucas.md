@@ -5,7 +5,7 @@ birth: "1936-08-23"
 death: "2001-03-12"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Henry_Lee_Lucas_arrives_at_Texas_courthouse_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Lee_Lucas"
 lastUpdated: "2026-02-21"

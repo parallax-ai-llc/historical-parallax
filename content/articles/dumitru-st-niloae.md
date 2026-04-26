@@ -5,7 +5,7 @@ birth: "1903-11-16"
 death: "1993-10-04"
 nationality: "Romanian"
 occupation: ["Theologian", "Priest"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Stamps_of_Romania%2C_2003-37.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dumitru_St%C4%83niloae"
 lastUpdated: "2026-02-21"

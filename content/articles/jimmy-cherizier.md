@@ -5,7 +5,7 @@ birth: "1988-04-01"
 death: "Unknown"
 nationality: "Haiti"
 occupation: ["Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Public_speech_of_Jimmy_Ch%C3%A9rizier_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Cherizier"
 lastUpdated: "2026-02-26"

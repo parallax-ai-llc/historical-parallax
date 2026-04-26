@@ -2,6 +2,7 @@
 title: Epstein's Death in Custody
 date: "2019-08-10"
 location: "New York, New York"
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Epstein_Final_Mugshot.png"
 lastUpdated: "2025-12-22"
 ---
 

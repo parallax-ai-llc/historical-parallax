@@ -5,7 +5,7 @@ birth: "1897-10-12"
 death: "1910-08-29"
 nationality: "Korea"
 occupation: ["Historical Event", "Empire", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/1636_invasion_of_Korea.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/End_of_Joseon_Dynasty"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Elif Shafak"
 birth: "1971-10-25"
 nationality: "Turkish"
 occupation: ["Novelist", "Essayist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Elif_Shafak_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elif_Shafak"
 lastUpdated: "2026-03-12"

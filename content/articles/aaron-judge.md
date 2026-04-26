@@ -5,7 +5,7 @@ birth: "1992-04-26"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Aaron_Judge_posing_with_Donald_Trump_2025-09-11_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aaron_Judge"
 lastUpdated: "2026-02-26"

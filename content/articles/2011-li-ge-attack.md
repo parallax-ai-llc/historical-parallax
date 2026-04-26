@@ -5,7 +5,7 @@ birth: "2011-12-13"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Map_of_the_results_of_the_2011_Singaporean_general_election.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2011_Li%C3%A8ge_Attack"
 lastUpdated: "2026-02-26"

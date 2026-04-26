@@ -5,7 +5,7 @@ birth: "1926-01-29"
 death: "1996-11-21"
 nationality: "Pakistani"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Abdus_Salam_1987.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdus_Salam"
 lastUpdated: "2026-02-21"

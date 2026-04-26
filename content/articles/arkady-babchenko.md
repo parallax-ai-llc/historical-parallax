@@ -5,7 +5,7 @@ birth: "1977-03-18"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Faked Death"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Arkady_Babchenko_2018_portrait_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arkady_Babchenko"
 lastUpdated: "2026-02-26"

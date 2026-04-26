@@ -5,7 +5,7 @@ birth: "2005-01-01"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/LAPSUS%24.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arion_Kurtaj"
 lastUpdated: "2026-02-26"

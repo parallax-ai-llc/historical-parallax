@@ -5,7 +5,7 @@ birth: "1993-01-13"
 death: "1993-01-13"
 nationality: "Global"
 occupation: ["Historical Event", "Treaty", "Arms Control"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/CWC_Participation.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chemical_Weapons_Convention"
 lastUpdated: "2026-02-21"

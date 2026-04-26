@@ -4,6 +4,7 @@ birth: "304 BC"
 death: "232 BC"
 nationality: "Indian"
 occupation: ["Emperor", "Patron of Buddhism"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ashoka"
 lastUpdated: "2026-03-12"

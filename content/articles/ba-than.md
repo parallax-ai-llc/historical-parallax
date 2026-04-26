@@ -5,7 +5,7 @@ birth: "1870s"
 death: "1931-11"
 nationality: "Myanmar"
 occupation: ["Educator", "Historian", "Writer", "Journalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ba_Than_%28historian%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ba_Than_(historian)"
 lastUpdated: "2026-01-08"

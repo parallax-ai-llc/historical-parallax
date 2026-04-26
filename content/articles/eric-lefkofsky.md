@@ -5,7 +5,7 @@ birth: "1969-09-02"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/4d/Eric_Lefkofsky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Lefkofsky"
 lastUpdated: "2026-02-21"

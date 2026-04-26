@@ -5,7 +5,7 @@ birth: "1906-08-27"
 death: "1984-07-26"
 nationality: "United States"
 occupation: ["Serial Killer", "Body Snatcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Ed-Gein.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ed_Gein"
 lastUpdated: "2026-02-21"

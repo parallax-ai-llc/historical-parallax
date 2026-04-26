@@ -5,7 +5,7 @@ birth: "1956-12-30"
 death: "Unknown"
 nationality: "Congolese"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Matonge.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheri_Samba"
 lastUpdated: "2026-02-21"

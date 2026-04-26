@@ -5,7 +5,7 @@ birth: "1920-10-18"
 death: "2004-02-28"
 nationality: "Korean"
 occupation: ["Nuclear Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jae-Hyeong_Choi.jpg_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Hyung-sup"
 lastUpdated: "2026-02-21"

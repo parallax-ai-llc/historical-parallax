@@ -4,6 +4,7 @@ birth: "1928-07-26"
 death: "2023-11-29"
 nationality: "French-American"
 occupation: ["Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Elliott_Erwitt_by_Alessio_Jacona_%2815554958273%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elliott_Erwitt"
 lastUpdated: "2026-03-12"

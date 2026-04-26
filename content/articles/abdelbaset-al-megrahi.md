@@ -5,7 +5,7 @@ birth: "1952-04-01"
 death: "2012-05-20"
 nationality: "Libya"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Abdel_Bassett_Ali_Al-Megrahi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdelbaset_al-Megrahi"
 lastUpdated: "2026-02-26"

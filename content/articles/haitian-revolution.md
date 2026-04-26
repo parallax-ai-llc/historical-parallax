@@ -5,7 +5,7 @@ birth: "1791-08-22"
 death: "1804-01-01"
 nationality: "Haiti"
 occupation: ["Historical Event", "Revolution", "Independence"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Haitian_Revolution"
 lastUpdated: "2026-02-21"

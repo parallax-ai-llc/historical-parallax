@@ -5,7 +5,7 @@ birth: "1504-07-18"
 death: "1575-09-17"
 nationality: "Swiss"
 occupation: ["Reformer", "Theologian", "Pastor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Heinrich_Bullinger.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heinrich_Bullinger"
 lastUpdated: "2026-02-21"

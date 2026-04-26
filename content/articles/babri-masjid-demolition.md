@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "India"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Babri_Masjid_demolition_on_December_1992.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Babri_Masjid_Demolition"
 lastUpdated: "2026-02-26"

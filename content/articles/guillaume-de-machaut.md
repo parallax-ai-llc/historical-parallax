@@ -5,7 +5,7 @@ birth: "1300-01-01"
 death: "1377-04-01"
 nationality: "French"
 occupation: ["Composer", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Machaut_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guillaume_de_Machaut"
 lastUpdated: "2026-02-21"

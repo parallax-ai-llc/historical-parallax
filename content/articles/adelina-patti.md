@@ -4,6 +4,7 @@ birth: "1843-02-10"
 death: "1919-09-27"
 nationality: "Italian"
 occupation: ["Opera Singer", "Soprano"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Adelina_Patti_%28carte_de_visite%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adelina_Patti"
 lastUpdated: "2026-03-12"

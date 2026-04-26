@@ -5,7 +5,7 @@ birth: "1853-05-01"
 death: "1892-08-11"
 nationality: "Belgium"
 occupation: ["Colonial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Willem_Frans_Van_Kerckhoven_in_the_Congo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guillaume_Van_Kerckhoven"
 lastUpdated: "2026-02-26"

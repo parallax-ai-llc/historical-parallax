@@ -5,7 +5,7 @@ birth: "1971-09-09"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Attica_Prison_Riot%2C_1971.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Attica_Prison_Riot_1971"
 lastUpdated: "2026-02-26"

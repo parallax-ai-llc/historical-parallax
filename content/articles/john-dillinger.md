@@ -5,7 +5,7 @@ birth: "1903-06-22"
 death: "1934-07-22"
 nationality: "United States"
 occupation: ["Bank Robber", "Outlaw"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/John_Dillinger_mug_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Dillinger"
 lastUpdated: "2026-02-21"

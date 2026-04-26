@@ -5,7 +5,7 @@ birth: "2017-06-14"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Criminal Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Grenfell_Fire_140617_451am2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grenfell_Tower_Inquiry"
 lastUpdated: "2026-02-26"

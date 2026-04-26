@@ -5,7 +5,7 @@ birth: "1959-01-01"
 death: "Unknown"
 nationality: "Comoros"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Azali_Assoumani_in_New_York_City_on_September_19%2C_2023_-_53199606411_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Azali_Assoumani"
 lastUpdated: "2026-02-26"

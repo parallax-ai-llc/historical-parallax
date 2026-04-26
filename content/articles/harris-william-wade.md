@@ -5,7 +5,7 @@ birth: "1865-01-01"
 death: "1929-01-01"
 nationality: "Liberian"
 occupation: ["Prophet", "Evangelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Harris.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harris_William_Wade"
 lastUpdated: "2026-02-21"

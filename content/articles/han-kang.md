@@ -5,7 +5,7 @@ birth: "1970-11-27"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Novelist", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Han_Kang%2C_2024_Nobel_Prize_Laureate_in_Literature_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Han_Kang"
 lastUpdated: "2026-02-21"

@@ -4,6 +4,7 @@ birth: "1945-09-15"
 death: "2019-09-30"
 nationality: "American"
 occupation: ["Opera Singer", "Soprano"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jessye_Norman-_In_Conversation_with_Tom_Hall_%2815977754135%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jessye_Norman"
 lastUpdated: "2026-03-12"

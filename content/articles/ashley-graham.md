@@ -3,6 +3,7 @@ name: "Ashley Graham"
 birth: "1987-10-30"
 nationality: "American"
 occupation: ["Fashion Model", "Television Host"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ashley_Graham_ATTN_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ashley_Graham_(model)"
 lastUpdated: "2026-03-12"

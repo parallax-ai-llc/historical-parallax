@@ -5,7 +5,7 @@ birth: "1942-07-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Guo_Boxiong.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guo_Boxiong"
 lastUpdated: "2026-02-26"

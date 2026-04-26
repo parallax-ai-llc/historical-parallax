@@ -5,7 +5,7 @@ birth: "1902-09-24"
 death: "1989-06-03"
 nationality: "Iranian"
 occupation: ["Grand Ayatollah", "Political Leader", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Ruhollah_Khomeini_portrait_2_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayatollah_Ruhollah_Khomeini"
 lastUpdated: "2026-02-21"

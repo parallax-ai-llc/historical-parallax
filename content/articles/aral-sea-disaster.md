@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Soviet Union"
 occupation: ["Environmental Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/AralSea1989_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aral_Sea_Disaster"
 lastUpdated: "2026-02-26"

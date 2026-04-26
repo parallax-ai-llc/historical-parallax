@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Italy"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Palazzo_Sangiuliani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Banco_Ambrosiano_Scandal"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Photonics researcher", "Optical engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/211227_%EC%B5%9C%EC%9A%B0%EC%8B%9D.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Dong-hee"
 lastUpdated: "2026-02-21"

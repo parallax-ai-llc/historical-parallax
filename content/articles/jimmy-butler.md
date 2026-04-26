@@ -3,6 +3,7 @@ name: "Jimmy Butler"
 birth: "1989-09-14"
 nationality: "American"
 occupation: ["Basketball Player", "Athlete", "Small Forward"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/CES_2026_-_Jimmy_Butler_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Butler"
 lastUpdated: "2026-03-11"

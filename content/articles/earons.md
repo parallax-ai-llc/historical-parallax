@@ -5,7 +5,7 @@ birth: "1974-01-01"
 death: "1986-01-01"
 nationality: "United States"
 occupation: ["Criminal Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Joseph_DeAngelo_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/EARONS"
 lastUpdated: "2026-02-26"

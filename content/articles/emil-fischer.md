@@ -5,7 +5,7 @@ birth: "1852-10-09"
 death: "1919-07-15"
 nationality: "German"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hermann_Emil_Fischer._Photograph_by_Atelier_Victoria%2C_1895._Wellcome_V0027668_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emil_Fischer"
 lastUpdated: "2026-02-26"

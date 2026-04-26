@@ -5,7 +5,7 @@ birth: "1882-09-30"
 death: "1945-09-24"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Hans_geiger.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Geiger"
 lastUpdated: "2026-02-21"

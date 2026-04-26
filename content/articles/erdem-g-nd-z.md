@@ -5,7 +5,7 @@ birth: "1979-04-07"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Protester"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Erdem_Gunduz_during_the_Standing_Man_protest.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Erdem_G%C3%BCnd%C3%BCz"
 lastUpdated: "2026-02-26"

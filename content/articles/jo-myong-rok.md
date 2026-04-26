@@ -5,7 +5,7 @@ birth: "1928-01-01"
 death: "2010-11-06"
 nationality: "North Korea"
 occupation: ["Military Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cho_Myong-nok_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jo_Myong-rok"
 lastUpdated: "2026-02-26"

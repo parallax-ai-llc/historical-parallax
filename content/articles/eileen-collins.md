@@ -5,7 +5,7 @@ birth: "1956-11-19"
 death: "living"
 nationality: "American"
 occupation: ["Astronaut", "Test Pilot"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Commander_Eileen_Collins_-_GPN-2000-001177.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eileen_Collins"
 lastUpdated: "2026-02-21"

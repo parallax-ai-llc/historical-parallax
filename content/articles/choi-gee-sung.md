@@ -5,7 +5,7 @@ birth: "1952-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Electronics engineer", "Semiconductor executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Choi_Ji-Sung_from_acrofan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Gee-sung"
 lastUpdated: "2026-02-21"

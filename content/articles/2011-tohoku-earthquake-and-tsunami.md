@@ -5,7 +5,7 @@ birth: "2011-03-11"
 death: "2011-03-11"
 nationality: "Japan"
 occupation: ["Historical Event", "Disaster", "Natural Disaster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2011_Tohoku_Earthquake_and_Tsunami"
 lastUpdated: "2026-02-21"

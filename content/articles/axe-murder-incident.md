@@ -5,7 +5,7 @@ birth: "1976-08-18"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/DMZ_incident_tree.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Axe_Murder_Incident"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1872-08-15"
 death: "1950-12-05"
 nationality: "Indian"
 occupation: ["Philosopher", "Yogi", "Poet", "Revolutionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Sri_aurobindo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aurobindo_Ghose"
 lastUpdated: "2026-02-21"

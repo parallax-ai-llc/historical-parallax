@@ -5,7 +5,7 @@ birth: "1749-09-19"
 death: "1822-08-19"
 nationality: "French"
 occupation: ["Astronomer", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Delambre_Boilly_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Baptiste_Joseph_Delambre"
 lastUpdated: "2026-02-21"

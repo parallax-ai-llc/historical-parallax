@@ -5,7 +5,7 @@ birth: "1913-02-14"
 death: "1975-07-30"
 nationality: "United States"
 occupation: ["Mafia", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/James_R._Hoffa_NYWTS_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Hoffa"
 lastUpdated: "2026-02-21"

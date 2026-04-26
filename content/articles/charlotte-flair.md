@@ -3,6 +3,7 @@ name: "Charlotte Flair"
 birth: "1986-04-05"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Charlotte_Flair_062225_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charlotte_Flair"
 lastUpdated: "2026-03-12"

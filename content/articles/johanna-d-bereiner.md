@@ -5,7 +5,7 @@ birth: "1924-11-28"
 death: "2000-10-05"
 nationality: "Brazilian"
 occupation: ["Agronomist", "Microbiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Johanna-D%C3%B6bereiner.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Johanna_D%C3%B6bereiner"
 lastUpdated: "2026-02-21"

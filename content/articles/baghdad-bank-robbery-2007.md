@@ -5,7 +5,7 @@ birth: "2007-07-11"
 death: "Unknown"
 nationality: "Iraq"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/%D8%A8%D8%B1%D8%AC_%D8%A7%D9%84%D8%A8%D9%86%D9%83_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baghdad_Bank_Robbery_2007"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "-425-01-01"
 death: "-338-01-01"
 nationality: "Persia"
 occupation: ["Tyrant", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Rock_relief_of_Artaxerxes_III_in_Persepolis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Artaxerxes_III"
 lastUpdated: "2026-02-26"

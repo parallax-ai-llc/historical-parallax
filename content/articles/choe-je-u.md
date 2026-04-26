@@ -5,7 +5,7 @@ birth: "1824-12-18"
 death: "1864-03-10"
 nationality: "Korean"
 occupation: ["Religious Founder", "Revolutionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Choe_Je-u.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choe_Je-u"
 lastUpdated: "2026-02-21"

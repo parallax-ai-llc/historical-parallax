@@ -5,7 +5,7 @@ birth: "1895-01-15"
 death: "1973-11-11"
 nationality: "Finnish"
 occupation: ["Chemist", "Agricultural Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Virtanen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Artturi_Ilmari_Virtanen"
 lastUpdated: "2026-02-21"

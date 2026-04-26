@@ -5,7 +5,7 @@ birth: "1860-10-28"
 death: "1938-05-04"
 nationality: "Japanese"
 occupation: ["Educator", "Martial Artist", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Portrait_of_late_Mr._Kano.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jigoro_Kano"
 lastUpdated: "2026-02-21"

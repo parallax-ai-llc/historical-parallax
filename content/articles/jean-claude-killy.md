@@ -5,7 +5,7 @@ birth: "1943-08-30"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Olympic Champion", "Alpine Skier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Jean-Claude_Killy_in_Moscow.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Claude_Killy"
 lastUpdated: "2026-02-26"

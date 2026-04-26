@@ -5,7 +5,7 @@ birth: "1804-02-07"
 death: "1886-05-17"
 nationality: "American"
 occupation: ["Entrepreneur", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/John_Deere_World_Headquarters_04.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Deere"
 lastUpdated: "2026-02-21"

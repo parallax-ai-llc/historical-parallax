@@ -5,7 +5,7 @@ birth: "1881-03-22"
 death: "1960-07-06"
 nationality: "German-Swiss"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Hans_Wilsdorf.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Wilsdorf"
 lastUpdated: "2026-02-21"

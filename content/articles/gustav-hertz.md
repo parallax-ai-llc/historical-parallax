@@ -5,7 +5,7 @@ birth: "1887-07-22"
 death: "1975-10-30"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Gustav_Hertz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustav_Hertz"
 lastUpdated: "2026-02-21"

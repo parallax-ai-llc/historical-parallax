@@ -5,7 +5,7 @@ birth: "1736-06-14"
 death: "1806-08-23"
 nationality: "French"
 occupation: ["Physicist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Charles_de_Coulomb.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb"
 lastUpdated: "2026-02-26"

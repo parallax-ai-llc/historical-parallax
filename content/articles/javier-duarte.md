@@ -5,7 +5,7 @@ birth: "1973-07-25"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Javier_Duarte_de_Ochoa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Javier_Duarte"
 lastUpdated: "2026-02-21"

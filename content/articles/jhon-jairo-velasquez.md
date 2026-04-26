@@ -5,7 +5,7 @@ birth: "1962-04-15"
 death: "2020-02-06"
 nationality: "Colombia"
 occupation: ["Hitman", "Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jhon_Jairo_Vel%C3%A1squez.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jhon_Jairo_Vel%C3%A1squez"
 lastUpdated: "2026-02-21"

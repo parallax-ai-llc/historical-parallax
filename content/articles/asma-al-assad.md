@@ -5,7 +5,7 @@ birth: "1975-08-11"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Asma_Al-Assad_in_2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asma_al-Assad"
 lastUpdated: "2026-02-26"

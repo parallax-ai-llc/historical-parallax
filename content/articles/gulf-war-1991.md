@@ -5,7 +5,7 @@ birth: "1991-01-17"
 death: "1991-02-28"
 nationality: "Middle East"
 occupation: ["Historical Event", "War", "Modern War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gulf_War_1991"
 lastUpdated: "2026-02-21"

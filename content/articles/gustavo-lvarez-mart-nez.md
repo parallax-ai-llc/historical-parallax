@@ -5,7 +5,7 @@ birth: "1937-12-16"
 death: "1989-01-25"
 nationality: "Honduras"
 occupation: ["Death Squad Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Gustavo_Adolfo_Alvarez_Martinez.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustavo_%C3%81lvarez_Mart%C3%ADnez"
 lastUpdated: "2026-02-26"

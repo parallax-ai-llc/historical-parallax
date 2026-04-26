@@ -5,7 +5,7 @@ birth: "1924-12-03"
 death: "2007-03-17"
 nationality: "American"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Backus_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Backus"
 lastUpdated: "2026-02-21"

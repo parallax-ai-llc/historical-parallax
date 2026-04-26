@@ -4,6 +4,7 @@ birth: "1922-01-07"
 death: "2000-05-20"
 nationality: "French"
 occupation: ["Flutist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Jean_Pierre_Rampal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Pierre_Rampal"
 lastUpdated: "2026-03-12"

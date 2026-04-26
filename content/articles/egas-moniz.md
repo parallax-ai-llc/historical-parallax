@@ -5,7 +5,7 @@ birth: "1874-11-29"
 death: "1955-12-13"
 nationality: "Portuguese"
 occupation: ["Neurologist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Moniz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Egas_Moniz"
 lastUpdated: "2026-02-21"

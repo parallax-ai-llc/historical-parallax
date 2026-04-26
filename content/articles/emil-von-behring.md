@@ -5,7 +5,7 @@ birth: "1854-03-15"
 death: "1917-03-31"
 nationality: "German"
 occupation: ["Physician", "Immunologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Emil_von_Behring_sitzend.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emil_von_Behring"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1972-07-08"
 death: "Unknown"
 nationality: "Uzbekistan"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Gulnora_Karimova_-01.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gulnara_Karimova"
 lastUpdated: "2026-02-21"

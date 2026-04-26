@@ -5,7 +5,7 @@ birth: "1895-10-08"
 death: "1895-10-08"
 nationality: "Korea"
 occupation: ["Historical Event", "Political", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Le_Journal_Illustr%C3%A9_L%60ASSASSINAT_DE_LA_REINE_COR%C3%89E_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assassination_of_Empress_Myeongseong"
 lastUpdated: "2026-02-21"

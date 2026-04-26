@@ -5,7 +5,7 @@ birth: "1886-09-16"
 death: "1966-06-07"
 nationality: "French-German"
 occupation: ["Sculptor", "Painter", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Hans_Arp.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean_Arp"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1939-04-27"
 death: "2009-03-02"
 nationality: "Guinea-Bissau"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jo%C3%A3o_Bernardo_Vieira_detail1%2C_1822WD944.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jo%C3%A3o_Bernardo_Vieira"
 lastUpdated: "2026-02-26"

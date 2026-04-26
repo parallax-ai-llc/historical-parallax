@@ -5,7 +5,7 @@ birth: "2019-08-03"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Patrick_Crusius_exiting_a_Walmart_in_El_Paso%2C_Texas_after_murdering_23_shoppers.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Paso_Walmart_Shooting"
 lastUpdated: "2026-02-26"

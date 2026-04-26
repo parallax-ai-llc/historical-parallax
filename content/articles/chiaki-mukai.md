@@ -5,7 +5,7 @@ birth: "1952-05-06"
 death: "living"
 nationality: "Japanese"
 occupation: ["Astronaut", "Physician", "Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Chiaki_Mukai.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chiaki_Mukai"
 lastUpdated: "2026-02-21"

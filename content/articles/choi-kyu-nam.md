@@ -5,7 +5,7 @@ birth: "1898-01-01"
 death: "1992-01-01"
 nationality: "Korean"
 occupation: ["Geologist", "Mineralogist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Presidents_of_the_Republic_Of_Korea_%284261836786%29_Choi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Kyu-nam"
 lastUpdated: "2026-02-21"

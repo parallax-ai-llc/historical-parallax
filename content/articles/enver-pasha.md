@@ -5,7 +5,7 @@ birth: "1881-11-22"
 death: "1922-08-04"
 nationality: "Ottoman Empire"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Enver_Pasha_1911.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enver_Pasha"
 lastUpdated: "2026-02-26"

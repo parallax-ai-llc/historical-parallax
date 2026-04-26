@@ -5,7 +5,7 @@ birth: "1948-02-24"
 death: "2016-12-05"
 nationality: "India"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/J_Jayalalithaa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jayalalithaa"
 lastUpdated: "2026-02-21"

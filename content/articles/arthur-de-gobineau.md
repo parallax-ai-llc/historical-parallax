@@ -5,7 +5,7 @@ birth: "1816-07-14"
 death: "1882-10-13"
 nationality: "France"
 occupation: ["Racist Ideologue"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Gobineau_-comte-de-Joseph-Arthur.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_de_Gobineau"
 lastUpdated: "2026-02-26"

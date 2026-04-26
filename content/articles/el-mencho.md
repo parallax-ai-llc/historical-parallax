@@ -5,7 +5,7 @@ birth: "1966-02-17"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/El_Mencho_San_Francisco.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Mencho"
 lastUpdated: "2026-02-26"

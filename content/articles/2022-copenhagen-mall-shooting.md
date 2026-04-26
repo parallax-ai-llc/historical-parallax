@@ -5,7 +5,7 @@ birth: "2022-07-03"
 death: "Unknown"
 nationality: "Denmark"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Field%27s_in_Copenhagen_%282014%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2022_Copenhagen_Mall_Shooting"
 lastUpdated: "2026-02-26"

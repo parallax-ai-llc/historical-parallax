@@ -5,7 +5,7 @@ birth: "1981-08-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Joe-gebbia-2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Gebbia"
 lastUpdated: "2026-02-21"

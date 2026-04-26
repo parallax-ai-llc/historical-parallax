@@ -5,7 +5,7 @@ birth: "1947-11-06"
 death: "2007-06-29"
 nationality: "Taiwanese"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/%E7%AC%AC31%E5%B1%86%E9%87%91%E9%A6%AC%E3%80%8C%E6%9C%80%E4%BD%B3%E5%8E%9F%E8%91%97%E5%8A%87%E6%9C%AC%E7%8D%8E%E3%80%8D%E5%BE%97%E4%B8%BB%E6%A5%8A%E5%BE%B7%E6%98%8C.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Yang"
 lastUpdated: "2026-02-21"

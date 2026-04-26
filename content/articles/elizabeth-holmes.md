@@ -5,7 +5,7 @@ birth: "1984-02-03"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Fraudster", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Elizabeth_Holmes_2014_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Holmes"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1983-09-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Web_Summit_2018_-_Contentmakers_-_Day_2%2C_November_7_SM7_9280_%2845715722382%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emmett_Shear"
 lastUpdated: "2026-02-21"

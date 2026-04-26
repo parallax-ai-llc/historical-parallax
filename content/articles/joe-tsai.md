@@ -5,7 +5,7 @@ birth: "1964-01-31"
 death: "Unknown"
 nationality: "Taiwanese-Canadian"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Joseph_Tsai_at_the_2024_New_York_Liberty_Ticker_Tape_Parade_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Tsai"
 lastUpdated: "2026-02-21"

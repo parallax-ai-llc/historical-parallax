@@ -5,7 +5,7 @@ birth: "1988-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Jessica_Watkins_Astronaut_portrait_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jessica_Watkins"
 lastUpdated: "2026-02-26"

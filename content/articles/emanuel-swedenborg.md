@@ -5,7 +5,7 @@ birth: "1688-01-29"
 death: "1772-03-29"
 nationality: "Swedish"
 occupation: ["Scientist", "Mystic", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Emanuel_Swedenborg.PNG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emanuel_Swedenborg"
 lastUpdated: "2026-02-21"

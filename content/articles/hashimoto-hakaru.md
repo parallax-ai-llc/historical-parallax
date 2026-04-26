@@ -5,7 +5,7 @@ birth: "1881-05-05"
 death: "1934-01-09"
 nationality: "Japanese"
 occupation: ["Physician", "Medical researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Hashimoto_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hashimoto_Hakaru"
 lastUpdated: "2026-02-21"

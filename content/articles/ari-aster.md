@@ -3,6 +3,7 @@ name: "Ari Aster"
 birth: "1986-07-15"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Ari_Aster_at_the_2025_Cannes_Film_Festival_02_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ari_Aster"
 lastUpdated: "2026-03-12"

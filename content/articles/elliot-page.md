@@ -3,6 +3,7 @@ name: "Elliot Page"
 birth: "1987-02-21"
 nationality: "Canadian"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/2023_National_Book_Festival_%2853122454007%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elliot_Page"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Iraq"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/AbuGhraibAbuse-standing-on-box.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Ghraib_Torture"
 lastUpdated: "2026-02-26"

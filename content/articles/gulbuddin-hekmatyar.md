@@ -5,7 +5,7 @@ birth: "1947-08-01"
 death: "Unknown"
 nationality: "Afghanistan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Gulbuddin_Hekmatyar%2C_BBC_Persian_-_Sep_28%2C_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gulbuddin_Hekmatyar"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1968-12-11"
 death: "Unknown"
 nationality: "French"
 occupation: ["Microbiologist", "Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Emmanuelle_Charpentier.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emmanuelle_Charpentier"
 lastUpdated: "2026-02-21"

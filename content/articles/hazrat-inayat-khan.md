@@ -5,7 +5,7 @@ birth: "1882-07-05"
 death: "1927-02-05"
 nationality: "Indian"
 occupation: ["Sufi Master", "Musician", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/df/Hazrat_Inayat_Khan_1916.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hazrat_Inayat_Khan"
 lastUpdated: "2026-02-21"

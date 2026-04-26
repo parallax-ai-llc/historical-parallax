@@ -5,7 +5,7 @@ birth: "1682-01-20"
 death: "1757-11-13"
 nationality: "Indian"
 occupation: ["Sikh Warrior", "Martyr"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Baba_Deep_Singh_fresco_from_Gurdwara_Baba_Atal%2C_Amritsar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baba_Deep_Singh"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1951-08-24"
 death: "1998-11-04"
 nationality: "Colombia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Pachoherrera.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pacho_Herrera"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1963-09-15"
 death: "Unknown"
 nationality: "India"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/A_still_of_the_Union_Minister_for_Environment_%26_Forests%2C_Shri_A._Raja_during_a_meeting_of_Chief_Wildlife_Wardens_and_Field_Directors_of_Project_Tiger_Reserves%2C_in_New_Delhi_on_May_26%2C_2005.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/A._Raja"
 lastUpdated: "2026-02-26"

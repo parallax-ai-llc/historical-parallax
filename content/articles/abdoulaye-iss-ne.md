@@ -5,7 +5,7 @@ birth: "1970-06-01"
 death: "Unknown"
 nationality: "Central African Republic"
 occupation: ["Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Islamic_State_flag.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdoulaye_Iss%C3%A8ne"
 lastUpdated: "2026-02-26"

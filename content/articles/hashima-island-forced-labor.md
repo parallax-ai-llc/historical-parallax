@@ -5,7 +5,7 @@ birth: "1943-01-01"
 death: "1945-08-15"
 nationality: "Japan"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Battle-Ship_Island_Nagasaki_Japan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hashima_Island_Forced_Labor"
 lastUpdated: "2026-02-26"

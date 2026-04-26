@@ -5,7 +5,7 @@ birth: "1964-03-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jeanne_Gang.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeanne_Gang"
 lastUpdated: "2026-02-21"

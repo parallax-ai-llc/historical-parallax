@@ -5,7 +5,7 @@ birth: "1998-01-04"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Short Track Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Choi_Min-jeong_in_2026.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Min-jeong"
 lastUpdated: "2026-02-26"

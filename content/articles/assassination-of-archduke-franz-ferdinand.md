@@ -5,7 +5,7 @@ birth: "1914-06-28"
 death: "1914-06-28"
 nationality: "Austria-Hungary"
 occupation: ["Historical Event", "Political", "World War I"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Arif_M._Naqvi_-_World_Economic_Forum_on_the_Middle_East_2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arif_Naqvi"
 lastUpdated: "2026-02-26"

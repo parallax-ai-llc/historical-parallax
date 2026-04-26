@@ -5,7 +5,7 @@ birth: "1960-03-10"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/A%C3%A9cio_Neves_2014-02-20.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/A%C3%A9cio_Neves"
 lastUpdated: "2026-02-26"

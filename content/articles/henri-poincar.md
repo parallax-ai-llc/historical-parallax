@@ -5,7 +5,7 @@ birth: "1854-04-29"
 death: "1912-07-17"
 nationality: "French"
 occupation: ["Mathematician", "Physicist", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/PSM_V82_D416_Henri_Poincare.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "2025-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Crowd_panicking_after_the_2025_New_Orleans_truck_attack.webm"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2024_New_Orleans_New_Year_Attack"
 lastUpdated: "2026-02-26"

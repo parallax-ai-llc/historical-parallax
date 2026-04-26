@@ -5,7 +5,7 @@ birth: "1946-01-23"
 death: "Unknown"
 nationality: "Nicaragua"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Arnoldo_Alem%C3%A1n_%28cropped_3x4%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnoldo_Alem%C3%A1n"
 lastUpdated: "2026-02-26"

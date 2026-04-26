@@ -5,7 +5,7 @@ birth: "1933-01-01"
 death: "1994-02-28"
 nationality: "Vanuatu"
 occupation: ["Rebel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Benjamin_Zephaniah_20181206.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Rasta_Stevens"
 lastUpdated: "2026-02-26"

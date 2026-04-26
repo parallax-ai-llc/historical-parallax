@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Negligence"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Oxford_High_School_December_30_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jennifer_Crumbley"
 lastUpdated: "2026-02-26"

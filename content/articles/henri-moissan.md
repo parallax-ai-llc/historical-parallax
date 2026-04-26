@@ -5,7 +5,7 @@ birth: "1852-09-28"
 death: "1907-02-20"
 nationality: "French"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Henri_Moissan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henri_Moissan"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1940-06-22"
 death: "2016-07-04"
 nationality: "Iranian"
 occupation: ["Film Director", "Screenwriter", "Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Kiarostami_Boroujerdi_%283%29%28Cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abbas_Kiarostami"
 lastUpdated: "2026-02-21"

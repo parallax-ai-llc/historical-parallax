@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "Unknown"
 nationality: "Myanmar"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Min_Aun_Hlaing_at_Tianjin_%282025%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aung_Kyaw_Zaw"
 lastUpdated: "2026-02-26"

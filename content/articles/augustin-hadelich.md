@@ -5,7 +5,7 @@ birth: "1984-04-26"
 death: "Unknown"
 nationality: "German-American"
 occupation: ["Violinist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Augustin_Hadelich.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augustin_Hadelich"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1952-09-02"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Jimmy_Conners_1994.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Connors"
 lastUpdated: "2026-02-26"

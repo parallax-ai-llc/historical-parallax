@@ -5,7 +5,7 @@ birth: "1950-08-23"
 death: "Unknown"
 nationality: "Mali"
 occupation: ["Political Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Visit_of_Josep_Borrell_Fontelles%2C_Vice-President_of_the_European_Commission%2C_to_Mali.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bah_Ndaw"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1945-06-01"
 death: "Unknown"
 nationality: "Venezuelan"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Gustavo_Cisneros_by_Timothy_Greenfield-Sanders.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustavo_Cisneros"
 lastUpdated: "2026-02-21"

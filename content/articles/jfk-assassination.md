@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/JFK_Motorcade_GettyImages-517330536.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/JFK_Assassination"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "21 Savage"
 birth: "1992-10-22"
 nationality: "British"
 occupation: ["Rapper", "Songwriter", "Record Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/21_Savage_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/21_Savage"
 lastUpdated: "2026-03-17"

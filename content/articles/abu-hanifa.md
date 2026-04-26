@@ -5,7 +5,7 @@ birth: "0699-09-05"
 death: "0767-06-14"
 nationality: "Iraqi"
 occupation: ["Jurist", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Grab_hanifa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Hanifa"
 lastUpdated: "2026-02-21"

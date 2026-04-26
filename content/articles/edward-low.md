@@ -5,7 +5,7 @@ birth: "1690-01-01"
 death: "1724-01-01"
 nationality: "England"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Edwardlowepicture.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Low"
 lastUpdated: "2026-02-21"

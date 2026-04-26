@@ -5,7 +5,7 @@ birth: "1973-04-18"
 death: "Unknown"
 nationality: "Ethiopian"
 occupation: ["Athlete", "Olympic Champion", "Long-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Olympic_great_Haile_Gebrselassie_speaking_at_the_Olympic_hunger_summit_in_Downing_Street%2C_12_August_2012_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Haile_Gebrselassie"
 lastUpdated: "2026-02-26"

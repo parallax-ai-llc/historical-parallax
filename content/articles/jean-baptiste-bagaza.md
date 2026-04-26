@@ -5,7 +5,7 @@ birth: "1946-09-29"
 death: "2016-05-04"
 nationality: "Burundi"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Jean_Baptiste_Bagaza_-_1978.tiff"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Baptiste_Bagaza"
 lastUpdated: "2026-02-26"

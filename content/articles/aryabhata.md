@@ -5,7 +5,7 @@ birth: "0476-01-01"
 death: "0550-01-01"
 nationality: "Indian"
 occupation: ["Mathematician", "Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Aryabhatta_of_Bihar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aryabhata"
 lastUpdated: "2026-02-21"

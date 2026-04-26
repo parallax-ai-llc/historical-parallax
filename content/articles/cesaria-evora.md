@@ -5,7 +5,7 @@ birth: "1941-08-27"
 death: "2011-12-17"
 nationality: "Cape Verdean"
 occupation: ["Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ces%C3%A1ria_%C3%89vora_2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cesaria_Evora"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1953-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Polymer scientist", "Adhesive researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Ha_Sung-woon_in_October_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ha_Sung-do"
 lastUpdated: "2026-02-21"

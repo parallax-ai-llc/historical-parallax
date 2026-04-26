@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/EPN_Firma.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayotzinapa_Mass_Disappearance"
 lastUpdated: "2026-02-26"

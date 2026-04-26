@@ -5,7 +5,7 @@ birth: "1963-02-20"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Basketball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/1_charles_barkley_2019_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Barkley"
 lastUpdated: "2026-02-26"

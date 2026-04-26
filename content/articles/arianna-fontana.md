@@ -5,7 +5,7 @@ birth: "1990-04-14"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Athlete", "Olympic Champion", "Short Track Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Arianna_Fontana_Sochi_ST1500m_09_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arianna_Fontana"
 lastUpdated: "2026-02-26"

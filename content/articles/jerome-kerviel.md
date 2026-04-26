@@ -5,7 +5,7 @@ birth: "1977-01-11"
 death: "N/A"
 nationality: "France"
 occupation: ["Rogue Trader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/2015_popfinance_crowdfunding_221.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Kerviel"
 lastUpdated: "2026-02-21"

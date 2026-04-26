@@ -5,7 +5,7 @@ birth: "1932-02-01"
 death: "2016-03-05"
 nationality: "Sudan"
 occupation: ["Terrorist Enabler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/HassanAlTurabi_Feb2015_RomanDeckert.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hassan_al-Turabi"
 lastUpdated: "2026-02-26"

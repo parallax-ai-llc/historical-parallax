@@ -5,7 +5,7 @@ birth: "1928-03-19"
 death: "2021-04-06"
 nationality: "Swiss"
 occupation: ["Theologian", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/K%C3%BCng3.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_K%C3%BCng"
 lastUpdated: "2026-02-21"

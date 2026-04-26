@@ -5,7 +5,7 @@ birth: "1735-01-01"
 death: "1815-08-10"
 nationality: "Seneca (American)"
 occupation: ["Prophet", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Handsome_Lake_cropped_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Handsome_Lake"
 lastUpdated: "2026-02-21"

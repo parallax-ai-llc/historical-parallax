@@ -5,7 +5,7 @@ birth: "1680-01-01"
 death: "1721-03-29"
 nationality: "United Kingdom"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Early_18th_century_engraving_of_Charles_Vane.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Vane"
 lastUpdated: "2026-02-26"

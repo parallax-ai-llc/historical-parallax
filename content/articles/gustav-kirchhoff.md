@@ -5,7 +5,7 @@ birth: "1824-03-12"
 death: "1887-10-17"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Gustav_Robert_Kirchhoff.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
 lastUpdated: "2026-02-21"

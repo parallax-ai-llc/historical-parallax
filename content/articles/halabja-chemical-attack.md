@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Iraq"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Omer_Khawar_and_his_infant_by_Mehdi_Jamshidi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Halabja_Chemical_Attack"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1841-09-08"
 death: "1882-06-30"
 nationality: "United States"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Portrait_of_Charles_Julius_Guiteau_%281841-1882%29_Crop_Edit.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Guiteau"
 lastUpdated: "2026-02-26"

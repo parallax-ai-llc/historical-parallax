@@ -5,7 +5,7 @@ birth: "1628-11-28"
 death: "1688-08-31"
 nationality: "English"
 occupation: ["Preacher", "Author", "Puritan"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/John_Bunyan_by_Thomas_Sadler_1684.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Bunyan"
 lastUpdated: "2026-02-21"

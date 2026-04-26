@@ -3,6 +3,7 @@ name: "Grigory Sokolov"
 birth: "1950-04-18"
 nationality: "Russian"
 occupation: ["Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Grigory-Sokolov-1967-d.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grigory_Sokolov"
 lastUpdated: "2026-03-12"

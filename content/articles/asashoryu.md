@@ -5,7 +5,7 @@ birth: "1980-09-27"
 death: "Unknown"
 nationality: "Mongolian"
 occupation: ["Athlete", "Sumo Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sumo_May09_Asashoryu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asashoryu"
 lastUpdated: "2026-02-26"

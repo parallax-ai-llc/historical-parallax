@@ -5,7 +5,7 @@ birth: "1657-03-24"
 death: "1725-06-29"
 nationality: "Japanese"
 occupation: ["Scholar", "Statesman", "Historian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Arai_Hakuseki_-_Japanischer_Gelehrter.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arai_Hakuseki"
 lastUpdated: "2026-02-21"

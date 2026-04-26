@@ -5,7 +5,7 @@ birth: "1744-08-01"
 death: "1829-12-18"
 nationality: "French"
 occupation: ["Naturalist", "Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Baptiste_de_Lamarck.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck"
 lastUpdated: "2026-02-21"

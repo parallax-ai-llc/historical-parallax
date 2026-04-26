@@ -5,7 +5,7 @@ birth: "1732-04-05"
 death: "1806-08-22"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Honore_Fragonard"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "Unknown"
 nationality: "Uganda"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Supreme_court_of_Canada_in_summer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Ssenyonga"
 lastUpdated: "2026-02-26"

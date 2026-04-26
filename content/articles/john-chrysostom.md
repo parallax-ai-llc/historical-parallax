@@ -5,7 +5,7 @@ birth: "0349-01-01"
 death: "0407-01-01"
 nationality: "Syrian-Greek"
 occupation: ["Archbishop", "Theologian", "Church Father"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Chrysostom"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1969-03-28"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Riau_palm_oil_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adelin_Lis"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2023-10-07"
 death: "Unknown"
 nationality: "Israel"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/October_2023_Gaza%E2%88%92Israel_conflict.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2023_Israel-Hamas_War"
 lastUpdated: "2026-02-26"

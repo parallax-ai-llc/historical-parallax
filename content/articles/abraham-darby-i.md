@@ -5,7 +5,7 @@ birth: "1678-04-14"
 death: "1717-05-08"
 nationality: "English"
 occupation: ["Ironmaster", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Koks_Brennstoff.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abraham_Darby_I"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "N/A (Executed)"
 nationality: "China"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Charles_Li.jpg"
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"

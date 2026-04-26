@@ -5,7 +5,7 @@ birth: "1200-01-01"
 death: "1180-01-01"
 nationality: "Greek"
 occupation: ["Legendary Warrior", "Mythological Hero"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Achilles"
 lastUpdated: "2026-02-26"

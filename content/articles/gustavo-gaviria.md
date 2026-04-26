@@ -5,7 +5,7 @@ birth: "1946-12-25"
 death: "1990-08-11"
 nationality: "Colombia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/%D7%92%D7%95%D7%A1%D7%98%D7%91%D7%95_%D7%92%D7%91%D7%99%D7%A8%D7%99%D7%94_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustavo_Gaviria"
 lastUpdated: "2026-02-26"

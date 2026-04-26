@@ -3,6 +3,7 @@ name: "Jeff Gordon"
 birth: "1971-08-04"
 nationality: "American"
 occupation: ["Racing Driver", "NASCAR Champion", "Team Owner"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/SWW03504-2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeff_Gordon"
 lastUpdated: "2026-03-12"

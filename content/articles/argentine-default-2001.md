@@ -5,7 +5,7 @@ birth: "2001-12-01"
 death: "2002-04-01"
 nationality: "Argentina"
 occupation: ["Historical Event", "Economic Crisis", "Financial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Argentinienkrise.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Argentine_Default_2001"
 lastUpdated: "2026-02-21"

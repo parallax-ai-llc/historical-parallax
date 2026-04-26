@@ -5,7 +5,7 @@ birth: "1780-02-02"
 death: "1844-01-28"
 nationality: "Netherlands"
 occupation: ["Colonial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Joost_van_den_Vondel_%281587-1679%29._Dichter_Rijksmuseum_SK-A-1904.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joannes_van_den_Bosch"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lithium-carbonate-xtal-1979-Mercury-3D-sf.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arellano_F%C3%A9lix_Brothers"
 lastUpdated: "2026-02-26"

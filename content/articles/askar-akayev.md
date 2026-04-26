@@ -5,7 +5,7 @@ birth: "1944-11-10"
 death: "Unknown"
 nationality: "Kyrgyzstan"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Askar_Akaev_MoscowRia_08-2016_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Askar_Akayev"
 lastUpdated: "2026-02-26"

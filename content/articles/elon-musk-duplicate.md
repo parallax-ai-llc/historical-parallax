@@ -5,7 +5,7 @@ birth: "1971-06-28"
 death: "Unknown"
 nationality: "South African-American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Jared_isaacman_official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elon_Musk_duplicate"
 lastUpdated: "2026-02-26"

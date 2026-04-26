@@ -2,6 +2,7 @@
 title: Epstein 2008 Plea Deal
 date: "2008-06-30"
 location: "Palm Beach, Florida"
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Jeffrey_Epstein_mug_shot_%28cropped%29.jpg"
 lastUpdated: "2025-12-22"
 ---
 

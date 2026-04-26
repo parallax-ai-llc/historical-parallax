@@ -5,7 +5,7 @@ birth: "1928-01-01"
 death: "2016-07-08"
 nationality: "Pakistani"
 occupation: ["Humanitarian", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Abdul_Sattar_Edhi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Sattar_Edhi"
 lastUpdated: "2026-03-17"

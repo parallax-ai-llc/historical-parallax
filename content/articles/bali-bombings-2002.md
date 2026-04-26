@@ -6,7 +6,7 @@ location: "Bali, Indonesia"
 coordinates: [115.17, -8.72]
 category: ["Terrorism", "Indonesia"]
 outcome: "202 killed, 209 injured"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bali_memorial.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2002_Bali_bombings"
 lastUpdated: "2026-02-26"---

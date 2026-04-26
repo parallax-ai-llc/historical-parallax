@@ -5,7 +5,7 @@ birth: "1676-01-01"
 death: "1759-01-01"
 nationality: "Korean"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jeong_Seon-Taking_a_reast_after_reading_books-d1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeong_Seon"
 lastUpdated: "2026-02-21"

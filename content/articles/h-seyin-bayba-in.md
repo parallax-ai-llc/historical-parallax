@@ -5,7 +5,7 @@ birth: "1956-01-01"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Huseyin_baybasin_2022.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/H%C3%BCseyin_Bayba%C5%9Fin"
 lastUpdated: "2026-02-26"

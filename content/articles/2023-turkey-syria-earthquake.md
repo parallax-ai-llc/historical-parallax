@@ -5,7 +5,7 @@ birth: "2023-02-06"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Disaster Response Failure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Collage_of_2023_Turkey%E2%80%93Syria_earthquake.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2023_Turkey-Syria_Earthquake"
 lastUpdated: "2026-02-26"

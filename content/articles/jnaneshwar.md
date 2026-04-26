@@ -5,7 +5,7 @@ birth: "1275-01-01"
 death: "1296-01-01"
 nationality: "Indian"
 occupation: ["Philosopher", "Poet", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Dnyaneshwar2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jnaneshwar"
 lastUpdated: "2026-02-21"

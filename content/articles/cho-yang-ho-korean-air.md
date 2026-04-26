@@ -5,7 +5,7 @@ birth: "1949-03-08"
 death: "2019-04-08"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Yang_Ho_Cho_photo_at_KE.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Yang-ho_Korean_Air"
 lastUpdated: "2026-02-26"

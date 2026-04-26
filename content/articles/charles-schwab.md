@@ -5,7 +5,7 @@ birth: "1937-07-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/53rd_St_6th_Av_td_19_-_CBS_Building.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Schwab"
 lastUpdated: "2026-02-21"

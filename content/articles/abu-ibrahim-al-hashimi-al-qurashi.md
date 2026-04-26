@@ -5,7 +5,7 @@ birth: "1976-10-01"
 death: "2022-02-03"
 nationality: "Iraq"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Amir_Muhammad_Sa%E2%80%99id_Abdal-Rahman_al-Mawla_3x4_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Ibrahim_al-Hashimi_al-Qurashi"
 lastUpdated: "2026-02-26"

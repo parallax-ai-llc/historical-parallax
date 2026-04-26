@@ -5,7 +5,7 @@ birth: "1765-01-01"
 death: "1807-11-16"
 nationality: "China"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/%E9%84%AD%E4%B8%80%E5%AB%82.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheng_I"
 lastUpdated: "2026-02-26"

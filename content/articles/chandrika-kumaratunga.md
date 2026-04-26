@@ -5,7 +5,7 @@ birth: "1945-06-29"
 death: "Unknown"
 nationality: "Sri Lanka"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Chandrika_Kumaratunga_with_PM_Modi_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chandrika_Kumaratunga"
 lastUpdated: "2026-02-26"

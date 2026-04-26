@@ -5,7 +5,7 @@ birth: "1990-01-01"
 death: "Unknown"
 nationality: "Somalia"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Abdulwalimuse2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abduwali_Muse"
 lastUpdated: "2026-02-26"

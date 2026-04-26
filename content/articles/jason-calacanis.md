@@ -5,7 +5,7 @@ birth: "1970-11-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jason_Calacanis_at_LAUNCH_Festival_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jason_Calacanis"
 lastUpdated: "2026-02-21"

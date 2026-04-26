@@ -5,7 +5,7 @@ birth: "1693-04-03"
 death: "1776-03-24"
 nationality: "British"
 occupation: ["Clockmaker", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/John_Harrison_%28Gem%C3%A4lde%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Harrison"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1944-04-06"
 death: "N/A"
 nationality: "France / Vietnam"
 occupation: ["Serial Killer", "Con Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Charles_Sobhraj_statue_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Sobhraj"
 lastUpdated: "2026-02-21"

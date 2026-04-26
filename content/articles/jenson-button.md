@@ -5,7 +5,7 @@ birth: "1980-01-19"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Racing Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jenson_Button_2024_WEC_Fuji.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jenson_Button"
 lastUpdated: "2026-02-26"

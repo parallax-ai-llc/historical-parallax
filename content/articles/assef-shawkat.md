@@ -5,7 +5,7 @@ birth: "1950-01-15"
 death: "2012-07-18"
 nationality: "Syria"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Assef_Shawkat.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assef_Shawkat"
 lastUpdated: "2026-02-26"

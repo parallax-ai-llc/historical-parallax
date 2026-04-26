@@ -5,7 +5,7 @@ birth: "1943-06-11"
 death: "2012-06-12"
 nationality: "United States"
 occupation: ["Mobster", "FBI Informant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Henry_Hill_%281980%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Hill"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "France"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Usine_AZF_Depuis_Pont_Neuf.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/AZF_Chemical_Plant_Explosion"
 lastUpdated: "2026-02-26"

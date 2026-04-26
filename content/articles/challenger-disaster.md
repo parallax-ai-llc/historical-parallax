@@ -5,7 +5,7 @@ birth: "1986-01-28"
 death: "1986-01-28"
 nationality: "United States"
 occupation: ["Historical Event", "Disaster", "Space Disaster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Challenger_explosion.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Challenger_Disaster"
 lastUpdated: "2026-02-21"

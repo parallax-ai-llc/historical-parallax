@@ -5,7 +5,7 @@ birth: "1960-01-13"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Eric_Betzig_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Betzig"
 lastUpdated: "2026-02-26"

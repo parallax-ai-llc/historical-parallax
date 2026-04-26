@@ -5,7 +5,7 @@ birth: "1500-01-01"
 death: "1866-01-01"
 nationality: "International"
 occupation: ["Historical Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Slave_Auction_Ad.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atlantic_Slave_Trade"
 lastUpdated: "2026-02-26"

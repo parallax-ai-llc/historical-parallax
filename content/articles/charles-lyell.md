@@ -5,7 +5,7 @@ birth: "1797-11-14"
 death: "1875-02-22"
 nationality: "British"
 occupation: ["Geologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Charles_Lyell00.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Lyell"
 lastUpdated: "2026-02-21"

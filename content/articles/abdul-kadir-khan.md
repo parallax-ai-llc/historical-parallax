@@ -5,7 +5,7 @@ birth: "1936-04-01"
 death: "2021-10-10"
 nationality: "Pakistan"
 occupation: ["Nuclear Proliferator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Kader_Khan_Sahab.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Kadir_Khan"
 lastUpdated: "2026-02-26"

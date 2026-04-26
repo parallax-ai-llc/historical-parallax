@@ -5,7 +5,7 @@ birth: "1967-08-15"
 death: "Unknown"
 nationality: "India"
 occupation: ["Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Saint_Gurmeet_Ram_Rahim_Singh_Ji_Insan_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gurmeet_Ram_Rahim_Singh"
 lastUpdated: "2026-02-21"

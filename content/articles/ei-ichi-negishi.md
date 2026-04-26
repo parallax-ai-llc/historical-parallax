@@ -5,7 +5,7 @@ birth: "1935-07-14"
 death: "2021-06-06"
 nationality: "Japanese-American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nobel_Prize_2010-Press_Conference_KVA-DSC_7398.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ei-ichi_Negishi"
 lastUpdated: "2026-02-21"

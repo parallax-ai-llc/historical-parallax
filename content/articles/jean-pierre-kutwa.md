@@ -5,7 +5,7 @@ birth: "1945-12-30"
 death: "Unknown"
 nationality: "Ivory Coast"
 occupation: ["Controversial Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Jean_Pierre_Kutwa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Pierre_Kutwa"
 lastUpdated: "2026-02-26"

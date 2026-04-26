@@ -5,7 +5,7 @@ birth: "1945-06-19"
 death: "N/A (Imprisoned)"
 nationality: "Myanmar"
 occupation: ["Political Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi"
 lastUpdated: "2026-02-21"

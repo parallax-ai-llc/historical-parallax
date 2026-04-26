@@ -5,7 +5,7 @@ birth: "1906-03-19"
 death: "1962-06-01"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adolf_Eichmann%2C_1942_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eichmann"
 lastUpdated: "2026-02-26"

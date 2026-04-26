@@ -5,7 +5,7 @@ birth: "1902-01-16"
 death: "1945-02-21"
 nationality: "Scottish-Chinese"
 occupation: ["Missionary", "Olympic Athlete"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Eric_Liddell.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Liddell"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1958-06-05"
 death: "Unknown"
 nationality: "Israel"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Avigdor_Lieberman_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Avigdor_Lieberman"
 lastUpdated: "2026-02-26"

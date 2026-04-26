@@ -5,7 +5,7 @@ birth: "1865-12-08"
 death: "1957-09-20"
 nationality: "Finnish"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Jean_Sibelius_circa_1898-1900_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean_Sibelius"
 lastUpdated: "2026-02-21"

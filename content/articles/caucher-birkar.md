@@ -5,7 +5,7 @@ birth: "1978-07-01"
 death: "Unknown"
 nationality: "Kurdish-British"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Birkar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Caucher_Birkar"
 lastUpdated: "2026-02-21"

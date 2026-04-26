@@ -5,7 +5,7 @@ birth: "1843-09-23"
 death: "1903-02-28"
 nationality: "American"
 occupation: ["Civil Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Brooklyn_Museum_-_Portrait_of_Emily_Warren_Roebling_-_Charles-%C3%89mile-Auguste_Carolus-Duran.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emily_Warren_Roebling"
 lastUpdated: "2026-02-21"

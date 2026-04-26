@@ -3,6 +3,7 @@ name: "Joël Robuchon"
 birth: "1945-04-07"
 nationality: "French"
 occupation: ["Chef", "Restaurateur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jo%C3%ABl_Robuchon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jo%C3%ABl_Robuchon"
 lastUpdated: "2026-03-12"

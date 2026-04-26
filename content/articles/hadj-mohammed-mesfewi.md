@@ -5,7 +5,7 @@ birth: "1870-01-01"
 death: "1906-01-01"
 nationality: "Morocco"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Hadj_Mohammed_Mesfewi.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hadj_Mohammed_Mesfewi"
 lastUpdated: "2026-02-26"

@@ -6,7 +6,7 @@ location: "New York City, United States"
 coordinates: [-74.01, 40.71]
 category: ["Terrorism", "United States"]
 outcome: "6 killed, over 1,000 injured"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/WTC_1993_ATF_Commons.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1993_World_Trade_Center_bombing"
 lastUpdated: "2026-02-26"---

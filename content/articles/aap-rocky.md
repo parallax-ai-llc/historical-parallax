@@ -3,6 +3,7 @@ name: "A$AP Rocky"
 birth: "1988-10-03"
 nationality: "American"
 occupation: ["Rapper", "Record Producer", "Fashion Icon"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/ASAP_Rocky"
 lastUpdated: "2026-03-12"

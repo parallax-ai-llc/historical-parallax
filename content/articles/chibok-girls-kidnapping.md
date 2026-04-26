@@ -5,7 +5,7 @@ birth: "2014-04-14"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Mass Kidnapping"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Parents_of_Chibok_kidnapping_victims.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chibok_Girls_Kidnapping"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1985-01-08"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jeremy_Hammond_CCCAMP23.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeremy_Hammond"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2016-03-22"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/2016-Brussels-Bombings-OpenStreetMap.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2016_Brussels_Bombings"
 lastUpdated: "2026-02-26"

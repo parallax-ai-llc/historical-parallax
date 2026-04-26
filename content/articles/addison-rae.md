@@ -3,6 +3,7 @@ name: "Addison Rae"
 birth: "2000-10-06"
 nationality: "American"
 occupation: ["TikToker", "Content Creator", "Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/LanaWembley030725-144_-_54640470921_%28Addison_Rae%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Addison_Rae"
 lastUpdated: "2026-03-11"

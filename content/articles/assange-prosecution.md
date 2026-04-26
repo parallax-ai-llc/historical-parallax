@@ -5,7 +5,7 @@ birth: "2019-04-11"
 death: "Unknown"
 nationality: "International"
 occupation: ["Criminal Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Badge_of_the_Supreme_Court_of_the_United_Kingdom.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assange_Prosecution"
 lastUpdated: "2026-02-26"

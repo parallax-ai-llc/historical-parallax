@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "Unknown"
 nationality: "Mali"
 occupation: ["Terrorist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/AQMI_Flag.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hamadou_Kouffa"
 lastUpdated: "2026-02-26"

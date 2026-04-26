@@ -5,7 +5,7 @@ birth: "1980-07-25"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chaduri2006.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cha_Du-ri"
 lastUpdated: "2026-02-26"

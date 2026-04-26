@@ -5,7 +5,7 @@ birth: "1955-08-31"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Hurdler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Edwin_Moses_2008_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edwin_Moses"
 lastUpdated: "2026-02-26"

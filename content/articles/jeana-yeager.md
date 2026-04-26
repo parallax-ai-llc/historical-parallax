@@ -3,6 +3,7 @@ name: "Jeana Yeager"
 birth: "1952-05-18"
 nationality: "American"
 occupation: ["Aviator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ray_kamm_collection_image_%2836749883072%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeana_Yeager"
 lastUpdated: "2026-03-12"

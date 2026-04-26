@@ -5,7 +5,7 @@ birth: "1868-12-20"
 death: "1938-02-07"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Harvey_Samuel_Firestone_by_Underwood_c1910.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harvey_Firestone"
 lastUpdated: "2026-02-21"

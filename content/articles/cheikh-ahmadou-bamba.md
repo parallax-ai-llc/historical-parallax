@@ -5,7 +5,7 @@ birth: "1853-01-01"
 death: "1927-07-19"
 nationality: "Senegalese"
 occupation: ["Sufi Master", "Scholar", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/AhmaduBamba.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheikh_Ahmadou_Bamba"
 lastUpdated: "2026-02-21"

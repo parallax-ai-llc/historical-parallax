@@ -5,7 +5,7 @@ birth: "1801-01-01"
 death: "Unknown"
 nationality: "Greece"
 occupation: ["Cultural Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Elgin-marbles-jan-2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elgin_Marbles"
 lastUpdated: "2026-02-26"

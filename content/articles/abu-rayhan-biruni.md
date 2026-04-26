@@ -5,7 +5,7 @@ birth: "0973-09-15"
 death: "1048-12-13"
 nationality: "Persian"
 occupation: ["Mathematician", "Astronomer", "Physicist", "Geographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Biruni-russian.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Rayhan_Biruni"
 lastUpdated: "2026-02-21"

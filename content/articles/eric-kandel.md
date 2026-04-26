@@ -5,7 +5,7 @@ birth: "1929-11-07"
 death: "Unknown"
 nationality: "Austrian-American"
 occupation: ["Neuroscientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Eric_Kandel_01.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Kandel"
 lastUpdated: "2026-02-26"

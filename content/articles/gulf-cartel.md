@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/C%C3%A1rtel_del_Golfo_logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gulf_Cartel"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1951-09-21"
 death: "2005-03-08"
 nationality: "Russia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aslan_Maskhadov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aslan_Maskhadov"
 lastUpdated: "2026-02-26"

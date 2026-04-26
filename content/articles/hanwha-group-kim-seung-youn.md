@@ -5,7 +5,7 @@ birth: "1952-03-06"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Violent Businessman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hanwha_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanwha_Group_Kim_Seung-youn"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1983-05-01"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Judoka"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/2025-09-26_Choi_Min-ho_for_Marie_Claire_Korea_02_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Min-ho"
 lastUpdated: "2026-02-26"

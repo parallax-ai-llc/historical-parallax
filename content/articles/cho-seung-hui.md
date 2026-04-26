@@ -5,7 +5,7 @@ birth: "1984-01-18"
 death: "2007-04-16"
 nationality: "South Korea / US"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/VT_April_16_memorial_closeup.jpg"
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"

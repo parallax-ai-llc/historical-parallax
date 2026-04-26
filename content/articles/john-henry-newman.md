@@ -5,7 +5,7 @@ birth: "1801-02-21"
 death: "1890-08-11"
 nationality: "British"
 occupation: ["Cardinal", "Theologian", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/John_Henry_Newman_1887_Portrait_Photograph_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Henry_Newman"
 lastUpdated: "2026-02-21"

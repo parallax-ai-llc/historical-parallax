@@ -5,7 +5,7 @@ birth: "1935-12-01"
 death: "living"
 nationality: "Korean"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/%22%EB%88%88%EC%9B%83%EC%9D%8C%EC%97%90_%EC%8B%AC%EC%BF%B5%22...%ED%95%98%EC%A7%80%EC%9B%90%2C_%27%EB%B9%88%ED%8B%88%EC%97%86%EB%8A%94_%EB%AF%B8%EB%AA%A8%27.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ha-Won_Chang"
 lastUpdated: "2026-02-21"

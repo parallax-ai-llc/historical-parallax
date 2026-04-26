@@ -5,7 +5,7 @@ birth: "1937-07-28"
 death: "2014-08-28"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/John_Anthony_Walker.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Anthony_Walker"
 lastUpdated: "2026-02-21"

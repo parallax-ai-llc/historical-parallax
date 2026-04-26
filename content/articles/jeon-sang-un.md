@@ -5,7 +5,7 @@ birth: "1926-01-01"
 death: "2002-01-01"
 nationality: "Korean"
 occupation: ["Historian of science", "Science historian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Jeon_Do-yeon_at_the_press_preview_of_the_film_%22Revolver%22_in_2024_%282%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeon_Sang-un"
 lastUpdated: "2026-02-21"

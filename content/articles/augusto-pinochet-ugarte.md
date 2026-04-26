@@ -5,7 +5,7 @@ birth: "1915-11-25"
 death: "2006-12-10"
 nationality: "Chile"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Augusto_Pinochet_foto_oficial_%28cropped%29%28b%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augusto_Pinochet_Ugarte"
 lastUpdated: "2026-02-26"

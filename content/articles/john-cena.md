@@ -3,6 +3,7 @@ name: "John Cena"
 birth: "1977-04-23"
 nationality: "American"
 occupation: ["Professional Wrestler", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/John_Cena_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Cena"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "0982-01-01"
 death: "1054-01-01"
 nationality: "Indian-Bengali"
 occupation: ["Scholar", "Monk", "Missionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Atisha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atisha"
 lastUpdated: "2026-02-21"

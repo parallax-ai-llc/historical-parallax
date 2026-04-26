@@ -5,7 +5,7 @@ birth: "1963-01-21"
 death: "Unknown"
 nationality: "Nigerian/American"
 occupation: ["Athlete", "Basketball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Nigerian_President_Buhari_Stands_With_Secretary_Kerry%2C_U.S._Delegation_After_They_Attended_His_Inauguration_Ceremony_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hakeem_Olajuwon"
 lastUpdated: "2026-02-26"

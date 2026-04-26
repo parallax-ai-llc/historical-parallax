@@ -5,7 +5,7 @@ birth: "1954-12-18"
 death: "N/A (Imprisoned)"
 nationality: "Italy"
 occupation: ["Terrorist", "Fugitive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cesare_Battisti_2009-11-17.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cesare_Battisti_(militant)"
 lastUpdated: "2026-02-26"

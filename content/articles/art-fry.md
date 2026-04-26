@@ -5,7 +5,7 @@ birth: "1931-08-19"
 death: "living"
 nationality: "American"
 occupation: ["Inventor", "Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Fry-lightbulb-on-forehead1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Art_Fry"
 lastUpdated: "2026-02-21"

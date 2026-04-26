@@ -5,7 +5,7 @@ birth: "1926-01-01"
 death: "2008-10-10"
 nationality: "Iranian-British"
 occupation: ["Sufi Master", "Psychiatrist", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/%D8%AC%D9%88%D8%A7%D8%AF_%D9%86%D9%88%D8%B1%D8%A8%D8%AE%D8%B4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Javad_Nurbakhsh"
 lastUpdated: "2026-02-21"

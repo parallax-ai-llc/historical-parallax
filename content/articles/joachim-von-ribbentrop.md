@@ -5,7 +5,7 @@ birth: "1893-04-30"
 death: "1946-10-16"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bundesarchiv_Bild_183-H04810%2C_Joachim_von_Ribbentrop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
 lastUpdated: "2026-02-26"

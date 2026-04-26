@@ -5,7 +5,7 @@ birth: "1992-09-22"
 death: "2012-12-14"
 nationality: "United States"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Police_at_Sandy_Hook.PNG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1942-01-29"
 death: "living"
 nationality: "Cuban"
 occupation: ["Astronaut", "Pilot"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/2022_Arnaldo_Tamayo_M%C3%A9ndez.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnaldo_Tamayo_Mendez"
 lastUpdated: "2026-02-21"

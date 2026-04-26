@@ -5,7 +5,7 @@ birth: "1956-04-01"
 death: "1996-11-03"
 nationality: "Turkey"
 occupation: ["Ultranationalist", "Hitman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Abdullah_catli.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1"
 lastUpdated: "2026-02-26"

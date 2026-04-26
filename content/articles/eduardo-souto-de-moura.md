@@ -5,7 +5,7 @@ birth: "1952-07-25"
 death: "Unknown"
 nationality: "Portuguese"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Eduardo_Souto_de_Moura.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura"
 lastUpdated: "2026-02-21"

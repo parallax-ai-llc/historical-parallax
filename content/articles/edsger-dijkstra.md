@@ -5,7 +5,7 @@ birth: "1930-05-11"
 death: "2002-08-06"
 nationality: "Dutch"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Edsger_Wybe_Dijkstra.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edsger_Dijkstra"
 lastUpdated: "2026-02-21"

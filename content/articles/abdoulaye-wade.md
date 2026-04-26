@@ -5,7 +5,7 @@ birth: "1926-05-29"
 death: "Unknown"
 nationality: "Senegal"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Abdoulaye_Wade_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdoulaye_Wade"
 lastUpdated: "2026-02-26"

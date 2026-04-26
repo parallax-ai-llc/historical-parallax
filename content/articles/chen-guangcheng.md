@@ -5,7 +5,7 @@ birth: "1971-11-12"
 death: "Unknown"
 nationality: "China"
 occupation: ["Dissident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chen_Guangcheng_at_US_Embassy_May_1%2C_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chen_Guangcheng"
 lastUpdated: "2026-02-26"

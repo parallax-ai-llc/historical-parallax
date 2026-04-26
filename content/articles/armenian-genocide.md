@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Ottoman Empire"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Column_of_deportees_walking_through_Harput_vilayet_during_the_Armenian_genocide_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Armenian_Genocide"
 lastUpdated: "2026-02-26"

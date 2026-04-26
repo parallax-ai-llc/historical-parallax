@@ -5,7 +5,7 @@ birth: "1964-01-06"
 death: "2018-07-26"
 nationality: "Japan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Kazuo_Hasegawa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jishi_Tsuchiya"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1984-01-01"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Aleph-logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aum_Shinrikyo"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1968-11-06"
 death: "Unknown"
 nationality: "Taiwanese-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jerry_yang_2010%284555102908%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Yang"
 lastUpdated: "2026-02-21"

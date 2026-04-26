@@ -5,7 +5,7 @@ birth: "1986-04-27"
 death: "1986-05-06"
 nationality: "Soviet Union"
 occupation: ["Historical Event", "Disaster", "Evacuation"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Checkpoint_ditkatky_chernobyl_zone.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chernobyl_Exclusion_Zone"
 lastUpdated: "2026-02-21"

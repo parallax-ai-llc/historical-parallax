@@ -5,7 +5,7 @@ birth: "1989-02-04"
 death: "2018-12-13"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Le_lutin_de_No%C3%ABl_%2833497130176%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cherif_Chekatt"
 lastUpdated: "2026-02-26"

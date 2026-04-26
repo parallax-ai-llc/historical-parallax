@@ -5,7 +5,7 @@ birth: "1989-11-06"
 death: "2017-04-19"
 nationality: "United States"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Aaron_Hernandez.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aaron_Hernandez"
 lastUpdated: "2026-02-26"

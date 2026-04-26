@@ -5,7 +5,7 @@ birth: "1950-07-01"
 death: "Unknown"
 nationality: "Niger"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Hama_Amadou%2C_2001_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hama_Amadou"
 lastUpdated: "2026-02-26"

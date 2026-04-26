@@ -5,7 +5,7 @@ birth: "1834-04-19"
 death: "1859-11-01"
 nationality: "Japanese"
 occupation: ["Physician", "Scholar", "Political reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Hashimoto_sanai_bokusen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hashimoto_Sanai"
 lastUpdated: "2026-02-21"

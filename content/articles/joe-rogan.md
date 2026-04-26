@@ -3,6 +3,7 @@ name: "Joe Rogan"
 birth: "1967-08-11"
 nationality: "American"
 occupation: ["Podcaster", "Comedian", "UFC Commentator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Joe_Rogan.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Rogan"
 lastUpdated: "2026-03-12"

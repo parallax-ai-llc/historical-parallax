@@ -5,7 +5,7 @@ birth: "1935-07-03"
 death: "living"
 nationality: "American"
 occupation: ["Astronaut", "Geologist", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Harrison_Schmitt_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harrison_Schmitt"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "0965-07-01"
 death: "1040-03-06"
 nationality: "Arab"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ibn_al-Haytham_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hasan_Ibn_al-Haytham"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1872-05-06"
 death: "1922-07-21"
 nationality: "Ottoman Empire"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Djemal_Pasha2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cemal_Pasha"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1906-05-24"
 death: "1969-08-25"
 nationality: "American"
 occupation: ["Geologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Hess.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harry_Hess"
 lastUpdated: "2026-02-26"

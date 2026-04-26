@@ -5,7 +5,7 @@ birth: "1988-11-09"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Straat_zonder_racisme2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Van_Themsche"
 lastUpdated: "2026-02-26"

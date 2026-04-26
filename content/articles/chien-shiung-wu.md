@@ -5,7 +5,7 @@ birth: "1912-05-31"
 death: "1997-02-16"
 nationality: "Chinese-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chien-shiung_Wu_%281912-1997%29_C.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chien-Shiung_Wu"
 lastUpdated: "2026-02-21"

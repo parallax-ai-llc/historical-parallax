@@ -5,7 +5,7 @@ birth: "1984-01-01"
 death: "Unknown"
 nationality: "Morocco"
 occupation: ["Terrorist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lars_Hedegaard_in_2014.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdelilah_Himich"
 lastUpdated: "2026-02-26"

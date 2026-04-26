@@ -5,7 +5,7 @@ birth: "2017-08-17"
 death: "Unknown"
 nationality: "Spain"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Barcelona_La_Rambla_-_2011-04-23_05_-_JTCurses.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2017_Barcelona_Attack"
 lastUpdated: "2026-02-26"

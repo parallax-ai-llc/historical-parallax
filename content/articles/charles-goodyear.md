@@ -5,7 +5,7 @@ birth: "1800-12-29"
 death: "1860-07-01"
 nationality: "American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Southworth_and_Hawes_-_Charles_Goodyear_%28Zeno_Fotografie%29_crop.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Goodyear"
 lastUpdated: "2026-02-26"

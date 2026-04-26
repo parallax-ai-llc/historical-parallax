@@ -5,7 +5,7 @@ birth: "1860-01-01"
 death: "1910-01-01"
 nationality: "Belgium"
 occupation: ["Colonial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Sir_Arthur_Hodgson_-_Queensland_politician.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Hodgson"
 lastUpdated: "2026-02-26"

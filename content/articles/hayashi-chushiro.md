@@ -5,7 +5,7 @@ birth: "1920-07-25"
 death: "2010-02-28"
 nationality: "Japanese"
 occupation: ["Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Chushiro_Hayashi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hayashi_Chushiro"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1993-01-01"
 death: "Unknown"
 nationality: "Sweden"
 occupation: ["Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hamza_Ali_Abbasi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hamza_Ali"
 lastUpdated: "2026-02-26"

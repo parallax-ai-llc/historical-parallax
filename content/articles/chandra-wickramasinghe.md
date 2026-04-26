@@ -5,7 +5,7 @@ birth: "1939-01-20"
 death: "living"
 nationality: "Sri Lankan-British"
 occupation: ["Astronomer", "Astrobiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Chandra-Wickramasinghe.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chandra_Wickramasinghe"
 lastUpdated: "2026-02-21"

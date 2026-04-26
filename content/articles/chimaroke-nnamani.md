@@ -5,7 +5,7 @@ birth: "1960-07-20"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Senator_Chimaroke_Nnamani_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chimaroke_Nnamani"
 lastUpdated: "2026-02-26"

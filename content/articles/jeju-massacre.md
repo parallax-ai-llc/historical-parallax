@@ -5,7 +5,7 @@ birth: "1948-04-03"
 death: "1949-01-01"
 nationality: "South Korea"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Jeju_Province_in_South_Korea.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeju_Massacre"
 lastUpdated: "2026-02-26"

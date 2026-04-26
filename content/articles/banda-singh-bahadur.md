@@ -5,7 +5,7 @@ birth: "1670-10-16"
 death: "1716-06-09"
 nationality: "Indian"
 occupation: ["Sikh Military Leader", "Revolutionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Possible_depiction_of_Banda_Singh_Bahadur_from_an_illustrated_folio_of_%E2%80%98Tawarikh-i_Jahandar_Shah%E2%80%99%2C_Awadh_or_Lucknow%2C_ca.1770.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur"
 lastUpdated: "2026-02-21"

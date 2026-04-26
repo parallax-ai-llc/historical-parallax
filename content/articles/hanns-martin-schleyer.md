@@ -5,7 +5,7 @@ birth: "1915-05-01"
 death: "1977-10-18"
 nationality: "Germany"
 occupation: ["Kidnapping Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bundesarchiv_B_145_Bild-F041440-0014%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Schleyer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanns_Martin_Schleyer"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1939-01-01"
 death: "1945-01-01"
 nationality: "Japan"
 occupation: ["Forced Labor Site"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Battle-Ship_Island_Nagasaki_Japan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hashima_Island"
 lastUpdated: "2026-02-26"

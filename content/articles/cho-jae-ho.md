@@ -5,7 +5,7 @@ birth: "1940-01-01"
 death: "2019-01-01"
 nationality: "Korean"
 occupation: ["Nuclear Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/180212_%EC%A1%B0%ED%98%84%EC%9E%AC_%282%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Jae-ho"
 lastUpdated: "2026-02-21"

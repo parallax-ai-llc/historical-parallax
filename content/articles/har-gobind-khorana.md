@@ -5,7 +5,7 @@ birth: "1922-01-09"
 death: "2011-11-09"
 nationality: "Indian-American"
 occupation: ["Biochemist", "Molecular Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/d9/Har_Gobind_Khorana_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Har_Gobind_Khorana"
 lastUpdated: "2026-02-21"

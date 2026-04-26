@@ -5,7 +5,7 @@ birth: "1984-04-14"
 death: "Unknown"
 nationality: "Canadian"
 occupation: ["Athlete", "Olympic Champion", "Short Track Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Charleshamelin.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Hamelin"
 lastUpdated: "2026-02-26"

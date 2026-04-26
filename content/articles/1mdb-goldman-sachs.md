@@ -5,7 +5,7 @@ birth: "2012-01-01"
 death: "Unknown"
 nationality: "Malaysia"
 occupation: ["Banking Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/1mdb_logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1MDB_Goldman_Sachs"
 lastUpdated: "2026-02-26"

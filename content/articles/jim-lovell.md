@@ -3,6 +3,7 @@ name: "Jim Lovell"
 birth: "1928-03-25"
 nationality: "American"
 occupation: ["Astronaut", "Naval Aviator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/James_Lovell.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jim_Lovell"
 lastUpdated: "2026-03-12"

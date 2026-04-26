@@ -3,6 +3,7 @@ name: Jeremy Stoppelman
 birth: "1977-11-10"
 nationality: American
 occupation: ["Entrepreneur", "CEO of Yelp"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jeremy_Stoppelman_LeWeb_conference.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeremy_Stoppelman"
 lastUpdated: "2025-12-22"

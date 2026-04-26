@@ -5,7 +5,7 @@ birth: "1973-08-14"
 death: "Unknown"
 nationality: "Nigerian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Match_legends_2017_CC_%285%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jay-Jay_Okocha"
 lastUpdated: "2026-02-26"

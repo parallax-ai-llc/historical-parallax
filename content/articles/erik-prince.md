@@ -5,7 +5,7 @@ birth: "1969-06-06"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Arms Dealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Erik_Prince_%2854359572482%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Erik_Prince"
 lastUpdated: "2026-02-26"

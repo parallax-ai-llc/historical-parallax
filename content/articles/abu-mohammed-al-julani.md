@@ -5,7 +5,7 @@ birth: "1982-01-01"
 death: "Unknown"
 nationality: "Syria"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ahmed_al-Sharaa_in_November_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Mohammed_al-Julani"
 lastUpdated: "2026-02-26"

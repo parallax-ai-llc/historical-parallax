@@ -5,7 +5,7 @@ birth: "1877-07-26"
 death: "1940-11-28"
 nationality: "American"
 occupation: ["Investor", "Speculator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Press_photo_of_Jesse_Livermore_in_1940_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jesse_Livermore"
 lastUpdated: "2026-02-21"

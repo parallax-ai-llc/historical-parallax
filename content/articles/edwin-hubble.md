@@ -5,7 +5,7 @@ birth: "1889-11-20"
 death: "1953-09-28"
 nationality: "American"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edwin_Hubble"
 lastUpdated: "2026-02-21"

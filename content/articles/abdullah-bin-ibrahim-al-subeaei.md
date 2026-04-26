@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Saudi Arabian"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bank_Albilad_-_ATM.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdullah_bin_Ibrahim_Al_Subeaei"
 lastUpdated: "2026-02-21"

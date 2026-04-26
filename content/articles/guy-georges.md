@@ -5,7 +5,7 @@ birth: "1962-10-15"
 death: "Unknown"
 nationality: "France"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Guy_Georges.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guy_Georges"
 lastUpdated: "2026-02-26"

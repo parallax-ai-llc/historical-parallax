@@ -5,7 +5,7 @@ birth: "1440-01-01"
 death: "1440-01-01"
 nationality: "Germany"
 occupation: ["Historical Event", "Discovery", "Technology"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/PrintMus_038.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gutenberg_Printing_Press"
 lastUpdated: "2026-02-21"

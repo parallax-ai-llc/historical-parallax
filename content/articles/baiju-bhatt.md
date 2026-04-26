@@ -5,7 +5,7 @@ birth: "1985-01-01"
 death: "Unknown"
 nationality: "Indian-American"
 occupation: ["Entrepreneur", "Fintech"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2843802635144%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baiju_Bhatt"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1868-12-05"
 death: "1951-04-26"
 nationality: "German"
 occupation: ["Physicist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/A._Sommerfeld_LCCN2014715010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
 lastUpdated: "2026-02-21"

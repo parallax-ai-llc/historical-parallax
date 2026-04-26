@@ -5,7 +5,7 @@ birth: "0300-01-01"
 death: "0200-01-01"
 nationality: "Indian"
 occupation: ["Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Charak.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charaka"
 lastUpdated: "2026-02-26"

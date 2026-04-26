@@ -5,7 +5,7 @@ birth: "2007-08-09"
 death: "2009-06-01"
 nationality: "Global"
 occupation: ["Historical Event", "Economic Crisis", "Financial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2008_Global_Financial_Crisis"
 lastUpdated: "2026-02-21"

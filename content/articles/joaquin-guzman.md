@@ -5,7 +5,7 @@ birth: "1957-04-04"
 death: "N/A (Imprisoned)"
 nationality: "Mexico"
 occupation: ["Drug Lord", "Cartel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Booking_photo_of_Joaquin_%E2%80%9CEl_Chapo%E2%80%9C_Guzman_%28front%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joaquin_Guzman"
 lastUpdated: "2026-02-21"

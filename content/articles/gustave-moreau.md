@@ -5,7 +5,7 @@ birth: "1826-04-06"
 death: "1898-04-18"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/GustaveMoreau02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustave_Moreau"
 lastUpdated: "2026-02-21"

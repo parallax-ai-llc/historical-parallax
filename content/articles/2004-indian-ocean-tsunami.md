@@ -5,7 +5,7 @@ birth: "2004-12-26"
 death: "2004-12-26"
 nationality: "Indian Ocean"
 occupation: ["Historical Event", "Disaster", "Natural Disaster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2004_Indian_Ocean_Tsunami"
 lastUpdated: "2026-02-21"

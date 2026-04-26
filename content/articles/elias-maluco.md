@@ -5,7 +5,7 @@ birth: "1965-01-01"
 death: "2020-09-18"
 nationality: "Brazil"
 occupation: ["Drug Trafficker", "Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Trof%C3%A9u_%281971891832%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elias_Maluco"
 lastUpdated: "2026-02-26"

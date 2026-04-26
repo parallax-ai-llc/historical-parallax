@@ -5,7 +5,7 @@ birth: "1849-12-19"
 death: "1919-12-02"
 nationality: "United States"
 occupation: ["Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Henry_Clay_Frick.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Frick"
 lastUpdated: "2026-02-26"

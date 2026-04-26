@@ -5,7 +5,7 @@ birth: "1928-04-20"
 death: "2005-06-20"
 nationality: "American"
 occupation: ["Chemist", "Climatologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Charles_David_Keeling_2001.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_David_Keeling"
 lastUpdated: "2026-02-21"

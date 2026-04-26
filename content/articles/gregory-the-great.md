@@ -5,7 +5,7 @@ birth: "0540-01-01"
 death: "0604-01-01"
 nationality: "Italian"
 occupation: ["Pope", "Theologian", "Church Father"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gregory_the_Great"
 lastUpdated: "2026-02-21"

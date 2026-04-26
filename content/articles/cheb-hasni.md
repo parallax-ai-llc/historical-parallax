@@ -5,7 +5,7 @@ birth: "1968-02-01"
 death: "1994-09-29"
 nationality: "Algeria"
 occupation: ["Assassination Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Photo_of_Cheb_Hasni_%281986%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheb_Hasni"
 lastUpdated: "2026-02-26"

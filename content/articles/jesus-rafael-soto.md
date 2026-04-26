@@ -5,7 +5,7 @@ birth: "1923-06-05"
 death: "2005-01-14"
 nationality: "Venezuelan"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jesus_Rafael_Soto_by_Lothar_Wolleh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jesus_Rafael_Soto"
 lastUpdated: "2026-02-21"

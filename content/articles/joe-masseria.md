@@ -5,7 +5,7 @@ birth: "1886-01-17"
 death: "1931-04-15"
 nationality: "Italy / United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Giuseppe_%E2%80%9EJoe%E2%80%9C_Masseria.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Masseria"
 lastUpdated: "2026-02-21"

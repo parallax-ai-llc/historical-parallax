@@ -5,7 +5,7 @@ birth: "1940-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Acoustics engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Jeon_Yeo-been_in_November_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeon_Byeong-su"
 lastUpdated: "2026-02-21"

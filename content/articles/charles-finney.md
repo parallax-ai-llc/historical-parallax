@@ -5,7 +5,7 @@ birth: "1792-08-29"
 death: "1875-08-16"
 nationality: "American"
 occupation: ["Evangelist", "Theologian", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Charles_g_finney.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Finney"
 lastUpdated: "2026-02-21"

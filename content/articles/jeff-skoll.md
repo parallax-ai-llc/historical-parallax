@@ -5,7 +5,7 @@ birth: "1965-01-16"
 death: "Unknown"
 nationality: "Canadian"
 occupation: ["Entrepreneur", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Jeff_Skoll_2013_%285576999744%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeff_Skoll"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1970-08-20"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/John_Carmack_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Carmack"
 lastUpdated: "2026-02-21"

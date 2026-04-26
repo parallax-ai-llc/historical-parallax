@@ -5,7 +5,7 @@ birth: "1646-01-01"
 death: "1715-01-01"
 nationality: "Korean"
 occupation: ["Mathematician", "Government official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/%EC%A0%95%EB%B3%B4%EC%84%9D_Jeong_Bo-seok_0m06s.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choe_Seok-jeong"
 lastUpdated: "2026-02-21"

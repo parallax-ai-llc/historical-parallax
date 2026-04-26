@@ -5,7 +5,7 @@ birth: "1780-01-01"
 death: "1823-01-01"
 nationality: "France / United States"
 occupation: ["Pirate", "Privateer", "Smuggler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Anonymous_portrait_of_Jean_Lafitte%2C_early_19th_century%2C_Rosenberg_Library%2C_Galveston%2C_Texas.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean_Lafitte"
 lastUpdated: "2026-02-21"

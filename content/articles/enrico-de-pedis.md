@@ -5,7 +5,7 @@ birth: "1954-06-16"
 death: "1990-02-02"
 nationality: "Italy"
 occupation: ["Crime Boss", "Banda della Magliana"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/24/Enrico_De_Pedis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enrico_De_Pedis"
 lastUpdated: "2026-02-21"

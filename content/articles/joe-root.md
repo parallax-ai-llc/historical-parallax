@@ -3,6 +3,7 @@ name: "Joe Root"
 birth: "1990-12-30"
 nationality: "English"
 occupation: ["Cricketer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Joe_Root_HIP1487_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Root"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Jimmy Fallon"
 birth: "1974-09-19"
 nationality: "American"
 occupation: ["TV Host", "Comedian", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jimmy_Fallon%2C_Montclair_Film_Festival%2C_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Fallon"
 lastUpdated: "2026-03-12"

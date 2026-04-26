@@ -5,7 +5,7 @@ birth: "1052-01-01"
 death: "1135-01-01"
 nationality: "Tibetan"
 occupation: ["Yogi", "Poet", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Milarepa-statue-made-by-root-student-rechungpa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jetsun_Milarepa"
 lastUpdated: "2026-02-21"

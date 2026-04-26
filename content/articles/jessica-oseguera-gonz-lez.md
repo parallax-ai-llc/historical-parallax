@@ -5,7 +5,7 @@ birth: "1993-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Cartel Associate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Jessica_Johanna_Oseguera_Gonzalez_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jessica_Oseguera_Gonz%C3%A1lez"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2011-01-25"
 death: "2011-02-11"
 nationality: "Egypt"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nasser_and_Naguib%2C_1954.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Egyptian_Revolution"
 lastUpdated: "2026-02-26"

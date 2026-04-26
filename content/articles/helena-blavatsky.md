@@ -5,7 +5,7 @@ birth: "1831-08-12"
 death: "1891-05-08"
 nationality: "Russian"
 occupation: ["Author", "Occultist", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Helena_Petrovna_Blavatsky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Helena_Blavatsky"
 lastUpdated: "2026-02-21"

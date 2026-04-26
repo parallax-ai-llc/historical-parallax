@@ -5,7 +5,7 @@ birth: "1953-11-25"
 death: "N/A"
 nationality: "United States"
 occupation: ["Fraudster", "CEO"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Jeffrey_Skilling_mug_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeffrey_Skilling"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1930-08-04"
 death: "N/A"
 nationality: "Iranian-Iraqi"
 occupation: ["Grand Ayatollah", "Marja"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ali_Sistani_edit1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayatollah_Ali_al-Sistani"
 lastUpdated: "2026-02-21"

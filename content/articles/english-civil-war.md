@@ -5,7 +5,7 @@ birth: "1642-08-22"
 death: "1651-09-03"
 nationality: "England"
 occupation: ["Historical Event", "Revolution", "Civil War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/English_Civil_War"
 lastUpdated: "2026-02-21"

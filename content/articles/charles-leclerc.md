@@ -3,6 +3,7 @@ name: "Charles Leclerc"
 birth: "1997-10-16"
 nationality: "Monegasque"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Leclerc"
 lastUpdated: "2026-03-12"

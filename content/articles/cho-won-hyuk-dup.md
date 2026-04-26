@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/%EC%9C%A4%EA%B4%80%EC%84%9D_%EC%9D%98%EC%9B%90.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Won-hyuk_dup"
 lastUpdated: "2026-02-26"

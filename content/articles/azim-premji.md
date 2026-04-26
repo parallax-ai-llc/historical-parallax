@@ -5,7 +5,7 @@ birth: "1945-07-24"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Azim_H._Premji_World_Economic_Forum_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Azim_Premji"
 lastUpdated: "2026-02-21"

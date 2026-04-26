@@ -5,7 +5,7 @@ birth: "1937-03-02"
 death: "2021-09-17"
 nationality: "Algeria"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abdelaziz_Bouteflika_-_cropped_from_Secretary_Clinton_Addresses_Reporters_in_Algiers_%288141547674%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdelaziz_Bouteflika"
 lastUpdated: "2026-02-26"

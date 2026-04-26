@@ -5,7 +5,7 @@ birth: "1890-06-12"
 death: "1918-10-31"
 nationality: "Austrian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Egon_Schiele"
 lastUpdated: "2026-02-21"

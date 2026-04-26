@@ -3,6 +3,7 @@ name: "Eddie Van Halen"
 birth: "1955-01-26"
 nationality: "American"
 occupation: ["Musician", "Guitarist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Eddie_Van_Halen_at_the_New_Haven_Coliseum.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eddie_Van_Halen"
 lastUpdated: "2026-03-12"

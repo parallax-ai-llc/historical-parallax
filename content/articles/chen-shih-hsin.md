@@ -5,7 +5,7 @@ birth: "1978-01-14"
 death: "Unknown"
 nationality: "Taiwanese"
 occupation: ["Athlete", "Olympic Champion", "Taekwondo"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/2006TaiwanSportEliteAwards_SSChen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chen_Shih-hsin"
 lastUpdated: "2026-02-26"

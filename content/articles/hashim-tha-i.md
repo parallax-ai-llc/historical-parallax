@@ -5,7 +5,7 @@ birth: "1968-04-24"
 death: "Unknown"
 nationality: "Kosovo"
 occupation: ["War Criminal", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Hashim_Tha%C3%A7i_official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hashim_Tha%C3%A7i"
 lastUpdated: "2026-02-21"

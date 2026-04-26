@@ -5,7 +5,7 @@ birth: "1897-05-27"
 death: "1967-09-18"
 nationality: "English"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cockcroft.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Cockcroft"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1945-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Pharmacologist", "Drug researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Tangjoonsang2020.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Han_Sang-jun"
 lastUpdated: "2026-02-21"

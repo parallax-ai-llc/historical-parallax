@@ -5,7 +5,7 @@ birth: "1720-04-23"
 death: "1797-10-09"
 nationality: "Lithuanian Jewish"
 occupation: ["Rabbi", "Scholar", "Talmudist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Vilna_Gaon%2C_Winograd_picture.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elijah_ben_Solomon_Zalman"
 lastUpdated: "2026-02-21"

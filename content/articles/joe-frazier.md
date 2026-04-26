@@ -5,7 +5,7 @@ birth: "1944-01-12"
 death: "2011-11-07"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Joe_Frazier_reading_newspaper_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Frazier"
 lastUpdated: "2026-02-21"

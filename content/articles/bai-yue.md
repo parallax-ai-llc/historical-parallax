@@ -5,7 +5,7 @@ birth: "1950-01-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Corrupt Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Yue_statue.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bai_Yue"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1926-10-31"
 death: "2011-10-29"
 nationality: "United Kingdom"
 occupation: ["Sex Offender", "Television Presenter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jimmy_Savile_2006.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Savile"
 lastUpdated: "2026-02-21"

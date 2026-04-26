@@ -5,7 +5,7 @@ birth: "1861-03-03"
 death: "1861-03-03"
 nationality: "Russia"
 occupation: ["Historical Event", "Social Movement", "Reform"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Reading_of_the_Manifest_%28Liberation_of_peasants%29_-_Kustodiev%2C_1907.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emancipation_of_Serfs_Russia"
 lastUpdated: "2026-02-21"

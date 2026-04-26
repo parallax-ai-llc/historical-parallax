@@ -3,6 +3,7 @@ name: "Duff Goldman"
 birth: "1974-12-17"
 nationality: "American"
 occupation: ["Chef", "Baker", "TV Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Duff_goldman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Duff_Goldman"
 lastUpdated: "2026-03-12"

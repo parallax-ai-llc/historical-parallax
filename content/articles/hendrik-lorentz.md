@@ -5,7 +5,7 @@ birth: "1853-07-18"
 death: "1928-02-04"
 nationality: "Dutch"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hendrik_Lorentz"
 lastUpdated: "2026-02-21"

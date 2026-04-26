@@ -5,7 +5,7 @@ birth: "1803-06-18"
 death: "1852-02-26"
 nationality: "France"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/H%C3%A9l%C3%A8ne_J%C3%A9gado.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Helene_Jegado"
 lastUpdated: "2026-02-26"

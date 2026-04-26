@@ -5,7 +5,7 @@ birth: "1935-09-11"
 death: "Unknown"
 nationality: "Estonian"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Arvo_P%C3%A4rt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arvo_Part"
 lastUpdated: "2026-02-21"

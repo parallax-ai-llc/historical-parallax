@@ -5,7 +5,7 @@ birth: "1995-08-07"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/ChumLee_of_%22Pawn_Stars%22_Infamy_%288139999431%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Austin_Russell"
 lastUpdated: "2026-02-21"

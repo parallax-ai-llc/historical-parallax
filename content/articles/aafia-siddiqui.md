@@ -5,7 +5,7 @@ birth: "1972-03-02"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Afia-grad-01a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aafia_Siddiqui"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1935-07-25"
 death: "2017-06-06"
 nationality: "Saudi Arabia"
 occupation: ["Arms Dealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/AdnanKhashoggi06_%28cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adnan_Khashoggi"
 lastUpdated: "2026-02-26"

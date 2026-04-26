@@ -5,7 +5,7 @@ birth: "1887-03-05"
 death: "1959-11-17"
 nationality: "Brazilian"
 occupation: ["Composer", "Conductor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Heitor_Vila-Lobos_%28c._1922%29part.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heitor_Villa-Lobos"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Asake"
 birth: "1999-01-13"
 nationality: "Nigerian"
 occupation: ["Singer", "Songwriter", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Asake_performing_in_a_Toronto_concert_%282024%29_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asake"
 lastUpdated: "2026-03-12"

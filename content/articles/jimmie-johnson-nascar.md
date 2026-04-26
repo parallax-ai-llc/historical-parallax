@@ -3,6 +3,7 @@ name: "Jimmie Johnson"
 birth: "1975-09-17"
 nationality: "American"
 occupation: ["Racing Driver", "NASCAR Champion", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Jimmie_Johnson_Sonoma_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmie_Johnson"
 lastUpdated: "2026-03-12"

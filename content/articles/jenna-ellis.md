@@ -5,7 +5,7 @@ birth: "1984-11-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Election Conspirator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jenna_Ellis_%2851250278023%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jenna_Ellis"
 lastUpdated: "2026-02-26"

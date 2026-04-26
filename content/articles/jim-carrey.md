@@ -3,6 +3,7 @@ name: "Jim Carrey"
 birth: "1962-01-17"
 nationality: "Canadian-American"
 occupation: ["Comedian", "Actor", "Artist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jim_Carrey_2020_%28cropped2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jim_Carrey"
 lastUpdated: "2026-03-12"

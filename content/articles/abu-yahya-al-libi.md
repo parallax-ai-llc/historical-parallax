@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "2012-06-04"
 nationality: "Libya"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Abu_Yahya_al-Libi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Yahya_al-Libi"
 lastUpdated: "2026-02-26"

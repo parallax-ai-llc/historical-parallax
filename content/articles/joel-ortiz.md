@@ -5,7 +5,7 @@ birth: "1999-03-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Joell_Ortiz_at_Amager_Bio_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joel_Ortiz"
 lastUpdated: "2026-02-26"

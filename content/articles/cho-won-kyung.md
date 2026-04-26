@@ -5,7 +5,7 @@ birth: "1950-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Environmental engineer", "Water scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/ChoJin-woong_at_news_conference_of_movie_%EC%82%AC%EB%83%A5.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Won-kyung"
 lastUpdated: "2026-02-21"

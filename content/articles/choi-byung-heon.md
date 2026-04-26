@@ -5,7 +5,7 @@ birth: "1945-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Earthquake engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Byung-heon"
 lastUpdated: "2026-02-21"

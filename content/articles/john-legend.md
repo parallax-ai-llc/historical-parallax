@@ -3,6 +3,7 @@ name: "John Legend"
 birth: "1978-12-28"
 nationality: "American"
 occupation: ["Musician", "Singer", "Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/JohnLegend-byPhilipRomano.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Legend"
 lastUpdated: "2026-03-12"

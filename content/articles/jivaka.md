@@ -5,7 +5,7 @@ birth: "-0500-01-01"
 death: "-0420-01-01"
 nationality: "Indian"
 occupation: ["Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Watkhungtaphao_Herbal_Garden%2C_zoom.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jivaka"
 lastUpdated: "2026-02-21"

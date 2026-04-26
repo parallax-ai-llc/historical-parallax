@@ -5,7 +5,7 @@ birth: "1857-02-22"
 death: "1894-01-01"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/HEINRICH_HERTZ.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heinrich_Hertz"
 lastUpdated: "2026-02-21"

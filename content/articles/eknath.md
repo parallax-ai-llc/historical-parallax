@@ -5,7 +5,7 @@ birth: "1533-01-01"
 death: "1599-01-01"
 nationality: "Indian"
 occupation: ["Poet", "Saint", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eknath_2003_stamp_of_India.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eknath"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1889-10-10"
 death: "1947-12-30"
 nationality: "Netherlands"
 occupation: ["Counterfeiter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Han_van_Meegeren_1945_%28retouched%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Han_van_Meegeren"
 lastUpdated: "2026-02-21"

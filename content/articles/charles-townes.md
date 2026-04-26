@@ -5,7 +5,7 @@ birth: "1915-07-28"
 death: "2015-01-27"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Charles_Townes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Townes"
 lastUpdated: "2026-02-21"

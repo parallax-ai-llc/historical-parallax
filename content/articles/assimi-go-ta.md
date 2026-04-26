@@ -5,7 +5,7 @@ birth: "1983-01-01"
 death: "Unknown"
 nationality: "Mali"
 occupation: ["Coup Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Assimi_Go%C3%AFta_in_July_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assimi_Go%C3%AFta"
 lastUpdated: "2026-02-26"

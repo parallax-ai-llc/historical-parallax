@@ -5,7 +5,7 @@ birth: "1920-01-01"
 death: "2004-01-01"
 nationality: "Korean"
 occupation: ["Materials engineer", "Steel scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/20211011%E2%80%94Paul_Ahn_%EC%95%88%ED%9A%A8%EC%84%AD%2C_photo_shoot%2C_Marie_Claire_Korea_%2802m19s%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Hyung-seop"
 lastUpdated: "2026-02-21"

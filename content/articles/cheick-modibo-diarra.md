@@ -5,7 +5,7 @@ birth: "1952-01-01"
 death: "Unknown"
 nationality: "Malian"
 occupation: ["Astrophysicist", "Space scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cheick_Modibo_Diarra_2010-09.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheick_Modibo_Diarra"
 lastUpdated: "2026-02-21"

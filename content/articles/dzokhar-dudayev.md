@@ -5,7 +5,7 @@ birth: "1944-02-15"
 death: "1996-04-21"
 nationality: "Russia"
 occupation: ["Separatist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dzhokhar_Dudayev_%28black_background%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dzokhar_Dudayev"
 lastUpdated: "2026-02-26"

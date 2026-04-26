@@ -5,7 +5,7 @@ birth: "1965-11-05"
 death: "living"
 nationality: "American"
 occupation: ["Surgeon", "Public Health Researcher", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Atul_Gawande%2C_USAID_Assistant_Administrator.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atul_Gawande"
 lastUpdated: "2026-02-21"

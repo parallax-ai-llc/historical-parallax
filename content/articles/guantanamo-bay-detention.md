@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/PessinGuantanamoCampFiveGate210.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guantanamo_Bay_Detention"
 lastUpdated: "2026-02-26"

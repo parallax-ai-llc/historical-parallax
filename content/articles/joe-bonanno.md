@@ -5,7 +5,7 @@ birth: "1905-01-18"
 death: "2002-05-11"
 nationality: "Italy / United States"
 occupation: ["Mafia Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Joseph_Bonanno_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joseph_Bonanno"
 lastUpdated: "2026-02-26"

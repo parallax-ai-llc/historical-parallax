@@ -5,7 +5,7 @@ birth: "1958-09-14"
 death: "Unknown"
 nationality: "Taiwanese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Cher_Wang_in_WEF.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cher_Wang"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1851-02-12"
 death: "1908-05-02"
 nationality: "French"
 occupation: ["Bacteriologist", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Charles_Chamberland.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Chamberland"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1686-01-19"
 death: "1769-01-18"
 nationality: "Japanese"
 occupation: ["Zen Master", "Artist", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Zen-Master-Hakuin-Ekaku-Self-Portrait-1767.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hakuin_Ekaku"
 lastUpdated: "2026-02-21"

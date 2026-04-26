@@ -5,7 +5,7 @@ birth: "1834-06-19"
 death: "1892-01-31"
 nationality: "English"
 occupation: ["Pastor", "Preacher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Spurgeon"
 lastUpdated: "2026-02-21"

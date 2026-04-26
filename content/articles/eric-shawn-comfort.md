@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "Barbados"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/2026_GA-14_special_election_0310_results.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Shawn_Comfort"
 lastUpdated: "2026-02-26"

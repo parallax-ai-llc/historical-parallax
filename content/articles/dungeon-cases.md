@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "International"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/D%26D_Game_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dungeon_Cases"
 lastUpdated: "2026-02-26"

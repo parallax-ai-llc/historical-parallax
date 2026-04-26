@@ -5,7 +5,7 @@ birth: "1929-05-08"
 death: "2019-01-16"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Photo_of_a_John_C._Bogle_By_Bill_Cramer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Bogle"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "2016-06-28"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Istanbul_Airport_Turkish-Airlines_2013-11-18.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2016_Istanbul_Airport_Attack"
 lastUpdated: "2026-02-26"

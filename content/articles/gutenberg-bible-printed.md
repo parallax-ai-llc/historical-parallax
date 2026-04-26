@@ -5,7 +5,7 @@ birth: "1455-01-01"
 death: "1455-01-01"
 nationality: "Germany"
 occupation: ["Historical Event", "Discovery", "Technology"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gutenberg_Bible_Printed"
 lastUpdated: "2026-02-21"

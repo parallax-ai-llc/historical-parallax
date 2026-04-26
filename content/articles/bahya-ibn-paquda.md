@@ -5,7 +5,7 @@ birth: "1050-01-01"
 death: "1120-01-01"
 nationality: "Spanish Jewish"
 occupation: ["Rabbi", "Philosopher", "Ethicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Guide_for_the_Perplexed_by_Maimonides.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bahya_ibn_Paquda"
 lastUpdated: "2026-02-21"

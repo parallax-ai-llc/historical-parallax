@@ -5,7 +5,7 @@ birth: "1947-06-22"
 death: "2020-11-12"
 nationality: "Ghana"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/JJ_Rawlings_in_Brussels_1998_%28P002554000101%2C_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Rawlings"
 lastUpdated: "2026-02-21"

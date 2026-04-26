@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_de_Enron.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enron_Scandal"
 lastUpdated: "2026-02-26"

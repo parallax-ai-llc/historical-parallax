@@ -5,7 +5,7 @@ birth: "2000-04-23"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Snowboarder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Chloe_Kim_PCSFN_Headshot_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chloe_Kim"
 lastUpdated: "2026-02-26"

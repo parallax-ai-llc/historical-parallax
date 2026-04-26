@@ -5,7 +5,7 @@ birth: "2024-12-20"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Magdeburg_car_attack.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2024_Magdeburg_Christmas_Market_Attack"
 lastUpdated: "2026-02-26"

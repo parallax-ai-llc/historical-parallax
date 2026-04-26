@@ -5,7 +5,7 @@ birth: "1949-08-31"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/H.D._Politzer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/H._David_Politzer"
 lastUpdated: "2026-02-21"

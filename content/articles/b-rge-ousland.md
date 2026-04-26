@@ -5,7 +5,7 @@ birth: "1962-05-31"
 death: "Unknown"
 nationality: "Norwegian"
 occupation: ["Explorer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/B%C3%B8rge_Ousland_at_Zero_2010_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/B%C3%B8rge_Ousland"
 lastUpdated: "2026-02-26"

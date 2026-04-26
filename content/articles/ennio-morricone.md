@@ -5,7 +5,7 @@ birth: "1928-11-10"
 death: "2020-07-06"
 nationality: "Italian"
 occupation: ["Composer", "Conductor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ennio_Morricone_Cannes_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ennio_Morricone"
 lastUpdated: "2026-02-21"

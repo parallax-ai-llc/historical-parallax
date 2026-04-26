@@ -5,7 +5,7 @@ birth: "1974-10-06"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/CSIRO_ScienceImage_3083_CSIRO_has_identified_the_ideal_macadamia_preferred_by_consumers.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Hyun-ah_Nut_Rage"
 lastUpdated: "2026-02-26"

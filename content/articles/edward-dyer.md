@@ -5,7 +5,7 @@ birth: "1864-01-01"
 death: "1927-01-23"
 nationality: "United Kingdom"
 occupation: ["Military Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0d/General-Reginald-Dyer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Dyer"
 lastUpdated: "2026-02-26"

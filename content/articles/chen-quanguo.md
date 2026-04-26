@@ -5,7 +5,7 @@ birth: "1955-07-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Human Rights Violator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Chen_Quanguo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chen_Quanguo"
 lastUpdated: "2026-02-26"

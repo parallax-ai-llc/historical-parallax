@@ -5,7 +5,7 @@ birth: "2002-04-26"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/GutenbergGymErfurt.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Erfurt_School_Massacre"
 lastUpdated: "2026-02-26"

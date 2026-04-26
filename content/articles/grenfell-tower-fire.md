@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Grenfell_Tower_fire_%28wider_view%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grenfell_Tower_Fire"
 lastUpdated: "2026-02-26"

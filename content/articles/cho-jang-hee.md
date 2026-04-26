@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Biomedical engineer", "Prosthetics researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jang_Won-young_at_the_Miu_Miu_Beauty_event%2C_April_6%2C_2026_%281%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Jang-hee"
 lastUpdated: "2026-02-21"

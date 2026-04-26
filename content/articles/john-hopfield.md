@@ -5,7 +5,7 @@ birth: "1933-07-15"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist", "Neuroscientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/John_J._Hopfield_delivering_his_lecture_at_the_2024_Nobel_Prize_Lectures_in_Stockholm.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Hopfield"
 lastUpdated: "2026-02-21"

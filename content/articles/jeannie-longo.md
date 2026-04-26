@@ -5,7 +5,7 @@ birth: "1958-10-31"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Olympic Champion", "Cyclist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jeannie_Longo_-_6_jours_de_Grenoble_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeannie_Longo"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1966-10-30"
 death: "2006-06-07"
 nationality: "Jordan"
 occupation: ["Terrorist", "Al-Qaeda in Iraq Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Abu_Musab_al-Zarqawi_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi"
 lastUpdated: "2026-02-26"

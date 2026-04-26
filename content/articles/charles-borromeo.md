@@ -5,7 +5,7 @@ birth: "1538-10-02"
 death: "1584-11-03"
 nationality: "Italian"
 occupation: ["Cardinal", "Archbishop", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Carlo_Borromeo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Borromeo"
 lastUpdated: "2026-02-21"

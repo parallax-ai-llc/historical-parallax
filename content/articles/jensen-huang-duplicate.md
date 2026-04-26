@@ -5,7 +5,7 @@ birth: "1963-02-17"
 death: "Unknown"
 nationality: "Taiwanese-American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Fucus_serratus_2015-09-08_ag_M0010140.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jensen_Huang_duplicate"
 lastUpdated: "2026-02-26"

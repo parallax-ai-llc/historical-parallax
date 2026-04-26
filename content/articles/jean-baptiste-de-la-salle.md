@@ -5,7 +5,7 @@ birth: "1651-04-30"
 death: "1719-04-07"
 nationality: "French"
 occupation: ["Priest", "Educator", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Jean_baptiste_de_la_Salle.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Baptiste_de_la_Salle"
 lastUpdated: "2026-02-21"

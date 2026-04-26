@@ -5,7 +5,7 @@ birth: "1953-01-01"
 death: "Unknown"
 nationality: "Malian"
 occupation: ["Painter", "Textile Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Abdoulaye_KONATE.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdoulaye_Konate"
 lastUpdated: "2026-02-21"

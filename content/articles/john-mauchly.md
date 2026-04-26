@@ -5,7 +5,7 @@ birth: "1907-08-30"
 death: "1980-01-08"
 nationality: "American"
 occupation: ["Physicist", "Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dr._J._W._Mauchly_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Mauchly"
 lastUpdated: "2026-02-21"

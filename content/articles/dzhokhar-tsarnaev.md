@@ -5,7 +5,7 @@ birth: "1993-07-22"
 death: "N/A (Death Row)"
 nationality: "Russia / United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/DzhokharATsarnaev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dzhokhar_Tsarnaev"
 lastUpdated: "2026-02-21"

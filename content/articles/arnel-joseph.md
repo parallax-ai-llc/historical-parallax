@@ -5,7 +5,7 @@ birth: "1980-01-01"
 death: "2019-12-28"
 nationality: "Haiti"
 occupation: ["Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/2019_Haitian_protests_tire_fire.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnel_Joseph"
 lastUpdated: "2026-02-26"

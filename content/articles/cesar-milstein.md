@@ -5,7 +5,7 @@ birth: "1927-10-08"
 death: "2002-03-24"
 nationality: "Argentine-British"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Milstein_lnp_restauraci%C3%B3n.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cesar_Milstein"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1765-12-08"
 death: "1825-01-08"
 nationality: "American"
 occupation: ["Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Eli_Whitney_by_Samuel_Finley_Breese_Morse_1822.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eli_Whitney"
 lastUpdated: "2026-02-21"

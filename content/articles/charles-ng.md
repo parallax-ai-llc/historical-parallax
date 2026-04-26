@@ -5,7 +5,7 @@ birth: "1960-12-24"
 death: "Unknown"
 nationality: "Hong Kong"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Charles_Ng_2018_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Ng"
 lastUpdated: "2026-02-26"

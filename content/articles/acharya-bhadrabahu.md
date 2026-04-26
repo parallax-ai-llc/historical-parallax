@@ -5,7 +5,7 @@ birth: "-0367-01-01"
 death: "-0298-01-01"
 nationality: "Indian"
 occupation: ["Jain Scholar", "Monk"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Chandragupta_Maurya_and_Bhadrabahu_-_at_the_entrance_to_Chandragupta_Basadi_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Acharya_Bhadrabahu"
 lastUpdated: "2026-02-21"

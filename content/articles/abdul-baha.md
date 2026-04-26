@@ -5,7 +5,7 @@ birth: "1844-05-23"
 death: "1921-11-28"
 nationality: "Persian"
 occupation: ["Religious Leader", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Picture_of_Abdul-Baha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul-Baha"
 lastUpdated: "2026-02-21"

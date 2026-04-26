@@ -4,6 +4,7 @@ birth: "1886-03-24"
 death: "1958-01-01"
 nationality: "American"
 occupation: ["Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Young_Edward_Weston_with_a_camera.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Weston"
 lastUpdated: "2026-03-12"

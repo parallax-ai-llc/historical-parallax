@@ -5,7 +5,7 @@ birth: "1967-10-02"
 death: "Unknown"
 nationality: "Armenian-American"
 occupation: ["Molecular Biologist", "Neuroscientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ardem_Patapoutian"
 lastUpdated: "2026-02-21"

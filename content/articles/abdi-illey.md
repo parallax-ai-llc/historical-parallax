@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "Unknown"
 nationality: "Ethiopia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abdimohamoud.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdi_Illey"
 lastUpdated: "2026-02-26"

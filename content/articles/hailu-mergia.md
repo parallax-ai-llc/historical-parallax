@@ -5,7 +5,7 @@ birth: "1946-01-01"
 death: "Unknown"
 nationality: "Ethiopian"
 occupation: ["Musician", "Keyboardist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hailu_Mergia_Perth_Festival_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hailu_Mergia"
 lastUpdated: "2026-02-21"

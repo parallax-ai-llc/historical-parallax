@@ -5,7 +5,7 @@ birth: "1982-01-28"
 death: "Unknown"
 nationality: "Ugandan"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Global_Citizen_2015_Earth_Day_%2817026227049%29_%28Ashish_Thakkar%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ashish_Thakkar"
 lastUpdated: "2026-02-21"

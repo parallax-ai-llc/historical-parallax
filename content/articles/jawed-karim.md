@@ -3,6 +3,7 @@ name: Jawed Karim
 birth: "1979-10-28"
 nationality: German American
 occupation: ["Entrepreneur", "Co-founder of YouTube", "Investor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Jawed_Karim_2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jawed_Karim"
 lastUpdated: "2025-12-22"

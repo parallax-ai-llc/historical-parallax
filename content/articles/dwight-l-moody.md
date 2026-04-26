@@ -5,7 +5,7 @@ birth: "1837-02-05"
 death: "1899-12-22"
 nationality: "American"
 occupation: ["Evangelist", "Publisher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dwight_Lyman_Moody_c.1900.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dwight_L._Moody"
 lastUpdated: "2026-02-21"

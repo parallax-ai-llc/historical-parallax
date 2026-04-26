@@ -5,7 +5,7 @@ birth: "1936-03-11"
 death: "Unknown"
 nationality: "German"
 occupation: ["Virologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Harald_zur_Hausen_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harald_zur_Hausen"
 lastUpdated: "2026-02-26"

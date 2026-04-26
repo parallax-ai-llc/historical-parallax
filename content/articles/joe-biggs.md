@@ -5,7 +5,7 @@ birth: "1983-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Proud_Boy_Joe_Biggs_-_Seminole_County_Jail.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Biggs"
 lastUpdated: "2026-02-26"

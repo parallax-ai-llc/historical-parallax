@@ -5,7 +5,7 @@ birth: "1881-03-26"
 death: "1953-01-02"
 nationality: "Italian"
 occupation: ["Entrepreneur", "Fashion Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Guccio_Gucci_c.1940.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guccio_Gucci"
 lastUpdated: "2026-02-21"

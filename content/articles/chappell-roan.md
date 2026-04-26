@@ -3,6 +3,7 @@ name: "Chappell Roan"
 birth: "1998-02-19"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/ChappellRoanRockES200825-198_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chappell_Roan"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1910-08-20"
 death: "1961-09-01"
 nationality: "Finnish-American"
 occupation: ["Architect", "Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Eero-Saarinen_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eero_Saarinen"
 lastUpdated: "2026-02-21"

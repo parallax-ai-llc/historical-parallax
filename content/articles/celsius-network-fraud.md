@@ -5,7 +5,7 @@ birth: "2022-06-12"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Crypto Fraud"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Celsius_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Celsius_Network_Fraud"
 lastUpdated: "2026-02-26"

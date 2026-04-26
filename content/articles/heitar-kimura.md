@@ -5,7 +5,7 @@ birth: "1888-09-28"
 death: "1948-12-23"
 nationality: "Japan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Kimura_Heitaro.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heitar%C5%8D_Kimura"
 lastUpdated: "2026-02-26"

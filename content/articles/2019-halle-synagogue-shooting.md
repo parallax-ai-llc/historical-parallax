@@ -5,7 +5,7 @@ birth: "2019-10-09"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/HalleSynagoge_01.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2019_Halle_Synagogue_Shooting"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1921-07-18"
 death: "2016-12-08"
 nationality: "American"
 occupation: ["Astronaut", "Pilot", "Senator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/John_Glenn_Low_Res.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Glenn"
 lastUpdated: "2026-02-21"

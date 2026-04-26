@@ -5,7 +5,7 @@ birth: "1943-12-27"
 death: "N/A (Death Row)"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/John_Robinson_mugshot_3-4-2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Edward_Robinson"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1981-09-11"
 death: "1999-04-20"
 nationality: "United States"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Columbinememorial.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Harris_and_Dylan_Klebold"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1952-10-05"
 death: "Unknown"
 nationality: "Tajikistan"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Vladimir_Putin_and_Emomali_Rahmon_made_statements_for_the_press_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emomali_Rahmon"
 lastUpdated: "2026-02-26"

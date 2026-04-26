@@ -5,7 +5,7 @@ birth: "1906-09-01"
 death: "2002-07-14"
 nationality: "Dominican Republic"
 occupation: ["Dictator", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Joaquin_Balaguer_1977.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Balaguer"
 lastUpdated: "2026-02-21"

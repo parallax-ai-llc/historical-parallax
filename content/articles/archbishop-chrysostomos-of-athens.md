@@ -5,7 +5,7 @@ birth: "1868-01-01"
 death: "1938-10-28"
 nationality: "Greek"
 occupation: ["Archbishop", "National Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Archbishop_Chrysostomos_Hatzistavrou_%281880-1968%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Archbishop_Chrysostomos_of_Athens"
 lastUpdated: "2026-02-26"

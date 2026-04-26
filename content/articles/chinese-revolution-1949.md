@@ -5,7 +5,7 @@ birth: "1946-06-01"
 death: "1949-10-01"
 nationality: "China"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Communists_Being_Arrested_in_the_Shanghai_Massacre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chinese_Revolution_1949"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Hailey Welch"
 birth: "2002-09-13"
 nationality: "American"
 occupation: ["Internet Personality", "Podcaster", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Haliey_Welch_at_DreamHack_Atlanta_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hailey_Welch"
 lastUpdated: "2026-03-12"

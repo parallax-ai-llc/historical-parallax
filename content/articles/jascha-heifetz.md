@@ -5,7 +5,7 @@ birth: "1901-02-02"
 death: "1987-12-10"
 nationality: "Lithuanian-American"
 occupation: ["Violinist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Heifetz_LOC_38890u.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jascha_Heifetz"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Adam Driver"
 birth: "1983-11-19"
 nationality: "American"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Adam_Driver.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adam_Driver"
 lastUpdated: "2026-03-12"

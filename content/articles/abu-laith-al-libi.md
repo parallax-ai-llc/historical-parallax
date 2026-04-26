@@ -5,7 +5,7 @@ birth: "1967-01-01"
 death: "2008-01-29"
 nationality: "Libya"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Abu_laith_al_libi_--_rewards_for_justice.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Laith_al-Libi"
 lastUpdated: "2026-02-26"

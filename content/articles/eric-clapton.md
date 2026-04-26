@@ -3,6 +3,7 @@ name: "Eric Clapton"
 birth: "1945-03-30"
 nationality: "British"
 occupation: ["Musician", "Guitarist", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/JeffBeckTribute1RAH220523_%28106_of_136%29_%2852920038844%29_%28Eric_Clapton%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Clapton"
 lastUpdated: "2026-03-12"

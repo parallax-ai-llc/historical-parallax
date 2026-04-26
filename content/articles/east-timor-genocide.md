@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Santa_Cruz_Cemetery_%286395937961%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/East_Timor_Genocide"
 lastUpdated: "2026-02-26"

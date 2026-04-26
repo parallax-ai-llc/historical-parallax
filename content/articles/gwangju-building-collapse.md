@@ -5,7 +5,7 @@ birth: "2021-06-09"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/2021_Gwangju_building_collapse_2.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gwangju_Building_Collapse"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1908-08-18"
 death: "1970-02-16"
 nationality: "Indonesia"
 occupation: ["Writer", "Journalist", "Editor", "Teacher", "Translator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Armijn_Pane%2C_around_1953.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Armijn_Pane"
 lastUpdated: "2026-01-15"

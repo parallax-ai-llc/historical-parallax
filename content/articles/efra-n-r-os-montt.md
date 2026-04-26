@@ -5,7 +5,7 @@ birth: "1926-06-16"
 death: "2018-04-01"
 nationality: "Guatemala"
 occupation: ["Dictator", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Retrato_oficial_de_Presidente_Efra%C3%ADn_R%C3%ADos_Montt_%28cropped_3%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Efra%C3%ADn_R%C3%ADos_Montt"
 lastUpdated: "2026-02-26"

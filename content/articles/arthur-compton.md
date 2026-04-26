@@ -5,7 +5,7 @@ birth: "1892-09-10"
 death: "1962-03-15"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arthur_Compton_1927.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Compton"
 lastUpdated: "2026-02-21"

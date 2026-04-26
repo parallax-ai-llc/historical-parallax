@@ -3,6 +3,7 @@ name: "Action Bronson"
 birth: "1983-12-02"
 nationality: "American"
 occupation: ["Rapper", "Chef", "TV Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Action_Bronson_Gov_Ball_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Action_Bronson"
 lastUpdated: "2026-03-12"

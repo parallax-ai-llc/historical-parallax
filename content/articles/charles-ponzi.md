@@ -5,7 +5,7 @@ birth: "1882-03-03"
 death: "1949-01-18"
 nationality: "Italy / United States"
 occupation: ["Fraudster", "Con Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ponzi1920.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Ponzi"
 lastUpdated: "2026-02-21"

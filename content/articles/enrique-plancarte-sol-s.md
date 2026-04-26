@@ -5,7 +5,7 @@ birth: "1970-03-08"
 death: "2014-04-01"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Enrique_PLANCARTE_SOLIS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enrique_Plancarte_Sol%C3%ADs"
 lastUpdated: "2026-02-26"

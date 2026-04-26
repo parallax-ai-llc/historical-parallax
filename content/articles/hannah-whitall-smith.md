@@ -5,7 +5,7 @@ birth: "1832-02-07"
 death: "1911-05-01"
 nationality: "American"
 occupation: ["Author", "Evangelist", "Holiness Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Hannah_Whitall_Smith.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hannah_Whitall_Smith"
 lastUpdated: "2026-02-21"

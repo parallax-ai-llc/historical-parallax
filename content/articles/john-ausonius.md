@@ -5,7 +5,7 @@ birth: "1953-06-17"
 death: "Unknown"
 nationality: "Sweden"
 occupation: ["Serial Killer", "Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/John_Ausonius.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Ausonius"
 lastUpdated: "2026-02-21"

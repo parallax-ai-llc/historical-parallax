@@ -5,7 +5,7 @@ birth: "1847-09-05"
 death: "1882-04-03"
 nationality: "United States"
 occupation: ["Outlaw", "Bank Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jesse_James_NYPost.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jesse_James"
 lastUpdated: "2026-02-21"

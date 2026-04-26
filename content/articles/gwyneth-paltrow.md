@@ -5,7 +5,7 @@ birth: "1972-09-27"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Celebrity"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gwyneth_Paltrow_-_Marty_Supreme.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gwyneth_Paltrow"
 lastUpdated: "2026-02-26"

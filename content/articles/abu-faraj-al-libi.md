@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "Unknown"
 nationality: "Libya"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Abu_Faraj_al-Libbi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Faraj_al-Libi"
 lastUpdated: "2026-02-26"

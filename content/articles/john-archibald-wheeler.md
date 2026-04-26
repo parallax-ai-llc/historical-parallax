@@ -5,7 +5,7 @@ birth: "1911-07-09"
 death: "2008-04-13"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/John_Archibald_Wheeler_lecturing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Archibald_Wheeler"
 lastUpdated: "2026-02-21"

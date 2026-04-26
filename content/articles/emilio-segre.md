@@ -5,7 +5,7 @@ birth: "1905-02-01"
 death: "1989-04-22"
 nationality: "Italian-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Segre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emilio_Segre"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1890-11-23"
 death: "1941-12-30"
 nationality: "Russian"
 occupation: ["Painter", "Designer", "Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/El_lissitzky_self_portrait_1924.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Lissitzky"
 lastUpdated: "2026-02-21"

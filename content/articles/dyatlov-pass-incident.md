@@ -5,7 +5,7 @@ birth: "1959-02-01"
 death: "Unknown"
 nationality: "Soviet Union"
 occupation: ["Unsolved Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B4%D1%8F%D1%82%D0%BB%D0%BE%D0%B2%D1%86%D0%B0%D0%BC_%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dyatlov_Pass_Incident"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1940-10-27"
 death: "2002-06-10"
 nationality: "United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/John_Gotti_FBI_booking_%28cropped%29_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Gotti"
 lastUpdated: "2026-02-21"

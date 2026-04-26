@@ -5,7 +5,7 @@ birth: "1534-09-24"
 death: "1581-09-01"
 nationality: "Indian"
 occupation: ["Sikh Guru", "Founder of Amritsar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Guru_Ram_Das_miniature_painting.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Ram_Das"
 lastUpdated: "2026-02-21"

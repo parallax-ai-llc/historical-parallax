@@ -5,7 +5,7 @@ birth: "1990-11-09"
 death: "Unknown"
 nationality: "Irish"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Prime_Minister_meets_with_the_Founder_%26_President_of_Stripe_-_52922981984_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Collison"
 lastUpdated: "2026-02-21"

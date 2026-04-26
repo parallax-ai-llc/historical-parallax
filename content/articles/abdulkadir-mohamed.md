@@ -5,7 +5,7 @@ birth: "1990-01-01"
 death: "Unknown"
 nationality: "Sweden"
 occupation: ["Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Farah_Sh_Abdulkadir.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdulkadir_Mohamed"
 lastUpdated: "2026-02-26"

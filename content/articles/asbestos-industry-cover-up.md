@@ -5,7 +5,7 @@ birth: "1930-01-01"
 death: "Unknown"
 nationality: "International"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Asbestos_with_muscovite.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asbestos_Industry_Cover-up"
 lastUpdated: "2026-02-26"

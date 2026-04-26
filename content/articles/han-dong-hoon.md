@@ -5,7 +5,7 @@ birth: "1973-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Han_Dong-hoon_20240901.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Han_Dong-hoon"
 lastUpdated: "2026-02-26"

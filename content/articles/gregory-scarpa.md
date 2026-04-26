@@ -5,7 +5,7 @@ birth: "1928-05-08"
 death: "1994-06-04"
 nationality: "United States"
 occupation: ["Mafioso", "FBI Informant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Scarpaa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Greg_Scarpa"
 lastUpdated: "2026-02-21"

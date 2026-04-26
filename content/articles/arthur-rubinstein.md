@@ -4,6 +4,7 @@ birth: "1887-01-28"
 death: "1982-12-20"
 nationality: "Polish-American"
 occupation: ["Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Arthur_Rubinstein.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Rubinstein"
 lastUpdated: "2026-03-12"

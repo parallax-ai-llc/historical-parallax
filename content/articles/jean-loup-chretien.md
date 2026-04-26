@@ -3,6 +3,7 @@ name: "Jean-Loup Chretien"
 birth: "1938-08-20"
 nationality: "French"
 occupation: ["Astronaut", "Fighter Pilot"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jean-Loup_Jacques_Marie_Chr%C3%A9tien%2C_French_Spationaut_%28NASA%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Loup_Chr%C3%A9tien"
 lastUpdated: "2026-03-12"

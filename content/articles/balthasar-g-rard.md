@@ -5,7 +5,7 @@ birth: "1557-03-22"
 death: "1584-07-14"
 nationality: "France"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Balthasar_Gerards.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Balthasar_G%C3%A9rard"
 lastUpdated: "2026-02-26"

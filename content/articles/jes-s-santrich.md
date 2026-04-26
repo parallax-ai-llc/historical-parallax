@@ -5,7 +5,7 @@ birth: "1967-03-27"
 death: "2021-05-17"
 nationality: "Colombia"
 occupation: ["Drug Lord", "Rebel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jes%C3%BAs_Santrich_%282017%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jes%C3%BAs_Santrich"
 lastUpdated: "2026-02-26"

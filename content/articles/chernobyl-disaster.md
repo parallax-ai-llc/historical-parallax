@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/IAEA_02790015_%285613115146%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chernobyl_Disaster"
 lastUpdated: "2026-02-26"

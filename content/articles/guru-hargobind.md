@@ -5,7 +5,7 @@ birth: "1595-06-19"
 death: "1644-03-03"
 nationality: "Indian"
 occupation: ["Sikh Guru", "Warrior"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Contemporary_painting_of_the_sixth_Sikh_guru%2C_Guru_Hargobind._Provincial_Mughal_school%2C_Deccan%2C_mid-17th_century.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Hargobind"
 lastUpdated: "2026-02-21"

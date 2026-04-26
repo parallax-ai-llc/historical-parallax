@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Soviet Union"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gulag_Location_Map.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gulag_System"
 lastUpdated: "2026-02-26"

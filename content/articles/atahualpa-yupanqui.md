@@ -3,6 +3,7 @@ name: "Atahualpa Yupanqui"
 birth: "1908-01-31"
 nationality: "Argentine"
 occupation: ["Singer", "Songwriter", "Guitarist", "Poet"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Atahualpa_yupanqui_young.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atahualpa_Yupanqui"
 lastUpdated: "2026-03-12"

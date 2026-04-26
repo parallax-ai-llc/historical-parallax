@@ -5,7 +5,7 @@ birth: "1752-06-15"
 death: "1752-06-15"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Physics"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/London_MMB_%C2%BB1E6_Lightning.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Electricity_Discovery_Franklin"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1992-04-12"
 death: "Unknown"
 nationality: "South African"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Chad_le_Clos_2013_3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chad_le_Clos"
 lastUpdated: "2026-02-26"

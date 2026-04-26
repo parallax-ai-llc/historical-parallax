@@ -5,7 +5,7 @@ birth: "1943-07-15"
 death: "Unknown"
 nationality: "British-Irish"
 occupation: ["Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Launch_of_IYA_2009%2C_Paris_-_Grygar%2C_Bell_Burnell_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1760-10-23"
 death: "1835-11-21"
 nationality: "Japanese"
 occupation: ["Surgeon", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/HanaokaSeishu.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanaoka_Seishu"
 lastUpdated: "2026-02-21"

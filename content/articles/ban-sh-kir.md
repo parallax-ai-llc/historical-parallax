@@ -5,7 +5,7 @@ birth: "0800-01-01"
 death: "0870-01-01"
 nationality: "Arab"
 occupation: ["Mathematicians", "Engineers"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Dua_Lipa-69798_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ban%C5%AB_Sh%C4%81kir"
 lastUpdated: "2026-02-21"

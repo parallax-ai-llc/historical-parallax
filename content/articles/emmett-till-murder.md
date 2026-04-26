@@ -5,7 +5,7 @@ birth: "1955-08-28"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Emmett_Till_1954.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emmett_Till_Murder"
 lastUpdated: "2026-02-26"

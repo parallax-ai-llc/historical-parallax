@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Emirati"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/H_E_Abdul_Aziz_Al_Ghurair_pic.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Aziz_Al_Ghurair"
 lastUpdated: "2026-02-21"

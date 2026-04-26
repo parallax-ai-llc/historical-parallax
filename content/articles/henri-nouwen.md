@@ -5,7 +5,7 @@ birth: "1932-01-24"
 death: "1996-09-21"
 nationality: "Dutch"
 occupation: ["Priest", "Author", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/HenriNouwen.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henri_Nouwen"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1941-06-24"
 death: "1966-08-01"
 nationality: "United States"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Charles_Whitman_%281963%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Whitman"
 lastUpdated: "2026-02-26"

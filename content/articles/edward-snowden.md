@@ -5,7 +5,7 @@ birth: "1983-06-21"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Snowden"
 lastUpdated: "2026-02-26"

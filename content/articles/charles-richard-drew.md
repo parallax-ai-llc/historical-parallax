@@ -5,7 +5,7 @@ birth: "1904-06-03"
 death: "1950-04-01"
 nationality: "American"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/99/Portrait_of_Charles_Drew.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Richard_Drew"
 lastUpdated: "2026-02-26"

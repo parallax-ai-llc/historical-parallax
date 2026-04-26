@@ -5,7 +5,7 @@ birth: "2017-08-12"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charlottesville_Rally"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1870-08-07"
 death: "1950-01-16"
 nationality: "German"
 occupation: ["Industrialist", "Diplomat"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gustav_Krupp_von_Bohlen_und_Halbach_in_1915.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustav_Krupp"
 lastUpdated: "2026-02-21"

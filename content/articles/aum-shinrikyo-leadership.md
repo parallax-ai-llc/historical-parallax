@@ -5,7 +5,7 @@ birth: "1955-03-02"
 death: "2018-07-06"
 nationality: "Japan"
 occupation: ["Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Aleph-logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aum_Shinrikyo_leadership"
 lastUpdated: "2026-02-26"

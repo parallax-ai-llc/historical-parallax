@@ -5,7 +5,7 @@ birth: "1839-06-24"
 death: "1903-03-29"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gustavus_Swift_enlarged.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustavus_Swift"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1777-08-14"
 death: "1851-03-09"
 nationality: "Danish"
 occupation: ["Physicist", "Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/C.A._Jensen_-_Portrait_of_the_Physicist_Hans_Christian_%C3%98rsted_-_KMS8176_-_Statens_Museum_for_Kunst.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Christian_Orsted"
 lastUpdated: "2026-02-21"

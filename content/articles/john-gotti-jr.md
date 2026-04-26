@@ -5,7 +5,7 @@ birth: "1964-02-14"
 death: "N/A"
 nationality: "United States"
 occupation: ["Mafia Associate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/John_A._Gotti_FBI_surveillance_photo_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_A._Gotti"
 lastUpdated: "2026-02-26"

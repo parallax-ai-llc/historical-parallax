@@ -5,7 +5,7 @@ birth: "1965-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chapo_Isidro"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1948-12-18"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kempermugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ed_Kemper"
 lastUpdated: "2026-02-26"

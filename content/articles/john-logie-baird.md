@@ -5,7 +5,7 @@ birth: "1888-08-14"
 death: "1946-06-14"
 nationality: "Scottish"
 occupation: ["Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/John_Logie_Baird_in_1917.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Logie_Baird"
 lastUpdated: "2026-02-21"

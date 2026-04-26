@@ -5,7 +5,7 @@ birth: "1871-01-04"
 death: "1949-06-22"
 nationality: "Germany"
 occupation: ["Colonial Administrator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Heinrich_Schnee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heinrich_Schnee"
 lastUpdated: "2026-02-26"

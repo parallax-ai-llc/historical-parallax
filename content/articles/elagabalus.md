@@ -5,7 +5,7 @@ birth: "0204-03-20"
 death: "0222-03-11"
 nationality: "Roman Empire"
 occupation: ["Historical Criminal", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Marble_bust_of_Roman_emperor_Elagabalus%2C_ca._221_AD%2C_Capitoline_Museums_%2820814003112%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elagabalus"
 lastUpdated: "2026-02-26"

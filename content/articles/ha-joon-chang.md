@@ -5,7 +5,7 @@ birth: "1963-10-07"
 death: "Unknown"
 nationality: "Korean-British"
 occupation: ["Economist", "Development scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ha-Joon_Chang_profile_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ha_Joon-Chang"
 lastUpdated: "2026-02-21"

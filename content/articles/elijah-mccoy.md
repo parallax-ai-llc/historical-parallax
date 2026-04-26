@@ -5,7 +5,7 @@ birth: "1844-05-02"
 death: "1929-10-10"
 nationality: "Canadian-American"
 occupation: ["Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Elijah_McCoy_c1895_retouched.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elijah_McCoy"
 lastUpdated: "2026-02-21"

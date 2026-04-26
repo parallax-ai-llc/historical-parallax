@@ -5,7 +5,7 @@ birth: "1621-04-01"
 death: "1675-11-24"
 nationality: "Indian"
 occupation: ["Sikh Guru", "Martyr", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Contemporary_painting_of_Guru_Tegh_Bahadur_by_Ahsan%2C_ca.1667%E2%80%9368_%28detail%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur"
 lastUpdated: "2026-02-21"

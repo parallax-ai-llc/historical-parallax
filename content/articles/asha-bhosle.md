@@ -3,6 +3,7 @@ name: "Asha Bhosle"
 birth: "1933-09-08"
 nationality: "Indian"
 occupation: ["Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ashaji.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asha_Bhosle"
 lastUpdated: "2026-03-12"

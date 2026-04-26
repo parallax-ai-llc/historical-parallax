@@ -5,7 +5,7 @@ birth: "2011-07-22"
 death: "Unknown"
 nationality: "Norway"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Oslo_view_of_city_after_July_2011_bombing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2011_Norway_Attacks"
 lastUpdated: "2026-02-26"

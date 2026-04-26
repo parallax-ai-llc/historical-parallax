@@ -5,7 +5,7 @@ birth: "1938-12-08"
 death: "Unknown"
 nationality: "Ghana"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/John_Kufuor_080915-A-8817J-090.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Agyekum_Kufuor"
 lastUpdated: "2026-02-26"

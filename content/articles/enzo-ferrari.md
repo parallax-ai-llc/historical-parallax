@@ -5,7 +5,7 @@ birth: "1898-02-18"
 death: "1988-08-14"
 nationality: "Italian"
 occupation: ["Entrepreneur", "Racing Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Enzo_Ferrari_Monza_1967.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enzo_Ferrari"
 lastUpdated: "2026-02-21"

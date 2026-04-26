@@ -5,7 +5,7 @@ birth: "1315-01-01"
 death: "1390-01-01"
 nationality: "Persian"
 occupation: ["Poet", "Sufi"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Divan_hafiz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hafiz_of_Shiraz"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1094-01-01"
 death: "1162-01-01"
 nationality: "Andalusian"
 occupation: ["Physician", "Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ibn_Zuhr%2C_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Marwan_Ibn_Zuhr"
 lastUpdated: "2026-02-21"

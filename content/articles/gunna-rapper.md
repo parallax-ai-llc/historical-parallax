@@ -3,6 +3,7 @@ name: "Gunna"
 birth: "1993-06-14"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Gunna_June_2025.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gunna_(rapper)"
 lastUpdated: "2026-03-12"

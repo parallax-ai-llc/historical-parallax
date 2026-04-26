@@ -3,6 +3,7 @@ name: "Han So-hee"
 birth: "1994-11-18"
 nationality: "South Korean"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Han_So-Hee_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Han_So-hee"
 lastUpdated: "2026-03-12"

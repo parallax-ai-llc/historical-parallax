@@ -5,7 +5,7 @@ birth: "1089-01-01"
 death: "1173-01-01"
 nationality: "Indian"
 occupation: ["Jain Scholar", "Polymath", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Hemachandra.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Acharya_Hemachandra"
 lastUpdated: "2026-02-21"

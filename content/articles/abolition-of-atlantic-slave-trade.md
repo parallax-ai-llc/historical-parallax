@@ -5,7 +5,7 @@ birth: "1807-03-25"
 death: "1807-03-25"
 nationality: "United Kingdom"
 occupation: ["Historical Event", "Social Movement", "Abolition"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Coat_of_Arms_of_the_United_Kingdom_%281801-1816%29.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abolition_of_Atlantic_Slave_Trade"
 lastUpdated: "2026-02-21"

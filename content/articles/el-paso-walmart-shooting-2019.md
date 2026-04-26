@@ -6,7 +6,7 @@ location: "El Paso, Texas, United States"
 coordinates: [-106.42, 31.77]
 category: ["Terrorism", "Mass Shooting", "United States"]
 outcome: "23 killed, 23 injured"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Patrick_Crusius_exiting_a_Walmart_in_El_Paso%2C_Texas_after_murdering_23_shoppers.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2019_El_Paso_shooting"
 lastUpdated: "2026-02-26"

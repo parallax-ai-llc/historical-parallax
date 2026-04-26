@@ -5,7 +5,7 @@ birth: "1774-08-28"
 death: "1821-01-04"
 nationality: "American"
 occupation: ["Educator", "Religious Founder", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Elizabeth_Ann_Seton_portrait_by_Amabilia_Filicchi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton"
 lastUpdated: "2026-02-21"

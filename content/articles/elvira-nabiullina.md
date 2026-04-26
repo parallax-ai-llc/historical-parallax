@@ -5,7 +5,7 @@ birth: "1963-10-29"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Banker", "Economist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/%D0%AD%D0%BB%D1%8C%D0%B2%D0%B8%D1%80%D0%B0_%D0%9D%D0%B0%D0%B1%D0%B8%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%2826-03-2026%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elvira_Nabiullina"
 lastUpdated: "2026-02-21"

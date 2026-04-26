@@ -5,7 +5,7 @@ birth: "1980-01-01"
 death: "Unknown"
 nationality: "Mozambique"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Awrangzib_Faruqi_Allama_Azim_in_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/ASWJ_Leader"
 lastUpdated: "2026-02-26"

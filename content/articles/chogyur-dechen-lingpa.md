@@ -5,7 +5,7 @@ birth: "1829-01-01"
 death: "1870-01-01"
 nationality: "Tibetan"
 occupation: ["Buddhist Master", "Treasure Revealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/ChogyurLingpa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chogyur_Dechen_Lingpa"
 lastUpdated: "2026-02-21"

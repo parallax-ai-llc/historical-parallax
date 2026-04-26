@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "N/A"
 nationality: "American"
 occupation: ["Scholar", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hamza_Yusuf_%282025%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hamza_Yusuf_Hanson"
 lastUpdated: "2026-02-21"

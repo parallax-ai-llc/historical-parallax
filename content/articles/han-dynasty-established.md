@@ -5,7 +5,7 @@ birth: "0202-01-01"
 death: "0202-01-01"
 nationality: "China"
 occupation: ["Historical Event", "Empire", "Chinese History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Later_Han.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Han_Dynasty_Established"
 lastUpdated: "2026-02-21"

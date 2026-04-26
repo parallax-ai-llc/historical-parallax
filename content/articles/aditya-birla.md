@@ -5,7 +5,7 @@ birth: "1943-11-14"
 death: "1995-10-01"
 nationality: "Indian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Aditya_Vikram_Birla_2013_stamp_of_India.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aditya_Birla"
 lastUpdated: "2026-02-21"

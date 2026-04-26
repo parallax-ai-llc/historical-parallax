@@ -5,7 +5,7 @@ birth: "2003-09-03"
 death: "Unknown"
 nationality: "Chinese/American"
 occupation: ["Athlete", "Olympic Champion", "Freestyle Skier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BA%8E2023-24%E8%B5%9B%E5%AD%A3%E5%9B%BD%E9%99%85%E9%9B%AA%E8%81%94U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%91%E9%A1%B6%E7%AB%99%E6%AF%94%E8%B5%9B%E5%A4%BA%E5%86%A0.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eileen_Gu"
 lastUpdated: "2026-02-26"

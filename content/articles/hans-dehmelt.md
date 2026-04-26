@@ -5,7 +5,7 @@ birth: "1922-09-09"
 death: "2017-03-07"
 nationality: "German-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hans_Dehmelt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Dehmelt"
 lastUpdated: "2026-02-21"

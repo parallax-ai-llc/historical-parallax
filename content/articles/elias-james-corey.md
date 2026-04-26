@@ -5,7 +5,7 @@ birth: "1928-07-12"
 death: "Unknown"
 nationality: "American-Lebanese"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/E.J.Coreyx240.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elias_James_Corey"
 lastUpdated: "2026-02-26"

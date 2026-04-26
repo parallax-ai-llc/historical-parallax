@@ -5,6 +5,7 @@ location: "Jeju Island, South Korea"
 keyFigures: ["Syngman Rhee", "USAMGIK", "Northwest Youth Association", "General Roberts (KMAG)"]
 casualties: "14,000 - 30,000 deaths (10% of population)"
 outcome: "Suppression of leftist movement, mass civilian death, decades of silence under authoritarian rule"
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Jeju_Province_in_South_Korea.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeju_uprising"
 lastUpdated: "2025-12-23"

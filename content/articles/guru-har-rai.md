@@ -5,7 +5,7 @@ birth: "1630-01-26"
 death: "1661-10-06"
 nationality: "Indian"
 occupation: ["Sikh Guru"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Guru_Har_Rai%2C_Guler-Basohli_painting.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Har_Rai"
 lastUpdated: "2026-02-21"

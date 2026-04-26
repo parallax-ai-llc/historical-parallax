@@ -5,7 +5,7 @@ birth: "1656-11-08"
 death: "1742-01-14"
 nationality: "English"
 occupation: ["Astronomer", "Geophysicist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Edmund_Halley.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edmond_Halley"
 lastUpdated: "2026-02-21"

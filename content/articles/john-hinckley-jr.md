@@ -5,7 +5,7 @@ birth: "1955-05-29"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Attempted Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Hinckley_Jr."
 lastUpdated: "2026-02-26"

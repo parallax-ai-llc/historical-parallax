@@ -5,7 +5,7 @@ birth: "1967-11-06"
 death: "Unknown"
 nationality: "Saudi Arabian"
 occupation: ["Biotechnologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Hayat_Sindi_-_PopTech_2012_-_Camden_Maine_USA_%288103609979%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hayat_Sindi"
 lastUpdated: "2026-02-21"

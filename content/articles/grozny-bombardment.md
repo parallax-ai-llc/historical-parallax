@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Russian_troops_in_DUBAI-YURT.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grozny_Bombardment"
 lastUpdated: "2026-02-26"

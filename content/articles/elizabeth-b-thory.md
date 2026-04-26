@@ -5,7 +5,7 @@ birth: "1560-08-07"
 death: "1614-08-21"
 nationality: "Hungary"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Elizabeth_B%C3%A1thory.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_B%C3%A1thory"
 lastUpdated: "2026-02-26"

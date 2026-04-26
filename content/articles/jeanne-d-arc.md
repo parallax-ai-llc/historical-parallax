@@ -5,7 +5,7 @@ birth: "1412-01-06"
 death: "1431-05-30"
 nationality: "French"
 occupation: ["Military Leader", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Joan_of_Arc_miniature_graded.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeanne_d'Arc"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1942-09-27"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Retail"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Arthur_Blank_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Blank"
 lastUpdated: "2026-02-21"

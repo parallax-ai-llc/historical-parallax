@@ -5,7 +5,7 @@ birth: "1318-01-01"
 death: "1389-01-01"
 nationality: "Bukharan"
 occupation: ["Sufi Master"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Bahaouddin_Naqshbandi_mausoleum_entrance_3.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bahauddin_Naqshband"
 lastUpdated: "2026-02-21"

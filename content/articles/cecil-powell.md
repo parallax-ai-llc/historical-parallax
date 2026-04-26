@@ -5,7 +5,7 @@ birth: "1903-12-05"
 death: "1969-08-09"
 nationality: "British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cecil_Powell.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cecil_Powell"
 lastUpdated: "2026-02-21"

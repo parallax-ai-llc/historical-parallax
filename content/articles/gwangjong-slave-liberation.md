@@ -5,7 +5,7 @@ birth: "0956-01-01"
 death: "0958-01-01"
 nationality: "Korea"
 occupation: ["Historical Event", "Social Movement", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Biard_Abolition_de_l%27esclavage_1849.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gwangjong_Slave_Liberation"
 lastUpdated: "2026-02-21"

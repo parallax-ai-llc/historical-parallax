@@ -5,7 +5,7 @@ birth: "1966-04-06"
 death: "Unknown"
 nationality: "Austria"
 occupation: ["Kidnapping Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Haus_familie_f.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Fritzl"
 lastUpdated: "2026-02-26"

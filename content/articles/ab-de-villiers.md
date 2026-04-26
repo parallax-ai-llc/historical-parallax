@@ -5,7 +5,7 @@ birth: "1984-02-17"
 death: "Unknown"
 nationality: "South African"
 occupation: ["Athlete", "Cricket Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/AB_de_villiers_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/AB_de_Villiers"
 lastUpdated: "2026-02-26"

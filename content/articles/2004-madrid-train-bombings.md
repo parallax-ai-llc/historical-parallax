@@ -5,7 +5,7 @@ birth: "2004-03-11"
 death: "Unknown"
 nationality: "Spain"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Atentado_11M.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2004_Madrid_Train_Bombings"
 lastUpdated: "2026-02-26"

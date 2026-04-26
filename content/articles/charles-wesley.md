@@ -5,7 +5,7 @@ birth: "1707-12-18"
 death: "1788-03-29"
 nationality: "English"
 occupation: ["Hymn Writer", "Theologian", "Evangelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Charles_Wesley.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Wesley"
 lastUpdated: "2026-02-21"

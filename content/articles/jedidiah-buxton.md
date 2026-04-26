@@ -5,7 +5,7 @@ birth: "1707-01-01"
 death: "1772-01-01"
 nationality: "English"
 occupation: ["Mental Calculator", "Religious Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Jedediah_buxton_images.nypl.org.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jedidiah_Buxton"
 lastUpdated: "2026-02-21"

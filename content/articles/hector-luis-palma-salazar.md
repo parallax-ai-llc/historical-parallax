@@ -5,7 +5,7 @@ birth: "1960-07-29"
 death: "N/A (Released)"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/H%C3%A9ctor_Luis_Palma_Salazar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hector_Luis_Palma_Salazar"
 lastUpdated: "2026-02-21"

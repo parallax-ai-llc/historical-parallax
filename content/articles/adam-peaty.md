@@ -5,7 +5,7 @@ birth: "1994-12-28"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Adam_Peaty_Olympics_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adam_Peaty"
 lastUpdated: "2026-02-26"

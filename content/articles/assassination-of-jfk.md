@@ -5,7 +5,7 @@ birth: "1963-11-22"
 death: "1963-11-22"
 nationality: "United States"
 occupation: ["Historical Event", "Political", "American History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/JFK_Motorcade_GettyImages-517330536.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assassination_of_JFK"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Harry Kane"
 birth: "1993-07-28"
 nationality: "English"
 occupation: ["Footballer", "Striker", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Harry_Kane_on_October_10%2C_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harry_Kane"
 lastUpdated: "2026-03-12"

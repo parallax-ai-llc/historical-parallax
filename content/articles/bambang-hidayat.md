@@ -5,7 +5,7 @@ birth: "1934-09-18"
 death: "2020-08-24"
 nationality: "Indonesian"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Bambang_Hidayat_at_the_International_Astronomical_Union_%28IAU%29_meeting%2C_Montreal%2C_Canada.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bambang_Hidayat"
 lastUpdated: "2026-02-21"

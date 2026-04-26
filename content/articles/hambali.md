@@ -5,7 +5,7 @@ birth: "1964-04-04"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Riduan_Isamuddin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hambali"
 lastUpdated: "2026-02-21"

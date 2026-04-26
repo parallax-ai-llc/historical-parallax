@@ -5,7 +5,7 @@ birth: "1918-02-16"
 death: "2002-12-02"
 nationality: "Italian"
 occupation: ["Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Brionvega_RR126%2C_Pier_Giacomo_Castiglioni_-_MNAM.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Achille_Castiglioni"
 lastUpdated: "2026-02-21"

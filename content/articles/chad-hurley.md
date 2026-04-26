@@ -3,6 +3,7 @@ name: Chad Hurley
 birth: "1977-01-24"
 nationality: American
 occupation: ["Entrepreneur", "Co-founder of YouTube", "CEO"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Streamy_Awards_Photo_1214_%284513304983%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chad_Hurley"
 lastUpdated: "2025-12-22"

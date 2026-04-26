@@ -5,7 +5,7 @@ birth: "1933-05-22"
 death: "1996-03-19"
 nationality: "Chinese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Chen_Jingrun.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chen_Jingrun"
 lastUpdated: "2026-02-21"

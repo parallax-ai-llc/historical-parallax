@@ -5,7 +5,7 @@ birth: "1973-08-01"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Liberty_Reserve_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Budovsky"
 lastUpdated: "2026-02-26"

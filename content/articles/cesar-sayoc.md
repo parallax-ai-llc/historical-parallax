@@ -5,7 +5,7 @@ birth: "1962-03-17"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Suspicious-package-exterior-oct-2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cesar_Sayoc"
 lastUpdated: "2026-02-26"

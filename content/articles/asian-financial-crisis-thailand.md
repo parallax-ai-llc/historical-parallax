@@ -5,7 +5,7 @@ birth: "1997-07-02"
 death: "1997-07-02"
 nationality: "Thailand"
 occupation: ["Historical Event", "Economic Crisis", "Financial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Asienkrise.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asian_Financial_Crisis_Thailand"
 lastUpdated: "2026-02-21"

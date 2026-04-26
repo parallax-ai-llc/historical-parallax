@@ -5,7 +5,7 @@ birth: "1889-04-15"
 death: "1979-05-16"
 nationality: "American"
 occupation: ["Civil Rights Leader", "Labor Organizer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/A._Philip_Randolph_1963_NYWTS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/A._Philip_Randolph"
 lastUpdated: "2026-03-17"

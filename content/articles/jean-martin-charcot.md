@@ -5,7 +5,7 @@ birth: "1825-11-29"
 death: "1893-08-16"
 nationality: "French"
 occupation: ["Neurologist", "Pathologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jean-Martin_Charcot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Martin_Charcot"
 lastUpdated: "2026-02-21"

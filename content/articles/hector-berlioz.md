@@ -5,7 +5,7 @@ birth: "1803-12-11"
 death: "1869-03-08"
 nationality: "French"
 occupation: ["Composer", "Conductor", "Critic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hector-Berlioz-1845.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hector_Berlioz"
 lastUpdated: "2026-02-21"

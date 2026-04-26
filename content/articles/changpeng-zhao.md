@@ -5,7 +5,7 @@ birth: "1977-09-10"
 death: "Unknown"
 nationality: "China"
 occupation: ["Business Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Changpeng_Zhao_in_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Changpeng_Zhao"
 lastUpdated: "2026-02-26"

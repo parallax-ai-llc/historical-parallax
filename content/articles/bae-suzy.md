@@ -3,6 +3,7 @@ name: "Bae Suzy"
 birth: "1994-10-10"
 nationality: "South Korean"
 occupation: ["Actress", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Suzy_at_the_Longines_2026_new_product_presentation%2C_25_March_2026_04.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bae_Suzy"
 lastUpdated: "2026-03-12"

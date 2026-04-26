@@ -4,6 +4,7 @@ birth: "1908-10-15"
 death: "2006-04-29"
 nationality: "Canadian-American"
 occupation: ["Economist", "Diplomat", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/John_Kenneth_Galbraith_from_the_back_cover_of_%22The_Affluent_Society%22.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Kenneth_Galbraith"
 lastUpdated: "2026-03-12"

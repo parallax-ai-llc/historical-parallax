@@ -5,7 +5,7 @@ birth: "1789-08-21"
 death: "1857-05-23"
 nationality: "French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Augustin-Louis_Cauchy_1901.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy"
 lastUpdated: "2026-02-21"

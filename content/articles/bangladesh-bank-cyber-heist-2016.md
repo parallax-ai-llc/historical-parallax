@@ -6,7 +6,7 @@ location: "Dhaka, Bangladesh"
 coordinates: [90.41, 23.81]
 category: ["Cybercrime", "Bangladesh"]
 outcome: "$81 million stolen from central bank"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/2013_Federal_Reserve_Bank_of_New_York_from_west.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery"
 lastUpdated: "2026-02-26"---

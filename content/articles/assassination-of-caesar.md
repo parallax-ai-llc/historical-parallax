@@ -5,7 +5,7 @@ birth: "0044-03-15"
 death: "0044-03-15"
 nationality: "Roman Republic"
 occupation: ["Historical Event", "Political", "Ancient History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assassination_of_Caesar"
 lastUpdated: "2026-02-21"

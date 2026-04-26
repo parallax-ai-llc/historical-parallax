@@ -3,6 +3,7 @@ name: "Jimin (BTS)"
 birth: "1995-10-13"
 nationality: "South Korean"
 occupation: ["Singer", "Dancer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Jimin_on_the_way_to_SBS_Radio%2C_31_March_2023_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimin_(singer)"
 lastUpdated: "2026-03-11"

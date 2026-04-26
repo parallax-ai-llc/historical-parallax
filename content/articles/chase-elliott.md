@@ -3,6 +3,7 @@ name: "Chase Elliott"
 birth: "1995-11-28"
 nationality: "American"
 occupation: ["Racing Driver", "NASCAR Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Chase_Elliott_Driver_Introductions_Las_Vegas_2026.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chase_Elliott"
 lastUpdated: "2026-03-12"

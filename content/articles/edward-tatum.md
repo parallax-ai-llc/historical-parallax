@@ -5,7 +5,7 @@ birth: "1909-12-22"
 death: "1975-11-05"
 nationality: "American"
 occupation: ["Geneticist", "Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/32/Edward_Lawrie_Tatum_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Tatum"
 lastUpdated: "2026-02-21"

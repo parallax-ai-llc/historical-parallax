@@ -5,7 +5,7 @@ birth: "1430-01-01"
 death: "1505-01-01"
 nationality: "Germany"
 occupation: ["Inquisitor", "Witch Hunter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Sprenger_-_Malleus_maleficarum%2C_1669_-_BEIC_9477645.tiff"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heinrich_Kramer"
 lastUpdated: "2026-02-26"

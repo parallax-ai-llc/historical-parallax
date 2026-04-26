@@ -5,7 +5,7 @@ birth: "1979-06-29"
 death: "Unknown"
 nationality: "Brazilian-French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Artur_%C3%81vila_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Artur_Avila"
 lastUpdated: "2026-02-21"

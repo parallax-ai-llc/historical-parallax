@@ -5,7 +5,7 @@ birth: "1957-01-15"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Seo_Hyun-woo_%EC%84%9C%ED%98%84%EC%9A%B0_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Hyun-joo"
 lastUpdated: "2026-02-26"

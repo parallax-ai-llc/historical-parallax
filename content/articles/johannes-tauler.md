@@ -5,7 +5,7 @@ birth: "1300-01-01"
 death: "1361-06-16"
 nationality: "German"
 occupation: ["Mystic", "Preacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/St-Pierre-le-Jeune_protestant-Tauler_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Johannes_Tauler"
 lastUpdated: "2026-02-21"

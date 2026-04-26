@@ -5,7 +5,7 @@ birth: "1933-08-11"
 death: "2007-05-15"
 nationality: "American"
 occupation: ["Pastor", "Political Activist", "Televangelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Jerry_Falwell_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Falwell"
 lastUpdated: "2026-02-21"

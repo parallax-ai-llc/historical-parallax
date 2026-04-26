@@ -5,6 +5,7 @@ location: "Ottoman Empire"
 keyFigures: ["Talaat Pasha", "Enver Pasha", "Jemal Pasha"]
 casualties: "1.2 to 1.5 million deaths"
 outcome: "Creation of the Armenian Diaspora, Persistent denial by Turkey"
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Column_of_deportees_walking_through_Harput_vilayet_during_the_Armenian_genocide_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Armenian_genocide"
 lastUpdated: "2025-12-23"

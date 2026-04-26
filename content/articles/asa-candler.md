@@ -5,7 +5,7 @@ birth: "1851-12-30"
 death: "1929-03-12"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Asa_G._C..jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asa_Candler"
 lastUpdated: "2026-02-21"

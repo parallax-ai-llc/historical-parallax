@@ -3,6 +3,7 @@ name: "Eric Ripert"
 birth: "1965-03-02"
 nationality: "French"
 occupation: ["Chef", "Restaurateur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Eric_ripert_5213048.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Ripert"
 lastUpdated: "2026-03-12"

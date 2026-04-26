@@ -5,7 +5,7 @@ birth: "1929-03-29"
 death: "1993-11-09"
 nationality: "United States"
 occupation: ["Prison Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joe_Morgan_Reds_1972.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Morgan"
 lastUpdated: "2026-02-26"

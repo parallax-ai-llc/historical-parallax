@@ -5,7 +5,7 @@ birth: "1947-12-08"
 death: "Unknown"
 nationality: "Hong Kong"
 occupation: ["Political Prisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Jimmy_Lai_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Lai"
 lastUpdated: "2026-02-26"

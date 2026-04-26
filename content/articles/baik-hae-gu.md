@@ -5,7 +5,7 @@ birth: "1940-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Civil engineer", "Bridge designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/20210604_Moon_So-ri_%EB%AC%B8%EC%86%8C%EB%A6%AC_Marie_Claire_Korea_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baik_Hae-gu"
 lastUpdated: "2026-02-21"

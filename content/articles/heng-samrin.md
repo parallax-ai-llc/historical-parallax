@@ -5,7 +5,7 @@ birth: "1934-01-01"
 death: "Unknown"
 nationality: "Cambodia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Samdech_Heng_Samrin_2018_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heng_Samrin"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1865-04-14"
 death: "1865-04-15"
 nationality: "United States"
 occupation: ["Historical Event", "Political", "American History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Lincoln_assassination_slide_c1900_-_Restoration.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln"
 lastUpdated: "2026-02-21"

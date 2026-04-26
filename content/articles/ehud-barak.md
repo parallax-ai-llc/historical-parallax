@@ -5,7 +5,7 @@ birth: "1942-02-12"
 death: "Unknown"
 nationality: "Israel"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Ehud_Barak_1999.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ehud_Barak"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1951-03-14"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jerry_Greenfield.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Greenfield"
 lastUpdated: "2026-02-21"

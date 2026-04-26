@@ -5,7 +5,7 @@ birth: "1970-09-01"
 death: "Unknown"
 nationality: "Chad"
 occupation: ["Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baba_Ladd%C3%A9"
 lastUpdated: "2026-02-26"

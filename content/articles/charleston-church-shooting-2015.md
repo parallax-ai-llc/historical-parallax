@@ -6,7 +6,7 @@ location: "Charleston, South Carolina, United States"
 coordinates: [-79.93, 32.78]
 category: ["Terrorism", "Mass Shooting", "United States"]
 outcome: "9 killed"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Charleston_church_memorial_after_attack.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charleston_church_shooting"
 lastUpdated: "2026-02-26"

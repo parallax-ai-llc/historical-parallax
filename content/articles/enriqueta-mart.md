@@ -5,7 +5,7 @@ birth: "1868-03-01"
 death: "1913-05-12"
 nationality: "Spain"
 occupation: ["Serial Killer", "Human Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Enriqueta_Mart%C3%AD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enriqueta_Mart%C3%AD"
 lastUpdated: "2026-02-26"

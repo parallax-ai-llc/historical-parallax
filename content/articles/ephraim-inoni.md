@@ -5,7 +5,7 @@ birth: "1947-09-01"
 death: "Unknown"
 nationality: "Cameroon"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Marquardt_and_Inoni_cropped_Inoni.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ephraim_Inoni"
 lastUpdated: "2026-02-26"

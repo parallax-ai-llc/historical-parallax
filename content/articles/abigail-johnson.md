@@ -5,7 +5,7 @@ birth: "1961-12-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Abigail_Johnson_at_Village_Global_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abigail_Johnson"
 lastUpdated: "2026-02-21"

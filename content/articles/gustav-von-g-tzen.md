@@ -5,7 +5,7 @@ birth: "1866-05-12"
 death: "1910-11-30"
 nationality: "Germany"
 occupation: ["Colonial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Gustav_Adolf_von_G%C3%B6tzen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustav_von_G%C3%B6tzen"
 lastUpdated: "2026-02-26"

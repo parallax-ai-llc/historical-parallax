@@ -5,7 +5,7 @@ birth: "1973-12-30"
 death: "Unknown"
 nationality: "Trinidadian"
 occupation: ["Athlete", "Olympic Medalist", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ato_Boldon_Sydney_2000.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ato_Boldon"
 lastUpdated: "2026-02-26"

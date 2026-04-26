@@ -5,7 +5,7 @@ birth: "1849-11-29"
 death: "1945-04-18"
 nationality: "English"
 occupation: ["Electrical Engineer", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/John_Ambrose_Fleming_1890.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Ambrose_Fleming"
 lastUpdated: "2026-02-21"

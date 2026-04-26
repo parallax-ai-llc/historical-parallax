@@ -5,7 +5,7 @@ birth: "1934-09-01"
 death: "2013-10-20"
 nationality: "France"
 occupation: ["Serial Killer", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/%C3%89mile_Louis_proc%C3%A8s_mars_2004.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emile_Louis"
 lastUpdated: "2026-02-21"

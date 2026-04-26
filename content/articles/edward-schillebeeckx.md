@@ -5,7 +5,7 @@ birth: "1914-11-12"
 death: "2009-12-23"
 nationality: "Belgian"
 occupation: ["Theologian", "Priest"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Internationaal_Theologisch_Congres_toekomst_van_de_religie%2C_religie_van_de_toeko%2C_Bestanddeelnr_925-4730.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Schillebeeckx"
 lastUpdated: "2026-02-21"

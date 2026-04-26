@@ -5,7 +5,7 @@ birth: "1934-07-18"
 death: "Unknown"
 nationality: "Filipino"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Zobel_de_Ayala_family_from_the_Philippines.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayala_family_representative%3A_Jaime_Zobel_de_Ayala"
 lastUpdated: "2026-02-21"

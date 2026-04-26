@@ -5,7 +5,7 @@ birth: "1978-01-01"
 death: "Unknown"
 nationality: "Mozambique"
 occupation: ["Terrorist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/20131203_Istanbul_091.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Taubah"
 lastUpdated: "2026-02-26"

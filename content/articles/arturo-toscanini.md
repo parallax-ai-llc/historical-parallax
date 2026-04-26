@@ -4,6 +4,7 @@ birth: "1867-03-25"
 death: "1957-01-16"
 nationality: "Italian"
 occupation: ["Conductor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arturo_Toscanini_c1930.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arturo_Toscanini"
 lastUpdated: "2026-03-12"

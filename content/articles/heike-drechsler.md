@@ -5,7 +5,7 @@ birth: "1964-12-16"
 death: "Unknown"
 nationality: "German"
 occupation: ["Athlete", "Olympic Champion", "Long Jumper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bundesarchiv_Bild_183-1990-0819-002%2C_Heike_Drechsler.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heike_Drechsler"
 lastUpdated: "2026-02-26"

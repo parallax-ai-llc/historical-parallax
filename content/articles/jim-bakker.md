@@ -5,7 +5,7 @@ birth: "1940-01-02"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Con Artist", "Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rev._Jim_Bakker_of_Charlotte_%281975%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jim_Bakker"
 lastUpdated: "2026-02-21"

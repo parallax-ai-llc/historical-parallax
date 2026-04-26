@@ -5,7 +5,7 @@ birth: "1979-04-25"
 death: "Unknown"
 nationality: "Israel"
 occupation: ["Controversial Businessman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mr._Adam_Neumann%2C_Founder_WeWork_%28Start_Up_India_Participant%29_call_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_January_15%2C_2016_-_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adam_Neumann"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1935-07-06"
 death: "N/A"
 nationality: "Tibetan"
 occupation: ["Spiritual Leader", "Nobel Laureate", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Dalai_Lama_in_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
 lastUpdated: "2026-02-21"

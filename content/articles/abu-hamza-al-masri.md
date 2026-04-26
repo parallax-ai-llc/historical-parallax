@@ -5,7 +5,7 @@ birth: "1958-04-15"
 death: "Unknown"
 nationality: "Egypt"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Abu_Hamza_al-Masri_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Hamza_al-Masri"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1946-07-14"
 death: "Unknown"
 nationality: "Argentina"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Siegel_Adolf_von_Nassau_Posse.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adolf_Scilingo"
 lastUpdated: "2026-02-26"

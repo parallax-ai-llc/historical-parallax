@@ -5,7 +5,7 @@ birth: "1861-11-06"
 death: "1918-06-27"
 nationality: "Argentine"
 occupation: ["Physician", "Cardiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Abel_Ayerza.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abel_Ayerza"
 lastUpdated: "2026-02-21"

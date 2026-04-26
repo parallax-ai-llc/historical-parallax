@@ -5,7 +5,7 @@ birth: "1969-12-16"
 death: "Unknown"
 nationality: "American"
 occupation: ["Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Nobel_Prize_2011-Press_Conference_KVA-DSC_7764.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adam_Riess"
 lastUpdated: "2026-02-21"

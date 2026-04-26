@@ -5,7 +5,7 @@ birth: "2015-01-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Criminal Trade"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fentanyl.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chinese_Fentanyl_Precursors"
 lastUpdated: "2026-02-26"

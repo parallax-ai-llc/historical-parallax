@@ -5,7 +5,7 @@ birth: "1996-01-01"
 death: "Unknown"
 nationality: "Equatorial Guinea"
 occupation: ["Corruption Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Equatorial_Guinea_Oil_Corruption"
 lastUpdated: "2026-02-26"

@@ -4,6 +4,7 @@ birth: "1938-10-29"
 death: null
 nationality: "Liberian"
 occupation: ["President", "Economist", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ellen_Johnson_Sirleaf_February_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf"
 lastUpdated: "2025-12-22"

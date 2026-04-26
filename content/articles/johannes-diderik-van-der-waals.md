@@ -5,7 +5,7 @@ birth: "1837-11-23"
 death: "1923-03-08"
 nationality: "Dutch"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Johannes_Diderik_van_der_Waals.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals"
 lastUpdated: "2026-02-21"

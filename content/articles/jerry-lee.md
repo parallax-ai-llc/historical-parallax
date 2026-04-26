@@ -5,7 +5,7 @@ birth: "1963-08-30"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Lee"
 lastUpdated: "2026-02-26"

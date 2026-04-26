@@ -5,7 +5,7 @@ birth: "1948-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/ISMAEL_ZAMBADA_GARCIA.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Mayo_Zambada"
 lastUpdated: "2026-02-26"

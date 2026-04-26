@@ -5,7 +5,7 @@ birth: "1032-01-01"
 death: "1085-01-01"
 nationality: "Chinese"
 occupation: ["Philosopher", "Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Chenghao.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheng_Hao"
 lastUpdated: "2026-02-21"

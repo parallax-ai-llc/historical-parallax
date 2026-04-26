@@ -5,7 +5,7 @@ birth: "1575-11-04"
 death: "1642-08-18"
 nationality: "Italian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Guido_Reni_-_Self-portrait_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guido_Reni"
 lastUpdated: "2026-02-21"

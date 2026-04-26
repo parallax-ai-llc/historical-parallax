@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Uganda"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Operation_Thunderbolt._IV.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Entebbe_Hijacking"
 lastUpdated: "2026-02-26"

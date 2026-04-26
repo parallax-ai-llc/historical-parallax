@@ -5,7 +5,7 @@ birth: "1960-06-10"
 death: "N/A"
 nationality: "British"
 occupation: ["Scholar", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dr_Timothy_Winter_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdal_Hakim_Murad"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "2016-02-04"
 death: "Unknown"
 nationality: "Bangladesh"
 occupation: ["Cybercrime Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/2013_Federal_Reserve_Bank_of_New_York_from_west.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bangladesh_Bank_Heist_2016"
 lastUpdated: "2026-02-26"

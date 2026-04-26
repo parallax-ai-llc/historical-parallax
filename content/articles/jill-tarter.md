@@ -5,7 +5,7 @@ birth: "1944-01-16"
 death: "living"
 nationality: "American"
 occupation: ["Astronomer", "SETI Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Jill_Tarter_418407_by_Christopher_Michel_1282025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jill_Tarter"
 lastUpdated: "2026-02-21"

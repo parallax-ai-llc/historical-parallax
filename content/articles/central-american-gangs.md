@@ -5,7 +5,7 @@ birth: "1980-01-01"
 death: "Unknown"
 nationality: "El Salvador"
 occupation: ["Criminal Organizations"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/18th_Street_gang_graffiti.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Central_American_Gangs"
 lastUpdated: "2026-02-26"

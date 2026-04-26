@@ -5,7 +5,7 @@ birth: "1950-06-05"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hafiz_Saeed.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hafiz_Muhammad_Saeed"
 lastUpdated: "2026-02-26"

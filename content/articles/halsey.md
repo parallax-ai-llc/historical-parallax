@@ -3,6 +3,7 @@ name: "Halsey"
 birth: "1994-09-29"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Halsey_%40_Hollywood_Forever_10_14_2025_%2854925751159%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Halsey_(singer)"
 lastUpdated: "2026-03-12"

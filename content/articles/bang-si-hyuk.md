@@ -5,7 +5,7 @@ birth: "1972-08-09"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Music Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Bang_Si-hyuk_on_24_June_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bang_Si-hyuk"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1934-05-05"
 death: "2023-08-01"
 nationality: "Ivory Coast"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Henri_Konan_B%C3%A9di%C3%A9_%28P001954018AH%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henri_Konan_B%C3%A9di%C3%A9"
 lastUpdated: "2026-02-26"

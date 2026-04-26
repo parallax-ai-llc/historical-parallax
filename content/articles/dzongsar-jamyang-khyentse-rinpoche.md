@@ -5,7 +5,7 @@ birth: "1961-07-18"
 death: "N/A"
 nationality: "Bhutanese-Tibetan"
 occupation: ["Buddhist Teacher", "Filmmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Dzongsar_Jamyang_Khyentse_Rinpoche.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dzongsar_Jamyang_Khyentse_Rinpoche"
 lastUpdated: "2026-02-21"

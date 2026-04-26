@@ -5,7 +5,7 @@ birth: "0306-01-01"
 death: "0373-06-09"
 nationality: "Syrian"
 occupation: ["Deacon", "Theologian", "Hymnographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ephrem_the_Syrian_%28mosaic_in_Nea_Moni%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
 lastUpdated: "2026-02-21"

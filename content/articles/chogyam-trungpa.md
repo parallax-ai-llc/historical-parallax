@@ -5,7 +5,7 @@ birth: "1939-02-28"
 death: "1987-04-04"
 nationality: "Tibetan-American"
 occupation: ["Meditation Master", "Author", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Chogyam_Trungpa_Rinpoche.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chogyam_Trungpa"
 lastUpdated: "2026-02-21"

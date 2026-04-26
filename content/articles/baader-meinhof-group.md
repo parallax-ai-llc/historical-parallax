@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/RAF-Logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baader-Meinhof_Group"
 lastUpdated: "2026-02-26"

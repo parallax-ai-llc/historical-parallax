@@ -5,7 +5,7 @@ birth: "1786-04-16"
 death: "1847-06-11"
 nationality: "British"
 occupation: ["Explorer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sir_John_Franklin_by_Thomas_Phillips.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Franklin"
 lastUpdated: "2026-02-21"

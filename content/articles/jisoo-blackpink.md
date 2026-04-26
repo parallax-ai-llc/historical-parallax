@@ -3,6 +3,7 @@ name: "Jisoo (BLACKPINK)"
 birth: "1995-01-03"
 nationality: "South Korean"
 occupation: ["Singer", "Actress", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Jisoo_at_Boyfriend_on_Demand_press_conference_on_26022026_%2812%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jisoo_(singer)"
 lastUpdated: "2026-03-11"

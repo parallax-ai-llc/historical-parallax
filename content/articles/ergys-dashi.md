@@ -5,7 +5,7 @@ birth: "1978-01-01"
 death: "Unknown"
 nationality: "Albania"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Elseid_Hysaj01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ergys_Dashi"
 lastUpdated: "2026-02-26"

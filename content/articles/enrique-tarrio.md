@@ -5,7 +5,7 @@ birth: "1984-05-14"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Insurrection Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Proud_Boys_at_Richmond_gun_rally_2020_%28cropped_to_Tarrio%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enrique_Tarrio"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1966-09-19"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Domestic Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Eric_Rudolph_U.S._Army_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Rudolph"
 lastUpdated: "2026-02-26"

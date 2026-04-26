@@ -5,7 +5,7 @@ birth: "1943-01-09"
 death: "Unknown"
 nationality: "Mozambique"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Armando_Guebuza%2C_President_of_Mozambique_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Armando_Guebuza"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1948-01-30"
 death: "1948-01-30"
 nationality: "India"
 occupation: ["Historical Event", "Political", "Indian History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gandhi_Smriti_Delhi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi"
 lastUpdated: "2026-02-21"

@@ -4,6 +4,7 @@ birth: "1873-02-25"
 death: "1921-08-02"
 nationality: "Italian"
 occupation: ["Opera Singer", "Tenor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Postcard_of_Enrico_Caruso%2C_ca._1910.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enrico_Caruso"
 lastUpdated: "2026-03-12"

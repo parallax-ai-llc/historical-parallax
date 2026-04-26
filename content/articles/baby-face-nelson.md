@@ -5,7 +5,7 @@ birth: "1908-12-06"
 death: "1934-11-27"
 nationality: "United States"
 occupation: ["Bank Robber", "Outlaw"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Baby_Face_Nelson_1931_mug_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baby_Face_Nelson"
 lastUpdated: "2026-02-21"

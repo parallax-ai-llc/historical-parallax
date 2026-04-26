@@ -3,6 +3,7 @@ name: "Ceb"
 birth: "1992-11-17"
 nationality: "French"
 occupation: ["Esports Player", "Dota 2 Pro", "Coach"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Dota_2_desk_analysis_-_ESL_One_Frankfurt_2014_%28cropped_to_Ceb%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ceb_(gamer)"
 lastUpdated: "2026-03-11"

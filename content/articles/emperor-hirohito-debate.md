@@ -5,7 +5,7 @@ birth: "1901-04-29"
 death: "1989-01-07"
 nationality: "Japan"
 occupation: ["Emperor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hirohito_in_dress_uniform_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hirohito"
 lastUpdated: "2026-02-21"

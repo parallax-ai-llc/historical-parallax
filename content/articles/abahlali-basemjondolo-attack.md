@@ -5,7 +5,7 @@ birth: "2009-09-26"
 death: "Unknown"
 nationality: "South Africa"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Abahlali_baseMjondolo_Logo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abahlali_baseMjondolo_Attack"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1976-09-03"
 death: "Unknown"
 nationality: "Sri Lankan-Canadian-American"
 occupation: ["Investor", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Chamath_Palihapitiya_in_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chamath_Palihapitiya"
 lastUpdated: "2026-02-21"

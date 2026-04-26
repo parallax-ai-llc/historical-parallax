@@ -5,7 +5,7 @@ birth: "2016-08-31"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corporate Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Hanjin_container_ship.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanjin_Shipping_Collapse"
 lastUpdated: "2026-02-26"

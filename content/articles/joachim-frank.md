@@ -5,7 +5,7 @@ birth: "1940-09-12"
 death: "Unknown"
 nationality: "German-American"
 occupation: ["Biophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Joachim_Frank.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joachim_Frank"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1895-05-12"
 death: "1986-02-17"
 nationality: "Indian-American"
 occupation: ["Philosopher", "Speaker", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jiddu_Krishnamurti_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti"
 lastUpdated: "2026-02-21"

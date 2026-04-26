@@ -5,7 +5,7 @@ birth: "1939-10-07"
 death: "2016-04-30"
 nationality: "British"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Harry_Kroto_1c389_8471.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harold_Kroto"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1972-10-26"
 death: "Unknown"
 nationality: "Turkish-American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hamdi_Ulukaya%2C_official_portrait%2C_Homeland_Security_Council.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hamdi_Ulukaya"
 lastUpdated: "2026-02-21"

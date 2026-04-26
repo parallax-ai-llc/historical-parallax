@@ -5,7 +5,7 @@ birth: "1982-11-29"
 death: "2015-01-09"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Charlie-Hebdo-2015-11.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ch%C3%A9rif_Kouachi"
 lastUpdated: "2026-02-26"

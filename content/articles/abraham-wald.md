@@ -5,7 +5,7 @@ birth: "1902-10-31"
 death: "1950-12-13"
 nationality: "Hungarian-American"
 occupation: ["Mathematician", "Statistician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/05/Abraham_Wald_in_his_youth.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abraham_Wald"
 lastUpdated: "2026-02-21"

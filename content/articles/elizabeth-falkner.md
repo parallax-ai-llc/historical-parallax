@@ -5,7 +5,7 @@ birth: "1966-01-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Chef", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Elizabeth_Falkner_in_NY.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Falkner"
 lastUpdated: "2026-02-26"

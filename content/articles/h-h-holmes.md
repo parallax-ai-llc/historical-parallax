@@ -5,7 +5,7 @@ birth: "1861-05-16"
 death: "1896-05-07"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/H._H._Holmes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/H._H._Holmes"
 lastUpdated: "2026-02-21"

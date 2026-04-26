@@ -5,7 +5,7 @@ birth: "1979-09-24"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Shooter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/KOCIS_London_Korea_Jinjongoh_Shooting_06_%287683325808%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jin_Jong-oh"
 lastUpdated: "2026-02-26"

@@ -5,6 +5,7 @@ location: "Abu Ghraib Prison, Iraq"
 keyFigures: ["Spc. Charles Graner", "Pfc. Lynndie England", "Maj. Gen. Geoffrey Miller", "Brig. Gen. Janis Karpinski", "Donald Rumsfeld", "Manadel al-Jamadi"]
 casualties: "Manadel al-Jamadi (homicide), uncounted deaths in custody, thousands psychologically destroyed"
 outcome: "Global condemnation, 11 low-level convictions, Taguba Report, permanent loss of US moral standing"
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/AbuGhraibAbuse-standing-on-box.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse"
 lastUpdated: "2025-12-23"

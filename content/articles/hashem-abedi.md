@@ -5,7 +5,7 @@ birth: "1997-04-05"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Manchester_Arena_exterior%2C_%282%29_May19.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hashem_Abedi"
 lastUpdated: "2026-02-26"

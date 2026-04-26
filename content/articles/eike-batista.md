@@ -5,7 +5,7 @@ birth: "1956-11-03"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Businessman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/EIKE_BATISTA_%28crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eike_Batista"
 lastUpdated: "2026-02-26"

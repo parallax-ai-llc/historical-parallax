@@ -5,7 +5,7 @@ birth: "1958-08-17"
 death: "Unknown"
 nationality: "Indian-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jay_Chaudhry.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jay_Chaudhry"
 lastUpdated: "2026-02-21"

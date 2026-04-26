@@ -5,7 +5,7 @@ birth: "1903-09-29"
 death: "1973-02-05"
 nationality: "American"
 occupation: ["Surgeon", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/John_Gibbon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Gibbon"
 lastUpdated: "2026-02-21"

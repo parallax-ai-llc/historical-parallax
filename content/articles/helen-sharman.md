@@ -5,7 +5,7 @@ birth: "1963-05-30"
 death: "living"
 nationality: "British"
 occupation: ["Astronaut", "Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Dr._Helen_Sharman_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Helen_Sharman"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Sudan"
 occupation: ["Dictator", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Abdel_Fattah_al-Burhan_in_April_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdel_Fattah_al-Burhan"
 lastUpdated: "2026-02-26"

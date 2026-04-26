@@ -4,6 +4,7 @@ birth: "1933-08-07"
 death: "2012-06-12"
 nationality: "American"
 occupation: ["Political Economist", "Political Scientist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Nobel_Prize_2009-Press_Conference_KVA-30.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elinor_Ostrom"
 lastUpdated: "2026-03-12"

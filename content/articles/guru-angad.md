@@ -5,7 +5,7 @@ birth: "1504-03-31"
 death: "1552-03-29"
 nationality: "Indian"
 occupation: ["Sikh Guru"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Guru_Angad_miniature_painting.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Angad"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1946-09-08"
 death: "Unknown"
 nationality: "Turkish-American"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Aziz_Sancar_0060.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aziz_Sancar"
 lastUpdated: "2026-02-26"

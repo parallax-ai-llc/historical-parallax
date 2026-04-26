@@ -5,7 +5,7 @@ birth: "1909-07-24"
 death: "1949-08-10"
 nationality: "United Kingdom"
 occupation: ["Serial Killer", "Con Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/John_George_Haigh_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_George_Haigh"
 lastUpdated: "2026-02-21"

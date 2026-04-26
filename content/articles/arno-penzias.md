@@ -5,7 +5,7 @@ birth: "1933-04-26"
 death: "Unknown"
 nationality: "German-American"
 occupation: ["Physicist", "Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/32._Tagung_1982_Physiker%3B_Beim_Studentenabend_Arno_A._Penzias_-_W134Nr.119142_-_Willy_Pragher_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arno_Penzias"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1942-09-22"
 death: "Unknown"
 nationality: "Pakistani"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Atta-ur-Rahman_FRS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atta-ur-Rahman"
 lastUpdated: "2026-02-26"

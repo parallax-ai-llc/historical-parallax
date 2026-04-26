@@ -5,7 +5,7 @@ birth: "1945-12-16"
 death: "N/A"
 nationality: "Iranian"
 occupation: ["Philosopher", "Theologian", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Abdolkarim_Soroush_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdolkarim_Soroush"
 lastUpdated: "2026-02-21"

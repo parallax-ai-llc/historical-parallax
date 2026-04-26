@@ -5,7 +5,7 @@ birth: "1956-09-22"
 death: "2002-01-24"
 nationality: "Lebanon"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Elie_Hobeika.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elie_Hobeika"
 lastUpdated: "2026-02-26"

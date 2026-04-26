@@ -5,7 +5,7 @@ birth: "1940-11-26"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Enrico_Bombieri.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enrico_Bombieri"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1950-01-28"
 death: "Unknown"
 nationality: "Bahrain"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hamad_bin_Isa_Al_Khalifah_on_September_12%2C_2024_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hamad_bin_Isa_Al_Khalifa"
 lastUpdated: "2026-02-21"

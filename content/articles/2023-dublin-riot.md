@@ -5,7 +5,7 @@ birth: "2023-11-23"
 death: "Unknown"
 nationality: "Ireland"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/2023_Dublin_riots_-_bus_burning_%28cropped%29.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2023_Dublin_Riot"
 lastUpdated: "2026-02-26"

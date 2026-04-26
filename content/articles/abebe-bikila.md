@@ -5,7 +5,7 @@ birth: "1932-08-07"
 death: "1973-10-25"
 nationality: "Ethiopian"
 occupation: ["Athlete", "Olympic Champion", "Marathon Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Abebe_Bikila_1968_%28b_retouched%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abebe_Bikila"
 lastUpdated: "2026-02-26"

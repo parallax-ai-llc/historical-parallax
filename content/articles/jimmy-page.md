@@ -3,6 +3,7 @@ name: "Jimmy Page"
 birth: "1944-01-09"
 nationality: "British"
 occupation: ["Musician", "Guitarist", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jimmy_Page_at_the_Echo_music_award_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Page"
 lastUpdated: "2026-03-12"

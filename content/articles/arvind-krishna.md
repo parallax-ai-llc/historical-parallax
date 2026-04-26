@@ -3,6 +3,7 @@ name: "Arvind Krishna"
 birth: "1962-01-01"
 nationality: "American"
 occupation: ["Engineer", "CEO"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Arvind_Krishna_in_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arvind_Krishna_(businessman)"
 lastUpdated: "2026-03-12"

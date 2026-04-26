@@ -5,7 +5,7 @@ birth: "0296-01-01"
 death: "0373-01-01"
 nationality: "Egyptian"
 occupation: ["Bishop", "Theologian", "Church Father"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hosios_Loukas_Crypt_%28south_east_groin-vault%29_-_Athanasios.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
 lastUpdated: "2026-02-21"

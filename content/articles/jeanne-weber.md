@@ -5,7 +5,7 @@ birth: "1874-10-07"
 death: "1918-06-01"
 nationality: "France"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/L%27Ogresse_Jeanne_Weber_au_Palais_de_Justice_de_Saint-Mihiel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeanne_Weber"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1989-08-11"
 death: "Unknown"
 nationality: "Morocco"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Coupling_THA_9364_B_M-Z%2C_June_2014_%282%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayoub_El_Khazzani"
 lastUpdated: "2026-02-26"

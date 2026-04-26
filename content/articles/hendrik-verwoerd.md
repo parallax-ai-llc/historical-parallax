@@ -5,7 +5,7 @@ birth: "1901-09-08"
 death: "1966-09-06"
 nationality: "South Africa"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hendrik_Verwoerd_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hendrik_Verwoerd"
 lastUpdated: "2026-02-21"

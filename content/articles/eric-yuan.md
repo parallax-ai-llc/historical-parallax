@@ -5,7 +5,7 @@ birth: "1970-02-20"
 death: "Unknown"
 nationality: "Chinese-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Eric_Yuan_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Yuan"
 lastUpdated: "2026-02-21"

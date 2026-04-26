@@ -5,7 +5,7 @@ birth: "2002-01-11"
 death: "Unknown"
 nationality: "Cuba"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/98/Waterboarding_a_captured_North_Vietnamese_soldier_near_Da_Nang.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guant%C3%A1namo_Bay_Detention"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Joel-Peter Witkin"
 birth: "1939-09-13"
 nationality: "American"
 occupation: ["Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Joel_Peter_Witikin_%2812%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joel-Peter_Witkin"
 lastUpdated: "2026-03-12"

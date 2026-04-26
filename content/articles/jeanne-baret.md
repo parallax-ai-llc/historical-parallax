@@ -5,7 +5,7 @@ birth: "1740-07-27"
 death: "1807-08-05"
 nationality: "French"
 occupation: ["Explorer", "Botanist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Jeanne_Barret.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeanne_Baret"
 lastUpdated: "2026-02-26"

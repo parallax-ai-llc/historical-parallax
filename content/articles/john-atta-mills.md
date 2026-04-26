@@ -5,7 +5,7 @@ birth: "1944-07-21"
 death: "2012-07-24"
 nationality: "Ghana"
 occupation: ["Political Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/John_Atta_Mills.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Atta_Mills"
 lastUpdated: "2026-02-26"

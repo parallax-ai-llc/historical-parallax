@@ -5,7 +5,7 @@ birth: "1961-01-01"
 death: "Unknown"
 nationality: "Iran"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hamid_Noury_at_the_Swedish_court_of_law.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hamid_Nouri"
 lastUpdated: "2026-02-26"

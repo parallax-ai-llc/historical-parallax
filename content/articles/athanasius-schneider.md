@@ -5,7 +5,7 @@ birth: "1961-03-07"
 death: "N/A"
 nationality: "Kazakh-German"
 occupation: ["Bishop", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Mgr_Schneider%2C_Chartres_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Athanasius_Schneider"
 lastUpdated: "2026-02-21"

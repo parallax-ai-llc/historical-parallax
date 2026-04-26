@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Egypt"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Achille39_b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Achille_Lauro_Hijacking"
 lastUpdated: "2026-02-26"

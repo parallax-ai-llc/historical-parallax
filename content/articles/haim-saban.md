@@ -5,7 +5,7 @@ birth: "1944-10-15"
 death: "Unknown"
 nationality: "Egyptian-Israeli-American"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Haim_Saban.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Haim_Saban"
 lastUpdated: "2026-02-21"

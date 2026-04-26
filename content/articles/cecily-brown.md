@@ -5,7 +5,7 @@ birth: "1969-03-18"
 death: "Unknown"
 nationality: "British"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Cecily_Brown_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cecily_Brown"
 lastUpdated: "2026-02-21"

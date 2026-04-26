@@ -5,7 +5,7 @@ birth: "1940-08-21"
 death: "Unknown"
 nationality: "Hungarian-American"
 occupation: ["Mathematician", "Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Szemeredi1.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di"
 lastUpdated: "2026-02-21"

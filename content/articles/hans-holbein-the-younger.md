@@ -5,7 +5,7 @@ birth: "1497-01-01"
 death: "1543-11-29"
 nationality: "German"
 occupation: ["Painter", "Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hans_Holbein_the_Younger%2C_self-portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
 lastUpdated: "2026-02-21"

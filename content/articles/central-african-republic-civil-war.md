@@ -5,7 +5,7 @@ birth: "2012-12-10"
 death: "Unknown"
 nationality: "Central African Republic"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/War_in_Central_African_Republic.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Central_African_Republic_Civil_War"
 lastUpdated: "2026-02-26"

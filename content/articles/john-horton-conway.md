@@ -5,7 +5,7 @@ birth: "1937-12-26"
 death: "2020-04-11"
 nationality: "English"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/John_H_Conway_2005_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Horton_Conway"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1907-01-26"
 death: "1982-10-16"
 nationality: "Hungarian-Canadian"
 occupation: ["Endocrinologist", "Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Portrait_Hans_Selye.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Selye"
 lastUpdated: "2026-02-21"

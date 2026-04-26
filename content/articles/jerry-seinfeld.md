@@ -3,6 +3,7 @@ name: "Jerry Seinfeld"
 birth: "1954-04-29"
 nationality: "American"
 occupation: ["Comedian", "Actor", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jerry_Seinfeld_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Seinfeld"
 lastUpdated: "2026-03-12"

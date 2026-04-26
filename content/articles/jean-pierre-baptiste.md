@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Haiti"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Baptiste_de_Lamarck.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Pierre_Baptiste"
 lastUpdated: "2026-02-26"

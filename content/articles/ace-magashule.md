@@ -5,7 +5,7 @@ birth: "1959-11-03"
 death: "Unknown"
 nationality: "South Africa"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Ace_Magashule.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ace_Magashule"
 lastUpdated: "2026-02-26"

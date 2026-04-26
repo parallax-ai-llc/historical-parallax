@@ -5,7 +5,7 @@ birth: "1994-04-27"
 death: "1994-04-27"
 nationality: "South Africa"
 occupation: ["Historical Event", "Social Movement", "Anti-Apartheid"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/F.W._de_Klerk%2C_left%2C_the_last_president_of_apartheid-era_South_Africa%2C_and_Nelson_Mandela%2C_his_successor%2C_wait_to_speak_in_Philadelphia%2C_Pennsylvania_LCCN2011634245.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/End_of_Apartheid"
 lastUpdated: "2026-02-21"

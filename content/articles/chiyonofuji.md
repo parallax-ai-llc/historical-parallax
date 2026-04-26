@@ -5,7 +5,7 @@ birth: "1955-06-01"
 death: "2016-07-31"
 nationality: "Japanese"
 occupation: ["Athlete", "Sumo Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kokonoe_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chiyonofuji"
 lastUpdated: "2026-02-21"

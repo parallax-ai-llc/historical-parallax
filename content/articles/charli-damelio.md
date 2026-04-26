@@ -3,6 +3,7 @@ name: "Charli D'Amelio"
 birth: "2004-05-01"
 nationality: "American"
 occupation: ["TikToker", "Content Creator", "Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Charli_D%27Amelio_3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charli_D%27Amelio"
 lastUpdated: "2026-03-11"

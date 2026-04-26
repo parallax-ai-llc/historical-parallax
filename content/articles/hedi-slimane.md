@@ -3,6 +3,7 @@ name: "Hedi Slimane"
 birth: "1968-07-05"
 nationality: "French"
 occupation: ["Fashion Designer", "Photographer", "Creative Director"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hedi_Slimane_in_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hedi_Slimane"
 lastUpdated: "2026-03-12"

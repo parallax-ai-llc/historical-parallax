@@ -3,6 +3,7 @@ name: "Jasprit Bumrah"
 birth: "1993-12-06"
 nationality: "Indian"
 occupation: ["Cricketer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jasprit_Bumrah"
 lastUpdated: "2026-03-12"

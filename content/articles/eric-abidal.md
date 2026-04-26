@@ -5,7 +5,7 @@ birth: "1980-01-01"
 death: "Unknown"
 nationality: "Curaçao"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/%C3%89ric_Abidal_-_001.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Abidal"
 lastUpdated: "2026-02-26"

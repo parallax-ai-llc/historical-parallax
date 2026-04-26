@@ -3,6 +3,7 @@ name: "Heidi Klum"
 birth: "1973-06-01"
 nationality: "German"
 occupation: ["Fashion Model", "Television Host"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Heidi_Klum_by_Glenn_Francis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heidi_Klum"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1937-07-11"
 death: "2020-08-07"
 nationality: "Israeli"
 occupation: ["Rabbi", "Scholar", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Rabbi_Adin_Even-Israel_%28Steinsaltz%29_%28cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adin_Steinsaltz"
 lastUpdated: "2026-02-21"

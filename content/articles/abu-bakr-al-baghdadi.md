@@ -5,7 +5,7 @@ birth: "1971-07-28"
 death: "2019-10-27"
 nationality: "Iraq"
 occupation: ["Terrorist", "ISIS Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Abu_Bakr_Al-Baghdadi_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Bakr_al-Baghdadi"
 lastUpdated: "2026-02-26"

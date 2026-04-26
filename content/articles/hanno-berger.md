@@ -5,7 +5,7 @@ birth: "1951-01-01"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Tax Fraud"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bankhaus_Warburg_an_der_Ecke_Ferdinandstra%C3%9Fe_zum_Alstertor_in_Hamburg-Altstadt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanno_Berger"
 lastUpdated: "2026-02-26"

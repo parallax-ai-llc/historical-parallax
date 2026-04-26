@@ -5,7 +5,7 @@ birth: "1980-01-01"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador_junio_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Vaticano_Gang"
 lastUpdated: "2026-02-26"

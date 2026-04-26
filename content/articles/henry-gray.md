@@ -5,7 +5,7 @@ birth: "1827-06-01"
 death: "1861-06-13"
 nationality: "British"
 occupation: ["Anatomist", "Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Henry_Gray_bw_photo_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Gray"
 lastUpdated: "2026-02-21"

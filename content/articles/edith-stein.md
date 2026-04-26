@@ -5,7 +5,7 @@ birth: "1891-10-12"
 death: "1942-08-09"
 nationality: "German"
 occupation: ["Philosopher", "Nun", "Martyr"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Edith_Stein_%28ca._1938-1939%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edith_Stein"
 lastUpdated: "2026-02-21"

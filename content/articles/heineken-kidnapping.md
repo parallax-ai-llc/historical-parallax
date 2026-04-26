@@ -5,7 +5,7 @@ birth: "1983-11-09"
 death: "Unknown"
 nationality: "Netherlands"
 occupation: ["Kidnapping"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Freddy_Heineken_en_Ab_Doderer_%281983%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Heineken_Kidnapping"
 lastUpdated: "2026-02-26"

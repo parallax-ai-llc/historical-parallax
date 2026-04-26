@@ -3,6 +3,7 @@ name: "Austin Butler"
 birth: "1991-08-17"
 nationality: "American"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Austin_Butler_at_the_2025_Cannes_Film_Festival_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Austin_Butler"
 lastUpdated: "2026-03-12"

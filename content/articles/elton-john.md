@@ -3,6 +3,7 @@ name: "Elton John"
 birth: "1947-03-25"
 nationality: "British"
 occupation: ["Musician", "Singer", "Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elton_John"
 lastUpdated: "2026-03-12"

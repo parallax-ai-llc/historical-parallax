@@ -5,7 +5,7 @@ birth: "1862-02-18"
 death: "1939-09-18"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Charles_M._Schwab_cph.3b33668.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_M._Schwab"
 lastUpdated: "2026-02-21"

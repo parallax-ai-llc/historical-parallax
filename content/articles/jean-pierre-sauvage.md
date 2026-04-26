@@ -5,7 +5,7 @@ birth: "1944-10-21"
 death: "Unknown"
 nationality: "French"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Jean-Pierre_Sauvage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Pierre_Sauvage"
 lastUpdated: "2026-02-26"

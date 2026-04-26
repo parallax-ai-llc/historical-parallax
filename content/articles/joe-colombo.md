@@ -5,7 +5,7 @@ birth: "1923-06-16"
 death: "1978-05-22"
 nationality: "United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Joseph_Colombo_speaking_to_newsmen_1971.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Colombo"
 lastUpdated: "2026-02-21"

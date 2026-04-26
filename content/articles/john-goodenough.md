@@ -5,7 +5,7 @@ birth: "1922-07-25"
 death: "2023-06-25"
 nationality: "American"
 occupation: ["Physicist", "Materials Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Nobel_9_Dec_2019_029_copy_%2849204051647%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Goodenough"
 lastUpdated: "2026-02-21"

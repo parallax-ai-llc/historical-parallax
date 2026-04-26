@@ -5,7 +5,7 @@ birth: "1948-12-20"
 death: "Unknown"
 nationality: "Tanzanian-British"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Abdulrazak_Gurnah_2024_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdulrazak_Gurnah"
 lastUpdated: "2026-02-21"

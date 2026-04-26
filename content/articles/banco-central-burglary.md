@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/BCB.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Banco_Central_Burglary"
 lastUpdated: "2026-02-26"

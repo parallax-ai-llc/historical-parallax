@@ -5,7 +5,7 @@ birth: "1942-02-15"
 death: "1945-08-15"
 nationality: "Singapore"
 occupation: ["War Crime Site"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Changi_Prison%2C_Singapore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Changi_Prison"
 lastUpdated: "2026-02-26"

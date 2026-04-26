@@ -5,7 +5,7 @@ birth: "1885-11-02"
 death: "1972-10-20"
 nationality: "American"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/HarlowShapley-crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harlow_Shapley"
 lastUpdated: "2026-02-21"

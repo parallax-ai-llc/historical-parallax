@@ -5,7 +5,7 @@ birth: "1806-06-12"
 death: "1869-07-22"
 nationality: "German-American"
 occupation: ["Civil Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Brooklyn_Museum_-_John_Augustus_Roebling.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_A._Roebling"
 lastUpdated: "2026-02-26"

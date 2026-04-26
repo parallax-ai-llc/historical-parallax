@@ -5,7 +5,7 @@ birth: "1974-09-04"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Businesswoman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/CSIRO_ScienceImage_3083_CSIRO_has_identified_the_ideal_macadamia_preferred_by_consumers.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Hyun-ah"
 lastUpdated: "2026-02-26"

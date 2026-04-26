@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Aleph-logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aum_Shinrikyo_Tokyo_Attack"
 lastUpdated: "2026-02-26"

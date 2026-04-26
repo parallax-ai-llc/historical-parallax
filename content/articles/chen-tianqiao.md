@@ -5,7 +5,7 @@ birth: "1973-05-01"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mr_Tianqiao_Chen_.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chen_Tianqiao"
 lastUpdated: "2026-02-21"

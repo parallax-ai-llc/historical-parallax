@@ -5,7 +5,7 @@ birth: "1973-01-01"
 death: "2021-08-17"
 nationality: "Western Sahara"
 occupation: ["Terrorist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Adnan_Abu_Walid_al-Sahrawi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adnan_Abu_Walid_al-Sahrawi"
 lastUpdated: "2026-02-26"

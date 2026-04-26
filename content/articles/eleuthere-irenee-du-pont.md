@@ -5,7 +5,7 @@ birth: "1771-06-24"
 death: "1834-10-31"
 nationality: "French-American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Eleuth%C3%A8re_Ir%C3%A9n%C3%A9e_du_Pont.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eleuthere_Irenee_du_Pont"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1900-11-03"
 death: "1978-09-06"
 nationality: "German"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Adi_dassler_young.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adi_Dassler"
 lastUpdated: "2026-02-21"

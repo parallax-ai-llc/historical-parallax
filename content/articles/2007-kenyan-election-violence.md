@@ -5,7 +5,7 @@ birth: "2007-12-30"
 death: "Unknown"
 nationality: "Kenya"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/2007_Kenyan_presidential_election_-_Results_by_province.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2007_Kenyan_Election_Violence"
 lastUpdated: "2026-02-26"

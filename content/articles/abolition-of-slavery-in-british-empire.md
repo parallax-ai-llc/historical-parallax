@@ -5,7 +5,7 @@ birth: "1833-08-28"
 death: "1833-08-28"
 nationality: "United Kingdom"
 occupation: ["Historical Event", "Social Movement", "Abolition"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Coat_of_Arms_of_the_United_Kingdom_%281816-1837%29.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abolition_of_Slavery_in_British_Empire"
 lastUpdated: "2026-02-21"

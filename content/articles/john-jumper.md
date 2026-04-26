@@ -5,7 +5,7 @@ birth: "1985-06-12"
 death: "living"
 nationality: "American"
 occupation: ["Computer Scientist", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/John_Jumper%2C_2024_Nobel_Prize_Laureate_in_Chemistry.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Jumper"
 lastUpdated: "2026-02-21"

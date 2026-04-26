@@ -5,7 +5,7 @@ birth: "0347-01-01"
 death: "0420-01-01"
 nationality: "Dalmatian-Roman"
 occupation: ["Priest", "Theologian", "Bible Translator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerome"
 lastUpdated: "2026-02-21"

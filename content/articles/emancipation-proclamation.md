@@ -5,7 +5,7 @@ birth: "1863-01-01"
 death: "1863-01-01"
 nationality: "United States"
 occupation: ["Historical Event", "Social Movement", "Abolition"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
 lastUpdated: "2026-02-21"

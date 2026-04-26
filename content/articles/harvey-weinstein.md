@@ -5,7 +5,7 @@ birth: "1952-03-19"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Sex Offender", "Film Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Harvey_Weinstein_2011_Shankbone.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harvey_Weinstein"
 lastUpdated: "2026-02-21"

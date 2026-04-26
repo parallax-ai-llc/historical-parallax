@@ -5,7 +5,7 @@ birth: "1946-09-07"
 death: "2014-06-11"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Esparragoza-Moreno.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Azul"
 lastUpdated: "2026-02-26"

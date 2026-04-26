@@ -5,7 +5,7 @@ birth: "1953-05-22"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Cha_Bum_Kun.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cha_Bum-kun"
 lastUpdated: "2026-02-26"

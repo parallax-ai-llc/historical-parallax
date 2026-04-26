@@ -5,7 +5,7 @@ birth: "1844-01-01"
 death: "1902-01-08"
 nationality: "Germany"
 occupation: ["Thief", "Criminal Mastermind"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Adam_Worth.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adam_Worth"
 lastUpdated: "2026-02-26"

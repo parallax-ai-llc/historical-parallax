@@ -5,7 +5,7 @@ birth: "1939-09-30"
 death: "Unknown"
 nationality: "French"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Jean-Marie_Lehn_par_Claude_Truong-Ngoc_octobre_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Marie_Lehn"
 lastUpdated: "2026-02-21"

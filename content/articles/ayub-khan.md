@@ -5,7 +5,7 @@ birth: "1907-05-14"
 death: "1974-04-19"
 nationality: "Pakistan"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Muhammed_Ayub_Khan.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayub_Khan"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1908-05-30"
 death: "1995-04-02"
 nationality: "Swedish"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/YoungAlfven.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hannes_Alfven"
 lastUpdated: "2026-02-21"

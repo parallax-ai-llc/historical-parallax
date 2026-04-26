@@ -5,7 +5,7 @@ birth: "1486-02-18"
 death: "1534-06-14"
 nationality: "Indian"
 occupation: ["Saint", "Mystic", "Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chaitanya_Mahaprabhu_in_Dhameswar_Mahaprabhu_temple_6.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu"
 lastUpdated: "2026-02-21"

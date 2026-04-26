@@ -5,7 +5,7 @@ birth: "2013-01-01"
 death: "2016-01-01"
 nationality: "Senegal"
 occupation: ["Legal Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Isaaq_Chiefs_Hargeisa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Habr%C3%A9_Trial"
 lastUpdated: "2026-02-26"

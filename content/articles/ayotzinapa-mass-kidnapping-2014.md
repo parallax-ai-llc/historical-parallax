@@ -5,7 +5,7 @@ birth: "2014-09-26"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/EPN_Firma.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayotzinapa_Mass_Kidnapping_2014"
 lastUpdated: "2026-02-26"

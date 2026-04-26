@@ -5,7 +5,7 @@ birth: "2019-04-21"
 death: "Unknown"
 nationality: "Sri Lanka"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Kingsbury_Hotel.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2019_Sri_Lanka_Bombings"
 lastUpdated: "2026-02-26"

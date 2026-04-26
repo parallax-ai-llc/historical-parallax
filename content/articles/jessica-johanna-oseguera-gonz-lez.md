@@ -5,7 +5,7 @@ birth: "1987-05-23"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Jessica_Johanna_Oseguera_Gonzalez_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jessica_Johanna_Oseguera_Gonz%C3%A1lez"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2020-05-25"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Minneapolis_05-28-20_%2849947863357%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2020_George_Floyd_Protests"
 lastUpdated: "2026-02-26"

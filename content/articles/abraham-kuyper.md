@@ -5,7 +5,7 @@ birth: "1837-10-29"
 death: "1920-11-08"
 nationality: "Dutch"
 occupation: ["Theologian", "Politician", "Journalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Abraham_Kuyper_1905_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abraham_Kuyper"
 lastUpdated: "2026-02-21"

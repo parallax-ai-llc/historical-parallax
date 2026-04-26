@@ -5,7 +5,7 @@ birth: "1970-10-18"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Automotive engineer", "Business executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/241014_Roh_Jeong_Eui.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeong_Ui-seon"
 lastUpdated: "2026-02-21"

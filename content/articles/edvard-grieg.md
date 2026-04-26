@@ -5,7 +5,7 @@ birth: "1843-06-15"
 death: "1907-09-04"
 nationality: "Norwegian"
 occupation: ["Composer", "Pianist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Edvard_Grieg_portrait_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edvard_Grieg"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1570-04-13"
 death: "1606-01-31"
 nationality: "England"
 occupation: ["Terrorist", "Conspirator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guy_Fawkes"
 lastUpdated: "2026-02-21"

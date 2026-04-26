@@ -5,7 +5,7 @@ birth: "2015-10-10"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Ankara_Gar%C4%B1%2C_An%C4%B1t_ile_beraber_bir_bak%C4%B1%C5%9F.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2015_Ankara_Bombings"
 lastUpdated: "2026-02-26"

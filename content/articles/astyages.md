@@ -5,7 +5,7 @@ birth: "-625-01-01"
 death: "-585-01-01"
 nationality: "Media"
 occupation: ["Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/King_Astyages_submitting_to_Cyrus.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Astyages"
 lastUpdated: "2026-02-26"

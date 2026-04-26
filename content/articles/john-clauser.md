@@ -5,7 +5,7 @@ birth: "1942-12-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/John_Clauser_Updated_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Clauser"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1951-06-19"
 death: "2022-07-31"
 nationality: "Egypt"
 occupation: ["Terrorist", "Al-Qaeda Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hamid_Mir_interviewing_Osama_bin_Laden_and_Ayman_al-Zawahiri_2001_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayman_al-Zawahiri"
 lastUpdated: "2026-02-21"

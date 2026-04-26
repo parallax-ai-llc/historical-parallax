@@ -5,7 +5,7 @@ birth: "1725-09-28"
 death: "1803-01-23"
 nationality: "Irish"
 occupation: ["Entrepreneur", "Brewer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Arthur_Guinness.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Guinness"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1988-03-29"
 death: "Unknown"
 nationality: "South Africa"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Dulcie_September_Gernika_2023_-_21_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dulcie_September_Assassination"
 lastUpdated: "2026-02-26"

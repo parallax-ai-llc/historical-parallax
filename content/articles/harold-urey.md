@@ -5,7 +5,7 @@ birth: "1893-01-29"
 death: "1981-01-05"
 nationality: "American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Harold_Urey%2C_1934.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harold_Urey"
 lastUpdated: "2026-02-21"

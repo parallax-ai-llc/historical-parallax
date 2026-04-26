@@ -5,7 +5,7 @@ birth: "1911-06-26"
 death: "1956-09-27"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Golfer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Babe_Didrikson_Zaharias_1938cr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Babe_Didrikson_Zaharias"
 lastUpdated: "2026-02-26"

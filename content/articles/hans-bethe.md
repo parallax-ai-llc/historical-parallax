@@ -5,7 +5,7 @@ birth: "1906-07-02"
 death: "2005-03-06"
 nationality: "German-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hans_Bethe.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Bethe"
 lastUpdated: "2026-02-21"

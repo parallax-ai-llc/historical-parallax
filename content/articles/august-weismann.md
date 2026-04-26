@@ -5,7 +5,7 @@ birth: "1834-01-17"
 death: "1914-11-05"
 nationality: "German"
 occupation: ["Evolutionary Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/August_Weismann.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/August_Weismann"
 lastUpdated: "2026-02-21"

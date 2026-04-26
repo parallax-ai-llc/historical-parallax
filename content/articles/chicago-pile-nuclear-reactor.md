@@ -5,7 +5,7 @@ birth: "1942-12-02"
 death: "1942-12-02"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Nuclear"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Stagg_Field_reactor.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chicago_Pile_Nuclear_Reactor"
 lastUpdated: "2026-02-21"

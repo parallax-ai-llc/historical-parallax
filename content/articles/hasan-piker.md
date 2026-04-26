@@ -3,6 +3,7 @@ name: "Hasan Piker"
 birth: "1991-07-25"
 nationality: "American (Turkish-born)"
 occupation: ["Streamer", "Political Commentator", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hasan_Piker_10.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hasan_Piker"
 lastUpdated: "2026-03-11"

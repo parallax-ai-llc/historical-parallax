@@ -5,7 +5,7 @@ birth: "2020-11-28"
 death: "Unknown"
 nationality: "Ethiopia"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/ET_Axum_asv2018-01_img34_view_from_hill.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Axum_Massacre"
 lastUpdated: "2026-02-26"

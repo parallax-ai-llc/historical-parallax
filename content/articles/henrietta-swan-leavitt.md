@@ -5,7 +5,7 @@ birth: "1868-07-04"
 death: "1921-12-12"
 nationality: "American"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Henrietta_Swan_Leavitt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
 lastUpdated: "2026-02-21"

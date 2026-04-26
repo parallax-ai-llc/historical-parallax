@@ -4,6 +4,7 @@ birth: "1931-05-13"
 death: "1978-11-18"
 nationality: "American"
 occupation: ["Cult Leader", "Religious Leader", "Founder of Peoples Temple"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Rev._Jim_Jones%2C_1977_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jim_Jones"
 lastUpdated: "2025-12-23"

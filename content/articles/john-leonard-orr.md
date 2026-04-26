@@ -5,7 +5,7 @@ birth: "1949-04-26"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Serial Arsonist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/American_arsonist_John_Leonard_Orr%2C_high_school_yearbook_photo%2C_1966.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Leonard_Orr"
 lastUpdated: "2026-02-26"

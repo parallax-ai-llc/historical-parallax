@@ -5,7 +5,7 @@ birth: "1986-04-26"
 death: "1986-04-26"
 nationality: "Soviet Union"
 occupation: ["Historical Event", "Disaster", "Nuclear"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/IAEA_02790015_%285613115146%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Disaster"
 lastUpdated: "2026-02-21"

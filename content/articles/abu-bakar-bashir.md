@@ -5,7 +5,7 @@ birth: "1938-08-17"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Abu_Bakar_Ba%27asyir_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Bakar_Bashir"
 lastUpdated: "2026-02-26"

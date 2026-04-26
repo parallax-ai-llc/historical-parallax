@@ -5,7 +5,7 @@ birth: "1896-09-01"
 death: "1977-11-14"
 nationality: "Indian"
 occupation: ["Guru", "Author", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Prabhupada_singing_%28Germany_1974%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada"
 lastUpdated: "2026-02-21"

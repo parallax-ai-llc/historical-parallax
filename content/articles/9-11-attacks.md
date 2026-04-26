@@ -5,7 +5,7 @@ birth: "2001-09-11"
 death: "2001-09-11"
 nationality: "United States"
 occupation: ["Historical Event", "Disaster", "Terrorism"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/9-11_Attacks"
 lastUpdated: "2026-02-21"

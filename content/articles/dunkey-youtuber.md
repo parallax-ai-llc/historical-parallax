@@ -3,6 +3,7 @@ name: "Dunkey"
 birth: "1990-01-30"
 nationality: "American"
 occupation: ["YouTuber", "Gaming Commentator", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Videogamedunkey_%28Jason_Gastrow%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dunkey"
 lastUpdated: "2026-03-12"

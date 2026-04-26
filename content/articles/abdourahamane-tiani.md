@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Niger"
 occupation: ["Coup Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Abdourahamane_Tchiani_in_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdourahamane_Tiani"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Chimamanda Ngozi Adichie"
 birth: "1977-09-15"
 nationality: "Nigerian"
 occupation: ["Author", "Novelist", "Essayist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chimamanda_Ngozi_Adichie_%282015%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1956-01-01"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Father of Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/UmarFarouk.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Mutallab"
 lastUpdated: "2026-02-26"

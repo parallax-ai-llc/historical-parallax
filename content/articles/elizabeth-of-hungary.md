@@ -5,7 +5,7 @@ birth: "1207-07-07"
 death: "1231-11-17"
 nationality: "Hungarian-German"
 occupation: ["Princess", "Saint", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Simone_Martini_046.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"
 lastUpdated: "2026-02-21"

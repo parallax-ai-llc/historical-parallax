@@ -5,7 +5,7 @@ birth: "1952-07-06"
 death: "Unknown"
 nationality: "Israeli"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Adi_Shamir_Royal_Society.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adi_Shamir"
 lastUpdated: "2026-02-26"

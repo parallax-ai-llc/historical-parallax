@@ -5,7 +5,7 @@ birth: "1942-11-22"
 death: "living"
 nationality: "American"
 occupation: ["Astronaut", "Aerospace Engineer", "Pilot"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Guion_Bluford.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guion_Bluford"
 lastUpdated: "2026-02-21"

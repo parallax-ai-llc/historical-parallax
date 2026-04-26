@@ -5,7 +5,7 @@ birth: "1922-10-01"
 death: "Unknown"
 nationality: "Chinese-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/HD.3F.010_%2811086446676%29%28Chen_Ning_Yang%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chen-Ning_Yang"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1829-09-07"
 death: "1896-07-13"
 nationality: "German"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Frkekul%C3%A9.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/August_Kekul%C3%A9"
 lastUpdated: "2026-02-21"

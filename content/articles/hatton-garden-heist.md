@@ -5,7 +5,7 @@ birth: "2015-04-02"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Bank Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/88-90_Hatton_Garden%2C_front_door_TQ3181_U23_%28perspective%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hatton_Garden_heist"
 lastUpdated: "2026-02-26"

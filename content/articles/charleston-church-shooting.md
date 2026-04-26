@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Charleston_church_memorial_after_attack.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charleston_Church_Shooting"
 lastUpdated: "2026-02-26"

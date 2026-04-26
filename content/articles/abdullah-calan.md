@@ -5,7 +5,7 @@ birth: "1949-04-04"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abdullah_%C3%96calan.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdullah_%C3%96calan"
 lastUpdated: "2026-02-26"

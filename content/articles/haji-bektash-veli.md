@@ -5,7 +5,7 @@ birth: "1209-01-01"
 death: "1271-01-01"
 nationality: "Anatolian"
 occupation: ["Sufi Master", "Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%91%D0%B0%D1%85%D0%B0_%D0%92%D0%B0%D0%BB%D0%B0%D0%B4_-_%D0%9C%D0%B0%D0%B0%D1%80%D0%B8%D1%84_%28%D0%9C%D0%B8%D0%BD%D0%B8%D0%B0%D1%82%D1%8E%D1%80%D0%B0%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Haji_Bektash_Veli"
 lastUpdated: "2026-02-21"

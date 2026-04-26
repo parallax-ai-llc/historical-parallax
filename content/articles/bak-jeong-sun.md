@@ -5,7 +5,7 @@ birth: "1945-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Soil scientist", "Agricultural researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bak_Jeong-sun"
 lastUpdated: "2026-02-21"

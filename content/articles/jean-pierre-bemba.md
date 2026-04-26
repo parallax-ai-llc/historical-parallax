@@ -5,7 +5,7 @@ birth: "1962-11-04"
 death: "Unknown"
 nationality: "Democratic Republic of the Congo"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/The_Vice_President_of_Democratic_Republic_of_Congo%2C_Mr._Jean_Pierre_Bemba_calls_on_the_Vice_President_Shri_Bhairon_Singh_Shekhawat_in_New_Delhi_on_March_3%2C_2005_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Pierre_Bemba"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1469-04-15"
 death: "1539-09-22"
 nationality: "Punjabi"
 occupation: ["Prophet", "Poet", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mural_painting_of_Guru_Nanak_from_Gurdwara_Baba_Atal_Rai.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Nanak_Dev"
 lastUpdated: "2026-02-21"

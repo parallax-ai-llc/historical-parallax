@@ -5,7 +5,7 @@ birth: "1946-01-23"
 death: "Unknown"
 nationality: "Nicaragua"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Roma_-_Basilica_di_Santa_Cecilia_in_Trastevere_-_2023-09-10_22-00-42_001.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnolfo_Aleman"
 lastUpdated: "2026-02-26"

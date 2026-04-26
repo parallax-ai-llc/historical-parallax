@@ -5,7 +5,7 @@ birth: "1950-12-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Entertainment Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Jeffrey_Katzenberg_%2852166167548%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeffrey_Katzenberg"
 lastUpdated: "2026-02-21"

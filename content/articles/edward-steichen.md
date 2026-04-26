@@ -4,6 +4,7 @@ birth: "1879-03-27"
 death: "1973-03-25"
 nationality: "American"
 occupation: ["Photographer", "Painter", "Curator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Edward_Steichen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Steichen"
 lastUpdated: "2026-03-12"

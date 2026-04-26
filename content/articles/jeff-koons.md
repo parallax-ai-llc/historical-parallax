@@ -5,7 +5,7 @@ birth: "1955-01-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Jeff_Koons_01_%283x4_cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeff_Koons"
 lastUpdated: "2026-02-21"

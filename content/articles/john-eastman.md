@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Disbarred Lawyer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/John_Eastman_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Eastman"
 lastUpdated: "2026-02-26"

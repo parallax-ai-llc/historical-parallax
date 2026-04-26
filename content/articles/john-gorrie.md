@@ -5,7 +5,7 @@ birth: "1803-10-03"
 death: "1855-06-29"
 nationality: "American"
 occupation: ["Physician", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gorrie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Gorrie"
 lastUpdated: "2026-02-21"

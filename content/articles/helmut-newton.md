@@ -4,6 +4,7 @@ birth: "1920-10-31"
 death: "2004-01-23"
 nationality: "Australian-German"
 occupation: ["Photographer", "Fashion Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Helmut_Newton_Grave_headshot_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Helmut_Newton"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1911-12-22"
 death: "2002-12-20"
 nationality: "American"
 occupation: ["Astronomer", "Radio Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/GroteReber1975.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grote_Reber"
 lastUpdated: "2026-02-21"

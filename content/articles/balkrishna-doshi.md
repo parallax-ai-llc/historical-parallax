@@ -5,7 +5,7 @@ birth: "1927-08-26"
 death: "2023-01-24"
 nationality: "Indian"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Balkrishna_Doshi.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Balkrishna_Doshi"
 lastUpdated: "2026-02-21"

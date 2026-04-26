@@ -5,7 +5,7 @@ birth: "1900-05-10"
 death: "1979-12-07"
 nationality: "British-American"
 occupation: ["Astronomer", "Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Cecilia_Helena_Payne-Gaposchkin_%281900-1979%29_-_Science_Service.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin"
 lastUpdated: "2026-02-21"

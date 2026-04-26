@@ -5,7 +5,7 @@ birth: "1954-07-29"
 death: "2001-12-31"
 nationality: "India"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Harshad_Mehta.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harshad_Mehta"
 lastUpdated: "2026-02-26"

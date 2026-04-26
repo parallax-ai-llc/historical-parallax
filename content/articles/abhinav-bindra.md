@@ -5,7 +5,7 @@ birth: "1982-09-28"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Athlete", "Olympic Champion", "Shooter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Abhinav_Bindra_and_Mary_Kom_-_British_High_Commission%2C_Delhi%2C_27_July_2011_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abhinav_Bindra"
 lastUpdated: "2026-02-26"

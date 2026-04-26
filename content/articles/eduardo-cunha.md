@@ -5,7 +5,7 @@ birth: "1958-09-29"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Eduardo_Cunha_em_1%C2%BA_de_junho_de_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eduardo_Cunha"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1981-01-26"
 death: "Unknown"
 nationality: "Venezuelan"
 occupation: ["Conductor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gustavo_Dudamel.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gustavo_Dudamel"
 lastUpdated: "2026-02-21"

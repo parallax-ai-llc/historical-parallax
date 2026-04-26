@@ -5,7 +5,7 @@ birth: "1954-03-25"
 death: "Unknown"
 nationality: "Afghanistan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Abdul_Rashid_Dostum_in_September_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Rashid_Dostum"
 lastUpdated: "2026-02-26"

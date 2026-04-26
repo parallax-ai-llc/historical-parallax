@@ -3,6 +3,7 @@ name: "Dwayne Johnson"
 birth: "1972-05-02"
 nationality: "American"
 occupation: ["Actor", "Wrestler", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dwayne_Johnson-1764_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dwayne_Johnson"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "0310-01-01"
 death: "0230-01-01"
 nationality: "Greek"
 occupation: ["Astronomer", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Aristarchos_von_Samos_%28Denkmal%29.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aristarchus_of_Samos"
 lastUpdated: "2026-02-26"

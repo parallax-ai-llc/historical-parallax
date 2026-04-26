@@ -5,7 +5,7 @@ birth: "1954-09-16"
 death: "Unknown"
 nationality: "India"
 occupation: ["Corporate Fraud"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Ramalinga_Raju_at_the_2008_Indian_Economic_Summit.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/B._Ramalinga_Raju"
 lastUpdated: "2026-02-26"

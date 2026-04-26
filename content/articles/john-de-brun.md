@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "N/A (Imprisoned)"
 nationality: "New Zealand / Netherlands"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg"
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"

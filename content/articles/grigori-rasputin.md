@@ -5,7 +5,7 @@ birth: "1869-01-21"
 death: "1916-12-30"
 nationality: "Russian"
 occupation: ["Mystic", "Religious Figure", "Political Advisor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Rasputin_PA.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grigori_Rasputin"
 lastUpdated: "2026-03-18"

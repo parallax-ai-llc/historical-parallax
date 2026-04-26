@@ -5,7 +5,7 @@ birth: "1924-07-11"
 death: "2005-03-08"
 nationality: "Brazilian"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/C%C3%A9sar_Lattes_%281954%29.tif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cesar_Lattes"
 lastUpdated: "2026-02-21"

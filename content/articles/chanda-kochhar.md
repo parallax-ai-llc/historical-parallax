@@ -5,7 +5,7 @@ birth: "1961-11-17"
 death: "Unknown"
 nationality: "India"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Chanda_Kochhar_at_the_India_Economic_Summit_2009_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chanda_Kochhar"
 lastUpdated: "2026-02-26"

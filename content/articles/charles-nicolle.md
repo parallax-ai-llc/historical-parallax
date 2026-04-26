@@ -5,7 +5,7 @@ birth: "1866-09-21"
 death: "1936-02-28"
 nationality: "French"
 occupation: ["Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Charles_Nicolle_at_microscope.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Nicolle"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1915-11-25"
 death: "2006-12-10"
 nationality: "Chile"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augusto_Pinochet_Military"
 lastUpdated: "2026-02-26"

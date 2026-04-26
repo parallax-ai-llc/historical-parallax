@@ -5,7 +5,7 @@ birth: "1778-08-01"
 death: "1856-05-04"
 nationality: "American"
 occupation: ["Surgeon", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Dr.JohnWarren_with_skull.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Collins_Warren"
 lastUpdated: "2026-02-21"

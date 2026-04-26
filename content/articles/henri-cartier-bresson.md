@@ -5,7 +5,7 @@ birth: "1908-08-22"
 death: "2004-08-03"
 nationality: "French"
 occupation: ["Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Portrait_of_Henri_Cartier-Bresson_-_Paris_-_1954_-_Kimura_Ihei_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henri_Cartier-Bresson"
 lastUpdated: "2026-02-21"

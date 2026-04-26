@@ -3,6 +3,7 @@ name: "Emma Stone"
 birth: "1988-11-06"
 nationality: "American"
 occupation: ["Actress", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emma_Stone"
 lastUpdated: "2026-03-12"

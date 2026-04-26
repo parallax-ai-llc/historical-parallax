@@ -5,7 +5,7 @@ birth: "2023-01-24"
 death: "Unknown"
 nationality: "India"
 occupation: ["Financial Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Adani_logo_2012.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adani_Group_Scandal"
 lastUpdated: "2026-02-26"

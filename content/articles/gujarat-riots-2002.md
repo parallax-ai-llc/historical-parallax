@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "India"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ahmedabad_riots1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gujarat_Riots_2002"
 lastUpdated: "2026-02-26"

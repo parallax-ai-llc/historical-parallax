@@ -5,7 +5,7 @@ birth: "1968-02-22"
 death: "Unknown"
 nationality: "Mexican"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Comida_Inaugural_de_Sal%C3%B3n_de_Usos_Multiples_de_SITAYR_%2828856726923%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emilio_Azcarraga_Jean"
 lastUpdated: "2026-02-21"

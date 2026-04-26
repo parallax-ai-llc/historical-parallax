@@ -5,7 +5,7 @@ birth: "1897-07-08"
 death: "1991-04-18"
 nationality: "English"
 occupation: ["Epidemiologist", "Statistician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Austin_Bradford_Hill.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Austin_Bradford_Hill"
 lastUpdated: "2026-02-21"

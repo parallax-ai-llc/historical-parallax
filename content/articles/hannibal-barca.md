@@ -4,6 +4,7 @@ birth: "247 BCE"
 death: "c. 183-181 BCE"
 nationality: "Carthaginian"
 occupation: ["Military Commander", "Statesman"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hannibal"
 lastUpdated: "2025-12-22"

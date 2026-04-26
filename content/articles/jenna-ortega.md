@@ -3,6 +3,7 @@ name: "Jenna Ortega"
 birth: "2002-09-27"
 nationality: "American"
 occupation: ["Actress", "Content Creator", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Jenna_Ortega-63799_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jenna_Ortega"
 lastUpdated: "2026-03-12"

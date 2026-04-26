@@ -5,7 +5,7 @@ birth: "2003-10-01"
 death: "2004-04-28"
 nationality: "Iraq"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Samarra_map.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Ghraib"
 lastUpdated: "2026-02-26"

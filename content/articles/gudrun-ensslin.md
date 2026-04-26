@@ -5,7 +5,7 @@ birth: "1940-08-15"
 death: "1977-10-18"
 nationality: "Germany"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Das_Abonnement_-_A_film_by_Ali_Limonadi_1.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gudrun_Ensslin"
 lastUpdated: "2026-02-21"

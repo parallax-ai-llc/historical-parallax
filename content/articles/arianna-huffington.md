@@ -5,7 +5,7 @@ birth: "1950-07-15"
 death: "Unknown"
 nationality: "Greek-American"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Arianna_Huffington_2011_Shankbone_2.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arianna_Huffington"
 lastUpdated: "2026-02-21"

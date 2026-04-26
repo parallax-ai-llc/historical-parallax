@@ -5,7 +5,7 @@ birth: "1963-09-15"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/16th_Street_Baptist_Church_bombing_girls.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_Bombing"
 lastUpdated: "2026-02-26"

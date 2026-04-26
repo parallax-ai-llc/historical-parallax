@@ -3,6 +3,7 @@ name: "Aspas"
 birth: "2002-02-20"
 nationality: "Brazilian"
 occupation: ["Esports Player", "Valorant Pro", "Duelist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_182_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aspas_(gamer)"
 lastUpdated: "2026-03-11"

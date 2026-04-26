@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "Mozambique"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/38._St.Gallen_Symposium-Chang_Zhenming-HSGN_028-01920_%28cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chang_Zhenming"
 lastUpdated: "2026-02-26"

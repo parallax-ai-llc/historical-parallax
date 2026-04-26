@@ -5,7 +5,7 @@ birth: "1860-04-09"
 death: "1926-06-08"
 nationality: "United Kingdom"
 occupation: ["Whistleblower"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Hobhouse2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emily_Hobhouse"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1900-04-26"
 death: "1985-09-30"
 nationality: "American"
 occupation: ["Seismologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/CharlesRichter.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Richter"
 lastUpdated: "2026-02-26"

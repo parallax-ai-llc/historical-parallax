@@ -5,7 +5,7 @@ birth: "1920-11-25"
 death: "2002-11-17"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Hanjin_Group_Headquarters.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Joong-hoon"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1330"
 death: "1412"
 nationality: "China"
 occupation: ["Military General", "Artillery Officer", "Philosopher", "Military Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Ming_Dynasty_fragmentation_bomb.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jiao_Yu"
 lastUpdated: "2026-01-07"

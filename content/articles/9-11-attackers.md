@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "2001-09-11"
 nationality: "Saudi Arabia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/9-11_LEAD_HIJACKER_COLLAGE_remastered.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/9%2F11_attackers"
 lastUpdated: "2026-02-26"

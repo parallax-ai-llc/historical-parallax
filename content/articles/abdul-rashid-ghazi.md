@@ -5,7 +5,7 @@ birth: "1964-01-01"
 death: "2007-07-10"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Moulana_ghazi_signature.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Rashid_Ghazi"
 lastUpdated: "2026-02-26"

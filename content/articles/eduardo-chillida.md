@@ -5,7 +5,7 @@ birth: "1924-01-10"
 death: "2002-08-19"
 nationality: "Spanish"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Eduardo_Txillida.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eduardo_Chillida"
 lastUpdated: "2026-02-21"

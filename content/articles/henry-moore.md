@@ -5,7 +5,7 @@ birth: "1898-07-30"
 death: "1986-08-31"
 nationality: "British"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Henry_Moore_in_workshop_Allan_Warren_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Moore"
 lastUpdated: "2026-02-21"

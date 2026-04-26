@@ -5,7 +5,7 @@ birth: "1967-02-18"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Guo_Guangchang.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guo_Guangchang"
 lastUpdated: "2026-02-21"

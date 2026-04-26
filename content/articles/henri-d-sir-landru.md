@@ -5,7 +5,7 @@ birth: "1869-04-12"
 death: "1922-02-25"
 nationality: "France"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Landru_-_photographies_d%27identit%C3%A9_judiciaire_%2817_avril_1919%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru"
 lastUpdated: "2026-02-21"

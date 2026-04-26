@@ -5,7 +5,7 @@ birth: "1897-10-07"
 death: "1975-02-25"
 nationality: "American"
 occupation: ["Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Elijah_Muhammad_NYWTS-2_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elijah_Muhammad"
 lastUpdated: "2026-02-21"

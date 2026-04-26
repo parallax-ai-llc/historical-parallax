@@ -5,7 +5,7 @@ birth: "1942-06-13"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Abdulsalami_Abubakar_detail_DF-SC-02-04323.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdulsalami_Abubakar"
 lastUpdated: "2026-02-26"

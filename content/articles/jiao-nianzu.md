@@ -5,7 +5,7 @@ birth: "1932-01-01"
 death: "2016-01-01"
 nationality: "Chinese"
 occupation: ["Historian of physics", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/%E5%BC%A0%E4%B8%B0%E6%AF%85.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jiao_Nianzu"
 lastUpdated: "2026-02-21"

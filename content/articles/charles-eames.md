@@ -5,7 +5,7 @@ birth: "1907-06-17"
 death: "1978-08-21"
 nationality: "American"
 occupation: ["Designer", "Architect", "Filmmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Charles_Eames_in_Arts_%26_Architecture%2C_January_1945_%28page_41_crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Eames"
 lastUpdated: "2026-02-21"

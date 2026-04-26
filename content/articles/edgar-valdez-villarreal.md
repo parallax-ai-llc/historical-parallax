@@ -5,7 +5,7 @@ birth: "1973-08-11"
 death: "N/A (Imprisoned)"
 nationality: "United States / Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/%C3%89dgar_Valdez_Villarreal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edgar_Valdez_Villarreal"
 lastUpdated: "2026-02-21"

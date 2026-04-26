@@ -5,7 +5,7 @@ birth: "1966-01-01"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Elio_Leoni_Sceti.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elio_Leoni_Sceti"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Philippines"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Islamic_State_-_East_Asia_Province.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Sayyaf_Leaders"
 lastUpdated: "2026-02-26"

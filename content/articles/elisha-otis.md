@@ -5,7 +5,7 @@ birth: "1811-08-03"
 death: "1861-04-08"
 nationality: "American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Otis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elisha_Otis"
 lastUpdated: "2026-02-26"

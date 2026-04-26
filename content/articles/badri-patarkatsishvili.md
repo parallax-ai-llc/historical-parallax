@@ -5,7 +5,7 @@ birth: "1955-10-31"
 death: "2008-02-12"
 nationality: "Georgia"
 occupation: ["Suspicious Death"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Badri_Patarkatsishvili_IMEDI.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Badri_Patarkatsishvili"
 lastUpdated: "2026-02-26"

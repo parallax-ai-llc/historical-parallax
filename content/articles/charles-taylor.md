@@ -5,7 +5,7 @@ birth: "1948-01-28"
 death: "N/A (Imprisoned)"
 nationality: "Liberia"
 occupation: ["Warlord", "War Criminal", "President"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Charles_Taylor_1984_mugshot_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Taylor_(Liberian_politician)"
 lastUpdated: "2026-02-21"

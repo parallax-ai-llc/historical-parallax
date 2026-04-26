@@ -5,7 +5,7 @@ birth: "1945-09-30"
 death: "N/A"
 nationality: "Israel"
 occupation: ["Corrupt Politician", "Prime Minister"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Clinton_and_Olmert_2009_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ehud_Olmert"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1663-03-22"
 death: "1727-06-08"
 nationality: "German"
 occupation: ["Theologian", "Educator", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/August-Hermann-Francke.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augustus_Hermann_Francke"
 lastUpdated: "2026-02-21"

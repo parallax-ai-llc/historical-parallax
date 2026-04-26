@@ -5,7 +5,7 @@ birth: "1667-08-06"
 death: "1748-01-01"
 nationality: "Swiss"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Bernoulli2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Johann_Bernoulli"
 lastUpdated: "2026-02-21"

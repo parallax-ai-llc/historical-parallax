@@ -5,7 +5,7 @@ birth: "1953-06-26"
 death: "Unknown"
 nationality: "Tanzania"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Edward_Lowasa_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Lowassa"
 lastUpdated: "2026-02-26"

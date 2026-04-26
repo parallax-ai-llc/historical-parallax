@@ -5,7 +5,7 @@ birth: "1930-12-03"
 death: "2022-09-13"
 nationality: "French-Swiss"
 occupation: ["Film Director", "Screenwriter", "Critic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Luc_Godard"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1869-12-01"
 death: "1923-01-31"
 nationality: "Poland"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/E_Niewiadomski.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eligiusz_Niewiadomski"
 lastUpdated: "2026-02-26"

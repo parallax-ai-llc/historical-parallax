@@ -5,7 +5,7 @@ birth: "2023-03-09"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/K%C3%B6nigreichssaal_Alsterdorf_2023.1.nnw.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2023_Hamburg_Shooting"
 lastUpdated: "2026-02-26"

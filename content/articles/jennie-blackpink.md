@@ -3,6 +3,7 @@ name: "Jennie (BLACKPINK)"
 birth: "1996-01-16"
 nationality: "South Korean"
 occupation: ["Singer", "Rapper", "Fashion Icon"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Jennie_2026_GDA_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jennie_(singer)"
 lastUpdated: "2026-03-11"

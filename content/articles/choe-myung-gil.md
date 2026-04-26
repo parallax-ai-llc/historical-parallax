@@ -5,7 +5,7 @@ birth: "1586-10-07"
 death: "1647-06-19"
 nationality: "Korea"
 occupation: ["Politician", "Neo-Confucian Scholar", "Diplomat", "Chief State Councilor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Choi_Myung-gil_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choe_Myeong-gil"
 lastUpdated: "2025-12-31"

@@ -5,7 +5,7 @@ birth: "1940-05-26"
 death: "1940-06-04"
 nationality: "France"
 occupation: ["Historical Event", "Battle", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Dunkirk_26-29_May_1940_NYP68075.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dunkirk_Evacuation"
 lastUpdated: "2026-02-21"

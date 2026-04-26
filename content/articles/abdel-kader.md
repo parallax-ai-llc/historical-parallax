@@ -5,7 +5,7 @@ birth: "1808-09-06"
 death: "1883-05-26"
 nationality: "Algerian"
 occupation: ["Sufi Leader", "Military Commander", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Abdul_Qadir_Gilani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdel_Kader"
 lastUpdated: "2026-02-21"

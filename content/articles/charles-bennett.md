@@ -5,7 +5,7 @@ birth: "1943-01-01"
 death: "living"
 nationality: "American"
 occupation: ["Physicist", "Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Krazy_Horse_Bennett.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Bennett"
 lastUpdated: "2026-02-21"

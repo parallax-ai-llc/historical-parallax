@@ -5,7 +5,7 @@ birth: "1907-01-11"
 death: "1972-12-23"
 nationality: "Polish-American Jewish"
 occupation: ["Rabbi", "Philosopher", "Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Heschel2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel"
 lastUpdated: "2026-02-21"

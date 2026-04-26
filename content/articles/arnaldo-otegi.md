@@ -5,7 +5,7 @@ birth: "1958-07-06"
 death: "Unknown"
 nationality: "Spain"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Arnaldo_Otegi_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnaldo_Otegi"
 lastUpdated: "2026-02-26"

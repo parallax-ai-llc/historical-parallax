@@ -3,6 +3,7 @@ name: "Dustin Johnson"
 birth: "1984-06-22"
 nationality: "American"
 occupation: ["Golfer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Dustin_Johnson_-_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dustin_Johnson"
 lastUpdated: "2026-03-12"

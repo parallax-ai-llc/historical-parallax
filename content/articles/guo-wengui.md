@@ -5,7 +5,7 @@ birth: "1970-02-03"
 death: "Unknown"
 nationality: "China"
 occupation: ["Financial Criminal", "Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Guo_Wen-gui_in_April_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guo_Wengui"
 lastUpdated: "2026-02-26"

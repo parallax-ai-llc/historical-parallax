@@ -5,7 +5,7 @@ birth: "1077-03-17"
 death: "1166-02-21"
 nationality: "Persian"
 occupation: ["Sufi Master", "Preacher", "Jurist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Shaykh_%27Abd_al_Qadir_Jalani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Qadir_Gilani"
 lastUpdated: "2026-02-21"

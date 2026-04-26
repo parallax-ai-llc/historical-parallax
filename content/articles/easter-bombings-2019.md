@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Sri Lanka"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Kingsbury_Hotel.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Easter_Bombings_2019"
 lastUpdated: "2026-02-26"

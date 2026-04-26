@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Piperidin-4-one-3D-balls.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeffrey_Sabol"
 lastUpdated: "2026-02-26"

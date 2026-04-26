@@ -5,7 +5,7 @@ birth: "1874-04-15"
 death: "1957-06-21"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Johannes_Stark.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Johannes_Stark"
 lastUpdated: "2026-02-21"

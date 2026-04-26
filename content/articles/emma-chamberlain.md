@@ -3,6 +3,7 @@ name: "Emma Chamberlain"
 birth: "2001-05-22"
 nationality: "American"
 occupation: ["YouTuber", "Content Creator", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Emma_Chamberlain_for_Chamberlain_Coffee%2C_2020_%281%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emma_Chamberlain"
 lastUpdated: "2026-03-11"

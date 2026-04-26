@@ -5,7 +5,7 @@ birth: "1968-06-26"
 death: "Unknown"
 nationality: "Haiti"
 occupation: ["Coup Leader", "Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Guy_Philippe_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guy_Philippe"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1969-10-29"
 death: "1969-10-29"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Technology"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/ARPANET_first_router_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/ARPANET_First_Message"
 lastUpdated: "2026-02-21"

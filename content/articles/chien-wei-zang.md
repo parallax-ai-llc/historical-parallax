@@ -5,7 +5,7 @@ birth: "1913-10-09"
 death: "2010-07-30"
 nationality: "Chinese"
 occupation: ["Physicist", "Applied Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Qian_Weichang_1937.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chien_Wei-zang"
 lastUpdated: "2026-02-21"

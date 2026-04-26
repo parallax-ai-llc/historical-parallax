@@ -5,7 +5,7 @@ birth: "1933-11-04"
 death: "2018-09-23"
 nationality: "Chinese-British"
 occupation: ["Physicist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Charles_K._Kao_cropped_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Kuen_Kao"
 lastUpdated: "2026-02-21"

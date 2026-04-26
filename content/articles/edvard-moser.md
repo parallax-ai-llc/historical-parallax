@@ -5,7 +5,7 @@ birth: "1962-04-27"
 death: "Unknown"
 nationality: "Norwegian"
 occupation: ["Neuroscientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Edvard_Moser_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edvard_Moser"
 lastUpdated: "2026-02-26"

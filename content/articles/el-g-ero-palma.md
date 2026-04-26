@@ -5,7 +5,7 @@ birth: "1957-01-26"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_the_United_States_Immigration_and_Customs_Enforcement.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_G%C3%BCero_Palma"
 lastUpdated: "2026-02-26"

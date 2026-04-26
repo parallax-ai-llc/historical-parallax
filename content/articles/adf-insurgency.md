@@ -5,7 +5,7 @@ birth: "1996-01-01"
 death: "Unknown"
 nationality: "DR Congo"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Joint_MONUSCO-FARDC_operation_against_ADF_in_Beni_%2813246946614%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/ADF_Insurgency"
 lastUpdated: "2026-02-26"

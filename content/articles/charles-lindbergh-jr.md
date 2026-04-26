@@ -5,7 +5,7 @@ birth: "1930-06-22"
 death: "1932-03-01"
 nationality: "United States"
 occupation: ["Kidnapping Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Lindbergh_Jr."
 lastUpdated: "2026-02-26"

@@ -4,6 +4,7 @@ birth: "1875-05-11"
 death: "1912-07-01"
 nationality: "American"
 occupation: ["Aviator", "Journalist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Harriet_Quimby_1911.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harriet_Quimby"
 lastUpdated: "2026-03-12"

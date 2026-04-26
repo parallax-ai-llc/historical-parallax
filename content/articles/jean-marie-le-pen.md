@@ -5,7 +5,7 @@ birth: "1928-06-20"
 death: "2025-01-07"
 nationality: "France"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Le_Pen_Jean-Marie_1999_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Marie_Le_Pen"
 lastUpdated: "2026-02-21"

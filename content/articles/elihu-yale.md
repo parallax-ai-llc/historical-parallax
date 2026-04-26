@@ -5,7 +5,7 @@ birth: "1649-04-05"
 death: "1721-07-08"
 nationality: "Welsh-English"
 occupation: ["Merchant", "Colonial Administrator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Enoch_Seeman_the_younger_-_Portrait_of_Gov._Elihu_Yale_%281648-9%E2%80%931721%29_-_1789.1_-_Yale_University_Art_Gallery.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elihu_Yale"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "0980-01-01"
 death: "1037-01-01"
 nationality: "Persian"
 occupation: ["Physician", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Avicenna"
 lastUpdated: "2026-02-26"

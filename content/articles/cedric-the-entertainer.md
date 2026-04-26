@@ -3,6 +3,7 @@ name: "Cedric the Entertainer"
 birth: "1964-04-24"
 nationality: "American"
 occupation: ["Comedian", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cedric_the_Entertainer_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cedric_the_Entertainer"
 lastUpdated: "2026-03-12"

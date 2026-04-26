@@ -5,7 +5,7 @@ birth: "1978-11-12"
 death: "Unknown"
 nationality: "French"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/C%C3%A9line_Sciamma_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Celine_Sciamma"
 lastUpdated: "2026-02-21"

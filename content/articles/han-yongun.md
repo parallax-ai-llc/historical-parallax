@@ -5,7 +5,7 @@ birth: "1879-08-29"
 death: "1944-06-29"
 nationality: "Korean"
 occupation: ["Poet", "Buddhist Monk", "Independence Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/1937_%ED%95%9C%EC%9A%A9%EC%9A%B4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Han_Yongun"
 lastUpdated: "2026-02-21"

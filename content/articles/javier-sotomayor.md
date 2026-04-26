@@ -5,7 +5,7 @@ birth: "1967-10-13"
 death: "Unknown"
 nationality: "Cuban"
 occupation: ["Athlete", "Olympic Champion", "High Jumper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Javier_Sotomayor_2009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Javier_Sotomayor"
 lastUpdated: "2026-02-26"

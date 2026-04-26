@@ -5,7 +5,7 @@ birth: "1948-02-16"
 death: "N/A"
 nationality: "German-Canadian"
 occupation: ["Author", "Spiritual Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Eckhart_Tolle_front.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eckhart_Tolle"
 lastUpdated: "2026-02-21"

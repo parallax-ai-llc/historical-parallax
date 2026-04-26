@@ -5,7 +5,7 @@ birth: "1956-02-02"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Adnan_oktar_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adnan_Oktar"
 lastUpdated: "2026-02-26"

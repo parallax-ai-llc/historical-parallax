@@ -5,7 +5,7 @@ birth: "1852-02-16"
 death: "1916-10-31"
 nationality: "American"
 occupation: ["Religious Leader", "Publisher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/C.T._Russell.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Taze_Russell"
 lastUpdated: "2026-02-21"

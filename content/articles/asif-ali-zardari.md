@@ -5,7 +5,7 @@ birth: "1955-07-26"
 death: "N/A"
 nationality: "Pakistan"
 occupation: ["Corrupt Politician", "President"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Asif_Ali_Zardari_-_2024_%283x4_cropped%29_%28b%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asif_Ali_Zardari"
 lastUpdated: "2026-02-21"

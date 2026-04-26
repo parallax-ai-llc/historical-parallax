@@ -5,7 +5,7 @@ birth: "1942-04-03"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/ABG_04.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adi_Godrej"
 lastUpdated: "2026-02-21"

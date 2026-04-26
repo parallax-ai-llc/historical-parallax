@@ -5,7 +5,7 @@ birth: "1143-01-01"
 death: "1217-01-01"
 nationality: "Tibetan"
 occupation: ["Buddhist Master", "Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jigten_Sumgon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jigten_Sumgon"
 lastUpdated: "2026-02-21"

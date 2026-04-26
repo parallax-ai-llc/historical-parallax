@@ -5,7 +5,7 @@ birth: "1950-06-10"
 death: "2025-06-11"
 nationality: "Taiwan"
 occupation: ["Journalist", "Politician", "Independence Activist", "Historian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Chen_Long_%28CHN%29.jpg"
 socialLinks:
   wikipedia: "https://zh.wikipedia.org/zh-tw/陳婉真"
 lastUpdated: "2026-01-08"

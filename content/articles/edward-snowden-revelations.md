@@ -5,7 +5,7 @@ birth: "2013-06-05"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Intelligence Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Snowden_Revelations"
 lastUpdated: "2026-02-26"

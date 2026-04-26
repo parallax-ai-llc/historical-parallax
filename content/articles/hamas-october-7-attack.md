@@ -5,7 +5,7 @@ birth: "2023-10-07"
 death: "Unknown"
 nationality: "Israel"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Fires_in_Israel_and_the_Gaza_strip_-_7_October_2023_%2853245908850%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hamas_October_7_Attack"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1923-01-25"
 death: "2018-06-29"
 nationality: "Swedish"
 occupation: ["Neuropharmacologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Arvid_Carlsson_2011a_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arvid_Carlsson"
 lastUpdated: "2026-02-21"

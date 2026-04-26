@@ -5,7 +5,7 @@ birth: "1984-05-22"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Dustin_Moskovitz_Headshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dustin_Moskovitz"
 lastUpdated: "2026-02-21"

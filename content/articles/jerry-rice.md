@@ -5,7 +5,7 @@ birth: "1962-10-13"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "American Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Super_Bowl_44_Miami_Florida_NFL_Network_South_Beach_Set_Deon_Sanders_interviews_Jerry_Rice_%284331549867%29_%28cropped%29_-_Jerry_Rice.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Rice"
 lastUpdated: "2026-02-26"

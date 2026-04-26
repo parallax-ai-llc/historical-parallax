@@ -5,7 +5,7 @@ birth: "2022-03-27"
 death: "Unknown"
 nationality: "El Salvador"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Guerra_contra_las_pandillas_en_El_Salvador.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Salvador_Gang_Crackdown"
 lastUpdated: "2026-02-26"

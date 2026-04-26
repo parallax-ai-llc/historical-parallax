@@ -5,7 +5,7 @@ birth: "2017-01-01"
 death: "2022-07-13"
 nationality: "United States"
 occupation: ["Financial Fraud"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Celsius_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Celsius_Network"
 lastUpdated: "2026-02-26"

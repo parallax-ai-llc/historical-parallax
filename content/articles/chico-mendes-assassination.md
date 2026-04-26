@@ -5,7 +5,7 @@ birth: "1988-12-22"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chico_Mendes_in_1988.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chico_Mendes_Assassination"
 lastUpdated: "2026-02-26"

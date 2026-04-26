@@ -5,7 +5,7 @@ birth: "1914-05-13"
 death: "1981-04-12"
 nationality: "American"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Joe_Louis_by_van_Vechten.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joe_Louis"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1856-01-01"
 death: "1938-01-01"
 nationality: "Japanese"
 occupation: ["Civil engineer", "Bridge builder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hatoyama_Hideo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hatoyama_Hideo"
 lastUpdated: "2026-02-21"

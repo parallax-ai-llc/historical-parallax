@@ -5,7 +5,7 @@ birth: "1141-04-20"
 death: "1215-07-05"
 nationality: "Japanese"
 occupation: ["Zen Master", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Myoan-Eisai-Kennin-ji-Portrait.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eisai"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1948-11-26"
 death: "Unknown"
 nationality: "Australian-American"
 occupation: ["Molecular Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Elizabeth_Blackburn_in_2024_by_Christopher_Michel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Blackburn"
 lastUpdated: "2026-02-21"

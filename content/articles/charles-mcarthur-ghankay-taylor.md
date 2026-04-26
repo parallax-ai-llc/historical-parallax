@@ -5,7 +5,7 @@ birth: "1948-01-28"
 death: "Unknown"
 nationality: "Liberia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Charles_Taylor_1984_mugshot_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_McArthur_Ghankay_Taylor"
 lastUpdated: "2026-02-26"

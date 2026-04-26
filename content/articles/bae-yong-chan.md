@@ -5,7 +5,7 @@ birth: "1943-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Electronics engineer", "LED researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bae_Yong_Joon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bae_Yong-chan"
 lastUpdated: "2026-02-21"

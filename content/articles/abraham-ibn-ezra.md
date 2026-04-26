@@ -5,7 +5,7 @@ birth: "1089-01-01"
 death: "1167-01-01"
 nationality: "Spanish Jewish"
 occupation: ["Rabbi", "Poet", "Astronomer", "Commentator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Psalterium-Ibn-Ezra.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abraham_ibn_Ezra"
 lastUpdated: "2026-02-21"

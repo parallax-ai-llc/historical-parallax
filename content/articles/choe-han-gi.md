@@ -5,7 +5,7 @@ birth: "1803-01-01"
 death: "1877-01-01"
 nationality: "Korean"
 occupation: ["Philosopher", "Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Choe_Han-gi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choe_Han-gi"
 lastUpdated: "2026-02-21"

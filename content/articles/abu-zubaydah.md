@@ -5,7 +5,7 @@ birth: "1971-03-12"
 death: "Unknown"
 nationality: "Palestine"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Abu_Zubaydah.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Zubaydah"
 lastUpdated: "2026-02-26"

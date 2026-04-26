@@ -5,7 +5,7 @@ birth: "1984-06-01"
 death: "living"
 nationality: "Chinese"
 occupation: ["Biophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/He_Jiankui_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/He_Jiankui"
 lastUpdated: "2026-02-21"

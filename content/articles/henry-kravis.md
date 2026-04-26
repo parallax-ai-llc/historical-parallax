@@ -5,7 +5,7 @@ birth: "1944-01-06"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Henry_Kravis_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Kravis"
 lastUpdated: "2026-02-21"

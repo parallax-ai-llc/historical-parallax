@@ -5,7 +5,7 @@ birth: "1953-11-12"
 death: "Unknown"
 nationality: "Senegalese"
 occupation: ["Singer", "Guitarist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Baaba_Maal_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baaba_Maal"
 lastUpdated: "2026-02-21"

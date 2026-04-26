@@ -5,7 +5,7 @@ birth: "1961-08-04"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Treasury%27s_meeting_with_Nigerian_President_Muhammadu_Buhari_%2819918041535%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emefiele_Godwin"
 lastUpdated: "2026-02-26"

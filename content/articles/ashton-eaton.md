@@ -5,7 +5,7 @@ birth: "1988-01-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Decathlete"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ashton_Eaton_2_Daegu_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ashton_Eaton"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1771-11-11"
 death: "1830-06-25"
 nationality: "American"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ephraim_McDowell.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ephraim_McDowell"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1982-01-21"
 death: "living"
 nationality: "American"
 occupation: ["Theoretical Physicist", "Cosmologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chanda_Prescod-Weinstein%2C_Becoming_Interplanetary.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chanda_Prescod-Weinstein"
 lastUpdated: "2026-02-21"

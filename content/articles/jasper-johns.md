@@ -5,7 +5,7 @@ birth: "1930-05-15"
 death: "Unknown"
 nationality: "American"
 occupation: ["Painter", "Sculptor", "Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jasper_Johns%2C_Medal_of_Freedom%2C_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jasper_Johns"
 lastUpdated: "2026-02-21"

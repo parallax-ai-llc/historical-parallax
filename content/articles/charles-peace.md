@@ -5,7 +5,7 @@ birth: "1832-05-14"
 death: "1879-02-25"
 nationality: "United Kingdom"
 occupation: ["Thief", "Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/C.Peace.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Peace"
 lastUpdated: "2026-02-26"

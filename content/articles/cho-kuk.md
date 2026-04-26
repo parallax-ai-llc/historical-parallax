@@ -5,7 +5,7 @@ birth: "1965-08-12"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jo_Guk_%282017-05%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Kuk"
 lastUpdated: "2026-02-26"

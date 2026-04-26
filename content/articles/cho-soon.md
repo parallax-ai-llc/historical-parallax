@@ -5,7 +5,7 @@ birth: "1928-07-26"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Economist", "Policy scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/%EC%A1%B0%EC%88%9C_%EB%B0%95%EC%82%AC.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Soon"
 lastUpdated: "2026-02-21"

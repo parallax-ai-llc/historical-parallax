@@ -5,7 +5,7 @@ birth: "2022-11-18"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Elizabeth_Holmes_2014_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Holmes_Sentencing"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1939-12-18"
 death: "Unknown"
 nationality: "American"
 occupation: ["Virologist", "Cancer Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/National_Cancer_Institute_director_Harold_E._Varmus_%283%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harold_Varmus"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1974-01-01"
 death: "Unknown"
 nationality: "Central African Republic"
 occupation: ["Militia Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hassan_Bouba.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hassan_Bouba"
 lastUpdated: "2026-02-26"

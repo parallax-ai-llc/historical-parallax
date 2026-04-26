@@ -5,7 +5,7 @@ birth: "1896-09-22"
 death: "1993-07-11"
 nationality: "Russian-British"
 occupation: ["Monk", "Author", "Icon Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Eldersophrony.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elder_Sophrony"
 lastUpdated: "2026-02-21"

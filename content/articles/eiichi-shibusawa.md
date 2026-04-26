@@ -5,7 +5,7 @@ birth: "1840-03-16"
 death: "1931-11-11"
 nationality: "Japanese"
 occupation: ["Industrialist", "Engineer", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Portrait_of_Shibusawa_Eiichi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eiichi_Shibusawa"
 lastUpdated: "2026-02-21"

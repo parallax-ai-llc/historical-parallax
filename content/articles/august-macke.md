@@ -5,7 +5,7 @@ birth: "1887-01-03"
 death: "1914-09-26"
 nationality: "German"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/August_Macke_042.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/August_Macke"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1953-08-15"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/John_Mackey_%2853859179447%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Mackey"
 lastUpdated: "2026-02-21"

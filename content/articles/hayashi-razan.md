@@ -5,7 +5,7 @@ birth: "1583-01-01"
 death: "1657-03-07"
 nationality: "Japanese"
 occupation: ["Philosopher", "Advisor", "Confucian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/%E6%9E%97%E7%BE%85%E5%B1%B1_%E5%83%8F.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hayashi_Razan"
 lastUpdated: "2026-02-21"

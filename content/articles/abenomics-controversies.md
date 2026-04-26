@@ -5,7 +5,7 @@ birth: "2012-12-26"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Political Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shinz%C5%8D_Abe_20120501.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abenomics_Controversies"
 lastUpdated: "2026-02-26"

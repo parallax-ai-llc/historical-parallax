@@ -5,7 +5,7 @@ birth: "1969-01-01"
 death: "2012-02-18"
 nationality: "Algeria"
 occupation: ["Terrorist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Coptic_cross.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Habib_Ghali"
 lastUpdated: "2026-02-26"

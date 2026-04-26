@@ -5,7 +5,7 @@ birth: "1930-01-01"
 death: "2015-09-22"
 nationality: "Indian"
 occupation: ["Guru", "Political Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Portrait_of_two_Udasi_mendicants_of_Sikhism_in_Delhi%2C_Shepherd_%26_Robertson_%28possibly%29%2C_ca.1859%E2%80%9369.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chandra_Swami_Udasin"
 lastUpdated: "2026-02-21"

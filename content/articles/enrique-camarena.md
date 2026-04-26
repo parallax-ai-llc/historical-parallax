@@ -5,7 +5,7 @@ birth: "1947-07-26"
 death: "1985-02-09"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Enrique-camarena1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enrique_Camarena"
 lastUpdated: "2026-02-26"

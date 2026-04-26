@@ -5,7 +5,7 @@ birth: "2010-07-11"
 death: "Unknown"
 nationality: "Uganda"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/July_2010_Kampala_attacks.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2010_Kampala_Bombings"
 lastUpdated: "2026-02-26"

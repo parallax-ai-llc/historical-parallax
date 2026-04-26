@@ -5,7 +5,7 @@ birth: "1981-04-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Actress"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jessica_Alba"
 lastUpdated: "2026-02-21"

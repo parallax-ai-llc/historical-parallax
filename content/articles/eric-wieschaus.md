@@ -5,7 +5,7 @@ birth: "1947-06-08"
 death: "Unknown"
 nationality: "American"
 occupation: ["Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Wieschaus_ecal2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Wieschaus"
 lastUpdated: "2026-02-21"

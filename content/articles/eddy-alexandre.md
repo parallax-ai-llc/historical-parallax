@@ -5,7 +5,7 @@ birth: "1985-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/One_Pickwick_Plaza.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eddy_Alexandre"
 lastUpdated: "2026-02-26"

@@ -4,6 +4,7 @@ birth: "1906-03-16"
 death: "1998-02-24"
 nationality: "British-American"
 occupation: ["Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Henny_Youngman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henny_Youngman"
 lastUpdated: "2026-03-12"

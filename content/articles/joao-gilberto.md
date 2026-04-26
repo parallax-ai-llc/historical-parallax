@@ -3,6 +3,7 @@ name: "João Gilberto"
 birth: "1931-06-10"
 nationality: "Brazilian"
 occupation: ["Singer", "Guitarist", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jo%C3%A3o_Gilberto.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jo%C3%A3o_Gilberto"
 lastUpdated: "2026-03-12"

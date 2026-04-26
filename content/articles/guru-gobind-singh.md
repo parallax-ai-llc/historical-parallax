@@ -5,7 +5,7 @@ birth: "1666-12-22"
 death: "1708-10-07"
 nationality: "Indian"
 occupation: ["Sikh Guru", "Warrior", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Painting_of_Guru_Gobind_Singh%2C_found_within_the_Anandpuri_Hazuri_Bir_codex_of_the_Dasam_Granth%2C_ca.1690%27s%E2%80%931700%27s_%28detail%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Gobind_Singh"
 lastUpdated: "2026-02-21"

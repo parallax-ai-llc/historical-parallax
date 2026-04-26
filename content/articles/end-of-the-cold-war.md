@@ -5,7 +5,7 @@ birth: "1991-12-26"
 death: "1991-12-26"
 nationality: "Global"
 occupation: ["Historical Event", "Political", "Cold War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/End_of_the_Cold_War"
 lastUpdated: "2026-02-21"

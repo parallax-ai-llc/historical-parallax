@@ -5,7 +5,7 @@ birth: "1987-12-17"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Chelsea_Manning_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chelsea_Manning"
 lastUpdated: "2026-02-26"

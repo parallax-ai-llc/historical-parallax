@@ -3,6 +3,7 @@ name: "Abhijit Banerjee"
 birth: "1961-02-21"
 nationality: "Indian-American"
 occupation: ["Economist", "Nobel Laureate"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Abhijit_Banerjee_at_the_2025_Jaipur_Literature_Festival.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abhijit_Banerjee"
 lastUpdated: "2026-03-17"

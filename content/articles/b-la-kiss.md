@@ -5,7 +5,7 @@ birth: "1877-01-01"
 death: "Unknown"
 nationality: "Hungary"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/B%C3%A9la_Kiss.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/B%C3%A9la_Kiss"
 lastUpdated: "2026-02-26"

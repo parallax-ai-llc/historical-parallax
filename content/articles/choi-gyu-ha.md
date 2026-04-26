@@ -5,7 +5,7 @@ birth: "1925-01-01"
 death: "2002-01-01"
 nationality: "Korean"
 occupation: ["Computer scientist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Presidents_of_the_Republic_Of_Korea_%284261836786%29_Choi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Gyu-ha"
 lastUpdated: "2026-02-21"

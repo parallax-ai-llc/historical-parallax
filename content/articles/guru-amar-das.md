@@ -5,7 +5,7 @@ birth: "1479-05-05"
 death: "1574-09-01"
 nationality: "Indian"
 occupation: ["Sikh Guru", "Social Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/18th_century_painting_of_Guru_Amar_Das.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Amar_Das"
 lastUpdated: "2026-02-21"

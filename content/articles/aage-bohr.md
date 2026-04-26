@@ -5,7 +5,7 @@ birth: "1922-06-19"
 death: "2009-09-08"
 nationality: "Danish"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aage_Bohr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aage_Bohr"
 lastUpdated: "2026-02-21"

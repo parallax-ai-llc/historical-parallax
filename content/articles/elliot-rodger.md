@@ -5,7 +5,7 @@ birth: "1991-07-24"
 death: "2014-05-23"
 nationality: "United States / United Kingdom"
 occupation: ["Mass Murderer", "Incel"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Vigil_for_Isla_Vista.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2014_Isla_Vista_killings"
 lastUpdated: "2026-02-26"

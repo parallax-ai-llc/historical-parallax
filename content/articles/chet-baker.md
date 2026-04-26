@@ -3,6 +3,7 @@ name: "Chet Baker"
 birth: "1929-12-23"
 nationality: "American"
 occupation: ["Musician", "Trumpeter", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Chet_Baker_%281955_portrait%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chet_Baker"
 lastUpdated: "2026-03-12"

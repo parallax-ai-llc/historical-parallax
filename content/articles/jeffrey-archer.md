@@ -5,7 +5,7 @@ birth: "1940-04-15"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Corrupt Politician", "Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jeffrey_Archer_20241127.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeffrey_Archer"
 lastUpdated: "2026-02-26"

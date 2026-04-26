@@ -5,7 +5,7 @@ birth: "1966-10-21"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Criminal Negligence"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aberfan_Disaster"
 lastUpdated: "2026-02-26"

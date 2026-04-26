@@ -5,7 +5,7 @@ birth: "1921-03-11"
 death: "1992-07-04"
 nationality: "Argentine"
 occupation: ["Composer", "Bandoneón Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Astor_Piazzolla.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Astor_Piazzolla"
 lastUpdated: "2026-02-21"

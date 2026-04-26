@@ -5,7 +5,7 @@ birth: "1946-05-23"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Abdullahi_Adamu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdullahi_Adamu"
 lastUpdated: "2026-02-26"

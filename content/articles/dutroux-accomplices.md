@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Kidnapping Accomplices"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pencil_sketch_of_Marc_Dutroux.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dutroux_accomplices"
 lastUpdated: "2026-02-26"

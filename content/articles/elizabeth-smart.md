@@ -5,7 +5,7 @@ birth: "1987-11-03"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Kidnapping Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/COD_Presents_An_Evening_with_Elizabeth_Smart_%2853280517841%29_%283x4a%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Smart"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1962-11-22"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Soprano", "Opera Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/151001_%EC%A1%B0%EC%88%98%EB%AF%B8_05.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jo_Sumi"
 lastUpdated: "2026-02-21"

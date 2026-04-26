@@ -5,7 +5,7 @@ birth: "1863-02-27"
 death: "1923-08-10"
 nationality: "Spanish"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Joaquin_Sorolla_by_Gertrude_K%C3%A4sebier%2C_1908.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joaquin_Sorolla"
 lastUpdated: "2026-02-21"

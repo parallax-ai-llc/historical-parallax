@@ -5,7 +5,7 @@ birth: "1934-12-03"
 death: "2021-09-11"
 nationality: "Peru"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Abimael_Guzm%C3%A1n_Sendero_Luminoso.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abimael_Guzm%C3%A1n"
 lastUpdated: "2026-02-26"

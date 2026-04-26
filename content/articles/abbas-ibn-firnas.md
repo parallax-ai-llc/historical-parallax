@@ -5,7 +5,7 @@ birth: "0810-01-01"
 death: "0887-01-01"
 nationality: "Andalusian"
 occupation: ["Inventor", "Aviator", "Polymath"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Armen_Firman_Abb%C3%A1s_Ibn_Firn%C3%A1s_%28MUNCYT%2C_Eulogia_Merle%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abbas_ibn_Firnas"
 lastUpdated: "2026-02-21"

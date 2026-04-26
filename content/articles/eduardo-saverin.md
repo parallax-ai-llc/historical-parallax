@@ -5,7 +5,7 @@ birth: "1982-03-19"
 death: "Unknown"
 nationality: "Brazilian-Singaporean"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Eduardo_Saverin_CHINICT.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eduardo_Saverin"
 lastUpdated: "2026-02-21"

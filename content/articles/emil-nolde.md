@@ -5,7 +5,7 @@ birth: "1867-08-07"
 death: "1956-04-13"
 nationality: "German"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/WP_Emil_Nolde.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emil_Nolde"
 lastUpdated: "2026-02-21"

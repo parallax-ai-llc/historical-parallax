@@ -4,6 +4,7 @@ birth: "1933-06-08"
 death: "2014-09-04"
 nationality: "American"
 occupation: ["Comedian", "Actress", "Television Host"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Joan_Rivers_1966_Press_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joan_Rivers"
 lastUpdated: "2026-03-12"

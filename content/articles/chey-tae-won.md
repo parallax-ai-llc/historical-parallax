@@ -5,7 +5,7 @@ birth: "1960-12-03"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Korea_Portuguese_Business_Forum_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chey_Tae-won"
 lastUpdated: "2026-02-21"

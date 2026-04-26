@@ -5,7 +5,7 @@ birth: "1656-07-07"
 death: "1664-03-30"
 nationality: "Indian"
 occupation: ["Sikh Guru"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Painting_depicting_Guru_Har_Krishan_holding_a_sword_whilst_being_accompanied_by_an_armed_Sikh_attendant_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Har_Krishan"
 lastUpdated: "2026-02-21"

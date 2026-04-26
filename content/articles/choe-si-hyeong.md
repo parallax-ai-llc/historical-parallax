@@ -5,7 +5,7 @@ birth: "1827-01-01"
 death: "1898-06-02"
 nationality: "Korean"
 occupation: ["Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Choe_Si-hyeong_Photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choe_Si-hyeong"
 lastUpdated: "2026-02-21"

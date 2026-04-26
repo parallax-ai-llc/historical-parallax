@@ -5,7 +5,7 @@ birth: "1920-01-01"
 death: "1992-01-01"
 nationality: "Iranian"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Seyyed_Abdul_Javad_Alamhuda_Khorasani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdol_Hossein_Haeri"
 lastUpdated: "2026-02-26"

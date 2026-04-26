@@ -5,7 +5,7 @@ birth: "1944-12-06"
 death: "Unknown"
 nationality: "Israeli"
 occupation: ["Entrepreneur", "Film Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Arnon_Milchan_%28990040376210205171%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnon_Milchan"
 lastUpdated: "2026-02-21"

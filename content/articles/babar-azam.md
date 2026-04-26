@@ -3,6 +3,7 @@ name: "Babar Azam"
 birth: "1994-10-15"
 nationality: "Pakistani"
 occupation: ["Cricketer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Babar_azam_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Babar_Azam"
 lastUpdated: "2026-03-12"

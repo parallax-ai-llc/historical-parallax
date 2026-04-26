@@ -5,7 +5,7 @@ birth: "1898-05-14"
 death: "1997-11-25"
 nationality: "Malawi"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Dr_HK_Banda%2C_first_president_of_Malawi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hastings_Banda"
 lastUpdated: "2026-02-26"

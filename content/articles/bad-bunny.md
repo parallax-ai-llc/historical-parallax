@@ -5,7 +5,7 @@ birth: "1994-03-10"
 death: "Unknown"
 nationality: "Puerto Rican"
 occupation: ["Singer", "Rapper", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bad_Bunny"
 lastUpdated: "2026-02-21"

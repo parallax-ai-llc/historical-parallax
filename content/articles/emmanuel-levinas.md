@@ -5,7 +5,7 @@ birth: "1906-01-12"
 death: "1995-12-25"
 nationality: "Lithuanian-French Jewish"
 occupation: ["Philosopher", "Talmudist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Emmanuel_Levinas.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emmanuel_Levinas"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1925-10-19"
 death: "2010-11-08"
 nationality: "Argentina"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/EmilioMassera1975.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emilio_Eduardo_Massera"
 lastUpdated: "2026-02-26"

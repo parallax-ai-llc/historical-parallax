@@ -5,7 +5,7 @@ birth: "1941-12-08"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Duke_Cunningham%2C_1992.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Duke_Cunningham"
 lastUpdated: "2026-02-26"

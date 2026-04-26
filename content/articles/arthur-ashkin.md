@@ -5,7 +5,7 @@ birth: "1922-09-02"
 death: "2020-09-21"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Arthur_Ashkin_EM1B5678_%2844417135450%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Ashkin"
 lastUpdated: "2026-02-26"

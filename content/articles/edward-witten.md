@@ -5,7 +5,7 @@ birth: "1951-08-26"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Edward_Witten.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Witten"
 lastUpdated: "2026-02-21"

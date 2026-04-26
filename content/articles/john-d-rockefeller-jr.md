@@ -5,7 +5,7 @@ birth: "1874-01-29"
 death: "1960-05-11"
 nationality: "American"
 occupation: ["Philanthropist", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/John_D._Rockefeller_Jr._cph.3a03736_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_D._Rockefeller_Jr."
 lastUpdated: "2026-02-21"

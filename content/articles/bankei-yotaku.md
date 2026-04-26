@@ -5,7 +5,7 @@ birth: "1622-04-18"
 death: "1693-10-02"
 nationality: "Japanese"
 occupation: ["Zen Master"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/BankeiYotaku.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bankei_Yotaku"
 lastUpdated: "2026-02-21"

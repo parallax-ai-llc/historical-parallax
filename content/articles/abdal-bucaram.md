@@ -5,7 +5,7 @@ birth: "1952-02-20"
 death: "Unknown"
 nationality: "Ecuador"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Abdal%C3%A1_Bucaram_retrato_oficial_1996.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdal%C3%A1_Bucaram"
 lastUpdated: "2026-02-26"

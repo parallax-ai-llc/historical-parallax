@@ -5,7 +5,7 @@ birth: "2005-11-19"
 death: "Unknown"
 nationality: "Iraq"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Haditha_massacre_%28Ahmed_Fanar_Muslih%2C_Wajdi_Ayad_Abdulhussein%2C_Akram_Hameed_Fleh%2C_Khalid_Ayad_Abdulhussein%2C_and_Mohammed_Battal_Ahmed%29.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Haditha_Massacre"
 lastUpdated: "2026-02-26"

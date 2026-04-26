@@ -3,6 +3,7 @@ name: "Harry Styles"
 birth: "1994-02-01"
 nationality: "British"
 occupation: ["Singer", "Actor", "Fashion Icon"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harry_Styles"
 lastUpdated: "2026-03-12"

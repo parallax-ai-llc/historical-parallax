@@ -5,7 +5,7 @@ birth: "1906-10-14"
 death: "1949-02-12"
 nationality: "Egyptian"
 occupation: ["Teacher", "Activist", "Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hassan_al-Banna.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hasan_al-Banna"
 lastUpdated: "2026-02-21"

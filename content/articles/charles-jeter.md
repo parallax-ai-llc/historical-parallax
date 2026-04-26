@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/CJeter.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Jeter"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1877-06-07"
 death: "1944-10-23"
 nationality: "British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Charles_Glover_Barkla_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Glover_Barkla"
 lastUpdated: "2026-02-26"

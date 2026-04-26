@@ -5,7 +5,7 @@ birth: "1635-01-01"
 death: "1688-08-25"
 nationality: "Wales"
 occupation: ["Pirate", "Privateer", "Governor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Morgan%2CHenry.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Morgan"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1935-09-12"
 death: "Unknown"
 nationality: "American"
 occupation: ["Virologist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harvey_Alter"
 lastUpdated: "2026-02-21"

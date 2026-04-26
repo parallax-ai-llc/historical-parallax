@@ -5,7 +5,7 @@ birth: "1973-03-22"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Businessman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Joesley_Batista_presta_depoimento_na_Pol%C3%ADcia_Federal_em_SP_4_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joesley_Batista"
 lastUpdated: "2026-02-26"

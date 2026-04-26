@@ -5,7 +5,7 @@ birth: "1926-03-25"
 death: "2012-08-28"
 nationality: "Swedish"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Rausing256_148782a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Rausing"
 lastUpdated: "2026-02-21"

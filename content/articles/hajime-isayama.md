@@ -3,6 +3,7 @@ name: "Hajime Isayama"
 birth: "1986-08-29"
 nationality: "Japanese"
 occupation: ["Manga Artist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/FIBD2023HajimeIsayama_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hajime_Isayama"
 lastUpdated: "2026-03-12"

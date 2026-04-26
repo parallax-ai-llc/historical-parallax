@@ -5,7 +5,7 @@ birth: "0002-01-01"
 death: "0083-01-01"
 nationality: "Indian"
 occupation: ["Jain Philosopher", "Monk"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acharya_KundaKunda.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Acharya_Kundakunda"
 lastUpdated: "2026-02-21"

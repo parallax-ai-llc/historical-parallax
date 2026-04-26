@@ -5,7 +5,7 @@ birth: "1957-06-29"
 death: "Unknown"
 nationality: "Turkmenistan"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/%D0%93%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%B3%D1%83%D0%BB%D1%8B_%D0%91%D0%B5%D1%80%D0%B4%D1%8B%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2_-_02_%2827-09-2025%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1935-11-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Charles_Koch_portrait_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Koch"
 lastUpdated: "2026-02-21"

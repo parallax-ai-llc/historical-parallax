@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Muhammadu_Buhari%2C_President_of_the_Federal_Republic_of_Nigeria_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdulrasheed_Maina"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1593-07-08"
 death: "1656-01-01"
 nationality: "Italian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
 lastUpdated: "2026-02-21"

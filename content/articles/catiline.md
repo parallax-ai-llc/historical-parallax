@@ -5,7 +5,7 @@ birth: "-0108-01-01"
 death: "-0062-01-01"
 nationality: "Roman Republic"
 occupation: ["Historical Criminal", "Conspirator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_detail_of_Catilina.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Catiline"
 lastUpdated: "2026-02-26"

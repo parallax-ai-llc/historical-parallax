@@ -5,7 +5,7 @@ birth: "1991-02-21"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/NC_Courage_vs_Seattle_Reign_%28Apr_2024%29_072_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ji_So-yun"
 lastUpdated: "2026-02-26"

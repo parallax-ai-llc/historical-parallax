@@ -3,6 +3,7 @@ name: "Aurélien Tchouaméni"
 birth: "2000-01-27"
 nationality: "French"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/2025_04_26_Final_de_la_Copa_del_Rey_-_Aur%C3%A9lien_Tchouam%C3%A9ni.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni"
 lastUpdated: "2026-03-12"

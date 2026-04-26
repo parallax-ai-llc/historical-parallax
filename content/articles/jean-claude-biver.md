@@ -5,7 +5,7 @@ birth: "1949-09-20"
 death: "Unknown"
 nationality: "Luxembourgish-Swiss"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Claude_Biver_-_World_Economic_Forum_Annual_Meeting_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Claude_Biver"
 lastUpdated: "2026-02-21"

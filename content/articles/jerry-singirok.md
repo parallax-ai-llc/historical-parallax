@@ -5,7 +5,7 @@ birth: "1957-08-20"
 death: "Unknown"
 nationality: "Papua New Guinea"
 occupation: ["Military Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Jerry_Singirok_for_Red_Cross_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerry_Singirok"
 lastUpdated: "2026-02-26"

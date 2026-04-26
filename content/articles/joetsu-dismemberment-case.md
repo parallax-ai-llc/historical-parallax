@@ -5,7 +5,7 @@ birth: "2022-01-01"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Ensign_of_the_Japanese_National_Railways.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joetsu_Dismemberment_Case"
 lastUpdated: "2026-02-26"

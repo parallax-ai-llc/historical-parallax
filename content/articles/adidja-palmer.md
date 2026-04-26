@@ -5,7 +5,7 @@ birth: "1976-01-07"
 death: "Unknown"
 nationality: "Jamaica"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Vybz_Kartel_at_Freedom_Street_concert.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adidja_Palmer"
 lastUpdated: "2026-02-26"

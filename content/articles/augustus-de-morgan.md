@@ -5,7 +5,7 @@ birth: "1806-06-27"
 death: "1871-03-18"
 nationality: "British-Indian"
 occupation: ["Mathematician", "Logician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/De_Morgan_Augustus.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augustus_De_Morgan"
 lastUpdated: "2026-02-21"

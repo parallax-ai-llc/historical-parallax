@@ -5,7 +5,7 @@ birth: "2005-07-07"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Russell_square_ambulances.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2005_London_Bombings"
 lastUpdated: "2026-02-26"

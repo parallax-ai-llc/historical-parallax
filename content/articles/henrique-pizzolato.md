@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Pizzolato119436.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henrique_Pizzolato"
 lastUpdated: "2026-02-26"

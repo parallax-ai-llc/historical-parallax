@@ -5,7 +5,7 @@ birth: "1775-01-01"
 death: "1844-01-01"
 nationality: "China"
 occupation: ["Pirate", "Pirate Queen"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/%E9%84%AD%E4%B8%80%E5%AB%82.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ching_Shih"
 lastUpdated: "2026-02-21"

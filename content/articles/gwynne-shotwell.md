@@ -5,7 +5,7 @@ birth: "1963-11-23"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Gwynne_Shotwell_at_2018_Commercial_Crew_announcement.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gwynne_Shotwell"
 lastUpdated: "2026-02-21"

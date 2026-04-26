@@ -5,7 +5,7 @@ birth: "1961-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Systemic Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/%E6%99%AF%E7%A6%8F%E5%AE%AE%2C_%E9%A6%96%E7%88%BE%2C_%E6%BC%A2%E5%9F%8E%2C_%E9%9F%93%E5%9C%8B%2C_%E5%8D%97%E9%9F%93%2C_%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B%2C_Gyeongbokgung%2C_Gyeongbokgung_Palace%2C_Gyeongbok_Palace%2C_Seoul%2C_South_Korea%2C_Republic_of_Korea%2C_ROK%2C_Daehan_Minguk%2C_%EA%B2%BD%EB%B3%B5%EA%B6%81%2C_%EC%84%9C%EC%9A%B8%2C_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%2844835510355%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chaebol_Corruption"
 lastUpdated: "2026-02-26"

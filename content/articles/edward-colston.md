@@ -5,7 +5,7 @@ birth: "1636-11-02"
 death: "1721-10-11"
 nationality: "England"
 occupation: ["Slave Trader", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Jonathan_Richardson_-_Portrait_of_Edward_Colston.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Colston"
 lastUpdated: "2026-02-21"

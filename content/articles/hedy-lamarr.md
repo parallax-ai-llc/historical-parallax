@@ -5,7 +5,7 @@ birth: "1914-11-09"
 death: "2000-01-19"
 nationality: "Austrian-American"
 occupation: ["Inventor", "Actress"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hedy_Lamarr"
 lastUpdated: "2026-02-21"

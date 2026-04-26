@@ -5,7 +5,7 @@ birth: "1992-06-28"
 death: "Unknown"
 nationality: "Jamaican"
 occupation: ["Athlete", "Olympic Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Elaine_Thompson_Herah_at_the_2019_Pan_American_Games.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elaine_Thompson-Herah"
 lastUpdated: "2026-02-26"

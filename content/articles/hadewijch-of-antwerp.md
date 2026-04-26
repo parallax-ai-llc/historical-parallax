@@ -5,7 +5,7 @@ birth: "1200-01-01"
 death: "1260-01-01"
 nationality: "Flemish"
 occupation: ["Mystic", "Poet", "Beguine"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hadewijch_gedicht1_HsGent_f49r.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hadewijch_of_Antwerp"
 lastUpdated: "2026-02-21"

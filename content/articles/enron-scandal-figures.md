@@ -5,7 +5,7 @@ birth: "1942-01-01"
 death: "2006-01-01"
 nationality: "United States"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Houston%2C_Texas_%282024%29_-_09.jpg"
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"

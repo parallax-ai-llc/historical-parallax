@@ -3,6 +3,7 @@ name: "Eddie Murphy"
 birth: "1961-04-03"
 nationality: "American"
 occupation: ["Comedian", "Actor", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eddie_Murphy_by_David_Shankbone.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eddie_Murphy"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1960-08-31"
 death: "2024-09-27"
 nationality: "Lebanon"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Sayyid_Hassan_Nasrallah_2019_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hassan_Nasrallah"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1563-04-15"
 death: "1606-05-30"
 nationality: "Indian"
 occupation: ["Sikh Guru", "Martyr", "Compiler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Guru_Arjan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guru_Arjan"
 lastUpdated: "2026-02-21"

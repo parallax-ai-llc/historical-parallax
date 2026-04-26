@@ -5,7 +5,7 @@ birth: "1984-02-03"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Elizabeth_Holmes_2014_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Theranos_Holmes"
 lastUpdated: "2026-02-26"

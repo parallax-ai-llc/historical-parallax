@@ -5,7 +5,7 @@ birth: "1400-01-01"
 death: "1468-02-03"
 nationality: "German"
 occupation: ["Inventor", "Printer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
 lastUpdated: "2026-02-21"

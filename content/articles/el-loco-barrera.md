@@ -5,7 +5,7 @@ birth: "1966-09-02"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Daniel_Barrera_Barrera_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Loco_Barrera"
 lastUpdated: "2026-02-26"

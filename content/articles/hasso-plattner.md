@@ -5,7 +5,7 @@ birth: "1944-01-21"
 death: "Unknown"
 nationality: "German"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hasso_Plattner.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hasso_Plattner"
 lastUpdated: "2026-02-21"

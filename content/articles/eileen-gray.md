@@ -5,7 +5,7 @@ birth: "1878-08-09"
 death: "1976-10-31"
 nationality: "Irish-French"
 occupation: ["Designer", "Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Eileen_Gray.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eileen_Gray"
 lastUpdated: "2026-02-21"

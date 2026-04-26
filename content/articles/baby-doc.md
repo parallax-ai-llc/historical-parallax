@@ -5,7 +5,7 @@ birth: "1951-07-03"
 death: "2014-10-04"
 nationality: "Haiti"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Baby_Doc_%28centr%C3%A9e%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baby_Doc"
 lastUpdated: "2026-02-26"

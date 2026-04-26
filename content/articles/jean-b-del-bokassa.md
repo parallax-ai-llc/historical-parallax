@@ -5,7 +5,7 @@ birth: "1921-02-22"
 death: "1996-11-03"
 nationality: "Central African Republic"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bokassa_with_Ceausescu_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-B%C3%A9del_Bokassa"
 lastUpdated: "2026-02-21"

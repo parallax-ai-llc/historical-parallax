@@ -5,7 +5,7 @@ birth: "1953-09-26"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Professor_Chunli_Bai_ForMemRS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bai_Chunli"
 lastUpdated: "2026-02-26"

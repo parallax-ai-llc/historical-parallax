@@ -5,7 +5,7 @@ birth: "1968-06-20"
 death: "Unknown"
 nationality: "United States"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/CharlesGraner2003.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Graner"
 lastUpdated: "2026-02-26"

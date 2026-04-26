@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/LGBT_in_Chechnya.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chechnya_Human_Rights_Abuses"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1861-12-08"
 death: "1944-09-27"
 nationality: "French"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Maillol1925.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aristide_Maillol"
 lastUpdated: "2026-02-21"

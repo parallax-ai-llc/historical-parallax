@@ -5,7 +5,7 @@ birth: "1981-01-01"
 death: "1983-01-01"
 nationality: "Guatemala"
 occupation: ["Genocide"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Exhumation_in_San_Juan_Comalapa_Guatemala_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guatemala_Genocide"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1173-04-01"
 death: "1266-01-01"
 nationality: "Indian"
 occupation: ["Sufi Saint", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Painting_of_Sheikh_Fareed_Shakarganj%2C_ca.1823%E2%80%9324_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baba_Farid"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1917-11-02"
 death: "1917-11-02"
 nationality: "United Kingdom"
 occupation: ["Historical Event", "Treaty", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Balfour_declaration_unmarked.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Balfour_Declaration"
 lastUpdated: "2026-02-21"

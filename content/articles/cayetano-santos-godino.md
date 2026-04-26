@@ -5,7 +5,7 @@ birth: "1896-10-31"
 death: "1944-11-15"
 nationality: "Argentina"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/CayetanoSGodino1912.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cayetano_Santos_Godino"
 lastUpdated: "2026-02-26"

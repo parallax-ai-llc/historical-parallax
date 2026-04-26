@@ -5,7 +5,7 @@ birth: "1853-07-05"
 death: "1902-03-26"
 nationality: "United Kingdom"
 occupation: ["War Criminal", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Cecil_John_Rhodes_%28Cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cecil_Rhodes"
 lastUpdated: "2026-02-26"

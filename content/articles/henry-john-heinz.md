@@ -5,7 +5,7 @@ birth: "1844-10-11"
 death: "1919-05-14"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Henry_John_Heinz_by_the_Pach_Brothers_Studio%2C_c._1914%2C_gelatin_silver_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_93_388_14.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_John_Heinz"
 lastUpdated: "2026-02-21"

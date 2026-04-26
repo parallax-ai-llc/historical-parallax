@@ -5,7 +5,7 @@ birth: "1959-01-20"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Atul_Dodiya.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atul_Dodiya"
 lastUpdated: "2026-02-21"

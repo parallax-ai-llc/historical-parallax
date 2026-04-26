@@ -5,7 +5,7 @@ birth: "1934-11-12"
 death: "2017-11-19"
 nationality: "United States"
 occupation: ["Cult Leader", "Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Manson1968.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Manson"
 lastUpdated: "2026-02-21"

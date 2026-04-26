@@ -5,7 +5,7 @@ birth: "1821-08-16"
 death: "1895-01-26"
 nationality: "British"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Arthur_Cayley.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Cayley"
 lastUpdated: "2026-02-21"

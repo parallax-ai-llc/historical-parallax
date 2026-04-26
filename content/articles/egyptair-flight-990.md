@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Egypt"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/SU-GAP_No._1_engine_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/EgyptAir_Flight_990"
 lastUpdated: "2026-02-26"

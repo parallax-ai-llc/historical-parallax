@@ -5,7 +5,7 @@ birth: "2003-10-01"
 death: "2004-04-28"
 nationality: "Iraq"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/AbuGhraibAbuse-standing-on-box.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Ghraib_Prisoner_Abuse"
 lastUpdated: "2026-02-26"

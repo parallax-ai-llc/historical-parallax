@@ -5,7 +5,7 @@ birth: "1989-07-03"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Booking_photo_of_Joaquin_%E2%80%9CEl_Chapo%E2%80%9C_Guzman_%28front%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Chapo's_Wife"
 lastUpdated: "2026-02-26"

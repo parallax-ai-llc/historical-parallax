@@ -5,7 +5,7 @@ birth: "1972-08-29"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Actor", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bae_Yong_Joon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bae_Yong-joon"
 lastUpdated: "2026-02-21"

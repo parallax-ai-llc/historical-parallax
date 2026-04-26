@@ -5,7 +5,7 @@ birth: "1992-04-29"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/LA_Riots_-_aftermath_%28159598182%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1992_Los_Angeles_Riots"
 lastUpdated: "2026-02-26"

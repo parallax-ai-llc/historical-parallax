@@ -4,6 +4,7 @@ birth: "1926-11-07"
 death: "2010-10-10"
 nationality: "Australian"
 occupation: ["Opera Singer", "Soprano"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Dame_Joan_Sutherland%2C_by_Allan_Warren.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joan_Sutherland"
 lastUpdated: "2026-03-12"

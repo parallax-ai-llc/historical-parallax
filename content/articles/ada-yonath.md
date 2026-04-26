@@ -5,7 +5,7 @@ birth: "1939-06-22"
 death: "Unknown"
 nationality: "Israeli"
 occupation: ["Chemist", "Crystallographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ada_Yonath_2013_January_CHF.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ada_Yonath"
 lastUpdated: "2026-02-26"

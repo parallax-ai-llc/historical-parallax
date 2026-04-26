@@ -5,7 +5,7 @@ birth: "1920-11-23"
 death: "2020-07-10"
 nationality: "Korean"
 occupation: ["Military leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Generak_Baek_Seon-yeop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baek_Seon-yeop"
 lastUpdated: "2026-02-21"

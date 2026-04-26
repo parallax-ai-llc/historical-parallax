@@ -5,7 +5,7 @@ birth: "1983-07-19"
 death: "Unknown"
 nationality: "Uzbekistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Reina_restaurant_Istanbul.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdulkadir_Masharipov"
 lastUpdated: "2026-02-26"

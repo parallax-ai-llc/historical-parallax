@@ -5,7 +5,7 @@ birth: "1814-10-04"
 death: "1875-01-20"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Jean-Fran%C3%A7ois_Millet_by_Nadar%2C_Metropolitan_Museum_copy.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Francois_Millet"
 lastUpdated: "2026-02-21"

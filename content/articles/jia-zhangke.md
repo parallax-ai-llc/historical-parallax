@@ -5,7 +5,7 @@ birth: "1970-05-24"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Film Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jia_Zhangke_20081105.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jia_Zhangke"
 lastUpdated: "2026-02-21"

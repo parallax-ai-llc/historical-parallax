@@ -5,7 +5,7 @@ birth: "1788-05-10"
 death: "1827-07-14"
 nationality: "French"
 occupation: ["Physicist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Augustin_Fresnel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augustin_Fresnel"
 lastUpdated: "2026-02-21"

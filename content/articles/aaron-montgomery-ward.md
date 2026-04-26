@@ -5,7 +5,7 @@ birth: "1843-02-17"
 death: "1913-12-07"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/A._Montgomery_Ward.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aaron_Montgomery_Ward"
 lastUpdated: "2026-02-21"

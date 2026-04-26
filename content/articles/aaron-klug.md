@@ -5,7 +5,7 @@ birth: "1926-08-11"
 death: "2018-11-20"
 nationality: "Lithuanian-British"
 occupation: ["Chemist", "Biophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Aaron_Klug_1979.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aaron_Klug"
 lastUpdated: "2026-02-21"

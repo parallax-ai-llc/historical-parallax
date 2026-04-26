@@ -5,7 +5,7 @@ birth: "1723-06-20"
 death: "1816-02-22"
 nationality: "Scottish"
 occupation: ["Philosopher", "Historian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/ProfAdamFerguson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adam_Ferguson"
 lastUpdated: "2026-03-17"

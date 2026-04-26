@@ -5,7 +5,7 @@ birth: "1397-08-05"
 death: "1474-11-27"
 nationality: "Franco-Flemish"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/DufayBinchois.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guillaume_Dufay"
 lastUpdated: "2026-02-21"

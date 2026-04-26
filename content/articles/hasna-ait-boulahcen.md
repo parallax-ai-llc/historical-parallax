@@ -5,7 +5,7 @@ birth: "1989-08-11"
 death: "2015-11-18"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Police_-_rue_de_la_R%C3%A9publique_Saint-Denis_-_18_nov_2015_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hasna_Ait_Boulahcen"
 lastUpdated: "2026-02-26"

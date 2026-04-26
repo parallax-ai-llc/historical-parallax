@@ -5,7 +5,7 @@ birth: "1945-03-28"
 death: "Unknown"
 nationality: "Philippines"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/President_Rodrigo_Duterte_portrait_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Duterte"
 lastUpdated: "2026-02-26"

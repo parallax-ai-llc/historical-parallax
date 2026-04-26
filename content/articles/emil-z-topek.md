@@ -5,7 +5,7 @@ birth: "1922-09-19"
 death: "2000-11-21"
 nationality: "Czech"
 occupation: ["Athlete", "Olympic Champion", "Long-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Fotothek_df_roe-neg_0006305_003_Emil_Z%C3%A1topek-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emil_Z%C3%A1topek"
 lastUpdated: "2026-02-26"

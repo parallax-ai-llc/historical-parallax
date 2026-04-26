@@ -5,7 +5,7 @@ birth: "1938-04-25"
 death: "2024-05-10"
 nationality: "American"
 occupation: ["Mathematician", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jim_Simons_at_MSRI.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jim_Simons"
 lastUpdated: "2026-02-21"

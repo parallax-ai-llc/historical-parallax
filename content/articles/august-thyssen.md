@@ -5,7 +5,7 @@ birth: "1842-05-17"
 death: "1926-04-04"
 nationality: "German"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/August_Thyssen%2C_Captain-General_of_German_industry.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/August_Thyssen"
 lastUpdated: "2026-02-21"

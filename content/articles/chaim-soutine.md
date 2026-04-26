@@ -5,7 +5,7 @@ birth: "1893-01-13"
 death: "1943-08-09"
 nationality: "Lithuanian-French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Signature_of_Chaim_Soutine.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chaim_Soutine"
 lastUpdated: "2026-02-21"

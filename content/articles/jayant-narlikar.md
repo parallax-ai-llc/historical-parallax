@@ -5,7 +5,7 @@ birth: "1938-07-19"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Astrophysicist", "Cosmologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jayant_Vishnu_Narlikar_-_Kolkata_2007-03-20_07341.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jayant_Narlikar"
 lastUpdated: "2026-02-21"

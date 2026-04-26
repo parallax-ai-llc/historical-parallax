@@ -5,7 +5,7 @@ birth: "1950-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Immunologist", "Vaccine researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/19660529%E5%B4%94%E9%8A%80%E5%A7%AC.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_In-hee"
 lastUpdated: "2026-02-21"

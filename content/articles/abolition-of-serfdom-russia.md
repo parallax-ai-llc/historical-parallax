@@ -5,7 +5,7 @@ birth: "1861-03-03"
 death: "1861-03-03"
 nationality: "Russia"
 occupation: ["Historical Event", "Social Movement", "Reform"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/S._V._Ivanov._Yuri%27s_Day._%281908%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abolition_of_Serfdom_Russia"
 lastUpdated: "2026-02-21"

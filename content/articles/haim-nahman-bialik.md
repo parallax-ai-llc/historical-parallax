@@ -5,7 +5,7 @@ birth: "1873-01-09"
 death: "1934-07-04"
 nationality: "Ukrainian-Israeli Jewish"
 occupation: ["Poet", "Author", "Editor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Hayyim_Nahman_Bialik_1923.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Haim_Nahman_Bialik"
 lastUpdated: "2026-02-21"

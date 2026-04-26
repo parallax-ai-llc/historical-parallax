@@ -5,7 +5,7 @@ birth: "1984-01-01"
 death: "N/A (Fugitive)"
 nationality: "United States / Mexico"
 occupation: ["Fugitive", "Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Arnoldo_Jimenez_%28cropped%29.png"
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1954-11-19"
 death: "Unknown"
 nationality: "Egypt"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/AbdelFattah_Elsisi_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdel_Fattah_al-Sisi"
 lastUpdated: "2026-02-26"

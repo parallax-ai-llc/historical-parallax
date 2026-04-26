@@ -5,7 +5,7 @@ birth: "1984-12-02"
 death: "Unknown"
 nationality: "India"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Union_Carbide_pesticide_factory%2C_Bhopal%2C_India%2C_1985.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1984_Bhopal_Gas_Tragedy"
 lastUpdated: "2026-02-26"

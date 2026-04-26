@@ -5,7 +5,7 @@ birth: "1869-04-08"
 death: "1939-10-07"
 nationality: "American"
 occupation: ["Neurosurgeon", "Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Harvey_Williams_Cushing_1938b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harvey_Cushing"
 lastUpdated: "2026-02-21"

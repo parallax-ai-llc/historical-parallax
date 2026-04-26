@@ -5,7 +5,7 @@ birth: "1953-03-11"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Music Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/JimmyIovineMaryJBligeJan10_Cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jimmy_Iovine"
 lastUpdated: "2026-02-21"

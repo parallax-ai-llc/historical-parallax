@@ -5,7 +5,7 @@ birth: "1965-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Computational materials scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Choi_Min-sik.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Kang-min"
 lastUpdated: "2026-02-21"

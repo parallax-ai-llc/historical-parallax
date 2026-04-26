@@ -5,7 +5,7 @@ birth: "1924-10-21"
 death: "2013-09-16"
 nationality: "Malaysia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chin_Peng_%28portrait%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chin_Peng"
 lastUpdated: "2026-02-26"

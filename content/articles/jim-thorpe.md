@@ -5,7 +5,7 @@ birth: "1887-05-28"
 death: "1953-03-28"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Football Player", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Jim_Thorpe_1913b-cr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jim_Thorpe"
 lastUpdated: "2026-02-21"

@@ -6,7 +6,7 @@ location: "Fortaleza, Brazil"
 coordinates: [-38.54, -3.73]
 category: ["Crime", "Brazil"]
 outcome: "$70 million stolen from Central Bank vault"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/BCB.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Banco_Central_burglary_at_Fortaleza"
 lastUpdated: "2026-02-26"---

@@ -3,6 +3,7 @@ name: "Hanni (NewJeans)"
 birth: "2004-10-06"
 nationality: "Australian (Vietnamese descent)"
 occupation: ["Singer", "Dancer", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Hanni_OLENS_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanni_(singer)"
 lastUpdated: "2026-03-11"

@@ -5,7 +5,7 @@ birth: "1985-03-11"
 death: "Unknown"
 nationality: "Mongolian/Japanese"
 occupation: ["Athlete", "Sumo Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Hakuho_2012_January.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hakuho"
 lastUpdated: "2026-02-21"

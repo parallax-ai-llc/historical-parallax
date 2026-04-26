@@ -3,6 +3,7 @@ name: "Arteezy"
 birth: "1996-07-01"
 nationality: "Canadian (Uzbek-born)"
 occupation: ["Esports Player", "Dota 2 Pro", "Carry"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Arteezy_The_International_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arteezy"
 lastUpdated: "2026-03-11"

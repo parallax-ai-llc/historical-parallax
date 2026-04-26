@@ -5,7 +5,7 @@ birth: "1925-06-28"
 death: "1991-02-24"
 nationality: "Korean"
 occupation: ["Historian", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Chinese_meridians.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheon_Gwan-wu"
 lastUpdated: "2026-02-21"

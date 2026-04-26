@@ -5,7 +5,7 @@ birth: "1949-05-27"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Brewer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Jim_Koch_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jim_Koch"
 lastUpdated: "2026-02-21"

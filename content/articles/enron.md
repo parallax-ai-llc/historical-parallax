@@ -5,7 +5,7 @@ birth: "1985-01-01"
 death: "2001-12-02"
 nationality: "United States"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_de_Enron.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enron"
 lastUpdated: "2026-02-26"

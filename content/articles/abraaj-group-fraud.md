@@ -5,7 +5,7 @@ birth: "2018-02-01"
 death: "Unknown"
 nationality: "UAE"
 occupation: ["Financial Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/f2/Abraaj-logo.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abraaj_Group_Fraud"
 lastUpdated: "2026-02-26"

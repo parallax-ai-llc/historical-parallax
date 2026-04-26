@@ -5,7 +5,7 @@ birth: "1923-05-28"
 death: "2006-06-12"
 nationality: "Hungarian-Austrian"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gy%C3%B6rgy_Ligeti_%281984%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gyorgy_Ligeti"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1652-01-01"
 death: "1724-01-01"
 nationality: "Japanese"
 occupation: ["Inventor", "Artisan"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Itcho_Hanabusa%2C_The_Falling_Thunder_God.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hanabusa_Itcho"
 lastUpdated: "2026-02-21"

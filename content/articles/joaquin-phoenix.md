@@ -3,6 +3,7 @@ name: "Joaquin Phoenix"
 birth: "1974-10-28"
 nationality: "American"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Joaquin_Phoenix-64908_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joaquin_Phoenix"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1965-06-23"
 death: "Unknown"
 nationality: "Swedish"
 occupation: ["Entrepreneur", "Telecom Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Hans_Vestberg_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Vestberg"
 lastUpdated: "2026-02-21"

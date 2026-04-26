@@ -4,6 +4,7 @@ birth: "1883-06-05"
 death: "1946-04-21"
 nationality: "British"
 occupation: ["Economist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/John_Maynard_Keynes_%281929%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Maynard_Keynes"
 lastUpdated: "2026-03-12"

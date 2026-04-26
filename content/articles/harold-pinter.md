@@ -5,7 +5,7 @@ birth: "1930-10-10"
 death: "2008-12-24"
 nationality: "British"
 occupation: ["Playwright", "Screenwriter", "Director", "Actor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Harold_Pinter_1962.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Harold_Pinter"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1926-09-15"
 death: "Unknown"
 nationality: "French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Jean-Pierre_Serre_2003.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Pierre_Serre"
 lastUpdated: "2026-02-21"

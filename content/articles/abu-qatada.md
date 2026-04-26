@@ -5,7 +5,7 @@ birth: "1960-03-30"
 death: "Unknown"
 nationality: "Jordan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Abu_Qatada_and_escort_prior_to_take_off_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Qatada"
 lastUpdated: "2026-02-26"

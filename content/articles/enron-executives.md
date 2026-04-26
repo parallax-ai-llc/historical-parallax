@@ -5,7 +5,7 @@ birth: "1944-07-15"
 death: "2006-07-05"
 nationality: "United States"
 occupation: ["Con Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_de_Enron.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Enron_Executives"
 lastUpdated: "2026-02-26"

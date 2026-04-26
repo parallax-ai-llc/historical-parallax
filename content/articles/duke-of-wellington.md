@@ -4,6 +4,7 @@ birth: "1769-05-01"
 death: "1852-09-14"
 nationality: "British"
 occupation: ["Military Leader", "Field Marshal", "Prime Minister"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sir_Arthur_Wellesley%2C_1st_Duke_of_Wellington.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Duke_of_Wellington"
 lastUpdated: "2026-03-12"

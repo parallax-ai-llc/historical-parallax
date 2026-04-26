@@ -5,7 +5,7 @@ birth: "1602-05-02"
 death: "1680-11-28"
 nationality: "German"
 occupation: ["Jesuit Scholar", "Polymath"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Athanasius_Kircher_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Athanasius_Kircher"
 lastUpdated: "2026-02-21"

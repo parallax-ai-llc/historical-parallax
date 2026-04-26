@@ -5,7 +5,7 @@ birth: "2015-01-07"
 death: "Unknown"
 nationality: "France"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Charlie-Hebdo-2015-11.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charlie_Hebdo_Attack_2015"
 lastUpdated: "2026-02-26"

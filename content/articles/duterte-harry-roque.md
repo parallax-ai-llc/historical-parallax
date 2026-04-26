@@ -5,7 +5,7 @@ birth: "1966-10-09"
 death: "Unknown"
 nationality: "Philippines"
 occupation: ["Controversial Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Harry_Roque_in_2017_-_2017111-ph01-ALCAIN-1_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Duterte_Harry_Roque"
 lastUpdated: "2026-02-26"

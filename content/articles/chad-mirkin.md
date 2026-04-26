@@ -5,7 +5,7 @@ birth: "1963-11-23"
 death: "Unknown"
 nationality: "American"
 occupation: ["Chemist", "Nanotechnologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Chad_Mirkin_CHF-Heritage-Day-AIC-2016-004.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chad_Mirkin"
 lastUpdated: "2026-02-21"

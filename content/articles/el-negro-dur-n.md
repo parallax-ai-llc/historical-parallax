@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Smuggler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Cora_language.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Negro_Dur%C3%A1n"
 lastUpdated: "2026-02-26"

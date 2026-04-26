@@ -5,7 +5,7 @@ birth: "1984-11-05"
 death: "Unknown"
 nationality: "Kenyan"
 occupation: ["Athlete", "Olympic Champion", "Marathon Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Eliud_Kipchoge_in_Berlin_-_2015_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eliud_Kipchoge"
 lastUpdated: "2026-02-26"

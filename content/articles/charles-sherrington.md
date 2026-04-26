@@ -5,7 +5,7 @@ birth: "1857-11-27"
 death: "1952-03-04"
 nationality: "British"
 occupation: ["Neurophysiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Charles_Scott_Sherrington2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Sherrington"
 lastUpdated: "2026-02-21"

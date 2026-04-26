@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Malaysia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/%28139_of_160%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1MDB_Scandal"
 lastUpdated: "2026-02-26"

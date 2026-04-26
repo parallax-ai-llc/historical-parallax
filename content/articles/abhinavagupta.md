@@ -5,7 +5,7 @@ birth: "0950-01-01"
 death: "1016-01-01"
 nationality: "Indian"
 occupation: ["Philosopher", "Mystic", "Aesthetician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/SaivismFlag.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abhinavagupta"
 lastUpdated: "2026-02-21"

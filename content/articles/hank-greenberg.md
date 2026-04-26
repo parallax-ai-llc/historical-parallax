@@ -5,7 +5,7 @@ birth: "1925-05-04"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Insurance Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Hank_Greenberg_1946.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hank_Greenberg"
 lastUpdated: "2026-02-21"

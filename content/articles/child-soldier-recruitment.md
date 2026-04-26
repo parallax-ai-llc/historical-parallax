@@ -5,7 +5,7 @@ birth: "1990-01-01"
 death: "Unknown"
 nationality: "International"
 occupation: ["Ongoing Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Young_defender_of_Petrograd_1919.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Child_Soldier_Recruitment"
 lastUpdated: "2026-02-26"

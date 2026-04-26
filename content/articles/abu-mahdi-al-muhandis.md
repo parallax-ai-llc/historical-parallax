@@ -5,7 +5,7 @@ birth: "1954-07-01"
 death: "2020-01-03"
 nationality: "Iraq"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Abu_Mahdi_al-Muhandis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Mahdi_al-Muhandis"
 lastUpdated: "2026-02-26"

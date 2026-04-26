@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "India"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Sacrifici_d%27Ifig%C3%A8nia_%28Emp%C3%BAries%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chhattisgarh_beheading_killer"
 lastUpdated: "2026-02-26"

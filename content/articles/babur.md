@@ -4,6 +4,7 @@ birth: "1483-02-14"
 death: "1530-12-26"
 nationality: "Timurid"
 occupation: ["Military Leader", "Emperor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Babur"
 lastUpdated: "2026-03-12"

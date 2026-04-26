@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "Unknown"
 nationality: "Norway"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flateyjarbok_Haraldr_Halfdan_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Eirik_Olav"
 lastUpdated: "2026-02-26"

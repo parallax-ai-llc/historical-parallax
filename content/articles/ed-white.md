@@ -5,7 +5,7 @@ birth: "1930-11-14"
 death: "1967-01-27"
 nationality: "American"
 occupation: ["Astronaut", "Test Pilot"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Edward_White_1966_%284x5_cropped%29.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ed_White"
 lastUpdated: "2026-02-21"

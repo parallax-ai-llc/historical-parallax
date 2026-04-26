@@ -5,7 +5,7 @@ birth: "1905-05-28"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Mastermind"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sada_Abe_portrait.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abe_Sada"
 lastUpdated: "2026-02-26"

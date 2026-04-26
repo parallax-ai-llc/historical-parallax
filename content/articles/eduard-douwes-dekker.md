@@ -5,7 +5,7 @@ birth: "1820-03-02"
 death: "1887-02-19"
 nationality: "Netherlands"
 occupation: ["Whistleblower"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Portret_van_de_schrijver_Multatuli_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eduard_Douwes_Dekker"
 lastUpdated: "2026-02-26"

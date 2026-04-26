@@ -5,7 +5,7 @@ birth: "1940-11-20"
 death: "Unknown"
 nationality: "Israeli-American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/AW_TW_PS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arieh_Warshel"
 lastUpdated: "2026-02-26"

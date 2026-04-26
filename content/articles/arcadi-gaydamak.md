@@ -5,7 +5,7 @@ birth: "1952-10-08"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Arms Dealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Arcadi_Gaydamak.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arcadi_Gaydamak"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1941-12-30"
 death: "2010-01-25"
 nationality: "Iraq"
 occupation: ["War Criminal", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Detail_Ali_Hassan_al-Majid.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chemical_Ali"
 lastUpdated: "2026-02-26"

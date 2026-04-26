@@ -5,7 +5,7 @@ birth: "1900-05-04"
 death: "1960-04-11"
 nationality: "New Zealand-British"
 occupation: ["Plastic Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Archibald_Mcindoe_-_Consultant_in_Plastic_Surgery_to_the_Royal_Air_Force%2C_operating_at_the_Queen_Victoria_Plastic_and_Jaw_Injury_centre%2C_East_Grinstead_Art.IWMARTLD6001.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Archibald_McIndoe"
 lastUpdated: "2026-02-21"

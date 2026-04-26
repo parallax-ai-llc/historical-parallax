@@ -5,7 +5,7 @@ birth: "1783-01-01"
 death: "1822-01-01"
 nationality: "China"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/%E5%BC%B5%E4%BF%9D%E4%BB%94.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheung_Po_Tsai"
 lastUpdated: "2026-02-26"

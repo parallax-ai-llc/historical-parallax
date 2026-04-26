@@ -5,7 +5,7 @@ birth: "1966-06-04"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Mezzo-soprano", "Opera Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Cecilia_Bartoli_at_BOZAR_2007_Cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cecilia_Bartoli"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1430-01-01"
 death: "1494-08-11"
 nationality: "German-Flemish"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hans_Memling_-_Self-portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hans_Memling"
 lastUpdated: "2026-02-21"

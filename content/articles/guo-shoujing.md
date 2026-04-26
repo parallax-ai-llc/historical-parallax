@@ -5,7 +5,7 @@ birth: "1231-01-01"
 death: "1316-01-01"
 nationality: "Chinese"
 occupation: ["Astronomer", "Mathematician", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Guo_Shoujing-beijing.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guo_Shoujing"
 lastUpdated: "2026-02-21"

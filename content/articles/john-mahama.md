@@ -5,7 +5,7 @@ birth: "1958-11-29"
 death: "Unknown"
 nationality: "Ghana"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/John_Mahama_in_Yokohama_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Mahama"
 lastUpdated: "2026-02-26"

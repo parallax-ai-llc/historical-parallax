@@ -5,7 +5,7 @@ birth: "1949-04-18"
 death: "Unknown"
 nationality: "American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Charles_Fefferman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Fefferman"
 lastUpdated: "2026-02-21"

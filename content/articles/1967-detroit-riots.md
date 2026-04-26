@@ -5,7 +5,7 @@ birth: "1967-07-23"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Detroit_1967.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1967_Detroit_Riots"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1951-06-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Venture Capitalist", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/TechCrunch_SF_2013_SJP2372_%289727140956%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Doerr"
 lastUpdated: "2026-02-21"

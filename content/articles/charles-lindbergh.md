@@ -4,6 +4,7 @@ birth: "1902-02-04"
 death: "1974-08-26"
 nationality: "American"
 occupation: ["Aviator", "Author", "Explorer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Lindbergh"
 lastUpdated: "2026-03-12"

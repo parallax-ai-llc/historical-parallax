@@ -5,7 +5,7 @@ birth: "1478-01-01"
 death: "1546-07-04"
 nationality: "Ottoman Empire"
 occupation: ["Pirate", "Admiral"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hayreddin_-_Algeria_Fine_Art_Museum.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hayreddin_Barbarossa"
 lastUpdated: "2026-02-21"

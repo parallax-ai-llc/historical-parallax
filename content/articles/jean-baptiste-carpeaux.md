@@ -5,7 +5,7 @@ birth: "1827-05-11"
 death: "1875-10-12"
 nationality: "French"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Jean-Baptiste_Carpeaux.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Baptiste_Carpeaux"
 lastUpdated: "2026-02-21"

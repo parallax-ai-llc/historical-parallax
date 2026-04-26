@@ -5,7 +5,7 @@ birth: "1964-02-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jennifer_Doudna_by_Christopher_Michel_in_2023_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jennifer_Doudna"
 lastUpdated: "2026-02-21"

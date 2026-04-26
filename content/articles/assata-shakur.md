@@ -5,7 +5,7 @@ birth: "1947-07-16"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Revolutionary", "Fugitive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Assata_Shakur_%281981_Press_Photo%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Assata_Shakur"
 lastUpdated: "2026-02-26"

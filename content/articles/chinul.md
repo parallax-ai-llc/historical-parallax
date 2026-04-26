@@ -5,7 +5,7 @@ birth: "1158-01-01"
 death: "1210-04-22"
 nationality: "Korean (Goryeo)"
 occupation: ["Monk", "Reformer", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Jinul.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chinul"
 lastUpdated: "2026-02-21"

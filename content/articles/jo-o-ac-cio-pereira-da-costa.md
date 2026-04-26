@@ -5,7 +5,7 @@ birth: "1942-01-01"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Jo%C3%A3o_Ac%C3%A1cio_Pereira_da_Costa%2C_1967.tif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jo%C3%A3o_Ac%C3%A1cio_Pereira_da_Costa"
 lastUpdated: "2026-02-26"

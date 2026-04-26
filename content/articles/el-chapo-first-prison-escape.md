@@ -5,7 +5,7 @@ birth: "2001-01-19"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Booking_photo_of_Joaquin_%E2%80%9CEl_Chapo%E2%80%9C_Guzman_%28front%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Chapo_First_Prison_Escape"
 lastUpdated: "2026-02-26"

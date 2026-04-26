@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "Ivory Coast"
 occupation: ["Militia Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Mohini_01.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Bl%C3%A9_Goud%C3%A9"
 lastUpdated: "2026-02-26"

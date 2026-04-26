@@ -6,7 +6,7 @@ location: "London, England"
 coordinates: [-0.108, 51.52]
 category: ["Crime", "United Kingdom"]
 outcome: "Estimated £14 million stolen"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/88-90_Hatton_Garden%2C_front_door_TQ3181_U23_%28perspective%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hatton_Garden_safe_deposit_burglary"
 lastUpdated: "2026-02-26"

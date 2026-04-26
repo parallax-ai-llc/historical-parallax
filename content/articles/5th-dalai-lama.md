@@ -5,7 +5,7 @@ birth: "1617-01-01"
 death: "1682-01-01"
 nationality: "Tibetan"
 occupation: ["Spiritual Leader", "Political Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Thangka_of_the_5th_Dalai_Lama.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/5th_Dalai_Lama"
 lastUpdated: "2026-02-21"

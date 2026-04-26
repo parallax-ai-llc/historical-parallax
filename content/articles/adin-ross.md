@@ -3,6 +3,7 @@ name: "Adin Ross"
 birth: "2000-10-11"
 nationality: "American"
 occupation: ["Streamer", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Adin_Ross_in_2025.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adin_Ross"
 lastUpdated: "2026-03-11"

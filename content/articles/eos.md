@@ -5,7 +5,7 @@ birth: "2017-01-01"
 death: "Unknown"
 nationality: "Cayman Islands"
 occupation: ["Financial Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/A_terracotta_lekanis_dish_depicting_dawn_eos_on_chariot_with_four_horses_eros_a_woman_and_a_swan_late_4th_century_metropolitan_museum_of_art_cropped_detail_eos.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/EOS"
 lastUpdated: "2026-02-26"

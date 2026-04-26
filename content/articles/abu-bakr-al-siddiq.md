@@ -5,7 +5,7 @@ birth: "0573-10-27"
 death: "0634-08-23"
 nationality: "Arabian"
 occupation: ["Caliph", "Companion of the Prophet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/20131203_Istanbul_091.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Bakr_al-Siddiq"
 lastUpdated: "2026-02-21"

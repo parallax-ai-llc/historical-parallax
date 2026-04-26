@@ -3,6 +3,7 @@ name: "Chaz Bono"
 birth: "1969-03-04"
 nationality: "American"
 occupation: ["Activist", "Author", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Chaz_Bono_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chaz_Bono"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1914-03-05"
 death: "2011-06-20"
 nationality: "Chinese"
 occupation: ["Nuclear Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/He_Zehui.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/He_Zehui"
 lastUpdated: "2026-02-21"

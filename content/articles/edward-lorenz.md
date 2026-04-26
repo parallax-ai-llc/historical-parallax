@@ -5,7 +5,7 @@ birth: "1917-05-23"
 death: "2008-04-16"
 nationality: "American"
 occupation: ["Mathematician", "Meteorologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/EdwardLorenz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edward_Lorenz"
 lastUpdated: "2026-02-21"

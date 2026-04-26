@@ -5,7 +5,7 @@ birth: "1803-07-31"
 death: "1889-03-08"
 nationality: "Swedish-American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/John_Ericsson_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Ericsson"
 lastUpdated: "2026-02-26"

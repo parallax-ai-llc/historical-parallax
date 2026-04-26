@@ -5,7 +5,7 @@ birth: "1980-12-07"
 death: "Unknown"
 nationality: "Nigerian-British"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Jason_Njoku_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jason_Njoku"
 lastUpdated: "2026-02-21"

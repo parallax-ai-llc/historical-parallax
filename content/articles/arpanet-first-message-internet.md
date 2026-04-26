@@ -5,7 +5,7 @@ birth: "1969-10-29"
 death: "1969-10-29"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Technology"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Arpanet_logical_map%2C_march_1977.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/ARPANET_First_Message_Internet"
 lastUpdated: "2026-02-21"

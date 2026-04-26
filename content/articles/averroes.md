@@ -5,7 +5,7 @@ birth: "1126-04-14"
 death: "1198-12-10"
 nationality: "Andalusian"
 occupation: ["Philosopher", "Jurist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Andrea_di_bonaiuto%2C_apotesosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Averroes"
 lastUpdated: "2026-02-21"

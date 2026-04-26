@@ -5,7 +5,7 @@ birth: "1929-01-01"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Historical demographer", "Economist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hayami_Akira.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hayami_Akira"
 lastUpdated: "2026-02-21"

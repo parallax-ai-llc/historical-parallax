@@ -5,7 +5,7 @@ birth: "1999-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Poway_shooting_CCTV_still.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Earnest"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1659-08-20"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Every%2CHenry.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Every"
 lastUpdated: "2026-02-26"

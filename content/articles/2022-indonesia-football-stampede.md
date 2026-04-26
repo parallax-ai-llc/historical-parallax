@@ -5,7 +5,7 @@ birth: "2022-10-01"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Early_pitch_invasion_at_Kanjuruhan_Stadium_before_stampede_-_ANTARA_TV.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2022_Indonesia_Football_Stampede"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1945-02-06"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Elba_Esther_Gordillo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elba_Esther_Gordillo"
 lastUpdated: "2026-02-26"

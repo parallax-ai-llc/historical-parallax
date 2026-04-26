@@ -5,7 +5,7 @@ birth: "1976-08-16"
 death: "Unknown"
 nationality: "Iranian"
 occupation: ["Athlete", "Olympic Champion", "Taekwondo"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hadi_Saei_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hadi_Saei"
 lastUpdated: "2026-02-26"

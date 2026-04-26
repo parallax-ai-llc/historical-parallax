@@ -3,6 +3,7 @@ name: "Hannah Gadsby"
 birth: "1978-01-12"
 nationality: "Australian"
 occupation: ["Comedian", "Writer", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hannah-Gadsby-at-the-2024-Edinburgh-Festival-Fringe-2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hannah_Gadsby"
 lastUpdated: "2026-03-12"

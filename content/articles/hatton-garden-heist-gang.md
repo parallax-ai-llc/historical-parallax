@@ -5,7 +5,7 @@ birth: "1945-01-01"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Thief"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/88-90_Hatton_Garden%2C_front_door_TQ3181_U23_%28perspective%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hatton_Garden_Heist_Gang"
 lastUpdated: "2026-02-26"

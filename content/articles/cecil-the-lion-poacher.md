@@ -5,7 +5,7 @@ birth: "1966-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cecil_the_lion_at_Hwange_National_Park_%284516560206%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cecil_the_lion_poacher"
 lastUpdated: "2026-02-26"

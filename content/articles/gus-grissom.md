@@ -4,6 +4,7 @@ birth: "1926-04-03"
 death: "1967-01-27"
 nationality: "American"
 occupation: ["Astronaut", "Test Pilot"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Virgil_I._%28Gus%29_Grissom_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gus_Grissom"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1956-07-01"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dr._Ashoke_Sen_in_Physics_department_of_Scottish_Church_College.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ashoke_Sen"
 lastUpdated: "2026-02-21"

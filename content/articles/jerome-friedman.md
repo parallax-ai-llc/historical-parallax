@@ -5,7 +5,7 @@ birth: "1930-03-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/OIST_BOG_Members_After_Meeting_Prime_Minister_Shinzo_Abe_4_October_2013_20131004_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jerome_Friedman"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1987-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Wanted_Poster%2C_Joaquin_Guzman_Lopez_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joaquin_Guzman_Lopez"
 lastUpdated: "2026-02-26"

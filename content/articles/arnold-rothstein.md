@@ -5,7 +5,7 @@ birth: "1882-01-17"
 death: "1928-11-06"
 nationality: "United States"
 occupation: ["Gangster", "Gambler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/American_Gambler_Arnold_Rothstein_At_His_Desk.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnold_Rothstein"
 lastUpdated: "2026-02-21"

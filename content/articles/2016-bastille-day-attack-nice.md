@@ -5,7 +5,7 @@ birth: "2016-07-14"
 death: "Unknown"
 nationality: "France"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nice_Promenade_des_Anglais_FRANCE-cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2016_Bastille_Day_Attack_Nice"
 lastUpdated: "2026-02-26"

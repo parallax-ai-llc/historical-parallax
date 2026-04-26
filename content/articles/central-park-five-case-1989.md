@@ -6,7 +6,7 @@ location: "New York City, United States"
 coordinates: [-73.97, 40.78]
 category: ["Wrongful Conviction", "United States"]
 outcome: "Five teenagers wrongfully convicted; exonerated in 2002"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Gate_of_the_Exonerated_in_Central_Park_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Central_Park_jogger_case"
 lastUpdated: "2026-02-26"

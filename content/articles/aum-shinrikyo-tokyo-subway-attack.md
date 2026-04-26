@@ -5,7 +5,7 @@ birth: "1995-03-20"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/%E3%80%90%E5%9C%B0%E4%B8%8B%E9%89%84%E3%82%B5%E3%83%AA%E3%83%B3%E4%BA%8B%E4%BB%B6%E3%80%91%E9%99%A4%E6%9F%93%E3%82%92%E8%A1%8C%E3%81%86%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%93%A1%E3%81%A8%E8%AD%A6%E5%AF%9F%E5%AE%98.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aum_Shinrikyo_Tokyo_Subway_Attack"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1951-04-14"
 death: "Unknown"
 nationality: "British"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gregory_Winter%2C_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gregory_Winter"
 lastUpdated: "2026-02-21"

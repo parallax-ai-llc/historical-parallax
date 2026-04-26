@@ -5,7 +5,7 @@ birth: "1868-11-11"
 death: "1940-06-21"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Self-Portrait%2C_Aged_21_A21192.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Edouard_Vuillard"
 lastUpdated: "2026-02-21"

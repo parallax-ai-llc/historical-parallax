@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Human Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/BourgeoisGentilhomme1688.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jean-Pierre_Bourgeois"
 lastUpdated: "2026-02-26"

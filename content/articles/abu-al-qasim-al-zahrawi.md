@@ -5,7 +5,7 @@ birth: "0936-01-01"
 death: "1013-01-01"
 nationality: "Andalusian"
 occupation: ["Surgeon", "Physician", "Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Al-Zahrawi.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_al-Qasim_al-Zahrawi"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1033-01-01"
 death: "1107-01-01"
 nationality: "Chinese"
 occupation: ["Philosopher", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Cheng_Yi_actor.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheng_Yi"
 lastUpdated: "2026-02-21"

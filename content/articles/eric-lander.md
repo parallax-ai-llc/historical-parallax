@@ -5,7 +5,7 @@ birth: "1957-02-03"
 death: "Unknown"
 nationality: "American"
 occupation: ["Geneticist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Eric_Lander_in_2023_A_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Lander"
 lastUpdated: "2026-02-21"

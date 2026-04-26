@@ -5,7 +5,7 @@ birth: "1995-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Sex Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Chojubin.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Ju-bin"
 lastUpdated: "2026-02-26"

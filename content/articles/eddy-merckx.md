@@ -5,7 +5,7 @@ birth: "1945-06-17"
 death: "Unknown"
 nationality: "Belgian"
 occupation: ["Athlete", "Cyclist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Eddy_Merckx_en_1971.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eddy_Merckx"
 lastUpdated: "2026-02-26"

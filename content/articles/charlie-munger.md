@@ -5,7 +5,7 @@ birth: "1924-01-01"
 death: "2023-11-28"
 nationality: "American"
 occupation: ["Investor", "Attorney"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Charlie_Munger_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charlie_Munger"
 lastUpdated: "2026-02-21"

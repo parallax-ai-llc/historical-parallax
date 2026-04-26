@@ -5,7 +5,7 @@ birth: "1924-12-06"
 death: "1965-05-18"
 nationality: "Israel"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Eli_Cohen_1959_Portrait_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eli_Cohen"
 lastUpdated: "2026-02-26"

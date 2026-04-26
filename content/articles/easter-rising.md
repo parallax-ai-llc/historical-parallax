@@ -5,7 +5,7 @@ birth: "1916-04-24"
 death: "1916-04-30"
 nationality: "Ireland"
 occupation: ["Historical Event", "Revolution", "Independence"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_shell_of_the_G.P.O._on_Sackville_Street_after_the_Easter_Rising_%286937669789%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Easter_Rising"
 lastUpdated: "2026-02-21"

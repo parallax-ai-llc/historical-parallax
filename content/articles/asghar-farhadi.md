@@ -5,7 +5,7 @@ birth: "1972-05-07"
 death: "Unknown"
 nationality: "Iranian"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Asghar_Farhadi_in_2018-2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asghar_Farhadi"
 lastUpdated: "2026-02-21"

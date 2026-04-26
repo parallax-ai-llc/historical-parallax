@@ -5,7 +5,7 @@ birth: "1965-02-02"
 death: "Unknown"
 nationality: "Gambia"
 occupation: ["Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Adama_Barrow_at_the_15th_OIC_Summit.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adama_Barrow"
 lastUpdated: "2026-02-26"

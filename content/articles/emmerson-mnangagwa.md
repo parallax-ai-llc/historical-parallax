@@ -5,7 +5,7 @@ birth: "1942-09-15"
 death: "Unknown"
 nationality: "Zimbabwe"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Emmerson_Mnangagwa_at_US-Africa_Business_Summit%2C_2023_%283x4%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Emmerson_Mnangagwa"
 lastUpdated: "2026-02-26"

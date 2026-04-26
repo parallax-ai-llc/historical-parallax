@@ -5,7 +5,7 @@ birth: "1821-02-03"
 death: "1910-05-31"
 nationality: "British-American"
 occupation: ["Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Elizabeth_Blackwell.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Elizabeth_Blackwell"
 lastUpdated: "2026-02-21"

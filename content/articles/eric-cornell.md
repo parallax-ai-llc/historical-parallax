@@ -5,7 +5,7 @@ birth: "1961-12-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Physics_Nobel_Laureate_Eric_Allin_Cornell%2C_in_June_of_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eric_Cornell"
 lastUpdated: "2026-02-26"

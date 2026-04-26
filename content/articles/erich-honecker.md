@@ -5,7 +5,7 @@ birth: "1912-08-25"
 death: "1994-05-29"
 nationality: "Germany"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bundesarchiv_Bild_183-R1220-401%2C_Erich_Honecker_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Erich_Honecker"
 lastUpdated: "2026-02-26"

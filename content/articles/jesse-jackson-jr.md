@@ -5,7 +5,7 @@ birth: "1965-03-11"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jesse_Jackson%2C_Jr.%2C_official_photo_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jesse_Jackson_Jr."
 lastUpdated: "2026-02-26"

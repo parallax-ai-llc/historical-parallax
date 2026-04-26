@@ -5,7 +5,7 @@ birth: "1943-02-15"
 death: "2012-09-03"
 nationality: "Colombia"
 occupation: ["Drug Lord", "Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Griselda_Blanco_Medellin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Griselda_Blanco"
 lastUpdated: "2026-02-21"
