@@ -3,6 +3,7 @@ name: "Ricky Martin"
 birth: "1971-12-24"
 nationality: "Puerto Rican"
 occupation: ["Singer", "Actor", "LGBTQ Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ricky_Martin_2018.jpg/800px-Ricky_Martin_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ricky_Martin"
 lastUpdated: "2026-03-12"

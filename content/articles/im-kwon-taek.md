@@ -5,7 +5,7 @@ birth: "1936-05-02"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Film director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Im_Kwon-taek_at_2014_Cannes_Film_Festival.jpg/800px-Im_Kwon-taek_at_2014_Cannes_Film_Festival.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Im_Kwon-taek"
 lastUpdated: "2026-02-21"

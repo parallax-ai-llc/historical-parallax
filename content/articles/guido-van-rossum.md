@@ -5,7 +5,7 @@ birth: "1956-01-31"
 death: "Unknown"
 nationality: "Dutch"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/800px-Guido_van_Rossum_OSCON_2006.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Guido_van_Rossum"
 lastUpdated: "2026-02-21"

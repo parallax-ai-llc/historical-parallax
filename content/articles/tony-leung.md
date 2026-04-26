@@ -3,6 +3,7 @@ name: "Tony Leung"
 birth: "1962-06-27"
 nationality: "Hong Kong"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tony_Leung_Cannes.jpg/800px-Tony_Leung_Cannes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tony_Leung_Chiu-wai"
 lastUpdated: "2026-03-12"

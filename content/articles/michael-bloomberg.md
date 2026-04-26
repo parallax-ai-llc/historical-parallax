@@ -5,7 +5,7 @@ birth: "1942-02-14"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Michael_R_Bloomberg.jpg/800px-Michael_R_Bloomberg.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Bloomberg"
 lastUpdated: "2026-02-21"

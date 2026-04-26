@@ -5,7 +5,7 @@ birth: "1935-01-31"
 death: "2023-03-03"
 nationality: "Japanese"
 occupation: ["Novelist", "Essayist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kenzaburo_Oe_1_2012.jpg/800px-Kenzaburo_Oe_1_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenzaburo_Oe"
 lastUpdated: "2026-02-21"

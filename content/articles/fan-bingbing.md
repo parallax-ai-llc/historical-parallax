@@ -3,6 +3,7 @@ name: "Fan Bingbing"
 birth: "1981-09-16"
 nationality: "Chinese"
 occupation: ["Actress", "Singer", "Film Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fan_Bingbing_Cannes_2017.jpg/800px-Fan_Bingbing_Cannes_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fan_Bingbing"
 lastUpdated: "2026-03-12"

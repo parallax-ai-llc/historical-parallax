@@ -4,6 +4,7 @@ birth: "1898-05-03"
 death: "1978-12-08"
 nationality: "Israeli (Ukrainian-born)"
 occupation: ["Prime Minister", "Politician", "Diplomat"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Golda_Meir_03265u.jpg/800px-Golda_Meir_03265u.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Golda_Meir"
 lastUpdated: "2025-12-22"

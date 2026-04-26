@@ -5,7 +5,7 @@ birth: "1969-11-07"
 death: "Unknown"
 nationality: "Taiwanese-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lisa_Su_-_3076_%28cropped%29.jpg/800px-Lisa_Su_-_3076_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lisa_Su"
 lastUpdated: "2026-02-21"

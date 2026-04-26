@@ -5,7 +5,7 @@ birth: "1955-02-17"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mo_Yan_2008.jpg/800px-Mo_Yan_2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mo_Yan"
 lastUpdated: "2026-02-21"

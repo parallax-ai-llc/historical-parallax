@@ -5,7 +5,7 @@ birth: "1973-10-22"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ichiro_Suzuki_in_2010.jpg/800px-Ichiro_Suzuki_in_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ichiro_Suzuki"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1903-12-12"
 death: "1963-12-12"
 nationality: "Japanese"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ozu_Yasujiro.jpg/800px-Ozu_Yasujiro.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yasujiro_Ozu"
 lastUpdated: "2026-02-21"

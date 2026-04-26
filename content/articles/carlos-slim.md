@@ -5,7 +5,7 @@ birth: "1940-01-28"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Controversial Businessman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Carlos_Slim_Hel%C3%BA.jpg/800px-Carlos_Slim_Hel%C3%BA.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Carlos_Slim"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1964-09-25"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marc_Benioff_2014.jpg/800px-Marc_Benioff_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marc_Benioff"
 lastUpdated: "2026-02-21"

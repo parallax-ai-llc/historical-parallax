@@ -5,7 +5,7 @@ birth: "1938-04-08"
 death: "2018-08-18"
 nationality: "Ghanaian"
 occupation: ["Diplomat"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kofi_Annan_-_World_Economic_Forum_Annual_Meeting_2012.jpg/800px-Kofi_Annan_-_World_Economic_Forum_Annual_Meeting_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kofi_Annan"
 lastUpdated: "2026-02-26"

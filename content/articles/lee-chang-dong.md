@@ -5,7 +5,7 @@ birth: "1954-04-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Film Director", "Screenwriter", "Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lee_Chang-dong_Cannes_2018.jpg/800px-Lee_Chang-dong_Cannes_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Chang-dong"
 lastUpdated: "2026-02-21"

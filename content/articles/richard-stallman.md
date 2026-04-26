@@ -5,7 +5,7 @@ birth: "1953-03-16"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist", "Software Freedom Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Richard_Stallman_at_LibrePlanet_2019.jpg/800px-Richard_Stallman_at_LibrePlanet_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Richard_Stallman"
 lastUpdated: "2026-02-21"

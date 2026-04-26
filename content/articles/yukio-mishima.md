@@ -5,7 +5,7 @@ birth: "1925-01-14"
 death: "1970-11-25"
 nationality: "Japanese"
 occupation: ["Novelist", "Playwright", "Actor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yukio_Mishima_01.jpg/800px-Yukio_Mishima_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yukio_Mishima"
 lastUpdated: "2026-02-21"

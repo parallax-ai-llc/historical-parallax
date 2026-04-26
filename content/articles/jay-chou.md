@@ -5,7 +5,7 @@ birth: "1979-01-18"
 death: "Unknown"
 nationality: "Taiwanese"
 occupation: ["Musician", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jay_Chou_at_2018_Berlin_Film_Festival.jpg/800px-Jay_Chou_at_2018_Berlin_Film_Festival.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jay_Chou"
 lastUpdated: "2026-02-26"

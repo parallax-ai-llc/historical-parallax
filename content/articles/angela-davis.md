@@ -3,6 +3,7 @@ name: "Angela Davis"
 birth: "1944-01-26"
 nationality: "American"
 occupation: ["Political Activist", "Author", "Academic"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Angela_Davis_2012.jpg/800px-Angela_Davis_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angela_Davis"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1962-02-01"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Artist", "Cultural theorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Takashi_Murakami_at_Versailles.jpg/800px-Takashi_Murakami_at_Versailles.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takashi_Murakami"
 lastUpdated: "2026-02-21"

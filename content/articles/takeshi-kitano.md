@@ -3,6 +3,7 @@ name: "Takeshi Kitano"
 birth: "1947-01-18"
 nationality: "Japanese"
 occupation: ["Director", "Actor", "Comedian", "Writer", "Painter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Takeshi_Kitano_Cannes_2010.jpg/800px-Takeshi_Kitano_Cannes_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takeshi_Kitano"
 lastUpdated: "2026-03-12"

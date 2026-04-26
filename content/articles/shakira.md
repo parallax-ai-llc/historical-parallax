@@ -3,6 +3,7 @@ name: "Shakira"
 birth: "1977-02-02"
 nationality: "Colombian"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Shakira_-_Rock_in_Rio_Madrid_2010_-_06.jpg/800px-Shakira_-_Rock_in_Rio_Madrid_2010_-_06.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shakira"
 lastUpdated: "2026-03-12"

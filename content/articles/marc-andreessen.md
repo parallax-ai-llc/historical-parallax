@@ -5,7 +5,7 @@ birth: "1971-07-09"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist", "Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Marc_Andreessen.jpg/800px-Marc_Andreessen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marc_Andreessen"
 lastUpdated: "2026-02-21"
