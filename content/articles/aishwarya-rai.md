@@ -3,6 +3,7 @@ name: "Aishwarya Rai"
 birth: "1973-11-01"
 nationality: "Indian"
 occupation: ["Actress", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aishwarya_Rai_Cannes_2018_2_%28cropped%29.jpg/800px-Aishwarya_Rai_Cannes_2018_2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aishwarya_Rai"
 lastUpdated: "2026-03-12"

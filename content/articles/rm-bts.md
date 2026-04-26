@@ -3,6 +3,7 @@ name: "RM (BTS)"
 birth: "1994-09-12"
 nationality: "South Korean"
 occupation: ["Singer", "Rapper", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/RM_for_Indigo_press_conference_2022.png/800px-RM_for_Indigo_press_conference_2022.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/RM_(rapper)"
 lastUpdated: "2026-03-11"

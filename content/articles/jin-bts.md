@@ -3,6 +3,7 @@ name: "Jin (BTS)"
 birth: "1992-12-04"
 nationality: "South Korean"
 occupation: ["Singer", "Actor", "Entertainer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jin_at_BTS_press_conference_2022.png/800px-Jin_at_BTS_press_conference_2022.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jin_(singer)"
 lastUpdated: "2026-03-11"

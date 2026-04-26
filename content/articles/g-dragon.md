@@ -3,6 +3,7 @@ name: "G-Dragon"
 birth: "1988-08-18"
 nationality: "South Korean"
 occupation: ["Rapper", "Singer", "Fashion Icon"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/G-Dragon_at_Chanel_Cruise_2017_Show.jpg/800px-G-Dragon_at_Chanel_Cruise_2017_Show.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/G-Dragon"
 lastUpdated: "2026-03-11"

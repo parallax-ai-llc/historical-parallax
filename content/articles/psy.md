@@ -3,6 +3,7 @@ name: "PSY"
 birth: "1977-12-31"
 nationality: "South Korean"
 occupation: ["Singer", "Rapper", "Record Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PSY_in_2013.jpg/800px-PSY_in_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Psy"
 lastUpdated: "2026-03-11"

@@ -4,6 +4,7 @@ birth: "1844-10-15"
 death: "1900-08-25"
 nationality: "German"
 occupation: ["Philosopher", "Cultural Critic", "Philologist", "Poet"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/800px-Nietzsche187a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
 lastUpdated: "2025-12-22"

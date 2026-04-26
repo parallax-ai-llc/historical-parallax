@@ -3,6 +3,7 @@ name: "Lee Min-ho"
 birth: "1987-06-22"
 nationality: "South Korean"
 occupation: ["Actor", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lee_Min-ho_at_Innisfree_event%2C_22_April_2014_06.jpg/800px-Lee_Min-ho_at_Innisfree_event%2C_22_April_2014_06.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Min-ho_(actor)"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Hyun Bin"
 birth: "1982-09-25"
 nationality: "South Korean"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hyun_Bin_at_the_Confidential_Assignment_press_conference_2017.png/800px-Hyun_Bin_at_the_Confidential_Assignment_press_conference_2017.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hyun_Bin"
 lastUpdated: "2026-03-12"

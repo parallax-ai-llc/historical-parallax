@@ -4,6 +4,7 @@ birth: "1818-05-05"
 death: "1883-03-14"
 nationality: "German (stateless)"
 occupation: ["Philosopher", "Economist", "Historian", "Revolutionary"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Karl_Marx_001.jpg/800px-Karl_Marx_001.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Marx"
 lastUpdated: "2025-12-22"

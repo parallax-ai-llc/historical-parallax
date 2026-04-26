@@ -3,6 +3,7 @@ name: "Ranveer Singh"
 birth: "1985-07-06"
 nationality: "Indian"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ranveer_Singh_at_GQ_Style_Awards_2018.jpg/800px-Ranveer_Singh_at_GQ_Style_Awards_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ranveer_Singh"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Amitabh Bachchan"
 birth: "1942-10-11"
 nationality: "Indian"
 occupation: ["Actor", "Filmmaker", "Television Host"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Amitabh_Bachchan_at_the_3rd_Indian_Telly_Awards.jpg/800px-Amitabh_Bachchan_at_the_3rd_Indian_Telly_Awards.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amitabh_Bachchan"
 lastUpdated: "2026-03-12"

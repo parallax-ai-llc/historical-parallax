@@ -3,6 +3,7 @@ name: "Song Hye-kyo"
 birth: "1981-11-22"
 nationality: "South Korean"
 occupation: ["Actress", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Song_Hye-kyo_at_the_2018_Mnet_Asian_Music_Awards_red_carpet.png/800px-Song_Hye-kyo_at_the_2018_Mnet_Asian_Music_Awards_red_carpet.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Song_Hye-kyo"
 lastUpdated: "2026-03-12"

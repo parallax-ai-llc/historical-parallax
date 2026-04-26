@@ -5,7 +5,7 @@ birth: "1992-07-08"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Son_Heung-min_2018.jpg/800px-Son_Heung-min_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Son_Heung-min"
 lastUpdated: "2026-02-26"

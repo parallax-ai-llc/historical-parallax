@@ -3,6 +3,7 @@ name: "Deepika Padukone"
 birth: "1986-01-05"
 nationality: "Indian"
 occupation: ["Actress", "Model", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Deepika_Padukone_Cannes_2022.jpg/800px-Deepika_Padukone_Cannes_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Deepika_Padukone"
 lastUpdated: "2026-03-12"

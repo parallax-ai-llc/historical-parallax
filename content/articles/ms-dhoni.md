@@ -5,7 +5,7 @@ birth: "1981-07-07"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Athlete", "Cricket Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MS_Dhoni_January_2016_%28cropped%29.jpg/800px-MS_Dhoni_January_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/MS_Dhoni"
 lastUpdated: "2026-02-26"

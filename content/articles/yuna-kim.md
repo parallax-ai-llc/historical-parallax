@@ -5,7 +5,7 @@ birth: "1990-09-05"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Figure Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Yuna_Kim_at_2010_Winter_Olympics.jpg/800px-Yuna_Kim_at_2010_Winter_Olympics.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yuna_Kim"
 lastUpdated: "2026-02-26"

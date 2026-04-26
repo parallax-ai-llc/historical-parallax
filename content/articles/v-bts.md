@@ -3,6 +3,7 @@ name: "V (BTS)"
 birth: "1995-12-30"
 nationality: "South Korean"
 occupation: ["Singer", "Actor", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/V_for_Layover_press_conference_2023.png/800px-V_for_Layover_press_conference_2023.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/V_(singer)"
 lastUpdated: "2026-03-11"

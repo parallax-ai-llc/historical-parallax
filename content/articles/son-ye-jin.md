@@ -3,6 +3,7 @@ name: "Son Ye-jin"
 birth: "1982-01-11"
 nationality: "South Korean"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Son_Ye-jin_at_the_Be_with_You_press_conference_in_2018.png/800px-Son_Ye-jin_at_the_Be_with_You_press_conference_in_2018.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Son_Ye-jin"
 lastUpdated: "2026-03-12"

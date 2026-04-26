@@ -3,6 +3,7 @@ name: "Amartya Sen"
 birth: "1933-11-03"
 nationality: "Indian"
 occupation: ["Economist", "Philosopher"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Amartya_Sen_NIH.jpg/800px-Amartya_Sen_NIH.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amartya_Sen"
 lastUpdated: "2026-03-12"

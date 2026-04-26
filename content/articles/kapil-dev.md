@@ -5,7 +5,7 @@ birth: "1959-01-06"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Athlete", "Cricket Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kapil_Dev_2012-04-13_15-31.jpg/800px-Kapil_Dev_2012-04-13_15-31.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kapil_Dev"
 lastUpdated: "2026-02-26"

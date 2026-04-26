@@ -3,6 +3,7 @@ name: "Park Seo-joon"
 birth: "1988-12-16"
 nationality: "South Korean"
 occupation: ["Actor", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Park_Seo-joon_at_a_fanmeeting_in_2017.png/800px-Park_Seo-joon_at_a_fanmeeting_in_2017.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Seo-joon"
 lastUpdated: "2026-03-12"

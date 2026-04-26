@@ -4,6 +4,7 @@ birth: "1724-04-22"
 death: "1804-02-12"
 nationality: "German (Prussian)"
 occupation: ["Philosopher", "Professor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Immanuel_Kant_%28painted_portrait%29.jpg/800px-Immanuel_Kant_%28painted_portrait%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Immanuel_Kant"
 lastUpdated: "2025-12-22"

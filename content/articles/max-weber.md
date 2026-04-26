@@ -4,6 +4,7 @@ birth: "1864-04-21"
 death: "1920-06-14"
 nationality: "German"
 occupation: ["Sociologist", "Economist", "Political Scientist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Max_Weber_1894.jpg/800px-Max_Weber_1894.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Max_Weber"
 lastUpdated: "2026-03-12"

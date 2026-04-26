@@ -3,6 +3,7 @@ name: Noam Chomsky
 birth: "1928-12-07"
 nationality: American
 occupation: ["Linguist", "Philosopher", "Cognitive Scientist", "Political Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Noam_Chomsky_portrait_2017_retouched.jpg/800px-Noam_Chomsky_portrait_2017_retouched.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Noam_Chomsky"
 lastUpdated: "2025-12-22"

@@ -5,7 +5,7 @@ birth: "1981-02-25"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Park_Ji-sung_in_Bagan_03.jpg/800px-Park_Ji-sung_in_Bagan_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Ji-sung"
 lastUpdated: "2026-02-26"

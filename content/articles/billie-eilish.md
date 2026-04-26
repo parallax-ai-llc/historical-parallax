@@ -5,7 +5,7 @@ birth: "2001-12-18"
 death: "Unknown"
 nationality: "American"
 occupation: ["Singer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Billie_Eilish_at_a_concert_2019.jpg/800px-Billie_Eilish_at_a_concert_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Billie_Eilish"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Park Shin-hye"
 birth: "1990-02-18"
 nationality: "South Korean"
 occupation: ["Actress", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Park_Shin-hye_at_The_Royal_Tailor_VIP_premiere%2C_22_December_2014_01.jpg/800px-Park_Shin-hye_at_The_Royal_Tailor_VIP_premiere%2C_22_December_2014_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Shin-hye"
 lastUpdated: "2026-03-12"

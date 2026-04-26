@@ -3,6 +3,7 @@ name: "Park Bo-gum"
 birth: "1993-06-16"
 nationality: "South Korean"
 occupation: ["Actor", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Park_Bo-gum_at_a_fanmeeting_in_2017.png/800px-Park_Bo-gum_at_a_fanmeeting_in_2017.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Bo-gum"
 lastUpdated: "2026-03-12"

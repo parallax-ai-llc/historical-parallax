@@ -3,6 +3,7 @@ name: "Salman Khan"
 birth: "1965-12-27"
 nationality: "Indian"
 occupation: ["Actor", "Producer", "Television Host"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Salman_Khan_at_Renault_Star_Guild_Awards.jpg/800px-Salman_Khan_at_Renault_Star_Guild_Awards.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salman_Khan"
 lastUpdated: "2026-03-12"

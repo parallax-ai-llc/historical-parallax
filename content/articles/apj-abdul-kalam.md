@@ -5,7 +5,7 @@ birth: "1931-10-15"
 death: "2015-07-27"
 nationality: "Indian"
 occupation: ["Aerospace Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/800px-A._P._J._Abdul_Kalam.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/APJ_Abdul_Kalam"
 lastUpdated: "2026-02-26"

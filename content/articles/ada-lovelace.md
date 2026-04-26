@@ -5,7 +5,7 @@ birth: "1815-12-10"
 death: "1852-11-27"
 nationality: "British"
 occupation: ["Mathematician", "Computer Pioneer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/800px-Ada_Lovelace_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ada_Lovelace"
 lastUpdated: "2026-02-21"

@@ -4,6 +4,7 @@ birth: "1137"
 death: "1193-03-04"
 nationality: "Kurdish/Ayyubid"
 occupation: ["Sultan", "Military Commander", "Founder of Ayyubid Dynasty"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Saladin2.jpg/800px-Saladin2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saladin"
 lastUpdated: "2025-12-22"

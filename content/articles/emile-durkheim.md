@@ -4,6 +4,7 @@ birth: "1858-04-15"
 death: "1917-11-15"
 nationality: "French"
 occupation: ["Sociologist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Emile_Durkheim.jpg/800px-Emile_Durkheim.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim"
 lastUpdated: "2026-03-12"

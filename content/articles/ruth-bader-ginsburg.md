@@ -3,6 +3,7 @@ name: "Ruth Bader Ginsburg"
 birth: "1933-03-15"
 nationality: "American"
 occupation: ["Jurist", "Associate Justice"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ruth_Bader_Ginsburg_2016_portrait.jpg/800px-Ruth_Bader_Ginsburg_2016_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg"
 lastUpdated: "2026-03-12"

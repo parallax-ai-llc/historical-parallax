@@ -3,6 +3,7 @@ name: "Shah Rukh Khan"
 birth: "1965-11-02"
 nationality: "Indian"
 occupation: ["Actor", "Producer", "Television Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg/800px-Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shah_Rukh_Khan"
 lastUpdated: "2026-03-12"

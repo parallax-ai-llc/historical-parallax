@@ -3,6 +3,7 @@ name: "Lee Do-hyun"
 birth: "1995-04-06"
 nationality: "South Korean"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lee_Do-hyun_in_2022.jpg/800px-Lee_Do-hyun_in_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Do-hyun"
 lastUpdated: "2026-03-12"

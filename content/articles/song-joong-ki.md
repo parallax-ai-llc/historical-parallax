@@ -3,6 +3,7 @@ name: "Song Joong-ki"
 birth: "1985-09-19"
 nationality: "South Korean"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Song_Joong-ki_at_a_fanmeeting_in_2017.png/800px-Song_Joong-ki_at_a_fanmeeting_in_2017.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Song_Joong-ki"
 lastUpdated: "2026-03-12"

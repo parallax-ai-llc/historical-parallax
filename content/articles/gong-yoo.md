@@ -3,6 +3,7 @@ name: "Gong Yoo"
 birth: "1979-07-10"
 nationality: "South Korean"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gong_Yoo_at_the_Busan_Film_Festival_2016.jpg/800px-Gong_Yoo_at_the_Busan_Film_Festival_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gong_Yoo"
 lastUpdated: "2026-03-12"

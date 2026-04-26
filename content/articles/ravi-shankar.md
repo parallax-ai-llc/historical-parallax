@@ -5,7 +5,7 @@ birth: "1920-04-07"
 death: "2012-12-11"
 nationality: "Indian"
 occupation: ["Musician", "Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ravi_Shankar_2009_crop.jpg/800px-Ravi_Shankar_2009_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ravi_Shankar"
 lastUpdated: "2026-02-21"

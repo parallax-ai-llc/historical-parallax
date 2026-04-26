@@ -3,6 +3,7 @@ name: "Alia Bhatt"
 birth: "1993-03-15"
 nationality: "Indian"
 occupation: ["Actress", "Singer", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alia_Bhatt_at_Heart_of_Asia_Award_event.jpg/800px-Alia_Bhatt_at_Heart_of_Asia_Award_event.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alia_Bhatt"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Priyanka Chopra"
 birth: "1982-07-18"
 nationality: "Indian"
 occupation: ["Actress", "Singer", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Priyanka_Chopra_Jonas_at_Bvlgari_event_%28cropped%29.jpg/800px-Priyanka_Chopra_Jonas_at_Bvlgari_event_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Priyanka_Chopra"
 lastUpdated: "2026-03-12"

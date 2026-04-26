@@ -3,6 +3,7 @@ name: "Aamir Khan"
 birth: "1965-03-14"
 nationality: "Indian"
 occupation: ["Actor", "Filmmaker", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aamir_Khan_March_2015.jpg/800px-Aamir_Khan_March_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aamir_Khan"
 lastUpdated: "2026-03-12"

@@ -4,6 +4,7 @@ birth: "460 BC"
 death: "400 BC"
 nationality: "Greek"
 occupation: ["Historian", "General"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Thucydides_pushkin01.jpg/800px-Thucydides_pushkin01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thucydides"
 lastUpdated: "2026-03-12"

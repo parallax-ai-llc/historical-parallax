@@ -3,6 +3,7 @@ name: "IU"
 birth: "1993-05-16"
 nationality: "South Korean"
 occupation: ["Singer", "Actress", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/IU_for_Pieces_press_conference_in_2021.jpg/800px-IU_for_Pieces_press_conference_in_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/IU_(singer)"
 lastUpdated: "2026-03-11"

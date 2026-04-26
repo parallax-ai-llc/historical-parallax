@@ -5,7 +5,7 @@ birth: "1921-05-02"
 death: "1992-04-23"
 nationality: "Indian"
 occupation: ["Film Director", "Screenwriter", "Composer", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Satyajit_Ray_with_Honorary_Oscar.jpg/800px-Satyajit_Ray_with_Honorary_Oscar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satyajit_Ray"
 lastUpdated: "2026-02-21"
