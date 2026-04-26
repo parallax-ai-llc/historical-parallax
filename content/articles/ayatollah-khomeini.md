@@ -5,7 +5,7 @@ birth: "1902-09-24"
 death: "1989-06-03"
 nationality: "Iran"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Imam_Khomeini_in_Mehrabad.jpg/800px-Imam_Khomeini_in_Mehrabad.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ayatollah_Khomeini"
 lastUpdated: "2026-02-26"
